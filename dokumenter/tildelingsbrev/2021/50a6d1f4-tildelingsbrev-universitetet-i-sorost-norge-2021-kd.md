@@ -6,25 +6,20 @@
 - Mottaker: Universitetet i Sørøst-Norge
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/tildelingsbrev-2021-for-universitetet-i-sorost-norge-usn-.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: hentet fra PDF. OBS: 1 tabell. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-a1a8-464b-aa6a-834a50a6d1f4
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Universitetet i Sørøst-Norge
 Postboks 235
 3603 KONGSBERG
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/4547-18
-
-18. desember 2020
+Deres ref                                               Vår ref                                      Dato
+                                                        20/4547-18                                   18. desember 2020
 
 Tildelingsbrev 2021 for Universitetet i Sørøst-Norge (USN)
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2021 sender
@@ -32,71 +27,46 @@ Kunnskapsdepartementet med dette tildelingsbrev til institusjonen. Tildelingsbre
 Kunnskapsdepartementets årlige styringsdokument og skal distribueres til alle medlemmer
 av institusjonens styre. Eventuelle endringer eller ytterligere tildelinger blir formidlet gjennom
 supplerende tildelingsbrev i løpet av 2021.
+
 Tildelingsbrevet for 2021 består av følgende deler:
-1
 
-Regjeringens prioriteringer og forventninger ................................................................... 2
+1     Regjeringens prioriteringer og forventninger ................................................................... 2
+2     Mål.................................................................................................................................. 4
+3     Tildeling ........................................................................................................................ 10
+4     Andre forutsetninger og krav ......................................................................................... 12
+5     Rapportering og resultatoppfølging ............................................................................... 14
 
-2
+ Postadresse                    Kontoradresse                Telefon*                   Avdeling for eierskap i      Saksbehandler
+ Postboks 8119 Dep              Kirkeg. 18                   22 24 90 90                høyere utdanning og          Siri Waalen Bogen
+ 0032 Oslo                                                   Org.nr.                    forskning                    22 24 77 96
+ postmottak@kd.dep.no           www.kd.dep.no                872 417 842
 
-Mål.................................................................................................................................. 4
+[Side 2]
 
-3
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
-Tildeling ........................................................................................................................ 10
-
-4
-
-Andre forutsetninger og krav ......................................................................................... 12
-
-5
-
-Rapportering og resultatoppfølging ............................................................................... 14
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Siri Waalen Bogen
-22 24 77 96
-
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1   Regjeringens prioriteringer og forventninger
 Regjeringen har store ambisjoner for Norge som kunnskapsnasjon. Kunnskap er nøkkelen til
 å gi hver enkelt mulighet til å skape seg et godt liv, og til å møte utfordringene samfunnet vårt
 står overfor i årene som kommer. Utdanningssystemet må i større grad åpnes opp for
 livslang læring, slik at den enkelte får utvikle sin kompetanse.
+
 Kunnskapsdepartementet har fastsatt følgende visjon:
-«Kunnskap og kompetanse for et bærekraftig Norge»
+      «Kunnskap og kompetanse for et bærekraftig Norge»
+
 Visjonen danner grunnlaget for tre overordnede mål for kunnskapssektoren:
-• Alle deltar i arbeids- og samfunnsliv.
-• Alle har den kompetansen som de selv og samfunnet trenger.
-• Samfunnet har tilgang til oppdatert kunnskap av høy kvalitet.
+    • Alle deltar i arbeids- og samfunnsliv.
+    • Alle har den kompetansen som de selv og samfunnet trenger.
+    • Samfunnet har tilgang til oppdatert kunnskap av høy kvalitet.
+
 Kunnskapsdepartementets politikk og budsjettprioriteringer for 2021 for å nå disse målene er
 beskrevet i Prop. 1 S (2020-2021).
+
 Bærekraftsmålene er en universell arbeidsplan for å sikre verdens sosiale, økonomiske og
 miljømessige bærekraft. Bærekraft handler om at vi som lever i dag må jobbe for å dekke
 behovene til dagens befolkning uten å redusere muligheten for fremtidige generasjoner til å
 få dekket sine behov. Kunnskap er helt avgjørende for å lykkes med dette.
+
 Regjeringen har høye ambisjoner for norsk forskning og høyere utdanning. Gjennom å satse
 på kunnskap skal vi ruste oss for fremtiden, skape nye, grønne og lønnsomme
 arbeidsplasser og en bedre og mer effektiv offentlig sektor. Derfor er god tilgang til utdanning
@@ -104,10 +74,12 @@ sentralt. Høy kvalitet i utdanning og forskning er viktig for et velfungerende 
 konkurransedyktig næringsliv og for et bærekraftig velferdssamfunn. Norge skal ha
 verdensledende fagmiljøer som er med på å frembringe kunnskap som kan gi menneskene
 et bedre og rikere liv.
+
 Vi må ta vare på talentene våre. Regjeringen vil legge frem en strategi for forskerrekruttering
 og karriereveier i forskning og høyere utdanning våren 2021. Det er fortsatt for mange
 midlertidige ansatte i universitets- og høyskolesektoren. Selv om oppdaterte data viser en
 nedgang, er det viktig at institusjonene fortsatt reduserer bruken av midlertidige stillinger.
+
 Langtidsplan for høyere utdanning og forskning 2019-2028 gir retning for den nasjonale
 politikken innenfor høyere utdanning og forskning. Langsiktighet i de nasjonale
 prioriteringene bidrar til bedre koordinering og økt forutsigbarhet for forsknings- og
@@ -116,9 +88,11 @@ innovasjonsevne, møte store samfunnsutfordringer og utvikle fagmiljøer av frem
 kvalitet. Satsingen legger til rette for den omstillingen som samfunnet og næringslivet må
 gjennom.
 
-Side 2
+ Side 2
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 3]
+
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 Det er viktig å sørge for samsvar mellom nasjonale prioriteringer og internasjonale satsinger.
 Internasjonalisering er en forutsetning for kvalitet i norsk forskning og høyere utdanning.
@@ -127,11 +101,13 @@ og samarbeid med strategisk viktige land utenfor Europa, jf. Panorama-strategien
 sentrale. Regjeringen vil før sommeren 2021 legge frem en strategi for norsk deltakelse i det
 europeiske forsknings- og innovasjonssamarbeidet i perioden 2021 til 2027 og en strategi for
 norsk deltakelse i det europeiske utdannings-, opplærings-, ungdoms- og idrettssamarbeidet.
+
 Utdanningsløftet 2020 er en storstilt satsing på kompetansetiltak og større kapasitet på alle
 nivåer i utdanningssystemet og er dermed også et viktig tiltak for å følge opp
 Kompetansereformen – Lære hele livet. Covid-19-pandemien har skapt en økonomisk krise
 og forsterket behovet for økt kapasitet og omstilling. Fagskolene, høyskolene, universitetene,
 Diku, NOKUT, Unit og Kompetanse Norge er sentrale for at vi skal lykkes.
+
 Universitetene og høyskolene har gjort en stor jobb for å tilrettelegge utdanningsaktivitet og
 følge opp studentene under pandemien. Situasjonen har vært og vil sannsynligvis også være
 krevende for studentene inn i 2021. En ekspertgruppe har derfor anbefalt tiltak for hvordan
@@ -141,6 +117,7 @@ tilgang på psykososiale tilbud og oppfølging. Det vises til eget brev datert 1
 2020. For øvrig er det usikkert hvordan 2021 blir, men Kunnskapsdepartementet legger til
 grunn at høyskolen organiserer sin virksomhet innenfor de gjeldende anbefalinger og regler
 til det beste for ansatte og studenter.
+
 Høyere yrkesfaglig utdanning og høyere utdanning av høy kvalitet må være tilgjengelig for
 kandidater som nylig har fullført videregående opplæring. Kompetansereformen slår fast at
 universiteter, høyskoler og fagskoler i enda større grad enn tidligere må åpnes for livslang
@@ -151,28 +128,31 @@ campus. For å få til det må studietilbudene være desentraliserte og fleksibl
 gjennom digitale tilbud. Regjeringen er opptatt av at utdanningsinstitusjonene utvikler disse
 tilbudene i nært samarbeid med lokalt arbeidsliv, slik at hele landet får tilgang til relevant
 høyere utdanning.
-Digitalisering muliggjør dyptgående endringer i lærings-, undervisnings- og forskningsprosesser som kan bidra til å nå målene for utdanning og forskning på en bedre og mer
+
+Digitalisering muliggjør dyptgående endringer i lærings-, undervisnings- og forsknings-
+prosesser som kan bidra til å nå målene for utdanning og forskning på en bedre og mer
 effektiv måte. Regjeringen forventer at universitetene, høyskolene og virksomhetene utnytter
 digitaliseringens muligheter til å øke kvaliteten på undervisning og forskning. I den
 forbindelse må institusjonene bl.a. vurdere hvordan erfaringene fra den digitale omleggingen
 under Covid-19-pandemien kan utnyttes til videreutvikling av undervisningsmetoder,
 undervisningskompetanse og eksamensformer.
 
-Side 3
+ Side 3
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 4]
+
+                              Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 Regjeringen tar sikte på å legge frem stortingsmeldinger om arbeidsrelevans i høyere
 utdanning og om styringspolitikk for statlige universiteter og høyskoler, samt en
 lovproposisjon om universitets- og høyskoleloven og en lovproposisjon om fagskoleloven
 våren 2021.
+
 For budsjettprioriteringer for 2021 vises det til Prop. 1 S (2020–2021): kap. 4 om
 programkategori 07.60 Høyere utdanning og forskning og kap. 5 om oppfølging av
 langtidsplanen for forskning og høyere utdanning.
 
-2
-
-Mål
+2   Mål
 
 2.1 Om målstrukturen
 Universiteter og høyskoler har tidligere gitt sine synspunkter på hvordan målstrukturen kan
@@ -180,141 +160,61 @@ gjøres enklere og bedre. Departementet vil foreslå eventuelle endringer i mål
 stortingsmeldingen om styringspolitikk for statlige universiteter og høyskoler er lagt fram. For
 2021 gjelder derfor følgende fire overordnede og langsiktige mål for høyere utdanning og
 forskning:
-1.
-2.
-3.
-4.
 
-Høy kvalitet i utdanning og forskning
-Forskning og utdanning for velferd, verdiskaping og omstilling
-God tilgang til utdanning
-Effektiv, mangfoldig og solid høyere utdanningssektor og forskningssystem
+    1.    Høy kvalitet i utdanning og forskning
+    2.    Forskning og utdanning for velferd, verdiskaping og omstilling
+    3.    God tilgang til utdanning
+    4.    Effektiv, mangfoldig og solid høyere utdanningssektor og forskningssystem
 
 I tillegg til målene har departementet fastsatt styringsparametere for høyere utdanning og
 forskning, jf. tabellen nedenfor. Departementet forventer at institusjonen vurderer egne
 resultater og ambisjoner ut fra de nasjonale styringsparameterne.
+
 Statlige universiteter og høyskoler skal selv fastsette egne virksomhetsmål og relevante
-styringsparametere som gjenspeiler institusjonens profil og utviklingsstrategi. Virksomhetsmålene skal bidra til å nå de overordnede målene, jf. Prop. 1 S (2020-2021).
+styringsparametere som gjenspeiler institusjonens profil og utviklingsstrategi. Virksomhets-
+målene skal bidra til å nå de overordnede målene, jf. Prop. 1 S (2020-2021).
 
-Side 4
+ Side 4
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 5]
+
+                                       Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 Tabell 1: Overordnede mål og nasjonale styringsparametere
-Mål 1: Høy kvalitet i utdanning og
+ Mål 1: Høy kvalitet i utdanning og                   Mål 2: Forskning og                     Mål 3: God tilgang til
+ forskning                                            utdanning for velferd,                  utdanning
+                                                      verdiskaping og omstilling
+ •    andelen studenter på bachelor-                  •    andel mastergrads-                 •    kandidattall på helse-
+      utdanning som gjennomfører på                        kandidater sysselsatt i                 og lærerutdanningene1
+      normert tid                                          relevant arbeid et halvt
+ •    andelen studenter på master-                         år etter fullført utdanning
+      utdanning som gjennomfører på                   •    bidragsinntekter fra
+      normert tid                                          Forskningsrådet per
+ •    andelen ph.d.-kandidater som                         faglig årsverk
+      gjennomfører innen seks år                      •    andre bidrags- og
+ •    skår på hvordan studentene                           oppdragsinntekter per
+      oppfatter studiekvaliteten                           faglig årsverk
+ •    faglig tidsbruk (timer) per uke blant           •    andel forskningsinnsats i
+      heltidsstudenter                                     MNT-fag
+ •    antall publikasjonspoeng per faglig
+      årsverk
+ •    verdien av Horisont 2020-
+      kontrakter per FoU-årsverk
+ •    andel utreisende utvekslings-
+      studenter på Erasmus+ av totalt
+      antall studenter
+ Mål 4: Effektiv, mangfoldig og solid høyere utdanningssektor og forskningssystem
 
-Mål 2: Forskning og
-
-Mål 3: God tilgang til
-
-forskning
-
-utdanning for velferd,
-
-utdanning
-
-verdiskaping og omstilling
-•
-
-•
-
-andelen studenter på bachelor-
-
-•
-
-utdanning som gjennomfører på
-
-kandidater sysselsatt i
-
-normert tid
-
-relevant arbeid et halvt
-
-andelen studenter på master-
-
-år etter fullført utdanning
-
-utdanning som gjennomfører på
-
-•
-
-normert tid
-•
-
-•
-•
-
-og lærerutdanningene1
-
-faglig årsverk
-•
-
-andre bidrags- og
-oppdragsinntekter per
-
-oppfatter studiekvaliteten
-
-faglig årsverk
-
-heltidsstudenter
-
-kandidattall på helse-
-
-bidragsinntekter fra
-
-skår på hvordan studentene
-faglig tidsbruk (timer) per uke blant
-
-•
-
-Forskningsrådet per
-
-andelen ph.d.-kandidater som
-gjennomfører innen seks år
-
-•
-
-andel mastergrads-
-
-•
-
-andel forskningsinnsats i
-MNT-fag
-
-antall publikasjonspoeng per faglig
-årsverk
-
-•
-
-verdien av Horisont 2020kontrakter per FoU-årsverk
-
-•
-
-andel utreisende utvekslingsstudenter på Erasmus+ av totalt
-antall studenter
-
-Mål 4: Effektiv, mangfoldig og solid høyere utdanningssektor og forskningssystem
-•
-
-antall studiepoeng per faglig årsverk2
-
-•
-
-andel kvinner i dosent- og professorstillinger
-
-•
-
-andel midlertidig ansatte i undervisnings- og forskerstillinger
-
-•
-
-andel av samlingene og objektene ved universitetsmuseene som er tilstrekkelig sikret og bevart
-
+ •    antall studiepoeng per faglig årsverk2
+ •    andel kvinner i dosent- og professorstillinger
+ •    andel midlertidig ansatte i undervisnings- og forskerstillinger
+ •    andel av samlingene og objektene ved universitetsmuseene som er tilstrekkelig sikret og bevart
 Dataspesifikasjon er tilgjengelig på nettsiden til Database for statistikk om høgre utdanning (DBH).
 
 Kunnskapsdepartementet har i samarbeid med institusjonene definert samfunns- og
 effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner må ta
 hensyn til disse målene i planer og i styringen av virksomheten.
+
 Kunnskapsdepartementet har fastsatt måltall per institusjon for enkelte utdanninger, jf.
 Orientering om statsbudsjettet 2021 for universitet og høgskular etter vedtak i Stortinget 14.
 desember 2020, kap 2.3. Det er viktig å nå kandidatmåltallene for å sikre arbeidslivet
@@ -324,32 +224,40 @@ tilstrekkelig kompetanse på utvalgte fagområder.
 
 Stortinget 14. desember 2020.
 2 Sammen med de andre styringsparametrene under mål 1 og 2 gir denne styringsparameteren indikasjoner på
+
 utviklingen i effektiviteten ved den enkelte institusjonen.
 
-Side 5
+ Side 5
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 6]
+
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 2.2 Om utviklingsavtaler
 Utviklingsavtalene skal bidra til høy kvalitet og en mangfoldig sektor gjennom tydelige
 institusjonsprofiler og bedre arbeidsdeling, jf. Orientering om statsbudsjettet 2021 for
 universitet og høgskular etter vedtak i Stortinget 14. desember 2020.
+
 For å bidra til å oppfylle målet om bedre arbeidsdeling, ønsker departementet at alle avtalene
-skal ha samme avtaleperiode. Departementet har derfor i 2020 reforhandlet utviklingsavtalene med ni institusjoner slik at avtalene utløper ved utgangen av 2022. Avtalene som
+skal ha samme avtaleperiode. Departementet har derfor i 2020 reforhandlet utviklings-
+avtalene med ni institusjoner slik at avtalene utløper ved utgangen av 2022. Avtalene som
 utløper våren 2022, forlenges ut året 2022. Endelig rapport om måloppnåelse av avtalene
 skal dermed inngå i Årsrapport 2022. Rammene for neste avtaleperiode vil bli omhandlet i
 Styringsmeldingen.
 
 2.3 Utviklingsavtale med USN
 Utviklingsavtalen har 3 målområder: USN Digital, USN Partnerskap og USN Profesjon.
+
 I perioden fram til 31.12. 2022 er de tre målområdene i den opprinnelige utviklingsavtalen
 revidert i tråd med universitetets reviderte strategi, nye eksterne rammebetingelser/nasjonale
 føringer, resultater som er oppnådd og erfaringer som er høstet. Måloppnåelse skal
 konkretiseres i årlige handlingsplaner.
+
 Målområde 1: USN Digital 2022
 USN Digital skal videreutvikle integrerende digitale arbeids- og læringsformer som knytter
 ansatte og studenter på de åtte campusene til én virtuell campus og universitetets
 virksomhet til samarbeidspartnere og omverden.
+
 Målområdet står i dag i en ny kontekst som følge av teknologisk utvikling, nasjonale føringer
 og institusjonelle ambisjoner. Digitalisering griper inn i organisasjonsutvikling, lederutøvelse,
 arbeidsprosesser og virksomhetsstyring. Den digitale kompetansen har økt betraktelig blant
@@ -359,55 +267,55 @@ på tiltak som styrker digitalisering som tema i undervisning og digitale underv
 vurderingsformer i profesjons- og arbeidslivsorienterte studier. En forutsetning for at
 digitalisering kan utløse synergier av betydning, er standardisering og systematikk knyttet til
 alle grunndata – ved den enkelte institusjon, men også i sektoren.
+
 USN Digital 2022 skal fokusere på digitalisering som premiss for organisatorisk utvikling
 og for studieplanarbeid, undervisning og forskning.
+
 Vurdering av måloppnåelse
 Organisasjonsutvikling, administrasjon og virksomhetsstyring:
-• Innarbeide digitalisering i virksomhetsstrategien.
+          • Innarbeide digitalisering i virksomhetsstrategien.
 
-Side 6
+ Side 6
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 7]
 
-•
-•
-•
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
-•
-
-Digitalisert kommunikasjon og samhandling innenfor en flercampusinstitusjon
-med distribuert ledelse og distribuerte administrative fellestjenester.
-Digitaliserte, gjennomgående administrative arbeidsprosesser med kortere
-saksbehandlingstid, redusert behov for manuelle operasjoner, økt
-forutsigbarhet, kvalitet og likebehandling.
-Selvbetjening skal være hovedregelen for studenter og medarbeidere, med
-utgangspunkt i tilgjengelighet 24x7 for tjenestene. Arbeidsprosesser med
-startpunkt hos student/medarbeider skal primært sørge for tilstrekkelig
-innsamling av informasjon til å kunne fullføre
-arbeidsprosessen/saksbehandlingen.
-Digitalt og enkelt tilgjengelig aktuell leder-/styringsinformasjon både for drift
-(kvalitetssikring) og virksomhetsstyring (analyse og prediksjon) som gir
-grunnlag for beslutninger.
+           •   Digitalisert kommunikasjon og samhandling innenfor en flercampusinstitusjon
+               med distribuert ledelse og distribuerte administrative fellestjenester.
+           •   Digitaliserte, gjennomgående administrative arbeidsprosesser med kortere
+               saksbehandlingstid, redusert behov for manuelle operasjoner, økt
+               forutsigbarhet, kvalitet og likebehandling.
+           •   Selvbetjening skal være hovedregelen for studenter og medarbeidere, med
+               utgangspunkt i tilgjengelighet 24x7 for tjenestene. Arbeidsprosesser med
+               startpunkt hos student/medarbeider skal primært sørge for tilstrekkelig
+               innsamling av informasjon til å kunne fullføre
+               arbeidsprosessen/saksbehandlingen.
+           •   Digitalt og enkelt tilgjengelig aktuell leder-/styringsinformasjon både for drift
+               (kvalitetssikring) og virksomhetsstyring (analyse og prediksjon) som gir
+               grunnlag for beslutninger.
 
 Studieplanarbeid, undervisning og forskning:
-• Digitale kunnskaper, ferdigheter og forståelse i studiene skal gjøre at
-uteksaminerte kandidater imøtekommer samfunnets dynamiske
-kompetansebehov.
-• Pedagogisk bruk av IKT og utforskning av bruk av digitale verktøy i
-undervisning, læring og vurdering skal resultere i nye, relevante og innovative
-undervisningsformer.
-• Vurdere og etablere balansen mellom digital og campusbasert undervisning i
-profesjonsutdanningene.
-• Nyskapende digitale ressurser og redskaper som styrker profesjons- og
-arbeidslivsorientering og som også anvendes i nettbaserte etter- og
-videreutdanningsstudier.
-• Tilrettelegge for åpen forskning.
-• Spisse bruken av digitale kommunikasjonsverktøy for å styrke samarbeidet
-med nasjonale og internasjonale UH-institusjoner og arbeidslivet.
+          • Digitale kunnskaper, ferdigheter og forståelse i studiene skal gjøre at
+              uteksaminerte kandidater imøtekommer samfunnets dynamiske
+              kompetansebehov.
+          • Pedagogisk bruk av IKT og utforskning av bruk av digitale verktøy i
+              undervisning, læring og vurdering skal resultere i nye, relevante og innovative
+              undervisningsformer.
+          • Vurdere og etablere balansen mellom digital og campusbasert undervisning i
+              profesjonsutdanningene.
+          • Nyskapende digitale ressurser og redskaper som styrker profesjons- og
+              arbeidslivsorientering og som også anvendes i nettbaserte etter- og
+              videreutdanningsstudier.
+          • Tilrettelegge for åpen forskning.
+          • Spisse bruken av digitale kommunikasjonsverktøy for å styrke samarbeidet
+              med nasjonale og internasjonale UH-institusjoner og arbeidslivet.
+
 Målområde 2: USN Partnerskap 2022
 USN Partnerskap skal bidra til at universitetet leverer kandidater til arbeidslivet med
 oppdatert kunnskap og kompetanse, og initiere anvendt og brukerorientert forskning,
 utvikling og innovasjon som fremmer bærekraftig verdiskaping.
+
 Universitetet skal videreutvikle og ytterligere styrke samhandling og integrasjon med
 kunnskapsintensivt næringsliv som resulterer i nye arbeidslivsrettede utdanningsprogram og
 forsknings-, utviklings- og innovasjonsaktiviteter (FoUI-aktiviteter). Gjennom målområdet skal
@@ -420,38 +328,44 @@ bærekraftig verdiskaping. Målområdet skal fremme faglig konsentrasjon på og 
 og samarbeid mellom universitetets campuser i dialog med lokalt næringsliv,
 virkemiddelapparatet og fylkeskommunene/kommunene som regionale utviklingsaktører.
 
-Side 7
+ Side 7
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 8]
+
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 Vurdering av måloppnåelse
-• Utvikling, implementering og institusjonalisering av en samarbeidsmodell/plattform for
-faglig konsentrasjon, arbeidslivsintegrering og bærekraftig verdiskaping basert på
-lokale konkurransefortrinn (arbeidstittel USN Connect).
-• Videre utvikling av Industriakademiet for å styrke et integrert, forpliktende forskningsog utdanningssamarbeid mellom universitetet og næringslivet.
-o Opprettelse av nye nærings- og industrimastere innenfor flere fagområder.
-o Styrke arbeidslivsintegrert BA-utdanning og EVU.
-• Videreføring av ordningen med FoUI-eksperter for å styrke kunnskaps- og
-kompetansemeglingen mellom industri og akademi og dermed regional
-næringslivsutvikling.
-• Deltakelse i Forskningsrådets virkemiddelprogram for næringsrettet forskning og
-innovasjon.
-• Styrke volumet i universitetets oppdragsvirksomhet.
-• Styrke bidragsfinansiering fra nasjonale og internasjonale finansieringskilder.
-• Øke antall nærings ph.d.-er. og gaveprofessorater.
-• Styrke innovasjon, anvendelse og kommersialisering av forskning. Nye
-forskningsbaserte produkter, tjenester og metoder.
+   • Utvikling, implementering og institusjonalisering av en samarbeidsmodell/plattform for
+      faglig konsentrasjon, arbeidslivsintegrering og bærekraftig verdiskaping basert på
+      lokale konkurransefortrinn (arbeidstittel USN Connect).
+   • Videre utvikling av Industriakademiet for å styrke et integrert, forpliktende forsknings-
+      og utdanningssamarbeid mellom universitetet og næringslivet.
+          o Opprettelse av nye nærings- og industrimastere innenfor flere fagområder.
+          o Styrke arbeidslivsintegrert BA-utdanning og EVU.
+   • Videreføring av ordningen med FoUI-eksperter for å styrke kunnskaps- og
+      kompetansemeglingen mellom industri og akademi og dermed regional
+      næringslivsutvikling.
+   • Deltakelse i Forskningsrådets virkemiddelprogram for næringsrettet forskning og
+      innovasjon.
+   • Styrke volumet i universitetets oppdragsvirksomhet.
+   • Styrke bidragsfinansiering fra nasjonale og internasjonale finansieringskilder.
+   • Øke antall nærings ph.d.-er. og gaveprofessorater.
+   • Styrke innovasjon, anvendelse og kommersialisering av forskning. Nye
+      forskningsbaserte produkter, tjenester og metoder.
 
 Målområde 3: USN Profesjon 2022
 USN Profesjon skal bidra til å styrke samarbeidet mellom universitetet og praksisfeltet
 innenfor lærer- og helse- og sosialfagutdanninger. Ny, relevant og forskningsbasert
 kunnskap for profesjonene og profesjonsutdanningene skal utvikles gjennom
 brukermedvirkning.
+
 USN har utviklet og utprøvd en rekke konsepter/virkemidler/verktøy som har styrket
-samarbeidet mellom universitet og praksisfeltene knyttet til profesjonsutdanningene (helseog sosialfagutdanningene og lærerutdanningene). Gjennom USN Profesjon 2022 skal
+samarbeidet mellom universitet og praksisfeltene knyttet til profesjonsutdanningene (helse-
+og sosialfagutdanningene og lærerutdanningene). Gjennom USN Profesjon 2022 skal
 samarbeidsformene videreutvikles, formaliseres og institusjonaliseres gjennom nye
 samarbeidsavtaler med kommuner, fylkeskommuner, helseforetak og tjenesteenheter.
 Sentrale virkemidler vil være:
+
 Universitetskommuner. Status som universitetskommune skal baseres på en faglig,
 langsiktig samarbeidsavtale mellom universitet og kommunen som bygger på en systemisk
 tilnærming til kunnskap- og kompetanseutvikling i kommunen som tjenesteleverandør og
@@ -459,41 +373,47 @@ utviklingsaktør. Formålet er å legge grunnlaget for forskning, undervisning, 
 deling av kunnskap som svarer på faglige, sosiale og teknologiske utfordringer i
 praksisfeltene. Samarbeidet skal fremme bærekraftig samfunnsutvikling. Etablerte
 virkemidler skal videreutvikles.
+
 Universitetsvirksomheter. Samarbeid med tjenesteenheter og eiere som stiller spesielle
-krav til samarbeidet med en virksomhet: universitetsskoler, -barnehager, -sykehjem, hjemmesykepleie etc.
+krav til samarbeidet med en virksomhet: universitetsskoler, -barnehager, -sykehjem, -
+hjemmesykepleie etc.
 
-Side 8
+ Side 8
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 9]
+
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 Praksisopplæring. Profesjonsutdanningene innenfor helse- og sosialfag og
 lærerutdanningene har en vesentlig og viktig del av studiene i praksis. Samarbeidet skal
 styrke kvaliteten i praksisopplæringen.
+
 Prosjektsamarbeid. Gjennom målområdet skal samarbeidet med eksterne aktører styrke
 brukermedvirkning i utviklingen av FoU og EVU, og gjennom anvendelsen av
 kombinasjonsstillinger og hospiteringsordninger.
+
 Vurdering av måloppnåelse
-• Nye samarbeidsavtaler om virkemidler som styrker forskningsbaserte pedagogiske
-metoder i profesjonsutdanningene og EVU.
-o Utvikle nye pedagogiske ressurser og læringsformer i utdanningene, inkludert
-pedagogisk bruk av IKT.
-o Utvikle tverrfaglige og tverrprofesjonelle emner.
-• Nye samarbeidsavtaler om virkemidler som styrker praksis som læringsarena i
-studentenes utdanningsløp.
-o Etablere nye former for samhandling mellom universitetet og praksisarenaene
-som fremmer studentaktiv forskning.
-o Økt integrasjon mellom fagstudier, profesjonsstudier, forskning, teori og
-praksis.
-o Prøve ut nye praksisformer.
-• Nye samarbeidsavtaler om virkemidler som styrker profesjonsorientert og
-praksisrettet FoU gjennom brukermedvirkning.
-o Initiere praksisnær forskning som kan resultere i kunnskap som underbygger
-profesjonenes virksomhet og profesjonsutdanningene.
-o Knytte forsknings- og utviklingsarbeid til praksissamarbeidet for å
-institusjonalisere forskningsbasert kunnskap i praksis.
-o Styrke volumet i universitetets oppdragsvirksomhet.
-o Styrke bidragsfinansiering fra nasjonale og internasjonale finansieringskilder.
-o Øke antall offentlig ph.d.-er. og gaveprofessorater.
+   • Nye samarbeidsavtaler om virkemidler som styrker forskningsbaserte pedagogiske
+      metoder i profesjonsutdanningene og EVU.
+          o Utvikle nye pedagogiske ressurser og læringsformer i utdanningene, inkludert
+             pedagogisk bruk av IKT.
+          o Utvikle tverrfaglige og tverrprofesjonelle emner.
+   • Nye samarbeidsavtaler om virkemidler som styrker praksis som læringsarena i
+      studentenes utdanningsløp.
+          o Etablere nye former for samhandling mellom universitetet og praksisarenaene
+             som fremmer studentaktiv forskning.
+          o Økt integrasjon mellom fagstudier, profesjonsstudier, forskning, teori og
+             praksis.
+          o Prøve ut nye praksisformer.
+   • Nye samarbeidsavtaler om virkemidler som styrker profesjonsorientert og
+      praksisrettet FoU gjennom brukermedvirkning.
+          o Initiere praksisnær forskning som kan resultere i kunnskap som underbygger
+             profesjonenes virksomhet og profesjonsutdanningene.
+          o Knytte forsknings- og utviklingsarbeid til praksissamarbeidet for å
+             institusjonalisere forskningsbasert kunnskap i praksis.
+          o Styrke volumet i universitetets oppdragsvirksomhet.
+          o Styrke bidragsfinansiering fra nasjonale og internasjonale finansieringskilder.
+          o Øke antall offentlig ph.d.-er. og gaveprofessorater.
 
 2.4 Om campusutviklingsplaner
 En campusutviklingsplan er en helhetlig og langsiktig plan for god bruk og utvikling av bygg,
@@ -506,97 +426,46 @@ oppmerksom på at institusjonene må ta hensyn til Retningslinjer for lokaliseri
 arbeidsplassar og statleg tenesteproduksjon når lokalisering utredes og før styret fatter sine
 beslutninger.
 
-Side 9
+ Side 9
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 10]
+
+                                 Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 2.5 Overordnet gevinstrealiseringsplan for oppfølging av
-strukturreformen
+    strukturreformen
 Kunnskapsdepartementet minner om at regjeringen har besluttet at strukturreformen skal
 følges opp med en overordnet gevinstrealiseringsplan for de UH-institusjonene som har
 fusjonert som følge av reformen. I tillegg har departementet tatt initiativ til at nå gjennomføres
 en forskningsbasert kvalitativ evaluering av reformen. Til sammen vil dette gi et godt
 grunnlag for å vurdere resultatene av reformen og for å utvikle universitets- og
 høyskolesektoren videre.
+
 Regjeringen fastsatte høsten 2019 måltall for 2025 for indikatorer i gevinstrealiseringsplanen.
 Måltall i tabellen nedenfor legges til grunn for 2025. Institusjonen må rapportere på
 utviklingen i årsrapporten.
 
 Tabell 2: Utvalgte mål i strukturreformen som har indikatorer med måltall USN for 2025
+                                                                                      Resultat       Måltall
 Mål og indikatorer
-
-Resultat
-
-Måltall
-
-2018
-
-2025
-
+                                                                                       2018           2025
 1. Utdanning og forskning av høy kvalitet
-Vitenskapelig publisering: publikasjonspoeng per faglige årsverk
-
-0,7
-
-1,2
-
-Tildeling fra NFR per faglige årsverk (1 000 kr)
-
-46
-
-75
-
-Tildeling fra EU per faglige årsverk (1 000 kr)
-
-7
-
-17
-
-Andel årsverk i førstestillinger av faglige ansatte (%)
-
-59
-
-70
-
-4,03
-
-4,20
-
-25
-
-40
-
-2 580
-
-4 000
-
-117
-
-120
-
-43
-
-50
-
-23
-
-24
-
-Skår på hvordan studentene oppfatter studiekvaliteten (skala 1-5)
-Antall avlagte doktorgrader
+Vitenskapelig publisering: publikasjonspoeng per faglige årsverk                              0,7            1,2
+Tildeling fra NFR per faglige årsverk (1 000 kr)                                              46               75
+Tildeling fra EU per faglige årsverk (1 000 kr)                                                  7             17
+Andel årsverk i førstestillinger av faglige ansatte (%)                                       59               70
+Skår på hvordan studentene oppfatter studiekvaliteten (skala 1-5)                          4,03           4,20
+Antall avlagte doktorgrader                                                                   25               40
 3. God tilgang til utdanning og kompetanse over hele landet
-Antall studenter på nettbaserte og desentraliserte utdanninger
+Antall studenter på nettbaserte og desentraliserte utdanninger                            2 580         4 000
 4. Regional utvikling
-Bidrags- og oppdragsfinansiert aktivitet per faglige årsverk (1 000 kr)
+Bidrags- og oppdragsfinansiert aktivitet per faglige årsverk (1 000 kr)                     117           120
 5. Verdensledende fagmiljøer
-Andel internasjonalt samforfatterskap (%)
+Andel internasjonalt samforfatterskap (%)                                                     43               50
 6. Effektiv ressursbruk
-Andel administrative stillinger av totalt antall årsverk (%)
+Andel administrative stillinger av totalt antall årsverk (%)                                  23               24
 
-3
-
-Tildeling
-
+3   Tildeling
 Stortinget har vedtatt statsbudsjettet for 2021, jf. Innst. 12 S (2020–2021) og Prop. 1 S
 (2020–2021).
 
@@ -606,24 +475,24 @@ Stortinget har bevilget 38,8 mrd. kroner over kap. 260, post 50 til universitete
 høyskoler. Det ligger til grunn en prisjustering på 3,2 pst. og et kutt som følge av
 avbyråkratiserings- og effektiviseringsreformen på 0,6 pst. fra 2020 til 2021.
 
-Side 10
+ Side 10
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 11]
 
-Kunnskapsdepartementet tildeler med dette 2 065 408 000 kroner til Universitetet i SørøstNorge. Tabellen nedenfor viser rammebevilgningen for 2020, endringen fra 2020 til 2021 og
+                              Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+
+Kunnskapsdepartementet tildeler med dette 2 065 408 000 kroner til Universitetet i Sørøst-
+Norge. Tabellen nedenfor viser rammebevilgningen for 2020, endringen fra 2020 til 2021 og
 rammebevilgningen for 2021.
-Tabell 1
-Rammebevilgning for 2020
-Endring
-Rammebevilgning for 2021
 
-Beløp i kroner
-1 915 532 000
-149 876 000
-2 065 408 000
+ Tabell 1                                                                          Beløp i kroner
+ Rammebevilgning for 2020                                                          1 915 532 000
+ Endring                                                                            149 876 000
+ Rammebevilgning for 2021                                                          2 065 408 000
 
 For en forklaring av endringene viser vi til Orientering om statsbudsjettet 2021 for universitet
 og høgskular etter vedtak i Stortinget 14. desember 2020.
+
 Kap. 275, post 21
 Kunnskapsdepartementet tildeler med dette 7 530 000 kroner til USN til utvikling og drift av
 partnerskap i lærerutdanningene. I statsbudsjettet for 2021 er tildelingen til
@@ -651,19 +520,17 @@ forskningsformer, samarbeid mellom fagmiljøer og mer sikker digital tilretteleg
 undervisning og forskning. Det vil bli sendt et eget brev med føringer for tildeling av tilskudd i
 løpet av desember. Det legges opp til søknadsfrist 31. mars 2021.
 
-Side 11
+ Side 11
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 12]
 
-4
+                            Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
 
-Regjeringens inkluderingsdugnad
-
+4.1.1   Regjeringens inkluderingsdugnad
 USN skal arbeide for å utvikle rutiner og arbeidsformer for å nå målene for regjeringens
 inkluderingsdugnad. USN skal i årsrapporten gjøre rede for hvordan rekrutteringsarbeidet har
 vært innrettet for å nå målet om at 5 pst. av alle nyansatte skal være personer med nedsatt
@@ -671,12 +538,10 @@ funksjonsevne eller hull i CV-en, vurdere eget arbeid opp mot målene og omtale 
 og vellykkede tiltak. Dersom USN har hatt nyansettelser i faste eller midlertidige stillinger i
 2021, skal antallet nyansatte med nedsatt funksjonsevne eller hull i CV-en, samt antall
 nyansettelser i faste og midlertidige stillinger totalt, rapporteres i årsrapporten. USN skal
-rapportere i tråd med veiledningen (https://arbeidsgiver.difi.no/strategisk-hr-ogledelse/inkluderingsdugnaden/rapportering-pa-inkluderingsdugnaden-i-arsrapporten).
+rapportere i tråd med veiledningen (https://arbeidsgiver.difi.no/strategisk-hr-og-
+ledelse/inkluderingsdugnaden/rapportering-pa-inkluderingsdugnaden-i-arsrapporten).
 
-4.1.2
-
-FNs bærekraftsmål
-
+4.1.2   FNs bærekraftsmål
 Regjeringen skal våren 2021 legge frem en stortingsmelding og en nasjonal handlingsplan
 for hvordan Norge skal nå bærekraftsmålene innen 2030. Handlingsplanen vil legge opp til
 en forsterket innsats fra alle aktører i samfunnet frem mot 2030. USN skal i årsrapporten for
@@ -685,6 +550,7 @@ Rapporteringen skal også gi en overordnet beskrivelse av hvordan institusjonen 
 med å redusere egne klima- og miljøavtrykk.
 
 4.2 Andre krav
+
 4.2.1 Ny digitaliseringsstrategi for universitets- og høyskolesektoren
 På oppdrag fra Kunnskapsdepartementet skal en arbeidsgruppe med representanter fra
 sektoren levere et utkast til ny digitaliseringsstrategi for universitets- og høyskolesektoren
@@ -698,16 +564,16 @@ digitaliseringsstrategien gjennom sine virksomhetsstrategier og sitt utviklingsa
 Departementet forventer at universiteter og høyskoler følger opp digitaliseringsarbeidet i
 samarbeid med Unit, Diku, NOKUT og Forskningsrådet, herunder bl.a. at forskningsdata skal
 følge FAIR-prinsippene, og at IKT-løsninger skal være universelt utformet. Mens fristen for
-universell utforming av nye IKT-løsninger var 1. januar 2019, skal også eksisterende IKTløsninger være universelt utformet innen 1. januar 2021.
+universell utforming av nye IKT-løsninger var 1. januar 2019, skal også eksisterende IKT-
+løsninger være universelt utformet innen 1. januar 2021.
 
-Side 12
+ Side 12
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 13]
 
-4.2.2
+                                  Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
-Samfunnssikkerhet og beredskap (SOB) og sikkerhet etter sikkerhetsloven
-
+4.2.2   Samfunnssikkerhet og beredskap (SOB) og sikkerhet etter sikkerhetsloven
 USN skal jobbe systematisk med sikkerhet og beredskap, herunder både samfunnssikkerhet
 og sikkerhet etter sikkerhetsloven. Styringsdokument for arbeidet med samfunnssikkerhet og
 beredskap i Kunnskapsdepartementets sektor skal ligge til grunn for arbeidet med
@@ -717,103 +583,106 @@ loven, og skal derfor ha et styringssystem for sikkerhet, jf. § 3 i forskriften
 Styringssystemet skal være tilpasset risiko, egenart og de verdier som må beskyttes. For
 flere detaljer, se NSMs Veileder for sikkerhetsstyring og Grunnprinsipper for
 sikkerhetsstyring.
+
 Policy for informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til
 grunn for USN sitt digitaliseringsarbeid3. Unit har ansvaret for å følge opp etterlevelsen av
 policyen i sektoren. For virksomheter som ikke har skjermingsverdig informasjon, jf.
 sikkerhetsloven § 5-1, vil overholdelse av kravene i punkt 1-5 og 10-12 i policyen tilfredsstille
 kravet om sikkerhetsstyring på dette området.
+
 USN skal ha oversikt over sine informasjonsverdier og -systemer. Det skal etableres en plan
 for håndtering av alvorlige informasjonssikkerhetsbrudd og personvernhendelser basert på
 vurdering av risiko for at slike hendelser kan skje. Planen skal inkludere tiltak for videreføring
 av kritiske oppgaver mens arbeidet med gjenoppretting av normal driftstilstand pågår.
+
 USN skal i årsrapporten for 2021 rapportere om følgende:
-1. Når reviderte USN sist sin ROS-analyse? Hvilke områder er identifisert som de med
-høyest risiko for virksomheten?
-2. Når reviderte USN sist sitt krise- og beredskapsplanverk? Beskriv kort hva planverket
-omfatter.
-3. Når gjennomførte USN sist kriseøvelse? Beskriv kort de viktigste læringspunktene fra
-evalueringen av øvelsen.
+  1. Når reviderte USN sist sin ROS-analyse? Hvilke områder er identifisert som de med
+      høyest risiko for virksomheten?
+  2. Når reviderte USN sist sitt krise- og beredskapsplanverk? Beskriv kort hva planverket
+      omfatter.
+  3. Når gjennomførte USN sist kriseøvelse? Beskriv kort de viktigste læringspunktene fra
+      evalueringen av øvelsen.
 
-4.2.3
-
-Håndtering av Covid-19-pandemien
-
+4.2.3   Håndtering av Covid-19-pandemien
 USN skal evaluere egen håndtering av covid-19-pandemien og påse at læringspunkter fra
 evalueringen følges opp. DSBs mal for evaluering av covid-19 kan gi inspirasjon til arbeidet.
 Evalueringen skal være tilpasset virksomhetens egenart. USN skal i årsrapporten for 2021
 orientere kort om hvordan evalueringen ble gjennomført og de viktigste læringspunktene.
 
-4.2.4
-
-Gjenbruk og viderebruk av data
-
+4.2.4   Gjenbruk og viderebruk av data
 Som oppfølging av konseptvalgutredningen om deling av data i kunnskapssektoren, har Unit
 fått i oppdrag fra Kunnskapsdepartementet å gjennomføre et forprosjekt om infrastruktur for
 deling av data. En viktig forutsetning for å lykkes med bedre deling av data, er at alle
 Kunnskapsdepartementets virksomheter prioriterer arbeidet med å realisere «orden i eget
 3 Policyen ble fastsatt av Kunnskapsdepartementet i rundskriv F-04-20 1. oktober 2020.
 
-Side 13
+ Side 13
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 14]
+
+                             Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 hus», jf. kap. 1.2 i digitaliseringsrundskrivet. Unit skal koordinere arbeidet med «orden i eget
 hus» i kunnskapssektoren.
+
 Universiteter og høyskoler har en nøkkelrolle i kompetansereformen, blant annet som
 tilbydere av etter- og videreutdanning. Utdanning.no har ti millioner brukere per år og når
 svært mange med informasjon om utdanningstilbud. Departementet ber om at data om alle
 utdanningstilbud deles med Utdanning.no.
-4.2.5
 
-Likestilling og mangfold
-
+4.2.5   Likestilling og mangfold
 Kunnskapsdepartementet forventer at virksomhetene arbeider aktivt for å fremme like
 karrieremuligheter for kvinner og menn i norsk akademia og tilrettelegge for et større etnisk
-mangfold. Arbeid med likestilling er viktig å opprettholde, også i kjølvannet av covid-19pandemien hvor foreløpige studier tyder på at endrede arbeidsforhold blant annet har
+mangfold. Arbeid med likestilling er viktig å opprettholde, også i kjølvannet av covid-19-
+pandemien hvor foreløpige studier tyder på at endrede arbeidsforhold blant annet har
 påvirket særlig kvinners publiseringsmønstre.
+
 Departementet minner om endringene i likestillings- og diskrimineringsloven som trådte i
 kraft 1. januar 2020. De innebærer blant annet at arbeidsgivere i offentlige virksomheter
 annethvert år skal gjennomføre lønnskartlegging fordelt etter kjønn. Den første kartleggingen
 skal gjennomføres innen utgangen av 2021.
+
 Departementet gjør også oppmerksom på at EU-kommisjonen har signalisert at det fra 2021
 innføres krav om at mottakere av forskningsmidler fra Horizon Europe må ha en
 handlingsplan for likestilling.
-4.2.6
 
-Norsk språk
-
+4.2.6   Norsk språk
 Universiteter og høyskoler er pålagt å følge målloven. Språkrådet har i flere år pekt på at et
 flertall av UH-institusjonene ikke innfrir kravene om at begge målformene skal være
 representert med minst 25 prosent. Departementet ber om at UH-institusjonene følger opp
 og setter inn nødvendige tiltak.
 
-5
-
-Rapportering og resultatoppfølging
+5   Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Departementet minner om at universiteter og høyskoler skal sende årsrapport for 2020 innen
 15. mars 2021 til postmottak@kd.dep.no, med kopi til Riksrevisjonen og Database for
 statistikk om høgre utdanning (DBH). Nærmere krav til denne årsrapporten fremgår av
 dokumentet Rapporteringskrav for årsrapport 2020 som var vedlagt fjorårets tildelingsbrev.
+
 Årsrapport for 2021 skal sendes inn innen 15. mars 2022. Departementet gjør oppmerksom
 på at årsrapporten skal publiseres på virksomhetens nettside innen 1. mai.
 Rapporteringskravene følger av vedlagte dokument Rapporteringskrav for årsrapport 2021.
 Dokumentet er også tilgjengelig i DBH. Årsrapporten skal gi et dekkende bilde av
 
-Side 14
+ Side 14
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 15]
+
+                                      Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 virksomhetens resultater og gi departementet grunnlag for å vurdere måloppnåelse og
 ressursbruk, jf. Bestemmelser om økonomistyring i staten.
+
 Universiteter og høyskoler skal rapportere data til DBH. Krav til datarapporteringen og
 fristene gjennom året finnes på DBHs nettsider:
 https://dbh.nsd.uib.no/dokumentasjon/rapporteringskrav/
+
 Institusjonen skal avlegge delårsregnskap og årsregnskap for 2021. Departementet vil i egne
 brev angi hvilke frister og krav som gjelder for delårsregnskapene og årsregnskapet.
 Departementet viser til Finansdepartementets rundskriv R-10/2020 når det gjelder
 rapportering av regnskapsopplysninger til statsregnskapet for 2021.
+
 En oversikt over hovedtrekkene i styringsdialogen mellom departementet og institusjonene er
 vedlagt.
 
@@ -821,6 +690,7 @@ vedlagt.
 Departementet bruker satsingsforslagene til å identifisere de viktigste behovene i
 universitets- og høyskolesektoren. Institusjonene må utarbeide eventuelle satsingsforslag om
 økt bevilgning i tråd med vedlagte veiledning.
+
 Frist for innsendelse av budsjettforslag for 2023 er 1. november 2021. Forslagene sendes til
 postmottak@kd.dep.no. Se vedlegget Veiledning for fremstilling av budsjettforslag for 2023.
 
@@ -828,6 +698,7 @@ postmottak@kd.dep.no. Se vedlegget Veiledning for fremstilling av budsjettforsla
 Etatsstyringsmøtene skal være en strategisk dialog mellom departementet og institusjonens
 styre om institusjonens utvikling. Sentralt i møtet er utviklingsavtalen mellom departementet
 og institusjonen, regjeringens prioriteringer, særskilte føringer og institusjonens utfordringer.
+
 USN blir ikke innkalt til etatsstyringsmøte i 2021, men får en skriftlig tilbakemelding fra
 departementet i løpet av 1. halvår 2021 på bakgrunn av blant annet årsrapporten for 2020,
 tilstandsrapporten for høyere utdanning 2021 og resultatrapporteringen til DBH.
@@ -836,16 +707,20 @@ Med hilsen
 
 Knut Børve (e.f.)
 ekspedisjonssjef
-Sidsel Aa. Arbo
-konst. avdelingsdirektør
+                                                                              Sidsel Aa. Arbo
+                                                                              konst. avdelingsdirektør
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 15
+ Side 15
 
-Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
+[Side 16]
+
+                            Tildelingsbrev 2021 – Universitetet i Sørøst-Norge
 
 Vedlegg oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-https://www.regjeringen.no/no/dokument/dep/kd/anbud-konsesjoner-ogbrev/brev/utvalgte_brev/2021/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
+https://www.regjeringen.no/no/dokument/dep/kd/anbud-konsesjoner-og-
+brev/brev/utvalgte_brev/2021/tildelingsbrev-til-universiteter-og-hoyskoler-2021/id2814544/
 - Orientering om statsbudsjettet 2021 for universitet og høgskular
 - Fullmakter
 - Hovedtrekk styringsdialogen
@@ -853,10 +728,11 @@ https://www.regjeringen.no/no/dokument/dep/kd/anbud-konsesjoner-ogbrev/brev/utva
 - Veiledning for fremstilling av budsjettforslag for 2023
 
 Kopi
-Fylkesmannen i Oslo og Viken
-Fylkesmannen i Vestfold og Telemark
-NSD - Norsk senter for forskningsdata AS
-Riksrevisjonen
-Studentsamskipnaden i Sørøst-Norge
 
-Side 16
+ Fylkesmannen i Oslo og Viken
+ Fylkesmannen i Vestfold og Telemark
+ NSD - Norsk senter for forskningsdata AS
+ Riksrevisjonen
+ Studentsamskipnaden i Sørøst-Norge
+
+ Side 16

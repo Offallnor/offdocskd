@@ -8,22 +8,17 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-norges-teknisk-naturvitenskapelige-universitet2454260.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-ab8b-4fa1-a5a4-d57be30e1021
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Norges teknisk-naturvitenskapelige universitet
 7491 TRONDHEIM
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/5195
-
-19. desember 2024
+Deres ref                                                Vår ref                                       Dato
+                                                         24/5195                                       19. desember 2024
 
 Tildelingsbrev 2025 til Norges teknisk-naturvitenskapelige universitet
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S
@@ -35,54 +30,20 @@ og eventuelle supplerende tildelingsbrev skal publiseres på virksomhetens netts
 de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2025 består av følgende deler:
-1
+1     Regjeringens prioriteringer og forventninger .....................................................................2
+2     Mål .....................................................................................................................................4
+3     Tildeling .............................................................................................................................7
+4     Andre forutsetninger og krav ...........................................................................................12
+5     Rapportering og resultatoppfølging .................................................................................14
 
-Regjeringens prioriteringer og forventninger .....................................................................2
+ Postadresse                     Kontoradresse                Telefon*                    Avdeling                     Saksbehandler
+ Postboks 8119 Dep               Kirkeg. 18                   22 24 90 90                 Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                     høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no            www.kd.dep.no                872 417 842                 forskning                    22 24 74 82
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling .............................................................................................................................7
-
-4
-
-Andre forutsetninger og krav ...........................................................................................12
-
-5
-
-Rapportering og resultatoppfølging .................................................................................14
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-22 24 74 82
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1    Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -112,7 +73,8 @@ studieporteføljen og dimensjonerer utdanningstilbudene med sikte på å møte b
 tråd med perspektivmeldingen2, samt følge opp prioriteringene i utsynsmeldingen3 og
 profesjonsmeldingen4 og tidligere tildelinger av studieplasser. Utdanningstilbudene skal ha
 høy kvalitet og være tett koblet til praksisfeltet. Universitetene og høyskolene skal fortsette å
-prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etterog videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
+prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etter-
+og videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
 med flere studiesteder ivaretar sitt regionale oppdrag og videreutvikler disse.
 Regjeringen legger til rette for at flere skal komme raskere inn i høyere utdanning, jf.
 opptaksmeldingen5 og forventer at universitetene og høyskolene bidrar til at flere studenter
@@ -124,7 +86,9 @@ har en god studieprogresjon og gjennomfører utdanningene. Universitetene og hø
 4 Meld. St. 19 Profesjonsnære utdanningar over heile landet - Innst. 330 S (2023-2024)
 5 Meld. St. 20 Opptak til høgare utdanning – Innst. 378 S (2023-2024)
 
-Side 2
+ Side 2
+
+[Side 3]
 
 har også ansvar for å bidra til et godt etter- og videreutdanningstilbud, herunder utvidet
 ansvar for å utvikle og tilby videreutdanningstilbud rettet mot barnehage og grunnopplæring.6
@@ -169,27 +133,23 @@ universiteter og høyskoler om samarbeidet i bygge- og leiesaker, for å støtte
 10 Strategi for å øke næringslivets investeringer i forskning og utvikling 2024
 11 Veiviser for universiteter og høyskoler om samarbeidet i bygge- og leiesaker
 
-Side 3
+ Side 3
+
+[Side 4]
 
 transparent og forutsigbar dialog og samhandling om arealbehov. Institusjonene skal sette
 seg godt inn i denne.
 
-2
-
-Mål
+2   Mål
 
 2.1 Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
-utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (20242025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
+utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2024-
+2025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
 Det er viktig med godt samspill mellom departementets underliggende virksomheter slik at
 alle bidrar til hverandres måloppnåelse.
 
@@ -213,13 +173,15 @@ hensyn til disse målene i planer og i styringen av virksomheten.
 2.3 Sektormål og utviklingsavtaler
 For 2025 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -238,7 +200,7 @@ utviklingsavtalene. Departementet vil legge opp til et fellesmøte med institusj
 kl 11.00-15.00 i Oslo, som del av samarbeidet om utviklingen i sektoren.
 
 2.4 Utviklingsavtale Norges teknisk-naturvitenskapelige universitet
-(NTNU) 2023–2026
+    (NTNU) 2023–2026
 Mål 1 – Utvikle si rolle som pådrivar og partnar for berekraftig samfunnsutvikling
 NTNU har samarbeid med arbeidsliv, styresmakter og andre akademiske miljø, og dette vil
 stadig vidareutviklast for å vere relevant som partnar og premissleverandør for
@@ -249,48 +211,41 @@ relevans innan alle sine fagområde, og utdanne kandidatar med kunnskap og kompe
 nytte og vidareutvikle sitt potensial for innovasjon med utspring frå forsking, og arbeide for at
 kunnskap tas i bruk. NTNU vil gjennom dette bidra til langtidsplanen for forsking og høgare
 utdanning.
-•
+•     Utdanningsaktiviteten ved NTNU skal vere forskingsbasert, framtidsretta, relevant for
+      samfunnet og gi kandidatar som både bidreg til og kan vere pådrivarar for
+      samfunnsutvikling i tråd med berekraftsmåla til FN. NTNU vil utdanne fagleg sterke
+      kandidatar som er tverrfagleg orienterte og godt førebudd på eit arbeidsliv i kontinuerleg
+      endring.
+•     NTNU vil bidra til å møte framtidige kompetansebehov i samfunnet, og utvikle etter- og
+      vidareutdanningstilbod i samspel med arbeidslivet. Utdanningar ved NTNU skal gi
+      kandidatane eit godt grunnlag for å tileigne seg ny kunnskap og kompetanse.
+•     For å utvikle neste generasjons studiar innan teknologi, humaniora og samfunnsfag vil
+      NTNU iverksette tilrådingar frå prosjekta Framtidas teknologistudiar og Framtidas
+      HUMSAM-studiar. Dei store samfunnsutfordringane, arbeid med berekraftsmåla til FN og
+      framtidige kompetansebehov ligg til grunn for arbeidet.
+•     NTNU utviklar og formidlar innovative og berekraftige løysingar og teknologiar, bidreg til å
+      utvikle og omstille eksisterande næringsliv og offentleg sektor og til å skape det nye
 
-•
+    Side 5
 
-•
+[Side 6]
 
-•
-
-Utdanningsaktiviteten ved NTNU skal vere forskingsbasert, framtidsretta, relevant for
-samfunnet og gi kandidatar som både bidreg til og kan vere pådrivarar for
-samfunnsutvikling i tråd med berekraftsmåla til FN. NTNU vil utdanne fagleg sterke
-kandidatar som er tverrfagleg orienterte og godt førebudd på eit arbeidsliv i kontinuerleg
-endring.
-NTNU vil bidra til å møte framtidige kompetansebehov i samfunnet, og utvikle etter- og
-vidareutdanningstilbod i samspel med arbeidslivet. Utdanningar ved NTNU skal gi
-kandidatane eit godt grunnlag for å tileigne seg ny kunnskap og kompetanse.
-For å utvikle neste generasjons studiar innan teknologi, humaniora og samfunnsfag vil
-NTNU iverksette tilrådingar frå prosjekta Framtidas teknologistudiar og Framtidas
-HUMSAM-studiar. Dei store samfunnsutfordringane, arbeid med berekraftsmåla til FN og
-framtidige kompetansebehov ligg til grunn for arbeidet.
-NTNU utviklar og formidlar innovative og berekraftige løysingar og teknologiar, bidreg til å
-utvikle og omstille eksisterande næringsliv og offentleg sektor og til å skape det nye
-
-Side 5
-
-•
-
-næringslivet med utgangspunkt i idear og forskingsresultat frå tilsette og studentar. Med
-tverrfagleg tilnærming til komplekse problemstillingar vil NTNU bidra til ny kunnskap og
-innovative løysingar. Samarbeid med arbeids- og samfunnsliv er eit sentralt verkemiddel
-for nyskaping, kvalitetsutvikling og relevans.
-NTNU vil nytte eigen infrastruktur, organisering og drift som laboratorium for utvikling og
-implementering av berekraftige løysingar, og demonstrere at ei verksemd som NTNU kan
-drivast med høg kvalitet innanfor miljøvennlege ramme.
-
+      næringslivet med utgangspunkt i idear og forskingsresultat frå tilsette og studentar. Med
+      tverrfagleg tilnærming til komplekse problemstillingar vil NTNU bidra til ny kunnskap og
+      innovative løysingar. Samarbeid med arbeids- og samfunnsliv er eit sentralt verkemiddel
+      for nyskaping, kvalitetsutvikling og relevans.
+•     NTNU vil nytte eigen infrastruktur, organisering og drift som laboratorium for utvikling og
+      implementering av berekraftige løysingar, og demonstrere at ei verksemd som NTNU kan
+      drivast med høg kvalitet innanfor miljøvennlege ramme.
 Styringsparametere:
-1. Nyttar hovudprofilen og den faglege breidda til å utdanne kandidatar med berekraftog omstillingskompetanse
-2. Styrkar tilbodet om livslang læring
-3. Gjennomfører Framtidas teknologistudiar og Framtidas HUMSAM-studiar
-4. Skaper innovasjon, utvikling og omstilling ved at forskingsbasert kunnskap og ny
-teknologi blir tatt i bruk
-5. Vere eit føregangsuniversitet for berekraft i eiga drift
+      1. Nyttar hovudprofilen og den faglege breidda til å utdanne kandidatar med berekraft-
+         og omstillingskompetanse
+      2. Styrkar tilbodet om livslang læring
+      3. Gjennomfører Framtidas teknologistudiar og Framtidas HUMSAM-studiar
+      4. Skaper innovasjon, utvikling og omstilling ved at forskingsbasert kunnskap og ny
+         teknologi blir tatt i bruk
+      5. Vere eit føregangsuniversitet for berekraft i eiga drift
+
 Mål 2 – Styrke lærings- og arbeidsmiljøet og utvikle tilsette sin kompetanse
 NTNU vil ta vare på og forbetre læringsmiljøet for studentane, og vil gjennom høg
 utdanningskvalitet utdanne gode kandidatar som bidreg til å utvikle samfunn og arbeidsliv.
@@ -298,73 +253,62 @@ Den fysiske utforminga av universitetsområda og den digitale infrastrukturen er
 studiemiljøet og for at NTNU skal utvikle gode og framtidsretta lærings- og arbeidsmiljø.
 NTNU vil vere ein attraktiv og profesjonell arbeidsgjevar som legg til rette for at tilsette får
 utvikle seg gjennom heile karriereløpet og realisere sitt faglege potensial.
-•
-
-•
-
-•
-
-NTNU vil at studie- og læringsmiljøa skal vere attraktive og anerkjent for sin høge
-kvalitet, og at studentane skal ha eit godt og inkluderande læringsmiljø som bidreg til
-trivsel og god læring. Utvikling av læringsmiljø er ein del av arbeidet med å utvikle høg
-kvalitet i utdanningane.
-NTNU vil gjennom strategisk utvikling av den fysiske og digitale infrastrukturen legge til
-rette for framtidsretta utdannings-, innovasjons- og forskingsaktivitet med gode faglege
-og sosiale kvalitetar, og hybride arbeidsformer for studentar og tilsette.
-NTNU vil forsterke sin attraktivitet og faglege styrke gjennom meir systematisk tilnærming
-til rekruttering, kompetanseutvikling og strukturerte gode karriereløp for tilsette. NTNU vil
-tilby sine tilsette føreseielege rammer og gi moglegheit til god kompetanse- og
-karriereutvikling.
-
+•     NTNU vil at studie- og læringsmiljøa skal vere attraktive og anerkjent for sin høge
+      kvalitet, og at studentane skal ha eit godt og inkluderande læringsmiljø som bidreg til
+      trivsel og god læring. Utvikling av læringsmiljø er ein del av arbeidet med å utvikle høg
+      kvalitet i utdanningane.
+•     NTNU vil gjennom strategisk utvikling av den fysiske og digitale infrastrukturen legge til
+      rette for framtidsretta utdannings-, innovasjons- og forskingsaktivitet med gode faglege
+      og sosiale kvalitetar, og hybride arbeidsformer for studentar og tilsette.
+•     NTNU vil forsterke sin attraktivitet og faglege styrke gjennom meir systematisk tilnærming
+      til rekruttering, kompetanseutvikling og strukturerte gode karriereløp for tilsette. NTNU vil
+      tilby sine tilsette føreseielege rammer og gi moglegheit til god kompetanse- og
+      karriereutvikling.
 Styringsparametere:
-6. Styrker læringsmiljøet til studentane for å legge til rette for auka læring og trivsel
-7. Utviklar attraktive campusar og infrastruktur som bidreg til framifrå lærings- og
-arbeidsmiljø og høg fagleg kvalitet
-8. Arbeider systematisk for å utvikle tilsette sin kompetanse og karriere
+      6. Styrker læringsmiljøet til studentane for å legge til rette for auka læring og trivsel
+      7. Utviklar attraktive campusar og infrastruktur som bidreg til framifrå lærings- og
+         arbeidsmiljø og høg fagleg kvalitet
+      8. Arbeider systematisk for å utvikle tilsette sin kompetanse og karriere
+
 Mål 3 – Utvikle seg som leiande, internasjonalt universitet
 NTNU vil ta del i den internasjonale teknologi- og kunnskapsfronten og ønsker å samarbeide
 breitt internasjonalt og auke utnyttinga av verkemidla til EU for forsking, innovasjon og
 
-Side 6
+    Side 6
+
+[Side 7]
 
 utdanning. Gjennom open vitskap, akademisk fridom, deltaking i offentleg debatt og
 kunnskapsbaserte grunnlag for avgjersler, vil NTNU bidra til å fremme utvikling i tråd med
 berekraftsmåla til FN. NTNU vil prioritere arbeid med mobilitet og rekruttering som sikrar
 mangfald, kvalitet, og innsikt i globale problemstillingar.
-•
-
-NTNU ønsker fleire grupper som bidreg aktivt i forskingsfronten og er anerkjent for
-høgvitskapeleg kvalitet.
-NTNU vil vere eit attraktivt universitet for vitskapsfolk frå heile verda og ein attraktiv
-internasjonal partnar for forskings-, innovasjons- og utdanningssamarbeid.
-NTNU vil engasjere seg i å løyse globale utfordringar og bidra til å fremme utvikling i tråd
-med berekraftsmåla til FN.
-Internasjonal mobilitet og rekruttering gir auka kvalitet i den faglege verksemda til NTNU.
-Tilsette skal vere aktive deltakarar i det internasjonale fagfellesskapet og delta på ulike
-internasjonale arenaer.
-
-•
-•
-•
-
+•     NTNU ønsker fleire grupper som bidreg aktivt i forskingsfronten og er anerkjent for
+      høgvitskapeleg kvalitet.
+•     NTNU vil vere eit attraktivt universitet for vitskapsfolk frå heile verda og ein attraktiv
+      internasjonal partnar for forskings-, innovasjons- og utdanningssamarbeid.
+•     NTNU vil engasjere seg i å løyse globale utfordringar og bidra til å fremme utvikling i tråd
+      med berekraftsmåla til FN.
+•     Internasjonal mobilitet og rekruttering gir auka kvalitet i den faglege verksemda til NTNU.
+      Tilsette skal vere aktive deltakarar i det internasjonale fagfellesskapet og delta på ulike
+      internasjonale arenaer.
 Styringsparametere:
-9. Legg til rette for at vesentleg fleire faggrupper etablerer seg på eit dokumentert høgt
-internasjonalt nivå.
-10. Utviklar og styrkar samarbeid og partnarskap med internasjonalt leiande fagmiljø
-11. Utviklar og deler kunnskap og teknologi som bidreg til å møte globale utfordringar
-12. Stimulerer til internasjonal mobilitet og rekruttering som sikrar mangfald og kvalitet
+      9. Legg til rette for at vesentleg fleire faggrupper etablerer seg på eit dokumentert høgt
+          internasjonalt nivå.
+      10. Utviklar og styrkar samarbeid og partnarskap med internasjonalt leiande fagmiljø
+      11. Utviklar og deler kunnskap og teknologi som bidreg til å møte globale utfordringar
+      12. Stimulerer til internasjonal mobilitet og rekruttering som sikrar mangfald og kvalitet
 
-3
-
-Tildeling
+3      Tildeling
 
 3.1 Tildeling over kap. 260, post 50
 Stortinget har bevilget 44,2 mrd. kroner over kap. 260, post 50 til statlige universiteter og
 høyskoler. Det ligger til grunn en prisjustering på 3,8 pst. fra 2024 til 2025.
-Kunnskapsdepartementet tildeler med dette 8 244 626 000 kroner til Norges teknisknaturvitenskapelige universitet.
+Kunnskapsdepartementet tildeler med dette 8 244 626 000 kroner til Norges teknisk-
+naturvitenskapelige universitet.
 Orientering om statsbudsjettet 2025 for universitet og høgskular etter vedtak i Stortinget 18.
 desember 2024 gir en oversikt over de enkelte endringene i rammebevilgningen per
 institusjon.
+
 Rammefinansiering
 Universitetene og høyskolene får midlene på kap. 260 som én rammebevilgning, som betyr
 at institusjonen selv skal disponere og fordele tildelingen mellom sine formål, aktiviteter og
@@ -375,7 +319,9 @@ som ikke er tidsavgrenset blir formelt uttrykt i tildelingsbrevet for det først
 øremerkingen, og det er en forventning om at aktiviteten videreføres i påfølgende år uten at
 det gis formelt pålegg.
 
-Side 7
+    Side 7
+
+[Side 8]
 
 Ikke øremerking av rekrutteringsstillinger
 Fra og med 2023 ble øremerkingen av midler til rekrutteringsstillinger fjernet, som innebærer
@@ -384,6 +330,7 @@ Prop. 1 S (2022–2023). Universitetene og høyskolene har dermed mer frihet til
 budsjettprioriteringer, ha en mer målrettet rekrutterings- og karrierepolitikk og selv vurdere
 hvor mange rekrutteringsstillinger de til enhver tid har behov for, i tråd med regjeringens
 tillitsreform.
+
 Utfasing av studieplasser fra Utdanningsløftet 2020
 Utfasingen av studieplasser fra revidert nasjonalbudsjett for 2020 innebærer reduksjon i
 bevilgningen til de institusjonene som fikk tildelt slike studieplassmidler. Det skjer avhengig
@@ -391,38 +338,24 @@ av lengden på studiene som institusjonene opprettet og etter hvert som de aktue
 fra 2020, 2021 og 2022 har fullført studieløpene. Unntaket er de 80 studieplassene i medisin
 og 300 plasser i barnevernsfaglige utdanninger på masternivå hvor midlene videreføres til de
 aktuelle institusjonene.
+
 Nye studieplasser
 I perioden 2022–2025 er det i statsbudsjettene prioritert nye studieplasser/økt kapasitet til:
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
-2020
-300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
-500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
-plasser innenfor gjeldende bevilgning
-40 studieplasser i nukleære fag
-200 studieplasser innenfor IKT-fag
-25 studieplasser i flyingeniørutdanning
-20 studieplasser i fysioterapiutdanning
-20 studieplasser skogfag
-20 studieplasser i vernepleie
-10 studieplasser i folkedans
-20 studieplasser i veterinærmedisin
-Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
-60 studieplasser til å etablere en campus på Gol i Hallingdal
-
+   •      235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
+          2020
+   •      300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
+   •      500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
+          plasser innenfor gjeldende bevilgning
+   •      40 studieplasser i nukleære fag
+   •      200 studieplasser innenfor IKT-fag
+   •      25 studieplasser i flyingeniørutdanning
+   •      20 studieplasser i fysioterapiutdanning
+   •      20 studieplasser skogfag
+   •      20 studieplasser i vernepleie
+   •      10 studieplasser i folkedans
+   •      20 studieplasser i veterinærmedisin
+   •      Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
+   •      60 studieplasser til å etablere en campus på Gol i Hallingdal
 Bevilgningen til studieplasser trappes opp til plassene er fullt utbygget med nye årlige kull, og
 den avhenger av lengde på studiene, fra to- til seksårige. En studieplass er definert som 60
 studiepoeng. Ved tildeling av nye eller flere studieplasser forventer Kunnskapsdepartementet
@@ -434,7 +367,9 @@ I lys av det økonomiske handlingsrommet i statsbudsjettene nå og i årene frem
 regjeringen lagt til grunn at det er nødvendig å omprioritere innenfor gjeldende
 budsjettrammer for å skape rom for nye satsinger og finne inndekning for økte utgifter. Dette
 
-Side 8
+ Side 8
+
+[Side 9]
 
 gjelder også for universitets- og høyskolesektoren. Regjeringen legger vekt på at
 universiteter og høyskoler i større grad må ta ansvar for å prioritere satsinger og
@@ -451,6 +386,7 @@ samfunnsbehovene ivaretas.
 Departementet understreker at det kan bli aktuelt å flytte midler mellom institusjoner dersom
 opptaket og produksjonen ikke gjenspeiler forventningene om gjennomførte studiepoeng og
 ikke svarer til samfunnsbehovene slik de blant annet er beskrevet i de nevnte meldingene.
+
 Sykepleierutdanning
 Departementet har registrert at det ved de fleste institusjonene er en positiv økning i
 opptaket til sykepleierutdanning i 2024. Likevel ligger mange institusjoner under nivået som
@@ -463,20 +399,26 @@ sykepleie innfrir forventningene til økt kapasitet fra studieplasstildelingene 
 Institusjonene må gi en forklaring på manglende måloppnåelse i årsrapporten for 2024 og
 vurderinger av sannsynligheten for å utnytte kapasiteten bedre fremover. Basert på dette vil
 departementet vurdere omdisponeringer i 2026.
+
 Medisinutdanning
-Departementet viser til at Universitetet i Oslo, Universitetet i Bergen, Norges teknisknaturvitenskapelige universitet og Universitetet i Tromsø har fått midler tilsvarende 235 nye
+Departementet viser til at Universitetet i Oslo, Universitetet i Bergen, Norges teknisk-
+naturvitenskapelige universitet og Universitetet i Tromsø har fått midler tilsvarende 235 nye
 studieplasser i medisin i perioden 2020–2025. Resultatkravene for en studieplass er definert
 som 60 studiepoengsenheter, og institusjonene må ta opp det antallet personer som er
 nødvendig for å nå disse kravene ut fra den faktiske gjennomføringen per student.
 Departementet viser til at det er viktig å videreutvikle de desentraliserte studiemodellene,
-som for Universitetet i Oslo gjelder tilbud i Agder og Innlandet, for Norges teknisknaturvitenskapelige universitet gjelder tilbud i Innlandet, Ålesund og Levanger og for UiB
+som for Universitetet i Oslo gjelder tilbud i Agder og Innlandet, for Norges teknisk-
+naturvitenskapelige universitet gjelder tilbud i Innlandet, Ålesund og Levanger og for UiB
 gjelder Vestlandslegen. Institusjonene bes om å kommentere oppfølgingen av
 studieplasstildelingene i medisin i årsrapporten for 2024.
+
 Nasjonale senter i grunnopplæringen
 I Meld. St. 34 (2023–2024) beskriver regjeringen behov for en mer praktisk, variert og
 motiverende opplæring, og vil derfor sette i gang et nasjonalt program for mer praktisk
 
-Side 9
+ Side 9
+
+[Side 10]
 
 læring. Programmet skal, i tillegg til å gi bedre økonomiske rammer gjennom tilskudds- og
 rentekompensasjonsordning til utstyr, inventar og læringsarenaer, også bestå av pedagogisk
@@ -497,6 +439,7 @@ I rammebevilgningen til Norges teknisk-naturvitenskapelige universitet inngår
 bevilgning til Matematikksenteret, jf. også tildeling over kap. 226, post 21. Styrkingen av
 grunnbevilgningen til de to sentrene er særlig begrunnet i at de representerer fagområder
 hvor Kunnskapsdepartementet over tid har sett en negativ utvikling i elevenes læringsutbytte.
+
 Finansiering av små utdanninger i spesialpedagogikk
 I rammebevilgningen til Norges teknisk-naturvitenskapelige universitet inngår
 5 000 000 kroner til finansiering av små utdanninger i spesialpedagogikk. Målet med
@@ -506,7 +449,7 @@ rammeoverført til kap. 260, post 50 legger Kunnskapsdepartementet til grunn at 
 varig tilbud.
 
 3.2 Tildeling over kap. 226, post 21 Matematikksenteret ved Norges
-teknisk-naturvitenskapelige universitet
+    teknisk-naturvitenskapelige universitet
 Kunnskapsdepartementet tildeler 15 000 000 kroner til Norges teknisk-naturvitenskapelige
 universitet til å styrke kompetansen til elevene i matematikk og personlig økonomi. Midlene
 skal blant annet gå til utvikling av støtteressurser og verktøy i matematikk som lærerne kan
@@ -521,11 +464,14 @@ Forvaltningen av midler knyttet til utvikling og finansiering av videreutdanning
 mot barnehager og grunnopplæring blir endret fra anbudskonkurranser til øremerkede
 bevilgninger i årlige tildelingsbrev til utdanningsinstitusjonene. Regjeringen forventer at
 
-Side 10
+ Side 10
+
+[Side 11]
 
 universiteter og høyskoler legger til rette for god sammenheng mellom grunnutdanning,
 videreutdanning og lokal kompetanseutvikling, og dialog med barnehage- og skolesektoren
 blant annet i partnerskap mellom institusjonene og kommunene.
+
 Endringene for 2025 får en halvårsvirkning fra høsten 2025. For høsten 2025 blir
 videreutdanningsmidlene fordelt mellom utdanningsinstitusjoner med lærerutdanning med en
 tilsvarende andel som høsten 2024. Dette innebærer en fullfinansiering av
@@ -541,14 +487,12 @@ om videreutdanning i praktiske og estetiske fag øker i 2025. Universiteter og h
 inneværende år tilbyr videreutdanning i praktiske og estetiske fag bør videreføre og eventuelt
 utvide aktuelle tilbud. Kunnskapsdepartementet legger til grunn at institusjonene ikke tar
 egenbetaling for videreutdanningstilbudene som er finansiert med øremerkede midler.
-Kunnskapsdepartementet tildeler til sammen 13 731 000 kroner til Norges teknisknaturvitenskapelige universitet for å utvikle og tilby videreutdanning for lærere, fordelt på
+
+Kunnskapsdepartementet tildeler til sammen 13 731 000 kroner til Norges teknisk-
+naturvitenskapelige universitet for å utvikle og tilby videreutdanning for lærere, fordelt på
 følgende kapitler og poster:
-
-
-
-Kap. 226, post 21: 2 441 000 kroner (yrkesfaglærere)
-Kap. 226, post 22: 11 290 000 kroner (lærere i grunnopplæringen)
-
+      Kap. 226, post 21: 2 441 000 kroner (yrkesfaglærere)
+      Kap. 226, post 22: 11 290 000 kroner (lærere i grunnopplæringen)
 Tildelingen på kap. 226, post 22 omfatter midler til å tilby Grunnleggende lese-, skrive- og
 matematikkopplæring for kullet som er på semester 3 høsten 2025 og som avslutter studiene
 våren 2026. Norges teknisk-naturvitenskapelige universitet, Høgskulen på Vestlandet og
@@ -561,15 +505,19 @@ Kunnskapsdepartementet tildeler 5 000 000 kroner til Universitetet i Oslo. Midle
 brukes til å utvikle infrastrukturløsningene for behandling av sensitive data ved Universitetet i
 Oslo, Norges teknisk-naturvitenskapelige universitet og Universitetet i Bergen. Formålet med
 tildelingen er å bidra til sikker bruk av og bedre tilgang til helsedata for alle relevante
-brukergrupper. Midlene kan benyttes til samordning mellom infrastrukturene i NorTREsamarbeidet og med Helsedataservice og dataforvaltere, tilpasning av sikkerhetsnivå og
+brukergrupper. Midlene kan benyttes til samordning mellom infrastrukturene i NorTRE-
+samarbeidet og med Helsedataservice og dataforvaltere, tilpasning av sikkerhetsnivå og
 dokumentasjon, og videreutvikling av funksjoner og verktøy til nytte for brukere.
 Universitetene vurderer selv og i samråd med Folkehelseinstituttet og brukere hvilke av
 utviklingsbehovene det er viktigst å prioritere. Universitetet i Oslo skal samarbeide med
 Universitet i Bergen og Norges teknisk-naturvitenskapelige universitet om bruken av midlene,
 
-Side 11
+ Side 11
 
-og skal viderefordele deler av midlene til Universitetet i Bergen og Norges teknisknaturvitenskapelige universitet etter behov og i tråd med formålet for tildelingen.
+[Side 12]
+
+og skal viderefordele deler av midlene til Universitetet i Bergen og Norges teknisk-
+naturvitenskapelige universitet etter behov og i tråd med formålet for tildelingen.
 
 3.5 Utbetaling
 Kunnskapsdepartementet utbetaler midlene over kap. 226, post 21 og post 22 i én rate i
@@ -577,16 +525,11 @@ februar.
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-4
-
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
-
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1   Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+        naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Norges teknisk-naturvitenskapelige universitet skal følge opp
 dette målet. I dette arbeidet skal det tas hensyn til ivaretakelse av virksomhetens
@@ -595,11 +538,9 @@ Norges teknisk-naturvitenskapelige universitet skal også vurdere hvordan klimae
 vil påvirke virksomheten. Norges teknisk-naturvitenskapelige universitet skal gjøre
 systematiske vurderinger av egen energibruk og ta i bruk lønnsomme energieffektive
 løsninger, samt øke energifleksibiliteten der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2   Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+        eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
@@ -607,19 +548,20 @@ skal i samarbeid med de tillitsvalgte selv definere et hensiktsmessig ambisjonsn
 virksomhetens egenart og størrelse.
 Norges teknisk-naturvitenskapelige universitet skal i årsrapporten oppgi antallet ansettelser
 av personer med funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i
-2025 og det totale antallet ansettelser i virksomheten i 2025. Norges teknisknaturvitenskapelige universitet skal også omtale utviklingen i 2025 sett opp mot det
+2025 og det totale antallet ansettelser i virksomheten i 2025. Norges teknisk-
+naturvitenskapelige universitet skal også omtale utviklingen i 2025 sett opp mot det
 virksomheten har rapportert for 2024.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3   Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Norges teknisk-naturvitenskapelige universitet skal arbeide for å redusere
 konsulentbruken på områder der det ligger til rette for å benytte interne ressurser og
 kompetanse. Utover informasjons- og holdningskampanjer skal tjenester fra
 kommunikasjonsbransjen som hovedregel ikke benyttes.
 
-Side 12
+ Side 12
+
+[Side 13]
 
 Norges teknisk-naturvitenskapelige universitet skal i årsrapporten for 2025 rapportere om
 konsulentbruken og oppfølgingen av fellesføringen, herunder om totalbeløp for kjøp av
@@ -634,14 +576,12 @@ til årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større k
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
 4.2 Andre krav
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1   Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
-stilles i styringsdokumentet. Med et skjerpet sikkerhetsbilde forutsettes det at Norges teknisknaturvitenskapelige universitet holder seg oppdatert om trusselvurderinger fra nasjonale
+stilles i styringsdokumentet. Med et skjerpet sikkerhetsbilde forutsettes det at Norges teknisk-
+naturvitenskapelige universitet holder seg oppdatert om trusselvurderinger fra nasjonale
 fagmyndigheter.
 For å styrke og utvikle sikkerhetsarbeidet i kunnskapssektoren, har HK-dir fått i oppgave å
 utvide sitt eksisterende fagmiljø for informasjonssikkerhet og personvern, til å også omfatte
@@ -650,26 +590,25 @@ kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssek
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 Norges teknisk-naturvitenskapelige universitet skal i årsrapporten for 2025 rapportere om
 følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Norges teknisk-naturvitenskapelige universitet for
-dette arbeidet?
-2. Når reviderte Norges teknisk-naturvitenskapelige universitet sist sin ROS-analyse?
-Hvilke overordnede områder er identifisert som de med høyest risiko for
-virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Norges teknisk-naturvitenskapelige universitet for
+      dette arbeidet?
+   2. Når reviderte Norges teknisk-naturvitenskapelige universitet sist sin ROS-analyse?
+      Hvilke overordnede områder er identifisert som de med høyest risiko for
+      virksomheten?
+   3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+      er gjennomført i 2025.
+   4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+      styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+      informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+      samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
-Side 13
+ Side 13
 
-4.2.2
+[Side 14]
 
-Informasjonssikkerhet og personvern
-
+4.2.2   Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern ved Norges teknisk-naturvitenskapelige
@@ -677,11 +616,10 @@ universitet. I lys av det skjerpede trusselbildet internasjonalt, den økende av
 digital teknologi i samfunnet og den raske teknologiske utviklingen, forventer
 Kunnskapsdepartementet at Norges teknisk-naturvitenskapelige universitet styrker sitt arbeid
 med å forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og brudd på
-personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitetsog beredskapsplaner særlig viktig.
-4.2.3
+personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitets-
+og beredskapsplaner særlig viktig.
 
-Regelverkskompetanse
-
+4.2.3   Regelverkskompetanse
 Å drive en stor samfunnsinstitusjon som et universitet eller en høyskole krever betydelig
 kompetanse om regelverket. Departementet har i forbindelse med lovproposisjonen til
 Stortinget om ny universitets- og høyskolelov understreket viktigheten av å prioritere slik
@@ -690,10 +628,8 @@ registrerer at flere universiteter og høyskoler er inne i omstillingsprosesser,
 understreke viktigheten av at institusjonene sikrer nødvendig juridisk kompetanse og
 forvaltningskompetanse, slik at de er i stand til å operere innenfor regelverket og forvalte den
 myndigheten og det handlingsrommet de har.
-4.2.4
 
-Krav ved inngåelse av leieavtaler
-
+4.2.4   Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten12 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -702,9 +638,7 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
-
-Rapportering og resultatoppfølging
+5    Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
@@ -718,7 +652,9 @@ Riksrevisjonen og DBH. Nærmere krav til denne årsrapporten fremgår av dokumen
 
 12 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 14
+ Side 14
+
+[Side 15]
 
 årsrapport 2024 som var vedlagt fjorårets tildelingsbrev. Rapporteringskrav for årsrapport er
 også tilgjengelig på HK-dirs nettsider.
@@ -749,38 +685,33 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                          Charlotte Rustad
+                                                                          konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 15
+ Side 15
+
+[Side 16]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
 Tildelingsbrev for universiteter og høyskoler 2025:
 
-▪
-▪
-▪
-▪
-▪
-▪
-
-Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2024
-Krav til årsrapport for statlige universiteter og høyskoler 2025
-Fullmakter for statlige universiteter og høyskoler 2025
-Veiledning til fremstilling av satsingsforslag for 2027
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
-Virksomhets- og økonomiinstruks
+   ▪   Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2024
+   ▪   Krav til årsrapport for statlige universiteter og høyskoler 2025
+   ▪   Fullmakter for statlige universiteter og høyskoler 2025
+   ▪   Veiledning til fremstilling av satsingsforslag for 2027
+   ▪   Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
+   ▪   Virksomhets- og økonomiinstruks
 
 Kopi
 
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
-Statsforvaltaren i Møre og Romsdal
-Statsforvalteren i Innlandet
-Statsforvalteren i Trøndelag
-Studentsamskipnaden i Gjøvik, Ålesund og Trondheim
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+ Statsforvaltaren i Møre og Romsdal
+ Statsforvalteren i Innlandet
+ Statsforvalteren i Trøndelag
+ Studentsamskipnaden i Gjøvik, Ålesund og Trondheim
 
-Side 16
+ Side 16

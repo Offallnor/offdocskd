@@ -8,22 +8,17 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/tildelingsbev-2024-universitetet-i-stavanger.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-df47-47f1-885c-93a647f50a6f
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Universitetet i Stavanger
 4036 STAVANGER
 
-Deres ref.
-
-Vår ref
-
-Dato
-
-23/4570
-
-20. desember 2023
+Deres ref.                                               Vår ref                                      Dato
+                                                         23/4570                                      20. desember 2023
 
 Tildelingsbrev 2024 til Universitetet i Stavanger
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2024, jf. Innst. 12 S (2023–
@@ -35,52 +30,20 @@ Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal publiseres på vi
 nettsider så snart de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2024 består av følgende deler:
-1
+1    Regjeringens prioriteringer og forventninger ......................................................................2
+2    Mål .....................................................................................................................................4
+3    Tildeling ..............................................................................................................................6
+4    Andre forutsetninger og krav ..............................................................................................9
+5    Rapportering og resultatoppfølging ..................................................................................11
 
-Regjeringens prioriteringer og forventninger ......................................................................2
+ Postadresse                    Kontoradresse                 Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep              Kirkeg. 18                    22 24 90 90                Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                    høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no           www.kd.dep.no                 872 417 842                forskning
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling ..............................................................................................................................6
-
-4
-
-Andre forutsetninger og krav ..............................................................................................9
-
-5
-
-Rapportering og resultatoppfølging ..................................................................................11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-
-1
-
-Regjeringens prioriteringer og forventninger
+1    Regjeringens prioriteringer og forventninger
 
 Kunnskap og kompetanse er avgjørende for et omstillings- og konkurransedyktig Norge.
 Regjeringen fører derfor en offensiv kunnskapspolitikk som tar hele landet i bruk.
@@ -113,7 +76,8 @@ organisasjon med sikte på å gi ansatte i førstelinjen økt tillit.
 Regjeringen lanserte høsten 2023 en forsknings- og innovasjonssatsing på kunstig
 intelligens (KI) og digital sikkerhet for å gi større innsikt i samfunnskonsekvenser for
 teknologiutviklingen og gi mer kunnskap om innovasjonsmuligheter, både i næringslivet og i
-offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter itsystemet til Samordna opptak.
+offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter it-
+systemet til Samordna opptak.
 Internasjonalisering er en forutsetning for kvalitet i norsk forskning og høyere utdanning.
 Samarbeid med internasjonale kunnskapsmiljøer har positive ringvirkninger på kvaliteten i
 norske fagmiljøer, samtidig som det bidrar til å gi unge mennesker verdifull kompetanse om
@@ -121,7 +85,9 @@ de komplekse utfordringene verden står overfor. Regjeringen forventer at virkso
 
 1 Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge
 
-Side 2
+ Side 2
+
+[Side 3]
 
 bidrar til økt deltakelse i EUs programmer for utdanning, forskning og innovasjon og aktiv
 deltakelse i samarbeidet om politikk og rammebetingelser gjennom Det europeiske
@@ -167,38 +133,27 @@ institusjonene prioriterer disse utdanningene. Utdanningene skal ha høy kvalite
 koblet til praksisfeltet og tilbys i hele landet. Universitetene og høyskolene har et ansvar for å
 øke rekrutteringen.
 
-Side 3
+ Side 3
+
+[Side 4]
 
 Regjeringen er opptatt av å ha et forskningssystem i god balanse og vil derfor legge frem en
 melding til Stortinget om forskningssystemet i løpet av 2025.
 
-2
+2       Mål
 
-Mål
-
-2.1
-
-Kunnskapsdepartements overordnede mål
-
+2.1       Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål:
-
-
-
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+         Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+         Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+         Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2023–2024) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
 målene. Det er viktig med godt samspill mellom departementets underliggende virksomheter
 slik at alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Målstrukturen for sektoren
-
+2.2       Målstrukturen for sektoren
 Kunnskapsdepartementet fastsatte etter dialog med sektoren nye sektormål gjeldende fra
 2023 for statlige universiteter og høyskoler og private høyskoler som mottar statstilskudd.
 Sektormålene samsvarer godt med de overordnede målene i langtidsplanen, som gjelder all
@@ -215,19 +170,18 @@ Kunnskapsdepartementet har i samarbeid med institusjonene definert samfunns- og
 effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner må ta
 hensyn til disse målene i planer og i styringen av virksomheten.
 
-2.3
-
-Sektormål og utviklingsavtaler
-
+2.3       Sektormål og utviklingsavtaler
 For 2024 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -240,9 +194,7 @@ rammeverket for utviklingsavtalene. Utviklingsavtalene reforhandles i utgangspun
 fjerde år, men departementet åpner for eventuell revisjon av avtalene etter to år ved særlige
 behov.
 
-2.4
-
-Utviklingsavtale for Universitetet i Stavanger (UiS) 2023–2026
+2.4       Utviklingsavtale for Universitetet i Stavanger (UiS) 2023–2026
 
 Mål 1 – Grønn omstilling preger utviklingen av kjernevirksomheten ved UiS
 UiS vil i perioden adressere bærekraftsutfordringer og legge disse til grunn for videreutvikling
@@ -253,9 +205,10 @@ nytteverdi for samfunnet, og koblinger til målrettede samfunnsoppdrag i Horison
 utdanningene vil UiS prioritere studentaktiv og innovativ læring med klare bidrag til
 bærekraftsmålene.
 Styringsparametere:
-1. Prioritere forskningsområder som bidrar til grønn omstilling
-2. Tildelinger fra målrettede samfunnsoppdrag i Horisont Europa
-3. Studentaktiv og innovativ læring med klare bidrag til bærekraftsmålene
+   1. Prioritere forskningsområder som bidrar til grønn omstilling
+   2. Tildelinger fra målrettede samfunnsoppdrag i Horisont Europa
+   3. Studentaktiv og innovativ læring med klare bidrag til bærekraftsmålene
+
 Mål 2 – Være et åpent universitet med fleksible og ettertraktede utdanninger
 UiS vil i perioden arbeide for mer fleksible og ettertraktede utdanninger som møter
 fremtidens kompetansebehov. Utdanningene skal i løpet av avtaleperioden få klarere
@@ -263,23 +216,27 @@ arbeidsrelevans gjennom utvidet samarbeid med arbeidslivet, utfordringsbaserte o
 tverrfaglige løsninger nasjonalt og internasjonalt. Universitetet vil i perioden være en sterk
 bidragsyter til Kunnskapsbyen Stavanger.
 Styringsparametere:
-4. Mer fleksible og utfordringsbaserte utdanninger
-5. Attraktive utdanninger
-6. Flere studieprogram med tilbud om praksis i arbeidslivet
+   4. Mer fleksible og utfordringsbaserte utdanninger
+   5. Attraktive utdanninger
+   6. Flere studieprogram med tilbud om praksis i arbeidslivet
+
 Mål 3 – Sterk posisjon på energifeltet
 UiS har ambisjon om å være ledende på energifeltet, og vil i løpet av perioden utvikle en klar
 og sterk posisjon som energiuniversitet. Universitetets kompetanse på teknologi, økonomi og
 samfunnsforståelse skal møte omstillingsbehov i energiforsyningen. UiS vil videreutvikle
 
-Side 5
+ Side 5
+
+[Side 6]
 
 denne kompetansen gjennom helhetlig og tverrfaglig kunnskapsproduksjon innenfor
 energiforskning og -utdanning.
-Styringsparametere:
-7. Omstilling av energiforskning og -utdanninger
-8. Økte tildelinger fra eksterne konkurransearenaer innenfor innovasjon, forskning og
-utdanning på energiområdet
-9. Styrke publisering relatert til bærekraftige energiløsninger
+ Styringsparametere:
+    7. Omstilling av energiforskning og -utdanninger
+    8. Økte tildelinger fra eksterne konkurransearenaer innenfor innovasjon, forskning og
+       utdanning på energiområdet
+    9. Styrke publisering relatert til bærekraftige energiløsninger
+
 Mål 4 – Bred og innovativ satsing på kunnskap for fremtidens helse- og
 velferdssamfunn
 UiS vil i perioden bygge kunnskap som støtter opp om fremtidens velferdssamfunn gjennom
@@ -287,30 +244,26 @@ bred satsing på helse- og velferdsforskning. UiS vil tilby fremragende utdannin
 helse og velferd. Gjennom samarbeid med praksisfeltet vil universitetet bidra til god
 folkehelse, livskvalitet og velferd gjennom hele livsløpet. Universitetet vil utvikle teknologi og
 metoder som bidrar til bedre og mer effektive helse- og velferdstjenester.
-Styringsparametere:
-10. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
-utdanning innenfor tema helse og velferd
-11. Styrke publiseringen knyttet til helse og velferd
-12. Fremragende utdanninger innen helse og velferd
+ Styringsparametere:
+    10. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
+        utdanning innenfor tema helse og velferd
+    11. Styrke publiseringen knyttet til helse og velferd
+    12. Fremragende utdanninger innen helse og velferd
+
 Mål 5 – Være banebrytende på utdanningsfeltet
 UiS vil i perioden utvikle nasjonale og internasjonale partnerskap for å bidra til bedre kvalitet i
 barnehager og skoler. UiS vil utvikle ny kunnskap om barn og unges læring og læringsmiljø.
 Gjennom universitetets kandidater og partnerskap med praksisfeltet vil UiS bidra til å gjøre
 det norske utdanningssystemet bedre.
 Styringsparametere:
-13. Utvikle nasjonale og internasjonale partnerskap
-14. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
-utdanning innenfor tema læring for livet
-15. Styrke publisering om barn og unges læring og læringsmiljø
+    13. Utvikle nasjonale og internasjonale partnerskap
+    14. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
+        utdanning innenfor tema læring for livet
+    15. Styrke publisering om barn og unges læring og læringsmiljø
 
-3
+3     Tildeling
 
-Tildeling
-
-3.1
-
-Tildeling over kap. 260, post 50
-
+3.1       Tildeling over kap. 260, post 50
 Stortinget har bevilget 43 mrd. kroner over kap. 260, post 50 til statlige universiteter og
 høyskoler. Det ligger til grunn en prisjustering i statsbudsjettet på 4,4 pst. fra 2023 til 2024 for
 50- og 70-poster. Prisjusteringsbeløpet for universiteter og høyskoler ble redusert med 50
@@ -318,7 +271,9 @@ mill. kroner i budsjettforliket.
 Kunnskapsdepartementet tildeler med dette 1 981 487 000 kroner til Universitetet i
 Stavanger.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 For en forklaring av endringene viser vi til Orientering om statsbudsjettet 2024 for universitet
 og høgskular etter vedtak i Stortinget 18. desember 2023, inkludert endringene som kom i
@@ -332,31 +287,20 @@ situasjonen, og de endelige rammene vil bli fastsatt i de ordinære budsjettpros
 studieplass er definert som 60 studiepoeng. Departementet understreker at det vil bli aktuelt
 å flytte midler mellom institusjoner dersom opptaket og produksjonen ikke gjenspeiler
 forventningene om kapasitet i utdanningene
-3.1.1
 
-Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
-
+3.1.1     Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
 I 2023 ble det begynt en utfasing av studieplassmidlene som ble tildelt i forbindelse med
 Revidert nasjonalbudsjett 2020. Følgende studieplasser blir faset ut med halvårseffekt i
 2024:
-
-
-
-
-4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
-barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
-økonomisk-administrative fag, utøvende musikk og MNT
-1-årige studieplasser i PPU/PPU-Y
-
+         4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
+          barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
+          økonomisk-administrative fag, utøvende musikk og MNT
+         1-årige studieplasser i PPU/PPU-Y
 Studieplasser tildelte til korte utdanninger blir faset ut med en helårseffekt. Det gjelder
 følgende:
-
-
-
-2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
-design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
-3-årige studieplasser i animasjon
-
+         2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
+          design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
+         3-årige studieplasser i animasjon
 Regjeringen vil trekke ut de øvrige midlene fremover etter hvert som studentene tatt opp i
 2020, 2021 og 2022 fullfører sine utdanninger. Kunnskapsdepartementet vil understreke at
 dette ikke nødvendigvis innebærer at institusjonene reduserer aktiviteten ved de
@@ -365,17 +309,16 @@ legger til grunn at institusjonene opprettholder kapasiteten i utdanninger med v
 høy etterspørsel i arbeidsmarkedet. Departementet legger til grunn at kapasiteten særskilt
 opprettholdes i utdanninger innenfor helse- og sosialfag og teknologifag.
 
-3.2
-
-Tildeling over kap. 201, post 21
-
+3.2       Tildeling over kap. 201, post 21
 Kunnskapsdepartementet tildeler med dette 14 000 000 kroner til Universitetet i Stavanger til
 Kunnskapssenter for utdanning (KSU). Hovedformålet med KSU er å sammenstille og
 formidle nasjonal og internasjonal forskning på utdanningsområdet, arbeide systematisk med
 å videreutvikle sjangeren kunnskapsoversikter, og bidra til økt kompetanse på å
 sammenstille og oppsummere forskningsresultater i samarbeid med norske forskere og
 
-Side 7
+ Side 7
+
+[Side 8]
 
 internasjonale aktører på feltet. Midlene skal benyttes i samsvar med retningslinjene for
 senteret fra 2019.
@@ -383,10 +326,7 @@ Kunnskapsdepartementet tildeler i tillegg 600 000 kroner til Universitetet i Sta
 bidrag til KSUs arbeid med nordisk base for barnehageforskning. Midler til dette formålet gis
 også fra kap. 231, post 21.
 
-3.3
-
-Tildeling over kap. 231, post 21
-
+3.3       Tildeling over kap. 231, post 21
 I statsbudsjettet for 2024 er det bevilget 50 mill. kroner til å styrke
 barnehagelærerutdanningen (BLU). Gode barnehagelærere er nødvendig for god
 pedagogisk kvalitet i barnehagen, og det er viktig at utdanningen har høy kvalitet, er godt
@@ -399,10 +339,7 @@ Kunnskapsdepartementet tildeler 600 000 kroner til Universitetet i Stavanger, so
 Kunnskapssenter for utdanning sitt arbeid med nordisk base for barnehageforskning. Midler
 til dette formålet gis også fra kap. 201, post 21.
 
-3.4
-
-Utbetaling
-
+3.4       Utbetaling
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 Midlene til KSUs arbeid med nordisk base for barnehageforskning over kap. 201, post 21 og
@@ -411,30 +348,22 @@ utbetales i én rate i september.
 Midlene over kap. 231, post 21 til å styrke barnehagelærerutdanningen utbetales i én rate i
 januar.
 
-3.5
-
-Fullmakter
-
+3.5       Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Se oversikt over delegerte fullmakter i Fullmakter for statlige
 universiteter og høyskoler 2024.
 
-Side 8
+ Side 8
 
-4
+[Side 9]
 
-Andre forutsetninger og krav
+4     Andre forutsetninger og krav
 
-4.1
+4.1       Fellesføringer fra regjeringen
 
-Fellesføringer fra regjeringen
-
-4.1.1
-
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Universitetet i Stavanger skal følge opp dette målet. I dette
 arbeidet skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og
@@ -443,10 +372,8 @@ Universitetet i Stavanger skal også vurdere hvordan klimaendringene vil påvirk
 virksomheten. Universitetet i Stavanger skal gjøre systematiske vurderinger av egen
 energibruk og ta i bruk lønnsomme energieffektive løsninger, samt øke energifleksibiliteten
 der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse
 Regjeringen har høye ambisjoner når det gjelder mangfold. Statlige virksomheter skal ha en
 positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og/eller fravær fra
 arbeid, utdanning eller opplæring. Arbeidsgiverne skal i samarbeid med de tillitsvalgte selv
@@ -454,10 +381,8 @@ definere et hensiktsmessig ambisjonsnivå ut fra virksomhetens egenart og størr
 Universitetet i Stavanger skal i årsrapporten oppgi antallet ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2024 og omtale
 utviklingen sett opp mot virksomhetens gjennomsnitt for 2020 og 2021.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle
 egenkompetanse. Universitetet i Stavanger skal arbeide for å redusere konsulentbruken på
 områder der det ligger til rette for å benytte interne ressurser og kompetanse. Utover
@@ -475,16 +400,13 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større kjøp av
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
-Side 9
+ Side 9
 
-4.2
+[Side 10]
 
-Andre krav
+4.2     Andre krav
 
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1      Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -497,53 +419,43 @@ samfunnssikkerhet og beredskap, og nasjonal sikkerhet. HK-dir har i den forbinde
 oppgave å vedlikeholde en løpende situasjonsforståelse for Kunnskapsdepartementet, ved å
 blant annet kartlegge sikkerhetstilstanden i sektoren.
 Universitetet i Stavanger skal i årsrapporten for 2024 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Universitetet i Stavanger for dette arbeidet?
-2. Når reviderte Universitetet i Stavanger sist sin ROS-analyse? Hvilke områder er
-identifisert som de med høyest risiko for virksomheten?
-3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
-gjennomført i 2024.
-4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
-hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
-virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
-4.2.2
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Universitetet i Stavanger for dette arbeidet?
+   2. Når reviderte Universitetet i Stavanger sist sin ROS-analyse? Hvilke områder er
+      identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
+      gjennomført i 2024.
+   4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
+      hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
+      virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
 
-Informasjonssikkerhet og personvern
-
+4.2.2      Informasjonssikkerhet og personvern
 Krav i virksomhets- og økonomiinstruksen skal ligge til grunn for arbeidet med
 informasjonssikkerhet og personvern ved Universitetet i Stavanger. I lys av det skjerpede
 trusselbildet internasjonalt, den økende avhengigheten av digital teknologi i samfunnet og
 den raske teknologiske utviklingen, forventer Kunnskapsdepartementet at Universitetet i
-Stavanger styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige IKTsikkerhetshendelser og brudd på personopplysningssikkerheten. I den forbindelse er behovet
+Stavanger styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige IKT-
+sikkerhetshendelser og brudd på personopplysningssikkerheten. I den forbindelse er behovet
 for tilfredsstillende kontinuitets- og beredskapsplaner særlig viktig.
-4.2.3
 
-Avsetninger
-
+4.2.3      Avsetninger
 F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og anvendelse av
 ubrukte budsjettmidler (avsetninger) regulerer institusjonenes adgang til å utsette aktivitet og
 overføre ubenyttet bevilgning fra Kunnskapsdepartementet fra ett budsjettår til et annet.
 Universitetet i Stavanger skal i årsrapporten for 2024 kort omtale følgende:
-
-
+       Årsakene til avsetningene
+       Om størrelsen på avsetningene har påvirket måloppnåelsen
 
-Årsakene til avsetningene
-Om størrelsen på avsetningene har påvirket måloppnåelsen
+ Side 10
 
-Side 10
+[Side 11]
 
 Videre skal følgende kommenteres i ledelseskommentarene til årsregnskapet:
-
-
+        Størrelsen på avsetningene
+        Hva avsetningene planlegges brukt til
 
-Størrelsen på avsetningene
-Hva avsetningene planlegges brukt til
-
-4.2.4
-
-Utarbeidelse av investeringsplan
-
+4.2.4      Utarbeidelse av investeringsplan
 I henhold til F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og
 anvendelse av ubrukte budsjettmidler (avsetninger), skal styret beslutte hvor mye som skal
 avsettes til fremtidige investeringer i forbindelse med fastsettelse av institusjonens
@@ -552,12 +464,9 @@ Departementet har utarbeidet en veileder til utforming av investeringsplanen. Vi
 investeringsplanen utarbeides i henhold til denne veilederen, fra og med årsregnskapet for
 2023.
 
-5
-5.1
+5       Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+5.1      Rapportering om resultater
 Årsrapport for 2024 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2025, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -580,22 +489,18 @@ egne brev angi hvilke frister og krav som gjelder for delårsregnskapene og års
 Departementet viser til Finansdepartementets rundskriv R-10/2023 når det gjelder
 rapportering av regnskapsopplysninger til statsregnskapet for 2024.
 
-5.2
-
-Satsingsforslag for 2026
-
+5.2      Satsingsforslag for 2026
 Universitetet i Stavanger kan sende eventuelle satsingsforslag i tråd med Veiledning til
 fremstilling av satsingsforslag for 2026.
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Frist for innsendelse av satsingsforslag for 2026 er 1. november 2024. Forslaget sendes til
 postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2024
-
+5.3      Styringsdialogen i 2024
 Etatsstyringsmøtene skal være en strategisk dialog om institusjonens utvikling. Sentrale
 temaer i møtet er resultater, ambisjoner, strategiske prioriteringer og utfordringer.
 Departementet inviterer med dette styret og institusjonens ledelse til etatsstyringsmøte i
@@ -612,28 +517,23 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                              Charlotte Rustad
+                                                                              konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Vedlegg og instrukser oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-
-
-
-
-
-
+         Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
+          Stortinget 18. desember 2023
+         Krav til årsrapport for statlige universiteter og høyskoler 2024
+         Fullmakter for statlige universiteter og høyskoler 2024
+         Veiledning til fremstilling av satsingsforslag for 2026
+         Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2024
+         Virksomhets- og økonomiinstruks (oppdatert)
 
-Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2023
-Krav til årsrapport for statlige universiteter og høyskoler 2024
-Fullmakter for statlige universiteter og høyskoler 2024
-Veiledning til fremstilling av satsingsforslag for 2026
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2024
-Virksomhets- og økonomiinstruks (oppdatert)
+ Side 12
 
-Side 12
+[Side 13]
 
 Kopi
 Riksrevisjonen

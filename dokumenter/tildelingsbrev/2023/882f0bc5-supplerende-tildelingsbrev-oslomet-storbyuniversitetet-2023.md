@@ -8,27 +8,25 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/7ec338e7b2254a078a51d173ed214968/supplerende-tildelingsbrev-2023-til-oslomet-storbyuniversitetet-3.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-a4c0-4425-9a40-b711882f0bc5
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
 
+[Side 1]
+
 OsloMet – storbyuniversitetet
 
-Deres ref
-
-Vår ref
-
-Dato
-
-22/4193-
-
-3. juli 2023
+Deres ref                               Vår ref                      Dato
+                                        22/4193-                     3. juli 2023
 
 Statsbudsjettet 2023, kap. 226, post 21. Supplerende tildelingsbrev til
-OsloMet – storbyuniversitetet (NAFO) om tiltak for å styrke barnehageog opplæringstilbudet til nyankomne ukrainske fordrevne
+OsloMet – storbyuniversitetet (NAFO) om tiltak for å styrke barnehage-
+og opplæringstilbudet til nyankomne ukrainske fordrevne
+
 Vi viser til Stortingets behandling av revidert nasjonalbudsjettet for 2023 på
 Kunnskapsdepartementets område, jf. Innst. 490 S (2022–2023) og Prop. 118 S (2022–
 2023).
+
 Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til OsloMet –
 storbyuniversitetet datert 20. desember 2022.
 
@@ -40,35 +38,21 @@ utvikling av digitale ressurser, kompetansepakker, webinarer og fysiske samlinge
 
 Beløp og utbetaling
 Kunnskapsdepartementet tildeler med dette 10 000 000 kroner til OsloMet.
+
 Midlene utbetales til OsloMets konto 7694 05 14963 i én rate.
 .
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*        Avdeling                Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for            Bjørn Breivik
+ 0032 Oslo                                  Org.nr.         barnehage og            22 24 76 26
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842     grunnskole
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-barnehage og
-grunnskole
-
-Saksbehandler
-Bjørn Breivik
-22 24 76 26
+[Side 2]
 
 Føringer for bevilgningen
 Forutsetningene for tildelingen følger av Innst. 490 S (2022–2023), Prop. 118 S (2022–2023)
 og av forutsetningene og kravene fastsatt i dette brevet.
+
 Både Udir og NAFO vil få tildelt midler for å utvikle digitale støtte- og veiledningsressurser,
 webinarer og samlinger for sektor, og bevilgningen forutsetter at Udir og NAFO koordinerer
 seg og samarbeider.
@@ -76,6 +60,7 @@ seg og samarbeider.
 Krav til rapportering
 OsloMet skal inkludere rapportering om bruk av midlene i årsrapporten for 2023 som skal
 sendes til postmottak@kd.dep.no innen 15. mars 2024.
+
 Rapporteringen skal beskrive måloppnåelse og resultater av tiltaket og bekrefte at tilskuddet
 er benyttet i samsvar med forutsetningene i tilskuddsbrevet.
 
@@ -83,26 +68,23 @@ Med hilsen
 
 Matias Nissen-Meyer (e.f.)
 avdelingsdirektør
-Bjørn Breivik
-seniorrådgiver
+                                                                          Bjørn Breivik
+                                                                          seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
+
 Riksrevisjonen
 
-Side 2
+ Side 2
+
+[Side 3]
 
 OsloMet – storbyuniversitetet
 
-Deres ref
-
-Vår ref
-
-Dato
-
-22/4193-
-
-2. november 2023
+Deres ref                               Vår ref                      Dato
+                                        22/4193-                     2. november 2023
 
 Statsbudsjettet 2023, kap. 226, post 21. Supplerende tildelingsbrev til
 OsloMet om utvikling og drift av EVU-tilbud om innføring i norsk
@@ -110,11 +92,11 @@ barnehage og skole
 Vi viser til Stortingets behandling av revidert nasjonalbudsjettet for 2023 på
 Kunnskapsdepartementets område jf. Innst. 490 S (2022–2023) og Prop. 118 S (2022–
 2023).
+
 Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til OsloMet datert
 20. desember 2022.
 
 Mål for bevilgningen
-
 Målet med tildelingen er at OsloMet utvikler og gjennomfører et etter- og mulig
 videreutdanningstilbud som gir personer som har relevant pedagogisk utdanning fra utlandet
 en innføring i norsk barnehage og skole, i tråd med tilsendt skisse fra OsloMet av 22.09.23.
@@ -123,46 +105,34 @@ stand til å jobbe i norsk barnehage og skole og igjennom tilbudet sørge for at
 med tanke på å få jobb ute i barnehagene og skolene. Utdanningen skal gi innsikt i hva
 norske barnehager og skoler er og hvilke rammer som ligger til grunn for tilbudet som gis i
 Norge.
+
 Etterutdanningstilbudet skal ha oppstart våren 2024, og ha form som en pilot.
 Undervisningsspråket skal være norsk med støtte på ukrainsk og andre relevante språk. I
 løpet av våren skal OsloMet utrede om og eventuelt på hvilken måte dette kan utvikles til et
 studiepoenggivende videreutdanningstilbud. OsloMet må legge godt til rette for deltakelse fra
 hele landet, for eksempel ved at hele eller deler av tilbudet gjennomføres ulike steder i
 landet.
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+ Postadresse            Kontoradresse       Telefon*       Avdeling              Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90    Avdeling for          Bjørn Breivik
+ 0032 Oslo                                  Org.nr.        barnehage og          22 24 76 26
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842    grunnskole
 
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-barnehage og
-grunnskole
-
-Saksbehandler
-Bjørn Breivik
-22 24 76 26
+[Side 4]
 
 Beløp og utbetaling
 Kunnskapsdepartementet tildeler med dette 5 000 000 kroner til OsloMet.
+
 Midlene utbetales til OsloMet sin konto 7694 05 14963.
+
 Midlene som ble bevilget i RNB 2023 til blant annet dette formålet er foreslått videreført i
 Prop 1. S (2023-2024). KD vil ha dialog med OsloMet om finansiering og videreføring av
 tilbudet etter 2024.
 
 Føringer for bevilgningen
-
 Forutsetningene for tildelingen følger av Innst. 490 S (2022–2023), Prop. 118 S (2022–2023)
 og av forutsetningene og kravene fastsatt i dette brevet.
+
 Udir har fått i oppdrag å utvikle en digital ressurs som gir en innføring i norsk barnehage og
 skole, som kan brukes av personer med og uten pedagogisk utdanning. Udir har fått i
 oppdrag å utvikle en digital ressurs som gir en innføring i norsk barnehage og skole, som kan
@@ -170,6 +140,7 @@ brukes av personer med og uten pedagogisk utdanning. EVU-tilbudet som OsloMet sk
 utvikle skal være mer omfattende enn det Udir utvikler og myntet på personer med
 pedagogisk utdanning. Men siden temaet er det samme, bør det være en gjensidig
 informasjonsutveksling om disse oppdragene mellom OsloMet og Udir.
+
 Kommunene rapporterer at den største utfordringen for kapasiteten i barnehage og skole
 som følge av høyt antall nyankomne fordrevne fra Ukraina, er tilgang på personell og
 personell med relevant kompetanse. Siden en av hensiktene med dette tilbudet er å sette
@@ -178,118 +149,113 @@ kommunene, er det viktig at opptakskriteriene i minst mulig grad ekskluderer per
 trolig er i stand til å fullføre tilbudet og kan være en ressurs i norske barnehager og skoler.
 
 Krav til rapportering
-
 OsloMet skal inkludere rapportering om bruk av midlene i årsrapporten for 2023 som skal
 sendes til postmottak@kd.dep.no innen 15. mars 2024.
+
 Rapporteringen skal beskrive måloppnåelse og resultater av tiltaket og bekrefte at tildelingen
 er benyttet i samsvar med forutsetningene i tildelingsbrevet.
 
 Med hilsen
 
 Matias Nissen-Meyer (e.f.)
-avdelingsdirektør
+avdelingsdirektør                                        Bjørn Breivik
+                                                         seniorrådgiver
 
-Side 2
+ Side 2
 
-Bjørn Breivik
-seniorrådgiver
+[Side 5]
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
+
 Nasjonalt senter for flerkulturell opplæring
 Riksrevisjonen
 
-Side 3
+ Side 3
 
-OsloMet Storbyuniversitetet
-v/ Senter for profesjonsforskning (SPS)
-Postboks 4, St. Olavs plass
-0130 Oslo
+[Side 6]
 
-Deres ref
+   OsloMet Storbyuniversitetet
+   v/ Senter for profesjonsforskning (SPS)
+   Postboks 4, St. Olavs plass
+   0130 Oslo
 
-Vår ref
-21/6027
+   Deres ref                            Vår ref                       Dato
+                                        21/6027                       9.11.2023
 
-Dato
-9.11.2023
+  Statsbudsjettet 2023, kap. 200, post 21 og kap. 275, post 21. Supplerende
+  tildelingsbrev til OsloMet om ekspertgruppe om styring av
+  lærerutdanningene
+  Vi viser til Stortingets behandling av statsbudsjettet for 2023 på Kunnskapsdepartementets
+  område jf. Innst. 12 S (2022–2023) og Prop. 1 S (2022–2023).
 
-Statsbudsjettet 2023, kap. 200, post 21 og kap. 275, post 21. Supplerende
-tildelingsbrev til OsloMet om ekspertgruppe om styring av
-lærerutdanningene
-Vi viser til Stortingets behandling av statsbudsjettet for 2023 på Kunnskapsdepartementets
-område jf. Innst. 12 S (2022–2023) og Prop. 1 S (2022–2023).
-Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til OsloMet
-Storbyuniversitetet datert 20. desember 2022.
+  Vi viser også til det ordinære tildelingsbrevet fra Kunnskapsdepartementet til OsloMet
+  Storbyuniversitetet datert 20. desember 2022.
 
-1. Mål for tildelingen
-Regjeringen har satt i gang et arbeid for å gjøre styringen av lærerutdanningene mer
-overordnet. Formålet er blant annet at de som tilbyr og samarbeider om lærerutdanning skal få
-større frihet og fleksibilitet til å videreutvikle utdanningene til det beste for barnehagen og
-skolen.
+  1. Mål for tildelingen
 
-2. Beløp og utbetaling
-Oppdraget finansieres fra Kunnskapsdepartementet med inntil 2 890 000 kroner fordelt over to
-år.
-Kunnskapsdepartementet tildeler med dette 190 000 kroner over kap. 200, post 21, og
-1 100 000 kroner over kap. 271, post 21, til sammen 1 290 000 til OsloMet –
-Storbyuniversitetet, ved Senter for profesjonsforskning (SPS). Tildelingen er ettårig.
-Midlene utbetales til OsloMets konto 7694 05 14963.
+  Regjeringen har satt i gang et arbeid for å gjøre styringen av lærerutdanningene mer
+  overordnet. Formålet er blant annet at de som tilbyr og samarbeider om lærerutdanning skal få
+  større frihet og fleksibilitet til å videreutvikle utdanningene til det beste for barnehagen og
+  skolen.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+  2. Beløp og utbetaling
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+  Oppdraget finansieres fra Kunnskapsdepartementet med inntil 2 890 000 kroner fordelt over to
+  år.
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+  Kunnskapsdepartementet tildeler med dette 190 000 kroner over kap. 200, post 21, og
+  1 100 000 kroner over kap. 271, post 21, til sammen 1 290 000 til OsloMet –
+  Storbyuniversitetet, ved Senter for profesjonsforskning (SPS). Tildelingen er ettårig.
 
-Avdeling for høyere
-utdanning, forskning og
-internasjonalt arbeid
-Telefon 22 24 74 22
+  Midlene utbetales til OsloMets konto 7694 05 14963.
 
-Saksbehandler
-Ellen Birgitte Levy
+Postadresse            Kontoradresse     Telefon *          Avdeling for høyere       Saksbehandler
+Postboks 8119 Dep      Kirkeg. 18        22 24 90 90        utdanning, forskning og   Ellen Birgitte Levy
+0032 Oslo                                Org nr.            internasjonalt arbeid
+postmottak@kd.dep.no   www.kd.dep.no     872 417 842        Telefon 22 24 74 22
+
+[Side 7]
 
 Ytterligere 1 600 000 kroner vil tildeles over kap. 275, post 21 i 2024.
 
 3. Føringer for tildelingen
+
 Midlene skal dekke sekretariat, innkjøp, drift og honorar til ekspertgruppe med mandat å utrede
 og gi råd til departementet om hvordan rammeplanstyringen av lærerutdanningene kan gjøres
 mer overordnet. Ekspertgruppen leverer en delrapport om rammeplaner som
 styringsvirkemiddel i lærerutdanningene, 1. desember 2023. De skal levere en sluttrapport med
 anbefalinger til departementet 1. juni 2024. Mandatet er utformet i dialog med ekspertgruppen.
+
 Forutsetningene for tildelingen følger av Innst. 12 S (2022–2023), Prop. 1 S (2022–2023) og av
 forutsetningene og kravene fastsatt i dette brevet.
 
 4. Krav til rapportering
+
 OsloMet Storbyuniversitetet skal inkludere rapportering om bruk av midlene i årsrapporten for
 2023 som skal sendes til postmottak@kd.dep.no innen 15. mars 2024. Vi forutsetter at
 virksomheten fører prosjektregnskap for disse midlene.
+
 Rapporteringen skal beskrive måloppnåelse og resultater av tiltaket og bekrefte at tildelingen er
 benyttet i samsvar med forutsetningene i tildelingsbrevet.
 
 5. Kontroll
+
 Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at midlene blir brukt etter
 forutsetningene, jf. bevilgningsreglementet og lov om Riksrevisjonen § 12. De tildelte midlene
 kan kreves helt eller delvis tilbakebetalt dersom de ikke benyttes i samsvar med
 forutsetningene.
 
 Med hilsen
+
 Marthe Nordtug (e.f.)
 avdelingsdirektør
-Ellen Birgitte Levy
-utredningsleder
+                                                                           Ellen Birgitte Levy
+                                                                           utredningsleder
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
 
 Kopi: Riksrevisjonen
 
-Side 2
+ Side 2

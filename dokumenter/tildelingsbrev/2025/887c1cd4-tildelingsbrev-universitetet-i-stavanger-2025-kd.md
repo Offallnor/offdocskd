@@ -8,22 +8,17 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-universitetet-i-stavanger2454416.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-ed61-4c4c-88af-d38b887c1cd4
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Universitetet i Stavanger
 4036 STAVANGER
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/5195
-
-19. desember 2024
+Deres ref                                                Vår ref                                       Dato
+                                                         24/5195                                       19. desember 2024
 
 Tildelingsbrev 2025 til Universitetet i Stavanger
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S
@@ -35,54 +30,20 @@ supplerende tildelingsbrev skal publiseres på virksomhetens nettsider så snart
 jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2025 består av følgende deler:
-1
+1     Regjeringens prioriteringer og forventninger .....................................................................2
+2     Mål .....................................................................................................................................4
+3     Tildeling .............................................................................................................................7
+4     Andre forutsetninger og krav ...........................................................................................11
+5     Rapportering og resultatoppfølging .................................................................................13
 
-Regjeringens prioriteringer og forventninger .....................................................................2
+ Postadresse                     Kontoradresse                Telefon*                    Avdeling                     Saksbehandler
+ Postboks 8119 Dep               Kirkeg. 18                   22 24 90 90                 Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                     høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no            www.kd.dep.no                872 417 842                 forskning                    22 24 74 82
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling .............................................................................................................................7
-
-4
-
-Andre forutsetninger og krav ...........................................................................................11
-
-5
-
-Rapportering og resultatoppfølging .................................................................................13
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-22 24 74 82
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1    Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -112,18 +73,25 @@ studieporteføljen og dimensjonerer utdanningstilbudene med sikte på å møte b
 tråd med perspektivmeldingen2, samt følge opp prioriteringene i utsynsmeldingen3 og
 profesjonsmeldingen4 og tidligere tildelinger av studieplasser. Utdanningstilbudene skal ha
 høy kvalitet og være tett koblet til praksisfeltet. Universitetene og høyskolene skal fortsette å
-prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etterog videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
+prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etter-
+og videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
 med flere studiesteder ivaretar sitt regionale oppdrag og videreutvikler disse.
 Regjeringen legger til rette for at flere skal komme raskere inn i høyere utdanning, jf.
 opptaksmeldingen5 og forventer at universitetene og høyskolene bidrar til at flere studenter
 
 1 Meld. St. 5 Langtidsplan for forskning og høyere utdanning 2023–2032 - Innst. 170 S (2022–2023)
+
 2 Meld. St. 31 (2023-2024) Perspektivmeldingen 2024
+
 3 Meld. St. 14 Utsyn over kompetansebehovet i Norge - Innst. 472 S (2022–2023)
+
 4 Meld. St. 19 Profesjonsnære utdanningar over heile landet - Innst. 330 S (2023-2024)
+
 5 Meld. St. 20 Opptak til høgare utdanning – Innst. 378 S (2023-2024)
 
-Side 2
+ Side 2
+
+[Side 3]
 
 har en god studieprogresjon og gjennomfører utdanningene. Universitetene og høyskolene
 har også ansvar for å bidra til et godt etter- og videreutdanningstilbud, herunder utvidet
@@ -161,32 +129,31 @@ Regjeringen forventer at universitetene og høyskolene arbeider for å bruke eks
 areal bedre fremfor å bygge nytt, og at de gjør grundige vurderinger av behovene for nybygg,
 
 6 Se nærmere omtale om øremerking i kapittel 3.
+
 7 Frå ord til handling - Handlingsplan for norsk fagspråk i akademia
+
 8 Nasjonal digitaliseringsstrategi 2024-2030
+
 9 Digitaliseringsrundskrivet - regjeringen.no
+
 10 Strategi for å øke næringslivets investeringer i forskning og utvikling 2024
 
-Side 3
+ Side 3
+
+[Side 4]
 
 rehabilitering, ombygging og leie av bygg. Departementet har utarbeidet en veiviser11 for
 universiteter og høyskoler om samarbeidet i bygge- og leiesaker, for å støtte opp under en
 transparent og forutsigbar dialog og samhandling om arealbehov. Institusjonene skal sette
 seg godt inn i denne.
 
-2
-
-Mål
+2    Mål
 
 2.1 Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren.
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2024–2025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
@@ -213,13 +180,16 @@ hensyn til disse målene i planer og i styringen av virksomheten.
 2.3 Sektormål og utviklingsavtaler
 For 2025 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
+          1. Høy kvalitet i utdanning og forskning
+
 11 Veiviser for universiteter og høyskoler om samarbeidet i bygge- og leiesaker
 
-Side 4
+ Side 4
 
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+[Side 5]
+
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
@@ -248,9 +218,10 @@ nytteverdi for samfunnet, og koblinger til målrettede samfunnsoppdrag i Horison
 utdanningene vil UiS prioritere studentaktiv og innovativ læring med klare bidrag til
 bærekraftsmålene.
 Styringsparametere:
-1. Prioritere forskningsområder som bidrar til grønn omstilling
-2. Tildelinger fra målrettede samfunnsoppdrag i Horisont Europa
-3. Studentaktiv og innovativ læring med klare bidrag til bærekraftsmålene
+   1. Prioritere forskningsområder som bidrar til grønn omstilling
+   2. Tildelinger fra målrettede samfunnsoppdrag i Horisont Europa
+   3. Studentaktiv og innovativ læring med klare bidrag til bærekraftsmålene
+
 Mål 2 – Være et åpent universitet med fleksible og ettertraktede utdanninger
 UiS vil i perioden arbeide for mer fleksible og ettertraktede utdanninger som møter
 fremtidens kompetansebehov. Utdanningene skal i løpet av avtaleperioden få klarere
@@ -259,50 +230,55 @@ tverrfaglige løsninger nasjonalt og internasjonalt. Universitetet vil i periode
 bidragsyter til Kunnskapsbyen Stavanger.
 Styringsparametere:
 
-Side 5
+ Side 5
 
-4. Mer fleksible og utfordringsbaserte utdanninger
-5. Attraktive utdanninger
-6. Flere studieprogram med tilbud om praksis i arbeidslivet
+[Side 6]
+
+   4. Mer fleksible og utfordringsbaserte utdanninger
+   5. Attraktive utdanninger
+   6. Flere studieprogram med tilbud om praksis i arbeidslivet
+
 Mål 3 – Sterk posisjon på energifeltet
 UiS har ambisjon om å være ledende på energifeltet, og vil i løpet av perioden utvikle en klar
 og sterk posisjon som energiuniversitet. Universitetets kompetanse på teknologi, økonomi og
 samfunnsforståelse skal møte omstillingsbehov i energiforsyningen. UiS vil videreutvikle
 denne kompetansen gjennom helhetlig og tverrfaglig kunnskapsproduksjon innenfor
 energiforskning og -utdanning.
-Styringsparametere:
-7. Omstilling av energiforskning og -utdanninger
-8. Økte tildelinger fra eksterne konkurransearenaer innenfor innovasjon, forskning og
-utdanning på energiområdet
-9. Styrke publisering relatert til bærekraftige energiløsninger
+ Styringsparametere:
+   7. Omstilling av energiforskning og -utdanninger
+   8. Økte tildelinger fra eksterne konkurransearenaer innenfor innovasjon, forskning og
+      utdanning på energiområdet
+   9. Styrke publisering relatert til bærekraftige energiløsninger
+
 Mål 4 – Bred og innovativ satsing på kunnskap for fremtidens helse- og
-velferdssamfunn
+        velferdssamfunn
 UiS vil i perioden bygge kunnskap som støtter opp om fremtidens velferdssamfunn gjennom
 bred satsing på helse- og velferdsforskning. UiS vil tilby fremragende utdanninger innen
 helse og velferd. Gjennom samarbeid med praksisfeltet vil universitetet bidra til god
 folkehelse, livskvalitet og velferd gjennom hele livsløpet. Universitetet vil utvikle teknologi og
 metoder som bidrar til bedre og mer effektive helse- og velferdstjenester.
-Styringsparametere:
-10. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
-utdanning innenfor tema helse og velferd
-11. Styrke publiseringen knyttet til helse og velferd
-12. Fremragende utdanninger innen helse og velferd
+ Styringsparametere:
+   10. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
+       utdanning innenfor tema helse og velferd
+   11. Styrke publiseringen knyttet til helse og velferd
+   12. Fremragende utdanninger innen helse og velferd
+
 Mål 5 – Være banebrytende på utdanningsfeltet
 UiS vil i perioden utvikle nasjonale og internasjonale partnerskap for å bidra til bedre kvalitet i
 barnehager og skoler. UiS vil utvikle ny kunnskap om barn og unges læring og læringsmiljø.
 Gjennom universitetets kandidater og partnerskap med praksisfeltet vil UiS bidra til å gjøre
 det norske utdanningssystemet bedre.
 Styringsparametere:
-13. Utvikle nasjonale og internasjonale partnerskap
-14. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
-utdanning innenfor tema læring for livet
-15. Styrke publisering om barn og unges læring og læringsmiljø
+   13. Utvikle nasjonale og internasjonale partnerskap
+   14. Økte tildelinger fra eksterne konkurransearenaer til innovasjon, forskning og
+       utdanning innenfor tema læring for livet
+   15. Styrke publisering om barn og unges læring og læringsmiljø
 
-Side 6
+ Side 6
 
-3
+[Side 7]
 
-Tildeling
+3   Tildeling
 
 3.1 Tildeling over kap. 260, post 50
 Stortinget har bevilget 44,2 mrd. kroner over kap. 260, post 50 til statlige universiteter og
@@ -312,6 +288,7 @@ Stavanger.
 Orientering om statsbudsjettet 2025 for universitet og høgskular etter vedtak i Stortinget 18.
 desember 2024 gir en oversikt over de enkelte endringene i rammebevilgningen per
 institusjon.
+
 Rammefinansiering
 Universitetene og høyskolene får midlene på kap. 260 som én rammebevilgning, som betyr
 at institusjonen selv skal disponere og fordele tildelingen mellom sine formål, aktiviteter og
@@ -321,6 +298,7 @@ noen punkter er bevilgningen fra departementet øremerket et bestemt formål. En
 som ikke er tidsavgrenset blir formelt uttrykt i tildelingsbrevet for det første året av
 øremerkingen, og det er en forventning om at aktiviteten videreføres i påfølgende år uten at
 det gis formelt pålegg.
+
 Ikke øremerking av rekrutteringsstillinger
 Fra og med 2023 ble øremerkingen av midler til rekrutteringsstillinger fjernet, som innebærer
 at institusjonene ikke er pålagt et bestemt antall slike stillinger, jf. Innst. 12 S (2022–2023) og
@@ -328,6 +306,7 @@ Prop. 1 S (2022–2023). Universitetene og høyskolene har dermed mer frihet til
 budsjettprioriteringer, ha en mer målrettet rekrutterings- og karrierepolitikk og selv vurdere
 hvor mange rekrutteringsstillinger de til enhver tid har behov for, i tråd med regjeringens
 tillitsreform.
+
 Utfasing av studieplasser fra Utdanningsløftet 2020
 Utfasingen av studieplasser fra revidert nasjonalbudsjett for 2020 innebærer reduksjon i
 bevilgningen til de institusjonene som fikk tildelt slike studieplassmidler. Det skjer avhengig
@@ -335,42 +314,29 @@ av lengden på studiene som institusjonene opprettet og etter hvert som de aktue
 fra 2020, 2021 og 2022 har fullført studieløpene. Unntaket er de 80 studieplassene i medisin
 og 300 plasser i barnevernsfaglige utdanninger på masternivå hvor midlene videreføres til de
 aktuelle institusjonene.
+
 Nye studieplasser
 I perioden 2022–2025 er det i statsbudsjettene prioritert nye studieplasser/økt kapasitet til:
-•
-•
-•
+    •     235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
+          2020
+    •     300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
+    •     500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
+          plasser innenfor gjeldende bevilgning
 
-Side 7
+ Side 7
 
-235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
-2020
-300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
-500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
-plasser innenfor gjeldende bevilgning
+[Side 8]
 
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-40 studieplasser i nukleære fag
-200 studieplasser innenfor IKT-fag
-25 studieplasser i flyingeniørutdanning
-20 studieplasser i fysioterapiutdanning
-20 studieplasser skogfag
-20 studieplasser i vernepleie
-10 studieplasser i folkedans
-20 studieplasser i veterinærmedisin
-Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
-60 studieplasser til å etablere en campus på Gol i Hallingdal
-
+   •      40 studieplasser i nukleære fag
+   •      200 studieplasser innenfor IKT-fag
+   •      25 studieplasser i flyingeniørutdanning
+   •      20 studieplasser i fysioterapiutdanning
+   •      20 studieplasser skogfag
+   •      20 studieplasser i vernepleie
+   •      10 studieplasser i folkedans
+   •      20 studieplasser i veterinærmedisin
+   •      Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
+   •      60 studieplasser til å etablere en campus på Gol i Hallingdal
 Bevilgningen til studieplasser trappes opp til plassene er fullt utbygget med nye årlige kull, og
 den avhenger av lengde på studiene, fra to- til seksårige. En studieplass er definert som 60
 studiepoeng. Ved tildeling av nye eller flere studieplasser forventer Kunnskapsdepartementet
@@ -396,6 +362,7 @@ samfunnsbehovene ivaretas.
 Departementet understreker at det kan bli aktuelt å flytte midler mellom institusjoner dersom
 opptaket og produksjonen ikke gjenspeiler forventningene om gjennomførte studiepoeng og
 ikke svarer til samfunnsbehovene slik de blant annet er beskrevet i de nevnte meldingene.
+
 Sykepleierutdanning
 Departementet har registrert at det ved de fleste institusjonene er en positiv økning i
 opptaket til sykepleierutdanning i 2024. Likevel ligger mange institusjoner under nivået som
@@ -403,13 +370,17 @@ synes nødvendig for å innfri resultatkravene fra tildelingene i budsjettene fo
 Ved de fleste institusjonene gikk også studiepoengproduksjonen i sykepleieutdanningene
 ned i 2023, og møter ikke resultatkravene. Departementet understreker at oppfølgingen av
 studieplasstildelingen primært vurderes i form av gjennomførte studiepoeng, og at
-Side 8
+
+ Side 8
+
+[Side 9]
 
 institusjonene må gjøre nødvendige tiltak for at den samlede utdanningsaktiviteten innenfor
 sykepleie innfrir forventningene til økt kapasitet fra studieplasstildelingene i 2020 og 2022.
 Institusjonene må gi en forklaring på manglende måloppnåelse i årsrapporten for 2024 og
 vurderinger av sannsynligheten for å utnytte kapasiteten bedre fremover. Basert på dette vil
 departementet vurdere omdisponeringer i 2026.
+
 Nasjonale senter i grunnopplæringen
 I Meld. St. 34 (2023–2024) beskriver regjeringen behov for en mer praktisk, variert og
 motiverende opplæring, og vil derfor sette i gang et nasjonalt program for mer praktisk
@@ -442,13 +413,15 @@ internasjonale aktører på feltet. Midlene skal benyttes i samsvar med retnings
 senteret fra 2019.
 
 3.3 Tildeling over kap. 226, post 21 Lesesenteret ved Universitet i
-Stavanger
+    Stavanger
 Kunnskapsdepartementet tildeler 18 000 000 kroner til Nasjonalt lesesenter ved
 Universitetet i Stavanger. Midlene skal brukes til kompetansetiltak og støtteressurser i
 forbindelse med den nasjonale lesesatsingen Tid for lesing, slik det er beskrevet i brev fra
 Nasjonalt lesesenter til Kunnskapsdepartementet 14. mars 2024, i leselyststrategien og i
 
-Side 9
+ Side 9
+
+[Side 10]
 
 Meld. St. 34 (2023–2024) Meld. St. 34 (2023–2024) En mer praktisk skole - Bedre læring,
 motivasjon og trivsel på 5.–10. trinn. Ressursene Nasjonalt lesesenter utvikler skal være på
@@ -458,7 +431,7 @@ satsingen, er det viktig at Nasjonalt lesesenter samarbeider med senter for sami
 opplæringa og Sametinget.
 
 3.4 Tildeling over kap. 226, post 22 og kap. 231, post 21
-Videreutdanning for lærere
+    Videreutdanning for lærere
 Regjeringen innfører et nytt og helhetlig system for kompetanse- og karriereutvikling for
 lærere og andre ansatte i barnehage og grunnopplæring, som fases inn i 2025 og 2026.
 Forvaltningen av midler knyttet til utvikling og finansiering av videreutdanningstilbud rettet
@@ -467,6 +440,7 @@ bevilgninger i årlige tildelingsbrev til utdanningsinstitusjonene. Regjeringen 
 universiteter og høyskoler legger til rette for god sammenheng mellom grunnutdanning,
 videreutdanning og lokal kompetanseutvikling, og dialog med barnehage- og skolesektoren
 blant annet i partnerskap mellom institusjonene og kommunene.
+
 Endringene for 2025 får en halvårsvirkning fra høsten 2025. For høsten 2025 blir
 videreutdanningsmidlene fordelt mellom utdanningsinstitusjoner med lærerutdanning med en
 tilsvarende andel som høsten 2024. Dette innebærer en fullfinansiering av
@@ -482,13 +456,11 @@ om videreutdanning i praktiske og estetiske fag øker i 2025. Universiteter og h
 inneværende år tilbyr videreutdanning i praktiske og estetiske fag bør videreføre og eventuelt
 utvide aktuelle tilbud. Kunnskapsdepartementet legger til grunn at institusjonene ikke tar
 egenbetaling for videreutdanningstilbudene som er finansiert med øremerkede midler.
+
 Kunnskapsdepartementet tildeler til sammen 8 501 000 kroner til Universitetet i Stavanger
 for å utvikle og tilby videreutdanning for lærere, fordelt på følgende kapitler og poster:
-
-
-
-Kap. 226, post 22: 3 720 000 kroner (lærere i grunnopplæringen)
-Kap. 231, post 21: 4 781 000 kroner (barnehagelærere)
+      Kap. 226, post 22: 3 720 000 kroner (lærere i grunnopplæringen)
+      Kap. 231, post 21: 4 781 000 kroner (barnehagelærere)
 
 3.5 Tildeling over kap. 231, post 21 Barnehagelærerutdanningen
 I statsbudsjettet for 2025 er det bevilget 50 mill. kroner til å styrke
@@ -496,7 +468,9 @@ barnehagelærerutdanningen (BLU). Gode barnehagelærere er nødvendige for god
 pedagogisk kvalitet i barnehagen, og det er viktig at utdanningen har høy kvalitet, er godt
 forankret i forsking og nært knyttet til praksisfeltet. Med økte ressurser vil de som utdanner
 
-Side 10
+ Side 10
+
+[Side 11]
 
 barnehagelærere, ved universiteter og høyskoler og i barnehager med praksis, kunne utvikle
 BLU til den tverrfaglige og krevende utdanningen som var intensjonen med reformen i
@@ -511,16 +485,12 @@ Kunnskapsdepartementet utbetaler midlene over kap. 231, post 21 i én rate i feb
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-4
-
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
 
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1   Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+        naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Universitetet i Stavanger skal følge opp dette målet. I dette
 arbeidet skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og
@@ -529,11 +499,9 @@ Universitetet i Stavanger skal også vurdere hvordan klimaendringene vil påvirk
 virksomheten. Universitetet i Stavanger skal gjøre systematiske vurderinger av egen
 energibruk og ta i bruk lønnsomme energieffektive løsninger, samt øke energifleksibiliteten
 der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2   Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+        eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
@@ -544,12 +512,11 @@ funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2
 antallet ansettelser i virksomheten i 2025. Universitetet i Stavanger skal også omtale
 utviklingen i 2025 sett opp mot det virksomheten har rapportert for 2024.
 
-Side 11
+ Side 11
 
-4.1.3
+[Side 12]
 
-Redusere konsulentbruken
-
+4.1.3   Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Universitetet i Stavanger skal arbeide for å redusere konsulentbruken på
 områder der det ligger til rette for å benytte interne ressurser og kompetanse. Utover
@@ -568,10 +535,8 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
 4.2 Andre krav
-4.2.1
 
-Sikkerhet og beredskap
-
+4.2.1   Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -583,24 +548,24 @@ samfunnssikkerhet og nasjonal sikkerhet. Fra og med 2025 blir i tillegg oppgaven
 kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssektoren
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 Universitetet i Stavanger skal i årsrapporten for 2025 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Universitetet i Stavanger for dette arbeidet?
-2. Når reviderte Universitetet i Stavanger sist sin ROS-analyse? Hvilke overordnede
-områder er identifisert som de med høyest risiko for virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Universitetet i Stavanger for dette arbeidet?
+   2. Når reviderte Universitetet i Stavanger sist sin ROS-analyse? Hvilke overordnede
+      områder er identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+      er gjennomført i 2025.
+   4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+      styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
 
-Side 12
+ Side 12
 
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
-4.2.2
+[Side 13]
 
-Informasjonssikkerhet og personvern
+        informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+        samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
+4.2.2   Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern ved Universitetet i Stavanger. I lys av det
@@ -609,10 +574,8 @@ samfunnet og den raske teknologiske utviklingen, forventer Kunnskapsdepartemente
 Universitetet i Stavanger styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige
 IKT-sikkerhetshendelser og brudd på personopplysningssikkerheten. I den forbindelse er
 behovet for tilfredsstillende kontinuitets- og beredskapsplaner særlig viktig.
-4.2.3
 
-Regelverkskompetanse
-
+4.2.3   Regelverkskompetanse
 Å drive en stor samfunnsinstitusjon som et universitet eller en høyskole krever betydelig
 kompetanse om regelverket. Departementet har i forbindelse med lovproposisjonen til
 Stortinget om ny universitets- og høyskolelov understreket viktigheten av å prioritere slik
@@ -621,10 +584,8 @@ registrerer at flere universiteter og høyskoler er inne i omstillingsprosesser,
 understreke viktigheten av at institusjonene sikrer nødvendig juridisk kompetanse og
 forvaltningskompetanse, slik at de er i stand til å operere innenfor regelverket og forvalte den
 myndigheten og det handlingsrommet de har.
-4.2.4
 
-Krav ved inngåelse av leieavtaler
-
+4.2.4   Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten12 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -633,9 +594,7 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
-
-Rapportering og resultatoppfølging
+5    Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
@@ -646,7 +605,9 @@ på virksomhetens nettside innen 1. mai, jf. Bestemmelser om økonomistyring i s
 
 12 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 13
+ Side 13
+
+[Side 14]
 
 Departementet minner også om at Universitetet i Stavanger innen 15. mars 2025 skal sende
 årsrapport for 2024 til postmottak@kd.dep.no, med kopi til Riksrevisjonen og DBH. Nærmere
@@ -680,35 +641,32 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                          Charlotte Rustad
+                                                                          konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 14
+ Side 14
+
+[Side 15]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
-Tildelingsbrev for universiteter og høyskoler 2025:
-▪
-▪
-▪
-▪
-▪
-▪
 
-Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2024
-Krav til årsrapport for statlige universiteter og høyskoler 2025
-Fullmakter for statlige universiteter og høyskoler 2025
-Veiledning til fremstilling av satsingsforslag for 2027
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
-Virksomhets- og økonomiinstruks
+Tildelingsbrev for universiteter og høyskoler 2025:
+   ▪   Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2024
+   ▪   Krav til årsrapport for statlige universiteter og høyskoler 2025
+   ▪   Fullmakter for statlige universiteter og høyskoler 2025
+   ▪   Veiledning til fremstilling av satsingsforslag for 2027
+   ▪   Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
+   ▪   Virksomhets- og økonomiinstruks
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
-Statsforvaltaren i Rogaland
-Studentsamskipnaden i Stavanger
-Direktoratet for høyere utdanning og kompetanse
 
-Side 15
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+ Statsforvaltaren i Rogaland
+ Studentsamskipnaden i Stavanger
+ Direktoratet for høyere utdanning og kompetanse
+
+ Side 15

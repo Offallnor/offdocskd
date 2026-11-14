@@ -8,24 +8,19 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/tildelingsbrev-2024-hogskolen-i-molde-vitenskapelige-hogskole-i-logistikk2296908.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-134c-4b45-b472-fa37eefaf408
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Høgskolen i Molde vitenskapelig høgskole i
 logistikk
 Postboks 2110
 6402 MOLDE
 
-Deres ref.
-
-Vår ref
-
-Dato
-
-23/4570
-
-20. desember 2023
+Deres ref.                                               Vår ref                                      Dato
+                                                         23/4570                                      20. desember 2023
 
 Tildelingsbrev 2024 til Høgskolen i Molde, vitenskapelig høgskole i
 logistikk
@@ -38,52 +33,20 @@ Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal publiseres på vi
 nettsider så snart de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2024 består av følgende deler:
-1
+1    Regjeringens prioriteringer og forventninger ......................................................................2
+2    Mål .....................................................................................................................................4
+3    Tildeling ..............................................................................................................................6
+4    Andre forutsetninger og krav ..............................................................................................8
+5    Rapportering og resultatoppfølging ..................................................................................10
 
-Regjeringens prioriteringer og forventninger ......................................................................2
+ Postadresse                    Kontoradresse                 Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep              Kirkeg. 18                    22 24 90 90                Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                    høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no           www.kd.dep.no                 872 417 842                forskning
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling ..............................................................................................................................6
-
-4
-
-Andre forutsetninger og krav ..............................................................................................8
-
-5
-
-Rapportering og resultatoppfølging ..................................................................................10
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-
-1
-
-Regjeringens prioriteringer og forventninger
+1    Regjeringens prioriteringer og forventninger
 
 Kunnskap og kompetanse er avgjørende for et omstillings- og konkurransedyktig Norge.
 Regjeringen fører derfor en offensiv kunnskapspolitikk som tar hele landet i bruk.
@@ -116,7 +79,8 @@ organisasjon med sikte på å gi ansatte i førstelinjen økt tillit.
 Regjeringen lanserte høsten 2023 en forsknings- og innovasjonssatsing på kunstig
 intelligens (KI) og digital sikkerhet for å gi større innsikt i samfunnskonsekvenser for
 teknologiutviklingen og gi mer kunnskap om innovasjonsmuligheter, både i næringslivet og i
-offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter itsystemet til Samordna opptak.
+offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter it-
+systemet til Samordna opptak.
 Internasjonalisering er en forutsetning for kvalitet i norsk forskning og høyere utdanning.
 Samarbeid med internasjonale kunnskapsmiljøer har positive ringvirkninger på kvaliteten i
 norske fagmiljøer, samtidig som det bidrar til å gi unge mennesker verdifull kompetanse om
@@ -124,7 +88,9 @@ de komplekse utfordringene verden står overfor. Regjeringen forventer at virkso
 
 1 Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge
 
-Side 2
+ Side 2
+
+[Side 3]
 
 bidrar til økt deltakelse i EUs programmer for utdanning, forskning og innovasjon og aktiv
 deltakelse i samarbeidet om politikk og rammebetingelser gjennom Det europeiske
@@ -170,38 +136,27 @@ institusjonene prioriterer disse utdanningene. Utdanningene skal ha høy kvalite
 koblet til praksisfeltet og tilbys i hele landet. Universitetene og høyskolene har et ansvar for å
 øke rekrutteringen.
 
-Side 3
+ Side 3
+
+[Side 4]
 
 Regjeringen er opptatt av å ha et forskningssystem i god balanse og vil derfor legge frem en
 melding til Stortinget om forskningssystemet i løpet av 2025.
 
-2
+2       Mål
 
-Mål
-
-2.1
-
-Kunnskapsdepartements overordnede mål
-
+2.1       Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål:
-
-
-
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+         Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+         Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+         Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2023–2024) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
 målene. Det er viktig med godt samspill mellom departementets underliggende virksomheter
 slik at alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Målstrukturen for sektoren
-
+2.2       Målstrukturen for sektoren
 Kunnskapsdepartementet fastsatte etter dialog med sektoren nye sektormål gjeldende fra
 2023 for statlige universiteter og høyskoler og private høyskoler som mottar statstilskudd.
 Sektormålene samsvarer godt med de overordnede målene i langtidsplanen, som gjelder all
@@ -218,19 +173,18 @@ Kunnskapsdepartementet har i samarbeid med institusjonene definert samfunns- og
 effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner må ta
 hensyn til disse målene i planer og i styringen av virksomheten.
 
-2.3
-
-Sektormål og utviklingsavtaler
-
+2.3       Sektormål og utviklingsavtaler
 For 2024 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -243,10 +197,8 @@ rammeverket for utviklingsavtalene. Utviklingsavtalene reforhandles i utgangspun
 fjerde år, men departementet åpner for eventuell revisjon av avtalene etter to år ved særlige
 behov.
 
-2.4
-
-Utviklingsavtale for Høgskolen i Molde, vitenskapelig høgskole i
-logistikk (HiM) 2023–2026
+2.4       Utviklingsavtale for Høgskolen i Molde, vitenskapelig høgskole i
+          logistikk (HiM) 2023–2026
 
 Mål 1 – Økt tilgjengelighet av utdanninger som gir studentene nye muligheter, bidrar til
 bærekraftig utvikling og gir grunnlag for verdifull innovasjon
@@ -258,10 +210,11 @@ kvalifiserer seg. HiM vil utvikle en mer fleksibel og tilgjengelig didaktisk pla
 nye læringsstier, verktøy for studentaktiv læring og maler tilpasset det enkelte
 studieprograms læringsutbytter, emne, og nye målgrupper.
 Styringsparametere:
-1. Stimulere til økt kvalitet i undervisningen gjennom å oppmuntre til merittering av
-undervisere og deling av erfaringer med nye verktøy.
-2. Bedre tilrettelegging av internasjonal utveksling for ansatte og studenter.
-3. Styrke fleksibel og livslang læring gjennom digital og desentralisert undervisning.
+   1. Stimulere til økt kvalitet i undervisningen gjennom å oppmuntre til merittering av
+      undervisere og deling av erfaringer med nye verktøy.
+   2. Bedre tilrettelegging av internasjonal utveksling for ansatte og studenter.
+   3. Styrke fleksibel og livslang læring gjennom digital og desentralisert undervisning.
+
 Mål 2 – Internasjonal forskning med regional relevans
 Forskningsgruppene ved HiM er ved avtaleperiodens start selvorganiserende og frivillige.
 Deltagelse er uforpliktende, og gruppene kan fortone seg som lite synlige i regionen. Mange
@@ -270,15 +223,19 @@ at de tilpasses et høyere ambisjonsnivå i form av flere eksternt finansierte p
 ph.d.-kandidater. Det kan også innebære å øke antall vitenskapelige assistenter og
 tilknyttede ressurser med hovedstilling i offentlig forvaltning, helsevesenet eller næringslivet.
 Styringsparametere:
-4. Bidra til den internasjonale forskningsfronten i logistikk, helse og sosialfag gjennom
-mer samarbeid med internasjonale universiteter, høgskoler og forskningsinstitutter.
-5. Flere tilslag på søknader til Norges Forskningsråd og EU sammen med
-samarbeidspartnere i regionen.
+   4. Bidra til den internasjonale forskningsfronten i logistikk, helse og sosialfag gjennom
+      mer samarbeid med internasjonale universiteter, høgskoler og forskningsinstitutter.
+   5. Flere tilslag på søknader til Norges Forskningsråd og EU sammen med
+      samarbeidspartnere i regionen.
 
-Side 5
+ Side 5
 
-6. Flere vitenskapelig ansatte som veileder stipendiater og kvalifiserer seg til opprykk til
-professor eller dosent, blant annet for å stimulere utviklingen av et tredje ph.d.program ved høgskolen.
+[Side 6]
+
+    6. Flere vitenskapelig ansatte som veileder stipendiater og kvalifiserer seg til opprykk til
+       professor eller dosent, blant annet for å stimulere utviklingen av et tredje ph.d.-
+       program ved høgskolen.
+
 Mål 3 – Utvikle kompetanse om bærekraftig samfunnsutvikling, velferd og innovasjon,
 med sterk faglig logistikk-, helse- og sosialfaglig profil
 HiM vil at forskningen og utdanningsprogrammene skal bygge på unik og institusjonstypisk
@@ -288,13 +245,14 @@ og gjennom dette bidra til det grønne skiftet. HiM vil ta en tydeligere posisjo
 kunnskapsaktør i regionen og nasjonalt, som utdanner kandidater samfunnet trenger for å
 lykkes med en mer bærekraftig samfunnsutvikling.
 Styringsparametere:
-7. Flere studieprogrammer som underbygger høgskolens status som vitenskapelig
-høgskole i logistikk, og sterke ph.d-programmer innen logistikk og helse- og sosialfag
-8. Økt kapasitet og kvalitet for utdanningene som kan ta i bruk avansert simulering og
-AR/VR, forberedende ferdighetstrening og undervisning med praksis.
-9. Tettere samarbeid med industrien, helsevesenet, andre offentlige aktører og
-frivilligheten/idretten om praksisplasser for studenter, gjesteforelesere og
-studentoppgaver for å bidra til FNs bærekraftmål.
+    7. Flere studieprogrammer som underbygger høgskolens status som vitenskapelig
+       høgskole i logistikk, og sterke ph.d-programmer innen logistikk og helse- og sosialfag
+    8. Økt kapasitet og kvalitet for utdanningene som kan ta i bruk avansert simulering og
+       AR/VR, forberedende ferdighetstrening og undervisning med praksis.
+    9. Tettere samarbeid med industrien, helsevesenet, andre offentlige aktører og
+       frivilligheten/idretten om praksisplasser for studenter, gjesteforelesere og
+       studentoppgaver for å bidra til FNs bærekraftmål.
+
 Mål 4 – Videreutvikle flercampusorganisasjonen med et levende studiemiljø og aktive
 studenter som bidrar til studiestedenes og regionens attraktivitet, arbeidsmarked og
 mangfold
@@ -304,25 +262,22 @@ undervisning er blitt høyere for mange. Det ønsker HiM å gjøre noe med. HiM 
 synlighet og betydning for regionen, og studentene skal knyttes tettere til samfunnslivet.
 Høgskolen vil bidra til et sterkt studentdemokrati.
 Styringsparametere:
-10. Høy tilstedeværelse på campus i begge campusbyene og alle steder HiM tilbyr fysisk
-eller digitalt støttet undervisning.
-11. Flere studenter som har tett kontakt med mulige arbeidsgivere i regionen gjennom
-hele studieløpet, enten de studerer i Molde, Kristiansund eller gjennom digitale
-pedagogiske plattformer.
-12. Flere møteplasser for studentene og faglærere med lokalsamfunnet.
+    10. Høy tilstedeværelse på campus i begge campusbyene og alle steder HiM tilbyr fysisk
+        eller digitalt støttet undervisning.
+    11. Flere studenter som har tett kontakt med mulige arbeidsgivere i regionen gjennom
+        hele studieløpet, enten de studerer i Molde, Kristiansund eller gjennom digitale
+        pedagogiske plattformer.
+    12. Flere møteplasser for studentene og faglærere med lokalsamfunnet.
 
-3
+3     Tildeling
 
-Tildeling
-
-3.1
-
-Tildeling over kap. 260, post 50
-
+3.1       Tildeling over kap. 260, post 50
 Stortinget har bevilget 43 mrd. kroner over kap. 260, post 50 til statlige universiteter og
 høyskoler. Det ligger til grunn en prisjustering i statsbudsjettet på 4,4 pst. fra 2023 til 2024 for
 
-Side 6
+ Side 6
+
+[Side 7]
 
 50- og 70-poster. Prisjusteringsbeløpet for universiteter og høyskoler ble redusert med 50
 mill. kroner i budsjettforliket.
@@ -340,31 +295,20 @@ situasjonen, og de endelige rammene vil bli fastsatt i de ordinære budsjettpros
 studieplass er definert som 60 studiepoeng. Departementet understreker at det vil bli aktuelt
 å flytte midler mellom institusjoner dersom opptaket og produksjonen ikke gjenspeiler
 forventningene om kapasitet i utdanningene.
-3.1.1
 
-Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
-
+3.1.1     Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
 I 2023 ble det begynt en utfasing av studieplassmidlene som ble tildelt i forbindelse med
 Revidert nasjonalbudsjett 2020. Følgende studieplasser blir faset ut med halvårseffekt i
 2024:
-
-
-
-
-4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
-barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
-økonomisk-administrative fag, utøvende musikk og MNT
-1-årige studieplasser i PPU/PPU-Y
-
+         4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
+          barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
+          økonomisk-administrative fag, utøvende musikk og MNT
+         1-årige studieplasser i PPU/PPU-Y
 Studieplasser tildelte til korte utdanninger blir faset ut med en helårseffekt. Det gjelder
 følgende:
-
-
-
-2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
-design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
-3-årige studieplasser i animasjon
-
+         2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
+          design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
+         3-årige studieplasser i animasjon
 Regjeringen vil trekke ut de øvrige midlene fremover etter hvert som studentene tatt opp i
 2020, 2021 og 2022 fullfører sine utdanninger. Kunnskapsdepartementet vil understreke at
 dette ikke nødvendigvis innebærer at institusjonene reduserer aktiviteten ved de
@@ -373,37 +317,26 @@ legger til grunn at institusjonene opprettholder kapasiteten i utdanninger med v
 høy etterspørsel i arbeidsmarkedet. Departementet legger til grunn at kapasiteten særskilt
 opprettholdes i utdanninger innenfor helse- og sosialfag og teknologifag.
 
-3.2
-
-Utbetaling
-
+3.2       Utbetaling
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-Side 7
+ Side 7
 
-3.3
+[Side 8]
 
-Fullmakter
-
+3.3       Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Se oversikt over delegerte fullmakter i Fullmakter for statlige
 universiteter og høyskoler 2024.
 
-4
+4     Andre forutsetninger og krav
 
-Andre forutsetninger og krav
+4.1       Fellesføringer fra regjeringen
 
-4.1
-
-Fellesføringer fra regjeringen
-
-4.1.1
-
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Høgskolen i Molde – vitenskapelige høgskole i logistikk skal
 følge opp dette målet. I dette arbeidet skal det tas hensyn til ivaretakelse av virksomhetens
@@ -412,10 +345,8 @@ Høgskolen i Molde – vitenskapelige høgskole i logistikk skal også vurdere h
 klimaendringene vil påvirke virksomheten. Høgskolen i Molde – vitenskapelige høgskole i
 logistikk skal gjøre systematiske vurderinger av egen energibruk og ta i bruk lønnsomme
 energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse
 Regjeringen har høye ambisjoner når det gjelder mangfold. Statlige virksomheter skal ha en
 positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og/eller fravær fra
 arbeid, utdanning eller opplæring. Arbeidsgiverne skal i samarbeid med de tillitsvalgte selv
@@ -424,10 +355,8 @@ Høgskolen i Molde – vitenskapelige høgskole i logistikk skal i årsrapporten
 ansettelser av personer med funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller
 opplæring i 2024 og omtale utviklingen sett opp mot virksomhetens gjennomsnitt for 2020 og
 2021.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle
 egenkompetanse. Høgskolen i Molde – vitenskapelige høgskole i logistikk skal arbeide for å
 redusere konsulentbruken på områder der det ligger til rette for å benytte interne ressurser
@@ -439,7 +368,9 @@ for kjøp av konsulenttjenester, hvilke tiltak som er iverksatt og konkrete resu
 det er fagområder og/eller kompetanseområder i virksomheten der konsulenter benyttes i
 særlig grad, skal bakgrunnen for dette omtales nærmere.
 
-Side 8
+ Side 8
+
+[Side 9]
 
 Høgskolen i Molde – vitenskapelige høgskole i logistikk skal som en del av rapporteringen
 også gi en overordnet omtale av eventuelle kjøp av konsulenttjenester fra
@@ -449,14 +380,9 @@ vesentlige, bør virksomheten i note til årsregnskapet spesifisere dette nærme
 virksomheten har større kjøp av konsulenttjenester fra andre statlige leverandører, bør dette
 fremgå særskilt.
 
-4.2
+4.2       Andre krav
 
-Andre krav
-
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1     Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -471,57 +397,46 @@ oppgave å vedlikeholde en løpende situasjonsforståelse for Kunnskapsdeparteme
 blant annet kartlegge sikkerhetstilstanden i sektoren.
 Høgskolen i Molde – vitenskapelige høgskole i logistikk skal i årsrapporten for 2024
 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Høgskolen i Molde – vitenskapelige høgskole i
-logistikk for dette arbeidet?
-2. Når reviderte Høgskolen i Molde – vitenskapelige høgskole i logistikk sist sin ROSanalyse? Hvilke områder er identifisert som de med høyest risiko for virksomheten?
-3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
-gjennomført i 2024.
-4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
-hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
-virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
-4.2.2
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Høgskolen i Molde – vitenskapelige høgskole i
+      logistikk for dette arbeidet?
+   2. Når reviderte Høgskolen i Molde – vitenskapelige høgskole i logistikk sist sin ROS-
+      analyse? Hvilke områder er identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
+      gjennomført i 2024.
+   4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
+      hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
+      virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
 
-Informasjonssikkerhet og personvern
-
+4.2.2     Informasjonssikkerhet og personvern
 Krav i virksomhets- og økonomiinstruksen skal ligge til grunn for arbeidet med
 informasjonssikkerhet og personvern ved Høgskolen i Molde– vitenskapelige høgskole i
 logistikk. I lys av det skjerpede trusselbildet internasjonalt, den økende avhengigheten av
 digital teknologi i samfunnet og den raske teknologiske utviklingen, forventer
 Kunnskapsdepartementet at Høgskolen i Molde - vitenskapelige høgskole i logistikk styrker
 
-Side 9
+ Side 9
+
+[Side 10]
 
 sitt arbeid med å forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og
 brudd på personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende
 kontinuitets- og beredskapsplaner særlig viktig.
-4.2.3
 
-Avsetninger
-
+4.2.3      Avsetninger
 F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og anvendelse av
 ubrukte budsjettmidler (avsetninger) regulerer institusjonenes adgang til å utsette aktivitet og
 overføre ubenyttet bevilgning fra Kunnskapsdepartementet fra ett budsjettår til et annet.
 Høgskolen i Molde, vitenskapelig høgskole i logistikk skal i årsrapporten for 2024 kort omtale
 følgende:
-
-
-
-Årsakene til avsetningene
-Om størrelsen på avsetningene har påvirket måloppnåelsen
-
+        Årsakene til avsetningene
+        Om størrelsen på avsetningene har påvirket måloppnåelsen
 Videre skal følgende kommenteres i ledelseskommentarene til årsregnskapet:
-
-
+        Størrelsen på avsetningene
+        Hva avsetningene planlegges brukt til
 
-Størrelsen på avsetningene
-Hva avsetningene planlegges brukt til
-
-4.2.4
-
-Utarbeidelse av investeringsplan
-
+4.2.4      Utarbeidelse av investeringsplan
 I henhold til F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og
 anvendelse av ubrukte budsjettmidler (avsetninger), skal styret beslutte hvor mye som skal
 avsettes til fremtidige investeringer i forbindelse med fastsettelse av institusjonens
@@ -530,12 +445,9 @@ Departementet har utarbeidet en veileder til utforming av investeringsplanen. Vi
 investeringsplanen utarbeides i henhold til denne veilederen, fra og med årsregnskapet for
 2023.
 
-5
-5.1
+5       Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+5.1      Rapportering om resultater
 Årsrapport for 2024 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2025, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -550,7 +462,9 @@ Rapporteringskrav for årsrapport er også tilgjengelig på HK-dirs nettsider.
 grunnlag for å vurdere måloppnåelse og ressursbruk, jf. Bestemmelser om økonomistyring i
 staten og Direktoratet for forvaltning og økonomistyring (DFØ)s Veiledningsnotat til
 
-Side 10
+ Side 10
+
+[Side 11]
 
 årsrapport for statlige virksomheter. Vi viser for øvrig også til vedlegget «Krav til årsrapport
 for statlige universiteter og høyskoler».
@@ -562,18 +476,12 @@ delårsregnskapene og årsregnskapet. Departementet viser til Finansdepartemente
 rundskriv R-10/2023 når det gjelder rapportering av regnskapsopplysninger til
 statsregnskapet for 2024.
 
-5.2
-
-Satsingsforslag for 2026
-
+5.2      Satsingsforslag for 2026
 Høgskolen i Molde, vitenskapelig høgskole i logistikk kan sende eventuelle satsingsforslag i
 tråd med Veiledning til fremstilling av satsingsforslag for 2026. Frist for innsendelse av
 satsingsforslag for 2026 er 1. november 2024. Forslaget sendes til postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2024
-
+5.3      Styringsdialogen i 2024
 Høgskolen i Molde, vitenskapelig høgskole i logistikk blir ikke innkalt til etatsstyringsmøte i
 2024, men får en skriftlig tilbakemelding fra departementet i løpet av 1. halvår 2024 på
 bakgrunn av blant annet årsrapporten for 2023, tilstandsrapporten for høyere utdanning 2023
@@ -583,33 +491,28 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                              Charlotte Rustad
+                                                                              konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-
-
-
-
-
-
-
-Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2023
-Krav til årsrapport for statlige universiteter og høyskoler 2024
-Fullmakter for statlige universiteter og høyskoler 2024
-Veiledning til fremstilling av satsingsforslag for 2026
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2024
-Virksomhets- og økonomiinstruks (oppdatert)
+      Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2023
+      Krav til årsrapport for statlige universiteter og høyskoler 2024
+      Fullmakter for statlige universiteter og høyskoler 2024
+      Veiledning til fremstilling av satsingsforslag for 2026
+      Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2024
+      Virksomhets- og økonomiinstruks (oppdatert)
 
 Kopi
-Riksrevisjonen
-Direktoratet for høyere utdanning og kompetanse
-Studentsamskipnaden i Molde
-Statsforvalteren i Møre og Romsdal
+ Riksrevisjonen
+ Direktoratet for høyere utdanning og kompetanse
+ Studentsamskipnaden i Molde
+ Statsforvalteren i Møre og Romsdal
 
-Side 12
+ Side 12

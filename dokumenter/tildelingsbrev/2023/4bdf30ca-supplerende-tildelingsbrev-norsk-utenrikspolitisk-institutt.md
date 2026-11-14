@@ -8,25 +8,21 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/f4b2e51a8cfd4a7980caa2d2e6352825/supplerande-tildelingsbrev-til-norsk-utanrikspolitisk-institutt-for-2023.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/ad24fa0e-4a8f-4d68-853b-9d484bdf30ca
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
 
-Dykkar ref
+[Side 1]
 
-Vår ref
-
-Dato
-
-22/5423-
-
-19. juni 2023
+Dykkar ref                              Vår ref                       Dato
+                                        22/5423-                      19. juni 2023
 
 Revidert nasjonalbudsjett 2023, kap. 275 post 21. Supplerande
 tildelingsbrev til Norsk utanrikspolitisk institutt
 Vi viser til at Stortinget i samband med behandlinga av revidert nasjonalbudsjett for 2023 har
 vedteke tilleggsløyvingar og omprioriteringar i 2023, jf. Innst. 490 S (2022–2023) og Prop.
 118 S (2022–2023).
+
 Vi viser også til det ordinære tildelingsbrevet frå Kunnskapsdepartementet til Norsk
 utanrikspolitisk institutt (NUPI) datert 20. desember 2022.
 
@@ -38,34 +34,19 @@ for mellombels auke i arbeidsgivaravgift på inntekt over 750 000 kroner.
 2. Beløp og utbetaling
 Kunnskapsdepartementet tildeler med dette 279 000 kroner til NUPI for å kompensere for
 lønns- og prisjustering og mellombels auke i arbeidsgivaravgift i 2023.
+
 Departementet utbetaler midlane i éin rate.
 
 3. Krav til rapportering
 NUPI skal rapportere om bruk av midlane i årsrapport for 2023 som skal sendast til
 Kunnskapsdepartementet, postmottak@kd.dep.no, innan 15. mars 2024.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*       Avdeling                   Saksbehandlar
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90    Avdeling for eigarskap     Maria Elise Rød
+ 0032 Oslo                                  Org.nr.        i høgare utdanning og      22 24 73 80
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842    forsking
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eigarskap
-i høgare utdanning og
-forsking
-
-Saksbehandlar
-Maria Elise Rød
-22 24 73 80
+[Side 2]
 
 Rapporteringa skal bekrefte at midlane er nytta i samsvar med føresetnadene for tildelinga.
 
@@ -79,11 +60,12 @@ Med helsing
 
 Hedda Huseby (e.f.)
 avdelingsdirektør
-Maria Elise Rød
-rådgjevar
+                                                                               Maria Elise Rød
+                                                                               rådgjevar
+
 Dokumentet er signert elektronisk og har derfor ikkje handskrivne signaturar
 
 Kopi
 Riksrevisjonen
 
-Side 2
+ Side 2

@@ -8,23 +8,18 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-hogskolen-i-molde-vitenskapelig-hogskole-i-logistikk2454452.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-15bf-4a26-adc7-897c76c65944
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Høgskolen i Molde vitenskapelig høgskole i logistikk
 Postboks 2110
 6402 MOLDE
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/5195
-
-19. desember 2024
+Deres ref                                                Vår ref                                       Dato
+                                                         24/5195                                       19. desember 2024
 
 Tildelingsbrev 2025 til Høgskolen i Molde, vitenskapelig høgskole i logistikk
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S
@@ -36,54 +31,20 @@ Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal publiseres på vi
 nettsider så snart de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2025 består av følgende deler:
-1
+1     Regjeringens prioriteringer og forventninger .....................................................................2
+2     Mål .....................................................................................................................................4
+3     Tildeling .............................................................................................................................7
+4     Andre forutsetninger og krav .............................................................................................9
+5     Rapportering og resultatoppfølging .................................................................................11
 
-Regjeringens prioriteringer og forventninger .....................................................................2
+ Postadresse                     Kontoradresse                Telefon*                    Avdeling                     Saksbehandler
+ Postboks 8119 Dep               Kirkeg. 18                   22 24 90 90                 Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                     høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no            www.kd.dep.no                872 417 842                 forskning                    22 24 74 82
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling .............................................................................................................................7
-
-4
-
-Andre forutsetninger og krav .............................................................................................9
-
-5
-
-Rapportering og resultatoppfølging .................................................................................11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-22 24 74 82
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1    Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -113,7 +74,8 @@ studieporteføljen og dimensjonerer utdanningstilbudene med sikte på å møte b
 tråd med perspektivmeldingen2, samt følge opp prioriteringene i utsynsmeldingen3 og
 profesjonsmeldingen4 og tidligere tildelinger av studieplasser. Utdanningstilbudene skal ha
 høy kvalitet og være tett koblet til praksisfeltet. Universitetene og høyskolene skal fortsette å
-prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etterog videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
+prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etter-
+og videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
 med flere studiesteder ivaretar sitt regionale oppdrag og videreutvikler disse.
 Regjeringen legger til rette for at flere skal komme raskere inn i høyere utdanning, jf.
 opptaksmeldingen5 og forventer at universitetene og høyskolene bidrar til at flere studenter
@@ -125,7 +87,9 @@ har en god studieprogresjon og gjennomfører utdanningene. Universitetene og hø
 4 Meld. St. 19 Profesjonsnære utdanningar over heile landet - Innst. 330 S (2023-2024)
 5 Meld. St. 20 Opptak til høgare utdanning – Innst. 378 S (2023-2024)
 
-Side 2
+ Side 2
+
+[Side 3]
 
 har også ansvar for å bidra til et godt etter- og videreutdanningstilbud, herunder utvidet
 ansvar for å utvikle og tilby videreutdanningstilbud rettet mot barnehage og grunnopplæring.6
@@ -164,31 +128,27 @@ rehabilitering, ombygging og leie av bygg. Departementet har utarbeidet en veivi
 universiteter og høyskoler om samarbeidet i bygge- og leiesaker, for å støtte opp under en
 
 6 Se nærmere omtale om øremerking i kapittel 3.
+
 7 Frå ord til handling - Handlingsplan for norsk fagspråk i akademia
 8 Nasjonal digitaliseringsstrategi 2024-2030
 9 Digitaliseringsrundskrivet - regjeringen.no
 10 Strategi for å øke næringslivets investeringer i forskning og utvikling 2024
 11 Veiviser for universiteter og høyskoler om samarbeidet i bygge- og leiesaker
 
-Side 3
+ Side 3
+
+[Side 4]
 
 transparent og forutsigbar dialog og samhandling om arealbehov. Institusjonene skal sette
 seg godt inn i denne.
 
-2
-
-Mål
+2   Mål
 
 2.1 Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2024–2025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
@@ -215,13 +175,15 @@ hensyn til disse målene i planer og i styringen av virksomheten.
 2.3 Sektormål og utviklingsavtaler
 For 2025 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -240,7 +202,7 @@ utviklingsavtalene. Departementet vil legge opp til et fellesmøte med institusj
 kl 11:00-15:00 i Oslo, som del av samarbeidet om utviklingen i sektoren.
 
 2.4 Utviklingsavtale for Høgskolen i Molde, vitenskapelig høgskole i
-logistikk 2023–2026
+    logistikk 2023–2026
 Mål 1 – Økt tilgjengelighet av utdanninger som gir studentene nye muligheter, bidrar til
 bærekraftig utvikling og gir grunnlag for verdifull innovasjon
 HiM vil bidra til at høyere utdanning blir tilgjengelig for flere. HiM ser på kvalitet som en
@@ -251,10 +213,11 @@ kvalifiserer seg. HiM vil utvikle en mer fleksibel og tilgjengelig didaktisk pla
 nye læringsstier, verktøy for studentaktiv læring og maler tilpasset det enkelte
 studieprograms læringsutbytter, emne, og nye målgrupper.
 Styringsparametere:
-1. Stimulere til økt kvalitet i undervisningen gjennom å oppmuntre til merittering av
-undervisere og deling av erfaringer med nye verktøy.
-2. Bedre tilrettelegging av internasjonal utveksling for ansatte og studenter.
-3. Styrke fleksibel og livslang læring gjennom digital og desentralisert undervisning.
+   1. Stimulere til økt kvalitet i undervisningen gjennom å oppmuntre til merittering av
+      undervisere og deling av erfaringer med nye verktøy.
+   2. Bedre tilrettelegging av internasjonal utveksling for ansatte og studenter.
+   3. Styrke fleksibel og livslang læring gjennom digital og desentralisert undervisning.
+
 Mål 2 – Internasjonal forskning med regional relevans
 Forskningsgruppene ved HiM er ved avtaleperiodens start selvorganiserende og frivillige.
 Deltagelse er uforpliktende, og gruppene kan fortone seg som lite synlige i regionen. Mange
@@ -264,14 +227,18 @@ ph.d.-kandidater. Det kan også innebære å øke antall vitenskapelige assisten
 tilknyttede ressurser med hovedstilling i offentlig forvaltning, helsevesenet eller næringslivet.
 Styringsparametere:
 
-Side 5
+ Side 5
 
-4. Bidra til den internasjonale forskningsfronten i logistikk, helse og sosialfag gjennom
-mer samarbeid med internasjonale universiteter, høgskoler og forskningsinstitutter.
-5. Flere tilslag på søknader til Norges Forskningsråd og EU sammen med
-samarbeidspartnere i regionen.
-6. Flere vitenskapelig ansatte som veileder stipendiater og kvalifiserer seg til opprykk til
-professor eller dosent, blant annet for å stimulere utviklingen av et tredje ph.d.program ved høgskolen.
+[Side 6]
+
+   4. Bidra til den internasjonale forskningsfronten i logistikk, helse og sosialfag gjennom
+      mer samarbeid med internasjonale universiteter, høgskoler og forskningsinstitutter.
+   5. Flere tilslag på søknader til Norges Forskningsråd og EU sammen med
+      samarbeidspartnere i regionen.
+   6. Flere vitenskapelig ansatte som veileder stipendiater og kvalifiserer seg til opprykk til
+      professor eller dosent, blant annet for å stimulere utviklingen av et tredje ph.d.-
+      program ved høgskolen.
+
 Mål 3 – Utvikle kompetanse om bærekraftig samfunnsutvikling, velferd og innovasjon,
 med sterk faglig logistikk-, helse- og sosialfaglig profil
 HiM vil at forskningen og utdanningsprogrammene skal bygge på unik og institusjonstypisk
@@ -281,13 +248,13 @@ og gjennom dette bidra til det grønne skiftet. HiM vil ta en tydeligere posisjo
 kunnskapsaktør i regionen og nasjonalt, som utdanner kandidater samfunnet trenger for å
 lykkes med en mer bærekraftig samfunnsutvikling.
 Styringsparametere:
-7. Flere studieprogrammer som underbygger høgskolens status som vitenskapelig
-høgskole i logistikk, og sterke ph.d-programmer innen logistikk og helse- og sosialfag
-8. Økt kapasitet og kvalitet for utdanningene som kan ta i bruk avansert simulering og
-AR/VR, forberedende ferdighetstrening og undervisning med praksis.
-9. Tettere samarbeid med industrien, helsevesenet, andre offentlige aktører og
-frivilligheten/idretten om praksisplasser for studenter, gjesteforelesere og
-studentoppgaver for å bidra til FNs bærekraftmål.
+   7. Flere studieprogrammer som underbygger høgskolens status som vitenskapelig
+      høgskole i logistikk, og sterke ph.d-programmer innen logistikk og helse- og sosialfag
+   8. Økt kapasitet og kvalitet for utdanningene som kan ta i bruk avansert simulering og
+      AR/VR, forberedende ferdighetstrening og undervisning med praksis.
+   9. Tettere samarbeid med industrien, helsevesenet, andre offentlige aktører og
+      frivilligheten/idretten om praksisplasser for studenter, gjesteforelesere og
+      studentoppgaver for å bidra til FNs bærekraftmål.
 Mål 4 – Videreutvikle flercampusorganisasjonen med et levende studiemiljø og aktive
 studenter som bidrar til studiestedenes og regionens attraktivitet, arbeidsmarked og
 mangfold
@@ -297,18 +264,18 @@ undervisning er blitt høyere for mange. Det ønsker HiM å gjøre noe med. HiM 
 synlighet og betydning for regionen, og studentene skal knyttes tettere til samfunnslivet.
 Høgskolen vil bidra til et sterkt studentdemokrati.
 Styringsparametere:
-10. Høy tilstedeværelse på campus i begge campusbyene og alle steder HiM tilbyr fysisk
-eller digitalt støttet undervisning.
-11. Flere studenter som har tett kontakt med mulige arbeidsgivere i regionen gjennom
-hele studieløpet, enten de studerer i Molde, Kristiansund eller gjennom digitale
-pedagogiske plattformer.
-12. Flere møteplasser for studentene og faglærere med lokalsamfunnet
+   10. Høy tilstedeværelse på campus i begge campusbyene og alle steder HiM tilbyr fysisk
+       eller digitalt støttet undervisning.
+   11. Flere studenter som har tett kontakt med mulige arbeidsgivere i regionen gjennom
+       hele studieløpet, enten de studerer i Molde, Kristiansund eller gjennom digitale
+       pedagogiske plattformer.
+   12. Flere møteplasser for studentene og faglærere med lokalsamfunnet
 
-Side 6
+ Side 6
 
-3
+[Side 7]
 
-Tildeling
+3   Tildeling
 
 3.1 Tildeling over kap. 260, post 50
 Stortinget har bevilget 44,2 mrd. kroner over kap. 260, post 50 til statlige universiteter og
@@ -317,6 +284,7 @@ Kunnskapsdepartementet tildeler med dette 363 124 000 kroner til Høgskolen i Mo
 Orientering om statsbudsjettet 2025 for universitet og høgskular etter vedtak i Stortinget 18.
 desember 2024 gir en oversikt over de enkelte endringene i rammebevilgningen per
 institusjon.
+
 Rammefinansiering
 Universitetene og høyskolene får midlene på kap. 260 som én rammebevilgning, som betyr
 at institusjonen selv skal disponere og fordele tildelingen mellom sine formål, aktiviteter og
@@ -326,6 +294,7 @@ noen punkter er bevilgningen fra departementet øremerket et bestemt formål. En
 som ikke er tidsavgrenset blir formelt uttrykt i tildelingsbrevet for det første året av
 øremerkingen, og det er en forventning om at aktiviteten videreføres i påfølgende år uten at
 det gis formelt pålegg.
+
 Ikke øremerking av rekrutteringsstillinger
 Fra og med 2023 ble øremerkingen av midler til rekrutteringsstillinger fjernet, som innebærer
 at institusjonene ikke er pålagt et bestemt antall slike stillinger, jf. Innst. 12 S (2022–2023) og
@@ -333,6 +302,7 @@ Prop. 1 S (2022–2023). Universitetene og høyskolene har dermed mer frihet til
 budsjettprioriteringer, ha en mer målrettet rekrutterings- og karrierepolitikk og selv vurdere
 hvor mange rekrutteringsstillinger de til enhver tid har behov for, i tråd med regjeringens
 tillitsreform.
+
 Utfasing av studieplasser fra Utdanningsløftet 2020
 Utfasingen av studieplasser fra revidert nasjonalbudsjett for 2020 innebærer reduksjon i
 bevilgningen til de institusjonene som fikk tildelt slike studieplassmidler. Det skjer avhengig
@@ -340,42 +310,29 @@ av lengden på studiene som institusjonene opprettet og etter hvert som de aktue
 fra 2020, 2021 og 2022 har fullført studieløpene. Unntaket er de 80 studieplassene i medisin
 og 300 plasser i barnevernsfaglige utdanninger på masternivå hvor midlene videreføres til de
 aktuelle institusjonene.
+
 Nye studieplasser
 I perioden 2022–2025 er det i statsbudsjettene prioritert nye studieplasser/økt kapasitet til:
-•
-•
-•
-•
+    •     235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
+          2020
+    •     300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
+    •     500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
+          plasser innenfor gjeldende bevilgning
+    •     40 studieplasser i nukleære fag
 
-Side 7
+ Side 7
 
-235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
-2020
-300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
-500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
-plasser innenfor gjeldende bevilgning
-40 studieplasser i nukleære fag
+[Side 8]
 
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-200 studieplasser innenfor IKT-fag
-25 studieplasser i flyingeniørutdanning
-20 studieplasser i fysioterapiutdanning
-20 studieplasser skogfag
-20 studieplasser i vernepleie
-10 studieplasser i folkedans
-20 studieplasser i veterinærmedisin
-Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
-60 studieplasser til å etablere en campus på Gol i Hallingdal
-
+   •      200 studieplasser innenfor IKT-fag
+   •      25 studieplasser i flyingeniørutdanning
+   •      20 studieplasser i fysioterapiutdanning
+   •      20 studieplasser skogfag
+   •      20 studieplasser i vernepleie
+   •      10 studieplasser i folkedans
+   •      20 studieplasser i veterinærmedisin
+   •      Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
+   •      60 studieplasser til å etablere en campus på Gol i Hallingdal
 Bevilgningen til studieplasser trappes opp til plassene er fullt utbygget med nye årlige kull, og
 den avhenger av lengde på studiene, fra to- til seksårige. En studieplass er definert som 60
 studiepoeng. Ved tildeling av nye eller flere studieplasser forventer Kunnskapsdepartementet
@@ -401,6 +358,7 @@ samfunnsbehovene ivaretas.
 Departementet understreker at det kan bli aktuelt å flytte midler mellom institusjoner dersom
 opptaket og produksjonen ikke gjenspeiler forventningene om gjennomførte studiepoeng og
 ikke svarer til samfunnsbehovene slik de blant annet er beskrevet i de nevnte meldingene.
+
 Sykepleierutdanning
 Departementet har registrert at det ved de fleste institusjonene er en positiv økning i
 opptaket til sykepleierutdanning i 2024. Likevel ligger mange institusjoner under nivået som
@@ -409,7 +367,9 @@ Ved de fleste institusjonene gikk også studiepoengproduksjonen i sykepleieutdan
 ned i 2023, og møter ikke resultatkravene. Departementet understreker at oppfølgingen av
 studieplasstildelingen primært vurderes i form av gjennomførte studiepoeng, og at
 
-Side 8
+ Side 8
+
+[Side 9]
 
 institusjonene må gjøre nødvendige tiltak for at den samlede utdanningsaktiviteten innenfor
 sykepleie innfrir forventningene til økt kapasitet fra studieplasstildelingene i 2020 og 2022.
@@ -421,27 +381,21 @@ departementet vurdere omdisponeringer i 2026.
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-4
-
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
 
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Høgskolen i Molde skal følge opp dette målet. I dette arbeidet
 skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og kostnadseffektivitet.
 Høgskolen i Molde skal også vurdere hvordan klimaendringene vil påvirke virksomheten.
 Høgskolen i Molde skal gjøre systematiske vurderinger av egen energibruk og ta i bruk
 lønnsomme energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+          eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
@@ -451,10 +405,8 @@ Høgskolen i Molde skal i årsrapporten oppgi antallet ansettelser av personer m
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2025 og det totale
 antallet ansettelser i virksomheten i 2025. Høgskolen i Molde skal også omtale utviklingen i
 2025 sett opp mot det virksomheten har rapportert for 2024.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Høgskolen i Molde skal arbeide for å redusere konsulentbruken på områder der
 det ligger til rette for å benytte interne ressurser og kompetanse. Utover informasjons- og
@@ -463,11 +415,14 @@ benyttes.
 Høgskolen i Molde skal i årsrapporten for 2025 rapportere om konsulentbruken og
 oppfølgingen av fellesføringen, herunder om totalbeløp for kjøp av konsulenttjenester, hvilke
 
-Side 9
+ Side 9
+
+[Side 10]
 
 tiltak som er iverksatt og konkrete resultater. Dersom det er fagområder og/eller
 kompetanseområder i virksomheten der konsulenter benyttes i særlig grad, skal bakgrunnen
 for dette omtales nærmere.
+
 Høgskolen i Molde skal som en del av rapporteringen også gi en overordnet omtale av
 eventuelle kjøp av konsulenttjenester fra kommunikasjonsbransjen (alle typer
 kommunikasjonstjenester) i 2025 og opplyse om totalbeløp for kjøp av slike tjenester.
@@ -476,10 +431,8 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
 4.2 Andre krav
-4.2.1
 
-Sikkerhet og beredskap
-
+4.2.1   Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -491,36 +444,35 @@ samfunnssikkerhet og nasjonal sikkerhet. Fra og med 2025 blir i tillegg oppgaven
 kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssektoren
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 Høgskolen i Molde skal i årsrapporten for 2025 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Høgskolen i Molde for dette arbeidet?
-2. Når reviderte Høgskolen i Molde sist sin ROS-analyse? Hvilke overordnede områder
-er identifisert som de med høyest risiko for virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
-4.2.2
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Høgskolen i Molde for dette arbeidet?
+   2. Når reviderte Høgskolen i Molde sist sin ROS-analyse? Hvilke overordnede områder
+      er identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+      er gjennomført i 2025.
+   4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+      styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+      informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+      samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
-Informasjonssikkerhet og personvern
-
+4.2.2   Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern ved Høgskolen i Molde, vitenskapelig
 høgskole i logistikk I lys av det skjerpede trusselbildet internasjonalt, den økende
 avhengigheten av digital teknologi i samfunnet og den raske teknologiske utviklingen,
 
-Side 10
+ Side 10
+
+[Side 11]
 
 forventer Kunnskapsdepartementet at Høgskolen i Molde styrker sitt arbeid med å
 forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og brudd på
-personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitetsog beredskapsplaner særlig viktig.
-4.2.3
+personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitets-
+og beredskapsplaner særlig viktig.
 
-Regelverkskompetanse
-
+4.2.3   Regelverkskompetanse
 Å drive en stor samfunnsinstitusjon som et universitet eller en høyskole krever betydelig
 kompetanse om regelverket. Departementet har i forbindelse med lovproposisjonen til
 Stortinget om ny universitets- og høyskolelov understreket viktigheten av å prioritere slik
@@ -529,10 +481,8 @@ registrerer at flere universiteter og høyskoler er inne i omstillingsprosesser,
 understreke viktigheten av at institusjonene sikrer nødvendig juridisk kompetanse og
 forvaltningskompetanse, slik at de er i stand til å operere innenfor regelverket og forvalte den
 myndigheten og det handlingsrommet de har.
-4.2.4
 
-Krav ved inngåelse av leieavtaler
-
+4.2.4   Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten12 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -541,9 +491,7 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
-
-Rapportering og resultatoppfølging
+5    Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
@@ -562,7 +510,9 @@ staten og Direktoratet for forvaltning og økonomistyring (DFØ)s Veiledningsnot
 
 12 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 11
+ Side 11
+
+[Side 12]
 
 årsrapport for statlige virksomheter. Vi viser for øvrig også til vedlegget «Krav til årsrapporten
 for statlige universiteter og høyskoler».
@@ -590,33 +540,30 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                          Charlotte Rustad
+                                                                          konst. avdelingsdirektør
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 12
+ Side 12
+
+[Side 13]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
 Tildelingsbrev for universiteter og høyskoler 2025:
-▪
-▪
-▪
-▪
-▪
-▪
-
-Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2024
-Krav til årsrapport for statlige universiteter og høyskoler 2025
-Fullmakter for statlige universiteter og høyskoler 2025
-Veiledning til fremstilling av satsingsforslag for 2027
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
-Virksomhets- og økonomiinstruks
+   ▪   Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2024
+   ▪   Krav til årsrapport for statlige universiteter og høyskoler 2025
+   ▪   Fullmakter for statlige universiteter og høyskoler 2025
+   ▪   Veiledning til fremstilling av satsingsforslag for 2027
+   ▪   Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
+   ▪   Virksomhets- og økonomiinstruks
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
-Statsforvaltaren i Møre og Romsdal
-Studentsamskipnaden i Molde
 
-Side 13
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+ Statsforvaltaren i Møre og Romsdal
+ Studentsamskipnaden i Molde
+
+ Side 13

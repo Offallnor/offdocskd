@@ -352,51 +352,54 @@ Teksten fra PDF-en har et merke, `[Side N]`, der hver side begynner. Lenken til 
 | 2015 | Prop. 115 L (2014-2015) | Proposisjonen inneholder forslag til endringer i folketrygdlovens regler om stønader til enslig mor eller far. Det ene formålet med endringsforslagene er å forenkle regelverket og gjøre bestemmelsene lettere tilgjengelig | `dokumenter/proposisjoner/2015/07005d3f-prop-115-l-2014-2015.md` |
 | 2015 | Prop. 11 L (2015–2016) | Proposisjonen omhandler forslag om økt grunnpensjon til gifte og samboende pensjonister, endringer i reglene om barnetillegg til uføre, endringer i dagpengeregelverket og endringer i reglene om supplerende stønad. Det fo | `dokumenter/proposisjoner/2015/0cc49a31-prop-11-l-20152016.md` |
 
-### Tildelingsbrev (650)
+### Tildelingsbrev (867)
 
 Mappe: `dokumenter/tildelingsbrev/<år>/`. Søk i `dokumenter.tsv` (kolonnen `mottakere`) for å finne brevene til én mottaker. Brev og tillegg per mottaker og budsjettår:
 
 | Mottaker | Brev | År |
 |---|---|---|
 | Utdanningsdirektoratet | 107 | 2021 (41), 2022 (34), 2023 (9), 2024 (7), 2025 (11), 2026 (5) |
+| Integrerings- og mangfoldsdirektoratet | 90 | 2020 (11), 2021 (14), 2022 (18), 2023 (16), 2024 (16), 2025 (10), 2026 (5) |
+| NAV Arbeids- og velferdsetaten | 87 | 2020 (16), 2021 (9), 2022 (22), 2023 (14), 2024 (11), 2025 (10), 2026 (5) |
+| Arbeidstilsynet | 64 | 2020 (14), 2021 (17), 2022 (10), 2023 (2), 2024 (13), 2025 (6), 2026 (2) |
 | Direktoratet for høyere utdanning og kompetanse | 61 | 2020 (12), 2021 (13), 2022 (13), 2023 (6), 2024 (4), 2025 (8), 2026 (5) |
-| NAV Arbeids- og velferdsetaten | 45 | 2020 (8), 2021 (4), 2022 (12), 2023 (7), 2024 (6), 2025 (5), 2026 (3) |
-| Integrerings- og mangfoldsdirektoratet | 41 | 2020 (5), 2021 (7), 2022 (9), 2023 (8), 2024 (8), 2025 (4) |
-| Arbeidstilsynet | 29 | 2020 (7), 2021 (8), 2022 (5), 2024 (7), 2025 (2) |
-| Norges forskningsråd | 25 | 2021 (2), 2022 (6), 2023 (3), 2024 (3), 2025 (6), 2026 (5) |
+| Trygderetten | 44 | 2020 (8), 2021 (6), 2022 (6), 2023 (8), 2024 (8), 2025 (6), 2026 (2) |
+| Norges forskningsråd | 36 | 2020 (1), 2021 (4), 2022 (7), 2023 (5), 2024 (4), 2025 (7), 2026 (8) |
 | Statens lånekasse for utdanning | 25 | 2021 (8), 2022 (8), 2023 (3), 2024 (3), 2025 (2), 2026 (1) |
 | Statped | 22 | 2021 (7), 2022 (4), 2023 (3), 2024 (3), 2025 (4), 2026 (1) |
 | NOKUT | 21 | 2021 (1), 2022 (8), 2023 (2), 2024 (2), 2025 (6), 2026 (2) |
-| Trygderetten | 21 | 2020 (4), 2021 (3), 2022 (3), 2023 (4), 2024 (4), 2025 (3) |
-| Universitetet i Bergen | 20 | 2021 (2), 2022 (7), 2023 (3), 2024 (3), 2025 (2), 2026 (3) |
-| Kunsthøgskolen i Oslo | 17 | 2021 (2), 2022 (6), 2023 (3), 2024 (2), 2025 (2), 2026 (2) |
-| OsloMet - storbyuniversitetet | 17 | 2021 (2), 2022 (5), 2023 (3), 2024 (2), 2025 (3), 2026 (2) |
+| Universitetet i Bergen | 21 | 2021 (3), 2022 (7), 2023 (3), 2024 (3), 2025 (2), 2026 (3) |
+| Kunsthøgskolen i Oslo | 18 | 2021 (3), 2022 (6), 2023 (3), 2024 (2), 2025 (2), 2026 (2) |
+| OsloMet - storbyuniversitetet | 18 | 2021 (3), 2022 (5), 2023 (3), 2024 (2), 2025 (3), 2026 (2) |
+| Høgskolen i Østfold | 17 | 2021 (2), 2022 (5), 2023 (3), 2024 (3), 2025 (2), 2026 (2) |
+| Høgskulen på Vestlandet | 17 | 2021 (3), 2022 (4), 2023 (3), 2024 (3), 2025 (2), 2026 (2) |
+| Universitetet i Oslo | 17 | 2021 (2), 2022 (4), 2023 (3), 2024 (4), 2025 (2), 2026 (2) |
+| Universitetet i Stavanger | 17 | 2021 (3), 2022 (4), 2023 (3), 2024 (3), 2025 (2), 2026 (2) |
 | Foreldreutvalget for grunnopplæring | 16 | 2021 (2), 2022 (4), 2023 (3), 2024 (3), 2025 (3), 2026 (1) |
-| Høgskolen i Østfold | 16 | 2021 (1), 2022 (5), 2023 (3), 2024 (3), 2025 (2), 2026 (2) |
-| Høgskulen på Vestlandet | 16 | 2021 (2), 2022 (4), 2023 (3), 2024 (3), 2025 (2), 2026 (2) |
-| Universitetet i Oslo | 16 | 2021 (1), 2022 (4), 2023 (3), 2024 (4), 2025 (2), 2026 (2) |
-| Universitetet i Stavanger | 16 | 2021 (2), 2022 (4), 2023 (3), 2024 (3), 2025 (2), 2026 (2) |
+| Universitetet i Sørøst-Norge | 16 | 2021 (3), 2022 (4), 2023 (2), 2024 (2), 2025 (3), 2026 (2) |
+| Universitetet i Tromsø | 16 | 2021 (2), 2022 (5), 2023 (3), 2024 (2), 2025 (2), 2026 (2) |
 | De nasjonale forskningsetiske komiteene (FEK) | 15 | 2021 (1), 2022 (4), 2023 (3), 2024 (2), 2025 (4), 2026 (1) |
+| Høgskolen i Molde | 15 | 2021 (2), 2022 (4), 2023 (2), 2024 (3), 2025 (2), 2026 (2) |
 | Kunnskapssektorens tjenesteleverandør (Sikt) | 15 | 2022 (3), 2023 (2), 2024 (1), 2025 (5), 2026 (4) |
-| Universitetet i Sørøst-Norge | 15 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (3), 2026 (2) |
-| Universitetet i Tromsø | 15 | 2021 (1), 2022 (5), 2023 (3), 2024 (2), 2025 (2), 2026 (2) |
-| Høgskolen i Molde | 14 | 2021 (1), 2022 (4), 2023 (2), 2024 (3), 2025 (2), 2026 (2) |
-| Sámi allaskuvla Samisk høgskole | 14 | 2021 (1), 2022 (4), 2023 (3), 2024 (2), 2025 (2), 2026 (2) |
+| Sámi allaskuvla Samisk høgskole | 15 | 2021 (2), 2022 (4), 2023 (3), 2024 (2), 2025 (2), 2026 (2) |
+| Arkitektur- og designhøgskolen i Oslo | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Høgskulen i Volda | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Maritim pensjonskasse | 14 | 2020 (2), 2021 (6), 2022 (2), 2023 (1), 2024 (1), 2025 (1), 2026 (1) |
+| NMBU | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| NTNU | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Nord universitet | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Norges handelshøgskole | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Norges idrettshøgskole | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Norges musikkhøgskole | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Statens arbeidsmiljøinstitutt | 14 | 2020 (2), 2021 (2), 2022 (2), 2023 (3), 2024 (2), 2025 (2), 2026 (1) |
+| Statens pensjonskasse | 14 | 2020 (6), 2021 (1), 2022 (1), 2023 (1), 2024 (1), 2025 (3), 2026 (1) |
+| Universitetet i Agder | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
+| Universitetet i Innlandet | 14 | 2021 (2), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
 | 22. juli-senteret | 13 | 2021 (2), 2022 (3), 2023 (3), 2024 (2), 2025 (2), 2026 (1) |
-| Arkitektur- og designhøgskolen i Oslo | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Høgskulen i Volda | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| NMBU | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| NTNU | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Nord universitet | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Norges handelshøgskole | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Norges idrettshøgskole | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Norges musikkhøgskole | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Universitetet i Agder | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Universitetet i Innlandet | 13 | 2021 (1), 2022 (4), 2023 (2), 2024 (2), 2025 (2), 2026 (2) |
-| Norges grønne fagskole (Vea) | 12 | 2021 (3), 2022 (1), 2023 (3), 2024 (3), 2025 (2) |
+| Norges grønne fagskole (Vea) | 13 | 2021 (3), 2022 (1), 2023 (3), 2024 (3), 2025 (2), 2026 (1) |
+| Domstolene i Norge | 10 | 2020 (1), 2021 (1), 2022 (1), 2023 (1), 2024 (2), 2025 (3), 2026 (1) |
+| Riksmekleren | 10 | 2020 (1), 2021 (1), 2022 (1), 2023 (1), 2024 (2), 2025 (3), 2026 (1) |
 | Norsk utenrikspolitisk institutt | 7 | 2021 (1), 2022 (1), 2023 (2), 2024 (1), 2025 (1), 2026 (1) |
-| Statens pensjonskasse | 4 | 2020 (3), 2025 (1) |
-| Maritim pensjonskasse | 3 | 2021 (3) |
 | (ukjent mottaker) | 1 | 2025 (1) |
 | Havindustritilsynet | 1 | 2022 (1) |
 

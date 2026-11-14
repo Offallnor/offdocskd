@@ -8,25 +8,21 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/tildelingsbrev-2026-samisk-hogskole.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-817c-44d0-99dd-dabda4df26d3
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Samisk høgskole
 Hánnoluohkká 45
 9520 KAUTOKEINO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/5029-
-
-19. desember 2025
+Deres ref                                              Vår ref                                      Dato
+                                                       25/5029-                                     19. desember 2025
 
 Tildelingsbrev 2026 - Samisk høgskole
+
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2026, jf. Innst. 12 S
 (2025–2026) og Prop. 1 S (2025–2026), sender Kunnskapsdepartementet med dette
 tildelingsbrev til Samisk høgskole. Tildelingsbrevet er Kunnskapsdepartementets årlige
@@ -34,47 +30,22 @@ styringsdokument. Eventuelle endringer eller ytterligere tildelinger blir formid
 supplerende tildelingsbrev i løpet av 2026. Tildelingsbrevet og eventuelle supplerende
 tildelingsbrev skal publiseres på virksomhetens nettsider så snart de er mottatt, jf.
 Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
+
 Tildelingsbrevet for 2026 består av følgende deler:
 1 Regjeringens prioriteringer og forventninger ................................................................... 2
-2
+2    Mål.................................................................................................................................. 3
+3    Tildeling .......................................................................................................................... 6
+4    Andre forutsetninger og krav ........................................................................................... 8
+5    Rapportering og resultatoppfølging ............................................................................... 11
 
-Mål.................................................................................................................................. 3
+ Postadresse                   Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep             Kirkeg. 18                   22 24 90 90                Eierskapsavdelingen          Linda J. Elmrhari
+ 0032 Oslo                                                  Org.nr.
+ postmottak@kd.dep.no          www.kd.dep.no                872 417 842
 
-3
+[Side 2]
 
-Tildeling .......................................................................................................................... 6
-
-4
-
-Andre forutsetninger og krav ........................................................................................... 8
-
-5
-
-Rapportering og resultatoppfølging ............................................................................... 11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Eierskapsavdelingen
-
-Saksbehandler
-Linda J. Elmrhari
-
-1
-
-Regjeringens prioriteringer og forventninger
+1      Regjeringens prioriteringer og forventninger
 
 Regjeringen ønsker å ta Norge videre – tryggere, mer rettferdig og med sterkere fellesskap.
 Utdanning, forskning og innovasjon støtter opp under hovedprioriteringene i regjeringens
@@ -87,6 +58,7 @@ teknologiutvikling og omstilling i næringslivet og offentlig sektor - og bidrar
 ressursutnyttelse. Institusjonene må med utgangspunkt i sin profil utvikle samarbeidet og
 arbeidsdelingen seg imellom og med andre aktører, på tvers av både sektorer og
 landegrenser.
+
 De overordnede rammene for regjeringens politikk for høyere utdanning og forskning er
 beskrevet i Prop. 1 S (2025–2026) for Kunnskapsdepartementet, programkategori 07.60. De
 langsiktige målene og prioriteringene i Langtidsplanen for forskning og høyere utdanning 1
@@ -97,10 +69,12 @@ mål, langsiktige prioriteringer og tiltak for kunnskapssektoren. Kunnskapssekto
 både mer effektiv og innovativ, og samtidig opprettholde høy kvalitet i utdanning og
 forskning. Andelen midlertidige stillinger i UH-sektoren er redusert de senere år. Regjeringen
 forventer at institusjonene fortsetter det målrettede arbeidet på dette området.
+
 Samfunnet trenger kompetente kandidater med høyere utdanning, høyere yrkesfaglig
 utdanning og fag- eller svennebrev, jf. perspektivmeldingen. 3 Både universiteter, høyskoler
 og fagskoler må framover prioritere utdanningstilbud som samsvarer med de viktigste
 kompetansebehovene og arbeide for at flere gjennomfører utdanningene.
+
 Universiteter og høyskoler har et ansvar for å ivareta den nasjonale kunnskapsberedskapen.
 Det betyr at sektoren er i stand til å produsere kunnskap som kan understøtte beslutninger i
 kriser og på den måten styrke samfunnets motstandskraft. Kunnskapen må ha nødvendig
@@ -113,16 +87,19 @@ Kunnskapsdepartementet om å bli informert i god tid før eventuell beslutning, 
 1 Meld. St. 5 (2022-2023 - Langtidsplan for forskning og høyere utdanning 2023–2032
 2 Meld. St. 14 (2024-2025) – Sikker kunnskap i en usikker verden
 3 Meld. St. 31 (2023-2024) Perspektivmeldingen
-
 4 Meld St. 9 (2024-2025) – Totalberedskapsmeldingen – Forberedt på kriser og krig
+
 5 Meld. St. 19 (2020-2021) - Styring av statlige universiteter og høyskoler
 
-Side 2
+ Side 2
+
+[Side 3]
 
 Norsk forskning og høyere utdanning er avhengig av internasjonalt samarbeid for å holde
 høy kvalitet og håndtere store samfunnsutfordringer. Samtidig må samarbeidet ivareta
 nasjonale interesser og sikkerhet. Norsk forskning skal være så åpen som mulig og så sikker
 som nødvendig.
+
 Som følge av et redusert økonomisk handlingsrom framover og økende mangel på
 kompetent arbeidskraft, er det nødvendig å prioritere strengere også innenfor høyere
 utdanning og forskning. En viktig forutsetning for å lykkes, er at universitetene og høyskolene
@@ -131,32 +108,20 @@ behovet for å videreutvikle styringen, i dialog med sektoren. Departementet vil
 bruke utviklingsavtalene til tydeligere strategisk dialog, for å styrke mangfold, samarbeid og
 arbeidsdeling i sektoren.
 
-2
+2         Mål
 
-Mål
-
-2.1
-
-Kunnskapsdepartementets overordnede mål
-
+2.1        Kunnskapsdepartementets overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+      •    Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+      •    Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+      •    Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
-utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (20252026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
+utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2025-
+2026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
 Det er viktig med godt samspill mellom departementets underliggende virksomheter slik at
 alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Målstrukturen for sektoren
-
+2.2        Målstrukturen for sektoren
 De gjeldende sektormålene for statlige universiteter og høyskoler og private høyskoler som
 mottar statstilskudd, ble fastsatt av Kunnskapsdepartementet etter dialog med sektoren og
 med virkning fra 2023. Sektormålene samsvarer godt med de overordnede målene i
@@ -167,19 +132,19 @@ Departementet legger opp til en dialogbasert prosess med de statlige universitet
 høyskolene om nye utviklingsavtaler som skal gjelde for perioden 2027-2030.
 Departementet har ikke utviklingsavtaler med de private høyskolene, men følger opp mål og
 resultater som del av tilskuddsforvaltningen.
-Kunnskapsdepartementet har i samarbeid med de aktuelle institusjonene definert samfunnsog effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner
+Kunnskapsdepartementet har i samarbeid med de aktuelle institusjonene definert samfunns-
+og effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner
 må ta hensyn til disse målene i planer og i styringen av virksomheten.
 
-Side 3
+ Side 3
 
-2.3
+[Side 4]
 
-Sektormål og utviklingsavtaler
-
+2.3       Sektormål og utviklingsavtaler
 For 2026 gjelder følgende sektormål for universiteter og høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
@@ -196,8 +161,9 @@ med revidert rammeverk og forventninger til institusjonene. Fristen for institus
 levere første utkast til utviklingsavtale er 15. mars 2026.
 
 2.4 Utviklingsavtale for Samisk høgskole (SA) 2023–2026
+
 Mål 1 – En ledende, samlende og attraktiv samiskspråklig høyere utdannings- og
-forskningsinstitusjon med robuste kompetansemiljøer
+        forskningsinstitusjon med robuste kompetansemiljøer
 SA er den eneste samiskspråklige høyere utdannings- og forskningsinstitusjonen i verden.
 Rekruttering av samiskspråklige ansatte til både administrative stillinger og fagstillinger er en
 utfordring. For å nå dette målet vil SA aktivt rekruttere og beholde både fag- og
@@ -206,16 +172,19 @@ som gir kontinuitet i fagmiljøene og økt antall ansatte med doktorgrad og
 professorkompetanse, samt prioritere rekruttering av unge forskere. SA vil videreutvikle
 samarbeidet med Universitetet i Tromsø – Norges arktiske universitet og Nord universitet om
 samisk forskning og utdanning.
-Styringsparametere:
-1. Styrke det systematiske rekrutteringsarbeidet, og særlig rekrutteringen av unge
-forskere
-2. Implementere gode, målrettede kvalifiseringstiltak for fagansatte
-3. Arbeide for å øke faglig aktivitet i samarbeid med andre institusjoner
 
-Side 4
+Styringsparametere:
+    1. Styrke det systematiske rekrutteringsarbeidet, og særlig rekrutteringen av unge
+       forskere
+    2. Implementere gode, målrettede kvalifiseringstiltak for fagansatte
+    3. Arbeide for å øke faglig aktivitet i samarbeid med andre institusjoner
+
+ Side 4
+
+[Side 5]
 
 Mål 2 – Forskningsbaserte utdanninger med høy kvalitet, og som bidrar til å møte
-kunnskapsbehovene i samiske samfunn
+        kunnskapsbehovene i samiske samfunn
 SA vil øke rekrutteringen av studenter og videreutvikle SAs etablerte studieportefølje, både
 fulltidsstudier og fleksible studietilbud i et inkluderende læringsmiljø. Fulltidsstudier omfatter
 bachelor- og- masterutdanninger innen ulike fagområder samt et ph.d.-program i samisk
@@ -224,28 +193,32 @@ mangelen på samiskspråklig fagkompetanse og bidra til økt kunnskap om samisk 
 språk og historie i samfunnet. Det er økt behov for samiskspråklig kompetanse innenfor ulike
 samfunnssektorer. SA vil styrke fleksible studietilbud samt samisk begynneropplæring for
 voksne (SÁÁL-utdanningene).
+
 Styringsparametere:
-4. Øke antallet nettbaserte fleksible studietilbud, herunder etter- og
-videreutdanningstilbud
-5. Styrke studieporteføljen med utdanningstilbud innenfor ulike samiske språk og
-arbeide for å etablere studietilbud i ulike samiske språkområder
-6. Øke kandidatproduksjonen og øke institusjonens samlede studiepoengproduksjon
+    4. Øke antallet nettbaserte fleksible studietilbud, herunder etter- og
+       videreutdanningstilbud
+    5. Styrke studieporteføljen med utdanningstilbud innenfor ulike samiske språk og
+       arbeide for å etablere studietilbud i ulike samiske språkområder
+    6. Øke kandidatproduksjonen og øke institusjonens samlede studiepoengproduksjon
+
 Mål 3 – Høy kvalitet i forskning og utviklingsarbeid som gir gi faglig grunnlag for SAs
-studier og er til nytte for det samiske folket, de samiske institusjonene,
-næringene og lokalsamfunnene
+        studier og er til nytte for det samiske folket, de samiske institusjonene,
+        næringene og lokalsamfunnene
 SA vil at forskningen ved SA skal bidra til et bedre kunnskapsgrunnlag for en bærekraftig
 samfunnsutvikling i samiske samfunn og økt kunnskap om hva som behøves for å sikre en
 fremtid for samisk kultur, næringer og samfunn. SA vil synliggjøre og styrke rollen som
 ledende urfolksforskningsinstitusjon globalt og styrke fagmiljøene for å sikre fortsatt høy
 kvalitet i forskningen. SA vil styrke samarbeidet med urfolksinstitusjoner i andre land.
+
 Styringsparametere:
-7. Utarbeide en egen forskningsstrategi og styrke forskningsformidling
-8. Etablere et institusjonelt samarbeid om samisk forskerutdanning
-9. Styrke samiske språk som vitenskapelige språk og øke antallet samiskspråklige
-vitenskapelige publiseringer
+    7. Utarbeide en egen forskningsstrategi og styrke forskningsformidling
+    8. Etablere et institusjonelt samarbeid om samisk forskerutdanning
+    9. Styrke samiske språk som vitenskapelige språk og øke antallet samiskspråklige
+       vitenskapelige publiseringer
+
 Mål 4 – Styrke kunnskapsgrunnlaget som samiske samfunn trenger i forbindelse med
-samfunnsendringer og omstillinger, samt sikre kunnskapsoverføring til nye
-generasjoner
+        samfunnsendringer og omstillinger, samt sikre kunnskapsoverføring til nye
+        generasjoner
 SA vil styrke kontakten med samiske organisasjoner og institusjoner og dialogen med
 samenes representative organer, Sametingene. SA vil bidra til økt dokumentasjon, forskning
 og formidling av hvilke kortsiktige og langsiktige konsekvenser klimaendringer og andre typer
@@ -254,20 +227,20 @@ om økt dokumentasjon, forskning og formidling innenfor samisk tradisjonell kunn
 viktig kunnskapsgrunnlag for urfolkssamfunn i møte med klimaendringer. SA vil bidra til å
 styrke det samiske innholdet i profesjonsutdanningene nasjonalt.
 
-Side 5
+ Side 5
+
+[Side 6]
 
 Styringsparametere:
-10. Etablere varige møteplasser for dialog, kunnskapsdeling og formidling med ulike
-institusjoner og organisasjoner i samiske samfunn, herunder samisk næringsliv og
-samiske kommuner
-11. Utvikle strategiske samarbeid med nasjonale og internasjonale organisasjoner,
-institusjoner og forskningsmiljøer, særlig urfolksinstitusjoner
-12. Bidra til at kompetansen om samisk historie, kultur, næringer og samfunnsliv økes i
-landets profesjonsutdanninger
+    10. Etablere varige møteplasser for dialog, kunnskapsdeling og formidling med ulike
+        institusjoner og organisasjoner i samiske samfunn, herunder samisk næringsliv og
+        samiske kommuner
+    11. Utvikle strategiske samarbeid med nasjonale og internasjonale organisasjoner,
+        institusjoner og forskningsmiljøer, særlig urfolksinstitusjoner
+    12. Bidra til at kompetansen om samisk historie, kultur, næringer og samfunnsliv økes i
+        landets profesjonsutdanninger
 
-3
-
-Tildeling
+3       Tildeling
 
 3.1 Tildeling over kap. 260, post 50 – statlige universiteter og høyskoler
 Stortinget har bevilget 45,9 mrd. kroner over kap. 260, post 50 til statlige universiteter og
@@ -289,21 +262,17 @@ områder som er særlig viktige for det grønne skiftet, og for et høyproduktiv
 konkurransedyktig næringsliv.
 Nye studieplasser
 I 2026 er det tildelt midler til følgende nye studieplasser/økt kapasitet:
-•
-•
-•
-•
-•
-•
+    •     155 studieplasser i sykepleie (treårig)
+    •     100 studieplasser i kvanteteknologi (toårig)
+    •     60 studieplasser i psykologi (seksårig)
+    •     20 studieplasser i medisin (seksårig)
+    •     10 mill. kroner til audiografutdanningen
+    •     6 mill. kroner til fleksibel og desentralisert utdanning med særlig vekt på Øst-
+          Finnmark
 
-Side 6
+ Side 6
 
-155 studieplasser i sykepleie (treårig)
-100 studieplasser i kvanteteknologi (toårig)
-60 studieplasser i psykologi (seksårig)
-20 studieplasser i medisin (seksårig)
-10 mill. kroner til audiografutdanningen
-6 mill. kroner til fleksibel og desentralisert utdanning med særlig vekt på ØstFinnmark
+[Side 7]
 
 Ved tildeling av midler til nye studieplasser benytter departementet en standard sats på
 107 650 kroner per 60-studiepoengenhet. Unntaket er til medisinutdanning, odontologi og
@@ -322,7 +291,7 @@ Departementet vil komme tilbake til oppfølging av tidligere tildelte studieplas
 styringsdialogen i 2026.
 
 3.2 Tildeling over kap. 226, post 22 og kap. 231, post 21
-Videreutdanning for ansatte i barnehage og grunnopplæring
+    Videreutdanning for ansatte i barnehage og grunnopplæring
 Regjeringen innfører et nytt og helhetlig system for kompetanse- og karriereutvikling for
 lærere og andre ansatte i barnehage og grunnopplæring, som fases inn i 2025 og 2026. 6
 Universiteter og høyskoler får et øremerket tilskudd for å utvikle og tilby videreutdanning
@@ -349,7 +318,9 @@ fordelt mellom utdanningsinstitusjoner med lærerutdanning etter en ny fordeling
 
 og-skole/id3098922/?ch=1
 
-Side 7
+ Side 7
+
+[Side 8]
 
 skal ivareta både forutsigbarhet og fornyelse jf. brev sendt 2. juni 2025. Det øremerkede
 tilskuddet innebærer en fullfinansiering av videreutdanningene.
@@ -358,6 +329,7 @@ utvikle og tilby videreutdanning for ansatte i barnehage og grunnopplæring, ink
 fagopplæring, fordelt på følgende kapitler og poster:
 − Kap. 226, post 22: 2 051 000 kroner (grunnopplæring, inkludert fagopplæring)
 − Kap. 231, post 21: 1 317 000 kroner (barnehage)
+
 Samisk høgskole, Nord universitet og Universitetet i Tromsø skal samarbeide om å tilby
 videreutdanning i samisk språk og kultur, og ha dialog med Nasjonalt samarbeidsforum for
 samisk språk og kultur i barnehage og skole.
@@ -377,19 +349,12 @@ Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv
 mai og september.
 Midlene over kap. 226 post 22 og kap. 231, post 21 utbetales i én rate i februar.
 
-4
+4       Andre forutsetninger og krav
 
-Andre forutsetninger og krav
+4.1       Fellesføringer fra regjeringen
 
-4.1
-
-Fellesføringer fra regjeringen
-
-4.1.1
-
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Samisk høgskole skal følge opp dette målet. I dette arbeidet
 skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og kostnadseffektivitet.
@@ -397,26 +362,24 @@ Samisk høgskole skal også vurdere hvordan klimaendringene vil påvirke virksom
 Samisk høgskole skal gjøre systematiske vurderinger av egen energibruk og ta i bruk
 lønnsomme energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
 
-Side 8
+ Side 8
 
-4.1.2
+[Side 9]
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+          eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
 skal i samarbeid med de tillitsvalgte selv definere et hensiktsmessig ambisjonsnivå ut fra
 virksomhetens egenart og størrelse.
+
 Samisk høgskole skal i årsrapporten oppgi antallet ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2026 og det totale
 antallet ansettelser i virksomheten i 2026. Virksomheten skal også omtale utviklingen i 2026
 sett opp mot det virksomheten har rapportert for 2025.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Samisk høgskole skal arbeide for å redusere konsulentbruken på områder der
 det ligger til rette for å benytte interne ressurser og kompetanse. Utover informasjons- og
@@ -426,6 +389,7 @@ oppfølgingen av fellesføringen, herunder om totalbeløp for kjøp av konsulent
 tiltak som er iverksatt og konkrete resultater. Dersom det er fagområder og/eller
 kompetanseområder i virksomheten der konsulenter benyttes i særlig grad, skal bakgrunnen
 for dette omtales nærmere.
+
 Samisk høgskole skal som en del av rapporteringen også gi en overordnet omtale av
 eventuelle kjøp av konsulenttjenester fra kommunikasjonsbransjen (alle typer
 kommunikasjonstjenester) i 2026 og opplyse om totalbeløp for kjøp av slike tjenester.
@@ -433,16 +397,11 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom Samisk høgskole har større kjøp av
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
-4.2
-
-Andre krav
-
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2       Andre krav
+4.2.1     Sikkerhet og beredskap
 Det forutsettes at Samisk høgskole holder seg oppdatert om trusselvurderinger fra nasjonale
 fagmyndigheter og støtter opp om hovedprioriteringene i Nasjonal sikkerhetsstrategi.
+
 2026 markeres som Totalforsvarsåret, hvis mål er å styrke Norges evne til å forebygge og
 håndtere sikkerhetspolitiske kriser og krig. Kunnskapsdepartementet vil vurdere relevante
 aktiviteter som vil bidra til å oppnå målene for Totalforsvarsåret. Departementet oppfordrer
@@ -450,12 +409,15 @@ også de underliggende virksomhetene til å vurdere slike aktiviteter innenfor e
 ansvarsområde. Informasjon om Totalforsvarsåret publiseres fortløpende på
 dsb.no.
 
-Side 9
+ Side 9
+
+[Side 10]
 
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor, revidert i 2025, skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal
 sikkerhet og informasjonssikkerhet. Rapporteringskravene nedenfor gjenspeiler krav som
 stilles i styringsdokumentet.
+
 Samisk høgskole skal i årsrapporten for 2026 rapportere om følgende:
 1. Beskriv status for Samisk høgskoles arbeid med å få oversikt over egne verdier og
 avhengigheter med hensyn til nasjonal sikkerhet. Hvilke planer har virksomheten for
@@ -467,48 +429,43 @@ områder er identifisert som de med høyest risiko for virksomheten?
 4. Redegjør for arbeidet med styringssystem for sikkerhet, herunder hvordan dette
 samordnes med ledelsessystem for informasjonssikkerhet og virksomhetsstyringen for øvrig.
 (jf. kap. 5 i styringsdokumentet).
-4.2.2
 
-Krav ved inngåelse av leieavtaler
-
+4.2.2   Krav ved inngåelse av leieavtaler
 Kunnskapsdepartementet minner om regelverket som gjelder for inngåelse av leieavtaler i
 markedet. Ved inngåelse av leieavtaler der leieavtalens samlede forpliktelse overstiger 30
 mill. kroner skal Statsbygg brukes som rådgiver. Leieavtaler med samlet forpliktelse over 100
 mill. kroner, inkludert opsjoner, skal godkjennes av departementet. Disse kravene gjelder
 også ved forlengelse av eksisterende avtaler. Det vises også til vedlegg til tildelingsbrevet
 om fullmakter.
-4.2.3
 
-Forventninger knyttet til arealbruk
-
+4.2.3   Forventninger knyttet til arealbruk
 Kunnskapsdepartementet har i 2025 gjennomført en kartlegging av planer for
 arealeffektivisering ved universiteter og høyskoler. Regjeringen forventer at universitetene og
 høyskolene arbeider for å bruke eksisterende areal bedre fremfor å bygge nytt, og at de gjør
 grundige vurderinger av behovene for nybygg, rehabilitering, ombygging og leie av bygg.
-4.2.4
 
-Oppfølging av nasjonal digitaliseringsstrategi
-
+4.2.4   Oppfølging av nasjonal digitaliseringsstrategi
 Fremtidens digitale Norge - Nasjonal digitaliseringsstrategi 2024-2030 peker ut regjeringens
 digitaliseringspolitikk fram til 2030. Alle offentlige virksomheter skal bidra til å realisere
 strategien. Det innebærer både å støtte opp under regjeringens tiltak og å innrette egen
 digitalisering slik at den bidrar til å nå strategiens mål. Samarbeid og samordning mellom
 sektorer og forvaltningsnivå er avgjørende for å lykkes, og skal bygge på prinsippene i
 strategien.
+
 Datadeling er et særskilt prioritert område i kunnskapssektoren. Departementet ber Samisk
 høgskole utarbeide en plan for sitt arbeid med orden i eget hus og datadeling. Arbeidet med
 datadeling skal bygge på «felles spilleregler» og støtte opp under kunnskapen og tjenestene
 som er utviklet gjennom KUDAF-programmet (2020-2025). Sikt - Kunnskapssektorens
 tjenesteleverandør overtar i løpet av første halvår i 2026 oppgaven med koordinering og
 
-Side 10
+ Side 10
+
+[Side 11]
 
 pådriverfunksjon for datadeling i kunnskapssektoren. Virksomhetenes plan for datadeling vil
 være et viktig grunnlag for virksomhetens samarbeid med Sikt på dette området.
-4.2.5
 
-Samarbeid og spesielle oppgaver knyttet til samisk utdanning og forsking
-
+4.2.5    Samarbeid og spesielle oppgaver knyttet til samisk utdanning og forsking
 Regjeringen vil i 2026 følge opp vedtakene fra Stortingets behandling av rapporten fra
 Sannings- og forsoningskommisjonen. Kunnskapsdepartementet har fått i oppdrag å følge
 opp anmodningsvedtakene 18, 20 og 21, dvs. vedtakene IV, VI og VII i Innst. 30 S (2024–
@@ -521,18 +478,16 @@ utdanning. Departementet forventer at institusjonene som har et samisk utdanning
 også fortsetter sitt arbeid med å følge opp denne stortingsmeldingen og vurderer hvordan de
 i samarbeid best kan legge til rette for en vekst i de samiske fagmiljøene og i antallet
 personer som er funksjonelt samiskspråklige.
+
 Departementet har satt ned en arbeidsgruppe for å utarbeide ny rammeplan for samisk
 lærerutdanning. Det er besluttet at Samisk høgskole skal ha sekretariatet for dette arbeidet,
 og at Nord universitet bidrar med en medarbeider i sekretariatet. Departementet forventer at
 Samisk høgskole også utover dette bidrar i arbeidet med å utvikle ny rammeplan for samisk
 lærerutdanning.
 
-5
-5.1
+5       Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+5.1      Rapportering om resultater
 Årsrapport for 2026 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2027, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -549,7 +504,9 @@ staten og Direktoratet for forvaltning og økonomistyring (DFØ)s Veiledningsnot
 årsrapport for statlige virksomheter. Vi viser forøvrig også til vedlegget «Krav til årsrapporten
 for statlige universiteter og høyskoler».
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Samisk høgskole skal rapportere data til DBH. Krav til datarapporteringen og fristene
 gjennom året finnes på DBHs nettsider.
@@ -558,24 +515,19 @@ brev angi hvilke frister og krav som gjelder for delårsregnskapene og årsregns
 Departementet viser til Finansdepartementets rundskriv R-10/2025 når det gjelder
 rapportering av regnskapsopplysninger til statsregnskapet for 2025.
 
-5.2
-
-Satsingsforslag for 2028
-
+5.2       Satsingsforslag for 2028
 Samisk høgskole kan sende inn eventuelle satsingsforslag i tråd med vedlagte veiledning.
 Frist for innsendelse av satsingsforslag for 2028 er 1. november 2026. Forslaget sendes til
 postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2026
-
+5.3       Styringsdialogen i 2026
 Departementet inviterer med dette styret og institusjonens ledelse til etatsstyringsmøte i
 2026. Etatsstyringsmøtet er berammet til 26. mai 2026 kl 10.00-11.30. Møtet vil finne sted i
 Kunnskapsdepartementets lokaler i Kirkegata 18 i Oslo. Vi ber om at strategisk viktige saker
 sendes departementet senest en måned før etatsstyringsmøtet. Til hver innmeldt sak skal
 det gis bakgrunnsinformasjon på inntil en halv side. Departementet forventer at delegasjonen
 er bredt sammensatt.
+
 Vi viser til punkt 2.2 om arbeidet med nye utviklingsavtaler. Departementet inviterer
 styreleder, rektor og direktør og saksbehandler til dialogmøte om utkast til ny utviklingsavtale
 i etterkant av etatsstyringsmøtet 26. mai 2026 kl 12.00-13.30. Institusjonens saksbehandler
@@ -585,29 +537,29 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-
-Sander Tufte
-avdelingsdirektør
+                                                                          Sander Tufte
+                                                                          avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
+
 Tildelingsbrev for universiteter og høyskoler 2026
- Orientering om statsbudsjettet for 2026 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2025
- Krav til årsrapport for statlige universiteter og høyskoler 2026
- Fullmakter for statlige universiteter og høyskoler 2026
- Veiledning til fremstilling av satsingsforslag for 2028
+     Orientering om statsbudsjettet for 2026 for universitet og høgskular etter vedtak i
+        Stortinget 18. desember 2025
+     Krav til årsrapport for statlige universiteter og høyskoler 2026
+     Fullmakter for statlige universiteter og høyskoler 2026
+     Veiledning til fremstilling av satsingsforslag for 2028
 
-Side 12
+ Side 12
 
-
-
+[Side 13]
 
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2026
-Virksomhets- og økonomiinstruks
+      Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2026
+      Virksomhets- og økonomiinstruks
 
 Kopi
+
 Direktoratet for høyere utdanning og kompetanse
 Riksrevisjonen
 Sametinget

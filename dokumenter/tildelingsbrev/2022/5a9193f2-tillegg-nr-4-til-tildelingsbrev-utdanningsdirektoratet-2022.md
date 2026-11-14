@@ -8,83 +8,53 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-nr.-4-til-tildelingsbrev-til-udir-for-2022.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/ec4159fd-019b-48bf-870d-c9dd5a9193f2
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Utdanningsdirektoratet
 Postboks 9359 Grønland
 0135 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-21/6118-25
-
-10. februar 2022
+Deres ref                                  Vår ref                       Dato
+                                           21/6118-25                    10. februar 2022
 
 Tillegg nr. 4 til tildelingsbrev til Udir for 2022 med oppdrag 2022-015 om
 kvalitet og deltakelse i SFO
-Oppdrag nr:
-Oppdrag:
-Frist:
+ Oppdrag nr:                                2022-015
+ Oppdrag:                                   Kvalitet og deltakelse i SFO
+ Frist:                                     Del 1: Forslag til høringutkast oversendes
+                                            departementet innen 1. mars 2022. Oppsummering av
+                                            høring og utkast til forskrift oversendes departementet
+                                            innen 13. mai 2022.
+                                            Del 2: Forslag til retningslinjer oversendes
+                                            departementet innen 1. mars 2022
+                                            Del 3: Utvikling av kompetansetiltak skal være
+                                            igangsatt innen 31.12.2022. Kartlegging av
+                                            kompetansebehov skal oppsummeres til departementet
+                                            innen 1. november 2022, med anbefalinger til
+                                            departementet innen 31.1.2023.
+ Finansiering:                              51,5 mill. kroner over kap 226, post 21,
+ budsjettkap., post og                      prosjektnummer 64000
+ prosjektnummer                             10 mill. kroner over kap 226, post 21, prosjektnummer
+                                            62000
+                                            Administrative kostnader knyttet til oppdraget dekkes
+                                            innenfor gjeldende driftsrammer.
+ Bakgrunn for oppdraget:
+ Vi viser til tildelingsbrevet for 2022.
 
-2022-015
-Kvalitet og deltakelse i SFO
-Del 1: Forslag til høringutkast oversendes
-departementet innen 1. mars 2022. Oppsummering av
-høring og utkast til forskrift oversendes departementet
-innen 13. mai 2022.
-Del 2: Forslag til retningslinjer oversendes
-departementet innen 1. mars 2022
-Del 3: Utvikling av kompetansetiltak skal være
-igangsatt innen 31.12.2022. Kartlegging av
-kompetansebehov skal oppsummeres til departementet
-innen 1. november 2022, med anbefalinger til
-departementet innen 31.1.2023.
+ Postadresse             Kontoradresse         Telefon*        Avdeling               Saksbehandler
+ Postboks 8119 Dep       Kirkeg. 18            22 24 90 90     Avdeling for           Bjørn Breivik
+ 0032 Oslo                                     Org.nr.         barnehage og           22 24 76 26
+ postmottak@kd.dep.no    www.kd.dep.no         872 417 842     grunnskole
 
-Finansiering:
-budsjettkap., post og
-prosjektnummer
-
-51,5 mill. kroner over kap 226, post 21,
-prosjektnummer 64000
-10 mill. kroner over kap 226, post 21, prosjektnummer
-62000
-Administrative kostnader knyttet til oppdraget dekkes
-innenfor gjeldende driftsrammer.
-
-Bakgrunn for oppdraget:
-Vi viser til tildelingsbrevet for 2022.
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-barnehage og
-grunnskole
-
-Saksbehandler
-Bjørn Breivik
-22 24 76 26
+[Side 2]
 
 Foreldrebetalingen i SFO kan være til hinder for deltakelse. For mange foreldre er SFO-plass
 en forutsetning for deltakelse i arbeidslivet.
+
 Vi viser til Prop. 1 S Tillegg 1 (2021–2022) der det står følgende om kompetansetiltak for
 ansatte i skolefritidsordningen (SFO): "I Hurdalsplattformen går det frem at regjeringen ønsker
 å styrke etter- og videreutdanningstilbudet for ansatte i skolefritidsordningen. Det foreslås å
@@ -92,10 +62,12 @@ omprioritere over posten til kompetansetiltak for ansatte i SFO for å heve kval
 tilbudet. Kompetansetiltakene må ses i sammenheng med innføringen av rammeplanen for
 SFO, som trådte i kraft høsten 2021. Dette innebærer at den samlede bevilgningen til tiltaket
 vil være 10 mill. kroner i 2022."
+
 Videre viser vi til at det gjennom forliket mellom regjeringen og SV ble fattet vedtak om å
 innføre en ordning med 12 timer gratis SFO for alle elever på 1. trinn fra høsten 2022.
 Stortinget fattet også 20.12.2021 følgende verbalvedtak: "Disse medlemmer viser til at det
-nylig er vedtatt en rammeplan for skolefritidsordningen som skal legge til rette for lek, kulturog fritidsaktiviteter med utgangspunkt i alder, funksjonsnivå og interesser hos barna, og gi
+nylig er vedtatt en rammeplan for skolefritidsordningen som skal legge til rette for lek, kultur-
+og fritidsaktiviteter med utgangspunkt i alder, funksjonsnivå og interesser hos barna, og gi
 barna omsorg og tilsyn. Disse medlemmer viser til at det er viktig at arbeidet med å utvikle
 ordningen fortsetter, slik at tilbudet holder god kvalitet."
 Beskrivelse av oppdraget:
@@ -115,6 +87,7 @@ I utkast til forskrift skal kommunene gis stor frihet til å utforme ordningen i
 praksis for SFO for øvrig. Kommunen må først beregne hvilke familier som skal ha tilbud om
 redusert foreldrebetaling for heltidsplass, før de trekker fra 12 timer gratis deltid, slik at dette
 ikke går ut over lavinntektsfamilier som er avhengig av heltidsplass.
+
 Del 2: Endringer i tilskuddsordninger
 Utdanningsdirektoratet skal utarbeide forslag til endringer i retningslinjer for tilskudd til
 redusert foreldrebetaling i SFO ved frittstående grunnskoler og tilskudd til gratis SFO for
@@ -125,30 +98,34 @@ lavinntektsfamilier på første trinn. Endelige retningslinjer skal fastsettes a
 
 Side 2
 
-Del 3: Utvikling av kompetansetiltak
-Utdanningsdirektoratet skal (a) utvikle kompetansetiltak for ledere i SFO i 2022. Tiltakene
-skal støtte opp om implementering av rammeplanen og ledelse av utviklingsprosesser i SFO.
-Tiltakene skal også støtte SFO-ledere i å vurdere og utvikle kvaliteten på SFO-tilbudet.
-Innenfor rammen skal (b) Utdanningsdirektoratet videre kartlegge behovene for
-kompetanseheving for ansatte i SFO, og på bakgrunn av kartleggingen vurdere hvilke tema og
-type kompetansetiltak som treffer de ulike aktuelle ansattgruppene i SFO best. Direktoratet
-skal deretter legge fram sine anbefalinger om kompetansetiltak som kan være aktuelle i SFO
-på lengre sikt, for departementet. Direktoratet skal ha dialog med departementet om oppdraget.
-Rapportering etter gjennomført oppdrag:
-Når direktoratet anser oppdraget som utført sendes enten beskjed om at oppdrag er utført eller
-det som skal eventuelt skal leveres til Postmottak@kd.dep.no med kopi til
-Etatsstyringsgruppen@kd.dep.no og Maren Hegna, maren.hegna@kd.dep.no, innen
-31.12.2022 og de frister som står øverst i brevet.
+[Side 3]
+
+ Del 3: Utvikling av kompetansetiltak
+ Utdanningsdirektoratet skal (a) utvikle kompetansetiltak for ledere i SFO i 2022. Tiltakene
+ skal støtte opp om implementering av rammeplanen og ledelse av utviklingsprosesser i SFO.
+ Tiltakene skal også støtte SFO-ledere i å vurdere og utvikle kvaliteten på SFO-tilbudet.
+ Innenfor rammen skal (b) Utdanningsdirektoratet videre kartlegge behovene for
+ kompetanseheving for ansatte i SFO, og på bakgrunn av kartleggingen vurdere hvilke tema og
+ type kompetansetiltak som treffer de ulike aktuelle ansattgruppene i SFO best. Direktoratet
+ skal deretter legge fram sine anbefalinger om kompetansetiltak som kan være aktuelle i SFO
+ på lengre sikt, for departementet. Direktoratet skal ha dialog med departementet om oppdraget.
+ Rapportering etter gjennomført oppdrag:
+ Når direktoratet anser oppdraget som utført sendes enten beskjed om at oppdrag er utført eller
+ det som skal eventuelt skal leveres til Postmottak@kd.dep.no med kopi til
+ Etatsstyringsgruppen@kd.dep.no og Maren Hegna, maren.hegna@kd.dep.no, innen
+ 31.12.2022 og de frister som står øverst i brevet.
 
 Med hilsen
 
 Kjersti Flåten (e.f.)
 ekspedisjonssjef
-Bjørn Breivik
-seniorrådgiver
+                                                                              Bjørn Breivik
+                                                                              seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
 
-Side 3
+ Riksrevisjonen
+
+ Side 3

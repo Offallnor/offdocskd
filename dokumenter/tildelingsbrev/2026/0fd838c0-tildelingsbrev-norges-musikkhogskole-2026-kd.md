@@ -8,25 +8,21 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/tildelingsbrev-2026-norges-musikkhogskole.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-790c-4a98-8e3a-74b80fd838c0
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Norges musikkhøgskole
 Postboks 5190 Majorstua
 0302 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/5029-
-
-19. desember 2025
+Deres ref                                              Vår ref                                      Dato
+                                                       25/5029-                                     19. desember 2025
 
 Tildelingsbrev 2026 - Norges musikkhøgskole
+
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2026, jf. Innst. 12 S
 (2025–2026) og Prop. 1 S (2025–2026), sender Kunnskapsdepartementet med dette
 tildelingsbrev til Norges musikkhøgskole. Tildelingsbrevet er Kunnskapsdepartementets
@@ -34,50 +30,22 @@ tildelingsbrev til Norges musikkhøgskole. Tildelingsbrevet er Kunnskapsdepartem
 gjennom supplerende tildelingsbrev i løpet av 2026. Tildelingsbrevet og eventuelle
 supplerende tildelingsbrev skal publiseres på virksomhetens nettsider så snart de er mottatt,
 jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
+
 Tildelingsbrevet for 2026 består av følgende deler:
 1 Regjeringens prioriteringer og forventninger ................................................................... 2
-2
+2    Mål.................................................................................................................................. 3
+3    Tildeling .......................................................................................................................... 6
+4    Andre forutsetninger og krav ........................................................................................... 9
+5    Rapportering og resultatoppfølging ............................................................................... 11
 
-Mål.................................................................................................................................. 3
+ Postadresse                   Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep             Kirkeg. 18                   22 24 90 90                Avdeling for eierskap i      Linda J. Elmrhari
+ 0032 Oslo                                                  Org.nr.                    høyere utdanning og
+ postmottak@kd.dep.no          www.kd.dep.no                872 417 842                forskning
 
-3
+[Side 2]
 
-Tildeling .......................................................................................................................... 6
-
-4
-
-Andre forutsetninger og krav ........................................................................................... 9
-
-5
-
-Rapportering og resultatoppfølging ............................................................................... 11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda J. Elmrhari
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1     Regjeringens prioriteringer og forventninger
 Regjeringen ønsker å ta Norge videre – tryggere, mer rettferdig og med sterkere fellesskap.
 Utdanning, forskning og innovasjon støtter opp under hovedprioriteringene i regjeringens
 plan for Norge og er avgjørende for at Norge skal kunne møte framtidens utfordringer.
@@ -89,6 +57,7 @@ teknologiutvikling og omstilling i næringslivet og offentlig sektor - og bidrar
 ressursutnyttelse. Institusjonene må med utgangspunkt i sin profil utvikle samarbeidet og
 arbeidsdelingen seg imellom og med andre aktører, på tvers av både sektorer og
 landegrenser.
+
 De overordnede rammene for regjeringens politikk for høyere utdanning og forskning er
 beskrevet i Prop. 1 S (2025–2026) for Kunnskapsdepartementet, programkategori 07.60. De
 langsiktige målene og prioriteringene i Langtidsplanen for forskning og høyere utdanning 1
@@ -99,10 +68,12 @@ mål, langsiktige prioriteringer og tiltak for kunnskapssektoren. Kunnskapssekto
 både mer effektiv og innovativ, og samtidig opprettholde høy kvalitet i utdanning og
 forskning. Andelen midlertidige stillinger i UH-sektoren er redusert de senere år. Regjeringen
 forventer at institusjonene fortsetter det målrettede arbeidet på dette området.
+
 Samfunnet trenger kompetente kandidater med høyere utdanning, høyere yrkesfaglig
 utdanning og fag- eller svennebrev, jf. perspektivmeldingen. 3 Både universiteter, høyskoler
 og fagskoler må framover prioritere utdanningstilbud som samsvarer med de viktigste
 kompetansebehovene og arbeide for at flere gjennomfører utdanningene.
+
 Universiteter og høyskoler har et ansvar for å ivareta den nasjonale kunnskapsberedskapen.
 Det betyr at sektoren er i stand til å produsere kunnskap som kan understøtte beslutninger i
 kriser og på den måten styrke samfunnets motstandskraft. Kunnskapen må ha nødvendig
@@ -115,16 +86,19 @@ Kunnskapsdepartementet om å bli informert i god tid før eventuell beslutning, 
 1 Meld. St. 5 (2022-2023 - Langtidsplan for forskning og høyere utdanning 2023–2032
 2 Meld. St. 14 (2024-2025) – Sikker kunnskap i en usikker verden
 3 Meld. St. 31 (2023-2024) Perspektivmeldingen
-
 4 Meld St. 9 (2024-2025) – Totalberedskapsmeldingen – Forberedt på kriser og krig
+
 5 Meld. St. 19 (2020-2021) - Styring av statlige universiteter og høyskoler
 
-Side 2
+ Side 2
+
+[Side 3]
 
 Norsk forskning og høyere utdanning er avhengig av internasjonalt samarbeid for å holde
 høy kvalitet og håndtere store samfunnsutfordringer. Samtidig må samarbeidet ivareta
 nasjonale interesser og sikkerhet. Norsk forskning skal være så åpen som mulig og så sikker
 som nødvendig.
+
 Som følge av et redusert økonomisk handlingsrom framover og økende mangel på
 kompetent arbeidskraft, er det nødvendig å prioritere strengere også innenfor høyere
 utdanning og forskning. En viktig forutsetning for å lykkes, er at universitetene og høyskolene
@@ -133,22 +107,16 @@ behovet for å videreutvikle styringen, i dialog med sektoren. Departementet vil
 bruke utviklingsavtalene til tydeligere strategisk dialog, for å styrke mangfold, samarbeid og
 arbeidsdeling i sektoren.
 
-2
-
-Mål
+2   Mål
 
 2.1 Kunnskapsdepartementets overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
-utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (20252026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
+utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2025-
+2026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
 Det er viktig med godt samspill mellom departementets underliggende virksomheter slik at
 alle bidrar til hverandres måloppnåelse.
 
@@ -163,16 +131,19 @@ Departementet legger opp til en dialogbasert prosess med de statlige universitet
 høyskolene om nye utviklingsavtaler som skal gjelde for perioden 2027-2030.
 Departementet har ikke utviklingsavtaler med de private høyskolene, men følger opp mål og
 resultater som del av tilskuddsforvaltningen.
-Kunnskapsdepartementet har i samarbeid med de aktuelle institusjonene definert samfunnsog effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner
+Kunnskapsdepartementet har i samarbeid med de aktuelle institusjonene definert samfunns-
+og effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner
 må ta hensyn til disse målene i planer og i styringen av virksomheten.
 
-Side 3
+ Side 3
+
+[Side 4]
 
 2.3 Sektormål og utviklingsavtaler
 For 2026 gjelder følgende sektormål for universiteter og høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
@@ -189,6 +160,7 @@ med revidert rammeverk og forventninger til institusjonene. Fristen for institus
 levere første utkast til utviklingsavtale er 15. mars 2026.
 
 2.4 Utviklingsavtale for Norges musikkhøgskole (NMH) 2023–2026
+
 Mål 1 – Gi det norske samfunnet musikkfaglig kompetanse på høyt internasjonalt nivå
 NMHs studieportefølje skal være relevant og møte ulike behov i samfunnet. NMH vil utdanne
 og ruste studentene til livslang innsats som reflekterte nyskapere og kyndige
@@ -196,9 +168,11 @@ tradisjonsbærere i en krevende utøvende og skapende musikkbransje, innen under
 og frivillig musikkliv, i helsevesen og innen forskning og kunnskapsutvikling. NMH vil at
 utdanningene skal forberede studentene for et musikkliv i endring, samtidig som kulturarv,
 tradisjon og kontinuitet ivaretas.
+
 Som det største musikkfagmiljøet i landet, vil NMH bidra til å initiere og etablere gode
 løsninger for samarbeid og arbeidsdeling med andre aktører som tilbyr musikk- og
 kunstutdanning i Norge.
+
 NMH er internasjonalt vel ansett som utdanningsinstitusjon, og virksomheten er sterkt
 internasjonalt orientert, både gjennom høy grad av utveksling for studenter og ansatte, stort
 innslag av internasjonale gradsstudenter og et velutviklet samarbeid med utenlandske
@@ -206,22 +180,25 @@ utdanningsinstitusjoner. NMH vil videreutvikle de internasjonale perspektivene o
 forbindelsene for å opprettholde et utdanningstilbud på høyt internasjonalt nivå, med hensyn
 til både kvalitet og relevans.
 
-Side 4
+ Side 4
+
+[Side 5]
 
 Styringsparametere:
-1. Videreutvikle studieporteføljen slik at studietilbudene stimulerer til kunstnerisk
-nyskaping og innovasjon, og samtidig ivaretar samfunnets behov for variert
-musikkfaglig kompetanse.
-2. Implementere erfaring og kunnskap utviklet ved NMHs senter for fremragende
-utdanning (CEMPE) i virksomheten etter avslutning av senterstatusen ved utgangen
-av 2023.
-3. Styrke studieprogrammenes kobling mot forskning og kunstnerisk utviklingsarbeid
-4. Videreutvikle strategien for talentutvikling og rekruttering til høyere musikkutdanning,
-og samtidig vektlegge økt mangfold i rekrutteringsgrunnlaget.
-5. Søke nye og videreutvikle eksisterende nasjonale og internasjonale partnerskap som
-kan styrke relevans og kvalitet på alle utdanningsnivåer.
+    1. Videreutvikle studieporteføljen slik at studietilbudene stimulerer til kunstnerisk
+       nyskaping og innovasjon, og samtidig ivaretar samfunnets behov for variert
+       musikkfaglig kompetanse.
+    2. Implementere erfaring og kunnskap utviklet ved NMHs senter for fremragende
+       utdanning (CEMPE) i virksomheten etter avslutning av senterstatusen ved utgangen
+       av 2023.
+    3. Styrke studieprogrammenes kobling mot forskning og kunstnerisk utviklingsarbeid
+    4. Videreutvikle strategien for talentutvikling og rekruttering til høyere musikkutdanning,
+       og samtidig vektlegge økt mangfold i rekrutteringsgrunnlaget.
+    5. Søke nye og videreutvikle eksisterende nasjonale og internasjonale partnerskap som
+       kan styrke relevans og kvalitet på alle utdanningsnivåer.
+
 Mål 2 – Fastholde og styrke posisjonen som en internasjonalt ledende FoU-institusjon
-innenfor fagområdet musikk
+         innenfor fagområdet musikk
 NMH vil styrke kvaliteten i og omfanget av FoU-virksomheten og bidra til kunnskapsutvikling.
 Både kunstnerisk utviklingsarbeid, vitenskapelig forskning og faglig og pedagogisk
 utviklingsarbeid er vitale FoU-aktiviteter ved NMH. Kunstnerisk utviklingsarbeid har lenge
@@ -232,54 +209,61 @@ for kunnskapsutviklingen innenfor de framvoksende kreative næringer. Forskninge
 kunstneriske utviklingsarbeidet på NMH bidrar til å tilgjengeliggjøre musikk som en
 fellesmenneskelig ressurs til erkjennelse og estetisk erfaring, og har betydelig verdi også for
 pedagogisk virksomhet og i helsefaglige sammenhenger.
+
 NMH vil styrke kvaliteten i FoU-virksomheten og vil fortsatt øke sin evne til å konkurrere om
 ekstern finansiering, blant annet gjennom FoU-sentrene ved institusjonen. NMH vil også,
 gjennom forskning og kunstnerisk utviklingsarbeid, bidra til å styrke kunstens og kulturens
 bidrag til bærekraft og grønn omstilling.
-Styringsparametere:
-6. Bedre oversikt over faglig ansattes FoU-virksomhet, og dermed styrke grunnlaget for
-samarbeid og prosjektutvikling.
-7. Øke omfanget av ekstern finansiering i samarbeid med nasjonale og/eller
-internasjonale samarbeidspartnere.
-8. Søke å øke antallet stipendiatstillinger tilknyttet ph.d.-programmet i kunstnerisk
-utviklingsarbeid i musikk for å gi stabilitet og levedyktighet.
-9. Spille en nasjonal rolle i videreutviklingen av kunstnerisk utviklingsarbeid på tvers av
-institusjoner og kunstarter.
-10. Bidra mer aktivt i forskersamfunnet.
 
-Side 5
+Styringsparametere:
+    6. Bedre oversikt over faglig ansattes FoU-virksomhet, og dermed styrke grunnlaget for
+        samarbeid og prosjektutvikling.
+    7. Øke omfanget av ekstern finansiering i samarbeid med nasjonale og/eller
+        internasjonale samarbeidspartnere.
+    8. Søke å øke antallet stipendiatstillinger tilknyttet ph.d.-programmet i kunstnerisk
+        utviklingsarbeid i musikk for å gi stabilitet og levedyktighet.
+    9. Spille en nasjonal rolle i videreutviklingen av kunstnerisk utviklingsarbeid på tvers av
+        institusjoner og kunstarter.
+    10. Bidra mer aktivt i forskersamfunnet.
+
+ Side 5
+
+[Side 6]
 
 Mål 3 – Øke NMHs synlighet i samfunnet og styrke forståelsen av musikkens og
-kunstens betydning i menneskers liv
+        kunstens betydning i menneskers liv
 NMH har en sterk posisjon i det nasjonale og internasjonale kunstutdanningsfeltet som en
 institusjon som gir utdanning på høyt internasjonalt nivå og bidrar med FoU av høy kvalitet.
 NMH vil øke synligheten i samfunnet, for å styrke forståelsen av musikkens og kunstens
 betydning for alle menneskers liv og helse og for tillit og fellesskap, nasjonalt og på tvers av
 landegrensene.
+
 NMH formidler levende musikk i mange sjangre og formater. Hvert år produserer
 institusjonen over 400 konserter og andre arrangementer, i form av studieaktiviteter og
 formidling av resultater av kunstnerisk utviklingsarbeid og forskning, i egne lokaler på
 Majorstua og i andre lokaler i og utenfor Oslo.
+
 NMH rekrutterer studenter fra hele landet og de som utdannes finner arbeid over hele landet
-innen et fullt spekter av musikkfaglige kompetanseområder. NMH vil øke tilbudet innen etterog videreutdanning, og øke tilgjengeligheten av tilbudene gjennom helt eller delvis digitale
+innen et fullt spekter av musikkfaglige kompetanseområder. NMH vil øke tilbudet innen etter-
+og videreutdanning, og øke tilgjengeligheten av tilbudene gjennom helt eller delvis digitale
 undervisningsformer.
+
 NMH har over tid hatt en økning i studenttallet med om lag 60 %. I tillegg er aktiviteten økt
 gjennom stipendiatstillinger og eksternfinansiert virksomhet, og ventes å øke ytterligere på
 disse områdene de nærmeste årene. Det er derfor nødvendig å få på plass en
 tilfredsstillende arealløsning for framtida. I tillegg til at antall studenter og ansatte har økt,
 handler arealbehovet også om at produksjonsformene i musikklivet har endret seg og skapt
 nye behov som ikke er tilfredsstillende dekket i dagens lokaler.
+
 Styringsparametere:
-11. Utvikle og iverksette planer for økt synlighet i samfunnet.
-12. Øke tilbudet av etter- og videreutdanning, blant annet ved økt bruk av digitale
-hjelpemidler, og styrke posisjonen som en nasjonal tilbyder av utdanning til en mer
-mangfoldig brukergruppe.
-13. Finne en langsiktig, bærekraftig løsning av arealbehovet, og igangsette tiltak for en
-optimal utnyttelse av dagens arealer.
+    11. Utvikle og iverksette planer for økt synlighet i samfunnet.
+    12. Øke tilbudet av etter- og videreutdanning, blant annet ved økt bruk av digitale
+        hjelpemidler, og styrke posisjonen som en nasjonal tilbyder av utdanning til en mer
+        mangfoldig brukergruppe.
+    13. Finne en langsiktig, bærekraftig løsning av arealbehovet, og igangsette tiltak for en
+        optimal utnyttelse av dagens arealer.
 
-3
-
-Tildeling
+3   Tildeling
 
 3.1 Tildeling over kap. 260, post 50 – statlige universiteter og høyskoler
 Stortinget har bevilget 45,9 mrd. kroner over kap. 260, post 50 til statlige universiteter og
@@ -289,7 +273,9 @@ Orientering om statsbudsjettet 2026 for universitet og høgskular etter vedtak i
 18. desember 2025 gir en oversikt over de enkelte endringene i rammebevilgningen per
 institusjon.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 Rammefinansiering
 Universitetene og høyskolene får midlene på kap. 260 som én rammebevilgning, som betyr
@@ -304,19 +290,13 @@ områder som er særlig viktige for det grønne skiftet, og for et høyproduktiv
 konkurransedyktig næringsliv.
 Nye studieplasser
 I 2026 er det tildelt midler til følgende nye studieplasser/økt kapasitet:
-•
-•
-•
-•
-•
-•
-
-155 studieplasser i sykepleie (treårig)
-100 studieplasser i kvanteteknologi (toårig)
-60 studieplasser i psykologi (seksårig)
-20 studieplasser i medisin (seksårig)
-10 mill. kroner til audiografutdanningen
-6 mill. kroner til fleksibel og desentralisert utdanning med særlig vekt på ØstFinnmark
+   •      155 studieplasser i sykepleie (treårig)
+   •      100 studieplasser i kvanteteknologi (toårig)
+   •      60 studieplasser i psykologi (seksårig)
+   •      20 studieplasser i medisin (seksårig)
+   •      10 mill. kroner til audiografutdanningen
+   •      6 mill. kroner til fleksibel og desentralisert utdanning med særlig vekt på Øst-
+          Finnmark
 
 Ved tildeling av midler til nye studieplasser benytter departementet en standard sats på
 107 650 kroner per 60-studiepoengenhet. Unntaket er til medisinutdanning, odontologi og
@@ -334,10 +314,12 @@ opptaket og produksjonen ikke gjenspeiler forventningene om gjennomførte studie
 Departementet vil komme tilbake til oppfølging av tidligere tildelte studieplasser i
 styringsdialogen i 2026.
 
-Side 7
+ Side 7
+
+[Side 8]
 
 3.2 Tildeling over kap. 226, post 22 Videreutdanning for ansatte i
-grunnopplæring
+    grunnopplæring
 Regjeringen innfører et nytt og helhetlig system for kompetanse- og karriereutvikling for
 lærere og andre ansatte i barnehage og grunnopplæring, som fases inn i 2025 og 2026. 6
 Universiteter og høyskoler får et øremerket tilskudd for å utvikle og tilby videreutdanning
@@ -374,44 +356,40 @@ Midlene over kap. 226 post 22 utbetales i én rate i februar.
 
 og-skole/id3098922/?ch=1
 
-Side 8
+ Side 8
 
-4
+[Side 9]
 
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
 
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Norges musikkhøgskole skal følge opp dette målet. I dette
 arbeidet skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og
 kostnadseffektivitet.
+
 Norges musikkhøgskole skal også vurdere hvordan klimaendringene vil påvirke
 virksomheten. Norges musikkhøgskole skal gjøre systematiske vurderinger av egen
 energibruk og ta i bruk lønnsomme energieffektive løsninger, samt øke energifleksibiliteten
 der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+          eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
 skal i samarbeid med de tillitsvalgte selv definere et hensiktsmessig ambisjonsnivå ut fra
 virksomhetens egenart og størrelse.
+
 Norges musikkhøgskole skal i årsrapporten oppgi antallet ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2026 og det totale
 antallet ansettelser i virksomheten i 2026. Virksomheten skal også omtale utviklingen i 2026
 sett opp mot det virksomheten har rapportert for 2025.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Norges musikkhøgskole skal arbeide for å redusere konsulentbruken på
 områder der det ligger til rette for å benytte interne ressurser og kompetanse. Utover
@@ -421,21 +399,22 @@ om konsulentbruken og oppfølgingen av fellesføringen, herunder om totalbeløp 
 konsulenttjenester, hvilke tiltak som er iverksatt og konkrete resultater. Dersom det er
 fagområder og/eller kompetanseområder i virksomheten der konsulenter benyttes i særlig
 grad, skal bakgrunnen for dette omtales nærmere.
+
 Norges musikkhøgskole skal som en del av rapporteringen også gi en overordnet omtale av
 eventuelle kjøp av konsulenttjenester fra kommunikasjonsbransjen (alle typer
 kommunikasjonstjenester) i 2026 og opplyse om totalbeløp for kjøp av slike tjenester.
 Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten i note til
 
-Side 9
+ Side 9
+
+[Side 10]
 
 årsregnskapet spesifisere dette nærmere. Dersom Norges musikkhøgskole har større kjøp
 av konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
 4.2 Andre krav
-4.2.1
 
-Sikkerhet og beredskap
-
+4.2.1   Sikkerhet og beredskap
 Det forutsettes at Norges musikkhøgskole holder seg oppdatert om trusselvurderinger fra
 nasjonale fagmyndigheter og støtter opp om hovedprioriteringene i Nasjonal
 sikkerhetsstrategi. 2026 markeres som Totalforsvarsåret, hvis mål er å styrke Norges evne til
@@ -444,10 +423,12 @@ vurdere relevante aktiviteter som vil bidra til å oppnå målene for Totalforsv
 Departementet oppfordrer også de underliggende virksomhetene til å vurdere slike aktiviteter
 innenfor eget ansvarsområde. Informasjon om Totalforsvarsåret publiseres fortløpende på
 dsb.no.
+
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor, revidert i 2025, skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal
 sikkerhet og informasjonssikkerhet. Rapporteringskravene nedenfor gjenspeiler krav som
 stilles i styringsdokumentet.
+
 Norges musikkhøgskole skal i årsrapporten for 2026 rapportere om følgende:
 1. Beskriv status for Norges musikkhøgskoles arbeid med å få oversikt over egne verdier og
 avhengigheter med hensyn til nasjonal sikkerhet. Hvilke planer har virksomheten for
@@ -459,48 +440,44 @@ Hvilke områder er identifisert som de med høyest risiko for virksomheten?
 4. Redegjør for arbeidet med styringssystem for sikkerhet, herunder hvordan dette
 samordnes med ledelsessystem for informasjonssikkerhet og virksomhetsstyringen for øvrig.
 (jf. kap. 5 i styringsdokumentet).
-4.2.2
 
-Krav ved inngåelse av leieavtaler
-
+4.2.2   Krav ved inngåelse av leieavtaler
 Kunnskapsdepartementet minner om regelverket som gjelder for inngåelse av leieavtaler i
 markedet. Ved inngåelse av leieavtaler der leieavtalens samlede forpliktelse overstiger 30
 mill. kroner skal Statsbygg brukes som rådgiver. Leieavtaler med samlet forpliktelse over 100
 mill. kroner, inkludert opsjoner, skal godkjennes av departementet. Disse kravene gjelder
 også ved forlengelse av eksisterende avtaler. Det vises også til vedlegg til tildelingsbrevet
 om fullmakter.
-4.2.3
 
-Forventninger knyttet til arealbruk
-
+4.2.3   Forventninger knyttet til arealbruk
 Kunnskapsdepartementet har i 2025 gjennomført en kartlegging av planer for
 arealeffektivisering ved universiteter og høyskoler. Regjeringen forventer at universitetene og
 
-Side 10
+ Side 10
+
+[Side 11]
 
 høyskolene arbeider for å bruke eksisterende areal bedre fremfor å bygge nytt, og at de gjør
 grundige vurderinger av behovene for nybygg, rehabilitering, ombygging og leie av bygg.
-4.2.4
 
-Oppfølging av nasjonal digitaliseringsstrategi
-
+4.2.4   Oppfølging av nasjonal digitaliseringsstrategi
 Fremtidens digitale Norge - Nasjonal digitaliseringsstrategi 2024-2030 peker ut regjeringens
 digitaliseringspolitikk fram til 2030. Alle offentlige virksomheter skal bidra til å realisere
 strategien. Det innebærer både å støtte opp under regjeringens tiltak og å innrette egen
 digitalisering slik at den bidrar til å nå strategiens mål. Samarbeid og samordning mellom
 sektorer og forvaltningsnivå er avgjørende for å lykkes, og skal bygge på prinsippene i
 strategien.
+
 Datadeling er et særskilt prioritert område i kunnskapssektoren. Departementet ber Norges
 musikkhøgskole utarbeide en plan for sitt arbeid med orden i eget hus og datadeling.
 Arbeidet med datadeling skal bygge på «felles spilleregler» og støtte opp under kunnskapen
-og tjenestene som er utviklet gjennom KUDAF-programmet (2020-2025). Sikt Kunnskapssektorens tjenesteleverandør overtar i løpet av første halvår i 2026 oppgaven
+og tjenestene som er utviklet gjennom KUDAF-programmet (2020-2025). Sikt -
+Kunnskapssektorens tjenesteleverandør overtar i løpet av første halvår i 2026 oppgaven
 med koordinering og pådriverfunksjon for datadeling i kunnskapssektoren. Virksomhetenes
 plan for datadeling vil være et viktig grunnlag for virksomhetens samarbeid med Sikt på dette
 området.
 
-5
-
-Rapportering og resultatoppfølging
+5   Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Årsrapport for 2026 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
@@ -523,7 +500,9 @@ gjennom året finnes på DBHs nettsider.
 Norges musikkhøgskole skal avlegge delårsregnskap og årsregnskap. Departementet vil i
 egne brev angi hvilke frister og krav som gjelder for delårsregnskapene og årsregnskapet.
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Departementet viser til Finansdepartementets rundskriv R-10/2025 når det gjelder
 rapportering av regnskapsopplysninger til statsregnskapet for 2025.
@@ -540,6 +519,7 @@ Kunnskapsdepartementets lokaler i Kirkegata 18 i Oslo. Vi ber om at strategisk v
 sendes departementet senest en måned før etatsstyringsmøtet. Til hver innmeldt sak skal
 det gis bakgrunnsinformasjon på inntil en halv side. Departementet forventer at delegasjonen
 er bredt sammensatt.
+
 Vi viser til punkt 2.2 om arbeidet med nye utviklingsavtaler. Departementet inviterer
 styreleder, rektor og direktør og saksbehandler til dialogmøte om utkast til ny utviklingsavtale
 i etterkant av etatsstyringsmøtet, 12. mai 2026 kl 12.00-13.30. Institusjonens saksbehandler
@@ -548,33 +528,27 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-
-Sander Tufte
-avdelingsdirektør
+                                                                          Sander Tufte
+                                                                          avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
 
 Tildelingsbrev for universiteter og høyskoler 2026
-
-
-
-
-
-
-
-Orientering om statsbudsjettet for 2026 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2025
-Krav til årsrapport for statlige universiteter og høyskoler 2026
-Fullmakter for statlige universiteter og høyskoler 2026
-Veiledning til fremstilling av satsingsforslag for 2028
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2026
-Virksomhets- og økonomiinstruks
+         Orientering om statsbudsjettet for 2026 for universitet og høgskular etter vedtak i
+          Stortinget 18. desember 2025
+         Krav til årsrapport for statlige universiteter og høyskoler 2026
+         Fullmakter for statlige universiteter og høyskoler 2026
+         Veiledning til fremstilling av satsingsforslag for 2028
+         Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2026
+         Virksomhets- og økonomiinstruks
 
 Kopi
 
-Side 12
+ Side 12
+
+[Side 13]
 
 Direktoratet for høyere utdanning og kompetanse
 Riksrevisjonen

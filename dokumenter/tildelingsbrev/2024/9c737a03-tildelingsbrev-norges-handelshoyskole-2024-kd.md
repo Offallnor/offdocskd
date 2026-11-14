@@ -8,22 +8,17 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/tildelingsbrev-2024-norges-handelshoyskole2296897.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7792-44fa-45aa-80b0-59fb9c737a03
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Norges Handelshøyskole
 5045 Bergen
 
-Deres ref.
-
-Vår ref
-
-Dato
-
-23/4570
-
-20. desember 2023
+Deres ref.                                               Vår ref                                      Dato
+                                                         23/4570                                      20. desember 2023
 
 Tildelingsbrev 2024 til Norges Handelshøyskole
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2024, jf. Innst. 12 S (2023–
@@ -35,52 +30,20 @@ Tildelingsbrevet og eventuelle supplerende tildelingsbrev skal publiseres på vi
 nettsider så snart de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2024 består av følgende deler:
-1
+1    Regjeringens prioriteringer og forventninger ......................................................................2
+2    Mål .....................................................................................................................................4
+3    Tildeling ..............................................................................................................................6
+4    Andre forutsetninger og krav ..............................................................................................8
+5    Rapportering og resultatoppfølging ..................................................................................10
 
-Regjeringens prioriteringer og forventninger ......................................................................2
+ Postadresse                    Kontoradresse                 Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep              Kirkeg. 18                    22 24 90 90                Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                    høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no           www.kd.dep.no                 872 417 842                forskning
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling ..............................................................................................................................6
-
-4
-
-Andre forutsetninger og krav ..............................................................................................8
-
-5
-
-Rapportering og resultatoppfølging ..................................................................................10
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-
-1
-
-Regjeringens prioriteringer og forventninger
+1    Regjeringens prioriteringer og forventninger
 
 Kunnskap og kompetanse er avgjørende for et omstillings- og konkurransedyktig Norge.
 Regjeringen fører derfor en offensiv kunnskapspolitikk som tar hele landet i bruk.
@@ -113,7 +76,8 @@ organisasjon med sikte på å gi ansatte i førstelinjen økt tillit.
 Regjeringen lanserte høsten 2023 en forsknings- og innovasjonssatsing på kunstig
 intelligens (KI) og digital sikkerhet for å gi større innsikt i samfunnskonsekvenser for
 teknologiutviklingen og gi mer kunnskap om innovasjonsmuligheter, både i næringslivet og i
-offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter itsystemet til Samordna opptak.
+offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter it-
+systemet til Samordna opptak.
 Internasjonalisering er en forutsetning for kvalitet i norsk forskning og høyere utdanning.
 Samarbeid med internasjonale kunnskapsmiljøer har positive ringvirkninger på kvaliteten i
 norske fagmiljøer, samtidig som det bidrar til å gi unge mennesker verdifull kompetanse om
@@ -121,7 +85,9 @@ de komplekse utfordringene verden står overfor. Regjeringen forventer at virkso
 
 1 Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge
 
-Side 2
+ Side 2
+
+[Side 3]
 
 bidrar til økt deltakelse i EUs programmer for utdanning, forskning og innovasjon og aktiv
 deltakelse i samarbeidet om politikk og rammebetingelser gjennom Det europeiske
@@ -167,38 +133,27 @@ institusjonene prioriterer disse utdanningene. Utdanningene skal ha høy kvalite
 koblet til praksisfeltet og tilbys i hele landet. Universitetene og høyskolene har et ansvar for å
 øke rekrutteringen.
 
-Side 3
+ Side 3
+
+[Side 4]
 
 Regjeringen er opptatt av å ha et forskningssystem i god balanse og vil derfor legge frem en
 melding til Stortinget om forskningssystemet i løpet av 2025.
 
-2
+2       Mål
 
-Mål
-
-2.1
-
-Kunnskapsdepartements overordnede mål
-
+2.1       Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål:
-
-
-
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+         Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+         Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+         Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2023–2024) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
 målene. Det er viktig med godt samspill mellom departementets underliggende virksomheter
 slik at alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Målstrukturen for sektoren
-
+2.2       Målstrukturen for sektoren
 Kunnskapsdepartementet fastsatte etter dialog med sektoren nye sektormål gjeldende fra
 2023 for statlige universiteter og høyskoler og private høyskoler som mottar statstilskudd.
 Sektormålene samsvarer godt med de overordnede målene i langtidsplanen, som gjelder all
@@ -215,17 +170,16 @@ Kunnskapsdepartementet har i samarbeid med institusjonene definert samfunns- og
 effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner må ta
 hensyn til disse målene i planer og i styringen av virksomheten.
 
-2.3
-
-Sektormål og utviklingsavtaler
-
+2.3       Sektormål og utviklingsavtaler
 For 2024 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 
-Side 4
+ Side 4
+
+[Side 5]
 
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
@@ -240,9 +194,7 @@ rammeverket for utviklingsavtalene. Utviklingsavtalene reforhandles i utgangspun
 fjerde år, men departementet åpner for eventuell revisjon av avtalene etter to år ved særlige
 behov.
 
-2.4
-
-Utviklingsavtale for Norges Handelshøyskole (NHH) 2023–2026
+2.4       Utviklingsavtale for Norges Handelshøyskole (NHH) 2023–2026
 
 Mål 1 – Attraktive kandidater til arbeidsmarkedet nasjonalt og internasjonalt, med
 kompetanse og holdninger som bidrar til og setter retning for bærekraftig
@@ -257,15 +209,10 @@ studentaktive læringsformer vil videreføres og forsterkes. På tvers av nærin
 søker NHH å utdanne kandidater som er høyt etterspurte i arbeidsmarkedet nasjonalt og
 internasjonalt. Utdanningsområdet på NHH vil bidra på de tre målene i langtidsplanen (LTP).
 Styringsparametere:
-1.
-2.
-3.
-4.
-
-Økt mangfold og engasjement i studentmassen
-Fagutvikling som bidrar til bærekraftig verdiskaping
-Fremragende læringsmiljø og pedagogikk med vekt på studentaktiv undervisning
-Høy arbeidslivsrelevans
+   1.     Økt mangfold og engasjement i studentmassen
+   2.     Fagutvikling som bidrar til bærekraftig verdiskaping
+   3.     Fremragende læringsmiljø og pedagogikk med vekt på studentaktiv undervisning
+   4.     Høy arbeidslivsrelevans
 
 Mål 2 – Forskningsintensiv handelshøyskole med bidrag på høyt internasjonalt nivå
 NHH vil øke den samlede publikasjonsaktiviteten og opprettholde et høyt nivå på omfanget
@@ -277,18 +224,15 @@ rekrutteringspolitikk som bidrar til jevnere kjønnsbalanse i vitenskapelige sti
 på NHH søker å bidra direkte til målet «Høy kvalitet og tilgjengelighet i forskning og høyere
 utdanning» i LTP og indirekte til de to øvrige målene.
 
-Side 5
+ Side 5
+
+[Side 6]
 
 Styringsparametere:
-5.
-6.
-7.
-8.
-
-Økt publiseringsaktivitet og solid omfang av internasjonale topp-publikasjoner
-Økt inntekt fra eksternfinansiering
-Internasjonal kvalitet på studieløp og karriereutfall for ph.d.-studentene
-Jevnere kjønnsbalanse i vitenskapelige stillinger
+    5.    Økt publiseringsaktivitet og solid omfang av internasjonale topp-publikasjoner
+    6.    Økt inntekt fra eksternfinansiering
+    7.    Internasjonal kvalitet på studieløp og karriereutfall for ph.d.-studentene
+    8.    Jevnere kjønnsbalanse i vitenskapelige stillinger
 
 Mål 3 – Styrke formidlingen av forskningsbasert kunnskap og interaksjonen med
 næringsliv og samfunnsinstitusjoner
@@ -303,19 +247,14 @@ ambisjon at deltagelsen i relevante offentlige ekspertutvalg, styrer og råd ska
 NHHs aktivitet knyttet til samspill med nærings- og samfunnsliv søker å bidra til alle de tre
 målene i LTP.
 Styringsparametere:
-9. Styrke og videreutvikle samarbeidsavtaler, partnerskap og møteplasser
-10. Styrke og videreutvikle aktivitet i alumninettverket
-11. Opprettholde formidlingsaktivitet på høyt nivå og deltagelse i relevante ekspertutvalg,
-styrer og råd
+    9. Styrke og videreutvikle samarbeidsavtaler, partnerskap og møteplasser
+    10. Styrke og videreutvikle aktivitet i alumninettverket
+    11. Opprettholde formidlingsaktivitet på høyt nivå og deltagelse i relevante ekspertutvalg,
+        styrer og råd
 
-3
+3     Tildeling
 
-Tildeling
-
-3.1
-
-Tildeling over kap. 260, post 50
-
+3.1       Tildeling over kap. 260, post 50
 Stortinget har bevilget 43 mrd. kroner over kap. 260, post 50 til statlige universiteter og
 høyskoler. Det ligger til grunn en prisjustering i statsbudsjettet på 4,4 pst. fra 2023 til 2024 for
 50- og 70-poster. Prisjusteringsbeløpet for universiteter og høyskoler ble redusert med 50
@@ -330,38 +269,29 @@ flyttes fra en del øremerkede ordninger som fases ut i 2024. Dette gjelder midl
 kvalitetsarbeid i sektoren, internasjonalt arbeid, fleksibel og desentralisert utdanning,
 kunstutdanning og kunstnerisk utviklingsarbeid, maritim utdanning og lærerutdanning.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 Regjeringen vurderer årlig behovene for kapasiteten i høyere utdanning ut fra den gjeldende
 situasjonen, og de endelige rammene vil bli fastsatt i de ordinære budsjettprosessene. En
 studieplass er definert som 60 studiepoeng. Departementet understreker at det vil bli aktuelt
 å flytte midler mellom institusjoner dersom opptaket og produksjonen ikke gjenspeiler
 forventningene om kapasitet i utdanningene.
-3.1.1
 
-Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
-
+3.1.1     Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
 I 2023 ble det begynt en utfasing av studieplassmidlene som ble tildelt i forbindelse med
 Revidert nasjonalbudsjett 2020. Følgende studieplasser blir faset ut med halvårseffekt i
 2024:
-
-
-
-
-4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
-barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
-økonomisk-administrative fag, utøvende musikk og MNT
-1-årige studieplasser i PPU/PPU-Y
-
+         4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
+          barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
+          økonomisk-administrative fag, utøvende musikk og MNT
+         1-årige studieplasser i PPU/PPU-Y
 Studieplasser tildelte til korte utdanninger blir faset ut med en helårseffekt. Det gjelder
 følgende:
-
-
-
-2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
-design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
-3-årige studieplasser i animasjon
-
+         2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
+          design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
+         3-årige studieplasser i animasjon
 Regjeringen vil trekke ut de øvrige midlene fremover etter hvert som studentene tatt opp i
 2020, 2021 og 2022 fullfører sine utdanninger. Kunnskapsdepartementet vil understreke at
 dette ikke nødvendigvis innebærer at institusjonene reduserer aktiviteten ved de
@@ -370,31 +300,23 @@ legger til grunn at institusjonene opprettholder kapasiteten i utdanninger med v
 høy etterspørsel i arbeidsmarkedet. Departementet legger til grunn at kapasiteten særskilt
 opprettholdes i utdanninger innenfor helse- og sosialfag og teknologifag.
 
-3.2
-
-Utbetaling
-
+3.2       Utbetaling
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-3.3
-
-Fullmakter
-
+3.3       Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Se oversikt over delegerte fullmakter i Fullmakter for statlige
 universiteter og høyskoler 2024.
 
-Side 7
+ Side 7
 
-4
+[Side 8]
 
-Andre forutsetninger og krav
+4     Andre forutsetninger og krav
 
-4.1
-
-Fellesføringer fra regjeringen
+4.1       Fellesføringer fra regjeringen
 
 4.1.1 Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk
@@ -406,10 +328,8 @@ Norges Handelshøyskole skal også vurdere hvordan klimaendringene vil påvirke
 virksomheten. Norges Handelshøyskole skal gjøre systematiske vurderinger av egen
 energibruk og ta i bruk lønnsomme energieffektive løsninger, samt øke energifleksibiliteten
 der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse
 Regjeringen har høye ambisjoner når det gjelder mangfold. Statlige virksomheter skal ha en
 positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og/eller fravær fra
 arbeid, utdanning eller opplæring. Arbeidsgiverne skal i samarbeid med de tillitsvalgte selv
@@ -417,10 +337,8 @@ definere et hensiktsmessig ambisjonsnivå ut fra virksomhetens egenart og størr
 Norges Handelshøyskole skal i årsrapporten oppgi antallet ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2024 og omtale
 utviklingen sett opp mot virksomhetens gjennomsnitt for 2020 og 2021.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle
 egenkompetanse. Norges Handelshøyskole skal arbeide for å redusere konsulentbruken på
 områder der det ligger til rette for å benytte interne ressurser og kompetanse. Utover
@@ -438,16 +356,13 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større kjøp av
 konsulenttjenester fra andre statlige leverandører bør dette fremgå særskilt.
 
-Side 8
+ Side 8
 
-4.2
+[Side 9]
 
-Andre krav
+4.2       Andre krav
 
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1     Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -460,53 +375,43 @@ samfunnssikkerhet og beredskap, og nasjonal sikkerhet. HK-dir har i den forbinde
 oppgave å vedlikeholde en løpende situasjonsforståelse for Kunnskapsdepartementet, ved å
 blant annet kartlegge sikkerhetstilstanden i sektoren.
 Norges Handelshøyskole skal i årsrapporten for 2024 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Norges Handelshøyskole for dette arbeidet?
-2. Når reviderte Norges Handelshøyskole sist sin ROS-analyse? Hvilke områder er
-identifisert som de med høyest risiko for virksomheten?
-3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
-gjennomført i 2024.
-4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
-hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
-virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
-4.2.2
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Norges Handelshøyskole for dette arbeidet?
+   2. Når reviderte Norges Handelshøyskole sist sin ROS-analyse? Hvilke områder er
+      identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
+      gjennomført i 2024.
+   4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
+      hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
+      virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
 
-Informasjonssikkerhet og personvern
-
+4.2.2     Informasjonssikkerhet og personvern
 Krav i virksomhets- og økonomiinstruksen skal ligge til grunn for arbeidet med
 informasjonssikkerhet og personvern ved Norges Handelshøyskole. I lys av det skjerpede
 trusselbildet internasjonalt, den økende avhengigheten av digital teknologi i samfunnet og
 den raske teknologiske utviklingen, forventer Kunnskapsdepartementet at Norges
-Handelshøyskole styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige IKTsikkerhetshendelser og brudd på personopplysningssikkerheten. I den forbindelse er behovet
+Handelshøyskole styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige IKT-
+sikkerhetshendelser og brudd på personopplysningssikkerheten. I den forbindelse er behovet
 for tilfredsstillende kontinuitets- og beredskapsplaner særlig viktig.
-4.2.3
 
-Avsetninger
-
+4.2.3     Avsetninger
 F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og anvendelse av
 ubrukte budsjettmidler (avsetninger) regulerer institusjonenes adgang til å utsette aktivitet og
 overføre ubenyttet bevilgning fra Kunnskapsdepartementet fra ett budsjettår til et annet.
 Norges Handelshøyskole skal i årsrapporten for 2024 kort omtale følgende:
-
-
+         Årsakene til avsetningene
+         Om størrelsen på avsetningene har påvirket måloppnåelsen
 
-Side 9
+ Side 9
 
-Årsakene til avsetningene
-Om størrelsen på avsetningene har påvirket måloppnåelsen
+[Side 10]
 
 Videre skal følgende kommenteres i ledelseskommentarene til årsregnskapet:
-
-
+        Størrelsen på avsetningene
+        Hva avsetningene planlegges brukt til
 
-Størrelsen på avsetningene
-Hva avsetningene planlegges brukt til
-
-4.2.4
-
-Utarbeidelse av investeringsplan
-
+4.2.4      Utarbeidelse av investeringsplan
 I henhold til F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og
 anvendelse av ubrukte budsjettmidler (avsetninger), skal styret beslutte hvor mye som skal
 avsettes til fremtidige investeringer i forbindelse med fastsettelse av institusjonens
@@ -515,12 +420,9 @@ Departementet har utarbeidet en veileder til utforming av investeringsplanen. Vi
 investeringsplanen utarbeides i henhold til denne veilederen, fra og med årsregnskapet for
 2023.
 
-5
-5.1
+5       Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+5.1      Rapportering om resultater
 Årsrapport for 2024 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2025, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -543,22 +445,18 @@ egne brev angi hvilke frister og krav som gjelder for delårsregnskapene og års
 Departementet viser til Finansdepartementets rundskriv R-10/2023 når det gjelder
 rapportering av regnskapsopplysninger til statsregnskapet for 2024.
 
-5.2
-
-Satsingsforslag for 2026
-
+5.2      Satsingsforslag for 2026
 Norges Handelshøyskole kan sende eventuelle satsingsforslag i tråd med Veiledning til
 fremstilling av satsingsforslag for 2026.
 
-Side 10
+ Side 10
+
+[Side 11]
 
 Frist for innsendelse av satsingsforslag for 2026 er 1. november 2024. Forslaget sendes til
 postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2024
-
+5.3      Styringsdialogen i 2024
 Norges Handelshøyskole blir ikke innkalt til etatsstyringsmøte i 2024, men får en skriftlig
 tilbakemelding fra departementet i løpet av 1. halvår 2024 på bakgrunn av blant annet
 årsrapporten for 2023, tilstandsrapporten for høyere utdanning 2023 og
@@ -568,31 +466,24 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                              Charlotte Rustad
+                                                                              konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Vedlegg og instrukser oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-
-
-
-
-
-
-
-Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2024
-Rapporteringskrav for årsrapport 2024
-Fullmakter
-Veiledning til fremstilling av satsingsforslag for 2024
-Hovedtrekk styringsdialogen
-Virksomhets- og økonomiinstruks
+         Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
+          Stortinget 18. desember 2024
+         Rapporteringskrav for årsrapport 2024
+         Fullmakter
+         Veiledning til fremstilling av satsingsforslag for 2024
+         Hovedtrekk styringsdialogen
+         Virksomhets- og økonomiinstruks
 
 Kopi
-Riksrevisjonen
-Direktoratet for høyere utdanning og kompetanse
-Statsforvaltaren i Vestland
-Studentsamskipnaden i Vestlandet
+ Riksrevisjonen
+ Direktoratet for høyere utdanning og kompetanse
+ Statsforvaltaren i Vestland
+ Studentsamskipnaden i Vestlandet
 
-Side 11
+ Side 11

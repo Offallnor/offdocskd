@@ -8,80 +8,51 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-nr.-22-til-tildelingsbrev-til-udir-for-2021.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/29ebaffa-0f3b-47bd-86f4-8ff99d064dcb
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Utdanningsdirektoratet
 Postboks 9359 Grønland
 0135 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/5419-142
-
-30. juni 2021
+Deres ref                                Vår ref                          Dato
+                                         20/5419-142                      30. juni 2021
 
 Tillegg nr. 22 til tildelingsbrev til Udir for 2021 med oppdrag 2021-028 om
 vg3 i skole
-Oppdrag nr:
-Oppdrag:
+ Oppdrag nr:                              2021-028
+ Oppdrag:                                 Tilskudd til bedre tilbud til de som ikke får læreplass –
+                                          vg3 i skole.
+                                          - Utbetaling av midler til vg3 i skole
+                                          - Rapportering på hvordan fylkeskommunene har brukt
+                                          midlene
 
-2021-028
-Tilskudd til bedre tilbud til de som ikke får læreplass –
-vg3 i skole.
-- Utbetaling av midler til vg3 i skole
-- Rapportering på hvordan fylkeskommunene har brukt
-midlene
+ Frist:                                   Utbetaling av midler så snart som mulig og senest
+                                          innen 08.07.2021
 
-Frist:
+                                          Rapportering på hvordan midlene er brukt innen
+                                          30.04.2022.
 
-Utbetaling av midler så snart som mulig og senest
-innen 08.07.2021
-Rapportering på hvordan midlene er brukt innen
-30.04.2022.
+ Finansiering:                            Det er tildelt 150 mill. kroner på kap. 225, post 69 i
+ budsjettkap., post og                    tildelingsbrevet for 2021, som skal utbetales til
+ prosjektnummer                           fylkeskommunene.
 
-Finansiering:
-budsjettkap., post og
-prosjektnummer
+ Bakgrunn for oppdraget:
+ Stortinget har bevilget 150 mill. kroner i statsbudsjettet for 2021 til et utvidet tilbud til elever
+ som ikke får læreplass. Tiltaket er en del av Utdanningsløftet og nærmere beskrevet i
+ Innstilling 585 (2020-2021) til Stortinget fra utdannings- og forskningskomiteen, jf. Meld. St.
+ 21 (2020-2021) Fullføringsreformen – med åpne dører til verden og fremtiden.
 
-Det er tildelt 150 mill. kroner på kap. 225, post 69 i
-tildelingsbrevet for 2021, som skal utbetales til
-fylkeskommunene.
+ Postadresse             Kontoradresse       Telefon*           Avdeling                  Saksbehandler
+ Postboks 8119 Dep       Kirkeg. 18          22 24 90 90        Avdeling for              Espen Moseng
+ 0032 Oslo                                   Org.nr.            videregående              22 24 75 45
+ postmottak@kd.dep.no    www.kd.dep.no       872 417 842        opplæring, fagskole
+                                                                og kompetansepolitikk
 
-Bakgrunn for oppdraget:
-Stortinget har bevilget 150 mill. kroner i statsbudsjettet for 2021 til et utvidet tilbud til elever
-som ikke får læreplass. Tiltaket er en del av Utdanningsløftet og nærmere beskrevet i
-Innstilling 585 (2020-2021) til Stortinget fra utdannings- og forskningskomiteen, jf. Meld. St.
-21 (2020-2021) Fullføringsreformen – med åpne dører til verden og fremtiden.
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Espen Moseng
-22 24 75 45
+[Side 2]
 
 De siste ti årene har stadig flere fått læreplass, men hvert år er det en gruppe elever som står
 uten læreplass. I 2020 gjaldt dette 4 400 ungdommer. Som følge av koronapandemien har
@@ -91,6 +62,7 @@ bli vanskeligere å få læreplass og at flere lærlinger kan bli permitterte og
 opplæringsløpet sitt. Elever som ikke får læreplass har i dag rett til vg3 i skole. Dagens tilbud
 har vesentlige mangler når det gjelder varighet, når tilbudet starter opp, og hvordan tilbudet
 organiseres.
+
 Nærmere nasjonal regulering av varighet, oppstart og andre elementer som kan heve
 kvaliteten på tilbudet er ikke konkretisert. Midlene til fylkeskommunene i dette oppdraget skal
 bidra til å styrke dagens tilbud om vg3 i skole, som vil bidra til at elever som ikke får tilbud om
@@ -108,39 +80,45 @@ praksisbrevkandidater som har mistet læreplassen eller er langvarig permittert.
 Utdanningsdirektoratet om å oppfordre fylkeskommunene til å jobbe med å formidle elevene
 til læreplass underveis i opplæringen uten at dette skal forringe kvaliteten på opplæringen i
 skole.
+
 Eventuelle andre føringer for hvordan oppdraget skal utføres:
 Tiltaket er del av Utdanningsløftet som evalueres av NIFU. NIFU har fått i oppdrag å evaluere
 hvordan fylkeskommunene iverksetter tiltaket og Utdanningsdirektoratet bes bistå NIFU med
 statistikk og relevant informasjon etter behov. Tiltaket er delvis overlappende med
 stimuleringstilskuddet til lærlinger som også kan brukes på vg3 i skole, jf Tillegg til
 tildelingsbrev nr. 8 for 2021.
+
 Rapportering etter gjennomført oppdrag:
 Utdanningsdirektoratet orienterer Kunnskapsdepartementet når midlene er overført til
 fylkeskommunene.
+
 Kunnskapsdepartementet ber om rapportering på følgende:
-- Hvordan fylkeskommunene bruker midlene til å gi tilbud om vg3 i skole til elever som
-ikke får tilbud om læreplass.
-- Hvordan fylkeskommunene bruker midlene til å utvikle kvaliteten på tilbudet.
+   - Hvordan fylkeskommunene bruker midlene til å gi tilbud om vg3 i skole til elever som
+      ikke får tilbud om læreplass.
+   - Hvordan fylkeskommunene bruker midlene til å utvikle kvaliteten på tilbudet.
 
 Side 2
 
--
+[Side 3]
 
-I hvilke utdanningsprogram/lærefag tilbudene er opprettet, når tilbudene starter opp og
-lengden på tilbudene.
+       -   I hvilke utdanningsprogram/lærefag tilbudene er opprettet, når tilbudene starter opp og
+           lengden på tilbudene.
 
-Utkvittering av utført oppdrag skal sendes til postmottak@kd.dep.no med kopi til Tone Sollien
-Tone-Horne.Sollien@kd.dep.no og Sigurd Moskvil Thorsen sigurdmoskvil.thorsen@kd.dep.no
+ Utkvittering av utført oppdrag skal sendes til postmottak@kd.dep.no med kopi til Tone Sollien
+ Tone-Horne.Sollien@kd.dep.no og Sigurd Moskvil Thorsen sigurd-
+ moskvil.thorsen@kd.dep.no
 
 Med hilsen
 
 Tone Horne Sollien (e.f.)
 avdelingsdirektør
-Espen Moseng
-førstekonsulent
+                                                                              Espen Moseng
+                                                                              førstekonsulent
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
 
-Side 3
+ Riksrevisjonen
+
+ Side 3

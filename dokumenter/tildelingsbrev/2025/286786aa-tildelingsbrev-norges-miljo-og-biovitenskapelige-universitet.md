@@ -8,23 +8,18 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-norges-miljo-og-biovitenskapelige-universitet2454456.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7790-b3df-4c1d-8c47-7000286786aa
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Norges miljø- og biovitenskapelige universitet
 Postboks 5003
 1432 ÅS
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/5195
-
-19. desember 2024
+Deres ref                                                Vår ref                                       Dato
+                                                         24/5195                                       19. desember 2024
 
 Tildelingsbrev 2025 til Norges miljø- og biovitenskapelige universitet
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S
@@ -36,54 +31,20 @@ og eventuelle supplerende tildelingsbrev skal publiseres på virksomhetens netts
 de er mottatt, jf. Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2025 består av følgende deler:
-1
+1     Regjeringens prioriteringer og forventninger .....................................................................2
+2     Mål .....................................................................................................................................4
+3     Tildeling .............................................................................................................................6
+4     Andre forutsetninger og krav .............................................................................................9
+5     Rapportering og resultatoppfølging .................................................................................11
 
-Regjeringens prioriteringer og forventninger .....................................................................2
+ Postadresse                     Kontoradresse                Telefon*                    Avdeling                     Saksbehandler
+ Postboks 8119 Dep               Kirkeg. 18                   22 24 90 90                 Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                     høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no            www.kd.dep.no                872 417 842                 forskning                    22 24 74 82
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling .............................................................................................................................6
-
-4
-
-Andre forutsetninger og krav .............................................................................................9
-
-5
-
-Rapportering og resultatoppfølging .................................................................................11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-22 24 74 82
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1    Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -113,7 +74,8 @@ studieporteføljen og dimensjonerer utdanningstilbudene med sikte på å møte b
 tråd med perspektivmeldingen2, samt følge opp prioriteringene i utsynsmeldingen3 og
 profesjonsmeldingen4 og tidligere tildelinger av studieplasser. Utdanningstilbudene skal ha
 høy kvalitet og være tett koblet til praksisfeltet. Universitetene og høyskolene skal fortsette å
-prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etterog videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
+prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etter-
+og videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
 med flere studiesteder ivaretar sitt regionale oppdrag og videreutvikler disse.
 Regjeringen legger til rette for at flere skal komme raskere inn i høyere utdanning, jf.
 opptaksmeldingen5 og forventer at universitetene og høyskolene bidrar til at flere studenter
@@ -125,7 +87,9 @@ har en god studieprogresjon og gjennomfører utdanningene. Universitetene og hø
 4 Meld. St. 19 Profesjonsnære utdanningar over heile landet - Innst. 330 S (2023-2024)
 5 Meld. St. 20 Opptak til høgare utdanning – Innst. 378 S (2023-2024)
 
-Side 2
+ Side 2
+
+[Side 3]
 
 har også ansvar for å bidra til et godt etter- og videreutdanningstilbud, herunder utvidet
 ansvar for å utvikle og tilby videreutdanningstilbud rettet mot barnehage og grunnopplæring.6
@@ -164,33 +128,30 @@ rehabilitering, ombygging og leie av bygg. Departementet har utarbeidet en veivi
 universiteter og høyskoler om samarbeidet i bygge- og leiesaker, for å støtte opp under en
 
 6 Se nærmere omtale om øremerking i kapittel 3.
+
 7 Frå ord til handling - Handlingsplan for norsk fagspråk i akademia
 8 Nasjonal digitaliseringsstrategi 2024-2030
 9 Digitaliseringsrundskrivet - regjeringen.no
 10 Strategi for å øke næringslivets investeringer i forskning og utvikling 2024
 11 Veiviser for universiteter og høyskoler om samarbeidet i bygge- og leiesaker
 
-Side 3
+ Side 3
+
+[Side 4]
 
 transparent og forutsigbar dialog og samhandling om arealbehov. Institusjonene skal sette
 seg godt inn i denne.
 
-2
-
-Mål
+2   Mål
 
 2.1 Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
-utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (20242025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
+utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2024-
+2025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
 Det er viktig med godt samspill mellom departementets underliggende virksomheter slik at
 alle bidrar til hverandres måloppnåelse.
 
@@ -214,13 +175,15 @@ hensyn til disse målene i planer og i styringen av virksomheten.
 2.3 Sektormål og utviklingsavtaler
 For 2025 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -239,9 +202,9 @@ utviklingsavtalene. Departementet vil legge opp til et fellesmøte med institusj
 kl 11.00-15.00 i Oslo, som del av samarbeidet om utviklingen i sektoren.
 
 2.4 Utviklingsavtale for Norges miljø- og biovitenskapelige universitet
-(NMBU) 2023–2026
+    (NMBU) 2023–2026
 Mål 1 – Være en fremragende samfunnsaktør og ressurs for bærekraft ved å
-videreutvikle bærekraftuniversitetet
+        videreutvikle bærekraftuniversitetet
 NMBU har som ambisjon å være en ledende samfunnsaktør og en ressurs for bærekraft.
 NMBU vil videreutvikle rollen som bærekraftsuniversitetet, med de standarder og krav det
 innebærer. I perioden vil NMBU følge opp langtidsplanen for forskning og høyere utdanning
@@ -251,36 +214,37 @@ bli en foregangsinstitusjon med hensyn på å ytterligere gjøre driften bærekr
 NMBU ønsker å modernisere infrastrukturen tilstrekkelig til å vesentlig bidra inn mot det
 grønne skiftet.
 Styringsparametere:
-1. Alle NMBUs studenter skal etter endt studieløp kjenne bærekraftsutfordringene
-knyttet til eget fagfelt, og ha kompetanse til å kunne bidra til løsningene.
-2. I økende grad tilby etter- og videreutdanning for å bidra til kompetanseheving i
-samfunnet, spesielt knyttet til bærekraft.
-3. Invitere til samarbeid med regionale, nasjonale og internasjonale aktører og sette
-kvalitet og bærekraft i høysetet.
-4. Utvikling mot mer bærekraftig drift (dokumentert gjennom etablerte miljøparametere).
+   1. Alle NMBUs studenter skal etter endt studieløp kjenne bærekraftsutfordringene
+      knyttet til eget fagfelt, og ha kompetanse til å kunne bidra til løsningene.
+   2. I økende grad tilby etter- og videreutdanning for å bidra til kompetanseheving i
+      samfunnet, spesielt knyttet til bærekraft.
+   3. Invitere til samarbeid med regionale, nasjonale og internasjonale aktører og sette
+      kvalitet og bærekraft i høysetet.
+   4. Utvikling mot mer bærekraftig drift (dokumentert gjennom etablerte miljøparametere).
+
 Mål 2 – Forsterke tverrfaglighet og samarbeid på Campus Ås for å løse komplekse
-samfunnsutfordringer
+        samfunnsutfordringer
 NMBU vil videreutvikle Campus Ås, og utnytte mulighetene de nye veterinærbygningene gir
 gjennom økt tverrfaglig samarbeid innen utdanning, forskning, innovasjon, formidling og
 
-Side 5
+ Side 5
+
+[Side 6]
 
 administrasjon. Dette tverrfaglige samarbeidet dekker flere av de tematiske satsningene i
 LTP; Hav og kyst, Helse, Klima, Miljø og energi, Muliggjørende og industrielle teknologier og
 Samfunnssikkerhet og beredskap. NMBU skal da ha kommet langt i å realisere gevinster av
 samlokaliseringsprosjektet på Campus Ås.
 Styringsparametere:
-5. Øke antallet uteksaminerte ph.d.-kandidater fra tverrfaglige miljøer.
-6. Øke deltakelsen i nasjonale og internasjonale forskningssamarbeidsprosjekter med
-andre forskningsinstitusjoner, industri og næring.
-7. Øke forskningsomfanget innen akvakultur og akvamedisin.
-8. Øke omfanget av innovasjon på områdene bioproduksjon og veterinærmedisin.
-9. Arbeide for felles utnyttelse av nåværende og ny forskningsinfrastruktur på Campus
-Ås.
+    5. Øke antallet uteksaminerte ph.d.-kandidater fra tverrfaglige miljøer.
+    6. Øke deltakelsen i nasjonale og internasjonale forskningssamarbeidsprosjekter med
+       andre forskningsinstitusjoner, industri og næring.
+    7. Øke forskningsomfanget innen akvakultur og akvamedisin.
+    8. Øke omfanget av innovasjon på områdene bioproduksjon og veterinærmedisin.
+    9. Arbeide for felles utnyttelse av nåværende og ny forskningsinfrastruktur på Campus
+       Ås.
 
-3
-
-Tildeling
+3   Tildeling
 
 3.1 Tildeling over kap. 260, post 50
 Stortinget har bevilget 44,2 mrd. kroner over kap. 260, post 50 til statlige universiteter og
@@ -290,6 +254,7 @@ biovitenskapelige universitet.
 Orientering om statsbudsjettet 2025 for universitet og høgskular etter vedtak i Stortinget 18.
 desember 2024 gir en oversikt over de enkelte endringene i rammebevilgningen per
 institusjon.
+
 Rammefinansiering
 Universitetene og høyskolene får midlene på kap. 260 som én rammebevilgning, som betyr
 at institusjonen selv skal disponere og fordele tildelingen mellom sine formål, aktiviteter og
@@ -299,6 +264,7 @@ noen punkter er bevilgningen fra departementet øremerket et bestemt formål. En
 som ikke er tidsavgrenset blir formelt uttrykt i tildelingsbrevet for det første året av
 øremerkingen, og det er en forventning om at aktiviteten videreføres i påfølgende år uten at
 det gis formelt pålegg.
+
 Ikke øremerking av rekrutteringsstillinger
 Fra og med 2023 ble øremerkingen av midler til rekrutteringsstillinger fjernet, som innebærer
 at institusjonene ikke er pålagt et bestemt antall slike stillinger, jf. Innst. 12 S (2022–2023) og
@@ -307,7 +273,9 @@ budsjettprioriteringer, ha en mer målrettet rekrutterings- og karrierepolitikk 
 hvor mange rekrutteringsstillinger de til enhver tid har behov for, i tråd med regjeringens
 tillitsreform.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 Utfasing av studieplasser fra Utdanningsløftet 2020
 Utfasingen av studieplasser fra revidert nasjonalbudsjett for 2020 innebærer reduksjon i
@@ -316,38 +284,24 @@ av lengden på studiene som institusjonene opprettet og etter hvert som de aktue
 fra 2020, 2021 og 2022 har fullført studieløpene. Unntaket er de 80 studieplassene i medisin
 og 300 plasser i barnevernsfaglige utdanninger på masternivå hvor midlene videreføres til de
 aktuelle institusjonene.
+
 Nye studieplasser
 I perioden 2022–2025 er det i statsbudsjettene prioritert nye studieplasser/økt kapasitet til:
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-
-235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
-2020
-300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
-500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
-plasser innenfor gjeldende bevilgning
-40 studieplasser i nukleære fag
-200 studieplasser innenfor IKT-fag
-25 studieplasser i flyingeniørutdanning
-20 studieplasser i fysioterapiutdanning
-20 studieplasser skogfag
-20 studieplasser i vernepleie
-10 studieplasser i folkedans
-20 studieplasser i veterinærmedisin
-Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
-60 studieplasser til å etablere en campus på Gol i Hallingdal
-
+   •      235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
+          2020
+   •      300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
+   •      500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
+          plasser innenfor gjeldende bevilgning
+   •      40 studieplasser i nukleære fag
+   •      200 studieplasser innenfor IKT-fag
+   •      25 studieplasser i flyingeniørutdanning
+   •      20 studieplasser i fysioterapiutdanning
+   •      20 studieplasser skogfag
+   •      20 studieplasser i vernepleie
+   •      10 studieplasser i folkedans
+   •      20 studieplasser i veterinærmedisin
+   •      Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
+   •      60 studieplasser til å etablere en campus på Gol i Hallingdal
 Bevilgningen til studieplasser trappes opp til plassene er fullt utbygget med nye årlige kull, og
 den avhenger av lengde på studiene, fra to- til seksårige. En studieplass er definert som 60
 studiepoeng. Ved tildeling av nye eller flere studieplasser forventer Kunnskapsdepartementet
@@ -366,7 +320,9 @@ Regjeringen forventer at universiteter og høyskoler følger opp langtidsplanen 
 høyere utdanning i sin dimensjonering. Regjeringen forventer videre at institusjonene
 prioriterer helsefag, IT og områder som er særlig viktige for det grønne skiftet og
 
-Side 7
+ Side 7
+
+[Side 8]
 
 lærerutdanningene, jf. utsynsmeldingen og profesjonsmeldingen. Dette er særlig viktig i en
 situasjon fremover med store demografiendringer og hvor Norge vil mangle arbeidskraft, jf.
@@ -376,6 +332,7 @@ samfunnsbehovene ivaretas.
 Departementet understreker at det kan bli aktuelt å flytte midler mellom institusjoner dersom
 opptaket og produksjonen ikke gjenspeiler forventningene om gjennomførte studiepoeng og
 ikke svarer til samfunnsbehovene slik de blant annet er beskrevet i de nevnte meldingene.
+
 Nukleære fag
 Kunnskapsdepartementet registrerer at det høsten 2024 er registrert 17 studenter på
 studieprogrammene for nukleære fag og miljøvitenskap, alle tatt opp i 2024. Departementet
@@ -396,6 +353,7 @@ bevilgninger i årlige tildelingsbrev til utdanningsinstitusjonene. Regjeringen 
 universiteter og høyskoler legger til rette for god sammenheng mellom grunnutdanning,
 videreutdanning og lokal kompetanseutvikling, og dialog med barnehage- og skolesektoren
 blant annet i partnerskap mellom institusjonene og kommunene.
+
 Endringene for 2025 får en halvårsvirkning fra høsten 2025. For høsten 2025 blir
 videreutdanningsmidlene fordelt mellom utdanningsinstitusjoner med lærerutdanning med en
 tilsvarende andel som høsten 2024. Dette innebærer en fullfinansiering av
@@ -410,7 +368,9 @@ kompetansebehov. I tillegg vil regjeringen legge til rette for at antallet lære
 om videreutdanning i praktiske og estetiske fag øker i 2025. Universiteter og høyskoler som
 inneværende år tilbyr videreutdanning i praktiske og estetiske fag bør videreføre og eventuelt
 
-Side 8
+ Side 8
+
+[Side 9]
 
 utvide aktuelle tilbud. Kunnskapsdepartementet legger til grunn at institusjonene ikke tar
 egenbetaling for videreutdanningstilbudene som er finansiert med øremerkede midler.
@@ -423,16 +383,12 @@ Kunnskapsdepartementet utbetaler midlene over kap. 226, post 22 i én rate i feb
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-4
-
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
 
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Norges miljø- og biovitenskapelige universitet skal følge opp
 dette målet. I dette arbeidet skal det tas hensyn til ivaretakelse av virksomhetens
@@ -441,11 +397,9 @@ Norges miljø- og biovitenskapelige universitet skal også vurdere hvordan klima
 påvirke virksomheten. Norges miljø- og biovitenskapelige universitet skal gjøre systematiske
 vurderinger av egen energibruk og ta i bruk lønnsomme energieffektive løsninger, samt øke
 energifleksibiliteten der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+          eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
@@ -456,15 +410,15 @@ av personer med funksjonsnedsettelse og/eller fravær fra arbeid, utdanning elle
 2025 og det totale antallet ansettelser i virksomheten i 2025. Norges miljø- og
 biovitenskapelige universitet skal også omtale utviklingen i 2025 sett opp mot det
 virksomheten har rapportert for 2024.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3     Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Norges miljø- og biovitenskapelige universitet skal arbeide for å redusere
 konsulentbruken på områder der det ligger til rette for å benytte interne ressurser og
 
-Side 9
+ Side 9
+
+[Side 10]
 
 kompetanse. Utover informasjons- og holdningskampanjer skal tjenester fra
 kommunikasjonsbransjen som hovedregel ikke benyttes.
@@ -481,14 +435,13 @@ til årsregnskapet spesifisere dette nærmere. Dersom virksomheten har større k
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
 4.2 Andre krav
-4.2.1
 
-Sikkerhet og beredskap
-
+4.2.1   Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
-stilles i styringsdokumentet. Med et skjerpet sikkerhetsbilde forutsettes det at Norges miljøog biovitenskepelige universitet holder seg oppdatert om trusselvurderinger fra nasjonale
+stilles i styringsdokumentet. Med et skjerpet sikkerhetsbilde forutsettes det at Norges miljø-
+og biovitenskepelige universitet holder seg oppdatert om trusselvurderinger fra nasjonale
 fagmyndigheter.
 For å styrke og utvikle sikkerhetsarbeidet i kunnskapssektoren, har HK-dir fått i oppgave å
 utvide sitt eksisterende fagmiljø for informasjonssikkerhet og personvern, til å også omfatte
@@ -497,26 +450,26 @@ kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssek
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 Norges miljø- og biovitenskapelige universitet skal i årsrapporten for 2025 rapportere om
 følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Norges miljø- og biovitenskapelige universitet for
-dette arbeidet?
-2. Når reviderte Norges miljø- og biovitenskapelige universitet sist sin ROS-analyse?
-Hvilke overordnede områder er identifisert som de med høyest risiko for
-virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Norges miljø- og biovitenskapelige universitet for
+      dette arbeidet?
+   2. Når reviderte Norges miljø- og biovitenskapelige universitet sist sin ROS-analyse?
+      Hvilke overordnede områder er identifisert som de med høyest risiko for
+      virksomheten?
+   3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+      er gjennomført i 2025.
+   4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+      styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
 
-Side 10
+ Side 10
 
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
-4.2.2
+[Side 11]
 
-Informasjonssikkerhet og personvern
+        informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+        samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
+4.2.2   Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern ved Norges miljø- og biovitenskapelige
@@ -524,11 +477,10 @@ universitet lys av det skjerpede trusselbildet internasjonalt, den økende avhen
 digital teknologi i samfunnet og den raske teknologiske utviklingen, forventer
 Kunnskapsdepartementet at Norges miljø- og biovitenskapelige universitet styrker sitt arbeid
 med å forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og brudd på
-personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitetsog beredskapsplaner særlig viktig.
-4.2.3
+personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende kontinuitets-
+og beredskapsplaner særlig viktig.
 
-Regelverkskompetanse
-
+4.2.3   Regelverkskompetanse
 Å drive en stor samfunnsinstitusjon som et universitet eller en høyskole krever betydelig
 kompetanse om regelverket. Departementet har i forbindelse med lovproposisjonen til
 Stortinget om ny universitets- og høyskolelov understreket viktigheten av å prioritere slik
@@ -537,10 +489,8 @@ registrerer at flere universiteter og høyskoler er inne i omstillingsprosesser,
 understreke viktigheten av at institusjonene sikrer nødvendig juridisk kompetanse og
 forvaltningskompetanse, slik at de er i stand til å operere innenfor regelverket og forvalte den
 myndigheten og det handlingsrommet de har.
-4.2.4
 
-Krav ved inngåelse av leieavtaler
-
+4.2.4   Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten12 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -549,9 +499,7 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
-
-Rapportering og resultatoppfølging
+5    Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
@@ -562,7 +510,9 @@ på virksomhetens nettside innen 1. mai, jf. Bestemmelser om økonomistyring i s
 
 12 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Departementet minner også om at Norges- miljø og biovitenskapelige universitet innen 15.
 mars 2025 skal sende årsrapport for 2024 til postmottak@kd.dep.no, med kopi til
@@ -596,35 +546,31 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                          Charlotte Rustad
+                                                                          konst. avdelingsdirektør
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 12
+ Side 12
+
+[Side 13]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
 Tildelingsbrev for universiteter og høyskoler 2025:
-▪
-▪
-▪
-▪
-▪
-▪
-
-Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2024
-Krav til årsrapport for statlige universiteter og høyskoler 2025
-Fullmakter for statlige universiteter og høyskoler 2025
-Veiledning til fremstilling av satsingsforslag for 2027
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
-Virksomhets- og økonomiinstruks
+   ▪   Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2024
+   ▪   Krav til årsrapport for statlige universiteter og høyskoler 2025
+   ▪   Fullmakter for statlige universiteter og høyskoler 2025
+   ▪   Veiledning til fremstilling av satsingsforslag for 2027
+   ▪   Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
+   ▪   Virksomhets- og økonomiinstruks
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
-Statsforvalteren i Oslo og Viken
-Studentsamskipnaden i Ås
-Studentsamskipnaden SiO
-Statsforvalteren i Østfold, Buskerud, Oslo og Akershus
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+ Statsforvalteren i Oslo og Viken
+ Studentsamskipnaden i Ås
+ Studentsamskipnaden SiO
+ Statsforvalteren i Østfold, Buskerud, Oslo og Akershus
 
-Side 13
+ Side 13

@@ -3,274 +3,147 @@
 - Type: Tildelingsbrev
 - Publisert: 2021-12-01
 - Eier: Kunnskapsdepartementet
-- Mottaker: Arkitektur- og designhøgskolen i Oslo, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Nord universitet, Norges handelshøgskole, Norges idrettshøgskole, NMBU, Norges musikkhøgskole, NTNU, OsloMet - storbyuniversitetet, Sámi allaskuvla Samisk høgskole, Universitetet i Agder, Universitetet i Bergen, Universitetet i Innlandet, Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø
+- Mottaker: Universitetet i Oslo, Universitetet i Stavanger, Universitetet i Sørøst-Norge, Universitetet i Tromsø, Arkitektur- og designhøgskolen i Oslo, Universitetet i Innlandet, Høgskolen i Molde, Høgskolen i Østfold, Høgskulen i Volda, Høgskulen på Vestlandet, Kunsthøgskolen i Oslo, Norges handelshøgskole, Norges idrettshøgskole, Norges musikkhøgskole, Sámi allaskuvla Samisk høgskole, Nord universitet, NTNU, NMBU, OsloMet - storbyuniversitetet, Universitetet i Agder, Universitetet i Bergen
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629610
 - Original-PDF: https://www.regjeringen.no/contentassets/13ee8262d9d14e789db11fef841a3f29/supplerende-tildelingsbrev-nr.-3-til-de-statlige-uh-institusjonene-2022.pdf
-- Tekst: hentet fra PDF. OBS: 60 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/d6a478b3-655c-4be6-838f-3948d61bc062
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
 
-I følge listen
+[Side 1]
 
-Deres ref
+   I følge listen
 
-Vår ref
-21/4886
+   Deres ref                            Vår ref                          Dato
+                                        21/4886                                     23.06.2022
 
-Dato
+  Revidert nasjonalbudsjett 2022, kap. 260, post 50. Supplerende
+  tildelingsbrev til de statlige UH-institusjonene om omlegging til ny
+  pensjonsmodell og gevinst fra endrede jobbreisevaner
+  Vi viser til at Stortinget vedtok endringer i statsbudsjettet for 2022 den 17. juni 2022, jf. Innst.
+  450 S (2021-2022) og Prop. 115 S (2021-2022). Videre viser vi til tildelingsbrevene for 2022 til
+  de enkelte universiteter og statlige høyskoler fra Kunnskapsdepartementet den 21. desember
+  2021.
 
-23.06.2022
+  1. Økning som følge av omlegging til ny pensjonsmodell
 
-Revidert nasjonalbudsjett 2022, kap. 260, post 50. Supplerende
-tildelingsbrev til de statlige UH-institusjonene om omlegging til ny
-pensjonsmodell og gevinst fra endrede jobbreisevaner
-Vi viser til at Stortinget vedtok endringer i statsbudsjettet for 2022 den 17. juni 2022, jf. Innst.
-450 S (2021-2022) og Prop. 115 S (2021-2022). Videre viser vi til tildelingsbrevene for 2022 til
-de enkelte universiteter og statlige høyskoler fra Kunnskapsdepartementet den 21. desember
-2021.
+  I Prop. 1 S Tillegg 1 (2021-2022) ble det varslet at Finansdepartementet, Arbeids- og
+  inkluderingsdepartementet og Kunnskapsdepartementet ville komme tilbake til eventuelle
+  justeringer for universitetene og høyskolene knyttet til omleggingen av premiemodellen i
+  Statens pensjonskasse.
 
-1. Økning som følge av omlegging til ny pensjonsmodell
-I Prop. 1 S Tillegg 1 (2021-2022) ble det varslet at Finansdepartementet, Arbeids- og
-inkluderingsdepartementet og Kunnskapsdepartementet ville komme tilbake til eventuelle
-justeringer for universitetene og høyskolene knyttet til omleggingen av premiemodellen i
-Statens pensjonskasse.
-I Prop. 115 S (2021-2022) Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2022
-fremgår det at på bakgrunn av gjennomgangen er det vurdert at institusjonene bør
-kompenseres for påregnelige og realistiske effekter på inntektene som følge av endret
-premiemodell. Dette innebærer at det bør korrigeres for at enkelte inntekter reduseres i takt
-med pensjonskostnadene, for eksempel fordi tilskudd utløses som funksjon av de faktiske
-kostnadene eller fordi inntektene genereres i konkurranse med andre aktører som utsettes for
-tilsvarende omlegging. I tråd med dette la regjeringen opp til at lønnsutgifter som finansieres fra
-eksterne inntekter som må forventes å reduseres betydelig som følge av omleggingen, bør
-holdes utenom.
+  I Prop. 115 S (2021-2022) Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2022
+  fremgår det at på bakgrunn av gjennomgangen er det vurdert at institusjonene bør
+  kompenseres for påregnelige og realistiske effekter på inntektene som følge av endret
+  premiemodell. Dette innebærer at det bør korrigeres for at enkelte inntekter reduseres i takt
+  med pensjonskostnadene, for eksempel fordi tilskudd utløses som funksjon av de faktiske
+  kostnadene eller fordi inntektene genereres i konkurranse med andre aktører som utsettes for
+  tilsvarende omlegging. I tråd med dette la regjeringen opp til at lønnsutgifter som finansieres fra
+  eksterne inntekter som må forventes å reduseres betydelig som følge av omleggingen, bør
+  holdes utenom.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+Postadresse            Kontoradresse      Telefon *            Avdeling:                  Saksbehandler
+Postboks 8119 Dep      Kirkeg. 18         22 24 90 90          Avdeling for eierskap i    Ingvild Mageli
+0032 Oslo                                 Org nr.              høyere utdanning og
+postmottak@kd.dep.no   www.kd.dep.no      872 417 842          forskning
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+[Side 2]
 
-Telefon *
-22 24 90 90
-Org nr.
-872 417 842
+ I forbindelse med Revidert nasjonalbudsjett 2022 er det vedtatt en økning av bevilgningen til
+ statlige universiteter og høyskoler på 61 mill. kroner som følge av dette. Fordelingen fremgår av
+ samletabellen nedenfor.
 
-Avdeling:
-Avdeling for eierskap i
-høyere utdanning og
-forskning
+ 2. Reduksjon som følge av gevinst for endrede jobbreisevaner
 
-Saksbehandler
-Ingvild Mageli
+ Pandemien har medført økt bruk av digitale møter og gitt statlige virksomheter en mulighet til å
+ redusere reiseomfanget både på kort og lang sikt. Redusert reiseaktivitet vil både redusere
+ reiseutgifter i virksomhetene og spare reisetid for de ansatte. Selv om reiseaktiviteten er
+ høyere nå enn under pandemien, vil nivået på reiseaktiviteten trolig være varig redusert.
 
-I forbindelse med Revidert nasjonalbudsjett 2022 er det vedtatt en økning av bevilgningen til
-statlige universiteter og høyskoler på 61 mill. kroner som følge av dette. Fordelingen fremgår av
-samletabellen nedenfor.
+ I forbindelse med Revidert nasjonalbudsjett 2022 er det vedtatt en reduksjon av bevilgningen til
+ statlige virksomheter som følge av forventet gevinst av endrede jobbreisevaner. Bevilgningen til
+ universiteter og høyskoler over kap. 260, post 50 reduseres med 59,5 mill. kroner som følge av
+ dette. Fordelingen fremgår av samletabellen nedenfor.
 
-2. Reduksjon som følge av gevinst for endrede jobbreisevaner
-Pandemien har medført økt bruk av digitale møter og gitt statlige virksomheter en mulighet til å
-redusere reiseomfanget både på kort og lang sikt. Redusert reiseaktivitet vil både redusere
-reiseutgifter i virksomhetene og spare reisetid for de ansatte. Selv om reiseaktiviteten er
-høyere nå enn under pandemien, vil nivået på reiseaktiviteten trolig være varig redusert.
-I forbindelse med Revidert nasjonalbudsjett 2022 er det vedtatt en reduksjon av bevilgningen til
-statlige virksomheter som følge av forventet gevinst av endrede jobbreisevaner. Bevilgningen til
-universiteter og høyskoler over kap. 260, post 50 reduseres med 59,5 mill. kroner som følge av
-dette. Fordelingen fremgår av samletabellen nedenfor.
+ 3. Beløp og utbetaling
 
-3. Beløp og utbetaling
-Kunnskapsdepartementet vil ta høyde for endringene i utbetalingene til institusjonene for tredje
-tertial 2022.
-Institusjon
-UiO
-UiB
-UiT
-NTNU
-UiS
-UiA
-NMBU
-NU
-OsloMet
-USN
-HiM
-NMH
-AHO
-NHH
-NIH
-KhiO
-SH
-HVO
-HVL
-HiØ
-HINN
+ Kunnskapsdepartementet vil ta høyde for endringene i utbetalingene til institusjonene for tredje
+ tertial 2022.
 
-4. Kontroll
+Institusjon                  Ny pensjonsmodell         Jobbreisekutt                 Netto
+UiO                                  16 070 000           -8 842 000             7 228 000
+UiB                                   7 952 000           -6 436 000             1 516 000
+UiT                                   5 484 000           -6 718 000            -1 234 000
+NTNU                                 14 164 000          -15 007 000              -843 000
+UiS                                   3 227 000           -2 348 000               879 000
+UiA                                   1 533 000           -2 824 000            -1 291 000
+NMBU                                  3 824 000           -1 932 000             1 892 000
+NU                                            -           -2 901 000            -2 901 000
+OsloMet                               2 100 000           -2 103 000                -3 000
+USN                                   1 420 000           -2 082 000              -662 000
+HiM                                           -             -388 000              -388 000
+NMH                                           -             -333 000              -333 000
+AHO                                           -             -314 000              -314 000
+NHH                                   1 187 000             -698 000               489 000
+NIH                                     429 000             -244 000               185 000
+KhiO                                          -             -166 000              -166 000
+SH                                      244 000             -300 000               -56 000
+HVO                                      54 000             -545 000              -491 000
+HVL                                     257 000           -3 195 000            -2 938 000
+HiØ                                     343 000             -590 000              -247 000
+HINN                                  2 712 000           -1 565 000             1 147 000
 
-Side 2
+ 4. Kontroll
 
-Ny pensjonsmodell
-16 070 000
-7 952 000
-5 484 000
-14 164 000
-3 227 000
-1 533 000
-3 824 000
-2 100 000
-1 420 000
-1 187 000
-429 000
-244 000
-54 000
-257 000
-343 000
-2 712 000
+  Side 2
 
-Jobbreisekutt
--8 842 000
--6 436 000
--6 718 000
--15 007 000
--2 348 000
--2 824 000
--1 932 000
--2 901 000
--2 103 000
--2 082 000
--388 000
--333 000
--314 000
--698 000
--244 000
--166 000
--300 000
--545 000
--3 195 000
--590 000
--1 565 000
+[Side 3]
 
-Netto
-7 228 000
-1 516 000
--1 234 000
--843 000
-879 000
--1 291 000
-1 892 000
--2 901 000
--3 000
--662 000
--388 000
--333 000
--314 000
-489 000
-185 000
--166 000
--56 000
--491 000
--2 938 000
--247 000
-1 147 000
+ Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at midlene blir brukt etter
+ forutsetningene, jf. bevilgningsreglementet og lov om Riksrevisjonen § 12. De tildelte midlene
+ kan kreves helt eller delvis tilbakebetalt dersom de ikke benyttes i samsvar med
+ forutsetningene.
 
-Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at midlene blir brukt etter
-forutsetningene, jf. bevilgningsreglementet og lov om Riksrevisjonen § 12. De tildelte midlene
-kan kreves helt eller delvis tilbakebetalt dersom de ikke benyttes i samsvar med
-forutsetningene.
+ Med hilsen
 
-Med hilsen
-Hedda Huseby (e.f.)
-avdelingsdirektør
+ Hedda Huseby (e.f.)
+ avdelingsdirektør
+                                                                            Ingvild Mageli
+                                                                            rådgiver
 
-Ingvild Mageli
-rådgiver
+ Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
 
-Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer.
+ Kopi:
+         Riksrevisjonen
 
-Kopi:
+ Adresseliste:
 
-Riksrevisjonen
-
-Adresseliste:
-Universitetet i Oslo
-Universitetet i Bergen
-Universitetet i Tromsø – Norges
+Universitetet i Oslo                               Postboks 1072, Blindern                   0316 Oslo
+Universitetet i Bergen                             Postboks 7800                             5020 Bergen
+Universitetet i Tromsø – Norges                    Postboks 6050, Langnes                    9037 Tromsø
 arktiske universitet
-Norges teknisk- naturvitenskapelige
+Norges teknisk- naturvitenskapelige                NTNU                                      7491 Trondheim
 universitet
-Universitetet i Stavanger
-Universitetet i Agder
-Norges miljø- og biovitenskapelige
+Universitetet i Stavanger                          Postboks 8600, Forus                      4036 Stavanger
+Universitetet i Agder                              Postboks 422                              4604 Kristiansand
+Norges miljø- og biovitenskapelige                 Postboks 5003                             1432 Ås
 universitet
-Nord universitet
-OsloMet – storbyuniversitetet
-Universitetet i Sørøst-Norge
-Høgskolen i Molde
-Norges musikkhøgskole
-Arkitektur- og designhøyskolen i
+Nord universitet                                   Postboks 1490                             8049 Bodø
+OsloMet – storbyuniversitetet                      Postboks 4, St. Olavs plass               0130 Oslo
+Universitetet i Sørøst-Norge                       Postboks 325                              3603 Kongsberg
+Høgskolen i Molde                                  Postboks 2100                             6402 Molde
+Norges musikkhøgskole                              Postboks 5190, Majorstuen                 0302 Oslo
+Arkitektur- og designhøyskolen i                   Postboks 6768, St. Olavs plass            0130 Oslo
 Oslo
-Norges handelshøyskole
-Norges idrettshøyskole
-Kunsthøgskolen i Oslo
-Samisk høyskole
-Høgskulen i Volda
-Høgskulen på Vestlandet
-Høgskolen i Østfold
-Høgskolen i Innlandet
+Norges handelshøyskole                             Helleveien 30                             5045 Bergen
+Norges idrettshøyskole                             Postboks 4014, Ullevål stadion            0806 Oslo
+Kunsthøgskolen i Oslo                              Postboks 6853, St. Olavs plass            0130 Oslo
+Samisk høyskole                                    Hannoluohkka 45                           9520 Kautokeino
+Høgskulen i Volda                                  Postboks 500                              6101 Volda
+Høgskulen på Vestlandet                            Postboks 7030                             5020 Bergen
+Høgskolen i Østfold                                Postboks 700                              1757 Halden
+Høgskolen i Innlandet                              Postboks 400                              2418 Elverum
 
-Side 3
-
-Postboks 1072, Blindern
-Postboks 7800
-Postboks 6050, Langnes
-
-0316 Oslo
-5020 Bergen
-9037 Tromsø
-
-NTNU
-
-7491 Trondheim
-
-Postboks 8600, Forus
-Postboks 422
-Postboks 5003
-
-4036 Stavanger
-4604 Kristiansand
-1432 Ås
-
-Postboks 1490
-Postboks 4, St. Olavs plass
-Postboks 325
-Postboks 2100
-Postboks 5190, Majorstuen
-Postboks 6768, St. Olavs plass
-
-8049 Bodø
-0130 Oslo
-3603 Kongsberg
-6402 Molde
-0302 Oslo
-0130 Oslo
-
-Helleveien 30
-Postboks 4014, Ullevål stadion
-Postboks 6853, St. Olavs plass
-Hannoluohkka 45
-Postboks 500
-Postboks 7030
-Postboks 700
-Postboks 400
-
-5045 Bergen
-0806 Oslo
-0130 Oslo
-9520 Kautokeino
-6101 Volda
-5020 Bergen
-1757 Halden
-2418 Elverum
+  Side 3

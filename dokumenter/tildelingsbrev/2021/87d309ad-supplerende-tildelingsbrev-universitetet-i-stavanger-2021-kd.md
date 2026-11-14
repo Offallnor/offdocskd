@@ -8,23 +8,18 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/72751a723c654b029d7c04f67e171275/supplerende-tildelingsbrev-2021-uis.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7794-9975-4ab2-88fe-180187d309ad
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Universitetet i Stavanger
 4036 STAVANGER
 4036 STAVANGER
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/4547-57
-
-13. april 2021
+Deres ref                               Vår ref                         Dato
+                                        20/4547-57                      13. april 2021
 
 Statsbudsjettet 2021 Kap. 201 post 21 Supplerende tildelingsbrev
 Universitetet i Stavanger, Kunnskapssenter for utdanning
@@ -46,29 +41,13 @@ utdanning ved Universitetet i Stavanger. Midlene utbetales til UiS gjennom deres
 bankforbindelse SpareBank 1 SMN, IBAN: NO0442090101743, SWiFT: SPTRNO22, og
 overføringen merkes "UH-6700".
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*        Avdeling                     Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for                 Håkon Kavli
+ 0032 Oslo                                  Org.nr.         fellestjenester og           22 24 76 03
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842     strategiske
+                                                            satsingsområder
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for
-fellestjenester og
-strategiske
-satsingsområder
-
-Saksbehandler
-Håkon Kavli
-22 24 76 03
+[Side 2]
 
 3. Føringer for tildelingen
 Forutsetningene for tildelingen følger av Innst. 12 S (2020–2021), Prop. 1 S (2020–2021) og
@@ -91,8 +70,9 @@ Med hilsen
 
 Eivind Heder (e.f.)
 ekspedisjonssjef
-Håkon Kavli
-avdelingsdirektør
+                                                                              Håkon Kavli
+                                                                              avdelingsdirektør
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 2
+ Side 2

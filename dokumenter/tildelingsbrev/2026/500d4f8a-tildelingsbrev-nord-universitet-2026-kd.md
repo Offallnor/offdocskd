@@ -8,25 +8,21 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/bd39e5357ca74704a531e63be939a233/tildelingsbrev-2026-nord-universitet.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a778f-bde4-43d7-8ea6-4440500d4f8a
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Nord universitet
 Postboks 1490
 8049 BODØ
 
-Deres ref
-
-Vår ref
-
-Dato
-
-25/5029
-
-19. desember 2025
+Deres ref                                              Vår ref                                      Dato
+                                                       25/5029                                      19. desember 2025
 
 Tildelingsbrev 2026 - Nord universitet
+
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2026, jf. Innst. 12 S
 (2025–2026) og Prop. 1 S (2025–2026), sender Kunnskapsdepartementet med dette
 tildelingsbrev til Nord universitet. Tildelingsbrevet er Kunnskapsdepartementets årlige
@@ -34,54 +30,22 @@ styringsdokument. Eventuelle endringer eller ytterligere tildelinger blir formid
 supplerende tildelingsbrev i løpet av 2026. Tildelingsbrevet og eventuelle supplerende
 tildelingsbrev skal publiseres på virksomhetens nettsider så snart de er mottatt, jf.
 Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
+
 Tildelingsbrevet for 2026 består av følgende deler:
-1
+1    Regjeringens prioriteringer og forventninger ................................................................... 2
+2    Mål.................................................................................................................................. 3
+3    Tildeling .......................................................................................................................... 5
+4    Andre forutsetninger og krav ........................................................................................... 8
+5    Rapportering og resultatoppfølging ............................................................................... 11
 
-Regjeringens prioriteringer og forventninger ................................................................... 2
+ Postadresse                   Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep             Kirkeg. 18                   22 24 90 90                Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                  Org.nr.                    høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no          www.kd.dep.no                872 417 842                forskning                    22 24 74 82
 
-2
+[Side 2]
 
-Mål.................................................................................................................................. 3
-
-3
-
-Tildeling .......................................................................................................................... 5
-
-4
-
-Andre forutsetninger og krav ........................................................................................... 8
-
-5
-
-Rapportering og resultatoppfølging ............................................................................... 11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-22 24 74 82
-
-1
-
-Regjeringens prioriteringer og forventninger
+1      Regjeringens prioriteringer og forventninger
 
 Regjeringen ønsker å ta Norge videre – tryggere, mer rettferdig og med sterkere fellesskap.
 Utdanning, forskning og innovasjon støtter opp under hovedprioriteringene i regjeringens
@@ -118,12 +82,18 @@ Kunnskapsdepartementet om å bli informert i god tid før eventuell beslutning, 
 (2022-2023) og Meld. St. 19 (2020–2021).
 
 1 Meld. St. 5 (2022-2023 - Langtidsplan for forskning og høyere utdanning 2023–2032
+
 2 Meld. St. 14 (2024-2025) – Sikker kunnskap i en usikker verden
+
 3 Meld. St. 31 (2023-2024) Perspektivmeldingen
+
 4 Meld St. 9 (2024-2025) – Totalberedskapsmeldingen – Forberedt på kriser og krig
+
 5 Meld. St. 19 (2020-2021) - Styring av statlige universiteter og høyskoler
 
-Side 2
+ Side 2
+
+[Side 3]
 
 Norsk forskning og høyere utdanning er avhengig av internasjonalt samarbeid for å holde
 høy kvalitet og håndtere store samfunnsutfordringer. Samtidig må samarbeidet ivareta
@@ -137,32 +107,20 @@ behovet for å videreutvikle styringen, i dialog med sektoren. Departementet vil
 bruke utviklingsavtalene til tydeligere strategisk dialog, for å styrke mangfold, samarbeid og
 arbeidsdeling i sektoren.
 
-2
+2         Mål
 
-Mål
-
-2.1
-
-Kunnskapsdepartementets overordnede mål
-
+2.1        Kunnskapsdepartementets overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+      •    Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+      •    Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+      •    Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
-utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (20252026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
+utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S (2025-
+2026) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå målene.
 Det er viktig med godt samspill mellom departementets underliggende virksomheter slik at
 alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Målstrukturen for sektoren
-
+2.2        Målstrukturen for sektoren
 De gjeldende sektormålene for statlige universiteter og høyskoler og private høyskoler som
 mottar statstilskudd, ble fastsatt av Kunnskapsdepartementet etter dialog med sektoren og
 med virkning fra 2023. Sektormålene samsvarer godt med de overordnede målene i
@@ -173,19 +131,19 @@ Departementet legger opp til en dialogbasert prosess med de statlige universitet
 høyskolene om nye utviklingsavtaler som skal gjelde for perioden 2027-2030.
 Departementet har ikke utviklingsavtaler med de private høyskolene, men følger opp mål og
 resultater som del av tilskuddsforvaltningen.
-Kunnskapsdepartementet har i samarbeid med de aktuelle institusjonene definert samfunnsog effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner
+Kunnskapsdepartementet har i samarbeid med de aktuelle institusjonene definert samfunns-
+og effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner
 må ta hensyn til disse målene i planer og i styringen av virksomheten.
 
-Side 3
+ Side 3
 
-2.3
+[Side 4]
 
-Sektormål og utviklingsavtaler
-
+2.3       Sektormål og utviklingsavtaler
 For 2026 gjelder følgende sektormål for universiteter og høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
@@ -201,10 +159,7 @@ høyskolene i arbeidet med de nye utviklingsavtalene. Vi viser til brev av 12. d
 med revidert rammeverk og forventninger til institusjonene. Fristen for institusjonene til å
 levere første utkast til utviklingsavtale er 15. mars 2026.
 
-2.4
-
-Utviklingsavtale for Nord universitet (NU) 2023–2026
-
+2.4       Utviklingsavtale for Nord universitet (NU) 2023–2026
 Mål 1 – Styrke forskning og formidling innenfor universitetets tematiske
 satsingsområder
 NU vil gi samfunnet tilgang til den nyeste kunnskapen gjennom videreutvikling av forskning
@@ -214,37 +169,28 @@ velferd og oppvekst og samfunnssikkerhet. For å dekke samfunnets kompetansebeho
 bedre vil universitetet på sikt utvikle et nytt doktorgradsområde og utvide porteføljen med et
 teknologisk fagområde.
 Styringsparametere:
-1.
-2.
-3.
-4.
-5.
-
-Internasjonalt anerkjente forskningsgrupper innenfor alle satsingsområdene
-Øke forskningsfinansieringen fra EU, Forskningsrådet og andre
-Øke NUs formidling og deltakelse i samfunnsdebatten
-Identifisere og legge til rette for et femte doktorgradsområde
-Identifisere og beslutte etablering av et nytt teknologisk fagområde
+   1.     Internasjonalt anerkjente forskningsgrupper innenfor alle satsingsområdene
+   2.     Øke forskningsfinansieringen fra EU, Forskningsrådet og andre
+   3.     Øke NUs formidling og deltakelse i samfunnsdebatten
+   4.     Identifisere og legge til rette for et femte doktorgradsområde
+   5.     Identifisere og beslutte etablering av et nytt teknologisk fagområde
 
 Mål 2 – God og fleksibel utdanning for studenter i ulike livsfaser
 NU vil gi et godt tilbud til både hel- og deltidsstudenten med internasjonale, kreative og
 inspirerende læringsmiljø. NU vil at studiestedene skal være attraktive med levende og
 engasjerende studentmiljø. NUs aktivitet med mange studiesteder innenfor et stort
 
-Side 4
+ Side 4
+
+[Side 5]
 
 geografisk område gir universitetet mulighet til å tilby fleksibel utdanning med tette koblinger
 til samfunns- og næringslivet, også utenfor de større byene.
 Styringsparametere:
-6.
-7.
-8.
-9.
-
-Større fleksibilitet i utdanningene og flere studenter innenfor livslang læring
-Gode studietilbud og godt læringsmiljø på studiestedene
-Styrke internasjonalisering for ansatte og studenter i forskning og utdanning
-Involvere flere studenter i forskning
+    6.    Større fleksibilitet i utdanningene og flere studenter innenfor livslang læring
+    7.    Gode studietilbud og godt læringsmiljø på studiestedene
+    8.    Styrke internasjonalisering for ansatte og studenter i forskning og utdanning
+    9.    Involvere flere studenter i forskning
 
 Mål 3 – Utvikling av kunnskap som fremmer bærekraftig utvikling
 NU vil bidra med ny kunnskap for å styrke miljømessig, sosial og økonomisk bærekraftig
@@ -254,20 +200,15 @@ Universitetet i Tromsø – Norges arktiske universitet og Samisk høgskole om s
 forskning og utdanning. NU skal fortsatt arbeide for å styrke lulesamisk og sørsamisk
 utdanning.
 Styringsparametere:
-10. Styrke rollen som kunnskapsaktør i nordområdene
-11. Styrke samisk forskning og utdanning
-12. Videreutvikle samhandlingen i universitetsalliansen SEA-EU
-13. Styrke Helgeland som universitetsregion i samarbeid med lokale, regionale og
-nasjonale partnere
+    10. Styrke rollen som kunnskapsaktør i nordområdene
+    11. Styrke samisk forskning og utdanning
+    12. Videreutvikle samhandlingen i universitetsalliansen SEA-EU
+    13. Styrke Helgeland som universitetsregion i samarbeid med lokale, regionale og
+        nasjonale partnere
 
-3
+3     Tildeling
 
-Tildeling
-
-3.1
-
-Tildeling over kap. 260, post 50
-
+3.1       Tildeling over kap. 260, post 50
 Stortinget har bevilget 45,9 mrd. kroner over kap. 260, post 50 til statlige universiteter og
 høyskoler. Det ligger til grunn en prisjustering på 3,6 pst. fra 2025 til 2026.
 Kunnskapsdepartementet tildeler med dette 1 851 729 000 kroner til Nord universitet.
@@ -284,25 +225,21 @@ oppunder de prioriterte kompetansebehovene i utsynsmeldingen, profesjonsmeldinge
 langtidsplanen for forskning og høyere utdanning. Det innebærer en forventning om at
 institusjonene prioriterer helsefag, lærerutdanningene, teknologi, sikkerhet og beredskap og
 
-Side 5
+ Side 5
+
+[Side 6]
 
 områder som er særlig viktige for det grønne skiftet, og for et høyproduktivt og
 konkurransedyktig næringsliv.
 Nye studieplasser
 I 2026 er det tildelt midler til følgende nye studieplasser/økt kapasitet:
-•
-•
-•
-•
-•
-•
-
-155 studieplasser i sykepleie (treårig)
-100 studieplasser i kvanteteknologi (toårig)
-60 studieplasser i psykologi (seksårig)
-20 studieplasser i medisin (seksårig)
-10 mill. kroner til audiografutdanningen
-6 mill. kroner til fleksibel og desentralisert utdanning med særlig vekt på ØstFinnmark
+   •      155 studieplasser i sykepleie (treårig)
+   •      100 studieplasser i kvanteteknologi (toårig)
+   •      60 studieplasser i psykologi (seksårig)
+   •      20 studieplasser i medisin (seksårig)
+   •      10 mill. kroner til audiografutdanningen
+   •      6 mill. kroner til fleksibel og desentralisert utdanning med særlig vekt på Øst-
+          Finnmark
 
 Ved tildeling av midler til nye studieplasser benytter departementet en standard sats på
 107 650 kroner per 60-studiepoengenhet. Unntaket er til medisinutdanning, odontologi og
@@ -330,13 +267,12 @@ praksis i helse- og sosialfagutdanningene. Vi ber om at kostnader til bo- og rei
 studenter på helse- og sosialfagutdanninger føres på egen underkonto eller dimensjon på
 konto 719 Annen kostnadsgodtgjørelse, og presenteres i note 3 til årsregnskapet.
 
-Side 6
+ Side 6
 
-3.2
+[Side 7]
 
-Tildeling over kap. 226, post 22 og kap. 231, post 21
-Videreutdanning for ansatte i barnehage og grunnopplæring
-
+3.2       Tildeling over kap. 226, post 22 og kap. 231, post 21
+          Videreutdanning for ansatte i barnehage og grunnopplæring
 Regjeringen innfører et nytt og helhetlig system for kompetanse- og karriereutvikling for
 lærere og andre ansatte i barnehage og grunnopplæring, som fases inn i 2025 og 2026. 6
 Universiteter og høyskoler får et øremerket tilskudd for å utvikle og tilby videreutdanning
@@ -365,47 +301,41 @@ utvikle og tilby videreutdanning for ansatte i barnehage og grunnopplæring, ink
 fagopplæring, fordelt på følgende kapitler og poster:
 − Kap. 226, post 22: 16 681 000 kroner (grunnopplæring, inkludert fagopplæring)
 − Kap. 231, post 21: 2 560 000 kroner (barnehage)
+
 Nord universitet, Samisk høgskole og Universitetet i Tromsø skal samarbeide om å tilby
 videreutdanning i samisk språk og kultur, og ha dialog med Nasjonalt samarbeidsforum for
 samisk språk og kultur i barnehage og skole.
 
-3.3
-
-Tildeling over kap. 231, post 21 Barnehagelærerutdanningen
-
+3.3       Tildeling over kap. 231, post 21 Barnehagelærerutdanningen
 I statsbudsjettet for 2026 er det bevilget 50 mill. kroner til å styrke
 barnehagelærerutdanningen (BLU). Gode barnehagelærere er nødvendige for god
 pedagogisk kvalitet i barnehagen, og det er viktig at utdanningen har høy kvalitet, er godt
 forankret i forsking og nært knyttet til praksisfeltet. Med økte ressurser vil de som utdanner
+
 6 https://www.regjeringen.no/no/dokumenter/system-for-kompetanse-og-karriereutvikling-for-ansatte-i-barnehage-
 
 og-skole/id3098922/?ch=1
 
-Side 7
+ Side 7
+
+[Side 8]
 
 barnehagelærere, ved universiteter og høyskoler og i barnehager med praksis, kunne utvikle
 BLU til den tverrfaglige og krevende utdanningen som var intensjonen med reformen i
 2012/2013.
 Kunnskapsdepartementet tildeler Nord universitet 2 800 000 kroner til dette formålet.
 
-3.4
-
-Utbetaling
-
+3.4       Utbetaling
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 Midlene over kap. 226, post 22 og kap. 231, post 21 utbetales i én rate i februar.
 
-4
+4     Andre forutsetninger og krav
 
-Andre forutsetninger og krav
-
-4.1
-
-Fellesføringer fra regjeringen
+4.1       Fellesføringer fra regjeringen
 
 4.1.1 Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
+      naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Nord universitet skal følge opp dette målet. I dette arbeidet
 skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og kostnadseffektivitet.
@@ -414,8 +344,8 @@ universitet skal gjøre systematiske vurderinger av egen energibruk og ta i bruk
 energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
 
 4.1.2 Positiv utvikling i antall ansettelser av personer med
-funksjonsnedsettelse og eller fravær fra arbeid, utdanning eller
-opplæring
+      funksjonsnedsettelse og eller fravær fra arbeid, utdanning eller
+      opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
@@ -433,7 +363,9 @@ det ligger til rette for å benytte interne ressurser og kompetanse. Utover info
 holdningskampanjer skal tjenester fra kommunikasjonsbransjen som hovedregel ikke
 benyttes. Nord universitet skal i årsrapporten for 2026 rapportere om konsulentbruken og
 
-Side 8
+ Side 8
+
+[Side 9]
 
 oppfølgingen av fellesføringen, herunder om totalbeløp for kjøp av konsulenttjenester, hvilke
 tiltak som er iverksatt og konkrete resultater. Dersom det er fagområder og/eller
@@ -446,10 +378,7 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 årsregnskapet spesifisere dette nærmere. Dersom Nord universitet har større kjøp av
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
-4.2
-
-Andre krav
-
+4.2       Andre krav
 4.2.1 Sikkerhet og beredskap
 Det forutsettes at Nord holder seg oppdatert om trusselvurderinger fra nasjonale
 fagmyndigheter og støtter opp om hovedprioriteringene i Nasjonal sikkerhetsstrategi.
@@ -459,10 +388,12 @@ aktiviteter som vil bidra til å oppnå målene for Totalforsvarsåret. Departem
 også de underliggende virksomhetene til å vurdere slike aktiviteter innenfor eget
 ansvarsområde. Informasjon om Totalforsvarsåret publiseres fortløpende på
 dsb.no.
+
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor, revidert i 2025, skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal
 sikkerhet og informasjonssikkerhet. Rapporteringskravene nedenfor gjenspeiler krav som
 stilles i styringsdokumentet.
+
 Nord skal i årsrapporten for 2026 rapportere om følgende:
 1. Beskriv status for Nords arbeid med å få oversikt over egne verdier og avhengigheter med
 hensyn til nasjonal sikkerhet. Hvilke planer har virksomheten for oppfølgingen av dette
@@ -480,7 +411,9 @@ Kunnskapsdepartementet minner om regelverket som gjelder for inngåelse av leiea
 markedet. Ved inngåelse av leieavtaler der leieavtalens samlede forpliktelse overstiger 30
 mill. kroner skal Statsbygg brukes som rådgiver. Leieavtaler med samlet forpliktelse over 100
 
-Side 9
+ Side 9
+
+[Side 10]
 
 mill. kroner, inkludert opsjoner, skal godkjennes av departementet. Disse kravene gjelder
 også ved forlengelse av eksisterende avtaler. Det vises også til vedlegg til tildelingsbrevet
@@ -491,10 +424,8 @@ Kunnskapsdepartementet har i 2025 gjennomført en kartlegging av planer for
 arealeffektivisering ved universiteter og høyskoler. Regjeringen forventer at universitetene og
 høyskolene arbeider for å bruke eksisterende areal bedre fremfor å bygge nytt, og at de gjør
 grundige vurderinger av behovene for nybygg, rehabilitering, ombygging og leie av bygg.
-4.2.4
 
-Oppfølging av nasjonal digitaliseringsstrategi
-
+4.2.4   Oppfølging av nasjonal digitaliseringsstrategi
 Fremtidens digitale Norge - Nasjonal digitaliseringsstrategi 2024-2030 peker ut regjeringens
 digitaliseringspolitikk fram til 2030. Alle offentlige virksomheter skal bidra til å realisere
 strategien. Det innebærer både å støtte opp under regjeringens tiltak og å innrette egen
@@ -508,10 +439,8 @@ som er utviklet gjennom KUDAF-programmet (2020-2025). Sikt - Kunnskapssektorens
 tjenesteleverandør overtar i løpet av første halvår i 2026 oppgaven med koordinering og
 pådriverfunksjon for datadeling i kunnskapssektoren. Virksomhetenes plan for datadeling vil
 være et viktig grunnlag for virksomhetens samarbeid med Sikt på dette området.
-4.2.5
 
-Samarbeid og spesielle oppgaver knyttet til samisk utdanning og forskning
-
+4.2.5   Samarbeid og spesielle oppgaver knyttet til samisk utdanning og forskning
 Regjeringen vil i 2026. følge opp vedtakene fra Stortingets behandling av rapporten fra
 Sannings- og forsoningskommisjonen. Kunnskapsdepartementet har fått i oppdrag å følge
 opp anmodningsvedtakene 18, 20 og 21, dvs. vedtakene IV, VI og VII i Innst. 30 S (2024–
@@ -530,14 +459,13 @@ og at også Nord universitet bidrar med en medarbeider i sekretariatet. Departem
 forventer at Nord universitet også utover dette bidrar i arbeidet med å utvikle ny rammeplan
 for samisk lærerutdanning.
 
-Side 10
+ Side 10
 
-5
-5.1
+[Side 11]
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
+5     Rapportering og resultatoppfølging
 
+5.1    Rapportering om resultater
 Årsrapport for 2026 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2027, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -560,18 +488,12 @@ angi hvilke frister og krav som gjelder for delårsregnskapene og årsregnskapet
 Departementet viser til Finansdepartementets rundskriv R-10/2025 når det gjelder
 rapportering av regnskapsopplysninger til statsregnskapet for 2026.
 
-5.2
-
-Satsingsforslag for 2028
-
+5.2    Satsingsforslag for 2028
 Nord universitet kan sende inn eventuelle satsingsforslag i tråd med vedlagte veiledning.
 Frist for innsendelse av satsingsforslag for 2028 er 1. november 2026. Forslaget sendes til
 postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2026
-
+5.3    Styringsdialogen i 2026
 Departementet inviterer med dette styret og institusjonens ledelse til etatsstyringsmøte i
 2026. Etatsstyringsmøtet er berammet til 12. mai 2026 kl 10.00-11.30. Møtet vil finne sted i
 Kunnskapsdepartementets lokaler i Kirkegata 18 i Oslo. Vi ber om at strategisk viktige saker
@@ -583,41 +505,36 @@ styreleder, rektor og direktør og saksbehandler til dialogmøte om utkast til n
 i etterkant av etatsstyringsmøtet 12. mai 2026 kl 12.00-13.30. Institusjonens saksbehandler
 for ny utviklingsavtale kan også delta på etatsstyringsmøtet.
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-
-Sander Tufte
-avdelingsdirektør
+                                                                          Sander Tufte
+                                                                          avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
 Tildelingsbrev for universiteter og høyskoler 2026
-
-
-
-
-
-
-
-Orientering om statsbudsjettet for 2026 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2025
-Krav til årsrapport for statlige universiteter og høyskoler 2026
-Fullmakter for statlige universiteter og høyskoler 2026
-Veiledning til fremstilling av satsingsforslag for 2028
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2026
-Virksomhets- og økonomiinstruks
+         Orientering om statsbudsjettet for 2026 for universitet og høgskular etter vedtak i
+          Stortinget 18. desember 2025
+         Krav til årsrapport for statlige universiteter og høyskoler 2026
+         Fullmakter for statlige universiteter og høyskoler 2026
+         Veiledning til fremstilling av satsingsforslag for 2028
+         Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2026
+         Virksomhets- og økonomiinstruks
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Nord studentsamskipnad
-Riksrevisjonen
-Sametinget
-Statsforvalteren i Nordland
-Statsforvalteren i Trøndelag
 
-Side 12
+ Direktoratet for høyere utdanning og kompetanse
+ Nord studentsamskipnad
+ Riksrevisjonen
+ Sametinget
+ Statsforvalteren i Nordland
+ Statsforvalteren i Trøndelag
+
+ Side 12

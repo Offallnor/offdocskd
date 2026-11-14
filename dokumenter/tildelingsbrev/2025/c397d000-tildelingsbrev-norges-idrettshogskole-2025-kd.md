@@ -8,23 +8,18 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/51e8b6fdb35141658a1559190a88b13e/tildelingsbrev-2025-til-norges-idrettshogskole2454421.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-4cd3-454e-bfd1-2e7bc397d000
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Norges idrettshøgskole
 Postboks 4014 Ullevål Stadion
 0806 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-24/5195
-
-19. desember 2024
+Deres ref                                                Vår ref                                       Dato
+                                                         24/5195                                       19. desember 2024
 
 Tildelingsbrev 2025 til Norges idrettshøgskole
 På bakgrunn av Stortingets behandling av statsbudsjettet for 2025, jf. Innst. 12 S
@@ -36,54 +31,20 @@ tildelingsbrev skal publiseres på virksomhetens nettsider så snart de er motta
 Bestemmelser om økonomistyring i staten, pkt. 2.3.2.
 
 Tildelingsbrevet for 2025 består av følgende deler:
-1
+1     Regjeringens prioriteringer og forventninger .....................................................................2
+2     Mål .....................................................................................................................................4
+3     Tildeling .............................................................................................................................6
+4     Andre forutsetninger og krav .............................................................................................9
+5     Rapportering og resultatoppfølging .................................................................................11
 
-Regjeringens prioriteringer og forventninger .....................................................................2
+ Postadresse                     Kontoradresse                Telefon*                    Avdeling                     Saksbehandler
+ Postboks 8119 Dep               Kirkeg. 18                   22 24 90 90                 Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                    Org.nr.                     høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no            www.kd.dep.no                872 417 842                 forskning                    22 24 74 82
 
-2
+[Side 2]
 
-Mål .....................................................................................................................................4
-
-3
-
-Tildeling .............................................................................................................................6
-
-4
-
-Andre forutsetninger og krav .............................................................................................9
-
-5
-
-Rapportering og resultatoppfølging .................................................................................11
-
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-22 24 74 82
-
-1
-
-Regjeringens prioriteringer og forventninger
-
+1    Regjeringens prioriteringer og forventninger
 Utdanning, forskning og innovasjon er sentralt for at Norge skal møte fremtidens utfordringer
 på en god måte. Økte spenninger i verden, klima- og naturendringer, fremvekst av nye
 teknologier, samt økt etterspørsel etter kompetent arbeidskraft, forsterker behovet for at
@@ -113,7 +74,8 @@ studieporteføljen og dimensjonerer utdanningstilbudene med sikte på å møte b
 tråd med perspektivmeldingen2, samt følge opp prioriteringene i utsynsmeldingen3 og
 profesjonsmeldingen4 og tidligere tildelinger av studieplasser. Utdanningstilbudene skal ha
 høy kvalitet og være tett koblet til praksisfeltet. Universitetene og høyskolene skal fortsette å
-prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etterog videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
+prioritere desentraliserte og fleksible utdanningstilbud for å sikre at utdanning, inkludert etter-
+og videreutdanning, tilbys i hele landet. Kunnskapsdepartementet forventer at institusjoner
 med flere studiesteder ivaretar sitt regionale oppdrag og videreutvikler disse.
 Regjeringen legger til rette for at flere skal komme raskere inn i høyere utdanning, jf.
 opptaksmeldingen5 og forventer at universitetene og høyskolene bidrar til at flere studenter
@@ -125,7 +87,9 @@ har en god studieprogresjon og gjennomfører utdanningene. Universitetene og hø
 4 Meld. St. 19 Profesjonsnære utdanningar over heile landet - Innst. 330 S (2023-2024)
 5 Meld. St. 20 Opptak til høgare utdanning – Innst. 378 S (2023-2024)
 
-Side 2
+ Side 2
+
+[Side 3]
 
 har også ansvar for å bidra til et godt etter- og videreutdanningstilbud, herunder utvidet
 ansvar for å utvikle og tilby videreutdanningstilbud rettet mot barnehage og grunnopplæring.6
@@ -164,31 +128,27 @@ rehabilitering, ombygging og leie av bygg. Departementet har utarbeidet en veivi
 universiteter og høyskoler om samarbeidet i bygge- og leiesaker, for å støtte opp under en
 
 6 Se nærmere omtale om øremerking i kapittel 3.
+
 7 Frå ord til handling - Handlingsplan for norsk fagspråk i akademia
 8 Nasjonal digitaliseringsstrategi 2024-2030
 9 Digitaliseringsrundskrivet - regjeringen.no
 10 Strategi for å øke næringslivets investeringer i forskning og utvikling 2024
 11 Veiviser for universiteter og høyskoler om samarbeidet i bygge- og leiesaker
 
-Side 3
+ Side 3
+
+[Side 4]
 
 transparent og forutsigbar dialog og samhandling om arealbehov. Institusjonene skal sette
 seg godt inn i denne.
 
-2
-
-Mål
+2   Mål
 
 2.1 Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål for kunnskapssektoren:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2024–2025) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
@@ -215,13 +175,15 @@ hensyn til disse målene i planer og i styringen av virksomheten.
 2.3 Sektormål og utviklingsavtaler
 For 2025 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjonens
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -241,7 +203,7 @@ kl 11.00-15.00 i Oslo, som del av samarbeidet om utviklingen i sektoren.
 
 2.4 Utviklingsavtale for Norges idrettshøgskole (NIH) 2023–2026
 Mål 1 – Gi flere studenter tilpasset idrettsvitenskapelig kompetanse i tråd med
-samfunnets behov
+        samfunnets behov
 NIH vil utvikle den helhetlige studieporteføljen, både videreutvikle campusbaserte
 fulltidsstudier og utvide det fleksible utdanningstilbudet. Fulltidsstudiene omfatter tematiske
 årsenheter og gradsutdanningene; bachelor-, master- og ph.d.-løp. Det fleksible
@@ -249,54 +211,57 @@ utdanningstilbudet omfatter nettbaserte kurs, samlingsbaserte tilbud og hybride 
 Samlet vil studieporteføljen speile en samfunnsutvikling preget av økt mangfold og vekt på
 sosial bærekraft.
 Styringsparametere:
-1. Implementere en modell for systematisk samarbeid med arbeidslivet på programnivå
-2. Etablere flere nettbaserte fleksible studietilbud innenfor en større bredde av NIHs
-utdanningsfelt
-3. Øke institusjonens samlede studiepoengproduksjon
+   1. Implementere en modell for systematisk samarbeid med arbeidslivet på programnivå
+   2. Etablere flere nettbaserte fleksible studietilbud innenfor en større bredde av NIHs
+      utdanningsfelt
+   3. Øke institusjonens samlede studiepoengproduksjon
+
 Mål 2 – Forskningsbasert og samfunnsrelevant utdanning der studentenes læring og
-et inkluderende læringsmiljø står i sentrum
+        et inkluderende læringsmiljø står i sentrum
 NIH vil ha stor studentmedvirkning og økt faglig samspill både internt på NIH og mellom NIH
 og utenlandske læresteder. NIH vil videreutvikle en kultur der studentene, de faglig ansatte
 og administrasjonen samarbeider om å forbedre studiekvaliteten. En slik kultur vil øke
 studentenes trivsel og tidsbruk i læringsarbeidet.
 Styringsparametere:
-4. Ta i bruk mer varierte og innovative undervisnings- og vurderingsmetoder
-5. Øke omfanget og kvaliteten på faglige tilbakemeldinger mellom studenter og mellom
-fagansatte og studenter underveis i studieløpet
+   4. Ta i bruk mer varierte og innovative undervisnings- og vurderingsmetoder
+   5. Øke omfanget og kvaliteten på faglige tilbakemeldinger mellom studenter og mellom
+      fagansatte og studenter underveis i studieløpet
 
-Side 5
+ Side 5
 
-6. Sørge for at en økt andel av gradsstudentene gjennomfører et utvekslingsopphold i
-løpet av studietiden
+[Side 6]
+
+    6. Sørge for at en økt andel av gradsstudentene gjennomfører et utvekslingsopphold i
+       løpet av studietiden
+
 Mål 3 – En bred idrettsvitenskapelig forskningsportefølje av høy kvalitet som fremmer
-en bærekraftig samfunnsutvikling
+        en bærekraftig samfunnsutvikling
 NIHs forskning vil gjennom samspill med fagmiljøer og samfunnsaktører understøtte en
 bærekraftig utvikling for individ og samfunn, og utdype kunnskapen som trengs for å bedre
 befolkningens helse, livskvalitet og levekår. NIH vil at forskningen skal befeste NIHs posisjon
 som en internasjonalt ledende institusjon innen sitt fagområde, og gi et bedre
 kunnskapsgrunnlag for å utvikle en fremtidsrettet utdannings-, idretts- og fritidssektor.
 Styringsparametere:
-7. Utvikle strategiske partnerskap med nasjonale og internasjonale organisasjoner og
-forskningsmiljøer
-8. Bedre kunnskapsoverføring mellom NIHs faginstitutter og etablering av flerfaglige og
-tverrfaglige forskningsprosjekter
-9. Øke institusjonens samlede eksterne forskningsfinansiering
+    7. Utvikle strategiske partnerskap med nasjonale og internasjonale organisasjoner og
+       forskningsmiljøer
+    8. Bedre kunnskapsoverføring mellom NIHs faginstitutter og etablering av flerfaglige og
+       tverrfaglige forskningsprosjekter
+    9. Øke institusjonens samlede eksterne forskningsfinansiering
+
 Mål 4 – Tydeliggjøre institusjonens samfunnsrelevans
 NIH vil styrke sin posisjon som landets ledende utdannings- og forskningsinstitusjon innen
 idrettsvitenskap i bred forstand, gjennom å fornye undervisningen, utvide forskningen og
 forsterke samfunnskontakten. NIH vil bidra til en kunnskapsbasert samfunnsutvikling ved å
 være en synlig, relevant og tilgjengelig samfunnsaktør med en tydelig identitet.
 Styringsparametere:
-10. Øke omfanget av praksisnært og aktivitetsrettet forsknings- og innovasjonsarbeid
-innen skoleverk, arbeidsliv, organisert idrett og ulike fritidskontekster
-11. Øke kunnskapen om NIH som utdanningsinstitusjon blant en større bredde av
-befolkningen
-12. Skape nye nasjonale og internasjonale møteplasser for dialog-, kunnskapsdeling og
-formidling
+    10. Øke omfanget av praksisnært og aktivitetsrettet forsknings- og innovasjonsarbeid
+        innen skoleverk, arbeidsliv, organisert idrett og ulike fritidskontekster
+    11. Øke kunnskapen om NIH som utdanningsinstitusjon blant en større bredde av
+        befolkningen
+    12. Skape nye nasjonale og internasjonale møteplasser for dialog-, kunnskapsdeling og
+        formidling
 
-3
-
-Tildeling
+3   Tildeling
 
 3.1 Tildeling over kap. 260, post 50
 Stortinget har bevilget 44,2 mrd. kroner over kap. 260, post 50 til statlige universiteter og
@@ -306,7 +271,9 @@ Orientering om statsbudsjettet 2025 for universitet og høgskular etter vedtak i
 desember 2024 gir en oversikt over de enkelte endringene i rammebevilgningen per
 institusjon.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 Rammefinansiering
 Universitetene og høyskolene får midlene på kap. 260 som én rammebevilgning, som betyr
@@ -317,6 +284,7 @@ noen punkter er bevilgningen fra departementet øremerket et bestemt formål. En
 som ikke er tidsavgrenset blir formelt uttrykt i tildelingsbrevet for det første året av
 øremerkingen, og det er en forventning om at aktiviteten videreføres i påfølgende år uten at
 det gis formelt pålegg.
+
 Ikke øremerking av rekrutteringsstillinger
 Fra og med 2023 ble øremerkingen av midler til rekrutteringsstillinger fjernet, som innebærer
 at institusjonene ikke er pålagt et bestemt antall slike stillinger, jf. Innst. 12 S (2022–2023) og
@@ -324,6 +292,7 @@ Prop. 1 S (2022–2023). Universitetene og høyskolene har dermed mer frihet til
 budsjettprioriteringer, ha en mer målrettet rekrutterings- og karrierepolitikk og selv vurdere
 hvor mange rekrutteringsstillinger de til enhver tid har behov for, i tråd med regjeringens
 tillitsreform.
+
 Utfasing av studieplasser fra Utdanningsløftet 2020
 Utfasingen av studieplasser fra revidert nasjonalbudsjett for 2020 innebærer reduksjon i
 bevilgningen til de institusjonene som fikk tildelt slike studieplassmidler. Det skjer avhengig
@@ -331,39 +300,28 @@ av lengden på studiene som institusjonene opprettet og etter hvert som de aktue
 fra 2020, 2021 og 2022 har fullført studieløpene. Unntaket er de 80 studieplassene i medisin
 og 300 plasser i barnevernsfaglige utdanninger på masternivå hvor midlene videreføres til de
 aktuelle institusjonene.
+
 Nye studieplasser
 I perioden 2022–2025 er det i statsbudsjettene prioritert nye studieplasser/økt kapasitet til:
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
+   •      235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
+          2020
+   •      300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
+   •      500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
+          plasser innenfor gjeldende bevilgning
+   •      40 studieplasser i nukleære fag
+   •      200 studieplasser innenfor IKT-fag
+   •      25 studieplasser i flyingeniørutdanning
+   •      20 studieplasser i fysioterapiutdanning
+   •      20 studieplasser skogfag
+   •      20 studieplasser i vernepleie
+   •      10 studieplasser i folkedans
+   •      20 studieplasser i veterinærmedisin
+   •      Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
+   •      60 studieplasser til å etablere en campus på Gol i Hallingdal
 
-Side 7
+ Side 7
 
-235 studieplasser i medisin, inkludert videreføring av 80 plasser fra Utdanningsløftet
-2020
-300 studieplasser i barnevern videreført fra Utdanningsløftet 2020
-500 studieplasser i sykepleierutdanning, inkludert pålegg om å øke opptaket med 200
-plasser innenfor gjeldende bevilgning
-40 studieplasser i nukleære fag
-200 studieplasser innenfor IKT-fag
-25 studieplasser i flyingeniørutdanning
-20 studieplasser i fysioterapiutdanning
-20 studieplasser skogfag
-20 studieplasser i vernepleie
-10 studieplasser i folkedans
-20 studieplasser i veterinærmedisin
-Fjerde og femte år i lærerutdanning i praktisk-estetiske fag
-60 studieplasser til å etablere en campus på Gol i Hallingdal
+[Side 8]
 
 Bevilgningen til studieplasser trappes opp til plassene er fullt utbygget med nye årlige kull, og
 den avhenger av lengde på studiene, fra to- til seksårige. En studieplass er definert som 60
@@ -400,6 +358,7 @@ bevilgninger i årlige tildelingsbrev til utdanningsinstitusjonene. Regjeringen 
 universiteter og høyskoler legger til rette for god sammenheng mellom grunnutdanning,
 videreutdanning og lokal kompetanseutvikling, og dialog med barnehage- og skolesektoren
 blant annet i partnerskap mellom institusjonene og kommunene.
+
 Endringene for 2025 får en halvårsvirkning fra høsten 2025. For høsten 2025 blir
 videreutdanningsmidlene fordelt mellom utdanningsinstitusjoner med lærerutdanning med en
 tilsvarende andel som høsten 2024. Dette innebærer en fullfinansiering av
@@ -408,7 +367,9 @@ grunnlaget for resultatbasert uttelling. Nasjonale prioriteringer ved behandling
 fra barnehage- og skoleeiere om hhv. tilretteleggingsmidler og vikar- og stipendmidler blir
 videreført for 2025, inntil ny ordning trer i kraft høsten 2026, jf. Prop. 1S (2024–2025) for
 
-Side 8
+ Side 8
+
+[Side 9]
 
 Kunnskapsdepartementet, kap. 226, post 22. Utdanningsinstitusjonene må legge disse
 prioriteringene til grunn, men kan gjøre mindre justeringer i videreutdanningstilbud og
@@ -418,6 +379,7 @@ om videreutdanning i praktiske og estetiske fag øker i 2025. Universiteter og h
 inneværende år tilbyr videreutdanning i praktiske og estetiske fag bør videreføre og eventuelt
 utvide aktuelle tilbud. Kunnskapsdepartementet legger til grunn at institusjonene ikke tar
 egenbetaling for videreutdanningstilbudene som er finansiert med øremerkede midler.
+
 Kunnskapsdepartementet tildeler 1 430 000 kroner til Norges idrettshøgskole for å utvikle og
 tilby videreutdanning for lærere i grunnopplæring over kap. 226, post 22.
 
@@ -426,16 +388,12 @@ Kunnskapsdepartementet utbetaler midlene over kap. 226, post 22 i én rate i feb
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 
-4
-
-Andre forutsetninger og krav
+4   Andre forutsetninger og krav
 
 4.1 Fellesføringer fra regjeringen
-4.1.1
 
-Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
-naturfotavtrykk og energibruk
-
+4.1.1     Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
+          naturfotavtrykk og energibruk
 Det er et mål med systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk. Norges idrettshøgskole skal følge opp dette målet. I dette
 arbeidet skal det tas hensyn til ivaretakelse av virksomhetens kjerneoppgaver og
@@ -443,11 +401,9 @@ kostnadseffektivitet.
 Norges idrettshøgskole skal også vurdere hvordan klimaendringene vil påvirke virksomheten.
 Norges idrettshøgskole skal gjøre systematiske vurderinger av egen energibruk og ta i bruk
 lønnsomme energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
-eller fravær fra arbeid, utdanning eller opplæring
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og
+          eller fravær fra arbeid, utdanning eller opplæring
 Regjeringen har høye ambisjoner når det gjelder inkludering og mangfold. Statlige
 virksomheter skal ha en positiv utvikling i antall ansettelser av personer med
 funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring. Arbeidsgiverne
@@ -458,12 +414,11 @@ funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller opplæring i 2
 antallet ansettelser i virksomheten i 2025. Norges idrettshøgskole skal også omtale
 utviklingen i 2025 sett opp mot det virksomheten har rapportert for 2024.
 
-Side 9
+ Side 9
 
-4.1.3
+[Side 10]
 
-Redusere konsulentbruken
-
+4.1.3   Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle egen
 kompetanse. Norges idrettshøgskole skal arbeide for å redusere konsulentbruken på
 områder der det ligger til rette for å benytte interne ressurser og kompetanse. Utover
@@ -482,10 +437,8 @@ Dersom utgifter til kjøp av konsulenttjenester er vesentlige, bør virksomheten
 konsulenttjenester fra andre statlige leverandører, bør dette fremgå særskilt.
 
 4.2 Andre krav
-4.2.1
 
-Sikkerhet og beredskap
-
+4.2.1   Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -497,24 +450,24 @@ samfunnssikkerhet og nasjonal sikkerhet. Fra og med 2025 blir i tillegg oppgaven
 kontrollere om underliggende virksomheter i forsknings- og høyere utdanningssektoren
 etterlever kravene til sikkerhet og beredskap flyttet fra NOKUT til HK-dir.
 Norges idrettshøgskole skal i årsrapporten for 2025 rapportere om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
-og avhengigheter, hvilke planer har Norges idrettshøgskole for dette arbeidet?
-2. Når reviderte Norges idrettshøgskole sist sin ROS-analyse? Hvilke overordnede
-områder er identifisert som de med høyest risiko for virksomheten?
-3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
-er gjennomført i 2025.
-4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
-styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+      og avhengigheter, hvilke planer har Norges idrettshøgskole for dette arbeidet?
+   2. Når reviderte Norges idrettshøgskole sist sin ROS-analyse? Hvilke overordnede
+      områder er identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv overordnet de viktigste læringspunktene fra krise- og beredskapsøvelser som
+      er gjennomført i 2025.
+   4. Redegjør for virksomhetens arbeid med sikkerhetsstyring, herunder etablering av
+      styringssystem for sikkerhet etter sikkerhetsloven, ledelsessystem for
 
-Side 10
+ Side 10
 
-informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
-samordnes med hverandre og med virksomhetsstyringen for øvrig.
-4.2.2
+[Side 11]
 
-Informasjonssikkerhet og personvern
+        informasjonssikkerhet og internkontroll for personvern, inkludert hvordan disse
+        samordnes med hverandre og med virksomhetsstyringen for øvrig.
 
+4.2.2   Informasjonssikkerhet og personvern
 Det følger av virksomhets- og økonomiinstruksen at kravene i policy for
 informasjonssikkerhet og personvern i høyere utdanning og forskning skal ligge til grunn for
 arbeidet med informasjonssikkerhet og personvern ved Norges idrettshøgskole. I lys av det
@@ -523,10 +476,8 @@ samfunnet og den raske teknologiske utviklingen, forventer Kunnskapsdepartemente
 Norges idrettshøgskole styrker sitt arbeid med å forebygge, oppdage og håndtere alvorlige
 IKT-sikkerhetshendelser og brudd på personopplysningssikkerheten. I den forbindelse er
 behovet for tilfredsstillende kontinuitets- og beredskapsplaner særlig viktig.
-4.2.3
 
-Regelverkskompetanse
-
+4.2.3   Regelverkskompetanse
 Å drive en stor samfunnsinstitusjon som et universitet eller en høyskole krever betydelig
 kompetanse om regelverket. Departementet har i forbindelse med lovproposisjonen til
 Stortinget om ny universitets- og høyskolelov understreket viktigheten av å prioritere slik
@@ -535,10 +486,8 @@ registrerer at flere universiteter og høyskoler er inne i omstillingsprosesser,
 understreke viktigheten av at institusjonene sikrer nødvendig juridisk kompetanse og
 forvaltningskompetanse, slik at de er i stand til å operere innenfor regelverket og forvalte den
 myndigheten og det handlingsrommet de har.
-4.2.4
 
-Krav ved inngåelse av leieavtaler
-
+4.2.4   Krav ved inngåelse av leieavtaler
 Som en oppfølging av NSM-rapporten12 har Riksrevisjonen satt i gang en bred undersøkelse
 av statens husleieavtaler. I den forbindelse minner Kunnskapsdepartementet om regelverket
 som gjelder for inngåelse av slike avtaler. Ved inngåelse av leieavtaler der leieavtalens
@@ -547,9 +496,7 @@ Leieavtaler med samlet forpliktelse over 100 mill. kroner, inkludert opsjoner, s
 av departementet. Disse kravene gjelder også ved forlengelse av eksisterende avtaler. Det
 vises også til vedlegg til tildelingsbrevet om fullmakter.
 
-5
-
-Rapportering og resultatoppfølging
+5    Rapportering og resultatoppfølging
 
 5.1 Rapportering om resultater
 Årsrapport for 2025 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
@@ -560,7 +507,9 @@ på virksomhetens nettside innen 1. mai, jf. Bestemmelser om økonomistyring i s
 
 12 Gjedrem-utvalgets gjennomgang av Nasjonal sikkerhetsmyndighets leie av Snarøyveien 36
 
-Side 11
+ Side 11
+
+[Side 12]
 
 Departementet minner også om at Norges idrettshøgskole innen 15. mars 2025 skal sende
 årsrapport for 2024 til postmottak@kd.dep.no, med kopi til Riksrevisjonen og DBH. Nærmere
@@ -596,35 +545,32 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                          Charlotte Rustad
+                                                                          konst. avdelingsdirektør
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 12
+ Side 12
+
+[Side 13]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på følgende nettside:
+
 Tildelingsbrev for universiteter og høyskoler 2025:
 
-▪
-▪
-▪
-▪
-▪
-▪
-
-Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2024
-Krav til årsrapport for statlige universiteter og høyskoler 2025
-Fullmakter for statlige universiteter og høyskoler 2025
-Veiledning til fremstilling av satsingsforslag for 2027
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
-Virksomhets- og økonomiinstruks
+   ▪   Orientering om statsbudsjettet for 2025 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2024
+   ▪   Krav til årsrapport for statlige universiteter og høyskoler 2025
+   ▪   Fullmakter for statlige universiteter og høyskoler 2025
+   ▪   Veiledning til fremstilling av satsingsforslag for 2027
+   ▪   Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2025
+   ▪   Virksomhets- og økonomiinstruks
 
 Kopi
-Direktoratet for høyere utdanning og kompetanse
-Riksrevisjonen
-Buskerud, Oslo og Akershus Statsforvalteren i Østfold
-Studentsamskipnaden SiO
-Statsforvalteren i Østfold, Buskerud, Oslo og Akershus
+ Direktoratet for høyere utdanning og kompetanse
+ Riksrevisjonen
+ Buskerud, Oslo og Akershus Statsforvalteren i Østfold
+ Studentsamskipnaden SiO
+ Statsforvalteren i Østfold, Buskerud, Oslo og Akershus
 
-Side 13
+ Side 13

@@ -8,98 +8,77 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-nr.-24-til-tildelingsbrev-til-udir-for-2021.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/9902f2ac-f338-49d4-8d4d-2eae120b9947
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Utdanningsdirektoratet
 Postboks 9359 Grønland
 0135 OSLO
 
-Deres ref
-
-Vår ref
-
-Dato
-
-20/5419-152
-
-23. august 2021
+Deres ref                               Vår ref                       Dato
+                                        20/5419-152                   23. august 2021
 
 Tillegg nr. 24 til tildelingsbrev til Udir for 2021 med oppdrag 2021-030 om
 innretting av smittevernreglene og testing i skolen for å minimere fravær
-Oppdrag nr:
-Oppdrag:
 
-2021-030
-Oppdrag om innretting av smittevernreglene og testing i
-skolen for å minimere fravær
-31. august 2021
-Oppdraget gjennomføres innenfor gjeldende
-budsjettrammer.
+ Oppdrag nr:                             2021-030
+ Oppdrag:                                Oppdrag om innretting av smittevernreglene og testing i
+                                         skolen for å minimere fravær
+ Frist:                                  31. august 2021
+ Finansiering:                           Oppdraget gjennomføres innenfor gjeldende
+ budsjettkap., post og                   budsjettrammer.
+ prosjektnummer
+ Bakgrunn for oppdraget:
+ Det er lagt opp til at skoler og barnehager åpner på grønt nivå høsten 2021, samtidig som
+ kommunene ut i fra den lokale smittesituasjonen vurderer om det er forsvarlig. Skole- og
+ barnehagestart på grønt nivå vil kunne bidra til smitteøkning. Det vises til at TISK-strategien
+ er videreført inntil videre. Det vises også til ny ordning om at testing kan erstatte
+ smittekarantene for barn og unge under 18 år og at Helsedirektoratet som ledd i beredskapen
+ rundt dette har informert landets kommuner om utsendelse av antigen-hurtigtester. Det vil
+ videre være et mål å minimere fraværet blant elever.
 
-Frist:
-Finansiering:
-budsjettkap., post og
-prosjektnummer
-Bakgrunn for oppdraget:
-Det er lagt opp til at skoler og barnehager åpner på grønt nivå høsten 2021, samtidig som
-kommunene ut i fra den lokale smittesituasjonen vurderer om det er forsvarlig. Skole- og
-barnehagestart på grønt nivå vil kunne bidra til smitteøkning. Det vises til at TISK-strategien
-er videreført inntil videre. Det vises også til ny ordning om at testing kan erstatte
-smittekarantene for barn og unge under 18 år og at Helsedirektoratet som ledd i beredskapen
-rundt dette har informert landets kommuner om utsendelse av antigen-hurtigtester. Det vil
-videre være et mål å minimere fraværet blant elever.
-Beskrivelse av oppdraget:
-Helse- og omsorgsdepartementet og Kunnskapsdepartementet ber Hdir i samarbeid med
-Udir og FHI om å vurdere hvordan smittevernreglene i skolen kan innrettes slik at
-fraværet/tap av undervisning minimeres. Det skal særlig vurderes om elever med milde
-symptomer og sykdomsfølelse kan testes med hurtigtest på skolen, slik at de i slike
-situasjoner kan være på skolen med mindre testen er positiv.
+ Beskrivelse av oppdraget:
+ Helse- og omsorgsdepartementet og Kunnskapsdepartementet ber Hdir i samarbeid med
+ Udir og FHI om å vurdere hvordan smittevernreglene i skolen kan innrettes slik at
+ fraværet/tap av undervisning minimeres. Det skal særlig vurderes om elever med milde
+ symptomer og sykdomsfølelse kan testes med hurtigtest på skolen, slik at de i slike
+ situasjoner kan være på skolen med mindre testen er positiv.
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse            Kontoradresse       Telefon*        Avdeling               Saksbehandler
+ Postboks 8119 Dep      Kirkeg. 18          22 24 90 90     Avdeling for           Bjørn Breivik
+ 0032 Oslo                                  Org.nr.         barnehage og           22 24 76 26
+ postmottak@kd.dep.no   www.kd.dep.no       872 417 842     grunnskole
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+[Side 2]
 
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
+ Vi ber om at etatene vurdere om det er hensiktsmessig at oppdraget også omfatter
+ barnehagebarn.
 
-Avdeling
-Avdeling for
-barnehage og
-grunnskole
+ Eventuelle andre føringer for hvordan oppdraget skal utføres
+ Ingen.
 
-Saksbehandler
-Bjørn Breivik
-22 24 76 26
+ Rapportering etter gjennomført oppdrag:
+ Kontaktpersoner i KD: Gøril Liland Rongved (Goril-Liland.Rongved@kd.dep.no)/ Monja Marie
+ Evdahl (mme@kd.dep.no)
+ Kontaktperson i HOD: Kari Grette (kg@hod.dep.no )
 
-Vi ber om at etatene vurdere om det er hensiktsmessig at oppdraget også omfatter
-barnehagebarn.
-Eventuelle andre føringer for hvordan oppdraget skal utføres
-Ingen.
-Rapportering etter gjennomført oppdrag:
-Kontaktpersoner i KD: Gøril Liland Rongved (Goril-Liland.Rongved@kd.dep.no)/ Monja Marie
-Evdahl (mme@kd.dep.no)
-Kontaktperson i HOD: Kari Grette (kg@hod.dep.no )
-Utkvittering av utført oppdrag sendes til postmottak@kd.dep.no med kopi til Monja Marie
-Evdahl (mme@kd.dep.no) og Bjørn Breivik (bjorn.breivik@kd.dep.no).
+ Utkvittering av utført oppdrag sendes til postmottak@kd.dep.no med kopi til Monja Marie
+ Evdahl (mme@kd.dep.no) og Bjørn Breivik (bjorn.breivik@kd.dep.no).
 
 Med hilsen
 
 Kjersti Flåten (e.f.)
 ekspedisjonssjef
-Bjørn Breivik
-seniorrådgiver
+                                                                              Bjørn Breivik
+                                                                              seniorrådgiver
+
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi
-Riksrevisjonen
 
-Side 2
+ Riksrevisjonen
+
+ Side 2

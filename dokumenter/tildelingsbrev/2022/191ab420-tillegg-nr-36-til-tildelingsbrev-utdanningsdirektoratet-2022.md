@@ -6,25 +6,20 @@
 - Mottaker: Utdanningsdirektoratet
 - Les hele dokumentet: https://www.regjeringen.no/no/dokument/dep/kd/Tildelingsbrev/id753324/?expand=factbox2629613
 - Original-PDF: https://www.regjeringen.no/contentassets/d7ff3b0447e446a0865cdc409d857825/tillegg-nr.-36-til-tildelingsbrev-til-udir-for-2022-.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 16 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/4ff2d9cf-1b5e-46af-8237-e102191ab420
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Utdanningsdirektoratet
 Postboks 9359 Grønland
 0135 Oslo
 
-Deres ref
-
-Vår ref
-
-Dato
-
-21/6118
-
-16. desember 2022
+Deres ref                                Vår ref                            Dato
+                                         21/6118                            16. desember 2022
 
 Tillegg nr. 36 til tildelingsbrev til Utdanningsdirektoratet for 2022 –
 Justerte tildelinger som følge av nysalderingen
@@ -32,107 +27,44 @@ Justerte tildelinger som følge av nysalderingen
 I henhold til Prop. 21 S (2022–2023) Endringer i statsbudsjettet 2022 under
 Kunnskapsdepartementet og Innst. 117 S (2022–2023), gjøres følgende endringer i
 tildelingen til Utdanningsdirektoratet for 2022:
-Kap.
 
-Post
+  Kap.      Post    Kapittelnavn                                           Endring nå
+                    Postnavn                                                (i 1000 kr)
+  225               Tiltak i grunnopplæringen
+            63      Tilskudd til samisk i grunnopplæringen                     -10 886
+            64      Tilskudd til opplæring av barn og unge                     -11 031
+                    som søker opphold i Norge
+            67      Tilskudd til opplæring i kvensk eller finsk                   -572
+            69      Tiltak for fullføring av videregående                       -1 407
+                    opplæring
+            74      Prosjekttilskudd                                            -3 335
+  3225              Tiltak i grunnopplæringen
+            04      Refusjon av ODA-godkjente utgifter                          35 995
+  228               Tilskudd til private skoler mv.
+            70      Private grunnskoler                                       155 024
+            71      Private videregående skoler                                31 045
+            72      Diverse skoler som gir yrkesrettet                        -12 485
+                    opplæring
+            73      Private grunnskoler i utlandet                              19 419
 
-225
-63
-64
-67
-69
-74
-3225
-04
-228
-70
-71
-72
-73
+ Postadresse             Kontoradresse       Telefon*             Avdeling                Saksbehandler
+ Postboks 8119 Dep       Kirkeg. 18          22 24 90 90          Avdeling for            Young-Ai Hwang
+ 0032 Oslo                                   Org.nr.              videregående            22 24 75 17
+ postmottak@kd.dep.no    www.kd.dep.no       872 417 842          opplæring, fagskole
+                                                                  og kompetansepolitikk
 
-Kapittelnavn
-Postnavn
-Tiltak i grunnopplæringen
-Tilskudd til samisk i grunnopplæringen
-Tilskudd til opplæring av barn og unge
-som søker opphold i Norge
-Tilskudd til opplæring i kvensk eller finsk
-Tiltak for fullføring av videregående
-opplæring
-Prosjekttilskudd
-Tiltak i grunnopplæringen
-Refusjon av ODA-godkjente utgifter
-Tilskudd til private skoler mv.
-Private grunnskoler
-Private videregående skoler
-Diverse skoler som gir yrkesrettet
-opplæring
-Private grunnskoler i utlandet
+[Side 2]
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
-
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
-
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Endring nå
-(i 1000 kr)
--10 886
--11 031
--572
--1 407
--3 335
-35 995
-155 024
-31 045
--12 485
-19 419
-
-Avdeling
-Avdeling for
-videregående
-opplæring, fagskole
-og kompetansepolitikk
-
-Saksbehandler
-Young-Ai Hwang
-22 24 75 17
-
-74
-75
-76
-77
-78
-81
-85
-
-Private videregående skoler i
-utlandet
-Private skoler for funksjonshemmede
-elever
-Andre private skoler
-Den tysk-norske skolen i Oslo
-Kompletterende undervisning
-Elevutveksling til utlandet
-Kompensasjon for merutgifter knyttet til
-covid-19
-
-2 760
-43 869
--535
-233
--792
--1 051
-70 000
-
+             74        Private videregående skoler i                                      2 760
+                       utlandet
+             75        Private skoler for funksjonshemmede                               43 869
+                       elever
+             76        Andre private skoler                                                -535
+             77        Den tysk-norske skolen i Oslo                                        233
+             78        Kompletterende undervisning                                         -792
+             81        Elevutveksling til utlandet                                       -1 051
+             85        Kompensasjon for merutgifter knyttet til                          70 000
+                       covid-19
 Kap. 228 post 71
 Privatskoleloven avgrenser fleksibiliteten som de godkjente private videregående skolene
 har til å gjøre løpende endringer i opplæringsløpene, i tråd med intensjonen bak
@@ -154,15 +86,15 @@ nr. 16. Midlene gjelder økt bemanning på skoler i levekårsutsatte områder, o
 utbetalt direkte fra departementet.
 
 Når det gjelder rapportering om bruk av midlene, vises det til pkt. 8 i tildelingsbrevet for 2022.
+
 Med hilsen
+
 Marius Seljedal (e.f.)
-avdelingsdirektør
+avdelingsdirektør                                                             Young-Ai Hwang
+                                                                              seniorrådgiver
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
 Kopi: Riksrevisjonen
 
-Side 2
-
-Young-Ai Hwang
-seniorrådgiver
+ Side 2

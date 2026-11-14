@@ -8,23 +8,18 @@
 - Original-PDF: https://www.regjeringen.no/contentassets/35697bb9bdbd44bf983e63286871da40/tildelingsbrev-2024-uit-norges-arktiske-universitet_v2.pdf
 - Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
 - Kudos: https://kudos.dfo.no/dokument/a20a7791-faa2-410e-aa07-96de879ec14e
-- Hentet: 2026-11-13
+- Hentet: 2026-11-14
 
 ---
+
+[Side 1]
 
 Universitetet i Tromsø – Norges arktiske
 universitet
 9019 TROMSØ
 
-Deres ref.
-
-Vår ref
-
-Dato
-
-23/4570
-
-6. februar 2024
+Deres ref.                                                Vår ref                                      Dato
+                                                          23/4570                                      6. februar 2024
 
 Tildelingsbrev 2024 til Universitetet i Tromsø - Norges arktiske
 universitet
@@ -46,32 +41,14 @@ Tildelingsbrevet for 2024 består av følgende deler:
 4 Andre forutsetninger og krav .................................................................................................9
 5 Rapportering og resultatoppfølging .....................................................................................12
 
-Postadresse
-Postboks 8119 Dep
-0032 Oslo
-postmottak@kd.dep.no
+ Postadresse                      Kontoradresse                Telefon*                   Avdeling                     Saksbehandler
+ Postboks 8119 Dep                Kirkeg. 18                   22 24 90 90                Avdeling for eierskap i      Linda Johansen
+ 0032 Oslo                                                     Org.nr.                    høyere utdanning og          Elmrhari
+ postmottak@kd.dep.no             www.kd.dep.no                872 417 842                forskning
 
-Kontoradresse
-Kirkeg. 18
-www.kd.dep.no
+[Side 2]
 
-Telefon*
-22 24 90 90
-Org.nr.
-872 417 842
-
-Avdeling
-Avdeling for eierskap i
-høyere utdanning og
-forskning
-
-Saksbehandler
-Linda Johansen
-Elmrhari
-
-1
-
-Regjeringens prioriteringer og forventninger
+1    Regjeringens prioriteringer og forventninger
 
 Kunnskap og kompetanse er avgjørende for et omstillings- og konkurransedyktig Norge.
 Regjeringen fører derfor en offensiv kunnskapspolitikk som tar hele landet i bruk.
@@ -104,7 +81,8 @@ organisasjon med sikte på å gi ansatte i førstelinjen økt tillit.
 Regjeringen lanserte høsten 2023 en forsknings- og innovasjonssatsing på kunstig
 intelligens (KI) og digital sikkerhet for å gi større innsikt i samfunnskonsekvenser for
 teknologiutviklingen og gi mer kunnskap om innovasjonsmuligheter, både i næringslivet og i
-offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter itsystemet til Samordna opptak.
+offentlig sektor. Regjeringen oppgraderer også det nasjonale forskningsnettet og erstatter it-
+systemet til Samordna opptak.
 Internasjonalisering er en forutsetning for kvalitet i norsk forskning og høyere utdanning.
 Samarbeid med internasjonale kunnskapsmiljøer har positive ringvirkninger på kvaliteten i
 norske fagmiljøer, samtidig som det bidrar til å gi unge mennesker verdifull kompetanse om
@@ -112,7 +90,9 @@ de komplekse utfordringene verden står overfor. Regjeringen forventer at virkso
 
 1 Meld. St. 14 (2022–2023) Utsyn over kompetansebehovet i Norge
 
-Side 2
+ Side 2
+
+[Side 3]
 
 bidrar til økt deltakelse i EUs programmer for utdanning, forskning og innovasjon og aktiv
 deltakelse i samarbeidet om politikk og rammebetingelser gjennom Det europeiske
@@ -158,38 +138,27 @@ institusjonene prioriterer disse utdanningene. Utdanningene skal ha høy kvalite
 koblet til praksisfeltet og tilbys i hele landet. Universitetene og høyskolene har et ansvar for å
 øke rekrutteringen.
 
-Side 3
+ Side 3
+
+[Side 4]
 
 Regjeringen er opptatt av å ha et forskningssystem i god balanse og vil derfor legge frem en
 melding til Stortinget om forskningssystemet i løpet av 2025.
 
-2
+2       Mål
 
-Mål
-
-2.1
-
-Kunnskapsdepartements overordnede mål
-
+2.1       Kunnskapsdepartements overordnede mål
 Kunnskapsdepartementet har tre overordnede mål:
-•
-•
-•
-
-Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
-Samfunnet og arbeidslivet har tilgang på relevant kompetanse
-Kunnskapssektoren utjevner sosiale og geografiske forskjeller
-
+    •     Kunnskap legger grunnlag for demokrati, velferd, omstilling og bærekraft
+    •     Samfunnet og arbeidslivet har tilgang på relevant kompetanse
+    •     Kunnskapssektoren utjevner sosiale og geografiske forskjeller
 De tre hovedmålene beskriver samfunnsoppdraget til Kunnskapsdepartementet og blir
 utdypet gjennom åtte undermål som er beskrevet i kap. 1 Hovedinnledning i Prop. 1 S
 (2023–2024) for Kunnskapsdepartementet. Virksomhetene spiller en viktig rolle for å nå
 målene. Det er viktig med godt samspill mellom departementets underliggende virksomheter
 slik at alle bidrar til hverandres måloppnåelse.
 
-2.2
-
-Målstrukturen for sektoren
-
+2.2       Målstrukturen for sektoren
 Kunnskapsdepartementet fastsatte etter dialog med sektoren nye sektormål gjeldende fra
 2023 for statlige universiteter og høyskoler og private høyskoler som mottar statstilskudd.
 Sektormålene samsvarer godt med de overordnede målene i langtidsplanen, som gjelder all
@@ -206,19 +175,18 @@ Kunnskapsdepartementet har i samarbeid med institusjonene definert samfunns- og
 effektmål for større bygge- og rehabiliteringsprosjekter i sektoren. Aktuelle institusjoner må ta
 hensyn til disse målene i planer og i styringen av virksomheten.
 
-2.3
-
-Sektormål og utviklingsavtaler
-
+2.3       Sektormål og utviklingsavtaler
 For 2024 gjelder følgende overordnede og langsiktige sektormål for universiteter og
 høyskoler:
-1. Høy kvalitet i utdanning og forskning
-2. Bærekraftig samfunnsutvikling, velferd og innovasjon
-3. God tilgang til utdanning, forskning og kompetanse i hele landet
+          1. Høy kvalitet i utdanning og forskning
+          2. Bærekraftig samfunnsutvikling, velferd og innovasjon
+          3. God tilgang til utdanning, forskning og kompetanse i hele landet
 Målene og styringsparameterne i utviklingsavtalene beskriver den enkelte institusjons
 strategiske prioriteringer for å bidra til at de nasjonale sektormålene og prioriteringene i
 
-Side 4
+ Side 4
+
+[Side 5]
 
 langtidsplanen nås. Utviklingsavtalen er et verktøy i styringsdialogen, og skal bidra til å
 utvikle institusjonene og sektoren.
@@ -231,10 +199,8 @@ rammeverket for utviklingsavtalene. Utviklingsavtalene reforhandles i utgangspun
 fjerde år, men departementet åpner for eventuell revisjon av avtalene etter to år ved særlige
 behov.
 
-2.4
-
-Utviklingsavtale for Universitetet i Tromsø – Norges arktiske
-universitet (UiT) 2023–2026
+2.4       Utviklingsavtale for Universitetet i Tromsø – Norges arktiske
+          universitet (UiT) 2023–2026
 
 Mål 1 – Internasjonalt fremragende på kunnskap og kompetanse om og for Arktis og
 nordområdene
@@ -264,18 +230,15 @@ perioden vil UiT prioritere faglig og institusjonelt samarbeid med universitetsa
 Five og Eugloh. UiT vil øke antall samarbeidsprosjekter med offentlige og private
 virksomheter og øke antall nærings- og offentlig ph.d.
 
-Side 5
+ Side 5
+
+[Side 6]
 
 Styringsparametere:
-1.
-2.
-3.
-4.
-
-Utvikler flere ledende fagmiljøer i front av den internasjonale kunnskapsutviklingen.
-Videreutvikler attraktive utdanningstilbud tilpasset nærings- og samfunnsliv i nord.
-Styrker kompetanse om og for samiske og kvenske forhold.
-Er en pådriver for økt samarbeid i Arktis og nordområdene.
+   1.     Utvikler flere ledende fagmiljøer i front av den internasjonale kunnskapsutviklingen.
+   2.     Videreutvikler attraktive utdanningstilbud tilpasset nærings- og samfunnsliv i nord.
+   3.     Styrker kompetanse om og for samiske og kvenske forhold.
+   4.     Er en pådriver for økt samarbeid i Arktis og nordområdene.
 
 Mål 2 – Nyskapende, demokratiske og bærekraftige løsninger på store
 samfunnsutfordringer
@@ -304,13 +267,15 @@ bidra til å løse store samfunnsfordringer. Gjennom omstilling vil UiT sikre ef
 forsvarlig drift, gode mekanismer for omfordeling av studieplasser og en bærekraftig
 portefølje.
 Styringsparametere:
-5. Praktiserer åpen vitenskap.
-6. Utvikler kunnskap, metoder og virkemidler som bidrar til å løse store
-samfunnsutfordringer.
-7. Fremmer tverrfaglighet, samskaping og innovasjon.
-8. Styrker kapasitet og omstillingsevne.
+   5. Praktiserer åpen vitenskap.
+   6. Utvikler kunnskap, metoder og virkemidler som bidrar til å løse store
+      samfunnsutfordringer.
+   7. Fremmer tverrfaglighet, samskaping og innovasjon.
+   8. Styrker kapasitet og omstillingsevne.
 
-Side 6
+ Side 6
+
+[Side 7]
 
 Mål 3 - Utvikle studenter og ansattes kompetanse og talent, med mangfold som
 drivkraft og ressurs
@@ -338,19 +303,14 @@ gjennomføre en overordnet plan som bidrar til bedre utnyttelse av de ulike camp
 fortrinn, utviklingsmuligheter og studiemiljø. UiT skal prioritere tiltak som vil redusere andelen
 leide lokaler.
 Styringsparametere:
-9. Utvikler, tiltrekker og beholder talenter.
-10. Rekrutterer og utruster studenter som lærer hele livet.
-11. Prioriterer kunnskapsutvikling og innovativ formidling som fremmer mangfold.
-12. Videreutvikler UiT sine arbeids-, lærings- og studiemiljøer
+    9. Utvikler, tiltrekker og beholder talenter.
+    10. Rekrutterer og utruster studenter som lærer hele livet.
+    11. Prioriterer kunnskapsutvikling og innovativ formidling som fremmer mangfold.
+    12. Videreutvikler UiT sine arbeids-, lærings- og studiemiljøer
 
-3
+3     Tildeling
 
-Tildeling
-
-3.1
-
-Tildeling over kap. 260, post 50
-
+3.1       Tildeling over kap. 260, post 50
 Stortinget har bevilget 43 mrd. kroner over kap. 260, post 50 til statlige universiteter og
 høyskoler. Det ligger til grunn en prisjustering i statsbudsjettet på 4,4 pst. fra 2023 til 2024 for
 50- og 70-poster. Prisjusteringsbeløpet for universiteter og høyskoler ble redusert med 50
@@ -358,7 +318,9 @@ mill. kroner i budsjettforliket.
 Kunnskapsdepartementet tildeler med dette 4 061 059 000 kroner til Universitetet i Tromsø
 – Norges arktiske universitet.
 
-Side 7
+ Side 7
+
+[Side 8]
 
 For en forklaring av endringene viser vi til Orientering om statsbudsjettet 2024 for universitet
 og høgskular etter vedtak i Stortinget 18. desember 2023, inkludert endringene som kom i
@@ -377,31 +339,20 @@ situasjonen, og de endelige rammene vil bli fastsatt i de ordinære budsjettpros
 studieplass er definert som 60 studiepoeng. Departementet understreker at det vil bli aktuelt
 å flytte midler mellom institusjoner dersom opptaket og produksjonen ikke gjenspeiler
 forventningene om kapasitet i utdanningene.
-3.1.1
 
-Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
-
+3.1.1     Studieplasser i forbindelse med Revidert nasjonalbudsjett 2020
 I 2023 ble det begynt en utfasing av studieplassmidlene som ble tildelt i forbindelse med
 Revidert nasjonalbudsjett 2020. Følgende studieplasser blir faset ut med halvårseffekt i
 2024:
-•
-
-•
-
-4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
-barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
-økonomisk-administrative fag, utøvende musikk og MNT
-1-årige studieplasser i PPU/PPU-Y
-
+   •      4-årige studieplasser i sykepleierutdanning, andre helse- og sosialfagutdanninger,
+          barnehagelærerutdanning, andre lærerutdanninger og pedagogikk, juridiske og
+          økonomisk-administrative fag, utøvende musikk og MNT
+   •      1-årige studieplasser i PPU/PPU-Y
 Studieplasser tildelte til korte utdanninger blir faset ut med en helårseffekt. Det gjelder
 følgende:
-•
-•
-
-2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
-design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
-3-årige studieplasser i animasjon
-
+   •      2-årige studieplasser i videreutdanning i sykepleie og utdanning i film, kunst og
+          design, musikkterapi, biomedisin, klinisk ernæring og fysisk planlegging
+   •      3-årige studieplasser i animasjon
 Regjeringen vil trekke ut de øvrige midlene fremover etter hvert som studentene tatt opp i
 2020, 2021 og 2022 fullfører sine utdanninger. Kunnskapsdepartementet vil understreke at
 dette ikke nødvendigvis innebærer at institusjonene reduserer aktiviteten ved de
@@ -410,12 +361,11 @@ legger til grunn at institusjonene opprettholder kapasiteten i utdanninger med v
 høy etterspørsel i arbeidsmarkedet. Departementet legger til grunn at kapasiteten særskilt
 opprettholdes i utdanninger innenfor helse- og sosialfag og teknologifag.
 
-Side 8
+ Side 8
 
-3.2
+[Side 9]
 
-Tildeling over kap. 231, post 21
-
+3.2       Tildeling over kap. 231, post 21
 I statsbudsjettet for 2024 er det bevilget 50 mill. kroner til å styrke
 barnehagelærerutdanningen (BLU). Gode barnehagelærere er nødvendig for god
 pedagogisk kvalitet i barnehagen, og det er viktig at utdanningen har høy kvalitet, er godt
@@ -426,30 +376,20 @@ BLU til den tverrfaglige og krevende utdanningen som var intensjonen med reforme
 Kunnskapsdepartementet tildeler med dette Universitetet i Tromsø – Norges arktiske
 universitet 2 560 000 kroner til dette formålet.
 
-3.3
-
-Utbetaling
-
+3.3       Utbetaling
 Kunnskapsdepartementet utbetaler midlene over kap. 260, post 50 i tre rater, hhv. i januar,
 mai og september.
 Midlene over kap. 231, post 21 utbetales i én rate i januar.
 
-3.4
-
-Fullmakter
-
+3.4       Fullmakter
 Stortinget har gitt virksomheten fullmakter som fornyes for ett år av gangen i forbindelse med
 Stortingets behandling av statsbudsjettet. I tillegg har departementet delegert administrativ
 fullmakt til virksomheten. Se oversikt over delegerte fullmakter i Fullmakter for statlige
 universiteter og høyskoler 2024.
 
-4
+4     Andre forutsetninger og krav
 
-Andre forutsetninger og krav
-
-4.1
-
-Fellesføringer fra regjeringen
+4.1       Fellesføringer fra regjeringen
 
 4.1.1 Systematisk og helhetlig arbeid for å redusere klimagassutslipp,
 naturfotavtrykk og energibruk
@@ -461,25 +401,23 @@ Universitetet i Tromsø – Norges arktiske universitet skal også vurdere hvord
 klimaendringene vil påvirke virksomheten. Universitetet i Tromsø – Norges arktiske
 universitet skal gjøre systematiske vurderinger av egen energibruk og ta i bruk lønnsomme
 energieffektive løsninger, samt øke energifleksibiliteten der dette er relevant.
-4.1.2
 
-Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse.
-
+4.1.2     Positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse.
 Regjeringen har høye ambisjoner når det gjelder mangfold. Statlige virksomheter skal ha en
 positiv utvikling i antall ansettelser av personer med funksjonsnedsettelse og/eller fravær fra
 arbeid, utdanning eller opplæring. Arbeidsgiverne skal i samarbeid med de tillitsvalgte selv
 definere et hensiktsmessig ambisjonsnivå ut fra virksomhetens egenart og størrelse.
 
-Side 9
+ Side 9
+
+[Side 10]
 
 Universitetet i Tromsø – Norges arktiske universitet skal i årsrapporten oppgi antallet
 ansettelser av personer med funksjonsnedsettelse og/eller fravær fra arbeid, utdanning eller
 opplæring i 2024 og omtale utviklingen sett opp mot virksomhetens gjennomsnitt for 2020 og
 2021.
-4.1.3
 
-Redusere konsulentbruken
-
+4.1.3      Redusere konsulentbruken
 Det er et mål at staten samlet sett skal redusere konsulentbruken ved å utvikle
 egenkompetanse. Universitetet i Tromsø – Norges arktiske universitet skal arbeide for å
 redusere konsulentbruken på områder der det ligger til rette for å benytte interne ressurser
@@ -498,14 +436,9 @@ vesentlige, bør virksomheten i note til årsregnskapet spesifisere dette nærme
 virksomheten har større kjøp av konsulenttjenester fra andre statlige leverandører, bør dette
 fremgå særskilt.
 
-4.2
+4.2     Andre krav
 
-Andre krav
-
-4.2.1
-
-Sikkerhet og beredskap
-
+4.2.1      Sikkerhet og beredskap
 Styringsdokument for arbeidet med sikkerhet og beredskap i Kunnskapsdepartementets
 sektor skal ligge til grunn for arbeidet med samfunnssikkerhet, nasjonal sikkerhet,
 informasjonssikkerhet og personvern. Rapporteringskravene nedenfor gjenspeiler krav som
@@ -519,23 +452,24 @@ oppgave å vedlikeholde en løpende situasjonsforståelse for Kunnskapsdeparteme
 blant annet kartlegge sikkerhetstilstanden i sektoren.
 Universitetet i Tromsø – Norges arktiske universitet skal i årsrapporten for 2024 rapportere
 om følgende:
-1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
-nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
+   1. Hvordan kartlegger virksomheten egne verdier og avhengigheter med hensyn til
+      nasjonal sikkerhet? Hvis det ikke er gjennomført kartlegging og vurdering av verdier
 
-Side 10
+ Side 10
 
-og avhengigheter, hvilke planer har Universitetet i Tromsø – Norges arktiske
-universitet for dette arbeidet?
-2. Når reviderte Universitetet i Tromsø – Norges arktiske universitet sist sin ROSanalyse? Hvilke områder er identifisert som de med høyest risiko for virksomheten?
-3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
-gjennomført i 2024.
-4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
-hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
-virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
-4.2.2
+[Side 11]
 
-Informasjonssikkerhet og personvern
+      og avhengigheter, hvilke planer har Universitetet i Tromsø – Norges arktiske
+      universitet for dette arbeidet?
+   2. Når reviderte Universitetet i Tromsø – Norges arktiske universitet sist sin ROS-
+      analyse? Hvilke områder er identifisert som de med høyest risiko for virksomheten?
+   3. Beskriv de viktigste læringspunktene fra krise- og beredskapsøvelser som er
+      gjennomført i 2024.
+   4. Redegjør for arbeidet med å utarbeide et styringssystem for sikkerhet, herunder
+      hvordan dette samordnes med ledelsessystem for informasjonssikkerhet og
+      virksomhetsstyringen for øvrig. (jf. styringsdokumentets kap. 7).
 
+4.2.2      Informasjonssikkerhet og personvern
 Krav i virksomhets- og økonomiinstruksen skal ligge til grunn for arbeidet med
 informasjonssikkerhet og personvern ved Universitetet i Tromsø – Norges arktiske
 universitet. I lys av det skjerpede trusselbildet internasjonalt, den økende avhengigheten av
@@ -544,32 +478,20 @@ Kunnskapsdepartementet at Universitetet i Tromsø – Norges arktiske universite
 arbeid med å forebygge, oppdage og håndtere alvorlige IKT-sikkerhetshendelser og brudd
 på personopplysningssikkerheten. I den forbindelse er behovet for tilfredsstillende
 kontinuitets- og beredskapsplaner særlig viktig.
-4.2.3
 
-Avsetninger
-
+4.2.3      Avsetninger
 F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og anvendelse av
 ubrukte budsjettmidler (avsetninger) regulerer institusjonenes adgang til å utsette aktivitet og
 overføre ubenyttet bevilgning fra Kunnskapsdepartementet fra ett budsjettår til et annet.
 Universitetet i Tromsø – Norges arktiske universitet skal i årsrapporten for 2024 kort omtale
 følgende:
-•
-•
-
-Årsakene til avsetningene
-Om størrelsen på avsetningene har påvirket måloppnåelsen
-
+   •    Årsakene til avsetningene
+   •    Om størrelsen på avsetningene har påvirket måloppnåelsen
 Videre skal følgende kommenteres i ledelseskommentarene til årsregnskapet:
-•
-•
+   •    Størrelsen på avsetningene
+   •    Hva avsetningene planlegges brukt til
 
-Størrelsen på avsetningene
-Hva avsetningene planlegges brukt til
-
-4.2.4
-
-Utarbeidelse av investeringsplan
-
+4.2.4      Utarbeidelse av investeringsplan
 I henhold til F-05-20 Reglement for statlige universiteter og høyskolers oppbygging og
 anvendelse av ubrukte budsjettmidler (avsetninger), skal styret beslutte hvor mye som skal
 avsettes til fremtidige investeringer i forbindelse med fastsettelse av institusjonens
@@ -578,20 +500,17 @@ Departementet har utarbeidet en veileder til utforming av investeringsplanen. Vi
 investeringsplanen utarbeides i henhold til denne veilederen, fra og med årsregnskapet for
 2023.
 
-Side 11
+ Side 11
 
-4.2.5
+[Side 12]
 
-Tilstandsvurdering av bygg
-
+4.2.5      Tilstandsvurdering av bygg
 I henhold til Strategi for bygg og eigedom i statleg sivil sektor skal de selvforvaltende
 universitetene gjennomføre en periodisk tilstandsvurdering, som grunnlag for å styrke det
 verdibevarende vedlikeholdet. Kunnskapsdepartementet ber de selvforvaltende
 universitetene utarbeide en samlet tilstandsvurdering av eiendomsporteføljen hvert år.
-4.2.6
 
-Samarbeid og spesielle oppgaver knyttet til samisk utdanning og forskning
-
+4.2.6      Samarbeid og spesielle oppgaver knyttet til samisk utdanning og forskning
 I mars 2023 la regjeringen fram Meld. St. 13 Samisk språk, kultur og samfunnsliv. I
 meldingen er det forventning om at institusjonene som har et samisk utdanningstilbud,
 vurderer hvordan de best kan legge til rette for en vekst i de samiske fagmiljøene og i antall
@@ -607,12 +526,9 @@ fag. Institusjonene blir bedt om å utforske nye måter å gi kvalifiserende beg
 samisk på, som for eksempel forkurs, sommerkurs, tresemesterordninger eller liknende og at
 informasjonen om alle studietilbud er oppdatert og tilgjengelig.
 
-5
-5.1
+5     Rapportering og resultatoppfølging
 
-Rapportering og resultatoppfølging
-Rapportering om resultater
-
+5.1     Rapportering om resultater
 Årsrapport for 2024 skal sendes til Kunnskapsdepartementet (postmottak@kd.dep.no) innen
 15. mars 2025, med kopi til Riksrevisjonen og Database for statistikk om høyere utdanning
 (DBH) (dbh@hkdir.no). Departementet gjør oppmerksom på at årsrapporten skal publiseres
@@ -631,7 +547,9 @@ for statlige universiteter og høyskoler».
 Universitetet i Tromsø – Norges arktiske universitet skal rapportere data til DBH. Krav til
 datarapporteringen og fristene gjennom året finnes på DBHs nettsider.
 
-Side 12
+ Side 12
+
+[Side 13]
 
 Universitetet i Tromsø – Norges arktiske universitet skal avlegge delårsregnskap og
 årsregnskap. Departementet vil i egne brev angi hvilke frister og krav som gjelder for
@@ -641,18 +559,12 @@ statsregnskapet for 2024.
 De selvforvaltende universitetene skal sende en egen, felles tilstandsvurdering for
 eiendomsporteføljen innen 15. mars 2025.
 
-5.2
-
-Satsingsforslag for 2026
-
+5.2      Satsingsforslag for 2026
 Universitetet i Tromsø kan sende eventuelle satsingsforslag i tråd med Veiledning til
 fremstilling av satsingsforslag for 2026. Frist for innsendelse av satsingsforslag for 2026 er
 1. november 2024. Forslaget sendes til postmottak@kd.dep.no.
 
-5.3
-
-Styringsdialogen i 2024
-
+5.3      Styringsdialogen i 2024
 Universitetet i Tromsø – Norges arktiske universitet blir ikke innkalt til etatsstyringsmøte i
 2024, men får en skriftlig tilbakemelding fra departementet i løpet av 1. halvår 2024 på
 bakgrunn av blant annet årsrapporten for 2023, tilstandsrapporten for høyere utdanning 2023
@@ -662,35 +574,30 @@ Med hilsen
 
 Maria Tagmatarchi Storeng (e.f.)
 ekspedisjonssjef
-Charlotte Rustad
-konst. avdelingsdirektør
+                                                                              Charlotte Rustad
+                                                                              konst. avdelingsdirektør
 
 Dokumentet er elektronisk signert og har derfor ikke håndskrevne signaturer
 
-Side 13
+ Side 13
+
+[Side 14]
 
 Vedlegg og instrukser oppgitt nedenfor finnes på Kunnskapsdepartementets nettside:
-▪
-▪
-▪
-▪
-▪
-▪
-
-Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
-Stortinget 18. desember 2023
-Krav til årsrapport for statlige universiteter og høyskoler 2024
-Fullmakter for statlige universiteter og høyskoler 2024
-Veiledning til fremstilling av satsingsforslag for 2026
-Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2024
-Virksomhets- og økonomiinstruks (oppdatert)
+   ▪   Orientering om statsbudsjettet for 2024 for universitet og høgskular etter vedtak i
+       Stortinget 18. desember 2023
+   ▪   Krav til årsrapport for statlige universiteter og høyskoler 2024
+   ▪   Fullmakter for statlige universiteter og høyskoler 2024
+   ▪   Veiledning til fremstilling av satsingsforslag for 2026
+   ▪   Hovedtrekk i styringsdialogen for statlige universiteter og høyskoler 2024
+   ▪   Virksomhets- og økonomiinstruks (oppdatert)
 
 Kopi
-Riksrevisjonen
-Direktoratet for høyere utdanning og kompetanse
-Norges arktiske studentsamskipnad
-Sametinget
-Statsforvalteren i Nordland
-Statsforvalteren i Troms og Finnmark
+ Riksrevisjonen
+ Direktoratet for høyere utdanning og kompetanse
+ Norges arktiske studentsamskipnad
+ Sametinget
+ Statsforvalteren i Nordland
+ Statsforvalteren i Troms og Finnmark
 
-Side 14
+ Side 14
