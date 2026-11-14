@@ -1,1091 +1,220 @@
-# NOU 2024: 11, del 10 av 16 (side 130–141)
+# NOU 2024: 11, del 10 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/defc774c-nou-2024-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-11/id3045067/
 - Original-PDF: https://www.regjeringen.no/contentassets/02c2c00e81844931b028606567a99395/no/pdfs/nou202420240011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 116 figurer, 540 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 130]
-
-128
-
-Kapittel 8
-
-NOU 2024: 11
-Lavlønn i Norge
-
-grunn til å anta at denne gråsonen kan inneholde
-innslag av lavlønn. For eksempel har utviklingen
-av digitale plattformer og såkalt «gig»-virksomhet
-ofte basert seg på selvstendig næringsdrivende i
-stedet for fast arbeid (Weil, 2019). I mange tilfeller
-er disse arbeidstakerne i praksis ansatte. Tariffavtalen for Foodora-ansatte i 2019 er et eksempel på
-at avtaleverket i det norske arbeidslivet også kan
-benyttes til å håndtere slike gråsoner.
-Disse problemstillingene ble også drøftet i
-Fougner-utvalget (NOU 2021: 9), og fra 1. januar
-2024 er arbeidstakerbegrepet presisert i arbeidsmiljøloven. I tillegg til oppfølging av Fougnerutvalgets forslag om en tydeligere definisjon av
-innleie-begrepet har regjeringen tatt initiativ til
-betydelige innstramminger i adgangen til innleie.
-Dette er gjort for å redusere bemanningsbransjens rolle og begrense dens geografiske og
-næringsmessige nedslagsfelt.
-Med virkning fra 1. april 2023 er det strammet
-inn på adgangen til innleie fra bemanningsforetak.
-Tidligere var slik innleie lov «når arbeidet er av
-midlertidig karakter». Denne adgangen er nå opphevet. For å sikre forsvarlig drift av helse- og
-omsorgstjenester er det vedtatt en særregel for
-innleie av helsepersonell i forskrift om innleie fra
-bemanningsforetak. Denne forskriften – som også
-har bestemmelser om rådgivere og konsulenter
-med spesialkompetanse – gir en noe videre adgang
-til innleie enn på andre områder. Det er videre innført forbud mot å leie inn arbeidstakere til bygningsarbeid på byggeplasser i Oslo, tidligere
-Viken og Vestfold.5 Se også omtale av innleieregelverket i boks 8.2.
-De alternative tilknytningsformene utgjør en
-begrenset del av den norske økonomien. Cools
-mfl. (2023) har sett på personer med atypisk
-arbeid som hovedtilknytning i arbeidslivet i perioden 1995–2021. De finner at andelen med tradisjonell fast ansettelse som sitt hovedarbeidsforhold
-var i underkant av 90 prosent i 2021, mens 3,2 prosent var selvstendige næringsdrivende6 og 8 prosent var midlertidige ansettelser, målt ved A-ordningen.7 1,3 prosent var ansatt i et bemannings5
-6
-
-Forskrift om innleie fra bemanningsforetak § 4.
-Personer som jobber i primærnæringene, er holdt utenfor
-analysene til Cools mfl. (2023) fordi sysselsetting der i stor
-grad er basert på selvstendig næringsvirksomhet. Sysselsettingen i primærnæringene er raskt fallende over perioden, og denne utviklingen vil dermed dominere utviklingen
-i andelen selvstendige. Utviklingen i disse næringene er
-imidlertid på siden av problemstillingene de undersøker og
-er ikke sett på separat. Cools mfl. (2023) teller likevel personer i primærnæringene som sysselsatte, slik at de er
-med i nevneren når vi regner ut andeler i ulike tilknytningsformer.
-
-byrå/innleide, enten fast eller midlertidig. Hvilken populasjon og statistikk som ligger til grunn
-for analysene i Cools mfl. (2023) er nærmere
-omtalt i punkt 8.4.
-Figur 8.1 viser hvordan de ulike tilknytningsformene har utviklet seg de siste 25 årene. Vi ser
-at andelen selvstendige næringsdrivende som
-andel av alle sysselsatte, har falt fra 6 prosent i
-2002 til 3,2 prosent i 2021. En eventuell økt utbredelse av plattformøkonomi/gig-virksomhet o.l.
-domineres altså av andre utviklingstrekk i den
-overordnede utviklingen (Cools mfl., 2023). Andel
-midlertidige ansatte varierer gjennom hele perioden, noe som reflekterer både konjunkturfølsomhet i bruken av midlertidig ansatte og omfanget
-av arbeidsinnvandring. Overordnet har likevel
-nivået holdt seg stabilt gjennom perioden (Cools
-mfl., 2023). I 2015 ble det på generelt grunnlag lov
-å ansette i midlertidige stillinger. Innføringen av
-A-ordningen gir et databrudd på samme tid, men
-det kan se ut som det kom en svak stigning i årene
-etter, før andelen falt igjen i 2020–2021 da arbeidsinnvandringen var begrenset som følge av koronapandemien.8
-I forhold til de to andre alternative tilknytningsformene, midlertidige og selvstendige, er
-andelen ansatte i bemanningsbyrå liten, men stigende i perioden vi ser på. Denne utviklingen må
-blant annet ses i sammenheng med innleieforbudet som gjaldt fra 1971 til 2000. Den største endringen skjer likevel ved EU-utvidelsen i 2004 som
-også åpnet for mer arbeidsinnvandring fra land
-med betydelig lavere lønnskostnadsnivå. Sett bort
-i fra et lite fall ved finanskrisen er utviklingen forholdsvis stabil både før og etter EU-utvidelsen,
-men på et høyere nivå i tiden etter.
-De siste 20 årene har det også vært en rekke
-endringer i innleieregelverket. I 2013 kom reglene
-om likebehandling, der bemanningsforetakene
-pålegges å sørge for at utleide arbeidstakere skal
-ha samme lønn som tilsvarende faste ansatte hos
-den som leier inn. I 2019 kom det innstramminger
-som bl.a. gjorde at det ikke lenger var lov for
-bemanningsbyråene å ha fast ansatte uten lønn
-mellom oppdrag. De siste innstrammingene for
-innleie omtalt i teksten over, ble iverksatt fra 1.
-7
-
-8
-
-2021 var det første året midlertidige jobber ble målt direkte
-i A-ordningen. Cools mfl. (2023) har derfor også sett på
-korte midlertidige jobber, målt som ansettelser på under
-ett år. Ved dette målet lå andelen midlertidige ansettelser
-på 4 prosent i 2021.
-Dette fallet kan dog være forsterket av at de i denne rapporten ser på midlertidige ansatte definert som ansettelser
-under ett år. Statistikken kan derfor også fange opp faste
-ansatte som ble sagt opp etter kort tid, f.eks. som følge av
-pandemien.
-
-[Side 131]
-
-129
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Kapittel 8
-
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
-1995
+# Økonomisk forskning om makt og markedsforhold i arbeidslivet
 
-1997
-
-1999
-
-2001
-
-Midlertidig (< 1 år)
-
-2003
-
-2005
-
-2007
-
-Bemanningsbyrå
-
-2009
-
-2011
-
-2013
-
-Selvstendig
-
-2015
-
-2017
-
-2019
-
-2021
-
-Midlertidig (a-ord.)
-
-Figur 8.1 Tilknytningsform i hovedarbeidsforhold, andel av alle sysselsatte. 20–66 år. Prosent. 1995–20211
-1
-
-Brudd i statistikken i 2015
-Kilde: Cools mfl. (2023).
-
-april 2023 med en overgangsperiode for de nye
-reglene fram til 1. juli 2023.
-Berge og Edelmann (2023) har sett på hvordan antall lønnstakere i utleienæringen har endret
-seg etter at det ble innført innstramninger i
-reglene for innleie/utleie av arbeidskraft. De finner et fall i antall innleide mot slutten av 2022,
-etter en økning i årene før pandemien. Nedgangen skyldes både at flere går ut av utleienæringen
-og at færre kommer inn. Det henger trolig
-sammen med innstramningene i regelverket i
-2019, men noe kan også skyldes konjunkturer.
-Blant de som gikk ut av næringen var det flest
-som hadde jobbet i Oslo og daværende Viken, og
-nedgangen var særlig stor i de typiske bygg- og
-anleggsyrkene. Dette er naturlig da en av regelendringene i 2023 var et forbud mot innleie på
-byggeplasser i Oslo, tidligere Viken og Vestfold.
-Berge og Edelmann (2023) finner at mange som
-byttet næring bort fra utleie fortsatt har fast jobb.
-Alsos mfl. (2023) har gjennomført en spørreundersøkelse for å se på hvordan virksomhetene i
-byggenæringen ville håndtere innstramningene i
-innleieregelverket. I forbudssonen i Oslo, daværende Viken og Vestfold svarte flest virksomheter
-at de ville øke bruken av innleide fra produksjonsbedrifter, øke bruken av underentreprenører og ta
-færre oppdrag. Noen færre ville bruke mer midlertidige ansettelser og enda noen færre ville øke
-bruk av overtid eller ansette flere fast i virksomheten. Bildet var omtrent det samme blant virksom-
-
-heter med oppdrag utenfor forbudssonen, med
-unntak av at klart flest ville ta færre oppdrag.
-Næringer og andre kjennetegn
-Cools mfl. (2023) finner at andelene alternative tilknytningsformer og utviklingen i disse varierer
-mye mellom næringsgrupper, men også at det er
-noen likheter i utviklingen over tid. Midlertidig
-arbeid er mest vanlig i næringen overnatting og
-servering og har vært det de siste 20 årene (2002–
-2021). I perioden 2015–2021 er andelen midlertidig ansatte i næringen på rundt 10 prosent. Kultur, underholdning og fritid har rundt 5 prosent
-midlertidig ansatte mellom 2015–2021, mens de
-øvrige næringene har andeler under dette. Andelen midlertidig ansatte i flere av næringene følger
-det samme utviklingsmønsteret, noe som kan
-indikere at andelen drives av forhold som gjelder
-hele økonomien (Cools mfl., 2023). Helse- og sosialtjenester har nest størst andel i første del av perioden, fra 2002–2014, men andelen faller kraftig
-etter tidsseriebruddet i 2015. Det kan tyde på at
-det har vært mange feilregistreringer av korte
-jobber innen denne næringen. Undervisning ligger rundt 5 prosent fram til 2015, men faller også
-etter bruddet.
-Selvstendige næringsdrivende er mest vanlig i
-kultur, underholdning og fritid, etterfulgt av personlig tjenesteyting, som for eksempel kan være
-frisører og annen kroppspleie, men også vaskeri
-og begravelsesbyråvirksomhet. I alle næringer
-
-[Side 132]
-
-130
-
-Kapittel 8
-
-NOU 2024: 11
-Lavlønn i Norge
-
-har imidlertid andelen selvstendige gått tydelig
-ned over tid, spesielt i bygg og anlegg.
-For innleide har Cools mfl. (2023) ikke informasjon om hvilken næring de jobber i, utover at
-de jobber i bemanningsbransjen. Av NHO Service
-og Handels bemanningsbarometer framgår det at
-bygg og anlegg, industri og produksjon, og lager,
-logistikk og transport var de tre største næringene i 2019 og 2022 (NHO, 2019 & 2022). Bygg og
-anlegg er klart størst disse årene, med henholdsvis 31,5 prosent og 24,4 prosent av de utfakturerte
-timene, men i 2023 er næringen nede på 13,3
-posent og er forbigått av industri og produksjon
-og oppvekst og utdanning. Dette må ses i sammenheng med innstramningene i regelverket
-omtalt over.
-Utsatte grupper på arbeidsmarkedet har i snitt
-høyere sannsynlighet for å være i et alternativt
-ansettelsesforhold. Forskjellene er imidlertid
-størst i starten av perioden 1997–2021, som Cools
-mfl. (2023) studerer. For innvandrere og personer
-med lite utdanning har det vært en vekst i andelen
-som er ansatt midlertidig eller i bemanningsbyrå.
-Blant personer med lite utdanning og innvandrere
-fra Afrika, Asia og Latin-Amerika er det mer vanlig
-å ha en midlertidig jobb enn i resten av befolkningen.
-Tall fra SSB viser at i 4. kvartal 2022 var andelen med en midlertidig ansettelse blant innvandrere 14 prosent, mot 12 prosent i hele befolkningen (Taha, 2023). Det er særlig innvandrere med
-kort botid som trekker snittet opp, og blant sysselsatte innvandrere med botid under fire år var hele
-23 prosent midlertidig ansatt (Taha, 2023). For
-gruppen med botid på 7 år eller mer er andelen
-midlertidige det samme som for resten av befolkningen.
-Veksten i andelen ansatte i bemanningsbyrå
-gjennom perioden drives av innvandrere fra ØstEuropa (Cools mfl., 2023). Innleie er mer utbredt
-blant innvandrere enn blant norskfødte, og i særlig grad blant innvandrere fra Sentral- og ØstEuropa. Flertallet av de ansatte i bemanningsbransjen har innvandrerbakgrunn, og utenlandske pendlere/ikke bosatte fra EU-land i Sentralog Øst Europa har utgjort om lag en tredel av de
-sysselsatte i bemanningsbransjen (Nergaard,
-2021).
-For selvstendig næringsdrivende er andelen
-fallende for alle befolkningsgrupper. Innvandrere
-og lavt utdannede har høyere andel selvstendige
-enn blant alle sysselsatte, men det er ingen øvrige
-forskjeller mellom innvandrergrupper eller mellom dem med høyere utdanning enn grunnskole
-(Cools mfl., 2023).
-
-Det er en noe større andel kvinner enn menn
-som jobber midlertidig, men forskjellen mellom
-kjønnene er ikke veldig stor (Cools mfl., 2023).
-For selvstendige næringsdrivende derimot er det
-klart høyere andel blant menn enn blant kvinner.
-Det er også noen tydelige forskjeller mellom
-aldersgrupper når det gjelder alternative tilsettingsforhold. Midlertidige jobber er vanligst i
-alderen 20-25 år. Det er også mest vanlig å være
-utleid blant unge, men sammenlignet med midlertidig jobb strekker disse jobbene seg over lengre
-aldersspenn og utgjør en større del av arbeidsmarkedskarrieren. Det er derimot vanligere å
-være selvstendig sent i karrieren.
-
-8.3
-
-Lavlønn blant midlertidig ansatte
-og innleide/utleide arbeidstakere
-
-Personer med alternative tilknytningsformer inneholder både grupper som klarer seg godt i
-arbeidsmarkedet, og utsatte grupper som sliter
-med å få et stabilt fotfeste i arbeidslivet. På samme
-måte som i kapittel 7 om kjennetegn ved de lavest
-lønte, ser vi derfor blant annet på forekomsten av
-lavlønn for midlertidig ansatte og utleide arbeidstakere som kun er i jobb i 2022.
-Vi har ikke mulighet for å benytte det samme
-tallgrunnlaget for selvstendige næringsdrivende
-da disse ikke mottar lønn, men næringsinntekt.
-De er dermed ikke en del av lønnsstatistikken, og
-det finnes ikke tilsvarende statistikk for lavlønnsforekomst som for de øvrige gruppene. Det er
-ikke uvanlig for selvstendig næringsdrivende å
-kombinere næringsinntekt og lønnsinntekt, men
-det er mindre vanlig for de som er selvstendige
-over tid (Alsos mfl., 2022). Norge har, i likhet med
-de andre nordiske landene, en lav andel selvstendig næringsdrivende sammenlignet med andre
-europeiske land (Alsos mfl., 2022).
-Ved å ta utgangspunkt i lønnsstatistikken for
-populasjonen som kun er i jobb i 2022 viser figur
-8.3 at forekomsten av lønn under 2/3M-grensen
-er 21 prosent blant midlertidig ansatte, mot 5 prosent blant fast ansatte. Videre framgår det at midlertidig ansatte utgjør 27 prosent av årsverkene
-under 2/3M-grensen. Blant de midlertidige
-årsverkene under 2/3M-grensen er 54 prosent
-deltidsansatte, mens for fast ansatte er det 34 prosent.
-I 2022 var det 11 prosent av alle ansatte i utleie
-av arbeidskraft som hadde lønn under 2/3M-grensen for utvalget «kun i jobb». Sammenlignet med
-midlertidig ansatte er altså forekomsten av lavlønn nesten halvert, samtidig som den er nesten
-
-[Side 133]
-
-131
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Kapittel 8
-
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-Alle
-
-Utleide
-
-Midlertidig
-
-Lavlønnsforekomst
-
-Fast
-
-Andel av lavtlønte
-
-Figur 8.2 Lavlønnsforekomst og andel av lavlønte under 2/3M-grensen. Kun i jobb, uten lærlinger.1 Prosent.
-2022
-1
-
-«Uoppgitt ansettelsesform» er ikke inkludert i figuren da dette kun utgjør en liten andel. Utleide kan både være fast og midlertidig ansatt.
-Kilde: Statistisk sentralbyrå.
-
-dobbelt så høy som blant alle sysselsatte. 65 prosent av de innleide under grensen jobbet heltid og
-om lag 70 prosent var fast ansatt. Fra perioden
-2017 til 2022 har andelen av utleide med lav lønn i
-utleie av arbeidskraft gått ned fra 13 prosent i
-2017.
-
-8.4
-
-Omfang av alternative
-tilknytningsformer blant personer
-med lav yrkesinntekt
-
-I det følgende baserer analysen seg til dels på ISFrapportene «Atypisk arbeid som hovedtilknytning
-i arbeidslivet, 1995–2021» og «Atypisk arbeid
-blant personer med lav inntekt i Norge, 1997–
-2021» av Cools, Hoen og Strøm, hvor sistnevnte
-ble utarbeidet på bestilling av Lavlønnsutvalget
-2024. Rapportene viser tall for utviklingen i alternative, eller atypiske, tilknytningsformer i arbeidslivet i perioden 1997–2021 for henholdsvis alle sysselsatte og for personer med lav yrkesinntekt. Lav
-yrkesinntekt er definert ut fra årlig yrkesinntekt
-relativt til årslønn for heltidsansatte, beregnet av
-SSB. Grensen er satt til 2/3 av medianlønn for heltidsansatte mellom 20–66 år, som tilsvarer
-omtrent 380 000 kroner i 2021.9
-9
-
-2/3M-grensen benyttet i kapittel 7 tilsvarer om lag 377 000
-kroner i 2021.
-
-Cools mfl. (2024) benytter årlig lønns- og
-næringsinntekt fra skatteregisteret for å vurdere
-om en persons yrkesinntekt (summen av lønnsog næringsinntekt10) er under grensen for lavlønn
-i et gitt år. Inntektsstatistikken sier ikke noe om
-hvor mye man har vært i arbeid i løpet av et år.
-Hvis man kun har jobbet deler av året, vil man derfor mye lettere havne under 2/3M-grensen, som
-er beregnet ut ifra lønn for en heltidsstilling for
-hele året. Hvor mange som har en yrkesinntekt
-under denne grensen sier derfor ikke noe om
-hvor mange som har lav lønn på et gitt tidspunkt.
-Det er heller ikke justert for arbeidstid fordi det
-ikke fins opplysninger om selvstendige næringsdrivendes arbeidstid, og fordi informasjonen om
-innleides arbeidstid er av svak kvalitet.
-Populasjonen som analyseres i Cools mfl.
-(2024) er også forskjellig fra den som er brukt i
-tidligere kapitler. Analysene gjort av utvalget
-baserer seg i hovedsak på lønnsstatistikken for
-personer som kun er i jobb, mens analysene i
-Cools mfl. (2024) omfatter alle personer som har
-10
-
-Lønnsinntekten som inngår i inntektsbegrepet (og etter
-inntektsstatistikken) omfatter alle kontante ytelser fra en
-arbeidsgiver. I motsetning til definisjonen av lønn som brukes i kapittel 6 og 7, inkluderer den for eksempel også overtidsgodtgjørelser, sluttvederlag og rentekompensasjon. I
-tillegg er inntekt fra deltidsarbeid ikke regnet om til å tilsvare en fulltidsstilling. Det vises i øvrig til kapittel 6 for
-beskrivelse av forskjellene mellom lønn og inntektsbegrepene.
-
-[Side 134]
-
-132
-
-NOU 2024: 11
-
-Kapittel 8
-
-Lavlønn i Norge
-
-25
-
-20
-
-15
-
-10
-
-5
-
-1997
-
-1999
-
-2001
-
-2003
-
-Midlertidig (<1 år)
-
-2005
-
-2007
-
-2009
-
-Bemanningsbyrå
-
-2011
-
-2013
-
-Selvstendig
-
-2015
-
-2017
-
-2019
-
-2021
-
-Midlertidig (a-ord.)
-
-Figur 8.3 Tilknytningsform i hovedarbeidsforhold, som andel av alle sysselsatte med lav yrkesinntekt.
-20–66 år. Prosent. 1997–20211
-1
-
-Brudd i statistikken i 2015.
-Kilde: Cools mfl. (2024).
-
-yrkesinntekt. Cools mfl. (2024) har sett på hovedarbeidsforholdet til alle bosatte personer med lav
-yrkesinntekt i aldersgruppen 20–66 år og begrenser seg til de som har aktive arbeidsforhold per
-1. oktober. Med selvstendige næringsdrivende
-menes de som har næringsinntekter som er høyere enn både lønnsinntekter og ett grunnbeløp i
-folketrygden, og som ikke er fulltidsansatte (over
-30 timer per uke) per 1. oktober. Midlertidig
-ansatte er definert som de som har et arbeidsforhold med en varighet under tolv måneder i sin
-best betalte jobb per 1. oktober hvert år. Fast
-ansatte er i denne sammenheng definert som de
-som har et arbeidsforhold med varighet over tolv
-måneder i sin best betalte jobb per 1. oktober
-hvert år. Ansatte i bemanningsbyrå er alle som i
-sin best betalte jobb per 1. oktober hvert år er
-ansatt i virksomheter som er registrert i næringen
-«utleie av arbeidskraft».
-Med disse forbeholdene kan tallene likevel
-illustrere noen trekk ved de alternative tilknytningsformene. Cools mfl. (2024) finner at de alternative tilknytningsformene ikke dominerer blant
-personer med lav yrkesinntekt. Andelen med en
-alternativ tilknytningsform utgjør likevel rundt 20
-prosent av alle sysselsatte med lav yrkesinntekt.
-Andelen er dobbelt så høy som andelen med alternativ tilknytningsform blant alle sysselsatte uavhengig av inntekt. Her er det verdt å merke seg at
-populasjonen under 2/3M-grensen er mye større
-ved bruk av dette tallgrunnlaget enn i kapittel 7,
-
-der andelen med lavlønn til sammenligning er 6
-prosent. Dette skyldes som nevnt over, at inntektsstatistikken ikke sier noe om hvor mye eller
-hvor lenge man har vært i arbeid i løpet av et år.
-I figur 8.3 vises andelen med lav yrkesinntekt
-for de ulike alternative tilknytningsformene. Ved å
-sammenligne med figur 8.1 ser vi at utviklingen i
-stor grad følger utviklingen for alle sysselsatte i
-alternative tilknytningsformer.
-I de neste avsnittene tar vi for oss de ulike
-alternative tilknytningstypene hver for seg og ser
-på hvordan utviklingen har vært de siste 25 årene.
-I alle tilknytningsformene er det 13–16 prosent
-som er studenter og rundt 30 prosent som kun
-har utdannelse på grunnskolenivå i utvalget av
-personer med lav yrkesinntekt (Cools mfl., 2024).
-For hele befolkningen er andelene med utdanning
-på grunnskolenivå noe lavere.
-For å undersøke om lav yrkesinntekt er vedvarende ser vi også nærmere på mobiliteten ut og
-inn av lav yrkesinntekt. Blant sysselsatte med lav
-yrkesinntekt er det mellom 20 og 40 prosent som
-ikke har lav yrkesinntekt året etter. Andelene som
-går ut av lavinntekt fra ett år til et annet er ulik
-mellom de ulike tilknytningsformene.
-
-8.4.1 Midlertidig ansatte
-Det vanligste av de alternative arbeidsforholdene
-under lav yrkesinntektsgrense de siste 25 årene
-er å være midlertidig ansatt, jf. figur 8.3 over.
-
-[Side 135]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-133
-
-Kapittel 8
-
-Boks 8.1 Adgangen til midlertidig ansettelse
-Etter arbeidsmiljøloven § 14-9 kan det inngås
-arbeidsgiver foreta nye midlertidige ansettelser
-avtale om midlertid ansettelse:
-på generelt grunnlag for arbeidsoppgaver av
-a. når arbeidet er av midlertidig karakter
-samme art. Bestemmelser knyttet til denne
-b. for arbeid i stedet for en annen eller andre
-generelle adgangen til midlertidige ansettelser
-(vikariat)
-ble opphevet fra 1. juli 2022. Opphevelsen ble
-c. for praksisarbeid
-begrunnet med at bestemmelsen ikke virket
-d. med deltaker i arbeidsmarkedstiltak i regi av
-etter «det formålet som ble fremhevet som den
-eller i samarbeid med arbeids- og velferdsemest sentrale begrunnelsen for innføringen»; å
-taten
-lette inngangen til arbeidsmarkedet for personer
-e. med idrettsutøvere, idrettstrenere, dommere
-som av ulike årsaker har redusert arbeidsevne
-og andre ledere innen den organiserte idretog dermed usikker produktivitet, eller som av
-ten.
-andre grunner lettere faller utenfor arbeidslivet
-enn andre.1 Foreliggende statistikk og kartlegginger viste dessuten at bestemmelsen ble
-I 2015 ble det innført en bestemmelse om genebenyttet i liten grad.
-rell adgang til midlertidig ansettelse for en periode på inntil tolv måneder, uten krav om særlig
-1 Prop. 35 L (2021–2022) Endringer i arbeidsmiljøloven
-begrunnelse. Slike avtaler kunne omfatte inntil
-(midlertidig ansettelse) side 12
-15 prosent av arbeidstakerne i virksomheten. I
-en karensperiode på tolv måneder kunne ikke
-
-Andelen midlertidige med lav yrkesinntekt var
-stort sett økende fram mot pandemien i 2020. I
-siste del av perioden lå de korte midlertidige
-ansettelsene, under tolv måneder, på om lag 12
-prosent. Mange midlertidige jobber varer lenger
-enn ett år. Disse fanges imidlertid ikke opp i registerdataene før i 2021, da de ble innført som en del
-av registreringen i A-ordningen (Cools mfl., 2024).
-Målt direkte i A-ordningen var andelen midlertidige jobber med lav yrkesinntekt på 20 prosent i
-2021, se prikken i figur 8.3. For å vurdere om
-dette var relativt høyt eller lavt sett i forhold til alle
-sysselsatte kan vi sammenligne disse andelene
-med det som framgår av figur 8.1 i punkt 8.2.1.
-Denne viser at midlertidige ansettelser også var
-den vanligste av de alternative tilknytningsformene blant alle sysselsatte etter 2015. Andelene
-midlertidige blant alle sysselsatte (8 prosent målt
-direkte i A-ordningen), er mye lavere enn blant
-dem med lavinntekt.
-Mobilitet for midlertidig ansatte
-Alternative tilknytningsformer vil oppleves som
-mindre negativt for den enkelte dersom det utgjør
-en kort periode, og for eksempel fungerer som et
-springbrett til fast arbeid (Cools mfl., 2023). Blant
-sysselsatte med lav yrkesinntekt har faste og midlertidig ansatte omtrent samme sannsynlighet for
-å ha inntekt over lavinntektsgrensen året etter.
-
-Det er om lag 20 prosent av de midlertidige med
-lav yrkesinntekt som har yrkesinntekt over grensen etter ett år, resten blir værende. Det var vanligere i starten av observasjonsperioden, 1997, for
-midlertidige å oppnå lønn over grensen et år
-senere enn det var mot slutten av observasjonsperioden, 2021.
-Adgangen til å ansette midlertidig vil i noen tilfeller gå på bekostning av faste ansettelser og i
-andre tilfeller føre til flere ansettelser. Å ansette
-noen midlertidig innebærer mindre omfattende
-forpliktelser for en virksomhet enn å ansette noen
-fast. Det kan bety at arbeidsgivere blir mer villige
-til å gjennomføre ansettelser, samtidig som konkurransen om de midlertidige jobbene vanligvis
-vil være mindre. For personer som sliter med å få
-jobb, kan derfor midlertidige jobber gi en enklere
-inngang til arbeidslivet. Samtidig vil faste ansettelser kunne gi sterkere kompetanseoppbygging
-fordi både den ansatte og virksomheten ofte investerer mer i et fast ansettelsesforhold. En fast
-ansettelse reduserer derfor faren for å falle ut av
-arbeidslivet mer enn en midlertidig ansettelse.
-Cools mfl. (2023) gjengir en litteraturstudie av
-artikler om overgang mellom midlertidig og fast
-ansettelse. Litteraturstudien ser på midlertidig
-ansettelse generelt og gjelder ikke utelukkende
-personer med lav yrkesinntekt. Noen studier finner høye overgangsrater fra midlertidige jobber
-
-[Side 136]
-
-134
-
-Kapittel 8
-
-NOU 2024: 11
-Lavlønn i Norge
-
-til fast arbeid, altså at midlertidig ansettelse fungerer som et springbrett til arbeidslivet.
-Cools mfl. (2023) peker samtidig på at midlertidige ansettelser per definisjon er kortvarige. De
-gir både mindre forutsigbarhet og f.eks. dårligere
-tilgang på lån. Mange midlertidige jobber vil også
-kunne gi lavere kompetanseheving ettersom oppgavene kan påvirkes av et kort tidsperspektiv. I tillegg kan både arbeidstaker og arbeidsgiver ha
-mindre grunn til å investere i kompetansehevende tiltak når ansettelsen er midlertidig. Dette
-kan trekke i retning av lavere lønnsvekst for den
-enkelte.
-Om lag 40 prosent av de midlertidige ansatte
-med lav yrkesinntekt blir fast ansatte etter ett år,
-og omtrent like mange faller ut av sysselsetting.
-Denne utviklingen har endret seg over tid; før
-2015 var det vanligere å falle ut av sysselsetting
-for de midlertidige med lav yrkesinntekt, mens
-etter 2015 er det vanligere for de midlertidige å gå
-over i en fast stilling. En ikke ubetydelig andel på
-om lag 20 prosent forsetter å være midlertidig
-også etter ett år. Cools mfl. (2024) finner at midlertidig ansatte med lav yrkesinntekt har lavere sannsynlighet for å bli fast ansatt etter ett år enn midlertidige i hele befolkningen, samt at andelen som
-går ut av sysselsetting fra ett år til et annet er også
-høyere blant midlertidig ansatte med lav yrkesinntekt enn blant alle midlertidig ansatte.
-Overgangsandelen ut av sysselsetting for midlertidig ansatte med lav yrkesinntekt er på nivå
-med overgansandelen for innvandrere og personer med lav utdanning. Innvandrere og personer
-med lav utdanning har høyere risiko for å falle ut
-av sysselsetting enn andre.
-Svalund og Berglund (2018) studerer risikoen
-midlertidig ansatte har til å havne i en marginalisert posisjon i arbeidsmarkedet fem år etter, med
-lav inntekt, arbeidsledighet eller mottak av sosialhjelp i Norge og Sverige. Studien finner at risikoen for slik marginalisering var langt høyere for
-midlertidig ansatte enn fast ansatte, men langt
-lavere enn for arbeidsledige.
-
-8.4.2 Innleie/utleie
-Cools mfl. (2024) finner at andelen som er ansatt i
-et bemanningsbyrå er liten i forhold de til to andre
-alternative tilknytningsformene, både blant alle
-sysselsatte og blant de sysselsatte med lav yrkesinntekt. Likevel er andelen ansatt i bemanningsbyrå mer enn doblet fra 1997 til 2021 både i hele
-økonomien, fra 0,4 til 1,3 prosent, og blant sysselsatte med lav yrkesinntekt, fra 1,3 til 2,7 prosent.
-Innleieforbudet fra 1971 ble opphevet i 2000, men
-
-det var først etter EU-utvidelsen i 2004 at andelen
-innleide økte til et høyere nivå, se både figur 8.1
-og 8.2.
-Mobilitet for ansatte i bemanningsbyrå
-Cools mfl. (2024) finner at utleie er den alternative
-tilknytningsformen som har høyest overgang ut
-av lav yrkesinntekt etter ett år. Rundt 35 prosent
-av ansatte i bemanningsbyrå med lav yrkesinntekt
-har ikke lav yrkesinntekt året etter, men prosentandelen varierer fra 25 til 50 prosent over hele
-perioden mellom 1997 til og med 2021.
-Det er om lag like mange ansatte i bemanningsbyrå med lav yrkesinntekt som fortsetter å
-være ansatt i bemanningsbyrå og som går over til
-å bli fast ansatt i en annen virksomhet (etter 2015
-gjelder det omtrent 35 prosent). Mot slutten av
-perioden er det om lag 20 prosent av de ansatte i
-bemanningsbyrå som går ut av sysselsetting året
-etter. Overgangsandelene blant ansatte i bemanningsbyrå med lav yrkesinntekt ligner på overgangsandelene blant alle ansatte i bemanningsbyrå.
-Berge og Edelmann (2023) har sett på mobiliteten for alle utleide arbeidstakere, ikke bare de
-med lav yrkesinntekt, mellom 1. og 3. kvartal i
-2023. Av de som sluttet å jobbe i næringen utleie
-av arbeidskraft gikk de fleste (55 prosent) over til
-å ha en fast jobb i en annen næring. En del av de
-som sluttet som utleid arbeidskraft (18 prosent)
-gikk til en midlertidig stilling. Dette understøtter
-funnene til Cools mfl. (2024) som også finner en
-ganske høy mobilitet fra å være ansatt i et bemanningsbyrå til fast ansettelse i en annen virksomhet.
-I likhet med midlertidige stillinger peker
-Cools mfl. (2023) på at innleide jobber ofte er kortvarige. Noen studier finner positive virkninger av
-å jobbe i bemanningsbyrå på fast arbeid, men det
-ser ut til å være mer gjeldende for utsatte grupper
-som ikke-vestlige innvandrere og ungdom som
-ikke har fullført videregående. Noen undersøkelser finner også det motsatte, og resultatene avhenger av hvilke grupper man sammenligner med
-(Cools mfl., 2023).
-
-8.4.3 Selvstendige næringsdrivende
-Begrepene selvstendige, selvstendig næringsdrivende, selvstendige oppdragstakere og frilansere
-benyttes om hverandre både i dagligtalen og i
-forskningslitteraturen, se boks 8.3. Cools mfl.
-(2024) definerer selvstendige som personer som
-har mer næringsinntekt enn lønnsinntekt, i tillegg
-
-[Side 137]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-135
-
-Kapittel 8
-
-Boks 8.2 Innleie
-Fra 1. april 2023 ble adgangen til innleie fra
-eningstillitsvalgte. Innleien må være midlertibemanningsbyråer strammet inn ved at den tidlidig, og avtalen må være skriftlig.
-gere adgangen til innleie «når arbeidet er av
-Ved innleie fra bemanningsforetak skal
-midlertidig karakter» ble opphevet. Arbeidsmilbemanningsforetaket sørge for at utleid arbeidsjøloven angir hvilke situasjoner det er lov til å
-taker minst sikres de vilkår som ville kommet til
-leie inn arbeidstakere fra bemanningsforetak.
-anvendelse dersom arbeidstaker hadde vært
-Framstillingen her omhandler innleie i virkansatt hos innleier for å utføre samme arbeid,
-somheter som omfattes av arbeidsmiljøloven.
-når det gjelder:
-Statsansattelovens
-innleieregler
-fraviker
-a. arbeidstidens lengde og plassering,
-arbeidsmiljølovens innleieregler på noen punkb. overtidsarbeid,
-1
-ter, og omtales ikke nærmere her.
-c. varighet og plassering av pauser og hvilepeInnleie er regulert i arbeidsmiljøloven kapitrioder,
-tel 14, og innebærer at en virksomhet (innleier)
-d. nattarbeid,
-leier inn en arbeidstaker fra en annen virksome. feriefritid, feriepenger, fridager og godtgjøhet (utleier) for en tidsbegrenset periode. Den
-ring på slike dager, og
-utleide arbeidstakeren er ansatt hos utleier, men
-f. lønn og utgiftsdekning.
-arbeider hos innleier under dennes tilsyn og
-ledelse. Innleie kan skje fra virksomhet som har
-Arbeidstaker som blir leid ut, skal ha samme tiltil formål å drive utleie (bemanningsforetak)
-gang til felles goder og tjenester hos innleier
-eller fra virksomhet som ikke har til formål å
-som virksomhetens egne arbeidstakere, med
-drive utleie (produksjonsbedrift). Det kan leies
-mindre objektive grunner tilsier noe annet.
-inn fra bemanningsforetak for arbeid i stedet for
-Ved leie av arbeidstaker skal innleier gi
-en annen (vikariater), for praksisarbeid, i forbinbemanningsforetaket de opplysninger som er
-delse med arbeidsmarkedstiltak i regi av eller i
-nødvendige for at bemanningsforetaket skal
-samarbeid med arbeids- og velferdsetaten og i
-kunne ivareta kravet om likebehandling. Virkforbindelse med idrett (idrettsutøvere, domsomheter som leier inn arbeidstaker hefter på
-mere og andre ledere innen den organiserte
-samme måte som en selvskyldnerkausjonist for
-idretten).
-utbetaling av lønn, feriepenger og eventuell
-Det er også lov å leie inn arbeidstakere fra
-annen godtgjøring etter kravet om likebehandbemanningsforetak dersom innleievirksomheling. Det er større adgang til å leie inn arbeidstaten er bundet av tariffavtale med en større fagfoker fra produksjonsbedrift enn fra bemanningsrening2, og har inngått avtale med tillitsvalgte i
-foretak. Den innleide må blant annet være fast
-virsomheten om innleie. I slike tilfeller kreves
-ansatt hos utleier og innleier må foreta drøfteldet ikke noen spesiell begrunnelse eller at at det
-ser med tillitvalgte i forkant av innleie. Ved innmå foreligge spesifikke behov. Selve avtalen innleie over et visst omfang eller en viss varighet
-gås lokalt i virksomheten, og må inngås med tilmå innleie avtales med de tillitvalgte.
-litvalgte som til sammen representerer et flertall
-1 Direktoratet for forvaltning og økonomistyring (DFØ)
-av den arbeidstakerkategori innleien gjelder.
-har en egen fagside om innleie i statlige virksomheter.
-Hva som er å anse som samme arbeidstaker2 Fagforening med innstillingsrett etter arbeidsvistloven,
-kategori, må vurderes konkret. Loven stiller
-dvs. fagforening med minst 10 000 arbeidstakere som
-medlemmer.
-ikke krav om at avtalen må inngås med fagfor-
-
-til at næringsinntekten overstiger ett grunnbeløp i
-folketrygden. Dette er omtrent slik SSB definerer
-selvstendig næringsdrivende11. Andelen selvstendige med lav yrkesinntekt faller gjennom hele
-perioden 1997–2015 og følger samme mønster
-som andelen selvstendige blant alle sysselsatte
-(Cools mfl., 2024). Det er heller ikke store nivåfor-
-
-skjeller i andelene selvstendige, men andelen er
-noe høyere i utvalget med lav yrkesinntekt.
-Cools mfl. (2024) finner at blant de sysselsatte
-med lav yrkesinntekt er 4,2 prosent selvstendige
-næringsdrivende i 2021. Av de selvstendig
-næringsdrivende har omtrent 30 prosent hatt lav
-yrkesinntekt de siste 20 årene. Som skissert i
-punkt 8.3, er det viktig å ha med seg at disse tal-
-
-[Side 138]
-
-136
-
-Kapittel 8
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Boks 8.3 Selvstendige oppdragstakere/næringsdrivende
-måter mottar lønnsinntekter for oppdrag. FrilanI NOU 2021: 9 er selvstendige oppdragstakere
-sere er ikke et rettslig begrep etter arbeidsmilbeskrevet slik:
-jøloven. I folketrygdloven er frilanser definert
-Med selvstendige oppdragstakere forstås
-som «enhver som utfører arbeid eller oppdrag
-enkeltpersoner som uten egne ansatte utføutenfor tjeneste for lønn eller annen godtgjører arbeid for en virksomhet uten å være
-relse, men uten å være selvstendig næringsdriarbeidstaker. Noen selvstendige har også
-vende». En frilanser etter folketrygdloven vil
-ansatte som arbeider for seg. Begrepene selvnormalt ikke være å anse som arbeidstaker etter
-stendige, selvstendig næringsdrivende, selvarbeidsmiljøloven. I skatterettslig sammenheng
-stendig oppdragstakere og frilansere benytbehandles frilansere som lønnstakere på samme
-tes til dels om hverandre i forskningslitteratumåte som arbeidstakere.
-ren og i ulike kartlegginger. Det kan derfor
-I dagligtale benyttes gjerne begrepet uten
-være krevende å sammenstille kunnskapsnærmere presiseringer. Det kan være vanskelig
-grunnlaget. I relasjon til arbeidsmiljøloven,
-å vite hvordan inntektene fra ulike oppdrag skal
-er imidlertid selvstendig oppdragstaker
-rubriseres, og i noen tilfeller kan personer ha
-brukt som et samlebegrep på alle enkeltperflere ulike typer inntekter som er henholdsvis
-soner som faller utenfor lovens arbeidstakerlønn og næringsinntekt.
-begrep.
-Begrepene selvstendig, frilanser og arbeidstaker er også sentrale når det kommer til hvilke
-Selvstendige som mottar betaling fra oppdragsrettigheter en person har etter folketrygdloven
-giver i form av lønn omtales gjerne som frilanog hva de betaler i trygdeavgift.
-sere, men det kan også være andre som på ulike
-
-lene ikke hensyntar hvor stor del av året personen
-har hatt yrkesinntekt eller hvor mange timer personen har vært i arbeid. Tallet kan derfor ikke
-sammenlignes med lavlønnsforekomsten for de
-øvrige gruppene presentert her eller i kapittel 7.
-Mobilitet for selvstendige
-Sannsynligheten for å gå ut av lav yrkesinntekt fra
-ett år til et annet er rundt 25 prosent blant selvstendige (Cools mfl., 2024). I likhet med selvstendige i hele befolkningen er det høy sannsynlighet
-for at de selvstendige med lav yrkesinntekt fortsatt er selvstendige året etter. Over 60 prosent av
-de selvstendige fortsetter å være selvstendig som
-hovedtilknytning til arbeidslivet i hvert fall to år
-gjennom hele perioden. Andelen selvstendige
-som har lav yrkesinntekt ett år og går ut av sysselsetting året etter, er derimot høyere enn andelen
-som går fra selvstendig til ikke sysselsatt i hele
-11
-
-Selvstendig næringsdrivende er definert som en person
-som driver næringsvirksomhet for egen regning og risiko,
-og som er pliktig til å dokumentere næringsinntekt som
-vedlegg til skattemelding. Summen av inntekt og underskudd for selvstendig næringsdrivende er brukt for å identifisere hva hovedaktiviteten er. Opplysninger om selvstendig næringsdrivende hentes fra Skattemeldingen.
-
-befolkningen. Cools mfl. (2024) finner at en
-økende andel går fra å være selvstendig med lav
-yrkesinntekt til å være fast ansatt etter et år, med
-en overgangsandel på rundt 12 prosent i 2021.
-Både andelene som går over til å være fast ansatt,
-og andelene som går over til å ikke være sysselsatt, er høyere blant selvstendig næringsdrivende
-med lav yrkesinntekt enn blant alle selvstendige.
-Det finnes få studier som har undersøkt hvor
-sannsynlig det er å gå fra selvstendig til fast ansatt
-for hele befolkningen (Cools mfl., 2023). Alsos
-mfl. (2022) har undersøkt hvor mange som går fra
-å være selvstendig næringsdrivende over i lønnsarbeid (både midlertidig og fast), blant alle de
-selvstendige i perioden 2015–2019. De finner at
-det er stor forskjell mellom næringer om hvor stabil tilknytningen til å være selvstendig er. Næringer med størst andel selvstendig næringsdrivende
-i hele perioden (stabilt næringsdrivende) finnes
-innen drosje og godstransport på vei, mens øvrige
-deler av transportnæringen og andre næringer
-har mer utskiftninger. Alsos mfl. (2022) undersøker andelen med lav yrkesinntekt blant de stabilt
-næringsdrivende med en lav yrkesinntektsgrense
-på 300 000 kr. Vedvarende lav yrkesinntekt er definert som å ha yrkesinntekt under grensen alle
-
-[Side 139]
-
-137
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Kapittel 8
-
-50
-45
-40
-35
-30
-25
-20
-15
-10
-5
-0
-1997
-
-1999
-Fast
-
-2001
-
-2003
-
-2005
-
-Midlertidig (a-ord.)
-
-2007
-
-2009
-
-Bemanningsbyrå
-
-2011
-
-2013
-
-2015
-
-Midlertidig (< 1 år)
-
-2017
-
-2019
-
-2021
-
-Selvstendig
-
-Figur 8.4 Andel med fagforeningsmedlemskap etter tilknytningsform. Alle bosatte og sysselsatte personer
-i alderen 20–66 år med lav inntekt, utenom arbeidstakere i primærnæringene. Prosent. 1997–2021
-Kilde: Cools mfl. (2024).
-
-årene, eller fire av fem år i perioden 2015–2019. 25
-prosent av de stabilt selvstendig næringsdrivende
-har lave yrkesinntekter over lenger tid, med en
-klart høyest andel innen kunst og kultur, der 47
-prosent har stabilt lav yrkesinntekt. Innen vaktmester, renhold m.m. er også andelen med vedvarende lav yrkesinntekt høyere enn gjennomsnittet. I transportbransjen, også innenfor drosje og
-godstransport på vei, er andelen med vedvarende
-lav yrkesinntekt klart lavere enn i de andre bransjene.
-
-8.4.4 Fagforeningsmedlemskap
-I kapittel 7 har vi sett at fagforeningsmedlemskap
-er lavere blant de med lav lønn. Cools mfl. (2024)
-finner at andelen fast ansatte med lav yrkesinntekt
-som er medlem av en fagforening, falt fra tidlig
-2000-tallet fram til 2013, mens andelen i de andre
-tilknytningsformene steg i samme periode, se
-figur 8.4. Fra 2015 ble utviklingen mer lik, og
-under pandemien økte andelen med fagforeningsmedlemskapet for alle grupper. Utviklingen over
-tid og rangeringen av de ulike tilknytningsformene er som for alle sysselsatte, men andelene
-med fagforeningsmedlemskap er lavere ved lav
-yrkesinntekt. For alle tilknytningsformer er andelen som er fagforeningsmedlem lavere gjennom
-hele perioden, men nivåforskjellen er størst blant
-de fast ansatte.
-
-8.5
-
-Utvalgets vurderinger
-
-Selv om det vanlige i norsk arbeidsliv er fast ansettelse, kan arbeidskraftbehov også dekkes ved midlertidige stillinger, innleie av arbeidskraft og gjennom avtaler med selvstendige oppdragstakere. De
-alternative
-tilknytningsformene
-midlertidige
-ansettelser, ansettelse i bemanningsbyrå og selvstendig næringsdrivende utgjorde i alt 12,5 prosent av hovedarbeidsforholdene i 2021. I enkelte
-land har alternative tilknytningsformer blitt stadig
-mer utbredt, men en slik utvikling har vi ikke sett
-i Norge. I perioden 1997–2021 har andelen selvstendige næringsdrivende vært fallende. Andelen
-midlertidige ansatte har variert gjennom hele
-perioden, noe som både reflekterer konjunkturfølsomhet og omfanget av arbeidsinnvandring. I forhold til de to andre alternative tilknytningsformene er andelen ansatte i bemanningsbyrå liten,
-men den har økt i perioden. Den største endringen skjedde i etterkant av EU-utvidelsen i 2004,
-som åpnet for mer arbeidsinnvandring fra land
-med betydelig lavere lønnsnivå enn det norske.
-Ellers har andelen vært ganske stabil både før og
-etter.
-Andelene av alternative tilknytningsformer og
-utviklingen i disse varierer mellom næringsgrupper og yrker. Alternative tilknytningsformer er
-mer utbredt blant utsatte grupper på arbeidsmarkedet. For innvandrere og personer med lav
-utdanning har det vært vekst i andelen som er
-
-[Side 140]
-
-138
-
-Kapittel 8
-
-NOU 2024: 11
-Lavlønn i Norge
-
-ansatt midlertidig eller i bemanningsbyrå i perioden 1997–2021. Overnatting og serveringsnæringen har ekspandert i perioden, og er en av næringene der midlertidig ansettelse er mest vanlig.
-Veksten i andelen ansatte i bemanningsbyrå gjennom perioden har vært drevet av innvandrere fra
-Øst-Europa, og ifølge statistikk for utfakturerte
-timer fra NHO Service og Handel har mange av
-disse jobbet i bygg- og anleggsnæringen.
-Forekomsten av lønn under 2/3M-grensen er
-21 prosent blant midlertidig ansatte, mot 5 prosent blant fast ansatte. Drøyt 70 prosent av de lavtlønte er likevel fast ansatte. Forekomsten av lavlønn blant ansatte i bemanningsbyrå er 11 prosent. Selvstendige næringsdrivende mottar ikke
-lønn, men næringsinntekt. Det finnes derfor ikke
-tilsvarende statistikk for lavlønnsforekomst som
-for de øvrige gruppene.
-Å ansette noen midlertidig innebærer mindre
-omfattende forpliktelser for en virksomhet enn å
-ansette noen fast, og i tillegg vil ofte konkurransen om midlertidige jobber være mindre. For personer som sliter med å få jobb, kan derfor midlertidige jobber gi en enklere inngang til arbeidslivet.
-Denne erfaringen kan i neste omgang lede til fast
-jobb. Samtidig vil faste ansettelser kunne gi sterkere kompetanseoppbygging fordi både den
-ansatte og virksomheten ofte investerer mer i et
-fast ansettelsesforhold. En fast ansettelse reduserer derfor faren for å falle ut av arbeidslivet mer
-enn en midlertidig ansettelse. Lavere kompetan-
-
-seoppbygging kan også trekke i retning av lavere
-lønnsvekst for den enkelte i midlertidige jobber.
-Om lag 40 prosent av de midlertidige ansatte med
-lav yrkesinntekt blir fast ansatte etter ett år, og
-omtrent like mange faller ut av sysselsetting.
-Blant sysselsatte med lav yrkesinntekt har faste
-og midlertidig ansatte omtrent samme sannsynlighet for å ha inntekt over lavinntektsgrensen året
-etter. Å være ansatt i et bemanningsbyrå er den
-alternative tilknytningsformen som har høyest
-overgang ut av lav yrkesinntekt.
-Innslag av midlertidighet, ofte i kombinasjon
-med høy konsentrasjon av arbeidsinnvandrere,
-påvirker avlønningen i enkelte bransjer. Lønnsutviklingen kan dermed bli svakere enn den ellers
-ville vært også for fast ansatte.
-For alle tilknytningsformene er andelene med
-fagforeningsmedlemskap lavere blant de med lav
-yrkesinntekt enn for alle. Andelen fast ansatte
-med lav yrkesinntekt som er medlem av en fagforening er fallende fra tidlig 2000-tallet fram til
-2013, mens andelen i de andre tilknytningsformene var stigende i samme periode. Fra 2015 blir
-utviklingen mer lik, og under pandemien økte
-organisasjonsgraden blant alle grupper.
-Det er nyttig å framskaffe et bedre kunnskapsgrunnlag om mulige sammenhenger mellom lavlønn og yrkesinntekt og midlertidige ansettelser,
-ansettelser i bemanningsbyrå og selvstendige
-oppdragstakere.
-
-[Side 141]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-139
-
-Kapittel 9
-
-Kapittel 9
-
-Økonomisk forskning om makt og markedsforhold
-i arbeidslivet
-9.1
-
-Innledning
-
-I tidligere kapitler er det gjort rede for sentrale
-institusjoner i lønnsdannelsen, og det er presentert statistikk for arbeidsmarkedet og utbredelsen
-av lavlønn. I dette kapitlet ser vi nærmere på hvordan lønn og sysselsetting påvirkes av maktforholdene mellom arbeidsgivere og arbeidstakere.
-Forskningslitteraturen forklarer hvorfor økt lønn i
-noen tilfeller fører til økt sysselsetting. Det kan
-bidra til forståelsen av hvorfor vi i Norge har klart
-å kombinere relativt høye lønninger for de lavest
-lønte og høyere samlet sysselsetting enn i mange
-andre land. Litteraturen belyser også om det er
-grunn til å tro at maktforholdene mellom arbeidstaker- og arbeidsgiversiden i arbeidslivet i Norge
-er slik at de bidrar til å redusere lønningene både
-generelt og mer spesifikt for de lavtlønte.
-Kapitlet starter med en presentasjon av teoretiske tilnærminger til hvordan maktforhold påvirker lønn og sysselsetting for å få frem noen hovedpoeng om generelle mekanismer i arbeidsmarkedet. Deretter oppsummeres resultatene fra
-utvalgte empiriske analyser av virksomhetenes
-makt i lønnsfastsettelsen (monopsoni) i punkt 9.3
-og betydningen av fagforeninger som motmakt i
-punkt 9.4. Her belyses også relevansen av maktforholdene for ulike næringer og lavtlønte
-arbeidsgrupper. Videre diskuteres eventuelle sysselsettingseffekter av minstelønn i punkt 9.5, før
-utvalgets vurderinger følger i punkt 9.6.
-
-9.2
-
-Økonomisk teori og
-lønnsdannelsen
-
-Forskningsfeltet som beskrives i dette kapitlet er i
-rask utvikling, og en del av forskningen som er
-referert, er internasjonal. Kapittelet gir et innblikk
-i denne litteraturen, men tar ikke mål av seg å
-dekke alle områder og deler av arbeidsmarkedet.
-En stor forskningslitteratur på 1980- og 1990-tallet
-
-utviklet forståelsen av betydningen av fagforeninger (bl.a. Freeman & Medoff, 1984), mens de
-siste 20 årene har det vært stor forskningsaktivitet
-om arbeidsgivermakt i lønnsfastsettingen (bl.a.
-Manning, 2003).
-Noe av litteraturen, særlig den amerikanske,
-har også et litt annet utgangspunkt for å vurdere
-fagforeninger enn det vi kjenner fra Norge ettersom de institusjonelle forholdene rundt lønnsdannelsen er ulike. Det må sees i sammenheng med
-at det i anglosaksiske land generelt er lav organisasjonsgrad og tariffavtaledekning. Der det er forhandlinger med fagforeninger i disse landene, er
-det vanlig med liten eller ingen grad av koordinering mellom partene, verken på tvers av bransjer
-eller mellom arbeidstaker- og arbeidsgiversiden.
-Utgangspunktet i deler av litteraturen er i stor
-grad en tilnærming der en ser på virksomhetenes
-tilpasning på marginen og der organisering på
-arbeidsgiversiden er fraværende i modellene.
-I Norge er det stor grad av koordinering knyttet til lønnsvekst i økonomien. Lønnsdannelsen
-omfatter både forhandlinger mellom arbeidstakerog arbeidsgiverorganisasjoner på sentralt nivå og
-fagforeninger og arbeidsgivere på lokalt nivå.
-Frontfagsmodellutvalget (NOU 2023: 30) pekte på
-at koordineringen i en frontfagsmodell skiller seg
-fra ikke-koordinert virksomhetsvis lønnsfastsettelse på flere måter. To hovedforskjeller er at den
-gir mindre lønnsforskjeller og at lønnsfordelingen
-er mer stabil over tid. En tolkning er at koordineringen vil kunne dempe noen av makt- og markedskreftene som virker på lønninger og sysselsetting.
-Dette skjer blant annet ved at i frontfagsmodellen kobles lønnsveksten til en fordeling av veksten
-i total faktorproduktivitet mellom arbeidstakerne
-og eierne og at marginalbetraktninger dermed får
-mindre å si. OECD (2018) viser hvordan lønnsutviklingen siden slutten av 90-tallet og frem til i
-2013 i mange land ikke har holdt tritt med produktivitetsutviklingen. Samtidig har lønnsveksten for
+## Innledning
+
+I tidligere kapitler er det gjort rede for sentrale institusjoner i lønnsdannelsen, og det er presentert statistikk for arbeidsmarkedet og utbredelsen av lavlønn. I dette kapitlet ser vi nærmere på hvordan lønn og sysselsetting påvirkes av maktforholdene mellom arbeidsgivere og arbeidstakere. Forskningslitteraturen forklarer hvorfor økt lønn i noen tilfeller fører til økt sysselsetting. Det kan bidra til forståelsen av hvorfor vi i Norge har klart å kombinere relativt høye lønninger for de lavest lønte og høyere samlet sysselsetting enn i mange andre land. Litteraturen belyser også om det er grunn til å tro at maktforholdene mellom arbeidstaker- og arbeidsgiversiden i arbeidslivet i Norge er slik at de bidrar til å redusere lønningene både generelt og mer spesifikt for de lavtlønte.
+
+Kapitlet starter med en presentasjon av teoretiske tilnærminger til hvordan maktforhold påvirker lønn og sysselsetting for å få frem noen hovedpoeng om generelle mekanismer i arbeidsmarkedet. Deretter oppsummeres resultatene fra utvalgte empiriske analyser av virksomhetenes makt i lønnsfastsettelsen (monopsoni) i punkt 9.3 og betydningen av fagforeninger som motmakt i punkt 9.4. Her belyses også relevansen av maktforholdene for ulike næringer og lavtlønte arbeidsgrupper. Videre diskuteres eventuelle sysselsettingseffekter av minstelønn i punkt 9.5, før utvalgets vurderinger følger i punkt 9.6.
+
+## Økonomisk teori og lønnsdannelsen
+
+Forskningsfeltet som beskrives i dette kapitlet er i rask utvikling, og en del av forskningen som er referert, er internasjonal. Kapittelet gir et innblikk i denne litteraturen, men tar ikke mål av seg å dekke alle områder og deler av arbeidsmarkedet. En stor forskningslitteratur på 1980- og 1990-tallet utviklet forståelsen av betydningen av fagforeninger (bl.a. Freeman & Medoff, 1984), mens de siste 20 årene har det vært stor forskningsaktivitet om arbeidsgivermakt i lønnsfastsettingen (bl.a. Manning, 2003).
+
+Noe av litteraturen, særlig den amerikanske, har også et litt annet utgangspunkt for å vurdere fagforeninger enn det vi kjenner fra Norge ettersom de institusjonelle forholdene rundt lønnsdannelsen er ulike. Det må sees i sammenheng med at det i anglosaksiske land generelt er lav organisasjonsgrad og tariffavtaledekning. Der det er forhandlinger med fagforeninger i disse landene, er det vanlig med liten eller ingen grad av koordinering mellom partene, verken på tvers av bransjer eller mellom arbeidstaker- og arbeidsgiversiden. Utgangspunktet i deler av litteraturen er i stor grad en tilnærming der en ser på virksomhetenes tilpasning på marginen og der organisering på arbeidsgiversiden er fraværende i modellene.
+
+I Norge er det stor grad av koordinering knyttet til lønnsvekst i økonomien. Lønnsdannelsen omfatter både forhandlinger mellom arbeidstaker- og arbeidsgiverorganisasjoner på sentralt nivå og fagforeninger og arbeidsgivere på lokalt nivå. Frontfagsmodellutvalget (NOU 2023: 30) pekte på at koordineringen i en frontfagsmodell skiller seg fra ikke-koordinert virksomhetsvis lønnsfastsettelse på flere måter. To hovedforskjeller er at den gir mindre lønnsforskjeller og at lønnsfordelingen er mer stabil over tid. En tolkning er at koordineringen vil kunne dempe noen av makt- og markedskreftene som virker på lønninger og sysselsetting.
+
+Dette skjer blant annet ved at i frontfagsmodellen kobles lønnsveksten til en fordeling av veksten i total faktorproduktivitet mellom arbeidstakerne og eierne og at marginalbetraktninger dermed får mindre å si. OECD (2018) viser hvordan lønnsutviklingen siden slutten av 90-tallet og frem til i 2013 i mange land ikke har holdt tritt med produktivitetsutviklingen. Samtidig har lønnsveksten for lavtlønte og medianen heller ikke holdt tritt med gjennomsnittlig lønnsvekst, som betyr at høye lønninger har vokst mer enn andre lønninger. Dette omtaler OECD (2018) som frakobling av lønnsveksten fra produktivitetsveksten. Det er imidlertid store forskjeller på tvers av land. Forfatterne mener at nasjonale institusjoner og politikk trolig kan forklare forskjellene i hvordan lønnsdannelsen deler verdiskapingen mellom arbeid og kapital. Det må bety at det er underliggende mekanismer som i hvert fall delvis settes til side i den faktiske lønnsfastsettelsen. Konkrete forhold ved den norske lønnsdannelsen er omtalt i kapittel 3 og 4.
+
+De underliggende økonomiske mekanismene som beskrives i dette kapittelet vil være mer eller mindre til stede i alle arbeidsmarkeder. Den empiriske litteraturen det vises til, dekker også både Norge og andre europeiske land med koordinering i lønnsdannelsen. Koordinering i lønnsdannelsen vil i mange land være betinget av høy oppslutning om fagforeninger og organisering av arbeidsgiversiden. Koordinering av arbeidsgiversiden bidrar til å støtte opp om koordineringen ved å danne hensiktsmessige motparter til fagforeningene.
+
+Ettersom fagforeninger har en sentral rolle i å balansere arbeidsgivers potensielle makt i lønnsfastsettelsen, vil konsekvensene av monopsoni typisk kunne få mer gjennomslag i det uorganiserte arbeidslivet enn i det organiserte. Også innenfor områder av det organiserte arbeidslivet med betydelige sentrale tillegg vil mye av lønnsfastsettelsen bestemmes ut fra lokale forhold på virksomhetsnivå, og makt og markedskrefter vil spille inn.
+
+Økonomisk teori tar generelt utgangspunkt i markeder med fullkommen konkurranse. Dette utgangspunktet skiller mellom tilpasningen til hver enkelt bedrift, som er liten i forhold til det totale markedet, og utfallet i markedet som helhet. Nedenfor tar vi samme utgangspunkt for arbeidsmarkedet. Deretter utvides resonnementene med mer realistiske beskrivelser av markedsforholdene.
+
+### Fullkommen konkurranse
+
+I et arbeidsmarked med fullkommen konkurranse bestemmes lønnen av likhet mellom tilbud av og etterspørsel etter arbeidskraft, og likevektslønnen er lik verdien av arbeidskraftens marginalprodukt. Det vil si at lønn per time er lik verdien av det som på marginen produseres med én arbeidstime. En sentral forutsetning for fullkommen konkurranse er at det er mange aktører på begge sider av markedet, slik at både arbeidstakere og arbeidsgivere forholder seg til en gitt «markedslønn» når de velger sin tilpasning.
+
+I denne situasjonen gir markedslikevekten det lønns- og sysselsettingsnivået som maksimerer samfunnsøkonomisk velferd (se boks 9.1 for nærmere forklaring). Reguleringer av lønn, for eksempel innføring av en minstelønn som er høyere enn likevekstlønnen, vil føre til et samfunnsøkonomisk velferdstap: sysselsettingen vil reduseres, og samfunnet går glipp av produksjonen fra de som er tilstrekkelig produktive til å få jobb i det uregulerte markedet, men ikke tilstrekkelig produktive til å få jobb etter innføringen av minstelønn.
+
+Lønn og sysselsetting under fullkommen konkurranse
+
+Markedslikevekten i et arbeidsmarked med fullkommen konkurranse kan illustreres i et diagram med sysselsettingsnivå på den horisontale aksen og lønnsnivå på den vertikale aksen. I et slikt diagram vil etterspørselskurven være fallende på grunn av avtakende skalautbytte, mens tilbudskurvene er stigende fordi flere ønsker å tilby sin arbeidskraft når lønnsnivået stiger. Ingen aktører er i stand til å påvirke markedslønnen, det vil si at det er ingen koordinering mellom aktørene. Markedslikevekten er da gitt ved skjæringspunktet mellom tilbuds- og etterspørselskurven, og gir det lønns- og sysselsettingsnivået som maksimerer samfunnsøkonomisk overskudd, se figur 9.1 A. Virksomheter som ikke har evne til å betale markedslønnen, vil ikke ansette, og personer som ikke er villig til å arbeide for markedslønnen, vil ikke delta i arbeidsmarkedet. Under fullkommen konkurranse følger det at den enkelte virksomhet vil måtte ta lønnen den må betale for sin arbeidskraft som gitt i markedet, se figur 9.1 B. Hvis virksomheten forsøker å betale lavere lønn, vil alle ansatte si opp og ta jobb i konkurrende virksomheter som betaler markedslønnen.
+
+Idéen om fullkommen konkurranse er basert på flere forutsetninger som er avgjørende for resultatene. Det må være et betydelig antall virksomheter som konkurrerer om den samme type arbeidskraft og det må være mange kvalifiserte personer som uavhengig av hverandre tilbyr sin arbeidskraft til dette markedet. Verken virksomhetene eller arbeiderne skal kunne påvirke markedslønnen og det er ingen koordinering. I tillegg forutsettes det at informasjon om blant annet jobbmuligheter og produktivitet er fritt tilgjengelig for alle uten kostnader, mens arbeidskraften er perfekt mobil.
+
+Tilbud og etterspørsel etter arbeidskraft under fullkommen konkurranse.
+
+\[Boks slutt\]
+
+I realiteten er det imidlertid en rekke av premissene for fullkommen konkurranse som ikke holder i et arbeidsmarked. Mangelfull informasjon og ulike individuelle preferanser kan ha stor betydning slik at arbeidsmarkedet kan avvike betydelig fra en situasjon med fullkommen konkurranse. I mangel av motmakt fra arbeidstakerne kan arbeidsgiverne potensielt sett være i stand til å sette en lønn betydelig under nivået som maksimerer samfunnsøkonomisk velferd, slik forskningslitteraturen som siteres i kapittelet tyder på. Samtidig har fagforeninger innflytelse, og arbeidsgiversiden er koordinert.
+
+### Virksomheten og fagforeningen har markedsmakt
+
+Situasjoner som innebærer at den enkelte kjøper kan påvirke prisen på innsatsfaktorer, omtales gjerne som monopsoni. I arbeidsmarkedet kan monopsoni oppstå av flere grunner. For det første vil et arbeidsmarked med få arbeidsgivere kunne gi arbeidsgivere større innflytelse på lønnsnivået enn i et arbeidsmarked med mange arbeidsgivere og større konkurranse om arbeidskraften. Dette omtales som situasjoner med høy konsentrasjon i arbeidsmarkedet. Jo høyere konsentrasjonen er, jo større er den potensielle innflytelsen arbeidsgivere har over lønningene. Virksomheten kan være den eneste eller en av svært få virksomheter som etterspør en bestemt type arbeidskraft i markedet. Dette er den opprinnelige begrunnelsen for monopsoni. I dag brukes begrepet imidlertid i videre forstand. Det forutsetter ikke at virksomhetene er den eneste dominerende etterspørreren etter arbeidskraft i markedet.
+
+En annen kilde til monopsonimakt er ulike typer jobbsøkerfriksjoner. Tilsettingsprosesser tar tid og medfører kostnader både for arbeidstaker og -giver. Det er umulig for arbeidstaker å ha full oversikt over alle sider ved alternative jobber, og derfor vil man ikke skifte jobb kun for marginal økning i lønn. I tillegg er det krevende for arbeidsgivere å tilegne seg god informasjon om hvor godt en arbeidssøker vil prestere dersom hen blir tilsatt. Derfor er det til dels omfattende søkeprosesser knyttet til rekruttering, jobbskifter og inntreden i arbeidslivet. Manglende informasjon både om hver enkelt arbeidstaker og tilgjengelige relevante jobber kalles «søkefriksjoner». Reguleringer i arbeidsmarkedet og av konkurranseforhold kan virke inn på både markedskonsentrasjon og hvor lett det er å skifte jobb.
+
+En tredje kilde til monopsonimakt er ikke-lønnsmessige jobbpreferanser. Det er preferanser hos den enkelte arbeidstaker knyttet til forhold hos en eller få arbeidsgivere, som gjelder andre forhold enn selve lønnen. I tillegg til interesse for selve oppgavene, kan det for eksempel være et ønske om kort reisevei til jobb, gunstige og fleksible arbeidstider eller andre arbeidsvilkår. Innslag av dette kan også gjelde mer idealistiske preferanser for hvor en ønsker å jobbe med hensyn til hva som er virksomhetens formål. Slike preferanser hos arbeidstakeren selv, kan gjøre at arbeidstakeren er lite tilbøyelig til å bytte jobb selv om arbeidsgiver skulle sette ned lønnen. Det reelle antall aktuelle arbeidsgivere for en arbeidstaker kan derfor være mer begrenset enn antall aktører i markedet skulle tilsi.
+
+Konsentrasjonen i arbeidsmarkedet, jobbsøkerfriksjoner og ikke-lønnsmessige jobbpreferanser er alle forhold som reduserer arbeidstakernes motivasjon og mulighet til å skifte jobb og dermed reduserer mobiliteten i arbeidsmarkedet. Det har betydning for den potensielle makten virksomhetene har til å påvirke lønningene. Digitaliseringen av jobbsøkertjenester kan redusere arbeidssøkerfriksjoner ved å gi bedre markedsinformasjon, som er lettere tilgjengelig for både arbeidssøker og arbeidsgiver. En rimelig og godt utbygd barnehage og skolefritidsording kan tenkes å ha samme virkning for arbeidstakere med omsorgsbehov for barn. Mer utbredt bruk av hjemmekontor kan redusere betydningen av avstand og dermed minske makten til noen arbeidsgivere.
+
+Oppsummert kan det være mange grunner til at arbeidsmarkeder i større eller mindre grad er preget av monopsoni. Det prinsipielle er uansett at den enkelte virksomhet ikke trenger å tilby en gitt markedslønn, i motsetning til under fullkommen konkurranse. Dette kan virksomhetene utnytte ved å tilby lavere lønn uten at særlig mange forlater bedriften. Vi ser her bort fra eventuelle bindinger som måtte følge av tariffavtaler eller lignende. Virksomheten maksimerer sin profitt ved å sette et lavere lønns- og sysselsettingsnivå enn det som følger av markedslikevekten under fullkommen konkurranse, se boks 9.2.
+
+Lønn og sysselsetting under monopsoni
+
+Tilbud og etterspørsel etter arbeidskraft ved en enkel virksomhet, med markedsmakt for virksomheten og motmakt hos fagforening
+
+Figur 9.2 illustrerer en virksomhet som står overfor en stigende tilbudskurve, noe som betyr at den har monopsonimakt. Med en stigende tilbudskurve responderer arbeidstilbudet i mindre grad på lønnsendringer enn i tilfellet med fullkommen konkurranse. Det betyr også at økt lønn vil øke antallet personer som ønsker arbeid i virksomheten. Det som gir høyest avkastning for virksomheten i denne situasjonen er å vurdere den økte lønnskostnaden ved økt sysselsetting i forhold til økt inntjening, i en situasjon der alle arbeidstakere har samme lønn. Virksomhetens marginalkostnad ved arbeidskraft ligger over tilbudskurven (gjennomsnittskostnad ved arbeidskraft), da virksomheten vil måtte øke lønnsnivået generelt i virksomheten for å få ansatt en ekstra medarbeider. Virksomhetens profitt maksimeres i punktet b der kurven for arbeidskraftens marginalkostnad krysser etterspørselskurven (marginalinntekt av arbeidskraft). Da blir sysselsettingen i virksomheten S<sup>1</sup>, og inntekten som genereres per arbeidsenhet er L<sup>2</sup>. Virksomheten trenger imidlertid bare å betale en lønn tilsvarende L<sup>1</sup>. Virksomhetens ekstrainntekter per arbeidsenhet tilsvarer da differansen mellom L<sup>2</sup> og L<sup>1</sup>. Denne tilpasningen gir lavere sysselsetting og lønn enn under fullkommen konkurranse (gitt ved punktet a, med sysselsetting lik S\* og lønn lik L\*). Samfunnet får et samlet velferdstap lik størrelsen på triangelet abc. Tilpasningen innebærer et effektivitetstap fordi verdien av arbeidskraft er større enn lønnskostnaden ved en ekspansjon av virksomheten.
+
+La oss nå introdusere en fagforening med makt til å påvirke lønninger. I dette tilfelle ser vi for oss at fagforeningen bruker sin makt til å framforhandle et lønnsgulv eller en minstelønn, f.eks. regulert i en tariffavtale for et bestemt yrke i en næring. Dersom minstenivået tilsvarer markedslønnen under fullkommen konkurranse, som skissert i figuren med den røde horisontale linjen «tariffavtalt minstelønn», vil dette øke lønnen fra L<sup>1</sup> til L\* og sysselsettingen fra S<sup>1</sup> til S\*, altså til likevektsnivået. Dersom fagforeningen får presset lønnen ytterligere opp til eksempelvis L<sup>2</sup>, faller sysselsettingen tilbake, her til S<sup>1</sup>. Det innebærer også et velferdstap, i dette eksempelet til samme sysselsetting som vi fikk med monopsonimakt uten fagforeninger. Men i motsetning til i tilfellet med monopsonimakt uten fagforeninger, betaler nå virksomheten en lønn som er lik marginalinntekten, mens arbeidstakerne sitter igjen med en større del av overskuddet. Vi ser altså at når vi går fra en situasjon med monopsoni til at fagforeninger får økende innflytelse beveger vi oss i figur 9.2 først fra punktet c langs tilbudskurven til punkt a (likevektsløsningen), og deretter langs etterspørselskurven oppover fra punktet a til punktet b.
+
+\[Boks slutt\]
+
+Også fagforeninger kan ha lønnssettingsmakt. Gitt fullkommen konkurranse, fører økt lønn til at sysselsettingen samlet sett reduseres. Redusert sysselsetting gir et samlet velferdstap. Hvor langt fagforeningen vil kunne ønske å presse lønningene opp på bekostning av sysselsettingen, vil avhenge av fagforeningens preferanser. Brede fagforeninger vil gjennomgående legge større vekt på å unngå redusert sysselsetting. Det skyldes både at de trolig vil ha medlemmer som rammes av slike endringer, og at deres valg betyr mye for det generelle lønnsnivået og dermed får større effekt på sysselsettingen. I forskningslitteraturen om lønn er det vanlig å anta at fagforeninger ønsker høy lønn og sikkerhet om arbeidsplassen på virksomhetsnivå. Videre er det vanlig å anta at de på nasjonalt nivå ønsker høy sysselsetting og lav arbeidsløshet (Layard mfl., 2005; Freeman & Medoff, 1984). Det er vanlig å anta at disse preferansene veies opp mot hverandre fordi høyere lønn kan gi lavere sysselsetting. Fagforeningenes lønnskrav vil dermed være begrenset av negative effekter på sysselsetting.
+
+I et marked med monopsoni (ikke fullkommen konkurranse) vil fagforeningens motmakt derimot kunne presse lønningene tilbake mot likevektslønnen. Da vil sysselsettingen kunne øke. I en slik situasjon vil den samfunnsøkonomiske velferden bli høyere enn den ville vært uten innflytelsen fra fagforeningen (Dodini mfl., 2022; Elert & Westerberg, 2023; Falch & Strøm, 2006; OECD, 2022b). I denne situasjonen er det dermed ikke nødvendigvis et motsetningsforhold mellom økt lønn og økt sysselsetting. Dersom innflytelse over lønningene fra fagforeningens side er sterk nok, kan de imidlertid presse lønningene opp over likevektsnivået. Da vil økt lønn også i monopsonistiske markeder kunne gå på bekostning av sysselsetting. Det vises til boks 9.2 for nærmere forklaring.
+
+Fagforeningenes reelle innflytelse vil avhenge av den relative forhandlingsstyrken til de to partene. Det er mange forhold som kan påvirke partenes forhandlingsstyrke. Fagforeningens oppslutning blant arbeidstakerne er vesentlig. Et annet viktig forhold er hva som følger som konsekvenser dersom partene ikke blir enige. Det vil også ha betydning hvor lett det er for virksomheten å erstatte fagorganisert arbeidskraft med kapital eller andre arbeidstakere uten de samme kravene. Virksomhetens tilbøyelighet til å møte lønnskravene vil påvirkes av hvor hard konkurransen er i det markedet den opererer i, hva slags profitt evt. merprofitt som finnes og virksomhetens evne til å tiltrekke seg og holde på arbeidskraft (Barth mfl., 2020).
+
+I et monopsonistisk marked vil arbeidstakerne potensielt ha mye å tjene på å organisere seg og forhandle samlet om lønn, fordi det er betydelig potensiale for merprofitt hos eierne. Men samtidig påvirkes forhandlingsstyrken til fagforeningene av hvilke alternative jobber de ansatte har utenfor virksomheten. Det er derfor ikke opplagt at fagfagforeningen får gjennomslag i en slik situasjon (Dodini mfl., 2022).
+
+Falch og Strøm (2006) argumenterer for at når både virksomheten og fagforeningen har markedsmakt, må det trolig være en betydelig ubalanse i forhandlingsmakten mellom dem for at utfallet skal avvike fra sysselsettings- og lønnsnivået under fullkommen konkurranse. Det finnes altså i følge forfatterne mekanismer som bidrar til stabilitet i lønn og sysselsetting til nivåer tilsvarende tilpasningen under fullkommen konkurranse. Så lenge det er kun en liten overvekt av forhandlingsstyrke hos fagforeningen, vil deres hensyn til sysselsettingsvirkninger virke stabiliserende. Med kun en liten overvekt av forhandlingsstyrke på arbeidsgiversiden, er det lite sannsynlig at arbeidsgiver vil søke, og at fagforeningen vil akseptere, en reduksjon i både lønn og sysselsetting.
+
+## Analyser av virksomhetenes makt til å påvirke lønninger
+
+### Innslag av monopsoni i arbeidsmarkedet
+
+De siste årene har det kommet en lang rekke studier av monopsonimakt i arbeidsmarkedet. De konkluderer gjennomgående med at det er imperfekt konkurranse i moderne arbeidsmarkeder (se for eksempel Manning, 2021; OECD, 2022b; Berger mfl., 2023; Dodini mfl., 2022; Diez mfl., 2022; Sokolova & Sorensen, 2021; Hirsch mfl., 2022).
+
+En metaanalyse av Sokolova og Sorensen (2021) gir en grundig gjennomgang av forskningslitteraturen på feltet. Studien støtter opp om at det er sterke bevis for monopsoni i arbeidsmarkedet som kan gi klart lavere lønn enn under fullkommen konkurranse. Det at lønningene kan settes lavere enn de kunne vært satt i en situasjon med fullkommen konkurranse, definerer litteraturen som «lønnsnedslag». Samtidig viser de at anslagene for det potensielle «lønnsnedslaget» varierer betydelig. De peker på at estimatene varierer på tvers av land, men også med valg av metode og data og kvaliteten på forskningen. Potensiale for lønnsnedslag skyldes at tilbudselastisiteten en bedrift står overfor er begrenset. OECD (2021) finner en gjennomsnittlig tilbudselastistitet i arbeidsmarkedene i OECD-land, som impliserer at optimal lønn fra virksomhetenes perspektiv er på 2/3 av arbeidstakernes marginale produktivitet.[^57] Elert og Westerberg (2023) studerer utvalgte europeiske land og særlig de nordiske landene. De rapporterer at de tilsvarende verdiene i nordiske studier ligger i et intervall som impliserer at lønningene potensielt kan settes ned til å utgjøre rundt 45–75 prosent av arbeidernes marginale produktivitet. For Norge ligger estimatene i hovedsak i midtre til nedre del av dette intervallet.[^58] Anslagene tilsier altså at virksomheter potensielt kan ha betydelige muligheter til å påvirke lønningene i arbeidsmarkedet.
+
+Selv om lave arbeidstilbudselastisiteter er en indikasjon på markedsmakt i lønnssettingen, følger det ikke nødvendigvis at virksomhetene faktisk utnytter denne verken fullt eller delvis (Manning, 2021; Sokolova & Sorensen, 2021; Elert & Westerberg, 2023). Elert og Westerberg (2023) trekker et tydelig skille mellom det de kaller potensiell eller teoretisk markedsmakt på den ene siden og faktisk markedsmakt på den andre siden. De argumenterer for at faktorer som blant annet fagforeningsmakt kan motvirke den teoretiske markedsmakten, slik at den reelle makten blir mindre enn den teoretiske. Sokolova og Sorensen (2021) er også inne på at arbeidsmarkedsinstitusjoner kan motvirke virksomhetenes lønnsmakt i betydelig grad og ser det i sammenheng med variasjonen i estimert markedsmakt som de observerte i ulike metodiske tilnærminger. Fagforeningers innflytelse omtales nærmere under punkt 9.4.
+
+### Omfang av konsentrasjon og andre kilder til monopsoni
+
+Som nevnt over er det flere kilder til markedsmakt i arbeidsmarkedet. Særlig har internasjonal forskning den senere tiden satt søkelys på konsentrasjon i arbeidsmarkedet som opphav til at lønninger settes lavere enn verdien av arbeidskraftens marginale produktivitet. I motsetning til den mer vanlige forståelsen av konsentrasjon som noe som gjelder produktmarkeder, vises det i denne konteksten utelukkende til selve arbeidsmarkedet og antallet arbeidsgivere. Det kan likevel være sammenheng mellom konsentrasjon i produktmarkedet og konsentrasjon i arbeidsmarkedet.
+
+I USA har det vært økende oppmerksomhet om elementer i arbeidsmarkedet som vurderes som konkurransehemmende og gir høy konsentrasjon. Dette kan for eksempel være klausuler i arbeidskontrakter om at man ikke kan jobbe i konkurrerende virksomheter direkte etter oppsigelse, avtaler mellom virksomheter om at de ikke skal konkurrere om arbeidstakerne og effekten av selskapssammenslåinger. Forskning har vist at slike elementer i arbeidsmarkedet reduserer mobiliteten og lønningene både for de som direkte berøres av avtalene, men også i arbeidsmarkedet forøvrig (Manning, 2021). Konkurranselovgivningen vil i slike situasjoner kunne spille en rolle for å redusere uønskede utslag.
+
+I OECDs årlige utgave av Employment Outlook for 2022 er det viet et kapittel til monopsoni og konsentrasjon i arbeidsmarkedet (OECD, 2022b). Ifølge rapporten er konsentrasjonen i arbeidsmarkedet omfattende i mange OECD-land. Norge inngår ikke i analysen. I gjennomsnitt er minst 16 prosent av de sysselsatte i privat sektor tilknyttet et arbeidsmarked som kan klassifiseres som konsentrert, se figur 9.3. OECD (2021) peker på at det overordnede nivået på konsentrasjonen i arbeidsmarkedet har vært forholdsvis stabilt mellom 2003 og 2017, dog basert på utviklingen i kun syv OECD-land, herunder Danmark og Finland.[^59]
+
+Andel sysselsatte som er tilknyttet konsentrerte arbeidsmarkeder i privat sektor.<sup>1, 2</sup> Prosent. 2019
+
+<sup>1</sup> Konsentrerte arbeidsmarkeder er her definert som markeder som er minst moderat konsentrerte og har en verdi på 1500 eller mer etter Herfindahl-Hirschman-indeksen. Denne indeksen benyttes av mange konkurransemyndigheter når de vurderer markedskonsentrasjon.
+
+<sup>2</sup> Privat sektor omfatter det OECD (2022b) referer til som «business sector». Næringer med betydelig grad av offentlig sysselsetting som offentlig administrasjon, forsvar, undervisning og helse- og sosialtjenester er tatt ut.
+
+<sup>3</sup> For OECD er andelen et uvektet gjennomsnitt av landene i studien utenom Singapore.
+
+Kilde: OECD (2022b).
+
+OECD (2022b) finner i tråd med litteraturen på feltet at for alle landene i undersøkelsen er arbeidsmarkedskonsentrasjonen høyere i mindre sentrale strøk enn i urbane strøk. For OECD-gjennomsnittet er andelen som jobber i konsentrerte markeder 29 prosent i mindre sentrale strøk, mot 11 prosent i urbane strøk. Også Hirsch mfl. (2022) finner at arbeidsgivere har mindre mulighet til å redusere lønningene i mindre konsentrerte, urbane arbeidsmarkeder. De finner at lønnstillegget som vanligvis gjelder i urbane strøk, til dels kan forklares med at det er bedre konkurranse i arbeidsmarkeder med større befolkningstetthet. Det supplerer tidligere studier som har fokusert på at et urbant lønnstillegg kommer fra at arbeiderne har høyere produktivitet i byene.
+
+OECD (2022b) viser til at det er estimert en effekt av konsentrasjon på lønn i Tyskland, Danmark, Frankrike og Portugal. I snitt for disse landene tyder resultatene på at en økning i markedskonsentrasjon på 10 prosent kan gi en reduksjon i lønningene på 0,2–0,3 prosent. I gjennomsnitt fremstår dette som en relativt beskjeden lønnseffekt. Konsentrasjonen er imidlertid nokså ujevnt fordelt på tvers av arbeidsmarkedet. Eksempelvis får sysselsatte som arbeider i de 10 prosent mest konsentrerte markedene, en lønnsreduksjon i forhold til medianarbeidstakeren på 5 prosent. OECD (2022b) påpeker at de ikke finner vesentlig forskjell på lønnseffekten av konsentrasjon mellom kvinner og menn i disse tallene. OECD (2021) estimerer effekten av konsentrasjon på lønn til å ha blitt sterkere de to siste tiårene. Selve konsentrasjonen har ikke økt, men den kan synes å ha fått større betydning for lønningene. En mulig forklaring på det er ifølge OECD (2021) nedgangen man har sett i tariffavtaledekning og fagorganisering i mange OECD-land, også beskrevet i kapittel 4.
+
+Vi har ikke direkte sammenlignbare tall for Norge. Imidlertid har Berger mfl. (2023) sett på i hvilken grad forhold knyttet til konsentrasjon samt andre kilder til markedsmakt påvirker lønningene i Norge. De har utviklet en teoretisk modell for arbeidsmarkedet kalibrert på norske data for perioden 2006–2016. De finner også at arbeidsgivere har monopsonimakt i Norge og at alle de tre kildene til monopsonimakt er virksomme. Størst effekt finner de av jobbsøkefriksjoner. Dernest er det forhold relatert til konsentrasjon i arbeidsmarkedet som har hatt betydning. Virkningen av ikke-lønnsmessige jobbpreferanser har også hatt betydning.
+
+### Betydning av monopsoni for ulike arbeidsmarkedssegmenter
+
+Betydningen av virksomhetenes makt i lønnsfastsettelsen vil variere på tvers av næringer, etter virksomhetsstørrelse og for grupper av arbeidstakere. De tre kildene til monopsonimakt, konsentrasjon, jobbsøkerfriksjoner og heterogene preferanser, kan også virke ulikt på ulike grupper arbeidstakere og for ulike næringer. Eksempelvis synes høyt utdannende og høytlønte å ha sterkere heterogene preferanser, mens de kan møte mindre arbeidsmarkedsfriksjoner, særlig i storbyene (Elert & Westerberg, 2023).
+
+Det er behov for mer forskning for å etablere en fullstendig forståelse av virkninger av monopsoni på ulike næringer og grupper på tvers av land. Vi har valgt å gjengi noen sentrale forskningsfunn som ikke direkte er knyttet til de lavest lønte, men som likevel kan ha relevans for lavtlønte grupper.
+
+Omfang av lavlønn varierer betydelig mellom næringer, se kapittel 7. Diez mfl. (2022) har sett på graden av markedsmakt over lønninger på tvers av sektorer i ti europeiske land, inkludert Norge, i perioden 2000–2017, se tabell 9.1. En verdi under 100 i tabellen tilsier at lønningene potensielt kan settes under arbeidskraftens marginale produktivitet. Jo lavere verdi, jo høyere er den potensielle lønnsmakten til arbeidsgiver. Tabellen viser at studien finner stort potensielt lønnsnedslag i næringene som er undersøkt. På medianen er optimal lønn fra virksomhetens ståsted i underkant av 2/3 av marginalinntekten av arbeidskraften. Det er en del forskjeller mellom næringene. Det er klart minst markedsmakt i næringene overnatting og serveringsvirksomhet samt transport og lagring. I disse næringene er det estimert at lønningene utgjør over 80 prosent av den marginale inntekten. Dette er næringer med relativt stort innslag av lavtlønte jobber i Norge, se kapittel 7. Næringen bergverksdrift og utvinning har størst innslag av markedsmakt. Her utgjør lønningene 45 prosent av marginale inntekten. I denne næringen er det imidlertid lite omfang av lavtlønte jobber i Norge, se kapittel 7.
+
+Potensielt lønnsnedslag. Forholdet mellom optimal lønn fra virksomhetens ståsted og virksomhetenes marginale inntekt av arbeidskraft i prosent. Gjennomsnitt og median for virksomheter i ti europeiske land. 2000–2017<sup>1</sup>
+
+03J1xt2
+
+|                                                |        |              |
+|------------------------------------------------|--------|--------------|
+| Næring                                         | Median | Gjennomsnitt |
+| Jordbruk, skogbruk og fiske                    | 64     | 55           |
+| Bergverksdrift og utvinning                    | 45     | 41           |
+| Industri                                       | 61     | 55           |
+| Bygge- og anleggsvirksomhet                    | 59     | 50           |
+| Transport og lagring                           | 81     | 59           |
+| Overnattings- og serveringsvirksomhet          | 85     | 74           |
+| Informasjon og kommunikasjon                   | 56     | 44           |
+| Finansierings- og forsikringsvirksomhet        | 50     | 44           |
+| Omsetting og drift av fast eiendom             | 49     | 42           |
+| Faglig, vitenskapelig og teknisk tjenesteyting | 56     | 46           |
+| Forretningsmessig tjenesteyting                | 61     | 49           |
+| I alt                                          | 63     | 55           |
+
+<sup>1</sup> Det er benyttet ORBIS-data med tall for virksomheter i analysen. I studien er det vist til forholdstallet mellom virksomhetenes marginale inntekt av arbeid over optimal lønn fra virksomhetenes ståsted, mens vi her gjengir forholdstallet med omvendte størrelser i nevner og teller av brøken. Studien omfatter Norge, Sverige, Finland, Østerrike, Belgia, Tyskland, Spania, Frankrike, Italia og Portugal. For Norge og noen flere land er første år med data i analysen 2006. Gjennomsnitt er uvektede.
+
+Kilde: Diez mfl. (2022).
+
+For Norges del finner Diez mfl. (2022) at det i gjennomsnitt har vært en nedgang eller ingen endring i markedsmakten for virksomheter i alle næringer, bortsett fra landbruk, skogbruk og fiske.
+
+Tabell 9.1 gir et overordnet bilde av ulike næringer. Studien finner også betydelig variasjon i markedsmakt mellom ulike virksomheter innenfor samme næring. Videre viser forfatterne at det er en tydelig positiv sammenheng mellom virksomhetens lønnsmakt og virksomhetens størrelse i antall sysselsatte. Større virksomheter i form av sysselsatte har i gjennomsnitt mer lønnsmakt. Studien sier imidlertid ikke noe om hvilke arbeidstakergrupper som er påvirket av arbeidsgivernes lønnsmakt.
+
+OECD (2022b) har sett på hvilke yrkesgrupper som i særlig grad arbeider i de mest konsentrerte arbeidsmarkedene. Norge inngår som tidligere nevnt, ikke i studien. I de mest konsentrerte arbeidsmarkedene finner studien yrker som instrumentmakere og -reparatører (eks. urmakere), kunsthåndverkere, grafiske arbeidere mv., medisinske og helserelaterte yrker, hjelpearbeidere i primærnæringene og renovasjons- og gjenvinningsarbeidere og andre hjelpearbeidere. For disse yrkene er om lag 45–55 prosent av arbeiderne sysselsatt i markeder som er konsentrerte. Dette dreier seg delvis om yrker som hjelpearbeidere med lave kvalifikasjoner og med lavt lønnsnivå, men samtidig også håndverksyrker og andre mer spesialiserte yrker. I den andre enden av skalaen, hvor det er lite konsentrasjon i arbeidsmarkedet, identifiserer OECD (2022b) flere yrker med få formelle kompetansekrav som yrker innenfor salg, renhold og hjelpearbeidere i bergverk, industri, bygg og anlegg og transport. Slike yrker ser i større grad ut til å være knyttet til et bredt spekter av næringer.
+
+OECD (2022b) konkluderer samlet sett med at arbeidstakere i yrker med middels kompetansenivå har den høyeste sannsynligheten for å være sysselsatt i arbeidsmarkeder med relativt høy konsentrasjon, mens personer i yrker med lav kompetanse har lavest sannsynlighet, se figur 9.4. Det er betydelig variasjon på tvers av land i studien.
+
+Andel sysselsatte etter kompetansenivå (lavt, middels, høyt)<sup>1</sup> som er tilknyttet konsentrerte arbeidsmarkeder i privat sektor.<sup>2, 3</sup> Prosent. 2019
+
+<sup>1</sup> Kompetansenivåene er definert etter ILOs internasjonale standard for yrkesklassifisering (ISCO-08) på ett-siffernivå. Lavt kompetansenivå omfatter salgs- og serviceyrker og renholdere, hjelpearbeidere mv. (5, 9), middels kompetansenivå omfatter kontoryrker, håndverkere og prosess- og maskinoperatører, transportarbeidere mv. (4, 7- 8) og høyt kompetansenivå omfatter ledere, akademiske yrker og høyskoleyrker (1-3).
+
+<sup>2</sup> Konsentrerte arbeidsmarkeder er her definert som markeder som er minst moderat konsentrerte og har en verdi på 1500 eller mer etter Herfindahl-Hirschman-indeksen. Indeksen benyttes av mange konkurransemyndigheter når de vurderer markedskonsentrasjon.
+
+<sup>3</sup> Privat sektor omfatter det OECD (2022) referer til som «business sector». Næringer med betydelig grad av offentlig sysselsetting som offentlig administrasjon, forsvar, undervisning og helse- og sosialtjenester er tatt ut.
+
+<sup>4</sup> For OECD er andelen et uvektet gjennomsnitt av landene i studien utenom Singapore.
+
+Kilde: OECD (2022b).
+
+Barth og Dale-Olsen (2009) finner at i Norge er personer med kort utdanning mer tilbøyelige til å skifte jobb ved lønnsendringer enn personer med lang utdanning.[^60] Det indikerer at virksomhetenes makt i lønnsfastsettelsen kan være mindre relevant i arbeidsmarkeder der det etterspørres arbeidskraft med kort utdanning fremfor i arbeidsmarkeder der det etterspørres arbeidskraft med lang utdanning. Verdiene tilsier imidlertid forholdsvis uelastisk arbeidstilbud – altså lite lønnssensitivitet – for begge typer arbeidskraft. Det gir potensiell lønnsmakt for virksomhetene både for arbeidskraft med kort og lang utdanning. Samme studie finner også at arbeidsgivere har større lønnsmakt overfor kvinner enn menn med samme utdanningslengde. Studien konkluderer derfor med at monopsoni kan være en vesentlig faktor som bidrar til lønnsforskjellene mellom kvinner og menn i Norge, spesielt når det gjelder de med kort utdanning. At arbeidsgivere har mer monopsonimakt over kvinner enn menn er også i tråd med funn i andre studier (Sokolova & Sorensen, 2021). OECD (2022b) finner likevel ikke at konsentrasjon som kilde til markedsmakt gir større utslag på lønnen til kvinner enn menn. Det kan i så fall indikere at markedsfriksjoner ved jobbskifte og ulike preferanser for arbeidsgivere er viktigere faktorer for å forklare at arbeidsgiver har større lønnsmakt ovenfor kvinner enn menn. En mulig årsak kan være at omsorgsoppgaver i familien påvirker kvinners valg av arbeidsgiver i større grad enn menns, og gjør andre forhold ved arbeidsstedet enn lønn viktigere. Lønn blir dermed relativt sett mindre viktig for kvinner enn menn.
+
+Konkurransebegrensende avtaler gir arbeidstakerne mindre muligheter til å skifte jobb og arbeidsgiver, og kan dermed gi økt makt til arbeidsgiver, som igjen kan påvirke lønningene i markedet. I USA er konkurransebegrensende avtaler generelt svært utbredt. Dette gjelder særlig innenfor kunnskapsintensive bransjer og profesjoner som ingeniører. Innenfor IKT-bransjene i USA har mer enn en tredjedel av arbeidstakerne konkurranseklausuler i sine arbeidsavtaler. Det finnes slike klausuler innenfor mange ulike yrker. Også blant arbeidstakere som ikke har lang utdanning har om lag 15 prosent av alle arbeidstakere i USA en eller annen form for konkurranseklausul i sine arbeidsavtaler (Skogli mfl., 2016).
+
+Skogli mfl. (2016; 2023) har kartlagt omfanget av konkurransebegrensende avtaler i arbeidsforhold i Norge. De har brukt spørreundersøkelser til å undersøke omfanget av konkurranseklausuler, kundeklausuler og rekrutteringsklausuler i Norge. En konkurranseklausul er en avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers adgang til å ta ansettelse i, etablere eller drive konkurrerende virksomhet med arbeidsgiver etter arbeidsforholdets opphør. En kundeklausul er en avtale mellom arbeidsgiver og arbeidstaker som begrenser arbeidstakers mulighet til å kontakte arbeidsgivers kunder etter at vedkommende har avsluttet sitt arbeidsforhold. En rekrutteringsklausul er i denne sammenheng en avtale som begrenser arbeidstakers mulighet å rekruttere tidligere kollegaer i en periode etter arbeidsforholdets opphør. Undersøkelsene viser at om lag 20 prosent av norske virksomheter hadde konkurransebegrensende avtaler i én eller flere av arbeidskontraktene med sine ansatte. Forfatterne fant ingen signifikant endring i andelen med konkurransebegrensende avtaler mellom 2016 og 2023. En finner konkurransebegrensende avtaler i arbeidsforhold også innenfor bransjer som ikke er blant de typisk mer kunnskapsintensive med mange høyt utdannede spesialister i Norge. To spørreundersøkelser fra 2016 og fra 2023 tyder likevel på at slike avtaler er mest utbredt i Norge blant ledere, spesialister og salgs- og kundeansvarlige (Skogli mfl., 2016; 2023). Undersøkelsen fra 2023 viste samtidig at antallet tvistesaker om konkurransebegrensende avtaler i arbeidsforhold hadde falt etter innstramningene i regelverket i 2016/2017. Innstramningene gjaldt karanteneperiodens varighet og bestemmelser om å betale kompensasjon når klausulene gjøres gjeldende.
+
+Innvandrere er en annen gruppe som forskningen finner at arbeidsgiver har mer makt i lønnsfastsettelsen overfor enn befolkningen for øvrig. Innvandrere i Tyskland er generelt mindre lønnsfølsomme (lavere lønnselastisiteter) enn øvrig befolkning, og dette er spesielt tydelig blant innvandrere med kortere arbeidserfaring i det tyske arbeidsmarkedet (Hirsch & Jahn, 2015). Studier har også vist at arbeidsmarkeder i USA med en høyere andel innvandrere typisk viser tegn til i større grad å være monopsonistiske (Amior & Manning, 2021). Innvandrere kan på grunn av språkbarriere ha større utfordringer med å få og skifte jobb. Slike barrierer kan også komme fra begrensninger i oppholdstillatelsene som i større grad enn hos øvrig befolkning kan låse innvandrere til samme jobb, samme næring eller geografisk område. Faglærte arbeidsinnvandrere fra tredjeland i Norge må eksempelvis ha et konkret arbeidstilbud fra en arbeidsgiver for å søke om oppholdstillatelse og det må i utgangspunktet søkes om ny oppholdstillatelse om en skal bytte arbeids- eller oppdragsgiver. Flyktninger blir ofte værende i bosettingskommunen de fem første årene i Norge, blant annet for å ha rett til introduksjonsprogram, introduksjonsstønad og annen økonomisk bistand.
+
+En annen måte virksomhetene kan utøve makt over arbeidstakerne enn ved å trekke lønnen ned, er ved endringer i arbeidsvilkår. Dette kan få utslag i større omfang av løsere og mer alternative tilknytningsformer enn ordinært ansatt i et arbeidsmarked. En virksomhet med markedsmakt kan eksempelvis tenkes å ha større sannsynlighet på marginen for å tilby arbeidstakerne midlertidige stillinger. Det er lite empiri på feltet, men Bassanini mfl. (2022) finner at konsentrasjon i arbeidsmarkedet reduserer sannsynligheten for faste stillinger og overgang fra midlertidig til fast stilling i en analyse av disse forholdene i Tyskland, Frankrike, Spania og Italia. Norge inngår ikke i studien. Regulering av arbeidsvilkår i et land kan være viktig for å redusere utnyttelse av monopsonimakt.
+
+En annen måte virksomheter med markedsmakt kan utøve denne på, er å bli mer selektiv med tanke på hvem de ansetter, hva de krever av kompetanse, og hva de forventer av allerede ansatte arbeidstakere. Det kan medføre en ulempe for unge med kort arbeidserfaring. OECD (2022b) finner i en analyse som omfatter Australia, Canada, USA og Storbritannia en viss sammenheng mellom konsentrasjon og etterspørsel etter antall ferdigheter i stillingsannonser. Dette indikerer at markedsmakt kan øke etterspørselen etter arbeidskraft med høyere kompetanse.
+
+## Fagforeninger som motmakt
+
+Barth mfl. (2020) undersøkte effekten av fagforeninger i Norge for perioden 2001–2012 ved å se på endringer i fradraget for fagforeningsmedlemsskap i inntektsskatten som eksogen variasjon. Studien dekker i hovedsak arbeidstakere i industrien. Forfatterne fant at økt fagforeningsgrad på arbeidsplassen, gir økt lønn. I tillegg til høyere lønninger, fant forfatterne at mer fagorganisering i virksomheten gir økt produktivitet og at lønnen øker mest i produktive virksomheter. Forfatterne peker på at den positive lønns- og produktivitetssøkningen ved økt fagforeningsgrad i stor grad er knyttet til variasjon i hvordan forholdet mellom ledelsen og arbeidstakerne er organisert på arbeidsplassen. Økt fagforeningsmedlemskap i analysen stammer i stor grad fra at arbeidstakere i små virksomheter med forholdsvis beskjedne organisasjonsgrader organiserer seg. Økt fagforeningsmedlemskap bidrar dermed til å nå det nødvendige antallet (eller andelen) personer en virksomhet trenger for enten å etablere eller beholde mer formelle kanaler av påvirkning mellom de ansatte og virksomheten. Effekten på produktivitet og lønninger vil dermed kunne være mindre om fagorganiseringen i virksomheten er svært lav eller for eksempel allerede er høy og endringen i andel med fagorganisering i liten grad vil påvirke innretninger som at det eksisterer en tariffavtale og at arbeidsgiver er organisert. Forfatterne påpeker at spørsmålet om økt fagorganisering gir økt produktivitet er trolig avhengig av organiseringen av lønnsdannelsen og fagforeninger i et hvert land og må dermed leses i en norsk kontekst.
+
+Dodini mfl. (2022) benytter samme metode som Barth mfl. (2020) og ser også på lønnseffekten av fagforeninger i Norge basert på data for perioden 2001–2015 og for hele økonomien. Forfatterne finner i tråd med det Barth mfl. (2020) at økning i fagforeningsgraden på arbeidsplassen i gjennomsnitt fører til økte lønninger. Forfatterne påpeker at den positive lønnseffekten ved fagforeningsmedlemsskap drives av virkninger i privat sektor.
+
+I tillegg til å vurdere den generelle virkningen økt fagforeningsmedlemskap har på lønn, har Dodini mfl. (2022) også sett på hvordan lønnseffekten varierer med konsentrasjonsgraden i arbeidsmarkedet i Norge. De finner betydelig større effekt på lønninger av økt fagforeningsgrad i mer konsentrerte arbeidsmarkeder. Dette betyr at fagforeningene klarer å hente ut større lønnsøkning i konsentrerte markeder selv om arbeiderne her har færre alternative arbeidsgivere å gå til. Forfatterne finner at fagforeninger klarer å hente ut mer lønn fra høyt overskudd som stammer fra konsentrasjon både i produkt- og arbeidsmarkedet. Forfatterne finner videre at virksomheter svarer på økningen i fagforeningsgrad og økt lønn med økt bruk av arbeidskraft i konsentrerte markeder og redusere bruk av arbeidskraft i markeder uten konsentrasjon. Det gir støtte til teorien om hva en kan forvente av sysselsettingsvirkninger av fagforeninger i markeder med monopsoni og markeder mer preget av fullkommen konkurranse.
+
+Vi ser av dette at fagforeninger klarer å øke lønningene og også motvirke monopsonimakt. Det er likevel et gjenstående spørsmål i hvilken grad fagforeninger evner å øke lønningene ikke bare i gjennomsnitt, men også for de lavtlønte. Ifølge Svarstad (2023) har økt fagorganisering på arbeidsplassen bidratt til å redusere sannsynligheten for å være lavtlønnet i Norge. Dette finner hun både når lavlønnsgrensen defineres som under 85 prosent av industriarbeiderlønn og som under 2/3 av medianlønn.[^61] Analysen er begrenset til ansatte i privat sektor, men som vist i kapittel 7 er det også her andelen lavlønte er størst.
+
+Svarstad (2023) finner at en økning på 10 prosentpoeng i fagforeningsandel i en virksomhet, reduserer sannsynligheten for å være lønnet under 85 prosent av industriarbeiderlønn med 1,1-7,2 prosentpoeng. Effekten er noe mindre når hun benytter en lavlønnsgrense på 2/3 av medianlønnen. Hun finner at økt fagorganisering reduserer sannsynlighet for å være under lavlønnsgrensen, definert som under 85 prosent av industriarbeiderlønn, isolert også for næringene industri og varehandel.
+
+Videre finner hun at fagforeningsgraden i virksomheten har mer å si for innvandrere[^62] enn øvrig befolkning, og at dette er særlig tydelig for innvandringsgruppen fra EU/EØS-land. Dette kan skyldes at virksomheten har større monopsonimakt overfor innvandrere enn andre, og at de derfor tjener relativt mer på økt fagorganisering på arbeidsplassen. En annen mulig forklaring er at en større andel av innvandrerne er nærmere lavlønnsgrensen initialt enn øvrig befolkning. Det er tenkelig at avstanden til lavlønnsgrensen også har noe å si for i hvor stor grad økt fagforeningsandel i virksomheten påvirker sannsynligheten for å være lavtlønnet i bestemte næringer.
+
+## Minstelønningers virkning på sysselsettingen
+
+Som vist til i punkt 9.2 om det teoretiske bakteppet, vil et lønnsgulv både kunne øke og redusere sysselsetting, avhengig av nivået det settes til og i hvilken grad monopsoni og fagforeningsmakt har påvirket lønnsnivået. Det må forventes at ulike studier i forskjellige land og markeder finner ulike effekter. Sammenhengen oppsummeres i figur 9.5. For relativt lave lønnsnivåer i markeder med innslag av monopsoni, vil lønnsgulv kunne presse opp lønningene og samtidig øke sysselsettingen. Dette kan skje inntil lønnsnivået nærmer seg arbeidskraftens marginale produktivitet. Gitt at arbeidsmarkeder er komplekse og det er et visst intervall for lønnen der sysselsettingen endrer seg lite, er det rimelig å anta at det finnes et område der lønnsendringer har liten betydning for sysselsettingen. For høyere lønnsnivåer, vil det derimot være en negativ sammenheng mellom lønninger og sysselsetting, se figur 9.5. I tråd med dette finner den internasjonale forskningen både positive, negative og tilnærmet ingen effekt på sysselsettingen av minstelønninger (OECD, 2022; Elert & Westerberg, 2023).
+
+Sammenhengen mellom minstelønninger og sysselsetting
+
+Kilde: Elert og Westerberg (2023).
+
+Manning (2021) referer til at det over de siste årene har vært en dreining både blant politikere og innenfor akademia i retning av mer støtte til bruken av minstelønninger, forutsatt at de ikke settes for høyt. Han peker videre på at det er funnet mer positive effekter av minstelønninger i arbeidsmarkeder med lite konkurranse.
+
+Elert og Westerberg (2023) har oppsummert studier som har sett på sysselsettingsvirkninger av endringer i tariffastsatte minstelønninger i nordiske og noen andre europeiske land. Det er ikke inkludert studier fra Norge her, men mange fra Sverige. Samlet viser et flertall av studiene indikasjoner på negative sysselsettingsvirkninger. Forfatterne viser til at dette trolig har sammenheng med at slike tariffavtalte minstelønninger allerede er forholdsvis høye i disse landene i internasjonal sammenheng. I tilfeller der det allerede er etablert en minstelønn for yrkesgruppen, og det er snakk om en økning i satsen, er det mer sannsynlig at man allerede er kommet opp på et nivå som er mer i tråd med arbeidskraftens marginale produktivitet og en vil se negative sysselsettingsvirkninger av ytterligere satsøkninger. I de svenske studiene, er det en tydelig tendens til negative sysselsettingseffekter, selv om disse effektene til dels er beskjedne. Det er særlig funnet negative sysselsettingseffekter av inngangslønninger bestemt i tariffavtaler for unge, innvandrere og andre grupper med svak posisjon i arbeidsmarkedet. Resultatene tyder på at minstelønninger i Sverige bidrar til at grupper med svakere posisjon i arbeidsmarkedet, for eksempel innvandrere med flyktningbakgrunn, erstattes av grupper med sterkere posisjon. Dette er en type sammensetningseffekt innad i gruppen som dreier sysselsettingen mot de med høyest produktivitet av de som omfattes av minstelønningene.
+
+Kreiner mfl. (2020) finner at sysselsettingen reduseres mye for 18-åringer når minste timelønn i Danmark gjør et hopp på 40 prosent når den ansatte fyller 18 år. Studien finner at lønnsøkningen reduserer sysselsettingen blant 18-åringer med en tredjedel og enda mer målt i arbeidstimer. Studien undersøker imidlertid ikke i hvilken grad de unge som mister jobben erstattes av eldre arbeidstakere.
+
+Ifølge Elert og Westerberg (2023) kan det være slik at fagforeninger i land der fagforeninger står sterkt, over tid i større grad har ytt effektiv motmakt til arbeidsgivers lønnsmakt, og at man dermed i mindre grad ser positive sysselsettingsvirkninger av hevinger av minstelønninger i tariffavtaler her. Forfatterne slutter at det kan indikere et mer begrenset handlingsrom for videre økninger av minstelønninger i slike land.
+
+## Utvalgets vurderinger
+
+Økonomisk teori kan belyse hvordan maktforholdene mellom arbeidsgiver- og arbeidstakersiden påvirker fordelingen av verdiskapingen, og samtidig kan være viktige for å realisere et sysselsettingsnivå som gir høy samfunnsøkonomisk velferd. I fravær av forhandlingsstyrke på arbeidstakersiden, kan markedsmakt hos arbeidsgivere bidra til å presse lønningene for enkelte arbeidstakergrupper så langt ned at det påvirker sysselsettingen negativt, samtidig som omfanget av lave lønninger i økonomien øker. I slike situasjoner kan ulike tiltak for høyere lønnsgulv være nødvendig for å løfte lønningene, samtidig som økte lønninger fører til høyere sysselsetting og økt økonomisk effektivitet. En positiv sammenheng mellom lønninger og sysselsetting vil likevel bare gjelde opp til et visst lønnsnivå. Både fagforeningsmakt og ordninger som allmenngjøring kan bidra til å løfte de laveste lønningene.
+
+Den internasjonale empiriske forskningen bekrefter at også i moderne arbeidsmarkeder kan arbeidstakernes mobilitet være begrenset av få aktuelle arbeidsgivere, jobbsøkerfriksjoner og/eller at arbeidstakerne er opptatt av andre sider av jobben enn lønn. Forskningen finner også at deler av det norske arbeidsmarkedet er preget av slike forhold. Dette gir virksomhetene en potensiell mulighet til å holde lønningene nede (monopsonimakt). Fagorganisering og tariffavtaler motvirker samtidig effekten av arbeidsgivers monopsonimakt på lønnsnivået. Det gjelder både generelt og mer spesifikt for lavtlønte grupper som omfattes av kollektive forhandlinger. For grupper som ikke dekkes av kollektive tariffavtaler kan slike krefter få mer spillerom, også i Norge.
+
+Forskningsresultatene tyder på at en del aspekter av monopsonimakt er mest relevant i profitable næringer, der arbeidskraft med høyere kompetanse og/eller mer spesialisert arbeidskraft er vanlig. Det kan likevel ikke utelukkes at slik lønnsmakt trekker lønningene ned for noen lavtlønte grupper særskilt. Det kan gjelde i lokale arbeidsmarkeder med få arbeidsgivere. Innvandrere er også i en mer sårbar posisjon for slik lønnsmakt, da eksempelvis språkbarrierer, styrt bosted for flyktninger og begrensinger i oppholdstillatelser kan redusere deres muligheter for å bytte arbeidsgiver. Forskningen finner også større muligheter til å bruke lønnsmakt overfor kvinner enn menn, både i Norge og andre land. Det sees ofte i sammenheng med at kvinner i større grad har behov eller preferanser knyttet til arbeidssted på grunn av omsorgsoppgaver. Utvalget minner om at i kapittel 7 vises det at innvandrere og kvinner også er grupper med høyere forekomst av lavlønn.
+
+Selv om økning i de laveste lønningene kan medføre økt sysselsetting, hvis det er tilbudet av arbeidskraft som begrenser sysselsettingen, vil det bare gjelde på noen lønnsnivåer. Når lønningene når et visst nivå, vil virksomhetene redusere sin etterspørsel etter arbeidskraft.

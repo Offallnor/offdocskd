@@ -1,810 +1,194 @@
-# NOU 2024: 11, del 14 av 16 (side 180–189)
+# NOU 2024: 11, del 14 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/defc774c-nou-2024-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-11/id3045067/
 - Original-PDF: https://www.regjeringen.no/contentassets/02c2c00e81844931b028606567a99395/no/pdfs/nou202420240011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 116 figurer, 540 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 180]
+## Valg av indikatorer
 
-178
+### Kriterier for valg av indikatorer
 
-Kapittel 10
+I samfunnsvitenskap brukes indikatorer for å angi eller beskrive forhold som er for kompliserte eller for kostbare å måle direkte (Dahlum & Grønmo, 2020). Lønnsspredning og lavlønn er komplekse tema som kan belyses på en rekke forskjellige måter. En del av dem framgår av kapittel 6. Utvalget har benyttet flere indikatorer for måling av lavlønn, men disse skal ikke tolkes normativt.
 
-NOU 2024: 11
-Lavlønn i Norge
+Utvalget framhever at en god indikator først og fremst må fange kjernen i det spørsmålet vi er interessert i, og gi en beskrivelse av tilstanden og endringer over tid. Det krever tidvis flere supplerende indikatorer for å gi et godt bilde. Samtidig er formålet nettopp å kunne gi et enkelt og forståelig innblikk i komplekse sammenhenger. Utvalget mener derfor det er fornuftig å velge ut et begrenset antall indikatorer som følges over tid og supplere med mer utfyllende indikatorer med noe lengre mellomrom.
 
-Nivået på disse minstelønningene faller dermed under 2/3 av medianlønnen (for heltidsansatte). De norske allmenngjorte satsene utgjør til
-sammenlikning mellom 50 og 83 prosent av avtalt
-medianlønn for heltidsansatte. De ligger altså i
-stor grad høyere enn de lovfestede minstelønningene i EU.
-I en del europeiske land har det vært en klar
-økning i minstelønnsnivået sammenlignet med
-medianlønnen siden 2000. Eksempelvis har minstelønnen i Storbritannia i denne perioden økt fra
-41 til 58 prosent, i Portugal fra 49 til 66 prosent og
-i Spania fra 37 til 50 prosent, som andel av medianlønnen. I de fleste nye EU-land har det også vært
-en økning. Frankrike har hatt en stabil høy minstelønn rundt 60 prosent, mens minstelønnen i
-USA har falt sammenlignet med medianlønnen.
-Sammenligner vi minstelønnsnivåene i kjøpekraftsjusterte termer, endrer rekkefølgen mellom
-landene seg noe. Da har Frankrike og Tyskland
-de høyeste minstelønnsnivåene, mens en del land
-i Øst-Europa faller lenger ned på listen, se figur
-10.17. USA plasserer seg fortsatt ganske langt
-nede, men over enkelte av EU-landene.
-Den siste tiden med høy inflasjon har det vært
-økende bevissthet om at særlig lavtlønte grupper
-kan få store utfordringer når priser på viktige og
-nødvendige varer øker mer enn lønningene. ILO
-har pekt på at minstelønninger i en del land ikke
-holder tritt med prisstigningen (ILO, 2022). Både
-ILO og OECD har tatt til orde for at minstelønnssatser bør indekseres jevnlig for at ikke lavtlønte
-grupper skal miste kjøpekraft.
+Indikatorene må også fortelle brukerne noe. Det betyr at de hjelper brukeren til å gjøre seg opp en oppfatning av om tilstanden er tilfredsstillende eller bekymringsfull og om utviklingen går i ønsket retning. Det kan enten oppnås ved at indikatorene kan gis en intuitiv tolkning eller ved at indikatoren er egnet til sammenligning. Det er en fordel å bruke indikatorer som også er i bruk i forskning, utredning, analyse og statistikkproduksjon. Det vil gjøre det lettere å forstå og tolke indikatoren for flere, og å sammenligne funn.
 
-10.8.2 Lovfestet minstelønn og andre
-lønnsgulv
-I dag er det flere land i Europa som både opererer
-med allmenngjøring av tariffavtaler og lovfestet
-minstelønn. Eksempelvis kombinerer Belgia,
-Nederland og Frankrike allmenngjøring med lovfestet minstelønn. Den lovfestede minstelønnen er
-høyere i Frankrike enn i Nederland og Belgia, se
-figur 10.16 og 10.17. Den lovfestede minstelønnen
-samsvarer ofte med laveste nivå i de kollektive
-avtalene, mens avtalene også ofte fastsetter høyere tariff etter erfaring, alder og ansvarsområder
-(Oldervoll & Svarstad, 2018).
-I Tyskland ble lovfestet minstelønn innført i
-2015 på bakgrunn av stort omfang av lave lønninger. I 2014 var Tyskland blant de europeiske landene med høyest andel lavtlønte. 22,5 prosent av
-de ansatte hadde en lønn under 2/3 av medianlønnen i landet i 2014 (Eurostat, 2021). 11,4 prosent
-av tyske arbeidstakere lå på eller under satsen
+Det relevante sammenligningsgrunnlaget vil ofte være tilsvarende tall for andre land eller andre tidspunkter. I andre sammenhenger kan man sammenligne mellom næringer eller andre undergrupper, se eksempler i kapittel 7. Også indikatorer som har en intuitiv tolkning, vil gi mer mening om de kan relateres til noe annet. At indikatorene er tilgjengelig for andre land og i lange tidsserier er derfor et hensyn utvalget vektlegger.
 
-som ble ny minstelønnssats fra 1. januar 2015. I
-tidligere Øst-Tyskland gjaldt det så mange som
-hver femte arbeidstaker (Jordfall & Nymoen,
-2016). Før dette hadde Tyskland basert seg på
-tariffavtaler og en mer begrenset bruk av allmenngjøring,10 samtidig som avtalefriheten for lønn ble
-tungt vektlagt (Oldervoll & Svarstad, 2018). Tyskland opplevde imidlertid i sterk grad fallende
-tariffavtaledekning og stadig lavere organisasjonsgrad fra 1990-tallet (OECD, 2019c). Etter gjenforeningen mellom Øst-Tyskland og Vest-Tyskland
-fikk landet en raskt voksende lavlønnssektor, som
-det viste seg svært vanskelig å motvirke med det
-allmenngjøringsinstituttet som eksisterte.
-Jordfald og Nymoen (2016) peker på at den
-bransjespesifikke forhandlingsmodellen man opererer med i Skandinavia, gir gode økonomiske og
-sosiale utfall, og at forhandlingsmodellene i disse
-landene fortsatt har bred oppslutning fra både partene og myndighetene. Som kapittel 6 viste, er
-lønnsforskjellene i nordiske land også mindre enn
-i flertallet av europeiske land og omfanget av lavlønn er lavere i nordiske land enn i en del andre
-vestlige land selv om omfanget her også har økt.
-Jordfald og Nymoen (2016)) beregnet hvor
-mange lønnstakere i Norge over 20 år som ville
-falle innenfor en hypotetisk norsk lovfestet minstelønn på samme relative nivå som den tyske
-minstelønnen. Den lovfestede tyske minstelønnen
-tilsvarte på innføringstidspunktet 48 prosent av
-medianlønnen for heltidsansatte, altså lavere enn
-allmenngjorte satser i Norge. De fant at en slik
-minstelønn i 2012 ville berørt 1,7 prosent av de
-norske lønnstakerne. I etterkant har lavlønnsandelen i Norge økt noe, se kapittel 6, men bruken
-av allmenngjøring er også utvidet, se figur 10.13.
-Oldervoll og Svarstad (2018) gir også en litteraturgjennomgang av forskningen på ulike former
-for minstelønnsreguleringer og effekten på lønnsfordelingen. De viser til at internasjonale studier
-som sammenligner de tre typene minstelønn
-(avtale, allmenngjøring og lovfesting) tyder på at
-alle går sammen med reduserte lønnsforskjeller.
-Bildet fra forskningen er betydelig mer uklart når
-det gjelder hvordan de ulike minstelønnsreguleringene virker sammen. Komplementerer disse
-hverandre, eller kan de også motvirke hverandre
-når det gjelder å løfte bunnen? Noe forskning indikerer at når minstelønnen avtales mellom partene
-i arbeidslivet på bransjenivå, blir nivået på denne
-relativt til medianlønnen i gjennomsnitt høyere
-10
+I en del sammenhenger vektlegges at indikatorer kan knyttes direkte til politiske valg eller at de skal sette tallfestede mål for utviklingen fram i tid. Utvalget oppfatter ikke at mandatet legger opp til den typen indikatorer og mener heller ikke selv det er hensiktsmessig på området.
 
-Det første allmenngjorte området i Tyskland kom i 1997,
-og gjaldt som i Norge i deler av bygg- og anleggsindustrien.
+Lønnsspredning og lavlønn er viktige temaer i flere sammenhenger. Noen ganger er det viktig at informasjonen kan oppdateres raskt og hyppig. I andre sammenhenger vil det viktigste være utviklingstrekk over noe lengre tid, og da vil aktualitetshensynet ofte være mindre avgjørende.
 
-[Side 181]
+Samlet sett vil utvalget derfor vektlegge at de foreslåtte indikatorene ikke er for mange, og at de er:
 
-NOU 2024: 11
-Lavlønn i Norge
+- Relevante
 
-enn dersom den reguleres i lov. Enkelte argumenterer samtidig for at lovfestet minstelønn kan supplere kollektive forhandlinger. Samtidig er det
-indikasjoner på at høy lovfestet minstelønn kan ha
-bidratt til ytterligere nedgang i avtaledekning og
-kollektive forhandlinger i enkelte land. I Nederland ser det også ut til at en lav lovfestet minstelønn kan ha trukket de laveste satsene i minstelønnsreguleringene i tariffavtalene ned. Myndighetene har ved flere anledninger krevd at partene
-senker de tariffavtalte satsene ned mot den nasjonale lovfestede minstelønnen, blant annet av sysselsettingshensyn. I Frankrike har man sett at den
-lovfestede minstelønnen forplanter seg oppover i
-lønnsfordelingen helt opp mot medianen. Dermed
-endres lønnsforskjellene under medianen seg
-mindre enn minstelønnshevingen skulle tilsi.
-Avtalebaserte systemer for minstelønn er mer
-fleksible enn lovfestede minstelønninger ved at de
-ofte differensierer minstelønnssatser etter sektor
-og bransje eller kjennetegn ved arbeidstakerne
-som alder og erfaring. Det kan gi rom for høyere
-lønn for enkelte grupper og samtidig større fleksibilitet nedover i møte med kriser og omstillingsbehov. I den norske debatten er det også lagt stor
-vekt på et ønske om å bevare at lønnsdannelsen i
-hovedsak er partenes ansvar. Frykten for at minstelønningene kan fungere vel så mye som et tak
-som et gulv, slik de nederlandske erfaringene
-tyder på, er også vektlagt.
-Det er bred enighet om at for å opprettholde at
-tariffavtalene skal kunne ta hovedansvaret for å
-regulere lønnsgulvet, er det nødvendig med høy
-organisasjonsgrad og tariffavtaledekning. Dølvik
-(2022) har pekt på at åpne jobbmarkeder med økt
-lavlønnskonkurranse krever sterkere lønnsgulv
-enn tidligere og at det er en utfordring at de med
-sterkest beskyttelsesbehov faller utenom avtalesystemet. Fallende organisasjonsgrad i mange
-land og økt innvandring har gjort både allmenngjøring av tariffavtaler og lovfestet minstelønn
-mer aktuelt. Samtidig er det en bekymring at en
-eventuell lovfestet minstelønn kan trekke i retning
-av lavere organisasjonsgrad i arbeidslivet.
-Både partene i arbeidslivet og norske myndigheter har vært klare i sin vurdering av at lovfestet
-minstelønn i Norge verken er nødvendig eller
-ønskelig.
+- Lette å tolke
 
-10.9 Utvalgets vurderinger
-De fleste europeiske land har tiltak mot lave lønninger. Slike tiltak omfatter både minstelønnssat-
+- Sammenlignbare over tid, mellom land og mellom grupper
 
-179
+- Etablerte i bruk
 
-Kapittel 10
+Disse kriteriene har likhetstrekk med kvalitetskriteriene for standarden for offisiell statistikk i Det europeiske statistiske system (EES 2017 og Zhang mfl., 2021) og med kriteriene i NOU 2005: 5 *Enkle signaler i en kompleks verden – Forslag til et nasjonalt indikatorsett for bærekraftig utvikling,* men er tilpasset utvalgets problemstilling.
 
-ser i tariffavtaler, spesifikke allmenngjorte satser
-fra kollektivavtaler og lovfestet minstelønn.
-I Norge, som i de andre nordiske landene, er
-det de kollektivt avtalte lønnssatsene som regulerer minstelønningene. Lønnssatsene er gjennomgående på et høyere nivå sammenlignet med
-medianlønnen enn lovfestet minstelønn er i land
-som har det. Rammen for den koordinerte norske
-lønnsdannelsen er frontfagsmodellen, og lønnsdannelsen i Norge skjer i hovedsak gjennom kollektive avtaler (tariffavtaler). I Norge har inntektspolitiske prioriteringer hos noen av partene
-historisk bidratt til at lavtlønte grupper har blitt
-prioritert.
-Virkemidler som lavlønnstillegg og heving av
-tariffavtalens minstelønnssatser trekker i retning
-av høyere prosentvis lønnsvekst for de lavest
-lønte. Det er ikke ensbetydende med at de lavest
-lønte får sterkere lønnsvekst enn andre. En betydelig del av lønnsveksten i privat sektor bestemmes ved lokale forhandlinger, der forhandlingsstyrke og virksomhetenes situasjon har stor
-betydning. Grupper som har fått særlige kronetillegg i de sentrale forhandlingene er i stor grad
-grupper som enten ikke har lokal forhandlingsrett
-eller som ofte har fått små lokale tillegg.
-Tariffoppgjørene har betydning også for
-arbeidstakere som ikke er organisert eller som
-jobber i virksomheter uten tariffavtale. Det kan
-både skje direkte, ved at arbeidsgiver velger å
-legge deler av tariffavtalen til grunn eller ved at
-lønnssatser allmenngjøres, og mer indirekte, gjennom at arbeidsgivere konkurrerer om arbeidskraften. Det er samtidig tegn til at den normdannende virkningen av tariffavtalen i områder med
-mye lavlønn har blitt svakere de siste to tiårene.
-Betydningen av forhandlingssystemet kan
-avhenge både av hvor mange og av hvem som er
-organisert. Hvis områder med mye lave lønninger
-ikke er dekket av tariffavtaler mens bedre lønte
-områder er det, kan det trekke i retning av at økt
-forhandlingsstyrke betyr at midten av lønnsfordelingen løftes relativt til både topp og bunn. Det
-samme vil være tilfelle dersom lavere organisasjonsgrad blant de lavest lønte innebærer at de
-prioriteres lavere av organisasjonene. I tariffbundne norske virksomheter er det samtidig slik
-at alle arbeidstakere innenfor omfangsbestemmelsene lønnes etter tariffavtalen.
-Både på arbeidstaker- og arbeidsgiversiden er
-det en blanding av direkte nytte-kostnadsvurderinger og mer prinsipielle vurderinger som påvirker valget om organisering eller ikke.
-Norge, Finland og Island bruker i tillegg allmenngjøring som virkemiddel mot lavlønn, i lik-
+### Valg av lønnsbegrep og analyseenhet
 
-[Side 182]
-
-180
-
-Kapittel 10
-
-NOU 2024: 11
-Lavlønn i Norge
-
-het med en rekke andre europeiske land. Ordningen griper inn i den ellers frie lønnsdannelsen og
-setter til side avtalefriheten om lønn. Ordningen
-innebærer imidlertid at det ikke skal allmenngjøres mer av tariffavtalen enn det som er nødvendig
-for å oppnå formålet med loven. Ordningen ser ut
-til å ha bidratt til å løfte de lavest lønte i de allmenngjorte områdene.
-Ingen av de nordiske landene har lovfestet
-minstelønn, mens dette spiller en viktig rolle i
-mange EU-land. Både partene i arbeidslivet og
-norske myndigheter har vært klare i sin vurdering av at lovfestet minstelønn i Norge verken er
-nødvendig eller ønskelig.
-Avtalebaserte systemer for minstelønn er mer
-fleksible enn lovfestede minstelønninger ved at de
-ofte differensierer minstelønnssatser etter sektor
-og bransje og sikrer en viss lønnsutvikling for
-ansatte over tid og ved økt kompetanse. Slik differensiering kan også speiles i allmenngjøringen.
-Minstelønnssystemene i tariffavtalene i privat sek-
-
-tor bygger på at det i tillegg skal være lokale forhandlinger. Kriteriene for disse innebærer at ulike
-forhold mellom bransjer og virksomheter ivaretas. Slike avtalte minstelønnssatser kan gi rom for
-høyere lønn for enkelte grupper. Det kan også
-gjøre det lettere å holde igjen på lønnsveksten for
-alle eller berørte grupper ved økonomiske kriser
-og omstillingsbehov.
-I den norske debatten er det også lagt stor
-vekt på et ønske om å bevare at lønnsdannelsen er
-partenes ansvar. Frykten for at lovfestede minstelønninger kan fungere vel så mye som et tak som
-et gulv, er også vektlagt. Samtidig er det bred
-enighet om at det er nødvendig med høy organisasjonsgrad og tariffavtaledekning for at tariffavtalene både direkte og gjennom sin normdannende
-rolle også framover skal kunne ta hovedansvaret
-for akseptable lønninger for de lavest lønte. Det er
-også bred enighet om at den norske allmenngjøringsordningen er et nødvendig og nyttig supplement.
-
-[Side 183]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-181
-
-Kapittel 11
-
-Kapittel 11
-
-Utvalgets tilrådinger om tiltak og indikatorer
-11.1 Innledning
-Mandatet til utvalget handler i stor grad om å
-kartlegge og analysere ulike forhold knyttet til
-lavlønn for å vurdere omfang og utvikling. Mandatet er også tydelig på at utvalget skal vurdere og gi
-anbefalinger om indikatorer som skal kunne brukes framover. Når det gjelder tiltak og endringer i
-virkemiddelbruk for å redusere omfanget av lavlønn, er dette noe mandatet åpner for at utvalget
-kan foreslå.
-Utvalget har i tidligere kapitler kartlagt utvikling og omfang av lavlønn i Norge med utgangspunkt i mandatet. I dette kapittelet følger utvalgets overordnede vurderinger og anbefalinger. I
-punkt 11.2 presenteres utvalgets vurderinger og
-anbefalinger av tiltak med betydning for omfanget
-av lavlønn. Utvalget er særlig bedt om å vurdere
-bruken av lavlønnstillegg, allmenngjøringsordningen og tiltak som kan påvirke tariffavtaledekningen. Utvalgets vurderinger og anbefalinger om
-mål og indikatorer for lavlønn, mer varig lavlønn
-og lønnsfordeling følger i punkt 11.3. I punkt 11.4
-følger en vurdering av økonomiske og administrative konsekvenser knyttet til anbefalingene, før
-utvalgets vurderinger oppsummeres i punkt 11.5.
-
-11.2 Utvalgets vurderinger og
-anbefalinger om tiltak
-11.2.1 Kunnskapsgrunnlaget
-Utvalget har i tråd med mandatet lagt vekt på å
-framskaffe et grundig kunnskapsgrunnlag. Utvalgets indikatorer for lønnsspredning og lavlønn,
-som er omtalt i punkt 11.3, bør kunne være et
-godt utgangspunkt for å danne seg et bilde av
-lønnsforskjeller og omfang av lavlønn i Norge.
-Større omfang av lavlønn og økte forskjeller mellom de laveste og høyeste lønningene siden slutten av 1990-tallet gir grunn til å følge med på utviklingen videre. Både press på organisasjonsgrader
-og tariffavtaledekning, innvandringsstrømmer og
-framvekst av nye tilknytnings- og arbeidsformer
-
-på tvers av land har utfordret nedre del av lønnsfordelingen. Utvalget tilrår at partene i arbeidslivet og myndighetene sammen blir enige om
-egnede arenaer for å drøfte utviklingen av lavlønn.
-Det tekniske beregningsutvalget for inntektsoppgjørene (TBU) ser allerede i dag på andelen av
-heltidsansatte som tjener under 85 prosent av
-industriarbeiderlønn (85Ind), lønnsutviklingen for
-lønnsdesilene og utviklingen i lønnsforskjeller ved
-bruk av Gini-koeffesienten, både generelt og spesifikt mellom menn og kvinner. Utvalget vil peke
-på at TBU kan utvide sin analyse av lønnsutviklingen med de anbefalte indikatorene. Det ville
-muliggjort en større bevissthet om utviklingen og
-gitt årlige oppdateringer direkte i grunnlaget for
-lønnsoppgjøret som partene og myndighetene er
-omforente om. Det kan også være aktuelt at
-Arbeids- og inkluderingsdepartementet omtaler
-utviklingen i indikatorene i egne dokumenter,
-eksempelvis i den årlige budsjettproposisjonen.
-Det kan gi en annen lesekrets enn den TBU henvender seg til og utfylle omtalen av arbeidsmarkedet som gis der i dag.
-Utvalget har, innenfor rammene av dette
-utvalgsarbeidet, initiert noen mindre prosjekter
-og ny statistikk som kaster lys over omfang og
-utvikling, samt kjennetegn ved lavtlønte. Institutt
-for samfunnsforskning (ISF) har analysert utviklingen av lav yrkesinntekt i alternative tilknytningsformer (Cools mfl., 2024). Statistisk sentralbyrå (SSB) har gjennomført et prosjekt som har
-sett på reallønnsutviklingen for lønnstakere etter
-inntektsdesiler når man tar hensyn til ulikt forbruksmønster, se Lian og Nygård (2024). SSB har
-også beskrevet sammenhengen mellom lønnsevne og lavlønn i ulike næringer, se Brathaug mfl.
-(2024). I tillegg har SSB bidratt med to rapporter
-(Grini mfl., 2023a og 2023b) og ny statistikk om
-lavlønn som sammen har lagt mye av grunnlaget
-for beskrivelsene i denne rapportens kapittel 6 og
-7.
-Utvalget har også sett på litteraturen som tar
-for seg monopsonimakt og betydningen av fagforeninger og tariffavtaler, se kapittel 9. Denne litte-
-
-[Side 184]
-
-182
-
-Kapittel 11
-
-NOU 2024: 11
-Lavlønn i Norge
-
-raturen kan bidra til forståelsen av hvorfor vi i
-Norge har klart å kombinere relativt høye lønninger for de lavest lønte med høyere samlet sysselsetting enn i mange andre land. Forskningen finner at i deler av det norske arbeidsmarkedet har
-virksomhetene en potensiell mulighet til å trekke
-lønningene ned (monopsoni). Fagorganisering og
-tariffavtaler motvirker samtidig effekten av
-arbeidsgivers monopsonimakt for organiserte
-grupper. Det gjelder både generelt og mer spesifikt for lavtlønte grupper som omfattes av forhandlinger basert på kollektive tariffavtaler. Internasjonale studier indikerer at arbeidsgivers markedsmakt generelt har større betydning for
-enkelte arbeidstakergrupper, eksempelvis innvandrere. Det kan også påvirke omfanget av alternative tilknytningsformer som midlertidige stillinger. Litteraturen om monopsoni i arbeidsmarkedet er et forskningsområde i rask utvikling, og det
-er foreløpig begrenset med empiri på norske forhold generelt, og i lavlønnssegmentet spesielt.
-Utvalget ser det som ønskelig med mer forskning
-om betydningen av monopsoni i den norske lønnsdannelsen og for ulike grupper av arbeidstakere.
-Slik forskning vil kunne være nyttig for vurderinger rundt behovet for virkemidler og eventuelt
-hvilke virkemidler som er relevante.
-Utvalget har avdekket en del sammenhenger i
-statistikk og i forskningslitteraturen, både når det
-gjelder lavlønnsomfang og kjennetegn ved lavlønn, samt betydningen av tariffavtaler og fagorganisering på lønn. Denne litteraturen skiller i
-begrenset grad mellom samvariasjon og årsakssammenhenger. Utvalget vil derfor anbefale mer
-kunnskap om årsakssammenhenger på dette
-området for å bidra til en bedre forståelse av
-mekanismene som bidrar til og kan forhindre lavlønn.
-Utvalgets mandat er avgrenset mot helserelaterte ytelser og arbeidsinkludering i stort, som
-var tema blant annet i Sysselsettingsutvalget
-(NOU 2019: 7; NOU 2021: 2). Utvalget vil likevel
-peke på at en del personer veksler mellom perioder med lav lønn i arbeidslivet og perioder utenfor
-med offentlig inntektssikring. Disse personene vil
-kunne ha andre utfordringer enn det utvalget har
-lagt vekt på. Det kan være relevant å undersøke
-nærmere om lavtlønte har hyppigere overgang til
-helserelaterte ytelser enn andre arbeidstakergrupper eller i større grad veksler mellom arbeid
-og ytelser. Tilgangen på lavtlønte jobber kan i
-noen tilfeller gi en enklere inngang til arbeidslivet
-for personer med helseutfordringer. Samtidig vil
-helseproblemer kunne forårsakes eller forverres
-av enkelte typer jobber. Dette er en sammensatt
-
-problematikk utvalget ikke har gått inn i, men
-gjerne hadde sett at hadde vært mer belyst.
-
-11.2.2 Kompetansepolitikken
-Kompetanse er viktig i det norske arbeidslivet. Et
-generelt høyt kompetansenivå i samfunnet bidrar
-til å øke lønnsomheten av hver arbeidstime. Både
-ordinær utdanning og et kompetansefremmende
-arbeidsliv bidrar til det.
-Det at kompetansenivået er høyt, bidrar også
-til å løfte verdien av arbeidskraft lengst ned i
-lønnsfordelingen. Små lønnsforskjeller betyr også
-at lavtlønnet arbeidskraft i Norge er relativt kostbar sammenlignet med land der lønnsforskjellene
-er større. Det gir arbeidsgiver insentiver til å
-investere i kompetansen til personer med kort
-utdanning.
-En jevn lønnsfordeling og høye minstelønninger innebærer samtidig at den forventede inntekten til den enkelte arbeidstaker i relativt liten grad
-påvirkes av å tilegne seg ny kompetanse. Det fører
-isolert sett til at arbeidstakere har mindre insentiver til å investere i humankapital enn i andre land.
-Lave kostnader ved å finansiere studier for den
-enkelte trekker i motsatt retning og bidrar isolert
-sett til å øke avkastningen. Bhuller mfl. (2017) finner at økt utdanning resulterer i høyere lønn over
-livsløpet også i Norge, særlig i den nedre delen av
-utdanningsfordelingen.
-Med økende omstillingstakt og endrede behov
-i samfunnet, ser utvalget det som viktig at partene
-og myndighetene bygger opp under kompetanseheving for arbeidstakerne gjennom etter- og videreutdanning. Utvalget imøteser derfor også Kompetansereformutvalgets arbeid. Kompetansereformutvalget har fått som mandat å utrede hvordan staten og partene i arbeidslivet kan legge bedre til
-rette for omstilling og læring i arbeidslivet, gitt
-overordnete mål om høy og stabil sysselsetting, å
-motvirke økende ulikhet og å sikre kompetansen
-arbeidslivet trenger.
-Det kan likevel ikke være sånn at løsningen på
-lavlønn er at alle skal utdanne seg vekk fra lavlønnsjobbene. Det er behov for at også disse jobbene utføres, og de må ha en akseptabel lønn.
-11.2.3 Lavlønnstillegg og andre mekanismer
-for å heve de laveste lønningene
-Det er helt sentralt i den norske lønnsmodellen at
-ansvaret for lønnsdannelsen og gjennomføringen
-av lønnsforhandlingene ligger hos tariffpartene.
-Slik tilpasses lønnsutviklingen sektorer, næringer
-og bransjer i størst mulig grad. Den norske lønns-
-
-[Side 185]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-modellen gir også stor grad av tilpasning til lokale
-forhold og lønnsevnen i virksomhetene i privat
-sektor.
-Mandatet nevner spesifikt lavlønnstillegg, men
-det er bare ett av flere tillegg og mekanismer som
-er viktige for lønninger i nedre del av lønnsfordelingen. Det er også andre viktige mekanismer i
-lønnsforhandlingene rettet mot de laveste lønningene som for eksempel kronetillegg på lønnssatser. Utvalget har gitt en beskrivelse av betydningen av tariffmessige virkemidler for lavlønn i
-kapittel 10. Utvalget vil peke på at disse tariffmessige virkemidlene er viktige både for lønnsutviklingen i tariffområdene og for det øvrige arbeidslivet ved å sette en standard også for virksomheter
-uten tariffavtale. Virkemidler for å prioritere
-lavere lønte i de avtaledekkede områdene bør
-etter utvalgets syn bevares.
-Et høyere nivå på de laveste lønningene kan
-begrense sysselsettingen i visse næringssegmenter og føre til at bedrifter som ikke klarer å holde
-tritt med lønnsveksten må omstilles eller legges
-ned. Det er dels en ønsket effekt. Koordinert
-lønnsdannelse bidrar til en god produktivitetsutvikling nettopp ved at de minst produktive virksomhetene omstiller seg eller utkonkurreres og at
-arbeidskraft og kapital dermed frigjøres for mer
-produktive virksomheter. Økt lønnsnivå nederst i
-lønnsfordelingen tvinger også fram investeringer i
-både teknologi og kompetansehevende tiltak som
-kan øke bedriftens produktivitet og gi grunnlag
-for lønnsvekst, se omtale i punkt 11.2.2.
-I lønnsforhandlingene er det mange hensyn å
-ta, ulike interessegrupper som står mot hverandre
-og ulike utfordringer i hvert område. Slike forhold
-har de berørte partene selv best forutsetninger
-for å vurdere, og utvalget har ikke sett det som
-hensiktsmessig å komme med anbefalinger som
-går inn på hvordan partene konkret skal prioritere
-innenfor sine områder.
-
-11.2.4 Allmenngjøringsordningen
-Det framgår i kapittel 10 at den norske allmenngjøringsordningen er forholdsvis smal sammenlignet med tilsvarende ordninger i andre land. Et
-særtrekk ved den norske ordningen er at behovet
-for allmenngjøring er eksplisitt knyttet opp mot
-om det foreligger forskjellsbehandling mellom
-norske og utenlandske arbeidstakere.
-Utvalget mener ordningen er dynamisk og har
-evnet å tilpasse seg endringer i arbeidsmarkedet
-løpende. Ordningen lener seg i stor grad på partene i arbeidslivet. Allmenngjøring er stadig blitt
-
-183
-
-Kapittel 11
-
-tatt i bruk i nye næringer, uten at det har vært
-behov for endringer i loven. Behovet for å videreføre allmenngjøringsforskrifter vurderes jevnlig
-ved at partene må begjære ny allmenngjøring når
-det inngås ny tariffavtale. Tariffnemnda vurderer
-da om det er grunnlag for å videreføre allmenngjøringen.
-Utvalget mener allmenngjøringsordningen
-bidrar til å opprettholde et akseptabelt lønnsgulv i
-bransjer der det er mye arbeidsinnvandring og
-krevende å holde fagorganisering og tariffavtaledekning oppe. Allmenngjøringsforskriftene gjelder alle ansatte i virksomheter som er omfattet.
-De gjelder dermed også arbeidstakere som er tilknyttet virksomheten som midlertidig ansatte,
-innleide eller utsendte arbeidstakere. Ordningen
-fungerer godt og etter hensikten. Utvalget vil
-peke på at ordningen var langt mer kontroversiell
-da den først ble tatt i bruk. Over tid har både
-arbeidstaker- og arbeidsgiversiden fått mer erfaring med ordningen og ser seg i hovedsak tjent
-med den. Med svært få unntak har allmenngjøring
-i et område blitt videreført når det først har vært
-innført. De senere årene har det også vært lite
-stridigheter rundt ordningen.
-Utvalget ser ikke behov for endringer i ordningens karakter. Utvalget vil likevel presisere at god
-kontroll og effektive tilsyn er viktig for at ordningen skal fungere best mulig. Det foregår fortsatt
-underbetaling under gjeldende allmenngjorte satser, og utvalget mener det kan være rom for forbedring av kontroll og tilsyn. Utvalget kjenner til at
-Arbeidstilsynet har styrket innsatsen på dette
-området og at Arbeids- og inkluderingsdepartementet har hatt innspillsmøter og dialog med partene i arbeidslivet om hvordan ordningen fungerer. I forbindelse med den prosessen har flere av
-partene kommet med forslag til justeringer i ordningen. Å sikre god etterlevelse i de allmenngjorte områdene er en kontinuerlig og viktig oppgave.
-Utvalget har drøftet om det særegne formålet i
-den norske allmenngjøringsordningen knyttet til
-forskjellsbehandling av utenlandske arbeidstakere kan være uheldig. Skulle en komme i en situasjon der svært få arbeidstakere er innenlandske,
-kan det muligens gjøre det utfordrende å påvise
-forskjellsbehandling og underbetaling. Samtidig
-kan ikke utvalget se at dette i praksis har vært en
-utfordring så langt. Utvalget vil dermed ikke
-komme med forslag til endringer i loven nå, men
-mener at myndighetene og partene løpende bør
-vurdere om allmenngjøringsordningen fungerer
-tilfredsstillende.
-
-[Side 186]
-
-184
-
-Kapittel 11
-
-NOU 2024: 11
-Lavlønn i Norge
-
-11.2.5 Tiltak for å styrke det organiserte
-arbeidslivet
-Utvalget har funnet at lavlønnsomfanget er mindre i tariffbundne enn i ikke-tariffbundne virksomheter. Det kan ha sammenheng med andre kjennetegn ved virksomhetene eller arbeidstakerne
-som virksomhetenes størrelse og næringstilknytning og de ansattes alder. Det er også tenkelig at
-virksomheter som går godt, i større grad inngår
-tariffavtaler. Utvalget har samtidig funnet indikasjoner på at partssamarbeid og organisering gir
-produktivitetsforbedringer og dermed bedre lønnsevne.
-Lønnsdannelsen hever de laveste lønningene
-desto mer effektivt jo høyere organisasjonsgraden
-og tariffavtaledekningen er blant lavtlønte (Vlandas, 2018). Det er derfor en utfordring at de med
-jobber i de laveste lønnsdesilene i mindre grad er
-fagorganiserte enn andre, særlig gjelder dette for
-de 10 prosent lavest lønte. Lav organisering er et
-hinder for å kunne kreve tariffavtaler i virksomhetene.
-Hvis lavtlønte i liten grad utgjør medlemsmassen i det organiserte arbeidslivet, vil det kunne
-legge press på de omfordelende mekanismene i
-lønnsoppgjørene. Lavere tariffavtaledekning i lavtlønte bransjer vil også trolig svekke den normdannende virkningen av tariffavtalen for lønnsgulvet.
-Utvalget mener derfor at både partene og myndighetene bør arbeide for at organisering og tariffavtaledekningen bedres blant lavtlønte grupper. Økt
-inkludering av lavtlønte i det organiserte arbeidslivet kan bidra til at interessene til denne gruppen
-ivaretas bedre i lønnsoppgjørene, noe som kan gi
-en selvforsterkende effekt i rekrutteringen til
-organisering.
-Flere må bidra i arbeidet for økt organisasjonsgrad. Arbeidstakerorganisasjonene må ta et
-hovedansvar for å opprettholde og øke rekrutteringen blant lavtlønte grupper i sine områder. De
-bør også jobbe for å rekruttere flere arbeidsinnvandrere i tillits- og lederverv. Rekrutteringsarbeidet blant lavtlønte grupper er imidlertid ressurskrevende på grunn av særlig høy gjennomtrekk,
-lavere kunnskapsnivå om arbeidslivsmodellen og
-rettigheter, samt språkbarrierer i lavtlønte bransjer. Samtidig kan arbeidstakere i disse bransjene
-kreve mer oppfølging fra organisasjonene i form
-av rådgivning og juridisk bistand. I lys av dette
-foreslår utvalget også at myndighetene samarbeider med arbeidstaker- og arbeidsgiverorganisasjonene om aktiviteter for å øke tariffavtaledekningen og organisasjonsgraden i lavtlønte bransjer.
-Aktivitetene kan rettes både mot virksomheter i
-
-arbeidsgiverorganisasjonene og forbund i arbeidstakerorganisasjonene gjennom bransjeprogram
-eller på annen måte, og mot å rekruttere nye
-grupper.
-Slike aktiviteter kan omfatte både informasjonstilbud, rekrutteringstiltak og opplærings- og
-organiseringstiltak rettet mot å skape stabil organisering og velfungerende partsforhold lokalt.
-Slike tiltak kan fremme produktivitet i de aktuelle
-næringene, bidra til økt organisasjonsgrad og
-motvirke lavlønn.
-Det bør også jobbes bredere med å forbedre
-informasjon til ulike grupper om den norske
-arbeidslivsmodellen og hvor man kan organisere
-seg, slik også rapporten fra arbeidsgruppen om
-organisasjonsgradene i arbeidslivet (Arbeidsgruppe
-om organisasjonsgradene i arbeidslivet, 2021)
-pekte på. Arbeidsgruppen var særlig opptatt av tiltak for å nå ut til elever i videregående opplæring,
-studenter i høyere utdanning, nye i arbeidsmarkedet, utenlandske arbeidstakere og ansatte i bransjer med lav organisasjonsgrad. Disse målgruppene vil i stor grad favne lavtlønte. I arbeidsgruppens rapport er det lagt opp til at partene selv og
-partene sammen med myndighetene bør samarbeide om videre oppfølging på dette området i toog trepartsarenaer. Det er i rapporten også vist til
-undervisningsopplegg som partene i fellesskap
-har utarbeidet. Lavlønnsutvalget foreslår at denne
-partssammensatte arbeidsgruppen gjenopprettes
-for å foreslå konkret hvordan arbeidet for å bedre
-tariffavtaledekningen og organisasjonsgradene
-blant lavtlønte skal organiseres og følges opp i
-praksis.
-Utvalget vil framheve et potensial for å øke
-organisasjonsgraden ved informasjons- og rekrutteringsarbeid ute på arbeidsplassen blant nyansatte. I spørreundersøkelser oppgir mange uorganiserte at grunnen til at de ikke er organisert, er
-at de ikke er blitt spurt. Utvalget mener det er
-rom for at arbeidsgiver- og arbeidstakersiden i
-større grad kan jobbe sammen for at nyansatte
-orienteres om aktuelle fagforeninger i virksomhetene. Også de uorganiserte virksomhetene bør
-bidra til slik informasjonsformidling. Alle nyansatte i virksomheter som er medlem i en arbeidsgiverorganisasjon, bør få en informasjonspakke
-om fagorganisering og den norske arbeidslivsmodellen. Det bør også framgå hvor man kan henvende seg for å få mer informasjon. Dette bør
-også gjelde små virksomheter. Det er særlig viktig
-å nå unge arbeidstakere og nye innvandrere.
-Arbeidsgiverorganisasjonene kan også tydeligere
-peke på fordelene med å ha tariffavtale i virksom-
-
-[Side 187]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-heten. Inngåelse av tariffavtaler kan i tillegg bidra
-til økt organisasjonsgrad på arbeidstakersiden.
-Ulike offentlige informasjonskanaler vil også
-være relevante. Integrerings- og mangfoldsdirektoratets side «Ny i Norge» samler informasjon fra
-offentlige myndigheter til nyankomne flyktninger
-og innvandrere i Norge. Også Arbeidstilsynet har
-informasjon og kampanjer om rettigheter til allmenngjort lønn og andre arbeidsvilkår i Norge tilgjengelig på flere språk. Det bør tilstrebes at informasjonen er lett tilgjengelig, forståelig og koordinert. Utvalget viser også til at Arbeidsinnvandrerutvalget (NOU 2022: 18) trakk fram et ryddig og
-organisert arbeidsliv generelt som et sentralt tiltak for bedre integrering av arbeidsinnvandrere i
-Norge. Utvalget var imidlertid delt i om retten til
-opplæring i norsk og samfunnskunnskap, herunder opplæring om norsk arbeidsliv, burde utvides til alle arbeidsinnvandrere. Regjeringens stortingsmelding om integrering (Meld. St. 17
-(2024)), tar også til orde for en styrket politikk for
-å bedre integrering av arbeidsinnvandrere i
-Norge. Ifølge meldingen vil regjeringen jobbe for
-at arbeidsinnvandrere får tilgang til korrekt, klar
-og lett tilgjengelig informasjon om rettigheter og
-plikter i det norske arbeidslivet. Regjeringen vil
-også vurdere å gi arbeidsinnvandrere og deres
-familier rett til opplæring i norsk og samfunnskunnskap.
-Utvalget vil også peke på treparts bransjeprogrammer for å fremme et seriøst arbeidsliv i renhold, servering, transport og bilpleie og verkstedsvirksomhet. Dette er nyttige fora for å diskutere utfordringer knyttet til lønn og andre arbeidsvilkår i enkeltbransjer. Programmene danner en
-felles ramme rundt partenes og myndighetenes
-innsats. Bransjeprogrammene kan også være nyttige kanaler for å drøfte og iverksette kompetansetiltak.
-Utvalget har overordnet drøftet mer direkte
-økonomiske støtteordninger for å styrke det organiserte arbeidslivet og tariffavtaledekningen.
-Utvalget vil framheve at et seriøst og organisert
-arbeidsliv er et kollektivt gode. Det kan begrunne
-offentlig støtte som bidrar til økt organisering og
-tariffavtaledekning. To slike viktige støtteordninger er skattefradrag for fagforeningsmedlemskap
-og medlemskontingent til arbeidsgiverorganisasjoner, og det offentlige bidraget til finansiering av
-avtalefestet pensjon (AFP) i privat sektor. Disse
-ordningene er generelt utformet, men kommer
-også lavtlønte grupper til gode.
-AFP er tariffestede ordninger. Det betyr at de
-mange lavtlønte som er ansatt i ikke-tariffbundne
-virksomheter i privat sektor, ikke har AFP. AFP-
-
-185
-
-Kapittel 11
-
-ordningen i privat sektor bygger på et trepartssamarbeid mellom arbeidsgiverorganisasjoner,
-arbeidstakerorganisasjoner og staten. Staten dekker en tredel av pensjonsutgiftene til AFP-ordningen, mens foretakene som er tilsluttet ordningen
-dekker kollektivt to tredeler. AFP-ordningen har
-også vilkår for ytelsen som gjør at mange arbeidstakere i tariffbundne virksomheter faller utenfor
-ordningen. Beløpet tariffbundne virksomheter
-som er tilsluttet fellesordningen for AFP, betaler
-inn, er knyttet til ansatte på et gitt tidspunkt og
-ikke til hvor mange av virksomhetens ansatte som
-kvalifiserer til AFP. For virksomhetene der få kvalifiserer til ordningen, betyr det at kostnaden ved
-å ha tariffavtale blir høy relativt til ubundne virksomheter, samtidig som få av deres ansatte får
-nytte av ordningen. Dette innebærer svakere
-insentiver til å organisere seg og inngå tariffavtale
-på både arbeidsgiver- og arbeidstakersiden i disse
-bransjene. Utvalget vil peke på at en bedre kobling mellom tid i tariffvirksomhet og mottak av
-AFP kan styrke insentivene til å organisere seg og
-inngå tariffavtale. Det vil kunne bidra til økt organisasjonsgrad i lavt organiserte bransjer med høy
-forekomst av lavlønn i privat sektor.
-Utvalget har også vurdert muligheten for at
-tariffavtaler initieres av andre enn de fagorganiserte arbeidstakerne. Blant annet foreslo Dølvik
-(2022) å vurdere kravet til andel eller antall
-arbeidstakere som må være fagorganisert for å
-kreve at det inngås tariffavtale i virksomheten. I
-dag gjelder det et krav om at 10 prosent av
-arbeidstakerne er fagorganisert for å kreve tariffavtale i hovedavtalene i privat sektor. Det er mulig
-at opprettelse av tariffavtale kan bidra til økt organiseringsgrad i virksomheten, men dette er usikkert. Samtidig vil det ikke være heldig med tariffavtaler som svært få arbeidstakere står bak. Det
-vil gjøre det krevende å etablere og mobilisere
-arbeidstakere til den medarbeiderinvolveringen
-som kreves i oppfølging av tariffavtalen og annen
-dialog mellom arbeidsgiver og arbeidstakergrupper. Allerede i dag er det utfordrende å mobilisere
-tillitsvalgte i tariffbundne virksomheter med lav
-fagorganisering.
-Innenfor offentlige anbud stilles det krav om
-lønns- og arbeidsvilkår i tråd med enten allmenngjøringsregelverket eller aktuell landsdekkende
-tariffavtale i bransjen. Utvalget vil ikke støtte å
-stille krav om inngått tariffavtale ved offenlige
-anbud, slik enkelte har foreslått (Dølvik, 2022). Et
-slikt forslag kan være i strid med EØS-avtalen
-fordi det vil stenge noen virksomheter ute, og kan
-dessuten ha uheldige konsekvenser for konkurranseforholdene i markedet ved for eksempel i
-
-[Side 188]
-
-186
-
-Kapittel 11
-
-NOU 2024: 11
-Lavlønn i Norge
-
-større grad å utestenge små og mellomstore virksomheter.
-Et annet tema som har vært drøftet er lovreguleringer som gir mer fleksibilitet for virksomheter
-bundet av tariffavtaler. Norge har unntaksbestemmelser i arbeidsmiljøloven når det gjelder arbeidstidsbestemmelser for virksomheter som har inngått tariffavtale. Ved innstrammingen i innleiereglene våren 2023, ble det samtidig åpnet for at
-arbeidsgiver og tillitvalgte som til sammen representerer et flertall av den arbeidstakerkategorien
-innleien gjelder, kan inngå avtale om tidsbegrenset innleie. Det er et vilkår at virksomheten er
-bundet av tariffavtale inngått med fagforening
-med innstillingsrett etter arbeidstvistloven. Slik
-lovgivning kan fremme tariffavtaledekning, men
-må også balanseres mot andre hensyn.
-
-11.2.6 Tiltak rettet mot alternative
-tilknytningsformer
-Utvalget finner at det er høyere forekomst av lavlønn blant midlertidig ansatte og ansatte i utleievirksomhet enn blant alle ansatte. Utvalget har
-ikke kunnet vurdere årsakssammenhenger på
-dette området fullt ut, men forskning kan tyde på
-at noe av forskjellene er årsakssammenhenger
-(Cools mfl., 2024). Omfanget av lav yrkesinntekt i
-alternative tilknytningsformer har samtidig holdt
-seg forholdsvis stabilt de siste 15 årene. Totalt sett
-er også omfanget av alternative tilknytningsformer i arbeidsmarkedet lavt og stabilt. Utvalget
-kan derfor ikke se at utviklingen i alternative tilknytningsformer har hatt stor betydning for lavlønnsutviklingen i Norge. Det vil likevel kunne
-være interessant å se nærmere på utviklingen i
-enkeltsektorer.
-De siste årene har adgangen til mer alternative ansettelsesformer blitt strammet inn. Den
-generelle adgangen til midlertidig ansettelser er
-blitt fjernet, og det er innført regler med sikte på å
-unngå at reelle arbeidstakere defineres og
-behandles som selvstendige næringsdrivende.
-Det har også blitt etablert en tydelig formulering i
-lovverket om at hovedregelen for ansettelse er
-heltid og at behovet for ansettelse i deltidsstilling
-må dokumenteres skriftlig. Samtidig har ny EUlovgivning klargjort at selvstendig næringsdrivende uten egne ansatte kan forhandle kollektivt
-med sine oppdragsgivere for å bedre sine lønnsog arbeidsvilkår uten at dette er i strid med konkurranselovgivningen. Denne endringen får blant
-annet betydning for personer som jobber via digitale plattformer (plattformøkonomi) og andre
-selvstendige i en arbeidssituasjon som er sam-
-
-menlignbar med å være ansatt, men formelt har
-en annen tilknytting til virksomheten (European
-Commission, 2022). De nye retningslinjene er
-også blitt førende for håndhevingen av den norske
-konkurranseloven (Konkurransetilsynet, 2022).
-Også fagforeningene har utviklet sitt tilbud
-rettet mot frilansere og selvstendig næringsdrivende. Blant annet har LO etablert LO selvstendige, som er et samarbeid mellom LO-forbund
-som organiserer frilansere og selvstendig
-næringsdrivende.
-Utvalget vil understreke at både arbeidstakere
-og arbeidsgivere kan ha behov for og ønske om
-mer fleksibilitet og risiko/mulighet for gevinst
-enn det som er det vanlige i arbeidslivet. Det er
-imidlertid problematisk om slik alternativ organisering har opphav i ønsker om å unngå lovregulering og avlønning som arbeidstaker. Legitime hensyn må her veies mot ønske om forutsigbarhet og
-beskyttelse.
-Utvalget foreslår ikke tiltak på disse områdene
-nå, men understreker at hele, faste stillinger er og
-fortsatt skal være hovedregelen i norsk arbeidsliv.
-Det er også grunn til å følge med på utviklingen
-framover. Endringer i arbeidsmarkedet kan skje
-fort, og særlig er det er grunn til å følge med på
-om gjeldende regelverk omgås.
-
-11.3 Valg av indikatorer
-11.3.1 Kriterier for valg av indikatorer
-I samfunnsvitenskap brukes indikatorer for å angi
-eller beskrive forhold som er for kompliserte eller
-for kostbare å måle direkte (Dahlum & Grønmo,
-2020). Lønnsspredning og lavlønn er komplekse
-tema som kan belyses på en rekke forskjellige
-måter. En del av dem framgår av kapittel 6. Utvalget har benyttet flere indikatorer for måling av lavlønn, men disse skal ikke tolkes normativt.
-Utvalget framhever at en god indikator først
-og fremst må fange kjernen i det spørsmålet vi er
-interessert i, og gi en beskrivelse av tilstanden og
-endringer over tid. Det krever tidvis flere supplerende indikatorer for å gi et godt bilde. Samtidig
-er formålet nettopp å kunne gi et enkelt og forståelig innblikk i komplekse sammenhenger. Utvalget mener derfor det er fornuftig å velge ut et
-begrenset antall indikatorer som følges over tid
-og supplere med mer utfyllende indikatorer med
-noe lengre mellomrom.
-Indikatorene må også fortelle brukerne noe.
-Det betyr at de hjelper brukeren til å gjøre seg
-opp en oppfatning av om tilstanden er tilfredsstillende eller bekymringsfull og om utviklingen går i
-
-[Side 189]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-ønsket retning. Det kan enten oppnås ved at indikatorene kan gis en intuitiv tolkning eller ved at
-indikatoren er egnet til sammenligning. Det er en
-fordel å bruke indikatorer som også er i bruk i
-forskning, utredning, analyse og statistikkproduksjon. Det vil gjøre det lettere å forstå og tolke indikatoren for flere, og å sammenligne funn.
-Det relevante sammenligningsgrunnlaget vil
-ofte være tilsvarende tall for andre land eller
-andre tidspunkter. I andre sammenhenger kan
-man sammenligne mellom næringer eller andre
-undergrupper, se eksempler i kapittel 7. Også
-indikatorer som har en intuitiv tolkning, vil gi mer
-mening om de kan relateres til noe annet. At indikatorene er tilgjengelig for andre land og i lange
-tidsserier er derfor et hensyn utvalget vektlegger.
-I en del sammenhenger vektlegges at indikatorer kan knyttes direkte til politiske valg eller at de
-skal sette tallfestede mål for utviklingen fram i tid.
-Utvalget oppfatter ikke at mandatet legger opp til
-den typen indikatorer og mener heller ikke selv
-det er hensiktsmessig på området.
-Lønnsspredning og lavlønn er viktige temaer i
-flere sammenhenger. Noen ganger er det viktig at
-informasjonen kan oppdateres raskt og hyppig. I
-andre sammenhenger vil det viktigste være
-utviklingstrekk over noe lengre tid, og da vil aktualitetshensynet ofte være mindre avgjørende.
-Samlet sett vil utvalget derfor vektlegge at de
-foreslåtte indikatorene ikke er for mange, og at de
-er:
-– Relevante
-– Lette å tolke
-– Sammenlignbare over tid, mellom land og mellom grupper
-– Etablerte i bruk
-Disse kriteriene har likhetstrekk med kvalitetskriteriene for standarden for offisiell statistikk i Det
-europeiske statistiske system (EES 2017 og
-Zhang mfl., 2021) og med kriteriene i NOU
-2005: 5 Enkle signaler i en kompleks verden – Forslag til et nasjonalt indikatorsett for bærekraftig
-utvikling, men er tilpasset utvalgets problemstilling.
-
-11.3.2 Valg av lønnsbegrep og analyseenhet
 Lønnsbegrep
-Utvalget er i mandatet bedt om å kartlegge nivå på
-og utvikling over tid for lønnsforskjeller og lavlønn. Den enkeltes forbruksmuligheter vil i tillegg
-til egen lønn avhenge av blant annet skatter, over-
 
-187
+Utvalget er i mandatet bedt om å kartlegge nivå på og utvikling over tid for lønnsforskjeller og lavlønn. Den enkeltes forbruksmuligheter vil i tillegg til egen lønn avhenge av blant annet skatter, overføringer, andre former for inntekt som kapitalinntekt eller næringsinntekt, subsidierte offentlige tjenester, forsørgerbyrde og andre husholdningsmedlemmers inntekter. Dette oppfatter utvalget i hovedsak som utenfor mandatet, se nærmere omtale i kapittel 2. Et viktig unntak er at vi er bedt om å se på betydningen av tilknytningsformer som er nære substitutter til å være lønnstakere. Da er det nødvendig å se på mer omfattende inntektsbegreper, se nærmere omtale i kapittel 8.
 
-Kapittel 11
+Det er i mandatet ikke definert hvilket lønnsbegrep utvalget skal se på. Lav lønnsinntekt kan skyldes få arbeidede timer. Utvalget har i all hovedsak vurdert lønn som avlønning for arbeidsinnsats, og dermed vært opptatt av lønn for gitt arbeidstid. Utvalget har derfor regnet om faktisk lønn for deltidsansatte til hva som ville vært utbetalt for en tilsvarende heltidsstilling (årsverk eller heltidsekvivalent lønn). Det gjør det mulig å sammenligne lønnsnivåer på tvers av stillingsprosenter og ulikt arbeidstidsomfang. Utvalget tilrår at dette skillet mellom lav lønn for gitt arbeidstid og lav arbeidstid holdes klart også i andre analyser.
 
-føringer, andre former for inntekt som kapitalinntekt eller næringsinntekt, subsidierte offentlige
-tjenester, forsørgerbyrde og andre husholdningsmedlemmers inntekter. Dette oppfatter utvalget i
-hovedsak som utenfor mandatet, se nærmere
-omtale i kapittel 2. Et viktig unntak er at vi er bedt
-om å se på betydningen av tilknytningsformer
-som er nære substitutter til å være lønnstakere.
-Da er det nødvendig å se på mer omfattende inntektsbegreper, se nærmere omtale i kapittel 8.
-Det er i mandatet ikke definert hvilket lønnsbegrep utvalget skal se på. Lav lønnsinntekt kan
-skyldes få arbeidede timer. Utvalget har i all
-hovedsak vurdert lønn som avlønning for arbeidsinnsats, og dermed vært opptatt av lønn for gitt
-arbeidstid. Utvalget har derfor regnet om faktisk
-lønn for deltidsansatte til hva som ville vært utbetalt for en tilsvarende heltidsstilling (årsverk eller
-heltidsekvivalent lønn). Det gjør det mulig å sammenligne lønnsnivåer på tvers av stillingsprosenter og ulikt arbeidstidsomfang. Utvalget tilrår at
-dette skillet mellom lav lønn for gitt arbeidstid og
-lav arbeidstid holdes klart også i andre analyser.
-Statistikken som presenteres i kapittel 6 og 7,
-er basert på Statistisk sentralbyrås (SSBs) lønnsstatistikk. Den er bygget opp omkring de europeiske forordningene for måling av lønn, i tillegg
-til at nasjonale behov knyttet til blant annet lønnsforhandlinger er ivaretatt. Se for eksempel Grini
-(2020) for detaljer om denne. Lønnsbegrepet som
-brukes, er i utgangspunktet begrenset til å
-omfatte kontante ytelser for avtalt arbeid, og er
-noe smalere enn for eksempel i nasjonalregnskapet. I lønnsbegrepet som benyttes i denne rapporten inngår fastlønn, timelønn, uregelmessige tillegg og bonuser, med mindre annet er presisert.
-Naturalytelser, overtids- og utgiftsgodtgjørelser
-og lignende ytelser inngår ikke i lønnsbegrepet.
-Videre beregnes lønn kun for avtalt arbeidstid.
-Dette tilsvarer månedslønnsbegrepet som benyttes i SSBs lønnsstatistikk og representerer altså
-en pris på avtalt arbeidstid. Overtidsgodtgjørelse
-inngår i statistikken som egen lønnsvariabel, men
-inngår ikke i månedslønnen.
-Fra og med 2015 er datagrunnlaget til statistikken basert på opplysninger fra a-ordningen. A-ordningen er en samordnet rapportering av lønns- og
-ansettelsesopplysninger til Skatteetaten, NAV og
-SSB, regulert av a-opplysningsloven. Fra 1997 til
-2015 var lønnsstatistikken basert på en blanding
-av utvalg og fulltelling for månedene september
-og oktober. Statlige og kommunale virksomheter
-ble fulltelt, mens privat sektor ble dekket av
-utvalg.
+Statistikken som presenteres i kapittel 6 og 7, er basert på Statistisk sentralbyrås (SSBs) lønnsstatistikk. Den er bygget opp omkring de europeiske forordningene for måling av lønn, i tillegg til at nasjonale behov knyttet til blant annet lønnsforhandlinger er ivaretatt. Se for eksempel Grini (2020) for detaljer om denne. Lønnsbegrepet som brukes, er i utgangspunktet begrenset til å omfatte kontante ytelser for avtalt arbeid, og er noe smalere enn for eksempel i nasjonalregnskapet. I lønnsbegrepet som benyttes i denne rapporten inngår fastlønn, timelønn, uregelmessige tillegg og bonuser, med mindre annet er presisert. Naturalytelser, overtids- og utgiftsgodtgjørelser og lignende ytelser inngår ikke i lønnsbegrepet. Videre beregnes lønn kun for avtalt arbeidstid. Dette tilsvarer månedslønnsbegrepet som benyttes i SSBs lønnsstatistikk og representerer altså en pris på avtalt arbeidstid. Overtidsgodtgjørelse inngår i statistikken som egen lønnsvariabel, men inngår ikke i månedslønnen.
+
+Fra og med 2015 er datagrunnlaget til statistikken basert på opplysninger fra a-ordningen. A-ordningen er en samordnet rapportering av lønns- og ansettelsesopplysninger til Skatteetaten, NAV og SSB, regulert av a-opplysningsloven. Fra 1997 til 2015 var lønnsstatistikken basert på en blanding av utvalg og fulltelling for månedene september og oktober. Statlige og kommunale virksomheter ble fulltelt, mens privat sektor ble dekket av utvalg.
+
+Analyseenhet
+
+En del personer jobber deltid, og en del personer har flere jobber. Analyser av arbeidsmarkedet kan derfor ta utgangspunkt i 1) jobber, 2) årsverk (heltidsekvivalenter, altså jobber regnet om til hele stillinger) eller 3) lønnstakere.
+
+En jobb er i statistikken definert som et arbeidsforhold som kompenseres i form av lønn eller lignende. En person kan inneha flere jobber. Når man tar utgangspunkt i jobber som analyseenhet fanger man opp alle jobbene som finnes i arbeidsmarkedet. Dette er en fordel. Jobber er også den mest sentrale analyseenheten for lønnsstatistikken til SSB, og begrepet er lett å forstå. Bruk av jobber som analyseenhet vil legge like mye vekt på en deltidsstilling, stor eller liten, som en heltidsstilling. Ved å bruke jobber som analyseenhet kan man ikke følge personer over tid, da jobben eksisterer uavhengig av hvem som innehar den. Dette gjør denne analyseenheten lite egnet til å si noe om personers mobilitet i arbeidsmarkedet.
+
+En annen mulighet er å ta utgangspunkt i årsverk eller heltidsekvivalenter. Også her er jobb den sentrale enheten, men vi tar hensyn til den avtalte arbeidstiden. Dermed er det mengden avtalt arbeidstid som vektlegges, og resultatene blir det samme om arbeidet er organisert som to 50 prosent-stillinger eller som én heltidsstilling. Dette er vanlig ved for eksempel beregninger av desilfordelinger. Det innebærer at like mye avtalt arbeidstid fordeles til hvert desil. Heller ikke årsverk er egnet for å følge personer over tid, og er derfor ikke egnet til å si noe om mobilitet i arbeidsmarkedet.
+
+En tredje mulighet er å ta utgangspunkt i lønnstakeren. Ved bruk av lønnstakere som analyseenhet følger analysene vanligvis hovedarbeidsforholdet. Det har betydning hvis en lønnstaker har flere jobber. Da følges bare den viktigste jobben til individet, vanligvis identifisert ved jobben med størst stillingsprosent (mest avtalt arbeidstid). Som oftest er det også den jobben som gir mest i lønn. En person som har flere jobber, vil derfor bare bli fulgt gjennom den ene jobben. Dermed blir en del jobber utelatt. Dette er en ulempe for utvalgets problemstillinger fordi bijobbene kan være viktige i analysen av lavlønn. Fordelen med individtilnærmingen er at man kan følge personen over tid, uavhengig av om personen bytter jobb. I analyser der man ønsker å si noe om mobilitet eller vil se på hvordan lønnstakere beveger seg i lønnsfordelingen over tid, er dette nødvendig.
+
+I hovedsak anbefaler utvalget at analysene tar utgangspunkt i årsverk. Det fanger opp en større del av arbeidsmarkedet sammenlignet med lønnstakere, og gir et mer fullstendig bilde når man gjør årlige analyser. Utvalget mener også det gir bedre informasjon om hvordan arbeid betales i arbeidsmarkedet enn ved å se på antall jobber direkte, ved at to 50 prosent-stillinger teller likt som én full stilling.
+
+I noen tilfeller er det ønskelig å følge en person over lengre tid, blant annet i undersøkelsen av mer varig lavlønn. I løpet av noen år bytter mange personer jobb og får endret lønn. Dette er mulig å følge når vi ser på lønnstakeren, via det til enhver tid gjeldende hovedarbeidsforholdet.
+
+### Indikatorer for lønnsspredning
+
+Ulikhet handler om spredning. Vi ønsker å si noe om avstanden mellom ulike lønninger. Å beskrive dette på en god måte krever som oftest flere ulike mål. Ulikhetsmål kan kategoriseres i tre typer:
+
+a\. Ulikhetsmål som nytter informasjon om alle lønningene som inngår i datagrunnlaget
+
+b\. Mål som sammenligner forskjellige grupper, for eksempel ved å måle andelen av lønnsummen tilhørende aktuelle grupper
+
+c\. Avstandsmål som måler forholdet eller avstanden mellom punkter i fordelingen, eksempelvis avstanden mellom desilgrenser eller avstanden til median
+
+De forskjellige målene gir ulike perspektiver og supplerer hverandre. Selv med et godt utvalg av mål og uavhengig av hvilke man velger å se på, vil det som oftest kreves tilleggsinformasjon om lønnsfordelingen for å kunne avgjøre presist hvor endringer i ulikhet stammer fra.
+
+Indikator for hele lønnsfordelingen
+
+Figur 1.11 gir et intuitivt og helhetlig bilde av hele lønnsfordelingen, dvs. av hvordan lønn er fordelt i arbeidsmarkedet. Hvert punkt angir andelen av årsverkene som har en lønn i 60 000-kroners intervallet fra punktet nedenfor til dette punktet. Eksempelvis har 15 prosent av årsverkene en lønn mellom 420 000 kroner og 480 000 kroner. Det er lett å få et raskt inntrykk av at de fleste har lønninger i midten av fordelingen, de lave lønningene er ganske konsentrert, mens de høye lønningene er spredt utover et større område. Når man ser på utviklingen over flere år, er det lett å få et bilde av om det har blitt flere eller færre med henholdsvis lave, midlere eller høyere lønninger. Små endringer fra ett år til neste vil likevel ikke være tydelige i et slikt oversiktsbilde. Det kan gjøre tolkningen krevende.
+
+Lønnsfordeling. Årsverk. Kun i jobb, uten lærlinger. Andel i prosent per 60 000-kroners intervall. 2022
+
+Kilde: Statistisk sentralbyrå.
+
+Lønnsfordelingen kan også oppsummeres i ett tall. Gini-koeffesienten er et eksempel på et slikt mål. Den er altså et ulikhetsmål av type a. Gini-koeffisienten ligger i intervallet mellom 0 og 1, hvor 0 indikerer at alle tjener like mye, mens tallverdien 1 indikerer at én enkelt person tjener alt. En av fordelene med Gini-koeffisienten er at alle lønningene som undersøkes, inngår i beregningen av koeffisienten. Det gjør målingen robust for tilfeldige endringer i ytterpunktene eller midten av fordelingen. Samtidig er Gini-koeffisienten mer følsom for endringer i midten av fordelingen enn tilsvarende endring i ytterpunktene i fordelingen. Dersom endringen fra et år til et annet først og fremst skjer blant jobber med de aller høyeste eller laveste lønningene, vil Gini-koeffesienten underkommunisere endringen i ulikhet. Tilsvarende endring nærmere midten av fordelingen, vil få noe større utslag. Utviklingen i Ginikoeffisienten sier ikke noe om hvor i fordelingen endringen har skjedd. Dersom Gini-koeffesienten for eksempel øker med 10 prosent fra ett år til det neste, vet vi ikke om dette er på grunn av at de rikeste har dratt fra resten eller om det er de lavtlønte som henger igjen.
+
+Gini-koeffisienten er et av de mest brukte målene på ulikhet. Samtidig er det ingen intuitiv tolkning av tallet. For de fleste er det vanskelig å forstå hva det vil si at lønnsfordelingen i Norge i 2023 hadde en Gini-koeffisient på 0,208. Det er mulig å gi en forklaring på tallet, men flere andre mål har enklere tolkninger. I tillegg er ikke internasjonale tall på Gini-koeffesienter for lønn systematisk tilgjengelig, slik de er for inntekt.
+
+Det finnes også andre mål som oppsummerer hele lønnsfordelingen i ett mål for ulikhet. Et eksempel på dette er Hoover-indeksen. Denne indeksen tar utgangspunkt i hvor mange prosent av den totale lønnsummen som må omfordeles for full utjevning av lønnsnivået. Hoover-indeksen er imidlertid et mindre brukt mål enn Gini-koeffisienten og har mange av de samme svakhetene som Gini. Den prosentvise veksten i lønnsulikhet i den perioden vi har undersøkt, er omtrent den samme om man bruker Gini-koeffisienten eller Hoover-indeksen (Grini mfl., 2023b).
+
+Gini-koeffesienten gir relevant informasjon om lønnsforskjeller, men ikke særlig informasjon om lavlønn. Ved mer generelle analyser av lønnsforskjeller, vil den likevel være relevant. Gini-koeffisientene er etablert i bruk og er godt egnet til å følge utviklingen over tid og eventuelt til sammenligninger mellom grupper i Norge. Den er derimot ikke så lett å tolke, og internasjonale tall for lønn er vanskelig tilgjengelig.
+
+Mål som sammenligner grupper
+
+For å gå nærmere inn på ulike deler av lønnsfordelingen, er det behov for mål som sammenligner forskjellige grupper (type b). Desilfordelinger er et slikt mål. En desilfordeling sorterer alle jobber etter lønn og viser hvor mye lønn som tilfaller de 10 prosent lavest lønte årsverkene, de neste 10 prosent og så videre, se figur 11.2. Det er altså like mye arbeidstid bak hvert desil. Det er også mulig å lage en tilsvarende prosentilfordeling, det vil si en fordeling i hundre grupper i stedet for ti.
+
+Andel av lønnssum etter lønnsdesil. Årsverk. Alle jobber. Prosent. 2023
+
+Kilde: Statistisk sentralbyrå.
+
+Andelen som tilfaller hvert desil, lar seg lett sammenligne med tilfellet «total likhet», der alle desilene mottar 10 prosent av lønnsummen hver. Indikatoren er også godt egnet til å si noe om hvor i lønnsfordelingen endringer skjer, og også små endringer vil være synlige.
+
+Samtidig krever desilfordelingen at man ser på flere tall samtidig, og velger hvilke som skal vektlegges, framfor å få utviklingen oppsummert i ett enkelt tall. Desilfordelinger er et veletablert statistisk begrep, men de er mindre brukt utenfor fagmiljøene. Det er også begrenset tilgang på tall for internasjonale sammenligninger.
+
+Desilfordelinger bidrar altså med relevant informasjon på et mer detaljert nivå enn Gini-koeffesientene. De er relativt enkle å tolke, er middels etablerte i bruk, og tilgangen på internasjonale tall er begrenset. Utvalget tilrår å følge med på andelen av lønnssummen som tilfaller ulike desiler, for å vise hele lønnsfordelingen.
+
+Mål som sammenligner desilgrenser
+
+Mål av type c tar utgangspunkt i bestemte punkter i fordelingen. Disse målene forteller også hvor i fordelingen avstanden har vokst seg større eller blitt mindre. Samtidig tar de ikke opp i seg all informasjon fra lønnsfordelingen, og er derfor mindre komplette mål.
+
+Slike forholdstall bygger gjerne på desil- eller prosentilfordelingene omtalt i forrige avsnitt. En mulighet er å regne ut forholdet mellom gjennomsnittene i ulike grupper, for eksempel forholdet mellom gjennomsnittet i den høyest lønte desilen og gjennomsnittet i den lavest lønte desilen S10/S1. Alternativt kan man se på forholdstall mellom desilgrensene. Eksempelvis er P90/P10 forholdet mellom 1) grenseverdien som skiller de 10 prosent høyeste fra resten, og 2) grenseverdien som skiller de 10 prosent laveste fra resten. Forskjellen består altså i om man sammenligner gjennomsnitt eller grenser. Utvalget velger å begrense seg til én av disse siden de er såpass like. En fordel med S10/S1 framfor P90/P10, er at denne ikke utelater verdiene i ytterkantene av fordelingen. Det er viktig i analyser av høye lønninger, men har mindre betydning for lave lønninger. Spredningen helt nederst i lønnsfordelingen er mindre enn spredningen helt på toppen, samtidig som statistikken inneholder en del feilobservasjoner. Bruk av grenseverdier gjør det også enkelt å sammenligne utviklingen i ytterkantene med medianen. Eksempelvis er P50/P10 forholdet mellom medianen og grensen mellom første og andre desil. Denne er lett å tolke: P50/P10=2 innebærer at medianlønnen er dobbelt så høy som lønnen på grensen mellom desil 1 og 2. Grenseverdiene er også mer brukt i internasjonal statistikk og forskning, og utvalget har derfor valgt å vektlegge denne typen mål framfor sammenligninger av gjennomsnitt. For å få et bilde av for eksempel avstanden fra de aller lavest lønte opp til desilgrensen, er det nyttig å se på andelen av lønnsummen som tilfaller ulike desiler, som et supplerende mål.
+
+Utvalget har også vurdert P50/P05 for å gå enda nærmere inn på de aller laveste lønningene. Når man kommer så langt ned i lønnsfordelingen er det imidlertid en del støy som gjør målet vanskeligere å tolke. I tillegg er dette et mindre brukt mål, både internasjonalt og i andre sammenhenger.
+
+For årlige rapporteringer anser derfor utvalget P50/P10 som en godt egnet indikator. Den gir relevant informasjon, er lett å tolke, er etablert i internasjonal bruk og kan sammenligne utvikling og tilstand over tid, mellom land og mellom grupper.
+
+### Indikatorer for lavlønn og mer varig lavlønn
+
+Omfang av lavlønn
+
+Hva som oppfattes som lavlønn vil avhenge av hva som er vanlig lønn i samfunnet rundt. I analyser av lav*inntekt* er én vanlig tilnærming å ta utgangspunkt i hvilket forbruk som er nødvendig for å opprettholde en levestandard som anses som god nok. I Norge lager for eksempel forbruksinstituttet SIFO et referansebudsjett (Austgulen mfl., 2024). Referansebudsjettet tar utgangspunkt i hva som er vanlig nøkternt forbruk og tar hensyn til at forskjellige typer hushold krever budsjetter av ulike størrelser for å ha samme levestandard.
+
+Den andre vanlige tilnærmingen til lavinntekt er å sette en relativ grense. Det er dette utvalget mener er mest hensiktsmessig for lønn. Det er nødvendig å velge én, ev. noen få, grense(r) for at informasjonen skal gi mening. Da ligger det ikke nødvendigvis noen normativ vurdering bak – verken at lønninger over er «høye» eller at lønninger under er «uakseptable». Grensen er snarere nettopp en indikator, altså noe som peker i retning av om omfanget av lønninger på et lavt nivå øker eller reduseres. En slik relativ grense er enkel å beregne og enkel å sammenligne på tvers av land.
+
+Det finnes flere mulige relative grenser. TBU presenterer tall for andelen av heltidsansatte som tjener 85 prosent av gjennomsnittlig industriarbeiderlønn (85Ind) eller mindre. Utgangspunktet for denne grensen har vært utmåling av særlige tillegg til enkelte overenskomster i privat sektor, samt innretningen av enkelte garantiordninger. Historisk har denne grensen vært brukt i norske analyser av omfanget av lavlønn, se for eksempel NOU 1993: 17 *Levekår i Norge*. Både selve grensen og lønnsbegrepet har opphav i forhandlingssfæren. TBU har i sine rapporter fulgt utviklingen i denne indikatoren for heltidsansatte.
+
+OECD ser på forekomsten av lønninger under 2/3 av medianlønnen (2/3M) i noen sammenhenger, mens de i andre sammenhenger benytter en grense på ½ medianlønn. Gjennomsnittstall for lønn påvirkes en god del av at noen få har veldig høye lønninger. Medianlønnen er derfor mer representativ for hva som er «vanlig». I norske forskningsarbeider, analyser og utredninger fra de siste årene er både 2/3M og 85Ind benyttet som mål på lavlønn. I tillegg benyttes mer eller mindre snevre mål av «de lavest lønte», altså de som er nederst i lønnsfordelingen. I internasjonal forskning brukes i hovedsak 2/3M.
+
+Hvilken grense som velges, har stor betydning for hvor mange som faller inn under lavlønnsdefinisjonen, se figur 11.3. Siden lønnsfordelingen er sammenpresset rundt disse nivåene, vil selv små endringer i grensene for lavlønn kunne inkludere eller ekskludere mange jobber. Valg av grense kan dermed også påvirke forskjellene mellom land. Utviklingen over tid påvirkes vanligvis mindre.
+
+Andel i prosent og antall årsverk under utvalgte grenseverdier for lav lønn. Kun i jobb. 2022
+
+Kilde: Statistisk sentralbyrå.
+
+2/3 av medianlønnen utgjør en relativt lav lønn, og det er lett å forstå hva en slik relativ grense betyr. Den supplerer TBUs tall på en nyttig måte. Det er en indikator som er mye brukt i forskning og i andre internasjonale sammenligninger. I tillegg gjør denne indikatoren det mulig å følge utviklingen over tid, i forskjellige grupper og på tvers av land. Utvalget mener derfor 2/3 av medianlønn bør være en sentral indikator for lavlønn. Samtidig er det også viktig for utvalget å se på flere indikatorer. Andelen heltidsansatte med lønn under 85 prosent av industriarbeiderlønn er en indikator med lang historie, og utvalget legger vekt på at denne indikatoren videreføres. I mange tilfeller har de to indikatorene vist tilsvarende utvikling og kjennetegn.
+
+2/3M-avstanden
+
+Siden lønnsfordelingen er så bratt i intervallet rundt 2/3M, vil små endringer i medianlønnen kunne gi store endringer i andelen under denne lavlønnsgrensen. For å begrense utslagene av den litt tilfeldige grenseverdien, kan en indikator for omfanget av lavlønn suppleres med informasjon om fordelingen under grensen.
+
+2/3M-avstanden er en slik indikator. 2/3M-avstanden beskriver avstanden opp til lavlønnsgrensen for jobbene som faller under grensen. Dette kan måles med utgangspunkt i gjennomsnittslønnen eller medianlønnen til de som er under grensen. Et høyt tall innebærer at mange har en lønn langt under grensen. Et lavt tall vil si at mange ligger rett under grensen.
+
+Utvalget oppfatter denne avstanden som nyttig tilleggsinformasjon til en ren omfangsindikator. 2/3M-avstanden er samtidig et relativt komplisert begrep å tolke, og det er så vidt utvalget er kjent med, ikke etablert i bruk internasjonalt eller vanlig i forskningssammenheng. SSB publiserer imidlertid tall over avstanden opp til lavinntektsgrensen på samme måte som her foreslås for lønn. Kompleksiteten kan tilsi at det primært er aktuelt å følge med på 2/3M-avstanden hvis man ønsker å forstå og forklare endringer i lavlønnsomfang.
+
+Mer varig lavlønn
+
+Mange opplever lav lønn i korte perioder av livet. Det har ofte både andre årsaker og konsekvenser enn lav lønn over lengre tid. Mer varig lavlønn vil være en indikator på at færre lykkes i å bevege seg i lønnsfordelingen over tid. Dersom lavlønnsbegrepet rommer mange som etter noen år har flyttet seg til en bedre betalt jobb, er det viktig tilleggsinformasjon. Årlige tall bør derfor med jevne mellomrom suppleres med tall for mer varig lavlønn.
+
+Hva som er et rimelig mål på mer varig lavlønn, er ikke opplagt. Kapittel 6 omtaler hvordan personer beveger seg mellom inntektsdesiler fra 2017 til 2022 (fra Grini mfl., 2023a). I årene mellom kan personene det gjelder enten ha vært i jobb hele tiden eller vært ute av arbeidslivet. Svarstad og Dapi (2022) velger en litt annen tilnærming og definerer varig lavtlønte ved at personen må ha en timelønn på eller under lavlønnsgrensen minst tre av de siste fem årene, eventuelt i kombinasjon med å ikke ha vært lønnstaker. Ved måling av vedvarende *lavinntekt* er det vanlig å se på inntekt under lavinntektsgrensen i tre sammenhengende år.
+
+Utvalget ønsker en definisjon på mer varig lavlønn som konsentrerer seg om arbeidsmarkedet. Samtidig er det vanlig at personer med lavlønn har en løsere tilknytning til arbeidslivet, og dermed kan gå inn og ut av sysselsetting. For å se bort fra overganger inn og ut av sysselsetting, kan vi sette som krav at personene vi ser på skal være i jobb gjennom hele analyseperioden. Det vil samtidig bety at utvalget kan bli lite og selektert dersom vi analyserer en lang tidsperiode. Utvalget legger vekt på å begrense denne seleksjonen, og velger derfor å supplere tilnærmingen omtalt ovenfor med å se på hvor mange som har en lønn under 2/3M i to påfølgende år.
+
+Dette er en ny indikator, som det dermed vil være vanskelig å sammenligne internasjonalt eller med andre analyser. To år kan synes kort som mål på «varig», men gir etter utvalgets vurdering likevel god og relevant informasjon på en enkel måte. Selv med dette målet av mer varig lavlønn er det viktig å være klar over begrensningen som ligger i at enkelte faller ut av arbeidsmarkedet, se omtale i punkt 6.6. Det er likevel en annen problemstilling enn spørsmålet om lavlønn.
+
+Kjennetegn ved lavlønn
+
+Sammensetningen av lavlønn kan endre seg over tid, selv om det samlede omfanget er stabilt. Det gjelder både næringssammensetning og andre kjennetegn ved jobbene, og kjennetegn ved personene som innehar de lavtlønte jobbene. Slike endringer kan gi informasjon om årsakssammenhenger og kan også ha betydning for politikk på andre områder enn lønnsfastsettelsen, for eksempel skattesystem, helse, integrering, utdanning og barnevern. Det er derfor viktig å følge med på utviklingen i kjennetegn ved lavlønn, om enn med litt lengre mellomrom enn ved enkelte av de andre indikatorene.
+
+### Valg av populasjon
+
+Arbeidsmarkedet består av personer med svært ulik tilknytning til arbeidslivet, og mange har også andre aktiviteter eller inntekter. Eksempler på dette er personer som er delvis uføre eller under utdanning. For å defineres som sysselsatt er det tilstrekkelig å arbeide én time per uke. Om alle disse personene skal inkluderes i en analyse, vil avhenge av formålet med analysen.
+
+Utvalget har i valg av indikatorer lagt hovedvekt på å undersøke omfanget av lav lønn for personer som lever av lønnen sin og som er normalt fleksible i sitt tilbud av arbeid. Det kan tilsi å ekskludere de som ikke kun lever av lønn og som tilbyr klart mindre arbeid enn en vanlig lønnsmottaker.
+
+Dette kan være studenter og skoleelever som typisk har inntekter fra andre kilder som stipend, ytelser eller i hovedsak forsørges av sine foreldre eller lever av lånte midler. Arbeidstilbudet er også svært begrenset av tid bundet til skole og studier. Personer som mottar helserelaterte ytelser, lever i stor grad av trygdeytelsene, og kan i begrenset grad påta seg mer arbeid. Det samme gjelder i stor grad alderspensjonister. Lærlinger er i en helt spesiell situasjon ettersom deres arbeidstid dels er definert som utdanning. Utvalget anbefaler å utelukke lærlinger fra populasjonen så langt det er mulig.
+
+Studenter, pensjonister og personer som mottar helserelaterte ytelser, har samtidig systematisk lavere lønn enn resten av befolkningen. Det henger sammen med typen jobber de innehar. Å utelukke disse vil derfor ikke fullt ut dekke alt arbeid som faktisk utføres i Norge. Utvalget har vektlagt førstnevnte hensyn tyngst og mener det er hensiktsmessig å legge hovedvekten på populasjonen «kun i arbeid». Det vil likevel være nyttig å supplere analyser av «kun i arbeid» med analyser av alle jobber eller av de ulike ekskluderte gruppene i en del sammenhenger.
+
+Et annet alternativ kunne vært å se på bare heltidsstillinger. Det brukes ofte internasjonalt. Det er samtidig mange som jobber deltid i Norge, og også mange deltidsjobber med høye deltidsbrøker. Å ekskludere alle disse vil etter utvalgets mening gi et for snevert bilde.
+
+Figur 11.4 gir et eksempel på hvilken betydning valg av populasjon og analyseenhet har. Alle målene i figuren viser at omfanget av lavlønn i Norge var betydelig høyere i 2022 enn i 1997. Ulikt nivå er den tydeligste forskjellen. Omfanget av lavlønn framstår større dersom vi tar med alle jobber, enn om vi bare ser på de som er kun i jobb. Omfanget framstår også større dersom vi ser på antall jobber enn om vi ser på antall årsverk. Det følger av at lavlønn er mer utbredt blant de som jobber deltid og blant de som har andre inntekter eller aktiviteter, enn blant personer som bare jobber og som jobber heltid. Utviklingen er stort sett ganske parallell, men med et par tydelige unntak. I 2022 økte lavlønnsandelen for de som var kun i jobb, men ikke for alle. Samtidig økte sysselsettingsandelen. Alle, målt i andel jobber, skiller seg dessuten ut ved å ha økt også fra 2015 til 2021. Se nærmere omtale av betydningen av populasjon i kapittel 6.
+
+Andel årsverk og andel jobber under 2/3 av medianlønn.<sup>1</sup> Alle og kun i jobb. Prosent. 1997–2022/2023
+
+<sup>1</sup> Det er brudd i tidsserien i 2015 grunnet overgang til a-ordningen. Tall for «kun i jobb» er ikke tilgjengelige for 2023. Lærlinger er inkludert da det ikke er mulig å skille de ut før 2017.
+
+Kilde: Statistisk sentralbyrå.
+
+I praksis begrenses analysene av hvilke tall som er tilgjengelige. Tall for populasjonen «kun i arbeid» er ikke tilgjengelig langt tilbake i tid eller for andre land. Ved analyser som krever lange tidsserier og internasjonale sammenligninger vil det derfor være nødvendig å bruke populasjonen «alle jobber» eller eventuelt heltidsstillinger. Populasjonen «kun i arbeid» er også avhengig av koblinger med annen SSB-statistikk. Den vil derfor være tilgjengelig senere på året enn resten av lønnsstatistikken. Årlig lønnsstatistikk oppdateres rundt februar, mens populasjonen «kun i jobb» først er klar i august/september. Dersom det er viktig å få fram tall så tidlig som mulig, kan det derfor være nødvendig å bruke «alle jobber».
+
+For å få et fullgodt bilde vil det ofte være nødvendig å se nærmere på ulike undergrupper. Det kan for eksempel gjelde inndeling etter sektor, næring eller alder. Kapittel 7 beskriver en rekke relevante dimensjoner. Hvilke inndelinger som er viktigst, vil avhenge av problemstillingen som skal analyseres. Utvalget mener ikke det er grunnlag for å peke ut én eller to spesifikke inndelinger som bør følges fast, og anbefaler at en løpende rapportering tar utgangspunkt i tall for hele den valgte populasjonen samlet.
+
+## Økonomiske og administrative konsekvenser
+
+Utvalgets anbefalinger er i stor grad generelle og forutsetter i de fleste tilfeller videre drøftinger. Dermed er det ingen konkrete tiltak det er hensiktsmessig å anslå økonomiske og administrative kostnader av. Utvalget har derfor i dette punktet nøyd seg med mer overordnet å vise til relevante aktører for videre oppfølging og eveventuelle rammer for finansieringen.
+
+Utvalgets hovedanbefaling er å følge med på utviklingen av lønnsforskjeller og lavlønn ved bruk av utvalgets forslag til indikatorer. Utvalget tilrår at partene i arbeidslivet og myndighetene sammen drøfter dette i egnede arenaer. TBU nevnes som en mulig arena også for publisering av andre indikatorer enn de som publiseres per i dag. Utvalget legger til grunn at oppfølgingen kan skje innenfor gjeldende budsjettrammer.
+
+Utvalget peker også på en del andre områder der mer utredning og forskning er ønskelig, herunder forskning på årsakssammenhenger mellom kjennetegn og betydningen av fagforeninger, tariffavtale og monopsoni for lavlønn. Dette er problem- og temaområder som det kan være interesse i forskningsmiljøene selv å utvikle prosjekter på. Arbeids- og inkluderingsdepartementet kan også ta initiativ til at slik forskning igangsettes. Kostnaden ved slike prosjekter vil variere med omfang og konkret utforming av oppdrag. Det antas at slik forskning, dersom initiert av Arbeids- og inkluderingsdepartementet, kan dekkes innenfor departementets forskningsbudsjett.
+
+Utvalget mener både partene og myndighetene bør arbeide for et styrket organisert arbeidsliv blant lavtlønte grupper. Arbeidstakerorganisasjonene må ta et hovedansvar for rekrutteringen blant lavtlønte arbeidstakere. Det pekes samtidig på noen områder der innsatsen kan styrkes, herunder rekruttering av nyansatte i virksomheter. Hvordan man skal styrke informasjon om den norske arbeidslivsmodellen må drøftes videre av partene og myndighetene i egnede fora. Utvalget har også pekt på treparts bransjeprogrammer som gode og egnede fora å diskutere bransjespesifikke utfordringer. Samtidig vil det generelle behovet for kompetansehevende tiltak i arbeidslivet kreve trepartsinnsats på flere nivå. Utvalget legger til grunn at oppfølgingen kan skje innenfor gjeldende budsjettrammer.
+
+For allmenngjøringsordningen foreslår utvalget ingen konkrete grep, men viser til viktigheten av kontinuerlig arbeid og effektivt tilsyn for å sikre god etterlevelse av regelverket. Arbeidstilsynet er hovedaktør for slik kontroll, og bevilgninger til etaten følges opp i de årlige budsjettprosessene. Det vises også til pågående prosess i Arbeids- og inkluderingsdepartementet om mulige justeringer i allmenngjøringsregelverket.
+
+Utvalget har vurdert, men foreslår ikke nye tiltak rettet mot alternative tilknytningsformer nå utover å følge med på utviklingen framover. Dette er et felt Arbeids- og inkluderingsdepartementet har hatt tydelig oppmerksomhet om, og utvalget legger til grunn at departementet i sitt daglige virke vil følge opp dette.

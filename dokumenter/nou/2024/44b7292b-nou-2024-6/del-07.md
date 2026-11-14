@@ -1,2384 +1,928 @@
-# NOU 2024: 6, del 7 av 15 (side 93–107)
+# NOU 2024: 6, del 7 av 29
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/44b7292b-nou-2024-6.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-6/id3031371/
 - Original-PDF: https://www.regjeringen.no/contentassets/7518f16f14724edaa483f6759155b672/no/pdfs/nou202420240006000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 125 tabeller, 75 figurer, 11826 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 93]
+# Konsumprisutviklingen i Norge
 
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
+- Beregningsutvalget anslår at konsumprisindeksen (KPI) som årsgjennomsnitt vil øke med 4,1 prosent i 2024.
 
-2 850
+- Anslaget er usikkert. Usikkerheten er spesielt knyttet til utviklingen i kronekursen, energiprisene og internasjonal prisvekst.
 
-100
+- Fra 2022 til 2023 økte KPI med 5,5 prosent. I Beregningsutvalgets rapport NOU 2023: 12 var årsveksten i KPI for 2022 anslått til 4,9 prosent. Det er særlig svekkelsen av kronekursen som medvirket til at veksten i KPI ble høyere enn anslått.
 
-2 800
+- Den underliggende inflasjonen, målt ved endringer i konsumprisindeksen justert for avgiftsendringer og uten energivarer (KPI-JAE), nådde en topp på 7,0 prosent i juni 2023, men har deretter stort sett falt. I februar 2024 var tolvmånedersveksten i KPI-JAE på 4,9 prosent.
 
-95
+## Prisutviklingen i senere år
 
-2 750
+### Hovedlinjer i prisutviklingen
 
-90
-85
+Konsumprisindeksen (KPI) økte med 5,5 prosent i 2023, ned fra 5,8 prosent i 2022. Prisstigningen for mange varer og tjenester var imidlertid høyere i 2023 enn i 2022. Spesielt bidro prisøkninger på matvarer og alkoholfrie drikkevarer til den høye prisveksten i 2023. I motsetning til året før bidro utviklingen i strømprisene til å dempe konsumprisveksten i 2023.
 
-2 700
+Den underliggende prisveksten, målt ved endringer i konsumprisindeksen justert for avgiftsendringer og uten energivarer (KPI-JAE), endte på 6,2 prosent i 2023, opp fra en vekst på 3,9 prosent i 2022. For andre år på rad har KPI-JAE aldri blitt målt høyere siden beregningene startet i 2001. De aller fleste varer og tjenester økte mer i pris enn året før, og bidro dermed til å trekke opp den samlede veksten i KPI-JAE fra 2022 til 2023.
 
-80
+KPI og KPI-JAE. Prosentvis vekst fra samme måned året før
 
-2 650
-
-75
-2 600
-
-70
-
-2 550
-
-91
-
-Kapittel 7
-
-tjenesteyting og bygge- og anleggsvirksomhet.
-Oppgangen i antall ikke-bosatte lønnstakere fra
-2022 til 2023 i industrien var på 11,3 prosent, mens
-det innen overnattings- og serveringsvirksomhet
-var en økning på 6,7 prosent. Bygge- og anleggsvirksomhet, som er den største næringen blant
-ikke-bosatte lønnstakere med 27,0 prosent av alle
-ikke-bosatte lønnstakere, hadde en oppgang fra
-2022 til 2023 på i gjennomsnitt 3,4 prosent.
-
-65
-
-2 500
-
-60
-
-7.2
-
-2 450
-
-55
-
-2 400
-2016 2017 2018 2019 2020 2021 2022 2023
-
-50
-
-Ifølge foreløpige nasjonalregnskapstall økte antall
-sysselsatte med 1,3 prosent fra 2022 til 2023, med
-høyest vekst gjennom 2022 og i starten av 2023.
-Veksten i antall timeverk var høyest i 1. kvartal
-2023, før tilnærmet nullvekst ut året, og økte med
-0,8 prosent fra 2022 til 2023. Om man justerer for
-at det var to færre virkedager i 2023 enn i 2022
-ville økningen i antall timeverk anslagsvis vært 1,6
-prosent.14
-Sysselsettingsutviklingen etter næring er vist i
-tabell 7.1 og figur 7.5.15 Etter et fall i 2. og 3. kvartal 2020 økte sysselsettingen innen utvinning av
-råolje og naturgass mye, spesielt i 2. og 3. kvartal
-2023, mens veksten i timeverk var høyest i 3. kvartal 2023. En tilsvarende utvikling fant også sted i
-verfts- og verkstedindustrien, men her fortsatte
-nedgangen gjennom 2021, før både sysselsetting
-og timeverk flatet ut og tok seg noe opp igjen
-gjennom 2022 og 2023. Samlet sett i industrien tok
-sysselsettingen seg opp fra 4. kvartal 2020 etter et
-fall i forbindelse med koronapandemien, og siden
-2. kvartal 2021 har det vært jevn sysselsettingsvekst i denne næringen, men med noe avtakende
-vekst i 2023 sammenlignet med 2022. Dette er vist
-i panel A i figur 7.5.
-Innenfor både bygge- og anleggsvirksomhet
-og teknisk tjenesteyting vokste sysselsettingen
-jevnt gjennom 2022. Gjennom 2023 har sysselsettingen i teknisk tjenesteyting vokst videre, med
-høyere timeverksvekst enn sysselsettingsvekst,
-mens det var et fall i sysselsettingen innenfor
-bygge- og anleggsvirksomhet i 2.–4. kvartal 2023,
-se panel B i figur 7.5.
-Innen overnattings- og serveringsvirksomhet
-var sysselsettingsutslagene gjennom 2021 spesielt
-
-Alle (1 000 personer, venstre akse)
-Ikke-bosatte (1 000 personer, høyre akse)
-
-Figur 7.4 Antall lønnstakere, alle (venstre akse) og
-ikke-bosatte (høyre akse). 1 000 personer, endelige
-tall, sesongjustert. Januar 2016–desember 2023
 Kilde: Statistisk sentralbyrå
 
-fra Ukraina i gjennomsnitt på 7 700 personer per
-kvartal.12 Nettoinnvandringen fra Ukraina var
-likevel 5,3 prosent lavere enn i 2022 (målt som
-gjennomsnitt av kvartalstallene), og bidro til at
-samlet nettoinnvandringen til Norge i 2023 falt
-med 9,0 prosent relativt til 2022. Nettoinnvandringen fra øvrige land falt med 13,7 prosent i
-samme periode.13
-I 2023 var det i gjennomsnitt 88 100 ikkebosatte lønnstakere (målt som gjennomsnitt av
-kvartalstallene), en oppgang på 3,2 prosent fra
-2022, men fortsatt 4,9 prosent færre enn i 2019,
-året før koronapandemien. I de tre årene før
-pandemien økte antall ikke-bosatte med rundt
-5 700 personer årlig. Figur 7.4 viser sesongjusterte månedstall for antall lønnstakere, og illustrerer hvordan antall ikke-bosatte lønnstakere er
-under trenden fra før koronapandemien, mens
-totalt antall lønnstakere er om lag på trenden fra
-før pandemien. Fra mars 2023 og utover falt antall
-ikke-bosatte lønnstakere, i stor grad drevet av en
-reduksjon i antall innen forretningsmessig
+Selv om prisveksten har vært høy i 2023, har tolvmånedersveksten vært avtakende gjennom året og inn i 2024, se figur 3.1. Prisveksten nådde en topp i oktober 2022 på 7,5 prosent. I januar 2023 var prisveksten kommet ned til 7,0 prosent, og godt hjulpet av fallende elektrisitetspriser kom den helt ned til 3,3 prosent i september. Økte strømpriser utover høsten bidro til at prisveksten endte på 4,8 prosent i november og desember, og 4,5 prosent i februar 2024. I motsetning til 2022, da energiprisene var en av de viktigste driverne bak den høye prisveksten, bidro lavere strøm- og drivstoffpriser til å trekke ned veksten i KPI på årsbasis med 0,8 prosentenheter i 2023.
 
-Sysselsetting i ulike næringer
+KPI-JAE har også avtatt noe utover året. Fra en topp på 7,0 prosent i juni 2023, har tolvmånedersveksten falt gradvis til 4,9 prosent i februar 2024. Den underliggende prisveksten i Norge har likevel ikke falt så mye som i andre land. Det må blant annet ses i sammenheng med at kronekursen har svekket seg vesentlig de siste årene. En svakere krone øker prisene på importerte konsumvarer, men også innsatsvarer og importinnhold i norskproduserte varer. Som regel vil ikke endringer i valutakursen slå umiddelbart ut i bedriftenes kostnader, blant annet som følge av langsiktige kontrakter med levering frem i tid. Likevel vil kronekursen få konsekvenser for innkjøpsprisene, som etter hvert veltes over i utsalgsprisene.
 
-12
+Konsumprisindeksen (KPI)
 
-Litt under 12 000 lønnstakere (bosatte og ikke-bosatte) fra
-Ukraina jobbet i Norge i desember 2023 ifølge endelige
-månedstall, en økning på om lag 71 prosent fra desember
-2022.
-13
-Befolkningsstatistikken som ligger til grunn for tallene om
-nettoinnvandring bygger på registrerte bosatte. Derfor er
-verken arbeidsinnvandrere på korttidsopphold eller asylsøkere uten oppholdstillatelse med i denne statistikken.
+07J2xt2
 
-14
-15
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 11%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 10%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td colspan="6" style="text-align: center;">Endring i prosent fra samme periode året før</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">feb. 2024</td>
+</tr>
+<tr>
+<td>KPI</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">5,5</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td>KPI justert for avgiftsendringer (KPI-JA)</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">7,6</td>
+<td style="text-align: right;">5,3</td>
+<td style="text-align: right;">4,2</td>
+</tr>
+<tr>
+<td>KPI uten energivarer (KPI-JE)</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">2,8</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">6,3</td>
+<td style="text-align: right;">4,8</td>
+</tr>
+<tr>
+<td>KPI justert for avgiftsendringer og<br />
+uten energivarer (KPI-JAE)</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;">4,9</td>
+</tr>
+</tbody>
+</table>
 
-Engum, J. og Slaatsveen, I. (2024): Svak utvikling i norsk
-økonomi. Statistisk sentralbyrå.
-I dette avsnittet følges nasjonalregnskapets sysselsettingsdefinisjon. Se boks 7.1 for mer informasjon om populasjonene som legges til grunn for de ulike arbeidsmarkedsstatistikkene.
-
-[Side 94]
-
-92
-
-NOU 2024: 6
-
-Kapittel 7
-
-Grunnlaget for inntektsoppgjørene 2024
-
-Panel A
-
-135
-130
-125
-120
-115
-110
-105
-100
-95
-90
-85
-80
-75
-70
-2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
-Verfts- og verkstedsindustri samt metallvarer
-Råvareindustri
-Konsumvareindustri
-Utvinning av råolje og naturgass, inkl. tjenester
-
-Panel B
-135
-130
-125
-120
-115
-110
-105
-100
-95
-90
-85
-80
-75
-70
-2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
-Bygge- og anleggsvirksomhet
-Varehandel og reparasjon av motorvogner
-Overnattings- og serveringsvirksomhet
-Faglig, vitenskapelig og teknisk tjenesteyting
-Forretningsmessig tjenesteyting
-
-Panel C
-
-135
-130
-125
-120
-115
-110
-105
-100
-95
-90
-85
-80
-75
-70
-2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
-Statsforvaltning
-Kommuneforvaltning
-
-Figur 7.5 Sysselsatte etter næring. Sesongjustert
-endring fra 1. kvartal 2013. Indeks (2013 = 100).
-1. kvartal 2013–4. kvartal 2023
 Kilde: Statistisk sentralbyrå
 
-store, noe som hadde sammenheng med at
-koronapandemien særlig rammet denne næringen. I slutten av 2021 tok sysselsettingen seg kraftig opp igjen, og var fra og med 3. kvartal 2022
-over nivået før pandemien. Gjennom 2023 var
-utviklingen i sysselsettingen innen overnattingsog serveringsvirksomhet tilnærmet flat, med unntak av et fall i 2. kvartal. Sysselsettingen innen forretningsmessig tjenesteyting falt kraftig gjennom
-2023, spesielt i 2. og 3. kvartal. Denne utviklingen
-må ses i sammenheng med nye regler for innleie
-og utleie av arbeidskraft iverksatt fra og med
-1. april 2023, hvor utleie av arbeidskraft inngår
-som en næring innen forretningsmessig tjenesteyting.16 For forretningsmessig tjenesteyting var
-fallet i timeverk gjennom 2023 enda kraftigere enn
-fallet i sysselsettingen. Sysselsettingen innen
-varehandel og reparasjon av motorvogner hadde
-en flat utvikling gjennom både 2022 og 2023, med
-et lite fall i 3. kvartal 2023.
-Utviklingen i sysselsettingen i offentlig forvaltning er vist i panel C i figur 7.5. Det var sterk vekst
-i sysselsettingen i statsforvaltningen fra 3. kvartal
-2020 til 4. kvartal 2021, og lavere vekst gjennom
-2022 og 2023. Sysselsettingen i kommuneforvaltningen har til sammenligning vært svakere over
-den samme perioden, men vokste jevnt gjennom
-alle kvartalene i 2023.
+Endringer i elektrisitetsprisene har alltid vært en viktig kilde til svingninger i prisveksten, og spesielt de siste årene har konsumprisveksten svingt betydelig som følge av varierende strømpriser. Dette er til tross for at strømstøtten har bidratt vesentlig til å dempe svingningene i kraftprisene husholdningene møter. Både nedbørsmengde og temperatur her hjemme, samt utviklingen i europeiske kraftmarkeder påvirker prisutviklingen. Etter Russlands invasjon av Ukraina bidro økte gasspriser lenge til å øke presset på europeiske energipriser. Gassprisene har siden falt noe, men er fremdeles høyere enn før angrepskrigen, se figur 3.2. I tillegg er elektrisitetsprisene avhengig av kvotepriser for CO<sub>2</sub>-utslipp i EU, som har økt markert de siste årene. Dette kan blant annet henge sammen med mer ambisiøse utslippsmål i EU. Kraftmarkedet i Norge påvirkes også av overføringskapasiteten internt i Norge og mellom Norge og andre land. Dette synliggjøres blant annet gjennom betydelige prisforskjeller sør og nord i Norge.
+
+Spotprisen på elektrisitet nådde svært høye nivåer mot slutten av 2021, og var i snitt over 150 øre/kWh på landsbasis i 2022. Gjennom 2023 har prisene på elektrisitet kommet betydelig ned, og er i snitt nesten halvert sammenlignet med 2022. Samtidig er de norske strømprisene fremdeles langt over prisnivåene før pandemien.
+
+Strømstøtteordningen har fortsatt å skjerme husholdningene for mye av prisveksten på elektrisitet, og utvidelsen av ordningen til å baseres på timespriser (fra september 2023) har dempet variasjonen i prisene ytterligere. Årsgjennomsnittet for prisene på elektrisitet inkludert nettleie ble 7,1 prosent lavere i 2023 enn i 2022, etter en oppgang på 19,0 prosent fra 2021 til 2022. I februar 2024 var tolvmånedersveksten i elektrisitet inkludert nettleie på -3,0 prosent.
+
+I 2023 trakk avgiftsendringer opp KPI-veksten med 0,2 prosentpoeng, jf. forskjellen mellom veksten i KPI og KPI-JA i tabell 3.1. Som i 2022 var det særlig strømstøtten (som måles som en negativ avgift) som bidro til forskjellen mellom KPI og KPI-JA. Selv om strømstøtten ble utvidet i 2023, bidro nedgang i kraftprisene til at den samlede strømstøtten målt i kroner i 2023 ble mindre enn i 2022. Målt i prosent har dermed prisene uten strømstøtte falt mer enn prisene med strømstøtte.
+
+Elektrisitet inkludert nettleie i KPI, gasspris og kvotepriser for CO<sub>2</sub>-utslipp i EU (indeks 2015=100)
+
+Note: Kvotepris i kroner per metrisk tonn. Gasspris i Europa (NBP) i kroner per Sm<sup>3</sup>.
+
+Kilder: Statistisk sentralbyrå og Intercontinental Exchange (ICE)
+
+I likhet med gassprisen tok også oljeprisen seg markert opp i starten av 2022, men har ikke kommet like mye ned igjen, se figur 3.3. Som årsgjennomsnitt endte oljeprisen på 865 kroner per fat i 2023, om lag 85 kroner lavere enn i 2022. Oljeprisen var i midten av mars 2024 litt lavere enn årsgjennomsnittet i 2023.
+
+Råolje er en viktig produksjonsfaktor for drivstoff. Utviklingen i drivstoffprisene vil likevel ikke alltid følge utviklingen i råoljeprisen, ettersom utviklingen i prisene på bensin og diesel til husholdningene i stor grad også påvirkes av utviklingen i marginene i raffineringsnæringen, avgiftene og avansen til bensinstasjonene. Som årsgjennomsnitt var prisene på drivstoff og smøremidler 2,9 prosent lavere i 2023 enn i 2022, etter en oppgang på 33,2 prosent fra 2021 til 2022.
+
+Drivstoff og smøremidler i KPI, oljepris og gasspris (Indeks 2015=100)
+
+Note: Oljepris er nordsjøolje (Brent) i kroner per fat. Gasspris i Europa (NBP) i kroner per Sm<sup>3</sup>.
+
+Kilder: Statistisk sentralbyrå og Intercontinental Exchange (ICE)
+
+Tabell 3.2 viser utviklingen i veksten i KPI-JAE etter leveringssektor. Prisene på importerte varer har fortsatt å øke betydelig i 2023. I tillegg til prisene på varene i utenlandsk valuta, påvirkes prisene på importerte varer av kronekursen med et tidsetterslep, og av avansen hos detaljister og grossister i Norge. I 2023 steg prisene på importerte konsumvarer (utenom jordbruksvarer) i KPI-JAE med 6,1 prosent, etter en oppgang på 3,9 prosent året før. Økningen i prisveksten fra et allerede høyt nivå må ses i sammenheng med at prisveksten hos flere av Norges handelspartnere fremdeles var svært høy i 2023, se kapittel 5 om internasjonal økonomi. I tillegg har kronekursen svekket seg over lengre tid. Kronens verdi, målt ved den importveide kursindeksen, var 1,7 prosent lavere i februar 2024 enn i februar 2023. I februar 2024 økte prisveksten på importerte varer til 5,0 prosent, etter en tolvmånedersvekst på 4,3 prosent i januar. I desember var tolvmånedersveksten på 5,7 prosent.
+
+Som årsgjennomsnitt økte prisene på norskproduserte konsumvarer (utenom jordbruksvarer) med 8,1 prosent i 2023, etter en vekst på 5,4 prosent i 2022, se tabell 3.2. Selv om denne leveringssektoren ekskluderer jordbruksvarer er litt over halvparten av varene som inngår i kategorien bearbeidede mat- og drikkevarer. Den sterke økningen i mat- og drikkevareprisene får dermed stor innvirkning på prisveksten i norske varer, også om man ekskluderer jordbruksvarer[^12]. Prisveksten på norskproduserte varer (utenom jordbruksvarer) var svært høy det første halvåret av 2023, med tolvmånedersvekstrater på over 10 prosent i enkelte måneder. Siden har prisveksten falt noe, og i februar 2024 var tolvmånedersveksten på 5,0 prosent, se figur 3.4.
+
+Husleieindeksen i KPI består av betalt husleie og beregnet husleie som skal uttrykke verdien av tjenesten selveiere og andelseiere får av boligen sin. Prisene på denne tjenesten antas å følge utviklingen i leieprisene på tilsvarende boliger i leiemarkedet. Fra 2022 til 2023 steg husleiene med 3,9 prosent, etter en vekst på 2,0 prosent fra 2021 til 2022. Veksten i husleiene har ikke vært så høy siden starten av 2000-tallet. Husleieloven sier at utleiere kan sette opp husleien på løpende leiekontrakter med den løpende tolvmånedersveksten i KPI. Dermed vil høy prisvekst etter hvert forplante seg i økte husleier på løpende kontrakter. Nye husleiekontrakter settes til markedspris og avhenger av utleiers kostnader og etterspørselen på leiemarkedet. Huseiere har fått økte kostnader det siste året i form av økte renter og kommunale boliggebyrer, så trolig er en del av disse kostnadsøkningene veltet over på leietakerne i form av økte husleier. I motsetning til andre varer og tjenester der prisveksten har avtatt gjennom 2023, har tolvmånedersveksten i husleiene i store trekk vært tiltakende. Prisveksten steg fra 2,9 prosent i januar 2023 til 4,6 prosent i desember 2023. Hittil i år har veksten avtatt noe igjen, og i februar 2024 var tolvmånedersveksten på 4,3 prosent.
+
+Prisene på andre tjenester steg med 6,3 prosent i 2023, etter en økning på 4,1 prosent i 2022. Spesielt var det tjenester med andre viktige priskomponenter enn arbeidskraft som bidro til veksten, med en årsvekst i prisene på 7,8 prosent i 2023, opp fra 4,7 prosent i 2022. Årsveksten for tjenester hvor arbeidskraft dominerer økte fra 3,0 prosent i 2022 til 3,1 prosent i 2023. Ifølge SSB har denne indeksen historisk hatt en relativt god sammenheng med veksten i lønnskostnader, men ikke de siste årene. Gruppen inkluderer SFO- og barnehagetjenester, som hadde prisnedgang etter politiske vedtak i 2023. Uten lavere SFO- og barnehagesatser, finner SSB at prisveksten på tjenester hvor arbeidskraft dominerer ville vært om lag 3,4 prosentenheter høyere i 2023. Samtidig peker SSB på at det ikke er noen tydelige tegn til at økte lønnskostnader har ført til økt prisvekst, ettersom også prisveksten etter denne justeringen har avtatt gjennom året som andre varer og tjenester. Tolvmånedersveksten i prisene på tjenester uten husleie holdt seg relativt stabil i overkant av 6 prosent gjennom 2023, men falt de siste månedene av året. I januar 2024 steg prisveksten midlertidig til 6,2 prosent, men falt igjen til 5,0 prosent i februar.
+
+Konsumprisindeksen justert for avgiftsendringer og utenom energivarer (KPI-JAE), etter leveringssektor
+
+08J2xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 3%" />
+<col style="width: 39%" />
+<col style="width: 8%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3" rowspan="2"></td>
+<td rowspan="2" style="text-align: right;">Vekt<sup>1</sup></td>
+<td colspan="4" style="text-align: center;">Endring i prosent fra samme periode året før</td>
+</tr>
+<tr>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">feb. 2024</td>
+</tr>
+<tr>
+<td colspan="3">Totalt</td>
+<td style="text-align: right;">1000</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;">4,9</td>
+</tr>
+<tr>
+<td colspan="3">Varer</td>
+<td style="text-align: right;">480,2</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;">5,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">– norske varer</td>
+<td style="text-align: right;">134,7</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">6,0</td>
+<td style="text-align: right;">8,4</td>
+<td style="text-align: right;">5,4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>– norske jordbruksvarer</td>
+<td style="text-align: right;">33,4</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">7,3</td>
+<td style="text-align: right;">9,7</td>
+<td style="text-align: right;">6,4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>– norske varer uten jordbruksvarer</td>
+<td style="text-align: right;">101,3</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">5,4</td>
+<td style="text-align: right;">8,1</td>
+<td style="text-align: right;">5,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">– importerte varer</td>
+<td style="text-align: right;">345,5</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">6,6</td>
+<td style="text-align: right;">5,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>– importerte jordbruksvarer</td>
+<td style="text-align: right;">23,2</td>
+<td style="text-align: right;">-3,1</td>
+<td style="text-align: right;">7,5</td>
+<td style="text-align: right;">12,9</td>
+<td style="text-align: right;">8,3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>– importerte varer uten jordbruksvarer</td>
+<td style="text-align: right;">322,3</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">6,1</td>
+<td style="text-align: right;">4,8</td>
+</tr>
+<tr>
+<td colspan="3">Tjenester</td>
+<td style="text-align: right;">519,8</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">5,3</td>
+<td style="text-align: right;">4,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">– husleie</td>
+<td style="text-align: right;">214,8</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">4,3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">– tjenester uten husleie</td>
+<td style="text-align: right;">305,0</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">6,3</td>
+<td style="text-align: right;">5,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>– hvor arbeidskraft dominerer</td>
+<td style="text-align: right;">94,3</td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">3,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>– med andre viktige priskomponenter</td>
+<td style="text-align: right;">210,7</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">4,7</td>
+<td style="text-align: right;">7,8</td>
+<td style="text-align: right;">5,5</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Vektene gjelder fra januar 2024 til desember 2024.
 
-7.3
-
-Arbeidsledighet
-
-Tall fra AKU viser at arbeidsledigheten, som lå på
-3,4 prosent i slutten av 2022 etter en svak økning
-fra sommeren 2022, økte videre gjennom 2023 til
-3,9 prosent i januar 2024, se panel D i figur 7.3.17
-Dette tilsvarte 117 000 personer. AKU-arbeidsledigheten for 2023 sett under ett var 3,6 prosent,
-opp fra 3,2 prosent i 2022. Dette er lavere enn det
-bruddjusterte gjennomsnittet på 4,0 prosent over
-perioden 2009–2019 før pandemien. For personer
-i aldersgruppen 15–39 år økte AKU-arbeidsledigheten fra 4,9 prosent i 2022 til 5,7 prosent i 2023.18
-Økningen blant de yngste (unge i alderen 15–24
-år), var i stor grad en følge av at flere fra denne
-
-16
-17
-
-18
-
-Berge, C. og Edelmann, F. S. (2023): Færre lønnstakere i
-utleie av arbeidskraft. Statistisk sentralbyrå.
-Månedstall fra AKU som brukes i dette kapittelet er trendtall, som representerer en underliggende tendens og konjunktursykluser, og som har bedre aktualitet enn de tremåneders glidende gjennomsnittene. Se boks 7.3 for mer
-om månedstall fra AKU.
-Dette er beregnet basert på summen av nivåene for aldersgruppene 15–24 år og 25–39 år.
-
-[Side 95]
-
-93
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Kapittel 7
-
-Tabell 7.1 Sysselsatte og timeverk ifølge nasjonalregnskapet1
-Nivå
-
-Endring fra året før i prosent
-
-Sysselsetting Timeverk
-
-Sysselsetting
-
-Timeverk
-
-2021 2022* 2023*
-
-2021 2022* 2023*
-
-2023*
-
-2023*
-
-2 973,4
-
-4 216,1
-
-1,1
-
-3,9
-
-1,3
-
-2,3
-
-3,9
-
-0,8
-
-45,2
-
-76,3
-
--1,6
-
-2,8
-
-1,6
-
--1,3
-
-1,7
-
-0,1
-
-2 928,3
-
-4 139,7
-
-1,2
-
-3,9
-
-1,3
-
-2,4
-
-3,9
-
-0,8
-
-Industri og bergverksdrift
-
-228,6
-
-359,4
-
--0,1
-
-2,7
-
-1,1
-
-1,0
-
-2,6
-
-0,5
-
-Annen vareproduksjon
-
-350,6
-
-555,5
-
-0,6
-
-4,4
-
-2,0
-
-1,0
-
-4,4
-
-0,8
-
-– Primærnæringer
-
-69,8
-
-120,3
-
-0,6
-
-2,7
-
-2,2
-
--0,3
-
-2,5
-
-0,8
-
-– Elektrisitetsforsyning
-
-17,9
-
-29,5
-
-2,5
-
-3,0
-
-4,7
-
-3,0
-
-2,9
-
-5,0
-
-– Bygge- og anleggsvirksomhet
-
-262,9
-
-405,7
-
-0,5
-
-5,0
-
-1,8
-
-1,3
-
-5,1
-
-0,5
-
-Tjenesteytende næringer ekskl.
-offentlig forvaltning
-
-1 459,9
-
-2 014,4
-
-1,0
-
-5,9
-
-1,5
-
-3,0
-
-5,7
-
-0,8
-
-– Tjenester tilknyttet utvinning
-av råolje og naturgass
-
-36,1
-
-57,5
-
-0,0
-
-4,5
-
-3,7
-
-2,5
-
-3,4
-
-4,0
-
-– Varehandel
-
-366,1
-
-457,3
-
-1,3
-
-2,4
-
-0,4
-
-2,1
-
-2,5
-
--0,5
-
-– Samferdsel (ekskl. utenriks
-sjøfart)
-
-119,8
-
-182,5
-
--3,2
-
-5,3
-
-2,7
-
--0,4
-
-5,6
-
-1,7
-
-– Annen tjenesteyting
-
-974,0
-
-1 374,6
-
-1,5
-
-7,4
-
-1,8
-
-3,8
-
-6,9
-
-1,1
-
-Offentlig forvaltning
-
-889,2
-
-1 210,4
-
-1,9
-
-0,9
-
-0,9
-
-2,4
-
-1,2
-
-1,0
-
-– Statsforvaltningen
-(inkl. helseforetakene)
-
-327,0
-
-493,6
-
-2,8
-
-1,7
-
-1,5
-
-2,6
-
-1,7
-
-0,9
-
-– Kommune-forvaltningen
-
-562,1
-
-716,8
-
-1,4
-
-0,5
-
-0,5
-
-2,3
-
-0,8
-
-1,0
-
-I alt
-Olje og utenriks sjøfart
-Fastlands-Norge
-
-* Foreløpige tall
-1
-Nasjonalregnskapstallene (NR) avviker noe fra tallene i Arbeidskraftsundersøkelsen (AKU), blant annet ved at NR-tall inkluderer
-utenlandske sjøfolk på norske skip og arbeidsinnvandrere på korttidsopphold (ikke-bosatte).
-Kilde: Tabell 09175 i Statistikkbanken, Statistisk sentralbyrå
-
-aldersgruppen forsøkte å få seg jobb heller enn at
-de mistet jobben.19
-AKU viser at det i 2023 i gjennomsnitt var
-49 000 arbeidsledige kvinner og 58 000 arbeidsledige menn, se tabell 7.2. Sammenlignet med året
-før var det totalt 11 000 flere arbeidsledige. Generelt jobber det flere menn enn kvinner i konjunkturutsatte næringer, noe som tilsier at det er størst
-økning i andelen arbeidsledige menn i en nedgangskonjunktur.20 I starten av koronapandemien
-ble derimot kvinner rammet i større grad enn
-
-menn. Årsaken til dette var at nedstengingen av
-samfunnet i første omgang påvirket næringer med
-en overrepresentasjon av kvinner, noe som gjorde
-at arbeidsledigheten i større grad traff kvinner
-enn i et vanlig konjunkturforløp. Kvinner med innvandrerbakgrunn ble aller hardest rammet.21
-Etter hvert ble det flere menn blant de permitterte, og forskjellen avtok. Månedstallene fra AKU
-20
-21
-
-19
-
-Horgen, E. H. (2024): Flere unge arbeidsledige i 2023.
-Statistisk sentralbyrå.
-
-Jensen, R. S. og Øistad, B. S. (2019): Det kjønnsdelte
-arbeidsmarkedet på virksomhetsnivå. Fafo-rapport 2019: 17.
-Bratsberg, B., Eielsen, G., Markussen, S., Raaum, O., Røed,
-K. og Vigtel, T. C. (2020): Koronakrisens første uker – hvem
-tok støyten i arbeidslivet? Samfunnsøkonomen, 2, 41–50.
-
-[Side 96]
-
-94
-
-NOU 2024: 6
-
-Kapittel 7
-
-Grunnlaget for inntektsoppgjørene 2024
-
-Tabell 7.2 Arbeidsledige og midlertidig ansatte, ifølge AKU. 2019–2023
-Nivå
-
-Arbeidsledige i alt, 1 000 personer
-Kvinner
-Menn
-1
-
-Midlertidig ansatte, 1 000 personer
-
-Endring fra året før
-
-2023
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-107
-
--2
-
-25
-
--8
-
--32
-
-11
-
-49
-
--2
-
-12
-
--4
-
--14
-
-6
-
-58
-
-0
-
-12
-
--3
-
--18
-
-5
-
-219
-
--9
-
--5
-
-48
-
--14
-
--12
-
-Prosentvis endring fra året før
-Andel midlertidig ansatte, i prosent1
-
-8,0
-
--6,0
-
--2,5
-
-20,8
-
--8,6
-
--5,9
-
-1
-
-Nivået for 2023 viser midlertidig ansatte i prosent av alle ansatte. Tidsserien er ikke bruddjustert og dermed er ikke endringen
-fra 2020 til 2021 sammenlignbar, se kapittel 7.5 for mer om bruddet.
-Kilde: Tabell 13618 og 05612 i Statistikkbanken, Statistisk sentralbyrå
-
-viser at nesten hele økningen i arbeidsledighet
-gjennom 2023 var blant menn.22
-Tall fra AKU viser at det i 4. kvartal 2023 var
-7 000 personer med lange arbeidsledighetsperioder (definert som sammenhengende arbeidsledig
-i over ett år), noe som var en økning på om lag
-16,7 prosent sammenlignet med 4. kvartal 2022.
-Langtidsledige regnes hos NAV som personer som
-ikke har vært i jobb eller på arbeidsmarkedstiltak
-i minst 26/53 uker (varighet som helt ledig).23
-Dette inkluderer også helt permitterte som fortsatt har et arbeidsforhold. I 2023 var det i gjennomsnitt 13 500 langtidsledige over 26 uker og
-5 300 langtidsledige over 53 uker, se tabell 7.3. I
-februar 2024 var 14 700 personer langtidsledige
-over 26 uker, en økning på 22,2 prosent sammenlignet med februar 2023 og en reduksjon på 27,9
-prosent sammenlignet med februar 2022.
-NAVs statistikk over arbeidsledighet viser at
-summen av registrert helt ledige og arbeidssøkere
-på tiltak (sesongjustert) økte moderat fra november 2022 til februar 2024, med til sammen 12 500
-personer (sesongjustert), se panel D i figur 7.3.
-Målt som andelen av arbeidsstyrken økte det fra
-
-2,0 prosent i perioden november 2022–mars 2023
-til 2,4 prosent i februar 2024.24 Tall fra NAV viser
-at andelen av de helt ledige (ikke sesongjustert)
-som var permitterte falt fra 19,2 prosent i januar
-2022, da det fortsatt var smitteverntiltak i forbindelse med koronapandemien, til 3,6 prosent i
-september 2022, se figur 7.6. I februar 2024 var
-andelen på 10,1 prosent, tilsvarende 11 700 personer, noe som var en økning på 1 900 personer
-sammenlignet med februar 2023. Målt ved tall fra
-desember 2023 sto permitteringer av personer fra
-bygg og anlegg og ingeniør- og IKT-fag for en stor
-andel av økningen sammenlignet med desember
-2022, og av de 7 800 permitterte i desember 2023
-var 3 000 fra disse to konjunktursensitive yrkesgruppene.25
-I januar 2023 var arbeidsledigheten (sesongjustert) høyest innen reiseliv og transport, med
-3,2 prosent helt ledige eller på arbeidsmarkedstiltak, og arbeidsledigheten for denne gruppen
-økte til 3,5 prosent i slutten av 2023, se figur 7.7.26
-Felles for alle yrkesgruppene var en økning i
-24
-
-22
-
-Kvile, J. og Lien, H. (2024): Stabil arbeidsmarknad i desember. Statistisk sentralbyrå.
-23 Varigheten regnes fra det tidspunkt en person første gang
-melder seg som helt arbeidsledig eller når personen
-melder seg som helt arbeidsledig etter avbrudd av minst to
-ukers varighet. Avbrudd omfatter (i) deltakelse i arbeidsmarkedstiltak, (ii) heltidsarbeid, (iii) deltidsarbeid, og (iv)
-perioder hvor personen ikke er arbeidssøker. Varigheten er
-definert som en sammenhengende arbeidsledighetsperiode der nevnte brudd ikke har forekommet, og personen ikke er definert med nedsatt arbeidsevne.
-
-25
-
-26
-
-Arbeidsstyrken som ligger til grunn for andelen registrert
-som helt ledige og arbeidssøkere på tiltak oppdateres én
-gang i året, og er ikke sesongjustert.
-Tall for desember 2023 er brukt her grunnet en feil i ITsystemet hos NAV som medførte manglende registrering
-av yrkesbakgrunn hos nye arbeidssøkere i januar og
-februar 2024.
-Andel av arbeidsstyrken etter yrke som er arbeidsledig er
-beregnet fra antall helt ledige og personer på tiltak
-(sesongjustert) etter yrke delt på arbeidsstyrken etter yrke
-avledet fra månedstall (ikke sesongjustert) for permitterte
-etter yrke.
-
-[Side 97]
-
-95
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Kapittel 7
-
-14
-12
-10
-8
-6
-4
-2
-0
-jan. 2020
-
-jul. 2020
-
-jan. 2021
-
-Tiltak
-
-jul. 2021
-
-jan. 2022
-
-Permitterte, helt ledige
-
-jul. 2022
-
-Øvrige helt ledige
-
-jan. 2023
-
-jul. 2023
-
-jan. 2024
-
-Helt ledige + tiltak
-
-Figur 7.6 Utvikling i registrert arbeidsledighet (helt ledige) og arbeidssøkere på tiltak. Andel av
-arbeidsstyrken (ikke sesongjustert). Januar 2020–februar 2024
-Kilde: Arbeids- og velferdsdirektoratet
-
-4,0
-3,5
-3,0
-2,5
-2,0
-1,5
-1,0
-0,5
-0,0
-jan. 2023
-
-mar. 2023
-
-mai. 2023
-
-jul. 2023
-
-Kontorarbeid
-Reiseliv og transport
-Industriarbeid
-I alt
-
-sep. 2023
-
-nov. 2023
-
-jan. 2024
-
-Butikk- og salgsarbeid
-Serviceyrker og annet arbeid
-Ingeniør- og IKT-fag
-
-Figur 7.7 Utvikling i registrert arbeidsledighet (helt ledige) og arbeidssøkere på tiltak, utvalgte yrker.1
-Andel av arbeidsstyrken (sesongjustert). Januar 2023–februar 2024
-1
-
-Yrkesfordelte tall januar og februar 2024 er ikke tilgjengelig grunnet en feil i IT-systemet hos NAV som medførte manglende
-registrering av yrkesbakgrunn hos nye arbeidssøkere.
-Kilde: Arbeids- og velferdsdirektoratet
-
-(sesongjustert) arbeidsledighet gjennom 2023,
-med størst økning for bygg og anlegg på 0,8 prosentpoeng fra januar til desember 2023. Ifølge
-NAVs månedlige statistikk for 2023 har antall
-registrert helt ledige ligget stabilt rundt 1,8 prosent av arbeidsstyrken.
-
-7.4
-
-Ledige stillinger
-
-Årlig er det store strømmer i arbeidsmarkedet.
-Tilgang og beholdning av ledige stillinger brukes
-som indikatorer for etterspørsel etter arbeidskraft, for eksempel for å si noe om konjunktur-
-
-[Side 98]
-
-96
-
-NOU 2024: 6
-
-Kapittel 7
-
-Grunnlaget for inntektsoppgjørene 2024
-
-Helse- og sosialtjenester
-Undervisning
-Overnattings- og serveringsvirksomhet
-Bygge- og anleggsvirksomhet
-Industri
-Transport og lagring
-Informasjon og kommunikasjon
-Bergverksdrift og utvinning
-Eiendomsdrift, forretningsmessig og faglig tjenesteyting
-Elektrisitet, vann og renovasjon
-Fikk ikke ansatt noen
-
-Varehandel, motorvognreparasjoner
-
-Ansatt noen med lavere eller
-annen formell kompetanse
-
-Jordbruk, skogbruk og fiske
-Finansierings- og forsikringsvirksomhet
-I alt
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-Figur 7.8 Virksomheter som har mislyktes i å rekruttere arbeidskraft eller som har vært nødt til å ansette noen
-med annen formell kompetanse. Prosent. Våren 2023
-Kilde: NAVs bedriftsundersøkelse 2023, Arbeids- og velferdsdirektoratet
-
-svingninger. Flere ledige stillinger kan imidlertid
-også være et uttrykk for økt mangel på arbeidskraft, og økt tilgang på ledige stillinger kan følge
-av at flere bytter jobb. NAVs bedriftsundersøkelse
-fra våren 2023 viser at det var utfordringer med å
-rekruttere arbeidskraft innen helse- og sosialtjenester, hvor 30,5 prosent av virksomheter
-svarte at de ikke fikk ansatt personer og ytterligere 13,8 prosent måtte ansette noen med lavere
-eller annen formell kompetanse. Tilsvarende gjennomsnitt for alle virksomheter i undersøkelsen
-var 15,6 og 10,0 prosent. Dette er vist i figur 7.8.
-Regionalt nettverk 1/2024, publisert av
-Norges Bank 14. mars 2024, viste at 21 prosent av
-virksomheter i undersøkelsen rapporterte at
-knapphet på arbeidskraft begrenset deres produksjon.27 Dette var det samme nivået som i foregående runde i november 2023 (Regionalt nettverk
-4/2023). Virksomheter innen tjenesteyting og
-oljeleverandører rapporterte i større grad om
-knapphet enn gjennomsnittet.
-Fra et historisk høyt nivå i 2022 var det i 2023
-et fall i tilgangen på ledige stillinger registrert hos
-NAV (målt som sum av tilgang på ledige stillinger
-per år) på 106 900 stillinger (tilsvarende 18,6 prosent), se tabell 7.3. Nivået på tilgangen på ledige
-27
-
-Spørsmålet om knapphet på arbeidskraft er kun stilt til virksomhetene som har oppgitt å ha full kapasitetsutnytting,
-men de rapporterte tallene gjengir andelen av alle som er
-med i intervjurunden.
-
-stillinger var likevel over gjennomsnittet de siste
-10 årene. SSBs tall for beholdningen av ledige stillinger (målt som gjennomsnittlig beholdning gjennom året) økte med 11 300 stillinger (tilsvarende
-10,6 prosent) fra 2022 til 2023.
-Sesongjusterte tall fra SSB viser at veksten i
-antall ledige stillinger var høyest i 1. kvartal 2023,
-og spesielt for varehandel og bygg- og anleggsvirksomhet. Den sesongjusterte veksten i totalt
-antall ledige stillinger falt deretter med 10,3 prosent i 2. kvartal og falt videre ut året. I 4. kvartal
-trakk spesielt faglig, vitenskapelig og teknisk
-tjenesteyting og forretningsmessig tjenesteyting
-ned den sesongjusterte veksten i antall ledige stillinger, mens helsetjenester trakk opp.
-Sesongjusterte tall for ledige stillinger som
-andel av totalt antall stillinger (sum av antall stillinger og arbeidsforhold) nådde en topp i 1. kvartal 2023 på 4,1 prosent og falt deretter til 3,3 prosent i 4. kvartal. I 4. kvartal hadde næringene
-pleie- og omsorgstjenester i institusjon og overnattings- og serveringsvirksomhet høyere forholdstall enn gjennomsnittet, mens helsetjenester
-og industri hadde færre ledige stillinger som
-andel av totalt antall stillinger. Forholdstallene for
-hver næring for 4. kvartal 2023 (sesongjustert) er
-vist i figur 7.9.
-Reduksjonen i tilgangen på ledige stillinger
-registrert hos NAV fra 2022 til 2023 var spesielt
-stor innen bygg og anlegg (-36,0 prosent), ingeniør- og IKT-fag (-35,6 prosent) og serviceyrker
-
-[Side 99]
-
-97
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Kapittel 7
-
-Pleie- og omsorgstenester i institusjon
-Overnattings- og serveringsverksemd
-Jordbruk, skogbruk og fiske
-Forretningsmessig tenesteyting
-Informasjon og kommunikasjon
-Anna tenesteyting
-Fagleg, vitskapleg og teknisk tenesteyting
-Omsetning og drift av fast eigedom
-Transport og lagring
-Varehandel, motorvognreparasjonar
-Sosiale omsorgstenester utan butilbod
-Helsetenester
-Undervisning
-Byggje- og anleggsverksemd
-Elektrisitet, vatn og renovasjon
-Kulturell verksemd, underhaldning og fritidsaktivitetar
-Bergverksdrift og utvinning
-Offentleg administrasjon og forsvar
-Industri
-Finansierings- og forsikringsverksemd
-0,0
-
-2,0
-
-4,0
-
-6,0
-
-Figur 7.9 Ledige stillinger som andel av totalt antall stillinger.1 Etter næring. Prosent (sesongjustert).
-4. kvartal 2023
-1
-
-Stiplet vertikal linje viser gjennomsnittlig ledige stillinger som andel av totalt antall stillinger.
 Kilde: Statistisk sentralbyrå
 
-Tabell 7.3 Registrerte arbeidsledige og tiltaksdeltakere og ledige stillinger.1 I 1 000 personer, om ikke annet
-er angitt. 2018–2023
-Nivå
+KPI-JAE etter leveringssektor. Importerte konsumvarer og norskproduserte konsumvarer. Utenom jordbruksvarer. Prosentvis vekst fra samme måned året før
 
-Endring fra året før
-
-2023
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-53,1
-
--8,7
-
--2,1
-
-78,5
-
--53,1
-
--36,7
-
-1,0
-
-13,5
-
--2,6
-
--0,5
-
-8,2
-
-4,6
-
--15,1
-
--1,8
-
-5,3
-
--0,6
-
-0,0
-
-1,4
-
-5,0
-
--5,9
-
--2,6
-
-3,8
-
--1,1
-
--0,6
-
-57,6
-
--36,8
-
--17,6
-
--0,8
-
-Tiltaksdeltakere (arbeidssøkere), gjennomsnitt
-
-10,7
-
--3,1
-
--2,1
-
--1,3
-
-3,2
-
--3,3
-
--2,1
-
-Delvis ledige, gjennomsnitt
-
-21,6
-
--3,6
-
--1,9
-
-60,3
-
--29,7
-
--31,4
-
--3,7
-
-468,2
-
-132,7
-
-7,3
-
--1,8 126,5
-
-30,2 -106,9
-
-118,1
-
-8,3
-
-4,6
-
--9,8
-
-26,1
-
-18,0
-
-11,3
-
-3,7
-
-0,2
-
-0,2
-
--0,3
-
-0,8
-
-0,4
-
-0,3
-
-Registrert helt ledige, gjennomsnitt, NAV
-Langtidsledige over 26 uker2
-Langtidsledige over 53 uker2
-Helt permitterte, gjennomsnitt
-
-Tilgang ledige stillinger, NAV
-
-3
-
-Ledige stillinger (nivå), SSB4
-Ledige stillinger (prosent og prosentpoeng), SSB5
-1
-
-Gjennomsnittlige månedstall. Det er brudd i NAVs statistikk over antall arbeidsledige fra og med november 2018 på grunn av ny
-registreringsmetode. Bruddet anses å være tilnærmet ferdig per januar 2019. Dermed er tall frajanuar 2020 sammenlignbare
-med året før. Fra og med 1. januar 2021 overtok NAV ansvaret for statistikken omregistrerte ledige fordelt etter utdanning og
-innvandrerbakgrunn, i henhold til nasjonalt program for offisiell statistikk.
-2
-Alle arbeidsledige med en sammenhengende arbeidsledighetsperiode på minst 26/53 uker (varighet som helt ledig) som ikke
-har vært i jobb eller vært i arbeidsmarkedstiltak.
-3
-Total tilgang gjennom året, ikke gjennomsnitt per måned. Økningen i ledige stillinger fra 2017 til 2018 skyldes delvis at NAV
-gradvis har forbedret datainnhenting til ledige stillinger og utvidet omfanget til statistikkilden.
-4
-Statistikken baserer seg på en utvalgsundersøkelse som gjennomføres hvert kvartal. Statistikken viser nivået og utviklingen for
-antall ledige stillinger totalt og fordelt på næring, målt som en beholdningsstørrelse. Statistikken er sammenlignbar med tilsvarende statistikk i europeiske land. Nivået fra SSBs statistikk for ledige stillinger er høyere enn NAVs månedlige statistikk, da
-SSBs statistikk blant annet også inneholder ledige stillinger som utelukkende er utlyst på virksomhetenes egne hjemmesider.
-5
-Ledige stillinger i prosent av antall stillinger (sum av ledige stillinger og antall arbeidstakerforhold).
-Kilder: Tabell 08836 i Statistikkbanken, Statistisk sentralbyrå og Arbeids- og velferdsdirektoratet
-
-[Side 100]
-
-98
-
-NOU 2024: 6
-
-Kapittel 7
-
-Grunnlaget for inntektsoppgjørene 2024
-
-(-27,3 prosent). Målt i antall var tilgangen på
-ledige stillinger i 2023 størst i helse, pleie og
-omsorg med 125 500 ledige stillinger, en nedgang
-på 4,3 prosent fra 2022. De sesongjusterte
-månedstallene viste at tilgangen på ledige stillinger per virkedag for alle yrker sett under ett
-økte noe fra og med juni 2023, etter et fall i perioden januar–april 2023.
-
-10,0
-9,5
-9,0
-8,5
-8,0
-7,5
-
-Midlertidig ansatte og deltid
-
-6,5
-
-2023
-
-2022
-
-2021
-
-2020
-
-2019
-
-2018
-
-2017
-
-2016
-
-2015
-
-2014
-
-2013
-
-2012
-
-2011
-
-6,0
-2010
-
-Midlertidig ansatte utgjorde ifølge AKU 8,0 prosent av alle ansatte i 2023, se tabell 7.2. I perioden
-2009–2022 har andelen variert mellom 7,7 og 9,3
-prosent (se figur 7.10), med en nedgang fra 8,5
-prosent i 2022 til 8,0 prosent i 2023. Flere personer som tidligere ville vært klassifisert som selvstendig næringsdrivende blir nå definert som
-ansatte i AKU etter omleggingen i januar 2021.28
-Tallene fra og med 2021 er dermed ikke sammenlignbare med de tidligere årene, se figur 7.10.
-Heltidssysselsatte lønnstakere utgjorde ifølge
-AKU 75,2 prosent av de sysselsatte i 2023, mens
-24,7 prosent var deltidssysselsatte. Innslaget av
-deltid falt fra året før, og andelen deltidssysselsatte med kort deltid (1–19 timer per uke) økte
-noe. 103 000 personer i gruppen deltidssysselsatte
-lønnstakere i 2023 ønsket å kunne jobbe mer, som
-tilsvarte 2,5 prosent av befolkningen og 14,1 prosent av alle deltidssysselsatte.29 Det var en reduksjon fra 106 000 personer i 2022, tilsvarende et fall
-på 2,8 prosent.
-Et utvidet arbeidsledighetsbegrep som inkluderer deltidssysselsatte som ønsket og kunne
-jobbe mer, arbeidsledige personer (som søker
-jobb og er tilgjengelig), personer utenfor arbeidsstyrken som har søkt jobb, men ikke er tilgjengelig, og personer utenfor arbeidsstyrken som ikke
-har søkt jobb, men som er tilgjengelig utgjorde 7,2
-prosent av befolkningen i 2023, uendret fra
-2022.30
-
-7,0
-
-2009
-
-7.5
-
-Midlertidig ansatte
-
-Figur 7.10 Midlertidig ansatte, i prosent av alle
-ansatte. Ikke-bruddjustert.1 2009–2023
-1
-
-Tidsserien er ikke bruddjustert for bruddet fra 2020 til 2021
-(markert med stiplet linje), og dermed er nivåene i 2021–
-2023 ikke sammenlignbare med tidligere år og endring fra
-2020 til 2021 er ikke sammenlignbar.
 Kilde: Statistisk sentralbyrå
 
-7.6
-
-Lønnstakernes tilknytning til
-utdanning og velferdsordninger
-
-Tabell 7.4 viser at det i 2022 var 70,9 prosent av
-lønnstakerne som ikke kombinerte arbeid med
-andre statuser, og at 13,6 prosent kombinerte
-arbeid med et utdanningsforløp. Sistnevnte andel
-har økt fra 11,9 prosent i 2016. I 2022 økte andelen
-lønnstakere som falt under kategorien «ellers».
-Det må ses i sammenheng med en endring i datagrunnlaget for mottakere av sykepenger, som
-medførte at flere ble etterregistrert i kategorien
-«ellers» for 2022-tallene sammenlignet med tidligere år31.
-
-28
-
-Denne endringen kan forklare noe av utviklingen fra 2020
-til 2021. Se Horgen, E. H. og Sundt, C. (2021): Beskrivelse
-av brudd i sentrale variabler i AKU. Statistisk sentralbyrå.
-29
-Dette er personer som ønsker å jobbe mer og kan starte
-med økt arbeidstid innen én måned (omtalt som ufrivillig
-deltid i AKU). Til forskjell fra undersysselsatte behøver de
-ikke å ha forsøkt å få lengre arbeidstid.
-
-30
-31
-
-Sundt, C. (2022): Hvilke indikatorer har vi for arbeidsmarkedet? Statistisk sentralbyrå.
-Endringen i datagrunnlaget er omtalt under «Sammenlignbarhet over tid og sted» for statistikken som ligger til
-grunn for tabell 7.4, se Tilknytning til arbeid, utdanning og
-velferdsordninger.
-
-[Side 101]
-
-99
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Kapittel 7
-
-Tabell 7.4 Lønnstakernes tilknytning til utdanning og velferdsordninger.1 2021–2022
-2021
-
-2022
-
-Personer
-
-Prosent
-
-Personer
-
-Prosent
-
-1 878 139
-
-71,8
-
-1 894 585
-
-70,9
-
-– under ordinær utdanning
-
-352 565
-
-13,5
-
-363 205
-
-13,6
-
-– som mottar arbeidsavklaringspenger
-
-26 593
-
-1,0
-
-28 127
-
-1,1
-
-– som mottar uføretrygd
-
-48 779
-
-1,9
-
-48 958
-
-1,8
-
-– som mottar AFP/alderspensjon
-
-109 911
-
-4,2
-
-112 932
-
-4,2
-
-– ellers
-
-199 005
-
-7,6
-
-223 567
-
-8,4
-
-2 614 992
-
-100
-
-2 671 374
-
-100
-
-Kun lønnstakere
-Lønnstakere
-
-Lønnstakere samlet
-1
-
-Statistikken over sysselsatte (lønnstakere) og kombinasjon av utdanning og mottak av ytelser omfatter bosatte i alderen over
-15 år. Tellingstidspunktet er 4. kvartal hvert år og statistikken foreligger til og med 2022.
-Kilde: Tabell 12837 i Statistikkbanken, Statistisk sentralbyrå.
-
-[Side 102]
-
-100
-
-NOU 2024: 6
-
-Kapittel 8
-
-Grunnlaget for inntektsoppgjørene 2024
-
-Kapittel 8
-
-Utviklingen i konkurranseevnen
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Relative timelønnskostnader mellom norsk
-industri og industrien hos handelspartnerne i
-EU og Storbritannia målt i felles valuta anslås å
-ha gått ned med 9,3 prosent i 2023. Timelønnskostnadsveksten i norsk industri anslås å ha
-vært lavere enn i industrien hos handelspartnerne, samtidig som kronen svekket seg
-markert. Anslaget på relative timelønnskostnader i fjor er basert på arbeidskraftkostnadsindekser per 3. kvartal. Anslaget er usikkert.
-Industriens kostnadsmessige konkurranseevne har bedret seg siden 2012, etter å ha
-svekket seg i årene før. Både svekkelsen frem
-til 2012 og bedringen i årene etterpå må ses i
-sammenheng med utviklingen i kronekursen.
-Gjennomsnittlige timelønnskostnader i norsk
-industri var i 2023 anslagsvis 18 prosent høyere
-enn et vektet gjennomsnitt av våre handelspartnere i EU og Storbritannia, 38 prosentpoeng lavere enn i 2012 og 15 prosentpoeng
-lavere enn i 2022. Av EU-landene var det bare
-Danmark og Belgia som hadde høyere
-timelønnskostnadsnivå i fjor. At timelønnskostnadene er høyere i norsk industri enn i
-industrien hos de fleste av våre handelspartnere, reflekterer norsk økonomis høye
-produktivitet og inntektsnivå.
-Ifølge foreløpige nasjonalregnskapstall falt produktiviteten i norsk industri, målt ved bruttoprodukt per timeverk, med 0,4 prosent i fjor,
-etter å ha falt med 3,0 prosent året før. Produktivitetsveksten i norsk industri i perioden 2013–
-2022 var i gjennomsnitt 0,6 prosent per år, 1,7
-prosentpoeng lavere enn et vektet gjennomsnitt av handelspartnerne.
-I perioden 2013–2022 økte produktiviteten i
-Fastlands-Norge med i gjennomsnitt 0,8 prosent per år, dvs. litt lavere enn et vektet snitt av
-våre handelspartnere. I fjor økte produktiviteten i fastlandsøkonomien med 0,2 prosent
-ifølge foreløpige nasjonalregnskapstall.
-Rekordhøye gasspriser bidro til kraftig vekst i
-inntektsnivået i norsk økonomi i 2022. Norges
-BNP per innbygger, fratrukket petroleums-
-
-renten, var dette året 51 prosent høyere enn
-OECD-gjennomsnittet.
-
-8.1
-
-Innledning
-
-Omfattende deltakelse i internasjonal handel med
-varer og tjenester har gjort det mulig for Norge å
-oppnå en høyere materiell levestandard enn hva
-som ville vært mulig dersom norsk økonomi
-hadde vært mer skjermet mot utenlandsk konkurranse. Fordelene vil imidlertid bli redusert hvis
-Norge ikke klarer å sørge for en effektiv ressursutnyttelse, herunder full sysselsetting, og en
-akseptabel inntektsfordeling. For å høste gevinstene ved internasjonalt varebytte, må man klare å
-omstille ressurser som blir ledige som følge av
-endringer i markedsforholdene. Land som deltar i
-det internasjonale vare- og tjenestebyttet må også
-over tid ha en rimelig balanse i utenriksøkonomien. Et lands konkurranseevne uttrykker evnen
-til å opprettholde en rimelig balanse i utenriksøkonomien over tid, samtidig som en har full og
-effektiv ressursutnyttelse og en akseptabel inntektsfordeling. Et land har ikke nødvendigvis god
-konkurranseevne selv om det har balanse i utenriksøkonomien, dersom for eksempel store deler
-av landets arbeidsstyrke er arbeidsløse. Men full
-sysselsetting og lav arbeidsledighet sammen med
-store underskudd i utenriksøkonomien, tilsier
-også at et land har svakere konkurranseevne enn
-hva som kan være bærekraftig over tid.
-Det er viktig å skille mellom konkurranseevnen for enkeltnæringer og for Norge som helhet. Konkurranseevnen for en næring beror på
-næringens lønnsomhet og dens evne til å avlønne
-innsatsfaktorene. En lønnsom næring må både
-kunne hevde seg i konkurranse med utenlandske
-bedrifter på produktmarkedene, og med andre
-norske næringer i faktormarkedene, herunder
-arbeidsmarkedet. En økonomi i vekst og med en
-høy omstillingsgrad vil være kjennetegnet av ulik
-utvikling i konkurranseevnen for de enkelte
-næringene. I konkurransen om knappe faktorer
-
-[Side 103]
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-101
-
-Kapittel 8
-
-Boks 8.1 Norges handelspartnere
-tabell 5.2. Dette er fordi vektene i kapittel 5 er
-For å vurdere utviklingen i konkurranseevnen til
-beregnet utelukkende basert på destinasjonen
-norsk næringsliv, sammenlignes gjerne ulike
-for Norges tradisjonelle vareeksport.
-indikatorer i Norge med tilsvarende størrelser
-hos våre handelspartnere. Ved beregning av
-1 SITC = Standard International Trade Classification.
-handelspartneraggregat, legger utvalget til grunn
-beregninger av OECD for Norges handelsTabell 8.1 Sammensetning av
-partnere. Beregningsutvalget har i denne rapporhandelspartneraggregatet. Prosent
-ten benyttet konkurransevekter fra OECD for
-Norges handelspartnere for perioden 1997–2020.
-Nr. Land
-Vekter for 2020–2023
-Konkurransevektene til OECD gjenspeiler
-handelsstrømmene med de enkelte landene i
-1
-Sverige
-22,6
-hvert av årene i perioden, og er derfor forskjel2
-Tyskland
-13,1
-lige for hvert år i perioden 1997–2020. Utvalget
-har lagt de 25 landene med størst vekter i 2020 til
-3
-Danmark
-8,9
-grunn som landsammensetning for handels4
-Nederland
-8,1
-partneraggregatet. Denne landsammensetningen
-er benyttet for alle år, selv om det i perioder har
-5
-Storbritannia
-7,1
-vært variasjoner mht. hvilke 25 land som har hatt
-6
-Kina
-4,9
-størst vekter. Basert på landsammensetningen og
-OECDs konkurransevekter for de ulike årene, er
-7
-Polen
-3,8
-det beregnet et vektet handelspartneraggregat
-8
-USA
-3,8
-for hvert år i perioden 1997–2020. Konkurransevektene i 2020 er videreført for årene 2021–2023.
-9
-Frankrike
-2,7
-Tabell 8.1 viser landsammensetningen og
-10 Canada
-2,7
-vektene for 2020–2023 som er benyttet i denne
-rapporten. Norges største handelspartnere er
-11 Belgia
-2,6
-Sverige, Tyskland, Danmark, Nederland og
-12 Italia
-2,5
-Storbritannia.
-13 Finland
-2,4
-Nærmere om grunnlaget for beregningen av
-konkurransevektene
-OECD har basert sine beregninger av landvektene på omfanget av import og eksport
-mellom Norge og andre land av alle varer unntatt gruppe 3 i det internasjonale klassifiseringssystemet for handelsstatistikk (SITC).1 Denne
-gruppen består av råolje, naturgass, raffinerte
-oljeprodukter og strøm.
-OECD har gjort en del forenklinger i sine
-beregninger. For det første har OECD ikke inkludert handel med tjenester. I 2023 utgjorde tjenester 23 prosent av Norges eksport, og 37 prosent
-av Norges import. Videre har OECD ikke brutt
-handelsstrømmene ned til hver enkelt varetype
-for å kunne gi et grunnlag for å vurdere i hvilken
-grad det faktisk er direkte konkurranse mellom
-norske og utenlandske bedrifter
-Konkurransevektene her avviker noe fra
-eksportvektene som omtales i kapittel 5, se
-
-14
-
-Spania
-
-2,1
-
-15
-
-Sør-Korea
-
-2,0
-
-16
-
-Russland
-
-1,5
-
-17
-
-Japan
-
-1,4
-
-18
-
-Litauen
-
-1,3
-
-19
-
-Brasil
-
-1,3
-
-20
-
-Tsjekkia
-
-1,1
-
-21
-
-Tyrkia
-
-1,0
-
-22
-
-Sveits
-
-1,0
-
-23
-
-Østerrike
-
-0,8
-
-24
-
-Taiwan
-
-0,7
-
-25
-
-Romania
-
-0,7
-
-SUM
-
-100
-
-Kilder: OECD og Beregningsutvalget
-
-[Side 104]
-
-102
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-150
-140
-130
-120
-110
-100
-
-Nasjonal valuta
-
-2022
-
-2020
-
-2018
-
-2016
-
-2014
-
-2012
-
-2010
-
-90
-2008
-
-Lønnskostnadene er den enkeltfaktoren som
-betyr mest for kostnadene i næringslivet. Lønnskostnadene kan blant annet måles ved timelønnskostnader og lønnskostnader per produsert
-enhet. Svakere krone kan bedre eksportbedriftenes inntekter og bedrer isolert sett bedriftenes
-konkurransesituasjon mot utlandet. Foruten
-lønnskostnadene vil andre kostnadskomponenter
-som energikostnader, kapitalkostnader, transportkostnader og andre kostnader til innenlandsk
-produsert produktinnsats ha betydning for norske
-bedrifters muligheter til å kunne hevde seg i den
-internasjonale konkurransen. Videre vil også
-produktivitetsutviklingen og offentlige avgifter og
-subsidier være av betydning for konkurranseevnen.
-Utviklingen i industriens internasjonale konkurranseevne avhenger også av produktivitets- og
-kostnadsutviklingen i øvrige deler av norsk
-næringsliv. Disse næringene leverer produktinnsats, energi og kapitalvarer til industrien. Jo billigere disse leveransene er, desto bedre blir industriens internasjonale konkurranseevne. Videre
-konkurrerer industrien med øvrige næringer om
-innsatsfaktorer som blant annet arbeidskraft.
-Lavere lønninger i andre næringer kan bidra til en
-bedring i industriens konkurranseevne ved at det
-blir lettere og billigere for industrien å skaffe
-arbeidskraft og kapitalvarer. Kostnadsutviklingen i
-
-2006
-
-Indikatorer for
-kostnadsutviklingen
-
-8.2.1 Vekst i timelønnskostnader
-Etter at den kostnadsmessige konkurranseevnen
-målt ved relative timelønnskostnader i industrien i
-felles valuta svekket seg i årene fram til og med
-2012, har en markert svekkelse av kronen bidratt
-til at konkurranseevnen har bedret seg igjen til
-nær 2000-nivået. Også litt lavere vekst i timelønnskostnadene i Norge etter 2012 har bidratt. Utviklingen i valutakursen har variert mye fra år til år,
-og bidratt til at det har vært langt større svingninger i den relative timelønnskostnadsveksten
-målt i felles valuta enn i nasjonal valuta.
-Figur 8.1 viser utviklingen i lønnskostnader
-per time siden år 2000 for ansatte i industrien i
-
-2004
-
-8.2
-
-industrien kan derfor ikke ses uavhengig av kostnadsutviklingen i norsk økonomi for øvrig. Konkurranseevneforbedringen fra svakere krone,
-dempes av dyrere produktinnsats på importerte
-varer og tjenester. Dette gir også insentiver til å
-erstatte importerte produkter med norskproduserte varer og tjenester som så vil dempe kostnadene igjen.
-Forutsigbare og stabile rammebetingelser kan
-også bidra til å styrke næringslivets konkurranseposisjon.
-
-2002
-
-må noen næringer trappe ned sin virksomhet,
-mens andre kan ekspandere i takt med økt lønnsomhet. Dersom en næring mottar subsidier i
-tilknytning til sin virksomhet, kan dette bedre
-næringens konkurranseevne, men det fører
-normalt til en dårligere utnyttelse av ressursene
-samlet sett, og dermed ikke bedre konkurranseevne i samfunnsøkonomisk forstand.
-I dette kapitlet ser vi på noen utvalgte indikatorer for utviklingen i industriens konkurranseevne.
-Det er en næring som i stor grad konkurrerer
-internasjonalt og som er viktig for balansen i utenriksøkonomien. I avsnitt 8.2 presenteres tall og
-anslag for utviklingen i lønnskostnader. I avsnittet
-ser vi også på forskjell i lønnskostnadsnivåene i
-industrien i Norge og andre land. I avsnitt 8.3 gir
-vi en beskrivelse av utviklingen i produktiviteten.
-For alle indikatorene som presenteres i kapitlet
-sammenligner vi Norge med et aggregat av våre
-viktigste handelspartnere, jf. boks 8.1. Se også
-boks 8.2 for beskrivelse av endringer i kildebruk.
-
-2000
-
-Kapittel 8
-
-Felles valuta
-
-Figur 8.1 Relative timelønnskostnader i industrien.
-Norge og handelspartnerne i EU og Storbritannia.1
-2000–2023. Indeks 2000=100
-1
-
-Handelspartnerne i figuren utgjør 79,8 prosent av handelspartneraggregatet i årene 2020–2023. For årene før
-2020 varierer handelspartnernes andel av aggregagtet
-mellom 75 og 84 prosent. Variasjonene skyldes at landenes
-vekter varierer fra år til år, jf. beskrivelse i boks 8.1.
-Kilder: Eurostat, Office for National Statistics og Norges Bank
-
-[Side 105]
-
-103
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Norge sammenlignet med industrien hos våre
-handelspartnere i EU og Storbritannia målt i
-nasjonal og i felles valuta.
-Basert på tall fra Eurostat anslås timelønnskostnadsveksten i norsk industri i fjor å ha vært
-4,2 prosent, 0,6 prosentpoeng lavere enn et vektet
-aggregat av våre handelspartnere i EU og Storbritannia, jf. tabell 8.2 under. En markert svekkelse
-av kronen, bidro til at den kostnadsmessige
-konkurranseevnen anslås å ha bedret seg med
-9,3 prosent i fjor.
-Sett over de siste ti årene samlet har gjennomsnittlig timelønnskostnadsvekst i norsk industri
-vært 2,7 prosent per år, 0,3 prosentpoeng lavere
-enn hos våre handelspartnere. Kronen, målt ved
-industriens effektive valutakurs, har i gjennomsnitt svekket seg med 3,3 prosent per år.
-Dersom vi går ut over industrien og ser på
-næringsvirksomhet i bredere forstand har den
-kostnadsmessige konkurranseevnen bedret seg
-
-Kapittel 8
-
-med i gjennomsnitt 2,8 prosent per år over de
-siste ti årene, jf. tabell 8.3. Som det framgår av
-tabellen har arbeidskraftkostnadene i Norge økt
-mer enn hos handelspartnerne i EU, men virkningen av kronesvekkelsen i perioden har vært
-større.
-
-8.2.2
-
-Vekst i lønnskostnader per produsert
-enhet
-
-Høyere lønnsvekst i Norge enn hos handelspartnerne i EU og Storbritannia bidro til at lønnskostnadene per produsert enhet i norsk industri
-økte med 55,4 prosent fra 2000 til 2022 relativt til
-industrien hos handelspartnerne, målt i nasjonal
-valuta. Utviklingen i kronekursen har bidratt til at
-det har vært større svingninger i det relative forholdet for lønnskostnader per produsert enhet
-målt i felles valuta enn i nasjonal valuta, jf. figur
-8.2. Fra 2000 til 2022 økte lønnskostnadene per
-
-Tabell 8.2 Arbeidskraftkostnader per time i industrien i Norge og handelspartnerne i EU og Storbritannia1.
-Prosentvis endring fra året før
-Gj.snitt
-perioden
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-Norge
-
-2,7
-
-3,8
-
-1,1
-
-2,2
-
-1,4
-
-2,4
-
-3,1
-
-2,4
-
-3,1
-
-3,3
-
-4,2
-
-Handelspartnerne3
-
-3,0
-
-2,3
-
-1,7
-
-2,6
-
-2,3
-
-3,2
-
-3,3
-
-1,7
-
-3,1
-
-4,7
-
-4,9
-
-Relativ timelønnskostnadsvekst i nasjonal valuta
-
--0,3
-
-1,5
-
--0,6
-
--0,4
-
--0,8
-
--0,8
-
--0,2
-
-0,6
-
-0,0
-
--1,4
-
--0,6
-
-Relativ timelønnskostnadsvekst i felles valuta
-
--3,4
-
--4,4 -10,2
-
--1,8
-
--0,3
-
--1,3
-
--3,1
-
--6,9
-
-5,1
-
--1,0
-
--9,3
-
-3,3
-
-6,1
-
-1,4
-
--0,6
-
-0,5
-
-3,0
-
-8,1
-
--4,9
-
--0,3
-
-9,5
-
-Vekst i lønnskostnader
-per time2
-
-Memo:
-Valutakurs4
-1
-
-10,7
-
-Tallene for handelspartnerne er beregnet med konkurransevektene, jf. boks 8.1.
-Tallene for og Norge og EU-landene er arbeidskraftkostnadsindekser fra Eurostat. Eurostat har publisert årstall tom. 2022.
-Anslaget for årsveksten i 2023 er beregnet ved å ta veksten fra 1–3. kvartal 2022 til 1–3. kvartal 2023. For Nederland foreligger
-det bare tall tom. 2. kvartal 2022. Anslaget for 2023 i Nederland er beregnet ved å ta veksten fra 1–2. kvartal 2022 til 1–2. kvartal
-2023. Tall for handelspartnerne er beregnet som veide geometriske gjennomsnitt. Se vedleggstabell 4.3 for timelønnskostnadsvekst i de ulike landene.
-3
-Tallene for Storbritannia er fra Office for National Statistics som publiserer tall for «Annual average labour compensation per
-hour worked». Det er bare publisert tall for Storbritannia per 2. kvartal 2023, og årsveksten i fjor er dermed anslått ved veksten
-fra 1–2. kvartal 2022 til 1–2. kvartal 2023.
-4
-Industriens effektive valutakurs. Et positivt endringstall innebærer en svekkelse av norske kroner målt ved industriens effektive
-valutakurs. Utviklingen i industriens effektive valutakurs kan avvike betydelig fra kronens verdi mot enkeltvalutaer. Dette
-innebærer bl.a. at et veid gjennomsnitt ikke gir et fullstendig uttrykk for den endringen i konkurransesituasjonen de enkelte
-bedriftene eller bransjene står overfor.
-Kilder: Eurostat, Office for National Statistics og Norges Bank
-2
-
-[Side 106]
-
-104
-
-Kapittel 8
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Boks 8.2 Eurostats arbeidskraftkostnadsundersøkelse
-Endring i kildebruk
-Det har bakover i tid vært brukt ulike kilder i
-analysene i dette kapitlet. I beregningen av forskjell i timelønnskostnadsnivå mellom norsk
-industri og industrien hos våre handelspartnere (avsnitt 8.2.4) og i beregningen av vekst i
-timelønnskostnader (avsnitt 8.2.1) har vi de
-siste årene benyttet Eurostat som kilde for
-handelspartnerne, mens vi for Norge har
-benyttet nasjonalregnskapet. Nivåtallene til
-Eurostat
-bygger
-på
-EU/EØS-landenes
-arbeidskraftkostnadsundersøkelse som gjennomføres hvert fjerde år, og siste gang for året
-2020. Undersøkelsen er lovregulert1. I årene
-mellom leverer landene kvartalsvise arbeidskraftkostnader på indeksform etter samme
-definisjoner som i den 4-årige undersøkelsen.
-Fra og med 2024 skifter vi kilde for de norske
-tallene fra timelønnskostnader i nasjonalregnskapet til arbeidskraftskostnader (per timeverk) som SSB har levert til Eurostat i henhold
-til definisjonene i arbeidskraftkostandsundersøkelsen. Dette gjøres for å øke sammenlignbarheten mellom land. Lønnskostnader i
-nasjonalregnskapet har et litt annet innhold
-enn arbeidskraftkostnadene siden nasjonalregnskapet bare har med punkt 1 samt arbeidsgiveravgift (punkt 4), se definisjonene under.
-Fra og med 2024 er det inkludert tall også for
-Storbritannia der kilden er Office for National
-Statistics. Tall for Storbritannia var inkludert i
-Eurostats arbeidskraftundersøkelse t.o.m. 2016.
-Etter inkludering av Storbritannia, dekker tallene
-i tabeller og figurer totalt 79,8 prosent av
-handelspartneraggregatet.
-I sammenligningen av lønnskostnader og
-lønnskostnadskomponenter for Norge og
-andre land (avsnitt 8.2.5) var kildematerialet
-fram til NOU 2022: 4 basert på Conference
-Board, mens fordelingen for Norge var estimert på bakgrunn av arbeidskraftkostnadsundersøkelsen i Statistisk sentralbyrå. Tallmaterialet til Conference Board oppdateres
-ikke lenger, og Utvalget har derfor valgt å
-bruke dataene fra EU-landenes arbeidskraftkostnadsundersøkelse også her.
-
-Innhold og definisjoner i Eurostats arbeidskraftkostandsundersøkelse
-Den europeiske arbeidskraftkostnadsundersøkelsen er basert på en harmonisert definisjon
-av arbeidskraftkostnader, og tallene finnes både
-med og uten lærlinger. Det framgår av tallene at
-rapporteringen av data uten lærlinger varierer
-mellom land. For Norges del lages arbeidskraftkostnader årlig med utgangspunkt i data fra
-a-ordningen.
-Eurostats definisjon av arbeidskraftkostnader:
-1. Lønnskostnader som består av
-a. Lønn (med og uten lærlinger) og som
-dekker
-i. direkte lønn for betalt arbeidstid, samt
-ii. bonuser, skiftarbeid o.l. også omfatter
-betalinger til arbeidstakeres spareordninger, betaling for dager som ikke er
-arbeidet (helligdager og velferdsdager), naturalytelser, uttak av varer
-fra virksomheten, fri bolig, firmabil,
-aksjeopsjoner og aksjekjøpsordninger,
-samt andre ordninger som fri kantine,
-fri transport og alle andre ytelser som
-blir betalt av arbeidsgiver på vegne av
-arbeidstaker.
-b. Sosiale ytelser som består av trygde- og
-pensjonsordninger der lovfestede og
-kollektive ordningene dekker for eksempel sykepenger, arbeidsledighetsstønader osv., ufinansierte sosiale ytelser som
-dekkes direkte av arbeidsgiver, betalt
-sykefravær, sluttpakker mv.
-2. Kostnader til opplæring, kurs o.l.
-3. Andre utgifter betalt av arbeidsgiver (rekrutteringskostnader, arbeidsklær som dekkes
-av arbeidsgiver, flyttegodtgjørelse mv.)
-4. Avgifter/skatter som er basert på lønnsutbetalinger (norsk arbeidsgiveravgift føres her)
-5. Subsidier og refusjoner som gis for å dekke
-deler av lønnen (dekker ikke refusjoner til
-arbeidsgiver fra trygde- eller forsikringsordninger).
-1
-
-Rådsforordning (EF) nr. 0530/1999 av 9. mars 1999. Kommisjonsforordning (EF) nr. 1737/2005 av 21. oktober 2005
-Kommisjonsforordning (EF) nr. 698/2006 av 5. mai 2006
-
-[Side 107]
-
-105
-
-NOU 2024: 6
-Grunnlaget for inntektsoppgjørene 2024
-
-Kapittel 8
-
-Tabell 8.3 Arbeidskraftkostnader per time i næringsvirksomhet. Prosentvis endring fra året før
-Gj.snitt
-perioden
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-Fastlands-Norge1
-
-3,4
-
-2,6
-
-2,4
-
-1,1
-
-2,4
-
-3,1
-
-3,8
-
-2,9
-
-4,3
-
-4,1
-
-7,1
-
-Handelspartnerne i EU2
-
-3,0
-
-2,2
-
-2,1
-
-2,4
-
-2,8
-
-2,9
-
-2,8
-
-1,9
-
-2,8
-
-5,0
-
-5,2
-
-Relativ timelønnskostnadsvekst i nasjonal valuta
-
-0,4
-
-0,4
-
-0,3
-
--1,3
-
--0,4
-
-0,3
-
-0,9
-
-1,0
-
-1,5
-
--0,9
-
-1,8
-
-Relativ timelønnskostnadsvekst i felles valuta
-
--2,8
-
--5,3
-
--9,4
-
--2,7
-
-0,2
-
--0,2
-
--2,0
-
--6,5
-
-6,6
-
--0,6
-
--7,0
-
-Valutakurs3
-
-3,3
-
-6,1
-
-10,7
-
-1,4
-
--0,6
-
-0,5
-
-3,0
-
-8,1
-
--4,9
-
--0,3
-
-9,5
-
-Norge4
-
-2,9
-
-3,7
-
-2,2
-
-1,7
-
-2,0
-
-2,7
-
-3,1
-
-2,5
-
-3,3
-
-3,5
-
-4,4
-
-Vekst i lønnskostnader
-pr. time
-
-Memo:
-
-1
-
-Tall for Fastlands-Norge for markedsrettet virksomhet. Kilden er nasjonalregnskapet til SSB.
-Tall fra Eurostat for «Business economy». Handelspartnerne er beregnet med konkurransevektene, jf. boks 8.1
-3
-Se fotnote til tabell 8.2
-4
-Tall fra Eurostat for «Business economy».
-Kilder: Eurostat, Statistisk sentralbyrå og Norges Bank
-2
-
-160
-150
-140
-130
-120
-110
-100
-
-Nasjonal valuta
-
-2022
-
-2020
-
-2018
-
-2016
-
-2014
-
-2012
-
-2010
-
-2008
-
-2006
-
-2004
-
-2002
-
-2000
-
-90
-
-Felles valuta
-
-Figur 8.2 Lønnskostnader per produsert enhet
-i industrien i Norge relativt til handelspartnerne
-i EU og Storbritannia1. 2000–2022.
-Indeks 2000=100
-1
-
-Handelspartnerne i figuren utgjør 79,1 prosent av handelspartneraggregatet i årene 2020–2021. For 2022 har OECD
-enda ikke publisert tall for Belgia, og andelen dette året er
-derfor 76,5 prosent. For årene 2000–2019 varierer andelen
-mellom 75 og 84 prosent, som følge av at vektene varierer
-fra år til år.
-Kilde: OECD og Norges Bank
-
-produsert enhet i norsk industri med 40,0 prosent
-mer enn i industrien hos handelspartnerne, målt i
-felles valuta.
-Dersom en ser på den siste tiårsperioden vi
-har tall for (dvs. 2013–2022) har lønnskostnadene
-per produsert enhet i norsk industri relativt til
-industrien hos handelspartnerne falt med i gjennomsnitt 0,7 prosent per år, målt i felles valuta.
-Veksten i lønnskostnadene per produsert enhet i
-norsk industri var i gjennomsnitt 1,9 prosent
-høyere per år enn hos handelspartnerne, men
-svekkelsen av kronen mer enn motvirket det.
-Siden utvalgets rapport i fjor (NOU 2023: 12)
-er forskjellen mellom Norge og handelspartnerne
-revidert opp. Det må ses i sammenheng med at
-OECD har revidert tallet for Norge i 2020 betydelig opp, samtidig som tallene for Sverige og Tyskland for 2021 er revidert mye ned.
-
-8.2.3
-
-Vekst i lønnskostnader per sysselsatt
-i hele økonomien1
-Ifølge tall fra OECDs siste utgave av Economic
-Outlook (nr. 2 2023), som ble publisert i novem1
-
-Kildegrunnlaget er «Compensation per employee» som
-OECD publiserer i «Economic Outlook» to ganger per år.
-Tallene innbefatter all lønn utbetalt til lønnstakere, samt
-alle andre arbeidskostnader betalt av arbeidsgivere (f.eks.
-arbeidsledighetsforsikring og trygd).
+KPI-JAE etter leveringssektor. Andre tjenester og husleie inkl. fritidsbolig. Prosentvis vekst fra samme måned året før
+
+Kilde: Statistisk sentralbyrå
+
+### Prisutviklingen for ulike konsumgrupper
+
+I tabell 3.3 er konsumprisindeksen inndelt etter konsumgrupper, og inkluderer energivarer og avgifter.
+
+Prisene på hovedgruppen *matvarer og alkoholfrie drikkevarer* økte med 9,8 prosent fra 2022 til 2023, mot en økning på 6,5 prosent fra 2021 til 2022. Prisøkningen på denne varegruppen bidro med om lag 1,2 prosentenheter av veksten i KPI på årsbasis. Prisene på alle matvaregruppene økte markert i 2023, en økning som kom på toppen av svært høy prisvekst også i 2022. Høyest årsvekst så vi i prisene på frukt og grønnsaker, som steg med henholdsvis 13,6 og 13,3 prosent. Betydelige kostnadsøkninger i alle ledd av verdikjeden, fra strøm, emballasje og drivstoff til matråvarer og kunstgjødsel bidro til en markert prisøkning gjennom 2022 som fortsatte inn i 2023. Kronesvekkelsen har i tillegg bidratt til å øke prisene på importerte matvarer, noe som blant annet gjenspeiles i at prisene på importerte jordbruksvarer økte med hele 12,9 prosent fra 2022 til 2023. Prisene på alkoholfrie drikkevarer økte med 8,3 prosent i 2023, mot en økning på 4,8 prosent i 2022. Fra januar til februar 2024 falt matvareprisene for første gang i dette månedsskiftet siden 2001. Det bidro til at tolvmånedersveksten i prisene på matvarer og alkoholfrie drikkevarer falt fra 8,7 prosent i januar til 6,3 prosent i februar 2024.
+
+Prisene på *alkohol og tobakk* økte med 5,0 prosent fra 2022 til 2023, etter en økning på 3,7 prosent fra 2021 til 2022. Dette må ses i sammenheng med høye råvare- og energipriser, samt svak kronekurs. Prisene på øl økte med 4,8 prosent, vin med 4,9 prosent og tobakk med 5,7 prosent. Prisene på brennevin økte med 3,9 prosent.
+
+Prisene på *klær og skotøy* økte med 3,8 prosent fra 2022 til 2023, som er en uvanlig høy prisvekst for denne konsumgruppen. Klær og skotøy er typiske importvarer, og prisutviklingen må både ses i sammenheng med prisnivået i land som står for mye av produksjonen, utviklingen i kronekursen og norsk kostnadsutvikling. Mens prisene på klær økte med 3,5 prosent, økte prisene på skotøy med hele 5,8 prosent. I februar 2024 økte tolvmånedersveksten i prisene på klær og skotøy til 6,9 prosent, som må ses i sammenheng med den svake kronekursen. Prisene på klær og skotøy har samlet sett falt med om lag 45 prosent siden toppen i 1996.
+
+Prisene på konsumgruppen *bolig, lys og brensel* steg med 1,9 prosent i 2023, etter en oppgang på 6,7 prosent i 2022. Nedgangen i prisveksten fra 2022 til 2023 skyldes at elektrisitetsprisene har falt betydelig. Husleiene trekker i motsatt retning.
+
+Prisene på *møbler og husholdningsartikler* steg med 8,5 prosent i 2023, etter en oppgang på 6,5 prosent i 2022. Det var spesielt prisveksten på boligtekstiler som bidro til oppgangen med en prisvekst på hele 16,7 prosent fra 2022 til 2023.
+
+For konsumgruppen *transport* økte prisene med 7,1 prosent i 2023, etter en vekst på 8,9 prosent i 2022. Nedgangen i veksten i transportprisene skyldes at drivstoffprisene falt med 2,9 prosent fra 2022 til 2023. Samtidig økte prisveksten på både kjøretøy og transporttjenester. Prisene på flyreiser økte med 38,2 prosent i 2023, etter en økning på 20,9 prosent i 2022. På grunn av bortfall av målte priser ble prisene på flyreiser for deler av 2021 estimert.
+
+Konsumprisindeksen – varer og tjenester etter konsumgruppe
+
+09J2xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 35%" />
+<col style="width: 8%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 7%" />
+<col style="width: 9%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2" style="text-align: right;">Vekt<sup>1</sup></td>
+<td colspan="6" style="text-align: center;">Endring i prosent fra samme periode året før</td>
+</tr>
+<tr>
+<td style="text-align: right;">2019</td>
+<td style="text-align: right;">2020</td>
+<td style="text-align: right;">2021</td>
+<td style="text-align: right;">2022</td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">feb. 2024</td>
+</tr>
+<tr>
+<td colspan="2">Totalt</td>
+<td style="text-align: right;">1000</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">3,5</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">5,5</td>
+<td style="text-align: right;">4,5</td>
+</tr>
+<tr>
+<td colspan="2">01 Matvarer og alkoholfrie drikkevarer</td>
+<td style="text-align: right;">121,4</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">-2,0</td>
+<td style="text-align: right;">6,5</td>
+<td style="text-align: right;">9,8</td>
+<td style="text-align: right;">6,3</td>
+</tr>
+<tr>
+<td colspan="2">02 Alkoholdrikker og tobakk</td>
+<td style="text-align: right;">39,0</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">2,7</td>
+<td style="text-align: right;">-1,8</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">5,0</td>
+<td style="text-align: right;">5,6</td>
+</tr>
+<tr>
+<td colspan="2">03 Klær og skotøy</td>
+<td style="text-align: right;">48,0</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">-1,7</td>
+<td style="text-align: right;">-1,3</td>
+<td style="text-align: right;">0,6</td>
+<td style="text-align: right;">3,8</td>
+<td style="text-align: right;">6,9</td>
+</tr>
+<tr>
+<td colspan="2">04 Bolig, lys og brensel</td>
+<td style="text-align: right;">239,4</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">-3,5</td>
+<td style="text-align: right;">10,0</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">3,3</td>
+</tr>
+<tr>
+<td><em>Herav:</em></td>
+<td><em>Betalt husleie</em></td>
+<td style="text-align: right;">44,2</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">2,2</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">4,3</td>
+</tr>
+<tr>
+<td></td>
+<td><em>Beregnet husleie</em></td>
+<td style="text-align: right;">135,2</td>
+<td style="text-align: right;">1,7</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">3,9</td>
+<td style="text-align: right;">4,4</td>
+</tr>
+<tr>
+<td></td>
+<td><em>Elektrisitet, fyringsoljer oa. brensel</em></td>
+<td style="text-align: right;">39,5</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">-27,2</td>
+<td style="text-align: right;">65,2</td>
+<td style="text-align: right;">20,6</td>
+<td style="text-align: right;">-6,2</td>
+<td style="text-align: right;">-2,0</td>
+</tr>
+<tr>
+<td></td>
+<td><em>Herav: Elektrisitet inkludert nettleie</em></td>
+<td style="text-align: right;">34,9</td>
+<td style="text-align: right;">0,7</td>
+<td style="text-align: right;">-29,4</td>
+<td style="text-align: right;">70,8</td>
+<td style="text-align: right;">19,0</td>
+<td style="text-align: right;">-7,1</td>
+<td style="text-align: right;">-3,0</td>
+</tr>
+<tr>
+<td colspan="2">05 Møbler og husholdningsartikler</td>
+<td style="text-align: right;">66,0</td>
+<td style="text-align: right;">2,4</td>
+<td style="text-align: right;">6,8</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">6,5</td>
+<td style="text-align: right;">8,5</td>
+<td style="text-align: right;">5,1</td>
+</tr>
+<tr>
+<td colspan="2">06 Helsepleie</td>
+<td style="text-align: right;">34,1</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">4,1</td>
+</tr>
+<tr>
+<td colspan="2">07 Transport</td>
+<td style="text-align: right;">147,5</td>
+<td style="text-align: right;">3,0</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">8,9</td>
+<td style="text-align: right;">7,1</td>
+<td style="text-align: right;">2,5</td>
+</tr>
+<tr>
+<td><em>Herav:</em></td>
+<td><em>Kjøp av kjøretøy</em></td>
+<td style="text-align: right;">62,2</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">1,8</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">7,4</td>
+<td style="text-align: right;">0,3</td>
+</tr>
+<tr>
+<td></td>
+<td><em>Drift av personlige transportmidler</em></td>
+<td style="text-align: right;">53,9</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">6,2</td>
+<td style="text-align: right;">15,2</td>
+<td style="text-align: right;">4,2</td>
+<td style="text-align: right;">4,7</td>
+</tr>
+<tr>
+<td></td>
+<td><em>Transporttjenester</em></td>
+<td style="text-align: right;">31,5</td>
+<td style="text-align: right;">6,3</td>
+<td style="text-align: right;">2,3</td>
+<td style="text-align: right;">-4,5</td>
+<td style="text-align: right;">6,4</td>
+<td style="text-align: right;">13,0</td>
+<td style="text-align: right;">3,2</td>
+</tr>
+<tr>
+<td colspan="2">08 Post- og teletjenester</td>
+<td style="text-align: right;">20,1</td>
+<td style="text-align: right;">3,2</td>
+<td style="text-align: right;">4,8</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">1,0</td>
+<td style="text-align: right;">5,6</td>
+<td style="text-align: right;">1,4</td>
+</tr>
+<tr>
+<td colspan="2">09 Kultur og fritid</td>
+<td style="text-align: right;">124,2</td>
+<td style="text-align: right;">2,9</td>
+<td style="text-align: right;">3,4</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">8,4</td>
+<td style="text-align: right;">8,5</td>
+</tr>
+<tr>
+<td colspan="2">10 Utdanning</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">4,3</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">1,9</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">3,1</td>
+<td style="text-align: right;">5,4</td>
+</tr>
+<tr>
+<td colspan="2">11 Hotell- og restauranttjenester</td>
+<td style="text-align: right;">73,2</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,1</td>
+<td style="text-align: right;">3,3</td>
+<td style="text-align: right;">7,4</td>
+<td style="text-align: right;">6,7</td>
+<td style="text-align: right;">3,7</td>
+</tr>
+<tr>
+<td colspan="2">12 Andre varer og tjenester</td>
+<td style="text-align: right;">82,5</td>
+<td style="text-align: right;">1,4</td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;">2,6</td>
+<td style="text-align: right;">2,5</td>
+<td style="text-align: right;">2,0</td>
+<td style="text-align: right;">3,1</td>
+</tr>
+</tbody>
+</table>
+
+¹ Vektene gjelder fra januar 2024 til desember 2024.
+
+Kilde: Statistisk sentralbyrå
+
+Prisene på *post- og teletjenester* steg med 5,6 prosent i 2023, etter en oppgang på 1,0 prosent i 2022. Teletjenester utgjør nær 80 prosent av denne konsumgruppen, og posttjenester knapt 3 prosent. Mens prisen på posttjenester økte med 2,4 prosent, økte prisen på teletjenester med 5,5 prosent. Prisene på teleutstyr økte med 6,4 prosent fra 2022 til 2023, etter et fall på 1,7 prosent i 2022. Teleutstyr er i stor grad importert, og prisveksten bør derfor ses i sammenheng med bevegelser i kronekursen. Som for andre importvarer vil prisutviklingen også avhenge av blant annet norsk kostnadsutvikling og prisnivået i land som står for mye av produksjonen.
+
+Prisene på konsumgruppen *kultur og fritid* økte med 8,4 prosent i 2023, etter en vekst på 4,1 prosent året før. Dette må blant annet ses i sammenheng med svak kronekurs. Prisene på kulturtjenester har økt med hele 10 prosent og prisene på pakketurer med 20,1 prosent, opp fra henholdsvis 4,1 og 10,6 prosent i 2022. Også IT-utstyr har økt markert i pris med en vekst på 9,9 prosent fra 2022 til 2023.
+
+Prisene på *hotell- og restauranttjenester* økte med 6,7 prosent i 2023, etter en vekst på 7,4 prosent i 2022. Nedgangen i prisvekst må ses i sammenheng med at prisveksten på overnattingstjenester var vesentlig lavere i 2023 enn i 2022. I 2022 økte disse prisene med 16,0 prosent, mens prisene økte med 2,4 prosent i 2023. Prisene på restauranttjenester økte derimot med 7,4 prosent i 2023, opp fra en vekst på 6,1 prosent i 2022.
+
+## Anslag på konsumprisutviklingen i 2024
+
+For å anslå prisutviklingen framover har Beregningsutvalget som vanlig gjennomført beregninger med SSBs makroøkonomiske modell KVARTS.[^13]
+
+### Forutsetninger for modellberegningene
+
+Det er flere økonomiske størrelser som bestemmes utenfor KVARTS-modellen og som legges til grunn for beregningene. Historien har vist at det er fem størrelser i modellen som har vært særdeles viktige for inflasjonsutviklingen. Dette gjelder kronekursen, konsumpriser i euroområdet, prisen på bearbeidede importvarer, råoljeprisen og elektrisitetsprisen. I det følgende redegjør vi for TBUs anslag for disse størrelsene, se tabell 3.4.
+
+De fem størrelsene i tabell 3.4 påvirker prisene på importerte varer og tjenester på ulike måter og utviklingen i *importpriser* er viktig for den samlede prisutviklingen i Norge. Konsumprisindeksen definerer rundt 30 prosent av produktene som importerte konsumvarer. Prisene på disse varene inneholder imidlertid også betydelige hjemmekostnadselementer i form av varehandelens bruttoavanser og avgifter, samt transportmarginer. Samtidig er det direkte og indirekte import knyttet til produktinnsatsen i produksjonen av varer og tjenester som leveres fra norske næringer. Derfor har priser på importert produktinnsats også betydning for norske konsumpriser.
+
+Prisutviklingen på importerte konsumvarer (i norske kroner) påvirkes av utviklingen i kronekursen. Usikkerheten om utviklingen i valutakursen er alltid stor. Det legges til grunn for beregningene at kronekursen, målt ved den importveide kronekursen, videreføres basert på den gjennomsnittlige kursen i perioden 16. februar–7. mars 2024. Kronen vil på årsbasis da styrkes med 0,8 prosent fra 2023 til 2024, jf. tabell 3.4.
+
+Viktige forutsetninger for KVARTS-beregningen av konsumprisvekst fra 2023 til 2024. Prosentvis vekst fra året før
+
+03J1xt2
+
+|                                               |       |      |
+|-----------------------------------------------|------:|-----:|
+|                                               |  2023 | 2024 |
+| Importveid valutakurs<sup>1</sup>             |   8,6 | -0,8 |
+| Konsumpriser i euroområdet                    |   5,4 |  2,2 |
+| Priser på bearbeidede importvarer<sup>2</sup> |   6,3 |  2,0 |
+| Råolje i USD<sup>3</sup>                      | -17,0 | -2,1 |
+| Elektrisitetspris<sup>4</sup>                 |  -7,2 | -5,1 |
+
+Årstallene er konvertert fra kvartalsfrekvens.
+
+<sup>1</sup> Basert på en videreføring av den gjennomsnittlige kursen i perioden 16. februar–7. mars 2024. Negativ endring betyr appresiering/styrking av norske kroner.
+
+<sup>2</sup> Importpriser for bearbeidede industrivarer, i utenlandsk valuta sammenveid med vekter beregnet på grunnlag av import fra Norges 24 viktigste handelspartnere.
+
+<sup>3</sup> Anslaget er basert på gjennomsnittlig terminpris i perioden 16. februar–7. mars 2024 og reflekterer at oljeprisen faller fra 82,0 dollar per fat i 2023 til 80,3 dollar per fat i 2024.
+
+<sup>4</sup> Prisen på elektrisk kraft inkludert nettleie som husholdningene betaler ifølge KPI. Basert på en videreføring av den gjennomsnittlige kursen i perioden 15. februar–7. mars 2024.
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+Prisutviklingen på importerte konsumvarer påvirkes også av prisutviklingen i utlandet. Økte priser i utlandet betyr høyere kostnader for norske importører selv om kronekursen ikke endrer seg. Prisøkningene, eller inflasjonen, har falt i mer enn ett år hos mange av Norges viktigste handelspartnere, se nærmere drøfting i kapittel 5. Prisene på bearbeidede importvarer hos handelspartnerne, som er en viktig kostnadskomponent, økte 6,3 prosent i 2023 og ventes å øke med 2,0 prosent i 2024. Konsumprisveksten i euroområdet falt fra 8,4 prosent i 2022 til 5,4 prosent i 2023. Selv om prisstigningen har falt var den i fjor likevel langt høyere enn inflasjonsmålet til den europeiske sentralbanken på 2 prosent. Ifølge Consensus Forecasts fra januar i år ventes det at inflasjonen i euroområdet faller videre og blir 2,2 prosent i 2024. TBU har lagt anslaget for inflasjonen i euroområdet fra Consensus Forecasts til grunn i modellberegningene nedenfor.
+
+Økende risiko knyttet til krigen i Midtøsten har bidratt til økt volatilitet i oljeprisen, som fortsatt befinner seg på et høyt nivå. Framtidsprisene på olje har vist seg å være godt egnet til å anslå utviklingen i de faktiske prisene.[^14] I modellberegningene har utvalget lagt til grunn gjennomsnittlig terminpris i perioden 16. februar–7. mars 2024. Markedet for framtidspriser indikerer at oljeprisen (Brent Blend), målt i dollar, faller som årsgjennomsnitt fra 82 dollar per fat i 2023 til 80,3 dollar per fat i 2024, en reduksjon på 2,1 prosent. Lavere oljepris slår ut i konsumprisene først og fremst gjennom priser på drivstoff og andre transportkostnader. Reduserte drivstoffpriser reduserer også produksjonskostnadene i annen norsk vare- og tjenesteproduksjon, noe som isolert sett bidrar til lavere priser generelt.
+
+Elektrisitetsprisen som husholdningene betaler består av prisen på kraft, strømstøtte, skatter, avgifter og nettleie. Den gjennomsnittlige spotprisen for kraft i Norge ble mer enn halvert fra 2022 til 2023. Gjennomgående var prisene høyest i Sør-Norge. Gjennomsnittlige spotpriser falt fra 1. til 2. kvartal 2023. Mye nedbør og vind førte til stor uregulert kraftproduksjon og ytterligere prisfall fra sommeren og utover høsten, der ekstremvær i perioder bidro til svært lave spotpriser. Med en kald værtype tok spotprisene seg opp igjen fra oktober og ut året, før de gjennomgående falt litt fra desember i fjor til januar i år i alle norske prisområder. Europa starter 2024 med 986 TWh lagret gass – 52 TWh mer enn for ett år siden. Europas gasslagre var ved inngangen til året 86,5 prosent fulle. Kombinasjonen av lave gasspriser og billigere CO<sub>2</sub>-kvoter har senket produksjonskostnadene for gasskraft i Europa. Framtidsprisene indikerer at prisene på gasskraft vil holde seg rundt dagens nivå, som er betydelig lavere enn rekordnoteringene i 2022. De reduserte gassprisene har smittet over på prisen på nordiske framtidskontrakter for elektrisitet, som har falt betydelig siden inngangen av desember. Utviklingen i spotprisen og i terminprisene på elektrisitet indikerer at elektrisitetsprisene inkludert nettleie vil falle en del fra 2023 til 2024. For utviklingen i spotprisene på elektrisitet har utvalget lagt til grunn gjennomsnittlig terminpris i perioden 15. februar–7. mars 2024.
+
+I beregningen er støtteordningen for strømbruk i husholdningene hensyntatt. I tråd med Stortingets vedtak er det lagt til grunn at strømstøtte til husholdningene i hele 2024 skal basere seg på spotprisen time for time, og at det blir 90 prosent fradrag på spotpris over 73 øre/kWh hele året, med et månedlig forbrukstak på 5 000 kWh. Terskelverdien for å motta strømstøtte er hevet fra 70 til 73 øre per kWh fra 2023 til 2024, mens den for øvrig er noe forsterket fra i fjor da strømstøtten i januar-august ble basert på månedlige gjennomsnittpriser. Satsen for gjennomsnittlig strømstøtte var i 2023 90 prosent, med unntak av april og mai hvor satsen var 80 prosent. Til grunn for prognosen anslås gjennomsnittspriser per måned og prisområde basert på terminpriser. Selv med en forholdsvis lav månedlig gjennomsnittspris for et prisområde har vi så langt observert at det er timer i måneden som kvalifiserer til strømstøtte. For 2024 er det beregningsteknisk lagt til grunn at strømstøtten øker lineært i intervallet 43–103 øre som funksjon av gjennomsnittlig månedspris per kilowattime. For terminpriser over 103 øre legger vi til grunn at alle timene i måneden er over terskelverdien for å motta strømstøtte, mens for anslått gjennomsnittspris under 43 øre mottas ingen strømstøtte. Terminmarkedet indikerer ved inngangen til mars at gjennomsnittlig spotpris over alle prisområder i 2024 blir 53 øre/kWh uten strømstøtte og 47 øre/kWh etter at strømstøtten er fratrukket. Gjennomsnittlig strømstøtte beregnes med dette til 6 øre/kWh uten moms over alle prisområder.
+
+I beregningene i KPI skilles det mellom ulike kontraktstyper, der spotpriskontrakt er mest vanlig. Det har tradisjonelt også vært et stort innslag av variabelpriskontrakter som normalt følger spotprisen med et tidsetterslep. Andelen husholdninger med variabelpriskontrakter har falt fra 20 prosent ved utgangen av 2021 til om lag 2 prosent ved utgangen av 2023, slik at denne kontraktstypen nå er av mindre betydning enn tidligere. I prognosen tas også hensyn til at husholdningenes elektrisitetsforbruk til hytter og fritidshus ikke kvalifiserer til strømstøtte og det er lagt til grunn at prisen på dette forbruket følger spotprisen.
+
+Reguleringsmyndigheten for energi i NVE (RME) har fastsatt en inntektsramme for ordinære nettselskaper unntatt Statnett på 24,9 milliarder kroner for 2024, mot en inntektsramme på 25,3 milliarder i 2023. Inntektsrammen begrenser hvor mye nettleie nettselskapene kan hente fra kundene sine. Nettselskapene har de siste årene hatt en betydelig økning i sine kostnader knyttet til tap i overføringsnettet der tapene dekkes til markedspriser. For å redusere sannsynligheten for økt nettleie trådte en midlertidig forskrift om bruk av flaskehalsinntekter i kraft 1. november 2022. Formålet med forskriften er å redusere sannsynligheten for økt nettleie på grunn av høye kraftpriser gjennom omfordeling av flaskehalsinntekter. Flaskehalsinntekter oppstår på grunn av prisforskjeller mellom ulike prisområder, og tilfaller i utgangspunktet Statnett. I 2022 og 2023 overførte Statnett totalt 8,5 milliarder kroner til underliggende nettselskaper i hele landet som følge av den midlertidige ordningen, og dette har bidratt til å dempe prisøkningene på nettleie. Reguleringsmyndigheten for energi i NVE (RME) har vedtatt at Statnett ikke skal utbetale flaskehalsinntekter til underliggende nettselskaper i 1. kvartal 2024. Som følge av usikkerhet knyttet til omfanget av flaskehalsinntekter er usikkerheten knyttet til prisutviklingen på nettleie større enn vanlig.
+
+Delindeksen for nettleien i KPI viser en gjennomsnittlig 12-månedersvekst på 15 prosent inkludert forbruksavgift på elektrisitet i januar og februar. Med en vekst på 3,8 prosent fra fjoråret bidrar forbruksavgiften til å dempe veksttakten i nettleien. Uten avgifter steg 12-månedersveksten i nettleien gjennomsnitt med om lag 18,5 prosent i januar og februar. Vi har foreløpig lagt til grunn at nettleien eksklusive avgifter stiger med i gjennomsnitt 18,5 prosent fra 2023 til 2024. Med et større innslag av avgifter fra april og ut året blir den prosentvise økningen i nettleien inkludert avgifter i underkant av 14 prosent fra 2023 til 2024. Med spotprisene og strømstøtten som ligger til grunn i beregningen anslås kraftprisen inkludert merverdiavgift å falle i underkant av 18 prosent målt med KPI-indeksen som årsgjennomsnitt. Et fall i spotprisen bidrar til lavere kraftpris på forbruket i hytter og fritidshus. Variabelpriskontraktene hadde betydelige høyere priser enn spotpriskontrakter forrige år. Et lavere innslag av variabelpriskontrakter trekker gjennomsnittprisen til husholdningene ned. Samlet legger vi til grunn at elektrisitetsprisen inkludert nettleie og avgifter går ned med 5,1 prosent fra 2023 til 2024.
+
+### Modellresultater
+
+I KVARTS antas virksomheter å sette prisene som et påslag på sine marginalkostnader med en varierende grad av tidsforsinkelse i tilpasningen. Beregningene er gjennomført med KVARTS i mars 2024 og viser at lønnskostnader per produsert enhet vil øke med 4,9 prosent i 2024, litt lavere vekst enn i 2023. Mens redusert arbeidsproduktivitet bidro til å trekke lønnskostnadene per produserte enhet opp i fjor viser beregningene at økt produktivitetsvekst i 2024 bidrar til å trekke ned veksten i lønnskostnader per produsert enhet i år.
+
+Et sentralt punkt for inflasjonsutviklingen her hjemme er gjennomslaget fra internasjonale priser og kronekursen på import- og konsumpriser målt i norske kroner. Endringer i kronekursen påvirker konsumprisene med et tidsetterslep. Dette skyldes dels tregheter i gjennomslaget fra kronekursen til importpriser og dels tregheter i gjennomslaget fra endrede importpriser til endrede konsumpriser. Det første må blant annet ses i lys av at det er kostnader forbundet med å justere prisene, samt at langvarige kontrakter og valutasikring bidrar til at virksomhetenes innkjøpspriser i perioder er upåvirket av kronekursen. Beregningene viser en vekst i importprisene for tradisjonelle varer med 1,8 prosent fra 2023 til 2024. Importprisveksten for de konsumrelaterte importvarene, som foredling av jordbruks- og fiskeprodukter, drikkevarer, diverse industriprodukter og matvarer mv, ventes å øke med 2,8 prosent fra 2023 til 2024.
+
+Modellresultater. Beregnet vekst i viktige kostnadskomponenter
+
+04J1xt2
+
+<table>
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 67%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">2023</td>
+<td style="text-align: right;">2024</td>
+</tr>
+<tr>
+<td colspan="2">Lønnskostnader per produserte enhet<sup>1</sup></td>
+<td style="text-align: right;">7,4</td>
+<td style="text-align: right;">4,1</td>
+</tr>
+<tr>
+<td colspan="2">Importpriser, tradisjonelle varer</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">1,8</td>
+</tr>
+<tr>
+<td></td>
+<td>– Konsumrelaterte importvarer<sup>2</sup></td>
+<td style="text-align: right;">8,9</td>
+<td style="text-align: right;">2,8</td>
+</tr>
+<tr>
+<td colspan="2">Avanse (prispåslag), varehandelen</td>
+<td style="text-align: right;">6,4</td>
+<td style="text-align: right;">3,5</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> I næringsvirksomhet i Fastlands-Norge
+
+<sup>2</sup> Importpriser for foredlede jordbruks- og fiskeprodukter, drikkevarer og tobakk, tekstil- og bekledningsprodukter, diverse industriprodukter, verkstedprodukter, biler mv. og matvarer og råvarer målt i norske priser.
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+Gjennomslaget fra importpriser til konsumpriser påvirkes av flere forhold. For eksempel kan stor konkurranse om kundene bidra til at importører, i håp om å beholde markedsandeler, ikke endrer prisene sine fullt ut når innkjøpsprisene øker som følge av svakere krone. At endringer i innkjøpsprisene påvirker prisene på konsumvarer med betydelig tidsetterslep, har også sammenheng med utviklingen i varehandelsleddet.
+
+Varehandelsavansene representerer prisen på den tjenesten varehandelsnæringen yter i distribusjonen av produkter fra leverandør til norske mottakere. I modellgrunnlaget som bygger på nasjonalregnskapet, er avansen definert som påslaget på varehandelens innkjøpspriser. I foreløpige nasjonalregnskap for 2023 er utviklingen i prisen på avanseproduksjonen beregnet ved hjelp av priskryssløpet som gir sammenhengen mellom en vare og de relevante prisene som inngår i prisen til bruker, dvs. produsent- og importpriser samt KPI. Det forutsettes ellers faste forhold mellom norsk produksjon og import av varen, tilsvarende som beregnet i siste endelige årsregnskap.
+
+I 2023 økte avansene litt mer enn veksten i KPI samlet, men mindre enn veksten i prisene på alle de produktene som omsettes gjennom varehandelen. Kostnadsveksten var høyere enn veksten i avansene. Ifølge KVARTS er avansene i hovedsak bestemt som et veid snitt av utviklingen i kostnader og priser på varer som omsettes gjennom varehandelen.[^15] En markert lavere vekst i både importpriser og lønnskostnader per produsert enhet medfører at veksten i avansene nesten halveres fra 2023 til 2024, og ifølge beregningene øker avansene i varehandelen med 3,5 prosent i 2024.
+
+Modellberegningen gir en vekst på 4,1 prosent for KPI og 4,4 prosent for KPI-JAE, se tabell 3.6. Firekvartalersveksten i KPI-JAE nådde en topp i 2. kvartal 2023 på 6,7 prosent. I beregningen faller den underliggende inflasjonen fra 5,1 prosent i 1. kvartal til 3,7 prosent i 4. kvartal 2024. Fallende elektrisitetspriser medfører at veksten i KPI blir lavere enn veksten i KPI-JAE.
+
+Modellresultater. Beregnet vekst i KPI og KPI-JAE i 2024 og virkninger av enkelte endringer i noen sentrale forutsetninger.<sup>1</sup> Vekst i prosent fra samme periode året før og virkninger i prosent av prognosebanen
+
+07J1xt2
+
+<table>
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 38%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">1. kv.</td>
+<td style="text-align: right;">2. kv.</td>
+<td style="text-align: right;">3. kv.</td>
+<td style="text-align: right;">4. kv.</td>
+<td style="text-align: right;">Året</td>
+</tr>
+<tr>
+<td colspan="2">KPI</td>
+<td style="text-align: right;">4,6</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">4,1</td>
+<td style="text-align: right;">3,6</td>
+<td style="text-align: right;">4,1</td>
+</tr>
+<tr>
+<td colspan="2">KPI-JAE</td>
+<td style="text-align: right;">5,1</td>
+<td style="text-align: right;">4,8</td>
+<td style="text-align: right;">4,0</td>
+<td style="text-align: right;">3,7</td>
+<td style="text-align: right;">4,4</td>
+</tr>
+<tr>
+<td colspan="2"><em>Virkninger på KPI av 10 prosents økning i:</em></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td></td>
+<td>– Kronekurs</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">1,5</td>
+<td style="text-align: right;">1,3</td>
+<td style="text-align: right;">1,6</td>
+<td style="text-align: right;">1,3</td>
+</tr>
+<tr>
+<td></td>
+<td>– Konsumpriser i euroområdet<sup>2</sup></td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">0,3</td>
+<td style="text-align: right;">0,3</td>
+</tr>
+<tr>
+<td></td>
+<td>– Priser på bearbeidede importvarer</td>
+<td style="text-align: right;">0,8</td>
+<td style="text-align: right;">1,2</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">1,1</td>
+<td style="text-align: right;">1,1</td>
+</tr>
+<tr>
+<td></td>
+<td>– Råoljepris i USD</td>
+<td style="text-align: right;">0,1</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">0,2</td>
+<td style="text-align: right;">0,2</td>
+</tr>
+<tr>
+<td></td>
+<td>– Elektrisitetspris</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">0,4</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">0,5</td>
+<td style="text-align: right;">0,5</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Beregningene er gjort med eksogen rente og valutakurs.
+
+<sup>2</sup> I KVARTS er konsumprisene i euroområdet en indikator for internasjonal prisvekst som også påvirker prisutviklingen på bearbeidede importvarer. I beregningen er denne kanalen slått av ettersom virkninger av økte priser på bearbeidede importvarer også framkommer av tabellen.
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+Kilen mellom KPI og KPI-JAE påvirkes også av avgiftsopplegget og subsidier (strømstøtte). I vedtatt statsbudsjett motvirkes økte klimaavgifter på drivstoff i noen grad av reduserte veibruksavgifter. Samlet bidrar politikktiltakene til en oppgang i drivstoffkostnadene i 2024. Drivstoffprisene følger i stor grad råoljeprisen med påslag av avgifter. Prisøkningene som følger fra politikktiltakene motsvares i beregningene av en nedgang i råoljeprisen i norske kroner, slik at pumpeprisene anslås å bli om lag uendret som årsgjennomsnitt fra 2023 til 2024. Regjeringen har forsterket strømstøtten og elavgiften er også i år redusert i perioden januar–mars med en sats på 9,51 øre/kWh, mens den fra april og ut året er 16,44 øre/kWh. Samlet innebærer dette at elavgiften på elektrisitet øker med 3,8 prosent fra 2023 til 2024. Energivarene bidrar med disse forutsetningene til å redusere KPI-veksten i prognosen med 0,3 prosentpoeng målt som differansen mellom KPI konsumprisindeksen uten energivarer (KPI-JE).
+
+I vedtatt statsbudsjett for 2024 prisjusteres de fleste andre særavgifter med om lag 3,8 prosent. Avgiftsfordelen for ladbare hybridbiler i engangsavgiften er avviklet, men dette betyr lite med en stor andel elbiler i bilkjøpene. Med konsumprisanslaget som ligger til grunn i utvalgets prognose anslås avgiftsøkninger på andre varer enn energivarer å virke nøytralt på KPI-veksten i 2024 målt med differansen mellom KPI-JAE og KPI-JE. Den samlede kilen mellom KPI og KPI-JAE blir dermed -0,3 prosentpoeng.
+
+Det er stor usikkerhet i prisvekstanslaget. Usikkerheten er spesielt knyttet til utviklingen i kronekursen, energiprisene og internasjonal prisvekst. Tabell 3.6 gjengir også modellberegninger som viser hvordan endrede forutsetninger for de sentrale økonomiske størrelsene angitt i tabell 3.1 påvirker det samlede prisnivået i forhold til referansebanen. Dersom kronekursen blir 10 prosent svakere i hvert kvartal enn det som er lagt til grunn, vil det bidra til å endre samlet prisvekst med 1,3 prosentpoeng i 2024. Dersom inflasjonen i euroområdet øker med 10 prosent bidrar det til å øke samlet prisvekst med 0,3 prosentpoeng. I KVARTS er konsumprisene i euroområdet en indikator for internasjonal prisvekst som blant annet påvirker prisutviklingen på bearbeidete importvarer målt i utenlandsk valuta. I beregningen er denne kanalen imidlertid slått av ettersom tabellen også viser den isolerte virkningen av økte priser på bearbeidete importvarer. Hvis prisene på bearbeidete importvarer øker med 10 prosent øker samlet prisvekst med 1,1 prosentpoeng. Effekten av økte verdensmarkedspriser er litt tregere enn gjennomslaget fra valutakursen som følge av at utenlandske leverandører tar hensyn til konkurransesituasjonen i Norge i sin prissetting.[^16] Alle beregningene i tabellen er gjennomført med eksogen rente og valutakurs. I kapittel 5 i Bjertnæs mfl. (2023) er betydningen av endret rente og valutakurs analysert i forbindelse med økte internasjonale priser.[^17] Dersom oljeprisen blir 10 prosent høyere enn lagt til grunn, viser beregningene i tabell 3.6 at det vil endre samlet prisvekst med 0,2 prosentpoeng. Hvis elektrisitetsprisene som både husholdninger og virksomheter står overfor blir 10 prosent høyere enn lagt til grunn, vil det endre samlet prisvekst med 0,5 prosentpoeng. Selv om usikkerheten er stor, blir husholdningene i betydelig grad skjermet for ytterligere økning i prisen på elektrisk kraft gjennom strømstøtteordningen, noe som isolert sett reduserer sannsynligheten for at prisveksten blir trukket opp av høyere elektrisitetspriser.
+
+### Utvalgets anslag på konsumprisveksten i 2024
+
+Basert på forutsetningene omtalt ovenfor, gir beregningen med KVARTS-modellen en vekst i KPI på 4,1 prosent fra 2023 til 2024. Slike modellbaserte beregninger vil alltid være usikre. Med bakgrunn i de beregningene som er foretatt og ovennevnte vurderinger, anslår Beregningsutvalget en vekst i KPI på 4,1 prosent i 2024.
+
+KPI og KPI-JAE. Prosentvis vekst fra samme kvartal året før<sup>1</sup>
+
+<sup>1</sup> Den heltrukne linjen illustrerer faktisk utvikling, mens stiplet linje er prognose.
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+Dekomponering av TBUs prognoseavvik for KPI i 2023
+
+TBU anslo 13. mars i fjor en vekst i KPI fra 2022 til 2023 på 4,9 prosent. Faktisk vekst i KPI ble 5,5 prosent, dvs. 0,6 prosentpoeng høyere. I tidsrommet 2001–2022 er det registrert 8 tilfeller der prognoseavviket, målt i absolutte termer, har vært like stor eller større enn i 2023, se boks 3.2. TBUs prognoseavvik for KPI i 2023 var av samme størrelsesorden som prognoseavvikene til andre prognosemiljøer, se boks 3.3.
+
+Tabell 3.7 viser anslagene fra TBU i mars 2023 samt den faktiske utviklingen, både for KPI som helhet, men også for fem størrelser som historisk har vist seg å være særdeles viktige for inflasjonsutviklingen. Dette gjelder kronekursen, konsumpriser i euroområdet, prisen på bearbeidede importvarer, råoljeprisen og elektrisitetsprisen. I tillegg viser tabellen det samlede bidraget knyttet til at anslagene for de fem forklaringsfaktorene avvek fra den faktiske utviklingen. Analysen er gjennomført ved hjelp av den makroøkonomiske modellen KVARTS som også ble brukt for å lage KPI-anslagene i fjor. Den nederste raden viser avvik som følge av andre forhold enn de fem størrelsene nevnt ovenfor.
+
+Dekomponeringen i tabellen viser at svekkelsen av kronen var den viktigste grunnen til at inflasjonen ble høyere enn anslått i mars i fjor. De fire øvrige variablene ble om lag som anslått. Samlet bidro alle de fem forklaringsfaktorene til å trekke opp inflasjonen med 0,3 prosentpoeng. Andre forhold enn de fem analysert i tabell 3.4 har til sammen bidratt til å trekke opp inflasjonen med ytterligere 0,3 prosentpoeng. Denne restposten inkluderer bidrag fra avvik i anslag for andre variabler, avrundinger og avvik som oppstår ved at KVARTS representerer en forenklet beskrivelse av virkeligheten og ikke fanger opp alle mekanismene som til enhver tid gjør seg gjeldende i norsk økonomi. En del av restposten for 2023 kan tilskrives at både importprisene og påslaget på hjemmemarkedsprisene økte markert mer enn det modellen kan forklare basert på endringer i kronekursen, prisutviklingen internasjonalt og endringer i virksomhetenes øvrige variable kostnader, se boks 2.2 Økonomiske Analyser 3/2023.
+
+Konsumprisindeksen. Dekomponering av prognoseavviket for 2023. Prosentvis vekst fra året før og bidrag i prosentpoeng
+
+04J1xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 39%" />
+<col style="width: 19%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td style="text-align: right;">Anslag TBU (mars)</td>
+<td style="text-align: right;">Endelig tall</td>
+<td style="text-align: right;">Avvik m/bidrag</td>
+</tr>
+<tr>
+<td colspan="2">KPI</td>
+<td style="text-align: right;">4,9</td>
+<td style="text-align: right;">5,5</td>
+<td style="text-align: right;">0,6</td>
+</tr>
+<tr>
+<td></td>
+<td>Importveid kronekurs<sup>1</sup></td>
+<td style="text-align: right;">5,7</td>
+<td style="text-align: right;">8,6</td>
+<td style="text-align: right;">0,4</td>
+</tr>
+<tr>
+<td></td>
+<td>Konsumpriser i euroområdet</td>
+<td style="text-align: right;">5,5</td>
+<td style="text-align: right;">5,5</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td></td>
+<td>Priser på bearbeidede importvarer</td>
+<td style="text-align: right;">5,8</td>
+<td style="text-align: right;">6,3</td>
+<td style="text-align: right;">0,1</td>
+</tr>
+<tr>
+<td></td>
+<td>Råoljepris i USD<sup>2</sup></td>
+<td style="text-align: right;">-16,5</td>
+<td style="text-align: right;">-17,0</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td></td>
+<td>Elektrisitetspris</td>
+<td style="text-align: right;">-4,2</td>
+<td style="text-align: right;">-7,2</td>
+<td style="text-align: right;">-0,1</td>
+</tr>
+<tr>
+<td colspan="2">Alle fem forklaringsfaktorer<sup>3</sup></td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">0,3</td>
+</tr>
+<tr>
+<td colspan="2">Annet<sup>4</sup></td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">-</td>
+<td style="text-align: right;">0,3</td>
+</tr>
+</tbody>
+</table>
+
+Årstallene er konvertert fra kvartalsfrekvens
+
+<sup>1</sup> Inkluderer utviklingen for NOK per euro og NOK per USD.
+
+<sup>2</sup> Anslag basert på terminpriser i USD.
+
+<sup>3</sup> Summen av de enkelte forklaringsfaktorene avviker fra summen som følge av sammensetningseffekter.
+
+<sup>4</sup> Inkluderer bidrag fra avvik i anslag for andre variabler, avrundinger og avvik som oppstår ved at KVARTS representerer en forenklet beskrivelse av virkeligheten.
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+\[Boks slutt\]
+
+Om TBUs prognoser for konsumprisveksten
+
+TBU lager prognoser for årlig vekst i både konsumprisindeksen (KPI) og konsumprisindeksen justert for avgiftsendringer og uten energivarer (KPI-JAE). I denne boksen evalueres nøyaktigheten av TBUs tidligere prognoser publisert i utvalgets mars-rapporter mot historiske tall for konsumprisveksten publisert av Statistisk sentralbyrå. Figur 3.7 sammenligner de faktiske inflasjonstallene med TBUs prognoser fra 2001 til 2023. TBUs prognoser har gjennomgående fanget opp både retningen og nivået på inflasjonsendringer. I de tre siste årene har imidlertid prognosen undervurdert konsumprisveksten, se boks 3.3. Avviket i 2022 på 2,5 prosentpoeng er det største avviket observert i perioden fra 2001 til 2023.
+
+Beregningsutvalgets anslag på KPI-veksten og faktisk utvikling i KPI (2015=100)
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+En vanlig brukt metode for å teste om en prognose på KPI-inflasjonen er forventningsrett sammenlignet med den faktiske KPI-inflasjonen, er å studere det prosentvise avviket mellom faktisk og anslått inflasjon målt i prosentpoeng. En signifikant verdi forskjellig fra null i dette avviket ville indikere at prognosene systematisk avviker fra faktiske utfall og dermed at prognosene ikke er forventningsrette. Spesifikt tester vi om konstanten i ligningen:
+
+Prognoseavvik = Konstant + Stokastisk restledd
+
+signifikant avviker fra null. Estimatet på konstantleddet er 0,2 som betyr at i perioden 2001 til 2023 har TBUs KPI-anslag i gjennomsnitt vært to tiendels prosentpoeng for lavt, se også figur 3.8. Avviket må sees i sammenheng med den ekstraordinære og uforutsette høye inflasjonen i 2021, 2022 og 2023. Statistiske tester viser at feilen ikke er signifikant forskjellig fra null og de stokastiske restleddene har egenskaper som gjør at vi ikke forkaster en hypotese om at restleddene er normalfordelte og dermed kan TBUs inflasjonsprognose for KPI sies å være forventningsrett.<sup>1</sup>
+
+Den estimerte usikkerheten knyttet til disse prognosene indikerer at det i omtrent ett av ti tilfeller kan forventes et avvik fra TBUs KPI-anslag på mer enn 0,9 prosentpoeng. Det forutsettes her at alle avvik er uavhengige og distribuert i henhold til en Students t-fordeling, med null i forventet verdi og en konstant varians.
+
+Avvik mellom beregningsutvalgets anslag på KPI og faktisk utvikling. Prosentpoeng
+
+Kilder: Statistisk sentralbyrå og Beregningsutvalget
+
+<sup>1</sup> En t-test ble anvendt for å evaluere om det gjennomsnittlige prognoseavviket er statistisk signifikant forskjellig fra null. Resultatene fra t-testen viste at p-verdien (0,171) er høyere enn det konvensjonelle signifikansnivået (0,05). Det er dermed ikke statistisk grunnlag for å forkaste nullhypotesen om at det ikke er noen signifikant forskjell mellom den faktiske inflasjonen og prognosen.
+
+\[Boks slutt\]
+
+Store prognoseavvik i 2021, 2022 og 2023
+
+TBUs prognoser har undervurdert konsumprisveksten i perioden 2021 til 2023. Gjennomsnittlig prognoseavvik for disse tre årene har vært på hele 1,3 prosentpoeng. Dette er mer enn dobbelt så mye som det gjennomsnittlige prognoseavviket i perioden fra 2001 til 2023, se boks 3.2.
+
+Figur 3.9 sammenligner prognosene fra TBU med anslagene til Norges Bank, Finansdepartementet, SSB, og Consensus Forecasts (CF) samt den faktiske utviklingen i KPI-veksten fra 2021 til 2023. Anslagene til TBU ligger nær mars-prognosene til Norges Bank og SSB hvert av årene. CF anslagene ligger noe lavere. Anslagene fra Finansdepartementet ligger gjennomgående lavere enn anslagene til Norges Bank og SSB i 2021 og 2022. Øvrige aktører har altså undervurdert den faktiske inflasjonen på tilsvarende måte som TBU. Norges Bank, SSB og gjennomsnittet fra CF har alle revidert opp sine inflasjonsanslag gjennom hvert av årene i perioden 2021 til 2023. Med unntak av 2021 har Finansdepartementet også revidert opp sine inflasjonsanslag fra publiseringen av revidert nasjonalbudsjett i mai til publiseringen av nasjonalbudsjettet i oktober.
+
+Opprevideringen av prognosene reflekterer at ulike forstyrrelser påvirket norsk økonomi gjennom disse tre årene. For årene 2021 til 2023 har TBU dekomponert prognoseavviket og tallfestet betydningen av fem størrelser som historisk har vist seg å være særdeles viktige for inflasjonsutviklingen, se boks 3.1 i denne og tidligere rapporter. De sentrale størrelsene er kronekursen, konsumpriser i euroområdet, prisen på bearbeidede importvarer, råoljeprisen og elektrisitetsprisen. I 2021 var prognoseavviket primært drevet av en økning i energiprisene. TBU la til grunn en forventet økning på cirka 30 prosent i elektrisitetsprisen for 2021, men den faktiske prisøkningen endte på 70,8 prosent. Isolert sett trakk dette opp inflasjonen med 1,4 prosentpoeng i dette året. I 2022 bidro krigen i Ukraina til ytterligere og uforutsett prisstigning på elektrisitet, samtidig som konsumprisene i euroområdet økte markert mer enn CF-anslagene som var lagt til grunn. En uforventet økning i energiprisene, konsumprisene i euroområdet samt priser på bearbeidede importvarer trakk inflasjonen opp med 1,6 prosentpoeng i 2022. Gjennom 2022 og i 2023 har dessuten en stadig svakere kronekurs bidratt til å øke konsumprisveksten. Den uforutsette svekkelsen av kronen har trukket opp konsumprisveksten med 0,5 prosentpoeng i 2022 og 0,4 prosentpoeng i 2023.
+
+Prognoser på årlig konsumprisvekst. KPI. Prosent. 2021–2023
+
+Kilder: Norges Bank, Statistisk sentralbyrå, Consensus Forecasts, Finansdepartementet og Beregningsutvalget
+
+\[Boks slutt\]

@@ -1,1274 +1,252 @@
-# NOU 2024: 11, del 9 av 16 (side 116–129)
+# NOU 2024: 11, del 9 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/defc774c-nou-2024-11.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-11/id3045067/
 - Original-PDF: https://www.regjeringen.no/contentassets/02c2c00e81844931b028606567a99395/no/pdfs/nou202420240011000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 14 tabeller, 116 figurer, 540 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 116]
+# Alternative tilknytningsformer
 
-114
+## Innledning
 
-NOU 2024: 11
+Selv om det vanlige i norsk arbeidsliv er fast ansettelse, kan arbeidskraftbehov også dekkes ved midlertidige stillinger, innleie av arbeidskraft og gjennom avtaler med selvstendige. Utsatte grupper på arbeidsmarkedet har i snitt høyere sannsynlighet for å være i en slik alternativ tilknytningsform (Cools mfl., 2023). Det er derfor relevant å se på omfanget av lavlønn blant disse gruppene og på mobiliteten over i høyere lønn og/eller i fast jobb. I enkelte land har også alternative tilknytningsformer (atypisk arbeid) blitt stadig mer utbredt, men en slik utvikling har vi ikke sett i Norge. Omfang og utvikling over tid av slike tilknytningsformer omtales i punkt 8.2. I punkt 8.3 drøftes omfanget av lavlønn blant midlertidig ansatte og personer som leies ut fra bemanningsforetak. 8.4 ser nærmere på personer med lav yrkesinntekt. Det er noe annet enn lavlønn, men kan belyse utviklingen av de alternative tilknytningsformene innenfor segmenter som er relevante for utvalgets vurderinger. Her omtales også mobilitet ut av de ulike tilknytningsformene. Utvalgets vurderinger følger i punkt 8.5.
 
-Kapittel 7
+## Omfang av alternative tilknytningsformer
 
-Lavlønn i Norge
+I Norge følger det av arbeidsmiljøloven at arbeidstakere som hovedregel ansettes fast og på heltid. En del virksomheter har likevel behov utover det som kan dekkes av de fast ansatte på hel- eller deltid og ved overtidsarbeid. Behovet for arbeidskraft kan variere og skape behov for at den faste bemanningen suppleres med ulike tilknytningsformer for kortere eller lengre tidsrom. Velutviklede velferdsordninger fordrer også en viss fleksibilitet i ansettelsesregelverket, f.eks. ved permisjoner. Et slikt behov kan løses ved midlertidige ansettelser, innleie av arbeidskraft, avtaler med selvstendige oppdragstakere eller kjøp av tjenester fra andre virksomheter. Enkelte arbeidstakere kan også selv ønske en annen tilknytning til arbeidslivet enn det som er mest vanlig.
 
-35
-30
-25
-20
-15
-10
-5
-0
-Uoppgitt
+I norsk sammenheng er det vanlig å skille mellom fire hovedformer for tilknytninger (NOU 2021: 9):[^46]<sup>,</sup> [^47]
 
-1–9
+1\. Fast ansettelse i heltid- eller deltidsstilling.
 
-10–24
-Lavlønnsforekomst
+2\. Midlertidig ansettelse.
 
-25–99
+3\. Innleie av arbeidstakere fra en annen virksomhet eller bemanningsforetak.
 
-100–249
+4\. Bruk av selvstendig oppdragstaker/frilanser.
 
-250 og over
+Definisjonen av alternativ eller atypisk tilknytningsform kan variere, men den vanligste definisjonen er et arbeidsforhold som ikke er «fast», «typisk» eller «tradisjonelt» (Cools mfl., 2023). Abraham mfl. (2018) definerer en tradisjonell (typisk) jobb som en jobb som har en varig arbeidskontrakt, forutsigbar arbeidstid/timeplan («work schedule») og lønn, og som samtidig er underordnet virksomheten som betaler lønnen.
 
-Andel av lavtlønte
+Alternative tilknytningsformer ble grundig behandlet i Fougner-utvalget (NOU 2021: 9), og flere av forslagene for å øke bruken av faste ansettelser er fulgt opp i regelverket. Blant annet er den generelle adgangen til midlertidig ansettelse i arbeidsmiljøloven opphevet, noe som ble begrunnet med et ønske om å styrke arbeidstakeres rett til fast ansettelse og legge til rette for et trygt og organisert arbeidsliv.[^48] Utover de tre alternative tilknytningsformene som gjennomgås her, altså selvstendig næringsdrivende[^49], midlertidig ansatte og innleide fra bemanningsbyråer, fins det ulike typer arbeid som befinner seg i en gråsone. Det er grunn til å anta at denne gråsonen kan inneholde innslag av lavlønn. For eksempel har utviklingen av digitale plattformer og såkalt «gig»-virksomhet ofte basert seg på selvstendig næringsdrivende i stedet for fast arbeid (Weil, 2019). I mange tilfeller er disse arbeidstakerne i praksis ansatte. Tariffavtalen for Foodora-ansatte i 2019 er et eksempel på at avtaleverket i det norske arbeidslivet også kan benyttes til å håndtere slike gråsoner.
 
-Figur 7.6 Lavlønnsforekomst og andel av lavtlønte årsverk under 2/3M-grensen etter foretaksstørrelse målt
-i antall ansatte. Kun i jobb, uten lærlinger. Prosent. 2022
+Disse problemstillingene ble også drøftet i Fougner-utvalget (NOU 2021: 9), og fra 1. januar 2024 er arbeidstakerbegrepet presisert i arbeidsmiljøloven. I tillegg til oppfølging av Fougner-utvalgets forslag om en tydeligere definisjon av innleie-begrepet har regjeringen tatt initiativ til betydelige innstramminger i adgangen til innleie. Dette er gjort for å redusere bemanningsbransjens rolle og begrense dens geografiske og næringsmessige nedslagsfelt.
+
+Med virkning fra 1. april 2023 er det strammet inn på adgangen til innleie fra bemanningsforetak. Tidligere var slik innleie lov «når arbeidet er av midlertidig karakter». Denne adgangen er nå opphevet. For å sikre forsvarlig drift av helse- og omsorgstjenester er det vedtatt en særregel for innleie av helsepersonell i forskrift om innleie fra bemanningsforetak. Denne forskriften – som også har bestemmelser om rådgivere og konsulenter med spesialkompetanse – gir en noe videre adgang til innleie enn på andre områder. Det er videre innført forbud mot å leie inn arbeidstakere til bygningsarbeid på byggeplasser i Oslo, tidligere Viken og Vestfold.[^50] Se også omtale av innleieregelverket i boks 8.2.
+
+De alternative tilknytningsformene utgjør en begrenset del av den norske økonomien. Cools mfl. (2023) har sett på personer med atypisk arbeid som hovedtilknytning i arbeidslivet i perioden 1995–2021. De finner at andelen med tradisjonell fast ansettelse som sitt hovedarbeidsforhold var i underkant av 90 prosent i 2021, mens 3,2 prosent var selvstendige næringsdrivende[^51] og 8 prosent var midlertidige ansettelser, målt ved A-ordningen.[^52] 1,3 prosent var ansatt i et bemanningsbyrå/innleide, enten fast eller midlertidig. Hvilken populasjon og statistikk som ligger til grunn for analysene i Cools mfl. (2023) er nærmere omtalt i punkt 8.4.
+
+Figur 8.1 viser hvordan de ulike tilknytningsformene har utviklet seg de siste 25 årene. Vi ser at andelen selvstendige næringsdrivende som andel av alle sysselsatte, har falt fra 6 prosent i 2002 til 3,2 prosent i 2021. En eventuell økt utbredelse av plattformøkonomi/gig-virksomhet o.l. domineres altså av andre utviklingstrekk i den overordnede utviklingen (Cools mfl., 2023). Andel midlertidige ansatte varierer gjennom hele perioden, noe som reflekterer både konjunkturfølsomhet i bruken av midlertidig ansatte og omfanget av arbeidsinnvandring. Overordnet har likevel nivået holdt seg stabilt gjennom perioden (Cools mfl., 2023). I 2015 ble det på generelt grunnlag lov å ansette i midlertidige stillinger. Innføringen av A-ordningen gir et databrudd på samme tid, men det kan se ut som det kom en svak stigning i årene etter, før andelen falt igjen i 2020–2021 da arbeidsinnvandringen var begrenset som følge av koronapandemien.[^53]
+
+Tilknytningsform i hovedarbeidsforhold, andel av alle sysselsatte. 20–66 år. Prosent. 1995–2021<sup>1</sup>
+
+<sup>1</sup> Brudd i statistikken i 2015
+
+Kilde: Cools mfl. (2023).
+
+I forhold til de to andre alternative tilknytningsformene, midlertidige og selvstendige, er andelen ansatte i bemanningsbyrå liten, men stigende i perioden vi ser på. Denne utviklingen må blant annet ses i sammenheng med innleieforbudet som gjaldt fra 1971 til 2000. Den største endringen skjer likevel ved EU-utvidelsen i 2004 som også åpnet for mer arbeidsinnvandring fra land med betydelig lavere lønnskostnadsnivå. Sett bort i fra et lite fall ved finanskrisen er utviklingen forholdsvis stabil både før og etter EU-utvidelsen, men på et høyere nivå i tiden etter.
+
+De siste 20 årene har det også vært en rekke endringer i innleieregelverket. I 2013 kom reglene om likebehandling, der bemanningsforetakene pålegges å sørge for at utleide arbeidstakere skal ha samme lønn som tilsvarende faste ansatte hos den som leier inn. I 2019 kom det innstramminger som bl.a. gjorde at det ikke lenger var lov for bemanningsbyråene å ha fast ansatte uten lønn mellom oppdrag. De siste innstrammingene for innleie omtalt i teksten over, ble iverksatt fra 1. april 2023 med en overgangsperiode for de nye reglene fram til 1. juli 2023.
+
+Berge og Edelmann (2023) har sett på hvordan antall lønnstakere i utleienæringen har endret seg etter at det ble innført innstramninger i reglene for innleie/utleie av arbeidskraft. De finner et fall i antall innleide mot slutten av 2022, etter en økning i årene før pandemien. Nedgangen skyldes både at flere går ut av utleienæringen og at færre kommer inn. Det henger trolig sammen med innstramningene i regelverket i 2019, men noe kan også skyldes konjunkturer. Blant de som gikk ut av næringen var det flest som hadde jobbet i Oslo og daværende Viken, og nedgangen var særlig stor i de typiske bygg- og anleggsyrkene. Dette er naturlig da en av regelendringene i 2023 var et forbud mot innleie på byggeplasser i Oslo, tidligere Viken og Vestfold. Berge og Edelmann (2023) finner at mange som byttet næring bort fra utleie fortsatt har fast jobb.
+
+Alsos mfl. (2023) har gjennomført en spørreundersøkelse for å se på hvordan virksomhetene i byggenæringen ville håndtere innstramningene i innleieregelverket. I forbudssonen i Oslo, daværende Viken og Vestfold svarte flest virksomheter at de ville øke bruken av innleide fra produksjonsbedrifter, øke bruken av underentreprenører og ta færre oppdrag. Noen færre ville bruke mer midlertidige ansettelser og enda noen færre ville øke bruk av overtid eller ansette flere fast i virksomheten. Bildet var omtrent det samme blant virksomheter med oppdrag utenfor forbudssonen, med unntak av at klart flest ville ta færre oppdrag.
+
+Næringer og andre kjennetegn
+
+Cools mfl. (2023) finner at andelene alternative tilknytningsformer og utviklingen i disse varierer mye mellom næringsgrupper, men også at det er noen likheter i utviklingen over tid. Midlertidig arbeid er mest vanlig i næringen overnatting og servering og har vært det de siste 20 årene (2002–2021). I perioden 2015–2021 er andelen midlertidig ansatte i næringen på rundt 10 prosent. Kultur, underholdning og fritid har rundt 5 prosent midlertidig ansatte mellom 2015–2021, mens de øvrige næringene har andeler under dette. Andelen midlertidig ansatte i flere av næringene følger det samme utviklingsmønsteret, noe som kan indikere at andelen drives av forhold som gjelder hele økonomien (Cools mfl., 2023). Helse- og sosialtjenester har nest størst andel i første del av perioden, fra 2002–2014, men andelen faller kraftig etter tidsseriebruddet i 2015. Det kan tyde på at det har vært mange feilregistreringer av korte jobber innen denne næringen. Undervisning ligger rundt 5 prosent fram til 2015, men faller også etter bruddet.
+
+Selvstendige næringsdrivende er mest vanlig i kultur, underholdning og fritid, etterfulgt av personlig tjenesteyting, som for eksempel kan være frisører og annen kroppspleie, men også vaskeri og begravelsesbyråvirksomhet. I alle næringer har imidlertid andelen selvstendige gått tydelig ned over tid, spesielt i bygg og anlegg.
+
+For innleide har Cools mfl. (2023) ikke informasjon om hvilken næring de jobber i, utover at de jobber i bemanningsbransjen. Av NHO Service og Handels bemanningsbarometer framgår det at bygg og anlegg, industri og produksjon, og lager, logistikk og transport var de tre største næringene i 2019 og 2022 (NHO, 2019 & 2022). Bygg og anlegg er klart størst disse årene, med henholdsvis 31,5 prosent og 24,4 prosent av de utfakturerte timene, men i 2023 er næringen nede på 13,3 posent og er forbigått av industri og produksjon og oppvekst og utdanning. Dette må ses i sammenheng med innstramningene i regelverket omtalt over.
+
+Utsatte grupper på arbeidsmarkedet har i snitt høyere sannsynlighet for å være i et alternativt ansettelsesforhold. Forskjellene er imidlertid størst i starten av perioden 1997–2021, som Cools mfl. (2023) studerer. For innvandrere og personer med lite utdanning har det vært en vekst i andelen som er ansatt midlertidig eller i bemanningsbyrå. Blant personer med lite utdanning og innvandrere fra Afrika, Asia og Latin-Amerika er det mer vanlig å ha en midlertidig jobb enn i resten av befolkningen.
+
+Tall fra SSB viser at i 4. kvartal 2022 var andelen med en midlertidig ansettelse blant innvandrere 14 prosent, mot 12 prosent i hele befolkningen (Taha, 2023). Det er særlig innvandrere med kort botid som trekker snittet opp, og blant sysselsatte innvandrere med botid under fire år var hele 23 prosent midlertidig ansatt (Taha, 2023). For gruppen med botid på 7 år eller mer er andelen midlertidige det samme som for resten av befolkningen.
+
+Veksten i andelen ansatte i bemanningsbyrå gjennom perioden drives av innvandrere fra Øst-Europa (Cools mfl., 2023). Innleie er mer utbredt blant innvandrere enn blant norskfødte, og i særlig grad blant innvandrere fra Sentral- og Øst-Europa. Flertallet av de ansatte i bemanningsbransjen har innvandrerbakgrunn, og utenlandske pendlere/ikke bosatte fra EU-land i Sentral- og Øst Europa har utgjort om lag en tredel av de sysselsatte i bemanningsbransjen (Nergaard, 2021).
+
+For selvstendig næringsdrivende er andelen fallende for alle befolkningsgrupper. Innvandrere og lavt utdannede har høyere andel selvstendige enn blant alle sysselsatte, men det er ingen øvrige forskjeller mellom innvandrergrupper eller mellom dem med høyere utdanning enn grunnskole (Cools mfl., 2023).
+
+Det er en noe større andel kvinner enn menn som jobber midlertidig, men forskjellen mellom kjønnene er ikke veldig stor (Cools mfl., 2023). For selvstendige næringsdrivende derimot er det klart høyere andel blant menn enn blant kvinner.
+
+Det er også noen tydelige forskjeller mellom aldersgrupper når det gjelder alternative tilsettingsforhold. Midlertidige jobber er vanligst i alderen 20-25 år. Det er også mest vanlig å være utleid blant unge, men sammenlignet med midlertidig jobb strekker disse jobbene seg over lengre aldersspenn og utgjør en større del av arbeidsmarkedskarrieren. Det er derimot vanligere å være selvstendig sent i karrieren.
+
+## Lavlønn blant midlertidig ansatte og innleide/utleide arbeidstakere
+
+Personer med alternative tilknytningsformer inneholder både grupper som klarer seg godt i arbeidsmarkedet, og utsatte grupper som sliter med å få et stabilt fotfeste i arbeidslivet. På samme måte som i kapittel 7 om kjennetegn ved de lavest lønte, ser vi derfor blant annet på forekomsten av lavlønn for midlertidig ansatte og utleide arbeidstakere som kun er i jobb i 2022.
+
+Vi har ikke mulighet for å benytte det samme tallgrunnlaget for selvstendige næringsdrivende da disse ikke mottar lønn, men næringsinntekt. De er dermed ikke en del av lønnsstatistikken, og det finnes ikke tilsvarende statistikk for lavlønnsforekomst som for de øvrige gruppene. Det er ikke uvanlig for selvstendig næringsdrivende å kombinere næringsinntekt og lønnsinntekt, men det er mindre vanlig for de som er selvstendige over tid (Alsos mfl., 2022). Norge har, i likhet med de andre nordiske landene, en lav andel selvstendig næringsdrivende sammenlignet med andre europeiske land (Alsos mfl., 2022).
+
+Ved å ta utgangspunkt i lønnsstatistikken for populasjonen som kun er i jobb i 2022 viser figur 8.3 at forekomsten av lønn under 2/3M-grensen er 21 prosent blant midlertidig ansatte, mot 5 prosent blant fast ansatte. Videre framgår det at midlertidig ansatte utgjør 27 prosent av årsverkene under 2/3M-grensen. Blant de midlertidige årsverkene under 2/3M-grensen er 54 prosent deltidsansatte, mens for fast ansatte er det 34 prosent.
+
+Lavlønnsforekomst og andel av lavlønte under 2/3M-grensen. Kun i jobb, uten lærlinger.<sup>1</sup> Prosent. 2022
+
+<sup>1</sup> «Uoppgitt ansettelsesform» er ikke inkludert i figuren da dette kun utgjør en liten andel. Utleide kan både være fast og midlertidig ansatt.
+
 Kilde: Statistisk sentralbyrå.
 
-ter eller lønnstakere som er dekket av en tariffavtale. En vanlig brukt metode for å identifisere
-disse er derfor å se på om virksomhetene er
-omfattet av Avtalefestet Pensjon (AFP) (Jordfald
-mfl., 2021; Nergaard, 2022).
-I virksomheter bundet av tariffavtale, må
-arbeidsgiver lønne alle ansatte i tråd med denne,
-uavhengig av om den enkelte ansatte er organisert.
-Flertallet av tariffavtalene i privat sektor har minstelønnssatser det ikke kan lønnes under.3 Disse
-minstelønnssatsene ligger stort sett over 2/3Mgrensen, men det finnes også eksempler på satser
-som ligger under, se mer om dette i kapittel 10.
-Dapi og Svarstad (2023) finner at i virksomheter uten tariffavtale, definert som virksomheter i
-privat sektor som ikke er tilmeldt AFP-ordningen,
-er omfanget av lavlønn under 2/3M-grensen4 på
-11 prosent i 2021 mot 6 prosent i hele hele økonomien. Andelen har vært stabil de siste fem årene. I
-resten av arbeidsmarkedet, hvor lønnsdannelsen
-kjennetegnes av kollektive forhandlinger, finner
-de at lavlønnsandelen i 2021 er på 4 prosent.
-Tariffbundne virksomheter har altså lavere innslag av lavlønn målt ved 2/3M-grensen. Det finner
-de også etter 85Ind-grensen.
-Dapi og Svarstad (2023) finner også at generelt
-ser det ut til at jo lavere tariffavtaledekningen er, jo
-høyere er lavlønnsandelen i virksomhetene. Samti3
-4
-
-Gjennom tillegg ved lokale forhandlinger er lønn gjennomgående høyere enn disse minstelønnssatsene.
-De benytter en litt annen populasjon enn utvalget og får
-dermed en litt annen 2/3M-grense.
-
-dig er det strukturelle forskjeller med hensyn til
-hvilke lønnsgrupper som omfattes av tariffavtaler,
-slik at sammenhengen ikke utelukkende kan tilskrives tariffavtaledekningen. I kapittel 10 ser vi
-nærmere på omfang og bransjer uten tariffavtaler.
-
-7.2.6 Heltid/deltid
-Typiske lavlønnsyrker, som salg- og serviceyrker
-eller hjelpearbeid i andre næringer og rengjøring,
-preges relativt mer av deltidsarbeid enn øvrige
-yrker (Grini mfl., 2023b). Det kan både være
-egenskaper ved jobben og valg tatt av arbeidsgiver og lønnstaker som gjør at en jobb er på deltid.
-Ifølge Sysselsettingsutvalget (NOU 2021: 2) er
-årsakene til deltid ofte sammensatte. Livsfase,
-familiesituasjon og egen helse kan påvirke valg av
-deltid. Både arbeidsorganisatoriske forhold som
-turnusarbeid og driftstider, og mer samfunnsmessige forhold kan sette rammer for bruken. For
-enkelte kan deltid være en inngang til å komme i
-jobb og dermed gi mulighete til å delta i arbeidslivet. Deltid er på den annen side problematisk for
-dem som ønsker å jobbe heltid og ikke får mulighet til full inntekt og tilhørende rettigheter.
-For virksomhetene kan et stort omfang av små
-stillinger ha uheldige virkninger for tjenestekvalitet og arbeidsmiljø. Samtidig kan et visst omfang
-av deltid være nødvendig for å tilpasse arbeidskraften til etterspørsel og produksjon. Enkelte
-virksomheter med varierende ressursbehov i
-løpet av døgnet eller uken bruker deltidsstillinger
-for å sikre nok bemanning til å dekke driftsbeho-
-
-[Side 117]
-
-115
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Kapittel 7
-
-60
-50
-40
-30
-20
-10
-0
-0-19
-
-20-39
-
-40-59
-Lavlønnsforekomst
-
-60-79
-
-80-99
-
-100
-
-Andel av lavtlønte
-
-Figur 7.7 Lavlønnsforekomst og andel av lavtlønte årsverk under 2/3M-grensen etter stillingsprosent.
-Kun i jobb, uten lærlinger. Prosent. 2022
-Kilde: Statistisk sentralbyrå.
-
-vet. Forekomsten av deltid er mer utbredt i
-enkelte næringer og yrker, og er i større grad enn
-heltid knyttet til helg og turnusarbeid.
-Som vist i kapittel 5 er omfanget av deltidsstillinger relativt høyt i Norge og relativt stabilt over tid. I
-kapittel 6 framgår det at deltidsansatte har et lavere
-lønnsnivå enn heltidsansatte, også når vi sammenligner lønn regnet om til hele stillinger og bare ser
-på populasjonen «kun i jobb». Samtidig er forskjellen mindre eksempelvis for pleie- og omsorgsarbeidere med svært mye deltid, slik at denne sammen-
-
-hengen ikke er entydig. Figur 7.7 viser også at forekomsten av lavlønn er mye høyere for deltidsstillinger enn for heltidsstillinger. Forekomsten av lavlønn faller også med økende stillingsprosent.
-Deltidsjobbene utgjør samlet 40 prosent av årsverkene, jf. figur 7.7. Flyttes grensen opp til 2.desil
-utgjør deltid om lag 30 prosent. At heltidsjobbene
-likevel har størst andel lavlønnsjobber skyldes både
-at de fleste jobber er heltidsjobber og at bruk av
-årsverk betyr at hver deltidsjobb teller mindre enn
-hver heltidsjobb. Hvis vi heller teller hver jobb som
-
-Boks 7.1 Adgangen til deltidsarbeid
-Det følger av arbeidsmiljøloven § 14-1b at
-lignende i virksomheten fremfor at arbeidsgiver
-arbeidstaker som hovedregel skal ansettes på
-ansetter eller leier inn arbeidstakere til dette
-heltid. Før arbeidsgiver fatter beslutning om
-arbeidet.
-ansettelse i deltidsstilling, skal arbeidsgiver
-Deltidsansatte som de siste 12 måneder jevnskriftlig dokumentere behovet for deltidsansetlig har arbeidet utover avtalt arbeidstid, har rett
-telse. Dokumentasjonen skal være tilgjengelig
-til stilling tilsvarende faktisk arbeidstid i denne
-for tillitsvalgte, og spørsmålet om deltidsansetperioden, med mindre arbeidsgiver kan dokutelse skal drøftes med de tillitsvalgte.
-mentere at behovet for merarbeidet ikke lenger
-Minst én gang i året skal arbeidsgiver drøfte
-foreligger.
-bruken av deltid med de tillitsvalgte.
-Arbeidstaker som har fylt 62 år eller som av
-Deltidsansatte har fortrinnsrett til utvidet
-helsemessige, sosiale eller andre vektige velstilling framfor at arbeidsgiver foretar ny ansetferdsgrunner (omsorg for barn) har behov for
-telse eller innleie i virksomheten. Fortrinnsretdet, har rett til å få redusert sin arbeidstid derten kan også gjelde en del av en stilling. Deltidssom arbeidstidsreduksjonen kan gjennomføres
-ansatte har også fortrinnsrett til ekstravakter og
-uten vesentlig ulempe for virksomheten.
-
-[Side 118]
-
-116
-
-NOU 2024: 11
-
-Kapittel 7
-
-Lavlønn i Norge
-
-Industri
-Bygge- og anleggsvirksomhet
-Varehandel, reparasjon av motorvogner
-Transport og lagring
-Overnattings- og serveringsvirksomhet
-Informasjon og kommunikasjon
-Finansierings- og forsikringsvirksomhet
-Faglig, vitenskapelig og teknisk tjenesteyting
-Forretningsmessig tjenesteyting
-Helse- og sosialtjenester
-Herav helseforetak (statsforv.)
-Herav pleie- og omsorgstjenester
-0
-Under 25 år, deltid
-
-10
-
-20
-
-Under 25 år, heltid
-
-30
-
-40
-
-50
-
-25 år og eldre, deltid
-
-60
-
-70
-
-80
-
-90
-
-100
-
-25 år og eldre, heltid
-
-Figur 7.8 Fordeling av arbeidsforhold etter alder og arbeidstid i utvalgte næringer. Prosent. November 20221
-1
-
-Pleie- og sosialtjenester omfatter næringene Pleie og omsorg i institusjon og Sosialtjenester uten botilbud for eldre og funksjonshemmede.
-Kilde: NOU 2023: 12.
-
-én jobb uansett arbeidstid, vil deltidsjobbene
-utgjøre nesten 65 prosent av jobbene under 2/3Mgrensen. Se kapittel 11 for en drøfting av forskjellen
-på årsverk og jobber.
-Deltidsjobber er mer konsentrert i noen
-næringer og yrker, jf. også kapittel 5. Næringer
-med lavere lønninger og høyere deltidsandeler
-enn gjennomsnittet, trekker ned gjennomsnittslønningene for deltidsarbeid samlet sett. Det gjelder eksempelvis både varehandel, helse- og sosialtjenester utenom sykehus og overnattings- og
-serveringsvirksomhet.
-Hvis vi ser innad i næringene er det 52 prosent
-av deltidsårsverkene i overnatting og servering
-som er under 2/3M-grensen, mens 27 prosent av
-heltidsårsverkene er under grensen. I detaljhandel
-er 32 prosent av deltidsårsverkene under grensen,
-mot 11 prosent av heltid. I begge næringene er det
-rimelig å anta at det er betydelige andre forskjeller
-enn arbeidstid mellom heltids- og deltidsjobbene,
-blant annet utdanning. Ikke minst er de deltidsansatte gjennomsnittlig yngre enn de heltidsansatte.
-Det er en viktig årsak til forskjellene i gjennomsnittslønn mellom heltids- og deltidsansatte. Figur
-7.8 viser fordeling av arbeidsforhold etter alder og
-arbeidstid i utvalgte næringer (NOU 2023: 12). I
-overnatting og servering er det en stor andel som
-jobber deltid både under og over 25 år. Deltidsandelen er likevel mye høyere under 25 år. Det
-samme gjelder for varehandel. I pleie- og omsorg
-er deltid derimot utbredt også blant de voksne
-
-arbeidstakerne. Lav lønn her har dermed mindre
-sammenheng til unge med mindre erfaring fra
-arbeidslivet. Merk at i denne figuren viser alle sysselsatte, og ikke bare dem som kun er i jobb.
-De som jobber deltid, har i større grad en midlertidig jobb enn de som jobber heltid (NOU 2023:
-12), se også utdypende omtale av midlertidig
-ansatte i kapittel 8.
-Som vist i kapittel 5 har deltidsandelen vært
-forholdsvis stabil over noe tid, men omfanget av
-lang deltid (over om lag en halv stilling) har vært
-noe redusert siden 2013. Under 2/3M-grensen
-har andelen med deltid gått fra å ligge et sted mellom 31 og 36 i perioden 2008–2020, mens i 2022 er
-den som vist over på 40 prosent. Forekomsten av
-lavlønn blant de deltidsansatte har økt fra 9 prosent i 2008 til 16 prosent i 2022.
-
-7.3
-
-Hvem har jobber med lavlønn?
-
-I denne delen skal vi se nærmere på hvem som
-fyller jobbene med lavest lønn og hva som kjennetegner disse personene når det gjelder kjønn,
-alder, erfaring, utdannelse, innvandrerbakgrunn
-og organisasjonsgrad. Vi ser også nærmere på
-dem som har flere jobber. På samme måte som
-over ser vi hovedsakelig på lønnstakere som kun
-er i jobb og utelater med det grupper som for
-eksempel er uføre og studenter som samtidig har
-en jobb. Lærlinger er heller ikke med i analysen.
-
-[Side 119]
-
-117
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Kapittel 7
-
-35
-30
-25
-20
-15
-10
-5
-0
-Under 25
-
-25–29
-
-30–44
-Lavlønnsforekomst
-
-45–54
-
-55–64
-
-65 og over
-
-Andel av lavtlønte
-
-Figur 7.9 Lavlønnsforekomst og andel av lavtlønte årsverk under 2/3M-grensen etter alder. Kun i jobb, uten
-lærlinger. Prosent. 2022
-Kilde: Statistisk sentralbyrå.
-
-Hvorvidt eksempelvis grupper på helserelaterte
-ytelser tenderer til å bli lavere lønnet i arbeidslivet
-enn andre grupper vil også kreve egne undersøkelser og er ikke med her.
-
-7.3.1 Alder
-Forekomsten av lavlønn faller betraktelig med
-alder, unntatt over 65 år. Personer under 25 år
-utgjør 30 prosent av dem under 2/3M-grensen.
-Dette viser at det er de aller yngste som preger
-den nederste enden av fordelingen. En del av
-disse vil være ferske i arbeidslivet uten den kompetanse erfaring vil gi. I tariffavtalene er gjerne de
-aller laveste begynnerlønnssatsene knyttet til lav
-alder under 20 år. Flytter vi aldersgrensen til
-under 30 år utgjør de til sammen nesten 50 prosent av de under 2/3M-grensen. Blant de yngste
-er det svært vanlig å kombinere jobb med utdanning, men siden vi ser på arbeidstakere som kun
-er i jobb, er ikke studentene med i dette bildet.
-Selv om unge er overrepresentert blant lavtlønte, er det likevel i overkant av 50 prosent av
-årsverkene under 2/3M-grensen som er besatt av
-personer mellom 30–70 år, med hovedvekt i
-aldersgruppen 30–44 år, se figur 7.9. Flytter vi
-grensen og ser på de som ligger under 2.desil i
-lønnsfordelingen utgjør de under 25 år en del mindre med 17 prosent av årsverkene. Flyttes aldersgrensen til under 30 år, utgjør de i underkant av 32
-prosent.
-
-7.3.2 Utdanning og kompetanse
-Kompetanse i form av erfaring og utdanning i tråd
-med jobbens krav er et annet viktig kjennetegn
-når vi ser på de lavest lønte. I tariffavtalene i privat
-sektor er ansiennitetsstigene relativt korte med
-rask økning etter et til to års ansettelse. Det speiler uttelling for den økte yrkeserfaringen. Gruppene med kortest formell utdanning har høyest
-lavlønnsforekomst, se figur 7.9. For alle med videregående utdanning er andelen med lønn under
-grensen om lag 6 prosent og med det det samme
-som gjennomsnittet. Personer med grunnskoleutdanning eller uoppgitt eller ingen utdanning har
-derimot betydelig høyere forekomst av lavlønn.
-De med uoppgitt utdanning er en sammensatt
-gruppe, men påvirkes mye av ikke-bosatte
-arbeidstakere, som vi ikke har utdanningsinformasjon om, og innvandrergrupper hvor informasjon om utdanning er mangelfull. Fire av fem
-årsverk under 2/3M-grensen er besatt av personer med utdanning på grunnskolenivå, videregående nivå eller uoppgitt utdanningsnivå. De med
-universitets- eller høyskoleutdanning har lav sannsynlighet for å være under grensen Også blant
-disse er det likevel noen som har jobber under 2/3
-av medianlønnen, se figur 7.10. Det er ikke kunnskap om disse er i jobber med andre krav til kompetanse enn den de selv innehar. For årsverk
-under 2.desil-grensen finner vi et lignende bilde.
-
-[Side 120]
-
-118
-
-NOU 2024: 11
-
-Kapittel 7
-
-Lavlønn i Norge
-
-40
-35
-30
-25
-20
-15
-10
-5
-0
-Uoppgitt eller ingen
-fullført utdanning
-
-Grunnskole
-
-Videregående
-
-Lavlønnsforekomst
-
-Andel av lavtlønte
-
-Universitet og
-høgskole, 1-4 år
-
-Universitet og
-høgskole, over 4 år
-
-Lavlønnsforekomst, gjennomsnitt
-
-Figur 7.10 Lavlønnsforekomst og andel av lavtlønte under 2/3M-grensen etter utdannelse. Kun i jobb, uten
-lærlinger. Prosent. 2022
-Kilde: Statistisk sentralbyrå.
-
-Selv om studentene og personer under utdanning er holdt utenfor i populasjonen vi ser på, er
-nok en del av de lavtlønte med lengre formell
-utdanning akkurat ferdig med utdannelsen sin og
-med det nye i arbeidslivet.
-Ved å skille mellom studiespesialiserende og
-yrkesfaglig retning i videregående opplæring framkommer det at det er omtrent like mange årsverk i
-hver gruppe som ligger under 2/3M-grensen, men
-forekomsten av lavlønn er høyest blant dem med
-studiespesialisering som høyeste fullførte utdannelse. Her er forekomsten av lavlønn på 11,5 prosent, mot 3,6 prosent for dem med yrkesfaglig
-retning. Oppjusterer vi aldersgruppen vi ser på fra
-19–70 år til 30–70 år endrer dette seg, og forekomsten av lavlønn med studiespesialisering som høyeste fullførte utdannelse faller til 3,7 prosent, mens
-andelen av de lavtlønte faller med knapt 10 prosentpoeng. For yrkesfag faller forekomsten med 1 prosentpoeng, mens andelen av de lavtlønte holder seg
-stabil. Det kan tyde på at de lavtlønte med studiespesialisering enten går over til å ta høyere utdanning, eller beveger seg ut av lavlønnsgruppen når
-de blir eldre og får mer arbeidserfaring.
-I kapittel 5 så vi at over perioden 1997–2022
-har det skjedd mye med utdanningsnivået blant
-nordmenn. I 1997 var det få, kun 6 prosent, som
-hadde en høyere utdanning på over fire år, mens i
-2022 hadde denne andelen økt til 15 prosent. I
-perioden har også andelen med en kortere utdanning på høyskole eller universitet økt. Til sammen
-utgjør disse to gruppene over halvparten av dem
-
-mellom 25 og 66 år. Utdanningsnivået blant
-arbeidstakerne har med andre ord endret seg
-mye i perioden. Det har følger i arbeidslivet. Som
-omtalt over er personer med grunnskoleutdanning samt uoppgitt eller ingen utdanning
-betydelig overrepresentert i jobber med lav lønn.
-Det motsatte er tilfelle for personer med universitets- eller høyskoleutdanning. Ser vi imidlertid på
-utdanning for årsverkene under 2/3M-grensen i
-perioden 2008–2022 finner vi at andelen med
-grunnskole som lengste utdanning har gått ned
-fra 33 prosent til 24 prosent av de lavtlønte og
-andelen med uoppgitt/ingen utdannelse har gått
-ned fra 27 prosent til 20 prosent. Samtidig har
-andelen lavtlønte med videregåendeskole økt fra
-31 prosent til 38 prosent og andelen med kort universitets/høyskole utdannelse har økt fra 7 prosent til 15 prosent. Andelen med universitets/høyskoleutdannelse utover fire år har vært forholdsvis stabil på mellom 1–3 prosent.
-Betydningen av kompetanse
-Betydningen av kompetanse vil variere mellom
-sektor og næringer, men forskning fra Norge
-viser at utdanning for mange er en god investering sammenlignet med verdien av den alternative
-inntekten som går tapt ved å ta utdanning fremfor
-å jobbe. Bhuller mfl. (2017) ser på utdanning og
-lønnsinntekt for menn født i hovedsak på 1950-tallet og finner at økt utdanning for denne gruppen
-resulterte i høyere lønn over livsløpet. Et ekstra år
-
-[Side 121]
-
-119
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Kapittel 7
-
-Ikke fullført videregående
-
-16,6
-
-Videregående, avsluttet utdanning
-
-18,8
-
-Påbygging til videregående utdanning
-
-21,2
-
-Universitets- og høyskoleutdanning, lavere nivå
-
-20,1
-
-Universitet- og høyskoleutdanning, høyere nivå
-
-26
-
-Forskerutdanning
-
-27,4
-0
-
-5
-
-10
-
-15
-
-20
-
-25
-
-30
-
-Mill. 2019-kroner
-
-Figur 7.11 Gjenonnsnitlig livsløpsinntekt etter utdanningsnivå
-Kilde: Eika og Kirkebøen (2023).
-
-med utdanning ga i gjennomsnitt en årlig avkastning (internrente) på 11 prosent. Bhuller mfl.
-(2017) peker på at det er en avkastning som trolig
-er høyere enn det en kan forvente å få på eksempelvis aksjer, obligasjoner eller bankinnskudd.
-Lave kostnader ved å finansiere utdanning for den
-enkelte, bidrar isolert sett til å øke avkastningen,
-mens små lønnsforskjeller på den andre siden
-betyr at gevinsten ved utdanning er mindre enn i
-mange andre land.
-Sysselsettingsutvalget (NOU 2021: 2) så særskilt på forskningen på effekter av etter- og videreutdanning. Her ble det referert til moderat positive, men varierende effekter på deltagelse og inntekt som følge av slik opplæring for voksne. Samtidig ble det pekt på at kunnskapsgrunnlag på dette
-feltet er relativt tynt.
-Ulike utdanningsgrupper har forskjellige lønnsprofiler over livsløpet og Eika og Kirkebøen
-(2023) har sett på forskjeller i livløpsinntekt mellom utdanningsgrupper. I motsetning til analysen
-ellers i dette i kapittelet, ser de altså på samlet inntekt over livsløpet, og ikke kun på lønn. Utvalget
-de ser på er likevel begrenset til personer mellom
-20–66 år som har forholdsvis sterk tilknytning til
-arbeidslivet. Inntektsmålet er pensjonsgivende
-inntekt, som inkluderer lønnsinntekt og
-næringsinntekt samt trygdeytelser som erstatter
-disse i begrensede perioder. Ved å se på livløpsinntekt fanger de for eksempel opp at personer
-med kort utdanning har anledning til å starte
-yrkeskarrieren tidligere enn dem med lang utdannelse, men også at personer med lang utdanning i
-
-gjennomsnitt har sterkere lønnsvekst enn personer med kort utdanning.
-Figur 7.11 viser at livsløpsinntekten i gjennomsnitt stiger med utdanningslengde. Unntaket er at
-påbygging til videregående utdanning (i hovedsak
-fagskole/høyere yrkesfaglig utdanning, men også
-noen forkurs mm.) ligger høyere enn kortere høyere utdanning (bachelornivå). Kortere høyere
-utdanning ligger 7 prosent over livsløpsinntekten
-til personer med videregående utdanning som her
-omfatter både studiespesialisering/allmennfag og
-yrkesforberedende retning, mens personer med
-lang høyere utdanning (masternivå) ligger 38 prosent over. Det er altså stor forskjell i inntektsnivåene mellom kort og lang høyere utdannelse.
-I tillegg finner Eika og Kirkebøen (2023) at det
-er betydelige forskjeller i livsløpsinntekt mellom
-ulike utdanningsgrupper med samme lengde på
-utdannelsen sin. Hele 63 posent i livsløpsinntekt
-skiller servicefag eller helse- og sosialfag fra elektro eller kjemiske fag på videregående nivå. Servicefag og helse- og sosialfag ligger også knappe
-10 prosent under livsløpsinntekten til dem som
-ikke har fullført videregående. Blant de med korte
-høyere utdanningene er det store skiller mellom
-for eksempel de tekniske fagene og pedagogikk.
-At Norge har en jevnere lønnsfordeling enn
-mange andre land reflekteres i at lønnsforskjellene mellom ulike utdanningslengder er relativt
-små. Figur 7.12 viser relativ lønnsinntekt etter
-utdanningslengde. Dette er hentet fra OECD som
-bruker lønnsinntekt, og tallene omfatter bare heltidsansatte. Figuren viser at i alle land stiger gjen-
-
-[Side 122]
-
-120
-
-NOU 2024: 11
-
-Kapittel 7
-
-Lavlønn i Norge
-
-300
-250
-200
-150
-100
-50
-0
-Danmark
-Grunnskole
-
-Finland
-
-Tyskland
-
-Studiespesialisering vgs
-
-Nederland
-
-Norge
-
-Yrkesfaglig utdanning vgs
-
-Sverige
-Bachelor
-
-USA
-
-EU25-snittet
-
-Master eller høyere
-
-Figur 7.12 Relativ lønnsinntekt for lønnstakere etter utdanningslengde sammenlignet med de som har
-mindre enn videregående skole som høyeste utdanning (Grunnskole=100). Heltidsansatte. 25–64 år. 2021
-Kilde: OECD (2023).
-
-nomsnittslønnen med lengden på utdanningen.
-De nordiske landene skiller seg likevel ut med
-mindre forskjeller enn en del andre land. I alle
-land er det for dem med videregående utdanning
-høyere relativt lønnsnivå for de som har studiespesialisering sammenlignet med de som har
-yrkesfaglig utdanning. Det kan virke paradoksalt
-ettersom den yrkesfaglige utdanningen er en
-avsluttende utdanning i motsetning til studiespesialisering. Det er derfor trolig andre forskjeller
-som ligger bak. Forskjellene er videre mindre i
-Norge enn i mange andre land, og her er de også
-mindre enn i resten av Norden.
-Tradisjonelt har man gjerne sett på forholdet
-mellom lønn og formell kompetanse, men dette
-kan skjule viktige institusjonelle forskjeller i tilgang til utdanning og utdanningstype og kvalitet,
-spesielt når man ser på tvers av land. Nyere
-forskning har derfor sett nærmere på forholdet
-mellom lønn, økonomisk vekst og mer direkte mål
-for ferdigheter, målt ved testresultater. Iversen og
-Strøm (2020) bruker data fra PIAAC-undersøkelsen (Programme for the International Assessment
-of Adult Competencies) til å se på hvordan sammenhengen mellom sysselsetting og ferdigheter
-varierer med lands ulike arbeidsmarkedsinstitusjoner. De finner at i land med institusjoner som
-gir en jevnere lønnsfordeling er det en sterkere
-sammenheng mellom kompetanse og sannsynligheten for å jobbe enn ellers. Dette er motsatsen til
-en svakere sammenheng mellom kompetanse og
-lønn i slike land.
-
-7.3.3 Innvandrere
-Andelen av Norges befolkning som er innvandrere, har økt kraftig de siste tjue årene, se nærmere omtale i kapittel 5. Det påvirker det norske
-arbeidsmarkedet. Innvandrere lønnes i snitt
-lavere enn befolkningen ellers. I 2022 tjente de
-14,7 prosent mindre enn befolkningen utenom
-innvandrere i samme alder (Bye, 2023). En annen
-gruppe som ikke er like stor, men som vi finner
-igjen i lavlønnsgruppen er utenlandske pendlere.
-Disse jobber i Norge, men har bosted i et annet
-land (omtalt som «ikke bosatte»).
-Figur 7.13 illustrerer at gruppen som har høyest forekomst under 2/3M-grensen er de ikkebosatte, mens innvandrerne er en mellomgruppe,
-og øvrige bosatte har lavest forekomst av lavlønn.
-De fleste av de lavtlønte årsverkene utføres likevel
-av øvrige bosatte, ettersom denne befolkningsgruppen er så mye større enn de andre to, se figur
-7.13. Bildet endres ikke i særlig grad av å øke
-grensen til 2. desil. Forekomsten av lavlønn og
-andelen av de lavtlønte mellom disse gruppene i
-perioden fra 20165 og fram til 2022 har heller ikke
-endret seg i vesentlig grad.
-Det er store forskjeller i nærings- og yrkesfordelingen mellom innvandrere og resten av befolk-
-
-5
-
-Vi har ikke sammenlignbare tall lenger tilbake i tid enn
-2016 på denne fordelingen.
-
-[Side 123]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-60
-50
-40
-30
-20
-10
-0
-Ikke bosatte
-
-Innvandrere
-
-Lavlønnsforekomst
-
-Øvrige bosatte
-
-Andel av lavtlønte
-
-Figur 7.13 Lavlønnsforekomst og andel av lavtlønte
-årsverk under 2/3M-grensen etter innvandringsstatus. Kun i jobb, uten lærlinger. Prosent. 2022
-Kilde: Statistisk sentralbyrå.
-
-ningen som også beskrevet i kapittel 5. I 2021 jobbet 13 prosent av innvandrere som renholdere og
-hjelpearbeidere6, mot 3 prosent av befolkningen
-ellers (Taha & Villund, 2023). Dette er yrker med
-stort innslag av lavlønn. Grini mfl. (2023a) viser
-også at innvandrere er overrepresentert i næringer med høyere innslag av lavlønn som overnatting og servering, helse- og sosialtjenester, varehandel og forretningsmessig tjenesteyting. Det er
-også en høyere andel innvandrere som jobber deltid enn i befolkningen ellers (Pettersen, 2023) og
-som er midlertidig ansatt, se kapittel 8. Svarstad
-og Dapi (2023) finner også en tydelig sammenheng mellom innvandrerandelen og lavlønnsandelen i virksomheter i privat sektor.
-At innvandrere i større grad enn den øvrige
-befolkningen jobber i yrker med mye lavlønn kan
-skyldes at innvandrere har gått inn i eksisterende
-lavlønnsjobber som øvrig befolkning tidligere har
-hatt. I tillegg kan det henge sammen med at
-typiske lavlønnsnæringer har kunnet ekspandere
-når tilgangen på arbeidskraft som aksepterer lave
-lønninger har økt (Hoen mfl., 2021).
-Norskfødte med innvandrerforeldre tar høyere utdanning i større grad enn både sine foreldre
-og befolkningen ellers. De gjør det i gjennomsnitt
-6
-
-Hjelpearbeidere finnes innenfor flere næringer som bygg
-og anlegg, industri og kjøkkenassistenter. Typisk er dette
-ufaglært arbeid. For yrker i dette feltet kreves det ferdigheter tilsvarende 9-årig grunnskole. Renholdere kan ha
-fagbrev.
-
-121
-
-Kapittel 7
-
-klart bedre på arbeidsmarkedet enn innvandrerne
-(Meld. St. 17 (2023–2024)).
-Som omtalt i kapittel 5 jobber de fleste utenlandske pendlerne i deler av bygg- og anlegg eller
-forretningsmessig tjenesteyting (inkluderer utleie
-av arbeidskraft), men det er også mange innenfor
-lavlønnsnæringer som overnatting og servering.
-Jordfald mfl. (2021), som ser på arbeidstakere
-mellom 20–67 år i perioden 2008–2018, finner at
-under 85Ind-grensen er det flere utenlandsfødte
-enn norskfødte i aldersgruppen 32–44 år, mens
-norskfødte dominerer blant de yngste og de eldste aldersgruppene. Ved også å trekke inn kjønn i
-analysen, finner Jordfald mfl. (2021) at kvinner
-utgjør flertallet under denne lavlønnsgrensen
-blant de norskfødte, mens blant de utenlandsfødte
-er det klart flest menn. De finner også at det er
-betydelige forskjeller når de ser på hvilke land de
-utenlandsfødte kommer fra og hvordan de fordeler seg i forhold til 85Ind-grensen. Den desidert
-største landgruppa utgjøres av dem som er født
-utenfor EU-området. Av disse var 45 prosent
-under 85Ind-grensen i 2018. Den nest største
-gruppa er fra EU-Øst, og blant dem var forekomsten 52 prosent under denne grensen (Jordfald
-mfl., 2021). Den tredje største gruppen er de som
-ikke hadde fått registrert fødeland enda.
-
-7.3.4 Kjønn
-Det norske arbeidslivet er fremdeles kjønnsdelt.
-Kvinner og menn dominerer i forskjellige yrker.
-Selv om forskjellene har blitt mindre, er andelen
-kvinner som jobber deltid, fortsatt stor sammenlignet med menn. Menn og kvinner jobber også i
-stor grad i ulike sektorer og næringer. I 2022 var
-nesten 70 prosent av alle som jobbet i offentlig
-sektor kvinner (Fløtre & Strand, 2024), mens 60
-prosent av alle som jobber i privat sektor var
-menn. Det innebærer at det er mange flere menn
-som jobber i privat enn i offentlig sektor, mens
-kvinner fordeler seg likt mellom sektorene. Kvinner har høyere forekomst av lavlønn enn menn, se
-figur 7.14. Selv om sysselsettingsgraden er litt
-lavere blant kvinner enn blant menn, utfører kvinner 55 prosent av årsverkene under 2/3M-grensen. Blant de som tjener under 2/3M-grensen, er
-gjennomsnittslønnen den samme for både kvinner
-og menn. Øker vi grensen og ser på årsverkene
-under 2.desil blir forskjellen i andelene noe mindre med 51 prosent kvinner og 49 prosent menn.
-Jordfald mfl. (2021) finner noe høyere andel
-menn blant de lavtlønte når de ser på kun heltidsansatte og bruker 85lnd-grensen. Kvinneandelen
-
-[Side 124]
-
-122
-
-NOU 2024: 11
-
-Kapittel 7
-
-Lavlønn i Norge
-
-60
-
-70
-60
-
-50
-
-50
-40
-40
-30
-30
-20
-
-20
-
-10
-
-10
-0
-
-0
-Kvinner
-
-Menn
-
-Organsierte
-
-Lavlønnsforekomst
-
-Andel av lavtlønte
-
-Lavlønnsforekomst
-
-Figur 7.14 Lavlønnsforekomst og andel av lavtlønte
-årsverk under 2/3M-grensen etter kjønn. Kun i jobb,
-uten lærlinger. Prosent. 2022
-Kilde: Statistisk sentralbyrå.
-
-blant de lavtlønte etter denne grensen er minst i
-midten av tjueårene, men stiger med alderen.
-Kvinneandelen er høyest blant de eldre arbeidstakerne, og særlig er det mange lavtlønte voksne
-kvinner i offentlig sektor (Jordfald mfl., 2021).
-Kvinner har de siste årene økt sin utdanningslengde og utgjør nå den største gruppen av de
-med universitets- og høyskoleutdanning (Grini &
-Fløtre, 2023). Forskjellen i lengden på utdanningen trekker isolert sett lønnsforskjellene mellom
-kvinner og menn ned (Grini & Fløtre, 2023), mens
-fordelingen mellom utdannelsesretninger ser ut
-til å trekke dette lønnsgapet opp (Eika & Kirkebøen, 2023).
-
-7.3.5 Fagforeningsmedlemskap
-Som omtalt i kapittel 4, hadde organisasjonsgraden
-sin topp i Norge på begynnelsen av 1980-tallet og
-1990-tallet for så å falle til rundt 50 prosent. Den har
-vært relativt stabil på 50 prosent fra 2007 (Nergaard, 2022). Organisasjonsgraden er langt lavere
-blant de med lave lønninger. Ved å koble skatte- og
-lønnsstatistikken er det mulig å se medlemskap i
-fagforening og lønn i sammenheng. Av årsverkene
-under 2/3M-grensen er det kun 22 prosent som er
-organiserte, mens de uorganiserte utfører syv av ti
-lavlønnsårsverk, se figur 7.15. Grini mfl. (2023a)
-finner at for de 20 prosent lavest lønnede øker
-
-Uorganiserte
-Andel av lavtlønte
-
-Figur 7.15 Lavlønnsforekomst og andel av lavtlønte
-årsverk under 2/3M-grensen etter fagforeningsmedlemskap. Kun i jobb, uten lærlinger. Prosent.
-2021
-Kilde: Statistisk sentralbyrå.
-
-andelen organiserte til 45 prosent. Videre oppover
-lønnsfordelingen er denne andelen stigende, før
-den faller blant de høyest lønte. Grini mfl. (2023a)
-finner også at fagforeningsmedlemskap er systematisk lavere blant jobbene under 2/3M-grensen
-for samtlige næringer. I overnatting og servering er
-andelen med fagforeningsmedlemskap lavere enn
-de fleste andre næringer, både for jobber over og
-under 2/3M-grensen. I varehandel er også andelen
-med fagforeningsmedlemskap forholdsvis lav, spesielt blant dem under grensen. Figur 7.15 viser
-også at forekomsten av lavlønn er mye høyere blant
-de uorganiserte.
-Eika mfl. (2024) finner at organisasjonsgraden
-stiger vesentlig med virksomhetenes størrelse.
-Nergaard (2022) finner at organisasjonsgraden
-øker med alder, men også at yngre voksne, alderskategorien 30–34 år, har en organisasjonsgrad
-som samsvarer med gjennomsnittet for sektoren
-de er i. I privat sektor er organisasjonsgraden høyest blant lønnstakere på 55 år og mer. Arbeidstakere med lengre utdanning som mastergrad eller
-mer, er oftest organisert, mens organisasjonsgraden er lavere blant de som kun har grunnskole.
-Innvandrere har lavere organisasjonsgrad enn
-øvrige bosatte og forskjellen er størst blant dem
-med kort botid. Se også egen omtale av organisasjonsgrader i kapittel 4.
-
-[Side 125]
-
-123
-
-NOU 2024: 11
-Lavlønn i Norge
-
-7.4
-
-Hvem blir værende i lavlønnsjobber?
-
-I kapittel 6 vises det hvordan personer med lav
-lønn beveger seg i lønnsfordelingen over år. Mens
-andelen under 2/3M-grensen i 2022 var 6 prosent,
-viser tall fra de siste fem årene at rundt 2 prosent
-av alle lønnstakere har vært under 2/3M-grensen
-to år på rad, jf. figur 6.20 i kapittel 6. Andelen faller
-raskt dersom vi skulle se på treårig eller mer langvarig lavlønn etter denne definisjonen. De fleste
-med lav lønn har altså ikke dette over tid, men
-noen personer blir likevel værende i lavlønn i to
-eller flere år.
-Det er i stor grad de samme kjennetegnene
-som går igjen når vi går fra å se på ettårig til toårig
-lavlønn. Alder og utdannelsessammensetning
-endrer seg likevel noe, se figur 7.16. Andelen av
-de yngste går ned, og andelen med grunnskole
-som høyeste utdannelse øker sammenlignet med
-ettårig lavlønn. I tillegg er andelen innvandrere
-høyere blant toårig lavtlønte enn blant ettårig lavtlønte.
-
-Kapittel 7
-
-Endringene i utdannings- og alderssammensetning reflekterer at i mange tilfeller vil man
-bevege seg ut av lavlønnssegmentet i kraft av å bli
-eldre og få mer arbeidserfaring og ansiennitet.
-Endringer i utdanningsnivå kan også gi utslag i
-høyere lønn, enten i jobben man har, eller ved å
-skifte jobb. I noen lavproduktive jobber og næringer vil det likevel være mindre rom for å klatre
-lønnsmessig.
-Også Svarstad og Dapi (2022), som ser på mer
-varig lavtlønte etter en litt annen definisjon7, finner at unge er overrepresentert under lavlønns7
-
-Svarstad og Dapi (2022) ser på perioden 2015–2020. De
-definerer varig lavtlønte som en som har status lavtlønt
-minst tre av de fem siste årene, eventuelt i kombinasjon
-med å ikke være lønnstaker. Personer som har lønn over
-lavlønnsgrensa én eller flere ganger i perioden karakteriseres ikke som varig lavtlønte. De avgrenser populasjonen til
-lønnstakere i alderen 20–66 år, og utelater dermed de fleste
-lærlinger, skoleelever og alderspensjonister. Denne definisjonen betyr at når de skal beskrive varige lavtlønte vil det
-bare være personer i alderen 24–66 år, da de må være minst
-20 i starten av fire års perioden. Etter denne definisjonen
-finner de at 1,4 prosent av alle lønnstakere var lavtlønte
-etter 2/3M-definisjonen. 7,9 prosent var varig lavtlønte
-etter 85lnd-definisjonen.
-
-55 og over
-
-Alder
-
-45-54
-30-44
-25-29
-Under 25
-
-Høyeste fullførte
-utdanningsnivå
-
-Uoppgitt eller ingen fullført utdanning
-Universitets- eller høgskoleutdanning, lengre enn 4 år
-Universitets- eller høgskoleutdanning, til og med 4 år
-Utdanning på videregående skole-nivå
-
-Kjønn
-
-Innnvandrere
-
-Utdanning på grunnskolenivå
-Ikke bosatte
-Øvrige bosatte
-Innvandrere
-Kvinner
-Menn
-0
-
-10
-
-Ett år
-
-To år
-
-20
-
-30
-
-40
-
-50
-
-60
-
-Figur 7.16 Andel årsverk etter kjennetegn med ettårig og toårig lavlønn under 2/3M-grensen. Kun i jobb, uten
-lærlinger. Prosent. Ett år=2022, to år= 2021–2022
-Kilde: Statistisk sentralbyrå.
-
-[Side 126]
-
-124
-
-Kapittel 7
-
-NOU 2024: 11
-Lavlønn i Norge
-
-grensene. De bruker både en grense på 2/3M og
-en grense på 85Ind, og finner at andelen unge er
-høyere under 2/3M-grensen. De yngste er dermed overrepresentert blant de mer varig lavtlønte
-lengst nede i fordelingen. Etter begge lavlønnsgrensene øker andelen lavtlønte igjen over 60 år. I
-
-disse aldersgruppene er det flere som pensjonerer seg.
-Yngre personer beveger seg i snitt betydelig i
-lønnsfordelingen (Grini & Johansen, 2021). Dette
-er derimot i mindre grad tilfelle for de jobbene
-som starter i nederste desil. Kompetansen kan
-
-A Akvakultur
-A Jordbruk, skogbruk og fiske unntatt akvakultur
-C Industri
-F Bygge- og anleggsvirksomhet
-G Agentur- og engroshandel, unntatt med motorvogner
-G Detaljhandel, unntatt med motorvogner
-G Handel med og reparasjon av motorvogner
-H Landtransport med passasjerer og gods
-H Lufttransport
-H Sjøfart og kysttrafikk med passasjerer og gods
-H Transporttjenester og lagring og Post og distribusjonsvirksomhet
-I Overnattingsvirksomhet
-I Serveringsvirksomhet
-M Faglig, vitenskapelig og teknisk tjenesteyting
-N Arbeidskrafttjenester
-N Forretningsmessig tjenesteyting ellers
-N Reisebyråer og reisearrangører
-N Rengjøringsvirksomhet
-N Tjenester tilknyttet eiendomsdrift
-N Utleie- og leasingvirksomhet
-N Vakttjeneste og etterforsking
-P Undervisning
-Q Øvrige Helse- og sosialtjenester
-Q Sykehustjenester
-R Kultur, underholdning og fritid
-S Aktiviteter i medlemsorganisasjoner
-S Annen personlig tjenesteyting (frisering, kropspleie, vaskeri, begravelsesbyrå mm)
-S Reparasjon av varer til personlig bruk
-Andre næringer
-0
-Ett år
-
-2
-
-4
-
-6
-
-8
-
-10
-
-12
-
-14
-
-16
-
-18
-
-To år
-
-Figur 7.17 Andel årsverk etter næring med ettårig og toårig lavlønn under 2/3M-grensen. Kun i jobb, uten
-lærlinger. Prosent. Ett år=2022, to år= 2021–20221, 2
-1
-
-Andre næringer består av næringene Bergverksdrift og utvinning, Elektrisitets-, gass-, damp- og varmtvannsforsyning, Vannforsyning, avløps- og renovasjonsvirksomhet, Informasjon og kommunikasjon, Finansierings- og forsikringsvirksomhet, Omsetning og drift av fast eiendom, Offentlig administrasjon og forsvar, og trygdeordninger underlagt offentlig forvaltning, Annen tjenesteyting, Lønnet arbeid i private husholdninger, Internasjonale organisasjoner og organer og Ufordelt næring, som alle utgjør
-hver især under 2 prosent av jobbene under grensen, foruten «Annen tjenesteyting» som utgjør 3,1 prosent.
-2 Bokstavene uttrykker hvilken gruppering næringen inngår i «Standard for næringsgruppering (SN)». Dette er en statistisk standard og grunnlaget for er EUs standard NACE.
-Kilde: Statistisk sentralbyrå.
-
-[Side 127]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-også endres gjennom yrkeslivet og henger gjerne
-tett sammen med alder. Mer kompetanse kan
-innebære flere muligheter og bedre lønnsutsikter.
-Grini og Johansen (2021) finner en klar tendens til
-at høyere utdanningsnivåer gir større bevegelser i
-lønnsfordelingen uavhengig av om høyeste utdannelse endrer seg eller ikke.
-Svarstad og Dapi (2022) finner også indikasjoner på at lønnstakere med utenlandsk landbakgrunn er noe overrepresentert blant de med lav
-lønnsmobilitet. For innvandrere er samtidig overrepresentasjonen litt større målt for lavlønn målt
-ved 85Ind-grensen enn for lavlønn målt ved 2/3Mgrensen. Her er det altså ikke samme konsentrasjon nederst i fordelingen som for de unge. Taha
-og Villund (2023) finner tegn på lavere lønnsmobilitet for innvandrere ved at færre går over i yrker
-med høyere lønnsnivå. 45 prosent av innvandrere
-som jobbet som renholdere og hjelpearbeidere i
-2007 var i samme yrke i 2021, mot 29 prosent for
-befolkningen ellers. En av åtte innvandrere hadde
-gått over i akademiske yrker og lederyrker, mens
-det for befolkningen ellers var én av fire.
-Det er stor forskjell mellom aldersgruppene,
-og det er større andel av de over 40 år som blir
-værende i samme yrke. Det kan ha sammenheng
-med at flere yngre har lengre utdanning (Taha &
-Villund, 2023).
-Botid brukes gjerne som en indikator på
-språkferdigheter, arbeidserfaring og andre faktorer som trekker i retning høyere lønn. Taha og
-Villund (2023) finner at innvandrere som hadde
-bodd i Norge i over ti år i 2007, forble renholdere
-og hjelpearbeidere i større grad enn de med kortere botid. En nærliggende tolkning kan være at
-de som fortsatt er i jobber med lav lønn etter ti år
-er en selektert gruppe med blant annet annen
-utdanningsbakgrunn enn de som er jobber med
-lav lønn i kun ett år. Undersøkelsen belyser imidlertid ikke om de som forblir i samme yrker har
-en lønnsutvikling i disse jobbene over tid ut fra
-økt erfaring og kompetanse ervervet i jobben. Det
-er særlig kvinner med innvandrerbakgrunn som
-blir værende i disse yrkene over flere år.
-Til tross for at andelen med lav lønn mer enn
-halverer seg fra 6 til 2 prosent når vi går fra ettårig
-til toårig lavlønn, endrer ikke næringssammensetningen seg blant andelen årsverk under grensen i
-særlig stor grad, se figur 7.17. Det er også de
-samme yrkesgruppene som er mest utsatt for lavlønn av noe lengre varighet som for ettårig lavlønn. Svarstad og Dapi (2022) finner at et stort
-flertall av mer varig lavtlønte jobber innenfor salg
-og service, hvor butikkmedarbeidere er en stor
-
-125
-
-Kapittel 7
-
-yrkesgruppe. Den nest største andelen finner de i
-kategorien med renholdere, hjelpearbeidere mv. I
-mange av yrkene med store andeler av mer varig
-lavtlønte, er det lave krav til formell utdannelse,
-de er stort sett tjenesteytende yrker, og det er
-mye bruk av deltid. Kvinneandelen er også høy i
-mange av de samme yrkene (Svarstad og Dapi,
-2022). Figur 7.16 viser at avstanden i andelen mellom kvinner og menn øker når vi går fra ettårig til
-toårig lavlønn, men Svarstad og Dapi (2022) finner
-at overrepresentasjonen av kvinner er mindre
-blant mer varig lavtlønte enn blant de som har lav
-lønn i ett år.
-Grini mfl. (2020) tar utgangspunkt i personer
-som er ferdigutdannet i 2007 og følger dem de
-første ti årene i yrkeslivet. Resultatene deres viser
-at personer i utvalget med særlig lav lønnsvekst er
-kjennetegnet ved at de har kort utdanning og at
-de jobber i særskilte yrker. Det omfatter yrker
-som frisører, butikkselgere, barnehage- og skoleassistenter, pleiemedarbeidere, bil-, drosje- og
-varebilsjåfører, renholdere og reisebyrå-, resepsjons- og andre opplysningsmedarbeidere. Videre
-viser de at ansatte i disse yrkene også har lav lønn
-i begynnelsen av yrkeskarrieren. Resultatene indikerer dermed at personer i disse yrkene er særlig
-utsatt for å ha vedvarende lav lønn (Grini mfl.,
-2020).
-Skifter i arbeidslivet som å bytte jobb, endre
-næringstilhørighet eller arbeidssted virker inn på
-lønnsutviklingen. Grini mfl. (2023a) ser på hvorvidt personer i lavlønnsgruppen endrer jobb over
-perioden. Av de som blir værende i lavlønnsgruppen perioden 2017–2022, eller går ned i lavlønnsgruppen er det om lag 50 prosent som endrer
-hovedjobb. Av de som går ut av lavlønnsgruppen
-er det 65 prosent som endrer hovedjobb.
-Størrelsen på virksomhetene kan ha noe å si for
-lønnsutviklingen. Store virksomheter kan i større
-grad ha et internt arbeidsmarked med rom for forfremmelser og lønnsøkning. Grini og Johnsen
-(2021) finner en tydelig tendens til at de i jobber i
-større virksomheter beveger seg mer i lønnsfordelingen enn de i jobber i mindre virksomheter blant
-de som starter i de nederste desilene. I store virksomheter kan det derfor være bedre muligheter for
-at en lavt lønnet jobb fungerer som en inngang til
-høyere lønnede jobber i samme virksomhet. Sammensetningen av lønnstakere og andelen med lavlønn kan også ha betydning. Wilmers og Kimball
-(2022) finner at lavtlønte har mer å tjene på å bytte
-arbeidsplass enn å bytte jobb internt, og at dette
-mye handler om at de er ansatt på steder med få
-muligheter for å få jobber med høyere lønn.
-
-[Side 128]
-
-126
-
-Kapittel 7
-
-7.5
-
-NOU 2024: 11
-Lavlønn i Norge
-
-Utvalgets vurderinger
-
-Arbeidsmarkedet fylles hele tiden med nye lønnstakere og jobber, samtidig som jobber forsvinner,
-og lønnstakere går ut. Det er likevel noen typiske
-kjennetegn ved personer som blir værende i lavlønn, og ved jobber som forblir lavt lønnet over tid.
-De fleste lavlønnsjobbene er i privat sektor, og forekomsten av lavlønn sammenlignet med antall jobber i sektoren er også høyest her. Det siste gjelder
-særlig serveringsvirksomhet, men også rengjøring
-og deler av detaljhandelen. Det gjelder også pleieog omsorgstjenester, som vi finner både i privat og
-offentlig sektor. Lavlønn er vanligere i deltidsjobber enn i heltidsjobber. Et fellestrekk på tvers av
-sektorene er at mange av jobbene ikke anses å
-kreve en spesiell kompetanse.
-Det er betydelig mer lavlønn i virksomheter
-uten, enn i virksomheter med, tariffavtale. Analyser tyder videre på at lavlønn er mer utbredt i virksomheter med lav lønnsevne enn i virksomheter
-med gjennomsnittlig eller høy lønnsevne. I tillegg
-ser det ut til at det er i de minste virksomhetene at
-lavlønnsforekomsten er størst, og at dette gjelder
-for de aller fleste næringer. Dette kan henge
-sammen. Små virksomheter har i mindre grad
-tariffavtale. Høy lønnsevne kan bidra til sterkere
-insentiver til å organisere seg på arbeidsplassen
-for å sikre at en større del av verdiskapingen tilfaller arbeidstakerne.
-Det er også noen grupper som oftere har lavlønnsjobber enn andre. Forekomsten av lavlønn er
-høyere blant ikke-bosatte og innvandrere enn
-blant resten av befolkningen. Det samme gjelder
-blant unge og blant personer med lite utdanning.
-
-Kvinner er også noe overrepresentert blant lavlønte. Sentralitet ser ikke ut til å ha stor betydning
-for lavlønn.
-I noen grad kan både innvandringsbakgrunn
-og alder speile mindre relevant kompetanse eller
-svake språkkunnskaper i norsk. Det er likevel
-også en stor andel av lavlønnsjobbene som innehas av personer i tretti- og førtiårene og av bosatte
-som ikke er innvandrere, siden disse gruppene er
-store. De fleste lavtlønte er ikke organiserte i en
-fagforening.
-I all hovedsak er det de samme gruppene og
-jobbene som har lavlønn i ett enkelt år og over
-flere år. Yngre arbeidstakere og arbeidstakere
-med høyere utdanning beveger seg relativt mer i
-lønnsfordelingen enn andre. Utdanning beskytter
-i stor grad mot lavlønn.
-Hvilke jobber som har mye lavlønn, kan endre
-seg over tid. Selv med uendret lønnsfordeling, kan
-hvilke jobber som er lavtlønte og kjennetegn ved
-personene som innehar dem, forandre seg. Begge
-deler kan ha betydning for eventuelle tiltak. Det er
-derfor viktig å følge med på utviklingen i kjennetegn ved lavlønn.
-Alle beskrevne sammenhenger viser samvariasjon på et generelt nivå der bildet kan være forskjellig mellom næringer. Samvariasjon innebærer heller ikke nødvendigvis årsakssammenhenger. Virkningene kan gå i mange retninger.
-Eksempelvis jobber unge og deltidsansatte ofte i
-næringer der forekomsten av lavlønn er høy. Å ha
-mange ansatte per årsverk og å ha ansatte uten
-særlig erfaring, kan samtidig gjøre det vanskelig å
-få organisert arbeidet mest mulig effektivt og dermed trekke produktiviteten og lønnsevnen ned.
-
-[Side 129]
-
-NOU 2024: 11
-Lavlønn i Norge
-
-127
-
-Kapittel 8
-
-Kapittel 8
-
-Alternative tilknytningsformer
-8.1
-
-Innledning
-
-Selv om det vanlige i norsk arbeidsliv er fast ansettelse, kan arbeidskraftbehov også dekkes ved
-midlertidige stillinger, innleie av arbeidskraft og
-gjennom avtaler med selvstendige. Utsatte grupper på arbeidsmarkedet har i snitt høyere sannsynlighet for å være i en slik alternativ tilknytningsform (Cools mfl., 2023). Det er derfor relevant å se på omfanget av lavlønn blant disse gruppene og på mobiliteten over i høyere lønn og/eller
-i fast jobb. I enkelte land har også alternative tilknytningsformer (atypisk arbeid) blitt stadig mer
-utbredt, men en slik utvikling har vi ikke sett i
-Norge. Omfang og utvikling over tid av slike tilknytningsformer omtales i punkt 8.2. I punkt 8.3
-drøftes omfanget av lavlønn blant midlertidig
-ansatte og personer som leies ut fra bemanningsforetak. 8.4 ser nærmere på personer med lav
-yrkesinntekt. Det er noe annet enn lavlønn, men
-kan belyse utviklingen av de alternative tilknytningsformene innenfor segmenter som er relevante for utvalgets vurderinger. Her omtales også
-mobilitet ut av de ulike tilknytningsformene.
-Utvalgets vurderinger følger i punkt 8.5.
-
-8.2
-
-Omfang av alternative
-tilknytningsformer
-
-I Norge følger det av arbeidsmiljøloven at arbeidstakere som hovedregel ansettes fast og på heltid.
-En del virksomheter har likevel behov utover det
-som kan dekkes av de fast ansatte på hel- eller deltid og ved overtidsarbeid. Behovet for arbeidskraft kan variere og skape behov for at den faste
-bemanningen suppleres med ulike tilknytningsformer for kortere eller lengre tidsrom. Velutviklede velferdsordninger fordrer også en viss
-fleksibilitet i ansettelsesregelverket, f.eks. ved
-permisjoner. Et slikt behov kan løses ved midlertidige ansettelser, innleie av arbeidskraft, avtaler
-med selvstendige oppdragstakere eller kjøp av tjenester fra andre virksomheter. Enkelte arbeidsta-
-
-kere kan også selv ønske en annen tilknytning til
-arbeidslivet enn det som er mest vanlig.
-I norsk sammenheng er det vanlig å skille mellom fire hovedformer for tilknytninger (NOU
-2021: 9):1, 2
-1. Fast ansettelse i heltid- eller deltidsstilling.
-2. Midlertidig ansettelse.
-3. Innleie av arbeidstakere fra en annen virksomhet eller bemanningsforetak.
-4. Bruk av selvstendig oppdragstaker/frilanser.
-Definisjonen av alternativ eller atypisk tilknytningsform kan variere, men den vanligste definisjonen er et arbeidsforhold som ikke er «fast»,
-«typisk» eller «tradisjonelt» (Cools mfl., 2023).
-Abraham mfl. (2018) definerer en tradisjonell
-(typisk) jobb som en jobb som har en varig
-arbeidskontrakt, forutsigbar arbeidstid/timeplan
-(«work schedule») og lønn, og som samtidig er
-underordnet virksomheten som betaler lønnen.
-Alternative tilknytningsformer ble grundig
-behandlet i Fougner-utvalget (NOU 2021: 9), og
-flere av forslagene for å øke bruken av faste ansettelser er fulgt opp i regelverket. Blant annet er den
-generelle adgangen til midlertidig ansettelse i
-arbeidsmiljøloven opphevet, noe som ble begrunnet med et ønske om å styrke arbeidstakeres rett
-til fast ansettelse og legge til rette for et trygt og
-organisert arbeidsliv.3 Utover de tre alternative tilknytningsformene som gjennomgås her, altså
-selvstendig næringsdrivende4, midlertidig ansatte
-og innleide fra bemanningsbyråer, fins det ulike
-typer arbeid som befinner seg i en gråsone. Det er
-1
-
-2
-
-3
-4
-
-Entreprise er ikke en tilknytningsform, men en tjenestekontrakt mellom virksomheter. Det omtales ikke i kapitlet
-og dermed belyses heller ikke betydningen av eventuelt
-outsourcing/oppsplitting av virksomheter.
-NOU 2021: 9 Den norske modellen og fremtidens arbeidsliv
-side 102 flg. Deres inndeling omfatter også kjøp av tjenester fra andre virksomheter (entreprise), men det er som
-nevnt ikke tema for denne utredningen.
-Fra 1. mars 2022.
-Se boks 8.3 om begrepene selvstendige, selvstendig
-næringsdrivende, selvstendige oppdragstakere og frilansere.
+I 2022 var det 11 prosent av alle ansatte i utleie av arbeidskraft som hadde lønn under 2/3M-grensen for utvalget «kun i jobb». Sammenlignet med midlertidig ansatte er altså forekomsten av lavlønn nesten halvert, samtidig som den er nesten dobbelt så høy som blant alle sysselsatte. 65 prosent av de innleide under grensen jobbet heltid og om lag 70 prosent var fast ansatt. Fra perioden 2017 til 2022 har andelen av utleide med lav lønn i utleie av arbeidskraft gått ned fra 13 prosent i 2017.
+
+## Omfang av alternative tilknytningsformer blant personer med lav yrkesinntekt
+
+I det følgende baserer analysen seg til dels på ISF-rapportene «Atypisk arbeid som hovedtilknytning i arbeidslivet, 1995–2021» og «Atypisk arbeid blant personer med lav inntekt i Norge, 1997–2021» av Cools, Hoen og Strøm, hvor sistnevnte ble utarbeidet på bestilling av Lavlønnsutvalget 2024. Rapportene viser tall for utviklingen i alternative, eller atypiske, tilknytningsformer i arbeidslivet i perioden 1997–2021 for henholdsvis alle sysselsatte og for personer med lav yrkesinntekt. Lav yrkesinntekt er definert ut fra årlig yrkesinntekt relativt til årslønn for heltidsansatte, beregnet av SSB. Grensen er satt til 2/3 av medianlønn for heltidsansatte mellom 20–66 år, som tilsvarer omtrent 380 000 kroner i 2021.[^54]
+
+Cools mfl. (2024) benytter årlig lønns- og næringsinntekt fra skatteregisteret for å vurdere om en persons yrkesinntekt (summen av lønns- og næringsinntekt[^55]) er under grensen for lavlønn i et gitt år. Inntektsstatistikken sier ikke noe om hvor mye man har vært i arbeid i løpet av et år. Hvis man kun har jobbet deler av året, vil man derfor mye lettere havne under 2/3M-grensen, som er beregnet ut ifra lønn for en heltidsstilling for hele året. Hvor mange som har en yrkesinntekt under denne grensen sier derfor ikke noe om hvor mange som har lav lønn på et gitt tidspunkt. Det er heller ikke justert for arbeidstid fordi det ikke fins opplysninger om selvstendige næringsdrivendes arbeidstid, og fordi informasjonen om innleides arbeidstid er av svak kvalitet.
+
+Populasjonen som analyseres i Cools mfl. (2024) er også forskjellig fra den som er brukt i tidligere kapitler. Analysene gjort av utvalget baserer seg i hovedsak på lønnsstatistikken for personer som kun er i jobb, mens analysene i Cools mfl. (2024) omfatter alle personer som har yrkesinntekt. Cools mfl. (2024) har sett på hovedarbeidsforholdet til alle bosatte personer med lav yrkesinntekt i aldersgruppen 20–66 år og begrenser seg til de som har aktive arbeidsforhold per 1. oktober. Med selvstendige næringsdrivende menes de som har næringsinntekter som er høyere enn både lønnsinntekter og ett grunnbeløp i folketrygden, og som ikke er fulltidsansatte (over 30 timer per uke) per 1. oktober. Midlertidig ansatte er definert som de som har et arbeidsforhold med en varighet under tolv måneder i sin best betalte jobb per 1. oktober hvert år. Fast ansatte er i denne sammenheng definert som de som har et arbeidsforhold med varighet over tolv måneder i sin best betalte jobb per 1. oktober hvert år. Ansatte i bemanningsbyrå er alle som i sin best betalte jobb per 1. oktober hvert år er ansatt i virksomheter som er registrert i næringen «utleie av arbeidskraft».
+
+Med disse forbeholdene kan tallene likevel illustrere noen trekk ved de alternative tilknytningsformene. Cools mfl. (2024) finner at de alternative tilknytningsformene ikke dominerer blant personer med lav yrkesinntekt. Andelen med en alternativ tilknytningsform utgjør likevel rundt 20 prosent av alle sysselsatte med lav yrkesinntekt. Andelen er dobbelt så høy som andelen med alternativ tilknytningsform blant alle sysselsatte uavhengig av inntekt. Her er det verdt å merke seg at populasjonen under 2/3M-grensen er mye større ved bruk av dette tallgrunnlaget enn i kapittel 7, der andelen med lavlønn til sammenligning er 6 prosent. Dette skyldes som nevnt over, at inntektsstatistikken ikke sier noe om hvor mye eller hvor lenge man har vært i arbeid i løpet av et år.
+
+I figur 8.3 vises andelen med lav yrkesinntekt for de ulike alternative tilknytningsformene. Ved å sammenligne med figur 8.1 ser vi at utviklingen i stor grad følger utviklingen for alle sysselsatte i alternative tilknytningsformer.
+
+Tilknytningsform i hovedarbeidsforhold, som andel av alle sysselsatte med lav yrkesinntekt. 20–66 år. Prosent. 1997–2021<sup>1</sup>
+
+<sup>1</sup> Brudd i statistikken i 2015.
+
+Kilde: Cools mfl. (2024).
+
+I de neste avsnittene tar vi for oss de ulike alternative tilknytningstypene hver for seg og ser på hvordan utviklingen har vært de siste 25 årene.
+
+I alle tilknytningsformene er det 13–16 prosent som er studenter og rundt 30 prosent som kun har utdannelse på grunnskolenivå i utvalget av personer med lav yrkesinntekt (Cools mfl., 2024). For hele befolkningen er andelene med utdanning på grunnskolenivå noe lavere.
+
+For å undersøke om lav yrkesinntekt er vedvarende ser vi også nærmere på mobiliteten ut og inn av lav yrkesinntekt. Blant sysselsatte med lav yrkesinntekt er det mellom 20 og 40 prosent som ikke har lav yrkesinntekt året etter. Andelene som går ut av lavinntekt fra ett år til et annet er ulik mellom de ulike tilknytningsformene.
+
+### Midlertidig ansatte
+
+Det vanligste av de alternative arbeidsforholdene under lav yrkesinntektsgrense de siste 25 årene er å være midlertidig ansatt, jf. figur 8.3 over. Andelen midlertidige med lav yrkesinntekt var stort sett økende fram mot pandemien i 2020. I siste del av perioden lå de korte midlertidige ansettelsene, under tolv måneder, på om lag 12 prosent. Mange midlertidige jobber varer lenger enn ett år. Disse fanges imidlertid ikke opp i registerdataene før i 2021, da de ble innført som en del av registreringen i A-ordningen (Cools mfl., 2024). Målt direkte i A-ordningen var andelen midlertidige jobber med lav yrkesinntekt på 20 prosent i 2021, se prikken i figur 8.3. For å vurdere om dette var relativt høyt eller lavt sett i forhold til alle sysselsatte kan vi sammenligne disse andelene med det som framgår av figur 8.1 i punkt 8.2.1. Denne viser at midlertidige ansettelser også var den vanligste av de alternative tilknytningsformene blant alle sysselsatte etter 2015. Andelene midlertidige blant alle sysselsatte (8 prosent målt direkte i A-ordningen), er mye lavere enn blant dem med lavinntekt.
+
+Adgangen til midlertidig ansettelse
+
+Etter arbeidsmiljøloven § 14-9 kan det inngås avtale om midlertid ansettelse:
+
+a\. når arbeidet er av midlertidig karakter
+
+b\. for arbeid i stedet for en annen eller andre (vikariat)
+
+c\. for praksisarbeid
+
+d\. med deltaker i arbeidsmarkedstiltak i regi av eller i samarbeid med arbeids- og velferdsetaten
+
+e\. med idrettsutøvere, idrettstrenere, dommere og andre ledere innen den organiserte idretten.
+
+I 2015 ble det innført en bestemmelse om generell adgang til midlertidig ansettelse for en periode på inntil tolv måneder, uten krav om særlig begrunnelse. Slike avtaler kunne omfatte inntil 15 prosent av arbeidstakerne i virksomheten. I en karensperiode på tolv måneder kunne ikke arbeidsgiver foreta nye midlertidige ansettelser på generelt grunnlag for arbeidsoppgaver av samme art. Bestemmelser knyttet til denne generelle adgangen til midlertidige ansettelser ble opphevet fra 1. juli 2022. Opphevelsen ble begrunnet med at bestemmelsen ikke virket etter «det formålet som ble fremhevet som den mest sentrale begrunnelsen for innføringen»; å lette inngangen til arbeidsmarkedet for personer som av ulike årsaker har redusert arbeidsevne og dermed usikker produktivitet, eller som av andre grunner lettere faller utenfor arbeidslivet enn andre.<sup>1</sup> Foreliggende statistikk og kartlegginger viste dessuten at bestemmelsen ble benyttet i liten grad.
+
+<sup>1</sup> Prop. 35 L (2021–2022) *Endringer i arbeidsmiljøloven (midlertidig ansettelse)* side 12
+
+\[Boks slutt\]
+
+Mobilitet for midlertidig ansatte
+
+Alternative tilknytningsformer vil oppleves som mindre negativt for den enkelte dersom det utgjør en kort periode, og for eksempel fungerer som et springbrett til fast arbeid (Cools mfl., 2023). Blant sysselsatte med lav yrkesinntekt har faste og midlertidig ansatte omtrent samme sannsynlighet for å ha inntekt over lavinntektsgrensen året etter. Det er om lag 20 prosent av de midlertidige med lav yrkesinntekt som har yrkesinntekt over grensen etter ett år, resten blir værende. Det var vanligere i starten av observasjonsperioden, 1997, for midlertidige å oppnå lønn over grensen et år senere enn det var mot slutten av observasjonsperioden, 2021.
+
+Adgangen til å ansette midlertidig vil i noen tilfeller gå på bekostning av faste ansettelser og i andre tilfeller føre til flere ansettelser. Å ansette noen midlertidig innebærer mindre omfattende forpliktelser for en virksomhet enn å ansette noen fast. Det kan bety at arbeidsgivere blir mer villige til å gjennomføre ansettelser, samtidig som konkurransen om de midlertidige jobbene vanligvis vil være mindre. For personer som sliter med å få jobb, kan derfor midlertidige jobber gi en enklere inngang til arbeidslivet. Samtidig vil faste ansettelser kunne gi sterkere kompetanseoppbygging fordi både den ansatte og virksomheten ofte investerer mer i et fast ansettelsesforhold. En fast ansettelse reduserer derfor faren for å falle ut av arbeidslivet mer enn en midlertidig ansettelse.
+
+Cools mfl. (2023) gjengir en litteraturstudie av artikler om overgang mellom midlertidig og fast ansettelse. Litteraturstudien ser på midlertidig ansettelse generelt og gjelder ikke utelukkende personer med lav yrkesinntekt. Noen studier finner høye overgangsrater fra midlertidige jobber til fast arbeid, altså at midlertidig ansettelse fungerer som et springbrett til arbeidslivet.
+
+Cools mfl. (2023) peker samtidig på at midlertidige ansettelser per definisjon er kortvarige. De gir både mindre forutsigbarhet og f.eks. dårligere tilgang på lån. Mange midlertidige jobber vil også kunne gi lavere kompetanseheving ettersom oppgavene kan påvirkes av et kort tidsperspektiv. I tillegg kan både arbeidstaker og arbeidsgiver ha mindre grunn til å investere i kompetansehevende tiltak når ansettelsen er midlertidig. Dette kan trekke i retning av lavere lønnsvekst for den enkelte.
+
+Om lag 40 prosent av de midlertidige ansatte med lav yrkesinntekt blir fast ansatte etter ett år, og omtrent like mange faller ut av sysselsetting. Denne utviklingen har endret seg over tid; før 2015 var det vanligere å falle ut av sysselsetting for de midlertidige med lav yrkesinntekt, mens etter 2015 er det vanligere for de midlertidige å gå over i en fast stilling. En ikke ubetydelig andel på om lag 20 prosent forsetter å være midlertidig også etter ett år. Cools mfl. (2024) finner at midlertidig ansatte med lav yrkesinntekt har lavere sannsynlighet for å bli fast ansatt etter ett år enn midlertidige i hele befolkningen, samt at andelen som går ut av sysselsetting fra ett år til et annet er også høyere blant midlertidig ansatte med lav yrkesinntekt enn blant alle midlertidig ansatte.
+
+Overgangsandelen ut av sysselsetting for midlertidig ansatte med lav yrkesinntekt er på nivå med overgansandelen for innvandrere og personer med lav utdanning. Innvandrere og personer med lav utdanning har høyere risiko for å falle ut av sysselsetting enn andre.
+
+Svalund og Berglund (2018) studerer risikoen midlertidig ansatte har til å havne i en marginalisert posisjon i arbeidsmarkedet fem år etter, med lav inntekt, arbeidsledighet eller mottak av sosialhjelp i Norge og Sverige. Studien finner at risikoen for slik marginalisering var langt høyere for midlertidig ansatte enn fast ansatte, men langt lavere enn for arbeidsledige.
+
+### Innleie/utleie
+
+Cools mfl. (2024) finner at andelen som er ansatt i et bemanningsbyrå er liten i forhold de til to andre alternative tilknytningsformene, både blant alle sysselsatte og blant de sysselsatte med lav yrkesinntekt. Likevel er andelen ansatt i bemanningsbyrå mer enn doblet fra 1997 til 2021 både i hele økonomien, fra 0,4 til 1,3 prosent, og blant sysselsatte med lav yrkesinntekt, fra 1,3 til 2,7 prosent. Innleieforbudet fra 1971 ble opphevet i 2000, men det var først etter EU-utvidelsen i 2004 at andelen innleide økte til et høyere nivå, se både figur 8.1 og 8.2.
+
+Innleie
+
+Fra 1. april 2023 ble adgangen til innleie fra bemanningsbyråer strammet inn ved at den tidligere adgangen til innleie «når arbeidet er av midlertidig karakter» ble opphevet. Arbeidsmiljøloven angir hvilke situasjoner det er lov til å leie inn arbeidstakere fra bemanningsforetak.
+
+Framstillingen her omhandler innleie i virksomheter som omfattes av arbeidsmiljøloven. Statsansattelovens innleieregler fraviker arbeidsmiljølovens innleieregler på noen punkter, og omtales ikke nærmere her.<sup>1</sup>
+
+Innleie er regulert i arbeidsmiljøloven kapittel 14, og innebærer at en virksomhet (innleier) leier inn en arbeidstaker fra en annen virksomhet (utleier) for en tidsbegrenset periode. Den utleide arbeidstakeren er ansatt hos utleier, men arbeider hos innleier under dennes tilsyn og ledelse. Innleie kan skje fra virksomhet som har til formål å drive utleie (bemanningsforetak) eller fra virksomhet som ikke har til formål å drive utleie (produksjonsbedrift). Det kan leies inn fra bemanningsforetak for arbeid i stedet for en annen (vikariater), for praksisarbeid, i forbindelse med arbeidsmarkedstiltak i regi av eller i samarbeid med arbeids- og velferdsetaten og i forbindelse med idrett (idrettsutøvere, dommere og andre ledere innen den organiserte idretten).
+
+Det er også lov å leie inn arbeidstakere fra bemanningsforetak dersom innleievirksomheten er bundet av tariffavtale med en større fagforening<sup>2</sup>, og har inngått avtale med tillitsvalgte i virsomheten om innleie. I slike tilfeller kreves det ikke noen spesiell begrunnelse eller at at det må foreligge spesifikke behov. Selve avtalen inngås lokalt i virksomheten, og må inngås med tillitvalgte som til sammen representerer et flertall av den arbeidstakerkategori innleien gjelder. Hva som er å anse som samme arbeidstakerkategori, må vurderes konkret. Loven stiller ikke krav om at avtalen må inngås med fagforeningstillitsvalgte. Innleien må være midlertidig, og avtalen må være skriftlig.
+
+Ved innleie fra bemanningsforetak skal bemanningsforetaket sørge for at utleid arbeidstaker minst sikres de vilkår som ville kommet til anvendelse dersom arbeidstaker hadde vært ansatt hos innleier for å utføre samme arbeid, når det gjelder:
+
+a\. arbeidstidens lengde og plassering,
+
+b\. overtidsarbeid,
+
+c\. varighet og plassering av pauser og hvileperioder,
+
+d\. nattarbeid,
+
+e\. feriefritid, feriepenger, fridager og godtgjøring på slike dager, og
+
+f\. lønn og utgiftsdekning.
+
+Arbeidstaker som blir leid ut, skal ha samme tilgang til felles goder og tjenester hos innleier som virksomhetens egne arbeidstakere, med mindre objektive grunner tilsier noe annet.
+
+Ved leie av arbeidstaker skal innleier gi bemanningsforetaket de opplysninger som er nødvendige for at bemanningsforetaket skal kunne ivareta kravet om likebehandling. Virksomheter som leier inn arbeidstaker hefter på samme måte som en selvskyldnerkausjonist for utbetaling av lønn, feriepenger og eventuell annen godtgjøring etter kravet om likebehandling. Det er større adgang til å leie inn arbeidstaker fra produksjonsbedrift enn fra bemanningsforetak. Den innleide må blant annet være fast ansatt hos utleier og innleier må foreta drøftelser med tillitvalgte i forkant av innleie. Ved innleie over et visst omfang eller en viss varighet må innleie avtales med de tillitvalgte.
+
+<sup>1</sup> Direktoratet for forvaltning og økonomistyring (DFØ) har en egen fagside om innleie i statlige virksomheter.
+
+<sup>2</sup> Fagforening med innstillingsrett etter arbeidsvistloven, dvs. fagforening med minst 10 000 arbeidstakere som medlemmer.
+
+\[Boks slutt\]
+
+Mobilitet for ansatte i bemanningsbyrå
+
+Cools mfl. (2024) finner at utleie er den alternative tilknytningsformen som har høyest overgang ut av lav yrkesinntekt etter ett år. Rundt 35 prosent av ansatte i bemanningsbyrå med lav yrkesinntekt har ikke lav yrkesinntekt året etter, men prosentandelen varierer fra 25 til 50 prosent over hele perioden mellom 1997 til og med 2021.
+
+Det er om lag like mange ansatte i bemanningsbyrå med lav yrkesinntekt som fortsetter å være ansatt i bemanningsbyrå og som går over til å bli fast ansatt i en annen virksomhet (etter 2015 gjelder det omtrent 35 prosent). Mot slutten av perioden er det om lag 20 prosent av de ansatte i bemanningsbyrå som går ut av sysselsetting året etter. Overgangsandelene blant ansatte i bemanningsbyrå med lav yrkesinntekt ligner på overgangsandelene blant alle ansatte i bemanningsbyrå.
+
+Berge og Edelmann (2023) har sett på mobiliteten for alle utleide arbeidstakere, ikke bare de med lav yrkesinntekt, mellom 1. og 3. kvartal i 2023. Av de som sluttet å jobbe i næringen utleie av arbeidskraft gikk de fleste (55 prosent) over til å ha en fast jobb i en annen næring. En del av de som sluttet som utleid arbeidskraft (18 prosent) gikk til en midlertidig stilling. Dette understøtter funnene til Cools mfl. (2024) som også finner en ganske høy mobilitet fra å være ansatt i et bemanningsbyrå til fast ansettelse i en annen virksomhet.
+
+I likhet med midlertidige stillinger peker Cools mfl. (2023) på at innleide jobber ofte er kortvarige. Noen studier finner positive virkninger av å jobbe i bemanningsbyrå på fast arbeid, men det ser ut til å være mer gjeldende for utsatte grupper som ikke-vestlige innvandrere og ungdom som ikke har fullført videregående. Noen undersøkelser finner også det motsatte, og resultatene avhenger av hvilke grupper man sammenligner med (Cools mfl., 2023).
+
+### Selvstendige næringsdrivende
+
+Begrepene selvstendige, selvstendig næringsdrivende, selvstendige oppdragstakere og frilansere benyttes om hverandre både i dagligtalen og i forskningslitteraturen, se boks 8.3. Cools mfl. (2024) definerer selvstendige som personer som har mer næringsinntekt enn lønnsinntekt, i tillegg til at næringsinntekten overstiger ett grunnbeløp i folketrygden. Dette er omtrent slik SSB definerer selvstendig næringsdrivende[^56]. Andelen selvstendige med lav yrkesinntekt faller gjennom hele perioden 1997–2015 og følger samme mønster som andelen selvstendige blant alle sysselsatte (Cools mfl., 2024). Det er heller ikke store nivåforskjeller i andelene selvstendige, men andelen er noe høyere i utvalget med lav yrkesinntekt.
+
+Cools mfl. (2024) finner at blant de sysselsatte med lav yrkesinntekt er 4,2 prosent selvstendige næringsdrivende i 2021. Av de selvstendig næringsdrivende har omtrent 30 prosent hatt lav yrkesinntekt de siste 20 årene. Som skissert i punkt 8.3, er det viktig å ha med seg at disse tallene ikke hensyntar hvor stor del av året personen har hatt yrkesinntekt eller hvor mange timer personen har vært i arbeid. Tallet kan derfor ikke sammenlignes med lavlønnsforekomsten for de øvrige gruppene presentert her eller i kapittel 7.
+
+Selvstendige oppdragstakere/næringsdrivende
+
+I NOU 2021: 9 er selvstendige oppdragstakere beskrevet slik:
+
+Med selvstendige oppdragstakere forstås enkeltpersoner som uten egne ansatte utfører arbeid for en virksomhet uten å være arbeidstaker. Noen selvstendige har også ansatte som arbeider for seg. Begrepene selvstendige, selvstendig næringsdrivende, selvstendig oppdragstakere og frilansere benyttes til dels om hverandre i forskningslitteraturen og i ulike kartlegginger. Det kan derfor være krevende å sammenstille kunnskapsgrunnlaget. I relasjon til arbeidsmiljøloven, er imidlertid selvstendig oppdragstaker brukt som et samlebegrep på alle enkeltpersoner som faller utenfor lovens arbeidstakerbegrep.
+
+Selvstendige som mottar betaling fra oppdragsgiver i form av lønn omtales gjerne som frilansere, men det kan også være andre som på ulike måter mottar lønnsinntekter for oppdrag. Frilansere er ikke et rettslig begrep etter arbeidsmiljøloven. I folketrygdloven er frilanser definert som «enhver som utfører arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse, men uten å være selvstendig næringsdrivende». En frilanser etter folketrygdloven vil normalt ikke være å anse som arbeidstaker etter arbeidsmiljøloven. I skatterettslig sammenheng behandles frilansere som lønnstakere på samme måte som arbeidstakere.
+
+I dagligtale benyttes gjerne begrepet uten nærmere presiseringer. Det kan være vanskelig å vite hvordan inntektene fra ulike oppdrag skal rubriseres, og i noen tilfeller kan personer ha flere ulike typer inntekter som er henholdsvis lønn og næringsinntekt.
+
+Begrepene selvstendig, frilanser og arbeidstaker er også sentrale når det kommer til hvilke rettigheter en person har etter folketrygdloven og hva de betaler i trygdeavgift.
+
+\[Boks slutt\]
+
+Mobilitet for selvstendige
+
+Sannsynligheten for å gå ut av lav yrkesinntekt fra ett år til et annet er rundt 25 prosent blant selvstendige (Cools mfl., 2024). I likhet med selvstendige i hele befolkningen er det høy sannsynlighet for at de selvstendige med lav yrkesinntekt fortsatt er selvstendige året etter. Over 60 prosent av de selvstendige fortsetter å være selvstendig som hovedtilknytning til arbeidslivet i hvert fall to år gjennom hele perioden. Andelen selvstendige som har lav yrkesinntekt ett år og går ut av sysselsetting året etter, er derimot høyere enn andelen som går fra selvstendig til ikke sysselsatt i hele befolkningen. Cools mfl. (2024) finner at en økende andel går fra å være selvstendig med lav yrkesinntekt til å være fast ansatt etter et år, med en overgangsandel på rundt 12 prosent i 2021. Både andelene som går over til å være fast ansatt, og andelene som går over til å ikke være sysselsatt, er høyere blant selvstendig næringsdrivende med lav yrkesinntekt enn blant alle selvstendige.
+
+Det finnes få studier som har undersøkt hvor sannsynlig det er å gå fra selvstendig til fast ansatt for hele befolkningen (Cools mfl., 2023). Alsos mfl. (2022) har undersøkt hvor mange som går fra å være selvstendig næringsdrivende over i lønnsarbeid (både midlertidig og fast), blant alle de selvstendige i perioden 2015–2019. De finner at det er stor forskjell mellom næringer om hvor stabil tilknytningen til å være selvstendig er. Næringer med størst andel selvstendig næringsdrivende i hele perioden (stabilt næringsdrivende) finnes innen drosje og godstransport på vei, mens øvrige deler av transportnæringen og andre næringer har mer utskiftninger. Alsos mfl. (2022) undersøker andelen med lav yrkesinntekt blant de stabilt næringsdrivende med en lav yrkesinntektsgrense på 300 000 kr. Vedvarende lav yrkesinntekt er definert som å ha yrkesinntekt under grensen alle årene, eller fire av fem år i perioden 2015–2019. 25 prosent av de stabilt selvstendig næringsdrivende har lave yrkesinntekter over lenger tid, med en klart høyest andel innen kunst og kultur, der 47 prosent har stabilt lav yrkesinntekt. Innen vaktmester, renhold m.m. er også andelen med vedvarende lav yrkesinntekt høyere enn gjennomsnittet. I transportbransjen, også innenfor drosje og godstransport på vei, er andelen med vedvarende lav yrkesinntekt klart lavere enn i de andre bransjene.
+
+### Fagforeningsmedlemskap
+
+I kapittel 7 har vi sett at fagforeningsmedlemskap er lavere blant de med lav lønn. Cools mfl. (2024) finner at andelen fast ansatte med lav yrkesinntekt som er medlem av en fagforening, falt fra tidlig 2000-tallet fram til 2013, mens andelen i de andre tilknytningsformene steg i samme periode, se figur 8.4. Fra 2015 ble utviklingen mer lik, og under pandemien økte andelen med fagforeningsmedlemskapet for alle grupper. Utviklingen over tid og rangeringen av de ulike tilknytningsformene er som for alle sysselsatte, men andelene med fagforeningsmedlemskap er lavere ved lav yrkesinntekt. For alle tilknytningsformer er andelen som er fagforeningsmedlem lavere gjennom hele perioden, men nivåforskjellen er størst blant de fast ansatte.
+
+Andel med fagforeningsmedlemskap etter tilknytningsform. Alle bosatte og sysselsatte personer i alderen 20–66 år med lav inntekt, utenom arbeidstakere i primærnæringene. Prosent. 1997–2021
+
+Kilde: Cools mfl. (2024).
+
+## Utvalgets vurderinger
+
+Selv om det vanlige i norsk arbeidsliv er fast ansettelse, kan arbeidskraftbehov også dekkes ved midlertidige stillinger, innleie av arbeidskraft og gjennom avtaler med selvstendige oppdragstakere. De alternative tilknytningsformene midlertidige ansettelser, ansettelse i bemanningsbyrå og selvstendig næringsdrivende utgjorde i alt 12,5 prosent av hovedarbeidsforholdene i 2021. I enkelte land har alternative tilknytningsformer blitt stadig mer utbredt, men en slik utvikling har vi ikke sett i Norge. I perioden 1997–2021 har andelen selvstendige næringsdrivende vært fallende. Andelen midlertidige ansatte har variert gjennom hele perioden, noe som både reflekterer konjunkturfølsomhet og omfanget av arbeidsinnvandring. I forhold til de to andre alternative tilknytningsformene er andelen ansatte i bemanningsbyrå liten, men den har økt i perioden. Den største endringen skjedde i etterkant av EU-utvidelsen i 2004, som åpnet for mer arbeidsinnvandring fra land med betydelig lavere lønnsnivå enn det norske. Ellers har andelen vært ganske stabil både før og etter.
+
+Andelene av alternative tilknytningsformer og utviklingen i disse varierer mellom næringsgrupper og yrker. Alternative tilknytningsformer er mer utbredt blant utsatte grupper på arbeidsmarkedet. For innvandrere og personer med lav utdanning har det vært vekst i andelen som er ansatt midlertidig eller i bemanningsbyrå i perioden 1997–2021. Overnatting og serveringsnæringen har ekspandert i perioden, og er en av næringene der midlertidig ansettelse er mest vanlig. Veksten i andelen ansatte i bemanningsbyrå gjennom perioden har vært drevet av innvandrere fra Øst-Europa, og ifølge statistikk for utfakturerte timer fra NHO Service og Handel har mange av disse jobbet i bygg- og anleggsnæringen.
+
+Forekomsten av lønn under 2/3M-grensen er 21 prosent blant midlertidig ansatte, mot 5 prosent blant fast ansatte. Drøyt 70 prosent av de lavtlønte er likevel fast ansatte. Forekomsten av lavlønn blant ansatte i bemanningsbyrå er 11 prosent. Selvstendige næringsdrivende mottar ikke lønn, men næringsinntekt. Det finnes derfor ikke tilsvarende statistikk for lavlønnsforekomst som for de øvrige gruppene.
+
+Å ansette noen midlertidig innebærer mindre omfattende forpliktelser for en virksomhet enn å ansette noen fast, og i tillegg vil ofte konkurransen om midlertidige jobber være mindre. For personer som sliter med å få jobb, kan derfor midlertidige jobber gi en enklere inngang til arbeidslivet. Denne erfaringen kan i neste omgang lede til fast jobb. Samtidig vil faste ansettelser kunne gi sterkere kompetanseoppbygging fordi både den ansatte og virksomheten ofte investerer mer i et fast ansettelsesforhold. En fast ansettelse reduserer derfor faren for å falle ut av arbeidslivet mer enn en midlertidig ansettelse. Lavere kompetanseoppbygging kan også trekke i retning av lavere lønnsvekst for den enkelte i midlertidige jobber. Om lag 40 prosent av de midlertidige ansatte med lav yrkesinntekt blir fast ansatte etter ett år, og omtrent like mange faller ut av sysselsetting. Blant sysselsatte med lav yrkesinntekt har faste og midlertidig ansatte omtrent samme sannsynlighet for å ha inntekt over lavinntektsgrensen året etter. Å være ansatt i et bemanningsbyrå er den alternative tilknytningsformen som har høyest overgang ut av lav yrkesinntekt.
+
+Innslag av midlertidighet, ofte i kombinasjon med høy konsentrasjon av arbeidsinnvandrere, påvirker avlønningen i enkelte bransjer. Lønnsutviklingen kan dermed bli svakere enn den ellers ville vært også for fast ansatte.
+
+For alle tilknytningsformene er andelene med fagforeningsmedlemskap lavere blant de med lav yrkesinntekt enn for alle. Andelen fast ansatte med lav yrkesinntekt som er medlem av en fagforening er fallende fra tidlig 2000-tallet fram til 2013, mens andelen i de andre tilknytningsformene var stigende i samme periode. Fra 2015 blir utviklingen mer lik, og under pandemien økte organisasjonsgraden blant alle grupper.
+
+Det er nyttig å framskaffe et bedre kunnskapsgrunnlag om mulige sammenhenger mellom lavlønn og yrkesinntekt og midlertidige ansettelser, ansettelser i bemanningsbyrå og selvstendige oppdragstakere.
