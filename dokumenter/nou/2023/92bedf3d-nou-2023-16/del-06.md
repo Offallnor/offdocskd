@@ -1,1395 +1,170 @@
-# NOU 2023: 16, del 6 av 19 (side 79–90)
+# NOU 2023: 16, del 6 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/92bedf3d-nou-2023-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-16/id2982388/
 - Original-PDF: https://www.regjeringen.no/contentassets/b1dace9390054c85a5a87c7bbf1bc384/no/pdfs/nou202320230016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 7 tabeller, 101 figurer, 743 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 79]
+# Situasjonen for barn og unge gjennom pandemien
 
-77
+Oppsummering
 
-NOU 2023: 16
+- Utvalget mener det var riktig av regjeringen å ha et mål om at barn og unge skulle ha så lav tiltaksbyrde som mulig, men vurderer at tiltaksbyrden likevel samlet sett var stor for barn og unge.
 
-Evaluering av pandemihåndteringen
+- Myndighetene gjorde en innsats for å følge opp målet om at barn og unge skulle ha så lav tiltaksbyrde som mulig, men kunne i noe større grad sørget for større samsvar mellom målet og smitteverntiltakenes utforming.
 
-Kapittel 4
+- De fleste barn og unge klarte seg godt gjennom pandemien selv om det ble rapportert om redusert livskvalitet blant barn og unge mens pandemien pågikk. Det er fremdeles for tidlig å konkludere om de negative langtidskonsekvensene av pandemien for barn og unge. Koronautvalget oppfordrer myndighetene til å følge med på utviklingen og iverksette tiltak ved behov.
 
-Tabell 4.4 Samlet oversikt over økonomiske tiltak i forbindelse med koronapandemien, mrd. kroner.
-2020
+- Helsetilbudet til de yngste ved helsestasjoner og skolehelsetjenestene ble noe redusert grunnet omdisponering av helsepersonell til andre oppgaver knyttet til pandemien.
 
-2021
+- Foreløpige studier, tall på fastlegebesøk og henvisninger indikerer at barn og unges psykiske helse under pandemien ble negativt påvirket. Det er for tidlig å si om dette var forbigående, eller om det vil få varige konsekvenser.
 
-2022
+- Underveis i pandemien fikk myndighetene på plass bedre strukturer og koordinering for å ivareta barn og unges interesser.
 
-Sum
+- Utvalget mener at barn og unges representanter ikke ble tilstrekkelig involvert i de beslutningene som angikk barn og unge. Dette gjelder både på lokalt og nasjonalt nivå.
 
-78,2
+\[Boks slutt\]
 
-33,9
+## Innledning
 
-3,9
+I kapittel 6 ser Koronautvalget nærmere på noen sider ved barn og unges hverdag i pandemien og tiltaksbyrden de opplevde. Hovedbildet viser at pandemien var en tung tid for barn og unge. Deres hverdag ble i perioder snudd på hodet og de opplevde at både skole, barnehage og fritidsaktiviteter ble begrenset. Det har likevel gått bra med de aller fleste i etterkant.
 
-116
+## Regjeringens mål om lav tiltaksbyrde for barn og unge
 
-7
+Som del av pandemihåndteringen hadde regjeringen et uttalt mål om at *«barn og unge skal ha så lav tiltaksbyrde som mulig»* og at når smitteverntiltak ble vurdert skulle hensynet til barn og unge prioriteres først.[^145] Målet ble etter hvert eksplisitt formulert i regjeringens strategi, og ble også understreket av statsminister Støre da han i sin redegjørelse for Stortinget 30. november 2021 sa at *«\[d\]et grunnleggende og avgjørende er at vi skjermer barn.»*[^146]
 
-8
+Barn og unge hadde mindre risiko enn voksne for alvorlig sykdom som følge av koronaviruset. Derfor var det i hovedsak konsekvensene av smitteverntiltakene, og ikke sykdommen, som hadde størst betydning for barn og unges tiltaksbyrde under pandemien.
 
-0,7
+Enkelte barn og unge var likevel særlig utsatt. Det gjaldt for eksempel barn og unge med underliggende sykdommer, de med funksjonsnedsettelser som helt eller delvis mistet tilgang til offentlige støttetjenester, eller de med en utfordrende familiesituasjon og ekstra omsorgsbehov.
 
-15,7
+Myndighetene forsøkte å håndtere pandemien på en måte som ivaretok barn og unge. I dette arbeidet fikk de på plass bedre koordinering mellom fagmyndighetene utover i pandemien. I april 2020 satte regjeringen ned en koordineringsgruppe på direktoratsnivå for å følge med på situasjonen til sårbare barn og unge.[^147] Gruppen skulle styrke myndighetenes beslutningsgrunnlag og hadde deltakere fra Barne-, ungdoms- og familiedirektoratet, Integrerings- og mangfoldsdirektoratet, Utdanningsdirektoratet, Helsedirektoratet, Politidirektoratet, Sekretariatet for konfliktrådene, Folkehelseinstituttet og Arbeids- og velferdsdirektoratet. I likhet med Koronakommisjonen, erfarer utvalget at koordineringsgruppen var en viktig premissleverandør for politikken og smitteverntiltakene rettet mot barn og unge.
 
-Lønnstilskuddsordningen
+I tillegg ble det etablert en interdepartemental gruppe ledet av Barne- og familiedepartementet og med deltakere fra Helse- og omsorgsdepartementet, Justis- og beredskapsdepartementet, Kommunal- og distriktsdepartementet, Kultur- og likestillingsdepartementet og Kunnskapsdepartementet.
 
-0,2
+På departementsnivå leder Barne- og familiedepartementet en kjernegruppepilot for samordning av arbeidet for utsatte barn og unge.[^148] Barne-, ungdoms- og familiedirektoratet koordinerer det tverrsektorielle samarbeidet om utsatte barn og unge på direktoratsnivå, som skal bygge videre på erfaringene fra koordineringsgruppen. Utvalget mener det er positivt at erfaringene fra godt samarbeid gjennom pandemien er videreutviklet og videreført.
 
-0,6
+Myndighetene gjør en innsats for å følge med på de langsiktige konsekvensene av pandemien, særlig med hensyn til barn og unge. For eksempel har Barne-, ungdoms- og familiedirektoratet igangsatt et forskningsprosjekt om langtidskonsekvenser for oppvekst og likestilling der formålet blant annet er kunnskapsutvikling og å anbefale tiltak som kan dempe, eller snu negative konsekvenser av pandemien.[^149]
 
-0,7
+Barndommen og ungdomsårene er viktige for alle barn og unge, blant annet med tanke på deres sosiale utvikling. Etter to år med pandemi, der sosial kontakt gjennom skole og fritid ble betydelig redusert på grunn av smitteverntiltak, er det viktig at myndighetene følger opp og iverksetter tiltak som kan redusere mulige langsiktige negative konsekvensene av pandemien for barn og unge.
 
-1,5
+Utvalget mener det var riktig av regjeringen å ha et mål om at barn og unge skulle ha så lav tiltaksbyrde som mulig. Utvalget ser at myndighetene har søkt å ta særskilt hensyn til barn og unge, men ser i likhet med Koronakommisjonen at myndighetene ikke fullt ut lyktes med å skjerme denne gruppen i tråd med egen målsetning. Utvalget mener at barn og unge har båret en uforholdsmessig stor tiltaksbyrde, og vurderer at ytterligere bruk av differensiering kunne lettet tiltaksbyrden noe for barn og unge. For eksempel kunne tiltak rettet mot barn og unge vært mindre omfattende i områder med lav smitte, tiltak rettet mot ulike tjeneste- og aktivitetstilbud kunne hatt flere unntak for barn og unge, og det kunne vært åpnet for mer bruk av utendørsaktiviteter. Under pandemien var det også eksempler på tiltak for sårbare barn og unge som ikke fungerte i praksis. Dette gjaldt for eksempel tilbudet til sårbare barn som skulle ha et tilbud om fysisk tilstedeværelse i skolen selv i perioder med svært strenge smitteverntiltak i skolene.
 
-Luftfart
+Opplevd tiltaksbyrde ved tiltak rettet mot barn høsten 2021
 
-14,3
+FHI, sammen med fire fylker, gjennomførte i desember 2021 en undersøkelse der de spurte hvilken belastning ulike tiltak ville bety for befolkningen, ut fra et scenario der tiltaket ble innført «i dag og ville vare 4 uker». I undersøkelsen ble det spurt om tiltak særskilt rettet mot barn. Undersøkelsen viser at belastningen av smitteverntiltak rettet mot barn vurderes forskjellig fra om foresatte svarer fra eget perspektiv eller fra barnets perspektiv, se figur 6.1 og 6.2. Foresatte vurderte at for egen del ville stengte skoler, etterfulgt av karantenekrav i 7 døgn for barn og voksne og hyppig testing på teststasjon, innebære den største belastningen. Hyppig testing av barnet ble rangert som minst belastende for den foresatte. Når de foresatte vurderte byrden fra barnets perspektiv var det 6 av 8 tiltak som ble rangert som belastende. Dette var stengte skoler, karantene i 7 døgn, hyppig testing på teststasjon, rødt nivå på skolen, å ikke kunne delta på fritidsaktiviteter og ofte veksling mellom gult og rødt nivå. Kun 2 av 8 ble vurdert som mindre belastende, og dette var deltagelse på idrettsstevner, etterfulgt av hjemme-testing.
 
-6,3
+Opplevd tiltaksbyrde. Grad av belastning for den foresatte ved smitteverntiltak rettet mot barn.
 
-0,9
+Note: Tiltakene er sortert etter synkende andel som har vurdert tiltak som kategorien «svært belastende», hvor størst andel rapporterte tiltaket *stengte skoler* som «svært belastende».
 
-21,5
+Opplevd tiltaksbyrde. Grad av belastning for barnet ved smitteverntiltak rettet mot barn, rapportert av den foresatte.
 
-Kultur, idrett, frivillighet2
+Note: Tiltakene er sortert etter synkende andel som har vurdert tiltak som kategorien «svært belastende», hvor størst andel rapporterte tiltaket *stengte skoler* som «svært belastende».
 
-5
+Rapport, FHI, desember 2022, *«Opplevd tiltaksbyrde under koronapandemien: Resultater fra fire fylker desember 2021»*.
 
-3,6
+\[Boks slutt\]
 
-0,4
+## Barnehage-, skole- og studiehverdagen under pandemien
 
-9
+Barnehager og skoler ble tidlig inkludert i regjeringens utvidede liste over «viktige samfunnsfunksjoner».[^150] Det gjorde det enklere å tilrettelegge for drift av barnehager og skoler gjennom pandemien. Selv om skoler og barnehager til tider måtte iverksette til dels omfattende kontaktreduserende restriksjoner, har de i hovedsak vært åpne gjennom pandemien, med unntak av den første nedstengningen våren 2020. Dette var viktig for barn og unge av flere grunner. Barn og unges rett til utdanning ble ivaretatt. Barnehager og skoler har også en viktig rolle i å fange opp barn som er utsatt for omsorgssvikt, de er en arena for barn og unges sosiale utvikling og læring, og de har en viktig rolle for barns generelle trivsel i det daglige.
 
-Folketrygden
+Da regjeringen 12. mars 2020 besluttet inngripende smitteverntiltak, ble barnehager og skoler stengt med unntak for barn med særlige omsorgsbehov eller med foreldre i samfunnskritiske funksjoner. Barnehagene gjenåpnet 20. april, 1-4. trinn 27. april og de øvrige trinnene gjenåpnet 11. mai. Etter den første nedstengningen i mars 2020 utarbeidet Folkehelseinstituttet og Utdanningsdirektoratet smittevernveiledere for smittevernfaglig forsvarlig drift i barnehager og skoler. Smittesituasjonen medførte at barnehager og skoler måtte forholde seg til ulike smitteverntiltak gjennom pandemien. Veilederne tilrettela for egne smittevernregimer i barnehager, grunnskolen og videregående skoler, mens høyere utdanning i all hovedsak ble regulert på linje med arbeidslivet. De fleste studentene ved universiteter og høyskoler opplevde dermed betydelig lengre perioder med stengt campus og digitale forelesninger enn elevene i skolen.
 
-.
+### Trafikklysmodellen i barnehager og skoler
 
-1,7
+I smittevernveilederne for barnehager og skoler ble det 29. mai 2020 innført en trafikklysmodell som ble lagt til grunn for vurdering og bruk av tiltaksnivå i skoler og barnehager gjennom pandemien. Modellen ble innført for å kunne holde barnehager og skoler åpne, og innebar ulike smitteverntiltak avhengig av smittesituasjonen. Modellen hadde tre nivåer for smitteverntiltak; grønt, gult og rødt. Grønt nivå innebar en tilnærmet normal drift, mens gult og rødt nivå innebar flere kontaktreduserende tiltak som for eksempel bruk av mindre grupper og større avstand mellom elever og ansatte. Selv om rødt nivå forutsatte strenge tiltak og i praksis innebar mye hjemmeskole og digital undervisning, er det viktig å presisere at rødt nivå ikke var det samme som stengte skoler. Gjennomføringen av tiltaksnivåene har i praksis vært noe ulik i ulike kommuner og fylkeskommuner, og i de ulike barnehagene og skolene. Det skyldes blant annet bygningenes størrelse og utforming.
 
-0,6
+Illustrasjon av videregående skole og koronavirus.
 
-2,3
+Foto- og montasje: Zdravko Tomasa, Johan Bojer videregående skole
 
-2
+Covid-19-forskriften stilte krav til smittevernfaglig forsvarlig drift i barnehager og opplærings- og utdanningsvirksomheter. Veilederne og trafikklysmodellen beskrev nærmere hvordan dette kravet kunne oppfylles. I tråd med forskriften var det Helsedirektoratet som formelt utga veilederne, men de ble utarbeidet i samarbeid mellom Helsedirektoratet, Folkehelseinstituttet og Utdanningsdirektoratet.
 
-1,6
+Gjennom pandemien har nasjonale myndigheter besluttet hvilket tiltaksnivå barnehager og skoler skulle drifte på, men basert på den lokale smittesituasjonen kunne lokale myndigheter beslutte strengere tiltaksnivå.
 
-2,4
+Basert på erfaringer gjennom pandemien ble veilederne justert og oppdatert flere ganger. Underveis i pandemien har man også sett svakheter ved modellen som ikke ble løst. Utfordringer med modellen så man ved beslutningen om rødt nivå i videregående skole i desember 2021. Dette er nærmere omtalt i avsnitt 12.3.3. I januar 2022 vurderte både Helsedirektoratet, Folkehelseinstituttet og Utdanningsdirektoratet trafikklysmodellens innretning etter oppdrag fra departementene. Etatene var enige om at det ikke var behov for noen større revisjon av modellen og veilederne, men foreslo enkelte justeringer. Trafikklysmodellen ble også vurdert da tiltakspakkene ble vurdert i februar 2022, og ble beholdt som en del av den nasjonale beredskapen som kan tas i bruk ved behov.[^151]
 
-0
+Smitteverntiltak som rammet barnehage- og opplæringstilbud har hatt en del negative konsekvenser for barn og unge, men for noen barn og elever har tiltakene også hatt positive sider. For eksempel opplevde noen barn mer ro og trygghet når barnehager ble organisert med mindre grupper og økt voksentetthet.[^152]
 
-4
+### Tapt læring
 
-Maritim sektor
+Det har vært bekymringer for hvilken betydning endringene av skoletilbudet gjennom pandemien har hatt for elevenes læring. Blant annet kommenterte statsminister Støre i sin forklaring til utvalget at «*vi er enda ikke ferdig med å vurdere ettervirkningene av pandemien for unge mennesker: læringsbortfall, sosiale problemer med å komme tilbake i lære- og skolesituasjonen.»*[^153]
 
-.
+Mye digital undervisning og selvstendig elevarbeid, i tillegg til økt sykefravær hos lærere, kan ha hatt negativ påvirkning. For noen elever var det vanskelig at strukturen i hverdagen forsvant, og for andre var det utfordringer med tilgang på digitalt utstyr, tilfredsstillende nettforbindelse og eget rom, eller hvorvidt foreldre kunne hjelpe dem. Koronakommisjonen uttrykte bekymring for dette og anbefalte at det ble fulgt med på.[^154] Ifølge Nøkleby H. mfl. (2023) varierte erfaringene med hjemmeskole og digital undervisning.
 
-0,6
+Foreløpige studier som har sett på læring i skole og barnehage under pandemien viser varierende resultater, og også internasjonalt har det vært påpekt behov for mer kunnskap om «*educational impact of school shut downs*».[^155] Utdanningsdirektoratet påpekte i sin publikasjon om mulige konsekvenser for barn og unge at færre elever med særskilte behov har fått opplæringen de har krav på. Videre, fant direktoratet ingen indikasjoner på at elevenes grunnleggende ferdigheter i lesing, regning og engelsk har endret seg vesentlig, verken på nasjonalt nivå eller i kommuner med høyt smitteuttrykk. For de fem mest smitteutsatte bydelene i Oslo fant de derimot at læringsutbyttet til elevene har utviklet seg noe mer negativt under pandemien.
 
-0
+Foreldres tilfredshet med barnas læringssituasjon ble påvirket av smitteverntiltakene. Etter gjenåpningen høsten 2021 rapporterte foreldre rekordhøy tilfredshet med barnas læringssituasjon, men i desember 2021 falt tilfredsheten kraftig. Da det ble lettet på tiltak vinteren 2022, tok tilfredsheten seg opp igjen fra mars 2022 og holdt seg stabilt høy gjennom året.[^156]
 
-0,6
+For elever og studenter ved enkelte studieretninger hadde fysisk stengte skolebygg og restriksjoner større betydning. Dette gjaldt for eksempel yrkesfagelever på byggfag som har større behov for praktisk opplæring før de kan gå ut i lære, eller studenter ved høyere utdanning der bruken av laboratorier kan være nødvendig for studiene. Heller ikke studenter innenfor utøvende kunst vil ha et tilstrekkelig godt utbytte av digital undervisning. Slike utfordringer kan være grunnlag for å vurdere større bruk av differensierte smitteverntiltak.
 
-Omstilling næringsliv
+I beslutninger som berører barn, skal barnets beste være et grunnleggende hensyn.[^157] Dette innebærer at myndighetene må vurdere barns rettigheter når de skal beslutte smitteverntiltak. I det ligger det også at myndighetene må vurdere hvordan man tar hensyn til de yrkesgruppene som skal bidra til at barn får oppfylt blant annet sin rett til utdanning.[^158] I sin forklaring til utvalget var kunnskapsminister Tonje Brenna inne på dette og uttalte at:
 
-.
+*«Jeg tror at det å ha en tydelig sammenheng mellom hvem vi har som mål å beskytte, og hva vi gjør for dem som skal bidra til at de beskyttes, faktisk kan gjøre jobben sin, jamfør vaksiner til ansatte i skole og barnehage, tror jeg er et sånt læringspunkt hvor vi kunne hatt en bedre helhet hvis vi hadde tenkt den tanken helt ut fra start.»*[^159]
 
-1,9
+## Redusert tjeneste- og aktivitetstilbud til barn og unge
 
-0
+Pandemien påvirket det kommunale helsetjenestetilbudet for barn og unge. Det ble tidlig i pandemien kommunisert fra nasjonale helsemyndigheter at helsetilbudet til barn og unge skulle skjermes.[^160] Mangel på personell gjorde at mange kommuner i perioder likevel måtte prioritere andre oppgaver knyttet til pandemien, som testing, smittesporing og vaksinering. Det var likevel variasjon mellom kommunene. For eksempel var det i flere kommuner redusert tilgang på skolehelsetjeneste, mens andre steder ble derimot skolehelsetjenestens tilbud oppskalert på grunn av økt etterspørsel.[^161] Tall fra Statistisk sentralbyrå viser at 78 prosent av kommunene i 2021 omdisponerte personell fra helsestasjons- og skolehelsetjenesten til koronahåndtering.[^162] Tilsvarende tall for 2020 var 75 prosent. Det var i hovedsak helsesykepleiere som ble omdisponert, men også jordmødre og andre typer personell. Imidlertid viser tall for 2020 at omdisponeringen utgjorde en relativt liten andel av årsverkene i tjenesten i de fleste kommunene.
 
-1,9
+I 2019 fikk ni av ti mødre besøk av helsesykepleier i løpet av de første to ukene etter fødsel. I 2020 var dette redusert til syv av ti, mens det økte til åtte av ti i 2021.[^163] Nedgangen skyldtes nedstengninger, smittevernhensyn og omdisponering. En del kommuner hadde et erstatningstilbud til nyfødte på helsestasjonen. Også 2-årskontroll av lege og helsesykepleier ble påvirket under pandemien. I 2019 ble 96 prosent av barna undersøkt, mens dette ble redusert til 89 prosent i 2020. I 2021 var andelen oppe på 95 prosent. Tilsvarende nedgang kan man også se for 4-årskonsultasjonene.
 
-Andre tiltak overfor næringslivet2
+Det er viktig å påpeke at pandemien medførte utfordringer for langt flere barn og unge enn de man kan definere som sårbare. Flere aktivitets- og fritidstilbud var i perioder redusert eller stengt. Som vi omtalte i avsnitt 5.2.5 stiller utvalget spørsmål ved restriksjonene som gjaldt utendørsaktiviteter. Vitenskapelige studier har vist tilnærmet ingen smitteforekomst i fotballtrening og -kamper utendørs for barn og unge (Watson AM mfl. 2021). Restriksjoner på utendørsaktivitet påvirket barn og unge.
 
-50,1
+Den første nedstengningen i mars 2020 viste at tiltaksbyrden ble særlig stor når flertallet av tilbud og tjenester for barn og unge ble stengt samtidig. Dette anerkjente også myndighetene relativt raskt, og unngikk flere nedstengninger av samme omfang. Man fikk på plass skjerming av blant annet barnevernet, og innførte trafikklysmodellen for skoler og barnehager. Når alle tilbud til barn og unge blir påvirket, kan det bidra *«til totalbildet av en økt belastning på barn, unge og deres familier gjennom pandemien, og vil også kunne bidra til en total større etterspørsel etter tjenester til denne gruppen og til pårørende etter pandemien.»*[^164]
 
-8,7
+## Barn og unges psykiske helse under pandemien
 
-0,6
+Studier gjort i etterkant av pandemien antyder at det totalt sett har gått relativt bra med barn og unge i Norge, men samtidig er det indikasjoner på en viss negativ utvikling innenfor barn og unges psykiske helse. Det har vært uttrykt bekymring både i Norge og internasjonalt for at de unges psykiske helse ble mer negativt påvirket under pandemien enn hos befolkningen ellers. Ikke bare i perioder med strenge tiltak, men også i perioder uten strenge smitteverntiltak oppga flere yngre at de var mer ensomme enn befolkningsgjennomsnittet.[^165] Bruken av spesialisthelsetjenesten innenfor psykisk helsevern for barn og unge økte gjennom pandemien sammenlignet med årene før. Dette omtales nærmere i avsnitt 3.3.
 
-59,4
+Eksisterende kunnskap kan gi noen antydninger, men fremdeles har vi for lite kunnskap om hvilke forhold ved pandemien som faktisk har påvirket barn og unges psykiske helse og i hvilken grad. Blant annet har Folkehelseinstituttet vist til at:
 
-Tiltak for husholdninger2
+*«Sannsynligvis har tiltak som innfører begrensninger på deres liv stor betydning, slik som skolestengning eller restriksjoner på sosiale aktiviteter. Dette støttes av SHoT-undersøkelsen, som fant at studenter i områder som var hardere rammet av pandemien, opplevde en større forverring av den psykiske helsen. \[...\] Det er fremdeles et behov for mer kunnskap om hvordan pandemien har påvirket og fortsetter å påvirke barn og unges liv og psykiske helse. Spesielt viktig vil det være å avdekke årsakene til og konsekvensene av økninger i psykisk uhelse under pandemien.»*[^166]
 
-18,9
+Selv om det er for tidlig å trekke noen endelige konklusjoner, vil utvalget i det følgende knytte noen kommentarer til utvalgte nasjonale undersøkelser og rapporter som har sett nærmere på blant annet barn og unges opplevelse av tiltaksbyrde og egen livskvalitet under pandemien. Utvalget vil deretter se på de norske dataene i et internasjonalt perspektiv.
 
-20,3
+### Studier av pandemiens påvirkning på barn og unge
 
-5,2
+Basert på foreliggende nasjonale og internasjonale studier har Folkehelseinstituttet på oppdrag fra Barne-, ungdoms- og familiedirektoratet utarbeidet tre hurtigoversikter om konsekvenser av covid-19-pandemien for barn og unges liv og psykiske helse gjennom pandemien. Den tredje rapporten ble publisert i april 2023. Etter oppdrag fra Koronautvalget har instituttet utarbeidet en kortversjon av denne som er vedlagt utvalgets rapport (Nøkleby mfl. 2023). Hurtigoversikten så på temaene vold og overgrep,[^167] familierelasjoner, sosiale relasjoner, psykisk helse, bruk av helsetjenester (psykisk helsevern) og læring, barnehager og skoler. Oversikten viste at det fremdeles er kunnskapshull, særlig fra siste halvdel av pandemien. Kunnskapsgrunnlaget for 2020 er relativt godt. FHI trekker frem enkelte faktorer som til en viss grad har påvirket hvilke barn som var mest utsatt. Hurtigoversikten viser at på *«tvers av temaene så det ut til at barn, unge og familier som hadde det utfordrende fra tidligere fikk det verre under pandemien».*[^168] Barn og ungdom i familier med lav sosioøkonomisk status ble betydelig mer negativt påvirket av pandemien på flere psykiske helseutfall. Samtidig viste studiene i hovedsak små, eller ingen endringer i følelsesregulering og atferdsendringer hos barneskolebarn og tenåringer fra før til under pandemien, heller ikke i studiene basert på data omtrent ett år inn i pandemien. En norsk studie inkludert i Folkehelseinstituttets oversikt viser en økning i diagnostiserte spiseforstyrrelser blant jenter i årene før pandemien, og at denne økningen tiltok i styrke etter starten av pandemien.
 
-44,4
+Hvert år gjennomføres spørreundersøkelsen Ungdata blant elever på ungdomstrinnet og i videregående opplæring. Undersøkelsen fra våren 2022 viste at etter nesten to år med pandemi står det i all hovedsak bra til med norsk ungdom, og flere av endringene som ble dokumentert under pandemien var stort sett tilbake igjen på nivået fra før pandemien (Bakken 2022). De aller fleste svarte at de har god livskvalitet, og at de lever aktive liv. Mange av utfordringene ungdom hadde før og under pandemien, gjaldt fortsatt i 2022, og var mer eller mindre like utbredt etter pandemien som før. Når det gjelder ensomhet, økte tallene gjennom hele 2010-tallet. Det var ingen tydelig vekst i andelen som har vært mye plaget av ensomhet under pandemien, og tallene tyder på at andelen har gått noe ned etter pandemien.
 
-Folketrygden
+Elevundersøkelsen er en spørreundersøkelse der elever får si sin mening om læring og trivsel i skolen. Undersøkelsene de siste årene har vist at andelen elever på 7. trinn som opplevde mobbing økte gjennom pandemien.[^169] Andelen i 2020 og 2021 var noe høyere enn årene før pandemien, mens andelen i 2022 var betydelig høyere. Mens syv prosent av elevene opplevde mobbing på skolen to-tre ganger i måneden, eller oftere i 2019, var det en økning til ti prosent i 2022. Dette var opp fra åtte prosent året før. Andelen som har opplevd mobbing på 10. trinn og i 1. klasse på videregående falt i årene 2017 til 2020. Fra 2020 til 2021 var utviklingen tilnærmet flat. Andelen steg derimot markant i 2022 også for disse aldergruppene. I 2022 var det 7,4 prosent av elevene på 10. trinn som svarte at de har blitt utsatt for mobbing to-tre ganger i måneden eller oftere, mens det i 2021 var 5,7 prosent. For elevene i 1. klasse på videregående var veksten fra 3,3 i 2021 til 4,2 prosent i 2022.
 
-15,8
+Selv om det i all hovedsak står bra til med norske barn og unge etter pandemien er det grunn til å følge opp enkelte negative utviklingstrekk. Det gjelder for eksempel deler av barn og unges sosiale utvikling etter to år med redusert sosial kontakt med jevnaldrende.[^170] Som det fremgår ovenfor er det indikasjoner på økt forekomst av mobbing og ekskludering blant barn og unge i etterkant av pandemien. Utvalget vurderer at myndighetene bør følge opp dette og iverksette tiltak.
 
-12,9
+### Studentene
 
-4,5
+Studentenes helse- og trivselsundersøkelse (SHoT) har blitt gjennomført i 2010, 2014, 2018, 2021 og 2022, og kartlegger studentenes helse og trivsel. Undersøkelsen fra 2022 viste en klar økning i andelen studenter med svekket livskvalitet sammenlignet med tidligere undersøkelser (Sivertsen og Johansen 2022).[^171] Psykiske plager økte i årene før pandemien, men ikke like raskt som under pandemien. Studenter kan ha opplevd pandemien på en litt annen måte enn hjemmeboende unge. Studenter bor ofte alene og ofte i avstand fra hjemstedet og nærmeste familie. I en situasjon med kontaktreduserende tiltak i samfunnet kan det ha påvirket den opplevde livskvaliteten.
 
-33,2
+I likhet med mange andre voksne opplevde også flere studenter bekymringer da de ble permittert, eller mistet deltidsjobber på grunn av smitteverntiltakene. Andre arbeidstakere som ble permittert, eller mistet jobben, fikk overføringer fra staten, mens studenter som av samme grunn mistet sin ekstrainntekt fikk ikke slike tilsvarende utbetalinger. De fikk derimot tilbud om et tilleggslån fra Lånekassen, hvor en mindre andel potensielt kunne bli omgjort til stipend. En viss andel av studentene fikk dermed svekket økonomi som en direkte konsekvens av pandemien. Utvalget mener at likhetsprinsippet bør gjelde innenfor alle offentlige økonomiske støtteordninger under en pandemi, og kan ikke se at det forelå en relevant begrunnelse for at studenter som mistet sin deltidsjobb ikke burde få tilsvarende støtte som andre arbeidstakere som mistet jobben. Det faktum at studenter i utgangspunktet ikke har rettigheter i NAV burde ikke vært til hinder for at regjeringen kunne funnet en løsning som innebar at studentene ikke ble påført økt gjeldsbyrde.
 
-2,2
+### Internasjonal sammenligning
 
-5,5
+I et internasjonalt perspektiv kan vi se at Norge kommer dårligere ut enn andre land på enkelte indikatorer knyttet til unges psykiske helse.
 
-0,5
+OECD-rapporten *Health at a Glance 2022* viste at det har vært en betydelig økning av andel unge med symptomer på angst og depresjon i flere europeiske land, og noen steder en dobling fra før pandemien.[^172] Figur 6.4 viser utviklingen for aldersgruppen 18-29 år. I oversikten kommer Norge dårligere ut enn de fleste andre land, og rapporten påpeker at i de tre nordiske landene Island, Sverige og Norge har mer enn en av tre unge rapportert om symptomer på depresjon i perioden april 2020 til april 2021 sammenlignet med en av ni før pandemien.
 
-8,2
+Symptomer på depresjon. Andel unge personer i utvalgte land.
 
-Sårbare grupper2
+Note: Se OECD *Health at a Glance 2022* side 21 for mer detaljer om kilder og datakvalitet. Aldersgruppen er 15-24 år for før pandemien, med unntak av Belgia der det er 18-29 år. Aldersgruppen er 18-29 år for under pandemien, med unntak av Frankrike der gruppen er 18-24 år. Det at aldersgruppene i de to periodene varierer begrenser sammenligningen.
 
-0,4
+OECD
 
-1,1
+OECD-rapporten konkluderer med at *«\[t\]here is now overwhelming evidence that young people’s mental health deteriorated disproportionately over the course of the pandemic».*[^173] Videre uttrykker OECD bekymring for langtidskonsekvensene av pandemien for unges mentale helse.[^174] De påpeker at nyere data er mangelfulle, men at data fra midten av 2022 viser at mental helse og velvære var påvirket også på dette tidspunktet. Dette stemmer overens med funn fra Norge omtalt ovenfor. Utvalget vil likevel påpeke at internasjonale sammenligninger må leses med en viss varsomhet da det kan være andre kulturelle og strukturelle forhold ved de ulike landene og samfunnene som påvirker resultatene.
 
-0,1
+## Om vurderinger av hensynet til, og involvering av barn og unge
 
-1,6
+I tråd med Grunnloven og barnekonvensjonen skal det tas hensyn til barnets beste og barns rettigheter i avgjørelser som berører barn, og barn har rett til å bli hørt i saker som angår dem.[^175] Dette innebærer krav til saksbehandlingen ved at barns rettigheter må vektlegges i vurderingene forut for beslutninger, og at vurderingene bør fremgå av beslutningsgrunnlaget. Videre innebærer det at det materielle innholdet i beslutningene og vedtakene må være i tråd med barns rettigheter. At barns rettigheter alltid må tas hensyn til betyr ikke at de alltid skal ha avgjørende vekt, men at hensynet til barn må bli vurdert når myndighetene fatter vedtak.
 
-Inkludering og integrering2
+Som Koronakommisjonen[^176] påpekte, ble flere beslutninger i begynnelsen av pandemien tatt uten at det fremkom at beslutningen ble vurdert i lys av menneskerettighetene. Gjennom koordinering på tvers av sektorene som omtalt over, fikk myndighetene etter hvert bedre oversikt over tiltakenes konsekvenser, og dermed et bedre grunnlag for vurderinger av barns rettigheter når ulike smitteverntiltak skulle besluttes. Utover i pandemien var myndighetene tydeligere på at det var gjort vurderinger av hensynet til barnets beste før strenge smitteverntiltak ble innført.
 
-0,5
+Under pandemien fikk myndighetene etter hvert bedre grunnlag for vurderingene av hensynet til barn og unge, men barn og unges rett til medvirkning ble tidvis utfordret. Flere beslutninger som angikk barn og unge ble tatt uten at barn og unge ble involvert. Dette er også vurdert av Koronakommisjonen.[^177] I kriser må saksbehandlingen tidvis gå raskt, slik at normale høringer og annen involvering i forkant ikke alltid vil være mulig. Utvalget mener likevel at myndighetene i større grad kunne involvert barn og unge når tiden tillot det. Så vidt utvalget er kjent med ble for eksempel ikke Elevorganisasjonen invitert til møter med Kunnskapsdepartementet utover felles sektormøter og Barne- og familiedepartementet hadde ikke systematisk kontakt med Barneombudet. Utvalget mener at barn og unges representanter ikke ble tilstrekkelig involvert i de beslutningene som angikk dem, verken nasjonalt eller lokalt, og at dette er et læringspunkt. Utvalget vil påpeke at involvering av barn og unge ikke bare handler om å ivareta deres rettigheter, men kan også føre til at tiltakene blir bedre og mer treffsikre.
 
-0,5
+Myndighetene la etter hvert bedre til rette for kommunikasjon og dialog med barn, blant annet egne pressekonferanser for barn der barna kunne stille spørsmål. Om dette sa Erna Solberg i sin forklaring til utvalget at *«\[v\]i forsøkte å ta barn i vårt samfunn seriøst med den informasjonen. De stilte vel så gode spørsmål som norsk pressekorps.»*[^178] Dette initiativet var positivt, men samtidig kunne mer vært gjort for å kommunisere med ungdommene, som ofte ikke treffes like godt av kommunikasjonen til verken barn eller voksne.
 
-0
+Del III
 
-1
-
-.
-
-0,3
-
-0
-
-0,3
-
-Tiltak for sektorer med kritiske samfunnsoppgaver3
-
-31,9
-
-36,1
-
-19,5
-
-87,5
-
-Andre tiltak
-
-2,3
-
-.
-
-.
-
-2,3
-
-131,3
-
-90,3
-
-28,6
-
-250,3
-
-Tiltak for bedrifter
-Generell kompensasjonsordning for næringslivet
-
-1
-
-Reise
-
-Utdanning og kompetanse
-
-2
-
-Annet til husholdninger
-
-Sum økonomiske tiltak
-
-Note: Punktum indikerer at bevilgningen er ført under en annen kategori grunnet manglende data. Avrundninger kan medføre
-mindre avvik. Lånetransaksjoner og garantifullmakter mv. er ikke inkludert i tabellen.
-1 Beløpene er basert på tall fra Meld. St. 3 (2020–2021), Prop. 36 S (2021–2022) og Prop. 33 S (2022–2023). Det er et avvik mellom
-beløpene her og tall fra innsynsordningene, der utbetalingene blir summert til om lag 14,6 mrd. kroner.
-2
-Fordelingen mellom enkelte av postene i 2020 er basert på egne beregninger grunnet ulik kategorisering i kildene, og er derfor
-noe usikre.
-3 Inkluderer bl.a. kommunesektoren, helsesektoren, forskning og kollektivtransport
-Kilde: Vista Analyse, basert på informasjon fra Finansdepartementet, Stortinget, Skatteetaten og Brønnøysundregistrene.
-
-ste utbetalingene fant sted i slutten av 2021 og
-starten av 2022, dvs. under den andre ordningen.
-Figur 4.13 viser støtten fordelt på de ulike periodene.
-Andre tiltak overfor næringslivet
-Kategorien «andre tiltak overfor næringslivet»
-summerer seg opp til i underkant av 60 milliarder
-kroner under pandemien, hvorav 50 milliarder var
-fra 2020. Tiltakene i 2020 omfatter blant annet
-redusert lønnsplikt for arbeidsgivere ved permittering, redusert arbeidsgiveransvar for omsorgspenger og koronarelatert sykefravær og midler-
-
-tidige skatte- og avgiftslettelser. Antall dager med
-lønnsplikt for arbeidsgivere ved permittering ble
-20. mars 2020 redusert fra 15 til to dager. Fra 1.
-september samme år økte den til ti dager. Ordningen varte frem til februar 2022. Reduksjonen i
-arbeidsgiverperioden for koronarelatert sykefravær innebar en reduksjon fra 16 til tre dager.
-Endringen ble foreslått 2. mars 2020 og videreført
-til og med 30. september 2021.
-Endringene i skatte- og avgiftsendringer innebar en redusert arbeidsgiveravgiftssats på fire
-prosent for mai og juni 2020, samt midlertidig
-reduksjon i lav MVA-sats fra tolv til seks prosent i
-perioden 1. april 2020 til og med 31. oktober 2020.
-
-[Side 80]
-
-78
-
-NOU 2023: 16
-
-Kapittel 4
-
-Evaluering av pandemihåndteringen
-
-3 500
-
-3500
-
-3 000
-
-3000
-
-2 500
-
-2500
-
-2 000
-
-2000
-
-1 500
-
-1500
-
-1 000
-
-1000
-
-500
-
-500
-0
-
-0
-mar–apr mai–jun
-20
-20
-
-jul–aug sep–okt nov–des
-20
-20
-20
-
-jan–feb mar–apr mai–jun
-21
-21
-21
-
-jul–aug sep–okt nov–des
-21
-21
-21
-
-jan–feb
-22
-
-Figur 4.12 Kompensasjonsordningen for næringslivet: Utbetalt per periode. Millioner kroner.
-Kilde: Vista Analyse, basert på data fra Skatteetaten og Brønnøysundregistrene
-
-1 600
-280
-
-1 469
-
-feb.
-22
-
-Totalt
-
-1 400
-430
-
-1 200
-1 000
-368
-
-800
-600
-400
-
-98
-
-200
-
-110
-
-5
-
-8
-
-aug.
-20
-
-okt.
-20
-
-nov.
-20
-
-9
-
-75
-
-20
-
-65
-jul.
-20
-
-des. mar–apr
-20
-21
-
-mai–jun
-21
-
-jul–aug
-21
-
-des.
-21
-
-jan.
-22
-
-Figur 4.13 Fordelingen av totalt utbetalt lønnsstøtte over tid.
-Note: Periodene i figuren tilsvarer perioder i lønnsstøtteordningene.
-Kilde: Vista Analyse, basert på aggregert data fra Skatteetaten
-
-Det anslåtte provenytapet for disse to tiltakene var
-på i underkant av ti milliarder kroner i 2020. I tillegg inneholder «andre tiltak overfor næringslivet» tapsavsetninger for en statlig lånegarantiordning via bankene og øvrige kompensasjonsordninger som ikke er dekket noe annet sted.
-Disse summerte seg opp til om lag 14 milliarder i
-
-2020, mens beløpene var langt mindre i 2021 og
-2022.
-Totalbeløpene i kategorien er mindre i 2021 og
-2022 og kategorien endret også innhold. For 2021
-og 2022 omfatter posten blant annet støtteordningen for publikumsåpne arrangementer, samt bokførte effekter av tidlige vedtatte ordninger. Disse
-summerer seg opp til ni milliarder for de to årene.
-
-[Side 81]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-4.5.3
-
-Tiltak for å motvirke inntektsbortfall
-for personer
-De høyeste utbetalingene til husholdningene ble
-gitt gjennom Folketrygden. Dette dreier seg om
-midlertidige utvidelser av inntektssikringsordninger, som mer generøse vilkår for dagpenger og
-sykelønn. For dagpenger ble blant annet stønadssatsen økt, og nedre inntektsgrense for rett til
-dagpenger ble redusert slik at ordningen favnet
-flere. Endringene ble innført i slutten av mars
-2020 og ble forlenget flere ganger gjennom pandemien. Det var i tillegg en forlenging av perioden
-med fritak for lønnsplikt under permittering.
-Arbeidstakere hadde før pandemien mulighet til å
-motta dagpenger i 26 uker innenfor siste 18 måneders periode, og arbeidsgivers lønnsplikt gjeninntrådte normalt etter dette. Ordningen forlenget
-perioden der arbeidsgivere har et slikt fritak, og
-gjorde at ansatte kunne være permittert over en
-lenger periode uten å bli sagt opp. Ordningen ble
-forlenget flere ganger, men fra 1. januar 2021 ble
-det innført en arbeidsgiverperiode på fem dager
-fra 30. permitteringsuke. Ordningen ble forlenget
-ut februar 2022. Videre ble det innført en egen
-ordning for selvstendig næringsdrivende og frilansere som ikke ble fanget opp av permitteringsordningen. Endringene i sykepenger innebar tidligere rett til sykepenger for selvstendig næringsdrivende og frilansere, fra dag 17 til dag fire.
-Endringene under Folketrygden summerer seg til
-om lag 33 milliarder kroner over de tre pandemiårene.
-Våren 2020 kunne studenter som hadde behov
-for det søke om ekstralån, og deler av dette ble
-gitt som stipend. I starten av januar 2021 ble det
-foreslått flere tiltak, blant annet målrettede tiltak
-på om lag 1 milliard kroner for å motvirke frafall
-og forsinkelser i studiene, herunder utvidede
-muligheter for tilleggslån gjennom Lånekassen
-med delvis omgjøring til stipend. I tillegg ble det
-bevilget 100 millioner kroner til tiltak rettet mot
-lærlinger våren 2021.
-4.5.4 Kultur, idrett og frivilligheten
-Regjeringene innførte gjennom pandemien ulike
-kompensasjons- og stimuleringsordninger for
-aktører på kultur-, frivillighets- og idrettsfeltet.
-Ordningene skulle kompensere arrangører for
-tapte billettinntekter eller deltakeravgifter ved
-avlysning eller stengning av kultur-, frivillighetseller idrettsarrangement, og kompensere for
-eventuelle merutgifter i forbindelse med at et kultur-, frivillighets- eller idrettsarrangement ble
-
-79
-
-Kapittel 4
-
-avlyst, stengt eller utsatt. Senere kom det en
-stimuleringsordning som skulle gi insentiver til
-aktivitet innenfor de rammene som smittevernreglene tillot. I tillegg til disse ordningene var det
-blant annet tilskudd til institusjoner og et krisefond for utøvende kunstnere. Tiltak rettet mot kultur, idrett og frivillighet summerer seg til ni milliarder kroner i løpet av pandemien.
-
-4.5.5 Utdanning og sårbare grupper
-Både regjeringen Solberg og regjeringen Støre
-innførte tiltak for økt utdanning og kompetanse,
-tiltak rettet mot sårbare grupper, og tiltak for økt
-inkludering og integrering. Tilsammen utgjorde
-disse tiltakene 11 milliarder kroner i løpet av pandemien. Utdanningstiltakene inneholdt en rekke
-ulike bevilgninger til blant annet å utvide sommerskoletilbud, ta igjen tapt læring, økt digital kompetanse, få flere til å fullføre videregående skole, økt
-kapasitet i høyere utdanning og høyere yrkesfaglig utdanning og tiltak for lærlinger. Støtte til integrering besto av tilskudd til innvandrerorganisasjoner og støtte til norskopplæring, introduksjonsprogram og informasjonstiltak. Flere tiltakspakker ble innført for å støtte barn, unge og andre
-grupper av personer i sårbare livssituasjoner.
-Disse inneholdt blant annet økte tilskudd til
-hjelpetelefoner, økt bevilgning til tilskuddsordningen til tiltak for å forebygge vold og overgrep, til
-digitale arrangementer og tiltak rettet mot særlig
-sårbare personer i regi av tros- og livssynssamfunnene, samt til informasjonstiltak for unge.
-Regjeringen bevilget penger til utdanning og
-sårbare grupper i 2022. I statsbudsjettet for 2022
-ble det bevilget 216 millioner kroner til fylkeskommuner/kommuner og privatskoler som ble særlig
-hardt rammet av pandemien, og ytterligere 75 millioner i forbindelse med revidert nasjonalbudsjett.
-Regjeringen foreslo også i januar 2022 en tiltakspakke for barn og unge på til sammen 78 millioner
-kroner for å videreføre stimuleringsprogrammet
-for frivilligheten, samt å gi økt bevilgning til hjelpetelefonen Kors på Halsen fra Røde Kors, hjelpetelefonen Foreldresupport, til Mental helse og
-Alarmtelefonen for barn og unge.
-4.5.6 Vurdering av tiltakene
-Koronautvalget har ikke gjort en selvstendig vurdering av de økonomiske tiltakene under pandemien. Utvalget ønsker å påpeke at det er et viktig
-samspill mellom smitteverntiltak og avbøtende tiltak, der sistnevnte trolig gjorde det mulig å ha
-mer inngripende smitteverntiltak, både fordi de
-
-[Side 82]
-
-80
-
-Kapittel 4
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-samlede økonomiske kostnadene for befolkningen ble lavere og fordi det var lettere å få oppslutning om smitteverntiltakene når ikke den økonomiske belastningen ble for skjevdelt. Opplevelsen
-av relativt treffsikre tiltak som ble innført relativt
-raskt har trolig bidratt til den høye tilliten befolkningen har hatt til myndighetenes pandemihåndtering.
-Finansdepartementet skrev i brev til Koronautvalget at de vurderer at behovet for evaluering
-av økonomiske tiltak vil dekkes av Forskningsrådets gjennomførte utlysning «Økonomiske og
-arbeidsmarkedsmessige konsekvenser av koronakrisen for norsk nærings- og arbeidsliv».17,18 For å
-lære av pandemien har Arbeids- og inkluderings-
-
-departementet iverksatt og planlagt evalueringer
-og annen kunnskapsinnhenting knyttet til koronastøtteordninger på departementets område.
-Forsknings- og evalueringsprosjekter som dette
-vil gi mer kunnskap om pandemiens konsekvenser, og om virkninger av myndighetenes tiltak for
-å håndtere konsekvensene.
-
-17
-
-Nettartikkel, Forskningsrådet, 27. april 2020, «Økonomiske og arbeidsmarkedsmessige konsekvenser av koronakrisen for norsk nærings- og arbeidsliv».
-18 Brev, Finansdepartementet til Koronautvalget, 5. januar
-2023.
-
-[Side 83]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-81
-
-Kapittel 5
-
-Kapittel 5
-
-Tiltaksbyrde og psykososial beredskap
-Boks 5.1 Oppsummering
-– Pandemien viste at kriser rammer befolkninfange opp eventuelle langsiktige konsekvengen ulikt og at enkelte bar en stor tiltaksser av tiltaksbyrden. Dette gjelder særlig
-byrde under pandemien.
-innenfor psykisk helse.
-– Det er viktig at myndighetene tar hensyn til
-– Myndighetene bør vurdere hvordan psykisk
-belastningen smitteverntiltakene kan ha for
-helse, psykososial beredskap og øvrige plapersoner i sårbare livssituasjoner, for enkelte
-ner for kompenserende tiltak kan ses mer i
-grupper og for samfunnet som helhet. I dette
-sammenheng med smitteverntiltak som en
-ligger det at myndighetene må legge til
-integrert del av pandemiberedskapen.
-grunn at ulike deler av befolkningen vil opp– Utvalget mener at differensiert bruk av smitleve tiltaksbyrden ulikt, og at de som er mest
-teverntiltak vil bidra til å redusere tiltaksbyrsårbare før krisen, ofte vil være ekstra sården for de som er særlig sårbare. Systemabare under krisen.
-tisk dialog med frivilligheten og tros- og livs– Utvalget mener det er grunn til å følge med
-synssamfunnene kan bidra til mer målrettede
-på særlig utsatte grupper fremover for å
-og differensierte tiltak der det er mulig.
-
-5.1
-
-Innledning
-
-En pandemi av den art vi gikk gjennom i årene
-2020–2022 kan ikke håndteres uten kraftfulle og
-inngripende tiltak i hele samfunnet. Et virus som
-lett smitter både gjennom luft og via fysisk kontakt kan ikke håndteres på annen måte enn ved å
-sette strenge begrensninger for kontakt mellom
-mennesker. Mangel på slike begrensninger vil
-medføre økt forekomst av alvorlig sykdom og død
-i befolkningen. Et lands myndigheter har en plikt
-til, og et ansvar for, å beskytte sin befolkning i
-størst mulig grad. Det betyr at ansvarlighet fra
-myndighetenes side i møte med koronapandemien i praksis betydde at de måtte innskrenke
-flere av de rettighetene vi til vanlig tar for gitt i
-vårt samfunn. En slik erkjennelse må ligge til
-grunn for alle analyser av myndighetenes pandemihåndtering. Med dette som utgangspunkt, ser
-utvalget i dette kapitlet nærmere på hvilken tiltaksbyrde som ble lagt på det norske samfunnet
-gjennom koronapandemien og hvilke eventuelle
-læringspunkter det er verdt å merke seg.
-En pandemi vil i grove trekk medføre konsekvenser langs to akser. Den første er sykdomsbyr-
-
-den. Sykdomsbyrden ble vurdert ut fra hvor
-mange som ble smittet, hvor alvorlig sykdom
-koronasmitten medførte og dens dødelighet. Den
-andre aksen er tiltaksbyrden, og det er denne
-aksen vi skal se nærmere på i dette kapitlet. For å
-klargjøre hva utvalget legger i begrepet tiltaksbyrde har vi valgt å legge FHIs definisjon til
-grunn:
-«Med «tiltaksbyrde» menes negative konsekvenser og opplevelser som følge av gjeldende smitteverntiltak. For eksempel kan nedstengning og
-redusert fysisk kontakt mellom mennesker føre til
-en økt psykisk belastning og lavere livstilfredshet
-for den enkelte. Den samlede tiltaksbyrden befolkningen opplever er et resultat av antallet personer som blir berørt og den samlede byrden per
-person. Innføring av nye og/eller mer restriktive
-tiltak vil øke tiltaksbyrden enten fordi tiltaksbyrden for enkeltpersoner øker og/eller fordi flere
-berøres, mens lettelser vil redusere tiltaksbyrden
-enten fordi tiltaksbyrde for den enkelte reduseres
-og/eller færre blir berørt.»1
-
-[Side 84]
-
-82
-
-Kapittel 5
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Psykososial beredskap handler om å ha strukturer for å ta vare på folk ved kriser og katastrofer.
-Under pandemien var slik beredskap relevant og
-viktig sett opp mot både smittesituasjonen og tiltaksbyrden. I dette kapitlet fokuserer utvalget primært på psykososial beredskap sett opp mot de
-negative konsekvensene av smitteverntiltakene,
-altså tiltaksbyrden.
-
-5.2
-
-Samfunnets opplevde tiltaksbyrde
-
-Det var fra starten og gjennom hele pandemien
-regjeringens mål å føre en smittevernpolitikk som
-på best mulig vis balanserte behovet for inngripende smitteverntiltak opp mot ønsket om lavest
-mulig tiltaksbyrde. For eksempel fremgår følgende av regjeringens langsiktige strategi for
-håndteringen av covid-19-pandemien av 15.
-desember 2020:
-«Pandemien kan også medføre indirekte helsekonsekvenser ved at tiltakene som gjennomføres
-kan gi økte utfordringer som økt ensomhet, redusert psykisk helse, redusert fysisk aktivitet og dårligere kosthold og dermed medføre endringer i
-total dødelighet og sykelighet i befolkningen.
-Samtidig vil også utdanning, økonomiske forhold som arbeidsledighet ha betydning for befolkningens helse og sosial ulikhet, og dermed også
-hvordan en påvirkes av pandemien. En del av
-tiltakene for å redusere helsekonsekvensene av
-pandemien har også store sosiale og samfunnsøkonomiske konsekvenser, og implementering
-eller justering av tiltak må dermed også vurderes
-opp mot de negative samfunnskonsekvensene tiltaket kan medføre. Særlig kan det være grunn til
-å vurdere konsekvenser for sårbare grupper av
-generelle tiltak.»
-
-Det var perioder med vesentlig mer smittetrykk i
-større byer, og det var perioder med mer smitte i
-sør enn i nord og motsatt. Belastningen var ikke
-jevnt fordelt i befolkningen, og den var generelt
-sett høyere i de større byene. Når ulike regioner
-har ulikt smittetrykk, vil nasjonale tiltak kunne
-medføre ulik tiltaksbyrde i ulike deler av landet.
-Opplevelsen av tiltaksbyrde økte også utover i
-pandemien, ikke fordi tiltakene i seg selv ble
-endret, men fordi situasjonen hadde vart lenge og
-vi måtte forholde oss til pandemien og smittevern1
-
-Rapport, FHI, desember 2022, «Opplevd tiltaksbyrde under
-koronapandemien: Resultater fra fire fylker desember
-2021».
-
-tiltakene over lang tid. Denne mentale slitasjen
-ble kommentert av kunnskapsminister Tonje
-Brenna i hennes forklaring til utvalget. Hun
-påpekte at «[…] når det gjelder kommunikasjon og
-hva man gjør for nærmest å motivere, må man forholde seg til det som et element. Når noe har vart
-lenge, blir det en form for tiltakstrøtthet.»2
-Når nedstengning av samfunnet er nødvendig
-for å beskytte befolkningen mot en pandemi, vil
-alle oppleve tiltaksbyrde. Det er uunngåelig.
-En spørreundersøkelse fra desember 2021
-viste at blant et utvalg av smitteverntiltak, var det
-stengte butikker, unngå besøk i hjemmet og smittekarantene som flest rapporterte som mest belastende, se boks 5.2. Tilsvarende var det færrest
-som rapporterte at skjenkestopp, avstand og
-munnbindpåbud var belastende. Undersøkelsen
-viste også at den opplevde belastningen av smitteverntiltak varierte en hel del over ulike grupper i
-samfunnet.3 Det er viktig å huske på at aggregerte tall på samfunnsnivå ikke nødvendigvis fanger opp den tiltaksbyrden som enkeltmennesker
-eller enkeltgrupper kan oppleve. Skjevhetene i
-pandemiens byrdefordeling er blant annet påpekt
-av The Lancet COVID-19 Commission som under
-sine hovedfunn skriver at «Public policies did not
-properly address the profoundly unequal effects of
-the pandemic.»4
-Samtidig er Koronautvalgets klare inntrykk at
-flertallet i den norske befolkningen stilte seg bak
-smitteverntiltakene. Gjennom pandemien gjennomførte Norsk koronamonitor fra Opinion spørreundersøkelser om hvordan nordmenn opplevde og
-håndterte pandemien. I sin rapport fra januar 2023
-bygger de på intervjuer med totalt 176 000 respondenter fra perioden mars 2020 til og med desember
-2022. Rapporten viser at selv i januar og februar
-2022, da flere enn tidligere mente tiltaksbyrden var
-for stor, mente fortsatt flertallet av de spurte at tiltakene kunne forsvares.
-Det har ikke vært mulig for utvalget å gi en
-uttømmende beskrivelse av all opplevd tiltaksbyrde, men utvalget har i dette kapitlet lagt vekt
-på å beskrive hvordan tiltaksbyrden rammet
-utvalgte grupper og viktige aspekter ved våre liv.
-Slike erfaringer kan lede frem til kunnskap og
-læring som kan være viktig å ha med seg til frem2
-3
-
-4
-
-Forklaring, Kunnskapsminister Tonje Brenna, 10. januar
-2023.
-Rapport, FHI, desember 2022, «Opplevd tiltaksbyrde under
-koronapandemien: Resultater fra fire fylker desember
-2021».
-The Lancet Commission on lessons for the future from the
-COVID-19 pandemic, Lancet 2022; 400: 1224–80, side 1225.
-
-[Side 85]
-
-83
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Kapittel 5
-
-Boks 5.2 Opplevd tiltaksbyrde ved innføring av nye tiltak høsten 2021
-En fylkesundersøkelse gjennomført i desember
-derte den opplevde byrden av stengte butikker,
-2021 med data samlet inn fra Agder, Nordland,
-unngå besøk i hjemmet og å bli satt i karantene
-Vestland og Oslo spurte deltagerne om å vuretter nærkontakt som tiltak med størst grad av
-dere hvilken belastning ulike smitteverntiltak
-belastning. De tre enkelttiltakene som færrest
-ville innebære for dem ut fra et scenario der tiltamente ville være svært belastende var skjenkeket ble innført «i dag og ville vare 4 uker».
-stopp, etterfulgt av å holde minst én meter
-Undersøkelsen hadde 22 808 respondenter
-avstand til andre og påbud om munnbind på
-fra de fire fylkene. Belastning av 18 forskjellige
-offentlig sted. Samlet sett konkluderte rapporsmitteverntiltak ble målt på en skala som gikk
-ten med at tiltak som begrenser sosial kontakt
-fra «Ikke belastende» til «Svært belastende», i
-vil innebære en større belastning enn begrentillegg til kategorien «Ikke aktuelt». Fleste vursinger i servicetilbud.
-Stengte butikker
-
-6%
-
-16 %
-
-20 %
-
-15 %
-21 %
-
-Unngå besøk i hjemmet
-Bli satt i karantene etter nærkontakt
-
-22 %
-21 %
-
-28 %
-
-Unngå reiser innenlands
-
-22 %
-
-21 %
-20 %
-17 %
-
-20 %
-23 %
-54 %
-
-Påbud om hjemmekontor
-
-12 %
-
-11 %
-
-14 %
-13 %
-
-11 %
-10 %
-
-64 %
-
-Stengt frisør, hudpleier og liknende
-Stengte serveringssteder
-
-9%
-
-9%
-
-17 %
-15 %
-
-13 %
-9%
-11 % 8 %
-
-13 %
-
-9% 6% 8%
-
-20 %
-
-15 %
-
-46 %
-
-22 %
-
-15 %
-10 % 7 %
-12 %
-9% 7% 6%
-
-66 %
-
-Skjenkestopp
-
-62 %
-20 %
-
-30 %
-
-Noe belastende
-
-11 %
-
-21 %
-
-57 %
-10 %
-
-12 %
-
-46 %
-
-Påbud om munnbind på offentlige steder
-Holde minst én meter avstand til andre
-0%
-
-13 %
-13 %
-
-14 %
-
-25 %
-22 %
-
-Unngå unødvendige reiser utenlands
-
-17 %
-
-16 %
-17 %
-16 %
-
-37 %
-44 %
-
-Begrenset ant. en kan omgå og ha kontakt med
-Stengte kulturtilbud som kinoer, teatre, konserter
-
-22 %
-20 %
-
-16 %
-
-19 %
-
-38 %
-37 %
-
-Maks fem gjester på besøk i hjemmet
-Forbud mot arrangement
-
-30 %
-
-11 % 9 % 9 %
-13 %
-12 %
-12 %
-
-44 %
-
-Begrenset besøk til nærstående i institusjoner
-
-Litt belastende
-
-20 %
-18 %
-
-58 %
-50 %
-
-Stengte treningssentre
-Forbud mot breddeidrett for ungdom og voksne
-
-Ikke belastende
-
-27 %
-
-24 %
-40 %
-
-50 %
-
-60 %
-
-Ganske belastende
-
-70 %
-
-80 %
-
-8%
-
-10 % 5 %
-
-3%
-
-12 %
-
-2%
-
-6%
-
-90 % 100 %
-
-Svært belastende
-
-Figur 5.1 Opplevd tiltaksbyrde. Grad av belastning fordelt på ulike samfunnsrettede smitteverntiltak.
-Note: Tiltakene er sortert etter synkende andel som har vurdert tiltak som kategorien «svært belastende», hvor størst andel
-rapporterte tiltaket stengte butikker som «svært belastende».
-Kilde: Rapport, FHI, desember 2022, «Opplevd tiltaksbyrde under koronapandemien: Resultater fra fire fylker desember 2021».
-
-tidige pandemier eller andre situasjoner som krever en form for nedstengning av samfunnet.
-
-5.2.1 Sosial ulikhet og ulikhet i helse
-Kriser rammer ulikt. I Folkehelserapporten for
-2020 beskriver FHI at pandemien viste «at det ofte
-er de som har størst sykdomsbyrde fra før, for eksempel gjennom kroniske sykdommer, som også rammes
-hardest av en pandemi.»5 Også gjennom koronapandemien har vi sett utslag som kan forsterke
-
-sosial ulikhet.6 For eksempel viser Opinions koronamonitor at de som mistet jobben, var permittert
-eller fryktet å bli utsatt for oppsigelse eller permittering, i større grad opplevde ensomhet enn
-5
-
-6
-
-Rapport, Folkehelseinstituttet, 14. juni 2022, «Folkehelserapportens temautgave for 2022, Fremtidens utfordringer for
-folkehelsen», side 44.
-Helsedirektoratet beskriver sosial ulikhet i helse som sosialt skapte og systematiske forskjeller i helsetilstand som
-følger sosiale og økonomiske kategorier (særlig yrke,
-utdanning og inntekt).
-
-[Side 86]
-
-84
-
-Kapittel 5
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-resten av befolkningen (39 mot 28 prosent).7
-Fylkesundersøkelsen omtalt i boks 5.2 viste at det
-var unge voksne (18-29 år) som hyppigst rapporterte at smitteverntiltakene var belastende.8 Denne
-aldersgruppen vil også gjennomsnittlig ha lavere
-inntekt enn befolkningen generelt, og mange vil
-være studenter med relativt trang økonomi. Personer i grupper med lavere sosioøkonomisk status vil som regel også ha færre muligheter for selv
-å kompensere for bortfall av en normal hverdag.
-For eksempel kan trangboddhet påvirke hvor inngripende man opplever sosial distansering.
-Det vil være vanskelig for myndighetene å fullt
-og helt ta hensyn til sosial ulikhet i utformingen av
-smitteverntiltak i en pandemi eller lignende situasjon. Så lenge sosial ulikhet eksisterer, vil det også
-ha betydning for hvordan kriser påvirker oss.
-Myndighetene bør likevel ha med seg disse faktorene i den totale vurderingen av tiltaksbyrden,
-og trekke på det kunnskapsgrunnlaget som finnes
-om sosial ulikhet i helse.
-
-5.2.2
-
-Redusert tjenestetilbud for personer
-med behov for særskilt tilrettelegging
-I de periodene gjennom pandemien der det var
-nødvendig å iverksette et inngripende smittevernregime, medførte det en betydelig reduksjon i det
-offentlige tjenestetilbudet. Dette fikk konsekvenser for alle de som har behov for ulike kommunale
-tjenester på daglig basis. I 2018 var det for eksempel ca. 32 000 brukere av det kommunale dagaktivitetstilbudet hvor personer med utviklingshemming, personer med demens og eldre med
-fysiske begrensninger er de tre største brukergruppene.9 I tillegg ble også andre grupper
-berørt, f.eks. barn med behov for spesialundervisning. For de som fikk redusert sitt tjenestetilbud
-medførte det en risiko for nedsatt livskvalitet. En
-undersøkelse gjennomført av Funksjonshemmedes Fellesorganisasjon viser at mange med
-funksjonsnedsettelser rapporterte om at manglende tilbud førte til forverring i funksjonsnivå,
-dårligere fysisk og psykisk helse, og mer smerter
-og ubehag.10
-7
-
-8
-
-9
-
-Rapport, Opinion, januar 2023, «Norsk koronamonitor:
-Sammenstilling av utvalgte indikatorer til Koronautvalget
-for 2020-2022», side 60.
-Rapport, Folkehelseinstituttet, desember 2022, «Opplevd
-tiltaksbyrde under koronapandemien: Resultater fra fire fylker desember 2021».
-Rapport, Helsedirektoratet, juni 2019, «Dagaktivitetstilbud
-i kommunen For personer med demens og personer med
-utviklingshemming».
-
-Flere av de som har behov for slike tjenester,
-har også behov for mer enn én tjeneste. Dermed
-vil de bli ekstra sårbare i en pandemisituasjon hvis
-flere av tjenestetilbudene bortfaller på samme tid.
-Gjennom pandemien ble behovene for bistand
-ofte dekket ved at slektninger eller andre i personenes nære krets påtok seg økte ulønnede
-omsorgsoppgaver. Det medførte dermed også en
-økt belastning på disse. Totalt sett påvirket bortfallet av det kommunale tjenestetilbudet et stort
-antall personer i samfunnet, og mange i denne
-gruppen opplevde en forverring av sin livssituasjon.
-På lokalt nivå var behovet for omdisponering
-av helsepersonell en vanskelig avveining for kommunene opp mot behovet for å ivareta personer i
-sårbare livssituasjoner. Det er et dilemma for en
-kommune hvorvidt for eksempel en kreftkoordinator som er utdannet sykepleier bør beholdes i
-sin opprinnelige funksjon for å ivareta kreftpasienter, eller midlertidig overføres til arbeid relatert til
-pandemihåndtering hvor formell helsefaglig kompetanse er nødvendig og etterspurt.
-Selv om kommunene hadde stor oppmerksomhet rettet mot de sårbare i sine respektive kommuner, hadde de samtidig en erkjennelse av at det
-ikke var nok. Styreleder i KS, Gunn Marit Helgesen, ga uttrykk for dette i sin forklaring til Koronautvalget:
-«Relativt fort, og da snakker vi senvåren 2020,
-var det en alminnelig anerkjennelse av at den
-gruppen som det virkelig er fare for her, det er de
-personene blant barn og unge som har behov for
-det kommunale tjenestetilbudet og oppfølgingsapparatet for å være inkludert. De faresignalene
-ble veldig fort meldt fra kommunene sin side. Så
-er utfordringen selvfølgelig, som kommunene
-opplevde med de inngripende tiltakene, at selv
-om man gjør det man kan for å kompensere, med
-lærere som følger opp digitalt og så videre, så vil
-det på langt nær være godt nok for å ivareta
-behovene for den gruppen utsatte barn og unge.
-Det var i hvert fall den tydelige tilbakemeldingen, at vi kjenner problemet, vi gjør det vi kan for
-å motvirke de negative effektene, men det er ikke
-godt nok.»11
-10
-
-Funksjonshemmedes Fellesorganisasjons undersøkelse
-om langsiktige konsekvenser for funksjonshemmede og
-kronisk syke, januar 2021, side 4.
-11 Forklaring, styreleder i KS Gunn Marit Helgesen, 12.
-januar 2023.
-
-[Side 87]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Også tidligere statsminister Erna Solberg kommenterte dette i sin forklaring til Koronautvalget:
-«Jeg tror vi kan se på det gruppemessig, og jeg
-tror nok at det kanskje ble for strenge regler for
-eldre og for psykisk utviklingshemmede, som i
-stor grad mistet dagtilbud og arbeidsplassen sin i
-den perioden.»12
-
-Når en pandemi eller lignende akutt krise treffer
-oss, er det kritisk at myndighetene handler raskt
-og kraftfullt for å beskytte liv og helse. Det vil i
-mange tilfeller medføre at det blir umulig å opprettholde et fullverdig offentlig tjenestetilbud.
-Samtidig vurderer utvalget at i en slik situasjon er
-det særlig viktig å ta hensyn til den totale belastningen for de som er avhengig av det offentlige
-tjenestetilbudet, og da spesielt de som på daglig
-basis er avhengige av flere tjenestetilbud. Selv om
-bortfall av enkelttjenester isolert sett kan være
-akseptable i en pandemisituasjon eller i en kort
-tidsperiode, kan summen av bortfall av flere tjenester samtidig, og over lengre tid, medføre en
-stor tiltaksbyrde for enkelte grupper.
-
-5.2.3 Psykisk helse
-Mennesker er grunnleggende sosiale vesener og
-sosial kontakt gir oss følelsen av sikkerhet, trygghet, nærhet og tilhørighet. Møtet mellom mennesker er derfor et av våre viktigste og mest grunnleggende behov for opplevd livskvalitet og for å
-kunne fungere godt over lengre tid. Bruk av
-sterkt kontaktreduserende smitteverntiltak vil
-øke den generelle risikoen for at enkeltmenneskers psykiske helse kan bli forverret. En pandemi vil også oppleves som skremmende, og
-mange følte på frykt for selv å bli rammet av alvorlig sykdom og død, eller at ens nære skulle bli det.
-Hvordan endringer i psykisk helse har slått ut i
-økt behov for helsetjenester er nærmere omtalt i
-avsnitt 3.3.
-Pandemien medførte bekymring for folks psykiske helse, særlig blant unge, men også hos
-eldre. Gjennom pandemien oppga i snitt én av fire
-at hverdagen opplevdes psykisk belastende på
-grunn av pandemien, og andelen økte i perioder
-med mer smitte og tiltak. I tillegg var det også
-flere grupper der større andeler opplevde hverdagen som mer psykisk belastende. Dette gjaldt
-både de unge under 30 år, de som hadde mistet
-eller fryktet å miste jobben, og personer med inn12
-
-Forklaring, stortingsrepresentant Erna Solberg, 23. januar
-2023.
-
-85
-
-Kapittel 5
-
-vandrerbakgrunn.13 I tillegg opplevde flere organisasjoner et økt behov for samtaler og bistand,
-blant annet knyttet til mental helse og vold i nære
-relasjoner.14
-I rapporten fra Norsk koronamonitor fremgår
-det at savnet etter menneskelig kontakt gjennom
-hele pandemien økte i takt med smittebølgene, og
-totalt følte tre av ti nordmenn seg ensomme som
-følge av pandemien (28 prosent). Det er særlig de
-yngre under 30 år og eldre over 80 år som opplevde økt ensomhet. I perioder med mer smitte og
-tiltak var det flere som i all hovedsak sluttet å gå
-ut av huset som følge av pandemien, og under
-omikron-perioden gjaldt dette hver fjerde under
-30 år. I 2021 bodde litt over én million nordmenn
-alene. Det tilsvarte ca. 19 prosent av befolkningen.15 Aleneboende var ekstra utsatt for ensomhet gjennom pandemien. De fleste av de som opplevde isolasjon og ensomhet under pandemien har
-likevel klart seg godt i ettertid etter at samfunnet
-åpnet opp igjen, men isolasjon og ensomhet var en
-betydelig byrde for mange mens pandemien
-pågikk.
-Eldre og personer med underliggende sykdommer var særlig utsatt for alvorlig sykdom og
-død som følge av koronasmitte. Dette var grupper
-som myndighetene ønsket å beskytte. Et tiltak
-som ble innført i så henseende var strenge
-besøksrestriksjoner ved sykehjem for å forhindre
-at smitte spredde seg blant de ansatte og videre til
-de sårbare beboerne. Samtidig var det en viss
-andel av sykehjemsbeboerne som uavhengig av
-pandemien var i livets sluttfase. Å nekte eller
-sterkt begrense disse personenes mulighet til å få
-besøk av sine nære og kjære er meget inngripende og utgjorde derfor en betydelig tiltaksbyrde. Tidligere statsminister Erna Solberg kommenterte dette i sin forklaring til Koronautvalget:
-«Vi hadde underdødelighet både i 2020 og 2021,
-og det er fint å kunne si, men samtidig er det en
-del mennesker som de siste månedene av livet sitt
-har opplevd en situasjon hvor de har hatt veldig
-lite kontakt med sine pårørende. Det er måneder
-de ikke får igjen. Du kan veie de to hensynene
-mot hverandre. Samtidig er det sånn at hvis man
-får et utbrudd på et sykehjem – jeg har besøkt
-noen av dem som har hatt store utbrudd – så får
-13
-
-Rapport, Opinion, januar 2022, Norsk koronamonitor: Sammenstilling av utvalgte indikatorer til Koronakommisjonen
-for 2020-2021», side 61-63.
-14 Rapport, Bufdir, juni 2021, «Likestillingskonsekvenser av
-covid-19 og tiltak mot pandemien».
-15 Nettartikkel, SSB, 22. juni 2021, «Nå bor over én million
-nordmenn alene».
-
-[Side 88]
-
-86
-
-Kapittel 5
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-man problemer med veldig mange syke ansatte,
-og man får masse vikarer som skal inn. Man får
-mange tiltak. Det er en avveining, men jeg tror
-ikke vi kan si at vi klarte å verne de mest sårbare
-av de eldre. Vi vernet dem mot å dø av korona,
-men de hadde et fattigere liv i den perioden.»16
-
-5.2.4 Kultursektoren
-Kultursektoren ble hardt rammet av de kontaktreduserende smitteverntiltakene. Dette er en sektor som i stor grad baserer seg på at mennesker
-skal samles. De sterke begrensningene i kultursektorens muligheter for å arrangere kulturaktiviteter var nødvendig for å hindre smittespredning i samfunnet. Samtidig påførte det kultursektoren en tiltaksbyrde for de som til daglig
-hadde sitt levebrød i denne sektoren. I tillegg vil
-utvalget påpeke kultursektorens betydning for
-befolkningens livskvalitet og psykiske helse.
-Kultursektoren er svært heterogen. Aktørene
-varierer fra enkeltmannsforetak til store kommersielle virksomheter, og sektoren omfatter alt fra
-biblioteker, teatre, billedkunstnere og musikere.
-Denne heterogeniteten kombinert med manglende nasjonal oversikt over sektoren gjorde det
-utfordrende å utforme treffsikre smitteverntiltak
-for kultursektoren. Mange av smitteverntiltakene
-kunne vært mer differensierte slik at ikke hele
-sektoren ble underlagt det samme smittevernregimet, men heller mer spesifikt vurdert ut fra faktisk smitterisiko. Det er for eksempel ulik smitte-
-
-Figur 5.2 Terje Vigen fremført av Rogaland Teater for
-5 publikummere 22. april 2020.
-Foto: Fredrik Refvem
-16
-
-Forklaring, stortingsrepresentant Erna Solberg, 23. januar
-2023.
-
-risiko ved åpne biblioteker sammenlignet med
-åpne konserter.
-For å avhjelpe situasjonen for de sysselsatte i
-kultursektoren innførte myndighetene kompenserende tiltak, primært en kompensasjonsordning
-og en stimuleringsordning. Disse ble administrert
-av Kulturdirektoratet. Utvalget vurderer at kompensasjonsordningene i kultursektoren var viktige
-og nødvendige. Samtidig ser utvalget at innretningen og treffsikkerheten på ordningene kan forbedres ved fremtidige kriser. Innretningen på ordningene, aktørenes evne og kapasitet til å forholde
-seg til offentlige tilskuddsordninger og stor grad
-av sjablonmessige vurderinger førte blant annet til
-at noen få store aktører fikk godt utbytte av ordningene, mens mange små aktører fikk et langt
-dårligere utbytte. Ordningene klarte ikke i tilstrekkelig grad å fordele midlene basert på faktiske behov. Dette skyldes primært at sektoren er
-svært heterogen og den er basert på kontinuerlig
-innovasjon som gjør det utfordrende å basere støtten på historiske tall. Det manglet i tillegg gode
-nasjonale oversikter over aktørbildet. Etter utvalgets vurdering hadde det likevel vært mulig å tilrettelegge for mer treffsikre ordninger etter hvert
-som man høstet erfaringer underveis i pandemien. Utvalget vurderer at regjeringen i større
-grad kunne tatt i bruk kompetansen i Kulturdirektoratet i fordelingen av midlene. Istedenfor svært
-detaljerte føringer bestemt på politisk nivå, kunne
-regjeringen gitt Kulturdirektoratet større grad av
-frihet til å fordele midlene etter gitte målsetninger
-som skulle oppnås.
-
-5.2.5 Idretten
-På lik linje med kultursektoren, opplevde også
-idretten en betydelig tiltaksbyrde. I visse perioder
-gjennom pandemien var det svært begrensede
-muligheter for å drive organisert idrett. Breddeidretten er viktig for folks opplevde livskvalitet
-på daglig basis, og på lengre sikt har den stor
-betydning for den generelle folkehelsen. Det er
-derfor bekymringsfullt at det gjennom pandemien
-var et betydelig frafall av deltagere i breddeidretten. Frafallet, særlig blant barn og unge, har
-vedvart i kjølvannet av pandemien.
-Utvalget vurderer at myndighetene var i overkant forsiktige når det gjaldt mulighetene for å
-drive idrett utendørs gjennom pandemien. Allerede våren 2021 forelå det solid belegg for at organisert utendørsidrett, under visse forutsetninger,
-ikke innebar økt risiko for smittespredning.17
-Dette ble helsemyndighetene gjort oppmerksomme på, men regjeringen justerte likevel ikke
-
-[Side 89]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-kursen i like stor grad som kunnskapsgrunnlaget
-åpnet for. Det er uklart for Koronautvalget hvorfor
-det ikke skjedde større endringer på dette området. På dette punktet førte Norge fra og med
-våren 2021 en annen politikk enn for eksempel
-Danmark. Våren 2021 åpnet Danmark for utendørs organisert idrett for hele befolkningen.
-Beslutningen i Danmark var blant annet basert på
-en faglig vurdering fra Statens Serum Institut:
-«Udviklingen i smittetal, nyindlæggelser og indlæggelser er stort set ens per 15. april, uanset om
-der genåbnes for muligheden for at være op til 20
-personer til stede ved udendørs idræts- og
-foreningsaktiviteter for alle aldre (scenarie 7)
-eller kun for børn og unge under 21 år. Dette skyldes at der er tale om udendørs forhold, hvilket
-reducerer risikoen for smitte, samt en begrænset
-aktivitet.»18
-
-I motsetning til danske myndigheter, valgte ikke
-norske myndigheter å avslutte bruken av
-begrensninger på utendørsaktiviteter i de periodene der det var behov for et innstrammet tiltaksnivå. I april 2021 anbefalte regjeringen å
-unngå all utendørsaktivitet for voksne der det ikke
-var mulig å holde en meters avstand. I desember
-2021 gikk regjeringen enda lenger og anbefalte i
-tillegg følgende tiltak som også påvirket barn og
-unge:
-– Barn og unge som er ferdig med ungdomsskolen bør holde meteren også ved gjennomføring av fritidsaktiviteter. Det betyr for eksempel at de ikke bør spille fotball eller håndball,
-hvor det er vanskelig å holde meteren.
-– Å utsette eller avlyse gjennomføring av arrangementer både ute og innendørs, som kamper
-og turneringer, og andre organiserte fritidsaktiviteter på tvers av ulike grupper for både
-barn og voksne. Unntaket er utendørs arrangementer for barn og unge i idretter som ikke
-krever nærkontakter og som kan utøves med
-en meters avstand, som for eksempel skirenn,
-gitt at dette er mulig innenfor arrangementsregelverket.19
-I desember 2021 hadde Danmark ingen anbefalinger om å begrense utendørsaktiviteter. Gitt viktig17
-
-Se blant annet nettartikkel, Dagbladet, 11. juni 2021, «Må
-oppheve forbudet mot fotball».
-18
-Rapport, Statens Serum Institut, 21. februar 2021, «Prognoser for smittetal og indlæggelser ved genåbningsscenarier
-d. 1. marts», s. 8.
-19
-Pressemelding, Statsministerens kontor, 13. desember
-2021, «Strengere nasjonale tiltak for å begrense smitten».
-
-87
-
-Kapittel 5
-
-heten av idretten for den generelle folkehelsen,
-bør myndighetene ved fremtidige situasjoner se
-mer differensiert på denne sektoren slik at mest
-mulig aktivitet kan opprettholdes uten at det svekker det generelle smittevernregimet. Utvalget vurderer at myndighetene, i nært samarbeid med
-idrettsbevegelsen og i et folkehelseperspektiv,
-kunne funnet bedre løsninger for breddeidretten
-under koronapandemien etter hvert som man
-opparbeidet seg mer og bedre kunnskap.
-
-5.2.6 Det samiske samfunnet
-Som urfolk har den samiske befolkningen særskilte rettigheter som det er viktig å ivareta også i
-en pandemisituasjon. Det gjelder for eksempel
-retten til å utøve sin egen kultur og retten til å
-bruke sitt eget språk.20 Gjennom pandemien ble
-det påpekt enkelte utfordringer med tilpasning av
-smittevernregimet til det samiske samfunnet.21
-Dette gjaldt for eksempel oversetting av informasjonsmateriell til ulike samiske språk og smitteverntiltak som ga utfordringer for grensekryssende reindrift. Det pågår nå en studie ved
-Senter for samisk helseforskning om perspektiver
-på covid-19 i samiske samfunn i Norge. Denne studien vil se nærmere på hvordan den samiske
-befolkningen opplevde pandemien og smitteverntiltakene.22
-Hva gjelder utfordringene for det samiske
-samfunnet gjennom pandemien, erfarer utvalget
-at det var tett kontakt mellom regjeringen og
-Sametinget for å forsøke å løse ulike utfordringer
-som oppsto. Det var åpen dialog, læring underveis
-og vilje til å endre kursen der det var nødvendig.
-Det ble for eksempel gitt visse fritak fra innreisetiltakene for den grensekryssende reindriften.23
-På språk- og oversettelsesfeltet vurderer utvalget
-at de samiske språkene ble for lite tatt hensyn til.
-Utvalget ser at myndighetene tok til seg tilbakemeldinger fra det samiske samfunnet og gjorde en
-innsats for å avhjelpe, men like fullt ikke konsekvent oppfylte forpliktelsene staten har til oversetting i henhold til samelovens § 3-2.24 Kommunikasjon ut til den samiske befolkningen var derfor en
-20
-
-FNs konvensjon om sivile og politiske rettigheter artikkel
-27.
-21 Sametinget i høringsinnspill til Koronakommisjonens
-andre rapport, 18. august 2022, side 2.
-22 Den samiske covid-19-studien i Norge skal ferdigstilles i
-2023 og er en del av Arktisk Råd sitt sirkumpolare prosjekt
-Arktiske samfunnsperspektiv på covid-19 og folkehelse: Ein
-fleirstads kasusstudie.
-23
-Pressemelding, Landbruks- og matdepartementet, 17.
-mars 2020, «Reindrift og koronavirus (Covid-19)».
-
-[Side 90]
-
-88
-
-Kapittel 5
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-utfordring gjennom pandemien.25 Sametingspresidenten kommenterte dette i sin forklaring til
-Koronautvalget:
-«Akkurat det at det mangler informasjon på
-samisk, kan ha hatt andre konsekvenser og gitt
-utslag i for eksempel vaksineskepsis og en del
-bekymring i de samiske lokalsamfunnene. Jeg vil
-understreke at jeg ikke har tilgang til noe helhetlig innsamlet kunnskap om dette, men jeg har
-registrert i media og merket i ordskiftet at det var
-veldig stor bekymring både for å ta vaksine og ha
-kontakt med andre større byer.»26
-
-Sametinget måtte bekoste oversetting av materiellet på sør- og lulesamisk uten at de formelt sett
-hadde en definert rolle i myndighetskommunikasjon. Ifølge Sametinget fikk nasjonale myndigheter på plass oversettelser av de grunnleggende
-smittevernreglene til de samiske språkene, men
-de fikk i mindre grad oversatt de løpende
-endringene i retningslinjer og regelverk. Myndighetene bør sikre at viktig informasjon i helsetjenestene kontinuerlig oversettes til alle de
-samiske språkene. Statsforvalter i Troms og Finnmark, Elisabeth Vik Aspaker beskrev utfordringene i sin forklaring til Koronautvalget:
-«[…] bekymringen vår med tanke på den
-samiske befolkningsgruppen har vært at man
-har oversatt til alle mulige andre språk og tatt
-hensyn til andre grupper innvandrere som er i
-Norge, mens vår egen urbefolkning kom i siste
-rekke. Jeg vet ikke hvor mange ganger vi påpekte
-det. […] Du kan tenke deg eldre mennesker som
-tilhørte risikogruppa, så er det ganske mange av
-dem som kan slite med å ta til seg informasjon på
-norsk. Jeg tror aldri vi ble fornøyde. Det var alltid
-slik at vi måtte mase om det.»27
-24
-
-KDD la i mars 2023 frem forslag om endringer i språkreglene i sameloven, blant annet forslag om å presisere hvem
-som har ansvaret for å oversette lover, forskrifter og kunngjøringer. Forslaget klargjør at det er den kommunen eller
-fylkeskommunen som har ansvaret for den lokale forskriften, eller det departementet som har ansvaret for loven
-eller forskriften, som er ansvarlig for å oversette. Ansvaret
-for å oversette kunngjøringer skal, i henhold til forslaget,
-ligge hos kommunen, fylkeskommunen eller det statlige
-organet som står for offentliggjøringen. Kravet om oversettelse innebærer, ifølge forslaget, ikke at det må foreligge
-samtidig oversettelse, men det bør tilstrebes at samisk
-oversettelse foreligger uten ugrunnet opphold og eventuell
-forsinkelse må være saklig begrunnet. For utfyllende informasjon, se Prop. 58 L (2022–2023).
-25 Konsekvenser av pandemien for den samiske befolkningen
-er bredere omtalt i NOU 2022: 5 kap. 10.4.
-26
-Forklaring, sametingspresident Silje Karine Moutka, 12.
-januar 2023.
-
-For fremtidig læring vurderer utvalget at det også
-kan være nyttig for myndighetene å jobbe mer
-sammen med Sverige og Finland i den hensikt å
-finne enda bedre felles løsninger på felles utfordringer for Sápmi når det gjelder pandemihåndtering.
-
-5.2.7 Tros- og livssynssamfunnene
-I perioder gjennom pandemien hvor det var nødvendig med omfattende kontaktreduserende tiltak
-ble deler av virksomheten til tros- og livssynssamfunnene sterkt påvirket. Mulighetene for å samle
-mennesker slik tros- og livssynssamfunnene normalt gjør, var sterkt redusert. Da kirkebygg og
-andre gudshus ble stengt i mars 2020, representerte det en statlig inngripen i tros- og livssynsamfunnenes aktivitet. Deler av deres virksomhet har
-samtidig særskilt beskyttelse i Grunnloven og i de
-internasjonale menneskerettighetene gjennom
-bestemmelsene om religionsfrihet, ytringsfrihet
-og forsamlingsfrihet. Også slike rettigheter kan
-fravikes i særlige tilfeller der myndighetene har
-grunnlag i lov, ivaretar et legitimt formål og fravikelse er nødvendig og forholdsmessig. Utvalget
-erfarer at tros- og livssynssamfunnene hadde forståelse for at også deres aktivitet måtte begrenses
-for å håndtere pandemien, og at de også gjorde en
-betydelig innsats for å bidra til etterlevelse av det
-overordnede smittevernregimet. Koronautvalget
-legger til grunn at myndighetene i fremtidige pandemier gjør selvstendige og grundige vurderinger
-for å sikre at eventuelle inngrep i religionsfriheten, ytringsfriheten og forsamlingsfriheten er i
-tråd med vilkårene for slike inngrep i Grunnloven
-og i de internasjonale menneskerettighetene.
-Gjennom pandemien var myndighetene gjennomgående opptatt av helheten i smittevernregimet like mye som det enkelte tiltak. Det var alltid
-en vurdering rundt konsistens, helhet og rettferdighet i og mellom tiltak som rammer ulike grupper. Likevel er det, slik utvalget ser det, lett å forstå at frustrasjon kunne oppstå hos tros- og livssynssamfunnene da det blant annet i perioder var
-strengere begrensninger på antallet som kunne
-delta på for eksempel en gudstjeneste enn antallet
-som kunne gå på kino. Dette fordi kravet om fastmonterte seter åpnet for bruk av seter i en kinosal, men ikke for bruk av kirkebenker. For å finne
-bedre løsninger for tros- og livssynssamfunnene
-ble det avholdt flere møter mellom myndighetene
-og tros- og livssynssamfunnene allerede våren
-27
-
-Forklaring, statsforvalter Elisabeth Vik Aspaker, 15.
-desember 2022.
+Nasjonalt system for krisehåndtering og internasjonalt samarbeid

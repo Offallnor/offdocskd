@@ -1,1667 +1,462 @@
-# NOU 2023: 16, del 3 av 19 (side 34–44)
+# NOU 2023: 16, del 3 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/92bedf3d-nou-2023-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-16/id2982388/
 - Original-PDF: https://www.regjeringen.no/contentassets/b1dace9390054c85a5a87c7bbf1bc384/no/pdfs/nou202320230016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 7 tabeller, 101 figurer, 743 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 34]
-
-32
-
-Kapittel 2
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-og frilansere ble samtidig forlenget ut januar 2022,
-og stimuleringsordningen for kultursektoren ble
-gjeninnført.
-De nasjonale karantenereglene i denne perioden skilte på hvilken virusvariant man var smittet
-av, hvor kravet var strengere for mistenkt
-omikronsmitte. 9. desember valgte byrådet i Bergen å innføre strengere karanteneregler enn det
-den nasjonale forskriften tilsa. Byrådet ønsket at
-alle smittetilfeller, uavhengig mistanke om
-omikron, skulle behandles som om det var
-omikron. Etter krass kritikk snudde byrådet
-dagen etter og klargjorde at man i stedet skulle
-gjøre en konkret vurdering i hvert enkelt tilfelle
-om det var sannsynlig at det dreide seg om
-omikronsmitte eller ikke.42
-De nye nasjonale tiltakene ble av noen kommuneleger oppfattet som lite meningsfulle. 10.
-desember skrev 47 kommuneoverleger, smittevernleger og samfunnsmedisinere en kronikk
-som pekte på at i flere kommuner hadde tiltakene
-vært mer belastende enn selve pandemien og at
-det hastet med å få normalisert samfunnslivet
-igjen.43
-Mellom 9. og 11. desember ble den utsatte
-fredsprisen for 2020 delt ut i Oslo av det Norske
-Nobelinstitutt. Regjeringen innvilget søknaden
-om unntak fra innreisekarantene for den utenlandske delegasjonen som var invitert til prisutdelingen.
-Søndag 12. desember kom det europeiske
-smittevernbyrået, ECDC, med oppsiktsvekkende
-tall. Av alle land i EU/EØS-området var det kun
-Danmark (195) som hadde flere bekreftede
-omikron-tilfeller enn Norge (109) på det tidspunktet. Til sammenligning hadde for eksempel Sverige bare 23, Belgia 30, Portugal 49, Frankrike 59
-og Tyskland 82 påviste tilfeller.44 Da ECDC oppdaterte tallene to dager senere, sto Norge øverst
-med 1176 bekreftede tilfeller av omikron, som var
-mer enn det samlede antallet bekreftede omikrontilfeller i hele resten av EU/EØS-området til
-sammen.45
-
-42
-
-Nettartikkel, VG, 10. desember 2021, «Kraftige reaksjoner
-etter omikron-grep i Bergen – byrådet snur».
-43 Nettartikkel, iTromsø, 10. desember 2021, «Koronaspagaten har blitt utålelig».
-44 Rapport, ECDC, 12. desember 2021, «Epidemiological
-update: Omicron variant of concern (VOC) – data as of 12
-December 2021 (12:00)».
-45 Ibid.
-
-2.8.4 Ny virusvariant endret spillereglene
-I dagene etter pressekonferansen 7. desember
-leverte FHI og Hdir nye oppdaterte situasjonsforståelser til HOD. Hovedbudskapet var at omikron
-sannsynligvis ville bli den dominerende varianten
-allerede i løpet av desember og at situasjonen var
-stadig mer alvorlig: «Antallet påviste tilfeller av
-SARS-CoV-2-infeksjon øker raskt og etterfølges av en
-økning av innleggelser. Det er ingen sikre tegn på at
-situasjonen er i ferd med å snu.» Budskapet fra
-FHI var nå mer dystert enn i de tidligere vurderingene:
-«Det haster med å bremse epidemien med betydelige tiltak og mer vaksinasjon slik at ikke
-omikronvarianten forårsaker en epidemibølge
-som gir enorm sykdomsbyrde og fullstendig overbelaster helsetjenesten. Formålet er å redusere og
-flate ut denne bølgen. Manglende handling nå
-kan gi store negative effekter for samfunnet, ikke
-bare for helsetjenestene i sykehus og kommuner.»46
-
-Situasjonsforståelsen inkluderte matematiske
-modelleringer som forsøkte å anslå epidemiens
-sykdomsbyrde de neste ukene. Rapporten om
-modelleringene tok forbehold om at anslagene
-ikke tok høyde for effekt av innførte smitteverntiltak, adferdsendringer eller omikrons egenskaper.
-Disse teoretiske anslagene var høye sammenlignet med tidligere observerte bølger. FHIs
-risikovurdering og de nye modelleringene fikk
-bred omtale i media. Dette er videre omtalt i
-avsnitt 12.3.5.
-Gjennom helgen 11–12. desember jobbet
-Helse- og omsorgsdepartementet med forslag til
-regjeringsbeslutninger basert på de oppdaterte
-faglige rådene fra FHI og Hdir. Nasjonale tall på
-innleggelser på intensiv med covid-19 var denne
-uken økende, noe som indikerte at smitten med
-deltavarianten også var utbredt og kunne gi flere
-innleggelser fremover. HODs vurdering var at
-regjeringen, ut fra ny kunnskap om omikronvariantens smittsomhet, ikke burde avvente og se an
-effekten av tiltakspakken som ble besluttet 7.
-desember og iverksatt 9. desember. Rådet fra helsemyndighetene var tydelig – regjeringen måtte
-handle raskt og kraftfullt. Om morgenen mandag
-13. desember sendte helse- og omsorgsministeren
-46
-
-Svar på oppdrag, Helsedirektoratet til HOD, 13. desember
-2021, «Justert svar på covid-19 oppdrag nr. 576 fra Helse- og
-omsorgsdepartementet – Vurdering av situasjonen og
-behov for justering i nasjonale smitteverntiltak».
-
-[Side 35]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-totalt seks r-notater til alle de andre regjeringsmedlemmene. Alle notatene hadde blitt utarbeidet
-så raskt at HOD ikke hadde rukket å konsultere
-de andre departementene på vanlig måte. De mest
-berørte statsrådene var likevel uformelt informert
-og delvis konsultert.
-En enda mer omfattende «pakke» med smitteverntiltak ble vedtatt i regjeringskonferansen
-denne mandagen og presentert på en pressekonferanse samme kveld. Statsminister Støre innledet pressekonferansen og redegjorde for
-begrunnelsen av tiltakene:
-«Det er nå liten tvil: den nye virusvarianten
-endrer spillereglene. Derfor er vi nødt til å
-handle raskt. Og vi må handle igjen. Tiltakene vi
-innførte i forrige uke vil etter alt å dømme ha
-effekt, og de skal få lov til å vare. Men de må forsterkes. Jeg sa i forrige uke at vi ville innføre
-strengere tiltak hvis vi fikk kunnskap som gjorde
-det nødvendig. Det har vi nå. Det er økt risiko for
-at vi får svært mange syke mennesker som følge
-av en kraftig økning i smitten i ukene fremover.
-Det kan føre til en overbelastning av helsetjenesten, både i sykehusene og i kommunene. De
-siste dagene har antall covid-pasienter på sykehus og antallet på intensivavdelinger økt. Det er
-stort press på fastleger, legevakt og kommunale
-helse- og omsorgstjenester. Sykefraværet blant
-fagfolk i helsetjenesten er også økende. Det er
-også sykefraværet ute i samfunnet generelt. I sum
-er belastningen på helsetjenesten betydelig, allerede i dag. Ingenting tyder på at situasjonen er i
-ferd med å snu – snarere tvert imot. Derfor må
-vi ta ytterligere grep nå.»47
-
-2.8.5
-
-Smitteverntiltakene under omikronperioden
-Mandag 13. desember 2021 ga regjeringen blant
-annet anbefaling om å utsette eller avlyse idrettsarrangementer og andre organiserte fritidsaktiviteter både ute og inne. Alle som kunne ha hjemmekontor skulle ha hjemmekontor. I forskrift ble
-antallsbegrensningen for arrangementer og sammenkomster strammet inn. Det ble pålagt full
-nasjonal skjenkestopp både inne og ute. Bruk av
-munnbind ble skjerpet inn. Universiteter, høyskoler og fagskoler måtte tilrettelegge for digital
-undervisning, ferdighetstrening og eksamen så
-langt det var mulig. Det ble innført nasjonalt gult
-nivå i barnehager, barneskoler og ungdomsskoler
-samt nasjonalt rødt nivå i videregående skoler.
-47
-
-Jonas Gahr Støre, pressekonferanse, 13. desember 2021.
-
-33
-
-Kapittel 2
-
-I tre tilfeller gikk regjeringen lenger enn fagetatenes smittevernfaglige vurdering:
-– Etatene anbefalte et forsterket råd om bruk av
-hjemmekontor mens regjeringen valgte pålegg
-i forskrift.
-– For universiteter, høyskoler og fagskoler anbefalte Folkehelseinstituttet et forsterket råd om
-digital gjennomføring av undervisning, ferdighetstrening og eksamensavvikling så langt det
-var mulig. Helsedirektoratet la vekt på at det
-var viktig at studenter fikk fullført obligatorisk
-undervisning og avlagt eksamen. De foreslo
-derfor at regjeringen burde vurdere behovet
-for å kommunisere ut at institusjonene burde
-forsøke å tilrettelegge for både fysisk og digital
-undervisning våren 2022. Regjeringen valgte
-derimot å pålegge universiteter, høyskoler og
-fagskoler så langt det var mulig å tilrettelegge
-for at undervisning, ferdighetstrening og eksamen ble gjennomført digitalt.
-– Fagetatene anbefalte innføring av nasjonalt
-gult nivå for barnehager og barneskoler og
-lokal beslutning om bruk av trafikklysmodellen for ungdomsskoler og videregående skoler.
-Regjeringen fulgte fagetatene med hensyn til
-barnehager og barneskoler, men valgte å innføre nasjonalt gult nivå i ungdomsskolen og
-nasjonalt rødt nivå for videregående. Alle
-beslutningene om bruk av trafikklysmodellen
-ble regulert i forskrift.
-De to første punktene skapte i liten grad debatt
-fordi de aller fleste uansett fulgte regjeringens råd
-og anbefalinger på disse områdene. Da hadde det
-liten betydning om tiltaket var en anbefaling eller
-et krav. Det ble derimot en langt større kontrovers
-rundt beslutningen om nasjonalt rødt nivå i videregående skoler. Dette er nærmere omtalt i
-avsnitt 12.3.3.
-Under pressekonferansen pekte regjeringen
-på de oppdaterte anslagene fra Folkehelseinstituttet. Regjeringen la samtidig økt trykk på vaksinering og ba Forsvaret og apotekene om å bistå
-kommuner som hadde behov for hjelp. Intervallet
-mellom andre og tredje dose ble igjen nedjustert,
-fra 5 måneder til 4,5 måneder. Samtidig ble kommunene bedt om å prioritere tredje dose til
-ansatte i skoler og barnehager. Regjeringen fremskyndet vaksinasjonsmålet og sa at alle over 45 år
-skulle få tilbud om tredje dose innen midten av
-januar 2022.
-På denne tiden var fortsatt flertallet av alvorlig
-syke covid-19-pasienter uvaksinert. Helse Sør-Øst
-skrev i en nyhetssak 14. desember at 56 prosent
-av de inneliggende med covid-19 på intensivavde-
-
-[Side 36]
-
-34
-
-Kapittel 2
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-lingene ikke var vaksinert og pekte videre på at
-«Den relativt lille gruppen uvaksinerte kan spille en
-avgjørende rolle for hvor raskt vi kommer oss ut av
-denne alvorlige situasjonen.»48
-Dagen etter innstrammingen av smitteverntiltakene presenterte regjeringen flere økonomiske
-tiltak for å dempe de negative konsekvensene av
-smitteverntiltakene.49 Detaljene i den nye lønnsstøtteordningen ble presentert noen dager
-senere, fredag 17. desember.
-48
-
-Nettartikkel, Helse Sør-Øst, 14. desember 2021, «Flertallet
-av de sykeste er ikke vaksinert».
-
-Fra 15. desember ble covid-19-forskriften
-endret slik at reglene for karantene var like, uavhengig av virusvariant. Endringen innebar at flere
-ble omfattet av krav om karantene etter nærkontakt med en smittet. Denne forskriftsendringen
-førte til en økning i sykefraværet, blant annet for
-49
-
-Den nasjonale kompensasjonsordningen for næringslivet
-ble forlenget ut 2021, utvidelse av den kommunale kompensasjonsordningen for lokale virksomheter, gjeninnføring av
-lånegarantiordningen, gjeninnføring av støtteordningen for
-store publikumsåpne arrangementer, utvikling av en ny
-lønnsstøtteordning og forlengelse av kompensasjonsordningen for kultursektoren var blant tiltakene i den økonomiske pakken.
-
-Boks 2.2 Forsvaret som vaksinestøtte for kommunene
-Da regjeringen ga oppdraget om å støtte kommuI perioden mottok forsvaret 25 anmodninger
-nene i vaksineringen, mobiliserte forsvaret flere
-om bistand, hvorav seks ble avslått. Begrunnelmobile vaksineringsteam med 16 personer i hvert
-sen for avslag var enten kapasitetsutfordringer
-team. Innsatsen var klar allerede 14. desember,
-eller at oppdraget ikke var direkte rettet mot
-dagen etter avgjørelsen i regjering, men første
-vaksinering. I løpet av perioden satte forsvarets
-oppdrag kom først 19. desember. Forsvaret
-personell 63 559 vaksinedoser.
-avsluttet oppdraget den 31. januar 2022.
-
-Figur 2.11 Sanitetsbataljonen støtter med vaksineteam på Vikevåg i Rennesøy i Rogaland 7. januar.
-Kilde: Forsvaret
-
-[Side 37]
-
-Kilde: Helse- og omsorgsdepartementet
-Kollektivtransport/taxi
-
-Registrere opplysninger til gjester
-(unntak for bibliotek, butikker/
-kjøpsentre).
-
-Sosiale arrangementer anbefales begrenses til samme
-klasse/kohort.
-Egne krav om smittvernfaglig forsvarlig drift, blant
-annet hygienetiltak og kontaktreduserende tiltak.
-
-Butikker/kjøpesentre
-Krav om munnbind dersom man ikke kan holde 1m
-avstand.
-Krav om smittvernfaglig forsvarlig drift.*
-
-Skoler: Jevnlig testing i områder med høyt smittetrykk.
-
-Skoler, barnehager, SFO
-
-• Anbefaling om å holde 1m avstand og å bruke
-munnbind der det ikke er mulig.
-
-Arrangementer utendørs:
-
-• Uten faste tilviste plasser: Maks 50 personer.
-• Med faste tilviste plasser: Kohorter på 3x200
-personer med 2m avstand mellom kohortene.
-• Registrering av gjester som samtykker til det.
-• Skjenkestopp kl. 24.00.
-• Arrangør skal legge til rette for at man skal
-kunne holde 1m avstand til andre enn
-husstandsmedlemmer og tilsvarende nære.
-1-meterskravet gjelder ikke når alle i publikum
-kan ha minst ett ledig sete mellom seg på samme
-seterad fra de ankommer arrangementet. Personer
-fra samme husstand kan sette seg nærmere
-hverandre etter ankomst.
-
-• Maks 20 personer, maks 50 personer ved
-minnestund.
-• Arrangør skal legge til rette for at man skal
-kunne holde 1 m avstand til andre enn
-husstandsmedlemmer og tilsvarende nære.
-
-For private arrangementer/sammenkomster
-innendørs:
-
-Skoler/barnehager/SFO:
-lokalt.
-
-Krav om munnbind dersom man ikke kan holde 1m
-avstand. I taxi er det påbud om bruk av munnbind for
-både passasjer og sjåfør.
-
-Se regjeringen.no/innreisefor unntak.
-
-Norge, og må i karantene dersom de kommer fra et
-område med karanteneplikt. Egne regler gjelder for
-reisende fra Sør-Afrika og omkringliggende land i
-forbindelse med omikron-varianten.
-
-Alle reisende må i utgangspunktet teste seg ved
-ankomst Norge.
-
-Alle reisende må i utgangspunktet registrere seg før
-ankomst til Norge.
-
-Ankomst Norge
-
-• Oppfordring om maks 10 gjester i tillegg til de du
-bor sammen med, maks 20 gjester en gang i løpet
-av jule- og nyttårshøytiden. Barn i barnehager og
-barneskoler kan ha besøk fra egen kohort/klasse/
-avdeling selv om det overstiger anbefalt antall
-gjester.
-• Hold 1m avstand til andre enn de du bor med og
-tilsvarende nære. Unntak for barn i barnehager og
-barneskoler, og ved utøvelse av tjenester for barn
-og unge / sårbare grupper.
-• Møt andre utendørs der det er mulig.
-• Unngå håndhilsning og klemming.
-• Voksne bes vurdere om de kan redusere
-nærkontakter noe.
-
-Private hjem og sosial kontakt
-
-Arrangementer
-
-• Krav om at serveringssteder legger til rette for 1m
-avstand til andre enn hustandsmedlemmer og
-tilsvarende nære.
-• Krav om munnbind der det ikke er mulig å holde
-meteren.
-• Skjenkestopp kl. 24.00.
-• Servering av alkohol kun ved bordservering.
-• Serveringssteder med skjenkebevilling skal
-ha sitteplasser til alle gjester (unntak for
-kulturarrangementer).
-• Plikt til å registrere gjester som samtykker til det.
-
-Si ja til vaksine.
-Hold deg hjemme og test deg når du er syk.
-
-Restauranter, kafeer, uteliv
-
-Det viktigste
-
-Sørge for at det er mulig å holde minst
-1m avstand, rutiner for god hygiene
-og renhold, fastsette hvor mange som
-maks kan være i lokalene og sørge for
-at dette blir overholdt.
-
-* Smittevernfaglig forsvarlig drift:
-
-Sjekk din
-kommunes nettsider
-for lokale tiltak.
-
-Gjelder fra 9. desember 2021
-
-Nasjonale råd
-og regler
-
-[ Korona | covid-19 ]
-
-NOU 2023: 16
-
-Figur 2.12 Plakat med nasjonale råd og regler bestemt 8. desember. Gjaldt fra 9. desember 2021.
-Krav om munnbind dersom man ikke kan holde 1m
-avstand. Plikten til å bruke munnbind gjelder ikke for
-kunden i situasjoner der det ikke er praktisk mulig å
-bruke munnbind.
-
-Frisør, hudpleie, tatovering o.l.
-
-Krav om smittvernfaglig forsvarlig drift.*
-
-Krav om munnbind dersom man ikke kan holde
-1m avstand.
-
-Biblioteker, museer,
-fornøyelsesparker, bingohaller,
-lekeland, spillehaller o.l.
-
-Anbefaling om mer undervisning i mindre grupper og
-mer digital undervisning.
-
-Høyere utdanning
-
-Krav om smittvernfaglig forsvarlig drift.*
-
-Treningssentre og svømmehaller
-
-Toppidretten kan gjennomføres som normalt.
-
-Voksne over 20 år: Anbefales å gjennomføres utendørs
-så langt det er mulig. Ved gjennomføring av innendørs
-organisert trening/øving anbefales grupper på inntil
-20 personer, god avstand der det er mulig for å
-kunne utøve aktiviteten, minst to meter avstand ved
-høyintensiv trening.
-
-Barn og unge under 20 år: Anbefales å
-gjennomføres utendørs så langt det er mulig. Ingen
-antallsbegrensning verken ved utendørs eller
-innendørs organisert trening eller øving.
-
-Idretts- og fritidsaktiviteter
-
-mulig å ha hjemmekontor.
-
-Arbeidsgiver skal legge til rette for at ansatte jobber
-hjemmefra når det er praktisk mulig og ikke til hinder
-for viktig og nødvendig virksomhet på arbeidsplassen,
-blant annet virksomhet for å ivareta barn og sårbare
-grupper.
-
-Anbefaling om 1m avstand, bruk av munnbind om
-ikke mulig å holde avstand.
-
-Arbeidsplasser
-
-Evaluering av pandemihåndteringen
-
-Kapittel 2
-
-35
-
-[Side 38]
-
-Kilde: Helse- og omsorgsdepartementet
-
-Registrere opplysninger til gjester (unntak for
-bibliotek, butikker/kjøpsentre).
-
-Sørge for at det er mulig å holde minst 1 m
-avstand, rutiner for god hygiene og renhold,
-fastsette hvor mange som maks kan være i
-lokalene og sørge for at dette blir overholdt.
-
-* Smittevernfaglig forsvarlig drift:
-
-Personer med risiko for alvorlig sykdomsforløp
-og uvaksinerte voksne bør skjerme seg, men ikke
-isolere seg. Det er viktig med noe sosial kontakt.
-
-•
-
-Serveringssteder skal ikke gjennomføre aktiviteter
-som normalt innebærer mindre avstand mellom
-gjestene enn 1m (f.eks dansing).
-Serveringsstedet skal sørge for smittevernet, men
-du må også passe på at dere ikke er for mange.
-Krav om munnbind der det ikke er mulig å holde
-meteren, unntak mens man sitter ved bordet.
-Plikt til å registrere gjester som samtykker til det.
-
-•
-
-•
-•
-•
-
-Skjenkestopp. Arrangør skal bl.a. sørge for at alle
-kan holde minst 1m avstand til andre som ikke er i
-samme husstand el tilsvarende nære.
-
-Arbeidsliv
-Arbeidsgivere pålegges å sørge for at ansatte jobber
-hjemmefra dersom dette er praktisk mulig og ikke
-til hinder for viktig og nødvendig virksomhet på
-arbeidsplassen, blant annet virksomhet for å ivareta
-barn og sårbare grupper.
-Anbefaling om 1 m avstand og bruk av munnbind om
-ikke mulig å holde avstand.
-
-•
-
-•
-
-Butikker/kjøpesentre
-Krav om munnbind dersom man ikke kan holde 1m
-avstand.
-
-Krav om smittvernfaglig forsvarlig drift.*
-
-Krav om munnbind dersom man ikke kan holde 1m
-avstand. Plikten til å bruke munnbind gjelder ikke for
-kunden i situasjoner der det ikke er praktisk mulig å
-bruke munnbind.
+## Vaksiner: veien ut av pandemien
 
-Frisør, hudpleie, tatovering o.l.
+I henhold til «Nasjonal beredskapsplan mot utbrudd av alvorlig smittsomme sykdommer», har HOD, eventuelt regjeringen, ansvaret for hvem som skal prioriteres for vaksinasjon, og i hvilken rekkefølge i en situasjon med knapphet på vaksiner.[^64] Regjeringen begynte å diskutere vaksinestrategien allerede sommeren 2020 da de ba FHI i samarbeid med Hdir om å vurdere hvilken effekt vaksinen ville ha på smittespredning. Etatene ble også bedt om å se på effekten av å gi helsepersonell og risikogrupper tilbud om vaksine kontra det å gi tilbud til hele befolkningen. Etatene utviklet en matematisk modell som viste at det ville ha mindre effekt på R-tallet og flokkimmuniteten å vaksinere eldre, som har færre kontakter, enn å vaksinere de gruppene i befolkningen med høyere kontakthyppighet. Andre hovedfunn fra modelleringene var at vaksinasjon av helsepersonell og risikogrupper ville redusere antallet dødsfall og belastningen på sykehusene, men at det ikke ville beskytte den øvrige befolkningen mot oppblussing av smitte. Dermed ville det fortsatt være behov for smitteverntiltak i samfunnet. Konklusjonen, som var forbundet med betydelig usikkerhet, var at det ville ha størst effekt på smittespredningen å vaksinere hele befolkningen. FHI anbefalte at regjeringen først vaksinerte risikogrupper og helsepersonell og samtidig opprettholdt smitteverntiltakene i samfunnet. FHI anbefalte at man deretter vaksinerte hele befolkningen så snart flere vaksiner var tilgjengelige.[^65] 2. juli 2020 konkluderte regjeringen med at tidlig vaksinering av hele befolkningen var regjeringens hovedprioritet og i september fikk FHI i oppdrag å utarbeide en nasjonal plan for vaksinasjon.
 
-•
+I midten av oktober konkluderte regjeringen, etter anbefaling fra FHI, med at vaksinering mot covid-19 skulle skje innenfor det nasjonale vaksinasjonsprogrammet, at vaksinering skulle være gratis for alle og at staten skulle dekke kommunenes og helseforetakenes utgifter knyttet til vaksineringen.
 
-Plikt til å registrere gjester som samtykker til det.
+En rask og godt gjennomført vaksinering var nøkkelen til at helsetapene i Norge ble relativt lave. Vaksineopptaket i befolkningen i Norge er høyt og administreringen av massevaksineringen i kommunene har vært effektiv. Den høye oppslutningen om vaksinene vitner om høy tillit, kunnskap og aksept for at vaksinasjon var veien ut av pandemien.
 
-Varemesser, midlertidige markeder o.l.
+Figur 2.19 under viser antall personer vaksinert med 1., 2., og 3. dose i Norge, samt totalt antall vaksinerte med hver av dosene. Totalt antall vaksinerte kan man se på den venstre aksen. På det høyeste ble det satt 120 000 doser på én dag i Norge. Norges administrering av vaksineringen var i takt med de andre nordiske landene, se figur 2.21. Danmark skiller seg tydelig ut høsten 2021, med en omfattende og tidlig massevaksinering med tredje oppfriskningsdose før juleferien for å begrense konsekvensene av omikronvarianten.
 
-Rødt nivå på videregående skoler og for
-voksenopplæring.
+Vaksinering i Norge gjennom pandemien. Antall vaksinert daglig (høyre) og kumulativt (venstre) fordelt på doser.
 
-Gult nivå i barnehager og barne- og ungdomsskoler,
-må ha beredskap for rask overgang til rødt nivå.
-Det kan arrangeres sammenkomster i barnehage/
-barneskole med hele klasser/avdelinger/grupper
-med nødvendig antall voksne til stede.
+Note: Det ble vaksinert få personer i helgene, noe som gjør at mange dager har få vaksinerte.
 
-Egne anbefalinger for idrettsarrangementer for barn
-og unge utendørs, se regjeringen.no/arrangementer
+FHI
 
-•
+Sammenligning av antall vaksiner satt per dag i Finland, Norge, Sverige og Danmark. Per 1 million innbyggere.
 
-Utendørs: Anbefalt maks 20 personer og 1 m
-avstand. 
+Our World in Data
 
-•
+Regjeringens vaksinasjonsstrategi
 
-Skolesvømming, svømmekurs, svømmetrening,
-konkurransesvømming med arrangør.
-Rehabilitering og opptrening individuelt / i mindre
-grupper med arrangør.
-Annen individuell behandling som det kan bestilles
-time til og hvor bad er en del av behandlingen.
+Regjeringens hovedprioritet var tidlig vaksinering av befolkningen og etter oppdrag utarbeidet FHI en nasjonal plan for vaksinasjon. Høsten 2020 nedsatte FHI en ekspertgruppe i etikk og prioritering som skulle komme med anbefalinger for prioritering i vaksinasjonsrekkefølgen. Ekspertgruppen anbefalte en dynamisk strategi hvor prioriteringene skulle ta hensyn til pandemiens utvikling, smittesituasjonen i Norge og vaksinens egenskaper. Modellen innebar for eksempel at risikogrupper burde prioriteres først når smittetrykket var lavt, mens helsepersonell burde prioriteres først når smittetrykket var høyt.
 
-•
-•
-•
+FHI leverte to rapporter til HOD om koronavaksinasjonsprogrammet. 1. desember behandlet regjeringen FHIs første rapport og vedtok en vaksinasjonsstrategi i tråd med anbefalingene fra FHI og ekspertgruppen. Regjeringen konkluderte blant annet med at koronavaksinasjonsprogrammet skulle ha samme mål som regjeringens strategi for pandemihåndteringen og sluttet seg til en dynamisk prioritering tilpasset smittesituasjonen med følgende prioriteringsrekkefølge i den innledende fasen der tilgangen på vaksiner var begrenset:
 
-Karantene
-Felles regler for isolasjon og smittekarantene
-uavhengig av virusvariant. Se detaljer på
-regjeringen.no/smittekarantene.
+- Scenario 1a (kontroll): Risikogrupper prioriteres først, deretter helsepersonell.
 
-Skal holde stengt.
+- Scenario 1b (kontroll med klynger): Risikogrupper prioriteres først, deretter helsepersonell. Det vurderes om helsepersonell i sykehjem og helsepersonell som er særlig utsatt for smitte, skal prioriteres høyere i utbruddsområder.
 
-Ikoner: Streamline
+- Scenario 2a (delvis kontroll): Risikogrupper prioriteres først, deretter helsepersonell. Geografisk prioritering vurderes.
 
-Treningssentre kan ha gruppetrening utendørs med
-maks 20 personer og minst 1 m avstand mellom de
-som er til stede.
+- Scenario 2b (utbredt smitte): Helsepersonell prioriteres først, deretter risikogrupper før kritiske samfunnsfunksjoner. Geografisk prioritering vurderes.
 
-Krav om smittvernfaglig forsvarlig drift.*
+FHI leverte en oppdatert rapport om koronavaksinasjonsprogrammet til HOD den 15. desember. Rapporten inneholdt konkrete planer for å starte vaksinasjonen i desember og en konkret prioriteringsliste over hvilke risikogrupper som burde vaksineres, og i hvilken rekkefølge. Modelleringer FHI hadde gjennomført viste at den beste vaksinestrategien for å minimere antall innleggelser og tallet på døde var å vaksinere de eldste først, og uten geografisk prioritering til områder med vedvarende høyt smittetrykk og mange innleggelser. Prioriteringslisten prioriterte beboere i sykehjem øverst og deretter basert på alder og underliggende sykdommer.
 
-Plikt til å registrere gjester som samtykker til det.
+Ytterligere prioriteringsgrupper, blant annet for helsepersonell, yngre aldersgrupper og ansatte i skoler og barnehager kom på senere tidspunkter gjennom pandemien. Det ble også gjort endringer våren 2021 for å tilpasse vaksinestrategien til geografiske variasjoner i smittetrykket. Det innebar noe fremskynding av vaksiner til kommuner med høyt smittetrykk, som foreksempel Oslo.
 
-Individuell trening, krav om 2 meter avstand ved
-høyintensiv trening.
+NOU 2022: 5 *Myndighetenes håndtering av koronapandemien*, kap. 9
 
-•
+\[Boks slutt\]
 
-Holdes kun åpent for:
+Del II
 
-Treningssentre, svømmehaller, badeland,
-spaanlegg og hotellbasseng
+Konsekvenser av pandemien
 
-Toppidrett kan gjennomføres tilnærmet som normalt
-innenfor rammen av de nye smitteverntiltakene.
+# Helsemessige og sosiale konsekvenser av pandemien
 
-Innendørs: Anbefales utsatt/avlyst.
+Stengt rådhus i Ålesund kommune.
 
-•
+Foto: Ålesund kommune
 
-Voksne over 20 år:
+Oppsummering
 
-For barn/unge som er ferdig med ungdomsskolen
-anbefales gruppestørrelse på maks 20 personer, og i
-tillegg bør denne aldersgruppen holde meteren også
-ved gjennomføring av fritidsaktiviteter.
+- Fra et helseperspektiv kom Norge bedre ut av pandemien sammenlignet med de fleste andre land i Europa.
 
-skolen. Innendørs anbefales gruppestørrelse på
-maks 20 personer eller etter klasse/kohort.
+- Norge hadde færre innleggelser og døde enn andre sammenlignbare land, og under store deler av pandemien hadde Norge underdødelighet i befolkningen.
 
-Barn til og med ungdomsskole: Utendørs anbefales
+- Sykehusene måtte i perioder omdisponere sin kapasitet. Det er likevel lite som tyder på et omfattende helsetap som følge av pandemien i Norge.
 
-•
+- Helsetilbudet til befolkningen, både i primær- og spesialisthelsetjenesten, ble påvirket av pandemien, men i mindre grad enn i mange andre land.
 
-•
+- Tall på fastlegebesøk og henvisninger indikerer at befolkningens psykiske helse under pandemien var dårligere enn i normaltid. Det er for tidlig å konkludere med om dette var forbigående, eller om det vil få langvarige konsekvenser.
 
-Barn og unge under 20 år:
+\[Boks slutt\]
 
-Bør gjennomføres utendørs så langt det er mulig for
-alle aldergrupper.
+## Innledning
 
-Idretts- og fritidsaktiviteter
+I dette kapittelet oppsummerer vi sykdomsbyrden av covid-19 for Norge, og sammenligner denne med resten av Norden og andre sammenlignbare land. I hovedsak ser vi på utviklingen i sykehusinnleggelser og død som følge av covid-19. Dernest ser vi nærmere på hvordan pandemien påvirket andre helseaspekter. Vi drøfter utviklingen i befolkningens psykiske helse, og hvordan helsetilbudet til befolkningen ble påvirket av pandemien.
 
-Krav om å tilrettelegge for digital undervisning,
-ferdighetstrening og eksamen så langt det er mulig.
+## Sykdomsbyrde av covid-19 i Norge og på tvers av land
 
-Høyere utdanning
+I denne delen presenterer vi tall for utviklingen i sykehusinnleggelser og døde gjennom pandemien. Vi presenterer først utviklingen i sykdomsbyrden i Norge, og deretter sammenlignes Norge, Danmark, Sverige og Finland i perioden januar 2020 til september 2022.
 
-•
+### Sykehusinnleggelser
 
-•
+Daglige innleggelser i Norge på grunn av covid-19
 
-Fornøyelsesparker, lekeland, spillehaller o.l.
+Figur 3.2 viser daglige innleggelser på sykehus med covid-19 som hovedårsak, og antall nye pasienter på intensivavdeling med påvist covid-19. Figuren viser i tillegg det totale antallet innleggelser i perioden 6. mars 2020 til 30. september 2022. 6. mars 2020 er datoen for den første covid-19-innleggelsen i Norge. Per 30. september 2022 hadde 16 172 pasienter vært lagt inn på sykehus på grunn av koronasmitte, og tilsvarende 2 303 pasienter på intensivavdeling med påvist covid-19. I hele 2020 og 2021 ble 7 280 pasienter lagt inn på grunn av covid-19, mens det i perioden 1. januar til 30. september 2022 ble lagt inn 8 892 pasienter. Dermed var det flere innleggelser på grunn av covid-19 i 2022 enn i 2020 og 2021 til sammen.
 
-Påbud om å bruke munnbind gjelder i noen
-publikumsrettede deler av arbeidslivet.
+Det høyeste antallet nye innleggelser med covid-19 som hovedårsak fant sted de første månedene av 2022. Det var derimot svært få, sammenlignet med tidligere i pandemien, som ble lagt inn på intensivavdeling i 2022. De relativt få innleggelsene på intensivavdeling i 2022 skyldes både at omikronvarianten førte til et mildere sykdomsforløp, og at vaksinene i stor grad beskyttet mot alvorlig sykdom.
 
-Munnbind anbefales.
+Daglige innleggelser på sykehus med covid-19 som hovedårsak (venstre akse). Daglige innleggelser på intensivavdeling er pasienter med bekreftet SARS-CoV-2 (til venstre). Kumulative tall (høyre akse).
 
-•
+FHI
 
-Krav om smittvernfaglig forsvarlig drift.*
+Inneliggende pasienter i Norden med covid-19
 
-Med faste tilviste plasser: 200 personer x 3.
+Figur 3.3 viser inneliggende covid-19-pasienter på sykehus per 1 million innbyggere i Norge, Sverige, Danmark og Finland. Fordi pasienter ligger et ulikt antall dager på sykehus, vil antall inneliggende pasienter gi et riktigere bilde av sykehusenes situasjon enn nye innleggelser som vist i figur 3.2. Vi velger derfor i den videre omtalen å fokusere på inneliggende pasienter. Figur 3.4 viser antall inneliggende på intensivavdeling med covid-19 per 1 million innbyggere.
 
-•
+Antall inneliggende pasienter på sykehus med covid-19 per 1 million innbyggere i Norge, Finland, Sverige og Danmark.
 
-•
+Note: I Norge stanset denne statistikken i mars 2022. Statistikken ble produsert av Helsedirektoratet.
 
-Uten faste tilviste plasser: Maks 100 personer.
+Offisiell statistikk samlet av Our World in Data
 
-•
+Antall inneliggende pasienter på intensivavdeling med covid-19 per 1 million innbyggere i Norge, Finland, Sverige og Danmark.
 
-Munnbindpåbud.
+Note: I Norge stanset denne statistikken i mars 2022. Statistikken for inneliggende på intensiv i Norge startet først 7. april 2020, før dette hadde Norge kun nasjonale tall for antall på respirator. Statistikken ble produsert av Helsedirektoratet.
 
-Med faste tilviste plasser: Maks 50 personer.
+Offisiell statistikk samlet av Our World in Data og Helsedirektoratet
 
-•
+Sammenlignet med Norge, Danmark og Finland hadde Sverige langt flere inneliggende i starten av pandemien. Danmark hadde noe flere inneliggende enn Norge, mens Finland hadde noe færre det første året. Utvalget understreker at slike sammenligninger må tolkes med forsiktighet da det kan være ulike definisjoner og ulike kriterier for innleggelser mellom land. De nordiske landene, med unntak av Sverige, fikk forholdsvis raskt ned antall inneliggende utover våren 2020. Sverige var nede på lignende nivå på sykehusinnleggelser som de andre nordiske landene i september 2020. Deretter hadde Sverige en kraftig økning fra starten av november. Først i juli 2021 var antall inneliggende igjen nede på et like lavt nivå som resten av Norden.
 
-Uten faste tilviste plasser: Maks 20 personer.
+Danmark hadde også en markant økning i antall inneliggende mot slutten av 2020, men langt lavere enn Sverige. Norge og Finland hadde en mindre økning i denne perioden, mens disse to landene hadde noe flere inneliggende pasienter enn Danmark i mars og april 2021. Mot slutten av 2021 er det Danmark som hadde høyest antall innleggelser. Sverige hadde også et høyt antall på dette tidspunktet, men det falt raskt utover i 2022. Norge hadde det høyeste antallet inneliggende pasienter på intensivavdeling i Norden mot slutten av 2021. Utover i 2022 hadde Finland et relativt høyt antall innleggelser. I starten av 2022 var det ikke lenger en like tydelig samvariasjon mellom inneliggende på sykehus og på intensivavdeling i alle de fire landene.
 
-•
+I 2020 og 2021 fulgte antall innlagte på intensivavdeling i stor grad samme mønster som antall innlagte samlet. Fra slutten av januar 2022 skjer det et tydelig brudd der antall pasienter med covid-19 økte, mens antall pasienter på intensivavdeling ikke økte. At vaksinen beskyttet mot alvorlig sykdom, samt at omikronvarianten ga mindre alvorlig sykdom, gjorde at man i større grad kunne slippe løs smitten uten at det i for stor grad presset kapasiteten ved intensivavdelingene. Tidligere i pandemien hadde covid-19-pasienter med behov for respiratorbehandling vært uvanlig ressurskrevende sammenlignet med andre intensivpasienter.
 
-Munnbindpåbud.
+### Døde
 
-•
+Antall døde i Norge
 
-•
+Ved utgangen av 2022 var det registrert totalt 4 913 covid-19-assosierte dødsfall i Dødsårsaksregisteret i Norge. Av disse døde et flertall i løpet av 2022. Ved utgangen av 2021 var det registrert 1 425 dødsfall, mens det tilsvarende tallet i 2020 var 461 personer. Figur 3.5 viser aldersfordelingen for covid-19-assosierte dødsfall for 2020, 2021 og 2022. Covid-19 var en dødelig sykdom hovedsakelig for de eldste. I 2022 var om lag 90 prosent av de døde over 70 år, mens denne andelen var om lag 80 prosent i 2020 og 2021. Den unge delen av befolkningen, som tilsvarer en andel på om lag 50 prosent, er i figuren gruppert til én alderskategori fra 0-39 år. I denne kategorien var det 3 dødsfall i 2020, 14 i 2021 og 21 i 2022.
 
-Utendørs: Maks 50 personer.
+Covid-19-assosierte dødsfall etter aldersgruppe i Norge.
 
-Innendørs: Maks 20 personer, maks 50 personer
-ved minnestund.
+Note: Aldersgruppen 0-39 år tilsvarer om lag 50 prosent av den norske befolkningen.
 
-•
+FHI
 
-•
+I perioden hvor vaksinasjon har vært tilgjengelig, har dødeligheten vært høyere blant uvaksinerte enn blant vaksinerte. Vi kan se på mai 2022 som en illustrasjon, hvor dødeligheten av covid-19 var over fire ganger så høy blant uvaksinerte sammenlignet med vaksinerte. De døde var i alderen 77 til 91 år. På dette tidspunktet var om lag 97 prosent av befolkningen over 70 år vaksinert, slik at gruppen med uvaksinerte var et lite mindretall.[^66]
 
-Private arrangementer/sammenkomster på
+Økt dødelighet blant uvaksinerte er tydelig også i andre land som rapporterer offisielle tall for dette.[^67] Tall fra Finland viser for eksempel at dødeligheten var langt høyere blant uvaksinerte enn blant vaksinerte i 2022, og at den klart høyeste dødeligheten uavhengig av vaksinasjon var blant personer over 80 år.
 
-•
+Internasjonal sammenligning
 
-Regler ved gjennomføring av arrangementer
-innendørs og utendørs:
+Figur 3.6 viser antall døde av covid-19 totalt per én million innbyggere. I den tidlige fasen av pandemien hadde Sverige langt flere døde som følge av covid-19 enn de andre nordiske landene. Forskjellen økte ytterligere i starten av 2021.
 
-Se regjeringen.no/arrangementer for råd og regler. Her
-er noen hovedpunkter:
+Antall døde med covid-19 per 1 million innbyggere i Norge, Finland, Sverige og Danmark. Kumulativt.
 
-Begrens sosiale sammenkomster og arrangementer
-du deltar på.
+Offisiell statistikk samlet av Our World in Data
 
-Arrangementer
+Sammenligning av covid-19 dødelighet mellom land i pandemiperioden må tolkes med forsiktighet, fordi det kan være ulik registreringspraksis.
 
-Serveringsstedet skal sørge for at alle kan holde
-1m avstand til andre enn husstandsmedlemmer
-og tilsvarende nære.
+Etter at den mildere varianten omikron ble dominerende i 2022 og immuniteten var blitt høy, hadde Sverige imidlertid en flatere utvikling i covid-19-dødsfall enn de andre nordiske landene. Men covid-19-dødeligheten kumulativt gjennom hele pandemien var betydelig høyere i Sverige enn i de andre nordiske landene.
 
-•
+Figur 3.7 og figur 3.8 viser utvikling i generell overdødelighet. Sammenligninger av overdødelighet mellom land må tolkes med forsiktighet, blant annet fordi overdødelighet kan måles på ulike måter.[^68] Tallene påvirkes også av demografi. Det er også viktig å ha i mente at høy dødelighet blant den eldste delen av befolkningen i en periode vil påvirke overdødeligheten i noen år fremover. Overdødeligheten måles her som antall faktisk døde minus forventet antall døde basert på befolkningsfremskrivinger og normal sesongvariasjon. Det forventede antallet er basert på data fra 2015-2019.[^69]
 
-komme seg til arrangement. Krav om munnbind
-dersom man ikke kan holde 1m avstand. I taxi er det
-påbud om bruk av munnbind for både passasjer og
-sjåfør.
+Overdødelighet i prosent per uke i Norge, Finland, Sverige og Danmark.
 
-Kollektivtransport/taxi
+Note: Antall døde fra alle årsaker i prosent av forventet antall døde basert på tidligere år.
 
-Seregjeringen.no/innreisefor unntak.
+Offisiell statistikk samlet av Our World in Data
 
-Norge, og må i karantene dersom de kommer fra
-et område med karanteneplikt. Egne regler gjelder
-for reisende fra Sør-Afrika og omkringliggende land
-i forbindelse med omikron-varianten.
+Kumulativ overdødelighet per 1 million innbyggere i Norge, Finland, Sveige og Danmark.
 
-Alle reisende må i utgangspunktet teste seg
-vedankomst Norge.
+Note: Antall døde fra alle årsaker sammenlignet med forventet antall døde basert på tidligere år.
 
-•
-•
+Offisiell statistikk samlet av Our World in Data
 
-Alle reisende må i utgangspunktet registrere seg
-før ankomst til Norge.
+Figur 3.7 viser overdødelighet per uke i Norge, Finland, Sverige og Danmark. Her ser man at Sverige hadde de første månedene av pandemien langt høyere overdødelighet enn de tre andre nordiske landene. Imidlertid hadde Sverige gjennom andre halvdel av 2021 og første halvdel av 2022 i lange perioder den laveste overdødeligheten i Norden. Resultatet av dette vises tydelig i figur 3.8 hvor overdødeligheten er målt i absolutte tall, per 1 million innbyggere.
 
-•
+Figur 3.8 viser kumulativ overdødelighet for hele perioden. Fra og med sommeren 2021 nærmet overdødeligheten i de andre nordiske landene seg Sverige. Finland passerte Sverige i slutten av mai 2022, mens Norge og Danmark fortsatt hadde betydelig lavere overdødelighet i slutten av september 2022. Den høye overdødeligheten i Finland i 2022 har trolig sammenheng med at Finland har den eldste populasjonen blant de nordiske landene, særlig i aldersgruppen 65-75 år.[^70] Norge og Danmark hadde ikke økt kumulativ overdødelighet under pandemiperioden samlet sett før i desember 2021.
 
-Ankomst Norge
+I et europeisk perspektiv er dødstallene i de nordiske landene lave. Figur 3.9 viser covid-19- dødelighet og overdødelighet[^71] i 32 europeiske land i perioden mars 2020 til juni 2022. Per oktober 2022 hadde over 1,1 million mennesker dødd av covid-19 i de 27 EU-landene.[^72] Flest mennesker døde i de mest folkerike landene i EU (Italia, Frankrike, Tyskland, Polen og Spania). Justert for innbyggertall døde flest i Bulgaria, Ungarn, Kroatia og Tsjekkia. I Europa utenfor EU finner vi de høyeste dødstallene i Storbritannia hvor totalt over 200 000 personer døde av covid-19 frem til slutten av oktober 2022. De laveste dødstallene relativt til innbyggertall i Europa finner vi på Island og i Norge. Forskjellene mellom landene påvirkes av tidspunktet for når pandemien rammet, befolkningens aldersstruktur, timingen og effekten av smitteverntiltak, vaksinedekningen og kapasitetsforskjeller i helsevesenet.[^73]
 
-•
+Tallene for overdødelighet i figur 3.9 indikerer underrapportering av covid-19-assosierte dødsfall i mange land. Begrenset testkapasitet i starten av pandemien og forskjellige registreringsmetoder for dødsårsak, kan forklare noe av årsaken til at covid-19-assosierte dødsfall er lavere enn tallene for overdødelighet. Disse utfordringene påvirker ikke tallene for overdødelighet. Overdødelighet vil likevel også påvirkes av andre faktorer som kan ha påvirket dødeligheten i landet i perioden før, eller under pandemien, som ekstremvær og influensasesonger. I Belgia, Frankrike, Norge, Ungarn, Sverige og Storbritannia er tall for covid-19-dødelighet høyere enn tallene for overdødelighet. Dette er et tegn på mer nøyaktig registrering av covid-19 dødsfall. Det tyder også på lavere dødelighet enn forventet av andre årsaker, som for eksempel vanlig sesonginfluensa og trafikkulykker.
 
-Reduser antall nærkontakter, men ikke isolerdeg.
+Covid-19-dødelighet og overdødelighet i Europa per 1 million innbyggere. Mars 2020 til juni 2022.
 
-Oppfordring om maks 10 gjester i tillegg til de du
-bor sammen med, maks 20 gjester en gang i løpet
-av jule- og nyttårshøytiden. Barn i barnehager og
-barneskoler kan ha besøk fra egen kohort/klasse/
-avdeling selv om det overstiger anbefalt antall
-gjester.
+Note: Gjennomsnittet for EU27 er vektet. Data om covid-19 dødsfall er påvirket av landenes kapasitet til å oppdage covid-19 infeksjoner og registreringsmetoder for dødsfall.
 
-•
+OECD
 
-•
+Globalt var det ved utgangen av 2022 registret totalt 6,8 millioner dødsfall som følge av covid-19. Tallet er trolig for lavt, da mange land ikke har offentlige tall på covid-19 dødsfall. Det er også utfordringer med kvalitet på dødsårsaksregistrering i mange land. The Economist anslår et estimert antall covid-19-dødsfall på rundt 20 millioner globalt i løpet av disse tre årene.[^74] Til sammenligning døde det totalt om lag 67 millioner mennesker globalt i 2022.
 
-Hold 1m avstand til andre enn de du bor med og
-tilsvarende nære. Unntak for barn i barnehager og
-barneskoler, og ved utøvelse av tjenester for barn
-og unge / sårbare grupper.
+### Senfølger av covid-19
 
-•
+Senfølger av covid-19 er plager som varer i mer enn fire uker etter at man får sykdommen covid-19. Det er per i dag ikke anerkjente definerte kriterier for hva som regnes som senfølger av covid-19, men de vanligste plagene er utmattelse/trøtthet, konsentrasjonsproblemer, hukommelsesproblemer, endret smaks- og luktesans, tung pust, hoste, muskelsmerter, hodepine, svimmelhet, og angst og depresjon.[^75] Det er heller ikke definert tidsintervallet for hva som skal defineres som senfølger. Siden pasienter som sliter med senfølger av covid-19 ofte har problemer i flere organer, er diagnostisering komplekst. Det finnes i dag ingen offisielle tall for hvor mange som er rammet av senfølger etter covid-19 i Norge. Primærhelsetjenesten har ingen diagnosekode for slike senfølger. Koronautvalget mener det er nødvendig å opparbeide mer kunnskap om senfølger.
 
-Private hjem og sosial kontakt
+En større metastudie, publisert i oktober 2022 av Global Burden of Disease Long COVID Collaborators, har sett på forekomsten av senfølger tre måneder etter gjennomgått infeksjon.[^76] Tre måneder etter sykdom er samme tidsintervall som WHO baserer seg på. Den nevnte metastudien består av 54 ulike studier og to medisinske databaser som inneholder data for 1,2 millioner personer fra 22 land som hadde symptomer på koronainfeksjon i 2020 og 2021. Forfatterne har delt symptomene inn i tre hovedgrupper. Den første er vedvarende utmattelse («fatigue») med kroppslige smerter og humørsvingninger, den andre er kognitive problemer («hjernetåke»), og den siste er respiratoriske problemer. Studien finner, basert på modellerte resultater, at 6,2 prosent rapporterte om minst én av tre symptomgrupper tre måneder etter covid-19. Symptomene er mer vanlig hos kvinner over 20 år enn hos menn over 20 år, med en forekomst på henholdsvis 10,6 prosent og 5,4 prosent.
 
-Hold deg hjemme og test deg når du er syk.
+FHI publiserte i desember 2022 en oppdatert hurtigoversikt om senfølger og nyoppstått sykdom etter covid-19 (Himmels mfl. 2022). Der oppsummerer de forskning om forekomst av senfølger, hvilke langvarige symptomer som opptrer, hvor lenge symptomene vedvarer, og hvilke pasientgrupper som har størst risiko for å oppleve langvarige symptomer. I sin oppsummering skriver FHI at alvorlig covid-19, som krever sykehusinnleggelse eller intensivbehandling, ser ut til å gi flere symptomer ved seks- og tolv-måneders oppfølging sammenlignet med mindre alvorlig sykdom. De skriver videre at pasienter som har gjennomgått covid-19 blir diagnostisert med lignende tilstander som pasienter som har gjennomgått andre alvorlige luftveisinfeksjoner, likevel med noen forskjeller som for eksempel at nevrologiske symptomer er vanligere etter covid-19. Pasienter som har hatt mild og moderat covid-19 (ikke innlagt på sykehus) rapporterer vedvarende symptomer seks til tolv måneder etter infeksjon hyppigere enn personer i kontrollgrupper som ikke har fått påvist koronaviruset.
 
-•
+En studie publisert i Morbidity and Mortality Weekly Report (CDC) har analysert data fra 1,7 millioner barn, der 81 000 av disse fikk påvist koronasmitte i perioden mars 2020 til februar 2021 (Barrett mfl. 2022). De som hadde vært smittet, hadde 2,7 ganger høyere sannsynlighet for å få diabetes type 1 enn barn på samme alder som ikke hadde hatt covid-19. De hadde også 2,2 ganger høyere risiko for å få diabetes type 1 enn pasienter på samme alder som hadde hatt en annen luftveisinfeksjon før pandemien. Det mangler kunnskap om hvorfor noen mennesker utvikler diabetes type 1, men det er klart at sykdommen kan utløses av en virusinfeksjon.[^77] I Norge har det vært en økning i forekomst av diabetes type 1 over flere år med en rekord i 2020. I 2021 var tallet noe lavere igjen. FHI har gjennomført en studie som også viser noe økt risiko for type 1-diabetes hos barn etter koronainfeksjon (Gulseth mfl. 2022). Blant barn og unge under 18 år som har hatt koronainfeksjon, fikk 13 av 10 000 type 1-diabetes. Blant de som ikke er registrert med smitte var forekomsten 8 av 10 000. Barna ble fulgt i perioden 1. mars 2020 til 22. mars 2022. Totalt ble over en halv million barn i Norge smittet i denne perioden.
 
-Skoler, barnehager og SFO
+Koronautvalget mener på denne bakgrunnen at det er viktig at myndighetene bidrar til å opparbeide mer kunnskap om senfølger av covid-19- sykdom. Denne kunnskapen bør omfatte hvilke tilstander sykdommen kan gi, hvem som er mest utsatt for å få disse følgene, varighet, og mulige behandlingstiltak.
 
-Kapittel 2
+## Psykisk helse
 
-Sjekk din
-kommunes nettsider
-for lokale tiltak.
+### Konsultasjoner hos fastlegene
 
-Gjelder fra 15. desember
+Nordmenn oppsøkte i større grad fastlegen gjennom pandemien, sammenlignet med tidligere år.[^78] I 2019 besøkte vi i snitt fastlegen 2,7 ganger i året. I 2020 økte dette til 2,8 ganger mens det økte videre til 3,0 ganger i 2021. I årene mellom 2012 og 2019 var veksten beskjeden, mens den samlede veksten fra 2019 til 2021 var på hele 10 prosent per innbygger. Omtrent en fjerdedel av veksten i konsultasjoner er knyttet til covid-19. Ellers er veksten fordelt på mange ulike diagnosegrupper.[^79] Den største enkeltgruppen av årsaker til økt fastlegebesøk er psykisk sykdom, eller lidelse. I 2019 sto denne kategorien for 10,8 prosent av konsultasjonene. I 2020 økte det til 11,3 mens den økte videre til 11,4 prosent i 2021. Figur 3.10 viser utviklingen fra 2017 til 2021 i konsultasjoner med diagnosekode psykisk sykdom, eller lidelse innenfor ulike aldersgrupper. Figuren viser en vekst for alle aldersgrupper, særlig de to siste årene. Veksten er noe høyere for voksne mellom 20 og 50 år enn for de over 50. Barn og unges psykiske helse er omtalt i boks 3.2 og kapittel 6.
 
-Nasjonale råd
-og regler
+Årlige konsultasjoner hos fastlege per 1 000 innbyggere, fordelt på aldersgrupper. Diagnosekode: Psykisk sykdom eller lidelse.
 
-[ Korona | covid-19 ]
+SSB tabell 10141
 
-•
+### Henvisninger til spesialisthelsetjenesten, ventetider og fristbrudd
 
-Si ja til vaksine.
+Veksten vi observerer i figur 3.10, konsultasjoner hos fastlegene knyttet til psykisk helse, sees igjen i tall over henvisninger til spesialisthelsetjenesten for psykisk helsevern.
 
-•
+Figur 3.11 (til venstre) viser at antall henvisninger til spesialisthelsetjenesten innenfor psykisk helse for voksne økte gjennom pandemien, men ikke vesentlig mer enn trenden fra årene før pandemien. Hvert år, i 2. tertial, faller aktiviteten i tjenesten på grunn av sommeravvikling. I tillegg økte gjennomsnittlig ventetid[^80] for helsehjelp innenfor psykisk helse i spesialisthelsetjenesten noe gjennom pandemien.[^81] Mens ventetiden i gjennomsnitt var 44 dager i 2019 og 2020, økte den til 46 dager i 2021 og 50 dager i 2022.
 
-Skjenkestopp.
+Psykisk helsevern for voksne, henvisninger (venstre) og fristbrudd (høyre). Første tertial 2017 – andre tertial 2022.
 
-Restauranter, kafeer og uteliv
+Note: Venstre figur viser antall henvisninger til spesialisthelsetjenesten innen psykisk helsevern for voksne, som er vurdert og satt på venteliste til enten utredning eller behandling. Høyre figur viser antall fristbrudd for henvisninger til psykisk helsevern for voksne, der ventetiden er avsluttet og helsehjelp påbegynt etter fristdato.
 
-Det viktigste
+Helsedirektoratet
 
-36
-Evaluering av pandemihåndteringen
+Figur 3.11 (til høyre) viser at antallet fristbrudd[^82] økte betydelig under pandemien. Antallet fristbrudd for voksne økte fra starten av pandemien, og fortsatte å øke i 2021 og utover i 2022.
 
-NOU 2023: 16
+Henvisninger, ventetider og fristbrudd for barn og unge
 
-Figur 2.13 Plakat med nasjonale råd og regler bestemt 13. desember. Gjaldt fra 15. desember 2021.
+Psykisk helsevern for barn og unge, henvisninger (venstre) og fristbrudd (høyre). Første tertial 2017 – andre tertial 2022.
 
-[Side 39]
+Note: Venstre figur viser antall henvisninger til spesialisthelsetjenesten innen psykisk helsevern for barn og unge, som er vurdert og satt på venteliste til enten utredning eller behandling. Høyre figur viser antall fristbrudd for henvisninger til psykisk helsevern for barn og unge, der ventetiden er avsluttet og helsehjelp påbegynt etter fristdato.
 
-37
+Helsedirektoratet
 
-NOU 2023: 16
+Bruken av spesialisthelsetjenesten innenfor psykisk helsevern for barn og unge har økt gjennom pandemien sammenlignet med årene før.
 
-Evaluering av pandemihåndteringen
+Figur 3.12 (til venstre) viser en økning i henvisninger til spesialisthelsetjenesten for barn og unge innen psykisk helsevern. Veksten er høyest i området til Helse Sør-Øst og Helse Vest. Dette er også områdene som har hatt mest koronasmitte, og de strengeste smitteverntiltakene under pandemien. Antallet henvisninger holdt seg på et høyt nivå gjennom 2021 og de første åtte månedene av 2022. Figur 3.12 (til høyre) viser at antall fristbrudd i barnepsykiatrien har økt markant fra starten av 2021.
 
-viktige sektorer som helsetjenesten, skoler og
-barnehager.
-Viktigheten av raskest mulig vaksinering ble
-igjen understreket da regjeringen søndag 19.
-desember gikk ut med målsetningen om at alle
-over 18 år skulle få tilbud om oppfriskningsdose
-innen utgangen av februar 2022. To dager senere
-behandlet Stortinget nysalderingen av statsbudsjettet for 2021, og etter Stortingets vedtak
-fordelte regjeringen umiddelbart 500 millioner
-kroner gjennom den kommunale kompensasjonsordningen for å hjelpe lokalt næringsliv.
-Rett før jul, 22. desember, kom FHI med en ny
-oppdatert risikovurdering. De anså fortsatt situasjonen som alvorlig, men pekte samtidig på at
-man begynte å se tegn til utflating av smittekurven. Anbefalingen deres var at «tiltakene bør fortsette og eventuelt justeres slik at en forventet epidemibølge forårsaket av omikronvarianten flates ut,
-og man unngår en stor sykdomsbyrde og overbelastning av helsetjenesten.»50
-I romjulen, 27. desember, gikk regjeringen ut
-med informasjon om at ansatte i skoler og barnehager fra og med 1. januar 2022 fikk unntak fra
-smittekarantene i arbeidstiden, samt at det nasjonale tiltaksnivået på gult nivå i barnehager og
-grunnskoler og rødt nivå i videregående skoler
-50
+I tillegg har gjennomsnittlig ventetid for helsehjelp til barn og unge innenfor psykisk helse i spesialisthelsetjenesten økt noe gjennom pandemien.<sup>1</sup> Det er særlig fra starten av 2021 at ventetiden øker, noe som er senere enn for de voksne vist i figur 3.11. Mot slutten av 2021 var ventetiden i underkant av seks dager lengre (fra 42 til 48) enn tilsvarende periode i 2019. I 2022 har ventetiden økt ytterligere. I 1. tertial 2022 var ventetiden 52 dager, før den økte til 58 dager i 2. tertial. Dette er omtrent en uke lenger enn i tilsvarende perioder i 2019.
 
-Rapport, Folkehelseinstituttet, 22. desember 2021, «Covid19-epidemien: Risiko ved covid-19-epidemien og ved
-omikronvarianten i Norge».
+<sup>1</sup> Statistikk, Helsedirektoratet, «Ventetider og pasientrettigheter, per tertial».
 
-Kapittel 2
+\[Boks slutt\]
 
-skulle fortsette. Dette på tross av sterke protester
-fra blant andre Barneombudet og Elevorganisasjonen.
+## Tilgang på helsetjenester
 
-2.9
+### Tilgang til kommunale helse- og omsorgstjenester for eldre
 
-Den sjette smittebølgen: Vinteren
-2022
+Pandemien påvirket helsetilbudet og helsetilstanden til eldre på sykehjem. Tilbudet og oppfølgingen av eldre gjennom pandemien er grundig omtalt av Koronakommisjonen.[^83] De skrev blant annet om utviklingen i besøksrestriksjoner ved sykehjemmene gjennom pandemien og redusert dagtilbud for eldre. Dagtilbudene er sosiale arenaer for hjemmeboende eldre, og fungerer ofte som avlastning for pårørende til personer med begynnende demens. I tillegg beskrev kommisjonen flere utfordringer i starten av pandemien knyttet til hjemmehjelp og hjemmesykepleie. Dette dreide seg blant annet om smittevern når personell flyttet seg mellom ulike hjem. I starten av pandemien var det flere eldre som vegret seg mot å motta hjemmetjenester. Hjemmesykepleietilbudet ble opprettholdt i større grad enn praktisk bistand gjennom pandemien.
 
-2.9.1 Risikobildet gjennom juleferien
-I løpet av den siste uken i 2021 overtok omikron
-som den dominerende varianten i Norge.51
-Mange av de som ble smittet med omikron hadde
-tidligere vært smittet med andre covid-19-varianter eller var vaksinert. Det ble på denne tiden
-klart for befolkningen at immunitet, enten gjennom naturlig infeksjon eller vaksinasjon, ikke ville
-gi varig beskyttelse. Dette stadfestet at viruset
-ikke ville forsvinne.
-For å hindre alvorlig sykdom etter at omikron
-ble kjent var det avgjørende å få tilbudt vaksine til
-risikogruppene før de eventuelt ble utsatt for
-smitte. Figur 2.14 viser at vaksineringen med tredje
-oppfriskningsdose til de over 65 år ble gjennomført
-før den sjette smittebølgen vinteren 2022, som var
-den største smittebølgen hittil i pandemien.
-Det var ikke kun de eldre som ble vaksinert i
-denne perioden. Også yngre aldersgrupper valgte
-51
+Andelen av eldre på sykehjem som har blitt vurdert av lege det siste året har holdt seg på omtrent 65 prosent i perioden 2019-2022, mens andelen som ble vurdert av tannhelsepersonell falt fra 45 prosent i 2019 til 27 prosent i 2020.[^84] I 2021 var nivået tilbake på 41 prosent, mens det var 44 prosent i 2022. Helsearbeidere innen eldreomsorgen ble i liten grad omdisponert, i motsetning til sykepleiere innen det kommunale helsetilbudet for barn og unge, se avsnitt 6.5. Figur 3.10 viser at blant de eldste økte antall fastlegekonsultasjoner knyttet til psykiske plager under pandemien, mens årene før hadde dette antallet vært relativt stabilt.
 
-Omikron-varianten har flere undervarianter. Det var særlig
-BA.1 som tok over i uke 52 2021, men undervarianten BA.2
-var også begynt å spre seg i Norge etter nyttår.
+Langerud Sykehjem (Langerudhjemmet) i Oslo. Sykehjem over hele landet innførte besøksforbud for å hindre koronasmitte i mars 2020.
 
-600
+Foto: Stian Lysberg Solum, NTB
 
-1 000 000
-900 000
+### Tilgang til somatiske helsetjenester
 
-500
+Pandemien påvirket pasientbehandlingen på norske sykehus, og i norske kommuner. Behandlingen på sykehus gikk ned i 2020. Dette fordi nedstengninger og begrensninger i hverdagslivet førte til færre smittsomme sykdommer i omløp, mindre behov for akutt helsehjelp, samt færre planlagte behandlinger.[^85] Planlagte behandlinger ble særlig i starten av pandemien redusert for å gjøre plass til en forventet økning av koronapasienter, en belastning som ikke ble realisert i det omfang som var forventet. Det er dermed en kombinasjon av redusert tilbud og redusert etterspørsel etter behandling som trakk ned aktiviteten i 2020.
 
-800 000
-700 000
+Aktiviteten på sykehusene økte i 2021, og var tilbake på nivået som tilsvarer trendveksten fra årene før. Dette gjelder også for de fleste diagnosegruppene, med unntak av diagnosegruppen som inneholder lungebetennelse og influensa, som var på et lavt nivå både i 2020 og 2021. Dette skyldes trolig smitteverntiltakene og mindre mobilitet på tvers av land, slik at Norge unngikk større influensautbrudd disse årene. Tilsvarende nedgang ble observert i de andre nordiske landene.
 
-400
+For andre diagnosegrupper er antall pasienter tilbake på trendnivået. Registrerte hjerte- og karsykdommer og muskel- og skjelettlidelser falt i 2020, men var i 2021 tilbake på normale nivåer. Om nedgangen skrev FHI at *«det er vanskelig å si noe sikkert om årsaken til nedgangen i registrerte pasienter med hjerteinfarkt, atrieflimmer og hjertesvikt i mars og april 2020, bortsett fra at det synes å ha sammenheng med tiltakene som ble satt inn for å bekjempe koronaviruset. Den generelle nedgangen i planlagt aktivitet samt at færre har oppsøkt lege på grunn av andre årsaker og nedgangen i influensasykdommer, kan ha ført til en nedgang i registrerte diagnoser.»*[^86] En studie fra Universitetet i Bergen pekte på at influensa er en velkjent årsak til hjertesykdom (Myhre mfl. 2020). Strenge koronatiltak kan ha bidratt til mindre influensa, og dermed færre innleggelser for hjertesykdom. For 2020 og 2021 var det ingen økning i ventetid for hverken utredning, eller behandling innenfor somatikk sammenlignet med tidligere år.[^87]
 
-600 000
-300
+Nærmere om somatisk aktivitet i Norge
 
-500 000
-400 000
+En kvalitetsindikator for sykehusopphold i Norge er utsettelser av planlagte operasjoner.[^88] Indikatoren måler andel utsettelser i forhold til planlagte operasjoner. En kvalitetsindikator er et indirekte mål som sier noe om kvaliteten på det området som måles. Målsetningen er under fem prosent utsettelser. Figur 3.14 viser utvikling over tid i andelen utsatte operasjoner, samt utviklingen i antall planlagte operasjoner. Andelen utsatte operasjoner økte til 7,6 prosent i 1. tertial 2020 før den sank til 5,7 prosent i 2. tertial. I 2. tertial 2020 var det planlagt 13 prosent færre operasjoner enn i tilsvarende periode året før. Andelen utsatte operasjoner økte igjen i slutten av 2021 og starten av 2022.
 
-200
+Somatisk aktivitet i Norge. Andel utsatte operasjoner (venstre akse) og antall planlagte operasjoner (høyre akse).
 
-300 000
-200 000
+Helsedirektoratet
 
-100
+Den reduserte aktiviteten i 2020 slo ut i noe lengre ventetid for utredning og behandling i deler av året, og en økning i antall brudd på fristen for behandling av ordinært avviklede pasienter.[^89] Både ventetid og fristbrudd er regnet som nasjonale kvalitetsindikatorer. Ventetid måles som antall kalenderdager fra henvisning er mottatt i spesialisthelsetjenesten til pasienten får helsehjelp. For utredning økte ventetiden fra 60 til 70 dager fra 1. til 2. tertial i 2020. For behandling økte den fra 60 til 67 i samme periode. Ventetiden var tilbake til nivået fra før pandemien i 1. tertial 2021 som tilsvarte omtrent 60 dager. Ifølge pasient- og brukerrettighetsloven har alle pasienter som blir vurdert til å trenge helsehjelp i spesialisthelsetjenesten rett til å få en frist for når helsehjelpen senest skal starte.[^90] I de tre årene før pandemien lå andelen som ikke fikk helsehjelp innen fristen på mellom 2,1 og 2,4 prosent. Denne økte til 7,7 prosent i 2020, mens den var på 5,1 prosent i 2021. Økningen var størst ved øyesykdommer, øre-nese-hals, lungesykdommer og fordøyelsessykdommer.
 
-100 000
-0
+Nærmere om somatisk aktivitet i Sverige
 
-0
-27282930 313233343536 37383940 414243444546 47484950 5152 1 2 3 4 5 6 7 8 9 10 111213141516 171819
-d3 65+ år
+Figur 3.15 viser utviklingen i antall gjennomførte operasjoner i Sverige. I andre kvartal 2020 var antall operasjoner 50 prosent lavere enn i samme kvartal året før. I de fire påfølgende kvartalene var også antallet operasjoner lavere enn tilsvarende kvartaler i 2019. Fra 3. kvartal 2021 og utover er antall operasjoner mer normalisert. Det er tydelig at pandemien førte til store nedtrekk av planlagte operasjoner i Sverige. Antallet akutte operasjoner var tilnærmet uforandret i 2020 og 2021, sammenlignet med 2019.[^91]
 
-Nye pasienter innlagt med
-covid-19 som hovedårsak
+Somatisk aktivitet i Sverige. Antall gjennomførte operasjoner (venstre akse) og endring i antall gjennomførte operasjoner fra tilsvarende kvartal i 2019 (høyre akse).
 
-Nye covid-19 pasienter
-innlagt i intensivavdeling
+Note: De ulike fargene viser til før og etter SARS-CoV-2 spredningen ble erklært en pandemi.
 
-Nye covid-19 assosierte dødsfall
+Vården i siffror
 
-Figur 2.14 Antall oppfriskningsdoser blant de eldre (høyre akse) og konsekvenser av smittebølgen (venstre
-akse) høsten 2021 og vinteren 2022. Ukestall.
-Note: Ukentlig dekning for tredje vaksinedose hos aldersgruppen 65+, samt ukentlig antall innleggelser, intensivinnleggelser og
-dødsfall i perioden mellom uke 27, 2021 og uke 20, 2022. (26. november er lørdag i uke 47).
-Kilde: FHI
+Kreftdiagnostisering under pandemien i Norge og Sverige
 
-[Side 40]
+I den svenske koronakommisjonens rapport konstaterer de at den svenske befolkningen under pandemien opplevde nedgang i kontakt med helsevesenet og diagnostikk utenom covid-19.[^92] For å vise hvordan diagnostikken fungerte i helsevesenet ser de på antall kreftdiagnoser fra kreftregisteret. Forekomsten av kreft er generelt stabil på kort sikt, slik at man kan utelukke endringer i etterspørsel etter helsehjelp. Det kan derfor gi et godt bilde på hvor bra helsevesenet lyktes med å diagnostisere sykdommer i befolkningen under pandemien.
 
-38
+Tall for antall registrerte krefttilfeller for Norge og Sverige er vist i Tabell 3.1, fordelt på kvinner og menn. Det er også vist spesifikt for de vanligste kreftdiagnosene for kvinner og menn, som er brystkreft og prostatakreft. Sverige hadde totalt sett en nedgang i registrerte tilfeller på 5,3 prosent i 2020 mens Norge totalt sett ikke hadde nedgang dette året. Begge land hadde nedgang for brystkreft. Den svenske koronakommisjonen skriver i sin rapport at nedgangen kan forklares av nedgang i tilfeller oppdaget under screening og trolig ikke en nedgang i forekomst. Flere regioner reduserte aktiviteter som screening i starten av pandemien. Helsetjenesten i Sverige reduserte derimot ikke undersøkelser for kvinner som oppdaget kuler i brystet. Reduksjonen i screening var særlig stor for personer over 70 år, mens den ikke var redusert for personer under 50 år.
 
-NOU 2023: 16
+Den største nedgangen i 2020 finner man for registrerte tilfeller med prostatakreft i Sverige. Noe av denne nedgangen kan skyldes endrede rutiner. Oppsummert finner den svenske koronakommisjonen det sannsynlig at det var et underskudd av diagnostisert kreft i 2020. Dette begrunner de med nedgang i screeningsvirksomhet, nedgang i diagnostisk kapasitet, og at folk avsto fra å søke helsehjelp på grunn av pandemisituasjonen. Dette kan føre til at kreft blir oppdaget senere enn ellers. I 2021 steg antallet krefttilfeller betydelig. Antall tilfeller prostatakreft var også i 2021 noe lavere enn i årene før pandemien.
 
-Kapittel 2
+For Norge motsvares nedgangen i brystkrefttilfeller i 2020 med en oppgang i 2021. For brystkreft er det mulig å se hvilket stadium kreften ble oppdaget i. I 2021 var det særlig i det første stadiet kreftdiagnostiseringen økte. Dette kan tyde på at de som eventuelt ikke ble diagnostisert i 2020 ikke ble vesentlig sykere. Antall diagnoser på det neste nivået økte også i 2021, men var tilnærmet på nivået fra før pandemien.
 
-Evaluering av pandemihåndteringen
+Antall tilfeller av kreft og årlig vekst i Sverige og Norge.
 
-100
+09J2xt2
 
-25 000
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr>
+<td><em>Sverige</em></td>
+<td colspan="4">Antall tilfeller</td>
+<td colspan="4">Årlig vekst</td>
+</tr>
+<tr>
+<td></td>
+<td>2018</td>
+<td>2019</td>
+<td>2020</td>
+<td>2021</td>
+<td>2018</td>
+<td>2019</td>
+<td>2020</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>Kvinner</td>
+<td>34 579</td>
+<td>36 028</td>
+<td>34 488</td>
+<td>37 018</td>
+<td>1,2 %</td>
+<td>4,2 %</td>
+<td>-4,3 %</td>
+<td>7,3 %</td>
+</tr>
+<tr>
+<td>Menn</td>
+<td>37 494</td>
+<td>38 614</td>
+<td>36 218</td>
+<td>38 295</td>
+<td>3,3 %</td>
+<td>3,0 %</td>
+<td>-6,2 %</td>
+<td>5,7 %</td>
+</tr>
+<tr>
+<td>Totalsum</td>
+<td>72 073</td>
+<td>74 642</td>
+<td>70 706</td>
+<td>75 313</td>
+<td>2,3 %</td>
+<td>3,6 %</td>
+<td>-5,3 %</td>
+<td>6,5 %</td>
+</tr>
+<tr>
+<td>Brystkreft kvinner</td>
+<td>10 248</td>
+<td>11 024</td>
+<td>10 163</td>
+<td>11 327</td>
+<td>-3,9 %</td>
+<td>7,6 %</td>
+<td>-7,8 %</td>
+<td>11,5 %</td>
+</tr>
+<tr>
+<td>Prostatakreft</td>
+<td>11 026</td>
+<td>11 041</td>
+<td>9 056</td>
+<td>10 199</td>
+<td>6 %</td>
+<td>0 %</td>
+<td>-18 %</td>
+<td>13 %</td>
+</tr>
+<tr>
+<td><em>Norge</em></td>
+<td colspan="4">Antall tilfeller</td>
+<td colspan="4">Årlig vekst</td>
+</tr>
+<tr>
+<td></td>
+<td>2018</td>
+<td>2019</td>
+<td>2020</td>
+<td>2021</td>
+<td>2018</td>
+<td>2019</td>
+<td>2020</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>Kvinner</td>
+<td>16 189</td>
+<td>16 581</td>
+<td>16 456</td>
+<td>17 314</td>
+<td>2,4 %</td>
+<td>2,4 %</td>
+<td>-0,8 %</td>
+<td>5,2 %</td>
+</tr>
+<tr>
+<td>Menn</td>
+<td>18 716</td>
+<td>19 066</td>
+<td>19 404</td>
+<td>19 684</td>
+<td>0,9 %</td>
+<td>1,9 %</td>
+<td>1,8 %</td>
+<td>1,4 %</td>
+</tr>
+<tr>
+<td>Totalsum</td>
+<td>34 905</td>
+<td>35 647</td>
+<td>35 860</td>
+<td>36 998</td>
+<td>1,6 %</td>
+<td>2,1 %</td>
+<td>0,6 %</td>
+<td>3,2 %</td>
+</tr>
+<tr>
+<td>Brystkreft kvinner</td>
+<td>3 561</td>
+<td>3 717</td>
+<td>3 430</td>
+<td>3 991</td>
+<td>-0,8 %</td>
+<td>4,4 %</td>
+<td>-7,7 %</td>
+<td>16,4 %</td>
+</tr>
+<tr>
+<td>Prostatakreft</td>
+<td>4 935</td>
+<td>4 990</td>
+<td>5 072</td>
+<td>5 188</td>
+<td>-3,3 %</td>
+<td>1,1 %</td>
+<td>1,6 %</td>
+<td>2,3 %</td>
+</tr>
+</tbody>
+</table>
 
-90
+Kreftregisteret og Socialstyrelsen
 
-Antall analyserte
-prøver
+Internasjonal sammenligning
 
-80
+OECD har publisert en rapport der de har sammenlignet pandemiens påvirkning på helsevesenet i en rekke europeiske land.[^93] Figurene 3.16 til 3.18 viser utviklingen fra 2019 til 2020 for innleggelser for psykiske lidelser, sykehusinnleggelser for kreftpasienter, og endring i antall hofteoperasjoner. Antall land varierer noe etter datatilgang. I alle figurene er utslagene for Norge små sammenlignet med de fleste andre land. For innleggelser relatert til psykisk helse var snittet i de 18 EU-landene en nedgang på 17 prosent, mens nedgangen i Norge var på seks prosent. Kun Sveits hadde mindre nedgang enn Norge. For utskrivninger av kreftpasienter var nedgangen i Norge omtrent halvparten av det den var i de 19 EU-landene i figuren. For hofteoperasjoner ligger Norge lavere enn snittet av de 23 EU-landene i figuren, men høyere enn i blant annet Danmark og Finland. Sverige er på nivå med snittet av EU-landene. OECD konkluderer blant annet med at «*Some countries, like Denmark, Estonia, the Netherlands, Norway and Switzerland, have done generally better in minimising disruptions across most health services considered*».[^94]
 
-% Delta
+Psykisk helse. Sykehusinnleggelser i utvalgte Europeiske land. Prosentvis endring 2018 til 2019 og 2019 til 2020.
 
-70
-% Omikron
+Note: Merk at tall for Finland før pandemien er fra 2017 til 2018.
 
-15 000
+OECD
 
-60
-50
+Kreft. Utskrivninger fra sykehus for alle krefttyper i utvalgte Europeiske land. Prosentvis endring fra 2019 til 2020.
 
-10 000
+Note: For Irland mangler tall for private sykehus, noe som overvurderer fallet i utskrivninger. For Finland brukes tall for 2018 i stedet for 2019.
 
-40
+OECD
 
-Andel (%)
+Endring i antall hofteoperasjoner i utvalgte Europeiske land. Prosentvis endring fra 2019 til 2020.
 
-Antall analyserte prøver
-
-20 000
-
-30
-5000
-
-20
-
-Uke 4
-
-0
-Uke 3
-
-Uke 2
-
-Uke 1
-
-Uke 52
-
-Uke 51
-
-Uke 50
-
-Uke 49
-
-Uke 48
-
-Uke 47
-
-Uke 46
-
-Uke 45
-
-Uke 44
-
-Uke 43
-
-Uke 42
-
-Uke 41
-
-0
-
-Uke 40
-
-10
-
-Figur 2.15 Antall analyserte prøver etter uke og andel delta- og omikronvarianter blant de analyserte
-prøvene. 4. oktober 2021 – 30.januar 2022.
-Kilde: FHI
-
-å ta en tredje dose. Fra første informasjon om
-omikronvarianten og ut 2021, valgte om lag 98 000
-personer å ta andre dose og over 1 million tok
-tredje dose. I tillegg valgte om lag 44 000 personer
-å ta vaksinen for første gang.
-En faktor som var viktig for endringen i risikobildet var at omikron var en variant som ga mindre alvorlig sykdomsforløp sammenlignet med
-deltavarianten. Figur 2.15 viser at omikron overtok som den dominerende varianten ved nyttår
-2022. De mange innleggelsene som kom etter
-nyttår var da personer som var smittet med undervarianter av omikron, som ga færre innleggelser
-på intensivavdeling.
-
-2.9.2 Gradvis avvikling av tiltak
-Samtidig med de store og raske skiftene i smittevernregime gjennom desember 2021 og januar
-2022 skjedde det en tydelig holdningsendring i
-befolkningen. Tiltakstrøtthet, kombinert med
-erfaringen med at omikron ikke var en like farlig
-variant, ble løftet frem som forklaring på endringen. I en Norstat-undersøkelse publisert 17.
-januar svarte 45 prosent av de spurte at de var
-svært lite eller lite bekymret for å bli smittet.52
-
-52
-
-Tilliten til informasjon fra myndighetene
-hadde allerede i slutten av 2021 vist tegn til å falle.
-Ifølge Norsk koronamonitor nådde man et nytt
-bunnpunkt i desember 2021, med kun 59 prosent
-som svarte at de hadde tillit til informasjon som
-kom fra regjeringen. Til sammenligning svarte 67
-prosent at de hadde tillit til regjeringens informasjon i oktober 2021.53
-I det offentlige ordskiftet, inkludert fra de
-medisinske fagmiljøene, kom det flere stemmer
-som tok til orde for at det var på tide å lette mer på
-smitteverntiltakene i samfunnet.
-Den første uken i 2022 forløp uten endringer i
-det nasjonale smittevernregimet samtidig som
-smittetallene økte kraftig. Utover i januar passerte
-Norge for første gang både 10 000 og 20 000 nye
-smittetilfeller per dag. I løpet av første kvartal
-2022 ble det meldt inn over én million smittetilfeller i Norge. Det faktiske antallet var likevel
-betydelig høyere ettersom meldeplikten for positive tester ble avviklet i løpet av perioden. Antall
-innleggelser sank de to første ukene i januar, men
-økte deretter kraftig gjennom andre halvdel av
-januar og utover i februar. Antallet pasienter
-under intensivbehandling og antall covid-relaterte
-dødsfall fulgte samme utvikling, med en liten tidsforsinkelse. I løpet av årets tre første måneder
-53
-
-Nettartikkel, NRK, 17. januar 2022, «Lei av korona – frykter
-ikke lenger å bli smitta».
-
-Rapport, Opinion, januar 2022, Norsk koronamonitor,
-«Sammenstilling av utvalgte indikatorer til Koronakommisjonen for 2020-2021».
-
-[Side 41]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-(uke 1-13) registrerte Folkehelseinstituttet 1 272
-dødsfall assosiert med covid-19 i Norge.
-7. januar sendte HOD et oppdrag til FHI og
-Hdir med ønske om at de, i samarbeid med andre
-aktuelle aktører, utarbeidet en tabell med forslag
-til mulige «pakker» med smitteverntiltak på ulike
-tiltaksnivåer. Tiltakspakkene var ment å kunne
-brukes både til innstramming og lettelser av tiltak. Formålet med å legge tiltakspakkene inn i
-regjeringens strategi og beredskapsplanen var å
-gjøre samfunnet forberedt på hvilke tiltak som
-ville være aktuelle ved en endring i situasjonen,
-og dermed skape forutsigbarhet.
-På regjeringskonferansen 13. januar besluttet
-regjeringen lettelser i tiltakene. Blant annet ble
-TISK-strategien justert, hvor testing i større grad
-skulle erstatte karantene. Nasjonal skjenking ble tillatt, men kun frem til kl. 23.00. Det ble innført grønt
-nivå i videregående skoler og voksenopplæringen
-samt gult nivå for barnehager og grunnskoler der
-smittesituasjonen tilsa det. Studenter i høyere
-utdanning kunne igjen få fysisk undervisning. Fritidsaktiviteter for barn og unge ble mer normalisert
-og reglene for arrangementer ble lettet på.
-Begrunnelsen for lettelsene lå i de faglige
-rådene fra FHI og Hdir. De to etatene slo fast med
-større sikkerhet at omikron ga mindre alvorlig
-sykdom og at sannsynligheten for å bli innlagt på
-sykehus var betydelig redusert. De foregående
-fire ukene hadde over én million nordmenn tatt
-vaksine og tilgangen på hurtigtester hadde blitt
-langt bedre. Samtidig ble det signalisert at en vinterbølge ville komme. Ifølge Folkehelseinstituttet
-var det uunngåelig at flere ville bli syke, at sykefraværet ville øke og at det ville bli flere innleggelser og dødsfall. Regjeringen kommuniserte samtidig at neste store gjennomgang og tiltaksvurdering ville komme 2. februar, men at man ville vurdere situasjonen fortløpende og justere kursen
-ved behov underveis.
-Regjeringen lettet ytterligere på tiltakene 20.
-januar. Da åpnet man for 1 500 deltagere på
-innendørsarrangementer og 3 000 utendørs,
-begge deler for arrangementer med faste tilviste
-plasser. 24. januar informerte regjeringen om at
-smittekarantene på ti døgn kunne erstattes med
-daglig testing for husstandsmedlemmer og tilsvarende nære. Samme dag ble også kravet om innreisekarantene avviklet. Fredag 28. januar avviklet
-regjeringen rådet om jevnlig testing.
-På regjeringskonferansen tirsdag 1. februar
-foretok regjeringen som varslet en grundig gjennomgang av tiltaksnivået. Regjeringen konkluderte med å gi betydelige lettelser. På pressekonferansen samme dag uttalte statsministeren:
-
-39
-
-Kapittel 2
-
-«Den virusvarianten vi har nå, gir mindre alvorlig sykdom enn tidligere varianter. Og selv om
-mange blir smittet, blir færre innlagt på sykehus.
-Vi er godt beskyttet av vaksiner. Det gjør at vi nå
-kan lette på svært mange tiltak, selv om smitten
-stiger raskt.»
-
-Samtidig advarte han om at pandemien fortsatt
-var en trussel:
-«Tiden framover vil bli krevende. Svært mange
-av oss vil bli smittet. FHI anslår at kanskje så
-mange som mellom tre og fire millioner personer
-kan bli smittet av omikron før sommeren, og vi
-må planlegge for opp mot 20 prosent sykefravær.»54
-
-Noen av de sentrale lettelsene var oppheving av
-antallsbegrensning på besøk i hjemmet og på
-arrangementer, og i tillegg til avvikling av skjenkebegrensningene. Det var heller ikke lenger
-anbefaling om gult nivå i barnehager og skoler.
-Universiteter, høyskoler og fagskoler skulle tilstrebe mest mulig fysisk undervisning, idretts- og
-fritidsaktiviteter kunne bedrives som normalt og
-kravet om å tilrettelegge for hjemmekontor ble
-fjernet.
-Samme dag gikk regjeringen ut med informasjon om at de skulle utarbeide et overordnet rammeverk med pakker av smitteverntiltak for eventuelle fremtidige behov. Rammeverket skulle
-bygge på besvarelsen fra Helsedirektoratet og
-Folkehelseinstituttet på oppdraget de hadde fått 7.
-januar og skulle ses i sammenheng med den kommende rapporten fra den nylig nedsatte ekspertgruppen som skulle belyse og vurdere de samfunnsmessige konsekvensene av smitteverntiltakene, det såkalte Holden-IV (covid-19). De endelige tiltakspakkene finnes i vedlegg 1 til utvalgets
-rapport.
-I andre nordiske land foregikk det en lignende
-gradvis avvikling av smitteverntiltakene. Danmark valgte å lette på alle tiltak fra 1. februar,
-mens Sverige tok tilnærmet samme beslutning 9.
-februar 2022. Her hjemme uttalte assisterende
-helsedirektør Nakstad til Nettavisen 8. februar:
-«Det er først og fremst sykefraværet som vil
-avgjøre hvordan helsetjenesten og andre sektorer
-påvirkes i ukene fremover. Presset på intensivavdelingene er betydelig lavere enn før, mens antal54
-
-Pressemelding, SMK, 1. februar 2022, «Regjeringen fjerner
-svært mange koronatiltak».
-
-[Side 42]
-
-Kilde: Helse- og omsorgsdepartementet
-
-Sørge for at det er mulig å holde
-minst 1 meter avstand, rutiner for
-god hygiene, renhold og lufting,
-fastsette hvor mange som maks kan
-være i lokalene og sørge for at dette
-blir overholdt.
-
-Smittevernfaglig forsvarlig drift:
-
-det er mulig.
-Reduser antall nærkontakter, men ikke isoler
-deg.
-Sørg for god ventilasjon eller lufting.
-Personer med risiko for alvorlig sykdomsforløp
-og uvaksinerte voksne bør skjerme seg, men
-ikke isolere seg.
-
-Anbefaling om 1 meter avstand til andre enn
-de du bor med og tilsvarende nære. Unntak
-for barn i barnehager og barneskoler, og ved
-utøvelse av tjenester for barn og unge/ sårbare
-grupper.
-Oppfordring om maks 10 gjester i tillegg til de
-du bor med. Barn i barnehager og barneskoler
-kan ha besøk fra egen kohort/klasse/avdeling.
-
-Alle reisende må i utgangspunktet registrere seg
-før ankomst til Norge og teste seg ved ankomst
-til Norge.
-Reisende som ikke kan dokumentere med et
-
-Figur 2.16 Plakat med nasjonale råd og regler. Gjaldt fra 14 januar 2022.
-•
-
-•
-
-•
-•
-•
-
-Skjenkestopp fra kl. 23.
-Skjenking må skje ved bordene.
-Serveringsstedet skal sørge for at alle kan holde
-1 meter avstand.
-Serveringssteder skal ikke gjennomføre
-aktiviteter som normalt innebærer mindre
-avstand mellom gjestene enn 1meter, f.eks.
-dansing.
-Unntak fra munnbindkrav når man sitter ved
-bordet.
-
-Restauranter, kafeer og uteliv
-
-trengsel. Itaxi er det påbud om bruk av munnbind
-for både passasjer og sjåfør.
-
-Kollektivtransport/taxi
-
-fullvaksinert eller har gjennomgått covid 19 i
-løpet av de siste seks månedene, må i tillegg
-teste seg før avreise til Norge, og må i karantene
-dersom de kommer fra et område med
-karanteneplikt.
-Mer ominnreiseregler og unntak
-påregjeringen.no/innreise.
-
-•
-
-•
-
-Ankomst Norge
-
-•
-•
-
-•
-
-•
-
-•
-
-•
-
-Private hjem og sosial kontakt
-
-Husk
-Når det ikke er mulig å holde minst 1meter
-avstand: bruk munnbind i butikker, felles
-arealene på kjøpesentre, serveringssteder,
-kollektivtransport, innendørs stasjonsområder,
-innendørs arrangementer, bibliotek og museum.
-
-•
-
-Uten faste tilviste plasser: Maks 30 personer.
-Med faste tilviste plasser: Inntil 1 500 personer,
-fordelt i kohorter på inntil 200 personer.
-
-Innendørs: Maks 30 personer, maks 50 personer
-ved minnestund.
-Utendørs: Maks 50 personer.
-
-Maks 50 % av besøkskapasiteten kan utnyttes.
-Minst to meters avstand mellom kohortene
-heletiden.
-Hver kohort skal ha tilgang til separate
-toalettfasiliteter og ha egne områder for
-eventuelle tilbud om garderober og servering.
-
-Arbeidsgivere pålegges å sørge for at ansatte
-jobber hjemmefra dersom dette er praktisk
-mulig og ikke til hinder for viktig og nødvendig
-virksomhet på arbeidsplassen, blant annet
-virksomhet for å ivareta barn og sårbare
-grupper. Påbud om å bruke munnbind gjelder i
-noen publikumsrettede deler av arbeidslivet.
-Anbefaling om god ventilasjon eller lufting.
-
-Krav om munnbind dersom man ikke kan holde
-1meter avstand.
-
-Biblioteker og museer
-
-Plikten til å bruke munnbind gjelder ikke for
-kunden i situasjoner der det ikke er praktisk mulig
-å bruke munnbind.
-
-Frisør, hudpleier o.l.
-
-•
-
-•
-
-Arbeidsliv
-
-•
-
-•
-•
-
-Uten faste tilviste plasser: Maks 200 personer.
-Med faste tilviste plasser: Inntil 3 000 personer,
-fordelt i kohorter på inntil 500 personer.
-Utendørs arrangementer tilknyttet organiserte
-kultur , idretts og fritidsaktiviteter for barn og unge
-under 20 år kan skje uten antallsbegrensning for
-deltakere og med et nødvendig antall voksne.
-
-•
-•
-
-•
-•
-
-•
-
-•
-
-Private arrangementer/sammenkomster på
-
-Regler ved gjennomføring av arrangementer
-innendørs og utendørs:
-• Skjenkestopp fra kl. 23. Arrangør skal bl.a. sørge
-for at alle kan holde minst 1 meter avstand.
-• Arrangøren skal gjøre seg kjent med relevante
-standarder om smittevern og bør følge disse.
-Arrangører som planlegger for mer enn 200 i
-publikum skal utarbeide en skriftlig plan for en
-smittevernfaglig gjennomføring.
-
-Begrens sosiale sammenkomster og arrangementer
-du deltar på. Se regjeringen.no/arrangementer for
-råd og regler.
-Noen hovedpunkter:
-
-Anbefaling om gult nivå i barnehager og barne
-og ungdomsskoler der smittesituasjonen
-tilsier det, men kommunene må gjøre egne
-vurderinger lokalt. Må ha beredskap for rask
-overgang til strengere tiltaksnivå. Jevnlig testing i
-områder med høyt smittetrykk.
-Anbefaling om grønt nivå på videregående
-skoler og for voksenopplæring, men
-kommunene må gjøre egne vurderinger lokalt.
-
-sitteplasser.
-Er det tilgang på tester, anbefales jevnlig testing
-av studenter.
-
-Det anbefales å legge til rette for mer fysisk
-undervisning, med forbehold om at man følger
-generelle smittevernråd.
-Klasseromsundervisning anbefales begrenset
-til maks 30personer med 1 meters avstand.
-Undervisning i større auditorium anbefales
-å følge antallsbegrensningen som gjelder for
-
-Må drives smittevernfaglig forsvarlig for å
-holdeåpent.
-Maks 20 personer ved innendørs gruppetrening.
-Krav om minst 2 meter avstand ved høyintensiv
-aktivitet innendørs.
-
-Felles regler for isolasjon og smittekarantene
-uavhengig av virusvariant.
-Se detaljer på regjeringen.no/smittekarantene.
-
-Karantene
-
-Skal holde stengt.
-
-Ikoner: Streamline
-
-Fornøyelsesparker, lekeland, spillehaller o.l.
-
-•
-•
-
-•
-
-Treningssentre, svømmehaller, badeland,
-spaanlegg, hotellbasseng, bowlinghaller o.l.
-
-Anbefalinger for voksne over 20 år:
-• Innendørs: Anbefalt maks 20 personer og
-1meter avstand. Ved intensiv trening bør man
-ha 2 meters avstand.
-• Utendørs: Aktiviteter kan gjennomføres som
-normalt.
-Toppidrett kan gjennomføres som normalt med
-smitteverntiltak.
-
-Anbefalinger for barn og unge under 20 år:
-• Utendørs aktiviteter kan gjennomføres som
-normalt.
-• Innendørs anbefales gruppestørrelse på
-omtrent 20 personer eller etter klasse/kohort.
-• Aktivitet innendørs kan gjennomføres med
-kontakt der det er nødvendig.
-• Se mer på regjeringen.no/arrangementer
-
-Bør gjennomføres utendørs så langt det er mulig
-for alle aldersgrupper.
-
-Idretts- og fritidsaktiviteter
-
-•
-
-•
-
-•
-
-Høyere utdanning
-
-•
-
-•
-
-Skoler, barnehager og SFO
-
-Kapittel 2
-
-Sjekk din
-kommunes nettsider
-for lokale tiltak.
-
-Gjelder fra natt til 14. januar
-For oppdaterte råd og regler:
-www.regjeringen.no/koronaregler
-
-Nasjonale råd
-og regler
-
-[ Korona | covid-19 ]
-
-Arrangementer
-
-•
-
-Si ja til vaksine. Praktiser god hånd- og
-hostehygiene. Holddeg hjemme når du er syk.
-Test deg ved nyoppståtte luftveissymptomer.
-
-Det viktigste
-
-40
-Evaluering av pandemihåndteringen
-
-NOU 2023: 16
-
-[Side 43]
-
-41
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Kapittel 2
-
-let smittetilfeller i sykehus og kommunale institusjoner har vært økende.»55
-
-Omtrent samtidig, 7. februar, gikk regjeringen
-ut med beskjed til alle landets kommuner om at
-kommunene måtte planlegge for å opprettholde
-beredskapen for vaksinasjon og testing ut april
-måned. Statsminister Støre uttalte i en pressemelding denne dagen at:
-«Koronapandemien utgjør ikke lenger en stor
-helsetrussel for de fleste av oss. Omikronviruset
-gir langt mindre alvorlig sykdom, og vi er godt
-beskyttet av vaksiner. Vi fjerner derfor nesten alle
-smitteverntiltakene, som meteren, krav om
-
-Figur 2.17 Pressekonferanse om koronasituasjonen
-1. februar 2022.
-Foto: Statsministerens kontor
-
-55
-
-Nettartikkel, Nettavisen, 8. februar 2022, «Dette er Nakstads bekymring nå».
-
-Boks 2.3 Befolkningens bekymring for smitte
-Spørreundersøkelser gjennomført av koronamoskulle bli smittet. Deretter har trenden vært
-nitor viser at gjennom hele pandemien har nordmotsatt. Figur 2.18 til høyre gjelder bekymring
-menn vært mer bekymret for at noen andre i
-for selv å bli smittet, som ble avtagende etter
-familien skal bli smittet av korona, enn for selv å
-starten av 2021. Det var en liten økning da
-bli smittet.
-omikronvarianten ble kjent og tiltak ble iverkI figur 2.18 til venstre ser vi at frem til
-satt, men bekymringen var igjen raskt avtafebruar 2022 var det flere som var bekymret enn
-gende etter nyttår.
-som ikke var bekymret for at noen i familien
-70
-
-70
-
-60
-
-60
-
-60
-
-60
-
-50
-
-50
-
-50
-
-50
-
-40
-
-40
-
-40
-
-40
-
-30
-
-30
-
-30
-
-30
-
-20
-
-20
-
-20
-
-20
-
-10
-
-10
-
-10
-
-10
-
-0
-
-0
-
-0
-
-0
-
-Uenig
-
-Enig
-
-mar.20
-mai.20
-jul.20
-sep.20
-nov.20
-jan.21
-mar.21
-mai.21
-jul.21
-sep.21
-nov.21
-jan.22
-mar.22
-mai.22
-jul.22
-sep.22
-nov.22
-
-70
-
-mar.20
-mai.20
-jul.20
-sep.20
-nov.20
-jan.21
-mar.21
-mai.21
-jul.21
-sep.21
-nov.21
-jan.22
-mar.22
-mai.22
-jul.22
-sep.22
-nov.22
-
-70
-
-Uenig
-
-Enig
-
-Figur 2.18 Spørreundersøkelse om bekymring for at noen i familien ble smittet (venstre figur) og
-bekymring for selv å bli smittet (høyre figur).
-Note: Spørsmålet var formulert «Jeg er bekymret for at jeg/noen i familien skal bli smittet» svaralternativene var enig eller
-uenig. Om lag 176 000 personer ble spurt totalt gjennom perioden.
-Kilde: Norsk Koronamonitor
-
-[Side 44]
-
-42
-
-Kapittel 2
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-munnbind og isolasjon. Vi kan gå tilbake til en
-normal hverdag.»56
-
-Samtidig poengterte Støre at pandemien ikke var
-over:
-«Mange vil bli smittet i ukene fremover, og det
-må vi forberede oss på. Men vi er i stand til å
-håndtere smitteøkningen. Selv om vi fjerner forskriftskravene, er det fortsatt viktig å følge generelle smittevernråd.»57
-
-Beslutningen om gjenåpning var også denne gangen bygget på faglige anbefalinger fra FHI og
-Helsedirektoratet, samt innspill fra ekspertgruppen Holden-IV (covid-19).
-På gjenåpningsdagen 12. februar 2022 ble 43
-personer lagt inn på sykehus med koronasmitte
-og uken etter gjenåpningen døde 84 mennesker
-av eller med korona i Norge – tall som tidligere i
-pandemien ville vært fremhevet som meget
-bekymringsfulle. Men med omikron hadde epidemien gått over i en ny fase med lavere alvorlighet,
-mindre behov for intensivbehandling og mer
-aksept i befolkningen. Det var ikke lenger ansett
-som forholdsmessig å beholde strenge restriksjoner som begrenset folks hverdag og frihet.
-
-2.9.3
-
-Samfunnet normaliseres med ny
-strategi
-Fra og med 23. mars opphørte sykehusenes daglige rapportering til Helsedirektoratet av antall
-inneliggende covid-pasienter på sykehus. 28. mars
-trakk Helse- og omsorgsdepartementet tilbake
-fullmakten som ble gitt til Hdir 31. januar 2020 om
-å forestå nasjonal koordinering av innsatsen ved
-pandemihåndteringen.58
-I månedsskiftet mars/april diskuterte regjeringen en ny strategi og beredskapsplan for håndteringen av covid-19-pandemien med bakgrunn i
-etatenes innspill. Den nye strategien ble lagt frem
-5. april og den slo fast at det overordnede målet
-med regjeringens pandemihåndtering var «å ivareta liv og helse samtidig som samfunnet holdes
-åpent og økonomien kan fungere så normalt som
-mulig». Samtidig presenterte den regjeringens ti
-grunnleggende prinsipper for pandemihåndter56
-
-Pressemelding, SMK, 12. februar 2022, «Smitteverntiltakene oppheves lørdag 12. februar».
-57 Pressemelding, SMK, HOD og JD, 12. februar 2022, «Smitteverntiltakene oppheves lørdag 12. februar».
-58 Brev, HOD til Helsedirektoratet, 28. mars 2022, «Delegasjon etter Nasjonal helseberedskapsplan – tilbaketrekning
-av fullmakt».
-
-ingen, den satte rammene for blant annet vaksinasjon, informasjon, beredskap, koronasertifikat og
-internasjonalt samarbeid, samt tiltakspakker for
-innreise og nasjonale smitteverntiltak. Samme
-dag holdt helse- og omsorgsminister Kjerkol en
-redegjørelse for Stortinget om videre håndtering
-av pandemien. I redegjørelsen la hun vekt på blant
-annet usikkerheten rundt pandemiens videre
-utvikling og hun gikk gjennom hovedelementene i
-den nye strategien. Avslutningsvis slo hun fast at
-«Vi er forberedt, fleksible og forutsigbare.»59
-29. april kom Folkehelseinstituttet med en
-oppdatert risikovurdering. Der slo instituttet fast
-at vinterbølgen var på rask retur både i Norge og
-resten av Europa. Samtidig advarte de mot en ny
-bølge til høsten eller vinteren, eventuelt en ny
-bølge av en ny variant allerede i sommerhalvåret.
-På tross av bekymring for nye smittebølger kunne
-instituttet berolige med at «befolkningens grunnimmunitet vil sannsynligvis beskytte godt mot alvorlig sykdom, uansett variant.»
-
-2.10 Den syvende smittebølgen: En
-sommer uten tiltak
-Gjennom mai 2022 var det få innleggelser knyttet
-til covid-19, men i månedsskiftet mai–juni begynte
-helsemyndighetene å se økende smitte i samfunnet igjen. Smitteøkningen skyldtes trolig en ny
-undervariant av omikron. 19. juni uttalte overlege
-ved Folkehelseinstituttet, Preben Aavitsland at
-«Vi venter nok en liten bølge. Men vi tror ikke den
-blir like stor som i februar–april. Det betyr at det er
-noen hundre tusen nordmenn som vil bli smittet,
-noen for andre gang.» Likevel kunne han berolige
-befolkningen med at «Det er svært lite sannsynlig
-at vi vil anbefale andre tiltak enn en fjerde vaksinedose til noen grupper.»60
-I starten av juni økte antall nye innleggelser
-med covid-19. Tallene fortsatte å stige gjennom
-andre halvdel av juni slik at man ved inngangen til
-juli 2022 daglig hadde mellom 50-60 nye innleggelser per dag. Bølgen avtok i slutten av august, men
-det var først i slutten av september man var tilbake på like lave tall som man hadde hatt i mai
-samme år.
-Gjennom sommeren 2022 ble i snitt 2-3 personer lagt inn på intensiv med covid-19 hver dag.
-Selv om dette var en betydelig økning fra for59
-
-«Regjeringens strategi og beredskapsplan for håndteringen
-av covid-19-pandemien», vedtatt 5. april 2022.
-60
-Nettartikkel, e24, 19. juni 2022, «Covid er tilbake: Slik blir
-sommerbølgen».
+OECD

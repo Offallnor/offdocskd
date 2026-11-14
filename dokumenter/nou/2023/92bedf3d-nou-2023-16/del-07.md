@@ -1,1274 +1,204 @@
-# NOU 2023: 16, del 7 av 19 (side 91–105)
+# NOU 2023: 16, del 7 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/92bedf3d-nou-2023-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-16/id2982388/
 - Original-PDF: https://www.regjeringen.no/contentassets/b1dace9390054c85a5a87c7bbf1bc384/no/pdfs/nou202320230016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 7 tabeller, 101 figurer, 743 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 91]
+# Nasjonalt system for beredskap og krisehåndtering
 
-NOU 2023: 16
+Statsminister Jonas Gahr Støre på den første regjeringskonferansen sammen med sin nye regjering, 14. oktober 2021.
 
-Evaluering av pandemihåndteringen
-
-2020, og fra høsten 2020 hadde Barne- og familiedepartementet, som har ansvaret for politikkutformingen på tros- og livssynsfeltet, regelmessige møter med tros- og livssynssamfunnene der
-også helsemyndighetene tidvis deltok.28 Eksempelet over kan likevel tjene som en illustrasjon på
-viktigheten av at smitteverntiltak oppleves som
-logiske, rettferdige og konsistente.
-Mange av tros- og livssynssamfunnene har
-også omfattende og viktige hjelpeaktiviteter innrettet mot ulike grupper av personer i sårbare livssituasjoner. Da mulighetene til å opprettholde
-dette aktivitetstilbudet bortfalt, medførte det en
-ekstra belastning for brukerne, særlig hvis også
-tilgang til offentlige tjenestetilbud var blitt begrenset.
-
-5.2.8 Frivilligheten
-Frivillighetsbevegelsen i Norge er omfattende, og
-den organiserer til vanlig et bredt spekter av tilbud til hele befolkningen. Mange av disse tilbudene måtte stenges ned eller reduseres i henhold til det gjeldende smittevernregimet gjennom
-pandemien. Bortfallet av slike tilbud var mest følbart for personer i sårbare livssituasjoner. Innsats
-fra frivilligheten var et viktig bidrag til håndteringen og gjennomføringen av smitteverntiltak
-gjennom blant annet organisering av teststasjoner,
-bistand ved vaksinering, distribuering av mat og
-medisiner, pasienttransport, produksjon av smittevernutstyr og ulike telefontjenester.29
-Utvalget ser at både tros- og livssynssamfunnene og frivilligheten gjorde en stor innsats for å
-opprettholde aktivitetstilbud til utsatte og sårbare
-grupper. Kreativiteten og omstillingsevnen var
-stor, og bidragene fra disse organisasjonene bidro
-til å redusere den totale tiltaksbyrden i befolkningen. Frivilligheten har gitt klart uttrykk for at de
-kunne bidratt enda mer og blitt brukt mer systematisk. Det er et signal fra frivilligheten til myndighetene som Koronautvalget vurderer at myndighetene bør følge opp som et ledd i arbeidet
-med å styrke den fremtidige pandemiberedskapen. Styreleder i Caritas, Stian Berger Røsland,
-kommenterte i sin forklaring til Koronautvalget
-at:
-«Jeg tror det er et viktig oppmerksomhetspunkt –
-om ikke et læringspunkt – å huske at det finnes
-28
-
-Prop. 1 S (2021–2022) For budsjettåret 2022 under Barneog familiedepartementet, side 176.
-29 NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 206-207.
-
-89
-
-Kapittel 5
-
-ganske veletablerte strukturer med profesjonelle
-mennesker i Norge som kan bistå myndighetene
-og det samlede samfunnets behov i å oppnå en
-målsetting.»30
-
-5.3
-
-Regjeringens håndtering av
-tiltaksbyrden
-
-Det er et viktig prinsipp for håndteringen av
-enhver pandemi at myndighetene legger til grunn
-at smitteverntiltakene skal være målrettede,
-balanserte og mest mulig rettferdige. Dette er viktig fordi befolkningens opplevelse av tiltakene i
-stor grad vil påvirke deres tillit til myndighetenes
-håndtering og etterlevelsen av tiltakene.
-Utvalget vurderer at norske myndigheter gjennomgående vurderte tiltaksbyrde ved innføring av
-alle smitteverntiltak, men at de ikke alltid hadde
-et fullverdig kunnskapsgrunnlag å vurdere ut ifra.
-I en pandemi der raske beslutninger er avgjørende vil det ikke alltid være mulig å kartlegge
-alle konsekvenser av omfattende smitteverntiltak i
-forkant. Samtidig vil det i langvarige kriser, slik
-som koronapandemien, være viktig å lære underveis, raskt tilpasse tiltak basert på erfaringer fra
-tidligere faser og forberede seg best mulig på
-hvordan pandemien kan utvikle seg videre. Koronakommisjonen drøftet dette og løftet blant annet
-frem at «Regjeringen hadde ikke tilstrekkelig oppmerksomhet rettet mot hvordan pandemien kunne
-utvikle seg, og hvordan den videre utviklingen skulle
-håndteres.»31 Koronautvalget stiller seg bak dette.
-Også i etterkant av pandemien er det viktig å
-trekke lærdom og dokumentere kunnskap om tiltaksbyrde slik at myndighetene ved fremtidige
-kriser får et bedre og lettere tilgjengelig kunnskapsgrunnlag å vurdere ut fra. Utvalget registrerer at regjeringen har påbegynt et slikt arbeid,
-blant annet i stortingsmeldingen Folkehelsemeldinga.32
-Regjeringen viste i mange tilfeller vilje til å justere kursen der man så at det var mulig å gjøre
-grep som reduserte tiltaksbyrden uten å svekke
-selve pandemihåndteringen. Regjeringen viste i
-det store og hele også vilje til å innføre kompenserende tiltak der det har vært mulig, selv om ikke
-alle kompenserende tiltak var like treffsikre.
-30
-
-Forklaring, styreleder i Caritas Stian Berger Røsland, 15.
-desember 2022.
-31 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 13.
-32 Meld. St. 15 (2022–2023) Folkehelsemeldinga – Nasjonal
-strategi for utjamning av sosiale helseforskjeller.
-
-[Side 92]
-
-90
-
-Kapittel 5
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Den aller viktigste lærdommen utvalget ser er
-at differensiering er den beste strategien for å
-lette den totale tiltaksbyrden og særlig beskytte
-de mest utsatte og sårbare. Det er forståelig at
-man i en akuttsituasjon er nødt til å innføre smitteverntiltak med bred pensel, men så snart den første akutte fasen er over bør de ansvarlige myndigheter gjennomgå tiltakene og i samråd med
-berørte parter se etter muligheter for bedre treffsikkerhet gjennom økt differensiering. Det er
-særlig viktig å vurdere differensiering som bidrar
-
-til å lette tiltaksbyrden for de mest utsatte og sårbare.
-Pandemier vil aldri være helt like, og vi vet
-ikke hva slags krise som treffer oss neste gang.
-Samtidig vil det som hovedregel være slik at
-omfattende bruk av smitteverntiltak i samfunnet
-vil ha negative konsekvenser for enkeltpersoner
-og virksomheter. Utvalget vurderer derfor at myndighetene bør søke å se smitteverntiltak og kompenserende tiltak i sammenheng også i pandemiberedskapsarbeidet.
-
-[Side 93]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-91
-
-Kapittel 6
-
-Kapittel 6
-
-Situasjonen for barn og unge gjennom pandemien
-Boks 6.1 Oppsummering
-– Utvalget mener det var riktig av regjeringen
-– Helsetilbudet til de yngste ved helsestasjoner
-å ha et mål om at barn og unge skulle ha så
-og skolehelsetjenestene ble noe redusert
-lav tiltaksbyrde som mulig, men vurderer at
-grunnet omdisponering av helsepersonell til
-tiltaksbyrden likevel samlet sett var stor for
-andre oppgaver knyttet til pandemien.
-barn og unge.
-– Foreløpige studier, tall på fastlegebesøk og
-– Myndighetene gjorde en innsats for å følge
-henvisninger indikerer at barn og unges
-opp målet om at barn og unge skulle ha så lav
-psykiske helse under pandemien ble negativt
-tiltaksbyrde som mulig, men kunne i noe
-påvirket. Det er for tidlig å si om dette var
-større grad sørget for større samsvar mellom
-forbigående, eller om det vil få varige
-målet og smitteverntiltakenes utforming.
-konsekvenser.
-– De fleste barn og unge klarte seg godt gjen– Underveis i pandemien fikk myndighetene
-nom pandemien selv om det ble rapportert
-på plass bedre strukturer og koordinering for
-om redusert livskvalitet blant barn og unge
-å ivareta barn og unges interesser.
-mens pandemien pågikk. Det er fremdeles
-– Utvalget mener at barn og unges represenfor tidlig å konkludere om de negative langtanter ikke ble tilstrekkelig involvert i de
-tidskonsekvensene av pandemien for barn og
-beslutningene som angikk barn og unge.
-unge. Koronautvalget oppfordrer myndigDette gjelder både på lokalt og nasjonalt nivå.
-hetene til å følge med på utviklingen og iverksette tiltak ved behov.
-
-6.1
-
-Innledning
-
-I kapittel 6 ser Koronautvalget nærmere på noen
-sider ved barn og unges hverdag i pandemien og
-tiltaksbyrden de opplevde. Hovedbildet viser at
-pandemien var en tung tid for barn og unge.
-Deres hverdag ble i perioder snudd på hodet og
-de opplevde at både skole, barnehage og fritidsaktiviteter ble begrenset. Det har likevel gått bra
-med de aller fleste i etterkant.
-
-6.2
-
-Regjeringens mål om lav
-tiltaksbyrde for barn og unge
-
-Som del av pandemihåndteringen hadde regjeringen et uttalt mål om at «barn og unge skal ha så lav
-tiltaksbyrde som mulig» og at når smitteverntiltak
-ble vurdert skulle hensynet til barn og unge
-
-prioriteres først.1 Målet ble etter hvert eksplisitt
-formulert i regjeringens strategi, og ble også
-understreket av statsminister Støre da han i sin
-redegjørelse for Stortinget 30. november 2021 sa
-at «[d]et grunnleggende og avgjørende er at vi skjermer barn.»2
-Barn og unge hadde mindre risiko enn voksne
-for alvorlig sykdom som følge av koronaviruset.
-Derfor var det i hovedsak konsekvensene av smitteverntiltakene, og ikke sykdommen, som hadde
-størst betydning for barn og unges tiltaksbyrde
-under pandemien.
-1
-
-2
-
-«Langsiktig strategi for håndteringen av covid-19-pandemien», vedtatt 7. mai 2020, oppdatert 14. desember 2020.
-Lignende formuleringer er gjentatt i senere strategier.
-Referat, redegjørelse for Stortinget, 30. november 2021,
-«Stortinget – Møte den 30. november 2021. Sak nr. 2: Redegjørelse av statsministeren om status og videre løp for
-myndighetenes håndtering av covid-19».
-
-[Side 94]
-
-92
-
-Kapittel 6
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Enkelte barn og unge var likevel særlig utsatt.
-Det gjaldt for eksempel barn og unge med underliggende sykdommer, de med funksjonsnedsettelser som helt eller delvis mistet tilgang til offentlige støttetjenester, eller de med en utfordrende
-familiesituasjon og ekstra omsorgsbehov.
-Myndighetene forsøkte å håndtere pandemien
-på en måte som ivaretok barn og unge. I dette
-arbeidet fikk de på plass bedre koordinering mellom fagmyndighetene utover i pandemien. I april
-2020 satte regjeringen ned en koordineringsgruppe på direktoratsnivå for å følge med på situasjonen til sårbare barn og unge.3 Gruppen skulle
-styrke myndighetenes beslutningsgrunnlag og
-hadde deltakere fra Barne-, ungdoms- og familiedirektoratet, Integrerings- og mangfoldsdirektoratet,
-Utdanningsdirektoratet, Helsedirektoratet, Politidirektoratet, Sekretariatet for konfliktrådene,
-Folkehelseinstituttet og Arbeids- og velferdsdirektoratet. I likhet med Koronakommisjonen, erfarer
-utvalget at koordineringsgruppen var en viktig
-premissleverandør for politikken og smitteverntiltakene rettet mot barn og unge.
-I tillegg ble det etablert en interdepartemental
-gruppe ledet av Barne- og familiedepartementet og
-med deltakere fra Helse- og omsorgsdepartementet,
-Justis- og beredskapsdepartementet, Kommunal- og
-distriktsdepartementet, Kultur- og likestillingsdepartementet og Kunnskapsdepartementet.
-På departementsnivå leder Barne- og familiedepartementet en kjernegruppepilot for samordning av arbeidet for utsatte barn og unge.4 Barne-,
-ungdoms- og familiedirektoratet koordinerer det
-tverrsektorielle samarbeidet om utsatte barn og
-unge på direktoratsnivå, som skal bygge videre på
-erfaringene fra koordineringsgruppen. Utvalget
-mener det er positivt at erfaringene fra godt samarbeid gjennom pandemien er videreutviklet og
-videreført.
-Myndighetene gjør en innsats for å følge med
-på de langsiktige konsekvensene av pandemien,
-særlig med hensyn til barn og unge. For eksempel
-har Barne-, ungdoms- og familiedirektoratet
-igangsatt et forskningsprosjekt om langtidskonsekvenser for oppvekst og likestilling der formålet
-blant annet er kunnskapsutvikling og å anbefale
-tiltak som kan dempe, eller snu negative konsekvenser av pandemien.5
-3
-
-4
-5
-
-Koordineringsgruppen er nærmere omtalt i NOU 2022: 5
-Myndighetenes håndtering av koronapandemien – del 2, side
-354-355.
-Prop. 1 S (2022–2023) For budsjettåret 2023 under Barneog familiedepartementet, side 42.
-Meld. St. 15 (2022–2023) Folkehelsemeldinga – Nasjonal
-strategi for utjamning av sosiale helseforskjellar, side 18.
-
-Barndommen og ungdomsårene er viktige for
-alle barn og unge, blant annet med tanke på deres
-sosiale utvikling. Etter to år med pandemi, der
-sosial kontakt gjennom skole og fritid ble betydelig redusert på grunn av smitteverntiltak, er det
-viktig at myndighetene følger opp og iverksetter
-tiltak som kan redusere mulige langsiktige negative konsekvensene av pandemien for barn og
-unge.
-Utvalget mener det var riktig av regjeringen å
-ha et mål om at barn og unge skulle ha så lav tiltaksbyrde som mulig. Utvalget ser at myndighetene har søkt å ta særskilt hensyn til barn og
-unge, men ser i likhet med Koronakommisjonen
-at myndighetene ikke fullt ut lyktes med å
-skjerme denne gruppen i tråd med egen målsetning. Utvalget mener at barn og unge har båret en
-uforholdsmessig stor tiltaksbyrde, og vurderer at
-ytterligere bruk av differensiering kunne lettet tiltaksbyrden noe for barn og unge. For eksempel
-kunne tiltak rettet mot barn og unge vært mindre
-omfattende i områder med lav smitte, tiltak rettet
-mot ulike tjeneste- og aktivitetstilbud kunne hatt
-flere unntak for barn og unge, og det kunne vært
-åpnet for mer bruk av utendørsaktiviteter. Under
-pandemien var det også eksempler på tiltak for
-sårbare barn og unge som ikke fungerte i praksis.
-Dette gjaldt for eksempel tilbudet til sårbare barn
-som skulle ha et tilbud om fysisk tilstedeværelse i
-skolen selv i perioder med svært strenge smitteverntiltak i skolene.
-
-6.3
-
-Barnehage-, skole- og
-studiehverdagen under
-pandemien
-
-Barnehager og skoler ble tidlig inkludert i regjeringens utvidede liste over «viktige samfunnsfunksjoner».6 Det gjorde det enklere å tilrettelegge for
-drift av barnehager og skoler gjennom pandemien. Selv om skoler og barnehager til tider måtte
-iverksette til dels omfattende kontaktreduserende
-restriksjoner, har de i hovedsak vært åpne gjennom pandemien, med unntak av den første nedstengningen våren 2020. Dette var viktig for barn
-og unge av flere grunner. Barn og unges rett til
-utdanning ble ivaretatt. Barnehager og skoler har
-også en viktig rolle i å fange opp barn som er
-utsatt for omsorgssvikt, de er en arena for barn og
-unges sosiale utvikling og læring, og de har en
-6
-
-Regjeringens liste over kritiske og viktige samfunnsfunksjoner er nærmere omtalt i NOU 2021: 6 Myndighetenes
-håndtering av koronapandemien, kapittel 31.
-
-[Side 95]
-
-93
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Kapittel 6
-
-Boks 6.2 Opplevd tiltaksbyrde ved tiltak rettet mot barn høsten 2021
-bære den største belastningen. Hyppig testing av barnet
-ble rangert som minst belastende for den foresatte. Når
-de foresatte vurderte byrden fra barnets perspektiv var
-det 6 av 8 tiltak som ble rangert som belastende. Dette
-var stengte skoler, karantene i 7 døgn, hyppig testing på
-teststasjon, rødt nivå på skolen, å ikke kunne delta på fritidsaktiviteter og ofte veksling mellom gult og rødt nivå.
-Kun 2 av 8 ble vurdert som mindre belastende, og dette
-var deltagelse på idrettsstevner, etterfulgt av hjemmetesting.
-
-FHI, sammen med fire fylker, gjennomførte i desember
-2021 en undersøkelse der de spurte hvilken belastning
-ulike tiltak ville bety for befolkningen, ut fra et scenario
-der tiltaket ble innført «i dag og ville vare 4 uker». I
-undersøkelsen ble det spurt om tiltak særskilt rettet mot
-barn. Undersøkelsen viser at belastningen av smitteverntiltak rettet mot barn vurderes forskjellig fra om foresatte
-svarer fra eget perspektiv eller fra barnets perspektiv, se
-figur 6.1 og 6.2. Foresatte vurderte at for egen del ville
-stengte skoler, etterfulgt av karantenekrav i 7 døgn for
-barn og voksne og hyppig testing på teststasjon, inne-
-
-Stengte skoler
-
-Å bli satt i karantene i 7 døgn 7 %
-Hyppig testing teststasjon
-
-19 %
-18 %
-
-11 %
-
-30 %
-
-Hyppig testing hjemme/skole
-
-27 %
-
-0%
-Ikke belastende
-
-Litt belastende
-
-33 %
-
-30 %
-
-31 %
-27 %
-
-28 %
-
-24 %
-
-30 %
-
-20 %
-
-23 %
-
-30 %
-
-19 %
-
-34 %
-
-18 %
-
-25 %
-
-17 %
-
-Ikke kunne delta på idrettsstevner/samlinger/konkurranser
-
-25 %
-
-21 %
-
-13 %
-
-Rødt nivå på skoler 7 %
-
-Ofte veksling mellom gult og rødt nivå 6 %
-
-18 %
-
-13 %
-
-11 %
-
-Ikke kunne delta på fritidsaktiviteter
-
-16 %
-
-14 %
-
-12 %
-
-15 %
-
-23 %
-
-27 %
-
-17 %
-
-19 %
-
-18 %
-
-16 %
-
-7%
-
-10 % 20 % 30 % 40 % 50 % 60 % 70 % 80 % 90 % 100 %
-
-Noe belastende
-
-Ganske belastende
-
-Svært belastende
-
-Figur 6.1 Opplevd tiltaksbyrde. Grad av belastning for den foresatte ved smitteverntiltak rettet mot barn.
-Note: Tiltakene er sortert etter synkende andel som har vurdert tiltak som kategorien «svært belastende», hvor størst andel rapporterte tiltaket stengte skoler som «svært belastende».
-
-Stengte skoler
-
-13 %
-
-13 %
-
-14 %
-
-Å bli satt i karantene i 7 døgn
-
-11 %
-
-13 %
-
-19 %
-
-Hyppig testing teststasjon
-
-10 %
-
-19 %
-
-Rødt nivå på skoler
-
-18 %
-
-Ikke kunne delta på fritidsaktiviteter
-
-23 %
-
-Ofte veksling mellom gult og rødt nivå
-
-41 %
-
-Ikke kunne delta på idrettsstevner/samlinger/konkurranser
-Hyppig testing hjemme/skole
-0%
-Ikke belastende
-
-Litt belastende
-
-35 %
-
-29 %
-27 %
-
-21 %
-
-18 %
-18 %
-
-38 %
-
-28 %
-
-22 %
-18 %
-
-13 %
-
-21 %
-
-21 %
-25 %
-17 %
-24 %
-
-22 %
-
-24 %
-
-19 %
-
-20 %
-
-17 %
-
-28 %
-17 %
-22 %
-
-16 %
-13 %
-
-13 %
-
-12 % 7 %
-
-10 % 20 % 30 % 40 % 50 % 60 % 70 % 80 % 90 % 100 %
-
-Noe belastende
-
-Ganske belastende
-
-Svært belastende
-
-Figur 6.2 Opplevd tiltaksbyrde. Grad av belastning for barnet ved smitteverntiltak rettet mot barn, rapportert av
-den foresatte.
-Note: Tiltakene er sortert etter synkende andel som har vurdert tiltak som kategorien «svært belastende», hvor størst andel rapporterte tiltaket stengte skoler som «svært belastende».
-Kilde: Rapport, FHI, desember 2022, «Opplevd tiltaksbyrde under koronapandemien: Resultater fra fire fylker desember 2021».
-
-[Side 96]
-
-94
-
-Kapittel 6
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-viktig rolle for barns generelle trivsel i det daglige.
-Da regjeringen 12. mars 2020 besluttet inngripende smitteverntiltak, ble barnehager og skoler stengt med unntak for barn med særlige
-omsorgsbehov eller med foreldre i samfunnskritiske funksjoner. Barnehagene gjenåpnet 20. april,
-1-4. trinn 27. april og de øvrige trinnene gjenåpnet
-11. mai. Etter den første nedstengningen i mars
-2020 utarbeidet Folkehelseinstituttet og Utdanningsdirektoratet smittevernveiledere for smittevernfaglig forsvarlig drift i barnehager og skoler.
-Smittesituasjonen medførte at barnehager og skoler måtte forholde seg til ulike smitteverntiltak
-gjennom pandemien. Veilederne tilrettela for egne
-smittevernregimer i barnehager, grunnskolen og
-videregående skoler, mens høyere utdanning i all
-hovedsak ble regulert på linje med arbeidslivet.
-De fleste studentene ved universiteter og høyskoler opplevde dermed betydelig lengre perioder
-med stengt campus og digitale forelesninger enn
-elevene i skolen.
-
-6.3.1
-
-Trafikklysmodellen i barnehager og
-skoler
-I smittevernveilederne for barnehager og skoler
-ble det 29. mai 2020 innført en trafikklysmodell
-som ble lagt til grunn for vurdering og bruk av tiltaksnivå i skoler og barnehager gjennom pandemien. Modellen ble innført for å kunne holde barnehager og skoler åpne, og innebar ulike smitteverntiltak avhengig av smittesituasjonen. Modellen hadde tre nivåer for smitteverntiltak; grønt,
-gult og rødt. Grønt nivå innebar en tilnærmet normal drift, mens gult og rødt nivå innebar flere kontaktreduserende tiltak som for eksempel bruk av
-mindre grupper og større avstand mellom elever
-og ansatte. Selv om rødt nivå forutsatte strenge tiltak og i praksis innebar mye hjemmeskole og digital undervisning, er det viktig å presisere at rødt
-nivå ikke var det samme som stengte skoler. Gjennomføringen av tiltaksnivåene har i praksis vært
-noe ulik i ulike kommuner og fylkeskommuner,
-og i de ulike barnehagene og skolene. Det skyldes
-blant annet bygningenes størrelse og utforming.
-Covid-19-forskriften stilte krav til smittevernfaglig forsvarlig drift i barnehager og opplæringsog utdanningsvirksomheter. Veilederne og trafikklysmodellen beskrev nærmere hvordan dette kravet kunne oppfylles. I tråd med forskriften var det
-Helsedirektoratet som formelt utga veilederne,
-men de ble utarbeidet i samarbeid mellom Helse-
-
-Figur 6.3 Illustrasjon av videregående skole og
-koronavirus.
-Foto- og montasje: Zdravko Tomasa, Johan Bojer videregående
-skole
-
-direktoratet,
-Folkehelseinstituttet
-og
-Utdanningsdirektoratet.
-Gjennom pandemien har nasjonale myndigheter besluttet hvilket tiltaksnivå barnehager og
-skoler skulle drifte på, men basert på den lokale
-smittesituasjonen kunne lokale myndigheter
-beslutte strengere tiltaksnivå.
-Basert på erfaringer gjennom pandemien ble
-veilederne justert og oppdatert flere ganger.
-Underveis i pandemien har man også sett svakheter ved modellen som ikke ble løst. Utfordringer
-med modellen så man ved beslutningen om rødt
-nivå i videregående skole i desember 2021. Dette
-er nærmere omtalt i avsnitt 12.3.3. I januar 2022
-vurderte både Helsedirektoratet, Folkehelseinstituttet og Utdanningsdirektoratet trafikklysmodellens innretning etter oppdrag fra departementene.
-Etatene var enige om at det ikke var behov for
-noen større revisjon av modellen og veilederne,
-men foreslo enkelte justeringer. Trafikklysmodellen ble også vurdert da tiltakspakkene ble vurdert
-i februar 2022, og ble beholdt som en del av den
-nasjonale beredskapen som kan tas i bruk ved
-behov.7
-Smitteverntiltak som rammet barnehage- og
-opplæringstilbud har hatt en del negative konsekvenser for barn og unge, men for noen barn og
-elever har tiltakene også hatt positive sider. For
-eksempel opplevde noen barn mer ro og trygghet
-når barnehager ble organisert med mindre
-grupper og økt voksentetthet.8
-7
-
-Svar på oppdrag, Helsedirektoratet til HOD, 7. februar
-2022, «Svar på Covid-19-oppdrag nr. 615 fra HOD – Kriterier som må være oppfylt for at det forskriftsfestede kravet
-til smittevernfaglig forsvarlig drift i skoler og barnehager
-kan oppheves», side 2.
-
-[Side 97]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-6.3.2 Tapt læring
-Det har vært bekymringer for hvilken betydning
-endringene av skoletilbudet gjennom pandemien
-har hatt for elevenes læring. Blant annet kommenterte statsminister Støre i sin forklaring til utvalget at «vi er enda ikke ferdig med å vurdere ettervirkningene av pandemien for unge mennesker:
-læringsbortfall, sosiale problemer med å komme tilbake i lære- og skolesituasjonen.»9
-Mye digital undervisning og selvstendig elevarbeid, i tillegg til økt sykefravær hos lærere, kan
-ha hatt negativ påvirkning. For noen elever var det
-vanskelig at strukturen i hverdagen forsvant, og
-for andre var det utfordringer med tilgang på digitalt utstyr, tilfredsstillende nettforbindelse og eget
-rom, eller hvorvidt foreldre kunne hjelpe dem.
-Koronakommisjonen uttrykte bekymring for
-dette og anbefalte at det ble fulgt med på.10 Ifølge
-Nøkleby H. mfl. (2023) varierte erfaringene med
-hjemmeskole og digital undervisning.
-Foreløpige studier som har sett på læring i
-skole og barnehage under pandemien viser varierende resultater, og også internasjonalt har det
-vært påpekt behov for mer kunnskap om «educational impact of school shut downs».11 Utdanningsdirektoratet påpekte i sin publikasjon om mulige
-konsekvenser for barn og unge at færre elever
-med særskilte behov har fått opplæringen de har
-krav på. Videre, fant direktoratet ingen indikasjoner på at elevenes grunnleggende ferdigheter i
-lesing, regning og engelsk har endret seg vesentlig, verken på nasjonalt nivå eller i kommuner
-med høyt smitteuttrykk. For de fem mest smitteutsatte bydelene i Oslo fant de derimot at
-læringsutbyttet til elevene har utviklet seg noe
-mer negativt under pandemien.
-Foreldres tilfredshet med barnas læringssituasjon ble påvirket av smitteverntiltakene. Etter
-gjenåpningen høsten 2021 rapporterte foreldre
-rekordhøy tilfredshet med barnas læringssituasjon, men i desember 2021 falt tilfredsheten kraftig. Da det ble lettet på tiltak vinteren 2022, tok tilfredsheten seg opp igjen fra mars 2022 og holdt
-seg stabilt høy gjennom året.12
-8
-
-Rapport, Deloitte AS for KS, september 2021, «Undersøkelse – Kommunens erfaring fra Koronapandemien så
-langt. Sluttrapport fra FoU-prosjekt for KS», side 80 og 105.
-9 Forklaring, statsminister Jonas Gahr Støre, 20. januar 2023.
-10 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 423.
-11
-Rapport, OECD, januar 2022, «First lessons from government evaluations of COVID-19 responses: A synthesis»,
-side 7.
-
-95
-
-Kapittel 6
-
-For elever og studenter ved enkelte studieretninger hadde fysisk stengte skolebygg og restriksjoner større betydning. Dette gjaldt for eksempel
-yrkesfagelever på byggfag som har større behov
-for praktisk opplæring før de kan gå ut i lære, eller
-studenter ved høyere utdanning der bruken av
-laboratorier kan være nødvendig for studiene.
-Heller ikke studenter innenfor utøvende kunst vil
-ha et tilstrekkelig godt utbytte av digital undervisning. Slike utfordringer kan være grunnlag for å
-vurdere større bruk av differensierte smitteverntiltak.
-I beslutninger som berører barn, skal barnets
-beste være et grunnleggende hensyn.13 Dette
-innebærer at myndighetene må vurdere barns rettigheter når de skal beslutte smitteverntiltak. I det
-ligger det også at myndighetene må vurdere hvordan man tar hensyn til de yrkesgruppene som
-skal bidra til at barn får oppfylt blant annet sin rett
-til utdanning.14 I sin forklaring til utvalget var
-kunnskapsminister Tonje Brenna inne på dette og
-uttalte at:
-«Jeg tror at det å ha en tydelig sammenheng mellom hvem vi har som mål å beskytte, og hva vi
-gjør for dem som skal bidra til at de beskyttes, faktisk kan gjøre jobben sin, jamfør vaksiner til
-ansatte i skole og barnehage, tror jeg er et sånt
-læringspunkt hvor vi kunne hatt en bedre helhet
-hvis vi hadde tenkt den tanken helt ut fra
-start.»15
-
-6.4
-
-Redusert tjeneste- og
-aktivitetstilbud til barn og unge
-
-Pandemien påvirket det kommunale helsetjenestetilbudet for barn og unge. Det ble tidlig i
-pandemien kommunisert fra nasjonale helsemyndigheter at helsetilbudet til barn og unge
-skulle skjermes.16 Mangel på personell gjorde at
-mange kommuner i perioder likevel måtte priori12
-
-Rapport, Opinion, januar 2023, «Norsk koronamonitor:
-Sammenstilling av utvalgte indikatorer til Koronautvalget
-for 2020-2022», side 73.
-13
-At barnets beste skal være et grunnleggende hensyn følger
-av Grunnloven § 104 og barnekonvensjonen artikkel 3.
-14
-Retten til utdanning følger av Grunnloven § 109 og barnekonvensjonen artikkel 28.
-15 Forklaring, kunnskapsminister Tonje Brenna, 10. januar
-2023.
-16 Se blant annet brev fra Helsedirektoratet, 21. april 2020,
-«Prioritering av helsehjelp i Norge under covid-19 pandemien – oppdatering» og brev, helse- og omsorgsministeren
-og kommunal- og moderniseringsministeren, 4. september
-2020, «Om oppfølging av TISK-strategien og finansiering».
-
-[Side 98]
-
-96
-
-Kapittel 6
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-tere andre oppgaver knyttet til pandemien, som
-testing, smittesporing og vaksinering. Det var
-likevel variasjon mellom kommunene. For eksempel var det i flere kommuner redusert tilgang på
-skolehelsetjeneste, mens andre steder ble derimot skolehelsetjenestens tilbud oppskalert på
-grunn av økt etterspørsel.17 Tall fra Statistisk sentralbyrå viser at 78 prosent av kommunene i 2021
-omdisponerte personell fra helsestasjons- og
-skolehelsetjenesten til koronahåndtering.18 Tilsvarende tall for 2020 var 75 prosent. Det var i
-hovedsak helsesykepleiere som ble omdisponert,
-men også jordmødre og andre typer personell.
-Imidlertid viser tall for 2020 at omdisponeringen
-utgjorde en relativt liten andel av årsverkene i tjenesten i de fleste kommunene.
-I 2019 fikk ni av ti mødre besøk av helsesykepleier i løpet av de første to ukene etter fødsel. I
-2020 var dette redusert til syv av ti, mens det økte
-til åtte av ti i 2021.19 Nedgangen skyldtes nedstengninger, smittevernhensyn og omdisponering. En del kommuner hadde et erstatningstilbud
-til nyfødte på helsestasjonen. Også 2-årskontroll
-av lege og helsesykepleier ble påvirket under pandemien. I 2019 ble 96 prosent av barna undersøkt,
-mens dette ble redusert til 89 prosent i 2020. I
-2021 var andelen oppe på 95 prosent. Tilsvarende
-nedgang kan man også se for 4-årskonsultasjonene.
-Det er viktig å påpeke at pandemien medførte
-utfordringer for langt flere barn og unge enn de
-man kan definere som sårbare. Flere aktivitets- og
-fritidstilbud var i perioder redusert eller stengt.
-Som vi omtalte i avsnitt 5.2.5 stiller utvalget spørsmål ved restriksjonene som gjaldt utendørsaktiviteter. Vitenskapelige studier har vist tilnærmet ingen smitteforekomst i fotballtrening og
--kamper utendørs for barn og unge (Watson AM
-mfl. 2021). Restriksjoner på utendørsaktivitet
-påvirket barn og unge.
-Den første nedstengningen i mars 2020 viste at
-tiltaksbyrden ble særlig stor når flertallet av tilbud
-og tjenester for barn og unge ble stengt samtidig.
-Dette anerkjente også myndighetene relativt
-raskt, og unngikk flere nedstengninger av samme
-omfang. Man fikk på plass skjerming av blant
-annet barnevernet, og innførte trafikklysmodellen
-for skoler og barnehager. Når alle tilbud til barn
-17
-
-Rapport, Deloitte AS for KS, september 2021, «Undersøkelse – Kommunens erfaring fra Koronapandemien så
-langt. Sluttrapport fra FoU-prosjekt for KS», side 72.
-18 Nettartikkel, SSB, 1. april 2022, «Effektene av pandemien
-preger fortsatt helsestasjons- og skolehelsetjenesten».
-19
-Ibid.
-
-og unge blir påvirket, kan det bidra «til totalbildet
-av en økt belastning på barn, unge og deres familier
-gjennom pandemien, og vil også kunne bidra til en
-total større etterspørsel etter tjenester til denne gruppen og til pårørende etter pandemien.»20
-
-6.5
-
-Barn og unges psykiske helse
-under pandemien
-
-Studier gjort i etterkant av pandemien antyder at
-det totalt sett har gått relativt bra med barn og
-unge i Norge, men samtidig er det indikasjoner på
-en viss negativ utvikling innenfor barn og unges
-psykiske helse. Det har vært uttrykt bekymring
-både i Norge og internasjonalt for at de unges psykiske helse ble mer negativt påvirket under pandemien enn hos befolkningen ellers. Ikke bare i
-perioder med strenge tiltak, men også i perioder
-uten strenge smitteverntiltak oppga flere yngre at
-de var mer ensomme enn befolkningsgjennomsnittet.21 Bruken av spesialisthelsetjenesten
-innenfor psykisk helsevern for barn og unge økte
-gjennom pandemien sammenlignet med årene før.
-Dette omtales nærmere i avsnitt 3.3.
-Eksisterende kunnskap kan gi noen antydninger, men fremdeles har vi for lite kunnskap om
-hvilke forhold ved pandemien som faktisk har
-påvirket barn og unges psykiske helse og i hvilken grad. Blant annet har Folkehelseinstituttet
-vist til at:
-«Sannsynligvis har tiltak som innfører begrensninger på deres liv stor betydning, slik som skolestengning eller restriksjoner på sosiale aktiviteter. Dette støttes av SHoT-undersøkelsen, som
-fant at studenter i områder som var hardere
-rammet av pandemien, opplevde en større forverring av den psykiske helsen. [...] Det er fremdeles et behov for mer kunnskap om hvordan
-pandemien har påvirket og fortsetter å påvirke
-barn og unges liv og psykiske helse. Spesielt viktig
-vil det være å avdekke årsakene til og konsekvensene av økninger i psykisk uhelse under pandemien.»22
-20
-
-Rapport, Deloitte AS for KS, september 2021, «Undersøkelse – Kommunens erfaring fra Koronapandemien så
-langt. Sluttrapport fra FoU-prosjekt for KS», side 78.
-21 Rapport, Opinion, januar 2023, «Norsk koronamonitor:
-Sammenstilling av utvalgte indikatorer til Koronautvalget
-for 2020-2022», side 59.
-22 Rapport, Folkehelseinstituttet, «Folkehelserapporten –
-Helsetilstanden i Norge», Delkapittel om psykiske plager
-og lidelser hos barn og unge. [oppdatert 31.05.2022; lest
-01.03.2023].
-
-[Side 99]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-Selv om det er for tidlig å trekke noen endelige
-konklusjoner, vil utvalget i det følgende knytte
-noen kommentarer til utvalgte nasjonale undersøkelser og rapporter som har sett nærmere på
-blant annet barn og unges opplevelse av tiltaksbyrde og egen livskvalitet under pandemien.
-Utvalget vil deretter se på de norske dataene i et
-internasjonalt perspektiv.
-
-6.5.1
-
-Studier av pandemiens påvirkning på
-barn og unge
-Basert på foreliggende nasjonale og internasjonale
-studier har Folkehelseinstituttet på oppdrag fra
-Barne-, ungdoms- og familiedirektoratet utarbeidet
-tre hurtigoversikter om konsekvenser av covid-19pandemien for barn og unges liv og psykiske helse
-gjennom pandemien. Den tredje rapporten ble
-publisert i april 2023. Etter oppdrag fra Koronautvalget har instituttet utarbeidet en kortversjon av
-denne som er vedlagt utvalgets rapport (Nøkleby
-mfl. 2023). Hurtigoversikten så på temaene vold og
-overgrep,23 familierelasjoner, sosiale relasjoner,
-psykisk helse, bruk av helsetjenester (psykisk
-helsevern) og læring, barnehager og skoler. Oversikten viste at det fremdeles er kunnskapshull,
-særlig fra siste halvdel av pandemien. Kunnskapsgrunnlaget for 2020 er relativt godt. FHI trekker
-frem enkelte faktorer som til en viss grad har påvirket hvilke barn som var mest utsatt. Hurtigoversikten viser at på «tvers av temaene så det ut til at barn,
-unge og familier som hadde det utfordrende fra tidligere fikk det verre under pandemien».24 Barn og
-ungdom i familier med lav sosioøkonomisk status
-ble betydelig mer negativt påvirket av pandemien
-på flere psykiske helseutfall. Samtidig viste studiene i hovedsak små, eller ingen endringer i
-følelsesregulering og atferdsendringer hos barneskolebarn og tenåringer fra før til under pandemien, heller ikke i studiene basert på data omtrent
-ett år inn i pandemien. En norsk studie inkludert
-i Folkehelseinstituttets oversikt viser en økning i
-diagnostiserte spiseforstyrrelser blant jenter i
-årene før pandemien, og at denne økningen tiltok i
-styrke etter starten av pandemien.
-Hvert år gjennomføres spørreundersøkelsen
-Ungdata blant elever på ungdomstrinnet og i
-videregående opplæring. Undersøkelsen fra våren
-2022 viste at etter nesten to år med pandemi står
-det i all hovedsak bra til med norsk ungdom, og
-23
-
-Vold i nære relasjoner og overgrep mot barn og unge er
-drøftet nærmere i NOU 2021: 6 Myndighetenes håndtering
-av koronapandemien, kapittel 31, punkt 31.6.3.
-24
-Nøkleby H. mfl. 2023, side 34.
-
-97
-
-Kapittel 6
-
-flere av endringene som ble dokumentert under
-pandemien var stort sett tilbake igjen på nivået fra
-før pandemien (Bakken 2022). De aller fleste
-svarte at de har god livskvalitet, og at de lever
-aktive liv. Mange av utfordringene ungdom hadde
-før og under pandemien, gjaldt fortsatt i 2022, og
-var mer eller mindre like utbredt etter pandemien
-som før. Når det gjelder ensomhet, økte tallene
-gjennom hele 2010-tallet. Det var ingen tydelig
-vekst i andelen som har vært mye plaget av
-ensomhet under pandemien, og tallene tyder på at
-andelen har gått noe ned etter pandemien.
-Elevundersøkelsen er en spørreundersøkelse
-der elever får si sin mening om læring og trivsel i
-skolen. Undersøkelsene de siste årene har vist at
-andelen elever på 7. trinn som opplevde mobbing
-økte gjennom pandemien.25 Andelen i 2020 og
-2021 var noe høyere enn årene før pandemien,
-mens andelen i 2022 var betydelig høyere. Mens
-syv prosent av elevene opplevde mobbing på skolen to-tre ganger i måneden, eller oftere i 2019, var
-det en økning til ti prosent i 2022. Dette var opp
-fra åtte prosent året før. Andelen som har opplevd
-mobbing på 10. trinn og i 1. klasse på videregående falt i årene 2017 til 2020. Fra 2020 til 2021 var
-utviklingen tilnærmet flat. Andelen steg derimot
-markant i 2022 også for disse aldergruppene. I
-2022 var det 7,4 prosent av elevene på 10. trinn
-som svarte at de har blitt utsatt for mobbing to-tre
-ganger i måneden eller oftere, mens det i 2021 var
-5,7 prosent. For elevene i 1. klasse på videregående var veksten fra 3,3 i 2021 til 4,2 prosent i
-2022.
-Selv om det i all hovedsak står bra til med norske barn og unge etter pandemien er det grunn til
-å følge opp enkelte negative utviklingstrekk. Det
-gjelder for eksempel deler av barn og unges sosiale utvikling etter to år med redusert sosial kontakt med jevnaldrende.26 Som det fremgår ovenfor
-er det indikasjoner på økt forekomst av mobbing
-og ekskludering blant barn og unge i etterkant av
-pandemien. Utvalget vurderer at myndighetene
-bør følge opp dette og iverksette tiltak.
-
-6.5.2 Studentene
-Studentenes helse- og trivselsundersøkelse
-(SHoT) har blitt gjennomført i 2010, 2014, 2018,
-2021 og 2022, og kartlegger studentenes helse og
-25
-
-Nettartikkel, Utdanningsdirektoratet, 20. januar 2023,
-«Høy trivsel og godt læringsmiljø, men flere forteller om
-mobbing og lav motivasjon».
-26 Se blant annet nettartikkel, Aftenposten, 23. mars 2023,
-«Ungdomspsykolog etter pandemien: – Den suverent mest
-krevende høsten jeg har opplevd på videregående skoler».
-
-[Side 100]
-
-98
-
-NOU 2023: 16
-
-Kapittel 6
-
-Evaluering av pandemihåndteringen
-
-trivsel. Undersøkelsen fra 2022 viste en klar
-økning i andelen studenter med svekket livskvalitet sammenlignet med tidligere undersøkelser (Sivertsen og Johansen 2022).27 Psykiske plager økte i årene før pandemien, men ikke like
-raskt som under pandemien. Studenter kan ha
-opplevd pandemien på en litt annen måte enn
-hjemmeboende unge. Studenter bor ofte alene og
-ofte i avstand fra hjemstedet og nærmeste familie.
-I en situasjon med kontaktreduserende tiltak i
-samfunnet kan det ha påvirket den opplevde livskvaliteten.
-I likhet med mange andre voksne opplevde
-også flere studenter bekymringer da de ble permittert, eller mistet deltidsjobber på grunn av
-smitteverntiltakene. Andre arbeidstakere som ble
-permittert, eller mistet jobben, fikk overføringer
-fra staten, mens studenter som av samme grunn
-mistet sin ekstrainntekt fikk ikke slike tilsvarende
-utbetalinger. De fikk derimot tilbud om et tilleggslån fra Lånekassen, hvor en mindre andel potensielt kunne bli omgjort til stipend. En viss andel av
-studentene fikk dermed svekket økonomi som en
-direkte konsekvens av pandemien. Utvalget
-27
-
-Mens andelen som rapporterte dårlig eller svært dårlig
-livskvalitet lå mellom 13 og 16 prosent i årene 2010-2021,
-økte denne til 31 prosent i 2022. For psykiske plager ser
-man en kraftig økning mellom undersøkelsen fra 2018 til
-2021. Andelen med det som kan karakteriserer som alvorlige psykiske plager har økt fra 18 prosent i 2010, via 32 prosent i 2018 og 45 prosent i 2021 til 35 prosent i 2022.
-
-mener at likhetsprinsippet bør gjelde innenfor alle
-offentlige økonomiske støtteordninger under en
-pandemi, og kan ikke se at det forelå en relevant
-begrunnelse for at studenter som mistet sin deltidsjobb ikke burde få tilsvarende støtte som
-andre arbeidstakere som mistet jobben. Det faktum at studenter i utgangspunktet ikke har rettigheter i NAV burde ikke vært til hinder for at regjeringen kunne funnet en løsning som innebar at
-studentene ikke ble påført økt gjeldsbyrde.
-
-6.5.3 Internasjonal sammenligning
-I et internasjonalt perspektiv kan vi se at Norge
-kommer dårligere ut enn andre land på enkelte
-indikatorer knyttet til unges psykiske helse.
-OECD-rapporten Health at a Glance 2022
-viste at det har vært en betydelig økning av andel
-unge med symptomer på angst og depresjon i
-flere europeiske land, og noen steder en dobling
-fra før pandemien.28 Figur 6.4 viser utviklingen for
-aldersgruppen 18-29 år. I oversikten kommer
-Norge dårligere ut enn de fleste andre land, og
-rapporten påpeker at i de tre nordiske landene
-Island, Sverige og Norge har mer enn en av tre
-unge rapportert om symptomer på depresjon i
-perioden april 2020 til april 2021 sammenlignet
-med en av ni før pandemien.
-28
-
-Rapport, OECD, 5. desember 2022, «Health at a Glance:
-Europe 2022», side 4 og 21.
-
-42,5
-
-45
-40
-
-38,5
-
-37
-
-35
-
-40
-35
-
-30,7
-28,5
-
-30
-25
-20
-
-30
-25
-
-21,1
-
-20,1
-
-45
-
-20
-
-16,2
-
-14,8
-
-15
-
-15
-10
-
-9,3
-
-10
-
-6,6
-
-9,5
-
-8,7
-
-10
-
-5
-
-5
-
-0
-
-0
-Frankrike
-
-Danmark
-
-Belgia
-
-Før pandemien (2019 eller nærmeste år) (%)
-
-Estland
-
-Island
-
-Sverige
-
-Norge
-
-Under pandemien (April 2020–August 2021) (%)
-
-Figur 6.4 Symptomer på depresjon. Andel unge personer i utvalgte land.
-Note: Se OECD Health at a Glance 2022 side 21 for mer detaljer om kilder og datakvalitet. Aldersgruppen er 15-24 år for før pandemien, med unntak av Belgia der det er 18-29 år. Aldersgruppen er 18-29 år for under pandemien, med unntak av Frankrike der
-gruppen er 18-24 år. Det at aldersgruppene i de to periodene varierer begrenser sammenligningen.
-Kilde: OECD
-
-[Side 101]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-OECD-rapporten konkluderer med at «[t]here
-is now overwhelming evidence that young people’s
-mental health deteriorated disproportionately over
-the course of the pandemic».29 Videre uttrykker
-OECD bekymring for langtidskonsekvensene av
-pandemien for unges mentale helse.30 De påpeker
-at nyere data er mangelfulle, men at data fra
-midten av 2022 viser at mental helse og velvære
-var påvirket også på dette tidspunktet. Dette stemmer overens med funn fra Norge omtalt ovenfor.
-Utvalget vil likevel påpeke at internasjonale sammenligninger må leses med en viss varsomhet da
-det kan være andre kulturelle og strukturelle forhold ved de ulike landene og samfunnene som
-påvirker resultatene.
-
-6.6
-
-Om vurderinger av hensynet til, og
-involvering av barn og unge
-
-I tråd med Grunnloven og barnekonvensjonen
-skal det tas hensyn til barnets beste og barns rettigheter i avgjørelser som berører barn, og barn
-har rett til å bli hørt i saker som angår dem.31
-Dette innebærer krav til saksbehandlingen ved at
-barns rettigheter må vektlegges i vurderingene
-forut for beslutninger, og at vurderingene bør
-fremgå av beslutningsgrunnlaget. Videre innebærer det at det materielle innholdet i beslutningene og vedtakene må være i tråd med barns rettigheter. At barns rettigheter alltid må tas hensyn
-til betyr ikke at de alltid skal ha avgjørende vekt,
-men at hensynet til barn må bli vurdert når myndighetene fatter vedtak.
-Som Koronakommisjonen32 påpekte, ble flere
-beslutninger i begynnelsen av pandemien tatt
-uten at det fremkom at beslutningen ble vurdert i
-lys av menneskerettighetene. Gjennom koordinering på tvers av sektorene som omtalt over, fikk
-myndighetene etter hvert bedre oversikt over til29
-
-Ibid, side 23.
-Ibid, side 26.
-31 Barns rett til å bli hørt i spørsmål som gjelder dem og at
-barnets beste skal være et grunnleggende hensyn følger av
-Grunnloven § 104 og barnekonvensjonen artikkel 3 og 12.
-32
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 304.
-
-99
-
-Kapittel 6
-
-takenes konsekvenser, og dermed et bedre
-grunnlag for vurderinger av barns rettigheter når
-ulike smitteverntiltak skulle besluttes. Utover i
-pandemien var myndighetene tydeligere på at det
-var gjort vurderinger av hensynet til barnets beste
-før strenge smitteverntiltak ble innført.
-Under pandemien fikk myndighetene etter
-hvert bedre grunnlag for vurderingene av hensynet til barn og unge, men barn og unges rett til
-medvirkning ble tidvis utfordret. Flere beslutninger som angikk barn og unge ble tatt uten at barn
-og unge ble involvert. Dette er også vurdert av
-Koronakommisjonen.33 I kriser må saksbehandlingen tidvis gå raskt, slik at normale høringer og
-annen involvering i forkant ikke alltid vil være
-mulig. Utvalget mener likevel at myndighetene i
-større grad kunne involvert barn og unge når
-tiden tillot det. Så vidt utvalget er kjent med ble for
-eksempel ikke Elevorganisasjonen invitert til
-møter med Kunnskapsdepartementet utover felles sektormøter og Barne- og familiedepartementet hadde ikke systematisk kontakt med Barneombudet. Utvalget mener at barn og unges representanter ikke ble tilstrekkelig involvert i de
-beslutningene som angikk dem, verken nasjonalt
-eller lokalt, og at dette er et læringspunkt. Utvalget vil påpeke at involvering av barn og unge ikke
-bare handler om å ivareta deres rettigheter, men
-kan også føre til at tiltakene blir bedre og mer
-treffsikre.
-Myndighetene la etter hvert bedre til rette for
-kommunikasjon og dialog med barn, blant annet
-egne pressekonferanser for barn der barna kunne
-stille spørsmål. Om dette sa Erna Solberg i sin forklaring til utvalget at «[v]i forsøkte å ta barn i vårt
-samfunn seriøst med den informasjonen. De stilte vel
-så gode spørsmål som norsk pressekorps.»34 Dette initiativet var positivt, men samtidig kunne mer vært
-gjort for å kommunisere med ungdommene, som
-ofte ikke treffes like godt av kommunikasjonen til
-verken barn eller voksne.
-
-30
-
-33
-
-NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 387.
-34
-Forklaring, stortingsrepresentant Erna Solberg, 23. januar
-2023.
-
-[Side 102]
-
-100
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-2023
-
-[Side 103]
-
-Del III
-Nasjonalt system for krisehåndtering
-og internasjonalt samarbeid
-
-Figur 7.1 Statsminister Jonas Gahr Støre på den første regjeringskonferansen sammen med sin nye regjering,
-14. oktober 2021.
 Foto: NTB Kommunikasjon, Statsministerens kontor
 
-[Side 104]
+## Innledning
 
-[Side 105]
+I dette kapitlet beskriver utvalget dagens overordnede system for beredskap og krisehåndtering med vekt på håndtering av smittsomme sykdommer og pandemier. Det inkluderer en omtale av ansvarsforholdet mellom sentrale aktører og strukturene som skal ivareta god koordinering og samvirke på tvers av sektorer og forvaltningsnivåer i håndteringen av en større krise. Beskrivelsen er et viktig bakteppe for Koronautvalgets vurdering av norske myndigheters samlede håndtering av covid-19-pandemien, inkludert håndteringen av omikronvarianten.
 
-NOU 2023: 16
+Beredskap handler om å være forberedt på å kunne håndtere uventede hendelser av ulik størrelse, både avgrensede akutte hendelser og større kriser som trekker ut i tid. For akutte hendelser er det å gjenopprette funksjoner en vesentlig del av samfunnssikkerhetsarbeidet, mens det i langvarige kriser, som i covid-19-pandemien, stilles større krav til fleksibilitet slik at funksjoner kan bli skalert opp og ned i takt med krisens utvikling. Det er et politisk ansvar å ta stilling til hva samfunnet skal være forberedt på å håndtere, og hvilke virkemidler og ressurser som må være på plass.[^179]
 
-Evaluering av pandemihåndteringen
+Krisehåndtering forutsetter god beredskap og at ansvaret og fullmakter til de aktørene som står for håndteringen er avklart på forhånd. Det må være klart hvem som har ansvaret for hva, og hvordan de ulike aktørene skal jobbe både hver for seg og sammen, for å håndtere krisen og begrense skade. Med en *krise* mener vi her en brå hendelse, eller en situasjon som gradvis bygger seg opp, og som kan true liv, helse, miljø eller andre viktige samfunnsverdier. For en beskrivelse av andre sentrale begreper, se boks 7.1.
 
-103
+Sentrale begreper
 
-Kapittel 7
+- *Samfunnssikkerhet* handler om samfunnets evne til å verne seg mot og håndtere hendelser som truer grunnleggende verdier og funksjoner og setter liv og helse i fare. Slike hendelser kan være utløst av naturen, være et utslag av tekniske eller menneskelige feil eller bevisste handlinger.
 
-Kapittel 7
+- *Beredskap* er planlagte og forberedte tiltak som gjør oss i stand til å håndtere uønskede hendelser slik at konsekvensene blir minst mulig.
 
-Nasjonalt system for beredskap og krisehåndtering
-7.1
+- *Forebygging* er å etablere tiltak i forkant av hendelser for å redusere sannsynligheten for eller konsekvensene av en uønsket hendelse.
 
-Innledning
+- *Krise* defineres som en uønsket situasjon med høy grad av usikkerhet og potensielt uakseptable konsekvenser for de enkeltpersoner, organisasjoner eller stater som rammes.
 
-I dette kapitlet beskriver utvalget dagens overordnede system for beredskap og krisehåndtering
-med vekt på håndtering av smittsomme sykdommer og pandemier. Det inkluderer en omtale av
-ansvarsforholdet mellom sentrale aktører og
-strukturene som skal ivareta god koordinering og
-samvirke på tvers av sektorer og forvaltningsnivåer i håndteringen av en større krise. Beskrivelsen er et viktig bakteppe for Koronautvalgets
-vurdering av norske myndigheters samlede
-håndtering av covid-19-pandemien, inkludert
-håndteringen av omikronvarianten.
-Beredskap handler om å være forberedt på å
-kunne håndtere uventede hendelser av ulik stør-
+- *Grunnleggende nasjonale funksjoner* er tjenester, produksjon og andre former for virksomhet som er av en slik betydning at et helt eller delvis bortfall av funksjonen vil få konsekvenser for statens evne til å ivareta nasjonale sikkerhetsinteresser.
 
-–
+- *Kritiske samfunnsfunksjoner* er de funksjoner som er nødvendige for å ivareta befolkningens og samfunnets grunnleggende behov og befolkningens trygghetsfølelse. Grunnleggende behov er definert som «mat, vann, varme, trygghet og lignende». De anlegg og systemer som er nødvendige for å opprettholde samfunnets kritiske funksjoner omtales som kritisk infrastruktur.
 
-–
+- *Risiko* er et uttrykk for kombinasjonen av sannsynligheten for og konsekvensene av en uønsket hendelse.
 
-–
-–
+- *Sårbarhet* er uttrykk for et systems manglende evne til å motstå en uønsket handling eller uønsket hendelse, samt manglende evne til å gjenoppta sin funksjon.
 
-–
+Meld. St. 5 (2020–2021) *Samfunnssikkerhet i en usikker verden*.
 
-relse, både avgrensede akutte hendelser og større
-kriser som trekker ut i tid. For akutte hendelser er
-det å gjenopprette funksjoner en vesentlig del av
-samfunnssikkerhetsarbeidet, mens det i langvarige kriser, som i covid-19-pandemien, stilles
-større krav til fleksibilitet slik at funksjoner kan bli
-skalert opp og ned i takt med krisens utvikling.
-Det er et politisk ansvar å ta stilling til hva samfunnet skal være forberedt på å håndtere, og
-hvilke virkemidler og ressurser som må være på
-plass.1
-Krisehåndtering forutsetter god beredskap og
-at ansvaret og fullmakter til de aktørene som står
-1
+\[Boks slutt\]
 
-Meld. St. 5 (2020–2021) Samfunnssikkerhet i en usikker verden.
+## Sentral krisehåndtering – ansvar og organisering
 
-Boks 7.1 Sentrale begreper
-Samfunnssikkerhet handler om samfunnets
-delvis bortfall av funksjonen vil få konsekvenevne til å verne seg mot og håndtere hendelser for statens evne til å ivareta nasjonale
-ser som truer grunnleggende verdier og
-sikkerhetsinteresser.
-funksjoner og setter liv og helse i fare. Slike
-– Kritiske samfunnsfunksjoner er de funksjoner
-hendelser kan være utløst av naturen, være et
-som er nødvendige for å ivareta befolkninutslag av tekniske eller menneskelige feil
-gens og samfunnets grunnleggende behov
-eller bevisste handlinger.
-og befolkningens trygghetsfølelse. GrunnBeredskap er planlagte og forberedte tiltak
-leggende behov er definert som «mat, vann,
-som gjør oss i stand til å håndtere uønskede
-varme, trygghet og lignende». De anlegg og
-hendelser slik at konsekvensene blir minst
-systemer som er nødvendige for å opprettmulig.
-holde samfunnets kritiske funksjoner omtaForebygging er å etablere tiltak i forkant av
-les som kritisk infrastruktur.
-hendelser for å redusere sannsynligheten for
-– Risiko er et uttrykk for kombinasjonen av
-eller konsekvensene av en uønsket hendelse.
-sannsynligheten for og konsekvensene av en
-Krise defineres som en uønsket situasjon
-uønsket hendelse.
-med høy grad av usikkerhet og potensielt
-– Sårbarhet er uttrykk for et systems manguakseptable konsekvenser for de enkeltperlende evne til å motstå en uønsket handling
-soner, organisasjoner eller stater som rameller uønsket hendelse, samt manglende
-mes.
-evne til å gjenoppta sin funksjon.
-Grunnleggende nasjonale funksjoner er tjenesKilde: Meld. St. 5 (2020–2021) Samfunnssikkerhet i en
-ter, produksjon og andre former for virksomusikker verden.
-het som er av en slik betydning at et helt eller
+Den nasjonale organiseringen og ansvarsdelingen i arbeidet med samfunnssikkerhet og krisehåndtering er beskrevet i «Instruks for departementenes arbeid med samfunnssikkerhet» (samfunnssikkerhetsinstruksen).[^180] Instruksens formål er å styrke samfunnets evne til å forebygge kriser og til å håndtere alvorlige hendelser gjennom et helhetlig og koordinert arbeid med samfunnssikkerhet. Figur 7.2 illustrerer hvordan sentral krisehåndtering er organisert ved sivile nasjonale kriser.[^181]
+
+Organiseringen av sentral krisehåndtering ved sivile nasjonale kriser.
+
+Fire grunnleggende prinsipper for beredskap og krisehåndtering
+
+I Norge er det fire grunnleggende prinsipper for beredskap og krisehåndtering. Disse er ansvarsprinsippet, likhetsprinsippet, nærhetsprinsippet og samvirkeprinsippet. Prinsippene er omforent i forvaltningen og utgjør et viktig felles premiss for arbeidet og samhandlingen mellom beredskapsmyndighetene.[^182]
+
+*Ansvarsprinsippet* innebærer at den myndighet som normalt har ansvar for et område, også har ansvaret for forebygging, beredskap, og iverksetting av nødvendige tiltak ved kriser på dette området. En krise vil kunne gå på tvers av sektorer og involvere flere forvaltningsnivåer, og ansvarsprinsippet innebærer et ansvar for samordning overfor aktører med tilstøtende ansvarsområder.
+
+*Likhetsprinsippet* betyr at den organisasjonen man opererer med under kriser skal være mest mulig lik den organisasjonen man har til daglig. Ved større, komplekse kriser der normal organisering ikke er tilstrekkelig, står prinsippet imidlertid ikke i veien for å etablere en egen, forsterket kriseorganisasjon.
+
+*Nærhetsprinsippet* innebærer at kriser skal håndteres på lavest mulig organisatorisk og geografisk nivå. For visse typer av større og komplekse kriser kan det likevel tilsi krisehåndtering som i større grad involverer sentralt nivå.
+
+*Samvirkeprinsippet* ble i 2012 lagt til som et fjerde prinsipp for krisehåndtering for å styrke samordning og samarbeid mellom sektorer og andre beredskapsaktører. Prinsippet betyr at myndigheter, virksomheter, eller etater har et selvstendig ansvar for å sikre et best mulig samvirke med andre relevante aktører og virksomheter i arbeidet med forebygging, beredskap og krisehåndtering.
+
+### Regjeringen
+
+Regjeringen er det øverste utøvende og politiske ansvarsnivået i håndteringen av nasjonale kriser. Statsministeren leder og samordner regjeringens arbeid både i ordinære tider og under kriser. Statsministerens kontor (SMK) bistår statsministeren i dette arbeidet, og SMKs mest sentrale oppgaver er å forberede, gjennomføre og følge opp beslutninger i regjeringskonferanser og i statsråd.
+
+Regjeringskonferanser er regjeringens sentrale arena for å drøfte saker. Det blir ikke truffet formelle beslutninger i disse konferansene, men konklusjonene er politisk bindende for regjeringens medlemmer.[^183] Den formelle beslutningsmyndigheten ligger hos hvert enkelt fagdepartement, eller hos Kongen i statsråd. Å kunne avholde statsråd er derfor en viktig forutsetning for at regjeringen skal kunne opprettholde sin konstitusjonelle funksjon gjennom en krise. Beslutninger som skal opp i statsråd, blir først behandlet i regjeringskonferanse dagen før, såkalt forberedende statsråd, slik at behandling i statsråd som oftest er en formalitet.[^184]
+
+*Regjeringens sikkerhetsutvalg* (RSU) ledes av statsministeren og er regjeringens øverste organ for å diskutere og ta beslutninger i viktige sikkerhets- og beredskapsspørsmål. Sikkerhetsutvalgets faste medlemmer er statsministeren, finansministeren og statsrådene fra Justis- og beredskapsdepartementet, Forsvarsdepartementet og Utenriksdepartementet. Andre fagstatsråder som blir berørt, kan også bli invitert inn. Dersom statsministeren ønsker det, kan en sak bli behandlet i RSU i stedet for å bli behandlet i plenum i regjeringen. I noen tilfeller kan det følge av Grunnloven, lovgivning, eller beslutningsreglementet at beslutninger skal treffes av Kongen i statsråd. Også andre relevante departementer og sektormyndigheter, statsforvaltere, kommuner, eller private aktører kan bli innkalt til RSU.
+
+### Kriserådet
+
+Kriserådet er det øverste administrative koordineringsorganet på departementsnivå, og skal bidra til god og koordinert saksfremstilling for regjeringen og sikre at aktuelle beredskapssaker får nødvendig oppmerksomhet og blir håndtert. Kriserådets funksjon er beskrevet i samfunnssikkerhetsinstruksens kap. VIII.[^185] Rådet har opprinnelig hatt seks faste medlemmer: regjeringsråden ved Statsministerens kontor og departementsrådene i henholdsvis Justis- og beredskapsdepartementet, Utenriksdepartementet, Forsvarsdepartementet, Helse- og omsorgsdepartementet og Kommunal- og distriktsdepartementet. Det har også vært slik at rådet kan utvides ved behov med alle de øvrige departementene, og representanter for underliggende virksomheter og særskilte kompetansemiljøer. Ifølge Justis- og beredskapsdepartementet er det etter covid-19-pandemien bestemt at alle departementsrådene skal møte fast i Kriserådet.[^186]
+
+Kriserådet har fullmakt fra regjeringen til å beslutte hvilket departement som skal være lederdepartement i en bestemt krise. Ved tvil, eller eventuell uenighet i Kriserådet beslutter statsministeren i samråd med berørte statsråder hvem som skal være lederdepartement.
+
+Alle departementene kan ta initiativ til å innkalle Kriserådet. Det er lederdepartementet som leder rådets møter, men dersom et lederdepartement ikke er besluttet, ledes rådet av Justis- og beredskapsdepartementet. Kriserådet benyttes også utover håndtering av kriser og større hendelser ved at det er etablert en ordning med administrative møter. Hensikten med møtene er å drøfte og forankre overordnede beredskaps- og krisehåndteringsutfordringer og gjennomgå relevante hendelser og øvelser. Selve behandlingen av saker skjer imidlertid på ordinær måte i styringslinjen i det ansvarlige departementet.
+
+### Krisestøtteenheten og det sivile situasjonssenteret
+
+*Krisestøtteenheten* (KSE) er administrativt organisert som en seksjon i Justis- og beredskapsdepartementet, og er fast sekretariat for Kriserådet.
+
+KSE understøtter Justis- og beredskapsdepartementets samordningsrolle på samfunnssikkerhets- og beredskapsområdet. Dette innebærer blant annet bidrag til øvingsvirksomhet samt råd og veiledning om krisehåndtering til departementene. Etter anmodning kan KSE bistå andre departementer med personellstøtte i deres krisehåndtering.
+
+*Det sivile situasjonssenteret* er organisert som en del av KSE, og er fast kontaktpunkt for informasjon til og fra Justis- og beredskapsdepartementet ved ekstraordinære hendelser og kriser. Gjennom overgang til døgnbemannet tilstedeværelse i Sivilt situasjonssenter i 2014, ble kapasiteten til rettidig varsling og analyse av situasjonsbildet, som grunnlag for nødvendige beslutninger i kriser, vesentlig styrket.
+
+### Lederdepartement
+
+Justis- og beredskapsdepartementet (JD) skal ved sivile nasjonale kriser være fast lederdepartement med mindre annet blir bestemt. Når det gjelder kriser og hendelser som berører én sektor i vesentlig større grad enn andre, kan det være aktuelt å legge lederdepartementsansvaret til det departement som er mest berørt.
+
+Lederdepartementet har ansvaret for å koordinere og samordne håndteringen av en krise på departementsnivå, og de konkrete oppgavene og funksjonene det er tiltenkt i krisehåndteringen er beskrevet i samfunnssikkerhetsinstruksen kap. VIII.[^187] Utpeking av lederdepartement medfører ikke endringer i konstitusjonelle ansvarsforhold, og alle departementer beholder ansvar og beslutningsmyndighet på sine saksområder.
+
+Nærmere om Justis- og beredskapsdepartementets samordningsansvar
+
+Justis- og beredskapsdepartementet har et nasjonalt samordningsansvar for forebygging og beredskap på samfunnssikkerhetsområdet, og et sektoransvar for hovedtyngden av de sivile rednings- og beredskapsressursene i Norge. I de fleste sektorovergripende nasjonale kriser vil JD derfor alltid ha en sentral rolle.
+
+Departementets samordningsansvar ble tydeliggjort og forsterket i 2000, og i etterkant av terrorhandlingene 22. juli 2011.[^188] I samordningsansvaret ligger blant annet oppgaven med å utarbeide overordnede retningslinjer, tilrettelegge rammebetingelser og treffe prinsippavgjørelser.[^189] Ansvaret omfatter også å utvikle og vedlikeholde oversikt over hvilke funksjoner som i et tverrsektorielt perspektiv er kritiske for samfunnssikkerheten.[^190]
+
+Det er utarbeidet en nasjonal oversikt over kritiske samfunnsfunksjoner. Dette er funksjoner som ved bortfall kan true samfunnets og befolkningens grunnleggende behov. En funksjon er ansett som samfunnskritisk dersom et avbrudd på sju døgn eller mindre truer grunnleggende behov hos befolkningen.
+
+Det er de utpekte hovedansvarlige departementene for hver funksjon som har et særlig ansvar for nødvendig koordinering og samordning innenfor de enkelte kritiske samfunnsfunksjonene.[^191] Justis- og beredskapsdepartementet er hovedansvarlig for fire kritiske samfunnsfunksjoner; styring og kriseledelse, lov og orden, IKT-sikkerhet og redningstjeneste. De enkelte funksjonene skal løpende ivareta drift og kontinuitet, og vurdere evnen til opprettholdelse i lys av en pågående krise.
+
+Ifølge Justis- og beredskapsdepartementet skal rammeverket med de fjorten kritiske samfunnsfunksjonene gjennomgås, og erfaringer fra håndteringen av koronapandemien vil utgjøre et viktig grunnlag i det videre arbeidet med å videreutvikle rammeverket.[^192]
+
+### Departementene
+
+Departementene har etter ansvarsprinsippet et selvstendig ansvar for arbeid med forebygging, beredskap og krisehåndtering innenfor sin sektor. De fleste utfordringer innenfor samfunnssikkerhet går imidlertid på tvers av sektorer og forvaltningsnivåer, og det er fremhevet i samfunnssikkerhetsinstruksen at statsrådens konstitusjonelle ansvar og ansvarsprinsippet ikke står i veien for hensiktsmessig samordning.[^193] I siste instans er det regjeringens kollektive ansvar å finne de løsningene som samlet sett er best når utfordringer går på tvers av hver enkelt statsråds ansvarsområde.[^194]
+
+Departementene skal ved kriser innhente situasjonsrapporter fra egne operative virksomheter, typisk underliggende virksomheter, og identifisere og treffe beslutninger om nødvendige tiltak innenfor eget ansvarsområde for å håndtere den aktuelle situasjonen. Videre skal det enkelte fagdepartement utarbeide beslutningsgrunnlag og legge til rette for overordnede politiske avklaringer der det er nødvendig. Arbeidet skal skje koordinert med andre departementer og spesielt med det departementet som er utpekt som lederdepartement. Departementet må også håndtere kommunikasjon med medier og befolkningen på sitt saksfelt.
+
+Vi beskriver nærmere Helse- og omsorgsdepartementets ansvar innenfor helseberedskap og krisehåndtering i avsnitt 7.3.1.
+
+### Direktoratet for samfunnssikkerhet og beredskap
+
+Direktoratet for samfunnssikkerhet og beredskap (DSB) er underlagt Justis- og beredskapsdepartementet. På vegne av departementet er DSB fag-, forvaltnings- og tilsynsorgan på sentrale deler av beredskaps- og samfunnssikkerhetsområdet. DSB har som en del av sitt oppdrag å støtte Justis- og beredskapsdepartementet i deres samordningsrolle. Koordineringen som DSB gjør, skal legge grunnlaget for et helhetlig forebyggende arbeid, og gode beredskapsforberedelser innenfor offentlig forvaltning og samfunnskritisk virksomhet. Koordineringsrollen skal DSB ivareta gjennom dialog og avklaringer med berørte parter, hvor det tas utgangspunkt i ansvaret de andre departementene og sektorene har. DSB skal blant annet ha oversikt over sårbarhets- og beredskapsutviklingen i samfunnet. DSB skal også ta initiativ til å forebygge hendelser, initiere, planlegge og gjennomføre nasjonale beredskapsøvelser på sivil side. I tillegg skal direktoratet hvert år utarbeide en nasjonal sårbarhets- og beredskapsrapport som grunnlag for videre oppfølging av sikkerhets- og beredskapsarbeidet på tvers av sektorer og etatsgrenser.
+
+DSB tar hånd om embetsstyringen av statsforvalterne på samfunnssikkerhetsområdet, og gir føringer for statsforvalternes veiledning og tilsyn med kommunal beredskapsplikt. Videre arbeider DSB for et helhetlig og systematisk samfunnssikkerhetsarbeid i kommunene.
+
+### Statsforvalteren
+
+Statsforvalteren er administrativt underlagt Kommunal- og distriktsdepartementet, men utfører oppgaver for en rekke departementer og direktorater. Departementene har direkte faglig instruksjonsmyndighet innenfor sine saksområder overfor statsforvalteren.
+
+Statsforvalterens samordningsrolle innenfor samfunnssikkerhet og ansvar ved håndtering av uønskede hendelser er beskrevet i «Instruks for statsforvalteren og Sysselmesteren på Svalbard sitt arbeid med samfunnssikkerhet, beredskap og krisehåndtering».[^195] Statsforvalteren skal i kriser samordne den sivile krisehåndteringen og mellom sivile og militære myndigheter på regionalt nivå. Det betyr blant annet å etablere gjensidig informasjonsutveksling, skaffe oversikt over situasjonen i fylket, bistå kommuner ved behov, og være kontaktpunkt mellom lokalt og sentralt nivå. Statsforvalterens samordningsansvar endrer ikke på normale ansvarsforhold. Statsforvalteren har også en viktig funksjon i å samordne tiltak og krav fra sentrale myndigheter overfor kommunene, også i kriser.
+
+Fylkesberedskapsrådet (FBR) er et viktig forum for regional samordning, og statsforvalteren skal kalle inn til møter ved større, uønskede hendelser. Rådet består av representanter for regionale aktører med ansvar for kritisk infrastruktur og kritiske samfunnsfunksjoner, ledere fra politiet og øvrige nødetater, Forsvaret, Sivilforsvaret, frivillige organisasjoner, fylkeskommunen og statlige etater med vesentlige beredskapsoppgaver i fylket. Rådet skal i en krisesituasjon bistå statsforvalteren i samordningen av krisehåndteringen.
+
+## Nasjonal pandemiberedskap
+
+I denne delen gir utvalget en nærmere beskrivelse av ansvarsforhold og organiseringen av den nasjonale helseberedskapen med vekt på smittsomme sykdommer og pandemier. Tre sentrale oppgaver for helsesektoren i den nasjonale håndteringen av en pandemi er å forebygge smitte, behandle syke og skaffe vaksiner.
+
+### Helse- og omsorgsdepartementet
+
+Helse- og omsorgsdepartementet (HOD) har det nasjonale ansvaret for helseberedskapen, og fastsetter rammebetingelser og forutsetninger for planlegging og iverksetting av arbeidet med beredskap, samfunnssikkerhet og krisehåndtering i underliggende virksomheter og i sektoren. Samfunnssikkerhetsinstruksen inneholder krav til departementets arbeid og oppfølging i egen sektor, og til samordning på tvers av sektorer.[^196]
+
+Nasjonale strategier og planer
+
+Det nasjonale planverket for helseberedskap er bygget opp i et planhierarki, se figur 7.3.
+
+Planhierarki for helseberedskapen.
+
+Nasjonal helseberedskapsplan, sist oppdatert i 2018, gir de overordnede føringene for helse- og omsorgssektorens forebygging og håndtering av alle typer kriser og katastrofer. Planen beskriver lov- og plangrunnlag, aktørene og deres roller, ansvar og oppgaver, samt ressurser i forebygging og beredskap. Regjeringen har startet arbeidet med en melding til Stortinget om helseberedskap som etter planen skal fremmes i 2023. Meldingen vil gi retning for hvordan Norge skal være forberedt på å håndtere kriser som kan ramme helse- og omsorgssektoren.
+
+Nasjonal beredskapsplan mot utbrudd av alvorlige smittsomme sykdommer, fastsatt høsten 2019, er underordnet Nasjonal helseberedskapsplan. Beredskapsplanen mot utbrudd av alvorlige smittsomme sykdommer retter seg først og fremst mot ledere, leger og annet helsepersonell i primær- og spesialisthelsetjenesten, men er også relevant for andre sektorer som blir involvert.
+
+Det er i tillegg utarbeidet en nasjonal plan mot pandemisk influensa fra 2014. Det finnes også andre sykdomsspesifikke planer. Planene er relevante for alle nivåer i helse- og omsorgstjenesten. Det er også utgitt ulike veiledere, rapporter og nasjonale retningslinjer. Blant annet lanserte Helse- og omsorgsdepartementet i 2019 en handlingsplan for bedre smittevern som gjelder for perioden 2019-2023.
+
+Nasjonale risikoanalyser og krisescenarioer knyttet til pandemier
+
+Planscenarioer benyttes for å konkretisere hva myndighetene og sentrale aktører må være forberedt på å kunne håndtere når det oppstår en krise, eller uønsket hendelse. DSB har ansvaret for å utarbeide risikoanalyser av alvorlige hendelser som kan ramme Norge, kalt Analyse av krisescenarioer (AKS). Arbeidet med AKS går på tvers av sektorer, og involverer et bredt spekter av offentlige og private aktører og fageksperter for å sikre analysens kvalitet og troverdighet. Risikoanalysene inngår som en del av det nasjonale kunnskaps- og planleggingsgrunnlaget for arbeidet med samfunnssikkerheten, og er et viktig innspill til risikoanalyser og beredskapsplanlegging hos departementene, underliggende etater, statsforvaltere og kommuner.
+
+I DSBs rapport «Analyser av krisescenarier 2019» er det beskrevet til sammen 25 scenarioer fordelt på 16 risikoområder. I rapporten var pandemi vurdert som det scenarioet med høyest risiko, det vil si høy sannsynlighet for at hendelsen kan inntreffe, og store konsekvenser for samfunnet. Legemiddelmangel ble vurdert som hendelsen med nest høyest risiko. Pandemi er et sykdomsutbrudd som rammer svært mange mennesker og sprer seg over store deler av verden. Begrepet brukes hovedsakelig om infeksjonssykdommer. I beredskapssammenheng er det smittsomme sykdommer med rask spredning som er mest aktuelt.
+
+DSBs pandemiscenario fra 2019 tok utgangspunkt i at 1,2 millioner mennesker ble syke. Av disse ble over 36 000 mennesker innlagt på sykehus, og av disse igjen ville over 9 000 trenge intensivbehandling i 12 dager. Det var ikke angitt hvor mange som ville trenge intensivbehandling samtidig på toppunktet av pandemien. DSB anslo at med dette scenarioet ville det dø mellom 6 000 og 8 000 mennesker. Når det gjaldt de økonomiske konsekvensene estimerte DSB kostnadene til å bli mellom 5 og 50 milliarder kroner. Anslaget omfattet kostnader ved behandling av syke og produksjonstap på grunn av dødsfall og sykefravær.
+
+DSBs krisescenarioer, inkludert pandemiscenarioet, er et viktig innspill til Helsedirektoratets arbeid med risiko- og sårbarhetsanalyse (ROS-analyse) for nasjonal beredskap i helse- og omsorgssektoren. Helsedirektoratet utarbeider ROS-analysen på oppdrag fra Helse- og omsorgsdepartementet, og skal samarbeide med den sentrale helse- og omsorgsforvaltningen, Norsk helsenett, og med representanter for de regionale helseforetakene, statsforvalterne, kommuner og DSB. Hensikten med ROS-analysen er å gi Helse- og omsorgsdepartementet en overordnet oversikt over risiko og sårbarhet slik at departementet kan vurdere strategi og virkemiddelbruk for styring av samfunnssikkerhet og beredskap i sektoren. Sist oppdaterte ROS-analyse for helsesektoren er fra 2019.[^197]
+
+### Helsedirektoratet
+
+Helsedirektoratet (Hdir) er underlagt HOD, og har ansvar for den nasjonale helseberedskapen. Hdir skal gi råd, iverksette vedtatt politikk og forvalte regelverk, i tillegg til å gi retningslinjer og veiledning til kommunene via statsforvalteren. Direktoratet har også ansvar for tilrettelegging av nasjonale øvelser og kompetansetiltak.[^198] Direktoratet plikter etter smittevernloven å innhente kunnskap fra Folkehelseinstituttet (FHI), og legge denne kunnskapen til grunn for vurderingene sine. Helsedirektoratet har myndighet til å foreta hastevedtak om smitteverntiltak for hele, eller deler av, landet ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom.
+
+HOD kan delegere til Helsedirektoratet å nasjonalt koordinere helse- og omsorgssektorens innsats, og å iverksette nødvendige tiltak når en krisesituasjon truer, eller har inntruffet.
+
+Ifølge «Nasjonal beredskapsplan mot pandemisk influensa» skal Hdir utvikle en strategi og sørge for at det er et virksomt system for forsyning av alle typer legemidler, medisinsk forbruksmateriell og beskyttelsesutstyr. Direktoratet skal også koordinere forsyningssikkerheten for legemidler i samarbeid med Statens legemiddelverk, Folkehelseinstituttet, de regionale helseforetakene, kommunene (via statsforvalteren) og Nasjonal legemiddelberedskapskomite. Når det gjelder vaksiner, har Helsedirektoratet ansvaret for å gjøre tilgjengelig utstyr som sprøyter og sprøytespisser.[^199]
+
+Helsedirektoratets direktør leder *Beredskapsutvalget mot biologiske hendelser* (BUB) og *Pandemi- og epidemikomitéen*. BUB er et tverrsektorielt kriseorgan etablert for å koordinere forberedelser og håndtering av naturlige smitteutbrudd og tilsiktede handlinger med biologisk materiale. Beredskapsutvalget er administrativt underlagt Helse- og omsorgsdepartementet, med representanter fra Helsedirektoratet, Folkehelseinstituttet, CBRNE-senteret ved Oslo Universitetssykehus HF, Mattilsynet, Statens legemiddelverk, Miljødirektoratet, Politidirektoratet, Direktoratet for samfunnssikkerhet og beredskap, Forsvarsstaben og Utenriksdepartementet.
+
+Under en hendelse skal BUB blant annet bidra med kunnskap om den aktuelle situasjonen, vurdere hvordan situasjonen vil utvikle seg, og være en arena hvor de deltakende virksomhetene kan koordinere sin innsats og bistå med informasjon og råd til ansvarlige myndigheter på alle nivåer. Samarbeidet innebærer ingen endring i ansvarsforhold, men en forventning til aktørene om å koordinere informasjonsinnhenting og gjennomføring av tiltak så langt det passer, jf. ansvarsprinsippet og samvirkeprinsippet.
+
+*Pandemi- og epidemikomitéen* er et rådgivende organ for Hdir og FHI i håndtering av pandemier. Komiteen, som består av personer med kompetanse på smittevernberedskap, skal gi råd til håndteringen av en pandemi og sikre at aktørene samarbeider og utveksler informasjon. FHI er sekretariat for Pandemi- og epidemikomitéen.
+
+### Folkehelseinstituttet
+
+Folkehelseinstituttet (FHI), underlagt HOD, er statens smitteverninstitutt og en nasjonal kunnskapsleverandør for hele helsesektoren. FHIs ansvar og oppgaver innenfor helseberedskap og i pandemier følger blant annet av smittevernloven og er nærmere beskrevet i Nasjonal helseberedskapsplan. Instituttet skal overvåke den nasjonale epidemiologiske situasjonen, delta i overvåkingen av den internasjonale epidemiologiske situasjonen, utføre helseanalyser og drive forskning på smittevernområdet. Overvåking av smittsomme sykdommer utføres gjennom flere ulike meldingssystemer, varslingssystemer, registre, laboratorieanalyser, blant annet gjennom Meldingssystemet for smittsomme sykdommer (MSIS) og utbruddsvarslingssystemet Vesuv. FHI er nasjonalt kontaktpunkt for det internasjonale helsereglementet (IHR) som er vedtatt av medlemslandene i Verdens helseorganisasjon (WHO) og EUs Early Warning Response System (EWRS). Folkehelseinstituttet har også ansvar for nasjonal vaksineberedskap og nasjonalt vaksinasjonsregister (SYSVAK).
+
+FHI koordinerer beredskap for medisinske mikrobiologiske laboratorier. Nasjonalt beredskapslaboratorium ved Folkehelseinstituttet har beredskap for å etablere diagnostikk for nye agenser (sykdomsfremkallende stoffer). Det er FHIs referanselaboratorier som bistår sykehuslaboratoriene med å ta i bruk nye diagnostiske tester.
+
+FHI har også en nasjonal veileder- og rådgivningsrolle på smittevernområdet. Det innebærer å gi faglig bistand, råd, veiledning og informasjon til kommunale, fylkeskommunale og statlige institusjoner, helsepersonell om smittsomme sykdommer, smittevern og valg av smitteverntiltak. Blant annet skal FHI gi dette i forbindelse med samordning, oppklaring og kontroll av utbrudd av smittsom sykdom i og utenfor helseinstitusjoner. FHI skal også tilby assistanse ved oppklaring av utbrudd og har en feltepidemiologisk gruppe som kan reise ut og bistå kommuner og sykehus når de skal etterforske smitteutbrudd.
+
+FHI skal bistå Helsedirektoratet med faglige råd ved beredskap og kriser.
+
+### De regionale helseforetakene og helseforetakene
+
+Spesialisthelsetjenesten er organisert i fire statlig eide regionale helseforetak (RHF) som skal sørge for at spesialisthelsetjenester tilbys befolkningen i sin region. RHFene eier igjen helseforetak (HF) som har et ansvar for å tilby spesialisthelsetjenester slik som sykehustjenester, akuttmedisinsk beredskap, og medisinsk nødmeldetjeneste.
+
+RHFene og HFene har etter helseberedskapsloven og spesialisthelsetjenesteloven plikt til å utarbeide beredskapsplaner for de tjenestene de har ansvar for. HFene skal ha systemer og tiltak for å sikre kritiske innsatsfaktorer som personell, legemidler og medisinsk utstyr, IKT/EKOM-tjenester, mat, vann- og strømforsyning. Planene skal omfatte tjenester som etter lov, eller avtale, blir utført av private aktører som en del av tjenestene.[^200]
+
+Nasjonalt senter for legemiddelmangel og legemiddelberedskap i spesialisthelsetjenester (Mangelsenteret) er en nasjonal funksjon for legemidler i spesialisthelsetjenesten etablert under Oslo Universitetssykehus HF. Senterets formål er å styrke nasjonal overvåking og tiltak knyttet til mangelsituasjoner samt styrke utviklingen av den nasjonale legemiddelberedskapen for spesialisthelsetjenesten.
+
+Det er bygget opp et nasjonalt beredskapslager for smittevernutstyr der de regionale helseforetakene eier varebeholdningen, står for innkjøp, rullering og utvikling av lageret. Lageret er videreført i 2023 og skal ha et volum tilsvarende seks måneders pandemibruk.[^201] Den langsiktige løsningen for forsyning av smittevernutstyr vil basere seg på det nasjonale beredskapslageret for smittevernutstyr, forskriftsfestede krav om beredskapslagre i sykehus, kommuner, beredskapsavtaler med leverandører og mulige avtaler om nasjonal produksjon.[^202]
+
+CBRNE-senteret[^203] er lagt til Helse Sør-Øst RHF og etablert ved Oslo universitetssykehus HF. Det er et nasjonalt senter og en nasjonal behandlingstjeneste. I tillegg til forskning og kompetanseheving innenfor CBRNE-medisin, driver senteret en døgnbemannet rådgivningstjeneste for helsetjenesten. Senteret koordinerer også nasjonalt medisinsk utrykningsteam for høyrisikosmittepasienter, og har en nasjonal rådgiverrolle om CBRNE-beredskap til myndighetene og samarbeidende etater som politi og nødetater.
+
+### Kommunene
+
+Kommunene har et grunnleggende ansvar for å ivareta samfunnssikkerhet og beredskap, og er det lokale fundamentet i den nasjonale beredskapen. Kommunene har derfor en viktig rolle i alt beredskaps- og krisehåndteringsarbeid, inkludert å samordne innsatsen på lokalt nivå. Kommunenes ansvar for samfunnssikkerhet og beredskap er regulert i sivilbeskyttelsesloven og i forskrift om kommunal beredskapsplikt.
+
+Smittevernloven legger føringer for kommunens og kommunelegens ansvar for håndtering av smittsomme sykdommer og pandemier.[^204] Kommunene har i henhold til smittevernloven ansvaret for å håndtere lokale smitteutbrudd og iverksette nødvendige smittereduserende tiltak. Kommunene har også ansvaret for forebyggende tiltak, undersøkelsesmuligheter, behandling og pleie utenfor institusjon og pleie i sykehjem, eller annen kommunal helseinstitusjon for dem som oppholder seg i kommunen. Kommunene skal ved behov få faglige bistand og råd fra FHI.
+
+Alle kommuner har en kommunelege som skal ha løpende oversikt over de infeksjonsepidemiologiske forholdene i kommunen, og bistå kommuneledelsen, helsepersonell og andre i kommunen som har oppgaver i arbeidet med vern mot smittsomme sykdommer.[^205] I tillegg skal kommunelegen gi informasjon, opplysninger og råd til befolkningen. Kommunelegen kan gjennomføre hastevedtak etter smittevernloven.
+
+I situasjoner der det blir besluttet nasjonal håndtering og koordinering av hendelsen, betyr det ikke at kommunens ansvar for å håndtere smitteutbruddet lokalt etter smittevernloven endres. Kommunen blir i stedet en del av en nasjonal innsats.[^206]
+
+Ved store regionale utbrudd, eller nasjonale utbrudd som en pandemi, er det helt sentralt med koordinering mellom kommunene og staten. Det er statsforvalteren som er bindeleddet mellom kommunene og staten i kraft av å være statens representant i fylket. Statsforvalteren skal veilede kommunene om beredskap og ha særlig oppmerksomhet på allmennfarlig smittsom sykdom i fylket. Dersom kommunene i et fylke har utfordringer som staten må håndtere, er det statsforvalteren som har ansvaret for å formidle informasjonen fra kommunene til statlig nivå.

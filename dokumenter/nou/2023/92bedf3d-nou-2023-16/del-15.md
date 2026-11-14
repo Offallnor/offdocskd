@@ -1,960 +1,326 @@
-# NOU 2023: 16, del 15 av 19 (side 193–202)
+# NOU 2023: 16, del 15 av 21
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/92bedf3d-nou-2023-16.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-16/id2982388/
 - Original-PDF: https://www.regjeringen.no/contentassets/b1dace9390054c85a5a87c7bbf1bc384/no/pdfs/nou202320230016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 7 tabeller, 101 figurer, 743 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 193]
+# Spesialist- og kommunehelsetjenestens kapasitet og omstillingsevne i møte med en større krise
 
-191
+Pressekonferanse med kommuneoverlege Sonni Schumacher og ordfører Marianne Sivertsen Næss i Hammerfest kommune.
 
-NOU 2023: 16
+Foto: Eilert Sundt, Hammerfest kommune
 
-Evaluering av pandemihåndteringen
+Oppsummering
 
-intensivsykepleiere for å styrke kapasiteten i sykehusene ved ordinær drift, og for å styrke beredskapen.8
-Under pandemien var sykehusene nødt til å
-omdisponere, lære opp, og rekruttere helsepersonell til å behandle covid-19-pasienter. Flere helseforetak måtte utsette planlagte operasjoner og
-annen elektiv behandling for å frigjøre kapasitet
-og ressurser til akutte covid-19-syke. I kommunene krevde pandemihåndteringen omorganisering av virksomhet og personell for å ivareta blant
-annet smittesporing og testing. Mange kommuner
-var også nødt til å leie inn og ansette personell til
-koronarelaterte oppgaver. De endrede rammebetingelsene under pandemien gikk utover tjenestetilbudet til enkeltgrupper i kommunene, for
-eksempel eldre og personer med nedsatt funksjonsevne.9
-Figur 13.2 viser utviklingen i aktivitet i helseog omsorgstjenesten i perioden januar 2020 til
-september 2022. Nedtrekket i aktiviteten var
-størst i mars 2020, mens like store og omfattende
-nedtrekk som i starten ble unngått utover i pandemien.
+- Det er behov for å styrke helse- og omsorgstjenestens fleksibilitet og omstillingsevne. Tilgang på nok helsepersonell med riktig kompetanse, og særlig sykepleiere, er en strukturell utfordring som har påvirket beredskapskapasiteten i helse- og omsorgstjenesten under pandemien. Koronautvalgets vurdering er at grunnkapasiteten er avgjørende for å håndtere økt belastning i en krise.
 
-13.2 Kapasitet og fleksibilitet i kriser
-13.2.1 Tilgang på helsepersonell med riktig
-kompetanse
-Pandemien viste at beredskapskapasiteten i helsetjenesten i stor grad blir bestemt av tilgangen til
-helsepersonell. Det gjelder særlig tilgangen til
-intensivsykepleiere. Ifølge ekspertgruppen for
-samfunnsøkonomiske vurderinger av smitteverntiltak, er rask tilgang på nok personell med riktig
-kompetanse den faktoren som begrenser økning i
-kapasiteten for å håndtere en pandemi.5
-Mangelen på sykepleiere, og særlig sykepleiere med spesialisering, har vært godt kjent lenge,
-også før pandemien. Ifølge Helsedirektoratet var
-det i 2021 en estimert mangel på mellom 4 000 –
-7 000 sykepleiere basert på ubesatte stillinger i
-NAVs bedriftsundersøkelse.6 Helsepersonellkommisjonen påpekte i sin utredning at bemanningsutviklingen i tjenesten ikke er bærekraftig, og at
-det i årene fremover bør utvikles tiltak og investeres i løsninger som gir lavest mulig personellvekst
-i helse- og omsorgstjenesten.7 Koronakommisjonen anbefalte i sin utredning at det utdannes flere
+- Erfaringer fra pandemien viser at god samhandling mellom spesialist- og kommunehelsetjenesten er viktig også i en krise, både for at knappe ressurser utnyttes best mulig og for at befolkningen skal få et best mulig helsetilbud. I møte med en større fremtidig krise er det særlig viktig å ha gode planer for hvordan samhandlingsaktører på tvers av helse- og omsorgstjenesten kan håndtere et stort antall pasienter og utnytte felles kapasitet.
 
-8
-9
+- Helse- og omsorgsdepartementet har stilt krav til de regionale helseforetakene om å øke intensivkapasiteten i sykehusene. Det vil bidra til å styrke beredskapen i sykehusene i møte med større kriser. Samtidig vil Koronautvalget påpeke at det også er behov for å styrke helseberedskapen i den kommunale helse- og omsorgssektoren, inkludert sikre tilgang til nok helsepersonell med riktig kompetanse.
 
-NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 180.
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 335; NOU 2022: 5 Myndighetenes håndtering av
-koronapandemien – del 2; Deloitte AS for KS, september
-2021, «Kommunenes erfaring fra Koronapandemien så
-langt. Sluttrapport fra FoU-prosjektet for KS»; Koronautvalgets uformelle samtaler med kommuner.
+- Koronautvalgets gjennomgang viser at det var en utfordring å ha et godt situasjonsbilde av kapasiteten i, og belastningen på helse- omsorgstjenesten under pandemien. Spesielt viste det seg å være mangel på sammenlignbare data av god kvalitet som både ga et helhetlig situasjonsbilde og oversikt i ulike deler av landet.
 
-sep.22
+- Det er behov for å videreutvikle kunnskapssystemet for beredskap og krisehåndtering, og at særlig tilgangen til og bruk av kvalitetsdata fra den kommunale helse- og omsorgstjenesten må bli enklere. Det trengs også beredskapsplaner for hvordan raskt mobilisere nødvendig kompetanse og kapasitet til å ta data i bruk i den nasjonale krisehåndteringen, for eksempel fra forskningssektoren og forvaltningen.
 
-jul.22
+\[Boks slutt\]
 
-aug.22
+## Innledning
 
-jun.22
+Koronautvalget er i mandatet bedt om å vurdere spesialist- og kommunehelsetjenestens kapasitet og omstillingsevne i møte med en større krise. I kapitlet redegjør vi for hovedutfordringene knyttet til kapasiteten i sykehusene og i kommunehelsetjenesten i møte med covid-19-pandemien, og hvordan nasjonale myndigheter fulgte opp situasjonen gjennom det nasjonale systemet for overvåking, varsling og rapportering. I lys av hva som var de sentrale utfordringene og behovene i denne pandemien, ser vi nærmere på hva som kan bidra til å forbedre beredskapen og krisehåndteringen i helse- og omsorgssektoren i møte med en større helsekrise. Konsekvensene av pandemien for helse- og omsorgstjenesten, og situasjonen i helsetjenestene i pandemiens siste fase (omikronperioden) er redegjort for i hhv. kapittel 3 og kapittel 11.
 
-apr.22
+Helsetjenesten stod i frontlinjen i håndteringen av covid-19-pandemien, og krisen viste at omstillingsevnen er betydelig i helse- og omsorgstjenesten når det virkelig kreves. I sammenligninger av helsesystemer på tvers av land, skårer Norge høyt. Tilgjengeligheten til helsetjenester anses å være god, og Norge er blant landene i verden med lavest dødelighet av sykdommer som kan behandles.[^506] Samtidig ser vi at pandemien satte helsetjenesten under press. Det var en langvarig krise og covid-19-smitten i samfunnet gikk i bølger. Belastningen på helsetjenestene varierte gjennom pandemien, og derfor var sykehusene og kommunene nødt til både å planlegge for, og å håndtere smitteutviklingen underveis.
 
-mai.22
+I helsekriser gjelder ansvarsprinsippet i helse- og omsorgstjenesten. Det betyr at den aktøren som i det daglige har ansvaret for fagområder og tjenester, også har ansvaret for nødvendige beredskapsforberedelser og håndtering på samme felt under ekstraordinære hendelser.[^507] Staten, ved de regionale helseforetakene, har et sørge for-ansvar for tilbudet av nødvendige spesialisthelsetjenester til befolkningen.[^508] Under pandemien gjaldt ansvaret å kunne gi nødvendige spesialisthelsetjenester til alvorlig syke med covid-19-sykdom og andre pasienter med alvorlig sykdom. Helseforetakene har en plikt til å påse at tjenestene kan gis, og til å varsle om utfordringer som kan sette pasientsikkerheten i fare.
 
-mar.22
+Kommunenes ansvar følger av helse- og omsorgstjenesteloven. Lovens forarbeider presiserer at kommunene skal tilby nødvendige helse- og omsorgstjenester som ikke er spesialisthelsetjenester.[^509] Innenfor rammene av sørgefor-ansvaret skal de yte et forsvarlig, helhetlig og koordinert tilbud. Under pandemien hadde kommunene viktige oppgaver knyttet til å bekjempe smitte i samfunnet, som å vaksinere befolkningen og TISK-arbeidet (testing, isolering, smittesporing og karantene). Se boks 13.2 for en overordnet beskrivelse av organiseringen av helse- og omsorgstjenesten i Norge.
 
-jan.22
+Organiseringen av helse- og omsorgstjenesten i Norge
 
-feb.22
+Helse- og omsorgstjenesten i Norge er organisert på tre nivåer. Kommunene har ansvaret for de kommunale helse- og omsorgstjenestene, staten har det overordnede ansvaret for spesialisthelsetjenesten, mens tannhelsetjenesten er et fylkeskommunalt ansvar.
 
-des.21
+Helse- og omsorgstjenesteloven fastsetter kommunenes ansvar. Kommunen skal blant annet sørge for at personer som oppholder seg i kommunen tilbys nødvendige helse- og omsorgstjenester. Tjenestene dekker hele livsløpet og har brukere og pasienter i alle aldersgrupper med ulike behov og utfordringer. Dette omfatter blant annet omsorgstjenester (sykehjem, hjemmetjenester, dagaktivitetstilbud med mer), fastlege og legevakt, legetjeneste i fengsler, kommunale akutte døgnplasser, helsestasjons- og skolehelsetjenesten, offentlig fysioterapitjeneste, habiliterings- og rehabiliteringstjenester og psykisk helse- og rusarbeid. Alle kommuner har det samme lovpålagte ansvaret for å løse oppgaver. Dette kalles «generalistkommuneprinsippet».
 
-okt.21
+Statens ansvar for spesialisthelsetjenester er regulert i spesialisthelsetjenesteloven. Helseforetakenes ansvar er regulert i helseforetaksloven. Staten har, gjennom de regionale helseforetakene, plikt til å sørge for nødvendige spesialisthelsetjenester til befolkningen. Helse- og omsorgsdepartementet har det overordnede ansvaret for spesialisthelsetjenesten i Norge, og staten eier de offentlige sykehusene. I tillegg til å tilby befolkningen spesialisert behandling, har sykehusene lovpålagte oppgaver innen forskning, utdanning og opplæring av pasienter og pårørende.
 
-nov.21
+Den offentlige tannhelsetjenesten ytes av fylkeskommunene, og omfatter i henhold til tannhelsetjenesteloven både forebyggende tiltak for hele befolkningen og regelmessig og oppsøkende tilbud til barn og ungdom, psykisk utviklingshemmede, grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie, og andre grupper som fylkeskommunen har vedtatt å prioritere. I tillegg gis det stønad til tannbehandling for innsatte i fengsel og rusavhengige.
 
-sep.21
+\[Boks slutt\]
 
-70
-jul.21
+## Kapasitet og fleksibilitet i kriser
 
-70
-aug.21
+### Tilgang på helsepersonell med riktig kompetanse
 
-75
+Pandemien viste at beredskapskapasiteten i helsetjenesten i stor grad blir bestemt av tilgangen til helsepersonell. Det gjelder særlig tilgangen til intensivsykepleiere. Ifølge ekspertgruppen for samfunnsøkonomiske vurderinger av smitteverntiltak, er rask tilgang på nok personell med riktig kompetanse den faktoren som begrenser økning i kapasiteten for å håndtere en pandemi.[^510]
 
-jun.21
+Mangelen på sykepleiere, og særlig sykepleiere med spesialisering, har vært godt kjent lenge, også før pandemien. Ifølge Helsedirektoratet var det i 2021 en estimert mangel på mellom 4 000 – 7 000 sykepleiere basert på ubesatte stillinger i NAVs bedriftsundersøkelse.[^511] Helsepersonellkommisjonen påpekte i sin utredning at bemanningsutviklingen i tjenesten ikke er bærekraftig, og at det i årene fremover bør utvikles tiltak og investeres i løsninger som gir lavest mulig personellvekst i helse- og omsorgstjenesten.[^512] Koronakommisjonen anbefalte i sin utredning at det utdannes flere intensivsykepleiere for å styrke kapasiteten i sykehusene ved ordinær drift, og for å styrke beredskapen.[^513]
 
-75
+Under pandemien var sykehusene nødt til å omdisponere, lære opp, og rekruttere helsepersonell til å behandle covid-19-pasienter. Flere helseforetak måtte utsette planlagte operasjoner og annen elektiv behandling for å frigjøre kapasitet og ressurser til akutte covid-19-syke. I kommunene krevde pandemihåndteringen omorganisering av virksomhet og personell for å ivareta blant annet smittesporing og testing. Mange kommuner var også nødt til å leie inn og ansette personell til koronarelaterte oppgaver. De endrede rammebetingelsene under pandemien gikk utover tjenestetilbudet til enkeltgrupper i kommunene, for eksempel eldre og personer med nedsatt funksjonsevne.[^514]
 
-mai.21
+Figur 13.2 viser utviklingen i aktivitet i helse- og omsorgstjenesten i perioden januar 2020 til september 2022. Nedtrekket i aktiviteten var størst i mars 2020, mens like store og omfattende nedtrekk som i starten ble unngått utover i pandemien.
 
-80
+Aktivitet i helse- og omsorgstjenestene. Bruttoprodukt. Sesongjustert. Februar 2020=100.
 
-apr.21
-
-80
-
-mar.21
-
-85
-
-jan.21
-
-85
-
-feb.21
-
-90
-
-des.20
-
-90
-
-nov.20
-
-95
-
-okt.20
-
-95
-
-sep.20
-
-100
-
-jul.20
-
-100
-
-aug.20
-
-105
-
-jun.20
-
-105
-
-apr.20
-
-110
-
-mai.20
-
-110
-
-jan.20
-
-7
-
-mar.20
-
-6
-
-Rapport, Holden-IV (covid-19), 4. april 2022, «Samfunnsøkonomiske vurderinger av smitteverntiltak. Rapport fra
-ekspertgruppe på oppdrag fra Helse- og omsorgsdepartementet». Versjon 1.01 – 4.april 2022.
-Nettdokument, Helsedirektoratet, 12. november 2021,
-«Estimert mangel på helsepersonell – en grafisk framstilling av resultatene fra NAVs bedriftsundersøkelser».
-NOU 2023: 4 Tid for handling.
-
-feb.20
-
-5
-
-Kapittel 13
-
-Figur 13.2 Aktivitet i helse- og omsorgstjenestene. Bruttoprodukt. Sesongjustert. Februar 2020=100.
 Note: Aktivitetstallene inneholder tall fra statlige, kommunale, ideelle og private helse- og omsorgstilbydere.
-Kilde: SSB
 
-[Side 194]
+SSB
 
-192
+Det ble etablert rutiner for samarbeid mellom helse- og omsorgstjenesten og utdanningssektoren, for å øke kapasiteten og tilgangen på helsepersonell under pandemien. Det ble også etablert ordninger for andre personellgrupper gjennom bemanningsbyråer. Når det gjaldt mobilisering av pensjonister ble tariffpartene i kommunesektoren enige om en midlertidig særskilt pensjonistlønnssats for de som jobbet med TISK og vaksinering.[^515] Unntaket varte frem til 1. september 2022. Også i staten gjennom Statens pensjonskasse ble det lagt til rette for at pensjonister kunne gå tilbake i jobb i helsevesenet uten å tape alderspensjon eller AFP. Pensjonister kunne jobbe med koronakrisen i helsevesenet uten å tape pensjon ut august 2022. Det samme gjaldt for arbeid i skoler og barnehager, men da ut juni 2022.[^516]
 
-Kapittel 13
+Erfaringer fra pandemien synliggjorde behovet for å ha bedre oversikt over helsepersonell i en krise for å kunne mobilisere og omdisponere ressursene til der behovet var størst. I dag eksisterer det en oversikt over leger med spesialisering, inkludert anestesileger. Ordningen med spesialistgodkjenning for leger innebærer at det alltid finnes oppdaterte registre over alle leger innenfor de ulike spesialiseringene. Det finnes ikke tilsvarende oversikt over sykepleiere med spesialisering, heller ikke intensivsykepleiere. Unntaket er jordmødre som har en egen autorisasjonsordning. Konsulentfirmaet Analysesenteret fastslo i 2020, i et oppdrag for Norsk Sykepleierforbund, at det ikke var mulig å angi hvor mange sykepleiere nasjonalt som har videreutdanning i akutt-, anestesi-, barne-, intensiv-, operasjons-, kreft- eller allmennsykepleie.[^517] I Danmark finnes det et autorisasjonsregister over intensivsykepleiere.[^518] Koronakommisjonen påpekte at en tilsvarende oversikt i Norge vil være et nyttig verktøy i en krise, og anbefalte derfor helsemyndighetene å opprette et register over intensivsykepleiere.[^519] Koronautvalget støtter Koronakommisjonens anbefaling, og mener en slik oversikt kan utvides til å omfatte andre grupper med relevant spesialkompetanse for krisehåndtering. Det å ha god oversikt over tilgjengelig personell og kompetanse i forkant av en krise er et viktig styringsverktøy i krisehåndteringen. Det vil bidra til at helsepersonell med riktig kompetanse kan brukes der behovet er størst.
 
-NOU 2023: 16
+Ansatt ved teststasjonen på Åse.
 
-Evaluering av pandemihåndteringen
-
-Det ble etablert rutiner for samarbeid mellom
-helse- og omsorgstjenesten og utdanningssektoren, for å øke kapasiteten og tilgangen på helsepersonell under pandemien. Det ble også etablert
-ordninger for andre personellgrupper gjennom
-bemanningsbyråer. Når det gjaldt mobilisering av
-pensjonister ble tariffpartene i kommunesektoren enige om en midlertidig særskilt pensjonistlønnssats for de som jobbet med TISK og vaksinering.10 Unntaket varte frem til 1. september 2022.
-Også i staten gjennom Statens pensjonskasse ble
-det lagt til rette for at pensjonister kunne gå tilbake i jobb i helsevesenet uten å tape alderspensjon eller AFP. Pensjonister kunne jobbe med
-koronakrisen i helsevesenet uten å tape pensjon
-ut august 2022. Det samme gjaldt for arbeid i skoler og barnehager, men da ut juni 2022.11
-Erfaringer fra pandemien synliggjorde behovet for å ha bedre oversikt over helsepersonell i en
-krise for å kunne mobilisere og omdisponere ressursene til der behovet var størst. I dag eksisterer
-det en oversikt over leger med spesialisering,
-inkludert anestesileger. Ordningen med spesialistgodkjenning for leger innebærer at det alltid
-finnes oppdaterte registre over alle leger innenfor
-de ulike spesialiseringene. Det finnes ikke tilsvarende oversikt over sykepleiere med spesialisering, heller ikke intensivsykepleiere. Unntaket er
-jordmødre som har en egen autorisasjonsordning.
-Konsulentfirmaet Analysesenteret fastslo i 2020, i
-et oppdrag for Norsk Sykepleierforbund, at det
-ikke var mulig å angi hvor mange sykepleiere
-nasjonalt som har videreutdanning i akutt-, anestesi-, barne-, intensiv-, operasjons-, kreft- eller allmennsykepleie.12 I Danmark finnes det et autorisasjonsregister over intensivsykepleiere.13 Koronakommisjonen påpekte at en tilsvarende oversikt
-i Norge vil være et nyttig verktøy i en krise, og
-anbefalte derfor helsemyndighetene å opprette et
-register over intensivsykepleiere.14 Koronautvalget støtter Koronakommisjonens anbefaling, og
-mener en slik oversikt kan utvides til å omfatte
-10
-
-KLP sine nettsider, «Pensjonister kan jobbe under koronakrisen uten å tape pensjon». Publisert 16. desember
-2022.
-11 SPK sine nettsider, «Arbeid relatert til koronapandemien».
-Publisert 2. september 2022.
-12
-Se NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 138, fotnote 84: Notat, Analysesenteret, 4.
-juni 2020, «SSB og tall for sykepleiere med videre- og masterutdanning»; brev, Norsk Sykepleierforbund til Koronakommisjonen, 30. september 2021.
-13 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 176.
-14 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 180.
-
-Figur 13.3 Ansatt ved teststasjonen på Åse.
 Foto: Ålesund kommune
 
-andre grupper med relevant spesialkompetanse
-for krisehåndtering. Det å ha god oversikt over tilgjengelig personell og kompetanse i forkant av en
-krise er et viktig styringsverktøy i krisehåndteringen. Det vil bidra til at helsepersonell med riktig
-kompetanse kan brukes der behovet er størst.
-De regionale helseforetakene har i oppdragsdokumentet for 2022 og 2023 fått i oppdrag å
-skaffe oversikt over, og å øke intensivkapasiteten.15 Som en del av arbeidet skal de regionale
-helseforetakene under ledelse av Helse Vest RHF,
-utarbeide en årlig rapport om personell, kompetanseutvikling og utdanning. Rapporten skal inneholde en nasjonal oversikt over behovet for legespesialister, ABIOK-sykepleiere16 og jordmødre i
-spesialisthelsetjenesten. Koronautvalget mener
-helsemyndighetene bør vurdere om det også er
-behov for bedre oversikt over andre viktige personellgrupper som kan bidra til å øke beredskapskapasiteten på sykehusene under en helsekrise.
-Når det gjelder beredskapskapasiteten i kommunene under pandemien, har kommunelegefunksjonen vist seg å være en kritisk faktor. Kommunene må ha tilstrekkelig kapasitet, både til å
-ivareta løpende samfunnsmedisinske oppgaver,
-og til å håndtere større helsekriser (utbrudd, miljøhendelser m.m.). Ifølge Meld. St. 15 (2022–2023)
-Folkehelsemeldinga vil regjeringen klargjøre og
-legge bedre til rette for at kommunen kan ivareta
-smittevernansvaret på en forsvarlig måte. De
-nasjonale rammevilkårene skal gjennomgås for å
-sikre gode fagmiljø innenfor smittevern i kommunene, og at det gis faglig støtte til kommunene fra
-15
+De regionale helseforetakene har i oppdragsdokumentet for 2022 og 2023 fått i oppdrag å skaffe oversikt over, og å øke intensivkapasiteten.[^520] Som en del av arbeidet skal de regionale helseforetakene under ledelse av Helse Vest RHF, utarbeide en årlig rapport om personell, kompetanseutvikling og utdanning. Rapporten skal inneholde en nasjonal oversikt over behovet for legespesialister, ABIOK-sykepleiere[^521] og jordmødre i spesialisthelsetjenesten. Koronautvalget mener helsemyndighetene bør vurdere om det også er behov for bedre oversikt over andre viktige personellgrupper som kan bidra til å øke beredskapskapasiteten på sykehusene under en helsekrise.
 
-Oppdragsdokument til de regionale helseforetakene for
-2022 og 2023.
-16 ABIOK er en forkortelse for anestesi-, barn-, intensiv-, operasjon- og kreftsykepleie.
+Når det gjelder beredskapskapasiteten i kommunene under pandemien, har kommunelegefunksjonen vist seg å være en kritisk faktor. Kommunene må ha tilstrekkelig kapasitet, både til å ivareta løpende samfunnsmedisinske oppgaver, og til å håndtere større helsekriser (utbrudd, miljøhendelser m.m.). Ifølge Meld. St. 15 (2022–2023) *Folkehelsemeldinga* vil regjeringen klargjøre og legge bedre til rette for at kommunen kan ivareta smittevernansvaret på en forsvarlig måte. De nasjonale rammevilkårene skal gjennomgås for å sikre gode fagmiljø innenfor smittevern i kommunene, og at det gis faglig støtte til kommunene fra staten, sykehus og andre. Videre, vil regjeringen vurdere løsninger for å sikre kapasiteten i kommuneoverlegefunksjonen, blant annet gjennom interkommunale samarbeid og bruk av andre yrkesgrupper.
 
-[Side 195]
+Koronautvalgets gjennomgang viser at tilgangen på helsepersonell med riktig kompetanse er en strukturell utfordring som påvirket beredskapskapasiteten i helse- og omsorgssektoren under pandemien. Koronautvalget mener det er positivt at Helse- og omsorgsdepartementet har stilt krav til de regionale helseforetakene om å øke intensivkapasiteten i sykehusene. Samtidig mener Koronautvalget at tilgangen til helsepersonell og andre yrkesgrupper i den kommunale helse- og omsorgstjenesten kan bli bedre i møte med en ny, større helsekrise. Koronautvalgets vurdering er at grunnkapasiteten i helse- og omsorgstjenesten er avgjørende for å håndtere økt belastning i en krise.
 
-NOU 2023: 16
+Grep sykehusene gjorde for å løse personellutfordringer under pandemien
 
-Evaluering av pandemihåndteringen
+For å kunne skalere opp intensivkapasiteten, måtte sykehusene raskt rekruttere, lære opp og omdisponere personell. Sykehusene lagde planer for å lære opp og omdisponere personellet og organisere dem i team. Personellet ble mobilisert til ekstra innsats gjennom administrative ordninger med særtillegg. Sykehusene kontaktet også tidligere ansatte, personell i permisjon og bistillinger, forskere, pensjonister og studenter. Disse ble ansatt i stillinger de var kvalifisert for.
 
-staten, sykehus og andre. Videre, vil regjeringen
-vurdere løsninger for å sikre kapasiteten i kommuneoverlegefunksjonen, blant annet gjennom
-interkommunale samarbeid og bruk av andre
-yrkesgrupper.
-Koronautvalgets gjennomgang viser at tilgangen på helsepersonell med riktig kompetanse er
-en strukturell utfordring som påvirket beredskapskapasiteten i helse- og omsorgssektoren under
-pandemien. Koronautvalget mener det er positivt
-at Helse- og omsorgsdepartementet har stilt krav
-til de regionale helseforetakene om å øke intensivkapasiteten i sykehusene. Samtidig mener Koronautvalget at tilgangen til helsepersonell og andre
-yrkesgrupper i den kommunale helse- og omsorgstjenesten kan bli bedre i møte med en ny, større
-helsekrise. Koronautvalgets vurdering er at
-grunnkapasiteten i helse- og omsorgstjenesten er
-avgjørende for å håndtere økt belastning i en
-krise.
+Sykepleier- og medisinstudenter ble en viktig ressurs for sykehusene under pandemien, og da studiesteder stengte ned, var tilgangen på slikt personell stor. For å sikre at sykehusene hadde nok leger, ble det ved flere sykehus også opprettet ekstra stillinger for å bemanne covid-19-enheter. Leger i spesialisering (LIS1-legene) fikk denne praksisen godkjent i utdanningsløpet sitt.
 
-13.2.2 Fleksibel organisering og
-omdisponering av helsepersonell
-Organiseringen av helse- og omsorgstjenestene i
-en normalsituasjon legger føringer for mulighetene til å skalere tjenestene etter behov i beredskapssituasjoner. Fleksibilitet i oppgavedeling og
-oppgaveutførelse er derfor viktig både i ordinær
+Videre ble det lyst ut behov for personell innenfor ulike yrkesgrupper. Det var også viktig å få tak i personell som kunne ivareta funksjoner som renhold, vakthold og lignende. På kort tid utarbeidet sykehusene en rekke opplæringsprogram i form av e-læring, videoer, simuleringer, praktisk trening og praktisk opplæring ute på sengepostene. Opplæring i dråpesmitte, smittevernprosedyrer og påkledning ble også gjennomført i sykehusene. Alt personell hadde behov for systematisk opplæring og trening i smittevernprosedyrer, og det var spesielt behov for slik opplæring på avdelingene som til vanlig ikke var vant til å håndtere smittevern. Sykehusene startet også opplæringsprogram for personell som skulle arbeide med andre pasientgrupper enn de gjorde til daglig, spesielt for personell som skulle bidra inn på intensivavdelingene.
 
-193
+NOU 2022: 5 *Myndighetenes håndtering av koronapandemien – del 2*.
 
-Kapittel 13
+\[Boks slutt\]
 
-drift og i beredskapssituasjoner. Under pandemien var omlegging av driften og omdisponering
-av ansatte et viktig instrument for å raskt kunne
-øke kapasiteten i sykehusene og kommunene til
-covid-19-relaterte oppgaver.
-På oppdrag fra Helse- og omsorgsdepartementet leverte ekspertgruppen Holden-IV (covid-19)
-samfunnsøkonomiske vurderinger av blant annet
-økt kapasitet.17 Se boks 10.2 for en oversikt over
-rapporter utarbeidet av ekspertgruppen. HoldenIV argumenterte for at en mer fleksibel organisering av helsetjenesten var en måte å omgå kapasitetsbegrensningen, gitt mangel på personell med
-riktig kompetanse. For å styrke beredskapen i helsetjenesten ved langvarig belastning er det nødvendig å etablere en organisering som gir muligheter til økt fleksibilitet.
-Utdanning av nye ressurser i en krise, eller
-andre tiltak for å øke grunnkapasiteten, vil ofte ta
-for lang tid. I stedet bør myndighetene investere i
-en systematisk tilrettelegging for at personell opparbeider seg et bredere kompetansefelt, slik at de
-kan jobbe flere steder i sykehuset. Det muliggjør
-en større omdisponering av helsepersonell i en
-krise.18 Holden-IV konkluderte med at det ville ha
-17
+### Fleksibel organisering og omdisponering av helsepersonell
 
-Rapport, Holden-IV (covid-19), 4. april 2022, «Samfunnsøkonomiske vurderinger av smitteverntiltak. Rapport fra
-ekspertgruppe på oppdrag fra Helse- og omsorgsdepartementet». Versjon 1.01–4. april 2022.
+Organiseringen av helse- og omsorgstjenestene i en normalsituasjon legger føringer for mulighetene til å skalere tjenestene etter behov i beredskapssituasjoner. Fleksibilitet i oppgavedeling og oppgaveutførelse er derfor viktig både i ordinær drift og i beredskapssituasjoner. Under pandemien var omlegging av driften og omdisponering av ansatte et viktig instrument for å raskt kunne øke kapasiteten i sykehusene og kommunene til covid-19-relaterte oppgaver.
 
-Boks 13.3 Grep sykehusene gjorde for å løse personellutfordringer under pandemien
-For å kunne skalere opp intensivkapasiteten,
-å få tak i personell som kunne ivareta funksjoner
-måtte sykehusene raskt rekruttere, lære opp og
-som renhold, vakthold og lignende. På kort tid
-omdisponere personell. Sykehusene lagde planer
-utarbeidet sykehusene en rekke opplæringsprofor å lære opp og omdisponere personellet og
-gram i form av e-læring, videoer, simuleringer,
-organisere dem i team. Personellet ble mobilisert
-praktisk trening og praktisk opplæring ute på
-til ekstra innsats gjennom administrative ordninsengepostene. Opplæring i dråpesmitte, smitteger med særtillegg. Sykehusene kontaktet også
-vernprosedyrer og påkledning ble også gjentidligere ansatte, personell i permisjon og bistilnomført i sykehusene. Alt personell hadde
-linger, forskere, pensjonister og studenter. Disse
-behov for systematisk opplæring og trening i
-ble ansatt i stillinger de var kvalifisert for.
-smittevernprosedyrer, og det var spesielt behov
-Sykepleier- og medisinstudenter ble en viktig
-for slik opplæring på avdelingene som til vanlig
-ressurs for sykehusene under pandemien, og da
-ikke var vant til å håndtere smittevern. Sykestudiesteder stengte ned, var tilgangen på slikt
-husene startet også opplæringsprogram for perpersonell stor. For å sikre at sykehusene hadde
-sonell som skulle arbeide med andre pasientnok leger, ble det ved flere sykehus også oppretgrupper enn de gjorde til daglig, spesielt for pertet ekstra stillinger for å bemanne covid-19-enhesonell som skulle bidra inn på intensivavdeter. Leger i spesialisering (LIS1-legene) fikk
-lingene.
-denne praksisen godkjent i utdanningsløpet sitt.
-Kilde: NOU 2022: 5 Myndighetenes håndtering av koronapanVidere ble det lyst ut behov for personell
-demien – del 2.
-innenfor ulike yrkesgrupper. Det var også viktig
+På oppdrag fra Helse- og omsorgsdepartementet leverte ekspertgruppen Holden-IV (covid-19) samfunnsøkonomiske vurderinger av blant annet økt kapasitet.[^522] Se boks 10.2 for en oversikt over rapporter utarbeidet av ekspertgruppen. Holden-IV argumenterte for at en mer fleksibel organisering av helsetjenesten var en måte å omgå kapasitetsbegrensningen, gitt mangel på personell med riktig kompetanse. For å styrke beredskapen i helsetjenesten ved langvarig belastning er det nødvendig å etablere en organisering som gir muligheter til økt fleksibilitet.
 
-[Side 196]
+Utdanning av nye ressurser i en krise, eller andre tiltak for å øke grunnkapasiteten, vil ofte ta for lang tid. I stedet bør myndighetene investere i en systematisk tilrettelegging for at personell opparbeider seg et bredere kompetansefelt, slik at de kan jobbe flere steder i sykehuset. Det muliggjør en større omdisponering av helsepersonell i en krise.[^523] Holden-IV konkluderte med at det ville ha en stor samfunnsgevinst å investere i en økning av denne typen variabel kapasitet, og at etablering av en slik ordning ville kunne kreve noe økt permanent kapasitet. Koronautvalget vil støtte opp under disse vurderingene. Permanent og variabel kapasitet er nærmere forklart i boks 13.4.
 
-194
+Permanent og variabel kapasitet i helsetjenestene
 
-Kapittel 13
+Ekspertgruppen Holden-IV deler kapasitet i helsetjenesten inn i to kategorier, permanent og variabel kapasitet. *Den permanente kapasiteten* er aktivitetsnivået som kan gjennomføres på varig basis, og det er den permanente grunnberedskapen som bestemmer helsetjenestens kapasitet til aktivitet. Eksempler på permanent kapasitet er størrelsen på arbeidsstokken, arbeidsstokkens kompetanse, areal, tilgjengelig utstyr og senger.
 
-NOU 2023: 16
+*Den variable kapasiteten* er aktivitetsnivået som i utgangspunktet kan utføres i kortere perioder og i en akutt situasjon. En variabel kapasitet muliggjør en oppskalering av det nødvendige behandlingstilbudet og rask tilgang på personell med tilstrekkelig kompetanse når det oppstår behov. Den variable kapasiteten refererer her til «bufferkapasitet» eller «reservekapasitet». Det er tilgang på personell, rask omorganisering ved akutte behov og fleksibilitet i organisasjonen som bestemmer om den variable kapasiteten er i stand til å effektivt respondere på variasjoner i aktivitetsnivå. Den variable kapasiteten er ressurskrevende og vil avhenge av størrelsen på den permanente grunnstrukturen.
 
-Evaluering av pandemihåndteringen
+Rapport, Holden-IV (covid-19), 4. april 2022, «Samfunnsøkonomiske vurderinger av smitteverntiltak. Rapport fra ekspertgruppe på oppdrag fra Helse- og omsorgsdepartementet». Versjon 1.01 – 4. april 2022.
 
-Boks 13.4 Permanent og variabel kapasitet i helsetjenestene
-Ekspertgruppen Holden-IV deler kapasitet i helmed tilstrekkelig kompetanse når det oppstår
-setjenesten inn i to kategorier, permanent og
-behov. Den variable kapasiteten refererer her til
-variabel kapasitet. Den permanente kapasiteten
-«bufferkapasitet» eller «reservekapasitet». Det
-er aktivitetsnivået som kan gjennomføres på
-er tilgang på personell, rask omorganisering ved
-varig basis, og det er den permanente grunnbeakutte behov og fleksibilitet i organisasjonen
-redskapen som bestemmer helsetjenestens
-som bestemmer om den variable kapasiteten er i
-kapasitet til aktivitet. Eksempler på permanent
-stand til å effektivt respondere på variasjoner i
-kapasitet er størrelsen på arbeidsstokken,
-aktivitetsnivå. Den variable kapasiteten er resarbeidsstokkens kompetanse, areal, tilgjengelig
-surskrevende og vil avhenge av størrelsen på
-utstyr og senger.
-den permanente grunnstrukturen.
-Den variable kapasiteten er aktivitetsnivået
-Kilde: Rapport, Holden-IV (covid-19), 4. april 2022, «Samsom i utgangspunktet kan utføres i kortere perifunnsøkonomiske vurderinger av smitteverntiltak. Rapport
-oder og i en akutt situasjon. En variabel kapasifra ekspertgruppe på oppdrag fra Helse- og omsorgsdepartetet muliggjør en oppskalering av det nødvendige
-mentet». Versjon 1.01 – 4. april 2022.
-behandlingstilbudet og rask tilgang på personell
-en stor samfunnsgevinst å investere i en økning av
-denne typen variabel kapasitet, og at etablering av
-en slik ordning ville kunne kreve noe økt permanent kapasitet. Koronautvalget vil støtte opp
-under disse vurderingene. Permanent og variabel
-kapasitet er nærmere forklart i boks 13.4.
-Koronakommisjonen anbefalte blant annet å ta
-i bruk rotasjonsordninger mellom intensivsykepleiere og andre sykepleiere i normale tider, etter
-modell fra Danmark. Dette for å bygge opp en
-«reservekapasitet» som kan bidra til å øke fleksibiliteten og dermed beredskapen i sykehusene.19
-Løsningen kan være et eksempel på det Holden-IV
-omtaler som variabel kapasitet. Koronakommisjonen viste også til et uutnyttet potensial i bruk av
-støttepersonell. Med støttepersonell menes for
-eksempel helsefagarbeidere, farmasøyter og
-fysioterapeuter som kan avlaste intensivsykepleierne. På sykehusene får sykepleierne ofte arbeidsoppgaver som ikke krever sykepleierkompetanse, i tillegg til de ordinære oppgavene. En del
-av disse oppgavene kan annet personell ha minst
-like gode forutsetninger for å utføre. Koronakommisjonen påpekte at da bør disse yrkesgruppene i
-større grad gjøres tilgjengelige for slike oppgaver.20
-18
+\[Boks slutt\]
 
-Rapport, Holden-IV (covid-19), 4. april 2022, «Samfunnsøkonomiske vurderinger av smitteverntiltak. Rapport fra
-ekspertgruppe på oppdrag fra Helse- og omsorgsdepartementet». Versjon 1.01 – 4.april 2022, side 133.
-19 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 180.
-20 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 150.
+Koronakommisjonen anbefalte blant annet å ta i bruk rotasjonsordninger mellom intensivsykepleiere og andre sykepleiere i normale tider, etter modell fra Danmark. Dette for å bygge opp en «reservekapasitet» som kan bidra til å øke fleksibiliteten og dermed beredskapen i sykehusene.[^524] Løsningen kan være et eksempel på det Holden-IV omtaler som variabel kapasitet. Koronakommisjonen viste også til et uutnyttet potensial i bruk av støttepersonell. Med støttepersonell menes for eksempel helsefagarbeidere, farmasøyter og fysioterapeuter som kan avlaste intensivsykepleierne. På sykehusene får sykepleierne ofte arbeidsoppgaver som ikke krever sykepleierkompetanse, i tillegg til de ordinære oppgavene. En del av disse oppgavene kan annet personell ha minst like gode forutsetninger for å utføre. Koronakommisjonen påpekte at da bør disse yrkesgruppene i større grad gjøres tilgjengelige for slike oppgaver.[^525]
 
-I NOU 2023: 4 Tid for handling foreslo Helsepersonellkommisjonen såkalte «hus-og-hytte»-stillinger, for å bedre fleksibiliteten og kvaliteten i
-helse- og omsorgstjenesten i normale tider. Ordningen betyr at helsepersonell kan ha kombinerte
-stillinger og jobbe i flere fagmiljøer, innad i eller
-mellom tjeneste- og forvaltningsnivåer, men også
-mellom helse- og omsorgstjenesten og utdanningssektoren. Ifølge Helsepersonellkommisjonen vil en slik hus-og-hytte-ordning også kunne
-øke beredskapen. For at personellet skal kunne
-brukes fornuftig under normale forhold, kan en
-hus-og-hytte-ordning for intensivpersonell innebære en fast regelmessig periode ved intensivavdeling (hytte), og at personellet resten av tiden
-arbeider ordinært ved annen sengepost ved sykehuset (hus). Personellet må gis nødvendig opplæring, slik at overgangen mellom stillingssteder
-blir trygg og hensiktsmessig både for pasient,
-arbeidstaker, kolleger og arbeidsgiver.21
-Ifølge administrerende direktør i Helse SørØst RHF, Terje Rootwelt, er kapasitetsutnyttelsen
-høy også i normaltid, og sykehusene har i liten
-grad en reservekapasitet. I forklaringen til Koronautvalget sa Rootwelt at: «Vi har ikke råd til å ha
-en stor stående intensivkapasitet som ikke er i bruk.
-Norsk helsevesen har i liten grad generelt sett en
-reservekapasitet som ikke er i bruk».22
-Assisterende direktør i Helsedirektoratet,
-Espen Rostrup Nakstad mener at omorganisering
-i seg selv ikke utløser ekstra ressurser, eller kapa21
-22
+I NOU 2023: 4 *Tid for handling* foreslo Helsepersonellkommisjonen såkalte «hus-og-hytte»-stillinger, for å bedre fleksibiliteten og kvaliteten i helse- og omsorgstjenesten i normale tider. Ordningen betyr at helsepersonell kan ha kombinerte stillinger og jobbe i flere fagmiljøer, innad i eller mellom tjeneste- og forvaltningsnivåer, men også mellom helse- og omsorgstjenesten og utdanningssektoren. Ifølge Helsepersonellkommisjonen vil en slik hus-og-hytte-ordning også kunne øke beredskapen. For at personellet skal kunne brukes fornuftig under normale forhold, kan en hus-og-hytte-ordning for intensivpersonell innebære en fast regelmessig periode ved intensivavdeling (hytte), og at personellet resten av tiden arbeider ordinært ved annen sengepost ved sykehuset (hus). Personellet må gis nødvendig opplæring, slik at overgangen mellom stillingssteder blir trygg og hensiktsmessig både for pasient, arbeidstaker, kolleger og arbeidsgiver.[^526]
 
-NOU 2023: 4 Tid for handling, side 141.
-Forklaring, administrerende direktør i Helse Sør-Øst RHF,
-Terje Rootwelt, 16. januar 2023.
+Ifølge administrerende direktør i Helse Sør-Øst RHF, Terje Rootwelt, er kapasitetsutnyttelsen høy også i normaltid, og sykehusene har i liten grad en reservekapasitet. I forklaringen til Koronautvalget sa Rootwelt at: *«Vi har ikke råd til å ha en stor stående intensivkapasitet som ikke er i bruk. Norsk helsevesen har i liten grad generelt sett en reservekapasitet som ikke er i bruk»*.[^527]
 
-[Side 197]
+Assisterende direktør i Helsedirektoratet, Espen Rostrup Nakstad mener at omorganisering i seg selv ikke utløser ekstra ressurser, eller kapasitet. Han trakk derfor frem betydningen av å kunne avlaste sårbare ressurser ved å ta i bruk andre yrkesgrupper der det er mulig. Nakstad sa i forklaringen til Koronautvalget at:
 
-NOU 2023: 16
+*«Det man må huske, er at vi har det helsepersonellet vi har. De er stort sett i bruk hele tiden til fornuftige ting. Det betyr at vi ikke har store reserver. Det er ikke lett å utløse ekstra ressurser bare ved omorganisering. Det som derimot er mulig, og som også ble gjort i pandemien, er å avlaste disse sårbare ressursene ved at andre yrkesgrupper går inn og gjør mer av arbeidet. For eksempel pensjonister som vaksinerer på vaksinasjonsstasjonene. Det er kjempeviktig. Det at andre yrkesgrupper kan komme inn og bistå med en del arbeid under helsepersonellovens bestemmelser i kapittel 5, under supervisjon, vil være veldig avhjelpende. Dette er vår erfaring fra pandemien, det er dette som er viktig. Det å kun stokke om på de personene som er i drift hver dag, frigjør egentlig ingenting. Kanskje virker det mot sin hensikt. Det er veldig viktig å være klar over.»* [^528]
 
-Evaluering av pandemihåndteringen
+Ifølge presidenten i Den norske legeforeningen, Anne-Karin Rime, er kompetanse en viktig faktor i vurderingen av hvorvidt helsepersonell kan omdisponeres. I forklaringen til Koronautvalget sa Rime følgende:
 
-sitet. Han trakk derfor frem betydningen av å
-kunne avlaste sårbare ressurser ved å ta i bruk
-andre yrkesgrupper der det er mulig. Nakstad sa i
-forklaringen til Koronautvalget at:
-«Det man må huske, er at vi har det helsepersonellet vi har. De er stort sett i bruk hele tiden til
-fornuftige ting. Det betyr at vi ikke har store
-reserver. Det er ikke lett å utløse ekstra ressurser
-bare ved omorganisering. Det som derimot er
-mulig, og som også ble gjort i pandemien, er å
-avlaste disse sårbare ressursene ved at andre
-yrkesgrupper går inn og gjør mer av arbeidet.
-For eksempel pensjonister som vaksinerer på
-vaksinasjonsstasjonene. Det er kjempeviktig. Det
-at andre yrkesgrupper kan komme inn og bistå
-med en del arbeid under helsepersonellovens
-bestemmelser i kapittel 5, under supervisjon, vil
-være veldig avhjelpende. Dette er vår erfaring
-fra pandemien, det er dette som er viktig. Det å
-kun stokke om på de personene som er i drift hver
-dag, frigjør egentlig ingenting. Kanskje virker det
-mot sin hensikt. Det er veldig viktig å være klar
-over.» 23
+*«Å jobbe på intensiv er tøft for du trenger like høy bemanning døgnet rundt på sykepleierne, litt mindre på legene. Det er en stor utfordring, og spesielt på natt. Når det gjelder fleksibilitet, det spørs jo på kompetanse. Jeg mener man ikke skal være rigid. \[…\] Men når du står i en akutt situasjon, og hvis du kommer til meg med hjertestans og er dårlig, så kan jeg ikke ha tre–fire medarbeidere som ikke aner hva de skal gjøre. Dette må gå fort, og hvis det ikke skjer, så dør pasienten. Jeg tror det er den store forskjellen. \[…\] Det handler om kompetanse, spisskompetanse. Og man kan selvfølgelig spørre seg om man kan fordele oppgavene på flere med ulike kompetanse? Det tror jeg man kan. For intensivmedisin har endret seg.»*[^529]
 
-naturlige variasjoner, og en beredskap som gjør at
-sykehusene ved større kriser raskt kan skalere
-opp intensivkapasiteten.25 For å få dette til, vil det
-blant annet være behov for kompetansehevende
-tiltak og nye opplæringstilbud slik at sykehusene
-får en fleksibilitet hvor flere sykehusansatte kan
-bidra på intensivavdelingene.
+Helse- og omsorgsdepartementet har satt som mål at sykehusene får en kapasitet som takler naturlige variasjoner, og en beredskap som gjør at sykehusene ved større kriser raskt kan skalere opp intensivkapasiteten.[^530] For å få dette til, vil det blant annet være behov for kompetansehevende tiltak og nye opplæringstilbud slik at sykehusene får en fleksibilitet hvor flere sykehusansatte kan bidra på intensivavdelingene.
+
 Betydningen av fleksible arealer til en kapasitetsutvidelse
-Departementsråden i Helse- og omsorgsdepartementet, Cathrine Lofthus, sa i forklaringen til
-Koronautvalget at det var viktig å ha gode planer
-for hvordan sykehusene kan skalere opp intensivkapasiteten i en krise. I tillegg til personell, trakk
-Lofthus frem viktigheten av å ha arealer til en
-kapasitetsutvidelse:
-«[D]et er klart at man må jevnlig trene personell
-som er på andre avdelinger hvor vi vet at vi kan
-dra ned kapasitet i en krise, slik at de kan støtte
-inn på intensivavdelingene ved en krise. Og det
-må man som sagt øve på slik at vi nesten får en
-slags heimevernsstyrke internt i sykehusene som
-kan omdisponeres. Og så må vi ha arealer til en
-kapasitetsutvidelse, og da tror jeg personlig at vi
-må ha mer av disse intermediærsengene – de
-som er litt «in-between», som du kan skalere opp
-til andre kategorier intensivsenger i en krise. Og
-så må du da ha bemanningen som du kan omdisponere. Så man må jobbe med to forhold, både
-bemanning som kan omdisponeres og tilgjengelige arealer.»26
 
-Ifølge presidenten i Den norske legeforeningen,
-Anne-Karin Rime, er kompetanse en viktig faktor i
-vurderingen av hvorvidt helsepersonell kan
-omdisponeres. I forklaringen til Koronautvalget sa
-Rime følgende:
-«Å jobbe på intensiv er tøft for du trenger like høy
-bemanning døgnet rundt på sykepleierne, litt
-mindre på legene. Det er en stor utfordring, og
-spesielt på natt. Når det gjelder fleksibilitet, det
-spørs jo på kompetanse. Jeg mener man ikke skal
-være rigid. […] Men når du står i en akutt situasjon, og hvis du kommer til meg med hjertestans
-og er dårlig, så kan jeg ikke ha tre–fire medarbeidere som ikke aner hva de skal gjøre. Dette må gå
-fort, og hvis det ikke skjer, så dør pasienten. Jeg
-tror det er den store forskjellen. […] Det handler
-om kompetanse, spisskompetanse. Og man kan
-selvfølgelig spørre seg om man kan fordele oppgavene på flere med ulike kompetanse? Det tror
-jeg man kan. For intensivmedisin har endret
-seg.»24
+Departementsråden i Helse- og omsorgsdepartementet, Cathrine Lofthus, sa i forklaringen til Koronautvalget at det var viktig å ha gode planer for hvordan sykehusene kan skalere opp intensivkapasiteten i en krise. I tillegg til personell, trakk Lofthus frem viktigheten av å ha arealer til en kapasitetsutvidelse:
 
-Helse- og omsorgsdepartementet har satt som
-mål at sykehusene får en kapasitet som takler
-23
+*«\[D\]et er klart at man må jevnlig trene personell som er på andre avdelinger hvor vi vet at vi kan dra ned kapasitet i en krise, slik at de kan støtte inn på intensivavdelingene ved en krise. Og det må man som sagt øve på slik at vi nesten får en slags heimevernsstyrke internt i sykehusene som kan omdisponeres. Og så må vi ha arealer til en kapasitetsutvidelse, og da tror jeg personlig at vi må ha mer av disse intermediærsengene – de som er litt «in-between», som du kan skalere opp til andre kategorier intensivsenger i en krise. Og så må du da ha bemanningen som du kan omdisponere. Så man må jobbe med to forhold, både bemanning som kan omdisponeres og tilgjengelige arealer.»*[^531]
 
-Forklaring, assisterende direktør i Helsedirektoratet Espen
-Rostrup Nakstad, 5. januar 2023.
-24 Forklaring, presidenten i Den norske legeforeningen,
-Anne-Karin Rime, 13. desember 2022.
+Utformingen av flere av sykehusenes lokaler gjorde det krevende å ta imot covid-19-pasienter og etablere kohorter både i akuttmottak, på sengepost og på intensivavdeling, viste Koronakommisjonens granskning.[^532] Dette gjaldt også sykehus med forholdsvis nye bygg. Også på sykehjem og i andre kommunale institusjoner var det krevende å tilpasse arealet og omdisponere ressurser til kohortisolering. Kohortisolering betyr å ta i bruk rom med flere senger, utpeke egne avdelinger, eller bygninger for isolering og behandling av syke med samme sykdom. Både sykehusene og kommunene skal ha planer for hvordan kohortisolering skal organiseres.[^533]
 
-195
+Ifølge Koronakommisjonen er ikke utformingen av sykehusbygg godt nok planlagt med tanke på beredskap og pandemi. Dette gjelder både akuttmottak og andre avdelinger. Koronakommisjonen anbefalte derfor at myndighetene ved bygging av nye sykehus og ombygging av gamle sykehus sørger for at lokalene blir fleksible og raskt kan bli omgjort ved en krise. For eksempel at det er mulig å utvide enkelt- og dobbeltrom til flermannsrom raskt. Koronautvalget støtter kommisjonens vurdering. Videre, mener Koronautvalget at kommunene også bør planlegge for at relevante bygg har areal som er fleksible med tanke på fremtidige pandemier og andre kriser.
 
-Kapittel 13
+### Dagens avtale- og regelverk for bruk av helsepersonell og private aktører
 
-Utformingen av flere av sykehusenes lokaler
-gjorde det krevende å ta imot covid-19-pasienter
-og etablere kohorter både i akuttmottak, på sengepost og på intensivavdeling, viste Koronakommisjonens granskning.27 Dette gjaldt også sykehus med forholdsvis nye bygg. Også på sykehjem
-og i andre kommunale institusjoner var det krevende å tilpasse arealet og omdisponere ressurser
-til kohortisolering. Kohortisolering betyr å ta i
-bruk rom med flere senger, utpeke egne
-avdelinger, eller bygninger for isolering og
-behandling av syke med samme sykdom. Både
-
-25
-
-Oppdragsdokument til de regionale helseforetakene for
-2023.
-26 Forklaring, departementsråd i Helse- og omsorgsdepartementet, Cathrine Lofthus, 11. januar 2023.
-27 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 181.
-
-[Side 198]
-
-196
-
-Kapittel 13
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-sykehusene og kommunene skal ha planer for
-hvordan kohortisolering skal organiseres.28
-Ifølge Koronakommisjonen er ikke utformingen av sykehusbygg godt nok planlagt med tanke
-på beredskap og pandemi. Dette gjelder både
-akuttmottak og andre avdelinger. Koronakommisjonen anbefalte derfor at myndighetene ved bygging av nye sykehus og ombygging av gamle
-sykehus sørger for at lokalene blir fleksible og
-raskt kan bli omgjort ved en krise. For eksempel
-at det er mulig å utvide enkelt- og dobbeltrom til
-flermannsrom raskt. Koronautvalget støtter kommisjonens vurdering. Videre, mener Koronautvalget at kommunene også bør planlegge for at relevante bygg har areal som er fleksible med tanke
-på fremtidige pandemier og andre kriser.
-
-13.2.3 Dagens avtale- og regelverk for bruk av
-helsepersonell og private aktører
 Regelverk for omdisponering og mobilisering av helsepersonell
-Når det gjelder arbeidsgivers styringsrett over
-ansatte i kriser, behandlet Koronakommisjonen
-dette temaet grundig. Selv om dagens regelverk
-gir arbeidsgivere en viss adgang til å omdisponere
-og beordre arbeidstakere i krisesituasjoner, var
-det etter Koronakommisjonens oppfatning likevel
-uklart hvor omfattende endringer det er anledning til å gjøre i en langvarig krise. Ifølge kommisjonen var det også uklart hvordan ulike regler og
-krav i lov, forskrift og tariffavtaler virket sammen
-under pandemien.29 De pekte blant annet på
-begrensninger i helseberedskapsloven og at loven
-ikke er godt nok egnet til å øke tilgangen til helsepersonell, ut over personell som allerede er ansatt
-i helse-, omsorgs- og sosialsektoren.30
-For å styrke den samlede krisehåndteringen
-bør fleksibiliteten innenfor de offentlige tjenestene i større grad omfatte private aktører slik som
-fastleger og avtalespesialister, ifølge Koronakommisjonen. Helseberedskapsloven omfatter også
-disse gruppene, men regelverket har ikke gode
-ordninger for mer langsiktige omdisponeringer.
-Hvordan fastlegene og avtalespesialistene kan
-benyttes best mulig i kommende (langvarige) kriser hvor det er betydelig press på andre deler av
-28
 
-Helse- og omsorgsdepartementet (2019) «Nasjonal beredskapsplan mot utbrudd av alvorlige smittsomme sykdommer», side 30-31.
-29
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, avsnitt 9.2.1, s. 88-90.
-30 Ibid., side 86.
+Når det gjelder arbeidsgivers styringsrett over ansatte i kriser, behandlet Koronakommisjonen dette temaet grundig. Selv om dagens regelverk gir arbeidsgivere en viss adgang til å omdisponere og beordre arbeidstakere i krisesituasjoner, var det etter Koronakommisjonens oppfatning likevel uklart hvor omfattende endringer det er anledning til å gjøre i en langvarig krise. Ifølge kommisjonen var det også uklart hvordan ulike regler og krav i lov, forskrift og tariffavtaler virket sammen under pandemien.[^534] De pekte blant annet på begrensninger i helseberedskapsloven og at loven ikke er godt nok egnet til å øke tilgangen til helsepersonell, ut over personell som allerede er ansatt i helse-, omsorgs- og sosialsektoren.[^535]
 
-helsetjenesten, er derfor et viktig spørsmål.31
-Koronakommisjonen anbefalte at helseberedskapsloven bør ha tydeligere krav til hvordan virksomhetene skal planlegge for å oppskalere,
-omdisponere og nedskalere personellressurser
-under en langvarig krise som pandemien.32
-Videre, anbefalte Koronakommisjonen at beredskapsplanene må beskrive tydeligere private aktørers rolle i en pandemi, eller større helsekrise.33
-Enkelte sykehus og kommuner har pekt på
-fordelene ved å samarbeide med private aktører
-og frivillige organisasjoner under pandemien. I en
-periode da sykehusene var presset på kapasitet,
-viste Koronakommisjonens gransking at også frivillige organisasjoner bisto med viktig avlastning
-ved flere sykehus i landet.34 For eksempel var private og frivilliges innsats som ekstrapersonell, og
-ved pasienttransport ved mistenkt eller påvist
-covid-19, viktig. Private klinikker var også viktig
-for at kommunene kunne øke testkapasiteten
-under pandemien. For eksempel satte Oslo kommune ut deler av testingen til private, og benyttet
-private laboratorier til å analysere prøver. Private
-aktørers innsats blir også trukket frem som viktig
-i forbindelse med myndighetenes håndtering av
-importsmitte. Både vektere, private helsetjenester, og ikke minst hotellene og deres ansatte
-bidro til å få karantenehotellordningen til å fungere, ifølge Koronakommisjonen.35
-Koronautvalget er kjent med at HOD allerede
-er i gang med å gå gjennom regelverket knyttet til
-helseberedskap og smittevern, med planlagt fremleggelse av en lovproposisjon for Stortinget i løpet
-av 2025.36 Bruken av midlertidige registre over
-helsepersonell skal evalueres av Helsedirektoratet. Direktoratet skal i den forbindelse utrede om
-det kan utvikles ordninger som kan bidra til å
-mobilisere personellressurser raskt til helse- og
-omsorgstjenesten. Utredningen skal blant annet
-omfatte bruk av studenter i helsefag, pensjonister
-og annet helsepersonell som ikke arbeider i helseog omsorgstjenestene. Fastleger, avtalespesialister og private aktørers rolle skal vurderes særskilt.37
-31
+For å styrke den samlede krisehåndteringen bør fleksibiliteten innenfor de offentlige tjenestene i større grad omfatte private aktører slik som fastleger og avtalespesialister, ifølge Koronakommisjonen. Helseberedskapsloven omfatter også disse gruppene, men regelverket har ikke gode ordninger for mer langsiktige omdisponeringer. Hvordan fastlegene og avtalespesialistene kan benyttes best mulig i kommende (langvarige) kriser hvor det er betydelig press på andre deler av helsetjenesten, er derfor et viktig spørsmål.[^536] Koronakommisjonen anbefalte at helseberedskapsloven bør ha tydeligere krav til hvordan virksomhetene skal planlegge for å oppskalere, omdisponere og nedskalere personellressurser under en langvarig krise som pandemien.[^537] Videre, anbefalte Koronakommisjonen at beredskapsplanene må beskrive tydeligere private aktørers rolle i en pandemi, eller større helsekrise.[^538]
 
-Ibid., avsnitt 9.2.4, side 91.
-Ibid., side 86.
-33 Ibid., side 201.
-34 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 157.
-35 NOU 2022: 5 Myndighetenes håndtering av koronapandemien – del 2, side 243.
-36 Brev, Helse- og omsorgsdepartementet til Koronautvalget,
-20. desember 2022.
-32
+Enkelte sykehus og kommuner har pekt på fordelene ved å samarbeide med private aktører og frivillige organisasjoner under pandemien. I en periode da sykehusene var presset på kapasitet, viste Koronakommisjonens gransking at også frivillige organisasjoner bisto med viktig avlastning ved flere sykehus i landet.[^539] For eksempel var private og frivilliges innsats som ekstrapersonell, og ved pasienttransport ved mistenkt eller påvist covid-19, viktig. Private klinikker var også viktig for at kommunene kunne øke testkapasiteten under pandemien. For eksempel satte Oslo kommune ut deler av testingen til private, og benyttet private laboratorier til å analysere prøver. Private aktørers innsats blir også trukket frem som viktig i forbindelse med myndighetenes håndtering av importsmitte. Både vektere, private helsetjenester, og ikke minst hotellene og deres ansatte bidro til å få karantenehotellordningen til å fungere, ifølge Koronakommisjonen.[^540]
 
-[Side 199]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
+Koronautvalget er kjent med at HOD allerede er i gang med å gå gjennom regelverket knyttet til helseberedskap og smittevern, med planlagt fremleggelse av en lovproposisjon for Stortinget i løpet av 2025.[^541] Bruken av midlertidige registre over helsepersonell skal evalueres av Helsedirektoratet. Direktoratet skal i den forbindelse utrede om det kan utvikles ordninger som kan bidra til å mobilisere personellressurser raskt til helse- og omsorgstjenesten. Utredningen skal blant annet omfatte bruk av studenter i helsefag, pensjonister og annet helsepersonell som ikke arbeider i helse- og omsorgstjenestene. Fastleger, avtalespesialister og private aktørers rolle skal vurderes særskilt.[^542]
 
 Kriseavtaler
-I starten av pandemien, våren 2020, inngikk de
-sentrale partene i arbeidslivet kriseavtaler. KS og
-hovedsammenslutningene LO Kommune, Unio,
-YS Kommune og Akademikerne inngikk blant
-annet en avtale om utvidede rammer for overtid,
-nedkortet varslingsfrist for arbeidsplaner og ga
-hjemmel til, uten avtale, å fastsette endringer i
-arbeidstidsordninger. Legeforeningen, Spekter og
-Virke inngikk avtaler om legers arbeidstid i koronasituasjoner. Avtalene ble ikke fornyet på sentralt nivå da de gikk ut høsten 2020, selv om
-enkelte lokale avtaler ble inngått etter dette. Ifølge
-Koronakommisjonen har organisasjonene selv
-pekt på flere utfordringer med å inngå slike avtaler under en pandemi. Det var blant annet uklarheter rundt regelverket, og i etterkant ble det diskusjon om hvordan avtalene skulle tolkes.38 Koronakommisjonen anbefalte derfor at det gjøres en
-vurdering av om det bør innføres nasjonale kriseavtaler som kan suppleres av lokale kriseavtaler.39
-I vurderingen av om det bør inngås kriseavtaler mellom partene, foreslo Koronakommisjonen
-at flere forhold skulle utredes. For det første bør
-forholdet mellom helseberedskapsloven, annen
-lovgivning og tariffavtaler gjøres klarere, slik at
-det for eksempel er tydelig om det er adgang til å
-inngå kriseavtaler for situasjoner som gir adgang
-til beordring. For det andre bør man vurdere om
-avtaler om finansiering skal knyttes til kriseavtalene. Det kan skape større forutsigbarhet. For det
-tredje bør man se nærmere på hvordan nasjonale
-og lokale kriseavtaler kan tilpasses under en
-krise. Det er viktig ettersom det er vanskelig å forutse hvordan kriser utspiller seg.
-Til Koronautvalget uttrykte Norsk Sykepleierforbund at det «bør inngås særavtaler som regulerer særskilte lønns- og arbeidsvilkår i krisesituasjoner for å gi rask og mer forutsigbar tilgang på
-ekstraressurser».40 Videre, mente Sykepleierforbundet at «[d]et må utarbeides bedre og mer detaljerte planer for omdisponering av personell under
-kriser. Sykepleiere som arbeider med sårbare grupper (barn, psykisk syke, skrøpelige eldre) bør skjer37
 
-Tildelingsbrev til Helsedirektoratet for 2022; Brev, Helseog omsorgsdepartementet til Koronautvalget, 20. desember 2022.
-38 NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 91.
-39 NOU 2021: 6 Myndighetenes håndtering av koronapandemien.
-40 E-post, Norsk Sykepleierforbund til Koronautvalget, 16.
-januar 2023, «Supplerende opplysninger til Koronautvalget
-til intervju 13.12.2022».
+I starten av pandemien, våren 2020, inngikk de sentrale partene i arbeidslivet kriseavtaler. KS og hovedsammenslutningene LO Kommune, Unio, YS Kommune og Akademikerne inngikk blant annet en avtale om utvidede rammer for overtid, nedkortet varslingsfrist for arbeidsplaner og ga hjemmel til, uten avtale, å fastsette endringer i arbeidstidsordninger. Legeforeningen, Spekter og Virke inngikk avtaler om legers arbeidstid i koronasituasjoner. Avtalene ble ikke fornyet på sentralt nivå da de gikk ut høsten 2020, selv om enkelte lokale avtaler ble inngått etter dette. Ifølge Koronakommisjonen har organisasjonene selv pekt på flere utfordringer med å inngå slike avtaler under en pandemi. Det var blant annet uklarheter rundt regelverket, og i etterkant ble det diskusjon om hvordan avtalene skulle tolkes.[^543] Koronakommisjonen anbefalte derfor at det gjøres en vurdering av om det bør innføres nasjonale kriseavtaler som kan suppleres av lokale kriseavtaler.[^544]
 
-197
+I vurderingen av om det bør inngås kriseavtaler mellom partene, foreslo Koronakommisjonen at flere forhold skulle utredes. For det første bør forholdet mellom helseberedskapsloven, annen lovgivning og tariffavtaler gjøres klarere, slik at det for eksempel er tydelig om det er adgang til å inngå kriseavtaler for situasjoner som gir adgang til beordring. For det andre bør man vurdere om avtaler om finansiering skal knyttes til kriseavtalene. Det kan skape større forutsigbarhet. For det tredje bør man se nærmere på hvordan nasjonale og lokale kriseavtaler kan tilpasses under en krise. Det er viktig ettersom det er vanskelig å forutse hvordan kriser utspiller seg.
 
-Kapittel 13
+Til Koronautvalget uttrykte Norsk Sykepleierforbund at det «*bør inngås særavtaler som regulerer særskilte lønns- og arbeidsvilkår i krisesituasjoner for å gi rask og mer forutsigbar tilgang på ekstraressurser*».[^545] Videre, mente Sykepleierforbundet at «*\[d\]et må utarbeides bedre og mer detaljerte planer for omdisponering av personell under kriser. Sykepleiere som arbeider med sårbare grupper (barn, psykisk syke, skrøpelige eldre) bør skjermes så langt som mulig*».[^546] I forklaringen til Koronautvalget, sa forbundsleder i Sykepleierforbundet, Lill Sverresdatter Larsen at: *«Det som er bedre i dag, er at lederne i helsetjenesten vil være bedre trent på en slik krise til å kunne benytte personellet mer fleksibelt, men vi har ikke avtalene om det.»*[^547]
 
-mes så langt som mulig».41 I forklaringen til Koronautvalget, sa forbundsleder i Sykepleierforbundet, Lill Sverresdatter Larsen at: «Det som er bedre
-i dag, er at lederne i helsetjenesten vil være bedre
-trent på en slik krise til å kunne benytte personellet
-mer fleksibelt, men vi har ikke avtalene om det.»42
-Ifølge administrerende direktør i Helse SørØst RHF, Terje Rootwelt er det en fordel om det
-foreligger klare avtaler om omdisponering av personell på forhånd. I forklaringen til Koronautvalget
-uttalte Rootwelt følgende om behovet for et bedre
-avtaleverk:
-«Jeg tror man må ha mer klare avtaler om dette
-på forhånd, men at det har vært vanskelig å
-komme fram til det med en styring og et betalingsnivå som er gjennomførbart. Vi kom jo ut av
-pandemien med et kostnadsnivå som ikke står
-seg framover. Vi har ikke ressurser til å videreføre en del av de nivåene som ble nødvendig
-underveis. […]
-Det er snakk om en fleksibilitet som ikke nødvendigvis koster mer. Det å bytte arbeidssted og
-kunne brukes på ulike måter, det burde ikke nødvendigvis medføre mer lønn. Det er det ene. Og
-så er det jo også det med å jobbe ekstra og få betaling for det. […]
-[D]et er helt åpenbart at vi ikke bare kan
-bemanne oss opp og ha større ledig kapasitet til
-vanlig. Det må være en mer fleksibel måte å løse
-det på. Noe tror jeg handler om avtaleverk og at
-vi er litt stive i strukturen.»43
-En fordel med nasjonale kriseavtaler, er at det kan
-være mulig å vurdere flere virksomheter under ett
-og lage felles «kjøreregler» innenfor rammene av
-lovgivningen. Derfor bør det ses på om kriseavtaler også kan omfatte private virksomheter, fastleger og avtalespesialister. En eventuell prosess for
-inngåelse av kriseavtaler bør bygge på den nordiske modellen, hvor partene i arbeidslivet
-sammen tar ansvar for å utvikle løsninger innenfor
-rammen av lovgivningen.
-Basert på erfaringer fra håndteringen av
-covid-19-pandemien, mener Koronautvalget at
-dagens regel- og avtaleverk bør bli bedre tilpasset
-til behovene for fleksibilitet i pandemier og andre
-langvarige helsekriser. Private aktører vil ha en
-viktig rolle i helseberedskapen, og denne rollen
-41
+Ifølge administrerende direktør i Helse Sør-Øst RHF, Terje Rootwelt er det en fordel om det foreligger klare avtaler om omdisponering av personell på forhånd. I forklaringen til Koronautvalget uttalte Rootwelt følgende om behovet for et bedre avtaleverk:
 
-Ibid.
-Forklaring, forbundsleder i Sykepleierforbundet Lill Sverresdatter Larsen, 13. desember 2022.
-43 Forklaring, administrerende direktør i Helse Sør-Øst RHF,
-Terje Rootwelt, 16. januar 2023.
-42
+*«Jeg tror man må ha mer klare avtaler om dette på forhånd, men at det har vært vanskelig å komme fram til det med en styring og et betalingsnivå som er gjennomførbart. Vi kom jo ut av pandemien med et kostnadsnivå som ikke står seg framover. Vi har ikke ressurser til å videreføre en del av de nivåene som ble nødvendig underveis. \[…\]*
 
-[Side 200]
+*Det er snakk om en fleksibilitet som ikke nødvendigvis koster mer. Det å bytte arbeidssted og kunne brukes på ulike måter, det burde ikke nødvendigvis medføre mer lønn. Det er det ene. Og så er det jo også det med å jobbe ekstra og få betaling for det. \[…\]*
 
-198
+*\[D\]et er helt åpenbart at vi ikke bare kan bemanne oss opp og ha større ledig kapasitet til vanlig. Det må være en mer fleksibel måte å løse det på. Noe tror jeg handler om avtaleverk og at vi er litt stive i strukturen.»*[^548]
 
-Kapittel 13
+En fordel med nasjonale kriseavtaler, er at det kan være mulig å vurdere flere virksomheter under ett og lage felles «kjøreregler» innenfor rammene av lovgivningen. Derfor bør det ses på om kriseavtaler også kan omfatte private virksomheter, fastleger og avtalespesialister. En eventuell prosess for inngåelse av kriseavtaler bør bygge på den nordiske modellen, hvor partene i arbeidslivet sammen tar ansvar for å utvikle løsninger innenfor rammen av lovgivningen.
 
-NOU 2023: 16
+Basert på erfaringer fra håndteringen av covid-19-pandemien, mener Koronautvalget at dagens regel- og avtaleverk bør bli bedre tilpasset til behovene for fleksibilitet i pandemier og andre langvarige helsekriser. Private aktører vil ha en viktig rolle i helseberedskapen, og denne rollen bør tydeliggjøres i beredskapsplaner, og regel- og avtaleverk.
 
-Evaluering av pandemihåndteringen
+### Samhandling mellom helseforetak og kommuner
 
-bør tydeliggjøres i beredskapsplaner, og regel- og
-avtaleverk.
+Håndteringen av covid-19-pandemien stilte høye krav til samarbeid mellom kommuner og helseforetak for å kunne ivareta befolkningens behov for helse- og omsorgstjenester. Gjeldende føringer i regelverk og nasjonale anbefalinger knyttet til samhandling mellom kommune- og spesialisthelsetjenesten står beskrevet i Helsedirektoratets råd for pandemiplanlegging fra 2019.[^549] Det skal blant annet fremkomme av planer og avtaler mellom kommunene og helseforetakene hvordan de skal samordne håndteringen av mange alvorlig syke.
 
-13.2.4 Samhandling mellom helseforetak og
-kommuner
-Håndteringen av covid-19-pandemien stilte høye
-krav til samarbeid mellom kommuner og helseforetak for å kunne ivareta befolkningens behov
-for helse- og omsorgstjenester. Gjeldende føringer
-i regelverk og nasjonale anbefalinger knyttet til
-samhandling mellom kommune- og spesialisthelsetjenesten står beskrevet i Helsedirektoratets
-råd for pandemiplanlegging fra 2019.44 Det skal
-blant annet fremkomme av planer og avtaler mellom kommunene og helseforetakene hvordan de
-skal samordne håndteringen av mange alvorlig
-syke.
-I foretaksmøte 23. juni 2022 ba Helse- og
-omsorgsdepartementet de regionale helseforetakene om å gi en oppsummering av erfaringer og
-læringspunkter knyttet til behovet for fleksibilitet
-blant annet mellom kommuner og spesialisthelsetjenesten.45 Koronautvalgets gjennomgang av de
-regionale helseforetakenes besvarelse til HOD
-viser blant annet at det ble etablert formelle samarbeid mellom helseforetakene og kommunene i
-opptaksområdet. Disse bygget i hovedsak på
-eksisterende strukturer og avtaler.46 Gjennom
-pandemien var det vanlig at representanter fra
-sykehusene og kommunelegene hadde jevnlige
-møter på operativt nivå, så ofte som ukentlig i forbindelse med de største smittetoppene.
-Koronautvalget mener at god samhandling
-mellom spesialist- og kommunehelsetjenesten er
-viktig særlig i en krise, både for at knappe ressurser utnyttes best mulig og for at befolkningen skal
-få et best mulig helsetilbud. I det videre arbeidet
-med å styrke beredskapskapasiteten og fleksibiliteten i helse- og omsorgstjenesten, bør aktørene
-bygge videre på erfaringer fra beredskapssamarbeidet som utviklet seg mellom sykehusene og
-kommunene under pandemien. Det som fungerte
-godt bør bevares og videreutvikles. I møte med en
-større fremtidig krise blir det særlig viktig å ha
-gode planer for hvordan aktører på tvers av helseog omsorgstjenesten kan håndtere et stort antall
-pasienter og utnytte felles kapasitet.
+I foretaksmøte 23. juni 2022 ba Helse- og omsorgsdepartementet de regionale helseforetakene om å gi en oppsummering av erfaringer og læringspunkter knyttet til behovet for fleksibilitet blant annet mellom kommuner og spesialisthelsetjenesten.[^550] Koronautvalgets gjennomgang av de regionale helseforetakenes besvarelse til HOD viser blant annet at det ble etablert formelle samarbeid mellom helseforetakene og kommunene i opptaksområdet. Disse bygget i hovedsak på eksisterende strukturer og avtaler.[^551] Gjennom pandemien var det vanlig at representanter fra sykehusene og kommunelegene hadde jevnlige møter på operativt nivå, så ofte som ukentlig i forbindelse med de største smittetoppene.
 
-Regjeringen skal legge frem forslag til en
-nasjonal helse- og samhandlingsplan for Stortinget høsten 2023.47 Det overordnede målet i denne
-meldingen er å sikre sømløse pasientforløp og
-gode tjenester i hele landet. Stortingsmeldingen
-skal dekke både den kommunale helse- og
-omsorgstjenesten og spesialisthelsetjenesten.
-Koronautvalget legger til grunn at det i meldingen
-vil komme anbefalinger som vil bidra til bedre
-samhandling også i kriser.
+Koronautvalget mener at god samhandling mellom spesialist- og kommunehelsetjenesten er viktig særlig i en krise, både for at knappe ressurser utnyttes best mulig og for at befolkningen skal få et best mulig helsetilbud. I det videre arbeidet med å styrke beredskapskapasiteten og fleksibiliteten i helse- og omsorgstjenesten, bør aktørene bygge videre på erfaringer fra beredskapssamarbeidet som utviklet seg mellom sykehusene og kommunene under pandemien. Det som fungerte godt bør bevares og videreutvikles. I møte med en større fremtidig krise blir det særlig viktig å ha gode planer for hvordan aktører på tvers av helse- og omsorgstjenesten kan håndtere et stort antall pasienter og utnytte felles kapasitet.
 
-13.2.5 Planverk og øvelser for helsekriser
-Helse- og omsorgstjenesten er dimensjonert og
-bemannet for befolkningens vanlige behov for tjenester. Store smitteutbrudd og andre helsekriser
-kan medføre at den ordinære kapasiteten ikke
-strekker til. Det skal derfor finnes planer for hvordan dette skal håndteres både i spesialisthelsetjenesten og i den kommunale helse- og omsorgstjenesten.
-I Koronakommisjonens første rapport konkluderte de med at myndighetene ikke var godt nok
-forberedt da den omfattende og alvorlige covid-19pandemien kom. Dette til tross for at myndighetene visste at det var høy sannsynlighet for en pandemi med store konsekvenser for liv og helse,
-samfunnsstabilitet, og økonomi.48 Koronakommisjonens kritikk handlet om svakheter i beredskapsplanverket som fantes, blant annet at regjeringen ikke hadde planer for å håndtere inngripende, nasjonale kontaktreduserende tiltak, og at
-planene ikke omfattet scenarioer for langvarige
+Regjeringen skal legge frem forslag til en nasjonal helse- og samhandlingsplan for Stortinget høsten 2023.[^552] Det overordnede målet i denne meldingen er å sikre sømløse pasientforløp og gode tjenester i hele landet. Stortingsmeldingen skal dekke både den kommunale helse- og omsorgstjenesten og spesialisthelsetjenesten. Koronautvalget legger til grunn at det i meldingen vil komme anbefalinger som vil bidra til bedre samhandling også i kriser.
 
-Figur 13.4 Pandemiøvelse ved Helse Bergen i 2020.
+### Planverk og øvelser for helsekriser
+
+Helse- og omsorgstjenesten er dimensjonert og bemannet for befolkningens vanlige behov for tjenester. Store smitteutbrudd og andre helsekriser kan medføre at den ordinære kapasiteten ikke strekker til. Det skal derfor finnes planer for hvordan dette skal håndteres både i spesialisthelsetjenesten og i den kommunale helse- og omsorgstjenesten.
+
+Pandemiøvelse ved Helse Bergen i 2020.
+
 Foto: Katrine Sunde, Helse Bergen HF
 
-44
+I Koronakommisjonens første rapport konkluderte de med at myndighetene ikke var godt nok forberedt da den omfattende og alvorlige covid-19-pandemien kom. Dette til tross for at myndighetene visste at det var høy sannsynlighet for en pandemi med store konsekvenser for liv og helse, samfunnsstabilitet, og økonomi.[^553] Koronakommisjonens kritikk handlet om svakheter i beredskapsplanverket som fantes, blant annet at regjeringen ikke hadde planer for å håndtere inngripende, nasjonale kontaktreduserende tiltak, og at planene ikke omfattet scenarioer for langvarige pandemier. Videre påpekte Koronakommisjonen at det ikke var øvd på et pandemiscenario der store deler av samfunnet ble stengt ned. Den nasjonale helseøvelsen i 2018 hadde for eksempel ikke øvd på pandemi, eller smittevern som hovedtema.[^554] At en alvorlig smittsom sykdom vil innebære en stor belastning for helsevesenet var imidlertid beskrevet i DSBs pandemiscenario fra 2019. Det var påpekt risiko knyttet til at helsepersonell vil bli syke, og at kapasiteten dermed vil bli redusert. Videre, var det i DSBs scenario vist til erfaringene fra influensapandemien i 2009 og sårbarheten knyttet til begrenset intensivkapasitet ved sykehusene.[^555]
 
-Nettdokument, Helsedirektoratet (2019). Pandemiplanlegging. Oslo: Helsedirektoratet (sist faglig oppdatert 13.
-november 2019, lest 13. april 2023).
-45 Protokoll fra foretaksmøte med de regionale helseforetakene 23. juni 2022.
-46 E-post, Helse- og omsorgsdepartementet til Koronautvalget, 30. mars 2023.
+I helsemyndighetenes arbeid med å følge opp erfaringer og læringspunkter fra pandemihåndteringen, er det identifisert behov for å videreutvikle nasjonal helse- og beredskapsplan, tilhørende planverk, inkludert scenarioer, og innretting av nasjonale helseøvelser.[^556] Koronautvalget er av den oppfatning at myndighetene i større grad må ta høyde for tverrsektoriell risiko og samfunnsmessige konsekvenser ved en større helsekrise. Krisescenarioene bør for eksempel fange opp hvordan sannsynlighet, konsekvenser og usikkerhet på ulike samfunnsområder påvirker hverandre gjensidig og samfunnet som helhet. Arbeidet med disse scenarioene bør være koblet på det øvrige plan- og scenarioarbeidet for helseberedskapen.
 
-47
+Koronautvalget legger til grunn at Helse- og omsorgsdepartementets arbeid med ny stortingsmelding om helseberedskap vil bidra til en videreutvikling av det nasjonale rammeverket for helseberedskap, og foreslå ytterligere tiltak som kan forbedre planene og øvelsene i møte med en fremtidig helsekrise.
 
-Nettartikkel, regjeringen.no, 4. august 2022, «Nasjonal
-helse- og omsorgsplan», regjeringens hjemmesider.
-48 Rapport, DSB, februar 2019, «Analyser av krisescenario
-2019». Analysene omhandler risiko knyttet til katastrofale
-hendelser som kan ramme det norske samfunnet og som
-Norge bør være forberedt på.
+### Tilgang på smittevernutstyr og legemidler
 
-[Side 201]
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-pandemier. Videre påpekte Koronakommisjonen
-at det ikke var øvd på et pandemiscenario der
-store deler av samfunnet ble stengt ned. Den
-nasjonale helseøvelsen i 2018 hadde for eksempel
-ikke øvd på pandemi, eller smittevern som hovedtema.49 At en alvorlig smittsom sykdom vil innebære en stor belastning for helsevesenet var imidlertid beskrevet i DSBs pandemiscenario fra 2019.
-Det var påpekt risiko knyttet til at helsepersonell
-vil bli syke, og at kapasiteten dermed vil bli redusert. Videre, var det i DSBs scenario vist til erfaringene fra influensapandemien i 2009 og sårbarheten knyttet til begrenset intensivkapasitet ved
-sykehusene.50
-I helsemyndighetenes arbeid med å følge opp
-erfaringer og læringspunkter fra pandemihåndteringen, er det identifisert behov for å videreutvikle nasjonal helse- og beredskapsplan, tilhørende
-planverk, inkludert scenarioer, og innretting av
-nasjonale helseøvelser.51 Koronautvalget er av
-den oppfatning at myndighetene i større grad må
-ta høyde for tverrsektoriell risiko og samfunnsmessige konsekvenser ved en større helsekrise.
-Krisescenarioene bør for eksempel fange opp
-hvordan sannsynlighet, konsekvenser og usikkerhet på ulike samfunnsområder påvirker hverandre
-gjensidig og samfunnet som helhet. Arbeidet med
-disse scenarioene bør være koblet på det øvrige
-plan- og scenarioarbeidet for helseberedskapen.
-Koronautvalget legger til grunn at Helse- og
-omsorgsdepartementets arbeid med ny stortingsmelding om helseberedskap vil bidra til en videreutvikling av det nasjonale rammeverket for helseberedskap, og foreslå ytterligere tiltak som kan
-forbedre planene og øvelsene i møte med en fremtidig helsekrise.
-
-13.2.6 Tilgang på smittevernutstyr og
-legemidler
 Smittevernutstyr
-Smittevernutstyr er en viktig innsatsfaktor for å
-bekjempe smitte i en pandemi. Koronakommisjonens gransking i den første delrapporten viste at
-49
 
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, del II Beredskap og forberedthet, side 53-123.
-50
-Rapport, DSB, februar 2019, «Analyser av krisescenario
-2019», side 66-67.
-51 E-post, Helsedirektoratet til Koronautvalget, 25. oktober
-2022. Vedlegg i e-post: «Anbefalte endringer i helseberedskapen – innspill til ny stortingsmelding om helseberedskap»; E-post, HOD til Koronautvalget, 3. november 2022,
-«FHIs innspill til stortingsmelding om helseberedskap»;
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, avsnitt 6.1.
+Smittevernutstyr er en viktig innsatsfaktor for å bekjempe smitte i en pandemi. Koronakommisjonens gransking i den første delrapporten viste at det var stor mangel på smittevernutstyr på norske sykehus og i kommuner da covid-19-pandemien brøt ut i mars 2020.[^557] Lagrene var små og utstyr måtte rasjoneres ut, og situasjonen satte helsetjenestene under press. Selv om myndighetene ikke hadde tilstrekkelig forståelse for situasjonen i de globale markedene, lyktes de likevel i å skaffe smittevernutstyr til landet under svært vanskelige omstendigheter, ifølge Koronakommisjonen. Basert på erfaringene fra denne tidlige fasen av pandemien, anbefalte kommisjonen myndighetene å etablere et nasjonalt beredskapslager for smittevernutstyr for å styrke den fremtidige pandemiberedskapen. Videre, mente kommisjonen at regjeringen burde ta ansvar for både å dimensjonere og finansiere beredskapslagringen.[^558]
 
-199
+Oppbyggingen av et nasjonalt beredskapslager for smittevernutstyr startet i 2020. I mars opprettet myndighetene en midlertidig nasjonal innkjøps- og distribusjonsordning for smittevernutstyr som gjaldt ut 2020. I 2021 ble det bevilget 771 millioner kroner som et engangsbeløp til oppbygging, drift og vedlikehold av et lager for smittevernutstyr. De regionale helseforetakene fikk i foretaksmøtet 11. oktober 2021 oppdrag om å utrede og ta ansvar for et permanent nasjonalt beredskapslager for smittevernutstyr med utgangspunkt i lageret som ble etablert under pandemien. De regionale helseforetakene utredet ulike handlingsalternativer, og tiltak som kan redusere årlig kassering og kostnader. Blant tiltakene som var foreslått er inngåelse av beredskapsavtaler med produsenter om produksjon ved behov, og inngåelse av avtaler hvor det er avtalefestet at varepartier kan returneres.
 
-Kapittel 13
+Det er bygget opp et nasjonalt beredskapslager for smittevernutstyr, der de regionale helseforetakene eier varebeholdningen, og står for innkjøp, rullering og utvikling av lageret. Lageret er videreført i 2023 og skal ha et volum tilsvarende seks måneders pandemibruk.[^559] Målgruppen for nasjonal beredskapslagring av smittevernutstyr er den offentlige helse- og omsorgstjenesten og andre offentlige og private instanser som etter lov, eller avtale, ivaretar helse- og omsorgstjenester til befolkningen, offentlig tannhelsetjeneste og militær sanitet. Den langsiktige løsningen for robust forsyning av smittevernutstyr vil basere seg på det nasjonale beredskapslageret, forskriftsfestede krav om beredskapslagre for sykehus, kommuner, beredskapsavtaler med leverandører og mulige avtaler om nasjonal produksjon.[^560] Ved en pandemi eller annen helsekrise vil uttak av smittevernutstyr fra det nasjonale lageret bli styrt av Helsedirektoratet.[^561]
 
-det var stor mangel på smittevernutstyr på norske
-sykehus og i kommuner da covid-19-pandemien
-brøt ut i mars 2020.52 Lagrene var små og utstyr
-måtte rasjoneres ut, og situasjonen satte helsetjenestene under press. Selv om myndighetene ikke
-hadde tilstrekkelig forståelse for situasjonen i de
-globale markedene, lyktes de likevel i å skaffe
-smittevernutstyr til landet under svært vanskelige
-omstendigheter, ifølge Koronakommisjonen.
-Basert på erfaringene fra denne tidlige fasen av
-pandemien, anbefalte kommisjonen myndighetene å etablere et nasjonalt beredskapslager for
-smittevernutstyr for å styrke den fremtidige pandemiberedskapen. Videre, mente kommisjonen at
-regjeringen burde ta ansvar for både å dimensjonere og finansiere beredskapslagringen.53
-Oppbyggingen av et nasjonalt beredskapslager for smittevernutstyr startet i 2020. I mars opprettet myndighetene en midlertidig nasjonal innkjøps- og distribusjonsordning for smittevernutstyr som gjaldt ut 2020. I 2021 ble det bevilget
-771 millioner kroner som et engangsbeløp til oppbygging, drift og vedlikehold av et lager for smittevernutstyr. De regionale helseforetakene fikk i
-foretaksmøtet 11. oktober 2021 oppdrag om å
-utrede og ta ansvar for et permanent nasjonalt
-beredskapslager for smittevernutstyr med
-utgangspunkt i lageret som ble etablert under
-pandemien. De regionale helseforetakene utredet
-ulike handlingsalternativer, og tiltak som kan
-redusere årlig kassering og kostnader. Blant tiltakene som var foreslått er inngåelse av beredskapsavtaler med produsenter om produksjon ved
-behov, og inngåelse av avtaler hvor det er avtalefestet at varepartier kan returneres.
-Det er bygget opp et nasjonalt beredskapslager for smittevernutstyr, der de regionale helseforetakene eier varebeholdningen, og står for innkjøp, rullering og utvikling av lageret. Lageret er
-videreført i 2023 og skal ha et volum tilsvarende
-seks måneders pandemibruk.54 Målgruppen for
-nasjonal beredskapslagring av smittevernutstyr er
-den offentlige helse- og omsorgstjenesten og
-andre offentlige og private instanser som etter lov,
-eller avtale, ivaretar helse- og omsorgstjenester til
-befolkningen, offentlig tannhelsetjeneste og militær sanitet. Den langsiktige løsningen for robust
-forsyning av smittevernutstyr vil basere seg på det
-52
+I tillegg har Helsedirektoratet utredet forskriftsfesting av krav til kommuner og helseregioner om å sørge for tilgang til smittevernutstyr og personlig verneutstyr, tilsvarende seks måneders normalforbruk, ved å ha beredskapslager eller avtaler med leverandører i Norge. Forslag om forskriftsendring planlegges sendt på høring i 2023.[^562]
 
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 101.
-53 Ibid.
-54 Prop. 1 S (2022–2023) Helse- og omsorgsdepartementet, s.
-72; Brev, Helse- og omsorgssektoren til Koronautvalget, 20.
-desember 2022.
-
-[Side 202]
-
-200
-
-Kapittel 13
-
-NOU 2023: 16
-
-Evaluering av pandemihåndteringen
-
-nasjonale beredskapslageret, forskriftsfestede
-krav om beredskapslagre for sykehus, kommuner, beredskapsavtaler med leverandører og
-mulige avtaler om nasjonal produksjon.55 Ved en
-pandemi eller annen helsekrise vil uttak av smittevernutstyr fra det nasjonale lageret bli styrt av
-Helsedirektoratet.56
-I tillegg har Helsedirektoratet utredet forskriftsfesting av krav til kommuner og helseregioner om å sørge for tilgang til smittevernutstyr og
-personlig verneutstyr, tilsvarende seks måneders
-normalforbruk, ved å ha beredskapslager eller
-avtaler med leverandører i Norge. Forslag om forskriftsendring planlegges sendt på høring i
-2023.57
 Legemiddelberedskap
-Norsk legemiddelberedskap er basert på ansvarsprinsippet som følger av helseberedskapsloven.
-Beredskapsansvaret for lager av legemidler følger
-dermed finansieringsansvaret, som igjen følger
-behandlingsansvaret. Spesialisthelsetjenesten har
-ansvaret for beredskapslager av legemidler brukt
-i spesialisthelsetjenesten. Kommunene har beredskapsansvar for legemidler som brukes i kommunale institusjoner. For legemidler som utleveres i
-apotek og finansieres av trygd eller pasient, ivaretas beredskapsansvaret gjennom grossistforskriften § 5 som gir grossistene plikt til å lagre visse
-legemidler.58
-Koronakommisjonen gransket legemiddelberedskapen i Norge i den første delrapporten.59 Et
-av funnene var at legemiddelmangel var en utfordring både i Norge og internasjonalt, og hadde
-vært det i lang tid. Videre konstaterte helsemyndighetene selv at det var store svakheter ved legemiddelberedskapen før covid-19-pandemien. Det
-oppstod imidlertid ikke en reell mangel på legemidler i 2020 da pandemien brøt ut i Norge.60
-En gjennomgang av legemiddelberedskapen i
-2019, utført av Helsedirektoratet61 på oppdrag fra
-HOD, bidro til at helsemyndighetene kunne
-55
 
-Jf. Prop. 1 S (2022–2023) Helse- og omsorgsdepartementet, s.
-41.
-56
-Se dokument nr. 15:1994 (2021–2022) Skriftlig spørsmål fra
-Bård Hoksrud (FrP) til helse- og omsorgsministeren.
-Besvart 19.05.2022 av helse- og omsorgsministeren.
-57 Brev, HOD til Koronautvalget, 20. desember 2022.
-58 Høring, Helse- og omsorgsdepartementet, 4. oktober 2022,
-«Høringsnotat – Innretning av legemiddelberedskapsplager for primærhelsetjenesten».
-59 NOU 2021: 6 Myndighetenes håndtering av koronapandemien, kapittel 10.
-60
-NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 94.
+Norsk legemiddelberedskap er basert på ansvarsprinsippet som følger av helseberedskapsloven. Beredskapsansvaret for lager av legemidler følger dermed finansieringsansvaret, som igjen følger behandlingsansvaret. Spesialisthelsetjenesten har ansvaret for beredskapslager av legemidler brukt i spesialisthelsetjenesten. Kommunene har beredskapsansvar for legemidler som brukes i kommunale institusjoner. For legemidler som utleveres i apotek og finansieres av trygd eller pasient, ivaretas beredskapsansvaret gjennom grossistforskriften § 5 som gir grossistene plikt til å lagre visse legemidler.[^563]
 
-komme raskt i gang med tiltak for å sikre legemiddelforsyningen i starten av pandemien.62 I løpet av
-våren 2020 ble det initiert etablering av utvidede
-beredskapslagre rettet mot primær- og spesialisthelsetjenesten gjennom omfattende grossistavtaler om beredskapslagring. Legemiddelverket forvaltet avtalen for primærhelsetjenesten med de tre
-apotekgrossistene på oppdrag fra Helsedirektoratet. I mai 2020 ble det besluttet at Helse Vest RHF
-skulle ha ansvaret for å bygge opp beredskapslager med seks måneders forbruk av legemidler til
-både spesialisthelsetjenesten og primærhelsetjenesten.63 Det er nasjonalt senter for legemiddelmangel og legemiddelberedskap i spesialisthelsetjenesten (Mangelsenteret) som overvåker forsyningssituasjonen for legemidler, kartlegger
-omfanget av problemer og mangelsituasjoner som
-oppstår, finner løsninger og kommuniserer disse
-til berørte parter.
-Forslag til fremtidig innretning for beredskapslager for legemidler i primærhelsetjenesten,
-inkludert ny kompensasjonsmodell, ble sendt på
-høring i oktober 2022 med høringsfrist i januar
-2023. I høringen ble det også foreslått å opprette
-et Nasjonalt legemiddelberedskapsråd for å sikre
-større grad av koordinering. Saken er under
-behandling i HOD.
+Koronakommisjonen gransket legemiddelberedskapen i Norge i den første delrapporten.[^564] Et av funnene var at legemiddelmangel var en utfordring både i Norge og internasjonalt, og hadde vært det i lang tid. Videre konstaterte helsemyndighetene selv at det var store svakheter ved legemiddelberedskapen før covid-19-pandemien. Det oppstod imidlertid ikke en reell mangel på legemidler i 2020 da pandemien brøt ut i Norge.[^565]
 
-13.2.7 Nasjonal prioritering av
-helseberedskap
-Det er Helse- og omsorgsdepartementet som har
-ansvaret for å fastsette ambisjonsnivået og de
-overordnede rammebetingelsene for nasjonal helseberedskap. HOD har igangsatt flere initiativer
-for å styrke den fremtidige helseberedskapen,
-blant annet arbeidet med en melding til Stortinget
-om helseberedskap. HOD skal også gå gjennom
-regelverket på området som følge av erfaringene
-fra pandemihåndteringen.64
-Ifølge Helsedirektoratets innspill til helseberedskapsmeldingen er det avgjørende å finne en god
-balanse mellom prioriterte ressurser til beredskap
-og ressurser til daglig drift av helsetjenesten. På
-et overordnet nivå ligger fremtidens løsninger på
-dette «beredskapsdilemmaet» trolig i å prioritere
-61
+En gjennomgang av legemiddelberedskapen i 2019, utført av Helsedirektoratet[^566] på oppdrag fra HOD, bidro til at helsemyndighetene kunne komme raskt i gang med tiltak for å sikre legemiddelforsyningen i starten av pandemien.[^567] I løpet av våren 2020 ble det initiert etablering av utvidede beredskapslagre rettet mot primær- og spesialisthelsetjenesten gjennom omfattende grossistavtaler om beredskapslagring. Legemiddelverket forvaltet avtalen for primærhelsetjenesten med de tre apotekgrossistene på oppdrag fra Helsedirektoratet. I mai 2020 ble det besluttet at Helse Vest RHF skulle ha ansvaret for å bygge opp beredskapslager med seks måneders forbruk av legemidler til både spesialisthelsetjenesten og primærhelsetjenesten.[^568] Det er nasjonalt senter for legemiddelmangel og legemiddelberedskap i spesialisthelsetjenesten (Mangelsenteret) som overvåker forsyningssituasjonen for legemidler, kartlegger omfanget av problemer og mangelsituasjoner som oppstår, finner løsninger og kommuniserer disse til berørte parter.
 
-Nettdokument, Helsedirektoratet (2019). Nasjonal legemiddelberedskap. Oslo: Helsedirektoratet (sist faglig oppdatert 21. juni 2019, lest 14. april 2023).
-62 NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 94.
-63 Referat fra foretaksmøte med alle RFH-ene 8. mai 2020,
-henvist til i NOU 2021: 6 Myndighetenes håndtering av koronapandemien, side 97.
-64 Brev, HOD til Koronautvalget, 20. desember 2022.
+Forslag til fremtidig innretning for beredskapslager for legemidler i primærhelsetjenesten, inkludert ny kompensasjonsmodell, ble sendt på høring i oktober 2022 med høringsfrist i januar 2023. I høringen ble det også foreslått å opprette et Nasjonalt legemiddelberedskapsråd for å sikre større grad av koordinering. Saken er under behandling i HOD.
+
+### Nasjonal prioritering av helseberedskap
+
+Det er Helse- og omsorgsdepartementet som har ansvaret for å fastsette ambisjonsnivået og de overordnede rammebetingelsene for nasjonal helseberedskap. HOD har igangsatt flere initiativer for å styrke den fremtidige helseberedskapen, blant annet arbeidet med en melding til Stortinget om helseberedskap. HOD skal også gå gjennom regelverket på området som følge av erfaringene fra pandemihåndteringen.[^569]
+
+Ifølge Helsedirektoratets innspill til helseberedskapsmeldingen er det avgjørende å finne en god balanse mellom prioriterte ressurser til beredskap og ressurser til daglig drift av helsetjenesten. På et overordnet nivå ligger fremtidens løsninger på dette «beredskapsdilemmaet» trolig i å prioritere ressurser som i størst mulig grad både understøtter daglig drift og styrker beredskapen ved sjeldne hendelser. Det er for eksempel dyrt å bygge opp intensivkapasitet, og det koster å ha en intensivberedskap som er tilstrekkelig også i krisetider.[^570] I 2019 satte Helsedirektoratet ned en arbeidsgruppe som ser på finansieringssystemet på intensivområdet. Formålet med arbeidsgruppen var blant annet å se på hvordan finansieringssystemet kan bli mer treffsikkert for intensivpasienter. Gjennomgangen ble satt på pause i mars 2020 på grunn av pandemien.[^571]
+
+Pandemien medførte store utgifter for både kommuner og helseforetak. I kommuneproposisjonen for 2023 fremkommer det at merutgifter og mindreinntekter anslås til om lag 16,1 milliarder kroner, fordelt med om lag 12 milliarder kroner for kommunene og om lag 4,1 milliarder kroner for fylkeskommunene. Kommunene mottok gjennom pandemien kompenserende bevilgninger over statsbudsjettet. Ses 2020 og 2021 under ett, er kommunene samlet kompensert utover de anslåtte virkningene av pandemien.[^572]
+
+I budsjettproposisjonen for Helse- og omsorgsdepartementet for 2023 fremkommer det at sykehusene hadde betydelige merutgifter og reduserte inntekter som følge av virusutbruddet i 2020, 2021 og i første halvår 2022, som ble kompensert med særskilte bevilgningsøkninger.[^573] Ifølge HOD økte kostnadene i spesialisthelsetjenesten blant annet som følge av høyere beredskapsnivå og behovet for å sikre tilstrekkelig bemanning. Samtidig gikk elektiv behandling ned.[^574]
+
+Som en konsekvens av pandemien, traff både den forrige og den nåværende regjeringen vedtak om å styrke intensivkapasiteten i sykehusene. I bevilgningsforslaget for 2023 tar regjeringen utgangspunkt i saldert budsjett 2022, noe som betyr at endringer i bevilgninger som følge av kompensasjon for pandemikostnader og tapte innsatsstyrte inntekter i tilleggsproposisjoner i 2022, ikke videreføres. Av den økte grunnfinansieringen på 700 millioner kroner, skal 150 millioner kroner gå til døgnbehandling innenfor psykisk helsevern. De resterende 550 millionene skal gi rom for vedlikehold, investeringer, beredskapsarbeid og intensivkapasitet.
+
+De regionale helseforetakene leverte en statusrapport 15. juni 2022 på oppdrag gitt i 2021 og 2022, hvor de kom til enighet rundt felles definisjoner av ulike sengekategorier, og det ble beskrevet ulike tiltak for å møte et eventuelt behov for økt intensivkapasitet på kort sikt, med blant annet tiltak innenfor bemanning, kompetanse, areal, utstyr og organisering av behandlingstilbudet.[^575] Ifølge helse- og omsorgsminister Ingvild Kjerkol er en slik enighet om felles definisjoner viktig for det videre arbeidet med å styrke den nasjonale intensivberedskapen. I forklaringen til Koronautvalget sa Kjerkol følgende:
+
+*«På intensivberedskapen vil jeg si det er en viktig avklaring at intensivfagmiljøet nå er enig om hva en intensivplass er. Det må være et kraftig lærepunkt, at den typen faglig uenighet har vi ikke råd til å holde oss med. Det er lagt på plass. Da har vi samme virkelighet, og da må vi planlegge ut ifra det. Helseregionene har jo beskrevet en fleksibel kapasitet nå, det mener jeg er viktig for beredskapen, at vi vet hvor stor intensivkapasitet vi kan mobilisere opp gitt en krise.*
+
+*\[…\]*
+
+*Vi har jo behov for økt intensivkapasitet i fredstid også fordi demografien er i stor endring, men den kan ikke være ubegrenset. Dette er en veldig ressurskrevende del av tjenesten. Her opplever jeg at ulike deler av tjenesten også jobber godt med å utvikle nye modeller*.»[^576]
+
+Også departementsråden i HOD, Cathrine Lofthus, mente intensivkapasiteten må økes noe, og at det er behov for å jobbe mer systematisk med hvordan kapasiteten kan skaleres opp ved behov. I forklaringen til Koronautvalget sa Lofthus at:
+
+*«Sett fra mitt ståsted må grunnkapasiteten økes noe. \[…\] Men vi vil aldri ha en grunnkapasitet som er slik at vi kan håndtere enhver krise, og det blir ikke en god tjeneste engang – for det er ikke nok pasienter i normale tider til at vi får trent nok. Så det som det også må jobbes mer systematisk med, og som må være en del av planverket, er hvordan man skalerer opp.»*[^577]
+
+Prioritering av helseberedskap forutsetter klare føringer og sterkere insentiver. Det er en økonomisk og politisk prioritering å bestemme nivået og å bygge opp beredskap. Hvis Norge skal stå bedre rustet i møte med en ny samfunnskrise hvor helsetjenestene står i frontlinjen, mener Koronautvalget at det er behov for en tydeligere nasjonal prioritering av helseberedskap i form av sterkere insentiver overfor sykehusene og kommunene. Koronautvalget mener at grunnkapasiteten er avgjørende for å håndtere økt belastning i en krise. Det må utvikles løsninger som bidrar til større fleksibilitet i dagens organisering og omdisponering av helsepersonell, både i normaltid og i krisetid.
+
+## Overvåkning av kapasiteten i helse- og omsorgstjenesten i kriser
+
+### Varslings- og rapporteringslinjer
+
+Et viktig mål for regjeringen i håndteringen av pandemien var å holde sykdomsbyrden i befolkningen innenfor det som var håndterbart i helse- og omsorgstjenesten. En viktig oppgave for helsemyndighetene var derfor å overvåke kapasiteten i helsetjenestene og varsle dersom pandemien medførte en kritisk belastning på helsetjenesten.
+
+Helse- og omsorgsdepartementet mottok informasjon om situasjonen i spesialist- og kommunehelsetjenesten fra underliggende virksomheter. Noe informasjon var tilgjengelig daglig og i sanntid, mens annen informasjon ble rapportert ukentlig. HOD gjennomførte også koordineringsmøter med aktørene i sektoren. Deltagelsen og hyppigheten varierte etter behov og i ulike faser av pandemien. Ifølge HOD var møtene med underliggende virksomheter og andre berørte aktører viktige for å få supplerende informasjon både om løpende utvikling, konsekvenser av pandemien og av tiltakene.[^578]
+
+FHI var nasjonalt varslingspunkt for WHO og EU, og utførte helseanalyser og overvåket den nasjonale og internasjonale epidemiologiske situasjonen. FHI vurderte også løpende risikonivået ved covid-19-pandemien, og ga en helhetlig vurdering med vekt på utviklingen i smittesituasjonen, og råd om smittevernstrategi fremover.[^579] Formålet med risikovurderingene var å støtte departementet og kommunene i strategiske valg for å bekjempe pandemien. FHIs ukesrapporter var også en viktig kilde til å belyse utviklingen av pandemien og sykdomsbyrden ved covid-19.
+
+Helsedirektoratet (Hdir) hadde etter delegering fra departementet ansvaret for nasjonal koordinering av sektorens innsats, iverksette nødvendige tiltak, og beskrive et overordnet helhetlig situasjonsbilde for sektoren.[^580] Ansvaret innebar å følge med på, og å rapportere til HOD om behandlingskapasiteten i spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten. Direktoratet oversendte ukentlig rapporter til HOD basert på situasjonsrapportene fra aktørene. Opplysninger om situasjonen i kommunene ble samordnet og rapportert via statsforvalterne til Hdir. De regionale helseforetakene samlet ukentlig inn informasjon fra underliggende helseforetak og oversendte til Helsedirektoratet. Helseforetakene rapporterte blant annet om situasjonsbildet og driftssituasjonen, bemanningssituasjonen, testkapasitet og tilgang til smittevernutstyr og medisinsk forbruksmateriell. Hdir brukte også opplysningene innhentet fra sektoren i sine besvarelser på oppdrag fra HOD i forbindelse med innføring og lettelse av smitteverntiltak.
+
+Helse- og omsorgsdepartementet ønsket i oktober 2021 å vite mer om presset på sykehusenes kapasitet og ba de regionale helseforetakene om å rapportere direkte til departementet om hvor mye elektiv behandling som var tatt ned.[^581] Indikatorene antall innleggelser på sykehus generelt og på intensiv spesielt var ikke lenger ansett å være tilstrekkelig for å beskrive kapasitet og situasjon i sykehusene. Rapporteringen kom i tillegg til ukesrapportene fra Helsedirektoratet. Ifølge fastsatte varslings- og rapporteringslinjer beskrevet i Nasjonal helseberedskapsplan (2018) skal de regionale helseforetakene rapportere til Helsedirektoratet, og ikke direkte til Helse- og omsorgsdepartementet ved kriser.[^582] På bakgrunn av praksisen under pandemien, har de regionale helseforetakene uttrykt behov for å se nærmere på forholdet mellom den formelle styringslinjen i helse- og omsorgssektoren og oppgaver delegert til Helsedirektoratet i kriser.[^583] Til Koronautvalget uttalte administrerende direktør i Helse Sør-Øst RHF, Terje Rootwelt følgende om rapporteringspraksisen under pandemien:
+
+*«Vi synes kanskje at man skal gå opp den strukturen i beredskapsledelsen. Én vei. Og vi mener den veien burde være likere det den er til vanlig, i tråd med likhetsprinsippet. \[…\] Det er ikke noe vits at ting går gjennom direktoratet hvis det er de fire RHF-ene som skal gjøre dette. I praksis skjedde det veldig mange ganger at vi skulle levere noe samlet, og det er vi gode til. Veldig mange av kapasitetsrapportene og annet er jo levert fra RHF-ene sammen. Vi har null problem med å koordinere blant oss fire, men det blir ikke noe lettere hvis det går via direktoratet og de skal si hva vi skal gjøre.»*[^584]
+
+Nærmere om rolle- og ansvarsdelingen mellom Helsedirektoratet og Folkehelseinstituttet
+
+Når det gjelder rolleforståelsen mellom Helsedirektoratet (Hdir) og Folkehelseinstituttet (FHI) har Koronakommisjonen tidligere påpekt at det tok tid for etatene å rendyrke rollene som henholdsvis myndighetsutøver og smittevernfaglig kunnskapsleverandør i krisehåndteringen slik den er beskrevet i smittevernloven.[^585] Ifølge Helsedirektoratets innspill til Helse- og omsorgsdepartementets arbeid med ny helseberedskapsmelding er det behov for å kommunisere roller og ansvar tydeligere internt i helseetatene. Direktoratet mener at dagens lovverk beskriver beredskapsansvar og roller i helseforvaltningen, men at helseetatene må kommunisere dette klarere i egen organisasjon og sørge for at planverk og interne rutiner harmoniserer med lovverket. Når det oppstår oppgaver i gråsonene mellom etatene, må disse avstemmes mellom etatene. Videre, mener Hdir at det er viktig med tilstrekkelig avstand mellom myndighetsutøvelse og kunnskapsleveranser for at de ulike oppgavene skal kunne utføres godt og gi tillit i befolkningen. Derfor bør deres rolle som fagdirektoratet og smittevernmyndighet fortsatt holdes adskilt fra FHIs rolle som nasjonalt smitteverninstitutt og kunnskapsprodusent.[^586]
+
+Ifølge FHI var det uklarheter mellom Hdir og FHI knyttet til forståelse av smittevernloven og planverk, rådgivning til kommuner og regjeringen, samarbeidsformer og kunnskapsproduksjon og bruk av kunnskap. FHI mener at uklarhet om roller og ansvar kan ha en stor kostnad i form av gjentakende behov for koordinering, svekket tillit til helsemyndighetene, dobbeltarbeid og uklar kommunikasjon av råd til befolkning, kommuner og aktører i andre sektorer. I situasjoner hvor kapasitet og tid allerede er strukket tynt, kan det utgjøre en betydelig belastning.[^587] Folkehelseinstituttet ved administrerende direktør Camilla Stoltenberg uttalte følgende til Koronautvalget om rolle- og ansvarsforholdet mellom fagetatene under kriser:
+
+*«Det som på mange måter har vært et dilemma, og som ble klargjort først etter en god stund, det er jo det spesielle i at man i helsesektoren har valgt en modell, eller Helsedepartementet har valgt en modell der de fraviker beredskapsprinsippene, altså: ansvar, nærhet, likhet, og setter inn Helsedirektoratet i krise som de som skal koordinere sektoren på vegne av Helsedepartementet. Det betød jo at det oppsto uklarheter i fortolkningen av hva Folkehelseinstituttet skulle gjøre, hva skulle Helsedirektoratet gjøre og hvordan grenseoppgangene der var. Det er reelle uklarheter. Hvis man leser smittevernloven så ligner de to punktene i paragraf 7, dvs. punktene 7-9 om FHI og 7-10 om Helsedirektoratet, såpass mye på hverandre at man godt kan tolke dem slik at man skal gjøre parallelt arbeid som er overlappende. Man kan også velge å tolke det på en annen måte, men i den situasjonen som oppsto så var realiteten at det var en del parallelt arbeid. Blant annet egne nettsider hos Folkehelseinstituttet og Helsedirektoratet som enten var til å misforstå fordi de sprikte i måten man formulerte seg på, eller faktisk var reelt sett ulike og ga ulike råd til enkeltpersoner og kommuner. Det har jo vi påpekt før pandemien, at er et problem, og det ble forsøkt ryddet opp i rett i forkant av pandemien, men det fortsatte å være en utfordring gjennom pandemien, og særlig fram til vi fikk den avklaringen i brevet fra departementet sent på høsten 2020, der de understreker at Helsedirektoratet har begrenset myndighet og ikke leder, men koordinerer responsen»*.[^588]
+
+Helse- og omsorgsdepartementet etablerte i 2022 et prosjekt med hensikt å gjennomgå den sentrale helseforvaltningen. Hovedmålet med prosjektet var å gi en vurdering av effektiv ressursbruk og avklaring av roller og ansvar mellom etatene, og arbeidsfordelingen mellom etatene og HOD. Beredskapsrelaterte oppgaver, inkludert smittevern og atomberedskap, og digitaliseringsarbeid, skulle vurderes særskilt. Gjennomgangen omfattet etatene Helsedirektoratet, Folkehelseinstituttet, Statens legemiddelverk, Direktoratet for e-helse og Direktoratet for strålevern og atomsikkerhet. Regjeringen la frem et forslag til endringer i organisering, roller og ansvar i den sentrale helseforvaltningen i revidert nasjonalbudsjett for 2023. Samlet skal endringene resultere i en mer kostnadseffektiv og hensiktsmessig organisering med mulighet for bedre støtte til kommunal sektor, tilrettelegging for videre digitalisering og styrket helseberedskap.[^589] Den forrige gjennomgangen var i 2015 i forbindelse med omorganiseringen av den sentrale helseforvaltningen i 2015/2016. Forholdet mellom etatene ble også vurdert da smittevernloven ble revidert i 2019.[^590]
+
+Helse- og omsorgsdepartementet skal sørge for en hensiktsmessig organisering av helseberedskapen og effektive varslings- og rapporteringslinjer i kriser. Selv om Koronautvalgets hovedinntrykk er at koordineringen og samarbeidet mellom aktørene i helse- og omsorgssektoren var omfattende og fungerte godt, er erfaringene at det var behov for å gå gjennom dagens organisering for å tydeliggjøre ansvarsforhold og rapporteringslinjer i regelverk og planverk. Koronautvalget støtter derfor Koronakommisjonens vurdering og anbefaling,[^591] og mener at det er viktig at rolle- ansvarsdelingen mellom Helsedirektoratet og FHI nå tydeliggjøres. Koronautvalget er også av den oppfatning at varslings- og rapporteringslinjene for de regionale helseforetakene i kriser kan forenkles. I den forbindelse bør Helse- og omsorgsdepartementet vurdere om ikke rapporteringen kan sammenfalle med den formelle styringslinjen til de regionale helseforetakene.
+
+### Styringsinformasjon og kvalitet på rapporteringen
+
+Målbare og klare styringsindikatorer og god rapporteringskvalitet er viktig for at nasjonale myndigheter og regjeringen skal få et godt situasjonsbilde av kapasiteten, og eventuell overbelastning, i helsetjenestene under en krise.
+
+I starten av pandemien hadde de statlige myndighetene særlig oppmerksomhet på intensivkapasiteten i sykehusene, og de greide i mindre grad å se at behovene i den kommunale helse- og omsorgstjenesten også var en viktig del av totalbelastningen. Koronautvalgets undersøkelser viser at etter hvert som pandemien dro ut i tid, rettet nasjonale myndigheter større oppmerksomhet mot situasjonen i den kommunale helse- og omsorgstjenesten.
+
+Koronautvalget har gått gjennom helseforetakenes og kommunenes rapportering om situasjonen i helsetjenestene til Helsedirektoratet og departementet. Hovedinntrykket er at det ble rapportert ulikt og ujevnt på styringsindikatorene om kapasitet og overbelastning, blant både kommunene og de regionale helseforetakene. Kriteriene for hva som skulle være utslagsgivende for å rapportere om en kritisk situasjon var ikke tydelige nok, eller likt forstått. Den samlede rapporteringen ga derfor et fragmentert og til tider uklart nasjonalt bilde av situasjonen i den kommunale helsetjenesten og i spesialisthelsetjenesten.[^592] Koronautvalget mener på et generelt grunnlag at styringsinformasjonen og beslutningsgrunnlaget om kapasiteten i helsetjenestene kunne vært bedre.
+
+Gjennomgangen viser at det var enkelte utfordringer knyttet til det å ha et godt situasjonsbilde av belastningen på helse- omsorgstjenesten under pandemien. Utfordringen høsten 2021 viste seg å være mangel på data av god kvalitet som kunne gi et informativt oversiktsbilde av situasjonen i ulike deler av landet. Ett eksempel er Helsedirektoratets innrapporteringssystem for situasjonen i kommunene som startet opp ett år inn i pandemien.[^593] At systemet var nytt gjorde at det ikke fantes sammenligningsgrunnlag fra tidligere perioder. Det var derfor usikkerhet om hvordan innrapportering fra kommunene skulle forstås og brukes i beslutninger om tiltak, hva kommunene baserte sine innrapporteringer på, og om årsakene til belastningen var knyttet til pandemien eller strukturelle utfordringer i tjenestene. Dette førte blant annet til en sak i VG tidlig i 2022 om at Helsedirektoratet hadde meldt om 172 kommuner med utfordrende eller kritisk personellmangel, hvor det viste seg at kun fem hadde meldt om kritiske forhold og at samtlige hadde snudd uken etter.[^594]
+
+I forbindelse med regjeringens revisjon av nasjonal strategi og beredskapsplan for håndteringen av covid-19-pandemien høsten 2021, meldte både FHI og Helsedirektoratet om behovet for en tydelig definisjon av «overbelastet».[^595] I Helsedirektoratets besvarelse påpekte de at «overbelastet» ikke var tydelig definert, og viste til følgende innspill fra CBRNE-senteret:[^596]
+
+*«Begrepsbruken kan med fordel defineres bedre. Hva menes med f.eks. overbelastning, overskridelse av kapasitet, betydelig sykdomsbyrde, betydelig belastning på helsetjenesten og belastning på behandlingskapasiteten? Når er antallet pasienter «håndterbart»? Det fremstår for oss som uklart hvem som vurderer dette og i henhold til hvilke kriterier.»*
+
+FHI skrev at det var behov for *«bedre styringsindikatorer for belastning på helsetjenesten, og hvordan disse best kan brukes i helhetlige nytte-kost-vurderinger av konsekvenser for helsetjenesten og konsekvenser av tiltakene, både lokalt, regionalt og nasjonalt»*. Samtidig etterlyste FHI *«en tydeligere rapportering av belastningen i helsetjenestene, hva de har kapasitet og beredskap for og hvilke konsekvenser det vil ha for annen virksomhet med økende antall av innlagte med covid-19 separat, men også samlet for andre luftveisinfeksjoner»*.
+
+Helsedirektoratet har i innspill til helseberedskapsmeldingen anbefalt at det bør bygges et bredt og helhetlig analyse- og følge med-system som sammenstiller informasjon om kapabilitet, kapasitet, aktivitet og kvalitet for både allmenn tjenesteutvikling, beredskap og krisehåndtering. Ifølge Helsedirektoratet bør systemet etableres som en del av den ordinære rapporteringskjeden og være tilrettelagt for løpende datainnhenting, sammenstilling, analyse og tilgjengeliggjøring, og raskt kunne gi tilpasset styringsinformasjon og beslutningsstøtte ved kriser.[^597]
+
+Det er behov for å videreutvikle systemet for overvåkning og rapportering av kapasiteten i helse- og omsorgstjenesten som beredskap for fremtidige helsekriser. I arbeidet med å forbedre overvåkingssystemet mener Koronautvalget at nasjonale helsemyndigheter i samråd med sektoren bør tydeliggjøre kapasitetsbegrepet som styringsindikator i en helsekrise. Overvåking av og rapportering på helsesektorens kapasitet, og konsekvenser av stor belastning, er sentralt for få et situasjonsbilde og grunnlag for risikovurderinger. Det er ikke tilstrekkelig å vite om personellmangel alene hvis det ikke følger med informasjon om hvilken betydning mangelen vil ha for tjenestetilbudet. Det bør derfor bli tydeliggjort hvor terskelen for «overbelastet» skal være i en pandemi og andre typer helsekriser. Det er nødvendig å etablere bedre systemer som gir informasjon om konsekvenser av overbelastningen under en helsekrise, både i primær- og spesialisthelsetjenesten.
+
+### Kunnskapssystem for beredskap og håndtering av kriser
+
+Erfaringer fra pandemihåndteringen viser at det er et behov for å styrke kunnskaps- og analyseberedskapen i møte med fremtidige pandemier og andre typer kriser. Produksjon av kvalitetssikret kunnskap i sanntid er viktig for å dekke det løpende kunnskapsbehovet til myndighetene og allmenheten under en krise. Dette handler om å tilrettelegge for bedre og raskere tilgang til statistikk og data, muligheter til å sammenkoble ulike datakilder for å skape ny kunnskap, og mobilisere analysekapasitet i form av forsknings- og analysemiljøer med nødvendig kompetanse.
+
+I forhold til andre land, har Norge omfattende og godt utbygde helseregistre, inkludert nasjonale helseregistre, medisinske kvalitetsregistre, screeningprogrammer og befolkningsbaserte helseundersøkelser. På tross av gode registre, var ikke data lett tilgjengelig for de som skulle drive kunnskapsproduksjon i forbindelse med covid-19-pandemien. Beredskapsregisteret Beredt C19, som ble etablert ad-hoc og på initiativ av ansatte i FHI i 2020, var en avgjørende nyvinning i denne pandemien, se boks 13.5. Det var Beredt C19 som muliggjorde daglig rapportering på viktige styringsindikatorer og statistikk.
+
+Beredt C19 illustrerer hvordan data fra helseregistrene og andre datakilder kunne kobles raskt og sikkert, og skape nyttig kunnskap i krisehåndteringen. Et eksempel på bruk av Beredt C19 er overvåking av bivirkninger ved vaksinering. Under svineinfluensaen i 2009 tok det fire år etter at pandemien var over før man fikk stadfestet at pandemivaksinasjon ikke økte risikoen for dødfødsel. Under covid-19-pandemien kunne dette overvåkes i sanntid gjennom data i Beredt C19 og man fikk raskt kunnskap om at spontanaborter som følge av vaksinering ikke var tilfellet.[^598] Ved meldinger om vaksinebivirkninger er det avgjørende å fremskaffe kunnskap raskt, og sanntidsdata er nødvendig. Da meldingene om bivirkninger av Astra Zeneca-vaksinen kom våren 2021, tok det i underkant av en time å tilgjengeliggjøre korrekt diagnosekode i det aktuelle analyserommet, slik at analytikere kunne gjøre analyser.
+
+Lovgrunnlaget til registeret i helseberedskapsloven § 2-4 viste seg likevel å ha svakheter, uklarheter og begrensninger som skapte forsinkelser og hindringer i bruken av registeret.[^599] Opplevelsen var også at mangelfull informasjonsflyt mellom ulike systemer og forvaltningsnivåer bidro til merarbeid, ineffektive prosesser og manuell håndtering blant de ulike aktørene som var involvert i smittevernberedskapen.[^600] Folkehelseinstituttet har derfor uttrykt at det er et sterkt behov for en tilsvarende beredskapsløsning på lengre sikt, og at den må være etablert *før* en krise rammer.[^601]
+
+I Meld. St. 5 (2022–2023) *Langtidsplanen for forskning og høyere utdanning 2023–2032* er samfunnssikkerhet og beredskap ett av de prioriterte områdene. Målet er å styrke arbeidet med samfunnssikkerhet og beredskap gjennom forskning, innovasjon og utdanning. Regjeringen vil for eksempel prioritere forskning på effekten av smitteverntiltak. Videre, vil regjeringen etablere en bedre beredskap for å håndtere kunnskapsbehov og oppskalere systemer når en krise inntreffer og tydeliggjøre forskningsbehov for å forebygge kriser.
+
+I Meld. St. 15 (2022–2023) *Folkehelsemeldinga* varsler regjeringen at den vil gjennomgå de juridiske rammene for å få en bedre og mer effektiv bruk av data til smittevern og utbruddshåndtering både lokalt og nasjonalt, og for å samle og dele data mellom aktører på en sikker måte. Videre vil regjeringen starte et arbeid for å modernisere overvåkning og registere til bruk i det daglige smittevernarbeidet og i kriser.
+
+Kunnskapsdepartementet har opprettet og leder en interdepartemental arbeidsgruppe, *Kjernegruppen for et bedre kunnskapssystem for håndtering av kriser*, som skal bidra til at norske myndigheter har mest mulig og raskest mulig pålitelig kunnskap til støtte for beslutninger i fremtidige kriser.[^602] Som et ledd i arbeidet har kjernegruppen mottatt rapporter fra to ekspertgrupper som har vurdert og kommet med anbefalinger knyttet til juridiske, etiske og teknologiske problemstillinger ved tilgjengeliggjøring, deling og bruk av relevant statistikk og data i kriser.
+
+Sikker og enkel tilgang til data og bedre muligheter til å koble ulike datakilder, vil styrke den nasjonale beredskapen og krisehåndteringen i møte med komplekse hendelser tilsvarende covid-19-pandemien. Særlig bør tilgangen til og muligheten til å dele og ta i bruk kvalitetsdata fra kommuner forbedres. I dag er det en utfordring at data og annen styringsinformasjon om de kommunale tjenestene er låst inne i fagsystemer, og er vanskelig å ta i bruk internt og å dele med andre.[^603]
+
+Koronautvalget mener at det er viktig at nasjonale myndigheter følger opp pågående arbeid og initiativer for å styrke kunnskaps- og analyseberedskapen i møte med fremtidige pandemier og andre typer kriser. Nasjonale myndigheter bør sikre gode rammebetingelser for en effektiv og sikker utnyttelse av nasjonale registre, relevante datakilder og annen statistikk til å håndtere pandemier og andre større kriser.
+
+Beredskapsregisteret Beredt C19 og kunnskapsproduksjon i sanntid
+
+Beredskapsregisteret Beredt C19 ble etablert våren 2020 av FHI i samarbeid med Helsedirektoratet og Norsk intensiv- og pandemiregister. Kunnskapsbehovet var stort og det ble tidlig klart at ved å utnytte bredden i norske registerdata, var det mulig å fremskaffe kunnskap raskere og med en bredde som er unik i verdenssammenheng. Den første tekniske løsningen med daglige data fra Norsk pasientregister og MSIS ble etablert etter tre uker. Det medgikk imidlertid mye verdifull tid og ressurser til å avklare juridiske forhold for andre sentrale datakilder, for eksempel opplysninger fra Folkeregisteret og sykehjemsbeboere fra NAV. Data fra SSB ble ikke innhentet før ny statistikklov trådte i kraft 1. januar 2021. Dette forsinket viktig statistikk og kunnskapsproduksjon.
+
+Med Beredt C19 var det mulig å sammenstille opplysninger fra helseregistre med blant annet opplysninger fra NAV om yrke, fra SSB om boforhold og fra Folkeregisteret om fødeland, se figur 13.5. Det gjorde det mulig å fremskaffe et løpende kunnskapsgrunnlag om for eksempel hvilke befolkningsgrupper som ble rammet av sykdommen, av smitteverntiltakene og av bivirkninger ved vaksinering.
+
+Beredskapsregisteret utviklet seg til å bli hovedkilden for all statistikk og kunnskapsproduksjon om covid-19-pandemien. De første ukene var det kun tre analytikere som jobbet med databasen. Utover i pandemien ble imidlertid bemanningen utvidet til over hundre personer, som i separate analyserom med tilgangskontroll fikk tilgang til anonyme og utvalgte rådata for kunnskapsproduksjon.
+
+Illustrasjon av beredskapsregisteret Beredt C19, fra 2022. Innhold i registeret har blitt endret underveis. Beredt C19 har innebygget personvern, inklusive dataminimering og tilgangskontroll i henhold til krav i GDPR og nasjonal lovgivning.
+
+FHI
+
+Rapport, Ekspertgruppe nedsatt av kjernegruppen for et bedre kunnskapssystem for håndtering av kriser, 30. juni 2022, «Juridiske og etiske problemstillinger knyttet til innsamling, tilgjengeliggjøring, deling og bruk av data, samt bruk av randomiserte forsøk i kriser».
+
+\[Boks slutt\]
