@@ -334,7 +334,7 @@ def main():
             hode.append(f"- Mottaker: {', '.join(liste(r.get('recipients')))}")
         if liste(r.get("authoring_actors")):
             hode.append(f"- Utført av: {', '.join(liste(r.get('authoring_actors')))}")
-        hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde else f"- PDF: {pdf}", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
+        hode += [f"- Les hele dokumentet: {side}" if side else "", f"- Original-PDF: {kilde}" if kilde.startswith("http") else f"- PDF: {pdf}", f"- Kudos: {kudos}", f"- Hentet: {time.strftime('%Y-%m-%d')}",
                  "", "---", ""]
         deling.skriv(sti, "\n".join(x for x in hode[:-3] if x is not None), tekst)
         oversikt[rid] = {"id": rid, "type": t, "ar": ar, "tittel": (r.get("title") or "").replace("\t", " "), "sammendrag": sammendrag(r),
