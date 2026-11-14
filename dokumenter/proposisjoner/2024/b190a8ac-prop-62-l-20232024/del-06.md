@@ -1,903 +1,276 @@
-# Prop. 62 L (2023–2024), del 6 av 7 (side 59–70)
+# Prop. 62 L (2023–2024), del 6 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2024/b190a8ac-prop-62-l-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-62-l-20232024/id3030651/
 - Original-PDF: https://www.regjeringen.no/contentassets/2ef93d0a245946608eb1a524d5b9a434/no/pdfs/prp202320240062000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 59]
+### Forholdet til skolemiljøreglene
 
-2023–2024
+#### Forslaget i høringsnotatet
 
-Prop. 62 L
+I høringsnotatet 31. mai 2023 punkt 4.4 presiserte departementet at dersom et fysisk inngrep går ut over det som er tillatt i medhold av lovforslaget, vil det kunne regnes som en krenkelse etter skolemiljøreglene. I punkt 4.8 presiserte departementet at fysiske inngrep som er gjort i tråd med forslaget, ikke vil regnes som en slik krenkelse av eleven.
 
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
+#### Høringsinstansenes syn
 
-4.6
+Enkelte høringsinstanser har kommentarer til forholdet mellom høringsforslaget og skolemiljøreglene. *Statsforvalteren i Vestland* ber departementet om å avklare grensen mellom lovlige fysiske inngrep og inngrep som vil regnes som krenkelser etter skolemiljøreglene, herunder hvem som skal gjøre vurderingen av om en hendelse skal regnes som en krenkelse. *Utdanningsforbundet* mener det er positivt at departementet bruker «kan»- og ikke «skal»-formuleringer i forslaget til lovtekst og at forslaget innebærer en rett til og ikke en plikt til eller en forventning om å gripe inn. *Utdanningsforbundet* mener samtidig at det er en krevende grensesetting mellom plikten til å «følgje med» og «gripe inn» mot krenkelser etter dagens § 9 A-4 og ny § 13-4. *Kristne Friskolers Forbund* mener det er behov for en avklaring av forholdet mellom skolemiljøreglene på den ene siden og lovforslaget og reglene om nødrett og nødverge på den andre siden.
 
-Forebygging
+*Norsk Lektorlag* etterlyser en avklaring på når det vil være en pliktforsømmelse av en lærer ikke å gripe inn fysisk, med henvisning på plikten til å gripe inn etter skolemiljøreglene.
 
-4.6.1 Forslaget i høringsnotatet
-I høringsnotatet 31. mai 2023 punkt 4.6 foreslo
-departementet å lovfeste at kommunen og fylkeskommunen skal sørge for at skolen arbeider
-løpende og systematisk for å unngå at det oppstår
-situasjoner som innebærer fysiske inngrep mot
-elever. Departementet foreslo at det for private
-grunnskoler godkjent etter opplæringslova vil
-være den øverste ledelsen som har ansvaret, og
-for skoler godkjent etter privatskolelova vil det
-være skolens styre som har ansvaret.
-4.6.2 Høringsinstansenes syn
-Høringsinstansene er generelt positive til en regel
-om forebygging. Av totalt 68 som uttaler seg, støtter 59 høringsinstanser forslaget helt eller delvis,
-blant annet Barneombudet, Foreldreutvalget for
-grunnopplæringen, en rekke statsforvaltere, Rogaland fylkeskommune, Vestland fylkeskommune og
-flere andre fylkeskommuner, Bergen kommune,
-Kristiansand kommune, Trondheim kommune
-samt en rekke andre kommuner, Elevorganisasjonen, Funksjonshemmedes fellesorganisasjon, Redd
-Barna og flere andre organisasjoner. Barneombudet mener at det er et avgjørende premiss for å
-regulere bruk av fysisk makt i skolen, at det samtidig lovfestes en tydelig plikt til å forebygge bruk
-av fysisk makt i skolen. Flere høringsinstanser
-trekker frem at det må være kompetanse og ressurser til at forebyggingen blir reell, i tillegg til at
-det må være tilstrekkelig juridisk klarhet om hva
-forebyggingsregelen innebærer, enten i form av
-veiledning eller mer detaljerte lovkrav. Oslo kommune mener at det forebyggende arbeidet henger
-nært sammen med det systematiske skolemiljøarbeidet, arbeid med klasse- og læringsmiljø og
-fellesskapende didaktikk. Kommunen er derfor
-usikker på om forslaget vil innebære en dobbeltregulering av dette arbeidet, og mener for øvrig at
-forslaget gir få holdepunkter for hva det forebyggende arbeidet skal inneholde. Utdanningsforbundet
-støtter målet med forebyggingsbestemmelsen,
-men peker på at kommuner og fylkeskommuner
-har svært ulik kompetanse og kapasitet til å «sørgje for» og støtte opp under at skolene driver et
-kontinuerlig og systematisk forebyggende arbeid.
-Et mindretall (om lag 10 høringsinstanser),
-herunder KS og Stavanger kommune, mener at
-det ikke er nødvendig med regler om forebygging
-– eller meldeplikt og dokumentasjon, jf. punkt 4.6
-og 4.7 nedenfor – primært fordi disse pliktene alle-
+#### Departementets vurdering
 
-57
+Flere høringsinstanser har bedt om en avklaring av forholdet mellom lovforslaget og reglene om skolemiljø i opplæringslova kapittel 12.
 
-rede kan utledes av dagens regelverk. KS viser til
-at dagens regler om skolemiljø, tilpasset opplæring, individuelt tilrettelagt opplæring, informasjon til hjemmet og internkontroll gjør at skoleeiere allerede har plikt til å jobbe systematisk med
-forebygging, at alvorlige hendelser skal dokumenteres og at rektor, foreldre og skoleeier skal varsles når sakens alvor tilsier det.
+Alle har rett til et trygt og godt skolemiljø, jf. opplæringslova (2023) § 12-3. Det følger av § 12-3 at skolen ikke skal godta krenkende oppførsel som f.eks. vold. Elevenes vern mot krenkelser er videre regulert i §§ 12-4 og 12-5. Det følger av § 12-4 første ledd at alle som arbeider på skolen, skal «om mogleg gripe inn dersom nokon krenkjer ein elev». Det følger av § 12-5 at dersom en som arbeider på skolen, får mistanke om eller kjennskap til at en annen som arbeider på skolen krenker ein elev, skal vedkommende straks melde fra til rektor. Rektor skal melde fra til skoleeier, med mindre meldingen er åpenbart grunnløs.
 
-4.6.3 Departementets vurdering
-Departementet foreslår i likhet med høringsforslaget å lovfeste at kommunen og fylkeskommunen skal sørge for at skolen arbeider løpende og
-systematisk for at det ikke skal oppstå situasjoner
-som innebærer fysiske inngrep mot elever.
-Lovfestingen innebærer en presisering av skolens eksisterende forebyggingsplikter. Dagens
-regler om tilpasset opplæring, spesialundervisning og skolemiljø er videreført i ny opplæringslov og gir kommunen og fylkeskommunen plikt til
-å jobbe forebyggende på disse områdene. Departementet mener at det i forbindelse med innføring
-av en lovbestemmelse om fysisk inngripen bør
-presiseres at skolens forebyggende arbeid også
-må rette seg mot å unngå fysiske inngrep mot
-elevene. Målet må være i størst mulig grad å
-unngå at det oppstår situasjoner der ansatte må
-gripe inn fysisk mot elever og begrense maktbruken når slike situasjoner likevel oppstår. Forslaget
-om en regel om forebygging får stor støtte blant
-høringsinstansene. I tillegg til å sikre elevenes
-rett til et trygt og godt skolemiljø m.m., vil god
-forebygging av situasjoner hvor det oppstår behov
-for å gripe inn fysisk også bidra til å styrke ansattes arbeidsmiljø.
-Departementet mener at det ikke bør reguleres hvordan forebyggingen konkret skal skje i
-loven, men at dette bør avgjøres lokalt. Forebyggingsplikten må ses i sammenheng med andre
-forebyggingsplikter som loven oppstiller. Hensikten er å sørge for at forebygging av fysiske inngrep er tema skolene og skoleeierne har med seg
-når de jobber med forebygging etter eksisterende
-regelverk. Hvordan man bør jobbe forebyggende,
-vil variere med forholdene lokalt og det er derfor
-hensiktsmessig at regelen gir et handlingsrom
-her. Et utgangspunkt er imidlertid at forebyggende tiltak kan settes i verk både på skolenivå, på
-klasse- eller gruppenivå og på individnivå. I forbindelse med forebygging av nye tilfeller av fysiske
-inngrep, vil barnets rett til medvirkning være relevant. Forebyggingsplikten innebærer ikke nye
-dokumentasjonskrav.
+Departementet legger til grunn at fysiske inngrep som er gjort i tråd med vilkårene i lovforslaget, ikke vil være en krenkelse av eleven etter skolemiljøreglene. På samme måte vil det fysiske inngrepet ikke regnes som en krenkelse når det oppfyller vilkårene for nødrett eller nødverge i straffeloven.
 
-[Side 60]
+Departementet understreker at elever som det blir gjort fysiske inngrep mot som vil være lovlige etter forslaget og dermed ikke en krenkelse, likevel, og av ulike grunner, kan oppleve at skolemiljøet ikke er trygt og godt. I så fall utløses aktivitetsplikten for skolemiljø etter § 12-4.
 
-58
+Enkelte høringsinstanser har etterlyst en avklaring av hvordan lovforslaget forholder seg til plikten til å gripe inn mot krenkelser etter § 12-4. Spørsmålet er om plikten til å gripe inn innebærer at en lærer etter omstendighetene er forpliktet til å gripe inn fysisk etter lovforslaget, eller om dette i alle tilfeller skal være opp til læreren.
 
-Prop. 62 L
+Departementets lovforslag *pålegger* ikke ansatte nye plikter til å gripe inn fysisk, det gir kun et rettslig grunnlag for å gjøre det. Plikten til å gripe inn etter skolemiljøreglene endres ikke ved dette forslaget, men det klargjøres når det – i tilfeller som omfattes av skolemiljøreglene og andre tilfeller – kan gripes inn fysisk. Departementet viser til følgende fra forarbeidene til den nye opplæringslova (Prop. 57 L (2022–2023) side 613):
 
-Departementet foreslår at kommunen og fylkeskommunen skal sørge for at skolen, leksehjelpen og skolefritidsordningen arbeider kontinuerlig og systematisk for at det ikke skal oppstå situasjoner der ansatte må gripe inn fysisk mot elever,
-se forslaget til § 13-3, samt tilsvarende forslag for
-privatskolelova, se i forslaget til § 3-10 a.
+Plikta til å ‘gripe inn’ er knytt til krenkjande oppførsel som vedkommande sjølv er vitne til, og som framleis går føre seg. Ofte vil det handle om omgåande å stanse negativ oppførsel, til dømes ved å bryte opp ein slåstkamp eller stanse anna fysisk krenking, stanse ein utfrysingssituasjon eller stanse og irettesetje elevar som krenkjer andre elevar verbalt. (…) Plikta avgrensar seg til inngrep som er moglege for den som arbeider på skolen å gjennomføre, av omsyn til både elevane og hen sjølv. Plikta til å gripe inn gir ikkje ein sjølvstendig heimel til å gripe inn fysisk overfor elevane. Plikta er derfor avgrensa til tiltak som er lovlege å gjennomføre, anten innanfor skolens oppdragar- og omsorgsansvar eller innanfor reglane om nødrett og nødverje. Det er viktig at dei som arbeider på skolen, i tillegg til å kjenne til plikta til å gripe inn, også har kunnskap om kva som er lov, og om korleis slik innblanding bør gjerast. Det er plikta til kommunane og fylkeskommunane å sørgje for at skolen har rett og nødvendig kompetanse for å kunne oppfylle pliktene og rettane etter lova, jf. § 17-1.
 
-4.7
+Det er i tillegg uttalt i punkt 33.6.4.1 at «\[g\]rensa for å gripe inn er at den tilsette ikkje skal stå i fare for å skade seg sjølv eller krenkje elevar for å få stanse situasjonen.». Plikten til å gripe inn etter skolemiljøreglene kan derfor etter omstendighetene tilsi at den ansatte må gripe inn fysisk, men bare så lenge det kan gjøres uten å utsette seg selv for skade.
 
-2023–2024
+### Forholdet til nødverge/nødrett
 
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
+#### Høringsinstansenes syn
 
-Dokumentasjon
+Noen høringsinstanser etterlyser en avklaring av forholdet til nødretts- og nødvergebestemmelsene i straffeloven. *Barneombudet* og *Foreldreutvalget for grunnopplæringen* mener at det må tydeliggjøres hvordan lovforslaget er ment å samsvare med disse reglene. I den grad lovforslaget gir videre hjemler enn disse reglene, bør det prinsipielt diskuteres hvorfor. *Foreldreutvalget for grunnopplæringen* viser til at det er et svært viktig prinsipielt spørsmål om adgangen til fysisk inngripen skal være mer omfattende i skolen enn i samfunnet ellers. *Elevorganisasjonen* er negativ til en regel som går lenger enn nødrett/nødverge-bestemmelsene.
 
-4.7.1 Forslaget i høringsnotatet
-I høringsnotatet 31. mai 2023 punkt 4.8.1 foreslo
-departementet å lovfeste at skolen skal dokumentere hendelser der det har vært gjennomført
-fysiske inngrep med informasjon om hvordan situasjonen oppsto, hvordan inngrepet ble utført og
-hvordan eleven ser på saken.
-4.7.2 Høringsinstansenes syn
-Et flertall av høringsinstansene som uttaler seg,
-støtter forslaget om dokumentasjon helt eller delvis (56 høringsinstanser), herunder Barneombudet, Barne-, ungdoms- og familiedirektoratet, Foreldreutvalget for grunnopplæringen, flere statsforvaltere, Utdanningsdirektoratet, en rekke fylkeskommuner, Bergen kommune, Kristiansand kommune,
-Oslo kommune og en rekke andre kommuner, Elevorganisasjonen og Skolenes landsforbund. Utdanningsforbundet mener dokumentasjonen kan
-styrke rettsikkerheten til både elever og ansatte
-og i tillegg være et godt verktøy for kartlegging
-og i arbeidet med systematisk forebygging. Forbundet mener likevel at dokumentasjonsplikten
-vil strekke seg utover gjeldende rett, og at forslaget med krav til involvering og belysning av situasjonen fra elever, ansatte og eventuelle vitner, vil
-innebære merarbeid, særlig for ledere. Noen
-høringsinstanser mener at det bør være mer detaljerte eller flere krav til hva dokumentasjonen skal
-omfatte. De fleste høringsinstansene støtter imidlertid at dokumentasjonskravet er relativt overordnet.
-Et mindretall (om lag 10 høringsinstanser),
-herunder KS og Stavanger kommune, mener at
-det ikke er nødvendig med regler om dokumentasjon – eller forebygging og meldeplikt, jf. punkt
-4.6 og 4.8 – primært fordi disse pliktene allerede
-kan utledes av dagens regelverk. KS viser til at
-dagens regler om skolemiljø, tilpasset opplæring,
-individuelt tilrettelagt opplæring, informasjon til
-hjemmet og internkontroll gjør at skoleeiere alle-
+*KS* ønsker en større harmonisering med straffelovens bestemmelser. *Bergen kommune* påpeker at selv om lovforslaget tar opp i seg straffelovens regler om nødrett og nødverge, vil disse fremdeles gjelde generelt, også for ansatte i skolen.
 
-rede har plikt til å jobbe systematisk med forebygging, at alvorlige hendelser skal dokumenteres og
-at rektor, foreldre og skoleeier skal varsles når
-sakens alvor tilsier det.
+*Statsforvalteren i Innlandet* peker på at maktbruk som ikke er lovlig etter lovforslaget kan tenkes å være lovlig etter straffelovens bestemmelser om nødrett og nødverge, og at grensene for hva som er lov eller ikke vil bli enda mindre tydelige når ansatte må forholde seg både til straffelovens straffrihetsgrunner og den nye lovbestemmelsen.
 
-4.7.3 Departementets vurdering
-Departementet mener i likhet med høringsforslaget at det bør være krav om å dokumentere tilfeller der ansatte har måttet gripe fysisk inn mot en
-elev. Dette vil styrke elevens rettssikkerhet. Systematisk dokumentasjon er viktig for å avdekke
-risiko og for å kunne vurdere forebyggende tiltak.
-Departementet viser videre til at de aller fleste
-høringsinstansene støtter forslaget helt eller delvis.
-Departementet mener at det bør stilles noen
-minimumskrav til dokumentasjonen, samtidig
-som disse ikke må bli for ressurskrevende. Dokumentasjonen bør inneholde nok informasjon til at
-man kan sette seg inn i hva som har skjedd, og
-hva det fysiske inngrepet har bestått i. Departementet foreslår å lovfeste at skolen skal dokumentere hendelsen med en beskrivelse av:
-– situasjonen
-– inngrepet som ble gjort
-– elevens syn på saken
+*Kristne Friskolers Forbund* oppfatter at lovforslaget begrenser ansattes mulighet til å gripe inn fysisk i forhold til det som følger av nødverge og nødrett i straffeloven.
+
+*Iveland kommune, Kristiansand kommune* og *Vennesla kommune* mener at vilkårene for inngrep må harmoniseres med nødrett/nødverge. Kommunene påpeker at det vil kunne være tilfeller hvor en handling ikke er lovlig etter § 13-4, men likevel kan være lovlig etter straffeloven § 18. Straffeloven § 18 retter seg først og fremst mot fysiske krenkelser, men også ikke-fysiske krenkelser kan under omstendighetene dekkes av ordet angrep. Kommunen mener at det bør vurderes, på samme måte som i barnevernsloven § 10-7, å innføre en henvisning til straffeloven §§ 17 og 18 i bestemmelsen om fysisk inngrep § 13-4.
+
+#### Departementets vurdering
+
+En rekke høringsinstanser etterlyser en vurdering av forholdet mellom lovforslaget og reglene om nødrett og nødverge i straffeloven §§ 17 og 18. Flere høringsinstanser er usikre på om lovforslaget er ment å samsvare med disse reglene, eller om lovforslaget hjemler fysiske inngrep som ikke følger av straffeloven §§ 17 og 18. Departementet understreker at straffeloven §§ 17 og 18 vil gjelde side om side med forslaget til regler om fysiske inngrep. Lovforslaget begrenser med andre ord ikke ansattes mulighet til å agere etter straffelovens regler om nødverge og nødrett. Heller ikke inngrep som er gjort i samsvar med lovforslaget, vil kunne regnes som straffbare.
+
+Når det gjelder forholdet til nødretts- og nødvergebestemmelsene, er utgangspunktet at departementets forslag ikke er ment å gi et bredere grunnlag for fysisk inngripen enn det som følger av disse bestemmelsene (med et mulig unntak om retten til å gripe inn mot sterk selvfornedrelse). Hovedformålet er først og fremst å tydeliggjøre og tilpasse disse reglene til skolesektoren. Departementets forslag til regler har elementer fra både nødrett- og nødvergebestemmelsene, men med enkelte avgrensninger og presiseringer.
+
+Straffelovens bestemmelser om nødrett (§ 17) og nødverge (§ 18) fastslår at visse handlinger begått i en nødsituasjon er lovlige og straffrie. Etter § 17 er en handling som ellers ville være straffbar, lovlig når (a) den blir foretatt for å redde liv, helse, eiendom eller en annen interesse fra en fare for skade som ikke kan avverges på annen rimelig måte, og (b) denne skaderisikoen er langt større enn skaderisikoen ved handlingen. Etter § 18 er en handling som ellers ville være straffbar, lovlig når den (a) blir foretatt for å avverge et ulovlig angrep, (b) ikke går lenger enn nødvendig, og (c) ikke går åpenbart ut over hva som er forsvarlig under hensyn til hvor farlig angrepet er, hva slags interesse som angrepet krenker, og angriperens skyld. Sistnevnte vurderingstema i bokstav c representerer en lavere terskel for inngrep enn § 17 første ledd bokstav b. Nødrettsbestemmelsen gjelder i alle nødsituasjoner uavhengig av hvordan faren har oppstått, mens nødvergebestemmelsen krever at det foreligger et «ulovlig angrep».
+
+Etter begge bestemmelser er en *handling* som ellers vil være straffbar lovlig dersom vilkårene er oppfylt. Departementets forslag hjemler imidlertid ingen andre handlinger enn *fysiske inngrep*.
+
+Sammenlignet med § 17 første ledd bokstav a er de interessene det kan gripes inn for å vernes etter departementets forslag også begrenset. Det kan kun gripes inn for å avverge fysiske krenkelser eller at en elev utsetter seg for fysisk fare, skade på eiendom eller sterk sosial selvfornedrelse. Det kreves ikke at skaden skyldes et ulovlig angrep, slik det kreves etter § 18. Etter departementets forslag kan det for eksempel gripes inn mot en elev som slår seg selv (i denne situasjonen vil det ikke foreligge noe ulovlig angrep). Som oftest vil imidlertid et ulovlig angrep være årsaken til at en ansatt må gripe inn mot en elev.
+
+Det vil etter omstendighetene kunne gripes inn mot sterk selvfornedrelse etter reglene om nødrett. Det kan likevel tenkes at forslaget om å kunne gripe inn i disse situasjonene i noen sammenhenger går lengre enn nødrettsreglene. All den tid det kan være uklart hva som er tillatt etter nødrettsbestemmelsen i slike tilfeller, mener departementet at det er viktig å presisere denne adgangen i lovforslaget.
+
+Når det gjelder de øvrige vilkårene om nødvendighet og forholdsmessighet, tilsvarer departementets forslag nødvergevilkåret om at handlingen ikke må gå lenger enn nødvendig. Kravet om forsvarlighet/forholdsmessighet kom ikke tydelig frem i høringsnotatet, noe som flere høringsinstanser har kritisert, se drøftelsen over i punkt 4.5.6. Ved å innta et krav om at inngrepet må stå i rimelig forhold til de interesser som skal ivaretas, fremkommer det i enda større grad et samsvar med reglene om nødverge og nødrett. Ettersom departementets forslag til utforming av vilkåret om forholdsmessighet er ment å dekke både situasjoner som vil kunne omfattes av nødretts- og nødvergebestemmelsen, har ikke departementet tatt utgangspunkt i disse bestemmelsenes krav til risikoavveining/forsvarlighet. Det vil likevel ha betydning i den konkrete forholdsmessighetsvurderingen etter lovforslaget hvorvidt man søker å avverge et angrep på andre eller ikke. For eksempel vil man etter lovforslaget normalt kunne gå noe lengre i å avverge at en elev skader andre enn seg selv.
+
+Ettersom departementets forslag først og fremst er en tydeliggjøring og en avgrensning av nødretts- og nødvergebestemmelsene, kan det spørres om det er behov for lovfesting i opplæringslova og privatskolelova, ettersom forslaget til en viss grad representerer en dobbeltregulering. Departementet mener likevel at det er et gode i seg selv å regulere adgangen til fysiske inngrep i opplæringslova og privatskolelova.
+
+Departementet mener at man ikke bør styre hele opplæringssektorens maktbruk på nødretts- og nødvergebestemmelsene i straffeloven. Departementet mener at det er behov for presiserende regler om temaet i opplæringslova og privatskolelova. En egen hjemmel i opplæringslova og privatskolelova, sammen med regler om forebygging, meldeplikt og dokumentasjon, kan også øke bevisstheten om fysisk inngripen blant skolens ansatte.
+
+### Forholdet til helse- og omsorgstjenesteloven
+
+#### Omtalen i høringsnotatet
+
+I høringsnotatet punkt 4.9 omtalte departementet forholdet til helse- og omsorgstjenesteloven kapittel 9. Departementet viste til at helse- og omsorgstjenester kan gis på flere arenaer, som for eksempel på avlastning, fritidstilbud og i skole. Departementet uttalte at for elever med utviklingshemning som mottar personlig assistanse etter helse- og omsorgstjenesteloven mens de er på skolen, kan eventuell bruk av fysisk makt omfattes av et vedtak om tvang og makt etter helse- og omsorgstjenesteloven kapittel 9.
+
+#### Høringsinstansenes syn
+
+I overkant av 20 høringsinstanser ønsker en nærmere avklaring av forholdet til helse- og omsorgstjenesteloven, blant annet *Barneombudet*, *Statsforvalteren i Oslo og Viken*, *Statped*, *Bergen kommune*, *Funksjonshemmedes fellesorganisasjon*, *Norsk Lektorlag* og *Utdanningsforbundet*. Flere peker på behovet for harmonisering mellom regelsettene, blant annet *Barneombudet*, *Statped* og *Oslo kommune*.
+
+Enkelte høringsinstanser mener at det er behov for presiseringer om og henvisninger til helse- og omsorgstjenesteloven kapittel 9 i lovforslaget, blant annet *Vestland fylkeskommune*, *Iveland kommune*, *Kristiansand kommune* og *Vennesla kommune*.
+
+*Elev-, lærling- og mobbeombudene* påpeker at barn og unge som har vedtak om bruk av tvang og makt etter helse- og sosiallovgivningen i kommunale oppfølgingstilbud kan ha behov for de samme tiltakene også i skolehverdagen for å avverge skade eller for å få dekket grunnleggende behov. Ombudene mener det at det er viktig at skolen sammen med den kommunale helse- og sosialtjenesten gjør en vurdering av om vedtaket også skal gjelde for skolen. Det bør tydeliggjøres i loven eller eventuell forskrift hvordan dette skal ivaretas til elevens beste.
+
+#### Departementets vurdering
+
+Helse- og omsorgstjenesteloven kapittel 9 inneholder regler om tvang og makt som ledd i tjenester til personer med utviklingshemming. Bestemmelsene omfatter blant annet bruk av tvang og makt i barnebolig, avlastningstiltak og som ledd i personlig assistanse, blant annet praktisk bistand og støttekontakt. Helse- og omsorgstjenesteloven hjemler bruk av fysisk makt for å avverge skade på personer eller eiendeler. I tillegg hjemler den tiltak for å dekke brukerens eller pasientens grunnleggende behov for mat og drikke, påkledning, hvile, søvn, hygiene og personlig trygghet.
+
+En rekke høringsinstanser etterlyser avklaringer om forholdet mellom lovforslaget og reglene om tvang i helse- og omsorgstjenesteloven. Departementet tar ikke sikte på å endre forholdet til helse- og omsorgstjenesteloven med dette lovforslaget. Departementet peker på at dagens lovgivning ikke er til hinder for at vedtak etter helse- og omsorgstjenesteloven kapittel 9 får anvendelse på skolen.
+
+Lovforslaget verken utvider eller endrer rammene for hvem som kan utføre tvangstiltak etter helse- og omsorgstjenesteloven. Enkelte barn og ungdom med nedsatt funksjonsevne mottar personlig assistanse på flere ulike arenaer, som for eksempel i hjemmet, på skolen, ved fritidsaktiviteter og i det offentlige rom, som ved offentlig transport. Regelverket åpner for at man kan gjennomføre vedtak etter helse- og omsorgstjenesteloven kapittel 9 i skoletiden.
+
+Der en elev mottar personlig assistanse etter helse- og omsorgstjenesteloven mens eleven er på skolen, er det kun den personlige assistenten som kan gjennomføre tvang etter helse- og omsorgstjenesteloven, ikke for eksempel lærere eller andre ansatte ved skolen. Tvang etter helse- og omsorgstjenesteloven kan bare utføres av de som er gitt myndighet i vedtaket.
+
+Det vil være aktuelt å omtale forholdet mellom de to regelverkene i veiledningen til de nye reglene.
+
+### Etterprøving
+
+#### Forslaget i høringsnotatet
+
+I høringsnotatet punkt 4.8.1 forutsatte departementet at fysiske inngrep ville kunne etterprøves etter skolemiljøreglene. I punkt 4.4 presiserte departementet at uforholdmessige fysiske inngrep etter omstendighetene kan få konsekvenser for arbeidsforholdet til den ansatte, og fysiske inngrep som går utover høringsforslaget samt reglene om nødverge og nødrett i straffeloven §§ 17 og 18 vil kunne være straffbare.
+
+#### Høringsinstansenes syn
+
+Tre høringsinstanser støtter at etterprøving bør skje gjennom de eksisterende reglene om skolemiljø mv, fremfor gjennom en ny, selvstendig klageordning. *Statsforvalteren i Rogaland* mener at etterprøving av maktbruk gjennom skolemiljøreglene kan være med på å sikre rettssikkerheten til elevene. *Rælingen kommune* mener at det er positivt at det ikke stilles krav til vedtak med klagebehandling. Kommunen påpeker også at det er viktig at reglene ikke utvikler seg gjennom etterfølgende lovgivning til å bli mer byråkratiske. *Redd Barna* understreker behovet for at det tydeliggjøres i lovtekst at elever har klagerett gjennom regelverket om skolemiljø.
+
+12 høringsinstanser mener at det er behov for en selvstendig klageordning eller i det minste en grundigere utredning om behovet, blant annet *Iveland kommune*, *Kristiansand kommune*, *Vennesla kommune*, *Autismeforeningen i Norge* og *Stiftelsen Nordre Aasen*, *Kapellveien habiliteringssenter*. En del av disse høringsinstansene viser til at øvrig regelverk som gir en rett til å gripe inn fysisk har egne regler om vedtak, rapportering til statsforvalteren, samt direkte overprøvingsmuligheter knyttet direkte til tvangsbruken. Flere høringsinstanser mener at departementet bør vurdere en ny overprøvingsordning hos statsforvalteren, blant annet *Barneombudet,* *Barne-, ungdoms- og familiedirektoratet* og *Bergen kommune*. *Statsforvalteren i Agder* kan ikke se at departementet har drøftet hvorfor fysisk inngripen i skolen ikke utgjør et enkeltvedtak, slik det for eksempel gjør etter barnevernsloven og helse- og omsorgstjenesteloven.
+
+Enkelte av høringsinstansene gir en nærmere begrunnelse for hvorfor de mener at skolemiljøreglene er utilstrekkelige som overprøvingsmekanisme. *Bergen kommune* påpeker at en utfordring ved å la etterprøving skje gjennom skolemiljøreglene, er at det er et vilkår om at «ein elev ikkje har eit trygt og godt skolemiljø», og at dette ikke nødvendigvis trenger å være tilfelle i alle saker der ansatte har grepet inn fysisk mot en elev. *Barne-, ungdoms- og familiedirektoratet* mener at håndhevingsordningen etter skolemiljøreglene ikke gir en prøving av om vilkårene for inngrepet var oppfylt.
+
+Flere etterlyser at det fremkommer tydelige regler om etterprøving i bestemmelsene, blant annet *Barneombudet*, *Bergen kommune*, *Oslo kommune* og *ADHD Norge*. Høringsinstansene mener at en klar klageadgang i lovteksten er viktig for å ivareta rettssikkerheten til eleven. *Utdanningsdirektoratet* mener at etterprøvingsmulighetene bør klargjøres før lovforslaget oversendes Stortinget. *Statsforvalteren i Innlandet* etterspør en klargjøring av hvem som skal etterprøve om maktbruken er eller var lovlig.
+
+Enkelte høringsinstanser har andre kommentarer til departementets vurderinger. *Forandringsfabrikken* påpeker at klagemulighet på fysisk makt kjennes meningsløst ut for mange barn. Erfaring fra barnevernet og psykisk helsevern viser at få barn klager, behandling av klagene tar lang tid og få barn får medhold i klager om maktbruk.
+
+#### Departementets vurdering
+
+Departementet har vurdert om reguleringen av fysisk inngripen bør ledsages av en egen klageordning.
+
+Forvaltningsloven har regler om klage for alle avgjørelser som regnes som et enkeltvedtak. Departementet drøfter derfor først om fysisk inngripen i de situasjonene som forslaget legger opp til skal regnes som enkeltvedtak. Etter forvaltningsloven § 2 er et vedtak en avgjørelse som treffes under utøving av offentlig myndighet og som generelt eller konkret er bestemmende for rettigheter eller plikter til private personer, jf. bokstav a. Et enkeltvedtak er et vedtak som gjelder rettigheter eller plikter til en eller flere bestemte personer, jf. bokstav b.
+
+Forvaltningsavgjørelser må avgrenses mot faktiske handlinger. Faktiske handlinger retter seg direkte mot å etablere eller endre en faktisk tilstand. Forvaltningsavgjørelser retter seg mot å etablere eller endre en rettslig tilstand, jf. Hans Petter Graver – Alminnelig Forvaltningsrett (2019) pkt. 24.1.2. Graver skriver videre:
+
+Utgangspunktet etter forvaltningsloven er klart. Det avgjørende er om en avgjørelse tar sikte på å stifte en rett eller plikt for den enkelte, se Forvaltningskomiteens innstilling s. 208. Som nevnt ovenfor i kapittel 13.3.1 er virkningene av en handling ikke et egnet kriterium å trekke skillet mellom normeringer og faktiske handlinger ut fra. Som regel er det klart om forvaltningens hensikt er å foreta en normering, eller om den er å komme med en oppfordring eller å foreta en annen type handling.
+
+Til en viss grad kan man si at det alltid vil ligge en avgjørelse bak ethvert fysisk inngrep. Men det er langt fra alle avgjørelser som skal regnes som vedtak. Når en ansatt beslutter å gripe inn fysisk i en akutt situasjon, er ikke hensikten med denne avgjørelsen å foreta en rettslig normering eller å stifte en rett eller plikt for den enkelte eleven, men en avgjørelse om å foreta en faktisk handling.
+
+Etter departementets syn er det ikke naturlig å regne fysisk inngripen i de situasjonene som forslaget legger opp til som vedtak. Det er tale om handlinger i akutte situasjoner for å avverge skader. Departementet viser videre til at akutte situasjoner uansett er av en slik karakter at forvaltningslovens saksbehandlingsregler for enkeltvedtak ikke kan oppfylles. Dette i motsetning til annen særlovgivning, som i flere tilfeller åpner for planlagt tvangsbruk.
+
+Departementet mener derfor at en avgjørelse om fysisk inngripen etter de foreslåtte reglene ikke vil være å anse som et enkeltvedtak. Spørsmålet blir videre om det likevel bør innføres en klageordning for slike tilfeller.
+
+En egen ordning for klage eller etterprøving kan bidra til bedre regelverksetterlevelse. Det kan ha en egenverdi for elevene det gjelder å få fastslått regelverksbrudd, selv om en klageavgjørelse ikke skulle ha andre rettsvirkninger.
+
+Departementet viser også til at andre lignende lover har slike ordninger ved tvang og makt, som for eksempel helse- og omsorgstjenesteloven og barnevernsloven.
+
+Samtidig må det påpekes at den tvangen som kan brukes etter disse lovene er mer omfattende og dekker langt flere situasjoner og flere tvangsmidler, ikke minst situasjoner fram i tid og tvangsbruk av lengre varighet enn for å avverge en akutt situasjon. Det er derfor ikke opplagt at man bør velge en tilsvarende løsning i opplæringslova.
+
+Departementet ser heller ikke hvilke rettsvirkninger en klage som tas til følge vil ha for eleven, annet enn at det vil statueres at den ansatte har begått et regelverksbrudd.
+
+Departementet mener at fordelen med å få statuert brudd ikke veier opp for ulempene ved å innføre en selvstendig klageordning. En klageordning som det ikke knyttes rettsvirkninger til, fremstår som uhensiktsmessig. Departementet mener man må vokte seg for å etablere ressurskrevende prosessuelle krav uten at man er sikker på at gevinstene ved ordningene som innføres står i forhold til ressursbruken.
+
+Departementet mener at eksisterende ordninger gir elevene god rettsikkerhet. Eksisterende regler sikrer også at elever som trenger det får hjelp fremover i tid og det er etter departementets syn her ressursene bør brukes.
+
+For det første peker departementet på at elever som føler seg utrygge eller ikke har det godt, vil ha krav på å bli fulgt opp gjennom skolemiljøreglene. Dersom en elev ikke har det trygt og godt på skolen, må skolen sette i gang undersøkelser og egnede tiltak for at eleven kan får det trygt og godt igjen. I denne forbindelse kan det være aktuelt å undersøke om den ansatte har brukt mer makt i en situasjon enn det som er lovlig. Ulovlig maktbruk vil regnes som en krenkelse av eleven etter skolemiljøreglene. Rektor vil ha plikt til å melde fra om slike krenkelser til skoleeieren. Dersom skoleeier konkluderer med at maktbruken var ulovlig, vil det være det arbeidsrettslige regelverket som regulerer den ansattes rettsstilling og hvilke tiltak skoleeieren som arbeidsgiver eventuelt kan treffe i den anledning. Departementet vil for øvrig bemerke at også elever som det gripes fysisk inn mot i samsvar med regelverket, kan oppleve et utrygt skolemiljø, og det kan derfor være aktuelt å undersøke vedkommendes situasjon og sette inn tiltak også i slike tilfeller – uten at dette knyttes til det aktuelle tilfellet av fysisk inngripen.
+
+Som en høringsinstans påpeker, vil imidlertid ikke alle elever som det gripes fysisk inn mot bli fulgt opp etter skolemiljøreglene. Slik oppfølging fordrer at eleven ikke har et trygt og godt skolemiljø. Departementet mener at dette vilkåret innebærer en hensiktsmessig målretting av skolenes ressursbruk, ettersom det ikke vil være behov for å sette inn tiltak for elever som har det trygt og godt på skolen.
+
+For det andre peker departementet på at lovforslaget konkretiserer plikten til å arbeide forebyggende for å unngå at det oppstår nye situasjoner hvor ansatte må gripe inn fysisk mot en elev, se punkt 4.6. Forebygging kan innebære at det settes inn tiltak for å bedre skolemiljøet eller endre opplæringspraksisen. Utarbeiding av en aktivitetsplan eller iverksetting av individuell tilrettelegging for en elev kan etter omstendighetene anses som å inngå som del av skolens forebyggende tiltak etter denne plikten.
+
+For det tredje peker departementet på at elever – som alle andre – har et vern mot kroppskrenkelser gjennom straffeloven. Dersom ansatte bruker mer makt enn det som er lovlig, kan den ansatte etter omstendighetene straffes for kroppskrenkelse (eller strengere straffebud), jf. straffeloven §§ 271 flg. Elever vil også kunne fremme erstatningskrav (for et eventuelt økonomisk tap og eventuelt menerstatning).
+
+For det fjerde peker departementet på at statsforvalterne vil kunne åpne tilsyn mot skolene, også basert på enkelthendelser, som for eksempel et fysisk inngrep mot en elev og/eller situasjonen som førte til dette, jf. opplæringslova (2023) § 29-2. Det vil i et slikt tilsyn være naturlig å vurdere om maktbruken har vært lovlig eller ikke.
+
+Til slutt vil departementet peke på at en klageordning vil være ressurskrevende. Gitt ulempene med en slik klageordning mener departementet at det ikke kan forsvares å prioritere ressurser til en slik ordning.
+
+Oppsummert mener derfor departementet at det ikke bør innføres en særskilt klageordning eller egne regler for etterprøving for avgjørelser om bruk av fysisk makt.
+
+### Bestemmelsenes virkeområde
+
+#### Forslaget i høringsnotatet
+
+I høringsnotatet punkt 4.5 foreslo departementet at høringsforslaget til regulering av fysisk inngripen burde gjelde for elever i grunnskolen og i den videregående opplæringen, samt for elever som får leksehjelp og i skolefritidsordningen (SFO).
+
+#### Høringsinstansenes syn
+
+Det har kommet svært få høringsinnspill til forslaget om reglenes virkeområde. Ingen har uttalt seg negativt til at reglene skal gjelde for leksehjelpen og skolefritidsordningen (SFO) i tillegg til grunnskolen og den videregående opplæringen. *Utdanningsdirektoratet* mener at virkeområdet til reglene må fremkomme klarere i lovteksten.
+
+*Utdanningsforbundet* mener videre at dersom ufaglærte ansatte i SFO skal håndheve de nye bestemmelsene, må det også synliggjøres hva slags særlig plikt kommunen har til kompetanseheving og forebygging for denne gruppen ansatte. *KS* har i møte med departementet bedt om at det i proposisjonen blir tydeliggjort at kommunene må vurdere eventuelle opplæringsbehov knyttet til nye regler selv, og etter en konkret risikovurdering, jf. internkontrollreglene.
+
+#### Departementets vurdering
+
+Departementet foreslår i likhet med høringsforslaget at reglene om forebygging, fysiske inngrep, dokumentasjon og meldeplikt skal gjelde for grunnskolen og den videregående opplæringen, samt leksehjelpen og SFO. Det betyr at de som har læretid i bedrift, og personer som får grunnopplæring organisert for voksne, ikke vil omfattes av reglene. Departementet mener at de ordinære reglene om nødrett og nødverge utgjør et tilstrekkelig grunnlag for skadeavvergende tiltak mot voksne og de som har læretid i bedriftene, slik som for øvrige voksne og på øvrige arbeidsplasser.
+
+Når det gjelder skoler godkjent etter privatskolelova, har ikke disse skolene plikt til å tilby SFO, i motsetning til leksehjelp. I den grad privatskolen driver SFO som godkjent tilleggsvirksomhet, jf. økonomiforskrift til privatskolelova § 7-1 bokstav a, gjelder reglene også for SFO.
+
+De som etter forslaget omfattes av reglene, er ansatte i grunnskolen og den videregående opplæringen, samt leksehjelpen og SFO. Det er ikke avgrenset til de som er ansatt i undervisningsstilling, reglene vil gjelde tilsvarende for assistenter, skoleledere og andre ansatte i skolen.
+
+Departementet foreslår at personkretsen det kan gripes inn til fordel for, bør være ubegrenset, men det praktiske vil være at den ansatte griper inn for å avverge en fysisk krenkelse mot seg selv, en eller flere elever eller andre ansatte på skolen.
+
+Enkelte høringsinstanser har stilt spørsmål om det vil stilles særlige kompetansekrav til ansatte eller krav til skoleeier om å tilby kompetansehevende tiltak i forbindelse med de nye reglene. Departementet vil vise til at kommunen og fylkeskommunen har ansvar for skolen drives etter gjeldende regler, og må sørge for at de ansatte har den kompetansen som er nødvendig for å oppfylle aktuelle lovkrav. Dette vil gjelde tilsvarende for de nye reglene, og det er derfor verken hensiktsmessig eller nødvendig å sette særskilte krav til kompetanse eller kompetansehevingstiltak i forbindelse med de foreslåtte reglene. For skoleeier vil det etter innføringen av reglene være tydeligere hvilke regler de ansatte må forholde seg til når det gjelder fysisk inngripen, noe som kan være til hjelp i vurderingen av hvilken komeptanse det er bruk for hos de ansatte. Skoleier må gjøre konkrete vurderinger og prioriteringer når det gjelder arbeidet med kompetanseheving hos de ansatte i skolen. Her vil skoleeiere og skoler kunne ha ulike behov ut ifra de lokale forholdene. Departementet viser i forlengelsen av dette til at kommuner og fylkeskommuner er underlagt krav om internkontroll og til å tilpasse internkontrollen til virksomhetens størrelse, egenart, aktiviteter og risikoforhold, jf. kommuneloven § 25-1 første og annet ledd.
+
+Departementet foreslår at virkeområdet for reglene skal være grunnskolen, den videregående opplæringen, leksehjelpen og SFO, og at reglene om fysisk inngripen skal gjelde for alle ansatte, se forslagene til §§ 13-3, 13-4 og 13-5, samt tilsvarende forslag for privatskolelova, se forslaget til §§ 3-10 a, 3-10 b og 3-10 c.
+
+## Forebygging
+
+### Forslaget i høringsnotatet
+
+I høringsnotatet 31. mai 2023 punkt 4.6 foreslo departementet å lovfeste at kommunen og fylkeskommunen skal sørge for at skolen arbeider løpende og systematisk for å unngå at det oppstår situasjoner som innebærer fysiske inngrep mot elever. Departementet foreslo at det for private grunnskoler godkjent etter opplæringslova vil være den øverste ledelsen som har ansvaret, og for skoler godkjent etter privatskolelova vil det være skolens styre som har ansvaret.
+
+### Høringsinstansenes syn
+
+Høringsinstansene er generelt positive til en regel om forebygging. Av totalt 68 som uttaler seg, støtter 59 høringsinstanser forslaget helt eller delvis, blant annet *Barneombudet*, *Foreldreutvalget for grunnopplæringen*, en rekke statsforvaltere, *Rogaland fylkeskommune*, *Vestland fylkeskommune* og flere andre fylkeskommuner, *Bergen kommune*, *Kristiansand kommune*, *Trondheim kommune* samt en rekke andre kommuner, *Elevorganisasjonen*, *Funksjonshemmedes fellesorganisasjon*, *Redd Barna* og flere andre organisasjoner. *Barneombudet* mener at det er et avgjørende premiss for å regulere bruk av fysisk makt i skolen, at det samtidig lovfestes en tydelig plikt til å forebygge bruk av fysisk makt i skolen. Flere høringsinstanser trekker frem at det må være kompetanse og ressurser til at forebyggingen blir reell, i tillegg til at det må være tilstrekkelig juridisk klarhet om hva forebyggingsregelen innebærer, enten i form av veiledning eller mer detaljerte lovkrav. *Oslo kommune* mener at det forebyggende arbeidet henger nært sammen med det systematiske skolemiljøarbeidet, arbeid med klasse- og læringsmiljø og fellesskapende didaktikk. Kommunen er derfor usikker på om forslaget vil innebære en dobbeltregulering av dette arbeidet, og mener for øvrig at forslaget gir få holdepunkter for hva det forebyggende arbeidet skal inneholde. *Utdanningsforbundet* støtter målet med forebyggingsbestemmelsen, men peker på at kommuner og fylkeskommuner har svært ulik kompetanse og kapasitet til å «sørgje for» og støtte opp under at skolene driver et kontinuerlig og systematisk forebyggende arbeid.
+
+Et mindretall (om lag 10 høringsinstanser), herunder *KS* og *Stavanger kommune*, mener at det ikke er nødvendig med regler om forebygging – eller meldeplikt og dokumentasjon, jf. punkt 4.6 og 4.7 nedenfor – primært fordi disse pliktene allerede kan utledes av dagens regelverk. *KS* viser til at dagens regler om skolemiljø, tilpasset opplæring, individuelt tilrettelagt opplæring, informasjon til hjemmet og internkontroll gjør at skoleeiere allerede har plikt til å jobbe systematisk med forebygging, at alvorlige hendelser skal dokumenteres og at rektor, foreldre og skoleeier skal varsles når sakens alvor tilsier det.
+
+### Departementets vurdering
+
+Departementet foreslår i likhet med høringsforslaget å lovfeste at kommunen og fylkeskommunen skal sørge for at skolen arbeider løpende og systematisk for at det ikke skal oppstå situasjoner som innebærer fysiske inngrep mot elever.
+
+Lovfestingen innebærer en presisering av skolens eksisterende forebyggingsplikter. Dagens regler om tilpasset opplæring, spesialundervisning og skolemiljø er videreført i ny opplæringslov og gir kommunen og fylkeskommunen plikt til å jobbe forebyggende på disse områdene. Departementet mener at det i forbindelse med innføring av en lovbestemmelse om fysisk inngripen bør presiseres at skolens forebyggende arbeid også må rette seg mot å unngå fysiske inngrep mot elevene. Målet må være i størst mulig grad å unngå at det oppstår situasjoner der ansatte må gripe inn fysisk mot elever og begrense maktbruken når slike situasjoner likevel oppstår. Forslaget om en regel om forebygging får stor støtte blant høringsinstansene. I tillegg til å sikre elevenes rett til et trygt og godt skolemiljø m.m., vil god forebygging av situasjoner hvor det oppstår behov for å gripe inn fysisk også bidra til å styrke ansattes arbeidsmiljø.
+
+Departementet mener at det ikke bør reguleres hvordan forebyggingen konkret skal skje i loven, men at dette bør avgjøres lokalt. Forebyggingsplikten må ses i sammenheng med andre forebyggingsplikter som loven oppstiller. Hensikten er å sørge for at forebygging av fysiske inngrep er tema skolene og skoleeierne har med seg når de jobber med forebygging etter eksisterende regelverk. Hvordan man bør jobbe forebyggende, vil variere med forholdene lokalt og det er derfor hensiktsmessig at regelen gir et handlingsrom her. Et utgangspunkt er imidlertid at forebyggende tiltak kan settes i verk både på skolenivå, på klasse- eller gruppenivå og på individnivå. I forbindelse med forebygging av nye tilfeller av fysiske inngrep, vil barnets rett til medvirkning være relevant. Forebyggingsplikten innebærer ikke nye dokumentasjonskrav.
+
+Departementet foreslår at kommunen og fylkeskommunen skal sørge for at skolen, leksehjelpen og skolefritidsordningen arbeider kontinuerlig og systematisk for at det ikke skal oppstå situasjoner der ansatte må gripe inn fysisk mot elever, se forslaget til § 13-3, samt tilsvarende forslag for privatskolelova, se i forslaget til § 3-10 a.
+
+## Dokumentasjon
+
+### Forslaget i høringsnotatet
+
+I høringsnotatet 31. mai 2023 punkt 4.8.1 foreslo departementet å lovfeste at skolen skal dokumentere hendelser der det har vært gjennomført fysiske inngrep med informasjon om hvordan situasjonen oppsto, hvordan inngrepet ble utført og hvordan eleven ser på saken.
+
+### Høringsinstansenes syn
+
+Et flertall av høringsinstansene som uttaler seg, støtter forslaget om dokumentasjon helt eller delvis (56 høringsinstanser), herunder *Barneombudet*, *Barne-, ungdoms- og familiedirektoratet*, *Foreldreutvalget for grunnopplæringen*, flere statsforvaltere, *Utdanningsdirektoratet*, en rekke fylkeskommuner, *Bergen kommune*, *Kristiansand kommune*, *Oslo kommune* og en rekke andre kommuner, *Elevorganisasjonen* og *Skolenes landsforbund*. *Utdanningsforbundet* mener dokumentasjonen kan styrke rettsikkerheten til både elever og ansatte og i tillegg være et godt verktøy for kartlegging og i arbeidet med systematisk forebygging. Forbundet mener likevel at dokumentasjonsplikten vil strekke seg utover gjeldende rett, og at forslaget med krav til involvering og belysning av situasjonen fra elever, ansatte og eventuelle vitner, vil innebære merarbeid, særlig for ledere. Noen høringsinstanser mener at det bør være mer detaljerte eller flere krav til hva dokumentasjonen skal omfatte. De fleste høringsinstansene støtter imidlertid at dokumentasjonskravet er relativt overordnet.
+
+Et mindretall (om lag 10 høringsinstanser), herunder *KS* og *Stavanger kommune*, mener at det ikke er nødvendig med regler om dokumentasjon – eller forebygging og meldeplikt, jf. punkt 4.6 og 4.8 – primært fordi disse pliktene allerede kan utledes av dagens regelverk. *KS* viser til at dagens regler om skolemiljø, tilpasset opplæring, individuelt tilrettelagt opplæring, informasjon til hjemmet og internkontroll gjør at skoleeiere allerede har plikt til å jobbe systematisk med forebygging, at alvorlige hendelser skal dokumenteres og at rektor, foreldre og skoleeier skal varsles når sakens alvor tilsier det.
+
+### Departementets vurdering
+
+Departementet mener i likhet med høringsforslaget at det bør være krav om å dokumentere tilfeller der ansatte har måttet gripe fysisk inn mot en elev. Dette vil styrke elevens rettssikkerhet. Systematisk dokumentasjon er viktig for å avdekke risiko og for å kunne vurdere forebyggende tiltak. Departementet viser videre til at de aller fleste høringsinstansene støtter forslaget helt eller delvis.
+
+Departementet mener at det bør stilles noen minimumskrav til dokumentasjonen, samtidig som disse ikke må bli for ressurskrevende. Dokumentasjonen bør inneholde nok informasjon til at man kan sette seg inn i hva som har skjedd, og hva det fysiske inngrepet har bestått i. Departementet foreslår å lovfeste at skolen skal dokumentere hendelsen med en beskrivelse av:
+
+- situasjonen
+
+- inngrepet som ble gjort
+
+- elevens syn på saken
+
 Siste strekpunkt ivaretar barnets rett til medvirkning i etterkant av inngrepet.
-Enkelte høringsinstanser har foreslått krav om
-at flere aspekter dokumenteres, eller at det innhentes synspunkter fra flere personer, for eksempel foreldre. Departementet mener at det vil føre
-til at kravet blir for omfattende. Skolene er allerede pålagt betydelige dokumentasjonskrav. Dersom kravene blir for omfattende, er det en risiko
-for at ansatte vegrer seg for å definere den fysiske
-handlingen som et fysisk inngrep som faller inn
-under dokumentasjonskravet.
-Som flere høringsinstanser peker på, vil en
-regel om dokumentasjon delvis overlappe dokumentasjonsplikten etter dagens regler om skolemiljøsaker. En egen regel om dokumentasjon sikrer imidlertid at visse aspekter ved en hendelse
-som involverer et fysisk inngrep alltid vil bli dokumentert.
-Departementet foreslår at skolen skal dokumentere hvert fysiske inngrep med en kort
-beskrivelse av hendelsen, inngrepet som ble gjort
-og elevens syn på saken, se forslaget til § 13-5
-andre ledd, samt tilsvarende forslag for privatskolelova, se i forslaget til § 3-10 c andre ledd.
 
-[Side 61]
+Enkelte høringsinstanser har foreslått krav om at flere aspekter dokumenteres, eller at det innhentes synspunkter fra flere personer, for eksempel foreldre. Departementet mener at det vil føre til at kravet blir for omfattende. Skolene er allerede pålagt betydelige dokumentasjonskrav. Dersom kravene blir for omfattende, er det en risiko for at ansatte vegrer seg for å definere den fysiske handlingen som et fysisk inngrep som faller inn under dokumentasjonskravet.
 
-2023–2024
+Som flere høringsinstanser peker på, vil en regel om dokumentasjon delvis overlappe dokumentasjonsplikten etter dagens regler om skolemiljøsaker. En egen regel om dokumentasjon sikrer imidlertid at visse aspekter ved en hendelse som involverer et fysisk inngrep alltid vil bli dokumentert.
 
-Prop. 62 L
+Departementet foreslår at skolen skal dokumentere hvert fysiske inngrep med en kort beskrivelse av hendelsen, inngrepet som ble gjort og elevens syn på saken, se forslaget til § 13-5 andre ledd, samt tilsvarende forslag for privatskolelova, se i forslaget til § 3-10 c andre ledd.
 
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
+## Melde fra til rektor, til elevens foreldre og skoleeier
 
-4.8
+### Forslaget i høringsnotatet
 
-Melde fra til rektor, til elevens
-foreldre og skoleeier
+I høringsnotatet 31. mai 2023 punkt 4.8.2 foreslo departementet å lovfeste at ansatte som har grepet inn fysisk mot en elev skal melde fra om det til rektor/daglig leder og at rektor/daglig leder skal melde fra til foreldrene til eleven. Rektor/daglig leder skal melde fra til kommunen eller fylkeskommunen når det har blitt gjennomført fysiske inngrep gjentatte ganger eller dersom inngrepet er særlig alvorlig. Departementet foreslo at rektor i private grunnskoler godkjent etter opplæringslova skal melde fra til skolens øverste ledelse, og daglig leder ved skoler godkjent etter privatskolelova skal melde fra til skolens styre.
 
-4.8.1 Forslaget i høringsnotatet
-I høringsnotatet 31. mai 2023 punkt 4.8.2 foreslo
-departementet å lovfeste at ansatte som har grepet inn fysisk mot en elev skal melde fra om det til
-rektor/daglig leder og at rektor/daglig leder skal
-melde fra til foreldrene til eleven. Rektor/daglig
-leder skal melde fra til kommunen eller fylkeskommunen når det har blitt gjennomført fysiske
-inngrep gjentatte ganger eller dersom inngrepet
-er særlig alvorlig. Departementet foreslo at rektor
-i private grunnskoler godkjent etter opplæringslova skal melde fra til skolens øverste ledelse, og
-daglig leder ved skoler godkjent etter privatskolelova skal melde fra til skolens styre.
-4.8.2 Høringsinstansenes syn
-Et flertall av høringsinstansene som uttaler seg
-støtter forslaget om meldeplikt helt eller delvis
-(52 høringsinstanser), blant annet Nordland fylkeskommune, Trøndelag fylkeskommune, Vestfold og
-Telemark fylkeskommune, Bærum kommune, og
-Trondheim kommune. Utdanningsforbundet støtter at det blir innført en meldeplikt hvis det skal
-innføres regler om fysiske inngrep mot elever.
-Utdanningsforbundet mener dette vil styrke rettssikkerheten til både elever og ansatte.
-En del høringsinstanser mener at det alltid bør
-meldes fra om fysiske inngrep til skoleeier, ikke
-bare i særlig alvorlige eller ved gjentatte tilfeller,
-herunder Elevorganisasjonen. Enkelte mener at
-terskelen bør være «alvorlige tilfeller» i stedet for
-«særlig alvorlige tilfeller», da dette harmonerer
-med terskelen for rapportering til skoleeier i skolemiljøsaker. Noen høringsinstanser, herunder
-Redd Barna, mener at det bør innføres en meldeplikt til statsforvalteren for å sikre bedre statlig
-kontroll. Utdanningsforbundet er enig med departementet i at det gjennom skriftlig samtykke fra
-foresatte, kan inngås avtaler om andre meldingsrutiner og annen rapporteringsfrekvens for elever
-hvor det kan forventes behov for gjentatte fysiske
-inngrep.
-Et mindretall (om lag 10 høringsinstanser),
-herunder KS og Stavanger kommune, mener at
-det ikke er nødvendig med regler om meldeplikt –
-eller forebygging og dokumentasjon, jf. punkt 4.6
-og 4.7 – primært fordi disse pliktene allerede kan
-utledes av dagens regelverk. KS viser til at dagens
-regler om skolemiljø, tilpasset opplæring, individuelt tilrettelagt opplæring, informasjon til hjem-
+### Høringsinstansenes syn
 
-59
+Et flertall av høringsinstansene som uttaler seg støtter forslaget om meldeplikt helt eller delvis (52 høringsinstanser), blant annet *Nordland fylkeskommune*, *Trøndelag fylkeskommune*, *Vestfold og Telemark fylkeskommune*, *Bærum kommune*, og *Trondheim kommune*. *Utdanningsforbundet* støtter at det blir innført en meldeplikt hvis det skal innføres regler om fysiske inngrep mot elever. *Utdanningsforbundet* mener dette vil styrke rettssikkerheten til både elever og ansatte.
 
-met og internkontroll gjør at skoleeiere allerede
-har plikt til å jobbe systematisk med forebygging,
-at alvorlige hendelser skal dokumenteres og at
-rektor, foreldre og skoleeier skal varsles når
-sakens alvor tilsier det.
+En del høringsinstanser mener at det alltid bør meldes fra om fysiske inngrep til skoleeier, ikke bare i særlig alvorlige eller ved gjentatte tilfeller, herunder *Elevorganisasjonen*. Enkelte mener at terskelen bør være «alvorlige tilfeller» i stedet for «særlig alvorlige tilfeller», da dette harmonerer med terskelen for rapportering til skoleeier i skolemiljøsaker. Noen høringsinstanser, herunder *Redd Barna*, mener at det bør innføres en meldeplikt til statsforvalteren for å sikre bedre statlig kontroll. *Utdanningsforbundet* er enig med departementet i at det gjennom skriftlig samtykke fra foresatte, kan inngås avtaler om andre meldingsrutiner og annen rapporteringsfrekvens for elever hvor det kan forventes behov for gjentatte fysiske inngrep.
 
-4.8.3 Departementets vurdering
-Departementet mener i likhet med høringsforslaget at det bør være krav om å melde fra til rektor
-og foreldre når ansatte har grepet fysisk inn mot
-en elev. Departementet foreslår at den som har
-grepet inn fysisk mot en elev, skal melde fra om
-inngrepet til rektor, og at rektor skal informere
-elevens foreldre. Departementet foreslår ikke
-formkrav for hvordan ansatte og rektor skal
-melde fra. Det kan derfor meldes fra både muntlig
-og skriftlig.
-Det følger av opplæringslova (2023) at kommuner og fylkeskommuner skal gi elever og foreldre den informasjonen de har bruk for, jf. § 10-8.
-Det følger også av § 12-4 andre ledd at rektor skal
-melde fra til kommunen eller fylkeskommunen i
-alvorlige skolemiljøsaker. Departementet mener
-det er behov for en konkret regel for å tydeliggjøre plikten til å melde fra om tilfeller av fysisk
-inngripen, ettersom de reglene vi allerede har er
-av mer generell art og det da kan oppstå tvil om
-hva det skal meldes fra om.
-Departementet foreslår også en plikt for rektor til å melde fra til skoleeier der ansatte må gripe
-inn fysisk mot den samme eleven (a) flere ganger,
-eller der inngrepet er (b) særlig alvorlig. Departementet mener at kriteriet flere ganger må forstås
-som tilfeller som har en viss tidsmessig eller tematisk nærhet, typisk tilfeller som skjer innenfor
-samme skoleår, eller som gjelder tilfeller knyttet
-til en pågående problematikk (hvor det for eksempel blir grepet inn mot samme type forhold mot
-slutten av et skoleår og deretter igjen i begynnelse
-av neste skoleår).
-Enkelte høringsinstanser mener at terskelen
-under (b) ikke bør være «særlig alvorlig», men
-«alvorlig», for å speile terskelen for å melde fra til
-skoleeier i skolemiljøsaker, som er at det skal meldes fra i alvorlige tilfeller.
-Departementet mener at det er argumenter for
-begge løsninger. Departementet mener at ikke
-alle saker med fysisk inngripen skal meldes
-videre. Spørsmålet er hvordan en terskel kan formuleres slik at det blir lett å forstå hvor grensen
-gpr for hva som skal meldes. På den ene siden kan
-det hevdes at terskelen «alvorlig» i seg selv markerer at ikke alle saker om fysiske inngrep skal
-meldes videre. På den andre siden kan det innven-
+Et mindretall (om lag 10 høringsinstanser), herunder *KS* og *Stavanger kommune*, mener at det ikke er nødvendig med regler om meldeplikt – eller forebygging og dokumentasjon, jf. punkt 4.6 og 4.7 – primært fordi disse pliktene allerede kan utledes av dagens regelverk. *KS* viser til at dagens regler om skolemiljø, tilpasset opplæring, individuelt tilrettelagt opplæring, informasjon til hjemmet og internkontroll gjør at skoleeiere allerede har plikt til å jobbe systematisk med forebygging, at alvorlige hendelser skal dokumenteres og at rektor, foreldre og skoleeier skal varsles når sakens alvor tilsier det.
 
-[Side 62]
+### Departementets vurdering
 
-60
+Departementet mener i likhet med høringsforslaget at det bør være krav om å melde fra til rektor og foreldre når ansatte har grepet fysisk inn mot en elev. Departementet foreslår at den som har grepet inn fysisk mot en elev, skal melde fra om inngrepet til rektor, og at rektor skal informere elevens foreldre. Departementet foreslår ikke formkrav for hvordan ansatte og rektor skal melde fra. Det kan derfor meldes fra både muntlig og skriftlig.
 
-Prop. 62 L
+Det følger av opplæringslova (2023) at kommuner og fylkeskommuner skal gi elever og foreldre den informasjonen de har bruk for, jf. § 10-8. Det følger også av § 12-4 andre ledd at rektor skal melde fra til kommunen eller fylkeskommunen i alvorlige skolemiljøsaker. Departementet mener det er behov for en konkret regel for å tydeliggjøre plikten til å melde fra om tilfeller av fysisk inngripen, ettersom de reglene vi allerede har er av mer generell art og det da kan oppstå tvil om hva det skal meldes fra om.
 
-2023–2024
+Departementet foreslår også en plikt for rektor til å melde fra til skoleeier der ansatte må gripe inn fysisk mot den samme eleven (a) flere ganger, eller der inngrepet er (b) særlig alvorlig. Departementet mener at kriteriet flere ganger må forstås som tilfeller som har en viss tidsmessig eller tematisk nærhet, typisk tilfeller som skjer innenfor samme skoleår, eller som gjelder tilfeller knyttet til en pågående problematikk (hvor det for eksempel blir grepet inn mot samme type forhold mot slutten av et skoleår og deretter igjen i begynnelse av neste skoleår).
 
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
+Enkelte høringsinstanser mener at terskelen under (b) ikke bør være «særlig alvorlig», men «alvorlig», for å speile terskelen for å melde fra til skoleeier i skolemiljøsaker, som er at det skal meldes fra i alvorlige tilfeller.
 
-des at en slik terskel på en uheldig måte merker
-de fysiske inngrep som ikke skal meldes videre
-som ikke alvorlige. Departementet mener at terskelen «særlig alvorlig» best kommuniserer at all
-bruk av fysisk inngripen er alvorlig samtidig som
-ikke alle saker skal videreformidles, og foreslår
-derfor denne terskelen.
-Enkelte høringsinstanser mener at skoleeier
-bør få melding om samtlige fysiske inngrep.
-Departementet mener at å fjerne terskelen kan
-redusere kompleksiteten i regelverket, da det vil
-være én mindre ting for rektor å vurdere. Samtidig vil det føre til flere meldinger og vil kunne
-undergrave formålet bak forslaget om meldeplikt.
-Formålet med meldeplikten er at skoleeier
-skal kunne følge opp skolenes arbeid med å forebygge situasjoner som innebærer bruk av fysisk
-inngripen. Departementet mener at fravær av en
-terskel kan lede til at meldeplikten ikke blir fulgt
-opp i praksis eller at meldingene ikke blir lest av
-skoleeier og brukt i oppfølgingen av skolene.
-Enkelte høringsinstanser mener at meldingene også bør gå til statsforvalter, for å sikre
-bedre statlig kontroll. En slik meldeplikt kan bidra
-til at statsforvalter har et bedre grunnlag for å vurdere tilsyn. Departementet mener at det det ikke
-bør innføres meldeplikt til statsforvalter, fordi rutinemessige meldinger til statsforvalterne kan
-svekke det kommunale og fylkeskommunale
-ansvaret for selv å følge opp slike meldinger på
+Departementet mener at det er argumenter for begge løsninger. Departementet mener at ikke alle saker med fysisk inngripen skal meldes videre. Spørsmålet er hvordan en terskel kan formuleres slik at det blir lett å forstå hvor grensen gpr for hva som skal meldes. På den ene siden kan det hevdes at terskelen «alvorlig» i seg selv markerer at ikke alle saker om fysiske inngrep skal meldes videre. På den andre siden kan det innvendes at en slik terskel på en uheldig måte merker de fysiske inngrep som ikke skal meldes videre som ikke alvorlige. Departementet mener at terskelen «særlig alvorlig» best kommuniserer at all bruk av fysisk inngripen er alvorlig samtidig som ikke alle saker skal videreformidles, og foreslår derfor denne terskelen.
 
-egnet måte. Det er skoleeier som har ansvaret for
-å forebygge situasjoner som innebærer bruk av
-fysisk inngripen, ikke statsforvalter.
-Departementet mener at oppgaven med å
-melde fra til foreldre og skoleeier er en oppgave
-rektor skal kunne delegere til andre ansatte ved
-skolen. Rektor har likevel ansvaret for at slike
-meldinger blir gitt i tråd med regelverket.
-I høringsnotatet skrev departementet at dersom inngrepet er beskrevet i en aktivitetsplan
-eller et vedtak om individuelt tilrettelagt opplæring, er det ikke plikt til å melde fra om hver
-enkelt hendelse dersom foreldrene samtykker til
-en annen rapporteringsfrekvens. I slike tilfeller
-må planen eller vedtaket fastsette hvor ofte foreldrene skal få informasjon om inngrepene som er
-gjort. Departementet vil presisere at det ikke kan
-legges opp til avvikende rapporteringsfrekvens til
-skoleeier. Det vil undergrave regelen om at det
-skal meldes fra til skoleeier ved flere tilfeller av
-bruk av fysisk inngripen overfor en elev.
-Departementet foreslår at en ansatt som har
-grepet inn fysisk etter § 13-4, skal melde fra om
-det til rektor. Rektor skal melde fra til elevens foreldre. Dersom det er grepet inn fysisk mot den
-samme eleven flere ganger eller inngrepet er særlig alvorlig, skal rektor melde fra til kommunen
-eller fylkeskommunen, se forslaget til § 13-5 første
-ledd, samt tilsvarende forslag for privatskolelova,
-se forslaget til § 3-10 c første ledd.
+Enkelte høringsinstanser mener at skoleeier bør få melding om samtlige fysiske inngrep. Departementet mener at å fjerne terskelen kan redusere kompleksiteten i regelverket, da det vil være én mindre ting for rektor å vurdere. Samtidig vil det føre til flere meldinger og vil kunne undergrave formålet bak forslaget om meldeplikt.
 
-[Side 63]
+Formålet med meldeplikten er at skoleeier skal kunne følge opp skolenes arbeid med å forebygge situasjoner som innebærer bruk av fysisk inngripen. Departementet mener at fravær av en terskel kan lede til at meldeplikten ikke blir fulgt opp i praksis eller at meldingene ikke blir lest av skoleeier og brukt i oppfølgingen av skolene.
 
-2023–2024
+Enkelte høringsinstanser mener at meldingene også bør gå til statsforvalter, for å sikre bedre statlig kontroll. En slik meldeplikt kan bidra til at statsforvalter har et bedre grunnlag for å vurdere tilsyn. Departementet mener at det det ikke bør innføres meldeplikt til statsforvalter, fordi rutinemessige meldinger til statsforvalterne kan svekke det kommunale og fylkeskommunale ansvaret for selv å følge opp slike meldinger på egnet måte. Det er skoleeier som har ansvaret for å forebygge situasjoner som innebærer bruk av fysisk inngripen, ikke statsforvalter.
 
-Prop. 62 L
+Departementet mener at oppgaven med å melde fra til foreldre og skoleeier er en oppgave rektor skal kunne delegere til andre ansatte ved skolen. Rektor har likevel ansvaret for at slike meldinger blir gitt i tråd med regelverket.
 
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
+I høringsnotatet skrev departementet at dersom inngrepet er beskrevet i en aktivitetsplan eller et vedtak om individuelt tilrettelagt opplæring, er det ikke plikt til å melde fra om hver enkelt hendelse dersom foreldrene samtykker til en annen rapporteringsfrekvens. I slike tilfeller må planen eller vedtaket fastsette hvor ofte foreldrene skal få informasjon om inngrepene som er gjort. Departementet vil presisere at det ikke kan legges opp til avvikende rapporteringsfrekvens til skoleeier. Det vil undergrave regelen om at det skal meldes fra til skoleeier ved flere tilfeller av bruk av fysisk inngripen overfor en elev.
 
-61
-
-5 Forvaltningsområdet for samiske språk
-5.1
-
-Bakgrunnen for lovforslaget
-
-Dette punktet handler om forholdet mellom opplæringslovas regler om opplæring i og på samisk,
-og samelovens regler om forvaltningsområdet for
-samiske språk.
-Departementet foreslår som varslet i Prop.
-57 L (2022–2023) tekniske endringer i reglene i ny
-opplæringslov som omhandler forvaltningsområdet for samiske språk. Samelovens kapittel 3 regulerer samiske språk, og definerer hva som menes
-med forvaltningsområdet for samiske språk.
-Endringer i samelovens språkregler trådte i kraft
-1. januar 2024, og medførte endringer i inndelingen av forvaltningsområdet for samiske språk.
-Det ble ved fremleggelsen av den nye opplæringslova tatt utgangspunkt i de dagjeldende
-reglene om forvaltningsområdet for samiske
-språk. Departementet orienterte i Prop. 57 L
-(2022–2023) om at departementet ville foreslå
-endringer i opplæringslova som ivaretar at
-reglene om opplæring i og på samisk blir videreført dersom det ble gjort endringer i samelovens
-regler om forvaltningsområdet for samiske språk.
-Departementets forslag her følger opp dette.
-Forslagene utgjør en teknisk oppfølging av tidligere vedtak. Det foreslås ingen realitetsendringer.
-
-5.2
-
-Gjeldende rett
-
-5.2.1 Opplæringslova
-Ny opplæringslov ble vedtatt i 2023, og skal etter
-planen tre i kraft 1. august 2024. Loven har flere
-bestemmelser som gjelder avhengig av om opplæringen gis i eller utenfor forvaltningsområdet for
-samisk språk.
-Ny opplæringslov § 1-5 regulerer samisk innhold i opplæringen og samiske læreplaner. Etter
-ny opplæringslov § 1-5 tredje ledd gir departementet forskrift om andre særskilte læreplaner for
-grunnskoleopplæringen i forvaltningsområdet for
-samisk språk og for andre elever som får samisk
-opplæring i grunnskolen og i den videregående
-opplæringen.
-
-Regler om opplæring i og på samisk i grunnskolen er gitt i ny opplæringslov § 3-2. Bestemmelsen inneholder regler om opplæring i og på
-samisk for elever som bor i og utenfor forvaltningsområdet for samisk språk. Alle samiske
-elever har rett til opplæring i nordsamisk, sørsamisk eller lulesamisk, jf. ny opplæringslov § 3-2
-første ledd. Dette gjelder uavhengig av om de bor
-i eller utenfor forvaltningsområdet for samisk.
-Bestemmelsens andre ledd gjelder kun i forvaltningsområdet for samisk språk. Etter andre
-ledd første punktum har elever som bor i forvaltningsområdet for samisk språk rett til opplæring i
-og på samisk. Etter andre ledd andre punktum
-kan kommuner i forvaltningsområdet for samisk
-språk gi forskrift om at alle elever i kommunen
-skal ha grunnleggende opplæring i samisk språk
-og samisk kultur.
-Bestemmelsens tredje ledd gjelder elever som
-bor utenfor forvaltningsområdet for samisk språk.
-De har rett til opplæring i og på samisk dersom
-minst ti elever i en kommune krever det, og så
-lenge det gjenstår minst seks elever i gruppa.
-Ny opplæringslov § 19-14 regulerer retten til
-opplæring i og på samisk for voksne deltakere.
-Alle samiske deltakere i forberedende og videregående opplæring for voksne har rett til opplæring
-i samisk. Samiske deltakere i den forberedende
-opplæringen for voksne som bor i forvaltningsområdet for samisk språk, har rett til opplæring på
-samisk når det er nødvendig for å få forsvarlig
-utbytte av opplæringen.
-
-5.2.2 Sameloven
-Endringer i samelovens språkregler ble vedtatt i
-juni 2023, og endringene trådte i kraft 1. januar
-2024. Samelovens nye regler innebærer blant
-annet en ny inndeling av forvaltningsområdet for
-samiske språk. Etter ny samelov § 3-1 bokstav a er
-forvaltningsområdet for samiske språk kommuner inndelt i kategoriene språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner, og fylkeskommuner, som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk.
-
-[Side 64]
-
-62
-
-Prop. 62 L
-
-2023–2024
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-Inndelingen av forvaltningsområdet innebærer en differensiering hvor nivå av rettigheter
-varierer ut ifra hvilken kategori av forvaltningsområdet kommunen hører til. Språkutviklingskommuner og språkvitaliseringskommuner er
-kategoriene med høyest og nest høyest nivå rettigheter. Kommunene som før lovendringen 1.
-januar 2024 var omfattet av forvaltningsområdet,
-inngår etter lovendringen i en av de to kategoriene.
-Språkstimuleringskommuner er kategorien
-med lavest nivå rettigheter, hvor den samiske
-befolkningen i hovedsak er tilflyttet og ikke har
-samme tilknytning til samiske språk som de øvrige
-kommunekategoriene. Hvilke kommuner som skal
-inngå i kategorien språkstimuleringskommuner vil
-være avhengig av kommunens søknad om innlemmelse i forvaltningsområdet. Hvilke rettigheter
-som skal knyttes til dette nivået, må vurderes konkret i sektorlovgivningen.
-Formålet med differensieringen er at kategoriene skal gjenspeile ulikhetene i dagens språksituasjon, og de behovene kommunene har. Etableringen av en kommunekategori med et lavere rettighetsnivå skal også senke terskelen for at nye kommuner ønsker å bli innlemmet i forvaltningsområdet.
-
-5.3
-
-Departementets vurdering
-
-Når departementet la fram forslaget til den nye
-opplæringslova var ikke endringene i samelovens
-regler om forvaltningsområdet vedtatt. Det ble
-derfor tatt utgangspunkt i de dagjeldende reglene
-om forvaltningsområdet for samisk språk. I Prop.
-57 L (2022–2023) på side 226 uttalte departementet:
-Departementet vil presisere at forslaga om retten til opplæring i og på samisk som skal gjelde
-for forvaltningsområdet for samisk språk, tar
-utgangspunkt i dagens reglar om forvaltningsområdet for samisk språk, slik dei følgjer av
-samelova § 3-1 nr. 1 og forskrift om forvaltningsområdet for samisk språk § 1. Dersom
-det blir gjort endringar i reglane om forvaltningsområdet for samisk språk, og det blir innført ei inndeling med tre kategoriar slik som
-beskrive over, vil departementet foreslå
-endringar i opplæringslova som varetar at retten til opplæring i og på samisk i forvaltningsområdet for samisk språk blir vidareført og
-dermed gjeld for dei to kategoriane språk-
-
-utviklingskommunar og språkvitaliseringskommunar.
-Ei lovfesting av samiske opplæringsrettar i
-ein eventuell tredje kategori av forvaltningsområdet for samisk språk har ikkje vore greidd ut
-eller høyrt. Departementet vil vurdere konsekvensane eventuelle endringar i samelova kan
-og bør få for opplæringslova.
-Som en følge av endringene i samelovens regler
-om forvaltningsområdet for samiske språk foreslår Kunnskapsdepartementet endringer i opplæringslova i tråd med omtalen i Prop. 57 L (2022–
-2023) over. Forslaget innebærer at begrepet «forvaltningsområdet for samisk språk» i opplæringslova §§ 1-5 tredje ledd, 3-2 andre og tredje ledd og
-19-14 erstattes med begrepene «språkutviklingskommuner» og «språkvitaliseringskommuner».
-Forslaget til endring innebærer at reglene som
-etter ny opplæringslov kun gjelder enten i eller
-utenfor forvaltningsområdet for samiske språk, nå
-vil gjelde i eller utenfor språkutviklingskommuner
-og språkvitaliseringskommuner. Kommunene som
-i dag inngår i forvaltningsområdet for samiske
-språk er etter samelovens nye regler fordelt på
-kommunekategoriene språkutviklingskommuner
-og språkvitaliseringskommuner. Reglene vil derfor gjelde de samme kommuner, og på samme
-måte som i dag.
-Departementet foreslår ikke egne regler om
-opplæring i og på samisk for språkstimuleringskommuner nå. Som omtalt i Prop. 57 L (2022–
-2023) er slike regler verken utredet eller hørt.
-Departementet viser til at hensikten med
-endringene i sameloven er å kunne differensiere
-rettigheter og plikter, slik at de bedre kan tilpasses behovet til de ulike kommunene, og å senke
-terskelen for at nye kommuner søker seg inn i forvaltningsområdet.
-Departementet er usikker på om det er hensiktsmessig at reglene om opplæring i og på
-samisk som i dag gjelder forvaltningsområdet for
-samiske språk får virkning i en ny kategori av forvaltningsområdet. Individuell rett til opplæring i
-og på samisk for alle elever vil kunne være vanskelig å oppfylle, og det kan bidra til at terskelen
-for at kommuner søker seg inn i forvaltningsområdet som språkstimuleringskommuner blir for
-høy.
-Departementet viser til at alle kommuner utenfor forvaltningsområdet for samiske språk uansett
-har plikt til å gi samiskopplæring etter opplæringslova § 3-2 første og tredje ledd. Etter departementets forslag vil disse reglene gjelde tilsvarende for språkstimuleringskommuner. Det inne-
-
-[Side 65]
-
-2023–2024
-
-Prop. 62 L
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-bærer at alle elever har rett til opplæring i og på
-samisk dersom minst ti elever i kommunen
-ønsker det, og det gjenstår minst seks elever i
-gruppa, og at alle samiske elever har en individuell rett til opplæring i samisk.
-Departementets vurdering er at det per i dag
-ikke framstår å være behov for et nivå av rettigheter som ligger mellom de som i dag gjelder i forvaltningsområdet for samisk språk, og som etter
-forslaget vil gjelde i språkutviklingskommuner og
-språkvitaliseringskommuner, og de rettighetene
-som gjelder øvrige kommuner, og som etter forslaget også vil gjelde i språkstimuleringskommuner. Departementet vil komme tilbake til saken
-
-63
-
-dersom det viser seg at det blir behov for å utrede
-spørsmålet nærmere. Departementet og Sametinget hadde konsultasjoner om forslaget til ny opplæringslov, se omtale i Prop. 57 L (2022–2023)
-punkt 2.1.3 og 30.
-Departementet viser i denne sammenheng til
-at departementet i Prop. 57 L (2022–2023) uttalte
-at departementet vil ha dialog med Sametinget om
-hvilke forutsetninger som må være på plass for at
-eventuelle nye rettigheter kan lovfestes i opplæringslova.
-Departementet foreslår tekniske justeringer i
-opplæringslova §§ 1-5, 3-2 og 19-14.
-
-[Side 66]
-
-64
-
-2023–2024
-
-Prop. 62 L
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-6 Økonomiske og administrative konsekvenser
-6.1
-
-Kompetansekrav for ansettelse
-i lærerstilling
-
-Departementet legger til grunn at forslaget om å
-stille krav om relevant lærerutdanning i lovens
-hovedregel, ikke vil ha vesentlige økonomiske
-eller administrative konsekvenser. Flere av
-høringsinstansene peker på at forslaget vil ha få
-konsekvenser, da dagens praksis for ansettelse
-uansett er i tråd med høringsforslaget. Departementet gjør også oppmerksom på at adgangen til
-midlertidig ansettelse videreføres.
-
-6.2
-
-Faglig ansvar for opplæringen
-i skolen
-
-Forslaget om å tydeliggjøre i loven at det kun er
-de som er ansatt i lærerstilling som kan ha faglig
-ansvar for opplæringen, innebærer ingen realitetsendring og vil ikke ha vesentlige økonomiske eller
-administrative konsekvenser.
-
-6.3
-
-Regler om avverging av skade
-og bruk av fysisk inngripen
-
-De fysiske inngrepene vil ikke i seg selv ha økonomiske eller administrative konsekvenser. I de
-videre avsnittene vurderes de økonomiske og
-administrative konsekvensene knyttet til forebyggings-, dokumentasjons- og meldeplikten.
-Forslaget om at skolen skal arbeide løpende
-og systematisk for å unngå at det oppstår situasjoner som innebærer fysiske inngrep mot elever, er
-en presisering av krav som allerede ligger i reguleringen av tilpasset opplæring, individuelt tilrettelagt opplæring og skolemiljø. Det er også i dag en
-plikt til å tilpasse opplæringen, vurdere og ev.
-gjennomføre individuelt tilrettelagt opplæring og
-iverksette tiltak for å gi elevene et trygt og godt
-skolemiljø. At det tas inn en særskilt regel knyttet
-til å unngå situasjoner med fysisk inngripen overfor elever er først og fremst for å tydeliggjøre skolens plikter i denne sammenheng.
-
-Et dokumentasjonskrav knyttet særskilt til
-bruk av fysiske inngrep overfor elever er i
-utgangspunktet nytt. Departementet anser likevel at det vil være en betydelig del av overlapp
-mellom tilfeller som skal dokumenteres etter forslaget og saker som skal dokumenteres etter
-dagens regel om aktivitetsplikt i skolemiljøsaker.
-Forslaget om meldeplikt ved fysiske inngrep
-overfor elever er i all hovedsak en presisering av
-gjeldende regler. For forslaget om melding til rektor
-viser vi til at det er en viss grad av overlapp mellom
-denne meldeplikten og meldeplikten etter skolemiljøreglene. Forslaget om meldeplikt til foreldrene
-vil allerede være dekket av dagens plikt til å gi elevens foreldre viktig informasjon om eleven, jf. tilsvarende regelen i opplæringslova (2023) § 10-8 om
-informasjon til elevene og foreldrene.
-God etterlevelse av de øvrige reglene i forslaget,
-særlig forebyggingsplikten, og avgrensingen av hva
-som regnes som fysiske inngrep, legger dessuten
-opp til at det bør være få tilfeller av fysiske inngrep,
-og dermed også få inngrep som det skal dokumenteres og meldes fra om. Departementet viser i den
-sammenheng til Deloittes rapport om bruk av tvang
-og makt i skolen av 2019. Her fremgår det at det
-som regel kun er et fåtall elever på en enkeltskole
-som fysiske inngrep er rettet mot. God og målrettet
-forebygging vil derfor kunne ha stor verdi. Se rapporten s. 22:
-Ved flere av skolene blir det i intervju vist til at
-situasjoner der det er behov for å gripe inn ved
-bruk av tvang og makt som oftest er knyttet til
-få enkeltelever. En skole kan eksempelvis ha
-én eller to elever som i perioder har en voldelig
-og utagerende atferd som forårsaker akutte
-situasjoner, og som skolen ikke klarer å løse
-uten bruk av tvang og makt. Ved de fleste skoler oppstår ikke slike situasjoner hyppig, men
-ved en skole forteller ansatte om en elev som i
-perioder forårsaket daglige hendelser som ble
-vurdert som akutte situasjoner med fare for
-skade på andre personer. I hovedsak opplyses
-det at det da dreier seg om fare for at andre
-elever skal bli skadet. I perioder opplever sko-
-
-[Side 67]
-
-2023–2024
-
-Prop. 62 L
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-lene å ikke ha noen elever i ordinær opplæring
-som har en slik atferd.
-
-På bakgrunn av dette legger departementet til
-grunn at forslaget om å dokumentere og melde
-fra om tilfeller av bruk av fysiske inngrep overfor
-elever, ikke vil ha vesentlige økonomiske og administrative konsekvenser.
-Det er skoleeiers ansvar å sørge for tilstrekkelig kompetanse i virksomheten til å kunne følge
-kravene som står i loven. Skolen må også i dag
-sørge for kompetanse i personalet. Skoleeier
-avgjør selv hvordan de vil følge opp plikten, og
-hvilke prioriteringer som skal gjøres om hvem
-som skal få kompetanseutvikling i hva. Her vil
-ulike kommuner og skoler kunne ha ulike behov.
-Departementet har varslet at det vil bli utarbeidet
-
-65
-
-veiledningsmateriale om regelverket og problemstillinger knyttet til dette, som kan være nyttig for
-skoleeier, og lette arbeidet med eventuell kompetanseutvikling. På bakgrunn av dette legger
-departementet til grunn at forslaget ikke vil ha
-vesentlige økonomiske og administrative konsekvenser.
-
-6.4
-
-Forvaltningsområdet for samiske
-språk
-
-Forslaget om å presisere bestemmelsene om forvaltningsområdet for samiske språk medfører
-ingen realitetsendringer, og har ingen økonomiske eller administrative konsekvenser.
-
-[Side 68]
-
-66
-
-Prop. 62 L
-
-2023–2024
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-7 Merknader til de enkelte bestemmelsene
-7.1
-
-Til endringene i opplæringslova
-
-Til § 1-5
-I paragrafens tredje ledd første punktum er begrepet «forvaltningsområdet for samisk språk» erstattet med «språkutviklingskommunar og språkvitaliseringskommunar». Endringen medfører ingen
-realitetsendring. Forslaget er nærmere omtalt i
-punkt 5.
-Til § 3-2
-I bestemmelsens andre ledd første punktum er
-begrepet «forvaltningsområdet for samisk språk»
-erstattet med «språkutviklingskommunar eller
-språkvitaliseringskommunar». I andre ledd andre
-punktum er «Kommunar i forvaltningsområdet for
-samisk språk» erstattet med «Språkutviklingskommunar og språkvitaliseringskommunar etter
-sameloven § 3-1».
-En tilsvarende endring er tatt inn i tredje ledd,
-hvor «forvaltningsområdet for samisk språk»
-erstattes med «språkutviklingskommunar og språkvitaliseringskommunar etter sameloven § 3-1».
-Endringene medfører ingen realitetsendring.
-Forslagene er nærmere omtalt i punkt 5.
-Til § 13-3
-Paragrafen er ny og er omtalt i punkt 4.6.
-Bestemmelsen slår fast at kommunen og fylkeskommunen skal sørge for at skolen, leksehjelpen og skolefritidsordningen driver et kontinuerlig og systematisk arbeid for at det ikke skal oppstå situasjoner der ansatte må gripe inn fysisk mot
-elever. Det er kommunen og fylkeskommunen
-som har ansvaret for oppfyllelsen. Oppfyllelsen vil
-i praksis skje på skolenivå.
-Bestemmelsen innebærer en presisering av
-skolens eksisterende forebyggingsplikter. Bestemmelsen er ment er å sørge for at forebygging av
-fysiske inngrep er et tema skolene og skoleeierne
-har med seg når de jobber med forebygging etter
-eksisterende regelverk, som reglene om individuelt tilrettelagt opplæring og skolemiljø.
-
-Kravet om forebygging har sammenheng med
-målet om å unngå å gripe inn fysisk mot elever.
-Kravet må ses i sammenheng med reglene om tilpasset opplæring, individuelt tilrettelagt opplæring og skolemiljø, men er mer målrettet og dekkende for målet om å unngå fysiske inngrep mot
-elever. Kommunene og fylkeskommunene avgjør
-selv hvordan de jobber forebyggende. Hvordan
-man bør jobbe forebyggende, vil variere med forholdene lokalt. Et utgangspunkt er imidlertid at
-forebyggende tiltak kan settes i verk både på skolenivå, på klasse- eller gruppenivå og på individnivå. For øvrig innebærer ikke forebyggingsplikten nye dokumentasjonskrav.
-Skolen kan jobbe forebyggende ved å identifisere hva som både utløser og opprettholder oppførsel det må gripes inn mot, og vurdere hvordan
-dette kan håndteres på en best mulig måte. Gode
-forebyggende tiltak forutsetter god kjennskap til
-elevene og elevenes opplevelse av skolehverdagen
-og oversikt over hvor, når og i hvilken sammenheng krevende situasjoner oppstår. Det kan for
-eksempel være at enkelte elever trenger en mer
-tilpasset opplæring, individuelt tilrettelagt opplæring eller tiltak for å bedre elevens psykososiale
-miljø, eller en kombinasjon disse. Dersom skolen
-må gripe inn fysisk overfor en elev gjentatte ganger, kan dette være et uttrykk for at skolen må
-iverksette nye eller andre tiltak for å forebygge at
-slike situasjoner oppstår i framtiden.
-I forberedelsen og gjennomføringen av slike
-tiltak er det viktig med god elevmedvirkning og
-samarbeid med elevens foreldre, jf. §§ 10-2, 10-3
-og 10-8. Tiltakene bør dessuten ses i sammenheng med skolens helhetlige skolemiljøarbeid.
-Til § 13-4
-Paragrafen er ny og er omtalt i punkt 4.5.
-Paragrafen gjelder i grunnskoler og i videregående skoler, skolefritidsordningen og leksehjelpen og alle som er ansatt der. Paragrafen gjelder
-ikke for lærebedrifter eller for voksenopplæringen. Det vises til de alminnelige merknadene til
-forslaget i punkt 4.5.12.
-
-[Side 69]
-
-2023–2024
-
-Prop. 62 L
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-Første ledd åpner for at ansatte kan gripe inn
-fysisk mot en elev. At ansatte kan gripe inn fysisk,
-vil si at den ansatte bruker fysisk makt for å overvinne motstand hos eleven.
-Det er stilt opp flere vilkår for når slik inngripen kan skje. Formålet må være å avverge én eller
-flere av de situasjonene som er nevnt i første ledd
-bokstav a–c. Formålet med det fysiske inngrepet
-må være å avverge at en av disse situasjonene oppstår. Første ledd hjemler ikke fysiske inngrep i
-andre situasjoner.
-Det fysiske inngrepet må ha som formål å
-avverge skaden. I «avverge» ligger det at man kan
-gripe inn fysisk mot en elev noe før det har oppstått en helt umiddelbar faresituasjon.
-Det er et inngangsvilkår at andre tiltak ikke
-kan være tilstrekkelige for at det kan gripes inn i
-en av situasjonene nevnt i første ledd bokstav a–c.
-Andre tiltak kan for eksempel være å snakke med
-eleven for å roe situasjonen. Barnets rett til medvirkning, jf. § 10-2, tilsier at eleven gis anledning
-til å uttale seg i den grad det er mulig. Slik medvirkning kan bidra til å kartlegge om det finnes
-alternative tiltak. Hvorvidt andre tiltak ikke er tilstrekkelige, er en konkret og skjønnsmessig vurdering som den ansatte må gjøre. Vilkåret innebærer at fysisk inngripen kun kan benyttes som
-siste utvei. I den grad det er mulig skal andre mindre inngripende tiltak være forsøkt eller uansett
-vurdert. Vurderingen må bero på kunnskap om og
-erfaring med slike situasjoner og den enkelte
-eleven, herunder om eleven har en funksjonsnedsettelse eller andre utfordringer. Kunnskap om
-slike forhold vil gi bedre forutsetninger til å vurdere om det foreligger alternative tiltak som kan
-være tilstrekkelige for å avverge en av situasjonene nevnt i første ledd bokstav a–c, slik at fysisk
-inngripen ikke blir nødvendig. Her vil den ansatte
-ha et slingringsmonn i sine vurderinger.
-Vilkåret om at andre tiltak ikke kan være tilstrekkelige, innebærer at situasjonen som regel
-vil ha tilspisset seg før man griper inn. I andre tilfeller vil andre tiltak normalt fremdeles kunne
-være tilstrekkelige. Det kan likevel etter en konkret vurdering gripes inn før situasjonen blir
-akutt, så fremt dette blir gjort for å avverge at en
-situasjon eskalerer og det ikke finnes andre handlingsalternativer. Jo tidligere før situasjonen blir
-akutt, jo flere handlingsalternativer utover å gripe
-inn fysisk vil det normalt foreligge. Det kan imidlertid forekomme tilfeller der ansatte for eksempel gjennom tidligere inngrep har opparbeidet seg
-en erfaring med at visse situasjoner, gitt at det
-ikke gripes inn, vil eskalere på en slik måte at
-andre personer vil kunne bli fysisk krenket eller at
-
-67
-
-gjenstander vil bli ødelagt. Det vises til de alminnelige merknadene til forslaget i punkt 4.5.1.
-Bokstav a åpner for det første for fysisk inngripen for å avverge at eleven krenker en person
-fysisk. Formuleringen dekker tilfeller som omfattes av straffeloven §§ 271 til 273 om kroppskrenkelser og kroppsskader og § 297 om seksuell
-handling uten samtykke. Avgrensningen av hva
-som faller utenfor vil i utgangspunktet være den
-samme som etter disse bestemmelsene i straffeloven. Slag, spark, lugging, biting osv. omfattes,
-men også andre fysiske handlinger som krenker
-en person, som å bli spyttet på eller å bli tatt på en
-privat kroppsdel uten samtykke eller andre seksuelle krenkelser vil være omfattet.
-Personkretsen det kan gripes inn til fordel for,
-er ubegrenset, men det praktiske vil være at den
-ansatte griper inn for å avverge en fysisk krenkelse mot seg selv, en eller flere elever eller andre
-ansatte på skolen.
-I at ansatte kun kan gripe inn mot fysiske krenkelser, ligger at ansatte ikke kan gripe inn mot
-elever som frivillig tar på hverandre, med mindre
-forholdet omfattes av første ledd bokstav c.
-Ansatte kan likevel gripe inn mot planlagte slagsmål og lignende, da slike «avtaler» innebærer en
-betydelig risiko for fysiske krenkelser.
-Det vil ikke være adgang til å gripe inn fysisk
-mot krenkelser som ikke er av fysisk art, det vil si
-rene utsagn eller andre handlinger av hovedsakelig kommunikativ art. Dette inkluderer verbale
-angrep, ukvemsord, men også blikking og annet
-kroppsspråk som innebærer trakassering, diskriminering eller mobbing. Verbale angrep og lignende må håndteres i tråd med skolemiljøreglene.
-Bokstav a åpner for det andre for fysisk inngripen der eleven utsetter seg selv for fysisk fare,
-både bevisst og ubevisst. Ansatte kan for eksempel gripe inn mot selvskading eller som står i fare
-for å bli skadet i trafikken, i snøskred eller lignende, etter dette kriteriet. Det vises til de alminnelige merknadene til forslaget i punkt 4.5.2.
-Bokstav b åpner for fysisk inngripen for å
-avverge skade på eiendom. Eiendom kan være
-bygninger, inventar og andre ting. Eiendommen
-kan tilhøre eleven det gripes inn mot, andre
-elever, ansatte, skoleeier, eller tredjepersoner. Det
-kan gripes inn uavhengig av eiendommens verdi
-(herunder i form av økonomisk verdi, bruksverdi
-eller affeksjonsverdi). Eiendommmens verdi vil
-likevel ha betydning for hvor langt man kan gå i å
-gripe inn, ettersom inngrepet må stå i rimelig forhold til de interesser som skal ivaretas, jf. andre
-ledd. I den vurderingen vil blant annet eiendommens verdi og hvorvidt eiendommen tilhører
-
-[Side 70]
-
-68
-
-Prop. 62 L
-
-2023–2024
-
-Endringer i opplæringslova og privatskolelova (kompetansekrav, faglig ansvar og bruk av fysisk inngripen
-for å avverge skade m.m.)
-
-eleven være relevante momenter. Det vises til de
-alminnelige merknadene til forslaget i punkt 4.5.3.
-Bokstav c gir en snever adgang til å gripe inn
-fysisk mot en elev for å stanse oppførsel som er
-sterkt fornedrende for eleven selv. I slike tilfeller
-vil det være hensynet til å sikre respekten for elevens menneskeverd som gjør inngrepet rettmessig. Eksempler på hvor adgangen kan være aktuell er situasjoner der eleven kler av seg eller onanerer foran andre, gjør fra seg andre steder enn på
-toalettet eller griser med avføring. Det vises til de
-alminnelige merknadene til forslaget i punkt 4.5.4.
-Det følger av andre ledd at det fysiske inngrepet ikke kan gå lenger enn nødvendig og må stå i
-et rimelig forhold til de interessene som skal ivaretas. Også i disse vurderingene vil den ansatte ha
-et slingringsmonn.
-I at inngrepet ikke kan gå lenger enn nødvendig, ligger det både at inngrepet må være egnet til
-å avverge den aktuelle situasjonen i første ledd
-bokstav a–c, og at inngrepene må være så få, kortvarige og skånsomme som mulig. Et fysisk inngrep som ikke er egnet til å oppnå sitt formål, vil
-aldri kunne være nødvendig. I tillegg må det foretas en forholdsmessighetsvurdering av det aktuelle inngrepet. Inngrepet må stå «i eit rimeleg forhold til dei interessene som skal varetakast». Jo
-tyngre interessene man søker å ivareta er, jo lengre kan det fysiske inngrepet i utgangspunktet gå.
-Vern av liv og helse veier tyngre enn vern av eiendom. Vern av verdifulle gjenstander vil utgjøre et
-mer tungtveiende hensyn enn mindre verdifulle
-gjenstander. I vurderingen av forholdsmessighet
-må det også tas hensyn til hva som er foranledningen for å gripe inn fysisk, herunder om man søker
-å avverge et angrep på andre eller ikke. For
-eksempel vil det normalt være adgang til et noe
-mer inngripende inngrep for å avverge at en elev
-sparker en annen elev, enn når eleven sparker seg
-selv. Det kan være aktuelt å la en elev slå seg selv
-uten å gripe inn fysisk, selv om man ville grepet
-inn ved tilsvarende slag mot andre personer. Tilsvarende vil kunne gjelde dersom eleven ødelegger egne gjenstander fremfor andres gjenstander.
-I forholdsmessighetsvurderingen må det tas hensyn til særegne forhold ved eleven, som funksjonsnedsettelser eller andre sårbarheter. Det
-vises til de alminnelige merknadene til forslaget i
-punkt 4.5.6.
-Det sentrale er at man skal sørge for trygghet
-med minst mulig inngripende tiltak. Aktuelle tiltak kan etter omstendighetene være å holde
-eleven fast eller flytte på en elev. I enkelte tilfeller
-kan det være adgang til å ta eleven ut av klassen
-eller gruppen. I slike tilfeller tilsier skolens
-
-omsorgsansvar at en voksen følger opp eleven
-som tas ut av elevfellesskapet, ut ifra elevens
-alder, utvikling og graden av inngrep.
-Bestemmelsen er ikke avgrenset til situasjoner som skjer i klasserommet, men kan også
-benyttes ved situasjoner som oppstår i skolegården, på utflukter eller når elevene forflytter seg.
-Det vil ikke være tillatt å gripe inn fysisk for å
-effektuere bortvisningsvedtak.
-Bestemmelsen omfatter fysiske inngrep og
-åpner ikke for andre tvangstiltak som isolering,
-mekaniske tvangsmidler, ransaking eller beslaglegning. Det vises til de alminnelige merknadene
-til forslaget i punkt 4.5.5.
-Det fysiske inngrepet kan ikke opprettholdes
-lenger enn til den aktuelle situasjonen angitt i første ledd bokstav a-c er over.
-I tilfeller der situasjoner hvor ansatte må gripe
-inn fysisk mot elever gjentar seg, må skolen
-arbeide forebyggende, jf. merknaden til § 13-3.
-I vurderingen av hvordan man bør gripe inn,
-skal elevens beste alltid være et grunnleggende
-hensyn, jf. opplæringslova § 10-1, Grunnloven
-§ 104 andre ledd og Barnekonvensjonen artikkel
-3. Eleven skal behandles hensynsfullt og med
-respekt.
-Bestemmelsen åpner ikke for at foreldrene
-eller eleven samtykker til andre tiltak, for eksempel mer inngripende eller mer varige eller gjentatte tiltak.
-Eleven har rett til medvirkning, jf. § 10-2. Elevens rett til medvirkning under inngrepet kan
-komme til uttrykk i form av konkrete tilbakemeldinger på inngrepet (dersom eleven f.eks. sier at
-grepet gjør vondt, kan den ansatte løsne grepet).
-Slike tilbakemeldinger kan påvirke den løpende
-forholdsmessighets- og nødvendighetsvurderingen som må foretas. I akutte situasjoner må likevel elevens rett til medvirkning tilpasses det praktisk mulige.
-Fysiske inngrep som er gjort i tråd med vilkårene i denne bestemmelsen, vil ikke være en krenkelse etter skolemiljøreglene, jf. §§ 12-3 til 12-5.
-Elever som det blir grepet fysisk inn mot, kan likevel oppleve at det psykososiale miljøet ikke er trygt
-og godt, noe som vil utløse den alminnelige aktivitetsplikten for skolemiljø, jf. § 12-4. Det vises til de
-alminnelige merknadene til forslaget i punkt 4.5.8.
-Dersom det er nødvendig å gjennomføre
-fysiske inngrep mot elevens vilje som ledd i helseog omsorgstjenester, er det helse- og omsorgstjenesteloven kapittel 9 som er det relevante rettslige
-grunnlaget. Slike tiltak kan ikke gjennomføres
-med hjemmel i opplæringslova. Det vises til de
+Departementet foreslår at en ansatt som har grepet inn fysisk etter § 13-4, skal melde fra om det til rektor. Rektor skal melde fra til elevens foreldre. Dersom det er grepet inn fysisk mot den samme eleven flere ganger eller inngrepet er særlig alvorlig, skal rektor melde fra til kommunen eller fylkeskommunen, se forslaget til § 13-5 første ledd, samt tilsvarende forslag for privatskolelova, se forslaget til § 3-10 c første ledd.

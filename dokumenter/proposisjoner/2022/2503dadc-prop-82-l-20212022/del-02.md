@@ -1,1090 +1,242 @@
-# Prop. 82 L (2021–2022), del 2 av 6 (side 19–30)
+# Prop. 82 L (2021–2022), del 2 av 6
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2022/2503dadc-prop-82-l-20212022.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-82-l-20212022/id2907919/
 - Original-PDF: https://www.regjeringen.no/contentassets/1db50637d1dd469f9a54d24c44df50db/no/pdfs/prp202120220082000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 19]
-
-2021–2022
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-Engerdal kommune
-Hadsel kommune
-Tinn kommune
-Barnehagene i sentrum øst
-Snåsa Montessoribarnehage
-Trudvanglia barnehage
-
-2.4.3
-
-Høring av forslag til krav om
-regnskapsmessig skille
-I høringen med forslag til ny regulering av private
-barnehager støttet flertallet av høringsinstansene
-et krav om at private barnehager skal være et eget
-rettssubjekt, men forslaget ble ikke støttet av de
-store private barnehageeierne og PBL. Instansene
-som støttet forslaget mente at krav om eget rettssubjekt er et viktig virkemiddel for å sikre transparens og god kontroll med at offentlige tilskudd og
-foreldrebetaling blir brukt til formålet. Hovedinnvendingen mot forslaget var at forslaget koster
-unødvendig mye for de private barnehagene, at
-det var urimelig at staten ikke ville kompensere
-for denne merutgiften og at det griper for sterkt
-inn i organisasjonsfriheten deres.
-Departementet sendte derfor sommeren 2021
-ut et høringsnotat med forslag om å innføre krav
-om et regnskapsmessig skille mellom flere barnehager eller annen virksomhet i samme rettssubjekt, se høringsnotatet Krav om regnskapsmessig
-skille for private barnehager mv. (forslag til
-endringer i barnehageloven og forslag til ny økonomiforskrift til barnehageloven) datert 2. juli
-2021.
-Fristen for å avgi høringsuttalelser var 1. oktober 2021. Departementet mottok 44 høringssvar
-innen fristen.
-Høringsnotatet ble sendt til følgende høringsinstanser:
-Departementene
-Samediggi/Sametinget
-Sentralledelsen for fylkesnemndene for barnevern
-og sosiale saker
-Sivilombudet
-Statsforvalterne
-Sysselmesteren på Svalbard
-Kommunene
-Longyearbyen lokalstyre
-Arbeidstilsynet
-Barne-, ungdoms- og familiedirektoratet (Bufdir)
-Brønnøysundregistrene
-Datatilsynet
-
-Forbrukerrådet
-Folkehelseinstituttet
-Forbrukerombudet
-Forbrukerrådet
-Forbruksforskningsinstituttet SIFO
-Forskningsrådet
-Helsedirektoratet
-Helsetilsynet
-Husbanken
-Integrerings- og mangfoldsdirektoratet (IMDi)
-Kompetanse Norge
-Konkurransetilsynet
-Kriminalomsorgsdirektoratet
-Mattilsynet
-Miljødirektoratet
-Statens arbeidsmiljøinstitutt
-Statistisk sentralbyrå (SSB)
-Statped
-Språkrådet
-Utdanningsdirektoratet
-Utlendingsdirektoratet (UDI)
-Barneombudet
-Forbrukerombudet
-Foreldreutvalget for barnehager (FUB)
-Foreldreutvalget for grunnopplæringen (FUG)
-Likestillings- og diskrimineringsombudet
-Alle landets private barnehager
-Abelia
-Akademikerne
-Arbeidsgiverforeningen Spekter
-Espira
-Kanvas
-PBL
-Steinerbarnehageforbundet
-Trygge barnehager
-Delta
-Fagforbundet
-Fellesorganisasjonen
-Funksjonshemmedes fellesorganisasjon
-Handikappede Barns Foreldreforening
-Human-Etisk Forbund
-Kirkens arbeidsgiverorganisasjon
-KS
-Landsorganisasjonen i Norge (LO)
-Læringsverkstedet
-Næringslivets hovedorganisasjon (NHO)
-Revisorforeningen
-Skolelederforbundet
-Unio
-Utdanningsforbundet
-Virke
-YS
-
-17
-
-[Side 20]
-
-18
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-Atferdssenteret
-Dysleksi Norge
-Fafo
-IKO – Kirkelig pedagogisk senter
-Innvandrernes landsorganisasjon
-Institutt for samfunnsforskning
-KEFF – Kliniske ernæringsfysiologers forening
-Kristent Pedagogisk Forum
-Kvinnefronten
-Landsrådet for Norges barne- og ungdomsorganisasjoner
-Lesesenteret
-Likestillingssenteret
-Matematikksenteret
-Multikulturelt initiativ- og Ressursnettverk
-NAFO
-Nasjonalt senter for flerkulturell opplæring
-Nasjonalt senter for fremmedspråk i opplæringen
-Nasjonalt senter for kunst og kultur i opplæringa
-Nasjonalt senter for mat, helse og fysisk aktivitet
-Naturfagsenteret
-NFU – Norsk Forbund for Utviklingshemmede
-Norges Bygdekvinnelag
-Norges Døveforbund
-Norges Handikapforbund
-Norges Kvinne- og familieforbund
-Norsk innvandrerforum
-Norsk Montessoriforbund
-Norsk senter for barneforskning (NOSEB)
-Norsk senter for menneskerettigheter
-Norsk studentorganisasjon (NSO)
-Norske Kveners Forbund
-Norske Samers Riksforbund
-Nynorsksenteret
-REFORM -ressurssenter for menn
-Regelrådet
-Regnskap Norge
-Røde Kors
-Samarbeidsforumet for funksjonshemmedes organisasjoner
-Senter for samisk i opplæringa
-Skrivesenteret
-Stiftelsen barnas rettigheter
-UNICEF Norge
-Dronning Mauds Minne Høyskole
-Samisk Høgskole – Sámi allaskuvla
-Universitetet i Rogaland Læringsmiljøsenteret
-Universitets- og høgskolerådet
-Velferdsforskningsinstituttet – NOVA
-Disse høringsinstansene har kommentert forslagene fra departementet:
-Utdanningsdirektoratet
-Statistisk Sentralbyrå
-
-2021–2022
-
-Regelrådet
-Bergen kommune
-Brønnøysundregistrene
-Bømlo kommune
-Drammen kommune
-Fredrikstad kommune
-Nordre Follo kommune
-Nordre Land kommune
-Oslo kommune
-Sandefjord kommune
-Sarpsborg kommune
-Stavanger kommune
-Trondheim kommune
-Barnehagesjef i tjenesteområde barnehage,
-Horten kommune
-Abelia
-Arbeidsgiverforeningen Spekter
-Fagforbundet
-Hovedorganisasjonen Virke
-LO Norge
-Revisorforeningen
-Utdanningsforbundet
-Utdanningsforbundet Bergen
-Espira gruppen
-IBID
-Kristent Interkulturelt Arbeid
-Læringsverkstedet AS
-NLM-barnehagene AS
-Norlandia Barnehagene
-PBL
-Ragnas hage
-Samskipnadsrådet
-Stiftelsen Kanvas
-Trygge Barnehager AS
-Disse høringsinstansene har svart, men hadde
-ikke kommentarer til noen av forslagene:
-Forsvarsdepartementet
-Helse- og omsorgsdepartementet
-Justis- og beredskapsdepartementet
-Klima- og miljødepartementet
-Kriminalomsorgsdirektoratet
-Statens arbeidsmiljøinstitutt
-Statsforvalteren i Vestland
-
-2.4.4
-
-Høring av forslag om å presisere
-statsforvalterens tilsynshjemmel
-
-Departementet sendte høsten 2020 på høring
-blant annet et forslag om å presisere statlig tilsyn
-m.m. med fylkeskommunen i barnehageloven, se
-høringsnotatet datert 26. november 2020 med forslag til endringer i barnehageloven om plikt til å
-
-[Side 21]
-
-2021–2022
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-vurdere barns norskkunnskaper før skolestart
-med mer.
-Fristen for å avgi høringsuttalelser var 26.
-februar 2021. Departementet mottok 322 høringssvar innen fristen. 18 høringsinstanser kommenterte forslaget om å presisere statlig tilsyn m.m.
-med fylkeskommunen.
-Høringsnotatet ble sendt ut til følgende høringsinstanser:
-Departementene
-Sametinget
-Sentralledelsen for fylkesnemndene for barnevern
-og sosiale saker
-Sivilombudsmannen
-Fylkesmannsembetene
-Sysselmannen på Svalbard
-Riksrevisjonen
-Kommunene
-Longyearbyen lokalstyre
-Fylkeskommunene
-Arbeidstilsynet
-Barne-, ungdoms- og familiedirektoratet (Bufdir)
-Brønnøysundregisteret
-Datatilsynet
-Forbrukerombudet
-Forbrukerrådet
-Folkehelseinstituttet
-Forskningsrådet
-Helsedirektoratet
-Helsetilsynet
-Husbanken
-Integrerings- og mangfoldsdirektoratet (IMDi)
-Kompetanse Norge
-Konkurransetilsynet
-Kriminalomsorgsdirektoratet
-Mattilsynet
-Miljødirektoratet
-Statens arbeidsmiljøinstitutt
-Statens institutt for forbruksforskning
-Statistisk Sentralbyrå
-Statped
-Språkrådet
-Utdanningsdirektoratet
-Utlendingsdirektoratet (UDI)
-Barneombudet
-Foreldreutvalget for barnehager (FUB)
-Foreldreutvalget for grunnopplæringen (FUG)
-Likestillings- og diskrimineringsombudet
-Alle landets private barnehager
-Akademikerne
-
-19
-
-Arbeidsgiverforeningen Spekter
-Delta
-Espira
-Kanvas
-Læringsverkstedet
-NHO
-PBL
-PIA (Private barnehager i Asker)
-Fagforbundet
-Fellesorganisasjonen
-Funksjonshemmedes fellesorganisasjon
-Handikappede barns foreldreforening
-Human-Etisk forbund
-Kirkens arbeidsgiverorganisasjon
-KS
-Landsorganisasjonen i Norge
-Lederne
-Norges Montessoriforbund
-Norsk Foreldrelag for Funksjonshemmede
-Skolelederforbundet
-Steinerbarnehagene Norge
-Trygge barnehager
-Unio
-Utdanningsforbundet
-Virke
-YS
-Atferdssenteret
-Dysleksi Norge
-Fafo
-Kirkelig pedagogisk senter
-Innvandrernes landsorganisasjon
-Institutt for samfunnsforskning
-KEFF – Kliniske ernæringsfysiologers forening
-Kristent Pedagogisk Forum
-Kvinnefronten
-Landsrådet for Norges barne- og ungdomsorganisasjoner
-Lesesenteret
-Likestillingssenteret
-Matematikksenteret
-Multikulturelt Initiativ- og Ressursnettverk
-NAFO
-Nasjonalt organ for kvalitet i utdanningen
-Nasjonalt senter for flerkulturell opplæring
-Nasjonalt senter for fremmedspråk i opplæringen
-Nasjonalt senter for kunst og kultur i opplæringa
-Nasjonalt senter for mat, helse og fysisk aktivitet
-Naturfagsenteret
-Norsk forbund for Utviklingshemmede
-Norges Bygdekvinnelag
-Norges Døveforbund
-Norges handikapforbund
-Norges kvinne- og familieforbund
-Norsk innvandrerforum
-
-[Side 22]
-
-20
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-Norsk senter for barneforskning
-Norsk senter for menneskerettigheter
-Norsk studentorganisasjon (NSO)
-Norske Kveners Forbund
-Norske Samers Riksforbund
-Nynorsksenteret
-REFORM- ressurssenter for menn
-Regelrådet
-Røde Kors
-Samarbeidsforumet av funksjonshemmedes
-organisasjoner
-Senter for samisk i opplæringa
-Skrivesenteret
-Stiftelsen barnas rettigheter
-Taterne/Romanifolkets Menneskerettighetsforening (TRM)
-Tvillingforeldreforeningen
-Unge funksjonshemmede
-UNICEF Norge
-Dronning Mauds Minne Høyskole
-Samisk Høgskole
-Universitetet i Rogaland Læringsmiljøsenteret
-Universitets- og høgskolerådet
-Velferdsforskningsinstituttet – NOVA
-Disse høringsinstansene har kommentert forslaget om å presisere statsforvalterens tilsyn m.m.
-med fylkeskommunen:
-Barne-, ungdoms og familiedirektoratet
-Helsedirektoratet
-Statped
-Barneombudet
-Statsforvalteren i Vestfold og Telemark
-Bergen kommune
-Drammen kommune
-Fjaler kommune
-Færder kommune
-Molde kommunes formannsskap
-Molde kommune
-KS
-Virke
-Norsk Forbund for utviklingshemmede
-Organisasjonen for private barnehager i Larvik
-Utdanningsforbundet Østre Toten
-Anne-Grete Eiken
-Anonym person
-Disse høringsinstansene har svart, men hadde
-ikke kommentarer til noen av forslagene:
-Helse- og omsorgsdepartementet
-Justis- og beredskapsdepartementet
-
-2021–2022
-
-Samferdselsdepartementet
-Utenriksdepartementet
-Brønnøysundregistrene
-Kompetanse Norge
-NOKUT
-Nordland fylkeskommune
-Horten kommune
-Utdanningsforbundet Søndre Land
-
-2.4.5
-
-Høring av forslag til endringer i
-tilsynshjemlene i barnehageloven
-Departementet sendte vinteren 2022 på høring et
-forslag om enkelte endringer i tilsynshjemlene for
-statsforvalterne og Utdanningsdirektoratet i barnehageloven, se høringsnotatet Forslag til
-endringer i tilsynshjemlene i barnehageloven datert
-21. januar 2022.
-Fristen for å avgi høringsuttalelser var 4. mars
-2022. Departementet mottok 45 høringssvar innen
-fristen.
-Høringsnotatet ble sendt til de samme
-høringsinstansene som er opplistet i kapittel 2.4.4.
-Disse høringsinstansene har kommentert forslagene fra departementet:
-Sametinget
-Statsforvalteren i Agder
-Statsforvalteren i Vestfold og Telemark
-Aurskog-Høland kommune
-Bergen kommune
-Halden kommune
-Hamar kommune
-Horten kommune
-Kongsberg kommune
-Lindesnes kommune
-Oslo kommune
-Skien kommune
-Stavanger kommune
-Time kommune
-Trondheim kommune
-Foreldreutvalget for barnehager
-Hovedorganisasjonen Virke
-KS
-LO Norge
-PBL
-Steinerbarnehageforbundet
-Utdanningsforbundet
-
-[Side 23]
-
-2021–2022
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-FUS nettverk Akershus Øst
-Lundegård barnehage SA
-Læringsverkstedet
-Skarevik barnehage
-
-Statistisk sentralbyrå
-Statsforvalteren i Oslo og Viken
-Statsforvaltaren i Vestland
-Utdanningsdirektoratet
-
-Disse høringsinstansene har svart, men hadde
-ikke kommentarer til noen av forslagene:
-Forsvarsdepartementet
-Helse- og omsorgsdepartementet
-Justis- og beredskapsdepartementet
-Samferdselsdepartementet
-
-Iveland kommune
-Nore og Uvdal kommune
-Ringerike kommune
-
-Brønnøysundregistrene
-Folkehelseinstituttet
-Helsedirektoratet
-
-Blåveisen barnehage
-Lundegård barnehage SA
-Noahs Ark barnehage
-Tvillingforeldreforeningen
-
-21
-
-[Side 24]
-
-22
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-2021–2022
-
-3 Krav om at hver private barnehage skal være
-et selvstendig rettssubjekt
-3.1
-
-Bakgrunnen for forslaget
-
-Den private delen av barnehagesektoren har
-utviklet seg betydelig de siste årene, med blant
-annet større grad av kommersialisering og oppkjøp av barnehager. Reguleringen av de private
-barnehagene må ses i sammenheng med den
-generelle utviklingen de siste årene. Videre har
-forventningene til barnehagenes kvalitet, mangfold og tilgjengelighet økt. Disse forventningene
-har blitt fulgt opp gjennom blant annet pedagognorm og etter- og videreutdanningssatsing i barnehagene, samt moderasjonsordninger og lavere
-barnehagepris. Barnehagene er offentlig finansiert, noe som taler for at staten også har et ansvar
-for å sørge for at pengene går til formålet.
-Mange private barnehager er i dag registrert
-som en underenhet til en annen juridisk enhet.
-Disse barnehagene skal være registrert med eget
-organisasjonsnummer, men er ikke selvstendige
-rettssubjekter. Som underenheter har de ikke
-plikt til å levere fullstendig årsregnskap for hver
-barnehage.
-De nye reglene om nasjonalt økonomitilsyn
-med private barnehager, som er lagt til Utdanningsdirektoratet, trådte i kraft 1. januar 2022. Slik
-regelverket er nå, har Utdanningsdirektoratet
-begrenset mulighet til å kontrollere den enkelte
-barnehagens bruk av tilskudd og foreldrebetaling.
-Bedre og mer transparent regnskapsinformasjon fra private barnehager vil bidra til at offentlige myndigheter kan kontrollere at offentlige tilskudd og foreldrebetaling går til formålet. Dette
-kan også ha en forebyggende effekt fordi det vil
-redusere risikoen for at private barnehager bruker tilskudd og foreldrebetaling i strid med regelverket. Det kan bidra til å sikre god kvalitet i alle
-barnehager ved at mer av pengene blir brukt til
-barna og de ansatte i barnehagen, selv om det
-krever noe mer administrativt arbeid fra barnehagene sin side. Videre vil et godt og effektivt tilsyn
-bidra til å ivareta legitimiteten til de private barnehagene. Transparens og åpenhet om hvordan de
-private barnehagene bruker tilskudd og foreldre-
-
-betaling vil i tillegg gi kommunene og staten et
-bedre grunnlag for å styre barnehagesektoren.
-De siste årene har samfunnets og myndighetenes
-behov for innsyn vært økende. Regelverket må
-oppdateres for å ivareta dette behovet.
-Å organisere barnehagene som selvstendige
-rettssubjekter gir kommunene og staten den
-beste informasjonen om økonomien i hver enkelt
-barnehage. Både velferdstjenesteutvalget og flertallet i Storberget-utvalget anbefaler å innføre et
-krav om at hver private barnehage skal være et
-selvstendig rettssubjekt.
-Å organisere barnehagene som selvstendige
-rettssubjekter reduserer også risikoen for at private barnehager kan gå konkurs. Når en privat
-barnehage er en del av et rettssubjekt med flere
-virksomheter, øker risikoen for at barnehagene
-går konkurs fordi rettssubjektets kreditorer kan
-ta beslag i barnehagenes midler. Dette kan skje
-selv om det ikke er den aktuelle barnehagen som
-har økonomiske utfordringer. Når rettssubjektet
-tar opp lån til investeringer, er det eieren som mottar avkastningen av dette. Det er ikke tillatt å kostnadsføre renter og avdrag på lån til annen type
-virksomhet i barnehagenes regnskaper. Fordi
-rettssubjektets kreditorer kan ta beslag i barnehagens midler, kan det offentlige tilskuddet og foreldrebetalingen likevel bli brukt til å dekke tap fra
-andre virksomheter eller andre barnehager. Samtidig kan det gå utover kommunens barnehagetilbud dersom investeringene går med tap.
-Å organisere barnehagene som selvstendige
-rettssubjekter kan videre bidra til å begrense
-kommersialiseringen av den private delen av barnehagesektoren. Et krav om selvstendig rettssubjekt vil gi de private barnehagene likere konkurransevilkår, uavhengig av eierform og tidligere
-organisering.
-Forslaget her følger opp Stortingets anmodningsvedtak nr. 42 i forbindelse med behandlingen av Meld. St. 1 (2021–2022) Nasjonalbudsjettet
-2022, jf. Innst. 2 S (2021–2022), der «Stortinget
-ber regjeringen fremme nødvendige tiltak for å
-sikre økt åpenhet og transparens i virksomheten
-til private tilbydere av offentlig finansierte velferd-
-
-[Side 25]
-
-2021–2022
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-stjenester, herunder et offentlig register over alle
-private virksomheter som leverer offentlig finansierte velferdstjenester».
-Forslaget her følger videre opp Stortingets
-anmodningsvedtak nr. 43 i forbindelse med
-behandlingen av Meld. St. 1 (2021–2022) Nasjonalbudsjettet 2022, jf. Innst. 2 S (2021–2022), der
-«Stortinget ber regjeringen utrede forslag om å
-stille krav til at selskaper som leverer offentlig
-finansierte velferdstjenester, organiseres i egne
-rettssubjekter hvor det ikke er tillatt å drive annen
-virksomhet enn offentlig finansierte velferdstjenester».
-
-3.2
-
-23
-
-godkjenning. Kravet om innskuddskapital gjelder
-uavhengig av organisasjonsform og skal sikre at
-eieren har et tilstrekkelig økonomisk fundament
-for å kunne drive en skole. Kravet til innskuddskapital er høyere enn etter aksjeloven, men har i
-praksis ingen betydning for skoler som er organisert som stiftelser. Dette skyldes at det i stiftelsesloven er et krav om innskuddskapital på
-100 000 kroner.
-Da kravet om at hver skole skal være et eget
-rettssubjekt ble innført, ble det gitt en overgangsperiode på to år etter at loven trådte i kraft. Friskolene fikk dermed to år til å tilpasse seg de nye kravene.
-
-Dagens regler
-
-3.2.1 Barnehageloven
-Det følger av barnehageloven § 7 andre ledd at
-kommunale og private barnehager skal være
-registrert i Enhetsregisteret. Flere barnehager
-kan ikke ha samme organisasjonsnummer, og
-hver barnehage skal dermed ha et organisasjonsnummer. Selv om barnehagen har eget organisasjonsnummer, kan en privat barnehage være
-registrert som en underenhet i et rettssubjekt
-som driver flere barnehager og annen virksomhet. Underenhetene er registrert i Enhetsregisteret, men kan ikke registreres i Foretaksregisteret.
-De er heller ikke regnskapspliktige etter regnskapsloven, og har ikke rapporteringsplikt til
-Regnskapsregisteret. De har dermed ikke plikt til
-å levere fullstendig årsregnskap, registrere daglig
-leder, melde fra ved fusjon eller fisjon og lignende.
-3.2.2 Friskoleloven
-Etter friskoleloven er det et krav om at hver skole
-skal være registrert som et eget rettssubjekt.
-Dette kravet ble innført samtidig som forbudet
-mot å drive eller eie annen virksomhet enn skole.
-I merknaden til friskoleloven § 2-2 i Ot.prp. 80
-(2002–2003) står det:
-For å hindre sammenblanding med eiers eventuelle øvrige virksomhet, må skolen organiseres som et eget rettssubjekt som kan
-registreres i Enhetsregisteret eller tilsvarende
-register. Formålet med bestemmelsen er å få
-en klar identifisering av skolen og en oversikt
-over dens styre og andre registrerte nøkkelopplysninger.
-Friskolene skal dokumentere en innskuddskapital
-på minimum 100 000 kroner før det blir søkt om
-
-3.2.3 Universitets- og høyskoleloven
-Ekspertgruppen som vurderte regulering, tilsyn
-og kontroll med private høyskoler og fagskoler
-vurderte om det skulle innføres et forbud mot å
-drive annen virksomhet i institusjoner som driver
-akkreditert utdanning, se ekspertgrupperapporten Private høyskoler og fagskoler i samfunnets tjeneste datert 15. desember 2014. I høringen som
-danner bakgrunnen for Prop. 44 L (2016–2017),
-foreslo departementet to alternativer for å oppnå
-et tilstrekkelig økonomisk skille mellom akkreditert utdanning og annen virksomhet. Departementet foreslo å innføre enten et forbud mot
-annen virksomhet eller et krav til et regnskapsmessig skille. Departementet valgte å ikke innføre
-et slikt forbud på daværende tidspunkt, se Prop.
-44 L (2016–2017) kapittel 6.5.
-I universitets- og høyskoleloven § 8-7 andre
-ledd er det i dag et krav om at annen virksomhet
-enn akkreditert utdanning må holdes økonomisk
-adskilt fra den akkrediterte virksomheten. Kravet
-gjelder for både private høyskoler som mottar og
-ikke mottar tilskudd. Det skal lages regnskapsmessige skiller som er egnet til å dokumentere at
-annen virksomhet holdes økonomisk adskilt fra
-den akkrediterte utdanningen. Det betyr at det
-løpende skal føres separate regnskap for de ulike
-delene av virksomheten etter ordinære regnskapsprinsipper, blant annet fullt resultat- og
-balanseregnskap. I § 8-7 andre ledd er det presisert at regnskapene skal kunne dokumentere at
-institusjonen opprettholder et skille mellom aktivitetene i virksomheten. Departementet har fastsatt
-ytterligere krav til det regnskapsmessige skillet i
-forskrift.
-Det følger av universitets- og høyskoleloven
-§ 8-3 tredje ledd at private høyskoler som mottar
-tilskudd, skal la tilskudd og studentenes egenbetaling «komme studentene til gode». Bestemmel-
-
-[Side 26]
-
-24
-
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
-
-sen fastsetter videre at private høyskoler som mottar statstilskudd, ikke kan foreta utdelinger. Dette
-omfatter alle former for åpne eller skjulte uttak av
-verdier fra driften. Utdelingsforbudet gjelder for
-hele virksomheten, og omfatter dermed også
-eventuell annen virksomhet enn høyskoledrift
-som drives i samme rettssubjekt.
-
-3.3
-
-Høringsforslaget
-
-I høringsnotatet datert 26. april 2019, Forslag til
-endringer i barnehageloven med forskrifter (ny
-regulering av private barnehager), foreslo departementet å innføre et krav om at hver private barnehage skal være et selvstendig rettssubjekt. Flertallet av høringsinstansene støttet et slikt krav, men
-forslaget ble ikke støttet av de store barnehageeierne og PBL. Hovedinnvendingen var at forslaget
-koster unødvendig mye for de private barnehagene, og at det griper for sterkt inn i organisasjonsfriheten deres. Departementet sendte derfor
-på høring sommeren 2021 et forslag om å innføre
-krav om et regnskapsmessig skille mellom flere
-barnehager eller annen virksomhet i samme rettssubjekt, se høringsnotatet Krav om regnskapsmessig skille for private barnehager mv. Forslag til
-endringer i barnehageloven og forslag til ny økonomiforskrift til barnehageloven, datert 2. juli 2021.
-Forslaget om at hver private barnehage skal
-være et selvstendig rettssubjekt innebærer at flere
-private barnehager ikke kan være organisert i
-samme rettssubjekt. Barnehager som er et eget
-rettssubjekt, skal utarbeide regnskap og revisjonsberetning i samsvar med kravene i regnskapsloven og bokføringsloven. Departementet
-foreslo også å videreføre forskriftsbestemmelsene
-om innsending av opplysninger til tilsynsmyndigheten.
-Departementet foreslo å regulere i barnehageloven at styret for rettssubjektet som driver barnehagen, skal være barnehagens øverste ansvarlige
-organ. Det innebærer at styret er ansvarlig for å
-drive barnehagen i tråd med barnehageloven med
-forskrifter. Styret må være oppnevnt i samsvar
-med barnehagens rettsgrunnlag.
-Departementet foreslo videre at kravet om at
-hver private barnehage skal være et eget rettssubjekt, ikke skal gjelde for barnehager som er så
-små at de i dag ikke har revisjonsplikt etter forskrift om regnskapsplikt for godkjente ikke-kommunale barnehager (økonomiforskrift til barnehageloven) § 3. Forslaget innebar at kravet ikke vil
-gjelde for barnehageeiere som alene, sammen
-med nærstående eller selskap i samme konsern,
-
-2021–2022
-
-eier ordinære barnehager med til sammen færre
-enn 20 barn eller familiebarnehager med til
-sammen færre enn 10 barn. Kravet vil heller ikke
-gjelde for eiere som alene, sammen med nærstående eller selskap i samme konsern som eier,
-bare har én åpen barnehage. Departementet ba
-høringsinstansene om å gi innspill til om dette er
-en hensiktsmessig grense for en slik unntaksbestemmelse.
-Departementet foreslo at dagens regler i økonomiforskrift til barnehageloven skal videreføres
-for de barnehagene som blir unntatt fra kravet om
-å være et eget rettssubjekt. Samtidig foreslo
-departementet å oppheve unntaket fra revisjonsplikten i forskriften § 3. Forslaget innebærer at
-private barnehager som ikke blir pålagt å være et
-eget rettssubjekt, skal få resultatregnskapet revidert av en revisor godkjent etter revisorloven.
-I høringen om regnskapsmessig skille i 2019
-foreslo departementet å presisere i forskriftshjemmelen i barnehageloven § 23 femte ledd at departementet kan fastsette krav til dokumentasjon, i tillegg til bestemmelser om regnskap, revisjon og
-rapportering.
-Departementet foreslo å innføre en rimelig
-overgangsperiode for kravet om å etablere barnehagen som et eget rettssubjekt. Departementet ba
-om høringsinstansenes syn på hvor lang denne
-overgangsperioden bør være.
-Se nærmere omtale i høringsnotatet fra 2019
-kapittel 7 og høringsnotatet fra 2021 kapittel
-3.1.3.4.
-
-3.4
-
-Høringsinstansenes syn
-
-3.4.1
-
-Krav om at hver private barnehage skal
-være et selvstendig rettssubjekt
+# Krav om at hver private barnehage skal være et selvstendig rettssubjekt
+
+## Bakgrunnen for forslaget
+
+Den private delen av barnehagesektoren har utviklet seg betydelig de siste årene, med blant annet større grad av kommersialisering og oppkjøp av barnehager. Reguleringen av de private barnehagene må ses i sammenheng med den generelle utviklingen de siste årene. Videre har forventningene til barnehagenes kvalitet, mangfold og tilgjengelighet økt. Disse forventningene har blitt fulgt opp gjennom blant annet pedagognorm og etter- og videreutdanningssatsing i barnehagene, samt moderasjonsordninger og lavere barnehagepris. Barnehagene er offentlig finansiert, noe som taler for at staten også har et ansvar for å sørge for at pengene går til formålet.
+
+Mange private barnehager er i dag registrert som en underenhet til en annen juridisk enhet. Disse barnehagene skal være registrert med eget organisasjonsnummer, men er ikke selvstendige rettssubjekter. Som underenheter har de ikke plikt til å levere fullstendig årsregnskap for hver barnehage.
+
+De nye reglene om nasjonalt økonomitilsyn med private barnehager, som er lagt til Utdanningsdirektoratet, trådte i kraft 1. januar 2022. Slik regelverket er nå, har Utdanningsdirektoratet begrenset mulighet til å kontrollere den enkelte barnehagens bruk av tilskudd og foreldrebetaling.
+
+Bedre og mer transparent regnskapsinformasjon fra private barnehager vil bidra til at offentlige myndigheter kan kontrollere at offentlige tilskudd og foreldrebetaling går til formålet. Dette kan også ha en forebyggende effekt fordi det vil redusere risikoen for at private barnehager bruker tilskudd og foreldrebetaling i strid med regelverket. Det kan bidra til å sikre god kvalitet i alle barnehager ved at mer av pengene blir brukt til barna og de ansatte i barnehagen, selv om det krever noe mer administrativt arbeid fra barnehagene sin side. Videre vil et godt og effektivt tilsyn bidra til å ivareta legitimiteten til de private barnehagene. Transparens og åpenhet om hvordan de private barnehagene bruker tilskudd og foreldrebetaling vil i tillegg gi kommunene og staten et bedre grunnlag for å styre barnehagesektoren. De siste årene har samfunnets og myndighetenes behov for innsyn vært økende. Regelverket må oppdateres for å ivareta dette behovet.
+
+Å organisere barnehagene som selvstendige rettssubjekter gir kommunene og staten den beste informasjonen om økonomien i hver enkelt barnehage. Både velferdstjenesteutvalget og flertallet i Storberget-utvalget anbefaler å innføre et krav om at hver private barnehage skal være et selvstendig rettssubjekt.
+
+Å organisere barnehagene som selvstendige rettssubjekter reduserer også risikoen for at private barnehager kan gå konkurs. Når en privat barnehage er en del av et rettssubjekt med flere virksomheter, øker risikoen for at barnehagene går konkurs fordi rettssubjektets kreditorer kan ta beslag i barnehagenes midler. Dette kan skje selv om det ikke er den aktuelle barnehagen som har økonomiske utfordringer. Når rettssubjektet tar opp lån til investeringer, er det eieren som mottar avkastningen av dette. Det er ikke tillatt å kostnadsføre renter og avdrag på lån til annen type virksomhet i barnehagenes regnskaper. Fordi rettssubjektets kreditorer kan ta beslag i barnehagens midler, kan det offentlige tilskuddet og foreldrebetalingen likevel bli brukt til å dekke tap fra andre virksomheter eller andre barnehager. Samtidig kan det gå utover kommunens barnehagetilbud dersom investeringene går med tap.
+
+Å organisere barnehagene som selvstendige rettssubjekter kan videre bidra til å begrense kommersialiseringen av den private delen av barnehagesektoren. Et krav om selvstendig rettssubjekt vil gi de private barnehagene likere konkurransevilkår, uavhengig av eierform og tidligere organisering.
+
+Forslaget her følger opp Stortingets anmodningsvedtak nr. 42 i forbindelse med behandlingen av Meld. St. 1 (2021–2022) Nasjonalbudsjettet 2022, jf. Innst. 2 S (2021–2022), der «Stortinget ber regjeringen fremme nødvendige tiltak for å sikre økt åpenhet og transparens i virksomheten til private tilbydere av offentlig finansierte velferdstjenester, herunder et offentlig register over alle private virksomheter som leverer offentlig finansierte velferdstjenester».
+
+Forslaget her følger videre opp Stortingets anmodningsvedtak nr. 43 i forbindelse med behandlingen av Meld. St. 1 (2021–2022) Nasjonalbudsjettet 2022, jf. Innst. 2 S (2021–2022), der «Stortinget ber regjeringen utrede forslag om å stille krav til at selskaper som leverer offentlig finansierte velferdstjenester, organiseres i egne rettssubjekter hvor det ikke er tillatt å drive annen virksomhet enn offentlig finansierte velferdstjenester».
+
+## Dagens regler
+
+### Barnehageloven
+
+Det følger av barnehageloven § 7 andre ledd at kommunale og private barnehager skal være registrert i Enhetsregisteret. Flere barnehager kan ikke ha samme organisasjonsnummer, og hver barnehage skal dermed ha et organisasjonsnummer. Selv om barnehagen har eget organisasjonsnummer, kan en privat barnehage være registrert som en underenhet i et rettssubjekt som driver flere barnehager og annen virksomhet. Underenhetene er registrert i Enhetsregisteret, men kan ikke registreres i Foretaksregisteret. De er heller ikke regnskapspliktige etter regnskapsloven, og har ikke rapporteringsplikt til Regnskapsregisteret. De har dermed ikke plikt til å levere fullstendig årsregnskap, registrere daglig leder, melde fra ved fusjon eller fisjon og lignende.
+
+### Friskoleloven
+
+Etter friskoleloven er det et krav om at hver skole skal være registrert som et eget rettssubjekt. Dette kravet ble innført samtidig som forbudet mot å drive eller eie annen virksomhet enn skole. I merknaden til friskoleloven § 2-2 i Ot.prp. 80 (2002–2003) står det:
+
+For å hindre sammenblanding med eiers eventuelle øvrige virksomhet, må skolen organiseres som et eget rettssubjekt som kan registreres i Enhetsregisteret eller tilsvarende register. Formålet med bestemmelsen er å få en klar identifisering av skolen og en oversikt over dens styre og andre registrerte nøkkelopplysninger.
+
+Friskolene skal dokumentere en innskuddskapital på minimum 100 000 kroner før det blir søkt om godkjenning. Kravet om innskuddskapital gjelder uavhengig av organisasjonsform og skal sikre at eieren har et tilstrekkelig økonomisk fundament for å kunne drive en skole. Kravet til innskuddskapital er høyere enn etter aksjeloven, men har i praksis ingen betydning for skoler som er organisert som stiftelser. Dette skyldes at det i stiftelsesloven er et krav om innskuddskapital på 100 000 kroner.
+
+Da kravet om at hver skole skal være et eget rettssubjekt ble innført, ble det gitt en overgangsperiode på to år etter at loven trådte i kraft. Friskolene fikk dermed to år til å tilpasse seg de nye kravene.
+
+### Universitets- og høyskoleloven
+
+Ekspertgruppen som vurderte regulering, tilsyn og kontroll med private høyskoler og fagskoler vurderte om det skulle innføres et forbud mot å drive annen virksomhet i institusjoner som driver akkreditert utdanning, se ekspertgrupperapporten *Private høyskoler og fagskoler i samfunnets tjeneste* datert 15. desember 2014. I høringen som danner bakgrunnen for Prop. 44 L (2016–2017), foreslo departementet to alternativer for å oppnå et tilstrekkelig økonomisk skille mellom akkreditert utdanning og annen virksomhet. Departementet foreslo å innføre enten et forbud mot annen virksomhet eller et krav til et regnskapsmessig skille. Departementet valgte å ikke innføre et slikt forbud på daværende tidspunkt, se Prop. 44 L (2016–2017) kapittel 6.5.
+
+I universitets- og høyskoleloven § 8-7 andre ledd er det i dag et krav om at annen virksomhet enn akkreditert utdanning må holdes økonomisk adskilt fra den akkrediterte virksomheten. Kravet gjelder for både private høyskoler som mottar og ikke mottar tilskudd. Det skal lages regnskapsmessige skiller som er egnet til å dokumentere at annen virksomhet holdes økonomisk adskilt fra den akkrediterte utdanningen. Det betyr at det løpende skal føres separate regnskap for de ulike delene av virksomheten etter ordinære regnskapsprinsipper, blant annet fullt resultat- og balanseregnskap. I § 8-7 andre ledd er det presisert at regnskapene skal kunne dokumentere at institusjonen opprettholder et skille mellom aktivitetene i virksomheten. Departementet har fastsatt ytterligere krav til det regnskapsmessige skillet i forskrift.
+
+Det følger av universitets- og høyskoleloven § 8-3 tredje ledd at private høyskoler som mottar tilskudd, skal la tilskudd og studentenes egenbetaling «komme studentene til gode». Bestemmelsen fastsetter videre at private høyskoler som mottar statstilskudd, ikke kan foreta utdelinger. Dette omfatter alle former for åpne eller skjulte uttak av verdier fra driften. Utdelingsforbudet gjelder for hele virksomheten, og omfatter dermed også eventuell annen virksomhet enn høyskoledrift som drives i samme rettssubjekt.
+
+## Høringsforslaget
+
+I høringsnotatet datert 26. april 2019, *Forslag til endringer i barnehageloven med forskrifter (ny regulering av private barnehager)*, foreslo departementet å innføre et krav om at hver private barnehage skal være et selvstendig rettssubjekt. Flertallet av høringsinstansene støttet et slikt krav, men forslaget ble ikke støttet av de store barnehageeierne og PBL. Hovedinnvendingen var at forslaget koster unødvendig mye for de private barnehagene, og at det griper for sterkt inn i organisasjonsfriheten deres. Departementet sendte derfor på høring sommeren 2021 et forslag om å innføre krav om et regnskapsmessig skille mellom flere barnehager eller annen virksomhet i samme rettssubjekt, se høringsnotatet *Krav om regnskapsmessig skille for private barnehager mv. Forslag til endringer i barnehageloven og forslag til ny økonomiforskrift til barnehageloven*, datert 2. juli 2021.
+
+Forslaget om at hver private barnehage skal være et selvstendig rettssubjekt innebærer at flere private barnehager ikke kan være organisert i samme rettssubjekt. Barnehager som er et eget rettssubjekt, skal utarbeide regnskap og revisjonsberetning i samsvar med kravene i regnskapsloven og bokføringsloven. Departementet foreslo også å videreføre forskriftsbestemmelsene om innsending av opplysninger til tilsynsmyndigheten.
+
+Departementet foreslo å regulere i barnehageloven at styret for rettssubjektet som driver barnehagen, skal være barnehagens øverste ansvarlige organ. Det innebærer at styret er ansvarlig for å drive barnehagen i tråd med barnehageloven med forskrifter. Styret må være oppnevnt i samsvar med barnehagens rettsgrunnlag.
+
+Departementet foreslo videre at kravet om at hver private barnehage skal være et eget rettssubjekt, ikke skal gjelde for barnehager som er så små at de i dag ikke har revisjonsplikt etter forskrift om regnskapsplikt for godkjente ikke-kommunale barnehager (økonomiforskrift til barnehageloven) § 3. Forslaget innebar at kravet ikke vil gjelde for barnehageeiere som alene, sammen med nærstående eller selskap i samme konsern, eier ordinære barnehager med til sammen færre enn 20 barn eller familiebarnehager med til sammen færre enn 10 barn. Kravet vil heller ikke gjelde for eiere som alene, sammen med nærstående eller selskap i samme konsern som eier, bare har én åpen barnehage. Departementet ba høringsinstansene om å gi innspill til om dette er en hensiktsmessig grense for en slik unntaksbestemmelse.
+
+Departementet foreslo at dagens regler i økonomiforskrift til barnehageloven skal videreføres for de barnehagene som blir unntatt fra kravet om å være et eget rettssubjekt. Samtidig foreslo departementet å oppheve unntaket fra revisjonsplikten i forskriften § 3. Forslaget innebærer at private barnehager som ikke blir pålagt å være et eget rettssubjekt, skal få resultatregnskapet revidert av en revisor godkjent etter revisorloven.
+
+I høringen om regnskapsmessig skille i 2019 foreslo departementet å presisere i forskriftshjemmelen i barnehageloven § 23 femte ledd at departementet kan fastsette krav til dokumentasjon, i tillegg til bestemmelser om regnskap, revisjon og rapportering.
+
+Departementet foreslo å innføre en rimelig overgangsperiode for kravet om å etablere barnehagen som et eget rettssubjekt. Departementet ba om høringsinstansenes syn på hvor lang denne overgangsperioden bør være.
+
+Se nærmere omtale i høringsnotatet fra 2019 kapittel 7 og høringsnotatet fra 2021 kapittel 3.1.3.4.
+
+## Høringsinstansenes syn
+
+### Krav om at hver private barnehage skal være et selvstendig rettssubjekt
+
 Høringen av forslag til krav om selvstendig rettssubjekt
-Det er 97 høringsinstanser som har gitt innspill til
-forslaget om å innføre et krav om at hver private
-barnehage skal være et selvstendig rettssubjekt.
-Av disse er det 67 instanser som støtter forslaget.
-Dette er blant andre 39 kommuner, tre statsforvaltere (tidligere: fylkesmenn), 12 private barnehager, KS, Utdanningsforbundet, LO, Fagforbundet,
-Revisorforeningen og Foreldreutvalget for barnehager (FUB). Det er 23 instanser som ikke støtter
-forslaget. Dette er blant andre 13 private barnehager, PBL, Virke og Handelshøyskolen ved Universitetet i Agder. De resterende instansene har innspill
-uten at de gir uttrykk for om de støtter forslaget
-eller ikke.
 
-[Side 27]
+Det er 97 høringsinstanser som har gitt innspill til forslaget om å innføre et krav om at hver private barnehage skal være et selvstendig rettssubjekt. Av disse er det 67 instanser som støtter forslaget. Dette er blant andre 39 kommuner, tre statsforvaltere (tidligere: fylkesmenn), 12 private barnehager, *KS*, *Utdanningsforbundet*, *LO*, *Fagforbundet*, *Revisorforeningen* og *Foreldreutvalget for barnehager (FUB).* Det er 23 instanser som ikke støtter forslaget. Dette er blant andre 13 private barnehager, *PBL*, *Virke* og *Handelshøyskolen ved Universitetet i Agder*. De resterende instansene har innspill uten at de gir uttrykk for om de støtter forslaget eller ikke.
 
-2021–2022
+Flere av instansene som støtter forslaget, uttaler at et krav om at hver private barnehage skal være et selvstendig rettssubjekt, vil gjøre det enklere å føre tilsyn med barnehagene. Dette gjelder blant andre *KS* og en rekke kommuner.
 
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
+*Utdanningsdirektoratet* vurderer det som en helt nødvendig forutsetning for å kunne føre effektivt tilsyn med kravene i barnehageloven § 23 (tidligere § 14 a), at hver barnehage er et eget rettssubjekt. I et brev til departementet av 14. august 2019 skriver direktoratet:
 
-Flere av instansene som støtter forslaget, uttaler at et krav om at hver private barnehage skal
-være et selvstendig rettssubjekt, vil gjøre det
-enklere å føre tilsyn med barnehagene. Dette gjelder blant andre KS og en rekke kommuner.
-Utdanningsdirektoratet vurderer det som en
-helt nødvendig forutsetning for å kunne føre
-effektivt tilsyn med kravene i barnehageloven
-§ 23 (tidligere § 14 a), at hver barnehage er et
-eget rettssubjekt. I et brev til departementet av 14.
-august 2019 skriver direktoratet:
-Hvis forslagene om at hver barnehage skal
-være et eget rettssubjekt og forbudet om annen
-virksomhet ikke blir fastsatt, er det vår vurdering at det vil være utfordrende for tilsynsmyndigheten å kontrollere at barnehagene oppfyller § 14 a på en effektiv måte. Dette vil kunne
-føre til at brudd på barnehageloven § 14 a ikke
-vil bli avdekket i tilsyn, og at tilsynet vil måtte
-bruke en stor andel av ressursene på dokumentasjonsinnhenting og analyse grunnet lav sporbarhet i barnehageregnskapene.
-Enkelte av de private barnehagene som støtter
-forslaget, uttaler at et tilsvarende krav også bør
-gjelde for de kommunale barnehagene. Dette gjelder blant annet Private barnehager i Asker og
-Hanevold barnegård.
-Mange av høringsinstansene som støtter forslaget, mener at det er positivt at hver barnehage
-skal utarbeide et årsregnskap med en balanseside
-som viser barnehagens eiendeler, gjeld og egenkapital. Disse instansene mener at forslaget vil gi
-bedre innsikt i hvordan tilskudd og foreldrebetaling disponeres. Det er også flere instanser som
-påpeker at forslaget vil gjøre det enklere å se
-hvilke midler eieren har tatt ut av barnehagen
-som utbytte, og om kostnadene i regnskapet er
-relevante for barnehagedriften.
-Flere høringsinstanser uttaler at det er positivt
-at hver barnehage skal føre et årsresultat som vil
-være offentlig tilgjengelig i Brønnøysundregistrene. For eksempel uttaler både Utdanningsforbundet og Revisorforeningen at offentlige regnskaper for hver barnehage vil gi større åpenhet om
-økonomien i den enkelte barnehagen. Revisorforeningen påpeker at forslaget vil gjøre det
-enklere å sammenligne barnehager i samme foretaksgruppe og barnehager i samme kommune.
-Foreningen mener at dette særlig vil ha betydning
-for foreldre og andre som ikke har innsyn i
-dagens rapportering fra barnehagene. Videre
-uttaler foreningen dette:
+Hvis forslagene om at hver barnehage skal være et eget rettssubjekt og forbudet om annen virksomhet ikke blir fastsatt, er det vår vurdering at det vil være utfordrende for tilsynsmyndigheten å kontrollere at barnehagene oppfyller § 14 a på en effektiv måte. Dette vil kunne føre til at brudd på barnehageloven § 14 a ikke vil bli avdekket i tilsyn, og at tilsynet vil måtte bruke en stor andel av ressursene på dokumentasjonsinnhenting og analyse grunnet lav sporbarhet i barnehageregnskapene.
 
-25
+Enkelte av de private barnehagene som støtter forslaget, uttaler at et tilsvarende krav også bør gjelde for de kommunale barnehagene. Dette gjelder blant annet *Private barnehager i Asker* og *Hanevold barnegård*.
 
-Organisering av hver private barnehage i et
-selvstendig rettssubjekt kombinert med forbud mot å drive annen virksomhet i rettssubjektet, skaper et klarere skille mellom virksomheten i de enkelte barnehagene og mellom barnehagevirksomheten og annen virksomhet
-innenfor samme foretak eller gruppe av foretak. Administrasjons- og felleskostnader som
-skal belastes barnehagen, må avtales skriftlig
-og faktureres særskilt, og fakturaen må korrekt og fullstendig angi hva barnehagen har
-betalt for. Hver av barnehagene vil i utgangspunktet bli egne skattesubjekter, slik at inntekter og kostnader i hver barnehage også blir
-fulgt opp skattemessig. Offentlige regnskaper
-for hver barnehage gir større åpenhet om økonomien i den enkelte barnehage og gir bedre
-innsikt i hvordan tilskudd og foreldrebetalinger disponeres. Det gir bedre oversikt over fordelingen av kostnader mellom de enkelte barnehageforetakene under samme kontroll, på
-prisingen av ytelser og fordelingen av kostnader mellom barnehagene og andre foretak
-under samme kontroll og eventuelle utbytter
-fra barnehageforetakene.
+Mange av høringsinstansene som støtter forslaget, mener at det er positivt at hver barnehage skal utarbeide et årsregnskap med en balanseside som viser barnehagens eiendeler, gjeld og egenkapital. Disse instansene mener at forslaget vil gi bedre innsikt i hvordan tilskudd og foreldrebetaling disponeres. Det er også flere instanser som påpeker at forslaget vil gjøre det enklere å se hvilke midler eieren har tatt ut av barnehagen som utbytte, og om kostnadene i regnskapet er relevante for barnehagedriften.
+
+Flere høringsinstanser uttaler at det er positivt at hver barnehage skal føre et årsresultat som vil være offentlig tilgjengelig i Brønnøysundregistrene. For eksempel uttaler både *Utdanningsforbundet* og *Revisorforeningen* at offentlige regnskaper for hver barnehage vil gi større åpenhet om økonomien i den enkelte barnehagen. Revisorforeningen påpeker at forslaget vil gjøre det enklere å sammenligne barnehager i samme foretaksgruppe og barnehager i samme kommune. Foreningen mener at dette særlig vil ha betydning for foreldre og andre som ikke har innsyn i dagens rapportering fra barnehagene. Videre uttaler foreningen dette:
+
+Organisering av hver private barnehage i et selvstendig rettssubjekt kombinert med forbud mot å drive annen virksomhet i rettssubjektet, skaper et klarere skille mellom virksomheten i de enkelte barnehagene og mellom barnehagevirksomheten og annen virksomhet innenfor samme foretak eller gruppe av foretak. Administrasjons- og felleskostnader som skal belastes barnehagen, må avtales skriftlig og faktureres særskilt, og fakturaen må korrekt og fullstendig angi hva barnehagen har betalt for. Hver av barnehagene vil i utgangspunktet bli egne skattesubjekter, slik at inntekter og kostnader i hver barnehage også blir fulgt opp skattemessig. Offentlige regnskaper for hver barnehage gir større åpenhet om økonomien i den enkelte barnehage og gir bedre innsikt i hvordan tilskudd og foreldrebetalinger disponeres. Det gir bedre oversikt over fordelingen av kostnader mellom de enkelte barnehageforetakene under samme kontroll, på prisingen av ytelser og fordelingen av kostnader mellom barnehagene og andre foretak under samme kontroll og eventuelle utbytter fra barnehageforetakene.
+
 Revisorforeningen konkluderer slik:
-Samlet sett vil derfor en organisering i selvstendige rettssubjekter etter vår oppfatning gi
-et bedre grunnlag for oppfølging og kontroll
-enn det som oppnås gjennom dagens BASILrapportering. Det vil kunne hevdes at denne
-endringen medfører vesentlig økte administrative kostnader for barnehagene. En slik endring bør derfor selvsagt bygge på en forsvarlig
-vurdering av nytte og kostnader. Det bør i
-denne vurderingen imidlertid også tas i
-betraktning at dette vil være tiltak som bidrar
-direkte til å styrke tilliten til og kontrollen med
-bruken av tilskudd og foreldrebetaling, og at
-svekket tillit som følge av utilstrekkelig kontroll vil kunne utgjøre en betydelig kostnad.
-De store private barnehageeierne og PBL støtter
-ikke forslaget om å lovfeste et krav om at hver private barnehage skal være et selvstendig rettssubjekt. Hovedinnvendingen er at forslaget koster
-unødvendig mye for de private barnehagene, og at
-det griper for sterkt inn i organisasjonsfriheten
-deres. Flere av instansene som ikke støtter forslaget, mener at forslaget vil føre til økt byråkrati og
-at barnehagene må bruke en større andel av
-offentlige tilskudd til andre formål enn barna.
-Disse instansene mener at det er bedre å forbedre
 
-[Side 28]
+Samlet sett vil derfor en organisering i selvstendige rettssubjekter etter vår oppfatning gi et bedre grunnlag for oppfølging og kontroll enn det som oppnås gjennom dagens BASIL-rapportering. Det vil kunne hevdes at denne endringen medfører vesentlig økte administrative kostnader for barnehagene. En slik endring bør derfor selvsagt bygge på en forsvarlig vurdering av nytte og kostnader. Det bør i denne vurderingen imidlertid også tas i betraktning at dette vil være tiltak som bidrar direkte til å styrke tilliten til og kontrollen med bruken av tilskudd og foreldrebetaling, og at svekket tillit som følge av utilstrekkelig kontroll vil kunne utgjøre en betydelig kostnad.
 
-26
+*De store private barnehageeierne* og *PBL* støtter ikke forslaget om å lovfeste et krav om at hver private barnehage skal være et selvstendig rettssubjekt. Hovedinnvendingen er at forslaget koster unødvendig mye for de private barnehagene, og at det griper for sterkt inn i organisasjonsfriheten deres. Flere av instansene som ikke støtter forslaget, mener at forslaget vil føre til økt byråkrati og at barnehagene må bruke en større andel av offentlige tilskudd til andre formål enn barna. Disse instansene mener at det er bedre å forbedre rapporteringen i BASIL enn å kreve at hver barnehage skal være et eget rettssubjekt. For eksempel uttaler PBL følgende:
 
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
+PBL mener departementets forslag innebærer en ytterligere kostnadsbyrde for sektoren som vil bidra til at en større andel av det offentlige tilskuddet som barnehagene mottar vil gå til revisorer og styrestrukturer. I tillegg vil det blant annet påløpe kostnader knyttet til registrering av selskaper og at hver enkelt barnehage skal levere inn årsregnskap og ligningspapirer. Vi snakker om betydelige summer som potensielt vil trekkes ut fra barnehagene og dermed ikke komme barna til gode.
 
-rapporteringen i BASIL enn å kreve at hver barnehage skal være et eget rettssubjekt. For eksempel
-uttaler PBL følgende:
-PBL mener departementets forslag innebærer
-en ytterligere kostnadsbyrde for sektoren som
-vil bidra til at en større andel av det offentlige
-tilskuddet som barnehagene mottar vil gå til
-revisorer og styrestrukturer. I tillegg vil det
-blant annet påløpe kostnader knyttet til registrering av selskaper og at hver enkelt barnehage skal levere inn årsregnskap og ligningspapirer. Vi snakker om betydelige summer
-som potensielt vil trekkes ut fra barnehagene
-og dermed ikke komme barna til gode.
-Det er noen instanser som mener at forslaget ikke
-vil gjøre det enklere å føre tilsyn med barnehagene. For eksempel uttaler Læringsverkstedet og
-KPMG at de ikke kan se at kontrolladgangen
-svekkes av at flere barnehager drives i samme
-rettssubjekt, sammenlignet med at hver enkelt
-barnehage organiseres som et eget rettssubjekt.
-Læringsverkstedet uttaler seg slik:
-Vi er tvilende til påstandene om at det er vanskeligere å føre tilsyn dersom man har flere
-barnehager i samme rettssubjekt. Ved gjennomføring av nasjonalt økonomisk tilsyn vil det
-også være enklere å forholde seg til færre rettssubjekter.
-Forslaget vil medføre at enkelte aktører
-som i dag driver flere barnehager i samme
-rettssubjekt må splitte opp dette i flere rettssubjekter. Konsekvensen blir da at det kan bli
-vanskeligere å få oversikt over totalvirksomheten til disse aktørene siden man ikke lenger
-kan lese dette ut av ett rettssubjekt.
-Spekter er også blant instansene som ikke støtter
-forslaget. Spekter viser til at det innenfor et barnehagekonsern vil være noen barnehager som går i
-pluss og noen som går i minus. Spekter mener at
-det er viktig å kunne kryssubsidiere mellom private barnehager, slik det gjøres mellom kommunale barnehager. Spekter viser til at det fortsatt vil
-være mulig å gjøre dette hvis hver barnehage er
-et eget rettssubjekt, men at det vil gi en økning i
-ressursbruken som dreier innsatsen fra utvikling
-av tilbudet til økt byråkrati. Spekter mener at forslaget også kan føre til at ulønnsomme enheter i
-større grad blir slått konkurs.
-Det er noen høringsinstanser som mener at
-forslaget vil bryte med prinsippet om økonomisk
-likeverdig behandling av kommunale og private
+Det er noen instanser som mener at forslaget ikke vil gjøre det enklere å føre tilsyn med barnehagene. For eksempel uttaler *Læringsverkstedet* og *KPMG* at de ikke kan se at kontrolladgangen svekkes av at flere barnehager drives i samme rettssubjekt, sammenlignet med at hver enkelt barnehage organiseres som et eget rettssubjekt. Læringsverkstedet uttaler seg slik:
 
-2021–2022
+Vi er tvilende til påstandene om at det er vanskeligere å føre tilsyn dersom man har flere barnehager i samme rettssubjekt. Ved gjennomføring av nasjonalt økonomisk tilsyn vil det også være enklere å forholde seg til færre rettssubjekter.
 
-barnehager. For eksempel viser både Stiftelsen
-Kanvas, Norlandia Barnehagene og Virke til at
-kommunene har anledning til å utnytte de mulighetene som en konsernmodell gir, for eksempel
-ved å effektivisere administrative oppgaver. Det
-betyr at kommunene kan dra nytte av stordriftsfordeler og ha lavere driftsutgifter. Instansene
-peker på at dette vil påvirke tilskuddet til de private barnehagene, og at forslaget derfor kan være
-konkurransevridende.
+Forslaget vil medføre at enkelte aktører som i dag driver flere barnehager i samme rettssubjekt må splitte opp dette i flere rettssubjekter. Konsekvensen blir da at det kan bli vanskeligere å få oversikt over totalvirksomheten til disse aktørene siden man ikke lenger kan lese dette ut av ett rettssubjekt.
+
+*Spekter* er også blant instansene som ikke støtter forslaget. Spekter viser til at det innenfor et barnehagekonsern vil være noen barnehager som går i pluss og noen som går i minus. Spekter mener at det er viktig å kunne kryssubsidiere mellom private barnehager, slik det gjøres mellom kommunale barnehager. Spekter viser til at det fortsatt vil være mulig å gjøre dette hvis hver barnehage er et eget rettssubjekt, men at det vil gi en økning i ressursbruken som dreier innsatsen fra utvikling av tilbudet til økt byråkrati. Spekter mener at forslaget også kan føre til at ulønnsomme enheter i større grad blir slått konkurs.
+
+Det er noen høringsinstanser som mener at forslaget vil bryte med prinsippet om økonomisk likeverdig behandling av kommunale og private barnehager. For eksempel viser både *Stiftelsen Kanvas, Norlandia Barnehagene* og *Virke* til at kommunene har anledning til å utnytte de mulighetene som en konsernmodell gir, for eksempel ved å effektivisere administrative oppgaver. Det betyr at kommunene kan dra nytte av stordriftsfordeler og ha lavere driftsutgifter. Instansene peker på at dette vil påvirke tilskuddet til de private barnehagene, og at forslaget derfor kan være konkurransevridende.
+
 Høringen av forslag til krav om regnskapsmessig skille
-Fordi forslaget om å lovfeste et krav om eget rettssubjekt ikke ble støttet av de store private barnehageeierne og PBL, ble det foreslått en alternativ
-løsning som skulle være mindre kostbar for de
-private barnehagene, og som i mindre grad griper
-inn i organisasjonsfriheten deres, jf. høringsnotatet datert 2. juli 2021 med forslag til krav om regnskapsmessig skille for private barnehager. Det ble
-her foreslått at eiere som driver flere barnehager
-eller annen virksomhet i samme rettssubjekt, skal
-føre regnskap som om hver enkelt barnehage er
-en egen enhet. 43 høringsinstanser ga innspill til
-forslaget om å innføre regnskapsmessig skille. Av
-disse er det 12 instanser som støtter forslaget.
-Dette er blant andre fem kommuner, fem eiere av
-private
-barnehager
-(Norlandiabarnehagene,
-Trygge barnehager, NLM-barnehagene, Espiragruppen og Stiftelsen Ragna Ringdals dagsenter),
-PBL og Abelia. 12 instanser støtter ikke forslaget
-om å innføre et regnskapsmessig skille, og argumenterer for at man heller bør innføre et krav om
-selvstendig rettssubjekt. Dette er blant andre
-Utdanningsdirektoratet, Utdanningsforbundet, KS,
-Virke, LO, IBID ideelle barnehager, Fagforbundet
-og fire kommuner.
-Flere av høringsinstansene støtter forslaget
-om et regnskapsmessig skille, men er i tvil om
-reguleringen er tilstrekkelig for å sikre at offentlige tilskudd og foreldrebetaling går til formålet.
-Høringsinstansene som støtter forslaget, mener at
-et krav om regnskapsmessig skille er en bedre
-regulering enn et krav om at hver barnehage må
-være et eget rettssubjekt. For eksempel skriver
-Læringsverkstedet at regnskapsmessig skille er
-mindre ressurskrevende administrativt, at det gir
-en mer skreddersydd og fleksibel løsning og mer
-transparens enn å «tvinge frem en meget omfattende selskapsmessig omorganisering av bransjen».
-Flere av høringsinstansene som ikke støtter
-forslaget, viser til at et krav om selvstendig rettssubjekt vil gi økt gjennomsiktighet i private barne-
 
-[Side 29]
+Fordi forslaget om å lovfeste et krav om eget rettssubjekt ikke ble støttet av de store private barnehageeierne og PBL, ble det foreslått en alternativ løsning som skulle være mindre kostbar for de private barnehagene, og som i mindre grad griper inn i organisasjonsfriheten deres, jf. høringsnotatet datert 2. juli 2021 med forslag til krav om regnskapsmessig skille for private barnehager. Det ble her foreslått at eiere som driver flere barnehager eller annen virksomhet i samme rettssubjekt, skal føre regnskap som om hver enkelt barnehage er en egen enhet. 43 høringsinstanser ga innspill til forslaget om å innføre regnskapsmessig skille. Av disse er det 12 instanser som støtter forslaget. Dette er blant andre fem kommuner, fem eiere av private barnehager (*Norlandiabarnehagene, Trygge barnehager, NLM-barnehagene, Espira-gruppen* og *Stiftelsen Ragna Ringdals dagsenter*), *PBL* og *Abelia*. 12 instanser støtter ikke forslaget om å innføre et regnskapsmessig skille, og argumenterer for at man heller bør innføre et krav om selvstendig rettssubjekt. Dette er blant andre *Utdanningsdirektoratet, Utdanningsforbundet, KS, Virke, LO, IBID ideelle barnehager, Fagforbundet* og fire kommuner.
 
-2021–2022
+Flere av høringsinstansene støtter forslaget om et regnskapsmessig skille, men er i tvil om reguleringen er tilstrekkelig for å sikre at offentlige tilskudd og foreldrebetaling går til formålet. Høringsinstansene som støtter forslaget, mener at et krav om regnskapsmessig skille er en bedre regulering enn et krav om at hver barnehage må være et eget rettssubjekt. For eksempel skriver *Læringsverkstedet* at regnskapsmessig skille er mindre ressurskrevende administrativt, at det gir en mer skreddersydd og fleksibel løsning og mer transparens enn å «tvinge frem en meget omfattende selskapsmessig omorganisering av bransjen».
 
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
+Flere av høringsinstansene som ikke støtter forslaget, viser til at et krav om selvstendig rettssubjekt vil gi økt gjennomsiktighet i private barnehager. Det vil redusere risikoen for at offentlige tilskudd og foreldrebetaling lekker ut av sektoren og kommunen, eller blir brukt til å dekke kostnader knyttet til annen virksomhet. Et slik krav vil også lette tilsynet med barnehagene. *Utdanningsdirektoratet* mener at organisering som egne rettssubjekter er en nødvendig forutsetning for et effektivt og handlekraftig tilsyn. *Utdanningsforbundet* viser også til at et regnskapsmessig skille betyr at barnehageeier kontinuerlig må gjøre skjønnsmessige vurderinger av hvordan inntekter, kostnader og balanseposter skal fordeles. Dette gjør det vanskeligere å vurdere hvordan de økonomiske transaksjonene reelt sett har skjedd.
 
-hager. Det vil redusere risikoen for at offentlige
-tilskudd og foreldrebetaling lekker ut av sektoren
-og kommunen, eller blir brukt til å dekke kostnader knyttet til annen virksomhet. Et slik krav vil
-også lette tilsynet med barnehagene. Utdanningsdirektoratet mener at organisering som egne rettssubjekter er en nødvendig forutsetning for et
-effektivt og handlekraftig tilsyn. Utdanningsforbundet viser også til at et regnskapsmessig skille
-betyr at barnehageeier kontinuerlig må gjøre
-skjønnsmessige vurderinger av hvordan inntekter, kostnader og balanseposter skal fordeles.
-Dette gjør det vanskeligere å vurdere hvordan de
-økonomiske transaksjonene reelt sett har skjedd.
-Virke viser til at Utdanningsdirektoratet, velferdstjenesteutvalget og Storberget-utvalget, i likhet med et overveldende flertall av høringssvarene i 2019, konkluderte med at det må stilles
-krav om at alle barnehager skal drive i eget rettssubjekt. Virke mener at man er kommet dit at pengestrømmene er ute av kontroll. Et krav om at
-hver barnehage må være et eget rettssubjekt, er
-ifølge Virke den sikreste metoden for at offentlige
-myndigheter, skattebetalerne og foreldrene skal
-kunne se at tilskuddet brukes til fordel for barna.
-Samtidig mener Virke at et krav om regnskapsmessig skille kan gjelde for de ideelle aktørene.
-Flere av høringsinstansene peker også på at
-departementet i for liten grad har synliggjort og
-vektlagt at et krav om regnskapsmessig skille gir
-betydelige styringskostnader for det offentlige.
-Mange mener også at det ikke mulig å få til et like
-klart skille mellom ulike barnehager i samme
-rettssubjekt som ved et krav om å være et selvstendig rettssubjekt.
+*Virke* viser til at Utdanningsdirektoratet, velferdstjenesteutvalget og Storberget-utvalget, i likhet med et overveldende flertall av høringssvarene i 2019, konkluderte med at det må stilles krav om at alle barnehager skal drive i eget rettssubjekt. Virke mener at man er kommet dit at pengestrømmene er ute av kontroll. Et krav om at hver barnehage må være et eget rettssubjekt, er ifølge Virke den sikreste metoden for at offentlige myndigheter, skattebetalerne og foreldrene skal kunne se at tilskuddet brukes til fordel for barna. Samtidig mener Virke at et krav om regnskapsmessig skille kan gjelde for de ideelle aktørene.
 
-3.4.2
+Flere av høringsinstansene peker også på at departementet i for liten grad har synliggjort og vektlagt at et krav om regnskapsmessig skille gir betydelige styringskostnader for det offentlige. Mange mener også at det ikke mulig å få til et like klart skille mellom ulike barnehager i samme rettssubjekt som ved et krav om å være et selvstendig rettssubjekt.
 
-Unntak for de minste barnehagene
+### Unntak for de minste barnehagene
 
-Noen høringsinstanser uttaler seg om hvilke barnehager som bør være unntatt fra kravet om å
-være et selvstendig rettssubjekt. De fleste av disse
-instansene er enige i departementets forslag om
-at barnehagene som etter dagens regelverk er
-unntatt for revisjonsplikt, skal være unntatt fra
-kravet om å være et selvstendig rettssubjekt.
-I høringen om regnskapsmessig skille i 2021
-støtter Abelia, NLM-barnehagene, Kristent Interkulturelt Arbeid og to kommuner å unnta små barnehager fra kravet om regnskapsmessig skille.
-Fagforbundet støtter at det gjøres unntak for små
-barnehager, men vurderer omfanget av unntaket
-som noe stort.
-Utdanningsdirektoratet, PBL, Espira-gruppen
-og Utdanningsforbundet støtter ikke forslaget om å
-gjøre unntak for små barnehager. De kan ikke se
+Noen høringsinstanser uttaler seg om hvilke barnehager som bør være unntatt fra kravet om å være et selvstendig rettssubjekt. De fleste av disse instansene er enige i departementets forslag om at barnehagene som etter dagens regelverk er unntatt for revisjonsplikt, skal være unntatt fra kravet om å være et selvstendig rettssubjekt.
 
-27
+I høringen om regnskapsmessig skille i 2021 støtter *Abelia*, *NLM-barnehagene*, *Kristent Interkulturelt Arbeid* og to kommuner å unnta små barnehager fra kravet om regnskapsmessig skille. *Fagforbundet* støtter at det gjøres unntak for små barnehager, men vurderer omfanget av unntaket som noe stort.
 
-at risikoen for sammenblanding av økonomien og
-risikoen ved låneopptak avhenger av barnehagens
-størrelse. Utdanningsdirektoratet viser til at 24
-prosent av barnehagene kommer inn under unntaket.
-Det er noen høringsinstanser som har uttalt
-seg om forslaget til forskriftsendringer i høringen
-med forslag til ny regulering av private barnehager i 2019. Flere av disse instansene uttaler at de
-støtter at unntaket fra revisjonsplikten skal oppheves for barnehager som er så små at de blir unntatt fra kravet om å være et eget rettssubjekt. For
-eksempel uttaler KS at en oppheving av dette unntaket vil gjøre tilsyn og kontroll enklere å gjennomføre, og sikre lik behandling av regnskapsopplysninger og rapportering fra alle barnehager
-uavhengig av størrelse.
+*Utdanningsdirektoratet, PBL, Espira-gruppen* og *Utdanningsforbundet* støtter ikke forslaget om å gjøre unntak for små barnehager. De kan ikke se at risikoen for sammenblanding av økonomien og risikoen ved låneopptak avhenger av barnehagens størrelse. Utdanningsdirektoratet viser til at 24 prosent av barnehagene kommer inn under unntaket.
 
-3.4.3
+Det er noen høringsinstanser som har uttalt seg om forslaget til forskriftsendringer i høringen med forslag til ny regulering av private barnehager i 2019. Flere av disse instansene uttaler at de støtter at unntaket fra revisjonsplikten skal oppheves for barnehager som er så små at de blir unntatt fra kravet om å være et eget rettssubjekt. For eksempel uttaler *KS* at en oppheving av dette unntaket vil gjøre tilsyn og kontroll enklere å gjennomføre, og sikre lik behandling av regnskapsopplysninger og rapportering fra alle barnehager uavhengig av størrelse.
 
-Hjemmel til å gi forskrift om
-dokumentasjon
+### Hjemmel til å gi forskrift om dokumentasjon
 
-Det er få høringsinstanser som har uttalt seg om
-dette forslaget. Ingen av instansene er imot å presisere i forskriftshjemmelen i barnehageloven
-§ 23 femte ledd at departementet kan fastsette
-nærmere krav til dokumentasjon.
+Det er få høringsinstanser som har uttalt seg om dette forslaget. Ingen av instansene er imot å presisere i forskriftshjemmelen i barnehageloven § 23 femte ledd at departementet kan fastsette nærmere krav til dokumentasjon.
 
-3.4.4
+### Når skal de foreslåtte reglene tre i kraft?
 
-Når skal de foreslåtte reglene tre i
-kraft?
+Det er noen høringsinstanser som har gitt innspill til hvor lang tid barnehagene bør få til å tilpasse seg kravet om å være et eget rettssubjekt. De aller fleste av disse instansene mener at det er tilstrekkelig med en overgangsperiode på to år. Disse instansene viser blant annet til at det ble gitt en tilsvarende overgangsperiode da friskolene skulle etableres som egne rettssubjekter.
 
-Det er noen høringsinstanser som har gitt innspill
-til hvor lang tid barnehagene bør få til å tilpasse
-seg kravet om å være et eget rettssubjekt. De aller
-fleste av disse instansene mener at det er tilstrekkelig med en overgangsperiode på to år. Disse
-instansene viser blant annet til at det ble gitt en tilsvarende overgangsperiode da friskolene skulle
-etableres som egne rettssubjekter.
-PBL viser til at overgangsperioden må være
-lang nok til at det ikke oppstår utfordringer i forbindelse med lån i Husbanken og justeringsreglene for merverdiavgiftskompensasjon.
+*PBL* viser til at overgangsperioden må være lang nok til at det ikke oppstår utfordringer i forbindelse med lån i Husbanken og justeringsreglene for merverdiavgiftskompensasjon.
 
-3.5
+## Departementets vurdering
 
-Departementets vurdering
+### Krav om at hver private barnehage skal være et selvstendig rettssubjekt
 
-3.5.1
+Behov for nye regler om regnskap, dokumentasjon og rapportering
 
-Krav om at hver private barnehage skal
-være et selvstendig rettssubjekt
-Behov for nye regler om regnskap, dokumentasjon og
-rapportering
-Departementet mener at det er behov for et regelverk som sikrer transparens og innsyn i de private
-barnehagenes økonomi. Tydeligere krav til regnskap, dokumentasjon og rapportering for alle pri-
+Departementet mener at det er behov for et regelverk som sikrer transparens og innsyn i de private barnehagenes økonomi. Tydeligere krav til regnskap, dokumentasjon og rapportering for alle private barnehager er helt avgjørende for at Utdanningsdirektoratet skal kunne føre tilsyn med at offentlige tilskudd og foreldrebetaling blir brukt i tråd med regelverket. Videre er et effektivt tilsyn nødvendig for å sikre at vi oppnår formålet med reglene, som er at midlene skal komme barna i barnehagen til gode.
 
-[Side 30]
+Ved å innføre et krav om at hver enkelt private barnehage skal være et selvstendig rettssubjekt, vil selskapsretten og regnskapslovgivningen gjelde for hver enkelt barnehage. Dette regelverket er etter departementets syn best egnet til å sikre at myndighetene og allmenheten får tilgang til informasjon om den enkelte barnehagens bruk av tilskudd og foreldrebetaling. En slik regulering sikrer videre at kreditorer ikke kan ta beslag i barnehagens midler for å dekke tap for andre barnehager eller virksomheter, og reduserer dermed risikoen for at private barnehager kan gå konkurs.
 
-28
+Et krav om at alle barnehager skal være et selvstendig rettssubjekt, vil føre til at hver enkelt barnehage skal utarbeide regnskap og revisjonsberetning i samsvar med kravene i regnskapsloven og bokføringsloven. Departementet legger vekt på at man vil få et fullstendig årsregnskap for hver barnehage som viser barnehagens eiendeler, gjeld og egenkapital, og at denne informasjonen vil være offentlig tilgjengelig.
 
-Prop. 82 L
-Endringer i barnehageloven (selvstendig rettssubjekt, forbud mot annen virksomhet, meldeplikt m.m.)
+Et krav om at hver barnehage skal være et selvstendig rettssubjekt, vil også gi barnehageeierne en plikt til løpende ajourhold av regnskapet for hver enkelt barnehage. Interne kostnadsfordelinger mellom underenheter er ikke en del av regnskapet for rettssubjektet, som bokføringsloven regulerer. Bokføringslovens krav om løpende ajourhold gjelder derfor ikke slike interne fordelinger. Barnehageeiere som driver flere barnehager i samme rettssubjekt, har dermed ikke plikt til løpende ajourhold av regnskapet for hver enkelt barnehage, kun for rettssubjektet som helhet. Tilsynsmyndigheten kan derfor ikke føre tilsyn med slike barnehager i et gjeldende regnskapsår, men må vente til barnehagen har rapportert i BASIL. Det innebærer at tilsynsmyndigheten først kan føre tilsyn med barnehagen ett til to år etter at en transaksjon har funnet sted.
 
-vate barnehager er helt avgjørende for at Utdanningsdirektoratet skal kunne føre tilsyn med at
-offentlige tilskudd og foreldrebetaling blir brukt i
-tråd med regelverket. Videre er et effektivt tilsyn
-nødvendig for å sikre at vi oppnår formålet med
-reglene, som er at midlene skal komme barna i
-barnehagen til gode.
-Ved å innføre et krav om at hver enkelt private
-barnehage skal være et selvstendig rettssubjekt,
-vil selskapsretten og regnskapslovgivningen
-gjelde for hver enkelt barnehage. Dette regelverket er etter departementets syn best egnet til å
-sikre at myndighetene og allmenheten får tilgang
-til informasjon om den enkelte barnehagens bruk
-av tilskudd og foreldrebetaling. En slik regulering
-sikrer videre at kreditorer ikke kan ta beslag i barnehagens midler for å dekke tap for andre barnehager eller virksomheter, og reduserer dermed
-risikoen for at private barnehager kan gå konkurs.
-Et krav om at alle barnehager skal være et
-selvstendig rettssubjekt, vil føre til at hver enkelt
-barnehage skal utarbeide regnskap og revisjonsberetning i samsvar med kravene i regnskapsloven og bokføringsloven. Departementet legger
-vekt på at man vil få et fullstendig årsregnskap for
-hver barnehage som viser barnehagens eiendeler,
-gjeld og egenkapital, og at denne informasjonen
-vil være offentlig tilgjengelig.
-Et krav om at hver barnehage skal være et
-selvstendig rettssubjekt, vil også gi barnehageeierne en plikt til løpende ajourhold av regnskapet
-for hver enkelt barnehage. Interne kostnadsfordelinger mellom underenheter er ikke en del av
-regnskapet for rettssubjektet, som bokføringsloven regulerer. Bokføringslovens krav om løpende
-ajourhold gjelder derfor ikke slike interne fordelinger. Barnehageeiere som driver flere barnehager i samme rettssubjekt, har dermed ikke plikt til
-løpende ajourhold av regnskapet for hver enkelt
-barnehage, kun for rettssubjektet som helhet. Tilsynsmyndigheten kan derfor ikke føre tilsyn med
-slike barnehager i et gjeldende regnskapsår, men
-må vente til barnehagen har rapportert i BASIL.
-Det innebærer at tilsynsmyndigheten først kan
-føre tilsyn med barnehagen ett til to år etter at en
-transaksjon har funnet sted.
-Virksomheter som er egne rettssubjekter, har
-rettslig handleevne og definerte eierrettigheter.
-Eierrettighetene viser hvem som eier hva, og dermed hvem som kan ta betalt for å bruke noe, for
-eksempel hvem som eier og kan leie ut en eiendom eller hvem som har en ansettelsesavtale og
-kan leie ut arbeidskraft. Hvis hver barnehage er et
-eget rettssubjekt, vil slike transaksjoner bli dokumentert. For eksempel vil den enkelte barneha-
+Virksomheter som er egne rettssubjekter, har rettslig handleevne og definerte eierrettigheter. Eierrettighetene viser hvem som eier hva, og dermed hvem som kan ta betalt for å bruke noe, for eksempel hvem som eier og kan leie ut en eiendom eller hvem som har en ansettelsesavtale og kan leie ut arbeidskraft. Hvis hver barnehage er et eget rettssubjekt, vil slike transaksjoner bli dokumentert. For eksempel vil den enkelte barnehagen ha ansettelsesavtaler med de ansatte, og kjøp av tjenester vil være dokumentert gjennom en avtale mellom barnehagen og leverandøren.
 
-2021–2022
+Barnehager som er organisert i samme rettssubjekt, er derimot ikke juridisk eller økonomisk adskilt fra hverandre. Årsregnskapet som blir rapportert inn til Brønnøysundregisteret viser den totale virksomheten i rettssubjektet, og ikke virksomheten til den enkelte barnehagen. Videre blir avtaler inngått av rettssubjektet og ikke av de enkelte barnehagene i rettssubjektet. Tilsynsmyndigheten kan kreve dokumentasjon på fordelingen av kostnadene mellom barnehagene, men denne dokumentasjonen er ikke juridisk forpliktende på samme måte som en avtale. Slik dokumentasjon vil bli utarbeidet med tanke på tilsyn, og ikke fordi det følger av annet regelverk barnehagene er forpliktet etter. Det er heller ikke annet regelverk som utfyller slike «avtaler» mellom flere barnehager i samme rettssubjekt. Etter departementets syn er det ikke mulig å få dokumentasjon med samme notoritet og bevisverdi når barnehagene ikke er selvstendige rettssubjekter.
 
-gen ha ansettelsesavtaler med de ansatte, og kjøp
-av tjenester vil være dokumentert gjennom en
-avtale mellom barnehagen og leverandøren.
-Barnehager som er organisert i samme rettssubjekt, er derimot ikke juridisk eller økonomisk
-adskilt fra hverandre. Årsregnskapet som blir rapportert inn til Brønnøysundregisteret viser den
-totale virksomheten i rettssubjektet, og ikke virksomheten til den enkelte barnehagen. Videre blir
-avtaler inngått av rettssubjektet og ikke av de
-enkelte barnehagene i rettssubjektet. Tilsynsmyndigheten kan kreve dokumentasjon på fordelingen av kostnadene mellom barnehagene, men
-denne dokumentasjonen er ikke juridisk forpliktende på samme måte som en avtale. Slik dokumentasjon vil bli utarbeidet med tanke på tilsyn,
-og ikke fordi det følger av annet regelverk barnehagene er forpliktet etter. Det er heller ikke annet
-regelverk som utfyller slike «avtaler» mellom flere
-barnehager i samme rettssubjekt. Etter departementets syn er det ikke mulig å få dokumentasjon
-med samme notoritet og bevisverdi når barnehagene ikke er selvstendige rettssubjekter.
-For å oppfylle dagens krav i barnehageloven
-må eieren likevel praktisere et delvis økonomisk
-skille mellom den aktuelle barnehagen og andre
-barnehager eller virksomheter. Barnehageeieren
-må derfor holde oversikt over hvilke kostnader
-som er påløpt i de ulike barnehagene. For eksempel kan ikke felleskostnader og renter og avdrag
-på lån som finansierer andre barnehager, kostnadsføres i barnehagens regnskap. For å sikre at
-avskrivninger og lånekostnader blir riktig fordelt,
-må barnehageeieren også ta stilling til hvilke eiendeler som tilhører de ulike barnehagene.
-Selv om barnehagene blir pålagt å bruke regnskapslovens prinsipper, vurderingsregler og oppstillingsplan også for interne kostnadsfordelinger,
-kan det være vanskelig å kontrollere om kostnadene som føres i barnehagenes regnskaper, er riktige og lovlige. For eksempel må inntekter, kostnader og balanseposter knyttet til flere barnehager i samme rettssubjekt, i større grad fordeles
-skjønnsmessig av rettssubjektet som driver de
-aktuelle barnehagene.
-I høringsnotatet om regnskapsmessig skille
-ble det foreslått å forskriftsregulere at barnehageeierne må fordele kostnader ved å bruke relevante fordelingsnøkler i tråd med årsaksprinsippet. Årsaksprinsippet innebærer at fordelingsnøklene skal være i tråd med de underliggende
-aktivitetene som forårsaker inntektene eller kostnadene. For tilsynsmyndigheten vil det likevel
-være en utfordring at sporbarheten av transaksjoner mellom barnehagens resultatregnskap og
+For å oppfylle dagens krav i barnehageloven må eieren likevel praktisere et *delvis* økonomisk skille mellom den aktuelle barnehagen og andre barnehager eller virksomheter. Barnehageeieren må derfor holde oversikt over hvilke kostnader som er påløpt i de ulike barnehagene. For eksempel kan ikke felleskostnader og renter og avdrag på lån som finansierer andre barnehager, kostnadsføres i barnehagens regnskap. For å sikre at avskrivninger og lånekostnader blir riktig fordelt, må barnehageeieren også ta stilling til hvilke eiendeler som tilhører de ulike barnehagene.
+
+Selv om barnehagene blir pålagt å bruke regnskapslovens prinsipper, vurderingsregler og oppstillingsplan også for interne kostnadsfordelinger, kan det være vanskelig å kontrollere om kostnadene som føres i barnehagenes regnskaper, er riktige og lovlige. For eksempel må inntekter, kostnader og balanseposter knyttet til flere barnehager i samme rettssubjekt, i større grad fordeles skjønnsmessig av rettssubjektet som driver de aktuelle barnehagene.
+
+I høringsnotatet om regnskapsmessig skille ble det foreslått å forskriftsregulere at barnehageeierne må fordele kostnader ved å bruke relevante fordelingsnøkler i tråd med årsaksprinsippet. Årsaksprinsippet innebærer at fordelingsnøklene skal være i tråd med de underliggende aktivitetene som forårsaker inntektene eller kostnadene. For tilsynsmyndigheten vil det likevel være en utfordring at sporbarheten av transaksjoner mellom barnehagens resultatregnskap og rettssubjektets balanseposter er svak. Dette er fordi den enkelte barnehagens kostnader vil være basert på hvordan rettssubjektet fordeler relevante kostnader på de ulike underenhetene. Etter departementets syn vil det derfor være svært krevende for tilsynsmyndigheten å få oversikt over eiendelene, gjelden og egenkapitalen i de ulike barnehagene. Videre gir det en risiko for at offentlige tilskudd og foreldrebetaling blir brukt til andre barnehager eller annen virksomhet enn midlene opprinnelig er tildelt.
+
+Høringsinstansene som var mot forslaget om eget rettssubjekt, mente at forslaget grep for mye inn i organisasjonsfriheten til barnehagene. Departementet er enig i at det ikke bør innføres unødvendige begrensinger på organiseringen av barnehagene, men graden av begrensinger på organisasjonsfriheten må veies opp mot behovet for transparens og kontrollmuligheter for offentlige myndigheter. Departementet mener at det vil bli enklere å vurdere om tilskuddene og foreldrebetalingen blir brukt i samsvar med regelverket, og på den måten kommer barna til gode, dersom hver barnehage er organisert i et selvstendig rettssubjekt. Ved et krav om selvstendig rettssubjekt vil det være enklere å etterprøve at kostnadene knyttet til fellestjenester er korrekt fordelt og relevante for barnehagedriften. Dette er fordi avtaler om leie og tjenester som barnehagen trenger, vil være inngått av den enkelte barnehagen. Tilsvarende vil det være enklere å føre tilsyn med lønnskostnader, som er en av de største kostnadene til barnehagene. I selvstendige rettssubjekter er ansettelsesforholdet mellom den enkelte barnehagen og den enkelte ansatte klart fordi tilsynsmyndigheten har tilgang til lønns- og trekkoppgaver, ansattelister og ansettelsesavtaler. At det mangler dokumentasjon på ansettelsesforholdet, vil være krevende når tilsynsmyndigheten skal føre økonomiske tilsyn, men også for kommunene når de skal føre tilsyn med krav til for eksempel bemanning og pedagogtetthet.
+
+Departementet har fått innspill om at et krav om selvstendig rettssubjekt gir flere interne transaksjoner og mer omfattende bruk av innkjøpsrutiner og fullmakter, noe som kan gi en mindre sentralisert kontroll. BDOs vurdering var at disse forholdene først og fremst vil føre til merarbeid for de større aktørene, se kapittel 2.3.3 om BDOs rapport om alternativer til krav om eget rettssubjekt. Departementet støtter denne vurderingen.
+
+Gjennom offentlige regnskap vil man også enklere kunne se om barnehagen har utdelt utbytte eller overført overskudd til andre barnehager. På den måten vil også nasjonale myndigheter, kommunen og foreldrene få innsyn i slike overføringer. I tillegg til at dette vil gi mer åpenhet om økonomien i den enkelte barnehagen, kan det gi et bedre grunnlag for å vurdere eventuelle framtidige endringer i finansieringssystemet.
+
+Et krav om selvstendig rettssubjekt gir lavere kostnader for det offentlige, og mer forutsigbarhet for sektor
+
+Regnskapsmessig skille er ikke en definert standard, verken juridisk eller økonomisk. Det betyr at den enkelte loven eller forskriften som bruker begrepet, fullt ut må definere innholdet i det.
+
+Flere av høringsinstansene som ikke støtter forslaget om at hver private barnehage skal være et eget rettssubjekt, mener det er mulig å ivareta tilsynsmyndighetens behov for åpenhet og kontroll med de økonomiske forholdene i de private barnehagene gjennom en utvidet rapportering i BASIL. Det er også noen instanser som mener at det vil være en fordel for tilsynsmyndigheten at flere barnehager er organisert i samme rettssubjekt fordi det vil være færre rettssubjekter å kontrollere. Høringsinstansene som er imot forslaget om selvstendig rettssubjekt, peker på at et slikt krav vil gripe inn i handlefriheten til de private aktørene og samtidig gi unødige merkostnader.
+
+Departementet ser imidlertid at det i praksis er flere store utfordringer med å oppstille et krav om regnskapsmessig skille. Innspillene departementet har fått til forslaget til ny økonomiforskrift i høringen om regnskapsmessig skille, viser at det er utfordrende å få på plass en like grundig og god regulering ved å skulle definere alt innholdet i barnehageregelverket. Etter departementets syn er det heller ikke mulig å få til et like klart skille mellom ulike barnehager i samme rettssubjekt ved å oppstille et krav om regnskapsmessig skille.
+
+Departementet vektlegger også at en regulering med krav til regnskapsmessig skille vil kreve mer ressurser fra det offentlige enn en regulering der hver private barnehage skal være et selvstendig rettssubjekt. En utfordring med å regulere et regnskapsmessig skille på barnehageområdet er at det ikke vil være noen regulering med mindre det aktuelle spørsmålet er regulert i barnehageloven eller økonomiforskriften. Et krav om regnskapsmessig skille vil derfor stille store krav til oppdatering og revidering av regelverket etter hvert som departementet får mer erfaring med reglene. Det stiller også større krav til veiledning og tolkningsuttalelser fra departementet og direktoratet. Det kan gi et regelverk som derfor er lite forutsigbart for sektor. Departementet mener det i tillegg er en stor risiko for at vi får flere klagesaker og rettssaker fordi regelverket blir uklart, noe som også gir økt ressursbruk for både barnehagesektoren og offentlige myndigheter.
+
+Ved å innføre et krav om at hver enkelt private barnehage skal være et selvstendig rettssubjekt, vil regelverket for selskaper og regnskapsføring gjelde for hver enkelt barnehage. Dette regelverket har vært praktisert over tid slik at det har fått utvikle seg, og det finnes informasjon og tolkninger om regelverket. Etter departementets syn vil dette gi et tydelig og mer forutsigbart regelverk.
+
+Departementet viser til at flertallet av høringsinstansene støtter forslaget om et krav om at hver private barnehage skal være et selvstendig rettssubjekt. Flere av instansene som støtter forslaget, uttaler at et slikt krav vil gjøre det enklere å føre tilsyn med barnehagene. Dette gjelder blant andre KS og en rekke kommuner.
+
+Forslaget om at hver private barnehage skal være et selvstendig rettssubjekt innebærer at barnehagen må følge regelverket som gjelder for den organisasjonsformen som er valgt. For aksjeselskaper og stiftelser for eksempel, innebærer det blant annet at barnehagen skal ha et styre. Styret for rettssubjektet som driver den private barnehagen, vil være barnehagens øverste ansvarlige organ. Dette styret vil være ansvarlig for at barnehagen drives i samsvar med barnehageloven med forskrifter. Styret og ledelsen i den enkelte barnehagen vil også ha forpliktelser etter regnskapsloven, bokføringsloven og annen lovgivning. Departementet mener dette kan bidra til å styrke den interne kontrollen i hver enkelt barnehage. Kommunen vil kunne føre tilsyn med om de private barnehagene oppfyller kravet om at de skal være selvstendige rettssubjekter, jf. barnehageloven § 53.
+
+Om kostnadene for de private barnehagene
+
+De alternative forslagene om krav til eget rettssubjekt og krav til regnskapsmessig skille vil begge innebære økte kostnader for de private barnehagene. Departementet legger til grunn at en regulering med regnskapsmessig skille vil kreve omfattende detaljrapportering fra barnehagene etter barnehageloven og økonomiforskriften. Dette er fordi disposisjoner innenfor et rettssubjekt med flere barnehager ikke er underlagt rapporterings- og dokumentasjonsplikt etter regnskapsloven og bokføringsloven. Departementet viser til at flertallet i Storberget-utvalget legger til grunn at det nærmere innholdet i et krav til regnskapsmessig skille, vil innebære en minst like stor administrativ byrde på barnehagene som et krav om eget rettssubjekt. Samtidig mener de at demokratisk kontroll med bruken av offentlige midler, kun kan oppnås på en tilfredsstillende måte ved å innføre et krav om eget rettssubjekt.
+
+Instansene som er imot forslaget om krav om at hver barnehage skal være et eget rettssubjekt mener at det er unødvendig dyrt for de private barnehagene. For barnehageeierne med flere barnehager i samme selskap, vil det være en engangskostnad knyttet til å registrere hver enkelt barnehage som et selvstendig rettssubjekt og det vil være årlige merutgifter til regnskapsføring og rapportering. Samtidig mener departementet at risikoen for at et regnskapsmessig skille ikke vil fungere tilfredsstillende, er såpass stor at det på sikt kan bli et behov for å stille krav om at hver barnehage skal være et selvstendig rettssubjekt.
+
+Departementet mener det vil være uheldig om det blir innført et komplisert regelverk om regnskapsmessig skille, som senere blir endret til et krav om at hver barnehage skal være et selvstendig rettssubjekt. Å innføre et krav om selvstendig rettssubjekt gir etter departementets syn den mest effektive reguleringen og størst forutsigbarhet for sektoren.
+
+Flertallet av de private barnehagene er allerede registrert som et eget rettssubjekt. Av de private barnehagene som rapporterte i BASIL i 2020, anslår departementet at om lag 60 prosent av alle private barnehager allerede har kostnader ved å være et eget rettssubjekt. De resterende barnehagene vil i dag samlet sett ha lavere kostnader til regnskap og dokumentasjon, fordi regnskapsføringen gjøres felles for flere barnehager. De enkeltstående barnehagene, som allerede er registrert som et eget rettssubjekt, leverer i dag både årsregnskap til Brønnøysund og BASIL-regnskap til Utdanningsdirektoratet. Hvis alle barnehager registreres som et eget rettssubjekt, er det på sikt mulig å kun ha én rapportering om regnskapstall til myndighetene.
+
+Vurdering av andre innspill til forslaget om krav til eget rettssubjekt
+
+Noen høringsinstanser viser til at det innenfor en barnehagekjede kan være noen barnehager som går i pluss, og noen som går i minus. De mener det er viktig at man kan kryssubsidiere mellom private barnehager. Departementet viser til at barnehager som ønsker å subsidiere andre barnehager, også i dag må gjøre dette ved å disponere et eventuelt overskudd. Det følger av barnehageloven § 23 første ledd at barnehagen bare skal belastes kostnader «som direkte vedrører godkjent drift av barnehagen». Det betyr at kostnader til andre barnehager som drives i samme rettssubjekt, ikke skal føres i barnehagens regnskap. Hvis barnehagen har oppfylt kravene i § 23 og fått et positivt årsresultat, kan barnehagen disponere overskuddet fritt, også til å subsidiere andre barnehager.
+
+Noen høringsinstanser mener at forslaget innebærer en forskjellsbehandling av kommunale og private barnehager. De viser til at kommunene i dag har anledning til å utnytte de mulighetene som en konsernmodell gir, for eksempel ved å effektivisere administrative oppgaver.
+
+Departementet viser til at reglene i barnehageloven § 23 om hvordan barnehagene skal bruke offentlige tilskudd og foreldrebetaling, kun gjelder for private barnehager. For at man skal kunne etterprøve at private barnehager etterlever denne bestemmelsen, er det en forutsetning at barnehagene er tilstrekkelig økonomisk adskilt fra hverandre. Det er ikke et tilsvarende behov for å etterprøve kommunens kostnader til kommunale barnehager, som er underlagt andre kontrollordninger etter kommuneloven.
+
+Ny økonomiforskrift til barnehageloven
+
+Hvis hver private barnehage er et eget rettssubjekt, vil annen lovgivning, som for eksempel bokføringsloven og regnskapsloven, gjelde for hver enkelt barnehage. Samtidig kan det være behov for noen egne forskriftsregler om blant annet dokumentasjon og rapportering. Departementet vil se nærmere på dette og utarbeide en ny økonomiforskrift som er tilpasset en situasjon der hver private barnehage er et selvstendig rettssubjekt.
+
+### Unntak for de minste barnehagene
+
+I høringen i 2019 ble det foreslått et unntak for barnehagene som ikke har revisjonsplikt i dag. Forslaget ble støttet av de fleste høringsinstansene som uttalte seg om dette.
+
+Unntaket vil omfatte en stor andel av de private barnehagene, samtidig som barnehagens størrelse ikke er avgjørende for hvor stor risiko det er for brudd på kravene til bruk av tilskudd og foreldrebetaling. Å unnta så mange barnehager fra kontroll og tilsyn, kan derfor svekke legitimiteten til tilsynsmyndigheten. Samtidig er departementet usikker på hvilke konsekvenser et krav om selvstendig rettssubjekt vil få for de minste barnehagene. Dette er i de fleste tilfellene enheter med få administrative ressurser.
+
+Departementet er i gang med et større arbeid for å se på finansieringssystemet for private barnehager, basert på blant annet rapportene fra velferdstjenesteutvalget og Storberget-utvalget. I dette arbeidet vil departementet se nærmere på hvilke konsekvenser ulike regelverksendringer har for de minste barnehagene. Departementet foreslår derfor at det nå lovfestes et unntak for de minste barnehagene. For å sikre at et krav om selvstendig rettssubjekt ikke får for store konsekvenser for barnehagene, foreslår departementet å unnta noen flere barnehager enn det som ble foreslått i høringen.
+
+Departementet foreslår å unnta barnehageeiere som enten alene, sammen med nærstående eller selskap i samme konsern, eier ordinære barnehager med til sammen færre enn 30 barn, familiebarnehager med til sammen færre enn 10 barn eller én åpen barnehage. Departementet anslår at unntaket vil omfatte 27 prosent av de private barnehagene.
+
+Departementet vil vurdere om det også skal innføres krav om eget rettssubjekt for disse barnehagene og komme tilbake til dette i forbindelse med endringer i finansieringssystemet. Departementet ønsker et regelverk og et finansieringssystem som gjelder alle private barnehager, og som kan stå seg over tid og som fanger opp både de endringene som har skjedd i sektoren de siste tiårene og som kan løse de utfordringene som er dokumentert.
+
+### Hjemmel til å gi forskrift om dokumentasjon
+
+I barnehageloven § 23 femte ledd framgår det at departementet kan gi forskrift om regnskap, revisjon og rapportering knyttet til bruk av offentlige tilskudd og foreldrebetaling. I tillegg til nye forskriftsbestemmelser om regnskap, revisjon og rapportering, mener departementet at det også er behov for å fastsette noen forskriftsbestemmelser om annen type dokumentasjon. Selv om tilsynet har hjemmel til å kreve opplysninger og dokumentasjon etter § 23 fjerde ledd og § 56 syvende ledd, mener departementet det bør være hjemmel til å kunne fastsette bestemmelser om dokumentasjon i økonomiforskriften. Departementet viser til at forslaget fikk stor støtte i høringen.
+
+### Når skal reglene tre i kraft?
+
+Et krav om at hver barnehage skal være et selvstendig rettssubjekt innebærer at barnehageeiere som driver flere barnehager i samme rettssubjekt og barnehager som er organisert som enkeltpersonforetak, må opprette egne selskaper for hver barnehage. For å opprette nye selskaper må barnehagevirksomhetene innen loven trer i kraft, oppfylle vilkårene for å registrere hver enkelt barnehage i Enhetsregisteret. Det vil si at de må utarbeide stiftelsesdokumenter og gjøre de vedtakene som kreves etter rettsgrunnlaget for den foretaksformen barnehagene skal ha. Deretter vil det være en del praktisk tilrettelegging som må skje for at barnehagen kan komme i drift i det nye rettssubjektet. For eksempel må barnehagene få på plass arbeidskontrakter, bankavtaler, regnskapssystem og fakturasystem.
+
+For de store aktørene som har mange barnehager i samme rettssubjekt, vil dette kreve en del arbeid. Fordi regelverksendringene er så avgjørende for å få et effektivt tilsyn, tar departementet likevel sikte på at lovendringene skal tre i kraft 1. januar 2023. Det vil gi barnehagene tid til å innrette seg etter lovendringene, samtidig som ikrafttredelsen følger regnskapsåret.
+
+## Departementets forslag
+
+Departementet foreslår å lovfeste at hver private barnehage skal være et selvstendig rettssubjekt. Departementet foreslår at kravet ikke skal gjelde for barnehageeiere som alene, sammen med nærstående eller selskap i samme konsern, eier ordinære barnehager med til sammen færre enn 30 barn, familiebarnehager med til sammen færre enn 10 barn eller én åpen barnehage.
+
+Departementet foreslår videre å presisere i forskriftshjemmelen i barnehageloven § 23 femte ledd at departementet kan fastsette nærmere krav til dokumentasjon knyttet til bruk av offentlige tilskudd og foreldrebetaling.
+
+Departementet viser til lovforslagene § 7 a første og tredje ledd og § 23 femte ledd.

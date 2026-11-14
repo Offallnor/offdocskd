@@ -1,915 +1,130 @@
-# Prop. 89 L (2019–2020), del 18 av 20 (side 183–194)
+# Prop. 89 L (2019–2020), del 18 av 22
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/5eb8ac28-prop-89-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-89-l-20192020/id2699012/
 - Original-PDF: https://www.regjeringen.no/contentassets/c292a78648754b4ea902ddcf9559fcef/no/pdfs/prp201920200089000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 183]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-§ 9 andre ledd, også har rett til å fullføre opplæringen i norsk og samfunnskunnskap. Se merknad til
-§ 9 andre ledd.
-Kommunen kan tilby opplæring i norsk og samfunnskunnskap til andre enn de som har rett og
-plikt eller bare plikt til deltagelse i opplæring, jf. sjuende ledd. Det kan for eksempel være aktuelt å tilby
-opplæring til arbeidsinnvandrere fra EØS-land og
-deres familiegjenforente, eller til personer som
-ikke omfattes av målgruppen på grunn av alderskravet. Når kommunen tilbyr opplæring til andre,
-kan det kreves egenbetaling for opplæringen, jf.
-§ 30 fjerde ledd.
-Til § 27
-Bestemmelsen regulerer hvilke oppholdstillatelser som gir rett og plikt til å delta i opplæring i
-norsk og samfunnskunnskap.
-Oppholdstillatelser som er nevnt i § 9 gir rett
-og plikt til deltagelse i introduksjonsprogrammet.
-Dette er henholdsvis beskyttelse, oppholdstillatelse etter innreisetillatelse som overføringsflyktning, fornybar oppholdstillatelse etter utlendingsloven § 38 første ledd på grunnlag av søknad om
-beskyttelse, begrenset oppholdstillatelse som
-medlem av barnefamilie, kollektiv beskyttelse i
-massefluktsituasjon, oppholdstillatelse som familiemedlem til person med en av de nevnte oppholdstillatelsene og fornybar oppholdstillatelse
-etter utlendingsloven § 53 første ledd bokstav b,
-andre ledd eller tredje ledd.
-Også andre oppholdstillatelser som danner
-grunnlag for permanent oppholdstillatelse gir rett
-og plikt til deltagelse i opplæring i norsk og samfunnskunnskap. Dette gjelder for eksempel oppholdstillatelse etter utlendingsloven kapittel 6 som
-familiemedlem til personer som har permanent
-oppholdstillatelse, jf. utlendingsloven § 62, eller
-personer med oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til norske og
-andre nordiske borgere. Unntaket er oppholdstillatelser nevnt i § 28, som gjelder plikt til opplæring. Se merknad til § 28.
-Til § 28
-Bestemmelsen regulerer hvilke oppholdstillatelser som gir plikt til å delta i opplæring i norsk og
-samfunnskunnskap. Personer med oppholdstillatelse etter utlendingsloven §§ 23 eller 25 har plikt
-til å delta i opplæringen, forutsatt at oppholdstillatelsen danner grunnlag for permanent oppholdstillatelse. De som har oppholdstillatelse etter
-de nevnte bestemmelsene er i hovedsak arbeids-
-
-181
-
-innvandrere fra land utenfor EØS. Også personer
-som har fått oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer
-med slike oppholdstillatelser, har plikt til å delta i
-opplæring i norsk og samfunnskunnskap.
-Til § 29
-Bestemmelsen regulerer fritak fra plikten til å
-delta i opplæring i norsk og samfunnskunnskap.
-Det følger av første ledd første punktum at personer som kan dokumentere et minimum av
-kunnskaper i norsk eller samisk, etter søknad,
-kan fritas fra plikten til å delta i opplæring i norsk.
-Videre kan personer som kan dokumentere et
-minimum av kunnskaper om det norske samfunnet, etter søknad, fritas fra plikten til å delta i opplæring i samfunnskunnskap, jf. første ledd andre
-punktum. Hva som utgjør et minimum av kunnskaper i norsk og samisk og om det norske samfunnet, reguleres i forskrift. Dersom dokumentasjonen er i orden skal kommunen innvilge fritak.
-Bestemmelsens andre ledd regulerer fritak på
-grunn av særlige helsemessige eller andre
-tungtveiende årsaker som hindrer deltagelse i
-opplæringen. Også i disse tilfellene må den
-enkelte selv søke om fritak. Det må foretas en helhetlig vurdering av situasjonen i den enkelte sak
-av om det foreligger helsemessige eller tungtveiende årsaker som forhindrer vedkommende fra å
-delta i opplæring i lang tid fremover. Dersom den
-særlige helsemessige eller tungtveiende årsaken
-har oppstått underveis eller etter at opplæringen
-er gjennomført, kan det søkes fritak fra plikt til å
-fullføre opplæringen og plikt til å avlegge prøver.
-Vilkårene særlige helsemessige eller andre
-tungtveiende årsaker er alternative, og skal vurderes adskilt. Utgangspunktet er at opplæringen
-i norsk og samfunnskunnskap skal tilpasses den
-enkelte deltager, også den som av helsemessige
-årsaker har begrensede muligheter til å delta i
-opplæringen. Adgangen til fritak fra plikt til å
-delta i opplæring gjelder derfor bare for personer
-som overhodet ikke kan delta i og gjennomføre
-opplæringen i løpet av opplæringsperioden på tre
-år eller 18 måneder. Se punkt 10.1.4.4 om fritaksgrunnene.
-Personer som har fritak fra opplæring i norsk
-og samfunnskunnskap er også fritatt fra plikten til
-å avlegge avsluttende prøver i norsk og samfunnskunnskap, jf. § 37.
-Etter tredje ledd kan departementet gi forskrift
-om hvilken dokumentasjon som er nødvendig for
-å få fritak fra plikt til deltagelse i opplæring i norsk
-og samfunnskunnskap. Det vil blant annet bli gitt
-
-[Side 184]
-
-182
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-forskrift om hva som utgjør et minimum av kunnskaper i norsk og samisk, samt kunnskap om det
-norske samfunnet.
-
-2019–2020
-
-Departementet kan gi forskrift om innholdet i
-opplæringen, jf. sjette ledd. Det er i hovedsak aktuelt å forskriftsfeste læreplaner for opplæring i
-norsk og samfunnskunnskap.
-
-Til § 30
-Bestemmelsen regulerer ansvar for opplæring i
-norsk og samfunnskunnskap.
-Det fremgår av bestemmelsens første ledd at
-kommunen skal treffe vedtak om, og sørge for,
-opplæring til personer som omfattes av § 26 første
-og tredje ledd som er folkeregistret i kommunen.
-Det vil si både deltagere med rett og plikt til opplæring, og deltagere som bare har plikt til opplæring.
-Kommunens plikt gjelder også overfor personer
-som er i målgruppen, men som bor midlertidig på
-asylmottak i kommunen i påvente av bosetting.
-Etter bestemmelsens andre ledd er det fylkeskommunen som skal sørge for opplæring i norsk
-og samfunnskunnskap til personer som omfattes
-av § 26 første ledd som går i videregående opplæring etter opplæringsloven, så fremt denne opplæringen er på full tid. Med full tid menes minimum
-30 timer i uken. Opplæringen i fylkeskommunen
-kan gis etter læreplaner i fagene norsk og samfunnskunnskap etter opplæringsloven. Dersom
-den ordinære undervisningen ikke medfører at
-deltageren kan oppnå minimumsnivået i norsk
-etter § 31, må fylkeskommunen sørge for ekstra
-opplæring. Utover dette er det opp til fylkeskommunen å organisere opplæringen slik den mener
-er hensiktsmessig.
-Det følger av tredje ledd første punktum at tilbud om opplæring i norsk og samfunnskunnskap
-skal gis så snart som mulig, og innen tre måneder, etter folkeregistrering i kommunen eller
-krav om deltagelse blir fremsatt. Det følger av
-tredje ledd andre punktum at fylkeskommunens
-ansvar inntrer ved oppstart i videregående
-opplæring. I praksis vil mange starte opplæringen i kommunen før fylkeskommunen overtar
-ansvaret.
-I fjerde ledd er det presisert at kommunen kan
-kreve betaling fra deltagere som har plikt til å
-delta i opplæringen, jf. § 26 tredje ledd, eller deltagere som tilbys opplæring etter § 26 sjuende ledd.
-Kommunen må ikke kreve betaling, men har
-mulighet til det etter loven.
-Kommunen skal utstede deltagerbevis ved
-gjennomført eller avbrutt opplæring, jf. femte ledd.
-Deltagerbevis gir dokumentasjon på hva den
-enkelte har gjennomført, både dersom vedkommende gjennomfører hele opplæringen eller
-avbryter den.
-
-Til § 31
-Bestemmelsen regulerer krav til opplæring i
-norsk.
-Det følger av første ledd første punktum at deltagere i opplæring i norsk skal oppnå et minimumsnivå i norsk. Hvilket minimumsnivå deltageren
-skal oppnå vil bli regulert i forskrift, jf. andre ledd.
-Videre følger det av første ledd andre punktum at
-kommunen og fylkeskommunen skal sørge for
-opplæring slik at deltageren når minimumsnivået.
-Det må altså tilbys opplæring med tilstrekkelig
-intensitet og kvalitet slik at deltageren kan nå
-minimumsnivået innenfor varigheten som følger
-av § 32. Kommunen har ikke plikt til å sørge for
-opplæring lenger enn det som følger av § 32, men
-fylkeskommunens plikter etter opplæringsloven
-kan likevel strekke seg lengre. Etter første ledd
-tredje punktum utgjør minimumsnivået deltagerens norskmål. Norskmålet fastsettes i integreringsplanen eller norskplanen etter §§ 15 eller 34,
-og utgjør et enkeltvedtak som kan påklages.
-Departementet kan gi forskrift om veiledende
-minimumsnivåer for ulike grupper deltagere, jf.
-andre ledd. De veiledende minimumsnivåene vil
-bli differensiert ut fra bakgrunnen til deltagerne.
-Til § 32
-Bestemmelsen regulerer varighet og omfang av
-opplæring i norsk.
-Det følger av første ledd første punktum at rett
-og plikt til opplæring i norsk for deltager med oppholdstillatelse etter § 27, gjelder til deltageren har
-nådd et minimumsnivå i norsk etter § 31. Utgangspunktet er altså at vedkommende både har rett til
-å delta i opplæring og plikt til å møte opp i opplæringen, frem til norskmålet er nådd. Rett og plikt
-gjelder likevel ikke lenger enn tre år med tillegg
-av godkjent permisjon. I første ledd andre punktum
-fremgår det at en deltager som minimum har
-utdanning på videregående nivå fra før, ikke har
-rett eller plikt til opplæring i lenger enn 18 måneder med tillegg av godkjent permisjon.
-Reglene om varighet gjelder også deltagerne
-som går fulltid i videregående opplæring og som
-fylkeskommunen dermed har ansvar for. Fylkeskommunen har også plikter etter opplæringsloven
-overfor denne gruppen. Disse pliktene kan fort-
-
-[Side 185]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-183
-
-satt bestå, selv om fylkeskommunens plikt etter
-integreringsloven opphører.
-Etter andre ledd gjelder plikt til opplæring i
-norsk for deltagere med oppholdstillatelse etter §
-28 frem til deltageren har nådd et minimumsnivå i
-norsk, eller ved gjennomførte 300 timer. Deltagere som bruker færre enn 300 timer opplæring
-på å nå sitt norskmål, må altså ikke delta i flere
-timer norskopplæring.
-
-let plan som omfatter både programmet og opplæringen, se merknad til § 15.
-Etter første ledd tredje punktum gjelder ikke kravet om å utarbeide en plan for opplæringen i norsk
-og samfunnskunnskap når fylkeskommunen har
-ansvar for norskopplæringen. Det forutsettes at
-opplæringen da følger læreplaner etter opplæringsloven, eventuelt at fylkeskommunen velger å følge
-læreplanene etter integreringsloven.
-
-Til § 33
-
-Til § 35
-
-Bestemmelsen regulerer krav til opplæring i samfunnskunnskap.
-Etter første ledd første punktum skal opplæringen i samfunnskunnskap gjennomføres på et
-språk deltageren forstår. For mange deltagere vil
-dette være morsmålet eller et annet språk vedkommende har lært før ankomst til Norge. Videre
-følger det av første ledd andre punktum at opplæringen skal gjennomføres innen ett år etter at rett
-og plikt inntrådte etter § 26 andre ledd, eller plikten inntrådte etter § 26 fjerde ledd. Dette innebærer at kommunen må sørge for tidlig oppstart
-av opplæringen, slik at opplæringen gjennomføres
-før fristen utløper.
-Det fremgår av andre ledd at kravene i første
-ledd ikke gjelder når fylkeskommunen har ansvar
-for opplæringen i samfunnskunnskap etter § 30
-andre ledd. Dette innebærer at personer som går i
-videregående opplæring på fulltid ikke må ha
-gjennomført opplæringen innen ett år og at det
-ikke stilles samme krav om opplæring på et språk
-deltageren forstår.
-
-Bestemmelsen regulerer fravær og permisjoner
-fra opplæringen i norsk og samfunnskunnskap.
-Det følger av første ledd at deltageren kan søke
-kommunen om tillatelse til fravær fra opplæringen
-i norsk og samfunnskunnskap. Dersom deltageren har omfattende ugyldig fravær kan opplæringen stanses etter § 36. Se merknader til § 36.
-Etter andre ledd kan deltageren etter søknad
-til kommunen innvilges permisjon fra opplæringen. Det følger av § 32 at godkjent permisjon legges til den maksimale varigheten av opplæringen.
-I tredje ledd fremgår det at departementet gir
-forskrift om regler for fravær og permisjoner fra
-opplæringen i norsk og samfunnskunnskap. Det
-vil blant annet bli gitt regler for hva som utgjør
-gyldig og ugyldig fravær, samt hvilke permisjoner
-som kan innvilges, og for hvor lenge.
-
-Til § 34
-Bestemmelsen regulerer norskplan for deltagere i
-opplæringen i norsk og samfunnskunnskap.
-Kommunen skal, samtidig som det treffes vedtak etter § 30, utarbeide en plan for opplæring i
-norsk og samfunnskunnskap, jf. første ledd første
-punktum. Dette innebærer at fristen er innen tre
-måneder etter folkeregistrering i kommunen eller
-at krav om deltagelse blir fremsatt. Det følger av
-første ledd andre punktum at § 15 om integreringsplan gjelder tilsvarende, som innebærer at minimumsinnholdet som reguleres der også gjelder
-for norskplanen. Norskplan skal kun utarbeides
-for deltagere i opplæringen som ikke også deltar i
-introduksjonsprogrammet. Planen skal da kun
-inneholde det som er relevant for opplæringen i
-norsk og samfunnskunnskap, blant annet deltagerens norskmål og omfanget av opplæringen. Deltagere i introduksjonsprogrammet skal ha én sam-
-
-Til § 36
-Bestemmelsen regulerer stans av opplæringen i
-norsk og samfunnskunnskap. Kommunen kan
-stanse opplæringen midlertidig eller permanent
-for den enkelte dersom det er saklig begrunnet i
-den enkeltes forhold. Når opplæringen stanses
-midlertidig bør ikke perioden være lengre enn tre
-måneder. Forhold som kan begrunne stans er
-blant annet omfattende fravær fra opplæringen,
-særlig fravær som det ikke er gitt tillatelse til,
-atferd i eller utenfor opplæringen som kan skade
-deltagerens eller andres muligheter for å gjennomføre opplæringen eller alvorlig eller langvarig
-sykdom.
-Til § 37
-Bestemmelsen regulerer prøver i norsk og samfunnskunnskap.
-Det følger av første ledd første punktum at deltagere som er omfattet av § 26 første ledd, har plikt
-til å gå opp til avsluttende prøver i norsk og samfunnskunnskap. Dette innebærer at gjennomføring av prøvene er obligatorisk. Personer som har
-
-[Side 186]
-
-184
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-fritak fra å delta i opplæringen, jf. § 29, har også
-fritak fra å gjennomføre prøve i faget vedkommende har fritak fra, jf. første ledd andre punktum.
-Etter andre ledd første punktum skal avsluttende prøve i samfunnskunnskap gjennomføres
-innen ett år etter at rett og plikt til opplæring inntrådte etter § 26 andre ledd. Dette må ses i sammenheng med at opplæringen også skal være
-gjennomført innen samme frist, jf. § 33. Dette gjelder ikke når fylkeskommunen har ansvar for opplæring i samfunnskunnskap etter § 30 andre ledd,
-jf. andre ledd andre punktum.
-Det følger av tredje ledd at deltagere etter søknad kan fritas fra plikten i første ledd. I disse tilfellene gjelder § 29 tilsvarende, slik at fritaksgrunnene nevnt der også kan danne grunnlag for fritak
-fra prøver. Se merknad til § 29.
-Kommunen skal sørge for at deltagere som
-har plikt til å gå opp til avsluttende prøver i norsk
-og samfunnskunnskap får gjennomført prøvene,
-jf. fjerde ledd. Ansvaret gjelder overfor deltagere
-som er folkeregistrert i kommunen.
-Femte ledd regulerer departementets myndighet til å gi forskrift om innholdet i, og gjennomføringen av, prøver i norsk og samfunnskunnskap,
-og om reaksjoner ved overtredelse av bestemmelser om gjennomføringen av prøvene.
-Til § 38
-Bestemmelsen regulerer forsøk etter integreringsloven.
-Det følger av første ledd at departementet etter
-søknad fra kommunen kan godkjenne unntak fra
-loven og forskriftene i forbindelse med tidsavgrensede pedagogiske, økonomiske eller organisatoriske forsøk. Forsøkene kan være utprøving
-av modeller som innebærer behov for unntak fra
-bestemmelser som gjelder pedagogiske, organisatoriske eller økonomiske forhold. Bestemmelsen
-er knyttet til gjennomføring av konkrete forsøk
-hvor kommunen søker om og får innvilget unntak
-fra klart angitte bestemmelser i lov eller forskrift
-for en avgrenset periode. Den gir ingen generell
-adgang til å gjøre unntak fra bestemmelser i lov
-eller forskrift. De samlede fordelene ved forsøksordningen må oppveie ulempene som inngrepet i
-rettigheter etter loven medfører. At det kan gjennomføres økonomiske forsøk innebærer at det
-kan gjøres unntak fra integreringsloven kapittel 5
-om introduksjonsstønad. Redusert introduksjonsstønad i en periode mot å motta det resterende
-beløpet når deltageren oppnår sine mål er én
-mulig modell, men også andre modeller kan være
-aktuelle for forsøk. Det presiseres uttrykkelig at
-
-2019–2020
-
-det kan godkjennes forsøk som innskrenker rettigheter eller utvider plikter etter integreringsloven.
-Etter andre ledd kan departementet gi forskrift
-om rammene for forsøk og kriteriene for godkjenning.
-Til § 39
-Bestemmelsen regulerer kompetansekrav for
-lærere.
-Det følger av første ledd at den som skal undervise i norsk i kommunen etter integreringsloven
-skal ha relevant faglig og pedagogisk kompetanse. Departementet vil legge til grunn samme
-forståelse av pedagogisk kompetanse som etter
-opplæringsloven, altså pedagogisk bakgrunn i
-samsvar med krav i rammeplanene for lærerutdanningene med forskrifter. Med relevant faglig
-kompetanse menes 30 studiepoeng i faget norsk
-som andrespråk. Hva som menes med relevant
-faglig og pedagogisk kompetanse, vil bli regulert i
-forskrift. Kompetansekravet gjelder for offentlige
-og private ansatte lærere i fast eller midlertidig
-stilling. Kompetansekravet gjelder ikke for lærere
-i norsk og samfunnskunnskap i fylkeskommunen.
-Departementet kan gi forskrift om innholdet i
-overgangsregler til kravet i første ledd, jf. andre
-ledd.
-Til § 40
-Bestemmelsen regulerer forbud mot bruk av
-ansiktsdekkende plagg.
-Første ledd fastslår at personer som deltar i
-introduksjonsprogram eller opplæring etter integreringsloven, ikke skal bruke klesplagg som helt
-eller delvis dekker ansiktet i forbindelse med opplærings- og vurderingssituasjoner. Med opplæringssituasjoner menes opplæring etter integreringsloven og opplæringslignende tiltak. Opplæringslignende tiltak kan for eksempel være språkog arbeidspraksis, eller andre elementer etter § 14
-første ledd bokstav d. Turer som innebærer opplæring vil være omfattet av forbudet. Forbudet
-gjelder også ved gjennomføring av avsluttende
-prøver i norsk og samfunnskunnskap og statsborgerprøven. Det skal tilrettelegges for deltagerne
-ved gjennomføring av prøver. Aktuell tilrettelegging kan for eksempel være identifisering foran
-bare én person, og gjennomføring av prøven på et
-eget rom. Forbudet gjelder ikke når bruk av
-ansiktsdekkende plagg er begrunnet i klimatiske,
-pedagogiske, helsemessige eller sikkerhetsmessige forhold. Det er for eksempel tillatt å bruke
-
-[Side 187]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-ansiktsdekkende plagg ved opplæring ute i sterk
-kulde.
-Andre ledd angir reaksjoner ved brudd på forbudet i første ledd. Kommunen kan stanse introduksjonsprogram eller opplæring midlertidig
-etter §§ 18 og 36, for personer som tross skriftlig
-advarsel bruker klesplagg som helt eller delvis
-dekker ansiktet. Skriftlig advarsel kan gis flere
-ganger. Kommunen skal alltid forsøke å få den det
-gjelder til å rette seg etter forbudet gjennom samtale før den setter i verk reaksjoner. Terskelen for
-å stanse introduksjonsprogrammet eller opplæringen midlertidig skal være høy.
-Tredje ledd slår fast at forbudet i første ledd
-gjelder tilsvarende for lærere og andre personer
-som i opplærings- og vurderingssituasjoner bidrar
-til at kommunen oppfyller pliktene i loven. Dette
-gjelder også personer med lignende roller som
-arbeider for private rettssubjekter, når disse har
-etablert samarbeid med kommunen om oppfyllelse av pliktene kommunen har etter integreringsloven. Ved brudd på forbudet skal den det
-gjelder bli pålagt å fjerne klesplagget. Gjentatte
-brudd på forbudet kan gi grunnlag for oppsigelse
-etter arbeidsrettslige regler. Oppsigelse må gjøres
-i tråd med regelverket for dette.
-Til § 41
-Bestemmelsen regulerer behandling av personopplysninger. Bestemmelsen gjelder både
-behandling av personopplysninger etter integreringsloven og behandling av personopplysninger
-ved andre integreringstiltak. Virkeområdet er
-således videre enn andre bestemmelser i loven.
-Første ledd gir en overordnet regulering av
-behandling av personopplysninger, også personopplysninger nevnt i personvernforordningen
-artikkel 9 og 10. Offentlige organer som har oppgaver i forbindelse med formålene kan behandle
-personopplysninger etter bestemmelsen. Dette
-inkluderer også private som utfører oppgaver for
-de nevnte formålene for stat, fylkeskommune eller
-kommune, jf. bestemmelsens tredje ledd. For at
-behandling skal være tillatt, må behandlingen og
-personopplysningene være nødvendige for å utføre
-oppgaver for formålene. Dette innebærer at det
-ikke er tilstrekkelig at opplysningene er nyttige.
-Bestemmelsen lister opp hvilke formål det kan
-behandles personopplysninger for i bokstav a til e.
-Tiltak for å gi asylsøkere kjennskap til norsk språk
-og samfunnsliv i bokstav a omfatter blant annet opplæring i norsk og samfunnskunnskap i mottak. Tiltak for å gi innvandrere kunnskap og ferdigheter
-for å kunne delta i det norske samfunnslivet i bok-
-
-185
-
-stav b dekker for eksempel introduksjonsprogrammet, opplæring i norsk og samfunnskunnskap,
-arbeidstrening, språkpraksis og andre lignende tiltak.
-Gjennomføring av prøver for dokumentasjon
-av norskferdigheter i bokstav c har et videre virkeområde enn § 41 for øvrig. Bestemmelsen gir
-hjemmelsgrunnlag for å behandle personopplysninger om personer som avlegger prøver for å
-dokumentere norskkunnskaper og samfunnskunnskap. Dokumentasjon av norskkunnskaper
-er et av vilkårene for permanent oppholdstillatelse
-og norsk statsborgerskap, etter henholdsvis utlendingsloven og statsborgerloven. Det kreves også
-dokumentasjon av norskkunnskaper for å få opptak til høyere utdanning i Norge. Selv om mange
-av de som avlegger prøver er innenfor integreringslovens målgruppe, er det også flere andre
-grupper som avlegger disse prøvene som privatister. Dette kan for eksempel være norske statsborgere med grunnskole fra utlandet og EU/EØSborgere. Statsborgerprøven er en prøve som
-dokumenterer samfunnskunnskap, og omfattes
-derfor av bestemmelsen.
-Etter bokstav d kan det behandles personopplysninger for bosetting av innvandrere. Dette dekker hele bosettingsprosessen, herunder IMDis
-anmodning til kommunene om bosetting, kommunenes tilrettelegging av botilbud og lignende. Bokstav e gjelder utbetaling av tilskudd til kommunene for tiltakene i bokstav a, b og d. Tilskuddsordningen reguleres i rundskriv, og adgangen til å
-behandle personopplysninger for dette formålet
-gjelder for den til enhver tid gjeldende tilskuddsordning.
-Andre ledd gir hjemmel for behandling av personopplysninger om personer som har fått innvilget norsk statsborgerskap etter å ha hatt en oppholdstillatelse etter utlendingsloven, når det er
-nødvendig for å utføre oppgaver som nevnt i første
-ledd. Dette har særlig relevans for formålene i første ledd bokstav a, b og d. Første ledd bokstav c
-har allerede et videre virkeområde enn de andre
-formålene, og omfatter blant annet også personer
-som har vært norske statsborgere hele livet dersom de har behov for å dokumentere kunnskaper
-i norsk, se ovenfor.
-Tredje ledd presiserer at også private aktører
-som for eksempel har ansvar for opplæring i
-norsk og samfunnskunnskap i en kommune, kan
-behandle personopplysninger for disse formålene.
-Private aktører må utføre oppgaver for formålene
-nevnt i første ledd for stat, fylkeskommune eller
-kommune, for at de skal ha adgang til å behandle
-personopplysninger med hjemmel i § 41.
-
-[Side 188]
-
-186
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-Fjerde ledd gir departementet adgang til å gi
-forskrift om behandlingen av personopplysninger
-etter loven. Det kan for eksempel gis forskrift om
-krav til behandlingen, bruk av automatiserte
-avgjørelser, hvilke organer som kan behandle personopplysninger og hvilke opplysninger som kan
-behandles.
-Til § 42
-Bestemmelsen regulerer innhenting og utveksling av personopplysninger.
-Første ledd første punktum presiserer at personopplysninger nevnt i § 41 første ledd kan innhentes fra utlendingsmyndighetene og folkeregistermyndigheten uten hinder av lovbestemt taushetsplikt. Med utlendingsmyndighetene menes i
-hovedsak Utlendingsdirektoratet og Utlendingsnemnda. Første ledd andre punktum gir hjemmel
-for innhenting av opplysninger fra den kommunale barnevernstjenesten og krisesentre uten hinder av taushetsplikt, når hensynet til barnets
-beste gjør det nødvendig. Slike opplysninger kan
-for eksempel være nødvendig dersom det har
-foregått vold i familien. Den kommunale barnevernstjenesten og krisesentre innhenter personopplysninger for andre formål enn de som fremgår av § 41 første ledd.
-Andre ledd regulerer utveksling av personopplysninger mellom organer som har behov for
-det for å utføre oppgaver i forbindelse med formålene nevnt i § 41 første ledd. Det gjøres unntak fra lovbestemt taushetsplikt. Utvekslingsadgangen gjelder når personopplysningene er innsamlet for formålene i første ledd, eller er innsamlet for formål som er forenlige med formålene i første ledd. Unntaket fra taushetsplikten
-gjelder ikke taushetsplikt etter helsepersonelloven. Personopplysninger skal utleveres i statistisk form, eller ved at individualiserende kjennetegn utelates på annen måte, dersom det er tilstrekkelig for formålet.
-Tredje ledd presiserer at også private som for
-eksempel har ansvar for opplæring i norsk og
-samfunnskunnskap i en kommune kan behandle
-personopplysninger for disse formålene. Private
-må utføre oppgaver for formålene nevnt i § 41 første ledd for stat, fylkeskommune eller kommune,
-for at de skal ha adgang til å utveksle personopplysninger med hjemmel i § 42.
-Fjerde ledd regulerer departementets mulighet
-til å gi forskrift om innhenting og utveksling av personopplysninger, herunder innhenting av personopplysninger fra helsepersonell og utlevering av
-personopplysninger til utlendingsmyndighetene.
-
-2019–2020
-
-Til § 43
-Bestemmelsen regulerer personregister og plikt
-til å registrere personopplysninger.
-Første ledd første punktum gir hjemmel for å
-opprette nasjonale personregistre for formålene
-nevnt i § 41 første ledd. I første ledd andre punktum
-presiseres det at utlevering av opplysninger kan
-skje gjennom direkte søketilgang i personregistre. Dette tillater at for eksempel kommuner har
-egen brukerinnlogging til registrene.
-Etter andre ledd har kommunen plikt til å
-registrere personopplysninger om personer i
-kommunen som omfattes av loven i personregister. Det samme gjelder fylkeskommunen. Plikten
-vil presiseres i forskrift.
-Tredje ledd gir departementet hjemmel til å gi
-forskrift om personregistre og om kommunens og
-fylkeskommunens plikt til å registrere personopplysninger.
-Til § 44
-Bestemmelsen regulerer pålegg om å utlevere
-personopplysninger.
-Organ som har oppgaver etter loven, kan
-pålegge Integrerings- og mangfoldsdirektoratet,
-Kompetanse Norge, Arbeids- og velferdsetaten,
-Utlendingsdirektoratet, Utlendingsnemnda, folkeregistermyndigheten, kommunene og fylkeskommunene å utlevere personopplysninger om asylsøkere og innvandrere, jf. første ledd. Adgangen gjelder når det er nødvendig for å utføre et offentlig
-organs oppgaver etter loven, og uten hinder av
-lovbestemt taushetsplikt.
-Andre ledd begrenser unntaket fra taushetsplikten, slik at taushetsplikt etter helsepersonelloven ikke omfattes.
-Etter tredje ledd kan departementet gi forskrift
-om adgangen til å pålegge utlevering av personopplysninger. Det kan for eksempel gis forskrift
-om hvilke personopplysninger som kan pålegges
-utlevert.
-Til § 45
-Bestemmelsen regulerer behandling av personopplysninger i Nasjonalt tolkeregister.
-Bestemmelsens første ledd viser til at det skal
-være et nasjonalt register over kvalifiserte tolker
-for å øke bruken av kvalifiserte tolker i offentlig
-sektor. Bestemmelsen hjemler et register som
-allerede finnes, og tydeliggjør at registeret forvaltes av Integrerings- og mangfoldsdirektoratet.
-
-[Side 189]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-I andre ledd første punktum gis det hjemmel for
-å innhente personopplysninger om tolker fra Folkeregisteret og utlendingsmyndighetenes registre uten hinder av lovbestemt taushetsplikt, når
-det er nødvendig for å oppnå formålet med registeret. I andre ledd andre punktum fremgår det at
-direktoratet kan behandle opplysninger om etnisk
-opprinnelse når det er nødvendig for å oppnå formålet med registeret. Opplysninger om etnisk
-opprinnelse er en særlig kategori av personopplysninger etter personvernforordningen. Språk
-kan i visse tilfeller avsløre etnisk opprinnelse, og
-det gis derfor særlig hjemmel for å behandle slike
-opplysninger. Det fremgår av andre ledd tredje
-punktum at opplysninger i registeret kan gjøres
-tilgjengelig for offentligheten. Dette gjelder kun
-opplysninger som ikke er underlagt taushetsplikt.
-Opplysninger om for eksempel fødsels- og personnummer vil ikke bli offentliggjort selv om disse
-opplysningene ikke er underlagt taushetsplikt.
-Tredje ledd gir departementet myndighet til å
-gi forskrift om formelle krav for oppføring i Nasjonalt tolkeregister, hvilke språklige og tolkefaglige
-ferdigheter som kreves, tolkers opplysningsplikt,
-krav til forvaltningen av registeret og hvilke opplysninger som kan registreres. Det fremgår også
-at departementet kan gi forskrift om advarsel og
-utestengelse fra Nasjonalt tolkeregister.
-Til § 46
-Bestemmelsen regulerer forholdet til forvaltningsloven.
-Det følger av første ledd at forvaltningsloven
-gjelder med de særregler som er fastsatt i integreringsloven. Dette innebærer blant annet at
-reglene i forvaltningsloven kapittel VI om klage
-og omgjøring kommer til anvendelse på enkeltvedtak etter integreringsloven.
-Andre ledd gir en oversikt over avgjørelsene
-etter loven som regnes som enkeltvedtak. Dette
-gjelder blant annet tildeling av introduksjonsprogram, introduksjonsstønad, opplæring i norsk og
-samfunnskunnskap, utarbeidelse og vesentlig
-endring av integrerings- og norskplan, fravær og
-permisjoner, forlengelse og refusjon i ytelser fra
-folketrygden, samt oppføring i og utestengelse fra
-Nasjonalt tolkeregister.
-I tredje ledd presiseres at personer som har
-rett til tjenester etter integreringsloven ikke regnes som parter i samme sak. Det kan ikke klages
-over at en annen har fått ytelsen.
-Fjerde ledd viderefører deler av utlendingsloven § 95, og presiserer at forvaltningsloven
-§§ 28 til 34 om klage ikke gjelder for vedtak om til-
-
-187
-
-deling av bosettingskommune. Dette innebærer at
-personer ikke kan klage på slike vedtak.
-Til § 47
-Bestemmelsen regulerer klage på enkeltvedtak
-etter integreringsloven.
-Det følger av første ledd første punktum at
-enkeltvedtak truffet etter integreringsloven kan
-påklages til fylkesmannen. Etter første ledd andre
-punktum er departementet klageinstans for
-enkeltvedtak om oppføring i og utestengelse fra
-Nasjonalt tolkeregister.
-Fylkesmannen kan prøve alle sider av vedtaket, jf. andre ledd. Ved prøving av det frie skjønn,
-kan fylkesmannen likevel bare endre vedtaket når
-skjønnet er åpenbart urimelig.
-Til § 48
-Bestemmelsen regulerer tilsyn.
-Det følger av første ledd første punktum at fylkesmannen kan føre tilsyn med kommunens oppfyllelse av pliktene etter lovens kapittel 3 til 6 og
-§§ 39, 40 og 43. Dette innebærer at det kan føres
-tilsyn med bestemmelsene om kommunens oppfyllelse av plikter ved tidlig kvalifisering, introduksjonsprogram, introduksjonsstønad, opplæring i
-norsk og samfunnskunnskap, samt bestemmelsene om kompetansekrav til lærere, forbud mot
-bruk av klesplagg som helt eller delvis dekker
-ansiktet og plikten til å registrere personopplysninger i personregister. Videre kan fylkesmannen
-etter første ledd andre punktum føre tilsyn med
-plikten til å ha internkontroll etter kommuneloven
-§ 25-1.
-I andre ledd fremgår det at kommuneloven
-kapittel 10 A gjelder for tilsyn etter første ledd.
-Til § 49
-Bestemmelsen regulerer oppmerksomhetsplikten og opplysningsplikten til barnevernet ved
-alvorlig omsorgssvikt, og alvorlige atferdsvansker
-for personell som arbeider innenfor loven.
-Første ledd regulerer personellets særskilte
-oppmerksomhetsplikt om forhold som kan føre til
-tiltak fra barneverntjenesten.
-Andre ledd regulerer personellets meldeplikt
-til den kommunale barneverntjenesten. Plikten
-omfatter alle som utfører tjeneste eller arbeid
-etter loven. De materielle vilkårene for meldeplikt
-er nærmere regulert i bokstav a til d. Det nærmere innholdet i plikten er omtalt i merknaden til
-barnevernloven § 6-4 første ledd.
-
-[Side 190]
-
-188
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-Tredje ledd lovfester opplysningsplikten ved
-pålegg fra barneverntjenesten eller andre barnevernmyndigheter. Det nærmere innholdet i plikten er omtalt i merknad til barnevernloven § 6-4.
-Til § 50
-Bestemmelsen regulerer ikrafttredelse. Loven
-trer i kraft fra den tid Kongen bestemmer. Integreringsloven erstatter introduksjonsloven, og introduksjonsloven oppheves derfor fra samme tidspunkt.
-Til § 51
-Bestemmelsen regulerer overgangsregler mellom
-introduksjonsloven og integreringsloven. Integreringsloven gjelder etter første punktum for de som
-får innvilget oppholdstillatelse etter lovens ikrafttredelse. De som har fått oppholdstillatelse i
-
-2019–2020
-
-Norge før integreringsloven trer i kraft omfattes
-av introduksjonsloven. Det kan være behov for å
-fastsette ytterligere overgangsregler og i noen tilfeller kan det også være grunn til å gjøre unntak
-fra overgangsregelen som er fastsatt i loven.
-Departementet kan derfor gi forskrift om overgangsreglene og det kan gjøres unntak fra regelen som følger av første punktum, jf. andre punktum.
-Til § 52
-Bestemmelsen endrer folketrygdloven, NAVloven, utlendingsloven og skatteforvaltningsloven. Utlendingsloven § 95 tredje ledd andre
-punktum endres fordi deler av innholdet er flyttet
-til integreringsloven § 46 fjerde ledd. De øvrige
-lovene endres slik at de henviser til integreringsloven istedenfor introduksjonsloven.
-
-[Side 191]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-189
-
-Kunnskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et fremlagt forslag til proposisjon til Stortinget om
-lov om integrering gjennom opplæring, utdanning
-og arbeid (integreringsloven).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om integrering gjennom opplæring, utdanning og arbeid
-(integreringsloven) i samsvar med et vedlagt forslag.
-
-[Side 192]
-
-190
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-2019–2020
-
-Forslag
-til lov om integrering gjennom opplæring, utdanning og arbeid
-(integreringsloven)
-Kapittel 1 Alminnelige bestemmelser
-§ 1 Lovens formål
-Formålet med loven er at innvandrere tidlig
-integreres i det norske samfunnet og blir økonomisk selvstendige. Loven skal bidra til at innvandrere får gode norskkunnskaper, kunnskap om
-norsk samfunnsliv, formelle kvalifikasjoner og en
-varig tilknytning til arbeidslivet.
-Loven skal videre legge til rette for at asylsøkere tidlig får kjennskap til norsk språk og samfunnsliv.
-§ 2 Definisjoner
-I denne loven menes med:
-a) asylsøker: en person som søker beskyttelse
-etter utlendingsloven § 28
-b) innvandrer: en person med oppholdstillatelse i
-Norge etter utlendingsloven
-Kapittel 2 Kommunens og fylkeskommunens
-ansvar etter loven
-§ 3 Kommunens ansvar
-Kommunen er ansvarlig for tidlig kvalifisering
-etter kapittel 3, introduksjonsprogram etter kapittel 4 og opplæring i norsk og samfunnskunnskap
-etter kapittel 6.
-Opplæring og tjenester som kommunen yter
-etter denne loven, skal være forsvarlige.
-Kommunens plikter gjelder ikke overfor personer som har avbrutt eller avvist deltagelse i opplæring i mottak, introduksjonsprogram eller opplæring i norsk og samfunnskunnskap.
-Kommunen kan gi andre i oppdrag å utføre
-kommunens oppgaver etter loven.
-§ 4 Fylkeskommunens ansvar
-Fylkeskommunen er ansvarlig for det regionale integreringsarbeidet. Fylkeskommunen skal
-utarbeide planer for kvalifisering av innvandrere.
-Fylkeskommunen skal anbefale hvor mange
-flyktninger som bør bosettes i den enkelte kommune i fylket.
-Fylkeskommunen skal sørge for tilbud om
-karriereveiledning etter § 11 og opplæring i norsk
-
-og samfunnskunnskap for deltagere som går fulltid i videregående opplæring etter § 30.
-Departementet kan gi forskrift om fylkeskommunens ansvar for det regionale integreringsarbeidet.
-Kapittel 3 Tidlig kvalifisering
-§ 5 Plikt til å delta i opplæring i mottak
-Asylsøkere som bor i mottak og som er over
-18 år, har plikt til å delta i opplæring i norsk og
-samfunnskunnskap. Plikten gjelder ikke dersom
-asylsøkeren
-a) får sin søknad behandlet etter hurtigprosedyrer i Utlendingsdirektoratet
-b) nektes å få asylsøknaden realitetsbehandlet
-etter utlendingsloven § 32
-c) bor på ankomstsenter eller i transittmottak
-d) har fått avslag på søknad om beskyttelse av
-Utlendingsdirektoratet
-Kommunen skal sørge for opplæringen så
-snart som mulig etter at asylsøkere som omfattes
-av plikten etter første ledd, er registrert i et mottak i kommunen.
-Departementet kan gi forskrift om omfanget
-av og innholdet i opplæringen.
-§ 6 Kompetansekartlegging før bosetting i en
-kommune
-Vertskommuner for mottak skal kartlegge
-kompetansen til personer som bor i mottak, og
-som har fått en oppholdstillatelse som nevnt i § 9.
-Integrerings- og mangfoldsdirektoratet skal
-kartlegge kompetansen til overføringsflyktninger
-før innreise til Norge. Med overføringsflyktning
-menes en person som har fått flyktningstatus, jf.
-utlendingsloven § 28 første ledd, før innreise til
-Norge, eller som har fått en innreisetillatelse i
-påvente av behandling av sin søknad om flyktningstatus.
-Kartleggingen skal bidra til bosetting i en
-kommune med relevant tilbud om arbeid eller
-utdanning og til at introduksjonsprogrammet blir
-tilpasset den enkeltes behov. Den enkelte har rett
-og plikt til å gjennomføre kartleggingen.
-Kravene til kartleggingen i § 10 andre ledd og
-forskrift etter § 10 fjerde ledd gjelder tilsvarende.
-
-[Side 193]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-§ 7 Andre integreringsfremmende tiltak før bosetting
-i en kommune
-Vertskommuner for mottak kan tilby standardiserte elementer fra introduksjonsprogrammet,
-jf. § 14 første og andre ledd, og andre integreringsfremmende tiltak til personer som bor i mottak og som har fått en oppholdstillatelse som
-nevnt i § 9.
-Kapittel 4 Introduksjonsprogrammet
-§ 8 Målgruppe for introduksjonsprogrammet
-Innvandrere mellom 18 og 55 år som har fått
-innvilget en oppholdstillatelse som nevnt i § 9, og
-som er bosatt i kommunen etter avtale med integreringsmyndighetene, har rett og plikt til å delta
-i introduksjonsprogram. Alderen da oppholdstillatelsen ble innvilget er avgjørende for om personen
-omfattes av første punktum. Personen må ha bodd
-i en kommune med en oppholdstillatelse nevnt i
-§ 9 i mindre enn to år når vedtak etter § 12 treffes.
-Kravet om å være bosatt etter avtale gjelder
-ikke personer som har fått oppholdstillatelse som
-nevnt i § 9 første ledd bokstav f og g.
-Kommunen kan tilby introduksjonsprogram til
-innvandrere med oppholdstillatelse etter utlendingsloven kapittel 6 som er familiemedlemmer
-til andre enn personer nevnt i § 9 første ledd bokstav f, til innvandrere over 55 år med oppholdsgrunnlag som nevnt i § 9 og til innvandrere som
-nevnt i første ledd som er bosatt uten avtale med
-kommunen. Den som tilbys program må ha bodd i
-en kommune i mindre enn to år når vedtak etter
-§ 12 treffes.
-Nordiske borgere og utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområde (EØS-avtalen), omfattes ikke av
-denne bestemmelsen.
-§ 9 Oppholdstillatelser som gir rett og plikt til deltagelse i introduksjonsprogrammet
-Følgende oppholdstillatelser gir rett og plikt til
-å delta i introduksjonsprogram:
-a) oppholdstillatelse som flyktning etter utlendingsloven § 28
-b) oppholdstillatelse etter innreisetillatelse som
-overføringsflyktning etter utlendingsloven
-§ 35 tredje ledd
-c) fornybar oppholdstillatelse etter utlendingsloven § 38 første ledd på grunnlag av søknad om
-beskyttelse
-d) begrenset oppholdstillatelse som medlem av
-barnefamilie etter utlendingsloven § 38 femte
-ledd bokstav a eller b
-
-191
-
-e) oppholdstillatelse på grunnlag av kollektiv
-beskyttelse i en massefluktsituasjon etter
-utlendingsloven § 34
-f) oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer som
-nevnt i bokstav a til e, forutsatt at referansepersonen har vært bosatt i en kommune i mindre enn fem år før det søkes om familiegjenforening
-g) fornybar oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b, andre ledd eller
-tredje ledd
-Personer som har påbegynt et introduksjonsprogram har rett til å fullføre sitt program uavhengig av om oppholdstillatelsen endres eller om de
-får innvilget statsborgerskap.
-§ 10 Kompetansekartlegging etter bosetting i en kommune
-Personer som omfattes av § 8 første ledd, har
-rett og plikt til å gjennomføre kompetansekartlegging etter bosetting i en kommune, med mindre
-personen har gjennomført kompetansekartlegging etter § 6.
-Kompetansekartleggingen skal bidra til at
-introduksjonsprogrammet blir tilpasset den enkeltes behov. Kartleggingen skal minst omfatte
-hvilke språkkunnskaper og hvilken utdanning,
-arbeidserfaring og annen relevant kompetanse
-personen har.
-Kommunen skal sørge for kompetansekartleggingen.
-Departementet kan gi forskrift om hvilke opplysninger som kan kartlegges.
-§ 11 Karriereveiledning
-Personer som omfattes av § 8 første ledd, har
-rett og plikt til å gjennomføre karriereveiledning.
-Karriereveiledningen skal bygge på kompetansekartleggingen etter §§ 6 eller 10, og bør gjennomføres før det fattes vedtak etter § 12.
-Karriereveiledningen skal bidra til at den
-enkelte kan ta informerte valg om arbeid og
-utdanning og til at introduksjonsprogrammet blir
-tilpasset den enkeltes behov.
-Fylkeskommunen skal sørge for karriereveiledningen.
-Når karriereveiledningen er gjennomført bør
-det gis en anbefaling om arbeid eller utdanning
-for den enkelte deltager innenfor rammen av
-§§ 13 og 14.
-§ 12 Ansvar for introduksjonsprogrammet
-Kommunen skal sørge for introduksjonsprogram etter dette kapittelet.
-
-[Side 194]
-
-192
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-Kommunen skal treffe vedtak om og sørge for
-oppstart av introduksjonsprogram til innvandrere
-som omfattes av § 8 første ledd så snart som mulig
-og senest innen tre måneder etter bosetting eller
-krav om program fremsettes.
-Kommunen skal utstede deltagerbevis ved
-gjennomført eller avbrutt program.
-§ 13 Sluttmål og varighet av introduksjonsprogrammet
-Kommunen skal sette et sluttmål for den
-enkeltes deltagelse i introduksjonsprogrammet.
-Sluttmålet for deltagere som minimum har
-utdanning på videregående nivå fra før, skal være
-at deltageren skal kvalifisere til høyere utdanning
-eller arbeid. Programmet skal vare mellom tre og
-seks måneder og kan forlenges med inntil seks
-måneder.
-Sluttmålet for deltagere under 25 år som ikke
-har minimum utdanning på videregående nivå fra
-før, skal som hovedregel være fullført videregående opplæring. Programmet skal vare mellom
-tre måneder og tre år og kan forlenges med inntil
-ett år. Har deltageren andre sluttmål enn fullført
-videregående opplæring, skal programmet vare
-mellom tre måneder og to år og kan forlenges
-med inntil ett år.
-Sluttmålet for øvrige deltagere skal være at
-den enkelte kommer i arbeid eller fullfører deler
-av eller hele grunnskolen eller videregående opplæring. Programmet skal vare mellom tre måneder og to år og kan forlenges med inntil ett år. Har
-deltageren sluttmål om fullført videregående opplæring, skal programmet vare mellom tre måneder og tre år og kan forlenges med inntil ett år.
-Introduksjonsprogrammet kan bare forlenges
-hvis det er grunn til å forvente at deltageren vil
-oppnå sitt sluttmål med en forlengelse.
-Programmet avsluttes ved oppnådd sluttmål
-eller varighet. Godkjent permisjon legges til programmets varighet. Kommunen bør i samarbeid
-med andre aktører legge til rette for at deltagere
-som ikke oppnår sitt sluttmål innenfor programtiden unngår avbrudd i kvalifiseringen.
-§ 14 Innholdet i og omfanget av introduksjonsprogrammet
-Introduksjonsprogrammet skal minst inneholde:
-a) opplæring i norsk
-b) opplæring i samfunnskunnskap
-c) kurs i livsmestring
-d) arbeids- eller utdanningsrettede elementer
-
-2019–2020
-
-Deltagere som har barn under 18 år skal delta
-på kurs i foreldreveiledning. Det samme gjelder
-deltagere som får barn i løpet av programmet.
-Innholdet for øvrig skal tilpasses den enkeltes
-behov og det fastsatte sluttmålet etter § 13.
-Introduksjonsprogrammet skal være helårlig
-og på fulltid.
-Departementet kan gi forskrift om minstekrav
-for kurs i livsmestring og foreldreveiledning.
-§ 15 Integreringsplan
-Kommunen skal, samtidig som det treffes vedtak etter § 12, utarbeide en integreringsplan.
-Planen skal utarbeides sammen med deltageren og utformes på bakgrunn av gjennomført
-kompetansekartlegging, karriereveiledning og en
-vurdering av hvilke elementer deltageren kan nyttiggjøre seg. Planen skal bygge videre på elementer deltageren har gjennomført før bosetting i
-kommunen.
-Integreringsplanen skal minst inneholde deltagerens sluttmål og norskmål etter §§ 13 og 31,
-angivelse av omfanget av opplæringen i norsk og
-samfunnskunnskap, programmets varighet etter
-§ 13, elementene i programmet og klagemuligheter.
-Det skal begrunnes i planen hvilke arbeidseller utdanningsrettede elementer som er valgt,
-og hvordan disse vil styrke den enkeltes mulighet
-for deltagelse i yrkeslivet.
-Kommunen avgjør innholdet i integreringsplanen dersom det er uenighet mellom kommunen
-og den enkelte.
-Planen skal vurderes jevnlig og ved vesentlig
-endring i deltagerens livssituasjon.
-Deltagere i introduksjonsprogram skal ha én
-samlet integreringsplan for deltagelse i introduksjonsprogram og opplæring i norsk og samfunnskunnskap.
-§ 16 Integreringskontrakt
-Kommunen og deltageren skal inngå en integreringskontrakt samtidig som det utarbeides en
-integreringsplan etter § 15. Kontrakten skal angi
-kommunens og deltagerens gjensidige forpliktelser og deltagerens langsiktige mål.
-Kommunen skal i kontrakten forplikte seg til å
-tilby introduksjonsprogram og opplæring i norsk
-og samfunnskunnskap etter kapittel 4 og 6, slik at
-deltageren kan oppfylle sitt sluttmål og sitt norskmål etter §§ 13 og 31.
-Deltageren skal i kontrakten forplikte seg til å
-følge opp målene og elementene som er fastsatt i
-integreringsplanen, jf. § 15.
+# Økonomiske og administrative konsekvenser
+
+## Innledning
+
+Med dette lovforslaget vil store deler av dagens introduksjonslov videreføres. Samtidig innebærer lovforslaget flere små og store endringer for kommuner, fylkeskommuner og staten. Formålet med endringene er å bidra til at flere innvandrere får en varig tilknytning til arbeidslivet.
+
+Hoveddelen av integreringsarbeidet skjer i kommunene. Forslaget til ny integreringslov er en sentral del av arbeidet med å reformere introduksjonsprogrammet og opplæringen i norsk og samfunnskunnskap. Den enkelte kommune vil blant annet få tilgang til standardiserte elementer og en digital ressurs, og Integrerings- og mangfoldsdirektoratet (IMDi) og Kompetanse Norge vil veilede kommunen og fylkeskommunen med dette. For å lykkes med reformen er det imidlertid også nødvendig med økt bruk av digitale løsninger og endringer i måten kommunen og fylkeskommunen løser sine oppgaver på.
+
+Enkelte av tiltakene som foreslås fører isolert sett til moderate merutgifter for kommunene, mens andre fører til moderate innsparinger. Departementet mener at de økonomiske og administrative konsekvenser av forslagene samlet sett kan gjennomføres innenfor gjeldende rammer. Forslagene vil gi kommunene tydeligere rammer og bedre verktøy til å gjennomføre integreringsarbeidet, for eksempel gjennom innføring av standardiserte elementer i introduksjonsprogrammet. Det skal bli lettere for kommunene å oppnå gode resultater. At flere personer er i arbeid er lønnsomt for kommunene, både i form av at personene er (mer) økonomisk selvhjulpne, og fordi de bidrar med skatteinntekter.
+
+Mange av høringsinstansene mener at kommunene, og i noen grad fylkeskommunene, må kompenseres særskilt for merutgifter som følge av lovforslaget. Enkelte av høringsinstansene påpeker også at forventningen om at loven skal bidra til at innvandrere får formelle kvalifikasjoner og varig tilknytning til arbeidslivet, vil få økonomiske konsekvenser for kommunene. Nordfjordkommunene frykter større økonomiske konsekvenser, særlig for små og mellomstore kommuner med få flyktninger.
+
+Bosatte flyktninger inngår i grunnlaget for rammetilskuddene til kommunene og fylkeskommunene på linje med øvrige innbyggere. I tillegg er merutgiftene knyttet til bosetting og integrering finansiert særskilt i form av tilskudd fra staten per person i målgruppen for tilskuddene. Tilskuddene skal bidra til at kommunene gjennomfører et planmessig bosettings- og integreringsarbeid. Kommunene står fritt til å disponere de fleste tilskuddsmidlene innenfor rammen av gjeldende lovverk, og de beholder eventuelle overskudd av midlene. At kommunene beholder eventuelle overskudd av tilskuddene, gir et insentiv til å få flyktninger raskt over i arbeid eller utdanning.
+
+Beregningsutvalget kartlegger hvert år kommunenes utgifter til bosetting og integrering av flyktninger og personer med opphold på humanitært grunnlag. Utvalgets siste kartlegging viser en samlet gjennomsnittsutgift per person over femårsperioden for integreringstilskudd på 766 200 kroner for 2018. De største utgiftsområdene er utgifter til introduksjonsstønad, økonomisk sosialhjelp, integreringstiltak, utgifter til barne- og ungdomsvern, sosialrådgivning- og veiledning, introduksjonsprogram, bolig og- boligadministrasjon og helseutgifter. Når det gjelder utgifter for tilrettelegging og gjennomføring av introduksjonsprogrammet per person i målgruppen i programmet, viser kartleggingen en gjennomsnittsutgift på om lag 92 000 kroner per person i 2018 over femårsperioden for integreringstilskudd. Utgifter per person varierte fra 19 000 kroner til 162 500 kroner blant utvalgskommunene.
+
+I beregningsutvalgets kartlegging sees utgiftene opp mot integreringstilskuddet, særskilt tilskudd ved bosetting av enslige mindreårige flyktninger og tilskudd til opplæring i norsk og samfunnskunnskap, og gir en gjennomsnittlig dekningsgrad for kommunene som deltar i kartleggingen. En dekningsgrad på 100 prosent betyr at tilskuddene dekker kommunens utgifter, mens en dekningsgrad over eller under 100 prosent betyr at kommunen har henholdsvis et overskudd eller et underskudd. Det innebærer at enkelte kommuner har høyere utgifter enn tilskuddene, mens andre kommuner vil ha lavere utgifter enn det tilskuddene dekker. Dekningsgradene har variert gjennom årene. Integreringstilskuddets dekningsgrad har eksempelvis økt fra 90 prosent i 2014 til 99,6 i 2018. Dekningsgraden for tilskudd til opplæring i norsk og samfunnskunnskap er særlig følsom for antall personer i målgruppen i kommunene. Dersom man ser på kommuner som har 12 og 14 personer i målgruppen, er dekningsgraden 87 og 101 prosent i 2018. I 2017 ble refusjonsordning for kommunale barnevernsutgifter for enslige mindreårige avviklet. Midlene ble overført til særskilt tilskudd ved bosetting av enslige mindreårige. Det er ikke hensiktsmessig å vurdere dekningsgraden for tilskuddet før omleggingen. Dekningsgraden for tilskudd til opplæring i norsk og samfunnskunnskap var på om lag 113 prosent i både 2017 og 2018.
+
+Tilskuddenes dekningsgrader har med andre ord vært relativt høye de siste årene. Kommunene har dermed hatt gode økonomiske forhold for integreringsarbeidet. Departementet mener at dersom noen kommuner får noe høyere utgifter i en periode som følge av nye krav i loven, vil kommunene likevel kunne finansiere dette innenfor dagens økonomiske rammer. En dekningsgrad som ligger noen prosentpoeng lavere enn dagens, vil fortsatt være en god dekningsgrad, både i faktisk dekningsgrad og relativt til tidligere år. Departementet presiserer at dersom kommunene skulle få høyere utgifter, så legges det til grunn at det bare vil være midlertidig, til kommunene har gjort de nødvendige investeringene for å sikre tilstrekkelig kvalitet i tilbudet, og til man ser resultatene av endringene. Beregningsutvalgets kartlegging vil, som tidligere, fange opp eventuelle fremtidige endringer i kommunenes utgifter som følge av endringer i sammensetning av målgruppen for tilskudd. Departementet vil følge tilskuddenes dekningsgrad gjennom Beregningsutvalgets årlige kartlegginger.
+
+Under følger omtale av forslag i proposisjonen som ventes å ha økonomiske og administrative konsekvenser.
+
+## Kommunens og fylkeskommunens ansvar
+
+Flere integreringsoppgaver er overført fra Integrerings- og mangfoldsdirektoratets (IMDi) regionskontorer til fylkeskommunene, jf. Meld. St. 6 (2018–2019). Dette gjaldt blant annet oppgaver relatert til bosetting og oppfølging av kommunene i arbeidet med kvalifisering av nyankomne innvandrere. Videre ble det overført midler til fylkeskommunene for tre tilskuddsordninger, henholdsvis Jobbsjansen del B, tilskudd til etablereropplæring for innvandrere og tilskudd til mentor- og traineeordninger. Fylkeskommunene har fått overført stillingsmidler som følge av oppgaveoverføringen fra IMDi til fylkeskommunene.
+
+Fylkeskommunene har også ansvar for å utarbeide regionale kompetanseplaner for kvalifisering av innvandrere.
+
+For omtale av fylkeskommunens ansvar for karriereveiledning, videregående opplæring og opplæring i norsk og samfunnskunnskap, se punkt 13.4 og 13.6.
+
+## Tidlig kvalifisering
+
+Departementet foreslår i kapittel 7.2.4 å lovfeste kartlegging av kompetanse før bosetting i en kommune. Departementet foreslår at ansvaret overføres til vertskommunene for asylmottak. Lovforslaget vil medføre økte utgifter til vertskommunene for asylmottak. Departementet legger til grunn vertskommunene i snitt vil bruke 70 minutter per person på kartleggingen. Anslaget er beregnet ut fra gjennomsnittlig tidsbruk for de seks mottakene som var med i forsøket med utprøving av kompetansekartlegging i mottak. Utgiftene for vertskommuner for asylmottak finansieres gjennom et øremerket tilskudd. Kunnskapsdepartementet (KD) vil sammen med Justis- og beredskapsdepartementet vurdere størrelsen på overføring av midler til vertskommunetilskuddet for arbeidet. Økning i tilskudd til vertskommunene vil finansieres innenfor KD sitt budsjett.
+
+Videre foreslår departementet at asylsøkere som er 16 og 17 år ikke skal inngå i målgruppen for plikt til å delta i opplæring i mottak. Kommunene vil dermed ikke få utgifter til opplæring i mottak for denne gruppen, og de vil heller ikke motta tilskudd til opplæring i mottak for denne gruppen.
+
+## Introduksjonsprogrammet
+
+Departementet foreslår i kapittel 8.5.4 bestemmelser om differensiert programtid. Endret programlengde får innvirkning på antall måneder/år kommunen vil ha utgifter til program og introduksjonsstønad for den enkelte deltager.
+
+### Sluttmål og varighet av introduksjonsprogrammet
+
+Noen av høringsinstansene har påpekt at gruppefordelingen vil endres ut fra hvilke flyktninggrupper som kommer. Det er flere forhold som påvirker fordelingen, blant annet deltagernes landbakgrunn, alder og utdanningsnivå. Departementets beregninger tar primært utgangspunkt i utdanningsbakgrunn og alder. Departementet er enig i at det hefter noe usikkerhet ved beregningene og at gruppesammensetningen vil variere over tid.
+
+På bakgrunn av tall fra IMDi og SSB la departementet i høringsnotatet til grunn at omtrent 20 prosent av deltagerne i introduksjonsprogrammet skulle ha program på inntil seks måneder. 30 prosent skulle ha sluttmål om gjennomført videregående opplæring og programtid på inntil tre år, med mulighet til et års forlengelse hvis det er realistisk at sluttmålet kan nås. De resterende skulle ha inntil to års program, med mulighet til et års forlengelse hvis det er realistisk at sluttmålet kan nås. Departementet har foretatt enkelte justeringer i forslaget om differensiert programtid som har betydning for disse anslagene.
+
+Departementet har presisert hva som menes med *minimum utdanning på videregående nivå fra tidligere*, se punkt 8.5.4.3. Dette innebærer at gruppen som har rett og plikt til kort programtid blir tydeligere avgrenset, og at det kun er personer med utdanning som kan gi generell studiekompetanse i Norge som vil inngå i gruppen. Avgrensningen antas ikke å føre til økte kostander for kommunen. Tall fra SSB over utdanningsnivået per 1.10.2018 viser at blant flyktningene som kom i 2017 og 2018 hadde 20 prosent utdanning på universitets- og høgskolenivå. Departementet legger derfor fortsatt til grunn at omtrent 20 prosent av deltagerne skal ha kort programtid.
+
+Departementet har også sett nærmere på anslaget om at 30 prosent skal ha sluttmål om gjennomført videregående opplæring og programtid på inntil tre år, med mulighet til et års forlengelse. Enkelte høringsinstanser har påpekt at det kan ta noe tid før de unge mellom 18 og 25 år, som primært skal ha gjennomført videregående opplæring som sluttmål, kan starte i videregående opplæring. Ventetiden kan både skyldes manglende rett til videregående opplæring, og søknadsfristen for opptak. Ved manglende rett til videregående opplæring på grunn av at grunnskolen ikke er fullført kan vedkommende starte i grunnskole for voksne, der mange kommuner har jevnlig oppstart gjennom året. Tilsvarende utfordringer er gjeldende for de over 25 år som skal ta videregående opplæring. Disse utfordringene vil i en viss utstrekning gjøre at det for en del av deltagerne ikke vil være realistisk å fullføre videregående opplæring innenfor rammene av introduksjonsprogrammet. Departementet legger derfor til grunn at en noe mindre andel enn det som ble anslått i høringsnotat (30 prosent), anslagsvis 20 prosent, vil ha gjennomført videregående opplæring som sitt sluttmål, dvs. programtid på inntil tre år med mulighet til et års forlengelse. For de øvrige deltagere, omtrent 60 prosent, kan programmet vare i inntil to år, og kan utvides med inntil ett år hvis det er realistisk at deltageren kan nå sitt sluttmål med en forlengelse.
+
+Anslagene over de forskjellige gruppene er usikre, og fordelingen vil endres ut fra hvilke flyktninggrupper som ankommer. Departementet presiserer at det ikke er slik at alle som har fullført videregående opplæring som sitt sluttmål skal ha fire år med introduksjonsstønad. Noen av disse vil ha påbegynt videregående skole fra før, og vil trenge kortere tid til å gjennomføre opplæringen. Videre vil de som går i fagopplæring få utbetalt lærlinglønn de to siste årene av opplæringen. Introduksjonsstønaden skal avkortes mot lærlinglønnen.
+
+Departementet viser videre til endringene i forskrift om arbeidsmarkedstiltak som åpner for at flere kan tilbys yrkesopplæring dersom de har mål om å oppnå enten fagbrev, praksisbrev, eller kompetansebevis gjennom lærekandidatordningen, se punkt 3.4. Endringene i forskriften åpner også opp for muligheten til at kommunen og Arbeids- og velferdsetaten kan samarbeide om lengre løp for deltagere i introduksjonsprogrammet.
+
+Departementet fastholder at de samlede økonomiske og administrative konsekvensene ved forslaget til sluttmål og differensiert programtid for kommunene kan gjennomføres innenfor gjeldende rammer.
+
+### Innhold i og omfang av introduksjonsprogrammet
+
+Det er et mål at introduksjonsprogrammet skal gi mer formelle kvalifikasjoner for deltagere som har behov for det, og lovforslaget legger til rette for at flere skal få muligheten til å ta videregående opplæring på fulltid som del av sitt introduksjonsprogram. Forslaget innebærer at kommunene ikke lenger skal tilby hoveddelen av innholdet i introduksjonsprogrammet for deltagerne som har videregående opplæring på fulltid, men kun ha ansvar for en mindre del av innholdet i programmet, blant annet de obligatoriske elementene. Forslaget innebærer at kommunene vil få reduserte utgifter til innhold i introduksjonsprogram for denne gruppen. Gruppen vil fortsatt ha rett til introduksjonsstønad.
+
+For at flere voksne innvandrere skal få formell kompetanse, må de få tilrettelagt opplæring. Voksne innvandrere trenger annen tilrettelegging av fag- og yrkesopplæring enn andre voksne. Tilbudet bør være på fulltid og med tilrettelegging av ekstra/forsterket språk- og læringsstøtte, og kostnadene ved dette vil være høyere enn for annen videregående opplæring for voksen etter opplæringslova § 4A-3. Det er derfor opprettet en tilskuddsordning som skal stimulere fylkeskommuner til å etablere, videreutvikle og gjennomføre tilbud om tilrettelagt fag- og yrkesopplæring for voksne innvandrere.
+
+Utgiftene til en videregående opplæringen tilfaller fylkeskommunene. Departementet legger til grunn at fylkeskommunen gjennomfører endringen innenfor gjeldende rammer.
+
+Relevant for forslaget er også at det fra 2020 ble overført 95 millioner kroner i fylkeskommunens ramme til forsterket grunnskoleopplæring (tidligere Jobbsjansen del B).
+
+Det er flere høringsinstanser som mener at kurs i livsmestring og foreldreveiledning vil føre til merkostnader for kommunene, og som må bli kompensert. Det er allerede mange kommuner som tilbyr denne type kurs i dag. Ifølge rapporten Foreldreveiledning til deltakere i introduksjonsprogrammet (2020) utarbeidet av Rambøll på oppdrag av IMDi, tilbyr nesten 60 prosent av kommunene foreldreveiledning i introduksjonsprogrammene. Departementet har også gitt i oppdrag til IMDi om å samarbeide med Barne-, ungdoms og familiedirektoratet om å arrangere ICDP-veiledningskurs for ansatte i kommunene. ICDP er et av flere relevante foreldreveiledningskurs, se punkt 8.6.4.1 for mer om innholdet i foreldreveiledningen. Departementet vil også sørge for at det utarbeides informasjonsmateriell og øvrig nødvendig informasjon til kommunene om elementet som omhandler livsmestring.
+
+Det er godt dokumentert at etablering av heldagstilbud, individuell tilpasning av program og tilstrekkelig tilgang på gode og relevante tiltak er en utfordring for kommunene. Særlig gjelder dette deltagere med liten eller ingen utdanning. De standardiserte elementene skal bidra til å gjøre det enklere for kommunene å tilby differensierte introduksjonsprogram på fulltid av god kvalitet, og de skal være tilpasset deltagere med ulik kompetanse, og ønsker og muligheter i arbeidsmarkedet. Det vil bli utviklet en digital ressurs med lett tilgjengelige kvalitetsstandarder, faglige anbefalinger og verktøy som skal gjøre det enklere for kommunene å få på plass relevante tiltak. Utover at kommunene må ivareta kravene etter § 14 til innholdet i programmet, er det ikke pliktig for kommunene å ta i bruk de standardiserte elementene.
+
+Kommunene får ansvar for gjennomføring av elementene og dekker det innenfor den samlede inntektsrammen. For deltagere som har videregående opplæring på hel- eller deltid i sitt program vil kommunen få et mindre ansvar for innholdet i programmet. Forslaget innebærer at kommunene vil få reduserte utgifter til innhold i introduksjonsprogram for denne gruppen.
+
+### Øvrige forslag
+
+Departementet foreslår å regulere karriereveiledning for personer i målgruppen for introduksjonsprogram. Det er tilført 5,2 millioner kroner til dette arbeidet i fylkeskommunenes ramme, jf. Kunnskapsdepartementets og Kommunal- og moderniseringsdepartementets Prop. 1 S (2019–2020). Kunnskapsdepartementet vil fremme forslag for Stortinget om å innlemme helårseffekt av disse midlene fra loven trer i kraft. Det er lagt til grunn at deltagerne får tilbud om en og en halv time individuell veiledning, og en og en halv time gruppeveiledning.
+
+Departementet foreslår at kommunen skal utarbeide en integreringsplan og en integreringskonktrakt mellom deltageren og kommunen. Integreringsplanen vil i stor grad være en videreføring av dagens individuelle plan. Departementet anslår at kommunen vil bruke marginalt mer tid på arbeidet som følge av forslaget, enn de gjør i dag.
+
+Departementet foreslår at det ikke skal være mulig å vokse seg inn og ut av målgruppen for introduksjonsprogram, se punkt 8.1.4.2. I henhold til departementets beregninger vil det etter forslaget samlet sett være noe færre deltagere i introduksjonsprogrammet. Kommunene får integreringstilskudd per bosatte flyktning uavhengig av om personene er i målgruppen for introduksjonsprogram. Kommunene vil derfor, når man kun ser på inntekter fra integreringstilskuddet, tjene noe på en slik endring.
+
+Departementet foreslår at vilkåret om at innvandreren må ha et behov for grunnleggende kvalifisering ikke videreføres. Departementet legger til grunn at endringen vil gi marginalt utslag i hvor mange som omfattes av målgruppen. Personer som ikke vil ha behov for, eller har et svært lite behov for, grunnleggende kvalifisering vil gjerne være personer med medbrakt kompetanse. Uansett er minstetiden i programmet kun tre måneder for alle grupper. For personer som for eksempel er i arbeid, så kan dette vær en del av programmet, i tillegg til de obligatoriske elementene. Departementet legger til grunn at de samlede økonomiske og administrative konsekvensene ved forslagene kan gjennomføres innenfor gjeldende rammer.
+
+## Introduksjonsstønad
+
+Departementet foreslår i kapittel 9.4 å redusere introduksjonsstønaden for personer under 25 år som bor med foreldrene sine. Forslaget innebærer at kommunene får lavere utgifter til introduksjonsstønad for denne gruppen. Departementet påpeker imidlertid at deltagere under 25 år som bor hjemme har rett til individuell behandling etter sosialtjenesteloven, og kan søke om å få supplerende økonomisk sosialhjelp for livsoppholdsutgifter de ikke kan dekke på annen måte.
+
+For deltagere som går i fagopplæring som en del av introduksjonsprogrammet skal introduksjonsstønaden de to siste årene av opplæringen avkortes mot lærlinglønnen.
+
+Stønaden skal reduseres krone for krone hvis det er til gunst for deltageren, se punkt 9.4. Dette vil sikre at deltagere som mottar lønn som ligger under stønaden per time, vil få stønaden redusert krone for krone, og ikke time for time. Regelen om at stønaden reduseres tilsvarende den tid arbeidet tar kan gi et dissinsentiv til å jobbe hvis lønnen er lavere enn stønaden. Dette vil for eksempel være aktuelt for deltagere som har fagopplæring som del av sitt program og mottar lærlinglønn. Lærlinglønn kan i noen tilfeller være lavere enn stønaden per time. Endringen skal bidra til at flere skal få formelle kvalifikasjoner i introduksjonsprogrammet, herunder fagbrev.
+
+## Opplæring i norsk og samfunnskunnskap
+
+Departementet foreslår i kapittel 10.3.4 at dagens krav om at det skal gjennomføres et visst antall timer, erstattes med krav om at deltageren skal oppnå et minimumsnivå i norsk. I dag er gjennomsnittlig antall timer i norskopplæring, for alle deltagere, om lag 1 100 timer. Det betyr at kommunene i dag bruker i gjennomsnitt mer enn minimumsgrensen på 600 timer. Departementet er kjent med at det er stor kommunal variasjon i omfanget av gjennomførte timer norskopplæring. Departementet er også kjent med at det er stor variasjon i kvalitet og intensitet i opplæringen.
+
+Et stort flertall av høringsinstansene er positive til å erstatte timer med et norskmål, men flere reiser spørsmål om den foreslåtte ordningen er mer ressurskrevende enn dagens og gir uttrykk for at oppgaven allerede er underfinansiert. Som nevnt i 10.3.4 forutsetter departementet at forslaget om å gå bort fra dagens krav om opplæring i et visst antall timer skal bidra til innovasjon og endringer i hvordan opplæringen tilbys i kommunen. Individuelt tilpasset opplæring, innføring av kompetansekrav for lærere, standardiserte elementer og økt bruk av digitale løsninger i opplæringen vil bidra til å heve kvaliteten i norskopplæringen.
+
+Departementet legger på denne bakgrunn til grunn at kommunene vil kunne oppnå den enkeltes mål på færre timer enn i dag for noen deltagere. Det er dermed også mulig å finansiere de som trenger flere timer innenfor samme ramme som i dag.
+
+Departementet foreslår videre at fylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer i målgruppen som går fulltid i videregående opplæring etter opplæringsloven, både for de unge under 25 år og for voksne. I overkant av halvparten av høringsinstansene som uttaler seg om forslaget støtter det og mener det er positivt at fylkeskommunen i større grad får ansvar for norskopplæring for ungdom. Samtidig er det også noen høringsinstanser som mener at splitting av opplæring på to aktører vil gi begge aktørene utfordringer med å differensiere opplæringen optimalt og at finansieringen ikke vil strekke til for noen av dem. Departementet erkjenner at endringene som er foreslått kan skape enkelte utfordringer i en overgangsperiode. Som omtalt under punkt 10.1.4.1 og 10.2.4 er elevgrunnlaget for opplæring i norsk og samfunnskunnskap uansett ikke konstant, ettersom det varierer hvor mange som kommer til Norge. Kommunene har derfor allerede erfaring med, og må fortsatt være forberedt på å skalere kapasiteten opp eller ned etter behov.
+
+Når ansvaret for en del av målgruppen overføres til fylkeskommunen, mener departementet at det er rimelig at fylkeskommunene får tilskuddet til opplæring i norsk og samfunnskunnskap som i dag tilfaller kommunen for disse personene. Tilskuddet skal gå til fylkeskommunens ekstra tilrettelegging til gruppen. Eventuelle behov for å dele tilskudd mellom kommuner og fylkeskommuner, vil reguleres i tilskuddsordningens rundskriv.
+
+Departementet opprettholder i all hovedsak dagens målgruppe for deltagelse i opplæring i norsk og samfunnskunnskap, men foreslår en mindre innskrenking ved å heve den nedre aldersgrensen for deltagelse i opplæringen fra 16 til 18 år og at det ikke lenger skal være mulig å vokse seg inn i målgruppen, jf. punkt 10.1.4.1. Forslaget innebærer at kommunene får utbetalt tilskudd for færre personer. Etter departementets beregninger vil dette utgjøre en liten andel. Det ventes at dette heller ikke får store konsekvenser for eventuelle stordriftsfordeler og at det dermed ikke vil påvirke kommunens økonomi i særlig grad.
+
+Departementet foreslår at dagens individuelle plan for deltagere i norsk og samfunnskunnskap skal vurderes jevnlig og ved vesentlig endring i deltagerens livssituasjon. Det foreslås også at for deltagere som i tillegg deltar i introduksjonsprogram, skal det utarbeides en samlet integreringsplan for opplæring i norsk og samfunnskunnskap og deltagelse i introduksjonsprogram. Siden dette vil innebære at kommunen kun skal utarbeide én plan for denne målgruppen, legger departementet til grunn at dette vil føre til noe redusert arbeid for kommunen.
+
+Som omtalt i punkt 10.1.4.3 foreslår departementet en innsnevring i vilkårene for fritak. Dette gjelder fritaksgrunnen ved bestått norskprøve som er foreslått hevet fra minimum A2 til B1 (skriftlig og muntlig), og forslaget om at det kan søkes om fritak fra opplæringen i norsk dersom den enkelte kan dokumentere gjennomført opplæring i norsk eller samisk i henhold til læreplaner for faget i grunnskolen, og hvor det er satt standpunktkarakter 2 eller høyere i faget. Sistnevnte innebærer en heving fra dagens fritaksgrunn som er karakter 1 eller høyere. Samlet sett vil dette innebære at noe færre personer vil få innvilget fritak fra opplæringen.
+
+Departementets forslag til innføring av et norskmål vil trolig føre til at det vil bli avlagt flere prøver i norsk. Departementet legger imidlertid til grunn at de samlede konsekvensene for kommunene blir små.
+
+Departementet legger til grunn at de samlede økonomiske og administrative konsekvenser av forslagene kan gjennomføres innenfor gjeldende rammer.
+
+Det vises også til at departementet foreslår at antall prøvesteder reduseres. Departementet vil vurdere de økonomiske og administrative konsekvensene når det foreligger en beslutning om antall prøvesteder.
+
+## Forskjellige bestemmelser
+
+Departementet foreslår i kapittel 11.2.4 at det innføres et krav om at lærere som underviser i norsk etter introduksjonsloven skal ha relevant faglig og pedagogisk kompetanse. Departementet mener dette vil bidra til at flere deltagere oppnår et høyere nivå i norsk, og at flere deltagere avslutter opplæringen tidligere. Siden kommunene mottar tilskudd til opplæring i norsk og samfunnskunnskap uavhengig av hvor lenge en person deltar i opplæringen, vil dette isolert sett kunne være en innsparing for kommunene. Det ventes at flere personer får jobb som følge av bedre resultater i norsk. Dette vil være lønnsomt for kommunene, både i form av at personene er (mer) økonomisk selvhjulpne og fordi de bidrar med skatteinntekter.
+
+Over 90 prosent av lærerne som underviser i voksenopplæringen har relevant pedagogisk kompetanse. Forslaget om å innføre krav om denne kompetansen vil dermed ikke være vanskelig å oppfylle, og de økonomiske konsekvensene av denne delen av forslaget vil være små. Anslagsvis underviser om lag 3 500 lærere i norsk etter introduksjonsloven i dag. Omtrent 43 prosent av disse vil ha behov for 30 studiepoeng i norsk som andrespråk når kravet om relevant faglig kompetanse innføres i ny integreringslov. 10 prosent vil ha behov for færre en 30 studiepoeng for å oppfylle kravet. Stortinget har bevilget midler til at om lag 200 lærere kan tildeles stipend til videreutdanning i 30 studiepoeng i norsk som andrespråk i 2020. Med denne ordningen vil mellom 1 000 til 2 000 lærere kunne oppnå 30 studiepoeng innen 5 til 10 år. Det legges opp til dispensasjonsordning for tilsatte lærere, og en overgangsperiode til ansettelse av nye lærere som ikke oppfyller kompetansekravene.
+
+Departementet foreslår at forsøkshjemlene i loven utvides til å omfatte økonomiske forsøk. Forslaget vil i seg selv ikke føre til merkostnader for den enkelte kommune. Eventuelle kostnader for den enkelte kommune vil avhenge av innretningen på det enkelte forsøket. Kostnadene dekkes innenfor kommunens gjeldende rammer, eksempelvis fra integreringstilskuddet og tilskudd til opplæring i norsk og samfunnskunnskap for voksne innvandrere. Avhengig av innretningen på forsøket kan kommunen også søke om prosjektmidler fra *tilskuddsordningen for utvikling av kommunale integreringstiltak*. Forslaget vil også ha mindre administrative konsekvenser for kommuner som gjennomfører forsøkene. Forslaget vil ha administrative konsekvenser for departementet og underliggende etater i forbindelse med ressursbruk til behandling og godkjenning av søknader om unntak fra integreringsloven. Økonomiske konsekvenser som følge av dette vil dekkes innenfor Kunnskapsdepartementets og underliggende etaters gjeldende budsjettrammer.

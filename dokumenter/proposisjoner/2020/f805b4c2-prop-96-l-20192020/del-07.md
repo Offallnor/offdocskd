@@ -1,1098 +1,262 @@
-# Prop. 96 L (2019–2020), del 7 av 15 (side 71–82)
+# Prop. 96 L (2019–2020), del 7 av 18
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/f805b4c2-prop-96-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-96-l-20192020/id2699851/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc1ea1a163a5452e9b616b77f4522e63/no/pdfs/prp201920200096000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 71]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-barnet får et trygt og godt barnehagemiljø. Det
-samme gjelder når en undersøkelse som barnehagen selv har satt i gang, viser at et barn ikke har et
-trygt og godt barnehagemiljø. Tiltakene skal velges på grunnlag av en konkret og faglig vurdering.
-Departementet foreslår videre å lovfeste at
-barnehagen skal lage en skriftlig plan når det skal
-gjøres tiltak i en sak. I planen skal det stå hvilke
-problemer tiltakene skal løse, hvilke tiltak barnehagen har planlagt, når tiltakene skal gjennomføres, hvem som skal gjennomføre tiltakene og når
-tiltakene skal evalueres.
-
-7.8
-
-Spørsmål om det skal innføres en
-individuell rett og en
-håndhevingsordning
-
-7.8.1
-
-Høringsforslaget
-
-Høringsforslaget innebar å innføre tydelige plikter
-for barnehagen, uten å innføre en individuell rett
-til et trygt og godt barnehagemiljø og et system
-for håndheving av enkeltsaker.
-Hensynet til barnets rettssikkerhet taler for at
-foreldrene skal kunne få en sak om sitt barns barnehagemiljø vurdert av en myndighet på nivå over
-barnehagen. Dette er aktuelt i saker der foreldrene mener at barnehagen ikke oppfyller pliktene sine. Samtidig mente departementet at barnas alder kan tilsi at målet om et trygt og godt barnehagemiljø for det enkelte barn, best ivaretas
-ved å legge stor vekt på gruppedynamikk og forebyggende arbeid. En lovregulering med rettighetsfesting og håndhevingsordning vil rette mye
-oppmerksomhet mot enkeltbarn, fremfor barnehagens systematiske arbeid for å skape et godt
-miljø i barnegruppene. Barnehagenes arbeid
-handler om å skape trygge og gode barnegrupper
-og et miljø som grunnlag for lek, læring og allsidig utvikling, forebygge uheldige samspillsmønstre og stoppe krenkelser og mobbing. Det forebyggende arbeidet er helt sentralt for at alle barn
-skal ha et trygt og godt barnehagemiljø. Personalet må ha kompetanse til å arbeide med lek, vennskap og inkludering, og de må arbeide systematisk slik at alle barn blir inkludert i barnefellesskapet. De må ha rutiner for å observere og analysere samspillet mellom barna, slik at de kan oppdage barn som risikerer å falle utenfor, og de må
-kunne støtte dem inn i fellesskapet. Tiltakene vil
-som regel vare over lang tid og handle om et systematisk pedagogisk arbeid med barnegruppene.
-En tilnærming som legger stor vekt på håndheving i enkeltsaker, kan skape en ubalanse og van-
-
-69
-
-skeliggjøre barnehagens forebyggende, gruppeorienterte arbeid.
-Departementet la vekt på at en håndhevingsordning tilsvarende den på skoleområdet, vil føre
-til flere dokumentasjonskrav enn i dag. Barnehagen vil også måtte bistå med redegjørelser og opplysninger der håndhevingsorganet har saker til
-behandling. Dette vil ofte være mer skriftlig dokumentasjon enn det barnehagen trenger for å oppfylle aktivitetsplikten og krav til internkontroll.
-Departementet viste til at lovreguleringen ikke
-bør være mer omfattende enn det som er nødvendig for å sikre barn et trygt og godt barnehagemiljø. På barnehageområdet er det ikke tidligere
-lovfestet tydelige regler for hva barnehagen skal
-gjøre for å sikre barna et trygt og godt barnehagemiljø. Et system tilsvarende skolemiljøreglene
-kan være mer omfattende og ressurskrevende
-enn det som er nødvendig for å sikre at barna har
-et trygt og godt barnehagemiljø. Dette tilsier at
-det i første omgang bør innføres tydelige krav til
-hva barnehagen skal gjøre for å sikre at barn har
-et trygt og godt barnehagemiljø. Dersom det viser
-seg at barnehagene ikke oppfyller pliktene de blir
-pålagt, kan det være aktuelt å foreslå å innføre en
-rettighetsbestemmelse og en håndhevingsordning på et senere tidspunkt.
-I høringsforslaget ble det videre vist til at kommunen allerede skal påse at barnehagene følger
-barnehageloven og rammeplanen for barnehagens innhold og oppgaver. Kommunen kan bruke
-godkjenning, veiledning og tilsyn som virkemidler
-for å påse dette. Dersom en barnehage ikke arbeider godt nok for å sikre barna et trygt og godt barnehagemiljø, kan det være aktuelt å åpne tilsyn. I
-særlige tilfeller kan fylkesmannen føre tilsyn
-direkte med barnehager.
-
-7.8.2 Høringsuttalelsene
-109 av høringsinstansene som har svart på høringen, har ikke gitt tilbakemelding på forslaget om å
-ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning. Dette er blant
-annet Sametinget, 36 kommuner, 22 barnehager,
-Forandringsfabrikken, Utdanningsforbundet Bergen, Utdanningsforbundet i Moss, Utdanningsforbundet Ålesund, Utdanningsforbundet Stjørdal,
-Statped, Fagforbundet, KA – Arbeidsgiverorganisasjon for kirkelige virksomheter, Norsk psykologforening, Dysleksi Norge, Verdensorganisasjonen for
-små barns oppvekst og danning (OMEP) Norge,
-FRI – Foreningen for kjønns- og seksualitetsmangfold og Reform – Ressurssenter for menn. Disse
-høringsinstansene støtter i hovedsak forslagene
-
-[Side 72]
-
-70
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-om å innføre tydelige plikter for barnehagene
-knyttet til barnehagemiljø.
-81 høringsinstanser har gitt tilbakemelding på
-forslaget om å ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning. Av
-disse er det 44 høringsinstanser som støtter forslaget. Dette er 36 kommuner, 2 fylkesmenn, 3
-barnehager, KS, Steinerbarnehageforbundet og
-Skolelederforbundet.
-Flere av de som støtter forslaget uttaler at de
-er enige i at en tilnærming som legger vekt på
-håndheving i enkeltsaker, kan skape ubalanse og
-vanskeliggjøre barnehagens forebyggende, gruppeorienterte arbeid. Det blir også trukket frem at
-en individuell rettighet og en tilhørende håndhevingsordning kan føre til økt byråkrati og dokumentasjonsplikt.
-27 høringsinstanser er imot forslaget om å
-ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning. Dette er blant
-annet Helsedirektoratet, Nasjonalt senter for
-læringsmiljø og atferdsforskning, Regionsenter for
-barn og unges psykiske helse Helseregion Øst, Universitetet i Agder, 3 fylkesmenn, 7 kommuner, Barneombudet, Elev-, lærling- og mobbeombudene, Private Barnehagers Landsforbund (PBL), Utdanningsforbundet, Redd Barna, UNICEF Norge,
-Funksjonshemmedes Fellesorganisasjon, ADHD
-Norge, Norsk forbund for utviklingshemmede, Hørselshemmedes landsforbund og Voksne for Barn.
-Flere av disse høringsinstansene er bekymret
-for at forslagene ikke vil gi en styrking av barnas
-rettssikkerhet på det psykososiale feltet. Mange
-av dem trekker frem at barnehagebarn bør ha
-individuelle rettigheter på lik linje med barn i skolen, og at det er behov for at en overordnet eller
-uavhengig instans fungerer som håndhever eller
-klageinstans. Flere trekker frem at de er uenige i
-at en rettighetsbestemmelse vil ta fokuset vekk fra
-det forebyggende arbeidet. De kan ikke se at det
-er en motsetning mellom at barnet har en individuell rettighet til et trygt og godt barnehagemiljø
-og at barnehagen samtidig har en plikt til å sikre
-et trygt og godt barnehagemiljø gjennom å jobbe
-med gruppedynamikk og forebyggende arbeid.
-De mener at det derimot kan øke kvaliteten på det
-forebyggende arbeidet siden et vedtak kan
-påpeke svakheter også her. En del trekker også
-frem at det er vanskelig å sikre at alle kommunene har den kompetansen og uavhengigheten
-som trengs for å sikre at regelverket blir etterlevd.
-Barneombudet viser til at konsekvensene av
-mobbing i barnehagen kan være store, og ombudet mener derfor at rettighetene er like viktige i
-barnehagen som på skolefeltet. Barneombudet er
-
-2019–2020
-
-ikke enig i at en individuell rett vil føre til for mye
-oppmerksomhet mot enkeltbarn. Ombudet peker
-på at det ikke er et motsetningsforhold mellom
-det å jobbe med enkeltbarn og det å jobbe med
-barnegruppen. Videre mener ombudet at barnas
-alder ikke kan ha noen betydning, tvert imot kan
-man etter ombudets syn stille spørsmål ved om
-ikke de yngste barna er de som trenger det beste
-vernet siden de er så avhengige av hjelpen de får
-fra de voksne. Siden det ikke blir foreslått en
-håndhevingsordning, vil det etter ombudets syn
-være opp til barnehagen og kommunen om de vil
-oppfylle pliktene. Ombudet opplever at kommunen i mange saker har tatt barnehagens side og at
-det er store forskjeller i regelverkskompetansen i
-kommunene.
-PBL mener at en individuell rett med en håndhevingsordning kan virke konfliktdempende og
-bidra til en avslutning av saken der det er uenighet mellom barnehagen og foreldrene. PBL
-mener videre at kommunen ikke har den nødvendige kompetansen til å se til at regelverket etterleves gjennom tilsyn. De mener at håndheving av
-regelverket krever særskilt kompetanse som bør
-samles ved etablering av et eget uavhengig nasjonalt organ.
-Utdanningsforbundet mener forslaget til rettighetsbestemmelse fra NOU 2012: 1 Til barnas beste
-– Ny lovgivning for barnehagene bør lovfestes.
-Videre ber forbundet departementet utrede nærmere hvordan rettigheten bør håndheves. Forbundet påpeker at det ikke trenger å være samme
-håndhevingsordning som etter opplæringsloven.
-Et alternativ er at departementet utreder forslaget
-fra Barnehagelovutvalget hvor kommunen ble
-foreslått som en klageinstans. Et annet alternativ
-er å vurdere om det skal etableres en håndhevingsordning (fylkesmannen) i barnehageloven.
-10 høringsinstanser har kommentert forslaget
-om å ikke innføre en rettighetsbestemmelse med
-en tilhørende håndhevingsordning uten å ta
-uttrykkelig stilling til det. Fylkesmannen i Agder
-viser til at uten en håndhevingsordning kan det bli
-et økende antall henvendelser til fylkesmannen
-om å følge opp enkeltsaker gjennom tilsyn i særlige tilfeller. Fylkesmannen påpeker at dette kan
-bli en indirekte håndhevingsordning. Oslo kommune gir argumenter for og mot en håndhevingsordning, men ønsker ikke å ta stilling til dette før
-departementet har grundig synliggjort konsekvensene av og mulige innretninger på en slik
-ordning. Norlandia Barnehagene AS uttaler blant
-annet at de ikke kan se at kommunen i dag har
-den nødvendige kompetansen til å følge opp at
-regelverket etterleves gjennom tilsyn. Lærings-
-
-[Side 73]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-verkstedet er usikre på om kommunen har nødvendig kompetanse, samtidig som de mener det er
-uklart hvilke konsekvenser en individuell rett og
-system for håndheving av enkeltsaker vil få for
-barnehagene. Læringsverkstedet ønsker derfor
-en ytterligere utredning av om det bør innføres en
-individuell rett med en håndhevingsordning, og
-hvilke konsekvenser dette eventuelt vil få for barnehagene.
-
-7.8.3 Departementets vurderinger
-Det er flertall for forslaget om å ikke innføre en
-individuell rett og et system for håndheving av
-enkeltsaker. Flere av høringsinstansene er enige i
-at en tilnærming som legger vekt på håndheving i
-enkeltsaker, kan skape ubalanse ved at oppmerksomheten blir rettet mot enkeltsaker fremfor barnehagens systematiske arbeid for å skape et godt
-miljø i barnegruppene. Det blir også trukket frem
-at en innretning med en individuell rettighet og en
-tilhørende håndhevingsordning, kan føre til økte
-administrasjonsoppgaver og dokumentasjonsplikter. Samtidig mener flere høringsinstanser at en
-individuell rettighet og en tilhørende håndhevingsordning er nødvendig for at de foreslåtte lovendringene skal styrke barnas rettssikkerhet når
-det gjelder det psykososiale barnehagemiljøet.
-Departementet er enig i at det ikke er et motsetningsforhold mellom det å jobbe med enkeltbarn og det å jobbe med barnegruppen. Tvert
-imot er arbeidet med miljøet i barnegruppene helt
-sentralt for at alle barn skal ha et trygt og godt
-barnehagemiljø. Samtidig er det etter departementets syn en fare for at en tilnærming som legger stor vekt på håndheving i enkeltsaker, kan
-trekke oppmerksomheten bort fra barnehagens
-forebyggende, gruppeorienterte arbeid. Videre er
-det etter departementets syn en fare for at et slikt
-system vil gi stort press på barnehagene i form av
-økt administrasjon og dokumentasjon.
-Etter departementets syn bør ikke lovreguleringen være mer omfattende enn det som er nødvendig for å sikre barn et trygt og godt barnehagemiljø. På barnehageområdet er det ikke tidligere lovfestet tydelige regler for hva barnehagen
-skal gjøre for å sikre barna et trygt og godt barnehagemiljø. Med de foreslåtte lovendringene vil det
-bli tydelig hva barnehagene har plikt til å gjøre
-dersom ett eller flere barn ikke har et trygt og
-godt barnehagemiljø. Tydelige lovplikter vil også
-gi bedre grunnlag for å kunne følge opp barnehagene gjennom tilsyn.
-Departementet mener at kompetansebyggende tiltak kan være mer hensiktsmessig enn å
-
-71
-
-innføre en rettighetsbestemmelse og en håndhevingsordning. Kompetanse hos de som arbeider i
-barnehagen, er viktig for at de skal kunne ivareta
-de foreslåtte pliktene på en måte som gir barna i
-barnehagen et trygt og godt psykososialt miljø.
-Personalet må ha kompetanse til å arbeide med
-lek, vennskap og inkludering, og de må arbeide
-systematisk slik at alle barn blir inkludert i barnefellesskapet. De må ha rutiner for å observere og
-analysere samspillet mellom barna slik at de kan
-oppdage barn som risikerer å falle utenfor, og de
-må kunne støtte dem inn i fellesskapet. Tiltakene
-vil som regel vare over lang tid og handle om et
-systematisk pedagogisk arbeid med barnegruppene.
-Barnehagesektoren har i flere år hatt en ordning der fylkesmennene har tildelt midler til kompetanseutvikling og utviklingsarbeid lokalt. I den
-reviderte kompetansestrategien Kompetanse for
-fremtidens barnehage (2018 – 2022) ble dette videreutviklet til en ordning kalt regional ordning for
-kompetanseutvikling i barnehage. Læringsmiljø og
-mobbing er blant temaene det jobbes med. I 2020
-foreslår regjeringen å bevilge om lag 190 mill. kroner til ordningen.
-Samlet betyr dette at mer enn tusen barnehager og skoler over hele landet har deltatt – eller
-deltar – i kompetansearbeid mot mobbing. Utdanningsdirektoratet har i tillegg utarbeidet en prognose for hele perioden 2017 – 2020 som viser at 180
-kommuner med samlet 700 skoler og 700 barnehager har fått eller vil få et tilbud om kompetansearbeid mot mobbing. Det nettbaserte kompetansetilbudet kommer i tillegg til denne satsningen.
-Kommunen som barnehagemyndighet skal
-påse at barnehagene etterlever regelverket, blant
-annet gjennom veiledning og tilsyn. Enkelte
-høringsinstanser mener at kommunen ikke har et
-tilstrekkelig uavhengig forhold til å kunne ivareta
-denne oppgaven på en betryggende måte. Departementet viser til at det er foreslått å innføre et
-krav om at kommunen skal organisere oppgavene
-den har som barnehagemyndighet adskilt fra oppgavene den har som barnehageeier. Et slikt krav
-vil blant annet gjelde når kommunen fører tilsyn
-med om barnehagene etterlever de nye reglene
-om barnehagemiljø. Etter departementets syn vil
-dette bidra til å profesjonalisere tilsynet og gi økt
-tillit til at kommunen utfører oppgaven på en upartisk måte.
-På bakgrunn av dette foreslår departementet å
-ikke innføre en individuell rett og et system for
-håndheving av enkeltsaker. Dersom det viser seg
-at barnehagene ikke oppfyller pliktene de blir
-pålagt, kan det være aktuelt å foreslå å innføre en
-
-[Side 74]
-
-72
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-rettighetsbestemmelse og en håndhevingsordning på et senere tidspunkt.
-
-7.9
-
-Departementets forslag
-
-Departementet foreslår å endre ordlyden i barnehageloven § 3 slik at det går frem at barn i barnehagen har rett til å gi uttrykk for sitt syn i saker som
-gjelder dem selv, i tillegg til på barnehagens daglige virksomhet. Bestemmelsene om medvirkning
-for foreldrerådet og samarbeidsutvalget vil omfatte
-barnehagens arbeid med barnehagemiljøet.
-Departementet foreslår å lovfeste at i alle
-handlinger og avgjørelser som gjelder barn i barnehagen, skal hva som er best for barnet, være et
-grunnleggende hensyn.
-Departementet foreslår å lovfeste at barnehagen ikke skal godta krenkelser som for eksempel
-mobbing, utestenging, trakassering, diskriminering og vold, og at de som arbeider i barnehagen
-skal ha plikt til å gripe inn ved slike krenkelser.
-Departementet foreslår å lovfeste at barnehagen skal forebygge at barn ikke har et trygt og
-godt barnehagemiljø ved å arbeide kontinuerlig
-for å fremme helsen, trivselen, leken og læringen
-til barna.
-Departementet foreslår å lovfeste en aktivitetsplikt som skal sikre at barnehagen handler raskt
-og riktig når et barn ikke har et trygt og godt barnehagemiljø. Alle som arbeider i barnehagen, skal
-følge med på hvordan barna i barnehagen har det
-og at de skal melde fra til barnehagens styrer der-
-
-2019–2020
-
-som de får mistanke om eller kjennskap til at et
-barn ikke har et trygt og godt barnehagemiljø.
-Styrer skal melde fra til barnehageeieren i alvorlige tilfeller.
-Ved mistanke om eller kjennskap til at et barn
-ikke har et trygt og godt barnehagemiljø, skal barnehagen snarest undersøke saken. Når et barn
-eller foreldrene sier at barnet ikke har et trygt og
-godt barnehagemiljø, skal barnehagen snarest
-undersøke saken og så langt det finnes egnede tiltak, sørge for at barnet får et trygt og godt barnehagemiljø. Det samme gjelder når en undersøkelse som barnehagen selv har satt i gang, viser at
-et barn ikke har et trygt og godt barnehagemiljø.
-Tiltakene skal velges på grunnlag av en konkret
-og faglig vurdering.
-Departementet foreslår videre å lovfeste at
-barnehagen skal lage en skriftlig plan når det skal
-gjøres tiltak i en sak. I planen skal det stå hvilke
-problemer tiltakene skal løse, hvilke tiltak barnehagen har planlagt, når tiltakene skal gjennomføres, hvem som skal gjennomføre tiltakene og når
-tiltakene skal evalueres.
-Departementet vil vurdere om en del av
-bestemmelsene i forskrift om rammeplan for barnehagens innhold og oppgaver bør endres som
-følge av forslagene i dette høringsnotatet og
-høringsnotatet om regulering av private barnehager. Departementet vil gjøre en felles gjennomgang av rammeplanen etter at lovendringene er
-vedtatt.
-
-[Side 75]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-73
-
-8 Regulering av private barnehager
-8.1
-
-Bakgrunnen for forslagene
-
-I 2003 inngikk Stortinget et historisk barnehageforlik. Barnehageforliket gikk ut på at alle familier
-som ønsket det, skulle få tilbud om barnehageplass. Dette har ført til full barnehagedekning og
-en enklere hverdag for småbarnsfamiliene. I 2019
-gikk 92,2 prosent av alle barn i alderen ett til fem
-år i barnehage. Om lag halvparten av barna som
-går i barnehage, går i dag i en privat barnehage.
-Dette utgjør om lag 140 000 barn.
-Barnehagesektoren består i dag av om lag
-5 700 barnehager, hvorav om lag 3 000 er private.
-Dette omfatter både private ordinære barnehager,
-private familiebarnehager og private åpne barnehager. I 2018 var 54 prosent av de private ordinære barnehagene organisert som aksjeselskap
-og 23 prosent organisert som samvirkeforetak. 42
-prosent av de private ordinære barnehagene inngikk i et foretak eller i foretaksgrupper sammen
-med andre barnehager. Både private og kommunale barnehager har blitt større de siste årene, og
-vi har fått større og mer profesjonelle private aktører som er organisert i konsernstrukturer.
-Departementet har foretatt en helhetlig gjennomgang av regelverket for private barnehager. I
-forbindelsen med denne gjennomgangen har
-departementet blant annet innhentet et omfattende og oppdatert kunnskapsgrunnlag om ulike
-sider ved finansieringssystemet, lønnsomhet i private barnehager, utvikling i gjeldsbelastning i private barnehager og hvordan tilsynssystemet fungerer.
-De private barnehagene mottar årlig om lag
-20 milliarder kroner i offentlige tilskudd og om
-lag 4 milliarder kroner i foreldrebetaling. Tilstrekkelig kontroll og tilsyn med at tilskudd og foreldrebetaling kommer barna i barnehagen til
-gode bidrar til å skape tillit i og til sektoren. Regjeringens politiske plattform fastslår at regjeringen
-vil utvikle et bedre og mer uavhengig tilsynssystem for barnehagene. Dette vil bidra til å sikre at
-offentlige tilskudd og foreldrebetaling går til å
-drive gode barnehager.
-Dagens tilsynssystem er ikke laget for en sektor med eiere som organiserer flere barnehager
-
-og annen virksomhet i samme rettssubjekt, og
-som har barnehager i flere kommuner. I en undersøkelse fra Agenda Kaupang (rapport R9607,
-2017) går det frem at kommunene mener at de
-verken har kapasitet eller kompetanse til å føre tilsyn med økonomiske forhold i private barnehager, og at regelverket for bruk av offentlige tilskudd og foreldrebetaling er uklart. Sektoren
-består i dag av mer profesjonelle aktører med til
-dels kompliserte selskapsstrukturer, noe som
-innebærer at det er behov for et bedre økonomisk
-tilsyn med de private barnehagene. Tilsyn med
-private aktører er en spesialisert og teknisk oppgave som krever tilstrekkelige ressurser og høy
-kompetanse.
-Departementet sendte en rekke forslag til
-endringer i regelverket for private barnehager på
-høring 26. april 2019. Forslagene i høringen følger
-opp åtte ulike anmodningsvedtak fra Stortinget. I
-denne proposisjonen følger departementet opp
-forslagene i høringen som handler om tydeliggjøring av kravene til bruk av offentlig tilskudd og
-foreldrebetaling og opprettelsen av et nasjonalt tilsyn, med tilhørende reguleringer om hjemmel for
-å kreve nødvendig dokumentasjon i forbindelse
-med tilsyn og reaksjoner. Forslagene om stedlig
-leder og vikarbruk omtales i kapittel 10. Departementet har, blant annet basert på høringsinnspillene, behov for å vurdere øvrige forslag i høringen
-nærmere. Dette gjelder blant annet endringer i
-ulike deler av finansieringssystemet, herunder
-spørsmål om tilskudd til pensjon, krav til barnehagens organisering, regnskapskrav og meldeplikt til kommunen ved salg av private barnehager. Departementet vil komme tilbake til Stortinget med eventuelle forslag til endringer i regelverket på disse områdene.
-Fristen for å avgi høringsuttalelser var 26. juli
-2019. Departementet mottok 217 høringssvar
-innen fristen.
-Høringsnotatet ble sendt til følgende høringsinstanser:
-Departementene
-Arbeidstilsynet
-
-[Side 76]
-
-74
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Barne-, ungdoms- og familiedirektoratet
-Barneombudet
-Brønnøysundregisteret
-Datatilsynet
-Folkehelseinstituttet
-Forbrukerombudet
-Forbrukerrådet
-Foreldreutvalget for barnehager
-Foreldreutvalget for grunnskolen
-Fylkesmennene
-Helsedirektoratet
-Helsetilsynet
-Husbanken
-Integrerings- og mangfoldsdirektoratet (IMDI)
-Kompetanse Norge
-Konkurransetilsynet
-Kriminalomsorgsdirektoratet
-Likestillings- og diskrimineringsombudet
-Mattilsynet
-Miljødirektoratet
-Nasjonalt organ for kvalitet i utdanningen
-(NOKUT)
-Norges forskningsråd
-Riksrevisjonen
-Sametinget
-Språkrådet
-Statens arbeidsmiljøinstitutt
-Statens institutt for forbruksforskning
-Statistisk sentralbyrå
-Statped
-Sysselmannen på Svalbard
-Utlendingsdirektoratet
-Fylkeskommunene
-Kommunene
-Longyearbyen lokalstyre
-Høgskoler
-Universiteter
-Universitets- og høgskolerådet
-Akademikerne
-Arbeidsgiverforeningen Spekter
-Atferdssenteret
-Delta
-Dysleksi Norge
-Espira
-Fafo
-Fagforbundet
-Fellesorganisasjonen
-Funksjonshemmedes fellesorganisasjon
-Handikappede barns foreldreforening
-Humanetisk forbund
-Innvandrernes landsorganisasjon
-Institutt for samfunnsforskning
-
-2019–2020
-
-Kanvas
-Kirkelig pedagogisk senter
-Kirkens arbeidsgiverorganisasjon
-Kliniske ernæringsfysiologers forening
-Kristent pedagogisk forum
-KS
-Kvinnefronten
-Landsorganisasjonen i Norge
-Landsrådet for Norges barne- og
-ungdomsorganisasjoner
-Lederne
-Likestillingssenteret
-Læringsverkstedet
-Multikulturelt Initiativ- og Ressursnettverk
-Nasjonalt senter for flerkulturell opplæring
-Nasjonalt senter for fremmedspråk i opplæringen
-Nasjonalt senter for kunst og kultur i opplæringa
-Nasjonalt senter for leseopplæring og
-leseforskning
-Nasjonalt senter for læringsmiljø og
-atferdsforskning
-Nasjonalt senter for mat, helse og fysisk aktivitet
-Nasjonalt senter for matematikk i opplæringen
-Nasjonalt senter for naturfag i opplæringa
-Nasjonalt senter for nynorsk i opplæringa
-Norges bygdekvinnelag
-Norges døveforbund
-Norges handikapforbund
-Norges idrettsforbund
-Norges kvinne- og familieforbund
-Norges Montessoriforbund
-Norsk forbund for utviklingshemmede
-Norsk foreldrelag for funksjonshemmede
-Norsk innvandrerforum
-Norsk senter for barneforskning
-Norsk senter for menneskerettigheter
-Norsk studentorganisasjon
-Norske kveners forbund
-Norske samers riksforbund
-Private barnehager
-Private barnehagers landsforbund
-Private barnehager i Asker
-REFORM ressurssenter for menn
-Regelrådet
-Røde Kors
-Samarbeidsforumet av funksjonshemmedes
-organisasjoner
-Senter for IKT i utdanningen
-Senter for samisk i opplæringa
-Sentralledelsen for fylkesnemndene for barnevern
-og sosiale saker
-Skolelederforbundet
-Steinerbarnehagene Norge
-Stiftelsen barnas rettigheter
-
-[Side 77]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Taterne/Romanifolkets
-menneskerettighetsforening
-Trygge barnehager
-Tvillingforeldreforeningen
-Unge funksjonshemmede
-UNICEF Norge
-Unio
-Utdanningsforbundet
-Velferdsforskningsinstituttet – NOVA
-Verdensorganisasjonen for små barns oppvekst og
-danning
-Virke
-YS
-Følgende høringsinstanser hadde merknader til
-forslagene:
-Statistisk sentralbyrå
-Statens arbeidsmiljøinstitutt
-Sametinget
-Fylkesmannen i Agder
-Fylkesmannen i Innlandet
-Fylkesmannen i Oslo og Viken
-Fylkesmannen i Rogaland
-Fylkesmannen i Troms og Finnmark
-Fylkesmannen i Vestfold og Telemark
-Fylkesmannen i Vestland
-Alta kommune
-Arendal kommune
-Asker kommune
-Askim kommune
-Aurskog-Høland kommune
-Bamble kommune
-Bergen kommune
-Bjerkreim kommune
-Bærum kommune
-Bømlo kommune
-Drammen kommune
-Eidsberg kommune
-Elverum kommune
-Evje og Hornnes kommune
-Fitjar kommune
-Fjell kommune
-Fredrikstad kommune
-Frøya kommune
-Gausdal kommune
-Giske kommune
-Gjerdrum kommune
-Gjesdal kommune
-Gjøvik kommune
-Gol kommune
-Gran kommune
-Hadsel kommune
-Hemsedal kommune
-Holmestrand kommune
-
-Horten kommune
-Indre Fosen kommune
-Jevnaker kommune
-Klepp kommune
-Kongsberg kommune
-Kragerø kommune
-Kristiansand kommune
-Lillehammer kommune
-Lunner kommune
-Lørenskog kommune
-Molde kommune
-Moss og Rygge kommune
-Namsos kommune
-Nannestad kommune
-Nes kommune
-Oppdal kommune
-Os kommune
-Oslo kommune
-Porsgrunn kommune
-Randaberg kommune
-Re kommune
-Ringerike kommune
-Ringsaker kommune
-Rælingen kommune
-Sande kommune
-Sandefjord kommune
-Sandnes kommune
-Sarpsborg kommune
-Skedsmo kommune
-Skien kommune
-Skiptvedt kommune
-Stavanger kommune
-Stjørdal kommune
-Stord kommune
-Stor-Elvdal kommune
-Sveio kommune
-Time kommune
-Tolga kommune
-Tromsø kommune
-Trondheim kommune
-Tynset kommune
-Tønsberg kommune
-Ullensaker kommune
-Vanylven kommune
-Vefsn kommune
-Verdal kommune
-Vestre Toten kommune
-Ørsta kommune
-Østre Toten kommune
-Øyer kommune
-Øygarden kommune
-Øystre Slidre kommune
-Ål kommune
-Ålesund kommune
-
-75
-
-[Side 78]
-
-76
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Handelshøyskolen ved Universitetet i Agder
-Abelia
-Delta
-Fagforbundet
-Fellesskap for ideelle barnehager
-Foreldreutvalget for barnehager (FUB)
-IKO – Kirkelig pedagogisk senter
-KA – Arbeidsgiverorganisasjon for kirkelige
-virksomheter
-KS
-KPMG
-Lederne
-Landsorganisasjonen i Norge
-Montessori Norge
-Norges kommunistiske parti, Østfold distrikt
-Næringslivets Hovedorganisasjon
-OMEP (Verdensorganisasjonen for små barns
-oppvekst og utdanning)
-Organisasjonen for private barnehager i Larvik
-Private barnehagers landsforbund (PBL)
-Revisorforeningen
-Samskipnadsrådet
-Skolelederforbundet
-Skolenes landsforbund Karmøy
-Spekter
-Stavangerbarnehagenes foreldreforening
-Steinerbarnehageforbundet
-Utdanningsforbundet
-Utdanningsforbundet Bergen
-Utdanningsforbundet Skiptvedt
-Virke
-Akasia barnehage AS
-Akrobaten barnehage
-Ameliahaugen barnehage
-Arbeidsutvalget for private barnehager i
-Trondheim kommune
-Asdal barnehage AS
-Askeladden barnehage Borg AS
-Babuschka barnehage AS
-Banktrollet barnehage
-Barnas Have avd. Bugården AS
-Barnas Have avd. sentrum AS
-Barnas Moa
-Bekkevollen barnehage AS
-Berg barnehage SA
-Bergheim barnehage SA
-Bjerkås barnehage
-Blåklokka barnehage AS
-Borg barnehager AS
-Båsemor Gårdsbarnehage
-Dampsaga barnehage AS
-Endrestø barnehage SA
-Espira gruppen AS
-Fire private enkeltstående barnehager
-
-2019–2020
-
-Fjellsøya barnehage AS
-Frelsesarmeens barnehager
-Furutoppen barnehage
-Galleberg barnehage SA
-Gnist barnehager AS
-Gnisten barnehage SA
-Grotterødløkka AS
-Hanevold barnegård AS
-Heggum barnehage AS
-Hov barnehage SA
-Kulturbarnehagen Tromsø
-Lahaug gårds og naturbarnehage
-Lekestua barnehage
-Lia barnehage Kongsvinger
-Lia barnehage SA
-Lillevollen barnehage
-Linnesbakken barnehage AS
-Liøya barnehage SA
-Lundåsen barnehage
-Læringsverkstedet AS
-Løvset barnehage SA
-Mamma Mia barnehage
-Medbroen Drift AS
-Missingmyr barnehage AS
-Nesåsen barnehage SA
-NLM-barnehagene AS
-Nordlys barnehage AS
-Norlandia barnehagene AS
-Nye Kakhaugen barnehage
-Nystrand barnehage AS
-Nærsnes Kystbarnehage AS
-Private barnehager i Asker
-Ragnas hage
-Rodamyr barnehage SA
-Ryggstranden barnehage SA
-Skattekista barnehage og Trollsteinen barnehage
-Skogens lykke barnehage AS
-Skogkanten barnehage SA
-Smedhusåsen barnehage SA
-Småfolk barnehage
-Solbergelva barnehage AS
-Solbergmoen barnehage AS
-Sole barnehage SA
-Solvang barnehage SA
-Steinrøysa andelsbarnehage SA
-Stiftelsen Kanvas
-Stiftinga Hjellbakkane barnehage
-TDM Barnehager
-Trollskogen Barnehage SA
-Trollstua barnehage SA
-Tronvik Gårdsbarnehage
-Trygge barnehager AS
-Ulna AS
-Ulset barnehage
-Utsikten barnehage SA
-
-[Side 79]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Økernly barnehagedrift AS
-Åheim barnehage
-Anders og Elin Skrede
-Anonym
-Kent Atle Eriksen
-Per Arne Sandvold
-Følgende høringsinstanser uttalte at de ikke ville
-gi uttalelse i saken, eller at de ikke hadde merknader til forslagene:
-Forsvarsdepartementet
-Helse- og omsorgsdepartementet
-Justis- og beredskapsdepartementet
-Samferdselsdepartementet
-Brønnøysundregisteret
-Folkehelseinstituttet
-Kompetanse Norge
-Kriminalomsorgsdirektoratet
-Statens arbeidsmiljøinstitutt
-Maurtuva barnehage
-Polarhagen barnehage
-Skaarlia barnehage
-
-8.2
-
-Bruk av offentlige tilskudd og
-foreldrebetaling
-
-8.2.1
-
-Gjeldende rett
-
-8.2.1.1 Systematikken i § 14 a
-Kravene til hvordan private barnehager skal
-bruke offentlige tilskudd og foreldrebetaling følger i dag av barnehageloven § 14 a. Det framgår
-av denne bestemmelsen at
-«Offentlige tilskudd og foreldrebetaling skal
-komme barna i barnehagen til gode. Barnehagen kan ha et rimelig årsresultat. Dette innebærer at følgende vilkår må være oppfylt:
-a) barnehagen kan bare belastes kostnader
-som direkte vedrører godkjent drift av barnehagen.
-b) barnehagen kan ikke overfor eier eller
-eiers nærstående eller selskap i samme
-konsern som eier foreta transaksjoner og
-belastes kostnader på vilkår eller med
-beløp som avviker fra eller overstiger det
-som ville vært fastsatt mellom uavhengige
-parter.
-c) barnehagen kan ikke ha vesentlig lavere
-personalkostnad per heltidsplass enn det
-som er vanlig i tilsvarende kommunale barnehager.
-Som eiers nærstående menes nærstående
-som nevnt i aksjeloven § 1-5 første ledd. Med
-
-77
-
-konsern menes selskaper som står i slikt forhold til hverandre som beskrevet i aksjeloven
-§ 1-3.
-Barnehageeier skal kunne dokumentere at
-offentlige tilskudd og foreldrebetaling er brukt
-i samsvar med formålet i første ledd.
-Kongen kan gi utfyllende forskrift om krav
-til regnskap, revisjon, og rapportering, krav til
-barnehagens dokumentasjon av bruk av offentlige tilskudd og foreldrebetaling, og den ikkekommunale barnehagens opplysningsplikt om
-økonomiske forhold.»
-Første ledd første punktum fastslår at offentlige
-tilskudd og foreldrebetaling «skal komme barna i
-barnehagen til gode». I utgangspunktet ser dette
-ut til å være et selvstendig krav som barnehagens
-disposisjoner skal vurderes opp mot. Denne forståelsen av «til gode»-kravet er for eksempel lagt
-til grunn i friskoleloven, universitets- og høyskoleloven og fagskoleloven, der tilskuddet og skolepengene i sin helhet skal komme elevene eller studentene til gode.
-Det framgår imidlertid av andre punktum at
-barnehagen «kan ha et rimelig årsresultat». Det
-betyr at barnehagen kan ha et overskudd som barnehagen kan disponere fritt.
-I tredje punktum er det fastsatt at årsresultatet
-skal anses som rimelig dersom de tre kumulative
-vilkårene i bokstavene a – c er oppfylt. Systematikken i bestemmelsen er altså slik at dersom barnehagen har brukt tilskuddet og foreldrebetalingen i
-tråd med kravene i bokstavene a, b og c, skal årsresultatet anses som rimelig. Barnehagen kan
-dermed disponere årsresultatet fritt, for eksempel
-ved å utdele utbytte til barnehageeieren.
-
-8.2.1.2 Bokstav a
-Bokstav a fastslår at barnehagen bare kan belastes kostnader «som direkte vedrører godkjent
-drift av barnehagen». Det betyr at alle transaksjoner som kostnadsføres i barnehagens resultatregnskap, må være direkte knyttet til den driften som kommunen har godkjent etter barnehageloven. Transaksjoner som gjelder annen virksomhet eller andre barnehager, skal i sin helhet
-holdes utenfor regnskapet.
-Departementet er kjent med at det har vært
-noe uklarhet rundt spørsmålet om barnehagen
-kan belastes kostnader for oppkjøp av andre barnehager. Departementet vil derfor presisere at det
-vil være i strid med vilkåret i bokstav a å belaste
-barnehagen slike kostnader. Dette gjelder også
-
-[Side 80]
-
-78
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-renter og avdrag på lån som finansierer oppkjøp
-av barnehager.
-
-8.2.1.3 Bokstav b
-Det følger av bokstav b at barnehagen ikke overfor eier, eiers nærstående eller selskap i samme
-konsern som eier, kan foreta transaksjoner og
-belastes kostnader «på vilkår eller med beløp som
-avviker fra eller overstiger det som ville vært fastsatt mellom uavhengige parter». Med «eiers nærstående» forstås nærstående som nevnt i aksjeloven § 1-5 første ledd. Med «konsern» forstås selskaper som står i et slikt forhold til hverandre som
-beskrevet i aksjeloven § 1-3.
-I merknaden til bestemmelsen i Prop. 98 L
-(2011 – 2012) er det presisert at bestemmelsen
-innebærer at barnehagens vederlag i transaksjoner med eier, eiers nærstående eller selskap i
-samme konsern som eier, ikke kan overstige
-alminnelige forretningsmessige vilkår og prinsipper for prisfastsettelse mellom uavhengige parter.
-Barnehagen må derfor dokumentere at transaksjonen ikke innebærer en overkompensasjon for
-den ytelsen som barnehagen har kjøpt. Det betyr
-at barnehagen må dokumentere at prisen ville
-vært på samme nivå dersom transaksjonen hadde
-blitt gjennomført mellom uavhengige parter. Barnehagen må også dokumentere at det ikke er inngått andre avtaler, slik som for eksempel avtaler
-om lån, på vilkår som er mer gunstige for eier,
-eiers nærstående eller selskap i samme konsern
-som eier, enn markedsvilkårene.
-Bestemmelsen innebærer at barnehagen må
-dokumentere at transaksjonen i det hele tatt ville
-ha funnet sted mellom uavhengige parter. Barnehagen kan derfor ikke kjøpe inn varer eller tjenester fra eier, eiers nærstående eller selskap i
-samme konsern som eier, som overstiger barnehagens behov. Dette gjelder også selv om prisen
-tilsvarer markedspris.
-8.2.1.4 Bokstav c
-Bokstav c fastslår at barnehagen «ikke kan ha
-vesentlig lavere personalkostnader per heltidsplass enn det som er vanlig i tilsvarende kommunale barnehager». Bestemmelsen er ment å sikre
-at barnehagen ikke sparer kostnader ved å ha
-lavere bemanning eller dårligere lønns- og
-arbeidsvilkår enn tilsvarende kommunale barnehager.
-I merknaden til bestemmelsen i Prop. 98 L
-(2011 – 2012) er det presisert at bestemmelsen gir
-rom for at private barnehager kan ha en annen
-
-2019–2020
-
-personalsammensetning og lønnsstruktur enn tilsvarende kommunale barnehager. Bestemmelsens vurderingstema er derfor kun om barnehagens personalkostnader er vesentlig lavere per
-heltidsplass. Barnehagens personalkostnader per
-heltidsplass skal sammenlignes med kommunens
-personalkostnader per heltidsplass i tilsvarende
-barnehager. Dersom kommunen ikke har kommunale barnehager, skal barnehagens personalkostnader sammenlignes med det tallmaterialet
-som ligger til grunn for beregningen av nasjonale
-satser.
-Fra 1. august 2018 ble det innført en bemanningsnorm i barnehageloven § 18. Fra samme
-tidspunkt ble det også innført en skjerpet pedagognorm i forskrift om pedagogisk bemanning og
-dispensasjon i barnehager § 1. Departementet er
-kjent med at det har vært noe uklarhet rundt
-spørsmålet om de nasjonale normene innebærer
-at det ikke lenger skal gjøres en konkret sammenligning mellom barnehagens personalkostnader
-og kommunens personalkostnader i tilsvarende
-barnehager. Departementet vil derfor understreke at normene ikke har betydning for den vurderingen som skal gjøres etter § 14 a bokstav c.
-Dersom kommunen har høyere personalkostnader enn det som er nødvendig for å oppfylle normene, må barnehagen derfor dokumentere at barnehagens personalkostnader ikke er vesentlig
-lavere.
-Formuleringen «vesentlig lavere» innebærer
-at det ikke er tilstrekkelig at det foreligger en differanse mellom barnehagens kostnader og kommunens kostnader i tilsvarende barnehager. Differansen må også være av en viss størrelse. Vurderingen av hvor mye som skal til for å anse differansen som vesentlig, vil være opp til kommunens
-skjønn.
-Fra 2016 skal kommunens pensjonsutgifter
-ikke lenger tas med i grunnlaget for beregningen
-av driftstilskuddet til de private barnehagene. I
-stedet skal kommunen gi et påslag for pensjonsutgifter som tilsvarer 13 prosent av lønnsutgiftene i
-de kommunale barnehagene, fratrukket pensjonsutgift og arbeidsgiveravgift på pensjonsutgiften. I
-og med at pensjonsutgifter nå skal holdes utenfor
-tilskuddsutmålingen, skal pensjonskostnadene
-også holdes utenfor beregningen av personalkostnaden per heltidsplass etter bokstav c.
-
-8.2.1.5 Krav til dokumentasjon og rapportering
-Rapporten fra Agenda Kaupang om kommunenes
-erfaring med å drive økonomisk tilsyn med private barnehager (rapport nr. R9607, 2017), viser at
-
-[Side 81]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-enkelte kommuner oppfatter det som uklart om
-det er tilsynsmyndigheten eller barnehagen som
-har bevisbyrden for at kravene i § 14 a og tilhørende forskrift er oppfylt. Departementet vil derfor bemerke at det framgår av § 14 a tredje ledd at
-barnehageeieren skal kunne dokumentere at tilskuddet og foreldrebetalingen er brukt i samsvar
-med kravene i første ledd bokstavene a, b og c.
-Tilsynsmyndigheten kan til enhver tid kreve
-de opplysningene og den dokumentasjonen som
-er nødvendig for å føre tilsyn med disse kravene.
-Barnehageeieren skal for eksempel kunne redegjøre for hvorfor en kostnad er relevant for barnehagedriften. Hvis barnehagen har handlet med
-nærstående, skal barnehageeieren også kunne
-redegjøre for behovet for transaksjonen, prisfastsettingen og andre forhold som kan være av
-betydning for om vilkårene er markedsmessige.
-Departementet har fastsatt utfyllende krav til
-dokumentasjon og rapportering i økonomiforskriften til barnehageloven.
-
-8.2.2 Relevant regelverk
-Friskoleloven
-Det følger av friskoleloven § 6-3 at:
-«Alle offentlege tilskot og skolepengar skal
-kome elevane til gode. Dette inneber mellom
-anna at skolen ikkje kan
-a) gi utbytte eller på annan måte overføre
-overskot til eigarane eller deira nærståande, verken når skolen er i drift eller om
-drifta blir nedlagd
-b) pådra seg kostnader i form av leigeutgifter
-for eigedom eller lokale som tilhører skolens eigarar eller deira nærståande eller på
-anna måte pådra seg kostnader som kan
-innebere at alle offentlege tilskot eller
-eigendelar frå elevane ikkje kjem elevane til
-gode.
-Departementet kan gi nærare forskrift om
-forbod mot utbytte eller anna overføring som
-nemnt i første ledd.
-Departementet kan gi forskrift om korleis
-skolane skal dokumentere at første ledd er oppfylt og skolane si plikt til å godtgjere at innkjøp
-og leige er gjort på grunnlag av vilkåra i
-marknaden.»
-Bestemmelsen om at alle offentlige tilskudd og
-skolepenger skal komme elevene til gode er en
-sentral regel i forvaltningen av offentlig finansierte friskoler og kom inn allerede i den første fri-
-
-79
-
-skoleloven av 1970. Regelen er videreført i alle
-etterfølgende lover om private skoler.
-I friskoleloven er kravet om at alle offentlige
-tilskudd og skolepenger skal komme elevene til
-gode, et selvstendig krav som alle skolens disposisjoner skal vurderes opp mot. Kravet er nærmere
-konkretisert i første ledd bokstavene a og b. Friskoleloven § 6-3 er ikke uttømmende i sin beskrivelse av hvilke overskudds- og kostnadsdisposisjoner som er forbudt, jf. lovens ordlyd «mellom
-anna».
-Det er gjennom fast forvaltningspraksis lagt til
-grunn at § 6-3 innebærer at alle kostnader som
-pådras og finansieres gjennom statstilskudd og
-skolepenger, må være relevante for skolevirksomheten. Det framgår av Ot.prp. nr. 37 (2006 – 2007)
-kapittel 10.2.3 at skolevirksomhet er virksomhet
-som er formålstjenlig eller nødvendig for å nå
-målene i læreplanen som skolen skal følge.
-Det er presisert i friskoleloven § 6-3 bokstav a
-at kravet om at tilskuddet i sin helhet skal komme
-elevene til gode, blant annet innebærer at det ikke
-kan gis utbytte eller foretas andre utdelinger til
-skolens eier eller nærstående. Det er videre presisert at skolen heller ikke på andre måter kan overføre overskudd til eierne eller nærstående.
-Bestemmelsen innebærer et forbud mot alle former for åpne eller skjulte uttak av verdier.
-Universitets- og høyskoleloven
-Universitets- og høyskoleloven har ulike regler for
-private høyskoler som mottar og ikke mottar
-offentlige tilskudd. Det følger av universitets- og
-høyskoleloven § 8-3 tredje ledd at private høyskoler som mottar tilskudd, skal la tilskudd og studentenes egenbetaling «komme studentene til
-gode». På samme måte som i friskoleloven er
-dette et selvstendig krav som skolens disposisjoner skal vurderes opp mot, noe som også presiseres i merknadene til bestemmelsen, jf. Prop. 44 L
-(2016 – 2017). Bestemmelsen fastsetter videre at
-private høyskoler som mottar statstilskudd, ikke
-kan foreta utdelinger. Dette omfatter alle former
-for åpne eller skjulte uttak av verdier fra driften.
-Utdelingsforbudet gjelder for hele virksomheten,
-og omfatter dermed også eventuell annen virksomhet enn høyskoledrift som drives i samme
-rettssubjekt.
-Private høyskoler som ikke mottar tilskudd,
-kan ta utbytte eller foreta andre utdelinger av et
-positivt årsresultat. Det er likevel fastsatt at
-utdelingene ikke kan medføre at egenkapitalen
-blir lavere enn 20 prosent av eiendelene i virksomheten, jf. § 8-3 fjerde ledd. Videre skal alle private
-
-[Side 82]
-
-80
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-høyskoler benytte studentenes egenbetaling til
-den akkrediterte utdanningen og innenfor lovens
-formål, uavhengig av om høyskolen mottar tilskudd eller ikke, jf. universitets- og høyskoleloven
-§ 8-3 andre ledd.
-
-8.2.3 Høringsforslaget
-I høringsnotatet foreslo departementet at setningen om at offentlige tilskudd og foreldrebetaling
-skal komme barna i barnehagen til gode, framheves i en egen formålsbestemmelse. Det betyr at
-denne setningen ikke lenger vil framgå av samme
-bestemmelse som kravene i nåværende § 14 a første ledd bokstavene a til c. Spørsmålet om tilskuddet og foreldrebetalingen kommer barna i barnehagen til gode, vil være et relevant tolkningsmoment når man vurderer om barnehagen har brukt
-tilskuddet og foreldrebetalingen i tråd med kravene i nåværende § 14 a første ledd bokstavene a)
-til c).
-Departementet foreslo at det ikke gjøres
-andre innholdsmessige endringer i bestemmelsen
-om hvordan barnehagene skal bruke tilskuddet
-og foreldrebetalingen.
-I høringsnotatet foreslo departementet også at
-det utarbeides en statlig veileder om bruk av
-offentlige tilskudd og foreldrebetaling.
-8.2.4 Høringsuttalelser
-Det er 74 høringsinstanser som har uttalt seg om
-forslaget. Av disse er det 66 instanser som støtter
-forslaget. Dette inkluderer 36 kommuner, 6 fylkesmenn, 8 organisasjoner og 13 private barnehager.
-Det er kun 3 instanser som ikke støtter forslaget.
-Hovedbegrunnelsen til disse er at de ønsker at det
-skal innføres strengere krav til bruk av tilskudd
-og foreldrebetaling. De resterende 5 instansene
-har innspill uten at det gis uttrykkelig uttrykk for
-om de støtter forslaget eller ikke.
-Et stort antall kommuner støtter forslaget om
-å opprette en egen formålsbestemmelse, og la vilkårene i dagens § 14 a første ledd bokstav a – c
-fremgå av en egen bestemmelse. Også en rekke
-fylkesmenn støtter denne rettstekniske endringen, blant annet Fylkesmannen i Troms og Finnmark, Fylkesmannen i Innlandet og Fylkesmannen
-i Rogaland. Fylkesmannen i Oslo og Viken støtter
-også forslaget om en egen formålsbestemmelse.
-Samtidig peker de på at behovet for denne endringen nødvendigvis ikke er like stor dersom et
-nasjonalt organ overtar tilsynsoppgaven.
-Enkelte høringsinstanser som støtter forslaget
-om egen formålsbestemmelse, påpeker samtidig
-
-2019–2020
-
-at reglene for bruk av offentlige tilskudd og foreldrebetaling bør tydeliggjøres. Private Barnehagers
-Landsforbund (PBL) er blant organisasjonene som
-støtter forslaget om å tydeliggjøre regelverket ved
-å lage en egen formålsbestemmelse. Samtidig
-mener PBL at det fremdeles må framgå av lovteksten at barnehager kan ha et rimelig årsresultat.
-PBL mener videre det er behov for å definere hva
-et rimelig årsresultat skal være. PBL mener at
-dette vil kunne sikre trygghet for at offentlige tilskudd og foreldrebetaling kommer barna til gode,
-og gi et avklart handlingsrom for private barnehager til utvikling og bærekraftig drift.
-Enkelte høringsinstanser har innspill til de
-ulike vilkårene knyttet til bruk av tilskudd og foreldrebetaling, jf. dagens § 14 a første ledd bokstav
-a – c.
-PBL viser til høringens omtale av vilkåret i
-bokstav b, hvor departementet skriver at barnehagen må dokumentere at transaksjonen ville funnet sted mellom uavhengige parter, og at transaksjonen ikke overstiger barnehagens behov. PBL
-skriver:
-«PBL forutsetter at private barnehager ikke
-skal kjøpe varer og tjenester hos nærstående
-som ikke er relevant for godkjent barnehagedrift. Dette er også regulert i barnehageloven.
-Vi mener imidlertid at departementet med
-disse uttalelsene trekker lovforståelsen lengre
-enn det som kan utledes gjennom dagens lovgivning. Et utgangspunkt i dagens lov er at eier
-har frihet til selv å organisere virksomheten.
-Eier vurderer barnehagens behov og velger
-ønskede tiltak. … PBL anbefaler at bestemmelsen klargjør prinsippet om at eier selv organiserer egen virksomhet.»
-Utdanningsforbundet støtter forslaget om en egen
-formålsbestemmelse, men mener at departementet i større grad burde drøftet om kravene i § 14 a
-fungerer etter hensikten. Utdanningsforbundet
-stiller blant annet spørsmål ved om kravet til personalkostnader sikrer at barnehager ikke har
-vesentlig lavere bemanning enn kommunale barnehager, og at alle ansatte har akseptable lønnsog arbeidsvilkår. Utdanningsforbundet savner en
-problematisering av at § 14 a kun er rettet mot
-den enkelte barnehage, og en drøfting om hvorvidt dette er problematisk sett opp mot at mange
-barnehager inngår i kjeder, og hvilke eventuelle
-endringer dette krever.
-Espira gruppen AS kommenterer også særlig
-vilkåret i dagens § 14 a første ledd bokstav c om
-personalkostnader, og skriver:
+## Aktivitetsplikt når barn ikke har et trygt og godt barnehagemiljø
+
+### Gjeldende rett
+
+Barnehageloven har ikke bestemmelser som direkte regulerer barns psykososiale barnehagemiljø eller personalets plikt til å handle. Ut fra formålsbestemmelsen og øvrige bestemmelser kan det likevel indirekte utledes at barn skal ha et trygt og godt miljø i barnehagen. Det følger av rammeplanen at personalet skal «forebygge, stoppe og følge opp diskriminering, utestenging, mobbing, krenkelser og uheldige samspillsmønstre».
+
+Kunnskap om barnegruppens og enkeltbarns trivsel og allsidige utvikling, er viktig for å gi alle barn et tilrettelagt tilbud i tråd med barnehageloven og rammeplanen. Derfor følger det av rammeplanen at barnehagen skal observere og vurdere barnets trivsel og allsidige utvikling fortløpende. Observasjonene og vurderingene skal gjøres med utgangspunkt i barnets individuelle forutsetninger og kunnskap om barns utvikling og behov. Barnets erfaringer og synspunkter er en del av det helhetlige bildet.
+
+Dokumentasjon av det pedagogiske arbeidet skal inngå i barnehagens arbeid med å planlegge, vurdere og utvikle den pedagogiske virksomheten. Dokumentasjonen skal vise hvordan personalet arbeider for å oppfylle kravene i barnehageloven og rammeplanen. Barnehagen skal dokumentere vurderinger av barnegruppens og enkeltbarns trivsel og allsidige utvikling når det er nødvendig for å gi barnegruppen og enkeltbarn et tilrettelagt tilbud.
+
+### Høringsforslaget
+
+Departementet foreslo å lovfeste en aktivitetsplikt for barnehagen for å sikre at alle barn har et trygt og godt psykososialt barnehagemiljø. Aktivitetsplikten består av flere delplikter. Departementets forslag innebærer at alle som jobber i barnehagen, skal *følge med* på om barna har et trygt og godt barnehagemiljø og *varsle* styrer ved mistanke om eller kjennskap til at et barn ikke har et trygt og godt barnehagemiljø. Forslaget innebærer også en plikt for styrer til å varsle barnehageeier i alvorlige tilfeller.
+
+Departementet foreslo at barnehagen skal ha plikt til å *undersøke* saken ved mistanke om, eller kjennskap, til at et barn ikke har et trygt og godt barnehagemiljø.
+
+Videre foreslo departementet at barnehagen skal ha plikt til å *sette inn tiltak* for å sikre at barnet kan ha et trygt og godt barnehagemiljø. Plikten til å sette inn tiltak gjelder der barnehagens undersøkelse avdekker at barnet ikke har et trygt og godt barnehagemiljø, og der barnet selv eller foreldrene sier ifra om det samme. Plikten til å sette inn tiltak skal gjelde så lenge barnet ikke har et trygt og godt barnehagemiljø, og det finnes egnede tiltak som barnehagen kan sette inn. Det kan være tilfeller der aktivitetsplikten er oppfylt selv om barnet og foreldrene fremdeles ikke er fornøyd med barnehagemiljøet. Dette vil være tilfellet hvis barnehagen har gjort alt som med rimelighet kan forventes, og barnehagens planer for videre tiltak er i samsvar med et godt faglig skjønn.
+
+Det ble foreslått innført en *skjerpet aktivitetsplikt* ved mistanke om, eller kjennskap til, at en som jobber i barnehagen, krenker et barn. Den skjerpede aktivitetsplikten innebærer at styrer og barnehageeier alltid skal varsles i slike tilfeller, og at undersøkelser og tiltak skal iverksettes straks.
+
+### Høringsuttalelsene
+
+Det er 142 høringsinstanser som har kommentert departementets forslag om å innføre en aktivitetsplikt med flere delplikter. 114 av disse høringsinstansene støtter forslaget, mens 8 støtter det ikke. 20 av høringsinstansene har ikke tatt stilling til forslaget, men gitt kommentarer.
+
+Innspill til forslaget om å innføre en aktivitetsplikt
+
+7 fylkesmenn, 60 kommuner, 12 barnehager eller barnehagekjeder, *Barneombudet, Statped, Dronning Mauds Minne Høgskole, Nasjonalt senter for læringsmiljø og atferdsforskning, Senter for Barnehageforskning, Universitetet i Sørøst-Norge, Elev-, lærling- og mobbeombudene, Forandringsfabrikken, Reform – ressurssenter for menn, Redd Barna, UNICEF, ADHD Norge, Dysleksi Norge, Funksjonshemmedes fellesorganisasjon, Hørselshemmedes landsforbund, Norsk forbund for utviklingshemmede, KS, Utdanningsforbundet, Skolelederforbundet* og *Steinerbarnehageforbundet* er blant høringsinstansene som støtter forslaget om å innføre en aktivitetsplikt. *Private Barnehagers Landsforbund (PBL)* uttaler generelt at de støtter forslag til regler om nye og tydelige plikter for barnehagens arbeid med å sikre barnas rett til et trygt og godt psykososialt miljø. De fleste som støtter forslaget begrunner dette med at loven bør inneholde tydelige og konkrete plikter for barnehagen der et barn ikke har det trygt og godt.
+
+*Sametinget* skriver at de støtter formålet med de foreslåtte endringene i barnehageloven, og at de mener at et klarere regelverk vil være med på å forplikte både barnehageeiere og personalet i barnehagene til å forebygge, gripe inn og følge opp krenkelser, mobbing og utenforskap i barnehagene. De påpeker at det fortsatt er samiske barn som opplever diskriminering på grunn av at de snakker samisk i barnehagen. Sametinget er kritisk til at det ikke er skrevet noe om verken samisk språk, kultur eller samiske barns rettigheter i høringsforslaget. De viser til at samisk språk og kultur nevnes eksplisitt og er gjennomgående i rammeplanen.
+
+*Gjøvik kommune*, *Holmestrand kommune*, *Samvirkebarnehagene*, *Organisasjon for private barnehager i Larvik*, *Pedagoger i Natveitåsen barnehage*, *Utdanningsforbundet Trondheim*, *Utdanningsforbundet Melhus* og en anonym person støtter ikke forslaget. Flesteparten av disse instansene viser til at mobbing ikke kan forebygges av regelverk eller at dette allerede er tilstrekkelig regulert gjennom rammeplanen. Noen viser til at det heller trengs mer kompetanse og bedre bemanning. De viser til at barnehager med høy kvalitet allerede gjør det som foreslås lovregulert. Videre er de bekymret for at kravene gir vesentlig merarbeid og dokumentasjon.
+
+Av de høringsinstansene som har gitt kommentarer til forslaget uten å ta stilling til det, er det en del som fremhever at de i utgangspunktet er positive til forslagene, men at det må ses i sammenheng med at skriftlig dokumentasjon og oppfølging av barn, foresatte, personal etc. tar tid. De viser til at forslaget får konsekvenser for blant annet pedagognorm, bruk av plantid og styrers arbeidsmengde. Enkelte mener at forslaget bør utløse krav om full bemanning gjennom hele dagen. For eksempel skriver *Barnehageopprøret* at mobbing forebygges ved at det er kvalifiserte ansatte tilstede i det direkte arbeidet med barna og som kan utføre inkluderende og veiledende praksis. Barnehageopprøret viser til at mobbeforebyggende arbeid er allerede definert gjennom rammeplanen.
+
+*Justis- og beredskapsdepartementet* skriver at det bør vurderes hva den nedre terskelen for at et barn ikke har det «trygt og godt» skal være. De stiller seg også spørrende til om det i tilstrekkelig grad er tatt høyde for at det bør være proporsjonalitet mellom barnets problemer og aktivitetspliktene som inntrer. *Sarpsborg kommune* ber departementet vurdere om barnets subjektive opplevelse alltid skal ligge til grunn.
+
+Noen høringsinstanser, som for eksempel *Rælingen kommune*, *Namsos kommune*, *Aurskog-Høland* *kommune*, *Sandnes kommune* og *KS* mener det ikke i tilstrekkelig grad er problematisert hvordan barnehagen skal forholde seg til saker der flere barn inngår i mulige aktiviteter for å sikre et enkeltbarn et trygt og godt barnehagemiljø. Tiltak mot enkeltbarn kan også potensielt komme i konflikt med barns rett til medvirkning og hensynet til barns beste.
+
+*Hol kommune*, *Nes kommune*, *Gol kommune* og *Ål kommune* mener at begrepet «aktivitetsplikt» bør endres til «handlingsplikt». *Bodø kommune* mener det bør fremkomme av overskriften at barnehagemiljøet skal være inkluderende. Noen, deriblant Justis- og beredskapsdepartementet, stiller også spørsmål ved om alle delpliktene bør omfatte alle som arbeider eller yter tjeneste i barnehagen, samtidig som andre trekker det frem som positivt at dette er personkretsen som skal være omfattet av delpliktene.
+
+Noen av høringsinstansene mener det er avgjørende at endringene følges opp med å samtidig øke kunnskapen om barns utvikling hos barnehagelærere og andre som jobber i barnehagen. Flere mener det bør lages en veileder for hvordan barnehagen skal følge opp aktivitetsplikten. Noen høringsinstanser, inkludert Barneombudet, trekker frem at foreldre bør informeres om regelverket og hvor saken kan meldes.
+
+Innspill til de konkrete delpliktene
+
+Noen av høringsinstansene har gitt kommentarer til de konkrete delpliktene som aktivitetsplikten skal bestå av. Når det gjelder *plikten til å varsle styrer*, ber *Barneombudet* departementet om å vurdere om «varsle» bør endres til «melde fra». Det kan ifølge ombudet være en mer riktig beskrivelse av hva det er snakk om, og kan bidra til at det ikke blir blandet sammen med varsling etter arbeidsmiljøloven.
+
+Departementet foreslo også at barnehagen skal ha en *plikt til å varsle barnehageeier* i alvorlige tilfeller. Flere av høringsinstansene ber om en klargjøring av hva som ligger i «alvorlige tilfeller».
+
+Noen høringsinstanser trekker frem at det er positivt at undersøkelsesplikten også inntrer når foreldre mener at deres barn ikke har et trygt og godt barnehagemiljø, men enkelte påpeker at det er uklart hvor langt barnets og foreldrenes muligheter til å kreve undersøkelser strekker seg. *Funksjonshemmedes fellesorganisasjon* trekker frem at det er viktig at det at barnet «sier ifra» må tolkes vidt, og at det må sørges for at barn uten taleevne eller som har vanskeligheter med å formulere seg, blir tilstrekkelig ivaretatt. *Fylkesmannen i Troms og Finnmark* mener det bør vurderes en tidsfrist på fem dager fra foreldre har tatt opp med barnehagen at barnet ikke har et trygt og godt barnehagemiljø til barnehagen oppfyller sin aktivitetsplikt.
+
+Når det gjelder *plikten til å sette inn egnede tiltak*, er det noen av høringsinstansene som mener at høringsnotatet ikke i tilstrekkelig grad skisserer problemet som oppstår når en barnehage ikke tar tak i problemer, eller når tiltakene barnehagene iverksetter ikke har den ønskede effekt. Noen mener det bør presiseres at tiltakene skal være faglig fundert, og at skal fremgå at systemrettede tiltak alltid skal være vurdert før man setter inn individrettede tiltak. De fleste støtter kravet om en aktivitetsplan, og enkelte har innspill til hva denne planen bør inneholde. Noen etterspør presiseringer knyttet til tverrfaglig samarbeid. *Datatilsynet* og *Utdanningsforbundet* mener det bør fremgå at behandling av følsomme opplysninger knyttet til enkeltbarn må forbeholdes enkeltsaker hvor forvaltningslovens saksbehandlingsregler og partsrettigheter gjelder som rettsikkerhetsgaranti.
+
+Flere av høringsinstansene er opptatt av hvordan de ansattes rettsvern skal sikres i forbindelse med forslaget om en *skjerpet aktivitetsplikt der en ansatt krenker barn*. Utdanningsforbundet støtter at det innføres en slik plikt, men mener at det er behov for at bestemmelsen tydeliggjøres. De viser til utfordringene knyttet til praktiseringen av bestemmelsen om skjerpet aktivitetsplikt som pekes på i evalueringen av opplæringsloven kapittel 9 A, og stiller spørsmål ved om det er hensiktsmessig at styrer skal melde fra til barnehageeier allerede hvor det foreligger mistanke om at en ansatt krenker et barn. De mener at deres erfaringer fra skolemiljøfeltet tilsier at alt for mange saker meldes til kommunen og eskalerer før det er foretatt tilstrekkelige undersøkelser i saken. Forbundet mener derfor at det bør tydeliggjøres i loven at styrer skal undersøke saken før den eventuelt meldes til den som er barnehageeier.
+
+Flere høringsinstanser påpeker at det er viktig å kunne gripe inn i situasjoner uten å bli oppfattet som krenkende. En del høringsinstanser mener at det er noe motstridende tekst i høringsnotatet når det gjelder betydningen av barnets subjektive opplevelse, og flere ber også om en nærmere avklaring av begrepet krenkelser. Flere støtter at ytringer som skal regnes som en del av et akseptabelt sosialt samspill ikke skal regnes som krenkelser. *Bergen kommune* mener at det bør gjøres en avgrensning i lovteksten når det gjelder hva som utløser den skjerpede aktivitetsplikten, og hva som går inn under det ordinære veiledningsansvaret som ligger hos styrer og pedagogisk leder i rammeplanen.
+
+Noen høringsinstanser mener departementet bør tydeliggjøre forholdet til arbeidsmiljøloven. Elev- lærling- og mobbeombudene anbefaler at det utarbeides felles retningslinjer med Arbeidstilsynet og partene i arbeidslivet om dette temaet. Noen er også svært bekymret for samarbeidet og arbeidsmiljøet mellom ansatte på avdeling og på tvers av i kjølevannet av en slik endring.
+
+Når det gjelder forslaget om å ikke innføre en ny *generell dokumentasjonsplikt* er høringsinstansene veldig delt. Mange trekker dette frem som positivt da de er enige i at dagens krav sammen med et nytt krav om å lage en aktivitetsplan er tilstrekkelig. Barneombudet er blant dem som støtter at det ikke er behov for en ny dokumentasjonsplikt. Samtidig mener PBL og mange andre at det bør innføres minimumskrav til dokumentasjon tilsvarende det som gjelder etter opplæringsloven kapittel 9 A.
+
+### Departementets vurderinger
+
+#### En aktivitetsplikt som skal sikre at barn har et trygt og godt psykososialt barnehagemiljø
+
+Departementet mener at det bør innføres en aktivitetsplikt tilsvarende den som er gitt i opplæringsloven. Formålet med en slik aktivitetsplikt er å bidra til at alle barnehagebarn opplever at barnehagen er et sted der det er trygt og godt å være og et miljø der de opplever tilhørighet, mestring og trivsel. Det er dette barnehagen må realisere. Etter departementets syn må barnehagen ha en klar forpliktelse til å reagere i alle tilfeller der et enkeltbarn eller flere barn i en barnegruppe ikke har et trygt og godt barnehagemiljø. Et stort flertall av høringsinstansene støtter dette.
+
+Flere av høringsinstansene som ikke støtter forslaget om å gi barnehagen en aktivitetsplikt, mener at barnehagens plikter for å sikre at barna har et trygt og godt psykososialt barnehagemiljø er tilstrekkelig regulert i rammeplanen. Departementet mener at det sammenlignet med reglene som gjelder på skoleområdet, ikke går like tydelig frem av rammeplanen hva barnehagepersonalet har plikt til å gjøre for å sikre at barna har et trygt og godt barnehagemiljø. Departementet mener det er behov for flere og mer spesifikke plikter som presiserer hva barnehagen skal gjøre for å fange opp, og følge opp, barn som ikke har et trygt og godt barnehagemiljø. For å understreke betydningen av aktivitetsplikten mener departementet at den bør fremgå av barnehageloven.
+
+Departementet understreker at barnehagens aktivitetsplikt gjelder på lik linje for samiske barn som for alle andre barn. Barnehagen skal ifølge rammeplanen synliggjøre samisk kultur og bidra til at barna kan utvikle respekt og fellesskapsfølelse for det samiske mangfoldet. Samtidig skal barnehagen bidra til at språklig mangfold blir en berikelse for hele barnegruppen, støtte flerspråklige barn i å bruke sitt morsmål og aktivt fremme og utvikle barnas norske eller samiskspråklige kompetanse.
+
+Aktivitetsplikten skal være knyttet til spørsmålet om *barna har et trygt og godt psykososialt barnehagemiljø*. Noen av høringsinstansene påpeker at det bør være en nedre terskel for hva som skal til for at et barn ikke har et trygt og godt psykososialt barnehagemiljø, og mener at departementet må klargjøre hva som skal til for at barnehagens aktivitetsplikt setter inn.
+
+Departementet understreker at det er når barnet, eller barna i de ulike barnegruppene, ikke har et trygt og godt psykososialt barnehagemiljø at delpliktene trer inn. Dette vil være en annen terskel enn hva som utløser plikten til å gripe inn og den skjerpede aktivitetsplikten fordi det da må foreligge en krenkelse. Det kan oppstå tilfeller der ansatte må gripe inn for å stanse en verbal eller fysisk krenkelse, men det betyr ikke i seg selv at barnet som ble krenket ikke opplever det psykososiale barnehagemiljøet som trygt og godt. Et barn kan for eksempel oppleve å bli slått eller bitt av et annet barn som en enkelthendelse i barnehagen. I slike tilfeller har de som arbeider i barnehagen plikt til å gripe inn for å stanse krenkelsen, men det er ikke gitt at det i det konkrete tilfellet er grunn til å mistenke at barnet ikke har et trygt og godt psykososialt barnehagemiljø. Aktivitetsplikten gjelder hvis det er grunn til å mistenke at barnet ikke har et trygt og godt barnehagemiljø på en mer generell basis enn den aktuelle hendelsen isolert sett, eller hvis barnet selv eller foreldrene sier ifra om dette. En hendelse med en verbal eller fysisk krenkelse, kan være et uttrykk for at barnet ikke har et trygt og godt psykososialt barnehagemiljø, men det trenger ikke nødvendigvis å være det. Departementet viser til at barnehagebarn er i en alder hvor egenskaper som empati og intensjon, og forståelsen av egne handlingers konsekvenser, ikke er ferdig utviklet. Et barn som slår, kan vel så gjerne forsøke å få kontakt med den andre som å ha en intensjon om å plage eller skade den andre.
+
+Videre vil foreldrene ofte ha en løpende dialog med barnehagen om enkeltstående situasjoner eller hendelser i barnehagen. Så lenge det ikke er en bekymring for barnets psykososiale miljø mer generelt, vil ikke dette innebære at barnehagens aktivitetsplikt trer inn. Vanligvis er det også en løpende dialog mellom foreldre og ansatte i barnehagen om mer alminnelige utfordringer barnet har i barnehagen. Et eksempel er tilfeller der foreldrene er bekymret for om barnet sover nok på dagen fordi de opplever at barnet er veldig sliten etter barnehagen. Med mindre det er grunn til å mistenke at søvnproblemene skyldes at barnet ikke opplever barnehagemiljøet som trygt og godt, er ikke dette ment å omfattes av den foreslåtte aktivitetsplikten. Det samme gjelder for eksempel dersom barnet i en periode ikke vil spise enkelte matvarer, eller ikke vil sitte ved bordet under måltidene. Små barn kan gå igjennom slike perioder hvor det er behov for ekstra dialog med foreldre uten at utfordringene har som årsak at barnet ikke har et trygt og godt psykososialt barnehagemiljø.
+
+I tillegg til generelle, grunnleggende faktorer som er viktige for at barn skal ha det trygt og godt i barnehagen, må de ansatte ta hensyn til at barn har ulike individuelle behov. De ansatte må bli kjent med barna og barnas foreldre for å forstå hvilke behov det enkelte barnet har. Vurderingen av om et barn har et trygt og godt barnehagemiljø skal bygge på den virkningen barnehagemiljøet faktisk har på det enkelte barnet eller barna i barnegruppen. Noen barn kan ha en særskilt sårbarbarhet som gjør dem mer utsatt for å komme i en situasjon der de ikke har et trygt og godt barnehagemiljø. Slik sårbarhet kan være knyttet til for eksempel barnets funksjonsevne, at barnet har atferdsvansker, eller forhold ved barnets familie- og hjemmesituasjon. Personlige forhold ved det enkelte barnet kan gjøre at barnet er særlig sårbart. Det kan være personlige forhold knyttet til for eksempel barnets religion, seksuelle orientering, kjønnsuttrykk, funksjonsevne, til at barnet har atferdsvansker eller sosio-emosjonelle vansker, eller til forhold ved barnets familie- og hjemmesituasjon. Barn som tidligere har vært utsatt for krenkelser, kan være særskilt sårbare.
+
+Det er barnets egen opplevelse som skal legges til grunn når barnehagen skal ta stilling til om barnet har et trygt og godt barnehagemiljø. Hvis et barn eller foreldrene gir uttrykk for at barnet ikke har et trygt og godt barnehagemiljø, skal barnehagen legge dette til grunn. Barnehagen kan ikke avvise barnets eller foreldrenes påstand om at det ikke er et trygt og godt barnehagemiljø ved å vise til at de andre barna opplever miljøet som godt eller at barnehagens ansatte ikke har vært vitne til krenkelser. Samtidig kan det være tilfeller der barnet ikke har et trygt og godt barnehagemiljø selv om barnet selv eller foreldrene ikke har tatt opp dette. Dette kan for eksempel være i tilfeller der barnehagen etter eget initiativ har undersøkt en sak, og kommet til at barnet ikke har et trygt og godt barnehagemiljø.
+
+Departementet påpeker at det kan være mange ulike og sammensatte årsaker til at et barn ikke har et trygt og godt barnehagemiljø. At barnet ikke har et trygt og godt barnehagemiljø trenger ikke bety at barnehagen har gjort noe galt.
+
+At årsaken til barnets utrygghet ligger utenfor barnehagen eller tilbake i tid, skal ikke avgrense aktivitetsplikten. Aktivitetsplikten skal tre inn selv om årsaken til at barnet ikke har et trygt og godt barnehagemiljø skyldes forhold eller hendelser som har skjedd utenfor barnehagen eller tilbake i tid. Det avgjørende er om en eller flere hendelser påvirker barnets barnehagemiljø, relasjonen mellom barna eller relasjonen mellom barnet og ansatte, på en slik måte at barnet ikke har det trygt og godt når det er i barnehagen.
+
+Departementet anbefaler å opprettholde begrepet «aktivitetsplikt», fremfor å endre dette til «handlingsplikt» slik enkelte av høringsinstansene foreslår, siden dette er et begrep som er godt etablert fra skoleområdet. Videre mener vi at begrepet «trygt og godt barnehagemiljø» også dekker det at miljøet skal oppleves som inkluderende.
+
+#### En aktivitetsplikt med flere delplikter
+
+Departementet mener at aktivitetsplikten bør bestå av flere delplikter:
+
+- Plikt til å følge med
+
+- Plikt til å melde fra
+
+- Plikt til å undersøke
+
+- Plikt til å sette inn tiltak
+
+Delpliktene tilsvarer delplikter etter opplæringsloven § 9 A-4. Departementet ser ikke behov for å innføre en egen delplikt om at barnehagen skal sørge for at involverte barn blir hørt. Denne plikten følger allerede av barnehageloven § 3.
+
+I det videre omtales delpliktene hver for seg.
+
+Plikt til å følge med
+
+Departementet mener at det bør lovfestes en plikt for alle som jobber i barnehagen til å følge med på om barna har et trygt og godt barnehagemiljø, både som enkeltbarn og som barn i barnegruppen. Et stort flertall av høringsinstansene støtter dette forslaget.
+
+Etter departementets vurdering er plikten til å følge med på hvordan barna har det i barnehagen en sentral del av barnehagens arbeid for å sikre at barna har et trygt og godt barnehagemiljø.
+
+I praksis vil plikten til å følge med inkludere systematiske tiltak, for eksempel rutiner for tilstedeværelse i barnegruppene og systematisk observasjon blant alle barna. En metode for å følge med på om barna har det trygt og godt, kan være å observere enkeltbarn eller barnegrupper. Det er viktig at personalet følger med på gruppedynamikken i tillegg til å følger med på hvordan enkeltbarn har det. Personalet må være oppmerksomme på gruppens samspillmønstre og endringer i disse mønstrene. Dette kan for eksempel være der et barn sjelden er med i lek eller der barnet blir tildelt de mindre attraktive rollene i leken og dette gjentar seg. De som jobber i barnehagen skal ikke bevisst kunne overse eller unngå å følge med på relasjoner mellom barna. En barnehage kan ikke unngå ansvar ved å vise til at personalet ikke visste hva som foregikk, eller at de ikke hadde noen mistanke om at noe var galt.
+
+Et barn kan gjennom sin adferd gi mer eller mindre tydelig uttrykk for at det ikke har et trygt og godt barnehagemiljø. Dette kan være både utadvendt og aggressiv eller innadvendt og isolerende adferd. Det kan også være tilbaketrekning, eller aggressiv atferd overfor andre barn. Personalet må være særlig oppmerksomme på barnas atferd og reaksjoner og endringer i adferd og reaksjoner. Personalet må også følge med på signaler og tilbakemeldinger som kommer fra foreldre. En åpen tilnærming til hvordan barn uttrykker at de ikke har et trygt og godt barnehagemiljø, er avgjørende fordi mange av barna mangler språk til å si ifra. Derfor vil de ofte uttrykke seg på andre måter.
+
+Plikten til å følge med omfatter alle voksne som jobber eller yter tjenester i barnehagen, og ikke bare personer som er ansatt. Plikten varierer ut fra hvilken rolle, oppgaver og posisjon personen har i barnehagen.
+
+Plikt til å melde fra til barnehagens styrer
+
+Departementet mener at det bør innføres en plikt for personalet til å varsle barnehagens styrer hvis de får mistanke om eller kjennskap til at et enkelt barn, eller flere barn i en barnegruppe, ikke har et trygt og godt barnehagemiljø. Det stilles ikke formkrav til selve varslingen.
+
+Et stort flertall av høringsinstansene støtter forslaget om å innføre en plikt for personalet til å varsle barnehagens styrer. Når det gjelder begrepet «varsle», er departementet enig i Barneombudets innspill om at bruken av dette begrepet i reglene om barnehagemiljø kan være problematisk. Begrepet varsle brukes i dag vanligvis om varsling om kritikkverdige forhold etter arbeidsmiljøloven. Varslingsregelverket etter arbeidsmiljøloven gir virksomheten en rekke plikter, blant annet regler for hvordan varselet skal følges opp og plikt til å utarbeide rutiner for intern varsling. Departementet er enig i at det er uheldig om de foreslåtte reglene i barnehagemiljøloven forveksles med varslingsregelverket etter arbeidsmiljøloven. Departementet er enig med Barneombudet om at begrepet «melde fra» vil gi en riktigere beskrivelse av hva denne plikten går ut på. Departementet foreslår derfor at begrepet endres til «melde fra» i lovteksten. Departementet mener det vil være naturlig at den samme endringen gjøres i opplæringsloven kapittel 9 A, og vil følge opp dette i forbindelse med oppfølgingen av NOU 2019: 23 *Ny opplæringslov.*
+
+Departementet mener at de som jobber i barnehagen, må melde fra så raskt som det er rimelig å forvente av dem i det enkelte tilfellet. I noen tilfeller vil det være nødvendig å melde fra til styrer straks, mens i andre tilfeller kan det være forsvarlig å vente noe lenger, for eksempel til slutten av dagen eller til ukentlige oppsummeringer.
+
+Styrer er ansvarlig for at barnehagen håndterer og følger opp slike meldinger på en forsvarlig måte. Styrer kan gjennom delegasjon bestemme at en annen person i barnehagen skal ta imot meldingene. Styrer er likevel ansvarlig for at barnehagen håndterer meldinger på en ansvarlig måte. For at delegasjonen skal være forsvarlig, må den som får delegert oppgaven, ha en funksjon eller myndighet i barnehagen som gjør at han eller hun kan ivareta oppgaven.
+
+Plikt til å melde fra til barnehageeier
+
+Departementet mener at styrer skal ha en plikt til å melde fra til barnehageeier i alvorlige tilfeller. Hensikten med meldingen er å gjøre de som er ansvarlige for virksomheten kjent med saken.
+
+For kommunale barnehager er det kommunestyret som har det overordnede ansvaret, og kommunedirektøren har det øverste administrative ansvaret. Det er kommunedirektøren som forvalter oppgaven med å drive barnehager, og som derfor vil være ansvarlig for å motta en slik melding. Oppgavene med å motta og følge opp slike meldinger kan på vanlig måte delegeres til den som er styrers nærmeste leder i kommunen. Når det gjelder private barnehager, er det styret for det rettssubjektet som driver barnehagen som er barnehagens øverste organ, og ansvarlig for at barnehagen drives i samsvar med barnehageloven med forskrifter. For private barnehager vil det derfor være styret v/styreleder som skal motta slike meldinger.
+
+Plikt til å undersøke
+
+Det er gjennom å undersøke at barnehagen kan avdekke om enkeltbarn eller flere barn i en barnegruppe ikke har et trygt og godt barnehagemiljø. Departementet mener derfor at det bør innføres en undersøkelsesplikt i barnehageloven. Et stort flertall av høringsinstansene støtter dette.
+
+For det første, foreslår departementet at barnehagen skal ha plikt til å undersøke *ved mistanke om, eller kjennskap til, at et enkeltbarn eller flere barn i en barnegruppe ikke har* et trygt og godt barnehagemiljø.
+
+Det vises til omtalen av følge med-plikten ovenfor hvor det går frem at det finnes flere typer indikasjoner og kjennetegn på at barn ikke har et trygt og godt barnehagemiljø. Barnehagen skal alltid undersøke der en som jobber i barnehagen har meldt fra til styrer om mistanke om eller kjennskap til at barn ikke har et trygt og godt barnehagemiljø.
+
+Videre foreslår departementet at barnehagen skal ha en undersøkelsesplikt hvis *barnet selv eller foreldrene sier ifra om at barnet ikke har et trygt og godt barnehagemiljø.* Barn som sier ifra om at de ikke har et trygt og godt barnehagemiljø, skal bli tatt på alvor når de forteller om dette. Departementet ønsker å understreke barnets rett til å bli hørt, og tatt på alvor, ved å lovfeste at når barnet sier ifra, skal barnehagen alltid undersøke saken nærmere.
+
+At barnet «sier ifra» må tolkes i vidt. Det er tilstrekkelig at et barn forteller at han eller hun utsettes for noe som er leit eller vanskelig eller at han eller hun mistrives. Barn har etter barnekonvensjonen artikkel 12, Grunnloven § 104 og barnehageloven § 3 rett til å bli hørt. En slik rett blir uten mening hvis de voksne i barnehagen ikke hører på barnet, sier seg uenig eller avviser barnets forsøk på å si ifra.
+
+Samtidig viser departementet til at barnehagens plikt til å følge med på hvordan barna har det, sett i sammenheng med plikten til å undersøke ved mistanke om at et barn ikke har det trygt og godt, vil gjøre at de barna som ikke selv kan eller vil si i fra med ord at de ikke har det trygt og godt, men viser det ved atferd, også skal fanges opp.
+
+Det kan skje at foreldrene får mistanke om at barnet ikke har et trygt og godt barnehagemiljø, uten at personalet i barnehagen har samme mistanke. Foreldrene kjenner barnet best, og vil ofte opptre som barnets talerør. Foreldrene kan for eksempel oppdage endrede adferdsmønstre eller reaksjoner som kan gi mistanke om eller kjennskap til at barnet ikke har et trygt og godt barnehagemiljø. Det kan også være at barnet har sagt ifra til sine foreldre, men ikke selv vil si ifra til de voksne i barnehagen. Departementet mener derfor at barnehagen skal ha plikt til å undersøke forholdet når foreldrene sier ifra om at de mistenker eller mener at barnet ikke har et trygt og godt barnehagemiljø. Dette gjelder selv om de som jobber i barnehagen har en annen oppfatning av hvordan barnet har det.
+
+*Namsos kommune* mener at det er uklart *hvor langt undersøkelsesplikten skal strekke seg*. Departementet mener at barnehagen må gjøre de undersøkelsene som med rimelighet kan forventes. Barnehagen må innhente nok informasjon til å avdekke hva som har skjedd, og om ett eller flere barn opplever at det ikke er et trygt og godt miljø i barnehagen. Undersøkelsesplikten handler om å undersøke hva som ligger bak barnets eller barnas opplevelse og få bedre innsikt i hvordan barnet eller barna opplever hverdagen i barnehagen.
+
+Hvor grundige undersøkelser barnehagen må gjennomføre i den enkelte sak, er etter departementets syn avhengig av den konkrete situasjonen. Barnehagen må se på hva som har skjedd akkurat der og da og hva som har skjedd tidligere, både med barnet eller barna det gjelder og den aktuelle barnegruppen som helhet. En episode som fremstår som en enkelthendelse, vil ikke alltid kreve store undersøkelser. Annerledes kan det stille seg hvis tilsvarende hendelser gjentar seg eller hvis situasjonen av andre årsaker er mer komplisert. Dette kan for eksempel være tilfellet der et barn gjentatte ganger holdes utenfor leken og det er behov for å arbeide med hele det sosiale miljøet i barnegruppen og barnas samspill. Et annet eksempel er der et barn over lengre tid har trukket seg unna eller har holdt seg for seg selv i barnehagen og virker isolert. Slike tilfeller vil kreve mer inngående undersøkelser. Departementet viser til det som tidligere er omtalt om at barnets adferd kan være tegn på at barnet ikke har et trygt og godt barnehagemiljø. Departementet viser også til at barnehagen har et skjerpet ansvar for barn med særskilt sårbarhet.
+
+Etter departementets vurdering må målet for barnehagens undersøkelse være å få nok informasjon til å kunne vurdere om barnehagen må sette inn tiltak, og eventuelt hva slags tiltak den skal sette inn. Undersøkelsen må være reell og egnet til å finne ut hva som er problemet. Det er avgjørende at personalet under samtaler med barn klarer å finne ut av hva som er barnets perspektiv på situasjonen og forstå barnets opplevelse.
+
+Barn som har problemer hjemme, psykiske plager eller andre utfordringer, kan utvikle atferd og reaksjonsmønstre som gjør at de ikke opplever å ha et trygt og godt barnehagemiljø. I slike tilfeller må barnehagen søke hjelp hos andre instanser som helsevesenet eller barneverntjenesten. Departementet viser til at de som utfører tjeneste eller arbeid i en barnehage, skal være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten, jf. barnehageloven § 22. I enkelte tilfeller har de plikt til å melde fra til barnevernet. Barnehagen kan drøfte saker anonymt med barnevernstjenesten og samarbeide med barnevernstjenesten etter samtykke.
+
+Barnehagen må sette inn undersøkelser snarest. Det vil si så raskt som mulig. Hvis barnehagen, etter å ha gjort nødvendige og tilstrekkelige undersøkelser, konkluderer med at barnet har et trygt og godt barnehagemiljø, og barnet og foreldrene selv mener at barnet har et trygt og godt barnehagemiljø, er barnehagens aktivitetsplikt utført. Barnehagens plikt til å følge med på barnas barnehagemiljø løper likevel hele tiden.
+
+I tilfeller der barnehagen etter å ha undersøkt saken, derimot konkluderer med at et enkeltbarn, eller flere barn i en barnegruppe, ikke har det trygt og godt i barnehagen, skal barnehagen sette inn tiltak som retter opp dette. Det samme gjelder hvis barnet eller foreldrene mener at det ikke er et trygt og godt barnehagemiljø.
+
+Plikt til å sette inn egnede tiltak
+
+Departementet foreslår at det innføres en plikt for barnehagen til å sette inn tiltak som sikrer at alle barn kan ha et trygt og godt barnehagemiljø. Et stort flertall av høringsinstansene støtter dette forslaget. Tiltak skal settes inn både i situasjoner som gjelder enkeltbarn og i situasjoner der flere barn i en barnegruppe ikke har det trygt og godt.
+
+Barnehagen må iverksette tiltak for å sikre at barnet eller barna kan ha et trygt og godt barnehagemiljø. Barnehagen må aktivt søke etter mulige og egnede tiltak, og sette inn de tiltakene som er tilgjengelige for barnehagen. Noen av høringsinstansene mener det bør presiseres at tiltakene skal være faglig fundert. Departementet er enig i at dette bør fremgå av lovteksten, og viser til at opplæringslovutvalget også har foreslått en tilsvarende presisering i opplæringsloven kapittel 9 A. Barnehagen må velge tiltak ut fra faglige vurderinger av hva som er egnede tiltak. Tiltakene skal være kunnskapsbaserte. Barnehageeier må sørge for at personalet i barnehagen har nødvendig og oppdatert kunnskap om hvilke tiltak som ut fra faglige vurderinger er egnet for ulike situasjoner og tilfeller. Departementet presiserer at barnets beste skal være et grunnleggende hensyn når barnehagen skal ta beslutninger som berører barn.
+
+Departementet understreker at for barn i barnehagealder er systematiske tiltak rettet mot hele barnegruppen, og relasjoner og sosialt samspill mellom barn og mellom barn og voksne, av særlig betydning. Barnehagenes arbeid handler om å systematisk jobbe med barnegruppen for å etablere en god gruppedynamikk og et inkluderende fellesskap, og for å legge til rette for at det enkelte barn kan oppleve trygghet og tilhørighet i barnegruppen. Tiltak etter aktivitetsplikten vil ofte handle om denne typen arbeid. Systematiske tiltak kan også omfatte tiltak rettet særskilt mot enkeltbarn. Er det sårbare barn i barnegruppen, kan de ha behov for særskilte tiltak.
+
+Det er etter departementets syn verken mulig eller hensiktsmessig å beskrive fullt ut i loven hvilke tiltak som kan bli aktuelle. Det må barnehagen avgjøre i hver enkelt sak etter en konkret og skjønnsmessig vurdering. Hvilke tiltak barnehagen skal sette inn, må bygge på en faglig vurdering ut fra tilgjengelig kunnskap om barnehagemiljø og arbeid mot mobbing og andre krenkelser. Videre må tiltakene være lovlige etter barnehageloven og annet regelverk. Tiltakene kan for eksempel ikke innebære tvang og makt overfor et barn.
+
+En særlig problemstilling er når det er forhold utenfor barnehagen eller tilbake i tid som er grunnen til at et barn ikke har et trygt og godt barnehagemiljø. Barnehagen vil likevel ha et ansvar for å sette inn tiltak som gjør at barnet kan ha et trygt og godt barnehagemiljø. I noen tilfeller kan barnehagen hjelpe barnet ved å involvere andre instanser som kan bidra i den aktuelle situasjonen. Departementet presiserer at deling av opplysninger om enkeltbarn med andre instanser krever samtykke eller hjemmel i lov. I enkelte tilfeller har barnehagen plikt til å melde fra til barneverntjenesten etter barnehageloven § 22.
+
+#### Hvem skal omfattes av aktivitetsplikten?
+
+Departementet mener at aktivitetsplikten må favne vidt for at regelverket skal sikre at barna har et trygt og godt barnehagemiljø. Plikten til å følge med og melde fra til styrer skal gjelde både for barnehagelærere, fagarbeidere, assistenter, administrativt personell og for andre som regelmessig oppholder seg i barnehagen. Enkelte av høringsinstansene er kritiske til at aktivitetsplikten skal omfatte alle som arbeider eller yter tjenester i barnehagen. Det sentrale er etter departementets oppfatning at pliktene omfatter personer som jevnlig oppholder seg i barnehagen, har noe kontakt med barna og er i barnehagen for å utføre et arbeid eller en tjeneste for barnehagen. Barnehagens plikter skal derfor også omfatte personer med ansettelsesforhold hos en ekstern tjenesteleverandør, for eksempel innen renhold eller vaktmestertjenester.
+
+Departementet er enig i at det er argumenter for at renholdere, vaktmestere og andre som ikke har en omsorgsrolle overfor barnet, ikke bør pålegges en slik aktivitetsplikt. På den andre siden, er plikten til å følge med og melde fra når barn ikke har det trygt eller godt, noe som bør kunne forventes og kreves av alle voksne. Opplæringslovutvalget foreslår i NOU 2019: 23 at den tilsvarende plikten for alle som arbeider ved skolen skal videreføres. De understreker imidlertid at det konkrete innholdet i aktivitetsplikten vil være avhengig av hvilken rolle, hvilke oppgaver og hvilken posisjon de ansatte har på skolen, og at «det kreves mer av en ansatt som har en omsorgsrolle overfor elevene, enn det kreves av ansatte med andre typer arbeidsoppgaver. Det vil for eksempel kreves en større og mer aktiv årvåkenhet fra en lærer, assistent, miljøarbeider eller rektor enn hva som kreves av en vaktmester eller renholdsarbeider» (se s. 457). Departementet mener at det samme må gjelde for innholdet i den foreslåtte aktivitetsplikten i barnehageloven. Plikten til å melde fra til barnehageeier vil gjelde for styrer. Plikten til å undersøke sakene og plikten til å sette inn tiltak vil ikke gjelde for alle som jobber i barnehagen, men for de personene som har fått tildelt oppgaver knyttet til å undersøke saker og sette inn tiltak.
+
+Departementet understreker at det er barnehageeier som har det rettslige ansvaret for at pliktene blir oppfylt, og ikke den enkelte ansatte i barnehagen eller en ekstern tjenesteleverandør. Barnehagen kan gjøre eksterne tjenesteleverandører og andre kjent med hva de skal gjøre gjennom avtale, opplæring eller på andre måter.
+
+Pliktene vil ikke omfatte dem som kun nå og da befinner seg i barnehagen. Eksempler på dette kan være personer som henter avfall, håndverkere som utfører enkeltoppdrag eller bud og andre som leverer varer til barnehagen. Pliktene skal heller ikke gjelde for foreldre, slektninger eller bekjente til barnehagebarn som regelmessig følger eller henter barna i barnehagen.
+
+#### Når er barnehagens aktivitetsplikt oppfylt?
+
+Departementet mener at aktivitetsplikten varer så lenge barnet ikke har et trygt og godt barnehagemiljø. En praktisk konsekvens av dette er at hvis tiltakene ikke har fungert etter hensikten, må barnehagen fortsette arbeidet og sette inn andre tiltak. Plikten til å iverksette egnede tiltak, omfatter også en plikt til å evaluere og eventuelt justere tiltakene underveis.
+
+I rettspraksis på skoleområdet, jf. dom av Høyesterett (Rt. 2012 s. 146), er det lagt til grunn at skolen skal sette inn de tiltakene som med rimelighet kan forventes for å stoppe mobbing og andre krenkelser. Departementet mener at samme standard bør gjelde på barnehageområdet. Det betyr at barnehagen må fortsette å sette inn tiltak så lenge enkeltbarn eller flere barn i en barnegruppe ikke opplever at det er trygt og godt å være i barnehagen, og det finnes egnede tiltak som barnehagen kan sette inn. Rekkevidden av barnehagens plikt til å sette inn tiltak er den samme uavhengig av om det er barnehagen selv, barnet eller foreldrene som mener at barnet ikke har et trygt og godt barnehagemiljø.
+
+Barnehagens plikt til å sikre at barn kan ha et trygt og godt barnehagemiljø peker fremover i tid. Plikten gjelder uavhengig av hva som er grunnen til at et barn ikke har et trygt og godt barnehagemiljø. Dette legger i utgangspunktet en streng forpliktelse på barnehagen.
+
+Departementet vil samtidig understreke at det kan være tilfeller der aktivitetsplikten er oppfylt, selv om barnet eller foreldrene fremdeles ikke er fornøyd med miljøet i barnehagen. Etter departementets vurdering vil aktivitetsplikten være oppfylt hvis barnehagen har gjort alt som med rimelighet kan kreves av den, og barnehagens planer for videre tiltak er i samsvar med et godt faglig skjønn. Dette kan for eksempel være tilfellet der barnet eller foreldrene ønsker seg andre tiltak enn det barnehagen setter inn, men der en faglig vurdering tilsier at barnehagens vurderinger er riktige. Det avgjørende i en sak vil være om barnehagen har sørget for, og fortsatt vil sørge for, å vurdere ulike tiltak og sette inn tiltak som etter en faglig vurdering er egnet til å sikre at barnet har et trygt og godt barnehagemiljø. Hvis dette besvares positivt, har barnehagen oppfylt aktivitetsplikten.
+
+Hva som skal til for at barnehagen har oppfylt aktivitetsplikten i en konkret sak, skal altså vurderes objektivt ut fra hva som utløste aktivitetsplikten og hva barnehagen har gjort av tiltak og tilrettelegginger for at barnet skal kunne ha et trygt og godt barnehagemiljø. Dette innebærer at barnehagens plikt til å sette inn tiltak løper så lenge barnet ikke har et trygt og godt barnehagemiljø, men at aktivitetsplikten samtidig er oppfylt så lenge barnehagen gjør alt som med rimelighet kan forventes for at barnet skal kunne ha et trygt og godt barnehagemiljø.
+
+#### Krav til å dokumentere barnehagens aktivitet
+
+Departementet mener at det bør innføres et krav om at barnehagen skal utarbeide en skriftlig aktivitetsplan for oppfølging av saken, og krav til innhold i denne planen. At det i en sak finnes en skriftlig plan for hvordan barnehagen skal ta tak i en sak, er i tråd med hva som er en hensiktsmessig måte å arbeide på og hva som er faglig forsvarlig praksis i en barnehage. Videre er det viktig for familiene som står i en sak, at det det er dokumentert at barnehagen tar tak i saken deres og forplikter seg til å hjelpe barnet eller barna. En skriftlig plan er dessuten viktig av hensyn til effektive arbeidsprosesser i barnehagen, av mellommenneskelige årsaker og av hensyn til at foreldrene skal kunne følge opp at barnet eller barna får de tiltakene de skal.
+
+Departementet mener at planen bør beskrive hvordan barnehagen har besluttet å håndtere en konkret sak. Departementet foreslår å lovfeste at planen, for å oppfylle sitt formål, skal inneholde:
+
+- Hvilke problemer tiltakene skal løse
+
+- Hvilke tiltak barnehagen har planlagt
+
+- Når tiltakene skal gjennomføres
+
+- Hvem som skal gjennomføre tiltakene
+
+- Når tiltakene skal evalueres.
+
+Etter departementets syn utgjør disse kravene det som må til for å dokumentere barnehagens planer for hvordan den skal håndtere en bestemt sak og sikre en effektiv gjennomføring av tiltakene.
+
+Departementet mener at dette er en lovfesting av hva som må regnes å være en forsvarlig praksis i barnehagen. Planen skal fungere som en støtte for barnehagen og foreldrene for å sikre at det er kjent og dokumentert hva barnehagen har bestemt seg for å gjøre i en sak. Innholdet i planen kan trygge barnet og foreldrene om at barnehagen tar tak i saken. Departementet foreslår ingen formkrav til planen utover at den skal være skriftlig.
+
+Planen trenger ikke å knytte seg til ett barn, men kan ta for seg en situasjon eller utfordring som omfatter flere barn, typisk forhold i en barnegruppe. Barnehagen kan tilpasse omfanget av opplysninger under hvert av de obligatoriske punktene som planen skal inneholde. I en sak der barnehagen setter inn tiltak tidlig og tiltaket er ganske enkelt og lite omfattende, kan planen være kort og mer skjematisk, enn i en sak der det er et mer komplekst saksforhold og hvor tiltakene er sammensatte og mange.
+
+Planen vil ikke være et enkeltvedtak etter forvaltningsloven.
+
+Departementet foreslo i høringen ikke å innføre en plikt til å dokumentere alle aktivitetene barnehagen gjør for å oppfylle de ulike delpliktene i aktivitetsplikten. Høringsinstansene er delt i synet på dette forslaget. Mange trekker dette frem som positivt da de er enige i at dagens krav sammen med et nytt krav om å lage en aktivitetsplan er tilstrekkelig, mens andre mener at det bør innføres minimumskrav til dokumentasjon tilsvarende det som gjelder etter opplæringsloven.
+
+Departementet mener at det best vurderes og avgjøres lokalt hvordan barnehagens arbeid kan dokumenteres på en effektiv måte som samtidig sikrer etterprøvbarhet. Departementet legger til grunn at barnehagene ofte har en egeninteresse i å dokumentere det de har gjort for å oppfylle pliktene de har knyttet til barnehagemiljøet. Krav til dokumentasjon vil være aktuelt der det er nødvendig for å kunne gi barnegruppen og enkeltbarn et tilrettelagt tilbud. Slike krav gjelder allerede etter dagens rammeplan. Det er i dag et krav om at barnehagen skal dokumentere vurderinger om barnegruppens og enkeltbarns trivsel og allsidige utvikling når det er nødvendig for å gi barnegruppen og enkeltbarn et tilrettelagt tilbud. Barnehagen skal dokumentere personalets vurderinger, planer, tiltak og evaluering av tiltak. Med unntak av det foreslåtte kravet til en skriftlig aktivitetsplan, foreslår ikke departementet å utvide kravene til dokumentasjon.
+
+#### Skjerpet aktivitetsplikt der ansatte krenker barn
+
+Det er grunnleggende i strid med en ansatts rolle å krenke et barn. Departementet mener at dette er et grovt tillitsbrudd og en helt uakseptabel adferd for en ansatt. De som arbeider i barnehagen har en makt- og tillitsposisjon overfor barna. Dette maktforholdet må ikke misbrukes. Departementet mener at tilfeller der ansatte krenker barn, må reguleres særskilt i loven. En lovfesting kan gi et tydelig signal om å være oppmerksomme også overfor krenkelser fra ansatte. I tillegg vil det gi en trygghet for den som mistenker dette til å melde fra til styreren. Departementet viser til at barnehagen ikke skal godta krenkelser som utstenging, mobbing, vold, diskriminering og trakassering.
+
+Departementet mener at det bør innføres en skjerpet aktivitetsplikt ved mistanke om, eller kjennskap til, at en som jobber i barnehagen krenker et barn. Skjerpingen går ut på at ansatte som har mistanke om eller kjennskap til at en av arbeider i barnehagen krenker et barn, skal melde fra til styrer straks og at saken skal undersøkes straks. De ansatte skal melde fra til barnehageeier direkte dersom de har mistanke om eller kjennskap til at styrer krenker et barn. Kravene til ansattes handlinger følger ellers av den alminnelige aktivitetsplikten. Den skjerpede aktivitetsplikten departementet foreslår her tilsvarer den skjerpede aktivitetsplikten etter opplæringsloven § 9 A-5.
+
+Etter departementets vurdering er det svært viktig at barnehagens styrer umiddelbart blir gjort oppmerksom på at noen har mistanke om, eller kjennskap til, at en som jobber i barnehagen krenker et barn. Dette er noe styreren straks må gripe tak i og få satt en stopper for. Det er også viktig at barnehageeier alltid får beskjed om slike saker. Dette fordi barnehageeier er arbeidsgiver og har det rettslige ansvaret for at barna har et trygt og godt barnehagemiljø. Hvis det er styreren i barnehagen som krenker et barn, bør den ansatte ha en plikt til straks å melde fra til barnehageeier direkte.
+
+Videre tilsier sakens alvor at styrere og barnehageeiere som mottar en melding om slike forhold, straks skal undersøke forholdene og om nødvendig sette inn tiltak. Hvis det etter nærmere undersøkelser viser seg at en ansatt faktisk har krenket et barn, må barnehagen også vurdere ulike tiltak rettet mot den aktuelle ansatte. Hvilke tiltak som kan være aktuelle mot den ansatte, styres av arbeidsrettslige regler.
+
+I utgangspunktet er det opp til den ansatte etter en konkret vurdering å ta stilling til om det er grunn til mistanke om eller kjennskap til at en som arbeider i barnehagen, krenker et barn. Den skjerpede aktivitetsplikten inntrer ved situasjoner der personalet objektivt sett kan fastslå at det foregår en krenkelse. Det må bero på en helthetlig vurdering om noe er en krenkelse, ikke bare det enkelte barns opplevelse. Ytringer som er en del av et akseptabelt sosialt samspill, skal ikke regnes som krenkelser. Det vil likevel ikke alltid være en lik terskel for alle barn. For eksempel kan personlige forhold ved det enkelte barnet ha betydning for hvilke handlinger og ytringer som anses å være krenkende. Se departementets vurderinger i punktet 7.7.4 ovenfor.
+
+Departementet understreker at dersom et barn subjektivt har opplevd å bli krenket, uten at det objektivt har vært en krenkelse, og barnehagen blir gjort oppmerksom på dette, utløser det alltid aktivitetsplikten etter lovforslaget § 21. Selv om den aktuelle ytringen eller handlingen ikke omfattes av begrepet krenkelse objektivt sett, har barnehagen en plikt til å sette inn tiltak dersom et barn ikke opplever barnehagemiljøet som trygt og godt.
+
+#### Behandling av personopplysninger
+
+Når barnehager skal følge opp den nye aktivitetsplikten må de behandle personopplysninger av ulike slag. Etter departementets vurdering er dette personopplysninger som barnehagene alt behandler, da dette i hovedsak er oppgaver barnehagene har i dag i barnehageloven og rammeplanen. Rammeplanen setter krav til at barnehagen ivaretar barnas behov for omsorg, trygghet, tilhørighet og anerkjennelse, og sikrer at barna får ta del i og medvirke i fellesskapet.
+
+Plikten til å sikre et trygt og godt barnehagemiljø innebærer at barnehagene må følge med på hvordan barna har det og identifisere om det er barn som er sårbare eller særlig utsatt for krenkelser eller utenforskap. Personlige forhold som barnets funksjonsevne, at barnet har atferdsvansker eller sosio-emosjonelle vansker, eller forhold ved barnets familie- og hjemmesituasjon, kan gjøre barnet særlig utsatt. At et barn mangler trygge relasjoner til andre barn i barnehagen eller tidligere har vært utsatt for krenkelser, kan også gjøre barnet særlig sårbar. De ansatte i barnehagen vil typisk få informasjon om hvordan barna har det og om de er særlig utsatte ved å observere barna og ved å snakke med barna og foreldrene. Det vil av og til være behov for å sammenstille slike observasjoner (opplysninger) om barna, uavhengig av konkrete hendelser. Sammenstillinger og deling i personalgruppen vil ofte være nødvendig for å ivareta barnas beste. Bare slik kan barnehagen se observasjoner i sammenheng og sikre at vurderingen av behovet for forebyggende tiltak ikke blir personavhengig.
+
+Behandlingen av personopplysninger må alltid begrenses til det som er nødvendig og forholdsmessig for å oppfylle plikten. Opplysningene må ikke oppbevares lenger enn nødvendig og kan bare gjøres tilgjengelig for dem (i barnehagen) som trenger opplysningene i arbeidet med å oppnå et trygt og godt barnehagemiljø. Deling av opplysninger er bare tillatt dersom det er hjemmel i lov, eller etter samtykke. Det er den virksomheten som driver barnehagen som er ansvarlig for at barnehagen samlet sett, inkludert alle ansatte i barnehagen, oppfyller sine plikter etter både barnehageloven og personopplysningsloven.
+
+Forslaget om meldeplikt til barnehageeier (i § 21 andre ledd «i alvorlige tilfeller» og i § 22 første ledd) vil i enkelte tilfeller medføre at også personopplysninger om barn må formidles. Behovet må vurderes konkret i hvert enkelt tilfelle, og begrenses så langt mulig. For eksempel vil meldeplikten etter § 22 ofte kunne ivaretas uten at det følger med identifiserbare opplysninger om barn. Kriteriene om nødvendighet og forholdsmessighet skal alltid ligge til grunn for vurderingene. Barnehageeier er den som er ansvarlig for den juridiske virksomheten som driver barnehagen. For kommunale barnehager vil det være barnehagestyrers leder i kommunen. For private barnehager vil det være styret for virksomheten som driver barnehagen. Kravet til å informere den som er ansvarlig for virksomheten omfatter ikke andre, som for eksempel aksjeeiere i et aksjeselskap.
+
+Dagens behandlinger av personopplysninger i barnehagene har rettslig grunnlag i personvernforordningen artikkel 6 nr. 1 bokstav e) og med supplerende grunnlag i barnehageloven. Kunnskapsdepartementet har satt i gang et arbeid med å gjennomgå og vurdere behov for endringer i blant annet barnehageloven for å se om formålene i personvernforordningen om klarhet, forutsigbarhet mv. bør ivaretas på en bedre måte.
+
+### Departementets forslag
+
+Departementet foreslår å lovfeste at alle som arbeider i barnehagen, skal følge med på hvordan barna i barnehagen har det og at de skal melde fra til barnehagens styrer dersom de får mistanke om eller kjennskap til at et barn ikke har et trygt og godt barnehagemiljø. Styrer skal melde fra til barnehageeieren i alvorlige tilfeller.
+
+Departementet foreslår å lovfeste at ved mistanke om eller kjennskap til at et barn ikke har et trygt og godt barnehagemiljø, skal barnehagen snarest undersøke saken. Videre foreslår departementet å lovfeste at når et barn eller foreldrene sier at barnet ikke har et trygt og godt barnehagemiljø, skal barnehagen snarest undersøke saken og så langt det finnes egnede tiltak, sørge for at barnet får et trygt og godt barnehagemiljø. Det samme gjelder når en undersøkelse som barnehagen selv har satt i gang, viser at et barn ikke har et trygt og godt barnehagemiljø. Tiltakene skal velges på grunnlag av en konkret og faglig vurdering.
+
+Departementet foreslår videre å lovfeste at barnehagen skal lage en skriftlig plan når det skal gjøres tiltak i en sak. I planen skal det stå hvilke problemer tiltakene skal løse, hvilke tiltak barnehagen har planlagt, når tiltakene skal gjennomføres, hvem som skal gjennomføre tiltakene og når tiltakene skal evalueres.

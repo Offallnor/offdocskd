@@ -1,857 +1,452 @@
-# Prop. 111 L (2020–2021), del 15 av 19 (side 150–159)
+# Prop. 111 L (2020–2021), del 15 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/7aadf575-prop-111-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-111-l-20202021/id2840742/
 - Original-PDF: https://www.regjeringen.no/contentassets/747245434bb04cd5a378c14330f173fa/no/pdfs/prp202020210111000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 150]
-
-148
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Statens vegvesen støtter forslaget og mener at
-det bare vil innebære mindre endringer i deres
-retningslinjer og fagforskrifter. Vegvesenet har
-allerede gitt føringer på at søknader om godkjenning av yrkeskvalifikasjoner fra utenfor EØSområdet skal behandles på mest mulig lik måte
-som søknader fra annen EØS-stat eller Sveits.
-
-5.5.2.4 Departementets vurdering
-Departementet mener det er et godt prinsipp at
-godkjenningsmyndighetene skal legge vekt på de
-helhetlige yrkeskvalifikasjonene til yrkesutøveren
-og at yrkesutøveren er kvalifisert til å utøve et yrke
-i hjemstaten. Utdanningen alene er ikke avgjørende for utøvelsen av yrket. Fordelene for den
-enkelte yrkesutøveren ved å få sine helhetlige kvalifikasjoner vurdert, må veie tungt. Flere godkjenningsmyndigheter har allerede i dag som praksis at
-de legger vekt på de helhetlige kvalifikasjonene og
-for tredjelandskvalifikasjoner. Dette gjelder blant
-annet Statens vegvesen og Direktoratet for byggkvalitet. Departementet mener at en helhetlig gjennomføring av dette prinsippet vil gi mer forutsigbarhet og likebehandling av yrkesutøvere.
-Departementet mener det er viktig at yrkesutøvere med kvalifikasjoner fra tredjeland kan bli
-vurdert etter yrkeskvalifikasjonsloven fordi dette
-vil gi hurtigere godkjenning og at de raskere kommer ut i arbeid. Departementet kan ikke se at det
-er nødvendig med en strammere godkjenningsprosess for personer med kvalifikasjoner fra tredjeland så lenge yrkesutøveren er fullt ut kvalifisert
-til å utøve det samme yrket i det landet vedkommende har sine yrkeskvalifikasjoner fra.
-Departementet opprettholder forslaget om å
-lovfeste at enkelte av yrkeskvalifikasjonslovens
-prinsipper skal gjelde tilsvarende for personer med
-yrkeskvalifikasjoner fra tredjeland. Nærmere om
-hvordan dette vil bli regulert og enkelte tilpasninger i prinsippene framgår av de følgende kapitlene.
-Departementet vil påpeke at forslaget ikke vil
-gjelde for yrker med kort utdanning, for eksempel
-yrker under Arbeidstilsynets ansvarsområde som
-dykker, gravemaskinfører, maskinfører og truckfører.
-Departementet understreker at forslaget ikke
-får betydning for hvordan de ulike yrkene er regulert i Norge eller hvilke kvalifikasjonskrav som
-stilles for at en yrkesutøver kan utøve yrket i
-Norge. Loven regulerer bare godkjenningsprosessen. Forslaget innebærer følgelig at noen av prinsippene for godkjenningsprosessen skal anvendes
-også for yrkesutøvere fra Norge, EU eller tredjeland, med yrkeskvalifikasjoner fra tredjeland. Kva-
-
-lifikasjonskravene til yrkene derimot er – både i
-dag og med forslaget – de samme for enhver som
-vil utøve yrket i Norge.
-
-5.5.3
-
-Formålsbestemmelsen
-
-5.5.3.1 Dagens regler
-Formålet med yrkeskvalifikasjonsloven er å legge
-til rette for at en yrkesutøver som er statsborger
-av en EØS-stat eller Sveits, kan utøve yrket sitt i
-Norge på lik linje med en yrkesutøver som har
-ervervet sine yrkeskvalifikasjoner i Norge. Dette
-er i samsvar med EØS-avtalen og EFTA-konvensjonen.
-I utgangspunktet vil verken norske statsborgere, EØS-borgere eller tredjelandsborgere med
-yrkeskvalifikasjoner fra et tredjeland omfattes av
-yrkeskvalifikasjonsdirektivet og yrkeskvalifikasjonsloven. Et unntak fra dette er yrkeskvalifikasjonsloven § 2 første ledd. Her heter det at familiemedlemmer til en EØS-borger, som utøver sin rett
-til fri bevegelighet etter direktiv 2004/38/EF om
-EØS-borgere og deres familiemedlemmers rett til
-å bevege og oppholde seg fritt på medlemsstatenes område, omfattes av loven. Det innebærer at
-deres yrkeskvalifikasjoner fra en EØS-stat kan bli
-godkjent etter loven selv om vedkommende selv
-ikke er EØS-borger.
-5.5.3.2 Høringsforslaget
-Departementet foreslo å endre formålsbestemmelsen i lovens § 1 ved å legge til et nytt ledd som
-åpner for at også yrkesutøvere med yrkeskvalifikasjoner fra tredjeland kan utøve sitt yrke i Norge.
-Departementet foreslo ikke at loven skulle være
-avgrenset til å gjelde for personer som har opphold eller er bosatt i Norge. Endringen skulle
-gjelde for alle personer med yrkeskvalifikasjoner
-fra tredjeland, også dem som er bosatt i et annet
-land.
-Det ble foreslått enkelte begrensninger for
-yrker med kort utdanning, tilsvarende nivå A i forskriften § 3-1. Nivå A er opplæring av kortere
-varighet under videregående skoles nivå, typiske
-kortere kurs som f.eks. for truckfører. Her skulle
-unntak gjøres i forskrift.
-5.5.3.3 Høringsinnspill
-Departementet mottok svært få innspill til forslaget om endret formålsbestemmelse.
-El og IT Forbundet støtter ikke forslaget om å
-utvide lovens formål slik at en yrkesutøver med
-
-[Side 151]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-yrkeskvalifikasjoner fra tredjeland kan utøve sitt
-yrke i Norge.
-Kartverket mener at forslaget til ny formålsbestemmelse ikke samsvarer fullt ut med forslaget
-til avgrensning mot yrker som krever kort utdanning.
-
-5.5.3.4 Departementets vurdering
-Departementet opprettholder forslaget om å
-endre formålsbestemmelsen i lovens § 1 slik at
-loven også skal legge til rette for at yrkesutøvere
-med yrkeskvalifikasjoner fra tredjeland kan utøve
-sitt yrke i Norge.
-Departementet foreslår ikke å avgrense loven
-til personer som har opphold eller er bosatt i
-Norge. Endringen vil gjelde for alle personer med
-yrkeskvalifikasjoner fra tredjeland, også for dem
-som er bosatt i et annet land.
-For familiemedlemmer til en EØS-borger,
-som utøver sin rett til fri bevegelighet etter
-direktiv 2004/38/EF om EØS-borgere og deres
-familiemedlemmers rett til å bevege og oppholde
-seg fritt på medlemsstatenes område, vil forslaget innebære at det nå kan søkes om godkjenning av yrkeskvalifikasjoner fra tredjeland, da
-deres yrkeskvalifikasjoner fra en EØS-stat allerede kan godkjennes etter dagens regler selv om
-vedkommende selv ikke er EØS-borger.
-Til innspillet fra Kartverket vil departementet
-understreke at forslaget er at loven skal ha til formål å legge til rette for at en yrkesutøver med
-yrkeskvalifikasjoner fra tredjeland kan utøve sitt
-yrke i Norge. Departementet mener at formuleringen er god, og kan ikke se at forslaget om å
-avgrense mot yrker med kort utdanning i forskriften står i motstrid til et slikt formål. Departementet vil følge opp forslaget i forskrift.
-Departementet understreker at selv om en
-yrkesutøver får en godkjenning av sine yrkeskvalifikasjoner, betyr ikke dette at vedkommende har
-fått eller kan få oppholdstillatelse i Norge. Det er
-utlendingsmyndighetene som vurderer om utlendingen kan få oppholdstillatelse etter reglene i
-utlendingsregelverket.
-5.5.3.5
-
-Departementets forslag
-
-Departementet foreslår å endre yrkeskvalifikasjonsloven § 1 slik at loven også skal legge til rette
-for at yrkesutøvere med yrkeskvalifikasjoner fra
-tredjeland kan utøve sitt yrke i Norge.
-
-5.5.4
-5.5.4.1
-
-149
-
-Lovens virkeområde
-Dagens regler
-
-Lovens virkeområde er regulert i § 2. Her heter det
-blant annet at loven gjelder yrkesutøvere med statsborgerskap fra en EØS-stat eller Sveits som vil
-utøve et lovregulert yrke i Norge, og som har
-ervervet sine yrkeskvalifikasjoner eller fått disse
-godkjent i en annen EØS-stat eller Sveits. Loven
-gjelder med visse begrensninger også tredjelandsborgere som omfattes av direktiv 2004/38/EF om
-unionsborgeres og deres familiemedlemmers rett
-til å ferdes og oppholde seg fritt på medlemsstatenes territorium (direktivet om fri personbevegelighet). Fjerde ledd i bestemmelsen gir Kunnskapsdepartementet hjemmel til å gi forskrift om statsborgere av en EØS-stat eller Sveits som har ervervet
-sine yrkeskvalifikasjoner i et tredjeland. For tredjelandsborgere er denne forskriftshjemmelen
-begrenset til dem som omfattes av direktiv 2004/
-38/EF, dvs. familiemedlemmer av EØS-borgere.
-
-5.5.4.2 Høringsforslaget
-Departementet foreslo å legge til et nytt tredje
-ledd i § 2 fordi enkelte av prinsippene i yrkeskvalifikasjonsloven foreslås å gjelde borgere med
-yrkeskvalifikasjoner fra tredjeland.
-Det ble foreslått å utvide forskriftshjemmelen
-tilsvarende.
-5.5.4.3
-
-Høringsinnspill
-
-Kartverket mente det kunne være grunn til se nærmere på om begrepet «borgere» er hensiktsmessig
-i denne sammenheng, ettersom bestemmelsen er
-rettet mot andre enn statsborgere fra EØS eller
-Sveits. Det viste også til at begrepet «yrkesutøver»
-brukes i § 2 første ledd og at dette her fremstår
-som mer pedagogisk. Kartverket foreslår at «borgere» i forslagets tredje ledd erstattes med «yrkesutøver», og at § 2 femte ledd skal lyde:
-Departementet kan gi forskrift om yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i et tredjeland, og tredjelandsborgere som
-omfattes av direktiv 2004/38/EF.
-EL og IT Forbundet støtter ikke forslaget om å
-utvide virkeområdet for loven til også å gjelde for
-borgere med yrkeskvalifikasjoner fra tredjeland.
-
-[Side 152]
-
-150
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-5.5.4.4 Departementets vurdering
-Departementet bemerker at bestemmelsen ikke
-bare retter seg mot tredjelandsborgere. Bestemmelsen skal reflektere at enkelte bestemmelser i
-loven skal gjelde for yrkesutøvere som har sine
-kvalifikasjoner fra et land utenfor EØS-området,
-uavhengig av om vedkommende er norsk statsborger, statsborger i en EØS-stat eller Sveits,
-eller statsborger i et tredjeland. For å sikre en
-slik forståelse foreslås en omformulering av
-ordlyden sammenlignet med høringsforslaget,
-slik at også Kartverkets innspill imøtekommes.
-I lys av forslagene i proposisjonen her vil utvidelsen av virkeområdet gjelde for bestemmelsene
-i §§ 3, 8, 12, 13 og 15 til 18, om ikke annet er særskilt bestemt. For nærmere omtale av de ulike
-bestemmelsene som omfattes, vises det til kapitlene 5.5.5 til 5.5.12.
-– § 3 gjelder definisjonene i loven.
-– § 8 gjelder godkjenningsprinsippet, utligningstiltak og delvis adgang. Se nærmere om dette i
-kapittel 5.5.6, 5.5.7 og 5.5.8.
-– § 12 gjelder krav til dokumentasjon. Se nærmere om dette i kapittel 5.5.5.
-– § 13 gjelder saksbehandlingsregler. Se nærmere om dette i kapittel 5.5.11.
-– § 15 gjelder språkkunnskaper. Se nærmere om
-dette i kapittel 5.5.9.
-– § 16 gjelder bruk av akademisk tittel og
-yrkestittel. Se nærmere om dette i kapittel
-5.5.10.
-– § 17 gjelder elektronisk søknad. Se nærmere
-om dette i kapittel 5.5.12.
-– § 18 gjelder klage. Se nærmere om dette i
-kapittel 5.5.11.
-Departementet opprettholder forslaget om å
-utvide forskriftshjemmelen tilsvarende utvidelsen
-av virkeområdet. Det foreslås derfor en forenkling
-av ordlyden i forhold til høringsforslaget.
-
-5.5.4.5 Departementets forslag
-Departementet foreslår å endre yrkeskvalifikasjonslovens virkeområde slik at det går frem at
-yrkesutøvere med yrkeskvalifikasjoner fra tredjeland omfattes av en del av lovens bestemmelser.
-Departementet viser til forslag til endring i § 2.
-
-5.5.5
-5.5.5.1
-
-Krav til dokumentasjon
-Dagens regler
-
-I yrkeskvalifikasjonsloven § 12 og i yrkeskvalifikasjonsforskriften §§ 3-2, 8-1 og vedlegg 2 til forskriften, er det krav om at yrkesutøveren har dokumenterbare yrkeskvalifikasjoner. Dette kan være
-et kvalifikasjonsbevis eller en bekreftelse fra en
-godkjenningsmyndighet i en annen stat på at vedkommende har utøvd yrket der. Dersom verken
-yrket eller utdanningen er lovregulert i hjemstaten, må yrkesutøveren levere dokumentasjon på
-at vedkommende har utøvd yrket i minst ett av de
-siste ti årene.
-Dokumentasjon av yrkeskvalifikasjoner er et
-grunnleggende krav i direktivet. En av oppgavene
-til godkjenningsmyndigheten er å verifisere den
-dokumentasjonen som yrkesutøveren legger fram
-og undersøke innholdet i utdanningen eller praksisen. Dette må gjøres for å vurdere om det er
-vesentlige forskjeller, og om utligningstiltak skal
-ilegges før godkjenning gis.
-Etter yrkeskvalifikasjonsforskriften er det i
-utgangspunktet yrkesutøveren selv som skal
-framlegge aktuell dokumentasjon. Det gjelder
-både bevis for nasjonalitet og kvalifikasjons- og
-kompetansebevis. Når det gjelder innholdet i
-utdanningen, fastsetter forskriften at godkjenningsmyndigheten kan be yrkesutøveren legge
-fram nødvendig dokumentasjon. Dersom yrkesutøveren ikke kan dette, skal godkjenningsmyndigheten ta kontakt med tilsvarende myndighet i
-hjemstaten via EUs informasjonssystem for det
-indre marked (IMI) for å få nødvendig informasjon.
-De ulike godkjenningsmyndighetene krever i
-dag at også yrkesutøvere med yrkeskvalifikasjoner fra tredjeland kan dokumentere sine yrkeskvalifikasjoner. Direktoratet for samfunnssikkerhet og beredskap (DSB) har for eksempel opplyst
-at søknadene må dokumenteres, og at originaldokumenter på et annet språk enn engelsk, svensk
-eller dansk, må oversettes til engelsk, alternativt
-til norsk.
-
-5.5.5.2 Høringsforslaget
-I høringsnotatet ble det foreslått at kravet til dokumentasjon av yrkeskvalifikasjoner også skal gjelde
-for personer med yrkeskvalifikasjoner fra tredjeland, jf. yrkeskvalifikasjonsloven § 12.
-Det ble ikke foreslått endringer i § 12, men det
-ble foreslått forskriftsendringer.
-For søkere med yrkeskvalifikasjoner fra tredjeland kan det være vanskelig, noen ganger ikke
-
-[Side 153]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-mulig, for godkjenningsmyndigheten i Norge å ta
-kontakt med tilsvarende myndighet i hjemstaten
-til yrkesutøveren. Departementet foreslo av den
-grunn at yrkesutøvere med yrkeskvalifikasjoner
-fra tredjeland selv må framskaffe nødvendig dokumentasjon. Selv om kravet til å framskaffe nødvendig dokumentasjon her blir pålagt den enkelte
-søkeren og ikke godkjenningsmyndigheten, utelukker ikke forslaget at godkjenningsmyndigheten kan ta kontakt med tilsvarende myndighet i
-søkerens hjemstat hvis det er mulig.
-Hvilke dokumenter som kunne kreves av
-yrkesutøveren med yrkeskvalifikasjoner fra tredjeland, ble foreslått regulert i forskrift.
-Det ble foreslått understreket i forskriften at
-personer som er innvilget beskyttelse i Norge
-(flyktninger), ikke kan pålegges å ta kontakt med
-hjemlandets myndigheter hvis dette kommer i
-konflikt med beskyttelsesbehovet, jf. utlendingsloven § 83 andre ledd og utlendingsforskriften § 177 andre ledd. Følgelig kan heller ikke godkjenningsmyndighetene ta kontakt med hjemlandets
-myndigheter dersom det er nødvendig å få bekreftet dokumentene eller få ytterligere dokumentasjon. Dette innebærer en praktisk begrensning i
-flyktningers mulighet til å nyttiggjøre seg muligheten for yrkesgodkjenning etter loven. Med
-flyktninger menes her personer som har fått opphold etter §§ 28 eller 35 i utlendingsloven.
-
-5.5.5.3 Høringsinnspill
-Få høringsinstanser uttalte seg om forslaget om
-dokumentasjonskrav.
-NOKUT mener at de foreslåtte dokumentasjonskravene er svært strenge. Dette kan vanskeliggjøre godkjenningsprosessen. Det kan være
-problematisk at søkeren selv skal være ansvarlig
-for å framskaffe nødvendig dokumentasjon, og at
-ansvarlig myndighet ikke er pliktig til å innhente
-og verifisere, slik kravet er for dem med yrkeskvalifikasjoner fra EØS-stater. Dette skyldes at dokumentasjon som kommer fra søkeren selv ikke alltid har tilstrekkelig troverdighet eller notoritet. I
-tillegg kan den være vanskelig å verifisere.
-LO Norge ønsker ikke endringen.
-5.5.5.4
-
-Departementets vurdering
-
-Departementet opprettholder forslaget om å la
-§ 12 gjelde for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland. Øvrige forslag vil bli fulgt
-opp i forskrift etter at lovforslaget er behandlet.
-Departementet vil likevel bemerke at bestemmelser om at yrkesutøvere i utgangspunktet
-
-151
-
-pålegges en plikt til å innhente dokumentasjon,
-framstår som nødvendige. Bestemmelser som legger denne plikten på godkjenningsmyndighetene
-forutsetter et administrativt samarbeid mellom
-slike myndigheter. Et slikt samarbeid er etablert i
-EØS i henhold til krav i yrkeskvalifikasjonsdirektivet. Men et slikt samarbeid finnes ikke og er heller ikke mulig å pålegge godkjenningsmyndighetene i stater utenfor EØS. Dette måtte i så fall avtales mellom landene i egne overnasjonale avtaler,
-for eksempel ved frihandelsavtaler som også
-omfatter yrkesgodkjenning. Videre vil departementet påpeke at godkjenningsmyndighetene,
-med unntak av de begrensningene som gjelder
-personer med beskyttelsesbehov, ikke vil være
-avskåret fra å ta direkte kontakt med den aktuelle
-myndigheten eller utdanningsinstitusjonen i hjemstaten.
-
-5.5.5.5 Departementets forslag
-Departementet foreslår at yrkeskvalifikasjonsloven § 2 endres slik at § 12 også gjelder for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
-
-5.5.6
-
-Godkjenningsprinsippet, herunder
-kravet om samme yrke og full
-kvalifisering
-
-5.5.6.1 Dagens regler
-Vilkårene for godkjenning av yrkeskvalifikasjoner innen EØS er regulert i yrkeskvalifikasjonsloven § 8 og i forskriften § 3-3 som gjennomfører
-artikkel 13 i direktivet. I utgangspunktet skal en
-yrkesutøver fra et annet EØS-land kunne utøve et
-regulert yrke på samme vilkår som landets egne
-borgere. Se nærmere omtale av godkjenningsprinsippet i punkt 5.4.5. Etter yrkeskvalifikasjonsdirektivet er det krav om at søkerne må være fullt
-ut kvalifisert til å utøve yrket i hjemstaten. Det
-kreves videre at det dreier seg om det samme
-yrket. Se omtale i punkt 5.4.2 og 5.4.3.
-Lovverket for søkere fra tredjeland som ikke
-omfattes av yrkeskvalifikasjonsloven, er utviklet
-sektorvis per yrke. Selv om Norge her er ubundet
-av reglene som EØS-retten bygger på, vil disse
-likevel ofte kunne spille en rolle ved utforming,
-fortolkning og praktisering av regelverket for
-tredjelandsborgere. For enkelte yrker finnes det
-ikke særskilte regler for personer med yrkeskvalifikasjoner fra et tredjeland. Søknadene behandles
-i disse tilfellene etter alminnelige forvaltningsrettslige regler.
-
-[Side 154]
-
-152
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-De ulike godkjenningsmyndighetene har forskjellige mål og ulikt regelverk. Det varierer mellom de enkelte godkjenningsmyndighetene hvordan disse vurderer yrkesutøvere med utdanning
-fra tredjeland. Enkelte krever at utdanningen er
-jevngod med den i Norge, andre gjør en samlet,
-konkret og individuell vurdering av søkerens kvalifikasjoner. Andre igjen krever at yrkesutøveren
-har fått en generell godkjenning av høyere utdanning fra NOKUT, før de kan vurdere en søknad
-om yrkesgodkjenning.
-I det følgende beskrives gjeldende ordninger
-for noen av godkjenningsmyndighetene. For alle
-er det slik at vurderingen av utdanningen til
-søkerne inngår som et sentralt element i grunnlaget for vurderingen av om søkeren er kvalifisert
-for å utøve yrket. Godkjenningsmyndighetenes
-kunnskap om det utdanningssystemet som søkeren har sin utdanning fra, vil imidlertid variere.
-Norges vassdrags- og energidirektorat (NVE)
-stiller de samme kravene til utdanning og praksis
-for søkere uavhengig av om de er fra Norge, et
-annet EØS-land eller er tredjelandsborgere. Saken
-behandles i et kompetansegodkjenningsråd som
-vurderer kvalifikasjonene opp mot kravene i forskrift om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften).
-Direktoratet for samfunnssikkerhet og beredskap (DSB) godkjenner yrker innenfor el-området, brann og redning og eksplosivområdet.
-Brann- og redningspersonell omfattes ikke av
-yrkeskvalifikasjonsloven da dette er yrker innen
-offentlig myndighetsutøvelse. Yrker på el-området
-vurderes etter forskrift om elektroforetak og kvalifikasjonskrav for arbeid knyttet til elektrisk utstyr
-§ 12. For å bli godkjent kreves det at vedkommende har kvalifikasjoner tilnærmet de kvalifikasjonskravene som framgår av forskriften §§ 6 til
-10. DSB har omtrent 150 søknader per år fra tredjelandsborgere. Behandling av yrker under
-eksplosivområdet, dvs. bergsprenger, bergsprengningsleder og teknisk sprengningskyndig,
-følger bestemmelser i forskrift om sivil håndtering
-av eksplosjonsfarlige stoffer. Søknader til yrkene
-scenepyrotekniker og profesjonell pyrotekniker
-følger bestemmelser i forskrift 26. juni 2002 om
-håndtering av eksplosjonsfarlig stoff. Også for
-disse yrkene er det svært få søknader fra tredjelandsborgere. Felles for alle yrkene er at søknadene må dokumenteres. Dersom originaldokumentene er på et annet språk enn engelsk, svensk
-eller dansk, må disse oversettes til engelsk, alternativt til norsk. Det foretas en konkret helhetsvurdering av søkerens samlede kompetanse sett opp
-mot kravene i det norske regelverket for å gi god-
-
-kjenning til å utøve det aktuelle yrket. Det benyttes ikke utligningstiltak for tredjelandsborgere, og
-det gis ikke delvis adgang til et yrke. Vedtakene
-begrunnes. DSB melder om følgende utfordringer:
-– Utfordringer knyttet til om søker har forstått
-hvilket yrke som han eller hun ønsker godkjenning til å utøve i Norge. Tilsvarende er det
-utfordringer knyttet til å forstå hvilket yrke
-søkeren har utdanning til og erfaring fra, herunder å få bekreftet innholdet av den utenlandske utdanningen.
-– Utfordringer knyttet til å få avklart om det aktuelle yrket er regulert i etableringslandet.
-– Til dels lang saksbehandlingstid for enkeltområder.
-
-5.5.6.2 Høringsforslaget
-Det ble foreslått å gjøre godkjenningsprinsippet,
-herunder kravene til at det dreier seg om det
-samme yrket og at søker må være fullt ut kvalifisert til å utøve yrket i hjemstaten, gjeldende for
-personer med yrkeskvalifikasjoner fra tredjeland.
-Slik må godkjenningsmyndighetene vurdere den
-samlede yrkeskompetansen til søkeren, ikke bare
-selve utdanningen.
-Departementet vurderte om godkjenningsprinsippet skulle gjelde tilsvarende eller om det er
-behov for enkelte tilpasninger for at dette prinsippet skal kunne legges til grunn for denne gruppen.
-Det ble foreslått at yrkeskvalifikasjonsloven
-§ 8, som lovfester godkjenningsprinsippet, skulle
-gjøres gjeldende for kvalifikasjoner fra tredjeland.
-Det ble ikke ansett som nødvendig med endringer
-i forskriftshjemmelen i § 8, da den vil gi den nødvendige hjemmel til å utarbeide forskriftsregler
-om godkjenning av yrkeskvalifikasjoner fra tredjeland.
-Departementet foreslo videre å forskriftsfeste
-at retten ikke skal gjelde for personer med kortere utdanning fra hjemstaten, dvs. yrker som i
-yrkeskvalifikasjonsforskriften § 3-1 kategoriseres
-på nivå A. Dette innebærer blant annet at yrker
-som godkjennes av Arbeidstilsynet, slik som dykker, truckfører i ulike klasser, maskinførere m.m.,
-ikke var omfattet av forslaget.
-Departementet gjorde også oppmerksom på at
-det kunne være annet EØS-regelverk som setter
-begrensninger for om personer med yrkeskvalifikasjoner fra tredjeland kan omfattes av regelverket. Dette gjaldt blant annet revisjonsdirektivet
-(direktiv 2006/43/EF som endret ved direktiv
-2014/56/EU) som setter begrensninger i adgangen til å godkjenne personer med yrkeskvalifika-
-
-[Side 155]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-sjoner fra tredjeland. Etter artikkel 44 nr. 1 i direktivet kan Finanstilsynet ikke godkjenne revisorer
-fra tredjeland som Norge ikke har avtale om gjensidig godkjenning av revisorer med. Videre krever direktivet at disse personene må oppfylle kvalifikasjonskravene etter direktivets artikkel 4 og
-artikkel 6 til 13. Departementet foreslo ikke at
-begrensninger i annet EØS-regelverk skulle reguleres særskilt.
-
-5.5.6.3 Høringsinnspill
-EL og IT Forbundet, LO Norge og Elektromontørenes forening Oslo og Akershus (EMF) har til dels
-samme begrunnelse for ikke å støtte forslaget.
-EMF mener at intensjonen om å likebehandle personer, uavhengig av om de er EØS-borgere eller
-kommer fra tredjeland, er god. Likevel må kriteriene som kreves for godkjenning av yrkeskvalifikasjoner være strammere enn regelverket som gjelder for EØS-borgere. EL og IT Forbundet er sterkt
-uenig i forslaget til endringer i godkjenningsordningen. Forbundet frykter at forslaget vil senke
-kravet til den formelle utdanningen betraktelig og
-føre til en utvikling hvor personer med liten teoretisk kompetanse blir godkjent som elektroarbeidere.
-Tilsynsrådet for advokatvirksomhet uttaler at
-gjeldende regler for personer med advokatbevilling fra et annet land utenfor EU/EØS eller med
-statsborgerskap utenfor EU/EØS, som utgangspunkt gir adgang til å yte rettshjelp i fremmed og
-internasjonal rett. Hvis det åpnes for at disse skal
-få de samme rettighetene som EU-/EØS- borgere
-med advokatbevilling fra et EU-/EØS-land, vil
-dette utgjøre en vesentlig endring fra dagens system. Tilsynsrådet er ikke positive til en slik endring.
-Nasjonal kommunikasjonsmyndighet (Nkom)
-viser til at kravet for kvalifisert person etter autorisasjonsforskriften er sammensatt av formell
-utdanning og yrkeserfaring. Langvarig praksis
-kan ikke kompensere for manglende formell
-utdanning. Nkom mener det er problematisk å
-vurdere yrkeserfaringer fra søkere fra tredjeland,
-fordi det ikke finnes et tilsvarende yrke i andre
-land.
-Norges Farmaceutiske Forening mener at prinsippene som legges til grunn må utøves på en slik
-måte at man tar hensyn til det høye antallet utenlandsk utdannet personell som Norge har. Et høyt
-antall utenlandsk utdannet personell vil etter
-foreningens syn for eksempel kunne føre til færre
-muligheter for kollegaveiledning om norske retningslinjer.
-
-153
-
-I Direktoratet for samfunnssikkerhet og beredskap (DSB) støtter forslaget delvis og har tatt forbehold for yrker på eksplosivområdet da dette kan
-få konsekvenser i saker hvor søkeren kommer fra
-land Norge ikke har har et sikkerhetspolitisk samarbeid med fordi det vil kunne være særskilte
-utfordringer knyttet til vurderingen av notoriteten
-til fremlagt dokumentasjon i slike saker. DSB ber
-om at det innføres en bestemmelse som gir
-grunnlag for å avslå søknader av hensyn til offentlig helse og sikkerhet.
-Statens vegvesen påpeker at det må kunne
-være mulig å avslå en søknad fra en yrkesutøver
-med yrkeskvalifikasjoner fra tredjeland. Vegvesenet anbefaler at det ikke legges hindringer i veien
-for å avslå søknader på øvrige grunnlag. Statens
-vegvesen presiserer at Norge er det eneste landet
-– som de kjenner til – hvor trafikklærerutdanning
-er en toårig universitetsutdanning. Norge har en
-annen føreropplæring enn andre land både med
-tanke på det pedagogiske aspektet hos trafikklæreren og med delvis obligatorisk opplæring for
-eleven. Statens vegvesen opplyser videre at det for
-verkstedbransjen er særlig vanskelig å vurdere
-om en kvalifikasjon gjelder samme yrke, fordi
-oppbygningen og organiseringen av verkstedbransjen bygger på norsk særordning.
-Direktoratet for byggkvalitet opplyser at det i
-dag foretar en totalvurdering av utdanning, praksis og yrkesdeltakelse som aktiv sikkerhetskontrollør når det godkjenner personer fra andre
-EØS-land og utenfor disse landene.
-Revisorforeningen mener at de foreslåtte forslagene ikke vil få betydning for godkjenning av revisorer og ber om en tydeliggjøring av dette.
-KS stiller seg bak behovet for effektive ordninger for godkjenning av utenlandsk utdanning og
-yrkeskvalifikasjoner. KS mener at for samfunnskritiske profesjoner med strenge nasjonale krav,
-må krav til formell utdanning vektlegges på
-samme nivå som de helhetlige yrkeskvalifikasjonene.
-
-5.5.6.4 Departementets vurdering
-Departementet foreslår at godkjenningsprinsippet
-i yrkeskvalifikasjonsloven for personer med yrkeskvalifikasjoner fra tredjeland skal legges til grunn
-ved vurderingen for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland. Dette synliggjøres ved at
-lovens § 8 skal gjelde for denne gruppen.
-Begrensningene i retten til godkjenning vil følge
-av de lov- og forskriftsendringene som omtales i
-de øvrige kapitlene i proposisjonen her.
-
-[Side 156]
-
-154
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Departementet mener at så lenge en yrkesutøver er fullt ut kvalifisert til å utøve det samme
-yrket i det landet vedkommende har sine yrkeskvalifikasjoner fra, skal vedkommende vurderes.
-Det betyr ikke at vedkommende vil få godkjenning, men søknaden skal vurderes ut fra de helhetlige yrkeskvalifikasjonene til yrkesutøveren.
-Dette innebærer at departementet ikke er enig i
-innspillet om at langvarig praksis ikke kan kompensere for formell utdanning. Departementet
-mener tvert imot at det kan være tilfeller der en
-yrkesutøver har utøvd yrket i lang tid og dermed
-har tilegnet seg nødvendige kunnskaper.
-Departementet understreker at godkjenningsmyndigheten alltid må vurdere om det er snakk
-om det samme yrket, før myndigheten vurderer
-yrkeskvalifikasjonene.
-Erfaringen fra enkelte godkjenningsmyndigheter er at det kan være vanskelig å vurdere om
-en søker er kvalifisert til å utøve det samme yrket
-i hjemstaten, selv for søkere fra EØS. Det kan
-være vanskelig å finne informasjon om hva som er
-innholdet i yrket og hvilken aktivitet yrkesutøveren kan utøve. Det er grunn til å anta at dette er
-vanskeligere med søkere utenfor EØS, spesielt
-siden det ikke er noe administrativt samarbeid
-mellom godkjenningsmyndighetene med landene
-utenfor EØS. I denne sammenhengen viser departementet til at det for kvalifikasjoner fra tredjeland
-foreslås at dokumentasjonsplikten legges til søkeren, jf. punkt 5.5.5.
-Ved å legge til grunn at yrkeserfaring skal
-være relevant, vil søkerens samlede yrkeskompetanse bli vurdert. For enkelte yrker vil dette få
-som konsekvens at kravene til dokumentert formell utdanning blir lavere enn i dag, fordi yrkeserfaring kan kompensere for formell opplæring.
-En høringsinstans viser til at godkjenningsmyndighetene mangler fagkunnskap til å foreta
-en vurdering av yrkeskvalifikasjonene. Departementet forutsetter at den enkelte godkjenningsmyndigheten må ha den nødvendige fagkompetansen til å vurdere yrkeskvalifikasjonene til søkeren.
-To av høringsinstansene som er sterkt imot
-forslaget, representerer en yrkesgruppe, dvs.
-elektroarbeidere. Disse instansene mener at
-reglene ikke skal endres og frykter at det vil
-senke kravet til den formelle utdanningen betraktelig og føre til en utvikling hvor personer med
-liten teoretisk kompetanse blir godkjent som elektroarbeidere. Departementet vil påpeke at yrkeskvalifikasjonsloven ikke regulerer hvilke kvalifikasjonskrav som stilles i Norge for å utøve yrket.
-Lov og forskrift har prosessuelle regler for hvor-
-
-dan en yrkesutøver skal bli godkjent i Norge, når
-det i Norge er et regulert yrke.
-Departementet mener at fordelene for den
-enkelte yrkesutøveren må veie tungt, og at det er
-et godt prinsipp at godkjenningsmyndighetene
-skal legge vekt på de helhetlige yrkeskvalifikasjonene til yrkesutøveren. Det avgjørende må være
-at yrkesutøveren er kvalifisert til å utøve et yrke i
-hjemstaten. Utdanningen alene kan ikke være
-avgjørende. Det er flere godkjenningsmyndigheter som har slik praksis allerede i dag, bl.a. Statens vegvesen og Direktoratet for byggkvalitet.
-Departementet mener at endringen vil gi mer forutsigbarhet og likebehandling av yrkesutøvere.
-Departementet mener videre at endringen vil
-kunne føre til en raskere godkjenning og at yrkesutøvere med kvalifikasjoner fra tredjeland kommer raskere ut i arbeid.
-Departementet kan i utgangspunktet ikke se
-at det er nødvendig med en strammere godkjenningsprosess for yrkesutøvere med kvalifikasjoner fra tredjeland så lenge yrkesutøveren er fullt
-ut kvalifisert til å utøve det samme yrket i det landet som vedkommende har sine yrkeskvalifikasjoner fra. Departementet mener at dette må legges
-til grunn også for samfunnskritiske yrker, og er
-derfor ikke enig i at det bør gjøres unntak for samfunnskritiske profesjoner. På den annen side vil
-det gjelde enkelte begrensninger for i hvilken
-grad de ulike prinsippene i yrkeskvalifikasjonsloven legges til grunn for søknader knyttet til tredjelandskvalifikasjoner, jf. de følgende kapitlene i
-proposisjonen her.
-Departementet vil i forbindelse med forskriftsarbeidet vurdere innspillet om at det bør
-utformes en bestemmelse som gir grunnlag for å
-avslå søknader av hensyn til offentlig helse og sikkerhet.
-
-5.5.6.5 Departementets forslag
-Departementet foreslår at yrkeskvalifikasjonsloven § 2 endres slik at § 8 også gjelder for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
-
-5.5.7
-
-Utligningstiltak
-
-5.5.7.1 Dagens regler
-Yrkeskvalifikasjonsdirektivet inneholder bestemmelser om at godkjenningsmyndigheten skal
-kunne pålegge yrkesutøvere fra EØS utligningstiltak dersom det er vesentlige forskjeller mellom de
-kvalifikasjonene vedkommende har fra annen
-EØS-stat og de som kreves i vertslandet. Reglene
-
-[Side 157]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-om utligningstiltak er tatt inn i forskrift om godkjenning av yrkeskvalifikasjoner §§ 3-4 til 3-6, jf.
-forskriftshjemmelen i lovens § 8 siste ledd.
-Det er bare ved vesentlige forskjeller i kvalifikasjonene at godkjenningsmyndighetene kan
-kreve utligningstiltak. Utligningstiltakene er som
-hovedregel enten et krav til en prøveperiode på
-inntil tre år eller en egnethetstest. En prøveperiode kan også inneholde et krav om at søker gjennomfører kurs eller annen videreutdanning. Poenget med en prøveperiode er at yrkesutøveren skal
-prøves i de manglene som gjennomgangen av kvalifikasjonene har funnet. Prøveperioden skal etterfølges av en vurdering av om yrkesutøveren har
-tilegnet seg den manglende kunnskapen. Dersom
-prøveperioden viser at yrkesutøveren ikke har tilegnet seg kunnskapen, kan søknaden om yrkesgodkjenning avslås. En søknad vil også kunne bli
-avslått dersom yrkesutøveren ikke består en
-pålagt egnethetsprøve.
-Som hovedregel kan en yrkesutøver fra EØS
-selv velge mellom prøveperiode og egnethetstest.
-For yrker hvor utøvelsen krever særskilt kunnskap til nasjonal rett, kan imidlertid godkjenningsmyndighetene bestemme hvilket utligningstiltak
-som skal pålegges. Det samme gjelder der det er
-en forskjell mellom utdanningsnivået til søkeren
-og de kravene som stilles i Norge på mer enn to
-nivåer.
-Godkjenningsmyndigheten skal tilby egnethetsprøve innen seks måneder. Det er ikke krav
-om at det er godkjenningsmyndigheten som gjennomfører prøven. Den kan settes ut til andre, for
-eksempel en utdanningsinstitusjon eller en organisasjon. Når det gjelder prøveperiode, må yrkesutøveren få informasjon om hvor dette kan gjennomføres, og om det skal være en vurdering etter
-gjennomført periode. Det forutsettes at det ikke
-skal være så vanskelig å få gjennomført en prøveperiode at det reelt sett ikke er et alternativ.
-Videre bør det være mulig å gjennomføre prøveperioden flere steder i landet. Departementet gjør
-oppmerksom på at det etter yrkeskvalifikasjonsloven er godkjenningsmyndigheten som skal
-finansiere utligningstiltak. Men det kan kreves at
-en yrkesutøver som søker yrkesgodkjenning, må
-dekke utgiftene gjennom et gebyr.
-Bestemmelsene om utligningstiltak gjelder
-ikke for yrkesutøvere med kvalifikasjoner fra tredjeland. For disse søkerne vil det variere om godkjenningsmyndigheten tilbyr utligningstiltak.
-
-155
-
-5.5.7.2 Høringsforslaget
-Departementet foreslo at yrkesutøver med yrkeskvalifikasjoner fra tredjeland ikke skal ha rett til
-utligningstiltak i tilfeller der det er fastslått vesentlige forskjeller mellom de kravene som stilles i
-Norge og søkerens samlede kompetanse. I slike
-tilfeller skal godkjenningsmyndighetene i stedet
-opplyse om tiltak som prøveperiode, egnethetstest eller kompletterende utdanning, dersom
-slike tiltak er tilgjengelige, anses som hensiktsmessige og vil utligne de vesentlige forskjellene.
-I høringsnotatet drøftet departementet om
-reglene om utligningstiltak skulle gjelde for personer med yrkeskvalifikasjoner fra tredjeland, uavhengig av om vedkommende hadde oppholdstillatelse i Norge. Departementet ba om høringsinstansenes syn på om reglene bare bør gjelde for
-personer som allerede oppholder seg i Norge med
-gyldig oppholdstillatelse, eller om det ikke bør
-settes krav til gyldig oppholdstillatelse.
-I tilfeller der det gis en mulighet til å gjennomføre en prøveperiode, foreslo departementet at
-denne ble begrenset til maksimalt to år. Begrensningen på to år hadde sin bakgrunn i reglene om
-oppholdstillatelse for studenter etter utlendingsforskriften § 6-19 tredje ledd. Det følger av
-bestemmelsen at utlendinger som har kompetanse som faglært og som trenger tilleggsutdanning eller praksis for å få den nødvendige godkjenningen av utdanningen i Norge, kan få studietillatelse i til sammen to år.
-Departementet foreslo videre at det for personer med kvalifikasjoner fra tredjeland skulle gjøres unntak fra regelen om at søker selv kan velge
-mellom prøveperiode og egnethetsprøve.
-Videre foreslo departementet at dersom det
-foreligger vesentlige forskjeller mellom de kravene som stilles i Norge og søkerens samlede
-kompetanse, så kunne godkjenningsmyndigheten avslå søknader fra personer med yrkeskvalifikasjoner fra tredjeland.
-Departementet foreslo videre å forskriftsfeste
-at de særlige kravene til begrunnelse som gjelder
-ved vedtak om utligningstiltak etter forskriften
-§ 3-6, skal gjelde tilsvarende for søkere med kvalifikasjoner fra tredjeland.
-Det ble foreslått at bestemmelsene skulle gis i
-ved endringer i forskrift om godkjenning av yrkeskvalifikasjoner §§ 3-4 og 3-5, med hjemmel i yrkeskvalifikasjonsloven § 8.
-
-[Side 158]
-
-156
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-5.5.7.3 Høringsinnspill
-KS mener det må være en forutsetning at søkeren
-skal kunne pålegges utligningstiltak der det foreligger vesentlige forskjeller mellom søkerens
-utdanning og de kravene som stilles i Norge, for
-eksempel krav til praksis i utdanningen.
-EL og IT Forbundet mener at det må kreves
-praksisperiode og teoretisk oppdatering for alle
-søkerne som ikke kan dokumentere nødvendig
-formell utdanning og yrkespraksis hvis forslaget
-blir vedtatt. Elektromontørenes forening Oslo og
-Akershus (EMF) mener at yrkesutøver må bestå
-en egnethetstest som bransjeorganisasjonene (EL
-og IT Forbundet og NELFO) skal utarbeide innholdet i.
-LO Norge uttaler at dersom Norge mangler
-arbeidskraft innen enkelte yrker og ikke selv er i
-stand til å utvikle nødvendig kompetanse, vil ulike
-utligningstiltak kunne bidra på kort sikt. Ved liten
-differanse i kompetansekravene vil eksempelvis
-pålegg om yrkesprøve eller egnethetstest kunne
-benyttes. Også ved mindre differanse i de formelle kvalifikasjonene enn det direktivet oppstiller, bør man kunne vurdere slike krav. Arbeidslivet endres raskt og ulikt, og endringene fanges
-ikke alltid opp av nasjonale utdanninger. LO Norge
-påpeker at når det foreligger vesentlige forskjeller
-mellom de kravene som stilles i Norge og søkerens samlede kompetanse, så ikke bare kan, men
-skal godkjenningsmyndigheten avslå søknader fra
-personer fra tredjeland.
-Direktoratet for samfunnssikkerhetog beredskap
-(DSB) stiller spørsmål ved at kravet om oppholdstillatelse i Norge nevnes i denne bestemmelsen, og ikke i bestemmelsene om lovens og forskriftens virkeområde. Dersom kravet om oppholdstillatelse i Norge først nevnes i forbindelse
-med prinsippet om utligningstiltak, vil vi uansett
-måtte behandle søknaden etter dette regelverket
-uavhengig av hvor personen befinner seg. Hvis
-det ikke kreves gyldig oppholdstillatelse for å få
-behandlet søknader etter dette regelverket, vil det
-kunne medføre et økt antall ikke-reelle søknader.
-Dette vil gi økte kostnader i forbindelse med innhenting og evaluering av innsendt dokumentasjon. Dette stemmer ikke godt med intensjonen
-bak de foreslåtte endringene, som er å få personer
-i Norge raskere i arbeid. DSB mener dermed at
-alternativet om at yrkesutøveren skal ha oppholdstillatelse i Norge bør flyttes til bestemmelsene om lovens og forskriftens virkeområde.
-
-Videre mener DSB at prøveperioden ikke bør
-begrenses til to år for tredjelandsborgere.
-Nasjonal kommunikasjonsmyndighet (Nkom)
-har få søkere med utenlandsk utdanning. Det
-anses som lite hensiktsmessig å lage tilpassede
-opplæringstiltak for de søkerne som mangler kvalifikasjoner for å bli kvalifisert person. For de aller
-fleste søkerne vil mangel på fordypning i ekomfag
-være årsaken til at de ikke oppfyller forskriftens
-kompetansekrav som kvalifisert person. Etter fast
-praksis vil det i avslagsvedtaket da vises til at slik
-kompetanse kan oppnås ved å gjennomføre fagskolens fordypningskurs i ekom.
-Statens vegvesen uttaler at for yrkene trafikklærer og faglig leder for trafikkskole følger det av trafikkopplæringsforskriften at godkjenning av yrkeskvalifikasjoner fra tredjeland forutsetter bestått
-egnethetsprøve og åpning for å ilegge en prøveperiode ved ytterligere behov. Vegvesenet anbefaler av
-den grunn at det vurderes mulighet for godkjenningsmyndighetene til å kunne kreve egnethetsprøve som en kvalitetssikring. Denne løsningen gir
-søkeren større mulighet til å få godkjenning, samtidig som godkjenningsmyndighetene sikrer at vedkommende innehar gode nok kvalifikasjoner. Statens vegvesen mener det er hensiktsmessig at det
-stilles krav om at bestemmelsen om utligningstiltak
-gjelder for dem med oppholdstillatelse i Norge. Det
-begrunnes med at flere vil søke godkjenning hvis
-forslaget gjennomføres.
-Kartverket stiller spørsmål om de foreslåtte
-endringene kan og vil føre til at flere personer fra
-tredjeland vil søke om yrkesgodkjenning. Dette
-kan i så fall være et argument for at opplysningene
-om utligningstiltak bare bør gjelde for dem med
-oppholdstillatelse. På den andre siden må det
-etter Kartverkets oppfatning utvikles løsninger for
-å framskaffe informasjon om søkerens oppholdstillatelse. Det er i tillegg uklart for Kartverket hvorvidt dette vilkåret vil ha innvirkning på
-den totale mengden av søknader som godkjenningsmyndighetene vil motta fra personer med
-yrkeskvalifikasjoner fra tredjeland. Søknadene vil
-uansett måtte behandles, enten de omfatter informasjon om utligningstiltak eller ikke. Det er dermed ikke åpenbart at den samlede arbeidsmengden vil bli vesentlig annerledes ved det ene alternativet sammenlignet med det andre.
-Det er bare Direktoratet for mineralforvaltning
-som støttet alternativet om ikke å kreve oppholdstillatelse i Norge som vilkår for at ansvarlig
-myndighet skal opplyse om mulige utligningstiltak.
-
-[Side 159]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-5.5.7.4 Departementets vurdering
-Departementet opprettholder forslaget om at godkjenningsmyndigheten skal opplyse om utligningstiltak dersom de er tilgjengelige, anses hensiktsmessige og kan utligne den vesentlige forskjellen. Departementet vil regulere dette i forskrift med hjemmel i yrkeskvalifikasjonsloven § 8.
-Departementet vil understreke at det ikke legges opp til plikt for godkjenningsmyndighetene til
-å etablere utligningstiltak. Forslaget er bare at
-godkjenningsmyndighetene skal opplyse om
-utligningstiltak, dersom de finnes, er hensiktsmessige og kan utligne de vesentlige forskjellene.
-Forslaget fra EL og IT Forbundet at det må
-kreves praksisperiode og teoretisk oppdatering
-for alle søkerne som ikke kan dokumentere nødvendig formell utdanning og yrkespraksis, er etter
-departementets vurdering for strengt. Departementet mener at dette vil bryte med prinsippet om
-å legge de helhetlige yrkeskvalifikasjonene til
-grunn og at det skal være en individuell vurdering
-i hvert enkelt tilfelle.
-LO Norge foreslår at søknaden skal avslås ved
-vesentlige forskjeller. Departementet er ikke enig
-i dette, og opprettholder forslaget om å legge til
-grunn prinsippet i yrkeskvalifikasjonsloven om at
-yrkesutøvere fra tredjeland i slike tilfeller bør opplyses om hvordan vedkommende kan utligne
-disse forskjellene. Det bør ikke være et krav at
-søknaden skal avslås.
-På den annen side ser departementet at det
-ikke alltid finnes tilgjengelige utligningstiltak som
-det kan opplyses om. Departementet opprettholder derfor forslaget om at godkjenningsmyndigheten kan avslå søknaden dersom det er vesentlige forskjeller i kvalifikasjonene.
-Departementet er ikke enig med innspillet om
-at det bør kunne vurderes krav om utligningstiltak
-også ved mindre vesentlige forskjeller i kvalifikasjonene. Dette ville bryte med prinsippet i loven
-om at det er ved vesentlige forskjeller det skal vurderes utligningstiltak. Ulik terskel for kvalifikasjoner fra henholdsvis EØS og tredjeland, ville gjøre
-godkjenningsmyndighetenes arbeid mer komplisert. Departementet kan uansett ikke se at det
-foreligger hensyn som taler for en annen terskel i
-disse sakene.
-Departementet vil i forbindelse med utarbeidelse av forskriftsbestemmelsene vurdere forslaget fra Statens vegvesen om at en yrkesutøver i
-gitte tilfeller må bestå en egnethetsprøve og en
-prøveperiode.
-Bare en høringsinstans uttalte at det ikke bør
-stilles krav om oppholdstillatelse for at reglene om
-
-157
-
-utligningstiltak skal komme til anvendelse. Et
-argument for å kreve oppholdstillatelse er at personer med oppholdstillatelse allerede oppholder
-seg i Norge. Det er viktig at disse kommer raskt i
-arbeid. Dette kan tale for at de bør behandles likt
-som søkere fra EØS-stater. Et annet argument,
-trukket fram av blant annet Statens vegvesen, er
-at et krav om oppholdstillatelse kan forebygge at
-godkjenningsmyndighetene får et økt antall søknader fra personer som ikke er reelle søkere, og
-ikke har til hensikt å etablere seg i Norge. Det blir
-spørsmål om det er hensiktsmessig å bruke ressurser på å vurdere utligningstiltak for søkere
-som ikke har oppholdstillatelse i Norge, og heller
-ikke tilknytning til landet.
-Departementet er på denne bakgrunn kommet til at bestemmelsene om utligningstiltak bør
-forbeholdes personer med oppholdstillatelse i
-Norge. I høringsnotatet ble det lagt til grunn at et
-slikt krav ville innebære at godkjenningsmyndighetene må etablere et system for kontroll av gyldig oppholdstillatelse. Departementet vil understreke at utgangspunktet for forslagene i denne
-proposisjonen er at dokumentasjonsplikten er lagt
-til søkeren, se punkt 5.5.5. Det innebærer at det er
-søkeren som må dokumentere oppholdstillatelse.
-Det følger dessuten av Utlendingsdirektoratets
-retningslinjer at opplysninger om hvorvidt en person har oppholdstillatelse ikke er taushetsbelagte.
-Slike opplysninger kan innhentes elektronisk fra
-utlendingsmyndighetene.
-Både DSB og Kartverket mener at kravet om
-oppholdstillatelse bør gjelde generelt for godkjenningsordningen og ikke bare knyttes til
-utligningstiltak. Departementet er ikke enig i
-dette. Departementet viser i denne sammenhengen til utlendingsforskriften § 6-1 og reglene om
-oppholdstillatelse til faglærte. I første ledd bokstav b kan en arbeidstaker få oppholdstillatelse
-dersom det foreligger godkjenning eller autorisasjon fra relevant fagmyndighet i yrker hvor det er
-kvalifikasjonskrav i lov eller forskrift. Etter
-departementets vurdering vil et krav om oppholdstillatelse før personen kan vurderes etter
-yrkeskvalifikasjonsloven
-undergrave
-dette
-systemet.
-DSB mener at prøveperioden ikke skal
-begrenses til to år for tredjelandsborgere. Departementet viser til at det følger av utlendingsforskriften § 6-19 tredje ledd at utlendinger som har
-kompetanse som faglært og som trenger tilleggsutdanning eller praksis for å få den nødvendige
-godkjenningen av utdanningen i Norge, kan få
-studietillatelse i til sammen to år. Dette gjør at
-prøveperioden maksimalt bør settes til to år for
+## Bruk av falske dokumenter ved opptak og under utdanningen
+
+### Bakgrunn
+
+Departementet har fått henvendelser fra både fagskoler og Unit med spørsmål om hva de skal gjøre dersom de oppdager at søkerne har benyttet falske dokumenter ved opptak. Etter universitets- og høyskoleloven er bruk av falske vitnemål eller andre falske dokumenter forbudt. Det er også fastsatt at en institusjon, Samordna opptak eller NOKUT, skal politianmelde dersom de oppdager at en søker har levert falske vitnemål eller andre falske dokumenter som grunnlag for opptak eller godkjenning av utdanning. Fagskoleloven har ingen tilsvarende plikt. Departementet mener det er behov for å regulere dette også for fagskolene.
+
+### Dagens regler
+
+#### Bruk av falske dokumenter ved opptak og ved godkjenning av utdanning
+
+Det er i dag ingen bestemmelse som regulerer og sanksjonerer bruk av falsk dokumentasjon ved opptak til fagskoleutdanning eller ved godkjenning av utdanning, slik det er i uhl. § 3-7. Bruk av falske dokumenter er en straffbar handling, jf. lov om straff (straffeloven) § 361. Fordi det ikke foreligger noen plikt i fagskoleloven til å anmelde slike forhold, må institusjonene selv vurdere om de skal anmelde.
+
+Uhl. § 3-7 sjette ledd sier at *«\[b\]ruk av falske vitnemål eller andre falske dokumenter er forbudt».* Bestemmelsen presiserer at dette også gjelder for dokumenter utstedt av falske institusjoner. Dersom en institusjon, Samordna opptak eller NOKUT oppdager at en søker har levert falske vitnemål eller andre falske dokumenter eller dokumenter utstedt fra falske institusjoner, skal forholdet politianmeldes, jf. sjuende ledd. Etter bestemmelsen har institusjonene en rettslig plikt til å anmelde slike forhold. Det følger også av forvaltningsloven § 13b første ledd nr. 6 at taushetsplikten ikke er til hinder for å anmelde forholdet.
+
+Hva som regnes som falske vitnemål eller dokumenter er videre definert i opptaksforskriften § 10-1, som lyder:
+
+\(1\) Eit vitnemål eller dokument er falskt dersom det inneheld skriftleg eller digital dokumentasjon som ikkje er sannferdig, eller dersom innhaldet i eit opphavleg, skriftleg eller digitalt, vitnemål eller dokument er manipulert eller endra.
+
+\(2\) Med dokument utferda av falske utdanningsinstitusjonar er meint dokument som er utferda av ikkje-eksisterande utdanningsinstitusjonar eller av utdanningsinstitusjonar som gir urett uttrykk for å ha ei akkreditering etter lov om universiteter og høyskoler § 3-1 eller etter tilsvarande utanlandsk regelverk.
+
+Etter første ledd vil et vitnemål eller dokument være falskt både der innholdet har vært usant fra opprettelsen av dokumentet, og der innholdet senere har blitt manipulert eller endret. Andre ledd viser til dokumenter fra institusjoner hvor dokumentene i seg selv kan være ekte. Falske institusjoner kan være ikke-eksisterende utdanningsinstitusjoner eller institusjoner som ikke har nødvendig akkreditering for å tilby utdanning, men som gir uttrykk for det. Slike tilfeller omfattes ikke av straffeloven § 361, da dette ikke er falske dokumenter i straffelovens forstand, men «ekte» dokumenter fra falske eller ikke-eksisterende institusjoner. Det er derfor opptaksforskriftens definisjon som gjelder når institusjonene skal vurdere mistanke om dokumentfalsk.
+
+#### Bruk av falske dokumenter under utdanningen
+
+Det følger av fagskoleloven § 24 første ledd at en student som har brukt falske vitnemål eller andre falske dokumenter for å få adgang til å avlegge en eksamen, en prøve eller et annet arbeid som bedømmes med karakter, kan få resultatet annullert. Etter tredje ledd kan fritak eller godskriving annulleres ved bruk av falske vitnemål eller andre falske dokumenter. Etter § 25 fjerde ledd kan en student utestenges fra all utdanning ved fagskolen i inntil ett år dersom det er benyttet et falskt vitnemål eller andre falske dokumenter, jf. § 24 første og tredje ledd.
+
+Det foreligger heller ikke i disse tilfellene noen plikt til å politianmelde dersom institusjonene oppdager bruk av falske dokumenter.
+
+### Høringsforslaget
+
+Departementet foreslo i høringsnotatet å ta inn tre nye ledd i fagskoleloven § 16 om bruk av falske dokumenter. Forslagene tilsvarer i all hovedsak uhl. § 3-7 sjette ledd. Denne bestemmelsen sier klart at bruk av falske vitnemål og andre falske dokumenter ved opptak er forbudt og at departementet i forskrift gir utfyllende bestemmelser om hva som skal anses som falske vitnemål, falske dokumenter og dokumenter utstedt fra falske institusjoner. Departementet foreslo videre at fagskolene og Unit (Samordna opptak) skal ha plikt til å anmelde søkeren når de oppdager bruk av falske dokumenter i forbindelse med opptak til utdanning. Dette medfører at det blir en klar hjemmel også i fagskoleloven om at bruk av falske dokumenter ved opptak er forbudt og at institusjonene som oppdager slik bruk, har plikt til å politianmelde.
+
+I likhet med uhl. § 3-7 åttende ledd foreslo departementet også en bestemmelse om at den som bruker falske dokumenter vil få disse inndratt og få opptakskarantene på inntil ett år. Vedtak om inndragning og karantetid skal treffes av styret eller institusjonens klagenemnd med to tredjedels flertall. Departementet eller særskilt klageorgan oppnevnt av departementet skal være klageinstans.
+
+Videre foreslo departementet en hjemmel i loven om at det i fagskoleforskriften skal kunne fastsettes en definisjon av hva som skal regnes som falske dokumenter. Departementet hadde også på høring et forslag til bestemmelse i forskriften som tilsvarer opptaksforskriften § 10-1.
+
+NOKUTs plikt til å anmelde bruk av falske vitnemål og dokumenter ved godkjenning av utenlandsk fagskoleutdanning foreslo departementet tatt inn som et nytt andre ledd i fagskoleloven § 7.
+
+Departementet foreslo også at det i fagskoleloven § 24 sjette ledd tas inn en plikt for fagskolen til å politianmelde bruk av falske vitnemål, andre falske dokumenter eller dokumenter utstedt av falske institusjoner under utdanningen.
+
+### Høringsinnspill
+
+Departementet har mottatt 29 høringsinnspill til forslagene knyttet til bruk av falske dokumenter, og forslagene fikk bred støtte i høringen. Blant høringsinstansene som har uttalt seg er direktorater, universiteter, fylkeskommuner, fagskoler og organisasjoner.
+
+NOKUT har kommet med flere innspill, og støtter ikke forslagene fullt ut. *NOKUT* mener det er behov for å utrede forslaget om plikt til å anmelde bruk av falske dokumenter nærmere. De er opptatt av at departementet må sørge for at beslutninger om falske dokumenter skjer med forsvarlig saksbehandling. De nevner blant annet at det er nødvendig å ha tilstrekkelig kompetanse for å vurdere om det foreligger bruk av falske dokumenter. NOKUT mener det kan være en komplisert vurdering som krever særskilt kompetanse, og at små fagskoler ikke i like stor grad som NOKUT kan forventes å skaffe tilgang til slik kompetanse. NOKUT foreslår at departementet vurderer om det kan være hensiktsmessig å legge myndigheten til å anmelde bruk av falske dokumenter og fatte forvaltningsvedtak om dette til en sentral instans framfor fagskolene.
+
+NOKUT har også kommet med innspill av rettsteknisk karakter til de foreslåtte bestemmelsene. Blant annet har NOKUT innspill til forslaget om endringene i § 16 sjette og sjuende ledd om at det ved vedtak om inndragning og karantenetid etter sjuende ledd stilles krav om kvalifisert flertall av styret eller klagenemnda. Det stilles ikke tilsvarende krav ved anmeldelse etter sjette ledd. NOKUT viser til at det i Aune-utvalgets forslag til ny universitets- og høyskolelov er foreslått å kreve bare simpelt flertall i tilsvarende bestemmelse som forslaget til fagskoleloven § 16 sjuende ledd. Videre foreslår NOKUT at departementet presiserer at opptakskarantene bare har virkning for den fagskolen som har truffet vedtaket.
+
+*Kompetanse Norge* mener det ikke bør gis en uttømmende liste over hva som kan regnes som falske dokumenter, slik departementet har foreslått å ta inn i forskrift.
+
+### Departementets vurdering
+
+Departementet vurderer det som uheldig at plikter og konsekvenser ved bruk av falske dokumenter er ulikt regulert i universitets- og høyskoleloven og i fagskoleloven fordi problemstillingene ofte vil være identiske. Både søkere og brukere av opptaksreglene kan bli usikre når dette ikke er regulert på samme måte ved opptak. Det vil særlig gjelde nå som flere fagskoler er en del av det samordnede opptaket. Det vil gjøre det enklere å håndtere like situasjoner, selv om opptaksreglene for universiteter og høyskoler på den ene siden og fagskoler på den andre siden følger av ulikt regelverk. Det samme gjelder for godkjenning av utenlandsk utdanning. I tillegg vil like regler for like handlinger gi en bedre oversikt for hva som gjelder også for dem som søker opptak til og godkjenning av utdanning.
+
+Departementet mener det er viktig å ta inn tilsvarende bestemmelser i fagskoleloven som i universitets- og høyskoleloven om bruk av falske dokumenter.
+
+Departementet vurderer videre at en tilsvarende definisjon av hva som er falske dokumenter som følger av opptaksforskriften § 10-1 også bør inn i fagskoleforskriften. Det må ikke være tvil om at samme regler skal gjelde. *Kompetanse Norge* mener det er viktig at bestemmelsen i forskriften ikke angir en uttømmende liste over hva som er falske dokumenter. Slik kan også andre dokumenter omfattes. Departementet tar sikte på å fastsette bestemmelser i forskrift etter at loven trer i kraft og vil da nærmere vurdere det mottatte innspillet.
+
+Et vitnemål vil være falskt både der innholdet har vært usant fra starten av, og der innholdet er manipulert i etterkant. Andre typer falske dokumenter kan være dokumenter som er grunnlag for opptak, men som ikke er vitnemål. Dette kan være dokumenter som viser sertifiseringer, dokumentasjon på beståtte språktester, attester osv. Bruk av et falskt vitnemål vil si at et dokument som er forfalsket eller manipulert på andre måter utgis for å være ekte. I tillegg vil dokumenter fra falske institusjoner også kunne rammes. Dette er typisk såkalte *diploma mills*-dokumenter, altså dokumenter utferdiget av ikke-eksisterende institusjoner eller institusjoner som gir seg ut for å ha akkrediteringer eller andre typer godkjenninger som de ikke har.
+
+Departementet vurderer i tillegg at det er behov å lovfeste en plikt til å politianmelde når fagskolene avdekker bruk av falske dokumenter *under* utdanningen.
+
+Departementet er enig med NOKUT i at det er viktig at beslutninger om politianmeldelse og vedtak om inndragning og opptakskarantene må skje på grunnlag av forsvarlig saksbehandling.
+
+Fagskolene har ikke uttrykt bekymring rundt egen kompetanse eller saksbehandling i sakene om falske dokumenter. Det er ikke rimelig å forvente at små fagskoler skal ha særskilt kunnskap og kompetanse til å avdekke falske dokumenter. Formålet med å tydeliggjøre at bruk av falske dokumenter er forbudt og å innføre en plikt til å anmelde falske dokumenter når det blir oppdaget, er å bidra til en enhetlig praksis for høyere utdanning og høyere yrkesfaglig utdanning på dette området. Departementet mener det ikke er hensiktsmessig å lovregulere krav til kompetanse. Vurderingene må skje under eksisterende forutsetninger.
+
+Fagskolene oppfatter ikke selv bruk av falske dokumenter som et utbredt problem. Det betyr ikke at det likevel kan være tilfeller som ikke fanges opp. Departementet vil peke på at det er andre virkemidler som er viktige for å forhindre og redusere bruk av falske dokumenter. For eksempel bruk av vitnemålsportalen og Nasjonal vitnemålsdatabase (NVB). Når dokumenter hentes elektronisk fra opprinnelig kilde, vil det bidra til å redusere mulighetene for å benytte falske dokumenter.
+
+Departementet vurderer at en tydelig bestemmelse i fagskoleloven om bruk av falske dokumenter og videre en plikt til å anmelde, vil kunne ha preventiv effekt for søkere og studenter for å hindre dem i å bruke falske dokumenter i forbindelse med opptak eller under studietiden.
+
+Departementet er enig med NOKUT i at ordlyden i § 16 sjuende ledd bør presiseres for å få fram at vedtaket om opptakskarantene bare gjelder ved den fagskolen som har fattet vedtaket.
+
+Hvilke flertallskrav som skal stilles for ulike former for vedtak – inndragning, opptakskarantene og politianmeldelse – vil departementet komme nærmere tilbake til. Dette vil bli sett i nær sammenheng med tilsvarende bestemmelser for universiteter og høyskoler.
+
+### Departementets forslag
+
+Departementet foreslår en ny bestemmelse i fagskoleloven for å slå fast at bruk av falske dokumenter ved opptak til fagskoleutdanning er forbudt. Videre foreslår departementet at fagskolene og Samordna opptak skal ha en plikt til å anmelde bruk av falske dokumenter.
+
+Dersom fagskolen eller Samordna opptak oppdager bruk av falske dokumenter, blir dokumentene inndratt og søkeren får ikke opptak ved fagskolen i inntil ett år. Videre foreslås det at departementet gis hjemmel til å gi forskrift med utfyllende bestemmelser om hva som anses som falske vitnemål, falske dokumenter og dokumenter utstedt fra falske institusjoner.
+
+Departementet viser til forslag til ny § 16 a.
+
+Departementet foreslår videre at NOKUT skal ha plikt til å anmelde bruk av falske dokumenter ved søknad om godkjenning av utenlandsk fagskoleutdanning, se forslag til § 7 fjerde ledd.
+
+Departementet foreslår at det også skal være plikt for fagskolen til å anmelde bruk av falske dokumenter under studiet. Dette gjelder når det er gjort for å få adgang til å avlegge eksamen, en prøve eller annet arbeid som bedømmes med karakter, jf. § 24 første ledd. Det gjelder også når det er gjort for å få fritak eller godskriving etter § 8, jf. § 24 tredje ledd. Departementet viser til forslag til § 24 nytt sjuende ledd.
+
+## Politiattester
+
+### Bakgrunn
+
+I 2019 leverte en interdepartemental arbeidsgruppe rapporten *Politiattest for personer som er i kontakt med mindreårige.* Gruppen hadde representanter fra Barne- og familiedepartementet, Helse- og omsorgsdepartementet, Justis- og beredskapsdepartementet, Kulturdepartementet og Kunnskapsdepartementet. Rapporten foretok en helhetlig gjennomgang av kravene om politiattest på tvers av sektorer.
+
+Arbeidsgruppens mandat var å foreta en helhetlig gjennomgang av behovet for å innføre nye hjemler, eller endre eksisterende hjemler, til å kreve politiattest fra personer i ansettelsesforhold, verv eller lignende, som har kontakt med mindreårige.
+
+Arbeidsgruppen mente at hjemler om såkalt barneomsorgsattest som hovedregel bør være obligatoriske. Barneomsorgsattest er en politiattest for personer som skal ha omsorg for eller oppgaver knyttet til mindreårige, jf. politiregisterloven § 39. Gruppen anbefalte at de bestemmelsene som i dag gir adgang til å innhente barneomsorgsattest (kan-bestemmelse), endres slik at det blir en plikt å innhente en slik attest (skal-bestemmelse). Unntak kan bare gjøres dersom særlige grunner tilsier dette.
+
+Som følge av arbeidsgruppens rapport har departementet vurdert behovet for endringer i eget regelverk.
+
+### Dagens regler
+
+Fagskoleloven har to ulike grunnlag for å kunne kreve politiattest av studentene.
+
+For det første følger det av fagskoleloven § 27 første ledd at fagskolen *kan* bestemme at studentene skal legge fram politiattest i utdanninger der studenter kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisstudier.
+
+For det andre er det i § 27 andre ledd fastsatt at der det er gitt særlige regler om politiattest for bestemte typer arbeid, skal disse gjelde tilsvarende for studenter som deltar i praksisstudier eller klinisk undervisning. En rekke lover inneholder krav om politiattest for bestemte typer yrkesutøving. Flere av disse lovbestemmelsene viser til politiregisterloven § 39 og reglene om barneomsorgsattest. Dette gjelder for eksempel barnehageloven, opplæringsloven og barnevernloven. I tillegg er det enkelte lovbestemmelser som selv lister opp hvilke straffebud som er aktuelle og som dermed avviker fra politiregisterloven § 39. Som eksempler nevnes helse- og omsorgstjenesteloven og helsepersonelloven.
+
+Hvilke konsekvenser en anmerkning på politiattesten kan få, er ikke regulert i politiregisterloven § 39, men i spesiallovgivningen. Dette er gjort for ulike yrker, for eksempel i helsepersonelloven og barnehageloven. For fagskolestudenter er det fagskoleloven som regulerer konsekvensene av anmerkninger på en politiattest.
+
+Det følger av fagskoleloven § 27 tredje ledd at en student som har anmerkninger på politiattesten som viser at han eller hun er «dømt eller har vedtatt forelegg» for forhold som omtalt i politiregisterloven § 39 første ledd eller i regler om krav til politiattester som nevnt i § 27 andre ledd, «kan» utestenges fra praksisstudier eller klinisk undervisning. Dersom politiattesten viser at en student er «siktet eller tiltalt» for det aktuelle straffebudet, «kan» studenten utestenges fra praksisstudier eller klinisk undervisning *«frem til rettskraftig dom foreligger eller \[…\] saken er henlagt*», jf. fagskoleloven § 27 fjerde ledd. Bestemmelsene innebærer at studenter som har en anmerkning på politiattesten, ikke automatisk blir utestengt fra praksis eller klinisk undervisning, men at det må foretas en konkret vurdering av om de skal utestenges. I tillegg innebærer fagskoleloven § 27 fjerde ledd at de bare kan utestenges midlertidig fram til det foreligger rettskraftig dom eller saken er henlagt.
+
+I fagskoleloven § 27 sjuende ledd er det gitt hjemmel for å gi forskrift om saksbehandlingen i saker om utestengning på grunn av straffbare forhold.
+
+Hva som er konsekvensene av at politiattest ikke fremlegges og at studenten ikke kan delta i praksisopplæring eller klinisk undervisning fremgår av §§ 24 og 25.
+
+### Høringsforslaget
+
+Departementet foreslo å endre fagskoleloven § 27 første ledd slik at den enkelte fagskolen i nærmere angitte tilfeller, jf. politiregisterloven § 39, *skal* kreve fremlagt politiattest. Kravet rettes mot studenter som skal utføre oppgaver overfor mindreårige som del av klinisk undervisning eller praksisopplæring.
+
+Departementet foreslo videre å flytte innholdet i fagskoleforskriften §§ 24 og 25 til fagskoleloven § 27 som nytt tredje og fjerde ledd. Bestemmelsene ble samtidig foreslått opphevet i forskriften.
+
+I tillegg foreslo departementet å endre ordlyden i fagskoleloven § 27 sjuende ledd til å gi hjemmel for bestemmelser i forskrift om saksbehandlingen i saker om innhenting og behandling av politiattest.
+
+### Høringsinnspill
+
+Departementet mottok 30 høringsinnspill til forslaget til å endre bestemmelsen i fagskoleloven § 27 om innhenting av politiattest. Blant de som har uttalt seg er direktorater, universiteter, fylkeskommuner, fagskoler og organisasjoner. Alle de som har uttalt seg er positive til endringsforslaget.
+
+N*asjonalt fagskoleråd, Organisasjon for norske fagskolestudenter, Rådet for offentlige fagskoler, Virke, Abelia – Forum for fagskoler* og *Fagskolen i Hordaland* har alle kommentert at fagskolesektoren har forholdt seg til dagens lov som et skal-krav. Flere av dem sier derfor at forslaget ikke vil ha stor praktisk betydning.
+
+*NTNU* støtter forslaget, og har kommentert at det bør åpnes for at fagskolenes klagenemnd kan avgjøre om en student skal utestenges fra klinisk undervisning eller praksisstudier.
+
+*Finnmark politidistrikt* har, med støtte fra *Politidirektoratet*, en merknad knyttet til ordlyden. Det påpeker at ordlyden i departementets forslag kan virke noe innskrenkende for bestemmelsens virkeområde sammenlignet med dagens ordlyd. Forslaget innebærer at for å kunne kreve politiattest må det være klart at studentene i løpet av studiet skal utføre oppgaver som innebærer tillits- eller ansvarsforhold overfor mindreårige. Dagens ordlyd i loven sier at det er nok at studenter kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisstudier.
+
+### Departementets vurdering
+
+#### Obligatorisk krav til politiattest
+
+Reglene for krav om politiattest er som hovedregel obligatoriske, det vil si at politiattest skal innhentes før en person blir ansatt.
+
+Fagskoleutdanningene som retter seg mot arbeid med barn, er ofte organisert som deltidsundervisning for studenter som er i ansettelsesforhold i en barnehage eller liknende. Det kan være en forutsetning for opptak at praksis gjennomføres på egen arbeidsplass. Det er også vanlig med praksis i nettbaserte utdanninger.
+
+Barn er en sårbar og utsatt gruppe som har særskilt krav på beskyttelse. Konsekvensene av å bli utsatt for vold og seksuelle overgrep i barndommen kan være svært alvorlige. Et overgrep vil ikke bare kunne få uheldige følger for barnet, men også for pårørende og samfunnet for øvrig. Det er derfor svært viktig å iverksette tiltak som kan redusere sannsynligheten for at vold og overgrep skjer.
+
+Departementets vurdering er at det bør være en skal-bestemmelse i fagskoleloven, slik at det blir en plikt for fagskolene til å kreve politiattest fra studentene.
+
+Det har ikke vært departementets intensjon å innskrenke ordlyden i fagskoleloven § 27, slik *Finnmark politidistrikt* påpeker. Ordlyden i forslaget er i sin helhet hentet fra dagens forskrift og innebærer at politiattest skal innhentes der studenter «skal utføre oppgaver som er betinget av eller etablerer et tillits- eller ansvarsforhold overfor mindreårige». Departementet mener derfor at ordlyden i bestemmelsen heller bør ta utgangspunkt i dagens § 27 i fagskoleloven som gjelder når studenter «kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisstudier». Dette tilsvarer også ordlyden som følger av uhl. § 4-9 første ledd. Departementet mener at det i vurderingen av om en student skal fremlegge politiattest ikke må kreves at studenten helt sikkert vil komme i kontakt med mindreårige. Det er tilstrekkelig med sannsynlighet for at en slik kontakt kan skje ved at studenten skal delta på klinisk undervisning eller i praksisstudier.
+
+*NTNU* mener det bør åpnes for at fagskolens klagenemnd kan fatte vedtak om utestenging fra klinisk undervisning eller praksisstudier, slik det er foreslått i bestemmelsen om vedtak knyttet til bruk av falske dokumenter. Departementet påpeker at det allerede er åpning for at styret kan delegere vedtakskompetansen i saker etter § 27 til fagskolens klagenemnd. Dette følger av fagskoleloven § 20 første ledd.
+
+#### Flytte bestemmelser fra forskrift til lov og endre hjemmel for forskrift
+
+Fagskoleloven § 27 sjuende ledd gir departementet hjemmel til å fastsette forskrift om saksbehandlingen i saker om utestengning på grunn av straffbare forhold.
+
+Departementets vurdering er at bestemmelsene fastsatt i fagskoleforskriften kapittel 4 delvis er en dobbeltregulering av det som fremgår av fagskoleloven § 27. Enkelte av bestemmelsene i forskriften går også lenger enn det loven gir hjemmel til.
+
+Fagskoleloven § 27 første og andre ledd og fagskoleforskriften § 19 første og andre ledd regulerer grunnlagene for å innhente politiattest. Departementet ser det som uheldig med delvis overlappende bestemmelser i lov og forskrift. Departementet vurderer det slik at bestemmelsene bør stå i loven.
+
+Videre er det departementets vurdering at reglene i forskriftens § 24 om følger av at politiattest ikke fremlegges og § 25 om følger av at studenten ikke kan delta i praksisopplæring eller klinisk undervisning, regulerer sentrale rettigheter for studentene som bør reguleres i loven.
+
+I tillegg vurderer departementet at ordlyden i fagskoleloven § 27 sjuende ledd bør endres til å gi hjemmel for bestemmelser i forskrift om saksbehandlingen i saker om innhenting og behandling av politiattest.
+
+#### Teknisk endring av ordlyden i § 27 første ledd om tidspunkt for innhenting av politiattest
+
+I fagskoleloven § 27 første ledd andre punktum står det at fagskolen «kan kreve politiattest ved opptak eller underveis i slike utdanninger». I fagskoleforskriften § 20 første ledd er det fastsatt at alle søkere må sende politiattest innen fire uker etter at tilbud om studieplass kommer frem. Videre står det i forskriften § 22 at det kan foretas fornyet vandelskontroll i samsvar med politiregisterloven § 43. Departementet mener at dagens ordlyd ikke er i veien for at det kan innhentes politiattest flere ganger. Likevel ser departementet det som hensiktsmessig å endre ordlyden i fagskoleloven § 27 første ledd slik at det tydeligere kommer fram at politiattest kan kreves både ved opptak *og* underveis i utdanningen. Departementet har foreslått tilsvarende endring i uhl. § 4-9, se omtale i punkt 2.11.
+
+Dette forslaget er etter departementets vurdering en teknisk endring for å klargjøre dagens regler. Det fremmes derfor uten egen høring.
+
+#### Departementets forslag
+
+Departementet foreslår å endre § 27 første ledd slik at den enkelte fagskolen *skal* kreve politiattest som nevnt i politiregisterloven § 39. Det skal kreves av studenter som kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisstudier.
+
+Departementet foreslår å endre «eller» til «og» i første ledd siste setning. Dette gjøres for å presisere at det er mulig å innhente politiattest også under studiet selv om attest er innhentet ved opptak.
+
+Departementet foreslår videre å flytte innholdet i §§ 24 og 25 i dagens fagskoleforskrift til fagskoleloven § 27 som nytt tredje og fjerde ledd.
+
+I tillegg foreslår departementet å endre ordlyden i fagskoleloven § 27 sjuende ledd til å gi hjemmel for bestemmelser i forskrift om saksbehandlingen i saker om innhenting og behandling av politiattest.
+
+Departementet viser til forslag til endringer i § 27.
+
+# Endringer i yrkeskvalifikasjonsloven
+
+## Bakgrunn
+
+Deltakerne i det norske arbeidsmarkedet har kvalifikasjoner fra mange forskjellige land. De fleste har fått sine kvalifikasjoner i Norge, men stadig flere har kvalifikasjoner fra utlandet. Noen har flyttet til Norge for å arbeide, noen har flyktet hit, noen har kommet på familiegjenforening og noen har reist ut som student og kommet hjem igjen med kvalifikasjoner for å kunne utøve et lovregulert yrke. Personer som har utdanning og yrkespraksis fra andre land, må få kvalifikasjonene sine godkjent før de kan utøve lovregulerte yrker i Norge. Lovregulerte yrker er der myndighetene har satt kvalifikasjonskrav i lov eller forskrift for å kunne utøve yrket. Hvordan dette kan skje for statsborgere fra en EØS-stat med kvalifikasjoner fra en annen EØS-stat, er regulert i yrkeskvalifikasjonsdirektivet. Dette er gjennomført i norsk rett i lov 16. juni 2017 nr. 69 om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven). For helsepersonell er direktivet gjennomført i lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) med forskrifter, og for dyrehelsepersonell i lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell (dyrehelsepersonelloven) med forskrifter. For andre enn statsborgere fra en EØS-stat med kvalifikasjoner fra annen EØS-stat har vi ikke noe samlet regelverk om hvordan yrkesutøvere kan gå fram for å få sine kvalifikasjoner godkjent i Norge.
+
+Det europeiske økonomiske samarbeidsområdet (EØS) er en folkerettslig avtale mellom EU, EUs medlemsstater og de tre EFTA-landene Island, Liechtenstein og Norge.
+
+Forslagene i proposisjonen her omfatter ikke endringer for yrker som reguleres etter helsepersonelloven og dyrehelsepersonelloven.
+
+Ved Stortingets integreringsforlik fra 12. januar 2016 ble regjeringen anmodet om å «gjennomgå eksisterende ordninger for godkjenning av utenlandsk utdanning med sikte på forenkling og raskere godkjenning». Departementet vil understreke at forslaget her er noe annet enn godkjenning av utenlandsk utdanning som nevnt i punkt 2.5.
+
+Godkjenning av utenlandsk utdanning og utenlandske yrkeskvalifikasjoner omtales i et eget delkapittel i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse – Samordnet innsats for voksnes læring*. I meldingen nevner regjeringen flere tiltakspunkter som Stortinget sluttet seg til i behandlingen i juni 2016. Dette gjelder bl.a. å vurdere tiltak som kan gi økt forutsigbarhet, større grad av likebehandling og enkel tilgang til informasjon og veiledning for ikke-EØS-borgere som søker om godkjenning til lovregulerte yrker.
+
+Godkjenningsordningene for medbragt kompetanse har blitt vurdert og utredet i et tverrdepartementalt samarbeid hvor Arbeids- og sosialdepartementet, Finansdepartementet, Helse- og omsorgsdepartementet, Justis- og beredskapsdepartementet, Kommunal- og regionaldepartementet og Kunnskapsdepartementet har deltatt.
+
+Ved at Storbritannia har trådt ut av EU og EØS, er Storbritannia nå et tredjeland, og yrkeskvalifikasjoner fra Storbritannia vil dermed omfattes av forslagene i proposisjonen her. Departementet vil vurdere om det er behov for regelverksendringer ved en eventuell frihandelsavtale med Storbritannia som også regulerer yrkesgodkjenning.
+
+Forslaget omfatter som nevnt ikke endringer for yrker som reguleres etter helsepersonelloven. Det legges likevel til at Stortinget i anmodningsvedtak av 16. november 2020 har bedt regjeringen ta initiativ til en stipend- og låneordning, for eksempel gjennom Statens lånekasse for utdanning, til dekning av nødvendige kurs og fagprøver for å oppnå autorisasjon for helsepersonell. I anmodningsvedtaket fra Stortinget framheves blant annet «betydningen av at innvandrere med høyere utdanning fra utlandet kommer raskt ut i jobb, både for enkeltmenneskene det gjelder, og for det norske samfunnet». Kunnskapsdepartementet er sammen med Helse- og omsorgsdepartementet i gang med dette arbeidet, som krever utredning av administrative og økonomiske konsekvenser. Departementene vil komme tilbake til saken ved egnet anledning.
+
+## Høring
+
+Kunnskapsdepartementet sendte 8. april 2020 forslag til endringer i yrkeskvalifikasjonsloven og forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner på høring.
+
+Yrkeskvalifikasjonsloven og forskrift om godkjenning av yrkeskvalifikasjoner gjennomfører Europaparlaments- og rådsdirektiv 2005/36/EF av 7. september 2005 om godkjenning av yrkeskvalifikasjoner(yrkeskvalifikasjonsdirektivet) med senere endringer, herunder direktiv 2013/55/EU. Loven og forskriften gjelder for personer fra EØS og Sveits som vil utøve et lovregulert yrke i Norge, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits.
+
+I høringsnotatet foreslo departementet at enkelte av prinsippene i yrkeskvalifikasjonsloven med tilhørende forskrift også skulle gjelde for personer, inkludert norske statsborgere og EØS-borgere, med yrkeskvalifikasjoner fra tredjeland. Med tredjeland menes i denne sammenhengen land utenfor EØS og Sveits. Departementet foreslo i høringsnotatet at følgende prinsipper skulle legges til grunn for søkere med yrkeskvalifikasjoner fra tredjeland:
+
+- *Godkjenningsprinsippet:*Ved behandling av søknader skal det legges vekt på de helhetlige yrkeskvalifikasjonene og ikke bare den formelle utdanningen. Hvis summen av de helhetlige yrkeskvalifikasjonene ikke er vesentlig forskjellige fra kravene i Norge, bør det i utgangspunktet gis godkjenning.
+
+- *Utligningstiltak:* Når en søker mangler de nødvendige kvalifikasjonene for godkjenning, skal søkeren opplyses om tiltak som prøveperiode, egnethetstest eller kompletterende utdanning i den grad slike tilbud er tilgjengelige, anses hensiktsmessige og kan utligne de vesentlige forskjellene. I tillegg ba departementet høringsinstansene særlig om en tilbakemelding om dette bare skulle gjelde for dem med oppholdstillatelse i Norge.
+
+- *Delvis adgang:* Når en søkers kvalifikasjoner dekker deler av de oppgavene en godkjenning gir rett til å utøve, kan det gis godkjenning for denne delen av yrket. Det er en forutsetning at det er mulig å skille mellom de forskjellige delene av det aktuelle yrket.
+
+- *Tidspunkt for vurdering av språkkrav:* Det stilles som hovedregel ikke språkkrav i godkjenningsprosessen, men før vedkommende kan starte i arbeid. Søker kan dermed få vite om vedkommende kvalifiserer til yrkesutøvelse mens språkopplæringen fortsatt pågår.
+
+Yrker hvor det kreves kort utdanning for å kunne utøve yrket i Norge, var unntatt fra forslaget. Dette er typisk yrker som reguleres av Arbeidstilsynet, f.eks. dykker, gravemaskinfører, maskinførertruckfører. Forslaget omfattet heller ikke endringer for yrker som reguleres av lov 2. juli 1999 nr. 64 om helsepersonell m.v. og lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell.
+
+I tillegg ble det foreslått noen tekniske endringer og presiseringer i yrkeskvalifikasjonsloven for å få en bedre gjennomføring av yrkeskvalifikasjonsdirektivet.
+
+Høringsfristen var 1. august 2020. Høringsforslaget ble sendt til følgende instanser:
+
+Departementene
+
+Fylkeskommunene
+
+Kommunene
+
+Longyearbyen lokalstyre
+
+Sametinget
+
+Sysselmannen på Svalbard
+
+Arbeids- og velferdsdirektoratet
+
+Arbeidstilsynet
+
+Brønnøysundregistrene
+
+Direktoratet for byggkvalitet
+
+Diku – Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning
+
+Direktoratet for mineralforvaltning
+
+Direktoratet for naturforvaltning
+
+Direktoratet for samfunnssikkerhet og beredskap
+
+Forbrukerrådet
+
+Finanstilsynet
+
+Forbrukerrådet
+
+Helsedirektoratet
+
+Integrerings- og mangfoldsdirektoratet
+
+Kirkerådet
+
+Kompetanse Norge
+
+Likestillings- og diskrimineringsombudet
+
+Miljødirektoratet
+
+Nasjonal kommunikasjonsmyndighet
+
+Nasjonalt organ for kvalitet i utdanningen (NOKUT)
+
+Norges vassdrags- og energidirektorat
+
+Politidirektoratet
+
+Regelrådet
+
+Regjeringsadvokaten
+
+Statens helsepersonellnemnd, Helseklage
+
+Statens helsetilsyn
+
+Statens vegvesen
+
+Tilsynsrådet for advokatvirksomhet
+
+Universitets- og høgskolerådet
+
+Utdanningsdirektoratet
+
+Advokatforeningen
+
+Akademikerne
+
+ANSA – Association of Norwegian Students Abroad
+
+Arbeidsgiverforeningen Spekter
+
+Caritas Norge
+
+Den Norske Jordmorforening
+
+Eiendom Norge
+
+Elevorganisasjonen
+
+FAFO
+
+Faglig forum for kommunalt flyktningarbeid
+
+Hovedorganisasjonen Virke
+
+Innvandrernes landsorganisasjon
+
+Juridisk rådgivning for kvinner Juss-Buss
+
+KA Arbeidsgiverorganisasjon for kirkelige virksomheter
+
+Kirkelig Undervisningsforbund
+
+KS
+
+Landsorganisasjonen i Norge
+
+MiRA
+
+NOAS – Norsk organisasjon for asylsøkere
+
+Norges Eiendomsmeglerforbund
+
+NITO – Norges Ingeniør- og Teknologorganisasjon
+
+Norges Røde Kors
+
+Norsk studentorganisasjon
+
+Næringslivets Hovedorganisasjon
+
+Private Barnehagers Landsforbund
+
+Regnskap Norge
+
+Revisorforeningen
+
+SMB Norge
+
+Unio
+
+YS
+
+Departementet mottok 34 høringsinnspill. Følgende høringsinstanser hadde kommentarer til forslagene:
+
+Justis- og beredskapsdepartementet
+
+Arbeidstilsynet
+
+Direktoratet for byggkvalitet
+
+Direktoratet for mineralforvaltning
+
+Direktoratet for samfunnssikkerhet og beredskap
+
+Finanstilsynet
+
+Statens kartverk
+
+Kompetanse Norge
+
+Nasjonal kommunikasjonsmyndighet
+
+NOKUT
+
+NVE
+
+Statens vegvesen
+
+Tilsynsrådet for advokatvirksomhet
+
+EL og IT Forbundet
+
+Elektromontørenes forening i Oslo og Akershus
+
+KS
+
+Legeforeningen
+
+LO Norge
+
+Norges Farmaceutiske Forening
+
+Revisorforeningen
+
+Norsk Sykepleierforbund
+
+En privatperson (anonym)
+
+Følgende hadde ikke merknader til høringen:
+
+Forsvarsdepartementet
+
+Helse- og omsorgsdepartementet
+
+Landbruks- og matdepartementet
+
+Nærings- og fiskeridepartementet
+
+Utenriksdepartementet
+
+Brønnøysundregistrene
+
+Diku
+
+Helsedirektoratet
+
+Miljødirektoratet
+
+Harstad kommune
+
+Stavanger kommune
+
+Kirkerådet
+
+## Om yrkeskvalifikasjonsdirektivet og yrkeskvalifikasjonsloven
+
+Fri bevegelighet for arbeidstakere og tjenesteytere innenfor hele EØS er ett av hovedprinsippene i EØS-avtalen. Det er også ett av de grunnleggende prinsippene i realiseringen av EUs indre marked. Som et ledd i gjennomføringen av et felles arbeidsmarked har EU arbeidet spesielt med yrker der nasjonal lovgivning regulerer adgangen til å praktisere yrket på en måte som kan virke diskriminerende overfor arbeidstakere med yrkeskvalifikasjoner fra en annen EØS-stat. Det er derfor gitt forskjellige direktiver om godkjenning av yrkeskvalifikasjoner. Europaparlaments- og rådsdirektiv 2005/36/EF av 7. september 2005 om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsdirektivet) med senere endringer herunder direktiv 2013/55/EU, er ett av de viktigste.
+
+I yrkeskvalifikasjonsdirektivet er det flere prosessregler om godkjenning av yrkeskvalifikasjoner fra EØS. En del av disse reglene er utformet ut fra at det er et nært samarbeid og et felles indre marked med fri bevegelse av varer, tjenester, kapital og personer innenfor EØS. Det inneholder også krav til administrativt samarbeid mellom myndighetene i EØS og at dette skal skje via EUs informasjonssystem for det indre markedet (IMI). Videre har direktivet regler om et europeisk profesjonskort og varslingsplikt i gitte tilfeller til andre myndigheter i EØS.
+
+Direktivet er vedtatt i nært samarbeid mellom de ulike medlemsstatene i EU og gjelder for personer fra EØS med yrkeskvalifikasjoner fra EØS. Direktivet er et viktig virkemiddel for å realisere det indre markedet.
+
+Yrkeskvalifikasjonsdirektivet gjelder for EU-statsborgere og statsborgere fra Island, Liechtenstein og Norge. I tillegg gjelder direktivet for borgere fra Sveits. Dette følger av EFTA-traktaten og Vaduz-konvensjonen. Direktivet gjelder også for borgere som på søknadstidspunktet var borgere fra ovennevnte stater, selv om de har vært statsborgere i et tredjeland.
+
+Direktivet gjelder ikke for statsborgere fra et tredjeland. Visse bestemmelser vil likevel gjelde for tredjelandsborgere. Familiemedlemmer til en EØS-borger, som utøver sin rett til fri bevegelighet, vil også omfattes, jf. direktiv 2004/38/EF om EØS-borgere og deres familiemedlemmers rett til å bevege og oppholde seg fritt på medlemsstatenes område.
+
+Yrkeskvalifikasjonsloven og forskrift om godkjenning av yrkeskvalifikasjoner gjennomfører yrkeskvalifikasjonsdirektivet i norsk rett. Loven og forskriften gjelder for personer fra EØS og Sveits som vil utøve et lovregulert yrke i Norge, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits.
+
+Yrkeskvalifikasjonsloven er hovedsakelig en fullmaktslov, dvs. har noen hovedprinsipper og gir departementet hjemler for å regulere de spesifikke reglene i forskrift. De detaljerte bestemmelsene om yrkesgodkjenning reguleres i forskrift om godkjenning av yrkeskvalifikasjoner.
+
+Yrkeskvalifikasjonsloven med tilhørende forskrift gjennomfører yrkeskvalifikasjonsdirektivet for alle andre regulerte yrker enn helsepersonell- og dyrehelsepersonellyrker. For disse yrkesgruppene er direktivet gjennomført i egne forskrifter med hjemmel i helsepersonelloven og dyrehelsepersonelloven.
+
+Loven omfatter heller ikke yrker som hører inn under særdirektiver. Med særdirektiv menes direktiver som særlig regulerer godkjenning for ett eller flere yrker i EØS, for eksempel yrker innen jernbane, sjø- og luftfart.
+
+Departementet vil understreke at yrkeskvalifikasjonsloven ikke får betydning for hvordan et yrke er regulert i Norge og hvilke kvalifikasjonskrav som stilles for at en yrkesutøver kan utøve yrket. Loven regulerer bare hvordan en yrkesutøver kan få sine yrkeskvalifikasjoner fra en annen EØS-stat godkjent, slik at vedkommende kan få adgang til å utøve det regulerte yrket i Norge.

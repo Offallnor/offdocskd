@@ -1,824 +1,298 @@
-# Prop. 89 L (2019–2020), del 14 av 20 (side 142–151)
+# Prop. 89 L (2019–2020), del 14 av 22
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/5eb8ac28-prop-89-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-89-l-20192020/id2699012/
 - Original-PDF: https://www.regjeringen.no/contentassets/c292a78648754b4ea902ddcf9559fcef/no/pdfs/prp201920200089000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 142]
-
-140
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-avsluttende prøve i norsk og samfunnskunnskap,
-jf. introduksjonsloven § 19 andre ledd. Departementet har gitt nærmere regler om gjennomføringen av de avsluttende prøvene og fritaksregler i
-forskrift om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere.
-Krav om en avsluttende prøve i norsk og samfunnskunnskap ble innført i 2013 for å understreke
-samfunnets forventing om at innvandrere skal lære
-seg norsk og tilegne seg kunnskap om det norske
-samfunnet, og samfunnets ansvar for å tilrettelegge
-for det. Ikke bestått prøve eller unnlatelse av å gå
-opp til prøve medfører ingen sanksjoner etter introduksjonsloven. Å bestå prøvene er imidlertid viktig
-for den enkelte av flere grunner, blant annet for å
-dokumentere ferdigheter i norsk muntlig i forbindelse med søknad om permanent oppholdstillatelse
-og statsborgerskap, se punkt 3.1, for å komme i
-arbeid, ved inntak til høyere utdanning og for autorisasjon til enkelte yrker, se punkt 10.3.4. Antallet
-avlagte prøver har økt de siste årene.
-Kravet i introduksjonsloven om å ta en avsluttende prøve i norsk og samfunnskunnskap gjelder
-ikke utlendinger som kun har plikt til opplæring.
-Disse kan ta prøvene som privatister, men må da
-betale for prøvene selv.
-Vedtak om fritak fra opplæring innebærer også
-fritak fra prøvene. Den enkelte må selv søke kommunen om fritak. Kommunens vedtak om fritak er
-enkeltvedtak som kan påklages til fylkesmannen,
-jf. introduksjonsloven § 21 andre ledd bokstav a.
-Det fremgår av forskriften § 22 fjerde ledd at
-kommunen plikter å sørge for tilbud om å avlegge
-prøver til alle som ønsker å melde seg opp til
-avsluttende prøver og som er folkeregistrert i
-kommunen, og at dette omfatter både deltagere i
-opplæringen og privatister utenfor målgruppen
-for introduksjonsloven. I tillegg kan kommunen
-velge å tilby prøver til personer som ikke er folkeregistrert i kommunen. Dagens ordning innebærer at samtlige kommuner som ønsker å opprette et prøvested får muligheten til det. Kommunene står fritt til å inngå interkommunalt samarbeid om prøvegjennomføringen.
-Prøver i norsk skal avholdes minimum to ganger i året, jf. forskriften § 23 andre ledd. I veiledningen til tilskudd for 2019 er det fastslått at kommunen skal avholde minst to prøveperioder i året
-og inntil fire etter en konkret behovsvurdering.
-Det er Kompetanse Norge som har ansvaret for å
-utvikle og vedlikeholde prøvene.
-Den avsluttende prøven skal teste deltagerens
-ferdigheter i lytte, lese, skrive, snakke og samtale
-slik de er beskrevet i forskrift om læreplan i norsk
-og samfunnskunnskap for voksne innvandrere.
-
-2019–2020
-
-Den avsluttende prøven i samfunnskunnskap
-tester deltagerens grunnleggende kunnskaper
-om det norske samfunnet etter målene for samfunnskunnskap, slik de er beskrevet i læreplanen.
-Samfunnskunnskapsprøven kan gjennomføres på
-norsk eller på et språk vedkommende forstår.
-
-10.9.2 Forslaget i høringsnotatet
-Departementet foreslo å videreføre dagens ordning med obligatorisk avsluttende prøve i norsk
-og samfunnskunnskap. Videre ble det foreslått at
-kommunens ansvar for å gjennomføre prøver lovfestes. En nærmere regulering av kravene til og
-gjennomføringen av prøvene ble foreslått regulert
-i forskrift.
-For å bidra til bedre kapasitet og kvalitet i
-gjennomføringen av prøver, foreslo departementet en reduksjon av antall prøvesteder.
-Det ble også presisert at selv om det foreslås
-at integreringsloven også kan gjelde utenfor det
-norske territoriet når oppgaver etter loven skal
-gjennomføres før en person ankommer Norge,
-skal prøvene gjennomføres på prøvesteder i
-Norge. Det ble ikke foreslått at bestemmelsen gir
-personer mulighet til å avlegge prøver på norske
-utenriksstasjoner i utlandet.
-I høringsnotatet ble det bedt om innspill til om
-opplæringen og prøven i samfunnskunnskap burde
-gjennomføres innen en gitt frist, for eksempel
-innen seks måneder etter oppstart av kvalifisering.
-10.9.3 Høringsinstansenes syn
-Fire høringsinstanser har uttalt seg konkret om
-forslaget om å videreføre dagens ordning med
-obligatoriske avsluttende prøver i norsk og samfunnskunnskap, og forslaget om at kommunens
-ansvar for å gjennomføre prøver lovfestes. Dette
-er Drammen kommune, Jussbuss, Kompetanse
-Norge og Nordre Land kommune.
-Kompetanse Norge støtter forslaget om å lovfeste kommunens ansvar for å sørge for gjennomføring av prøvene og at en nærmere regulering av
-innholdet og gjennomføringen av prøvene forskriftsfestes. De mener imidlertid at oppbygningen av lovforslaget kan skape misforståelser.
-Kompetanse Norge uttaler:
-Vi mener imidlertid at oppbyggingen av lovforslagets § 37 kan forstås som at deltagere med
-rett og plikt til opplæring, som dermed har plikt
-til å gå opp til avsluttende prøver, er de eneste
-kommunen må sørge for prøvegjennomføring
-for, jf. § 37 første og annet ledd. Vi antar at en
-
-[Side 143]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-slik tolkning ikke er etter intensjonen, men
-mener dette er utydelig. Vi ønsker derfor å videreføre, i lovs form, det som har vært formuleringen i gjeldende forskrift § 22 fjerde ledd, om at
-kommens ansvar retter som mot alle kommunens innbyggere som tar prøver.
-Kompetanse Norge ønsker videre å lovfeste sitt tilretteleggingsansvar for gjennomføring av prøver
-og at prøveavgiften blir fastsatt nasjonalt, av hensyn til likhetsprinsippet. Kompetanse Norge mener
-også at det bør vurderes hvorvidt prøven i samfunnskunnskap bør videreføres, eller om prøven
-eventuelt kan utformes på en annen måte.
-Drammen kommune går tilbake til utgangspunktet og formålet med opplæringen i 50 timer
-samfunnskunnskap, og hevder at innføringen av
-obligatoriske prøver i 2013 har påvirket innholdet
-i opplæringen. Drammen kommune uttaler:
-Det ligger i flervalgsprøvens natur at man har
-konkrete spørsmål som krever konkrete svar,
-som igjen er basert på konkret faktakunnskap.
-På den måten har man måttet skifte fokus i
-undervisningen fra forståelse av samfunnet,
-herunder kultur og verdier, til faktakunnskaper som skal måles i form av tall etter en test.
-Dette har vært en uheldig utvikling når man
-tenker på integrering som noe som i stor grad
-innebærer forståelse av et samfunn, og forståelse av konsekvensene av ens egne handlinger
-i et samfunn.
-Drammen kommune er positive til at man skal se
-samfunnskunnskap og opplæring i norsk kultur
-og norske verdier i sammenheng og foreslår å
-utvide opplæringen i samfunnskunnskap til 75
-timer. Drammen kommune foreslår videre at deltageren bør ha B2 nivå i norsk dersom vedkommende skal få samfunnskapsundervisning på
-norsk.
-Som gjort rede for i punkt 10.5.3 har i underkant av 70 høringsinstanser gitt innspill om frist
-for opplæring og prøve i samfunnskunnskap, og
-departementets spørsmål om en slik frist eksempelvis bør settes til seks måneder. De fleste av
-instansene som uttaler seg vurderer spørsmålet
-om å sette en frist for opplæring og prøve i samfunnskunnskap under ett. Som nevnt i 10.5.3 er
-flertallet av høringsinstansene som har uttalt seg
-negative til at det settes en frist for å gjennomføre
-opplæring og prøve i samfunnskunnskap. Mange
-er positive til at opplæringen og prøven bør
-komme tidlig, men er imot at det settes en frist.
-Når det gjelder frist for gjennomføring av prøven
-
-141
-
-er begrunnelsen blant annet at mange deltagere,
-på et tidlig tidspunkt etter ankomst til Norge, ikke
-har den digitale kompetansen de trenger for å
-kunne gjennomføre en digital flervalgsprøve.
-Når det gjelder spørsmålet om reduksjon av
-prøvesteder, er det 25 høringsinstanser som har
-uttalt seg. Flertallet er negative til en reduksjon av
-prøvesteder, med begrunnelsen at det vil føre til
-lenger reisevei, et mindre fleksibelt system og at
-ansvar for gjennomføring av norskprøver har
-betydning for utvikling av lærernes kompetanse.
-Av de som støtter forslaget trekkes det frem at det
-vil føre til større likhet i prøvegjennomføringen,
-høyere kvalitet på sensorene og økt tilgjengelighet for alle typer prøver.
-
-10.9.4 Departementets vurdering
-Departementet opprettholder forslaget om å videreføre dagens ordning med obligatoriske avsluttende prøver i norsk og samfunnskunnskap, se
-forslag til § 37. Departementet foreslår imidlertid
-å justere den foreslåtte bestemmelsen om kommunens ansvar for prøvene.
-Departementet viderefører dagens ordning
-med at vedtak om fritak fra opplæring i norsk og
-samfunnskunnskap også innebærer fritak fra prøvene, jf. punkt 10.1.4.3 over. Det foreslås regulert
-at det også kan gis fritak fra kun prøvene. Den
-enkelte må selv søke kommunen om fritak.
-Deltagere som får sin opplæring i norsk og
-samfunnskunnskap i videregående opplæring er
-også omfattet av plikten til å gå opp til prøver. De
-vil imidlertid få innvilget fritak etter søknad hvis
-de består fagene norsk og samfunnskunnskap, se
-punkt 10.1.4.3 ovenfor.
-Departementet opprettholder videre forslaget
-om at den nærmere reguleringen av innholdet i
-prøvene, gjennomføringen av prøvene og reaksjoner ved overtredelse av bestemmelser om gjennomføring av prøvene, reguleres i forskrift.
-Deltagere med plikt til å gå opp til prøve, kan
-gå opp til avsluttende prøve gratis én gang. De
-som ønsker det kan melde seg opp til ny prøve,
-men må i så fall betale prøveavgiften selv.
-Antall prøver og delprøver som skal gjennomføres vil trolig øke fremover, og prøvene vil få økt
-betydning for den enkelte. Det er derfor departementets vurdering at antall prøvesteder bør reduseres for å sikre bedre kvalitet og kapasitet i gjennomføringen av avsluttende prøver. Kriterier for
-utvelgelse av prøvesteder bør være for eksempel
-volum, geografisk spredning, kapasitet og kvalitet/kompetanse. Departementet vurderer at
-større og færre prøvesteder vil bidra til mer stan-
-
-[Side 144]
-
-142
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-dardisert og profesjonalisert prøvegjennomføring.
-Dette gjelder særlig delprøve i muntlig kommunikasjon hvor det benyttes ekstern eksaminator og
-sensor, og hvor resultatene på prøvene har store
-konsekvenser for den enkelte, jf. punkt 10.9.1
-over. Departementet hadde på høring et forslag
-om at fylkesmannen skulle få i oppgave å velge ut
-prøvesteder, men foreslår ikke dette nå. Det pågår
-et arbeid med å gjennomgå ordningen med gjennomføring av prøver. Hvem som bør ha hvilken
-rolle, hvor langt plikten til å sørge for tilbud om
-prøver strekker seg og spørsmål om prøveavgift,
-er en del av dette arbeidet.
-Det foreslås at kommunen skal sørge for at deltagere som har plikt til å gå opp til avsluttende prøver i norsk og samfunnskunnskap får gjennomført
-prøvene. Denne plikten gjelder uavhengig av hva
-som blir resultatet av den pågående gjennomgangen av ordningen med gjennomføring av prøver.
-I høringen har Kompetanse Norge gitt uttrykk
-for at deres tilretteleggingsansvar for gjennomføring av prøvene bør lovfestes. Departementet vurderer at det ikke er nødvendig å lovfeste Kompetanse Norges tilretteleggingsansvar. Tilrettelegging for gjennomføring av prøver er en statlig oppgave, og departementet mener det er mer hensiktsmessig å styre denne oppgaven gjennom
-andre virkemidler enn lov.
-Å kunne dokumentere sine ferdigheter i norsk
-er, som det fremgår over, nødvendig i flere sammenhenger. Det er ikke bare personer som omfattes av integreringsloven som avlegger avsluttende
-prøve i norsk og samfunnskunnskap. Blant annet
-er det flere som tar prøver i norsk for å dokumen-
-
-2019–2020
-
-tere norskkunnskaper for opptak til norske utdanningsinstitusjoner. Disse kan både være norske
-og utenlandske statsborgere, som kan være
-bosatt i eller utenfor Norge. Både personer som
-omfattes av integreringsloven og andre tar de
-samme prøvene, og det er ikke naturlig å regulere
-prøvegjennomføringen i et annet regelverk. Som
-følge av dette har integreringslovens regler om
-prøver et videre virkeområde enn resten av loven.
-Flere høringsinstanser hadde innspill til når
-samfunnskunnskapsprøven skal gjennomføres, og
-flertallet var negative til forslaget om å innføre en
-frist. Mange er positive til at opplæringen og prøven i samfunnskunnskap bør komme tidlig, men
-er likevel imot at det settes en frist. Noen instanser er positive til at det settes en frist for gjennomføring av prøven i samfunnskunnskap, men mener
-fristen ikke bør være kortere enn ett år.
-Departementet erkjenner at det kan være
-noen negative sider ved å sette en frist for gjennomføring av prøven i samfunnskunnskap. Departementet er likevel av den oppfatning at en frist for
-gjennomføring av både opplæringen og prøven vil
-være den beste måten å sørge for at opplæringen i
-samfunnskunnskap kommer tidlig i kvalifiseringsløpet. Departementet foreslår derfor at det settes
-en frist for gjennomføring av prøve i samfunnskunnskap på ett år fra det tidspunktet man omfattes av rett og plikt til opplæring i samfunnskunnskap. Dette vil bidra til at man når formålet med
-opplæringen i samfunnskunnskap, som er å gi deltagere en grunnleggende innføring i det norske
-samfunnet på et tidlig stadium.
-
-[Side 145]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-143
-
-11 Forskjellige bestemmelser
-11.1 Forsøk
-11.1.1 Gjeldende rett
-Introduksjonsloven § 27 fastsetter at departementet etter søknad fra kommunen kan godkjenne
-unntak fra loven og forskriftene etter loven i forbindelse med tidsavgrensede lokale forsøk. Forsøkene kan være utprøving av modeller som innebærer behov for unntak fra bestemmelser som
-gjelder pedagogiske eller organisatoriske forhold.
-Rammene for forsøk og hvilke krav som stilles til
-en søknad om forsøk, er omtalt i rundskriv til
-introduksjonsloven.
-For en nærmere redegjørelse av bakgrunnen
-for førsøkshjemmelen, se Prop.146 L (2015–2016)
-og Innst. 103 L (2016–2017).
-11.1.2 Forslaget i høringsnotatet
-Departementet foreslo å videreføre muligheten til
-å søke om unntak fra bestemmelser i introduksjonsloven for å gjennomføre tidsbegrensede forsøk, men det ble foreslått å utvide dagens forsøkshjemmel til også å omfatte forsøk av økonomisk
-art.
-Videre ble det foreslått at departementet kan
-gi forskrift om kriteriene for å få godkjent forsøk.
-11.1.3 Høringsinstansenes syn
-Fire høringsinstanser har uttalt seg om forslaget
-om å innføre en mulighet for å bruke økonomiske
-forsøk, herunder Fylkesmannen i Agder, Integrerings- og mangfoldsdirektoratet (IMDi), Kompetanse Norge og Trøndelag fylkeskommune.
-Tre instanser støtter forslaget. IMDi støtter
-forslaget, men mener det er uheldig å gjennomføre forsøk som bidrar til å begrense enkeltpersoners rettigheter, i form av for eksempel økonomiske sanksjoner. Kompetanse Norge støtter også
-forslaget, men mener kriteriene for når forsøk kan
-iverksettes bør bygge på kravene Fafo viser til i
-sin rapport Økonomiske insentiver i integreringsarbeidet (Fafo-rapport 2019:29). Trøndelag fylkeskommune støtter forslaget hvis det formuleres på en
-
-måte som gir den enkelte mulighet for å få økt
-introduksjonsstønad hvis norskmålet nås innen en
-viss tid.
-Fylkesmannen i Agder mener det er viktig å
-kunne søke om forsøk som er av pedagogisk eller
-organisatorisk art, tilsvarende opplæringsloven
-§ 1-5, men støtter ikke forslaget om å innføre en
-mulighet for økonomiske forsøk. Fylkesmannen i
-Agder anser at reglene om trekk i stønad på grunn
-av fravær og stans er tilstrekkelige.
-Fylkesmannen i Agder påpeker også at departementet i 2016 forslo å innføre en forsøkshjemmel
-som gikk lenger en lov om forsøk i offentlig forvaltning, men forslaget ble ikke tatt med i lovendringen. Høringsinstansen kan ikke se at det foreligger nye opplysninger som tilsier at det nå bør
-åpnes for økonomiske forsøk. Videre mener fylkesmannen at det må komme klart frem hva som
-er vilkårene for at departementet skal kunne innvilge unntak fra bestemmelser i lov eller forskrift.
-
-11.1.4 Departementets vurdering
-Departementet opprettholder forslaget om å videreføre muligheten til å søke om unntak fra
-bestemmelsene i integreringsloven for å gjennomføre tidsbegrensede forsøk, og at forsøkshjemmelen utvides til å omfatte forsøk av økonomisk art,
-se forslag til § 38.
-En utvidelse av forsøkshjemmelen til å omfatte
-forsøk av økonomisk karakter innebærer at det
-kan gjennomføres forsøk der det gjøres unntak fra
-kapittel 5 om introduksjonsstønad. Redusert introduksjonsstønad i en periode mot å motta det
-resterende beløpet når deltageren oppnår sine
-mål er én mulig modell, men også andre modeller
-kan være aktuelle for forsøk. Slike forsøk kan
-bidra til bedre resultater i ordningene som reguleres i loven, for eksempel ved å gi insentiver til at
-flere deltagere kommer på et høyere språklig nivå
-enn de ellers ville gjort og at flere kommer i
-utdanning og arbeid.
-I introduksjonsloven i dag er det åpnet for tidsavgrensede pedagogiske eller organisatoriske forsøk. Da forsøkshjemmelen i introduksjonsloven
-ble innført i 1. januar 2017 inkluderte forslaget
-
-[Side 146]
-
-144
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-økonomiske forsøk i tillegg til pedagogiske og
-organisatoriske. Flertallet i Stortinget ønsket den
-gangen ikke ytterligere hjemler som tar sikte på å
-bruke kutt i stønad som et insentiv for bedre
-læring, se Innst. 103 L (2016–2017).
-Forsøksloven gir muligheter for forsøksvirksomhet i forvaltningen, der særlovgivningen ikke
-åpner for det. Forsøksloven gir imidlertid ikke
-mulighet til å godkjenne forsøk som fører til innskrenkning av rettigheter eller utvidelse av plikter
-som enkeltpersoner har eller gjeldende lover, se
-forsøksloven § 4 andre ledd. Som nevnt er én
-mulig modell for forsøk å gi redusert introduksjonsstønad i en periode mot å motta det
-resterende beløpet ved oppnådd mål. Slike forsøk
-dekkes ikke av nåværende forsøkshjemmel i
-introduksjonsloven og kan heller ikke foretas med
-hjemmel i forsøksloven. Hensikten med denne
-typen forsøk er å gi insentiver til at flere deltagere
-kommer på et høyere språklig nivå enn de ellers
-ville gjort. For å tydeliggjøre i loven at forsøk kan
-innebære inngrep i rettigheter etter loven, foreslår departementet å presisere i § 38 første ledd at
-det kan godkjennes forsøk som innskrenker rettigheter eller utvider plikter etter loven.
-Fylkesmannen i Agder har i sin høringsuttalelse vist til at de ikke kan se at det foreligger
-nye opplysninger som tilsier at det nå bør åpnes
-for økonomiske forsøk. Departementet bemerker
-at forslaget til integreringslov innebærer mer målfokuserte kvalifiseringsordninger enn det er lagt
-opp til i introduksjonsloven. Det innføres krav om
-sluttmål og norskmål, og disse utformes etter fastsatte kriterier. I tillegg arbeides det med å utarbeide standardiserte elementer og revidere læreplanene for opplæringen i norsk og samfunnskunnskap. Departementet mener at denne målrettingen av ordningene etter loven aktualiserer økonomiske forsøk. Å nå målene som blir satt vil
-uansett være en stor fordel for deltageren, både på
-kort og lengre sikt.
-Rammene for forsøk og kriteriene for godkjenning vil bli fastsatt i forskrift. Det er ikke aktuelt å
-godkjenne forsøk som vil være i strid med Grunnloven § 98 om usaklig eller uforholdsmessig forskjellsbehandling eller internasjonale konvensjoner, herunder blant annet FN-konvensjonen om
-sivile og politiske rettigheter og det generelle diskrimineringsforbudet i artikkel 26 og FN-konvensjonen om økonomiske, sosiale og kulturelle
-rettigheter. Sistnevnte innebærer at inngrep i
-rettigheter som rammer enkelte personer eller
-grupper, må tilfredsstille krav til begrunnelse og
-forholdsmessighet. Dette er særlig viktig i vurderingen av om det skal gis adgang til å gjøre unn-
-
-2019–2020
-
-tak fra rettigheter deltagerne er gitt i integreringsloven, for eksempel til introduksjonsstønad. Selv
-om verken Grunnloven eller internasjonale konvensjoner i seg selv gir noen rett for eksempel til
-introduksjonsstønad på et visst nivå, innebærer de
-likevel at inngrep i særlig økonomiske rettigheter
-som rammer enkelte personer eller grupper, må
-være saklig begrunnet og ikke uforholdsmessig.
-De samlede fordelene ved forsøksordningen må
-oppveie ulempene som inngrepet i rettigheter
-etter loven medfører.
-Som følge av dette er en forutsetning for å få
-godkjent forsøk, særlig unntak fra bestemmelsene
-om introduksjonsstønad, at kommunen i søknaden må begrunne hvorfor den mener at forsøket
-kommunen ønsker å prøve ut kan ha en effekt på
-resultatene. Kommunen må beskrive hvilke ulemper et slikt forsøk vil få for deltagerne i introduksjonsprogrammet og opplæring i norsk og samfunnskunnskap, og gi en vurdering av hvordan de
-samlede fordelene med forsøksordningen for
-deres deltagere oppveier ulempene inngrepet i
-rettigheter etter loven medfører. Søknader om forsøk som ikke oppfyller denne forutsetningen vil
-ikke bli godkjent.
-
-11.2 Kompetansekrav for lærere
-11.2.1 Gjeldende rett
-Det følger av introduksjonsloven § 19 tredje ledd
-at den som skal undervise i norsk og samfunnskunnskap som hovedregel skal ha faglig og pedagogisk kompetanse. Dette forstås som at den som
-underviser som hovedregel må ha godkjent lærerutdanning og i tillegg bør ha norsk som andrespråk som fag.
-Flere av lærerne som underviser i norsk og
-samfunnskunnskap etter introduksjonsloven underviser også i grunnopplæring etter opplæringsloven
-og er omfattet av kompetansekravene som følger av
-opplæringsloven. Kompetansekravene er regulert i
-forskrift til opplæringsloven kapittel 14. Kravene til
-formell kompetanse i grunnopplæringen varierer
-mellom 30 og 60 studiepoeng i forskjellige fag.
-Over 90 prosent av lærerne som underviser i
-norsk etter introduksjonsloven har pedagogisk
-kompetanse.
-11.2.2 Forslaget i høringsnotatet
-Departementet foreslo å innføre et krav om at
-lærere som underviser etter integreringsloven
-skal ha generell formell pedagogisk kompetanse.
-Departementet presiserte i høringsnotatet at
-
-[Side 147]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-begrepet generell formell pedagogisk utdanning
-tilsvarer det som omtales som faglig og pedagogisk kompetanse i introduksjonsloven i dag og
-som i dagens rundskriv omtales som godkjent
-lærerutdanning.
-Videre ble det foreslått å innføre et krav om
-minimum 30 studiepoeng i faget norsk som
-andrespråk for lærere som underviser i norsk
-etter integreringsloven.
-Det ble foreslått at kravet skal gjelde for lærere
-som underviser i norsk etter integreringsloven.
-Kravene skal både gjelde for offentlig og privat
-ansatte lærere som er ansatt i fast eller midlertidig
-stilling, dette innebærer at det ikke vil gjelde for
-lærere som underviser etter opplæringsloven.
-Departementet foreslo også at det innføres
-overgangsregler for lærere som allerede underviser, men som ikke oppfyller de nye kompetansekravene. Det ble foreslått at lærere som allerede
-underviser må oppfylle de nye kompetansekravene innen 2029. Departementet innførte i 2019
-en stipendordning som lærere som underviser i
-norsk etter introduksjonsloven kan søke på. Fristen ble satt på bakgrunn av at dette er ti år etter
-innføringen av denne ordningen.
-Det ble også foreslått å innføre en overgangsperiode som innebærer at opplæringsstedene kan
-ansette nye lærere som ikke oppfyller kompetansekravene under forutsetning av at lærerne påbegynner videreutdanning innen ett år, og gjennomfører 30 studiepoeng innen tre år. Det foreslås at
-denne overgangsperioden også skal vare frem til
-2029. Dette vil tilsvare dispensasjonsordningene
-som er gjeldende for lærere i grunnopplæringen.
-Det ble foreslått at overgangsreglene skal fremgå
-av forskrift.
-
-11.2.3 Høringsinstansenes syn
-Om lag 80 høringsinstanser har uttalt seg om forslaget om innføring av kompetansekrav for
-lærere. I underkant av 70 høringsinstanser støtter
-forslaget, herunder flere kommuner i tillegg til
-blant annet Antirasistisk senter, Fylkesmannen i
-Nordland, Leiarnettverka for vaksenopplæringssentera i Sogn og Fjordane, Norsk lektorlag og Skolelederforbundet. Antirasistisk senter mener at alle
-burde ha rett å undervises av en lærer med godkjent utdanning. Skolelederforbundet uttaler at det
-er på høy tid at det kommer krav til pedagogisk
-kompetanse og fagkunnskap også for norskopplæring etter integreringsloven. Rælingen kommune
-uttaler:
-
-145
-
-Det er svært fornuftig at det endelig blir et
-kompetansekrav for lærere som skal undervise
-i norsk for innvandrere og flyktninger. Det er
-dessverre en altfor utbredt bruk av lærere uten
-god nok kompetanse på fagfeltet med norsk for
-minoritetsspråklige og voksenopplæring og vi
-mener at en kvalitetssikring på dette feltet er på
-høy tid. Riktig og god kompetanse hos lærerne
-vil gi bedre tilpasset opplæring som vil kunne
-gi bedre deltagelse i og mestring av det norske
-arbeidslivet og samfunnet.
-Sola kommune påpeker at kompetansekrav markerer at dette er et område som må prioriteres, og
-at det kan bidra til å øke statusen til lærerne som
-underviser i norsk etter introduksjonsloven. Fylkesmannen i Nordland mener at det at de nyankomne innvandrerne har en god forståelse av
-norsk, både skriftlig og muntlig, legger grunnlaget for deltagelse i samfunnet og en varig tilknytning til arbeidslivet.
-Selv om forslaget om innføring av kompetansekrav har klar støtte, har en rekke instanser innspill til justeringer, tilføyelser eller mindre endringer av forslaget. Dette gjelder blant annet Askøy
-kommune, Utdanningsforbundet og Voss vaksenopplæring som vurderer at begrepet generell formell
-pedagogisk utdanning er utydelig og lett kan misforstås, og mener at departementet i loven bør
-bytte begrepet med godkjent lærerutdanning.
-Også Trøndelag fylkeskommune støtter forslaget, men bemerker at det kan være problematisk
-å fylle kravet i områder av landet der det er liten
-tilgang på lærere med pedagogisk utdanning.
-Flyktningtjenesten og voksenopplæringen i Levanger
-kommune trekker frem at realkompetanse bør
-telle med i beregningen av lærernes samlede
-kompetanse.
-Enkelte instanser mener kravet burde utvides
-til 60 studiepoeng i faget norsk som andrespråk,
-deriblant Kompetanse Norge og Nye Orkland kommune. Nye Orkland kommune uttaler:
-For lærere som ønsker å utvide til 60 studiepoeng, bør det opprettes studietilbud (nettbaserte og/eller samlingsbaserte) for å muliggjøre dette.
-Omtrent 20 instanser kommer med innspill om at
-kompetansekravet også burde gjelde andre grupper. I sær fremheves det at lærere i videregående
-opplæring som skal gi deltagere i fulltid videregående skole opplæring i norsk, burde omfattes av
-samme kompetansekrav. Eksempelvis er Elverum kommune, Faglig forum for kommunalt flykt-
-
-[Side 148]
-
-146
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-ningarbeid (ffkf), Høgskolen på Vestlandet og Kristiansand kommune av denne oppfatningen.
-Det er også flere høringsinstanser som uttaler
-at kompetansekravet burde gjelde lærere i grunnskolen for voksne. Noen instanser har merknader
-om at det burde stilles kompetansekrav overfor
-andre grupper, for eksempel lærere i samfunnskunnskap og programrådgivere. Dette fremheves
-blant annet av Interesseorganisasjonen for kommunal voksenopplæring (IKVO), Gran og Lunner voksenopplæring og Kompetanse Norge. Kompetanse
-Norge skriver:
-Det er et klart behov for sterkere satsing på
-kompetanseheving av lærere som underviser i
-samfunnskunnskap. Kompetanse Norge anbefaler at det utredes hvordan dette kan gjøres og
-hvilke kompetansekrav som kan være hensiktsmessige for denne lærergruppa.
-Flere instanser har merknader om at det er andre
-fag som burde sidestilles med faget norsk som
-andrespråk, blant annet Bømlo kommune, Folkeuniversitetet Asker, Melhus kommune og Skolelederforbundet. Melhus kommune uttaler at 30 studiepoeng i begynneropplæring for grunnskolen,
-og 30 studiepoeng innenfor språkdelen av nordisk, favner mye av det samme som norsk som
-andrespråk. Bømlo kommune mener at utdanning
-i voksenpedagogikk burde sidestilles med norsk
-som andrespråk.
-Det har også kommet innspill, blant annet fra
-Bodø kommune og Seljord kommune, om at satsingen på kompetanseheving for lærere i norsk etter
-ny integreringslov burde inn under eller ses i sammenheng med Utdanningsdirektoratets satsing
-Kompetanse for kvalitet.
-Leiarnettverka for vaksenopplæringssentera i
-Sogn og Fjordane og Voss vaksenopplæring mener
-at deltagerne i norskopplæringen også burde gis
-rett til kontaktlærer og rådgiver (tilsvarende opplæringsloven).
-Noen instanser er skeptiske til forslaget,
-eksempelvis Grong kommune, Kommunesektorens
-Organisasjon (KS) og Vaksenopplæringa i Vinje
-kommune. Enkelte høringsinstanser trekker frem
-at forslaget vil ha økonomiske og administrative
-konsekvenser. Vaksenopplæringa i Vinje kommune
-mener at forslaget kan få økonomiske konsekvenser fordi erfarne og dyktige lærere må sendes på
-etterutdanning, som igjen fører til utfordringer
-med vikarer og dårlig kvalitet på undervisninga.
-KS mener at de administrative og økonomiske
-konsekvensene ikke er godt nok utredet. Dette
-gjelder først og fremst at man ikke ser forslaget i
-
-2019–2020
-
-sammenheng med kommunens øvrige plikter og
-utfordringer knyttet til rekruttering av lærere og
-læreres kompetanse innen oppvekstfeltet.
-KS er videre bekymret for at departementet i
-sin styringsiver fratar kommunene et viktig styringsvirkemiddel når det gjelder å kvalitetssikre
-opplæringen, og at tiden blir brukt til å administrere formelle krav fremfor å sikre en god samlet
-undervisningskompetanse i undervisningen i
-norsk og samfunnskunnskap.
-Vaksenopplæringa i Vinje kommune mener
-også at forslaget kan gi store utfordringer i mange
-kommuner og uttaler:
-Det blir og ei ny «avskilting» av dyktige lærarar
-med lang erfaring med norskopplæring for
-flyktningar. Fleire skuleslag kjem og til å måtte
-konkurrere om dei same lærekreftene.
-Grong kommune problematiserer at svingninger i
-bosettingen kan føre til rekrutteringsproblemer til
-voksenopplæring, og at disse utfordringene vil bli
-ytterligere forsterket ved innføring av krav. Grong
-kommune mener at mange lærere kan vurdere å
-søke seg bort fra fagfeltet fremfor å satse på en
-videreutdanning til en jobb som man ikke vet om
-det er behov for i fremtida.
-
-11.2.4 Departementets vurdering
-Et klart flertall av høringsinstansene som har
-uttalt seg støtter forslaget om å innføre et kompetansekrav for lærere som underviser i norsk etter
-integreringsloven.
-God kompetanse hos lærerne har stor betydning for kvaliteten i opplæringen i norsk for voksne
-innvandrere, jf. omtale i punkt 2.2. Departementet
-mener at innføringen av kompetansekrav for lærere
-i norsk etter integreringsloven vil bidra til bedre
-resultater og mindre variasjon i resultatene mellom
-kommunene. En undersøkelse utført av Kompetanse Norge viser at 73 prosent av lederne av opplæring i norsk og samfunnskunnskap etter introduksjonsloven er positive til innføring av kompetansekrav.
-Enkelte av høringsinstansene vurderer at
-begrepet generell formell pedagogisk utdanning
-er utydelig og lett kan misforstås, og mener at
-departementet i loven bør bruke et annet
-begrep. Departementet ser at formell pedagogisk utdanning ikke er et entydig begrep og at
-det kan misforstås. Departementet foreslår derfor at det benyttes samme ordlyd som i opplæringsloven § 10-1, hvor det fremgår at den som
-skal ansettes må ha relevant faglig og pedago-
-
-[Side 149]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-gisk kompetanse. Hva som ligger i dette er nærmere regulert i forskrift til opplæringsloven
-kapittel 14, og det stilles ulike kompetansekrav
-ut fra hvilket trinn det skal undervises på. Det er
-imidlertid gjort unntak for de som skal undervise voksne etter opplæringsloven kapittel 4A,
-der kan også personer uten formell pedagogisk
-kompetanse ansettes. Forslaget om kompetansekrav i integreringsloven innebærer at kommuner
-som organiserer opplæring i norsk etter integreringsloven i voksenopplæringen vil måtte ha
-lærere med relevant faglig og pedagogisk kompetanse, selv om dette ikke følger av kravene i
-opplæringsloven. Hvilke krav til relevant faglig
-og pedagogisk kompetanse som skal gjelde etter
-integreringsloven vil bli regulert i forskrift. I forskriftsarbeidet vil det vurderes unntak tilsvarende unntakene i opplæringsloven kapittel 10,
-for tilfeller hvor kommunen ikke har eller får
-rekruttert personer som oppfyller kravene.
-I tillegg til de generelle kravene i forskrift til
-opplæringsloven kapittel 14, foreslår departementet at det skal stilles krav om dokumentert kompetanse i faget norsk som andrespråk, tilsvarende 30
-studiepoeng. Dette vil også bli regulert i forskrift.
-Noen høringsinstanser hadde innspill til at 30
-studiepoeng er for lavt og mener det bør stilles
-krav om 60 studiepoeng. Et krav om 60 studiepoeng i norsk som andrespråk etter integreringsloven, vil bidra til mer faglig bredde og dybde hos
-lærerne. Departementet vurderer likevel at det
-ikke bør settes et krav om 60 studiepoeng i norsk
-som andrespråk for lærere i norsk etter integreringsloven. Et krav om 60 studiepoeng i norsk
-som andrespråk vil gjøre det vanskelig for mange
-kommuner å få tak i kvalifiserte norsklærere. De
-fleste videreutdanningstilbudene som er etablert,
-dekker et pensum på 30 studiepoeng. Et krav om
-flere studiepoeng enn 30 forutsetter at tilbudet
-utvides og at påbyggingsemner opp til et høyere
-nivå må prioriteres. Det vil også være kostbart å
-videreutdanne dagens lærere slik at de oppnår 60
-studiepoeng i norsk som andrespråk, blant annet
-fordi det ikke finnes en stipendordning som dekker 60 studiepoeng.
-Departementet mener at dagens utdanningstilbud for 30 studiepoeng i norsk som andrespråk er
-tilstrekkelig til å håndtere en første økning i antall
-søkere som følge av forslaget. Departementet vil
-også legge til rette for å utvikle studietilbudet
-videre. Det er etablert en stipendordning til videreutdanning i 30 studiepoeng i faget norsk som
-andrespråk. Ordningen gir stipend til om lag 200
-lærere årlig.
-
-147
-
-Departementet opprettholder også forslaget
-om å innføre overgangsregler i forskrift for kravet
-om 30 studiepoeng i norsk som andrespråk. Flere
-høringsinstanser er positive til at det innføres
-overgangsregler med en dispensasjonsordning
-for allerede tilsatte lærere og en overgangsperiode for ansettelse av nye lærere som ikke oppfyller kompetansekravene. Overgangsregler vil være
-sentrale for å redusere økonomiske og administrative konsekvenser for kommunene, beholde
-allerede ansatte lærere og styrke rekrutteringsgrunnlaget av nye lærere. Overgangreglene vil
-også gi kommunene tid til å ha en helhetlig tilnærming til rekruttering av lærere, hvor de ser lærernes kompetanse både innen grunnopplæringen
-og voksenopplæringen i sammenheng. Det er
-anslagsvis 3 500 lærere som underviser i norsk
-etter introduksjonsloven. Om lag 53 prosent av
-disse vil trenge kompetanseheving hvis krav om
-30 studiepoeng i faget norsk som andrespråk innføres, viser en undersøkelse fra Kompetanse
-Norge. De aller fleste, om lag 43 prosent (ca. 1500
-lærere), vil trenge 30 studiepoeng. En mindre del,
-om lag 10 prosent, vil trenge noen færre studiepoeng for å fylle kompetansekravet om norsk som
-andrespråk.
-Flere instanser har innspill til at andre lærergrupper også burde omfattes av kompetansekravet. For departementet har det vært sentralt å lovfeste et krav til lærere som underviser i norsk
-etter integreringsloven. På sikt kan det imidlertid
-være aktuelt å innføre krav til særskilt kompetanse også for andre som underviser voksne innvandrere i norsk, og departementet vil også vurdere om det er hensiktsmessig å innføre kompetansekrav for lærere i samfunnskunnskap. Departementet har i utredningen av kompetansekrav for
-norsklærere sett hen til Utdanningsdirektoratets
-satsing Kompetanse for kvalitet, men har ikke funnet det hensiktsmessig å legge kompetanseheving av lærere som underviser etter integreringsloven inn under denne satsingen.
-Departementet har også bemerket seg at flere
-instanser mener at andre fagretninger burde sidestilles med faget norsk som andrespråk. Forslaget
-om at det er norsk som andrespråk det skal stilles
-krav om, opprettholdes med bakgrunn i at dette er
-en særlig relevant kompetanse for lærere som gir
-norskopplæring til voksne innvandrere. Innspillene
-om at deltagere i norsk og samfunnskunnskap
-burde gis rett til kontaktlærer og rådgiver, vil eventuelt bli utredet på et senere tidspunkt.
-Departementet vil presisere at kompetansekravet som foreslås er et minimumskrav, og at det
-er henholdsvis kommunen og fylkeskommunen
-
-[Side 150]
-
-148
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-som vurderer hvilken kompetanse de mener er
-nødvendig for å kunne gi et tilbud i henhold til
-kravene i integreringsloven og opplæringsloven til
-sine deltagere.
-Lærere som har yrkeskvalifikasjoner fra en
-annen EØS-stat og som skal undervise i norsk
-etter denne loven, skal godkjennes etter reglene i
-yrkeskvalifikasjonsloven med tilhørende forskrift.
-Det er NOKUT som godkjenner lærere med
-yrkeskvalifikasjoner fra utlandet. Departementet
-vil i forskriftsarbeidet vurdere om det skal inntas
-tilsvarende regler som i forskrift til opplæringsloven § 14-7 om godkjenning for personer som ikke
-er omfattet av yrkeskvalifikasjonsloven.
-
-11.3 Forbud mot bruk av klesplagg som
-helt eller delvis dekker ansiktet
-11.3.1 Gjeldende rett
-Fra 1. august 2018 ble det innført forbud mot bruk
-av klesplagg som helt eller delvis dekker ansiktet i
-opplæring etter introduksjonsloven i introduksjonsloven § 27 a. Forbudet mot bruk av ansiktsdekkende plagg i introduksjonsloven ble innført
-samtidig med et lignende forbud i barnehager og i
-andre undervisningssituasjoner. Forbudet gjelder
-i både offentlig og private institusjoner.
-Bakgrunnen for forslaget var behandlingen av
-representantforslag 3 S (2016–2017) hvor Stortinget i Innst. 63 S (2016–2017) ba regjeringen om å
-utarbeide og eventuelt foreslå nasjonale regler
-som sikrer at ansiktene til elever, studenter og
-lærere skal være fullt ut synlige på skoler, universitet og høyskoler.
-Forbudet omfattet hele utdanningsløpet fra
-barnehage via skole til fagskoler, høyskoler og
-universitet, i tillegg til deltagere i introduksjonsprogram og opplæring etter introduksjonsloven.
-Dersom ansatte, elever, studenter eller deltagere i opplæring etter introduksjonsloven bruker
-plagg som helt eller delvis dekker ansiktet, kan
-dette være til hinder for god samhandling og kommunikasjon. God samhandling og kommunikasjon er avgjørende for et godt læringsutbytte.
-Forbudet mot bruk av plagg som helt eller delvis dekker ansiktet, omfatter plagg som nikab og
-burka. Nikab er en kombinasjon av hode- og
-ansiktsplagg som kan brukes på flere måter, men
-vanligvis dekker plagget hele ansiktet så nær som
-øynene. Burka dekker hele kroppen og har et tekstilgitter foran øynene. Forbudet omfatter også
-andre plagg som helt eller delvis dekker ansiktet,
-som finlandshetter med stoff foran ansiktet. Hijab,
-som bare dekker håret og halsen, er ikke et plagg
-
-2019–2020
-
-som dekker ansiktet. For en grundigere redegjørelse for forbud mot bruk av ansiktsdekkende
-plagg, se Prop. 51 L (2017–2018).
-
-11.3.2 Forslaget i høringsnotatet
-Departementet foreslo å videreføre forbudet mot
-bruk av klesplagg som helt eller delvis dekker
-ansiktet i integreringsloven, men foreslo en liten
-språklig justering slik at bestemmelsens første
-ledd første punktum endres fra «opplæringssituasjoner og vurderingssituasjoner» til «opplæringsog vurderingssituasjoner».
-
-11.3.3 Høringsinstansenes syn
-Seks høringsinstanser har uttalt seg om forslaget
-om å videreføre forbudet mot bruk av klesplagg
-som helt eller delvis dekker ansiktet i opplæring
-etter introduksjonsloven, og ingen av dem støtter
-forslaget. Dette gjelder Antirasistisk senter, Fylkesmannen i Agder, Jussbuss, Lillehammer kommune,
-Utdanningsforbundet og Vergeforeningen Følgesvennen. Antirasistisk senter, Fylkesmannen i Agder,
-Utdanningsforbundet og Vergeforeningen Følgesvennen uttaler at bruken av ansiktsdekkende plagg er
-marginal og at det er unødvendig å ha et eget lovforslag om dette. Fylkesmannen i Agder ser at
-behovet for kommunikasjon og samspill gjør seg
-gjeldende, men mener likevel at et forbud vil
-kunne få større negativ innvirkning for den
-enkelte deltager enn for andre elever, studenter
-og ansatte når det gjelder personlige, økonomiske
-og juridiske forhold. Fylkesmannen i Agder uttaler:
-En deltaker som i en årrekke har brukt nikab
-eller burka vil kunne oppleve det som en ytterligere belastning å ta av seg det ansiktsdekkende
-plagget etter kort botid i Norge. Det vil kunne
-gjelde uavhengig om årsaken til det ansiktsdekkende plagget er kulturelt og/eller religiøst
-betinget, eller som resultat av ytre press.
-Fylkesmannen i Agder, Jussbuss, og Vergeforeningen Følgesvennen påpeker at et forbud i praksis vil
-føre til at disse kvinnene ikke møter til pliktig opplæring, som vil resultere i at enkelte kan miste sin
-inngangsport til det norske samfunnet. De mener
-at dette vil få konsekvenser for norskopplæring og
-på sikt søknad om permanent opphold og statsborgerskap. Det vil også innebære tap av introduksjonsstønad. Jussbuss fremhever at forbudet
-strider mot hensikten bak lovforslaget, som nettopp er å fremme integrering. Utdanningsforbundet
-
-[Side 151]
-
-2019–2020
-
-Prop. 89 L
-Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
-
-mener at det kan åpnes for innføring av lokale forbud om nødvendig.
-Fylkesmannen i Agder foreslår at kommunen i
-stedet bør få en plikt til jevnlig å samtale med de
-aktuelle deltagerne, og forklare hvorfor det ikke
-er ønskelig at de bruker ansiktsdekkende plagg i
-arenaer for læring, integrering og kommunikasjon. Også Antirasistisk senter understreker at god
-dialog og godt samarbeid lokalt best løser utfordringer av denne typen.
-Ingen høringsinstanser har uttalt seg om forslaget om en liten språklig justering.
-
-11.3.4 Departementets vurdering
-Departementet opprettholder forslaget om å videreføre forbudet mot bruk av klesplagg som helt
-eller delvis dekker ansiktet i opplæring etter integreringsloven, se forslag til § 40. Bestemmelsen
-ble innført i 2018 samtidig som lignende bestemmelser ble innført i flere andre lover. Det har ikke
-kommet innvendinger mot bestemmelsen som
-ikke er vurdert i Prop. 51 L (2017– 2018).
-Departementet opprettholder også forslaget
-om en liten språklig justering slik at bestemmelsens første ledd første punktum endres fra «opplæringssituasjoner og vurderingssituasjoner» til
-«opplærings- og vurderingssituasjoner». Til dette
-punktet har det ikke kommet noen uttalelser.
-
-11.4 Behandling av personopplysninger
-11.4.1 Gjeldende rett
-Introduksjonsloven §§ 25 til 25 b regulerer behandling av personopplysninger. Etter introduksjonsloven § 25 kan offentlige organer behandle personopplysninger, inkludert sensitive personopplysninger, når det er nødvendig for å utføre oppgaver i forbindelse med:
-– tiltak for å gi asylsøkere kjennskap til norsk
-språk, kultur og samfunnsliv
-– tiltak for å gi innvandrere kunnskap og ferdigheter for å kunne delta i det norske samfunnslivet
-– gjennomføring av prøver for dokumentasjon av
-norskkunnskaper og samfunnskunnskap
-– bosetting av innvandrere
-– utbetaling av tilskudd for tiltakene nevnt ovenfor
-Personopplysninger kan innhentes fra utlendingsmyndighetene og folkeregistermyndigheten uten
-hinder av lovbestemt taushetsplikt, jf. § 25 andre
-ledd. Når hensynet til barnets beste gjør det nødvendig, kan personopplysninger også innhentes
-
-149
-
-fra barnevernet og krisesentre uten hinder av lovbestemt taushetsplikt. Personopplysningene kan
-utveksles mellom offentlige organer som har
-behov for opplysningene for å utføre oppgaver
-nevnt i første ledd, uten hinder av lovbestemt taushetsplikt. Unntaket fra taushetsplikten gjelder
-ikke taushetsplikt etter helsepersonelloven. Organisasjoner og private som utfører oppgaver nevnt i
-første ledd anses som offentlige organer i denne
-sammenhengen.
-Introduksjonsloven § 25 a gir hjemmel for opprettelse av nasjonale personregistre for formålene
-nevnt i § 25 første ledd. Det mest sentrale registeret
-er Nasjonalt introduksjonsregister (NIR), som inneholder opplysninger om enkeltpersoners deltagelse
-i introduksjonsprogram og opplæring etter loven.
-Utlevering av personopplysninger kan skje gjennom direkte søketilgang i registrene. integreringsog mangfoldsdirektoratet (IMDi), kommunene og
-Arbeids- og velferdsetaten er blant aktørene som
-har direkte tilgang til NIR, og som derfor kan se
-relevante opplysninger om enkeltpersoner. Etter
-introduksjonsloven § 25 a har kommunen plikt til å
-registrere personopplysninger om personer som
-omfattes av introduksjonsloven i slike registre. Plikten er presisert i forskrift om behandling av personopplysninger etter introduksjonsloven.
-Etter introduksjonsloven § 25 b kan offentlige
-organer pålegge følgende organer å utlevere personopplysninger om asylsøkere og innvandrere
-uten hinder av lovbestemt taushetsplikt:
-– Integrerings- og mangfoldsdirektoratet
-– Kompetanse Norge
-– Arbeids- og velferdsetaten
-– Utlendingsdirektoratet
-– Utlendingsnemnda
-– folkeregistermyndigheten
-– kommunene
-Hvilke personopplysninger som kan behandles
-reguleres i forskrift om behandling av personopplysninger etter introduksjonsloven. Dette gjelder
-blant annet opplysninger om den enkeltes kompetanse, gjennomført opplæring og tiltak i introduksjonsprogrammet, bosetting, prøveavvikling og tilskudd.
-I forskriften reguleres også ansvaret til IMDi,
-Kompetanse Norge og kommunene. IMDi og
-Kompetanse Norge er behandlingsansvarlige for
-registre med opplysninger om deltagere i ordningene etter introduksjonsloven. I tillegg har direktoratene ansvar for å overføre opplysninger til
-utlendingsmyndighetene til bruk for behandling
-av søknader etter utlendingsloven og statsborgerloven. Kommunene er behandlingsansvarlig for
+## Varighet og omfang av opplæring i norsk
+
+### Gjeldende rett
+
+Det følger av introduksjonsloven § 17 fjerde ledd at rett til deltagelse i opplæringen i norsk og samfunnskunnskap gjelder i tre år, og i fem år for deltagere som har behov for ytterligere opplæring, jf. § 18 andre ledd. Kommunen skal tilby opplæring i fem år, som hovedregel fra det tidspunktet den enkelte utlending har fått oppholdstillatelse etter utlendingsloven.
+
+Retten inntrer på forskjellige tidspunkter ettersom hvilken oppholdstillatelse deltageren har. Rett eller plikt til deltagelse etter § 17 første ledd bokstav a og d og andre ledd, inntrer ved innvilgelse av førstegangs oppholdstillatelse. For personer som fikk slik tillatelse før innreise til Norge, inntrer retten og/eller plikten fra vedkommendes ankomst til Norge.
+
+For personer som omfattes av § 17 første ledd bokstav b (kollektiv beskyttelse i massefluktsituasjoner), inntrer rett og plikt til deltagelse fra vedkommende er bosatt i kommunen etter avtale, se punkt 4.1. For personer som omfattes av § 17 første ledd bokstav c, inntrer rett og plikt til deltagelse fra førstegangs fornyelse av oppholdstillatelsen. I særlige tilfeller kan rett og plikt til deltagelse inntre fra det tidspunktet krav om opplæring settes frem.
+
+Omfanget av opplæringen er i dag angitt til henholdsvis 600 timer for de som har rett og plikt og 300 timer for de som kun har plikt. Timene fordeler seg på henholdsvis 550 timer norsk og 50 timer samfunnskunnskap og 250 timer norsk og 50 timer samfunnskunnskap.
+
+Retten til gratis opplæring (600 timer) opphører etter tre år, og ytterligere opplæring (inntil 2 400 timer) må være gjennomført innen fem år. Rammene på tre og fem år utvides ikke med tillegg av godkjente permisjoner.
+
+### Forslaget i høringsnotatet
+
+Departementet foreslo at deltagerens og kommunens forpliktelse til å delta i eller tilby opplæring i norsk er oppfylt når deltageren når sitt norskmål.
+
+Departementet foreslo at kommunens plikt og deltagerens forpliktelser under alle omstendigheter opphører senest etter tre år med tillegg av godkjent permisjon. For deltagere som minimum har gjennomført videregående opplæring fra før, ble det foreslått at opplæringen opphører etter 18 måneder med tillegg av godkjent permisjon. Departementet foreslo å videreføre dagens timeangivelse på 300 timer for deltagere som kun har plikt til å delta i opplæring.
+
+Videre foreslo departementet at retten til gratis opplæring løper fra innvilgelse av oppholdstillatelsen.
+
+### Høringsinstansenes syn
+
+I underkant av 30 høringsinstanser har uttalt seg isolert om forslaget om varighet og omfang for opplæringen, slik forslaget fremgikk av høringsnotatet. Mange instanser har også uttalt seg om varighet og omfang for opplæringen under spørsmålet om krav til opplæringen i norsk, jf. punkt 10.3.3.
+
+Flertallet støtter ikke forslaget om at kommunens plikt og deltagerens forpliktelser under alle omstendigheter opphører senest etter tre år eller etter 18 måneder for deltagere som minimum har utdanning på videregående nivå fra før. Dette gjelder blant annet *Arbeids- og velferdsdirektoratet (AVdir), Askøy kommune*, *Kompetanse Norge, Lier kommune, Oslo voksenopplæring, Stord kommune, Trøndelag fylkeskommune, Viken fylkeskommune* og *Ålesund voksenopplæring*. *Lier kommune* mener at dersom det er nivå og ikke antall timer som skal gi rammer for opplæringen, må begrensningen på tre år fjernes. *Trøndelag fylkeskommune* etterspør en mer fleksibel ramme, slik at deltagerne kan få mulighet til å nå norskmålet*. AVdir* understreker at det er en risiko for at forslagene om differensierte minimumsnivåer ikke vil ha ønsket effekt, ettersom det foreslås at kommunenes forpliktelser opphører etter henholdsvis tre år eller 18 måneder.*Viken fylkeskommune* skriver:
+
+Viken fylkeskommune er kritiske til at retten og plikten til å oppnå et språknivå utgår etter langt kortere tid enn det språkforskningen viser at er nødvendig.
+
+Flere høringsinstanser er særlig skeptiske til at opplæringen for de med minimum fullført videregående opplæring skal ha en ytre ramme på 18 måneder, eksempelvis, *Faglig forum for kommunalt flyktningarbeid (ffkf), Integrerings- og mangfoldsdirektoratet (IMDi), Kristiansand kommune, Skolelederforbundet, Sør-Varanger kommune* og *Trøndelag fylkeskommune. Kristiansand kommune* uttaler:
+
+Det er tidligere kommentert at det er store ulikheter på nivået på utenlandsk utdanning, så å sette maksimaltid i programmet på 18 måneder for deltaker med minst videregående utdanning og forvente at de skal nå de nasjonale målene på B2 både muntlig og skriftlig, vil bli en krevende eller nærmest en umulig øvelse.
+
+*Bodø kommune* vurderer det som utfordrende at deltagere som har minimum videregående opplæring bare skal ha rett og plikt til opplæring i 18 måneder, og mener varighet på opplæring må være en individuell vurdering. *Bærum kommune* uttaler:
+
+Opplæringen for deltakere som minimum har fullført videregående opplæring skal i henhold til høringsnotatet oppnå B2 muntlig og B1 skriftlig, maksimalt i løpet av 18 måneder. Bærum kommune erfarer at svært mange bruker mer enn 18 måneder på å nå B1 skriftlig. Videre erfares det at personer med akademisk utdanning og skolelært engelsk (spor 3) minimum bruker 18 måneder for å oppnå B2. De som klarer dette er personer som legger inn betydelig egeninnsats gjennom hele perioden.
+
+Flere instanser er også skeptiske til definisjonen av fullført videregående opplæring som ligger til grunn for forslaget. Tilsvarende motforestillinger er også fremsatt i forbindelse med forslaget til sluttmål og varighet for introduksjonsprogrammet, se punkt 8.5.3. *Kompetanse Norge* mener at disse deltagerne bør sikres rett til tilstrekkelig norskopplæring på lik linje med deltagere som får rett til norskopplæring inntil tre år, da de mener det kun vil være en liten andel som har mulighet til å lære seg norsk med rask progresjon. *Bærum kommune* uttrykker bekymring for at flere deltagere som heretter skal tilbys 18 måneders opplæring skal ende opp med ukvalifiserte jobber.
+
+Flere instanser problematiserer dessuten konsekvensen av forslaget om at deltagere med minimum videregående opplæring fra før kun skal ha program og tilhørende stønad i inntil seks måneder, og den betydning det vil ha for norskopplæringen. Dette gjelder blant annet *Faggruppe for migrasjon og transnasjonalitet ved OsloMet*, *Høyskolen i Innlandet, Kompetanse Norge* og *NAV Luster Flyktningteneste og vaksenopplæring. Faggruppe for migrasjon og transnasjonalitet ved OsloMet* skriver:
+
+Vår bekymring her dreier seg om hvordan det er tenkt at flyktninger som følger norskopplæring skal forsørge seg etter det forkortede introduksjonsprogrammet. Verken dagpenger eller sosialhjelp er egnet til å støtte under kvalifiserende studier i norsk som denne gruppa kommer til å trenge.
+
+*Kompetanse Norge* uttaler:
+
+Det vil være vanskelig å ta ut retten om norskopplæring ut over 6 måneder ved siden av fulltidsjobb, fordi det krever stor arbeidsinnsats å lære seg et nytt språk opp til nivå B2. Samtidig er det få kommuner som har tilpasset tilbud om norskopplæring på for eksempel kveldstid eller helg.
+
+*Lillestrøm kommune* mener at forslaget vil føre til at kommunen må endre organiseringen av opplæring i norsk og samfunnskunnskap for å kunne tilby forsvarlig opplæring over en mer konsentrert tidsperiode, og mener dette på kort sikt vil gi en merutgift for kommunen.
+
+Noen høringsinstanser ser ut til å ha tolket forslaget om en ytre ramme på 18 måneder for gruppen med minimum fullført videregående opplæring fra før, dithen at også norskopplæring skal skje innenfor rammen av den foreslåtte programtiden på seks måneder for denne gruppen.
+
+Flere høringsinstanser har uttalt seg om forslaget til at godkjente permisjoner foreslås lagt til den ytre rammen for rett og plikt til opplæring på tre år, og samtlige er positive til forslaget. Dette gjelder blant annet *AVdir*, *Bergen kommune*, *IMDi, MiRA-Senteret, Sogndal kommune* og *Troms fylkeskommune. MiRA-Senteret uttaler*:
+
+MiRA-Senteret er svært glad for å se at regjerningen nå foreslår at fristen for rett til norskopplæring forskyves ved fødselspermisjon. Vi støtter argumentasjonen til Likestillings og diskrimineringsombudet om at nåværende regler rammer kvinner særlig hardt, da perioden kvinner vanligvis tar lengre fødselspermisjon enn menn, og at de dermed får redusert tid til å gjennomføre opplæringen. Da vi vet at mange minoritetskvinner også strever med å få jobb, er det spesielt viktig at de ikke får dårligere betingelser enn menn til å gjennomføre opplæring i norsk og samfunnsfag.
+
+Enkelte høringsinstanser stiller spørsmål til konsekvenser av å ikke nå sitt norskmål innen den ytre rammen på henholdsvis tre år og 18 måneder. Dette gjelder blant annet *Fredrikstad kommune, Indre Fosen voksenopplæring og innvandringstjeneste, Kompetanse Norge* og *Oslo voksenopplæring.* *Kompetanse Norge* skriver:
+
+Kompetanse Norge kan ikke se at det er omtalt noe sted i forslaget hvordan det er tenkt løst dersom deltakeren ikke oppnår nivået på norskprøven som han/hun har som norskmål. Slik vi forstår forslaget fra departementet har deltakeren i et slikt tilfelle fortsatt rett til gratis norskopplæring inntil vedkommende når sitt norskmål, innenfor de ytre rammene på 18 måneder eller 3 år. Det må komme tydelig frem av forslaget hvorvidt deltakeren har rett på mer enn én gratis prøve eller delprøve dersom deltageren ikke når sitt norskmål på avsluttende prøve i norsk.
+
+*Kompetanse Norge* mener det må stilles tydelige krav til vertskommuner for mottak når det gjelder tilbud, omfang og kvalitet på opplæring i norsk til deltagere med rett og plikt, gitt at varigheten på opplæringen for noen grupper vil være kortere enn i dag.
+
+*Bergen kommune* og *Kompetanse Norge* etterspør en tydeliggjøring av hvor mange timer deltageren minimum skal få tilbud om per uke.
+
+Noen høringsinstanser har uttalt seg spesifikt om departementets forslag om å videreføre dagens timeangivelse på 300 timer for deltagere som kun har plikt til å delta i opplæring, og samtlige støtter forslaget.
+
+### Departementets vurdering
+
+Departementet opprettholder forslaget i høringsnotatet om at deltagerens, kommunens og fylkeskommunens forpliktelse til å delta i eller tilby opplæring i norsk er oppfylt når deltageren når sitt norskmål, se forslag til § 32. Norskmålet er satt ut i fra det som er tilstrekkelig nivå i norsk til å komme i utdanning eller få varig tilknytning til arbeidslivet for den enkelte, og innebærer at forpliktelsene er oppfylt når norskmålet er nådd. For fylkeskommunen innebærer dette at forpliktelsen etter integreringsloven opphører når norskmålet nås, mens forpliktelsene etter opplæringsloven fortsatt kan bestå.
+
+Departementet foreslår at forpliktelsene etter integreringsloven under alle omstendigheter opphører senest etter tre år eller etter 18 måneder for deltagere med minimum utdanning på videregående nivå fra før. Når det gjelder gruppen med rett og plikt til norskopplæring i 18 måneder bemerker departementet at ordlyden er justert sammenlignet med forslaget som var på høring. I høringsnotatet ble gruppen med rett og plikt til norskopplæring i inntil 18 måneder avgrenset noe annerledes enn gruppen med introduksjonsprogram på mellom tre og seks måneder. Departementet vil bemerke at dette beror på en feil, og at det ikke har vært meningen å operere med ulik begrepsbruk. Ordlyden er nå justert, slik at begrepsbruken er lik i de to bestemmelsene.
+
+Enkelte høringsinstanser er negative til at dagens behovsprøvde frist på fem år, som i dag følger av introduksjonsloven § 18 andre ledd siste punktum, ikke videreføres.
+
+Etter dagens regelverk gjelder rett til deltagelse i 600 timer gratis opplæring i norsk og samfunnskunnskap i tre år, og i fem år for deltagere som har behov for ytterligere opplæring. Tall fra IMDi for perioden våren 2014 til og med 30. juni 2018 viser at gjennomsnittlig antall timer i norskopplæring, for alle deltagere i den aktuelle perioden, er om lag 1 100 timer. Kommunene bruker i snitt mer enn minimumsgrensen på 600 timer, men samtidig tilbys spor 1- deltagere (lite eller ingen skolebakgrunn) langt mindre enn maksimumsgrensen på til sammen 3 000 timer. Tallene fra IMDi viser at de i snitt får 1479 timer, mens spor 2 deltagere (noe skolebakgrunn) i snitt får 1110 timer. Spor 3 deltagere (god allmennutdanning) får i underkant av 850 timer, mens de som ikke er registrert på spor får i overkant av 850 timers opplæring.
+
+På bakgrunn av disse tallene deler ikke departementet høringsinstansenes bekymring om at forslaget vil innebære en innskjerping fra i dag for deltagere med kun grunnskole eller lite/ingen utdanning.
+
+Det at godkjente permisjoner foreslås lagt til den ytre rammen på tre år, se under, innebærer at en stor andel av deltagerne i denne gruppen vil ha tilnærmet like lang tid som i dag på å nå sitt norskmål. I tillegg mener departementet at utvikling av et opplæringstilbud som er individuelt tilpasset og som har tilstrekkelig intensitet, vil legge til rette for at deltagerne i gruppen med lite eller ingen utdanning kan nå sitt norskmål innen fristen.
+
+Mange høringsinstanser er også skeptiske til forslaget om at rett og plikt til norskopplæring opphører etter 18 måneder for deltagere med minimum utdanning på videregående nivå fra før. Bakgrunnen for dette forslaget er at denne gruppen skal ut i arbeid eller høyere utdanning raskt og vil både ha behov for og forutsetninger for å lære seg norsk raskt.
+
+I høringen var flere instanser skeptiske til hvilken innvirkning foreslått varighet for introduksjonsprogram og tilhørende stønad for deltagere med minimum videregående opplæring fra før kunne ha på norskopplæringen. Som det fremgår av punkt 8.5.4.3 over, foreslår departementet at introduksjonsprogramtiden for denne gruppen kan forlenges med seks måneder, hvis det er realistisk at deltageren kan oppnå sitt sluttmål med en forlengelse. Dette innebærer at deltagere i denne gruppen kan motta introduksjonsstønad i inntil 12 måneder dersom programtiden forlenges.
+
+Videre har departementet sett behov for å tydeliggjøre definisjonen av *minimum utdanning på videregående nivå fra før*. I punkt 8.5.4.3 presiseres det at det med dette menes utdanning som kan gi generell studiekompetanse i Norge ifølge GSU-listen (Generell studiekompetanse for utenlandske søkere).
+
+De deltagerne som nå inngår i gruppen med minimum utdanning på videregående nivå fra før bør, med et tilpasset og fleksibelt norskopplæringstilbud, ha mulighet til å oppnå sitt norskmål innen 18 måneder. Departementet påpeker at det er viktig å se utvikling av fleksible tilbud og digitalisering i sammenheng, for eksempel i form av opplæring på kveld og i helger ved hjelp av nettbaserte ressurser. På dette grunnlag opprettholdes forslaget om at opplæringen opphører etter 18 måneder for deltagere med minimum utdanning på videregående nivå fra før, se forslag til § 32 første ledd andre punktum.
+
+Departementet foreslår som nevnt at den ytre rammen for opplæringen kan utvides med godkjente permisjoner. Dette er en endring sammenlignet med gjeldende rett. Forslaget har fått bred støtte i høringen. Bakgrunnen for forslaget er Likestillings- og diskrimineringsombudets behandling av sak 12/2423 hvor ombudet tok stilling til om dagens absolutte frister for å gjennomføre norskopplæring innen tre og fem år er kjønnsdiskriminerende. Ombudet mente at introduksjonsloven § 18 andre ledd hadde en kjønnsskjev effekt da vesentlig flere kvinner enn menn tok lengre foreldrepermisjon og risikerte å ikke fullføre norskopplæringen innen fem år. Forskjellsbehandlingen hadde heller ikke saklig formål ettersom en absolutt frist som ikke tok høyde for kvinners fravær på grunn av fødsels- og foreldrepermisjon kunne bidra til å svekke minoritetskvinners tilgang til arbeidsmarkedet. Det ble vist til at både FNs kvinnekomité og FNs rasediskrimineringskomité har uttrykt bekymring for minoritetskvinners tilgang til arbeidsmarkedet og frafall fra introduksjonsprogrammet. Departementet ser at dagens ordning kan virke diskriminerende, spesielt overfor kvinner i fødselspermisjon.
+
+Departementet foreslår derfor å endre den absolutte fristen for å gjennomføre opplæring i norsk og samfunnskunnskap, slik at godkjent permisjon blir lagt til.
+
+Forslaget om å utvide opplæringens varighet med godkjente permisjoner innebærer at regelverket for opplæring i norsk og samfunnskunnskap blir likt med regelverket for introduksjonsprogrammet.
+
+Videre opprettholder departementet forslaget om at retten til gratis opplæring løper fra innvilgelse av oppholdstillatelsen som nevnt i § 28 første ledd, jf. punkt 10.1.4.2. Etter dagens regelverk gjelder retten til deltagelse i gratis norskopplæring som hovedregel fra tidspunktet for innvilgelse av førstegangs oppholdstillatelse i Norge, selv om førstegangstillatelsen ikke ga rett til opplæring. Dette fører til at en person som endrer oppholdstillatelse får kortere frist for gjennomføring av gratis opplæring enn den som får rett og plikt til deltagelse med en gang. Denne situasjonen vil ikke oppstå med den foreslåtte endringen.
+
+Deltagere med rett og plikt til opplæring i norsk og samfunnskunnskap vil ha rett til å nå et minimumsnivå i norsk, jf. forslag til § 32, oppad begrenset til tre år. Kompetanse Norge har gitt innspill om at det bør stilles krav overfor vertskommuner for asylmottak når det gjelder tilbud, omfang og kvalitet på opplæring i norsk for beboere i mottak med rett og plikt til opplæring etter innvilget oppholdstillatelse, for å motvirke lang ventetid.
+
+Departementet vurderer at det ikke er hensiktsmessig å sette særskilte krav til vertskommunen, da retten til opplæring i norsk og samfunnskunnskap for beboere i mottak som har fått innvilget oppholdstillatelse er den samme som for øvrige deltagere som er bosatt i en kommune. Vertskommuner for mottak får altså de samme pliktene som bosettingskommunen når det gjelder opplæring i norsk og samfunnskunnskap for personer i målgruppen etter lovens kapittel 6.
+
+En del av høringsinstansene har etterlyst en omtale av hvilke konsekvenser det får for den enkelte å ikke nå sitt norskmål innenfor den foreslåtte ytre rammen for norskopplæringen. Departementet foreslår ingen sanksjoner hvis norskmålet ikke nås innen fristen. Å ikke bestå norskprøve eller unnlatelse av å gå opp til prøve medfører ingen sanksjoner etter gjeldende rett og departementet foreslår heller ingen endringer på dette punkt. Å nå norskmålet og bestå prøve er imidlertid viktig for den enkelte av andre grunner, se punkt 10.3.4. over.
+
+Kommunen og fylkekommunen skal sørge for opplæring slik at deltageren realistisk kan oppnå minimumsnivået i norsk. Omfanget av opplæringen i kommunen skal fremgå av deltagerens norskplan, se punkt 10.6.4 nedenfor. Det vil dermed være opp til kommunen å eventuelt tydeliggjøre hvor mange timer deltageren minimum skal få tilbud om per uke. Kommunens plikt til å gi tilbud om norskopplæring gjelder under forutsetning av at den enkelte deltar aktivt i opplæringen. Kommunen kan ellers stanse norskopplæringen, se punkt 10.8.4.
+
+Departementet foreslår å videreføre dagens timeangivelse på 300 timer for deltagere som kun har plikt til å delta i opplæring, se forslag til § 32 andre ledd. Det foreslås likevel at plikten opphører når deltageren oppnår nivå B1 på alle delferdigheter, se punkt 10.3.4 ovenfor. Etter dette vil plikten enten opphøre ved oppnådd nivå B1 på alle delferdigheter eller ved 300 gjennomførte timer opplæring. Høringsinstansene som har uttalt seg om dette gir sin støtte til forslaget.
+
+## Krav til opplæring i samfunnskunnskap
+
+### Gjeldende rett
+
+Deltagere i opplæringen i norsk og samfunnskunnskap skal ha 50 timer samfunnskunnskap på et språk deltageren forstår.
+
+Opplæringen i samfunnskunnskap, skal beskrive og forklare viktige trekk ved det norske samfunnet. Opplæringen skal gi deltageren informasjon om rettigheter, plikter, muligheter og formidle kjennskap til sentrale verdier. Opplæringen i samfunnskunnskap bør starte så tidlig som mulig, slik at innvandrere raskt etter ankomst til Norge får kunnskap om det norske samfunnet. At opplæringen skal gis på et språk innvandreren forstår, innebærer ikke nødvendigvis at opplæringen skal være på morsmålet.
+
+Det nærmere innholdet i opplæringen er regulert i læreplanen for opplæring i norsk og samfunnskunnskap for voksne innvandrere.
+
+### Forslaget i høringsnotatet
+
+Departementet foreslo å videreføre dagens ordning med opplæring i samfunnskunnskap, men ga uttrykk for at det vurderes å gjøre endringer i opplæringen.
+
+Departementet ba om høringsinstansenes innspill på om opplæringen og prøven i samfunnskunnskap bør gjennomføres innen en gitt frist, for eksempel innen seks måneder etter oppstart av kvalifisering.
+
+### Høringsinstansenes syn
+
+I underkant av 70 høringsinstanser har uttalt seg om forslaget om videreføring av dagens ordning med opplæring i samfunnskunnskap og gitt innspill om hvorvidt opplæringen bør gjennomføres innen en gitt frist. Fem høringsinstanser har uttalt seg om forslaget om å videreføre dagens ordning med opplæring i samfunnskunnskap, og alle uttrykker at de er positive til å videreføre dagens ordning med opplæring. Dette gjelder *Askøy kommune*, *Bærum kommune*, *Hå kommune*, *Kompetanse Norge* og *Kontaktutvalet for innvandrarar og flyktningar i Stord kommune. Kontaktutvalet for innvandrarar og flyktningar i Stord kommune* påpeker at det er viktig å sikre at deltagere tidlig får kunnskap om det norske samfunn. *Kompetanse Norge* uttaler:
+
+Kompetanse Norge støtter forslaget om en videreføring av dagens ordning med opplæring i samfunnskunnskap, og er positive til at det vurderes endringer i opplæringen i forbindelse med utviklingen av standardiserte elementer.
+
+Det er primært departementets ønske om innspill til å sette en frist for gjennomføring av opplæringen og prøve, høringsinstansene har uttalt seg om. Enkelte instanser støtter forslaget om en frist på seks måneder for gjennomføring av opplæring og prøve. Dette gjelder *Nye Ålesund kommune, Sola kommune* og *Tromsø kommune*. *Tromsø kommune* uttrykker seg slik:
+
+Tromsø kommune støtter i utgangspunktet forslaget om en frist til å gjennomføre samfunnskunnskapsprøven innen seks måneder. Det vil imidlertid være enkelte språkgrupper hvor det er meget få deltakere, samt få morsmålsstøtter/tolker, hvor det vil bli både ressurs- og kostnadskrevende å gjennomføre. Videre er det foreslått å endre/sette ned antall prøvesteder, noe som også kan påvirke muligheten til å gjennomføre prøven innen foreslått frist. Dersom Tromsø skulle være ett av de nasjonale prøvestedene, vil dette ikke være en problemstilling.
+
+Flertallet av høringsinstansene er negative til at det settes en frist for å gjennomføre opplæring og prøve i samfunnskunnskap, blant annet *Bærum kommune, Drammen kommune, Innvandrertjenesten i Oppdal kommune, Karmøy voksenopplæringssenter, Kommunesektorens organisasjon (KS), Melhus kommune* og *NAV Luster Flyktningteneste og vaksenopplæring. NAV Luster Flyktningteneste og vaksenopplæring* skriver at det vil skape store utfordringer for distriktskommunene på bakgrunn av at opplæringen skal være på et språk som deltageren forstår, fordi det ikke er høy tilgang på kvalifiserte språkhjelpere, og kjøp av slike kurs eksternt har høye kostnader. *Drammen kommune* advarer sterkt mot en annen frist enn «innen 3 år etter første oppholdstillatelse, som gir status rett og plikt eller plikt», da dette vil resultere i enten ekstremt dårlig og dyrt tilbud eller manglende tilbud. Kommunen påpeker at det ikke er forsvarlig hverken pedagogisk eller kostnadsmessig å starte kurs med en eller to deltagere, noe som vil være nødvendig ved forkortet frist.
+
+*KS* uttaler:
+
+Sammen med de andre reglene som er foreslått, som eksempelvis tidlig kvalifisering og nye obligatoriske emner i introduksjonsprogrammet, vil en slik regel \[frist for gjennomføring av opplæring\] ytterligere bidra til å redusere kommunenes handlingsrom og mulighet til å organisere tjenesten på en hensiktsmessig måte innenfor egne rammer.
+
+*Melhus kommune* og *Innvandrertjenesten i Oppdal kommune* mener at dette bør vurderes individuelt og at det bør være frihet for den enkelte kommune å legge opp dette slik det passer. *Melhus kommune* synes formuleringen «så snart som mulig» i dagens lov er bedre, mens *Innvandrertjenesten i Oppdal kommune* foreslår at det kan være en frist for å komme i gang med opplæring i samfunnskunnskap.
+
+Flere høringsinstanser er positive til at opplæringen bør komme tidlig, men er imot at det settes en frist. Begrunnelsen er blant annet at det er lite fleksibelt og at det kan være utfordrende å samle nok deltagere og lærere i en språkgruppe før kurset må holdes. Høringsinstansene trekker også frem at deltagerne får større utbytte av opplæringen etter å ha bodd i landet i noen måneder. Blant annet mener *Integrerings- og mangfoldsdirektoratet (IMDi*) at det bør gis en anbefaling om å gi opplæringen tidlig, men ikke at dette blir et krav. Noen høringsinstanser er positive til at det settes en frist for når opplæring og prøve i samfunnskunnskap skal gjennomføres, men at fristen ikke bør være kortere enn ett år blant annet grunnet praktiske gjennomføringshensyn. Dette gjelder *Faglig forum for kommunalt flyktningarbeid (ffkf), Flyktningtjenesten og voksenopplæringen i Levanger kommune, Folkeuniversitetet Asker Norsk, Kvinesdal kommune, Nordre land kommune, Sola kommune* og *Tønsberg Læringssenter.* *ffkf* uttaler:
+
+ffkf støtter ikke forslaget til en frist på seks måneder for gjennomføring av opplæring og prøve i samfunnskunnskap. (…) Dersom det skal settes en frist for gjennomføring, bør ikke denne være kortere enn 1 år. Det kan likevel fortsatt anmodes om at opplæringen skal starte så tidlig som mulig. Enkelte av våre medlemskommuner har forøvrig stilt spørsmål ved om det medfølger sanksjoner, overfor deltager eller kommunen, dersom prøven ikke gjennomføres innen frist.
+
+### Departementets vurdering
+
+Departementet opprettholder forslaget om å videreføre ordningen med opplæring i samfunnskunnskap, se forslag til § 33, men har foretatt enkelte justeringer med utgangspunkt i rapporten *Undersøkelse av informasjons- og opplæringstilbud for nyankomne innvandrere* (Proba-rapport nr. 2019-15), utarbeidet på oppdrag for Kompetanse Norge.
+
+Proba-rapport 2009-15 viser at det er høy grad av tematisk overlapp mellom opplæring i norsk kultur og norske verdier i mottak og opplæring i samfunnskunnskap. Videre viser den at opplæringen i norsk kultur og norske verdier oppfattes som organisatorisk utfordrende på grunn av manglende tilgang til tospråklige lærere, og fordi deltagergruppen endrer seg raskt. Departementet foreslår derfor at opplæringen i norsk kultur og norske verdier innlemmes i læreplanen i samfunnskunnskap etter integreringsloven. Departementet vil utrede hva som skal være det eksakte timeomfanget for opplæringen. Utredningen vil gjøres i forbindelse med revisjon av læreplanen etter integreringsloven. Departementet foreslår at det nye faget gis navnet *samfunnskunnskap*.
+
+Utviklingen av den nye opplæringen i samfunnskunnskap vil innebære at opplæringen i norsk kultur og norske verdier opphører som eget tilbud når revidert læreplan implementeres august 2021. Det eksisterende kursmateriellet som er utarbeidet til opplæringen i norsk kultur og norske verdier vil kunne tilpasses og benyttes inn i den nye opplæringen.
+
+Departementet foreslår at målgruppen for den nye opplæringen i samfunnskunnskap både skal være de som omfattes av rett og plikt til deltagelse i opplæring i norsk og samfunnskunnskap, og de som omfattes av plikt til deltagelse i opplæring for asylsøkere i mottak, se punktene 10.1.4 og 7.1.4.
+
+Departementet foreslår at denne opplæringen deles inn i avsluttende moduler. På denne måten kan opplæringen begynne i mottak og fortsette etter bosetting i en kommune. Departementet vil utrede hvilket omfang opplæringen skal ha, og hvilke moduler som skal være obligatorisk for hvem. Omfanget av opplæringen vil bli regulert i forskrift.
+
+Departementet vurderer ikke at det er behov for justering når det gjelder forholdet mellom kulturorienteringsprogrammet, UDIs informasjonsprogram og opplæring i samfunnskunnskap og opplæring i norsk kultur og norske verdier.
+
+Når det gjelder spørsmålet om opplæringen og prøven i samfunnskunnskap bør gjennomføres innen en gitt frist, ser departementet at en kort frist kan gjøre gjennomføring av opplæringen lite fleksibel og at det kan være utfordrende å samle nok deltagere og lærere i en språkgruppe før kurset må holdes. Departementet har også merket seg at flere høringsinstanser er positive til en frist så fremt den ikke blir satt for tidlig. På bakgrunn av Proba-rapport 2019-15 har Kompetanse Norge foretatt en ny vurdering av spørsmålet om frist for gjennomføring av opplæringen i samfunnskunnskap, og anbefaler at fristen settes til ett år.
+
+Departementet erkjenner at en frist for gjennomføring av opplæring kan gi kommunen noen utfordringer, men departementet er likevel av den oppfatning at frist for gjennomføring av opplæringen vil være den beste måten å sørge for at opplæringen i samfunnskunnskap kommer tidlig i kvalifiseringsløpet. Departementet foreslår derfor at det settes en frist for gjennomføring av opplæring i samfunnskunnskap på ett år fra tidspunktet man omfattes av rett og plikt til opplæring i samfunnskunnskap. Enkelte høringsinstanser er opptatt av eventuelle konsekvenser av å oversitte denne fristen. Departementet bemerker at hvorvidt fristen overholdes eller ikke kan bli et tilsynstema.
+
+Fylkeskommunen vil i hovedsak følge læreplaner etter opplæringsloven for deltagere som går fulltid i videregående opplæring. Det kan også variere mellom ulike utdanningsprogram på hvilket år samfunnskunnskap inngår. På dette grunnlaget foreslår departementet at kravene som er foreslått i § 33 første ledd ikke gjelder når fylkeskommunen har ansvar for opplæringen etter § 30 andre ledd, se forslag til § 33 andre ledd.
+
+## Norskplan
+
+### Gjeldende rett
+
+Det følger av introduksjonsloven § 19 at det skal utarbeides en individuell plan for deltagere i opplæringen i norsk og samfunnskunnskap. Den individuelle planen skal utarbeides etter de samme prinsippene som den individuelle planen for deltagere i introduksjonsprogrammet, jf. § 6.
+
+Det følger av § 6 sjette ledd at de individuelle planene for deltagelse i henholdsvis introduksjonsprogrammet og opplæringen i norsk og samfunnskunnskap skal ses i sammenheng.
+
+Det fremgår ikke av §§ 6 eller 19 når den individuelle planen skal utarbeides. Det følger imidlertid av § 18 at kommunen skal sørge for tilbud om opplæring i norsk og samfunnskunnskap så snart som mulig og innen tre måneder etter folkeregistrering i kommunen eller at krav om deltagelse blir fremsatt. Den individuelle planen er en forutsetning for at kommunen kan legge opp et opplæringsløp.
+
+### Forslaget i høringsnotatet
+
+Departementet foreslo å videreføre dagens krav om at det skal utarbeides en individuell plan for deltagere i norsk og samfunnskunnskap og at den individuelle planen for norsk og samfunnskunnskap utarbeides og vurderes etter de samme kriteriene som den individuelle planen i introduksjonsprogrammet.
+
+Det ble videre foreslått at det skal utarbeides en samlet individuell plan for opplæringen i norsk og samfunnskunnskap og deltagelse i introduksjonsprogrammet for deltagere som deltar i introduksjonsprogrammet.
+
+For deltagere som bare deltar i norsk og samfunnskunnskap ble det foreslått at deltagerne skal ha en plan i norsk og samfunnskunnskap som minst inneholder deltagerens norskmål, og en angivelse av omfanget av opplæringen i norsk og samfunnskunnskap som deltageren skal gjennomføre og kommunen skal tilby for at deltageren kan nå sitt norskmål. Planen skal også angi deltagerens klagemuligheter.
+
+Departementet foreslo ikke at kravet om å utarbeide individuell plan for deltagere i norskopplæringen skal gjelde der fylkeskommunen har ansvar for opplæringen. Kommunen og deltageren skal likevel utarbeide en individuell plan for introduksjonsprogram hvor det fremgår at deltageren går i videregående opplæring, men trenger ikke en individuell plan som angir omfanget av norskopplæring.
+
+Departementet foreslo også å videreføre dagens krav om at planen skal utarbeides i samarbeid med deltageren på bakgrunn av en kartlegging av vedkommendes opplæringsbehov og av hvilke elementer vedkommende kan nyttiggjøre seg for å nå sitt norskmål. Planen skal bygge videre på elementer som vedkommende har gjennomført før bosetting i kommunen. Planen skal angi omfanget av opplæringen. Dette vil si at den individuelle planen skal inneholde en timeplan.
+
+I høringsnotatet ble det bedt om innspill til om individuell plan bør endre navn.
+
+### Høringsinstansenes syn
+
+Ingen høringsinstanser uttalte seg kun om individuell plan for opplæring i norsk og samfunnskunnskap. Se punkt 8.7.3 for høringsinstansenes syn på individuell plan i introduksjonsprogrammet.
+
+### Departementets vurdering
+
+Departementet opprettholder forslaget fra høringsnotatet om å videreføre dagens krav om at det skal utarbeides en individuell plan for deltagere i norsk og samfunnskunnskap, se forslag til § 34. Det foreslås at den individuelle planen for opplæringen i norsk og samfunnskunnskap skal utarbeides og vurderes etter de samme kriteriene som den individuelle planen i introduksjonsprogrammet. Det er redegjort for disse kriteriene i punkt 8.7.4.1 over.
+
+Som tidligere nevnt i punkt 8.7.4.1 foreslås det at det skal utarbeides en samlet individuell plan for opplæringen i norsk og samfunnskunnskap og deltagelse i introduksjonsprogrammet for deltagere som deltar i introduksjonsprogrammet. Som gjort rede for der foreslår departementet at denne planen etter integreringsloven kalles integreringsplan. Departementet foreslår også å endre begrep på individuell plan for opplæring i norsk og samfunnskunnskap til norskplan.
+
+Deltagere som bare deltar i opplæring i norsk og samfunnskunnskap skal ha en norskplan som minst inneholder deltagerens norskmål etter § 31. Norskplanen skal angi omfanget for opplæringen som deltageren skal gjennomføre og kommunen skal tilby. Omfanget skal være tilstrekkelig til at deltageren kan nå sitt norskmål. Planen skal også angi deltagerens klagemuligheter. Endring av deltagerens norskmål vil være en vesentlig endring av innholdet i norskplanen og utgjøre et enkeltvedtak som kan påklages.
+
+Departementet opprettholder forslaget om at kravet om å utarbeide norskplan ikke gjelder der fylkeskommunen har ansvar for opplæring i norsk og samfunnskunnskap. For personer i denne gruppen som deltar i introduksjonsprogram, skal kommunen og deltageren likevel utarbeide en integreringsplan, jf. § 15, hvor det fremgår at deltageren går i videregående opplæring, men det er ikke behov for å angi omfanget av norskopplæring.
+
+Bakgrunnen for dette er at opplæringen gis i tilknytning til opplæring etter opplæringsloven, og at fylkeskommunen derfor ikke skal måtte forholde seg til andre planer enn de som gjelder for organiseringen av det ordinære tilbudet. Dette innebærer at opplæringen i norsk og samfunnskunnskap skal ivaretas gjennom læreplanene etter opplæringsloven, se punkt 3.2. ovenfor.
+
+Departementet mener det er viktig at den enkelte gis mulighet og ansvar for å planlegge sin egen opplæring. Departementet foreslår å videreføre dagens krav om at norskplanen skal utarbeides i samarbeid med deltageren på bakgrunn av en kartlegging av vedkommendes opplæringsbehov og av hvilke elementer vedkommende kan nyttiggjøre seg for å nå sitt norskmål. Planen skal bygge videre på elementer som vedkommende har gjennomført før bosetting i kommunen. Dette er nærmere omtalt i punkt 8.7.4.1 over. Deltagerens norskmål skal ta utgangspunkt i de veiledende nivåene, se punkt 10.3.4.1. Kommunens og deltagerens påvirkning på nivået ved utarbeidelse av deltagerens norskmål er derfor begrenset, men deltageren og kommunen skal sammen legge opp et opplæringsløp som gjør det mulig for deltageren å nå sitt norskmål. Det er viktig at kommunen sørger for at deltageren får relevant informasjon slik at vedkommende forstår betydningen og konsekvensene av at vedkommende forventes å nå sitt norskmål. Kommunen må vurdere om det er nødvendig å bruke tolk ved utarbeidelse og inngåelse av planen.
+
+Norskplanen bør også angi hvem som er ansvarlig for å gi opplæringen og hvordan tilbudet skal gis, for eksempel om opplæringen gjennomføres i den kommunale norskopplæringen, i grunnskole/FVO eller på annen måte. Planen skal angi omfanget av opplæringen. Dette vil si at norskplanen skal inneholde en timeplan. Hvis deltageren er borte fra en planlagt time anses dette som fravær, se punkt 10.7.4. Det foreslås at planen skal vurderes jevnlig og ved vesentlige endringer i den enkeltes livssituasjon. Det kan derfor være hensiktsmessig at planen angir en timeplan som dekker noen måneder frem i tid. Det er viktig at det ikke oppstår opphold mellom timeplanene som forsinker opplæringen.
+
+Omfanget av opplæringen skal tilpasses den enkelte deltager. Deltagere som kan ha rask progresjon og deltagere med lærevansker, skal få et tilbud som ivaretar dette. Dette innebærer ikke et krav om at kommunen skal skreddersy opplæringstilbudet til hver enkelt deltager. Opplæringen kan organiseres i grupper som ivaretar interessene til flere deltagere.
+
+## Fravær og permisjoner
+
+### Gjeldende rett
+
+Reglene om fravær og permisjoner fra opplæring i norsk og samfunnskunnskap er regulert i forskrift av 20. april 2005 om norskopplæring mv. for innvandrere.
+
+Deltagere med rett og plikt til deltagelse i norsk og samfunnskunnskap kan ha kortvarig fravær og fortsatt beholde sin rett til det totale timetallet på 600 timer gratis opplæring innenfor rammen på tre år. Kortvarig fravær er fravær som ikke overstiger 10 prosent av det totale timetallet på 600 timer i løpet av tre år, altså 60 timer, jf. forskriften § 6.
+
+Har deltageren fravær utover ti prosent av det totale timetallet på 600 timer opplæring i løpet av tre år, mister vedkommende retten til å ta timene igjen gratis innenfor fristen på tre år, jf. forskriften § 8. Dette gjelder ikke hvis deltageren kan dokumentere fraværet med legeerklæring, jf. forskriften § 7. Kommunen kan kreve betaling for timene deltageren må ta igjen som følge av langvarig fravær som ikke er dokumentert. Deltagere som kan dokumentere fravær utover 600 timer med legeerklæring, har rett til å ta timene igjen gratis innen fem år, jf. forskriften § 9 første ledd.
+
+Kommunen kan vedta å stanse programmet hvis deltageren har omfattende fravær, jf. forskriften § 8 fjerde ledd. Med omfattende fravær menes fravær som er hyppig, som er vesentlig lenger enn ti prosent av det totale timetallet på 600 timer, og som ikke er dokumentert med legeerklæring eller på annen måte varslet til kommunen. Deltager kan fratas rett til opplæring enten midlertidig eller permanent. Dersom rett til opplæring fratas midlertidig, skal deltager få et nytt tilbud om opplæring innen tre måneder, og en mulighet til å fullføre timene som gjenstår for å gjennomføre 600 timer opplæring innenfor fristen på tre år.
+
+Deltagere med plikt til 300 timer opplæring, betaler for denne opplæringen selv og må gjennomføre 300 timer opplæring uavhengig av fravær.
+
+Kommunen plikter å tilrettelegge opplæringen for den enkelte når det oppstår et forhold som gjør at deltager ikke kan følge opplæringstilbudet. Det er bare i tilfeller der individuell tilpasning ikke er mulig, at permisjon kan innvilges. Permisjonstiden legges ikke til fristen for å gjennomføre gratis opplæring på tre og fem år, jf. forskriften § 10 tredje ledd.
+
+Kommunen kan innvilge permisjon i inntil ti virkedager i året når det foreligger viktige velferdsgrunner, jf. forskriften § 11. Det kan også innvilges permisjon for egen eller barns sykdom, jf. forskriften § 12 og for permisjon ved fødsel eller adopsjon, jf. forskriften § 13. Kommunen skal tilby oppfølging og opplæring til deltagere i opplæring i norsk og samfunnskunnskap fra og med fjerde permisjonsmåned.
+
+Det er opp til kommunen å avtale med deltageren hva som skal være innholdet og kontinuiteten i oppfølgingen. Oppfølgingen kan for eksempel være at læreren på voksenopplæringen jevnlig tar kontakt med deltageren, eller at det avtales at deltageren tar kontakt ved behov.
+
+### Forslaget i høringsnotatet
+
+Departementet foreslo en egen bestemmelse om fravær og permisjoner fra deltagelse i opplæringen i norsk og samfunnskunnskap, og at permisjonstiden legges til den ytre rammen for å gjennomføre opplæringen.
+
+Videre ble det foreslått at deltageren mister retten til videre opplæring ved omfattende ugyldig fravær. Med ugyldig fravær siktes det til fravær som ikke kan dokumenteres med legeerklæring eller innvilget permisjon. Forslaget er ikke ment som en realitetsendring, men skal synliggjøre reglene om fravær og permisjoner i loven. Departementet foreslo at de nærmere reglene for når det kan innvilges permisjon og hvilke regler som gjelder for fravær, skal reguleres i forskrift slik som i dag.
+
+### Høringsinstansenes syn
+
+Det er kun fire høringsinstanser som har uttalt seg om departementets forslag om fravær og permisjoner fra deltagelse i opplæring i norsk og samfunnskunnskap, samt forslaget om at deltageren kan miste retten til opplæring. Dette er *Arbeids- og velferdsdirektoratet (AVdir)*, *Kristiansand kommune*, *Oslo voksenopplæring* og *Troms fylkeskommune*. Tre av instansene uttaler spesifikt at de støtter at permisjonstiden legges til maksgrensen for opplæring i norsk og samfunnskunnskap på 18 måneder og tre år. *AVdir* og *Troms fylkeskommune* uttrykker at det at den ytre rammen for opplæring kan utvides med godkjente permisjoner, er hensiktsmessig i et likestillingsperspektiv. *Troms fylkeskommune* skriver:
+
+Vi stiller oss positive til at den ytre rammen for opplæringen kan utvides med godkjente permisjoner. Dette styrker minoritetskvinners muligheter til både utdanning og arbeid.
+
+Det har også kommet høringsinnspill om permisjoner fra deltagelse i opplæring i norsk og samfunnskunnskap under departementets forslag til norskmål jf. punkt 10.3.3 og departementets forslag om varighet og omfang for opplæringen jf. punkt 10.4.3. Samtlige høringsuttalelser har gitt støtte til at permisjonstiden legges til den ytre rammen for å gjennomføre opplæringen.
+
+*Kristiansand kommune* uttaler seg ikke om permisjoner, men gir sin støtte til departementets presisering om at deltagere kan miste retten til videre opplæring ved omfattende fravær.
+
+### Departementets vurdering
+
+Departementet foreslår å opprettholde forslaget om en egen bestemmelse om fravær og permisjoner fra deltagelse i opplæringen i norsk og samfunnskunnskap og at de nærmere reglene for når det kan innvilges permisjon og hvilke regler som gjelder for fravær skal reguleres i forskrift slik som i dag, se forslag til § 35. Det er ingen høringsinstanser som har hatt innvendinger mot dette. Departementet foreslår også å opprettholde forslaget om at permisjonstiden legges til den ytre rammen for å gjennomføre opplæring. Sistnevnte forslag er det bred støtte til fra høringen.
+
+Som et resultat av forslaget om at deltageren ikke må gjennomføre et visst antall timer, men oppnå et minimumsnivå i norsk, vil omfanget av undervisningen fremgå av deltagerens norskplan, se punkt 10.6.4. Hva som er omfattende fravær vil måtte vurderes opp mot omfanget av opplæringen som fremgår av deltagerens norskplan.
+
+## Stans av opplæringen
+
+### Gjeldende rett
+
+Kommunen kan stanse opplæringen midlertidig eller permanent for den enkelte dersom det er saklig begrunnet i den enkeltes forhold, jf. introduksjonsloven § 19 fjerde ledd. Det følger av rundskriv til introduksjonsloven at midlertidig stans av opplæringen kan vare i inntil tre måneder.
+
+Vilkåret om at stansen må være saklig begrunnet i den enkelte deltagers forhold er tilsvarende vilkåret for stans av introduksjonsprogrammet. Se punkt 8.9.1 for en nærmere redegjørelse av vilkåret. Som ved stans av introduksjonsprogrammet kan opplæringen stanses dersom vedkommende har hyppig og vedvarende ugyldig fravær, se punkt 10.7.1 om fravær.
+
+Stans av opplæringen innebærer at deltagerne fratas retten til opplæring i 600 timer. Midlertidig stans endrer ikke vedkommendes rett til 600 timer opplæring og mulighet til ytterligere 2 400 timer opplæring ved behov. Fortsatt gjelder det at retten til gratis opplæring må tas ut i løpet av tre år og all opplæring i løpet av fem år fra det tidspunktet vedkommendes rett og plikt til opplæring inntrådte i henhold til § 17. De som har fått stanset sin opplæring permanent har selv ansvaret for å oppfylle plikten på annen måte. De må eventuelt selv betale for den opplæringen som gjenstår for at de skal oppfylle sin plikt. Deltagere som ikke har oppfylt sin plikt vil blant annet ikke oppfylle kravet til permanent opphold, jf. utlendingsloven § 62, eller til statsborgerskap, jf. statsborgerloven § 8 første ledd andre punktum.
+
+Når kommunen beslutter å stanse opplæringen, er dette et enkeltvedtak og deltageren kan påklage vedtaket til fylkesmannen.
+
+### Forslaget i høringsnotatet
+
+Departementet foreslo å videreføre dagens rettstilstand som gir kommunene mulighet til å stanse opplæringen midlertidig eller permanent dersom det er saklig begrunnet i den enkeltes forhold. Det ble også foreslått å videreføre at kommunen kan stanse opplæringen midlertidig i inntil tre måneder eller permanent, og at en avgjørelse om stans av opplæringen utgjør et enkeltvedtak etter forvaltningsloven.
+
+### Høringsinstansenes syn
+
+To høringsinstanser har uttalt seg om stans av opplæringen i norsk og samfunnskunnskap, herunder *Kristiansand kommune* og *Oslo voksenopplæring*. *Kristiansand kommune* støtter departementets presisering om at deltagere kan miste retten til videre opplæring ved omfattende fravær. *Oslo voksenopplæring* etterlyser retningslinjer for hva som er omfattende fravær, og mener det er uklart om forskriftsbestemmelsene som ikke er nevnt videreføres.
+
+### Departementets vurdering
+
+Departementet opprettholder forslaget om å videreføre dagens rettstilstand som gir kommunene mulighet til å stanse opplæringen midlertidig eller permanent dersom det er saklig begrunnet i den enkeltes forhold, se forslag til § 36. I likhet med forslaget om stans av introduksjonsprogrammet, foreslår departementet justeringer i lovteksten og gir en utdypende omtale av bestemmelsen.
+
+All stans av opplæringen må være saklig begrunnet i den enkeltes forhold. Hva som ligger i saklig begrunnet må vurderes konkret. Det sentrale må være at det er en logisk sammenheng mellom vedtaket om stans og begrunnelsen for det. Departementet foreslår å legge inn noen konkrete eksempler i lovteksten. Opplistingen er ikke uttømmende.
+
+Opplæringen kan blant annet stanses ved omfattende fravær. Hvorvidt fraværet er omfattende må vurderes opp mot hvor lenge vedkommende har vært i opplæringen, progresjonen og hvor hyppig fraværet har forekommet. Det er også av betydning om fraværet har vært ugyldig, ut fra grunnlaget for fraværet, om det er søkt om permisjon og om fraværet hadde gitt rett til permisjon dersom det hadde vært søkt om det.
+
+Opplæringen kan videre stanses ved atferd som kan skade deltagerens eller andres muligheter til å gjennomføre opplæringen. Dette er ikke begrenset til atferd i opplæringssituasjonen.
+
+Ved sykdom bør kommunen først og fremst vurdere permisjon fra opplæringen. Midlertidig eller permanent stans er kun aktuelt dersom sykdommen enten er så alvorlig eller må antas å bli så langvarig at det er usikkert om vedkommende kan gjennomføre opplæringen eller det er usikkert på hvilke tidspunkt det kan skje.
+
+En avgjørelse om stans av opplæringen utgjør et enkeltvedtak etter forvaltningsloven. Dette innebærer at forvaltningslovens regler om blant annet begrunnelse gjelder. Det vil være en fordel om kommunens begrunnelse også omfatter hvorfor det er valgt henholdsvis midlertidig eller permanent stans.
+
+Hvorvidt opplæringen stanses midlertidig eller permanent er opp til kommunen. Det skal mye til for å stanse opplæringen og terskelen er høy. I praksis vil det være situasjonens grovhet og deltagerens situasjon som avgjør om opplæringen stanses midlertidig eller permanent. Midlertidig stans bør ikke vare lenger enn tre måneder og kan for eksempel brukes hvis kommunen ønsker å gi deltageren mulighet til å endre sin atferd eller hvis deltageren har helseutfordringer av midlertidig karakter. Det kan være en fordel å forsøke midlertidig stans før eventuell permanent stans, men det er ikke noe krav. Dersom det ikke er utsikter til bedring kan altså opplæringen stanses permanent med en gang.
+
+Bestemmelsen regulerer ikke ordinær avslutning av opplæringen ved oppnådd norskmål eller ved overgang til arbeid. Stans av opplæringen etter § 36 er i utgangspunktet kun aktuelt der det ikke oppnås enighet mellom kommunen og deltageren og det er kommunen som ønsker å stanse opplæringen.

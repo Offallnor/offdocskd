@@ -1,914 +1,288 @@
-# Prop. 111 L (2020–2021), del 17 av 19 (side 172–182)
+# Prop. 111 L (2020–2021), del 17 av 20
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2021/7aadf575-prop-111-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-111-l-20202021/id2840742/
 - Original-PDF: https://www.regjeringen.no/contentassets/747245434bb04cd5a378c14330f173fa/no/pdfs/prp202020210111000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 172]
-
-170
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Departementet antar at det ikke vil være så
-mange yrkesutøvere som har yrkeskvalifikasjoner
-fra tredjeland som vil søke om yrkesgodkjenning.
-Departementet har i dag ingen fullstendig oversikt over søkere fra tredjeland. I forbindelse med
-en kartlegging av alle godkjenningsordningene
-for lovregulerte yrker som NOKUT gjennomførte
-i 2019, innhentet de statistikk for søknader fra
-tredjeland. Her rapporterte blant annet Utdanningsdirektoratet at de hadde mottatt 526 søknader, Mattilsynet 33 søknader og DSB hadde mottatt 154 søknader i 2018. På den andre siden kan
-det være en risiko for et visst antall ikke-reelle
-søknader. Dette kan være fra søkere som ikke har
-oppholdstillatelse i Norge og som benytter anledningen til å søke om yrkesgodkjenning.
-Krav til bedre begrunnelse av vedtak vil kunne
-få administrative og økonomiske konsekvenser
-for de godkjenningsmyndighetene som i dag ikke
-har praksis for å gi en slik begrunnelse. De økte
-kostnadene vil likevel være små. Samtidig antas
-det at forslaget vil kunne føre til at flere innvandrere vil søke om godkjenning, og den enkelte
-godkjenningsmyndigheten vil da få flere søknader
-som de må behandle. Det varierer mellom de
-ulike godkjenningsmyndighetene om kostnadene
-knyttet til dette dekkes gjennom gebyr for
-behandling av søknad om godkjenning. Det er
-ikke noe i yrkeskvalifikasjonsloven som hindrer
-godkjenningsmyndighetene å ilegge gebyr for
-
-behandling av søknad om godkjenning. Eventuelle økte kostnader kan dekkes inn ved å ilegge
-gebyr.
-Ved at det ikke innføres en plikt for godkjenningsmyndighetene til å opprette utligningstiltak
-som prøveperiode eller egnethetstest, vil dette
-ikke påføre godkjenningsmyndighetene økte
-administrative oppgaver eller kostnader. For dem
-som velger å tilby slike utligningstiltak, vil det til
-en viss grad kunne gi økte kostnader, avhengig av
-hvordan utligningstiltakene gjennomføres og
-hvilke tiltak som tilbys. Departementet gjør oppmerksom på at godkjenningsmyndigheten kan
-kreve et gebyr for å dekke kostnadene de har ved
-for eksempel egnethetsprøve. Utligningstiltak er
-samtidig det som vil gi størst gevinster på lang
-sikt, ved at yrkesutøver gis en mulighet til å vise at
-vedkommende er kvalifisert til å utøve yrket i
-Norge.
-Departementet bemerker at godkjenningsmyndigheter som måtte ha regelverk for behandling av søknader om godkjenning av yrkeskvalifikasjoner fra tredjeland som er i strid med forslagene her, må endre sitt regelverk og sin praksis i
-tråd med de nye reglene.
-Departementet legger etter dette til grunn at
-forslaget ikke vil ha vesentlige økonomiske eller
-administrative konsekvenser for verken godkjenningsmyndigheter eller andre parter.
-
-[Side 173]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-171
-
-8 Merknader til reglene i lovforslaget
-8.1
-
-Endringer i opplæringsloven
-
-Til § 3-4 a
-I første ledd er ordet departementet endret til
-NOKUT, som i dag har denne oppgaven delegert
-fra departementet.
-Andre ledd er en ny bestemmelse og gir rettsgrunnlag for at NOKUT også skal kunne
-behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10. Slike opplysninger kan behandles når NOKUT behandler søknader om godkjenning av utenlandsk fag- og
-yrkesopplæring etter første ledd.
-NOKUT etterspør ikke slike personopplysninger. Imidlertid kan det både i utfylling av søknadsskjemaet og i vedleggene framkomme opplysninger som regnes som særlige kategorier av personopplysninger etter personvernforordningen. Opplysninger om religion, seksuell legning og helse
-er eksempler på opplysninger som kan framkomme av søknaden. Et eksempel er at i vigselsattester som brukes til å bekrefte navneendring er
-det også informasjon om en persons religion, etnisitet eller helse. I slike tilfeller vil disse opplysningene i seg selv ikke være relevante for behandling
-av søknadene, men dokumentet som sådant
-(f.eks. vigselsattest eller utdanningsdokumenter)
-er nødvendig for å sikre at den som leverer søknaden er den samme som har fullført utdanningen.
-Tredje ledd er også en ny bestemmelse. Etter
-denne kan NOKUT benytte automatisert saksbehandling for å fatte vedtak om godkjenning av
-utenlandsk fag- og yrkesopplæring. Automatisert
-saksbehandling innebærer at et datasystem fatter beslutninger som er avgjørende for rettighetene og pliktene til en enkeltperson. Ved automatisert saksbehandling er rettsreglene blitt formalisert og programmert i datasystemet. Rettsanvendelsen skjer gjennom datasystemet og ikke
-ved manuell menneskelig behandling. Avgjørelser som fattes på bakgrunn av utelukkende automatisert saksbehandling, kan bare skje i saker
-der det ikke er behov for skjønnsmessige vurderinger.
-
-Det er videre fastsatt at søkeren kan kreve
-manuell overprøving. En slik rett supplerer den
-alminnelige klageretten etter forvaltningsloven,
-og ivaretar rettighetene og interessene til den
-registrerte. Manuell overprøving innebærer at det
-foretas en manuell kontroll av om datasystemet
-har fattet et korrekt vedtak i henhold til gjeldende
-lover og forskrifter. Det er NOKUT som skal gjennomføre denne kontrollen, ikke klageorganet.
-Ordinær klageadgang følger av forvaltningsloven.
-Fjerde ledd er nytt og gir rettsgrunnlag for at
-NOKUT kan koble seg til portalen for deling av
-vitnemål og dokumentasjon av kompetanse, jf.
-universitets- og høyskoleloven § 4-14. Fødselsnummer, D-nummer og opplysninger om at personen har fått vedtak av NOKUT kan registreres
-automatisk i portalen. Informasjon om selve vedtaket vil bare overføres fra NOKUT og til portalen
-når den som vedtaket gjelder selv bestemmer det.
-Når en person velger å dele vedtaket sitt med for
-eksempel en bedrift eller utdanningsinstitusjon,
-vil portalen bare formidle det vedtaket som vedkommende har bestemt skal deles og bare i den
-perioden vedkommende har bestemt at resultatene skal være tilgjengelig. Se 3.5.1 for nærmere
-beskrivelse av portalen.
-Femte ledd er en videreføring av dagens andre
-ledd og gir departementet mulighet til å fastsette
-forskrift om vilkår for godkjenning, saksbehandling, klage og avgrensing i klageretten.
-
-8.2
-
-Endringer i universitets- og
-høyskoleloven
-
-Til § 1-1
-Bestemmelsens tittel og første ledd første punktum er
-endret. Endringen innebærer at bestemmelsen
-angir formålet med universiteter og høyskoler,
-ikke lovens formål. Bestemmelsen må ses i sammenheng med § 1-3 om institusjonenes oppgaver.
-Bokstav d er ny. Bestemmelsen framhever at
-universiteter og høyskoler er sentrale institusjoner, som gjennom kunnskap og dannelse har et
-ansvar for å bidra til en bærekraftig utvikling.
-
-[Side 174]
-
-172
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Til § 1-2 femte og sjette ledd
-
-Til § 3-4
-
-Femte ledd andre punktum er nytt. Kravet om
-virksomhet i riket i femte ledd første punktum er
-ikke til hinder for at deler av gradsgivende utdanning ved norske institusjoner kan gjennomføres i
-utlandet. Bestemmelsen klargjør at det er en forutsetning at utdanning, tildeling av grader og
-avvikling av eksamen har en tydelig tilknytning
-til virksomheten i Norge. Lovens § 2-6 sjette ledd
-gir adgang til å gi forskrift som presiserer hvilke
-forhold som er avgjørende for om det foreligger
-en tydelig tilknytning til virksomheten i Norge.
-Femte ledd tredje punktum viderefører § 1-2
-sjette ledd, med noen språklige endringer.
-Sjette ledd viderefører dagens § 1-2 femte ledd
-andre og tredje setning.
-
-Første ledd viderefører bestemmelsen i § 3-4 første
-ledd første punktum om at personer som har utenlandsk høyere utdanning, kan søke NOKUT om
-generell godkjenning av utdanningen.
-Vedtaket om generell godkjenning innebærer
-en vurdering av hvilket nivå den aktuelle utdanningen ligger på, og hvilket omfang den har, herunder at den er likestilt med akkreditert norsk
-høyere utdanning, jf. §§ 3-1 og 3-2. I tillegg innebærer det en bekreftelse av utdanningens ekthet
-(verifisering). Ordningen med generell godkjenning er beregnet for søkere som trenger å dokumentere sin kompetanse for å bli ansatt i yrker der
-det ikke er krav om en spesiell yrkesgodkjenning
-eller autorisasjon, men der arbeidsgiver ønsker en
-person med høyere utdanning. Det er bare enkeltpersoner som kan søke om generell godkjenning.
-For institusjoner gjelder akkrediteringsbestemmelsene i § 3-1. I tillegg gjelder bestemmelsene
-hjemlet i § 3-2 om hvilke grader som kan akkrediteres, samt de faglige kravene til omfang, læringsutbytte og selvstendig arbeid i mastergrad mv.,
-som gjelder for dem.
-Vedtak om generell godkjenning bygger på en
-systembasert vurdering av den utenlandske høyere utdanningen, ikke en vurdering av det faglige
-innholdet. Utgangspunktet for vurderingen er
-kunnskap om utdanningssystemet i det aktuelle
-landet og læringsutbyttebeskrivelsene for nivå
-seks til åtte i Nasjonalt kvalifikasjonsrammeverk
-for livslang læring (NKR).
-Ordningen med generell godkjenning av utenlandsk høyere utdanning gjelder i all hovedsak
-dokumenterbare og verifiserbare kvalifikasjoner.
-For flyktninger og personer i en flyktninglignende situasjon som har utenlandsk høyere
-utdanning, men ikke kan få generell godkjenning
-etter vanlig prosedyre på grunn av manglende,
-mangelfull eller ikke-verifiserbar dokumentasjon,
-gjelder «UVD-ordningen» (uten verifiserbar dokumentasjon). For å komme inn under ordningen
-må søkerne i tillegg ha permanent oppholdstillatelse og beherske norsk, svensk, dansk eller
-engelsk. UVD-ordningen er en skreddersydd,
-sakkyndig vurdering hvor søkerens kompetanse
-kartlegges gjennom tester, hjemmeoppgaver og
-faglige diskusjoner. På grunnlag av den sakkyndige rapporten fatter NOKUT et enkeltvedtak om
-generell godkjenning. Ordningen følger opp
-Lisboakonvensjonens artikkel VII om vurdering
-av flyktningers kompetanse.
-Andre ledd er en ny bestemmelse som kodifiserer gjeldende praksis.
-
-Til § 1-3 Universiteter og høyskolers oppgaver
-«Universiteter og høyskolers» erstatter «institusjonenes» og «virksomhet» erstattes av «oppgaver» i bestemmelsens tittel.
-Første ledd første punktum er justert som følge
-av endringen i § 1-1. Siden formålsbestemmelsen
-ikke lenger angir lovens formål, bortfaller institusjonens ansvar for å fremme lovens formål.
-Første ledd bokstav c viderefører § 1-3 første
-ledd bokstav d.
-Første ledd bokstav d viderefører § 1-3 første
-ledd bokstav i, og poengterer at livslang læring
-omfatter både formell og ikke-formell utdanning.
-Første ledd bokstav e viderefører § 1-3 første
-ledd bokstav f.
-Første ledd bokstav f erstatter § 1-3 første ledd
-bokstav g. Når det er relevant, skal universiteter
-og høyskoler bidra til innovasjon og verdiskaping i samfunnet. Dette omfatter ikke bare kommersialisering av produkter og prosesser i et
-marked, men også bidrag til nyskaping og forbedring i vid forstand. Det kan for eksempel være
-innovasjon i offentlig sektor og sosial innovasjon,
-det vil si utvikling av nye løsninger på samfunnsproblemer.
-Første ledd bokstav g erstatter § 1-3 første ledd
-bokstav h. Bestemmelsen trekker fram betydningen av samarbeid med eksterne aktører for å
-styrke både relevans og kvalitet i virksomheten
-ved universiteter og høyskoler. Universiteter og
-høyskoler skal samarbeide bredt med relevante
-aktører, i offentlig, privat og frivillig sektor i innog utland.
-
-[Side 175]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Bestemmelsen fastsetter at NOKUTs vedtak
-om godkjenning av utenlandsk høyere utdanning
-skal være i tråd med Lisboakonvensjonen.
-Lisboakonvensjonens formål er blant annet å
-legge til rette for større akademisk mobilitet mellom landene. Det grunnleggende prinsippet i konvensjonen er at godkjenningsmyndighetene i et
-land skal godkjenne kvalifikasjoner fra høyere
-utdanning fra en annen konvensjonspart som likeverdig med egen utdanning, med mindre de kan
-vise til betydelige forskjeller mellom utdanningene, jf. konvensjonen artikkel V.I. Dette gjelder
-hele spennet og alle nivåer innenfor høyere utdanning, fra godkjenning av utdanning som gir
-grunnlag for opptak til høyere utdanning, til godkjenning av studieperioder og av hele utdanninger, altså både faglig og generell godkjenning.
-Tredje ledd første punktum er en ny bestemmelse om hvem som har rettslig klageinteresse.
-I henhold til forvaltningsloven § 2 første ledd
-bokstav b er NOKUTs vedtak om generell godkjenning av utdanning et enkeltvedtak, siden det
-er bestemmende for personens rettigheter. Det
-betyr at det må være adgang til å klage på vedtaket. Vedtak om generell godkjenning av utenlandsk høyere utdanning kan bare påklages av
-søker. Dette er en begrensning i forhold til den
-normale klageadgangen etter forvaltningsloven.
-Tredje ledd andre punktum viderefører tidligere første ledd andre punktum om klagenemndas vedtakskompetanse. Bestemmelsen begrenser hvilke deler av godkjenningsvedtaket som klageinstansen kan behandle. Klagenemnda som
-Kunnskapsdepartementet har oppnevnt for slike
-saker, kan ikke overprøve NOKUTs vurdering av
-den avlagte utdanningens nivå og omfang.
-For nærmere omtale av første til tredje ledd
-vises det til punkt 2.5.3.4.
-Fjerde ledd er en ny bestemmelse og gir
-NOKUT grunnlag for å behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10. NOKUT kan behandle slike opplysninger ved vurdering av søknader om godkjenning av utenlandsk høyere utdanning etter første
-ledd. NOKUT etterspør ikke slike personopplysninger. Imidlertid kan det både i utfylling av søknadsskjemaet og i vedleggene framkomme opplysninger som regnes som særlige kategorier av
-personopplysninger etter personvernforordningen. Opplysninger om religion, seksuell legning
-og helse er eksempler på opplysninger som kan
-framkomme av søknaden. Ett eksempel er at i vigselsattester som brukes til å bekrefte navneendring, kan det også framkomme informasjon
-om en persons religion, etnisitet eller helse. I slike
-
-173
-
-tilfeller vil disse opplysningene i seg selv ikke
-være relevante for behandlingen av søknadene,
-men dokumentet som sådant – for eksempel vigselsattest eller utdanningsdokumenter – er nødvendig for å sikre at den som leverer søknaden, er
-den samme som har fullført utdanningen.
-Femte ledd er også en ny bestemmelse. Etter
-denne kan NOKUT benytte automatisert saksbehandling for å fatte vedtak om godkjenning av
-utenlandsk utdanning. Automatisert saksbehandling innebærer at et datasystem fatter beslutninger som er avgjørende for rettighetene og pliktene til en enkeltperson. Ved automatisert saksbehandling er rettsreglene blitt formalisert og programmert i datasystemet. Rettsanvendelsen skjer
-gjennom datasystemet og ikke ved manuell
-menneskelig behandling. Avgjørelser som fattes
-på bakgrunn av utelukkende automatisert saksbehandling, kan bare skje i saker der det ikke er
-behov for skjønnsmessige vurderinger. Bestemmelsen gir søkeren rett til å kreve manuell overprøving. En slik rett supplerer den alminnelige
-klageretten etter forvaltningsloven og ivaretar rettighetene og interessene til den registrerte.
-Manuell overprøving innebærer at det foretas en
-manuell kontroll av om datasystemet har fattet et
-korrekt vedtak i henhold til gjeldende lover og forskrifter. Det er NOKUT som skal gjennomføre
-denne kontrollen, ikke klageorganet. Ordinær klageadgang følger av forvaltningsloven med de
-begrensninger som er fastsatt i uhl. § 3-4 tredje
-ledd andre punktum.
-Sjette ledd er en ny bestemmelse og er behandlingsgrunnlag for at NOKUT kan koble seg til portalen for deling av vitnemål og dokumentasjon av
-kompetanse, jf. § 4-14. Fødselsnummer, D-nummer og opplysninger om at personen har fått vedtak av NOKUT, kan registreres automatisk i portalen. Informasjon om selve vedtaket vil bare overføres fra NOKUT og til portalen når den som vedtaket gjelder, selv tar initiativ til det. Når en person velger å dele vedtaket sitt med for eksempel
-en bedrift eller utdanningsinstitusjon, vil portalen
-bare formidle det vedtaket som vedkommende
-har bestemt skal deles, og bare i den perioden
-vedkommende har bestemt at resultatene skal
-være tilgjengelige. Se 3.5.1 for nærmere beskrivelse av portalen.
-Til § 3-5
-Første ledd viderefører bestemmelsen i § 3-5 andre
-ledd første punktum om at institusjonene kan godkjenne (tidligere «gi fritak for») høyere utdanning
-tatt i utlandet.
-
-[Side 176]
-
-174
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Ordningen med faglig godkjenning etter
-denne bestemmelsen er først og fremst beregnet
-på dem som trenger en godkjenning av sin utenlandske høyere utdanning for å ta videre studier i
-Norge. Utdanningsinstitusjonen kan godkjenne
-den utenlandske høyere utdanningen som del av
-egne studier hvis læringsutbyttet i den avlagte
-utdanningen tilsvarer det som er fastsatt for de
-aktuelle emnene ved den aktuelle institusjonen.
-En slik godkjenning gir uttelling i studiepoeng tilsvarende dette faglige nivået.
-Andre ledd er en ny bestemmelse om hva det
-betyr å få utdanningen godkjent. Presiseringen
-har som formål å gjøre lovbestemmelsen og konsekvensene av denne tydeligere for brukerne av
-loven.
-Tredje ledd er en ny bestemmelse om at institusjonene må forholde seg til Lisboakonvensjonen
-ved vurdering av utenlandsk høyere utdanning
-tatt i en stat som har ratifisert konvensjonen.
-Lisboakonvensjonen gir studenter som har tatt
-høyere utdanning i et annet konvensjonsland, en
-sterkere rett til å få faglig godkjenning, fordi
-utdanningsinstitusjonen må vise til at det foreligger «betydelige forskjeller» hvis den ikke godkjenner utdanningen. Det at Norge har ratifisert
-Lisboakonvensjonen, setter krav til hvordan universitetene og høyskolene skal behandle søknader om godkjenning av høyere utdanning fra konvensjonspartnere.
-For nærmere omtale av lovbestemmelsen, se
-punkt 2.5.4.4.
-Til ny § 3-5 a
-Første ledd viderefører bestemmelsen i § 3-5 tredje
-ledd første punktum om faglig jevngodhetsvurdering. Det er bare utdanningsinstitusjoner med
-institusjonsakkreditering som kan foreta slik vurdering.
-Det er i praksis en del personer med høyere
-utdanning fra utlandet som trenger en faglig godkjenning for å kunne få relevant arbeid i Norge.
-For eksempel opplever jobbsøkere ofte kravene
-til godkjenning for ansvarsrett etter plan- og
-bygningsloven, som gjelder for bedrifter, i praksis som en regulering av ingeniør- og arkitektyrkene. Mange norske studenter som tar utdanning i utlandet, kan også oppleve det som en
-trygghet å få en faglig jevngodhetsvurdering.
-Andre ledd viderefører bestemmelsen i § 3-5
-tredje ledd andre punktum.
-En godkjenning etter § 3-5 a første ledd gir rett
-til å bruke den tittelen som er fastsatt for studiet
-det er jevnført med.
-
-For nærmere omtale av lovbestemmelsen, se
-punkt 2.5.4.4.
-Til ny § 3-5 b
-Bestemmelsen viderefører § 3-5 fjerde ledd om at
-flyktninger og andre i en flyktninglignende situasjon som mangler dokumentasjon for utdanningen sin, kan få en faglig vurdering av den. Dette er
-til forskjell fra § 3-4 første ledd, hvor det gis en
-generell godkjenning av slik dokumentasjon.
-Endringen i bestemmelsens ordlyd skal gjøre
-bestemmelsen tydeligere for dem som bruker den,
-og er ikke ment å endre materiell rett. Bestemmelsen er en videreføring av tilsvarende bestemmelse i
-universitets- og høgskoleloven av 1995. Merknaden
-til den bestemmelsen i Ot.prp. nr. 85 (1993–94)
-viser at den var ment å gjelde for flyktninger og
-andre som på grunn av krig eller liknende ikke
-kunne dokumentere sine kvalifikasjoner.
-For nærmere omtale av lovbestemmelsen, se
-punkt 2.5.4.4.
-Til ny § 3-5 c
-Bestemmelsen viderefører § 3-5 sjette ledd om at
-utdanningsinstitusjonene kan ta betalt for å vurdere utenlandske doktorgrader, så sant det ikke
-gjelder søknader på en utlyst stilling ved institusjonen.
-Godkjenning av doktorgrader krever kostbare
-vurderinger, fordi det må nedsettes en sakkyndig
-komité som skal vurdere doktorgradsarbeidet.
-Søkeren skal bare belastes den reelle utgiften ved
-en slik godkjenning, og beregningen av institusjonens kostnader må kunne dokumenteres overfor
-søker. I vurderingen skal det tas hensyn til søkere
-fra lavinntektsgrupper.
-Til ny § 3-5 d
-Bestemmelsen viderefører den delen av § 3-4 første ledd som gjelder akkreditering (tidligere
-«generell godkjenning») av norsk utdanning tatt
-ved institusjoner som er regulert av den tidligere
-privathøyskoleloven og andre tidligere ordninger,
-før universitets- og høyskoleloven av 2005. En
-oversikt over godkjenningene etter privathøyskoleloven ble utarbeidet av departementet i forbindelse med at NOKUT overtok forvaltningen av
-den i 2003, se rundskriv F-004-02. For eldre utdanninger må vedtakene fra Universitetsrådets,
-senere Universitets- og høgskolerådets Nasjonalt
-koordinerende utvalg for godkjenning av eksamener
-konsulteres, det vil si den såkalte NKU-lista. I til-
-
-[Side 177]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-legg kan det være aktuelt å gi avkorting i henhold
-til vedtakene for rammeplaner for helsefaglige og
-maritime utdanninger fra før 1991, da disse utdanningene ble ført inn under kapittel 4 om eksamener og grader i lov om universiteter og vitenskapelige høgskoler av 1989.
-Bestemmelsen presiserer at utdanninger som
-i henhold til tidligere ordninger var akkreditert
-som høyere utdanning, fortsatt er å anse som høyere utdanning. Formålet med bestemmelsen er å
-ivareta rettigheter i arbeidslivet og i høyere utdanning for personer med slik utdanning.
-For nærmere omtale av lovbestemmelsen, se
-punkt 2.5.3.4.
-Til ny § 3-5 e
-Første ledd viderefører bestemmelsen i § 3-5 første
-ledd første punktum om at institusjonene skal
-godkjenne (tidligere «godskrive») utdanning tatt
-ved et annet norsk universitet eller høyskole.
-Hensikten med bestemmelsen er å sikre at
-studenter som flytter mellom institusjoner som tilbyr akkrediterte studier etter universitets- og høyskoleloven, får rett til godkjenning av fag, emner,
-eksamener eller prøver i den nye graden. Denne
-bestemmelsen innebærer at den nye institusjonen
-plikter å godkjenne fullt ut faginnhold i utdanning
-fra andre institusjoner som tilbyr akkrediterte studier etter universitets- og høyskoleloven, så sant
-denne utdanningen oppfyller de faglige kravene
-som er fastsatt for en bestemt eksamen, grad eller
-utdanning ved den nye institusjonen.
-Andre ledd er en ny bestemmelse om hva det
-betyr å få utdanningen godkjent.
-Presiseringen har som formål å gjøre lovbestemmelsen og konsekvensene av den tydeligere
-for brukerne av loven.
-Tredje ledd viderefører bestemmelsen i § 3-5
-første ledd andre punktum om at det ikke skal gis
-dobbel uttelling for samme faginnhold innenfor
-samme grad.
-Institusjonene må unngå at studenten får dobbel uttelling for overlappende fag eller emner.
-Hva som skal anses som dobbel uttelling, må vurderes konkret, både ut fra hvor stor grad av overlapp det er tale om, og hvor sentrale elementer i
-faget eller emnet det er tale om. For studenter
-som ønsker å ta en grad nummer to på samme
-nivå, vises det til forskrift om godskriving av høyere utdanning § 4. Der er det fastsatt at studenten må avlegge minst 60, eller inntil 90, «nye studiepoeng, det vil si studiepoeng som ikke har
-
-175
-
-inngått i den tidligere (godkjente) graden, […]
-før det kan utstedes et nytt vitnemål eller tildeles
-en ny grad.»
-For nærmere omtale av lovbestemmelsen, se
-punkt 2.5.4.4.
-Til ny § 3-5 f
-Første ledd viderefører bestemmelsen i § 3-5 andre
-ledd første og andre punktum om at institusjoner
-kan godkjenne (tidligere «gi fritak for») utdanning
-eller kompetanse tatt utenfor universitets- og høyskolesektoren. Institusjonen har plikt til å foreta
-en faglig vurdering av slike søknader.
-Personer som har tatt utdanning ved en norsk
-institusjon som ikke er regulert av denne loven,
-slik som fagskole, folkehøyskole, voksenopplæring, utdanning tatt ved institusjoner i utlandet
-som ikke er høyere utdanning og således ikke kan
-godkjennes etter § 3-5 eller § 3-5a, eller som har
-dokumentert realkompetanse, kan få dette godkjent som en del av et studium ved et universitet
-eller en høyskole. Forutsetningen er at studenten
-har oppnådd bestemte faglige krav.
-Med realkompetanse menes kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig
-av læringsarena gjennom formell, ikke-formell og
-uformell læring. I arbeidet med godkjenning av
-realkompetanse foreskriver EUs rådsrekommandasjon av 20. desember 2012 om realkompetansevurdering (Council Recommendation of 20 December 2012 on the validation of non-formal and informal learning) fire elementer som bør inngå: a)
-identifisering av læringsutbytte, b) dokumentasjon, c) vurdering og d) sertifisering (godkjenning).
-Andre ledd er en ny bestemmelse om at søknaden om godkjenning skal vurderes opp mot
-læringsutbyttet som er fastsatt for det eller de
-aktuelle emnene. En godkjenning skal være
-basert på institusjonens faglige vurdering.
-For nærmere omtale av lovbestemmelsen, se
-punkt 2.5.4.4.
-Til ny § 3-5 g
-Bestemmelsen viderefører dagens forskriftshjemmel i § 3-5 sjuende ledd. Departementet har i forskrift av 21. desember 2018 nr. 2221 om godskriving og fritak av høyere utdanning gitt nærmere
-regler som supplerer dagens bestemmelser i universitets- og høyskoleloven § 3-5 første og andre
-ledd.
-
-[Side 178]
-
-176
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Til ny § 3-5 h
-Bestemmelsen er ny, og er en videreføring og
-utvidelse av regler i § 3-5 femte ledd og i studiekvalitetsforskriften. Denne paragrafen pålegger
-NOKUT og utdanningsinstitusjonene en plikt til å
-samordne sin praksis om godkjenning av utenlandsk utdanning etter §§ 3-4, 3-5, 3-5 a og 3-5 b,
-og registrere vedtak om slike godkjenninger i et
-felles register. Registeret over vedtak om godkjenning av utenlandske utdanninger (GAUS) er etablert som et verktøy for å dele informasjon om
-godkjenningsvedtak mellom institusjoner og med
-NOKUT, og for å gi saksbehandlere som jobber
-med slike godkjenninger, tilgang til andre institusjoners vedtak. Bestemmelsen gir videre hjemmel
-for departementet til å fastsette forskrift med nærmere regler om registeret.
-For nærmere omtale av lovbestemmelsen, se
-punkt 3.4.5.
-Til § 3-6 tredje ledd
-Det generelle grunnlaget for opptak (generell studiekompetanse) for søkere til grunnutdanninger,
-er fullført og bestått videregående opplæring, jf.
-første ledd. Etter tredje ledd kan utdanningsinstitusjonene i særskilte tilfeller gjøre unntak fra
-bestemmelsen om generell studiekompetanse for
-enkelte søkere (dispensasjon). Endringen innebærer at dispensasjon ikke lenger er begrenset til
-søkere under 25 år. Nærmere reguleringer om
-bruken av dispensasjon er gitt i forskrift 6. januar
-2017 nr. 13 om opptak til høgare utdanning.
-
-noen tilknytning til den aktuelle utdanningen ved
-det studiestedet hvor vurderingen skjer, eller til
-noen kandidater i dette eksamenskullet. Institusjonene har selv ansvar for å sikre at sensoren
-ikke har bindinger til den utdanningen eller de
-kandidatene sensoren skal være med på å vurdere. For eksempel bør sensoren ikke være ansatt
-i hovedstilling eller bistilling ved utdanningen og
-heller ikke ha hatt engasjement som timelærer i
-det aktuelle emnet for eksamenskullet.
-Til § 4-1 første til tredje ledd
-Endringen i første ledd første punktum er språklig
-og ikke ment som en innholdsmessig endring.
-Departementet mener det er overflødig å ha med
-at studentene «ved universiteter og høyskoler»
-kan opprette et studentorgan.
-Andre ledd innebærer at det skal avholdes valg
-til organet som er nevnt i første ledd første punktum, men det er ikke lenger et krav om valget må
-skje ved urnevalg. Det er nå opp til studentene
-selv å avgjøre valgform. Lovendringen åpner blant
-annet opp for digitale løsninger.
-Etter tredje ledd andre punktum er det ikke lenger krav om at tilretteleggingen skal spesifiseres i
-en avtale, men at tilretteleggingen skal dokumenteres av institusjonen. Institusjonenes tilretteleggingsplikt innebærer at studentene bør få anledning til å redegjøre for sitt behov, slik at institusjonene kan vurdere hva den må tilby for å oppfylle
-sin plikt. Disse forutsetningene kan endre seg,
-slik at hva som til enhver tid er tilfredsstillende
-ikke nødvendigvis er statisk. Dokumentasjonskravet sikrer forutberegnelighet for studentene.
-
-Til § 3-9 andre ledd nytt tredje og fjerde punktum
-Etter nytt andre ledd tredje punktum er det krav
-om to sensorer ved alle typer vurderinger der
-institusjonene bruker gradert karakterskala A til
-F, både på høyere og lavere grad. Vurderinger kan
-omfatte eksamen, prøve, bedømmelse av oppgave,
-praksisprøve eller en utøvende prestasjon. Ved
-bedømming av kandidatens selvstendige arbeid i
-høyere grad stilles det etter andre punktum krav
-om at den ene sensoren skal være ekstern, det vil
-si at denne sensoren ikke kan være ansatt ved den
-utdanningsinstitusjonen der det selvstendige
-arbeidet blir avlagt. De to sensorene skal sammen
-fastsette karakteren basert på studentens prestasjon.
-Nytt andre ledd fjerde punktum: Kravet om to
-sensorer er ikke til hinder for at begge sensorene
-kan være ansatt ved institusjonen. Men den ene
-sensoren etter tredje punktum skal være uten
-
-Til § 4-3 første, andre, tredje og sjuende ledd
-Første ledd første punktum sier at styret som har
-ansvar for at læringsmiljøet på institusjonen er
-fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd.
-Denne setningen er en delvis videreføring av
-dagens § 4-3 andre ledd første punktum.
-Andre punktum er en videreføring av dagens
-§ 4-3 andre ledd bokstav i, med noen språklige justeringer.
-Andre ledd første punktum er ny og definerer
-hva læringsmiljøet er. Dette innebærer likevel
-ingen realitetsendring sammenlignet med dagens
-regler. Et godt læringsmiljø skal bidra til at individuelle forhold ved studenten, for eksempel funksjonsnedsettelser, ikke skal være til hinder for at
-studentene har lik mulighet til å ta høyere utdanning.
-
-[Side 179]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-I andre punktum fremgår de ulike delene av
-læringsmiljøbegrepet. Bestemmelsen presiserer
-og tydeliggjør læringsmiljøbegrepet og er ikke
-ment å endre innholdet i begrepet. Læringsmiljøbegrepet omfatter fysiske, digitale, organisatoriske, pedagogiske og psykososiale forhold.
-Det fysiske læringsmiljøet inkluderer bygninger, omgivelser og kravet til universell utforming.
-Det psykososiale læringsmiljøet dreier seg om de
-mellommenneskelige forholdene, der trivsel og
-samhandling står sentralt. Det psykososiale
-læringsmiljøet består av en rekke faktorer knyttet
-til studiet, medstudenter og institusjonen. Det psykososiale læringsmiljøet påvirkes også av faktorer
-institusjonene ikke kan ha ansvar for. Institusjonene har likevel et ansvar for å legge til rette for at
-den enkelte student skal ha forutsetninger for å tilegne seg den kunnskapen som forventes i utdanningen. Når en student ber om tilrettelegging, må
-institusjonen alltid foreta en konkret og skjønnsmessig helhetsvurdering av behovet og muligheter
-for tilrettelegging.
-Det organisatoriske læringsmiljøet handler
-blant annet om hvordan utdanningene er organisert og organisering av arbeidet med læringsmiljøet. Det digitale læringsmiljøet handler om bruk
-og utvikling av IKT i læring, og hvordan IKT brukes, integreres og utnyttes som en del av den
-pedagogiske virksomheten innenfor hvert enkelt
-fagområde. Det pedagogiske læringsmiljøet
-omfatter utforming av læringsmål, form og innhold for et studieprogram eller emne, slik som
-valg av læringsaktiviteter og vurderingsformer,
-eller hvordan det faglige innholdet ellers presenteres. For øvrig legger departementet til grunn at
-kravene til læringsmiljø ikke griper inn i uhl. § 1-5
-om faglig frihet og ansvar. Det pedagogiske
-læringsmiljøet påvirkes av studentenes forutsetninger for læring, med utgangspunkt i ulike
-læringsstiler, behov og preferanser, og av deres
-kulturelle og personlige bakgrunn.
-Tredje ledd viderefører institusjonenes plikt til
-å opprette et læringsmiljøutvalg, hvor representanter fra studentene skal utgjøre halvparten av
-medlemmene. Bestemmelsen angir at utvalgene
-skal være med å bidra til at institusjonen ivaretar
-studentenes læringsmiljø, og skal sikre at studentene har en reell medvirkning i prosessene som
-berører læringsmiljøet. Bestemmelsen omhandler
-ikke lenger konkret hvilke oppgaver læringsmiljøutvalgene skal utføre. Dette betyr likevel ikke at
-de oppgavene og forpliktelsene som tidligere var
-nevnt i bestemmelsen, ikke lenger skal ivaretas av
-læringsmiljøutvalgene. For at institusjonene skal
-ivareta sine forpliktelser etter loven, er det nød-
-
-177
-
-vendig at læringsmiljøutvalgene fremdeles ivaretar enkelte av disse oppgavene, som for eksempel å rapportere til institusjonenes styre. Det er
-fremdeles styrene som er ansvarlig for at institusjonen oppfyller sine forpliktelser etter loven på
-dette området. Et godt samarbeid mellom styrene
-og læringsmiljøutvalgene er en forutsetning for å
-lykkes med læringsmiljøarbeidet. Styrene kan
-også fremdeles tillegge utvalgene andre konkrete
-oppgaver dersom man finner det hensiktsmessig.
-Sjuende ledd er nytt og gir studenter rett til
-varsle om kritikkverdige forhold ved institusjonen, og er også vernet mot gjengjeldelse. Bestemmelsen er basert på tilsvarende bestemmelse i
-arbeidsmiljøloven om arbeidstakernes vern. «Kritikkverdige forhold» er et vidt begrep. Dette er
-nærmere omtalt i forarbeidene til arbeidsmiljøloven, Prop. 74 L (2018–2019) kapittel 8. Her vises
-det til at åpenbare kritikkverdige forhold er forhold som er straffbare, eller forhold som på annen
-måte er brudd på lovbestemmelser. Det kan også
-være forhold knyttet til miljøet, som ulike former
-for diskriminering eller trakassering. Bestemmelsen omfatter ikke forhold som studenten mener er
-kritikkverdige ut fra sin egen politiske eller etiske
-overbevisning.
-Til § 4-8 første ledd nytt første punktum og nytt sjette
-ledd
-Bestemmelsen i første ledd nytt første punktum skal
-fortrinnsvis ramme de lette og mildere tilfellene
-av forstyrrelser, og hvor saken haster. Denne formen for bortvisning er noe som kan tas i bruk
-umiddelbart. Det gjelder tilfeller av forstyrrelser
-som i dag ikke er ment å bli rammet av gjeldende
-§ 4-8. Tilfellene behøver ikke være i kategorien
-«grovt forstyrrende.» Det er heller ikke et krav at
-det har skjedd forstyrrelser en eller flere ganger
-tidligere. Det kreves ikke at det først er gitt en
-advarsel.
-Hva som skal til for at adferden er forstyrrende
-nok til å medføre en umiddelbar bortvisning, vil
-bero på en konkret vurdering av hvert enkelt tilfelle. Den som beslutter bortvisning, må vurdere
-studentens rett til å delta i undervisningen opp mot
-medstudentenes behov for ro. Adferden må være
-av en slik art at det ikke er andre mildere tiltak enn
-bortvisning, for eksempel en muntlig advarsel, som
-kan brukes for at undervisningen skal kunne fortsette uten forstyrrelser. Selv om umiddelbar
-bortvisning av studenten kan virke inngripende for
-den det gjelder, kreves det heller ikke mer av studenten enn at den forstyrrende adferden opphører,
-for at vedkommende skal få adgang til området
-
-[Side 180]
-
-178
-
-Prop. 111 L
-
-2020–2021
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-igjen. Bestemmelsen må ikke forveksles med
-andre og tredje punktum som regulerer grovere tilfeller av forstyrrende adferd, der institusjonen kan
-benytte sterkere reaksjonsmidler som bortvisning
-over lengre tid eller utestengning. Slike vedtak er
-enkeltvedtak og krever at bestemte saksbehandlingsregler følges.
-Bestemmelsen går ikke lenger enn det alminnelig ulovfestet eiendomsrett gjør. Lovfesting
-skjer hovedsakelig av informative og pedagogiske
-grunner.
-Andre og tredje punktum viderefører nåværende første og andre punktum.
-Sjette ledd er ny og innebærer at politianmeldelse skal skje ved bruk av falske vitnemål eller
-andre falske dokumenter under studiet. Tilsvarende gjelder for dokumenter utstedt av falske
-institusjoner. En tilsvarende bestemmelse finnes i
-§ 3-7 sjuende ledd som gjelder ved studieopptak.
-Politianmeldelse bør skje straks det foreligger en
-begrunnet mistanke om et forhold som det er
-plikt til å anmelde.
-Med denne endringen skal politianmeldelse i
-tilfeller som de nevnte skje både ved opptak til studiet og underveis i dette.
-Til § 4-9
-Første ledd i bestemmelsen er en videreføring av
-dagens første og andre ledd, og redegjør for når
-politiattest kan kreves av en student. Politiattest
-kan innhentes både i situasjoner hvor studenten
-kan komme i kontakt med mindreårige, og når
-studenten kan komme i kontakt med andre sårbare grupper som er beskyttet gjennom profesjonslovgivningen. Det er tilstrekkelig at det er en
-mulighet for at studenten i forbindelse med praksisstudier eller klinisk undervisning kan komme i
-situasjoner hvor overgrep kan finne sted. Sammenslåingen av første og andre ledd er ikke ment
-å være en realitetsendring.
-Videre klargjøres det at politiattest både kan
-innhentes ved opptak til og underveis i studiet, og
-at det er institusjonene som kan kreve slik attest.
-Endringen har ingen realitetsbetydning. Supplerende regler om politiattest er gitt i opptaksforskriften.
-Tredje ledd viderefører dagens fjerde ledd med
-en mindre endring. Studenter som er siktet eller
-tiltalt for straffbare forhold kan utelukkes midlertidig inntil rettskraftig dom foreligger eller saken er
-henlagt. Hovedkonsekvensen av at studenten blir
-utelukket fra praksis eller klinisk undervisning, er
-at studenten ikke får vitnemål for fullført grad
-eller utdanning.
-
-Endring av begrepet «utestenges» til utelukkes» innebærer en presisering i lovbestemmelsen
-for å hindre uklarheter og for å ha en konsekvent
-begrepsbruk i loven. Dette klargjør at det her
-dreier seg om en midlertidig reaksjon som gjelder
-deler av studiet, og ikke utestengning fra hele. Tilføyelsen av ordet «midlertidig» understreker
-ytterligere at det ikke dreier seg om en varig utestengning fra hele studiet.
-Til § 4-14
-Endringen i første ledd utvider bruksområdet til
-portalen, slik at den kan brukes for deling av vitnemål, karakterer, annen dokumentasjon av oppnådd kompetanse og vedtak om godkjenning av
-utenlandsk utdanning og opplæring. Formålet til
-portalen er fremdeles å sikre sannferdig informasjon og forhindre bruk av forfalskede dokumenter. Omtalen i bestemmelsen er derfor endret til
-«en portal for deling av vitnemål og dokumentasjon av kompetanse».
-Andre ledd gir portalen supplerende rettsgrunnlag for å behandle nærmere definerte personopplysninger. Dette er opplysninger som de
-mottar automatisk fra de institusjonene og aktørene som har lov til å dele slike personopplysninger. For universiteter og høyskoler følger slikt
-behandlingsgrunnlag av ny § 4-14 a, og for fagskoler er det regulert i fagskoleloven § 41. Portalen
-vil ikke inneholde vitnemål, karakterer eller
-annen dokumentasjon på oppnådd kompetanse,
-men bare være et system for å formidle slik informasjon fra institusjonene og aktørenes databaser,
-for visning og formidling styrt av den registrerte
-selv.
-Tredje og fjerde ledd er en videreføring av §§ 5
-og 6 i forskrift om Nasjonal vitnemåls- og karakterportal. Informasjon om karakterer, vitnemål og
-annen dokumentasjon av kompetanse, skal bare
-overføres fra datakilden (for eksempel utdanningsinstitusjonen) når den personen opplysningene gjelder selv tar initiativ til det.
-Tredje ledd slår fast at det er den registrerte
-som bestemmer over bruken av opplysningene.
-Den registrerte skal bestemme hvem som skal ha
-tilgang, hva de kan få tilgang til og også for hvilke
-tidsrom det skal være tilgang. De som typisk gis
-tilgang er en arbeidsgiver som det søkes jobb hos
-eller utdanningsinstitusjoner.
-Fjerde ledd fastslår at dokumentasjonen som
-deles via portalen bare kan verifiseres i sin opprinnelige digitale form. En utskrift eller et skjermbilde av opplysningene er ikke er å regne som
-verifisert dokumentasjon.
-
-[Side 181]
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Femte ledd sier at Direktoratet for høyere
-utdanning og kompetanse er behandlingsansvarlig for personopplysningene i portalen.
-Til ny § 4-14 a
-Ny § 4-14 a er en videreføring av gjeldende § 4-14
-andre ledd, og gir rettsgrunnlag for at universiteter og høyskoler kan dele personopplysninger
-med vitnemålsportalen.
-Til § 6-4
-Første ledd angir i hvilke stillingskategorier det er
-lovlig å ansette på åremål. Adgangen til å ansette
-administrerende direktør på åremål er fjernet.
-Opplistingen i bokstaver i første ledd og henvisningene i andre, tredje og fjerde ledd til bokstavene i første ledd er justert.
-Den som er ansatt i åremålsstilling som administrerende direktør ved lovens iverksettelse,
-innehar denne til åremålsperioden utløper.
-Til § 7-1
-Utrykket «betaling» erstatter «egenbetaling» i første ledd og andre ledd. I andre ledd er ordene «om
-adgangen» fjernet. Endringene innebærer ingen
-realitetsendring.
-Til § 7-8
-Andre ledd er utvidet til også å gjelde rapportering av opplysninger om søkere.
-I fjerde ledd andre punktum er innhenting
-endret til rapportering. Endringen er ikke ment å
-endre gjeldende rett.
-Sjette ledd er endret for å presisere at behandlingsansvaret ligger hos Direktoratet for høyere
-utdanning og kompetanse.
-Til § 10-2 fjerde ledd
-Bestemmelsen i fjerde ledd endres slik at ved de
-institusjonene hvor rektor velges, skal stemmene
-når de telles opp, vektes slik at stemmene til de
-ansatte vektes 70 til 75 prosent og stemmene til
-studentene vektes 25 til 30 prosent. Institusjonens
-styre fastsetter vekting innenfor disse rammene.
-Bestemmelsen om at valg i særskilt valgforsamling skal ha tilsvarende sammensetning, er en
-videreføring av gjeldende ordlyd.
-
-8.3
-
-179
-
-Endringer i utdanningsstøtteloven
-
-Til § 20 Behandling av personopplysninger
-Av bestemmelsens første ledd første punktum går
-det fram at Lånekassen kan behandle personopplysninger når dette er nødvendig for å forvalte rettigheter eller plikter fastsatt i utdanningsstøtteloven eller i forskrifter gitt i medhold av utdanningsstøtteloven. Dette omfatter også særlige kategorier av personopplysninger etter personvernforordningen artikkel 9, og opplysninger om
-straffedommer og lovovertredelser etter forordningens artikkel 10.
-Hvilke personopplysninger det er nødvendig å
-behandle, vil gå fram av vilkårene for den konkrete rettigheten og plikten som forvaltes. Vilkårene vil vise hvilke personopplysninger som må
-behandles, og dermed også hvilke personopplysninger som ikke skal behandles. Personvernforordningens prinsipper og bestemmelser for øvrig
-gjelder også for behandlingene.
-Bestemmelsen utelukker ikke at Lånekassen
-kan behandle personopplysninger i tilfeller der
-det foreligger annet rettslig grunnlag for slik
-behandling.
-Av bestemmelsens første ledd andre punktum
-går det fram at det gjelder særlige regler om Lånekassens adgang til innhenting av personopplysninger fra andre. Dersom Lånekassen skal hente inn
-opplysninger fra andre enn søkeren eller låntakeren selv, må vilkårene i § 21 være oppfylt.
-Etter andre ledd første punktum kan Lånekassen treffe avgjørelser som utelukkende er basert
-på automatisert behandling av personopplysninger. Dette omfatter avgjørelser som har rettsvirkning for eller på tilsvarende måte i betydelig
-grad påvirker vedkommende, se personvernforordningen artikkel 22 nr. 1. Enkeltvedtak slik
-dette er definert i forvaltningsloven § 2 er omfattet. Andre avgjørelser som har rettsvirkning for
-eller i betydelig grad påvirker den registrerte er
-også omfattet. Også særlige kategorier av personopplysninger etter personvernforordningen artikkel 9 og opplysninger om straffedommer og lovovertredelser etter forordningens artikkel 10, kan
-være gjenstand for slik automatisert behandling.
-Andre ledd andre punktum bestemmer at helautomatiserte avgjørelser ikke kan bygge på
-skjønnsmessige vilkår, med mindre avgjørelsen er
-utvilsom. Skjønnsmessige vilkår vil bare kunne bli
-gjenstand for automatisering dersom de lar seg
-operasjonalisere og avgjørelsen dermed er utvilsom.
-
-[Side 182]
-
-180
-
-2020–2021
-
-Prop. 111 L
-
-Endringer i universitets- og høyskoleloven, utdanningsstøtteloven, fagskoleloven og yrkeskvalifikasjonsloven mv.
-(samleproposisjon)
-
-Andre ledd tredje punktum fastslår at behandlingen må sikre partens krav til forsvarlig saksbehandling, og at den må være forenlig med retten
-til vern av personopplysninger. Kravet om forsvarlighet innebærer blant annet at avgjørelsene skal
-la seg forklare og begrunne i samsvar med forvaltningsrettslige regler og prinsipper.
-Etter fortalepunkt 71 i personvernforordningen skal den registrerte som minimum ha rett til
-«menneskelig inngripen». Ved klage over enkeltvedtak foretas manuell behandling. Departementet tydeliggjør i fjerde punktum at den registrerte
-har rett til manuell overprøving av avgjørelsen i
-den grad det ikke foreligger formell klagerett.
-Av tredje ledd går det fram at departementet
-gir forskrift om behandlingen av personopplysninger i Lånekassen, blant annet om formålet med
-behandlingen, hvilke typer personopplysninger
-som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, adgangen til viderebehandling og utlevering. Bestemmelsen åpner for forskrifter om viderebehandling for uforenlige formål.
-Til § 21
-Bestemmelsen viderefører deler av dagens § 23.
-Gjeldende § 23 gir regler for hvilke myndigheter
-og virksomheter det kan hentes inn opplysninger
-fra. Første ledd første punktum bestemmer at Lånekassen kan hente inn opplysninger fra andre dersom det er nødvendig for å forvalte søkerens eller
-låntakerens rettigheter eller plikter etter utdanningsstøtteloven med tilhørende forskrifter.
-Bestemmelser om hvilke myndigheter og virksomheter det kan hentes inn opplysninger fra, vil
-bli fastsatt i forskrift.
-Første ledd andre punktum viderefører gjeldende regel om at Lånekassen kan hente inn opplysninger fra andre uten hinder av taushetsplikt.
-Etter andre ledd gir departementet forskrift
-om innhenting av opplysninger, blant annet om
-hvilke personopplysninger som kan hentes inn,
-hvor den kan hentes inn fra, og om hvilke personer.
-Til § 22
-Første ledd første punktum gir Lånekassen adgang
-til å utlevere opplysninger til offentlige utdanningsstøttemyndigheter i EU- eller EØS-land,
-Færøyene og Grønland når det er nødvendig for
-kontrollen av om personer samtidig mottar eller
-har mottatt utdanningsstøtte fra Lånekassen og
-andre lands offentlige utdanningsstøtteordninger.
-
-Etter første ledd andre punktum kan det utleveres
-opplysninger om navn, kundenummer, fødselsnummer og hvilket undervisningsår og semester
-opplysningene gjelder for.
-Etter andre ledd kan utleveringen etter denne
-bestemmelsen skje uten hinder av taushetsplikt.
-Til §§ 23 – 28
-Bestemmelsene i §§ 23 til 28 viderefører innholdet i tidligere §§ 20 til 26. Tidligere § 23 oppheves,
-og videreføres i hovedsak av § 21.
-
-8.4
-
-Endring i
-studentsamskipnadsloven
-
-Til § 4
-Tredje ledd er nytt. Bestemmelsen er en videreføring av det som var andre ledd i bestemmelsen
-fram til 2018. Dette leddet ble ved en feil opphevet
-da bestemmelsen fikk et nytt andre ledd ved lov 8.
-juni 2018 nr. 28 om høyere yrkesfaglig utdanning
-(fagskoleloven). Bestemmelsen gir departementet adgang til å gi fritak fra kravet om tilknytning
-til samskipnad dersom utdanningsinstitusjonen
-har andre tilfredsstillende velferdsordninger og
-spesielle forhold gjør at tilknytning til studentsamskipnad er lite hensiktsmessig. Eksempler kan
-væra at det er langt til nærmeste samskipnad,
-institusjonen har svært få studenter eller lav andel
-av offentlige tilskudd. Det er en forutsetning at
-institusjonen hadde akkreditering fra NOKUT
-som institusjon eller for studietilbud før 1. august
-2008. Dersom en institusjon består av to eller flere
-institusjoner som er sammenslått, vil vilkåret være
-oppfylt dersom minst en av disse var omfattet av
-universitets- og høyskoleloven før 1. august 2008.
-
-8.5
-
-Endringer i
-yrkeskvalifikasjonsloven
-
-Til § 1 nytt andre ledd
-Nytt andre ledd fastslår at loven skal legge til
-rette for at en yrkesutøver med yrkeskvalifikasjoner fra tredjeland, dvs. land utenfor EØS og
-Sveits, skal kunne utøve sitt yrke i Norge. Dette
-gjelder uavhengig av statsborgerskap, og også
-for norske borgere med yrkeskvalifikasjoner fra
-et tredjeland. Det er ikke krav om at yrkesutøver
-skal være bosatt eller ha lovlig opphold i Norge
-for å kunne søke om godkjenning. Godkjenning
-av yrkeskvalifikasjoner innebærer ikke oppholdstillatelse. Det må søkes om oppholdstilla-
+### Godkjenningsprinsippet, herunder kravet om samme yrke og full kvalifisering
+
+#### Dagens regler
+
+Vilkårene for godkjenning av yrkeskvalifikasjoner innen EØS er regulert i yrkeskvalifikasjonsloven § 8 og i forskriften § 3-3 som gjennomfører artikkel 13 i direktivet. I utgangspunktet skal en yrkesutøver fra et annet EØS-land kunne utøve et regulert yrke på samme vilkår som landets egne borgere. Se nærmere omtale av godkjenningsprinsippet i punkt 5.4.5. Etter yrkeskvalifikasjonsdirektivet er det krav om at søkerne må være fullt ut kvalifisert til å utøve yrket i hjemstaten. Det kreves videre at det dreier seg om det samme yrket. Se omtale i punkt 5.4.2 og 5.4.3.
+
+Lovverket for søkere fra tredjeland som ikke omfattes av yrkeskvalifikasjonsloven, er utviklet sektorvis per yrke. Selv om Norge her er ubundet av reglene som EØS-retten bygger på, vil disse likevel ofte kunne spille en rolle ved utforming, fortolkning og praktisering av regelverket for tredjelandsborgere. For enkelte yrker finnes det ikke særskilte regler for personer med yrkeskvalifikasjoner fra et tredjeland. Søknadene behandles i disse tilfellene etter alminnelige forvaltningsrettslige regler.
+
+De ulike godkjenningsmyndighetene har forskjellige mål og ulikt regelverk. Det varierer mellom de enkelte godkjenningsmyndighetene hvordan disse vurderer yrkesutøvere med utdanning fra tredjeland. Enkelte krever at utdanningen er jevngod med den i Norge, andre gjør en samlet, konkret og individuell vurdering av søkerens kvalifikasjoner. Andre igjen krever at yrkesutøveren har fått en generell godkjenning av høyere utdanning fra NOKUT, før de kan vurdere en søknad om yrkesgodkjenning.
+
+I det følgende beskrives gjeldende ordninger for noen av godkjenningsmyndighetene. For alle er det slik at vurderingen av utdanningen til søkerne inngår som et sentralt element i grunnlaget for vurderingen av om søkeren er kvalifisert for å utøve yrket. Godkjenningsmyndighetenes kunnskap om det utdanningssystemet som søkeren har sin utdanning fra, vil imidlertid variere.
+
+Norges vassdrags- og energidirektorat (NVE) stiller de samme kravene til utdanning og praksis for søkere uavhengig av om de er fra Norge, et annet EØS-land eller er tredjelandsborgere. Saken behandles i et kompetansegodkjenningsråd som vurderer kvalifikasjonene opp mot kravene i forskrift om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften).
+
+Direktoratet for samfunnssikkerhet og beredskap (DSB) godkjenner yrker innenfor el-området, brann og redning og eksplosivområdet. Brann- og redningspersonell omfattes ikke av yrkeskvalifikasjonsloven da dette er yrker innen offentlig myndighetsutøvelse. Yrker på el-området vurderes etter forskrift om elektroforetak og kvalifikasjonskrav for arbeid knyttet til elektrisk utstyr § 12. For å bli godkjent kreves det at vedkommende har kvalifikasjoner tilnærmet de kvalifikasjonskravene som framgår av forskriften §§ 6 til 10. DSB har omtrent 150 søknader per år fra tredjelandsborgere. Behandling av yrker under eksplosivområdet, dvs. bergsprenger, bergsprengningsleder og teknisk sprengningskyndig, følger bestemmelser i forskrift om sivil håndtering av eksplosjonsfarlige stoffer. Søknader til yrkene scenepyrotekniker og profesjonell pyrotekniker følger bestemmelser i forskrift 26. juni 2002 om håndtering av eksplosjonsfarlig stoff. Også for disse yrkene er det svært få søknader fra tredjelandsborgere. Felles for alle yrkene er at søknadene må dokumenteres. Dersom originaldokumentene er på et annet språk enn engelsk, svensk eller dansk, må disse oversettes til engelsk, alternativt til norsk. Det foretas en konkret helhetsvurdering av søkerens samlede kompetanse sett opp mot kravene i det norske regelverket for å gi godkjenning til å utøve det aktuelle yrket. Det benyttes ikke utligningstiltak for tredjelandsborgere, og det gis ikke delvis adgang til et yrke. Vedtakene begrunnes. DSB melder om følgende utfordringer:
+
+- Utfordringer knyttet til om søker har forstått hvilket yrke som han eller hun ønsker godkjenning til å utøve i Norge. Tilsvarende er det utfordringer knyttet til å forstå hvilket yrke søkeren har utdanning til og erfaring fra, herunder å få bekreftet innholdet av den utenlandske utdanningen.
+
+- Utfordringer knyttet til å få avklart om det aktuelle yrket er regulert i etableringslandet.
+
+- Til dels lang saksbehandlingstid for enkeltområder.
+
+#### Høringsforslaget
+
+Det ble foreslått å gjøre godkjenningsprinsippet, herunder kravene til at det dreier seg om det samme yrket og at søker må være fullt ut kvalifisert til å utøve yrket i hjemstaten, gjeldende for personer med yrkeskvalifikasjoner fra tredjeland. Slik må godkjenningsmyndighetene vurdere den samlede yrkeskompetansen til søkeren, ikke bare selve utdanningen.
+
+Departementet vurderte om godkjenningsprinsippet skulle gjelde tilsvarende eller om det er behov for enkelte tilpasninger for at dette prinsippet skal kunne legges til grunn for denne gruppen.
+
+Det ble foreslått at yrkeskvalifikasjonsloven § 8, som lovfester godkjenningsprinsippet, skulle gjøres gjeldende for kvalifikasjoner fra tredjeland. Det ble ikke ansett som nødvendig med endringer i forskriftshjemmelen i § 8, da den vil gi den nødvendige hjemmel til å utarbeide forskriftsregler om godkjenning av yrkeskvalifikasjoner fra tredjeland.
+
+Departementet foreslo videre å forskriftsfeste at retten ikke skal gjelde for personer med kortere utdanning fra hjemstaten, dvs. yrker som i yrkeskvalifikasjonsforskriften § 3-1 kategoriseres på nivå A. Dette innebærer blant annet at yrker som godkjennes av Arbeidstilsynet, slik som dykker, truckfører i ulike klasser, maskinførere m.m., ikke var omfattet av forslaget.
+
+Departementet gjorde også oppmerksom på at det kunne være annet EØS-regelverk som setter begrensninger for om personer med yrkeskvalifikasjoner fra tredjeland kan omfattes av regelverket. Dette gjaldt blant annet revisjonsdirektivet (direktiv 2006/43/EF som endret ved direktiv 2014/56/EU) som setter begrensninger i adgangen til å godkjenne personer med yrkeskvalifikasjoner fra tredjeland. Etter artikkel 44 nr. 1 i direktivet kan Finanstilsynet ikke godkjenne revisorer fra tredjeland som Norge ikke har avtale om gjensidig godkjenning av revisorer med. Videre krever direktivet at disse personene må oppfylle kvalifikasjonskravene etter direktivets artikkel 4 og artikkel 6 til 13. Departementet foreslo ikke at begrensninger i annet EØS-regelverk skulle reguleres særskilt.
+
+#### Høringsinnspill
+
+*EL og IT Forbundet, LO Norge og Elektromontørenes forening Oslo og Akershus (EMF)* har til dels samme begrunnelse for ikke å støtte forslaget. *EMF* mener at intensjonen om å likebehandle personer, uavhengig av om de er EØS-borgere eller kommer fra tredjeland, er god. Likevel må kriteriene som kreves for godkjenning av yrkeskvalifikasjoner være strammere enn regelverket som gjelder for EØS-borgere. *EL og IT Forbundet* er sterkt uenig i forslaget til endringer i godkjenningsordningen. Forbundet frykter at forslaget vil senke kravet til den formelle utdanningen betraktelig og føre til en utvikling hvor personer med liten teoretisk kompetanse blir godkjent som elektroarbeidere.
+
+*Tilsynsrådet for advokatvirksomhet uttaler* at gjeldende regler for personer med advokatbevilling fra et annet land utenfor EU/EØS eller med statsborgerskap utenfor EU/EØS, som utgangspunkt gir adgang til å yte rettshjelp i fremmed og internasjonal rett. Hvis det åpnes for at disse skal få de samme rettighetene som EU-/EØS- borgere med advokatbevilling fra et EU-/EØS-land, vil dette utgjøre en vesentlig endring fra dagens system. Tilsynsrådet er ikke positive til en slik endring.
+
+*Nasjonal kommunikasjonsmyndighet (Nkom)* viser til at kravet for kvalifisert person etter autorisasjonsforskriften er sammensatt av formell utdanning og yrkeserfaring. Langvarig praksis kan ikke kompensere for manglende formell utdanning. Nkom mener det er problematisk å vurdere yrkeserfaringer fra søkere fra tredjeland, fordi det ikke finnes et tilsvarende yrke i andre land.
+
+*Norges Farmaceutiske Forening* mener at prinsippene som legges til grunn må utøves på en slik måte at man tar hensyn til det høye antallet utenlandsk utdannet personell som Norge har. Et høyt antall utenlandsk utdannet personell vil etter foreningens syn for eksempel kunne føre til færre muligheter for kollegaveiledning om norske retningslinjer.
+
+I *Direktoratet for samfunnssikkerhet og beredskap (DSB)* støtter forslaget delvis og har tatt forbehold for yrker på eksplosivområdet da dette kan få konsekvenser i saker hvor søkeren kommer fra land Norge ikke har har et sikkerhetspolitisk samarbeid med fordi det vil kunne være særskilte utfordringer knyttet til vurderingen av notoriteten til fremlagt dokumentasjon i slike saker. DSB ber om at det innføres en bestemmelse som gir grunnlag for å avslå søknader av hensyn til offentlig helse og sikkerhet.
+
+*Statens vegvesen* påpeker at det må kunne være mulig å avslå en søknad fra en yrkesutøver med yrkeskvalifikasjoner fra tredjeland. Vegvesenet anbefaler at det ikke legges hindringer i veien for å avslå søknader på øvrige grunnlag. Statens vegvesen presiserer at Norge er det eneste landet – som de kjenner til – hvor trafikklærerutdanning er en toårig universitetsutdanning. Norge har en annen føreropplæring enn andre land både med tanke på det pedagogiske aspektet hos trafikklæreren og med delvis obligatorisk opplæring for eleven. Statens vegvesen opplyser videre at det for verkstedbransjen er særlig vanskelig å vurdere om en kvalifikasjon gjelder samme yrke, fordi oppbygningen og organiseringen av verkstedbransjen bygger på norsk særordning.
+
+*Direktoratet for byggkvalitet* opplyser at det i dag foretar en totalvurdering av utdanning, praksis og yrkesdeltakelse som aktiv sikkerhetskontrollør når det godkjenner personer fra andre EØS-land og utenfor disse landene.
+
+*Revisorforeningen mener* at de foreslåtte forslagene ikke vil få betydning for godkjenning av revisorer og ber om en tydeliggjøring av dette.
+
+*KS* stiller seg bak behovet for effektive ordninger for godkjenning av utenlandsk utdanning og yrkeskvalifikasjoner. *KS* mener at for samfunnskritiske profesjoner med strenge nasjonale krav, må krav til formell utdanning vektlegges på samme nivå som de helhetlige yrkeskvalifikasjonene.
+
+#### Departementets vurdering
+
+Departementet foreslår at godkjenningsprinsippet i yrkeskvalifikasjonsloven for personer med yrkeskvalifikasjoner fra tredjeland skal legges til grunn ved vurderingen for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland. Dette synliggjøres ved at lovens § 8 skal gjelde for denne gruppen. Begrensningene i retten til godkjenning vil følge av de lov- og forskriftsendringene som omtales i de øvrige kapitlene i proposisjonen her.
+
+Departementet mener at så lenge en yrkesutøver er fullt ut kvalifisert til å utøve det samme yrket i det landet vedkommende har sine yrkeskvalifikasjoner fra, skal vedkommende vurderes. Det betyr ikke at vedkommende vil få godkjenning, men søknaden skal vurderes ut fra de helhetlige yrkeskvalifikasjonene til yrkesutøveren. Dette innebærer at departementet ikke er enig i innspillet om at langvarig praksis ikke kan kompensere for formell utdanning. Departementet mener tvert imot at det kan være tilfeller der en yrkesutøver har utøvd yrket i lang tid og dermed har tilegnet seg nødvendige kunnskaper.
+
+Departementet understreker at godkjenningsmyndigheten alltid må vurdere om det er snakk om det samme yrket, før myndigheten vurderer yrkeskvalifikasjonene.
+
+Erfaringen fra enkelte godkjenningsmyndigheter er at det kan være vanskelig å vurdere om en søker er kvalifisert til å utøve det samme yrket i hjemstaten, selv for søkere fra EØS. Det kan være vanskelig å finne informasjon om hva som er innholdet i yrket og hvilken aktivitet yrkesutøveren kan utøve. Det er grunn til å anta at dette er vanskeligere med søkere utenfor EØS, spesielt siden det ikke er noe administrativt samarbeid mellom godkjenningsmyndighetene med landene utenfor EØS. I denne sammenhengen viser departementet til at det for kvalifikasjoner fra tredjeland foreslås at dokumentasjonsplikten legges til søkeren, jf. punkt 5.5.5.
+
+Ved å legge til grunn at yrkeserfaring skal være relevant, vil søkerens samlede yrkeskompetanse bli vurdert. For enkelte yrker vil dette få som konsekvens at kravene til dokumentert formell utdanning blir lavere enn i dag, fordi yrkeserfaring kan kompensere for formell opplæring.
+
+En høringsinstans viser til at godkjenningsmyndighetene mangler fagkunnskap til å foreta en vurdering av yrkeskvalifikasjonene. Departementet forutsetter at den enkelte godkjenningsmyndigheten må ha den nødvendige fagkompetansen til å vurdere yrkeskvalifikasjonene til søkeren.
+
+To av høringsinstansene som er sterkt imot forslaget, representerer en yrkesgruppe, dvs. elektroarbeidere. Disse instansene mener at reglene ikke skal endres og frykter at det vil senke kravet til den formelle utdanningen betraktelig og føre til en utvikling hvor personer med liten teoretisk kompetanse blir godkjent som elektroarbeidere. Departementet vil påpeke at yrkeskvalifikasjonsloven ikke regulerer hvilke kvalifikasjonskrav som stilles i Norge for å utøve yrket. Lov og forskrift har prosessuelle regler for hvordan en yrkesutøver skal bli godkjent i Norge, når det i Norge er et regulert yrke.
+
+Departementet mener at fordelene for den enkelte yrkesutøveren må veie tungt, og at det er et godt prinsipp at godkjenningsmyndighetene skal legge vekt på de helhetlige yrkeskvalifikasjonene til yrkesutøveren. Det avgjørende må være at yrkesutøveren er kvalifisert til å utøve et yrke i hjemstaten. Utdanningen alene kan ikke være avgjørende. Det er flere godkjenningsmyndigheter som har slik praksis allerede i dag, bl.a. Statens vegvesen og Direktoratet for byggkvalitet. Departementet mener at endringen vil gi mer forutsigbarhet og likebehandling av yrkesutøvere.
+
+Departementet mener videre at endringen vil kunne føre til en raskere godkjenning og at yrkesutøvere med kvalifikasjoner fra tredjeland kommer raskere ut i arbeid.
+
+Departementet kan i utgangspunktet ikke se at det er nødvendig med en strammere godkjenningsprosess for yrkesutøvere med kvalifikasjoner fra tredjeland så lenge yrkesutøveren er fullt ut kvalifisert til å utøve det samme yrket i det landet som vedkommende har sine yrkeskvalifikasjoner fra. Departementet mener at dette må legges til grunn også for samfunnskritiske yrker, og er derfor ikke enig i at det bør gjøres unntak for samfunnskritiske profesjoner. På den annen side vil det gjelde enkelte begrensninger for i hvilken grad de ulike prinsippene i yrkeskvalifikasjonsloven legges til grunn for søknader knyttet til tredjelandskvalifikasjoner, jf. de følgende kapitlene i proposisjonen her.
+
+Departementet vil i forbindelse med forskriftsarbeidet vurdere innspillet om at det bør utformes en bestemmelse som gir grunnlag for å avslå søknader av hensyn til offentlig helse og sikkerhet.
+
+#### Departementets forslag
+
+Departementet foreslår at yrkeskvalifikasjonsloven § 2 endres slik at § 8 også gjelder for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
+
+### Utligningstiltak
+
+#### Dagens regler
+
+Yrkeskvalifikasjonsdirektivet inneholder bestemmelser om at godkjenningsmyndigheten skal kunne pålegge yrkesutøvere fra EØS utligningstiltak dersom det er vesentlige forskjeller mellom de kvalifikasjonene vedkommende har fra annen EØS-stat og de som kreves i vertslandet. Reglene om utligningstiltak er tatt inn i forskrift om godkjenning av yrkeskvalifikasjoner §§ 3-4 til 3-6, jf. forskriftshjemmelen i lovens § 8 siste ledd.
+
+Det er bare ved vesentlige forskjeller i kvalifikasjonene at godkjenningsmyndighetene kan kreve utligningstiltak. Utligningstiltakene er som hovedregel enten et krav til en prøveperiode på inntil tre år eller en egnethetstest. En prøveperiode kan også inneholde et krav om at søker gjennomfører kurs eller annen videreutdanning. Poenget med en prøveperiode er at yrkesutøveren skal prøves i de manglene som gjennomgangen av kvalifikasjonene har funnet. Prøveperioden skal etterfølges av en vurdering av om yrkesutøveren har tilegnet seg den manglende kunnskapen. Dersom prøveperioden viser at yrkesutøveren ikke har tilegnet seg kunnskapen, kan søknaden om yrkesgodkjenning avslås. En søknad vil også kunne bli avslått dersom yrkesutøveren ikke består en pålagt egnethetsprøve.
+
+Som hovedregel kan en yrkesutøver fra EØS selv velge mellom prøveperiode og egnethetstest. For yrker hvor utøvelsen krever særskilt kunnskap til nasjonal rett, kan imidlertid godkjenningsmyndighetene bestemme hvilket utligningstiltak som skal pålegges. Det samme gjelder der det er en forskjell mellom utdanningsnivået til søkeren og de kravene som stilles i Norge på mer enn to nivåer.
+
+Godkjenningsmyndigheten skal tilby egnethetsprøve innen seks måneder. Det er ikke krav om at det er godkjenningsmyndigheten som gjennomfører prøven. Den kan settes ut til andre, for eksempel en utdanningsinstitusjon eller en organisasjon. Når det gjelder prøveperiode, må yrkesutøveren få informasjon om hvor dette kan gjennomføres, og om det skal være en vurdering etter gjennomført periode. Det forutsettes at det ikke skal være så vanskelig å få gjennomført en prøveperiode at det reelt sett ikke er et alternativ. Videre bør det være mulig å gjennomføre prøveperioden flere steder i landet. Departementet gjør oppmerksom på at det etter yrkeskvalifikasjonsloven er godkjenningsmyndigheten som skal finansiere utligningstiltak. Men det kan kreves at en yrkesutøver som søker yrkesgodkjenning, må dekke utgiftene gjennom et gebyr.
+
+Bestemmelsene om utligningstiltak gjelder ikke for yrkesutøvere med kvalifikasjoner fra tredjeland. For disse søkerne vil det variere om godkjenningsmyndigheten tilbyr utligningstiltak.
+
+#### Høringsforslaget
+
+Departementet foreslo at yrkesutøver med yrkeskvalifikasjoner fra tredjeland ikke skal ha rett til utligningstiltak i tilfeller der det er fastslått vesentlige forskjeller mellom de kravene som stilles i Norge og søkerens samlede kompetanse. I slike tilfeller skal godkjenningsmyndighetene i stedet opplyse om tiltak som prøveperiode, egnethetstest eller kompletterende utdanning, dersom slike tiltak er tilgjengelige, anses som hensiktsmessige og vil utligne de vesentlige forskjellene.
+
+I høringsnotatet drøftet departementet om reglene om utligningstiltak skulle gjelde for personer med yrkeskvalifikasjoner fra tredjeland, uavhengig av om vedkommende hadde oppholdstillatelse i Norge. Departementet ba om høringsinstansenes syn på om reglene bare bør gjelde for personer som allerede oppholder seg i Norge med gyldig oppholdstillatelse, eller om det ikke bør settes krav til gyldig oppholdstillatelse.
+
+I tilfeller der det gis en mulighet til å gjennomføre en prøveperiode, foreslo departementet at denne ble begrenset til maksimalt to år. Begrensningen på to år hadde sin bakgrunn i reglene om oppholdstillatelse for studenter etter utlendingsforskriften § 6-19 tredje ledd. Det følger av bestemmelsen at utlendinger som har kompetanse som faglært og som trenger tilleggsutdanning eller praksis for å få den nødvendige godkjenningen av utdanningen i Norge, kan få studietillatelse i til sammen to år.
+
+Departementet foreslo videre at det for personer med kvalifikasjoner fra tredjeland skulle gjøres unntak fra regelen om at søker selv kan velge mellom prøveperiode og egnethetsprøve.
+
+Videre foreslo departementet at dersom det foreligger vesentlige forskjeller mellom de kravene som stilles i Norge og søkerens samlede kompetanse, så kunne godkjenningsmyndigheten avslå søknader fra personer med yrkeskvalifikasjoner fra tredjeland.
+
+Departementet foreslo videre å forskriftsfeste at de særlige kravene til begrunnelse som gjelder ved vedtak om utligningstiltak etter forskriften § 3-6, skal gjelde tilsvarende for søkere med kvalifikasjoner fra tredjeland.
+
+Det ble foreslått at bestemmelsene skulle gis i ved endringer i forskrift om godkjenning av yrkeskvalifikasjoner §§ 3-4 og 3-5, med hjemmel i yrkeskvalifikasjonsloven § 8.
+
+#### Høringsinnspill
+
+*KS* mener det må være en forutsetning at søkeren skal kunne pålegges utligningstiltak der det foreligger vesentlige forskjeller mellom søkerens utdanning og de kravene som stilles i Norge, for eksempel krav til praksis i utdanningen.
+
+*EL og IT Forbundet* mener at det må kreves praksisperiode og teoretisk oppdatering for alle søkerne som ikke kan dokumentere nødvendig formell utdanning og yrkespraksis hvis forslaget blir vedtatt. *Elektromontørenes forening Oslo og Akershus (EMF)* mener at yrkesutøver må bestå en egnethetstest som bransjeorganisasjonene (EL og IT Forbundet og NELFO) skal utarbeide innholdet i.
+
+*LO Norge* uttaler at dersom Norge mangler arbeidskraft innen enkelte yrker og ikke selv er i stand til å utvikle nødvendig kompetanse, vil ulike utligningstiltak kunne bidra på kort sikt. Ved liten differanse i kompetansekravene vil eksempelvis pålegg om yrkesprøve eller egnethetstest kunne benyttes. Også ved mindre differanse i de formelle kvalifikasjonene enn det direktivet oppstiller, bør man kunne vurdere slike krav. Arbeidslivet endres raskt og ulikt, og endringene fanges ikke alltid opp av nasjonale utdanninger. *LO Norge* påpeker at når det foreligger vesentlige forskjeller mellom de kravene som stilles i Norge og søkerens samlede kompetanse, så ikke bare kan, men skal godkjenningsmyndigheten avslå søknader fra personer fra tredjeland.
+
+*Direktoratet for samfunnssikkerhetog beredskap (DSB)* stiller spørsmål ved at kravet om oppholdstillatelse i Norge nevnes i denne bestemmelsen, og ikke i bestemmelsene om lovens og forskriftens virkeområde. Dersom kravet om oppholdstillatelse i Norge først nevnes i forbindelse med prinsippet om utligningstiltak, vil vi uansett måtte behandle søknaden etter dette regelverket uavhengig av hvor personen befinner seg. Hvis det ikke kreves gyldig oppholdstillatelse for å få behandlet søknader etter dette regelverket, vil det kunne medføre et økt antall ikke-reelle søknader. Dette vil gi økte kostnader i forbindelse med innhenting og evaluering av innsendt dokumentasjon. Dette stemmer ikke godt med intensjonen bak de foreslåtte endringene, som er å få personer i Norge raskere i arbeid. *DSB* mener dermed at alternativet om at yrkesutøveren skal ha oppholdstillatelse i Norge bør flyttes til bestemmelsene om lovens og forskriftens virkeområde. Videre mener *DSB* at prøveperioden ikke bør begrenses til to år for tredjelandsborgere.
+
+*Nasjonal kommunikasjonsmyndighet (Nkom)* har få søkere med utenlandsk utdanning. Det anses som lite hensiktsmessig å lage tilpassede opplæringstiltak for de søkerne som mangler kvalifikasjoner for å bli kvalifisert person. For de aller fleste søkerne vil mangel på fordypning i ekomfag være årsaken til at de ikke oppfyller forskriftens kompetansekrav som kvalifisert person. Etter fast praksis vil det i avslagsvedtaket da vises til at slik kompetanse kan oppnås ved å gjennomføre fagskolens fordypningskurs i ekom.
+
+*Statens vegvesen* uttaler at for yrkene trafikklærer og faglig leder for trafikkskole følger det av trafikkopplæringsforskriften at godkjenning av yrkeskvalifikasjoner fra tredjeland forutsetter bestått egnethetsprøve og åpning for å ilegge en prøveperiode ved ytterligere behov. Vegvesenet anbefaler av den grunn at det vurderes mulighet for godkjenningsmyndighetene til å kunne kreve egnethetsprøve som en kvalitetssikring. Denne løsningen gir søkeren større mulighet til å få godkjenning, samtidig som godkjenningsmyndighetene sikrer at vedkommende innehar gode nok kvalifikasjoner. Statens vegvesen mener det er hensiktsmessig at det stilles krav om at bestemmelsen om utligningstiltak gjelder for dem med oppholdstillatelse i Norge. Det begrunnes med at flere vil søke godkjenning hvis forslaget gjennomføres.
+
+*Kartverket* stiller spørsmål om de foreslåtte endringene kan og vil føre til at flere personer fra tredjeland vil søke om yrkesgodkjenning. Dette kan i så fall være et argument for at opplysningene om utligningstiltak bare bør gjelde for dem med oppholdstillatelse. På den andre siden må det etter Kartverkets oppfatning utvikles løsninger for å framskaffe informasjon om søkerens oppholdstillatelse. Det er i tillegg uklart for Kartverket hvorvidt dette vilkåret vil ha innvirkning på den totale mengden av søknader som godkjenningsmyndighetene vil motta fra personer med yrkeskvalifikasjoner fra tredjeland. Søknadene vil uansett måtte behandles, enten de omfatter informasjon om utligningstiltak eller ikke. Det er dermed ikke åpenbart at den samlede arbeidsmengden vil bli vesentlig annerledes ved det ene alternativet sammenlignet med det andre.
+
+Det er bare *Direktoratet for mineralforvaltning* som støttet alternativet om ikke å kreve oppholdstillatelse i Norge som vilkår for at ansvarlig myndighet skal opplyse om mulige utligningstiltak.
+
+#### Departementets vurdering
+
+Departementet opprettholder forslaget om at godkjenningsmyndigheten skal opplyse om utligningstiltak dersom de er tilgjengelige, anses hensiktsmessige og kan utligne den vesentlige forskjellen. Departementet vil regulere dette i forskrift med hjemmel i yrkeskvalifikasjonsloven § 8.
+
+Departementet vil understreke at det ikke legges opp til plikt for godkjenningsmyndighetene til å etablere utligningstiltak. Forslaget er bare at godkjenningsmyndighetene skal opplyse om utligningstiltak, dersom de finnes, er hensiktsmessige og kan utligne de vesentlige forskjellene.
+
+Forslaget fra EL og IT Forbundet at det må kreves praksisperiode og teoretisk oppdatering for alle søkerne som ikke kan dokumentere nødvendig formell utdanning og yrkespraksis, er etter departementets vurdering for strengt. Departementet mener at dette vil bryte med prinsippet om å legge de helhetlige yrkeskvalifikasjonene til grunn og at det skal være en individuell vurdering i hvert enkelt tilfelle.
+
+LO Norge foreslår at søknaden skal avslås ved vesentlige forskjeller. Departementet er ikke enig i dette, og opprettholder forslaget om å legge til grunn prinsippet i yrkeskvalifikasjonsloven om at yrkesutøvere fra tredjeland i slike tilfeller bør opplyses om hvordan vedkommende kan utligne disse forskjellene. Det bør ikke være et krav at søknaden skal avslås.
+
+På den annen side ser departementet at det ikke alltid finnes tilgjengelige utligningstiltak som det kan opplyses om. Departementet opprettholder derfor forslaget om at godkjenningsmyndigheten kan avslå søknaden dersom det er vesentlige forskjeller i kvalifikasjonene.
+
+Departementet er ikke enig med innspillet om at det bør kunne vurderes krav om utligningstiltak også ved mindre vesentlige forskjeller i kvalifikasjonene. Dette ville bryte med prinsippet i loven om at det er ved vesentlige forskjeller det skal vurderes utligningstiltak. Ulik terskel for kvalifikasjoner fra henholdsvis EØS og tredjeland, ville gjøre godkjenningsmyndighetenes arbeid mer komplisert. Departementet kan uansett ikke se at det foreligger hensyn som taler for en annen terskel i disse sakene.
+
+Departementet vil i forbindelse med utarbeidelse av forskriftsbestemmelsene vurdere forslaget fra Statens vegvesen om at en yrkesutøver i gitte tilfeller må bestå en egnethetsprøve og en prøveperiode.
+
+Bare en høringsinstans uttalte at det ikke bør stilles krav om oppholdstillatelse for at reglene om utligningstiltak skal komme til anvendelse. Et argument for å kreve oppholdstillatelse er at personer med oppholdstillatelse allerede oppholder seg i Norge. Det er viktig at disse kommer raskt i arbeid. Dette kan tale for at de bør behandles likt som søkere fra EØS-stater. Et annet argument, trukket fram av blant annet Statens vegvesen, er at et krav om oppholdstillatelse kan forebygge at godkjenningsmyndighetene får et økt antall søknader fra personer som ikke er reelle søkere, og ikke har til hensikt å etablere seg i Norge. Det blir spørsmål om det er hensiktsmessig å bruke ressurser på å vurdere utligningstiltak for søkere som ikke har oppholdstillatelse i Norge, og heller ikke tilknytning til landet.
+
+Departementet er på denne bakgrunn kommet til at bestemmelsene om utligningstiltak bør forbeholdes personer med oppholdstillatelse i Norge. I høringsnotatet ble det lagt til grunn at et slikt krav ville innebære at godkjenningsmyndighetene må etablere et system for kontroll av gyldig oppholdstillatelse. Departementet vil understreke at utgangspunktet for forslagene i denne proposisjonen er at dokumentasjonsplikten er lagt til søkeren, se punkt 5.5.5. Det innebærer at det er søkeren som må dokumentere oppholdstillatelse. Det følger dessuten av Utlendingsdirektoratets retningslinjer at opplysninger om hvorvidt en person har oppholdstillatelse ikke er taushetsbelagte. Slike opplysninger kan innhentes elektronisk fra utlendingsmyndighetene.
+
+Både DSB og Kartverket mener at kravet om oppholdstillatelse bør gjelde generelt for godkjenningsordningen og ikke bare knyttes til utligningstiltak. Departementet er ikke enig i dette. Departementet viser i denne sammenhengen til utlendingsforskriften § 6-1 og reglene om oppholdstillatelse til faglærte. I første ledd bokstav b kan en arbeidstaker få oppholdstillatelse dersom det foreligger godkjenning eller autorisasjon fra relevant fagmyndighet i yrker hvor det er kvalifikasjonskrav i lov eller forskrift. Etter departementets vurdering vil et krav om oppholdstillatelse før personen kan vurderes etter yrkeskvalifikasjonsloven undergrave dette systemet.
+
+DSB mener at prøveperioden ikke skal begrenses til to år for tredjelandsborgere. Departementet viser til at det følger av utlendingsforskriften § 6-19 tredje ledd at utlendinger som har kompetanse som faglært og som trenger tilleggsutdanning eller praksis for å få den nødvendige godkjenningen av utdanningen i Norge, kan få studietillatelse i til sammen to år. Dette gjør at prøveperioden maksimalt bør settes til to år for tredjelandsborgere. Departementet vil vurdere forslagene i senere forskriftsarbeid.
+
+Departementet mener at en naturlig følge av ovennevnte regler, vil være at en yrkesutøver ikke kan gis rett til å velge mellom ulike utligningstiltak. Departementet vil derfor følge opp forslaget om å fastsette unntak fra valgfriheten i forskrift.
+
+I forbindelse med forskriftsarbeidet vil departementet også følge opp forslaget om at de særlige kravene til begrunnelse som gjelder ved vedtak om utligningstiltak etter forskriften § 3-6, skal gjelde tilsvarende for søkere med kvalifikasjoner fra tredjeland. Departementet vil påpeke at forslaget innebærer et utvidet krav til begrunnelse sammenlignet med forvaltningsloven. Det må komme klart fram ikke bare hvilke mangler som foreligger, men også hvordan yrkesutøveren kan utligne disse manglene.
+
+#### Departementets forslag
+
+Departementet foreslår som omtalt i punkt 5.5.6 at § 8 gjøres gjeldende også for denne gruppen. Departementet vil regulere i forskrift at godkjenningsmyndigheten skal opplyse om utligningstiltak dersom de er tilgjengelig, anses hensiktsmessige og kan utligne den vesentlige forskjellen.
+
+### Delvis adgang
+
+#### Dagens regler
+
+Yrkeskvalifikasjonsloven § 8 tredje ledd gir hjemmel for å gi forskrift om at en yrkesutøver fra EØS med yrkeskvalifikasjoner fra annen EØS-stat kan få godkjenning til å utøve deler av de oppgavene som er yrkesregulert i Norge. Slike regler er gitt i forskriften § 3-7. Se omtale av temaet delvis adgang i punkt 5.4.7.
+
+Godkjenning etter disse reglene innebærer at yrkesutøveren har full adgang til det norske arbeidsmarkedet, men bare har rett til å utøve deler av de oppgavene eller yrkesaktivitetene som er regulert i Norge. For at yrkesutøveren skal få delvis adgang, må yrkesutøveren være fullt ut kvalifisert til å utøve yrket i hjemstaten. Forskjellen mellom yrkesutøverens kvalifikasjoner og de kvalifikasjonene som kreves i Norge må være så store at yrkesutøveren må ta hele utdanningen på nytt, og yrkesaktiviteten må kunne skilles ut fra andre aktiviteter som hører inn under det regulerte yrket i Norge.
+
+For personer med yrkeskvalifikasjoner fra tredjeland er det i dag ikke bestemmelser om eller praksis for å gi godkjenning for delvis adgang til et yrke.
+
+#### Høringsforslaget
+
+Departementet foreslo at reglene for delvis adgang også skulle gjelde for tredjelandsborgere.
+
+#### Høringsinnspill
+
+Få høringsinstanser uttalte seg om forslaget.
+
+*KS* stiller seg bak behovet for effektive ordninger for godkjenning av utenlandsk utdanning og yrkeskvalifikasjoner. De påpeker likevel at en delvis adgang til et yrke, hvor yrkesutøveren skal utøve dette i tråd med yrkestittel fra hjemstaten, i noen tilfeller vil kunne være utfordrende. Hvordan unntaksbestemmelsene utformes og praktiseres i henhold til forskrift, vil kunne få stor betydning.
+
+*EL og IT Forbundet og Elektromontørenes forening Oslo og Akershus (EMF)* er mot at det skal gis delvis adgang i yrker innen elektrofagene. De begrunner dette med at i Norge er det et viktig prinsipp at elektrofagarbeidere har kompetanse på og behersker hele fagområdet for å ivareta sikkerheten for menneskers og dyrs liv og helse. En elektrofagarbeider i Norge er en selvstendig fagarbeider som kan alt fra planlegging av arbeidet via utførelse og til og med sluttkontroll av et anlegg. Ingen deler av dette kan sees på som en utskilt del av arbeidet. Å åpne for delvis adgang vil være en fragmentering av faget. Etter deres mening vil dette gi en forringelse av el-sikkerheten i samfunnet og for vanlige borgere. *LO Norge* støtter ikke forslaget og har samme begrunnelse som EL og IT Forbundet.
+
+*Direktoratet for samfunnssikkerhetog beredskap (DSB)* støtter ikke forslaget. DSB begrunner dette med at på elsikkerhetsområdet er yrkesaktivitetene og yrkestitlene til faglig ansvarlig regulert i forskrift om elektroforetak og kvalifikasjonskrav for arbeid knyttet til elektriske anlegg og elektrisk utstyr. Her fastsettes strenge krav til foretak og personer som utfører eller tilbyr å utføre arbeid knyttet til elektriske anlegg og elektrisk utstyr. Meningen er at arbeidet ikke fører til skade på liv, helse eller materielle verdier. Direktoratet viser til at personer som er omfattet av EØS-avtalen og som ønsker å utøve et yrke regulert i denne forskriften, skal få vurdert sine yrkeskvalifikasjoner i samsvar med bestemmelsene gitt i eller i medhold av yrkeskvalifikasjonsloven. Tredjelandsborgere som ønsker å videreføre sitt yrke fra utlandet må kunne fremlegge dokumentasjon på tilnærmet de samme kvalifikasjonskravene som fremgår av forskrift om elektroforetak nevnt ovenfor. Yrkestitlene til personer med fagbrev er regulert i annet regelverk. *DSB* er derfor svært restriktive med å gi personer omfattet av EØS-avtalen delvis adgang til et yrke regulert av forskriften. Direktoratet ønsker derfor ikke at reglene for delvis adgang til et yrke skal gjelde for personer med yrkeskvalifikasjoner fra tredjeland.
+
+*NOKUT* mener at godkjenningsmyndigheten skal pålegges å informere om muligheten for søkeren til å søke om delvis adgang.
+
+#### Departementets vurdering
+
+Formålet med reglene om delvis adgang er å legge til rette for at yrkesutøvere kan utøve et yrke de er fullt ut kvalifisert til å utøve i hjemstaten, uten å måtte ta hele utdanningen på nytt i Norge. Dette hensynet veier tungt, også for yrkesutøvere med kvalifikasjoner fra tredjeland
+
+Departementet er enig i at det kan være vanskelig å vurdere om yrkesutøvere skal gis delvis adgang til å utøve et yrke. Samtidig vil departementet vise til at reglene om delvis adgang til et yrke bygger på en del forutsetninger: Blant annet må yrkesutøveren være fullt ut kvalifisert til å utøve yrket i hjemstaten, og de aktuelle delene av yrkesaktiviteten må klart kunne skilles ut fra annen yrkesaktivitet. Dersom disse vilkårene ikke er oppfylt for et yrke eller en søker, er delvis adgang ikke aktuelt. Det er også et poeng at i de tilfellene en yrkesutøver får delvis adgang til et yrke, skal yrkesutøveren tydeliggjøre omfanget av egen yrkesaktivitet overfor mottakeren av tjenesten. Videre skal yrkesutøveren benytte yrkestittelen fra hjemstaten og ikke i Norge. Dette gjør at mottakeren av tjenesten vil være klar over hvilke begrensninger som gjelder for den aktuelle yrkesutøveren.
+
+Departementet foreslår at det gis adgang, men ikke rett, til å bli vurdert etter reglene om delvis adgang for yrkesutøvere med kvalifikasjoner fra tredjeland. Dette vil gjøre det mulig for godkjenningsmyndighetene å benytte delvis adgang der det anses hensiktsmessig. Dette kan bidra til å oppfylle formålet om å legge til rette for at yrkesutøvere kan utøve et yrke de er fullt ut kvalifisert til å utøve i hjemstaten, uten å måtte ta hele utdanningen på nytt i Norge.
+
+Departementet vil påpeke at ordningen om delvis adgang først og fremst er relevant for de som allerede oppholder seg og bor i Norge. Dette er tilfellet fordi en tredjelandsborger som bor utenfor EØS må søke om faglærttillatelse etter utlendingsforskriften § 6-1 før ankomst til Norge for å jobbe. Det vil være vanskelig å gi faglærttillatelse til personer som får delvis adgang til yrke.
+
+Det understrekes videre at ordningen med delvis adgang er en kan-regel, som ikke gir utøver rett til slik godkjenning. Dette ivaretar hensynet til at delvis adgang ikke alltid vil være hensiktsmessig, jf. høringsinnspillene om dette. Ordningen er videre avhengig av at yrkesutøveren selv søker om delvis adgang, da godkjenningsmyndigheten ikke plikter å vurdere delvis adgang av eget tiltak.
+
+Departementet ser ikke grunn til å forskriftsfeste et krav om at godkjenningsmyndighetene skal opplyse om at yrkesutøveren kan søke om delvis adgang til yrket. Plikten til å gi informasjon om dette i tilfeller der det er relevant vil følge av veiledningsplikten etter forvaltningsloven.
+
+#### Departementets forslag
+
+Departementet foreslår at prinsippet om delvis adgang gjennomføres for yrkesutøvere med kvalifikasjoner fra tredjeland ved at yrkeskvalifikasjonsloven § 8 gjøres gjeldende også for denne gruppen, bestemmelsens tredje ledd. Departementet vil regulere kriteriene for delvis adgang til å utøve et yrke i forskrift, jf. § 8 fjerde ledd.
+
+### Språkkrav
+
+#### Dagens regler
+
+Det er et krav i yrkeskvalifikasjonsloven § 15 om at yrkesutøver fra EØS-stat som får godkjenning av sine yrkeskvalifikasjoner fra annen EØS-stat, skal ha nødvendige språkkunnskaper for å kunne utøve yrket. Nærmere bestemmelser er gitt i forskriften § 8-3. Bestemmelsene gjennomfører yrkeskvalifikasjonsdirektivets bestemmelser om språkkrav. Se omtale om dette i punkt 5.4.8.
+
+Språkkunnskapene trenger ikke å foreligge på godkjenningstidspunktet. Det vil si at godkjenningsmyndighetene kan gi en godkjenning, men sette vilkår om at yrkesutøveren ikke kan starte i yrket før vedkommende har tilegnet seg de nødvendige språkkunnskapene.
+
+Etter yrkeskvalifikasjonsloven kan godkjenningsmyndigheten kontrollere yrkesutøverens språkkunnskaper dersom det foreligger alvorlig og konkret tvil om yrkesutøverens språkkunnskaper. Det er ikke noe krav i loven om at kontroll gjennomføres eller at dette gjøres av godkjenningsmyndighetene.
+
+For enkelte yrker kan det være naturlig at en arbeidsgiver vurderer språkkunnskapene til yrkesutøveren som en del av ansettelsesprosessen. I yrker hvor yrkesutøveren arbeider selvstendig, vil det imidlertid ikke være noen arbeidsgiver som kan kontrollere språkkunnskapene.
+
+For søkere med kvalifikasjoner fra tredjeland er det ingen generelle bestemmelser om språkkrav. For enkelte yrker er det satt krav til språkferdigheter for å kunne utøve yrket. Det varierer mellom ulike yrker om kravet til språkkompetanse stilles som en del av godkjennings- eller ansettelsesprosessen. Kravene kan være begrunnet i samfunnssikkerhet eller at språkferdigheter er en sentral del av oppgavene i yrket. For eksempel er språkopplæring av barn en sentral del av arbeidsoppgavene til pedagogisk leder i barnehage.
+
+#### Høringsforslaget
+
+Departementet foreslo at de samme kravene til språkkunnskaper skulle gjelde for personer med yrkeskvalifikasjoner fra tredjeland.
+
+Departementet foreslo at kontroll av språkkunnskaper skulle skje etter at yrkeskvalifikasjonene var vurdert. Det er de samme reglene som for søkere fra EØS-stater med kvalifikasjoner derfra.
+
+Det ble foreslått å lovfeste i § 2 at § 15 om språkkrav skal gjelde tilsvarende for søkere med kvalifikasjoner fra tredjeland. I tillegg ble det foreslått en tydeliggjøring i forskriftshjemmelen i § 15.
+
+#### Høringsinnspill
+
+Ingen høringsinstanser er uenige i forslaget om at det skal stilles språkkrav. *KS* mener muligheten til å stille språkkrav for utøvelse av visse yrker er helt nødvendig. I kommunal sektor rekrutteres det utenlandsk arbeidskraft både i oppvekstsektoren og helsesektoren hvor det er avgjørende at søker har tilstrekkelige språkkunnskaper og evner å drive forsvarlig yrkesutøvelse. Det er viktig å presisere at språkkravet ikke fratar arbeidsgiveren plikten til å sjekke at arbeidstakeren har gode nok språkkunnskaper eller arbeidstakerens plikt til å ha tilstrekkelig kompetanse. *KS* støtter at det som hovedregel ikke stilles språkkrav i godkjenningsprosessen, under forutsetning av at arbeidsgiveren fortsatt har ansvaret for å vurdere nødvendig språkkompetanse ved ansettelse. Søkeren kan dermed få vite om vedkommende kvalifiserer til yrkesutøvelse mens språkopplæringen fortsatt pågår.
+
+Flere instanser har merknader til forslaget om at språkkravet skal være et vilkår for yrkesutøvelse, men ikke for yrkesgodkjenningen i seg selv. *EL og IT Forbundet* påpeker at for å kunne jobbe i elektrobransjen er det viktig å kunne kommunisere både skriftlig og muntlig. Kommunikasjon med andre på byggeplassen eller hos kunder er en forutsetning for egen og andres sikkerhet. Mye av regelverket som benyttes finnes bare på norsk, og tegninger og dokumentasjon utgis på norsk. Eventuelle praktiske og teoretiske prøver og praksisperioder vil også foregå på norsk. *EL og IT Forbundet* mener at det derfor må kunne stilles språkkrav før søknaden blir godkjent.
+
+*Elektromontørenes forening Oslo og Akershus (EMF)* uttaler at kravet om å kunne gjøre seg forstått språklig ikke er ivaretatt i dagens praktisering av godkjenningsordning. Foreningen mener at en majoritet av DSB-godkjente elektrofolk i Oslo og Akershus ikke kan gjøre seg forstått verken på engelsk eller norsk. Dette gjør at det ikke er uvanlig med store misforståelser på arbeidsplassene, noe som igjen fører til feilmontasje og feilkoblinger. Dette er etter foreningens oppfatning et stort sikkerhetsproblem både under arbeid med elektriske anlegg og for forbrukeren.
+
+*Legeforeningen* mener at det er uheldig at språkkrav knyttet til enkelte yrker ikke forskriftsfestes som vilkår for godkjenning. I flere yrker, spesielt for helsepersonell, er språket svært viktig i yrkesutøvelsen. For å kunne praktisere mange yrker forsvarlig, er det ofte helt nødvendig å kommunisere på norsk. Tilfredsstillende norskkunnskaper, muntlig og skriftlig, må derfor sees på som en yrkeskvalifikasjon i en del yrker. Det er derfor uheldig at det totale ansvaret for språkkrav legges til arbeidsgiveren. Legeforeningen mener at det derfor bør forskriftsfestes at språkkunnskaper skal inngå som en del av vurderingsgrunnlaget ved godkjenning av yrkeskvalifikasjoner for yrker som har slike krav.
+
+*Justis- og beredskapsdepartementet* antar at forskriftshjemlene allerede i dag gir hjemmel for å gi forskrift om krav til og kontroll av språkkunnskaper for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
+
+#### Departementets vurdering
+
+Som nevnt over er ingen høringsinstanser uenige i at det skal stilles språkkrav. Uenigheten knytter seg til spørsmålet om språkvurderingen skal skje etter at yrkeskvalifikasjonene er vurdert, men før yrkesutøveren får adgang til å utøve yrket eller om den skal skje samtidig med vurderingen av yrkeskvalifikasjonene. Spørsmålet knytter seg med andre ord ikke til hvilke språkkrav som stilles, men nærmere bestemt spørsmålet om på hvilket tidspunkt språkvurderingen skal foretas.
+
+For eksisterende målgruppe i yrkeskvalifikasjonsloven skal eventuell språkvurdering gjøres etter at yrkeskvalifikasjonene er vurdert, men før yrkesutøveren får adgang til å utøve yrket. Dette er i henhold til direktivets krav, og vil si at en yrkesutøver kan være godkjent, men må ha tilfredsstillende språkkunnskaper før vedkommende kan starte sin virksomhet. Fordelen med en slik regel er at yrkesutøveren får yrkesgodkjenning raskt, og dermed vet at det vil være mulig å søke relevant jobb når språkferdighetene er på plass. På den andre siden kan det innebære en kommunikasjonsutfordring for godkjenningsmyndighetene å sikre at yrkesutøveren forstår at han eller hun har fått en godkjenning, men ikke en reell adgang til å utøve yrket. Uansett er en annen fordel at det er enklere for godkjenningsmyndighetene å ha et regelverk å forholde seg til for alle som omfattes av loven.
+
+Departementet opprettholder sitt syn om at det skal gjelde samme regler til språkkrav og til når eventuell språkvurdering skal foretas både for yrkesutøvere med kvalifikasjoner fra tredjeland som for dem som i dag omfattes av loven.
+
+Departementet vil i denne sammenhengen vise til at eventuelle utligningstiltak som oftest vil foregå på norsk, noe som innebærer at yrkesutøvere må ha et visst nivå på sine språkkunnskaper før utligningstiltak vil anses hensiktsmessige og kunne bli gjennomført.
+
+Departementet er enig i merknaden fra Justis- og beredskapsdepartementet om at dagens hjemmel i § 15 til å gi forskrift om krav til og kontroll av språkkunnskaper også vil omfatte yrkesutøvere med kvalifikasjoner fra tredjeland og at det derfor ikke er nødvendig med presiseringer i forskriftshjemmelen.
+
+#### Departementets forslag
+
+Departementet foreslår at yrkeskvalifikasjonsloven § 2 endres slik at § 15 om språkkrav gjelder tilsvarende for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
+
+### Bruk av akademisk tittel og yrkestittel
+
+#### Dagens regler
+
+Yrkeskvalifikasjonsloven skiller mellom akademisk tittel og yrkestittel. Hovedregelen er at en yrkesutøver som er godkjent har rett til å benytte hjemstatens akademiske tittel. Samtidig skal en som er godkjent etter loven benytte norsk yrkestittel, jf. yrkeskvalifikasjonsloven § 16 og forskriften § 8-4. Disse bestemmelsene gjennomfører yrkeskvalifikasjonsdirektivets bestemmelser om dette temaet.
+
+Dette harmonerer med gjeldende praksis ved godkjenning av yrkeskvalifikasjoner fra tredjeland. Den som blir godkjent skal benytte norsk yrkestittel uansett hvor yrkeskvalifikasjonene kommer fra. Dette gjelder både for søkere fra EØS og de utenfor EØS.
+
+Departementet vil understreke at dersom den akademiske tittelen på hjemstatens språk kan forveksles med en norsk tittel hvor det kreves en tilleggsutdanning som yrkesutøveren ikke har, kan godkjenningsmyndigheten kreve at yrkesutøver benytter akademisk tittel fra hjemstaten i en form som gjør at titlene ikke forveksles med norske titler.
+
+#### Høringen
+
+Departementet foreslo i høringsnotatet at bestemmelsen i yrkeskvalifikasjonsloven om bruk av akademisk tittel og yrkestittel skal gjelde tilsvarende for personer med yrkeskvalifikasjoner fra tredjeland. Det ble foreslått å lovfeste i § 2 at § 16 skal gjelde tilsvarende for søkere med kvalifikasjoner fra tredjeland. Det var ingen høringsinstanser som hadde innspill til forslaget.
+
+#### Departementets vurderinger
+
+Departementet opprettholder forslaget om at yrkesutøvere som er godkjent etter direktivet, skal ha rett til å benytte hjemstatens akademiske tittel. Samtidig skal en som er godkjent etter loven benytte norsk yrkestittel.
+
+Dette innebærer ingen endring sammenlignet med gjeldende praksis. Den som får sine yrkeskvalifikasjoner godkjent i Norge, skal benytte norsk yrkestittel uansett hvor yrkeskvalifikasjonene kommer fra. Dette gjelder både for søkere fra EØS og de utenfor EØS.
+
+#### Departementets forslag
+
+Departementet foreslår at yrkeskvalifikasjonsloven § 2 endres slik at § 16 om bruk av akademisk tittel og yrkestittel gjelder tilsvarende for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.

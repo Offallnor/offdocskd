@@ -1,1003 +1,268 @@
-# Prop. 96 L (2019–2020), del 14 av 15 (side 149–160)
+# Prop. 96 L (2019–2020), del 14 av 18
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/f805b4c2-prop-96-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-96-l-20192020/id2699851/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc1ea1a163a5452e9b616b77f4522e63/no/pdfs/prp201920200096000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 149]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Bestemmelsen slår videre fast at styrer skal
-melde fra til barnehageeier i alvorlige tilfeller. Hva
-som er alvorlige tilfeller, vil bero på en skjønnsmessig vurdering ut fra formålet med meldingen.
-Det kan for eksempel dreie seg om barn som har
-utvist voldelig atferd utover oppførsel som det er
-vanlig at små barn ubevisst utøver, eller som på
-andre måter er særlig integritetskrenkende.
-Andre eksempler på alvorlige tilfeller kan være
-forhold som har pågått over lang tid, hvor flere
-barn eller flere voksne har krenket et annet barn,
-eller hvor barnehagens personale og styrer over
-noe tid ikke har klart å løse saken eller bedre barnehagemiljøet. Barnehageeier kan fastsette egne
-rutiner for når barnehagen skal melde fra til eier,
-med en lavere terskel for å gi slik melding enn det
-loven krever. Se omtale av plikten til å melde fra til
-barnehageeier i kapittel 7.7.4.2.
-Styrer kan ikke utsette å melde fra til undersøkelser etter tredje ledd er ferdige. Styrer kan derimot gjøre enkelte undersøkelser dersom disse
-kan gjøres raskt og det er nødvendig for å kunne
-ta stilling til om saken er alvorlig. Dersom styrer
-er i tvil og det kreves grundige undersøkelser for
-å vurdere om saken er alvorlig, skal saken meldes
-til barnehageeier.
-Tredje ledd omhandler barnehagens plikt til å
-undersøke. Det skal gjelde samme lave terskel for
-denne undersøkelsesplikten som for plikten til å
-melde fra etter andre ledd. Barnehagen må legge
-en vid forståelse til grunn ved vurderingen av om
-barn har et trygt og godt barnehagemiljø. Plikten
-til å undersøke trer inn selv om årsaken til at barnet ikke har et trygt og godt barnehagemiljø skyldes forhold eller hendelser som har skjedd utenfor barnehagen eller tilbake i tid.
-Undersøkelsene skal iverksettes snarest. Plikten til å «undersøke saken» innebærer at det må
-hentes inn nok informasjon til å kunne avdekke
-hva som har skjedd, og om ett eller flere barn opplever at barnehagemiljøet ikke er trygt og godt.
-Hvor grundig en mistanke skal undersøkes, må
-vurderes skjønnsmessig og være avhengig av formålet og hva slags situasjon man står overfor.
-Undersøkelsene må ha som formål å få frem fakta
-om en situasjon, bakgrunnen for barnets opplevelse og hvilke forhold i barnets omgivelser som
-påvirker hvordan barnet har det i barnehagen.
-Dette kan kreve at undersøkelsene også handler
-om å avklare og opplyse forhold som har skjedd
-tilbake i tid eller utenfor barnehagetiden og barnehagens område. Det avgjørende er ikke hva
-som er årsaken til at barnet ikke har et trygt og
-godt barnehagemiljø, men hvordan disse forholdene påvirker barnet og hvilke behov barnet har
-
-147
-
-for tilrettelegging i barnehagen. Hvis undersøkelsen viser at det er barn som ikke har et trygt og
-godt barnehagemiljø, eller i saker der barnet selv
-uttrykker dette eller foreldrene har sagt fra, må
-informasjonen som fremkommer i undersøkelsen
-i neste omgang brukes til å vurdere hvilke tiltak
-som skal settes inn. Se også nærmere omtale om
-hvor langt undersøkelsesplikten strekker seg i
-kapittel 7.7.4.2.
-Fjerde ledd innebærer en plikt til å undersøke
-saken og sette inn egnede tiltak dersom et barn
-eller foreldrene sier fra om at barnet ikke har et
-trygt og godt psykososialt barnehagemiljø. Det
-skal ikke stilles strenge krav til hva det er å «si» at
-barnet ikke har det trygt og godt. Det er barnehagens ansvar å fange opp at barnet eller foreldrene
-sier fra om at barnehagemiljøet ikke er trygt og
-godt. Hensikten med undersøkelsen er å få et tilstrekkelig grunnlag til å finne frem til riktige tiltak. Barnehagen skal sette inn tiltak uansett om
-undersøkelsen viser at det etter en helhetlig vurdering ikke har skjedd noen krenkelser mot barnet. Så lenge barnet selv opplever å ikke ha det
-trygt og godt, skal barnehagen sette inn tiltak for
-å hjelpe barnet. Tiltakene kan rette seg mot større
-eller mindre problemer eller miljøutfordringer i
-barnegruppen eller barnehagen. I noen tilfeller
-kan også tiltakene gå ut på å veilede barnet og å
-sette barnet bedre i stand til å håndtere det som
-oppleves vanskelig. Se omtale av plikten til å
-undersøke i kapittel 7.7.4.2.
-Barnehagen har også plikt til å sette inn
-egnede tiltak dersom undersøkelser som barnehagen har utført på eget initiativ, viser at ett eller
-flere barn ikke har et trygt og godt psykososialt
-barnehagemiljø. Dette betyr at barnehagen skal
-sette inn tiltak på eget initiativ, i noen tilfeller også
-dersom barnet selv eller foreldrene ikke har bedt
-om eller ønsker det.
-Plikten til å sette inn tiltak må tolkes utvidende, og omfatter også en plikt til å følge opp tiltakene, evaluere virkningen og eventuelt legge til
-eller endre tiltak dersom det er nødvendig for å nå
-målet. Hvor omfattende evaluering som må gjøres, vil variere ut fra sakens art.
-At tiltakene skal være «egnede», innebærer for
-det første at tiltakene må være lovlige. Plikten er
-derfor begrenset til tiltak som enten ikke krever
-lovhjemmel eller som har lovhjemmel. At tiltakene skal være «egnede», innebærer for det andre
-at de skal kunne føre til at barnet eller barna får et
-trygt og godt psykososialt barnehagemiljø. Tiltakene må tilpasses den konkrete saken, blant annet
-hva som er årsaken til at barnet eller barna ikke
-har et trygt og godt barnehagemiljø.
-
-[Side 150]
-
-148
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-At tiltak skal velges på grunnlag av en «konkret og faglig vurdering», betyr at barnehagen må
-bruke et relevant kunnskapsgrunnlag og i lys av
-både erfaringer, forskningsgrunnlag og den
-lokale konteksten for å finne frem til egnede tiltak.
-Kravet forutsetter at de ansatte har oppdatert og
-tilstrekkelig kompetanse om regelverket, barnehagemiljø og arbeid mot mobbing og andre krenkelser.
-At plikten gjelder «så langt det finnes» egnede
-tiltak, innebærer at barnehagen har plikt til å sette
-inn de egnede tiltakene som finnes, og som er tilgjengelige for barnehagen. Barnehagen må aktivt
-søke etter mulige og egnede tiltak. Ofte vil det
-være behov for flere tiltak i sammenheng for at tiltakene i sum skal være egnet til å løse problemet.
-Tiltakene kan rette seg mot større eller mindre
-problemer eller miljøutfordringer i barnehagen.
-Dersom årsaken til at et barn opplever at barnehagemiljøet ikke er trygt og godt er forhold utenfor
-barnehagetiden og barnehagens område, vil barnehagen ha mer begrenset mulighet til å rette opp
-dette. Men barnehagen skal så langt det finnes
-egnede tiltak sørge for at barnet får et trygt og
-godt barnehagemiljø. Dersom årsaken til at barnet opplever at barnehagemiljøet ikke er trygt og
-godt er forhold utenfor barnehagen, må barnehagen likevel søke etter alle egnede måter å hjelpe
-barnet på. Dette kan være gjennom tiltak som settes inn i barnehagen, men som har effekt utenfor
-barnehagetiden og barnehagens område. I tillegg
-må det vurderes om det er andre instanser barnehagen bør involvere eller melde fra til, for eksempel helsetjenesten, barneverntjenesten eller kommunens oppsøkende tjeneste. Se omtale av plikten
-til å sette inn egnede tiltak i kapittel 7.7.4.2.
-Plikten til å sette inn tiltak varer inntil barnet
-har et trygt og godt psykososialt barnehagemiljø.
-Det innebærer at barnehagens plikt løper så lenge
-barnet opplever at barnehagemiljøet ikke er trygt
-og godt. Aktivitetsplikten oppfylles gjennom at
-barnehagen kontinuerlig vurderer hvilke tiltak
-som er aktuelle, setter inn de tiltakene som etter
-en faglig vurdering anses egnet og stadig evaluerer og eventuelt justerer tiltakene for å sørge for
-at barnet får et trygt og godt barnehagemiljø.
-Dette betyr ikke at barnehagen alltid må sette inn
-det tiltaket som barnet eller foreldrene ønsker.
-Men det betyr at barnehagen må fortsette å prøve
-å hjelpe barnet til å få det bedre i barnehagen. Det
-kan være enkelte tilfeller der barnehagen ikke
-klarer å oppnå at barnet får et trygt og godt barnehagemiljø, fordi det ikke er faglig forsvarlig å
-gjøre det ene tiltaket barnet eller foreldrene
-mener er nødvendig. Men barnehagen kan ikke
-
-2019–2020
-
-slutte å forsøke. Barnehagen må fortsette å gjøre
-det den kan for at barnet skal få et trygt og godt
-barnehagemiljø. Se omtale av når barnehagens
-aktivitetsplikt er oppfylt i kapittel 7.7.4.4.
-Plikten i femte ledd til å lage en plan for tiltakene utløses samtidig som plikten til å sette inn tiltak, jf. fjerde ledd. Omfanget av opplysninger
-under hvert av punktene a) til e) må tilpasses
-saken. En aktivitetsplan behøver ikke å knytte seg
-til ett bestemt barn, men kan ta for seg en situasjon eller utfordring som omfatter flere eller hele
-barnegruppen. Det stilles ikke formkrav til planen
-utover at den skal være skriftlig. Planen er ikke et
-enkeltvedtak etter forvaltningsloven. Forvaltningslovens regler om prosess og innhold kommer derfor ikke til anvendelse. Se departementets
-omtale av krav til dokumentasjon i kapittel 7.7.4.5.
-Til § 43:
-Bestemmelsen er ny, og fastsetter en skjerpet aktivitetsplikt dersom en som arbeider i barnehagen
-krenker et barn. Ordlyden «en som arbeider i barnehagen» i denne bestemmelsen skal forstås tilsvarende som i § 42. Begrepet krenkelse skal forstås tilsvarende som i § 41 første ledd.
-Det gjelder ingen nedre terskel for plikten til å
-melde fra etter første ledd første punktum. Den
-som arbeider i barnehagen, skal melde fra til styrer ved enhver mistanke om eller kjennskap til at
-en annen som arbeider i barnehagen utsetter eller
-har utsatt ett eller flere barn for krenkelser. I
-utgangspunktet er det opp til den ansatte etter en
-konkret vurdering å ta stilling til om det er grunn
-til mistanke om at en som arbeider i barnehagen,
-krenker eller har krenket ett eller flere barn. Men
-det vil alltid gi grunnlag for mistanke dersom ett
-barn selv eller foreldrene sier at det har skjedd. At
-melding skal gis straks, betyr at personalet skal
-melde fra til styrer så raskt som mulig. Første
-ledd andre punktum slår fast at styrer skal melde
-fra til barnehageeier.
-Andre ledd pålegger de som arbeider i barnehagen å melde fra til barnehageeier dersom de
-har mistanke om eller kjennskap til at styrer krenker eller har krenket ett eller flere barn. Det er
-ingen konflikt mellom forvaltningslovens regler
-om taushetsplikt og den skjerpede meldingsregelen her. Ikke alle opplysningene vil være av en art
-som omfattes av taushetsplikten i forvaltningsloven § 13, og taushetsplikten er uansett ikke til hinder for utveksling av opplysninger innad i et forvaltningsorgan når utvekslingen skjer for å utføre
-de oppgavene som opplysningen er innhentet for,
-jf. forvaltningsloven § 13 b. Kanaler for melding til
-
-[Side 151]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-barnehageeier må likevel ha tilfredsstillende
-informasjonssikkerhet slik at kravene i personopplysningsloven ivaretas.
-Tredje ledd slår fast at både undersøkelser og
-tiltak, jf. § 42 tredje og fjerde ledd, skal settes i
-verk straks i tilfeller der det er mistanke om eller
-kjennskap til at en som arbeider i barnehagen,
-krenker eller har krenket ett eller flere barn.
-De øvrige delpliktene og kravene i aktivitetsplikten i § 42 gjelder også i tilfeller hvor ett eller
-flere barn ikke har et trygt og godt barnehagemiljø fordi barnet eller barna blir eller har blitt
-krenket av en som arbeider i barnehagen.
-Se departementets omtale av den skjerpede
-aktivitetsplikten i kapittel 7.7.4.6.
-Til § 48:
-Bestemmelsen er en videreføring av nåværende
-§ 7 andre ledd. Bestemmelsen er endret slik at
-den bruker betegnelsen kommunale barnehager i
-stedet for kommunale barnehageeiere. Bestemmelsen er endret slik at den bruker betegnelsen
-private barnehager i stedet for ikke-kommunale
-barnehageeiere. Dette er en språklig endring som
-følge av at ikke-kommunale barnehager omtales
-som private barnehager i dagligtalen. Betegnelsen private barnehager skal fortsatt omfatte andre
-ikke-kommunale barnehager. Det er gjort enkelte
-andre språklige endringer.
-I bestemmelsen fastsettes det at barnehageeiere må legge frem opplysninger om tjenestedata
-og regnskapsdata. Departementet kan gi nærmere forskrift om dette. Departementet kan også
-gi forskrift om hvem barnehageeiere må legge tjenestedata og regnskapsdata frem for.
-Til § 49:
-Bestemmelsen er en videreføring av nåværende
-§ 7 tredje ledd. Henvisningen er endret til § 10
-fjerde ledd som følge av øvrige endringer.
-Til § 50:
-Bestemmelsen er en videreføring av gjeldende
-§ 23 første og andre ledd. Første ledd andre punktum endres slik at den bruker betegnelsen foreldre, og ikke foresatte. Endringen er kun språklig og innebærer ingen endring av gjeldende rett.
-Endringen er ment å sikre at loven bruker den
-samme betegnelsen når det menes det samme.
-Se departementets merknader i kapittel 7.5.4.
-
-149
-
-Til § 53:
-Første ledd viderefører § 16 første ledd. Det er
-foretatt språklige endringer ved å presisere at
-kommunens tilsyn er å se til at barnehagene drives i samsvar med barnehageloven med forskrifter. Det er gjort unntak for kapittel V med forskrifter siden det er Utdanningsdirektoratet som fører
-tilsyn med disse kravene. Se departementets
-merknader i kapittel 8.3.5.
-Andre ledd viderefører at kommunen kan gi
-pålegg til barnehager om å rette uforsvarlige eller
-ulovlige forhold ved godkjente eller godkjenningspliktige virksomheter. Hvis fristen for å etterkomme pålegget ikke overholdes, eller forholdet
-ikke lar seg rette, kan kommunen vedta tidsbegrenset eller varig stenging av virksomheten.
-Stenging er den mest inngripende reaksjonen og
-kan derfor bare brukes ved gjentatte eller særlig
-alvorlige regelbrudd. Ved vedtak om pålegg om
-retting eller tidsbegrenset eller varig stenging av
-virksomheten, skal kommunen følge saksbehandlingsreglene i forvaltningsloven. Kommunen har
-ikke lenger plikt til å sende vedtak om stenging til
-fylkesmannen til orientering.
-Siden kommunen ikke fører tilsyn med om
-barnehagene oppfyller kravene i kapittel V med
-forskrifter, kan kommunen ikke vedta tilbakehold,
-reduksjon eller tilbakebetaling av tilskudd.
-Tredje ledd er ny og fastslår at foreldrerådet
-skal få mulighet til å uttale seg før kommunen fatter vedtak om stenging.
-Fjerde ledd viderefører bestemmelsen i gjeldende § 8, om at barnehagen skal legge frem alle
-opplysninger som kommunen trenger for å føre
-tilsyn. Det er presisert at barnehagens plikt til å
-legge frem opplysninger gjelder uten hinder av
-taushetsplikt. Barnehagen skal gi kommunen
-adgang til barnehagens lokaler. Adgangen til barnehagens lokaler vil være avhengig av at kommunen trenger det for å føre tilsyn. Bestemmelsen
-bruker begrepet opplysninger i stedet for dokumenter, men dette er ikke ment å være en innholdsmessig endring sammenlignet med gjeldende rett. Retten til innsyn er knyttet til tilsyn,
-noe som heller ikke innebærer en rettslig endring. Bestemmelsen er en presisering av § 10
-femte ledd, som gjelder for alle kommunens myndighetsoppgaver.
-Til § 54:
-Bestemmelsen viderefører nåværende § 9 første
-ledd. Bestemmelsen fastslår at fylkesmannen
-fører tilsyn med kommunens oppfyllelse av plikter
-
-[Side 152]
-
-150
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-som barnehagemyndighet etter §§ 10 og 53, kapittel IV, V og VII med forskrifter. Henvisningene til
-paragrafer og kapitler i loven er endret som følge
-av at det gjøres lovtekniske endringer i loven.
-Endringene innebærer ingen innholdsmessige
-endring sammenlignet med dagens regulering. Se
-merknader i kapittel 8.3.5.
-At fylkesmannen har rett til innsyn i opplysninger og adgang til barnehagelokaler uten hinder av
-taushetsplikt, følger av kommuneloven kapittel 30
-og er derfor ikke tatt med i bestemmelsen. Tilsvarende er fylkesmannens adgang til å gi pålegg om
-retting regulert i kommuneloven kapittel 30.
-Til § 55:
-Første ledd viderefører gjeldende § 9 andre ledd
-om at fylkesmannen i særlige tilfeller kan føre tilsyn med at barnehagene drives i samsvar med
-barnehageloven og tilhørende forskrifter. Det er
-gjort unntak for kapittel V med forskrifter siden
-det er Utdanningsdirektoratet som fører tilsyn
-med disse kravene. Se departementets merknader i kapittel 8.3.5.
-Andre ledd viderefører at fylkesmannen kan gi
-pålegg til barnehager om å rette ulovlige forhold.
-Hvis barnehagen ikke overholder fristen for å
-etterkomme pålegget, eller forholdet ikke lar seg
-rette, kan fylkesmannen vedta tidsbegrenset eller
-varig stenging av barnehagen. Bestemmelsen er
-endret slik at kommunen og foreldrerådet skal få
-mulighet til å uttale seg før fylkesmannen fatter et
-vedtak om stenging. Dette skal bidra til å gi fylkesmannen informasjon om hvordan et vedtak om
-stenging kan påvirke kommunens samlede barnehagetilbud, og om hvordan kommunen og foreldrerådet stiller seg til saken. Fylkesmannens stengingsvedtak skal sendes kommunen til orientering. Siden fylkesmannen ikke fører tilsyn med
-om barnehagene oppfyller kravene i kapittel V
-med forskrifter, kan ikke fylkesmannen vedta tilbakehold, reduksjon eller tilbakebetaling av tilskudd.
-Tredje ledd viderefører at barnehagen skal
-legge frem alle opplysninger som fylkesmannen
-trenger for å føre tilsyn. Det er presisert at barnehagens plikt til å legge frem opplysninger gjelder
-uten hinder av taushetsplikt. Barnehagen skal gi
-fylkesmannen adgang til barnehagens lokaler.
-Adgangen til barnehagens lokaler vil være avhengig av at fylkesmannen trenger det for å føre tilsyn. Bestemmelsen bruker begrepet opplysninger
-i stedet for dokumenter, men dette er ikke ment å
-være en innholdsmessig endring i forhold til gjeldende rett.
-
-2019–2020
-
-Til § 56:
-Bestemmelsen er ny, og oppretter et nasjonalt tilsyn med økonomiske forhold for private barnehager. Første ledd fastslår at Utdanningsdirektoratet
-fører tilsyn med at barnehagene drives i samsvar
-med bestemmelsene i kapittel V med forskrifter
-om økonomiske forhold i private barnehager.
-Bestemmelsen må ses i sammenheng med kommunens tilsynsoppgaver i ny § 53, der kommunen
-fører tilsyn med barnehagenes etterlevelse av
-øvrige lovkrav. Se merknader i kapittel 8.3.5.
-Andre ledd fastslår at Utdanningsdirektoratet
-kan gi pålegg til barnehager om å rette ulovlige
-forhold. Hvis fristen for å etterkomme pålegget
-ikke overholdes, eller forholdet ikke lar seg rette,
-kan Utdanningsdirektoratet vedta tidsbegrenset
-eller varig stenging av virksomheten. Stenging
-kan kun brukes ved gjentatte eller alvorlige brudd
-på regelverket.
-Tredje ledd fastslår at Utdanningsdirektoratet
-kan vedta at tilskudd til barnehagen skal holdes
-tilbake dersom barnehagen har brutt bestemmelser i kapittel V med forskrifter. Det er kommunen
-som forvalter det offentlige tilskuddet til private
-barnehager. Dersom Utdanningsdirektoratet vedtar at tilskuddet til en privat barnehage skal holdes tilbake, må departementet samarbeide med
-kommunen om dette.
-Fjerde ledd fastslår at Utdanningsdirektoratet
-kan vedta at barnehagen skal betale tilskudd tilbake til kommunen dersom barnehagen har brutt
-bestemmelser i kapittel V med forskrifter. Barnehagen kan ikke bruke tilskudd og foreldrebetaling til å dekke denne typen tilbakebetalingskrav.
-Dette er en følge av at tilskudd og egenbetaling
-bare kan belastes kostnader som direkte gjelder
-godkjent drift av barnehagen, jf. ny § 23 første
-ledd. Utdanningsdirektoratets vedtak skal inneholde eventuelle terminer for tilbakebetaling.
-Nåværende § 16 a fastslår at vedtak om tilbakehold eller tilbakebetaling av tilskudd skal stå i
-forhold til regelbruddets art og økonomiske
-betydning. Dette går ikke lenger frem av lovteksten. Dette er ikke ment å innebære en rettslig
-endring. Forvaltningsrettens krav til forholdsmessighet innebærer at dette er en vurdering departementet må gjøre. Omfanget av offentlig tilskudd
-og foreldrebetaling som er misbrukt er et vesentlig kriterium ved utmåling av økonomiske reaksjoner. I tillegg til det økonomiske omfanget kan det
-legges vekt på hvor alvorlig regelbruddet er. Barnehageeier er ansvarlig for driften, inkludert å
-håndtere økonomiske reaksjoner på lovbrudd på
-en måte som ikke rammer barna.
-
-[Side 153]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Femte ledd fastslår at kommunen skal ha rett
-til å uttale seg før Utdanningsdirektoratet fatter
-vedtak om retting, stenging, tilbakehold av tilskudd eller tilbakebetaling av tilskudd. Kommunen er lokal barnehagemyndighet, og Utdanningsdirektoratet må kjenne til kommunens vurdering av hvordan eventuelle vedtak kan slå ut før
-vedtak fattes. Kommunen skal derfor få uttale seg
-før Utdanningsdirektoratet fatter vedtak. Når det
-gjelder tilbakehold av tilskudd, er det kommunen
-som vil måtte gjennomføre vedtaket da det er
-kommunen som forvalter tilskuddene. Det er vedtaket fra Utdanningsdirektoratet og ikke kommunens gjennomføring av vedtaket som er bestemmende for barnehagens plikter, og som eventuelt
-kan påklages.
-Utdanningsdirektoratet vedtak om reaksjoner
-i forbindelse med tilsyn med økonomiske forhold i
-private barnehager skal sendes kommunen til orientering. Se omtale av reaksjoner i kapittel 8.5.5.
-Sjette ledd fastslår at foreldrerådet skal få
-mulighet til å uttale seg før Utdanningsdirektoratet fatter vedtak om stenging.
-Syvende ledd fastslår at barnehagen uten hinder av taushetsplikt skal legge frem alle opplysninger som Utdanningsdirektoratet trenger for å
-føre tilsyn. Dersom Utdanningsdirektoratet i forbindelse med gjennomføring av tilsyn har behov
-for dokumentasjon fra eieren av barnehagen eller
-nærstående av eieren, skal Utdanningsdirektoratet også ha tilgang til slik dokumentasjon. Barnehagen skal gi Utdanningsdirektoratet adgang til
-barnehagens lokaler. Adgangen til barnehagens
-lokaler vil være avhengig av at Utdanningsdirektoratet trenger det for å føre tilsyn.
-Vedtak om reaksjoner vil være enkeltvedtak
-etter forvaltningsloven. I tråd med forvaltningslovens alminnelige regler, vil Kunnskapsdepartementet være klageinstans for vedtak fattet av
-Utdanningsdirektoratet i forbindelse med økonomisk tilsyn.
-Se merknader i kapittel 8.4.5.
-Til § 57:
-Bestemmelsen viderefører nåværende § 26. I
-fjerde ledd presiseres det at departementet kan gi
-nærmere overgangsbestemmelser om overføringen av ansvaret for å føre tilsyn med økonomiske
-forhold i private barnehager fra kommunene til
-Utdanningsdirektoratet.
-
-151
-
-15.6 Endringer i voksenopplæringsloven
-Til § 1:
-Første ledd er kun en språklig justering av formålet ved at «læringsaktivitet» endres til «kursaktivitet». Opplæring foregår i form av kurs med
-flere deltakere.
-Nytt andre ledd utvider og tilpasser gjeldende
-formålsbestemmelse som følge av deling av studieforbundsordningen mellom Kunnskapsdepartementet og Kulturdepartementet. Bestemmelsen knytter lovens formål tettere opp mot overordnede politiske målsetninger på kultur- og frivillighetsfeltet. Se omtale i kapittel 11.2.
-Til § 2:
-Henvisningen til kapittel 2 og kapittel 3 i loven i
-første ledd oppheves som en følge av endringene i
-loven.
-Andre ledd oppheves som en følge av flytting
-av bestemmelsene for kapittel 4-skolene til friskoleloven. Nåværende tredje ledd blir nytt andre ledd.
-Til § 3 første ledd bokstav d:
-En definisjon av politiske partiers studieforbund
-tas inn i bokstav d. Definisjonen er flyttet fra forskriften og ordlyden er forenklet. Endringen innebærer ingen realitetsendring.
-Definisjonen av nettskole og fjernundervisning oppheves. Den er unødvendig, da kapittel 3
-om nettskoler oppheves.
-Til § 4:
-Første ledd presiserer at studieforbundene skal
-drive sin kursaktivitet på grunnlag av minst ett av
-de overordnede målene. Dette er ikke en realitetsendring, kun en språklig presisering.
-Første ledd bokstav b og bokstav e endres for å
-knytte de overordnede målene i loven tettere opp
-mot de politiske målsetningene på kultur- og frivillighetsfeltet som følge av forslaget om deling av
-studieforbundsordningen. Nåværende bokstav b
-tas ut da dette målet er dekket av formålet i lovens
-§ 1.
-Første ledd bokstav c innebærer kun en språklig justering, og er ikke en realitetsendring.
-
-[Side 154]
-
-152
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Til § 5 andre ledd bokstav d:
-Det er en forenkling av bestemmelsen ved at kravet til en regional organisasjonsmessig forankring
-tas ut. Det er fortsatt et krav om at studieforbundene må ha virksomhet over hele landet, men det
-er opp til dem å vurdere hvordan de skal etablere
-regional forankring. Studieforbundene må dokumentere den regionale forankringen og Kompetanse Norge vil følge dette opp i de regelmessige
-tilsynene med studieforbundene.
-
-2019–2020
-
-delingen i loven oppheves. Andre punktum gir forskriftshjemmel for de nærmere kravene om tilsyn,
-krav til regnskap, dokumentasjon og revisjon.
-Nytt andre ledd presiserer departementets rett
-til å kreve tilbakeført gjenstående midler som
-skriver seg fra statstilskuddet ved avvikling av studieforbund. Dette er en kodifisering av gjeldende
-praksis, og er derfor ingen realitetsendring.
-Videre gis det i bestemmelsen en forskriftshjemmel for nærmere regler om avvikling.
-Til § 13:
-
-Til § 6:
-Første ledd andre punktum presiserer at studieforbundene kun kan motta støtte etter loven fra det
-departement studieforbundet er godkjent av. Det
-vil si at for studieforbundene som i sin tid ble godkjent av Kunnskapsdepartementet og hvor forvaltningen nå er flyttet til Kulturdepartementet, skal
-bestemmelsen leses som om de er godkjent av
-Kulturdepartementet.
-Dagens tredje ledd blir nytt andre ledd, og det
-foretas en forenkling av ordlyden. Fjerde og femte
-ledd videreføres som nytt tredje og fjerde ledd.
-Til § 7:
-Som en følge av endringene i loven oppheves henvisningen til kapittel 2. Loven vil ikke ha kapittelinndeling etter endringene som er foreslått.
-Til § 10:
-Som en følge av endringene i loven oppheves henvisningen til kapittel 2. Loven vil ikke ha kapittelinndeling etter endringene som er foreslått.
-Til § 11:
-Første ledd første punktum er en endring som følge
-av de andre endringene i loven ved at kapittelinn-
-
-I første ledd slås det fast at de studieforbundene
-som er godkjent etter voksenopplæringsloven
-beholder sin godkjenning. Det er ikke nødvendig
-å søke om ny godkjenning selv om deler av ordningen flyttes til Kulturdepartementet.
-I andre ledd gis det en overgangsordning for
-nettskoler godkjent etter voksenopplæringsloven.
-De beholder sin godkjenning ut 2026.
-
-15.7 Opphevelse av endringslov til
-tidligere fagskolelov
-Lov 17. juni 2016 nr. 68 om endringer i fagskoleloven (om studentrettigheter m.m.) oppheves.
-Loven ble ved en feil ikke opphevet da nåværende
-lov om høyere yrkesfaglig utdanning (fagskoleloven) av 8. juni 2018 nr. 28 ble vedtatt. Se kapittel
-13.3.
-Kunnskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver
-under et fremlagt forslag til proposisjon til Stortinget om lov om endringer i folkehøyskoleloven,
-barnehageloven og voksenopplæringsloven m.m.
-(samleproposisjon).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i folkehøyskoleloven, barnehageloven og
-voksenopplæringsloven m.m. (utfasing av tilskudd til kortkurs i folkehøyskolen, internkontroll for friskoler og barnehager, psykososialt barnehagemiljø, krav til og tilsyn med private barnehager, kommunal
-barnehagemyndighet, studieforbund m.m.) i samsvar med et vedlagt forslag.
-
-[Side 155]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-153
-
-Forslag
-til lov om endringer i folkehøyskoleloven, barnehageloven
-og voksenopplæringsloven m.m. (utfasing av tilskudd
-til kortkurs i folkehøyskolen, internkontroll for friskoler
-og barnehager, psykososialt barnehagemiljø, krav til og tilsyn
-med private barnehager, kommunal barnehagemyndighet,
-studieforbund m.m.)
-I
-I lov 17. juli 1998 nr. 61 om grunnskolen og den
-vidaregåande opplæringa gjøres følgende endringer:
-Ny § 13-3e skal lyde:
-§ 13-3e Karriererettleiing
-Fylkeskommunen skal ha eit tilbod om gratis
-karriererettleiing for alle som er busette der. Fylkeskommunen skal samarbeide med Arbeids- og
-velferdsetaten om tilbodet.
-Departementet kan gi forskrift om innhaldet i
-og organiseringa og omfanget av tilbodet om karriererettleiing.
-§ 15-6 andre ledd skal lyde:
-Det er likevel foreldra til barnet som har rett til
-å velje privat skole, jf. § 2-1, samtykke til fritak frå
-heile opplæringsplikta, jf. § 2-1, velje skriftspråk,
-jf. § 2-5, krevje fritak frå delar av undervisninga
-med omsyn til religion eller livssyn, jf. § 2-3a, og
-krevje opplæring i kvensk eller finsk og i og på
-samisk, jf. §§ 2-7 og 6-2.
-II
-I lov 6. desember 2002 nr. 72 om folkehøyskoler
-gjøres følgende endringer:
-§ 1 første ledd annet punktum skal lyde:
-Folkehøyskole må være med i skolens navn,
-og bare skoler som er godkjent etter § 2, kan
-bruke navnet folkehøyskole.
-
-§ 2 første ledd bokstav c skal lyde:
-c. Skolen skal ha minst 35 elever årlig i gjennomsnitt over fire år.
-§ 2 første ledd bokstav d skal lyde:
-d. Skolen skal ha kurs som varer minimum 16,5
-uker.
-III
-I lov 4. juli 2003 nr. 84 om frittståande skolar gjøres følgende endringer:
-§ 2-1 andre ledd bokstav g skal lyde:
-g) vidaregåande opplæring i verneverdige tradisjonshandverksfag
-§ 3-1 skal lyde:
-§ 3-1 Inntak av elevar
-Skolane skal ha heile landet som inntaksområde. Dei skal stå opne for alle som fyller vilkåra
-for inntak i offentlege skolar, jf. opplæringslova
-§ 2-1 tredje ledd og § 3-1 første ledd. Dette gjeld
-òg skolar i utlandet og internasjonale skolar i
-Noreg. Skolane kan reservere eit avgrensa tal på
-elevplassar til søkjarar som kjem etter hovudinntaket.
-Ved inntak til vidaregåande skolar skal ungdom med rett til vidaregåande opplæring etter
-opplæringslova § 3-1 prioriterast føre vaksne
-søkjarar med rett til vidaregåande opplæring etter
-opplæringslova § 4A-3. Skolar for funksjonshemma kan også ta inn vaksne søkjarar utan rett
-til vidaregåande opplæring. Heimfylket skal vurdere realkompetansen til ein vaksen søkjar før
-han eller ho kan takast inn som elev ved ein vidaregåande skole. Departementet kan gi forskrift om
-
-[Side 156]
-
-154
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-inntak til vidaregåande skolar. Forskrifta kan mellom anna innehalde reglar om krava til inntak og
-om unntak frå krava i første og tredje punktum.
-Norske vidaregåande skolar i utlandet kan ikkje
-ta inn vaksne.
-Skolane skal ha eit inntaksreglement som
-viser prioriteringa av søkjarar, dersom søkinga er
-større enn kapasiteten til skolen. Reglementet
-skal innehalde reglar for prioritering ut frå saklege omsyn. Inntaksreglementet skal liggje innanfor den avgrensinga som følgjer av første og andre
-ledd. Skolen avgjer i samsvar med reglementet
-kven av søkjarane som skal takast inn.
-Melding om inntak av elevar i grunnskolar
-skal sendast til heimkommunen til eleven. Melding om inntak til vidaregåande skolar skal sendast til heimfylket til eleven. Skolen skal melde frå
-til heimfylket om behovet for læreplass når eleven
-er teken inn på vidaregåande trinn 2.
-Ved avgjerd etter desse reglane gjeld forvaltningslova. Avgjerd om inntak er enkeltvedtak, jf.
-forvaltningslova § 2. Departementet er klageinstans.
-§ 5-2 andre ledd bokstav e skal lyde:
-e) fremje saker om skolebyte etter opplæringslova
-§ 9 A-12, jf. § 2-4 andre ledd i denne lova og
-bortvising etter § 3-10 andre ledd i denne lova,
-§ 5-2 andre ledd bokstav i skal lyde:
-i) sørgje for å ha rett og nødvendig kompetanse i
-verksemda. Styret skal sørgje for at lærarar,
-dagleg leiar og andre tilsette i skolen får høve til
-å utvikle seg fagleg og pedagogisk så dei kan
-vere på høgd med utviklinga i skolen og samfunnet.
-§ 5-2 andre ledd bokstav k skal lyde:
-k) drøfte den årlege rapporten om tilstanden i
-skolen som er utarbeidd etter § 5-2b.
-§ 5-2 tredje ledd oppheves.
-§ 5-2 fjerde ledd blir tredje ledd og skal lyde:
-I andre saker enn dei som følgjer av andre
-ledd, kan styret med 2/3 fleirtal delegere avgjerdsretten.
-Ny § 5-2a skal lyde:
-§ 5-2a Internkontroll
-Styret skal ha internkontroll for å sikre at
-krava i denne lova med forskrifter blir følgde.
-Internkontrollen skal vere systematisk og tilpassa storleiken på skolen og særpreget, aktivitetane og risikoforholda der.
-
-2019–2020
-
-Ved internkontroll etter denne paragrafen skal
-styret
-a) utarbeide ei beskriving av skolen sine hovudoppgåver, mål og organisering
-b) ha nødvendige rutinar og prosedyrar
-c) avdekkje og følgje opp avvik og risiko for avvik
-d) dokumentere internkontrollen i den forma og
-det omfanget som er nødvendig
-e) evaluere og ved behov forbetre skriftlege prosedyrar og andre tiltak for internkontroll
-Ny § 5-2b skal lyde:
-§ 5-2b Plikt til å arbeide med kvalitetsutvikling
-Styret skal ha eit forsvarleg system for å følgje
-opp resultata frå nasjonale kvalitetsvurderingar
-som departementet gjennomfører etter § 7-2
-tredje ledd. Som ein del av oppfølgingsansvaret
-skal det utarbeidast ein årleg rapport om tilstanden i skolen med omsyn til læringsresultat, fråfall
-og læringsmiljø.
-Styret skal sørgje for at skolen jamleg vurderer
-i kva grad organiseringa, tilrettelegginga og gjennomføringa av opplæringa medverkar til å nå dei
-måla som er fastsette i godkjende læreplanar etter
-§ 2-3. Elevane skal involverast i denne vurderinga.
-Kapittel 6A skal lyde:
-Kapittel 6A. Diverse skolar som gir yrkesretta
-opplæring
-§ 6A-1 Godkjenning av skolar
-Skolar som 30. juni 2010 var godkjende og i
-drift etter tidlegare kapittel 6A i denne lova, har
-rett til statstilskot og til å drive verksemd etter
-dette kapittelet.
-Departementet kan etter søknad godkjenne
-driftsendringar og nye skolar etter dette kapittelet. Departementet kan gi forskrift om fastsetjing
-av maksimalt elevtal per linje eller tilbod på desse
-skolane. Godkjenninga fell bort dersom ein skole
-ikkje startar opp verksemda si i løpet av tre skoleår etter at godkjenning vart gitt. Det same gjeld
-om drifta etter lova blir nedlagd.
-Departementet kan gi forskrift om fristar for
-søknader om godkjenning av driftsendringar og
-nye skolar.
-Departementet kan gi forskrift om kjøp av opplæringstenester.
-§ 6A-2 Krav til innhald og vurdering av opplæringa
-Skolen skal drive verksemda si etter læreplanar godkjende av departementet. Det må gå
-fram av planane kva slags vurderingsformer og
-dokumentasjon skolen skal nytte. Skolen skal ha
-
-[Side 157]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-læreplanar som er på nivå over grunnskoleopplæring. Skolen definerer sjølv sitt eige faglege og/
-eller verdimessige grunnlag. Opplæringa skal
-vere på norsk eller samisk. Dersom særlege
-grunnar tilseier det, kan ein skole få godkjent
-andre undervisningsspråk enn norsk og samisk.
-Departementet kan gi forskrift om vurdering
-av elevar, klage på vurdering, eksamen og dokumentasjon.
-Departementet kan gi forskrift om eit nasjonalt
-kvalifikasjonsrammeverk.
-§ 6A-3 Inntak av elevar
-Skolane skal ha heile landet som inntaksområde.
-Skolane skal ha eit inntaksreglement som
-viser prioriteringa av søkjarar, dersom søkinga er
-større enn kapasiteten til skolen. Skolen kan i
-reglementet fastsetje vilkår for inntak til skolen.
-Reglar for prioritering av søkjarar skal vere
-baserte på saklege omsyn. Skolen avgjer i samsvar med reglementet kven av søkjarane som skal
-takast inn.
-Ved avgjerd etter desse reglane gjeld forvaltningsloven. Avgjerder om inntak er enkeltvedtak
-etter forvaltningsloven § 2. Departementet er klageinstans.
-Departementet kan gi forskrift om avgrensingar i inntaket av søkjarar utan fast tilknyting til
-Noreg.
-§ 6A-4 Kompetansekrav til undervisningspersonalet
-Styret fastset krav til kompetanse for undervisningspersonalet ved skolen, med mindre departementet i det enkelte tilfellet fastet noko anna.
-Dersom det ikkje er søkjarar som fyller dei
-fastsette kompetansekrava, kan andre tilsetjast
-mellombels. Med mindre det er avtalt ein kortare
-tilsetjingsperiode, skal tilsetjinga vare til og med
-31. juli.
-§ 6A-5 Bortvising
-Skolen kan fastsetje i ordensreglementet at
-elevar kan visast bort frå undervisninga dersom
-dei bryt reglementet i alvorleg grad eller fleire
-gonger. Elevar kan visast bort i opp til fem dagar.
-Den daglege leiaren ved skolen kan vedta bortvising etter å ha rådført seg med lærarane til eleven.
-Når ein elev over tid har vist ei framferd som i
-alvorleg grad går ut over orden og arbeidsro på
-skolen, eller når ein elev alvorleg forsømmer pliktene sine, kan eleven etter vedtak av styret visast
-bort frå resten av det kurset eleven er teken inn
-på.
-
-155
-
-Før det blir gjort vedtak om bortvising, skal
-skolen vurdere andre hjelpe- eller refsingstiltak.
-Avgjerd om bortvising er enkeltvedtak etter
-forvaltningsloven § 2. Departementet er klageinstans.
-§ 6A-6 Offentlege tilskot, skolepengar mv.
-Alle offentlege tilskot og skolepengar skal
-kome elevane til gode. Dette inneber mellom anna
-at skolen ikkje kan:
-a) gi utbytte eller på annan måte overføre overskot til eigarane eller deira nærståande, verken når skolen er i drift, eller om drifta blir
-nedlagd
-b) pådra seg kostnader i form av leigeutgifter for
-eigedom eller lokale som tilhøyrer skolens
-eigarar eller deira nærståande, eller på annan
-måte pådra seg kostnader som kan innebere at
-offentlege tilskot eller eigendelar frå elevane
-ikkje kjem elevane til gode.
-Departementet kan gi forskrift om forbod mot
-utbytte eller anna overføring som nemnt i første
-ledd.
-Skolane får statstilskot til godkjend opplæring
-og får dekt 75 prosent av dei driftsutgiftene som
-kjem inn under tilskotsgrunnlaget ved statstilskot.
-Tilskotet blir rekna ut frå ein normalsats. Føresetnaden er at elevane får undervisning som minst tilsvarar eit halvt skoleår. Departementet kan gi forskrift om dokumentasjon for og rapportering av
-elevtal. Departementet kan gi forskrift om korleis
-skolane skal dokumentere at krava i første ledd er
-oppfylte, og om skolane si plikt til å godtgjere at
-innkjøp og leige er gjort på grunnlag av marknadsvilkår.
-Skolane kan krevje skolepengar. Styret fastset
-storleiken på skolepengane. Skolepengane kan
-utgjere inntil 25 prosent av tilskotsgrunnlaget
-etter tredje ledd, med eit beløp fastsett av departementet i tillegg for dekning av utgifter til husleige
-eller kapitalkostnader. Departementet kan i særskilde tilfelle fastsetje tidsavgrensa unntak frå kravet.
-Skolane kan påleggje elevane å halde seg med
-undervisningsmateriell og utstyr til eige bruk som
-opplæringa til vanleg gjer det nødvendig å ha, og
-dei kan krevje betaling frå elevane for utgifter til å
-kopiere slikt materiell. Skolane kan ikkje krevje
-noka form for betaling for opplæringa utover det
-som følgjer av denne paragrafen eller forskrift gitt
-i medhald av denne paragrafen. Departementet
-kan gi forskrift om høve til å ta betaling for opplæringa.
-
-[Side 158]
-
-156
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-§ 6A-7 Andre føresegner
-Følgjande føresegner i denne lova gjeld så
-langt dei passar for skolar etter dette kapittelet:
-a) § 2-2 om krav til verksemda til skolen, med
-unntak av tredje ledd. Dersom ein skole etter
-dette kapittelet har færre enn 10 elevar tre skoleår i samanheng, fell godkjenninga bort
-b) § 2-4 om krav til skoleanlegg og skolemiljø
-c) § 3-3 tredje ledd om skolegangen
-d) § 3-4 om organisering av elevane i klassar eller
-basisgrupper
-e) § 3-4a om tilpassa opplæring
-f) § 3-9 om ordensreglement
-g) § 3-15 om forbod mot bruk av klesplagg som
-heilt eller delvis dekkjer ansiktet
-h) § 4-1 om leiing
-i) § 5-1 om styret, med unnatak av bokstavane a
-og c
-j) § 5-2 om styret sine oppgåver, med unntak av
-bokstavene a og e
-k) § 5-3 om elevråd, med unntak av første ledd
-første og annet punktum
-l) § 7-1 om budsjett, rekneskap og rapportering
-m) § 7-2 om tilsyn m.m.
-n) § 7-2a om moglege reaksjonsformer, med unntak av fjerde ledd.
-o) § 7-2b om karantene
-p) § 7-3 om teieplikt
-§ 8-2 oppheves.
-Nåværende § 8-3 blir § 8-2.
-IV
-I lov 3. juni 2005 nr. 37 om utdanningsstøtte skal
-§ 8 fjerde ledd lyde:
-Det kan gis utsettelse med betaling av hele terminbeløp i inntil 3 år eller inntil 6 år ved utsettelse
-av halve terminbeløp. I særlige tilfeller kan det gis
-utsettelse ut over disse grensene. Det kan gis rentefritak i forbindelse med videre utdanning, militærtjeneste, sykdom, arbeidsledighet eller omsorgsforpliktelser når låntakers inntekt er under fastsatte grenser, eller hvor andre forhold gjør at innkreving av renter vil virke urimelig.
-
-2019–2020
-
-V
-I lov 17. juni 2005 nr. 64 om barnehager gjøres følgende endringer:
-§ 3 skal lyde:
-§ 3 Barns rett til medvirkning og hensynet til barnets
-beste
-Barn i barnehagen har rett til å gi uttrykk for
-sitt syn på barnehagens daglige virksomhet og i
-saker som gjelder dem selv.
-Barn skal jevnlig få mulighet til aktiv deltakelse i planlegging og vurdering av barnehagens
-virksomhet.
-Barnets synspunkter skal tillegges vekt i samsvar med dets alder og modenhet.
-I alle handlinger og avgjørelser som gjelder barn
-i barnehagen, skal hva som er best for barnet, være
-et grunnleggende hensyn.
-§ 4 andre og tredje ledd skal lyde:
-Foreldrerådet består av foreldrene til alle
-barna. Foreldrerådet skal fremme foreldrenes fellesinteresser og bidra til at samarbeidet mellom barnehagen og foreldregruppen skaper et godt barnehagemiljø. Er det i forskrift etter § 20 satt en
-maksimalgrense for foreldrebetaling, kan bare
-foreldrerådet samtykke til foreldrebetaling utover
-dette.
-Samarbeidsutvalget skal være et rådgivende,
-kontaktskapende og samordnende organ. Samarbeidsutvalget består av foreldre og ansatte i barnehagen, slik at hver gruppe er likt representert.
-Barnehagens eier kan delta etter eget ønske, men
-ikke med flere representanter enn hver av de
-andre gruppene.
-§ 5 tredje punktum skal lyde:
-Samarbeidsutvalget skal også i slike tilfeller
-settes sammen etter § 4 tredje ledd, men slik at foreldre og ansatte fra både barnehagen og skolen
-skal være representert, jf. opplæringslova § 11-1
-fjerde ledd.
-§ 7 skal lyde:
-§ 7 Krav til barnehagens virksomhet
-Barnehageeieren har ansvaret for at barnehagen drives i samsvar med gjeldende lover og forskrifter.
-Kommunale og private barnehager skal være
-registrert med eget organisasjonsnummer i Enhetsregisteret.
-
-[Side 159]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-§ 8 skal lyde:
-§ 8 Krav til vedtekter
-Kommunale og private barnehager skal ha vedtekter. Vedtektene skal gi opplysninger som er av
-betydning for foreldrenes forhold til barnehagen,
-herunder om
-a) eierforhold
-b) formål, jf. §§ 1 og 1a
-c) opptakskriterier
-d) antall medlemmer i samarbeidsutvalget
-e) barnehagens åpningstid
-§ 9 skal lyde:
-§ 9 Internkontroll i barnehagen
-Barnehageeier skal ha internkontroll for å sikre
-at kravene i denne loven med forskrifter følges.
-Internkontrollen skal være systematisk og tilpasset barnehagens størrelse, egenart, aktiviteter og
-risikoforhold.
-Ved internkontroll etter denne paragrafen skal
-barnehageeier
-a) utarbeide en beskrivelse av barnehagens hovedoppgaver, mål og organisering
-b) ha nødvendige rutiner og prosedyrer
-c) avdekke og følge opp avvik og risiko for avvik
-d) dokumentere internkontrollen i den formen og
-det omfanget som er nødvendig
-e) evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll
-§§ 9 a og 9 b oppheves.
-§§ 10 – 13 i kapittel III skal lyde:
-§ 10 Barnehagemyndighetens ansvar
-Kommunen er lokal barnehagemyndighet.
-Kommunen skal gi veiledning om og påse at barnehagene drives i samsvar med bestemmelsene i
-denne loven med forskrifter, med unntak av bestemmelsene i kapittel V med forskrifter.
-Kommunen har plikt til å tilby plass i barnehage til barn under opplæringspliktig alder som er
-bosatt i kommunen, jf. § 16. Utbyggingsmønster
-og driftsformer skal tilpasses lokale forhold og
-behov.
-Kommunen har ansvaret for at barnehagetilbudet til samiske barn i samiske distrikt bygger
-på samisk språk og kultur. I øvrige kommuner
-skal forholdene legges til rette for at samiske barn
-kan sikre og utvikle sitt språk og sin kultur.
-Hver kommune skal opprette og føre register
-til bruk for Arbeids- og velferdsetaten i forbindelse med kontroll av beregning og utbetaling av
-kontantstøtte etter kontantstøtteloven. Registeret
-kan samkjøres mot Arbeids- og velferdsetatens
-
-157
-
-register over mottakere av kontantstøtte. Departementet gir forskrift om føringen av registeret,
-hvilke opplysninger registeret skal inneholde, og
-behandlingen av disse opplysningene.
-Kommunen har rett til innsyn i dokumenter og
-adgang til barnehagelokaler i den utstrekning
-dette anses nødvendig for å ivareta kommunens
-oppgaver som barnehagemyndighet.
-§ 11 Krav til likebehandling og uavhengighet
-Kommunen skal likebehandle private og kommunale barnehager når den utfører oppgaver som
-barnehagemyndighet. Kommunen skal organisere
-oppgavene den har som barnehagemyndighet
-adskilt fra oppgavene den har som barnehageeier
-når dette er egnet til å ivareta tilliten til kommunens upartiskhet som barnehagemyndighet.
-§ 12 Særlige regler om klageinstans
-Fylkesmannen er klageinstans for vedtak fattet
-av kommunen etter §§ 14 og 15, § 19 første ledd,
-§§ 24 til 26, §§ 35 til 38, § 53 og der det følger av
-forskrift gitt i medhold av denne loven.
-§ 13 Statlig råd og veiledning
-Fylkesmannen skal veilede kommuner og
-barnehager om denne loven med forskrifter, med
-unntak av bestemmelsene i kapittel V med forskrifter.
-Utdanningsdirektoratet skal veilede kommuner
-og barnehager om denne loven kapittel V med forskrifter.
-Kapittel IV skal lyde:
-Kapittel IV Barnehagemyndighetens oppgaver
-mv.
-§ 14 Godkjenning
-Kommunen avgjør søknader om godkjenning
-etter en vurdering av barnehagens egnethet ut fra
-formål og innhold, jf. §§ 1, 1a og 2.
-Kommunen kan ved godkjenningen sette vilkår for driften med hensyn til antall barn, barnas
-alder og oppholdstid.
-Kommunens vedtak kan påklages til fylkesmannen.
-Nåværende § 11 blir § 15.
-Nåværende § 12 a blir § 16.
-Nåværende § 12 blir § 17, og andre ledd skal lyde:
-Forvaltningsloven kapittel IV til VI gjelder
-ikke for opptak i barnehage. Departementet kan gi
-
-[Side 160]
-
-158
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-forskrift om behandling av søknader om opptak i
-barnehage.
-Nåværende § 13 blir § 18, og andre ledd skal lyde:
-Barn som det er fattet vedtak om etter barnevernloven §§ 4-12 og 4-4 annet og fjerde ledd, har
-rett til prioritet ved opptak i barnehage.
-§ 19 Kommunalt tilskudd til godkjente private
-barnehager
-Kommunen kan gi tilskudd til godkjente private
-barnehager.
-Kommunen skal behandle private barnehager
-som mottar tilskudd, likeverdig med kommunale
-barnehager. Departementet kan gi forskrift om hva
-som er likeverdig behandling.
-§ 20 Foreldrebetaling
-Departementet kan gi forskrift om foreldrebetaling i barnehagen, blant annet om søskenmoderasjon, inntektsgradering og maksimalgrense.
-Kapittel V med § 21 til § 23 skal lyde:
-Kapittel V Krav til bruk av offentlige tilskudd og
-foreldrebetaling i private barnehager mv.
-§ 21 Virkeområde og formål
-Kapitlet gjelder for private barnehager som
-mottar tilskudd etter § 19.
-Formålet med kapitlet er å sørge for at offentlige tilskudd og foreldrebetaling kommer barna i
-barnehagen til gode.
-Dersom barnehagen oppfyller kravene i § 23,
-kan barnehagen disponere et eventuelt overskudd
-fritt.
-§ 22 Definisjoner
-Med nærstående menes nærstående etter
-aksjeloven § 1-5 første ledd.
-Med konsern menes konsern etter aksjeloven
-§ 1-3.
-§ 23 Krav til bruk av offentlige tilskudd og foreldrebetaling i private barnehager
-Barnehagen skal bare dekke kostnader som
-direkte gjelder godkjent drift av barnehagen.
-Barnehagen skal ikke overfor eieren, eierens
-nærstående eller selskap i samme konsern som
-eier foreta transaksjoner og dekke kostnader på
-vilkår eller med beløp som avviker fra eller overstiger det som ville vært fastsatt mellom uavhengige parter.
-
-2019–2020
-
-Barnehagen skal ikke ha vesentlig lavere personalkostnad per heltidsplass enn det som er vanlig i tilsvarende kommunale barnehager.
-Barnehagen skal kunne dokumentere at
-offentlige tilskudd og foreldrebetaling er brukt i
-samsvar med denne paragrafen.
-Departementet kan gi forskrift om regnskap,
-revisjon og rapportering.
-Nåværende kapittel V blir kapittel VI.
-Nåværende §§ 17 til 19 blir nye §§ 24 til 30 i kapittel VI.
-Nåværende kapittel V A blir kapittel VII.
-Nåværende §§ 19 a til 19 j blir nye §§ 31 til 40 i
-kapittel VII.
-§ 38 sjette ledd skal lyde:
-Retten til skyss, tilsyn, reisefølge og innlosjering etter § 36 gjelder tilsvarende for barn med
-rett til tegnspråkopplæring.
-§ 39 andre ledd skal lyde:
-Spesialpedagogisk hjelp etter § 31 inkluderer
-nødvendig opplæring i bruk av alternativ og supplerende kommunikasjon.
-Nytt kapittel VIII skal lyde:
-Kapittel VIII Psykososialt barnehagemiljø
-§ 41 Nulltoleranse og forebyggende arbeid
-Barnehagen skal ikke godta krenkelser som
-for eksempel utestenging, mobbing, vold, diskriminering og trakassering. Alle som arbeider i barnehagen, skal gripe inn når et barn i barnehagen
-utsettes for slike krenkelser.
-Barnehagen skal forebygge tilfeller hvor barn
-ikke har et trygt og godt barnehagemiljø ved å
-arbeide kontinuerlig for å fremme helsen, trivselen, leken og læringen til barna.
-§ 42 Plikt til å sikre at barnehagebarna har et trygt
-og godt psykososialt barnehagemiljø (aktivitetsplikt)
-Alle som arbeider i barnehagen, skal følge
-med på hvordan barna i barnehagen har det.
-Alle som arbeider i barnehagen, skal melde fra
-til barnehagens styrer dersom de får mistanke om
-eller kjennskap til at et barn ikke har et trygt og
-godt barnehagemiljø. Styreren skal melde fra til
-barnehageeieren i alvorlige tilfeller.
+## Studieforbund
+
+### Deling av tilskuddsordningen til studieforbund mellom Kunnskapsdepartementet og Kulturdepartementet
+
+#### Bakgrunn
+
+I dag ligger forvaltningsansvaret for studieforbund hos Kunnskapsdepartementet. En deling av tilskuddsordningen og budsjettmidlene mellom Kunnskapsdepartementet og Kulturdepartementet vil, i større grad enn i dag, kunne bidra til å styrke de enkelte studieforbundenes rolle og identitet gjennom å oppstille klare og definerte overordnede mål for deres virksomhet i tråd med de politiske målsetningene som ligger til grunn for henholdsvis Kunnskapsdepartementets og Kulturdepartementets politikkområder. Delingen vil kunne gjøre det enklere å nå både kompetansepolitiske og integreringspolitiske mål, og frivillighetspolitiske og kulturpolitiske mål. Delingen gjør at vi kan ivareta bredden og mangfoldet i studieforbundenes opplæringstilbud under Kulturdepartementet, samtidig som vi kan utvikle de studieforbundene som i størst grad kan bidra til kompetansebygging og integrering under Kunnskapsdepartementet. Samtidig vil samtlige studieforbund, gjennom sin opplæringsvirksomhet, kunne bidra til integrering og inkludering i samfunnet på sine respektive fagområder. Den foreslåtte delingen korresponderer i grove trekk med fordelingen av politikkområder under de to departementene.
+
+En deling av tilskuddsordningen mellom Kunnskapsdepartementet og Kulturdepartementet kan begrunnes ut fra flere forhold: Dagens tilskuddsordning (2018) omfatter 14 studieforbund som i profil, kursinnhold og oppbygning er svært ulike. Oxford Research påpeker i rapporten *En ordning, et mangfold av løsninger* (2013) at det er stor variasjon mellom studieforbundene når det gjelder profil og formål. Rapporten tydeliggjør at studieforbundsordningen har en uklar plass i det norske utdanningssystemet og samfunnet for øvrig. Det vil være en styrke for tilskuddsordningen, og for det enkelte studieforbund og tilhørende medlemsorganisasjoner, med en tydeligere profil for ordningen med en fordeling under hhv. Kunnskapsdepartementet og Kulturdepartementet.
+
+#### Høringsforslaget
+
+I høringsforslaget ble det foreslått at tilskuddsordningen for studieforbund skulle deles mellom Kunnskapsdepartementet og Kulturdepartementet, men at den i sin helhet fortsatt skulle forvaltes av Kompetanse Norge etter delegasjon fra begge departementer.
+
+Departementet foreslo følgende fordeling av forvaltningsansvaret for tilskuddsordningen til studieforbundene som per i dag er godkjent etter voksenopplæringsloven:
+
+1\. Studieforbundet Folkeuniversitetet, Studieforbundet AOF, Akademisk Studieforbund og Studieforbundet næring og samfunn vil tildeles tilskuddsmidler over Kunnskapsdepartementets budsjett.
+
+2\. Musikkens studieforbund, Studieforbundet kultur og tradisjon, Idrettens Studieforbund, Kristelig studieforbund, Studieforbundet Funkis, Studieforbundet natur og miljø, Samisk studieforbund, Venstres Opplysnings- og Studieforbund, Senterpartiets Studieforbund og Studieforbundet Solidaritet vil tildeles tilskuddsmidler over Kulturdepartementets budsjett.
+
+I høringsforslaget ble det presisert at alle de godkjente studieforbundene skulle opprettholde sin godkjenning under den reviderte voksenopplæringsloven. Videre ble det lagt til grunn at en todeling av ordningen ikke skal medføre behov for at det enkelte studieforbund skal deles opp. En senere endring hvor medlemsorganisasjoner i et studieforbund selv søker overføring til annet studieforbund er ikke noe staten regulerer.
+
+#### Høringsuttalelsene
+
+Det er 26 høringsinstanser som har uttalt seg om forslaget til deling av tilskuddsordningen mellom Kulturdepartementet og Kunnskapsdepartementet. Et stort flertall av disse er positive til en deling, eller har ingen kommentarer til en deling. Tolv av 14 studieforbund støtter forslaget til deling, Det er kun to som har uttalt seg negativt til en deling, dette var *Studieforbundet Solidaritet* og *Senterpartiets Studieforbund*. I tillegg mente *Studieforbundet natur og miljø* at studieforbundene bør kunne få tilskudd fra begge departementene. Enkelte av høringsinstansene mener det bør være en overgangsordning for studieforbundene i forbindelse med delingen.
+
+Flere av medlemsorganisasjonene til de ulike studieforbundene har uttalt at de støtter studieforbundets uttalelse til de enkelte forslagene. *Frilynt Norge, Norges Ungdomslag og Norges Kulturvernforbund* har vist til uttalelsen til *Studieforbundet kultur og tradisjon* og støtter denne. *De Unges Orkesterforbund (UNOF), Norsk sangerforum og Norges Korforbund* viser til høringsinnspill fra *Musikkens Studieforbund* og støtter deres uttalelse. *Acem Studieorganisasjon* viser til høringsinnspillet fra *Studieforbundet Folkeuniversitetet* og støtter deres uttalelse. *Norsk Kennel Klub* støtter og viser til høringsinnspillet fra *Studieforbundet natur og miljø*. *Funksjonshemmedes Fellesorganisasjon* viser til høringsinnspillet fra *Studieforbundet Funkis* og støtter denne. *Studieforbundet Solidaritet* viser til høringsinnspillet fra *Voksenopplæringsforbundet (Vofo)* i de tilfeller studieforbundet ikke har uttalt seg selv om forslaget. *Norske Samers Riksforbund* støtter uttalelsen fra *Samisk studieforbund*.
+
+*Kompetanse Norge* mener at delingen vil bidra til at ordningen styrkes, fordi det vil bidra til en rendyrking og tydeliggjøring av det enkelte studieforbunds rolle. Videre at delingen vil bidra til å synliggjøre studieforbundene som viktige aktører i kompetansepolitikken, spesielt de fire som blir liggende under Kunnskapsdepartementet.
+
+*Norges Musikkorps Forbund* er positive til deling, men bekymret over forutsetningen som legges for de enkelte organisasjonene ikke minst i forbindelse med selve endringsprosessen. De uttaler at det kan oppstå konsekvenser som ikke har vært enkle å se.
+
+*Idrettens Studieforbund* mener at en forutsetning for delingen er at tilskuddet ikke blir redusert eller samordnet som følge av at Norges idrettsforbund mottar midler fra Kulturdepartementet gjennom andre ordninger.
+
+*LO* støtter delingen under forutsetning av at Kunnskapsdepartementet skal ha forvaltningsansvaret for studieforbund som tilbyr opplæring rettet mot mer kompetansegivende mål i og for arbeidslivet.
+
+*Voksenopplæringsforbundet (VOFO)* forholder seg til at regjeringen har vedtatt å dele ordningen mellom Kunnskapsdepartementet og Kulturdepartementet, og er opptatt av at studieforbundene skal få rimelige rammebetingelser.
+
+*Funksjonshemmedes Fellesorganisasjon (FFO)* uttaler at når ordningen først skal deles, så er det en fornuftig fordeling. FFO er opptatt av hvordan de økonomiske rammene fordeles etter en deling og at delingen ikke må svekke opplæringsvirksomheten i regi av organisasjoner som har frivillighet som sin base. De viser til at basert på 2019-bevilgningen, viser at 65 prosent av samlet tilskudd skal fordeles til Kulturdepartementet og at dette må opprettholdes.
+
+*Senterpartiets Studieforbund* er prinsipielt skeptisk til deling og mener at forslaget mangler en konsekvensanalyse, samtidig uttaler de at de vil forholde seg konstruktive til en vedtatt deling, gjennom å være en positiv bidragsyter til videreutvikling av ordningen. Videre at det er viktig å holde fokuset på læring og mangfold i et voksenpedagogisk perspektiv, på en slik måte at ordningen ikke svekkes over tid selv om denne deles på to departementer.
+
+*Studieforbundet natur og miljø* uttaler på sin side at de er positive til å dele tilskuddsordningen, men at det er et feiltrinn å samtidig fordele studieforbundene mellom departementene. De mener at det ikke er spesielt komplisert eller øker risikoen for en dobbeltrapportering å ha en ordning hvor studieforbundene selv kan betjene kursvirksomhet under begge departementene. *Norsk Kennel Klub* som er medlem i studieforbundet gir i sin høringsuttalelse støtte til uttalelsen fra Studieforbundet natur og miljø.
+
+*Studieforbundet Solidaritet* uttaler at de ikke kan se at delingen har noen viktige, positive effekter for studieforbundene eller medlemsorganisasjonene. Videre at forslaget ikke har noen sterke faglige begrunnelser, verken pedagogiske, demokratiske eller organisasjonstekniske (-teoretiske). De anbefaler at delingen blir grundig evaluert etter en tid.
+
+#### Departementets vurdering
+
+Det er en bred støtte blant de som uttalte seg om forslaget til deling av tilskuddsordningen til studieforbund mellom Kunnskapsdepartementet og Kulturdepartementet.
+
+Enkelte av høringsinstansene mener det bør være en overgangsordning for studieforbundene i forbindelse med delingen mellom Kunnskapsdepartementet og Kulturdepartementet. Departementet mener det ikke er behov for en overgangsordning, fordi det kun er en flytting av deler at tilskuddsmidlene og utbetalingen fra ett departement til et annet og fordi det gjøres få realitetsendringer i regelverket. Det antas videre at endringene ikke vil få store konsekvenser for fordelingen av tilskuddsmidler for det enkelte studieforbund og dets medlemsorganisasjoner.
+
+Departementet foreslår på denne bakgrunn at tilskuddsordningen deles mellom Kulturdepartementet og Kunnskapsdepartementet i tråd med forslaget som har vært på høring. Kunnskapsdepartementet vil i statsbudsjettet for 2021 foreslå en overføring av midler til Kulturdepartementets budsjettkapitler. Delingen av tilskuddsordningen forutsetter at det gjøres nødvendige tilpasninger i voksenopplæringsloven. Vi viser til forslag til endringer nedenfor.
+
+### Lovens formål
+
+#### Gjeldende rett
+
+Voksenopplæringsloven § 1 synliggjør formålet med loven, og hvilke verdier loven vil fremme. Etter denne bestemmelsen skal loven fremme livslang læring. I begrepet livslang læring ligger et «fra vugge til grav»-perspektiv som erkjenner at læring skjer på alle stadier av livet, i ulike former og på ulike arenaer. Når loven bruker begrepet *opplæring* forstås organiserte kursaktiviteter
+
+#### Høringsforslaget
+
+I høringsforslaget ble det foreslått en språklig justering i § 1 første ledd ved at ordet *læringsaktivitet* var foreslått erstattet med ordet *kursaktivitet*.
+
+Videre ble det foreslått å tydeliggjøre målsettingene som er rettet mot kultur- og frivillighetspolitikken gjennom et nytt andre ledd i § 1. Forslaget var forankret i frivillighetspolitikken og kulturpolitikken. I høringsnotatet ble det vist til at i Frivillighetsmeldingen og Kulturmeldingen var det definerte mål som korresponderer med studieforbundenes oppdrag og virke. Dette er mål om bred deltakelse og en sterk og uavhengig frivillig sektor samt mål om å fremme dannelse og kritisk refleksjon, og mål om å ta vare på og formidle kulturarv.
+
+#### Høringsuttalelsene
+
+Det er elleve høringsinstanser som har uttalt seg om forslaget og alle støtter forslaget til utvidelsen av formålsparagrafen og ordlyden i det foreslåtte andre ledd. Dette er *Vofo, Studieforbundet Funkis, Kristelig studieforbund, Studieforbundet natur og miljø, Musikkens studieforbund, Studieforbundet kultur og tradisjon, Venstres Studieforbund, Norges Korforbund, Frivillighet Norge, Norges Revmatikerforbund og Kulturalliansen*.
+
+#### Departementets vurdering
+
+Alle høringsinstansene som har uttalt seg om forslaget støtter dette. Departementet foreslår at formålsbestemmelsen endres ved at læringsaktivitet endres til kursaktivitet og nytt andre ledd som følge av delingen av ordningen mellom Kunnskapsdepartementet og Kulturdepartementet legges til, se lovforslaget § 1.
+
+### Virkeområdet og definisjoner
+
+#### Gjeldende rett
+
+Voksenopplæringsloven § 2 angir virkeområdet for loven. Dette er en videreføring av virkeområdet til voksenopplæringsloven fra 1976 når det gjelder studieforbund og frittstående skoler. Bestemmelsen fastsetter at loven gjelder godkjenning for statstilskudd for godkjente studieforbund og godkjente nettskoler, og vilkår for slikt tilskudd. I tillegg viser bestemmelsen til at loven gjelder vilkår for statstilskudd for skoler som 30. juni 2010 er godkjent og i drift etter friskolelova kapittel 6A, eller for skoler som blir godkjent etter loven kapittel 4 (diverse skoler).
+
+I voksenopplæringsloven § 3 er bl.a. nettskole og fjernundervisning definert. I forskrift om studieforbund og nettskoler § 2 bokstav d) er politiske partiers studieforbund definert.
+
+#### Høringsforslaget
+
+I høringsforslaget ble det ikke foreslått noen endringer i virkeområdebestemmelsen som en følge av delingen mellom Kunnskapsdepartementet og Kulturdepartementet. Som følge av at det i høringsnotatet ble foreslått å oppheve kapittel 3 om nettskoler og flytte bestemmelsene om diverse skoler i kapittel 4 til friskoleloven, foreslo departementet en justering av bestemmelsen om virkeområde.
+
+Videre foreslo departementet å endre definisjonene i § 3 ved å ta ut definisjonen av nettskole og fjernundervisning. I tillegg ble det foreslått å ta inn i loven den definisjonen av politiske partiers studieforbund som i dag fremgår av forskrift. Dette er kun en teknisk endring.
+
+#### Høringsuttalelsene
+
+Ingen av høringsinstansene uttalte seg direkte om forslaget om endringer i virkeområdebestemmelsen. Det er flere som er negative til å oppheve kapittel 3 om nettskoler og flytte bestemmelsene om diverse skoler i kapittel 4 til friskoleloven, se omtale nedenfor.
+
+#### Departementets vurdering
+
+Endringene i § 2 er avhengig av at endringene i kapittel 3 og 4 gjennomføres. Det samme gjelder forslaget om å fjerne definisjonen av nettskole og fjernundervisning. Definisjonen av politiske partiers studieforbund bør uansett flyttes fra forskrift om studieforbund og nettskoler, og til voksenopplæringsloven.
+
+Departementet foreslår at henvisningen til godkjente nettskoler og til kapittel 2 og 3 i loven oppheves. Videre at andre ledd i bestemmelsen oppheves og dagens tredje ledd blir nytt andre ledd. Se lovforslaget § 2.
+
+I tillegg foreslår departementet at definisjonene av nettskoler og fjernundervisning i § 3 bokstav d) og e) oppheves. Definisjonen av politiske studieforbund blir ny bokstav d). Se lovforslaget § 3.
+
+### Overordnede mål for studieforbundenes aktivitet
+
+#### Gjeldende rett
+
+Voksenopplæringsloven § 4 fastsetter enkelte overordnede mål for studieforbundenes kursaktivitet, som utfyller lovens generelle formålsbestemmelse i § 1. Hensikten med en egen bestemmelse med overordnede mål er å bidra til en tydeliggjøring av studieforbundenes rolle og oppgaver i samfunnet, jf. Ot.prp. nr. 87 (2008–2009) om lov om voksenopplæring.
+
+Studieforbundene er forskjellige og målene er overordnede. Dette innebærer bl.a. at det ikke kreves at hvert studieforbund fullt ut oppfyller samtlige mål, jf. Ot.prp. nr. 87 (2008–2009) punkt. 4.3.1.4.
+
+#### Høringsforslaget
+
+I høringsnotatet ble det foreslått enkelte endringer i bestemmelsen om de overordnede målene for studieforbundenes kursaktivitet. De endringene som ble foreslått, var begrunnet i delingen av tilskuddsordningen mellom Kunnskapsdepartementet og Kulturdepartementet.
+
+Departementet foreslo at det klart kommer frem i § 4 at studieforbundene skal drive sin kursaktivitet på grunnlag av ett eller flere av de overordnede målene. Departementet understrekte at dette ikke var en endring i rettstilstanden kun en endring for å lette forståelsen av bestemmelsen.
+
+I høringsnotatet mente departementet at målformuleringen i dagens bokstav b) *om å gjøre det mulig for mennesker å påvirke egen livssituasjon* er dekket av formålet i lovens § 1. Departementet foreslo å erstatte dagens bokstav b) med målformuleringen «*å senke terskelen for læring og deltakelse i frivillige organisasjoner»*. Begrunnelsen for den nye målformuleringen var at studieforbundene støtter opp under frivillige organisasjoner som en kilde til fellesskap, demokratiutøvelse og kompetanse. Videre ble det lagt vekt på at det er et mål at denne kilden skal være tilgjengelig for alle, uansett alder, kjønn, etnisitet, funksjonsnivå eller interessefelt. Gjennom tilrettelegging for ulike/sårbare grupper og et variert kurstilbud, bidrar studieforbundene til å skape bred deltakelse i frivillige organisasjoner.
+
+Videre foreslo departementet å endre bokstav c) fra dagens formulering «*å bekjempe utstøting og bidra til inkludering»* til: «*å bekjempe utenforskap og bidra til inkludering*». Dette er i tråd med begrepsbruk i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse — Samordnet innsats for voksnes læring*, og i tråd med moderne begrepsbruk.
+
+Som en følge av delingen mellom Kunnskapsdepartementet og Kulturdepartementet foreslo departementet å legge til *og bevare kulturarven gjennom læring* i bokstav e).
+
+#### Høringsuttalelsene
+
+Det er 13 høringsinstanser som har uttalt seg om forslaget om endringer i § 4 og overordnede mål for studieforbundenes kursaktivitet. Dette er *Vofo, Musikkens studieforbund, Studieforbundet kultur og tradisjon, Senterpartiets studieforbund, Studieforbundet natur og miljø, Kristelig studieforbund, Norges Revmatikerforbund, Kulturalliansen, Norges Korforbund, Studieforbundet Solidaritet, Venstres studieforbund, Studieforbundet Funkis og LO.*
+
+De to nye foreslåtte målene har støtte fra elleve av høringsinstansene. Men de støtter ikke å fjerne dagens bokstav b), og noen argumenterer med at dersom man fjerner bokstav b) fordi dette målet er dekket av det overordnede målet i formålsparagrafen § 1, så burde man også fjerne gjeldende bokstav d) fordi dette også kan sies å være dekket. De fleste høringsinstansene som har uttalt seg mot forslaget, mener at det er en vesentlig forskjell mellom lovens formål og mål for studieforbundenes kursvirksomhet. Andre mener at dagens bokstav b) ivaretar viktige aspekter ved studieforbundenes kursvirksomhet. *Kulturalliansen* og *Kristelig studieforbund* tar til orde for at bokstav e) burde utvides til: *å styrke kulturelt mangfold og bevare kulturarven gjennom læring, og øke deltagelsen i kulturlivet*, altså både gammel og ny formulering. Dette er begrunnet med at økt deltakelse i kulturlivet er et viktig mål i kulturpolitikken. Noen av studieforbundene støtter utvidelsen av de overordnede målene fordi det vil bidra til å synliggjøre og styrke studieforbundenes rolle og kursvirksomhet i frivillighetspolitikken og kulturpolitikken. Dette kan igjen bidra til å underbygge, styrke og utfylle begrepet livslang læring i et større og mer helhetlig samfunnsmessig perspektiv
+
+*LO* foreslår å endre bokstav c) til *å bidra til inkludering*. De begrunner dette med at dette er begrepsbruken i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse – samordnet innsats for voksnes læring*.
+
+#### Departementets vurdering
+
+Departementet har tidligere fått kritikk av Riksrevisjonen for at det er vanskelig både å måle og rapportere godt på de overordnede målene som er satt i § 4. Departementet foreslår at det presiseres at studieforbundene skal drive sin kursaktivitet på grunnlag av *minst ett* av målene. Videre er ordet opplæringsaktivitet endret til kursaktivitet. Dette er ingen endring av rettstilstanden. Departementet mener at dagens bokstav b) er særdeles vanskelig å måle måloppnåelse på. Departementet mener også at hensynene som ligger til grunn for dette målet kan sies å være dekket av forslagene til ny bokstav b) og ny bokstav c) til sammen.
+
+Departementet mener det er viktig at bokstav c) både inneholder «*bekjempe utenforskap og bidra til inkludering*».
+
+Når det gjelder forslaget til ny målformulering i bokstav e) er dette ment å knytte kultur og læring sammen. Ved å legge til «*deltakelse i kulturlivet»* som er foreslått av et par høringsinstanser, vil dette målet etter departementets vurdering bli mer krevende å måle. Hovedmålet med tilskuddsordningen til studieforbund er opplæring og det er derfor viktig å knytte dette direkte til kultur og betydningen av opplæring innenfor kultur. Dette er også studieforbundene opptatt av. Deltakelse er en positiv bieffekt av ordningen som vi mener blir ivaretatt gjennom den nye bokstav b).
+
+Departementet foreslår noen endringer i første ledd, videre å erstatte dagens bokstav b) med en ny bestemmelse og endre dagens bokstav c) og e). Se lovforslaget § 4.
+
+### Godkjenning av studieforbund
+
+#### Gjeldende rett
+
+Voksenopplæringslovens § 5 oppstiller vilkår for godkjenning av studieforbund. Bestemmelsen gir ikke studieforbund som oppfyller vilkårene, rett til tilskudd, men angir de vilkår som må være oppfylt for at godkjenning for tilskudd skal kunne gis. For at godkjenning til studieforbund skal gis må vilkårene i § 5 andre ledd bokstavene a) til f) være oppfylt. Ved vurderingen av om godkjenning skal gis vil departementet også legge vekt på om det er rom for det i budsjettet. Det er Stortinget som gjennom behandlingen av de årlige statsbudsjettene treffer beslutningen om det skal gis tilskudd og størrelsen på tilskuddsposten.
+
+I § 5 tredje ledd gis det hjemmel for departementet til å fastsette egne regler i forskrift for samiske og politiske studieforbund.
+
+#### Høringsforslaget
+
+I høringsnotatet ble det ikke foreslått noen endringer i § 5. Delingen av tilskuddsordningen for studieforbund mellom Kunnskapsdepartementet og Kulturdepartementet skulle ikke innebære noen endringer i kriteriene for å bli godkjent som studieforbund. Uavhengig av om det søkes godkjenning under Kunnskapsdepartementet eller Kulturdepartementet er det de samme kriteriene for godkjenning av studieforbundet som skal gjelde. Delingen innebærer imidlertid den praktiske endring at et studieforbund enten kan søke om godkjenning under Kunnskapsdepartementet eller Kulturdepartementet, avhengig av studieforbundets overordnede formål. Ved eventuell søknad om godkjenning av et nytt studieforbund vil departementene blant annet legge vekt på om det er rom for godkjenning av et nytt studieforbund i statsbudsjettet.
+
+#### Høringsuttalelsene
+
+Selv om det ikke var foreslått noen endring i § 5 har elleve høringsinstanser foreslått en endring i bokstav d) som i dag stiller krav om at studieforbundene må ha virksomhet over hele landet, herunder en regional organisasjonsmessig forankring. *Kompetanse Norge, Vofo*, *Akademisk Studieforbund, Studieforbundet AOF, Folkeuniversitetet og Studieforbundet næring og samfunn, Studieforbundet natur og miljø, Studieforbundet Solidaritet, Venstres studieforbund, Studieforbundet Funkis og Soroptimist International Norgesunionen, kommenterte forslaget.*
+
+*Kompetanse Norge* skriver at selv om det ikke er foreslått endring i bestemmelsen foreslår de at kravet i bokstav d) endres. De er enige i at studieforbundene må ha virksomhet over hele landet, men er ikke enig at det skal være et krav om regional organisasjonsmessig forankring. De viser til at det ikke fremgår av lov eller forskrift hvilke oppgaver som ligger til det regionale leddet. Videre at en slik detaljregulering ikke er i tråd med utviklingen i samfunnet ellers. De mener at kravet om regional organisering kan påføre studieforbundene unødvendig administrasjon og kostnader, og at dette ikke vil være i tråd med de signalene som for øvrig ligger i budsjettdokumenter og utkast til nytt regelverk, om å benytte mest mulig av tilskuddet til kursvirksomhet i medlemsorganisasjonene. For å bidra til mer fleksibilitet, mener de at vurderingen om eventuelt å etablere regionale ledd skal ligge hos studieforbundene selv. Samtidig kan det godt være et krav om at studieforbundet kan dokumentere hvordan de mener at organiseringen sikrer at det er virksomhet i hele landet, og at dette er noe Kompetanse Norge kan følge opp i de regelmessige tilsynene de gjennomfører. Kompetanse Norge foreslår ny tekst i bestemmelsen:
+
+«d) Det må ha virksomhet over hele landet og kunne dokumentere hvordan dette er organisert.»
+
+*Akademisk Studieforbund, Studieforbundet AOF, Folkeuniversitetet og Studieforbundet næring og samfunn* uttaler at en regional forankring vil være viktig i tiden som kommer, særlig med tanke på at fylkeskommunene får et økt ansvar for kompetansepolitikken, at studieforbundene skal være viktige bidragsytere og at det vil bli ulike arenaer for samhandling. Disse studieforbundene foreslår at formuleringen «*organisatorisk»* fjernes for å synliggjøre at regional forankring kan ivaretas uten en egen regional studieforbundsadministrasjon med ansatte, styrer, eget organisasjonsnummer, årsmøter etc. *Vofo* har den samme argumentasjonen og skriver i tillegg at Studieforbundene selv gjennom demokratiske prosesser bør få organisere sin regionale forankring slik de mener er mest hensiktsmessig og at kravet til organisatorisk forankring fører til ekstra administrative kostnader for studieforbundene. De skriver videre at dette vil bidra til større fleksibilitet og mulighet til å tilpasse det regionale arbeidet til organisasjonsmessige og lokale forhold. *Vofo* skriver også i sin uttalelse at studieforbundene ønsker å ha en regional forankring særlig med tanke på at fylkeskommunen får et økt ansvar for kompetanse, frivillighets- og kulturpolitikken. Disse foreslår følgende tekst:
+
+«d) Det må ha virksomhet over hele landet, herunder en regional forankring.»
+
+#### Departementets vurdering
+
+Departementet foreslo ingen endringer i voksenopplæringsloven § 5. Samtidig ser vi at høringsinstansene har gode argumenter for å endre kravet til organisasjonsmessig regional forankring. De studieforbundene som uttaler seg om forslaget fra Vofo støtter dette, og det er flertallet av studieforbundene. Departementet ser det som lite kontroversielt å ta bort kravet til regional organisasjonsmessig forankring, så lenge det er et krav om at de fortsatt skal ha virksomhet over hele landet og at de skal kunne dokumentere hvordan dette er organisert.
+
+Departementet understreker at studieforbund som er godkjent etter voksenopplæringsloven av 2009, ikke skal søke om ny godkjenning som følge av at ordningen deles mellom Kunnskapsdepartementet og Kulturdepartementet. De studieforbundene som overføres til ordningen som skal forvaltes av Kulturdepartementet får videreført sin nåværende godkjenning.
+
+Departementet foreslår å endre kravet til regional forankring slik det er foreslått fra studieforbundene og Vofo, med en liten språklig endring, se lovforslaget § 5 bokstav d).
+
+### Modell for statstilskudd til studieforbund
+
+#### Gjeldende rett
+
+Tilskuddsordningen til studieforbundene skal medvirke til at studieforbundene og deres medlemsorganisasjoner kan tilby fleksibel og brukertilpasset opplæring for voksne. Tilskuddet skal bidra til å redusere opplæringskostnadene for deltakerne.
+
+I voksenopplæringsloven ble det i 2009 innført en ny tilskuddsmodell for studieforbundene. Tilskuddsmodellen tok hensyn til at studieforbundene også har inntekter fra andre kilder, som deltakeravgift, kontingenter, støtte fra øvrige departementer og direktorater midler fra kommuner, fylkeskommuner, sponsormidler, betaling for oppdragsvirksomhet mv.
+
+Tilskuddet består av grunntilskudd, opplæringstilskudd og tilretteleggingstilskudd.
+
+- *Grunntilskuddet* skal dekke utgifter til pedagogisk utviklingsarbeid, universell tilrettelegging, medarbeiderutvikling mv.
+
+- *Opplæringstilskuddet* utgjør hoveddelen av det totale tilskuddet, og fastsettes på grunnlag av studieforbundets opplæringsaktivitet to år tilbake i tid.
+
+- *Tilretteleggingstilskuddet* er et tillegg til opplæringstilskuddet, og skal sette studieforbundene i stand til å motvirke hindringer for deltakelse i opplæringen. Tilretteleggingstilskuddet fastsettes på grunnlag av innrapportert opplæringsaktivitet med særskilt tilrettelegging i tidligere år.
+
+Utfyllende bestemmelser om kriterier for tilskudd, beregningsregler, rapportering og kontroll er gitt i forskrift om studieforbund og nettskoler. I tillegg er det utarbeidet to rundskriv som omtaler hva departementet legger til grunn for hva tilskuddet kan benyttes til.
+
+I § 6 fjerde ledd er det en hjemmel for departementet til å fastsette egne bestemmelser om tilskudd for samiske studieforbund. Dette er gjort i forskrift om studieforbund og nettskoler.
+
+#### Høringsforslaget
+
+Ved en deling av tilskuddsordningen, forutsatte departementet at en medlemsorganisasjon ikke kunne være medlem av, eller motta tilskudd fra, flere studieforbund, og at et studieforbund og dets medlemsorganisasjoner kun kunne motta tilskudd fra enten Kunnskapsdepartementet eller Kulturdepartementet. Departementet foreslo i høringsnotatet derfor en presisering av dette i loven § 6 første ledd.
+
+I høringsforslaget ble det vist til at dagens § 6 inneholder relativt detaljerte regler om innholdet i tilskuddet og disse med fordel kunne tas ut av loven og reguleres i forskrift om studieforbund. For å gjøre loven mer overordnet, mindre detaljregulert og mer moderne, foreslo departementet å ta ut bestemmelsen om tilskuddskomponentene i loven § 6 andre ledd og i stedet gi departementet en hjemmel til å fastsette en forskrift om tilskudd, rapportering og kontroll.
+
+I tredje ledd er det bestemmelser om overgangsordning som gjaldt da voksenopplæringsloven ble endret i 2009. Denne bestemmelsen er ikke lenger aktuell og departementet foreslo å oppheve denne overgangsordningen .
+
+Det ble ikke foreslått andre endringer i § 6.
+
+#### Høringsuttalelsene
+
+Det er 18 høringsinstanser som har gitt innspill til endringene i § 6. Av disse er det 16 som ikke støtter forslaget til at tilskuddskomponentene skal tas ut av loven og reguleres i forskrift. Flere av høringsinstansene gjentar argumentasjonen fra Vofo.
+
+*Akademisk Studieforbund, Studieforbundet AOF, Studieforbundet Folkeuniversitetet, Studieforbundet næring og samfunn* foreslår at beskrivelsen av komponentene beholdes i loven. De viser til at en lovmessig forankring er den mest hensiktsmessige måten å skape langsiktige, sikre rammer for organiseringen av ordningen. Videre at det også er mer robust når det kommer til utvikling av regelverkforståelse, og rammene for praksis. *Studieforbundet kultur og tradisjon* viser til at det gir en større trygghet og forutsigbarhet å ha dette i lov. *Senterpartiets Studieforbund* viser også til at mottakerne utgjør en stor målgruppe, noe som taler for at regelverket og rammevilkårene bør forankres i Stortinget. *Vofo* på sin side mener at det må reguleres i lov og at en regulering i forskrift vil bidra til uforutsigbare rammevilkår. Videre at loven har et svært allment formål og tilskuddsmodellen bør forankres i lov. *Studieforbundet natur og miljø* mener at komponentene fortsatt må reguleres i lov og at de tekniske detaljene kan være i forskrift*. Musikkens studieforbund* sier på samme måte som Vofo at regulering av tilskuddet i forskrift vil bidra til uforutsigbare rammevilkår. Videre at målgruppen for tilskuddet er stor og består av flere tusen lokale lag og foreninger, og målgruppens størrelse taler for at lovverket og rammevilkårene før forankres i Stortinget. *Studieforbundet Solidaritet* skriver at de ikke støtter departementets forslag om at retten til statstilskudd skal fjernes fra loven og fastsettes i forskrift. De uttaler videre at det er å uthule loven og gjør studieforbundenes virksomhet enda mer sårbar og uforutsigbar enn hva tilfellet er i dag. *Venstres Studieforbund* og *Studieforbundet Funkis* har de samme argumentene som *Vofo,* og støtter ikke forslaget. I tillegg er det enkelte medlemsorganisasjoner som har uttalt seg om at de ikke støtter forslaget.
+
+*Norske Samers Riksforbund* og *Samisk studieforbund* har ikke uttalt seg om tilskuddskomponentene, men påpeker at § 6 må formuleres slik at samiske studieforbund sikres et økonomisk fundament for drift som samsvarer med formålet i unntaksreglene i loven.
+
+#### Departementets vurdering
+
+Departementet vil understreke at tilskuddsordningen til studieforbund ikke er en rettighetsbasert tilskuddsordning som gir automatisk rett til tilskudd dersom man er godkjent som studieforbund. Loven fastsetter at godkjente studieforbund *kan* motta tilskudd. Det er Stortinget som i behandlingen av statsbudsjettet, bestemmer om det skal gis tilskudd og størrelsen på tilskuddet til studieforbundene.
+
+Departementet ser at forslaget til endringer i § 6 første ledd kunne vært klarere, og kan leses som at det ikke foreslås noen regler om at studieforbund kan motta statstilskudd. Departementet hadde ingen intensjon om å endre dagens regel om at godkjente studieforbund kan motta tilskudd. Formålet med det foreslåtte tillegget i departementets høringsforslag var å presisere at ingen studieforbund kan motta tilskudd både fra Kunnskapsdepartementet og Kulturdepartementet etter lovens bestemmelser. Departementet foreslår på bakgrunn av innspillene i høringsrunden at dagens første ledd første setning beholdes slik at det fortsatt fremgår at studieforbund som er godkjent etter § 5 i loven kan få statstilskudd. Departementet foreslår at det i § 6 første ledd legges til en andre setning om at studieforbundene kun kan motta støtte etter loven fra det departement studieforbundet er godkjent av. For studieforbundene som i sin tid ble godkjent av Kunnskapsdepartementet og hvor forvaltningen av tilskudd nå blir flyttet til Kulturdepartementet, legges det til grunn at «*departementet*» skal være Kulturdepartementet. Se forslag til lovbestemmelse § 6 første ledd.
+
+Når det gjelder forslaget om endring av andre ledd, er departementet av den oppfatning at det er uhensiktsmessig å ha detaljerte regler om de ulike delene i tilskuddet i loven, noe også erfaring har vist. Videre at krav til minste aktivitetsnivå, kriterier og beregning av tilskuddet er regulert i forskriften. Departementet mener derfor at det er naturlig og brukervennlig at de tekniske bestemmelsene om tilskudd bør fremgå samlet i forskriften.
+
+Departementet mener videre at studieforbundene har tilstrekkelig forutsigbarhet når innretningen på tilskuddet og de ulike delene er hjemlet i forskrift. Departementet vil understreke at en eventuell endring i forskrift også krever offentlig høring og det vil være en åpen prosess forut for eventuelle endringer. I tillegg vil de årlige tilskuddene til studieforbundene behandles av Stortinget i forbindelse med statsbudsjettet. Etter departementets oppfatning er det et behov for å justere lovteksten ut fra generelle lovtekniske hensyn om å ikke ha mer detaljert lov enn nødvendig. Departementet foreslår derfor å gi en forskriftshjemmel til å gi regler om tilskudd, rapportering og kontroll av tilskudd, se lovforslaget § 6 andre ledd, med hensikt om å regulere dette i forskrift.
+
+### Tilsyn
+
+#### Gjeldende rett
+
+Etter voksenopplæringsloven § 11 skal departementet føre tilsyn og kontroll med studieforbundene, og i den sammenheng skal departementet ha tilgang til relevant dokumentasjon. Departementets tilsynsmyndighet er delegert til Kompetanse Norge, og er knyttet til forvaltningen av statstilskuddet. Dette innebærer at tilsynet er en kontroll av om forutsetningene for statstilskuddet er oppfylt. Forutsetningene for statstilskuddet følger blant annet av lov, forskrift og de forutsetninger og krav som er lagt til grunn av Stortinget i forbindelse med behandlingen av de årlige statsbudsjettene. Det kan også stilles krav i tilskuddsbrevet til det enkelte studieforbund.
+
+#### Høringsforslaget
+
+Departementet foreslo i høringsnotatet noen språklige justeringer av teksten i § 11 første ledd. Videre foreslo departementet å lovfeste at departementet har rett på dokumentasjon uten hinder av lovbestemt eller avtalt taushetsplikt. Hensikten med en slik presisering i loven var å sikre at tilsynsmyndigheten skal ha mulighet til å gjennomføre tilsyn på en tilfredsstillende måte ved å få tilgang til all relevant dokumentasjon. I tillegg foreslo departementet en forskriftshjemmel om å fastsette forskrift med nærmere bestemmelser om tilsyn og kontroll.
+
+Videre foreslo departementet i nytt andre ledd at ved avvikling av et studieforbund, kan departementet kreve tilbakeført gjenstående midler som skriver seg fra statstilskuddet. I tillegg foreslo departementet en hjemmel til å gi forskrift med nærmere bestemmelser om avvikling av studieforbund. Grunnen til dette var at departementet ønsket å sikre forutsigbarhet ved å regulere avvikling av studieforbund. Prosedyrer ved avvikling av studieforbund har utformet seg gjennom praksis, og departementets forlag er i utgangspunktet en kodifisering av gjeldende forvaltningspraksis.
+
+#### Høringsuttalelsene
+
+Det er ni høringsinstanser som har gitt innspill til forslaget. Syv av disse, *Vofo, Musikkens studieforbund, Senterpartiets Studieforbund, Norsk Revmatikerforbund, Studieforbundet Solidaritet, Venstres Studieforbund og Studieforbundet Funkis*, ber departementet om å utrede eller innhente uttalelse fra Datatilsynet om hvorvidt lovforslaget ivaretar hensynet til personvern tilstrekkelig. De viser bl.a. til at de forvalter personsensitive opplysninger, videre at det er mange mennesker i landet som deltar på kurs i regi av studieforbund og medlemsorganisasjoner og som av viktige grunner ønsker en viss anonymisering, bl.a. redsel for eget liv. *Vofo* skriver bl.a. at de legger til grunn at tilsynshjemmelen ikke strekker seg lenger enn den til enhver tid gjeldende rett tilsier. De ber også om at departementet innhenter uttalelse fra Datatilsynet.
+
+*Frivillighet Norge* understreker at lovforslaget må ivareta hensynet til personvern og at det må unngås at studieforbund og lokale kursarrangører risikerer å komme i en situasjon der de har behandlet personinformasjon uten at det var tilstrekkelig lovhjemmel for dette.
+
+*Studieforbundet natur og miljø* og enkelte av deres medlemsorganisasjoner, støtter de foreslåtte tillegg og presiseringer vedrørende departementets innsyn ved tilsyn, samt rett til å kreve tilbakeført statstilskudd ved avvikling av studieforbund. Vofo støtter også reglene om tilbakeføring ettersom dette regulerer gjeldende rett.
+
+#### Departementets vurdering
+
+Flere høringsinstanser ber departementet om å utrede eller innhente uttalelse fra Datatilsynet om lovforslaget ivaretar hensynet til personvern tilstrekkelig.
+
+Det er studieforbundene som søker om tilskudd etter loven. De skal fordele tilskuddsmidlene til organisasjonsledd og medlemsorganisasjoner som arrangerer kurs, jf. forskrift om studieforbund og nettskoler § 7 siste ledd. Voksenopplæringsloven § 11 pålegger departementet å føre tilsyn og kontroll med midlene, og skal ha tilgang til nødvendig dokumentasjon. Etter dagens forskrift om studieforbund og nettskoler § 9 første ledd er det studieforbundene som har ansvar for å rapportere inn korrekt antall kurstimer. Innrapporterte studietiltak skal dokumenteres med fremmøtelister som viser møtedatoer og deltagernes navn, fødselsår og bostedsadresse. Disse reglene vil bli videreført i de nye forskriftene.
+
+Det samme gjelder for tilretteleggingstilskudd, det er studieforbundet som søker om tilretteleggingstilskudd og skal fordele disse. Slike tilskudd skal brukes til å fjerne hindringer for deltakelse i opplæring, jf. dagens forskrift § 7 fjerde ledd, f. eks, ved å kompensere de ekstra utgiftene studieforbundene har knyttet til tilrettelegging av opplæringen for deltakere som har behov for dette. Studieforbundet skal dokumentere ekstra behov for særskilt tilrettelegging, og at det medfører ekstra kostnader. Dokumentasjonen kan gis samlet for hvert kurs, og det kreves ikke spesifikasjon av behov på individnivå. Dokumentasjonen skal være tilgjengelig hos studieforbundet.
+
+Etter personvernforordningen vil studieforbundet være behandlingsansvarlig for all dokumentasjon av kurs, herunder deltakerlister, og de må sørge for at kravene etter personopplysningsloven og personvernforordningen er oppfylt. Enhver behandling av personopplysninger må ha et behandlingsgrunnlag. I disse sakene er grunnlaget å finne i personvernforordningen artikkel 6 bokstav c). Behandlingen vil være lovlig dersom den er nødvendig for å oppfylle de rettslige forpliktelser som påhviler den behandlingsansvarlige. Supplerende behandlingsgrunnlag er fastsatt i nasjonal rett, gjennom voksenopplæringsloven og forskrift til denne. For den enkelte kursarrangør (medlemsorganisasjon) vil samtykke være behandlingsgrunnlag, og det vil være nødvendig å be deltakerne om samtykke til å dele personopplysningene med studieforbundet. Slikt samtykke vil være et vilkår for å være tilskuddsberettiget kurs.
+
+Departementet legger videre til grunn at voksenopplæringsloven § 11 gir hjemmel for at tilsynsmyndigheten kan behandle personopplysninger til bruk for tilsyn og kontroll. Tilsynsmyndigheten vil ha taushetsplikt etter forvaltningsloven.
+
+Departementet har kommet til at det ikke er nødvendig å gå videre med forslaget om at departementet kan innhente opplysninger uten hinder av taushetsplikt. Dette fordi studieforbund ikke har lovpålagt taushetsplikt. Avtalt taushetsplikt vil uansett ikke kunne begrense departementets plikt til å innhente dokumentasjon etter voksenopplæringsloven.
+
+Departementet foreslår at departementets rett til å kreve tilbakeført gjenstående midler som kommer fra statstilskuddet dersom studieforbundet avvikler virksomheten presiseres i loven. Videre foreslås det en hjemmel for departementet til å fastsette forskrift som tilsyn og regler om avvikling av studieforbund, se lovforslaget § 11.
+
+### Andre forslag i høringsrunden
+
+*Norges Korforbund*, *Kristelig studieforbund*, *Studieforbundet natur og miljø* og *Musikkens studieforbund* foreslo endringer i § 10 om dokumentasjon på gjennomført opplæring. I bestemmelsen er det et krav om at deltakere på kurs skal ha dokumentasjon på gjennomført opplæring. Disse fire høringsinstansene foreslår å endre kravet fra *skal* til *har rett til*. De begrunner dette med at i opplæringen i frivilligheten er det mange som deltar på kurs hvert semester og som ikke ønsker å motta kursbevis hvert semester. Videre at det også er andre som ikke har behov for kursbevis i alle typer kurs. *Studieforbundet natur og miljø* mener at kursbevis er viktig men at kursarrangør må slippe å skrive ut kursbevis til deltakere som ikke ønsker dette. *Musikkens studieforbund* mener bl.a. at kravet om kursbevis skaper mye ekstraarbeid for kursarrangørene.
+
+Høringsnotatet omtalte ikke endringer i § 10. Slike endringer utredes og sendes på høring til berørte aktører. Departementet ser derfor ikke grunnlag for gå videre med forslaget i denne omgang.

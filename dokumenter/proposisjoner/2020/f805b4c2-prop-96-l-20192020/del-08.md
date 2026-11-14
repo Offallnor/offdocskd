@@ -1,884 +1,760 @@
-# Prop. 96 L (2019–2020), del 8 av 15 (side 83–92)
+# Prop. 96 L (2019–2020), del 8 av 18
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/f805b4c2-prop-96-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-96-l-20192020/id2699851/
 - Original-PDF: https://www.regjeringen.no/contentassets/bc1ea1a163a5452e9b616b77f4522e63/no/pdfs/prp201920200096000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 83]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-«Ref §14 c, så bør det være tilstrekkelig at barnehagens personalkostnader er et resultat av at
-den tilfredsstiller bemannings- og pedagognormen, og benytter tariffavtale for lønnsbetingelser og pensjon. Vi vil også påpeke at barnehagenes livssyklus ofte er av en slik karakter
-at det er lavere personalkostnader ved oppstart
-av en barnehage, enn senere i livssyklusen.
-Dette er en faktor som må hensyntas når man
-vurderer personalkostnadene i en privat vs.
-kommunale barnehager.»
-Også PBL er opptatt av vilkåret i bokstav c. PBL
-mener departementet legger til grunn en for snever forståelse av vilkåret i høringsnotatet, og foreslår at formålet med kravet til personalkostander
-inkluderes i lovteksten. PBL skriver blant annet:
-«Ved vurderingen av vesentlighet, er det ikke
-bare størrelsen på avviket som er relevant. Det
-følger av forarbeidene at lovgivers formål har
-vært å ramme «urimelige innsparinger ved
-lavere bemanning eller dårligere lønns- og
-arbeidsvilkår». Lovgiver klargjør her hvilke
-avviksårsaker som er relevante å vurdere opp
-mot bestemmelsen.
-Ved vesentlighetsvurderingen må det
-avklares hvilke årsaker som ligger til grunn for
-avviket i personalkostnadene. Det er nødvendig for å kunne vurdere om avviket er en konsekvens av en «urimelig innsparing ved lavere
-bemanning eller dårligere lønns- og arbeidsvilkår». Avvik som kan føres tilbake til andre årsaker, som for eksempel tariffbundet lønnsutvikling, herunder forskjeller i ansiennitet, forskjeller i tilskuddsnivå med mer, vil ikke være i strid
-med bestemmelsen.»
-Blant instansene som støtter forslaget, er det
-enkelte som mener regelverket bør strammes inn
-fremfor kun å tydeliggjøres. Oslo kommune mener
-at regelverket bør gjøres strengere med hensyn til
-adgangen til å ta utbytte og gi konsernbidrag og
-skriver:
-«Oslo kommune er trolig den kommunen som
-mest erfaring med å føre tilsyn med private barnehagers etterlevelse av reglene om bruk av
-offentlige tilskudd og foreldrebetaling. (…)
-Resultatene fra tilsynene viser at regelverket
-gir mulighet til å kontrollere at private barnehager bruker offentlige tilskudd og foreldrebetaling i samsvar med regelverket. Oslo kommunes erfaring er likevel at det er fullt mulig for
-
-81
-
-en privat barnehage å oppnå urimelige høye
-overskudd selv om vilkårene i loven overholdes. Kommunen mener derfor at det bør gjøres
-innholdsmessige endringer i kravene til bruken av offentlige tilskudd og foreldrebetaling
-for å sikre at midlene kommer barna til gode.
-Departementet bør bl.a. vurdere om det er
-flere bestemmelser fra tilsvarende regelverk
-for friskoler og private høyskoler som kan tas
-inn i barnehageregelverket.»
-Asker kommune påpeker at de ikke kan se at det er
-foreslått forbud mot å låne ut penger fra barnehagen, og viser til at utlån til nærstående kan være
-en form for kamuflert utbytte. Asker kommune
-mener derfor det bør inkluderes en regulering om
-at utlån av barnehagens midler ikke er tillatt for å
-sikre at tilskudd og foreldrebetaling kommer
-barna i barnehagen til gode.
-Også enkelte private barnehager uttrykker at
-regelverket bør strammes inn. Kulturbarnehagen
-Tromsø og Utsikten barnehage er blant instansene
-som mener det bør strammes ytterligere inn på
-muligheter til å ta utbytte og gi konsernbidrag for
-private barnehager.
-Det er få instanser som ikke støtter forslaget.
-Skolelederforbundet er blant disse, og mener det
-bør innføres et utdelingsforbud for private barnehager, tilsvarende som for friskoler. Skolelederforbundet uttaler at de ikke ser hvorfor det skal være
-forskjellig regelverk for friskoler og barnehager
-på dette området.
-Det er 54 instanser som har gitt innspill til forslaget om å utarbeide en statlig veileder om bruk
-av offentlige tilskudd og foreldrebetaling. Av disse
-er det 52 instanser som støtter forslaget, mens to
-instanser gir kommentarer uten å ta stilling til forslaget. Det er ingen instanser som uttaler at de
-ikke støtter forslaget.
-Enkelte høringsinstanser kommenterer forslaget om veileder. Kristiansand kommune antyder at
-veilederen bør være så konkret som mulig, og
-skriver:
-«Kristiansand kommune mener den nye statlige veilederen om bruk av offentlige tilskudd
-bør være spesifikk på hva som faktisk menes
-med at «offentlige tilskudd og foreldrebetaling
-skal komme barna til gode». Det kan være en
-god ide å forskriftsfestes at overskudd over en
-gitt prosent av omsetningen (f.eks. 5 %) ikke er
-å anse som at pengene kommer barna til gode,
-og derfor som hovedregel vil bli krevd tilbakebetalt.»
-
-[Side 84]
-
-82
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Lunner kommune og Fylkesmannen i Oslo og
-Viken peker på sammenhengen mellom forslaget
-om å legge oppgaven med økonomiske tilsyn til et
-nasjonalt organ, og forslaget om en veileder. Sistnevnte skriver:
-«Vi støtter forslaget om innholdsmessige
-endringer i barnehageloven § 14a, selv om
-behovet for dette kanskje ikke er like stor dersom et nasjonalt organ overtar tilsynsrollen. En
-eventuell statlig veileder om bruk av offentlige
-tilskudd og foreldrebetaling, vil det da trolig
-heller ikke være like stort behov for.»
-
-8.2.5
-
-Departementets vurderinger
-
-8.2.5.1 Formålsbestemmelse
-Det er viktig å ha et regelverk som sikrer at
-offentlige tilskudd og foreldrebetalingen blir
-brukt til å drive gode barnehager. Dagens § 14 a
-ble innført i 2013 og er ment å sikre at offentlige
-tilskudd og foreldrebetaling kommer barna i barnehagen til gode. På oppdrag fra Utdanningsdirektoratet har Agenda Kaupang kartlagt kommunenes erfaringer med å praktisere regelverket om
-bruk av offentlige tilskudd og foreldrebetaling.
-Undersøkelsen viser at kommunene har delte
-meninger om hvorvidt § 14 a er et godt verktøy
-for å sikre at tilskuddet og foreldrebetalingen
-kommer barna i barnehagen til gode. 27,7 prosent
-av kommunene mener at bestemmelsen er et godt
-verktøy, mens 32,6 prosent mener at den ikke er
-et godt verktøy. Flere kommuner påpeker at regelverket er for lite konkret, og at det gir for stort
-rom for tolkninger og skjønnsmessige vurderinger. Rapporten viser at kun én prosent av de private barnehagene har hatt økonomisk tilsyn i perioden fra 2013 til 2016. At det føres få tilsyn kan
-også være et tegn på at kommunene opplever
-regelverket som vanskelig å praktisere.
-Departementet er kjent med at flere kommuner har ført tilsyn med § 14 a etter at rapporten fra
-Agenda Kaupang ble lagt fram. Departementet
-har også fått tilbakemelding fra enkelte kommuner og fylkesmenn om at det gradvis vil bli
-enklere å praktisere regelverket når det blir mer
-forvaltningspraksis på området.
-Setningen om at offentlige tilskudd og foreldrebetaling skal komme barna i barnehagen til
-gode, er i dag ikke et selvstendig krav som barnehagens disposisjoner skal vurderes opp mot. Dersom barnehagen kun har blitt belastet kostnader
-som direkte vedrører godkjent drift av barnehagen, ikke har overført verdier til eier, eiers nær-
-
-2019–2020
-
-stående mv. i strid med regelverket, og ikke har
-for lave personalkostnader, forutsetter loven at tilskuddet og foreldrebetalingen har kommet barna
-i barnehagen til gode.
-Flere kommuner og private barnehager opplever dagens bestemmelse i § 14 a som uklar. Dette
-ser blant annet ut til å skyldes at bestemmelsen er
-rettsteknisk komplisert. For å tydeliggjøre regelverket mener departementet derfor at det kan
-være hensiktsmessig å endre bestemmelsen i § 14
-a første ledd, slik at den kun angir kravene i bokstavene a, b og c. Samtidig mener departementet
-at det kan være hensiktsmessig å framheve «til
-gode»-setningen i en egen formålsbestemmelse,
-slik at det blir klart at det er dette som er formålet
-med reglene om bruk av offentlige tilskudd og
-foreldrebetaling.
-Det er bred støtte blant høringsinstansene for
-å tydeliggjøre «til gode»-setningen i en egen formålsbestemmelse. Høringsinstansene som støtter
-forslaget, viser blant annet til at en slik endring vil
-gjøre regelverket enklere å forstå og forvalte.
-Departementet legger derfor til grunn at det er
-hensiktsmessig å endre regelverket på denne
-måten. Dette vil ikke innebære noen innholdsmessige endringer i kravene til hvordan barnehagene
-skal bruke offentlige tilskudd og foreldrebetaling.
-PBL viser til at det fortsatt bør fremgå av lovteksten at barnehagene kan ha et rimelig årsresultat, slik det i dag gjør av § 14 a først ledd andre
-punktum. At denne formuleringen fortsatt fremgår av lovteksten, tydeliggjøre at det fortsatt skal
-være adgang for eier til å velge hvordan et eventuelt positivt årsresultat skal disponeres.
-I nåværende § 14 a første ledd andre punktum
-fremgår det at «Barnehagen kan ha et rimelig årsresultat». I denne formuleringen ligger det implisitt at dersom barnehagen oppfyller kravene til
-hvordan tilskudd og foreldrebetaling kan brukes,
-kan et positivt årsresultat disponeres fritt. Departementet foreslår derfor å tydeliggjøre lovteksten
-også på dette punktet. I forslaget til lovtekst, foreslår departementet derfor at det fremgår uttrykkelig at dersom barnehagen oppfyller kravene i
-lovens kapittel V, kan barnehagen disponere et
-eventuelt overskudd fritt. Dette er kun ment å
-innebære en språklig presisering, og ikke en
-materiell endring.
-
-8.2.5.2
-
-Vilkårene for lovlig bruk av offentlig
-tilskudd og foreldrebetaling
-I høringsnotatet vurderte departementet om det
-er nødvendig å gjøre innholdsmessige endringer i
-kravene til hvordan offentlige tilskudd og forel-
-
-[Side 85]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-drebetaling i dag kan anvendes. Enkelte høringsinstanser mener det er behov for å gjøre
-endringer i vilkårene for lovlig bruk av offentlige
-tilskudd og foreldrebetaling. Oslo kommune peker
-blant annet på at det bør vurderes om utdelingsforbudet som gjelder for friskoler også bør gjelde
-for private barnehager.
-Departementet vil vise til at den historiske
-bakgrunnen til henholdsvis barnehage- og friskolesektoren er svært ulik. Friskoler er et supplement til det offentlige skoletilbudet, og har vært
-underlagt et forbud mot utdelinger siden friskoleloven ble innført i 1970. Private barnehager utgjør
-til forskjell om lag 50 prosent av sektoren, og er en
-helt nødvendig aktør for at kommuner kan oppfylle retten til barnehageplass. Et utdelingsforbud
-vil potensielt kunne føre til at mange eiere vil
-ønske å trekke kapital ut av barnehagene. Dette
-kan medføre at barnehagesektoren mister eiere
-med langsiktige interesser i sektoren, og skape
-usikkerhet om barnehageplassene. Et utdelingsforbud vil derfor potensielt kunne få store konsekvenser for kommunene og mange barnefamilier.
-Departementet ønsker derfor ikke å innføre et
-utdelingsforbud i barnehageloven.
-Selv om barnehagene kan ha et rimelig overskudd som eierne kan ta ut, begrenser loven fortjenestemulighetene sammenlignet med markedsutsatte private virksomheter. Uten nærmere regulering er det risiko for at begrensningene omgås.
-Dette kan skje ved at barnehagene kostnadsfører
-transaksjoner som ikke er direkte relevante for
-barnehagedriften eller kjøper tjenester fra selskaper i samme konsern til priser over markedspris,
-slik at eier kan ta ut verdiene i andre deler av konsernet enn barnehagen. I tillegg kan de ha insentiver til å holde ressursbruken og kostnadene nede
-for å øke overskuddet som barnehagen kan disponere fritt. Personalkostnader utgjør cirka 80 prosent av kostnadene i private barnehager. Det er
-derfor særlig personalkostnadene som kan være
-utsatt for innsparing hvis barnehageeierne ønsker
-å øke overskuddet på denne måten.
-Som det framgår av kapittel 8.2.1, rammer § 14 a
-første ledd bokstavene a til c alle disse typetilfellene. Det betyr at slike verdiuttak allerede vil være
-forbudt etter dagens regulering. Det er videre
-fremmet andre forslag som også skal bidra til å
-sikre at midlene blir benyttet i tråd med formålet.
-Dette gjelder blant annet forslaget om å innføre
-forbud mot at det kan drives annen virksomhet
-sammen med barnehagedriften og innføringen av
-en hjemmel for å innhente nødvendig dokumentasjon. Departementet vil også se nærmere på en
-regulering som sikrer tilstrekkelig åpenhet om de
-
-83
-
-økonomiske forholdene i selskaper som driver
-flere barnehager i samme rettssubjekt.
-Som omtalt i kapittel 8.3, foreslår departementet at det opprettes et nasjonalt tilsyn som får i
-oppgave å føre økonomisk tilsyn med de private
-aktørene. Det nasjonale tilsynet får hjemmel til å
-kreve dokumentasjon for at barnehagene benytter
-midlene i tråd med disse kravene. Departementet
-mener et nasjonalt tilsynsorgan vil ha bedre forutsetninger til å føre tilsyn med de private barnehagene, enn det kommunene i dag har. Dette vil derfor kunne bidra til å redusere risikoen for at eventuelle brudd på regelverket ikke avdekkes.
-Departementet mener derfor at dagens regelverk gir lite rom for å ta verdier som er ment å
-komme barna i barnehagen til gode, ut av barnehagedriften.
-Departementet vil videre vise til at private barnehager er underlagt de samme kvalitetskravene
-som kommunale barnehager. Eventuelle overskudd i private barnehager skal derfor kun være
-et uttrykk for at barnehagen kan levere like god
-kvalitet som de kommunale barnehagene, til noe
-lavere kostnad. Så lenge barnehagene oppfyller
-kravene i loven, mener departementet derfor at
-det er rimelig at barnehageeierne kan få en rimelig avkastning på arbeids- og kapitalinnsatsen som
-de legger inn i barnehagene.
-Departementet har merket seg at Utdanningsforbundet viser til at mange private barnehager inngår i større barnehagekjeder. Forbundet ber
-departementet avklare hvilken betydning dette har
-for forståelsen av § 14 a. Departementet vil vise til
-at kravet i § 14 a første ledd bokstav a innebærer at
-alle kostnader som føres i barnehagens regnskap,
-skal være relevante for driften av den aktuelle barnehagen. Kostnader som gjelder andre barnehager, skal derfor ikke føres i barnehagens regnskap. Det betyr at barnehageeieren må holde oversikt over hvilke kostnader som er påløpt i de ulike
-barnehagene. Som omtalt i kapittel 8.1, vil departementet se videre på hvilke krav det bør stilles for å
-tydeliggjøre kravet om at de enkelte barnehagers
-økonomi må holdes adskilt, i tilfeller hvor flere
-barnehager inngår i samme rettssubjekt.
-Asker kommune mener at det bør tydeliggjøres
-at det ikke er tillatt å låne ut tilskudd og foreldrebetaling fra barnehagen. Til dette vil departementet bemerke at spørsmålet om en transaksjon er
-knyttet til den godkjente barnehagedriften, må
-vurderes konkret i det enkelte tilfelle. Det vil
-kunne være i strid med § 14 a første ledd bokstav
-a å kostnadsføre utlån av midler på barnehagens
-resultatregnskap. Dersom barnehagen oppfyller
-kravene i loven og har et positivt årsresultat, kan
-
-[Side 86]
-
-84
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-barnehagen derimot disponere overskuddet fritt.
-Det betyr at overskuddet for eksempel kan disponeres som konsernbidrag eller lånes ut. Departementet vil samtidig peke på at den foreslåtte veilederen vil kunne gi retningslinjer for vurderingen
-av om en kostnad er knyttet til barnehagedriften.
-Departementet mener at det er mer hensiktsmessig å gi retningslinjer for dette i veilederen enn å
-detaljregulere alle typetilfeller i loven.
-Departementet har merket seg at PBL mener
-at departementet trekker forståelsen av § 14 a første ledd bokstav b lenger enn det er grunnlag for.
-Vilkåret i bokstav b har til formål å forhindre at
-barnehagene tar ut verdier ved å handle med nærstående på vilkår eller med beløp som avviker fra
-eller overstiger det som ville vært fastsatt mellom
-uavhengige parter, jf. første ledd bokstav b. Som
-redegjort for i kapittel 8.2.1.3, innebærer bestemmelsen at barnehagen må kunne dokumentere at
-transaksjonen ikke innebærer en overkompensasjon for ytelsen barnehagen har kjøpt, sammenlignet med markedspris. Bestemmelsen innebærer
-også at barnehagen må kunne dokumentere at
-transaksjonen i det hele tatt ville funnet sted mellom uavhengig parter, og at omfanget av anskaffelsen tilsvarer det som ville vært avtalt mellom
-uavhengige parter. Dette følger av formuleringen
-«foreta transaksjoner (…) på vilkår (…) som avviker fra (…) det som ville vært fastsatt mellom uavhengige parter».
-Departement legger til grunn at forståelsen av
-vilkåret er i tråd med alminnelig krav til handel
-med nærstående. Tilsvarende forståelse er lagt til
-grunn i friskoleloven. I kravet ligger det at prissettingen av transaksjoner mellom nærstående må
-tilsvare vilkårene som ville blitt lagt til grunn mellom uavhengige parter. Bestemmelsen innebærer
-videre at selve transaksjonen må fremstå som
-rasjonell. Et eksempel kan være at det må være
-rasjonelt for barnehagen å leie lokaler av nærstående, fremfor å eie lokalene selv. Det vil si at barnehagen også ville leid lokalene dersom utleier
-var en uavhengig part. Departementet mener ikke
-beskrivelsen legger til grunn en strengere forståelse av vilkåret enn det som ligger til grunn etter
-gjeldende rett.
-Det er enkelte høringsinstanser som mener at
-§ 14 a første ledd bokstav c er uklar. Departementet viser til at vilkåret i bokstav c skal forhindre at
-barnehagene øker overskuddet ved å spare inn på
-bemanning eller tilby dårligere lønns- og arbeidsvilkår enn det som er vanlig i tilsvarende kommunale barnehager. Siden vilkåret ble innført i 2013,
-er det fastsatt en bemanningsnorm og en skjerpet
-pedagognorm. Departementet legger til grunn at
-
-2019–2020
-
-dette vil kunne redusere betydningen av vilkåret i
-bokstav c.
-Enkelte høringsinstanser peker på sammenhengen mellom vilkåret i bokstav c og bemannings- og pedagognormene. Departementet vil
-påpeke at det ikke i seg selv er tilstrekkelig at en
-barnehage følger pedagog- og bemanningsnormene for å oppfylle kravet i bokstav c. I tilfeller
-hvor en kommune legger til grunn en høyere
-bemannings- og pedagognorm enn det loven krever, vil dette også gi utslag i tilskuddsgrunnlaget.
-Departementet mener derfor bestemmelsen fortsatt er relevant for å sikre at midlene blir benyttet
-til formålet.
-Enkelte høringsinstanser viser til at det må
-avklares hvilke årsaker som kan ligge til grunn for
-avviket i personalkostnadene, jf. vesentlighetsvurderingen i bokstav c. Bestemmelsen innebærer at
-det må beregnes hva som er den gjennomsnittlige
-personalkostnaden per heltidsplass i tilsvarende
-kommunale barnehager, og tilsvarende størrelse i
-den private barnehagen. Disse størrelsene må
-sammenlignes for å vurdere om den private barnehagens kostnader er lavere enn kommunens
-gjennomsnittlige kostnad. Dersom det foreligger
-et avvik, må det vurderes om dette er vesentlig.
-Det er ikke mulig å gi en uttømmende liste over
-forhold som kan eller bør vektlegges ved denne
-vesentlighetsvurderingen. Vurderingen må bygge
-på en konkret vurdering i det enkelte tilfellet. I
-den foreslåtte veilederen vil det være aktuelt å
-vise til typetilfeller av hvilke momenter som kan
-og bør inkluderes i denne vurderingen.
-Departementet mener etter dette at dagens
-reguleringer, jf. vilkårene i bokstav a – c, gir lite
-rom for å ta verdier som er ment å komme barna i
-barnehagen til gode ut av barnehagedriften. Som
-nevnt, er tilsynspraksisen i kommunene økt noe
-de senere årene, og som en følge har dette gitt
-mer praksis og erfaringer med bruk av kravene.
-Departementet ser derfor ikke grunn til å gjøre
-ytterligere endringer.
-Høringen viser også bred støtte til forslaget
-om å utarbeide en statlig veileder. Enkelte
-høringsinstanser peker på at behovet for en veileder ikke nødvendigvis er like stort dersom tilsynsansvaret flyttes til nasjonalt nivå. Departementet vil likevel bemerke at en veileder ikke kun
-vil være et verktøy for å føre tilsyn. Veilederen vil
-også være et hensiktsmessig verktøy for de private barnehagene ved etterlevelsen av regelverket. Departementet vil sette i gang arbeidet med
-en statlig veileder når Stortinget har behandlet
-denne proposisjonen.
-
-[Side 87]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-8.2.6 Departementets forslag
-Departementet foreslår at setningen om at offentlige tilskudd og foreldrebetaling skal komme
-barna i barnehagen til gode, framheves i en egen
-formålsbestemmelse. Spørsmålet om tilskuddet
-og foreldrebetalingen kommer barna i barnehagen til gode, vil være et relevant tolkningsmoment
-i vurderingen av om barnehagen har brukt tilskuddet og foreldrebetalingen i tråd med kravene
-i nåværende § 14 a.
-De øvrige kravene i nåværende § 14 a om krav
-til lovlig bruk av offentlig tilskudd og foreldrebetaling vil fremgå av en egen bestemmelse. Departementet foreslår at det ikke gjøres noen innholdsmessige endringer i bestemmelsen om hvordan
-barnehagene skal bruke offentlige tilskudd og foreldrebetaling.
-Departementet foreslår at det utarbeides en
-statlig veileder om bruk av offentlige tilskudd og
-foreldrebetaling. Departementet vil sette i gang
-arbeidet med en veileder når forslagene i lovproposisjonen har blitt behandlet av Stortinget.
-Departementet viser til lovforslaget §§ 21, 22
-og 23.
-
-8.3
-
-Ansvaret for å føre tilsyn med
-økonomiske forhold i private
-barnehager
-
-8.3.1 Gjeldende rett
-Barnehageloven § 8 regulerer kommunens ansvar
-som lokal barnehagemyndighet. Kommunen som
-barnehagemyndighet har tre sentrale virkemidler; godkjenning, veiledning og tilsyn. Godkjenning innebærer å behandle søknader om godkjenning av barnehager i kommunen, jf. barnehageloven §§ 10 og 11. Når kommunen skal veilede,
-betyr det at kommunen aktivt eller på forespørsel
-skal gi informasjon til barnehager og andre om
-rettigheter og plikter.
-Kommunens plikt til å føre tilsyn med barnehagene er regulert i barnehageloven § 16. Plikten
-gjelder overfor både kommunale og private barnehager. Kommunen skal føre økonomisk tilsyn
-med private barnehager, som retter seg mot bruk
-av offentlige tilskudd og foreldrebetaling, jf. barnehageloven § 14 a og tilhørende forskrift. Kommunen skal også føre tilsyn med andre krav i barnehageloven og forskrifter til loven.
-Det er ikke stilt krav til omfanget av kommunens tilsyn. Kommunen skal selv vurdere om tilsyn er nødvendig for å påse at barnehagene etter-
-
-85
-
-lever regelverket, jf. § 8 første ledd, eller om kommunen i stedet kan og vil påse regeletterlevelse
-gjennom andre virkemidler.
-Fylkesmannen fører tilsyn med at kommunene oppfyller pliktene som barnehagemyndighet, jf. barnehageloven § 9 første ledd. Fylkesmannen kan i tillegg føre tilsyn direkte med kommunale og private barnehager i særlige tilfeller, jf. § 9
-andre ledd. Det følger av denne bestemmelsen at:
-«Fylkesmannen kan i særlige tilfeller føre tilsyn med at den enkelte barnehage blir drevet i
-samsvar med denne loven med forskrifter. Fylkesmannen kan gi pålegg til barnehageeier om
-å rette forhold som er i strid med bestemmelser i loven her. Hvis fristen for å etterkomme
-pålegget ikke overholdes, eller hvis forholdet
-ikke lar seg rette, kan fylkesmannen vedta tidsbegrenset eller varig stenging av barnehagen.»
-Eksempler på særlige tilfeller kan være tilfeller
-hvor kommunen har ført tilsyn og avdekket brudd
-på regelverket, men hvor bruddene ikke er rettet
-opp. Det kan også være tilfeller hvor kommunen
-ikke har ført tilsyn med en barnehage, men hvor
-fylkesmannen mener tilsyn er nødvendig. Bakgrunnen kan være henvendelser eller andre opplysninger som tilsier at tilsyn er nødvendig.
-Departementet viser til omtalen av dette i Prop. 33
-L (2015 – 2016) kapittel 3.
-
-8.3.2
-
-Relevant regelverk
-
-Friskoleloven
-Etter friskoleloven § 7-2 er det departementet som
-fører tilsyn med skoler som er godkjent etter friskoleloven. Oppgaven er delegert til Utdanningsdirektoratet. Direktoratet fører tilsyn med både de
-innholdsmessige kravene og den økonomiske
-reguleringen. Temaer og skoler det skal føres tilsyn med, velges ut fra risikovurderinger og
-vesentlighetsbetraktninger. Risikovurderingene
-skal sikre at direktoratet fører tilsyn der behovet
-for tilsyn er størst. Det vil si at direktoratet vurderer sannsynligheten for og konsekvensen av at
-lovkravene ikke oppfylles.
-Tilsynet med friskolene ble overført fra fylkesmennene til Utdanningsdirektoratet i august 2009.
-Kompleksiteten i tilsynet med skolenes økonomiforvaltning var en sentral begrunnelse for at
-denne oppgaven ble overført til statlig nivå, og
-delegert til en spesialisert tilsynsavdeling i Utdanningsdirektoratet.
-
-[Side 88]
-
-86
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-Universitets- og høyskoleloven
-Etter universitets- og høyskoleloven § 8-5 er det
-departementet som fører tilsyn med private universiteter og høyskoler. Tilsvarende er departementet tilsynsmyndighet for private fagskoler, jf.
-fagskoleloven § 31. Bestemmelsene ble innført
-gjennom Prop. 44 L (2016 – 2017). Tilsynet med
-private høyskoler og fagskoler ble delegert til
-NOKUT i 2018.
-Oppgaven med å føre tilsyn med økonomiske
-og administrative forhold ved private høyskoler
-og fagskoler er delegert til NOKUT fordi den krever en spesialisert og økonomifaglig kompetanse.
-Videre kreves det en kjennskap til de private institusjonene som er mer nærliggende å bygge opp i
-en underliggende virksomhet. NOKUT har i dag
-en egen tilsynsenhet for tilsyn med økonomiske
-forhold ved private høyskoler og fagskoler.
-
-8.3.3 Høringsforslaget
-I høringsnotatet foreslo departementet å legge
-ansvaret for tilsyn med økonomiske forhold i private barnehager til departementet. Dette vil innebære at departementet får ansvaret for tilsyn med
-de foreslåtte bestemmelsene i barnehageloven
-kapittel V og tilhørende forskriftsreguleringer.
-Ansvaret vil også inkludere tilsyn med eventuelle
-nye bestemmelser om økonomiske forhold i private barnehager.
-Departementet foreslo at oppgavene som tilsynsmyndighet skal kunne delegeres til et underliggende organ. Departementet vil delegere tilsynsoppgaven til Utdanningsdirektoratet. Departementet ba om høringsinstansenes syn på om det
-er Utdanningsdirektoratet eller fylkesmannen
-som bør ivareta veiledningsoppgaven knyttet til
-det aktuelle regelverket. Departementet foreslo at
-veiledningsansvaret skal omfatte de samme
-delene av regelverket som tilsynet med økonomiske forhold, men ba også her om høringsinstansenes synspunkter.
-Departementet foreslo at kommunen fortsatt
-skal være tilsynsmyndighet for øvrige reguleringer i barnehageloven med forskrifter. Departementet foreslo at regelen om at fylkesmannen i
-særlige tilfeller kan føre tilsyn med enkeltbarnehager videreføres, men at den ikke skal gjelde for
-tilsyn med økonomiske forhold.
-Forslaget er også en oppfølging av Stortingets
-anmodningsvedtak hvor departementet ble pålagt
-å «ved evalueringen av kommunens tilsynsansvar
-sikre at det etableres et uavhengig tilsynssystem
-for barnehagesektoren», jf. vedtak nr. 805 i forbin-
-
-2019–2020
-
-delse med behandlingen av Prop. 67 L (2017 –
-2018), jf. Innst. 319 L (2017 – 2018).
-
-8.3.4
-
-Høringsuttalelser
-
-8.3.4.1 Nasjonalt tilsyn
-146 høringsinstanser har gitt innspill til forslaget
-om å opprette et nasjonalt tilsyn med økonomiske
-forhold ved private barnehager. Av disse er det 96
-som støtter forslaget. Dette er blant andre 40 kommuner, 3 fylkesmenn, 13 organisasjoner og 34 private barnehager. Blant organisasjonene som støtter forslaget finner vi Private Barnehagers landsforbund (PBL), Skolelederforbundet, Utdanningsforbudent, Virke, Abelia og Næringslivets Hovedorganisasjon (NHO).
-Det er 41 instanser som ikke støtter forslaget.
-Dette er 33 kommuner, to fylkesmenn og 6 organisasjoner. Blant organisasjonene finner vi blant annet
-Kommunesektorens Organisasjon (KS) og LO.
-Utdanningsforbundet støtter forslaget om et
-nasjonalt tilsynsorgan, og uttaler:
-«Utdanningsforbundet støtter at ansvaret for å
-føre økonomisk tilsyn med private barnehager
-flyttes fra kommunene til nasjonalt nivå.
-Mange barnehager eies av kjeder som overskrider kommune- og fylkesgrenser. Dette gjør
-det tilnærmet umulig for kommunene å føre et
-effektivt og helhetlig økonomisk tilsyn. Utdanningsforbundet støtter departementets vurdering av at interkommunalt samarbeid, flytting
-til en eller flere fylkesmannsembeter eller økt
-statlig veiledning, ikke vil løse de utfordringene vi ser. Utdanningsforbundet støtter departementets vurdering om at det er behov for et
-spesialisert miljø og at det kan være fordelaktig
-å benytte seg av den ekspertisen som allerede
-finnes i Udir (Utdanningsdirektoratet).»
-Også PBL støtter forslaget, og skriver blant annet:
-«Å flytte tilsynet til departementet og Utdanningsdirektoratet vil gjøre det mer uavhengig
-og faglig kompetent og bidra til å sikre at pengene kommer barna til gode. Et slikt system
-kan også bidra til å styrke tilsynets legitimitet i
-sektoren, og til å bevare og styrke tilliten til private barnehager.»
-Med kun ett unntak, er de private barnehagene
-som har gitt innspill positive til forslaget om et
-nasjonalt tilsyn. En rekke private barnehager har
-
-[Side 89]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-87
-
-samtidig innspill til hva det nasjonale tilsynet bør
-omfatte, noe også organisasjonene er opptatt av.
-Flere private barnehager mener at hele tilsynet bør overføres til en nasjonal tilsynsenhet.
-Dette omfatter også tilsynet med kvaliteten i de
-kommunale barnehagene. Også Utdanningsforbundet, PBL, Trygge Barnehager AS og Espira
-gruppen AS mener at også øvrig tilsyn bør løftes til
-nasjonalt nivå.
-Enkelte private barnehager mener det nasjonale tilsynet også bør inkludere tilsyn med de økonomiske forholdene i de kommunale barnehagene. Andre anfører at det nasjonale tilsynet må
-omfatte kommunens beregningsgrunnlag for tilskudd til de kommunale barnehagene, blant
-andre NHO og Espira gruppen AS. PBL er blant
-instansene som mener at det nasjonale tilsynet må
-være klageinstans for kommunens beregning av
-tilskudd til private barnehager.
-Kommunene er delt i spørsmålet om det skal
-opprettes et nasjonalt tilsyn, men et flertall av de
-som uttaler seg støtter forslaget. Kristiansand
-kommune støtter forslaget, og skriver:
-
-munene som mener at et tydeligere regelverk vil
-gjøre kommunene bedre rustet til å føre tilsyn.
-Enkelte høringsinstanser mener tilsynsansvaret
-bør legges til ett eller flere fylkesmannsembeter,
-herunder Fylkesmannen i Vestland og Fylkesmannen
-i Rogaland. To instanser, Bærum kommune og
-Trondheim kommune, foreslår en modell hvor kommunene beholder ansvaret for å føre tilsyn med
-enkeltbarnehager, mens tilsyn med konsern og kjeder på tvers av kommune- og fylkesgrenser flyttes.
-Fem kommuner, herunder Vefsn og AurskogHøland, har gitt innspill om at kommunen bør få
-beholde en hjemmel til å kunne føre tilsyn med
-økonomiske forhold, eventuelt avgrenset til særlige tilfeller, selv om det blir innført et nasjonalt tilsynsorgan.
-Flere høringsinstanser fremhever at kommunen må ha et ansvar for å varsle den nasjonale tilsynsmyndigheten om risiko for brudd på regelverket. Tre høringsinstanser, inkludert KS og
-Utdanningsforbundet, mener loven må forplikte
-kommunen til å varsle om risiko for lovbrudd.
-
-«Et statlig tilsynsorgan med et bredt fagmiljø
-bestående av økonomer, revisorer og jurister
-m.fl. vil kunne gå i dybden i regnskapene på en
-helt annen måte enn hver enkelt kommune kan
-klare. Det er også ressursbesparende at konsernregnskap gjennomgås én gang og ikke av
-hver kommune.»
-
-8.3.4.2 Veiledningsansvar
-33 høringsinstanser har gitt innspill til spørsmålet
-om Utdanningsdirektoratet eller fylkesmannen
-bør ha veiledningsansvaret for de delene av regelverket det føres økonomisk tilsyn med. 12 instanser, herunder Private barnehagers landsforbund
-(PBL), Foreldreutvalget for barnehager, Virke,
-Utdanningsforbundet og flere kommuner, mener
-veiledningsansvaret bør ligge hos fylkesmannen.
-14 høringsinstanser mener veiledningsansvaret bør ligge hos Utdanningsdirektoratet. Fem av
-disse er fylkesmannsembeter som påpeker at det
-er uheldig å dele ansvaret på flere organer. Fylkesmannen i Troms og Finnmark mener både tilsynsog veiledningsansvaret bør ligge hos direktoratet,
-og peker på at de har behandlet få klagesaker på
-området, og at de derfor heller ikke har et tilstrekkelig spesialisert og kompetent miljø for å føre tilsyn og gi veiledning på en tilfredsstillende måte.
-Fylkesmannen i Troms og Finnmark mener videre
-at dette vil gi myndighetene bedre oversikt over
-sektoren på tvers av kommune- og fylkesgrenser.
-Også Fylkesmannen i Oslo og Viken mener veiledningsansvaret bør ligge hos direktoratet. De
-viser til ansvarsfordelingen på friskoleområdet,
-hvor fylkesmannen veileder om regelverket, mens
-Utdanningsdirektoratet fører tilsyn, og skriver:
-
-Sandefjord kommune og Stjørdal kommune er
-eksempler på kommuner som ikke støtter forslaget, og som mener at et uklart regelverk er en av
-årsakene til at det er ført lite tilsyn i sektoren.
-Bærum kommune mener det er uheldig dersom
-tilsynet med private barnehager flyttes fra kommunene, og skriver:
-«Prinsipielt mener kommunen at det er kommunen som yter tilskuddet selv må kunne følge
-opp og føre tilsyn med at tilskuddet blir brukt
-etter formålet. Kommunene har også erfaring
-med at det er sammenheng mellom økonomiske disponeringer og andre bestemmelser i
-barnehageloven og at begge typer av tilsyn
-opplyser hverandre.»
-Bærum kommune peker videre på at øvrige
-endringer som presiserer og avgrenser barnehagens muligheter for å ha kompliserende
-eierskapsstrukturer, taler for at kommunene kan
-beholde ansvaret for å gjennomføre økonomisk tilsyn selv. Også Trondheim kommune er blant kom-
-
-«Vår erfaring er at det organet som forvalter
-regelverket får en mye mer inngående kunnskap om regelverket, enn dersom det kun har
-
-[Side 90]
-
-88
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-veiledningsansvar. Det sikres en mye mer korrekt veiledning når oppgavene ivaretas av
-samme organ. Det ville vært mer hensiktsmessig om Utdanningsdirektoratet veiledet om
-reglene i friskoleloven. Vi mener også det er
-mer ressursbesparende om det samme organet
-veileder og forvalter det samme regelverket.»
-
-8.3.5
-8.3.5.1
-
-Departementets vurderinger
-
-Nasjonalt økonomitilsyn for private
-barnehager
-Regjeringens politiske plattform slår fast at regjeringen vil utvikle et bedre og mer uavhengig tilsynssystem for barnehagene. Økonomisk tilsyn
-med de private barnehagene er viktig for å sikre
-et gjennomsiktig system, som viser at midlene
-benyttes i tråd med regelverket og kommer barna
-til gode. En undersøkelse fra Agenda Kaupang
-(rapport R9607, 2017) viser at det er varierende
-kompetanse og kapasitet i kommunene til å føre
-økonomisk tilsyn med private barnehager. Undersøkelsen viser videre at kun én prosent av de private barnehagene hadde hatt økonomisk tilsyn i
-perioden fra 2013 til 2016. Rapporten viser at i de
-tilfellene kommunene avdekker brudd på regelverket, har de private barnehagene i stor grad fått
-medhold i klager som har blitt behandlet hos fylkesmennene. KS og kommuner melder om behov
-for mer veiledning og støtte fra statens side, og
-Utdanningsdirektoratet får jevnlig spørsmål fra
-kommuner og fylkesmenn om forståelsen av
-regelverket.
-Utviklingen i sektoren gjør kommunenes tilsynsoppgave mer utfordrende. Dagens regelverk
-er innrettet med utgangspunkt i at kommunen
-fører tilsyn med enkeltbarnehager i egen kommune. Fremveksten av barnehagekjeder har komplisert dette. For det første fordi barnehager i
-samme konsern vil kunne få tilsyn fra ulike kommuner i sine barnehager. Når det ikke er én kommune som har det helhetlige tilsynsansvaret for
-alle barnehagene, blir det vanskeligere å avdekke
-om det foregår transaksjoner på konsernnivå som
-er i strid med regelverket. Dette kan for eksempel
-være høye internpriser eller konsernbidrag.
-Videre stiller konserndannelsene større krav til
-selskapsrettslig og økonomifaglig kompetanse
-hos tilsynsmyndigheten.
-Departementet merker seg at det er bred
-støtte blant høringsinstansene om å flytte oppgaven med økonomisk tilsyn med private barnehager til et nasjonalt tilsynsorgan. Økonomisk tilsyn med private aktører er en spesialisert oppgave
-
-2019–2020
-
-som krever tilstrekkelige ressurser og høy kompetanse. En viktig del av kommunenes begrunnelse for hvorfor det føres så få tilsyn, er at det
-ikke finnes tilstrekkelig kompetanse og ressurser
-i kommunene til å gjøre dette på en effektiv måte.
-Tilbakemeldinger indikerer at kommunene
-mener dagens krav til bruk av tilskudd og foreldrebetaling er for skjønnsmessige og krevende å
-omsette i praksis, og dermed også krevende å
-føre tilsyn med.
-Enkelte høringsinstanser peker samtidig på at
-årsaken til at det føres få tilsyn, er at regelverket
-er for krevende og skjønnsmessig. Høringsinstansene mener at endringene departementet foreslår
-i kapittel 8.2.6 i proposisjonen, til en viss grad kan
-avhjelpe dette. Enkelte høringsinstanser mener
-tydeligere veiledning vil bidra til at kommunen
-settes bedre i stand til å føre tilsyn.
-Departementet vil påpeke at de foreslåtte
-endringene i dagens § 14 a i stor grad er av regelteknisk art. Det foreslås ikke endringer i vilkårene til hvordan offentlig tilskudd og foreldrebetaling kan benyttes, jf. bestemmelsens bokstav a – c.
-Å føre tilsyn med at de private barnehagene etterlever disse bestemmelsene vil fortsatt være en
-omfattende oppgave, og innebære krevende og
-skjønnsmessige vurderinger. Den private delen av
-barnehagesektoren har gått gjennom en betydelig
-utvikling de seneste årene, med økende grad av
-konserndannelse, oppkjøp og konsolidering.
-Dette har gitt utslag i mer kompliserte selskapsstrukturer og organisering, og en stadig mer profesjonalisert sektor. I tillegg til god kunnskap om
-regelverket knyttet til private barnehager, forutsettes det derfor solid kompetanse om blant annet
-regnskaps- og selskapsrettslige forhold.
-Den siste tiden har kommuner gjennomført
-noe flere tilsyn med private barnehager. Mer forvaltningspraksis og øvrige erfaringer fra tilsynene
-kan bidra til at det over tid blir lettere for andre
-kommuner å praktisere regelverket. Departementet vil likevel vise til at erfaringer fra de gjennomførte tilsynene viser at det krever betydelige ressurser og spesialisert kompetanse å gjennomføre
-tilsyn. Det er også de største kommunene som i
-all hovedsak har gjennomført tilsyn.
-Som nevnt i kapittel 8.1, vil departementet se
-nærmere på flere av forslagene som ble sendt på
-høring. Dette gjelder blant annet forslagene om
-det skal innføres forbud mot å drive annen virksomhet sammen med barnehagedriften og et krav
-om at hver barnehage må være et selvstendig
-rettssubjekt. Forslagene og departementets gjennomgang er samtidig egnet til å understreke hvor
-krevende det er å følge midlene i virksomheten.
-
-[Side 91]
-
-2019–2020
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-En veileder som utdyper regelverket kan etter
-departementets mening kun i begrenset grad
-avhjelpe dette. Også erfaringer fra friskoleområdet tilsier at det kreves både økonomisk og juridisk kompetanse på et spesialisert nivå for å føre
-tilsyn på en tilfredsstillende måte.
-Departementet har vurdert ulike alternativer
-for innretning av oppgaven med økonomisk tilsyn
-med de private barnehagene. Departementet kan
-ikke se at fylkesmannen eller interkommunale løsninger er tilfredsstillende alternativer til en nasjonal tilsynsmyndighet. Enkelte høringsinstanser
-mener det er tilstrekkelig at tilsyn med konserner
-flyttes til nasjonalt nivå, mens tilsyn med enkeltbarnehager blir i kommunen. Departementet
-mener dette vil føre til en for stor fragmentering
-av det økonomiske tilsynet med de private barnehagene. Departementet mener det bør vektlegges
-at oppgaven bør innrettes på en effektiv måte. Ved
-å samle det økonomiske tilsynet i én enhet, vil det
-legge til rette for risikobasert tilsyn og muligheten til å vurdere de økonomiske forholdene hos de
-private barnehagene i en helhet.
-Enkelte høringsinstanser mener at også øvrig
-tilsyn bør legges til den nasjonale tilsynsenheten.
-Dette gjelder for det første økonomisk tilsyn med
-kommunens egne barnehager. Kommunen er et
-selvstendig folkevalgt organ som har ansvaret for
-en rekke velferdstjenester. Kommunen er underlagt egne kontrollmekanismer, både økonomiske
-og faglige. Departementet mener det ikke er
-naturlig å sammenligne kommunen og private
-aktører ved behovet for tilsyn og kontroll med
-økonomiske forhold.
-Departementet merker seg at enkelte mener
-at også tilsyn med kvalitet bør overføres fra kommunene til den nasjonale tilsynsenheten. Det er
-kommunen som er lokal barnehagemyndighet, og
-som har ansvaret for både godkjenning, veiledning og tilsyn, samt å oppfylle retten til barnehage
-i sin kommune. Som vist, er det gode grunner til
-at tilsynet med økonomiske forhold ovenfor private barnehager bør utføres av en egen enhet. For
-øvrig mener departementet at dagens ansvarsfordeling bør videreføres, for å legge best mulig til
-rette for at kommunen kan ivareta sin rolle som
-lokal barnehagemyndighet.
-Departementet mener at argumentene som
-taler for et nasjonalt økonomitilsyn, ikke gjør seg
-tilsvarende gjeldende for tilsyn med øvrig regelverk. Kvalitet og innhold i barnehagetilbudet er
-en oppgave som i større grad enn økonomitilsynet
-krever innsikt i lokale forhold og prioriteringer.
-Den politisk valgte ledelsen i kommunen skal ha
-handlingsrom til å foreta prioriteringer i sin kom-
-
-89
-
-mune. Tilsyn med innholdet og kvaliteten i tilbudet, vil i større grad basere seg på stedlige tilsyn
-og kjennskap til den aktuelle barnehagen det
-føres tilsyn med. Departementet mener derfor at
-tilsyn med kvalitet er en oppgave som forutsetter
-lokalkunnskap og nærhet til de aktuelle barnehagene. Slikt tilsyn kan derfor best utføres av den
-enkelte kommune. Departementet mener samtidig at ved å flytte ansvaret for økonomitilsynet til
-nasjonalt nivå, vil kommunen kunne få større
-mulighet til å prioritere tilsyn med andre deler av
-regelverket.
-Departementet viderefører derfor forslaget
-om å opprette et nasjonalt tilsyn med økonomiske
-forhold i private barnehager. I høringen presiserte departementet at oppgaven vil legges til
-Utdanningsdirektoratet. Departementet foreslår
-at oppgaven i loven legges direkte til direktoratet.
-I tråd med forvaltningslovens alminnelige regler,
-vil departementet være klageinstans for vedtak
-fattet av direktoratet i forbindelse med økonomisk
-tilsyn.
-Enkelte høringsinstanser foreslår at den nasjonale tilsynsmyndigheten skal føre tilsyn med, eller
-være klageinstans for, kommunens beregningsgrunnlag for tilskuddet. Denne oppgaven ligger i
-dag hos fylkesmannen. Departementet mener fylkesmannen ivaretar denne oppgaven på en god
-måte, og har ikke fått øvrige indikasjoner på at det
-er et behov for å overføre denne oppgaven på
-nåværende tidspunkt. Departementet kan ikke se
-at oppgaven har tydelig nok sammenheng med
-det økonomiske tilsynet for øvrig, til at det er nødvendig å overføre denne.
-Et nasjonalt økonomitilsyn vil innebære å føre
-tilsyn med kommunens midler. Dette forutsetter
-et tett og nært samarbeid mellom det nasjonale tilsynet og kommunene. Departementet legger til
-grunn at en kommune vil måtte varsle tilsynsmyndigheten dersom de mener det foreligger særlig
-risiko for brudd på regelverket om bruk av offentlig tilskudd og foreldrebetaling. Departementet
-ser ikke behov for å lovfeste dette ansvaret, men
-legger til grunn at det vil inngå i det løpende samarbeidet som opprettes mellom kommunene og
-den nasjonale tilsynsmyndigheten.
-Departementet legger til grunn at det nasjonale økonomitilsynet skal være basert på risikovurderinger og eventuelle stikkprøver. Departementet legger videre til grunn at det må utvikles
-rapporteringsløsninger som tilrettelegger for risikobasert kontroll og tilsyn. I dimensjoneringen av
-det økonomiske tilsynet med de private barnehagene, må risikoen for lovbrudd, og dermed behovet for tilsyn, avveies mot omfang, vesentlighet og
-
-[Side 92]
-
-90
-
-Prop. 96 L
-Endringer i folkehøyskoleloven, barnehageloven og voksenopplæringsloven m.m. (samleproposisjon)
-
-risiko samt hvilken ressursbelastning tilsynet
-utløser både for forvaltningen og barnehagene.
-Departementet vil foreta en nærmere vurdering av tidspunktet for overføring av ansvaret for å
-føre tilsyn med økonomiske forhold i private
-barnehager. Inntil regelendringen trår i kraft, er
-det kommunene som har ansvaret for å føre økonomisk tilsyn. Departementet vil fastsette nærmere overgangsregler i forskrift.
-
-8.3.5.2
-
-Veiledningsansvar og fylkesmannens
-oppgaver
-Departementet ba om høringsinstansenes syn på
-om det er Utdanningsdirektoratet eller fylkesmannen som bør ivareta veiledningsoppgaven. Veiledningsansvaret skal omfatte de samme delene av
-regelverket som tilsynet med økonomiske forhold.
-Høringsinstansene er delt i spørsmålet om veiledningsansvaret for regelverket knyttet til økonomisk tilsyn bør ligge hos fylkesmannen eller
-Utdanningsdirektoratet. Departementet merker
-seg særlig at en rekke fylkesmenn mener ansvaret for å veilede på dette feltet bør overføres til
-direktoratet.
-Departementet ser at hensynet til en effektiv
-organisering kan tale for at veiledningsansvaret
-for dette regelverket skal ligge hos direktoratet.
-Ved å utføre tilsyn vil tilsynsmyndigheten få bedre
-kunnskap om og praktiske erfaringer med regelverket. Dette vil kunne føre til bedre og mer korrekt veiledning enn om oppgaven skal utføres at
-fylkesmennene. Dette forsterkes av at det er tilsynsmyndigheten som vil få oppgaven med å utarbeide en statlig veileder om regelverket for bruk
-av offentlige midler og foreldrebetaling. Departementet mener derfor dette ansvaret bør ligge til
-tilsynsmyndigheten.
-Kun et begrenset antall høringsinstanser har
-gitt innspill til forslaget om at fylkesmannen fortsatt skal kunne føre tilsyn med enkeltbarnehager i
-særlige tilfeller, men at dette ikke skal gjelde for
-tilsyn med økonomiske forhold. Departementet
-mener det følger som en naturlig konsekvens av
-ansvarsfordelingen for øvrig at fylkesmannen ikke
-skal kunne føre tilsyn med økonomiske forhold.
-Fylkesmannen bør likevel beholde muligheten til
-å føre tilsyn i særlige tilfeller om annet regelverk.
-8.3.6 Departementets forslag
-Departementet foreslår å legge ansvaret for tilsyn
-med økonomiske forhold i private barnehager til
-Utdanningsdirektoratet. Dette vil innebære at
-
-2019–2020
-
-Utdanningsdirektoratet får ansvaret for tilsyn med
-de foreslåtte bestemmelsene i barnehageloven
-kapittel V og tilhørende forskriftsreguleringer.
-Ansvaret vil inkludere tilsyn med eventuelle nye
-bestemmelser knyttet til økonomiske forhold.
-Departementet er klageinstans for vedtak fattet av direktoratet i forbindelse med økonomisk
-tilsyn med private barnehager.
-Departementet foreslår at Utdanningsdirektoratet skal få veiledningsansvaret for de delene av
-regelverket som tilsynet med økonomiske forhold
-forvalter.
-Forslaget innebærer at kommunen fortsatt vil
-være tilsynsmyndighet for øvrige reguleringer i
-barnehageloven med forskrifter. Departementet
-foreslår å videreføre regelen om at fylkesmannen i
-særlige tilfeller kan føre tilsyn med enkeltbarnehager, men at den ikke skal gjelde for tilsyn med
-økonomiske forhold.
-Departementet viser til lovforslaget §§ 10, 53,
-55 og 56.
-
-8.4
-
-Hjemmel til å få opplysninger som
-er nødvendige for å føre tilsyn med
-økonomiske forhold i private
-barnehager
-
-8.4.1 Gjeldende rett
-Etter dagens regler er det kommunen som fører
-tilsyn med økonomiske forhold i private barnehager, se kapittel 8.3.1. Kommunen har rett til innsyn i dokumenter og adgang til barnehagelokaler
-i den utstrekning det anses nødvendig for å ivareta kommunens oppgaver, jf. barnehageloven § 8
-femte ledd. I økonomiforskriften til barnehageloven § 4 er det videre presisert at kommunen til
-enhver tid kan kreve de opplysningene og den
-dokumentasjonen som er nødvendig for å gjennomføre tilsyn etter barnehageloven. Dette kan
-for eksempel være opplysninger om regnskap
-eller dokumentasjon om barnehagens rutiner for
-å ta vare på barna.
-Barnehageloven inneholder ingen bestemmelser som gir rett til innsyn i dokumentasjon hos
-andre virksomheter enn barnehagen som kommunen fører tilsyn med.
-
-8.4.2 Relevant regelverk
-Friskoler
-Det følger av friskoleloven § 7-2 første ledd at
-departementet skal ha tilgang til skoleanlegg og
-dokumentasjon. Dersom departementet i forbin-
+## Spørsmål om det skal innføres en individuell rett og en håndhevingsordning
+
+### Høringsforslaget
+
+Høringsforslaget innebar å innføre tydelige plikter for barnehagen, uten å innføre en individuell rett til et trygt og godt barnehagemiljø og et system for håndheving av enkeltsaker.
+
+Hensynet til barnets rettssikkerhet taler for at foreldrene skal kunne få en sak om sitt barns barnehagemiljø vurdert av en myndighet på nivå over barnehagen. Dette er aktuelt i saker der foreldrene mener at barnehagen ikke oppfyller pliktene sine. Samtidig mente departementet at barnas alder kan tilsi at målet om et trygt og godt barnehagemiljø for det enkelte barn, best ivaretas ved å legge stor vekt på gruppedynamikk og forebyggende arbeid. En lovregulering med rettighetsfesting og håndhevingsordning vil rette mye oppmerksomhet mot enkeltbarn, fremfor barnehagens systematiske arbeid for å skape et godt miljø i barnegruppene. Barnehagenes arbeid handler om å skape trygge og gode barnegrupper og et miljø som grunnlag for lek, læring og allsidig utvikling, forebygge uheldige samspillsmønstre og stoppe krenkelser og mobbing. Det forebyggende arbeidet er helt sentralt for at alle barn skal ha et trygt og godt barnehagemiljø. Personalet må ha kompetanse til å arbeide med lek, vennskap og inkludering, og de må arbeide systematisk slik at alle barn blir inkludert i barnefellesskapet. De må ha rutiner for å observere og analysere samspillet mellom barna, slik at de kan oppdage barn som risikerer å falle utenfor, og de må kunne støtte dem inn i fellesskapet. Tiltakene vil som regel vare over lang tid og handle om et systematisk pedagogisk arbeid med barnegruppene. En tilnærming som legger stor vekt på håndheving i enkeltsaker, kan skape en ubalanse og vanskeliggjøre barnehagens forebyggende, gruppeorienterte arbeid.
+
+Departementet la vekt på at en håndhevingsordning tilsvarende den på skoleområdet, vil føre til flere dokumentasjonskrav enn i dag. Barnehagen vil også måtte bistå med redegjørelser og opplysninger der håndhevingsorganet har saker til behandling. Dette vil ofte være mer skriftlig dokumentasjon enn det barnehagen trenger for å oppfylle aktivitetsplikten og krav til internkontroll.
+
+Departementet viste til at lovreguleringen ikke bør være mer omfattende enn det som er nødvendig for å sikre barn et trygt og godt barnehagemiljø. På barnehageområdet er det ikke tidligere lovfestet tydelige regler for hva barnehagen skal gjøre for å sikre barna et trygt og godt barnehagemiljø. Et system tilsvarende skolemiljøreglene kan være mer omfattende og ressurskrevende enn det som er nødvendig for å sikre at barna har et trygt og godt barnehagemiljø. Dette tilsier at det i første omgang bør innføres tydelige krav til hva barnehagen skal gjøre for å sikre at barn har et trygt og godt barnehagemiljø. Dersom det viser seg at barnehagene ikke oppfyller pliktene de blir pålagt, kan det være aktuelt å foreslå å innføre en rettighetsbestemmelse og en håndhevingsordning på et senere tidspunkt.
+
+I høringsforslaget ble det videre vist til at kommunen allerede skal påse at barnehagene følger barnehageloven og rammeplanen for barnehagens innhold og oppgaver. Kommunen kan bruke godkjenning, veiledning og tilsyn som virkemidler for å påse dette. Dersom en barnehage ikke arbeider godt nok for å sikre barna et trygt og godt barnehagemiljø, kan det være aktuelt å åpne tilsyn. I særlige tilfeller kan fylkesmannen føre tilsyn direkte med barnehager.
+
+### Høringsuttalelsene
+
+109 av høringsinstansene som har svart på høringen, har ikke gitt tilbakemelding på forslaget om å ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning. Dette er blant annet *Sametinget*, 36 kommuner, 22 barnehager, *Forandringsfabrikken*, *Utdanningsforbundet Bergen*, *Utdanningsforbundet i Moss*, *Utdanningsforbundet Ålesund*, *Utdanningsforbundet Stjørdal*, *Statped*, *Fagforbundet*, *KA – Arbeidsgiverorganisasjon for kirkelige virksomheter*, *Norsk psykologforening*, *Dysleksi Norge*, *Verdensorganisasjonen for små barns oppvekst og danning (OMEP) Norge*, *FRI – Foreningen for kjønns- og seksualitetsmangfold og Reform – Ressurssenter for menn*. Disse høringsinstansene støtter i hovedsak forslagene om å innføre tydelige plikter for barnehagene knyttet til barnehagemiljø.
+
+81 høringsinstanser har gitt tilbakemelding på forslaget om å ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning. Av disse er det 44 høringsinstanser som støtter forslaget. Dette er 36 kommuner, 2 fylkesmenn, 3 barnehager, *KS, Steinerbarnehageforbundet og Skolelederforbundet.*
+
+Flere av de som støtter forslaget uttaler at de er enige i at en tilnærming som legger vekt på håndheving i enkeltsaker, kan skape ubalanse og vanskeliggjøre barnehagens forebyggende, gruppeorienterte arbeid. Det blir også trukket frem at en individuell rettighet og en tilhørende håndhevingsordning kan føre til økt byråkrati og dokumentasjonsplikt.
+
+27 høringsinstanser er imot forslaget om å ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning. Dette er blant annet *Helsedirektoratet*, *Nasjonalt senter for læringsmiljø og atferdsforskning*, *Regionsenter for barn og unges psykiske helse Helseregion Øst*, *Universitetet i Agder*, 3 fylkesmenn, 7 kommuner, *Barneombudet*, *Elev-, lærling- og mobbeombudene, Private Barnehagers Landsforbund (PBL)*, *Utdanningsforbundet*, *Redd Barna, UNICEF Norge, Funksjonshemmedes Fellesorganisasjon, ADHD Norge,* *Norsk forbund for utviklingshemmede,* *Hørselshemmedes landsforbund og Voksne for Barn*.
+
+Flere av disse høringsinstansene er bekymret for at forslagene ikke vil gi en styrking av barnas rettssikkerhet på det psykososiale feltet. Mange av dem trekker frem at barnehagebarn bør ha individuelle rettigheter på lik linje med barn i skolen, og at det er behov for at en overordnet eller uavhengig instans fungerer som håndhever eller klageinstans. Flere trekker frem at de er uenige i at en rettighetsbestemmelse vil ta fokuset vekk fra det forebyggende arbeidet. De kan ikke se at det er en motsetning mellom at barnet har en individuell rettighet til et trygt og godt barnehagemiljø og at barnehagen samtidig har en plikt til å sikre et trygt og godt barnehagemiljø gjennom å jobbe med gruppedynamikk og forebyggende arbeid. De mener at det derimot kan øke kvaliteten på det forebyggende arbeidet siden et vedtak kan påpeke svakheter også her. En del trekker også frem at det er vanskelig å sikre at alle kommunene har den kompetansen og uavhengigheten som trengs for å sikre at regelverket blir etterlevd.
+
+*Barneombudet* viser til at konsekvensene av mobbing i barnehagen kan være store, og ombudet mener derfor at rettighetene er like viktige i barnehagen som på skolefeltet. Barneombudet er ikke enig i at en individuell rett vil føre til for mye oppmerksomhet mot enkeltbarn. Ombudet peker på at det ikke er et motsetningsforhold mellom det å jobbe med enkeltbarn og det å jobbe med barnegruppen. Videre mener ombudet at barnas alder ikke kan ha noen betydning, tvert imot kan man etter ombudets syn stille spørsmål ved om ikke de yngste barna er de som trenger det beste vernet siden de er så avhengige av hjelpen de får fra de voksne. Siden det ikke blir foreslått en håndhevingsordning, vil det etter ombudets syn være opp til barnehagen og kommunen om de vil oppfylle pliktene. Ombudet opplever at kommunen i mange saker har tatt barnehagens side og at det er store forskjeller i regelverkskompetansen i kommunene.
+
+*PBL* mener at en individuell rett med en håndhevingsordning kan virke konfliktdempende og bidra til en avslutning av saken der det er uenighet mellom barnehagen og foreldrene. PBL mener videre at kommunen ikke har den nødvendige kompetansen til å se til at regelverket etterleves gjennom tilsyn. De mener at håndheving av regelverket krever særskilt kompetanse som bør samles ved etablering av et eget uavhengig nasjonalt organ.
+
+*Utdanningsforbundet* mener forslaget til rettighetsbestemmelse fra NOU 2012: 1 *Til barnas beste – Ny lovgivning for barnehagene* bør lovfestes. Videre ber forbundet departementet utrede nærmere hvordan rettigheten bør håndheves. Forbundet påpeker at det ikke trenger å være samme håndhevingsordning som etter opplæringsloven. Et alternativ er at departementet utreder forslaget fra Barnehagelovutvalget hvor kommunen ble foreslått som en klageinstans. Et annet alternativ er å vurdere om det skal etableres en håndhevingsordning (fylkesmannen) i barnehageloven.
+
+10 høringsinstanser har kommentert forslaget om å ikke innføre en rettighetsbestemmelse med en tilhørende håndhevingsordning uten å ta uttrykkelig stilling til det. *Fylkesmannen i Agder* viser til at uten en håndhevingsordning kan det bli et økende antall henvendelser til fylkesmannen om å følge opp enkeltsaker gjennom tilsyn i særlige tilfeller. Fylkesmannen påpeker at dette kan bli en indirekte håndhevingsordning. *Oslo kommune* gir argumenter for og mot en håndhevingsordning, men ønsker ikke å ta stilling til dette før departementet har grundig synliggjort konsekvensene av og mulige innretninger på en slik ordning. *Norlandia Barnehagene AS* uttaler blant annet at de ikke kan se at kommunen i dag har den nødvendige kompetansen til å følge opp at regelverket etterleves gjennom tilsyn. *Læringsverkstedet* er usikre på om kommunen har nødvendig kompetanse, samtidig som de mener det er uklart hvilke konsekvenser en individuell rett og system for håndheving av enkeltsaker vil få for barnehagene. Læringsverkstedet ønsker derfor en ytterligere utredning av om det bør innføres en individuell rett med en håndhevingsordning, og hvilke konsekvenser dette eventuelt vil få for barnehagene.
+
+### Departementets vurderinger
+
+Det er flertall for forslaget om å ikke innføre en individuell rett og et system for håndheving av enkeltsaker. Flere av høringsinstansene er enige i at en tilnærming som legger vekt på håndheving i enkeltsaker, kan skape ubalanse ved at oppmerksomheten blir rettet mot enkeltsaker fremfor barnehagens systematiske arbeid for å skape et godt miljø i barnegruppene. Det blir også trukket frem at en innretning med en individuell rettighet og en tilhørende håndhevingsordning, kan føre til økte administrasjonsoppgaver og dokumentasjonsplikter. Samtidig mener flere høringsinstanser at en individuell rettighet og en tilhørende håndhevingsordning er nødvendig for at de foreslåtte lovendringene skal styrke barnas rettssikkerhet når det gjelder det psykososiale barnehagemiljøet.
+
+Departementet er enig i at det ikke er et motsetningsforhold mellom det å jobbe med enkeltbarn og det å jobbe med barnegruppen. Tvert imot er arbeidet med miljøet i barnegruppene helt sentralt for at alle barn skal ha et trygt og godt barnehagemiljø. Samtidig er det etter departementets syn en fare for at en tilnærming som legger stor vekt på håndheving i enkeltsaker, kan trekke oppmerksomheten bort fra barnehagens forebyggende, gruppeorienterte arbeid. Videre er det etter departementets syn en fare for at et slikt system vil gi stort press på barnehagene i form av økt administrasjon og dokumentasjon.
+
+Etter departementets syn bør ikke lovreguleringen være mer omfattende enn det som er nødvendig for å sikre barn et trygt og godt barnehagemiljø. På barnehageområdet er det ikke tidligere lovfestet tydelige regler for hva barnehagen skal gjøre for å sikre barna et trygt og godt barnehagemiljø. Med de foreslåtte lovendringene vil det bli tydelig hva barnehagene har plikt til å gjøre dersom ett eller flere barn ikke har et trygt og godt barnehagemiljø. Tydelige lovplikter vil også gi bedre grunnlag for å kunne følge opp barnehagene gjennom tilsyn.
+
+Departementet mener at kompetansebyggende tiltak kan være mer hensiktsmessig enn å innføre en rettighetsbestemmelse og en håndhevingsordning. Kompetanse hos de som arbeider i barnehagen, er viktig for at de skal kunne ivareta de foreslåtte pliktene på en måte som gir barna i barnehagen et trygt og godt psykososialt miljø. Personalet må ha kompetanse til å arbeide med lek, vennskap og inkludering, og de må arbeide systematisk slik at alle barn blir inkludert i barnefellesskapet. De må ha rutiner for å observere og analysere samspillet mellom barna slik at de kan oppdage barn som risikerer å falle utenfor, og de må kunne støtte dem inn i fellesskapet. Tiltakene vil som regel vare over lang tid og handle om et systematisk pedagogisk arbeid med barnegruppene.
+
+Barnehagesektoren har i flere år hatt en ordning der fylkesmennene har tildelt midler til kompetanseutvikling og utviklingsarbeid lokalt. I den reviderte kompetansestrategien *Kompetanse for fremtidens barnehage* (2018–2022) ble dette videreutviklet til en ordning kalt *regional ordning for kompetanseutvikling* i barnehage. Læringsmiljø og mobbing er blant temaene det jobbes med. I 2020 foreslår regjeringen å bevilge om lag 190 mill. kroner til ordningen.
+
+Samlet betyr dette at mer enn tusen barnehager og skoler over hele landet har deltatt – eller deltar – i kompetansearbeid mot mobbing. Utdanningsdirektoratet har i tillegg utarbeidet en prognose for hele perioden 2017–2020 som viser at 180 kommuner med samlet 700 skoler og 700 barnehager har fått eller vil få et tilbud om kompetansearbeid mot mobbing. Det nettbaserte kompetansetilbudet kommer i tillegg til denne satsningen.
+
+Kommunen som barnehagemyndighet skal påse at barnehagene etterlever regelverket, blant annet gjennom veiledning og tilsyn. Enkelte høringsinstanser mener at kommunen ikke har et tilstrekkelig uavhengig forhold til å kunne ivareta denne oppgaven på en betryggende måte. Departementet viser til at det er foreslått å innføre et krav om at kommunen skal organisere oppgavene den har som barnehagemyndighet adskilt fra oppgavene den har som barnehageeier. Et slikt krav vil blant annet gjelde når kommunen fører tilsyn med om barnehagene etterlever de nye reglene om barnehagemiljø. Etter departementets syn vil dette bidra til å profesjonalisere tilsynet og gi økt tillit til at kommunen utfører oppgaven på en upartisk måte.
+
+På bakgrunn av dette foreslår departementet å ikke innføre en individuell rett og et system for håndheving av enkeltsaker. Dersom det viser seg at barnehagene ikke oppfyller pliktene de blir pålagt, kan det være aktuelt å foreslå å innføre en rettighetsbestemmelse og en håndhevingsordning på et senere tidspunkt.
+
+## Departementets forslag
+
+Departementet foreslår å endre ordlyden i barnehageloven § 3 slik at det går frem at barn i barnehagen har rett til å gi uttrykk for sitt syn i saker som gjelder dem selv, i tillegg til på barnehagens daglige virksomhet. Bestemmelsene om medvirkning for foreldrerådet og samarbeidsutvalget vil omfatte barnehagens arbeid med barnehagemiljøet.
+
+Departementet foreslår å lovfeste at i alle handlinger og avgjørelser som gjelder barn i barnehagen, skal hva som er best for barnet, være et grunnleggende hensyn.
+
+Departementet foreslår å lovfeste at barnehagen ikke skal godta krenkelser som for eksempel mobbing, utestenging, trakassering, diskriminering og vold, og at de som arbeider i barnehagen skal ha plikt til å gripe inn ved slike krenkelser.
+
+Departementet foreslår å lovfeste at barnehagen skal forebygge at barn ikke har et trygt og godt barnehagemiljø ved å arbeide kontinuerlig for å fremme helsen, trivselen, leken og læringen til barna.
+
+Departementet foreslår å lovfeste en aktivitetsplikt som skal sikre at barnehagen handler raskt og riktig når et barn ikke har et trygt og godt barnehagemiljø. Alle som arbeider i barnehagen, skal følge med på hvordan barna i barnehagen har det og at de skal melde fra til barnehagens styrer dersom de får mistanke om eller kjennskap til at et barn ikke har et trygt og godt barnehagemiljø. Styrer skal melde fra til barnehageeieren i alvorlige tilfeller.
+
+Ved mistanke om eller kjennskap til at et barn ikke har et trygt og godt barnehagemiljø, skal barnehagen snarest undersøke saken. Når et barn eller foreldrene sier at barnet ikke har et trygt og godt barnehagemiljø, skal barnehagen snarest undersøke saken og så langt det finnes egnede tiltak, sørge for at barnet får et trygt og godt barnehagemiljø. Det samme gjelder når en undersøkelse som barnehagen selv har satt i gang, viser at et barn ikke har et trygt og godt barnehagemiljø. Tiltakene skal velges på grunnlag av en konkret og faglig vurdering.
+
+Departementet foreslår videre å lovfeste at barnehagen skal lage en skriftlig plan når det skal gjøres tiltak i en sak. I planen skal det stå hvilke problemer tiltakene skal løse, hvilke tiltak barnehagen har planlagt, når tiltakene skal gjennomføres, hvem som skal gjennomføre tiltakene og når tiltakene skal evalueres.
+
+Departementet vil vurdere om en del av bestemmelsene i forskrift om rammeplan for barnehagens innhold og oppgaver bør endres som følge av forslagene i dette høringsnotatet og høringsnotatet om regulering av private barnehager. Departementet vil gjøre en felles gjennomgang av rammeplanen etter at lovendringene er vedtatt.
+
+# Regulering av private barnehager
+
+## Bakgrunnen for forslagene
+
+I 2003 inngikk Stortinget et historisk barnehageforlik. Barnehageforliket gikk ut på at alle familier som ønsket det, skulle få tilbud om barnehageplass. Dette har ført til full barnehagedekning og en enklere hverdag for småbarnsfamiliene. I 2019 gikk 92,2 prosent av alle barn i alderen ett til fem år i barnehage. Om lag halvparten av barna som går i barnehage, går i dag i en privat barnehage. Dette utgjør om lag 140 000 barn.
+
+Barnehagesektoren består i dag av om lag 5 700 barnehager, hvorav om lag 3 000 er private. Dette omfatter både private ordinære barnehager, private familiebarnehager og private åpne barnehager. I 2018 var 54 prosent av de private ordinære barnehagene organisert som aksjeselskap og 23 prosent organisert som samvirkeforetak. 42 prosent av de private ordinære barnehagene inngikk i et foretak eller i foretaksgrupper sammen med andre barnehager. Både private og kommunale barnehager har blitt større de siste årene, og vi har fått større og mer profesjonelle private aktører som er organisert i konsernstrukturer.
+
+Departementet har foretatt en helhetlig gjennomgang av regelverket for private barnehager. I forbindelsen med denne gjennomgangen har departementet blant annet innhentet et omfattende og oppdatert kunnskapsgrunnlag om ulike sider ved finansieringssystemet, lønnsomhet i private barnehager, utvikling i gjeldsbelastning i private barnehager og hvordan tilsynssystemet fungerer.
+
+De private barnehagene mottar årlig om lag 20 milliarder kroner i offentlige tilskudd og om lag 4 milliarder kroner i foreldrebetaling. Tilstrekkelig kontroll og tilsyn med at tilskudd og foreldrebetaling kommer barna i barnehagen til gode bidrar til å skape tillit i og til sektoren. Regjeringens politiske plattform fastslår at regjeringen vil utvikle et bedre og mer uavhengig tilsynssystem for barnehagene. Dette vil bidra til å sikre at offentlige tilskudd og foreldrebetaling går til å drive gode barnehager.
+
+Dagens tilsynssystem er ikke laget for en sektor med eiere som organiserer flere barnehager og annen virksomhet i samme rettssubjekt, og som har barnehager i flere kommuner. I en undersøkelse fra Agenda Kaupang (rapport R9607, 2017) går det frem at kommunene mener at de verken har kapasitet eller kompetanse til å føre tilsyn med økonomiske forhold i private barnehager, og at regelverket for bruk av offentlige tilskudd og foreldrebetaling er uklart. Sektoren består i dag av mer profesjonelle aktører med til dels kompliserte selskapsstrukturer, noe som innebærer at det er behov for et bedre økonomisk tilsyn med de private barnehagene. Tilsyn med private aktører er en spesialisert og teknisk oppgave som krever tilstrekkelige ressurser og høy kompetanse.
+
+Departementet sendte en rekke forslag til endringer i regelverket for private barnehager på høring 26. april 2019. Forslagene i høringen følger opp åtte ulike anmodningsvedtak fra Stortinget. I denne proposisjonen følger departementet opp forslagene i høringen som handler om tydeliggjøring av kravene til bruk av offentlig tilskudd og foreldrebetaling og opprettelsen av et nasjonalt tilsyn, med tilhørende reguleringer om hjemmel for å kreve nødvendig dokumentasjon i forbindelse med tilsyn og reaksjoner. Forslagene om stedlig leder og vikarbruk omtales i kapittel 10. Departementet har, blant annet basert på høringsinnspillene, behov for å vurdere øvrige forslag i høringen nærmere. Dette gjelder blant annet endringer i ulike deler av finansieringssystemet, herunder spørsmål om tilskudd til pensjon, krav til barnehagens organisering, regnskapskrav og meldeplikt til kommunen ved salg av private barnehager. Departementet vil komme tilbake til Stortinget med eventuelle forslag til endringer i regelverket på disse områdene.
+
+Fristen for å avgi høringsuttalelser var 26. juli 2019. Departementet mottok 217 høringssvar innen fristen.
+
+Høringsnotatet ble sendt til følgende høringsinstanser:
+
+Departementene
+
+Arbeidstilsynet
+
+Barne-, ungdoms- og familiedirektoratet
+
+Barneombudet
+
+Brønnøysundregisteret
+
+Datatilsynet
+
+Folkehelseinstituttet
+
+Forbrukerombudet
+
+Forbrukerrådet
+
+Foreldreutvalget for barnehager
+
+Foreldreutvalget for grunnskolen
+
+Fylkesmennene
+
+Helsedirektoratet
+
+Helsetilsynet
+
+Husbanken
+
+Integrerings- og mangfoldsdirektoratet (IMDI)
+
+Kompetanse Norge
+
+Konkurransetilsynet
+
+Kriminalomsorgsdirektoratet
+
+Likestillings- og diskrimineringsombudet
+
+Mattilsynet
+
+Miljødirektoratet
+
+Nasjonalt organ for kvalitet i utdanningen (NOKUT)
+
+Norges forskningsråd
+
+Riksrevisjonen
+
+Sametinget
+
+Språkrådet
+
+Statens arbeidsmiljøinstitutt
+
+Statens institutt for forbruksforskning
+
+Statistisk sentralbyrå
+
+Statped
+
+Sysselmannen på Svalbard
+
+Utlendingsdirektoratet
+
+Fylkeskommunene
+
+Kommunene
+
+Longyearbyen lokalstyre
+
+Høgskoler
+
+Universiteter
+
+Universitets- og høgskolerådet
+
+Akademikerne
+
+Arbeidsgiverforeningen Spekter
+
+Atferdssenteret
+
+Delta
+
+Dysleksi Norge
+
+Espira
+
+Fafo
+
+Fagforbundet
+
+Fellesorganisasjonen
+
+Funksjonshemmedes fellesorganisasjon
+
+Handikappede barns foreldreforening
+
+Humanetisk forbund
+
+Innvandrernes landsorganisasjon
+
+Institutt for samfunnsforskning
+
+Kanvas
+
+Kirkelig pedagogisk senter
+
+Kirkens arbeidsgiverorganisasjon
+
+Kliniske ernæringsfysiologers forening
+
+Kristent pedagogisk forum
+
+KS
+
+Kvinnefronten
+
+Landsorganisasjonen i Norge
+
+Landsrådet for Norges barne- og ungdomsorganisasjoner
+
+Lederne
+
+Likestillingssenteret
+
+Læringsverkstedet
+
+Multikulturelt Initiativ- og Ressursnettverk
+
+Nasjonalt senter for flerkulturell opplæring
+
+Nasjonalt senter for fremmedspråk i opplæringen
+
+Nasjonalt senter for kunst og kultur i opplæringa
+
+Nasjonalt senter for leseopplæring og leseforskning
+
+Nasjonalt senter for læringsmiljø og atferdsforskning
+
+Nasjonalt senter for mat, helse og fysisk aktivitet
+
+Nasjonalt senter for matematikk i opplæringen
+
+Nasjonalt senter for naturfag i opplæringa
+
+Nasjonalt senter for nynorsk i opplæringa
+
+Norges bygdekvinnelag
+
+Norges døveforbund
+
+Norges handikapforbund
+
+Norges idrettsforbund
+
+Norges kvinne- og familieforbund
+
+Norges Montessoriforbund
+
+Norsk forbund for utviklingshemmede
+
+Norsk foreldrelag for funksjonshemmede
+
+Norsk innvandrerforum
+
+Norsk senter for barneforskning
+
+Norsk senter for menneskerettigheter
+
+Norsk studentorganisasjon
+
+Norske kveners forbund
+
+Norske samers riksforbund
+
+Private barnehager
+
+Private barnehagers landsforbund
+
+Private barnehager i Asker
+
+REFORM ressurssenter for menn
+
+Regelrådet
+
+Røde Kors
+
+Samarbeidsforumet av funksjonshemmedes organisasjoner
+
+Senter for IKT i utdanningen
+
+Senter for samisk i opplæringa
+
+Sentralledelsen for fylkesnemndene for barnevern og sosiale saker
+
+Skolelederforbundet
+
+Steinerbarnehagene Norge
+
+Stiftelsen barnas rettigheter
+
+Taterne/Romanifolkets menneskerettighetsforening
+
+Trygge barnehager
+
+Tvillingforeldreforeningen
+
+Unge funksjonshemmede
+
+UNICEF Norge
+
+Unio
+
+Utdanningsforbundet
+
+Velferdsforskningsinstituttet – NOVA
+
+Verdensorganisasjonen for små barns oppvekst og danning
+
+Virke
+
+YS
+
+Følgende høringsinstanser hadde merknader til forslagene:
+
+Statistisk sentralbyrå
+
+Statens arbeidsmiljøinstitutt
+
+Sametinget
+
+Fylkesmannen i Agder
+
+Fylkesmannen i Innlandet
+
+Fylkesmannen i Oslo og Viken
+
+Fylkesmannen i Rogaland
+
+Fylkesmannen i Troms og Finnmark
+
+Fylkesmannen i Vestfold og Telemark
+
+Fylkesmannen i Vestland
+
+Alta kommune
+
+Arendal kommune
+
+Asker kommune
+
+Askim kommune
+
+Aurskog-Høland kommune
+
+Bamble kommune
+
+Bergen kommune
+
+Bjerkreim kommune
+
+Bærum kommune
+
+Bømlo kommune
+
+Drammen kommune
+
+Eidsberg kommune
+
+Elverum kommune
+
+Evje og Hornnes kommune
+
+Fitjar kommune
+
+Fjell kommune
+
+Fredrikstad kommune
+
+Frøya kommune
+
+Gausdal kommune
+
+Giske kommune
+
+Gjerdrum kommune
+
+Gjesdal kommune
+
+Gjøvik kommune
+
+Gol kommune
+
+Gran kommune
+
+Hadsel kommune
+
+Hemsedal kommune
+
+Holmestrand kommune
+
+Horten kommune
+
+Indre Fosen kommune
+
+Jevnaker kommune
+
+Klepp kommune
+
+Kongsberg kommune
+
+Kragerø kommune
+
+Kristiansand kommune
+
+Lillehammer kommune
+
+Lunner kommune
+
+Lørenskog kommune
+
+Molde kommune
+
+Moss og Rygge kommune
+
+Namsos kommune
+
+Nannestad kommune
+
+Nes kommune
+
+Oppdal kommune
+
+Os kommune
+
+Oslo kommune
+
+Porsgrunn kommune
+
+Randaberg kommune
+
+Re kommune
+
+Ringerike kommune
+
+Ringsaker kommune
+
+Rælingen kommune
+
+Sande kommune
+
+Sandefjord kommune
+
+Sandnes kommune
+
+Sarpsborg kommune
+
+Skedsmo kommune
+
+Skien kommune
+
+Skiptvedt kommune
+
+Stavanger kommune
+
+Stjørdal kommune
+
+Stord kommune
+
+Stor-Elvdal kommune
+
+Sveio kommune
+
+Time kommune
+
+Tolga kommune
+
+Tromsø kommune
+
+Trondheim kommune
+
+Tynset kommune
+
+Tønsberg kommune
+
+Ullensaker kommune
+
+Vanylven kommune
+
+Vefsn kommune
+
+Verdal kommune
+
+Vestre Toten kommune
+
+Ørsta kommune
+
+Østre Toten kommune
+
+Øyer kommune
+
+Øygarden kommune
+
+Øystre Slidre kommune
+
+Ål kommune
+
+Ålesund kommune
+
+Handelshøyskolen ved Universitetet i Agder
+
+Abelia
+
+Delta
+
+Fagforbundet
+
+Fellesskap for ideelle barnehager
+
+Foreldreutvalget for barnehager (FUB)
+
+IKO – Kirkelig pedagogisk senter
+
+KA – Arbeidsgiverorganisasjon for kirkelige virksomheter
+
+KS
+
+KPMG
+
+Lederne
+
+Landsorganisasjonen i Norge
+
+Montessori Norge
+
+Norges kommunistiske parti, Østfold distrikt
+
+Næringslivets Hovedorganisasjon
+
+OMEP (Verdensorganisasjonen for små barns oppvekst og utdanning)
+
+Organisasjonen for private barnehager i Larvik
+
+Private barnehagers landsforbund (PBL)
+
+Revisorforeningen
+
+Samskipnadsrådet
+
+Skolelederforbundet
+
+Skolenes landsforbund Karmøy
+
+Spekter
+
+Stavangerbarnehagenes foreldreforening
+
+Steinerbarnehageforbundet
+
+Utdanningsforbundet
+
+Utdanningsforbundet Bergen
+
+Utdanningsforbundet Skiptvedt
+
+Virke
+
+Akasia barnehage AS
+
+Akrobaten barnehage
+
+Ameliahaugen barnehage
+
+Arbeidsutvalget for private barnehager i Trondheim kommune
+
+Asdal barnehage AS
+
+Askeladden barnehage Borg AS
+
+Babuschka barnehage AS
+
+Banktrollet barnehage
+
+Barnas Have avd. Bugården AS
+
+Barnas Have avd. sentrum AS
+
+Barnas Moa
+
+Bekkevollen barnehage AS
+
+Berg barnehage SA
+
+Bergheim barnehage SA
+
+Bjerkås barnehage
+
+Blåklokka barnehage AS
+
+Borg barnehager AS
+
+Båsemor Gårdsbarnehage
+
+Dampsaga barnehage AS
+
+Endrestø barnehage SA
+
+Espira gruppen AS
+
+Fire private enkeltstående barnehager
+
+Fjellsøya barnehage AS
+
+Frelsesarmeens barnehager
+
+Furutoppen barnehage
+
+Galleberg barnehage SA
+
+Gnist barnehager AS
+
+Gnisten barnehage SA
+
+Grotterødløkka AS
+
+Hanevold barnegård AS
+
+Heggum barnehage AS
+
+Hov barnehage SA
+
+Kulturbarnehagen Tromsø
+
+Lahaug gårds og naturbarnehage
+
+Lekestua barnehage
+
+Lia barnehage Kongsvinger
+
+Lia barnehage SA
+
+Lillevollen barnehage
+
+Linnesbakken barnehage AS
+
+Liøya barnehage SA
+
+Lundåsen barnehage
+
+Læringsverkstedet AS
+
+Løvset barnehage SA
+
+Mamma Mia barnehage
+
+Medbroen Drift AS
+
+Missingmyr barnehage AS
+
+Nesåsen barnehage SA
+
+NLM-barnehagene AS
+
+Nordlys barnehage AS
+
+Norlandia barnehagene AS
+
+Nye Kakhaugen barnehage
+
+Nystrand barnehage AS
+
+Nærsnes Kystbarnehage AS
+
+Private barnehager i Asker
+
+Ragnas hage
+
+Rodamyr barnehage SA
+
+Ryggstranden barnehage SA
+
+Skattekista barnehage og Trollsteinen barnehage
+
+Skogens lykke barnehage AS
+
+Skogkanten barnehage SA
+
+Smedhusåsen barnehage SA
+
+Småfolk barnehage
+
+Solbergelva barnehage AS
+
+Solbergmoen barnehage AS
+
+Sole barnehage SA
+
+Solvang barnehage SA
+
+Steinrøysa andelsbarnehage SA
+
+Stiftelsen Kanvas
+
+Stiftinga Hjellbakkane barnehage
+
+TDM Barnehager
+
+Trollskogen Barnehage SA
+
+Trollstua barnehage SA
+
+Tronvik Gårdsbarnehage
+
+Trygge barnehager AS
+
+Ulna AS
+
+Ulset barnehage
+
+Utsikten barnehage SA
+
+Økernly barnehagedrift AS
+
+Åheim barnehage
+
+Anders og Elin Skrede
+
+Anonym
+
+Kent Atle Eriksen
+
+Per Arne Sandvold
+
+Følgende høringsinstanser uttalte at de ikke ville gi uttalelse i saken, eller at de ikke hadde merknader til forslagene:
+
+Forsvarsdepartementet
+
+Helse- og omsorgsdepartementet
+
+Justis- og beredskapsdepartementet
+
+Samferdselsdepartementet
+
+Brønnøysundregisteret
+
+Folkehelseinstituttet
+
+Kompetanse Norge
+
+Kriminalomsorgsdirektoratet
+
+Statens arbeidsmiljøinstitutt
+
+Maurtuva barnehage
+
+Polarhagen barnehage
+
+Skaarlia barnehage
