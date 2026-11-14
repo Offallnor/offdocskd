@@ -1,1131 +1,536 @@
-# Prop. 5 LS (2023–2024), del 12 av 15 (side 130–140)
+# Prop. 5 LS (2023–2024), del 12 av 14
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2023/16a05794-prop-5-ls-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-5-ls-20232024/id3001765/
 - Original-PDF: https://www.regjeringen.no/contentassets/cbbbb1e93b5e429e99b904493710158d/no/pdfs/prp202320240005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 39 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 130]
+\(2\) Institusjonene skal uten opphold framlegge eller utveksle alle opplysninger som er nødvendige for å kunne fastslå og bestemme rettigheter og plikter for personer som denne konvensjonen får anvendelse på. Opplysningene skal overføres mellom statene direkte av institusjonene selv eller indirekte via kontaktorganene.
 
-128
+\(3\) Dersom en person ved en feiltakelse har framlagt opplysninger, dokumenter eller krav for en institusjon på territoriet til en annen stat enn staten der institusjonen utpekt i samsvar med dette vedlegget befinner seg, skal førstnevnte institusjon uten opphold videresende opplysningene, dokumentene eller kravene til institusjonen utpekt i samsvar med dette vedlegget med en angivelse av datoen da opplysningene, dokumentene eller kravene først ble framlagt. Denne datoen skal være bindende for sistnevnte institusjon. Statenes institusjoner skal imidlertid ikke holdes ansvarlige eller anses for å ha truffet en beslutning ved å forholde seg passive som følge av forsinket overføring av opplysninger, dokumenter eller krav fra andre staters institusjoner.
 
-2023–2024
+\(4\) Dersom opplysninger overføres indirekte via kontaktorganet i bestemmelsesstaten, skal fristen for å besvare en anmodning løpe fra den dagen kontaktorganet mottar kravet, som om det var mottatt av institusjonen i den aktuelle staten.
 
-Prop. 5 LS
+Artikkel 3
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+Regler for utveksling mellom berørte personer og institusjoner og omfanget av utvekslingen
 
-out delay, inform the institution of the place of
-residence or stay which provided the benefits
-in kind.
-Where an accident at work or occupational
-disease is not established, benefits in kind shall
-continue to be provided as sickness benefits if
-the person concerned is entitled to them.
-Where an accident at work or occupational
-disease is established, sickness benefits in kind
-provided to the person concerned shall be considered as accident at work or occupational disease benefits from the date on which the accident at work occurred or the occupational disease was first medically diagnosed.
-(3) Article 6(6) of this Annex applies mutatis
-mutandis.
+\(1\) Statene skal sørge for at berørte personer får tilgang til nødvendige opplysninger om bestemmelsene som innføres med denne konvensjonen og dette vedlegget, og kan gjøre sine rettigheter gjeldende. De skal også sørge for at tjenestene er brukervennlige.
 
-underrette institusjonen på bostedet eller oppholdsstedet som har gitt naturalytelsene.
-Dersom det ikke fastslås at det foreligger
-yrkesskade eller yrkessykdom, skal naturalytelser fortsatt gis som ytelser ved sykdom dersom den berørte personen har rett til dette.
-Dersom det fastslås at det foreligger yrkesskade eller yrkessykdom, skal naturalytelsene
-ved sykdom som vedkommende har mottatt,
-betraktes som ytelser ved yrkesskade eller
-yrkessykdom fra den dagen yrkesskaden inntraff eller yrkessykdommen først ble diagnostisert.
-(3) Artikkel 6 nr. 6 i dette vedlegget gjelder tilsvarende med nødvendige endringer.
+\(2\) Personer som omfattes av denne konvensjonen, plikter å gi den relevante institusjonen opplysninger, dokumenter eller underlagsmateriale som er nødvendig for å kunne avklare deres eller familiens situasjon, for å fastsette eller opprettholde deres rettigheter og plikter og for å avgjøre hvilken lovgivning som får anvendelse, og hvilke plikter de har etter den lovgivningen.
 
-Article 29
+\(3\) I den grad det er nødvendig av hensyn til anvendelsen av denne konvensjonen og dette vedlegget, skal de relevante institusjonene uten opphold oversende opplysningene og utstede dokumentene til de berørte personene, og under alle omstendigheter innen fristene fastsatt i den aktuelle statens lovgivning.
 
-Artikkel 29
+\(4\) Den relevante institusjonen skal underrette en søker som er bosatt eller oppholder seg i en annen stat, om sitt vedtak, enten direkte eller via kontaktorganet i bosteds- eller oppholdsstaten. Dersom den avslår å gi ytelser, skal den også begrunne avslaget og opplyse om klagemuligheter og hvilke frister som gjelder. En kopi av vedtaket skal sendes til andre involverte institusjoner.
 
-Procedure in the event of exposure to the risk of
-an occupational disease in two or more States
+Artikkel 4
 
-Framgangsmåte ved eksponering for risiko
-for yrkessykdom i to eller flere stater
+Skjemaer, dokumenter og metoder for utveksling av opplysninger
 
-(1) In the case referred to in Article 39 of this
-Convention, the declaration or notification of
-the occupational disease shall be sent to the
-competent institution for occupational diseases of the last State under the legislation of
-which the person concerned pursued an activity likely to cause that disease.
-When the institution to which the declaration or notification was sent establishes that an
-activity likely to cause the occupational disease
-in question was last pursued under the legislation of another State, it shall send the declaration or notification and all accompanying certificates to the equivalent institution in that State.
-(2) Where the institution of the last State under
-the legislation of which the person concerned
-pursued an activity likely to cause the occupational disease in question establishes that the
-person concerned or their survivors do not
-meet the requirements of that legislation, inter
-alia, because the person concerned had never
-pursued in that State an activity which caused
-the occupational disease or because that State
-does not recognise the occupational nature of
-the disease, that institution shall forward without delay the declaration or notification and all
-accompanying certificates, including the findings and reports of medical examinations performed by the first institution to the institution
-of the previous State under the legislation of
-which the person concerned pursued an activity likely to cause the occupational disease in
-question.
+\(1\) Med forbehold for artikkel 73 og tillegg 1 i dette vedlegget skal innholdet i og strukturen og formatet på skjemaer og dokumenter som utstedes på vegne av statene med henblikk på gjennomføringen av denne konvensjonen, fastsettes av den blandede administrative komiteen.
 
-(1) I tilfellet nevnt i artikkel 39 i denne konvensjonen skal en erklæring eller melding om yrkessykdom sendes til den institusjonen som er
-kompetent med hensyn til yrkessykdom i den
-staten etter hvis lovgivning den berørte personen sist har utført arbeid som må antas å
-kunne forårsake sykdommen.
-Dersom institusjonen som har mottatt erklæringen eller meldingen, fastslår at et arbeid
-som må antas å kunne forårsake yrkessykdommen, sist ble utført etter en annen stats lovgivning, skal den sende erklæringen eller
-meldingen og alle vedlagte bekreftelser til den
-tilsvarende institusjonen i den staten.
-(2) Dersom institusjonen i den staten etter hvis
-lovgivning den berørte personen sist har
-utført arbeid som må antas å kunne forårsake
-sykdommen, fastslår at vedkommende eller
-vedkommendes etterlatte ikke oppfyller vilkårene i den lovgivningen, blant annet fordi vedkommende aldri har utført et arbeid som har
-kunnet forårsake yrkessykdommen i den staten, eller fordi den staten ikke anerkjenner at
-sykdommen er yrkesbetinget, skal den uten
-opphold videresende erklæringen eller meldingen og alle vedlagte bekreftelser, herunder
-resultater og rapporter fra medisinske undersøkelser foretatt av den første institusjonen, til
-institusjonen i staten etter hvis lovgivning vedkommende tidligere har utført arbeid som må
-antas å kunne forårsake yrkessykdommen.
+\(2\) Overføring av opplysninger mellom institusjonene eller kontaktorganene kan skje elektronisk, forutsatt at dette godkjennes av statene via den blandede administrative komiteen. Dersom skjemaene og dokumentene nevnt i nr. 1 overføres elektronisk, skal reglene som gjelder for det systemet, overholdes.
 
-[Side 131]
+\(3\) Dersom overføringen av opplysningen mellom institusjoner eller kontaktorganene ikke skjer elektronisk, skal de relevante institusjonene og kontaktorganene bruke de ordningene som er hensiktsmessige i hvert enkelt tilfelle, og skal foretrekke elektronisk overføring så langt det er mulig.
 
-2023–2024
+\(4\) De relevante institusjonene skal i sin kommunikasjon med berørte personer bruke de ordningene som er hensiktsmessige i hvert enkelt tilfelle, og skal foretrekke elektronisk overføring så langt det er mulig.
 
-Prop. 5 LS
+Artikkel 5
 
-129
+Den rettslige gyldigheten av dokumenter og underlagsmateriale utstedt i en annen stat
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+\(1\) Dokumenter utstedt av en stats institusjon og som i forbindelse med anvendelsen av denne konvensjonen og dette vedlegget viser en persons stilling, og underlagsmateriale som ligger til grunn for utstedelsen av dokumentene, skal godtas av de andre statenes institusjoner så lenge de ikke er trukket tilbake eller erklært ugyldige av staten der de ble utstedt.
 
-(3) Where appropriate, the institutions shall
-reiterate the procedure set out in paragraph
-(2) going back as far as the equivalent institution in the State under whose legislation the
-person concerned first pursued an activity
-likely to cause the occupational disease in
-question.
+\(2\) Ved tvil om et dokuments gyldighet eller om riktigheten av de faktiske forholdene som opplysningene i dokumentet bygger på, skal institusjonen i mottakerstaten be om nødvendig avklaring fra institusjonen som har utstedt dokumentet, og, dersom det er relevant, om at dokumentet trekkes tilbake. Institusjonen som har utstedt dokumentet, skal foreta en ny vurdering av begrunnelsen for å utstede dokumentet, og om nødvendig trekke det tilbake.
 
-(3) Om nødvendig skal institusjonene gjenta framgangsmåten angitt i nr. 2 ved å gå så langt tilbake som til den tilsvarende institusjonen i
-den staten etter hvis lovgivning den berørte
-personen først har utført arbeid som må antas
-å kunne forårsake sykdommen.
+\(3\) I samsvar med nr. 2 skal institusjonen på oppholds- eller bostedet ved tvil om opplysningene som den berørte personen har framlagt, dokumentets eller underlagsmaterialets gyldighet eller riktigheten av de faktiske forholdene som opplysningene i dokumentet bygger på, på anmodning fra den kompetente institusjonen og så langt det er mulig, foreta den nødvendige verifiseringen av opplysningene eller dokumentet.
 
-Article 30
+\(4\) Dersom det ikke oppnås enighet mellom de berørte institusjonene, kan de kompetente myndighetene henvise saken til den blandede administrative komiteen.
 
-Artikkel 30
+Artikkel 6
 
-Exchange of information between institutions
-and advance payments in the event of an appeal
-against rejection
+Midlertidig anvendelse av lovgivning og midlertidig tilståelse av ytelser
 
-Utveksling av opplysninger mellom institusjoner
-og forskudd ved klage på avslag
+\(1\) Dersom institusjoner eller myndigheter i to eller flere stater er uenige om hvilken lovgivning som får anvendelse, skal den berørte personen, med mindre noe annet er fastsatt i dette vedlegget, være midlertidig undergitt lovgivningen i en av disse statene etter følgende prioritering:
 
-(1) In the event of an appeal against a decision to
-refuse benefits taken by the institution of a
-State under the legislation of which the person
-concerned pursued an activity likely to cause
-the occupational disease in question, that institution shall inform the institution to which the
-declaration or notification was sent, in accordance with the procedure provided for in Article 29(2) of this Annex, and shall subsequently
-inform it when a final decision is reached.
-(2) Where a person is entitled to benefits under
-the legislation applied by the institution to
-which the declaration or notification was sent,
-that institution shall make the advance payments, the amount of which shall be determined, where appropriate, after consulting the
-institution which made the decision against
-which the appeal was lodged, and in such a
-way that overpayments are avoided. The latter
-institution shall reimburse the advance payments made if, as a result of the appeal, it is
-obliged to provide those benefits. That amount
-will then be deducted from the benefits due to
-the person concerned, in accordance with the
-procedure provided for in Articles 55 and 56 of
-this Annex.
-(3) Article 6(6) of this Annex applies mutatis
-mutandis.
+\(a\) Lovgivningen i staten der vedkommende faktisk utfører lønnet arbeid eller driver selvstendig virksomhet, dersom vedkommende utfører lønnet arbeid eller driver selvstendig virksomhet i bare én stat.
 
-(1) Ved klage på et vedtak om avslag gjort av institusjonen i en stat etter hvis lovgivning den
-berørte personen har utført arbeid som må
-antas å kunne forårsake yrkessykdommen,
-skal den institusjonen underrette institusjonen
-som mottok erklæringen eller meldingen, i
-samsvar med framgangsmåten i artikkel 29
-nr. 2 i dette vedlegget, og deretter underrette
-den når det foreligger et endelig vedtak.
+\(b\) Bostedsstatens lovgivning, dersom vedkommende utfører lønnet arbeid eller driver selvstendig virksomhet i to eller flere stater og utfører en del av sin aktivitet eller sine aktiviteter i bostedsstaten, eller dersom vedkommende verken utfører lønnet arbeid eller driver selvstendig virksomhet.
 
-Article 31
+\(c\) I alle andre tilfeller den statens lovgivning hvis anvendelse det først ble anmodet om, dersom vedkommende utøver en eller flere aktiviteter i to eller flere stater.
 
-Artikkel 31
+\(2\) Dersom institusjoner eller myndigheter i to eller flere stater er uenige om hvilken institusjon som skal gi kontant- eller naturalytelser, skal berørte personer som kunne krevd ytelser dersom det ikke forelå uenighet, ha rett til midlertidige ytelser etter lovgivningen som anvendes av institusjonen på personens bosted, eller, dersom vedkommende ikke er bosatt på en av de berørte statenes territorium, ha rett til ytelser etter lovgivningen som anvendes av institusjonen der anmodningen først ble inngitt.
 
-Aggravation of an occupational disease
+\(3\) Dersom det ikke oppnås enighet mellom de berørte institusjonene og myndighetene, kan de kompetente myndighetene henvise saken til den blandede administrative komiteen.
 
-Forverring av en yrkessykdom
+\(4\) Dersom det fastslås enten at gjeldende lovgivning ikke er lovgivningen i staten som har gitt midlertidig medlemskap, eller at institusjonen som har tilstått ytelsene midlertidig, ikke var den kompetente institusjonen, skal institusjonen som fastslås å være kompetent, anses å ha vært dette med tilbakevirkende kraft, som om uenigheten ikke hadde forekommet, senest enten fra datoen for det midlertidige medlemskapet, eller fra den første midlertidige tilståelsen av de aktuelle ytelsene.
 
-In the cases covered by Article 40 of this Convention, the claimant must provide the institution in
-the State from which they are claiming entitlement to benefits with details concerning benefits
-previously granted for the occupational disease in
-question. That institution may contact any other
-previously competent institution in order to obtain
-the information it considers necessary.
+\(5\) Om nødvendig skal institusjonen som er fastslått å være den kompetente institusjonen, og institusjonen som har utbetalt kontantytelser midlertidig eller har mottatt avgifter midlertidig, regulere den berørte personens økonomiske situasjon med hensyn til avgifter og kontantytelser betalt på midlertidig basis, dersom det er relevant, i samsvar med bestemmelsene avdeling IV kapittel 2 i dette vedlegget.
 
-I tilfellene som omfattes av artikkel 40 i denne
-konvensjonen, skal søkeren gi institusjonen i staten der vedkommende gjør krav på rett til ytelser,
-nærmere opplysninger om hvilke ytelser som tidligere er tilstått for den aktuelle yrkessykdommen. Denne institusjonen kan kontakte enhver
-annen tidligere kompetent institusjon for å få de
-opplysningene den anser som nødvendig.
+\(6\) Naturalytelser tilstått midlertidig av en institusjon i samsvar med nr. 2 skal refunderes av den kompetente institusjonen i samsvar med avdeling IV i dette vedlegget.
 
-(2) Dersom en person har rett til ytelser etter lovgivningen som anvendes av institusjonen som
-mottok erklæringen eller meldingen, skal
-denne institusjonen utbetale forskudd med et
-beløp som, dersom det er relevant, skal fastsettes etter samråd med institusjonen hvis vedtak er påklaget, og på en slik måte at det ikke
-utbetales for mye. Sistnevnte institusjon skal
-refundere forskuddet dersom den som følge
-av klagen plikter å gi de aktuelle ytelsene.
-Beløpet skal deretter gå til fradrag i de
-ytelsene som den berørte personen har rett til,
-i samsvar med artikkel 55 og 56 i dette vedlegget.
-(3) Artikkel 6 nr. 6 i dette vedlegget gjelder tilsvarende med nødvendige endringer.
+Artikkel 7
 
-[Side 132]
+Midlertidig beregning av ytelser og avgifter
 
-130
+\(1\) Dersom en person har rett til en ytelse eller skal betale avgift etter denne konvensjonen, og den kompetente institusjonen ikke har alle opplysningene om situasjonen i en annen stat som er nødvendige for å kunne foreta en endelig beregning av ytelsens eller avgiftens størrelse, skal denne institusjonen, med mindre noe annet er fastsatt i dette vedlegget, på anmodning fra den berørte personen tilstå ytelsen eller beregne avgiften på midlertidig basis dersom en slik beregning er mulig ut fra opplysningene institusjonen har.
 
-Prop. 5 LS
-
-2023–2024
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-Article 32
-
-Artikkel 32
-
-Assessment of the degree of incapacity in the
-event of occupational accidents or diseases
-which occurred previously or subsequently
-
-Vurdering av uførhetsgrad ved yrkesskade eller
-yrkessykdom som har inntruffet tidligere, eller
-som inntreffer på et senere tidspunkt
-
-Where a previous or subsequent incapacity for
-work was caused by an accident which occurred
-when the person concerned was subject to the
-legislation of a State which makes no distinction
-according to the origin of the incapacity to work,
-the competent institution or the body designated
-by the competent authority of the State in question shall:
-(a) upon request by the competent institution of
-another State, provide information concerning
-the degree of the previous or subsequent incapacity for work, and where possible, information making it possible to determine whether
-the incapacity is the result of an accident at
-work within the meaning of the legislation
-applied by the institution in another State;
-(b) take into account the degree of incapacity
-caused by these previous or subsequent cases
-when determining the right to benefits and the
-amount, in accordance with the applicable
-legislation.
-
-Dersom en tidligere eller senere arbeidsudyktighet er forårsaket av en skade inntruffet mens den
-berørte personen var undergitt lovgivningen i en
-stat der årsaken til arbeidsudyktigheten er uten
-betydning, skal den kompetente institusjonen
-eller organet utpekt av den kompetente myndigheten i den aktuelle staten
-
-Article 33
-
-Artikkel 33
-
-Submission and investigation of claims for
-pensions or supplementary allowances
-
-Innsending og behandling av krav om pensjon
-eller tilleggsytelser
-
-In order to receive a pension or supplementary
-allowance under the legislation of a State, the person concerned or their survivors residing in the
-territory of another State shall submit, where
-appropriate, a claim either to the competent institution or to the institution of the place of residence, which shall send it to the competent institution.
-The claim shall contain the information
-required under the legislation applied by the competent institution.
-
-For å kunne motta pensjon eller tilleggsytelser
-etter en stats lovgivning skal den berørte personen eller vedkommendes etterlatte som er bosatt
-på en annen stats territorium, framsette et krav til
-den kompetente institusjonen, eller til institusjonen på bostedet, som skal videresende det til
-den kompetente institusjonen.
-Kravet skal inneholde alle opplysninger som
-kreves etter den kompetente institusjonens lovgivning.
-
-CHAPTER 3
+\(2\) Ytelsen eller avgiften skal beregnes på nytt så snart institusjonen har fått alt nødvendig underlagsmateriale eller alle nødvendige dokumenter.
 
 KAPITTEL 3
 
-DEATH GRANTS
-
-GRAVFERDSHJELP
-
-Article 34
-
-Artikkel 34
-
-Claim for death grants
-
-Søknad om gravferdshjelp
-
-For the purposes of Articles 43 and 44 of this Convention, the claim for death grants shall be sent
-either to the competent institution or to the institution of the claimant’s place of residence, which
-shall send it to the competent institution.
-
-Ved anvendelse av henblikk på artikkel 43 og 44 i
-denne konvensjonen skal en søknad om gravferdshjelp sendes enten til den kompetente institusjonen eller til institusjonen på søkerens bosted,
-som skal videresende den til den kompetente
-institusjonen.
-
-(a) på anmodning fra den kompetente institusjonen i en annen stat gi opplysninger om graden
-av den tidligere eller senere arbeidsudyktigheten og, dersom det er mulig, opplysninger
-som gjør det mulig å fastslå om arbeidsudyktigheten er en følge av en yrkesskade slik
-dette er definert i lovgivningen som gjelder for
-institusjonen i den andre staten,
-(b) når retten til ytelser og størrelsen på dem skal
-fastsettes i samsvar med gjeldende lovgivning,
-ta hensyn til uførhetsgraden som er en følge
-av disse tidligere eller senere tilfellene.
-
-[Side 133]
-
-2023–2024
-
-Prop. 5 LS
-
-131
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-The claim shall contain the information
-required under the legislation applied by the competent institution.
-
-Søknaden skal inneholde alle opplysninger
-som kreves etter den kompetente institusjonens
-lovgivning.
+ANDRE GENERELLE BESTEMMELSER OM ANVENDELSEN AV DENNE KONVENSJONEN
 
-CHAPTER 4
+Artikkel 8
 
-KAPITTEL 4
+Andre framgangsmåter mellom myndigheter og institusjoner
 
-INVALIDITY BENEFITS AND OLD-AGE
-AND SURVIVORS’ PENSIONS
+\(1\) Det forente kongerike og en eller flere av EØS/EFTA-statene, eller deres kompetente myndigheter, kan avtale andre framgangsmåter enn de som er fastsatt i dette vedlegget, forutsatt at disse framgangsmåtene ikke har negativ innvirkning på berørte personers rettigheter eller plikter.
 
-YTELSER VED UFØRHET OG ALDERSOG ETTERLATTEPENSJON
-
-Article 35
-
-Artikkel 35
-
-Additional provisions for the calculation
-of the benefit
-
-Tilleggsbestemmelser for beregning av ytelser
-
-(1) For the purposes of calculating the theoretical
-amount and the actual amount of the benefit in
-accordance with Article 51(1)(b) of this Convention, the rules provided for in Article 11(3)
-to (6) of this Annex apply.
-(2) Where periods of voluntary or optional continued insurance have not been taken into
-account under Article 11(3) of this Annex, the
-institution of the State under whose legislation
-those periods were completed shall calculate
-the amount corresponding to those periods
-under the legislation it applies. The actual
-amount of the benefit, calculated in accordance with Article 51(1)(b) of this Convention,
-shall be increased by the amount corresponding to periods of voluntary or optional continued insurance.
-(3) The institution of each State shall calculate,
-under the legislation it applies, the amount due
-corresponding to periods of voluntary or
-optional continued insurance which, under
-Article 52(3)(c) of this Convention, shall not
-be subject to another State’s rules relating to
-withdrawal, reduction or suspension.
-Where the legislation applied by the competent institution does not allow it to determine
-this amount directly, on the grounds that that
-legislation allocates different values to insurance periods, a notional amount may be established. The Joint Administrative Committee
-shall lay down the detailed arrangements for
-the determination of that notional amount.
-
-(1) Ved beregning av det teoretiske og det faktiske ytelsesbeløpet i samsvar med artikkel 51
-nr. 1 bokstav b) i denne konvensjonen får
-reglene i artikkel 11 nr. 3–6 i dette vedlegget
-anvendelse.
-(2) Dersom tid med frivillig trygd eller frivillig
-fortsatt trygd ikke er medregnet i henhold til
-artikkel 11 nr. 3 i dette vedlegget, skal institusjonen i den staten etter hvis lovgivning slik tid
-er tilbakelagt beregne beløpet som svarer til
-disse tidsrommene etter dens lovgivning. Det
-faktiske ytelsesbeløpet, beregnet i samsvar
-med artikkel 51 nr. 1 bokstav b) i denne konvensjonen, skal økes med beløpet som svarer
-til tid med frivillig trygd eller frivillig fortsatt
-trygd.
-(3) Institusjonen i hver stat skal, i henhold til egen
-lovgivning, beregne beløpet som svarer til tid
-med frivillig trygd eller frivillig fortsatt trygd
-som i henhold til artikkel 52 nr. 3 bokstav c) i
-denne konvensjonen ikke skal være undergitt
-en annen stats regler om reduksjon, suspensjon eller bortfall.
-Dersom det etter den kompetente institusjonens lovgivning ikke er mulig å foreta en
-direkte beregning av dette beløpet fordi det i
-den lovgivningen tildeles forskjellige verdier
-for trygdetid, kan det fastsettes et teoretisk
-beløp. Den blandede administrative komiteen
-skal fastsette nærmere regler for fastsettelse av
-det teoretiske beløpet.
-
-Article 36
-
-Artikkel 36
-
-Claims for benefits
-
-Krav om ytelser
-
-Submission of claims for old-age and survivors’
-pensions
-
-Framsettelse av krav om alders- og etterlattepensjon
-
-(1) The claimant shall submit a claim to the institution of their place of residence or to the institution of the last State whose legislation was
-applicable. If the person concerned was not, at
-
-(1) Søkeren skal inngi søknad til institusjonen på
-bostedet eller til institusjonen i den staten hvis
-lovgivning vedkommende sist var undergitt.
-Dersom den berørte personen ikke på noe
-
-[Side 134]
-
-132
-
-Prop. 5 LS
-
-2023–2024
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-any time, subject to the legislation applied by
-the institution of the place of residence, that
-institution shall forward the claim to the institution of the last State whose legislation was
-applicable.
-(2) The date of submission of the claim shall apply
-in all the institutions concerned.
-(3) By way of derogation from paragraph (2), if
-the claimant does not, despite having been
-asked to do so, notify the fact that they have
-been employed or has resided in other States,
-the date on which the claimant completes their
-initial claim or submits a new claim for their
-missing periods of employment or/and residence in a State shall be considered as the
-date of submission of the claim to the institution applying the legislation in question, subject to more favourable provisions of that legislation.
-
-tidspunkt har vært undergitt institusjonen på
-bostedets lovgivning, skal denne institusjonen
-videresende søknaden til institusjonen i den
-staten hvis lovgivning vedkommende sist var
-undergitt.
-(2) Søknadsdatoen skal gjelde for alle berørte
-institusjoner.
-(3) Dersom søkeren, selv om vedkommende er
-blitt bedt om å gjøre det, ikke har meldt fra om
-at vedkommende har utført lønnet arbeid eller
-vært bosatt i andre stater, skal, som unntak fra
-nr. 2, den dagen søkeren inngir sin første søknad eller en ny søknad for de manglende tidsrommene med lønnet arbeid og/eller bosted i
-en stat, anses som den dagen søknaden ble
-inngitt til institusjonen som anvender den
-aktuelle lovgivningen, med mindre denne lovgivningen har gunstigere bestemmelser.
-
-Article 37
-
-Artikkel 37
-
-Certificates and information to be submitted
-with the claim by the claimant
-
-Bekreftelser og opplysninger som søkeren skal
-legge ved søknaden
-
-(1) The claim shall be submitted by the claimant
-in accordance with the provisions of the legislation applied by the institution referred to in
-Article 36(1) of this Annex and be accompanied by the supporting documents required by
-that legislation. In particular, the claimant
-shall supply all available relevant information
-and supporting documents relating to periods
-of insurance (institutions, identification numbers), employment (employers) or selfemployment (nature and place of activity) and
-residence (addresses) which may have been
-completed under other legislation, as well as
-the length of those periods.
-(2) Where, in accordance with Article 49(1) of this
-Convention, the claimant requests deferment
-of the award of old-age benefits under the legislation of one or more States, the claimant
-shall state that in their claim and specify under
-which legislation the deferment is requested.
-In order to enable the claimant to exercise that
-right, the institutions concerned shall, upon
-the request of the claimant, notify the claimant
-of all the information available to the institutions so that the claimant can assess the consequences of concurrent or successive awards of
-benefits which they might claim.
-(3) Should the claimant withdraw a claim for benefits provided for under the legislation of a particular State, that withdrawal shall not be considered as a concurrent withdrawal of claims
-
-(1) Søkeren skal inngi søknaden i samsvar med
-bestemmelsene i lovgivningen som anvendes
-av institusjonen nevnt i artikkel 36 nr. 1 i dette
-vedlegget, vedlagt underlagsdokumentene
-som kreves i den lovgivningen. Søkeren skal
-særlig framlegge alle tilgjengelige og relevante opplysninger og underlagsdokumenter
-om trygdetid (institusjoner, identifikasjonsnummer), tid med lønnet arbeid (arbeidsgivere) eller med selvstendig virksomhet
-(virksomhetens art og sted) samt botid (adresser) som er tilbakelagt etter annen lovgivning,
-samt disse tidsrommenes varighet.
-(2) Dersom søkeren i samsvar med artikkel 49 nr.
-1 i denne konvensjonen ber om at tilståelse av
-ytelser ved alder etter en eller flere staters lovgivning utsettes, skal vedkommende oppgi
-dette i søknaden og angi etter hvilken lovgivning det bes om utsettelse. For at søkeren skal
-kunne utøve denne rettigheten, skal de
-berørte institusjonene på anmodning fra søkeren gi vedkommende alle opplysninger som de
-har tilgang til, slik at vedkommende kan vurdere konsekvensene av samtidige eller senere
-ytelser som vedkommende kan søke om.
-(3) Dersom en søker trekker tilbake en søknad
-om ytelser etter en bestemt stats lovgivning,
-skal dette ikke anses som en samtidig tilbake-
-
-[Side 135]
-
-2023–2024
-
-133
-
-Prop. 5 LS
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-for benefits under the legislation of another
-State.
-
-trekning av en søknad om ytelser etter andre
-staters lovgivning.
-
-Article 38
-
-Artikkel 38
-
-Investigation of claims by the institutions
-concerned
-
-De berørte institusjonenes behandling
-av søknader
-
-Contact institution
-
-Kontaktinstitusjon
-
-(1) The institution to which the claim for benefits
-is submitted or forwarded in accordance with
-Article 36(1) of this Annex shall be referred to
-hereinafter as the “contact institution”. The
-institution of the place of residence shall not
-be referred to as the contact institution if the
-person concerned has not, at any time, been
-subject to the legislation which that institution
-applies.
-(2) In addition to investigating the claim for benefits under the legislation which it applies, that
-institution shall, in its capacity as contact institution, promote the exchange of data, the communication of decisions and the operations
-necessary for the investigation of the claim by
-the institutions concerned, and supply the
-claimant, upon request, with any information
-relevant to the aspects of the investigation
-which arise under this Convention, and keep
-the claimant informed of its progress.
-
-(1) Institusjonen som forelegges eller oversendes
-søknaden i samsvar med artikkel 36 nr. 1 i
-dette vedlegget, kalles heretter «kontaktinstitusjonen». Institusjonen på bostedet skal ikke
-kalles kontaktinstitusjon dersom den berørte
-personen ikke på noe tidspunkt har vært
-undergitt denne institusjonens lovgivning.
-
-Investigation of claims for old-age and survivors’
-pensions
-
-Behandling av søknader om alders- og etterlattepensjon
-
-(3) The contact institution shall, without delay,
-send claims for benefits and all the documents
-which it has available and, where appropriate,
-the relevant documents supplied by the claimant to all the institutions in question so that
-they can all start the investigation of the claim
-concurrently. The contact institution shall
-notify the other institutions of periods of insurance or residence subject to its legislation. It
-shall also indicate which documents shall be
-submitted at a later date and supplement the
-claim as soon as possible.
-(4) Each of the institutions in question shall notify
-the contact institution and the other institutions in question, as soon as possible, of the
-periods of insurance or residence subject to
-their legislation.
-(5) Each of the institutions in question shall calculate the amount of benefits in accordance with
-Article 51 of this Convention and shall notify
-the contact institution and the other institutions concerned of its decision, of the amount
-
-(3) Kontaktinstitusjonen skal uten opphold sende
-søknader om ytelser og alle dokumenter som
-den har tilgang til, og, dersom det er relevant,
-relevante dokumenter fra søkeren til alle aktuelle institusjoner, slik at de kan starte behandlingen av søknaden samtidig. Kontaktinstitusjonen skal underrette de andre institusjonene
-om trygdetid eller botid etter dens lovgivning.
-Den skal også oppgi hvilke dokumenter som
-skal framlegges på et senere tidspunkt, og supplere søknaden så raskt som mulig.
-
-(2) I tillegg til å behandle søknaden om ytelser
-etter egen lovgivning, skal institusjonen i
-egenskap av å være kontaktinstitusjon fremme
-utvekslingen av opplysninger, oversendelsen
-av vedtak og tiltak som er nødvendig for at de
-berørte institusjonene skal kunne behandle
-søknaden, samt på anmodning gi søkeren alle
-opplysninger som er relevante for de sidene
-ved søknadsbehandlingen som følger av
-denne konvensjonen, og holde vedkommende
-informert om den videre saksgangen.
-
-(4) Hver av de aktuelle institusjonene skal så
-snart som mulig underrette kontaktinstitusjonen og de andre aktuelle institusjonene om
-trygdetid eller botid etter den aktuelle institusjonens lovgivning.
-(5) Hver av de aktuelle institusjonene skal
-beregne ytelsenes størrelse i samsvar med
-artikkel 51 i denne konvensjonen og underrette kontaktinstitusjonen og de andre berørte
-institusjonene om sitt vedtak, om størrelsen på
-
-[Side 136]
-
-134
-
-Prop. 5 LS
-
-2023–2024
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-of benefits due and of any information
-required for the purposes of Articles 52 to 54
-of this Convention.
-(6) Should an institution establish, on the basis of
-the information referred to in paragraphs (2)
-and (3) of this Article, that Article 56(2) or (3)
-of this Convention is applicable, it shall inform
-the contact institution and the other institutions concerned.
-
-ytelsene som kommer til utbetaling, og om
-eventuelle opplysninger som er nødvendige
-med henblikk på artikkel 52–54 i denne konvensjonen.
-(6) Dersom en institusjon på grunnlag av opplysningene nevnt i nr. 2 og 3 i denne artikkelen
-fastslår at artikkel 56 nr. 2 eller 3 i denne konvensjonen skal få anvendelse, skal den underrette kontaktinstitusjonen og de andre berørte
-institusjonene.
-
-Article 39
-
-Artikkel 39
-
-Notification of decisions to the claimant
-
-Melding om vedtak til søkeren
-
-Each institution shall notify the claimant of the
-decision it has taken in accordance with the applicable legislation. Each decision shall specify the
-remedies and periods allowed for appeals.
-
-Hver institusjon skal informere søkeren om vedtaket den har gjort i samsvar med gjeldende lovgivning. I vedtaket skal det opplyses om klageadgang og frister.
-
-Article 40
-
-Artikkel 40
-
-Determination of the degree of invalidity
-
-Fastsettelse av uførhetsgrad
-
-Each institution shall, in accordance with its legislation, have the possibility of having the claimant
-examined by a medical doctor or other expert of
-its choice to determine the degree of invalidity.
-However, the institution of a State shall take into
-consideration documents, medical reports and
-administrative information collected by the institution of any other State as if they had been drawn
-up in its own territory.
-
-Hver institusjon skal i samsvar med egen lovgivning ha mulighet til å få søkeren undersøkt av
-lege eller annen sakkyndig etter dens eget valg for
-å kunne fastsette uførhetsgraden. En stats institusjon skal imidlertid ta hensyn til dokumenter,
-legeerklæringer og administrative opplysninger
-som er innhentet av institusjoner i andre stater,
-som om de var utferdiget i dens egen stat.
-
-Article 41
-
-Artikkel 41
-
-Provisional instalments and advance payment
-of a benefit
-
-Midlertidig utbetaling og forskuddsbetaling
-av ytelser
-
-(1) Notwithstanding Article 7 of this Annex, any
-institution which establishes, while investigating a claim for benefits, that the claimant is
-entitled to an independent benefit under the
-applicable legislation, in accordance with Article 51(1)(a) of this Convention, shall pay that
-benefit without delay. That payment shall be
-considered provisional if the amount might be
-affected by the result of the claim investigation
-procedure.
-(2) Whenever it is evident from the information
-available that the claimant is entitled to a payment from an institution under Article
-51(1)(b) of this Convention, that institution
-shall make an advance payment, the amount of
-which shall be as close as possible to the
-amount which will probably be paid under
-Article 51(1)(b) of this Convention.
-
-(1) Uten hensyn til artikkel 7 i dette vedlegget
-skal enhver institusjon som når den behandler
-en søknad om ytelser, fastslår at søkeren har
-rett til en selvstendig ytelse etter gjeldende
-lovgivning i samsvar med artikkel 51 nr. 1 bokstav a) i denne konvensjonen, uten opphold
-utbetale denne ytelsen. Utbetalingen anses
-som midlertidig dersom utfallet av søknadsbehandlingen vil kunne påvirke beløpet.
-(2) Dersom det ut fra tilgjengelige opplysninger er
-innlysende at søkeren har rett til en utbetaling
-fra en institusjon i henhold til artikkel 51 nr. 1
-bokstav b) i denne konvensjonen, skal den
-institusjon utbetale et forskudd, og beløpet
-skal ligge så nært som mulig opp til beløpet
-som det er sannsynlig vil bli utbetalt i henhold
-til artikkel 51 nr. 1 bokstav b) i denne konvensjonen.
-
-[Side 137]
-
-2023–2024
-
-Prop. 5 LS
-
-135
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-(3) Each institution which is obliged to pay the
-provisional benefits or advance payment under
-paragraph (1) or (2) shall inform the claimant
-without delay, specifically drawing the claimant’s attention to the provisional nature of the
-measure and any rights of appeal in accordance with its legislation.
-
-(3) Hver institusjon som plikter å utbetale midlertidige ytelser eller forskudd i henhold til nr. 1
-eller 2, skal uten opphold underrette søkeren
-og særlig gjøre vedkommende oppmerksom
-på at tiltaket er midlertidig, og om retten til å
-klage i samsvar med dens lovgivning.
-
-Article 42
-
-Artikkel 42
-
-New calculation of benefits
-
-Ny beregning av ytelser
-
-(1) Where there is a new calculation of benefits in
-accordance with Article 49(4) and Article
-57(1) of this Convention, Article 41 of this
-Annex shall apply mutatis mutandis.
-
-(1) Dersom ytelser beregnes på nytt i samsvar
-med artikkel 49 nr. 4 og artikkel 57 nr. 1 i
-denne konvensjonen, gjelder artikkel 41 i
-dette vedlegget tilsvarende med nødvendige
-endringer.
-(2) Dersom en ytelse beregnes på nytt, bortfaller
-eller stanses midlertidig, skal institusjonen
-som har vedtatt dette, uten opphold underrette
-den berørte personen og alle institusjoner der
-vedkommende har en rettighet.
-
-(2) Where there is a new calculation, withdrawal
-or suspension of the benefit, the institution
-which took the decision shall inform the person concerned without delay and shall inform
-each of the institutions in respect of which the
-person concerned has an entitlement.
-Article 43
-
-Artikkel 43
-
-Measures intended to accelerate the pension
-calculation process
-
-Tiltak med sikte på fortgang i pensjonsberegningen
-
-(1) In order to facilitate and accelerate the investigation of claims and the payment of benefits,
-the institutions to whose legislation a person
-has been subject shall:
-(a) exchange with or make available to institutions of other States the elements for identifying persons who change from one applicable national legislation to another, and
-together ensure that those identification
-elements are retained and correspond, or,
-failing that, provide those persons with the
-means to access their identification elements directly;
-
-(1) For å lette og få fortgang i behandlingen av
-søknader og utbetalingen av ytelser skal institusjonene hvis lovgivning en person har vært
-undergitt,
-(a) utveksle opplysninger med institusjoner i
-andre stater om personer som går over fra
-én gjeldende nasjonal lovgivning til en
-annen, eller gjøre slike opplysninger tilgjengelige for disse institusjonene, og sammen
-sørge for at identifikasjonsopplysningene
-bevares og stemmer overens, eller dersom
-det ikke er mulig, gi disse personene mulighet til direkte tilgang til egne identifikasjonsopplysninger,
-(b) i tilstrekkelig tid før minstealderen for pensjonsrettigheter inntrer, eller før en alder
-som fastsettes i nasjonal lovgivning,
-utveksle opplysninger (tilbakelagt tid eller
-andre viktige forhold) med den berørte personen og institusjoner i andre stater, om
-pensjonsrettigheter for personer som har
-gått over fra én gjeldende lovgivning til en
-annen, eller gjøre disse opplysningene tilgjengelige for dem, eller dersom det ikke er
-mulig, underrette disse personene om,
-eller gi dem mulighet til å gjøre seg kjent
-med, deres fremtidige rett til ytelser.
-
-(b) sufficiently in advance of the minimum age
-for commencing pension rights or before
-an age to be determined by national legislation, exchange with or make available to the
-person concerned and to institutions of
-other States information (periods completed or other important elements) on the
-pension entitlements of persons who have
-changed from one applicable legislation to
-another or, failing that, inform those persons of, or provide them with, the means of
-familiarising themselves with their prospective benefit entitlement.
-
-[Side 138]
-
-136
-
-Prop. 5 LS
-
-2023–2024
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-(2) For the purposes of paragraph (1), the Joint
-Administrative Committee shall agree the elements of information to be exchanged or made
-available and shall establish the appropriate
-procedures and mechanisms, taking account
-of the characteristics, administrative and technical organisation, and the technological
-means at the disposal of national pension
-schemes. The Joint Administrative Committee
-shall ensure the implementation of those pension schemes by organising a follow-up to the
-measures taken and their application.
-(3) For the purposes of paragraph (1), the institution in the first State where a person is allocated a Personal Identification Number (PIN)
-for the purposes of social security administration should be provided with the information
-referred to in this Article.
-
-(2) Ved anvendelse av nr. 1 skal den blandede
-administrative komiteen bestemme hvilke opplysninger som skal utveksles eller gjøres tilgjengelige, samt fastsette hensiktsmessige
-framgangsmåter og mekanismer, idet det tas
-hensyn til de nasjonale trygdeordningenes
-særtrekk, den administrative og faglige organisering og hvilke teknologiske hjelpemidler
-som er tilgjengelige i de nasjonale pensjonsordningene. Den blandede administrative
-komiteen skal sørge for at disse pensjonsordningene gjennomføres, ved å organisere en
-oppfølging av tiltakene som er truffet, og
-anvendelsen av dem.
-(3) Ved anvendelse av nr. 1 skal institusjonen i
-staten der en person først tildeles et personlig
-identifikasjonsnummer (PIN) i trygdeforvaltningen, gis opplysningene nevnt i denne artikkelen.
-
-Article 44
-
-Artikkel 44
-
-Coordination measures in the States
-
-Koordineringstiltak i statene
-
-Without prejudice to Article 50 of this Convention,
-where national legislation includes rules for determining the institution responsible or the scheme
-applicable or for designating periods of insurance
-to a specific scheme, those rules shall be applied,
-taking into account only periods of insurance completed under the legislation of the State concerned.
-
-Dersom nasjonal lovgivning har regler om fastsettelse av hvilken institusjon som er ansvarlig eller
-hvilken ordning som skal gjelde, eller om at
-trygdetid skal legges til en bestemt ordning, skal
-disse reglene gjelde, uten at det berører artikkel
-50 i denne konvensjonen, og det skal da bare tas
-hensyn til trygdetid tilbakelagt etter den berørte
-statens lovgivning.
-
-CHAPTER 5
-
-KAPITTEL 5
-
-UNEMPLOYMENT BENEFITS
-
-YTELSER VED ARBEIDSLØSHET
-
-Article 45
-
-Artikkel 45
-
-Aggregation of periods and calculation
-of benefits
-
-Sammenlegging av tid og beregning
-av ytelser
-
-(1) Article 11(1) of this Annex applies mutatis
-mutandis to Article 58 of this Convention.
-Without prejudice to the underlying obligations of the institutions involved, the person
-concerned may submit to the competent institution a document issued by the institution of
-the State to whose legislation they were subject in respect of that person’s last activity as
-an employed or self-employed person specifying the periods completed under that legislation.
-
-(1) Artikkel 11 nr. 1 i dette vedlegget gjelder tilsvarende med nødvendige endringer for artikkel 58 i denne konvensjonen. Uten at det berører de berørte institusjonenes grunnleggende
-plikter, kan berørte personer for den kompetente institusjonen framlegge et dokument
-utstedt av institusjonen i den staten hvis lovgivning vedkommende var undergitt da vedkommende sist utførte lønnet arbeid eller drev
-selvstendig virksomhet, med angivelse av tidsrommene som er tilbakelagt etter den lovgivningen.
-(2) Ved anvendelse av artikkel 59 i denne konvensjonen skal den kompetente institusjonen i en
-stat i hvis lovgivning det er fastsatt at bereg-
-
-(2) For the purpose of applying Article 59 of this
-Convention, the competent institution of a
-State whose legislation provides that the calcu-
-
-[Side 139]
-
-2023–2024
-
-137
-
-Prop. 5 LS
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-lation of benefits varies with the number of
-members of the family shall also take into
-account the members of the family of the person concerned residing in another State as if
-they resided in the competent State. This provision shall not apply where, in the State of
-residence of members of the family, another
-person is entitled to unemployment benefits
-calculated on the basis of the number of
-members of the family.
-
-ningen av ytelser varierer med antall familiemedlemmer, også ta hensyn til vedkommendes familiemedlemmer som er bosatt i en
-annen stat, som om de var bosatt i den kompetente staten. Denne bestemmelsen får ikke
-anvendelse dersom en annen person i familiemedlemmenes bostedsstat har rett til ytelser
-ved arbeidsløshet som beregnes på grunnlag
-av antall familiemedlemmer.
-
-TITLE IV: FINANCIAL PROVISIONS
-
-AVDELING IV: FINANSIELLE BESTEMMELSER
-
-CHAPTER 1
+\(2\) Eventuelle avtaler som inngås for dette formålet, krever enighet mellom de aktuelle statene gjennom den blandede administrative komiteen.
+
+Artikkel 9
+
+Hindring av sammenfall av ytelser
+
+Dersom ytelser som kan kreves utbetalt etter to eller flere staters lovgivning, på gjensidig grunnlag reduseres, suspenderes eller bortfaller, skal alle beløp som ikke ville ha blitt utbetalt ved en streng anvendelse av reglene for reduksjon, suspensjon eller bortfall i de berørte statenes lovgivning, deles på antall ytelser som skal reduseres, suspenderes eller bortfalle, uten hensyn til andre bestemmelser i denne konvensjonen.
+
+Artikkel 10
+
+Kriterier for fastsettelse av bosted
+
+\(1\) Dersom to eller flere staters institusjoner er uenige om fastsettelsen av bosted for en person som denne konvensjonen får anvendelse på, skal disse institusjonene i fellesskap oppnå enighet om hvor sentrum for den berørte personens livsinteresser er, ut fra en samlet vurdering av alle tilgjengelige opplysninger om relevante fakta som, alt etter hva som er relevant, blant annet kan omfatte
+
+\(a\) varighet av oppholdet på den berørte statens territorium og oppholdets kontinuitet,
+
+\(b\) personens situasjon, herunder
+
+\(i\) virksomhetens art og særtrekk, særlig stedet der virksomheten utøves til vanlig, i hvilken grad det er en permanent virksomhet, og hvor lenge en eventuell arbeidsavtale varer,
+
+\(ii\) personens familiesituasjon og familiebånd,
+
+\(iii\) eventuell ulønnet virksomhet,
+
+\(iv\) for studenters vedkommende, deres inntektskilde,
+
+\(v\) personens boligsituasjon, særlig hvor permanent den er,
+
+\(vi\) i hvilken stat personen anses å være bosatt for skattemessige formål.
+
+\(2\) Dersom vurderingen av de ulike kriteriene basert på relevante fakta som angitt i nr. 1 ikke fører til at de berørte institusjonene blir enige, skal personens hensikt, slik dette framgår av de faktiske forholdene, og særlig årsakene til at personen har flyttet, anses som avgjørende når faktisk bosted skal fastsettes.
+
+\(3\) Når det gjelder en student som drar til en annen stat for å gjennomføre et fulltids studieløp, skal sentrum for vedkommendes livsinteresser ikke anses for å være i studiestaten i hele studieløpets varighet i den staten, uten at det berører muligheten til å tilbakevise denne formodningen.
+
+\(4\) Nr. 3 gjelder tilsvarende med nødvendige endringer for studentens familiemedlemmer.
+
+Artikkel 11
+
+Sammenlegging av tid
+
+\(1\) Ved anvendelse av artikkel 10 i denne konvensjonen skal den kompetente institusjonen kontakte institusjonene i de statene hvis lovgivning den berørte personen også har vært undergitt, for å få fastlagt alle tidsrom som er tilbakelagt etter deres lovgivning.
+
+\(2\) Trygdetid, tid med lønnet arbeid, tid med selvstendig virksomhet eller botid tilbakelagt etter en stats lovgivning skal legges til tiden tilbakelagt etter enhver annen stats lovgivning, i den grad det er nødvendig med henblikk på anvendelsen av artikkel 10 i denne konvensjonen, forutsatt at disse tidsrommene ikke sammenfaller.
+
+\(3\) Dersom trygdetid eller botid tilbakelagt med pliktig trygd etter en stats lovgivning sammenfaller med trygdetid tilbakelagt med frivillig trygd eller frivillig fortsatt trygd etter en annen stats lovgivning, er det bare tiden tilbakelagt med pliktig trygd som skal medregnes.
+
+\(4\) Dersom trygdetid eller botid, men ikke sidestilt tid, er tilbakelagt etter en stats lovgivning og sammenfaller med sidestilt tid etter en annen stats lovgivning, er det bare tiden som ikke er sidestilt, som skal medregnes.
+
+\(5\) Ethvert tidsrom som anses som sidestilt etter to eller flere staters lovgivning, skal bare medregnes av institusjonen i den staten hvis lovgivning den berørte personen sist var undergitt på pliktig grunnlag forut for dette tidsrommet. Dersom den berørte personen ikke var undergitt en stats lovgivning på pliktig grunnlag forut for det aktuelle tidsrommet, skal dette tidsrommet medregnes av institusjonen i den staten hvis lovgivning vedkommende først var undergitt på pliktig grunnlag etter det aktuelle tidsrommet.
+
+\(6\) Dersom det ikke lar seg gjøre å fastsette nøyaktig tilbakelagt trygdetid eller botid etter en stats lovgivning, skal det antas at disse tidsrommene ikke sammenfaller med trygdetid eller botid tilbakelagt etter en annen stats lovgivning, og de skal, dersom det er rimelig, medregnes når det er til den berørte personens fordel.
+
+Artikkel 12
+
+Regler for omregning av tid
+
+\(1\) Når tid tilbakelagt etter en stats lovgivning uttrykkes i andre tidsenheter enn tidsenhetene i en annen stats lovgivning, skal omregningen som er nødvendig i forbindelse med sammenlegging av tid etter artikkel 10 i denne konvensjonen, skje etter følgende regler:
+
+\(a\) Institusjonen i den staten etter hvis lovgivning tiden ble tilbakelagt, skal melde inn hvilket tidsrom som skal benyttes som grunnlag for omregningen.
+
+\(b\) I ordninger der tiden uttrykkes i dager, skal omregningen fra dager til andre tidsenheter, og omvendt, og mellom ulike ordninger basert på dager, beregnes i samsvar med følgende tabell:
+
+06N1xt1
+
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 18%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;">Ordning basert på</td>
+<td style="text-align: right;">1 dag<br />
+tilsvarer</td>
+<td style="text-align: right;">1 uke<br />
+tilsvarer</td>
+<td style="text-align: right;">1 måned<br />
+tilsvarer</td>
+<td style="text-align: right;">1 kvartal<br />
+tilsvarer</td>
+<td style="text-align: right;">Høyeste<br />
+antall dager i ett kalenderår</td>
+</tr>
+<tr>
+<td style="text-align: left;">5 dager</td>
+<td style="text-align: right;">9 timer</td>
+<td style="text-align: right;">5 dager</td>
+<td style="text-align: right;">22 dager</td>
+<td style="text-align: right;">66 dager</td>
+<td style="text-align: right;">264 dager</td>
+</tr>
+<tr>
+<td style="text-align: left;">6 dager</td>
+<td style="text-align: right;">8 timer</td>
+<td style="text-align: right;">6 dager</td>
+<td style="text-align: right;">26 dager</td>
+<td style="text-align: right;">78 dager</td>
+<td style="text-align: right;">312 dager</td>
+</tr>
+<tr>
+<td style="text-align: left;">7 dager</td>
+<td style="text-align: right;">6 timer</td>
+<td style="text-align: right;">7 dager</td>
+<td style="text-align: right;">30 dager</td>
+<td style="text-align: right;">90 dager</td>
+<td style="text-align: right;">360 dager</td>
+</tr>
+</tbody>
+</table>
+
+\(c\) I ordninger der tiden uttrykkes i andre tidsenheter enn dager,
+
+\(i\) skal tre måneder eller 13 uker tilsvare ett kvartal og omvendt,
+
+\(ii\) skal ett år tilsvare fire kvartaler, 12 måneder eller 52 uker og omvendt.
+
+\(iii\) Når uker omregnes til måneder og omvendt, skal uker og måneder omregnes til dager i samsvar med omregningsreglene for ordninger basert på seks dager i tabellen i bokstav b).
+
+\(d\) For tidsrom som uttrykkes i brøkdeler, skal disse tallene omregnes til nærmeste lavere hele tall etter reglene i bokstav b) og c). Brøkdeler av år skal omregnes til måneder, med mindre ordningen er basert på kvartaler.
+
+\(e\) Dersom omregningen etter dette leddet gir en brøkdel av en enhet, skal den nærmeste høyere hele enheten anses som et resultat av omregningen etter dette leddet.
+
+\(2\) Anvendelsen av nr. 1 skal ikke føre til at det for all tid som er tilbakelagt i et kalenderår, medregnes et tidsrom som overstiger antall dager oppført i den siste kolonnen i tabellen i nr. 1 bokstav b), 52 uker, 12 måneder eller fire kvartaler.
+
+Dersom tidsrommene som skal omregnes, tilsvarer det maksimale antallet tidsrom per år etter lovgivningen i staten der de er tilbakelagt, skal anvendelsen av nr. 1 i løpet av et kalenderår ikke gi tidsrom som er kortere enn det mulige maksimale antallet tidsrom per år etter den aktuelle lovgivningen.
+
+\(3\) Omregningen skal foretas enten i en enkelt operasjon for alle tidsrom som meldes som et samlet antall, eller for hvert enkelt år dersom tidsrommene meldes fra år til år.
+
+\(4\) Når en institusjon gir melding om tidsrom uttrykt i dager, skal den samtidig angi om ordningen den forvalter, er basert på fem, seks eller sju dager.
+
+AVDELING II
+
+FASTSETTELSE AV HVILKEN LOVGIVNING SOM FÅR ANVENDELSE
+
+Artikkel 13
+
+Nærmere bestemmelser knyttet til artikkel 14 og 15 i denne konvensjonen
+
+\(1\) Ved anvendelse av artikkel 14 nr. 1 i denne konvensjonen skal «en person som utfører lønnet arbeid på en stats territorium for en arbeidsgiver som vanligvis driver sin virksomhet der, og som av nevnte arbeidsgiver sendes til en annen stats territorium»,
+
+\(a\) omfatte en person som er rekruttert for å bli sendt til en annen stat enn staten der arbeidsgiveren vanligvis driver sin virksomhet, forutsatt at den berørte personen umiddelbart før vedkommende ble ansatt, allerede var undergitt lovgivningen i staten der arbeidsgiveren er etablert,
+
+\(b\) ha vært undergitt lovgivningen i staten der arbeidsgiveren er etablert i et forutgående minstetidsrom. Det forutgående minstetidsrommet skal fastsettes av den blandede administrative komiteen,
+
+\(c\) fortsatt ha en direkte relasjon til arbeidsgiveren i det tidsrommet de er utsendt, og
+
+\(d\) bli betalt av eller på vegne av arbeidsgiveren etter lovgivningen i den staten hvis lovgivning får anvendelse i henhold til avdeling II i denne konvensjonen, i den tiden vedkommende er utsendt.
+
+\(2\) Ved anvendelse av artikkel 14 nr. 1 i denne konvensjonen skal ordene «som vanligvis driver sin virksomhet der» vise til en arbeidsgiver som til vanlig driver virksomhet av et visst omfang, som ikke er rent intern administrasjon, på territoriet til staten der foretaket er etablert, idet det tas hensyn til alle kriterier som kjennetegner foretakets virksomhet. De relevante kriteriene må være tilpasset den enkelte arbeidsgivers særtrekk og virksomhetens reelle art.
+
+\(3\) Ved anvendelse av artikkel 14 nr. 2 i denne konvensjonen skal ordene «som vanligvis driver selvstendig virksomhet» vise til en person som til vanlig driver virksomhet av et visst omfang på territoriet til staten der vedkommende er etablert. Vedkommende må allerede ha drevet sin virksomhet i et minstetidsrom før den datoen vedkommende ønsker å dra fordel av bestemmelsen i nevnte artikkel, og må, i ethvert tidsrom med midlertidig virksomhet i en annen stat, fortsatt oppfylle kravene til drift av virksomheten i staten der vedkommende er etablert, for å kunne ta den opp ved tilbakekomsten. Minstetidsrommet som personen allerede må ha drevet virksomheten, skal fastsettes av den blandede administrative komiteen.
+
+\(4\) Ved anvendelse av artikkel 14 nr. 2 i denne konvensjonen skal kriteriet for å avgjøre om virksomheten en selvstendig person skal drive i en annen stat, er en virksomhet som «likner» den selvstendige virksomheten som til vanlig drives, være virksomhetens art, og ikke hvorvidt den betegnes som lønnet arbeid eller selvstendig virksomhet av den andre staten der virksomheten drives.
+
+\(5\) Ved anvendelse av artikkel 15 nr. 1 og 5 i denne konvensjonen skal en person som «vanligvis utfører lønnet arbeid i en eller flere EØS/EFTA-stater samt i Det forente kongerike» eller i «to eller flere EØS/EFTA-stater (og ikke i Det forente kongerike)», vise til en person som samtidig eller skiftevis utøver en eller flere separate aktiviteter i disse statene for samme foretak eller arbeidsgiver eller for forskjellige foretak eller arbeidsgivere.
+
+\(6\) Ved anvendelse av artikkel 15 nr. 1 og 5 i denne konvensjonen skal et ansatt medlem av en flybesetning eller kabinbesetning som vanligvis utfører arbeid ved flyging med passasjerer eller frakt i to eller flere stater, være undergitt lovgivningen i staten der hjemmebasen, som definert i artikkel 1 i denne konvensjonen, befinner seg.
+
+\(7\) Det skal ses bort fra marginale aktiviteter ved fastsettelse av hvilken lovgivning som får anvendelse i henhold til artikkel 15 i denne konvensjonen.
+
+\(8\) Artikkel 15 i dette vedlegget får anvendelse i alle tilfeller som kommer inn under denne artikkelen.
+
+\(9\) Ved anvendelse av artikkel 15 nr. 2 og 6 i denne konvensjonen skal en person som «vanligvis driver selvstendig virksomhet» i henholdsvis «en eller flere EØS/EFTA-stater samt i Det forente kongerike» eller i «to eller flere EØS/EFTA-stater (og ikke i Det forente kongerike)», særlig vise til en person som samtidig eller skiftevis utfører en eller flere aktiviteter som selvstendig i disse statene, uavhengig av aktivitetenes art.
+
+\(10\) For å kunne skille mellom aktivitetene i henhold til nr. 5 og 9 i denne artikkelen og situasjoner beskrevet i artikkel 14 nr. 1 og 2 i denne konvensjonen skal aktivitetens varighet i en eller flere stater (enten den er permanent eller ad hoc eller midlertidig) være avgjørende. Med henblikk på dette skal det foretas en samlet vurdering av alle relevante fakta, særlig, dersom det dreier seg om en arbeidstaker, hvilket arbeidssted som er fastsatt i arbeidsavtalen.
+
+\(11\) Ved anvendelse av artikkel 15 nr. 1, 2 og 5 i denne konvensjonen menes med «en vesentlig del av lønnet arbeid eller selvstendig virksomhet» i en stat, en kvantitativt sett vesentlig del av alt lønnet arbeid eller all selvstendig virksomhet der, uten at dette nødvendigvis er den største delen av arbeidet eller virksomheten.
+
+\(12\) For å kunne avgjøre om en vesentlig del av arbeidet eller virksomheten finner sted i en stat, skal det tas hensyn til følgende kriterier:
+
+\(a\) Ved lønnet arbeid, arbeidstid eller lønn, og
+
+\(b\) ved selvstendig virksomhet, omsetning, arbeidstid, antall tjenester som er levert, eller inntekt.
+
+I en samlet vurdering skal en andel på under 25 % av kriteriene nevnt over være en indikator på at en vesentlig del av virksomheten ikke utøves i den relevante staten.
+
+\(13\) Ved anvendelse av artikkel 15 nr. 2 bokstav b) i denne konvensjonen skal «hovedtyngden» av en selvstendig næringsdrivendes virksomhet fastsettes ved å ta hensyn til alle sider ved vedkommendes yrkesutøvelse, blant annet stedet der vedkommendes fastsatte og permanente forretningssted befinner seg, virksomhetens vanlige art eller varighet, antall tjenester som er levert, og vedkommendes hensikt slik den framgår av samtlige forhold.
+
+\(14\) For å kunne avgjøre hvilken lovgivning som skal få anvendelse i henhold til nr. 11, 12 og 13, skal de berørte institusjonene ta hensyn til situasjonen slik den antas å ville være de påfølgende tolv kalendermånedene.
+
+\(15\) Dersom en person utfører lønnet arbeid i to eller flere stater for en arbeidsgiver som er etablert utenfor statenes territorium, og denne personen er bosatt i en stat uten å utføre en vesentlig del av sitt arbeid der, skal vedkommende være undergitt bostedsstatens lovgivning.
+
+Artikkel 14
+
+Framgangsmåter for anvendelse av artikkel 13 nr. 3 bokstav b), artikkel 13 nr. 3 bokstav c), artikkel 13 nr. 4 og artikkel 14 i denne konvensjonen (om oversendelse av opplysninger til de berørte institusjonene)
+
+\(1\) Dersom en person utøver virksomhet utenfor den kompetente staten, skal arbeidsgiveren eller den berørte personen selv dersom vedkommende ikke utfører lønnet arbeid, underrette den kompetente institusjonen i den staten hvis lovgivning får anvendelse, om dette, om mulig på forhånd, med mindre noe annet er fastsatt i artikkel 15 i dette vedlegget. Institusjonen skal gi den berørte personen bekreftelsen nevnt i artikkel 17 nr. 2 i dette vedlegget og skal uten opphold gjøre opplysninger om hvilken lovgivning som får anvendelse på den personen i henhold til artikkel 13 nr. 3 bokstav b) eller artikkel 14 i denne konvensjonen, tilgjengelige for institusjonen som er utpekt av den kompetente myndigheten i staten der virksomheten utøves.
+
+\(2\) Nr. 1 gjelder tilsvarende med nødvendige endringer for personer som omfattes av artikkel 13 nr. 3 bokstav c) i denne konvensjonen.
+
+\(3\) En arbeidsgiver som definert i artikkel 13 nr. 4 i denne konvensjonen som har en arbeidstaker om bord på et skip som seiler under en annen stats flagg, skal underrette den kompetente institusjonen i den staten hvis lovgivning får anvendelse om dette, om mulig på forhånd. Institusjonen skal uten opphold sørge for at institusjonen utpekt av den kompetente myndigheten i den staten hvis flagg føres av skipet der arbeidstakeren skal arbeide, underrettes om hvilken lovgivning som får anvendelse på den berørte personen i henhold til artikkel 13 nr. 4 i denne konvensjonen.
+
+Artikkel 15
+
+Framgangsmåte for anvendelse av artikkel 15 i denne konvensjonen
+
+\(1\) En person som utøver virksomhet i to eller flere stater, eller dersom artikkel 15 nr. 5 eller 6 i denne konvensjonen får anvendelse, skal underrette institusjonen utpekt av den kompetente myndigheten i bostedsstaten om dette.
+
+\(2\) Den utpekte institusjon på bostedet skal uten opphold avgjøre hvilken lovgivning som får anvendelse på den berørte personen, idet det tas hensyn til artikkel 15 i denne konvensjonen og artikkel 13 i dette vedlegget. Den første avgjørelsen skal være midlertidig. Institusjonen skal underrette de utpekte institusjonene i hver stat der det utøves virksomhet, om sin midlertidige avgjørelse.
+
+\(3\) Den midlertidige avgjørelsen om hvilken lovgivning som får anvendelse, som omhandlet i nr. 2, skal bli endelig senest to måneder etter at institusjoner utpekt av de kompetente myndighetene i den eller de berørte statene er blitt underrettet om dette, i samsvar med nr. 2, med mindre lovgivningen allerede er endelig bestemt på grunnlag av nr. 4 eller minst en av de berørte institusjonene i løpet av disse to månedene underretter institusjonen utpekt av den kompetente myndigheten i bostedsstaten om at den ennå ikke kan godta avgjørelsen, eller om at den har et annet syn på dette.
+
+\(4\) Dersom usikkerhet rundt fastsettelsen av hvilken lovgivning som får anvendelse, krever kontakt mellom institusjoner eller myndigheter i to eller flere stater, skal lovgivningen som får anvendelse på den berørte personen, avgjøres etter felles overenskomst på anmodning fra en eller flere av institusjonene utpekt av de kompetente myndighetene i de berørte statene, eller fra de kompetente myndighetene selv, idet det tas hensyn til artikkel 15 i denne konvensjonen og artikkel 13 i dette vedlegget.
+
+Dersom de berørte institusjonene eller kompetente myndighetene er uenige, skal de søke å oppnå enighet i samsvar med vilkårene ovenfor, og artikkel 6 i dette vedlegget får anvendelse.
+
+\(5\) Den kompetente institusjonen i den staten hvis lovgivning er fastsatt som gjeldende, enten midlertidig eller endelig, skal uten opphold informere den berørte personen om dette.
+
+\(6\) Dersom den berørte personen unnlater å gi opplysningene omhandlet i nr. 1, får denne artikkelen, på initiativ fra institusjonen utpekt av den kompetente myndigheten i bostedsstaten, anvendelse så snart institusjonen, eventuelt via en annen berørt institusjon, får kjennskap til personens situasjon.
+
+Artikkel 16
+
+Framgangsmåte for anvendelse av artikkel 18 i denne konvensjonen
+
+En anmodning fra arbeidsgiveren eller den berørte personen om unntak fra artikkel 13–17 i denne konvensjonen skal, om mulig på forhånd, framlegges for den kompetente myndigheten eller organet utpekt av myndigheten i den staten hvis lovgivning får anvendelse etter arbeidstakerens eller personens ønske.
+
+Artikkel 17
+
+Informasjon til berørte personer og arbeidsgivere
+
+\(1\) Den kompetente institusjonen i den staten hvis lovgivning får anvendelse i henhold til avdeling II i denne konvensjonen, skal informere den berørte personen og, dersom det er relevant, vedkommendes arbeidsgiver(e) om pliktene fastsatt i den lovgivningen. Den skal gi dem nødvendig hjelp med formalitetene som kreves etter den lovgivningen.
+
+\(2\) På anmodning fra den berørte personen eller arbeidsgiveren skal den kompetente institusjonen i den staten hvis lovgivning får anvendelse i henhold til avdeling II i denne konvensjonen, bekrefte at lovgivningen får anvendelse, og eventuelt angi fram til hvilken dato og på hvilke vilkår.
+
+Artikkel 18
+
+Samarbeid mellom institusjoner
+
+\(1\) De relevante institusjonene skal gi den kompetente institusjonen i den staten hvis lovgivning får anvendelse på en person i henhold til avdeling II i denne konvensjonen, de opplysningene som er nødvendige for å kunne bestemme fra hvilken dato lovgivningen får anvendelse, og hvilke avgifter den berørte personen og vedkommendes arbeidsgiver(e) skal betale etter den lovgivningen.
+
+\(2\) Den kompetente institusjonen i den staten hvis lovgivning får anvendelse på en person i henhold til avdeling II i denne konvensjonen, skal sørge for at institusjonen utpekt av den kompetente myndigheten i den staten hvis lovgivning personen sist var undergitt, underrettes om hvilken dato den lovgivningen får virkning.
+
+Artikkel 19
+
+Samarbeid ved tvil om gyldigheten av utstedte dokumenter om hvilken lovgivning som får anvendelse
+
+\(1\) Ved tvil om gyldigheten av et dokument som viser posisjonen til personen med henblikk på lovgivningen som får anvendelse eller riktigheten av de faktiske forholdene som dokumentet bygger på, skal institusjonen i mottakerstaten be om nødvendig avklaring fra institusjonen som har utstedt dokumentet, og, dersom det er relevant, om at dokumentet trekkes tilbake eller korrigeres. Den anmodende institusjonen skal begrunne anmodningen og framlegge den relevante underlagsdokumentasjonen som ligger til grunn for anmodningen.
+
+\(2\) Når institusjonen som har utstedt dokumentet, mottar en slik anmodning, skal den foreta en ny vurdering av begrunnelsen for å utstede dokumentet og, dersom det oppdages en feil, trekke det tilbake eller korrigere det senest 30 dager etter mottak av anmodningen. Tilbaketrekkingen eller korrigeringen skal ha tilbakevirkende kraft. I tilfeller der det foreligger en fare for uforholdsmessig utfall og særlig for tap av status som medlem i trygdeordningen i hele eller deler av det relevante tidsrommet i den eller de berørte statene, skal statene imidlertid vurdere en mer forholdsmessig ordning. Dersom tilgjengelig dokumentasjon gjør at den utstedende institusjonen oppdager at den som søker om dokumentet, har begått bedrageri, skal den trekke tilbake eller korrigere dokumentet uten opphold og med tilbakevirkende kraft.
+
+AVDELING III
+
+SÆRLIGE BESTEMMELSER OM DE ULIKE TYPENE YTELSER
 
 KAPITTEL 1
 
-REIMBURSEMENT OF THE COST OF BENEFITS IN
-APPLICATION OF ARTICLE 36 AND ARTICLE 42 OF
-THIS CONVENTION
+YTELSER VED SYKDOM, YTELSER TIL MOR VED SVANGERSKAP OG FØDSEL OG TILSVARENDE YTELSER TIL FAR
 
-REFUSJON AV UTGIFTER TIL YTELSER I HENHOLD
-TIL ARTIKKEL 36 OG ARTIKKEL 42 I DENNE
-KONVENSJONEN
+Artikkel 20
 
-SECTION 1
+Generelle gjennomføringsbestemmelser
 
-AVSNITT 1
+\(1\) De kompetente myndighetene eller institusjonene skal sørge for at medlemmer i trygdeordningen får alle nødvendige opplysninger om framgangsmåter og vilkår for tilståelse av naturalytelser når disse ytelsene mottas på territoriet til en annen stat enn staten der den kompetente institusjonen ligger.
 
-REIMBURSEMENT ON THE BASIS OF ACTUAL
-EXPENDITURE
+\(2\) Uten hensyn til artikkel 9 bokstav a) i denne konvensjonen kan en stat bli ansvarlig for utgiftene til ytelser i samsvar med artikkel 26 i denne konvensjonen bare dersom medlemmet i trygdeordningen enten har fremmet krav om pensjon etter den statens lovgivning, eller i samsvar med artikkel 27–33 i denne konvensjonen mottar pensjon etter den statens lovgivning.
 
-REFUSJON PÅ GRUNNLAG AV FAKTISKE
-UTGIFTER
+Artikkel 21
 
-Article 46
+Bosted i en annen stat enn den kompetente staten
 
-Artikkel 46
+Framgangsmåte og rettighetenes omfang
 
-Principles
+\(1\) Ved anvendelse av artikkel 21 i denne konvensjonen plikter medlemmet i trygdeordningen eller vedkommendes familiemedlemmer å registrere seg så snart som mulig ved institusjonen på bostedet. Retten til naturalytelser i bostedsstaten skal bekreftes ved et dokument utstedt av den kompetente institusjonen på anmodning fra medlemmet eller fra institusjonen på bostedet.
 
-Prinsipper
+\(2\) Dokumentet nevnt i nr. 1 skal være gyldig fram til den kompetente institusjonen underretter institusjonen på bostedet om at det ikke lenger gjelder.
 
-(1) For the purpose of applying Articles 36 and 42
-of this Convention, the actual amount of the
-expenses for benefits in kind, as shown in the
-accounts of the institution that provided them,
-shall be reimbursed to that institution by the
-competent institution, except where Article 56
-of this Annex is applicable.
-(2) If any or part of the actual amount of the
-expenses for benefits referred to in paragraph
-(1) is not shown in the accounts of the institution that provided them, the amount to be
-refunded shall be determined on the basis of a
-lump-sum payment calculated from all the
-appropriate references obtained from the data
-available. The Joint Administrative Committee
-shall agree the bases to be used for calculation
-of the lump-sum payment and shall decide the
-amount thereof.
-(3) Higher rates than those applicable to the benefits in kind provided to insured persons subject
-to the legislation applied by the institution providing the benefits referred to in paragraph (1)
-may not be taken into account in the reimbursement.
+Institusjonen på bostedet skal underrette den kompetente institusjonen om enhver registrering i henhold til nr. 1, og om enhver endring eller sletting av registreringen.
 
-(1) Ved anvendelse av artikkel 36 og 42 i denne
-konvensjonen skal den kompetente institusjonen gi institusjonen som har gitt ytelsene, refusjon for de faktiske utgiftene til naturalytelser
-slik dette framgår av sistnevnte institusjons
-regnskaper, unntatt når artikkel 56 i dette vedlegget får anvendelse.
-(2) Dersom samtlige eller enkelte faktiske utgifter
-nevnt i nr. 1 ikke framgår av regnskapene til
-institusjonen som har gitt ytelsene, skal refusjonsbeløpet fastsettes ut fra et engangsbeløp
-beregnet på grunnlag av all den informasjonen
-som kan hentes ut av de tilgjengelige opplysningene. Den blandede administrative komiteen skal avgjøre hva som skal legges til grunn
-ved beregningen av engangsbeløpet, og skal
-bestemme beløpets størrelse.
-(3) Det kan ikke legges høyere satser til grunn for
-refusjonen enn de som gjelder for naturalytelser til medlemmer i trygdeordningen som
-er undergitt lovgivningen til institusjonen som
-har gitt ytelsene nevnt i nr. 1.
+\(3\) Denne artikkelen gjelder tilsvarende med nødvendige endringer for personene nevnt i artikkel 26, 28, 29 og 30 i denne konvensjonen.
 
-[Side 140]
+Refusjon av helseavgift
 
-138
+\(4\) Dersom en person eller personens familiemedlemmer
 
-2023–2024
+\(a\) har fått utstedt dokumentet nevnt i nr. 1,
 
-Prop. 5 LS
+\(b\) har registrert dette dokumentet hos institusjonen på bostedet i samsvar med nr. 1, og
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+\(c\) det er betalt helseavgift av eller på vegne av personen eller vedkommendes familiemedlemmer til bostedsstaten i forbindelse med en søknad om tillatelse til innreise, opphold eller bosetting i den staten,
 
-SECTION 2
+kan personen eller personens familiemedlemmer søke institusjonen i bostedsstaten om refusjon (hel eller delvis, alt etter hva som er relevant) av helseavgiften som er betalt.
 
-AVSNITT 2
+\(5\) Dersom det fremmes et krav i samsvar med nr. 1, skal institusjonen i bostedsstaten avgjøre kravet innen tre kalendermåneder etter den dagen kravet ble mottatt, og refundere en helseavgift som er betalt i samsvar med vilkårene i denne artikkelen.
 
-REIMBURSEMENT ON THE BASIS OF FIXED
-AMOUNTS
+\(6\) Dersom gyldighetstiden for dokumentet nevnt i nr. 1 er kortere enn tidsrommet det er betalt helseavgift for, skal det refunderte beløpet ikke overstige den delen av helseavgiften som svarer til tidsrommet som dokumentet er utstedt for.
 
-REFUSJON PÅ GRUNNLAG AV FASTE
-BELØP
+\(7\) Dersom helseavgiften ble betalt av en annen person på vegne av en person som denne artikkelen får anvendelse på, kan beløpet refunderes til denne andre personen.
 
-Article 47
+Artikkel 22
 
-Artikkel 47
+Opphold i en annen stat enn den kompetente staten
 
-Identification of the State(s) concerned
+Framgangsmåte og rettighetenes omfang
 
-Identifisering av de berørte statene
+\(1\) Ved anvendelse av artikkel 23 i denne konvensjonen skal medlemmet i trygdeordningen framlegge et rettighetsdokument utstedt av den kompetente institusjonen som bekrefter retten til naturalytelser, for helsetjenesteyteren i oppholdsstaten. Dersom medlemmet i trygdeordningen ikke har et slikt dokument, skal institusjonen på oppholdsstedet, på anmodning eller dersom det ellers er nødvendig, kontakte den kompetente institusjonen for å innhente et.
 
-(1) The States referred to in Article 36(2) of this
-Convention, whose legal or administrative
-structures are such that the use of reimbursement on the basis of actual expenditure is not
-appropriate, are listed in Appendix 2 of this
-Annex.
-(2) In the case of the States listed in Appendix 2 of
-this Annex, the amount of benefits in kind supplied to:
-(a) family members who do not reside in the
-same State as the insured person, as provided for in Article 21 of this Convention;
-and to
-(b) pensioners and members of their family, as
-provided for in Article 28(1), Article 29 and
-Article 30 of this Convention,
-shall be reimbursed by the competent institutions to the institutions providing those benefits, on the basis of a fixed amount established
-for each calendar year. This fixed amount shall
-be as close as possible to actual expenditure.
+\(2\) I dokumentet skal det angis at medlemmet i trygdeordningen har rett til naturalytelser på vilkårene fastsatt i artikkel 23 i denne konvensjonen som om vedkommende hadde trygdedekning etter oppholdsstatens lovgivning, og det skal oppfylle kravene i tillegg 1 i dette vedlegget.
 
-(1) Statene nevnt i artikkel 36 nr. 2 i denne konvensjonen hvis rettslige eller administrative
-struktur er slik at refusjon på grunnlag av faktiske utgifter ikke er hensiktsmessig, er oppført i tillegg 2 i dette vedlegget.
+\(3\) Med naturalytelser som nevnt i artikkel 23 nr. 1 i denne konvensjonen menes naturalytelser som tilbys i oppholdsstaten, i samsvar med dens lovgivning, og som blir nødvendige av medisinske grunner, slik at et medlem ikke blir tvunget til å reise tilbake til den kompetente staten for å få nødvendig behandling før den planlagte avslutningen av oppholdet.
 
-Article 48
+Framgangsmåte og ordninger for dekning av utgifter og refusjon av naturalytelser
 
-Artikkel 48
+\(4\) Dersom et medlem i trygdeordningen faktisk har dekket utgiftene til samtlige eller enkelte naturalytelser gitt innenfor rammen av artikkel 23 i denne konvensjonen, og dersom vedkommende kan få refundert disse utgiftene i henhold til lovgivningen som institusjonen på oppholdsstedet anvender, kan vedkommende inngi en søknad om refusjon til institusjonen på oppholdsstedet. Institusjonen skal da refundere beløpet som tilsvarer utgiftene til disse ytelsene, direkte til vedkommende innenfor rammen av og etter refusjonssatsene fastsatt i dens lovgivning.
 
-Calculation method of the monthly fixed
-amounts and the total fixed amount
+\(5\) Dersom det ikke er bedt om utgiftsrefusjon direkte fra institusjonen på oppholdsstedet, skal den berørte personen få refundert utgiftene av den kompetente institusjonen i samsvar med refusjonssatsene som administreres av institusjonen på oppholdsstedet, eller beløpene som oppholdsstedets institusjon hadde fått refundert dersom artikkel 46 i dette vedlegget hadde vært gjeldende i det aktuelle tilfellet.
 
-Beregningsmetode for månedlige faste beløp
-og samlet fast beløp
+Institusjonen på oppholdsstedet skal på anmodning gi den kompetente institusjonen alle nødvendige opplysninger om disse satsene eller beløpene.
 
-(1) For each creditor State, the monthly fixed
-amount per person (Fi) for a calendar year
-shall be determined by dividing the annual
-average cost per person (Yi), broken down by
-age group (i), by 12 and by applying a reduction (X) to the result in accordance with the
-following formula:
+\(6\) Som unntak fra nr. 5 kan den kompetente institusjonen refundere de påløpte utgiftene innenfor rammen av og etter refusjonssatsene fastsatt i dens lovgivning, forutsatt at medlemmet i trygdeordningen har samtykket til at denne bestemmelsen får anvendelse på vedkommende.
 
-(1) For hver kreditorstat skal månedlig fast beløp
-per person (Fi) for et kalenderår bestemmes
-ved å dividere gjennomsnittlig årlig utgift per
-person (Yi), inndelt etter aldersgrupper (i),
-med 12, og ved å gjøre et fradrag (X) i resultatet, i samsvar med følgende formel:
+\(7\) Dersom oppholdsstatens lovgivning ikke har bestemmelser om refusjon i henhold til nr. 4 og 5 i det aktuelle tilfellet, kan den kompetente institusjonen refundere utgiftene innenfor rammen av og etter refusjonssatsene fastsatt i dens lovgivning uten samtykke fra medlemmet i trygdeordningen.
 
-(2) For statene oppført i tillegg 2 i dette vedlegget
-skal beløpet for naturalytelser til
-(a) familiemedlemmer som ikke er bosatt i
-samme stat som medlemmet i trygdeordningen, som omhandlet i artikkel 21 i denne
-konvensjonen, og
-(b) pensjonister og medlemmer av deres familie, som omhandlet i artikkel 28 nr. 1, artikkel 29 og artikkel 30 i denne konvensjonen,
-refunderes av de kompetente institusjonene til
-institusjonene som har gitt ytelsene, på grunnlag av et fast beløp som fastsettes for hvert
-kalenderår. Det faste beløpet skal i størst mulig
-grad svare til de faktiske utgiftene.
+\(8\) Medlemmet i trygdeordningen skal ikke i noe tilfelle få refundert et beløp som er høyere enn utgiftene vedkommende faktisk har hatt.
 
-Fi = Yi*1/12*(1-X)
+\(9\) Dersom det dreier seg om betydelige utgifter, kan den kompetente institusjonen betale medlemmet i trygdeordningen et passende forskudd så snart vedkommende har inngitt en søknad om refusjon til den.
 
-Fi = Yi*1/12*(1-X)
+Familiemedlemmer
 
-Where:
-– the index (i = 1, 2 and 3) represents the
-three age groups used for calculating the
-fixed amounts:
-– i = 1: persons aged under 20,
-– i = 2: persons aged from 20 to 64,
-– i = 3: persons aged 65 and over,
-– Yi represents the annual average cost per
-person in age group i, as defined in paragraph (2),
-– the coefficient X (0.20 or 0.15) represents
-the reduction as defined in paragraph (3).
+\(10\) Nr. 1–9 gjelder tilsvarende med nødvendige endringer for familiemedlemmene til et medlem i trygdeordningen.
 
-der
-– indeksen (i = 1, 2 og 3) representerer de tre
-aldersgruppene som benyttes ved beregningen av faste beløp:
-– i = 1: personer under 20 år,
-– i = 2: personer i alderen 20–64 år,
-– i = 3: personer som er 65 år eller eldre,
-– Yi representerer gjennomsnittlig årlig
-utgift per person i aldersgruppe i, som definert i nr. 2,
-– koeffisienten X (0,20 eller 0,15) representerer fradraget som definert i nr. 3.
+Refusjon av helseavgifter for studenter
+
+\(11\) Dersom en person
+
+\(a\) har et gyldig rettighetsdokument omhandlet i tillegg 1 i dette vedlegget utstedt av den kompetente institusjonen,
+
+\(b\) er blitt akseptert av en institusjon for høyere utdanning i en annen stat enn den kompetente staten («studiestaten») for å gjennomføre et fulltids studieløp som fører fram til en høyere utdanningskvalifikasjon som er anerkjent av den staten, herunder diplomer, vitnemål eller doktorgrader ved en institusjon for høyere utdanning, og som kan omfatte et forberedende kurs før slik utdanning, i samsvar med nasjonal rett, eller obligatorisk opplæring,
+
+\(c\) ikke utfører eller ikke har utført lønnet arbeid eller selvstendig virksomhet i studiestaten i det tidsrommet helseavgiften gjelder, og
+
+\(d\) det er betalt helseavgift til studiestaten av eller på vegne av den personen som en del av søknaden om tillatelse til innreise, opphold eller bosetting for å gjennomføre et fulltids studieløp i den staten,
+
+kan personen søke institusjonen i studiestaten om refusjon (hel eller delvis, alt etter hva som er relevant) av helseavgiften som er betalt.
+
+\(12\) Dersom det fremmes et krav i samsvar med nr. 11, skal institusjonen i studiestaten behandle og avgjøre kravet innen en rimelig frist, men ikke senere enn tre kalendermåneder etter den dagen kravet ble mottatt, og refundere en helseavgift som er betalt i samsvar med vilkårene i denne artikkelen.
+
+\(13\) Dersom gyldighetstiden for rettighetsdokumentet nevnt i nr. 11 bokstav a) er kortere enn tidsrommet det er betalt helseavgift for, skal det refunderte beløpet være det betalte beløpet som svarer til dokumentets gyldighetstid.
+
+\(14\) Dersom helseavgiften ble betalt av en annen person på vegne av en person som denne artikkelen får anvendelse på, kan beløpet refunderes til denne andre personen.
+
+\(15\) Nr. 11–14 gjelder tilsvarende med nødvendige endringer for den personens familiemedlemmer.
+
+\(16\) Som unntak fra artikkel 8 nr. 1 i denne konvensjonen kan studiestaten kreve gebyrer i samsvar med dens nasjonale rett for naturalytelser som ikke oppfyller kriteriene angitt i artikkel 23 nr. 1 bokstav a) i denne konvensjonen, og som gis til en person som det er utbetalt refusjon til under vedkommendes opphold i det tidsrommet refusjonen gjelder.
+
+Artikkel 23
+
+Planlagt behandling
+
+Framgangsmåte for å gi tillatelse
+
+\(1\) Ved anvendelse av artikkel 24 nr. 1 i denne konvensjonen skal medlemmet i trygdeordningen framlegge et dokument utstedt av den kompetente institusjonen for institusjonen på oppholdsstedet. Ved anvendelse av denne artikkelen er den kompetente institusjonen den institusjonen som dekker utgiftene til planlagt behandling. I tilfellene nevnt i artikkel 24 nr. 4 og artikkel 31 nr. 5 i denne konvensjonen, der naturalytelser gitt i bostedsstaten refunderes på grunnlag av faste beløp, skal den kompetente institusjonen være institusjonen på bostedet.
+
+\(2\) Dersom et medlem i trygdeordningen ikke er bosatt i den kompetente staten, skal vedkommende be om tillatelse fra institusjonen på bostedet, som uten opphold skal videresende den til den kompetente institusjonen.
+
+I et slikt tilfelle skal institusjonen på bostedet uttale seg om hvorvidt vilkårene i artikkel 24 nr. 2 annet punktum i denne konvensjonen er oppfylt i bostedsstaten.
+
+Den kompetente institusjonen kan unnlate å gi tillatelse bare dersom vilkårene i artikkel 24 nr. 2 annet punktum i denne konvensjonen etter institusjonen på bostedets vurdering ikke er oppfylt i bostedsstaten, eller dersom den samme behandlingen kan gis i den kompetente staten innen en medisinsk forsvarlig frist, idet det tas hensyn til personens aktuelle helsetilstand og den sannsynlige utviklingen av sykdommen.
+
+Den kompetente institusjonen skal underrette institusjonen på bostedet om sitt vedtak.
+
+Dersom det ikke foreligger svar innen fristene fastsatt i dens nasjonale lovgivning, skal tillatelsen anses som gitt av den kompetente institusjonen.
+
+\(3\) Dersom et medlem i trygdeordningen som ikke er bosatt i den kompetente staten, har behov for akutt livsnødvendig behandling, og tillatelsen ikke kan avslås i henhold til artikkel 24 nr. 2 annet punktum i denne konvensjonen, skal institusjonen på bostedet gi tillatelse på vegne av den kompetente institusjonen, som umiddelbart skal underrettes av institusjonen på bostedet.
+
+Når det gjelder behovet for akutt livsnødvendig behandling, skal den kompetente institusjonen godta undersøkelsesresultater og behandlingsalternativer fastslått av leger som er godkjent av institusjonen på bostedet som utsteder tillatelsen.
+
+\(4\) Mens spørsmålet om tillatelse er under behandling, skal den kompetente institusjonen fremdeles ha rett til å få medlemmet i trygdeordningen undersøkt av en lege etter dens eget valg i oppholds- eller bostedsstaten.
+
+\(5\) Institusjonen på oppholdsstedet skal, uten at dette berører et eventuelt vedtak om tillatelse, underrette den kompetente institusjonen dersom det virker medisinsk hensiktsmessig å supplere behandlingen som omfattes av den gjeldende tillatelsen.
+
+Dekning av utgifter til naturalytelser for medlemmet i trygdeordningen
+
+\(6\) Uten at det berører nr. 7, gjelder artikkel 22 nr. 4 og 5 i dette vedlegget tilsvarende med nødvendige endringer.
+
+\(7\) Dersom medlemmet i trygdeordningen faktisk selv helt eller delvis har dekket utgiftene til den godkjente medisinske behandlingen, og utgiftene som den kompetente institusjonen plikter å refundere institusjonen på oppholdsstedet eller til medlemmet i samsvar med nr. 6 (faktisk utgift), er lavere enn utgiftene den ville ha måttet betale for samme behandling i den kompetente staten (teoretisk utgift), skal den kompetente institusjonen på anmodning refundere medlemmets behandlingsutgifter inntil et beløp der den teoretiske utgiften overstiger den faktiske utgiften. Det refunderte beløpet kan imidlertid ikke overstige medlemmets faktiske utgifter, og det kan tas hensyn til hvilket beløp medlemmet hadde måttet betale om behandlingen hadde funnet sted i den kompetente staten.
+
+Dekning av utgifter til reise og opphold i forbindelse med planlagt behandling
+
+\(8\) Dersom den kompetente institusjonens nasjonale lovgivning har bestemmelser om refusjon av reise- og oppholdsutgifter forbundet med medlemmet i trygdeordningens behandling, skal disse utgiftene for den berørte personen, og om nødvendig for en nødvendig ledsager, betales av denne institusjonen når det er gitt tillatelse til behandling i en annen stat.
+
+Familiemedlemmer
+
+\(9\) Nr. 1–8 gjelder tilsvarende med nødvendige endringer for familiemedlemmene til et medlem i trygdeordningen.
+
+Artikkel 24
+
+Kontantytelser i forbindelse med arbeidsudyktighet når en person er bosatt eller oppholder seg i en annen stat enn den kompetente staten
+
+Framgangsmåte som skal følges av medlemmet i trygdeordningen
+
+\(1\) Dersom den kompetente statens lovgivning krever at medlemmet i trygdeordningen framlegger en bekreftelse for å kunne få rett til kontantytelser ved arbeidsudyktighet i henhold til artikkel 25 nr. 1 i denne konvensjonen, skal medlemmet i trygdeordningen be legen i bostedsstaten som har fastslått helsetilstanden, om å bekrefte vedkommendes arbeidsudyktighet og hvor lenge det er sannsynlig at den vil vare.
+
+\(2\) Medlemmet i trygdeordningen skal sende bekreftelsen til den kompetente institusjonen innen fristen fastsatt i den kompetente statens lovgivning.
+
+\(3\) Dersom behandlende leger i bostedsstaten ikke utsteder bekreftelser på arbeidsudyktighet, og en slik bekreftelse kreves etter den kompetente statens lovgivning, skal medlemmet i trygdeordningen henvende seg direkte til institusjonen på bostedet. Denne institusjonen skal umiddelbart sørge for at det foretas en medisinsk vurdering av vedkommendes arbeidsudyktighet, og for at bekreftelsen nevnt i nr. 1 utferdiges. Bekreftelsen skal straks oversendes den kompetente institusjonen.
+
+\(4\) Oversendingen av dokumentet nevnt i nr. 1, 2 og 3 skal ikke frita medlemmet i trygdeordningen for de pliktene vedkommende har etter gjeldende lovgivning, særlig overfor arbeidsgiveren. Dersom det er relevant, kan arbeidsgiveren eller den kompetente institusjonen be arbeidstakeren om delta i aktiviteter som skal bidra til å få vedkommende tilbake i arbeid.
+
+Framgangsmåte som skal følges av institusjonen i bostedsstaten
+
+\(5\) På anmodning fra den kompetente institusjonen skal institusjonen på bostedet foreta nødvendige administrative kontroller eller medisinske undersøkelser av det berørte medlemmet i trygdeordningen i samsvar med lovgivningen som sistnevnte institusjon anvender. Institusjonen på bostedet skal uten opphold oversende erklæringen fra undersøkende lege, særlig om den sannsynlige varigheten av arbeidsudyktigheten, til den kompetente institusjonen.
+
+Framgangsmåte som skal følges av den kompetente institusjonen
+
+\(6\) Den kompetente institusjonen skal forbeholde seg retten til å få medlemmet i trygdeordningen undersøkt av en lege etter dens eget valg.
+
+\(7\) Uten at det berører artikkel 25 nr. 1 annet punktum i denne konvensjonen, skal den kompetente institusjonen utbetale kontantytelsene direkte til det berørte medlemmet i trygdeordningen og om nødvendig underrette institusjonen på bostedet om dette.
+
+\(8\) Ved anvendelse av artikkel 25 nr. 1 i denne konvensjonen skal opplysningene i en bekreftelse på arbeidsudyktighet for et medlem i trygdeordningen som er utferdiget i en annen stat på grunnlag av undersøkende leges eller institusjons medisinske funn, ha samme rettsgyldighet som en bekreftelse utferdiget i den kompetente staten.
+
+\(9\) Dersom den kompetente institusjonen avslår å betale kontantytelser, skal den underrette medlemmet i trygdeordningen og institusjonen på bostedet samtidig om vedtaket.
+
+Framgangsmåte ved opphold i en annen stat enn den kompetente staten
+
+\(10\) Nr. 1–9 gjelder tilsvarende med nødvendige endringer når medlemmet i trygdeordningen oppholder seg i en annen stat enn den kompetente staten.
+
+Artikkel 25
+
+Avgifter for pensjonister
+
+Dersom en person mottar pensjon fra mer enn én stat, skal avgiften som trekkes fra samtlige utbetalte pensjoner, ikke under noen omstendigheter være høyere enn beløpet som trekkes fra en person som mottar det samme pensjonsbeløpet fra den kompetente staten.
+
+KAPITTEL 2
+
+YTELSER VED YRKESSKADE OG YRKESSYKDOM
+
+Artikkel 26
+
+Rett til naturalytelser og kontantytelser ved bosted eller opphold i en annen stat enn den kompetente staten
+
+\(1\) Ved anvendelse av artikkel 37 i denne konvensjonen gjelder framgangsmåtene fastsatt i artikkel 21–24 i dette vedlegget tilsvarende med nødvendige endringer.
+
+\(2\) Når institusjonen i oppholdsstaten eller bostedsstaten gir særlige naturalytelser ved yrkesskade og yrkessykdom etter egen nasjonal lovgivning, skal den uten opphold underrette den kompetente institusjonen.
+
+Artikkel 27
+
+Framgangsmåte ved yrkesskade eller yrkessykdom som inntreffer i en annen stat enn den kompetente staten
+
+\(1\) Dersom en yrkesskade inntreffer eller en yrkessykdom diagnostiseres for første gang i en annen stat enn den kompetente staten, og nasjonal lovgivning har bestemmelser om erklæring eller melding, skal yrkesskaden eller yrkessykdommen erklæres eller meldes i samsvar med den kompetente statens lovgivning, uten at dette berører eventuelle andre lovbestemmelser som er i kraft i staten der yrkesskaden har inntruffet eller der yrkessykdommen er blitt diagnostisert for første gang, som fortsatt får anvendelse i slike tilfeller. Erklæringen eller meldingen skal rettes til den kompetente institusjonen.
+
+\(2\) Institusjonen i staten på hvis territorium yrkesskaden har inntruffet eller yrkessykdommen først er blitt diagnostisert, skal gi den kompetente institusjonen melding om legeerklæringer som er utferdiget på den statens territorium.

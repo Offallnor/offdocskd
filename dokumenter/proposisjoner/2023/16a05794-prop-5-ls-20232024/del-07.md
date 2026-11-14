@@ -1,1170 +1,561 @@
-# Prop. 5 LS (2023–2024), del 7 av 15 (side 75–85)
+# Prop. 5 LS (2023–2024), del 7 av 14
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2023/16a05794-prop-5-ls-20232024.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-5-ls-20232024/id3001765/
 - Original-PDF: https://www.regjeringen.no/contentassets/cbbbb1e93b5e429e99b904493710158d/no/pdfs/prp202320240005000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 39 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 75]
+\(6\) The arbitration tribunal shall determine its own rules of procedure, and its costs shall be agreed with the Concerned States and borne in equal shares by them. These rules may include provision for States other than the Concerned States to be provided with access to, or copies of, any evidence relied upon by any of the Concerned States before the tribunal and any documents sent by the tribunal or a Concerned State to the other.
 
-2023–2024
+\(7\) The arbitration tribunal shall decide the matter by majority vote. The decision shall be binding on the Concerned States.
 
-Prop. 5 LS
+Article 72
 
-73
+Annexes
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+The Annexes (including any appendices) shall form integral parts of this Convention.
 
-Article 32
+TITLE V
 
-Artikkel 32
+FINAL PROVISIONS
 
-Cash benefits for pensioners
+Article 73
 
-Kontantytelser til pensjonister
+Authentic text and depositary
 
-(1) Cash benefits shall be paid to a person receiving a pension or pensions under the legislation
-of one or more States by the competent institution of the State in which is situated the competent institution responsible for the cost of
-benefits in kind provided to the pensioner in
-their State of residence. Article 25 applies
-mutatis mutandis.
-(2) Paragraph (1) also applies to the members of a
-pensioner’s family.
+\(1\) This Convention is drawn up in a single original in the English language.
 
-(1) For en person som mottar en eller flere pensjoner etter en eller flere staters lovgivning, skal
-kontantytelser gis av den kompetente institusjonen i staten der den kompetente institusjonen ligger som har ansvar for utgifter til
-naturalytelser til pensjonisten i vedkommendes bostedsstat. Artikkel 25 gjelder tilsvarende med nødvendige endringer.
-(2) Nr. 1 får også anvendelse på pensjonistens
-familiemedlemmer.
+\(2\) The Government of Norway shall be the Depositary of this Convention.
 
-Article 33
+Article 74
 
-Artikkel 33
+Entry into force
 
-Contributions by pensioners
+\(1\) The States shall notify the Depositary in writing of completion of their respective internal requirements and procedures for entry into force of this Convention.
 
-Avgifter for pensjonister
+\(2\) This Convention shall enter into force, in relation to those States which have notified the Depositary, on the first day of the month following the later of the dates on which the Depositary receives the notifications of at least one EEA EFTA State and the United Kingdom.
 
-(1) The institution of a State which is responsible
-under the legislation it applies for making
-deductions in respect of contributions for sickness, maternity and equivalent paternity benefits, may request and recover such deductions,
-calculated in accordance with the legislation it
-applies, only to the extent that the cost of the
-benefits pursuant to Articles 27 to 30 is to be
-borne by an institution of that State.
-(2) Where, in the cases referred to in Article 29,
-the acquisition of sickness, maternity and
-equivalent paternity benefits is subject to the
-payment of contributions or similar payments
-under the legislation of a State in which the
-pensioner concerned resides, these contributions shall not be payable by virtue of such
-residence.
+\(3\) This Convention shall enter into force, in relation to an EEA EFTA State which notifies the Depositary after the date on which at least one EEA EFTA State and the United Kingdom have notified the Depositary, on the first day of the month following the date on which the Depositary receives the notification of that EEA EFTA State.
 
-(1) Institusjonen i en stat som etter lovgivningen
-den anvender, har ansvar for å foreta trekk for
-avgifter knyttet til ytelser ved sykdom og
-ytelser til mor ved svangerskap og fødsel og
-tilsvarende ytelser til far, kan be om innbetaling av og innkreve slike avgifter, som beregnes i samsvar med lovgivningen den anvender,
-men bare i den grad utgiftene til ytelser i henhold til artikkel 27–30 skal dekkes av en institusjon i den staten.
-(2) Dersom det i tilfellene nevnt i artikkel 29 etter
-lovgivningen i den berørte pensjonistens
-bostedsstat skal innbetales avgifter eller tilsvarende beløp i forbindelse med ytelser ved
-sykdom og ytelser til mor ved svangerskap og
-fødsel og tilsvarende ytelser til far, skal disse
-avgiftene ikke innkreves på grunnlag av dette
-bostedet.
+Article 75
 
-SECTION 3
+Withdrawal and termination
 
-AVSNITT 3
+\(1\) Subject to Article 76, each State may withdraw from this Convention by means of a written notification to the Depositary. The withdrawal shall take effect 12 months after the date on which the notification is received by the Depositary unless the States agree otherwise.
 
-COMMON PROVISIONS
+\(2\) If the United Kingdom withdraws, this Convention shall terminate when its withdrawal becomes effective.
 
-FELLES BESTEMMELSER
+Article 76
 
-Article 34
+Post-termination and post-withdrawal arrangements
 
-Artikkel 34
+\(1\) In the event that this Convention is terminated or a State withdraws from it in accordance with Article 75, to the extent that individuals are affected by the withdrawal or termination, rights to cash benefits acquired by a person in accordance with the provisions of this Convention shall be maintained, if:
 
-General provisions
+\(a\) at the date of withdrawal or termination, the person is in receipt of those cash benefits;
 
-Alminnelige bestemmelser
+\(b\) at or prior to the date of withdrawal or termination, they have lodged a claim for, and would be entitled to receive, those cash benefits; or
 
-Articles 27 to 33 do not apply to a pensioner or the
-members of the pensioner’s family who are entitled to benefits under the legislation of a State on
-the basis of an activity as an employed or selfemployed person. In such cases, the person concerned shall be subject, for the purposes of this
-Chapter, to Articles 21 to 25.
+\(c\) the only reason they are not entitled to receive those cash benefits is that they have not lodged a claim for them at or prior to the date of withdrawal or termination.
 
-Artikkel 27–33 får ikke anvendelse på en pensjonist eller vedkommendes familiemedlemmer som
-har rett til ytelser etter en stats lovgivning på
-grunnlag av lønnet arbeid eller selvstendig virksomhet. I slike tilfeller omfattes den berørte personen med henblikk på dette kapittelet av artikkel
-21–25.
+\(2\) Prior to the expiry of the period referred to in Article 75, and without prejudice to the protections in paragraph (1), the States shall commence discussions on appropriate consequential and transitional arrangements for the protection of persons affected by a State’s withdrawal from or the termination of this Convention.
 
-[Side 76]
+Article 77
 
-74
+Transitional Provision
 
-2023–2024
+\(1\) No provision of this Convention shall confer any right to receive a benefit for any period before the date of entry into force of this Convention.
 
-Prop. 5 LS
+\(2\) The following shall be taken into consideration in determining the right to benefits under this Convention:
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+\(a\) any period of insurance, and, where appropriate, any period of employment, self-employment or residence completed under the legislation of the States before the entry into force of this Convention; and
 
-Article 35
+\(b\) insured events occurring before the entry into force of this Convention.
 
-Artikkel 35
+\(3\) This Convention shall not apply to rights extinguished by the payment of a lump-sum payment.
 
-Prioritising of the right to benefits in kind
-– special rule for the right of members of
-the family to benefits in the State of residence
+\(4\) In this Article at paragraphs (5) and (6), any reference to ‘a certificate’ or ‘that certificate’ is a reference to the certificate issued under the provisions of either the 1990 Convention or the 1983 Convention confirming the state where a person is liable to be insured.
 
-Prioritering av rett til naturalytelser
-– særregel for familiemedlemmers rett til ytelser
-i bostedsstaten
+\(5\) If, as a result of this Convention, a person is subject to the legislation of a State other than the legislation identified as applying to that person in a certificate issued to them, that person shall continue to be subject to the legislation identified in that certificate for the period identified in that certificate, provided that person’s situation remains unchanged.
 
-(1) Unless otherwise provided for by paragraphs
-(2) and (3), where a member of the family has
-an independent right to benefits in kind based
-on the legislation of a State or on this Chapter
-such right shall take priority over a derivative
-right to benefits in kind for members of the
-family.
-(2) Unless otherwise provided for by paragraph
-(3), where the independent right in the State
-of residence exists directly and solely on the
-basis of the residence of the person concerned
-in that State, a derivative right to benefits in
-kind shall take priority over the independent
-right.
-(3) Notwithstanding paragraphs (1) and (2), benefits in kind shall be provided to the members
-of the family of an insured person at the
-expense of the competent institution in the
-State in which they reside, where:
-(a) those members of the family reside in a
-State under whose legislation the right to
-benefits in kind is not subject to conditions
-of insurance or activity as an employed or
-self-employed person; and
-(b) the spouse or the person caring for the
-children of the insured person pursues an
-activity as an employed or self-employed
-person in that State, or receives a pension
-from that State on the basis of an activity as
-an employed or self-employed person.
+\(6\) A person’s situation remains unchanged where the circumstances that justified the issue of a certificate to that person continue after the time this Convention enters into force.
 
-(1) Dersom et familiemedlem har en selvstendig
-rett til naturalytelser etter en stats lovgivning
-eller etter dette kapittelet, skal en slik rett gå
-foran en avledet rett til naturalytelser for familiemedlemmer, med mindre noe annet er fastsatt i nr. 2 og 3.
+\(7\) A person to whom paragraph (5) applies may request that they be subject to the legislation applicable under Title II of this Convention. The request shall be in writing and should be submitted to the State whose legislation would be applicable to that person under Title II of this Convention within the three months following the date this Convention enters into force. The person shall be subject to the legislation of that State as of the date this Convention applies to that State. If the request is made after the expiry of the three-month period indicated, the changeover shall take place on the first day of the following month.
 
-Article 36
+Article 78
 
-Artikkel 36
+Relationship with pre-existing Social Security Coordination Agreements
 
-Reimbursements between institutions
+\(1\) Subject to paragraphs (2) to (4), the following treaties between the United Kingdom and relevant individual EEA EFTA States shall, as from the date of entry into force of this Convention in relation to those EEA EFTA States in accordance with Article 74, cease to apply to England, Scotland, Wales and Northern Ireland:
 
-Refusjon mellom institusjoner
+\(a\) The 1990 Convention;
 
-(1) The benefits in kind provided by the institution of a State on behalf of the institution of
-another State under this Chapter shall give
-rise to full reimbursement.
-(2) The reimbursements referred to in paragraph
-(1) shall be determined and effected in accordance with the arrangements set out in Appendix 2 of Annex 1, either on production of proof
-of actual expenditure, or on the basis of fixed
-amounts for States whose legal or administrative structures are such that the use of reimbursement on the basis of actual expenditure
-is not appropriate.
-(3) The States, and their competent authorities,
-may provide for other methods of reimburse-
+\(b\) The Protocol Concerning Medical Treatment of 19 June 1990, supplementary to the 1990 Convention, (“Norway Healthcare Protocol”);
 
-(1) Naturalytelser som etter dette kapittelet gis av
-en stats institusjon på vegne av en annen stats
-institusjon, skal refunderes fullt ut.
+\(c\) The 1983 Convention;
 
-(2) Dersom den selvstendige retten i bostedsstaten direkte og utelukkende skyldes at den
-berørte personen er bosatt i den staten, skal
-en avledet rett til naturalytelser gå foran den
-selvstendige retten, med mindre noe annet er
-fastsatt i nr. 3.
-(3) Uten hensyn til nr. 1 og 2 skal naturalytelser til
-et medlem i trygdeordningens familiemedlemmer dekkes av den kompetente institusjonen i
-deres bostedsstat når
-(a) disse familiemedlemmene bor i en stat etter
-hvis lovgivning retten til naturalytelser ikke
-er undergitt vilkår om trygd eller lønnet
-arbeid eller selvstendig virksomhet, og
-(b) ektefellen eller den som tar seg av barna til
-medlemmet i trygdeordningen, utfører
-lønnet arbeid eller driver selvstendig virksomhet i den staten eller mottar pensjon fra
-den staten på grunnlag av lønnet arbeid
-eller selvstendig virksomhet.
+\(d\) The Agreement Between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Iceland on Health Services, signed in Reykjavik on 22 September 1982 (“Iceland Health Services Agreement”).
 
-(2) Refusjonen nevnt i nr. 1 skal fastsettes og foretas i samsvar med bestemmelsene fastsatt vedlegg 1 tillegg 2, enten på grunnlag av dokumentasjon av faktiske utgifter eller, for stater
-hvis rettslige eller administrative struktur er
-slik at refusjon på grunnlag av faktiske utgifter
-ikke er hensiktsmessig, på grunnlag av faste
-beløp.
-(3) Statene og deres kompetente myndigheter
-kan avtale andre refusjonsmåter eller gi avkall
+\(2\) The provisions of the 1990 Convention, the Norway Healthcare Protocol, and the 1983 Convention shall continue to apply to the Isle of Man and Jersey.
 
-[Side 77]
+\(3\) The provisions of the Iceland Health Services Agreement shall continue to apply to the Bailiwick of Guernsey, the Isle of Man and Jersey.
 
-2023–2024
+\(4\) The provisions of the 1990 Convention and the 1983 Convention shall continue to apply in relation to:
 
-75
+\(a\) any award of a cash benefit, pension or allowance made prior to the date upon which this Convention comes into force;
 
-Prop. 5 LS
+\(b\) any claim to a benefit, pension or allowance made but not determined at the date upon which this Convention comes into force;
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+\(c\) any claim to a benefit, pension or allowance made after the date this Convention comes into force but only where that claim relates to entitlement to such benefit, pension or allowance for a period prior to the date upon which this Convention comes into force.
 
-ment or waive all reimbursement between the
-institutions coming under their jurisdiction.
+In witness whereof the undersigned, duly authorised by their respective Governments, have signed this Convention.
 
-på enhver refusjon mellom institusjoner som
-er underlagt deres myndighet.
+Done at London, this 30th day of June 2023, in one original in the English language, which shall be deposited with the Depositary, who shall transmit certified copies to all the States.
+
+For Iceland:
+
+For the Principality of Liechtenstein:
+
+For the Kingdom of Norway:
+
+For the United Kingdom of Great Britain and Northern Ireland:
+
+Convention on Social Security Coordination between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland
+
+ANNEXES
+
+ANNEX 1
+
+IMPLEMENTING PART
+
+TITLE I
+
+GENERAL PROVISIONS
+
+CHAPTER 1
+
+Article 1
+
+Definitions
+
+For the purposes of this Annex, the following definitions, in addition to those set out in Article 1 of this Convention, apply.
+
+\(a\) “document” means a set of data, irrespective of the medium used, structured in such a way that it can be exchanged electronically and which must be communicated in order to enable the operation of this Convention and this Annex;
+
+\(b\) “fraud” means any deliberate act or deliberate omission to act, carried out with the intention to either:
+
+\(i\) receive social security benefits, or enable another person to receive social security benefits, when the conditions of entitlement to such benefits under the law of the State(s) concerned or this Convention are not met; or
+
+\(ii\) avoid paying social security contributions, or enable another person to avoid paying social security contributions, when such contributions are required under the law of the State(s) concerned or this Convention.
+
+\(c\) “liaison body” means any body designated by the competent authority of a State for one or more of the branches of social security referred to in Article 6 of this Convention to respond to requests for information and assistance for the purposes of the application of this Convention and of this Annex and which has to fulfil the tasks assigned to it under Title IV of this Annex;
+
+\(d\) “transmission by electronic means” means the transmission of data using electronic equipment for the processing (including digital compression) of data and employing wires, radio transmission, optical technologies or any other electromagnetic means.
 
 CHAPTER 2
 
-KAPITTEL 2
+PROVISIONS CONCERNING COOPERATION AND EXCHANGES OF DATA
 
-BENEFITS IN RESPECT OF ACCIDENTS AT WORK
-AND OCCUPATIONAL DISEASES
+Article 2
 
-YTELSER VED YRKESSKADE OG YRKESSYKDOM
+Scope and rules for exchanges between authorities and institutions
 
-Article 37
+\(1\) For the purposes of this Annex, exchanges between the States’ authorities and institutions and persons covered by this Convention shall be based on the principles of public service, efficiency, active assistance, rapid delivery and accessibility, including e-accessibility, in particular for the disabled and the elderly.
 
-Artikkel 37
+\(2\) The institutions shall without delay provide or exchange all data necessary for establishing and determining the rights and obligations of persons to whom this Convention applies. Such data shall be transferred between the States directly by the institutions themselves or indirectly via the liaison bodies.
 
-Right to benefits in kind and in cash
+\(3\) Where a person has mistakenly submitted information, documents or claims to an institution in the territory of a State other than that in which the institution designated, in accordance with this Annex, is situated, the information, documents or claims shall be resubmitted without delay by the former institution to the institution designated in accordance with this Annex, indicating the date on which they were initially submitted. That date shall be binding on the latter institution. The institutions of the States shall not, however, be held liable, or be deemed to have taken a decision by virtue of their failure to act as a result of the late transmission of information, documents or claims by States’ institutions.
 
-Rett til naturalytelser og kontantytelser
+\(4\) Where data are transferred indirectly via the liaison body of the State of destination, time limits for responding to claims shall start from the date when that liaison body received the claim, as if it had been received by the institution in that State.
 
-(1) Without prejudice to any more favourable provisions in paragraphs (2) and (3) of this Article, Articles 21, 22(1), 23(1) and 24(1) also
-apply to benefits relating to accidents at work
-or occupational diseases.
-(2) A person who has sustained an accident at
-work or has contracted an occupational disease and who resides or stays in a State other
-than the competent State shall be entitled to
-the special benefits in kind of the scheme
-covering accidents at work and occupational
-diseases provided, on behalf of the competent
-institution, by the institution of the place of
-residence or stay in accordance with the legislation which it applies, as though that person
-were insured under that legislation.
-(3) The competent institution may not refuse to
-grant the authorisation provided for in Article
-24(1) to a person who has sustained an accident at work or who has contracted an occupational disease and is entitled to benefits
-chargeable to that institution, where the treatment appropriate to their condition cannot be
-given in the State in which that person resides
-within a time limit which is medically justifiable, taking into account that person’s current
-state of health and the probable course of the
-illness.
-(4) Article 25 also applies to benefits falling within
-this Chapter.
+Article 3
 
-(1) Uten at det berører eventuelle gunstigere
-bestemmelser i nr. 2 og 3 i denne artikkelen,
-får artikkel 21, artikkel 22 nr. 1, artikkel 23
-nr. 1 og artikkel 24 nr. 1 også anvendelse på
-ytelser ved yrkesskade og yrkessykdom.
-(2) En person som har pådratt seg en yrkesskade
-eller yrkessykdom, og som er bosatt eller oppholder seg i en annen stat enn den kompetente
-staten, skal ha rett til de særlige naturalytelsene i ordningen for yrkesskade og yrkessykdom, som på vegne av den kompetente
-institusjonen gis av institusjonen på bostedet
-eller oppholdsstedet i samsvar med lovgivningen den anvender, som om den personen
-hadde trygdedekning etter nevnte lovgivning.
+Scope and rules for exchanges between the persons concerned and institutions
 
-Article 38
+\(1\) The States shall ensure that the necessary information is made available to the persons concerned in order to inform them of the provisions introduced by this Convention and this Annex to enable them to assert their rights. They shall also provide for user-friendly services.
 
-Artikkel 38
+\(2\) Persons to whom this Convention applies shall be required to forward to the relevant institution the information, documents or supporting evidence necessary to establish their situation or that of their families, to establish or maintain their rights and obligations and to determine the applicable legislation and their obligations under it.
 
-Costs of transport
+\(3\) To the extent necessary for the application of this Convention and this Annex, the relevant institutions shall forward the information and issue the documents to the persons concerned without delay and in all cases within any time limits specified under the legislation of the State in question.
 
-Transportutgifter
+\(4\) The relevant institution shall notify the claimant residing or staying in another State of its decision directly or through the liaison body of the State of residence or stay. When refusing the benefits, it shall also indicate the reasons for refusal, the remedies and periods allowed for appeals. A copy of this decision shall be sent to other involved institutions.
 
-(1) The competent institution of a State whose legislation provides for meeting the costs of transporting a person who has sustained an accident at work or is suffering from an occupational disease, either to their place of residence or to a hospital, shall meet such costs to
-the corresponding place in the State where the
-person resides, provided that that institution
-gives prior authorisation for such transport,
-duly taking into account the reasons justifying
+Article 4
 
-(1) Den kompetente institusjonen i en stat hvis
-lovgivning har bestemmelser om dekning av
-utgifter til transport av en person som har
-pådratt seg en yrkesskade eller yrkessykdom,
-enten til vedkommendes bosted eller til et
-sykehus, skal dekke slike utgifter til det tilsvarende stedet i staten der personen er
-bosatt, forutsatt at institusjonen på forhånd har
-gitt tillatelse til slik transport, idet det tas
-behørig hensyn til grunnene som taler for
+Forms, documents and methods of exchanging data
 
-(3) Den kompetente institusjonen kan ikke nekte
-å gi tillatelsen omhandlet i artikkel 24 nr. 1 til
-en person som har pådratt seg en yrkesskade
-eller yrkessykdom, og som har rett til ytelser
-som skal betales av denne institusjonen, dersom behandlingen for vedkommendes tilstand
-ikke kan gis i staten der personen er bosatt
-innen en medisinsk forsvarlig frist, idet det tas
-hensyn til personens aktuelle helsetilstand og
-den sannsynlige utviklingen av sykdommen.
-(4) Artikkel 25 får også anvendelse på ytelser som
-kommer inn under dette kapittelet.
+\(1\) Subject to Article 73 and Appendix 1 of this Annex, the structure, content and format of forms and documents issued on behalf of the States for the purposes of implementing this Convention shall be agreed by the Joint Administrative Committee.
 
-[Side 78]
+\(2\) The transmission of data between the institutions or the liaison bodies may, subject to the approval of the States through the Joint Administrative Committee, be carried out by way of electronic exchange. To the extent the forms and documents referred to in paragraph (1) are transmitted by electronic exchange, they shall respect the rules applicable to that system.
 
-76
+\(3\) Where the transmission of data between institutions or the liaison bodies is not carried out by way of electronic exchange, the relevant institutions and liaison bodies shall use the arrangements appropriate to each case, and favour the use of electronic means as far as possible.
 
-Prop. 5 LS
+\(4\) In their communications with the persons concerned, the relevant institutions shall use the arrangements appropriate to each case, and favour the use of electronic means as far as possible.
 
-2023–2024
+Article 5
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+Legal value of documents and supporting evidence issued in another State
 
-it. Such authorisation shall not be required in
-the case of a frontier worker.
-(2) The competent institution of a State whose
-legislation provides for meeting the costs of
-transporting the body of a person killed in an
-accident at work to the place of burial shall, in
-accordance with the legislation it applies, meet
-such costs to the corresponding place in the
-State where the person was residing at the
-time of the accident.
+\(1\) Documents issued by the institution of a State and showing the position of a person for the purposes of the application of this Convention and this Annex, and supporting evidence on the basis of which the documents have been issued, shall be accepted by the institutions of the other States for as long as they have not been withdrawn or declared to be invalid by the State in which they were issued.
 
-dette. Det skal ikke kreves slik tillatelse for
-grensearbeidere.
-(2) Den kompetente institusjonen i en stat hvis
-lovgivning har bestemmelser om dekning av
-utgifter til transport til stedet der en person
-som er død etter en arbeidsulykke, skal
-begraves, skal i samsvar med lovgivningen
-den anvender, dekke slike utgifter til det tilsvarende stedet i en staten der personen var
-bosatt da ulykken inntraff.
+\(2\) Where there is doubt about the validity of a document or the accuracy of the facts on which the particulars contained therein are based, the institution of the State that receives the document shall ask the issuing institution for the necessary clarification and, where appropriate, the withdrawal of that document. The issuing institution shall reconsider the grounds for issuing the document and, if necessary, withdraw it.
 
-Article 39
+\(3\) Pursuant to paragraph (2), where there is doubt about the information provided by the persons concerned, the validity of a document or supporting evidence or the accuracy of the facts on which the particulars contained therein are based, the institution of the place of stay or residence shall, insofar as this is possible, at the request of the competent institution, proceed to the necessary verification of this information or document.
 
-Artikkel 39
+\(4\) Where no agreement is reached between the institutions concerned, the matter may be referred to the Joint Administrative Committee by the competent authorities.
 
-Benefits for an occupational disease where the
-person suffering from such a disease has been
-exposed to the same risk in several States
+Article 6
 
-Ytelser ved yrkessykdom når den syke personen
-har vært utsatt for samme risiko i flere stater
+Provisional application of legislation and provisional granting of benefits
 
-When a person who has contracted an occupational disease has, under the legislation of two or
-more States, pursued an activity which by its
-nature is likely to cause the said disease, the benefits that that person or their survivors may claim
-shall be provided exclusively under the legislation
-of the last of those States whose conditions are
-satisfied.
+\(1\) Unless otherwise provided for in this Annex, where there is a difference of views between the institutions or authorities of two or more States concerning the determination of the applicable legislation, the person concerned shall be made provisionally subject to the legislation of one of those States, the order of priority being determined as follows:
 
-Når en person som har pådratt seg en yrkessykdom, etter to eller flere staters lovgivning har
-utført arbeid som er av en slik art at det må antas
-å kunne forårsake den aktuelle sykdommen, skal
-ytelsene som personen eller vedkommendes
-etterlatte kan gjøre krav på, utelukkende gis etter
-lovgivningen i den siste staten hvor vilkårene er
-oppfylt.
+\(a\) the legislation of the State where the person actually pursues their employment or self-employment, if the employment or self-employment is pursued in only one State;
 
-Article 40
+\(b\) the legislation of the State of residence if the person concerned pursues employment or self-employment in two or more States and performs part of their activity or activities in the State of residence, or if the person concerned is neither employed nor self-employed;
 
-Artikkel 40
+\(c\) in all other cases, the legislation of the State the application of which was first requested if the person pursues an activity, or activities, in two or more States.
 
-Aggravation of an occupational disease
+\(2\) Where there is a difference of views between the institutions or authorities of two or more States about which institution should provide the benefits in cash or in kind, the person concerned who could claim benefits if there was no dispute shall be entitled, on a provisional basis, to the benefits provided for by the legislation applied by the institution of that person’s place of residence or, if that person does not reside on the territory of one of the States concerned, to the benefits provided for by the legislation applied by the institution to which the request was first submitted.
 
-Forverring av en yrkessykdom
+\(3\) Where no agreement is reached between the institutions or authorities concerned, the matter may be referred to the Joint Administrative Committee by the competent authorities.
 
-In the event of aggravation of an occupational disease for which a person suffering from such a disease has received or is receiving benefits under
-the legislation of a State, the following rules apply:
-(a) if the person concerned, while in receipt of
-benefits, has not pursued, under the legislation of another State, an activity as an
-employed or self-employed person likely to
-cause or aggravate the disease in question, the
-competent institution of the first State shall
-bear the cost of the benefits under the provisions of the legislation which it applies, taking
-into account the aggravation;
-(b) if the person concerned, while in receipt of
-benefits, has pursued such an activity under
-the legislation of another State, the competent
-institution of the first State shall bear the cost
-of the benefits under the legislation it applies
-without taking the aggravation into account.
-The competent institution of the second State
-shall grant a supplement to the person concerned, the amount of which shall be equal to
-the difference between the amount of benefits
-due after the aggravation and the amount
-which would have been due prior to the aggravation under the legislation it applies, if the
+\(4\) Where it is established either that the applicable legislation is not that of the State of provisional membership, or the institution which granted the benefits on a provisional basis was not the competent institution, the institution identified as being competent shall be deemed retroactively to have been so, as if that difference of views had not existed, at the latest from either the date of provisional membership or of the first provisional granting of the benefits concerned.
 
-Ved forverring av en yrkessykdom som den syke
-personen har mottatt eller mottar ytelser for etter
-en stats lovgivning, får følgende regler anvendelse:
-(a) Dersom den berørte personen mens vedkommende mottar ytelser, etter en annen stats lovgivning ikke har utført lønnet arbeid eller
-drevet selvstendig virksomhet som må antas å
-kunne forårsake eller forverre den aktuelle sykdommen, skal den kompetente institusjonen i
-førstnevnte stat dekke utgiftene til ytelsene
-etter bestemmelsene i lovgivningen den anvender, idet det tas hensyn til forverringen.
-(b) Dersom den berørte personen mens vedkommende mottar ytelser, etter en annen stats lovgivning har utført slikt arbeid eller drevet slik
-virksomhet, skal den kompetente institusjonen
-i førstnevnte stat dekke utgiftene til ytelsene
-etter lovgivningen den anvender, uten å ta hensyn til forverringen. Den kompetente institusjonen i den andre staten skal gi den berørte
-personen et tillegg som tilsvarer differansen
-mellom ytelsesbeløpet som den kompetente
-institusjonen etter lovgivningen den anvender,
-skal utbetale etter forverringen, og beløpet
-som skulle vært utbetalt før forverringen, dersom sykdommen hadde inntruffet mens den
+\(5\) If necessary, the institution identified as being competent and the institution which provisionally paid the cash benefits or provisionally received contributions shall settle the financial situation of the person concerned as regards contributions and cash benefits paid provisionally, where appropriate, in accordance with Chapter 2 of Title IV of this Annex.
 
-[Side 79]
+\(6\) Benefits in kind granted provisionally by an institution in accordance with paragraph (2) shall be reimbursed by the competent institution in accordance with Title IV of this Annex.
 
-2023–2024
+Article 7
 
-77
+Provisional calculation of benefits and contributions
 
-Prop. 5 LS
+\(1\) Unless otherwise provided for in this Annex, where a person is eligible for a benefit, or is liable to pay a contribution in accordance with this Convention, and the competent institution does not have all the information concerning the situation in another State which is necessary to calculate definitively the amount of that benefit or contribution, that institution shall, on request of the person concerned, award this benefit or calculate this contribution on a provisional basis, if such a calculation is possible on the basis of the information at the disposal of that institution.
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-disease in question had occurred under the
-legislation of that State;
-(c) the rules concerning reduction, suspension or
-withdrawal laid down by the legislation of a
-State shall not be invoked against persons
-receiving benefits provided by institutions of
-two States in accordance with sub-paragraph
-(b).
-
-berørte personen var undergitt den statens
-lovgivning.
-(c) Reglene i en stats lovgivning om reduksjon,
-suspensjon eller bortfall skal ikke gjøres gjeldende overfor personer som mottar ytelser fra
-institusjoner i to stater i samsvar med bokstav
-b).
-
-Article 41
-
-Artikkel 41
-
-Rules for taking into account the special features
-of certain legislation
-
-Regler for å ta hensyn til særlige bestemmelser
-i visse lovgivninger
-
-(1) If there is no insurance against accidents at
-work or occupational diseases in the State in
-which the person concerned resides or stays,
-or if such insurance exists but there is no institution responsible for providing benefits in
-kind, those benefits shall be provided by the
-institution of the place of residence or stay
-responsible for providing benefits in kind in
-the event of sickness.
-(2) If there is no insurance against accidents at
-work or occupational diseases in the competent State, the provisions of this Chapter concerning benefits in kind shall nevertheless be
-applied to a person who is entitled to those
-benefits in the event of sickness, maternity or
-equivalent paternity under the legislation of
-that State if that person sustains an accident at
-work or suffers from an occupational disease
-during a residence or stay in another State.
-Costs shall be borne by the institution that is
-competent for the benefits in kind under the
-legislation of the competent State.
-(3) Article 9 applies to the competent institution in
-a State as regards the equivalence of accidents
-at work and occupational diseases which
-either have occurred or have been confirmed
-subsequently under the legislation of another
-State when assessing the degree of incapacity,
-the right to benefits or the amount thereof, on
-condition that:
-(a) no compensation is due in respect of an
-accident at work or an occupational disease
-which had occurred or had been confirmed
-previously under the legislation it applies;
-and
-(b) no compensation is due in respect of an
-accident at work or an occupational disease
-which had occurred or had been confirmed
-subsequently, under the legislation of the
-other State under which the accident at
-work or the occupational disease had
-occurred or been confirmed.
-
-(1) Dersom det ikke finnes noen trygdeordning
-for yrkesskade eller yrkessykdom i staten der
-den berørte personen er bosatt eller oppholder seg, eller dersom det finnes en slik ordning, men ingen institusjon med ansvar for å gi
-naturalytelser, skal disse ytelsene gis av institusjonen på bostedet eller oppholdsstedet med
-ansvar for å gi naturalytelser ved sykdom.
-(2) Dersom det ikke finnes noen trygdeordning for
-yrkesskade eller yrkessykdom i den kompetente staten, får bestemmelsene om naturalytelser i dette kapittelet likevel anvendelse på en
-person som har rett til slike ytelser ved sykdom
-og ved svangerskap og fødsel og tilsvarende
-ytelser til far etter den statens lovgivning, dersom personen pådrar seg en yrkesskade eller
-en yrkessykdom mens vedkommende er bosatt
-eller oppholder seg i en annen stat. Utgiftene
-skal dekkes av den institusjonen som er kompetent med hensyn til naturalytelser etter den
-kompetente statens lovgivning.
-(3) Artikkel 9 får anvendelse på den kompetente
-institusjonen i en stat med hensyn til likestilling av yrkesskade og yrkessykdom som er
-inntruffet eller påvist på et senere tidspunkt
-etter en annen stats lovgivning, ved fastsettelse av graden av arbeidsudyktighet, retten
-til ytelser eller størrelsen på ytelsene, forutsatt
-at
-(a) det for en yrkesskade eller en yrkessykdom
-som er inntruffet eller påvist på et tidligere
-tidspunkt, ikke gis erstatning etter lovgivningen den anvender, og
-(b) det for en yrkesskade eller en yrkessykdom
-som er inntruffet eller påvist på et senere
-tidspunkt, ikke gis erstatning etter den
-andre statens lovgivning, som var gjeldende da yrkesskaden eller yrkessykdommen inntraff eller ble påvist.
-
-[Side 80]
-
-78
-
-Prop. 5 LS
-
-2023–2024
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-Article 42
-
-Artikkel 42
-
-Reimbursements between institutions
-
-Refusjon mellom institusjoner
-
-(1) Article 36 also applies to benefits falling within
-this Chapter, and reimbursement shall be
-made on the basis of actual costs.
-(2) The States, or their competent authorities,
-may provide for other methods of reimbursement or waive all reimbursement between the
-institutions under their jurisdiction.
-
-(1) Artikkel 36 får også anvendelse på ytelser som
-kommer inn under dette kapittelet, og det skal
-gis refusjon på grunnlag av faktiske utgifter.
-(2) Statene eller deres kompetente myndigheter
-kan avtale andre refusjonsmåter eller gi avkall
-på all refusjon mellom institusjoner som er
-underlagt deres myndighet.
+\(2\) The benefit or the contribution concerned shall be recalculated once all the necessary supporting evidence or documents are provided to the institution concerned.
 
 CHAPTER 3
 
-KAPITTEL 3
+OTHER GENERAL PROVISIONS FOR THE APPLICATION OF THIS CONVENTION
 
-DEATH GRANTS
+Article 8
 
-GRAVFERDSHJELP
+Other procedures between authorities and institutions
 
-Article 43
+\(1\) The UK and one or more of the EEA EFTA States, or their competent authorities, may agree procedures other than those provided for by this Annex, provided that such procedures do not adversely affect the rights or obligations of the persons concerned.
 
-Artikkel 43
+\(2\) Any agreements concluded to this end shall be agreed by the States in question through the Joint Administrative Committee.
 
-Right to grants where death occurs in, or where
-the person entitled resides in, a State other than
-the competent one
+Article 9
 
-Rett til gravferdshjelp når et dødsfall inntreffer
-i eller mottakeren er bosatt i en annen stat enn
-den kompetente
+Prevention of overlapping of benefits
 
-(1) When an insured person or a member of their
-family dies in a State other than the competent
-State, the death shall be deemed to have
-occurred in the competent State.
+Notwithstanding other provisions in this Convention, when benefits due under the legislation of two or more States are mutually reduced, suspended or withdrawn, any amounts that would not be paid in the event of strict application of the rules concerning reduction, suspension or withdrawal laid down by the legislation of the State concerned shall be divided by the number of benefits subjected to reduction, suspension or withdrawal.
 
-(1) Dersom et medlem i trygdeordningen eller et
-medlem av vedkommendes familie dør i en
-annen stat enn den kompetente staten, skal
-dødsfallet anses som inntruffet i den kompetente staten.
-(2) Den kompetente institusjonen skal gi gravferdshjelp etter lovgivningen den anvender,
-selv om mottakeren er bosatt i en annen stat
-enn den kompetente staten.
+Article 10
 
-(2) The competent institution shall be obliged to
-provide death grants payable under the legislation it applies, even if the person entitled
-resides in a State other than the competent
-State.
-(3) Paragraphs (1) and (2) also apply when the
-death is the result of an accident at work or an
-occupational disease.
+Elements for determining residence
 
-(3) Nr. 1 og 2 får også anvendelse dersom dødsfallet skyldes yrkesskade eller yrkessykdom.
+\(1\) Where there is a difference of views between the institutions of two or more States about the determination of the residence of a person to whom this Convention applies, these institutions shall establish by common agreement the centre of interests of the person concerned, based on an overall assessment of all available information relating to relevant facts, which may include, as appropriate:
 
-Article 44
+\(a\) the duration and continuity of presence on the territory of the States concerned;
 
-Artikkel 44
+\(b\) that person’s situation, including:
 
-Provision of benefits in the event of the death of
-a pensioner
+\(i\) the nature and the specific characteristics of any activity pursued, in particular the place where such activity is habitually pursued, the stability of the activity, and the duration of any work contract;
 
-Utbetaling av ytelser når en pensjonist dør
+\(ii\) that person’s family status and family ties;
 
-(1) In the event of the death of a pensioner who
-was entitled to a pension under the legislation
-of one State, or to pensions under the legislations of two or more States, when that pensioner was residing in a State other than that
-of the institution responsible for the cost of
-benefits in kind provided under Articles 28
-and 29, the death grants payable under the legislation administered by that institution shall
-be provided at its own expense as though the
-pensioner had been residing at the time of
-their death in the State in which that institution is situated.
-(2) Paragraph (1) applies mutatis mutandis to the
-members of the family of a pensioner.
+\(iii\) the exercise of any non-remunerated activity;
 
-(1) Dersom en pensjonist som har rett til en pensjon etter en stats lovgivning eller til flere pensjoner etter to eller flere staters lovgivning,
-dør mens vedkommende er bosatt i en annen
-stat enn staten der institusjonen med ansvar
-for utgifter til naturalytelser gitt etter artikkel
-28 og 29, ligger, skal denne institusjonen gi og
-dekke gravferdshjelp etter lovgivningen den
-anvender, som om pensjonisten da dødsfallet
-inntraff, var bosatt i staten der institusjonen
-ligger.
-(2) Nr. 1 gjelder tilsvarende med nødvendige
-endringer for pensjonistens familiemedlemmer.
+\(iv\) in the case of students, the source of that student’s income;
 
-[Side 81]
+\(v\) that person’s housing situation, in particular how permanent it is;
 
-2023–2024
+\(vi\) the State in which that person is deemed to reside for taxation purposes.
 
-Prop. 5 LS
+\(2\) Where the consideration of the various criteria based on relevant facts as set out in paragraph (1) does not lead to agreement between the institutions concerned, the person’s intention, as it appears from such facts and circumstances, especially the reasons that led the person to move, shall be considered to be decisive for establishing that person’s actual place of residence.
 
-79
+\(3\) The centre of interests of a student who goes to another State to pursue a full-time course of study shall not be considered as being in the State of study for the entire duration of the course of study in that State, without prejudice to the possibility of rebutting this presumption.
 
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
+\(4\) Paragraph (3) applies *mutatis mutandis* to the family members of the student.
 
-CHAPTER 4
+Article 11
 
-KAPITTEL 4
+Aggregation of periods
 
-INVALIDITY BENEFITS
+\(1\) For the purposes of applying Article 10 of this Convention, the competent institution shall contact the institutions of the States to whose legislation the person concerned has also been subject in order to determine all the periods completed under their legislation.
 
-YTELSER VED UFØRHET
+\(2\) The respective periods of insurance, employment, self-employment or residence completed under the legislation of a State shall be added to those completed under the legislation of any other State, insofar as necessary for the purposes of applying Article 10 of this Convention, provided that these periods do not overlap.
 
-Article 45
+\(3\) Where a period of insurance or residence which is completed in accordance with compulsory insurance under the legislation of a State coincides with a period of insurance completed on the basis of voluntary insurance or continued optional insurance under the legislation of another State, only the period completed on the basis of compulsory insurance shall be taken into account.
 
-Artikkel 45
+\(4\) Where a period of insurance or residence other than an equivalent period completed under the legislation of a State coincides with an equivalent period on the basis of the legislation of another State, only the period other than an equivalent period shall be taken into account.
 
-Calculation of invalidity benefits
+\(5\) Any period regarded as equivalent under the legislation of two or more States shall be taken into account only by the institution of the State to whose legislation the person concerned was last compulsorily subject before that period. In the event that the person concerned was not compulsorily subject to the legislation of a State before that period, the latter shall be taken into account by the institution of the State to whose legislation the person concerned was compulsorily subject for the first time after that period.
 
-Beregning av ytelser ved uførhet
-
-Without prejudice to Article 10 where, under the
-legislation of the State competent under Title II of
-this Convention, the amount of invalidity benefits
-is dependent on the duration of the periods of
-insurance, employment, self-employment or residence, the competent State is not required to take
-into account any such periods completed under
-the legislation of another State for the purposes of
-calculating the amount of invalidity benefit payable.
-
-Uten at det berører artikkel 10, plikter den kompetente staten, når størrelsen på ytelsene ved
-uførhet etter lovgivningen i staten som er kompetent i henhold til avdeling II i denne konvensjonen, avhenger av varigheten av trygdetiden, tiden
-med lønnet arbeid, tiden med selvstendig virksomhet eller botiden, ikke å ta hensyn til slike
-perioder som er tilbakelagt etter en annen stats
-lovgivning, for å beregne størrelsen på ytelsen
-ved uførhet.
+\(6\) In the event that the time in which certain periods of insurance or residence were completed under the legislation of a State cannot be determined precisely, it shall be presumed that these periods do not overlap with periods of insurance or residence completed under the legislation of another State, and account shall be taken thereof, where advantageous to the person concerned, insofar as they can reasonably be taken into consideration.
 
-Article 46
+Article 12
 
-Artikkel 46
+Rules for conversion of periods
 
-Special provisions on aggregation of periods
+\(1\) Where periods completed under the legislation of a State are expressed in units different from those provided for by the legislation of another State, the conversion needed for the purpose of aggregation under Article 10 of this Convention shall be carried out under the following rules:
 
-Særlige bestemmelser om sammenlegging av tid
+\(a\) the period to be used as the basis for the conversion shall be that communicated by the institution of the State under whose legislation the period was completed;
 
-The competent institution of a State whose legislation makes the acquisition, retention or recovery
-of the right to benefits conditional upon the completion of periods of insurance or residence shall,
-where necessary, apply Article 50 mutatis mutandis.
+\(b\) in the case of schemes where the periods are expressed in days the conversion from days to other units, and vice versa, as well as between different schemes based on days shall be calculated according to the following table:
 
-Dersom en stats lovgivning setter tilbakelagt
-trygdetid eller botid som et vilkår for å oppnå,
-beholde eller få tilbake rett til ytelser, skal den
-kompetente institusjonen i den staten om nødvendig anvende artikkel 50 tilsvarende og med nødvendige endringer.
+06N1xt1
 
-Article 47
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;">Scheme based on</td>
+<td style="text-align: right;">1 day<br />
+corresponds to</td>
+<td style="text-align: right;">1 week<br />
+corresponds to</td>
+<td style="text-align: right;">1 month<br />
+corresponds to</td>
+<td style="text-align: right;">1 quarter<br />
+corresponds to</td>
+<td style="text-align: right;">Maximum of days in one calendar year</td>
+</tr>
+<tr>
+<td style="text-align: left;">5 days</td>
+<td style="text-align: right;">9 hours</td>
+<td style="text-align: right;">5 days</td>
+<td style="text-align: right;">22 days</td>
+<td style="text-align: right;">66 days</td>
+<td style="text-align: right;">264 days</td>
+</tr>
+<tr>
+<td style="text-align: left;">6 days</td>
+<td style="text-align: right;">8 hours</td>
+<td style="text-align: right;">6 days</td>
+<td style="text-align: right;">26 days</td>
+<td style="text-align: right;">78 days</td>
+<td style="text-align: right;">312 days</td>
+</tr>
+<tr>
+<td style="text-align: left;">7 days</td>
+<td style="text-align: right;">6 hours</td>
+<td style="text-align: right;">7 days</td>
+<td style="text-align: right;">30 days</td>
+<td style="text-align: right;">90 days</td>
+<td style="text-align: right;">360 days</td>
+</tr>
+</tbody>
+</table>
 
-Artikkel 47
+\(c\) in the case of schemes where the periods are expressed in units other than days,
 
-Aggravation of invalidity
+\(i\) three months or 13 weeks shall be equivalent to one quarter, and *vice versa*;
 
-Forverring av uførhet
+\(ii\) one year shall be equivalent to four quarters, 12 months or 52 weeks, and *vice versa*;
 
-In the case of aggravation of an invalidity for
-which a person is receiving benefits under the legislation of a State in accordance with this Convention, the benefit shall continue to be provided in
-accordance with this Chapter, taking the aggravation into account.
+\(iii\) for the conversion of weeks into months, and *vice versa*, weeks and months shall be converted into days in accordance with the conversion rules for the schemes based on six days in the table in sub-paragraph (b);
 
-Ved forverring av uførhet som en person mottar
-ytelser for etter en stats lovgivning i samsvar med
-denne konvensjonen, skal ytelsen fortsatt gis i
-samsvar med dette kapittelet, idet det tas hensyn
-til forverringen.
+\(d\) in the case of periods expressed in fractions, those figures shall be converted into the next smaller integer unit applying the rules laid down in sub-paragraphs (b) and (c). Fractions of years shall be converted into months unless the scheme involved is based on quarters;
 
-Article 48
-
-Artikkel 48
+\(e\) if the conversion under this paragraph results in a fraction of a unit, the next higher integer unit shall be taken as the result of the conversion under this paragraph.
 
-Conversion of invalidity benefits into old-age
-benefits
-
-Overgang fra ytelser ved uførhet til ytelser ved
-alder
-
-(1) Where provided for in the legislation of the
-State paying invalidity benefit in accordance
-with this Convention, invalidity benefits shall
-be converted into old-age benefits under the
-conditions laid down by the legislation under
-which they are provided and in accordance
-with Chapter 5 of Title III.
-(2) Where a person receiving invalidity benefits
-can establish a claim to old-age benefits under
-the legislation of one or more other States, in
-accordance with Article 49, any institution
-which is responsible for providing invalidity
-benefits under the legislation of a State shall
-continue to provide such a person with the
-
-(1) Dersom det er fastsatt i lovgivningen til den
-staten som betaler ytelser ved uførhet i samsvar med denne konvensjonen, skal ytelser
-ved uførhet gå over til ytelser ved alder på vilkårene fastsatt i lovgivningen som ble lagt til
-grunn for innvilgelse av ytelsene, og i samsvar
-med avdeling III kapittel 5.
-(2) Dersom en person som mottar ytelser ved
-uførhet, kan fremme krav om ytelser ved alder
-etter en eller flere andre staters lovgivning i
-samsvar med artikkel 49, skal en institusjon
-med ansvar for å gi ytelser ved uførhet etter en
-stats lovgivning fortsatt gi vedkommende de
-ytelsene ved uførhet som vedkommende har
-
-[Side 82]
-
-80
-
-2023–2024
-
-Prop. 5 LS
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-invalidity benefits to which that person is entitled under the legislation it applies until paragraph (1) becomes applicable in respect of that
-institution, or otherwise for as long as the person concerned satisfies the conditions for such
-benefits.
-
-rett til etter lovgivningen den anvender, fram
-til nr. 1 får anvendelse på den institusjonen
-eller så lenge den berørte personen oppfyller
-vilkårene for slike ytelser.
-
-CHAPTER 5
-
-KAPITTEL 5
-
-OLD-AGE AND SURVIVORS’ PENSIONS
-
-ALDERSPENSJON OG ETTERLATTEPENSJON
-
-Article 49
-
-Artikkel 49
-
-General provisions
-
-Alminnelige bestemmelser
-
-(1) All the competent institutions shall determine
-entitlement to benefit, under all the legislations of the States to which the person concerned has been subject, when a request for
-award has been submitted, unless the person
-concerned expressly requests deferment of
-the award of old-age benefits under the legislation of one or more States.
-(2) If at a given moment the person concerned
-does not satisfy, or no longer satisfies, the conditions laid down by all the legislations of the
-States to which that person has been subject,
-the institutions applying legislation the conditions of which have been satisfied shall not
-take into account, when performing the calculation in accordance with Article 51(1)(a) or
-(b), the periods completed under the legislations the conditions of which have not been
-satisfied, or are no longer satisfied, where this
-gives rise to a lower amount of benefit.
-(3) Paragraph (2) applies mutatis mutandis when
-the person concerned has expressly requested
-deferment of the award of old-age benefits.
-
-(1) Når det er søkt om ytelser, skal retten til
-ytelser fastsettes av alle kompetente institusjoner i statene hvis lovgivning den berørte personen har vært undergitt, med mindre vedkommende uttrykkelig ber om at tilståelse av
-ytelser ved alder etter en eller flere staters lovgivning utsettes.
-
-(4) A new calculation shall be performed automatically as and when the conditions to be fulfilled
-under the other legislations are satisfied or
-when a person requests the award of an oldage benefit deferred in accordance with paragraph (1), unless the periods completed under
-the other legislations have already been taken
-into account by virtue of paragraphs (2) or (3).
-
-(2) Dersom den berørte personen på et tidspunkt
-ikke, eller ikke lenger, oppfyller vilkårene i alle
-lovgivningene i statene som personen har vært
-undergitt, skal institusjoner som anvender en
-lovgivning der vilkårene er oppfylt, ved beregning av ytelser i samsvar med artikkel 51 nr. 1
-bokstav a) eller b), ikke ta hensyn til tid tilbakelagt etter lovgivninger der vilkårene ikke,
-eller ikke lenger, er oppfylt, dersom dette fører
-til et lavere ytelsesbeløp.
-(3) Nr. 2 gjelder tilsvarende med nødvendige
-endringer når den berørte personen uttrykkelig har bedt om at tilståelse av ytelser ved alder
-utsettes.
-(4) Det skal automatisk foretas en ny beregning
-når vilkårene i de andre lovgivningene er oppfylt, eller når en person ber om å få tilstått en
-ytelse ved alder som har vært utsatt i samsvar
-med nr. 1, med mindre tilbakelagt tid etter de
-andre lovgivningene allerede er medregnet i
-samsvar med nr. 2 eller 3.
-
-Article 50
-
-Artikkel 50
-
-Special provisions on aggregation of periods
-
-Særlige bestemmelser om sammenlegging av tid
-
-(1) Where the legislation of a State makes the
-granting of certain benefits conditional upon
-the periods of insurance having been completed only in a specific activity as an
-employed or self-employed person or in an
-occupation which is subject to a special
-
-(1) Dersom en stats lovgivning setter tilbakelagt
-trygdetid i et bestemt lønnet arbeid eller en
-bestemt selvstendig virksomhet eller i et yrke
-som har en særordning for personer som
-utfører lønnet arbeid eller driver selvstendig
-virksomhet, som et vilkår for å tilstå visse
-
-[Side 83]
-
-2023–2024
-
-81
-
-Prop. 5 LS
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-scheme for employed or self-employed persons, the competent institution of that State
-shall take into account periods completed
-under the legislation of other States only if
-completed under a corresponding scheme or,
-failing that, in the same occupation, or where
-appropriate, in the same activity as an
-employed or self-employed person.
-(2) If, account having been taken of the periods
-thus completed, the person concerned does
-not satisfy the conditions for receipt of the
-benefits of a special scheme, these periods
-shall be taken into account for the purposes of
-providing the benefits of the general scheme
-or, failing that, of the scheme applicable to
-manual or clerical workers, as the case may be,
-provided that the person concerned had been
-affiliated to one or other of those schemes.
-(3) The periods of insurance completed under a
-special scheme of a State shall be taken into
-account for the purposes of providing the
-benefits of the general scheme or, failing that,
-of the scheme applicable to manual or clerical
-workers, as the case may be, of another State,
-provided that the person concerned had been
-affiliated to one or other of those schemes,
-even if those periods have already been taken
-into account in the latter State under a special
-scheme.
-(4) Where the legislation or specific scheme of a
-State makes the acquisition, retention or
-recovery of the right to benefits conditional
-upon the person concerned being insured at
-the time of the materialisation of the risk, this
-condition shall be regarded as having been satisfied if that person has been previously
-insured under the legislation or specific
-scheme of that State and is, at the time of the
-materialisation of the risk, insured under the
-legislation of another State for the same risk
-or, failing that, if a benefit is due under the legislation of another State for the same risk. The
-latter condition shall, however, be deemed to
-be fulfilled in the cases referred to in Article
-56.
-
-ytelser, skal den kompetente institusjonen i
-den staten ta hensyn til tid tilbakelagt etter
-andre staters lovgivning bare dersom den er
-tilbakelagt under en tilsvarende ordning eller, i
-mangel av en slik ordning, i det samme yrket
-eller eventuelt i det samme lønnede arbeidet
-eller den samme selvstendige virksomheten.
-(2) Dersom den berørte personen på grunnlag av
-slik tilbakelagt trygdetid ikke oppfyller vilkårene for å motta ytelser etter en særordning,
-skal denne tiden medregnes ved tilståelse av
-ytelser etter den alminnelige ordningen eller, i
-mangel av en slik ordning, eventuelt etter en
-ordning for arbeidere eller funksjonærer, forutsatt av den berørte personen har vært
-omfattet av en eller flere slike ordninger.
-(3) Trygdetid tilbakelagt etter en særordning i en
-stat skal medregnes ved tilståelse av ytelser
-etter den alminnelige ordningen eller, i mangel
-av en slik ordning, eventuelt etter en ordning
-for arbeidere eller funksjonærer i en annen
-stat, forutsatt at den berørte personen har
-vært omfattet av en eller flere slike ordninger,
-også dersom denne tiden allerede er medregnet etter en særordning i sistnevnte stat.
-(4) Dersom lovgivningen eller en særskilt ordning
-i en stat setter som vilkår at en berørt person
-er medlem i trygdeordningen på det tidspunktet trygdetilfellet inntreffer, for at vedkommende skal kunne oppnå, beholde eller få tilbake rett til ytelser, skal dette vilkåret anses
-som oppfylt dersom den berørte personen tidligere har hatt trygdedekning etter lovgivningen eller en særordning i denne staten, og dersom vedkommende da trygdetilfellet inntraff,
-hadde trygdedekning etter en annen stats lovgivning for samme risiko eller, dersom dette
-ikke er tilfelle, dersom en ytelse skal betales
-etter en annen stats lovgivning for samme
-risiko. Sistnevnte vilkår skal imidlertid anses
-som oppfylt i tilfellene omhandlet i artikkel 56.
-
-Article 51
-
-Artikkel 51
-
-Award of benefits
-
-Tilståelse av ytelser
-
-(1) The competent institution shall calculate the
-amount of the benefit that would be due:
-(a) under the legislation it applies, only where
-the conditions for entitlement to benefits
-have been satisfied exclusively under
-national law (independent benefit);
-
-(1) Den kompetente institusjonen skal beregne
-ytelsesbeløpet som vil komme til utbetaling
-(a) etter lovgivningen den anvender, men bare
-når vilkårene for rett til ytelser er oppfylt
-utelukkende etter nasjonal lovgivning (selvstendig ytelse),
-
-[Side 84]
-
-82
-
-Prop. 5 LS
-
-2023–2024
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-(b) by calculating a theoretical amount and
-subsequently an actual amount (pro rata
-benefit), as follows:
-(i) the theoretical amount of the benefit is
-equal to the benefit which the person
-concerned could claim if all the periods
-of insurance and/or of residence which
-have been completed under the legislations of the other States had been completed under the legislation it applies on
-the date of the award of the benefit. If,
-under this legislation, the amount does
-not depend on the duration of the periods completed, that amount shall be
-regarded as being the theoretical
-amount;
-(ii) the competent institution shall then
-establish the actual amount of the pro
-rata benefit by applying to the theoretical amount the ratio between the duration of the periods completed before
-materialisation of the risk under the legislation it applies and the total duration
-of the periods completed before materialisation of the risk under the legislations of all the States concerned.
-(2) Where appropriate, the competent institution
-shall apply, to the amount calculated in accordance with sub-paragraphs (a) and (b) of paragraph (1), all the rules relating to reduction,
-suspension or withdrawal, under the legislation it applies, within the limits provided for by
-Articles 52 to 54.
-(3) The person concerned shall be entitled to
-receive from the competent institution of each
-State the higher of the amounts calculated in
-accordance with sub-paragraphs (a) and (b) of
-paragraph (1).
-(4) Where the calculation pursuant to paragraph
-(1)(a) in one State invariably results in the
-independent benefit being equal to or higher
-than the pro rata benefit, calculated in accordance with paragraph (1)(b), the competent
-institution shall waive the pro rata calculation,
-provided that:
-(a) such a situation is set out in Part 1 of Annex
-5;
-(b) no legislation containing rules against overlapping, as referred to in Articles 53 to 54,
-is applicable unless the conditions laid
-down in Article 54(2) are fulfilled; and
-(c) Article 56 is not applicable in relation to
-periods completed under the legislation of
-
-(b) ved å beregne et teoretisk beløp og deretter
-et faktisk beløp (pro rata-ytelse), som følger:
-(i) Det teoretiske ytelsesbeløpet er lik
-ytelsen den berørte personen ville hatt
-rett til dersom all trygdetid og/eller
-botid tilbakelagt etter de andre statenes
-lovgivning, var tilbakelagt etter lovgivningen den anvender på det tidspunktet
-ytelsen tilstås. Dersom beløpet etter
-denne lovgivningen ikke avhenger av
-den tilbakelagte tidens lengde, skal
-dette beløpet anses som det teoretiske
-beløpet.
-(ii) Den kompetente institusjon skal deretter fastsette det faktiske beløpet for
-pro rata-ytelsen basert på det teoretiske
-beløpet på grunnlag av forholdet
-mellom den tilbakelagte trygdetidens
-lengde før trygdetilfellet inntraff etter
-lovgivningen den anvender, og samlet
-tilbakelagt trygdetid før trygdetilfellet
-inntraff etter alle berørte staters lovgivning.
-(2) Dersom det er relevant, skal den kompetente
-institusjonen anvende alle regler om reduksjon, suspensjon eller bortfall etter lovgivningen den anvender, på beløpet som beregnes i
-samsvar med nr. 1 bokstav a) og b), innenfor
-grensene fastsatt i artikkel 52–54.
-(3) Den berørte personen skal ha rett til å motta
-det høyeste av beløpene beregnet i samsvar
-med nr. 1 bokstav a) og b) fra den kompetente
-institusjonen i hver stat.
-(4) Dersom beregningen i henhold til nr. 1 bokstav a) i en stat alltid fører til at den selvstendige ytelsen er lik eller høyere enn pro rataytelsen beregnet i samsvar med nr. 1 bokstav
-b), skal den kompetente institusjonen unnlate
-å foreta en pro rata-beregning, forutsatt at
-(a) en slik situasjon er angitt i vedlegg 5 del 1,
-(b) ingen lovgivning som inneholder regler
-mot sammenfall av ytelser, som nevnt i
-artikkel 53–54, får anvendelse, med mindre
-vilkårene fastsatt i artikkel 54 nr. 2 er oppfylt, og
-(c) artikkel 56, under de særskilte omstendighetene som gjelder for tilfellet, ikke får
-
-[Side 85]
-
-2023–2024
-
-83
-
-Prop. 5 LS
-
-Endringer i folketrygdloven (gjennomføring av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island, Liechtenstein,
-Norge og Storbritannia) og samtykke til inngåelse av konvensjon av 30. juni 2023 om trygdekoordinering mellom Island,
-Liechtenstein, Norge og Storbritannia
-
-another State in the specific circumstances
-of the case.
-(5) Notwithstanding paragraphs (1), (2) and (3),
-the pro rata calculation shall not apply to
-schemes providing benefits in respect of
-which periods of time are of no relevance to
-the calculation, subject to such schemes being
-listed in Part 2 of Annex 5. In such cases, the
-person concerned shall be entitled to the benefit calculated in accordance with the legislation
-of the State concerned.
-
-anvendelse på tid tilbakelagt etter en annen
-stats lovgivning.
-(5) Uten hensyn til nr. 1, 2 og 3 får pro rata-beregningen ikke anvendelse på ordninger som gir
-ytelser der tid ikke er relevant for beregningen, forutsatt at ordningene er oppført i vedlegg 5 del 2. I slike tilfeller skal den berørte
-personen ha rett til ytelsen beregnet i samsvar
-med den berørte statens lovgivning.
-
-Article 52
-
-Artikkel 52
-
-Rules to prevent overlapping
-
-Regler mot sammenfall
-
-(1) Any overlapping of old-age and survivors’
-benefits calculated or provided on the basis of
-periods of insurance or residence completed
-by the same person shall be considered to be
-overlapping of benefits of the same kind.
-(2) Overlapping of benefits which cannot be considered to be of the same kind within the
-meaning of paragraph (1) shall be considered
-to be overlapping of benefits of a different
-kind.
-(3) The following provisions shall be applicable
-for the purposes of rules to prevent overlapping laid down by the legislation of a State in
-the case of overlapping of a benefit in respect
-of old-age or survivors with a benefit of the
-same kind or a benefit of a different kind or
-with other income:
-(a) the competent institution shall take into
-account the benefits or incomes acquired in
-another State only where the legislation it
-applies provides for benefits or income
-acquired abroad to be taken into account;
-
-(1) Sammenfall av ytelser ved alder og ytelser til
-etterlatte som beregnes eller gis på grunnlag
-av trygdetid og/eller botid tilbakelagt av
-samme person, skal anses som sammenfall av
-ytelser av samme art.
-(2) Sammenfall av ytelser som ikke kan anses å
-være av samme art som definert i nr. 1, skal
-anses som sammenfall av ytelser av forskjellig
-art.
-
-(b) the competent institution shall take into
-account the amount of benefits to be paid by
-another State before deduction of tax, social
-security contributions and other individual
-levies or deductions, unless the legislation
-it applies provides for the application of
-rules to prevent overlapping after such
-deductions, under the conditions and the
-procedures laid down in Annex 1;
-(c) the competent institution shall not take into
-account the amount of benefits acquired
-under the legislation of another State on the
-basis of voluntary insurance or continued
-optional insurance;
-(d) if a single State applies rules to prevent overlapping because the person concerned
-receives benefits of the same or of a different
-
-(3) Ved anvendelsen av regler mot sammenfall i
-en stats lovgivning får følgende bestemmelser
-anvendelse når en ytelse ved alder eller en
-ytelse til etterlatte sammenfaller med en ytelse
-av samme eller av forskjellig art eller med
-andre inntekter:
-(a) Den kompetente institusjonen skal ta hensyn til ytelser eller inntekter ervervet i en
-annen stat bare dersom lovgivningen den
-anvender, har bestemmelser om at det skal
-tas hensyn til ytelser eller inntekter ervervet i utlandet.
-(b) Den kompetente institusjonen skal ta hensyn til ytelsesbeløpet som skal utbetales av
-en annen stat før fradrag av skatt, trygdeavgifter og andre individuelle avgifter eller
-fradrag, med mindre det i lovgivningen den
-anvender, er fastsatt at regler mot sammenfall skal anvendes etter slike fradrag, på vilkårene og etter framgangsmåtene fastsatt i
-vedlegg 1.
-(c) Den kompetente institusjonen skal ikke ta
-hensyn til ytelsesbeløpet som er ervervet
-etter en annen stats lovgivning på grunnlag
-av frivillig trygd eller frivillig fortsatt trygd.
-(d) Dersom en enkelt stat anvender regler mot
-sammenfall fordi den berørte personen
-mottar ytelser av samme eller forskjellig art
+\(2\) The application of paragraph (1) shall not have the effect of producing, for the total sum of the periods completed during one calendar year, a total exceeding the number of days indicated in the last column in the table in paragraph (1)(b), 52 weeks, 12 months or four quarters.
+
+If the periods to be converted correspond to the maximum annual amount of periods under the legislation of the State in which they have been completed, the application of paragraph (1) shall not result within one calendar year in periods that are shorter than the possible maximum annual amount of periods provided under the legislation concerned.
+
+\(3\) The conversion shall be carried out either in one single operation covering all those periods which were communicated as an aggregate, or for each year, if the periods were communicated on a year-by-year basis.
+
+\(4\) Where an institution communicates periods expressed in days, it shall at the same time indicate whether the scheme it administers is based on five days, six days or seven days.
+
+TITLE II
+
+DETERMINATION OF THE LEGISLATION APPLICABLE
+
+Article 13
+
+Details relating to Articles 14 and 15 of this Convention
+
+\(1\) For the purposes of the application of Article 14(1) of this Convention, a “person who pursues an activity as an employed person in the territory of a State for an employer which normally carries out its activities there and who is sent by that employer to the territory of another State” shall:
+
+\(a\) include a person who is recruited with a view to being sent to a State, other than the State where the employer normally carries out its activities, provided that, immediately before the start of that person’s employment, the person concerned is already subject to the legislation of the State in which their employer is established;
+
+\(b\) have been subject to the legislation of the State in which their employer is established for a prior minimum period of time. The prior minimum period shall be agreed by the Joint Administrative Committee;
+
+\(c\) continue to have a direct relationship with their employer during the period of their detachment; and
+
+\(d\) be paid by or on behalf of their employer, in accordance with the legislation of the State whose legislation is applicable pursuant to Title II of this Convention, during the period of their detachment.
+
+\(2\) For the purposes of the application of Article 14(1) of this Convention, the words “which normally carries out its activities there” shall refer to an employer that ordinarily performs substantial activities, other than purely internal management activities, in the territory of the State in which it is established, taking account of all criteria characterising the activities carried out by the undertaking in question. The relevant criteria must be suited to the specific characteristics of each employer and the real nature of the activities carried out.
+
+\(3\) For the purposes of the application of Article 14(2) of this Convention, the words “who normally pursues an activity as a self-employed person” shall refer to a person who habitually carries out substantial activities in the territory of the State in which that person is established. In particular, that person must have already pursued their activity for a minimum period of time before the date when they wish to take advantage of the provisions of that Article and, during any period of temporary activity in the other State, must continue to fulfil, in the State where they are established, the requirements for the pursuit of their activity in order to be able to pursue it on their return. The minimum period of time that person must have already pursued their activity shall be agreed by the Joint Administrative Committee.
+
+\(4\) For the purposes of the application of Article 14(2) of this Convention, the criterion for determining whether the activity that a self-employed person goes to pursue in another State is “similar” to the self-employed activity normally pursued shall be that of the actual nature of the activity, rather than of the designation of employed or self-employed activity that may be given to this activity by the other State where the activity occurs.
+
+\(5\) For the purposes of the application of Article 15(1) and (5) of this Convention, a person who “normally pursues an activity as an employed person in one or more EEA EFTA States as well as in the United Kingdom”, or in “two or more EEA EFTA States (and not in the United Kingdom)”, shall refer to a person who simultaneously, or in alternation, for the same undertaking or employer or for various undertakings or employers, exercises one or more separate activities in such States.
+
+\(6\) For the purposes of Article 15 (1) and (5) of this Convention, an employed flight crew or cabin crew member normally pursuing air passenger or freight services in two or more States shall be subject to the legislation of the State where the home base, as defined in Article 1 of this Convention, is located.
+
+\(7\) Marginal activities shall be disregarded for the purposes of determining the applicable legislation under Article 15 of this Convention.
+
+\(8\) Article 15 of this Annex shall apply to all cases under this Article.
+
+\(9\) For the purposes of the application of Article 15(2) and (6) of this Convention, a person who “normally pursues an activity as a self-employed person” in “one or more EEA EFTA States as well as in the United Kingdom”, or in “two or more EEA EFTA States (and not in the United Kingdom)” respectively, shall refer, in particular, to a person who simultaneously or in alternation pursues one or more separate self-employed activities, irrespective of the nature of those activities, in such States.
+
+\(10\) For the purposes of distinguishing the activities under paragraphs (5) and (9) of this Article from the situations described in Article 14(1) of this Convention, the duration of the activity in one or more States (whether it is permanent or of an *ad hoc* or temporary nature) shall be decisive. For these purposes, an overall assessment shall be made of all the relevant facts including, in particular, in the case of an employed person, the place of work as defined in the employment contract.
+
+\(11\) For the purposes of the application of Article 15(1), (2), (5) and (6) of this Convention, a “substantial part of employed or self-employed activity” pursued in a State shall mean a quantitatively substantial part of all the activities of the employed or self-employed person pursued there, without this necessarily being the major part of those activities.
+
+\(12\) To determine whether a substantial part of the activities is pursued in a State, the following indicative criteria shall be taken into account:
+
+\(a\) in the case of an employed activity, the working time or the remuneration; and
+
+\(b\) in the case of a self-employed activity, the turnover, working time, number of services rendered or income.
+
+In the framework of an overall assessment, a share of less than 25% in respect of the criteria mentioned above shall be an indicator that a substantial part of the activities is not being pursued in the relevant State.
+
+\(13\) For the purposes of the application of Article 15(2)(b) of this Convention, the “centre of interest” of the activities of a self-employed person shall be determined by taking account of all the aspects of that person’s occupational activities, notably the place where the person’s fixed and permanent place of business is located, the habitual nature or the duration of the activities pursued, the number of services rendered, and the intention of the person concerned as revealed by all the circumstances.
+
+\(14\) For the determination of the applicable legislation under paragraphs (11), (12) and (13), the institutions concerned shall take into account the situation projected for the following 12 calendar months.
+
+\(15\) If a person pursues their activity as an employed person in two or more States on behalf of an employer established outside the territory of the States, and if this person resides in a State without pursuing substantial activity there, they shall be subject to the legislation of the State of residence.
+
+Article 14
+
+Procedures for the application of Article 13(3)(b), Article 13(3)(c), Article 13(4) and Article 14 of this Convention (on the provision of information to the institutions concerned)
+
+\(1\) Unless otherwise provided for by Article 15 of this Annex, where a person pursues their activity outside the competent State, the employer or, in the case of a person who does not pursue an activity as an employed person, the person concerned shall inform the competent institution of the State whose legislation is applicable thereof, whenever possible in advance. That institution shall issue the attestation referred to in Article 17(2) of this Annex to the person concerned and shall without delay make information concerning the legislation applicable to that person, pursuant to Article 13(3)(b) or Article 14 of this Convention, available to the institution designated by the competent authority of the State in which the activity is pursued.
+
+\(2\) Paragraph (1) shall apply *mutatis mutandis* to persons covered by Article 13(3)(c) of this Convention.
+
+\(3\) An employer within the meaning of Article 13(4) of this Convention who has an employee on board a vessel flying the flag of another State shall inform the competent institution of the State whose legislation is applicable thereof whenever possible in advance. That institution shall, without delay, make information concerning the legislation applicable to the person concerned, pursuant to Article 13(4) of this Convention, available to the institution designated by the competent authority of the State whose flag, the vessel on which the employee is to perform the activity, is flying.
+
+Article 15
+
+Procedure for the application of Article 15 of this Convention
+
+\(1\) A person who pursues activities in two or more States, or where Article 15(5) or (6) of this Convention applies, shall inform the institution designated by the competent authority of the State of residence thereof.
+
+\(2\) The designated institution of the place of residence shall without delay determine the legislation applicable to the person concerned, having regard to Article 15 of this Convention and Article 13 of this Annex. That initial determination shall be provisional. The institution shall inform the designated institutions of each State in which an activity is pursued of its provisional determination.
+
+\(3\) The provisional determination of the applicable legislation, as provided for in paragraph (2), shall become definitive within two months of the institutions designated by the competent authorities of the State(s) concerned being informed of it, in accordance with paragraph (2), unless the legislation has already been definitively determined on the basis of paragraph (4), or at least one of the institutions concerned informs the institution designated by the competent authority of the State of residence by the end of this two-month period that it cannot yet accept the determination or that it takes a different view on this.
+
+\(4\) Where uncertainty about the determination of the applicable legislation requires contacts between the institutions or authorities of two or more States, at the request of one or more of the institutions designated by the competent authorities of the State(s) concerned, or of the competent authorities themselves, the legislation applicable to the person concerned shall be determined by common agreement, having regard to Article 15 of this Convention and Article 13 of this Annex.
+
+Where there is a difference of views between the institutions or competent authorities concerned, those bodies shall seek agreement in accordance with the conditions set out above and Article 6 of this Annex shall apply.
+
+\(5\) The competent institution of the State whose legislation is determined to be applicable either provisionally or definitively shall without delay inform the person concerned.
+
+\(6\) If the person concerned fails to provide the information referred to in paragraph (1), this Article shall be applied at the initiative of the institution designated by the competent authority of the State of residence as soon as it is appraised of that person’s situation, possibly via another institution concerned.
+
+Article 16
+
+Procedure for the application of Article 18 of this Convention
+
+A request by the employer or the person concerned for exceptions to Articles 13 to 17 of this Convention shall be submitted, whenever possible in advance, to the competent authority or the body designated by the authority of the State, whose legislation the employee or person concerned requests be applied.
+
+Article 17
+
+Provision of information to persons concerned and employers
+
+\(1\) The competent institution of the State whose legislation becomes applicable pursuant to Title II of this Convention shall inform the person concerned and, where appropriate, their employer(s) of the obligations laid down in that legislation. It shall provide them with the necessary assistance to complete the formalities required by that legislation.
+
+\(2\) At the request of the person concerned or of the employer, the competent institution of the State whose legislation is applicable pursuant to Title II of this Convention shall provide an attestation that such legislation is applicable and shall indicate, where appropriate, until what date and under what conditions.
+
+Article 18
+
+Cooperation between institutions
+
+\(1\) The relevant institutions shall communicate to the competent institution of the State whose legislation is applicable to a person pursuant to Title II of this Convention the necessary information required to establish the date on which that legislation becomes applicable and the contributions which that person and their employer(s) are liable to pay under that legislation.
+
+\(2\) The competent institution of the State whose legislation becomes applicable to a person pursuant to Title II of this Convention shall make the information indicating the date on which the application of that legislation takes effect available to the institution designated by the competent authority of the State to whose legislation that person was last subject.
+
+Article 19
+
+Cooperation in case of doubts about the validity of issued documents concerning the applicable legislation
+
+\(1\) Where there is doubt about the validity of a document showing the position of the person for the purposes of the applicable legislation or the accuracy of the facts on which the document is based, the institution of the State that receives the document shall ask the issuing institution for the necessary clarification and, where appropriate, the withdrawal or rectification of that document. The requesting institution shall substantiate its request and provide the relevant supporting documentation that gave rise to the request.
+
+\(2\) When receiving such a request, the issuing institution shall reconsider the grounds for issuing the document and, where an error is detected, withdraw it or rectify it within 30 working days from the receipt of the request. The withdrawal or rectification shall have retroactive effect. However, in cases where there is a risk of disproportionate outcome, and in particular, of the loss of status as an insured person for the whole or part of the relevant period in the State(s) concerned, the States shall consider a more proportionate arrangement in such case. When the available evidence permits the issuing institution to find that the applicant of the document has committed fraud, it shall withdraw or rectify the document without delay and with retroactive effect.
+
+TITLE III
+
+SPECIAL PROVISIONS CONCERNING THE VARIOUS CATEGORIES OF BENEFITS
+
+CHAPTER 1
+
+SICKNESS, MATERNITY AND EQUIVALENT PATERNITY BENEFITS
+
+Article 20
+
+General implementing provisions
+
+\(1\) The competent authorities or institutions shall ensure that any necessary information is made available to insured persons regarding the procedures and conditions for the granting of benefits in kind where such benefits are received in the territory of a State other than that of the competent institution.
+
+\(2\) Notwithstanding Article 9(a) of this Convention, a State may become responsible for the cost of benefits in accordance with Article 26 of this Convention only if, either the insured person has made a claim for a pension under the legislation of that State, or in accordance with Articles 27 to 33 of this Convention, they receive a pension under the legislation of that State.
+
+Article 21
+
+Residence in a State other than the competent State
+
+Procedure and scope of right
+
+\(1\) For the purposes of the application of Article 21 of this Convention, the insured person or members of that person’s family shall be obliged to register promptly with the institution of the place of residence. Their right to benefits in kind in the State of residence shall be certified by a document issued by the competent institution upon request of the insured person or upon request of the institution of the place of residence.
+
+\(2\) The document referred to in paragraph (1) shall remain valid until the competent institution informs the institution of the place of residence of its cancellation.
+
+The institution of the place of residence shall inform the competent institution of any registration under paragraph (1) and of any change or cancellation of that registration.
+
+\(3\) This Article applies *mutatis mutandis* to the persons referred to in Articles 26, 28, 29 and 30 of this Convention.
+
+Health fee reimbursement
+
+\(4\) Where a person or the members of that person’s family:
+
+\(a\) have been issued with the document referred to in paragraph (1);
+
+\(b\) have registered that document with the institution of the place of residence in accordance with paragraph (1); and
+
+\(c\) a health fee has been paid by or on behalf of the person or members of their family to the State of residence as part of an application for a permit to enter, stay, work or reside in that State,
+
+that person or members of that person’s family may apply to the institution of the State of residence for reimbursement (in whole or part, as the case may be) of the health fee paid.
+
+\(5\) Where a claim is made in accordance with paragraph (1), the institution of the State of residence shall determine that claim within three calendar months, starting on the day the claim was received, and shall make any reimbursement of a health fee paid in accordance with the conditions in this Article.
+
+\(6\) Where the period of validity of the document referred to in paragraph (1) is less than the period of time in respect of which the health fee has been paid, the amount reimbursed shall not exceed that portion of the health fee which corresponds to the period for which the document had been issued.
+
+\(7\) Where the health fee was paid by another person on behalf of a person to whom this Article applies, reimbursement may be made to that other person.
+
+Article 22
+
+Stay in a State other than the competent State
+
+Procedure and scope of right
+
+\(1\) For the purposes of the application of Article 23 of this Convention, the insured person shall present to the health care provider in the State of stay an entitlement document issued by the competent institution indicating their entitlement to benefits in kind. If the insured person does not have such a document, the institution of the place of stay, upon request or if otherwise necessary, shall contact the competent institution in order to obtain one.
+
+\(2\) That document shall indicate that the insured person is entitled to benefits in kind under the conditions laid down in Article 23 of this Convention on the same terms as those applicable to persons insured under the legislation of the State of stay, and shall satisfy the requirements in Appendix 1 of this Annex.
+
+\(3\) The benefits in kind referred to in Article 23(1) of this Convention shall refer to the benefits in kind which are provided in the State of stay, in accordance with its legislation, and which become necessary on medical grounds with a view to preventing an insured person from being forced to return, before the end of the planned duration of stay, to the competent State to obtain the necessary treatment.
+
+Procedure and arrangements for meeting the costs and providing reimbursement of benefits in kind
+
+\(4\) If the insured person has actually borne the costs of all or part of the benefits in kind provided within the framework of Article 23 of this Convention and if the legislation applied by the institution of the place of stay enables reimbursement of those costs to an insured person, they may send an application for reimbursement to the institution of the place of stay. In that case, that institution shall reimburse directly to that person the amount of the costs corresponding to those benefits within the limits of and under the conditions of the reimbursement rates laid down in its legislation.
+
+\(5\) If the reimbursement of such costs has not been requested directly from the institution of the place of stay, the costs incurred shall be reimbursed to the person concerned by the competent institution in accordance with the reimbursement rates administered by the institution of the place of stay or the amounts which would have been subject to reimbursement to the institution of the place of stay, if Article 46 of this Annex had applied in the case concerned.
+
+The institution of the place of stay shall provide the competent institution, upon request, with all necessary information about these rates or amounts.
+
+\(6\) By way of derogation from paragraph (5), the competent institution may undertake the reimbursement of the costs incurred within the limits of and under the conditions of the reimbursement rates laid down in its legislation, provided that the insured person has agreed to this provision being applied to them.
+
+\(7\) If the legislation of the State of stay does not provide for reimbursement pursuant to paragraphs (4) and (5) in the case concerned, the competent institution may reimburse the costs within the limits of and under the conditions of the reimbursement rates laid down in its legislation, without the agreement of the insured person.
