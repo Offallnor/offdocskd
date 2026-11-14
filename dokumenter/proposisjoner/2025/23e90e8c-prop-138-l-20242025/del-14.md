@@ -1,1006 +1,226 @@
-# Prop. 138 L (2024–2025), del 14 av 14 (side 156–170)
+# Prop. 138 L (2024–2025), del 14 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/23e90e8c-prop-138-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-138-l-20242025/id3098046/
 - Original-PDF: https://www.regjeringen.no/contentassets/02e8ef1a347e4240aaa9ab2369fa7daa/no/pdfs/prp202420250138000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 156]
-
-154
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-nader til ordinær drift i kommunale barnehager
-som ikke dekkes av andre offentlige tilskudd og
-foreldrebetaling. Ordinære driftsutgifter knytter
-seg til de utgiftene kommunen har til basistilbudet. Ekstra kostnader til tiltak for minoritetsspråklige barn, barn med nedsatt funksjonsevne og
-andre barn med særlige behov skal holdes utenfor beregningen av tilskuddet. I private barnehager må kommunen finansiere slike tiltak særskilt, enten ved bruk av øremerkede statlige tilskudd eller frie inntekter. Etter tredje punktum er
-grunnlaget for beregningen det siste tilgjengelige
-kommuneregnskapet.
-Andre ledd første punktum angir kommunens
-adgang til å holde enkelte ordinære driftsutgifter
-utenfor beregningen av grunntilskuddet, og er
-omtalt i punkt 9.2.5.2 Utgifter som kan holdes
-utenfor beregningen av grunntilskuddet er ordinære driftsutgifter i en kommunal barnehage som
-skyldes særlige driftsforutsetninger eller særlige
-behov i barnegruppen. Med «særlige driftsforutsetninger» menes særtrekk ved en konkret barnehage, eksempelvis små barnehager med smådriftsulemper eller barnehager med en beliggenhet som skiller seg ut. Med «særlige behov i
-barnegruppen» menes særtrekk ved barnegruppen samlet sett, eksempelvis barnehager
-med høy andel barn fra familier med lav sosioøkonomisk status.
-Det er opp til kommunens frie skjønn å vurdere om den vil holde utgifter utenfor beregningsgrunnlaget eller ikke. Ved vurderingen av om en
-kommunal barnehage har særlige driftsforutsetninger eller særlige behov i barnegruppen som
-innebærer merutgifter, har kommunen et rettsanvendelsesskjønn.
-Etter andre punktum får kommunen en plikt til
-å gi ekstra grunntilskudd til private barnehager
-med tilsvarende driftsforutsetninger eller behov i
-barnegruppen, dersom den holder utgifter utenfor beregningsgrunnlaget etter andre ledd første
-punktum. Plikten er omtalt i punkt 9.2.5.3.
-I den konkrete vurderingen av hva som er «tilsvarende driftsforutsetninger eller behov i barnegruppen» må kommunen vurdere om den private
-barnehagen har tilsvarende særtrekk knyttet til
-driften. Ved vurderingen av om en privat barnehage har særlige behov i barnegruppen, er det
-ikke et krav at behovene er identiske med
-behovene i den kommunale barnehagen.
-Etter tredje punktum kan kommunen stille vilkår for bruken av det ekstra grunntilskuddet. Det
-må være saklig sammenheng mellom vilkåret og
-vedtaket og vilkåret må ikke være uforholdsmessig tyngende. Saklige og relevante hensyn
-
-2024–2025
-
-kan knytte seg til ulike forhold ved barnehagedriften. Kommunen kan for eksempel stille vilkår
-om ekstra bemanning, eller ansatte med samiskspråklig kompetanse. Det vil imidlertid i hovedsak
-være uforholdsmessig tyngende å stille vilkår om
-det konkrete pedagogiske innholdet i barnehagen, som for eksempel den pedagogiske metoden.
-Adgangen til å stille vilkår bør begrenses til tilskudd som gis som et ledd i en særskilt kommunal satsing. Dersom kommunen stiller vilkår, og
-den private barnehagen ikke oppfyller vilkåret, vil
-kommunen kunne bruke reaksjoner i tråd med
-reglene om tilsyn i lovens kapittel X.
-Tredje ledd angir en plikt for kommunen til å gi
-ekstra grunntilskudd til private barnehager ved
-innføring av nye krav etter loven som ikke er en
-del av beregningen av grunntilskuddet etter første
-ledd. Forslaget er omtalt i punkt 9.2.5.4. Bestemmelsen omfatter krav som følger av barnehageloven og krav som følger av nasjonale og lokale
-forskrifter som er fastsatt med hjemmel i barnehageloven. Bestemmelsen er ment å bidra til å
-sette private barnehager i økonomisk stand til å
-oppfylle nye krav fra det tidspunkt de får virkning
-for de private barnehagene, der de ikke allerede
-er kompensert gjennom grunntilskuddet. Plikten
-gjelder frem til kostnadene reflekteres i det alminnelige grunntilskuddet. Dersom kommunen allerede oppfyller de nye kravene, og dette er gjenspeilet i grunntilskuddet til de private barnehagene, vil ikke kommunen ha en plikt til å gi
-ekstra grunntilskudd.
-Fjerde ledd er en lovfesting av kommunens
-adgang til å gi tilleggstilskudd til private barnehager, og er omtalt i punkt 9.2.5.5. Kommunen har
-fritt skjønn i vurderingen av om det skal gis tilleggstilskudd utover det kommunen har plikt til,
-og hvor mye som eventuelt skal gis. Kommunen
-kan stille vilkår til bruken av tilskuddet. Det må
-være saklig sammenheng mellom vilkåret og vedtaket og vilkåret må ikke være uforholdsmessig
-tyngende. Saklige og relevante hensyn kan knytte
-seg til ulike forhold ved barnehagedriften. Kommunen kan for eksempel stille vilkår om ekstra
-bemanning, eller ansatte med samiskspråklig
-kompetanse. Det vil imidlertid i hovedsak være
-uforholdsmessig tyngende å stille vilkår om det
-konkrete pedagogiske innholdet i barnehagen,
-som for eksempel den pedagogiske metoden. Dersom kommunen stiller vilkår til bruken av tilskuddet, og den private barnehagen ikke oppfyller vilkåret, vil kommunen kunne bruke reaksjoner i
-tråd med reglene om tilsyn i lovens kapittel X.
-Femte ledd innebærer at eventuelle vilkår kommunen stiller etter andre ledd tredje punktum og
-
-[Side 157]
-
-2024–2025
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-fjerde ledd må ha saklig sammenheng med tilskuddet og ikke være uforholdsmessig tyngende
-for den private barnehagen.
-Sjette ledd angir en plikt for kommunen å til å
-vise hvordan tilskuddene er beregnet, og er omtalt
-i punkt 9.2.5.6. Plikten er en lovfesting av forvaltningsrettens krav til begrunnelse. Kommunen skal
-vise til de regler og de faktiske forhold vedtaket om
-tilskudd bygger på. Grundigheten av begrunnelsen
-må vurderes konkret, og beror på en avveining av
-hensynet til å oppnå forsvarlige resultater opp mot
-hensynet til tids- og ressursbruk.
-Syvende ledd viderefører dagens regel i nåværende § 19 andre ledd første punktum og angir en
-plikt for kommunen til å likebehandle private og
-kommunale barnehager ved beregning og tildeling av tilskudd til drift, der reglene åpner for
-tolkning. Bestemmelsen gir uttrykk for kommunens enkeltvedtaksplikt. Kravet innebærer at
-eventuell forskjellsbehandling må begrunnes saklig. Kravet vil innholdsmessig være likt det ulovfestede forvaltningsrettslige forbudet mot usaklig
-forskjellsbehandling ved utøvelse av forvaltningsskjønn. Se omtale i punkt 9.2.5.7.
-Åttende ledd første punktum angir en forskriftshjemmel for departementet, og er omtalt i punkt
-9.2.5.8. Forskriftshjemmelen åpner blant annet for
-at departementet kan gi nærmere forskriftsregler
-om beregningen av grunntilskuddet og unntak fra
-regelen om beregning av grunntilskuddet etter
-første ledd og adgangen til å holde utgifter utenfor
-beregningsgrunnlaget og plikten til å gi ekstra
-grunntilskudd etter andre ledd. Videre åpner forskriftshjemmelen for at det kan gis regler om
-andre unntak i forskrift, for eksempel bruk av
-sjablong og påslag. Departementet kan også gi
-forskrift om tilskudd til administrasjon. Departementet kan også gi forskrift om kommunens
-adgang til å gi tilleggstilskudd, og plikt til å gi
-ekstra grunntilskudd ved finansiering av nye krav.
-Til § 19 b Pensjonstilskudd til private barnehager
-Paragrafen er ny og er omtalt i punkt 9.3.4.
-Første ledd første punktum angir en plikt for
-kommunen til å gi tilskudd til pensjon til private
-barnehager som har rett til tilskudd etter § 19 første eller andre ledd.
-Andre punktum angir beregningsmetoden som
-kommunen skal bruke ved utmåling av pensjonstilskudd til den enkelte barnehage. Med «antall
-årsverk» i barnehagen menes ansatte i barnehagen som barnehagen har pensjonsforpliktelser
-for. Med «samlet lønn per årsverk» menes gjennomsnittlig lønn i den enkelte barnehage. Når
-
-155
-
-kommunen beregner «samlet lønn per årsverk»,
-skal pensjonsgivende inntekt legges til grunn.
-Lønnen skal vektes ut ifra stillingsprosent dersom
-noen av de ansatte jobber deltid. Kommunen skal
-legge til en sats for lokal arbeidsgiveravgift på
-pensjon, det vil si arbeidsgiveravgiften som gjelder i den enkelte kommune.
-Etter andre ledd første punktum skal prosentsatsene som skal brukes av kommunen ved beregningen av pensjonstilskuddet etter første ledd
-være differensierte og tilpasset vilkårene i ulike
-pensjonsavtaler til private barnehager. Departementet har etter siste ledd hjemmel til å gi forskrift
-om tilskudd til pensjon, og departementet vil fastsette prosentsatsene i forskrift. Andre punktum
-angir en øvre grense som den høyeste prosentsatsen som departementet fastsetter i forskrift,
-ikke skal overstige. Lov om tjenestepensjon § 4-7
-angir en grense i prosent av medlemmers samlede
-lønn som årlig innskudd ikke kan overstige. Tillegg til årlige innskudd for kvinner kommer i tillegg til disse prosentgrensene, jf. lov om tjenestepensjon § 4-7 andre ledd.
-Tredje ledd er en særregel for pensjonstilskudd til private barnehager med historiske
-pensjonsforpliktelser basert på avtaler om offentlig tjenestepensjon, og er omtalt i punkt 9.3.5.9.
-Disse barnehagene skal få dekket sine pensjonsutgifter knyttet til de historiske forpliktelsene,
-oppad begrenset til en øvre grense, og departementet skal etter andre punktum gi forskrift om
-hvilke barnehager som er omfattet av regelen og
-om den øvre grensen for dekningen. Den øvre
-grensen vil være basert på gjeldende kostnadsnivå for pensjon i de aktuelle barnehagene, og
-kostnader til pensjon til tilsvarende pensjonsordninger i kommunale barnehager.
-Etter fjerde ledd har private barnehager plikt til
-å melde fra til kommunen uten ugrunnet opphold
-dersom barnehagen inngår en ny pensjonsavtale
-med endrede pensjonsvilkår. Formålet med plikten er at kommunen skal kunne vurdere om det
-foreligger endringer i pensjonsvilkårene som tilsier at det bør benyttes en annen prosentsats for
-beregningen av pensjonstilskuddet.
-Femte ledd første punktum gir departementet
-hjemmel til å gi forskrift om tilskudd til pensjon,
-og er omtalt i punkt 9.3.5.10. Forskriftshjemmelen
-åpner blant annet for at departementet kan gi forskrift med nærmere regler om beregningen av
-pensjonstilskuddet etter første ledd, og at departementet kan gi forskrift om en midlertidig søknadsordning for pensjonstilskuddet. Departementet
-kan også gi forskrift om dokumentasjonskrav for
-barnehager som skal omfattes av særregelen i
-
-[Side 158]
-
-156
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-tredje ledd. Departementet skal gi forskrift om
-prosentsatser til bruk i beregningen av pensjonstilskuddet, jf. første og andre ledd.
-Etter andre punktum kan forskrift gitt etter
-første punktum gjøre unntak fra reglene i første
-og andre ledd. Ved fastsettelse av prosentsatser
-som nevnt i første og andre ledd, kan departementet eksempelvis fastsette egne prosentsatser
-for ansatte på lukkede ytelsesordninger, som er
-uavhengig av den øvre grensen i andre ledd andre
-punktum.
-Til § 19 c Eiendomstilskudd til private barnehager
-Paragrafen er ny og er omtalt i punkt 9.4.4.
-Første punktum angir kommunens plikt til å gi
-eiendomstilskudd til private barnehager som har
-rett til tilskudd etter § 19 første eller andre ledd.
-Eiendomstilskuddet skal bidra til å kompensere
-for rente- og avskrivningskostnader til barnehagebygg.
-Andre punktum gir departementet hjemmel til
-å gi forskrift om tildeling av, og satser for, eiendomstilskudd.
-Til § 20 Foreldrebetaling og kostpenger
-Forslaget føyer til to nye bestemmelser.
-I første ledd andre punktum foreslås det å gi
-kommunen hjemmel til å gi forskrift om lavere
-foreldrebetaling enn det som er fastsatt av
-departementet etter hjemmelen i første punktum.
-Forslaget er omtalt i punkt 8.4.4.
-Det er opp til kommunen om den ønsker å ta i
-bruk forskriftshjemmelen. Eventuell lokal forskrift om lavere foreldrebetaling skal finansieres
-av kommunen, jf. § 19 a tredje ledd.
-Andre ledd første punktum presiserer at barnehagen kan kreve betaling for kost i tillegg til foreldrebetaling. Det er ikke fastsatt en øvre grense
-for hvilket beløp barnehagen kan kreve i kostpenger. Etter andre punktum skal ikke barnehagens fastsatte kostpenger etter første punktum
-overstige de faktiske utgiftene barnehagen har til
-mat og drikke til barna. Dette inkluderer utgifter
-til tilberedning av måltidene, som utgifter til lønn
-til kokk eller kjøkkenassistent. Dersom barnehagen har kokk eller kjøkkenassistent, og disse
-også er en del av grunnbemanningen, kan kostpengene kun brukes på lønn for den tiden som
-går til matlagning. Barnehagene kan velge å
-bruke tilskudd og foreldrebetaling på mat i tillegg.
-Forslagene lovfester en praksis som tidligere har
-vært forankret i en lovtolkning fra departementet.
-Forslagene er omtalt i punkt 10.3.4.
-
-2024–2025
-
-Til § 20 a Barnehagenes åpningstid
-Paragrafen er ny, og gir kommunen hjemmel til å
-gi forskrift om krav til åpningstider for alle barnehagene i kommunen. Forslaget er omtalt i punkt
-8.2.4.
-Det er opp til kommunen om den ønsker å ta i
-bruk forskriftshjemmelen. Kommunen kan gi forskrift om minimum og maksimum daglig åpningstid og feriestengt, og kan fastsette ulik åpningstid i
-ulike deler av kommunen for å ivareta flere hensyn, som hensynet til foreldrenes behov eller hensynet til en tilstrekkelig bemanning.
-Til § 22 Barnehagens nærstående
-Forslaget endrer den nåværende definisjonsbestemmelsen og er omtalt i punkt 10.2.4.
-I første ledd er henvisningen til aksjeloven
-fjernet og det lovfestes en egen definisjon av hva
-som menes med nærstående, i form av en opplisting av angitte kategorier.
-Bokstav a angir som nærstående fysiske og
-juridiske personer som direkte eller indirekte eier
-eller kontrollerer barnehagen med minst 50 prosent.
-Bokstav b lister opp styremedlem, daglig leder
-eller annen fysisk person med beslutningsmyndighet i barnehagen. Personer med beslutningsmyndighet kan være barnehagestyrer med beslutnings- og disponeringsmyndighet, navngitte personer med signaturrett og prokurister.
-I bokstav c inkluderes også foreldre, søsken,
-barn, barnebarn, ektefelle, samboer, ektefelles
-foreldre og samboers foreldre til fysisk person
-etter bokstavene a og b.
-I bokstav d inngår selskaper og andre organisasjoner som direkte eller indirekte, eies eller kontrolleres med minst 50 prosent av nærstående
-etter bokstav a, b eller c.
-Nåværende andre ledd oppheves da definisjonen av konsern dekkes av bokstavene a og d.
-Til § 23 Krav til bruk av offentlige tilskudd og foreldrebetaling i private barnehager
-Første ledd har fått en noe annen ordlyd, men
-viderefører at kostnader relatert til andre aktiviteter enn det som faller innenfor godkjent barnehagedrift, ikke kan kostnadsføres i barnehagens
-regnskap. Første ledd presiserer at kostnadene
-bare skal ha et omfang som er rimelig for å oppnå
-formålet med anskaffelsen eller ytelsen og må ses
-i sammenheng med barnehageloven § 21 andre
-ledd om at offentlige tilskudd og foreldrebetaling
-
-[Side 159]
-
-2024–2025
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-skal komme barna i barnehagen til gode. Bestemmelsen er omtalt i punkt 10.1.4.
-Bestemmelsen angir at offentlige tilskudd og
-foreldrebetaling som den private barnehagen mottar, bare kan benyttes til å dekke kostnader som
-direkte gjelder godkjent drift av barnehagen og
-som har et omfang som er rimelig for å oppnå formålet med anskaffelsen eller ytelsen. Det betyr at
-både type kostnad og kostnadens omfang skal
-vurderes opp mot barnehageloven § 23 første ledd
-og kravet om at private barnehager bare kan
-dekke kostnader som direkte gjelder godkjent
-drift av barnehagen.
-Bestemmelsen er ment å tydeliggjøre at
-barnehagen ikke kan kjøpe varer og tjenester
-som går utover barnehagens behov, og som dermed ikke kommer barna i barnehagen til gode.
-Anskaffelsen må være til bruk i barnehagen og
-ha en naturlig og nær tilknytning til barnehagedriften.
-Det er ikke slik at ethvert avvik fra det rimeligste mulige omfanget på varen eller tjenesten vil
-være lovstridig, så lenge anskaffelsen eller ytelsen
-samlet sett fremstår som rasjonell for barnehagen. Det skal være rom for å prioritere ulikt, og
-myndighetene skal også være forsiktige med å
-gripe inn mot «dårlige» disposisjoner når det ikke
-er mistanke om at noen har beriket seg uberettiget. Området for regelen vil være tilfeller der det
-kan være kryss-subsidiering eller andre former
-for uberettiget uttak av midler.
-I andre ledd foreslås det en språklig endring i
-første punktum som følge av at definisjonen av
-nærstående er endret, jf. endringen i § 22. Kravet
-om at barnehagen ikke skal foreta transaksjoner
-overfor nærstående på vilkår som avviker fra det
-som ville vært fastsatt mellom uavhengige parter,
-viderefører at transaksjonen ikke må overstige det
-som ville vært fastsatt mellom uavhengige parter.
-At transaksjonen er på vilkår som er gunstigere
-for barnehagen enn det som er markedsmessig,
-er tillatt. Eksempel på en slik transaksjon, er
-lavere husleie enn det som ville vært fastsatt mellom uavhengige parter.
-Andre punktum er nytt og innebærer at transaksjoner med fysiske eller juridiske personer som
-har en felles økonomisk interesse med den som er
-ansvarlig for barnehagen eller med barnehagens
-nærstående også skal skje på markedsmessige vilkår. Bestemmelsen er avgrenset til økonomiske
-interessefellesskap den eller de som er ansvarlig
-for barnehagen kan ha med en tredjepart og som
-ivaretar egen økonomisk interesse fremfor barnehagens interesser, og er ikke ment å omfatte alle
-avtaleforhold barnehagen inngår.
-
-157
-
-Fjerde ledd er nytt og er omtalt i punkt 10.4.4
-Det lovfestes at barnehagen ikke skal låne ut
-midler som stammer fra offentlige tilskudd eller
-foreldrebetaling. Kortsiktige utlån i form av en
-konsernkontoordning er ikke omfattet av forbudet. Et hvert utlån til noen utenfor konsernkontoordningen vil være ulovlig etter lovforslaget. Transaksjoner innenfor konsernkontoordningen må være innenfor daglig drift av
-barnehagene.
-Nåværende fjerde og femte ledd videreføres i
-femte og sjette ledd.
-Til 23 c Meldeplikt for private barnehager
-Det foreslås en språklig endring i første punktum
-for å endre til begrepet «barnehagen». Forslaget
-medfører ingen realitetsendringer. Videre foreslås
-det en tilføyelse i første punktum om at meldeplikten også skal gjelde overføring av eiendom.
-Dette vil gjelde kjøp og salg av eiendom, overføring av rettigheter knyttet til eiendommen, og
-også overføring av tomt uten eiendomsrett til
-bygget.
-I tillegg foreslås det et nytt andre punktum
-som pålegger barnehagen at meldingen skal gis
-så snart endringen er besluttet. Eksempelvis vil
-overføring av eiendom anses besluttet når det er
-inngått avtale om kjøp eller salg av eiendom og
-salgsdokumenter er signert.
-Bestemmelsen er omtalt i punkt 11.5.
-Til § 25 Pedagogisk bemanning
-Tredje ledd er nytt, og gir kommunen hjemmel til å
-gi forskrift om pedagogisk bemanning og annen
-relevant kompetanse utover det departementet
-har fastsatt i forskrift etter andre ledd. Bestemmelsen er omtalt i punkt 8.3.4.
-Kommunen kan i forskriften stille krav til at
-alle barnehagene i kommunen skal ha en viss
-pedagogisk bemanning. Det er opp til kommunen
-om den ønsker å ta i bruk forskriftshjemmelen, og
-eventuelle lokale forskriftskrav skal finansieres av
-kommunen.
-Lokal forskrift om pedagogisk bemanning og
-annen relevant kompetanse vil ikke innebære en
-enhetlig detaljregulering av personalsammensetningen, og vil ikke være i veien for at barnehagene i kommunen kan bestemme over personalsammensetningen for øvrig, i tråd med eget behov.
-Ved innføring av lokal forskrift må kommunen
-vurdere hvordan barnehager med særskilte profiler og behov skal forholde seg kravene, eksempelvis samiske barnehager med behov for samisk-
-
-[Side 160]
-
-158
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-språklige ansatte eller montessoribarnehager
-med behov for montessoripedagoger.
-En lokal forskrift om pedagogisk bemanning
-vil måtte inneholde unntaksmuligheter fra de
-lokalt fastsatte kravene når det er særlig behov for
-dette, for eksempel der kravene ikke lar seg oppfylle på grunn av mangel på kvalifisert personell.
-Til § 26 Grunnbemanning
-Det foreslås et nytt andre ledd tredje punktum, som
-gir kommunen hjemmel til å gi forskrift om krav til
-høyere bemanning enn det som følger av første
-punktum. Bestemmelsen er omtalt i punkt 8.3.4.
-Det er opp til kommunen om den ønsker å ta i
-bruk forskriftshjemmelen, og eventuelle lokale
-forskriftskrav skal finansieres av kommunen.
-En lokal forskrift om krav til høyere bemanning vil måtte inneholde unntaksmuligheter fra de
-lokalt fastsatte kravene når det er særlig behov for
-dette, for eksempel der kravene ikke lar seg oppfylle på grunn av mangel på kvalifisert personell.
-I tredje ledd andre punktum gjøres det en
-språklig endring som følge av at departementet
-har foreslått å bruke begrepet «barnehagen» i stedet for «barnehageeier» i bestemmelser som
-omhandler plikter som gjelder for barnehagen.
-Til § 27 Krav om norskferdigheter for å bli ansatt
-i barnehage
-Det foreslås en språklig endring i tredje ledd som
-følge av at departementet har foreslått å bruke
-begrepet «barnehagen» i stedet for «barnehageeier» i bestemmelser som omhandler plikter som
-gjelder for barnehagen.
-Til § 28 Krav om norskferdigheter for personer med
-utenlandske yrkeskvalifikasjoner som styrer eller
-pedagogisk leder
-Det foreslås en språklig endring i andre ledd som
-følge av at departementet har foreslått å bruke
-begrepet «barnehagen» i stedet for «barnehageeier» i bestemmelser som omhandler plikter som
-gjelder for barnehagen.
-Til § 29 Forbud mot bruk av klesplagg som helt eller
-delvis dekker ansiktet
-Det foreslås en språklig endring i tredje ledd første
-punktum som følge av at departementet har foreslått å bruke begrepet «barnehagen» i stedet for
-«barnehageeier» i bestemmelser som omhandler
-plikter som gjelder for barnehagen.
-
-2024–2025
-
-Til § 30 Politiattest
-Det foreslås en språklig endring i andre ledd som
-følge av at departementet har foreslått å bruke
-begrepet «barnehagen» i stedet for «barnehageeier» i bestemmelser som omhandler plikter som
-gjelder for barnehagen.
-Til § 42 Plikt til å sikre at barnehagebarna har et trygt
-og godt psykososialt barnehagemiljø (aktivitetsplikt)
-Det foreslås en språklig endring i andre ledd
-andre punktum for å presisere at styrer skal
-melde fra til den som er ansvarlig for barnehagen etter § 7.
-Til § 43 Skjerpet aktivitetsplikt dersom en som arbeider
-i barnehagen, krenker et barn
-Det foreslås en språklig endring i første ledd andre
-punktum og andre ledd for å presisere det skal
-meldes fra til den som er ansvarlig for barnehagen
-etter § 7.
-Til § 49 Plikt til å gi opplysninger til barnets bostedskommune
-Det foreslås en språklig endring som følge av at
-departementet har foreslått å bruke begrepet
-«barnehagen» i stedet for «barnehageeier» i
-bestemmelser som omhandler plikter som gjelder
-for barnehagen.
-Til § 51 Øvingsopplæring
-Det foreslås en språklig endring i første ledd som
-følge av at departementet har foreslått å bruke
-begrepet «barnehagen» i stedet for «barnehageeier» i bestemmelser som omhandler plikter som
-gjelder for barnehagen.
-Til 53 Kommunens tilsyn med barnehagene
-I første ledd gjøres det en språklig tilføyelse for å
-presisere at kommunen kan føre tilsyn med at
-barnehagene drives i samsvar med rammene
-som er satt for barnehagens godkjenninger.
-Både vedtak om etableringsgodkjenning og vedtak om godkjenning av barnehagedriften vil,
-sammen med kravene som følger av barnehageloven med forskrifter, danne rammene for barnehagedriften. Bestemmelsen er omtalt i punkt
-6.5.2.
-Tredje ledd er nytt og er omtalt i punkt 12.5.1.
-Kommunen kan bruke hjemmelen i tilfeller der en
-
-[Side 161]
-
-2024–2025
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-privat barnehage ikke oppfyller krav som følger av
-barnehageloven, nasjonale eller lokale forskrifter
-gitt med hjemmel i barnehageloven eller vilkår
-som kommunen har stilt med hjemmel i loven.
-Kommunen kan ikke holde tilbake, redusere eller
-kreve tilbakebetalt tilskudd dersom regelverksbruddet forelå før disse reaksjonshjemlene trer i
-kraft.
-Den foreslåtte hjemmelen gjør det for eksempel mulig for kommunen å trekke tilbake tilskudd
-dersom en barnehage ikke har oppfylt lokale forskriftskrav som det er tatt hensyn til ved tilskuddsberegningen. Kommunen vil også kunne
-bruke hjemmelen ved brudd på nasjonalt fastsatte
-krav, eksempelvis der en barnehage ikke oppfyller
-nasjonale krav til bemanning eller pedagogtetthet.
-I slike tilfeller kan kommunen for eksempel redusere tilskuddet barnehagen mottar, med et beløp
-tilsvarende det barnehagen sparer på å ikke oppfylle kravene, frem til barnehagen oppfyller de
-aktuelle kravene. Tilsvarende kan kommunen
-kreve tilbakebetalt tilskudd for en periode tilbake
-i tid der en barnehage har latt være å oppfylle krav
-til bemanning eller pedagogtetthet. Videre kan
-kommunen holde tilbake tilskudd for å sikre at
-kravene i loven følges.
-Det er i stor grad opp til kommunen å vedta
-hvilket reaksjonsmiddel som er hensiktsmessig å
-anvende i det aktuelle tilfellet, men vedtak om tilbakehold, reduksjon eller tilbakebetaling av tilskudd skal stå i forhold til regelbruddets art og
-økonomiske betydning. Vurderingen vil bero på
-blant annet hvilket regelbrudd man står overfor,
-alvorlighetsgraden av regelbruddet, og hva som
-er en hensiktsmessig løsning. Kommunen kan
-innenfor rammene av øvrig regelverk vurdere
-hvordan en eventuell reaksjon bør gjennomføres
-med tanke på frister, avbetalingsterminer og lignende praktiske forhold.
-Kommunens vedtak om reaksjoner vil være
-enkeltvedtak etter forvaltningsloven. Statsforvalteren vil, som i dag, være klageinstans for kommunens vedtak om bruk av reaksjoner i tilsynssaker. Se forslaget til endringer i § 12.
-Til § 56 Utdanningsdirektoratets tilsyn med
-økonomiske forhold i private barnehager
-I første ledd foreslås det å lovfeste at Utdanningsdirektoratet kan føre tilsyn med bruk av kostpenger i private barnehager, jf. § 20 andre ledd
-andre punktum.
-Kommunen kan føre tilsyn med både private
-og kommunale barnehagers bruk av kostpenger,
-jf. barnehageloven § 53 første ledd, mens Utdan-
-
-159
-
-ningsdirektoratet får hjemmel til å føre tilsyn med
-de private barnehagenes bruk av kostpenger. Forslaget er omtalt i punkt 13.5.
-I tredje ledd foreslås det å lovfeste at Utdanningsdirektoratet kan fatte vedtak om at tilskudd til
-barnehagen kan reduseres ved brudd på kravene
-til bruk av kostpenger i § 20 andre ledd andre
-punktum, kapittel V med forskrifter eller § 9 om
-internkontroll. Bakgrunnen for forslaget er at
-Utdanningsdirektoratet bør ha tilgang til de samme
-reaksjonsmidlene som kommunen. Den foreslåtte
-hjemmelen til å fatte vedtak om at tilskudd til en
-privat barnehage skal reduseres, gjelder kun ved
-regelverksbrudd som foreligger etter at reaksjonshjemmelen trer i kraft. Det er kommunen som forvalter det offentlige tilskuddet til private barnehager. Dersom Utdanningsdirektoratet vedtar at tilskuddet til en privat barnehage skal reduseres, må
-direktoratet samarbeide med kommunen om dette.
-Forslaget er omtalt i punkt 12.4.2.
-I fjerde ledd foreslås det å lovfeste at Utdanningsdirektoratet kan fatte vedtak om at barnehagen skal betale tilskudd tilbake til kommunen
-ved brudd på kravene til bruk av kostpenger i § 20
-andre ledd andre punktum. Barnehagen kan ikke
-bruke tilskudd og foreldrebetaling til å dekke
-denne typen tilbakebetalingskrav. Dette er en
-følge av at tilskudd og egenbetaling bare kan
-belastes kostnader som direkte gjelder godkjent
-drift av barnehagen, jf. § 23 første ledd. Utdanningsdirektoratets vedtak skal inneholde eventuelle terminer for tilbakebetaling. Den foreslåtte
-reaksjonshjemmelen gjelder kun ved regelverksbrudd som foreligger etter at reaksjonshjemmelen trer i kraft.
-Et vedtak om tilbakehold, reduksjon eller tilbakebetaling av tilskudd skal stå i forhold til regelbruddets art og økonomiske betydning. Vurderingen vil bero på blant annet hvilket regelbrudd
-man står ovenfor, alvorlighetsgraden av regelbruddet, og hva som er en hensiktsmessig løsning. Kostpenger er øremerkede midler til mat og
-tilberedning av mat til barna. Summen på kostpengene er en del av avtalen som inngås mellom
-barnehagen og foreldrene, og barnehageloven
-regulerer ikke denne avtalen. Dersom en barnehage har betalt kostpenger tilbake til foreldrene
-fordi det foreligger et avtalebrudd, kan det tilsi at
-direktoratet ikke bør fatte vedtak om tilbakebetaling av tilskudd til kommunen. I et slikt tilfelle
-kan et vedtak om pålegg om retting være en mer
-forholdsmessig reaksjon. Forslaget er omtalt i
-punkt 13.5.
-I syvende ledd foreslås det en språklig endring i
-tredje ledd tredje punktum som følge av at
-
-[Side 162]
-
-160
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-departementet har foreslått å bruke begrepet
-«barnehagen» i stedet for «barnehageeier» i
-bestemmelser som omhandler plikter som gjelder
-for barnehagen.
-Åttende ledd er nytt og er omtalt i punkt 14.5.
-Det må foreligge behov for å hente inn opplysninger fra barnehagens regnskapsfører, revisor
-eller bank. Det er barnehagen som er part i saken
-og Utdanningsdirektoratet må derfor først forsøke å etterspørre opplysninger direkte fra barnehagen og eventuelt barnehagens nærstående.
-Hjemmelen til å kreve opplysninger fra barnehagens regnskapsfører, revisor og bank skal kun
-benyttes i tilfeller hvor det ikke er mulig å få
-saken tilstrekkelig opplyst fra barnehagen og
-barnehagens nærstående. Det kan for eksempel
-være tilfeller der barnehagen eller den nærstå-
-
-2024–2025
-
-ende ikke kan eller ønsker å framskaffe opplysningene, men også tilfeller der det er grunn til å
-tvile på om opplysningene fra barnehagen eller de
-nærstående er riktige eller fullstendige. Bestemmelsen gir ikke hjemmel for å be om opplysninger
-om noens personlige forhold etter forvaltningsloven § 13 første ledd nr. 1.
-Kunnskapsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et fremlagt forslag til proposisjon til Stortinget om
-endringer i barnehageloven (styring og finansiering av barnehagesektoren).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i barnehageloven (styring og finansiering
-av barnehagesektoren) i samsvar med et vedlagt forslag.
-
-[Side 163]
-
-2024–2025
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-161
-
-Forslag
-til lov om endringer i barnehageloven
-(styring og finansiering av barnehagesektoren)
-I
-I lov 17. juni 2005 nr. 64 om barnehager gjøres
-følgende endringer:
-§ 1a overskriften skal lyde:
-§ 1 a Særlig formål
-§ 1 a første ledd skal lyde:
-Private barnehager kan i vedtektene
-bestemme at verdiene i loven § 1 ikke skal forankres i den kristne og humanistiske arv og tradisjon.
-§ 2 åttende ledd skal lyde:
-Barnehagen kan tilpasse rammeplanen til
-lokale forhold.
-§ 4 tredje ledd tredje punktum skal lyde:
-Barnehagen kan delta etter eget ønske, men ikke
-med flere representanter enn hver av de andre
-gruppene.
-§ 4 fjerde ledd skal lyde:
-Barnehagen skal sørge for at saker av viktighet
-forelegges foreldrerådet og samarbeidsutvalget.
-§ 6 skal lyde:
-§ 6 Virksomhetens plikt til å søke godkjenning
-Virksomheter som har ansvar for barn under
-opplæringspliktig alder, plikter å søke godkjenning av barnehagedriften etter § 14 a når:
-a. virksomheten er regelmessig og ett eller flere
-barn har en ukentlig oppholdstid på mer enn
-20 timer, og
-b. antall barn som er til stede samtidig er ti eller
-flere når barna er tre år eller eldre, eventuelt
-fem eller flere når barna er under tre år, og
-c. virksomheten utføres mot godtgjøring.
-Virksomheter etter første ledd må være godkjent etter § 14 a før barnehagedriften settes i
-gang.
-Barnehagen skal søke om godkjenning av
-endringer som går utover rammene som er satt for
-barnehagens godkjenning etter §§ 14 eller 14 a.
-
-§ 7 skal lyde:
-§ 7 Ansvaret for barnehagen
-Kommunen har ansvaret for at kommunale
-barnehager drives i samsvar med loven.
-Styret for et rettssubjekt som driver en privat
-barnehage, har ansvaret for at barnehagen drives i
-samsvar med loven. Dersom barnehagens organisasjonsform innebærer at det ikke er krav om å ha et
-styre, tilligger ansvaret det bestemmende organ som
-gjelder for barnehagens organisasjonsform. For
-barnehager som drives som enkeltpersonforetak, er
-det den fysiske personen som innehar enkeltpersonforetaket som er ansvarlig.
-§ 7a tredje ledd skal lyde:
-Første ledd gjelder ikke for åpne barnehager
-og ikke for eiere som alene, sammen med nærstående eller selskap i samme konsern eier
-a. ordinære barnehager med til sammen færre
-enn tretti barn, eller
-b. familiebarnehager med til sammen færre enn
-ti barn.
-§ 8 skal lyde:
-Kommunale og private barnehager skal ha
-vedtekter. Vedtektene skal gi opplysninger som er
-av betydning for foreldrenes forhold til barnehagen, herunder om
-a. eierforhold
-b. formål, jf. §§ 1 og 1 a
-c. opptakskriterier
-d. antall medlemmer i samarbeidsutvalget
-e. barnehagens åpningstid
-§ 9 første ledd skal lyde:
-Barnehagen skal ha internkontroll for å sikre
-at kravene i denne loven med forskrifter følges.
-§ 9 tredje ledd skal lyde:
-Ved internkontroll etter denne paragrafen skal
-barnehagen
-a. utarbeide en beskrivelse av barnehagens
-hovedoppgaver, mål og organisering
-b. ha nødvendige rutiner og prosedyrer
-
-[Side 164]
-
-162
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-c. avdekke og følge opp avvik og risiko for avvik
-d. dokumentere internkontrollen i den formen
-og det omfanget som er nødvendig
-e. evaluere og ved behov forbedre skriftlige prosedyrer og andre tiltak for internkontroll.
-§ 12 skal lyde:
-§ 12 Særlige regler om klageinstans
-Statsforvalteren er klageinstans for vedtak
-fattet av kommunen eller fylkeskommunen etter
-§§ 14 første og andre ledd, 14 a, 15, 19 første og
-andre ledd, 19 a første til fjerde ledd, 19 b første og
-tredje ledd, 19 c, §§ 24 til 26, §§ 35 til 38, § 53 og
-der det følger av forskrift gitt i medhold av denne
-loven.
-Ny § 14 skal lyde:
-§ 14 Etableringsgodkjenning av private barnehager
-Kommunen kan godkjenne søknader om etablering av private barnehager og søknader om
-endringer i etableringsgodkjenningen. Kommunen skal legge vekt på behovet for nye barnehageplasser og barnehagestrukturen i kommunen. I tillegg kan kommunen legge vekt på om barnehagen er ordinær, familiebarnehage eller åpen
-barnehage, om barnehagen har et særskilt pedagogisk tilbud, om barnehagen er ideell og søkerens seriøsitet og egnethet. Med ideelle barnehager menes barnehager som ikke har erverv til
-formål og som reinvesterer overskudd i barnehagedrift.
-Kommunen kan ved etableringsgodkjenningen
-stille vilkår som har saklig sammenheng med
-godkjenningen, og som ikke er uforholdsmessig
-tyngende for barnehagen.
-En etableringsgodkjenning faller bort dersom
-barnehagedriften ikke er startet opp i løpet av fem
-år etter at godkjenningen ble gitt eller barnehagedriften legges ned.
-Departementet kan gi forskrift om godkjenning og drift av familiebarnehager.
-Nåværende § 14 blir § 14 a og skal lyde:
-§ 14 a Driftsgodkjenning av kommunale og private
-barnehager
-Kommunen avgjør søknader om godkjenning
-av barnehagedriften og endringer av driften ved
-godkjente barnehager etter en vurdering av barnehagens egnethet ut fra formål og innhold, jf. §§ 1,
-1 a og 2.
-Kommunen kan ved godkjenningen av barnehagedriften sette krav om antall barn, barnas alder
-og oppholdstid begrunnet i barnehagens egnethet
-ut fra formål og innhold, jf. §§ 1, 1 a og 2.
-
-2024–2025
-
-Ny § 14 b skal lyde:
-§ 14 b Midlertidig godkjenning i en situasjon med
-svært mange fordrevne
-Departementet kan gi forskrift om midlertidig
-godkjenning ved etablering av barnehager og
-barnehageplasser som opprettes for å dekke et
-midlertidig behov som følge av at det kommer
-svært mange fordrevne barn under opplæringspliktig alder fra Ukraina.
-Departementet kan gi forskrift om unntak fra
-kravene til organisering i § 7 a for ordinære barnehager som har fått midlertidig godkjenning etter
-forskrift med hjemmel i første ledd.
-Nåværende § 14 a blir ny § 14 c
-§ 15 første og andre ledd skal lyde:
-Kommunen kan godkjenne etablering av private
-familiebarnehager og endringer ved godkjente
-familiebarnehager. Reglene i §§ 14 og 19 gjelder tilsvarende.
-Godkjenning av barnehagedriften for kommunale og private familiebarnehager etter § 14 a
-omfatter virksomhetens organisering og det
-enkelte hjems egnethet som lokale for familiebarnehagedrift.
-Nåværende andre ledd blir tredje ledd.
-§ 17 første ledd skal lyde:
-Alle godkjente barnehager i kommunen skal
-samarbeide om opptak av barn. Private barnehager
-skal ved opptak av barn fra andre kommuner melde
-fra til kommunen barnehagen er etablert i og til kommunen der barnet er bosatt. Kommunen skal legge
-til rette for en samordnet opptaksprosess, der det
-tas hensyn til barnehagenes mangfold og egenart.
-Brukernes ønsker og behov skal tillegges stor vekt
-ved selve opptaket. Ved en samordnet opptaksprosess skal likebehandling av barn og likebehandling av kommunale og private barnehager
-sikres.
-§ 19 skal lyde:
-§ 19 Kommunalt tilskudd til private barnehager
-Private barnehager med etableringsgodkjenning
-etter § 14 har rett til tilskudd. Kommunen skal gi
-tilskudd til private barnehager som har rett til tilskudd etter første punktum og som har driftsgodkjenning etter § 14 a.
-Kommunen skal gi tilskudd til private barnehager som hadde rett til tilskudd da § 14 om etableringsgodkjenning trådte i kraft. Retten til tilskudd
-
-[Side 165]
-
-2024–2025
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-etter første punktum faller bort dersom barnehagedriften ikke er startet opp innen 1. juni 2031 eller
-barnehagedriften legges ned.
-Regler om tilskudd til private barnehager skal
-særlig legge til rette for likebehandling av private og
-kommunale barnehagetilbud, forutsigbarhet for private barnehager, en mangfoldig barnehagestruktur
-og effektiv ressursbruk.
-Ny § 19 a skal lyde:
-§ 19 a Driftstilskudd til private barnehager
-Kommunen skal gi grunntilskudd til private
-barnehager som har rett til tilskudd etter § 19
-første eller andre ledd. Grunntilskuddet skal
-beregnes ut fra ordinære driftsutgifter i kommunale barnehager, fratrukket administrasjonsutgifter, pensjonsutgifter, arbeidsgiveravgift på
-pensjonsutgifter og utgifter som dekkes av andre
-tilskudd enn rammetilskuddet til kommunen og
-pålagte kommunale egenandeler knyttet til slike
-tilskudd. Grunnlaget for beregningen er det siste
-tilgjengelige kommuneregnskapet.
-Kommunen kan holde ordinære driftsutgifter i
-en kommunal barnehage som skyldes særlige
-driftsforutsetninger eller særlige behov i barnegruppen, utenfor beregningen av grunntilskuddet
-etter første ledd. Dersom kommunen holder
-utgifter utenfor beregningsgrunnlaget etter første
-punktum, skal kommunen gi ekstra grunntilskudd
-til private barnehager med tilsvarende driftsforutsetninger eller behov i barnegruppen. Kommunen
-kan stille vilkår for bruken av det ekstra grunntilskuddet.
-Ved innføring av nye krav etter loven som ikke
-er en del av beregningen av grunntilskuddet etter
-første ledd tredje punktum, skal kommunen gi
-ekstra grunntilskudd fra det tidspunktet kravene
-får virkning for private barnehager.
-Kommunen kan gi tilleggstilskudd og stille vilkår for bruken av dette tilskuddet.
-Vilkår kommunen stiller etter andre ledd
-tredje punktum og fjerde ledd må ha saklig sammenheng med tilskuddet og ikke være uforholdsmessig tyngende for den private barnehagen.
-Kommunen skal vise hvordan tilskuddene er
-beregnet.
-Kommunen skal likebehandle kommunale og
-private barnehager ved beregning og tildeling av
-tilskudd til drift.
-Departementet kan gi forskrift om tilskudd til
-drift. Forskrift etter første punktum kan gjøre unntak fra reglene i første og andre ledd.
-
-163
-
-Ny § 19 b skal lyde:
-§ 19 b Pensjonstilskudd til private barnehager
-Kommunen skal gi pensjonstilskudd til private
-barnehager som har rett til tilskudd etter § 19
-første eller andre ledd. Pensjonstilskuddet skal
-beregnes ved å gange antall årsverk i barnehagen
-med samlet lønn per årsverk i barnehagen, en prosentsats basert på pensjonsvilkårene til den
-enkelte barnehage og lokal arbeidsgiveravgift.
-Prosentsatser for beregning av pensjonstilskudd etter første ledd skal være differensierte
-og tilpasset vilkårene i ulike pensjonsavtaler til private barnehager. Den høyeste prosentsatsen skal
-ikke overstige grensene for årlig innskudd etter
-lov om tjenestepensjon § 4-7. Ved fastsetting av
-den høyeste prosentsatsen skal det gjøres fratrekk av vanlig egenandel for ansatte i kommunale
-barnehager og legges til anslag på kostnader til tilleggsprodukter og anslag på kostnader til AFP.
-Private barnehager med historiske forpliktelser basert på avtaler om offentlig tjenestepensjon,
-skal få dekket sine pensjonsutgifter opp til en øvre
-grense. Departementet skal gi forskrift om hvilke
-barnehager som har rett til pensjonstilskudd etter
-første punktum og om en øvre grense for dekningen.
-Private barnehager skal melde fra til kommunen uten ugrunnet opphold dersom de inngår en
-ny pensjonsavtale med endrede pensjonsvilkår.
-Departementet kan gi forskrift om tilskudd til
-pensjon. Forskrift gitt etter første punktum kan
-gjøre unntak fra reglene i første og andre ledd.
-Ny § 19 c skal lyde:
-§ 19 c Eiendomstilskudd til private barnehager
-Kommunen skal gi eiendomstilskudd til private barnehager som har rett til tilskudd etter § 19
-første eller andre ledd. Departementet skal gi forskrift om tildeling av, og satser for, eiendomstilskudd.
-§ 20 skal lyde:
-§ 20 Foreldrebetaling og kostpenger
-Departementet kan gi forskrift om foreldrebetaling i barnehagen, blant annet om søskenmoderasjon, inntektsgradering og maksimalgrense. Kommunen kan gi forskrift om en lavere
-foreldrebetaling enn det som følger av forskrift gitt
-etter første punktum.
-Barnehagen kan kreve betaling for kost i tillegg
-til foreldrebetalingen. Kostpengene skal ikke overstige de faktiske utgiftene barnehagen har til mat og
-drikke til barna.
-
-[Side 166]
-
-164
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-Ny § 20 a skal lyde:
-§ 20 a Barnehagenes åpningstid
-Kommunen kan gi forskrift om krav til åpningstider for barnehagene i kommunen.
-§ 22 skal lyde:
-§ 22 Definisjon av nærstående
-Med barnehagens nærstående menes
-a. fysiske eller juridiske personer som, direkte eller
-indirekte, eier eller kontrollerer barnehagen
-med minst 50 prosent
-b. styremedlem, daglig leder eller annen fysisk person med beslutningsmyndighet i barnehagen
-c. foreldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre til
-fysisk person etter bokstavene a og b
-d. selskaper mv. som direkte eller indirekte, eies
-eller kontrolleres med minst 50 prosent av nærstående etter bokstav a, b eller c
-§ 23 første til fjerde ledd skal lyde:
-§ 23 Krav til bruk av offentlige tilskudd og foreldrebetaling i private barnehager
-Offentlig tilskudd og foreldrebetaling som en
-barnehage mottar, kan bare benyttes til å dekke
-kostnader som direkte gjelder godkjent drift av
-barnehagen og som har et omfang som er rimelig
-for å oppnå formålet med anskaffelsen eller ytelsen.
-Barnehagen skal ikke foreta transaksjoner
-overfor nærstående på vilkår som avviker fra det
-som ville vært fastsatt mellom uavhengige parter.
-Dette gjelder også transaksjoner med fysiske eller
-juridiske personer som har en felles økonomisk
-interesse med den som er ansvarlig for barnehagen,
-eller med nærstående.
-Barnehagen skal ikke ha vesentlig lavere
-personalkostnad per heltidsplass enn det som er
-vanlig i tilsvarende kommunale barnehager.
-Barnehagen skal ikke låne ut midler som
-stammer fra offentlige tilskudd eller foreldrebetaling. Kortsiktige utlån i form av en konsernkontoordning omfattes ikke av forbudet i første
-punktum.
-Nåværende fjerde og femte ledd blir femte og
-sjette ledd.
-§ 23 c skal lyde:
-§ 23 c Meldeplikt for private barnehager
-Barnehagen skal melde fra til kommunen og
-Utdanningsdirektoratet ved nedleggelse, eierskifte, overføring av eiendom og andre organisatoriske endringer. Meldingen skal gis så snart endringen er besluttet. Departementet kan gi forskrift
-
-2024–2025
-
-om hva som skal regnes som organisatoriske
-endringer og om hvordan meldeplikten skal
-gjennomføres.
-§ 25 nytt tredje ledd skal lyde:
-Kommunen kan gi forskrift om pedagogisk
-bemanning og annen relevant kompetanse utover
-det departementet har fastsatt i forskrift etter andre
-ledd.
-§ 26 andre ledd nytt tredje punktum skal lyde:
-Kommunen kan gi forskrift om krav til høyere
-bemanning enn det som følger av første punktum.
-§ 26 tredje ledd andre punktum skal lyde:
-Barnehagen skal legge uttalelse fra barnehagens
-samarbeidsutvalg ved søknaden.
-§ 27 tredje ledd skal lyde:
-Dersom det er pedagogisk forsvarlig, kan
-barnehagen ansette personer som ikke oppfyller
-kravet til norskprøve.
-§ 28 andre ledd skal lyde:
-Barnehagen kan godta annen dokumentasjon
-av norskferdigheter.
-§ 29 tredje ledd første punktum skal lyde:
-Dersom noen bruker klesplagg i strid med
-forbudet, skal barnehagen eller kommunen gi
-personen pålegg om å fjerne plagget.
-§ 30 andre ledd skal lyde:
-Barnehagen og kommunen som barnehagemyndighet kan kreve politiattest som nevnt i
-første ledd for andre personer som regelmessig
-oppholder seg i barnehagen eller har vesentlig
-innflytelse på barnehagens drift.
-§ 42 andre ledd andre punktum skal lyde:
-I alvorlige tilfeller skal styreren melde fra til den
-som er ansvarlig for barnehagen etter § 7.
-§ 43 første ledd andre punktum skal lyde:
-Styreren skal melde fra til den som er ansvarlig for
-barnehagen etter § 7.
-§ 43 andre ledd skal lyde:
-Dersom en som arbeider i barnehagen, får
-mistanke om eller kjennskap til at styreren i barnehagen krenker et barn med for eksempel utestenging, mobbing, vold, diskriminering eller trakassering, skal vedkommende melde fra direkte til
-den som er ansvarlig for barnehagen etter § 7.
-
-[Side 167]
-
-2024–2025
-
-Prop. 138 L
-Endringer i barnehageloven (styring og finansiering av barnehagesektoren)
-
-§ 49 skal lyde:
-Barnehagen plikter å gi barnets bostedskommune de opplysningene som er nødvendige
-for å kunne føre et register som nevnt i § 10 fjerde
-ledd.
-§ 51 første ledd skal lyde:
-Barnehagen plikter å stille barnehagen til disposisjon for øvingsopplæring for studenter som
-tar barnehagelærerutdanning.
-§ 53 første ledd skal lyde:
-Kommunen fører tilsyn med at barnehagene
-drives i samsvar med denne loven med forskrifter
-og med rammene som er satt for godkjenningene,
-med unntak av bestemmelsene i kapittel V med
-forskrifter.
-§ 53 nytt tredje ledd skal lyde:
-Kommunen kan fatte vedtak om at tilskudd til
-barnehagen skal holdes tilbake, reduseres eller
-betales tilbake til kommunen dersom barnehagen
-har brutt bestemmelser i loven eller forskrifter gitt
-med hjemmel i loven.
-Nåværende tredje og fjerde ledd blir fjerde og
-femte ledd.
-§ 56 skal lyde:
-§ 56 Utdanningsdirektoratets tilsyn med økonomiske
-forhold i private barnehager
-Utdanningsdirektoratet fører tilsyn med at de
-private barnehagene drives i samsvar med
-bestemmelsene i § 20 andre ledd andre punktum,
-kapittel V med forskrifter og § 9 om internkontroll
-for å sikre at disse kravene følges.
-Utdanningsdirektoratet kan gi pålegg til barnehagen om å rette ulovlige forhold. Hvis fristen for
-å etterkomme pålegget ikke overholdes, eller forholdet ikke lar seg rette, kan Utdanningsdirekto-
-
-165
-
-ratet fatte vedtak om tidsbegrenset eller varig
-stenging av barnehagen.
-Utdanningsdirektoratet kan fatte vedtak om at
-tilskudd til barnehagen skal holdes tilbake eller
-reduseres dersom barnehagen har brutt bestemmelser i § 20 andre ledd andre punktum, kapittel V
-med forskrifter eller § 9 om internkontroll for å
-sikre at disse kravene følges.
-Utdanningsdirektoratet kan fatte vedtak om at
-barnehagen skal betale tilskudd tilbake til
-kommunen dersom barnehagen har brutt bestemmelser i § 20 andre ledd andre punktum eller
-kapittel V med forskrifter.
-Kommunen skal få mulighet til å uttale seg før
-Utdanningsdirektoratet fatter vedtak etter andre,
-tredje eller fjerde ledd. Utdanningsdirektoratets
-vedtak skal sendes kommunen til orientering.
-Foreldrerådet skal få mulighet til å uttale seg
-før Utdanningsdirektoratet fatter vedtak om
-stenging.
-Barnehagen skal uten hinder av taushetsplikt
-legge frem alle opplysninger som Utdanningsdirektoratet trenger for å føre tilsyn. Dersom
-Utdanningsdirektoratet i forbindelse med gjennomføring av tilsyn har behov for opplysninger fra
-eieren eller eierens nærstående, skal Utdanningsdirektoratet ha tilgang til slike opplysninger.
-Barnehagen skal gi Utdanningsdirektoratet
-adgang til barnehagens lokaler.
-Dersom Utdanningsdirektoratet i forbindelse
-med gjennomføring av tilsyn har behov for opplysninger fra barnehagens regnskapsfører, revisor eller
-bank, skal Utdanningsdirektoratet få tilgang til slike
-opplysninger uten hinder av taushetsplikt etter forvaltningsloven § 13 første ledd nr. 2.
-II
-Loven gjelder fra den tiden Kongen bestemmer.
-De ulike bestemmelsene kan settes i kraft til forskjellig tid.
-
-[Side 168]
-
-[Side 169]
-
-[Side 170]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-
-N
-VA
-
-E MER K
-
-Trykksak
-2041 0446
-
-E
-
-T
-
-S
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 04/2025
+# Økonomiske og administrative konsekvenser
+
+## Innledning
+
+Dette punktet handler om de økonomiske og administrative konsekvensene av de ulike forslagene.
+
+Departementet viser til at kommunesektoren skal kompenseres for anslåtte merutgifter som følge av oppgaveendringer, og tilsvarende skal midler trekkes for anslåtte innsparinger ved oppgaveendringer. Departementet foreslår endringer i barnehageloven som samlet sett anslås å være innenfor dagens økonomiske ramme for barnehagesektoren, og departementet mener derfor at det det ikke er behov for økte bevilgninger til kommunene. Målet med de foreslåtte endringene er å sikre bedre utnyttelse av dagens ressurser og bidra til likeverdige barnehagetilbud i kommunale og private barnehager. Forslagene vil derfor innebære en omfordeling av ressursene i barnehagesektoren, blant annet ved at kommunene i større grad enn i dag kan påvirke fordelingen og prioriteringen av ressurser. Samlet sett vil forslagene gi bedre ressursutnyttelse i sektoren og mer samfunnsøkonomisk lønnsom bruk av foreldrebetaling og offentlige midler.
+
+Departementets vurdering er at det samlede forslaget til lovendringer øker kommunenes rom for lokale prioriteringer, og gir bedre mulighet til å tilpasse barnehagetilbudet til innbyggernes behov. Kommunene i Norge er ulike når det gjelder blant annet geografi, befolkning, barnehagestruktur og andel private barnehager. Barnehagene er også svært forskjellige med hensyn til størrelse, eierform og andre forhold. Forslagene i proposisjonen er av ulik karakter og vil i ulik grad påvirke kommunene og de private barnehagene i praksis. Det er utfordrende for departementet å tallfeste alle økonomiske konsekvenser av forslagene på kommunenivå, siden flere av tiltakene innebærer større lokal handlefrihet, der kommunene i større grad enn i dag kan tilpasse tilbudet etter behov.
+
+En del av forslagene i denne proposisjonen vil ha administrative konsekvenser for kommuner. Noen forslag gir mulighet for mer lokal tilpasning og kan dermed øke de administrative kostnadene, mens andre endringer antas å redusere administrative oppgaver. Hvor store disse konsekvensene blir i den enkelte kommune avhenger av flere forhold, blant annet hvor mange private barnehager det er i kommunen, i hvilken grad kommunen har behov for, og velger å utnytte muligheten for lokal tilpassing, og hvilke av lovforslagene som vil gi størst utslag i kommunen. For å sikre god implementering i overgangen til nytt regelverk, vil staten bidra med støtte og veiledning til kommunene. Veiledningsmaterialet vil utformes i samarbeid med sektoren. Departementet legger i utgangspunktet til grunn at lovforslagene som fremmes i denne lovproposisjonen samlet ikke gir økte administrative kostnader for kommunene, og at eventuelle administrative konsekvenser i enkelte kommuner vil veies opp av fordelene ved å få et mer helhetlig styringsansvar og større handlingsrom.
+
+Forslagene til endringer i tilskuddssystemet i punkt 9 legger opp til at private barnehager skal motta kommunale tilskudd til drift og pensjon som er mer differensierte og mer tilpasset ulike barnehagers ulike behov, enn i dag. Ved en slik omfordeling av ressurser vil de langsiktige økonomiske forutsetningene og inntjeningsmulighetene til ulike typer barnehager bli påvirket. For nærmere omtale av de økonomiske og administrative konsekvensene av dette forslaget, se punkt 15.7. Departementet vil videre gi kommunen mulighet til å stille krav om at nye barnehager skal være ideelle (se punkt 4.4.2.5). Samlet sett vurderer departementet derfor at forslagene vil gi små og ideelle barnehager mer forutsigbare rammevilkår sammenliknet med i dag.
+
+I punktene nedenfor er de mer konkrete vurderingene av de enkelte forslagene i proposisjonen omtalt. Under hvert punkt vises det til det aktuelle punktet i proposisjonen hvor forslaget er omtalt.
+
+## Etableringsgodkjenning for nye private barnehager
+
+### Etableringsgodkjenning med rett til tilskudd
+
+I punkt 4.4.1 foreslår departementet å innføre en etableringsgodkjenning med rett til tilskudd. Forslaget innebærer at kommunen skal ta stilling til spørsmålet om tilskudd på et tidligere tidspunkt enn i dag. En slik lovendring vil gjelde for nye private barnehager. Eksisterende private barnehager vil beholde sin godkjenning og rett til tilskudd, og forslaget vil derfor ikke ha konsekvenser for eksisterende private barnehager.
+
+Det er i dag en risiko for barnehageutbyggere å ferdigstille barnehager uten garanti for finansiering. Ordningen med forhåndstilsagn om tilskudd som noen kommuner praktiserer i dag, er ikke lovfestet. Det er opp til hver enkelt kommune å avgjøre om de ønsker å gi et slikt forhåndstilsagn. Ved å lovfeste at kommunen så tidlig som mulig i prosessen avgjør spørsmålet om finansiering av barnehagen, vil forslaget sikre større forutberegnelighet for nye private barnehageutbyggere enn med dagens system.
+
+En etableringsgodkjenning med rett til tilskudd, vil gi en mer hensiktsmessig og forenklet søknadsprosess enn i dag. Det er lite hensiktsmessig med et regelverk som legger opp til at kommunene skal bruke ressurser på å godkjenne barnehager som de vurderer at ikke skal få tilskudd, fordi det ikke er behov for dem i kommunen.
+
+Forslaget skal videre gi kommunen større mulighet til å bestemme om, hvor og hvilke typer barnehager som trengs i kommunen. Departementet foreslår å lovfeste hvilke hensyn kommunen kan legge vekt på når den behandler søknader om etableringsgodkjenning. Dette vil gjøre det tydelig for kommunen hva den kan legge vekt ved vurderingen av slike søknader, samtidig som det sikrer mer forutsigbarhet for private aktører som ønsker å søke om en etableringsgodkjenning.
+
+Departementet vurderer at den foreslåtte reguleringen vil være bedre tilpasset den praksisen som har vært etter overgangen til rammefinansiering, da kommunen fikk mulighet til å velge om den skal gi tilskudd til nye barnehager, men samlet sett vurderer departementet at forslaget ikke vil ha vesentlige økonomiske eller administrative konsekvenser.
+
+### Adgang til å stille vilkår for etableringsgodkjenning
+
+I punkt 4.4.3 foreslår departementet å lovfeste at kommunene har adgang til å stille vilkår ved innvilgelse av en søknad om godkjenning. Vilkårene skal ikke være uforholdsmessig tyngende for barnehagen. Departementet legger til grunn at vilkår kommunen stiller til de private barnehagene som koster penger, skal finansieres av kommunen selv. For de private barnehagene vil kostnadene knyttet til vilkår som kommunen stiller bli dekket gjennom det kommunale tilskuddet. Departementet vurderer at vilkår til bruk av midler vil føre til en mer effektiv ressursbruk.
+
+### Klagerett på vedtak om etableringsgodkjenning
+
+I punkt 4.4.4 foreslår departementet at det skal være klagerett på kommunens vedtak om etableringsgodkjenning og driftsgodkjenning, og at statsforvalteren skal være klageinstans.
+
+Departementet vurderer at dette er i tråd med dagens klagerett på kommunens vedtak om godkjenning og tilskudd, og at forslaget derfor ikke vil ha vesentlige økonomiske eller administrative konsekvenser.
+
+### Videreføre krav til godkjenning av barnehagedriften
+
+I punkt 4.4.5 foreslår departementet å innføre et skille mellom etableringsgodkjenning og godkjenning av barnehagedriften. Godkjenning av barnehagedriften vil, som i dag, sikre at barnehagen er egnet ut fra kravene i barnehageloven. Departementet viser til at bestemmelsen om godkjenning av barnehagedriften viderefører godkjenningsreglene i dagens § 14, og vurderer derfor at forslaget ikke vil ha vesentlige økonomiske eller administrative konsekvenser.
+
+### Angivelse av ansvarlig for en godkjent barnehage
+
+I punkt 4.4.7 foreslår departementet å tydeliggjøre hvem som er ansvarlig for en godkjent barnehage. Departementet vurderer at dette er en presisering av regelverket, som ikke innebærer økonomiske eller administrative konsekvenser.
+
+## Bortfall av etableringsgodkjenning for barnehager som ikke er i drift
+
+I punkt 5.5.1 foreslår departementet å lovfeste at etableringsgodkjenningen faller bort dersom barnehagen ikke starter opp innen fem år etter at godkjenningen ble gitt eller barnehagedriften blir nedlagt. For eksisterende barnehager faller retten til tilskudd bort dersom barnehagedriften ikke er startet opp innen 1. juni 2031 eller barnehagedriften legges ned.
+
+Forslaget vil kunne gi mindre administrasjon i kommunene ved at det kun er barnehager som er i drift som kommunen må ta hensyn til i planlegging av antall plasser og budsjettering av fremtidige kostnader til barnehagesektoren. Dette sikrer forutsigbarhet for kommunenes mulighet til å styre barnehagestrukturen, og legger bedre til rette for effektiv ressursbruk i kommunene.
+
+Forslaget vil gjøre det enklere for nye private eiere å søke om godkjenning, fordi kommunen ikke trenger å være tilbakeholdne med å gi godkjenning til nye eiere på grunn av sovende godkjenninger som kan komme i bruk.
+
+Departementet vurderer at forslaget kan gi noe mindre administrasjon i kommunene og at det legger til rette for en mer effektiv ressursbruk i kommunene samlet sett.
+
+## Kommunens oppfølging av vedtak om godkjenning
+
+### Godkjenning av endringer som går utover rammene for godkjenningen
+
+I punkt 6.5.1 foreslår departementet å lovfeste krav til ny godkjenning ved endringer som går utover rammene som er satt for barnehagens etablerings- eller driftsgodkjenning. Forslaget omfatter både ordinære barnehager, familiebarnehager og åpne barnehager.
+
+Forslaget vil gi kommunen bedre kontroll med forholdene i den enkelte barnehage. Kommunen vil tidligere fange opp, og dermed forhindre, at barnehagen foretar endringer som går utover rammene som er satt i godkjenningen. Det vil gi kommunene bedre styring med barnehagetilbudet, og være en fordel for kommunenes økonomistyring.
+
+Forslaget vil kunne medføre noe økt ressursbruk i kommunene til å veilede barnehagene om i hvilke tilfeller barnehagen skal melde endringer til kommunene. Videre må kommunen vurdere om meldte endringer går utover rammene som er satt i godkjenningen av barnehagen. Sistnevnte er noe kommunene også skal gjøre i dag, men det er imidlertid sannsynlig at en lovendring fører til at kommunene får flere endringsmeldinger enn tidligere. Dette fordi forslaget innebærer at det blir tydeligere hvilke endringer som skal meldes inn til kommunene.
+
+For både kommunale og private barnehager kan lovforslaget gi noe mer administrativt arbeid, ved at flere endringer må meldes til kommunen for vurdering. Barnehagen kan også oppleve at systemet blir noe mindre fleksibelt ved at barnehagen ikke lengre kan justere barnehagens norm for arealutnyttelse. Det kan påvirke størrelsen på tilskuddet de private barnehagene mottar, og forslaget kan dermed gi lavere inntektsgrunnlag for barnehagene. Dette må imidlertid veies opp mot hensynet til at barna i barnehagen skal få forsvarlige lokaler, utearealer og få tilstrekkelig med areal, i tråd med det de i utgangspunktet skal være sikret gjennom godkjenningen. Departementet mener derfor at dette ikke er en kostnad den private barnehagen skal kompenseres for.
+
+Departementet antar at forslaget vil være positivt for kommunens økonomistyring, men samlet sett vurderer departementet at forslaget ikke vil ha vesentlig økonomiske eller administrative konsekvenser.
+
+### Tilsyn med om barnehagen driver i tråd med godkjenningen
+
+I punkt 6.5.2 foreslås det å presisere i at kommunen også fører tilsyn med at barnehagene driver i samsvar med rammene som er satt for barnehagenes etablerings- og driftsgodkjenning. Departementets vurdering er at det allerede i dag følger av regelverket at kommunen kan føre tilsyn med dette, jf. at barnehagenes godkjenningsvedtak er fattet med hjemmel i bestemmelser i barnehageloven som kommunen fører tilsyn med, og at den foreslåtte presiseringen ikke vil gi noen vesentlig utvidelse av tilsynsansvaret eller vesentlig merarbeid.
+
+## Meldeplikt om opptak av barn fra andre kommuner
+
+I punkt 7 foreslår departementet å lovfeste at private barnehager skal melde fra til kommunen barnehagen er etablert i og til kommunen der barnet er bosatt, ved opptak av barn fra andre kommuner. Forslaget gjelder ordinære barnehager og familiebarnehager. Åpne barnehager omfattes ikke av forslaget fordi det ikke er opptak av barn i åpne barnehager.
+
+Forslaget vil gi noe økt administrasjon for de private barnehagene ved at de må melde fra til kommunen der barnet er bosatt. For kommunen vil det gi mindre administrasjon fordi kommunen får bedre oversikt over hvor mange ledige barnehageplasser det er i kommunen, selv om de private barnehagene tar inn barn fra andre kommuner. En slik meldeplikt vil også forenkle kommunens økonomistyring, fordi den får oversikt over hvor mange barnehageplasser den kan kreve refusjon for og hvor mange plasser den selv kjøper i andre kommuner.
+
+Departementet vurderer at forslaget vil gi administrative effektiviseringsgevinster for kommunene, men at forslaget samlet sett ikke vil få vesentlige økonomiske eller administrative konsekvenser.
+
+## Nye forskriftshjemler for kommunen
+
+I punkt 8 foreslår departementet å gi kommunen hjemmel til å gi lokale forskrifter om åpningstid, bemanning og krav til kompetanse og maksimalpris for foreldrebetaling.
+
+Det kan medføre noe administrativt merarbeid for kommunene når de skal utarbeide lokale forskrifter som gir en tilstrekkelig tydelig regulering. Forvaltningsloven har et eget kapittel VII om forskrifter med regler for saksforberedelsen, formkrav og kunngjøring, høring og uttalelser fra interesserte, og om adgangen til å fravike en forskrift. Det følger dessuten av forvaltningslovens oppbygging at reglene i kapittel II om inhabilitet og III om alminnelige regler for saksbehandlingen gjelder ved utferdigelse av forskrifter. Kommunene har ulike ressurser og kompetanse, og følgelig ulike forutsetninger for å kunne utarbeide lokale forskrifter i tråd med disse kravene. Samtidig vil forslaget gi kommunen mer styring og kontroll med de samlede kostnadene til barnehagesektoren.
+
+For nye private barnehager vil en ordning med lokale forskrifter gi større forutsigbarhet, fordi barnehagen på et tidlig stadium kan innrette virksomheten i tråd med eventuelle føringer i en lokal forskrift.
+
+Departementet mener det er viktig at endringer i lovverket innføres på en god måte, herunder at det gis tilstrekkelig tid til å implementere endringene, og at det gis veiledning til kommunene. Departementet viser til at det blant annet vil utformes veiledningsmateriell med eksempler på mulige lokale innretninger en kommune kan velge å bruke.
+
+### Forskrift om åpningstid
+
+I punkt 8.2.4 foreslår departementet å lovfeste at kommunen kan gi forskrift om åpningstider.
+
+Innføring av minimum og/eller maksimum åpningstid og felles regler for når barnehagene kan ha feriestengt, kan medføre økonomiske kostnader i de private barnehagene i form av økte personalkostnader. Samtidig vil den foreslåtte bestemmelsen om tilskudd til private barnehager i punkt 9.2.5 innebære at kommunen må gi tilstrekkelig finansiering for eventuelle krav om åpningstid dersom kravene medfører merkostnader.
+
+For private barnehager som ønsker lengre åpningstider enn det kommunen eventuelt fastsetter som minimum, må kostnadene dekkes av barnehagens driftstilskudd og foreldrebetaling på samme måte som i dag. Forslaget kan medføre at private barnehager nedskalerer barnehagetilbudet til minimumsnivået. Kommunene må være oppmerksomme på at det kan være ulike behov for åpningstider innad i kommunen. Kommunen kan derfor fastsette i forskrift at barnehagene innad i kommunen kan ha ulike åpningstider.
+
+### Forskrift om bemanning og krav til kompetanse
+
+I punkt 8.3.4 foreslår departementet å lovfeste at kommunen kan gi forskrift om krav til pedagogisk bemanning og annen relevant kompetanse ut over det som følger av forskrift gitt med hjemmel i § 25 andre ledd. Departementet foreslår videre å lovfeste at kommunen kan gi forskrift om krav til høyere bemanning enn det som følger av § 26 andre ledd første og andre punktum.
+
+Dersom kommunen innfører krav om bemanning og kompetanse utover det som følger av de nasjonale minstekravene, vil barnehager som kun oppfyller nåværende minimumskrav, få økte personalkostnader. Samtidig må kommunen gi tilstrekkelig finansiering for krav som innføres. For private barnehager som overoppfyller de nasjonale minstekravene, vil dermed forslaget kunne gi et lokalt tilskudd som er mer i tråd med barnehagens faktiske personalkostnader. Eventuelle lokale forskriftskrav som medfører merkostnader må finansieres av kommunen, se nærmere omtale i punkt 9.2.5 og 15.7.1.
+
+### Forskrift om maksimalpris for foreldrebetaling
+
+I punkt 8.4.4 foreslår departementet å lovfeste at kommunen kan gi forskrift om lavere foreldrebetaling enn det som er fastsatt av departementet med hjemmel i barnehageloven § 20 første ledd.
+
+Kommunen kan i dag ikke pålegge de private barnehagene i kommunen å redusere foreldrebetalingen selv om det er satt en lavere pris enn maksimalpris i kommunens egne barnehager. I slike tilfeller får de private barnehagene i dag tilskudd basert på en lavere foreldrebetaling enn maksimalprisen (og dermed et høyere driftstilskudd), selv om de fortsatt har mulighet til å kreve maksimalpris fra foreldre i sin barnehagene. Dette fordi tilskuddsutmålingen til private barnehager ikke tar hensyn til lokalt fastsatte maksimalpriser for foreldrebetaling. Med departementets forslag vil ikke den private barnehagen lenger kunne beholde et slikt mellomlegg, men de må bruke det til å ha den samme og lavere foreldrebetaling som kommunen har fastsatt for alle barnehagene i kommunen.
+
+## Beregning av tilskudd til private barnehager
+
+### Tilskudd til drift
+
+I punkt 9.2.5 omtales forslag til nye regler om driftstilskudd til private barnehager Departementet foreslår at kommunen får en plikt til å gi alle driftsgodkjente private barnehager med rett på tilskudd, ett grunntilskudd. Kommunen vil også få en plikt til å gi ekstra grunntilskudd til private barnehager som oppfyller særskilte kriterier, dersom kommunen holder utgifter etter tilsvarende kriterier utenfor beregningsgrunnlaget. Videre vil plikten til å gi ekstra grunntilskudd gjelde ved innføring av nye krav. Kommunen vil også få adgang til å gi *tilleggstilskudd*.
+
+Plikten til å gi ekstra grunntilskudd til barnehager som oppfyller særskilte kriterier, dersom kommunen holder utgifter etter tilsvarende kriterier utenfor beregningsgrunnlaget, vil i større grad enn i dag bidra til at ressursene brukes der behovet er størst, enten grunnet ulike driftsforutsetninger eller behov i barnegruppen.
+
+Muligheten for kommunen til å holde utgifter utenfor tilskuddsgrunnlaget, vil også legge til rette for styrket innsats i kommunale barnehager med særlige driftsforutsetninger eller særlige behov i barnegruppen, og med en tilhørende plikt til en forholdsmessig like stor styrket innsats i private barnehager med tilsvarende særlige driftsforutsetninger eller særlige behov i barnegruppen. Graden av omfordeling vil avhenge av valg og vurderinger som gjøres i den enkelte kommune. I mange kommuner er det ingen vesentlige forskjeller i driftsforutsetningene mellom barnehagene eller forskjeller i barnegruppene i de ulike barnehagene. I slike tilfeller er det ikke grunnlag for å holde utgifter utenfor. Videre er det opp til kommunene selv å avgjøre om de vil benytte muligheten til å holde utgifter utenfor, også dersom de har grunnlag for å holde noen utgifter utenfor.
+
+Det foreslås at kommunen får en plikt til å gi ekstra grunntilskudd ved innføring av nye krav med budsjettmessige konsekvenser. Dette vil først og fremst være aktuelt der grunntilskuddet ikke allerede reflekterer kostnadene ved innføring av nye krav, da beregningsgrunnlaget tar utgangpunkt i det siste tilgjengelige kommuneregnskapet. Ved innføring av nye krav med budsjettkonsekvenser for barnehagene, som gis i nasjonalt regelverk, blir kommunen kompensert av staten gjennom rammetilskuddet.
+
+For kommuner som ikke holder utgifter utenfor beregningen av grunntilskuddet, vil grunntilskuddet i utgangspunktet bli beregnet på samme måte som dagens driftstilskudd, med unntak av tilfeller der kommunale barnehager i gjennomsnitt ikke oppfyller bemanningskrav. Det foreslås at departementet kan gi forskrift om plikt for kommunen til å gi ekstra grunntilskudd der kommunale barnehager ikke oppfyller krav i barnehageloven med forskrifter, for å sikre at private barnehager settes i økonomisk stand til å oppfylle kravene.
+
+Departementet foreslår også å lovfeste at kommunen kan gi tilleggstilskudd. Dette er en frivillig mulighet som kan benyttes dersom kommunen ønsker å satse på spesifikke områder, ta hensyn til særskilte utgifter i private barnehager, eller opprettholde et bestemt pedagogisk tilbud eller mangfold i tilbudet.
+
+Departementet viser til at reglene for beregning av driftstilskudd, som tar utgangspunkt i gjennomsnittlige kommunale utgifter, er et kjent system for kommunene. Samtidig vil det nye forslaget om beregning av driftstilskudd, inneholde nye elementer som kommunen må vurdere og begrunne bruken av. Dersom kommunen holder utgifter utenfor beregning av grunntilskuddet, har kommunen plikt til å gi ekstra grunntilskudd.
+
+Departementet mener at den foreslåtte reguleringen med større mulighet til å differensiere tilskuddet, vil være noe mer administrativt krevende enn i dag, men viser til at kommunen ikke er pålagt å bruke adgangen til å differensiere driftstilskuddet ved å holde utgifter utenfor beregningsgrunnlaget. Kommunen kan velge å la være å trekke utgifter ut av beregningsgrunnlaget og får da heller ikke plikt til å gi ekstra grunntilskudd. Dersom kommunen ikke benytter adgangen til å differensiere, vil driftstilskuddet beregnes på tilsvarende måte som i dag. Unntaket er tilfeller der kommunale barnehager ikke oppfyller krav i barnehageloven med forskrifter og ved innføring av nye krav. Her må kommunen gi ekstra grunntilskudd for å sette private barnehager i økonomisk stand til å oppfylle kravene. Departementet legger til grunn at de nye pliktene knyttet til driftstilskudd i forslaget, ikke vil påvirke samlet ressursbruk i barnehagene på nasjonalt nivå, og vil vurdere hvordan nasjonale myndigheter kan bidra med veiledning og eventuell utvikling av veiledningsmateriell i implementeringsfasen.
+
+### Tilskudd til pensjon
+
+I punkt 9.3.5 foreslår departementet nye regler for tilskudd til pensjon. Forslaget vil medføre en stor administrativ omleggelse sammenlignet med dagens modell for pensjonstilskudd ved implementering av den nye modellen. Departementet vurderer hvordan nasjonale myndigheter kan bidra med veiledning og eventuell utvikling av veiledningsmateriell i implementeringsfasen. Veiledningsmateriell vil utformes i samarbeid med sektoren.
+
+Etter forslaget skal kommunen gi pensjonstilskudd til barnehager som har driftsgodkjenning og som har rett til tilskudd. Tilskuddet skal beregnes med utgangspunkt i antall årsverk i barnehagen, lønn per årsverk i den enkelte barnehage, en prosentsats basert på pensjonsvilkårene til den enkelte barnehage og sats for lokal arbeidsgiveravgift. Departementet vil gi forskrift om prosentsatser, og kommunen må vurdere hvilken prosentsats som skal tas i bruk i den enkelte barnehage. Departementet vurderer at dette vil kunne medføre en noe økt administrativ byrde for kommunene i implementeringsfasen.
+
+I punkt 9.3.5.9 foreslår departementet en særregel for barnehager med historiske forpliktelser basert på avtaler om offentlig tjenestepensjon. Særregel vil gjelde et fåtall barnehager. Siden disse barnehagene allerede er omfattet av gjeldende søknadsordning, legger departementet til grunn at forslaget ikke vil ha vesentlige økonomiske og administrative konsekvenser.
+
+Med forslaget til nye regler for pensjonstilskudd vil private barnehager som har pensjonsavtaler med mindre gode vilkår kunne få mindre i tilskudd til pensjon, mens barnehager som har pensjonsavtaler med gode vilkår vil kunne få mer. Departementet vurderer at forslaget samlet sett vil gi noe innsparing for kommunene ved innføringstidspunktet, men at dette ikke er midler som bør trekkes ut av kommunerammen. Dette er fordi pensjonskostnadene i private barnehager på sikt kan øke noe om flere barnehager får pensjonsavtaler med bedre vilkår for de ansatte, og dermed høyere utgifter. På kort sikt legger departementet til grunn at en eventuell innsparing i kommunene bidrar til å dekke implementeringskostnader av nytt regelverk. Departementet vurderer at forslaget til omlegging vil være provenynøytralt på sikt.
+
+### Tilskudd til eiendom
+
+I punkt 9.4.4 foreslår departementet nye regler for tilskudd til eiendom. Det foreslås å lovfeste at kommunen skal gi eiendomstilskudd til private barnehager som har fått godkjent barnehagedriften og som har rett til tilskudd. Departementet skal gi forskrift om tildeling av, og satser for, eiendomstilskudd. Det vil være forskriftsreguleringen som fastsetter nivået på tilskuddet. Den foreslåtte lovreguleringen har derfor ikke vesentlige økonomiske eller administrative konsekvenser.
+
+### Klagerett og klageinstans
+
+I punkt 9.5 foreslår departementet at statsforvalteren fortsatt skal være klageinstans for klager på enkeltvedtak om tildeling av tilskudd. Statsforvalteren behandler klager på enkeltvedtak etter bestemmelsene i barnehageloven og tilhørende forskrifter, herunder saker som gjelder beregning og tildeling av tilskudd til private barnehager. Statsforvalteren veileder også kommuner og private barnehager om hvordan regelverket skal tolkes. Sammenstilling av tall fra årsrapportene fra statsforvalterne for 2023, viser at embetene til sammen behandlet 64 klager knyttet til forskrift om tildeling av tilskudd til private barnehager. Av rapporteringen kan det se ut til at klagesaker på søknad om dekning av pensjonskostnader kommer i tillegg.
+
+Statsforvalterne har omfattende regelverkskompetanse på flere områder. De er ansvarlige for å følge opp og veilede kommunene og andre lokale myndigheter om nasjonale lover og forskrifter. Kunnskapsdepartementet anser derfor at statsforvalterne har nødvendig kompetanse til å sette seg inn i nytt regelverk for styring og finansiering av private barnehager. Forslaget om nye regler for tilskudd til drift og tilskudd til pensjon til private barnehager innebærer ikke nye eller flere oppgaver for statsforvalteren. Endret regelverk kan imidlertid gi et større behov for veiledning av kommuner og barnehager i implementeringsfasen. Det kan også føre til en økning i antall klagesaker. På en annen side kan et nytt og tydeligere regelverk – særlig knyttet til pensjonstilskudd – bidra til å redusere antall klagesaker. Departementet viser imidlertid til at statsforvalteren i en periode kan måtte prioritere noe mer ressurser til de oppgavene de har på barnehagens område, og departementet vil følge med på utviklingen når nytt regelverk implementeres.
+
+## Krav til bruk av offentlige tilskudd og foreldrebetaling
+
+### Barnehagen skal bare dekke kostnader som gjelder barnehagedrift
+
+I punkt 10.1.4 foreslår departementet å videreføre at barnehagen bare skal dekke kostnader som direkte gjelder godkjent drift av barnehagen, og å presisere at kostnadene bare skal ha et omfang som er rimelig for å oppnå formålet med anskaffelsen eller ytelsen.
+
+Forslaget presiserer at det ikke bare er et krav til *type* kostnad, men at det også stilles krav til kostnadens omfang. Det er i samsvar med barnehagens bedriftsøkonomiske interesse at den ikke tar på seg kostnader i større omfang enn det som er relevant for den godkjente barnehagedriften. Departementet vurderer derfor at forslaget ikke har vesentlige økonomiske eller administrative konsekvenser.
+
+### Transaksjoner med nærstående
+
+I punkt 10.2.4.1 foreslår departementet å utvide definisjonen av nærstående i barnehageloven § 22. Med barnehagens nærstående menes etter forslaget
+
+1.  fysiske eller juridiske personer som, direkte eller indirekte, eier eller kontrollerer barnehagen med minst 50 prosent
+
+<!-- -->
+
+8.  styremedlem, daglig leder eller annen fysisk person med beslutningsmyndighet i barnehagen
+
+9.  foreldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre til fysisk person etter bokstavene a og b
+
+10. selskaper mv. som direkte eller indirekte, eies eller kontrolleres med minst 50 prosent av nærstående etter bokstav a, b eller c
+
+Bestemmelsen om at barnehagen overfor nærstående ikke skal foreta transaksjoner på vilkår som avviker fra det som ville vært fastsatt mellom uavhengige parter, videreføres med noen språklige endringer. Det foreslås videre å lovfeste at dette kravet også gjelder transaksjoner med fysiske eller juridiske personer som har en felles økonomisk interesse med den som er ansvarlig for barnehagen eller med barnehagens nærstående.
+
+Barnehagen er tjent med at det ikke skjer transaksjoner med dårligere vilkår enn det som ellers er mulig å oppnå. Departementet vurderer derfor at forslaget ikke har vesentlige økonomiske eller administrative konsekvenser.
+
+### Lovfeste krav til bruk av kostpenger
+
+I punkt 10.3.4 foreslår departementet å lovfeste at barnehagen kan kreve betaling for kost i tillegg til foreldrebetalingen. Videre foreslår departementet å lovfeste at kostpengene ikke skal overstige de faktiske utgiftene barnehagen har til mat og drikke til barna. Forslaget går ut på å lovfeste en praksis som tidligere har vært forankret i en lovtolkning fra departementet. Departementet vurderer derfor at forslaget ikke har økonomiske eller administrative konsekvenser.
+
+### Forbud mot å låne ut barnehagens midler
+
+I punkt 10.4.4 foreslår departementet å lovfeste at barnehagen ikke skal låne ut midler som stammer fra offentlige tilskudd eller foreldrebetaling. Kortsiktige utlån i form av en konsernkontoordning skal være tillatt.
+
+Forslaget om at barnehagene ikke skal låne ut midler som stammer fra offentlige tilskudd eller foreldrebetaling begrenser barnehagenes økonomiske handlefrihet, og har i den forstand økonomiske konsekvenser. I og med at kortsiktige utlån i form av konsernkontoordning fortsatt skal være tillatt, vurderer departementet at de økonomiske konsekvensene ikke er vesentlige. Normalt vil det heller ikke være i barnehagens bedriftsøkonomiske interesse å gi andre typer utlån enn det som fortsatt skal være tillatt. Departementet vurderer at forslaget samlet sett ikke vil ha vesentlig økonomiske eller administrative konsekvenser.
+
+## Meldeplikt om overføring av eiendom
+
+I punkt 11.5 foreslår departementet at private barnehager skal melde fra til kommunen og Utdanningsdirektoratet ved overføring av eiendom. Det foreslås videre å lovfeste at melding om nedleggelse, eierskifte, overføring av eiendom og andre organisatoriske endringer skal gis så snart endringen er besluttet. Departementet viser til at dette er en utvidelse av den allerede gjeldene meldeplikten som gjelder ved nedleggelse, eierskifte og andre organisatoriske endringer, samt en endring av tidspunkt for melding. Departementet vurderer derfor at forslaget ikke vil få vesentlige økonomiske eller administrative konsekvenser.
+
+## Endringer i tilsyns- og reaksjonsbestemmelsene
+
+I punkt 12.5.1 foreslår departementet å lovfeste at kommunen kan fatte vedtak om at tilskudd til barnehagen kan holdes tilbake, reduseres eller kreves tilbakebetalt ved brudd på krav i barnehageloven med forskrifter. I punkt 12.5.2 foreslås det å lovfeste at Utdanningsdirektoratet kan fatte vedtak om at tilskudd skal reduseres. Denne reaksjonsmuligheten vil komme i tillegg til direktoratets hjemmel til å holde tilbake eller kreve tilbakebetalt tilskudd.
+
+Forslaget om hjemmel for å holde tilbake, redusere eller kreve tilbakebetalt tilskudd gir kommunene utvidede virkemidler for å håndheve de bestemmelsene de fører tilsyn med. Departementet legger til grunn at det vil være en fordel for kommunene at de får økt mulighet til å vedta reaksjoner mot brudd på bestemmelsene de fører tilsyn med. Reaksjonsmidlene som foreslås er økonomiske, og forslaget har i den forstand økonomiske konsekvenser for barnehager som bryter barnehageloven. Samtidig vil det medføre en større administrativ byrde for kommunen. Utover dette kan departementet ikke se at forslaget har økonomiske eller administrative konsekvenser for barnehagene.
+
+## Hjemmel for å føre tilsyn med bruk av kostpenger
+
+I punkt 13.5 foreslår departementet å lovfeste at Utdanningsdirektoratet kan føre tilsyn med bruk av kostpenger i private barnehager og fatte vedtak om reaksjoner ved brudd på kravene til bruk av kostpenger.
+
+Det følger allerede av gjeldende rundskriv F–08/2006 at kostpenger skal brukes på mat og drikke til barna, og de private barnehagene er pålagt å føre regnskap i tråd med reglene i økonomiforskrift til barnehageloven. Forslaget innebærer derfor ikke nye krav til regnskapsføring.
+
+Dette vil være en ny oppgave for Utdanningsdirektoratet, men departementet mener at det vil være effektiv bruk av offentlige ressurser om Utdanningsdirektoratet får hjemmel til å føre tilsyn med bruk av kostpenger, og at det ikke vil gi stort merarbeid for direktoratet. Direktoratet fører allerede tilsyn med de private barnehagenes bruk av offentlige tilskudd og foreldrebetaling og det vil i mange tilfeller være hensiktsmessig å kontrollere bruken av kostpenger samtidig. Når direktoratet kontrollerer de private barnehagenes regnskaper, vil det være lite ressurskrevende å undersøke barnehagenes bruk av kostpenger i tillegg. Forslaget innebærer en økonomisk rasjonalisering og administrativ forenkling for det offentlige. Departementet vil bli klageinstans for vedtak fattet av direktoratet, men det legges til grunn at denne oppgaven ikke vil gi betydelig merarbeid.
+
+Forslaget kan medføre økonomiske og administrative konsekvenser for de private barnehagene dersom kommunen og direktoratet ikke samarbeider om tilsyn og tilsynspraksis. Det samme gjelder klagesaksbehandlingen hos statsforvalteren og departementet. Tilsyn med bruk av kostpenger dreier seg om én bestemmelse i loven og det bør derfor være relativt enkelt for kommunen og direktoratet å samkjøre praksisen på dette området. Tilsvarende gjelder for klageinstansene. Videre legger departementet til grunn at man gjennom det løpende samarbeidet mellom direktoratet og kommunene kan unngå at det blir åpnet tilsyn fra begge instansene samtidig i en barnehage. Departementet vurderer dermed at forslaget ikke vil ha vesentlige økonomiske eller administrative konsekvenser for barnehagene.
+
+## Utvidet hjemmel til å innhente opplysninger
+
+I punkt 14.5 foreslår departementet å lovfeste at dersom Utdanningsdirektoratet i forbindelse med gjennomføring av tilsyn har behov for opplysninger fra barnehagens regnskapsfører, revisor eller bank, skal Utdanningsdirektoratet ha tilgang til slike opplysninger uten hinder av taushetsplikt etter forvaltningsloven § 13 første ledd nr. 2.
+
+Hjemmel for innhenting av opplysninger kan medføre en administrativ byrde for aktuelle tredjeparter. Departementet presiserer at Utdanningsdirektoratet som hovedregel skal etterspørre opplysninger direkte fra barnehagen eller barnehagens nærstående, noe som vil minimere byrden for tredjepart. Departementet antar derfor at hjemmelen ikke vil bli benyttet ofte, men kun i tilfeller hvor det er nødvendig for å gi direktoratet tilstrekkelig og nødvendig informasjon i forbindelse med tilsynet. Hver enkelt tredjepart vil oppleve slike forespørsler svært sjeldent, og informasjonen det bes om vil være konkret og avgrenset. Departementet mener derfor at den administrative byrden vil være svært lav.
+
+Forslaget innebærer en administrativ effektivisering for myndighetene ved at tilsynet vil få bedre tilgang til opplysninger og dokumentasjon som er nødvendige for å gjennomføre tilsyn.

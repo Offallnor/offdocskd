@@ -1,816 +1,100 @@
-# Prop. 131 L (2024–2025), del 4 av 7 (side 37–45)
+# Prop. 131 L (2024–2025), del 4 av 8
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/9080e6fe-prop-131-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-131-l-20242025/id3096728/
 - Original-PDF: https://www.regjeringen.no/contentassets/7e58d488b3e246a7acd13c2890d037e8/no/pdfs/prp202420250131000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 37]
-
-2024–2025
-
-Prop. 131 L
-
-35
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-menhetens interesse. For dette grunnlaget er det
-krav om et supplerende rettsgrunnlag i nasjonalt
-regelverk. Departementet foreslår å regulere et
-slikt rettsgrunnlag i henholdsvis barnehageloven
-og opplæringsloven, se forslaget til § 48 a i barnehageloven og § 25-5 i opplæringsloven.
-I de følgende punktene vurderer departementet nærmere utformingen av det supplerende
-rettsgrunnlaget, herunder hvilke rammer som
-bør settes for behandlingen.
-
-2.6.3.2
-
-Formål og bruk av opplysningene i
-registrene
-
-Departementet foreslår å lovfeste at formålet med
-å etablere registrene er å utvikle statistikk og
-forskning om barnehagesektoren og om grunnskoleopplæringen. Videre foreslår departementet
-å lovfeste at behandling av personopplysninger i
-registrene skal ha som formål å danne grunnlag
-for statistikk og forskning for å frambringe kunnskap om effekt av ulike tiltak og utviklingen i sektoren. Departementet viser til forslag til § 48 a i
-barnehageloven og § 25-5 i opplæringsloven.
-Departementet opprettholder vurderingen av
-at personopplysningene om barn i barnehage og
-personopplysningene om barn i grunnskoleopplæring skal være i to separate registre. Selv
-om valget har begrenset betydning for graden av
-inngrep i personvernet, mener departementet at
-inngrepet blir noe mindre med separate registre
-enn med et fellesregister. Selv om registrene vil
-ha samme behandlingsansvarlig, se punkt 2.6.3.3,
-vil separate registre bety at behandlingsansvarlig
-ikke automatisk vil kunne få opp informasjon om
-hele løpet. Med separate registre vil det kreve en
-aktiv handling for å koble informasjon fra de to
-registrene for å følge barn fra barnehage og over i
-grunnskole. Begrensningene i lagringstid vil
-videre sette begrensninger på koblingsmulighetene hos Utdanningsdirektoratet.
-Prinsippet om formålsbegrensning, jf. personvernforordningen artikkel 5, tilsier at registrenes
-formål reguleres eksplisitt og mest mulig presist.
-For å imøtekomme innspill fra Datatilsynet, foreslår departementet en noe mer detaljert regulering av registrenes formål enn hva som lå i
-høringsforslaget. Departementet foreslår å konkretisere både hva som er formålet med etableringen av registrene (til bruk for statistikk og
-forskning) og hva som er formålet med behandlingen av personopplysninger som inngår i registrene.
-I høringsnotatet foreslo departementet at
-begrepet «analyse» skulle supplere begrepene
-
-«statistikk og forskning» i formålsbeskrivelsen.
-Noen av høringsinstansene har kommentert bruken av begrepet «analyse» i forslaget til lovregulering av registrene. Etter departementets vurdering vil analyse i en personvernsammenheng
-enten være statistikk eller forskning. Departementet foreslår derfor å bruke begrepene «statistikk og forskning», som også er de ordene som
-blir brukt i personvernforordningen. Justeringen i
-ordlyden er ikke ment å innebære realitetsendringer sammenlignet med høringsforslaget.
-Det kan i denne sammenhengen vises til statistikkloven § 14 som regulerer «tilgang til opplysninger for utarbeiding av statistiske resultater og
-analyser, herunder forskning».
-Videre foreslår departementet å tydeliggjøre
-at personopplysningene i registrene ikke kan
-benyttes til andre formål enn nettopp statistikk og
-forskning, og å eksplisitt regulere forbud mot å
-benytte opplysningene som grunnlag for enkeltvedtak eller andre individuelle beslutninger.
-Departementet vil ikke nå gå videre med forslaget fra høringsnotatet om at individregisteret
-med opplysninger om barnehagebarn kan benyttes for å forenkle eller eventuelt erstatte kontantstøtteregisteret. Dersom det senere skulle bli
-aktuelt å benytte individregisteret over barn i barnehager til kontroll, beregning og utbetaling av kontantstøtte, så vil det kreve lovendring.
-Formålet med registrene tilsier at det er nødvendig at registeret omfatter alle barn i målgruppen for registrene. For barnehageregisteret
-omfatter dette alle barn som går i barnehage på
-innrapporteringstidspunktet. For grunnskoleregisteret omfatter dette alle barn som er i grunnskoleopplæring på innrapporteringstidspunktet.
-Begrepet grunnskoleopplæring omfatter alle barn
-som har rett og plikt til grunnskoleopplæring, det
-vil si også dem som har grunnskoleopplæring i
-hjemmet, jf. opplæringsloven §§ 2-1 og 2-2. Se
-også punkt 2.6.5.5 om reservasjonsrett.
-
-2.6.3.3 Ansvarlig for registrene
-Departementet er opptatt av at registrene i størst
-mulig grad skal verne om personopplysningene
-og ivareta personvernet til den enkelte, samtidig
-som registrene er innrettet slik at det på en effektiv måte tilrettelegger for formålet, det vil si statistikk og forskning.
-Departementet holder fast ved vurderingen av
-at Utdanningsdirektoratet har best forutsetninger
-for datainnhenting. Direktoratet har etablerte
-systemer for innhenting og håndtering av data fra
-kommuner og skoler, og har som fagdirektorat
-
-[Side 38]
-
-36
-
-Prop. 131 L
-
-2024–2025
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-nødvendig detaljkjennskap til barnehage- og
-grunnskolesektoren for å sikre gode innsamlingsog kvalitetshåndteringsrutiner nær kilden. SSB
-har ved flere anledninger uttrykt en preferanse
-for at utdanningsmyndighetene bør være registereiere for individregistre for barnehage og grunnskole opplæring. SSB grunngir dette med at
-Utdanningsdirektoratet allerede har gode innsamlings- og kvalitetshåndteringsrutiner, står tett på
-barnehage- og grunnskolesektoren, og at alternativet, innhenting fra SSB med hjemmel i statistikkloven, ikke nødvendigvis vil ivareta behovene
-til sektormyndighetene. SSB peker på at en stor
-del av deres statistikkproduksjon baserer seg på
-at SSB innhenter data fra sektormyndigheters
-egne registre, og at SSB har god erfaring fra samarbeid med eiere av slike eksterne registre om
-kvalitetsutvikling og brukerbehov, også på
-utdanningsfeltet.
-Noen av høringsinstansene har hatt kommentarer til hvem som bør ha ansvar for registrene.
-Abelia, NIFU og NTNU Samfunnsforskning er opptatt av at SSB er nøytrale og har etablerte rutiner
-for dataforvaltning gjennom statistikkloven.
-Departementet vil bemerke at SSB normalt ikke
-har ansvar for datainnsamling, og at departementet derfor ikke er enig i at SSB bør være datainnsamler og registereier. Departementet er derimot enig i at det kan være grunn til å se nærmere
-på hvem som bør være ansvarlig for å utlevere
-data fra registeret, se omtale i punkt 2.6.3.4.
-Departementet foreslår, i tråd med høringsforslaget, å lovfeste at det er departementet som
-kan etablere registre. Departementet tar sikte på
-å delegere oppgaven til Utdanningsdirektoratet
-gjennom forskrift, se punkt 2.6.3.5 om forskriftshjemmelen.
-
-2.6.3.4
-
-Utlevering av personopplysninger fra
-registrene
-Departementet foreslår å lovfeste at personopplysninger fra registrene ikke kan utleveres fra registereier (behandlingsansvarlig) til andre enn Statistisk sentralbyrå (SSB). Departementets forslag
-skiller seg her fra forslaget i høringsnotatet, hvor
-det ble lagt til grunn at registeransvarlig (etter
-lovforslaget departementet, men foreslått delegert til Utdanningsdirektoratet i forskrift, se
-omtale i punkt 2.6.3.3) kunne utlevere personopplysninger fra registrene til bruk i tråd med
-registrenes formål, samt til andre offentlige
-myndigheter som har lovbestemt krav på å få slike
-utlevert. Som eksempel ble det vist til Nav, som
-har hjemmel til dette i arbeidsmarkedsloven § 19.
-
-Lovforslaget innebærer at dersom andre enn
-SSB ønsker tilgang til personopplysningene, være
-seg offentlige myndigheter eller forskningsmiljø,
-må de be om tilgang på ordinær måte fra SSB.
-Departementet legger til grunn at de personopplysningene som inngår i registrene, vil bli innhentet av SSB til statistikkformål, i medhold av
-statistikkloven § 10. SSB har et selvstendig
-behandlingsansvar etter personvernregelverket
-for alle personopplysningene som de henter inn.
-Opplysningene vil inngå i SSBs nasjonale utdanningsdatabase (NUDB), som samler all SSBs individbaserte utdanningsstatistikk. I dag omfatter
-NUDB individdata fra avsluttet grunnskole til doktorgradsstudier. Hovedformålet med databasen er
-å få et statistikksystem som gir muligheter til å
-sammenstille tall fra ulike årganger. Dette åpner
-for å gjennomføre bredere og større analyser. Å
-lagre informasjonen langvarig i SSBs database er
-avgjørende for den potensielle langsiktige samfunnsnytten ved etableringen av registrene. Det
-vil være potensielt stor nytte for ettertiden å
-kunne gjøre statistiske analyser av hvordan utdanningstilbudet henger sammen med og påvirker
-hvordan det går senere i livet mht. videre utdanning, arbeid, trygd og helse. Langsiktig lagring av
-individdataene er også nødvendig for å utføre studier av de langsiktige effektene av reformer.
-Departementet vurderer at en ordning med utlevering av opplysninger fra SSB er godt egnet til å
-oppfyllet formålet med registrene. Forskningsinstitusjoner er hovedmålgruppen for mottak av
-opplysningene. I mange tilfeller vil forskere ønske
-opplysninger om flere ulike forhold eller fra flere
-registre. Dersom opplysninger om barn, barnehage og grunnskoleopplæring skal kobles med
-opplysninger fra andre registre, er det mest nærliggende at alle de aktuelle opplysningene utleveres fra SSB. Utlevering skjer etter SSBs etablerte
-rammer og vilkår, og som hovedregel som ikke
-direkte
-identifiserbare
-personopplysninger.
-Departementet viser også til at SSB har betydelig
-erfaring med sikkerhet og faglig håndtering av
-personidentifiserbare data.
-Departementet har merket seg at flere
-høringsinstanser tar opp mulige utfordringer med
-å gi Utdanningsdirektoratet en rolle i å behandle
-og foredle dataene til videre bruk i statistiske analyser og til forskning, og at flere instanser er opptatt av ansvarsfordelingen mellom SSB og direktoratet. Etter departementets vurdering vil disse
-hensynene ivaretas av forslaget om å legge ansvaret for all utlevering til andre til SSB.
-Utlevering av personopplysninger fra SSB
-reguleres av statistikkloven, først og fremst § 14.
-
-[Side 39]
-
-2024–2025
-
-Prop. 131 L
-
-37
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-Etter statistikkloven § 14 første ledd kan SSB gi
-tilgang til opplysninger (mikrodata) for utarbeiding av statistiske resultater og analyser, herunder forskning. Offentlige myndigheter kan
-søke om tilgang til data for bruk i statistiske resultater og analyser. Godkjente forskningsinstitusjoner kan søke om tilgang til forskningsformål.
-Bruk av mikrodata til administrative, rettslige og
-skattemessige formål eller til kontroll av statistiske enheter er ikke tillatt.
-Utviklingen av tjenesten microdata.no i SSB er
-viktig blant annet for å gi forskere og offentlige
-myndigheter tilgang til sammenstilte data på en
-trygg og rask måte med minst mulig personvernkonsekvenser. Tjenesten microdata.no lar brukerne generere anonym statistikk med utgangspunkt i registerdata om enkeltindivider, samtidig
-som plattformen fasiliteter en lang rekke dataoperasjoner som forskere og statistikere har bruk for
-i sine analyser av registerdata. Tjenesten har innarbeidet samtlige FAIR-prinsipper, som er internasjonale retningslinjer som skal sikre at
-forskningsdata kan deles og gjenbrukes, og som
-er lagt til grunn for norsk forskning. FAIR står for
-Findable, Accessible, Interoperable og Re-usable,
-på norsk kan man si at dataene skal være gjenfinnbare, tilgjengelige, samhandlende og gjenbrukbare. Tjenesten er velegnet for å finne og forstå
-data, koble og bearbeide data, og å analysere data
-på en etterprøvbar og gjenbrukbar måte. Departementet legger til grunn at data fra de to foreslåtte
-nasjonale registrene etter hvert vil inngå i denne
-tjenesten og slik både bidra til økt og tryggere
-bruk av data (personopplysninger) innenfor
-utdanningsfeltet.
-
-2.6.3.5
-
-Forskriftshjemmel
-
-Departementet foreslår at det gis hjemmel i barnehageloven og opplæringsloven til at departementet kan gi forskrift med nærmere bestemmelser
-om registrene, herunder om formålet med
-behandlingen, behandlingsansvar, hvilke opplysninger som skal inngå i registrene, behandlingen
-av opplysningene og om rapporteringsplikt.
-Departementet viser til forslag til ny § 48 a femte
-ledd i barnehageloven og ny § 25-5 femte ledd i
-opplæringsloven.
-Departementet vil påpeke at utgangspunktet
-er at sentrale rettigheter og plikter skal reguleres
-i lov, mens spesifikke og detaljerte regler som
-utfyller lovreglene, kan reguleres i forskrift. Hjemmelen til å opprette et register med personopplysninger om barn i barnehager og i grunnskoleopplæring og hva som skal være registrenes for-
-
-mål er så sentrale reguleringer at de bør gå fram
-av loven. Departementet mener at detaljert og
-utfyllende regulering av hvilke konkrete personopplysninger registeret skal inneholde, lagringstid for personopplysningene og regler om behandling av personopplysningene i registeret som
-utfyller det gjeldende personvernregelverket, bør
-fastsettes i forskrift. Dette tilsvarer reguleringen
-på blant annet helseregister-området.
-Personopplysningene som kommuner og private skoler vil bli pålagt å innrapportere til registrene, er underlagt taushetsplikt etter forvaltningsloven. I høringsforslaget var det foreslått fritak fra slik taushetsplikt i barnehageloven, og i
-opplæringsforskriften. Plikten til å rapportere data
-inn til registrene vil etter forslaget gå fram av forskrift, og det er etter departementets vurdering
-riktig at også reguleringen av fritak fra taushetsplikt blir fastsatt i forskrift. Departementet foreslår at begge deler kommer klart til uttrykk i forskriftshjemmelen i forslagene til endringer i barnehageloven og opplæringsloven.
-Departementet tar sikte på å gi nærmere
-regler om kommunenes og skolenes innrapporteringsplikter i forskriften, og legger til grunn at
-innrapportering som hovedregel vil skje gjennom
-automatiserte prosesser, og at det blir gjennomført en gang per år.
-Hjemmelen til å gi forskrifter er på vanlig måte
-begrenset av de rammer og skranker som ligger i
-lovreguleringene.
-I punkt 2.6.3.6 og 2.6.4 blir det gitt en nærmere
-omtale av forhold ved registrene og behandlingen
-personopplysningene i registrene, som departementet tar sikte på å regulere i forskrift. At
-departementet tar sikte på å delegere ansvaret for
-å etablere og drifte registrene til Utdanningsdirektoratet, er omtalt ovenfor i punkt 2.6.3.3.
-
-2.6.3.6 Lagring og bruk av registeropplysningene
-Lagringstid i registrene hos Utdanningsdirektoratet
-Et av de grunnleggende personvernprinsippene
-etter personvernforordningen artikkel 5 er lagringsbegrensing. Personopplysninger skal lagres
-slik at det ikke er mulig å identifisere de registrerte i lengre perioder enn det som er nødvendig
-for formålene. Personopplysninger kan lagres i
-lengre perioder dersom de utelukkende vil bli
-behandlet for formål knyttet til arkivering,
-forskning eller statistikk i samsvar med artikkel
-89. Dersom regelverket som gir adgang til å
-behandle personopplysninger ikke spesifiserer
-
-[Side 40]
-
-38
-
-Prop. 131 L
-
-2024–2025
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-lagringstid, er det prinsippet om lagringsbegrensing som er førende for lagringstiden.
-Noen høringsinstanser har etterspurt tydeligere rammer for hvor lenge og til hvilken bruk
-Utdanningsdirektoratet har behov for å lagre
-direkte
-identifiserbare
-personopplysninger.
-Departementet er enig i at tydelige rammer for
-lagring og bruk er særlig viktig for denne typen
-omfattende registre.
-I høringsnotatet foreslo departementet å forskriftsregulere at Utdanningsdirektoratet skulle
-lagre personopplysninger i de to registrene i inntil
-ti år etter at barnet avsluttet grunnskoleopplæringen. Begrunnelsen for denne tidsavgrensningen
-var behovet for at opplysninger i individregisterene over barn i barnehage og grunnskoleoplæring, for eksempel startdato i barnehage og fravær i grunnskolen, skulle kunne kobles med personopplysninger fra videregående opplæring,
-blant annet om gjennomføring.
-Flere av høringsinstansene har stilt spørsmål
-ved den foreslåtte avgrensingen, og påpeker
-behovet for å kunne følge elever og se trender
-over lengre tidsperioder. Særlig forskningsformål
-vil ofte ha en lengre tidshorisont. Departementet
-er enig i dette, og viser til at dette etter departementets utforming av forslaget, vil bli ivaretatt ved
-lagring hos og utlevering fra Statistisk sentralbyrå
-(SSB). Se omtale av SSBs rolle i punkt 2.6.3.4. SSB
-har lang erfaring og gode rutiner for sammenstilling av data (inkludert personopplysninger),
-eventuelle koblinger mot andre data eller registre
-og utlevering til forskning.
-For at Utdanningsdirektoratet skal kunne utarbeide et godt kunnskapsgrunnlag for utdanningssektoren, må også direktoratet kunne behandle
-data over noe tid. Et eksempel er data om skolefravær, jf. punkt 2.6.4 om at data om skolefravær
-planlegges å inngå i registeret. Fravær er et komplekst fenomen, som blant annet påvirkes av det
-lokale sykdomstrykket et gitt skoleår. En nyere
-rapport fra Fafo fastslår at høyt fravær i ett enkelt
-skoleår ikke nødvendigvis er bekymringsfullt
-(Kjeøy og Lysvik, Kunnskapsstatus om bekymringsfullt fravær i skolen, 2023). Det kan derfor være
-behov for å utvikle indikatorer på bekymringsfullt
-fravær som ikke bare bygger på elevers fravær ett
-enkelt år, men derimot ser på elevers fravær over
-flere skoleår. En slik indikator kan si noe om i hvilken grad skoler sliter med vedvarende høyt fravær hos enkelte elever over flere år som er forbundet med risiko for negative utfall på læring og
-trivsel. Dette forutsetter at elevers fravær fra ulike
-år kobles sammen.
-
-Utdanningsdirektoratet vil med de foreslåtte
-registerdataene blant annet kunne gi en nasjonal
-oversikt over om det blir flere elever som har høyt
-fravær over flere år. Dette vil bidra til at skoleeiere
-kan følge opp hvordan skolene tar tak i fraværsproblematikken, og sikre at skolene følger
-opp fraværsproblematikken på sin skole, og bidrar
-til at den enkelte elevs læring og trivsel blir ivaretatt. Ved endring i indikatorer, eller ved innføring
-av tiltak som for eksempel nye fraværsgrenser, er
-det relevant å lage nye tidsserier tilbake i tid for å
-kunne sammenligne og lage god styringsinformasjon.
-Personvernprinsippene innebærer at det må
-gjøres en streng vurdering av hvilken behandling
-som er nødvendig for å ivareta formålet med
-registrene, herunder hvor lenge opplysninger
-skal kunne lagres. Departementet mener at
-lagringstiden for personopplysninger i registrene
-hos Utdanningsdirektoratet må henge sammen
-med hvilke oppgaver Utdanningsdirektoratet skal
-og kan gjennomføre opp mot formålet med registrene. Departementet vil derfor legge opp til en
-kortere lagringstid hos Utdanningsdirektoratet
-enn det som ble foreslått i høringsnotatet. Dette
-vil innskrenke noe hvilke analyser Utdanningsdirektoratet kan utarbeide. Slike analyser kan
-imidlertid utarbeides av SSB, eller av Utdanningsdirektoratet og andre etter søknad om utlevering
-av data fra SSB.
-Departementet tar sikte på å fastsette i forskrift hvilke regler for lagring som skal gjelde for
-registrene. Departementet vil, basert på en konkret vurdering av behovene og hva er nødvendig
-for å oppnå formålene med registrene, fastsette
-ulike lagringstider for registrene:
-– Utdanningsdirektoratet kan lagre personopplysninger i barnehageregisteret fra barna
-første gang starter i barnehage til ett år etter
-barna har påbegynt grunnskoleopplæring.
-Dette er nødvendig for å kunne lage statistikk
-som følger barna gjennom tiden i barnehagen
-og over i grunnskoleopplæringen.
-– Utdanningsdirektoratet kan lagre personopplysninger i grunnskoleregisteret fra elevene starter i grunnskoleopplæring og til ett år
-etter elevene slutter i grunnskoleopplæringen.
-Dette er nødvendig for å kunne lage statistikk
-som følger elevene gjennom grunnskolen og
-over i videregående opplæring.
-Forslaget innebærer at Utdanningsdirektoratet
-kan følge barn i barnehageregisteret gjennom
-barnehagen, og elever gjennom grunnskolen. Det
-forkorter lagringstiden betraktelig sammenlignet
-
-[Side 41]
-
-2024–2025
-
-Prop. 131 L
-
-39
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-med høringsforslaget, samtidig som det samlet
-sett ivaretar nåtidige og framtidige behov for statistikk om barnehage og grunnskole til skoleeiere, sentral forvaltning, utdanningssektoren og
-offentligheten.
-Skjerming av direkte identifiserbare personopplysninger hos Utdanningsdirektoratet
-Registrene vil inneholde direkte identifiserbare
-personopplysninger, fødselsnummer, for alle
-registrerte. Dette er nødvendig for å oppnå formålet med registrene. I høringen foreslo departementet å forskriftsfeste at Utdanningsdirektoratet
-skal pseudonymisere personopplysningene ved å
-ha plikt til å skille fødselsnummeret fra de øvrige
-personopplysningene i registeret. Registrene skal
-først suppleres med informasjon om de registrertes fødselsmåned, fødselsår og kjønn, hentet fra
-fødselsnummeret. Så erstattes fødselsnummeret
-med et løpenummer, og det genereres en koblingsnøkkel mellom fødselsnummer og løpenummer. Utdanningsdirektoratet vil ha koblingsnøkkelen hos seg, men lagret separat i organisasjonen.
-Departementet vurderer at en slik avgrensing
-mot direkte identifiserbare personopplysninger er
-et viktig personverntiltak, og et viktig tiltak for
-informasjonssikkerheten. Departementet foreslo i
-høringsnotatet å bruke begrepet «pseudonymisering». Personvernforordningen setter strenge
-krav til hva som anses å være pseudonymiserte
-personopplysninger, og departementet er i tvil om
-det å ta bort fødselsnummeret som beskrevet
-over, er tilstrekkelig. Departementet vil derfor
-ikke bruke dette begrepet, men fastsette i forskrift en slik plikt til å separere fødselsnummer fra
-andre personopplysninger.
-Avgrensningen til henholdsvis inntil seks og
-elleve år for lagring hos Utdanningsdirektoratet,
-innebærer at direktoratet bare vil ha rett til å
-beholde koblingsnøkkelen i inntil seks år for barn
-i barnehageregisteret og elleve år i registeret over
-barn i grunnskoleopplæring. Etter denne perioden er det bare SSB som skal lagre individdata
-med direkte personidentifiserbare opplysninger.
-Rammer for Utdanningsdirektoratets behandling av
-personopplysningene
-Departementet ser at det er behov for detaljert
-regulering av Utdanningsdirektoratets rammer
-for behandling av opplysningene i registrene, som
-vil ha en stor mengde personopplysninger om
-mange individer. Dette vil være til fordel for de
-
-registrerte ved at de får god informasjon om rammene for behandlingen av deres personopplysninger.
-Utdanningsdirektoratets registerdata vil, etter
-at fødselsnummeret er fjernet fra øvrige personopplysninger i registrene, fortsatt være definert
-som personopplysninger. De vil fortsatt være
-underlagt regelverket for personopplysninger,
-først og fremst personopplysningsloven og personvernforordningen. Personvernforordningen artikkel 24 setter krav til internkontroll hos den som
-har ansvar for å behandle personopplysninger (se
-definisjon av behandlingsansvarlig i artikkel 4).
-Begrepet «internkontroll» brukes ikke i forordningen, men kravene som stilles, tilsvarer det man
-vanligvis legger i tradisjonell internkontroll. Med
-«internkontroll» menes systematiske tiltak som
-sikrer at registeret etterlever det regelverket
-registeret er omfattet av, det vil si bestemmelsene
-i personvernforordningen, personopplysningsloven og henholdsvis barnehageloven og opplæringsloven med forskrifter. Kravet om innebygd
-personvern i artikkel 25 innebærer også en plikt
-til å integrere internkontrolltiltak i systemløsninger.
-Utdanningsdirektoratet må sørge for at kvalitetssikringssystem finnes, gjennom egnede tekniske og organisatoriske tiltak. For å si hva som
-ligger i egnede tiltak, må det ses hen til behandlingens art, omfang og formål i tillegg til risikoen for
-personers rettigheter og friheter. Konkrete krav
-finnes i andre deler av forordningen, herunder
-krav til protokoll over behandlingsaktiviteter
-(artikkel 30), håndtering av sikkerhetsbrudd
-(artikkel 33) og plikt til å ha personvernombud
-(artikkel 34).
-Et viktig tiltak er tilgangsstyring. Datatilsynet
-definerer tilgangsstyring som «regler for å styre
-hvem som skal ha tilgang til hvilke opplysninger
-eller systemer». Dette blir også kalt rollestyring.
-Utdanningsdirektoratet må ha god styring og
-oversikt over alle som har tilgang til personopplysningene. Tilgang må loggføres. Koblingsnøklene
-må underlegges særskilt kontroll, og alle koblinger mellom registerdata må loggføres sammen
-med en begrunnelse.
-I høringen foreslo departementet å forskriftsfeste at Utdanningsdirektoratet kan sammenstille
-personopplysningene i registrene med andre personopplysninger direktoratet har innhentet etter
-regelverket i opplæringsloven med forskrift, og
-med opplysninger fra Folkeregisteret, for å utarbeide statistikk og analyser innenfor formålet til
-registrene. Departementet holder fast ved vurderingen av at adgangen til å koble data vil styrke
-
-[Side 42]
-
-40
-
-Prop. 131 L
-
-2024–2025
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-muligheten for oversikt og kunnskapsgrunnlaget
-om barn og unge. Departementet tar sikte på å
-regulere adgangen i forskrift som foreslått.
-Adgangen til å koble vil være avgrenset til den
-perioden Utdanningsdirektoratet har rett til å
-lagre personopplysninger, se omtale over om
-begrensninger i lagringstiden.
-I adgangen til å koble personopplysninger fra
-ulike kilder vil det ligge en adgang for direktoratet
-til å tilbakeføre fødselsnummeret (den direkte
-personidentifiserende opplysningen) til registeret/registrene, ved hjelp av koblingsnøkkel. Se
-omtale av dette verktøyet ovenfor. Etter kobling
-må fødselsnummeret igjen fjernes og erstattes
-med løpenummer. Også de sammenstilte opplysningene skal lagres uten direkte identifiserende
-personopplysninger.
-Det er særlig viktig at Utdanningsdirektoratet
-har oppmerksomhet på de særlige beskyttelsesbehovene for barn som bor på skjult adresse eller
-som tilhører en sårbar gruppe av andre grunner
-(bor på institusjon, politisk flyktning eller lignende).
-Departementet vil følge opp forslaget om å forskriftsfeste krav til informasjonssikkerhet og
-internkontroll hos Utdanningsdirektoratet.
-Lagring og bruk hos SSB
-SSBs bruk og blant annet lagringstid, reguleres av
-statistikkloven med forskrifter. Opplysninger som
-ikke lenger er nødvendige for å utarbeide statistikk, blir slettet eller avlevert til Riksarkivet i medhold av arkivlova. For at SSB skal kunne lage
-sammenhengende statistikk og kunne sammenstille ulike statistikker med hensyn til emne og
-tidsperiode, vil det normalt være nødvendig at
-personopplysningene lagres for framtiden.
-Alle data som foreslås inn i registrene, se
-omtale i punkt 2.6.4, vil bli innhentet av SSB. Dette
-kan bli annerledes ved en eventuell utviding av
-innholdet i registrene senere, og vil da måtte vurderes på nytt.
-
-2.6.4
-
-Hvilke individdata som skal inngå i
-registeret
-
-2.6.4.1 Innledning
-Departementet foreslår, som i høringsforslaget, at
-det i barnehageloven og opplæringsloven blir tatt
-inn hjemler til å etablere registre, og at de nærmere reglene om blant annet hvilke opplysninger
-registrene skal inneholde, fastsettes i forskrift. Se
-nærmere omtale i punkt 2.6.3.
-
-Høringsforslaget inkluderte forslag til forskriftsregulering med en uttømmende liste over
-hvilke opplysninger registrene skal inneholde om
-det enkelte barn. Flere av opplysningene som var
-foreslått er særlige kategorier av personopplysninger etter personvernforordningen artikkel 9.
-Dette gjelder blant annet informasjon om individuell tilrettelegging og spesialpedagogisk hjelp.
-Flere av høringsinstansene har hatt kommentarer til forslaget til forskriftsregulering av hvilke
-opplysninger som skal inngå i registrene. Innvendingene knytter seg dels til personvernmessige
-sider og dels til de økonomiske og administrative
-sidene av forslaget. Enkelte høringsinstanser har
-stilt spørsmål ved behovet for å inkludere opplysninger som kan regnes som særlige kategorier av
-personopplysninger etter personvernforordningen artikkel 9, som opplysninger som spesialpedagogisk hjelp i barnehagen og individuell tilrettelegging i skolen. Som følge av innspill i høringen, har departementet foretatt en ny vurdering
-av hvilke opplysninger registrene bør inneholde.
-
-2.6.4.2
-
-Nærmere om hvilke opplysninger som
-registrene skal inneholde
-Departementet holder fast ved vurderingen av at
-registrene må inneholde personopplysninger som
-gjør det mulig å følge individer over tid. For at
-dette skal være mulig, mener departementet at
-registrene må inneholde fødselsnummer som
-identifiserer barnet (som lagres atskilt fra resten
-av dataene og avleder fødselsår, fødselsmåned, og
-kjønn), et organisasjonsnummer som identifiserer
-barnehagen eller skolen barnet går på og opplysninger om trinn og klasse for eleven. Opplysningene gir informasjon om hvilket barn som er tilknyttet hvilken barnehage eller skole og når tilknytningen begynner og avsluttes, og noen
-grunnleggende opplysninger om egenskapene
-ved disse tilknytningene.
-I tillegg mener departementet at registrene
-bør ha opplysninger om start- og sluttdato for tilknytningen til barnehage og skole, om plass i SFO
-for elever på 1. til 4. trinn, avtalt oppholdstid i barnehage og SFO, redusert foreldrebetaling i barnehage og SFO og totalt skolefravær i timer og
-dager. Departementet mener at opplysningene må
-samles inn for alle barn i barnehager og alle barn i
-grunnskolealder.
-Nytten ved å ha opplysninger om start- og
-sluttdato for tilknytningen til barnehage og skole
-er knyttet til at flere ubesvarte spørsmål handler
-både om tidspunkt for overganger og konsekvensene av hyppige overganger. Barn som flytter og
-
-[Side 43]
-
-2024–2025
-
-Prop. 131 L
-
-41
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-bytter skole ofte kan være ekstra sårbare. Vi trenger mer kunnskap om denne elevgruppen. En slik
-kunnskap vil være viktig for å kunne utvikle tiltak
-som bedre ivaretar de utfordringene disse elevene
-møter. Det gir også mulighet til å måle effekt av
-eventuelle tiltak for å redusere skolebytter, for
-eksempel kommunens boligpolitikk eller tilrettelegging for å beholde skoletilhørighet ved flytting.
-Data med tidspunkter for tilknytning vil også brukes til å få oversikt over forekomsten av barnehagebytte, overgang fra små barnehager og familiebarnehager, og om noen barnehager har større
-utskifting av barn enn andre.
-Individdata om fødselsmåned vil sammen med
-start- og sluttdato gjøre det mulig å analysere hvor
-gamle barna er når de starter i barnehagen, for
-eksempel hvor mange som starter når de er 12
-måneder versus de som starter når de er 20 måneder, og om dette varierer mellom barnehager i forskjellige deler av landet. Det blir også mulig å
-følge med på hvor mange av de som er født i
-desember og i de påfølgende månedene, som
-begynner i barnehage før de har rett til plass. Retten til plass i barnehage er spesifikt knyttet til fødselsmåned. Med individdata om fødselsmåned blir
-det mulig å evaluere hvordan eventuelle utvidelser eller endringer av retten til plass påvirker barnehagestart. Tilsvarende får direktoratet data som
-kan benyttes til å utrede hvordan eventuelle
-endringer i barnehagetilbudet påvirker alder ved
-barnehagestart, og utrede kostnader ved endring
-av rettigheter (for eksempel utrede kostnader
-hvis alle skulle hatt rett på plass ved fylte ett år).
-Utdanningsdirektoratet samler i dag inn opplysninger om barns oppholdstid på aggregert nivå
-i Basil. Utdanningsdirektoratet samler også inn
-aggregert informasjon i GSI om hvor mange
-elever som har en avtale om heltids- eller deltidsplass på SFO. På grunn av reduserte makspriser,
-ordninger med gratis kjernetid og redusert
-foreldrebetaling har det vært få og minskende
-antall barn som har deltidsplass i barnehage og
-SFO. Dette kan imidlertid endre seg, og i så tilfelle vil disse forholdene være viktige indikatorer
-for både kommune og stat å følge med på, og for å
-undersøke effekter av disse tilbudene for foreldres arbeidstilbud, betydningen av avtalt opphold
-for barnets senere overgang til skole, fravær og
-resultater.
-Det som særpreger skolefravær sammenlignet
-med andre tema som er foreslått som del av registrene, er at det i dag ikke engang samles inn aggregerte tall på elevfravær i 1. til 9. trinn. Individdata
-om omfanget av skolefravær i timer og dager vil
-gjøre det mulig å lage statistikk om hvilke grup-
-
-per elever som øker sitt fravær og om det er noen
-særlige kjennetegn ved de elevene som har høyt
-fravær. Å registrere fravær i registrene vil også gi
-et betydelig løft for mulighetene til å forske på fravær og tiltak mot fravær, sammenligninger av
-undergrupper av elever, ulike familiebakgrunner
-og innvandrerbakgrunn, og hvilke forhold som
-henger sammen med fraværsutviklingen over tid.
-Fordi skolefravær kan indikere elevers tilpasning,
-helse og trivsel, er personopplysninger om det
-enkelte barns fravær også av følsom art. Opplysninger om omfang av fravær er samtidig ikke særlig kategori personopplysninger etter personvernforordningen artikkel 9. Trolig kan noen av elevene, kanskje særlig de med mye fravær, kunne
-oppleve det som ubehagelig at opplysninger om
-deres fravær skal behandles sentralt over en lengre periode. Departementet foreslår å ikke registrere årsaken til fravær i det nye registeret over
-elever, i tråd med anbefalinger fra Utdanningsdirektoratet.
-Informasjon om betalingsmoderasjon i barnehage og SFO er opplysninger som ikke er omfattet av personvernforordningen artikkel 9 om særlig kategori, men opplysningene vil av mange regnes som følsomme. I dette tilfellet mener departementet at det i vurderingen av personverninngrep
-versus nytte, bør tillegges vekt at det å inkludere
-disse opplysningene i registrene kan bidra til treffsikre ordninger for en svakere stilt gruppe barn
-og familier. I dag er informasjon om moderasjonsordninger samlet inn som aggregerte data på
-kommunenivå. Det betyr at Utdanningsdirektoratet i dag har informasjon om hvor mange barn og
-familier som har fått redusert foreldrebetaling og
-moderasjonsordninger som følge av familiens inntekt, per kommune. Kombinert med annen informasjon, som hvem og hvor mange som har plass i
-barnehage og SFO og annen data om familiers
-inntekt, vil det være mulig å få oversikt over for
-eksempel om det er stort avvik mellom hvor
-mange barn og familier som oppfyller vilkårene
-for moderasjonsordninger og hvor mange som
-faktisk har benyttet seg av disse rettighetene. Det
-vil også være mulig å si noe om andelen av dem
-som ikke har barnehageplass, som ville hatt rett
-til moderasjonsordninger.
-Departementet mener imidlertid at individdata om barn som får redusert foreldrebetaling i
-barnehager og i SFO vil kunne bidra til ny og viktig kunnskap både på lokalt og nasjonalt nivå.
-Husholdninger med lav inntekt har i dag rett til
-redusert foreldrebetaling, men fordi de må søke
-på ordningen kan det være familier som ikke får
-den reduksjonen i foreldrebetaling som de har
-
-[Side 44]
-
-42
-
-Prop. 131 L
-
-2024–2025
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-krav på. Med individdata vil det være enklere å
-kartlegge variasjoner mellom kommuner i hvorvidt familier med et inntektsnivå som tilsier at de
-skulle hatt betalingsmoderasjon faktisk får det.
-Moderasjonsordningene kan derfor evalueres i
-lys av deres innvirkning på deltakelse i barnehage
-og SFO blant lavinntektsfamilier. Dette kan bidra
-til mer treffsikre subsidieringsordninger som
-fremmer lik tilgang.
-Departementet ser også at opplysninger på
-individnivå på dette området kan åpne for at data
-om plass i barnehage og SFO og bruk av moderasjonsordninger kan kobles til ulike egenskaper
-ved foreldrenes bakgrunn, arbeids-, velferds- og
-helsesituasjon. Denne sammenstillingen, som kun
-er mulig med data på individnivå, vil gi kunnskap
-om hvem som eventuelt ikke blir truffet av ordningen som tiltenkt, og kan også brukes til å studere
-betydningen av å motta moderasjon for senere
-utfall blant barna og for de voksne i familiene.
-Dette kan gi mer informasjon og et bedre grunnlag for å vurdere tiltak for å gjøre moderasjonsordningene mer treffsikre. Det kan også styrke kunnskapsgrunnlaget for politikkutvikling i andre sektorer.
-Å legge til informasjon om hvorvidt barnet har
-plass i SFO, og hva som er den avtalte oppholdstiden i barnehage og i skole, øker personverninngrepet noe. For det enkelte barn og den enkelte
-familie vil det kunne redusere barnets og familiens følelse av privatliv mer enn hvis innsamlingen
-kun strekker seg til å gjelde tilhørighet til barnehagen eller skolen. Det kan oppstå bekymring for
-at statlige myndigheter vil kunne bruke denne
-informasjonen til å diskriminere familier basert på
-behov for barnehage- eller SFO-tjenester, eller ved
-å avkorte eller justere familienes tilgang på andre
-offentlige tjenester eller ytelser basert på informasjonen. Å legge til informasjon om fravær i skolen
-og redusert foreldrebetaling vil øke personverninngrepet, særlig fordi begge disse opplysningene
-med rimelighet kan anses å være følsomme selv
-om de ikke tilhører særlig kategori etter personvernforordningen. En lekkasje av direkte personidentifiserbare data om disse forholdene vil være
-potensielt stigmatiserende og kan også tenkes å
-kunne bli misbrukt av private aktører eller offentlige myndigheter. Denne mulige konsekvensen vil
-også innebære lovbrudd.
-Som det er redegjort for i 2.6.2, ser departementet at etablering av individregistre over alle
-barn i barnehager og i grunnskoleopplæring
-utgjør et inngrep i personvernet, både for den
-enkelte og på samfunnsnivå. Samtidig er departementet av den oppfatning at det er store fordeler
-
-med en nasjonal sammenstilling som legger til
-rette for pålitelig statistikk og forskning.
-Personverninngrepet må også ses i lys av de foreslåtte vilkårene for behandlingen av personopplysningene (punkt 2.6.3) og ivaretakelsen av de
-registrertes rettigheter (punkt 2.6.5). Samlet er
-departementets vurdering at hensynet til å tilrettelegge for et godt kunnskapsgrunnlag må veie tyngre enn hensynet til det inngrepet registrene innebærer i den enkeltes personvern.
-Departementet viser til redegjørelsen over, og
-mener at det bør framgå av forskrift til barnehageloven at barnehageregisteret skal inneholde slike
-opplysninger om det enkelte barnet:
-– fødselsnummer eller D-nummer
-– barnehagens adresse, organisasjonsnummer
-og foretaksnummer
-– startdato og sluttdato
-– avtalt oppholdstid
-– redusert foreldrebetaling og gratis kjernetid
-grunnet familiens inntekt
-Videre mener departementet at det bør framgå av
-forskrift til opplæringsloven og forskrift til privatskoleloven at grunnskoleregisteret skal inneholde
-slike opplysninger om den enkelte elev:
-– fødselsnummer eller D-nummer
-– skoletilhørighet og organisasjonsnummer eller
-privat grunnskoleopplæring i hjemmet, jf. opplæringsloven § 22-5
-– startdato og sluttdato
-– trinn og klasse
-– fravær i dager og timer
-– plass i SFO-tilbud for elever på 1. til 4. trinn,
-avtalt oppholdstid og redusert foreldrebetaling
-
-2.6.4.3
-
-Nærmere om mulige framtidige endringer
-i registrenes innhold
-
-Den gjennomførte høringen viser at det kan være
-behov for ytterlige utredning av enkelte opplysninger som det kan være relevant å inkludere i
-registrene, både opplysninger som var del av
-høringsforslaget og andre opplysninger som har
-blitt løftet fram i høringen.
-Departementet er enig i høringsinstansenes
-vurdering av at innsamling og bruk av opplysninger som regnes som særlige kategorier av personopplysninger og andre personopplysninger som
-kan regnes som følsomme, er et særlig inngrep i
-personvernet til den enkelte. Det betyr at det må
-være et klart behov for kunnskap som tilsier at det
-er forholdsmessig å inkludere slike personopplysninger i et nasjonalt register.
-
-[Side 45]
-
-2024–2025
-
-43
-
-Prop. 131 L
-
-Endringer i opplæringslova, privatskolelova og barnehageloven (individregistre over barn i barnehager og grunnskoleopplæring,
-overtredelsesgebyr m.m.)
-
-Departementet framholder vurderingen av at
-myndighetene i dag har et mangelfullt grunnlag
-for å vurdere ressursbruken til spesialpedagogisk
-hjelp og individuell tilrettelegging, og hvordan
-man kan sikre at barn og elever får et godt tilbud.
-I lys av høringsinnspillene vil departementet gjøre
-en ny vurdering av hvilke opplysninger det er nødvendig å behandle for å svare på myndighetenes
-behov for kunnskap om tiltak og tilbud til barn og
-elever som får ulike former for individuell tilrettelegging og særskilt opplæring. Høringsinnspillene
-fra blant annet KS, kommunene og representanter
-for de private skolene tilsier også at departementet gjør en ny vurdering av de økonomiske og
-administrative konsekvensene av å inkludere
-disse opplysningene i registrene. Departementet
-vil derfor i denne omgang ikke gå videre med forslaget om at registrene skal ha opplysninger om
-vedtak om spesialpedagogisk hjelp i barnehagen,
-minoritetsspråklighet i barnehagen, vedtak om
-individuell tilrettelegging av opplæringen, vedtak
-om særskilt språkopplæring og vedtak om innføringsopplæring i skolen.
-Noen av høringsinstansene har gitt innspill om
-andre opplysninger som registrene bør inneholde.
-Departementet ser at statistiske data om opplæring i og på samisk, som Sametinget og Norges
-institusjon for menneskerettigheter (NIM) har foreslått inkludert i registrene, kan gi informasjon
-som kan bidra til å forbedre politikk om samisk
-språkbruk. Samtidig mener departementet at det
-kan reises prinsipielle spørsmål om hensiktsmessigheten av å samle inn og systematisere individdata om etnisitet og bakgrunn. Etter departementets vurdering er det behov for en nærmere utredning av behovet for en eventuell innsamling av
-slike individdata.
-Departementet har også merket seg at det er
-flere høringsinstanser som peker på et ønske om
-en ytterligere utvidelser av registrenes innhold.
-Departementet mener at det kan være et behov
-for at myndighetene systematiserer og sammenstiller opplysninger om flere forhold enn dem som
-nå blir foreslått regulert i forskrift til barnehageloven, opplæringsloven og privatskoleloven.
-Spørsmålet om utvidelse av registrenes innhold
-vil kreve både nærmere utredning og ny høring.
-En utvidelse til personopplysninger av særlig kategori etter personvernforordningen artikkel 9 vil
-kreve lovendring.
-Departementet har også merket seg høringssvaret fra Skattedirektoratet om behov for å justere
-innholdet i registrene som følge av det nye
-systemet for fødselsnummer som skal gjelde fra
-2032. Departementet vil komme tilbake til eventu-
-
-elle nødvendige tilpasninger til dette på et senere
-tidspunkt.
-
-2.6.5
-
-De registrertes rettigheter
-
-2.6.5.1 Generelt
-Personvernloven og personvernforordningen oppstiller en rekke krav til hvordan personopplysninger skal behandles. Først må det etableres et lovlig grunnlag for å behandle personopplysninger,
-se drøfting i punkt 2.6.3.
-Forordningen har en rekke regler om plikter
-for den behandlingsansvarlige, herunder om sikkerhet knyttet til behandling, lagring mv. meldeplikt til Datatilsynet ved brudd på personopplysningssikkerhet, personvernombud, om utlevering til tredjeland mv. Dette er i hovedsak generelle regler som Utdanningsdirektoratet alt er
-omfattet av, og som de følger i deres behandling
-av personopplysninger.
-Personvernforordningen kapittel III (artikkel
-12 til 23) har en rekke krav til behandlingsansvarlige som gjelder å ivareta de registrertes rettigheter. Dette er regler som er særlig viktig ved etablering av registre for barnehagebarn og barn i
-grunnskoleopplæringen. Departementet gjennomgår her de mest sentrale rettighetene og gir
-en omtale av disse vurdert opp mot de to registrene som det foreslås lovhjemmel for i denne proposisjonen.
-Etter personvernforordningen artikkel 89
-andre ledd kan det i nasjonal rett fastsettes unntak
-fra rettighetene i artikkel 15, 16, 18 og 21, så langt
-det er sannsynlig at slike rettigheter vil gjøre det
-umulig eller i alvorlig grad vil hindre oppfyllelsen
-av de spesifikke formålene, og slike unntak er
-nødvendig for å oppfylle formål ved behandling av
-personopplysninger for statistikk eller forskning.
-Slike unntak forutsetter at det er fastsatt «nødvendige garantier i samsvar med denne forordning
-for å sikre den registrertes rettigheter og friheter», se artikkel 89 første ledd. Departementet
-legger til grunn for drøftingen at formålet med
-registrene, som omtalt i punkt 2.6.3.2, er statistikk
-og forskning.
-2.6.5.2 Om rett til informasjon og innsyn
-De registrerte har etter personvernforordningen
-artikkel 14 om informasjon som skal gis dersom
-personopplysninger ikke er blitt samlet inn fra de
-registrerte, rett til generell informasjon om registeret, om den ansvarlige, formålet med behandlingen og type opplysninger osv. Utdanningsdirekto-
+### Personvernkonsekvenser og samfunnsnytte
+
+#### Innledning
+
+Samfunnsnytten ved å opprette individregistre over barn i barnehager og grunnskoleopplæring vil være at dataene styrker grunnlaget for statistikk og forskning, som gir støtte til beslutninger og arbeid med kvaliteten på tilbudet. Individregistrene vil muliggjøre forskning på sammenhenger mellom kjennetegn ved barna, barnehager og skoler, mønstre og utvikling over tid, forskningsbaserte evalueringer av tiltak og politikk, og gi en bedre oversikt over sektorene gjennom bedre statistikk. Samfunnsnytten av kunnskapen vil i første omgang komme ved at statlige og lokale myndigheter og profesjonene får et bedre grunnlag for å vurdere og videreutvikle sektorene. I tillegg vil kunnskapen bidra til en mer opplyst offentlighet og være av verdi for blant annet foreldre, yrkesgrupper og interesseorganisasjoner som samarbeider tett med barnehager og skoler. Høringssvarene viser at de fleste statlige og andre nasjonale offentlige instanser deler departementets oppfatning om at statistikken og forskningen som blir mulig ved etableringen av individregistre har stor samfunnsnytte. Som illustrert i svarene fra *Helse- og omsorgsdepartementet (HOD), Folkehelseinstituttet (FHI)*, *Integrerings- og mangfoldsdirektoratet (IMDi), Barneombudet* og *Språkrådet*, vil denne nytten også gjelde andre sektorer og samfunnsområder, og disse tverrsektorielle gevinstene er del av samfunnsnytten ved slike registre. Departementet vurderer at forslaget vil innfri statens behov for bedre oversikt over bruken av barnehage- og grunnskoletilbudet, sosiale og geografiske forskjeller og endringer over tid, evaluering av tiltak i barnehager og skoler, og hvordan bruk av barnehage- og skoletilbudet henger sammen med bruk av tjenester i andre sektorer og med andre utfall over livsløpet. Personopplysningene skal *kun* brukes til å generere data til statistisk behandling der direkte identifiserende kjennetegn er fjernet, og til å kvalitetssikre og koble disse dataene til andre registerdata.
+
+Skolefravær er et egnet tema for å illustrere samfunnsnytten og personvernkonsekvensene ved etableringen av individregistrene. En utfordring i arbeidet med å redusere fravær i skolen er at kunnskapsgrunnlaget er svært mangelfullt. Det finnes i dag ingen nasjonale tall på elevfravær i det hele tatt på 1. til 9. trinn, og selv fraværsstatistikken som benytter data fra vitnemål er mangelfull. Individdata om fravær er viktig for å få pålitelig statistikk om utviklingen i fravær, om de samme elevene har mye fravær over tid, mønstre i elevgrupper med mye og lite fravær, og sammenhengen mellom fravær og senere utdanning. Individdata om fravær vil også gjøre mulig bedre forskningsbasert kunnskap om elever som trenger ekstra oppfølging, betydningen av bakenforliggende forhold for omfanget av fravær og effekten av tiltak for å redusere fravær. Fravær fra opplæringen kan være et mål på elevers tilpasning, helse og trivsel. Av nettopp denne grunn er personopplysninger om det enkelte barns fravær også av sensitiv art, slik flere høringsinstanser påpeker. Hensikten med å innlemme fraværsdata i individregisteret over barn i grunnskoleopplæring er altså å få bedre grunnlag for å hindre økt fravær, og å sikre et godt og trygt skolemiljø for eleven. Departementet merker seg at også høringsinstanser som er imot forslaget om å etablere hjemmel for individregistre, mener at vi trenger bedre statistikk og forskning om elevfraværet.
+
+Individregistrene vil skape samfunnsnyttig kunnskap ved at utdanningsmyndighetene ved Utdanningsdirektoratet, Statistisk sentralbyrå (SSB), og godkjente forskningsinstitusjoner behandler dataene. Dette innebærer tre typer databehandling, som alle bidrar til samfunnsnytten på hver sin måte, men som også har personvernkonsekvenser hver for seg. For det første vil Utdanningsdirektoratet benytte dataene til å lage – og publisere – mer pålitelig statistikk om barnehage- og skolesektoren. Denne statistikken brukes av både direktoratet selv, av Kunnskapsdepartementet og av kommuner og ledere i barnehager og skoler for å vurdere tilstanden, utviklingen, aktuelle tiltak og politikkutvikling. For det andre vil dataene bli overført til SSB, slik at sistnevnte kan forbedre den offisielle statistikken på områdene, som i seg selv har samfunnsnytte ved at borgere og offentligheten får bedre kunnskap om sektorene. For det tredje vil SSB låne ut kopier av dataene til forskere, som på grunnlag av rammene i statistikkloven og etter en grundig godkjenningsprosess kan benytte versjoner av dataene der direkte identifiserende kjennetegn er fjernet til å utføre statistiske analyser som grunnlag for forskning. Enkelte høringsinstanser oppfordrer departementet til å avgrense formålet med bruken av dataene ved å angi hvilken forskning og statistikk som er tillatt. Departementet fastholder at det verken er mulig eller hensiktsmessig å gi en uttømmende beskrivelse av problemstillinger som kan besvares ved hjelp av data fra individregistre over barn i barnehager og grunnskoleopplæring, men erkjenner at det er nødvendig å gi eksempler for å kunne avveie ulempe mot nytte ved etableringen av registrene. Departementet drøfter i det følgende samfunnsnytten og personvernkonsekvensene ved de tre nevnte bruksområdene.
+
+#### Nytte og personvernkonsekvenser ved at Utdanningsdirektoratet etablerer registrene og bruker dataene til å lage statistikk
+
+Etableringen av registrene vil etter forslaget skje ved at Utdanningsdirektoratet sammenstiller personopplysninger over alle barn i barnehager og grunnskoleopplæring, basert på innhenting fra fagsystemer i kommunene og hos privatskolene, se nærmere om dette i punkt 2.6.3.3.
+
+Den første behandlingen av dataene som gir vesentlig samfunnsnytte foregår ved at Utdanningsdirektoratet selv produserer statistiske analyser og publiserer statistikk over sektorene. Denne statistikken er først og fremst til nytte for lokale og nasjonale myndigheter ved å gi bedre oversikt over sektorene og styrke kunnskapsgrunnlaget for forvaltning og politikk. Etableringen av registrene innebærer et inngrep i den enkeltes rett til privatliv, som er nedfelt i EMK artikkel 8 og i Grunnloven § 102. En nasjonal sammenstilling av opplysninger vil i seg selv innebære personvernkonsekvenser, blant annet fordi sammenstillingen vil føre til at personopplysninger blir mer tilgjengelig og at det blir mulig å koble flere opplysninger. Etablering av registrene innebærer også risiko for at personopplysninger kan komme på avveie. Både graden av personverninngrep og risikoen for at personopplysninger kan komme på avveie tilsier at behandlingen opplysningene må ha en stor samfunnsnytte.
+
+Personvernkonsekvensene ved sammenstillingen av disse opplysningene på samfunnsnivå er forbundet med at statlige myndigheter vil kunne ha oversikt over hvilke barn som har vært tilknyttet hvilke barnehager og skoler i Norge på årlig basis, og hvilke barn i opplæringspliktig alder som får hjemmeundervisning. Denne oversikten gir makt til statlige myndigheter overfor både barn, barnehager og skoler, og kommuner. Hvis den tiltenkte bruken av disse opplysningene fra statlige myndigheters side er uklar, vil det kunne vekke bekymring for at enkeltpersoners privatliv står under press. Det kan oppstå frykt for at myndighetene vil kunne bruke denne sammenstillingen av opplysninger til å kontrollere enkeltpersoner. For barn fra familier som ikke har lovlig opphold i Norge er det også en ulempe for deres privatliv at de statlige myndighetene i prinsippet kan identifisere dem. Dette forutsetter imidlertid at myndighetene bruker informasjonen til noe annet enn det forslaget gir lovlig grunnlag for. Selve opprettelsen av registrene vil også kunne ha som overordnet personvernkonsekvens at det kan bidra til at samfunnets personvernkultur blir negativt påvirket. Aksept for omfattende datainnsamling kan bidra til en kultur hvor personvern verdsettes mindre. Dette kan føre til en generell desensitivisering overfor personverninngripende tiltak, både i offentlige og private sektorer. Det er imidlertid også mulig at det motsatte skjer, og at sammenstillingen av direkte identifiserbare personopplysninger til et sentralt datasett vekker oppmerksomheten om personvernspørsmål og aktualiserer spørsmål om hva som er konsekvensene av denne formen for datainnsamling.
+
+Generelt øker innhenting av data fra kommunene til ett nasjonalt datasett risikoen for utilsiktet eksponering og lekkasje av data. For hvert enkeltindivid øker sjansen noe for at egne personopplysninger kommer på avveie, og ved selve overføringen gjelder dette også den direkte identifiserende opplysningen fødselsnummer. Ved datalekkasje, at opplysningene kommer på avveie, kan disse opplysningene misbrukes, for eksempel til identitetstyveri eller svindel. Forutsetningen er imidlertid at opplysningene som kommer på avveie kan kobles til annen informasjon om personene det gjelder, for eksempel navn, barnehagen eller skolens navn, og familiemedlemmers navn. Hvis en slik situasjon oppstår, vil det være mulig å benytte opplysningene til å utgi seg for å være fra barnehagen eller skolen for å be om sensitive opplysninger eller betaling.
+
+Faren for misbruk av disse opplysningene om fødselsnummer og tilknytning til barnehage eller skole er satt på spissen for barn som bor på skjult adresse eller som tilhører en sårbar gruppe i kraft av å bo på barnevernsinstitusjon. Det kan også tenkes at faren for misbruk av disse opplysningene er ekstra stor for barn i familier som har ankommet Norge som politisk flyktning eller som er i fare for forfølgelse på annet vis.
+
+Det man i første instans vil oppnå ved å samle inn og sammenstille personopplysningene er å etablere datasett som er populasjonsdekkende, kan følge individene over tid (forløp), og kan kobles til opplysninger om de registrerte fra andre registre og egenskaper ved barnehagene og skolene. Disse egenskapene er avgjørende som grunnlag for gode representative analyser av utviklingen for grupper av barn og elever over tid, for å bryte ned på undergrupper, studere ulikhet og utsatte/sårbare grupper, se i sammenheng med situasjon i andre sektorer, og et datasett som muliggjør forskningsbaserte utvalgsundersøkelser av mer spesifikke temaer. Etableringen av slike registre er nødvendig for å oppnå disse egenskapene ved dataene, men gevinstene ved at dataene har disse egenskapene vil ikke fullt ut realiseres i dette første trinnet i databehandlingen. For eksempel vil Utdanningsdirektoratet kun ha anledning til å koble opplysningene til andre data om utdanning de allerede har hjemmel til å behandle, og lagringstiden vil være begrenset, se 2.6.3.6.
+
+I dag har nasjonale myndigheter lite kunnskap om hvem barna som ikke går i barnehagen er, og heller ikke kunnskap om når ulike barn starter i barnehagen. Dette gjør det vanskelig å framskaffe god kunnskap om utvikling av barnehagedekningen, om hvilke grupper av barn som går i barnehager i ulike deler av landet, og forskjeller mellom skoler i hvor stor grad barna som begynner på 1. trinn har gått i barnehage (og hvor lenge de har gått i barnehage). Slike anslag vil Utdanningsdirektoratet kunne gjøre uten andre data enn tilknytningen mellom barn og barnehage, informasjon fra Folkeregisteret om alle barn (også de som ikke går i barnehage), og kobling til skoletilknytning senere.
+
+I Norge er det kommunene som har ansvaret for at barn i barnehager og elever i offentlige skoler får det tilbudet de har krav på, og for å oppfylle retten til grunnskoleopplæring og retten til barnehageplass. Utdanningsdirektoratet tilrettelegger data for lokale myndigheter slik at de kan gjennomføre disse lovpålagte oppgavene på en god måte. Individregistre over barn i barnehager og grunnskoleopplæring vil styrke statistikken for kvalitetsutviklingssystemer og prosesser på lokalt nivå. Statistikk basert på registrene vil kunne inngå i verktøy som *Statistikkbanken, Analysebrett* og *Mal for tilstandsrapport* og kan hjelpe kommunen i arbeidet med kvalitetsutvikling. I begge verktøyene presenteres visuelle framstillinger av sentrale nøkkeltall, som gjør det enkelt å få oversikt over tilstanden i kommunen. Nøkkeltall med basis i skoleregistret vil også kunne tilgjengeliggjøres i *Ståstedsanalysen for skoler*, som er et refleksjons- og prosessverktøy for å støtte skolens arbeid med kvalitetsutvikling. For mer avanserte brukere kan alle tall for kommunen og skolene lastes ned fra Statistikkbanken.
+
+Utdanningsdirektoratet vil kunne produsere og publisere statistikk om hvordan elevers fravær utvikler seg gjennom skolegangen og over tid. Dermed får kommunene god oversikt over det lokale fraværet, og mulighet til å se lokale tall og utvikling i en større sammenheng.
+
+Det vil for eksempel være nyttig å vite om fraværet er jevnt fordelt over alle tre årene på ungdomstrinnet eller om det øker mye på 9. eller 10. trinn, og det vil være nyttig å få kunnskap om hvordan fraværet utvikler seg over tid for grupper av elever. Er det de samme barna som har høyt fravær tidlig på barnetrinnet, i løpet av mellomtrinnet og ungdomstrinnet? Hvilke elever har redusert fravær over tid, og hva kjennetegner elever som øker fraværet mer enn andre i overgangen fra barnetrinnet til ungdomstrinnet? Data på fravær over alle tre årene på ungdomstrinnet vil også gi bedre muligheter til å sammenligne med statistikk om fravær i videregående opplæring. Fravær tidlig i skoleløpet kan få store konsekvenser, og det er derfor viktig å ta tak i fravær så tidlig som mulig. Oversikt over utviklingen i fravær på barnetrinnet vil være nyttig for å kunne vurdere om det bør settes inn særskilte tiltak for de yngste elevene. For gruppen elever med høyt fravær på ungdomstrinnet vil det være mulig å se på hvordan fraværet har utviklet seg gjennom grunnskoleløpet, som kan indikere hvor i løpet innsatsen mot fravær bør rettes.
+
+Individdata gir nye muligheter til å utvikle statistikk og indikatorer på fravær, for eksempel å beregne et samlet måltall for dager og timer, og/eller beregne andel fravær i prosent. Utdanningsdirektoratet kan også tilgjengeliggjøre oversikter over fordelingen av elever på ulike fraværsintervaller. Denne typen indikatorer øker nytteverdien av fraværsstatistikken fordi de kommuniserer bedre og bidrar til å gi et raskt overblikk til brukerne av statistikken, som for eksempel kommunene. Uten individdata er ikke denne typen beregninger og sammenstillinger mulig.
+
+Det vil kunne utarbeides og publiseres tall på median og gjennomsnittlig fravær for hvert av trinnene. Tallene vil kunne tilgjengeliggjøres for kommunen i direktoratets analyse- og refleksjonsverktøy, brukes i Ståstedsanalysen og lastes ned fra Statistikkbanken.
+
+Ved hjelp av data fra individregistrene vil Utdanningsdirektoratet også kunne identifisere mer avanserte mønstre og sammenhenger i fravær, både tverrgående basert på informasjonen som er hentet inn årlig for hvert av trinnene (f.eks. om jenter eller gutter har mest skolefravær på 1. trinn, om fraværet hoper seg opp på enkelte skoler), og langsgående basert på sammenkoblingen av informasjon for de samme elevene over tid. Utdanningsdirektoratet vil kunne koble informasjon om fravær til informasjon om *individer* (f.eks. trinn, kjønn, faglige resultater, fravær tidligere år, skolebytte) og *klasser* (f.eks. klassestørrelse, kjønnsfordeling og fravær i klassen) for aggregerte analyser. Det vil også være mulig med analyser hvor fravær knyttes til informasjon om *skoler* (skolestørrelse, privat/offentlig) og *kommuner* (sentralitet, KOSTRA-tall som pengebruk per elev). En annen mulighet er å se fravær opp mot informasjon om for eksempel trivsel fra elevundersøkelsen, ikke for den enkelte, men på skolenivå og trinn.
+
+Kommunen vil med dette få tilgang til statistikk i form av tall i tabeller og figurer eller grafikk om fraværet i kommunen, og for hver av skolene de er eier for. Kommunene vil kunne følge utviklingen i fraværet i kommunen og på den enkelte skole, og få informasjon om det er forskjeller mellom gutter og jenter eller mellom trinn. Kommunen vil også kunne sammenligne seg med nasjonale tall og med andre kommuner.
+
+En ytterligere fordel ved å etablere fraværsdata på individnivå er at kommunene vil framskaffe data på en mer enhetlig struktur og sørge for en sammenlignbarhet på tvers av skoler og kommuner som kommunene vil dra nytte av. Tidligere forskning på skolefravær viser varierende registreringspraksis og datakvalitet, se Fafo-rapport 2023:13 *Kunnskapsstatus om bekymringsfullt fravær i skolen*. Erfaring fra videregående opplæring og publisering av fravær på 10. trinn viser at når statistikk publiseres nasjonalt, øker datakvaliteten. Det er blant annet fordi Utdanningsdirektoratet gir felles og enhetlige føringer for registrering og tallene synliggjøres og blir offentlig tilgjengelige. I Meld. St. 34 (2023–2024) skrev regjeringen at det som en del av et system for å innhente fraværsdata også skal utarbeides tydeligere nasjonale standarder for fraværsføring i grunnskolen. Departementet vil gi Utdanningsdirektoratet i oppdrag å beskrive slike standarder og formidle dem til kommunene og privatskolene i forbindelse med opprettelsen av registrene.
+
+Det vil også være nyttig å benytte direktoratets statistikkvisninger i etterkant fordi dataene blir mer strukturerte enn det som mange kommuner har i systemene i dag. Statistikkverktøy fra Utdanningsdirektoratet er videre interessant fordi de kan erstatte kommersielle produkter fra leverandørene, se nærmere omtale i punkt 4.1.1.
+
+Kommunens nytteverdi vil være informasjon om omfang og utvikling i fraværet, og informasjon om hvilke skoler som har størst utfordringer med fravær, og eventuelt om lokale tiltak har innvirkning på utviklingen i fraværet. Dette kan være et viktig kunnskapsgrunnlag i lokal politikkutvikling og støtte arbeidet med forebygging og oppfølging av skolefravær.
+
+Utdanningsdirektoratet har også ansvar for at den nasjonale utdanningspolitikken blir satt i verk og for å vurdere tilstanden og utviklingen i sektorene. De foreslåtte dataene kan bidra til at direktoratet får bedre utgangspunkt for å ivareta dette ansvaret. Individdata om fravær vil for eksempel i større grad gjøre det mulig for Utdanningsdirektoratet å identifisere utfordringer og foreslå løsninger på dette området til Kunnskapsdepartementet.
+
+Samlet er departementets vurdering at samfunnsnytten av å sammenstille personopplysninger over alle barn i barnehager og grunnskoleopplæring overstiger de personvernkonsekvensene etableringen av registrene vil ha for den enkelte og på samfunnsnivå. I denne avveiningen har det betydning hvilke personopplysninger som skal registreres, hvilke rammer som stilles for innhenting av, tilgang til og bruk av opplysningene og hvilke rettigheter den enkelte registrerte har, se vurderinger i punkt 2.6.3 til 2.6.5.
+
+#### Nytte og personvernkonsekvenser ved at Statistisk sentralbyrå innhenter data fra registrene og lager offisiell statistikk
+
+Det andre trinnet i databehandlingen som gir samfunnsnytte er at Statistisk sentralbyrå (SSB) innhenter registerdataene og utvikler ny offisiell statistikk. Flere av de særskilte gevinstene ved registerdata blir tydelige ved at det er mulig å koble opplysningene til andre opplysninger om personene som er registrert, i datafiler der direkte identifiserende kjennetegn er fjernet.
+
+Overføring av data fra Utdanningsdirektoratet til SSB innebærer en noe forhøyet risiko for utilsiktet eksponering av enkeltpersoners private opplysninger. Hver enkelt behandling av dataene innebærer en risiko for datalekkasje. En annen personvernkonsekvens ved dette andre trinnet er økningen i antall personopplysninger som kan sammenstilles. SSB er en anerkjent og erfaren databehandler med gode rutiner for informasjonssikkerhet og underlagt internasjonale regler for offisiell statistikk. Personvernkonsekvensene av sammenstillingen på tvers av mange registre er likevel noe større enn ved opprettelsen av registrene med opplysningene som er foreslått her i seg selv. Overføringen av data til SSB vil føre til at både tilgjengeligheten av personopplysningene og koblingsmulighetene blir større, både fordi SSB behandler dataene selv, og fordi SSB låner ut data til forskere (se punkt 2.6.2.4).
+
+Ifølge SSBs høringsinnspill vil nye data som knytter barn til barnehage og skole kunne forbedre offisiell statistikk vesentlig, for eksempel ved å gjøre mulig statistikk som viser forskjeller i barnehagetilknytning, mellom barnehager og mellom skoler med utgangspunkt i barnas hjemmebakgrunn, som innvandrerbakgrunn, og foreldrenes utdanningsnivå og inntekt. Dette vil blant annet kunne gi bedre kunnskap om hvordan barnehage og skole kan virke utjevnende for barn i familier med lav inntekt, lav utdanning eller med innvandrerbakgrunn. Det vil også gjøre det mulig å framskaffe kunnskap om forskjeller i barnesammensetningen mellom barnehager, for eksempel segregering basert på foreldres økonomi eller innvandrerbakgrunn. SSB vil også kunne gjøre mer avanserte analyser av variasjonen i barnehagedekning på tvers av ulike befolkningsgrupper.
+
+Individdata om SFO-deltakelse vil ved tilkobling til informasjon om elevenes foreldre, for eksempel om utdanningsnivå, inntekt og arbeidsdeltakelse, men også innvandrerbakgrunn, boforhold (eierstatus, trangboddhet), kunne gi ny og nyttig kunnskap. Et eksempel er bedre kunnskap om hvorvidt skolefritidstilbudet påvirker foreldres arbeidstilbud, som er en av flere begrunnelser for dette som offentlig velferdstilbud. Det vil gjøre det mulig å undersøke hvilke forhold ved familiene som henger sammen med bruk av SFO, og hvorvidt SFO-deltagelse er forbundet med forskjellige utfall på kort og lang sikt for barn fra forskjellige familier og i forskjellige deler av landet. Bruker familier som bor i enebolig oftere SFO-tilbud enn familier som er trangbodde? Kan SFO-deltakelse ses i sammenheng med mer eller mindre skolefravær? Individdata om SFO-deltakelse vil også gi et styrket grunnlag for å evaluere framtidige reformer av innholdet og organiseringen av SFO.
+
+Utvikling av pålitelig statistikk og kunnskapsgrunnlag gjør det mulig å følge med på om nasjonale mål nås og virkningen av reformer og tiltak. Etter departementets vurdering vil nytten overstige personvernkonsekvensene som følger av at SSB innhenter data fra registrene.
+
+#### Nytte og personvernkonsekvenser ved at Statistisk sentralbyrå låner ut data fra registrene til forskere
+
+Mangelen på grunnleggende data om barn i barnehager og skoler, og mangelen på muligheter for å koble utdanningsdata til andre data er noe av det som gjør at forskere i dag har begrensede muligheter til å bidra med forskningsbaserte vurderinger av forhold i barnehager og skoler, situasjonen til barn og unge og politiske tiltak i barnehage- og skolesektoren. Individregistrene vil gi slike muligheter, og gi unike muligheter til å danne grunnlag for analyser av sammenhenger, forløp og mønstre. Dette bekrefter med ett unntak, alle forskningsmiljøer som har avgitt høringssvar. Departementet merker seg også at høringsinstansene ikke ga uttrykk for uenighet med departementets drøfting i høringsnotatet av at utvalgsundersøkelser egner seg dårlig til å skaffe god kunnskap om barn som har foreldre med lav inntekt og lav utdanning eller foreldre som er innvandrere.
+
+Departementet vil understreke at behovet for kunnskap ofte gjelder spørsmål om konsekvensene av politikk, effektene av tiltak, gevinstene og ulempene ved ulikt innhold og organisering av utdanningstilbud til barn. Hvilke effekter har tiltak og reformer i barnehagen og i grunnskoleopplæringen på resultater i skolen og i høyere utdanning? Hvilke effekter har endringer og reformer senere i livsløpet, slik som arbeid, inntekt, familiestiftelse og helse? Departementet mener at nasjonale registerdata som følger individene over tid har faglige fordeler også i denne sammenhengen. Slike data vil styrke grunnlaget for å evaluere effekten av både politiske tiltak (for eksempel regelverksendringer) og andre samfunnsendringer (for eksempel arbeidsmarkedsendringer eller covid 19-pandemien).
+
+En av konsekvensene av dagens mangel på data er at evalueringer av tiltak og reformer i barnehagen og grunnskoleopplæringen blir avgrenset til noen få utvalgte mål for læring på kortere sikt, slik som karakterer i enkelte fag og tester av grunnleggende lese- og regneferdigheter. Formålet med og begrunnelsen for mange tiltak og reformer er imidlertid langt bredere og har lengre tidsperspektiv enn hva slike mål for læring fanger opp. Individregistre vil kunne bidra til å følge enkeltpersoner og grupper over tid, og slik se på utvikling. Å ha registerdata om hele populasjoner tilrettelegger også for at vi kan få pålitelige analyser av årsak og virkning, og kan danne grunnlag for å vurdere effektene av tiltak og endringer. For å innfri disse kunnskapsgevinstene for politikkutvikling må dataene gjøres tilgjengelige for forskningsmiljøer.
+
+Registerinformasjon om skolefravær vil gi en rekke muligheter for analyser og forskning om forhold som er forbundet med økt eller redusert fravær. Forskere kan få utlevert data med påkoblet informasjon fra andre registre fra SSB for å avdekke mulige sammenhenger mellom fravær og andre bakgrunnsvariabler, og for å evaluere tiltak. Et slikt kunnskapsgrunnlag kan videre brukes av kommunene for utvikling av mer spissede tiltak. Forskere, ved å søke om å koble sammen registerdata, og også SSB vil ha flere muligheter til å se fravær i sammenheng med andre forhold rundt eleven.
+
+Mangelen på individdata om fravær gjør det vanskelig å studere tiltak som har til hensikt å redusere fraværet. En løsning der man istedenfor å etablere individdata samler inn aggregerte opplysninger i GSI, vil i liten eller i ingen grad styrke forskningen på fravær. Forskere ved *Frischsenteret* pekte i sitt høringssvar på at de tidligere har vært involvert i studier av innføringen av fraværsgrensen i videregående opplæring, noe som avdekket at fraværet falt betydelig da denne ble innført. Fordi det fantes fraværsregistreringer for elever i videregående opplæring hos SSB, var det mulig å studere effekter av fraværsgrensen etter sosioøkonomisk bakgrunn. Departementet er enig med *Utdanningsforbundet* i at det trolig er et mangfold av sammensatte årsaker til fraværet i skolen, og slutter seg til at arbeidet mot fravær på hver enkelt skole må orienteres mot individuell oppfølging og kjennskap til den enkelte elev. Departementet anser imidlertid at forskning som evaluerer mer generelle tiltak, som nasjonale eller lokale innsatser, regelverksendringer eller andre tiltak, vil kunne gi viktig og nyttig kunnskap til skoleledere, skoleeiere, nasjonale myndigheter, og andre som deler ansvaret for å sørge for at elever møter opp og trives på skolen. Individdata om fravær vil på denne måten gi viktig informasjon til utvikling av tiltak og tilbud for elevene. Eksempelet illustrerer også hvordan forskere kan benytte individdata til å komme fram til bedre årsaksslutninger enn med utvalgsundersøkelser, kvalitative datakilder eller erfaringsbasert kunnskap, slik det også beskrives i høringsnotatet i 2.3.4. Gode registre gjør at vi har større muligheter til å studere virkninger av politikk og gi bedre svar på om den virker etter hensikten.
+
+En sentral sammenstilling av data om alle barn som mottar grunnskoleopplæring, i skolen og i form av hjemmeundervisning, vil gjøre det mulig å dokumentere hvilke grupper som faller fra eller er i risiko for utenforskap. Dataene vil gi informasjon om tidlige risikofaktorer for å stå utenfor ordinær undervisning, hva som kjennetegner dem som blir tatt ut av skoleundervisning underveis eller kommer til skolen etter å ha hatt hjemmeundervisning en periode, og hva som er den typiske utviklingen for de som opplever hjemmeundervisning senere i utdanningsløpet.
+
+For å øke kunnskapen om utsatte barn og unge vil mulighetene for kobling mellom forskjellige registerkilder være av ekstra stor betydning. Utsatte barn og unge har oftere enn andre barn kontakt med hjelpeapparat fra flere sektorer, og er avhengig av at disse fungerer godt sammen. Høringsinnspillet fra *Frischsenteret* viser til studier av barn i barnevernet som tyder på at barn med bakgrunn fra barnevernet får karakter i færre fag enn den øvrige befolkningen. *Frischsenteret* påpeker at vi ikke i dag kan avdekke hvor stort problem dette er, fordi vi ikke kan observere og følge barna år for år. De foreslåtte individregistrene vil gjøre det mulig for forskere å studere skoleforløpene til slike utsatte grupper. Kunnskap om disse forløpene vil styrke grunnlaget for å vurdere forebyggende innsatser tidligere i disse barnas skoleløp.
+
+Ved å koble opplysninger om barna i barnehager og skoler med opplysninger om deres foreldre, og opplysninger om barna ved senere tidspunkt i livsløpet (utdanning, arbeid, helse og trygd) vil forskere kunne gjøre mange typer analyser om sammenhenger og forløp som ikke er mulig i dag. En kobling mellom barnet og hvilke barnehager barnet har gått i, vil kunne gi ny og relevant kunnskap for å belyse barnets skoleløp gitt at opplysningene kan kobles til barnets skoleresultater og utdanningsoppnåelse etter hvert. Individdata som knytter elever til hvilken skole de går på vil videre gjøre det mulig å studere effektene av egenskaper ved skoler og tiltak på skolenivå. Individregistrene i nedskalert versjon vil derfor også kunne innfri flere av kunnskapsbehovene som *Folkehelseinstituttet (FHI)* peker på i sitt høringssvar, blant annet datainfrastruktur for beredskap i tilfelle pandemi o.l., og kunnskap om hvordan tiltak i helsestasjon- og skolehelsetjenesten påvirker situasjonen til elever i barnehagen og skolen – og hvordan tiltak i skolen påvirker barn og unges helse.
+
+Med et individregister over barn i barnehage koblet til individdata om barn i grunnskoleopplæring vil mulighetene til å forstå overgangen fra barnehage til skole styrkes. Forskere kan da blant annet undersøke effekten av tiltak som prøves ut i barnehager, og hvordan disse gir utslag i barnas skolegang. Det er også mulig å se nærmere på senere overganger i utdanningsløpet. En viktig prioritet i utdanningssektoren er at flere ungdommer skal fullføre og bestå videregående opplæring. Som beskrevet i punkt 2.3.5.4 innhenter Utdanningsdirektoratet opplysninger om karakterer, fravær og gjennomføring av videregående opplæring på individnivå fra fylkeskommunene. Disse kan i dag kobles med registerdata fra andre sektorer og senere utdanningsdata på individnivå, av SSB for statistikk og for forskningsformål. Med de foreslåtte registrene vil forskere kunne koble data fra videregående opplæring med data fra grunnskole eller barnehage, og for eksempel undersøke om gjennomføringen i videregående opplæring har en sammenheng med tidspunkt for barnehagestart, fravær i grunnskolen, o.l.
+
+Personvernkonsekvensene av økt tilgjengelighet av personopplysninger og økte koblingsmuligheter, må veies opp mot de faglige fordelene av at nasjonale registerdata gjør det mulig å følge individer over tid. Departementets vurdering er at en slik mulighet særlig vil kunne komme utsatte grupper til gode. Etter departementets vurdering veier samfunnsnytten tyngre enn personvernulempene for den enkelte og på samfunnsnivå.
+
+#### Om forholdet mellom beskrivelse av nytte og formålsavgrensning
+
+Departementet merker seg at enkelte høringsinstanser, *Datatilsynet*, *Utdanningsforbundet* og *Lærerprofesjonens etiske råd*, mener forslaget preges av manglende formålsavgrensning for bruken av personopplysningene. *Utdanningsforbundet* skriver at høringsnotatets eksempler på hva registrene kan brukes til er tegn på at det ikke foreligger et avgrenset formål. Departementet anser at denne vurderingen blander sammen beskrivelsen av nytten ved kunnskapen som vil frambringes av registrene, og formålet med innsamlingen av personopplysningene. Formålet med å samle inn opplysningene til sentrale individregistre er å etablere bedre data til statistikk og forskning, og disse dataene vil foreligge i datafiler der direkte identifiserende kjennetegn er fjernet. Dataene skal kun brukes til statistisk behandling av ansatte i Utdanningsdirektoratet, Statistisk sentralbyrå og av forskere. Samfunnsnytten ved denne behandlingen oppstår ved at kunnskapen fra denne statistiske behandlingen blir formidlet og brukt i vurderinger. Formålsavgrensningen når det gjelder bruken av personopplysningene kan ikke være en avgrensning av hvordan informasjon fra tabeller, grafer og tekst som beskriver resultatene fra statistikken og forskningen kan brukes. Dette kan og bør imidlertid være del av beskrivelsen av samfunnsnytten ved forslaget, og del av forholdsmessighetsvurderingen.
+
+Departementet merker seg også at *Utdanningsforbundet* siterer *Statens veileder for vurdering av personvernkonsekvenser*, der det står om formålsangivelse: «Det må presiseres hvilken type forskning og hva man forventer å oppnå». Dette er departementet enig i, og departementet har derfor ovenfor gitt mange eksempler på hvilken type forskning registrene kan brukes til, og hva man forventer å oppnå. Departementet er enig med *Utdanningsforbundet* i at alle berørte bør kunne få anledning til å forstå hva personopplysningene skal brukes til. Departementet er samtidig uenig i at listen over kunnskapsgevinster bryter med prinsippet om formålsbegrensning i personvernforordningen artikkel 5 nr. 1 bokstav b (kun samles inn for spesifikke, uttrykkelig angitte og berettigede formål). Departementet viser til at forordningen åpner for at formål knyttet til forskning eller statistikk kan være bredere enn det som ble angitt ved den opprinnelige innsamlingen av opplysningene (ikke uforenlige formål). Fortalepunkt 33 i forordningen anerkjenner også dette: «\[F\]or formål knyttet til vitenskapelig forskning er det ofte ikke mulig fullt ut å identifisere formålet med behandlingen av personopplysninger på tidspunktet for innsamlingen av opplysningene». Personopplysningene skal i dette tilfelle kun brukes til å generere data til statistisk behandling og forskning der direkte identifiserende kjennetegn er fjernet, og formålet med dette er å frambringe kunnskap om effekt av ulike tiltak og utviklingen i sektoren. At det er mange eksempler på kunnskapsgevinster og samfunnsnytte ved bruk av kunnskapen fra slike data er etter departementets skjønn ikke et tegn på manglende formålsavgrensning ved bruken av personopplysningene.
+
+Departementet foreslår samtidig noen justeringer i lovreguleringen av registrenes formål og avgrensninger i tillatt bruk av registerdataene for å tydeliggjøre dette, se nærmere om dette i punkt 2.6.3.
