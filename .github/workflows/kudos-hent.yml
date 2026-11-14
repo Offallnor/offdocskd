@@ -26,6 +26,10 @@ on:
         description: "Hent teksten på nytt for dokumenter som mangler sidemerker (tekst fra PDF)"
         type: boolean
         default: false
+      titler:
+        description: "Bare fyll inn hovedtittel og kortnavn (henter ingen nye dokumenter)"
+        type: boolean
+        default: false
       diagnose:
         description: "Bare vis hva eksporten inneholder, lagre ingenting"
         type: boolean
@@ -33,6 +37,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: kudos
@@ -60,8 +65,10 @@ jobs:
           NY_TEKST: ${{ inputs.ny_tekst && '--ny-tekst' || '' }}
           FRA: ${{ inputs.fra || '2015' }}
           SOK: ${{ inputs.sok }}
+          TITLER: ${{ inputs.titler && '1' || '' }}
         run: |
-          if [ -n "$TEST" ]; then python3 -I verktoy/kudos_hent.py --test "$TEST"
+          if [ -n "$TITLER" ]; then python3 -I verktoy/titler.py --side
+          elif [ -n "$TEST" ]; then python3 -I verktoy/kudos_hent.py --test "$TEST"
           elif [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
           else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE $NY_TEKST; fi
 
@@ -70,6 +77,7 @@ jobs:
         run: |
           melding="$RUNNER_TEMP/melding.txt"
           if [ -f kudos-rapport.txt ]; then mv kudos-rapport.txt "$melding"; else echo "Dokumenter fra Kudos" > "$melding"; fi
+          cp "$melding" "$RUNNER_TEMP/rapport.txt"
           git add dokumenter dokumenter.tsv VEIVISER.md
           if [ -d tester ]; then git add tester; fi
           if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
@@ -82,3 +90,15 @@ jobs:
             sleep $((i * 10))
           done
           exit 1
+
+      - name: Si fra om meldinger og NOU-er uten kortnavn
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          r="$RUNNER_TEMP/rapport.txt"
+          [ -f "$r" ] && grep -q "uten kortnavn" "$r" || exit 0
+          tittel="Kortnavn mangler for nye dokumenter"
+          tekst="$(sed -n '/uten kortnavn/,$p' "$r")"
+          nr=$(gh issue list --state open --search "in:title \"$tittel\"" --json number -q '.[0].number')
+          if [ -n "$nr" ]; then gh issue edit "$nr" --body "$tekst"; else gh issue create --title "$tittel" --body "$tekst"; fi

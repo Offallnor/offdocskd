@@ -14,6 +14,7 @@ from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import deling  # noqa: E402
+import titler  # noqa: E402
 
 ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EKSPORT = "https://kudos.dfo.no/api/v0/documents/download/csv"
@@ -21,7 +22,7 @@ UA = "Mozilla/5.0 (offentlige dokumenter)"
 OVERSIKT = os.path.join(ROT, "dokumenter.tsv")
 START = time.time()
 MINUTTER = 140
-FELT = ["id", "type", "ar", "tittel", "sammendrag", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "tekstkilde", "tabeller", "figurer", "tall_linjer", "hentet"]
+FELT = ["id", "type", "ar", "tittel", "sammendrag", "eiere", "mottakere", "utforere", "fil", "side", "kudos", "kilde", "ord", "tekstkilde", "tabeller", "figurer", "tall_linjer", "hentet", "hovedtittel", "kortnavn"]
 VEIVISER = os.path.join(ROT, "VEIVISER.md")
 
 
@@ -165,7 +166,7 @@ def skriv_veiviser(rader, typer):
             ut += ["| År | Tittel | Innhold | Fil |", "|---|---|---|---|"]
             for r in sorted(av, key=lambda r: (r["ar"], r["tittel"]), reverse=True):
                 inn = (r.get("sammendrag") or "").replace("|", "/")[:220]
-                ut.append(f"| {r['ar']} | {r['tittel'].replace('|', '/')} | {inn} | `{r['fil']}` |")
+                ut.append(f"| {r['ar']} | {titler.visningstittel(r).replace('|', '/')} | {inn} | `{r['fil']}` |")
         ut.append("")
     ut.append("<!-- AUTO-SLUTT -->")
     tekst = open(VEIVISER, encoding="utf-8").read()
@@ -346,12 +347,16 @@ def main():
     for rad in oversikt.values():
         merk_kvalitet(rad)
         deling.ordne(rad["fil"])
+    uten_kortnavn = titler.oppdater(oversikt, side=True)
     skriv_oversikt(oversikt)
     skriv_veiviser(oversikt, typer)
     gjenstar = sum(1 for _, _, r in valgte if "KU-" + r["uuid"] not in oversikt) - len(feil)
     with open(os.path.join(ROT, "kudos-rapport.txt"), "w", encoding="utf-8") as f:
         f.write(f"Dokumenter fra Kudos: {nye} nye, {len(oversikt)} i alt\n\n")
         f.write("\n".join(f"- {x}" for x in feil[:50]) + ("\n" if feil else ""))
+        if uten_kortnavn:
+            f.write("\nMeldinger og NOU-er uten kortnavn (legg dem til under «kortnavn» i dokumenter.json, eller en tom liste):\n")
+            f.write("\n".join(f"- {x}" for x in uten_kortnavn) + "\n")
     print(f"{nye} nye, {len(oversikt)} i alt, {len(feil)} uten tekst, om lag {max(gjenstar, 0)} gjenstår")
     return 0
 

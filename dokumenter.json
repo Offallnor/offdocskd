@@ -335,5 +335,167 @@
       "ar": "tittel",
       "layout": true
     }
+  },
+  "kortnavn": {
+    "Meld. St. 18 (2014-2015)": [
+      "strukturmeldingen"
+    ],
+    "Meld. St. 16 (2015–2016)": [],
+    "Meld. St. 30 (2015–2016)": [
+      "integreringsmeldingen 2016"
+    ],
+    "Meld. St. 33 (2015–2016)": [
+      "Nav-meldingen"
+    ],
+    "Meld. St. 9 (2016–2017)": [
+      "fagskolemeldingen 2016"
+    ],
+    "Meld. St. 16 (2016–2017)": [
+      "kvalitetsmeldingen"
+    ],
+    "Meld. St. 23 (2016–2017)": [],
+    "Meld. St. 29 (2016–2017)": [
+      "perspektivmeldingen 2017"
+    ],
+    "Meld. St. 40 (2016–2017)": [
+      "eksportmeldingen"
+    ],
+    "Meld. St. 12 (2017–2018)": [
+      "HMS-meldingen"
+    ],
+    "Meld. St. 4 (2018–2019)": [
+      "langtidsplanen 2019"
+    ],
+    "Meld. St. 14 (2019–2020)": [
+      "kompetansereformen"
+    ],
+    "Meld. St. 7 (2020–2021)": [
+      "mobilitetsmeldingen"
+    ],
+    "Meld. St. 14 (2020–2021)": [
+      "perspektivmeldingen 2021"
+    ],
+    "Meld. St. 16 (2020–2021)": [
+      "arbeidslivsrelevansmeldingen"
+    ],
+    "Meld. St. 19 (2020–2021)": [
+      "styringsmeldingen"
+    ],
+    "Meld. St. 21 (2020–2021)": [
+      "fullføringsmeldingen",
+      "fullføringsreformen"
+    ],
+    "Meld. St. 32 (2020–2021)": [
+      "inkluderingsmeldingen"
+    ],
+    "Meld. St. 5 (2022–2023)": [
+      "langtidsplanen 2023"
+    ],
+    "Meld. St. 13 (2022–2023)": [],
+    "Meld. St. 14 (2022–2023)": [
+      "kompetansemeldingen",
+      "utsynsmeldingen"
+    ],
+    "Meld. St. 6 (2023–2024)": [
+      "pensjonsmeldingen"
+    ],
+    "Meld. St. 17 (2023–2024)": [
+      "integreringsmeldingen"
+    ],
+    "Meld. St. 19 (2023–2024)": [
+      "profesjonsmeldingen"
+    ],
+    "Meld. St. 20 (2023–2024)": [
+      "opptaksmeldingen"
+    ],
+    "Meld. St. 28 (2023–2024)": [
+      "trygdeoppgjøret 2024"
+    ],
+    "Meld. St. 31 (2023–2024)": [
+      "perspektivmeldingen 2024"
+    ],
+    "Meld. St. 33 (2023–2024)": [
+      "arbeidsmarkedsmeldingen"
+    ],
+    "Meld. St. 34 (2023–2024)": [
+      "ungdomsskolemeldingen"
+    ],
+    "Meld. St. 11 (2024–2025)": [
+      "fagskolemeldingen 2025"
+    ],
+    "Meld. St. 14 (2024–2025)": [
+      "forskningssystemmeldingen"
+    ],
+    "Meld. St. 27 (2024–2025)": [
+      "trygdeoppgjøret 2025"
+    ],
+    "Meld. St. 10 (2025–2026)": [
+      "trygdeoppgjøret 2026"
+    ],
+    "Meld. St. 11 (2025–2026)": [
+      "helsepersonellplanen"
+    ],
+    "Meld. St. 6 (2025–2026)": [],
+    "NOU 2015: 1": [
+      "Produktivitetskommisjonen"
+    ],
+    "NOU 2016: 3": [
+      "Produktivitetskommisjonen"
+    ],
+    "NOU 2017: 2": [
+      "Brochmann II-utvalget"
+    ],
+    "NOU 2018: 2": [
+      "Kompetansebehovsutvalget"
+    ],
+    "NOU 2019: 2": [
+      "Kompetansebehovsutvalget"
+    ],
+    "NOU 2020: 2": [
+      "Kompetansebehovsutvalget"
+    ],
+    "NOU 2018: 6": [
+      "Varslingsutvalget"
+    ],
+    "NOU 2018: 15": [
+      "Liedutvalget"
+    ],
+    "NOU 2019: 25": [
+      "Liedutvalget"
+    ],
+    "NOU 2019: 3": [
+      "Stoltenberg-utvalget"
+    ],
+    "NOU 2021: 2": [
+      "Sysselsettingsutvalget"
+    ],
+    "NOU 2022: 2": [
+      "Kierulf-utvalget"
+    ],
+    "NOU 2023: 1": [
+      "Kvalitetsutviklingsutvalget"
+    ],
+    "NOU 2023: 27": [
+      "Kvalitetsutviklingsutvalget"
+    ],
+    "NOU 2023: 19": [
+      "Ekspertgruppen for digital læringsanalyse"
+    ],
+    "NOU 2024: 13": [
+      "Lovutvalget om negativ sosial kontroll"
+    ],
+    "NOU 2024: 6": [
+      "TBU-rapporten 2024"
+    ],
+    "NOU 2025: 4": [
+      "TBU-rapporten 2025"
+    ],
+    "NOU 2026: 5": [
+      "TBU-rapporten 2026"
+    ],
+    "NOU 2025: 1": [
+      "Kompetansereformutvalget"
+    ],
+    "NOU 2016: 1": []
   }
 }
