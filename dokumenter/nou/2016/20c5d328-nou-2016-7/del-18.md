@@ -1,907 +1,932 @@
-# NOU 2016: 7, del 18 av 21 (side 196–205)
+# NOU 2016: 7, del 18 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/20c5d328-nou-2016-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-7/id2485246/
 - Original-PDF: https://www.regjeringen.no/contentassets/05a79a5ed91e40e1a80e6f8028b21e3e/no/pdfs/nou201620160007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 20 figurer, 55 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 196]
-
-194
-
-Kapittel 12
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-ende kortere tid i yrkeslivet – sent inn og tidlig ut.
-Høy ledighet blant innvandrere reproduseres.8
-Dette er både et uttrykk for et kompetansegap
-og kompetansetap. Mange av de som kommer til
-Norge som flyktninger vil kunne ha behov for, og
-nytte av, bedre bistand for å få nyttiggjort medbragt kompetanse på best mulig måte.
-
-12.2.3 Innvandring – noen tall
-Norge har hatt en rask og betydelig økning i innvandringsbefolkningen de siste tiårene, fra en innvandrerbefolkningen på om lag 60 000 personer i
-1975 til 698 000 personer ved inngangen av 2016.
-Dette er en økning fra omlag 1,5 prosent i 1975 til
-13,4 prosent av befolkningen per januar 2016.9
-Etter årtusenskiftet har arbeidsinnvandring mer
-og mer overtatt som vanligste innvandringsgrunn.10 Bare siden EU-utvidelsen 2004, er det
-kommet over 100 000 personer fra «nye» EU-land.
-Fra 2007 har det vært flere familiegjenforeninger
-knyttet til arbeidsinnvandrere enn flyktninger.11
-Siste halvår 2015 var preget av flyktningsituasjonen, og Norge fikk i løpet av 2015 en tilstrømning av flyktninger og asylsøkere på om lag 31 000
-personer. Personer fra Syria og Afghanistan
-utgjorde de to største gruppene. Dette er tre ganger høyere enn antallet som kom i 2014.12 Tilstrømningen har aldri vært verken høyere eller
-raskere, og prognoser for antall asylsøkere fremover er svært usikre. Beregningsgruppen for
-utlendingsforvaltningen har anslått at det vil
-komme om lag 33 000 i 2016.13
-Tall fra Utlendingsdirektoratet viser at det per
-16. desember 2015 var om lag 30 000 asylsøkere
-og flyktninger i mottak.14 Blant asylsøkerne som
-hadde kommet per denne datoen er om lag en tredel (9 940) barn. Det er i dag ikke tilstrekkelig
-systematisk kartlegging av kompetanse ved
-ankomst til Norge. Det er likevel rimelig å anta at
-relativt mange vil ha behov for bistand for å
-komme i arbeid, også dersom de har medbragt
-kompetanse som kan lette innpass i arbeidsmarkedet.
-8
-
-Informasjon til utvalget fra Arbeids- og velferdsdirektoratet.
-9
-SSB (2016)
-10
-SSB (2014)
-11
-Stambøl, L. S. (2013): Bosettings- og flyttemønster blant innvandrere og deres norskfødte barn. SSB, rapport 2013/46
-12
-Utlendingsdirektoratet 4. kvartal 2015
-13 Rapport fra beregningsgruppen for utlendingsforvaltningen oktober 2015
-14
-Utlendingsdirektoratet 4. kvartal 2015
-
-12.3 Dagens tilbudsstruktur
-Her beskrives nyankomne innvandreres tilgang til
-karriereveiledningstjenester i dag. Barn og unge i
-skolealder har rett til grunnopplæring, og vil ha
-rett til karriereveiledning i skolen.
-Voksne nyankomne innvandrere kan i dag få
-tilgang til noe karriereveiledning innenfor introduksjonsprogrammet og norsk- og samfunnskunnskapsopplæringen for innvandrere, innenfor
-den rettighetsfestede voksenopplæringen, gjennom karrieresentrene og NAV.
-Nedenfor gis en beskrivelse av voksne nyankomne innvandreres tilgang til karriereveiledning
-innenfor introduksjonsprogrammet og norsk- og
-samfunnskunnskapsopplæringen for nyankomne,
-og den rettighetsfestede voksenopplæringen. Deretter følger utvalgets vurdering av dagens tilbudsstruktur. Innvandrere vil som øvrig befolkning
-også ha tilgang til karriereveiledning gjennom fylkesvise karrieresentre og til dels gjennom NAV.
-Dette beskrives i henholdsvis kapittel 6 og kapittel
-11.
-
-12.3.1
-
-Tilgang til karriereveiledning
-forankret i introduksjonsloven
-Introduksjonsloven gir tilgang til karriereveiledning via to forskjellige ordninger, henholdsvis
-introduksjonsprogrammet og norsk og samfunnskunnskap. Ordningene forankret i Introduksjonsloven har forskjellige målgrupper, jf. Introduksjonsloven §§ 2 og 17.
-Introduksjonsprogram
-Et sentralt mål for integreringspolitikken er at alle
-innvandrere skal få mulighet til å bidra med sine
-ressurser i arbeidslivet og samfunnet.
-Formålet med introduksjonsprogrammet er å
-forberede nyankomne innvandrere til å delta i
-arbeids- og samfunnslivet, og hjelpe dem til å bli
-økonomisk selvstendige.15
-Kommunene har ansvar for å gjennomføre
-introduksjonsprogrammet, og står fritt til å velge
-hvordan tilbudet organiseres. Noen kommuner
-har organisert introduksjonsprogrammet i NAV,
-mens andre har valgt å legge ordningen til et kommunalt flyktningkontor eller til voksenopplærin15
-
-Programmet følger Lov om introduksjonsordning og
-norskopplæring for nyankomne innvandrere (introduksjonsloven) og omfatter nyankomne innvandrere mellom
-18 og 55 år som enten er flyktninger og familiegjenforente
-med flyktninger.
-
-[Side 197]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-gen. Ifølge SSB hadde introduksjonsprogrammet
-omlag 13 700 deltakere i løpet av 2013.16
-Karriereveiledning vurderes som nyttig for
-innvandrere som skal sette seg inn i et nytt lands
-språk, kultur, samfunns- og arbeidsliv, finne ut av
-arbeidsmuligheter og hvordan medbrakt kompetanse og utdanning kan nyttiggjøres.
-I følge introduksjonsloven skal introduksjonsprogrammet inneholde:17
-– Opplæring i norsk og samfunnskunnskap.
-– Tiltak som forbereder til videre utdanning eller
-arbeid.
-– En individuell plan for deltakeren utarbeidet på
-bakgrunn av kartlegging av opplæringsbehov
-og hvilke tiltak vedkommende kan nyttiggjøre
-seg.
-Loven gir ikke pålegg om at programmet skal
-inneholde karriereveiledning, men kommunen
-har en generell veiledningsplikt etter forvaltningsloven. I de fleste kommuner får deltakerne oppfølging av en veileder/programrådgiver, som skal
-kartlegge kompetanse og interesser, samt gjøre
-deltakeren bevisst sine ressurser og muligheter i
-Norge. Dette kan likevel ikke regnes som tilgang
-til fullverdig karriereveiledning i tråd med de faglige krav det er naturlig å stille til profesjonalitet
-og innhold i veiledningen.
-I følge Rambøll har programrådgiverne mange
-oppgaver, blant annet:18
-– Formidling til arbeid.
-– Kartlegging av kompetanse og utarbeidelse av
-individuell plan.
-– Oppfølging og veiledning av deltakere.
-– Formidling til språk- og arbeidspraksisplasser.
-– Innsøking på arbeidsmarkedskurs.
-– Bo- og etableringsrelaterte oppgaver.
-Det finnes ikke samlet dokumentasjon om i hvilket omfang det eventuelt tilbys karriereveiledningstjenester.
-Tilgang til karriereveiledning i norsk- og
-samfunnskunnskap opplæring for innvandrere
-Formålet med norskopplæringen er at voksne innvandrere skal nå et ferdighetsnivå i norsk som
-16
-
-Integrerings- og mangfoldsdirektoratet (2014): Faktahefte
-om innvandrere og integrering.
-17
-Justisdepartementet: Lov om introduksjonsordning og
-norskopplæring for nyankomne innvandrere (introduksjonsloven).
-18
-Rambøll (2011): Analyse av resultatoppnåelse i introduksjonsordningen. Sluttrapport
-
-195
-
-Kapittel 12
-
-kan nyttiggjøres eller bygges videre på i utdanning, arbeid og samfunnsliv for øvrig.19
-Kommunene har ansvaret for å gi tilbud om
-opplæring i norsk og samfunnskunnskap etter
-Introduksjonsloven, som regulerer rett og plikt til
-opplæring. Alder og oppholdsgrunnlag avgjør
-hvilke rettigheter den enkelte har.20 I løpet av
-2013 var det om lag 42 700 personer som deltok i
-norskopplæring for voksne innvandrere.21
-I henhold til læreplanen skal opplæringen
-organiseres i tre spor med ulik tilrettelegging og
-progresjon med utgangspunkt i deltakernes forutsetninger og behov.22 Læreplanen er delt inn i fire
-domener: det personlige domenet, det offentlige
-domenet, opplæringsdomenet og arbeidslivsdomenet.23 Selv om introduksjonsloven ikke gir
-noen spesifikk rett til rådgivning eller karriereveiledning i norskopplæringen, forekommer det elementer av karrierelæring i samtlige domener.
-Særlig i opplæringsdomenet og arbeidslivsdomenet er utdanning, arbeidsmuligheter og jobbsøking vektlagt. Det er opp til lærerne hvilke domener og temaer som vektlegges i norskopplæringen, og det vil derfor variere i hvor stor grad karrierelæring er en del av norskopplæringen. Det
-finnes ikke samlet dokumentasjon om i hvilket
-omfang det eventuelt tilbys karriereveiledningstjenester.
-I en undersøkelse som Vox foretok i 2015
-svarte halvparten av 172 voksenopplæringssentre
-at de har ansatt rådgivere.24 Imidlertid vet man
-lite om hvilke oppgaver de utfører eller hvilken
-kompetanse de har.
-
-12.3.2
-
-Voksne innvandreres tilgang til
-rådgivning i grunnopplæringen
-
-Voksnes tilgang til rådgivning i grunnopplæringen
-henger sammen med deres rettigheter til opplæring. Det er opplæringsloven som regulerer disse
-rettighetene. Voksne har ikke samme rett til rådgivning som barn og unge. Voksnes rett kan
-betegnes som en mer begrenset rett.
-19
-20
-
-21
-22
-23
-24
-
-Justisdepartementet: Læreplan i norsk og samfunnskunnskap for voksne innvandrere, side 7
-Retten innebærer at man har rett til å få opplæringen gratis,
-mens plikten innebærer at man må gjennomføre et visst
-antall obligatoriske timer med opplæring for å kunne søke
-permanent oppholdstillatelse eller norsk statsborgerskap.
-Vox (2014): Vox-speilet 2014, side 55
-Vox (2015): Organisering av opplæring i norsk og samfunnskunnskap. Vox-rapport
-Justisdepartementet: Læreplan i norsk og samfunnskunnskap for voksne innvandrere
-Vox (2015)
-
-[Side 198]
-
-196
-
-Kapittel 12
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Tilgang til rådgivning for voksne i grunnskole
-I følge opplæringsloven § 4A-8 har voksne med
-rett til grunnskoleopplæring rett til rådgivning for
-å kartlegge hvilket opplæringstilbud den voksne
-har behov for. Denne retten inntrer når det er
-avklart at vedkommende har rett til grunnskoleopplæring. Rådgivningen må ses i sammenheng
-med hva slags opplæring den voksne trenger,
-hvilke tilpasninger som bør gjøres på grunnlag av
-den voksnes livssituasjon, særlige behov eller
-realkompetanse. Dette vil kunne ha betydning når
-skoleeieren skal avgjøre hvilket opplæringstilbud
-den enkelte skal tilbys, herunder opplæringens
-innhold, omfang, lengde og hva som vil være et
-forsvarlig opplæringstilbud for den enkelte
-voksne.25 Dette kan likevel ikke regnes som tilgang til nødvendig utdannings- og yrkesrådgivning slik forskriften gir elever rett til, eller fullverdig karriereveiledning i tråd med de faglige krav
-det er naturlig å stille til profesjonalitet og innhold
-i veiledningen.
-Tilgang til rådgivning for voksne i videregående
-opplæring
-Voksne som har fullført grunnskolen eller tilsvarende, men som ikke har fullført videregående
-opplæring, har etter søknad rett til videregående
-opplæring. Retten omfatter voksne fra og med det
-året de fyller 25 år. Det er et vilkår at den voksne
-har lovlig opphold i landet. Voksne som oppholder
-seg lovlig i landet i påvente av å få avgjort søknad
-om oppholdstillatelse, har likevel ikke rett til videregående opplæring.26
-Voksne som har rett til videregående opplæring har ikke rett til rådgivning. Disse vil imidlertid kunne ha rett til veiledning etter forvaltningsloven § 11 siden fylkeskommunen og skolen er forvaltningsorgan etter forvaltningsloven § 2.27
-Denne veiledningsplikten vil blant annet kunne ha
-betydning ved søknad om inntak, realkompetansevurdering, vurdering og klagesaker. Dette kan
-likevel ikke regnes som tilgang til nødvendig
-utdannings- og yrkesrådgivning slik forskriften
-gir elever rett til, eller fullverdig karriereveiledning i tråd med de faglige krav det er naturlig å
-stille til profesjonalitet og innhold i veiledningen.
-
-12.3.3 Vurderinger av dagens tilbud
-Vurderingene er basert på foreliggende kunnskapsgrunnlag, herunder Meld St. 16 Fra utenforskap til ny sjanse (2015–2016), innspill til utvalget
-og dialog med blant annet Vox, nasjonalt fagorgan
-for kompetansepolitikk, Arbeids- og velferdsdirektoratet og Integrerings- og mangfoldsdirektoratet.
-Karriereveiledning gjennom
-introduksjonsordningene
-Målet med introduksjonsordningene er at deltakerne tar utdanning eller kommer i arbeid og blir
-selvforsørgende. Ordningene skal inneholde tiltak
-som forbereder til videre utdanning og arbeid,
-med utgangspunkt i en individuell plan basert på
-den enkeltes forutsetninger og behov. Introduksjonsloven gir ikke rett til karriereveiledning.
-Kommunen har en generell veiledningsplikt etter
-forvaltningsloven, og karriereveiledning kan sies
-å være en viktig oppgave for programrådgiverne.
-Likevel gjennomføres karriereveiledning ikke systematisk i disse ordningene.
-Programrådgiverne har mange oppgaver og i
-realiteten kan det ikke sies at de fungerer som
-karriereveiledere, selv om de skal gi råd og veiledning, utarbeide individuell plan og følge opp deltakeren i programperioden. Det vises til at integreringsmyndighetenes hovedinntrykk, basert på
-deres kjennskap til og innspill fra praksisfeltet, er
-at det foregår lite karriereveiledning i gjennomføringen av ordningene forankret i introduksjonsloven. Forskning viser at det er stor variasjon blant
-kommuner når det gjelder hvordan de organiserer og gjennomfører introduksjonsprogram, og
-lovens krav om individuelle planer blir ikke alltid
-fulgt opp tilfredsstillende.28
-Nyankomne innvandrere i mottak har ingen
-tilgang til karriereveiledning i dag. I henhold til
-rundskriv om bosettingsforberedende arbeid,
-skal mottaksansatte sørge for at kvalifikasjonspapirer sendes til godkjenning, men det tilbys ikke
-karriereveiledning. 29
-Forskning fra Fafo og andre viser at det er stor
-variasjon i utdanningsbakgrunn og kompetanse til
-den enkelte programrådgiver som har ansvaret
-for oppfølging av brukeren i introduksjonsprogrammet.30 Det innebærer at det er stor grad av
-
-25
-
-Utdanningsdirektoratet: Rundskriv Udir-3-2012.
-Dette følger av opplæringsloven § 4A-3. Fylkeskommunen
-skal også ha et tilbud til voksne søkere uten rett etter § 4A3, jf. opplæringsloven § 13-3 andre ledd.
-27
-Justisdepartementet: Lov om behandlingsmåter i forvaltningssaker (forvaltningsloven)
-26
-
-28
-
-29
-
-Djuve, A. B. og H. C. Kavli (2015): Ti års erfaring. En kunnskapsstatus om norskopplæring for innvandrere. Fafo-rapport 2015:26 og Rambøll (2011): Analyse av resultatoppnåelse i introduksjonsordningen, FoU-prosjekt.
-Innspill til utvalget fra Justisdepartementet.
-
-[Side 199]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-variasjon i den veiledningen den enkelte får av sin
-programrådgiver.31 Det synes å være gjengs oppfatning blant aktørene i praksisfeltet at det er
-behov for å heve kvaliteten på veiledningen for å
-holde god profesjonell standard. Praksisfeltet har
-stor interesse for karriereveiledning. Karriereveiledning er av kommunene blant annet spilt inn
-som viktig tema for kompetanseheving for programrådgiver i IMDIs Questback-undersøkelse
-høsten 2015.32
-Utvalget mener av ovennevnte grunner at det
-er behov for å styrke tilbudet om karriereveiledning i introduksjonsordningene.
-Kommunal og fylkeskommunal rettighetsfestet
-voksenopplæring
-Nyankomne barn og ungdom vil ha opplæringsrettigheter og rett til rådgivning i skolen på lik
-linje med andre elever. Når det gjelder beskrivelse
-av rådgivningen i skolen og utvalgets forslag for å
-styrke tilgang og kvalitet her, vises det til kapittel
-8.
-Nyankomne voksne med rett til grunnskoleopplæring etter opplæringsloven, har rett til rådgivning for å kartlegge sitt opplæringsbehov, jf.
-Opplæringslova § 4A-8. Opplæringsloven gir
-ingen slik rett til voksne i videregående opplæring. Voksnes rett til veiledning forankret i opplæringsloven er med andre ord knyttet til å finne ut
-hvilke fag/opplæring som trengs, og kan ikke sies
-å være karriereveiledning som sådan.33 Her blir
-veiledningen knyttet til å få kartlagt opplæringsbehov og rettigheter, arbeidsretting og det å komme
-raskt i arbeid kan fort få for lite fokus.
-I følge Grunnskolens informasjonssystem, er
-det kun 1,5 rådgiverstilling per 1000 deltakere i
-voksenopplæringen på landsbasis.34 I en kartleggingsundersøkelse som Vox gjennomførte i 2015,
-fremkom det at omtrent halvparten av de 172 voksenopplæringssentrene som svarte på undersøkelsen hadde ansatt rådgivere.35
-Nyankomne innvandrere har med andre ord
-liten tilgang til profesjonell karriereveiledning via
-voksenopplæringen.
-Utvalget mener at tilbudet til bosatte innvandrere, på linje med andre innbyggere, bør ivaretas
-
-av karrieresentre, som utvalget har anbefalinger
-for i kapittel 6.
-Tilbud om veiledning i NAV
-Innvandrere er en særskilt prioritert målgruppe i
-NAV, både når det gjelder brukeroppfølging og tiltak for rask overgang til arbeid.36 Det er blant
-annet lagt opp til at kommunene skal samarbeide
-med NAV om introduksjonsprogrammet.37 Det er
-også etablert spesialenheter for innvandrere,
-NAV-Intro, i de fire største byene. Det er stor variasjon i om kommunene samarbeider med NAV,
-hva de samarbeider om og hvor tidlig eventuelt
-NAV er involvert i den enkeltes løp.
-NAVs tjenester og arbeidsrettede tiltak er åpne
-for arbeidssøkere med innvandrerbakgrunn på lik
-linje med andre arbeidssøkergrupper. Det er
-ingen egen oppfølgingsindikator for nyankomne
-innvandrere, andre innvandrere eller arbeidssøkere med innvandrerbakgrunn som kunne gitt
-kvantitative opplysninger om oppfølging og veiledning av nyankomne innvandrere i NAV. Men innvandrere utgjør drøye 30 prosent av tiltaksdeltakerne på arbeidsmarkedstiltak. Fylker med høy
-andel innvandrere får relativt sett mer ressurser
-utfra ressursfordelingsmodellen i NAV.38
-Formelle utdanningsløp i karriereveiledning
-er forholdsvis nytt i Norge. Utvalget er kjent med
-at NAV har bestilt noe videreutdanning innen karriereveiledning. Flerkulturell kompetanse inngår
-ikke i den offisielle kompetansepolicyen i NAV.
-Det vises for øvrig til at veiledningen i NAV er
-arbeidsrettet og at NAV ikke har utstrakt kunnskap om utdanningssystemet. Det vises for øvrig
-til at NAV de fleste steder ser karrieresentrene
-som et viktig supplement til NAV.39 En del forskere har pekt på at mange av NAVs brukere, herunder innvandrere, ikke får den oppfølgingen de
-kan ha behov for gjennom arbeidsevnevurderingen i NAV.40
-Fylkesvise partnerskap for karriereveiledning og
-tilbud gjennom karrieresentre
-I 2015 var 22 prosent av de som mottok karriereveiledning ved et av karrieresentrene fra et annet
-36
-
-30
-
-Djuve, A. B. og H. C. Kavli (2015)
-Innspill til utvalget fra Justisdepartementet.
-32
-Innspill til utvalget fra Justisdepartementet.
-33
-Se kapittel 8 for ytterligere beskrivelse.
-34
-Utdanningsdirektoratet - GSI tall 2012
-35
-Vox (2015)
-31
-
-197
-
-Kapittel 12
-
-37
-38
-
-39
-40
-
-Årlige tildelingsbrev fra Arbeids- og sosialdepartementet
-og Mål- og disponeringsbrev til NAV fylkene.
-Rundskriv Q 27/2015.
-Informasjon mottatt fra Arbeids- og velferdsdirektoratet.
-Bruken av for eksempel tolk i arbeidsrettet oppfølging er
-liten da dette dekkes av driftsbudsjettet til NAV.
-Becken m.fl. (2014)
-Berg m.fl. (2012)
-
-[Side 200]
-
-198
-
-Kapittel 12
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-land enn Norge.41 Det er ukjent om og eventuelt
-hvor mange av disse som tilhører målgruppen for
-introduksjonsprogram eller norsk og samfunnskunnskap.
-Flere karrieresentre samarbeider med introduksjonsordningen i kommunene og tilbyr informasjon og karriereveiledningsaktiviteter til deltakere i norskopplæring og introduksjonsprogram.
-For eksempel samarbeider Karriere Nordland tett
-med flyktningetjenesten om deltakere i introduksjonsprogrammet. Flyktningetjenesten i Nordland
-henviser deltakere til karrieresenteret, som tilbyr
-individuell karriereveiledning, herunder kartlegging av kompetanse, veiledning om godkjenning
-av utdanning fra hjemlandet, informasjon om
-utdanningsrettigheter og utforming av karriereplan. Det benyttes tolk der det er behov for det.
-Deltagere i norskopplæringen tilbys gruppeveiledning fra karrieresenteret, og karrieresenteret
-bidrar med kompetansehevende tiltak for ansatte i
-flyktningetjenesten i Nordland.
-Det er imidlertid stor variasjon, og tilgangen
-til karriereveiledning for nyankomne innvandrere
-via karrieresenter varierer. Mange av karrieresentrene samarbeider ikke systematisk med kommunene om karriereveiledning til nyankomne. Det
-foreligger heller ikke føringer for dette i retningslinjene for det statlige tilskuddet til partnerskapene for karriereveiledning. At graden av samarbeid mellom kommuner og karrieresentere varierer må også ses i lys av at karrieresentrene har
-små ressurser mange steder og tilskuddet er relativt lite. Fravær av finansiering og fravær av rutiner for samarbeid eller operative samhandlingsrutiner mellom på den ene siden introduksjonsprogrammet, norskopplæringen, voksenopplæringen og karrieresentre på den andre, bidrar heller
-ikke til et likeverdig tilbud for alle.
-De fleste karrieresentre har god brukertilfredshet og de ansatte har ofte høy karrierefaglig
-utdanning.42 Men tilbudet er ikke i dag nødvendigvis tilpasset innvandreres norskferdigheter.
-Det ligger heller ingen spesielle føringer på karrieresenteret for å ha et tilpasset tilbud.
-Kommunene var i utgangpunktet tiltenkt å
-være en viktig aktør i fylkesvise partnerskap for
-karriereveiledning. Likevel har det mange steder
-vært for liten oppmerksomhet på integreringspolitikken i det fylkesvise partnerskapet og på samarbeid mellom introduksjonsordning og karrieresentrene, og norskopplæringen og karrieresentrene. I retningslinjene for det statlige tilskuddet
-41
-42
-
-Årsrapportering fra karrieresentrene til Vox 2015
-Vox (2012) og Berge m.fl. (2015)
-
-er det heller ikke et krav om å ha partnerskapsavtale med kommuner, i motsetning til hva som gjelder for NAV. Se omtale i kapittel 6.
-Samlet vurdering av tilbudet
-Det er mange aktører som har et ansvar for karriereveiledning for nyankomne innvandrere. Dette
-kan føre til at området oppleves fragmentert og at
-ansvarsforholdene blir uklare.
-Hvilken tilgang nyankomne innvandrere har
-gjennom introduksjonsordningene er vanskelig å
-måle og varierer fra kommune til kommune. Det
-er uklart i hvilken grad de ansatte har karrierefaglig kompetanse, og i hvor stor grad det er rom for
-å drive karriereveiledning gjennom ordningene.
-Fra deler av praksisfeltet meldes det om behov
-for kompetanseheving når det gjelder karriereveiledning av nyankomne flyktninger. Det er utviklet
-noen modeller for dette, se omtale under. Det er
-også utviklet en modul i Veiledningsplattformen i
-NAV som heter «Veiledning av brukere med innvandrerbakgrunn».43
-Kompleksiteten og variasjonen i selve organiseringen og implementeringen av tilbudet i henholdsvis norskopplæring, introduksjonsprogrammet, voksenopplæringen, NAV og karrieresentrene, er utfordrende i seg selv. Dette bidrar også
-til store forskjeller i tilbudet.
-Det er gode grunner for å anta at nyankomne
-innvandrere både har særlig behov for, og nytte
-av, karriereveiledning. Med et bedre tilbud om
-karriereveiledning vil mange nyankomne innvandrere komme raskere i arbeid eller utdanning.
-
-12.4 Kunnskapsgrunnlag
-Her oppsummeres kunnskap når det gjelder karriereveiledning for innvandrere fra henholdsvis
-nasjonal og internasjonal forskning og evalueringer, samt erfaring og forsøksprosjekter fra praksisfeltet.
-
-12.4.1
-
-Eksempler og prosjekter fra praksisfeltet i Norge
-
-Samarbeid mellom karrieresenter og
-voksenopplæringssenter
-For å bedre nyankomne innvandreres tilgang til
-karriereveiledning, har Vox i perioden 2013–2014
-initiert og finansiert prosjekter i fem fylker:
-43
-
-Arbeids- og velferdsdirektoratet: Veiledningsplattformen
-
-[Side 201]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Troms, Nord-Trøndelag, Oppland, Vestfold og
-Aust-Agder. Målet har vært å utvikle modeller for
-karriereveiledning for innvandrere i norskopplæringen og for kompetanseutveksling mellom karriereveiledere ved fylkesvise karrieresentre og
-lærere i norsk for voksne innvandrere. Fylkesvise
-karrieresentre ledet prosjektene som ble gjennomført i samarbeid med voksenopplæringen og
-NAV. Kommunal flyktningetjeneste, asylmottak
-og en attføringsbedrift har også vært involvert. Til
-sammen har prosjektene hatt om lag 260 deltakere: 11 i Troms, 132 i Nord-Trøndelag, 28 i Oppland og Aust-Agder og 50 i Vestfold. Prosjektet er
-presentert i en rapport fra Vox.44
-Kompetanseutveksling mellom de offentlige
-aktørene har handlet om opplæring i karriereveiledningsmetoder og -verktøy, bruk av språk,
-utveksling av informasjon om rettigheter og plikter, rammer og tilbud, og har foregått via prosjektgruppemøter, fagsamlinger, veiledningsobservasjon og hospitering, samt erfaringsmøter med
-brukere.
-Karriereveiledningsaktivitetene har vært knyttet til kartlegging og refleksjon over egen kompetanse, motivasjon og muligheter/begrensninger,
-utforsking av informasjon om utdanning og
-arbeid, og utvikling av karriereplaner.45 I Aust
-Agder har informasjon og veiledning om realkompetansevurdering og godkjenningsordninger også
-inngått. I Nord-Trøndelag inkluderte prosjektet
-utprøving av en versjon av faget utdanningsvalg i
-grunnskoleopplæringen for voksne innvandrere.
-Aust-Agder prøvde ut en modell med individuell karriereveiledning etterfulgt av tverrfaglige
-samarbeidsmøter. Øvrige fylker prøvde ut modeller for gruppeveiledning med mulighet for individuell veiledning eller trekantsamtaler i etterkant.46 Vestfold hadde karrierelæring som viktig
-integrert del. I Troms gjennomførte de gruppeveiledning i 50-timer samfunnskunnskap på morsmålet og arrangerte en såkalt dialogkafe med
-arbeidslivet. Veiledningen ble ledet av karriereveiledere med mål om at norsklærerne skulle kunne
-gjennomføre veiledningen senere. Karriereveiledningen foregikk i hovedsak på norsk. Tospråklige
-44
-
-Thomsen, M. og C. Fritzvold Hatlem (2016)
-Følgende standardiserte metoder/verktøy ble brukt i ett
-eller flere av prosjektene: Jobpics, RIASEC-systemet, WIE,
-CIP, livslinje, GROW/karrierestige, og Klart jeg kan-programmet. Jobpics ble benyttet både i Nord-Trøndelag, Vestfold og Oppland. I Nord-Trøndelag ble utdanning.no, vilbli.no og Youtube brukt aktivt. Dialogcaféen i Troms fungerte som et verktøy for nettverksbygging.
-46
-I såkalte trekantsamtaler deltar brukeren og representanter fra minst to av de offentlige involverte aktørene.
-
-199
-
-Kapittel 12
-
-lærere kurset i veiledningsmetodikk ble benyttet
-som medveiledere i veiledningsaktivitetene, og
-tolk i aktiviteter uten medveiledere.
-Vox sin evaluering av prosjektene konkluderer
-med at det er hensiktsmessig at nyankomne innvandrere får tilgang til karrierelæring og at ulike
-karriereveiledningsaktiviteter er integrert i undervisningen. Det bør benyttes flerspråklige ressurser siden målgruppen er tidlig i språkopplæringsløpet.47 Deltakere i voksenopplæringen bør få tilbud om individuell karriereveiledning på et tidlig
-tidspunkt for å legge en realistisk plan, og ikke
-minst for å motvirke feilvalg og unødvendig lange
-kvalifiseringsløp. Prosjektene har bidratt til at innvandrere tidlig fikk tilgang til målgruppetilpasset
-karriereveiledning, bedre sammenheng og kvalitet i tilbudene for brukeren og kompetanseutveksling mellom ansatte. Koordinering mellom de
-offentlige aktørene fremstår som viktig, og samarbeidsavtaler og rutiner i forankret i årsplaner, slik
-som i Oppland eller Valdresmodellen, vurderes
-som hensiktsmessig og effektfullt.
-Eksempler fra de fylkesvise karrieresentrene
-Noen fylkesvise karrieresentre har hatt aktiviteter
-knyttet til informasjon og veiledning av nyankomne innvandrere. Nedenfor løftes det frem tre
-ulike eksempler fra praksisfeltet, spilt inn av
-Vox.48
-Karriere Nordland
-I Nordland har karrieresentrene jobbet systematisk med karriereveiledning for nyankomne innvandrere over lang tid. Nordland har lenge satset
-på karriereveiledning og har ni karrieresentre
-som dekker hele fylket geografisk. De har et etablert tverrsektorielt samarbeid forankret i avtaler
-og politiske vedtak på fylkesnivå. I de fleste av de
-ni regionene er det også lokale avtaler eller rutinebeskrivelser som konkretiserer innholdet og organiseringen av tilbud til innvandrere. Dette har
-gjort karrieresentrene i stand til å bidra med karriereveiledning til nyankomne og spille en viktig
-rolle i integreringsarbeidet. Karriereveiledning er
-en del av fylkets politiske strategi for å integrere
-
-45
-
-47
-
-48
-
-Tospråklige ressurser: For eksempel tolker, tospråklige
-lærere, som underviser på deltakernes morsmål eller språk
-deltakerne behersker godt, eller likemenn (språkstøtte fra
-personer med samme språklige bakgrunn, men som er
-kommet lenger i språkopplæringsløpet).
-Beskrivelsen bygger på muntlig og skriftlig kommunikasjon Vox har med partnerskapskoordinatorer og karrieresenterledere.
-
-[Side 202]
-
-200
-
-Kapittel 12
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-nyankomne innvandrere. Nordland fylkeskommune, NAV Nordland, IMDi og KS har inngått en
-samarbeidsavtale om minoritetsspråklige.
-Karrieresentrene i Nordland tilbyr karriereveiledning til en bred gruppe innvandrere, både
-flyktninger, arbeidsinnvandrere og andre. Innvandrere som har behov for karriereveiledning henvises til karrieresentrene fra flyktningetjeneste,
-NAV eller voksenopplæring. I tillegg henvises en
-del arbeidsinnvandrere fra arbeidsgivere – ofte da
-med behov for å få vurdert kompetanse fra hjemlandet. Karrieresenteret tilbyr individuell veiledning tilpasset den enkeltes behov og ståsted. I tillegg arrangerer de kurs og gruppeveiledning for
-deltakere i grunnskoleopplæring, norskopplæring
-og introduksjonsprogrammet. For eksempel tilbys:
-– Kartlegging av kompetanse.
-– Veiledning om godkjenning av utdanning fra
-hjemlandet.
-– Informasjon om det norske skole- og utdanningssystemet, opplæringsrettigheter og tilbudet om voksenopplæring.
-– Informasjon om utdanningssystemet og det
-norske arbeidsmarkedet.
-– Bistand til å utarbeide Cv og jobbsøknad.
-– Karriereplan for videre studier eller arbeid i
-Norge.
-– Avklaring av arbeidspraksis/språkpraksis.
-Karrieresentrene sørger for at innvandrernes
-utdanningsdokumenter blir gjennomgått tidlig,
-slik at disse kan sendes videre til godkjenning.
-For å sikre kvaliteten på veiledningen benyttes
-tolk. Det arrangeres felles møter med veileder i
-NAV i etterkant. Flyktningkonsulent kan ofte
-være med på veiledningen.
-Karrieresenter Østfold
-Karrieresenter
-Østfold
-samarbeider
-med
-norskopplæringsentre og introduksjonsprogrammet i de store kommunene i fylket.49 Karrieresenteret holder informasjonsmøter og workshops for
-deltakere i norskopplæring og deltakere i introduksjonsprogram. På informasjonsmøtene presenterer karrieresenteret tilbudet sitt. På workshopene informerer karrieresenteret om utdanningssystemet, rettigheter og muligheter og om
-arbeidsmarkedet i Norge. Karrieresenteret kontaktes når det er oppstart av nye klasser/kull, og
-kommer ofte tilbake og holder nye informasjons49
-
-Norsksenteret i Sarpsborg, Moss Voks, FRIS i Fredrikstad
-og Delta i Askim/Indre Østfold.
-
-møter og workshops når deltakerne er ferdige og
-skal ut i arbeidslivet. Rundt 20 prosent av de som
-kommer til individuell veiledning ved karrieresenteret er innvandrere. De fleste av veilederne ved
-karrieresenteret har kompetanse i flerkulturell
-karriereveiledning. Som verktøy benytter karrieresenteret et billedbasert verktøy som er nyttig
-for personer med mangelfulle norskkunnskaper.
-Tolk benyttes ved behov.
-I tillegg bidrar Karrieresenteret i Østfold med
-kompetanseheving for veiledere som jobber med
-nyankomne innvandrere i fylket, som for eksempel NAV-veiledere, rådgivere ved ungdoms- og
-videregående skoler, og ansatte ved norskopplæringssentre og introduksjonsprogram. Kompetansehevingen skjer i form av ulike workshops og en
-årlig fagkonferanse. Tre av de seks årlige fagkonferansene i Østfold har hatt veiledning av minoritetsspråklige på programmet.
-Buskerud
-Papirbredden Karrieresenter i Buskerud samarbeider med Introduksjonssenteret i Drammen om
-programmet «Karriereutvikling for minoritetsspråklige». Deltakerne utvikler egne karriereplaner og får kunnskap om utdanningssystem og
-arbeidsliv, blant annet gjennom besøk på arbeidsplasser, utdanningsinstitusjoner og organisasjoner. Karrieresenteret samarbeider også nært med
-integreringskoordinatoren i NAV. Omlag 30 prosent av dem som kommer til individuell veiledning
-ved Papirbredden Karrieresenter er av utenlandsk opprinnelse.
-Med stimuleringstilskudd fra Vox igangsatte
-Papirbredden Karrieresenter i 2015 kompetanseutviklingsprosjektet «Flerkulturell karriereveiledning» rettet mot ansatte i NAV, Introduksjonssenteret i Drammen, OPUS og Papirbredden Karrieresenter. Tre samlinger ble avholdt høsten 2015.
-Samlingene inneholdt erfaringsdeling og konkrete forslag til praksisløsninger, og innspill derfra skal inngå i en rapport med pedagogiske og
-nyttige grep for god karriereveiledning av flerkulturelle.
-Prosjektet «Karriereveiledning for innvandrere» ved
-Bærum kommunale voksenopplæring
-En modell for karriereveiledning for nyankomne
-innvandrere i norskopplæring ble prøvd ut ved
-Bærum kommunale voksenopplæring våren 2012.
-Karriereveiledere bisto lærere med undervisningsopplegg. Prosjektet, støttet fra Vox og Vok-
-
-[Side 203]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-senopplæringssenteret, hadde til sammen 55 deltakere med ulikt språknivå.
-Målet for prosjektet var effektiv ressursutnyttelse ved at deltakerne på et tidlig tidspunkt etter
-bosetting startet prosessen mot utdanning og
-arbeid. Prosjektet hadde tre faser, hvorav de to
-første ble gjennomført i klassen:
-– Arbeid med et utvalg ord og begreper knyttet
-til utdanning og arbeidsliv.
-– Gruppeveiledning med veiledningsverktøyet
-Jobpics.
-– Individuelle karriereveiledningssamtaler.
-Både deltakere og ansatte rapporterer om positive
-erfaringer og at deltakere kom tidligere i gang
-med planlegging for utdanning og arbeid. Gjennomgang av begreper og gruppeveiledning med
-Jobpics i klasse, egnet seg godt til å forberede deltakerne for individuell karriereveiledning. Den
-individuelle karriereveiledningssamtalen ble mer
-effektiv når de først hadde jobbet med karriereveiledning i klasse. Noen hadde fått svar på spørsmålene sine i timene, og hadde ikke behov for individuell veiledning. Den første fasen med å gå gjennom begreper var særlig viktig for deltakere som
-kunne lite norsk. Den tredelte karriereveiledningsmodellen passet best for deltakere med dårlig norsk språk og lite utdanning. Prosjektets innretning la til rette for å fange opp de med behov
-for individuell karriereveiledning. Suksesskriterier for prosjektet har vært at ressursene og kompetansen fantes på stedet med egne veiledere med
-utdanning innen karriereveiledning, god forankring i ledelsen ved voksenopplæringssenteret,
-godt involverte lærere og veiledere og tilleggsfinansiering.
-
-12.4.2 Forskning og kunnskapsgrunnlag
-Norsk forskning om karriereveiledning og
-integrering
-Det er utført lite forskning i Norge på betydningen av karriereveiledning som virkemiddel for å
-integrere nyankomne innvandrere. Nedenfor
-omtales forskningsrapporter Vox og integreringsmyndighetene vurderer som relevante.
-Vox: Karriereveiledning: behov, utbytte og betydning
-En befolkningsundersøkelse fra Vox slår fast at
-nær en av fem voksne har behov for karriereveiledning.50 Blant dem som har grunnskole som
-høyest fullførte utdanningsnivå, svarer 46 prosent
-
-201
-
-Kapittel 12
-
-at de har et behov. Når det gjelder utbytte, svarer
-over halvparten (58 prosent) av de som har oppsøkt karriereveiledning om utdanningsmuligheter
-at de har hatt en endring i utdanningssituasjonen i
-etterkant, og 62 prosent mente at endringen
-skyldtes veiledningen. Over halvparten av alle
-som hadde vært til veiledning svarte at de fikk økt
-bevissthet rundt jobb og utdanning, og motivasjon
-til å forbedre jobb- eller utdanningssituasjonen. I
-rapporten kommer det fram at karriereveiledning
-er særlig viktig for personer som er i overgangsfaser, for eksempel ved at de ønsker å bytte jobb
-eller begynne på ny utdanning. Rapporten viser
-også at innvandrere hadde noe større utbytte av
-veiledning om jobb- og utdanningsmuligheter enn
-de norske respondentene.
-Fafo: «Ti års erfaringer, en kunnskapsstatus om
-introduksjonsprogram og norskopplæring for
-innvandrere»
-Fafos kunnskapsoppsummering «Ti års erfaringer, en kunnskapsstatus om introduksjonsprogram og norskopplæring for innvandrere» bekrefter at introduksjonsloven er et godt grep for å kvalifisere nyankomne flyktninger til arbeid og/eller
-utdanning.51 Samtidig viser rapporten, i tråd med
-statistikk fra SSB og øvrige forskingsrapporter, et
-stort potensiale for forbedring. Tett oppfølging av
-den enkelte og bruk av tilpassede tiltak er suksesskriterier. I følge rapporten må kommunene bli
-bedre på den individuelle tilretteleggingen av kvalifiseringsarbeidet. Målrettet kvalifiseringsarbeid
-bør starte tidligere enn det kvalifiseringsarbeidet
-gjør i dag. Programmene må bli mer arbeidsrettet,
-samtidig med at de med behov for utdanning, må
-få tilbud om det. Kommunene bør vurdere hvordan de i større grad kan tilpasse kvalifiseringstilbudet til det arbeidskraftsbehovet deltakerne vil
-møte etter endt program og målrettet kvalifiseringsarbeid bør starte tidligere. Det er stor variasjon i om og hvordan kommunene samarbeider
-med NAV, og hvor tidlig NAV er involvert i den
-enkeltes løp.
-Forskning viser at tiden etter avslutning og
-oppfølging av deltakere etter overgang til utdanning/tiltak eller arbeid, er en særlig kritisk overgang. 52 Tilbud om karriereveiledning noe tid
-etter endt program kan være en riktig investering
-for å sikre at tilknytningen til utdanning/arbeid
-blir opprettholdt.
-50
-51
-
-Berge m.fl. (2015)
-Djuve, A. B. og H.C. Kavli (2015)
-
-[Side 204]
-
-202
-
-Kapittel 12
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Forskning fra Fafo og andre viser for øvrig til
-at det er stor variasjon i utdanningsbakgrunnen
-og kompetansen til den enkelte programrådgiver.
-Det innebærer at det er stor grad av variasjon i
-veiledningen den enkelte får av sin programrådgiver.
-Internasjonalt kunnskapsgrunnlag
-Det foreligger internasjonale studier som
-omhandler karriereveiledning for innvandrere,
-men lite av forskningen sier noe om spesifikke
-utbytter og effekter av karriereveiledning som virkemiddel for integrering.
-Nedenfor oppsummeres: 1) en metastudie fra
-Cedefop som tar for seg sekundære forskningsstudier, en rekke casestudier fra ulike karriereveiledningstjenester i Europa og intervjuer med
-internasjonale eksperter, og 2) en europeisk sammenstillingsrapport fra ELGPN som omtaler
-resultater av karriereveiledningstjenester for innvandrere og viser til aktuelle forskningsstudier og
-3) en fersk svensk doktoravhandling.
-Cedefop: Valuing diversity: guidance for labour market
-integration of migrants
-Rapporten finner at de fleste studiene som er gjennomgått antyder at karriereveiledning fører til
-bedre integrering, økt motivasjon, bevissthet og
-jobbmobilitet, samt bedre koordinering av tjenestene.53 Rapporten påpeker at konkrete, målbare
-effekter av karriereveiledning som virkemiddel
-for integrering mangler.
-Rapporten viser at karriereveiledning blir tilbudt i ulike stadier av integrasjonsprosessen i de
-ulike landene. Innholdet og omfanget varierer.
-Utvikling av karrierekompetanser er et fellestrekk. Noen land har omfattende introduksjonsprogrammer som i Norge, der innvandrerne får
-informasjon om kultur, språk og samfunn. I følge
-rapporten gir disse programmene bedre resultater når de kombinerer informasjon med utvikling
-av karrierekompetanse og karriereplanlegging.
-52
-
-Frøyland, K. og C. Neumann (2012): Ungdom i Ny sjanse.
-Kvalifisering av ungdom med innvandrerbakgrunn til skole
-og arbeid – metoder og erfaringer fra åtte prosjekter. AFI-rapport 6/2012 og Maximova-Mentzoni, T. og S. Widding
-(2015): Famler seg frem til god etteroppfølging. Resultater fra
-undersøkelsen om oppfølging av deltakere som har kommet i
-arbeid eller utdanning etter å ha fullført Jobbsjansen. AFIrapport 12/2015
-53
-Cedefop (2015): Valuing diversity: guidance for labour market integration of migrants. Working paper No. 24
-
-Studien finner at svært mange av karriereveiledningsaktivitetene rettet mot integrering av innvandrere, er prosjektbaserte og kortvarige. Cedefop påpeker at gode resultater og en bærekraftig
-ordning fordrer tilstrekkelige ressurser og institusjonaliserte systemer.
-Rapporten konkluderer med at det må utvikles
-systemer for karriereveiledning og integrering av
-innvandrere. Det er viktig med en tverrpolitisk
-satsing. Karriereveiledningen bør være av god
-kvalitet, utført av veiledere med veiledningskompetanse og være tilpasset målgruppen bedre enn
-den er i dag. Rapporten understreker også betydningen av at arbeidsgivere, arbeidstakerorganisasjoner og innvandrermiljøer spiller en sentral rolle
-i dette arbeidet. Karriereveiledningen bør være
-strukturert, målbar og satt i system med egne
-resultatindikatorer.
-Kommuniké fra International association for
-educational and vocational guidance
-Under den årlige konferansen i den internasjonale
-foreningen for utdannings- og yrkesveiledning
-(IAEVG) i 2015 ble det vedtatt et kommuniké med
-tittelen IAEVG Communiqué on Educational and
-Career Guidance for Displaced Migrants.54 Kommunikéet peker på karriereveiledningens potensielle positive bidrag for mennesker som har forlatt
-hjemlandet sitt og ikke ennå er integrert i samfunnet de har flyktet til. I kommunikéet rettes det
-særlig fokus på å utvikle målgruppespesifikke
-programmer for å bistå migranter fram mot deltakelse i arbeid og utdanning. IAEVG kommer med
-følgende anbefalinger om hvordan karriereveiledning kan bidra:
-På systemnivå:
-– Working with the local immigrant community
-and their leaders to identify needs and relevant
-services.
-– Working with school personnel to ease the educational transitions of children and youth.
-– Services to support adults to engage in new
-learning systems and improving their qualifications to support their re-entry to employment
-systems.
-– Working with employers and educational institutions to match skills and qualifications of displaced persons to work that is commensurate
-with their qualifications.
-54
-
-IAEVG: Communiqué on Educational and Career Guidance
-for Displaced Migrants
-
-[Side 205]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-På individuelt nivå:
-– Support displaced migrants to identify their
-skills, increase their confidence and sense of
-hope for the future.
-– Identity training needs to increase employability, and the active steps that can be taken
-towards securing employment stability.
-– Help displaced persons to identity key
-community resources and to participate on
-interdisciplinary teams that offer a comprehensive approach to educational and vocational
-support.
-ELGPN: The Evidence Base on Lifelong Guidance
-I følge rapporten The Evidence Base on Lifelong
-Guidance, bør livslang karriereveiledning være en
-del av det offentlige tilbudet for innvandrere.55
-Karriereveiledning spiller en sentral rolle i å støtte
-innvandrere i å orientere seg, gjøre overgangen til
-utdanning og arbeid lettere, og fører til bedre integrering. For eksempel viser et forskningsprosjekt
-gjennomført i flere europeiske land at innvandrerkvinner som har fått karriereveiledning fikk
-større selvtillit og ble bedre i stand til å finne fram
-i utdanningssystemet og arbeidsmarkedet enn i
-land der innvandrerkvinner ikke fikk tilbud om
-karriereveiledningstjenester.
-Ungdom og inkludering
-En fersk svensk doktorgradsavhandling, som har
-sett på nyankomne ungdommers mulighet til
-inkludering med støtte av profesjonelle veiledningssamtaler, viser at veiledning kan være viktig.56 Spørsmål om utdanning og arbeid er sentrale spørsmål som elevene ofte ikke har andre å
-snakke med om. Mange mangler også et nettverk
-i Sverige. Elevene trenger praktiske, konkrete
-erfaringer og opplevelser knyttet til utdanning og
-arbeidsliv for å kunne forestille seg de mulighetene som finnes, ikke bare detaljert informasjon
-om de forskjellige studieretninger. Veiledningssamtalen har en avgjørende betydning. Sundelin
-presiserer at det ikke er tilstrekkelig med kompetanse i samtalemetoder og modeller. Den veiledende samtales kompleksitet og asymmetriske
-relasjon krever at veilederen i tillegg behøver
-kunnskap og forståelse om samfunn og karrierespørsmål og evne å ta et kritisk perspektiv på
-55
-56
-
-ELGPN (2014a)
-Sundelin, Å. (2015): Att skapa framtid: En analys av interaktionen i studie- og yrkesvägledande samtal med unga i migration. PhD avhandling. Stockholms universitet
-
-203
-
-Kapittel 12
-
-dette. Veilederen må blant annet oppfatte veiledningssøkerens følelser og eksistensielle spørsmål
-i relasjon til framtid og karriere, ha kunnskap om
-migrasjonens vilkår og evne å se og erkjenne
-urettferdighet og maktens ulike uttrykk. Veiledere trenger et forum for refleksjon. Dessuten bør
-veiledernes forståelse for læring i veiledende sammenheng utvikles, noe Sundelin ser som et felles
-arbeid for profesjonen, studie- og yrkesveiledningsutdanningene og forskningen på området.
-
-12.4.3
-
-Kunnskapsgrunnlaget – samlet og
-oppsummert
-
-Som for karriereveiledningsfeltet generelt, er
-både den nasjonale og internasjonale forskningen
-og evalueringer knyttet til karriereveiledning for
-innvandrere svak i den forstand at den i liten grad
-belyser resultater og effekter av karriereveiledning som virkemiddel. Utvalget mener at det er et
-stort behov for å styrke det forskningsbaserte
-kunnskapsgrunnlaget.
-Utvalget mener likevel at foreliggende kunnskapsgrunnlag samlet og oppsummert både belyser behov for og støtter opp om økt bruk av karriereveiledning for nyankomne innvandrere, og at
-karriereveiledning av god kvalitet fremmer:
-– Raskere arbeidsorientering og selvforsørging.
-– Samfunnsmessig nytte gjennom god bruk av
-nyankomnes ressurser.
-
-12.4.4
-
-Innspill til utvalget
-
-Utvalget har hatt bred kontakt med sentrale veiledningsaktører i løpet av sitt arbeid. Innspill fra
-eksterne aktører, på henholdsvis på regjeringen.no og utvalgets innspillkonferanse, etterlyser
-et bedre karriereveiledningstilbud for nyankomne
-innvandrere. I mange av innspillene er det påpekt
-at innvandrere ikke har tilstrekkelig tilgang til
-karriereveiledning og at språk kan være en barriere også når det gjelder å nyttiggjøre seg karriereveiledning.
-Flyktninger og nyankomne innvandrere ble
-fremhevet som en målgruppe det er særskilt viktig å prioritere ut fra et kost-nytte perspektiv på
-utvalgets innspillkonferanse høsten 2015. Mange
-av innspillene på regjeringen.no handler om å
-styrke karrieresentrene som ressurssenter for
-flere sektorer, og mer og tydeligere samarbeid
-mellom integreringsmyndighetene og karrieresentre ble trukket frem som nødvendig. Mange
-har påpekt behov for nasjonale føringer og økte
-ressurser til karrieresentrene for bedre tilgang til
-karriereveiledning for innvandrere.
+Kunnskapsdepartementet (2016): *Mot en nasjonal kompetansepolitisk strategi*. Dokument utarbeidet i forbindelse med oppfølgingsmøte om nasjonal kompetansestrategi 19. januar 2016. http://www.vox.no/contentassets/ b2ade4fce9934d6d96f174ef86316644/ avgrensingsdokument_mot_en_nasjonal\_ kompetansepolitisk_strategi2.pdf
+
+Kunnskapsdepartementet: Nasjonalt kvalifikasjonsrammeverk for livslang læring
+
+Kunnskapsdepartementet: Program for bedre gjennomføring https://www.regjeringen.no/ no/tema/utdanning/grunnopplaring/ innsiktsartikler/Bedre-gjennomforing-i- videregaende-/id2005356/)
+
+Kunnskapsdepartementet: Prop. 1 S (2013–2014)
+
+Kunnskapsdepartementet: Prop. 82 L (2014–2015) Endringar i opplæringslova og privatskolelova (krav om relevant kompetanse i undervisningsfag m.m.)
+
+Kunnskapsdepartementet: Retningslinjer for tilskudd til fylkesvise partnerskap for karriereveiledning av 5. mars 2014, kap. 258, post 60
+
+Kårstein, A., T. C. Carlsten (2013): *Evaluering av Internship-ordningen ved Universitetet i Tromsø.* NIFU rapport 2013–26
+
+Larsen, M. F. (2009): *Behov og interesse for karriereveiledning*. Vox rapport 2009
+
+Larsen, M. F. (2011): *Karriereveiledning i Norge*. Vox rapport 2011
+
+Lehn, S. (2003): *Kønsblind vejledning?* Roskilde Universitetscenter: Center for Ligestillingsforskning
+
+Lerkkanen, J., H. Ikonen (red.) (2013): *Guidance 2013: Guidance System in JAMK University of Applied Sciences*
+
+Lehn, S. (2010): Køn og vejledning. I *Ungdomsforskning 3 & 4, 2010*
+
+Lillekveland, T. og K. Røren Strand **(2014): *En analyse av sluttrater og stillingsrotasjon i Forsvaret.* FFI-rapport 2014/00343
+
+Lindh, G. (1990): *Indføring i vejledning*. København: Forlaget studie og erverv
+
+Luihn, H. (1986): *Arbeid og samfunn: Arbeidsmarkedspolitikk i Norge gjennom 100 år.* NKS forlaget
+
+Lødding, B. og J. S. Borgen (2008): *Karriereveiledning i overgangen mellom ungdomsskole og videregående opplæring: Delrapport 1. Evaluering av Kunnskapssløftet.* Oslo: NIFU
+
+Lødding, B. og C. Tømte (2011): *Personlig karriereveiledning på nett? Kartlegging og analyse av status og muligheter for etablering av en felles nettbasert veiledningstjeneste.* NIFU Rapport 21–2011
+
+Lødding, H. og S. Holen (2012): *Utdanningsvalg som fag og utfordring på ungdomstrinnet.* NIFU-rapport
+
+Løve, T. (2005): *Vejledning ansigt til ansigt: teorier og metoder i den individuelle vejledning.* Fredensborg. Studie og erhverv
+
+Lærerutdanningsrådet (1994): *Rammeplan for rådgiving/sosialpedagogisk arbeid i grunnskolen og videregående opplæring*. Oslo: Kirke-, utdannings- og forskningsdepartementetet
+
+Malone T. W. og J. Rockart (1991): *Computers, Networks, and the Corporation*. Scientific American
+
+Manger, T., O. J. Eikeland, og A. Asbjørnsen, (2010): *Innsette i norske fengsel: Motiv for utdanning under soning.* Rapport nr. 3/10. Bergen: Fylkesmannen i Hordaland, Utdanningsavdelinga
+
+Manger, T., O. J. Eikeland, B. Roth, og A. Asbjørnsen (2013): *Nordmenn i fengsel: Motiv for utdanning*. Rapport nr. 4/13. Bergen: Fylkesmannen i Hordaland, Utdanningsavdelinga
+
+Mathisen, P. og A. Kristiansen (2005): *Etiske retningslinjer i profesjonelle veiledningsforhold*. Norsk pedagogisk Tidsskrift nr. 3, 2005
+
+Mathisen, T. og M. Stokke (2011): *Karriere Sogn og Fjordane*. En evaluering av partnerskap for karriereveiledning. ØF-rapport nr. 07/2011
+
+Mathiesen, I. H., T. Buland, og B. Bungum (2010): *Kjønn i skolens rådgiving – et glemt tema?* Trondheim: SINTEF Teknologi og samfunn
+
+Maximova-Mentzoni, T. og S. Widding (2015): *Famler seg frem til god etteroppfølging. Resultater fra undersøkelsen om oppfølging av deltakere som har kommet i arbeid eller utdanning etter å ha fullført Jobbsjansen*. AFI-rapport 12/2015
+
+McCarthy, J. og T. Hooley (2015): *Integrated policies: Creating systems that work*. Adel, IA: Kuder
+
+Meld. St. 18 (2010–2011): *Læring og fellesskap*
+
+Meld. St. 20 (2012–2013): *På rett vei, Kvalitet og mangfold i fellesskolen*
+
+Meld. St. 23 (2012–2013): *Digital agenda for Norge*. *IKT for vekst og verdiskaping*
+
+Meld. St. 14 (2014–2015): *Kommunereformen – nye oppgaver til større kommuner*
+
+Mordal, S., T. Buland og I. H. Mathiesen (2015): *Rådgiverrollen – mellom tidstyv og grunnleggende ferdighet.* Trondheim og Stavanger: SINTEF, NTNU, IRIS
+
+Nerland, M. (2011): Karriereveiledning – et felt under profesjonalisering. I Gaarder, I. E. og T. F. Gravås (red) (2011): *Karriereveiledning*: Oslo. Universitetsforlaget
+
+NIFU (2012): *Påbygg – et gode eller en nødløsning? En studie av påbygging til generell studiekompetanse i Østfold, Akershus, Buskerud, Rogaland og Nord Trøndelag skoleåret 2010 – 2011.* NIFU- Rapport 2/2012. Oslo: NIFU
+
+NICE – Network for Innovation in Career Guidance and Counselling in Europe **(2012)*: Handbook for the academic training of career guidance and counselling professionals.* Heidelberg: Heidelberg University
+
+NICE (2016) \[NICE Handbook II\]. Manuskript under publisering
+
+NOU 2003: 16 *I første rekke.*
+
+NOU 2008: 6 *Kjønn og lønn*
+
+NOU 2008: 18 *Fagopplæring for framtida*
+
+NOU 2009: 18 *Rett til læring*
+
+NOU 2014: 14 *Fagskolen – et attraktivt utdanningsvalg*
+
+NOU 2014: 7 *Elevenes læring i fremtidens skole. Et kunnskapsgrunnlag*
+
+NOU 2015: 8 *Fremtidens skole. Fornyelse av fag og kompetanser*
+
+NOU 2015: 15 *Politikk for likestilling*
+
+NOU 2016: 3 *Ved et vendepunkt: Fra ressursøkonomi til kunnskapsøkonomi – Produktivitetskommisjonens andre rapport*
+
+Nyen T. og A. H. Tønder (2012): *Fleksibilitet eller faglighet? En studie av innføringen av faget prosjekt til fordypning i Kunnskapsløftet.* Fafo-rapport 2012/47
+
+Nyhus L., G. K. Solbu og M. Stokke (2011): *Partnerskap – eller løse forbindelser? Vurdering av fylkesvise partnerskap for karriereveiledning. Del 2.* Østlandsforskning – ØF-rapport nr. 08/2011
+
+OECD (2002): *Review of Career Guidance Polices. Country Note: Norway*. Paris: OECD
+
+OECD (2003): *OECD Education Policy Analysis.* Paris: OECD
+
+OECD (2013b): *Education at a Glance.* Paris: OECD
+
+OECD (2004a): *Career Guidance and Public Policy. Bridging the Gap.* Paris: OECD Publishing
+
+OECD (2004): *Career Guidance: A Handbook for Policy Makers.* Paris: OECD
+
+OECD (2009): *Learning for Jobs. OECD Reviews of Vocational Education and Training.*
+
+OECD (2013): *Education at a Glance.* Paris: OECD
+
+OECD (2014a): *Skills Strategy Diagnostic Report Norway.* Paris: OECD
+
+OECD (2014b): *Skills Strategy Action Report Norway.* Paris: OECD
+
+Oomen, A. og P. Plant (2014): *Early School Leaving and Lifelong Guidance.* ELGPN Concept Note No. 6. Jyväskylä: ELGPN
+
+Opinion Perduco (2013): *Nasjonal kartlegging av unges utdannings- og yrkesvalg*
+
+Parsons, F. (1909): *Choosing a vocation*. Houghton Mifflin Company. Boston New York
+
+Patton, W. og M. McMahon (2014): *Career Development and systems theory. Connecting theory and practice.* (3.utg.). Rotterdam: Sense Publishers
+
+Plant, P. (1998): *Linkages in careers guidance*. Journal of Career Development 08/1998: 20(1)
+
+Plant, P. (2013): *Alternativ?* Afveje, december, 2013. KBH: Vejlederforum http://www.vejlederforum.dk/ AFVEJE-gl.1391/Alternativ-.18.aspx
+
+Plant, P. (2014): Green Guidance. I Arulmani, G. & Watts, A. G. (red.): *Handbook of Career Development: International Perspectives*. London: Spring
+
+Plant, P. (2015): *Guia verde: Una guia para el futuro*, REOP. Vol. 26, nr.º1, 1º Cuatrimestre, 2015
+
+Rambøl (2010): *Nasjonal fokusgruppeundersøkelse om behovet for nettbasert utdanningsinformasjon*
+
+Rambøl (2011): *Analyse av resultatoppnåelse i introduksjonsordningen.* Sluttrapport
+
+Rapport fra beregningsgruppen for utlendingsforvaltningen, oktober 2015
+
+Reisel, L. og M. Teigen (2014): Det kjønnsdelte arbeidsmarkedet. I Reisel L. og M. Teigen (red.), *Kjønnsdeling og etniske skiller på arbeidsmarkedet.* Oslo: Gyldendal Akademisk
+
+Roberts, K. (2005): Social classes, opportunity structures and career guidance. I Irving, B. A. og B. Malik (2005): *Critical Reflections on Career Education and Guidance: Promoting Social Justice within a Global Ecomony*. London: Routledge
+
+Rott, G. (2015a): *Academic Knowledge and Students Relationship to the World: Career Management Competence and Student Centred Teaching and Learning*. Journal of the European Higher Education Area, 2015, No. 2
+
+Rott, G. (2015b): *Interdependencies in Modern Higher Education: Enhancing Career Management Competence and Student Centred Teaching and Learning*. Journal of Higher Education Area, 2015, No. 2
+
+Rådgiverforum Norge: Etiske retningslinjer for veilederarbeidet
+
+Schulstock, T. og B. Svoen (2014): *Synlig som et tema, men integrert som en tilnærming.* Sluttrapport for Kjønnslikestilling og flerkulturelle perspektiver i rådgivningsutdanningene (KLF-RU)-prosjektet Januar 2014. Høgskolen i Lillehammer
+
+Seville, C. (2013): *Gruppeveiledning – karriereveiledning i skolen.* Oslo. Pedlex Norsk skoleinformasjon
+
+Senter for IKT i utdanningen (2010): *Monitor 2010.* *Samtaler om IKT i skolen*
+
+Senter for IKT i utdanningen (2015): *Hvilke nettsteder tilbyr utdanningsinformasjon og karriereveiledning i Norge*
+
+Statistisk sentralbyrå (2015): https://www.ssb.no/befolkning/artikler-og- publikasjoner/flyktninger-i-norge Publisert 18.12.2015, lest 29.2.2016
+
+Stambøl, L. S. (2013): *Bosettings- og flyttemønster blant innvandrere og deres norskfødte barn.* SSB, rapport 2013/46
+
+St.meld. nr. 30 (2003–2004): *Kultur for læring*
+
+St.meld. nr. 16 (2006–2007): *… og ingen stod igjen*
+
+St.meld. nr. 9 (2006–2007): *Arbeid, velferd og inkludering*
+
+St.meld. nr. 44 (2008–2009): *Utdanningslinja*
+
+St.meld. nr. 23 (2012–2013): *Digital agenda for Norge. IKT for vekst og verdiskaping*
+
+Sundelin, Å. (2015): *Att skapa framtid: En analys av interaktionen i studie- og yrkesvägledande samtal med unga i migration.* Phd avhandling. Stockholms universitet
+
+Svendsrud, A. (2015): *Karriereveiledning i et karrierelæringsperspektiv*. Oslo: Universitetsforlaget
+
+Stambøl, L. S. (2013): *Bosettings- og flyttemønster blant innvandrere og deres norskfødte barn.* SSB rapport 2013/46
+
+Stokke, M. og Nyhus, L. (2010): *Partnerskap for karriereveiledning – en kartlegging og evaluering. Del 1 Kartlegging.* Østlandsforskning – ØF- notat nr. 12/2010
+
+Teig. A. (2000): *Skolerådgivning – status og utdanningsvalg.* HIO-rapport 2000:1. Høgskolen i Oslo
+
+Thomsen, M. og C. Fritzvold Hatlem (2016): *Karriereveiledning for nyankomne innvandre*. Vox
+
+Thomsen, R., C. Mathiassen, B. Wahlgren (2013): *Vejledning og kompetenceafklaring i danske NCK*, Institut for Uddannelse og Pædagogik, Århus Universitet
+
+Thomsen, R. (2014): *Karrierekompetence og vejledning i et nordisk perspektiv*. NVL-rapport
+
+Thorbjørnsrud, M., C. Alfsen, S. Holm (2015): *Kartlegging av karrieretjenester i høyere utdanning*. Vox
+
+Thorshaug, K. og S. Svendsen (2014): *Helhetlig oppfølging – Nyankomne elever med lite skolebakgrunn fra opprinnelseslandet og deres opplæringssituasjon.* Trondheim: NTNU Samfunnsforskning
+
+Tinto, V. (1993): *Leaving College:* *Rethinking the Causes and Cures of Student Attrition*. 2<sup>nd</sup> ed. Chicago, IL: University of Chicago Press
+
+Tinto, V. og B. Pusser (2006): *Moving From Theory to Action: Building a Model of Institutional Action for Student Success.* NPEC report
+
+Utdanningsdirektoratet: Anbefalt formell kompetanse og veiledende kompetansekriterier for rådgivere
+
+Utdanningsdirektoratet: Nasjonale retningslinjer for realkompetansevurdering av voksne i grunnskoleopplæringen
+
+Utdanningsdirektoratet: Retningslinjer for realkompetansevurdering videregående opplæring
+
+Utdanningsdirektoratet: Rundskriv Udir-2-2009 Informasjon om endringer i forskrift til opplæringsloven kapittel 22 og forskrift til privatskoleloven kapittel 7 – Retten til nødvendig rådgivning
+
+Utdanningsdirektoratet: Rundskriv Udir-3-2012 om voksnes rett til grunnskoleopplæring etter opplæringsloven kapittel 4A
+
+Utdanningsdirektoratet: *Statistikknotat 3/2014: Hva kjennetegner elever som lykkes?*
+
+Utdanningsdirektoratet (2014): Gjennomføringsbarometeret 2014
+
+Utdanningsdirektoratet (2015): *Rapport fra arbeidsgruppe: Informasjonsmateriell om videregående til minoritetsspråklige*. Saknummer 2015/853
+
+Utdanningsforbundet: Lærerprofesjonens etiske plattform
+
+Vibe, N. (2013): *Spørsmål til Skole-Norge høsten 2013. Resultater og analyser fra Utdanningsdirektoratets spørreundersøkelse blant skoler og skoleeiere*, Oslo: NIFU
+
+Vilhjalmsdottir, G., A. G. Dofradóttir, og G. B. Kjartansdóttir, (2011): *Voice of Users – Promoting quality of guidance for adults in the Nordic countries*. Reykjavik: NVL
+
+Virksomhetsstrategi for Arbeids- og velferdsetaten (NAV) 2011–2020
+
+Vox: Etiske retningslinjer for fylkesvise karrieresentre
+
+Vox: Rapport fra Vox til Kunnskapsdepartementet om tilskuddsordningen til fylkesvise partnerskap for karriereveiledning 2015
+
+Vox (2012): *Karriereveiledning i fylkene. En undersøkelse av omfang, organisering, tilbud og kompetanse*. Notat 9/2012
+
+Vox (2014): *Vox-speilet 2014*. http://www.vox.no/ statistikk-og-analyse/publikasjoner/ vox-speilet-2014/
+
+Vox (2015): *Organisering av opplæring i norsk og samfunnskunnskap*. Vox-rapport
+
+Watts, A. G. og R. Van Esbroeck (1999): *New skills for new futures: a comparative review of higher education guidance and counselling services in the Europen Union*. International Journal for the Advancement of Counselling 22: 173–187, 2000
+
+Watts, A. G. (2008): Career Guidance and Public Policy. I J. A. Athanasou og R. V. Esbroeck, (2008): *International handbook of career guidance.* London: Springer
+
+Watts A. G. (2010): *National all age career guidance services: evidence and issues*. British Journal of Guidance & Counselling, Vol 38, No. 1
+
+Yorke, M. (1999): *Leaving Early Undergraduate Non-completion in Higher Education*, London: Falmer Press
+
+Yorke, M. (2006): *Employability in higher education: what it is – and is it not*. The Higher Education Academy: Learning & Employability. Series one 2006
+
+York, M. og P. T. Knight (2006): *Embedding Employability into the Curriculum*. The Higher Education Academy: Learning & Employability. Series one 2006
+
+Aamodt, P. O. og E. Hovdhaugen (2011): *Frafall og gjennomføring i lavere grads studier før og etter Kvalitetsreformen*. Rapport 38/2011. NIFU
+
+[^1]: Plant, P. (2014). Green Guidance. I Arulmani, G. & Watts, A.G. (red.), *Handbook of Career Development: International Perspectives*. London: Spring og Plant, Peter (2015): *Guia verde: Una guia para el futuro,* REOP. Vol. 26, nº1, 1º Cuatrimestre, 2015
+
+[^2]: Ådne Cappelen til E24 16.09.2014. På bakgrunn av Cappelen, Å., H. Gjefsen, M. Gjelsvik, I. Holm og N. Stølen (2013): *Forecasting demand and supply of labour by education*. SSB Rapport 48/2013
+
+[^3]: NOU 2016: 3 Ved et vendepunkt: Fra ressursøkonomi til kunnskapsøkonomi
+
+[^4]: ELGPN (2014a): *The Evidence Base on Lifelong Guidance. A Guide to Key Findings for Effective Policy and Practice.* ELGPN Tools No 3*.* Jyväskylä: ELGPN. Side 8
+
+[^5]: OECD (2014a): *Skills Strategy Diagnostic Report Norway.* Paris: OECD, OECD (2014b): *Skills Strategy Action Report Norway.* Paris: OECD
+
+[^6]: Analyse og Strategi (2013): *Samfunnsøkonomisk analyse av karriereveiledning på nett,* Analyse og Strategi (2014): *Samfunnsøkonomisk analyse av et helhetlig karriereveiledningstilbud på nett*.
+
+[^7]: Hooley, T, C. Shepherd og V. Dodd (2015): *Get yourself connected. Conceptualising the role of digital technologies in Norwegian career guidance.* Derby: International Centre for Guidance Studies, University of Derby. Rapporten ble presentert av Tristram Hooley.
+
+[^8]: Implement Consulting Group (2016): *Samfunnsøkonomisk analyse – Styrking av de fylkesvise karrieresentrene*
+
+[^9]: Karriereveiledningsutvalget (2015): *Karriereveiledning i en digital verden.*
+
+[^10]: OECD (2014a), side 12
+
+[^11]: OECD (2004b): *Career Guidance: A Handbook for Policy Makers.* Paris: OECD, side 10, Vox sin oversettelse
+
+[^12]: ELGPN – European Lifelong Guidance Policy Network (2012): *Lifelong Guidance Policy Development: A European Resource Kit.* ELGPN Tools No. 1. **Jyväskylä: ELGPN. Side 17 (Utvalgets oversettelse.)
+
+[^13]: Gaarder, I. E. og T. F. Gravås (2011): *Karriereveiledning.* Oslo: Universitetsforlaget
+
+[^14]: Guichard, J. (2001): *A Century of Career Education: Review and Perspectives.* International Journal for Educational and Vocational Guidance 1, side 155–176.
+
+[^15]: Lindh, G. (1990): *Indføring i vejledning*. København: Forlaget studie og erverv
+
+[^16]: På engelsk: Career Management Skills (CMS)
+
+[^17]: ELGPN (2012) Vox sin oversettelse
+
+[^18]: Thomsen, R. (2014): *Karrierekompetanser og vejledning i et nordisk perspektiv*. Vox-rapport
+
+[^19]: Arbeids- og velferdsdirektoratet: Veiledningsplattformen
+
+[^20]: Karriereveiledningsutvalget (2015)
+
+[^21]: Dæhlen, M, K. Danielsen, Å. Strandbu og Ø. Seipel (2013): *Voksne i grunnskole og videregående opplæring.* Rapport 7/13. NOVA
+
+[^22]: Hooley, T. og L. Barham (2015): *Career development policy and practice: the Tony Watts reader.* Highflyers. Staffordshire
+
+[^23]: Parsons, F. (1909): *Choosing a vocation*. Houghton Mifflin Company. Boston New York
+
+[^24]: Luihn, H. J. (1986): *Arbeid og samfunn: Arbeidsmarkedspolitikk i Norge gjennom 100 år.* NKS forlaget
+
+[^25]: Kjærgård, R. (2012): *Karriereveiledningens genealogi*. Ph.D-avhandling, Danmarks Pedagogiske Universitet
+
+[^26]: EU (2008): *Council Resolution on better integrating lifelong guidance into lifelong learning strategies*
+
+[^27]: Watts, A. G. (2008): *Career Guidance and Public Policy*. In Athanasou, J. A og R.V. Esbroeck. International handbook of career guidance. London: Springer
+
+[^28]: EU (2004): *Resolution of the Council and of the representatives of the Member States meeting within the Council on Strengthening Policies, Systems and Practices in the field of Guidance throughout life in Europe*
+
+[^29]: Roberts, K. (2005): Social classes, opportunity structures and career guidance. I: Irving, B.A. og B. Malik (2005): *Critical Reflections on Career Education and Guidance: Promoting Social Justice within a Global Ecomony*. London: Routledge
+
+[^30]: OECD (2004a). *Career Guidance and Public Policy*. *Bridging the Gap*. Paris: OECD Publishing
+
+[^31]: En spesialtillitsvalgt med oppgave å fremme yrkesrettet utdanning og kompetanseutvikling på arbeidsplassen i samarbeid med ansatte og ledelse.
+
+[^32]: Oomen, A. og P. Plant (2014): *Early School Leaving and Lifelong Guidance*. ELGPN Concept Note No. 6. Jyväskylä: ELGPN
+
+[^33]: Oomen, A. og P. Plant (2014)
+
+[^34]: Oomen, A. og P. Plant (2014)
+
+[^35]: Haug, E. H. og P. Plant (2015a): *The potential role of career guidance and career education in combating early school leaving*. Neveléstudomány 2015/3, 5–15
+
+[^36]: Vilhjalmsdottir, G., A. G. Dofradóttir og G. B. Kjartansdóttir (2011): *Voice of Users – Promoting quality of guidance for adults in the Nordic countries*. Reykjavik: NVL og Haug, E.H. og P. Plant. (2015b): Research-based knowledge – Researchers’ contribution to evidence-based practice and policy making in career guidance. *International Journal of Educational and Vocational Guidance*
+
+[^37]: ELGPN (2014a)
+
+[^38]: ELGPN (2015): *Guidelines for Policies and Systems Development for Lifelong Guidance – A reference framework for the EU and for the Commission.* ELGPN Tools No 6. Jyväskylä: ELGPN
+
+[^39]: ELGPN (2014a), side 14
+
+[^40]: ELGPN (2014a)
+
+[^41]: Kunnskapsdepartementet: Læreplan i utdanningsvalg
+
+[^42]: På engelsk Career Management Skills, ofte referert til som CMS, også på norsk.
+
+[^43]: ELGPN (2012), side 17 (utvalgets oversettelse)
+
+[^44]: Tiltaket «avklaring» har som formål blant annet økt innsikt i muligheter på arbeidsmarkedet og i egne ressurser og ferdigheter i jobbsammenheng. Tiltaket inneholder for eksempel motivasjons- og mestringsaktiviteter, kartlegging, utprøving av arbeidsevne og veiledning for valg av yrkesmål og arbeidsoppgaver som lar seg realisere. Tiltaket Oppfølging inneholder blant annet bistand med karriereveiledning og opplæring i arbeidsrelaterte og sosiale ferdigheter. Rundskriv Hovednr. 76 § 12 – Utfyllende regler til Arbeids- og velferdsetatens anvendelse av forskrift om arbeidsmarkedstiltak 31.12.2016
+
+[^45]: Karriereveiledningsutvalget (2015)
+
+[^46]: ELGPN (2015)
+
+[^47]: ELGPN (2015), side 15
+
+[^48]: ELGPN (2014a), side 8
+
+[^49]: Hooley m.fl. (2015)
+
+[^50]: Hooley m.fl. (2015)
+
+[^51]: ELGPN (2012)
+
+[^52]: ELGPN- European Lifelong Guidance Policy Network (2014a): *The Evidence Base on Lifelong Guidance. A Guide to Key Findings for Effective Policy and Practice.* ELGPN Tools No. 3. Jyväskylä: ELGPN, side 17
+
+[^53]: EU (2004)*.*
+
+[^54]: EU (2008)
+
+[^55]: European Lifelong Guidance Policy Network (ELGPN) ble opprettet i 2007 og avsluttet sitt arbeid ved utgangen av 2015. ELGPN har i denne perioden støttet EUs medlemsland og Europa-kommisjonen i utviklingen av europeisk samarbeid på karriereveiledningsfeltet både innen utdannings- og arbeidsmarkedssektoren.
+
+[^56]: ELGPN (2015)
+
+[^57]: OECD (2002): *Review of Career Guidance Polices. Country Note: Norway*. Paris: OECD
+
+[^58]: OECD (2003): *OECD Education Policy Analysis.* Paris: OECD
+
+[^59]: St.meld. nr. 30 (2003–2004): *Kultur for læring,* St.meld. nr. 16 (2006–2007): *… og ingen stod igjen,* St.meld. nr. 44 (2008–2009): *Utdanningslinja*
+
+[^60]: Oppfølgingen av partnerskap for karriereveiledning var de første årene lagt til Utdanningsdirektoratet. Da Nasjonal enhet for karriereveiledning ble opprettet i 2011 og lagt til Vox, nasjonalt fagorgan for kompetansepolitikk, ble ansvaret for utviklingen og oppfølgingen av partnerskap og karrieresentre lagt til Vox.
+
+[^61]: Utdanningsdirektoratet*:* Anbefalt formell kompetanse og veiledende kompetansekriterier for rådgivere **
+
+[^62]: Høgskolen i Buskerud og Vestfold er fra 1. januar 2016 en del av Høgskolen i Sørøst-Norge (HSN)
+
+[^63]: St.meld. nr. 16 (2006–2007): *… og ingen stod igjen*
+
+[^64]: St.meld. nr. 9 (2006-2007): *Arbeid, velferd og inkludering*
+
+[^65]: Cedefop, European Centre for the Development of Vocational Training (2011): *Glossary: Quality in education and training*
+
+[^66]: ELGPN (2014b)
+
+[^67]: ELGPN (2012), side 52
+
+[^68]: NICE – Network for Innovation in Career Guidance and Counselling in Europe **(2012)*: Handbook for the academic training of career guidance and counselling professionals.* Heidelberg: Heidelberg University
+
+[^69]: NICE (2012), side 21
+
+[^70]: Buland, T., I. H. Mathiesen og S. Mordal (2014): *Æ skjønne itj, æ våkne opp kvar dag å vil bli nå nytt æ». Skolens rådgivning i Møre og Romsdal, Sør-Trøndelag og Nord-Trøndelag.* Trondheim, NTNU. Program for livslang læring, side 29
+
+[^71]: NICE (2012)
+
+[^72]: Nerland, M. (2011): Karriereveiledning – et felt under profesjonalisering, I Gaarder, I. E. og T. F. Gravås (red.) (2011): *Karriereveiledning*. Oslo. Universitetsforlaget
+
+[^73]: Brante, T. (2011): *Professions as science-based occupations*. I Professions and Professionalism, Vol.1, No.1 (2011), side 4-20
+
+[^74]: Nerland (2011), side 182
+
+[^75]: Nerland (2011), side 183
+
+[^76]: Nerland (2011), side 71
+
+[^77]: Løve, T. (2005): *Vejledning ansigt til ansigt: teorier og metoder i den individuelle vejledning.* Fredensborg. Studie og erhverv, side 209
+
+[^78]: Mathisen, P. og A. Kristiansen. (2005): *Etiske retningslinjer i profesjonelle veiledningsforhold*. Norsk pedagogisk Tidsskrift nr. 3, 2005, side 226
+
+[^79]: Gravås, T. (2011): Karriereveiledning og etikk. I Gaarder I. E. og T. F. Gravås (2011): *Karriereveiledning*. Oslo. Universitetsforlaget
+
+[^80]: Rådgiverforum Norge: Etiske retningslinjer for veilederarbeidet, Forum for karriereservice i høyere utdanning: Etiske retningslinjer for karriereveiledning og Vox: Etiske retningslinjer for fylkesvise karrieresentre
+
+[^81]: Utdanningsforbundet: Lærerprofesjonens etiske plattform og Kommunal- og moderniseringsdepartementet: Etiske retningslinjer for statstjenesten
+
+[^82]: Utdanningsdirektoratet: Anbefalt formell kompetanse og veiledende kompetansekriterier for rådgivere
+
+[^83]: OECD (2002)
+
+[^84]: Damvad (2012): *Et ønske om noe helt – ikke stykkevis og delt. En kartlegging av utdanningstilbudet i karriereveiledning i Norge*
+
+[^85]: NICE – Network for Innovation in Career Guidance & Counselling in Europe
+
+[^86]: NICE (2012), NICE (2016) \[NICE Handbook II\]. Manuskript under publisering.
+
+[^87]: Cedefop (2009): *Professionalising career guidance. Practitioner competences and qualification routes in Europe.* Cedefop panorama series: 164. Luxemburg: Office for Official Publications of the European Communities
+
+[^88]: NICE (2012), side 42-43
+
+[^89]: NICE (2016)
+
+[^90]: Kunnskapsdepartementet: Nasjonalt kvalifikasjonsrammeverk for livslang læring, Europakommisjonen: European Qualifications Framework
+
+[^91]: ELGPN (2012)
+
+[^92]: McCarthy, J. og T. Hooley (2015): *Integrated policies: Creating systems that work*. Adel, IA: Kuder, side 2
+
+[^93]: OECD (2002)
+
+[^94]: Tildelingsbrev 2010 til Vox, tillegg 2: Etablering av enhet for nasjonal koordinering av karriereveiledning. (25.06.2010)
+
+[^95]: Tildelingsbrev 2010 til Vox, tillegg 2: Etablering av enhet for nasjonal koordinering av karriereveiledning
+
+[^96]: OECD (2002)
+
+[^97]: Avtale mellom Arbeids- og inkluderingsdepartementet og Kommunes Sentralforbund om stryket samarbeid mellom Arbeids- og velferdsetaten og utdanningsmyndighetene og fylkeskommuner og kommuner, Oslo 02.mai 2007, og samarbeidsavtaler NAV - fylkeskommuner på utdanningsområdet. Se www.nav.no.
+
+[^98]: Becken, L. E. og Ø. B. Solheim (2015): *Samarbeid mellom fylkeskommunen og NAV om videregående opplæring for voksne arbeidssøkere.* Proba Samfunnsanalyse Rapport 2015-04
+
+[^99]: Feiring, M. og M. Helgesen, (2007): *Karriereveiledning i Nordland*, Oslo, NIBR-rapport 2007/17, side 11-12
+
+[^100]: Feiring, M. og M. Helgesen, (2007), Mathisen, T og M. Stokke (2011): *Karriere Sogn og Fjordane*. En evaluering av partnerskap for karriereveiledning. ØF-rapport nr. 07/2011 og Nyhus, L, K. G. Solbu, M. Stokke (2011): *Partnerskap eller løse forbindelser, vurderinger av fylkesvise partnerskap for karriereveiledning*, Lillehammer, ØF-rapport nr. 08/2011
+
+[^101]: Plant, P. (1998). *Linkages in careers guidance*. Journal of Career Development 08/1998: 20(1), side73-84 og ELGPN (2012)
+
+[^102]: Career Guidance and Counselling (CGC)
+
+[^103]: NICE (2012)
+
+[^104]: Beskrivelsen er basert på et studiebesøk til Sveits som et av utvalgsmedlemmene gjennomførte i november 2015, samt materiale fra ELGPN, OECD rapporten *Learning for Jobs. OECD Reviews of Vocational Education and Training. Switzerland* (OECD 2009), sveitsiske nettsider og Samarbeidsrådet for yrkesopplæring (SRY).
+
+[^105]: Swiss Conference of Cantonal Ministers of Education
+
+[^106]: Aktørene er rådet for utdanningsministre, arbeidsmyndighetene, det nasjonale sentret for karriereveiledning (SDBB/CSFO - Swiss Service Centre for Vocational Education and Training/Vocational, Educational and Career Guidance) og skoler og universiteter.
+
+[^107]: Australia: National Career Development Strategy
+
+[^108]: Australia: National Career Development Strategy, side 2
+
+[^109]: www.skillsdevelopmentscotland.co.uk
+
+[^110]: www.gov.scot/Topics/Education/skills-strategy
+
+[^111]: Kommunal- og regionaldepartementet (2012): *Veileder for statlig styring av kommuner og fylkeskommuner, med retningslinjer for utforming av lover og forskrifter rettet mot kommunesektoren*
+
+[^112]: Watts A.G. (2010): *National all age career guidance services: evidence and issues*. British Journal of Guidance & Counselling, Vol 38, No. 1
+
+[^113]: Watts (2010), side 36-37
+
+[^114]: ELGPN (2012)
+
+[^115]: Kommunal- regionaldepartementet (2012)
+
+[^116]: NOU 2014: 7 *Elevenes læring i fremtidens skole. Et kunnskapsgrunnlag.*
+
+[^117]: www.ncda.org/aws/NCDA/pt/sp/guidelines
+
+[^118]: www.lifework.ca/lifework/blueprint.html
+
+[^119]: www.education.gov.au/australian-blueprint-career- development
+
+[^120]: www.skillsdevelopmentscotland.co.uk/what-we-do/ our-products/career-management-skills/
+
+[^121]: euroguidance.eu/wp-content/uploads/2015/03/ Career-Compass-Toolkit.pdf.
+
+[^122]: Hooley, T, A. G. Watts, R.G. Sultana og S. Neary (2013): *The ’blueprint’ framework for career management skills: a critical exploration.* British Journal of Guidance & Counselling, 41(2).
+
+[^123]: Haug, E. H. (2014): *CMS – et felles perspektiv på karriereveiledning*. Vox-rapport
+
+    . Thomsen, R. (2014)
+
+[^124]: NICE (2012)
+
+[^125]: NICE (2016), side 39
+
+[^126]: NICE (2016), side 40
+
+[^127]: NICE (2012)
+
+[^128]: NICE (2016), side 41
+
+[^129]: NICE (2012)
+
+[^130]: E-veilederne vil komme fra alle sektorene og være omfattet av kompetansekrav for disse.
+
+[^131]: ELGPN (2012)
+
+[^132]: ELGPN (2014a)
+
+[^133]: Damvad (2012)
+
+[^134]: Berge, T, F.M. Larsen, T.F. Gravås, S. Holm, K. Lønvik, K. Midttun (2015): *Karriereveiledning: Behov, utbytte og betydning. Rapport fra fire undersøkelser.* Vox-rapport 2015
+
+[^135]: I følge SSB var andelen arbeidstakere med legemeldt sykefravær 5,4 prosent i 3. kvartal 2015. Justert for at ikke alle er 100 prosent sykemeldt var fraværet 4,6 prosent.
+
+[^136]: Feiring, M. og M. Helgesen (2007, Borgen, J. S., R. Røste og N. Vibe (2008): *Karriere Akershus. Evaluering av Partnerskap for karriereveiledning i Akershus.* NIFU STEP. Rapport 11/2008 og Buland, T. og H. Haugsbakken (2009): *Papirbredden karrieresenter – materialisert partnerskap? Rapport fra evalueringen av Papirbredden karrieresenter.* SINTEF Teknologi og samfunn
+
+[^137]: Mathisen, T og M. Stokke (2011) og Bergem, R., Grimsrud, G. M. og Halvorsen, L. J. (2015): *Evaluering av Karriere Sogn og Fjordane.* Møreforskning, rapport nr. 63
+
+[^138]: Stokke, M, Nyhus, L. (2010): *Partnerskap for karriereveiledning – en kartlegging og evaluering. Del 1 Kartlegging.* Østlandsforskning – ØF- notat nr. 12/2010 og Nyhus. L, G.K. Solbu og M. Stokke (2011)
+
+[^139]: Becken, L.E, S. Klingenberg, S. Berg og H. Jordell (2014): *Evaluering av de fylkesvise karrieresentrene – med søkelys på samhandlingen med Nav.* Proba samfunnsanalyse – rapport 2014-09.
+
+[^140]: Larsen, M. F. (2009): *Behov og interesse for karriereveiledning*. Vox rapport 2009 og Larsen, M. F. (2011): *Karriereveiledning i Norge*. Vox rapport 2011
+
+[^141]: Vox (2012): *Karriereveiledning i fylkene. En undersøkelse av omfang, organisering, tilbud og kompetanse*. Notat 9/2012.
+
+[^142]: Berge m.fl. (2015)
+
+[^143]: *De fylkesvise partnerskapene og karrieresentrene – vurderinger og anbefalinger for videre utvikling.* Notat utarbeidet av Vox for utvalget og *Samarbeid mellom partnerskapene/karrieresentrene og rådgivningstjenesten i skolen og regionalt arbeidsliv – Vox sine vurderinger av samarbeidet.* Notat utarbeidet av Vox for utvalget
+
+[^144]: Thomsen, M. og C. Fritzvold Hatlem (2016): *Karriereveiledning for nyankomne innvandre*. Vox
+
+[^145]: Implement Consulting Group (2016)
+
+[^146]: OECD (2002)
+
+[^147]: NOU 2003: 16 *I første rekke,* kap.17.3, side 214
+
+[^148]: St.meld. nr. 30 (2003–2004)*,* side 57–58
+
+[^149]: St.meld. nr. 44 (2008–2009)
+
+[^150]: Nyhus m.fl. (2011)
+
+[^151]: Kunnskapsdepartementet: Retningslinjer for tilskudd til fylkesvise partnerskap for karriereveiledning av 5. mars 2014, kap 258, post 60.
+
+[^152]: Også i St.meld. nr. 16 (2006–2007) … *og ingen stod igjen. Tidlig innsats for livslang læring* ble behovet for styrket og mer likeverdig tilbud påpekt. Implementering av regionale partnerskap for karriereveiledning over hele landet og utredning av opprettelse av et nasjonalt koordinerende organ ble foreslått. En tverrdepartemental arbeidsgruppe fikk utredningsoppdraget og foreslo et nasjonalt organ lagt til Vox.
+
+[^153]: Informasjon innhentet fra Vox.
+
+[^154]: Rapport fra Vox til Kunnskapsdepartementet om tilskuddsordningen til fylkesvise partnerskap for karriereveiledning 2015.
+
+[^155]: Vox: Rapport til Kunnskapsdepartementet om tilskuddsordningen til fylkesvise partnerskap for karriereveiledning 2015.
+
+[^156]: Et OPUS-senter står for Opplærings- og utviklingssenter, og er fylkeskommunale ressurs-/kurssentre for voksne.
+
+[^157]: Becken m.fl (2014)
+
+[^158]: Becken m.fl. (2014)
+
+[^159]: Vox (2012)
+
+[^160]: Berge m.fl. (2015)
+
+[^161]: Becken m.fl. (2014)
+
+[^162]: *De fylkesvise partnerskapene og karrieresentrene – vurderinger og anbefalinger for videre utvikling.* Notat utarbeidet av Vox for utvalget.
+
+[^163]: Rådgiverkoordinator er som regel ansatt i fylkeskommunens utdanningsavdeling og har oppgaver knyttet til å forvalte og koordinere fylkeskommunens ansvar når det gjelder skolens rådgivning.
+
+[^164]: NIBR peker på at det regionale folkevalgte nivået har fått en tydeligere rolle som «nettverksnode – initiator, tilrettelegger, fasilitator og driver av nettverkssamarbeid og partnerskap, ikke bare gjennom sin regionale planlegging, men også generelt». Hansen, G. S. og H. Hofstad (2015): *Samfunnsutviklerrollen til regionalt folkevalgt nivå. Videreutvikling av rollen gjennom partnerskapsbasert regional utvikling og planlegging.* NIBR-rapport 2015:17, side 9.
+
+[^165]: I Arbeids- og sosialdepartementets tildelingsbrev til Arbeids- og velferdsetaten for 2015 ble det sagt at «Arbeids- og velferdsetaten oppfordres til å samarbeide med fylkeskommunen og Vox om karriereveiledning». Denne formuleringen ble ikke videreført i tildelingsbrevet for 2016. Det har i de seneste Mål og disponeringsbrev fra direktoratet til NAV-fylkene blitt oppfordret til samarbeid om karriereveiledning lokalt.
+
+[^166]: Nasjonal koordineringsgruppe for karriereveiledning består i dag av ledere på høyt nivå i Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet, Integrerings- og mangfoldsdirektoratet, Universitets- og høgskolerådet, Nasjonalt fagskoleråd, Senter for IKT i utdanningen. Gruppen ledes av direktøren i Vox.
+
+[^167]: Berge m.fl. (2015)
+
+[^168]: *De fylkesvise partnerskapene og karrieresentrene – vurderinger og anbefalinger for videre utvikling.* Notat utarbeidet av Vox for utvalget.
+
+[^169]: En gjennomgang av karrieresentrene i Becken m.fl. (2014) viser at rundt to tredjedeler av karrieresentrene eies av fylkeskommunen alene. Åtte sentre har flere eiere, i hovedsak NAV fylke i tillegg til fylkeskommunene. Om lag halvparten av sentrene har et eget styre. Det vanligste er at fylkeskommunen, NAV fylke/lokalt, kommuner og næringsforeninger sitter i styret. Eierskap kan ha betydning for andre aktørers samarbeid med karrieresentrene. Rapporten peker på at der fylkeskommunen eier alene, har karrieresentrene samhandling med færre andre aktører, noe som kan føre til at karriereveiledningsoppgavene kan bli nedprioritert til fordel for andre oppgaver, som avklaring av voksenrett og realkompetansevurdering.
+
+[^170]: Nyhus m.fl. (2011), Becken m.fl. (2014) og Berge m.fl. (2015)
+
+[^171]: Becken m.fl. (2015), side 43.
+
+[^172]: Årsrapportering fra karrieresentrene til Vox
+
+[^173]: Berge m.fl. (2015), side 15
+
+[^174]: Beregnet som 20 prosent av befolkningen mellom 20 og 66 (som er 3,2 millioner personer)
+
+[^175]: Berge m.fl. (2015)
+
+[^176]: Berge m. fl. (2015)
+
+[^177]: Implement Consulting Group (2016)
+
+[^178]: 127 000 arbeidsledige, kilde SSB 24.2.2016
+
+[^179]: Implement Consulting Group (2016), side 7
+
+[^180]: Vox (2012)
+
+[^181]: Berge m.fl. (2015)
+
+[^182]: *Samarbeid mellom partnerskapene/karrieresentrene og rådgivningstjenesten i skolen og regionalt arbeidsliv – Vox sine vurderinger av samarbeidet.* Notat utarbeidet av Vox for utvalget
+
+[^183]: Mordal, S., T. Buland og I. H. Mathiesen (2015): *Rådgiverrollen – mellom tidstyv og grunnleggende ferdighet*. Trondheim og Stavanger: SINTEF, NTNU, IRIS
+
+[^184]: Årsapportering fra karrieresentrene til Vox
+
+[^185]: Larsen (2009), Larsen (2011) og Berge m.fl. (2015)
+
+[^186]: Berge m.fl. (2015)
+
+[^187]: Overgangsfaser betyr her å ha byttet jobb eller startet på ny utdanning i løpet av de siste to årene, eller å ha et ønske om å gjøre dette i løpet av de to neste årene
+
+[^188]: Berge m.fl. (2015), side 36
+
+[^189]: Berge m.fl. (2015), side 42
+
+[^190]: Kommunal og regionaldepartementet (2012)
+
+[^191]: Berge m.fl. (2015)
+
+[^192]: OECD (2004b), side 10
+
+[^193]: Implement Consulting Group (2016)
+
+[^194]: Årsrapportering fra karrieresentrene til Vox
+
+[^195]: Implement Consulting Group (2016)
+
+[^196]: Analysen er en såkalt pluss-minus metode for verdsetting av kvalitative virkninger av tiltak og gjort i tråd med DFØs veileder for samfunnsøkonomiske analyser og Finansdepartementets rundskriv R-109/2014, se beskrivelse av metoden i Implement (2016), side 20.
+
+[^197]: NICE (2012), NICE (2016)
+
+[^198]: Direktoratet for forvaltning og IKT (DIFI) (2015) *Statlig styring av kommunene. En kartlegging av virkemiddelbruk og utviklingstrekk på tre sektorer i perioden 1999-2015.Difi-Rapport 2015:19,* Direktoratet for forvaltning og IKT (DIFI) (2014) *Mot alle odds? Veier til samordning i norsk forvaltning. Difi-rapport 2014:07*
+
+[^199]: Ekspertgruppe oppnevnt av Arbeids- og sosialdepartementet (2015): *Et nav med muligheter. Bedre brukermøter, større handlingsrom og tettere på arbeidsmarkedet. Gjennomgang av NAV.*
+
+[^200]: Da utviklingen av karrieresentre startet på begynnelsen av 2000-tallet, ble det bestemt at sentrene skulle være for personer over 19 år. Dette for å signalisere at det ikke skulle være et tilbud til erstatning for og i konkurranse med utdannings- og yrkesrådgivningen i ungdomskolen og videregående opplæring. Utvalget mener det er riktig å videreføre en slik grense. Selv om noen elever i videregående opplæring vil være over 19 år, mener utvalget denne aldersgrensen er tilstrekkelig til å hindre omfattende bruk av karrieresentrene fra elever i ungdomsskole og videregående opplæring. Utvalget foreslår også at lærlinger skal få samme rett til rådgivning som andre elever har, disse vil da heller ikke lide under å ikke få tilgang ved karrieresentrene før fylte 19 år.
+
+[^201]: Kunnskapsdepartementet: Lov om voksenopplæring
+
+[^202]: Se omtale av rettigheter i kapittel 3.2.
+
+[^203]: Kommunal og regionaldepartementet (2012)
+
+[^204]: Hansen, G. S. og H. Hofstad (2015)
+
+[^205]: Kunnskapsdepartementet (2016): *Mot en nasjonal kompetansepolitisk strategi*. Dokument utarbeidet i forbindelse med oppfølgingsmøte om nasjonal kompetansestrategi 19. januar 2016.
+
+[^206]: Utdanningsdirektoratet: Nasjonale retningslinjer for realkompetansevurdering av voksne i grunnskoleopplæringen
+
+[^207]: Berge m.fl. (2015)
+
+[^208]: Kommunal og regionaldepartementet (2012)
+
+[^209]: Retningslinjer for tilskudd til fylkesvise partnerskap, omtalt i kapittel 6.3.2
+
+[^210]: Jfr. forslag i utvalgets delrapport og i kapittel 7 om en distribuert modell med veiledere fra alle fylker og alle sektorer
+
+[^211]: Implement Consulting Group (2016)
+
+[^212]: Larsen, M. F. (2009), Larsen, M. F. (2011) og Berge m.fl. (2015)
+
+[^213]: Nødvendig antall årsverk går ned fra «i dag», til «dersom etterspørsel = 2 prosent» i Nordland. Det er fordi flere enn 2 prosent bruker karriereveiledningstjenestene i Nordland i dag. 2 prosent representerer derfor ikke en økning, men en tilbakegang.
+
+[^214]: Basert på beregnede kostnader per årsverk innhentet fra Karriere Nordland
+
+[^215]: Karriereveiledningsutvalget (2015)
+
+[^216]: Se utvalgets delrapport for fullstendig tolkning av mandatet for delrapporten.
+
+[^217]: ELGPN (2014a), side 8
+
+[^218]: Hooley m.fl.(2015)
+
+[^219]: Hooley m.fl. (2015), side viii
+
+[^220]: OECD (2014b): *Skills Strategy Action Report Norway.* Paris: OECD
+
+[^221]: OECD (2014b), side 29
+
+[^222]: Hooley m.fl. (2015)
+
+[^223]: Karriereveiledningstilbudet på nett i Norge i dag blir presentert nærmere i kapittel 7.2
+
+[^224]: OECD (2014b), side 60
+
+[^225]: Det varierer i stor grad om personer har tilgang til karriereveiledning ved et fylkesvist karrieresenter eller ikke. Noen fylker har ingen sentre, mens andre har et godt utbygd tilbud som dekker hele fylket.
+
+[^226]: Noen mennesker ønsker anonymitet, noen ønsker ikke å oppsøke offentlige kontorer, noen liker ikke å møte en veileder ansikt-til-ansikt.
+
+[^227]: Dette blir presentert i kapittel 7.3.1
+
+[^228]: Hooley m.fl. (2015)
+
+[^229]: Massive open online courses
+
+[^230]: Malone T.W. og J. Rockart (1991): *Computers, Networks, and the Corporation*. Scientific American. Side 128–136
+
+[^231]: Hooley m.fl. (2015)
+
+[^232]: Hooley m.fl. (2015)
+
+[^233]: http://ec.europa.eu/digital-agenda/en
+
+[^234]: Digitaliseringsprogrammet *På nett med innbyggeren* ble lansert i 2012 og initierte en prosess som ble fulgt opp med stortingsmeldingen Digital agenda for Norge. Meld. St. 23 (2012–2013): *Digital agenda for Norge*. *IKT for vekst og verdiskaping*
+
+[^235]: Kommunal og moderniseringsdepartementet: Forskrift om elektronisk kommunikasjon med og i forvaltningen (eForvaltningsforskriften)
+
+[^236]: Meld. St. 23 (2012–2013): *Digital agenda for Norge — IKT for vekst og verdiskaping*
+
+[^237]: Søkemotoroptimalisering: Å benytte metoder som gjør at et nettsted oppnår en bedre synlighet eller «ranking» på søkemotorenes trefflister.
+
+[^238]: Betegnes internasjonalt som Career Management Skills (CMS). Perspektivet har i løpet av de siste tiårene fått solid spredning internasjonalt og har blitt løftet fram i EU-resolusjoner om karriereveiledning som et av fire hovedmål for karriereveiledning. Perspektivet har i de senere årene blitt introdusert i Norge.
+
+[^239]: Hooley m.fl. (2015), side 18
+
+[^240]: ICCDPP: The International Centre for Career Development and Public Policy.
+
+[^241]: ICCDPP (2015): *Communique: 7th international symposium on career development and public policy*
+
+[^242]: Tre firedeler, omtrent 200 000, av de som ikke har brukt internett de siste tre månedene er over 65 år. De øvrige er stort sett utenfor arbeidslivet. Se Damvad (2014): *Tiltak som kan bidra til å øke befolkningens digitale deltagelse og kompetanse*.
+
+[^243]: Senter for IKT i utdanningen (2015): *Hvilke nettsteder tilbyr utdanningsinformasjon og karriereveiledning i Norge?*
+
+[^244]: Senter for IKT i utdanningen (2015)
+
+[^245]: *Om undersøkelsen*: Årlig gjør brukere over 3 millioner ganger et informasjonssøk i søkemotoren Google som fører til at de besøker utdanning.no og 10 millioner ganger skriver noen søk i den interne søkemotoren. Alle søkeordene blir logget. Søkeordene aggregeres og analyseres og danner et detaljert bilde av hva slags informasjon nettbrukeren er på leting etter. Undersøkelsen baserer seg på en analyse av 2545 nettsteder som er mest synlige for personer som søker utdanningsinformasjon. I analysen inngikk de tusen mest brukte søkeordene benyttet mellom mars 2013 og mars 2014 på utdanning.no. Analysen ser på hvilke andre nettsteder enn utdanning.no brukeren fikk treff på. Av disse ble 480 nettsteder sortert ut og rangert etter hvor synlige disse er i utdanningsrelaterte søk. Med synlighet menes om nettstedet med ett av søkeordene som gir treff, vil komme på topp 20 lista når Google viser trefflista for akkurat dette søkeordet.
+
+[^246]: Senter for IKT i utdanningen (2015), side 3
+
+[^247]: Senter for IKT i utdanningen (2010): *Monitor 2010*: *Samtaler om IKT i skolen*
+
+[^248]: Opinion Perduco (2013): *Nasjonal kartlegging av unges utdannings- og yrkesvalg*
+
+[^249]: Boyd, D. (2014): *It's Complicated: The Social Lives of Networked Teens.* Yale University Press
+
+[^250]: Senter for IKT i utdanningen (2015), side 22.
+
+[^251]: Hooley m.fl (2015)
+
+[^252]: Analyse og Strategi (2014): *Samfunnsøkonomisk analyse av et helhetlig karriereveiledningstilbud på nett,* side 50
+
+[^253]: Beskrivelsen er i sin helhet hentet fra Analyse og Strategi (2014). Eventuelle oppdateringer/endringer som har skjedd siden 2014 er omtalt i fotnoter.
+
+[^254]: Hooley m.fl. (2015)
+
+[^255]: Hooley m.fl. (2015). Side vii (vår oversettelse).
+
+[^256]: Analyse og Strateg (2013) og Analyse og Strategi (2014)
+
+[^257]: Hooley m.fl. (2015): side vii. Rapporten presenteres nærmere i kapittel 5.
+
+[^258]: En e-veiledningstjeneste slik utvalget senere vil foreslå, er antatt å ha kapasitet til å håndtere 100 000 henvendelser i året.
+
+[^259]: Hooley m.fl. (2015)
+
+[^260]: Hooley m.fl. (2015), side 15, vår oversettelse
+
+[^261]: Hooley m.fl. (2015), side 32
+
+[^262]: Staker og Horn (2012) i Hooley (2015) m.fl., side 42
+
+[^263]: Hooley m.fl. (2015), side 46
+
+[^264]: www.lmiforall.org.uk
+
+[^265]: Hooley m.fl. (2015), side 50
+
+[^266]: Analyse og Strategi (2014) og **Hooley m.fl. (2015)*.*
+
+[^267]: Bekendtgørelse af lov om vejledning om uddanelse og erhverv samt plikt til utddannelse, beskæftigelse m.v. https://www.retsinformation.dk/forms/r0710.aspx?id=164530
+
+[^268]: Analyse og Strategi (2014)
+
+[^269]: https://www.ug.dk/
+
+[^270]: https://www.ug.dk/evejledning
+
+[^271]: Elsebeth Nygaard, veiledningsfaglig koordinator, e-Vejledning, (STIL)
+
+[^272]: Analyse og Strategi (2014), side 17
+
+[^273]: Analyse og Strategi (2014)
+
+[^274]: Mandag – torsdag: kl. 9–21, Fredag: kl. 9–16, Lørdag: kl. 12–16, Søndag: kl. 12–21
+
+[^275]: http://www.myworldofwork.co.uk/
+
+[^276]: Robert Doyle, Head of Partner Development & Integration, Digital Services Skills Development Scotland (SDS)
+
+[^277]: http://www.gov.scot/Topics/Education/skills-strategy
+
+[^278]: www.skillsdevelopmentscotland.co.uk
+
+[^279]: Definert som mer enn ett års arbeidsledighet
+
+[^280]: Hooley m.fl. (2015)
+
+[^281]: Analyse og Strategi (2014)
+
+[^282]: Hooley m.fl. (2015)
+
+[^283]: Analyse og Strategi (2014), **side 27
+
+[^284]: https://www.careers.govt.nz/
+
+[^285]: Analyse og Strategi (2014)
+
+[^286]: Hooley m.fl. (2015)
+
+[^287]: https://nationalcareersservice.direct.gov.uk
+
+[^288]: http://www.bls.gov/ooh/
+
+[^289]: http://www.onetonline.org/
+
+[^290]: Se for eksempel Svendsrud, Arne (2015): *Karriereveiledning i et karrierelæringsperspektiv*. Oslo: Universitetsforlaget, kapittel 4.
+
+[^291]: Som formidles til veiledere gjennom utdanning.no/arbeidsmarkedet
+
+[^292]: http://www.lmiforall.org.uk/
+
+[^293]: Hooley m.fl. (2015)
+
+[^294]: http://www.arbetsformedlingen.se/For-arbetssokande/ Yrke-och-framtid/Yrkeskompassen.html
+
+[^295]: www.arbetsformedlingen.se
+
+[^296]: www.ssb.no
+
+[^297]: www.data.norge.no
+
+[^298]: Hooley m.fl. (2015)
+
+[^299]: Nasjonal koordineringsgruppe for karriereveiledning består av representanter på ledernivå i Vox, Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet, Senter for IKT i utdanningen, IMDi, Universitets- og høgskolerådet og Nasjonalt fagskoleråd, og skal drøfte tverrsektorielle problemstillinger og bidra til felles strategier og politikkutvikling på karriereveiledningsfeltet. Koordineringsgruppen ledes av direktøren i Vox
+
+[^300]: Analyse og Strategi (2014)
+
+[^301]: Da rapporten ble utarbeidet i konseptfasen, ble det ikke fortatt behovsvurderinger knyttet til tjenesteutforming, målgruppers spesifikke behov eller stor grad av spesifisering knyttet til utforming av et helhetlig karriereveiledningsnettsted. Analysen ble avgrenset til å omfatte de nettstedene med mest relevant innhold.
+
+[^302]: Dette ble bestemt i samråd med arbeidsgruppen og årsaken ble oppgitt å være at utdanning.no har et bredt og omfattende karriereveiledningstilbud i dag, med tilhørende systemer for å håndtere data og metadata.
+
+[^303]: I en samfunnsøkonomisk analyse som dette skal relevante virkninger av de aktuelle modellene (tiltaksalternativene) vurderes og så langt som mulig verdsettes. Virkningene skal måles som endringer i forhold til basisalternativet. På basis av innsamlet date og analyser er det identifisert en rekke nyttevirkninger og kostnader. Virkningene er verdsatt i kroner eller kvalitativt (basert på pluss-minus-metoden) der virkningen ikke kan identifiseres i tall. Det er lagt en rekke forutsetninger til grunn for analysen, se rapporten side 54.
+
+[^304]: Analyse og Strategi (2014), side 54-55
+
+[^305]: Analyse og Strategi (2014), side 43
+
+[^306]: Rambøl (2010)
+
+[^307]: Lødding og Tømte (2011)
+
+[^308]: Ipsos MMI (2012): *Evaluering Brukerforum utdanning.no*,
+
+[^309]: Ipsos MMI (2013) *Evaluering av prosjekt nettbasert karriereveiledning.*
+
+[^310]: Analyse og Strategi (2013)
+
+[^311]: Analyse og Strategi (2013)
+
+[^312]: Som har som mål at forvaltningen skal være på nett, at en digital forvaltning skal gi bedre tjenester, samt at digitaliseringen skal bidra til å frigjøre ressurser til områder hvor behovet er stort.
+
+[^313]: Analyse og Strategi (2013)
+
+[^314]: Larsen (2009) og Larsen (2011)
+
+[^315]: Berge m.fl. (2015)
+
+[^316]: Berge m.fl. (2015), side 21
+
+[^317]: Ipsos MMI (2013). Gjennomført av Ipsos MMI på oppdrag fra Senter for IKT i utdanningen.
+
+[^318]: Opinion Perduco (2013)
+
+[^319]: Damvad (2015) *Styringsvirkemidler som påvirker utdanningsvalg. Kunnskapsoppsummering og analyse*, side 5
+
+[^320]: Damvad (2015), side 15
+
+[^321]: Opinion Perduco (2013)
+
+[^322]: Kunnskapsdepartementet Prop 1 S (2013–2014), side 125
+
+[^323]: Som vigo.no og samordnaopptak.no
+
+[^324]: Hooley m.fl. (2015)
+
+[^325]: Kostnader for alternativet utvalget foreslår blir redegjort for i 7.5
+
+[^326]: Se kapittel 7.3
+
+[^327]: Veilederforum.no ble etablert i 2013 og driftes i samarbeid mellom Vox, Senter for IKT i utdanningen og Utdanningsdirektoratet. Denne nettressursen finansieres per i dag bare med utviklingsmidler.
+
+[^328]: Basert på erfaringer fra Danmark
+
+[^329]: Denne logikken ligger også til grunn for kanalstrategien til NAV
+
+[^330]: Meld. St. 23 (2012–2013)
+
+[^331]: Vi omtaler ikke her utdanning.no, som vil gå inn i et nytt nettsted i utvalgets anbefalte modell.
+
+[^332]: Se omtale i kapittel 11
+
+[^333]: Analyse og Strategi (2014)
+
+[^334]: Dersom karriereveiledning for voksne over 19 år blir en lovpålagt fylkeskommunal plikt, slik utvalget anbefaler i kapittel 6, vil fylkeskommunene være svært sentrale aktører.
+
+[^335]: Analyse og Strategi (2013)
+
+[^336]: Karriereveiledningsutvalget (2015)
+
+[^337]: Analyse og Strategi (2013)
+
+[^338]: I 2013-kroner
+
+[^339]: Kunnskapsdepartementet: Forskrift til opplæringslova 23.06.2006 nr. 724, § 22-3.
+
+[^340]: Kunnskapsdepartementet: Program for bedre gjennomføring i videregående opplæring
+
+[^341]: NIFU (2012): *Påbygg – et gode eller en nødløsning? En studie av påbygging til generell studiekompetanse i Østfold, Akershus,* *Buskerud, Rogaland og Nord Trøndelag skoleåret 2010 – 2011. NIFU-rapport 2/2012. Oslo: NIFU*

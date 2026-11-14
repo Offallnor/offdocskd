@@ -1,1861 +1,615 @@
-# NOU 2018: 2, del 6 av 8 (side 79–92)
+# NOU 2018: 2, del 6 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2018/ab185ab3-nou-2018-2.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2018-2/id2588070/
 - Original-PDF: https://www.regjeringen.no/contentassets/e6acac1df4964805a34c767fa9309acd/no/pdfs/nou201820180002000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 8 tabeller, 72 figurer, 914 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 79]
-
-NOU 2018: 2
-Fremtidige kompetansebehov I
-
-het både for brukere og deres pårørende (Helsedirektoratet 2017). Hjemmetjenestene, med sensorteknologi og andre hjelpemidler, gjør at eldre
-kan bo lenger hjemme og demper behovet for
-sykehjem eller institusjoner. Dette gir konsekvenser for kompetansebehov. Videre kan maskiner
-innen helsevesenet skåne helsepersonell ved
-blant annet å ta over arbeidsoppgaver som å ta
-røntgenbilder. Teknologiske løsninger kan potensielt i fremtiden gi et bedre liv til pasienter ved å
-stille raskere og sikrere diagnoser. I 2016 flyttet
-IBMs Watson-teknologi inn i Innovasjonsparken
-ved Oslo Cancer Cluster for å gi en plattform til å
-bruke teknologien i forskningsprosjekter. Innovasjonsdirektøren i IBM forklarer at Watson kan
-læres opp. Dette er et eksempel på kunstig intelligens. Watson har mulighet til å tilegne seg den
-enorme mengden forskning som finnes innen
-medisin, som legene bare vil rekke å lese deler av.
-IBMs innovasjonsdirektør uttaler at Watson aldri
-vil bli en lege, men at formålet er at Watson kan
-være en assistent til legen (TV2 2016). Teknologiske løsninger og kunstig intelligens skaper
-store forventninger og muligheter. Samtidig er
-det store utfordringer blant annet knyttet til håndtering av sensitive data og ivaretakelse av personvernet.
-Bjørnstad mfl. (2015) skriver at utfallet av digitalisering og robotisering er usikkert både som
-følge av teknologisk usikkerhet og ikke minst
-samfunnets evne og vilje til å utnytte teknologien.
-Pajarinen mfl. (2015) peker på at metoden Frey og
-Osborne bruker ignorerer samfunnskrefter som
-kan bremse teknologiske fremskritt.
-Fölster (2018) viser til beregningen til Pajarinen mfl. (2015), og legger til spørsmålet: «But
-how many new jobs are created?» Fölster har
-kombinert ekspertvurderinger med en statistisk
-analyse av dynamikken i det norske arbeidsmarkedet i senere år for å vurdere nettoeffekten av
-automatisering og jobbskaping. Han finner at de
-nye jobbene som skapes blant annet fylles av de
-som utvikler ny digital teknologi, som kjører IKTsystemer eller som produserer og leverer tjenester som digitaliseringen gjør mulig. Ifølge analysen har 30 000 nye jobber oppstått over femårsperioden 2009–2014, som følge av digitaliseringen.
-Jobbene fylles ikke bare av digitale eksperter.
-Eksempelvis har netthandel ført til flere budjobber.
-Fölster (2018) peker videre på at økte inntekter også øker etterspørselen etter noen arbeidsintensive tjenester. Blant annet har antall bygningsarbeidere økt, så vel som antallet innen andre personlige tjenester. Samlet sett antyder analysen at
-
-79
-
-Kapittel 5
-
-46 000 nye jobber har oppstått over femårsperioden 2009–2014 som følge av økte inntekter. Sysselsetting i antall personer er ifølge Fölsters analyse konstant frem mot 2040, gitt netto antall jobber som antas å automatiseres og forventet underliggende økonomisk vekst.
-Et vanskelig punkt ved analyser av jobbskaping knyttet til digitalisering, er at samlet jobbskaping i stor grad følger utviklingen i samlet etterspørsel i økonomien. Siden finanskrisen i 2008–
-2009 har mange land slitt med at samlet etterspørsel er for lav, og noen økonomer frykter at dette
-vil være et mer vedvarende problem også i årene
-fremover (se for eksempel Summers (2016)). Holden (2017) argumenterer for at den teknologiske
-utviklingen trolig vil øke risikoen for at samlet
-etterspørsel kan bli for lav. Nye vekstnæringer
-innen informasjonsteknologi og tjenesteyting har
-lavere investeringsbehov enn gårsdagens vekstnæringer i industrien, samtidig som den teknologiske utviklingen trolig fører til økt inntektsulikhet og dermed til økt sparing. Både lavere investeringer og økt sparing vil innebære at samlet etterspørsel i økonomien reduseres, og det vil i så fall
-dempe tilgangen på nye jobber.
-Nedelkoska og Quintini (2018) har estimert
-risikoen for automatisering i 32 OECD-land. De
-tar utgangspunkt i flaskehalsene fra Frey og
-Osborne (2013), men bruker PIAAC-data til å se
-på variasjoner i oppgavene som gjøres på jobben,
-se tabell 5.1.
-Nedelkoska og Quintini (2018) finner at mindre enn 14 prosent av alle jobber på tvers av de 32
-landene er svært «automatiserbare», det vil si at
-beregnet sannsynlighet for automatisering er over
-70 prosent. Ytterligere 32 prosent av jobbene har
-en sannsynlighet for automatisering mellom 50 og
-70 prosent. Nedelkoska og Quintini forklarer at
-dette er jobber som antagelig både inkluderer en
-rekke oppgaver som kan automatiseres og en del
-oppgaver som ikke så lett lar seg automatisere. De
-antar at oppgavene som er ikke-automatiserbare
-vil bli mer fremtredende eller suppleres med liknende ikke-automatiserbare oppgaver.
-Sammenlignet med Frey og Osbornes studie,
-finner Nedelkoska og Quintini dermed at en langt
-lavere andel jobber har høy risiko for å automatiseres. De forklarer forskjellen med at mye informasjon går tapt i Frey og Osbornes studie som
-følge av større grad av aggregering av yrker.
-Nedelkoska og Quintini understreker at
-beregningene viser til teknologiske muligheter,
-og ikke sier noe om hvor raskt det skjer eller hvor
-sannsynlig det er at teknologien implementeres.
-Implementering kan blant annet avhenge av regu-
-
-[Side 80]
-
-80
-
-NOU 2018: 2
-
-Kapittel 5
-
-Fremtidige kompetansebehov I
-
-Tabell 5.1 PIAAC-variabler som samsvarer med flaskehalser i Frey og Osborne
-Flaskehals
-
-PIAAC-variabel
-
-Beskrivelse av variabel
-
-Oppfatning, håndtering
-(perception, manipulation)
-
-Fingerferdighet
-(finger dexterity)
+Merknad: Data fra Labour Force Survey (SSBs Arbeidskraftundersøkelse i Norge). For kvalifikasjonsvurderingen ser OECD på det vanligste utdanningsnivået som personer har i hvert yrke. Dersom en person i yrket har høyere utdanning enn det mest brukte, blir vedkommende ansett å være overkvalifisert, og underkvalifisert hvis vedkommendes utdanningsnivå er lavere enn det mest brukte. Dette gjøres for hvert yrke og hvert land. Vurderingen om mistilpasning etter fagfelt følger Montt (2015), som gjør en vurdering om fagfeltet for utdanningen er relevant for arbeidsoppgavene som inngår i yrket. Gjennomsnitt er et snitt av landene med verdier i figuren.
 
-Hvor ofte – bruk av ferdighet eller presisjon
-med hender eller fingre?
+OECD (2017a). Dataviz
 
-Kreativ intelligens
+Det kan argumenteres for at disse avgrensningene er tilfeldige og kanskje for strenge med bakgrunn i at mange jobber i yrker med oppgaver som ligger utenfor det som primært er tenkt for utdanningen.
 
-Enkel problemløsning
+Mange arbeidstakere kan gjøre en god jobb selv om de arbeider i en næring som i all hovedsak sysselsetter arbeidstakere med annen utdanning. I mange tilfeller kan det også være gunstig om arbeidstakere med ulik utdanning og bakgrunn jobber sammen. Samtidig er det også klart at mange arbeidstakere er reelt mistilpasset, noe som blant annet vises ved at de har betydelig lavere lønn enn arbeidstakere med samme utdanning som jobber i de tradisjonelle næringene (se diskusjon i delkapittel 6.5).
 
-Hvor ofte – relativt enkle problemer som
-ikke krever mer enn 5 minutter for å finne
-en god løsning?
+Figur 6.8 viser omfanget av vertikal mistilpasning for arbeidstakere som er mistilpasset etter fagfelt, vurdert fra en gjennomgang av utdanninger og yrker som passer sammen (Montt 2015). For Norges del er det 14 prosent av arbeidstakerne som er mistilpasset etter fagfelt, som også er underkvalifisert, denne gruppen er dermed mistilpasset, både ved type utdanning og ved utdanningsnivå, som vurderes å være for lavt for arbeidsoppgavene i jobben. 33 prosent av arbeidstakerne som er mistilpasset etter fagfelt, er derimot overkvalifisert, det vil si at de har en utdanning på et høyere nivå enn den jobben de har. Drøyt halvparten av de mistilpassede etter fagfelt er samtidig veltilpasset etter nivå. For OECD som helhet, gjelder dette om lag 60 prosent av de som er mistilpasset etter fagfelt. I noen land, som Frankrike og Spania, er det likevel en stor andel av de mistilpassede etter fagfelt som også er overkvalifisert
 
-Kompleks problemløsning
+e\.
 
-Problemløsning – komplekse problemer
-som tar minst 30 minutter tenketid for
-å finne en god løsning?
+**\[:figur:figX-X.jpg\]**
 
-Undervisning
+1.  Forholdet mellom ulike former for mistilpasning: fagfelt og kvalifikasjoner
 
-Hvor ofte – instruere, lære opp eller undervise personer, individuelt eller
-i grupper?
+Merknad: Basen er de som er klassifisert som mistilpasset etter fagfelt. Med utgangspunkt i jobbtittel og ansvar for yrket er det gitt en yrkeskode til hver respondent. Respondentenes utdanningsnivå kategoriseres i 9 ulike fagområder, som vurderes opp mot respondentens yrke.
 
-Rådgiving
+Montt (2015, tabell 2 del I/II i appendiks 3), med data fra OECD og PIAAC (2012).
 
-Hvor ofte – gi råd til personer?
-
-Planlegge for andre
-
-Hvor ofte – planlegge aktiviteter for andre?
-
-Kommunisere
-
-Hvor ofte – dele arbeidsrelatert informasjon
-med medarbeidere?
-
-Forhandle
-
-Hvor ofte – forhandle med personer enten
-innenfor eller utenfor virksomheten eller
-organisasjonen?
-
-Påvirke
-
-Hvor ofte – overtale eller påvirke personer?
-
-Selge
-
-Hvor ofte – selge et produkt eller selge en
-tjeneste?
-
-Sosial intelligens
-
-Kilde: Nedelkoska og Quintini (2018).
-
-leringer, arbeidskraftkostnader og holdninger til
-automatisering.
-Nedelkoska og Quintini finner at automatisering i hovedsak påvirker industrien og jordbruk,
-selv om mange tjenester, som post, transport og
-mattjenester er svært automatiserbare. De finner
-ikke støtte for hypotesen om at automatisering
-har begynt å påvirke jobber som krever høyere
-utdanning. De finner heller ikke støtte for at automatiseringen vil være polariserende. De finner en
-nokså monoton nedgang i automatiseringsrisikoen som en funksjon av oppnådd utdanning og
-timelønn. Analysen tyder videre på at det er langt
-mer sannsynlig at automatisering fører til ungdomsledighet enn tidlig pensjonering. Forfatterne
-finner at sannsynligheten for å delta i opplæring
-på jobben eller utenfor jobben er betydelig lavere
-blant arbeidstakere i jobber som risikerer å automatiseres.
-Analysen viser stor variasjon på tvers av land. 1
-av 3 jobber i Slovakia er svært automatiserbare,
-mens dette bare gjelder 6 prosent av jobbene i
-
-Norge. Mer generelt er jobbene i anglosaksiske,
-nordiske land og Nederland mindre automatiserbare enn jobbene i østeuropeiske land, søreuropeiske land, Tyskland, Chile og Japan. Nedelkoska og Quintini (2018) argumenterer for at rangeringen av land er sikrere enn akkurat hvor automatiserbare jobbene i de ulike landene er. Forskjellene mellom land forklares i hovedsak ved at
-landene bruker ulike yrkessammensetninger
-innen næringer og at arbeid organiseres på ulike
-måter. Nedelkoska og Quintini (2018) har særskilt
-studert Tyskland og Storbritannia med utgangspunkt i nasjonale data. Analysen viser at analytiske og sosiale ferdigheter har blitt mer vanlig i
-arbeidsmarkedet og at yrker som allerede utførte
-slike oppgaver har vokst i antall. Antallet mer
-fysisk krevende yrker er derimot redusert.
-Livsstilen vår og de sosiale mønstrene endrer
-seg med økt velstand, økende digitalisering og
-økte valgmuligheter. Det er neppe noen som savner telefonsentralen, eller lange køer foran innsjekkingsskrankene på flyplassen. Og konsumen-
-
-[Side 81]
-
-NOU 2018: 2
-Fremtidige kompetansebehov I
-
-81
-
-Kapittel 5
-
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-
-N
-
-e w No
-Z e rge
-al
-a
-Fi n d
-nl
-a
-Sv nd
-er
-ig
-St
-e
-or U
-br SA
-ita
-D nn
-an ia
-N m
-e d ar
-er k
-l
-C and
-Si a n a
-ng d
-ap a
-o
-Be re
-lg
-i
-Irl a
-an
-Es d
-tla
-O
-n
-EC
-Ko d
-D
-re
--g
-je Is a
-nn ra
-om el
-Ø sn
-st itt
-er
-Ts rike
-j
-R ekk
-us ia
-Fr slan
-an d
-kr
-ik
-Po e
-le
-n
-Ita
-l
-Sp ia
-Sl ani
-ov a
-en
-i
-C a
-Ty hil
-sk e
-la
-n
-Ja d
-pa
-H n
-el
-la
-Ty s
-r
-Li kia
-ta
-Sl uen
-ov
-ak
-ia
-
-0%
-
-Risiko for betydelig endring (50–70 %)
-
-Høy risiko for automatisering (>70 %)
-
-Figur 5.16 Risiko for automatisering av jobber i ulike OECD-land
-Kilde: Nedelkoska og Quintini (2018).
-
-tene ser ut til å bli stadig mer vant til selvbetjente
-kasser i matvarebutikkene og levering av matkasser hjemme. Varehandel på nett blir stadig mer
-populært: I desember 2017 meldte nyhetene om
-rekordmange pakker i posten, samtidig som flere
-fysiske butikker må stenge etter svakt resultat. Vi
-ser også at mange kafé- og restaurantkunder i en
-travel hverdag tar med seg mat og drikke, for
-eksempel på vei til eller fra jobb, uten å rekke å
-sette seg ned.
-Implementering av ny teknologi og digitale
-løsninger avhenger som nevnt ikke bare av hva
-som lar seg gjøre, men i stor grad også av samfunnets holdninger til og interesse for nye løsninger.
-Ett eksempel på et tradisjonelt yrke som ikke har
-forsvunnet, og som ikke forventes å robotiseres i
-fremtiden heller, er frisører. Et annet tradisjonelt
-yrke er barberer (SSB 1920), og dette yrket ser ut
-til å være på vei tilbake. Det vokser frem en rekke
-barbersalonger i hovedstaden som spesialiserer
-seg på barbering og skjeggtrimming. Med økt velstand tar stadig flere seg råd til å betale for slike
-tjenester. Et annet yrke som ser ut til å være på vei
-tilbake igjen er sykkelbudet. Foodora er et
-moderne eksempel på det.
-Innen tekstilarbeid og grafisk arbeid er mange
-arbeidsoppgaver effektivisert bort, mens andre
-oppgaver løses på nye måter. Samtidig som
-moderne verktøy kan gjøre håndarbeid unødvendig, er det fremdeles etterspørsel etter produkter
-fremstilt med tradisjonelle teknikker (Samandaji
-og Fölster 2016). Etterspørselen etter spesiallagde
-
-varer og tjenester, kan også drives av ønsket om å
-signalisere velstand, tilhørighet til en bestemt
-gruppe eller sosial status.
-Det kan se ut til at vi er på vei mot et høydigitalisert samfunn der konsumentene krever personlig service og skreddersydde løsninger i større
-grad enn tidligere, i takt med den økte velstanden.
-
-5.4
-
-Oppsummering og vurderinger
-
-Dette kapitlet omtaler kompetansebehovene langt
-frem i tid. Det er et tema der det er mange oppfatninger, men lite sikker kunnskap. Det finnes likevel en rekke analyser som ser på dette saksområdet og vi har sammenfattet de vi vurderer som
-mest relevante. Vi oppsummerer her noen av de
-viktigste innsiktene.
-– I drøftingen av langsiktige kompetansebehov
-har utvalget i tråd med mandatet tatt utgangspunkt i fremskrivninger og scenarioanalyser.
-Dette er vanlige metoder som kan gi nyttig
-grunnlag for å reflektere over utviklingen fremover og hvilke konsekvenser dette vil få for
-kompetansebehovene. Fremskrivningsmodellene inkluderer viktige utviklingstrekk som
-påvirker tilbud av og etterspørsel etter ulike
-utdanningstyper. Resultatene er likevel sårbare
-for den store usikkerheten som ligger i metodevalg, antakelser og generell usikkerhet om
-fremtiden. Denne usikkerheten taler for betydelig varsomhet ved bruk av fremskrivningene
-
-[Side 82]
-
-82
-
-NOU 2018: 2
-
-Kapittel 5
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Fremtidige kompetansebehov I
-
-som grunnlag for vurderinger av fremtidige
-kompetansebehov.
-Fremskrevet tilgang på arbeidskraft med høyere utdanning vokser samlet sett mer enn etterspørselen. SSB forventer likevel ikke økt
-arbeidsledighet for arbeidstakere med høyere
-utdanning. En mulig tolkning er at tøffere konkurranse om jobbene for arbeidskraft med høyere utdanning fører til at en del av arbeidskraften med utdanning på master-/ph.d.-nivå vil få
-jobber som i fremskrivningene er antatt å gå til
-arbeidstakere med lavere utdanning. Dette kan
-tenkes å forplante seg videre, slik at bachelor- og
-fagskoleutdannede utkonkurrerer arbeidskraft
-med videregående opplæring, og arbeidskraft
-med fag- og yrkesopplæring igjen utkonkurrerer arbeidskraft med kun grunnskoleutdanning.
-En utfordring i fremskrivninger av etterspørselen etter arbeidskraft er at mange arbeidsoppgaver kan utføres av arbeidstakere med ulike
-typer utdanning. Når en arbeidstaker med lav
-utdanning slutter, vil arbeidsgiver i mange tilfeller foretrekke å ansette en ny arbeidstaker
-med høy utdanning. Hvis det er god tilgang på
-arbeidskraft med høy og relevant utdanning,
-slik at arbeidsgiverne får tak i slike kandidater,
-kan det føre til at etterspørselen etter arbeidskraft med høy utdanning øker mer enn fremskrivningene viser. Det sammenpressede
-lønnssystemet i Norge kan legge til rette for
-dette.
-SSB antar at det blir en nedgang i antall jobber
-som ikke stiller formelle utdanningskrav, og at
-dette vil føre til at arbeidsledigheten for
-arbeidskraft som ikke har fullført en utdanning
-utover studieforberedende videregående opplæring blir høyere i fremskrivningsperioden
-enn den har vært historisk.
-SSB har beregnet en fremtidig mangel, samlet
-sett, på arbeidskraft med videregående fag- og
-yrkesopplæring. Mangelen kan reduseres ved
-økt gjennomføring i videregående opplæring,
-samt kvalifisering av ufaglærte (på arbeidsplassen). Dette kan særlig være aktuelt i helse- og
-omsorgssektoren.
-Den demografiske utviklingen innebærer at
-det blir store behov innen helse- og omsorgssektoren, selv om teknologiske fremskritt og
-organisatoriske endringer kan bidra til å
-dempe etterspørselsveksten noe. SSBs siste
-fremskrivning for helsesektoren, som riktig
-nok er fem år gammel, viser en betydelig mangel på sykepleiere og helsefagarbeidere. Også
-for grunnskolelærere viser fremskrivningene
-en viss mangel på arbeidskraft. Sentrale før-
-
-–
-
-–
-
-–
-
-–
-
-–
-
-inger for bemanning vil øke behovet for
-arbeidskraft.
-SSB konkluderer at bemanningsproblemene i
-norsk helsevesen de siste ti årene ville vært
-betydelig større uten tilgangen på utenlandsk
-arbeidskraft. Også fremover vil tilgangen på
-innvandrere med helse- og sosialfaglig utdanning være viktig for å dekke personellbehovene i helse- og omsorgssektoren.
-KS beregner hvor mange årsverk som er nødvendig for å opprettholde dagens nivå på kommunale tjenester, gitt en forventet vekst i antall
-brukere på grunn av den demografiske utviklingen. Resultatene presenteres for syv regioner, og viser at behovet for årsverk øker med
-ulik takt i ulike deler av landet. I Agder fører
-økt antall brukere til at det kreves en økning i
-antall årsverk på 14 prosent frem mot 2026 for
-å kunne tilby de samme tjenestene som i dag,
-sammenlignet med bare 6 prosent i Hedmark
-og Oppland, og 7 prosent i den nordlige regionen.
-Scenarioanalysene vi omtaler bruker SSBs
-fremskrivninger som referansebane. Scenarioene viser blant annet at justeringer i hvordan
-etterspørselen etter arbeidskraft fordeler seg
-etter næring fremover kan gi store utslag i hvilken type arbeidskraft som etterspørres. Blant
-annet illustrerer scenarioanalysene hvordan
-økende grad av robotisering vil kunne medføre
-større etterspørsel etter personer med høyere
-utdanning enn det fremskrivningene viser.
-Digitalisering innebærer at arbeidsoppgavene
-endres i eksisterende yrker, på tvers av utdanningsnivåene til arbeidstakerne. Det fører til at
-yrkene får annet innhold og andre kompetansekrav, og ikke nødvendigvis at yrkene forsvinner. Digitalisering endrer oppgaver og tjenester, og dette ventes å få store konsekvenser for
-kompetansebehovene fremover.
-Automatisering innebærer at arbeidsoppgaver
-helt eller delvis erstattes av maskiner og andre
-teknologiske løsninger. Flere studier undersøker hvor utsatt ulike yrker er for automatisering, basert på en analyse av i hvilken grad
-arbeidsoppgavene kan automatiseres. Disse
-studiene legger vekt på at det finnes flaskehalser som bremser automatisering, knyttet til at
-kjerneoppgaver krever koordinerte og raske
-bevegelser, kreativ eller sosial intelligens.
-Yrkesgrupper med lav beregnet sannsynlighet
-for automatisering er blant annet spesialister i
-pedagogikk, psykologer, spesialsykepleiere,
-sivilingeniører innen kjemi, geistlige og grunnskolelærere. Yrkesgrupper med høy sannsyn-
-
-[Side 83]
-
-NOU 2018: 2
-Fremtidige kompetansebehov I
-
-–
-
-lighet for automatisering inkluderer telefon- og
-nettselgere, regnskapsførere, butikkmedarbeidere og kontormedarbeidere.
-En ny analyse av OECD-land tyder på at en
-lavere andel av jobbene i Norge er utsatt for
-automatisering, sammenlignet med andre
-land. Studien finner også høyere arbeidsledighet innen yrker med høy risiko for automatisering.
-
-–
-
-83
-
-Kapittel 5
-
-Livsstilen vår og de sosiale mønstrene endrer
-seg. Det kan se ut til at vi er på vei mot et høydigitalisert samfunn der konsumentene krever
-personlig service og skreddersydde løsninger i
-større grad enn tidligere, i takt med den økte
-velstanden.
-
-[Side 84]
-
-84
-
-NOU 2018: 2
-
-Kapittel 6
-
-Fremtidige kompetansebehov I
-
-Kapittel 6
-
-Utenforskap og mistilpasning
-I dette kapitlet ser vi på kompetansebehov fra
-enkeltindividets side, med vekt på utenforskap og
-opplevd mistilpasning. Både utenforskap og opplevd mistilpasning kan ha sin bakgrunn i at kompetansen man har tilegnet seg ikke samsvarer
-med det som kreves i arbeidslivet, samtidig som
-det også kan ha en negativ virkning på læring og
-dermed på utviklingen av kompetansen. Kapitlet
-starter med å beskrive frafall i videregående opplæring, som for unge i dag er nært knyttet til
-arbeidsledighet og manglende deltakelse i
-arbeidsstyrken. Deretter er det en kort omtale av
-langtidsledighet, før vi går nærmere inn på opplevd mistilpasning i arbeidsmarkedet blant kandidater på ulike utdanningsnivå, og studier som
-beregner kostnader knyttet til mispasning.
-
-6.1
-
-Frafall i videregående opplæring
-og konsekvenser for
-arbeidsmarkedstilhørighet
-
-Mangelfull kompetanse er ofte en årsak til at det
-er vanskelig å få jobb, og det er også en sterkt
-medvirkende faktor for å falle ut av arbeidsmarkedet. En rekke studier viser at personer uten
-arbeidserfaring og uten fullført videregående
-utdanning i mange tilfeller har store problemer
-med å komme i arbeid (Meld. St. 29 (2016–
-2017)). Manglende utdanning og kompetanse er
-blitt en av de viktigste barrierene for inkludering.
-Det høye frafallet fra videregående opplæring
-gir dermed grunn til bekymring. Risikoen for å
-være arbeidsledig, å motta trygdeytelser, og å
-være utenfor arbeidsstyrken er over dobbelt så
-høy for gruppen med grunnskole som høyeste
-utdanning som for gruppen med fullført videregående opplæring (Meld. St. 29 (2016–2017)). I
-aldersgruppen 25–66 år er det om lag 560 000 personer i Norge som har grunnskole som høyeste
-fullførte utdanning, tilsvarende 20 prosent av
-befolkningen (Meld. St. 16 (2015–2016). Sammenlignet med andre land er andelen som begynner,
-
-men ikke fullfører videregående opplæring, relativt høy i Norge (OECD 2017b) .
-Figur 6.1 viser gjennomføringsgraden for
-elever som startet i videregående opplæring Vg1
-første gang høsten 2011. Figuren viser at 73 prosent av elevene i videregående opplæring fullførte
-studiet innen fem år. Det er store forskjeller på
-studieforberedende og yrkesfaglig opplæring.
-Mens 86 prosent av elevene på studieforberedende utdanningsprogram fullførte studiet innen
-fem år, var tilsvarende tall for yrkesfaglig utdanningsprogram bare rundt 60 prosent. På yrkesfaglige studieprogrammer sluttet 25 prosent av elevene underveis i opplæringsforløpet i perioden
-2011–2016, mens tallet var rundt 5 prosent for
-elever på studieforberedende utdanningsprogram.
-Figur 6.2 viser gjennomføringsgraden blant
-elever i videregående opplæring etter fylke i perioden 2011–2016. Finnmark har lavest gjennomføringsgrad blant elever i videregående opplæring:
-64 prosent av elevene fullførte i løpet av fem år,
-mens 21 prosent sluttet underveis i undervisningsforløpet. I Sogn og Fjordane fullførte 79 prosent av elevene i løpet av fem år, mens 10 prosent
-sluttet underveis i utdanningsforløpet.
-Mange med grunnskole som høyeste fullførte
-utdanning er nå godt voksne og da de var i skolealder var det vanlig å slutte utdanningsløpet etter
-grunnskolen for å begynne å jobbe. Mange i
-denne kategorien har hatt gode og trygge karriereveier i arbeidslivet. Arbeidserfaringen har gitt
-dem gode ferdigheter innen en rekke områder og
-evne til å utvikle kompetansen i tråd med oppgavenes utvikling.
-Det er fortsatt slik at mange unge ikke ønsker
-å gjennomføre videregående opplæring. Ønsket
-om å gjøre noe annet kan trekke elevene over i
-andre aktiviteter, noe som gjør at det for enkelte
-er mer relevant å snakke om bortvalg enn frafall.
-En begrunnelse kan eksempelvis være ønsket om
-å perfeksjonere seg i kultur- og idrettsaktiviteter
-som er vanskelig å kombinere med skolegang.
-Elever kan også velge å slutte i videregående opp-
-
-[Side 85]
-
-85
-
-NOU 2018: 2
-Fremtidige kompetansebehov I
-
-Kapittel 6
-
-100 %
-90 %
-10
-
-80 %
-
-Gjennomført VG3 eller gått opp til
-fagprøve, ikke bestått
-
-70 %
-15
-
-Sluttet underveis
-
-60 %
-50 %
-
-Fortsatt i videregående opplæring etter
-fem år
-
-19
-
-40 %
-
-76
-
-30 %
-
-Fullført på mer enn normert tid
-
-58
-
-20 %
-
-Fullført på normert tid
-
-40
-
-10 %
-0%
-Alle studenter
-
-Studieforbredende
-
-Yrkesfaglige
-
-Figur 6.1 Gjennomføringsgrad i videregående opplæring for elever som startet Vg1 første gang i 2011, totalt
-og etter utdanningsprogram, 2011–2016
-Kilde: SSBs kildetabell 09254.
-
-100 %
-90 %
-80 %
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-
-ne
-
-s
-
-So
-
-gn
-
-og
-
-Fj
-
-or
-
-da
-
-hu
-
-o
-sl
-
-er
-s
-Ak
-
-al
-sd
-
-om
-R
-
-O
-
-d
-
-r
-
-an
-al
-
-og
-R
-
-og
-e
-
-ør
-
-k
-
-gd
-e
-
-ar
-
-t-A
-
-Ve
-s
-
-em
-
-el
-
-Te
-l
-
-M
-
-N
-
-or
-
-d-
-
-Tr
-ø
-
-nd
-
-da
-
-la
-
-ag
-
-nd
-
-ud
-er
-H
-
-or
-
-sk
-
-Ia
-lt
-Bu
-
-d
-Tr
-om
-s
-Ø
-st
-fo
-ld
-H
-ed
-m
-ar
-k
-O
-pp
-la
-nd
-Ve
-st
-fo
-Au
-ld
-st
-Sø -Ag
-de
-r-T
-r
-rø
-nd
-el
-ag
-
-an
-dl
-
-or
-N
-
-Fi
-
-nn
-
-m
-
-ar
-
-k
-
-0%
-
-Fullført på normert tid
-
-Fullført på mer enn normert tid
-
-Fortsatt i videregående opplæring
-
-Gjennomført VG3 eller gått opp til fagprøve, ikke bestått
-
-Sluttet underveis
-
-Figur 6.2 Gjennomføringsgrad videregående opplæring for elever som startet Vg1 første gang i 2011, totalt
-og etter fylke, 2011–2016
-Kilde: SSBs kildetabell 09262.
-
-læring fordi læringsutbyttet oppleves som lavt
-eller lite relevant for de ønskene ungdommene
-har for sitt yrkesvalg. Men ofte er det manglende
-mestring og svake grunnleggende ferdigheter fra
-grunnskolen, som gir manglende motivasjon for å
-fortsette (SSB 2017b, Reisel 2013).
-Markussen(20174) finner en sterk sammenheng mellom elevers karakterer fra tiende klasse,
-
-og elevenes evne til å bestå første år i videregående opplæring. De som fullførte Vg1 hadde et
-karaktersnitt på 4,2 fra tiende klasse. Dette var en
-hel karakter høyere enn de som ikke bestod. Markussen (2017) finner også en tydelig sammenheng mellom elevers karakternivå i tiende klasse
-og deres karakternivå i Vg1. Psykiske vansker og
-
-[Side 86]
-
-86
-
-NOU 2018: 2
-
-Kapittel 6
-
-Fremtidige kompetansebehov I
-
-angst oppgis som hovedårsak av elever som slutter underveis i videregående opplæring.
-Betydningen av formell utdanning for å oppnå
-stabilt arbeid har økt i senere år. Arbeidsgiverne i
-dag ønsker i større grad enn tidligere at de
-ansatte har en solid, dokumentert grunnutdanning, som basis for ansettelse og videre læring på
-arbeidsplassen. Derfor er det behov for å øke
-gjennomføringen og dermed sikre at flere oppnår
-en sluttkompetanse på minst videregående nivå.
-Sammenhengen mellom kompetansenivå og
-deltakelse i arbeidslivet er godt dokumentert i
-flere studier. Mange unge som ikke fullfører videregående opplæring ender utenfor arbeidslivet.
-Falch og Nyhus (2011) og Bratsberg mfl. (2010)
-finner at unge voksne uten videregående opplæring i gjennomsnitt har lavere sysselsetting, kortere arbeidstid og lavere inntekt enn personer
-som har fullført videregående opplæring. I Norge
-i 2014 var 71 000 personer i aldersgruppen 15–29
-år verken i arbeid, under utdanning eller opplæring (NEET)1. Dette tilsvarte 7 prosent av denne
-aldersgruppen i Norge. I internasjonal sammenheng har Norge en lav andel NEET, selv om andelen har økt noe, fra 9,6 prosent i 2005 til 10,9 prosent 2016 for 20–24-åringer (OECD 2017b).
-
-1
-
-Not in Employment, nor in Education nor Training
-
-0%
-
-Personer som går lenge uten arbeid kan bli mindre attraktive på jobbmarkedet. Fagkompetanse
-som ikke brukes kan bli utdatert i et arbeidsmarked som er i rask endring. Også sosiale og emosjonelle ferdigheter kan svekkes når de ikke utvikles gjennom et arbeidsforhold. For langtidsarbeidsledige er aktivisering viktig for at kompetansesvekkelsen ikke skal bli så stor at videre sysselsetting blir vanskelig.
-I oktober 2017 stod totalt 66 000 personer
-registrert hos NAV som helt arbeidsledige. Blant
-disse var 19 000 langtidsledige. NAV definerer
-langtidsledige som de som har vært arbeidsledige
-i 6 måneder eller mer.
-Kapittel 4 viste utviklingen i bruttoledigheten
-for utvalgte yrkesgrupper. Langtidsledige fordelt
-etter yrkesgrupper følger i stor grad mønsteret
-for ledige generelt. Personer i konjunkturutsatte
-yrker blir også i større grad langtidsledige enn
-andre, særlig i dårlige tider. Yrkesgruppene bygg
-og anlegg og industri ble i særlig grad berørt av
-finanskrisen, mens yrkesgruppen ingeniører og
-IKT-fag i større grad ble påvirket av nedgangen i
-oljeprisen. Undervisning og helse- og sosialtjenester ble i liten grad påvirket av disse svingningene.
-Å være langvarig utenfor arbeidsstyrken, det
-vil si verken sysselsatt eller arbeidsledig, kan også
-bidra til å svekke arbeidsevnen. Dette gjelder
-blant annet for uføre og personer med nedsatt
-40 %
-
-48
-
-Økonomiske og administrative fag
-
-20
-
-Samferdsels- og sikkerhetsfag og andre servicefag
-
-18
-
-60 %
-
-80 %
-
-34
-
-42
-
-Mediefag
-
-Helse-, sosial og idrettsfag
-
-Langtidsledighet og utenforskap
-
-20 %
-
-Humanistiske og estetiske fag
-
-Naturvitenskapelige fag, håndverksfag og tekniske fag
-
-6.2
-
-18
-
-42
-
-17
-
-33
-
-21
-
-12
-
-47
-
-61
-
-45
-
-8
-
-30
-
-Dårlig
-
-Middels
-
-100 %
-
-43
-
-62
-
-Godt
-
-Figur 6.3 Vurdering av samsvar mellom innhold i fagskoleutdanningen og arbeidsoppgavene, etter
-fagområde
-Merknad: Undersøkelsen ble gjennomført blant kandidater som fullførte fagskoleutdanningen i 2015. Rundt 20 prosent svarte på
-fagskoleundersøkelsen. 734 kandidater svarte på dette spørsmålet.
-Kilde: Caspersen mfl. (2017).
-
-[Side 87]
-
-NOU 2018: 2
-Fremtidige kompetansebehov I
-
-arbeidsevne/funksjonsevne, men også langtidsmottakere av sosialhjelp. For noen av disse kan
-manglende relevant kompetanse ha bidratt til at
-de har falt ut av arbeidsmarkedet.
-
-gavene de har. Til sammenligning svarer kun 8
-prosent av fagskolekandidatene fra helse-, sosialog idrettsfag, se figur 6.3.
-
-6.3.2
-
-6.3
-
-Mistilpasning blant nyutdannede
-kandidater
-
-Selv om arbeidsmarkedet har økt etterspørselen
-etter høyere utdanning, er det likevel en del nyutdannede kandidater som sliter med å finne en
-relevant jobb etter avsluttede studier. Dette er
-tema for dette delkapitlet.
-
-6.3.1 Fagutdannede og fagskolekandidater
-Det er høy sysselsetting blant personer som fullfører videregående yrkesfaglig opplæring. Tall fra
-2016 viser at 3 år etter at fagarbeiderne ble ferdig
-med fag- og svenneprøven var 82 prosent i arbeid
-og 10 prosent i utdanning (Utdanningsdirektoratet 2017). Tall fra Utdanningsdirektoratet viser at
-7 av 10 søkere har fått godkjent lærekontrakt ved
-utgangen av 2017. Dette utgjør 20 800 lærekontrakter. Sammenlignet med året før er dette en
-økning på 1 700 læreplasser. Størst andel søkere
-har fått plass på bygg- og anleggsteknikk. Dette er
-positivt, da det ser ut til å være gode arbeidsmarkedsutfall for fagutdannede og det har vært en
-særlig mangel på faglærte innen bygg- og anlegg
-(Utdanningsdirektoratet 2018). Det er likevel
-behov for flere læreplasser innen videregående
-yrkesfaglig opplæring.
-Meld. St. 9 (2016–2017) Fagfolk for fremtiden –
-Fagskoleutdanning tar opp flere tiltak med sikte på
-en styrking av kunnskapen om fagskoleutdanningen, slik som å jevning gjennomføre kandidatundersøkelser blant alle som har fullført en fagskoleutdanning. I tillegg til å gjennomføre en spørreundersøkelse blant fagskolekandidatene, gjør Caspersen mfl. (2017) en analyse av opplysninger om
-fagskolekandidater i offentlige registre fra tidligere år. Registerdataanalysen viser at hele 37 prosent av fagskolekandidatene fra humanistiske og
-estetiske fag jobber innen varehandel, mens kun 2
-prosent av dem jobber med kulturell virksomhet.
-Det kan tyde på en mistilpasning mellom utdanning og arbeid.
-Blant sysselsatte fagskolekandidater som
-svarte på undersøkelsen, er det nær halvparten
-(48 prosent) av fagskolekandidatene fra humanistiske og estetiske fag som mener at innholdet i
-utdanningen stemmer «dårlig» med arbeidsopp-
-
-87
-
-Kapittel 6
-
-Bachelorkandidatene
-
-Bachelorgraden kom som en del av Kvalitetsreformen som ble innført høsten 2003. Ett av formålene med reformen var raskere gjennomstrømning gjennom høyere utdanning. Gradsstrukturen
-ble i grove trekk endret fra en fireårig cand.mag.grad etterfulgt av et toåring hovedfagsstudium til
-en treårig bachelor med en toårig master etterpå.
-Det ble stilt større krav til institusjonene om oppfølging og veiledning gjennom studiet. Det var
-også et mål at bachelorgraden skulle være mer tilpasset arbeidsmarkedets behov enn cand.mag.graden, og dermed bli ansett som en mer selvstendig grad.
-I 2007 samlet NIFU inn data fra kandidater
-med bachelorgrad uteksaminert ved et av de fire
-breddeuniversitetene som er en del av Kandidatundersøkelsen (Arnesen og Waagene 2009). En
-hensikt med prosjektet var å se hvordan den nye
-graden ble mottatt av arbeidsmarkedet. Bare 13
-prosent av bachelorkandidatene var i relevant heltidsarbeid et halvt år etter endt utdanning. Inkludert kandidater i ufrivillig deltid var det en tredjedel av kandidatene som var sysselsatt i relevant
-arbeid. Omtrent tre fjerdedeler var i utdanning på
-undersøkelsestidspunktet, halvparten av disse
-holdt på med en masterutdanning.
-Undersøkelsen stilte også spørsmål om kandidatenes utdanningsmål. Omtrent 80 prosent av
-kandidatene hadde mål om å ta mastergrad eller
-doktorgrad. Kun 15 prosent oppga å ikke ha mål
-om en akademisk grad utover bachelorgraden
-(Arnesen og Waagene 2009).
-Etter det første kullet bachelor-utdannede
-kunne man konkludere med at kandidatene i liten
-grad opplevde at utdanningen var et ønsket startpunkt for arbeidslivet, og at kandidatene heller
-ønsket å ta videre utdanning.
-En undersøkelse fra NIFU om kandidater fra
-flere profesjonsutdanninger (både på bachelor- og
-masternivå) som ble uteksaminert våren 2008,
-viser at kandidatene i stor grad var veltilpassede i
-arbeidsmarkedet omtrent to og et halvt år etter
-fullført utdanning (Arnesen 2012). Bachelorkandidatene i denne undersøkelsen hadde også relativt
-høy tilbøyelighet til å fortsette i utdanning, det
-gjaldt særlig ingeniørene (46 prosent) og bachelorkandidatene i økonomiske-administrative fag
-(57 prosent).
+1.  **Kostnader ved manglende sammenfall av kompetanse**
 
-[Side 88]
+I praksis vil det i dynamiske økonomier alltid være enkelte typer arbeidskraft som det er mangel på, og andre typer arbeidskraft som det er overskudd av. Geografiske avstander og lav mobilitet for arbeidskraften vil også kunne bidra til at arbeidstakere ikke finner en egnet jobb
 
-88
+.
 
-NOU 2018: 2
+McGuinnes mfl. (2017) hevder at underutnyttelse av kompetanse er et problem. De viser til at 1 av 4 arbeidstakere i Europa jobber under sin kapasitet, noe som er en stor kilde til ineffektivitet. En bedre allokering av arbeidsstyrken vil gi store gevinster for individer, produktivitet og lønnsomhet for virksomheter og for samfunnet som helhet. OECDs studier på dette feltet er også drevet av en bekymring for ineffektivitet og svakt fungerende arbeidsmarkedsmekanismer.
 
-Kapittel 6
+Det er mange forskjellige kostnader knyttet til mistilpasning. En arbeidstaker som er overkvalifisert eller har et ferdighetsoverskudd vil som regel tjene mindre enn i en jobb der kompetansen samsvarer bedre med arbeidsoppgavene. I tillegg følger oftest et tap i jobbtilfredsstillelse, mer hyppige jobbskifter og konsekvenser for deltakelse i læringsaktiviteter på jobben (Quintini 2011). Det er også påvist tap i kognitive evner, som leseferdighet, tallforståelse og hukommelse. En arbeidstaker som ikke får brukt sin kompetanse vil kunne oppleve redusert indre motivasjon, redusert mestringstro, svekket innsats og ytelse over tid, økt sannsynlighet for stresslidelser, frustrasjon og negativt fokus (Lai 2013). Til gjengjeld opplever underkvalifiserte gjerne det motsatte, at de «hever» sine kognitive evner til et høyere nivå som korresponderer til kravene i jobben. Over tid vil ferdighetene dermed i noen grad tilpasses kravene i jobben.
 
-Fremtidige kompetansebehov I
+Montt (2015) finner at arbeidstakere som er overkvalifiserte for sin jobb, får betydelig lavere lønn enn arbeidstakere som har en jobb som tilsvarer utdanningsnivået. Montt finner at arbeidstakere som er overkvalifisert, men som er tilpasset etter fagfelt, har 18 prosent lavere lønn enn tilsvarende som er kvalifiserte. Arbeidstakere som er både overkvalifisert og mistilpasset etter fagfelt, tjener 25 prosent lavere enn tilsvarende som er i riktig fagfelt og på riktig kvalifikasjonsnivå. Arbeidstakere som er på riktig utdanningsnivå, men som er mistilpasset etter fagfelt, har derimot bare 3 prosent lavere lønn enn de ville hatt dersom de var i riktig fagfelt.
 
-40 %
-35 %
-30 %
+McGuinnes mfl. (2017) går gjennom den empiriske litteraturen som knytter seg til kostnader ved overkvalifisering. De finner 61 estimater i litteraturen som beregner lønnstapet for overkvalifiserte i flere forskjellige land. Gjennomsnittet av disse estimatene er at overutdannede har et lønnstap på 13,5 prosent sammenlignet med personer med samme utdanninger som har jobber tilpasset deres kvalifikasjonsnivå.
 
-14,8
+Montt (2015) beregner også samfunnsøkonomiske kostnader knyttet til manglende samsvar mellom kompetanse og arbeid. Ved hjelp av opplysninger om kostnader til utdanning og de estimerte lønnsforskjellene som følger med mistilpasning, finner Montt at kostnadene utgjør mellom rundt 0,2 til over 1 prosent av BNP. Mesteparten av de samfunnsøkonomiske kostnadene kommer fra lavere inntekter og skatt enn hva de mistilpassede ville tjent og betalt i jobber som hadde korrespondert til deres utdanninger, men det er også kostnader ved tap fra investeringer i utdanning for personer som ikke har en tilpasset jobb. Merk at disse samfunnsøkonomiske tapene i stor grad er knyttet til at det ikke er høyproduktive jobber til alle arbeidstakerne som har høyere utdanning. Kostnaden er dermed ikke en følge av at arbeidstakerne har feil utdanning, men snarere en kostnad ved at tilgangen på produktive jobber er for liten. Det kan derfor diskuteres om disse kostnadene bør omtales som kostnader ved mistilpasning i arbeidsmarkedet.
 
-25 %
-20 %
-15 %
+1.  **Oppsummering og vurderinger**
 
-10,2
+Dette kapitlet går nærmere inn på en rekke former for mistilpasning i arbeidsmarkedet. De viktigste funnene tas inn her.
 
-0%
+- En ganske stor del av ungdomskullene går gjennom utdanningssystemet uten en utdanning eller opplæring som gir dem en god og stabil tilknytning til arbeidslivet. Av elevene som startet på yrkesfaglige opplæringsforløp i perioden 2011–2016 sluttet 25 prosent underveis i opplæringsforløpet. Blant de elevene som startet på studiespesialiserende utdanningsprogram i periode 2011–2016, sluttet om lag 5 prosent. Mens det er vanlig blant eldre arbeidstakere å ha grunnskole som høyeste fullførte utdanning, gir dette vanligvis ikke godt nok grunnlag for å delta i arbeidslivet for dagens unge.
 
-11,0
-8,1
+- Frafall fra videregående opplæring fører til økt risiko for arbeidsledighet og andre former for utenforskap. For de fleste er frafallet en konsekvens av manglende motivasjon og mestring i opplæringen, som gjør at de avbryter underveis eller gjennomfører uten bestått. Nyere forskning peker også på at psykiske vansker er en viktig årsak til frafall blant elever i videregående opplæring. For at flere skal fullføre videregående opplæring, er det viktig at både grunnskolen og videregående opplæring legges opp på en måte som er motiverende for alle elever. Alle elever bør oppleve en følelse av mestring og oppnå et læringsutbytte som gjør dem i stand til å fortsette i opplæring og utdanning.
 
-13,0
+- Langtidsledighet kan føre til at både kognitive og sosiale og emosjonelle ferdigheter svekkes. Jo lenger arbeidsledigheten varer, dess vanskeligere blir det å komme tilbake i jobb.
 
-8,3
+- Fagskoleutdanninger er arbeidslivsrettede kortere utdanninger på nivået over videregående opplæring. Det er stort mangfold i sektoren, men innen enkelte fagområder virker det som arbeidslivsrelevansen i fagskoleutdanningen er uklar og at kandidatene har vanskeligheter med å få relevant jobb.
 
-6,2
+- Bachelorutdanningen oppleves i liten grad som en fullverdig arbeidsmarkedsrelevant grad for kandidater, siden svært mange med bachelor har videre utdanningsplaner.
 
-4,1
-14,2
+- Blant masterkandidater er det som regel god overgang til arbeidsmarkedet, selv om det avhenger av fagområde og konjunkturene ved uteksamineringstidspunktet. Det er likevel mange masterkandidater som bruker lang tid på å finne en jobb som er relevant for utdanningen.
 
-10 %
-5%
+Ifølge NIFU var en tredjedel av masterkandidater fra humaniora som ble uteksaminert våren 2015 mistilpasset et halvt år senere, definert som at de enten var arbeidsledige, undersysselsatt eller i irrelevant arbeid. Omfanget av mistilpasning var omtrent på samme nivå i 2013. For kandidater fra samfunnsvitenskap og naturvitenskap og teknologi var det om lag 25–30 prosent mistilpasning, en økning fra 10 til 15 prosentpoeng fra to år tidligere. Kandidater fra profesjonsutdanningene på bachelor- og masternivå har bedre mulighet til å finne jobb, men også for disse gruppene var det 10–15 prosent av 2015-kullet som ikke hadde funnet relevant heltidsarbeid et halvt år etter fullført utdanning
 
-8,0
+.
 
-9,7
+- Tre år etter fullført utdanning har det tidligere vært svært lav mistilpasning for masterkandidater. Men våren 2017 var over 16 prosent av humanistene mistilpasset to–tre år etter uteksaminering, og en tredjedel av disse var arbeidsledige. Samfunnsviterne hadde også ganske høy mistilpasning, samlet 9 prosent, mens realistene hadde nærmere 10 prosent mistilpasning. Det er store fagforskjeller innen utdanningsgruppene. Siviløkonomer, psykologer og jurister hadde lav mistilpasning tre år etter eksamen med mistilpasningstall opp mot 3 prosent. Sivilingeniørene hadde nesten 5 prosent mistilpasning, mens det tidligere har vært svært lav mistilpasning for denne utdanningsgruppen.
 
-2013 2015
-Humaniora
+- Mange arbeidstakere er i en jobb som ikke er tilpasset deres kvalifikasjoner. OECD definerer mistilpasning etter kvalifikasjoner basert på hvorvidt arbeidstakeren har et utdanningsnivå som er høyere eller lavere enn det som kreves i jobben. Mistilpasning etter fagfelt beskriver en situasjon der arbeidstakeren jobber innen et annet fagfelt enn det arbeidstakeren er utdannet for. Basert på disse definisjonene finner OECD at rundt en tredjedel av arbeidstakerne er over- eller underkvalifisert, og en tilsvarende andel er mistilpasset etter fagfelt. Norge ligger nær gjennomsnittet i OECD: Omtrent 23 prosent av arbeidsstyrken er underkvalifisert, 12 prosent er overkvalifisert og 29 prosent er mistilpasset etter fagfelt. Men mistilpasning er vanskelig å måle, og OECDs beregninger omfatter trolig også mange arbeidstakere som fungerer godt i sin jobb.
 
-7,2
+- Mistilpasning etter kvalifikasjoner har gjerne betydelig virkning på lønnen. Sammenlignet med arbeidstakere med tilsvarende utdanning som jobber på riktig nivå, viser studier fra OECD at arbeidstakere som er overkvalifisert, har 18 prosent lavere lønn, selv om de jobber på riktig fagfelt. Dersom de overkvalifiserte arbeidstakerne også jobber på feil fagfelt, blir forskjellen på hele 25 prosent. Arbeidstakere som har jobb på riktig kvalifikasjonsnivå, men feil fagfelt, har derimot bare 3 prosent lavere lønn enn om de hadde jobbet i riktig fagfelt.
 
-7,6
+1.  **Veien videre**
 
-9,1
+I utvalgets mandat står det at utvalget skal «ha en bred metodetilnærming og stimulere til utvikling av nytt kunnskapsgrunnlag, inkludert scenarioanalyser, kvantitative og kvalitative analyser, framskrivninger og spørreundersøkelser, som kan bidra til å belyse kompetansebehov i samfunnet og bedre forstå enkeltindividers valg av utdanning, læring og arbeid, både nasjonalt og regionalt».
 
-11,2
+Utvalget har i løpet av høsten 2017 gjort to analyseavtaler som i løpet av 2018 vil gi viktig nytt analysegrunnlag. Den ene analysen skal gjøres av SSB på registerdata, med sikte på å belyse endringer i utdanningssammensetningen i yrker tilbake i tid for forskjellige næringer i Norge. Dette vil gi bedre muligheter til å kunne drøfte fremtidige endringer i kompetansebehovene. Det andre prosjektet er en kohortstudie av ungdommers utdannings- og yrkesvalg, som ble påbegynt på NTNU i 2015. Kompetansebehovsutvalget har spilt inn spørsmål til undersøkelsen som gjennomføres våren 2018.
 
-2013 2015
-Samfunnsvitenskap
+I løpet av 2018 vil det også bli satt i gang andre undersøkelser, med sikte på å få bedre og mer pålitelig informasjon om andre forhold av betydning for Kompetansebehovsutvalgets interesseområde, som fremtidig nærings- og samfunnsutvikling og regionale forskjeller.
 
-3,3
+Fremover ønsker Kompetansebehovsutvalget løpende innspill fra relevante aktører på tema knyttet til Utvalgets arbeid. Det er i den forbindelse opprettet en kontaktadresse på Utvalgets hjemmeside: www.kompetansebehovsutvalget.no.
 
-8,0
+**Referanser**
 
-7,1
+Abelia (2017). «Undersøkelse om IT-kompetanse og utkontraktering i teknologi- og kunnskapsnæringen».
 
-3,2
+Acemoglu, Daron og Jörn-Steffen Pischke (1999). «The structure of wages and investment in general training», *Journal of Political Economy,* vol.107, s. 539–572.
 
-8,3
+Andreev, Leonid, og Kari-Mette Ørbog (2014). *NAVs bedriftsundersøkelse 2014*, NAV, Arbeid og velferd 2/2014.
 
-2,5
-
-4,8
-6,0
-
-7,2
-
-3,2
-
-14,3
-6,8
-
-8,7
-
-6,0
-
-2013 2015
-Naturvit.
-og teknologi.
-
-2013 2015
-Totalt
-
-Arbeidsledig
-
-Undersysselsatt
-
-6,2
-1,4
-8,7
-
-2013 2015
-Juss
-
-7,5
+Andreev, Leonid (2015). *NAVs bedriftsundersøkelse 2015*, NAV, Notat 1/2015.
 
-3,8
-8,4
+Andreev, Leonid, og Johannes Sørbø (2016. *NAVs bedriftsundersøkelse 2016*, Notat 2/2016.
 
-4,6
+Andreev, Leonid, og Line Schou (2017). *Mobilitet og flyttevillighet blant arbeidsledige*, NAV, Arbeid og velferd 3/2017.
 
-2,9
+Arbeidsdirektoratet (1985). *Framtidig behov for arbeidskraft. Arbeidsgiveres forventede etterspørsel etter ulike utdannings- og yrkesgrupper,* Arbeidsdirektoratet, Avdeling for statistikk og utredninger.
 
-2013 2015
-Helseog sosial
+Arnesen, Clara Åse, Liv Anne Støren og Jannecke Wiers-Jenssen (2015). *Teknologer, realister og økonomer på arbeidsmarkedet. Kandidatundersøkelse tre år etter fullført utdanning blant teknologer, realister og økonomer.* Rapport 2015:30, NIFU.
 
-4,0
-6,4
-7,8
+Arnesen, Clara Åse og Erica Waagene (2009). *Bachelorgraden fra universitet – en selvstendig grad, eller delmål i et lengre utdanningsløp?*, Rapport 7/2009, NIFU, Oslo.
 
-2,4
-7,8
+Arnesen, Clara Åse (2012). *Profesjonsutdannedes overgang fra utdanning til arbeid. Arbeidsmarkedstilpasning, yrkesverdier og tilfredshet med utdanning og arbeid*, Rapport 13/2012, NIFU, Oslo.
 
-2,2
-6,4
+Autor, David H (2010). «Skills, education, and the rise of earnings inequality among the ‘other 99 percent’», *Science* vol. 244 6186, s. 843–851.
 
-8,7
-3,1
+Barro, Robert J. and Xavier Sala-i-Martin (2004). *Economic Growth*, The MIT Press, Cambridge, Massachusetts.
 
-3,0
+Barrett, Garry and W. Craig Riddell (2016). *Ageing and Literacy Skills: Evidence from IALS, ALL and PIAAC*, OECD Education Working Paper no. 145, OECD, Paris.
 
-2013 2015
-2013 2015
-Økonomi
-Lærerutd.
-og adm. og pedagogikk.
+Berg, Linda (2017). *Kompetansebehovet i norske verksemder aukar.* Kompetanse Norge.
 
-Irrelevant arbeid
+Bore, Lene, Torgeir Nyen, Kaja Reegård og Anna Hagen Tønder (2012). *Internopplæring i varehandelen.* Fafo-rapport 2012:23.
 
-Figur 6.4 Andelen mistilpassede masterkandidater, et halvt år etter fullført grad, etter fagområde. 2013 og
-2015
-Merknader: Basert på resultater fra NIFUs undersøkelse blant masterkandidater som fullførte utdanningen hhv. våren 2013 og våren 2015. Datainnsamlingsperioden er henholdsvis høsten 2015 / vinteren 2016 og høsten 2013 / vinteren 2014. Henholdsvis 3 917
-kandidater (2015) og 3 254 (2013) svarte på undersøkelsen, som utgjør nær 51 prosent (2015) eller drøyt 48 prosent (2013) av nettoutvalget. Benevnelsen masterkandidater inkluderer i NIFUs undersøkelse også lignende grader som kandidater med embetseksamen i psykologi og teologi. Kandidater med medisinutdanning, kandidater fra Handelshøgskolen BI og kandidater som har flyttet
-ut av Norge er ikke med i undersøkelsen. Idrettsfag, primærnæringsfag og samferdsels- og sikkerhetsfag og andre servicefag er
-utelatt fra figuren. Kategoriseringen er i hovedsak basert på SSBs utdanningsstandard.
-Kilde: Wiers-Jenssen mfl. 2014 og Støren mfl. 2016.
+Bjørnstad, Roger, Rolf Røtnes og Sigrun Aasland (2015). *Eksplorative scenarioanalyser om framtidens kompetansebehov*. Samfunnsøkonomisk analyse, Rapport nr. 19-2015.
 
-6.3.3 Masterkandidatene
-Undersøkelser et halvt år etter uteksaminering
-NIFU gjennomfører en kandidatundersøkelse
-blant alle masterkandidater som uteksamineres
-ved norske institusjoner i vårsemesteret annethvert år. Kandidatene besvarer undersøkelsen ut
-fra en referanseuke i november samme år. Undersøkelsen har relativt høy svarprosent, sammenlignet med andre tilsvarende undersøkelser, og er
-landsdekkende. Blant masterkandidatene som ble
-uteksaminert vårsemesteret 2015, og som svarte
-på undersøkelsen, oppga 7 prosent å ha irrelevant
-arbeid et halvt år etter fullført utdanning (Støren
-mfl. 2016). Irrelevant arbeid er definert som at
-kandidaten både svarer at høyere utdanning er
-helt uten betydning for arbeidet og at innholdet i
-utdanningen passer dårlig med arbeidsoppgavene.
-Til sammen 23 prosent av de spurte masterkandidatene fra våren 2015 oppga at de var mistilpasset i arbeidsmarkedet et halvt år senere. Å
-være mistilpasset innebærer at man enten er
-arbeidsledig, undersysselsatt eller har irrelevant
-arbeid, og er summen av de tre delsøylene i figur
-6.4. For å forenkle, har vi slått sammen de to
+Bjørnstad, Roger, Maja Tofteng, Fernanda Winger Eggen og Rolf Røtnes (2016). *Scenarioanalyse – framtidig kompetanseetterspørsel i Norge*. Samfunnsøkonomisk analyse, Rapport nr. 29-2016.
 
-typene irrelevant arbeid, ufrivillig irrelevant
-arbeid og irrelevant arbeid som skyldes andre
-årsaker. Resultatene må tolkes i lys av at undersøkelsen ble gjennomført allerede et halvt år etter at
-utdanningen er fullført, og mange av kandidatene
-var da fortsatt i en jobbsøkeprosess (Støren mfl.
-2016).
-Mistilpasningen var størst, men stabil, innen
-humanistiske og estetiske fag. For samfunnsviterne var det en klar økning i fra 2013- til 2015undersøkelsen, noe som trolig henger sammen
-med et generelt vanskeligere arbeidsmarked.
-Humanister er mindre påvirket av økonomiske
-konjunkturer enn andre med mastergrad (Næss
-mfl. 2016). Det skyldes at mange humanister jobber i offentlig sektor og innen undervisning
-(Wiers-Jenssen mfl. 2016).
-Den økte mistilpasningen for kandidater med
-naturvitenskapelige og tekniske fag fra 2013- til
-2015-undersøkelsen hang sammen med oljeprisfallet som startet i 2014 og nedgangen i oljerelaterte næringer. Den totale mistilpasningen for
-gruppen økte fra rundt 15 til rundt 27 prosent fra
-2013- til 2015-undersøkelsen.
-Det betyr mye for å unngå mistilpasning på
-arbeidsmarkedet som nyutdannet at man har hatt
+Bratsberg, Bernt, Oddbjørn Raaum, Knut Røed og Hege Marie Gjefsen (2010). *Utdannings- og arbeidskarrierer hos unge voksne. Hvor havner ungdom som slutter i skolen i ung alder?* Rapport 2010: Frischsenteret.
 
-[Side 89]
+Bratsberg, Bernt, Oddbjørn Raaum, Marianne Røed og Pål Schøne, P. (2014), «Immigration Wage Impacts by Origin», *Scandinavian Journal of Economics* 116, 356–393.
 
-89
+Bratsberg, Bernt, Oddbjørn Raaum og Knut Røed (2017). «Job Loss and Immigrant Labour Market Performance», *Economica, online versjon 12. juni.*
 
-NOU 2018: 2
-Fremtidige kompetansebehov I
+Bye, Torstein og Helge Nome Næsheim (2016). *Drivkrefter bak endringer i yrkesstrukturen*. Økonomiske analyser 4/2016, SSB.
 
-0%
+Cabrales, Antonio, Juan J. Dolado og Ricardo Mora (2017). *Dual employment protection and (lack of) on-the-job training: PIAAC evidence for Spain and other European countries.* SERIEs s. 345–371.
 
-5%
+Cappelen, Ådne, Hege Gjefsen, Marit Gjelsvik, Inger Holm og Nils Martin Stølen (2013). *Forecasting demand and supply of labour by education*, SSB-rapport 48/2013.
 
-10 %
+Caspersen, Joakim, Britt Karin Utvær, Hanna Bugge og Christian Wendelborg (2017). *Fagskolekandidatene: En undersøkelse av fagskolestudenter uteksaminert i 2015, rapport NTNU Samfunnsforskning, Høgskolen i Oslo og Akershus.*
 
-15 %
+Cedefop (2016). *Future skill needs in Europe: critical labour force trends*, Research paper.
 
-9,2
+Dapi, Bjorn, Hege Marie Gjefsen, Victoria Sparrman og Nils Martin Stølen (2016). *Education-specific labour force and demand in Norway in times of transition*, SSB-rapport 2016/31.
 
-Sørlandet
+Dapi, Bjorn og Håvard Hungnes. (2017). *Framskriving av sysselsettingen etter næring og utdanning. Dokumentasjon.* SSB. Notater 2017/43.
 
-20 %
+Deming, David. J (2015). *The Growing Importance of Social Skills in the Labor Market.* Working paper No. 21473. National Bureau of Economic Research, 2015.
 
-25 %
+Dustman, Christian og Costas Meghir (2005). «Wages, Experience and Seniority», *Review of Economic Studies*, vol. 72(1) : 77-108.
 
-9,2
+Eggen, Fernanda Winger og Rolf Røtnes (2017). *Framtidens behov for akademikere*. Samfunnsøkonomisk analyse, Rapport 73-2017.
 
-7,0
+Eggen, Fernanda Winger, Rolf Røtnes og Jørgen Steen (2018). *Helse-Norge 2040 – Hvordan vil framtiden bli*? Samfunnsøkonomisk analyse. Rapport 79-2018.
 
-Oslo/Akershus
+Europakommisjonen (2012). *Education and Training 2020 Work programme: Thematic Working Group «Assessment of Key Competences» – Literature review, Glossary and examples.* Directorate-General for Education and Culture.
 
-7,9
+*Fagforbundet (2017).* http://www.fagforbundet.no/tema/samhandlingsreformen/?article_id=98542
 
-7,8
+Falch, Torberg og Ole Henning Nyhus (2011). *Betydningen av fullført videregående opplæring for sysselsetting blant unge voksne.* SØF-rapport nr. 11/01.
 
-Vestlandet
+FINN (2017). «FINN Jobbindeks desember 2017».
 
-8,2
+Fjørtoft, Henning (2010). http://multimedie.adm.ntnu.no/Mediasite/Play/191958794bc24899b89fb05dd92315021d
 
-7,2
+Frey, Carl Benedik and Michael Osborne (2013). *The Future of Employment.* Working paper. Oxford Martin Programme on Technology and Employment.
 
-Nord-Norge
+Fölster, Stefan (2014). *Vartannat jobb automatiseras inom 20 år – utmaningar för Sverige*. Stiftelsen för Strategisk Forskning (SFF).
 
-6,9
+Fölster, Stefan (2018). *Norway’s new jobs in the wake of the digital revolution*. Rapport utarbeidet til NHOs årskonferanse «Verdien av arbeid».
 
-6,1
+Gabrielsen, Egil, Johanne Hovig, Elisabeth Rongved, Olaug Strand, Hildegunn Støle, Trond Egil Toft (2017). *Godt nytt! Norske resultater fra PIRLS 2016*. Lesesenteret, Universitetet i Stavanger.
 
-Østlandet ellers
+Gjefsen, Hege Marie, Trude Gunnes og Nils Martin Stølen (2014). *Framskrivinger av befolkning og arbeidsstyrke etter utdanning med alternative forutsetninger for innvandring*. SSB-rapport 2014/31.
 
-7,5
+Gleerup, Jørgen (2005). *«Kompetence i den pædagogiske diskurs»*, Kvan, Vol. 25(71), s. 18–28.
 
-5,4
+Gneezy, Uri, Johna A. List, Jeffrey A. Livingston, Sally Sadoff, Xiangdong Qin og Yang Xu (2017). *Measuring success in education: The role of effort on the test itself.* National Bureau of Economic Research. Cambridge.
 
-Arbeidsledige
+Grünfeld Leo A., Kaja Høiseth-Gilje og Rasmus Bøgh Holmen (2014). *Høyere utdanning som kilde til produktivitet og konkurranseevne: Hva sier tallene for Norge?,* Menon-publikasjon nr. 36/2014
 
-Undersysselsatt
+Gundersen, Frants, og Dag Juvkam, (2013). *Inndelinger i senterstruktur, sentralitet og BA-regioner,* Norsk Institutt for by- og regionforskning.
 
-30 %
+Gunnes, Trude, og Pål Knudsen (2015). *Tilbud og etterspørsel for ulike typer lærere mot 2040: Framskrivinger basert på LÆRERMOD,* SSB-rapport 2015/41.
 
-35 %
+Gunnes, Trude, og Pål Knudsen (2016). *LÆRERMOD: Forutsetninger og likninger*. SSB-notat 2016/25.
 
-12,7
+Gunnes, Trude (2017). *Gjennomgang av tidligere LÆRERMOD-framskrivinger.* SSB-notat 2017/42.
 
-11,8
+Hanushek, Eric A. og Dennis Kimko (2000). «Schooling, labor force quality, and the growth of nations,» *American Economic Review* vol. 90(5), s. 1184–1208.
 
-Trøndelag
+Hanushek, Eric A. og Ludger Wössmann (2010). «Education and economic growth,» *International Encyclopedia of Education* vol.2, s. 245–252.
 
-Kapittel 6
+Heckman, James J. (2000). «Policies to foster human capital,» *Research in Economics* vol.54, s. 3–56.
 
-6,0
+Heckman, James J. og Yona Rubinstein (2001). «The Importance of noncognitive skills: Lessons from the GED testing program,» *AEA Papers and Proceedings* vol. 91 (2), s. 145–149.
 
-6,2
+Heckman, James J. and Tim D. Kautz (2012). *Hard Evidence on Soft Skills*, NBER Working Paper no. 18121, National Bureau of Economic Research, Cambridge, June.
 
-5,6
+HEGESCO (2009). *«Towards generating strategic competences in higher education. Findings from the European project «Higher education as a generator of strategic cometences»»*. HEGESCO Newsletter.
 
-3,9
+Helsedirektoratet (2017). «Velferdsteknologi», https://helsedirektoratet.no/velferdsteknologi
 
-2,5
+Hilsen, Anne Inga og Anne Hagen Tønder (2013). *«Saman om» kompetanse og rekruttering – en kunnskapsstatus.* Fafo-notat 2013:03.
 
-Irrelevant arbeid pga. arbeidsmarkedsvansker
+Holden, Steinar (2017). «Robotisering og jobber». Dagens Næringsliv 9. mars 2017. http://folk.uio.no/sholden/Debattinnlegg/Robotiseringjobber.htm
 
-Figur 6.5 Andel mistilpassede masterkandidater, et halvt år etter fullført grad, etter lærested
-Merknad: Basert på NIFUs kandidatundersøkelse av kandidater som fullførte våren 2015.
-Kilde: Støren mfl. (2016).
+Holte, Jon Helgheim (2017). *Norske virksomheters vurdering av tilgang til opplæringstilbud*, Kompetanse Norge.
 
-relevant inntektsgivende arbeid under studiene.
-Støren mfl. (2016) finner også at karakterer hadde
-økt betydning i nedgangskonjunkturer. Arbeidsgiverne foretrekker kandidater med gode karakterer når det er få jobber og mange søkere.
-Et halvt år etter eksamen hadde halvparten av
-kandidatene flyttet fra lærestedsregionen. Andelen som ble boende i lærestedsfylket var høyest på
-Sørlandet. Andelen mistilpassede totalt, men ikke
-arbeidsledigheten, var særlig høy for kandidater
-fra lærested på Sørlandet, som vist i figur 6.5. Støren mfl. (2016) antar at mange av kandidatene
-uteksaminert på Sørlandet hadde tatt en jobb som
-er irrelevant for utdanningen enten for å unngå
-arbeidsledighet eller for å unngå å flytte.
-Undersøkelser tre år etter uteksaminering
-Arnesen mfl. (2015) undersøkte bachelor- og
-masterkandidater tre år etter uteksaminering
-våren 2012 innen tre fagområder: teknologiske fag
-(ingeniører og sivilingeniører), andre naturvitenskapelige fag (realister) og økonomisk-administrative fag. Undersøkelsestidspunktet, januar–
-april 2015, var en vanskelig tid for en del utdanningsgrupper med høyere utdanning på grunn av
-oljeprisfallet i 2014, som førte til at mange i oljerelatert virksomhet mistet jobben. Blant masterkandidatene i realfag opplevde nesten halvparten (46
-prosent) minst én periode med arbeidsledighet i
-de tre årene som hadde gått siden uteksamineringen. På undersøkelsestidspunktet var 5 prosent av
+Hopfenbeck, Therese N. og Marit Kjærnsli (2016). «Students’ test motivation in PISA: the case of Norway», *The Curriculum Journal,* Vol, No.3, 406–422.
 
-realistene med mastergrad arbeidsledige, og
-ytterligere 3 prosent hadde irrelevant arbeid eller
-jobbet ufrivillig deltid.
-Blant sivilingeniørene og siviløkonomene var
-det derimot bare 1 prosent som var arbeidsledige i
-2015 og 1–2 prosent hadde annen type mistilpasning. Det virker altså som at kandidater fra profesjonsutdanninger hadde en sterkere tilknytning til
-arbeidsmarkedet enn kandidater fra mer generalistpregete utdanninger, og i vanskelige tider er de
-sistnevnte mest utsatt.
-NIFU gjennomførte en ny spesialundersøkelse
-i våren 2017, denne gangen blant masterutdannede som fullførte utdanningen i 2014 (Støren mfl.
-2018). Særlig realistene (6 prosent), men også
-sivilingeniørene (3,4 prosent) hadde betydelig
-høyere arbeidsledighet enn disse gruppene har
-hatt i tidligere oppfølgingsundersøkelser, noe som
-trolig skyldes den nevnte nedgangen i oljesektoren. Andelen mistilpassede realister var nesten 11
-prosent, og nesten 5 prosent for sivilingeniørene.
-Andelen arbeidsledige realister var 6,1 prosent og
-den var 3,4 prosent for sivilingeniørene. Samlet
-mistilpasning var 9 prosent for samfunnsviterne
-og nesten 16 prosent for humanistene. Blant samfunnsviterne var arbeidsledigheten 3,5 prosent,
-mens den var 5,3 prosent blant humanistene.
-Disse gruppene hadde omtrent tilsvarende ledighetsnivå ved forrige spesialundersøkelse i 2013.
-Humanistene skilte seg også ut ved en svært høy
-andel (over 7 prosent) som jobber ufrivillig deltid.
-Gruppene med høyere profesjonsutdannede
+Hægeland, Torbjørn (2001). «Experience and schooling: Substitutes or complements?» Statistics Norway Discussion Papers No. 301, ssb.no.
 
-[Side 90]
+Håland, Inger og Helge Nome Næsheim (2016). *Måling av langsiktige endringer i yrkesstrukturen. Om ulike datakilder og yrkesstandarder*, SSB-notater 2016/36.
 
-90
+Kalstø, Åshild Male og Johannes Sørbø (2017a). *NAVs bedriftsundersøkelse 2017*, NAV, Notat 1/2017.
 
-NOU 2018: 2
+Kalstø, Åshild Male og Johannes Sørbø (2017b). *Hvilke rekrutteringskanaler benytter bedriftene?* NAV, Notat 3/2017.
 
-Kapittel 6
+Kann, Inger Kathrine og Lars Sutterud (2017). «Utenforskap og trygdeordningenes rolle», *Arbeid og Velferd,* nr. 3-2017.
 
-Fremtidige kompetansebehov I
+Katz, Lawrence og Kevin M. Murphy (1992). «Changes in relative wages, 1963–1987: Supply and demand factors,» *Quarterly Journal of Economics* vol.107, s. 35–78.
 
-45 %
-40 %
-4,7
+Kautz, Tim D, James J. Heckman, Ron Diris, Bas ter Weel, Lex Borghans (2014). *Fostering and Measuring Skills: Improving Cognitive and Non-cognitive Skills to Promote Lifetime Success*, OECD Education Working Papers no. 110, OECD Publishing, Paris.
 
-35 %
-2,5
+Keute, Anna-Lena og Kristin Mathilde Drahus (2017). *Livslang læring 2008–2017. Resultater fra Lærevilkårsmonitoren*, Rapport 2017/23, Statistisk sentralbyrå, Oslo-Kongsvinger.
 
-30 %
-4,3
+KS (2012). *Kommunesektorens arbeidsgivermonitor 2012*.
 
-25 %
-20 %
+*KS* (2013). *Kommunesektorens arbeidsgivermonitor 2013*.
 
-2,7
-1,3
+*KS* (2014*). Kommunesektorens arbeidsgivermonitor 2014.*
 
-12,9
+KS (2015). *Kommunesektorens arbeidsgivermonitor 2015.*
 
-3,2
+KS (2016a). *Kommunesektorens arbeidsgivermonitor 2016*.
 
-3,4
+KS (2016b). *Rekrutteringsbehov i KS-regionene fram mot 2026*.
 
-8,8
+KS (2017a). «Fakta om sykepleiere i kommunene». http://www.ks.no/fagomrader/Arbeidsgiver/analyse-og-statistikk/fakta-om-sykepleiere-i-kommunene/
 
-5,8
+KS (2017b). *Kommunesektorens arbeidsgivermonitor 2017.*
 
-4,2
+Kommunal- og moderniseringsdepartementet, KMD (2016). *Regionale utviklingstrekk 2016.*
 
-9,6
+Kunnskapsdepartementet (2017). *Nasjonal kompetansepolitisk strategi 2017-2021,* Oslo.
 
-7,0
+Kunnskapsdepartementet (2017). «Studiekapasitet, arbeidsmarked og demografi», udatert notat oversendt Kompetansebehovsutvalget.
 
-8,8
+Lai, Linda (2013). *Strategisk kompetanseledelse.* 3. utgave. Fagbokforlaget.
 
-5,2
-4,7
+Lehne, Lise Campbell (2014). *Fremtidig behov for ingeniører – 2014*. Ipsos. Undersøkelse utarbeidet for NITO.
 
-15 %
-10 %
+Lehne, Lise Campbell (2015). *Fremtidig behov for ingeniører – 2015*. Ipsos. Undersøkelse utarbeidet for NITO.
 
-6,3
+Lehne, Lise Campbell (2016). *Fremtidig behov for ingeniører – 2016*. Ipsos. Undersøkelse utarbeidet for NITO.
 
-5,2
-8,7
+Lehne, Lise Campbell (2017). *Fremtidig behov for ingeniører – 2017.* Ipsos. Undersøkelse utarbeidet for NITO.
 
-11,9
+Lucas, Robert (1988). «On the mechanics of economic development,» *Journal of Monetary Economics* vol.22 (1), s. 3–42.
 
-7,4
+Markussen, Eifred (2017*). Det første året: Gjennomføring av videregående opplæring i Østfold 2016–2021. Delrapport 1.* NIFU Arbeidsnotat 2017:11.
 
-6,3
+Meld. St. 16 (2015–2016). *Fra utenforskap til ny sjanse. Samordnet innsats for voksnes læring*.
 
-18,5
+Meld. St. 27 (2015–2016). *Digital agenda for Norge – IKT for en enklere hverdag og økt produktivitet.*
 
-8,2
-14,2
+Meld. St. 9 (2016–2017). *Fagfolk for fremtiden. Fagskoleutdanningen.*
 
-15,7
+Meld. St. 25 (2016–2017). *Humaniora i Norge*.
 
-7,0
+Meld. St. 29 (2016–2017). *Perspektivmeldingen 2017.*
 
-12,7
+McGuinnes, Seamus, Konstantinos Pouliakis og Paul Redmond (2017). *How Useful is the Concept of Skills Mismatch?* IZA Discussion Paper No. 10786, IZA Institute of Labour Economics, Bonn, Tyskland.
 
-9,4
+Mischel, Walter, O. Ayduk, M.G. Berman, B.J. Casey, I.H. Gotlib, J. Jonides, E. Kross, T. Teslovich, N.L. Wilson, V. Zayas, Y. Shoda (2011). »‘Willpower’ over the life span: decomposing self-regulation,» *Social Cognitive and Affective Neuroscience* vol.6 (2), s. 252–256.
 
-13,0
+Montt, Guillermo (2015). *The causes and consequences of field-of-study mismatch. An analysis using PIAAC*, OECD Social, Employment and Migration Working Papers No. 167, OECD Publishing, Paris.
 
-10,7
+NAV Finnmark (2017). *NAV Finnmarks Bedriftsundersøkelse 2017*.
 
-8,7
+NAV Hedmark (2017). *NAVs bedriftsundersøkelse 2017 – Hedmark*.
 
-6,6
+NAV Nordland (2017). *Bedriftsundersøkelsen 2017 – Resultater Nordland*.
 
-7,1
+NAV Oppland (2017). *NAVs bedriftsundersøkelse 2017 – Oppland*.
 
-8,3
+NAV Troms (2017). *Bedriftsundersøkelse Troms 2017*.
 
-9,7
+NAV (2017). *Hovedtall om arbeidsmarkedet, desember 2017.*
 
-5,5
+Nedelkoska, Ljubica and Glenda Quintini (2018). «Automation, Skills use and Training», OECD Social Migration and Employment Working Paper series, Paris, Forestående.
 
-2007
+Newton, Paul E. og Jo-Anne Baird (2016). «Editorial. The great validity debate», *Assessment in Education: Principles, Policy and Practise*, vol. 23 (2), s. 173–177.
 
-2009
+NVL -Nordiskt nätverk för vuxnas lärande (2017). *Kompetens ur ett arbetslivsperspektiv.*
 
-2011
+NOU 2011: 3 *Kompetansearbeidsplasser – drivkraft for vekst i hele landet*.
 
-2013
+NOU 2014: 7 *Elevenes læring i fremtidens skole. Et kunnskapsgrunnlag.*
 
-2015
+NOU 2015: 8 *Fremtiden skole. Fornyelse av fag og kompetanser*.
 
-6,3
+NOU 2016: 3 *Ved et vendepunkt: Fra ressursøkonomi til kunnskapsøkonomi. Produktivitetskommisjonens andre rapport.*
 
-5%
-5,4
+Nygaard, Marit Owren, Dag Ellingsen og Arild H. Steen (2016). Y*S’ Arbeidslivsbarometer, Norsk arbeidsliv 2016, Vilje til omstilling,* Arbeidsforskningsinstituttet, HiOA.
 
-7,3
+Næss, Terje, Kari Vea Salvanes og Jannecke Wiers-Jenssen (2016). «Samfunnsviteres og humanisters overgang til arbeidsmarkedet». *Søkelys på arbeidslivet vol.33(*4), s. 327–348.
 
-0%
-1995
+OECD (2013). *OECD Skills Outlook 2013: First Results from the Survey of Adult Skills,* OECD Publishing, Paris.
 
-1997
-Arbeidsledig
+OECD (2014). *Education at a Glance,* OECD Publishing, Paris.
 
-4,4
+OECD (2015a). *Skills for Social Progress. The Power of Social and Emotional Skills*, OECD Skills Studies, OECD Publishing, Paris.
 
-1999
+OECD (2015b). *Education at a Glance 2015*, OECD Publishing, Paris.
 
-6,9
+OECD (2016). *Getting Skills Right: Assessing and Anticipating Changing Skill Needs*. OECD Publishing, Paris.
 
-6,6
+OECD (2017a). *Getting Skills Right. Skills for Jobs Indicators*. OECD Publishing, Paris.
 
-2001
+OECD (2017b). *Education at a Glance 2017*, OECD Publishing, Paris.
 
-2003
+OECD (2017c). Education GPS. (OECD database of skills indicators): http://gpseducation.oecd.org/.
 
-Undersysselsatt
+OECD (2017d). *The Next Production Revolution: Implications for Governments and Business.* OECD Publishing, Paris.
 
-9,0
+OECD (2017e). *Health at a Glance 2017*, OECD Publishing, Paris.
 
-2005
+OECD (2017f). *The Nature of Problem Solving. Using research to inspire 21st century learning,* OECD Publishing, Paris.
 
-Ufrivillig irrelevant arbeid
+OECD (2018). *OECD Economic Surveys: Norway 2018*. OECD Publishing, Paris.
 
-Irrelevant arbeid av andre årsaker
+Ordemann, Adrian Haugen (2017). *Grunner til innvandring: Mange innvandret til arbeid og familie.* Innvandrere i Norge 2017, SSB.
 
-Figur 6.6 Humanistiske og estetiske fag. Utvikling i ulike typer mistilpasning et halvt år etter fullført
-utdanning. 1995–2015
-Kilde: Næss mfl. (2016) basert på en rekke av NIFUs kandidatundersøkelser.
+Pajarinen, Mika og Petri Rouvinen (2015). «Computerization Threatens One Third of Finnish Employment», *ETLA Briefs 22*, 13. januar 2014.
 
-(jurister, siviløkonomer, psykologer) hadde lavere
-eller samme ledighet som ved tidligere undersøkelser, ned mot 1 prosent av arbeidsstyrken.
-Ingen av psykologene som deltok i undersøkelsen
-var arbeidsledige.
-Det er til dels store variasjoner innen utdanningsgruppene. Av humanistene var det kandidatene innen kunstfagene musikk, dans, drama og
-billedkunst og kunst og håndverk som hadde størst
-mistilpasning to–tre år etter uteksaminering, med
-over 20 prosent. Kandidatene innen språkfag og
-religionsfag hadde derimot bare rundt 10 prosent
-mistilpasning. Relativt små grupper og til dels lav
-svarprosent innebærer imidlertid betydelig usikkerhet i resultatene.
-Innen samfunnsfagene var det høy grad av
-mistilpasning for sosialantropologer med et samlet omfang på nesten 30 prosent (Støren mfl.
-2018). Nærmere 24 prosent var arbeidsledige. På
-andre siden av skalaen er sosiologer og statsvitere
-med mistilpasning på under 7 prosent. Blant de 52
-samfunnsøkonomene som svarte på undersøkelsen var det ingen arbeidsledige eller i irrelevant
-arbeid. Kun 1 person var undersysselsatt. Også
-innen det naturvitenskapelige fagområdet var det
-stor variasjon i mistilpasningen, med matematikk
-og statistikk og informasjons- og datateknologi
-med de laveste andelene mistilpassede, og høyest
-andel for elektrofag, mekaniske fag og maskinfag.
-For alle disse fagene var det få respondenter og
-derfor usikre resultater.
+Pajarinen, Mika, Petri Rouvinen and Anders Ekeland (2014). «Computerization Threatens One-Third of Finnish and Norwegian Employment», *ETLA Briefs*, 34, 22. April 2015.
 
-Støren mfl. (2018) analyserer studienes
-arbeidslivsrelevans i relativt stor detalj. Halvparten av kandidatene som fullførte utdanningen
-våren 2014 var svært fornøyde med studiets relevans for arbeidslivet to–tre år senere. Dette gjaldt
-imidlertid kun for rundt en tredjedel av samfunnsviterne og humanistene. Og under 20 prosent av disse svarte at de var misfornøyde med
-studiets relevans. Et flertall av kandidatene hevdet at de fikk utnyttet kunnskaper og ferdigheter
-fra studiet i jobben de hadde to–tre år etter uteksaminering. Blant alle de spurte som hadde en
-jobb, svarte åtte av ti at de i stor eller i svært stor
-grad var fornøyde med sitt nåværende arbeid.
-NIFU-forskerne konkluderer med at relevansen
-av studiene er god, uavhengig av hvilken innfallsvinkel de benytter, men at det er merkbare fagforskjeller, der humanistene og samfunnsviterne er
-minst positive. Av forbedringspunkter for høyere
-utdanning pekte de på funnet om at to tredjedeler
-av kandidatene mente studiet burde ha lagt mer
-vekt på praktisk kompetanse og at halvparten
-mente det i større grad burde ha vektlagt mer
-yrkes- og fagspesifikke ferdigheter (Støren mfl.
-2018).
-Et ofte debattert tema i media er verdien av
-enkelte typer høyere utdanning. Det er særlig
-humanistene som har vært pekt på som lite
-arbeidsmarkedsrelevante, men det gjelder også
-enkelte samfunnsfag. Humanistene er ofte ansatt i
-offentlig sektor, og jobber som lærere, forskere
-eller i statsforvaltningen, kun i underkant av
+Prosjekt fremtidige kompetansebehov (2015). *Utdanning og arbeidsmarkedet. En gjennomgang av Statistisk sentralbyrås beregninger frem mot 2030.* Kunnskapsdepartementet.
 
-[Side 91]
+Quintini, Glenda (2011). *Over-qualified or under-skilled: A review of existing literature*, OECD Social, Employment and Migration Working Papers No. 121, OECD, Paris.
 
-NOU 2018: 2
-Fremtidige kompetansebehov I
+Rege, Mari (2017). *Innlegg på Kompetanse Norges karriereveiledningskonferanse 31. oktober 2017.*
 
-91
+Regjeringen (2017). https://www.regjeringen.no/globalassets/upload/KD/Vedlegg/UH/Finansiering.pdf
 
-Kapittel 6
+Reisel, Liza. (2013*). Is more always better? Early career returns to education In the United States and Norway.* Research in social Stratification and mobility, 31, s. 49–68.
 
-Norge:
-Mistilpasset etter fagfelt = 29 %,
-underkvalifisert = 23 %,
-overkvalifisert = 12 %
+Roksvaag, Kristian, og Inger Texmon (2012a). *Arbeidsmarkedet for lærere- og førskolelærere fram mot år 2035. Dokumentasjon av beregninger med LÆRERMOD 2012*. SSB Rapport 18/2012.
 
-50 %
-45 %
-40 %
-35 %
-30 %
-25 %
-20 %
-15 %
-10 %
-5%
+Roksvaag, Kristian, og Inger Texmon (2012b). *Arbeidsmarkedet for helse- og sosialpersonell fram mot år 2035. Dokumentasjon av beregninger med HELSEMOD 2012*. SSB Rapport 14/2012.
 
-H
+Romer, Paul (1986). «Increasing returns and long run growth,» *Journal of Political Economy* vol.94 (5), s. 1002–1037.
 
-el
-la
-Irl s
-a
-Po nd
-rtu
-g
-St Sp al
-or a
-br nia
-i
-N tann
-ed
-er ia
-la
-nd
-Ita
-Ty li
-sk a
-la
-n
-Is d
-la
-Sv nd
-er
-i
-Ky ge
-pr
-Es os
-tla
-n
-Sv d
-ei
-N ts
-or
-Li ge
-ta
-Ø ue
-st n
-e
-Fr rrik
-an e
-kr
-ik
-Be e
-D lg
-G an i a
-je m
-nn a
-om rk
-sn
-i
-La tt
-tv
-Lu Un ia
-xe ga
-m rn
-b
-R our
-om g
-an
-Fi ia
-nl
-Sl and
-ov
-e
-Bu nia
-lg
-ar
-i
-Po a
-Sl len
-ov
-a
-Ts kia
-je
-kk
-ia
-
-0%
-
-Underkvalifisert
-
-Overkvalifisert
-
-Mistilpasset etter fagfelt
-
-Figur 6.7 Mistilpasning, fagfelt eller kvalifikasjoner, andel av sysselsatte i landet. Europa, 2015
-Merknad: Data fra Labour Force Survey (SSBs Arbeidskraftundersøkelse i Norge). For kvalifikasjonsvurderingen ser OECD på det
-vanligste utdanningsnivået som personer har i hvert yrke. Dersom en person i yrket har høyere utdanning enn det mest brukte, blir
-vedkommende ansett å være overkvalifisert, og underkvalifisert hvis vedkommendes utdanningsnivå er lavere enn det mest
-brukte. Dette gjøres for hvert yrke og hvert land. Vurderingen om mistilpasning etter fagfelt følger Montt (2015), som gjør en vurdering om fagfeltet for utdanningen er relevant for arbeidsoppgavene som inngår i yrket. Gjennomsnitt er et snitt av landene med
-verdier i figuren.
-Kilde: OECD (2017a). Dataviz
-
-30 prosent av humanistene som ble uteksaminert
-i perioden 2005–2015 jobbet i privat sektor (Meld.
-St. 25 (2016–2017)). Basert på en rekke kandidatundersøkelser hevder forskere fra NIFU (Næss
-mfl. 2016) at 25 prosent av humanistene er misfornøyde med utdanningens relevans for arbeidslivet, en andel som ligger dobbelt så høyt som i
-andre fagområder. I figur 6.6 vises mistilpasning
-for humanister et halvt år etter uteksaminering i
-11 forskjellige kandidatundersøkelser gjennomført i perioden 1995–2015. Samlet andel mistilpassede kandidater ligger rundt 20–40 prosent,
-avhengig av tidspunkt for uteksaminering.
-Samtidig peker Meld. St. 25 (2016–2017) på at
-humanistisk utdanning bidrar med mye verdifull
-kompetanse som er viktig for arbeids- og samfunnslivet. Utover den fagspesifikke kompetansen
-hevdes det i stortingsmeldingen at man opparbeider seg vitenskapelig metodekunnskap, evne til
-kritisk refleksjon, analytiske evner og fortolkningskompetanse gjennom humanistiske studier.
-Denne typen generiske ferdigheter er svært viktige i en rekke yrker.
-
-6.4
-
-Mistilpasning i en internasjonal
-kontekst
-
-Mange arbeidstakere er i en jobb som ikke er tilpasset deres kvalifikasjoner. Det kan innebære at
-arbeidstakeren ikke gjør en god jobb, og/eller at
-arbeidstakeren ikke får brukt sin yrkes- og fagkompetanse. En betydelig litteratur forsøker å
-måle omfanget av slik mistilpasning. OECD
-(2016a) utrykker mistilpasning på to forskjellige
-måter: Mistilpasning basert på kvalifikasjoner og
-mistilpasning etter fagfelt. Mistilpasning målt i
-kvalifikasjoner er definert som at arbeidstakere
-har et utdanningsnivå som er høyere eller lavere
-enn hva som kreves i jobben. En arbeidstaker
-med et høyere utdanningsnivå enn det som kreves i jobben, er definert som overkvalifisert. Motsatt, hvis en arbeidstaker har lavere utdanningsnivå enn det som kreves, regnes vedkommende som underkvalifisert. Mistilpasning etter
-fagfelt er definert som at en arbeidstaker arbeider
-innen et annet fagfelt enn det personen er utdannet innen (OECD 2016a).
-Figur 6.7 viser graden av mistilpasning basert
-på kvalifikasjoner og fagfelt for 29 europeiske
-land. Figuren viser at det er betydelige forskjeller
-i graden av mistilpasning mellom landene. I
-
-[Side 92]
-
-92
-
-NOU 2018: 2
-
-Kapittel 6
-
-Fremtidige kompetansebehov I
-
-100 %
-90 %
-80 %
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-
-l
-Ts en
-je
-k
-Fl
-ki
-an
-a
-de Fin
-rn lan
-(B d
-el
-gi
-a)
-Ko
-r
-Ky ea
-pr
-N
-ed os
-e
-R rlan
-us
-d
-sl
-a
-D nd
-an
-m
-ar
-k
-G
-je US
-nn
-A
-om
-sn
-Es itt
-tla
-Ty nd
-sk
-la
-Au nd
-st
-ra
-lia
-Ja
-Ø pan
-st
-er
-rik
-Sv e
-er
-ig
-e
-N
-or
-ge
-Ita
-lia
-En
-Irl
-an
-gl
-an
-d
-d/ C a n
-N
-or a d
-d- a
-Irl
-Fr and
-an
-kr
-ik
-Sp e
-an
-ia
-
-ak
-ov
-Sl
-
-Po
-
-ia
-
-0%
-
-Mistilpasset etter fagfelt og underkvalifisert
-Mistilpasset etter fagfelt og overkvalifisert
-Mistilpasset etter fagfelt, men tilpasset etter kvalifikasjon
-
-Figur 6.8 Forholdet mellom ulike former for mistilpasning: fagfelt og kvalifikasjoner
-Merknad: Basen er de som er klassifisert som mistilpasset etter fagfelt. Med utgangspunkt i jobbtittel og ansvar for yrket er det gitt
-en yrkeskode til hver respondent. Respondentenes utdanningsnivå kategoriseres i 9 ulike fagområder, som vurderes opp mot respondentens yrke.
-Kilde: Montt (2015, tabell 2 del I/II i appendiks 3), med data fra OECD og PIAAC (2012).
-
-Tsjekkia er det en lav andel som er mistilpasset
-etter kvalifikasjoner, mens den er høy i Hellas.
-Punktene viser mistilpasning etter fagfelt. Tallene
-for Norge viser at 23 prosent av arbeidsstyrken er
-underkvalifisert, mens 12 prosent er overkvalifisert. 29 prosent av arbeidsstyrken er mistilpasset
-etter fagfelt. Denne måten å klassifisere mistilpasning på er streng og gir en ganske høy grad av
-mistilpasning for Norge, så vel som for andre sammenlignbare land som Sverige og Danmark.
-Det kan argumenteres for at disse avgrensningene er tilfeldige og kanskje for strenge med bakgrunn i at mange jobber i yrker med oppgaver
-som ligger utenfor det som primært er tenkt for
-utdanningen. Mange arbeidstakere kan gjøre en
-god jobb selv om de arbeider i en næring som i all
-hovedsak sysselsetter arbeidstakere med annen
-utdanning. I mange tilfeller kan det også være
-gunstig om arbeidstakere med ulik utdanning og
-bakgrunn jobber sammen. Samtidig er det også
-klart at mange arbeidstakere er reelt mistilpasset,
-noe som blant annet vises ved at de har betydelig
-lavere lønn enn arbeidstakere med samme utdan-
-
-ning som jobber i de tradisjonelle næringene (se
-diskusjon i delkapittel 6.5).
-Figur 6.8 viser omfanget av vertikal mistilpasning for arbeidstakere som er mistilpasset etter
-fagfelt, vurdert fra en gjennomgang av utdanninger og yrker som passer sammen (Montt 2015).
-For Norges del er det 14 prosent av arbeidstakerne som er mistilpasset etter fagfelt, som også
-er underkvalifisert, denne gruppen er dermed
-mistilpasset, både ved type utdanning og ved
-utdanningsnivå, som vurderes å være for lavt for
-arbeidsoppgavene i jobben. 33 prosent av arbeidstakerne som er mistilpasset etter fagfelt, er derimot overkvalifisert, det vil si at de har en utdanning på et høyere nivå enn den jobben de har.
-Drøyt halvparten av de mistilpassede etter fagfelt
-er samtidig veltilpasset etter nivå. For OECD som
-helhet, gjelder dette om lag 60 prosent av de som
-er mistilpasset etter fagfelt. I noen land, som
-Frankrike og Spania, er det likevel en stor andel
-av de mistilpassede etter fagfelt som også er overkvalifiserte.
+Rosdahl, Anders (2014). *Fra 15 år til 27 år. PISA 2000-eleverne i 2011/2012*. SFI – Det Nationale Forskningscenter for velfærd, København.
+
+Røed, Marianne and Pål Schøne (2016). «Impact of Immigration on Inhabitants’ Education Investments», *Scandinavian Journal of Economics*, 118(3), s. 433–462.
+
+Rørstad, Kristoffer, Pål Børing, Espen Solberg og Tone Cecilie Carlsten (2017). *NHOs Kompetansebarometer 2017. Hovedresultater fra en undersøkelse om kompetansebehov blant NHOs medlemsbedrifter i 2017,* NIFU Arbeidsnotat 2017:7.
+
+Samandaji, Nima og Stefan Fölster (2016). *Framtidens jobb*. Volante forlag.
+
+Sala-i-Martin, Xavier, Gernot Doppelhofer, Ronald I. Miller (2004). «Determinants of long-term growth: A Bayesian averaging of classical estimates», *American Economic Review* vol.94 (4), pp. 813–835.
+
+Sjaastad, Jørgen, Tone Cecilie Carlsten, Sabine Wollscheid, Rune Borgan Reiling og Roger Andre Federici (2016). *Kartlegging av lærere uten formelle kvalifikasjoner.* NIFU-rapport 2016:15.
+
+Solow, Robert M. (1956). «A contribution to the Theory of Economic Growth». The Quarterly Journal of Economics, vol. 70, nr. 2 (feb. 1956), s. 65–94.
+
+St.meld. nr. 53 (1989–90). *Lærerutdanning ved høgskoler og universitet*.
+
+Stambøl, Lasse Sigbjørn (2005). «Urban and Regional Labour Market Mobility in Norway». Social and Economic Studies. Statistisk Sentralbyrå.
+
+Stambøl, Lasse Sigbjørn (2006). «Arbeidsmarkedsmobilitet, sysselsetting og yrkesdeltakelse etter nasjonalitet», *Økonomiske analyser* 2/2006, Statistisk sentralbyrå, s. 18–26.
+
+SSB (1920). *Folketellingen i Norge 1 desember 1920. Trettende hefte. Oversikt over livsstillingsstatistikken og tellingens utførelse.* Norges offisielle statistikk. VII. 161.
+
+SSB (2017a). *Dette er Norge 2017. Tall som forteller.*
+
+*SSB (2017b).* https://www.ssb.no/utdanning/statistikker/vgogjen/aar/2016-06-02
+
+Steen, Arild H., Dag Ellingsen og Marit O. Nygaard (2017). *YS Arbeidslivsbarometer. Norsk arbeidsliv 2017, Bransjer i søkelyset*, Arbeidsforskningsinstituttet, HiOA.
+
+Steinkellner, Alice og Anne Marie Rustad Holseter (2013). *Befolkningens utdanningsnivå, etter spørreundersøkelsen om utdanning fullført i utlandet.* SSB-rapport 24/2013.
+
+Storesletten, Kjetil og Fabrizio Zilibotti (2000). «Education, educational policy and growth,» *Swedish Economic Policy Review* vol.7, s. 39–70.
+
+Stølen, Nils Martin, Remy Bråthen, Geir Hjemås, Berit Otnes, Inger Texmon og Åsne Vigran (2016). *Helse- og sosialpersonell 2000–2014 – Faktisk utvikling mot tidligere framskrivinger*. SSB-rapport 2016/19.
+
+Stølen, Nils Martin, Tonje Köber, Dag Rønningen og Inger Texmon (2002). *Arbeidsmarkedet for helse- og sosialpersonell fram mot år 2020. Modelldokumentasjon og beregninger med HELSEMOD*. SSB-rapport 2002/18.
+
+Støren, Liv Anne, Kari Vea Salvanes, Ingvild Reymert, Clara Åse Arnesen og Jannecke Wiers-Jenssen (2016). *Kandidatundersøkelsen 2015. I hvor stor grad er nyutdannede mastere berørt av nedgangskonjunkturen?* NIFU Rapport 2016: 17.
+
+Støren, Liv Anne, Kjersti Nesje, Kari Vea Salvanes, Clara Åse Arnesen og Ingvild Reymert (2018). *Kompetanseutnyttelse blant mastere to – tre år etter eksamen. Resultater fra Spesialkandidatundersøkelsen 2017*, NIFU Rapport 2018:2.
+
+Summers, Larry (2016). «The age of secular stagnation». Foreign Affairs mars/april 2016, https://www.foreignaffairs.com/articles/united-states/2016-02-15/age-secular-stagnation.
+
+Sørbø, Johannes og Karl Jacobsen (2012). *Bedriftsundersøkelsen 2012*. NAV, Arbeid og velferd 2/2012.
+
+Tønnessen, Marianne, Stefan Leknes og Astri Syse (2016). *Befolkningsframskrivinger 2016–2100: Hovedresultater*, *Økonomiske analyser* 3/2016, Statistisk sentralbyrå.
+
+Tellmann, Silje Maria, Per Olaf Aamodt, Mari Elken, Even Hellan Larsen og Sveinung Skule (2017). *Råd for samarbeid med arbeidslivet. En underveisevaluering*. NIFU Rapport 2017:9.
+
+TV2 (2016). «Kunstig intelligens skal hjelpe kreftleger», God Morgen Norge, 16. september 2016, http://www.tv2.no/v/1069088/
+
+Uddannelses- og Forskningsministeriet (2017). https://ufm.dk/aktuelt/pressemeddelelser/2017/bedre-uddannelser-og-mere-frihed-til-institutionerne-med-ny-reform
+
+*UN (2016) International Migration Report 2015: Highlights.* United Nations, Department of Economic and Social Affairs, Population Division.
+
+Universitetskanslersämbetet (2017). *Uppföljning av ersättningsbeloppen för högre utbildning.* Rapport 2017:6.
+
+Utdanningsdirektoratet (2011). *Kartlegging og vurdering av yrkesopplæringsnemndenes rolle i fylkeskommunens arbeid med dimensjonering av utdanningstilbudet*.
+
+Utdanningsdirektoratet (2017). https://skoleporten.udir.no/rapportvisning/fag-og-yrkesopplaering/sysselsetting/sysselsetting-av-fagutdannede/nasjonalt.
+
+Utdanningsdirektoratet (2018). https://www.udir.no/tall-og-forskning/finn-forskning/tema/sokere-til-lareplass-og-godkjente-kontrakter/.
+
+Vold, Borgny (2010). *To av fem fastleger i de minste kommunene er innvandrere*, SSB.
+
+Wiers-Jenssen, Jannecke, Liv Anne Støren og Clara Åse Arnesen (2014). *Kandidatundersøkelsen 2013. Mastergradsutdannedes arbeidsmarkedssituasjon og vurdering av utdanningen et halvt år etter fullført utdanning,* NIFU Rapport 17/2014.
+
+Wiers-Jenssen, Jannecke, Terje Næss, Karl Ingar Kittelsen Røberg og Silje Bringsrud Fekjær (2016). *Humanister i arbeidslivet,* Høgskolen i Oslo og Akershus (HiOA) Rapport 9/2016.
+
+Ørbog, Kari-Mette (2013). *NAVs bedriftsundersøkelse 2013*. NAV, Arbeid og velferd 2/2013.
+
+Øverland, Erik (2016). «Framtidstenkning – en introduksjon. Hva er foresight og hva kan det brukes til». Presentasjon for Vox (nå: Kompetanse Norge) 5. februar 2016.
+
+1.  **\[\[vedlegg resett\]\]**
+
+**Tabell- og metodevedlegg**
+
+**Tabellvedlegg til kapittel 4**
+
+Tabell 1.1 viser hvordan NAVs bedriftsundersøkelse gjennomføres.
+
+Informasjonen er sammenstilt av Sekretariatet ved hjelp av fylkesvise rapporter og direkte kontakt med analytikere fra fylkene.
+
+1.  Kjennetegn ved gjennomføringen av NAVs bedriftsundersøkelse – etter fylke
+
+|  |  |  |  |
+|----|----|----|----|
+| Fylke | Format | Besvart via | Antall svar |
+|  |  |  |  |
+| Finnmark | Rapport | Internett/postalt | 494 (71,4 prosent) |
+| Troms | Rapport | Internett<sup>1</sup> | 581 (63,4 prosent) |
+| Nordland | Presentasjon<sup>1</sup> | Internett<sup>1</sup> | 766<sup>1</sup> (69,5 prosent) |
+| Trøndelag | Rapport | Telefon/besøk | 1 159 (81 prosent) |
+| Møre og Romsdal | Rapport | Internett | 748 (64 prosent) |
+| Sogn og Fjordane | Excel-ark | Internett<sup>1</sup> | 511 (60,8 prosent<sup>1</sup>) |
+| Hordaland | Presentasjon | Internett/telefon<sup>1</sup> | 931 (rundt 70 pst.<sup>1</sup>) |
+| Rogaland | Presentasjon | Internett og (noen få) postalt<sup>1</sup> | Over 900 (67 pst.<sup>1</sup>) |
+| Vest-Agder | Notat | Internett | 559 (60 prosent) |
+| Aust-Agder | Notat | Internett | 578 (74 prosent) |
+| Vestfold | Notat | Internett/postalt/telefon<sup>1</sup> | 1 065<sup>2</sup> (77 prosent) |
+|  |  |  |  |
+| Østfold | Presentasjon | Internett (min. halvparten), besøk/telefonkontakt<sup>1</sup> | 830 (73 prosent) |
+|  |  |  |  |
+| Telemark | Notat | Internett | 644 (70 prosent) |
+| Buskerud | Rapport | Internett/telefon<sup>1</sup> | 910 (81 prosent) |
+| Oppland | Notat | I hovedsak telefonintervju | 779<sup>2</sup> (83 prosent) |
+| Hedmark | Notat | Telefonintervju | 863<sup>2</sup> (85 prosent) |
+| Akershus | Presentasjon | Telefonintervju | 1 055<sup>1</sup> (77 prosent) |
+| Oslo | Rapport | Internett<sup>1</sup> | Nær 1 200 (71 pst.) |
+|  |  |  |  |
+
+<sup>1</sup> Informasjon fra e-postkontakt med NAV fylke.
+
+<sup>2</sup> Noen oppgir kun utvalgsstørrelse og svarprosent, da er antall svar beregnet i tabellen.
+
+Tabell 1.2 lister opp alle enkeltyrkene med estimert mangel i antall personer på 400 personer eller mer. Tabell 1.3 lister opp alle enkeltyrkene med stramhetsindikator over 10 prosent.
+
+1.  Yrker med estimert mangel på minst 400 personer, våren 2017
+
+|  |  |  |  |
+|----|----|----|----|
+|  | Mangel på arbeidskraft, antall personer | 95 % konfidensintervall for estimert mangel | NAVs stramhetsindikator |
+|  |  |  |  |
+| Sykepleiere | 3 600 | \[3 087, 4 125\] | 5,1 % |
+| Helsefagarbeidere / andre helseyrker | 3 100 | <sup>1</sup> | 3,4 % |
+| Tømrere og snekkere | 2 300 | \[1 455, 2 995\] | 4,5 % |
+| Programvareutviklere | 1 650 | \[411, 3 034\] | 11,9 % |
+| Telefon- og nettselgere | 1 350 | \[202, 3 140\] | 16,1 % |
+| Andre programvare- og applikasjonsutviklere | 1 100 | \[181, 2 556\] | 4,8 % |
+| Kokker | 850 | \[626, 1 118\] | 4,3 %<sup>2</sup> |
+| Andre salgsmedarbeidere | 850 | \[500, 1 106\] | 4,3 % |
+| Grunnskolelærere | 750 | \[572, 962\] | 0,8 % |
+| Rørleggere og VVS-montører | 700 | \[333, 1 033\] | 4,3 % |
+| Lastebil- og trailersjåfører | 600 | \[359, 840\] | 2,2 % |
+| Legespesialister | 550 | \[338, 862\] | 4,0 % |
+| Elektrikere | 550 | \[338, 832\] | 1,7 % |
+| Vernepleiere | 450 | \[307, 854\] | 20,5 % |
+| Servitører | 450 | \[214, 684\] | 3,0 % |
+| Frisører | 450 | \[242, 788\] | 2,7 % |
+| Barnehage- og skolefritidsassistenter mv. | 450 | \[81, 1 095\] | 2,5 % |
+| Andre håndverkere | 450 | \[201, 727\] | 2,1 % |
+| Anleggsmaskinførere | 450 | \[218, 656\] | 0,5 % |
+| Spesialsykepleiere | 400 | \[189, 625\] | 1,6 % |
+|  |  |  |  |
+
+Merknad: Stramhetsindikatoren = mangel på arbeidskraft / (sysselsetting + mangel på arbeidskraft). NAV omtaler nevneren som «ønsket sysselsetting». Sysselsettingstall for yrkene er gjennomsnittstall for 2016 fra SSBs arbeidskraftundersøkelse (AKU).
+
+<sup>1</sup> «Andre helseyrker» er her slått sammen med helsefagarbeidere, siden den usedvanlig høye stramhetsindikatoren for «andre helseyrker» tyder på feilkategorisering. NAV oppgir konfidensintervallene for yrkene hver for seg, ikke for sammenslåingen.
+
+<sup>2</sup> En svært høy stramhetsindikatoren for kokker skyldes at feil tall er lagt inn for sysselsetting, derfor er verdien fjernet i tabellen.
+
+Resultater fra NAVs bedriftsundersøkelse (Kalstø og Sørbø 2017a).
+
+Mangelen på arbeidskraft i NAVs bedriftsundersøkelse er beregnet med en modell utviklet av Norsk Regnesentral. Som konfidensintervallene i NAVs bedriftsundersøkelse viser, er det usikkerhet knyttet til slike estimeringer, både for næringer og yrker.
+
+1.  Yrker med stramhetsindikator over 10 prosent
+
+|  |  |  |  |
+|----|----|----|----|
+|  | NAVs stramhetsindikator | Mangel på arbeidskraft, antall | 95 % konfidensintervall for mangel |
+|  |  |  |  |
+| Finans- og økonomisjefer | 68,1 % | 50 | \[21, 86\] |
+| Universitets- og høyskolelektorer/-lærere | 40,6 % | 150 | \[81, 255\] |
+| Andre administrative ledere | 32,5 % | 100 | \[44, 154\] |
+| Salgs- og markedssjefer | 31,8 % | 50 | \[7, 71\] |
+| Ledere av bygge- og anleggsvirksomhet | 31,5 % | 100 | \[58, 211\] |
+| Sivilingeniører (bygg og anlegg) | 30,6 % | 250 | \[98, 411\] |
+| Ledere av industriproduksjon mv. | 24,2 % | 50 | \[35, 108\] |
+| Ledere av utdanning og undervisning | 22,7 % | 100 | \[19, 150\] |
+| Vernepleiere | 20,5 % | 450 | \[307, 854\] |
+| Telefon- og nettselgere | 16,1 % | 1 350 | \[202, 3 140\] |
+| Lektorer mv. (vgo.) | 15,1 % | 200 | \[134, 279\] |
+| Ledere av logistikk og transport mv. | 14,7 % | 50 | \[6, 156\] |
+| Programvareutviklere | 11,9 % | 1 650 | \[411, 3 034\] |
+| Ledere av eldreomsorg | 11,3 % | 50 | \[15, 120\] |
+| Andre ledere av produksjon og tjenesteyting | 11,1 % | 50 | \[15, 84\] |
+| Sports-, rekreasjons- og kultursenterledere | 10,2 % | 50 | \[3, 112\] |
+|  |  |  |  |
+
+Merknad: Se merknad til tabell 1.2, som forklarer hvorfor «andre helseyrker» og «kokker» er tatt ut av tabell 1.3.
+
+Resultater fra NAVs bedriftsundersøkelse (Kalstø og Sørbø, 2017a).
+
+**Tabellvedlegg til kapittel 5**
+
+1.  KS’ yrkesfremskrivninger. Behov for årsverk i kommunesektoren, basert på forventet endring i befolkningen (brukergruppene)
+
+|  |  |  |  |
+|----|----|----|----|
+|  | 2017 | 2027 | Prosentvis endring |
+|  |  |  |  |
+| Sykepleiere | 22 649 | 29 066 | 28 % |
+| Fagarbeidere, helse/sosial/omsorg | 47 026 | 59 462 | 26 % |
+| Ergo- og fysioterapeuter | 2 728 | 3 449 | 26 % |
+| Ufaglært, helse/sosial/omsorg | 22 144 | 27 765 | 25 % |
+| Høyere universitetsutd., helse/sosial/omsorg | 4 490 | 5 498 | 22 % |
+| Høyskoleutd. m/videreutd., helse/sosial/omsorg | 5 461 | 6 606 | 21 % |
+| Vernepleiere, miljøterapeuter | 11 928 | 14 419 | 21 % |
+| Sosionom, barnevernped. o.l. | 5 667 | 6 779 | 20 % |
+| Annet personell, høyere utdanning | 209 | 248 | 18 % |
+| Annet personell, annet | 2 712 | 3 163 | 17 % |
+| Div. personell, helse/pleie/omsorg | 1 879 | 2 176 | 16 % |
+| Annet kontor/administrasjon | 1 886 | 2 168 | 15 % |
+| Ingeniører uten mastergrad | 3 935 | 4 482 | 14 % |
+| Fagarbeidere, teknisk | 7 412 | 8 434 | 14 % |
+| Høyere universitetsutd., teknisk | 2 638 | 2 977 | 13 % |
+| Annet personell, teknisk | 2 903 | 3 237 | 12 % |
+| Saksbehandler med minst høyskole | 22 333 | 24 840 | 11 % |
+| Faglærte, barnehage | 8 890 | 9 834 | 11 % |
+| Barnehagelærer | 13 341 | 14 727 | 10 % |
+| Kontor/adm./merkantilt personell | 14 783 | 16 199 | 10 % |
+| Arbeidsledere | 15 472 | 16 895 | 9 % |
+| Ufaglærte, barnehage | 11 450 | 12 315 | 8 % |
+| Faglærte, undervisning | 10 191 | 10 840 | 6 % |
+| Musikk- og kulturpersonell | 2 806 | 2 981 | 6 % |
+| Undervisningspersonell | 80 425 | 85 393 | 6 % |
+| Vaktmestere og renholdere | 9 704 | 10 188 | 5 % |
+| Annet personell, undervisning | 10 448 | 10 835 | 4 % |
+| Øverste ledersjikt | 23 605 | 23 515 | 0 % |
+| Totalt | 141 115 | 175 203 | 24 % |
+|  |  |  |  |
+
+Beregninger levert fra KS.
+
+**Metodevedlegg om fremskrivninger**
+
+Vedlegget går gjennom antagelsene i SSBs fremskrivninger av tilbud av og etterspørsel etter arbeidskraft, etter høyeste fullførte utdanning. Fremskrivningene er på nasjonalt nivå, og tar dermed ikke hensyn til regionale forskjeller.
+
+Tilbud av og etterspørsel etter arbeidskraft fremskrives hver for seg. Differansen mellom fremskrevet tilbud og etterspørsel gir uttrykk for eventuell fremtidig mangel på eller overskudd av ulike typer arbeidskraft.
+
+**Fremskrivninger med MODAG**
+
+Etterspørselen etter arbeidskraft beregnes med den empiriske makromodellen MODAG, med tall og kategoriseringer fra Nasjonalregnskapet. I kommende fremskrivninger blir etterspørselen beregnet med modellen KVARTS, ikke MODAG (Dapi og Hungnes 2017).
+
+De nyeste utdanningsfremskrivningene med MODAG er basert på endelig statistikk til og med 2013, og foreløpige, aggregerte tall (ikke på utdanningsnivå) for 2014 og 2015. Fremskrivningene av etterspørselen baserer seg på SSBs offisielle befolkningsfremskrivninger fra 2016, antatt økonomisk utvikling, historiske trender for sysselsettingens sammensetning etter utdanning i ulike næringer, antatt produktivitet i offentlig sektor og i økonomien for øvrig, en antagelse om uendret kvalitet på tjenestene, forventet relativ arbeidsledighet og relativ timelønn for utdanningsnivåene, og antagelser om substitusjonsmuligheter mellom arbeidskraft med ulike utdanningsnivå.
+
+Etterspørselen etter fagfelt innen et utdanningsnivå er ikke beregnet med MODAG, men er en separat beregning. Sysselsettingen i hver næring brytes ned til sysselsetting i ulike fagfelt ved hjelp av mikrodata fra 1986–2006 og 2009–2012 i arbeidsgiver- og arbeidstakerregisteret. Etterspørselen etter fagfelt beregnes ved å videreføre de historiske utviklingstrendene i hver næring. Sysselsettingsandelene beregnes for fagfeltene i hver næring og kobles til beregnet sysselsetting etter utdanningsnivå og beregnet sysselsetting etter næring.
+
+Figur 1.1 viser sysselsettingsutviklingen i ulike næringer, fra 1980 til 2035, der de siste drøyt 20 årene er fremskrivninger.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Relativ endring i sysselsetting etter næring
+
+Merknad: Sysselsettingen er indeksert etter sysselsettingen i 2013. For nivåtall, se SSBs kildetabell 09174.
+
+SSBs nyeste fremskrivningsrapport (Dapi mfl. 2016).
+
+Vi ser at sysselsetningen i petroleumsnæringen antas å falle betydelig i løpet av det kommende tiåret, på grunn av lavere forventet oljepris enn vi hadde noen år tilbake, og reduserte gjenværende oljeressurser. Lavere sysselsetting i petroleumsnæringen virker isolert sett negativt på etterspørselen for noen typer arbeidskraft med høyere utdanning, og etterspørselen etter arbeidskraft med fag- og yrkesopplæring. Sysselsettingen i varehandelen og industrien forventes å være på rundt samme nivå på slutten av fremskrivningsperioden som i 2013. I de andre næringene i figuren er det vekst fra 2013. Særlig bygge- og anleggsnæringen vokser, i stor grad fordi befolkningsvekst fører til betydelige investeringsbehov. Figur 1.1 viser tydelig vekst i samlet etterspørsel etter arbeidskraft innen offentlig sektor og tjenestenæringer, sammenlignet med 2013. Siden offentlig sektor og markedsrettede tjenester i hovedsak sysselsetter arbeidskraft med høyere universitets- eller høyskoleutdanning, bidrar resultatene i figur 1.1 til veksten i etterspørselen etter denne type arbeidskraft i fremskrivningene
+
+.
+
+Etterspørselen etter ulike utdanningsgrupper blir påvirket av lønnsutviklingen til de ulike gruppene (ikke illustrert her). SSB forventer at relativ lønn vil øke noe for personer med lang høyere utdanning det neste tiåret, i tråd med bedring i økonomien og fall i arbeidsledigheten det neste tiåret. Relativ lønn forventes også å stige for personer med fag- og yrkesopplæring. Derimot forventer SSB at relativ lønn faller for personer med studieforberedende videregående opplæring som høyeste fullførte utdanning, i tråd med antagelsen om økt arbeidsledighet for denne gruppen. Relativ lønn forventes også å falle noe for personer med grunnskole eller uoppgitt utdanning. Mens relativ lønn påvirker etterspørselen etter ulike typer arbeidskraft i SSBs nyeste fremskrivninger, vil dette ikke lenger være tilfelle når SSB skifter modell fra MODAG til KVARTS fra og med 2018.
+
+Figur 1.2 viser utviklingen i de ulike utdanningsnivåenes andel av samlet sysselsetting, på tvers av alle næringer, både historisk siden 1980 og fremskrevet etter 2013. SSB peker på at det har vært store endringer i sammensetningen av de sysselsatte etter utdanningsnivå de siste tiårene. Veksten i andelen sysselsatte med høyere utdanning henger sammen med den teknologiske utviklingen, såkalt s*kill-biased technological change*, også omtalt i delkapittel 2.3. Innvandringen påvirker også sammensetningen av de sysselsatte etter utdanningsnivå. Det kraftige fallet fra 1980-tallet i andelen med kun grunnskoleutdanning eller uoppgitt utdanning stanset opp tidlig på 2000-tallet, som følge av utvidelsen av EU østover. Andelen med studieforberedende videregående opplæring forventes å falle gjennom fremskrivningsperioden, mens andelen med fullført videregående fag- og yrkesopplæring har økt, begge deler i tråd med økte krav til formell utdanning i arbeidslivet.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Utdanningsgruppenes andel av samlet sysselsetting
+
+2.  . Statistikk 1981–2013, deretter fremskrivninger til 2035
+
+Merknad: Se presise definisjoner på utdanningsgruppene i SSBs rapport. Se også rapport fra Prosjekt fremtidige kompetansebehov (2015 boks 3) om klassifiseringer bakover i tid.
+
+SSBs nyeste fremskrivningsrapport (Dapi mfl. 2016).
+
+Fremskrivninger med MOSART
+
+Tilbudet av ulike typer arbeidskraft simuleres fremover i tid basert på registerdata, ved bruk av modellen MOSART.
+
+MOSART er en såkalt dynamisk mikrosimuleringsmodell. Begrepet «dynamisk» brukes fordi modellen fremskriver livsløpet til alle individer i befolkningen. SSBs befolkningsfremskrivninger (hovedalternativet) skaper dynamikk i modellen, siden fremtidige utdanningsvalg fremskrives gitt befolkningens sammensetning etter alder og kjønn i årene fremover. Begrepet «simulering» viser til at SSB simulerer fremtidige utdanningsvalg, mens «mikro» viser til at registerdata på individnivå legges til grunn i beregningene.

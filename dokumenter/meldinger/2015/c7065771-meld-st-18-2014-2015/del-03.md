@@ -1,1680 +1,378 @@
-# Meld. St. 18 (2014-2015), del 3 av 8 (side 29–44)
+# Meld. St. 18 (2014-2015), del 3 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2015/c7065771-meld-st-18-2014-2015.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-18-2014-2015/id2402377/
 - Original-PDF: https://www.regjeringen.no/contentassets/86d1e31e78b44de6a3a15e913b092bf4/no/pdfs/stm201420150018000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 28 figurer, 113 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 29]
+Norsk doktorgradsutdanning har vært evaluert jevnlig og kunnskapen om kvaliteten på dette utdanningsnivået er relativt god. Evalueringer i både 2002 og 2012 viste at norske doktorgradsutdanninger jevnt over holder et høyt internasjonalt nivå.[^70] Den siste evalueringen fremhevet at til tross for sterk og rask utbygging har kvaliteten i norsk doktorgradsutdanning vært stabil. Evalueringen påpeker imidlertid en begynnende bekymring for kvaliteten ved doktorgradsutdanningene ved nye universiteter og statlige høyskoler, men understreker at datamaterialet er for lite til at det er grunnlag for å trekke noen konklusjoner.
 
-2014–2015
+Flere av doktorgradsprogrammene har knapt gitt ferdige doktorander siden oppstart. For noen av programmene er dette naturlig siden det er kort tid siden etablering, ved andre burde det ha blitt uteksaminert langt flere. NTNU, Universitetet i Bergen (UiB), Universitetet i Oslo (UiO), UiT – Norges arktiske universitet og Norges miljø- og biovitenskapelige universitet (NMBU) sto for over 90 prosent av de avlagte doktorgradene i 2013. Universitetene i Agder, Nordland og Stavanger sto for i underkant av fem prosent av kandidatene, mens de resterende ble avlagt ved tolv andre institusjoner.
 
-29
+1.  **Svak internasjonal deltakelse**
 
-Meld. St. 18
-Konsentrasjon for kvalitet
+For at norsk høyere utdanning og forskning skal kunne utvikle seg, må universiteter og høyskoler være aktive deltagere i det globale kunnskapssamfunnet. Viktige kjennetegn for universiteter og høyskoler av god kvalitet er høy grad av internasjonalt samarbeid i form av felles forskningsprosjekter og sampubliseringer, felles utdanningsprogrammer og studentutveksling innenfor avtaler.
 
-100 %
-90 %
-80 %
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
+1.  **Lav studentutveksling og få fellesgrader**
 
-Fullført grad
+For studenter som velger å bli i Norge, er et internasjonalt miljø på egen campus, med utenlandske studenter og forelesere, viktig. For studenter som ønsker å reise ut, er gode utvekslingsavtaler med utenlandske utdanningsinstitusjoner av høy kvalitet viktige elementer i en god utdanning.
 
-Fortsatt student
+Utvekslingsstudentene er ujevnt fordelt. Mens de vitenskapelige høyskolene har høy utvekslingsandel[^71] med nærmere 14 prosent, ligger andelen ved høyskolene i gjennomsnitt på 3,2 prosent. Enkelte høyskoler har en utvekslingsandel på rundt én prosent, jf. figur 3.9.
 
-HSH
+**\[:figur:figX-X.jpg\]**
 
-HiVo
+1.  Institusjoner med lav andel utvekslingsstudenter (inn og ut) 2013
 
-HiØ
+NSD/DBH
 
-HiNe
+En internasjonal fellesgrad, det vil si en grad som gis i samarbeid mellom en norsk og en utenlandsk institusjon, gir utvikling både av fagmiljøet og administrasjonen ved institusjonen og et utdanningstilbud der studentene får mulighet til å oppleve ulike fagmiljøer og kulturer. Det kan være vanskelig for en liten høyskole å få i stand samarbeid med institusjoner i utlandet. En forutsetning er at fagmiljøet er attraktivt for en utenlandsk partner. En annen forutsetning er at administrasjonen må ha kapasitet til å kunne håndtere de formelle sidene ved et samarbeid, der alt fra godkjenning av studiepoeng og fagutvikling til de praktiske sidene ved studentutveksling inngår.
 
-UiN
+I 2013 tilbød norske institusjoner totalt 43 internasjonale fellesgrader. Mens alle universitetene har minst én fellesgrad, hadde bare én av de vitenskapelige høyskolene og fem statlige høyskoler etablert fellesgrader i 2013, jf. figur 3.10.
 
-HiT
+**\[:figur:figX-X.jpg\]**
 
-HiL
+1.  Internasjonale fellesgrader 2013, statlige institusjoner. Antall.
 
-HiHe
+NSD/DBH
 
-HiÅ
+1.  **Svak internasjonal orientering blant fagpersonalet**
 
-HiN
+Det faglige personalet ved universiteter og høyskoler blir stadig mer internasjonalt orientert.[^72] Internasjonalt forskningssamarbeid vokser, den internasjonale mobiliteten øker og stadig flere foretar faglige reiser til andre land. Dessuten er norsk høyere utdanning i økende grad tilgjengelig for utenlandske studenter gjennom studietilbud på engelsk. Forskningsbarometeret for 2014 viser at antallet utenlandske statsborgere i ledende stillinger økte kraftig i perioden 2007–12. Det er mange som har kommet til Norge de siste sju årene, spesielt for å jobbe innenfor matematisk-naturvitenskapelige og teknologiske fag (MNT-fagene). Mobiliteten fra Norge til utlandet er lavere enn i andre nordiske land.
 
-NMH
+Sammenliknet med ti andre europeiske land er Norge landet med lavest andel forskere som i løpet av karrieren har vært ansatt i et annet land. Gjennomsnittet blant de ti landene er 34 prosent, mens Norge ligger på 25 prosent.[^73] Det faglige personalet ved de statlige høyskolene er gjennomgående mindre internasjonalt orienterte enn personalet ved de eldste universitetene, som befinner seg i den andre enden av skalaen. Personalet ved nyere universiteter befinner seg i en mellomposisjon. Mens 71 prosent av det faglige personalet ved universitetene i Bergen, Oslo, Tromsø og Trondheim, oppgir at de i stor eller noen grad utfører sin forskning i internasjonale forskernettverk, er tilsvarende tall for ansatte ved de statlige høyskolene 41 prosent.
 
-HiOA
+*Internasjonal sampublisering*
 
-HiG
+Artikler med internasjonale medforfattere siteres over verdensgjennomsnittet, mens artikler med kun norske forfattere siteres under verdensgjennomsnittet. Dette viser at internasjonalt samarbeid har stor betydning for forskningens gjennomslagskraft.
 
-HiST
+I 2013 ble 45 prosent av artiklene fra norske universiteter og høyskoler publisert sammen med utenlandske forskere. Universitetet i Oslo (UiO), NTNU og Universitetet i Bergen (UiB) har siteringsresultater på omtrent samme nivå.[^74] Resultatene ligger over verdensgjennomsnittet, men er likevel ikke spesielt høye. Verdensgjennomsnittet er dessuten synkende på grunn av sterk vekst i antall artikler fra land som Kina. Dette er artikler som foreløpig siteres lite. Siteringsresultatene er lavere enn ved de fremste svenske og danske universitetene. Universitetet for miljø- og biovitenskap (UMB), som nå er slått sammen med Norges veterinærhøgskole til Norges miljø- og biovitenskapelige universitet (NMBU), var på topp blant de norske universitetene i perioden 2008–11, og UMBs artikler ble i gjennomsnitt sitert 17 prosent over verdensgjennomsnittet.
 
-UiA
+Figur 3.11 viser de ti institusjonene med lavest andel internasjonalt samforfatterskap i 2013. Internasjonal sampublisering forekommer langt hyppigere i medisinske, naturvitenskapelige og teknologiske fag enn i samfunnsvitenskap og humaniora. Forskjeller i fagprofil kan derfor forklare noe av variasjonen mellom institusjonene.
 
-AHO
+**\[:figur:figX-X.jpg\]**
 
-UiT
+1.  Institusjoner med lav andel internasjonalt samforfatterskap 2013
 
-HiM
-
-HiBV
-
-UiO
-
-HiNT
-
-NTNU
-
-NMBU
-
-UiS
-
-UiB
-
-NHH
-
-NIH
-
-0%
-
-Frafall
-
-Figur 3.3 Andel gjennomføring og frafall for opptakskullet høsten 2010 på toårige mastergradsutdanninger
-organisert som fulltidsstudium. Våren 2013
-Høgskolen i Sogn og Fjordane fremkommer ikke i tabellen. De mastergradsutdanningene institusjonen har akkreditering for alene,
-ble opprettet i 2012.
-Kilde: NSD/DBH
-
-lene i Nesna, Østfold, Volda og Stord/Haugesund
-gjennomfører i underkant av 30 prosent av studentene på normert tid, jf. figur 3.3.10 Det er også
-store variasjoner i gjennomføringen på ulike fagområder, slik at noe av variasjonene mellom institusjonene kan skyldes ulik fagprofil.
-Veksten i antallet kandidater fra bachelorgradsutdanningene har vært sterk den siste tiårsperioden både ved universitetene, 27,5 prosent,
-og ved høyskolene, 33 prosent. Samtidig er utviklingen i antallet bachelorgradskandidater ujevnt
-fordelt mellom institusjonene. Enkelte høyskoler
-har lav vekst eller betydelig prosentvis nedgang i
-antallet bachelorgradskandidater, samtidig som
-de har et lavt studenttall. Dette til tross for at studenttilstrømmingen generelt har økt.
-Det har også vært en sterk vekst i antallet mastergradskandidater i perioden 2004–13. Veksten
-har vært både ved universitetene og høyskolene,
-selv om det store flertallet av mastergradskandidater uteksamineres fra universitetene. I 2013 ble
-det uteksaminert drøyt 10 000 mastergradskandidater, hvorav ca. 86 prosent ved universitetene.
-Enkelte høyskoler har svært lave kandidattall
-på mastergradsnivå, selv når kandidattall fra alle
-mastergradsutdanningene ved institusjonen er
-medregnet, jf. figur 3.4.11
-
-3.2.5
-
-Det er betydelige forskjeller i praksis for karaktersetting mellom institusjoner og mellom fag, noe
-som tyder på store variasjoner i utdanningenes
-faglige nivå og kravene til studentene. Ved noen
-institusjoner er det langt vanskeligere å få gode
-karakterer enn ved andre.
-Forskere har undersøkt karaktersettingspraksis ved ulike institusjoner ved å analysere karakterer til studenter som bytter institusjon mellom
-bachelor- og mastergradsutdanning.12 Figur 3.5.
-viser resultatene fra analysen. En negativ effekt
-betyr at institusjonen der studenten tok bachelorgrad har en «snillere» karaktersettingspraksis enn
-gjennomsnittet, mens en positiv effekt betyr at
-institusjonen har en «strengere» karaktersettingspraksis enn gjennomsnittet. NTNU ser ut til å ha
-den «strengeste» karaktersettingspraksisen, etterfulgt av Universitetet i Oslo, Høgskolen i Hedmark, Norges handelshøyskole og Universitetet i
-Bergen. Høyskolene i Stord/Haugesund, NordTrøndelag og Sogn og Fjordane har de «snilleste»
-karaktersettingspraksisene.
-
-11
-10
-
-Kunnskapsdepartementet 2014
-
-Stor variasjon i karaktersetting
-
-12
-
-Kunnskapsdepartementet 2014
-Strøm et al. 2013
-
-[Side 30]
-
-30
-
-2014–2015
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-HiVo
-
-HiL
-
-HiB
-
-HiG
-
-HiN
-
-HiØ
-
-HiÅ
-
-HiH
-
-HSH
-
-HiSF
-
-HiNe
-
-SH
-
-Gj. snitt statlige høyskoler
-
-Figur 3.4 Institusjoner med få uteksaminerte kandidater fra mastergradsutdanninger i 2013. Antall
-Kilde: NSD/DBH
-
-0,8
-0,6
-0,4
-0,2
-0
--0,2
-
-NTNU
-
-UiO
-
-HiHe
-
-NHH
-
-UiB
-
-HiST
-
-HiOA
-
-UiT
-
-NMBU
-
-UiA
-
-HiÅ
-
-HiB
-
-UiS
-
-HVO
-
-HiM
-
-HBV
-
-HiL
-
-HiØ
-
-HiN
-
-HiT
-
-UiN
-
-HiSF
-
-HiNT
-
--0,6
-
-HSH
-
--0,4
-
-Figur 3.5 Karaktersettingspraksis ved universiteter og høyskoler
-Kilde: Strøm et al. 2013
-
-3.3
-
-Mange små og sårbare forskningsmiljøer
-
-Et hovedproblem i norsk forskning er at det er for
-mange små og sårbare fagmiljøer. I perioden
-2000–12 har internasjonale fagpaneler gjennomført 27 evalueringer av norske forskningsmiljøer i
-regi av Norges forskningsråd.13 Et gjennomgangstema i evalueringene er at mange fagmiljøer
-13
-
-Se Forskningsrådets fagevalueringer på forskningsradet.no
-
-er for små til å forfølge viktige forskningsspørsmål og for små til å kunne hevde seg i internasjonal konkurranse. Dette til tross for at det kun er
-de største norske fagmiljøene som ble evaluert.
-Mange fagmiljøer er såpass små at av personvernhensyn kunne de ikke delta i evalueringene.
-Følgende sitat fra fagevaluering av norsk kjemiforskning er representativt for den hovedutfordringen som halvparten av de internasjonale fagpanelene peker på når de skal vurdere norsk
-forskning:
-
-[Side 31]
-
-2014–2015
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-Norway has a relatively small academic
-community. This small size has drawbacks
-when it comes to international competitiveness, as it limits the number of new directions
-that can be pursued by a «critical mass» of Norwegian researchers. It also limits the force of
-intellect that can be brought to bear on any single important scientific problem.
-Forskningsrådets fagevalueringer viser at flere norske forskningsmiljøer peker seg ut positivt, noen er
-også internasjonalt ledende. Evalueringene viser
-samtidig at de riktig gode miljøene inngår i større
-enheter, illustrert ved dette sitatet fra fagevalueringen av biologi, medisin og helsefag i 2011:
-In general, most of the successful units were
-typically large, having researchers at different
-levels of their career. However, far too often,
-the research landscape was fragmented and
-many units lack critical mass.
-
-31
-
-Det er ikke bare størrelse på fagmiljøet som er en
-kritisk faktor for å sikre kvalitet. Flere av evalueringene peker på at fragmentering innad i miljøene er et problem. I noen evalueringer påpeker
-den internasjonale fagkomiteen at mye av
-forskningen er individuelt basert, og at det er lite
-faglig konsentrasjon i miljøet.
-For å bøte på problemene som påpekes av
-mange av fagpanelene, er det behov for å organisere forskningen i større grupper på prioriterte
-områder. Krav til kritisk størrelse, økt spesialisering
-og reelle prioriteringer, samt sterkere forskningsledelse er nødvendig for at norsk forskning skal
-kunne hevde seg bedre internasjonalt. For flere sitater fra fagevalueringen, se boks 3.1
-Svake fagmiljøer trekkes også frem i universitetene og høyskolenes innspill til stortingsmeldingen. De påpeker at konsentrasjon av ressurser er
-nødvendig for å bedre studie- og forskningskvaliteten. Flere viser til at det er behov for å sikre at
-fagmiljøene er over en kritisk minstestørrelse og
-
-Boks 3.1 Fagevalueringer av norsk forskning
-Følgende sitater er fra ulike fagevalueringer av
-norsk forskning i regi av Norges forskningsråd:
-Evaluering av grunnleggende forskning innenfor IKT 2012
-…ICT organizations should seek to better
-coordinate their educational offerings, flow of
-personnel, construction and support of facilities and advanced research infrastructure. For
-a small country like Norway, this has to be a
-balance between fostering healthy competition and achieving efficiencies of scale.
-Utviklingsforskning 2007
-Development research in Norway is spread
-out among quite a large number of institutions. This fragmented structure makes
-attracting and building competence more difficult
-Evalueringen av fysikkfagene 2000 og 2010:
-…there is a considerable fragmentation… An
-overall recommendation is to focus activities
-and to strengthen the environments for theory activities.
-
-… many research groups that work under
-conditions that are close to or, in several
-cases, clearly sub-critical, in terms of personnel and other resources, including a supporting academic environment. Measures
-should be taken to remedy this situation.
-Evaluering av farmasøytisk forskning 2006
-There is no strategy or coordination on the
-national level between the schools, which
-results in a low level of co-operation. Often,
-research areas are too fragmented to
-compete at international level. Many of the
-research groups are below critical mass…
-Evaluering av forskning innenfor ingeniør og teknologiske fag 2004
-…a closer collaboration between research
-groups within the same and in different institutions is recommended.
-
-Kilde: Fagevalueringene ligger på forskningsrådets hjemmeside: forskningsradet.no
-
-[Side 32]
-
-32
-
-2014–2015
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-1,2
-1
-0,8
-0,6
-0,4
-0,2
-0
-
-HiHe
-
-HiNT
-
-HiST
-
-Gj. snitt statlige høyskoler
-
-HiØ
-
-HiB
-
-HiÅ
-
-Gj. snitt universiteter
-
-HiH
-
-HiNe
-
-HiSF
-
-SH
-
-Gj. snitt statlige vitenskapelige høyskoler
-
-Figur 3.6 Institusjoner med lavt antall publiseringspoeng per faglig stilling 2013
-Kilde: NSD/DBH
-
-ser at mer robuste miljøer vil gi en mer forutsigbar ramme for ansatte og studenter. Dette indikerer at sektoren selv deler bekymringen om at norske fagmiljøer i mange tilfeller er for sårbare.
-3.3.1
-
-Lav publisering
-
-Det har vært en sterk vekst i den vitenskapelige
-publiseringen i universitets- og høyskolesektoren
-de siste årene. Den totale veksten i publisering i
-sektoren var på 66,3 prosent i perioden 2005–13,14
-noe som både henger sammen med økningen i
-antallet faglig ansatte og økt kompetanse blant
-disse. Økningen må også ses i sammenheng med
-publiseringsinsentivet i finansieringssystemet.
-Norge har passert Finland de siste ti årene målt i
-antall artikler per 1 000 innbyggere, men ligger
-fortsatt bak Danmark og Sverige.15 Det er imidlertid stor variasjon mellom institusjonene når det
-gjelder hvor mye den enkelte faglig ansatte publiserer. Enkelte statlige høyskoler skiller seg ut
-med et svært lavt antall publiseringspoeng per
-faglig ansatt, jf. figur 3.6.16 Noen av forskjellene
-kan forklares ved ulike forskningstradisjoner, ressurser og publiseringspraksis.
-
-14
-
-Kilde: NSD/DBH
-Forskningsbarometeret 2014
-16
-Kunnskapsdepartementet 2014
-15
-
-3.3.2
-
-Lave eksterne forskningsinntekter
-
-En del institusjoner har lave eksterne
-forskningsinntekter, for eksempel fra Forskningsrådet og EUs programmer, jf. figur 3.7. Midler fra
-disse kildene vinnes i konkurranse og etter fagfellebaserte kvalitetsvurderinger. Tildelinger fra
-slike konkurransearenaer er uttrykk både for
-ambisjonsnivå og kvalitet i fagmiljøet.
-European Research Council (ERC) er et program som tildeler store individuelle forskerstipend basert på rene kvalitetskriterier for å investere i de beste forskerne og de beste ideene. I
-EUs 7. rammeprogram fikk Norge innvilget
-færre søknader til ERC per million innbygger
-enn de andre nordiske landene, Nederland og
-Østerrike. Norge skårer også dårligere enn disse
-landene når det gjelder andelen ERC-tildeling av
-den totale EU-finansieringen gjennom 7. rammeprogram.17
-Samlet mottar NTNU, Universitetet i Bergen
-(UiB), Universitetet i Oslo (UiO) og UiT – Norges
-arktiske universitet nærmere 90 prosent av EUs
-forskningstildeling til norsk universitets- og høyskolesektor. For universitetene i Agder, Nordland
-og Stavanger er det store svingninger i tildelingene fra EU. Blant statlige høyskoler utmerker
-Høgskolen i Gjøvik seg med høye inntekter fra
-17
-
-Europakommisjonen: E-Corda, gjengitt i Forskningsbarometeret 2014
-
-[Side 33]
-
-2014–2015
-
-33
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-4
-Statlige høyskoler og statlige
-
-3,5
-
-vitenskapelige høyskoler uten EU
-finansiering i perioden 2010–2013:
-
-3
-2,5
-2
-
-HiB
-
-HiL
-
-HiH
-
-AHO
-
-HiNT
-
-HiHe
-
-NMH
-
-SH
-
-HiT
-
-HiN
-
-HSH
-
-HiNe
-
-HiSF
-
-1,5
-1
-0,5
-0
-NHH
-
-UiA
-
-UiS
-
-HiM
-
-HiOA
-
-HBV
-
-HiST
-
-HiÅ
-
-HiVo
-
-HiØ
-
-Figur 3.7 Institusjoner med lav EU-tildeling fra rammeprogrammet per faglig stilling i gjennomsnitt 2011–
-2013. I 1000 kroner
-Kilde: NSD/DBH
-
-EUs rammeprogram. Høyskolen har over de siste
-tre årene i gjennomsnitt mottatt nærmere 25 000
-kroner per faglig ansatt, noe som er på nivå med
-NTNU, UiB og UiO. Universitetene har stått for
-87 prosent av søknadene fra universitets- og høyskolesektoren til EUs rammeprogram siden programmet startet i 2007.
-Forskningsrådet er en viktig finansieringskilde
-for universitets- og høyskolesektoren, men utgjør
-en klart større finansieringskilde for NTNU, UiB,
-UiO, UiT og Norges miljø- og biovitenskapelige
-universitet (NMBU) enn for de øvrige institusjonene. Forskningsrådets tildelinger til høyskolene
-har de senere årene ligget mellom fire og sju prosent av Forskningsrådets samlede bevilgning til
-universitets- og høyskolesektoren.
-I innspillene til stortingsmeldingen er det flere
-høyskoler som trekker frem at lave eksterne
-forskningsmidler er et problem. Figur 3.8 viser de
-15 institusjonene med lavest tildeling fra
-Forskningsrådet i 2013 både i absolutte tall og tildeling per faglig stilling. Høgskolen i Nesna er
-ikke tatt med i figuren, men har ikke mottatt midler fra Forskningsrådet i 2013.
-Universitetet i Oslo (UiO) mottok mest fra
-Forskningsrådet, ca. 710 millioner kroner. Gjennomsnittet for hele universitets- og høyskolesektoren var omlag 76 millioner kroner per institusjon. 14 institusjoner fikk under ti millioner kroner fra Forskningsrådet i 2013.
-Grunnbevilgningen som tildeles fra Kunnskapsdepartementet utgjør en større andel av den
-totale finansieringen ved statlige høyskoler enn
-
-ved universitetene. En del av høyskolene søker i
-liten grad eksterne forskningsmidler. Dette kan
-blant annet forklares med at høyskolene i større
-grad enn universitetene og de vitenskapelige høyskolene har profesjonsutdanninger med kort
-forskningshistorie og liten tradisjon for å søke
-eksterne forskningsmidler, og at mange av fagmiljøene er spredt og relativt små.
-Skal Norge kunne håndtere de kommende
-samfunnsutfordringene, må også fagene med
-korte forskningstradisjoner hevde seg i konkurransen om eksterne midler. Strategisk høyskoleprosjekt (SHP), som Forskningsrådet opprettet i
-2002, bidrar til å kvalifisere høyskolene som
-forsknings- og strategiske aktører. Imidlertid vil
-en del fagmiljøer være for små og sårbare alene til
-å kunne hevde seg i konkurransen om eksterne
-forskningsmidler.
-3.3.3
-
-Mange doktorgradsutdanninger, noen
-med få kandidater
-
-Totalt 1 524 personer disputerte for doktorgraden
-i Norge i 2013. Det er rekord og dobbelt så mange
-som ti år tidligere.
-Siden høyskolene i 1998 fikk rett til å søke om
-å tildele doktorgrad, har antallet institusjoner som
-tilbyr doktorgradsutdanning, vokst fra ti til 25. Det
-tilbys nå over 200 forskjellige doktorgradsprogrammer i Norge. Rekrutteringen til doktorgradsutdanning er god i de fleste fag. I 2013 var 9 439
-personer i gang med doktorgradsarbeid ved universiteter og statlige høyskoler.
-
-[Side 34]
-
-34
-
-2014–2015
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-14000
-
-140
-
-12000
-
-120
-
-10000
-
-100
-
-8000
-
-80
-
-6000
-
-60
-
-4000
-
-40
-
-2000
-
-20
-
-0
-
-0
-HiHe
-
-HiÅ
-
-HiSF
-
-HSH
-
-HiG
-
-HiN
-
-HiT
-
-HiL
-
-HiM
-
-HiST
-
-HiVo
-
-HiNT
-
-SH
-
-HiH
-
-HiØ
-
-NFR-tildeling i 1000 kr
-
-Gj. snitt NFR-tildeling statlige høyskoler i 1000 kroner
-
-NFR-tildeling per faglig stilling i 1000 kr
-
-Gj. snitt NFR-tildeling statlige høyskoler per faglig stilling
-
-Figur 3.8 Institusjoner med lav tildeling fra Forskningsrådet i 2013. I 1 000 kroner
-NMH og KHiO og KHiB er holdt utenfor. Høgskolen i Nesna mottok ikke midler fra Forskningsrådet i 2013 og er dermed ikke
-inkl. i figuren.
-Kilde: NSD/DBH
-
-Norsk doktorgradsutdanning har vært evaluert jevnlig og kunnskapen om kvaliteten på dette
-utdanningsnivået er relativt god. Evalueringer i
-både 2002 og 2012 viste at norske doktorgradsutdanninger jevnt over holder et høyt internasjonalt
-nivå.18 Den siste evalueringen fremhevet at til
-tross for sterk og rask utbygging har kvaliteten i
-norsk doktorgradsutdanning vært stabil. Evalueringen påpeker imidlertid en begynnende bekymring for kvaliteten ved doktorgradsutdanningene
-ved nye universiteter og statlige høyskoler, men
-understreker at datamaterialet er for lite til at det
-er grunnlag for å trekke noen konklusjoner.
-Flere av doktorgradsprogrammene har knapt
-gitt ferdige doktorander siden oppstart. For noen
-av programmene er dette naturlig siden det er
-kort tid siden etablering, ved andre burde det ha
-blitt uteksaminert langt flere. NTNU, Universitetet i Bergen (UiB), Universitetet i Oslo (UiO), UiT
-– Norges arktiske universitet og Norges miljø- og
-biovitenskapelige universitet (NMBU) sto for
-over 90 prosent av de avlagte doktorgradene i
-2013. Universitetene i Agder, Nordland og Stavanger sto for i underkant av fem prosent av kandida18
-
-Thune et al. 2012, Norges forskningsråd 2002
-
-tene, mens de resterende ble avlagt ved tolv andre
-institusjoner.
-
-3.4
-
-Svak internasjonal deltakelse
-
-For at norsk høyere utdanning og forskning skal
-kunne utvikle seg, må universiteter og høyskoler
-være aktive deltagere i det globale kunnskapssamfunnet. Viktige kjennetegn for universiteter
-og høyskoler av god kvalitet er høy grad av internasjonalt samarbeid i form av felles forskningsprosjekter og sampubliseringer, felles utdanningsprogrammer og studentutveksling innenfor avtaler.
-3.4.1
-
-Lav studentutveksling og få fellesgrader
-
-For studenter som velger å bli i Norge, er et internasjonalt miljø på egen campus, med utenlandske
-studenter og forelesere, viktig. For studenter som
-ønsker å reise ut, er gode utvekslingsavtaler med
-utenlandske utdanningsinstitusjoner av høy kvalitet viktige elementer i en god utdanning.
-Utvekslingsstudentene er ujevnt fordelt. Mens
-de vitenskapelige høyskolene har høy utvekslingsandel19 med nærmere 14 prosent, ligger andelen
-ved høyskolene i gjennomsnitt på 3,2 prosent.
-
-[Side 35]
-
-2014–2015
-
-35
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-16 %
-14 %
-12 %
-10 %
-8%
-6%
-4%
-2%
-0%
-HiM
-
-HiG
-
-HiØ
-
-Gj. snitt statlige høyskoler
-
-HiÅ
-
-HSH
-
-HiL
-
-HiHe
-
-Gj. snitt universiteter
-
-HiST
-
-HiSF
-
-HiN
-
-HiNe
-
-HiNT
-
-Gj. snitt statlige vitenskapelige høyskoler
-
-Figur 3.9 Institusjoner med lav andel utvekslingsstudenter (inn og ut) 2013
-Kilde: NSD/DBH
-
-8
-Statlige høyskoler og statlige
-
-7
-
-vitenskapelige høyskoler som ikke
-har internasjonale fellesgrader i
-
-6
-
-2013:
-5
-4
-3
-2
-
-HiB
-
-HiH
-
-HiHe
-
-HiL
-
-HiN
-
-HiNe
-
-HiNT
-
-HiSF
-
-HiT
-
-HiVo
-
-HiÅ
-
-HSH
-
-SH
-
-HiM
-
-AHO
-
-NMH
-
-NHH
-
-1
-0
-NTNU
-
-UiB
-
-UiO
-
-UiN
-
-UiS
-
-NiH
-
-HBV
-
-HiOA
-
-NMBU
-
-UiA
-
-UiT
-
-HiG
-
-HiST
-
-HiØ
-
-Figur 3.10 Internasjonale fellesgrader 2013, statlige institusjoner. Antall.
-Kilde: NSD/DBH
-
-Enkelte høyskoler har en utvekslingsandel på
-rundt én prosent, jf. figur 3.9.
-En internasjonal fellesgrad, det vil si en grad
-som gis i samarbeid mellom en norsk og en utenlandsk institusjon, gir utvikling både av fagmiljøet
-og administrasjonen ved institusjonen og et utdan19
-
-Utvekslingsandel refererer til inn- og utreisende studenter
-som prosent av registrerte egenfinansierte studenter totalt.
-
-ningstilbud der studentene får mulighet til å oppleve ulike fagmiljøer og kulturer. Det kan være
-vanskelig for en liten høyskole å få i stand samarbeid med institusjoner i utlandet. En forutsetning
-er at fagmiljøet er attraktivt for en utenlandsk
-partner. En annen forutsetning er at administrasjonen må ha kapasitet til å kunne håndtere de formelle sidene ved et samarbeid, der alt fra godkjen-
-
-[Side 36]
-
-36
-
-2014–2015
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-0%
-HiSF
-
-HiT
-
-HiH
-
-Gj. snitt statlige høyskoler
-
-HiST
-
-HiL
-
-HiOA
-
-Gj. snitt universiteter
-
-HiVo
-
-HiØ
-
-HiNe
-
-SH
-
-Gj. snitt statlige vitenskapelige høyskoler
-
-Figur 3.11 Institusjoner med lav andel internasjonalt samforfatterskap 2013
 Beregningen er ikke basert på unike artikler, og det kan derfor forekomme dobbelttellinger.
-Kilde: NSD/DBH
-
-ning av studiepoeng og fagutvikling til de praktiske sidene ved studentutveksling inngår.
-I 2013 tilbød norske institusjoner totalt 43
-internasjonale fellesgrader. Mens alle universitetene har minst én fellesgrad, hadde bare én av de
-vitenskapelige høyskolene og fem statlige høyskoler etablert fellesgrader i 2013, jf. figur 3.10.
-3.4.2
-
-Svak internasjonal orientering blant
-fagpersonalet
-
-Det faglige personalet ved universiteter og høyskoler blir stadig mer internasjonalt orientert.20
-Internasjonalt forskningssamarbeid vokser, den
-internasjonale mobiliteten øker og stadig flere
-foretar faglige reiser til andre land. Dessuten er
-norsk høyere utdanning i økende grad tilgjengelig
-for utenlandske studenter gjennom studietilbud
-på engelsk. Forskningsbarometeret for 2014 viser
-at antallet utenlandske statsborgere i ledende stillinger økte kraftig i perioden 2007–12. Det er
-mange som har kommet til Norge de siste sju
-årene, spesielt for å jobbe innenfor matematisknaturvitenskapelige og teknologiske fag (MNTfagene). Mobiliteten fra Norge til utlandet er
-lavere enn i andre nordiske land.
-Sammenliknet med ti andre europeiske land
-er Norge landet med lavest andel forskere som i
-løpet av karrieren har vært ansatt i et annet land.
-Gjennomsnittet blant de ti landene er 34 prosent,
-mens Norge ligger på 25 prosent.21 Det faglige
-
-personalet ved de statlige høyskolene er gjennomgående mindre internasjonalt orienterte enn personalet ved de eldste universitetene, som befinner
-seg i den andre enden av skalaen. Personalet ved
-nyere universiteter befinner seg i en mellomposisjon. Mens 71 prosent av det faglige personalet
-ved universitetene i Bergen, Oslo, Tromsø og
-Trondheim, oppgir at de i stor eller noen grad
-utfører sin forskning i internasjonale forskernettverk, er tilsvarende tall for ansatte ved de statlige
-høyskolene 41 prosent.
-Internasjonal sampublisering
-Artikler med internasjonale medforfattere siteres
-over verdensgjennomsnittet, mens artikler med
-kun norske forfattere siteres under verdensgjennomsnittet. Dette viser at internasjonalt samarbeid har stor betydning for forskningens gjennomslagskraft.
-I 2013 ble 45 prosent av artiklene fra norske
-universiteter og høyskoler publisert sammen med
-utenlandske forskere. Universitetet i Oslo (UiO),
-NTNU og Universitetet i Bergen (UiB) har siteringsresultater på omtrent samme nivå.22 Resultatene ligger over verdensgjennomsnittet, men er
-likevel ikke spesielt høye. Verdensgjennomsnittet
-er dessuten synkende på grunn av sterk vekst i
-antall artikler fra land som Kina. Dette er artikler
-som foreløpig siteres lite. Siteringsresultatene er
-21
-
-20
-
-Kyvik et al. 2014
-
-22
-
-Forskningsbarometeret 2014
-Nordforsk 2014
-
-[Side 37]
-
-2014–2015
-
-lavere enn ved de fremste svenske og danske universitetene. Universitetet for miljø- og biovitenskap (UMB), som nå er slått sammen med Norges
-veterinærhøgskole til Norges miljø- og biovitenskapelige universitet (NMBU), var på topp blant
-de norske universitetene i perioden 2008–11, og
-UMBs artikler ble i gjennomsnitt sitert 17 prosent
-over verdensgjennomsnittet.
-Figur 3.11 viser de ti institusjonene med lavest
-andel internasjonalt samforfatterskap i 2013.
-Internasjonal sampublisering forekommer langt
-hyppigere i medisinske, naturvitenskapelige og
-teknologiske fag enn i samfunnsvitenskap og
-humaniora. Forskjeller i fagprofil kan derfor forklare noe av variasjonen mellom institusjonene.
-
-3.5
-
-37
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-Utfordringer for profesjonsfagene
-
-De utfordringene universitets- og høyskolesektoren generelt står overfor, blir særlig tydelige i
-profesjonsfagene, særlig lærerutdanningene,
-sykepleierutdanningene og ingeniørfag og i noen
-grad økonomisk- administrative utdanninger.
-Kandidatene fra disse utdanningene er sentrale
-for å opprettholde velferdstjenestene og utvikle et
-kunnskapsintensivt næringsliv. Dette gjør det viktig med tilgang til utdanning av høy kvalitet i hele
-landet.
-Profesjonsutdanningene er i dag spredd på et
-stort antall institusjoner og studiesteder. Kompetansen til kandidatene skal være høy, uavhengig
-av hvor kandidaten har studert. Det vil være van-
 
-skelig for små læresteder å leve opp til de stadig
-høyere kravene til utdanningskvalitet, forskningsbasert utdanning og kompetanse som god profesjonsutøvelse forutsetter.
-Forskningen i profesjonsfagene har tradisjonelt hatt to hovedformål: Å styrke utdanningen og
-å styrke praksisfeltet. Dette er fortsatt viktige formål. Det at utdanningen skal være FoU-basert
-betyr ikke at hele fagmiljøet som tilbyr utdanningen skal være like sterkt forskningsmessig eller
-drive egen forskning. Fagmiljøet må imidlertid
-samlet sett være tungt nok til å utvikle utdanningene, praksisfeltet og fagfeltet videre. Dette krever sterke fagmiljøer og institusjoner med styrke
-til og ambisjoner om å løfte profesjonsfagene.
-Meld. St. 13 (2011–2012) Utdanning for velferd
-legger stor vekt på behovet for sterkere fagmiljøer
-i velferdsutdanningene. Sammenslåing av institusjoner er viktig for å gjennomføre dette.
-3.5.1
+NSD/DBH
 
-Lærerutdanning
+1.  **Utfordringer for profesjonsfagene**
 
-En godt utdannet befolkning er nødvendig for å
-håndtere fremtidens utfordringer. Det er lærerne
-som forbereder nye generasjoner på å møte fremtiden. En lærerutdanning av høy kvalitet er essensielt for å bevare og utvikle kunnskapssamfunnet.
-I dag tilbys lærerutdanning av 19 universiteter
-og statlige høyskoler på en lang rekke studiesteder. Det er store forskjeller i størrelsen på fagmiljøene. Antall uteksaminerte kandidater varierer
-fra Høgskolen i Nesna med under 30 kandidater i
-2014 til Høgskolen i Oslo og Akershus og Høgsko-
+De utfordringene universitets- og høyskolesektoren generelt står overfor, blir særlig tydelige i profesjonsfagene, særlig lærerutdanningene, sykepleierutdanningene og ingeniørfag og i noen grad økonomisk- administrative utdanninger. Kandidatene fra disse utdanningene er sentrale for å opprettholde velferdstjenestene og utvikle et kunnskapsintensivt næringsliv. Dette gjør det viktig med tilgang til utdanning av høy kvalitet i hele landet.
 
-60 %
+Profesjonsutdanningene er i dag spredd på et stort antall institusjoner og studiesteder. Kompetansen til kandidatene skal være høy, uavhengig av hvor kandidaten har studert. Det vil være vanskelig for små læresteder å leve opp til de stadig høyere kravene til utdanningskvalitet, forskningsbasert utdanning og kompetanse som god profesjonsutøvelse forutsetter.
 
-50 %
+Forskningen i profesjonsfagene har tradisjonelt hatt to hovedformål: Å styrke utdanningen og å styrke praksisfeltet. Dette er fortsatt viktige formål. Det at utdanningen skal være FoU-basert betyr ikke at hele fagmiljøet som tilbyr utdanningen skal være like sterkt forskningsmessig eller drive egen forskning. Fagmiljøet må imidlertid samlet sett være tungt nok til å utvikle utdanningene, praksisfeltet og fagfeltet videre. Dette krever sterke fagmiljøer og institusjoner med styrke til og ambisjoner om å løfte profesjonsfagene.
 
-40 %
+Meld. St. 13 (2011–2012) *Utdanning for velferd* legger stor vekt på behovet for sterkere fagmiljøer i velferdsutdanningene. Sammenslåing av institusjoner er viktig for å gjennomføre dette.
 
-30 %
+1.  **Lærerutdanning**
 
-20 %
+En godt utdannet befolkning er nødvendig for å håndtere fremtidens utfordringer. Det er lærerne som forbereder nye generasjoner på å møte fremtiden. En lærerutdanning av høy kvalitet er essensielt for å bevare og utvikle kunnskapssamfunnet.
 
-10 %
+I dag tilbys lærerutdanning av 19 universiteter og statlige høyskoler på en lang rekke studiesteder. Det er store forskjeller i størrelsen på fagmiljøene. Antall uteksaminerte kandidater varierer fra Høgskolen i Nesna med under 30 kandidater i 2014 til Høgskolen i Oslo og Akershus og Høgskolen i Sør-Trøndelag som hadde over 200 i fjor. Antall faglig årsverk varierer fra 62 ved Høgskolen i Nesna til 279 ved Høgskolen i Oslo og Akershus.[^75]
 
-0%
-HiL
+Regjeringen tar sikte på å gjøre om grunnskolelærerutdanningene til integrerte femårige mastergradsutdanninger fra og med høsten 2017. Dette stiller høyere krav til institusjonene som skal tilby utdanningene. Jf. kapittel 4.2 vil kravene for opprettelse av masteprogrammer generelt bli skjerpet, blant annet når det gjelder bredde og styrke i fagmiljøet. For den nye lærerutdanningen er det også et krav om at minimum 50 prosent av fagpersonalet må ha førstestillingskompetanse. Figur 3.12 viser at flere institusjoner per i dag ikke oppfyller kravene for å gi den nye utdanningen. NOKUT er bekymret for fagpersonalets kompetanse i grunnskolelærerutdanningene. Regjeringen har satt ned et utvalg for å utvikle et nytt forslag til rammeplan for den femårige grunnskolelærerutdanningen.
 
-HiB
+**\[:figur:figX-X.jpg\]**
 
-HiØ
+1.  Institusjoner med mindre enn 50 prosent førstestillinger i fagpersonalet. Lærerutdanning og pedagogikk 2014
 
-HiOA
+NSD/DBH
 
-HBV
+Innføringen av mastergrad kan innebære at ikke alle de institusjonene som tilbyr lærerutdanning i dag, vil kunne fortsette med det. For at utdanningen likevel skal kunne tilbys over hele landet er det nødvendig å slå sammen institusjoner.
 
-HiNe
+Lærerutdanningen har få kvalifiserte søkere per studieplass, og mange av institusjonene har færre enn én kvalifisert søker per studieplass. Ifølge NOKUTs studiebarometer er lærerstudenter blant dem som jobber minst med studiet sammenlignet med studenter på andre fag. Studiebarometeret viser videre at studenter ved lærerutdanningene jevnt over er mindre fornøyd med utdanningen enn gjennomsnittet.
 
-Gj. snitt av institusjoner som tilbyr lærerutdanning/pedagogikk
+I 2003–04 ble norsk pedagogisk forskning evaluert. Evalueringen viste at kvaliteten på norsk pedagogisk forskning og forutsetningene for å drive kvalifisert forskning var svært varierende.[^76] Siden den gang har to forskerskoler for utdanningsforskning blitt etablert (NATED –National Graduate School in Education og NAFOL – Nasjonal forskerskole for lærerutdanning). Det er opprettet flere forskergrupper, og Forskningsrådet har hatt flere programmer for utdanningsforskning. Likevel er flere av lærerutdanningsmiljøene fremdeles små og sårbare. De har for få ansatte til å kunne etablere slagkraftige forskergrupper, og de har begrenset mulighet til å bringe fagfeltet fremover.
 
-HiNT
+Det er generelt lav forskningsaktivitet og publisering i de pedagogiske fagene. Den beste høyskolen hadde 1,1 publiseringspoeng per faglige stilling i 2013, mens høyskolene i Telemark, Sogn og Fjordane, Stord-Haugesund og Nesna hadde svært lav publisering, med 0,2 publiseringspoeng per faglige stilling i 2013, se figur 3.13.
 
-HiT
+**\[:figur:figX-X.jpg\]**
 
-HSH
+1.  Institusjoner med lavt antall publiseringspoeng per faglig ansatt i lærerutdanning og pedagogikk 2013
 
-HiSF
+NSD/DBH
 
-Minstekrav
+NOKUT evaluerte allmennlærerutdanningen i 2006. Selv om lærerutdanningen er forandret siden den gang, er evalueringspanelets betraktinger når det gjelder tilbudsstrukturen fremdeles interessante: [^77]
 
-Figur 3.12 Institusjoner med mindre enn 50 prosent førstestillinger i fagpersonalet. Lærerutdanning og
-pedagogikk 2014
-Kilde: NSD/DBH
+Den relativt liberale etableringspolitikken de senere årene har ført til allmennlærerutdanning i nye institusjoner, og etablerte lærerutdanningsinstitusjoner ekspanderer inn i nye områder med satellittprogram. Dette kan være ønskelig i et distriktspolitisk perspektiv, men evalueringspanelet er kritisk til at lærerutdanningsmiljøene kan bli for små og faglig tynne.
 
-[Side 38]
+Med de klare tendensene man ser for hvor studentmassen søker seg, er evalueringspanelet skeptisk til å opprettholde en tilnærmet lik allmennlærerutdanning ved 20 institusjoner.
 
-38
+Følgegruppen for grunnskolelærerutdanningen, som følger innføringen av de nye grunnskolelærerutdanningene, fremhever at større faglig konsentrasjon på de enkelte institusjonene og mer faglig arbeidsdeling mellom institusjonene er nødvendig. Dette vil sikre robuste fagmiljøer og at studentmiljøene får tilstrekkelig bredde.[^78]
 
-2014–2015
+1.  **Sykepleierutdanning**
 
-Meld. St. 18
-Konsentrasjon for kvalitet
+Sammen med de andre helsepersonellgruppene er sykepleierne en av de yrkesgruppene det vil bli størst etterspørsel etter som følge av de demografiske endringene i befolkningen.[^79] Det vil imidlertid ikke være mulig å dekke fremtidens etterspørsel etter helsepersonell dersom organiseringen av tjenestene fortsetter på samme måte som i dag. Forskning, innovasjon og utvikling i helsefagene er avgjørende for å håndtere utfordringene som kommer.
 
-0,45
-0,4
-0,35
-0,3
-0,25
-0,2
-0,15
-0,1
-0,05
-0
-UiS
+Sykepleierutdanning tilbys av 19 statlige institusjoner, spredt på over 30 steder i landet. Størrelsen på miljøene varierer sterkt. Kun ti sykepleiere ble uteksaminert fra Høgskolen i Nesna i 2013, mens 488 kandidater ble uteksaminert ved Høgskolen i Oslo og Akershus. Antall faglige årsverk varierer fra 368 ved Høgskolen i Oslo og Akershus til under ti ved Høgskolen i Nesna.
 
-HiB
+Mange av de minste studiestedene har store rekrutteringsproblemer til sykepleierutdanningen. Høyskolene i Harstad, Nesna og Molde har for eksempel under én kvalifisert førstevalgssøker per utlyste studieplass. I tillegg har studentene som starter utdanningen på en del institusjoner dårlige karakterer fra videregående skole.
 
-HiOA
+Det er relativt store forskjeller mellom institusjoner med hensyn til søkning, opptaksgrunnlag, antall studenter per ansatt, strykprosent, karakterer og frafall.[^80] Bak disse forskjellene kan det skjule seg kvalitetsforskjeller og forskjeller i de kravene som stilles til studentene, med det resultat at studentene fra de ulike lærestedene kommer ut med ulikt grunnlag for yrkesutøvelsen.
 
-HiØ
+Den formelle kompetansen i fagmiljøet er den laveste blant helse- og sosial-, lærer og ingeniørfagene, med et gjennomsnitt på 37,4 prosent av personalet med førstestillingskompetanse. Det er imidlertid stor variasjonen mellom institusjonene. Andelen med førstestillingskompetanse varierer fra over 52 prosent ved Universitetet i Agder til under 18 prosent ved Høgskolen i Nesna. Selv om mange institusjoner har lav andel førstestillingskompetanse i fagpersonalet på helse- og sosialfag, er det bare én institusjon som ikke tilfredsstiller minstekravet på 20 prosent førstestillingskompetanse i fagpersonalet, jf. figur 3.14.
 
-HiNe
+**\[:figur:figX-X.jpg\]**
 
-HiSF
+1.  Institusjoner med lav andel førstestillinger i fagpersonalet. Helse- og sosialfag 2014
 
-HiT
+NSD/DBH
 
-HSH
+Det er også store forskjeller i hvor mye som publiseres ved de ulike institusjonene. jf. figur 3.15. Samlet sett har enhetene i helse- og sosialfag lavere publisering per faglige stilling enn ingeniør- og lærerfagene. Helse- og sosialfagenhetene ved høyskolene i Harstad, Nesna, Telemark og Ålesund har alle 0,1 publiseringspoeng per ansatt i 2013, og i tillegg har de et lavt samlet publiseringsvolum med under ti publiseringspoeng.
 
-Gjennomsnitt av institusjoner som tilbyr lærerutdanning/pedagogikk
+**\[:figur:figX-X.jpg\]**
 
-Figur 3.13 Institusjoner med lavt antall publiseringspoeng per faglig ansatt i lærerutdanning og pedagogikk
-2013
-Kilde: NSD/DBH
+1.  Institusjoner med lavt antall publiseringspoeng per faglig ansatt i helse- og sosialfag 2013
 
-len i Sør-Trøndelag som hadde over 200 i fjor.
-Antall faglig årsverk varierer fra 62 ved Høgskolen
-i Nesna til 279 ved Høgskolen i Oslo og Akershus.23
-Regjeringen tar sikte på å gjøre om grunnskolelærerutdanningene til integrerte femårige mastergradsutdanninger fra og med høsten 2017.
-Dette stiller høyere krav til institusjonene som
-skal tilby utdanningene. Jf. kapittel 4.2 vil kravene
-for opprettelse av masteprogrammer generelt bli
-skjerpet, blant annet når det gjelder bredde og
-styrke i fagmiljøet. For den nye lærerutdanningen
-er det også et krav om at minimum 50 prosent av
-fagpersonalet må ha førstestillingskompetanse.
-Figur 3.12 viser at flere institusjoner per i dag ikke
-oppfyller kravene for å gi den nye utdanningen.
-NOKUT er bekymret for fagpersonalets kompetanse i grunnskolelærerutdanningene. Regjeringen har satt ned et utvalg for å utvikle et nytt forslag til rammeplan for den femårige grunnskolelærerutdanningen.
-Innføringen av mastergrad kan innebære at
-ikke alle de institusjonene som tilbyr lærerutdanning i dag, vil kunne fortsette med det. For at
-utdanningen likevel skal kunne tilbys over hele landet er det nødvendig å slå sammen institusjoner.
-Lærerutdanningen har få kvalifiserte søkere
-per studieplass, og mange av institusjonene har
-færre enn én kvalifisert søker per studieplass.
-Ifølge NOKUTs studiebarometer er lærerstuden23
+NSD/DBH
 
-Tallene fra HiOA inkluderer også ansatte ved barnehagelærerutdanningen og yrkesfaglærerutdanningen.
+Forskningen innenfor biologi, medisin og helsefag ble evaluert i 2011 av et ekspertpanel i regi av Forskningsrådet. Kun de største fagmiljøene ble inkludert i evalueringen av hensyn til personvern. Fagpersonalet påpekte følgende i sin oppsummering: [^81]
 
-ter blant dem som jobber minst med studiet sammenlignet med studenter på andre fag. Studiebarometeret viser videre at studenter ved lærerutdanningene jevnt over er mindre fornøyd med
-utdanningen enn gjennomsnittet.
-I 2003–04 ble norsk pedagogisk forskning evaluert. Evalueringen viste at kvaliteten på norsk
-pedagogisk forskning og forutsetningene for å
-drive kvalifisert forskning var svært varierende.24
-Siden den gang har to forskerskoler for utdanningsforskning blitt etablert (NATED –National
-Graduate School in Education og NAFOL – Nasjonal forskerskole for lærerutdanning). Det er opprettet flere forskergrupper, og Forskningsrådet
-har hatt flere programmer for utdanningsforskning. Likevel er flere av lærerutdanningsmiljøene fremdeles små og sårbare. De har for få
-ansatte til å kunne etablere slagkraftige forskergrupper, og de har begrenset mulighet til å bringe
-fagfeltet fremover.
-Det er generelt lav forskningsaktivitet og
-publisering i de pedagogiske fagene. Den beste
-høyskolen hadde 1,1 publiseringspoeng per faglige stilling i 2013, mens høyskolene i Telemark,
-Sogn og Fjordane, Stord-Haugesund og Nesna
-hadde svært lav publisering, med 0,2 publiseringspoeng per faglige stilling i 2013, se figur 3.13.
-NOKUT evaluerte allmennlærerutdanningen i
-2006. Selv om lærerutdanningen er forandret
-siden den gang, er evalueringspanelets betraktin24
+I en aldrende befolkning er det et sterkt behov for kunnskapsbasert informasjon for pleie i helse- og omsorgssektoren. Den nåværende norske forskningen på dette området kan, med noen få unntak, ikke forventes å gi slik informasjon. Dette er et ungt og umodent forskningsfelt. En styrking av forskningsinfrastruktur og konsentrering av forskningen til de sterkeste miljøene er en vei å gå for å sikre leveranse av kunnskap av høy kvalitet i framtiden.
 
-Norsk pedagogisk forskning, Norges forskningsråd 2004
+Det internasjonalt sammensatte evalueringspanelet påpeker at forskningen lider under en stor grad av fragmentering, til tross for at kun de største fagmiljøene ble evaluert:
 
-[Side 39]
+The research \[…\] was fragmented, without a sufficiently clear focus and sometimes without appropriate methodological consideration, which resulted in superficial results.
 
-2014–2015
+Videre uttrykker panelet bekymring for forskningens påvirkning på undervisningskvaliteten. Konklusjonene fra evalueringen er i tråd med tidligere undersøkelser av forskning ved de statlige høyskolene. En rapport fra 2006 viser at forskningsprosjektene innenfor helse- og sosialfagene også da var små og fragmenterte.[^82]
 
-39
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-40 %
-35 %
-30 %
-25 %
-20 %
-15 %
-10 %
-5%
-0%
-HiST
-
-HiM
-
-HiHe
-
-HiH
-
-UiT
-
-HiT
-
-HiNT
-
-Gjennomsnitt av institusjoner som tilbyr helse- og sosialfag
-
-HiSF
-
-HSH
-
-HiÅ
-
-HiNe
-
-Minstekrav
-
-Figur 3.14 Institusjoner med lav andel førstestillinger i fagpersonalet. Helse- og sosialfag 2014
-Kilde: NSD/DBH
-
-ger når det gjelder tilbudsstrukturen fremdeles
-interessante: 25
-Den relativt liberale etableringspolitikken de
-senere årene har ført til allmennlærerutdanning i nye institusjoner, og etablerte lærerutdanningsinstitusjoner ekspanderer inn i nye
-områder med satellittprogram. Dette kan være
-ønskelig i et distriktspolitisk perspektiv, men
-evalueringspanelet er kritisk til at lærerutdanningsmiljøene kan bli for små og faglig tynne.
-Med de klare tendensene man ser for hvor
-studentmassen søker seg, er evalueringspanelet skeptisk til å opprettholde en tilnærmet lik
-allmennlærerutdanning ved 20 institusjoner.
-Følgegruppen for grunnskolelærerutdanningen,
-som følger innføringen av de nye grunnskolelærerutdanningene, fremhever at større faglig
-konsentrasjon på de enkelte institusjonene og mer
-faglig arbeidsdeling mellom institusjonene er nødvendig. Dette vil sikre robuste fagmiljøer og at
-studentmiljøene får tilstrekkelig bredde.26
-
-25
-26
-
-NOKUT 2006
-Følgegruppen for lærerutdanningsreformen, 2014
-
-3.5.2
-
-Sykepleierutdanning
-
-Sammen med de andre helsepersonellgruppene
-er sykepleierne en av de yrkesgruppene det vil bli
-størst etterspørsel etter som følge av de demografiske endringene i befolkningen.27 Det vil imidlertid ikke være mulig å dekke fremtidens etterspørsel etter helsepersonell dersom organiseringen av
-tjenestene fortsetter på samme måte som i dag.
-Forskning, innovasjon og utvikling i helsefagene
-er avgjørende for å håndtere utfordringene som
-kommer.
-Sykepleierutdanning tilbys av 19 statlige institusjoner, spredt på over 30 steder i landet. Størrelsen på miljøene varierer sterkt. Kun ti sykepleiere
-ble uteksaminert fra Høgskolen i Nesna i 2013,
-mens 488 kandidater ble uteksaminert ved Høgskolen i Oslo og Akershus. Antall faglige årsverk
-varierer fra 368 ved Høgskolen i Oslo og Akershus til under ti ved Høgskolen i Nesna.
-Mange av de minste studiestedene har store
-rekrutteringsproblemer til sykepleierutdanningen. Høyskolene i Harstad, Nesna og Molde har
-for eksempel under én kvalifisert førstevalgssøker
-per utlyste studieplass. I tillegg har studentene
-som starter utdanningen på en del institusjoner
-dårlige karakterer fra videregående skole.
-27
-
-Gjefsen et al. 2014
-
-[Side 40]
-
-40
-
-2014–2015
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-0,35
-0,3
-0,25
-0,2
-0,15
-0,1
-0,05
-0
-UiT
-
-HiM
-
-HiB
-
-HiG
-
-HiHe
-
-HiN
-
-HiNT
-
-HiSF
-
-HiH
-
-HiNe
-
-HiT
-
-HiÅ
-
-Gjennomsnitt av institusjoner som tilbyr helse/sosialfag
-
-Figur 3.15 Institusjoner med lavt antall publiseringspoeng per faglig ansatt i helse- og sosialfag 2013
-Kilde: NSD/DBH
-
-Det er relativt store forskjeller mellom institusjoner med hensyn til søkning, opptaksgrunnlag,
-antall studenter per ansatt, strykprosent, karakterer og frafall.28 Bak disse forskjellene kan det
-skjule seg kvalitetsforskjeller og forskjeller i de
-kravene som stilles til studentene, med det resultat at studentene fra de ulike lærestedene kommer ut med ulikt grunnlag for yrkesutøvelsen.
-Den formelle kompetansen i fagmiljøet er den
-laveste blant helse- og sosial-, lærer og ingeniørfagene, med et gjennomsnitt på 37,4 prosent av personalet med førstestillingskompetanse. Det er
-imidlertid stor variasjonen mellom institusjonene.
-Andelen med førstestillingskompetanse varierer
-fra over 52 prosent ved Universitetet i Agder til
-under 18 prosent ved Høgskolen i Nesna. Selv om
-mange institusjoner har lav andel førstestillingskompetanse i fagpersonalet på helse- og sosialfag,
-er det bare én institusjon som ikke tilfredsstiller
-minstekravet på 20 prosent førstestillingskompetanse i fagpersonalet, jf. figur 3.14.
-Det er også store forskjeller i hvor mye som
-publiseres ved de ulike institusjonene. jf. figur
-3.15. Samlet sett har enhetene i helse- og sosialfag
-lavere publisering per faglige stilling enn ingeniørog lærerfagene. Helse- og sosialfagenhetene ved
-høyskolene i Harstad, Nesna, Telemark og Ålesund har alle 0,1 publiseringspoeng per ansatt i
-2013, og i tillegg har de et lavt samlet publiseringsvolum med under ti publiseringspoeng.
-
-Forskningen innenfor biologi, medisin og helsefag ble evaluert i 2011 av et ekspertpanel i regi
-av Forskningsrådet. Kun de største fagmiljøene
-ble inkludert i evalueringen av hensyn til personvern. Fagpersonalet påpekte følgende i sin oppsummering: 29
-I en aldrende befolkning er det et sterkt behov
-for kunnskapsbasert informasjon for pleie i
-helse- og omsorgssektoren. Den nåværende
-norske forskningen på dette området kan, med
-noen få unntak, ikke forventes å gi slik informasjon. Dette er et ungt og umodent forskningsfelt. En styrking av forskningsinfrastruktur og
-konsentrering av forskningen til de sterkeste
-miljøene er en vei å gå for å sikre leveranse av
-kunnskap av høy kvalitet i framtiden.
-Det internasjonalt sammensatte evalueringspanelet påpeker at forskningen lider under en stor
-grad av fragmentering, til tross for at kun de største fagmiljøene ble evaluert:
-The research […] was fragmented, without a
-sufficiently clear focus and sometimes without
-appropriate methodological consideration,
-which resulted in superficial results.
-Videre uttrykker panelet bekymring for forskningens påvirkning på undervisningskvaliteten. Kon29
-
-28
-
-Kårstein et al. 2012
-
-Evaluation of Biology, Medicine and Health Research in
-Norway 2011
-
-[Side 41]
-
-2014–2015
-
-41
-
-Meld. St. 18
-Konsentrasjon for kvalitet
-
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-0%
-HiG
-
-HiN
-
-HBV
-
-HiØ
-
-HiÅ
-
-HiB
-
-HiST
-
-HSH
-
-Gjennomsnitt av institusjoner som tilbyr ingeniør/teknologi
-
-Figur 3.16 Institusjoner med lav andel førstestillinger i fagpersonalet på ingeniør og teknologi 2014
-Kilde: NSD/DBH
-
-klusjonene fra evalueringen er i tråd med tidligere
-undersøkelser av forskning ved de statlige høyskolene. En rapport fra 2006 viser at forskningsprosjektene innenfor helse- og sosialfagene også
-da var små og fragmenterte.30
-3.5.3
-
-Ingeniørutdanning
+1.  **Ingeniørutdanning**
 
 God tilgang på ingeniører med oppdatert kompetanse over hele landet er avgjørende for opprettholdelse og utvikling av samfunnets fysiske infrastruktur, som veier, broer, vann, avløp, og for samfunnssikkerheten generelt.
-Treårig ingeniørutdanning tilbys av 14 statlige
-institusjoner på over 20 ulike studiesteder. I tillegg
-eksisterer en rekke nettstøttede tilbud. Spredningen i ingeniørutdanningen forsterkes ytterligere
-av mangfoldet av ulike programmer og retninger.
-I 2015 lyses det ut omkring 100 bachelorgradsprogrammer i ingeniørfag gjennom Samordna opptak. Tidligere har det vært vanskelig å rekruttere
-ingeniørstudenter, men etter 2007 har det vært en
-sterk vekst i antall søkere. Et flertall av institusjonene har likevel færre enn én kvalifisert førstevalgssøker per studieplass gjennom Samordna
-opptak, men i tillegg søker et stort antall studenter gjennom lokalt opptak, blant annet gjennom
-den såkalte Y-veien. Aller lavest ligger studiene
-ved høyskolene i Telemark, Sogn og Fjordane,
-Narvik og Østfold med mellom 0,3 og 0,5 kvalifiserte førstevalgssøkere per studieplass.
-30
 
-Larsen et al. 2006
+Treårig ingeniørutdanning tilbys av 14 statlige institusjoner på over 20 ulike studiesteder. I tillegg eksisterer en rekke nettstøttede tilbud. Spredningen i ingeniørutdanningen forsterkes ytterligere av mangfoldet av ulike programmer og retninger. I 2015 lyses det ut omkring 100 bachelorgradsprogrammer i ingeniørfag gjennom Samordna opptak. Tidligere har det vært vanskelig å rekruttere ingeniørstudenter, men etter 2007 har det vært en sterk vekst i antall søkere. Et flertall av institusjonene har likevel færre enn én kvalifisert førstevalgssøker per studieplass gjennom Samordna opptak, men i tillegg søker et stort antall studenter gjennom lokalt opptak, blant annet gjennom den såkalte Y-veien. Aller lavest ligger studiene ved høyskolene i Telemark, Sogn og Fjordane, Narvik og Østfold med mellom 0,3 og 0,5 kvalifiserte førstevalgssøkere per studieplass.
 
-Det er stor variasjon i størrelsen på fagmiljøene og studieprogrammene. På den ene siden av
-skalaen finner vi Høgskolen i Bergen, som uteksaminerte 359 kandidater i 2013 og har 142 faglige
-årsverk ved ingeniør- og teknologienheten. På den
-andre siden av skalaen er Høgskolen i Sogn og
-Fjordane, som uteksaminerte 16 kandidater i 2013
-og har 30 faglige årsverk ved ingeniør- og teknologienheten.
-Ifølge NOKUTs studiebarometer er ingeniørstudenter jevnt over mindre fornøyd med utdanningen sin enn gjennomsnittet av studentene som
-har svart på undersøkelsen.
-Ved ingeniør- og teknologienhetene har i gjennomsnitt 58 prosent av personalet førstestillingskompetanse, men det er stor variasjonen mellom
-institusjonene. Andelen førstestillingskompetanse varierer fra 86,7 prosent ved Universitetet i
-Stavanger til 42,6 prosent ved Høgskolen Stord/
-Haugesund. Figur 3.16 viser institusjoner som ligger relativt lavt på denne indikatoren.
-Antall publiseringspoeng per faglig stilling kan
-si noe om forskningsintensiteten i fagmiljøene.
-Gjennomsnittlig antall publiseringspoeng per faglig ansatt i ingeniør- og teknologimiljøene er 0,6
-poeng. Universitetet i Agder utmerker seg med
-1,5 publiseringspoeng per ansatt mens flere institusjoner ligger langt under gjennomsnittet på
-denne indikatoren, jf. figur 3.17.
-I NOKUTs evaluering av ingeniørutdanningen
-i Norge i 2008 pekte den sakkyndige komiteen på
-at det store antallet utdanningstilbud fører til at et
-begrenset antall studenter blir spredt på ulike programmer og studieretninger, noe som igjen med-
+Det er stor variasjon i størrelsen på fagmiljøene og studieprogrammene. På den ene siden av skalaen finner vi Høgskolen i Bergen, som uteksaminerte 359 kandidater i 2013 og har 142 faglige årsverk ved ingeniør- og teknologienheten. På den andre siden av skalaen er Høgskolen i Sogn og Fjordane, som uteksaminerte 16 kandidater i 2013 og har 30 faglige årsverk ved ingeniør- og teknologienheten.
 
-[Side 42]
+Ifølge NOKUTs studiebarometer er ingeniørstudenter jevnt over mindre fornøyd med utdanningen sin enn gjennomsnittet av studentene som har svart på undersøkelsen.
 
-42
+Ved ingeniør- og teknologienhetene har i gjennomsnitt 58 prosent av personalet førstestillingskompetanse, men det er stor variasjonen mellom institusjonene. Andelen førstestillingskompetanse varierer fra 86,7 prosent ved Universitetet i Stavanger til 42,6 prosent ved Høgskolen Stord/Haugesund. Figur 3.16 viser institusjoner som ligger relativt lavt på denne indikatoren.
 
-2014–2015
+**\[:figur:figX-X.jpg\]**
 
-Meld. St. 18
-Konsentrasjon for kvalitet
+1.  Institusjoner med lav andel førstestillinger i fagpersonalet på ingeniør og teknologi 2014
 
-0,7
-0,6
-0,5
-0,4
-0,3
-0,2
-0,1
-0
-HiN
+NSD/DBH
 
-HSH
+Antall publiseringspoeng per faglig stilling kan si noe om forskningsintensiteten i fagmiljøene. Gjennomsnittlig antall publiseringspoeng per faglig ansatt i ingeniør- og teknologimiljøene er 0,6 poeng. Universitetet i Agder utmerker seg med 1,5 publiseringspoeng per ansatt mens flere institusjoner ligger langt under gjennomsnittet på denne indikatoren, jf. figur 3.17.
 
-HiÅ
+**\[:figur:figX-X.jpg\]**
 
-HiB
+1.  Institusjoner med lavt antall publiseringspoeng per faglig ansatt i ingeniør og teknologi 2013
 
-HiOA
+NSD/DBH
 
-HiG
+I NOKUTs evaluering av ingeniørutdanningen i Norge i 2008 pekte den sakkyndige komiteen på at det store antallet utdanningstilbud fører til at et begrenset antall studenter blir spredt på ulike programmer og studieretninger, noe som igjen medfører at det blir mange og små fagmiljøer. [^83] For å bøte på dette anbefaler komiteen:
 
-HiSF
+Det bør foretas en nasjonal samordning av utdanningstilbudet innen ulike teknologiområder og ulike regioner. Oppbyggingen av forskningsmiljøer og mastergradsutdanninger bør også samordnes.
 
-HiST
+To eller flere institusjoner bør i størst mulig grad samarbeide om lærerressurser, administrative ressurser og utstyr, samt om benchmarking og til en viss grad kursutvikling.
 
-HiØ
+1.  **Økonomisk-administrative utdanninger**
 
-Gjennomsnitt av institusjoner som tilbyr teknologi/ingeniør
+I dag tilbys bachelorgradsutdanning i økonomi og administrasjon og ledelse av 21 statlige utdanningsinstitusjoner på en rekke studiesteder. Spesielt for dette fagområdet er at én aktør, den private vitenskapelige høyskolen Handelshøyskolen BI dominerer. I 2014 var omkring 40 prosent av bachelorgradskandidatene på dette fagområdet uteksaminert ved BI. Langt færre institusjoner tilbyr mastergrad på fagområdet. Det har vært god søkning til både bachelor- og mastergradsutdanningene på dette fagområdet de seneste årene.
 
-Figur 3.17 Institusjoner med lavt antall publiseringspoeng per faglig ansatt i ingeniør og teknologi 2013
-Kilde: NSD/DBH
+Det er grunn til å anta at nettopp fagområdets popularitet er årsaken til at studietilbud har blitt opprettet i et stort antall over hele landet, uten at det nødvendigvis står et solid fagmiljø bak hvert tilbud. Da forskningen i økonomifaget ble evaluert i 2007, uttrykte det internasjonale fagpanelet en bekymring for størrelsen på noen av miljøene:[^84]
 
-fører at det blir mange og små fagmiljøer. 31 For å
-bøte på dette anbefaler komiteen:
+A particular concern is that some units are on the low side of critical mass, and that research efforts accordingly are spread too thinly at the cost of quality.
 
-2007, uttrykte det internasjonale fagpanelet en
-bekymring for størrelsen på noen av miljøene:32
+I motsetning til de tre andre profesjonsfagene nevnt over, ser det ut til at markedet begynner å bli dekket når det gjelder kandidater med økonomisk-administrativ utdanning. I NIFUs kandidatundersøkelse for 2013 fant de små endringer i arbeidsmarkedstilpasning for nyutdannede mastergradskandidater de siste årene, men viser at det er en økning i arbeidsledigheten blant mastergradskandidater med økonomisk-administrativ utdanning.[^85]
 
-Det bør foretas en nasjonal samordning av
-utdanningstilbudet innen ulike teknologiområder og ulike regioner. Oppbyggingen av
-forskningsmiljøer og mastergradsutdanninger
-bør også samordnes.
-To eller flere institusjoner bør i størst mulig
-grad samarbeide om lærerressurser, administrative ressurser og utstyr, samt om benchmarking og til en viss grad kursutvikling.
+Videre fremskriver SSB et overskudd av utdannede med kort og lang høyere utdanning i økonomiske og administrative fag på drøye 60 000 personer frem mot 2025.[^86]
 
-A particular concern is that some units are on
-the low side of critical mass, and that research
-efforts accordingly are spread too thinly at the
-cost of quality.
+Dersom de utdanningssøkende i årene som kommer blir påvirket av utviklingen i arbeidsmarkedet, vil de økonomisk-administrative utdanningene måtte regne med rekrutteringssvikt, og en konsolidering og nedbygging av utdanningstilbud vil være fornuftig.
 
-3.5.4
+1.  **Fremtidens universitets- og høyskolesektor**
 
-Økonomisk-administrative utdanninger
+*I fremtiden skal Norge ha færre og sterkere institusjoner, men samlet sett like stort mangfold. Mange institusjoner har identifisert sine fusjonspartnere, mens for andre vil det være en prosess fremover basert på utvalgte kvalitetskriterier. Enkelte av dagens institusjoner kan fortsette som selvstendige institusjoner. Det vil bli vanskeligere å oppnå akkreditering som vitenskapelig høyskole og universitet, og kravene for å opprette utdanningsprogrammer på master- og doktorgradsnivå skjerpes.*
 
-I dag tilbys bachelorgradsutdanning i økonomi og
-administrasjon og ledelse av 21 statlige utdanningsinstitusjoner på en rekke studiesteder. Spesielt for dette fagområdet er at én aktør, den private
-vitenskapelige høyskolen Handelshøyskolen BI
-dominerer. I 2014 var omkring 40 prosent av
-bachelorgradskandidatene på dette fagområdet
-uteksaminert ved BI. Langt færre institusjoner tilbyr mastergrad på fagområdet. Det har vært god
-søkning til både bachelor- og mastergradsutdanningene på dette fagområdet de seneste årene.
-Det er grunn til å anta at nettopp fagområdets
-popularitet er årsaken til at studietilbud har blitt
-opprettet i et stort antall over hele landet, uten at
-det nødvendigvis står et solid fagmiljø bak hvert tilbud. Da forskningen i økonomifaget ble evaluert i
+1.  **Tiltak for økt kvalitet**
 
-I motsetning til de tre andre profesjonsfagene
-nevnt over, ser det ut til at markedet begynner å
-bli dekket når det gjelder kandidater med økonomisk-administrativ utdanning. I NIFUs kandidatundersøkelse for 2013 fant de små endringer i
-arbeidsmarkedstilpasning for nyutdannede mastergradskandidater de siste årene, men viser at
-det er en økning i arbeidsledigheten blant mastergradskandidater med økonomisk-administrativ
-utdanning.33
-Videre fremskriver SSB et overskudd av
-utdannede med kort og lang høyere utdanning i
-økonomiske og administrative fag på drøye 60 000
-personer frem mot 2025.34
-Dersom de utdanningssøkende i årene som
-kommer blir påvirket av utviklingen i arbeidsmarkedet, vil de økonomisk-administrative utdanningene måtte regne med rekrutteringssvikt, og en
-konsolidering og nedbygging av utdanningstilbud vil være fornuftig.
+Regjeringen mener at universitets- og høyskolesektoren vil være bedre rustet til å møte utfordringene beskrevet over, dersom de faglige og økonomiske ressursene konsolideres gjennom sammenslåing av institusjoner. Regjeringens utgangspunkt er ikke at større nødvendigvis er bedre, men at det er viktig å ha institusjoner hvor fagmiljøene er over en kritisk minstestørrelse. Dette er pekt på i en rekke fagevalueringer de senere årene. Det er derfor lite ansvarlig å unnlate å gripe fatt i strukturproblemene i norsk høyere utdanning og forskning. Flere institusjoner har for små og sårbare fagmiljøer til at de har mulighet til å sikre høy kvalitet i dag eller i fremtiden. For å løse de store samfunnsutfordringene kreves økt tverrfaglighet. Sammenslåing til større institusjoner med mer solide fagmiljøer vil fremme tverrfaglig samarbeid og gjøre det lettere å satse på prioriterte områder og verdensledende fagmiljøer.
 
-32
-33
+Styret for en sammenslått institusjon skal bygge videre på institusjoner med tradisjoner og historie, styrker og svakheter, utfordringer og muligheter. Etter sammenslåing må styret utvikle institusjonen på grunnlag av de samlede ressursene og fagmiljøene. Det må utarbeide en strategi for at målet om bedre kvalitet kan realiseres og sørge for at tiltak iverksettes. Styret har ansvar for å vurdere hvordan små og fragmenterte fagmiljøer kan organiseres på en måte som gir grunnlag for bedre kvalitet. De samlede ressursene kan gi grunnlag for prioriteringer og satsninger, og styret må også ta ansvar for å vurdere hva som kan nedprioriteres der andre institusjoner har bedre forutsetninger for å videreutvikle fagområder.
 
-31
+Institusjoner som blir slått sammen kan ha opprettet overlappende utdanningstilbud og fagmiljøer for å tiltrekke seg studenter og forskningsressurser i konkurranse med hverandre. Etter sammenslåing har styret bedre forutsetninger for å vurdere studentenes og samfunnets behov mer helhetlig, og for å konsolidere miljøer som tidligere har vært små eller vært i uhensiktsmessig konkurranse om ressursene.
 
-NOKUT 2008
+Styret og ledelsen må sørge for at virksomheten organiseres slik at de ansatte finner sammen. På mange områder vil det være viktig med samarbeid mellom ansatte ved samme institusjon, og mellom institusjoner. Dette forutsetter god utdannings- og forskningsledelse, som også er forutsetninger for å konsolidere og utvikle fagmiljøer og bedre kvaliteten.
 
-34
+Regjeringen ønsker primært sammenslåinger som er forankret i institusjonenes egne vurderinger og forslag. Regjeringen har tillit til argumentene fra institusjoner som foreslår endringer, og at institusjonenes styrer har fremmet forslag basert på faglige og strategiske vurderinger. Kunnskapsdepartementet har fått forslag om sammenslåinger som er i tråd med målene om høyere kvalitet. Departementet vil fortsette prosessen og dialogen med universiteter og høyskoler for å få til flere sammenslåinger som bidrar til å heve kvaliteten i utdanningene og forskningen.
 
-Forskningsrådets fagevalueringer: forskningsradet.no
-Wiers-Jenssen et al. 2014
-Gjefsen et al. 2014
+Det er regjeringens ansvar å sørge for en hensiktsmessig struktur i universitets- og høyskolesektoren ut fra nasjonale ambisjoner og behov. Departementet vil ha dialog med de institusjonene som ut fra kvalitetsvurderinger bør slås sammen med andre, og med de institusjonene som departementet ser det formålstjenlig at de slås sammen med.
 
-[Side 43]
+Sammenslåingsprosesser er krevende, og de tar tid å gjennomføre. Det kan også ta tid før resultatene blir synlige. I tillegg til å finne løsninger på en rekke praktiske forhold, har de nye institusjonene et betydelig ansvar for å arbeide med kvalitetsutvikling og konsolidering av den faglige virksomheten. Det er derfor viktig at styret og ledelsen vier prosessene nok tid og oppmerksomhet. Også departementet vil legge stor vekt på å følge opp den enkelte sammenslåingsprosess.
 
-2014–2015
+Som flere av institusjonene påpeker i innspillene til stortingsmeldingen, vil sammenslåingsprosesser ha overgangskostnader. Økonomisk fleksibilitet og tilstrekkelig tilgang på ressurser er viktig i en reorganiseringsprosess, spesielt de første årene. Midlene til samarbeid, arbeidsdeling, konsentrasjon og sammenslåing (SAKS) vil derfor gå til omstillingskostnader i forbindelse med sammenslåinger.
 
-Meld. St. 18
-Konsentrasjon for kvalitet
+I sine innspill til stortingsmeldingen drøfter flere institusjoner ulike begrunnelser for sammenslåinger. Noen mener at sammenslåing basert på faglig likhet er mest hensiktsmessig, mens andre argumenterer med faglig komplementaritet. Geografisk nærhet er også et argument som brukes. Det kan være ulike begrunnelser for de ulike sammenslåingene. Det viktigste er å finne løsninger som ivaretar strukturreformens formål, nemlig økt kvalitet og faglig bærekraft. Dermed spiller både geografi, faglig likhet og faglig komplementaritet inn. Av disse er det konsolidering av miljøer med faglig likhet som mest direkte gir økt robusthet. Faglig komplementaritet kan bidra til nyutvikling, og til at fagmiljøer evner å møte utfordringer som hvert fagmiljø ikke har forutsetninger for å håndtere på egenhånd.[^87]
 
-43
+Sammenslåingene som regjeringen vil gjennomføre, gjelder institusjoner, ikke studiesteder. Universitets- og høyskoleloven slår fast at styret for en institusjon har ansvar for å legge strategien, fastsette organiseringen og disponere ressursene. Departementet legger vekt på tempo og fremdrift i strukturprosessen, fordi sammenslåinger binder ressurser og oppmerksomhet, og erfaringsmessig oppleves som en belastning av mange. Samtidig er det viktig å ha tid nok til gode prosesser som forbereder for gjennomføring.
 
-4 Fremtidens universitets- og høyskolesektor
-I fremtiden skal Norge ha færre og sterkere institusjoner, men samlet sett like stort mangfold. Mange
-institusjoner har identifisert sine fusjonspartnere,
-mens for andre vil det være en prosess fremover
-basert på utvalgte kvalitetskriterier. Enkelte av
-dagens institusjoner kan fortsette som selvstendige
-institusjoner. Det vil bli vanskeligere å oppnå akkreditering som vitenskapelig høyskole og universitet,
-og kravene for å opprette utdanningsprogrammer
-på master- og doktorgradsnivå skjerpes.
+Departementet vil følge opp resultatene av sammenslåingene gjennom en forskningsbasert evaluering.
 
-4.1
+I tillegg til å gjennomføre strukturendringer i universitets- og høyskolesektoren vil regjeringen stille strengere kvalitetskrav til utdanningsprogrammene gjennom økte krav til fagmiljøene ved etablering av nye master- og doktorgradsprogrammer. Regjeringen vil også skjerpe kriteriene for akkreditering som vitenskapelig høyskole og universitet.
 
-Tiltak for økt kvalitet
+1.  **Studiested Alta etter fusjon**
 
-Regjeringen mener at universitets- og høyskolesektoren vil være bedre rustet til å møte utfordringene beskrevet over, dersom de faglige og økonomiske ressursene konsolideres gjennom sammenslåing av institusjoner. Regjeringens utgangspunkt er ikke at større nødvendigvis er bedre,
-men at det er viktig å ha institusjoner hvor fagmiljøene er over en kritisk minstestørrelse. Dette
-er pekt på i en rekke fagevalueringer de senere
-årene. Det er derfor lite ansvarlig å unnlate å gripe
-fatt i strukturproblemene i norsk høyere utdanning og forskning. Flere institusjoner har for små
-og sårbare fagmiljøer til at de har mulighet til å
-sikre høy kvalitet i dag eller i fremtiden. For å løse
-de store samfunnsutfordringene kreves økt tverrfaglighet. Sammenslåing til større institusjoner
-med mer solide fagmiljøer vil fremme tverrfaglig
-samarbeid og gjøre det lettere å satse på prioriterte områder og verdensledende fagmiljøer.
-Styret for en sammenslått institusjon skal
-bygge videre på institusjoner med tradisjoner og
-historie, styrker og svakheter, utfordringer og
-muligheter. Etter sammenslåing må styret utvikle
-institusjonen på grunnlag av de samlede ressursene og fagmiljøene. Det må utarbeide en strategi
-for at målet om bedre kvalitet kan realiseres og
-sørge for at tiltak iverksettes. Styret har ansvar for
-å vurdere hvordan små og fragmenterte fagmiljøer kan organiseres på en måte som gir
-grunnlag for bedre kvalitet. De samlede ressursene kan gi grunnlag for prioriteringer og satsninger, og styret må også ta ansvar for å vurdere hva
+Etter at Universitetet i Tromsø og Høgskolen i Finnmark fusjonerte 1. august 2013 har det vært en positiv utvikling på flere områder ved studiestedene i Finnmark. Fagtilbudet i Finnmark har blitt styrket, studenttilstrømningen har økt, og ved Finnmarksfakultetet, Alta har det skjedd en betydelig økning av den formelle kompetansen i fagstaben.
 
-som kan nedprioriteres der andre institusjoner
-har bedre forutsetninger for å videreutvikle fagområder.
-Institusjoner som blir slått sammen kan ha
-opprettet overlappende utdanningstilbud og fagmiljøer for å tiltrekke seg studenter og forskningsressurser i konkurranse med hverandre. Etter
-sammenslåing har styret bedre forutsetninger for
-å vurdere studentenes og samfunnets behov mer
-helhetlig, og for å konsolidere miljøer som tidligere har vært små eller vært i uhensiktsmessig
-konkurranse om ressursene.
-Styret og ledelsen må sørge for at virksomheten organiseres slik at de ansatte finner
-sammen. På mange områder vil det være viktig
-med samarbeid mellom ansatte ved samme institusjon, og mellom institusjoner. Dette forutsetter
-god utdannings- og forskningsledelse, som også
-er forutsetninger for å konsolidere og utvikle fagmiljøer og bedre kvaliteten.
-Regjeringen ønsker primært sammenslåinger
-som er forankret i institusjonenes egne vurderinger og forslag. Regjeringen har tillit til argumentene fra institusjoner som foreslår endringer, og at
-institusjonenes styrer har fremmet forslag basert
-på faglige og strategiske vurderinger. Kunnskapsdepartementet har fått forslag om sammenslåinger som er i tråd med målene om høyere kvalitet.
-Departementet vil fortsette prosessen og dialogen
-med universiteter og høyskoler for å få til flere
-sammenslåinger som bidrar til å heve kvaliteten i
-utdanningene og forskningen.
-Det er regjeringens ansvar å sørge for en hensiktsmessig struktur i universitets- og høyskolesektoren ut fra nasjonale ambisjoner og behov.
-Departementet vil ha dialog med de institusjonene som ut fra kvalitetsvurderinger bør slås
-sammen med andre, og med de institusjonene
-som departementet ser det formålstjenlig at de
-slås sammen med.
-Sammenslåingsprosesser er krevende, og de
-tar tid å gjennomføre. Det kan også ta tid før resultatene blir synlige. I tillegg til å finne løsninger på
-en rekke praktiske forhold, har de nye institusjonene et betydelig ansvar for å arbeide med kvalitetsutvikling og konsolidering av den faglige
+*Flere nye studietilbud er tilgjengelig for studentene i Finnmark:*
 
-[Side 44]
+- bachelorgradsutdanning i ingeniør i arktiske anlegg
 
-44
+- mastergradsutdanning i lærerutdanning 1.-7. trinn. 20 studenter er i gang på første året.
 
-Meld. St. 18
-Konsentrasjon for kvalitet
+- mastergradsutdanning i spesialpedagogikk
 
-2014–2015
+- mastergradsutdanning i økonomi og administrasjon (siv.øk.)
 
-Boks 4.1 Studiested Alta etter fusjon
-Etter at Universitetet i Tromsø og Høgskolen i
-Finnmark fusjonerte 1. august 2013 har det vært
-en positiv utvikling på flere områder ved studiestedene i Finnmark. Fagtilbudet i Finnmark har
-blitt styrket, studenttilstrømningen har økt, og
-ved Finnmarksfakultetet, Alta har det skjedd en
-betydelig økning av den formelle kompetansen i
-fagstaben.
-Flere nye studietilbud er tilgjengelig for studentene
-i Finnmark:
-–
-–
-–
-–
-–
-–
+- mastergradsutdanning i idrettsvitenskap
 
-bachelorgradsutdanning i ingeniør i arktiske
-anlegg
-mastergradsutdanning i lærerutdanning 1.-7.
-trinn. 20 studenter er i gang på første året.
-mastergradsutdanning i spesialpedagogikk
-mastergradsutdanning i økonomi og administrasjon (siv.øk.)
-mastergradsutdanning i idrettsvitenskap
-mastergradsutdanning i sosialt arbeid tilbys
-fra høsten 2015
+- mastergradsutdanning i sosialt arbeid tilbys fra høsten 2015
 
-Søkningen til campus i Finnmark har økt:
-–
-–
+*Søkningen til campus i Finnmark har økt:*
 
-Mellom 2013 og 2014 var det en dobling i
-antall førstevalgssøkere til studier i Finnmark
-Høsten 2014 hadde omkring 800 studenter et
-studium i Finnmark som sitt førstevalg i Sam-
+- Mellom 2013 og 2014 var det en dobling i antall førstevalgssøkere til studier i Finnmark
 
-virksomheten. Det er derfor viktig at styret og
-ledelsen vier prosessene nok tid og oppmerksomhet. Også departementet vil legge stor vekt på å
-følge opp den enkelte sammenslåingsprosess.
-Som flere av institusjonene påpeker i innspillene til stortingsmeldingen, vil sammenslåingsprosesser ha overgangskostnader. Økonomisk
-fleksibilitet og tilstrekkelig tilgang på ressurser er
-viktig i en reorganiseringsprosess, spesielt de første årene. Midlene til samarbeid, arbeidsdeling,
-konsentrasjon og sammenslåing (SAKS) vil derfor
-gå til omstillingskostnader i forbindelse med sammenslåinger.
-I sine innspill til stortingsmeldingen drøfter
-flere institusjoner ulike begrunnelser for sammenslåinger. Noen mener at sammenslåing basert på
-faglig likhet er mest hensiktsmessig, mens andre
-argumenterer med faglig komplementaritet. Geografisk nærhet er også et argument som brukes.
-Det kan være ulike begrunnelser for de ulike sam-
+- Høsten 2014 hadde omkring 800 studenter et studium i Finnmark som sitt førstevalg i Samordna opptak. Ett år tidligere var det bare 400 som hadde Finnmark som førstevalg (noe av økningen skyldes årlige fluktuasjoner i tilbud).
 
-ordna opptak. Ett år tidligere var det bare 400
-som hadde Finnmark som førstevalg (noe av
-økningen skyldes årlige fluktuasjoner i tilbud).
-Høyere formell kompetanse ved Finnmarksfakultetet, Alta:
-–
-–
-–
+*Høyere formell kompetanse ved Finnmarksfakultetet, Alta:*
 
-–
+- Finnmarksfakultetet, Alta er en av flere enheter ved tidligere Høgskolen i Finnmark
 
-Finnmarksfakultetet, Alta er en av flere enheter ved tidligere Høgskolen i Finnmark
-Høgskolen i Finnmark hadde tidligere problemer med å rekruttere fagpersonale med
-doktorgrad.
-Etter fusjonen har Finnmarksfakultetet, Alta
-lyst ut sju ledige stillinger som førsteamanuensis. Det var godt tilfang av søkere, og alle
-stillinger ble besatt av søkere med doktorgrad.
-Dette har ført til en betydelig forbedring av
-formell kompetanse ved de tre instituttene
-reiseliv, idrett, sosialfag.
+- Høgskolen i Finnmark hadde tidligere problemer med å rekruttere fagpersonale med doktorgrad.
 
-Barnevern og sosialfag har tidligere har hatt
-vanskeligheter med å tilfredsstille kravet om 20
-prosent førstestillingskompetanse. Nå ligger
-andelen ansatte med førstestillingskompetanse
-på over 40 prosent.
+- Etter fusjonen har Finnmarksfakultetet, Alta lyst ut sju ledige stillinger som førsteamanuensis. Det var godt tilfang av søkere, og alle stillinger ble besatt av søkere med doktorgrad.
 
-menslåingene. Det viktigste er å finne løsninger
-som ivaretar strukturreformens formål, nemlig
-økt kvalitet og faglig bærekraft. Dermed spiller
-både geografi, faglig likhet og faglig komplementaritet inn. Av disse er det konsolidering av miljøer
-med faglig likhet som mest direkte gir økt robusthet. Faglig komplementaritet kan bidra til nyutvikling, og til at fagmiljøer evner å møte utfordringer
-som hvert fagmiljø ikke har forutsetninger for å
-håndtere på egenhånd.1
-Sammenslåingene som regjeringen vil gjennomføre, gjelder institusjoner, ikke studiesteder.
-Universitets- og høyskoleloven slår fast at styret
-for en institusjon har ansvar for å legge strategien,
-fastsette organiseringen og disponere ressursene.
-Departementet legger vekt på tempo og fremdrift
-i strukturprosessen, fordi sammenslåinger binder ressurser og oppmerksomhet, og erfarings1
+- Dette har ført til en betydelig forbedring av formell kompetanse ved de tre instituttene reiseliv, idrett, sosialfag.
 
-Milgrom et al.1995
+Barnevern og sosialfag har tidligere har hatt vanskeligheter med å tilfredsstille kravet om 20 prosent førstestillingskompetanse. Nå ligger andelen ansatte med førstestillingskompetanse på over 40 prosent.
+
+**Rammeslutt**
+
+1.  **Prosess for arbeidet med stortingsmeldingen**
+
+Arbeidet med stortingsmeldingen har vært en åpen og inkluderende prosess. Dialog med og innspill fra institusjonene og andre aktører har blitt tillagt betydelig vekt. Ulike løsninger har vært diskutert med institusjonene, basert på prosesser som er forankret ved institusjonene og deres opplevelse av utfordringer og muligheter.
+
+Institusjonene ble orientert om arbeidet med stortingsmeldingen i januar 2014. I mai samme år presenterte departementet en analyse av utfordringene i sektoren, basert på *Tilstandsrapporten for høyere utdanning 2014*. Med utgangspunkt i analysen fikk universitetene og de statlige høyskolene i oppgave å vurdere sin plass i en fremtidig universitets- og høyskolesektor med færre institusjoner, der målet var å heve kvaliteten og styrke fagmiljøene i høyere utdanning og forskning. Dette ble skriftliggjort og utdypet i brev 26. mai 2014, se vedlegg. I brevet ble det stilt en rekke spørsmål som institusjonene ble bedt om å ta med i betraktningen, når fremtidig strategisk posisjon skulle vurderes. Brevet gikk i kopi til private høyere utdanningsinstitusjoner med en oppfordring om å vurdere behovet for strukturelle endringer også i denne delen av sektoren.
+
+Kunnskapsdepartementet inviterte de statlige institusjonene til dialogmøter i september 2014. Møtene var en arena der institusjonene kunne diskutere sine foreløpige innspill med kunnskapsministeren, før endelige innspill ble sendt til departementet. Mange institusjoner har ønsket ekstra møter med departementet. Flere har også videreutviklet og revidert sine innspill underveis i prosessen. Dialogen med institusjonene har vært viktige i arbeidet med stortingsmeldingen.
+
+I tillegg til møter med alle universitetene og statlige høyskolene er det også avholdt møter med andre interessenter, som for eksempel studentorganisasjoner, private høyskoler, interesseorganisasjoner, arbeidslivsaktører osv. Mange har sendt inn skriftlige innspill. Innspillene fra universiteter, høyskoler og andre interessenter er publisert på www.regjeringen.no.
+
+**Rammeslutt**
+
+1.  **Kvalitetskriterier for strukturelle endringer**
+
+I arbeidet med strukturmeldingen har departementet vurdert institusjonenes resultater på en rekke indikatorer, jf. kapittel 3. Resultatene danner grunnlag for å vurdere institusjonenes kvalitet og styrke, og dermed om en institusjon kan fortsette som selvstendig institusjon. Indikatorene som er benyttet er ikke nye, men er de som er tilgjengelige gjennom Database for statistikk om høgre utdanning (DBH) og Studiebarometeret. Indikatorene brukes også i Kunnskapsdepartementets årlige *Tilstandsrapporten for høyere utdanning* og i styringsdialogen med universiteter og høyskoler. Slik sett er dette kjente indikatorer for sektoren. I denne sammenhengen har departementet valgt ut de indikatorene som har relevans for struktur.
+
+For deler av sektoren foreligger det konkrete planer for strukturendringer. For andre vil departementet framover ha dialog om institusjonens framtidige plass i den nye strukturen. I denne dialogen vil kvalitetskriterier være et naturlig utgangspunkt for å vurdere hvilke institusjoner som bør slå seg sammen, sammen med ambisjonene for sektoren.
+
+De utvalgte kriteriene er ikke ment å skulle gi en helhetlig vurdering av kvaliteten ved institusjonene, men er de faktorene Kunnskapsdepartementet anser som mest relevante for å vurdere om institusjonene har solide nok fagmiljøer. Det settes ikke minstekrav for hva som er god nok kvalitet for de ulike indikatorene, men de inngår i en samlet helhetlig vurdering. I denne vurderingen tas det hensyn til at institusjonene har ulike fagporteføljer og dermed ulike forutsetninger for å skåre godt på flere av disse kriteriene. Vurderingene er i hovedsak basert på gjennomsnittet for institusjonen. Innenfor én og samme institusjon kan det være klare kvalitetsforskjeller mellom ulike fagmiljøer. Ved institusjoner som i gjennomsnitt skårer dårlig, vil det kunne være gode fagmiljøer og omvendt.
+
+Kvalitetskriteriene for strukturelle endringer er:
+
+- Årsverk i førstestillinger
+
+- Søkning
+
+- Gjennomføring
+
+- Studentenes tidsbruk
+
+- Publisering
+
+- Eksterne forskningsinntekter
+
+- Størrelse på doktorgradsutdanningene
+
+- Internasjonal orientering
+
+- Samspill og samarbeid
+
+*Årsverk i førstestillinger*
+
+Stillingsnivå er et uttrykk for formelt kompetansenivå blant fagpersonalet. Antall og andel årsverk i førstestillinger (førsteamanuensis, førstelektor, dosent og professor) er indikatorer på fagmiljøenes størrelse og kompetanse. Innføringen av mastergrad i lærerutdanningene innebærer at minst halvparten av fagpersonalet tilknyttet lærerutdanningen må ha førstestillingskompetanse.
+
+*Søkning*
+
+Søkertall sier noe om utdanningenes attraktivitet og studiestedenes grunnlag for robuste utdanningsmiljøer. I dag har flere institusjoner problemer med å rekruttere nok studenter til samme type studium, noe som taler for at fagene bør konsolideres og tilbys av færre institusjoner. For noen av institusjonene med lave søkertall, peker heller ikke den demografiske utviklingen i regionen i retning av økte søkertall.
+
+*Gjennomføring*
+
+Tall på studentenes gjennomføring og frafall er nyttige for å se hvorvidt institusjonene lykkes med å få studentene gjennom studiene. Gjennomføring er imidlertid ingen entydig indikator for kvalitet, i og med at institusjonene kan ha ulike krav til hva studentene må kunne for å bestå. Ulike gjennomføringstall vurderes både for bachelor- og mastergradsutdanninger, og ved vurderingen tas det hensyn til at institusjonene har ulik karaktersettingspraksis.[^88]
+
+*Studentenes tidsbruk*
+
+Forskning viser at krav til studentene og studentenes tidsbruk er blant faktorene som best forutsier studentenes læring. Studentenes tidsbruk er derfor en indikator som sier noe om utdanningskvaliteten.
+
+*Publisering*
+
+En av de vanligste indikatorene for forskningskvalitet er vitenskapelig publisering. Antall vitenskapelige publikasjoner er et uttrykk for omfanget av den vitenskapelige virksomheten. Databasen CRIStin gir en komplett oversikt over den vitenskapelige publiseringen (ikke bare artikler i tidsskrifter). Her vurderes totalt antall publiseringspoeng ved institusjonene og i de ulike fagmiljøene, publiseringspoeng per faglig stilling og om det publiseres i internasjonale kanaler.
+
+*Eksterne forskningsinntekter*
+
+Bevilgninger fra Forskningsrådet og EU viser i hvilken grad fagmiljøene når opp i konkurransen om forskningsmidler og er således en sentral indikator på kvalitet. Det gjelder særlig for gjennomslag i konkurranser hvor tildelingen utelukkende baseres på kvalitetsvurderinger, som for eksempel Fri prosjektstøtte og Sentre for fremragende forskning i Forskningsrådet og ERC-stipend i EU. Konkurransebaserte tildelinger av forskningsmidler er mer fremoverskuende enn bibliometriske studier ved at det er potensialet som skal vektlegges. Samtidig er det også her bakoverskuende elementer gjennom vurdering av søkernes CV og publikasjonslister. Ikke minst kommer dette til uttrykk i vurdering av «gjennomførbarhet». Det er et mål for regjeringen at norske universiteter og høyskoler skal hevde seg i konkurransen om midler fra Horisont 2020. For å nå målet må alle institusjoner ha sterke fagmiljøer som kan nå opp i konkurransen.
+
+*Størrelse på doktorgradsutdanningene*
+
+Det er viktig for kvaliteten på doktorgradsutdanningene at de er av en viss størrelse og er forankret i solide fagmiljøer. Både antall doktorgradsstudenter og antall avlagte doktorgrader innenfor de ulike doktorgradsprogrammene tas med i vurderingene.
+
+*Internasjonal orientering*
+
+For at norsk høyere utdanning og forskning skal kunne utvikle seg, må universiteter og høyskoler være aktive deltakere i det internasjonale kunnskapssamfunnet. Aktuelle indikatorer for internasjonal orientering er internasjonalt samarbeid i form av felles forskningsprosjekter og sampubliseringer, felles utdanningsprogrammer og studentutveksling.
+
+*Samspill med samfunnet*
+
+Samarbeid mellom universiteter og høyskoler og arbeids- og næringsliv er avgjørende for å utdanne gode kandidater og oppnå forskningsresultater som skal bidra til økt innovasjon og omstillingsevne. Indikatorer er bidrags- og oppdragsfinansiert aktivitet (BOA) og antall kommersialiseringer, som viser institusjonenes samhandling med og relevans for aktører i samfunnet, og omfang av etter- og videreutdanning.
+
+*Andre relevante forhold*
+
+Kriteriene over er de Kunnskapsdepartementet anser som mest relevante ved vurdering av sammenslåing av institusjoner. For alle disse kriteriene finnes det kvantitative indikatorer. Det finnes også andre kilder og forhold som kan være relevante for å vurdere kvaliteten ved universiteter og høyskoler, slik som evalueringer fra Forskningsrådet og Nasjonalt organ for kvalitet i utdanningen (NOKUT), arbeidsgiveres vurdering av de ferdig utdannete kandidatene, studentenes vurdering av utdanningene, institusjonenes kvalitetsarbeid, lærestedenes forventninger til studentene, institusjonenes innovasjonskraft med mer. Disse forholdene tas også med i vurderingene som gjøres. Det er viktig med en samlet skjønnsmessig vurdering for å kunne fange opp andre sider ved kvalitet.
+
+Som det framgår i kapittel 3, skårer noen institusjoner gjennomgående lavt på de utvalgte kriteriene, og departementet vurderer at disse institusjonene er for svake til å fortsette som selvstendige institusjoner. Konsekvensene av dette drøftes nærmere under punkt 4.5.
+
+1.  **Økte krav til etablering av master- og doktorgradsprogrammer**
+
+Kvaliteten på master- og doktorgradsutdanningene avhenger av at utdanningene har base i solide fagmiljøer med aktiv forsknings- og utviklingsproduksjon og en bredde i kompetansen, samt at de har tilstrekkelig antall faglig ansatte og studenter. Ved utdanninger av høy kvalitet er det god sammenheng mellom utdanning og forsknings- og utviklingsarbeid. Utdanningene er basert på oppdatert forskning, og de som underviser bruker erfaringer fra forsknings- og utviklingsarbeid til å lære studentene vitenskapelig metode. Kompetansen i fagmiljøet bør speile bredden av fag studentene skal undervises i.
+
+Det har lenge vært bekymring for etableringen av faglig smale master- og doktorgradsprogrammer, og om fagmiljøene som tilbyr utdanningene har tilstrekkelig forskningstyngde og kvalitet. Blant andre uttrykte Stjernøutvalget uro for framveksten av mange små og smale doktorgradsutdanninger.[^89] Det har også blitt stilt spørsmål om opprettelse av mange master- og doktorgradsprogrammer har tatt ressurser og oppmerksomhet fra bachelorgradsutdanningene ved institusjonene.
+
+Høyere gradsutdanning må springe ut av fagmiljøer som allerede er faglig sterke, slik at studentene får utdanning av høy kvalitet. Erfaringene fra det europeiske arbeidet med kvalitetsutvikling og standardisering av doktorgradsutdanning tilsier at samling av ressurser og plassering av utdanninger i forskningssterke miljøer er viktig for kvaliteten på doktorgradsutdanningene.[^90] Størrelse og faglig bredde er sentralt.
+
+Master- og doktorgradsprogrammer bør ha større bredde og forankres i vesentlig sterkere fagmiljøer enn det som har vært godkjent på grunnlag av dagens regler. Regjeringen vil derfor sette i gang en prosess for å skjerpe kravene for opprettelse av master- og doktorgradsprogrammer. Arbeidet vil skje i samråd med NOKUT og Forskningsrådet. For nye programmer vil kravene gjelde fra fastsettelse. Det legges opp til en overgangsperiode for eksisterende programmer, slik at institusjonene får tid til å gjennomgå porteføljen og sikre at eksisterende programmer oppfyller nye krav. Etter overgangsperioden skal alle master- og doktorgradsprogrammene oppfylle de nye kravene.
+
+I etterkant av overgangsperioden vil departementet vurdere om institusjoner som tilbyr fire mastergradsutdanninger kan få mulighet til selv å akkreditere nye mastergradsutdanninger.
+
+1.  **Institusjonskategorier og faglige fullmakter**
+
+I dag er de statlige institusjonene kategorisert som høyskoler, vitenskapelige høyskoler og universiteter. Institusjonskategoriene innebærer ulike faglige fullmakter til å opprette og nedlegge fag på bachelor-, master- og doktorgradsnivå. Ulike faglige fullmakter er det eneste formelle skillet mellom de ulike institusjonskategoriene. Med de store prosessene for økt kvalitet i høyere utdanning og forskning som regjeringen har satt i gang, er det et langsiktig mål at alle universiteter og høyskoler skal være så faglig sterke at de kan ha alle faglige fullmakter.
+
+Siden Kvalitetsreformen i 2003 har det vært mulig for høyere utdanningsinstitusjoner å søke om endring av institusjonskategori etter gitte kriterier. I siste tiårsperiode har en rekke institusjoner endret institusjonskategori, både til vitenskapelig høyskole og til universitet. Endringene har ført til færre høyskoler, og antall universiteter er doblet fra fire til åtte.
+
+I Sundvoldenerklæringen ble muligheten til å endre institusjonskategori frosset inntil videre. Regjeringen vil gjeninnføre muligheten til å endre institusjonskategori, men vil stramme inn kravene for akkreditering som vitenskapelig høyskole og universitet. Regjeringen vil videreføre dagens system med ulike faglige fullmakter til de ulike institusjonskategoriene. Det blir ingen endringer i kriteriene for akkreditering som høyskole.
+
+1.  **Dagens system for institusjonsakkreditering**
+
+I 2003 ble det mulig for institusjoner som tilbyr høyere utdanning å søke om akkreditering til en annen institusjonskategori og få utvidete fullmakter. For å kunne søke om godkjenning som vitenskapelig høyskole må institusjonen ha en stabil doktorgradsutdanning og rett til å tildele doktorgrad alene, eller ha akkreditering for tilsvarende stipendprogram for kunstnerisk utviklingsarbeid. For å søke godkjenning som universitet etter dagens regelverk må institusjonen ha en stabil doktorgradsutdanning og rett til å tildele doktorgrad alene på minst fire fagområder. To av doktorgradsprogrammene skal være sentrale for regionale virksomheters verdiskapning, samtidig som fagområdene har nasjonal betydning. Kravet om fire doktorgrader ble vedtatt av Stortinget ved behandlingen av Kvalitetsreformen, jf. St.meld. nr. 27 (2000–2001) *Gjør din plikt – krev din rett*. I søknad om akkreditering av doktorgradsprogram til NOKUT må institusjonene i dag sannsynliggjøre at de kan oppnå 15 doktorgradsstudenter på programmet og beholde dette som stabil minimumsstørrelse. For at institusjonene skal kunne få universitetsakkreditering skal kandidatene ved minst to av doktorgradsutdanningene ha rimelig progresjon og disputere innen rimelig tid.
+
+NOKUT har ansvar for å gi Kunnskapsdepartementet den faglige anbefalingen om hvorvidt en institusjon skal kunne akkrediteres som universitet, vitenskapelig høyskole eller høyskole. NOKUT fastsetter kriterier for akkreditering i egen forskrift basert på departementets forskrift. Kunnskapsdepartementet kan ikke overprøve NOKUTs faglige vurdering, men kan foreta politiske vurderinger når NOKUT har gitt en positiv anbefaling. Departementet har til nå ikke benyttet seg av muligheten til å gjøre politiske vurderinger av universitetssøknader. Det er Kongen i statsråd som fatter endelig beslutning om institusjonsakkreditering.
+
+1.  **Nye krav til institusjonsakkreditering**
+
+Muligheten for å endre institusjonskategori har stimulert til kvalitetsutvikling blant institusjoner som ønsker å endre kategori, og derigjennom kompetanseheving blant personalet og mer forsknings- og utviklingsarbeid. De tre tidligere høyskolene i Agder, Bodø og Stavanger, som har fått universitetsstatus etter gjeldende regelverk, har hatt en god faglig utvikling i perioden 2004–13. Mye av den positive utviklingen frem mot godkjenningen som universitet har trolig vært motivert av nettopp universitetsambisjonene. På mange områder har fremgangen fortsatt etter universitetsakkrediteringen. Samtidig er det fortsatt stor avstand til resultatene til de eldre universitetene i Bergen, Oslo, Tromsø og Trondheim. Det har naturlige forklaringer, som ulikt ressursgrunnlag, at de skal være en *ny type* universitet og at de fortsatt er relativt nye. De nye universitetene har relativt tydelige profiler, forankret i regional rolle.
+
+Endringene de siste 20 årene har gradvis bidratt til at den tidligere klare arbeidsdelingen mellom universiteter på den ene siden og høyskoler på den andre, har blitt mer og mer utydelig. Flere av de store høyskolene har også hatt en positiv utvikling den siste tiårsperioden og skiller seg ikke i dag nevneverdig fra de nye universitetene. Trolig vil snart store høyskoler være på tilsvarende faglig nivå som de nye universitetene når det gjelder publisering og faglig kompetanse. Flere av disse høyskolene har også hatt et uttalt ønske om universitetsakkreditering.
+
+Innspill fra institusjonene til stortingsmeldingen viser at muligheten for å endre institusjonskategori er en viktig motivasjonsfaktor for kvalitetsutviklingen ved institusjonene. For enkelte av institusjonene er muligheten for å endre institusjonskategori dessuten sentral i vurderingene av aktuelle sammenslåingsalternativer. Høyskolene som er nærmest å oppfylle kriteriene for å bli universitet, ønsker en profesjons- og arbeidslivsrettet profil, med praksisnær og anvendt forskning. Dette stemmer godt med utfordringer Norge står overfor med hensyn til helse, demografisk utvikling osv.
+
+Regjeringen mener at muligheten til å søke om endret institusjonskategori, basert på faglige resultater, bidrar til utvikling og fornyelse i universitets- og høyskolesektoren og vil derfor fortsette med ordningen. Regjeringen vil imidlertid skjerpe kravene for akkreditering som vitenskapelig høyskole og universitet.
+
+Vilkåret om at institusjonene må kunne tilby doktorgradsutdanning i fire fag alene for å kunne bli akkreditert som universitet, videreføres. For å sikre at doktorgradsstudentene inngår i et miljø med andre stipendiater foreslår regjeringen at institusjonene ved søknad om akkreditering som vitenskapelig høyskole eller universitet må dokumentere at de allerede oppfyller kravet om minimum 15 doktorgradsstudenter per program over tid. For å sikre at universiteter har stabil doktorgradsutdanning må det dokumenteres at minimum to av doktorgradsprogrammene ved institusjonen har en gjennomsnittlig uteksaminering av fem kandidater per år over en treårsperiode. Ved akkreditering som vitenskapelig høyskole må det dokumenteres at doktorgradsprogrammet uteksaminerer gjennomsnittlig minimum fem kandidater årlig i løpet av en treårsperiode.
+
+Dette innebærer at doktorgradsprogrammene må ha vært tilbudt en tid før status som vitenskapelig høyskole eller universitet kan være aktuelt. Regjeringen vil også be om at NOKUT gjør en helhetlig vurdering av institusjonen ved søknad om akkreditering som universitet eller vitenskapelig høyskole.

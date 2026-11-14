@@ -1,968 +1,298 @@
-# NOU 2016: 7, del 3 av 21 (side 30–40)
+# NOU 2016: 7, del 3 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/20c5d328-nou-2016-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-7/id2485246/
 - Original-PDF: https://www.regjeringen.no/contentassets/05a79a5ed91e40e1a80e6f8028b21e3e/no/pdfs/nou201620160007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 20 figurer, 55 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 30]
+- vurdere innføring av insentiver for å få utdanningsinstitusjonene til å styrke utdanningstilbudet i karriereveiledning
 
-28
+- samle utdanningstilbudet på færre institusjoner
 
-NOU 2016: 7
+Siden videreutdanningstilbudene i stor grad har vært basert på oppdrag fra skoleeiere, var det få utdanningstilbud direkte rettet mot veiledere utenfor skolen, som veiledere i NAV og/eller attføringsbedriftene. De har likevel hatt mulighet til å delta på flere av videreutdanningene, som har vært åpne for flere enn de som oppdragsgiver melder på. NAV har også de siste årene også bestilt egne videreutdanningstilbud.
 
-Kapittel 5
+NTNU har i lengre tid hatt et fulltids mastergradsprogam i rådgivningsvitenskap. Masterprogrammet i rådgivning er et toårig studieprogram på 120 studiepoeng. 60 studiepoeng består av emner innenfor rådgivningsteorier og -metoder. Undervisningen er både teoretisk og praktisk med grupperådgivning, systemorientert rådgivning og rådgivning i et praktisk perspektiv som viktige elementer.
 
-Norge i omstilling – karriereveiledning for individ og samfunn
+Høgskolen i Sørøst-Norge og Høgskolen i Lillehammer fikk i statsbudsjettet for 2014 i oppdrag å utvikle et mastergradsprogram i karriereveiledning. Masterprogrammet er en erfaringsbasert mastergrad på 120 studiepoeng som tilbys som deltidsstudium.
 
-Hele befolkningen
+Finland, Island og Sverige har nasjonale bestemmelser om hvilken kompetanse karriereveiledere i ulike sektorer skal ha og hva karriereveilederutdanningene skal inneholde. Felles i disse landene er at utdanningene er profesjonsutdanninger på bachelor- eller mastergradsnivå. Finland har differensiert utdanning etter i hvilken sektor veilederne skal arbeide.
 
-Fysisk
-veiledning*
-Personer
-vurderer selv
-hvilken tjeneste
-de foretrekker
-og oppsøker
-den/de ved
-behov
+1.  **VALA**
 
-Personer som ikke
-benytter karriereveiledningstjenester
+Det nordiske nettverket VALA består av representanter fra flere nordiske og baltiske veilederutdanninger ved universitet og høgskoler i åtte land. Nettverket ble opprettet i 2012 og finansiert av Nordplus. Målet med nettverket er å styrke profesjonalitet og samarbeid mellom universiteter og høgskoler som tilbyr karriereveilederutdanninger. Den første oppgaven i nettverket var å beskrive veilederutdanningene i landene for å sammenligne dem, finne felles referansepunkter og muligheter for videre utvikling, basert på forskning, praksis og politiske styringssignaler. Utdanningstilbudene i hvert land ble beskrevet og deretter analysert med utgangspunkt i anbefalinger om og begrunnelser for nødvendig karriereveilederkompetanse fra NICE.<sup>1</sup> Gjennomgangen viser at det var stor variasjon mellom de nordiske landene når det gjelder utdanningenes innhold, nivå og varighet, og til krav om kompetanse hos karriereveiledere. De fleste utdanningstilbudene var på nivå 7 i det nasjonale kvalifikasjonsrammeverket, det vil si på diplom- eller mastergradsnivå.<sup>2</sup> Dette begrunnes med at det må kunne stilles høye krav om profesjonell yrkesutøvelse til karriereveiledere.
 
-E-veiledning
+<sup>1</sup> NICE (2012)
 
-Informasjon og selvhjelpsressurser på nettsted
+<sup>2</sup> Kunnskapsdepartementet: Nasjonalt kvalifikasjonsrammeverk for livslang læring
 
-Figur 5.1 Et helhetlig karriereveiledningstilbud
-En del av befolkningen vil sannsynligvis aldri ta i bruk eller oppsøke karriereveiledning, verken fysisk eller på nett (lyst felt). Av de
-som har behov for karriereveiledning, vil det variere hvilken tjeneste de først oppsøker (de grønne pilene). Noen trenger først og
-fremst informasjon og vil finne det de trenger på nettstedet. Der ligger det også ulike selvhjelpsressurser og en del vil få tilfredsstilt
-sine behov ved å bruke disse. Andre vil ha behov for kontakt med en karriereveileder. For noen vil det være tilstrekkelig og kanskje
-også ønskelig å møte veilederen på nett via e-veiledning. Andre vil ha behov for å møte en veileder ansikt-til-ansikt. Det å ta et valg
-er en prosess. Noen vil derfor ha behov for å benytte seg av flere tjenester, enten samtidig eller på ulike tidspunkt (slik de sorte
-pilene illustrerer), alt etter hvilken fase i valgprosessen man er i. Det er brukeren selv som vurderer hva han eller hun har behov
-for og oppsøker tjenestene deretter.
+**\[Boks slutt\]**
 
-bakgrunn av dette anbefaler forfatterne at de
-ulike delene i et helhetlig karriereveiledningssystem bør inngå i en integrert modell, hvor brukerne til enhver tid kan benytte seg av den veiledningsressursen de trenger. Utvalget legger til
-grunn at karriereveiledning også dreier seg om
-læring og utvikling, og at det derfor er viktig at
-brukerne har tilgang til ulike tjenester og kanaler
-som stimulerer lærings- og utviklingsprosessen.
-ELGPN har også pekt på karriereveiledningens plass i relasjon til strategier for livslang
-læring, det vi i Norge gjerne omtaler som kompetansepolitikk:
-Lifelong guidance is a key component to
-lifelong learning strategies – nationally, regionally, and locally, as well as at EU level. In a
-knowledge-based society […], a coherent allage guidance system for all citizens with builtin progression throughout the life-span, is
-pivotal to the success of these strategies.6
-Et helhetlig system krever for det tredje at alle
-delene i systemet er sett i sammenheng. Dette handler om at tjenestene ikke skal eksistere hver for
-6
+1.  **NICE – veilederkompetanse og utdanningstilbud**
 
-ELGPN (2012)
+Det europeiske akademiske nettverket NICE[^85], bestående av omlag 40 høyere utdanningsinstitusjoner i 28 europeiske land, har sett på ulike roller, funksjoner og oppgaver som karriereveiledere har eller bør ha i dagens Europa. Nettverket er delvis finansiert av EUs program for livslang læring.
 
-seg, helt adskilt fra hverandre, men at de skal
-henge sammen og bygge på hverandre, og at styring og organisering av karriereveiledningsfeltet
-må ses i sammenheng med den større kompetansepolitikken. De ulike tilbyderne av karriereveiledning skal heller ikke gjøre dobbeltarbeid, ikke
-dra i hver sin retning og ikke styres i den enkelte
-sektor/etat uten mekanismer for koordinering og
-samarbeid på tvers. De skal sammen fremstå som
-ett helhetlig, men differensiert tilbud for befolkningen. Det er dette OECD i sine anbefalinger til
-Norge kaller a comprehensive system med en whole
-of government approach.7
-I utvalgets delrapport ble figur 5.1 benyttet for
-å illustrere hvordan ulike deler av et tilbud til
-sammen kan møte befolkningens behov.
-Kvalitet og profesjonalitet er det fjerde elementet som må på plass for at et system skal være helhetlig. Dersom for eksempel utdanningstilbudet
-for karriereveiledere ikke er sett i sammenheng
-med hvilke karriereveiledningstjenester befolkningen skal motta, eller dersom staten utvikler
-kompetansekrav til veilederne uten en politikk for
-7
+NICE beskriver i sine håndbøker[^86] standarder for
 
-ELGPN- European Lifelong Guidance Policy Network
-(2014a): The Evidence Base on Lifelong Guidance. A Guide
-to Key Findings for Effective Policy and Practice. ELGPN
-Tools No. 3. Jyväskylä: ELGPN, side 17
+- ulike arbeidsområder og oppgaver profesjonelle karriereveiledere har
 
-[Side 31]
+- nødvendige kjernekompetanser basert på oppgavene
 
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
+- en rammeplan for utdanning av karriereveiledere, basert på kjernekompetansene
 
-hvordan veilederne skal oppnå den påkrevde
-kompetansen, er systemet verken helhetlig eller
-effektivt. Heller ikke blir det et helhetlig system
-dersom ulike sektormyndigheter mangler en felles forståelse av hensikten/målsetningen med veiledning.
+I følge NICE sine anbefalinger skal veilederne ha formell utdanning og deres yrkesidentitet være knyttet til karriereveileder-profesjonen der karriereveiledning gis som en spesialisttjeneste. Men mange steder gis karriereveiledning av såkalte subspesialister, som har en annen hovedrolle og yrkesidentitet enn karriereveileder. De har ofte fått oppgaven med utgangspunkt i sin generelle kompetanse eller erfaringsgrunnlag som regnes som relevant for veilederfunksjonen.[^87] Eksempler på dette i Norge er veiledere i NAV, som primært er saksbehandlere, og skolerådgivere, som primært er lærere. Utfordringen med det er ofte nedprioritering av karriereveiledningsoppgaver i en presset arbeidssituasjon, og at synligheten av og tilgangen til veiledningstjenestene kan bli begrenset for brukerne. I tillegg kan det være vanskelig for beslutningsmyndigheter og politikkutformere å få oversikt over omfang og betydningen av karriereveiledningstjenestene.
 
-5.1.1
-
-Et helhetlig system i et europeisk
-perspektiv
-
-Bedre systemer for livslang karriereveiledning
-har siden 2004 også vært på dagsordenen innenfor EU. To EU-resolusjoner i 20048 og 20089 peker
-på betydningen av karriereveiledning og knytter
-såkalt «lifelong guidance» både til livslang læring,
-innbyggernes deltakelse i og kontinuerlig tilpasning til et arbeidsmarked i rask endring, og til
-sosial inkludering. Prioriteringene i resolusjonen
-fra 2008 er gitt med det formål å sikre effekten av
-tjenestene, både for individer og på samfunnsnivå,
-og de prioriterte områdene handler altså både om
-å definere formål og innhold i tjenestene, å sikre
-tilgang, kvalitetssikring, og om å sikre koordinering og samarbeid på tvers av sektorer.
-Med bakgrunn i disse prioriteringene har
-ELGPN arbeidet med å sammenstille erfaring,
-konkretisere innhold og tiltak og lage ressurser
-som medlemslandene kan dra nytte av i utviklingen av karriereveiledningstjenestene.10 Den siste
-utgivelsen kom i 2015 med Guidelines for Policies
-and Systems Development for Lifelong Guidance.11
-Retningslinjene, eller «reference framework» som
-de kalles i undertittelen, er delt inn i retningslinjer
-for karriereveiledningen som foregår i den
-enkelte sektor/for spesifikke målgrupper (utdanning og opplæring, arbeidsliv og senior arbeidstakere, utsatte grupper), og retningslinjer som er
-tverrgående eller sektorovergripende. De siste
-fokuserer blant annet på kvalitet, strategisk
-ledelse, koordinering og samarbeid og veiledernes kvalifikasjoner og utdanningstilbud. Dokumentet viser en tenkning som stemmer godt overens med utvalgets syn på utviklingen av et helhetlig system for livslang karriereveiledning i norsk
-sammenheng. For at systemet skal fungere,
-dekke alle målgrupper og ha effekt, må både for8
-
-EU (2004).
-EU (2008)
-10
-European Lifelong Guidance Policy Network (ELGPN) ble
-opprettet i 2007 og avsluttet sitt arbeid ved utgangen av
-2015. ELGPN har i denne perioden støttet EUs medlemsland og Europa-kommisjonen i utviklingen av europeisk
-samarbeid på karriereveiledningsfeltet både innen utdannings- og arbeidsmarkedssektoren.
-11
-ELGPN (2015)
-
-29
-
-Kapittel 5
-
-mål, tilgang, kvalitet og koordinering være på
-plass.
-
-5.2
-
-Kvalitet og profesjonalitet
-i karriereveiledningstjenestene
-
-Utvalget er bedt om å utrede økt kvalitet og profesjonalitet i tjenestene. Utvalget mener at kvalitet
-og profesjonalitet er sentrale sider ved et helhetlig
-system for livslang karriereveiledning. I det følgende vil vi gå dypere inn i utfordringer og anbefalinger knyttet til dette.
-
-5.2.1
-
-Offentlig satsing på kvalitet og
-profesjonalitet fram til i dag
-I sin kartlegging og vurdering av karriereveiledningstjenestene i Norge i 2002, pekte OECD på en
-rekke mangler og utfordringer når det gjaldt kvalitet og profesjonalitet i det norske systemet.12 Karriereveiledningen hadde en svak profesjonalisering sammenlignet med de andre nordiske landene.
-– Ingen systematisk og tverrsektoriell utdanning
-av veilederne.
-– Utdanningstilbud eksisterte i liten grad.
-– Ingen krav til formell utdanning, utover at rådgiverne i skolen måtte være lærere.
-– Ingen krav til kompetanse innen karriereveiledning.
-– Ingen ordentlig tverrsektoriell profesjonsorganisasjon.
-– Mer fokus på informasjon enn veiledning.
-Tjenestene var dessuten fragmentert, manglet
-koordinering og strategisk utvikling. OECD
-understreket nødvendigheten av at landene etablerte systemer for livslang karriereveiledning,
-som del av sine strategier for livslang læring og en
-aktiv arbeidsmarkedspolitikk.13
-Disse og andre påpekninger og anbefalinger
-fra samme kartlegging satte ganske raskt fart i
-arbeidet med å utvikle karriereveiledingstjenestene i Norge. Flere stortingsmeldinger tok i
-årene som fulgte opp karriereveiledning som
-tema.14 Fylkesvise partnerskap for karriereveiledning og karrieresentre for voksne ble etablert
-
-9
-
-12
-13
-14
-
-OECD (2002): Review of Career Guidance Polices. Country
-Note: Norway. Paris: OECD
-OECD (2003): OECD Education Policy Analysis. Paris:
-OECD
-St.meld. nr. 30 (2003–2004): Kultur for læring, St.meld. nr.
-16 (2006–2007): … og ingen stod igjen, St.meld. nr. 44
-(2008–2009): Utdanningslinja
-
-[Side 32]
-
-30
-
-Kapittel 5
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-som et resultat av dette. Partnerskap for karriereveiledning skulle blant annet bidra til bedre og
-mer helhetlig karriereveiledning for alle grupper.
-Det skulle også gjøre det enklere å finne fram i tilbudet om veiledning, styrke den regionale koordineringen av karriereveiledning, samarbeidet om
-karriereveiledning som virkemiddel inn mot
-arbeidslivet og arbeidsmarkedspolitikken.15
-I 2009 kom forskrift til opplæringsloven som
-presiserte to former for rådgivning samt innholdet i rådgivningen. Samme år utarbeidet Utdanningsdirektoratet «Anbefalt formell kompetanse
-og veiledende kompetansekriterier for rådgivere».16 Utviklingen av utdanningstilbudet for rådgivere ble midlertidig styrket ved en satsing på
-videreutdanning i rådgivning gjennom ordningen
-«Kompetanse for kvalitet». I 2014 ble det etablert
-en mastergrad i karriereveiledning ved Høgskolen i Buskerud og Vestfold og Høgskolen i Lillehammer.17
-Også i NAV har det de siste årene foregått en
-økt satsing på kompetanseutvikling innenfor veiledning. Gjennom samarbeidsavtaler mellom NAV
-fylke og universiteter og høyskoler i de aller fleste
-fylker, har NAV inngått samarbeid om videreutdanningstilbud innen relevante områder.
-St.meld. nr. 16 (2006–2007) ...og ingen sto igjen
-lanserte flere tiltak for å styrke karriereveiledningstjenestene.18 En slik styrking ble også vist til
-i St.meld. nr. 9 (2006–2007) Arbeid, velferd og
-inkludering.19 Som en oppfølging fikk Vox, nasjonalt fagorgan for kompetansepolitikk i 2010 i oppdrag å etablere en nasjonal koordinerende enhet
-for karriereveiledning som en del av sin organisasjon. Enheten fikk blant annet i oppdrag å bidra til
-økt kvalitet og profesjonalitet på karriereveiledningsfeltet. Se omtale i kapittel 5.4.1.
-Utviklingen har kommet et stykke på vei, men
-flere evalueringer og involverte aktører peker på
-at det fortsatt er en god del som gjenstår før karriereveiledningen i alle sektorer er tilstrekkelig profesjonell og av høy kvalitet. Utvalget vil senere i
-kapitlet komme med anbefalinger for å styrke kvalitet og profesjonalitet i systemet.
-15
-
-Oppfølgingen av partnerskap for karriereveiledning var de
-første årene lagt til Utdanningsdirektoratet. Da Nasjonal
-enhet for karriereveiledning ble opprettet i 2011 og lagt til
-Vox, nasjonalt fagorgan for kompetansepolitikk, ble ansvaret for utviklingen og oppfølgingen av partnerskap og karrieresentre lagt til Vox.
-16
-Utdanningsdirektoratet: Anbefalt formell kompetanse og
-veiledende kompetansekriterier for rådgivere
-17 Høgskolen i Buskerud og Vestfold er fra 1. januar 2016 en
-del av Høgskolen i Sørøst-Norge (HSN)
-18
-St.meld. nr. 16 (2006–2007): … og ingen stod igjen
-19
-St.meld. nr. 9 (2006-2007): Arbeid, velferd og inkludering
-
-5.2.2
-
-Hva innebærer høy kvalitet innen
-karriereveiledning?
-
-Blant annet basert på Cedefop (European Centre
-for the Development of Vocational Training) sine
-kvalitetsdefinisjoner, har ELGPN følgende definisjon av kvalitetssikring i karriereveiledningssammenheng:20
-Activities involving planning, implementation,
-evaluation, reporting, and quality improvement, implemented to ensure that guidance
-activities (content of programmes, design,
-assessment and validation of outcomes etc.)
-meet the quality requirements expected by stakeholders.21
-Kvalitet handler altså om hva som skal til for å
-sikre at karriereveiledningen møter de behovene
-og bidrar til de målene som den er ment å bidra
-til. ELGPNs definisjon av kvalitetssikring peker på
-at dette handler både om innhold i tilbudene,
-utforming av tjenestene og om vurdering og
-verdsetting av utbytte. I rapporten Lifelong
-Guidance Policy Development: A European
-Resource Kit blir fem kvalitetselementer fremhevet som sentrale i et nasjonalt system for livslang
-karriereveiledning: 1) kompetansen til karriereveilederne, 2) innbygger/brukermedvirkning, 3)
-systematisk tjenesteutvikling, 4) kost-nytte for
-samfunnet og 5) kost-nytte for individer.22 Elementene blir presentert i en matrise som skal vise
-hvordan situasjonen er når et elementet ikke har
-den nødvendige kvaliteten, og hva som kjennetegner en situasjon der kvaliteten er tilfredsstillende
-(se figur 5.2):
-Kvalitetselement 1 er knyttet til kompetansen
-til de som utøver karriereveiledning. ELGPN
-anbefaler at man her etablerer en regulering i
-form av lisens for eller sertifisering av veilederne.
-Kvalitetselement 2 er relatert til brukerinvolvering. I beskrivelsen av den ønskede tilstanden
-anbefaler ELGPN velorganisert kvalitetssikring
-og et evidensbasert system som involverer brukerne i utformingen og utviklingen av tjenestene.
-Kvalitetselement 3 er knyttet til behovet for en
-kontinuerlig og systematisk kvalitetsutvikling.
-ELGPN anbefaler at dette knyttes til befolkningens
-muligheter for å tilegne seg karrierekompetanser.
-20
-
-21
-22
-
-Cedefop, European Centre for the Development of Vocational Training (2011): Glossary: Quality in education and training
-ELGPN (2014b)
-ELGPN (2012), side 52
-
-[Side 33]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-31
-
-Kapittel 5
-
-Quality element 1: Practitioner competence
-
-Ad hoc arrangements not framed by policy
-
-▶▶▶▶▶
-
-Highly regulated ‘register‘ or
-‘licence to practice’ arrangements
-
-▶▶▶▶▶
-
-Highly organised quality assurance and
-evidence-based systems that involve users
-actively in the design and development of
-services
-
-▶▶▶▶▶
-
-Total quality management system in place that
-also captures data on career management
-skills, levels of investments and
-
-▶▶▶▶▶
-
-Immediate, medium and long-term calculated savings to the public purse in the form of
-economic and/or social returns on investments
-(SROI)
-
-▶▶▶▶▶
-
-Evidence of ongoing longitudinal tracking and
-studies that measure the impact og differing
-careers interventions in differing settings
-
-Quality element 2: Citizen/user involvement
-
-Fragmented and/or ‘one-of’ user satification surveys
-
-Quality element 3: Service provision and improvement
-Absence of a career management skills framework,
-linked to access to services by key priority groups
-Quality element 4: Cost-benefits to governments
-
-No information held on cost-benefits to gorvernments
-
-Quality element 5: Cost-benefits to individuals
-Limited information on added-value returns as a result of
-individuals participating in careers services
-
-Figur 5.2 ELGPNs kvalitetselementer
-Kilde: ELGPN (2014b)
-
-Kvalitetselement 4 er knyttet til samfunnsøkonomisk nytte, eller effekt av karriereveiledning.
-ELGPN anbefaler her at det undersøkes effekter
-både på kort og lengre sikt av forskjellige tiltak
-innen karriereveiledning for ulike deler av befolkningen.
-Kvalitetselement 5 er også knyttet til effekt,
-men i denne sammenhengen effekten karriereveiledning kan ha for individet. For de to siste kvalitetselementene er det viktig at disse sees i sammenheng med hvilke målsetninger man har for
-karriereveiledningen.
-Oppsummert kan man si at ELGPN sine anbefalinger når det gjelder kvalitet, fremhever betydningen av en helhetlig strategi for karriereveiledning som tydeliggjør sammenhengen mellom
-hvilke utfordringer tjenestene skal bidra til å løse,
-hvordan dette kommer til uttrykk som målsetninger og faktiske tjenester, og hvordan både samfunnet og den enkelte borger kan dra nytte av tjenestene. I alle leddene, fra strategisk planlegging
-til evaluering, vektlegges involvering av brukerne
-av tjenestene.
-NICE (Network for Innovation in Career
-Guidance and Counselling in Europe) har siden
-2009 arbeidet med spørsmål knyttet til profesjonalisering og karriereveilederes kompetanse, med
-
-spesielt fokus på utvikling av utdanningstilbud.
-NICE beskriver tre ulike nivåer som influerer kvaliteten i karriereveiledningstjenestene på ulikt
-vis:23
-– Det sosiopolitiske nivået, som omhandler utforming av lovverk og systemer som påvirker kvaliteten. Eksempler er definisjon og bruk av
-nasjonale eller lokale standarder, for eksempel
-for veiledernes kompetanse, bruk av kvalitetssystemer og sammenheng mellom de ulike
-sektorene for eksempel når det gjelder hvordan tjenestene er designet, koordinert og hvordan de samarbeider.
-– Det organisatoriske nivået, som blant annet
-omhandler etablering av kvalitetssystemer,
-involvering av brukere i utforming og evaluering, tilgjengelige ressurser (for eksempel digitale verktøy og oppdatert informasjon), effektive organisasjonsstrukturer og prosedyrer og
-organisasjonskultur.
-– Praksisnivået, som dreier seg om praktikernes
-(veiledernes) kompetanse og profesjonalitet,
-23
-
-NICE – Network for Innovation in Career Guidance and
-Counselling in Europe (2012): Handbook for the academic
-training of career guidance and counselling professionals.
-Heidelberg: Heidelberg University
-
-[Side 34]
-
-32
-
-NOU 2016: 7
-
-Kapittel 5
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-inkludert både profesjonell adferd og verdier,
-bruk av adekvat metodikk og oppdatert kunnskap. I følge NICE er dette den enkeltfaktoren
-som har størst innflytelse på kvaliteten
-NICE understreker at alle tre nivåer må få oppmerksomhet for å sikre karriereveiledningstjenester av høy kvalitet:
-All of these levels need to be taken into consideration to ensure high-quality CGC [Career
-Guidance and Counselling] services. Under
-adverse circumstances (e.g. lack of resources),
-even the most professional CGC practitioners
-cannot provide high-quality services. Likewise,
-even with the best quality assurance measures,
-unqualified and under-qualified practitioners
-won’t be able to deliver high-quality services.24
-Buland m.fl. beskriver en tredelt forståelse av kvalitetsbegrepet. Tredelingen er i tråd med den
-erkjennelsen som ELGPN legger til grunn i sin
-definisjon av kvalitetssikring, nemlig at kvalitet
-har både med ytre forutsetninger, indre aktiviteter
-og utbytte å gjøre. Den inkluderer også alle elementene som NICE peker på. Denne tredelingen
-av kvalitetsbegrepet gjør det også tydelig at kvalitet dreier seg om alle elementer i et helhetlig system. Samtidig får den frem at det er et komplekst
-forhold mellom de ulike elementene i god kvalitet:
-– Strukturkvalitet: karriereveiledningens ytre
-forutsetninger som organisasjon og ressurser,
-forstått i bred forstand. Her retter man fokus på
-de ytre rammefaktorene for karriereveiledning, herunder gjeldende lovverk, nasjonale og
-lokale retningslinjer og rammeverk, og andre
-styringsdokumenter.
-– Prosesskvalitet: karriereveiledningens indre
-aktiviteter, selve arbeidet med veiledning, og
-kvaliteten i relasjoner og prosesser.
-– Resultatkvalitet: det man ønsker å oppnå med
-karriereveiledningen.25
-Struktur- og prosesskvalitet er her forutsetninger
-for oppnåelse av resultatkvalitet. En forutsetning
-for å kunne vurdere om resultatkvalitet er oppnådd, er tydelig artikulerte mål. Som vi har sett i
-kapittel 4, legger utvalget tre spesifikke mål til
-grunn i et livslangt perspektiv: utdanningsmål,
-
-arbeidsmarkedsmål og sosial inkluderingsmål.
-Utvalget mener det i norsk sammenheng er behov
-for både strukturelle og prosessuelle tiltak for å
-nå disse målsetningene og oppnå høy resultatkvalitet. Utvalget kommer med anbefalinger knyttet
-til kvalitet i kapitlene 5.6 og 5.7.
-
-5.2.3
-Profesjonalitet og profesjonalisering
-En profesjonell karriereveileder blir i NICE-nettverkets håndbok fra 2012 beskrevet som en karriereveileder som kan agere ut fra profesjonelle verdier og etiske retningslinjer i sin praksis, utvikle
-hensiktsmessige og gode relasjoner, er engasjert i
-faglig utvikling og kritisk tenkning, og er talsperson for sin profesjon.26 En karriereveileder må
-agere både som underviser, ekspert, veileder,
-leder og endringsagent på det karrierefaglige
-området. Veilederen må være profesjonell, også
-for å kunne regulere sitt arbeid og samarbeide
-med andre.
-Profesjonalitet i karriereveiledning forutsetter
-at tjenestene ivaretas av personer som har tilstrekkelig fagkompetanse. Karrierefaglig utdanning
-styrker veilederens faglige profil og hever nivået
-på veiledningen, slik at han eller hun bedre kan
-møte den veiledningssøkendes behov og forventninger fra beslutningstakere. Kompetanseheving
-gjennom formell utdanning og kvalifisering som
-karriereveileder, er grunnlaget for profesjonalitet
-i veiledningen.
-Karriereveileder er ikke en beskyttet tittel i
-Norge, og vi kan per i dag ikke snakke om en
-egen karriereveilederprofesjon. Profesjoner kan
-være kjennetegnet ved spesialiserte utdanninger
-og en egen kunnskapsbase. Ofte har lignende profesjoner også egne etiske retningslinjer. De siste
-tiårene har stadig flere fagområder utviklet profesjonslignende trekk som ledd i sin etablering, så
-også karriereveiledningsfeltet.27 Nyere definisjoner av profesjon tar utgangspunkt i «kunnskapsbaserte grupper» der profesjonen utgjør yrker
-som gir adgang til den høyeste vitenskapsbaserte
-kunnskapen innen et visst område.28 Det gir legitimitet og autoritet. Innenfor en profesjon må
-kompetanse- og utdanningskrav være oppfylt for å
-kunne arbeide i yrket og bruke yrkestittelen.
-26
-27
-
-24
-25
-
-NICE (2012), side 21
-Buland, T., I. H. Mathiesen og S. Mordal (2014): Æ skjønne
-itj, æ våkne opp kvar dag å vil bli nå nytt æ». Skolens rådgivning i Møre og Romsdal, Sør-Trøndelag og Nord-Trøndelag.
-Trondheim, NTNU. Program for livslang læring, side 29
-
-28
-
-NICE (2012)
-Nerland, M. (2011): Karriereveiledning – et felt under profesjonalisering, I Gaarder, I. E. og T. F. Gravås (red.)
-(2011): Karriereveiledning. Oslo. Universitetsforlaget
-Brante, T. (2011): Professions as science-based occupations. I
-Professions and Professionalism, Vol.1, No.1 (2011), side 420
-
-[Side 35]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Veien til profesjonsorganisering går gjennom
-profesjonalisering av karriereveiledernes yrkesutøvelse og av tjenestene som er tilgjengelige. Karriereveiledning er et interdisiplinært fagfelt med en
-kunnskapsbase fra blant annet psykologi, pedagogikk og sosiologi. Kunnskapsbasen som danner
-grunnlaget for den profesjonelle karriereveileders
-yrkesutøvelse må defineres ut fra de oppgavene
-veilederen skal utføre. Kunnskapsbasen vil danne
-grunnlaget for beskrivelse av veilederkompetanse. Det vil være ett av flere skritt mot profesjonsorganisering av karriereveiledere.
-Enkelte har ment at karriereveiledningen i
-Norge ikke er profesjonell nok, at karriereveilederne har ingen eller liten formell kompetanse
-gjennom spesifikk karriereveilederutdanning. Det
-er nok mer riktig å si at graden av profesjonalitet
-og profesjonalisering varierer, både mellom sektorer, mellom fylker og mellom de enkelte karriereveilederne. Når det ikke stilles krav eller det stilles vage krav til formell kompetanse, svekker det
-grunnlaget for utvikling av profesjonalitet i veiledningen og profesjonsidentitet hos veilederne.
-
-5.2.4
-Etiske retningslinjer
-Profesjonalisering av et felt karakteriseres ifølge
-profesjonsforskeren Monica Nerland blant annet
-av «en felles etisk overbygning og et kollektivt sett
-av verdier som klargjør profesjonens samfunnsmandat og gir retningslinjer for arbeidet».29 I
-følge Nerland beskrives profesjoner ofte som
-kunnskapsbaserte yrker der profesjonen selv definerer og sikrer kvaliteten av tjenestene. Ett av
-kjennetegnene ved profesjoner, er at de «kontrollerer og sikrer kvaliteten på yrkesutøvelsen gjennom egne standarder og retningslinjer for praksis».30 Vi kan altså si at profesjonalitet forutsetter
-en etisk kodeks. I noen profesjoner er det slik at
-først ved å slutte seg til de etiske reglene, får man
-adgang til profesjonsutøvelsen, for eksempel gjennom autorisasjon.31 I norsk sammenheng, der
-karriereveiledning ikke kan defineres som en
-egen profesjon, er det ofte mer snakk om at den
-etiske kodeksen er selvpålagt, dersom den i det
-hele tatt er formulert.
-Der det finnes profesjoner eller profesjonslignende grupper, synes den vanligste praksisen å
-være at etiske retningslinjer utvikles og forvaltes
-av en profesjonsorganisasjon eller fagforeninger. I
-boken Vejledning ansigt til ansigt, blir betydningen
-29
-
-Nerland (2011), side 182
-Nerland (2011), side 183
-31
-Nerland (2011), side 71
-30
-
-33
-
-Kapittel 5
-
-av at fagmiljøet selv er involvert i utviklingen av
-etiske retningslinjer fremhevet.
-[…] et af kendetegnene på høj professionaliseringsgrad, er at der er utarbejdet etiske regler
-for profesionsutøvelsen, og at disse regler er
-utarbejdet af og opretholdes af profesionens
-egne organer. De fungerer som ideal for, hvad
-vejledere skal bestræbe sig på i deres daglige
-arbejde og de tjener til regulering af vejlederfellesskabet.32
-Etiske retningslinjer for karriereveiledning skal
-blant annet ivareta alle som oppsøker karriereveiledning og gi støtte til karriereveiledere i etisk
-utfordrende situasjoner. De skal også bidra til systematisk etisk refleksjon i fagmiljøene, som kan
-vedlikeholde og styrke den etiske kompetansen
-hos veilederne. Mathisen og Kristiansen skriver
-at «Etiske retningslinjer kan bidra til å bringe veilederen bort fra en praksis preget av intuisjon og ureflekterte praksiserfaringer, til mer bevisste, etiske
-overveielser».33 Å oppsøke og motta veiledning
-hos en fra før ukjent karriereveileder, er en modig
-handling for mange. I slike situasjoner kan man si
-at det eksisterer en slags uformell kontrakt mellom den veiledningssøkende og veilederen. Å veilede har etiske implikasjoner for veilederen, fordi
-veiledningen vil kunne ha konsekvenser for den
-veiledningssøkende. En etisk plattform, for
-eksempel etiske retningslinjer, kan bidra til å
-styrke tilliten mellom karriereveilederen og den
-veiledningssøkende, og tydeliggjøre innholdet i
-den uformelle kontrakten dem imellom. Etisk
-kompetanse har nær sammenheng med rolleforståelse, som som regel er et hovedtema i etiske
-retningslinjer og regler.34
-Det finnes per i dag tre sett av etiske retningslinjer for karriereveiledning i norsk sammenheng,
-alle tre er knyttet til veiledningen i en begrenset
-del av feltet. Disse er utviklet av Rådgiverforum
-Norge, Karriereforum for høyere utdanning og
-Vox, og gjelder for medlemmene av Rådgiverforum, karriereveiledere i henholdsvis høyere
-utdanning og de fylkesvise karrieresentrene.35
-Det finnes også generelle etiske retningslinjer
-32
-
-33
-
-34
-
-Løve, T. (2005): Vejledning ansigt til ansigt: teorier og metoder i den individuelle vejledning. Fredensborg. Studie og
-erhverv, side 209
-Mathisen, P. og A. Kristiansen. (2005): Etiske retningslinjer
-i profesjonelle veiledningsforhold. Norsk pedagogisk Tidsskrift nr. 3, 2005, side 226
-Gravås, T. (2011): Karriereveiledning og etikk. I Gaarder I.
-E. og T. F. Gravås (2011): Karriereveiledning. Oslo. Universitetsforlaget
-
-[Side 36]
-
-34
-
-Kapittel 5
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Boks 5.1 Eksempler på etiske retningslinjer
-rieresentrene etablert. Utviklingen av retningsRådgiverforum Norge etablerte sitt første sett
-linjene ble gjennomført av en arbeidsgruppe
-med etiske retningslinjer allerede i 1997. Retbestående av representanter for karrieresentre
-ningslinjene har vært oppdatert flere ganger, og
-og partnerskap på fylkesnivå og fageksperter på
-sist i 2010. Rådgiverforums retningslinjer er i
-etikk, utviklingen ble ledet av Vox. I likhet med
-stor grad sammenfallende med IAEVGs Ethical
-1
-Karriereforums retningslinjer, omfatter disse
-standards. IAEVG er en internasjonal paraplyorretningslinjene et begrenset område av arbeidet,
-ganisasjon for karriereveiledere og karriereveiog tar ikke mål av seg til å utgjøre en helhetlig
-ledningstilbydere. Rådgiverforums retningslinprofesjonsetikk. Hensikten med retningslinjene
-jer framstår langt på vei som en profesjonsetikk
-er at de skal ivareta alle som oppsøker karrieresom omfatter alt arbeidet en rådgiver/karriereveiledning, gi støtte til karriereveiledere i etisk
-veileder utfører. De etiske retningslinjene har
-utfordrende situasjoner, og bidra til systematisk
-som målsetting å gi:
-etisk refleksjon ved karrieresentrene. Tilslut– støtte og trygghet for elever og foresatte
-ning til retningslinjene er frivillig, men Vox har
-– støtte for rådgiver i veiledningsarbeidet
-oppfordret alle de fylkesvise karrieresentrene til
-– støtte i samarbeidet mellom rådgiver og
-å ta retningslinjene i bruk og tilslutte seg dem.
-andre yrkesgrupper/etater
-Internasjonalt finnes det en rekke sett av
-Karriereforum i høyere utdannings Etiske retetiske retningslinjer for karriereveiledning. De
-ningslinjer for karriereveiledning ble vedtatt i
-mest overgripende retningslinjene er utviklet av
-2009. Retningslinjene ble utarbeidet med
-den internasjonale profesjonsorganisasjonen
-utgangspunkt i karriereveiledningssamtalen, og
-IAEVG. IAEVGs retningslinjer er forankret i
-har fokus på ivaretakelse av den veiledningssøorganisasjonens «mission statement», og er en
-kende. Retningslinjene har imidlertid et mer
-relativt omfattende profesjonsetikk. De er ment
-avgrenset fokusområde enn Rådgiverforums
-å kunne tilpasses til ulike kulturelle og profesjoretningslinjer har, og framstår ikke på samme
-nelle kontekster. Et annet, mindre omfangsrikt,
-måte som en profesjonsetikk som berører alt
-men tverrsektorielt sett etiske retningslinjer, er
-arbeid de ansatte i karrieretjenestene i universiCareer Development Institutes Code of Ethics.2
-tets- og høyskolesektoren utfører. Det er karrieCareer Development Institute er en tverrssektoretjenesten ved den enkelte institusjonen som er
-riell profesjonsorganisasjon for karriereveilemedlem av organisasjonen, og medlemskap
-dere i Storbritannia. Retningslinjene uttrykker
-innebærer å tilslutte seg de felles etiske rethva slags profesjonalitet og atferd som forventes
-ningslinjene. Karriereveiledere ansatt hos en av
-av organisasjonens medlemmer, og skal også
-Karriereforums medlemmer er forpliktet av de
-fungere som informasjon til publikum.
-etiske retningslinjene.
-1
-IAEVG Ethical Standards
-I 2016 ble felles etiske retningslinjer for kar2
-Career Development Institute: Code of Ethics
-riereveiledningssamtalene ved de fylkesvise kar-
-
-som noen av dem som jobber med karriereveiledning er underlagt, for eksempel Utdanningsforbundets etiske plattform for lærerprofesjonen, og
-etiske retningslinjer for statstjenesten som gjelder
-for NAV-ansatte.36 Verken i NAV eller attførings-
-
-bransjen finnes det etiske retningslinjer for karriereveiledningen. I boks 5.1 blir de tre norske settene med retningslinjer for karriereveiledning,
-samt et par internasjonale eksempler, omtalt.
-
-[Side 37]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-5.2.5
-
-Alle som tilsettes som rådgiver i skolen, bør ha
-en utdanning på minst bachelornivå.
-Utdanningen bør inneholde en rådgiverrelevant utdanning på minst 60 studiepoeng. 30
-studiepoeng eller mer av den rådgiverrelevante utdanningen bør dekke hovedoppgavene
-innen sosialpedagogisk rådgivning og/eller
-utdannings- og yrkesrådgivning som rådgiveren skal ha særlig ansvar for. Dette innebærer
-at det kan være ulikt innhold i rådgiverrelevant
-35
-
-utdanning for en sosialpedagogisk rådgiver og
-en utdannings- og yrkesrådgiver.
-I tillegg bør den som ansettes som rådgiver
-ha yrkeserfaring og kjennskap til skolen.
-
-Kompetansestandarder og
-utdanningstilbud
-
-Med ny kunnskap om karriereveiledning, sterke
-føringer om livslang læring og betydningen av
-karrierelæring, samt et arbeidsmarked i stadig
-endring, trenger karriereveiledere etter utvalgets
-mening høyere faglig kompetanse enn før for å gi
-karriereveiledning av høy kvalitet.
-Per dags dato stilles det i Norge ingen formelle krav om kompetanse eller utdanning for
-karriereveiledere. Utdanningsdirektoratet ga i
-2009 ut Anbefalt formell kompetanse og veiledende
-kompetansekriterier for rådgivere.37 Anbefalingene er kun knyttet til den rådgiving som rådgiveren utfører, og gjelder ikke lærere. Anbefalingene
-når det gjelder formell kompetanse er som følger:
-
-Rådgiverforum Norge: Etiske retningslinjer for veilederarbeidet, Forum for karriereservice i høyere utdanning:
-Etiske retningslinjer for karriereveiledning og Vox: Etiske
-retningslinjer for fylkesvise karrieresentre
-36
-Utdanningsforbundet: Lærerprofesjonens etiske plattform
-og Kommunal- og moderniseringsdepartementet: Etiske
-retningslinjer for statstjenesten
-37 Utdanningsdirektoratet: Anbefalt formell kompetanse og
-veiledende kompetansekriterier for rådgivere
-
-35
-
-Kapittel 5
-
-I 2009 vurderte utdanningsdirektoratet rådgivernes behov for spesifikk karrierefaglig kompetanse
-til å være minimum 30 studiepoeng, og at de i tillegg bør ha 30 studiepoeng i «rådgiverrelevant
-utdanning». Utdanningsdirektoratet vektla også at
-rådgiverne bør ha en (ikke spesifisert) bachelorutdanning, samt kjennskap til skolen og yrkeslivet. De veiledende kriteriene inneholder formuleringer om hva rådgiverne skal kunne utføre og
-ha av kunnskap, for eksempel om arbeidsmarkedet, men er etter utvalgets mening til for vage.
-Utvalget kjenner til at anbefalingene om formell
-kompetanse i en del fylker i dag benyttes som
-krav ved ansettelse av rådgivere. Det diskuteres
-likevel hvilken betydning retningslinjene har hatt
-for rådgiverne i skolen.
-I kjølvannet av OECDs rapport om karriereveiledning i Norge38 og delingen av funksjonene i
-rådgivningstjenesten, kom en rekke videreutdanningstilbud i rådgivning. De fleste var oppdragsstudier bestilt av skoleeier, og med fokus på
-utdannings- og yrkesrådgivning/karriereveiledning. Det ble gitt tilbud om rådgivningsstudier på
-inntil 60 studiepoeng under ordningen Kompetanse for kvalitet. Denne satsingen på rådgivningsstudier for rådgivere og lærere er imidlertid trappet betraktelig ned fra høsten 2016. Det er fortsatt
-opp til utdanningsinstitusjonene og oppdragsgivere å definere innhold i utdanningene.
-38
-
-OECD (2002)
-
-Boks 5.2 Tidligere rådgiverutdanning
-len og videregående opplæring.2 Planen var godDe første rådgiverne i den norske skolen ble
-ansatt i 1957. Tolv år senere fremmet Forsøkskjent av Kirke-, utdannings- og forskningsdeparrådet for skoleverket forslag om et ettårig stutementet. I 2009 kom Utdanningsdirektoratet
-dium for rådgivere, men det ble ikke igangsatt.
-med Anbefalt formell kompetanse og veiledende
-De største lærerorganisasjonene uttalte i 1975 at
-kompetansekriterier for rådgivere.3
-det ved tilsetting av rådgivere måtte «legges
-1
-Bergsholm, S.E., J. Brynhildsvoll, S. Eriksen og P. Petteravgjørende vekt på personlige egenskaper» og
-sen, (1988): Håndbok for skolerådgivere. Oslo: Universigis tilbud om «kompletterende utdanning» for
-tetsforlaget, side 20
-2
-dem som ble tilsatt.1 Kurs av kortere og lengre
-Lærerutdanningsrådet (1994): Rammeplan for rådgiving/
-sosialpedagogisk arbeid i grunnskolen og videregående oppvarighet ble arrangert for skolerådgivere i 1970læring. Oslo: Kirke-, utdannings- og forskningsdeparteog 80-årene. Mest kjent er 100 timers-kursene. I
-mentetet
-3
-1994 utga Lærerutdanningsrådet Rammeplan
-Utdanningsdirektoratet: Anbefalt formell kompetanse og
-veiledende kompetansekriterier for rådgivere
-for rådgiving/sosialpedagogisk arbeid i grunnsko-
-
-[Side 38]
-
-36
-
-NOU 2016: 7
-
-Kapittel 5
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Boks 5.3 VALA
-ser for nødvendig karriereveilederkompetanse
-Det nordiske nettverket VALA består av reprefra NICE.1 Gjennomgangen viser at det var stor
-sentanter fra flere nordiske og baltiske veilederutdanninger ved universitet og høgskoler i åtte
-variasjon mellom de nordiske landene når det
-land. Nettverket ble opprettet i 2012 og finansigjelder utdanningenes innhold, nivå og varighet,
-ert av Nordplus. Målet med nettverket er å
-og til krav om kompetanse hos karriereveilestyrke profesjonalitet og samarbeid mellom unidere. De fleste utdanningstilbudene var på nivå
-versiteter og høgskoler som tilbyr karriereveile7 i det nasjonale kvalifikasjonsrammeverket, det
-derutdanninger. Den første oppgaven i nettvervil si på diplom- eller mastergradsnivå.2 Dette
-ket var å beskrive veilederutdanningene i lanbegrunnes med at det må kunne stilles høye
-dene for å sammenligne dem, finne felles refekrav om profesjonell yrkesutøvelse til karriereransepunkter og muligheter for videre utvikling,
-veiledere.
-basert på forskning, praksis og politiske sty1
-NICE (2012)
-ringssignaler. Utdanningstilbudene i hvert land
-2
-Kunnskapsdepartementet: Nasjonalt kvalifikasjonsramble beskrevet og deretter analysert med
-meverk for livslang læring
-utgangspunkt i anbefalinger om og begrunnel-
-
-I 2012 ble utdanningstilbudet i karriereveiledning i Norge kartlagt.39 Utdanningstilbudet ble i
-rapporten vurdert å være fragmentert, med 51 tilbud ved 16 institusjoner. Mangel på en felles definisjon av faget gjør at utdanningene har ulikt innhold og organisering. Samtidig er det uklart hvilken kompetanse utdanningene skal gi og hva man
-kan forvente at en karriereveileder bør kunne.
-For å styrke utdanningstilbudet innen karriereveiledning ble det anbefalt å:
-– definere en standard for høyere utdanning i
-karriereveiledning
-– innføre obligatoriske kompetansekrav for karriereveiledere
-– etablere en utdanning i karriereveiledning på
-bachelor- og mastergradsnivå
-– vurdere innføring av insentiver for å få utdanningsinstitusjonene til å styrke utdanningstilbudet i karriereveiledning
-– samle utdanningstilbudet på færre institusjoner
-Siden videreutdanningstilbudene i stor grad har
-vært basert på oppdrag fra skoleeiere, var det få
-utdanningstilbud direkte rettet mot veiledere
-utenfor skolen, som veiledere i NAV og/eller attføringsbedriftene. De har likevel hatt mulighet til å
-delta på flere av videreutdanningene, som har
-vært åpne for flere enn de som oppdragsgiver
-melder på. NAV har også de siste årene også
-bestilt egne videreutdanningstilbud.
-39
-
-Damvad (2012): Et ønske om noe helt – ikke stykkevis og delt.
-En kartlegging av utdanningstilbudet i karriereveiledning i
-Norge
-
-NTNU har i lengre tid hatt et fulltids mastergradsprogam i rådgivningsvitenskap. Masterprogrammet i rådgivning er et toårig studieprogram
-på 120 studiepoeng. 60 studiepoeng består av
-emner innenfor rådgivningsteorier og -metoder.
-Undervisningen er både teoretisk og praktisk
-med grupperådgivning, systemorientert rådgivning og rådgivning i et praktisk perspektiv som
-viktige elementer.
-Høgskolen i Sørøst-Norge og Høgskolen i Lillehammer fikk i statsbudsjettet for 2014 i oppdrag
-å utvikle et mastergradsprogram i karriereveiledning. Masterprogrammet er en erfaringsbasert
-mastergrad på 120 studiepoeng som tilbys som
-deltidsstudium.
-Finland, Island og Sverige har nasjonale
-bestemmelser om hvilken kompetanse karriereveiledere i ulike sektorer skal ha og hva karriereveilederutdanningene skal inneholde. Felles i
-disse landene er at utdanningene er profesjonsutdanninger på bachelor- eller mastergradsnivå. Finland har differensiert utdanning etter i hvilken
-sektor veilederne skal arbeide.
-
-5.2.6
-
-NICE – veilederkompetanse og
-utdanningstilbud
-
-Det europeiske akademiske nettverket NICE40,
-bestående av omlag 40 høyere utdanningsinstitusjoner i 28 europeiske land, har sett på ulike roller,
-funksjoner og oppgaver som karriereveiledere
-40
-
-NICE – Network for Innovation in Career Guidance &
-Counselling in Europe
-
-[Side 39]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-har eller bør ha i dagens Europa. Nettverket er
-delvis finansiert av EUs program for livslang
-læring.
-NICE beskriver i sine håndbøker41 standarder
-for
-– ulike arbeidsområder og oppgaver profesjonelle karriereveiledere har
-– nødvendige kjernekompetanser basert på oppgavene
-– en rammeplan for utdanning av karriereveiledere, basert på kjernekompetansene
-I følge NICE sine anbefalinger skal veilederne ha
-formell utdanning og deres yrkesidentitet være
-knyttet til karriereveileder-profesjonen der karriereveiledning gis som en spesialisttjeneste. Men
-mange steder gis karriereveiledning av såkalte
-subspesialister, som har en annen hovedrolle og
-yrkesidentitet enn karriereveileder. De har ofte
-fått oppgaven med utgangspunkt i sin generelle
-kompetanse eller erfaringsgrunnlag som regnes
-som relevant for veilederfunksjonen.42 Eksempler
-på dette i Norge er veiledere i NAV, som primært
-er saksbehandlere, og skolerådgivere, som primært er lærere. Utfordringen med det er ofte nedprioritering av karriereveiledningsoppgaver i en
-presset arbeidssituasjon, og at synligheten av og
-tilgangen til veiledningstjenestene kan bli begrenset for brukerne. I tillegg kan det være vanskelig
-for beslutningsmyndigheter og politikkutformere
-å få oversikt over omfang og betydningen av karriereveiledningstjenestene.
 NICE-håndbøkene beskriver en tre-nivåtilnærming for å belyse karriereveilederes ulike oppgaver og profesjonstilknytninger, og hvilke kompetanser veilederne trenger på de ulike nivåene.
-‘Career Advisor’ bidrar med grunnleggende
-informasjon og hjelp i karriereorientering. De kan
-være lærere, saksbehandlere, sosialarbeidere,
-personalledere eller andre. Deres profesjonstilhørighet er en annen enn som veileder, og de arbeider oftest i førstelinjetjenester for karriereveiledning. De trenger grunnleggende kompetanse om
-karriereveiledning og må kunne gi informasjon og
-hjelp i karriereorientering, og kunne vurdere når
-en person har behov for profesjonell karriereveiledning. Deres oppgaver er først og fremst knyttet
-til et individs personlige kontekst (skole, arbeids41
 
-NICE (2012), NICE (2016) [NICE Handbook II]. Manuskript under publisering.
-42
-Cedefop (2009): Professionalising career guidance. Practitioner competences and qualification routes in Europe. Cedefop
-panorama series: 164. Luxemburg: Office for Official Publications of the European Communities
+*‘Career Advisor’* bidrar med grunnleggende informasjon og hjelp i karriereorientering. De kan være lærere, saksbehandlere, sosialarbeidere, personalledere eller andre. Deres profesjonstilhørighet er en annen enn som veileder, og de arbeider oftest i førstelinjetjenester for karriereveiledning. De trenger grunnleggende kompetanse om karriereveiledning og må kunne gi informasjon og hjelp i karriereorientering, og kunne vurdere når en person har behov for profesjonell karriereveiledning. Deres oppgaver er først og fremst knyttet til et individs personlige kontekst (skole, arbeidsplass og så videre) og generelle karriererelaterte utfordringer.
 
-37
+*‘Career Professional’* har veiledning av personer individuelt og i grupper som sin hovedoppgave, i tillegg til å tilby noen av tjenestene som ‘Career Advisor’ gjør. De har spesialkompetanse i karriereveiledning og veileder personer som står overfor komplekse valg, usikre situasjoner, kritiske overganger og så videre. De bruker veiledningsaktiviteter til å lære personer å bli mest mulig selvhjulpne i karriereorientering og valgprosesser. Deres profesjonstilknytning er veilederprofesjonen, og deres oppgaver handler om mer komplekse karriererelaterte utfordringer. De kan være karriereveiledere i skole, på arbeidsplass, ulike karrieresentre og så videre. Oppgavene deres kan være knyttet til karriereundervisning, veiledning, kartlegging og informasjon, organisering, evaluering og utvikling av tjenestene.
 
-Kapittel 5
+*‘Career Specialist’* har ansvar i forhold til veilederprofesjonalitet, og arbeider for å fremme rammene for karriereveiledning og karrierelæring på ulike måter. Noen av ‘Career Specialist’ arbeider praktisk eller administrativt, med administrering av karriereveiledningstjenester, utarbeidelse av planer, politikkutvikling med mer, og veiledning (supervision) av ‘Career Professional’. Andre arbeider primært med den teoretiske delen, forskning, utviklingsarbeid og undervisning på veilederutdanninger på høyskoler og universiteter. Eksempler på den førstnevnte gruppen finner vi for eksempel i Vox og som koordinatorer for partnerskap i karriereveiledning, og i den andre gruppen finner vi forskere og undervisere på karriereveileder-utdanninger i høyere utdanning.
 
-plass og så videre) og generelle karriererelaterte
-utfordringer.
-‘Career Professional’ har veiledning av personer individuelt og i grupper som sin hovedoppgave, i tillegg til å tilby noen av tjenestene som
-‘Career Advisor’ gjør. De har spesialkompetanse i
-karriereveiledning og veileder personer som står
-overfor komplekse valg, usikre situasjoner, kritiske overganger og så videre. De bruker veiledningsaktiviteter til å lære personer å bli mest
-mulig selvhjulpne i karriereorientering og valgprosesser. Deres profesjonstilknytning er veilederprofesjonen, og deres oppgaver handler om
-mer komplekse karriererelaterte utfordringer. De
-kan være karriereveiledere i skole, på arbeidsplass, ulike karrieresentre og så videre. Oppgavene deres kan være knyttet til karriereundervisning, veiledning, kartlegging og informasjon,
-organisering, evaluering og utvikling av tjenestene.
-‘Career Specialist’ har ansvar i forhold til veilederprofesjonalitet, og arbeider for å fremme rammene for karriereveiledning og karrierelæring på
-ulike måter. Noen av ‘Career Specialist’ arbeider
-praktisk eller administrativt, med administrering
-av karriereveiledningstjenester, utarbeidelse av
-planer, politikkutvikling med mer, og veiledning
-(supervision) av ‘Career Professional’. Andre
-arbeider primært med den teoretiske delen,
-forskning, utviklingsarbeid og undervisning på
-veilederutdanninger på høyskoler og universiteter. Eksempler på den førstnevnte gruppen finner
-vi for eksempel i Vox og som koordinatorer for
-partnerskap i karriereveiledning, og i den andre
-gruppen finner vi forskere og undervisere på karriereveileder-utdanninger i høyere utdanning.
-I følge NICE sine beskrivelser er brukernes
-første kontakt gjerne med ‘Career Advisor’. En del
-vil også ha behov for veiledning hos ‘Career Professional’ og det vil være mulig å henvende seg
-direkte til dem uten å gå til ‘Career Advisor’ først.
-‘Career Specialist’ har sjelden direkte kontakt
-med brukerne.
-‘Career Advisor’ har bedre kunnskaper om
-brukerens kontekst (skole, arbeidsplass, og så
-videre) enn ‘Career Professional’, som igjen har
-bedre kunnskaper om mer spesifikke karriereutfordringer og veiledningsmetoder rettet mot ulike
-grupper. Den profesjonelle karriereveileder
-(‘Career Professional’) kan dessuten organisere
-og ha ansvar for ulike veiledningsformer og -tjenester, bygge opp nettverk for å styrke tjenestene,
-og følger etiske retningslinjer for veiledningsarbeidet.
+I følge NICE sine beskrivelser er brukernes første kontakt gjerne med ‘Career Advisor’. En del vil også ha behov for veiledning hos ‘Career Professional’ og det vil være mulig å henvende seg direkte til dem uten å gå til ‘Career Advisor’ først. ‘Career Specialist’ har sjelden direkte kontakt med brukerne.
 
-[Side 40]
+‘Career Advisor’ har bedre kunnskaper om brukerens kontekst (skole, arbeidsplass, og så videre) enn ‘Career Professional’, som igjen har bedre kunnskaper om mer spesifikke karriereutfordringer og veiledningsmetoder rettet mot ulike grupper. Den profesjonelle karriereveileder (‘Career Professional’) kan dessuten organisere og ha ansvar for ulike veiledningsformer og -tjenester, bygge opp nettverk for å styrke tjenestene, og følger etiske retningslinjer for veiledningsarbeidet.
 
-38
+Livslang karriereveiledning er et omfattende konsept, den skal ivareta både individets og samfunnets behov. For å kunne gi profesjonell karriereveiledning og utvikle systemene for veiledningen, trenger ‘Career Professional’ ikke bare å oppfylle krav om nødvendig utdanning, men også få tilbud om etter- og videreutdanning, praksisveiledning, med mer. Her kommer ‘Career Specialist’ inn i bildet. De kan i noen tilfeller ha myndighet til å ta beslutninger om eller påvirke utvikling av systemene som veiledningstjenesten inngår i.
 
-NOU 2016: 7
+I NICE-håndboken fra 2012 trekkes fem kjernekompetanser frem som selvstendige kompetansemoduler i karriereveilederutdanning, mens den sjette, profesjonalitet, blir en overbyggende modul. Det anbefales at karriereveilederutdanninger tar utgangspunkt i de seks kjernekompetansene, og at de har tre kunnskapsmoduler: Individer og karriere, Organisasjoner, grupper og kommunikasjon, Samfunn, politikk og marked. Oppbyggingen vises i figur 5.3.
 
-Kapittel 5
+**\[:figur:figX-X.jpg\]**
 
-Norge i omstilling – karriereveiledning for individ og samfunn
+1.  NICE kompetansemoduler
 
-Intervensjon i og utvikling av
-sosiale systemer
+NICE 2012
 
-Planlegging, koordinering og
-markedsføring
+I oversikten under beskrives ulike fagområder som karriereveiledere i følge NICE sin strukturering arbeider med.[^88] Veilederen kan arbeide med de ulike områdene hver for seg, kombinert, eller eventuelt ikke arbeide med enkelte av dem, jf. de tre profesjonsrollene som er beskrevet over. Profesjonalitet utgjør en basis for hvert av de fem øvrige områdene.
 
-Karriereveiledning
+1.  *Karrierelæring –* veileder utvikler personers karrierekompetanse (CMS).
 
-Informasjon og vurdering
+<!-- -->
 
-Karrierelæring
+1.  *Informasjon og vurdering –* veileder har fokus på informasjon og vurdering, hjelper folk å vurdere sine personlige forutsetninger og behov, og å relatere disse til utdanning og arbeid.
 
-Profesjonalitet
+2.  *Karriereveiledning* – veileder personer slik at de forstår sin situasjon bedre og kan komme fram til løsninger.
 
-Individer og karriere
-Organisasjoner, grupper og kommunikasjon
-Samfunn, politikk og marked
-Figur 5.3 NICE kompetansemoduler
-Kilde: NICE 2012
+3.  *Planlegging, koordinering og markedsføring* – veilederen arbeider på et organisatorisk nivå for å sikre og utvikle kvaliteten på veiledningstjenestene.
 
-Livslang karriereveiledning er et omfattende
-konsept, den skal ivareta både individets og samfunnets behov. For å kunne gi profesjonell karriereveiledning og utvikle systemene for veiledningen, trenger ‘Career Professional’ ikke bare å oppfylle krav om nødvendig utdanning, men også få
-tilbud om etter- og videreutdanning, praksisveiledning, med mer. Her kommer ‘Career Specialist’
-inn i bildet. De kan i noen tilfeller ha myndighet til
-å ta beslutninger om eller påvirke utvikling av
-systemene som veiledningstjenesten inngår i.
-I NICE-håndboken fra 2012 trekkes fem kjernekompetanser frem som selvstendige kompetansemoduler i karriereveilederutdanning, mens den
-sjette, profesjonalitet, blir en overbyggende
+4.  *Intervensjon i og utvikling av sosiale systemer –* veileder hjelper personer i kritiske situasjoner og arbeider for å endre systemer i hensiktsmessig retning (forebygging).
 
-modul. Det anbefales at karriereveilederutdanninger tar utgangspunkt i de seks kjernekompetansene, og at de har tre kunnskapsmoduler: Individer og karriere, Organisasjoner, grupper og kommunikasjon, Samfunn, politikk og marked. Oppbyggingen vises i figur 5.3.
-I oversikten under beskrives ulike fagområder
-som karriereveiledere i følge NICE sin strukturering arbeider med.43 Veilederen kan arbeide med
-de ulike områdene hver for seg, kombinert, eller
-eventuelt ikke arbeide med enkelte av dem, jf. de
-tre profesjonsrollene som er beskrevet over. Pro43
+Til hvert av områdene er det beskrevet kjernekompetanser som er nødvendige for å kunne utføre oppgaver innenfor hvert enkelt område og tilby veiledningstjenester av høy kvalitet.
 
-NICE (2012), side 42-43
+1.  *Karrierelæring* – å kunne lære bort kunnskaper og ferdigheter knyttet til karriere, og utvikle folks karrierekompetanse og kompetanse i å håndtere overganger i utdanning, arbeid og arbeidstrening.
+
+<!-- -->
+
+1.  *Informasjon og vurdering* – å kunne sette folk i stand til å vurdere sine personlige egenskaper, forutsetninger og behov, og sette dette i sammenheng med informasjon om muligheter og krav i utdanningssystemet og på arbeidsmarkedet.
+
+2.  *Karriereveiledning* – å kunne sette folk i stand til å forstå sin situasjon og arbeide fram mot løsninger og ta beslutninger gjennom refleksjoner basert på sine erfaringer og behov.
+
+3.  *Planlegging, koordinering og markedsføring* – å kunne sikre og utvikle kvaliteten på veiledningstilbudet, kunne lede og utvikle veiledningsaktiviteter, samt kvaliteten av organisasjonens veiledningstjenester generelt.
+
+4.  *Intervensjon i og utvikling av sosiale systemer* – å kunne bistå folk ved å gjøre en forskjell i utdannings- og arbeidsmiljøer (både forebyggende arbeid og i kritiske situasjoner) gjennom nettverksarbeid, konsultasjonsarbeid og som talsperson for personer med behov for veiledning.
+
+Grunnleggende for kvalitativt god karriereveiledning er at karriereveileder er kompetent, profesjonell og handler ut fra profesjonelle verdier og etiske retningslinjer i sin praksis, utvikler hensiktsmessige og gode relasjoner, er engasjert i faglig utvikling og kritisk tenkning, og er en talsperson for sin profesjon.
+
+*Ulike roller – ulikt kompetansebehov*
+
+Tar man utgangspunkt i de tre typer av yrkesutøvere i karriereveiledning som omtalt ovenfor, blir det tydelig at de ulike typene har ulike kompetansebehov for å kunne utføre arbeidet. NICE[^89] beskriver dette slik i sine anbefalinger og henviser til nivåer i EQF/NKF[^90]:
+
+*Career Advisor* må blant annet kunne forstå behovene til den som oppsøker veiledning, kunne hjelpe med informasjonsinnhenting og søknader, og vite når det er behov for å henvise til andre karriereveiledningstjenester. For å kunne utføre oppgavene på en profesjonell måte er det nødvendig at veilederen har utdanning i karriereveiledning som en del av sin profesjons- eller fagutdanning på nivå 6 i høyere utdanning (bachelor).
+
+*Career Professional* må blant annet kunne hjelpe den som oppsøker veiledning med komplekse situasjoner knyttet til valg og overganger, tilpasse veiledningen til ulike grupper, etablere og delta i nettverk, utvikle veiledningstilbudet, følge etiske retningslinjer og være talsperson for karriereveiledning. Kompetansen som ‘Career Professional’ har behov for tilsier at det er nødvendig med utdanning på nivå 7 i høyere utdanning (mastergrad). For eksempel mastergrad eller diplomutdanning i karriereveiledning.
+
+*Career Specialist* som arbeider administrativt må blant annet kunne sette i gang evaluering av karriereveiledning og bruke resultater fra evalueringene til å kvalitetssikre og videreutvikle tjenestene. *‘Career Specialist’* som arbeider med forskning og utdanning av karriereveiledere må blant annet ha en god oversikt over fagfeltet, både praksis og teori, kunne utvikle studietilbud i tråd med samfunnets behov og generere ny kunnskap om fagfeltet gjennom egen forskning. *‘Career Specialist’* bør ha minimum utdanning på nivå 7 i høyere utdanning (mastergradsnivå), med minst 30 studiepoeng i karriereveiledning, men for *‘Career Specialist’* som arbeider med forskning og utvikling av studietilbud i karriereveiledning, er det nødvendig med utdanning på nivå 8 i høyere utdanning (PhD).
+
+Utvalget vil i 5.6 komme med anbefalinger til kompetansestandarder som baserer seg på NICE sitt arbeid. Dette inkluderer en anbefaling om at det utvikles en nasjonal rammeplan for karriereveilederutdanning. Dette vil kunne bidra til et bedre veiledningstilbud, utvikling og profesjonalisering av veiledningstjenestene, og er også anbefalt av ELGPN som ett av flere grep for kvalitetsutvikling i karriereveiledning.[^91]
+
+1.  **Et komplekst aktørbilde**
+
+Karriereveiledning er et politikkområde det ikke er enkelt å avgrense, det er gjerne innvevd i flere andre politikkområder, på samme måte som kompetansepolitikken. Karriereveiledningspolitikken har berøring både med arbeidsmarkedspolitikken, utdanningspolitikken og integreringspolitikken. Styring og eierskap til virkemidlene innenfor karriereveiledningsfeltet er delt mellom flere ministre. Politikken på området utvikles i ulike departementer og underliggende etater. Kryssende interesser og sektorbehov og ulike politiske agendaer påvirker valg og prioriteringer innenfor hver ministers politikkområde. Det er til dels mangelfull statlig samordning og ingen felles strategi. Resultatet er et fravær av en helhetlig politikk for karriereveiledning.
+
+Behovet for bedre statlig samordning på dette feltet, ikke bare i Norge, har vært påpekt av mange. International Centre for Career Development and Public Policy (ICCDPP) sier for eksempel at samordning på statlig nivå er et nøkkelspørsmål for å kunne ta ut det fulle potensialet i karriereveiledning som virkemiddel:
+
+A key question \[…\] is then, how well do different ministries, parts of government and other agencies cooperate with each other to develop individual’s capacities to manage their own careers. An assumption \[…\] is that high levels of intra-governmental co-operation lead to the development of the workforce and the realization of individual’s potential.[^92]
+
+På statlig nivå er tre departementer og fem direktorater/underliggende etater involvert. Kunnskapsdepartementet er ledende departement på feltet, men også Arbeids- og sosialdepartementet og Justisdepartementet har ansvar på området. På direktoratsnivå har Utdanningsdirektoratet ansvar for skolerådgivningen. Arbeids- og velferdsdirektoratet har ansvar for NAV og Integrerings- og mangfoldsdirektoratet for integreringsfeltet. Senter for IKT i utdanningen har ansvar for utdanning.no. Vox er departementets fagorgan for kompetansepolitikk og har i oppdrag å drifte Nasjonal enhet for karriereveiledning, som skal bidra til økt kvalitet, profesjonalitet og et mer likeverdig tilbud om karriereveiledning på tvers av sektorene. Vox har også ansvar for å utvikle og støtte karrieresentrene og partnerskapene i fylkene.
+
+Også på lokalt nivå er det mange aktører som tilbyr en form for karriereveiledning, og det er til dels manglende rolleavklaringer mellom aktører. Graden av tverrsektorielt samarbeid i fylkene varierer i ulike deler av landet. I noen fylker er det et tett samarbeid mellom karrieresentre, skoler, NAV-kontor og integreringsansvarlige i kommunen, mens det er lite av dette i andre fylker. Hva som er formålet med karriereveiledning og hensikten med tjenestene kan være ulikt definert. Begrepsbruken er ulik i sektorene, det kalles både karriereveiledning, utdannings- og yrkesrådgivning (skolen) og veiledning (NAV).
+
+At karriereveiledningstilbudet i Norge er fragmentert, kan ha sammenheng med at statlige aktører og lokale forvaltere og tilbydere av karriereveiledning opererer på basis av ulike samfunnsoppdrag. De ulike tjenestene er primært utformet med tanke på å svare på *eget samfunnsoppdrag*. En annen årsak er at det ikke eksisterer noe felles rammeverk eller noen felles strategi, som blant annet kunne bidratt til en mer felles forståelse av hva som er formålet med karriereveiledning.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Aktørbilde på karriereveiledningsfeltet i dag
+
+Figuren viser aktørbildet på karriereveiledningsfeltet i Norge i dag. Stiplet linje = ikke styringslinje når det kommer til oppdrag innenfor karriereveiledning.
+
+1.  **Sammenbindende grep for kvalitet og profesjonalitet**
+
+    1.  **Sammenbindende grep per i dag**
+
+For å binde hele systemet sammen og sikre kvalitet og profesjonalitet, kan man fra myndighetenes side ta både det vi kan kalle *organisatoriske* og *pedagogiske* grep. Med organisatoriske grep mener vi her for eksempel samarbeidsavtaler, etablering av dialogforum eller etablering av enheter eller samarbeidskonstellasjoner som får tildelt spesielle oppgaver som koordinering og kvalitetsutvikling. Med pedagogiske grep mener vi her for eksempel rammeverk, kvalitets- og kompetansestandarder, samt arenaer for faglig utveksling og deling av god praksis. Pedagogiske grep kan være nedfelt i lov og forskrift, eller de kan være utformet som retningslinjer av statlige eller fylkeskommunale/kommunale myndigheter.
+
+I norsk sammenheng er det per i dag særlig tre organisatoriske grep som er tatt for å bidra til helhet og sammenheng i karriereveiledningstjenestene og til kvalitetsutvikling på tvers av sektorer. Nasjonal enhet for karriereveiledning og partnerskap for karriereveiledning på fylkesnivå. I tillegg kommer den nasjonale portalen utdanning.no som har som formål å gi utdannings- og yrkesveiledning i et livslangt perspektiv. Både partnerskapene og den nasjonale koordinerende enheten var i sin tid et svar på OECDs anbefalinger om etablering av et system for livslang karriereveiledning. Rapporten anbefalte blant annet at det skulle opprettes et fast nasjonalt organ for strategisk koordinering og ledelse, med støtte fra koordineringsorganer på regionalt plan.[^93]
+
+*Nasjonal enhet for karriereveiledning i Vox*
+
+Nasjonal enhet for karriereveiledning ble etablert i 2011 som en del av Vox, nasjonalt fagorgan for kompetansepolitikk. I oppdragsbrevet til Vox ble målene for enheten formulert:
+
+Målet med den nasjonale enheten er å styrke kvalitet og profesjonalitet i karriereveiledningen, øke kunnskapsgrunnlaget, stimulere utvikling av likeverdige tilbud og fremme tilgang til karriereveiledning for unge og voksne i ulike livsfaser, samt supplere de regionale partnerskapene med et nasjonalt og et internasjonalt perspektiv. Enheten skal bidra til styrket samarbeid og samordning om karriereveiledning mellom de ulike aktørene i skole, fagskole, universitets- og høyskolesektor og NAV, men samtidig slik at arbeidslivets parter og arbeidsliv involveres.[^94]
+
+Ut fra oppdragsbrevet kan man lese tre roller som den nasjonale enheten skal ha:
+
+- *Koordinerende organ*: Enheten skal koordinere politikkutviklingen på karriereveiledningsfeltet, drive med nettverksbygging, kontakt og dialog, legge til rette for samarbeid, organisere møteplasser og formidle et helhetlig perspektiv på tjenestene.
+
+- *Kunnskapssenter*: Enheten skal bidra til begrepsavklaring på feltet, dokumentasjon og kunnskapsutvikling, kvalitetsheving, profesjonalisering og kompetanseheving, faglig/metodisk utvikling, formidling av kunnskap og internasjonal erfaring, og gi departementet råd om politikkutvikling på karriereveiledningsfeltet.
+
+- *Pådriver og utvikler*: Enheten skal utvikle karriereveiledningstilbudet, inkludert være pådriver for utvikling av partnerskap og karrieresentre, forvalte tilskuddet til partnerskapene, utvikle retningslinjer og kvalitetsrammeverk, utvikle systemer og samarbeidsformer.
+
+Den nasjonale enheten er i dag en integrert del av Vox og har siden opprettelsen arbeidet med å øke kvaliteten og profesjonaliteten i karriereveiledningsfeltet gjennom å utvikle kunnskapsgrunnlag, gi innspill til politikkutvikling, og utstrakt arbeid mot praksisfeltet.
+
+Gjennom Nasjonalt forum for karriereveiledning, som enheten fikk i oppdrag å etablere, har det blitt etablert regelmessig dialog med partene i arbeidslivet og andre aktører og interessenter på karriereveiledningsfeltet, også på direktoratsnivå og i kommunesektoren. Enheten fikk også i oppdrag å etablere en nasjonal koordineringsgruppe for karriereveiledning, som skulle bestå av ledere på høyt nivå i de berørte direktorater og offentlige råd: Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet, IMDi, Nasjonalt fagskoleråd, Universitets- og høgskolerådet, Senter for IKT i utdanningen og Vox, nasjonalt fagorgan for kompetansepolitikk. Koordineringsgruppen skal ifølge oppdragsbrevet «bidra til at sentrale aktører drøfter problemstillinger og utfordringer på feltet, utveksler faglige råd, diskuterer aktuelle innsatsområder og strategier, og fremmer forslag til løsninger som kan implementeres i bestående styringslinjer».[^95]
+
+Fra Vox får utvalget opplyst at Nasjonalt forum for karriereveiledning har hatt høy deltakelse og vært en verdifull leverandør av kunnskap, innspill og perspektiver til enhetens arbeid. Arbeidet i den nasjonale koordineringsgruppen har lidd under til dels sviktende oppmøte fra sentrale aktører eller oppmøte på for lavt nivå, og et mandat som ikke har vært godt nok forankret hos de aktørene som er tiltenkt en plass i koordineringsgruppen.
+
+*Utdanning.no*
+
+Utdanning.no ble etablert i 2003 som svar på OECDs gjennomgang av karriereveiledningen i Norge.[^96] OECD pekte på at det ikke eksisterte et helhetlig informasjonstilbud på nett for valg av utdanning og yrke som en betydelig svakhet ved det norske systemet.
+
+Utdanning.no ble opprettet som nasjonal portal og nettsted for utdanningstilbud og yrker i Norge, og fikk som oppdrag å gi helhetlig informasjon og interaktive tjenester som bidrar til refleksjon og informerte utdannings- og yrkesvalg.
+
+Dette innebærer følgende:
+
+- Ha kontakt med og utvikle et samlet informasjonstilbud for videregående opplæring, universiteter, høyskoler, fagskoler og andre utdanningsinstitusjoner slik at brukere kan få helhetlig informasjon om ulike utdanningsvalg.
+
+- Etablere og videreutvikle informasjon om yrker og arbeidsmarked i samarbeid med relevante fag og bransjeorganisasjoner.
+
+- Brukerkontakt med ulike grupper fra unge til voksne, samt veiledere, for å utvikle informasjon selvbetjeningsløsninger og refleksjonsverktøy.
+
+- Pådriver for å få offentlige etater til å samordne og dele data for å utvikle nye integrerte tjenester og nettressurser.
+
+*Partnerskap for karriereveiledning på fylkesnivå*
+
+De fylkesvise partnerskapene for karriereveiledning har eksistert siden de første forsøkene i noen få fylker startet i 2004. Per i dag har 18 av 19 fylker et partnerskap for karriereveiledning mellom minimum NAV fylkesledd og fylkeskommunen, som er formalisert gjennom en signert partnerskapsavtale.
+
+I utviklingen av partnerskap for karriereveiledning hadde partene i fylkene drahjelp fra en samarbeidsavtale inngått i 2007, mellom daværende Arbeids- og inkluderingsdepartementet og KS.[^97] Målet var å få flere i arbeid eller utdanning gjennom effektiv samordning av partenes samlede virkemidler.<sup> </sup>Bakgrunnen var et behov for intensivert samarbeid mellom arbeids- og utdanningsmyndigheter i fylkeskommuner og kommuner om løsninger for overlappende målgrupper, herunder arbeidssøkere uten videregående opplæring. I 2011 ble den sentrale avtalen avviklet da samtlige fylker hadde etablert fylkesvise avtaler.[^98] I 2012 ble det inngått en utviklingsavtale mellom Arbeidsdepartementet og KS som også knytter utdanningssektoren til samarbeidet, og som skal bidra til mer koordinert innsats fra helsemyndigheter-, utdanningsmyndigheter og NAV.
+
+Gjennom forskningsrapporter og kunnskap om tolv års erfaring med fylkesvise partnerskap, er utvalget kjent med at partnerskap ikke brukes som et entydig begrep, men kan ha ulike betydninger i ulike sammenhenger. I en evalueringsrapport fra et forsøk i Nordland fylke om karriereveiledning, er det beskrevet slik:
+
+Partnerskapsbegrepet brukes om et samarbeid mellom flere aktører, offentlige og private som samordner sin innsats på et felt. Videre om aktører som har felles mål, som deltar i et forpliktende samarbeid hvor de fungerer som myndiggjorte styringsenheter samtidig som de bidrar med en form for ressursinnsats til virksomheten.[^99]
+
+I den samme rapporten vises det til ulike tradisjoner fra Europa, hvor begrepet brukes om samarbeid mellom regionale aktører på samme nivå (horisontalt) og mellom ulike nivåer (vertikalt). Det vises også til at det i Norge finnes tradisjon for forpliktende samarbeid som kooperativer og samvirkelag. Videre omtales andre forståelser av partnerskapsbegrepet som omfatter samarbeid mellom offentlige og private aktører, og som politisk strategi for å fremme slike samarbeidsformer. Utfordringer med partnerskap som samarbeidsform kan være mangel på felles grenser eller felles ansvar, ulike administrative systemer og planleggingshorisonter. Det kan også være utfordringer knyttet til status og legitimitet, som for eksempel representasjon.
+
+For at partnerskap skal fungere bør det foreligge avhengighet av hverandres kompetanse, autoritet og ressurser. Utvalget av parter som deltar i partnerskapet, bør være formålstjenlig. Riktige parter på rett arena gir mulighet for mer harmoniske og mindre konfliktfylte partnerskap.[^100] Et prinsipp er at et partnerskap skal bidra til en merverdi og synergieffekt, og utvalget mener at partnerskap ikke skal frata noen av aktørene det ansvar for karriereveiledning som lover, forskrifter og styringssignaler har tillagt dem.
+
+Med utgangspunkt i forskning på europeisk karriereveiledning er det utviklet en taksonomi som som belyser grader av samarbeid.[^101] Taksonomien er illustrert i figur 5.5 og har fire grader av samarbeid.
+
+- *Informere:* Informere hverandre om veiledningsinnsatsen.
+
+- *Samarbeide*: Arbeide sammen om spesifikke og tidsavgrensede prosjekter. Aktørene endrer ikke på egne rutiner.
+
+- *Samordne:* Koordinere veiledningsinnsatsene for å utvikle synergieffekter, og arbeide i forlengelse av hverandre ut fra en felles forståelse for å unngå overlapp og tap av ressurser. Gjensidig organisatorisk læring.
+
+- *Integrere*: Det er ikke lenger mulig å skjelne de enkelte veiledningsaktørenes spesifikke bidrag. Veiledning er et sammenhengende hele med et felles mål.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Taksonomi for samarbeid
+
+Partnerskap er ikke et entydig begrep, men vil allikevel alltid handle om forpliktende samarbeid mellom aktører. Et viktig suksesskriterium er nettopp at partnerskap må være gjensidig forpliktende og formaliserte avtaler, som inkluderer flest mulig av de aktørene som er involvert i karriereveiledning lokalt. For å lykkes er det videre viktig at arbeidet er forankret i organisasjonenes ledelse og at det er en felles forståelse av målsettinger. Avtalene bør beskrive formålet og hvilke oppgaver som skal løses. Samarbeidet i partnerskap bygger på likeverdighet og tillit. Videre bør partnerskapsavtaler beskrive deltakernes roller og hva de ulike partenes bidrag skal være med hensyn til ressursinnsats. Ressursene som de ulike bidrar med kan være både arbeidsinnsats, kompetanse, økonomiske og materielle ressurser. Et utgangspunkt for å velge partnerskap som arbeidsform er når ikke én aktør eller part kan løse oppgaven på egenhånd, men det kreves en felles innsats fra flere. Partnerskap er også velegnet for gjensidig læring og erfaringsdeling og for informasjonsspredning.
+
+1.  **Internasjonale eksempler**
+
+Erkjennelsen av at kvalitet i karriereveiledning handler både om strukturer, prosesser og resultater, gjør det tydelig at alle faktorer i et helhetlig system har betydning for kvaliteten.
+
+Weak services may cause more harm than they benefit people and societies. In particular they can lead clients to making decisions which they regret later on, causing failed investments that harm individuals, organisations and communities. The potential benefits of career guidance and counselling are highly dependent on well-organised CGC[^102] systems.[^103]
+
+For å oppnå et helhetlig system med høy kvalitet, har en del land tatt grep som legger til rette for dette. Under presenteres erfaringer fra Sveits, Australia og Skottland.
+
+*Sveits*
+
+Sveits er en forbundsrepublikk som består av 26 kantoner med høy grad av selvstendighet.[^104] Karriereveiledningstjenestene er organisert med et råd av alle de kantonale utdanningsministrene som øverste nivå og regionale karriereveiledningssentre kalt BIZ (tysk) eller Centre OP (fransk) som det laveste nivået. Disse sentrene er eid av kantonene selv, og tilbyr karriereveiledning til skoleelever og voksne, bortsett fra studenter i universitet og høyskoler, som har egne tjenester på lærestedene. Et nasjonalt servicesenter bidrar med kvalitetssikret informasjon til alle karrieretjenestene og drifter et nasjonalt nettsted.
+
+For å binde systemet sammen, har Sveits for det første lovgivning, som definerer hva tjenestene skal inneholde og hva slags utdanning veilederne må ha. Karriereveilederne skal etter loven ha en utdanning som er anerkjent på nasjonalt nivå og føderasjonen skal definere minimumskrav til karriereveiledningsstudiene.
+
+For å binde systemet sammen, har Sveits for det første lovgivning, som definerer hva tjenestene skal inneholde og hva slags utdanning veilederne må ha. For det andre er det etablert koordinerende mekanismer på nasjonalt nivå, i form av et råd for å sikre koordinering på tvers av kantonene[^105]og et partnerskap som skal sikre koordinering på tvers av et stort antall sektoraktører.[^106] For det tredje har man etablert en form for nasjonale retningslinjer, en «*Code of Ethics»,* som inkluderer standarder for både veiledernes kompetanse og utførelsen av karriereveiledningen, innholdet i tjenestene, og informasjonen som skal være tilgjengelig. Et kvalitetssystem er også en del av de nasjonale retningslinjene.
+
+*Australia*
+
+En mulig måte å bidra til at alle delene i systemet henger sammen, er å utvikle en nasjonal tverrsektoriell strategi. Etter utvalgets mening er Australias *National Career Development Strategy* et godt eksempel på hvordan denne kan utformes.[^107] Den nasjonale strategien for karriereutvikling tar utgangspunkt i den livslange karriereutviklingsprosessen som individer går gjennom.
+
+The National Career Development Strategy is deliberately a high-level document which provides an overarching vision for career development in Australia. In the same way that a career adviser does not tell a client what decisions to make, the Strategy does not seek to define what individual governments, sectors or stakeholders should do. Rather, it sets out key priorities and guiding principles which will help to align and focus effort. The Strategy also encourages stakeholders to collaborate across sectors whenever possible.[^108]
+
+Strategien er et resultat at et mangeårig arbeid der karriereveiledningsaktører, fagmiljø og myndigheter har samarbeidet om å utvikle politikk og systemer som kan legge til rette for at befolkningen kan tilegne seg relevant karrierekompetanse. Et solid kunnskapsgrunnlag ble utviklet for å gi arbeidet retning, dette inkluderte omfattende undersøkelser hvor både foreldre, ungdommer, arbeidsgivere, karriereveiledere, arbeidsledige, lærere og industrien ble spurt om deres syn på karriereutviklingsressursene som eksisterte. En offentlig utredning var også en del av forarbeidet.
+
+Strategidokumentet understreker en tverrsektoriell og «whole of government» tilnærming og gir prioriteringer for det nasjonale arbeidet. I Australia er arbeidslivet inkludert i strategien, både i policyutvikling, i utviklingen av karriereinformasjon og på lokalt nivå ved partnerskap med skoler, kommunesektoren og opplærings- og utdanningstilbydere. Strategien følges av en rammeplanen «*Blueprint for career development*», som definerer karrierekompetanser som læringsmål for karriereveiledningen. Ressurser som utdyper rammeplanen og gir ressurser til bruk i karriereveiledningsarbeidet, følger også med. Den australske nasjonale strategien og rammeplanen binder det hele sammen, både tilgang, innhold og formål, kvalitet og profesjonalitet, koordinering og styring, og blir basisen for et helhetlig system.
+
+Dette utgjør en helhetlig tilnærming til organisering og kvalitetssikring av karriereveiledningen. Strategien er holdt på et overordnet nivå. Denne felles tverrsektorielle plattformen er videre utviklet gjennom en grundig prosess som har involvert relevante aktører og interessenter.
+
+Det kan tyde på at forankringen er god både hos myndigheter i ulike sektorer på nasjonalt og regionalt nivå, blant dem som skal levere karriereveiledningen og hos arbeidslivet som skal motta arbeidstakere i andre enden av karriereveiledningen.
+
+Det er også interessant å merke seg vektleggingen av læringsutbytte fra tjenestene i rammeplanen som definerer karrierekompetanser som befolkningen ifølge strategien trenger for å håndtere karriereutvikling, opplæring og arbeid i et omskiftelig arbeidsliv.
+
+*Skottland*
+
+I Skottland er karriereveiledningstjenestene knyttet tett opp til det nasjonale organet Skills Development Scotland (SDS). SDS beskriver seg selv som «*the national skills body supporting people and businesses of Scotland to develop and apply their skills*».[^109] SDS ble etablert i 2008 som et tverrsektorielt organ som skal samle og finansiere offentlige tjenester knyttet til karriere, ferdigheter («skills») og opplæring («training»). Skills Development Scotland har blant annet ansvar for:
+
+- Karriereveiledning: karriereveiledningssentre, nettstedet My World of Work og partnerskapssamarbeid med blant annet skoler, universiteter, høyskoler og arbeidsformidlingskontorer.
+
+- Læring på arbeidsplassen: tjenester knyttet til blant annet fleksibel opplæring, lærlingeordninger og støtteordninger for individer som vil gjennomføre opplæring
+
+- Grunnleggende ferdigheter: kampanjer knyttet til lokale opplæringstilbud for å få voksne med lave grunnleggende ferdigheter til å søke opplæring.
+
+- Satsing på unge mellom 16 og 19 år, for å sikre at de er i utdanning, opplæring eller arbeid.
+
+- Utvikling av kunnskap og analyser: statistikk, publikasjoner, utredninger.
+
+- Partnerskapsarbeid mellom SDS og lokale partnere for å møte situasjoner med høyere arbeidsledighet lokalt eller nasjonalt gjennom støtte både til arbeidsgivere og arbeidstakere.
+
+- Partnerskap rundt karriereveiledning med skoler, universiteter, arbeidsgivere, arbeidsformidlingskontorer (Jobcentre Plus) og frivillig sektor.
+
+Skills Development Scotland har forgreininger ut på lokalt nivå over hele Skottland og jobber sammen med lokale partnerskap for å møte arbeidslivets behov og dyktiggjøre innbyggerne til å manøvrere gjennom utdanning og arbeid og takle endringer i arbeidsmarkedet.
+
+Karriereveiledningstjenestene som Skills Development Scotland har ansvar for, er en sentral del av de skotske myndighetenes S*kills Strategy*, det vil si kompetansepolitisk strategi, som igjen er nært knyttet til regjeringens strategi for den økonomiske politikken. Den kompetansepolitiske strategien har i følge nettsiden til den skotske regjeringen fire fokusområder:[^110]
+
+The refreshed skills strategy makes clear the government’s commitment to skills and training to help address Scotland’s skills needs and improve economic performance. The strategy has four priority themes: empowering Scotland’s people, supporting Scotland’s employers, simplifying the skills system, and strengthening partnerships.
+
+Skills Development Scotland har utviklet en *Skills Planning Model*, hvor et viktig element er å samle informasjon om arbeidsgiveres behov, om individers behov og bidra til bedre utvikling av og utnyttelse av befolkningens ferdigheter.
+
+Utvalget noterer seg at karriereveiledningstjenestene blir sett i sammenheng både med behov i arbeidsmarkedet, læring i arbeidslivet, utvikling av befolkningens grunnleggende ferdigheter og innbyggernes behov for karrierekompetanse. Utvikling av innbyggernes karrierekompetanse blir sett på som viktig for at de skal lykkes i en økonomi som er i endring. Utvalget merker seg videre at Skills Development Scotland samarbeider i partnerskap med de andre offentlige tilbyderne av karriereveiledingstjenester, for å sikre at tjenestene har en felles målsetning om utvikling av karrierekompetanser og innhold som støtter opp om en slik karrierelæring på tvers av sektorer.
+
+*Oppsummeringsvis*
+
+Oppsummert kan man si at *organisatorisk*e grep for å bidra til helhet og kvalitet er gjennomført både i Sveits og Skottland på ulike måter. I Sveits har man karriereveiledningssentre (BIZ/Centre OP), som dekker veiledningen både til skoleelever og voksne, men har egne tjenester på lærestedene for studenter ved høgskoler og universiteter (og andre utdanningsinstitusjoner). Et føderalt/nasjonalt servicesenter bidrar med kvalitetssikret informasjon og et nasjonalt nettsted. I Skottland er den offentlige karriereveiledningen organisert gjennom en kombinasjon av statlig eierskap gjennom et tverrsektorielt nasjonalt organ for kompetansepolitikk (nettsted og karriereveiledningssentre eid av Skills Development Scotland), og partnerskap mellom SDS og skoler, høgskoler og universiteter, arbeidsgivere, arbeidsformidlingskontor og frivillig sektor. Det utvalget har kalt *pedagogiske* grep for å sikre sammenheng og kvalitet, kan ta form av en nasjonal strategi (Australia), rammeplaner for karrierelæring (Australia og Skottland) og i form av en «*Code of ethics*», som kanskje kan kalles et nasjonalt kvalitetsrammeverk (Sveits).
+
+I de neste delkapitlene presenteres utvalgets vurderinger og anbefalinger for helhet, kvalitet og profesjonalitet i en norsk sammenheng. Først presenteres anbefalinger for styring og samordning, deretter anbefalinger for kvalitet og profesjonalitet i tjenestene.
+
+1.  **Vurderinger og anbefalinger for styring og samordning**
+
+I dagens norske sammenheng er det tatt få grep for å utvikle et helhetlig og kvalitativt likeverdig tilbud, med unntak av de tre grepene utvalget har beskrevet over (Nasjonal enhet for karriereveiledning, et karriereveiledningstilbud på nett, og partnerskap for karriereveiledning på fylkesnivå). Gitt betydningen av gode karriereveiledningstjenester i en omstillingsfase i norsk økonomi og arbeidsliv, og dagens tilbudsstruktur er dette etter utvalgtes mening ikke tilstrekkelig.
+
+Ansvaret for tilbudet til befolkningen er fordelt på mange offentlige aktører. Som for andre felt er politikken i stor grad preget av silotenkning. Hver sektor konsentrerer seg om å oppfylle sitt eget samfunnsoppdrag. Karriereveiledningen faller ofte mellom flere stoler.
+
+Norge har videre etter utvalgets mening kommet kort når det gjelder profesjonalisering av tjenestene, inkludert utvikling av et kunnskapsgrunnlag i norsk kontekst og utvikling av felles etiske retningslinjer. Det har ikke vært jobbet systematisk med kvalitet og profesjonalitet på et overordnet, tverrsektorielt nivå, utover det den nasjonale enheten har rukket å igangsette eller har hatt virkemidler og myndighet til å gjennomføre. Tenkningen rundt karrierelæring og en felles plattform for alle tjenestene har vært lite fremtredende i utviklingen av tjenestene, også i karriereundervisningen i skolen. Kommuner og fylkeskommuner har dessuten etter norsk forvaltning høy grad av autonomi, noe som kan være utfordrende for utviklingen av et helhetlig system med likeverdig tilbud.
+
+Det eksisterer flere samarbeidsavtaler på felt som berører karriereveiledningsområdet. Viktigst av disse er avtalene om partnerskap for karriereveiledning. Noen av partnerskapsavtalene er på fylkesnivå forankret i bredere samarbeid og avtaler på det kompetansepolitiske området. Dette mener utvalget kan være fornuftig, siden karriereveiledning er et sentralt virkemiddel i kompetansepolitikken. Utvalget mener også at de erfaringene som er gjort gjennom disse samarbeidsstrukturene kan gi verdifull kunnskap som det er viktig å ta med i utviklingen av et helhetlig system for karriereveiledning over hele landet. Utvalget vil også understreke betydningen av samarbeid mellom forvaltningsnivåene, og særlig mellom departementene og KS.
+
+Et sentralt prinsipp i norsk forvaltning er at tjenester rettet mot befolkningen skal være likeverdige, uavhengig av hvor i landet man bor.[^111] Likeverd handler ikke om at tjenestene er identisk organisert over hele landet, men at innholdet og kvaliteten er slik at den oppfyller ulike brukeres behov på en likeverdig måte uavhengig av hvor i landet de bor. Utvalget mener at de strukturene vi per i dag har i norsk sammenheng, ikke er sterke nok til å sikre et likeverdig tilbud.
+
+Problemstillinger knyttet til organiseringen av en tilbudsstruktur som er helhetlig og livslang, er velkjent i de landene som har utviklet karriereveiledningstjenester i årene etter OECDs gjennomgang og i ELGPN. Spørsmålene dreier seg blant annet om hvordan man skal løse sektorbehov versus behov for et helhetlig system og tilbudsstruktur, hva som bør samorganiseres og hva som kan løses gjennom samarbeid og koordinering, hvordan man sikrer progresjon i tilbudet og en god overgang for brukerne fra ett sektortilbud til et annet, og hvordan man sikrer et likeverdig innhold og felles mål. Den britiske forskeren Anthony Watts har forsket mye på karriereveiledningssystemer i flere land. Han tar opp noen av disse problemstillingene og oppsummerer egen og andres forskning på dette i en artikkel fra 2010.[^112] Her belyser han hvordan en tilbudsstruktur som fremstår som én tjeneste for brukeren, en såkalt «all-age service», kan være et viktig grep for at brukerne skal oppleve systemet som helhetlig. «All-age services» er en egen organisasjonsstruktur av karriereveiledningstilbud som er designet for å ha et tilbud til alle aldersgrupper. Denne strukturen har en felles nasjonal merkevare, felles mål og felles kvalitetskriterier. Det ligger også til grunn et prinsipp om en progresjon og sammenheng mellom de ulike tjenestene. Dette betyr likevel ikke at de er det eneste karriereveiledningstilbudet i det offentlige systemet, det er mer snakk om en slags ryggrad:
+
+In effect, an all-age service of this kind provides a strong professional spine for a lifelong career guidance system. So long as it recognises that it cannot provide all the career guidance that is needed, and devotes a significant attention to supporting embedded career guidance support in educational institutions, in workplaces and in community, the evidence indicates that it provides a particularly robust base for such a system.[^113]
+
+Watts trekker blant annet frem Skottland som et vellykket eksempel på en slik organisering. Artikkelen tar for seg både fordeler og ulemper med et «all-age service»-system, men konkluderer med at det er klare fordeler ved en slik tilbudsstruktur, ikke minst ut fra brukernes perspektiv. Watts drøfter også hvordan en «all-age strategy», der fokuset i større grad ligger på å legge til rette for samarbeid og koordinering, uten å knytte tjenestene sammen kan bidra til helhet. Han mener det ikke er nok med en slik strategi, og påpeker at samarbeid kan være på veldig ulikt nivå når det gjelder forpliktelse og graden av integrering.
+
+Utvalget mener at det bør etableres faste, formaliserte strukturer for samarbeid og sammenheng, ikke bare sektorbaserte tjenester. Det er viktig at tjenestene fremstår mest mulig helhetlig for brukerne. Det blir dermed nødvendig at det finnes noen tilbud som «tetter hullene» mellom de sektorbaserte tilbudene, som brukerne bare har tilgang til dersom de tilhører en definert målgruppe. Tenkningen rundt «all-age services» vektlegger brukernes behov og perspektiv – hvordan det er for brukeren å bevege seg gjennom systemet i løpet av sin livslange karriereutviklingsprosess.
+
+Utvalget mener det må etableres mekanismer som sikrer tilstrekkelig integrering av de ulike karriereveiledningstilbudene på tvers av sektorene. Utvalget mener at det er viktig å bygge videre på de strukturer som allerede er etablert, men at disse bør styrkes og gis klarere og mer forpliktende mandater og mer myndighet. Nasjonal enhet for karriereveiledning i Vox har vist seg å ha en viktig funksjon som faglig enhet for koordinering, kvalitetsutvikling og politikkutvikling, og bør gis virkemidler som gir bedre gjennomslag i dette arbeidet. Partnerskapene for karriereveiledning i fylkene har på samme måte vist seg som en viktig mekanisme i arbeidet med sammenheng og kvalitet på fylkesnivå. Partnerskapene må sikres videre eksistens og utvikling gjennom en fortsatt tilskuddsordning med tydelige krav til forpliktende samarbeid på karriereveiledningsfeltet. I tillegg er det nødvendig med forpliktende samarbeid om feltet på nasjonalt nivå.
+
+Aktørbildet innenfor karriereveiledning i Norge er, som vist over, mangfoldig. Det er derfor behov for strukturer for dialog og samarbeid på flere nivåer. På departementsnivået er det Kunnskapsdepartementet som har ansvaret for utdanningspolitikken og koordinering av kompetansepolitikken, og departementet har dermed også et hovedansvar for karriereveiledningsfeltet. Det er imidlertid svært viktig at det eksisterer tett dialog og samarbeid om karriereveiledningsfeltet mellom Kunnskapsdepartementet og de andre departementene med ansvar for karriereveiledningstjenester, for å sikre en koordinert, strategisk styring. Denne dialogen bør inn i en fast form. På underliggende etats nivå bør et hovedansvar for helheten fortsatt ligge til Vox, som den etaten som har ansvaret for kompetansepolitikken. Man bør vurdere om denne etaten bør gis større myndighet til å utvikle feltet gjennom for eksempel et ansvar for nasjonale kompetansestandarder for alle sektorer. En styrking av Vox som overordnet og helhetlig aktør betinger imidlertid ett tett samarbeid og avstemte mandat og roller med både Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet (NAV) og IMDi for å få effekt. For at et helhetlig system skal fungere, er det svært viktig at disse tre direktoratene som favner utdanning, arbeid og integrering også tar sin rolle som aktør og myndighetsutøver innenfor feltet. Dette gjelder spesielt Utdanningsdirektoratet og NAV. Utdanningsdirektoratet har ansvar for rådgivning i grunnopplæringen som del av utdanningspolitikken. Hvert årskull innenfor ungdomstrinnet og videregående er på omlag 60 000, og rådgivningen i skolen foregår ikke bare på ett årstrinn. Det vil si at det er flere hundre tusen ungdommer som årlig skal ha tilgang til karriereveiledning. I NAV arbeider en stor andel av de 18 000 ansatte med karriereorientert veiledning i møte med titusener av brukere. Disse to sektoraktørene har dermed ansvar for den største delen av karriereveiledningsfeltet. I hvor stor grad disse to aktørene satser på kompetanse, kvalitet og ressurser innenfor sine sektorer vil til syvende og sist være avgjørende for om en satsing på feltet lykkes. Det er også behov for en arena som sikrer jevnlig samordning mellom aktørene på underliggende etats nivå. I punkt 5.4.1 beskriver utvalget utfordringene med å få Nasjonal koordineringsgruppe for karriereveiledning, som ledes av Vox, til å fungere etter hensikten. Det er derfor viktig at et slikt forum for dette nivået sikres en bedre lederforankring i respektive etater og et mandat som alle de relevante departementene kjenner til og støtter. Utvalget har fått presentert det pågående, tverrdepartementale arbeidet med en nasjonal kompetansepolitisk strategi. Den statlige koordineringen av karriereveiledningsfeltet bør inngå som en del av oppfølgingen av denne. Utvalget ser for seg at et nasjonalt kompetansepolitisk partnerskap kunne være en egnet struktur for å unngå fragmentering og bidra til koordinert utvikling både på det bredere kompetansepolitiske området og på karriereveiledningsfeltet. De ulike virkemidlene bør ses i sammenheng og relevante departementer og partene i arbeidslivet bør delta. Et slikt nasjonalt kompetansepolitisk partnerskap vil være et strategisk forum hvor kompetansepolitikken som helhet diskuteres, og hvor karriereveiledning og utviklingen av et helhetlig system vil være ett av flere temaer. Slik utvalget ser det vil dette være en naturlig oppfølging av arbeidet med en nasjonal kompetansepolitisk strategi, hvor karriereveiledning er et viktig element.
+
+*Utvalget anbefaler*
+
+- Partnerskap videreføres i fylkene for å sikre samarbeid mellom ulike aktører som yter karriereveiledning.
+
+- Nasjonal enhet for karriereveiledning i Vox må få tydeliggjort og utvidet sitt mandat til å utvikle kvalitet, profesjonalitet og helhet innenfor karriereveiledning i Norge. Samtidig må rolle og arbeidsdeling samstemmes med sentrale aktører som NAV og Utdanningsdirektoratet.

@@ -1,902 +1,288 @@
-# Prop. 44 L (2016–2017), del 5 av 7 (side 48–60)
+# Prop. 44 L (2016–2017), del 5 av 7
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2016/a1a0f191-prop-44-l-20162017.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-44-l-20162017/id2524465/
 - Original-PDF: https://www.regjeringen.no/contentassets/8b004607815147e79c2d08f54e857277/no/pdfs/prp201620170044000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 48]
-
-48
-
-Prop. 44 L
-
-2016–2017
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-10 Styrets oppgaver og plikter
-10.1 Gjeldende rett
-Private høyskoler skal ledes av et styre som øverste organ, jf. universitets- og høyskoleloven § 8-1
-første ledd. Formuleringen innebærer at alle private høyskoler, uavhengig av selskapsform, skal
-ha et styre som plikter å påse at krav i eller i medhold av lov og tilskuddsbrev overholdes. Universitets- og høyskoleloven § 8-2 første ledd fastsetter
-at enhver beslutning som treffes av andre enn styret, treffes etter delegasjon fra styret og på styrets
-ansvar. Bestemmelsen er gjennom langvarig praksis tolket slik at den ikke griper inn i for eksempel
-generalforsamlingens myndighet. I andre ledd
-fastsettes det at styret kan delegere plikter etter
-universitets- og høyskoleloven, med mindre det
-følger av loven at styret selv skal fatte vedtak.
-Fagskoler skal etter fagskoleloven § 3 første
-ledd ha et styre som øverste ansvarlige styringsorgan. Bestemmelsen regulerer både offentlige
-og private fagskoler. Videre innebærer dette at
-styret plikter å tilse at krav i lov, i medhold av lov
-eller i tilskuddsbrev overholdes. I andre ledd er
-styrets ansvar presisert nærmere:
-«Styret er ansvarlig for at studentene får den
-utdanning som er forutsatt som grunnlag for
-godkjenningen, at alle vilkår for eventuelle statlige tilskudd overholdes og at virksomheten for
-øvrig drives i samsvar med gjeldende lover og
-regler. Styret er ansvarlig for at de opplysninger som blir gitt godkjenningsorganet og
-utdanningssøkende, er korrekte og fullstendige.»
-Etter fagskoleloven § 3 tredje ledd har fagskolestyret anledning til å delegere myndighet, med
-mindre annet er fastsatt. Departementet har hjemmel til å gi forskrift om organisering, styring og
-ledelse av fagskoleutdanning, jf. fagskoleloven § 3
-syvende ledd. Denne hjemmelen er ikke brukt.
-Avhengig av hvilken organisasjonsform virksomheten har valgt, vil styrets oppgaver og plikter, samt eventuelt forhold mellom styringsorgan
-og eierorgan, også reguleres av annen lovgivning. For aksjeselskap er generalforsamlingen
-
-det øverste organet i virksomheten, jf. aksjeloven
-§ 5-1 første ledd. Etter stiftelsesloven § 30 er styret stiftelsens øverste organ. Kravet om at private
-høyskoler og fagskoler skal ledes av et styre, griper ikke inn i den alminnelige ansvarsfordelingen som følger av aksjeloven.
-
-10.2 Forslag i høringsnotatet
-I høringsnotatet pekte departementet på at forslaget om krav til organisasjonsform vil innebære at
-alle private høyskoler og fagskoler som driver
-NOKUT-godkjent utdanning må drive som aksjeselskap eller stiftelse. I tråd med dette vil alle private institusjoner ha et styre. Enkelte av styrets
-plikter er presisert i universitets- og høyskoleloven og fagskoleloven i dag. Departementet
-mente det er behov for å regulere også andre
-sider av styrets plikter særskilt i universitets- og
-høyskoleloven og fagskoleloven, med utgangspunkt i de særlige hensynene som gjør seg gjeldende i utdanningssektoren.
-Departementet foreslo at det fastsettes i universitets- og høyskoleloven at styret ved private
-høyskoler skal sørge for at studentene får et tilbud
-som er i samsvar med bestemmelsene i loven. En
-slik presisering finnes allerede i fagskoleloven.
-Departementet foreslo å pålegge styrene ved
-private høyskoler og fagskoler en plikt til å fatte et
-årlig vedtak om at det er forsvarlig å starte opp et
-nytt studieår. Det ble foreslått at vedtaket skal
-være begrunnet. Dette forutsetter en særlig gjennomgang av blant annet virksomhetens økonomiske situasjon før vedtaket fattes. Formålet bak
-forslaget var å gi studentene en høyere grad av
-sikkerhet for at de får fullføre det forestående studieåret. Departementet pekte videre på at en plikt
-til å fatte et slikt vedtak kan virke bevisstgjørende
-på styret. Departementet foreslo at vedtaket skal
-fattes før opptak til nytt studieår.
-Departementet foreslo videre å pålegge styrene ved private høyskoler og fagskoler å etablere
-rutiner for internkontroll. Krav til internkontroll
-innebærer at styret plikter å gjennomføre systematiske kontrolltiltak for å sikre at tjenestene
-
-[Side 49]
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-leveres til studentene i samsvar med akkreditering, øvrige krav i lov og forskrift og tilskuddsbrev. Departementet foreslo en hjemmel til å gi
-forskrift om slik internkontroll.
-
-10.3 Høringsinstansenes syn
-19 høringsinstanser har merknader til forslaget.
-13 instanser støtter forslagene, mens seks går
-imot. Disse seks er de fem høringsinstansene fra
-Anthon B Nilsen-konsernet, samt Norske fag- og friskolers landsforbund. Også blant de 13 høringsinstansene som uttaler at de støtter forslagene er
-det enkelte merknader til deler av forslaget.
-VID vitenskapelige høgskole viser til at departementets forslag vil komme i tillegg til regler i
-aksje- og stiftelseslovgivningen. Høyskolen mener
-likevel det kan være gode grunner for å fastsette
-enkelte særlige krav til institusjonens styre i sektorlovgivningen, og støtter derfor forslaget.
-NOKUT sier at det er positivt at styrets ansvar
-presiseres, men mener at det må presiseres slik at
-institusjonen har ansvar for hele studieløpet.
-Når det gjelder forslaget om innføring av hjemmel for internkontroll, uttaler Det teologiske menighetsfakultet at de har forståelse for forslaget, men
-at
-«(…)departementet synes å stille høyere krav
-til «systematiske kontrolltiltak» (internkontroll) for styrer ved private høyskoler enn ved
-statlige.»
-Dronning Mauds Minne Høgskole for barnehagelærerutdanning sier at de støtter departementets
-forslag, men legger til at
-«[K]ravet om internkontroll (…) ikke er nødvendig å få inn i ny universitets- og høyskolelov,
-men at det er tilstrekkelig at dette enten reguleres i forskrift eller tildelingsbrev.»
-Virke mener at forslaget om internkontroll vil bety
-en unaturlig arbeidsdeling mellom styret og ledelsen.
-Organisasjon for norske fagskolestudenter og
-NOKUT støtter forslaget om at vedtak om oppstart skal fattes før opptak. Det er imidlertid et
-flertall av høringsinstanser som går imot forslaget
-om at styret skal fatte slikt oppstartsvedtak før
-opptak. Også blant de som støtter forslaget argumenteres det for at et slikt vedtak i stedet bør fattes før studiestart. Dette gjelder blant annet Noroff
-Education, Abelia og Studieforbundet AOF.
-
-49
-
-Begrunnelsen er blant annet at det er først ved
-studiestart at styret kan ha tilstrekkelig grunnlag
-for å fatte en kvalifisert beslutning om igangsetting. Virke ber også om at departementet revurderer om det er hensiktsmessig å innføre et slikt
-krav til oppstartsvedtak.
-Abelia og Forum for fagskoler uttaler begge at
-«Mange fagskoler og høyskoler har løpende
-opptak fram til studiestart. Samtidig pålegger
-Forbrukerombudet private skoler at studiekontraktene gir studentene anledning til å
-trekke seg fram til studiestart, uten å bli belastet for noe annet enn en mindre registreringsavgift. Det er derfor først ved studiestart at styret ha et tilstrekkelig beslutningsgrunnlag for å
-kunne foreta en forsvarlig avgjørelse. I følge
-anbefalte studiekontrakter fra Forbrukerombudet så kan skolen forbeholder seg retten til å
-avlyse studier som følge av liten deltakelse
-eller av andre årsaker som er utenfor skolens
-kontroll. Varsel om avlysing skal sendes studenten så tidlig som mulig og senest innen
-1 uke før studiestart.»
-
-10.4 Departementets vurderinger
-10.4.1 Tydeliggjøring av forholdet mellom
-sektorlovene og aksjeloven og
-stiftelsesloven
-Forslaget i proposisjonens kapittel 4 vil føre til at
-alle private høyskoler vil være omfattet av reglene
-i aksjeloven eller stiftelsesloven, inkludert regulering av styrets oppgaver, plikter og ansvar. For private fagskoler vil alle utenom de to studieforbundene være omfattet av enten aksjeloven eller
-stiftelsesloven.
-Etter gjeldende rett fastsetter universitets- og
-høyskoleloven og fagskoleloven at institusjonene
-skal ledes av et styre som øverste organ. Departementet legger til grunn at bestemmelsen ikke griper inn i den alminnelige ansvarsfordelingen som
-er fastsatt i bakenforliggende lovgivning. Dette
-gjelder særlig for aksjeselskaper, hvor det i aksjeloven § 5-1 første ledd fastsettes at det er generalforsamlingen som er øverste myndighet i selskapet.
-Departementet ser imidlertid at ordlyden i
-universitets- og høyskoleloven og fagskoleloven
-kan være egnet til å skape uklarhet om forholdet
-til annen lovgivning. Som en konsekvens av forslaget i kapittel 4, og for å unngå uklarhet i forholdet
-til aksjeloven, foreslår departementet enkelte
-språklige endringer i bestemmelsene om styret i
-
-[Side 50]
-
-50
-
-Prop. 44 L
-
-2016–2017
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-universitets- og høyskoleloven og fagskoleloven.
-Endringene er ment å klargjøre gjeldende rett og
-forholdet mellom reglene i sektorlovene og annen
-lovgivning.
-Endringene gjelder formuleringer om styret i
-gjeldende universitets- og høyskoleloven §§ 8-1
-første ledd og 8-2 første ledd, og fagskoleloven § 3
-første ledd. I fagskoleloven presiseres regelverket
-slik at det fortsatt stilles krav om at studieforbund
-og fylkeskommunale fagskoler skal ha et styre
-som øverste organ. Kravet om at styret skal bestå
-av minst fem medlemmer vil gjelde for alle fagskoler.
-10.4.2 Styrets ansvar for utdanningen
-Enkelte høringsinstanser peker på at reguleringene i aksje- og stiftelseslovgivningen stiller tilstrekkelige krav til styret, også for virksomheter
-som tilbyr NOKUT-akkreditert utdanning.
-Departementet mener imidlertid at det er gode
-grunner til å utdype og presisere kravene til styret i universitets- og høyskoleloven og fagskoleloven. Den foreslåtte presiseringen legger til
-grunn regulering av styret i aksje- og stiftelseslovgivningen. Aksjelovens og stiftelseslovens
-bestemmelser tar imidlertid utgangspunkt i
-alminnelig forretningsdrift. Private høyskoler og
-fagskoler tilbyr offentlig godkjent utdanning,
-som på en rekke områder skiller seg fra alminnelig forretningsdrift.
-I fagskoleloven § 3 andre ledd heter det at styret er ansvarlig for «at studentene får den utdanning som er forutsatt som grunnlag for godkjenningen». Dette er en presisering av det ansvaret fagskolestyret har. Samtidig synliggjør bestemmelsen hensynet til studentene, og til at den tjenesten
-som leveres skal være i tråd med den faglige kvaliteten som ligger til grunn for fagskolegodkjenningen.
-Departementet mener en tilsvarende presisering av styrets ansvar for innholdet i utdanningstjenesten bør inkluderes i universitets- og
-høyskoleloven. Det er hensiktsmessig å synliggjøre kjernen i institusjonens oppgaver og knytte
-denne til styrets oppgaver og plikter, av hensyn til
-styret, institusjonen for øvrig og studentene. På
-samme måte som for fagskoler, innebærer dette
-en presisering av styrets oppgaver.
-10.4.3 Vedtak om oppstart av studieår
-Departementet foreslo at styret pålegges å fatte
-særlig vedtak med en vurdering av om det er
-grunnlag for drift studieåret gjennom før opptak
-
-av studenter. De fleste høringsinstansene støtter
-forslaget om et årlig igangsettingsvedtak. Departementet legger til grunn at et slikt krav til styret
-kun innebærer en formalisering og tidfesting av
-en allerede eksisterende plikt til å vurdere forutsetninger for videre drift. Igangsettingsvedtaket
-krever en særlig gjennomgang av blant annet virksomhetens økonomiske situasjon, tilfang av studenter, tilgang på lærerkrefter mv. Styret må selv
-vurdere hvilke øvrige momenter som er relevante
-for den helhetlige vurderingen ut fra virksomhetens situasjon.
-Departementet mener et slikt vedtak vil innebære at studentene får en høyere grad av sikkerhet for at det inneværende studieåret kan fullføres, noe som vil styrke studentens posisjon.
-Videre mener departementet det vil bidra til å
-bevisstgjøre styret om den økonomiske og driftsmessige situasjonen i virksomheten.
-Departementet mener et slikt vedtak skal fattes årlig. Det vil kunne være vanskelig å forutsi
-den økonomiske situasjonen, studenttilfang mv.
-over lenger tid enn ett år. Departementet fastholder dermed forslaget om at vedtaket skal gjelde
-for ett år. Et ytterligere moment for å kreve et slikt
-vedtak årlig, er reglene om årsregnskap og årsberetning mv., jf. regnskapsloven kapittel 3.
-Flere høringsinstanser har kommentert departementets forslag til når vedtaket må fattes. Departementet ser at det kan være utfordrende å fatte et
-slik vedtak før opptak, blant annet fordi en rekke
-institusjoner praktiserer løpende opptak. Det er
-også et moment at Forbrukerombudets retningslinjer om studiekontrakter har som utgangspunkt
-at en student bør kunne trekke seg inntil studiestart uten å måtte betale mer enn et administrasjonsgebyr. Departementet er enig med flertallet
-av høringsinstansene i at det er hensiktsmessig at
-et slikt vedtak fattes før studiestart. Departementet legger til grunn at styrene på tidspunktet for
-studiestart har et informasjonsgrunnlag som gjør
-begrunnede oppstartsvedtak praktisk og mulig.
-Departementet mener at vedtak om igangsetting av studieåret skal gjøres allment tilgjengelig.
-Det bør etter departementets syn legges ut på
-institusjonens hjemmesider eller gjøres kjent for
-studentene på annen hensiktsmessig måte.
-10.4.4 Internkontroll
-Departementet foreslår at styret pålegges en plikt
-til å sørge for at det etableres og gjennomføres
-systematiske kontrolltiltak, såkalt internkontroll.
-Departementet viser til at etterlevelse av gjeldende regelverk er styrets ansvar i dag. Departe-
-
-[Side 51]
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-mentet mener det er hensiktsmessig å understreke dette kravet for virksomheter som driver
-privat høyere utdanning og fagskoleutdanning.
-Hvordan et system for internkontroll vil måtte innrettes for å være formålseffektivt, vil kunne variere ut i fra den enkeltes virksomhets størrelse,
-egenart og lignende. I høringsrunden ble det innvendt at et slikt krav vil legge større byrder på styrer ved private institusjoner sammenlignet med
-styrer ved statlige institusjoner. Departementet
-viser til at kravet om internkontroll som blir foreslått her tilsvarer statlige universiteter og høyskolers krav til internkontroll i Reglement for økonomistyring i staten, jf. § 14 Intern kontroll.
-
-51
-
-Departementet foreslår også at departementet
-gis hjemmel til å gi forskrift om internkontroll.
-Departementet viser til behovet for å kunne presisere styrets plikt til systematisk arbeid med
-internkontroll ytterligere.
-Også studieforbund med godkjent fagskoleutdanning skal ha et styre som øverste organ, jf. fagskoleloven § 3 første ledd, og for øvrig er styret
-pålagt kravene i fagskoleloven i alminnelighet.
-Dette innebærer at kravene til styret også skal
-gjelde for studieforbundene.
-Departementet viser til lovforslaget til universitets- og høyskoleloven §§ 8-1 og 8-2 og fagskoleloven § 3.
-
-[Side 52]
-
-52
-
-Prop. 44 L
-
-2016–2017
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-11 Tilsyn
-11.1 Gjeldende rett
-Tilsynsansvaret for private høyskoler og fagskoler
-er delt mellom tilsyn med kvalitet og tilsyn med
-andre forhold etter universitets- og høyskoleloven
-og fagskoleloven. Det er NOKUT som fører tilsyn
-med kvaliteten i utdanningen både for private høyskoler og fagskoler, jf. universitets- og høyskoleloven § 2-1.
-Universitets- og høyskoleloven § 8-3 tredje
-ledd fastsetter at det er departementet fører tilsyn
-med private høyskoler som mottar statstilskudd:
-«Departementet fører tilsyn med private universiteter og høyskoler som mottar statstilskudd. Departementet kan gi nærmere
-bestemmelser om årsregnskap og tilsyn i
-forskrift.»
-Hjemmel til å fastsette nærmere krav om årsregnskap og tilsyn i forskrift er per i dag ikke benyttet.
-Det fastsettes krav til rapportering som grunnlag
-for kontroll og tilsyn i det årlige tilskuddsbrevet.
-Nærmere krav til rapporteringen fremgår av vedlegg til tilskuddsbrevet. Institusjonene er blant
-annet pålagt å rapportere regnskaps- og resultatdata.
-Av fagskoleloven § 15 andre ledd følger det at
-det er departementet som er tilsynsmyndighet for
-«fagskoleutdanning som mottar offentlig tilskudd».
-Etter ordlyden kan det forstås som at departementet er tilsynsmyndighet både for fagskoler som får
-fylkeskommunalt og statlig tilskudd. Det er i dag
-praksis for at fylkeskommunene selv har tilsynsansvaret for fagskoler som mottar fylkeskommunalt tilskudd.
-I § 15 tredje ledd er det gitt hjemmel til å gi forskrift om «nærmere regler for offentlig tilskudd til
-fagskoleutdanning, årsregnskap og tilsyn». Denne
-hjemmelen er ikke benyttet.
-Tilskuddsbrevet til private fagskoler inneholder supplerende krav til regnskap og annen
-dokumentasjon, samt opplysningsplikter overfor
-departementet ved vesentlige endringer i selskapet. I tillegg til kravene som er beskrevet i
-tilskuddsbrevet, fremgår det rapporteringskrav av
-
-vedlegg til tilskuddsbrevet. Institusjonene er blant
-annet pålagt å rapportere regnskaps- og resultatdata.
-Det er ikke fastsatt uttrykkelig hvem som er
-tilsynsmyndighet for private høyskoler og fagskoler som ikke mottar tilskudd. Disse institusjonene
-er heller ikke pålagt å rapportere regnskaps- og
-resultatdata til departementet. I lys av NOKUTs
-akkreditering er institusjonene likevel underlagt
-bestemmelsene i universitets- og høyskoleloven
-og fagskoleloven.
-Verken universitets- og høyskoleloven eller
-fagskoleloven regulerer tilsynsmyndighetens rett
-til informasjon og innsyn i dokumenter i forbindelse med tilsyn.
-
-11.2 Forslag i høringsnotatet
-Departementet foreslo en ny bestemmelse som
-presiserer at departementet er tilsynsmyndighet
-også for private høyskoler og fagskoler som ikke
-mottar tilskudd. Departementet foreslo videre en
-hjemmel til å fastsette nærmere reguleringer
-knyttet til tilsynet i forskrift.
-Departementet foreslo en hjemmel som gir tilsynsmyndigheten innsynsrett i det som anses
-som nødvendig informasjon for å kunne vurdere
-om virksomheten drives i tråd med regelverket.
-Det ble foreslått at dette også omfatter opplysninger som i utgangspunktet er omfattet av revisors
-taushetsplikt.
-
-11.3 Høringsinstansenes syn
-Det er 15 høringsinstanser som omtaler departementets forslag om regulering av tilsyn og tilsynsmyndighetens rett til dokumentasjon.
-Alle høringsinstansene støtter departementets
-forslag til hjemmel som gir departementet myndighet til å føre tilsyn med både institusjoner med og
-uten tilskudd. Blant disse finner vi NOKUT, Nettverk for private høyskoler (NPH), Virke, Abelia,
-Forum for fagskoler, Organisasjon for norske fagskolestudenter (ONF), Dronning Mauds Minne Høg-
-
-[Side 53]
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-skole for barnehagelærerutdanning (DMMH), VID
-vitenskapelige høgskole, Det teologiske menighetsfakultet (MF) og Norsk studentorganisasjon (NSO).
-NOKUT støtter forslaget om en klarere hjemmel for økonomisk tilsyn for alle private institusjoner og skriver:
-«En ryddig økonomi er en forutsetning for at
-institusjonene skal kunne drive utdanning med
-god kvalitet, og dette gjelder uavhengig av om
-institusjonen får statlig tilskudd eller ikke.»
-NPH skriver:
-«NPH støtter forslaget (…). NPH mener forslaget innebærer at departementet heretter vil
-føre tilsyn med alle private høyere utdanningsinstitusjoner uansett om disse mottar
-statlig tilskudd eller ei. Det bør i den forbindelse bli vurdert om det bør etableres et årlig
-rundskriv til de institusjonene som ikke mottar
-departementets årlige tilskuddsbrev. NPH
-mener et departementalt tilsyn med alle private
-høyskoler i forhold til dagens praksis, vil fordre
-økte krav til transparens, rapportering og lovfestede reaksjoner ved brudd på bestemmelsene. Av hensyn til det generelle omdømmet
-for norsk høyere utdanning er det viktig å føre
-tilsyn med at også private høyskolestyrer forvalter en forsvarlig egenkapital som garanterer
-studentene minst ett års studier osv.»
-Virke støtter departementets forslag, og fremhever det som positivt at offentlige og private høyskoler og fagskoler har samme tilsynsmyndighet.
-Dette hensynet nevnes også av ONF for fagskolenes del særlig. ONF påpeker at de er særlig opptatt av at tilsyn med offentlige fagskoler og private
-fagskoler skal gjøres av samme organ.
-Abelias høringsinnspill er likelydende med
-Forum for fagskoler og de fem høringsinstansene
-fra ABN-konsernet.1 Disse uttaler også støtte til
-forslaget om å fastsette nærmere reguleringer om
-tilsyn i forskrift. Abelia skriver:
-«Abelia støtter forslaget om at departementet
-skal ha egen lovhjemmel som presiserer at
-departementet har ansvaret for å føre tilsyn
-med private universiteter, høyskoler og fagskoler sin økonomiforvaltning iht lovverket.
-Abelia støtter også forslaget om at departementet i forskrift kan utarbeide bestemmelser
-1
-
-NKI nettstudier, Noroff Education, Westerdals, Treider,
-Anthon B Nilsen utdanning og Bjørknes.
-
-53
-
-om prosedyrer og øvrige krav i forbindelse
-med tilsyn, og at departementet må kunne fastsette bestemmelser for hva som skal kunne
-kreves av dokumentasjon.»
-Enkelte høringsinstanser har mindre innspill
-knyttet til utformingen av bestemmelsen. NOKUT
-skriver blant annet:
-«Imidlertid vil vi påpeke at en eventuell ny 8-5
-ikke bør ha overskriften «tilsyn» da tilsyn også
-– og i hovedsak – skjer gjennom NOKUTs virksomhet. En overskrift som angir hvilket
-område dette tilsynet føres innenfor vil være
-mer adekvat.»
-Enkelte høringsinstanser omtaler også forslaget
-om at opplysninger skal kunne gis uten hinder av
-lovbestemt taushetsplikt. Blant disse er NKI nettstudier og Virke. Sistnevnte skriver:
-«Virke støtter ikke departementets forslag om
-at opplysninger skal kunne gis uten hinder av
-lovbestemt eller avtalt taushetsplikt, slik som
-formulert i utkast til ny lovbestemmelse. Et
-eventuelt unntak fra lovbestemt taushetsplikt
-bør forbeholdes statsautorisert revisor etter
-modell fra lovgivningen som gjelder for studentsamskipnader.»
-
-11.4 Departementets vurderinger
-11.4.1 Presisering av hjemmel til å føre tilsyn
-Det er bred støtte til forslaget om å presisere i lov
-at det kan føres tilsyn med alle akkrediterte institusjoner. Departementet mener det er klargjørende at det fastsettes uttrykkelig i loven at departementet er tilsynsmyndighet også for de private
-høyskolene og fagskolene med NOKUT-akkreditering som ikke mottar tilskudd.
-Departementet foreslår at tilsynshjemmelen
-angis generelt. Tilsyn med private høyskoler og fagskoler, herunder disponering av tilskudd og egenbetaling, vil kunne omfatte en rekke sider ved institusjonens økonomiske, administrative og driftsmessige forhold. Dette inkluderer også å følge opp institusjonenes rapporteringsplikter. Hjemmel for å føre
-tilsyn med private høyskoler og fagskoler bør derfor ikke knyttes kun til oppfølging av tilskudd og
-egenbetaling. Tilsynsoppgaven både for private fagskoler og høyskoler er delt mellom tilsyn med kvalitet og tilsyn med økonomi. Det legges til grunn at
-tilsyn etter bestemmelsen som foreslås her, må
-avgrenses mot NOKUTs tilsyn med kvalitet.
-
-[Side 54]
-
-54
-
-Prop. 44 L
-
-2016–2017
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-Et tilsyn har til formål å kontrollere at regelverket er overholdt. Departementet viser til at
-slike vurderinger krever et tilstrekkelig informasjonsgrunnlag. I kapittel 12 omtales forslag om
-plikt til å rapportere informasjon, og i kapittel 13
-omtales reguleringer av regnskap og revisjon.
-Dette er krav til løpende rapportering og dokumentasjon som skal danne utgangspunkt for den
-løpende kontroll med virksomhetene.
-Departementet vektlegger at kravene overfor
-de private institusjonene bør innrettes på en måte
-som er effektiv for både virksomhetene selv og tilsynsmyndigheten. Dette innebærer at rapporteringskrav og krav til regnskap ikke skal overstige
-det som er nødvendig for at tilsynsmyndigheten
-skal kunne vurdere om midlene er benyttet i tråd
-med kravene. Ved tilsyn vil det være behov for
-ytterligere dokumentasjon og opplysning av ulike
-forhold tilsynsmyndigheten undersøker. Departementet mener det er rimelig at institusjoner som
-blir gjenstand for tilsyn må bistå under tilsynet,
-herunder gi opplysninger og legge frem tilstrekkelig dokumentasjon som er egnet til å vise at
-krav fastsatt i lov eller i medhold av lov er oppfylt.
-Departementet foreslår dermed at tilsynsmyndigheten skal ha tilgang til nødvendig dokumentasjon. Dette innebærer også at tilsynsmyndigheten
-også skal gis tilgang til å gjennomføre samtaler
-med ledere og ansatte ved institusjonen og gis tilgang til lokaler som disponeres av denne.
-Departementet vil framheve at opplysningsplikten etter forslaget vil omfatte alle måter som
-opplysninger kan gis på. Den omfatter blant annet
-å gi innsyn i, framlegge eller sammenstille dokumentasjon hvor opplysningene framgår. Etter
-departementets syn er det i utgangspunktet ikke
-nødvendig å lovfeste dette og at slike regler i prinsippet kan fastsettes i forskrift, jf. forslaget i høringen. Departementet har likevel kommet til at det
-vil skape større klarhet dersom plikten til å dokumentere opplysningene presiseres i lovteksten.
-Departementet foreslår derfor at det framgår av
-de aktuelle lovbestemmelsene at tilsynsmyndigheten kan kreve at den opplysningspliktige dokumenterer og redegjør for opplysningene ved for
-eksempel å utlevere eller sammenstille regnskapsmateriale med bilag, korrespondanse, styreprotokoller. Opplistingen er ikke uttømmende.
-Departementet legger til grunn at tilsynsmyndigheten i vurderingen av hvilke krav som skal
-stilles til opplysninger, må foreta en forholdsmes-
-
-sighetsvurdering av hvilken verdi opplysningene
-vil kunne antas å ha for myndighetene sammenholdt med den byrde som pålegges den opplysningspliktige.
-Departementet mener videre at slik informasjon skal kunne gis uten hinder av taushetsplikt.
-Også dette forslaget mottar generell støtte i høringen. Departementet viser til at en tilsvarende
-regulering gjelder for samskipnader, hvor departementet også er tilsynsmyndighet. I forslag til
-bestemmelse i høringen ble dette formulert til å
-gjelde uten hinder av taushetsplikt, uten å spesifisere nærmere kretsen for reguleringen. Flere
-høringsinstanser ønsker ikke at andre enn revisor
-og regnskapsfører skal omfattes av dette unntaket
-fra taushetsplikten. Departementet er enig i at
-dette er en hensiktsmessig avgrensning av unntaket.
-Departementet foreslår at det i forskrift kan
-gis utfyllende regler om hvordan opplysninger
-skal gis, samt om adgang til institusjonenes lokaler under tilsynet.
-
-11.5 Forholdet til forvaltningsloven
-Forvaltningsloven § 1 angir lovens generelle virkeområde. Her heter det at loven gjelder «den
-virksomhet som drives av forvaltningsorganer når
-ikke annet er bestemt i eller i medhold av lov.» Som
-forvaltningsorgan regnes et hvert organ for stat
-eller kommune.
-Departementet som tilsynsmyndighet er å
-regne som et forvaltningsorgan etter forvaltningsloven § 1. Dette innebærer at forvaltningsloven vil
-komme til generell anvendelse for departementets oppgave som tilsynsmyndighet, med mindre
-annet særlig fastsettes. Forvaltningsloven oppstiller sentrale rettssikkerhetsgarantier i form av
-blant annet habilitetsregler, klageregler og regler
-om taushetsplikt. Departementet mener ikke det
-er hensiktsmessig å oppstille unntak fra disse
-reglene for behandling av saker om tilsyn, og
-øvrige temaer som er behandlet her. Departementet legger til grunn at forvaltningsloven regler vil
-gjelde fullt ut for departementets arbeid som tilsynsmyndighet.
-Departementet viser til lovforslaget til universitets- og høyskoleloven § 8-5 og fagskoleloven
-§ 17.
-
-[Side 55]
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-55
-
-12 Rapportering av data
-12.1 Gjeldende rett
-
-12.2 Forslag i høringsnotatet
-
-I universitets- og høyskoleloven § 8-3 andre ledd
-er det fastsatt krav til rapportering av regnskap:
-
-Departementet foreslo en bestemmelse som
-pålegger både institusjoner som mottar og ikke
-mottar tilskudd, å rapportere regnskaps- og resultatinformasjon til departementet. Departementet
-foreslo at en slik hjemmel bør fastsettes i universitets- og høyskoleloven og fagskoleloven. Departementet foreslo videre en hjemmel til å fastsette
-nærmere regulering av rapportering i forskrift.
-
-«Styret ved private universiteter og høyskoler
-skal hvert år avlegge årsregnskap med redegjørelse for resultatene av virksomheten og
-budsjett for kommende år.»
-Krav til rapportering av resultat- og regnskapsinformasjon til Database for statistikk om høgre
-utdanning (DBH) er satt som vilkår for å motta
-statstilskudd. Rapporteringskravene meddeles
-private høyskoler i årlige tilskuddsbrev. Institusjoner som mottar tilskudd pålegges å rapportere
-relevante data til DBH.
-Krav til rapportering er ikke regulert i fagskoleloven eller tilhørende forskrifter. Det fremgår av tilskuddsbrevet til private fagskoler som
-mottar tilskudd at virksomheten pålegges å rapportere data til DBH.
-Den nærmere rapporteringsplikten for private
-høyskoler og fagskoler som mottar tilskudd fremgår av DBH sine nettsider. Krav om regnskapsinformasjon omfatter blant annet halvårsregnskap
-og årsregnskap etter departementets fastsatte
-mal, ledelseskommentarer, årsrapport, revidert
-årsregnskap med styrets og revisors beretning
-samt særattestasjon fra revisor. De private fagskolene og høyskolene skal rapportere inn regnskapsdata med resultatregnskap, balanse, noter
-og kontantstrømoppstilling, jf. regnskapslovens
-bestemmelser. Resultatinformasjonen som skal
-rapporteres, omfatter i tillegg antall studenter,
-poengproduksjon og annen relevant informasjon.
-Som følge av at rapporteringspliktene er etablert som vilkår for tilskudd, er det i dag ikke krav
-om at private høyskoler og fagskoler som ikke
-mottar tilskudd rapporterer data til departementet
-eller DBH.
-
-12.3 Høringsinstansenes syn
-Det er 19 høringsinstanser som omtaler forslaget
-til rapportering, og 18 av disse støtter forslaget.
-Virke har i utgangspunktet ikke innvendinger,
-men en merknad. Også instansene som støtter
-forslaget har enkelte merknader til selve rapporteringsforpliktelsene.
-NOKUT, Lånekassen, Nettverk for private høyskoler (NPH), Organisasjon for norske fagskolestudenter (ONF), Dronning Mauds Minne Høgskole
-for barnehagelærerutdanning (DMMH) og Det teologiske menighetsfakultet (MF) er blant høringsinstansene som støtter forslaget fullt ut. NOKUT
-skriver:
-«I høyere utdanning mangler man studentdata
-fra institusjonene som ikke får statsstøtte, og i
-tilsynssammenheng er dette uheldig. Derfor
-støtter NOKUT forslaget om hjemmel til å
-kunne pålegge alle institusjoner å rapportere
-dokumentasjon, herunder resultat- og studentdata.»
-Lånekassen uttaler i sitt høringsinnspill at de i sin
-helhet støtter departementets forslag til rapportering, kontroll, revisjon og sanksjoner. NPH skriver i sitt høringsinnspill:
-«NPH støtter forslaget …. NPH har tidligere
-påpekt behov for et forsterket rapporteringskrav også overfor all utdanningsvirksomhet
-som er NOKUT-godkjent uansett om institusjonen mottar statlig tilskudd eller ikke.»
-
-[Side 56]
-
-56
-
-Prop. 44 L
-
-2016–2017
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-Også ONF er positive, og skriver:
-«ONF støtter forslaget til § 11 i fagskoleloven
-og ser det som positivt at rapporteringsplikten
-skal gjelde alle institusjoner som tilbyr fagskoleutdanning.»
-Utdanningsforbundet mener departementet bør se
-til erfaringer fra tilgrensende sektorer:
-«Basert på erfaringene innenfor barnehagesektoren og privatskolesektoren, mener
-Utdanningsforbundet at det bør innføres en
-pliktig rapportering til tilsynsmyndigheten av
-alle delregnskap og rettssubjektets regnskap
-for alle private høyskoler og fagskoler. Utdanningsforbundet mener at en slik løsning i størst
-grad vil legge til rette for regelverksetterlevelse.»
-Abelia, Forum for fagskoler, Noroff Education, og
-høringsinstansene fra ABN-konsernet har likelydende og omforent innspill knyttet til rapportering. Alle høringsinstansene støtter forslaget om
-hjemmel for å kunne kreve rapportering. Abelia
-skriver om omfanget av rapporteringspliktene:
-«Abelia støtter departementet sin anbefaling
-om at alle private universiteter, høyskoler og
-fagskoler får rapporteringsplikt til departementet, så fremt rapporteringsplikten omfatter
-informasjon som virksomhetene normalt vil
-medta (eller vil måtte utarbeide) i forbindelse
-med avleggelse av sitt årsregnskap, med tillegg
-av informasjon om budsjetter og ledelseskommentarer som i dag rapporteres til departementet (DBH). Informasjon utover dette vil
-kunne virke tyngende for institusjoner med
-små eller outsourcede administrative funksjoner. Utfyllende informasjon bør heller fremvises tilsynsmyndighet på forespørsel.»
-Virke har i utgangspunktet ingen merknader til
-forslaget, men mener at rapporteringskravene bør
-begrenses ut fra administrative hensyn. VID vitenskapelige høgskole skriver om temaet:
-«VID har ingen anmerkninger til departementets forslag, men vil på generelt grunnlag
-bemerke at informasjonen som skal rapporteres utover allerede myndighetspålagt rapportering bør begrenses av hensyn til det administrative merarbeidet dette medfører på virksomhetsnivå. Det bør også tilstrebes effektive rapporteringsformer som i størst mulig grad stan-
-
-dardiseres og digitaliseres, og at data kun
-rapporteres en gang, ett sted.»
-
-12.4 Departementets vurderinger
-Krav til rapportering av data har flere formål. For
-det første vil rapportering knyttet til økonomiske
-og administrative sider av driften danne utgangspunkt for tilsynsmyndighetens løpende kontroll
-med virksomheten. Rapporteringsplikten bidrar
-til at det kan foretas kontroll med at virksomheten
-overholder kravene til bruk av tilskudd og egenbetaling og andre krav som følge av regelverket.
-Data som rapporteres til DBH danner også grunnlaget for departementets årlige tilstandsrapport
-for henholdsvis høyere utdanning og fagskoler.
-DBH kan også levere data etter bestilling i forbindelse med departementets utredninger. Dataene
-har dermed en rolle i departementets strategiske
-arbeid knyttet til kontroll med og utvikling av hele
-den høyere utdannings- og fagskolesektoren.
-Forslaget om at alle private høyskoler og fagskoler pålegges å rapportere regnskaps- og resultatdata mottar bred støtte i høringen. Det anses
-som positivt at departementet på denne måten sikrer seg et mer komplett datamateriale for alle
-institusjoner, uavhengig av om institusjonene får
-tilskudd eller ikke. Høringsinstansene peker
-videre på at dette vil bidra positivt både som
-grunnlag for kontroll og tilsyn, og for å tilrettelegge for bedre regeletterlevelse.
-Krav til rapportering av studentdata vil ha en
-funksjon ved monitorering av sektoren, for
-eksempel med hensyn til studiepoengproduksjon
-og antall studenter i ulike utdanninger. Det vil
-også ha en sentral funksjon ved tilsyn. Departementet legger til grunn at forslaget ikke gir hjemmel til å kreve rapportering på individnivå.
-De nærmere kravene til rapportering av regnskapsdata vil i stor grad måtte utformes ut fra
-øvrige reguleringer. Informasjonen må være tilstrekkelig til å kunne føre kontroll med institusjonene, men samtidig ikke medføre en unødvendig
-belastning for institusjonene. Institusjoner som
-ikke mottar tilskudd skal rapportere hvor stor del
-av et overskudd som disponeres som utdeling.
-Som pekt på i kapittel 7, mener departementet at
-denne informasjonen skal gjøres tilgjengelig for
-studentene.
-Enkelte høringsinstanser mener at det ikke
-bør stilles strengere krav til rapportering av regnskapsdata enn det som allerede følger av krav til
-regnskap og revisjon i generell lovgivning. Disse
-mener at det ikke skal stilles krav til materiale
-
-[Side 57]
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-som virksomhetene ikke allerede i dag må utarbeide. Departementet viser til at krav om rapportering og spesifikke krav til regnskapet følger som
-en konsekvens av blant annet kravene til disponering av tilskudd og egenbetaling. Det er behov for
-dokumentasjon som kan synliggjøre for tilsynsmyndigheten at midlene blir benyttet i tråd med
-reguleringene.
-Departementet mener det er hensiktsmessig å
-fastsette krav til rapportering av andre data enn
-regnskapsinformasjon i forskrift slik at disse ikke
-
-57
-
-bare fremkommer i tilskuddsbrevet. Disse kravene vil også gjelde for private høyskoler og fagskoler som ikke mottar tilskudd. Dette er likevel
-ikke til hinder for at det kan fastsettes krav til rapportering i tilskuddsbrev til høyskoler og fagskoler som mottar tilskudd. Dette vil i tilfelle
-gjelde informasjon som kun er relevant å kreve for
-institusjonene som mottar tilskudd.
-Departementet viser til lovforslaget til universitets- og høyskoleloven § 8-6 og fagskoleloven
-§ 18.
-
-[Side 58]
-
-58
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-13 Årsregnskap og revisjon
-13.1 Gjeldende rett
-I universitets- og høyskoleloven § 8-3 andre ledd
-stilles det et generelt krav knyttet til private høyskolers regnskap og budsjett:
-«Styret ved private universiteter og høyskoler
-skal hvert år avlegge årsregnskap med redegjørelse for resultatene av virksomhetene og
-budsjett for kommende år.»
-Bestemmelsen i universitets- og høyskoleloven
-gjelder etter sin ordlyd private høyskoler, uavhengig om de mottar tilskudd. Tilsvarende krav finnes ikke i fagskoleloven.
-I det årlige tilskuddsbrevet til private høyskoler og fagskoler som mottar tilskudd, fastsettes
-det ytterligere krav til rapportering av regnskap
-som grunnlag for kontroll og tilsyn. Nærmere
-krav til rapporteringen fremgår av vedlegg til tilskuddsbrevet. Private høyskoler og fagskoler som
-mottar tilskudd, pålegges å rapportere relevante
-data til Database for statistikk om høgre utdanning (DBH). Institusjonene er blant annet pålagt å
-levere halvårsregnskap og årsregnskap etter
-departementets fastsatte mal, ledelseskommentarer, årsrapport, revidert årsregnskap med styrets
-beretning og revisors beretning, samt særattestasjon vedrørende statstilskudd av revisor.
-Det er ikke stilt andre krav til og rapportering
-av regnskap for private høyskoler som ikke mottar
-tilskudd enn det som fremgår av universitets- og
-høyskoleloven § 8-3. Det er heller ikke fastsatt
-ytterligere reguleringer for private fagskoler som
-ikke mottar tilskudd.
-
-13.2 Forslag i høringsnotatet
-Som allerede redegjort for under forslag til krav til
-organisasjonsform i kapittel 4, foreslår departementet at alle virksomheter som driver NOKUTakkreditert utdanning, skal være regnskaps- og
-revisjonspliktige. For å kunne sikre at tilskudd og
-egenbetaling benyttes i tråd med forutsetningene,
-foreslo departementet at alle institusjoner skal
-
-underlegges krav om regnskap og revisjon. Dette
-omfatter både selskapsrettens krav og tilleggskravene som stilles i sektorlovgivningen. Dette vil
-innebære at virksomheter som er unntatt regnskapsplikter, for eksempel på grunn av virksomhetens størrelse, likevel vil være omfattet av pliktene dersom de driver NOKUT-akkreditert virksomhet.
-Departementet foreslo rapportering av årsregnskap for alle regnskapspliktige. Dette vil
-inkludere rapportering av tilleggsdokumentasjon
-og redegjørelser til regnskapet, som departementet har pekt på under de ulike forslagene for øvrig.
-Departementet viste til at det kan vurderes om
-ulike former for regnskapsopplysninger og dokumentasjon ikke skal rapporteres årlig, men kreves
-fremlagt på forespørsel.
-Detaljene i rapporteringspliktene er i dag oppstilt gjennom tilskuddsbrevet og gjennom DBHs
-nettsider. Når rapporteringspliktene er oppstilt
-gjennom lov og forskrift, vil dette også omfatte de
-private institusjonene som ikke mottar tilskudd.
-Departementet foreslo derfor en hjemmel til å
-fastsette reguleringer i forskrift.
-
-13.3 Høringsinstansenes syn
-Det er 16 høringsinstanser som har innspill til forslaget. Av disse er syv i hovedsak enige, mens syv
-har innvendinger. Alle høringsinstansene er enige
-i departementets forslag til regnskaps- og revisjonsplikt. Merknadene til forslaget gjelder kravene om tilleggsrapportering ut over selskapsrettens krav.
-Abelia og Forum for fagskoler, Dronning Mauds
-Minne Høgskole for barnehagelærerutdanning,
-Organisasjonen for norske fagskolestudenter, Studieforbundet Folkeuniversitetet, Utdanningsforbundet
-og VID vitenskapelige høgskole støtter i all hovedsak departementets forslag.
-Høringsinstansene fra ABN-konsernet skriver i
-sine likelydende svar:
-«Vi støtter departementets forslag om at private universiteter, høyskoler og fagskoler skal
-
-[Side 59]
-
-2016–2017
-
-Prop. 44 L
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-følge regnskapslovgivningens bestemmelser.
-Vi støtter også at regnskapene skal være revidert av statsautorisert eller registrert revisor.
-Vi støtter ikke at virksomhetene i sitt offisielle
-årsregnskap med noter skal gi mer informasjon enn det som følger av selskaps- og regnskapslovgivningen. Slik utfyllende informasjon
-bør heller fremlegges tilsynsmyndighet på
-forespørsel.»
-Virke skriver:
-«Virke støtter departementets krav om at det
-skal utarbeides og rapporteres adskilte regnskaper for de ulike delene av virksomhetene.
-Virke anser imidlertid dette som del av internregnskapet og mener det ikke bør inngå som
-en del av virksomhetens samlede årsregnskap.
-Først og fremst fordi informasjonsverdien av
-denne informasjonen er svært begrenset for
-alle andre interessenter enn tilsynsmyndighetene. Dernest fordi et krav om at disse opplysningene skal inngå i note vil medføre administrativt merarbeid for den enkelte virksomhet i
-kombinasjon med økte kostnader knyttet til
-revisjon av regnskapet. Informasjonen bør
-være tilgjengelig for myndighetene gjennom
-direkterapportering.»
-Utdanningsforbundet viser til erfaringer fra friskoleområdet, og mener regnskapene skal rapporteres årlig, ikke kun kreves fremlagt på forespørsel:
-«Erfaringer med tilsyn etter privatskoleloven,
-viser at det brukes store ressurser på å følge
-opp at skolene leverer regnskap for annen virksomhet enn selve skoledriften. Dette tilsier at
-det ikke bør være tilstrekkelig at institusjonene
-på forespørsel skal kunne framlegge og dokumentere adskilte regnskaper. Basert på erfaringene både innenfor barnehagesektoren og
-privatskolesektoren, mener Utdanningsforbundet at det bør innføres en pliktig rapportering til tilsynsmyndigheten av alle delregnskap
-og rettssubjektets regnskap for alle private
-høyskoler og fagskoler. Utdanningsforbundet
-mener at en slik løsning i størst grad vil legge
-til rette for regelverksetterlevelse.»
-Også Nettverk for private høyskoler støtter tilleggsrapportering i årsregnskapet og mener at nødvendig segmentinformasjon bør kunne kreves så vel i
-forskrift som i tilskuddsbrev, og at den skal
-fremgå av den årlige regnskapsrapporteringen.
-
-59
-
-13.4 Departementets vurderinger
-Departementet foreslår at de foreslåtte kravene til
-regnskapet skal følge opp krav til bruk av tilskudd
-og egenbetaling. Det skal føres tilsyn og kontroll
-med at kravene til lovlig disponering av tilskudd
-og egenbetaling overholdes.
-Departementet vektlegger at kontroll og tilsyn
-skal innrettes hensiktsmessig og effektivt, med en
-rimelig fordeling av plikter på institusjonene og tilsynsmyndighetene. Særlige krav til regnskapet, ut
-over det som følger av alminnelig selskapslovgivning, bør være konkret og direkte begrunnet i
-kravene i universitets- og høyskoleloven og fagskoleloven. Krav til lovlig disponering av tilskudd
-og egenbetaling må samtidig følges opp av dokumentasjonsplikter som kan gjøre det mulig å vurdere om reguleringene er etterlevd.
-Krav om at virksomheten må drives som stiftelse eller aksjeselskap innebærer at det allerede
-stilles krav til regnskap og revisjon gjennom selskapslovgivningen. Fordi kravene utdypes i universitets- og høyskoleloven og fagskoleloven, og
-for å dekke studieforbund, er regnskapsloven
-foreslått gjort eksplisitt gjeldende i fagskoleloven
-og universitets- og høyskoleloven. Departementet mener det ikke er urimelig arbeids- eller kostnadskrevende å pålegge virksomheter som driver
-offentlig godkjent utdanning, utvidelser i regnskapsrapporteringen for å sikre innsyn i at midlene blir benyttet i tråd med kravene. Departementet mener videre at de samme reglene i regnskapsloven skal gjelde for alle virksomheter, uavhengig av størrelse.
-For å kunne sikre at tilskudd og egenbetaling
-benyttes i tråd med forutsetningene, mener departementet at alle institusjoner skal underlegges
-krav om regnskap og revisjon. Dette omfatter
-både selskapsrettens krav og tilleggskravene som
-stilles i sektorlovgivningen. Departementet mener
-videre at virksomheter som er unntatt regnskapsplikter, for eksempel på grunn av virksomhetens størrelse eller omsetning, likevel vil være
-omfattet av pliktene når de driver NOKUT-akkreditert virksomhet. Institusjonene vil da ikke
-kunne benytte seg av unntakene i regnskapsloven
-for små foretak. Departementet mener videre at
-kravene til årsregnskap skal være like for
-NOKUT-akkreditert virksomhet. Regnskapene
-bør være sammenliknbare innenfor sektorene og
-gi sikkerhet for at regnskapene gir et rettvisende
-bilde når dette skal vurderes opp mot de andre
-foreslåtte reguleringene.
-Bokføringsloven § 13 gir plikt til å oppbevare
-regnskapsmateriale og angir oppbevaringstid for
-
-[Side 60]
-
-60
-
-Prop. 44 L
-
-2016–2017
-
-Endringer i lov om universiteter og høyskoler og lov om fagskoleutdanning (organisasjonsform, disponering av tilskudd og
-egenbetaling mv.)
-
-ulike typer dokumentasjon. Kravet til oppbevaringstid for regnskapsmateriale som nevnt i
-bokføringsloven § 13 første ledd nr. 1 til 4, såkalt
-primærdokumentasjon, er fem år etter regnskapsårets slutt, jf. § 13 andre ledd. For regnskapsmateriale nevnt i nr. 5 til 8, såkalt sekundær informasjon, er kravet til oppbevaringstid tre år og seks
-måneder etter regnskapsårets slutt.
-Ved kontroll av institusjonenes disponeringer
-av tilskudd og egenbetalinger vil det regelmessig
-være behov for å undersøke transaksjoner og
-avtaler lengre tilbake i tid enn fem år. Oppbevaringsfristene i bokføringsloven vil dermed kunne
-medføre at regnskapsmateriale, som er relevant
-og nødvendig for kontrollen av at tilskudd og
-egenbetalinger har blitt benyttet i tråd med regelverket, kan bli lovlig slettet og i realiteten avskåret
-fra kontroll.
-Departementet ser derfor behov for å kunne
-fastsette forskrift om plikt for institusjonene til å
-oppbevare regnskapsmateriale, som nevnt i bokføringsloven § 13 første ledd nr. 1 til 8, lengre enn
-minimumskravene oppstilt i bestemmelsens
-andre ledd.
-Departementet mener kravene som foreslås er
-direkte begrunnet i de ulike kravene til bruk av tilskudd og egenbetaling, og samlet sett ikke fremstår som uforholdsmessig byrdefulle. I kapittel 6
-omtales krav om regnskapsmessig skille, hva
-dette innebærer, og bakgrunnen for kravet. Kravet om regnskapsmessig skille medfører også at
-departementet foreslår rapportering av segmentinformasjon i note til årsregnskapet som viser
-resultatregnskap og balanse for de ulike delene av
-virksomheten. Dette er en utvidelse av regnskapsplikten sammenlignet med selskapslovgivningen, men rapportering av disse opplysningene
-anses ikke som uforholdsmessig byrdefullt i forhold til behovet for å avgrense statstilskudd og
-egenbetaling. Rapporteringsplikten er en naturlig
-konsekvens av kravet om regnskapsmessig skille,
-
-og er nødvendig for tilsynsmyndighetens løpende
-kontroll på overordnet nivå. Rapporteringen av
-segmentinformasjon er også nødvendig for at
-andre regnskapsbrukere, slik som for eksempel
-studentene, skal kunne lese avgrensningen av
-statstilskuddet og egenbetalingen. At segmentinformasjonen rapporteres innebærer at styret formelt går god for informasjonen, og at revisor
-bekrefter at denne gir et rettmessig bilde av virksomheten.
-Kravet om økonomisk skille innebærer at delregnskapet skal presenteres sammen med årsregnskapet og at noten med delregnskapet skal
-revideres i samsvar med revisjonsstandardene.1
-Departementet bemerker at formålet med revisjonen er å kontrollere at det kun er kostnader for
-aktiviteter som vedrører den akkrediterte utdanningsvirksomheten som er belastet dette delregnskapet, samt at alle relevante inntekter tilsvarende
-er tilordnet delregnskapet, og at endringer i balansen også er ivaretatt i tråd med det økonomiske
-skillet. Departementet legger til grunn at revisor
-fastsetter en særskilt vesentlighetsgrense i sin
-revisjon av noten.2 Vurderingen revisor gjør, skal
-gjenspeile formålet med revisjonen. Virksomheten må informere revisor om dette i forkant av
-revisjonen.
-Detaljene i rapporteringspliktene er i dag oppstilt gjennom tilskuddsbrevet og DBH sine nettsider. Når rapporteringspliktene er oppstilt i lov,
-vil dette også omfatte de private institusjonene
-som ikke mottar tilskudd. Departementet mener
-derfor det er hensiktsmessig å gi mulighet til å
-fastsette ytterligere reguleringer i forskrift.
-Departementet viser til lovforslaget til universitets- og høyskoleloven § 8-7 og fagskoleloven
-§ 19.
-1
-2
-
-ISA – International Standards on Auditing.
-I samsvar med ISA 320.
+Krav til rapportering er ikke regulert i fag-skole-loven eller tilhørende forskrifter. Det fremgår av tilskuddsbrevet til private fagskoler som mottar tilskudd at virksomheten pålegges å rapportere data til DBH.
+
+Den nærmere rapporteringsplikten for private høyskoler og fagskoler som mottar tilskudd fremgår av DBH sine nettsider. Krav om regnskaps-informasjon omfatter blant annet halvårsregnskap og årsregnskap etter departementets fastsatte mal, ledelseskommentarer, årsrapport, revidert årsregnskap med styrets og revisors beretning samt særattestasjon fra revisor. De private fag-skolene og høyskolene skal rapportere inn regnskapsdata med resultatregnskap, balanse, noter og kontantstrømoppstilling, jf. regnskapslovens bestemmelser. Resultatinformasjonen som skal rapporteres, omfatter i tillegg antall studenter, poengproduksjon og annen relevant informasjon.
+
+Som følge av at rapporteringspliktene er etablert som vilkår for tilskudd, er det i dag ikke krav om at private høyskoler og fagskoler som ikke mottar tilskudd rapporterer data til departementet eller DBH.
+
+BrøBrø**Forslag i høringsnotatet**
+
+BrøDepartementet foreslo en bestemmelse som pålegger både institusjoner som mottar og ikke mottar tilskudd, å rapportere regnskaps- og resultatinformasjon til departementet. Departementet foreslo at en slik hjemmel bør fastsettes i universitets- og høyskoleloven og fagskoleloven. Departementet foreslo videre en hjemmel til å fastsette nærmere regulering av rapportering i forskrift.
+
+BrøBrø**Høringsinstansenes syn**
+
+BrøDet er 19 høringsinstanser som omtaler forslaget til rapportering, og 18 av disse støtter forslaget. *Virke* har i utgangspunktet ikke innvendinger, men en merknad. Også instansene som støtter forslaget har enkelte merknader til selve rapport-eringsforpliktelsene.
+
+*NOKUT, Lånekassen, Nettverk for private høyskoler (NPH), Organisasjon for norske fag-skole-studenter (ONF), Dronning Mauds Minne Høgskole for barnehagelærerutdanning (DMMH)* og *Det teologiske menighets-fakultet (MF)* er blant hørings-instansene som støtter fors-laget fullt ut. NOKUT skriver:
+
+BrøBrø«I høyere utdanning mangler man studentdata fra institusjonene som ikke får statsstøtte, og i tilsynssammenheng er dette uheldig. Derfor støtter NOKUT forslaget om hjemmel til å kunne pålegge alle institusjoner å rapportere dokumentasjon, herunder resultat- og studentdata.»
+
+BrøLånekassen uttaler i sitt høringsinnspill at de i sin helhet støtter departementets forslag til rapportering, kontroll, revisjon og sanksjoner. NPH skriver i sitt høringsinnspill:
+
+BrøBrø«NPH støtter forslaget …. NPH har tidligere påpekt behov for et forsterket rapporteringskrav også overfor all utdanningsvirksomhet som er NOKUT-godkjent uansett om institusjonen mottar statlig tilskudd eller ikke.»
+
+BrøOgså ONF er positive, og skriver:
+
+BrøBrø«ONF støtter forslaget til § 11 i fagskoleloven og ser det som positivt at rapporteringsplikten skal gjelde alle institusjoner som tilbyr fag-skoleutdanning.»
+
+Brø*Utdanningsforbundet* mener departementet bør se til erfaringer fra tilgrensende sektorer:
+
+BrøBrø«Basert på erfaringene innenfor barnehagesektoren og privatskolesektoren, mener Utdanningsforbundet at det bør innføres en pliktig rapportering til tilsynsmyndigheten av alle delregnskap og rettssubjektets regnskap for alle private høyskoler og fagskoler. Utdanningsforbundet mener at en slik løsning i størst grad vil legge til rette for regelverksetter-levelse.»
+
+Brø*Abelia, Forum for fagskoler, Noroff Education,* og høringsinstansene fra *ABN-konsernet* har like-lydende og omforent innspill knyttet til rapportering. Alle høringsinstansene støtter forslaget om hjemmel for å kunne kreve rapportering. Abelia skriver om omfanget av rapporteringspliktene:
+
+BrøBrø«Abelia støtter departementet sin anbefaling om at alle private universiteter, høyskoler og fagskoler får rapporteringsplikt til departementet, så fremt rapporteringsplikten omfatter informasjon som virksomhetene normalt vil medta (eller vil måtte utarbeide) i forbindelse med avleggelse av sitt årsregnskap, med tillegg av informasjon om budsjetter og ledelseskommentarer som i dag rapporteres til departementet (DBH). Informasjon utover dette vil kunne virke tyngende for institusjoner med små eller outsourcede administrative funk-sjoner. Utfyllende informasjon bør heller frem-vises tilsynsmyndighet på forespørsel.»
+
+Brø*Virke* har i utgangspunktet ingen merknader til forslaget, men mener at rapporteringskravene bør begrenses ut fra administrative hensyn. *VID vitenskapelige høgskole* skriver om temaet:
+
+BrøBrø«VID har ingen anmerkninger til departementets forslag, men vil på generelt grunnlag bemerke at informasjonen som skal rapporteres utover allerede myndighetspålagt rapportering bør begrenses av hensyn til det administrative merarbeidet dette medfører på virksomhetsnivå. Det bør også tilstrebes effektive rapporteringsformer som i størst mulig grad standardiseres og digitaliseres, og at data kun rapporteres en gang, ett sted.»
+
+BrøBrø**Departementets vurderinger**
+
+BrøKrav til rapportering av data har flere formål. For det første vil rapportering knyttet til økonomiske og administrative sider av driften danne utgangspunkt for tilsynsmyndighetens løpende kontroll med virksomheten. Rapporteringsplikten bidrar til at det kan foretas kontroll med at virksomheten overholder kravene til bruk av tilskudd og egenbetaling og andre krav som følge av regelverket. Data som rapporteres til DBH danner også grunnlaget for departementets årlige tilstandsrapport for henholdsvis høyere utdanning og fagskoler. DBH kan også levere data etter bestilling i forbindelse med departementets utred-ninger. Dataene har dermed en rolle i departementets strategiske arbeid knyttet til kontroll med og utvikling av hele den høyere utdannings- og fagskolesektoren.
+
+Forslaget om at alle private høyskoler og fagskoler pålegges å rapportere regnskaps- og resultatdata mottar bred støtte i høringen. Det anses som positivt at departementet på denne måten sikrer seg et mer komplett datamateriale for alle institusjoner, uavhengig av om institusjonene får tilskudd eller ikke. Høringsinstansene peker videre på at dette vil bidra positivt både som grunnlag for kontroll og tilsyn, og for å tilrettelegge for bedre regeletterlevelse.
+
+Krav til rapportering av studentdata vil ha en funksjon ved monitorering av sektoren, for eksempel med hensyn til studiepoengproduksjon og antall studenter i ulike utdanninger. Det vil også ha en sentral funksjon ved tilsyn. Departementet legger til grunn at forslaget ikke gir hjemmel til å kreve rapportering på individnivå.
+
+De nærmere kravene til rapportering av regnskapsdata vil i stor grad måtte utformes ut fra øvrige reguleringer. Informasjonen må være tilstrekkelig til å kunne føre kontroll med institusjonene, men samtidig ikke medføre en unødvendig belastning for institusjonene. Institusjoner som ikke mottar tilskudd skal rapportere hvor stor del av et overskudd som disponeres som utdeling. Som pekt på i kapittel 7, mener departementet at denne informasjonen skal gjøres tilgjengelig for studentene.
+
+Enkelte høringsinstanser mener at det ikke bør stilles strengere krav til rapportering av regnskapsdata enn det som allerede følger av krav til regnskap og revisjon i generell lovgivning. Disse mener at det ikke skal stilles krav til materiale som virksomhetene ikke allerede i dag må utarbeide. Departementet viser til at krav om rapportering og spesifikke krav til regnskapet følger som en konsekvens av blant annet kravene til disponering av tilskudd og egenbetaling. Det er behov for dokumentasjon som kan synliggjøre for tilsynsmyndigheten at midlene blir benyttet i tråd med reguleringene.
+
+Departementet mener det er hensiktsmessig å fastsette krav til rapportering av andre data enn regnskapsinformasjon i forskrift slik at disse ikke bare fremkommer i tilskuddsbrevet. Disse krav-ene vil også gjelde for private høyskoler og fagskoler som ikke mottar tilskudd. Dette er likevel ikke til hinder for at det kan fastsettes krav til rapportering i tilskuddsbrev til høyskoler og fag-skoler som mottar tilskudd. Dette vil i tilfelle gjelde informasjon som kun er relevant å kreve for institusjonene som mottar tilskudd.
+
+Departementet viser til lovforslaget til universitets- og høyskoleloven § 8-6 og fagskoleloven § 18.
+
+BrøBrø**Årsregnskap og revisjon**
+
+BrøBrø**Gjeldende rett**
+
+BrøI universitets- og høyskoleloven § 8-3 andre ledd stilles det et generelt krav knyttet til private høyskolers regnskap og budsjett:
+
+BrøBrø«Styret ved private universiteter og høyskoler skal hvert år avlegge årsregnskap med redegjørelse for resultatene av virksomhetene og budsjett for kommende år.»
+
+BrøBestemmelsen i universitets- og høyskoleloven gjelder etter sin ordlyd private høyskoler, uavhengig om de mottar tilskudd. Tilsvarende krav finnes ikke i fagskoleloven.
+
+I det årlige tilskuddsbrevet til private høyskoler og fagskoler som mottar tilskudd, fastsettes det ytterligere krav til rapportering av regnskap som grunnlag for kontroll og tilsyn. Nærmere krav til rapporteringen fremgår av vedlegg til tilskuddsbrevet. Private høyskoler og fagskoler som mottar tilskudd, pålegges å rapportere relevante data til Database for statistikk om høgre utdanning (DBH). Institusjonene er blant annet pålagt å levere halvårsregnskap og årsregnskap etter departementets fastsatte mal, ledelseskommentarer, årsrapport, revidert årsregnskap med styrets beretning og revisors beretning, samt særattestasjon vedrørende statstilskudd av revisor.
+
+Det er ikke stilt andre krav til og rapportering av regnskap for private høyskoler som ikke mottar tilskudd enn det som fremgår av universitets- og høyskoleloven § 8-3. Det er heller ikke fastsatt ytterligere reguleringer for private fagskoler som ikke mottar tilskudd.
+
+BrøBrø**Forslag i høringsnotatet**
+
+BrøSom allerede redegjort for under forslag til krav til organisasjonsform i kapittel 4, foreslår departementet at alle virksomheter som driver NOKUT-akkreditert utdanning, skal være regnskaps- og revisjonspliktige. For å kunne sikre at tilskudd og egenbetaling benyttes i tråd med forutsetningene, foreslo departementet at alle institusjoner skal underlegges krav om regnskap og revisjon. Dette omfatter både selskapsrettens krav og tilleggskravene som stilles i sektorlovgivningen. Dette vil innebære at virksomheter som er unntatt regnskapsplikter, for eksempel på grunn av virksomhetens størrelse, likevel vil være omfattet av pliktene dersom de driver NOKUT-akkreditert virksomhet.
+
+Departementet foreslo rapportering av årsregnskap for alle regnskapspliktige. Dette vil inkludere rapportering av tilleggsdokumentasjon og redegjørelser til regnskapet, som departementet har pekt på under de ulike forslagene for øvrig. Departementet viste til at det kan vurderes om ulike former for regnskapsopplysninger og dokumentasjon ikke skal rapporteres årlig, men kreves fremlagt på forespørsel.
+
+Detaljene i rapporteringspliktene er i dag oppstilt gjennom tilskuddsbrevet og gjennom DBHs nettsider. Når rapporteringspliktene er oppstilt gjennom lov og forskrift, vil dette også omfatte de private institusjonene som ikke mottar tilskudd. Departementet foreslo derfor en hjemmel til å fastsette reguleringer i forskrift.
+
+BrøBrø**Høringsinstansenes syn**
+
+BrøDet er 16 høringsinstanser som har innspill til forslaget. Av disse er syv i hovedsak enige, mens syv har innvendinger. Alle høringsinstansene er enige i departementets forslag til regnskaps- og revisjonsplikt. Merknadene til forslaget gjelder kravene om tilleggsrapportering ut over selskapsrettens krav.
+
+*Abelia og Forum for fagskoler, Dronning Mauds Minne Høgskole for barnehagelærerutdanning, Organisasjonen for norske fagskolestudenter, Studieforbundet Folkeuniversitetet, Utdanningsforbundet* og *VID vitenskapelige høgskole* støtter i all hovedsak departementets forslag.
+
+Høringsinstansene fra *ABN-konsernet* skriver i sine likelydende svar:
+
+BrøBrø«Vi støtter departementets forslag om at private universiteter, høyskoler og fagskoler skal følge regnskapslovgivningens bestemmelser. Vi støtter også at regnskapene skal være revidert av statsautorisert eller registrert revisor. Vi støtter ikke at virksomhetene i sitt offisielle årsregnskap med noter skal gi mer informasjon enn det som følger av selskaps- og regnskapslovgivningen. Slik utfyllende informasjon bør heller fremlegges tilsynsmyndighet på forespørsel.»
+
+Brø*Virke* skriver:
+
+BrøBrø«Virke støtter departementets krav om at det skal utarbeides og rapporteres adskilte regnskaper for de ulike delene av virksomhetene. Virke anser imidlertid dette som del av internregnskapet og mener det ikke bør inngå som en del av virksomhetens samlede årsregnskap. Først og fremst fordi informasjonsverdien av denne informasjonen er svært begrenset for alle andre interessenter enn tilsynsmyndighetene. Dernest fordi et krav om at disse opplysningene skal inngå i note vil medføre administrativt merarbeid for den enkelte virksomhet i kombinasjon med økte kostnader knyttet til revisjon av regnskapet. Informasjonen bør være tilgjengelig for myndighetene gjennom direkterapportering.»
+
+Brø*Utdanningsforbundet* viser til erfaringer fra fri-skoleområdet, og mener regnskapene skal rapporteres årlig, ikke kun kreves fremlagt på forespørsel:
+
+BrøBrø«Erfaringer med tilsyn etter privatskoleloven, viser at det brukes store ressurser på å følge opp at skolene leverer regnskap for annen virksomhet enn selve skoledriften. Dette tilsier at det ikke bør være tilstrekkelig at institusjonene på forespørsel skal kunne framlegge og dokumentere adskilte regnskaper. Basert på erfaringene både innenfor barnehagesektoren og privatskolesektoren, mener Utdanningsforbundet at det bør innføres en pliktig rapportering til tilsynsmyndigheten av alle delregnskap og rettssubjektets regnskap for alle private høyskoler og fagskoler. Utdanningsforbundet mener at en slik løsning i størst grad vil legge til rette for regelverksetterlevelse.»
+
+BrøOgså *Nettverk for private høyskoler* støtter tilleggsrapportering i årsregnskapet og mener at nødvendig segmentinformasjon bør kunne kreves så vel i forskrift som i tilskuddsbrev, og at den skal fremgå av den årlige regnskapsrapporteringen.
+
+BrøBrø**Departementets vurderinger**
+
+BrøDepartementet foreslår at de foreslåtte kravene til regnskapet skal følge opp krav til bruk av tilskudd og egenbetaling. Det skal føres tilsyn og kontroll med at kravene til lovlig disponering av tilskudd og egenbetaling overholdes.
+
+Departementet vektlegger at kontroll og tilsyn skal innrettes hensiktsmessig og effektivt, med en rimelig fordeling av plikter på institusjonene og tilsynsmyndighetene. Særlige krav til regnskapet, ut over det som følger av alminnelig selskapslovgivning, bør være konkret og direkte begrunnet i kravene i universitets- og høyskoleloven og fagskoleloven. Krav til lovlig disponering av tilskudd og egenbetaling må samtidig følges opp av dokumentasjonsplikter som kan gjøre det mulig å vurdere om reguleringene er etterlevd.
+
+Krav om at virksomheten må drives som stiftelse eller aksjeselskap innebærer at det allerede stilles krav til regnskap og revisjon gjennom selskapslovgivningen. Fordi kravene utdypes i universitets- og høyskoleloven og fagskoleloven, og for å dekke studieforbund, er regnskapsloven foreslått gjort eksplisitt gjeldende i fagskoleloven og universitets- og høyskoleloven. Departementet mener det ikke er urimelig arbeids- eller kostnadskrevende å pålegge virksomheter som driver offentlig godkjent utdanning, utvidelser i regnskapsrapporteringen for å sikre innsyn i at midlene blir benyttet i tråd med kravene. Departementet mener videre at de samme reglene i regnskapsloven skal gjelde for alle virksomheter, uavhengig av størrelse.
+
+For å kunne sikre at tilskudd og egenbetaling benyttes i tråd med forutsetningene, mener departementet at alle institusjoner skal underlegges krav om regnskap og revisjon. Dette omfatter både selskapsrettens krav og tilleggskravene som stilles i sektorlovgivningen. Departementet mener videre at virksomheter som er unntatt regnskapsplikter, for eksempel på grunn av virksomhetens størrelse eller omsetning, likevel vil være omfattet av pliktene når de driver NOKUT-akkreditert virksomhet. Institusjonene vil da ikke kunne benytte seg av unntakene i regnskapsloven for små foretak. Departementet mener videre at kravene til årsregnskap skal være like for NOKUT-akkreditert virksomhet. Regnskapene bør være sammenliknbare innenfor sektorene og gi sikkerhet for at regnskapene gir et rettvisende bilde når dette skal vurderes opp mot de andre foreslåtte reguleringene.
+
+Bokføringsloven § 13 gir plikt til å oppbevare regnskapsmateriale og angir oppbevaringstid for ulike typer dokumentasjon. Kravet til oppbevaringstid for regnskapsmateriale som nevnt i bokføringsloven § 13 første ledd nr. 1 til 4, såkalt primærdokumentasjon, er fem år etter regnskapsårets slutt, jf. § 13 andre ledd. For regnskapsmateriale nevnt i nr. 5 til 8, såkalt sekundær informasjon, er kravet til oppbevaringstid tre år og seks måneder etter regnskapsårets slutt.
+
+Ved kontroll av institusjonenes disponeringer av tilskudd og egenbetalinger vil det regelmessig være behov for å undersøke transaksjoner og avtaler lengre tilbake i tid enn fem år. Oppbevaringsfristene i bokføringsloven vil dermed kunne medføre at regnskapsmateriale, som er relevant og nødvendig for kontrollen av at tilskudd og egen-betalinger har blitt benyttet i tråd med regel-verket, kan bli lovlig slettet og i realiteten avskåret fra kontroll.
+
+Departementet ser derfor behov for å kunne fastsette forskrift om plikt for institusjonene til å oppbevare regnskapsmateriale, som nevnt i bok-føringsloven § 13 første ledd nr. 1 til 8, lengre enn minimumskravene oppstilt i bestemmelsens andre ledd.
+
+Departementet mener kravene som foreslås er direkte begrunnet i de ulike kravene til bruk av tilskudd og egenbetaling, og samlet sett ikke fremstår som uforholdsmessig byrdefulle. I kapittel 6 omtales krav om regnskapsmessig skille, hva dette innebærer, og bakgrunnen for kravet. Kravet om regnskapsmessig skille medfører også at departementet foreslår rapportering av segmentinformasjon i note til årsregnskapet som viser resultatregnskap og balanse for de ulike delene av virksomheten. Dette er en utvidelse av regnskapsplikten sammenlignet med selskapslovgivningen, men rapportering av disse opplysningene anses ikke som uforholdsmessig byrdefullt i forhold til behovet for å avgrense statstilskudd og egenbetaling. Rapporteringsplikten er en naturlig konsekvens av kravet om regnskapsmessig skille, og er nødvendig for tilsynsmyndighetens løpende kontroll på overordnet nivå. Rapporteringen av segmentinformasjon er også nødvendig for at andre regnskapsbrukere, slik som for eksempel studentene, skal kunne lese avgrensningen av statstilskuddet og egenbetalingen. At segmentinformasjonen rapporteres innebærer at styret formelt går god for informasjonen, og at revisor bekrefter at denne gir et rettmessig bilde av virksomheten.
+
+Kravet om økonomisk skille innebærer at delregnskapet skal presenteres sammen med årsregnskapet og at noten med delregnskapet skal revideres i samsvar med revisjonsstandardene.[^41] Departementet bemerker at formålet med revisjonen er å kontrollere at det kun er kostnader for aktiviteter som vedrører den akkrediterte utdanningsvirksomheten som er belastet dette delregnskapet, samt at alle relevante inntekter tilsvarende er tilordnet delregnskapet, og at endringer i balansen også er ivaretatt i tråd med det økonomiske skillet. Departementet legger til grunn at revisor fastsetter en særskilt vesentlighetsgrense i sin revisjon av noten.[^42] Vurderingen revisor gjør, skal gjenspeile formålet med revisjonen. Virksom-heten må informere revisor om dette i forkant av revisjonen.
+
+Detaljene i rapporteringspliktene er i dag oppstilt gjennom tilskuddsbrevet og DBH sine nett-sider. Når rapporteringspliktene er oppstilt i lov, vil dette også omfatte de private institusjonene som ikke mottar tilskudd. Departementet mener derfor det er hensiktsmessig å gi mulighet til å fastsette ytterligere reguleringer i forskrift.
+
+Departementet viser til lovforslaget til universitets- og høyskoleloven § 8-7 og fagskoleloven § 19.
+
+BrøBrø**Reaksjoner**
+
+BrøBrø**Gjeldende rett**
+
+BrøVerken universitets- og høyskoleloven eller fagskoleloven inneholder bestemmelser om reaksjoner ved brudd på krav i lov eller forskrift.
+
+I det årlige tilskuddsbrevet til private høyskoler og fagskoler med statstilskudd er det vist til enkelte reaksjonsalternativer. I tilskuddsbrevet til private høyskoler heter det under pkt. 2.2.2 som omhandler *Utbetaling*:
+
+BrøBrø«Høyskolene plikter å informere departementet dersom midlene ikke fullt ut blir benyttet etter sitt formål. Departementet vil da vurdere å trekke tilbake midler ved å redusere senere tilskudd.»
+
+BrøI tilskuddsbrevet heter det videre at Kunnskapsdepartementet og Riksrevisjonen kan kontrollere at tilskudd blir benyttet i tråd med bevilgnings-reglementet § 10 andre ledd og lov om Riksrevisjonen § 12. I den forbindelse heter det at statstilskudd kan avvikles og kreves helt eller delvis tilbakebetalt dersom det ikke benyttes i tråd med forutsetningene. Tilsvarende formulering er inkludert i tilskuddsbrevet til private fagskoler som mottar statlig tilskudd.
+
+BrøBrø**Forslag i høringsnotatet**
+
+BrøDepartementet foreslo lovregulering av reaksjoner ved brudd på regelverket i universitets- og høyskoleloven og fagskoleloven. Departementet foreslo at dersom en tilbyder overtrer bestemmelser i eller i medhold av lov eller tilskuddsbrev, eller ikke etterkommer pålegg gitt av departementet, har tilsynsmyndigheten adgang til å pålegge retting, holde tilbake tilskudd, kreve tilbakebetalt tilskudd, ilegge overtredelsesgebyr, ilegge tvangsmulkt, ilegge karantene og tilbakekalle akkreditering/godkjenning.
+
+Departementet foreslo å presisere i loven at et eventuelt krav om å tilbakeføre midler til driften av institusjonen skal regnes som pålegg om retting. Departementet foreslo også at institusjonen skal kunne godtgjøre at pålegg om retting er etterlevd i tråd med pålegget. Dette kan innebære blant annet rapportering og dokumentasjonsplikter, å gi tilgang til stedlig tilsyn mv. Videre foreslo departementet at vedtak om overtredelsesgebyr skal være tvangsgrunnlag for utlegg.
+
+Departementet foreslo hjemmel til å gi forskrift om reaksjonene som ble foreslått. Departementet la til grunn at hjemmel for de ulike reaksjonene skal fremgå av lov, men at konkretisering og de mer tekniske sidene ved reaksjoner kan fremgå av forskrift.
+
+BrøBrø**Høringsinstansenes syn**
+
+Brø17 høringsinstanser, blant annet *Nettverk for private høyskoler, Folkeuniversitetet, NOKUT* og *Det teologiske menighetsfakultet,* har merknader til høringen. Samtlige 17 støtter departementets forslag om reaksjoner.
+
+Flere høringssvar, blant annet fra *ABN-konsernet*, *Noroff Education* og *Abelia*, viser til behovet for rask og effektiv saksbehandling i saker om reaksjoner. De understreker også at de strengeste reaksjonene må forbeholdes de mest alvorlige overtredelsene. Disse viser videre til at det i dag kun er hjemmel for reaksjoner i tildelingsbrev, og at institusjoner uten statlige tilskudd dermed ikke er omfattet. ABN-konsernet støtter forslaget, og skriver blant annet:
+
+BrøBrø«Vi er opptatt av at sektoren skal ha langsiktige og seriøse aktører som leverer kvalitativt gode studier og som lojalt følger gjeldende regelverk. At det foreslås bestemmelser om sanksjoner mener vi derfor er positivt.»
+
+BrøDet uttrykkes imidlertid noe motstand, blant annet fra *Forum for fagskoler* og høringsinstansene fra ABN-konsernet, mot at bestemmelser om reaksjoner skal fremgå av forskrift fremfor formell lov.
+
+Når det gjelder anledning til å trekke tilbake akkreditering, uttaler NOKUT:
+
+BrøBrø«Det er NOKUT som bør ha myndigheten til å trekke tilbake akkrediteringen/godkjenningen. NOKUT kontrollerer allerede at blant annet regelverk og organisasjon er i samsvar med lov, jf. studietilsynsforskriften § 7-1 og fagskoletilsynsforskriften § 3-1 ved både akkreditering/godkjenning og tilsyn. Det er dessuten en forutsetning for akkreditering/godkjenning at alle kravene i universitets- og høyskoleloven og fagskoleloven er oppfylt, jf. *forskrift om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning* § 3-1 og § 5-1.»
+
+Brø*Organisasjon for norske fagskolestudenter* viser også til at eventuelle vedtak om å trekke akkreditering bør fattes i samarbeid med NOKUT.
+
+BrøBrø**Departementets vurdering**
+
+BrøDepartementet foreslår reaksjoner som vil kunne være omfattet enten av begrepet *«administrativ sanksjon»* eller *«andre forvaltningstiltak».* Administrative sanksjoner er reaksjoner som ilegges av et forvaltningsorgan, som retter seg mot en begått overtredelse av lov, forskrift eller individuell avgjørelse, og som utgjør straff etter den europeiske menneskerettskonvensjonen (EMK). En typisk administrativ sanksjon er overtredelses-gebyr. Andre forvaltningstiltak er reaksjoner som ilegges av et forvaltningsorgan knyttet til lov-overtredelse, men som ikke anses som straff etter EMK. Tvangsmulkt er et eksempel på dette.
+
+For å kunne håndheve krav til bruk av tilskudd og egenbetaling og øvrige krav i eller i medhold av lov, mener departementet det er avgjørende at tilsynsmyndigheten har effektive reaksjonsmuligheter. Etter gjeldende rett har departementet visse reaksjoner tilgjengelige overfor mottakere av statlig tilskudd. Grunnlaget for disse reaksjonene følger av tilskuddsbrevet. Departementet mener det er behov for reaksjoner som ikke kun er knyttet til statstilskudd og at reaksjonene er hjemlet i lov fremfor i tilskuddsbrev.
+
+Hensikten med innføring av reaksjoner er blant annet å sikre at institusjoner som ikke opptrer i henhold til regelverket, for eksempel reguleringene om disponering av tilskudd og egenbetaling, kan møtes med reaksjoner ilagt av departementet.
+
+Departementet viser til at forslagene om reaksjoner fikk bred støtte i høringsrunden. Det var likevel innvendinger knyttet til at reaksjonene burde forankres i lov. Departementet er enig med høringsinstansene i at det er en fordel at reguleringen av reaksjoner i hovedsak fastsettes i loven. Forskriftshjemmel behandles under omtalen av den enkelte reaksjon nedenfor.
+
+Departementet legger til grunn at tilsynsmyndigheten i det enkelte tilfelle vil måtte vurdere om, og eventuelt hvordan, det på hensiktsmessig måte skal reageres ved brudd på regelverket, innenfor de rammene som følger av loven. I alle tilfeller skal ileggelse av reaksjoner etter universitets- og høyskoleloven og fagskoleloven være forholdsmessig ut ifra den aktuelle overtredelsen. Normalt bør også pålegg om retting benyttes før strengere reaksjoner tas i bruk. I særlige tilfeller vil det imidlertid kunne være behov for å benytte strengere reaksjoner uten forutgående pålegg om retting. Forvaltningsloven gjelder i sin alminnelighet for departementet som tilsynsorgan. Forvaltningslovens saksbehandlingsregler vil derfor gjelde fullt ut ved anvendelse av reaksjoner.[^43]
+
+Flere høringsinstanser har påpekt at økonomiske reaksjoner rettet mot tilbyderne kan sette videre drift i fare, og således være en ulempe snarere enn en fordel for studentene. Reaksjoner kan også innebære at kostnadene lempes over på studentene i form av økt egenbetaling eller redusert tilbud. Departementet viser til at det må legges til grunn en forholdsmessighetsvurdering ved ileggelse av reaksjoner, men at det ved brudd på regelverket vil kunne være nødvendig med en økonomisk reaksjon.
+
+Departementet foreslo i høringen at karantene innføres som en reaksjon ved brudd på regelverket. En hjemmel til å ilegge karantene ved alvorlige brudd på regelverket er innført i friskole-loven, jf. friskolelova § 7-2b. Departementet mener det kan være forhold av organisatorisk og administrativ art som gjør at karantene ikke er like godt egnet som reaksjon overfor private høyskoler og fagskoler. Departementet viderefører derfor ikke forslaget om å innføre karantene som et reaksjonsmiddel.
+
+Departementet foreslo i høringsnotatet en lovhjemmel for å kunne holde tilbake tilskudd. Departementet legger til grunn at tilskudd til privat høyere utdanning og fagskoleutdanning gis på bakgrunn av politiske vurderinger, og at institusjonene ikke har rettskrav på tilskudd. Departementet kan derfor holde tilbake tilskudd uten lovhjemmel. Departementet videre-fører derfor ikke forslaget om å lovfeste rett til å holde tilbake tilskudd.
+
+Reaksjoner som foreslås her vil ikke påvirke NOKUTs bruk av virkemidler og reaksjoner, men retter seg mot andre deler av regelverket enn det som ligger innenfor NOKUTs mandat.
+
+BrøBrø*Pålegg om retting*
+
+BrøDepartementet foreslår at det lovfestes en anledning for departementet til å pålegge retting av forhold som er i strid med regelverket. Departementet mener at påviste overtredelser av lov, forskrift eller vedtak fra departementet, knyttet blant annet til disponering av midler, rapporterings- og dokumentasjonsplikt, styrets plikter og lignende, skal kunne møtes med et pålegg om retting av forholdet. Departementet mener at hjemmel til å kunne pålegge retting er et nødvendig og hensiktsmessig, men ikke tilstrekkelig, virkemiddel for å sikre at regelverket etterleves. Manglende etterlevelse av et pålegg om retting vil kunne gi grunnlag for ytterligere reaksjoner.
+
+Departementet mener det ikke er behov for en forskriftshjemmel knyttet til pålegg om retting, og viderefører ikke dette forslaget.
+
+BrøBrø*Krav om tilbakebetaling av tilskudd*
+
+BrøNår det gis statstilskudd til private aktører skal det skrives et tilskuddsbrev, jf. økonomireglementet i staten pkt. 6.3.3. I tilskuddsbrevet til private høyskoler og fagskoler fastsettes det vilkår for disponering av midlene. Departementet legger til grunn at tilskudd, i den grad det er disponert i strid med forutsetningene og vilkårene for tilskuddet og øvrig regelverk, bør kunne kreves tilbake. Departementet understreker at det er adgang til å kreve tilbake tilskudd i dag, jf. tilskuddsbrevet. Departementet mener likevel at det er en fordel å ytterligere formalisere adgangen til å kreve tilbake statstilskudd.
+
+Departementet foreslår også å lovfeste at krav på tilbakebetaling av statstilskudd etter departementets vedtak skal være tvangsgrunnlag for utlegg. Dette vil ytterligere styrke vernet av tilskuddet.
+
+BrøBrø*Tvangsmulkt*
+
+BrøEt vedtak om tvangsmulkt er et enkeltvedtak med trussel om plikt til å betale penger til det offentlige dersom en forpliktelse ikke etterleves innen en gitt frist. Mulkten skal motivere til oppfyllelse av slikt pålegg, som blant annet kan gå ut på å fremtvinge en handlemåte. Det er ikke holdepunkter i praksis for at tvangsmulkt innebærer *«straff»* etter EMK, jf. blant annet Rt. 2005 side 1269 og Rt. 2015 side 392.
+
+Departementet mener at tvangsmulkt vil være et egnet og nødvendig virkemiddel i visse situasjoner. Departementet foreslår at tvangsmulkt skal kunne ilegges av tilsynsmyndigheten for å sikre etterlevelse av pålegg om retting i medhold av forslaget til ny § 8-8 i universitets- og høyskole-loven eller § 20 i fagskoleloven.
+
+Departementet understreker at ileggelse av tvangsmulkt skal være forbeholdt situasjoner der tilbyderne har hatt en rimelig mulighet til å rette seg etter pålegget. Departementet legger til grunn at tvangsmulkt kan kombineres med overtredelsesgebyr. Disse to reaksjonene utfyller hverandre. Formålet med tvangsmulkten er å skapet et fremtidig oppfyllelsespress, mens overtredelsesgebyret rammer historiske forhold.
+
+Departementet foreslår at mulkten skal fastsettes med et dagsbeløp. Den vil løpe fra utløpet av fristen som er satt for et gitt pålegg om retting, og inntil forholdet er rettet. Av hensyn til reaksjonens effektivitet mener departementet at det ikke skal fastsettes noen øvre grense for hvor lenge mulkten kan løpe, eller et øvre totalbeløp for samlet mulkt knyttet til ett pålegg. Departementet foreslår imidlertid at rammene for dagmulktens størrelse pr. dag og retningslinjer for utmåling av tvangsmulkten kan fastsettes i forskrift. Retningsgivende for fastsettelse av dagmulktens størrelse kan være at beløpet skal være stort nok til å fremtvinge den ønskede handlemåte. Mulkten skal likevel ikke være uforholdsmessig tyngende gitt tilbyderes økonomiske situasjon, eller for øvrig urimelig.
+
+BrøBrø*Overtredelsesgebyr*
+
+BrøOvertredelsesgebyr regnes som hovedregel som straff etter EMK, med de prosessuelle rettigheter dette medfører.[^44] Norske domstoler har som hovedregel lagt til grunn at overtredelsesgebyr ikke er straff i Grunnlovens forstand, og at slike gebyrer derfor kan ilegges av forvaltningen. Overtredelsesgebyr blir ikke registrert i strafferegisteret.[^45] Reglene i forvaltningsloven, inkludert om enkeltvedtak, gjelder ved ileggelse av overtredelsesgebyr. Det vil også være adgang til å prøve vedtak om overtredelsesgebyr ved domstolen.
+
+Departementet foreslår at overtredelsesgebyr skal kunne benyttes ved brudd på krav i lov eller krav gitt i medhold av lov. Overtredelsesgebyr er en reaksjon på en begått overtredelse, og vil derfor ha en straffende funksjon. Departementet mener trusselen om overtredelsesgebyr vil kunne virke preventivt, og dermed bidra til at institusjonene opptrer i henhold til regelverket.
+
+Dersom et overtredelsesgebyr skal ha den tiltenkte virkning må beløpet være så stort at det er egnet til å virke preventivt. Samtidig må det ikke være uforholdsmessig stort.
+
+Det er stor forskjell i ressurser hos virksomheter i den private høyskole- og fagskolesektoren. Departementet foreslår at gebyrets størrelse skal fastsettes i det enkelte vedtaket om overtredelsesgebyr, og at utmålingen skal ta hensyn til blant annet institusjonens størrelse og økonomiske situasjon. En løsning med for eksempel standardiserte satser for gebyret vil kunne gi urimelige utslag nettopp på grunn av mangfoldet i sektorene. Departementet mener at foretak bør kunne ilegges overtredelsesgebyr uten at det er påvist at enkeltpersoner har utvist skyld. Departementet foreslår at det fastsettes et maksimumsbeløp for overtredelsesgebyret i forskrift.
+
+Departementet foreslår at departementet kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr.
+
+BrøBrø*Tilbaketrekking av akkreditering og godkjenning*
+
+BrøDepartementet mener at dersom det avdekkes alvorlige brudd på krav i lov eller forskrift, bør det kunne reageres med tilbaketrekking av akkreditering eller godkjenning. I dag er det kun NOKUT som har anledning til å trekke tilbake akkreditering eller godkjenning. Departementet mener at også brudd på andre bestemmelser enn de som er knyttet til kvaliteten i tilbudet kan tilsi at akkreditering eller godkjenning bør trekkes tilbake. Dette vil være tilfelle hvor det for eksempel avdekkes alvorlige brudd på bruk av tilskudd og egenbetaling eller administrative regler, eller dersom virksomheten over tid har vist vedvarende manglende evne eller vilje til å rette opp i forholdene.
+
+Tilbaketrekking av akkreditering eller godkjenning etter departementets forslag vil dermed kunne begrunnes med alvorlige brudd blant annet økonomiske og administrative forhold. NOKUT har myndighet til å trekke tilbake akkreditering på bakgrunn av en faglig vurdering av utdanningens kvalitet, jf. universitets- og høy-skoleloven § 3-1 fjerde ledd eller fagskoleloven § 2 femte ledd. Departementet viser til NOKUTs uttalelse i høringen og understreker at forslaget ikke endrer NOKUTs myndighet til å trekke tilbake akkreditering eller godkjenning med hjemmel i universitets- og høyskoleloven eller fag-skole-loven.
+
+Et vedtak om å trekke tilbake akkreditering vil ha store konsekvenser for studenter og ansatte ved institusjonen. At studenter som er underveis i et utdanningsløp ikke får fullføre det utdanningsløpet de har startet på, vil også ha samfunnsmessige konsekvenser. Et vedtak om å trekke tilbake akkreditering må derfor etter departementets syn være forbeholdt de mest alvorlige overtredelsene, for eksempel der institusjonen, ved ikke å etterkomme pålegget fra tilsynsmyndigheten, viser manglende evne eller vilje til å drive i henhold til lovverket. Det bør foreligge en overtredelse som er så alvorlig at den gjør det uforsvarlig å la tilbyderen fortsette driften av hensyn til studentene, deres midler, statens midler eller tilliten til norsk høyere utdanningssektor eller fagskolesektor.
+
+Departementet viser til lovforslaget til universitets- og høyskoleloven §§ 8-8 til 8-12 og fagskoleloven §§ 20 til 24.
+
+BrøBrø**Økonomiske og administrative konsekvenser**
+
+BrøForslagene som fremmes vil ha enkelte økonomiske og administrative konsekvenser, både for de private høyskolene og fagskolene og for departementet som tilsynsmyndighet.
+
+Departementet vurderer at forslagene ikke innebærer vesentlige endringer i rammebetingelsene til private høyskoler og fagskoler. Forslagene vil etter departementets mening ikke få innvirkning på det samlede tilbudet av private høyskoler og fagskoler. Det foreslås å tillate at private høyskoler og fagskoler som ikke mottar tilskudd, skal kunne dele ut midler fra et eventuelt positivt års-resultat, og dermed få avkastning av den investerte og opparbeidede egenkapitalen i virksom-heten. Departementet mener dette gir gode rammebetingelser for disse private virksomhetene, og at det kan bidra til å motivere institusjonene til å videreutvikle sine tilbud.
+
+Det er allerede i dag et krav om at tilskudd og egenbetaling skal komme studentene til gode, og et utdelingsforbud for private høyskoler og fagskoler som mottar tilskudd. Forslagene innebærer en presisering av gjeldende regelverk knyttet til lovlig disponering av tilskudd og egenbetaling, men tydeliggjør de private høyskolene og fagskolenes plikter om å dokumentere at midlene er benyttet i tråd med forutsetningene. Kravene, som vil gi noe økte administrative byrder for institusjonene, gjelder i all hovedsak dokumentasjonsplikter knyttet til å synliggjøre at tilskudd og egenbetaling er benyttet i tråd med reguleringene.
+
+Kunnskapsdepartementet har i 2016 etablert en ny tilsynsenhet. Tilsynsenheten skal sikre bedre oppfølging og kontroll med de private høyskolene og fagskolene, herunder at tilskudd og egenbetaling blir benyttet i tråd med forutsetningene. Departementet har i statsbudsjettet for 2017, jf. Prop. 1 S (2016–2017) foreslått at behovet for økte ressurser for å føre tilsyn med de private høyskolene og fagskolene dekkes av Kunnskapsdepartementets rammebevilgninger til de private høyskolene.
+
+I tråd med forslagene får departementet bedre virkemidler for å føre et effektivt tilsyn med private høyskoler og fagskoler. Forslagene vil innebære at departementet må bruke noe mer ressurser på å kontroll med dokumentasjonen som etter forslagene skal rapporteres, og dette er håndtert i 2017-budsjettet. Eventuelle økonomiske konsekvenser knyttet til økt tilsynsaktivitet utover 2017-budsjettet, må vurderes i de enkelte budsjettene framover. Økt tilsynsaktivitet er nødvendig for å sikre at midler disponeres i tråd med regelverket.
+
+Departementet legger til grunn at institusjonene må kunne dokumentere at reguleringer i lov, forskrift og andre forutsetninger for tildeling av tilskudd er fulgt. Tilsynsmyndighet skal kunne kreve rapportering og har mulighet til å kreve fremlagt regnskaper og annen dokumentasjon. Dette er dokumentasjon virksomheten i alle tilfeller vil måtte utarbeide for å godtgjøre at midlene er benyttet i tråd med regelverket. Det er virksomhetene selv som står nærmest til å dokumentere at midlene er benyttet i tråd med kravene og som må bare kostnadene ved å utarbeide slik dokumentasjon, og departementet legger til grunn at den økte dokumentasjonsplikten ikke er vesentlig sammenlignet med formålet som skal ivaretas. Departementet har vektlagt at det ikke skal innføres flere krav til dokumentasjon enn nødvendig.
+
+Departementet fremmer forslag om at private høyskoler og fagskoler som tilbyr NOKUT-akkreditert utdanning må være organisert som aksjeselskap eller stiftelse, se kapittel 4.[^46] Forslaget er begrunnet i behovet for at virksomhetene har en ryddig selskapsform med tilhørende lovregulering, som legger til rette for åpenhet i den økonomiske driften og klare ansvarsforhold. Et stort flertall av de private høyskolene og fagskolene er allerede i dag organisert i en av disse to organisasjonsformene, men forslaget vil innebære at enkelte virksomheter må gjøre endringer for å oppfylle kravet om organisasjonsform. Departementet legger til grunn at utgifter i forbindelse med eventuell endring må dekkes av virksom-heten selv. Departementet foreslår imidlertid en hjemmel som innebærer at nytt lovkrav om organisasjonsform ikke stiller de som må endre organisasjonsform vesentlig dårligere enn andre, ved at krav om dokumentavgift og eventuell skatt ved realisasjon av formuesobjekt unntas fra betalingsplikt. Unntaket vil gjelde et fåtall institusjoner, kun dersom endringen skjer på grunn av kravet om organisasjonsform, og kun dersom endringen skjer innen overgangsperioden. Departementet viser til at et slikt unntak er aktuelt kun for et lite mindretall av eksisterende private høyskoler og fagskoler. Departementet legger til grunn at forslaget om å unnta de det gjelder fra krav om dokumentavgift ikke vil få vesentlige økonomiske konsekvenser for statskassen.
+
+De private høyskolene og fagskolene blir pålagt å avgi regnskap med utfyllende dokumentasjon. Det foreslås at regnskapene skal revideres av statsautorisert eller registrert revisor. Dette er et krav som allerede i dag gjelder for de fleste institusjoner, på grunn av krav i alminnelig selskapslovgivning. Departementet legger til grunn at eventuelle økte kostnader dekkes av institusjonen selv.
+
+Det er i dag gjennom tilskuddsbrev stilt krav til regnskapsmessig skille når det drives annen virksomhet i akkreditert rettssubjekt. Departementets forslag innebærer at det fortsatt skal være anledning til å organisere annen virksomhet enn NOKUT-akkreditert utdanning i samme rettssubjekt, men at det presiseres i lov at annen virksomhet må holdes økonomisk adskilt. Dette er ikke et nytt krav, men en lovfesting av et eksisterende krav. Departementet peker i kapittel 6 på at forskjellen i administrativ byrde mellom internt regnskapsmessig skille og eget rettssubjekt kan bli liten, og peker på at det kan være effektivt for virksomheten å velge å organisere utdanningen i eget rettssubjekt. Departementet legger til grunn at dette dermed er en presisering og tydeliggjøring av allerede gjeldende regulering.
+
+I kapittel 14 er det foreslått enkelte reaksjonsmuligheter dersom det avdekkes lovovertredelser. Departementet legger til grunn at eventuell ileggelse av slike reaksjoner vil kreve noe administrativt merarbeid for tilsynsmyndigheten, samt vil ha potensiale til å medføre noe administrativt merarbeid knyttet til eventuell klagebehandling og domstolsprøving. Eventuelle midler som vil tilfalle statskassen på bakgrunn av ilagte reaksjoner antas å ikke være av en slik størrelsesorden at det vil få vesentlige økonomiske konsekvenser.
+
+BrøBrø**Merknader til de enkelte bestemmelsene**
+
+BrøBrø**Merknader til universitets- og høyskoleloven**
+
+BrøBrø*Til § 8-1 Institusjonens organisering og ledelse*
+
+Brø*Første ledd* innfører et krav om at alle private universiteter og høyskoler skal være organisert som aksjeselskap eller stiftelse, jf. lov om aksjeselskaper eller lov om stiftelser. Dette betyr at private aktører fra lovens ikrafttredelse ikke lenger kan få akkreditering som høyere utdanning uten at de er organisert som aksjeselskap eller stiftelse. Dersom en allerede akkreditert privat høyskole ikke er aksjeselskap eller stiftelse når loven trer i kraft, gjelder en egen overgangsbestemmelse, se § 13-2.
+
+Andre organisasjonsformer, for eksempel med tilsvarende ansvarsbegrensning som norske aksjeselskaper eller en eierløs modell som ligner på stiftelser, kan altså ikke få akkreditering som høyere utdanning. Dette inkluderer også norsk-registrerte utenlandske foretak (NUF).
+
+*Andre ledd* første punktum er delvis en videreføring av gjeldende første ledd. Som følge av kravet i nytt første ledd, vil alle private universiteter og høyskoler ha et styre i medhold av aksjeloven eller stiftelsesloven. Den tidligere ordlyden om at private høyskoler skal ledes av et styre som øverste organ er dermed overflødig og vil kunne være egnet til å skape uklarheter. Dette klargjør gjeldende rett, som innebærer at bestemmelsen om styret ikke griper inn i det grunn-leggende ansvarsfordeling mellom generalforsamlingens eierstyring eller andre lovfestede organers kompetanse etter aksjeloven eller stiftelsesloven.
+
+Andre ledd andre punktum er en videreføring av gjeldende andre ledd. I lys av første ledd gjelder aksjelovens og stiftelseslovens regler om styrets sammensetning for private universiteter og høyskoler. Bestemmelsen her gjelder i tillegg til disse kravene.
+
+*Tredje ledd* første punktum er en videreføring av nåværende tredje ledd. Andre punktum er nytt, og presiserer styrets plikt til å sørge for å etablere og gjennomføre systematiske kontrolltiltak, såkalt internkontroll, som skal bidra til å sikre at virksomheten etterlever gjeldende lover og regler.
+
+Hvordan internkontrollen innrettes vil kunne variere ut i fra virksomhetens størrelse, egenart mv. Det kan blant annet innebære at det må etableres rutiner for attestering, nedtegnelse av muntlige avtaler, utarbeidelse av dokumentasjon som institusjonen er pliktig etter lov til å utarbeide mv. Departementet understreker at bestemmelsen ikke innebærer innskrenkinger i styrets alminnelige adgang til å delegere oppgaver. Den konkrete utarbeidelsen av rutiner, og kontroll med etterlevelsen av rutinene og regelverket, kan delegeres for eksempel til daglig ledelse i tråd med den alminnelige adgangen til delegasjon fra styret. Dersom institusjonen ikke har etablert systematiske kontrolltiltak kan dette møtes med reaksjoner som nevnt i kapittel 14. Departementet kan presisere kravene til internkontroll i forskrift.
+
+Dette generelle systemkravet supplerer og kommer i tillegg til dagens krav om internt system for kvalitetssikring etter universitets- og høyskoleloven § 1-6. Kvalitetssikringssystemet etter § 1-6 skal sikre og videreutvikle kvaliteten i utdanningen, og skal blant annet sikre at studietilbudene oppfyller de krav departementet og NOKUT har fastsatt i henholdsvis studiekvalitetsforskriften og studietilsynsforskriften.
+
+*Fjerde ledd* presiserer styrets plikter knyttet til utdanningstilbudet til studentene. Bestemmelsen presiserer styrets plikt til å sørge for at utdanningstilbudet studentene mottar er i tråd med gjeldende akkreditering, og for øvrig sørge for at virksomhetens drives i tråd med de til enhver tid gjeldene lover og regler og øvrige føringer. Bestemmelsen legger ikke plikter på styret som ikke allerede følger av andre regler.
+
+*Femte ledd* fastsetter at styret skal fatte et vedtak om at det er forsvarlig å starte opp et nytt studieår. Vedtaket skal være begrunnet, og styret må selv vurdere hvilke momenter som vektlegges i vurderingen. Departementet viser til at blant annet studenttilfang, tilgang på lærerkrefter og lokaler, budsjett og økonomi mv. vil kunne være relevante momenter. Myndighet til å fatte et slikt vedtak kan ikke delegeres. Vedtaket skal bidra til forutberegnelighet for studentene og bevisst-gjøring av styret. Vedtaket må være tilgjengelig for studentene, og det skal derfor publiseres på institusjonens nettside. Vedtaket skal fattes før studiestart. Med studiestart menes i utgangspunktet starten på høstsemesteret hvert år, -normalt første oppmøtedag.
+
+BrøBrø*Til § 8-2 Delegasjon*
+
+BrøBestemmelsen er en videreføring av gjeldende andre ledd. Gjeldende første ledd oppheves.
+
+BrøBrø*Til § 8-3 Statstilskudd og egenbetaling*
+
+Brø*Første ledd* er uendret.
+
+*Andre ledd* gjelder alle private universiteter og høyskoler. Bestemmelsen erstatter universitets- og høyskoleloven § 7-1 andre ledd. Ordlyden endres fra «statlig driftstilskudd» til «statstilskudd» i tråd med eksisterende overskrift og ordlyd i § 8-3. Dette innebærer ikke en realitetsendring.
+
+Bestemmelsen regulerer hvordan tilskudd og egenbetaling fra studentene lovlig kan brukes i drift. Reguleringen gjelder på generelt grunnlag, og innebærer at alle former for disposisjoner er omfattet. At tilskudd og egenbetaling skal benyttes til den akkrediterte utdanningsvirksomheten, innebærer at disponeringen må vurderes opp mot den aktuelle akkrediteringen. I hvilken grad disposisjonen bygger opp om det faglige innholdet i utdanningen og hvilke fordeler det vil gi for studenten, vil være relevante vurderingskriterier. Midlene kan benyttes til disposisjoner som ligger innenfor formålet til virksomheten. Dette peker på formålet med universitets- og høyskolevirksomhet generelt, se blant annet universitets- og høyskoleloven § 1-1 og § 1-3. Vilkåret innebærer videre at disposisjonene skal vurderes på bakgrunn av en forholdsmessighetsvurdering. Dette innebærer en vurdering av i hvilket omfang det er tillatt å disponere midler til ulike formål som i seg selv er relevante for virksomheten. Se omtale i pkt. 5.4.2. Departementet legger til grunn et generelt krav om at alle disposisjoner skal skje til markedsmessige vilkår.
+
+*Tredje ledd* gjelder private høyskoler som mottar statstilskudd. For disse gjelder det generelle vilkåret om at tilskudd og egenbetaling skal komme studentene til gode. At midlene skal komme studentene til gode innebærer for det første krav til bruk i drift som regulert i andre ledd, og et utdelingsforbud etter tredje ledd. Kravet presiseres gjennom reguleringene av bruk i drift og ved utdelinger, men vil også være et selvstendig vilkår og tolkningsmoment for vurdering av ulike disponeringer. Formuleringen innebærer at ulike disposisjoner må vurderes i lys av kravet om at midlene skal komme studentene til gode.

@@ -1,1093 +1,354 @@
-# NOU 2016: 7, del 9 av 21 (side 96–106)
+# NOU 2016: 7, del 9 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/20c5d328-nou-2016-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-7/id2485246/
 - Original-PDF: https://www.regjeringen.no/contentassets/05a79a5ed91e40e1a80e6f8028b21e3e/no/pdfs/nou201620160007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 20 figurer, 55 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 96]
-
-94
-
-Kapittel 7
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-ulike offentlige aktører. Begge disse nettstedene
-er allikevel begrenset til informasjon knyttet til
-utdanning og yrkesvalg med unge utdanningssøkende som primær målgruppe. Og til tross for at
-det allerede foregår en god del samarbeid om
-datautveksling mellom aktørene, er dette ikke i tilstrekkelig grad systematisk og strukturert.
-Et mer omfattende nettbasert karriereveiledningstilbud vil kunne gi økt tilgang til karriereveiledning for alle grupper som har ønske om og
-behov for karriereveiledning, men som i dag ikke
-har tilgang til de tjenestene de trenger. Grupper
-som allerede har tilgang til ansikt-til-ansikt karriereveiledning, men som har behov for mer eller
-annen form for karriereveiledning, vil også kunne
-få et bedre tilbud gjennom muligheten til også å
-benytte nettbaserte tjenester. Et bedre utbygd
-nettbasert karriereveiledningstilbud vil være med
-å sikre et mer likeverdig tilbud, ved at alle vil ha tilgang til de samme tjenestene, og veiledere vil ha
-tilgang til kvalitetssikret informasjon. Et nettbasert karriereveiledningstilbud vil representere et
-lavterskeltilbud som kan overskride geografiske11
-og/eller psykologiske12 barrierer. I tillegg kan et
-bedre utviklet karriereveiledningstilbud på nett,
-og da spesielt en e-veiledningstjeneste, bidra til å
-frigjøre ressurser for ansikt-til-ansikt veiledning.
-Både i Europa og en rekke andre land har det
-vært en markant utvikling de senere år mot å
-gjøre karriereveiledning mer tilgjengelig for
-befolkningen gjennom et mer omfattende nettbasert karriereveiledningstilbud.13 Utviklingen har i
-hovedsak vært rettet mot å (1) sikre at mennesker
-gjennom bruk av internett har tilgang til informasjon og ressurser de har bruk for i valgprosesser,
-(2) gjøre ulike typer digitale selvhjelpsverktøy tilgjengelig og (3) ta i bruk internett for online kommunikasjon med veileder.14 Man observerer stor
-grad av innovasjon når det gjelder tjenesteproduksjon på dette området. Det produseres både apper,
-spill og MOOCs15 og det er en stadig økende
-bruk av mer mobile og integrerte teknologier.
-Sosiale medier er også blitt en viktig kanal for å få
-kunnskap og informasjon om utdanning og karriere. Til tross for denne utviklingen, må nettbasert
-11
-
-Det varierer i stor grad om personer har tilgang til karriereveiledning ved et fylkesvist karrieresenter eller ikke. Noen
-fylker har ingen sentre, mens andre har et godt utbygd tilbud som dekker hele fylket.
-12 Noen mennesker ønsker anonymitet, noen ønsker ikke å
-oppsøke offentlige kontorer, noen liker ikke å møte en veileder ansikt-til-ansikt.
-13
-Dette blir presentert i kapittel 7.3.1
-14
-Hooley m.fl. (2015)
-15
-Massive open online courses
-
-karriereveiledning sies å være forholdsvis nytt, i
-hvert fall som et etablert og tilgjengelig tilbud.
-Det er i mange land foreløpig preget av å være i en
-innovasjonsfase, både teknologisk og faglig.
-Teknologiens inntog på karriereveiledningsområdet kan bidra til å endre feltet på visse områder. Den teknologiske utviklingen kan stimulere
-til faglig nytenkning og gjennom det utvikling av
-nye karriereveiledningsmetoder og -tjenester. En
-vanlig modell for teknologispredning når det gjelder informasjon, deler dette inn i substitusjon,
-ekspansjon og innovasjon.16 Substitusjon vil si at
-teknologi brukes til å automatisere det som allerede finnes av informasjon, for eksempel at informasjon som tidligere ble formidlet gjennom papirkataloger og brosjyrer, nå blir lagt ut på nett som
-statiske nettsider som informasjonssøkende kan
-finne fram i selv. Ekspansjon er at informasjonen
-gjennom teknologi kan spres til mange flere, for
-eksempel at informasjon som tidligere var praktisk talt utilgjengelig fordi den måtte distribueres
-på papir, gjøres tilgjengelig på internett. Innovasjon vil si at teknologien gjør det mulig å tilby helt
-nye typer tjenester som ikke er mulig å tilby analogt. Hooley m.fl. er opptatt av at nettbaserte
-medier i karriereveiledning utfordrer karriereveiledningsfeltet på den måten at det ikke bare handler om å flytte eksisterende praksis til nettet, men
-at det representerer et skifte i måten man tenker
-karriereveiledning på, samt en vilje til innovasjon.17
-Innovasjon når det gjelder innholdstyper og
-tjenester har vist seg å være stor i de landene som
-har satset på karriereveiledning på nett.18 Det
-tyder på at dersom man legger til rette for en
-effektiv digital infrastruktur, sørger for god organisering og tilstrekkelig finansiering og utvikler
-tjenester med høy kvalitet, kan digitalt baserte
-karriereveiledningstjenester bli en integrert del
-av det eksisterende karriereveiledningstilbudet,
-og et viktig bidrag til å øke befolkningens tilgang
-til karriereveiledning.
-Digitalisering
-EUs digitale agenda er en helhetlig tilnærming til
-bruk av IKT for innovasjon og økt verdiskaping,
-både i offentlig og privat sektor.19 Sittende og forrige regjering har vært og er opptatt av å følge opp
-16
-17
-18
-19
-
-Malone T.W. og J. Rockart (1991): Computers, Networks,
-and the Corporation. Scientific American. Side 128–136
-Hooley m.fl. (2015)
-Hooley m.fl. (2015)
-http://ec.europa.eu/digital-agenda/en
-
-[Side 97]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-dette arbeidet i Norge.20 Digitalisering av offentlige tjenester er et politisk mål som det er tverrpolitisk enighet om.
-Regjeringens IKT-politikk tar sikte på å fornye,
-forenkle og forbedre offentlig sektor gjennom
-bruk av informasjons- og kommunikasjonsteknologi. I 2014 ble Forvaltningsloven endret og eForvaltningsforskriften trådte i kraft.21 Det betyr at
-digital kommunikasjon nå er hovedregelen når
-forvaltningen kommuniserer med innbyggere og
-arbeidsliv.
-Digitalisering skal bidra til et bedre og raskere
-møte med offentlig sektor for innbyggere og
-arbeidsliv. Det er fokus på nødvendigheten av
-bedre samordning av IKT-utviklingen på tvers av
-sektor- og ansvarsgrenser. Andre viktige prinsipper er at digitalisering av forvaltningen skal bidra
-til å frigjøre ressurser til områder hvor behovet er
-stort, offentlige data skal være tilgjengelig for å
-kunne brukes i nye sammenhenger, og forvaltningen skal tilby helhetlige og brukervennlige tjenester. Et offentlig helhetlig karriereveiledningstilbud på nett må ses i sammenheng med denne
-politikken.
-Digital kompetanse
-Sammen med Island har Norge den befolkningen
-som bruker internett oftest. Nordmenn er opptatt
-av ny teknologi og er raske til å ta den i bruk.
-Norge ligger også helt i topp når det gjelder hvor
-stor del av befolkningen som har digital kompetanse. Hele 93 prosent av befolkningen har bredbåndstilknytning.22
-At det isolert sett er høy digital kompetanse i
-Norge, er ingen garanti for at befolkningen evner
-å nyttiggjøre seg et utvidet karriereveiledningstilbud på nett. Et sentralt spørsmål når det gjelder
-digital kompetanse, er om folk faktisk evner å
-finne fram til de relevante tilbudene. Gitt folks
-måte å bruke nettet og nettsteders måte å tilpasse
-seg dette på i dag, trenger ikke dette være et problem. Langt de fleste bruker søkemotorer som
-Google når de er på leting etter informasjon og
-kunnskap på nett. De trenger derfor ikke på for-
-
-hånd å vite hvor det de leter etter befinner seg, de
-skriver inn et søkeord, så finner søkemotoren
-fram for dem. Et profesjonelt nettsted legger derfor mye ressurser i såkalt søkemotoroptimalisering,23 og vil dermed bidra til at personer vil finne
-fram til disse tjenestene uavhengig av deres eventuelle digitale ferdigheter.
-Begrepet karrierekompetanse viser til den spesifikke kompetansen mennesker trenger for å
-håndtere det sammensatte spekteret av utfordringer knyttet til utdanningsvalg og karriereutvikling
-på en god måte.24 Begrepet digital karrierekompetanse (digital career literacy) introduseres i rapporten Get yourself connected. Begrepet defineres
-som «the ability to use the online environment, to
-search, to make contacts, to get questions answered
-and to build a positive professional reputation».25
-Forfatterne hevder at parallelt med utvikling av
-nettbaserte tjenester, må det det være fokus på
-hvordan befolkningen kan heve sin digitale karrierekompetanse. Dette poenget støttes av et kommuniké utformet av et internasjonalt karrieresymposium i regi av ICCDPP26 i 2015. Symposiet fokuserte spesielt på teknologisk utvikling av karriereveiledning og digital karrierekompetanse ble pekt
-på som å være et myndighetsansvar:
-Governments need to establish and support
-the acquisition of a baseline of digital literacy
-for all citizens. This should include digital
-career literacy which provides people with the
-skills they need to build their careers in the
-digital world.27
-For en eksemplifisering av hva digital karrierekompetanse kan være se boks 7.1.
-For noen grupper vil lav digital kompetanse
-være en utfordring. Dette kan spesielt gjelde personer med dårlige norskkunnskaper og personer
-med lave grunnleggende ferdigheter. Det er også
-om lag 270 000 mennesker mellom 16 og 79 år
-som ikke bruker internett i det hele tatt.28 Disse
-23
-
-24
-20
-
-Digitaliseringsprogrammet På nett med innbyggeren ble lansert i 2012 og initierte en prosess som ble fulgt opp med
-stortingsmeldingen Digital agenda for Norge. Meld. St. 23
-(2012–2013): Digital agenda for Norge. IKT for vekst og verdiskaping
-21
-Kommunal og moderniseringsdepartementet: Forskrift om
-elektronisk kommunikasjon med og i forvaltningen (eForvaltningsforskriften)
-22
-Meld. St. 23 (2012–2013): Digital agenda for Norge — IKT
-for vekst og verdiskaping
-
-95
-
-Kapittel 7
-
-25
-26
-27
-
-Søkemotoroptimalisering: Å benytte metoder som gjør at et
-nettsted oppnår en bedre synlighet eller «ranking» på søkemotorenes trefflister.
-Betegnes internasjonalt som Career Management Skills
-(CMS). Perspektivet har i løpet av de siste tiårene fått solid
-spredning internasjonalt og har blitt løftet fram i EU-resolusjoner om karriereveiledning som et av fire hovedmål for
-karriereveiledning. Perspektivet har i de senere årene blitt
-introdusert i Norge.
-Hooley m.fl. (2015), side 18
-ICCDPP: The International Centre for Career Development and Public Policy.
-ICCDPP (2015): Communique: 7th international symposium
-on career development and public policy
-
-[Side 98]
-
-96
-
-NOU 2016: 7
-
-Kapittel 7
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Boks 7.1 The seven C’s of digital career literacy
-Communicating describes the ability to interact
-Hooley har eksemplifisert hva digital karriereeffectively across a range of different platkompetanse kan være gjennom det han kaller
-forms, to understand the genre and netiquThe seven C’s of career literacy:1
-ette of different interactions and to use them
-Changing describes the ability to understand
-in the context of career.
-and adapt to changing online career contexts
-Creating describes the ability to create online
-and to learn to use new technologies for the
-content that effectively represents the indivipurpose of career building.
-dual, their interests and their career history.
-Collecting describes the ability to source,
-Curating describes the ability of an individual to
-manage and retrieve career information and
-reflect on and develop their digital footprint
-resources.
-and online networks as part of their career
-Critiquing describes the ability to understand
-building.
-the nature of online career information and
-resources, to analyse its provenance and to
-1 Hooley m.fl. (2015), side 19.
-consider its usefulness for a career.
-Connecting describes the ability to build relationships and networks online that can
-support career development.
-gruppene vil ikke kunne nyttiggjøre seg et nettbasert tilbud like godt, samtidig som dette ofte er
-grupper som kan ha stort behov for og nytte av
-karriereveiledning. For slike grupper er et ansikttil-ansikt karriereveiledningstilbud viktig.
-Nytt kompetanseområde for veiledere
-Introduksjon av nettbaserte karriereveiledningstjenester vil stille nye krav til karriereveiledere og
-andre som vil jobbe i relasjon til utvikling og drift
-av dette tilbudet. Kompetanse i karriereveiledning
-er et viktig grunnlag for å jobbe med nettbasert
-karriereveiledning. Men det vil være nødvendig å
-utvikle digital tilleggskompetanse, særlig for veiledere som skal jobbe med e-veiledning. Tilgjengeligheten av karriereinformasjon og selvhjelpsverktøy på nett kan også utfordre andre karriereveiledere når det gjelder å ta i bruk tjenestene på nyttige måter inn i veiledning. Kunnskap om hvilke
-nettverktøy som finnes og hvordan de kan anvendes i en pedagogisk sammenheng, blir en sentral
-ferdighet.
-Det er knyttet en del faglige og etiske utfordringer til det å jobbe med nettbasert karriereveiledning, og veiledernes profesjonalitet vil være
-avgjørende for tjenestenes kvalitet. Det er naturlig
-nok ikke mange praktikere som har erfaring med
-28
-
-Tre firedeler, omtrent 200 000, av de som ikke har brukt
-internett de siste tre månedene er over 65 år. De øvrige er
-stort sett utenfor arbeidslivet. Se Damvad (2014): Tiltak
-som kan bidra til å øke befolkningens digitale deltagelse og
-kompetanse.
-
-nettbasert karriereveiledning og/eller tjenesteutvikling i Norge. Det vil være en forutsetning for å
-lykkes med å utvikle et godt tjenestetilbud, at det
-bygges opp et sterkt og profesjonelt fag- og praksismiljø knyttet til nettbasert karriereveiledning.
-Det er i den sammenheng viktig å trekke inn kompetanse fra flere fagområder, også fagområder
-som tradisjonelt ikke har vært knyttet til tjenesteutvikling av karriereveiledning. Et bedre nettbasert karriereveiledningstilbud kan ha en positiv
-effekt på profesjonalitet og kvalitet i de ordinære
-tjenestene. Veiledere i sektorene får enklere tilgang til kvalitetssikret informasjon, de kan bruke
-selvhjelpsverktøy inn i veiledning eller undervisning, de kan kommunisere med andre veiledere,
-eller for eksempel selv spørre om eksperthjelp fra
-veiledere i en e-veiledningstjeneste.
-
-7.2
-
-Karriereveiledningstilbud på nett
-i Norge i dag
-
-Basert på mandatet gitt av Regjeringen, har utvalget i utgangspunktet avgrenset sitt oppdrag til å
-gjelde et offentlig karriereveiledningstilbud på
-nett. Men når det gjelder nettbaserte tjenester på
-dette området, er det allikevel nødvendig å se på
-helheten i tilbudet. En person som søker informasjon og/eller karriereveiledning på nett forholder
-seg ikke nødvendigvis til et skille mellom privat
-og offentlig. Han eller hun gjør sine nettsøk og tar
-i bruk de nettstedene og tjenester han eller hun
-da blir eksponert for etter behov, og ikke nødven-
-
-[Side 99]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-digvis etter en vurdering av nettressursens opphav.
-Skillet mellom privat og offentlig er heller ikke
-helt entydig når det gjelder nettressurser. Det finnes privatdrevne reklamefrie utdanningsnettsteder som er offentlig finansiert. Innhold på private
-nettsteder kan være skapt av offentlige midler ved
-at innhold syndikeres. NHO-forbund, fagorganisasjoner og bransjeorganisasjoner har ikke-kommersielle informasjons og rekrutteringsnettsteder, noen medfinansiert av det offentlige. Kommersielle selskap som driver nettaviser og diskusjonsfora på nett og sosiale media stiller sine sider
-til disposisjon for kommunikasjon om utdanning
-og arbeid.29
-For at et offentlig finansiert og drevet karriereveiledningstilbud på nett skal være relevant og bli
-tatt i bruk, er et suksesskriterium at det utvikles
-basert på en forståelse av hvordan mennesker i
-dag agerer i møte med digitale tjenester. I et notat
-Senter for IKT i utdanningen har utarbeidet for
-utvalget, blir spørsmålet om hvordan folk bruker
-nettet for å finne utdannings- og karriereinformasjon undersøkt nærmere.30 I avsnittet under bli
-hovedpoengene i dette notatet gjengitt, før det
-offentlige nettbaserte tilbudet blir gjennomgått.
-
-7.2.1
-
-29
-
-kusjonsfora som brukes mest, hvilken rolle kampanjenettsteder har og hvilke nettsteder rettet
-mot de som skal studere i utlandet som er mest
-synlige. Alt dette for å danne seg et bilde av hvilken informasjon og karriereveiledningstjenester
-på nett som samlet er tilgjengelig for personer i
-Norge.
-Tilbud og kvalitet
-Kort oppsummert viser undersøkelsen at det er et
-mangfold av nettsteder og tilbydere på dette
-området. En rekke private aktører har nettsteder
-rettet mot målgrupper som leter etter utdanningsinformasjon og karriereveiledning, og mange av
-disse nettstedene har høy synlighet på nett (se
-tabell 7.1 ). Men notatet påpeker samtidig at disse
-sidene ikke nødvendigvis dekker de informasjonssøkendes behov:
-At det er et mangfold av flere hundre nettsteder, innebærer nødvendigvis ikke et samlet
-godt utdannings- og karriereinformasjonstilbud på nett. Mange av nettsidene har informasjon som overlapper, er utdatert eller motsier
-hverandre. Andre typer informasjon som
-utdanningssøkere er på jakt etter finnes ikke på
-nett, lar seg ikke finne gjennom nettsøk, eller
-de er publisert i format som ikke lar seg
-finne.32
-
-Det ikke-offentlige nettbaserte
-tilbudet
-
-Undersøkelsen fra Senter for IKT i utdanningen
-kartlegger hvilke nettsteder de som søker utdanningsinformasjon og karriereveiledning havner på
-når de gjør (google)søk på nett.31 Undersøkelsen
-ser på hvilke av disse nettstedene som er mest
-synlige, og de mest synlige blir så vurdert etter
-noen kvalitetskriterier. I tillegg ser man på hvilke
-spørsmål og svartjenester som finnes, hvilke disSenter for IKT i utdanningen (2015): Hvilke nettsteder tilbyr
-utdanningsinformasjon og karriereveiledning i Norge?
-30
-Senter for IKT i utdanningen (2015)
-31
-Om undersøkelsen: Årlig gjør brukere over 3 millioner ganger et informasjonssøk i søkemotoren Google som fører til
-at de besøker utdanning.no og 10 millioner ganger skriver
-noen søk i den interne søkemotoren. Alle søkeordene blir
-logget. Søkeordene aggregeres og analyseres og danner et
-detaljert bilde av hva slags informasjon nettbrukeren er på
-leting etter. Undersøkelsen baserer seg på en analyse av
-2545 nettsteder som er mest synlige for personer som
-søker utdanningsinformasjon. I analysen inngikk de tusen
-mest brukte søkeordene benyttet mellom mars 2013 og
-mars 2014 på utdanning.no. Analysen ser på hvilke andre
-nettsteder enn utdanning.no brukeren fikk treff på. Av
-disse ble 480 nettsteder sortert ut og rangert etter hvor
-synlige disse er i utdanningsrelaterte søk. Med synlighet
-menes om nettstedet med ett av søkeordene som gir treff,
-vil komme på topp 20 lista når Google viser trefflista for
-akkurat dette søkeordet.
-
-97
-
-Kapittel 7
-
-Vurderingene som blir gjort av de mest synlige kommersielle nettstedene, viser at de har
-flere svakheter. Det kan være vanskelig for den
-ordinære bruker av siden å skille mellom hva som
-er betalt innhold og hva som er nøytral informasjon og det er som hovedregel ikke merking av
-hva som er sponset innhold. Det er heller ikke alltid tydelig for brukeren om søkefunksjonene
-internt på nettstedene favoriserer de som har
-betalt for synlighet. Flere av sidene oppgir ikke
-dato for når artikler er publisert, noe som gjør det
-vanskelig for den enkelte bruker å vurdere innholdets gyldighet og om informasjonen er oppdatert.
-Søkeadferd
-Søk i søkemotorer som Google er blitt den desidert vanligste måten å finne informasjon om nær
-sagt alle typer emner, så også utdannings- og karriereinformasjon. I en kartleggingsundersøkelse
-oppga for eksempel 97 prosent av elevene på VG2
-at de brukte Google til nettsøk minst ukentlig.33
-32
-
-Senter for IKT i utdanningen (2015), side 3
-
-[Side 100]
-
-98
-
-Kapittel 7
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Tabell 7.1 De 20 mest synlige nettstedene med utdannings- og karriererelatert innhold
-Domenenavn
-
-Nettstedets eier / redaksjonelt ansvarlig
-
-synlighetsindeks
-
-utdanning.no
-
-Senter for IKT i utdanningen
-
-97 %
-
-studievalg.no
-
-Studenttorget AS
-
-75 %
-
-ung.no
-
-Barne-, ungdoms- og familiedirektoratet
-
-63 %
-
-studenttorget.no
-
-Studenttorget AS
-
-62 %
-
-studentum.no
-
-Studentum AS
-
-54 %
-
-vgd.no
-
-Verdens Gang AS
-
-45 %
-
-no.wikipedia.org
-
-Stiftelsen Wikimedia foundation
-
-45 %
-
-forum.kvinneguiden.no
+England – National Careers Service
 
-Egmont AS, Oslo
+*Formål*
 
-37 %
+Nettstedet National Careers Service[^287] har som formål å gi informasjon og veiledning knyttet til både utdanning, arbeid og karrierevalg. Nettstedet skal gi nøytral og kvalitetssikret informasjon og veiledning.
 
-diskusjon.no
+*Målgruppe*
 
-Mediehuset TEK AS
+Målgruppen er hele befolkningen, fra unge utdanningssøkende til voksne som søker jobb eller utdanning. Det er en egen del spesielt rettet mot unge mellom 13 og 16 år.
 
-33 %
+*Organisering og eierskap*
 
-sokutdanning.no
+Nettstedet National Careers Service er et tilbud fra Skills Funding Agency på vegne av Department for Business, Innovation and Skills. Dette departementet har økonomisk vekst som hovedformål, og investerer i ferdigheter og utdanning for å fremme handel, innovasjon og stimulere til oppstart av bedrifter.
 
-CareerOn AS, Oslo
+*Tjenester i tilknytning til nettstedet*
 
-21 %
+Nettstedet gir tilgang til informasjon og selvhjelpsverktøy. Det er tilbud om telefonveiledning, chat og en innloggingsløsning for blant annet lagring av CV og resultater av selvhjelpsverktøy. I tillegg er det utviklet applikasjoner for smarttelefoner i tilknytning til nettstedet. Det er også mulig å bli vist videre til ansikt-til-ansikt veiledning. Det finnes også egne verktøy og egen informasjon rettet mot unge mellom 13 og 16.
 
-facebook.com
+Andre løsninger for informasjons- og datadeling
 
-Facebook Inc.
+*Occupational Outlook Handbook og O\*Net Online*
 
-21 %
+De føderale myndighetene i USA har et omfattende tilbud som skal bidra til at innbyggerne kan ta informerte utdanningsvalg og få støtte i karriereutvikling. Det er myndighetene for arbeidsmarkedsstatistikk (US Bureau of Labor Statistics) og ikke utdanningsmyndighetene som har ansvaret for å skape og oppdatere innholdet.
 
-kursguiden.no
+Informasjonstilbudet på nett er svært omfattende. Innholdet viderebrukes på egne nettsteder i delstatene og egne nettsteder rettet mot spansktalende og militære veteraner. Her presenteres to føderale nettsteder, det ene består hovedsakelig av tekst, det andre formidler statistiske data.
 
-Kursguiden AS, Lysaker
+Occupational Outlook Handbook[^288] er en tjeneste med detaljerte yrkesbeskrivelser for nær tusen yrker. Tjenesten ble først utgitt i bokform for å lette overgangen til arbeid for demobiliserte soldater etter andre verdenskrig, men har vært forbedret, oppdatert og utvidet og har siste tiår vært et nettsted. Innholdet på Occupational Outlook Handbook beskriver arbeidsoppgaver, utdanning, lønn, jobbmuligheter, arbeidsmiljø og personlige egenskaper knyttet til ulike yrker.
 
-19 %
+O\*Net Online[^289] er et nettsted som formidler detaljerte faktaopplysninger og statistisk informasjon om nær tusen yrker. Nettstedet har flere verktøy for å kunne sammenligne ulike aspekter ved forskjellige yrker. I motsetning til Occupational Outlook Handbook, består O\*Net Online av informasjon basert på offentlige registre og spørreundersøkelser blant fagfolk fra yrkets bransje og er utviklet i henhold til anerkjente karriereveiledningsteorier (for eksempel Hollands RIASEC-modell[^290]). Dataene har en redaksjonell syklus for faste oppdateringer.
 
-vilbli.no
-
-PedLex på oppdrag av fylkeskommunene
-
-12 %
-
-studiesok.no
-
-RR Media AS
-
-12 %
-
-snl.no
-
-Stiftelsen norsk nettleksikon
-
-11 %
-
-udir.no
-
-Utdanningsdirektoratet
-
-10 %
-
-tautdanning.no
-
-Trondheim Messeselskap AS
-
-9%
-
-nrk.no
-
-NRK
-
-9%
-
-hogskoleutdanning.no
-
-Studentum AS
-
-8%
-
-education.kilroy.no
-
-Kilroy Travels
-
-7%
-
-vg.no
-
-Verdens Gang
-
-6%
-
-fag-skole.no
-
-Studentum AS
-
-6%
-
-klikk.no
-
-Egmont
-
-6%
-
-tu.no
-
-Teknisk ukeblad
-
-6%
-
-minutdanning.origo.no
-
-Østfold Fylkeskommune
-
-6%
-
-Tabell: Oversikt over de 25 mest synlige nettsteder med utdannings- og karriererelaterte innhold i alle kategorier. Treffene kan
-leses som at av de 1000 mest vanlige søkeordene på utdanning.no, vil utdanning.no gi treff på 97,3 prosent, mens studievalg.no vil
-få en synlighet blant 20 topp Google-søk i 74,7 prosent av tilfellene. Læresteders nettsteder og ren jobbformidling er holdt utenom.
-Kilde: Senter for IKT i Utdanningen (2015).
-
-Ungdom i alderen 15–25 år oppgir i en annen
-undersøkelse at søk på nett er den foretrukne
-informasjonskanal når det gjelder valg av utdanning.34
-Samtidig er det slik at det kan være stor variasjon i nettbrukeres kompetanse i å kritisk vurdere
-kvalitet og relevans både av trefflister på nettsøk
-og nettsteder. Mange tar utgangspunkt i den første trefflisten de får, uten å vurdere om det er
-33
-
-Senter for IKT i utdanningen (2010): Monitor 2010: Samtaler om IKT i skolen
-34 Opinion Perduco (2013): Nasjonal kartlegging av unges
-utdannings- og yrkesvalg
-
-sponset, nøytralt eller fra en troverdig kilde.
-Mange reflekterer heller ikke over at treffene de
-får er styrt av at Google tilpasser trefflista etter
-brukerens IP-adresse. Tidligere søkehistorikk og
-geografisk plassering vil for eksempel påvirke
-hvilke sider som kommer øverst i trefflista. Forskeren Danah Boyd har i en bok om ungdoms
-bruk av nettmedier sagt:
-Teens view Google as the center of the digital
-information universe, even though they have
-little understanding of how the search results
-are produced, let alone any awareness of how
-personalization affects what they see. They
-
-[Side 101]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-uncritically trust Google, just as most adults
-do.35
-Betydningen av sosiale medier
-Sosiale medier som Facebook, LinkedIn, Twitter,
-ulike diskusjonsfora og bilde- og videodelingsnettsteder har fått en stadig økt betydning når det gjelder folks informasjonstilgang også på dette området. Mange som har spørsmål i forbindelse med
-utdanningsvalg og karriereutvikling poster for
-eksempel spørsmål direkte på veggen sin på facebook eller bruker ulike diskusjonsfora som VG
-Debatt, kvinneguiden.no eller nybaktmamma.no.
-Det er for eksempel hittil postet 120 000 innlegg
-under kategorien «jobb og utdanning» på VG
-Debatt, og på Kvinneguiden er det postet 374.000
-svar om utdanning og karriere. Sosiale medier
-åpner også opp for at personer kan organisere seg
-i grupper med felles interesser for å dele erfaringer og informasjon. Det finnes også mange små
-spesialiserte nettforum, som sykepleiediskusjon.no og pilotforum.no, hvor utøvere av yrket
-svarer direkte på spørsmål basert på erfaringer
-fra jobben.
-Dette kan på mange måter være positivt. At
-det foregår samtaler og informasjonsutveksling
-knyttet til utdanningsvalg og karriereutvikling på
-sosiale medier, gir folk tilgang til mange nye og
-potensielt nyttige kilder. Men det er også slik at
-informasjonen man finner fram til kan være av
-mer varierende kvalitet enn i tradisjonelle redaksjonelt drevne medier. Hvem som helst kan svare,
-og ofte er det slik at «mange brukere på generelle
-forum har større entusiasme enn fagkunnskap».36
-Når brukere finner svar på spørsmål de har via
-disse nye mediekanalene, stilles det enda større
-krav til brukernes evne til kildekritikk.
-Nettet er i kontinuerlig utvikling, det er også
-måten mennesker bruker digitale tjenester på. Et
-offentlig karriereveiledningstilbud på nett må utvikles i forståelse av folks nettadferd og i samspill
-med hvilke tilbud som ellers finnes på nett. Som
-det fremgår av undersøkelsen, er det private tilbudet slik det fremstår i dag til dels svært mangelfullt. Et offentlig karriereveiledningstilbud på nett
-vil derfor fylle noen store huller i folks tilgang til
-informasjon og karriereveiledning på nett. Men
-det private tilbudet vil fortsette å utvikle seg og vil
-til enhver tid være nyttige ressurser for mange
-mennesker. Det offentlige har en rolle i å sikre at
-35
-
-Boyd, D. (2014): It's Complicated: The Social Lives of
-Networked Teens. Yale University Press
-36
-Senter for IKT i utdanningen (2015), side 22.
-
-99
-
-Kapittel 7
-
-alle har tilgang til et kvalitativt godt tilbud om nettbasert karriereveiledning, det private kan være et
-viktig supplement til dette.
-Noen land som har et stort marked for karriereveiledningstjenester på nett, har valgt å løse
-utfordringen med å sikre befolkningen tilgang til
-nettbasert utdannings- og karriereinformasjon på
-flere måter. Vi kommer nærmere inn på dette
-under.
-I de senere årene har det vært en økende
-interesse for utvikling av nettbaserte veiledningsplattformer, hvor det åpnes opp for prosessorientert online kommunikasjon med utgangspunkt i
-karriereinformasjon, og resultater fra forskjellige
-typer kartlegginger integrert i plattformen. I
-engelskspråklige land refereres dette til som
-computer-assisted guidance systems.37 Utviklingen i norsk sammenheng har vært fokusert på å i
-større grad legge opp til en arbeidsform som
-fremmer egenaktivitet og karrierelæring hos den
-som deltar i nettbasert karriereveiledning. Karriereveileder og mottaker av karriereveiledning kan
-gjennom disse løsningene kommunisere i sanntid
-på samme plattform, og sammen avgjøre hvilke
-ressurser som vil være hensiktsmessige å legge
-inn i den delte plattformen. Det kan være forskjellig type karriereinformasjon og/eller resultater
-fra forskjellige kartleggingsverktøy. Online kommunikasjon (eksempelvis chat) blir dermed i
-større grad integrert i en helhetlig veiledningsprosess. Utviklingen av denne typen løsninger har
-i stor grad foregått hos kommersielle aktører som
-selger sine produkter til tilbydere av karriereveiledning. Tilgjengeligheten av denne typen tjenester er dermed avhengig av om tilbyderen, enten
-offentlig eller privat, abonnerer på en lisens for
-dette produktet.
-
-7.2.2
-Det offentlige nettbaserte tilbudet
-Det offentlige karriereveiledningstilbudet på nett i
-Norge i dag er spredt på flere nettsteder. Disse
-nettstedene er ulike hva gjelder omfang av stoff
-og typer innhold og tjenester. Tjenestenes innhold
-er som regel utviklet for å ivareta ulike sektorinteresser og henvender seg gjerne til spesifikke
-grupper (ungdom, arbeidsledige, innvandrere).
-Bortsett fra utdanning.no og vilbli.no er nettstedene utviklet med andre hovedformål enn karriereveiledning (for eksempel ung.no, nokut.no). De
-fleste offentlige nettstedene retter seg mot ungdom (elever og studenter) og består i stor grad av
-ulike typer informasjon som er relevant for utdan37
-
-Hooley m.fl (2015)
-
-[Side 102]
-
-100
-
-NOU 2016: 7
-
-Kapittel 7
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-KD
-
-ASD
-
-JD
-
-BLD
-
-Universitet
-og høyskole
-
-Senter for IKT
-i utdanningen
-
-Samordna
-opptak
-
-Nav
-
-Imdi
-
-Buffdir
-
-nokut.no
-
-utdanning.no
-m/veilederforum.no
-
-samordnaopptak.no
-
-nav.no
-
-nyinorge.no
-
-ung.no
-
-karrieresentres
-nettsider
-
-Fylkeskommune/
-kommune
-Fylkesvise
-karrieresentre
-vilbli.no
-
-mange
-nettsteder
-
-vigo.no
-unginfo.no
-
-Figur 7.1 Offentlige aktører
-ningsvalg. Noen nettsteder henvender seg til
-samme målgruppe og deler overlappende informasjon (for eksempel utdanning.no og vilbli.no).
-E-veiledning forekommer i svært liten grad. Det
-er utviklet noen selvhjelpsressurser som er gratis
-tilgjengelig, men kvaliteten på disse varierer. Få
-av nettstedene er tilrettelagt for voksne i ulike livsfaser, for mennesker med spesielle behov eller
-med annet språk enn norsk.
-Det forvaltningsmessige ansvaret for karriereveiledning på nett er delt på mange aktører. Tilbudene er i liten grad samordnet eller sett i sammenheng. De ulike nettstedene er finansiert over ulike
-budsjetter, men det eksisterer ingen oversikt over
-hvor mye ressurser det offentlige bruker på dette
-til sammen. De ulike og små fagmiljøene som
-utvikler og drifter disse nettstedene samarbeider i
-liten grad. Det er ukjent i hvor stor grad personer
-med fagkompetanse innen karriereveiledning er
-involvert i utvikling og drift av nettstedene.
-I en samfunnsøkonomisk analyse av et helhetlig karriereveiledningstilbud på nett konstaterer
-Analyse og Strategi at dette er et område som i
-svært liten grad har vært gjenstand for helhetlig
-tenkning og samordning:
-I dag foreligger ingen formelle samarbeidsavtaler mellom nettstedene med hensyn til koordinering av innhold og tjenesteutvikling. Det
-foreligger heller ingen dokumentasjon som
-tydeliggjør grensedragningene mellom samfunnsoppdragene til de ulike nettstedene. Gjennom intervjuene fremgår det imidlertid at det
-forekommer prosjektbaserte samarbeid om
-blant annet tjenesteutvikling i noen grad, blant
-annet mellom utdanning.no og samordnaopptak.no38
-38
-
-Analyse og Strategi (2014): Samfunnsøkonomisk analyse av
-et helhetlig karriereveiledningstilbud på nett, side 50
-
-Forvaltningsmessig ansvar
-Det offentlige ansvaret for karriereveiledning
-generelt er i hovedsak delt mellom Kunnskapsdepartementet, Arbeids- og sosialdepartementet,
-Justisdepartementet og Barne-, likestillingsdepartementet, i tillegg til fylkeskommuner og kommuner. Ansvaret for det offentlige tilbudet av karriereveiledning på nett vil følge de samme sektorinndelingene, se Figur 7.1.
-Kunnskapsdepartementet har det overordnede
-ansvaret for karriereveiledning i utdanningssektoren. Under Kunnskapsdepartementet sorterer
-flere aktører som har utviklet og som drifter nettsteder med elementer av karriereveiledning. Senter for IKT i utdanningen har ansvar for utdanning.no og veilederforum.no. Samordnaopptak.no, nokut.no og nettstedene i universitets- og
-høyskolesektoren hører også til under Kunnskapsdepartementets område. I tillegg sorterer
-Utdanningsdirektoratet og Nasjonal enhet for karriereveiledning i Vox under Kunnskapsdepartementet. Ingen av disse har direkte ansvar for noen
-nettressurser med elementer av karriereveiledning, ut over at de er involvert i driften av veilederforum.no, som er et faglig nettsted for karriereveiledere og rådgivere, utviklet og drevet i et samarbeid mellom Vox, Senter for IKT og Utdanningsdirektoratet.
-Arbeids- og sosialdepartementet har ansvar for
-NAV og gjennom det for nav.no.
-Justisdepartementet har ansvar for IMDi og
-gjennom det for nyinorge.no.
-Barne- og likestillingsdepartementet har ansvar
-for Barne-, ungdoms-, og familiedirektoratet (Bufdir) og gjennom det for ung.no.
-Fylkeskommunene har ansvar for vilbli.no og
-vigo.no, de fylkesvise karrieresentrenes nettsteder er tilknyttet fylkeskommunene gjennom sin
-organisering i Partnerskap for karriereveiledning.
-
-[Side 103]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Kommuner: Unginfo-nettsteder driftes i samarbeid mellom kommuner og lokale barne- og ungdomsorganisasjoner.
-Kampanjesteder: ulike kampanjesider med elementer av karriereveiledning vil kunne sortere
-under ulike departementer/kommunale aktører
-(og private), alt avhengig av fokuset for kampanjen. Eksempler på kampanjenettsteder er velgriktig.no og verdensfinestestillingledig.no.
-I Boks 7.2 gir vi en beskrivelse av de viktigste
-offentlige nettstedene med hele eller deler av sitt
-innhold knyttet til karriereveiledning.39 Som det
-vil fremgå kan det synes som om grenseflaten
-mellom nav.no, vilbli.no og utdanning.no er størst,
-og at det er mest å hente på økt koordinering,
-
-101
-
-Kapittel 7
-
-avklaring og samarbeid mellom disse. Det er mellom disse aktørene at tangeringen i oppdrag
-størst. Disse aktørene har til dels overlappende
-oppdrag (fra ulike oppdragsgivere) når det gjelder
-de nettbaserte tjenestene. Fordelen ved større
-samordning mellom ulike aktører berøres i kapittel 7.3.2. Utvalget vil også komme tilbake til denne
-problemstillingen i omtalen av utvalgets anbefalinger for forvaltning av et nettbasert karriereveiledningstilbud.
-
-39
-
-Beskrivelsen er i sin helhet hentet fra Analyse og Strategi
-(2014). Eventuelle oppdateringer/endringer som har
-skjedd siden 2014 er omtalt i fotnoter.
-
-Boks 7.2 Nettbasert karriereveiledningstilbud i Norge
-holder blant annet yrkesintervjuer med persoBeskrivelsen i boksen i sin helhet hentet fra
-ner i yrket. Tjenesten inneholder også informaAnalyse og Strategi (2014): Samfunnsøkonosjon rettet mot spesifikke målgrupper gjennom
-miske analyse av et helhetlig karriereveiledningstemasider for lærlinger og privatister.
-tilbud på nett. Enkelte oppdateringer/endringer
-som har skjedd siden 2014 er omtalt i fotnoter.
-Selvhjelpsverktøy
-utdanning.no
-Utdanning.no har utviklet flere selvhjelpsverktøy som brukerne av nettstedet kan benytte for
-Utdanning.no er en nasjonal nettportal for
-å reflektere rundt utdanningsvalg og for å regne
-utdanning, yrker og karriere. Nettstedet retter
-på karakterer/poeng og i forbindelse med faget
-seg mot alle de som skal søke utdanning, og
-utdanningsvalg. Disse kan brukes både av perandre som ønsker mer informasjon om utdansoner som søker veiledning og av veiledere.
-ning og yrker. Informasjon om videre- og etterJobbkompasset: Gir en visuell oversikt over
-utdanning var tidligere formidlet gjennom Norulike karriereveier. Her kan den veiledningssøgesuniversitetet, men ble integrert i utdankende navigere fra ulike interesser, til mulige
-ning.no fra høsten 2013.
-yrker innenfor interessefeltet, og videre fram til
-Nettstedet tilbyr personer som søker veiledhvilken utdannelse som kreves.
-ning, veiledere og andre informasjon og verktøy
-Karakterkalkulatoren: Dette er et verktøy
-for å lære om utdanning på alle nivåer, fra videsom kan brukes til å regne ut karaktersnitt,
-regående opplæring til høyere utdanning, inklusamt se hvilke poeng og fagkombinasjoner ulike
-dert fagskoler, folkehøyskoler og etter- og videstudier innen høyere utdanning krever.1
-reutdanningstilbud. I tillegg til informasjon om
-Undervisningsopplegg: Hjelpemidler som
-utdanning inneholder nettstedet informasjon om
-kan benyttes i undervisningen i faget utdanyrker.
-ningsvalg i ungdomsskolen, hovedsakelig gjenPå nettstedet kan en bruker velge å ta
-nom «støtteark» for elevene.
-utgangspunkt i et yrke, finne informasjon om
-Utdanningssystemet: Et illustrasjonsverkblant annet hva yrket innebærer og hvilken
-tøy, som skal gi brukeren en enkel inngang til å
-utdanning som kreves. Yrkes- og karrieresidene
-få oversikt over det norske utdanningssystemet.
-gir beskrivelser av omtrent 550 yrker, og inne-
-
-[Side 104]
-
-102
-
-Kapittel 7
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Boks 7.2 forts.
-tet. For å søke på videregående opplæring må
-veilederforum.no
-søkeren benytte nettstedet vigo.no, også drevet
-av Vigo IKS.
-Veilederforum.no er en nettressurs for karriereDen private aktøren Pedlex Norsk Skoleinveiledere og utdannings- og yrkesrådgivere.
-formasjon er redaksjonell og teknisk leverandør
-Nettstedet har som formål å gjøre relevant fagav nettstedet.
-stoff, forskning, aktuell informasjon og ressurser lett tilgjengelig for veilederne, og dermed
-Selvhjelpsverktøy
-bidra til kompetanseheving, økt faglig fellesskap
-Nettstedet inneholder en interessetest rettet
-og tilrettelegge for effektiv informasjonsutveksmot de som skal søke videregående opplæring
-ling for karriereveiledere og rådgivere på tvers
-og ønsker å finne et passende utdanningsproav sektorer.
-gram. Testen består av 9 sider med 12 spørsmål
-Veilederforum.no er et samarbeid mellom
-på hver side, og resulterer i en liste av utdantre etater under Kunnskapsdepartementet.
-ningsprogrammer matcher de valgte interesUtdanning.no står for prosjektledelse, teknisk
-sene.
-utvikling og innholdsproduksjon for veilederforum.no. Vox har en fagredaktørrolle for innnav.no4
-holdet og Utdanningsdirektoratet sitter sammen
-Nettstedet nav.no dekker alle områder som
-med Vox og Senter for IKT i utdanningen i styomfattes av NAV som arbeid, helse, familie og
-ringsgruppen og redaksjonsrådet.2
-pensjon.
-Veilederforum.no inneholder hovedsakelig
-Aktivitetene innenfor NAV-systemet som er
-fagartikler rettet mot veiledere innen utdanning
-knyttet til arbeid har et eget område på nettsteog karriere og en delingsarena. Her finnes reledet. NAV har et ansvar for å bistå arbeidssøkere
-vante artikler rundt utdanning, arbeid, og
-med tjenester og tiltak som blir vurdert som
-artikler som dreier seg om selve veiledningsnødvendig og hensiktsmessig for å styrke muligsamtalen3.
-hetene til å få jobb.
-vilbli.no
-På nettstedet tilbys kortfattet informasjon
-om utdanning med fokus på grunnutdanning og
-Nettstedet eies av fylkeskommunene gjennom
-realkompetanse. For utfyllende utdanningsinforVigo IKS og har som ambisjon å være hovedmasjon henvises brukeren til andre offentlige
-kilde til informasjon om videregående opplænettsteder. Nettstedet tilbyr videre tips og råd
-ring for rådgivere, søkere og foreldre. På nettknyttet til yrkesvalg og jobbsøking.5
-stedet skal brukere finne oppdatert og kvalitetssikret informasjon om videregående opplæring.
-Selvhjelpsverktøy
-Vilbli.no inneholder detaljert informasjon
-Nettstedet tilbyr veiledningssøkende tre ulike
-om de ulike utdanningsprogrammene innenfor
-verktøy som skal være til hjelp i valg av utdanvideregående opplæring. Nettstedet inneholder
-ning og yrke.
-både generell informasjon og informasjon fra de
-Interessetesten: Testen er beregnet på unge
-enkelte fylkene, og de enkelte videregående
-som har behov for å reflektere og få systematiskolene. I januar hvert år blir skoletilbudene for
-sert sine interesser. Interessene er delt i 15 katedet kommende skoleåret tilgjengelige på vilgorier. For hver kategori kan den veiledningssøbli.no. På vilbli.no finner personer som søker
-kende gå videre og finne hvilke yrker som pasveiledning videre informasjon om regelverk,
-ser til denne kategorien.
-inntakskrav, inntaksregler og søknadsprosedyVeivalg: Testen er rettet mot de som skal
-rer knyttet til utdanning. I tillegg til informasjon
-velge
-videregående og/eller høyere utdanning.
-om utdanning inneholder nettstedet informasjon
-Testen kartlegger interesser, ferdigheter og verom ulike yrker/kompetanser. Brukeren kan
-digrunnlag i tre separate deler. Brukeren får en
-søke på ulike yrker og finne informasjon om
-profil med en utdypende tekst.
-utdanningskrav, beskrivelse av yrket og intervjuer med mennesker som arbeider innenfor fel-
-
-[Side 105]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-103
-
-Kapittel 7
-
-Boks 7.2 forts.
-Ung.no har ingen egne selvhjelpsverktøy,
-Akademia: Testen er et arbeidsverktøy som skal
-men henviser leseren til nav.no, vilbli.no og
-gi hjelp og støtte til å finne ut mer om stillinger,
-«Jobbkompasset» fra det danske nettstedet
-arbeidsområder og om arbeidslivet generelt,
-uddannelsesguiden.dk.
-samtidig som det bidrar til å reflektere over
-interesser, ferdigheter og muligheter på arbeidsDiskusjonsforum
-markedet. Testen skal også gi støtte når det gjelUng.no har en egen fane som heter «Diskuter».
-der til planlegging, praktisk jobbsøking, osv.
-Her står brukerne fritt til å diskutere ulike
-Lagringsløsning
-temaer seg imellom. Innholdet på diskusjonstrådene kvalitetssikres av redaksjonen med
-Nav.no har en Min side-løsning med innlogging
-utgangspunkt i at innholdet ikke skal stride mot
-gjennom ID-porten (felles innlogging til offentgjeldende norsk lov og må følge allmenne etiske
-lige tjenester). Lagringsløsningen inngår som
-retningslinjer.
-en del av «Ditt Nav» som er en selvbetjeningsportal som dekker alle deler av NAV-systemet.
-Svartjeneste
-Innenfor Min side kan brukeren lagre CV, profiPå ung.no er det også mulig å sende inn spørsler fra Navs interessetester og oversikt over
-mål som blir besvart av et nettverk av ressurjobbsøk (jobblogg). I tillegg kan brukeren regisspersoner fra ulike deler av offentlig sektor.
-trere faste jobbsøk med e-postvarsling.
-Unge kan her stille spørsmål om alt de måtte
-ung.no
-lure på, dersom nettverket til ung.no ikke kan
-svare, henvises brukeren videre til rett instans.
-Ung.no skal fungere som det offentliges informasjonskanal for ungdom på nett, og er rettet
-nokut.no
-mot ungdom mellom 13 og 20 år. UtgangspunkNokut kvalitetssikrer norsk høyere utdanning
-tet for innholdet på ung.no er FNs konvensjon
-og fagskoleutdanning og står samtidig for godom barns rettigheter. Nettstedet inneholder
-kjenning av utenlandsk utdanning. Nettstedet
-informasjon om et bredt spekter av temaer som
-nokut.no tilbyr informasjon om hvordan Nokut
-unge mennesker er opptatt av, fra pubertet og
-jobber innenfor sine områder.
-seksualitet til yrker og utdanning.
-Samfunnsoppdraget til Nokut handler om å
-På nettstedet kan man, mellom andre temaer
-sikre kvalitet i høyere utdannelse. Karriereveisom ikke er relevante i denne sammenheng,
-ledning til befolkningen ligger ikke innenfor
-velge temaene «Utdanning», «Yrkesvalg» og
-dette oppdraget. Likevel vil noe av informasjo«Arbeid/jobb». Innenfor «Utdanning» finnes det
-nen som finnes på nettstedet være relevant for
-mye informasjon om utdanning i ungdomsskopersoner som søker veiledning. Nettstedet henlen, videregående opplæring og høyere utdanvender seg til arbeidssøkere og studenter med
-ning. Innenfor hver av disse kategoriene finnes
-informasjon blant annet knyttet til vurdering og
-det informasjon om studieretninger, krav og retgodkjenning av utenlandsk utdanning, informatigheter, informasjon om hvordan man søker
-sjon om utdanningssystemet og kvalitetsopptak og så videre.
-sikringssystemer og tips til arbeidsgivere ved tilGjennom å klikke på fanen «Yrkesvalg» kan
-setting av personer med norsk eller utenlandsk
-man lese artikler som beskriver ulike yrker og
-utdanning. Nettstedet publiserer også «Studiehva som kreves av utdanning, i tillegg får lesebarometeret», som viser studentenes oppfatninren tips til hvordan man skal ta et valg man blir
-ger om studiekvalitet. Studiebarometeret er et
-fornøyd med. Innenfor «Arbeid/jobb» finnes det
-verktøy for de som ønsker informasjon om stuinformasjon om hvordan man finner ledige jobdentenes syn på kvaliteten på universitets- og
-ber, skiver CV, gjennomfører jobbintervjuer,
-høyskolestudier, og kan dermed være av
-informasjon om minstelønn, aldersgrenser og så
-interesse for veiledningssøkende.
-videre. For en grundigere gjennomgang av
-utdanning og yrker henvises leseren til blant
-annet utdanning.no
-
-[Side 106]
-
-104
-
-Kapittel 7
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Boks 7.2 forts.
-samordnaopptak.no
-
-nyinorge.no
-
-På samordnaopptak.no registrerer søkere til
-høyere utdanning sin søknad om studieplass, og
-dette er hovedoppgaven til nettstedet. Samordnaopptak.no inneholder imidlertid en del informasjon og verktøy som er relevante i forkant av
-registrering av søknaden.
-På nettstedet finnes det oversikt over utdanningsinstitusjoner og studier som tilbys på hver
-enkelt institusjon kommende år. For hvert studium finnes det informasjon om antall studieplasser og poenggrenser fra året før. For mere
-informasjon om studiene henvises leseren imidlertid til studieinstitusjonenes egne nettsteder.
-
-IMDi har vært med å lage nettstedet og boken
-«Ny i Norge», som gir arbeidsinnvandrere og
-deres familiemedlemmer viktig informasjon om
-det norske samfunnet, med opplysninger fra
-offentlige etater om rettigheter og plikter, praktiske råd og tips. Informasjonen er oversatt til
-flere språk. Nettstedet nyinorge.no tilbyr informasjon til arbeidsinnvandrere om kvalifisering
-for deltakelse i arbeidslivet og/eller utdanning.
-Nettstedet tilbyr et bredt spekter av informasjon
-om rettigheter og plikter knyttet til arbeidsforhold, arbeidsmiljø, fagforeninger, skattepolitikk,
-levering av selvangivelse, pensjon og så videre.
-For å søke jobber henvises brukeren til nav.no.
-
-Selvhjelpsverktøy
-Karakterkalkulatoren på utdanning.no er utarbeidet gjennom et samarbeid mellom utdanning.no og samordna opptak. Kalkulatoren er tilgjengelig på begge nettsteder.
-Nettstedene til de fylkesvise karrieresentrene
-De fylkesvise karrieresentre er ulikt organisert
-og varierer når det gjelder tilbud, målgrupper og
-størrelse. Flere karrieresentre har egne nettsteder, andre har nettsider på fylkeskommunenes
-nettsted. For et karrieresenter er nettstedet et
-viktig verktøy for å informere om veiledningstimer, kurs og annet som tilbys på senteret.
-Eksempler på nettsteder tilknyttet fylkesvise
-karrieresentre er nettstedene karrierenordland.no for karrieresentrene i Nordland fylke, og
-hdkarriere.no for Hallingdal karrieresenter i Buskerud. På nettstedet kan personer som søker veiledning få informasjon om tilbudet på karrieresentrene, booke time til karriereveiledning eller
-få tips om hvor de skal henvende seg for spørsmål om karriereveiledning ut fra alder og livsfase.
-Universitets- og høgskolesektorens nettsteder
-Alle høyere utdanningsinstitusjoner i Norge har
-et nettsted med informasjon om studietilbudet
-på det enkelte universitet/høgskole. Nettstedene er en informasjonsplattform både for studentene ved universitetene og for de som
-ønsker å søke om opptak. På nettstedene finnes
-det blant annet informasjon om studietilbudet
-ved institusjonen, og ofte litt informasjon om hva
-man lærer på studiet og hvilke jobber man kan
-forvente å få etter gjennomføring.
-
-Kampanjenettsteder
-I noen deler av arbeidslivet er det for liten tilgang på personer med relevant utdanning og
-kompetanse. Derfor har myndigheter og andre
-aktører satt i gang rekrutteringskampanjer og
-tiltak for at flere skal velge utdanninger som
-leder fram til den etterspurte kompetansen.
-Rekrutteringskampanjer foregår i dag i stor
-grad på nett. Kampanjesidene retter seg spesielt
-mot personer som søker veiledning som skal ta
-utdanningsvalg, og inneholder informasjon om
-utdanning innenfor et spesifikt område og hvilke
-typer jobber utdanningen kan lede til. Noen av
-nettstedene presenterer intervjuer med studenter og yrkesutøvere som forteller om sin arbeidshverdag og grunnene til at de valgte faget. Eksempler på kampanjenettsteder er velgriktig.no
-(realfag), hardudetideg.no (skole) og verdensfinestestillingledig.no (barnehagelærere), verdensklasse.no (Olje og gass) og settsjobein.no
-(sjømatnæringen).
-Selvhjelpsverktøy
-Nettstedet velgriktig.no er etablert av Nasjonalt
-senter for realfagsrekruttering som tar sikte på
-å øke rekrutteringen til realfaglige utdanninger
-og yrker. På velgriktig.no kan man lese om hva
-realfag er, i tillegg til å få oversikt over realfagene i videregående opplæring og hva som kreves for å studere realfag og teknologi. På nettstedet finnes det også en yrkestest som skal inspirere til å velge naturvitenskapelige og teknologiske fag.
+Det nettbaserte informasjonstilbudet i USA skiller seg fra de fleste lignende tjenester i Europa ved at arbeidsmarkedsmyndighetene videreformidler forskningsdata om aspekter ved forskjellige yrker, og ved at de har et omfattende system for kompetanseframskriving for flere hundre forskjellige yrker neste tiår. I ettertid evaluerer U.S. Department of Labor kompetanseframskrivingene for å måle i hvilken grad de slår til, og på den måten stadig forbedre dataene. De legger også vekt på å formidle hvilke yrker det forventes særlig vekst i etterspørselen etter (yrker med såkalt «bright outlook»), samt «grønne yrker» som det ønskes økt rekruttering til. Mens det i Norge kun publiseres kompetanseframskrivinger for et førtitalls utdanningsgrupper,[^291] formidler USA tiårsprognoser for flere hundre yrker og formidler disse på offentlige nettsteder for å sikre informerte utdanningsvalg og at beslutningstakere har best tilgjengelig informasjon om fremtidige kompetansebehov.
+
+Skattefinansierte data i USA er uten bruks- og opphavsrettsbegrensninger (om vi ser bort fra data med begrensninger på grunn av sikkerhet eller personvern). Private og offentlige nettsteder står derfor fritt til å viderebruke data skapt av U.S. Department of Labor. Informasjonen presenteres på offentlige nettsteder (som Occupational Outlook Handbook og O\*Net Online) beregnet både for brukere, veiledere og offentligheten.
+
+*Labour Market Information for All*
+
+I England har myndighetene etablert det såkalte Labour Market Information for All (LMI for All).[^292] Dette går i hovedsak ut på at myndighetene finansierer innsamling og kvalitetssikring av data som private (eller offentlige) aktører kan benytte til å utvikle karriereveiledningstjenester på nett.
+
+I tilknytning til dette har myndighetene utviklet en kvalitetssikringsmekanisme gjennom en offentlig sertifiseringsordning for aktører som vil tilby nettbaserte karrieretjenester. England har en stor andel private aktører som kan benytte seg av LMI for All.[^293] LMI for All innebærer at det offentlige tilrettelegger for bruk av kvalitetssikret data, men at tilbyderne av ulike tjenester selv vurderer hvordan de vil bruke disse.
+
+LMI for All er i essens et «åpen tilgang til data-prosjekt», og skal støtte opp om britiske myndigheters ønske om bruk og gjenbruk av offentlige data. Gjennom dette er også ønsket at kreative utviklere på det private markedet vil benytte seg av dataene og lage gode og innovative karriereveiledningstjenester.
+
+LMI for All er etablert og finansiert av UK Commission for Employment and Skills. LMI for All er fortsatt under utvikling av et konsortium bestående av Institute of Employment Research ved the University of Warwick, samt Pontydysgu, Raycom and Rewired State.
+
+*Nordiske løsninger*
+
+På den danske UddannelsesGuiden kan man finne prognoser for fremtidige jobbmuligheter for 800 yrker, fordelt på fem regioner basert på data fra Danmarks Statistik, Undervisningsministeriets og Videnskabsministeriets databaser, samt beregninger fra Arbeiderbevegelsens Erhversråd og Epinion.
+
+Sverige tilbyr gjennom arbeidsmarkedsmyndighetene offentlig og åpen informasjon om mulig fremtidig utvikling på arbeidsmarkedet både nasjonalt og regionalt. Svenske arbeidsmarkedsmyndigheter presenterer gjennom nettstedet yrkeskompassen.se[^294] prognoser og framskrivinger for over 200 ulike yrker på kort sikt, men også på lang sikt (10 år). Tjenesten er rettet inn mot brukere på alle nivå, og er åpent tilgjengelig for alle. Slik presenterer Arbeidsmarkedsstyrelsen selv sin tjeneste:[^295]
+
+Yrkeskompassen informerar dig om möjligheten att hitta jobb inom olika yrken på upp till 10 års sikt. Vi beskriver i vilken riktning utvecklingen är på väg när det gäller chanserna att hitta ett jobb. Men du måste tänka på att prognoser inte är 100 procent tillförlitliga.
+
+Ett yrkes framtid kan styras av många olika saker som exempelvis konjunktur och politiska beslut. Ingen kan veta exakt hur konjunkturläget ser ut enskilda år i framtiden och det kan därför under vissa dåliga år vara svårt att snabbt hitta ett jobb inom i stort sett alla yrken.
+
+I Norge er det Statistisk sentralbyrå (SSB) som har hovedansvaret for å dekke behovet for statistikk om det norske samfunnet, herunder lønns- og arbeidsmarkedsstatistikk. Statistisk sentralbyrå (SSB) påpeker at:
+
+Både privatpersoner, næringsliv, myndigheter, medier, utdanningsinstitusjoner og forskere skal ha glede og nytte av norsk offisiell statistikk.[^296]
+
+SSB forvalter eller har tilgang til en rekke registre og datakilder som i fremtiden kan brukes for skape statistikk som kan gi veiledningssøkende bedre arbeidsmarkedsinformasjon. SSB har også begynt å legge til rette for at eksterne nettsteder lettere kan viderebruke SSBs statistikkpubliseringer gjennom data.ssb.no
+
+Data.norge.no er et register over åpne data i Norge, etablert av Direktoratet for IKT og forvaltning (Difi). Målet er at hele forvaltningen skal være med. På data.norge.no presiseres det at
+
+Åpne offentlige data er data fra offentlig sektor gjort tilgjengelige i et slikt format at de kan viderebrukes i nye sammenhenger. Data kan være alt fra enkle lister og tabeller i saksdokumenter og rapporter til avanserte databaser med informasjon fra flere av etatens datasystemer.[^297]
+
+Målet er å bidra til økt verdiskaping gjennom å gjøre det lettere å formidle åpne data for viderebruk i nye sammenhenger. Dette er også relevant for karrieretjenester.
+
+**Oppsummering**
+
+Dette delkapitlet har sett på hva man vet om effekter av nettbasert karriereveiledning, hvordan denne best bør innrettes og hvilke erfaringer og valg som er gjort i andre land.
+
+Tre hovedelementer ble identifisert som viktige i et godt nettbasert tilbud av forskerne bak rapporten *Get yourself connected.*[^298] **Disse tre (informasjon, selvhjelpsressurser og tilgang til direkte kommunikasjon) finnes også igjen i løsningene som er valgt i blant annet Skottland og Danmark.
+
+Både den skotske løsningen med et bredt informasjonsnettsted med en lang rekke selvhjelpsressurser, innloggingsløsning og en mulighet for å bli vist videre til ansikt-til-ansikt veiledning, og den danske med en omfattende e-veiledningstjeneste, har hatt betydning for utvalgets anbefalinger.
+
+Internasjonale sammenligninger og erfaringer vil alltid være viktige, men er spesielt viktige her fordi karriereveiledning på nett er et relativt nytt felt, og fordi det finnes lite forskning som kan påvise direkte årsakssammenhenger mellom karriereveiledning på nett og at folk kommer i utdanning og arbeid, og får en varig tilknytning til arbeidslivet. Det finnes likevel grunnlag for å si at god karriereveiledning generelt bidrar til bedre valg knyttet til utdanning og arbeid. Det er ingen grunn til å anta at dette ikke skulle gjelde for eksempel e-veiledning, som også vil kunne nå flere, gjennom lengre åpningstider og tilgang uavhengig av fysisk plassering.
+
+En integrert tilnærming, der brukerne kan veksle mellom ulike former for informasjonstilgang, egenaktivitet og veiledning, anser utvalget for å være en forutsetning for at tilbudet skal benyttes mye og for at effektene av veiledning dermed skal bli så store som mulig.
+
+Utvalget har i gjennomgangen av andre lands løsninger også sett på ulike måter å tilrettelegge for åpen tilgang til offentlige data, og også hvordan myndighetene tilrettelegger for at private aktører kan bruke data i sine tjenester. Dette er spesielt aktuelt i land med store markeder for karriereveiledningstjenester på nett. De fleste landene vi har sett nærmere på har i større eller mindre grad valgt å etablere offentlig finansierte og drevne informasjons- og veiledningstjenester på nett. Noen har også utviklet spesielle løsninger for datadeling, som for eksempel den engelske LMI for All.
+
+Som vi har sett i beskrivelsen, er det private markedet i Norge relativt begrenset. Dette anerkjenner også Hooley m.fl.. Norge har en relativt liten befolkning, slik at et etterspørselsbasert tilbud aldri vil bli veldig stort. I et slik begrenset marked er det naturlig å se for seg at særlig rollene for det offentlige som dreier seg om kvalitetssikring av markedet og å kompensere for markedssvikt ved å gå inn med offentlige tilbud, vil være svært omfattende. Videre vil rollen som omhandler å stimulere markedet innebære potensielt høye kostnader ettersom det norske markedet i dag er lite.
+
+Dette indikerer at rollen for det offentlige i en norsk kontekst uansett vil være relativt stor. Å tilrettelegge for åpen tilgang til offentlige data kan også være et supplement til en offentlig eid og drevet karriereveiledningstjeneste. Det er også mulig å se for seg en kombinert løsning der et offentlig nettsted tilrettelegger for at andre skal kunne benytte data derfra.
+
+Neste kapittel vil komme inn på erfaringer og kunnskapsgrunnlag knyttet til nettbasert karriereveiledning i Norge.
+
+1.  **Analyser og piloter – Norge**
+
+Karriereveiledning på nett har vært aktualisert i Norge i flere sammenhenger de senere årene. Senter for IKT i utdanningen har siden 2010 gjennomført piloter og fått utarbeidet flere rapporter for å skaffe erfaring og gjøre en vurdering av mulighetene for å utvikle et e-veiledningstilbud i tilknytning til utdanning.no. Nasjonal koordineringsgruppe for karriereveiledning[^299] initierte i 2013 en prosess knyttet til å få utredet et helhetlig karriereveiledningstilbud på nett som resulterte i en samfunnsøkonomisk analyse. I det følgende presenteres hovedfunn fra disse prosessene.
+
+**Et helhetlig karriereveiledningstilbud på nett – en samfunnsøkonomisk analyse**
+
+Den samfunnsøkonomiske analysen av et helhetlig karriereveiledningstilbud på nett ble gjennomført av Analyse og Strategi på oppdrag fra Nasjonal koordineringsgruppe for karriereveiledning og Vox.[^300] I rapporten ble et helhetlig tilbud forstått som både å innebære en større grad av samordning mellom aktørene på området, og en utvidelse av tilbudet. Rapporten består, i tillegg til selve den samfunnsøkonomiske analysen, av en gjennomgang av tilbudet av nettsteder med karriererelevant innhold, en redegjørelse for ansvarsfordeling for offentlig karriereveiledningstjenester, samt informasjon om tilbudet i Danmark, Sverige, Finland, Scotland og New Zealand.
+
+Modeller for samordning
+
+Det eksisterer som vist tidligere en rekke nettsteder som er relevante for å vurdere befolkningens tilgang til karriereveiledningstjenester på nett. Men det er stor variasjon i hvor stor grad nettstedene kan sies å ha et formål og innhold som kan knyttes direkte an til karriereveiledning. Det varierer også hvor stor del av befolkningen nettstedet retter seg mot.
+
+Seks nettsteder ble av Analyse og Strategi vurdert å være de mest sentrale innenfor dagens offentlige tilbud av karriereveiledning på nett og ble inkludert i den samfunnsøkonomiske analysen. Disse var: utdanning.no, vilbli.no, nav.no, ung.no, samordaopptak.no og nokut.no. Det var også disse nettstedene som ble foreslått inkludert i et mer helhetlig tilbud.
+
+Det ble utarbeidet tre ulike modeller for et helhetlig karriereveiledningstilbud på nett, i tillegg til et basisalternativ (se figur 7.2).[^301] I utformingen av de tre modellene ble det lagt til grunn at det eksisterer et behov for å etablere ett offentlig nettsted for karriereveiledning, som også inkluderer e-veiledning. Alle modellene baserte seg på den eksisterende strukturen i utdanning.no.[^302]
+
+Det er ulikt ambisjonsnivå knyttet til koordinering av de eksisterende nettstedene i de tre modellene. «Koordinering» innebærer i denne rapporten å trekke ut de aktivitetene som dreier seg om karriereveiledning og å overføre utvikling, drift og vedlikehold av disse aktivitetene til det nye nettstedet. Men i noen tilfeller kan koordinering også dreie seg om å trekke opp grenseflater for hvor ansvaret for produksjon av spesifikke tjenester skal ligge. Det er med andre ord ikke snakk om å fusjonere eller slå sammen nettjenester. De andre tjenestene/nettstedene består, men de delene av innholdet som lettere og eventuelt bedre kan utvikles og leveres via et nytt nettsted, overføres dit.
+
+Rapporten peker på tre modeller som innebærer ulik grad av koordinering og samordning mellom offentlige nettilbud som har elementer av karriereveiledning. Alle modellene har utdanning.no som utgangspunkt når man skal flytte oppgaver til ett sted. Den minste modellen innebærer samling og koordinering av veiledningsaktiviteter på nett på Kunnskapsdepartementets område, og inkluderer elementer fra for eksempel samordna opptak og NOKUT sine nettsteder. Neste trinn involverer også flytting av elementer fra nettsteder på arbeidsmarkeds- og integreringsfeltet, som nav.no og ung.no. Den største modellen, som også anbefales, inkluderer flytting av oppgaver fra vilbli.no som er et fylkeskommunalt ansvar, og forvaltningsmessig mer komplisert.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Analyse og Strategis tre modeller for samordning
+
+Den mørke fargen indikerer i hvor stor grad innholdet på nettstedet kan sies å være karriereveiledningsrelevant i dag. Det er den delen av innholdet som kan overføres til et nytt nettsted. Hentet fra Analyse og Strategi (2014): Samfunnsøkonomisk analyse av et helhetlig karriereveiledningstilbud på nett, side 8.
+
+Hovedfunn
+
+Den samfunnsøkonomiske analysen ser på nyttevirkningene,[^303] samt de viktigste kostnadsvirkningene av de tre modellalternativene. Noen av de sentrale effektene av økt samordning er, ifølge denne analysen:[^304]
+
+- Enklere tilgjengelighet for veiledningstrengende til karriereveiledning.
+
+- Større brukervennlighet og enklere navigering i de nettbaserte tilbud som finnes.
+
+- Et bredere tjenestetilbud, slik at tilbudet treffer flere målgrupper og behov.
+
+- Høyere kvalitet på tjenestene.
+
+- Bedre innbyrdes sammenheng og konsistens i de tilbud brukerne presenteres for.
+
+- Økt styrbarhet på området karriereveiledning på nett.
+
+Det vil naturligvis også være kostnader knyttet til en etablering av et større nettsted, og disse kostnadene må vurderes opp mot nyttevirkningene. Man kan ifølge Analyse og Strategi forvente
+
+- Endringer i lønnskostnader knyttet til datainnsamling og redaksjonell tilrettelegging.
+
+- Utviklingskostnader/investeringer i nytt nettsted og tilrettelegging for bedre dataflyt.
+
+- Etableringskostnader for etablering av nye tjenester og nytt, utvidet innhold.
+
+- Endrede drifts- og vedlikeholdskostnader for nettsted og tjenester.
+
+- Gjennomføringskostnader.
+
+Analyse og Strategi har gjennom sin analyse av tilstanden når det gjelder det nasjonale offentlige karriereveiledningstilbudet på nett sett at det er noen utfordringer knyttet til mangelen på samordning, og peker på at *«Det overlappende tjenestetilbudet innen karriereveiledning på nett i dag, peker i retning av at det er behov for en tettere koordinering for å sikre en god ressursutnyttelse»*.[^305]
+
+Basert på en vurdering av både nytte- og kostnadsvirkninger er Analyse og Strategi sin konklusjon at det samfunnsøkonomisk mest lønnsomme alternativet vil være å i større grad samle alle dagens store karriereveiledningstjenester på nett i ett, helhetlig tilbud.
+
+**Analyser og piloter knyttet til utdanning.no – spesielt om e-veiledning**
+
+Senter for IKT i utdanningen v/ utdanning.no har siden 2010 jobbet med spørsmål knyttet til etablering av en «nettbasert personlig veilednings- og rådgivningstjeneste for utdanningsvalg og yrkesveiledning» som skal styrke og supplere eksisterende rådgivnings- og karriereveiledningstjenester. Senteret har i denne perioden gjennomført flere piloter og fått utarbeidet evalueringer og rapporter:
+
+- Nasjonal fokusgruppeundersøkelse om behovet for nettbasert utdanningsinformasjon (Rambøll 2010)
+
+- Personlig karriereveiledning på nett? Kartlegging og analyse av status og muligheter for etablering av en felles nettbasert veiledningstjeneste (Lødding og Tømte, 2011)
+
+- Evaluering av Brukerforum utdanning.no (Ipsos MMI 2012)
+
+- Evaluering av prosjekt nettbasert karriereveiledning (Ipsos MMI 2013)
+
+- Samfunnsøkonomisk analyse av karriereveiledning på nett (Analyse og Strategi 2013)
+
+- Nasjonal kartlegging av unges utdannings- og yrkesvalg (Opinion Perduco 2013)
+
+I det følgende omtales funnene i noen av disse, og spesielt den samfunnsøkonomiske analysen av karriereveiledning på nett utført av Analyse og Strategi.
+
+Om behovet for nettbasert veiledning
+
+Rambøl undersøkte behovet for nettbasert utdanningsinformasjon. Et av deres funn er at rådgivning primært bør foregå ansikt-til-ansikt mellom elev og rådgiver. Men fordi rådgivere på skolen ikke alltid er tilgjengelige for personlig veiledning ansikt-til-ansikt, bør det være mulig å få personlig veiledning av høy kvalitet også i andre kanaler. Å komme i kontakt med rådgivere på et nettsted for utdanning var ønskelig, respondentene kunne tenke seg flere kanaler, både e-post, telefon og chat.[^306]
+
+I følge Lødding og Tømte vil en personlig nettbasert veiledningstjeneste om utdanning og karriere kunne fungere som et nyttig tillegg til rådgivningstjenesten slik den i dag eksisterer for unge og voksne.[^307] Sentrale spørsmål for utviklingen av en slik tjeneste er hvilke tilbud en slik tjeneste skal ha og hvem brukerne skal være – og at tjenesten må utformes etter behovene til den gruppen man ønsker å nå.
+
+Piloter og evalueringer av e-veiledning
+
+En prepilot knyttet til nettveiledning kalt «Brukerforum utdanning.no» ble gjennomført av Senter for IKT i utdanningen i 2012. Evalueringen av piloten konkluderte med at det er et marked for rådgivningstjenester på nett.[^308] Dette ble i 2013 fulgt opp med en mer omfattende pilot med chatbasert e-veiledning som Senter for IKT i utdanningen utførte sammen med Troms fylkeskommune. Denne ble også ble evaluert.
+
+Evalueringen av piloten viste at både brukerne og rådgiverne var positive til e-veiledning.[^309] Veiledningstjenester på nett er blant de som ble spurt mer populært enn personlig kontakt med veileder. Nettveiledning ble opplevd som tilgjengelig, og brukerne fikk raskt gode svar på spørsmål om utdannings- og yrkesvalg. Flere trakk fram at chat-tjenesten bidro til en større grad av refleksjon rundt egne utdannings- og yrkesvalg. Også veilederne som deltok opplevde dette slik. Veilederne pekte også på at nettveiledning senket de utdanningssøkende sin terskel for å ta kontakt, og bidro til å viske ut geografiske skiller i rådgivnings- og veiledningstilbudet. Veilederne gav uttrykk for at det er krevende å være nettveiledere. God kompetanse på fag, data og kommunikasjon er en forutsetning. Videre er god opplæring og oppfølging underveis, samt tett samarbeid med andre veiledere kritiske faktorer for at veilederne skal lykkes i sitt arbeid.
+
+Samfunnsøkonomisk analyse av e-veiledning
+
+Analyse og Strategi gjennomførte på oppdrag fra Senter for IKT i utdanningen i 2013 en samfunnsøkonomisk analyse knyttet til det å etablere og drifte en nasjonal e-veiledningstjeneste.[^310]
+
+Målgruppen for tjenesten, og dermed grunnlaget for analysen, var i undersøkelsen satt til å være elever fra tiende trinn på grunnskolen til studenter i høyere utdanning, frafallselever (også voksne), i tillegg til personer med fullført videregående opplæring som er i arbeid eller har tatt pause fra utdanningsløpet. Tjenesten de undersøkte skulle omfatte e-veiledning knyttet til utdanningsvalg og karrierevalg som har sammenheng med utdanningsvalg, ikke karriereskifte og annen karriereveiledning.
+
+Analysen baserte seg på et premiss om at en e-veiledningstjeneste på nett vil ha en direkte og en indirekte effekt på *redusert feilvalg og frafall* i grunnopplæringen og høyere utdanning. I tillegg vil tjenesten gi enklere tilgang til informasjon og veiledning om muligheter for de som er tidligere frafallselever og vil tilbake, og for de som har tatt en pause fra utdanningsløpet.
+
+Dersom man legger en analyseperiode på 20 år til grunn, vil samfunnskostnadene for frafall i denne perioden beløpe seg til totalt 220 mrd. 2013 kroner.[^311] Når omkostningene for samfunnet knyttet til frafall og feilvalg er høy, skal det ifølge analysen en relativt liten endring i antall frafallselever til før en e-veiledningstjeneste kan være lønnsom
+
+Det ble i analysen også gjort en antagelse om at e-veiledning vil gi enklere tilgang til og økt kvalitet på det samlede veiledningstilbudet. Dette vil også kunne føre til redusert feilvalg, omvalg og frafall. Redusert frafall blir i analysen sett på som et hovedmål for tjenesten. To underordnede mål er at etablering av en slik tjeneste støtter opp om Regjeringens digitaliseringsprogram[^312] og at den også kan bidra til økt kvalitet i den øvrige rådgivningen i skolen.
+
+Rapporten beregner altså samfunnsøkonomisk lønnsomhet i forhold til reduserte kostnader knyttet til feilvalg, omvalg og frafall i utdanning. Analyse og Strategi påpeker at dette er en til dels usikker måte å beregne lønnsomhet på, da det er mange faktorer som kan påvirke frafall. Med det forbeholdet gitt, er hovedkonklusjonen i analysen at etablering av en e-veiledningstjeneste er samfunnsøkonomisk lønnsom – dersom det er slik at informasjon, rådgivning og veiledning er et virksomt virkemiddel for å redusere feilvalg og frafall.
+
+I sin rapport beskriver og beregner Analyse og Strategi tre alternative såkalte *tiltak* for dimensjonering av en e-veiledningstjeneste.[^313] Forskjellen på de tre alternativene er hovedsakelig knyttet til antall veiledere som jobber i tjenesten, og om veilederkorpset er lokalisert i Tromsø eller også desentralisert i fylkene. Alternativ *liten* har 10 årsverk tilknyttet utdanning.no, alle lokalisert i Tromsø. Alternativ *middels* har 25 årsverk. Dette inkluderer veiledere med tilknytning til skolen, NAV, universitets- og høyskolesektoren eller karrieresentre lokalisert i fire regioner. Alternativ *stor* har totalt 35 årsverk, også med en hovedbase i utdanning.no, men med veiledere med tilknytning til skolen, NAV, universitets- og høyskolesektoren og fylkesvise karrieresentre i alle 19 fylker.
+
+Tiltak 2 og 3 forutsetter at e-veilederne er delvis ansatt på sin arbeidsplass der de jobber med ansikt-til-ansikt veiledning, og delvis ansatt i nettveiledningstjenesten. Dette er basert på erfaringer fra eVejledningstjenesten i Danmark. Tjenestetilbudet og åpningstidene er de samme i all tre modeller.
+
+Rapportens konklusjon er at den største tjenesten har størst samfunnsøkonomisk effekt fordi den potensielt reduserer frafall mest, fordi den når ut til flere.
+
+Nyttevirkninger
+
+Det er flere nyttevirkninger som inngår i å forklare *hvorfor* og *hvor mye* etablering av en nettveiledningstjeneste fører til redusert frafall og feilvalg, og dermed er samfunnsøkonomisk lønnsomt. Analyse og Strategi fremhever tre faktorer:
+
+*Økt kvalitet* i veiledningen, både gjennom kompetanseheving og utvikling i nettverket av rådgivere, og fordi e-veiledning kan frigjøre tid og ressurser i det tradisjonelle rådgivnings- og veiledningsapparatet. Arbeidsdeling og samarbeid i tilbudet vil være vesentlig.
+
+*Tilgjengeligheten øker.* Tjenesten vil være tilgjengelig uavhengig av hvor folk befinner seg og i større grad være åpent utenfor ordinær arbeidstid.
+
+*Promotering av andre tjenester.* E-veiledningstjenesten kan vise en veiledningssøkende videre til andre tjenester dersom e-veiledning ikke er rett instans, og vil dermed bidra til at personer lettere finner fram «i systemet».
+
+En reduksjon av det fysiske veiledningstilbudet som følge av etablering av en e-veiledningstjeneste er altså *ikke* lagt inn som nyttevirkning i Analyse og Strategis analyse. Dette fordi man antar at e-veiledningstilbudet vil frigjøre tid for andre brukere i det eksisterende tilbudet, men at dette likevel vil fylles opp av de som har behov som ikke kan dekkes gjennom e-veiledning. Dette er i tråd med erfaringer fra Danmark.
+
+De økonomiske nyttevirkningene av å etablere en e-veiledningstjeneste er beregnet i forhold til redusert feilvalg og frafall. Analyse og Strategi har beregnet besparelsene i et intervall fra 0,2 prosent reduksjon til 2,0 prosent reduksjon i feilvalg og frafall både for videregående opplæring og høyere utdanning. Beregningene viser for eksempel at en reduksjon i frafallet i videregående opplæring på 0,2 prosent per år ville gitt en besparelse på totalt 321 millioner 2013-kroner for en periode på 20 år.
+
+Et premiss for beregningene er at det er en kausal sammenheng mellom *antall brukere* av en e-veiledningstjeneste og frafall/feilvalg. Dersom denne hypotesen stemmer, mener Analyse og Strategi det vil være rimelig å anta at en større e-veiledningstjeneste vil nå flere brukere og derfor vil redusere frafallet mer enn en liten tjeneste.
+
+**Behov og interesse for karriereveiledningstilbud på nett**
+
+Det er ikke gjennomført noen omfattende undersøkelser i Norge av befolkningens behov og interesse for et bedre karriereveiledningstilbud på nett. Det som er av kunnskap kan finnes i undersøkelser gjennomført av Vox og Senter for IKT i utdanningen. Disse undersøkelsene fokuserer primært på karriereveiledning gjennom individuell kommunikasjon med en veileder (for eksempel e-veiledning), samt noe om etterspørsel etter informasjon.
+
+Når det gjelder behov og interesse for karriereveiledning *generelt*, finnes det kunnskap om dette fra flere befolkningsundersøkelser gjennomført av Vox.[^314] I den siste befolkningsundersøkelsen kommer det frem at én av fire voksne (24 prosent) rapporterer at de har behov for karriereveiledning. 34 prosent sier de er interessert i å benytte seg av karriereveiledning. Karriereveiledning er etterspurt blant personer som befinner seg i en overgangsfase, 45 prosent av disse oppgir at de har behov for karriereveiledning.[^315]
+
+Undersøkelsen indikerer videre at tilgjengelighet til karriereveiledningstilbudet er viktig for folk. Både kort avstand, åpningstider utover arbeidstid, kort ventetid og tilgjengelighet på telefon og e-post er viktig for den eventuelle bruken av karriereveiledningstjenester.[^316]
+
+Befolkningsundersøkelsen har også sett på hvordan personer foretrekker å gjennomføre en eventuell veiledning. 85 prosent av respondentene ville foretrekke å møte en karriereveileder ansikt-til-ansikt. 47 prosent ville ønsket å delta i veiledningen per e-post og 44 prosent over telefon. 22 prosent ville ønsket veiledning via chat. I en kvalitativ del av undersøkelsen svarte de fleste at de ville foretrukket å møte fram hos en veileder, men var åpne for å ta det på telefon eller e-post dersom det dreide seg om en enkel og konkret henvendelse.
+
+Når personer som har hatt en ansikt-til-ansikt veiledning ble spurt hvordan de foretrekker å gjennomføre veiledning, svarte også flest at de foretrekker å møte fram hos en veileder, men de kunne se for seg å ta enkle og konkrete spørsmål på telefon eller e-post.
+
+Her må vi ta med i betraktningen at de som har svart i mange tilfeller ikke har prøvd veiledning på andre måter enn gjennom et fysisk møte med en veileder. Få vil derfor kjenne til hvordan en veiledning for eksempel via chat kan foregå. I en evaluering av pilotprosjektet «Nettbasert karriereveiledning» ble en gruppe personer som *hadde* mottatt veiledning via chat spurt hvordan de opplevde tilbudet.[^317] Av de rundt 100 personene som svarte, var åtte av ti ganske eller meget fornøyd med tilbudet. Ni av ti ville anbefalt tjenesten til andre. Av disse som nettopp hadde benyttet et karriereveiledningstilbud på nett, sa 55 prosent at de foretrekker å få svar på spørsmål om utdannings- og yrkesvalg på e-post eller chat. 36 prosent ville heller foretrekke et møte med en veileder. Begrunnelser for hvorfor de ville foretrekke et nettbasert tilbud, var blant annet at en slik tjeneste åpnet for en mer spontan bruk, at den var tilgjengelig når brukerne trengte den og at man opplevde at terskelen for å oppsøke veiledning var lavere.
+
+Senter for IKT i utdanningen gjennomfører jevnlig kartlegginger om unges utdannings- og yrkesvalg. I en undersøkelse fra 2013 oppgir de unge at internett er viktigste informasjonskanal for valg av utdanning og for informasjon om yrker og karriere. I undersøkelsen blir det også spurt om nettveiledning. Over halvparten sier det er sannsynlig at de ville brukt et tilbud om karriereveiledning på nett.[^318]
+
+Disse undersøkelsene kan tyde på at behov og interesse for karriereveiledningstjenester på nett øker når man har hatt muligheten til å prøve hva det er. I tillegg kan det illustrere at et fysisk og et nettbasert tilbud kan appellere til ulike type brukere, og at hvilken type tjeneste de foretrekker kan være avhengig av situasjon og type spørsmål. Det synliggjør betydningen av at et helhetlig karriereveiledningstilbud må være tilgjengelig både fysisk og på nett.
+
+Når det gjelder informasjonstilgangen på nett er det gjort noen undersøkelser som ser på hvilke typer informasjon det er behov for.
+
+Damvad foretok i 2015 en gjennomgang av virkemidler som påvirker utdanningsvalg. En av tre hovedobservasjoner var at *«kommende og eksisterende elever og studenter søker bedre, mer, samlet og nøytral informasjon om utdanning og arbeidsmarked, i et landskap som oppleves stadig mer uoversiktlig. En slik trend er allerede erkjent av danske myndigheter, som prioriterer veiledning over fagspesifikke kampanjer.»*[^319]
+
+Damvad presiserer at det er et stort behov for bedre arbeidsmarkedsinformasjon, men også mer informasjon om utdanning.
+
+Med et stort mangfold av utdanningstilbud er det sannsynligvis urealistisk å forvente at alle sitter på full informasjon. Det vil dermed være en god investering å sørge for best mulig informasjon før valget foretas. Et betydelig frafall i enkelte utdanninger kan også tyde på at de studerende på forhånd ikke har tilstrekkelig kunnskap om hva utdanningen de påbegynner innebærer. Bedre kunnskap i forkant av valg kan dermed i teorien både øke sannsynligheten for rasjonelle utdanningsvalg i tråd med personlige preferanser og samfunnets behov og redusere feilvalg. Dersom det med stor sannsynlighet vil være en mangel på enkelte yrkesgrupper, kan myndighetene begrunne målrettede tiltak med at samfunnets ressurser utnyttes mer effektivt dersom forsinkelser i tilpasning mellom tilbud og etterspørsel reduseres. Og enkelte yrkesgrupper eller kompetanseområder vil oppleve en mangel på kvalifisert arbeidskraft, selv om omfanget og innretningen på disse yrkesgruppene er usikkert. Organisasjonen for økonomisk samarbeid og utvikling (OECD) argumenterer i rapporten «Skills Strategy Action Report Norway» for at norske studenters utdanningsvalg i for liten grad samsvarer med samfunnets behov.[^320]
+
+For unge mellom 15 og 25 år viser en undersøkelse Opinion Perduco gjennomførte i 2013 for Senter for IKT i utdanningen at de viktigste faktorene for valg av utdanning og yrke er mulighet for å få jobb, arbeidsoppgaver i jobben, lønn, opptakskrav til utdanningen, vurdering av utdanningen, og informasjon om mulighet for å få lærlingeplass.[^321]
+
+Tilpasset informasjon om utdanning, arbeid og arbeidsliv er en viktig faktor når folk står foran valg knyttet til utdanning og arbeid. Det gjelder både skoleelevers behov for informasjon om for eksempel første jobb eller lærlingeplass, og voksnes behov for informasjon dersom de av ulike årsaker må foreta et karriereskifte.
+
+Kvalitativt gode og relevante kompetanseframskrivninger vil kunne gi informasjon som er viktig i en slik valgsituasjon. Slike framskrivninger er også nyttige for at veiledere skal kunne gi god veiledning rundt karriere, jobb og arbeid. Kunnskapsdepartementet har initiert et prosjekt for bedre utvikling og bruk av kompetanseframskrivninger som involverer flere andre departementer og SSB.
+
+Kunnskapsdepartementet har saman med Arbeidsdepartementet, Helse- og omsorgsdepartementet og Nærings- og handelsdepartementet inngått ein avtale med SSB om utvikling av modellar for framskriving av tilbod og etterspurnad etter arbeidskraft og kompetanse.[^322]
+
+Et offentlig nettsted for karriereveiledning kan være en hovedkanal for formidling av kompetanseframskrivninger til befolkningen og veiledere.
+
+1.  **Utvalgets anbefalinger**
+
+Karriereveiledning har betydning for flere store samfunnsmessige utfordringer så som utenforskap, frafall i både videregående opplæring og høyere utdanning, integrering og inkludering, befolkningens fleksibilitet og omstillingsberedskap, manglende match mellom etterspurt og tilbudt kompetanse og behov for livslang læring. Et utvidet karriereveiledningstilbud på nett vil være et viktig bidrag til et mer helhetlig karriereveiledningstilbud for befolkningen i Norge og gjennom det være et viktig bidrag til å løse disse krevende utfordringene. Teknologi gjør det mulig å utvikle nyttige og brukervennlige digitale tilbud og tjenester, denne muligheten er, slik det er i dag, ikke tilstrekkelig utnyttet når det gjelder karriereveiledningsområdet.
+
+Både det fysiske og det nettbaserte karriereveiledningstilbudet i Norge kan oppleves som fragmentert og for lite tilgjengelig.
+
+Utvalget ser det som en svakhet at Norge per i dag ikke har et helhetlig offentlig nettbasert karriereveiledningstilbud. Noen offentlige nettsteder, med utdanning.no og vilbli.no som de viktigste, dekker behovet for informasjon om utdanningsmuligheter. NAV har et omfattende nettsted som retter seg mot hele befolkningen i ulike livssituasjoner og situasjonen på arbeidsmarkedet. Dette inkluderer informasjons- og selvbetjeningstjenester blant annet rettet mot mulighetene for arbeid. De fleste eksisterende nettstedene har mest vekt på informasjon og da først og fremst rettet mot ungdom og knyttet til utdanningsvalg, eller de er innsøkingsportaler til ulike utdanningsnivåer.[^323] De eksisterende nettressursene dekker ikke alle målgruppers behov. Innholdstyper og tjenester mangler. Tilbudet kan oppleves som fragmentert og uoversiktlig for brukerne. Det er lite samordning av eksisterende offentlige nettsteder med elementer av karriereveiledning. Det offentlige bruker derfor ressurser på overlappende tjenester.
+
+En gjennomgang av internasjonal forskning på effekter av karriereveiledning på nett viser at foreløpig er forskning og kunnskapsgrunnlag knyttet til dette begrenset.[^324] Det har sammenheng med at dette er et forholdsvis nytt område. Det er allikevel slik at flere og flere land velger å stimulere til eller finansiere utviklingen av et mer omfattende nettbasert karriereveiledningstilbud, fordi man ser dette som et virkemiddel for å nå kompetansepolitiske mål.
+
+Utvalget mener at et offentlig finansiert karriereveiledningstilbud på nett kan bidra til å:
+
+- *Sikre et likeverdig tilbud*. Gitt at personer har tilgang til, og evner å bruke nettbaserte tjenester, kan alle uavhengig av alder, livssituasjon og geografi ta i bruk tilbudene.
+
+- *Økt tilgang til karriereveiledning.* Alle som ønsker det kan ta i bruk tjenestene, uavhengig av geografiske hindringer som avstand til et fysisk veiledningstilbud. Personer som ellers ikke vil bruke et fysisk tilbud, får tilgang til tjenester som kan passe deres ønsker og behov.
+
+- *Mer effektiv ressursutnyttelse.* Dette forutsetter at offentlige aktører som i dag bruker ressurser på å utvikle innhold knyttet til karriereveiledning, overlater dette til en nasjonal nettjeneste. Nettbaserte tilbud kan frigjøre ressurser til ansikt-til-ansikt veiledning.
+
+- *Tilgang til kvalitetssikret informasjon:* Nettbasert karriereveiledning kan formidle kvalitetssikret, relevant og konsistent informasjon til befolkningen. Tydelige koblinger (lenking) til andre relevante informasjonsnettsteder kan sikre at brukeren lett finner fram til riktig informasjon.
+
+- *Mer reflekterte og kunnskapsbaserte utdannings- og karrierevalg.* Tilgang til karriereveiledningstjenester på nett kan bidra til at personer tar valg og håndterer overgangsfaser på en bedre måte. Personer som ellers ikke ville oppsøke veiledning, kan velge å ta i bruk nettbaserte tjenester.
+
+- *At folk blir mer selvhjulpne.* Brukerne får enkel og mer tilgjengelig tilgang til kvalitetssikret informasjon, de kan benytte selvhjelpsverktøy for selv å orientere seg om ønsker og muligheter, og de kan kommunisere med en profesjonell veileder.
+
+- *Økt kvalitet i det øvrige karriereveiledningstilbudet.* Karriereveiledere kan bruke de kvalitetssikrede nettjenestene inn i veiledning og opplæring. Veiledere og opplæringstilbydere i de ulike sektorene kan også konsultere e-veilederne som vil ha stor oversikt og mye spesifikk kompetanse.
+
+- *Økt kvalitet og relevans i grunnopplæringen*, for eksempel i faget utdanningsvalg, prosjekt til fordypning og arbeidslivsfaget.
+
+- *Utnytte mulighetene digital teknologi gir:* Digital teknologi åpner for å utvikle nye former for karriereveiledning som når flere til en mindre kostnad.
+
+Et nettbasert karriereveiledningstilbud kan utformes på flere måter, som beskrevet i gjennomgangen av internasjonale erfaringer i kapittel 7.3.1. Utvalget vil i det videre komme med sin anbefaling for modell for et karriereveiledningstilbud på nett i Norge (Figur 7.3 ), og beskriver også hvordan et nettbasert karriereveiledningstilbud kan være en integrert del av et helhetlig tilbud (Figur 7.4 ). Utvalget anbefaler å utvikle et nasjonalt karrierenettsted og etablere en e-veiledningstjeneste tilgjengelig for alle (anbefalingene omtales i detalj under).
+
+Tidligere ble noen sentrale begreper for den videre beskrivelsen av et nettbasert karriereveiledningstilbud definert. Vi gjentar disse her:
+
+*Nettsted med portalfunksjon og e-veiledningstjeneste* brukes for å beskrive løsningen utvalget anbefaler for et helhetlig karriereveiledningstilbud på nett. Dette fordrer noen begrepsavklaringer: *En nettside* er et enkelt dokument på et nettsted som kan vises i en nettleser. Det kan bestå av tekst, bildefiler, lydfiler, videoer osv. *Et nettsted* er en betegnelse for alle nettsidene under et domene på internett. Ordet *portal* kan brukes for å beskrive nettsteder som syndikerer innhold fra andre organisasjoner og har som mål å være en mellomstasjon for å hjelpe brukerne til å finne fram til det de leter etter på andre nettsteder. Begrepet *nettsted med portalfunksjon* er et nettsted som både har (store mengder) eget innhold og samtidig lenker brukeren videre til andre nettsteder. Samtidig kan dette fremstå som et litt kunstig skille. Utvalget vil i denne rapporten bruke begrepet *nettsted* i betydningen *nettsted med portalfunksjon*.
+
+*E-veiledning* er et begrep som her benyttes for å beskrive veiledning som foregår via telefon, chat, e-post, sms eller andre plattformer, men ikke ansikt-til-ansikt. Veiledningen foregår i tilknytning til et nettsted. Dette er i tråd med hvordan begrepet brukes for eksempel i Danmark.
+
+Utvalget legger til grunn noen premisser for anbefalingen om et nettbasert karriereveiledningstilbud. Gjennom premissene formuleres en del faktorer utvalget mener er helt sentrale for å lykkes med å utvikle et nettbasert karriereveiledningstilbud som vil tjene sin hensikt i Norge. Under beskriver utvalget premisser for sin anbefaling av et helhetlig karriereveiledningstilbud på nett.
+
+1.  **Premisser for et nettbasert karriereveiledningstilbud i Norge**
+
+Overordnet
+
+Et nettbasert karriereveiledningstilbud i form av et nettsted og en e-veiledningstjeneste er virkemidler for å nå utdannings- og kompetansepolitiske mål som å sikre at befolkningen kan ta informerte og reflekterte valg, redusere frafall, hindre og redusere utenforskap, sikre mer fleksible overganger, bidra til bedre samsvar mellom samfunnets kompetansebehov og befolkningens utdannings- og karrierevalg. Nettstedet og e-veiledningstjenesten gir befolkningen enkel tilgang til kvalitetssikret informasjon, relevant selvhjelp og profesjonell veiledning på nett slik at de bedre kan håndtere utfordringer knyttet til overgangsfaser i utdanning og arbeidsliv. Tilbudet er en del av et helhetlig karriereveiledningstilbud som skal fremme aktiv tilknytning til arbeids- og samfunnsliv. Tjenestene understøtter regjeringens IKT-politikk som tar sikte på å fornye, forenkle og forbedre offentlig sektor gjennom bruk av informasjons- og kommunikasjonsteknologi.
+
+Del av en helhet
+
+Nettstedet og e-veiledningstjenesten er en integrert del av et helhetlig system for livslang karriereveiledning og utvikles og driftes i samspill med de andre veiledningstjenestene. E-veiledningstjenesten skal være en integrert del av det fysiske tilbudet om karriereveiledning og vil ha best effekt i samspill med dette. Brukere finner veien til e-veiledningstjenesten via nettstedet. Nettstedet har som ambisjon å samle eksisterende informasjon, samt å komplettere dette med ny informasjon. Nettstedet ivaretar et «en-dør-inn» prinsipp: det skal være det naturlige nettstedet å oppsøke når man har behov for informasjon og veiledning i forbindelse med utdanningsvalg og karriereutvikling. Nettstedet tar i bruk data som gjøres tilgjengelig fra andre offentlige etater. For å bidra til bedre kvalitet på annen utdannings- og karriereinformasjon, legger nettstedet til rette for videre datautveksling.
+
+Målgrupper
+
+Nettstedet og e-veiledningstjenesten er for hele befolkningen. E-veilederne har derfor kompetanse til å veilede alle målgrupper. Innholdet presenteres på en brukervennlig måte som er pedagogisk tilrettelagt for de ulike målgruppene. Nettstedet følger prinsippene for universell utforming og gjøres tilgjengelig på relevante språk.
+
+Innhold
+
+Nettstedet gir enkel og effektiv tilgang til et mangfold av relevante karriereveiledningstjenester som er tilpasset brukere som skal ta valg om utdanning og arbeid. Nettstedet har både egenprodusert innhold og er en inngangsport for å finne frem til andre relevante nettsteder, andre informasjonskilder og relevante fysiske tilbud og tjenester.
+
+Nettstedet bør (minimum) ha tre innholdskomponenter:
+
+- Informasjon
+
+- Selvhjelpsressurser
+
+- E-veiledning
+
+Nettstedets innhold er tilpasset flere kanaler og bruker den til enhver tid relevante teknologi for å formidle sitt innhold.
+
+Brukernes behov og brukervennlighet, er styrende for innholdet. For å utvikle den informasjonen og de tjenestene brukerne har behov for, forutsettes det et utstrakt samarbeid med en rekke aktører om informasjon, datautveksling, samt samarbeid om kvalitetssikringsrutiner og oppdateringer. Det utvikles også kompletterende eller ny informasjon og tjenester. For å bidra til bedre kvalitet på annen utdannings- og karriereinformasjon, legger nettstedet til rette for videre utveksling av søk og informasjon til andre nettsteder.
+
+Prinsippene om universell utforming, og andre føringer for nettsider i regi av offentlig forvaltning følges.
+
+Kvalitet
+
+Nettstedet og e-veiledningstjenesten er offentlig og kvalitetssikret. Tjenestenes innhold og form utvikles på bakgrunn av god kjennskap til brukernes behov og tilbakemeldinger fra veiledere og andre praktikere. Nettstedet og e-veiledningstjenesten utvikles og driftes av et sammensatt kompetansemiljø med både informasjonsfaglig og teknisk kompetanse og karriereveiledningskompetanse. Pedagogisk tilrettelagte læremidler og refleksjonstjenester utformes med basis i karriereveiledningsteori og metodikk. E-veiledningstjenesten bemannes av personer med solid kompetanse i veiledning. Det lages kvalitetssikringsrutiner som utvikler internkompetanse og som sikrer høy faglig kvalitet. Det utvikles og videreutvikles mekanismer som sikrer at etableringen av et nettbasert karriereveiledningstilbud bidrar til faglig utvikling, innovasjon og økt profesjonalisering av karriereveiledningsfeltet som helhet.
+
+Karrierelæring
+
+Nettstedet og e-veiledningstjenesten utformes slik at tjenestene kan bidra til karrierelæring hos brukerne. Dette kan sikres ved at tjenestene gjør det mulig for brukerne å bli bedre kjent med seg selv, sin kompetanse, sine interesser og jobbønsker. Videre må brukerne få informasjon og kunnskap som gjør det mulig å oppdage og utforske muligheter og hindringer. De skal også bli motivert for ulike handlingsalternativer, og lære om og få verktøy for å håndtere overganger og ta valg.
+
+Veiledere, rådgivere og lærere som jobber i sektorene skal kunne bruke nettstedet inn i veiledning, kurs og opplæring. Veiledere og andre nøkkelpersoner har som oppgave å lære veiledningssøkere å bruke nettstedets tjenester på en hensiktsmessig måte.
+
+1.  **Modell for et nettbasert karriereveiledningstilbud i Norge**
+
+Utvalget foreslår at et bedre og mer helhetlig offentlig nettbasert karriereveiledningstilbud bør bestå av et offentlig eid og driftet karrierenettsted med informasjon og selvhjelpsressurser, og en offentlig eid og driftet e-veiledningstjeneste. Målgruppe for begge tjenestene er alle som skal ta valg knyttet til utdanning og arbeid. Utvalget vil anbefale å utvikle et omfattende nettsted med differensiert innhold og en e-veiledningstjeneste med stor kapasitet, *det vil si alternativ 2B i Figur 7.3*.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Modell for et nasjonalt karriereveiledningstilbud på nett
+
+De fem alternativene i modellen over er forskjellige på komponenter som har konsekvenser for kostnad, primært innhold og omfang. Alternativ 0 og 1A krever ikke økte bevilgninger. Alternativ 0 er å beholde dagens situasjon, mens alternativ 1A vil måtte finansieres ved å flytte ressurser fra andre tjenester. Alternativ 1A og 1B er uten e-veiledning. Alternativ 1B er et mer utviklet nettsted innholdsmessig, og krever økte bevilgninger. Alternativ 2A og 2B inkluderer en e-veiledningstjeneste. Forskjellen på alternativene er størrelsen (og dermed kostnaden) på e-veiledningstjenesten, begge har et godt utbygd nettsted med informasjon og selvhjelpsressurser.
+
+Modellen er en trappetrinnsmodell som synliggjør at det vil være mulig å velge mindre omfattende og ressurskrevende løsninger enn det utvalget anbefaler. Et nettbasert karriereveiledningstilbud kan bygges opp gradvis. Det er mulig å se for seg at man starter med å utvikle et nettsted og avventer å etablere en e-veiledningstjeneste. En e-veiledningstjeneste kan også etableres med ulike størrelse. Det er antall årsverk i e-veiledningstjenesten som betyr mest for ressursbruken.[^325] Utvalget vil anbefale å velge å etablere den mest omfattende løsningen fra start.
+
+**Utdypende om nettstedet**
+
+Utvalget har sett på flere eksempler fra andre land når de har vurdert hvordan et nytt nasjonal karrierenettsted kan utformes.[^326] Målet med å etablere et slikt nettsted i Norge er at det vil utgjøre en viktig ressurs når det gjelder å gi befolkningen tilgang til kvalitetssikret informasjon og relevante selvhjelpsressurser. Et viktig mål er at folk, når de søker etter informasjon på nett, lett skal finne fram til denne informasjonen, som vil være offentlig og kvalitetssikret. Informasjon produsert av andre aktører på nett er selvfølgelig også nyttig og relevant. Men at den offentlige, kvalitetssikrede informasjonen er lett tilgjengelig, gjør det mulig for brukerne å velge å bruke denne informasjonen på områder som er relevante for dem.
+
+Plassering

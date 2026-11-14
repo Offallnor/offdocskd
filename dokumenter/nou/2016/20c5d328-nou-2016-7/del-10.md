@@ -1,1002 +1,292 @@
-# NOU 2016: 7, del 10 av 21 (side 107–117)
+# NOU 2016: 7, del 10 av 19
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/20c5d328-nou-2016-7.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-7/id2485246/
 - Original-PDF: https://www.regjeringen.no/contentassets/05a79a5ed91e40e1a80e6f8028b21e3e/no/pdfs/nou201620160007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 20 figurer, 55 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 107]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-105
-
-Kapittel 7
-
-Boks 7.2 forts.
-Et eksempel er UngInfo Oslo som er et åpent
-unginfo-nettsteder
-senter for unge mellom 13 og 26 år. På senteret
-kan ungdom få hjelp til alt fra jobbsøking, boligUnginfo-kontorer finnes i flere fylker i Norge og
-søk eller attestering av rett kopi. Senteret drives
-tilbyr unge informasjon og veiledning i mange
-av UngOrg (Barne- og ungdomsorganisasjoulike situasjoner. Kontorene er drevet gjennom
-nene i Oslo), en paraplyorganisasjon for 58
-samarbeid mellom kommuner og lokale barnebarne- og ungdomsorganisasjoner. Det tilhøog ungdomsorganisasjoner. Unginfo.oslo.no,
-rende nettstedet unginfo.oslo.no inneholder
-ungivestfold.no er eksempler på nettsteder som
-også informasjon om utdanning og yrker.
-er knyttet opp mot UngInfo-kontorer i lokalmiljøet. I tillegg til annen informasjon rettet mot
-unge, inneholder disse nettstedene informasjon
-om utdanning og karriere.
-1
-2
-3
-
-4
-5
-
-Gir også oversikt over hvilke studier en kan komme inn på med en gitt fagkombinasjon eller karaktersnitt og gjør det dermed mulig å simulere hvilke fagkombinasjoner man må velge for å komme inn på ønsket utdanning.
-Veilederforum er etablert som et prosjekt, og finansieringen er usikker, men de tre ansvarlige aktørene er samstemte i sin
-vurdering av at nettstedet er viktig og må videreføres, og at det er behov for varig finansiering av tilbudet.
-Det er lansert en ny tjeneste på veilederforum.no kalt Fremtidens arbeidsmarked. Det er et verktøy som gjennom interaktiv
-visualisering formidler SSBs framskrivninger av hvilke utdanningsgrupper det vil være behov for i Norge fram til 2030/35.
-Målgruppen er veiledere og rådgivere.
-Siden omtalen har nav.no blitt endret og bruker ikke lenger adressen nav.no/arbeid. Vi har derfor tatt vekk omtalen fra den
-opprinnelige teksten som omhandler denne fanen.
-Nav.no har også en omfattende stillingsdatabase.
-
-Kilde: Analyse og Strategi (2014)
-
-Boks 7.3 Tre eksempler på forsøk med nettbasert individuell veiledning
-det var enkelt å bruke, mye intern læring og
-Gjennom Partnerskap for karriereveiledning i
-deling mellom veilederne, lett å finne og dele
-Østfold ble det i 2011 etablert en veiledningstjelenker som var relevante for temaet i veiledneste på nett. Den overordnede målsetting er å
-ningssamtalen. Det var positivt at chat har umidgjøre karriereveiledningen mer tilgjengelig. Det
-delbar respons og veilederne raskt kan få koner en tjeneste hvor man kan sende inn spørsmål
-kretiseringer fra den veiledningssøkende (framknyttet til utdanning og yrke på e-post, og få svar
-for spørsmål/svar på e-post). De erfarte imidlerav karriereveileder innen 24 timer. Tjenesten
-tid at tilbudet var ressurskrevende og vanskelig
-har ikke muligheter for chat, men har blitt tilpaså markedsføre. Forsøket er nå lagt på is.
-set mobiltelefon. Tjenesten blir utført av to karEt pilotprosjekt i regi av Buskerud fylkeskomriereveiledere ansatt i 20 prosent stilling hver.
-mune kalt elevtjenesten.no gjør det mulig for
-Målgruppen er ungdom, men også voksne
-elever ved Rosthaug videregående skole å
-benytter seg av tilbudet.
-kunne chatte med rådgivere, helsesøstre, konKarriere Troms prøvde i 2014 ut å ha en chattorpersonale og mobbeteamet på skolen. Tjetjeneste som var tilgjengelig fra deres nettsted.
-nesten har både en chatte- og meldingsfunksjon,
-Dette fordi det kun er ett karrieresenter i Troms
-og en bank med ofte stilte spørsmål innen områfylke, lokalisert til Tromsø, og senteret ønsket
-der som kropp og helse, hjemmeforhold, yrke
-på denne måten å nå ut til flere i fylket. Grunnet
-og utdanning, mobbing og skolemiljø. Siden er
-små ressurser hadde chaten kun åpent to timer
-lokal ved den videregående skolen. Prosjektet
-to dager i uken, den var bemannet med senteer et resultat av Statens designkonkurranse.
-rets profesjonelle karriereveiledere. Karriere
-Troms hadde positive erfaringer med tjenesten,
-
-[Side 108]
-
-106
-
-NOU 2016: 7
-
-Kapittel 7
-
-7.3
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Bakgrunn og analyser
-
-Utvalget har som en del av sitt mandat å beskrive
-«hva som finnes av kunnskap om effekten av nettbasert karriereveiledning». Under ser vi først på
-problemstillinger knyttet til effekter av karriereveiledning generelt og nettbasert karriereveiledning spesielt. Deretter presenteres en rapport
-som utvalget har fått utarbeidet for å vurdere
-hvilke erfaringer og kunnskapsgrunnlag som finnes internasjonalt når det gjelder karriereveiledning på nett.40 Rapporten presenterer ni lands
-valg av løsninger for nettbasert karriereveiledning og «syntetiserer det som finnes av eksisterende forskning og praksis knyttet til nettbasert
-og digital teknologi i karriereveiledning41». Rapporten kommer så med forslag til hvordan nettbasert karriereveiledning bør innrettes for å få størst
-mulig effekt. Til slutt presenteres ulike nettbaserte løsninger i utvalgte land.
-I dette delkapitlet presenterer vi noen analyser
-og piloter som er gjort i Norge knyttet til eventuell
-etablering av et mer omfattende karriereveiledningstilbud på nett i en norsk kontekst. Vi går spesielt inn i to samfunnsøkonomiske analyser av
-henholdsvis et helhetlig karriereveiledningstilbud
-på nett og av en e-veiledningstjeneste.42 Til slutt i
-denne delen presenteres noe kunnskap om
-befolkningens behov og interesse for karriereveiledning på nett.
-
-ser, og det kan ha effekt når det gjelder indikatorer som mindre feilvalg og frafall, lettere overganger fra utdanning til jobb eller mindre utenforskap.
-Kunnskap om karriereveiledning i en digitalisert
-verden
-Til tross for at det er gjort lite spesifikk forskning
-på effekter av nettbasert karriereveiledning, finnes det noen fagmiljøer som har jobbet mye med
-spørsmål knyttet til karriereveiledning på nett. Ett
-av disse miljøene finnes ved International Centre
-for Guidance Studies (iCeGS) ved University of
-Derby. Forskere herfra har på oppdrag fra utvalget utarbeidet rapporten Get yourself connected.45
-Get yourself connected – karriereveiledning i en
-digital tid
-
-Effekter av nettbasert karriereveiledning
-I rapporten Get yourself connected blir det slått fast
-at forskning på spesifikke effekter av nettbasert
-karriereveiledning er begrenset. Dette er et forholdsvis nytt felt, og det er forsket lite både på forskjeller mellom ansikt-til-ansikt veiledning og eveiledning, og på de eventuelle spesifikke effektene av nettbasert karriereveiledning.43
-Den eventuelle økte effekten av å etablere et
-karriereveiledningstilbud på nett (i form av e-veiledning) kan knyttes til den økte tilgangen til karriereveiledning dette vil gi. Økt tilgang vil bety at
-flere mennesker kan benytte seg av karriereveiledning,44 for eksempel i krevende overgangsfa-
-
-Utgangspunktet for rapporten er den massive
-digitaliseringen av samfunnet og teknologiens
-rolle i utviklingen av karriereveiledning. I det følgende presenteres hovedmomentene som rapporten peker på når det gjelder utviklingen av karriereveiledning på nett og hvilken betydning forskerne mener dette bør ha for politikkutviklingen
-på feltet.
-Forskernes poeng er at digitalisering bidrar til
-en grunnleggende endring av hvordan mennesker organiserer og deltar i læring og arbeidsliv.
-Som eksempel peker de på fremveksten av varianter av e-læring og såkalte MOOCs, der mange
-tusen studenter får tilgang til kurs uavhengig av
-hvor i verden de befinner seg.
-Disse endringene har implikasjoner for alle og
-gjør det viktig for den enkelte å tilegne seg digital
-kompetanse for å delta i læring og arbeid. «Et
-moderat nivå av IKT-kompetanse er avgjørende for
-at individer skal kunne ha et vellykket liv,»46 hevder forskerne, og viser til at digitaliseringen av
-samfunnet også legger føringer på hva slags karrierekompetanser den enkelte trenger. Begrepet
-‘digital career literacy’, eller digital karrierekompetanse, introduseres som begrep for de spesifikke digitale kompetanser knyttet til karriererelaterte områder av livet.
-Rapporten viser også at teknologiene åpner
-muligheter for utvikling av nye markeder på karri-
-
-40
-
-44
-
-7.3.1
-
-Kunnskapsgrunnlag og internasjonale erfaringer
-
-Hooley m.fl. (2015)
-Hooley m.fl. (2015). Side vii (vår oversettelse).
-42
-Analyse og Strateg (2013) og Analyse og Strategi (2014)
-43
-Hooley m.fl. (2015): side vii. Rapporten presenteres nærmere i kapittel 5.
-41
-
-45
-46
-
-En e-veiledningstjeneste slik utvalget senere vil foreslå, er
-antatt å ha kapasitet til å håndtere 100 000 henvendelser i
-året.
-Hooley m.fl. (2015)
-Hooley m.fl. (2015), side 15, vår oversettelse
-
-[Side 109]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-ereveiledningsfeltet. Forskerne beskriver det
-samlede private og offentlige tilbudet av karriereveiledningsrelevant informasjon og tjenestetilbud
-som et karriereveiledningsmarked og tar utgangspunkt i dette når de kommer med sine anbefalinger for det offentliges rolle.
-Rapporten slår fast at digitalisering og ny teknologi åpner nye muligheter for karriereveiledning. Tilbudet for den som søker veiledning blir
-større og mer differensiert. Den enkelte kan få
-større valgmuligheter når det gjelder hvilken
-form for læring eller karriereinformasjon han
-eller hun trenger for å utvikle sin karriere. For
-eksempel kan det utvikles simuleringsverktøy
-eller spill som kan brukes i veiledning eller selvrefleksjon, samt plattformer for kommunikasjon
-med karriereveiledere og andre informanter.47
-Digitalisering og ny teknologi åpner også for
-økt tilgang til tjenester for flere. Informasjon og
-selvhjelpsverktøy på nett er tilgjengelig for alle til
-enhver tid. I tillegg utvikles måten vi kommuniserer på gjennom nye løsninger og plattformer,
-mobil teknologi og spesialtilpassede applikasjoner.
-Hovedelementer i gode løsninger for nettbasert
-karriereveiledning
-Forskerne identifiserer tre hovedelementer som
-bør være tilstede i en karriereveiledningstjeneste
-på nett for at den skal være fullstendig og bidra til
-at folk gjør gode valg for seg selv og samfunnet:
-– Informasjon av høy kvalitet tilpasset ulike brukergrupper. Dette inkluderer blant annet tekst,
-bilder og multimedia-innhold.
-– Selvhjelpsressurser. Dette inkluderer interaktive løsninger som spill og simuleringer, men
-også andre verktøy
-– Tilgang til kommunikasjon med en veileder eller
-informanter. Dette kan være via telefon, chat, epost eller annet, og inkluderer både individuelle og gruppebaserte kommunikasjonsformer.
-Til sist legges det vekt på at man bruker oppdatert teknologi og at løsningene fungerer på alle
-plattformer.
-Integrert karriereveiledning – en tankegang
-Rapporten peker på en rekke fordeler med nettbasert karriereveiledning og advarer mot at myndig-
-
-hetene velger en enten-eller-tilnærming når forholdet mellom nettbasert karriereveiledning og
-andre former for karriereveiledning diskuteres.
-De lanserer begrepet «blended guidance», som
-best oversettes med «integrert karriereveiledning». Med begrepet «blended» (heretter «integrert»), mener Hooley m.fl. å peke på at individer
-ikke bare opererer i én kommunikasjonskanal
-eller med én kommunikasjonsform. Begrepet er
-hentet fra ideen om «blended learning», som
-beskriver hvordan læring best finner sted som et
-samspill for eksempel mellom fysisk undervisning, selvstudier og varianter av e-læring. Overført til karriereveiledningsfeltet handler dette
-grunnleggende sett om å legge til rette for at brukere på ulike tidspunkt har tilgang til flere former
-for karriereveiledning – og at disse bidrar til å
-gjensidig styrke hverandre i et helhetlig system.
-Ansikt-til-ansikt veiledning, nettbasert karriereveiledning eller ren informasjonsinnhenting kan
-være like relevant, avhengig av hva som er brukerens behov. Men alle delene bør inngå i en integrert tilnærming hvor brukerne til enhver tid kan
-benytte seg av den veiledningsressursen de trenger. Noen ganger vil dette være å få god informasjon, andre ganger kan brukeren ønske å ta kontakt via chat eller telefon, mens andre ganger vil
-brukeren ha behov for ansikt-til-ansikt veiledning.
-Basert på en taksonomi for e-læring utviklet av
-Staker og Horn48 beskrives måter å strukturere
-en integrert tilnærming på. En integrert tilnærming kan se ulik ut under ulike forhold, de forskjellige elementene kan vektes forskjellig. Man
-kan tenke seg løsninger der primærinngangen er
-en ansikt-til-ansikt samtale, og hvor man deretter
-blir introdusert for informasjonsnettsteder eller
-ulike selvhjelpsressurser, før man har en ny samtale. Eller man kan se for seg at veiledningen primært foregår på nett, med mulighet for tilgang til
-ansikt-til-ansikt veiledning ved behov. Det er også
-mulig å se for seg at et informasjonsnettsted er en
-naturlig inngang. Et annet potensielt skille er
-hvorvidt det er brukeren eller veilederen som vurderer hva brukerens behov er. Det viktigste i en
-integrert tilnærming vil være at det finnes flere
-innganger til veiledning og at man kan veksle mellom disse.
-Forskerne identifiserer fire prinsipper som
-bør ligge til grunn i en integrert tilnærming:49
-– De ulike delene (ansikt-til-ansikt, informasjonsnettsted, e-veiledning) må virke sammen, dele
-data og informasjon og til sammen utgjøre et
-48
-
-47
-
-Hooley m.fl. (2015), side 32
-
-107
-
-Kapittel 7
-
-49
-
-Staker og Horn (2012) i Hooley (2015) m.fl., side 42
-Hooley m.fl. (2015), side 46
-
-[Side 110]
-
-108
-
-NOU 2016: 7
-
-Kapittel 7
-
-–
-–
-–
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-tilbud som er større enn summen av de enkelte
-delene.
-Systemet bør være koblet sammen slik at personer enkelt finner det de har behov for, det
-bør også være mulig å få assistanse til å velge.
-Kvaliteten må være like god i alle delene av
-systemet.
-Det må eksistere en form for strategisk ledelse
-som har ansvar for effektiv koordinering av
-systemet som helhet – og som kan monitorere
-hvordan det fungerer i praksis.
-
-Forskerne trekker også fram noen andre faktorer
-som er viktige for at en integrert tilnærming til
-karriereveiledning skal bli effektfull:
-– Veiledernes rolle er kritisk i en integrert tilnærming. De er viktige for å informere om de ulike
-tjenestene som finnes, og for å bistå brukere i
-å benytte dem. Nettressursene skal også være
-til nytte for veilederne selv i deres arbeid. Men
-viktigst av alt er å benytte veiledernes erfaringer og kunnskap når man utvikler innhold og
-ressurser i et nettbasert tilbud. I tillegg bør det
-etableres en mekanisme for at brukere kan gi
-tilbakemelding på innhold og funksjonalitet,
-slik at tilbudet oppnår høyest mulig kvalitet.
-Det er også mulig å etablere egne seksjoner i
-det nettbaserte tilbudet som er drevet av veilederne selv. Dette kan øke både eierskap til og
-bruk av tilbudet.
-– Mulighet for at brukerne kan lagre for eksempel CV og resultater av selvhjelpsressurser,
-refleksjoner og samtaler slik at dette kan brukes for eksempel i kurssammenheng, eller av
-den enkelte senere i en prosess.
-Hva slags informasjon og hvordan?
-Rapporten stiller også spørsmål ved hva slags
-informasjon som bør være tilgjengelig på en
-offentlig nettbasert karrieretjeneste. Det er et
-stort mulig informasjonstilfang i dette feltet. Dette
-refereres gjerne til på engelsk som «Labour Market Information», det vil si alle offentlige data om
-karriere, arbeidsmarked, lærings- og utdanningsmuligheter.
-Et spørsmål forskerne stiller er hvorvidt myndighetene skal fokusere sin hovedinnsats mot å
-samle inn og tilrettelegge for at aktører som
-ønsker det kan få tilgang til denne informasjonen,
-slik at disse kan tilby informasjon og karriereveiledning på nett til befolkningen. Engelske
-myndigheter har etablert et nettsted kalt LMI for
-All, delvis med bakgrunn i en slik tankegang.50
-
-Hva er det offentliges rolle?
-Basert på en markedsorientert forståelse av hvordan et karriereveiledningstilbud kan se ut, kommer Hooley m.fl. med noen anbefalinger for
-videre politikkutvikling. Utgangspunktet for anbefalingene er den ovennevnte tanken om et karriereveiledningsmarked bestående av offentlige og
-private aktører.
-Rapporten presenterer fire områder der det
-offentlige kan ha en rolle for å bidra til god karriereveiledning på nett:51
-– Bygge digital karrierekompetanse i befolkningen.
-Befolkningen må ha digital kompetanse for å
-kunne nyttiggjøre seg et nettbasert tilbud om
-karriereveiledning. Det er også nødvendig for
-at de skal etterspørre gode tjenester.
-– Stimulere til utvikling i et nettbasert karriereveiledningsmarked. Et stort marked med mange
-aktører som tilbyr et vidt spekter av tjenester
-vil etter forskernes mening være den beste
-måte å sørge for et bredt tilbud av tjenester.
-Samtidig peker de på at det norske markedet er
-lite, og at det vil være nødvendig for myndighetene å gå aktivt inn for å stimulere dette, dersom man ønsker et velfungerende marked.
-– Kvalitetssikring av et nettbasert karriereveiledningsmarked. Dersom man organiserer karriereveiledning på nett som et marked med en
-lang rekke aktører, også en stor andel private,
-vil det være nødvendig å etablere en kvalitetssikringsmekanisme. Det vil være myndighetenes oppgave å overvåke markedet og kvalitetssikre aktørene slik at brukerne kan ha tillit til
-informasjonen og veiledningen som tilbys.
-– Kompensere for markedssvikt. Rapporten anerkjenner at et markedsbasert tilbud vil ha svakheter og ikke vil kunne gi et like godt tilbud til
-alle. Man kan anta at markedet vil ha flere tilbud til høyt utdannede og ressurssterke grupper, enn for eksempel lavt utdannede, langtidsledige, eller andre ressurssvake grupper. Det
-offentlige anbefales her å gå inn og overvåke
-markedet og tilby offentlige tjenester der det
-private markedet svikter.
-Oppsummering
-–
-
-Rapporten slår fast at en integrert løsning, der
-karriereveiledning på nett inngår i en større
-helhet, og der brukerne kan bytte mellom
-ulike former for informasjon og veiledning
-
-50
-
-www.lmiforall.org.uk
-Hooley m.fl. (2015), side 50
-
-51
-
-[Side 111]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-–
-
-–
-
-etter behov, er den løsningen som fungerer
-best i et digitalisert samfunn.
-Rapporten peker på tre hovedkomponenter en
-nettbasert karriereveiledningstjeneste bør
-inneholde: informasjon, selvhjelpsressurser og
-tilgang til direkte kommunikasjon med veiledere eller andre informanter.
-Rapporten tar utgangspunkt en markedsbasert
-tilnærming til hvordan det offentlige bør tenke
-rundt utviklingen av karriereveiledning på
-nett. Det er et poeng at det offentliges hovedrolle er å bidra der det private markedet svikter, og ellers legge til rette for at markedet fungerer.
-
-Erfaringer med nettbasert karriereveiledning
-i utvalgte land
-Dette underkapitlet beskriver ulike løsninger for
-nettbasert karriereveiledning i Danmark og Skottland, som utvalget selv har hatt møter med. I tillegg blir ulike sider av løsningene i New Zealand,
-England, USA og Sverige beskrevet, blant annet
-på bakgrunn av rapport fra Analyse og Strategi og
-fra Hooley m.fl.52
-
-109
-
-Kapittel 7
-
-Informasjonsnettstedet UddannelsesGuiden55
-ble etablert 2004. Nettstedet er en fellesinngang
-som dekker alle utdanningstilbud i Danmark og i
-tillegg gir informasjon om stillinger og arbeid.
-I 2011 ble eVejledning56 etablert som en del av
-UddannelsesGuiden. Etableringen av en slik e-veiledningstjeneste skjedde på bakgrunn av en
-større reform knyttet til yrkesutdanningene i Danmark (EDU reformen). For å allokere ressurser til
-reformen, ble det flyttet midler fra ansikt-til-ansikt
-veiledningen i skolen.
-Modellen man har valgt for veiledning av skoleelever i Danmark legger opp til at elevgruppen
-deles etter hvem som skal få tilgang til ansikt-tilansikt veiledning, og hvem som kun får e-veiledning. I 8. klasse gjennomgår elevene en screening
-som kartlegger om eleven er såkalt «uddannelsesparat» eller «ikke uddannelsesparat». De som vurderes å være «ikke uddannelsesparate» får tilbud
-om ansikt-til-ansikt veiledning, dette er beregnet
-til å være omlag 20 prosent av elevene. De
-resterende 80 prosent henvises til e-veiledning.
-Alle elevene skal delta i såkalt kollektiv veiledning
-på skolen.
-Formål
-
-Danmark
-Utvalget har sett til arbeidet med å utvikle et nettbasert karriereveiledningstilbud, herunder en eveiledningstjeneste som er gjort i Danmark og har
-møtt ledelsen for den danske e-veiledningstjenesten for å få god innsikt i hvordan de opererer.
-I 2003 ble det i Danmark vedtatt en lov som
-omstrukturerte veiledningstilbudet.53 Det fysiske
-veiledningsansvaret ble delt mellom forvaltningsnivåene kommune og fylke, mens det nasjonale tilbudet dekkes gjennom et landsdekkende
-informasjons- og veiledningsnettsted.
-Kommunene har ansvar for veiledning av ungdom i overgangen mellom ungdomsskole og videregående opplæring, mens fylkene skal gi veiledning i overgangen mellom videregående opplæring og høyere utdanning. Det finnes to typer sentre for dette. UU-centre (Ungdommens Uddannelsescenter) på kommunalt nivå og syv regionale
-Studievalg-centre.54
-
-52
-
-Analyse og Strategi (2014) og Hooley m.fl. (2015).
-Bekendtgørelse af lov om vejledning om uddanelse og
-erhverv samt plikt til utddannelse, beskæftigelse m.v.
-https://www.retsinformation.dk/forms/
-r0710.aspx?id=164530
-54 Analyse og Strategi (2014)
-53
-
-Utvalget mottok en orientering om e-veiledningstjenesten fra Styrelsen for IT og læring (STIL).57
-Et hovedformål sett fra styrelsens side er å skape
-helhet i tilbudet og sette brukeren i fokus. Det blir
-gitt veiledning om hele utdanningssystemet, fra
-ungdomsskolenivå til ut i jobb.
-UddannelsesGuidens mål er å levere presis og
-oppdatert informasjon til alle om jobb, utdanning,
-sysselsetting og arbeidsmarked. Analyse og Strategi refererer følgende begrunnelse for etablering
-av et slikt nettsted i Danmark: «Før 2003 var karriereveiledningstilbudet meget fragmentert og av
-varierende art. Danske myndigheter så derfor et
-behov for å etablere et nettsted med nøytral og kvalitetssikret informasjon med særlig fokus på utdanningsmuligheter.»58 Formålet kan derfor også sies
-å være å bidra til en mer helhetlig tilnærming.
-Målgruppe
-UddannelsesGuiden og e-veiledningstjenesten retter seg mot unge som skal ta utdanningsvalg
-55
-56
-57
-58
-
-https://www.ug.dk/
-https://www.ug.dk/evejledning
-Elsebeth Nygaard, veiledningsfaglig koordinator, e-Vejledning, (STIL)
-Analyse og Strategi (2014), side 17
-
-[Side 112]
-
-110
-
-Kapittel 7
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-enten det dreier seg om videregående opplæring
-eller høyere utdanning, og voksne som ønsker
-etter- eller videreutdanning. Tjenestene er også
-rettet mot veiledere og foreldre.
-Organisering og eierskap
-Styrelsen for IT og læring (STIL) har ansvar for
-nettstedet og e-veiledningen. STIL ligger administrativt under Undervisningsministeriet.
-UddannelsesGuiden har seks redaktører, og
-det er 37 veiledere tilknyttet e-veiledningstjenesten. Den er organisert som en distribuert
-modell med 13 fulltidsansatte sentralt i København. I tillegg er det 24 ansatte i stillinger som er
-delt mellom e-veiledning og en primær arbeidsplass i det øvrige karriereveiledningsapparatet,
-altså ved et av veiledningssentrene.
-UddannelsesGuiden har blitt relansert flere
-ganger. I 2009 gikk nettstedet vidar.dk som var
-rettet mot voksenopplæring og etterutdanning inn
-i UddannelsesGuiden. Dette ble gjort både av økonomiske årsaker og fordi det å ha to nettsteder
-gjorde det vanskelig for brukerne å finne det de
-søkte etter59
-En viktig erfaring fra Danmark er at veilederne ofte får informasjon fra brukerne om hva
-som fungerer og ikke fungerer på nettstedet, og at
-det er viktig at veilederne og de ansvarlige for
-nettstedet har en god dialog.
-Tjenester i tilknytning til nettstedet
-UddannelsesGuiden har en målgruppeinngang.
-Den har yrkes- og arbeidsartikler, gir oversikt
-over etter- og videreutdanningstilbud, samt inspirasjonsverktøy og materiell for lærere og veiledere.
-E-veiledningstjenesten er tilknyttet nettstedet.
-Fra januar 2011 til august 2014 hadde e-veiledningstjenesten 307 000 henvendelser, hvorav 36
-prosent gjaldt informasjon, og 64 prosent gjaldt
-veiledning. Tjenesten opererer gjennom mange
-medier: chat, sms, telefon, mail, facebook, twitter,
-digitale møter med videre. Mer enn halvparten av
-henvendelsene skjer via chat. Sms er lite brukt.
-Når det gjelder tidsbruk, tar en chat i gjennomsnitt 11 minutter, mens en telefonhenvendelse i
-gjennomsnitt tar 7 minutter. E-veiledningstjenesten er lett tilgjengelig med en åpningstid fra 9–
-21 på hverdager, og den holder helgeåpent. 41
-prosent av henvendelsene er utenom vanlig
-59
-
-Analyse og Strategi (2014)
-
-åpningstid.60 Alle som har bruk for veiledning om
-utdanning og jobb kan ta kontakt.
-Skottland
-Skottland har et av de mest omfattende karrierenettstedene av de landene utvalget har sett på.
-Nettstedet My World of Work61 retter seg både mot
-utdannings- og arbeidssøkende, og mot foreldre.
-Nettstedet skiller seg klart fra den danske i at det
-er like mye knyttet til arbeidsmarkedsmyndighetene som til utdanningsmyndighetene, og er mer
-rettet mot arbeid enn utdanning. Nettstedet har
-en telefontjeneste, men ingen chat, e-post eller
-sms-tjeneste. Nettstedet er også nært knyttet til
-ansikt-til-ansikt tjenestene i lokale karrieresentre
-og i såkalte «job centres».
-Skills Development Scotland (SDS), som eier
-nettstedet, orienterte utvalget om det skotske
-systemet 4. juni 2015.62
-Formål
-Skotske myndigheter har satset stort på offentlige
-karriereveiledningstjenester med en helhetlig tjeneste som tilbyr både ansikt-til-ansikt veiledning
-ved kontaktsentre og nettjenester. Dette er en del
-av skotske myndigheters overordnede «skills strategy».63 Kostnadseffektivitet, tilgjengelighet, partnerskap, utvikling av karrierekompetanse og brukerfokus er noen nøkkelfaktorer i denne strategien. Strukturen er bygget rundt prinsippet om at
-nettjenester og tilknyttet telefonservice skal ta
-mye av etterspørselen slik at ansikt-til-ansikt tjenester ved skoler og kontaktsentre reserveres for
-dem med størst behov for bistand.
-Målgruppe
-My World of Work er tilgjengelig for alle som
-ønsker hjelp og informasjon om utdannings- og
-opplærings-, karriere- og jobbmuligheter, og er tilpasset ulike brukergrupper: elever og ungdom,
-foreldre, uteksaminerte, karriereskiftere, arbeidsledige, skoler, bedrifter. Tjenesten har flere enn
-550 000 registrerte brukere med egen konto, og
-en høy brukertilfredshet.
-60
-61
-62
-63
-
-Mandag – torsdag: kl. 9–21, Fredag: kl. 9–16, Lørdag: kl.
-12–16, Søndag: kl. 12–21
-http://www.myworldofwork.co.uk/
-Robert Doyle, Head of Partner Development & Integration,
-Digital Services Skills Development Scotland (SDS)
-http://www.gov.scot/Topics/Education/skills-strategy
-
-[Side 113]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Organisering og eierskap
-My World of Work er Skills Development Scotlands (SDS) nettbaserte karrieretjeneste. SDS
-beskriver seg selv som «the national skills body
-supporting the people and businesses of Scotland to
-develop and apply their skills.»64 SDS ble etablert i
-2008 som et tverrsektorielt organ som skal samle
-og finansiere tjenester knyttet til karriere, ferdigheter (skills) og opplæring (training).
-Utgangspunktet for My World of Work er å
-tilby en integrert løsning der den digitale plattformen inngår i en større helhet som inkluderer veiledning per telefon og ansikt-til-ansikt veiledning
-ved sentre over hele landet. Nettstedet og øvrige
-tjenester utvikles og testes kontinuerlig. Utvikling
-av karriereveiledningstjenester inngår som en del
-av den skotske «Skills Planning Model». Et viktig
-element i denne er å samle informasjon om
-arbeidsgiveres behov, om individers behov og
-bidra til bedre utvikling av og utnyttelse av befolkningens ferdigheter.
-Tjenesten utvikles kontinuerlig blant annet
-gjennom direkte tilbakemeldinger fra brukergrupper, og det er utviklet et system for dette slik
-at tjenesten skal være relevant for disse.
-
-111
-
-Kapittel 7
-
-paratet, både hos utdannings- og arbeidsmarkedsmyndighetene.
-New Zealand
-Utvalget har ikke hatt noen direkte dialog med
-New Zealand, men baserer seg her på egne undersøkelser, informasjon fra rapporten som utvalget
-bestilte fra Hooley m.fl.66 samt den samfunnsøkonomiske analysen som ble utført av Analyse og
-Strategi for Vox.67
-I New Zealand er digitale løsninger stadig mer
-aktuelle i karriereveilednings- og informasjonstjenester. Det forventes at utdannings- og arbeidsmarkedsaktører er tilstede digitalt og at man
-utvikler mobile og oppdaterte løsninger.68
-Formål
-Hovedformålet med den New Zealandske løsningen er «å forbedre samspillet mellom utdanning og
-karriere ved å støtte både enkeltindivider og bedrifter til å ta fremtidige karriererelaterte beslutninger
-basert på helhetlig og god informasjon».69
-Et uttalt mål ifølge nettstedet er å etablere et
-karrieresystem av høy kvalitet som effektivt binder sammen utdanning og opplæring med arbeid.
-
-Tjenester i tilknytning til nettstedet
-My World of Work har et bredt spekter av innholdselementer og interaktive verktøy. Dette inkluderer lagringsløsninger for CV og flere typer selvhjelpsressurser. Det finnes også en telefontjeneste
-i tilknytning til nettstedet, både for teknisk støtte
-og karriereveiledning.
-My World of Work samarbeider tett med partnere, herunder med såkalte jobbsentre (eid av
-arbeidsmarkedsmyndighetene) når det gjelder
-langtidsledige,65 skoler og de lokale karrieresentrene. Enkle henvendelser tas av telefonservicen
-til My World of Work, mens tyngre saker og komplekse spørsmål henvises ansikt-til-ansikt veiledningen. Det er mulig å bestille ansikt-til-ansikt veiledning via My World of Work. Nettstedet brukes
-også aktivt på karrieresentrene og jobbsentrene,
-for eksempel slik at veiledere kan vise brukerne
-til nettstedet før de eventuelt får mer veiledning.
-Skottland har den kanskje mest integrerte løsningen blant landene utvalget har sett på. Løsningen utmerker seg spesielt ved å være tverrsektoriell i sin innretning og styring, samt at den er
-direkte koblet opp mot det fysiske veiledningsap-
-
-Målgruppe
-Målgruppen for nettstedet er hele befolkningen,
-fra unge utdanningssøkende, til voksne som søker
-jobb eller utdanning. Nettstedet har også informasjon rettet mot foreldre.
-Organisering og eierskap
-Careers New Zealand70 er navnet både på en forvaltningsenhet og nettstedet som ligger under
-utdanningsmyndighetenes ansvar. På nettstedet
-finner man informasjon både om utdanning og
-arbeid, og det er tilgang til en rekke selvhjelpsverktøy. Nettstedet er et supplement til fysiske tjenester.
-Tjenester i tilknytning til nettstedet
-Nettstedet Careers New Zealand med informasjon
-om arbeid og karriere har eksistert siden 1998.
-66
-67
-68
-
-64
-65
-
-www.skillsdevelopmentscotland.co.uk
-Definert som mer enn ett års arbeidsledighet
-
-69
-70
-
-Hooley m.fl. (2015)
-Analyse og Strategi (2014)
-Hooley m.fl. (2015)
-Analyse og Strategi (2014), side 27
-https://www.careers.govt.nz/
-
-[Side 114]
-
-112
-
-Kapittel 7
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-Den nåværende siden er en videreutvikling av
-denne.71
-Det er etablert både e-post-, sms-, chat- og telefontjeneste i tilknytning til nettstedet. Det finnes
-en innloggingsløsning hvor man blant annet kan
-lagre CV og resultater fra selvhjelpsverktøyene.
-I tillegg finnes det en «helpline», altså en telefonservice i tilknytning til nettstedet som er den
-eneste i sitt slag i New Zealand. Øvrige hjelpetelefoner er kriseorienterte. I året 2014/2015 ble 25
-681 karriereveiledningsaktiviteter utført over telefon, chat, e-post og sms.72
-England – National Careers Service
-Formål
-Nettstedet National Careers Service73 har som
-formål å gi informasjon og veiledning knyttet til
-både utdanning, arbeid og karrierevalg. Nettstedet skal gi nøytral og kvalitetssikret informasjon
-og veiledning.
-Målgruppe
-Målgruppen er hele befolkningen, fra unge utdanningssøkende til voksne som søker jobb eller
-utdanning. Det er en egen del spesielt rettet mot
-unge mellom 13 og 16 år.
-Organisering og eierskap
-Nettstedet National Careers Service er et tilbud
-fra Skills Funding Agency på vegne av Department for Business, Innovation and Skills. Dette
-departementet har økonomisk vekst som hovedformål, og investerer i ferdigheter og utdanning
-for å fremme handel, innovasjon og stimulere til
-oppstart av bedrifter.
-Tjenester i tilknytning til nettstedet
-Nettstedet gir tilgang til informasjon og selvhjelpsverktøy. Det er tilbud om telefonveiledning,
-chat og en innloggingsløsning for blant annet lagring av CV og resultater av selvhjelpsverktøy. I tillegg er det utviklet applikasjoner for smarttelefoner i tilknytning til nettstedet. Det er også mulig å
-bli vist videre til ansikt-til-ansikt veiledning. Det
-finnes også egne verktøy og egen informasjon rettet mot unge mellom 13 og 16.
-
-Andre løsninger for informasjons- og datadeling
-Occupational Outlook Handbook og O*Net Online
-De føderale myndighetene i USA har et omfattende tilbud som skal bidra til at innbyggerne kan
-ta informerte utdanningsvalg og få støtte i karriereutvikling. Det er myndighetene for arbeidsmarkedsstatistikk (US Bureau of Labor Statistics) og
-ikke utdanningsmyndighetene som har ansvaret
-for å skape og oppdatere innholdet.
-Informasjonstilbudet på nett er svært omfattende. Innholdet viderebrukes på egne nettsteder
-i delstatene og egne nettsteder rettet mot spansktalende og militære veteraner. Her presenteres to
-føderale nettsteder, det ene består hovedsakelig
-av tekst, det andre formidler statistiske data.
-Occupational Outlook Handbook74 er en tjeneste med detaljerte yrkesbeskrivelser for nær
-tusen yrker. Tjenesten ble først utgitt i bokform
-for å lette overgangen til arbeid for demobiliserte
-soldater etter andre verdenskrig, men har vært
-forbedret, oppdatert og utvidet og har siste tiår
-vært et nettsted. Innholdet på Occupational Outlook Handbook beskriver arbeidsoppgaver, utdanning, lønn, jobbmuligheter, arbeidsmiljø og personlige egenskaper knyttet til ulike yrker.
-O*Net Online75 er et nettsted som formidler
-detaljerte faktaopplysninger og statistisk informasjon om nær tusen yrker. Nettstedet har flere
-verktøy for å kunne sammenligne ulike aspekter
-ved forskjellige yrker. I motsetning til Occupational Outlook Handbook, består O*Net Online av
-informasjon basert på offentlige registre og spørreundersøkelser blant fagfolk fra yrkets bransje
-og er utviklet i henhold til anerkjente karriereveiledningsteorier (for eksempel Hollands RIASECmodell76). Dataene har en redaksjonell syklus for
-faste oppdateringer.
-Det nettbaserte informasjonstilbudet i USA
-skiller seg fra de fleste lignende tjenester i Europa
-ved at arbeidsmarkedsmyndighetene videreformidler forskningsdata om aspekter ved forskjellige yrker, og ved at de har et omfattende system
-for kompetanseframskriving for flere hundre forskjellige yrker neste tiår. I ettertid evaluerer U.S.
-Department of Labor kompetanseframskrivingene for å måle i hvilken grad de slår til, og på den
-måten stadig forbedre dataene. De legger også
-vekt på å formidle hvilke yrker det forventes sær74
-
-71
-
-Analyse og Strategi (2014)
-Hooley m.fl. (2015)
-73
-https://nationalcareersservice.direct.gov.uk
-72
-
-75
-76
-
-http://www.bls.gov/ooh/
-http://www.onetonline.org/
-Se for eksempel Svendsrud, Arne (2015): Karriereveiledning i et karrierelæringsperspektiv. Oslo: Universitetsforlaget, kapittel 4.
-
-[Side 115]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-lig vekst i etterspørselen etter (yrker med såkalt
-«bright outlook»), samt «grønne yrker» som det
-ønskes økt rekruttering til. Mens det i Norge kun
-publiseres kompetanseframskrivinger for et førtitalls utdanningsgrupper,77 formidler USA
-tiårsprognoser for flere hundre yrker og formidler
-disse på offentlige nettsteder for å sikre informerte utdanningsvalg og at beslutningstakere har
-best tilgjengelig informasjon om fremtidige kompetansebehov.
-Skattefinansierte data i USA er uten bruks- og
-opphavsrettsbegrensninger (om vi ser bort fra
-data med begrensninger på grunn av sikkerhet
-eller personvern). Private og offentlige nettsteder
-står derfor fritt til å viderebruke data skapt av U.S.
-Department of Labor. Informasjonen presenteres
-på offentlige nettsteder (som Occupational Outlook Handbook og O*Net Online) beregnet både
-for brukere, veiledere og offentligheten.
-
-Nordiske løsninger
-På den danske UddannelsesGuiden kan man finne
-prognoser for fremtidige jobbmuligheter for 800
-yrker, fordelt på fem regioner basert på data fra
-Danmarks Statistik, Undervisningsministeriets og
-Videnskabsministeriets databaser, samt beregninger fra Arbeiderbevegelsens Erhversråd og Epinion.
-Sverige tilbyr gjennom arbeidsmarkedsmyndighetene offentlig og åpen informasjon om mulig
-fremtidig utvikling på arbeidsmarkedet både
-nasjonalt og regionalt. Svenske arbeidsmarkedsmyndigheter presenterer gjennom nettstedet
-yrkeskompassen.se80 prognoser og framskrivinger for over 200 ulike yrker på kort sikt, men også
-på lang sikt (10 år). Tjenesten er rettet inn mot
-brukere på alle nivå, og er åpent tilgjengelig for
-alle. Slik presenterer Arbeidsmarkedsstyrelsen
-selv sin tjeneste:81
-
-Labour Market Information for All
-I England har myndighetene etablert det såkalte
-Labour Market Information for All (LMI for All).78
-Dette går i hovedsak ut på at myndighetene finansierer innsamling og kvalitetssikring av data som
-private (eller offentlige) aktører kan benytte til å
-utvikle karriereveiledningstjenester på nett.
-I tilknytning til dette har myndighetene
-utviklet en kvalitetssikringsmekanisme gjennom
-en offentlig sertifiseringsordning for aktører som
-vil tilby nettbaserte karrieretjenester. England har
-en stor andel private aktører som kan benytte seg
-av LMI for All.79 LMI for All innebærer at det
-offentlige tilrettelegger for bruk av kvalitetssikret
-data, men at tilbyderne av ulike tjenester selv vurderer hvordan de vil bruke disse.
-LMI for All er i essens et «åpen tilgang til dataprosjekt», og skal støtte opp om britiske myndigheters ønske om bruk og gjenbruk av offentlige
-data. Gjennom dette er også ønsket at kreative
-utviklere på det private markedet vil benytte seg
-av dataene og lage gode og innovative karriereveiledningstjenester.
-LMI for All er etablert og finansiert av UK
-Commission for Employment and Skills. LMI for
-All er fortsatt under utvikling av et konsortium
-bestående av Institute of Employment Research
-ved the University of Warwick, samt Pontydysgu,
-Raycom and Rewired State.
-77
-
-Som formidles til veiledere gjennom utdanning.no/arbeidsmarkedet
-78
-http://www.lmiforall.org.uk/
-79
-Hooley m.fl. (2015)
-
-113
-
-Kapittel 7
-
-Yrkeskompassen informerar dig om möjligheten att hitta jobb inom olika yrken på upp till 10
-års sikt. Vi beskriver i vilken riktning utvecklingen är på väg när det gäller chanserna att hitta
-ett jobb. Men du måste tänka på att prognoser
-inte är 100 procent tillförlitliga.
-Ett yrkes framtid kan styras av många olika
-saker som exempelvis konjunktur och politiska
-beslut. Ingen kan veta exakt hur konjunkturläget ser ut enskilda år i framtiden och det kan
-därför under vissa dåliga år vara svårt att
-snabbt hitta ett jobb inom i stort sett alla yrken.
-I Norge er det Statistisk sentralbyrå (SSB) som
-har hovedansvaret for å dekke behovet for statistikk om det norske samfunnet, herunder lønns- og
-arbeidsmarkedsstatistikk. Statistisk sentralbyrå
-(SSB) påpeker at:
-Både privatpersoner, næringsliv, myndigheter,
-medier, utdanningsinstitusjoner og forskere
-skal ha glede og nytte av norsk offisiell statistikk.82
-SSB forvalter eller har tilgang til en rekke registre
-og datakilder som i fremtiden kan brukes for
-skape statistikk som kan gi veiledningssøkende
-bedre arbeidsmarkedsinformasjon. SSB har også
-begynt å legge til rette for at eksterne nettsteder
-80
-81
-82
-
-http://www.arbetsformedlingen.se/For-arbetssokande/
-Yrke-och-framtid/Yrkeskompassen.html
-www.arbetsformedlingen.se
-www.ssb.no
-
-[Side 116]
-
-114
-
-NOU 2016: 7
-
-Kapittel 7
-
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-lettere kan viderebruke SSBs statistikkpubliseringer gjennom data.ssb.no
-Data.norge.no er et register over åpne data i
-Norge, etablert av Direktoratet for IKT og forvaltning (Difi). Målet er at hele forvaltningen skal
-være med. På data.norge.no presiseres det at
-Åpne offentlige data er data fra offentlig sektor
-gjort tilgjengelige i et slikt format at de kan
-viderebrukes i nye sammenhenger. Data kan
-være alt fra enkle lister og tabeller i saksdokumenter og rapporter til avanserte databaser
-med informasjon fra flere av etatens
-datasystemer.83
-Målet er å bidra til økt verdiskaping gjennom å
-gjøre det lettere å formidle åpne data for viderebruk i nye sammenhenger. Dette er også relevant
-for karrieretjenester.
-Oppsummering
-Dette delkapitlet har sett på hva man vet om effekter av nettbasert karriereveiledning, hvordan
-denne best bør innrettes og hvilke erfaringer og
-valg som er gjort i andre land.
-Tre hovedelementer ble identifisert som viktige i et godt nettbasert tilbud av forskerne bak
-rapporten Get yourself connected.84 Disse tre
-(informasjon, selvhjelpsressurser og tilgang til
-direkte kommunikasjon) finnes også igjen i løsningene som er valgt i blant annet Skottland og
-Danmark.
-Både den skotske løsningen med et bredt
-informasjonsnettsted med en lang rekke selvhjelpsressurser, innloggingsløsning og en mulighet for å bli vist videre til ansikt-til-ansikt veiledning, og den danske med en omfattende e-veiledningstjeneste, har hatt betydning for utvalgets
-anbefalinger.
-Internasjonale sammenligninger og erfaringer vil alltid være viktige, men er spesielt viktige
-her fordi karriereveiledning på nett er et relativt
-nytt felt, og fordi det finnes lite forskning som kan
-påvise direkte årsakssammenhenger mellom karriereveiledning på nett og at folk kommer i utdanning og arbeid, og får en varig tilknytning til
-arbeidslivet. Det finnes likevel grunnlag for å si at
-god karriereveiledning generelt bidrar til bedre
-valg knyttet til utdanning og arbeid. Det er ingen
-grunn til å anta at dette ikke skulle gjelde for
-eksempel e-veiledning, som også vil kunne nå
-83
-84
-
-www.data.norge.no
-Hooley m.fl. (2015)
-
-flere, gjennom lengre åpningstider og tilgang uavhengig av fysisk plassering.
-En integrert tilnærming, der brukerne kan
-veksle mellom ulike former for informasjonstilgang, egenaktivitet og veiledning, anser utvalget
-for å være en forutsetning for at tilbudet skal
-benyttes mye og for at effektene av veiledning
-dermed skal bli så store som mulig.
-Utvalget har i gjennomgangen av andre lands
-løsninger også sett på ulike måter å tilrettelegge
-for åpen tilgang til offentlige data, og også hvordan myndighetene tilrettelegger for at private
-aktører kan bruke data i sine tjenester. Dette er
-spesielt aktuelt i land med store markeder for karriereveiledningstjenester på nett. De fleste landene vi har sett nærmere på har i større eller mindre grad valgt å etablere offentlig finansierte og
-drevne informasjons- og veiledningstjenester på
-nett. Noen har også utviklet spesielle løsninger for
-datadeling, som for eksempel den engelske LMI
-for All.
-Som vi har sett i beskrivelsen, er det private
-markedet i Norge relativt begrenset. Dette anerkjenner også Hooley m.fl.. Norge har en relativt
-liten befolkning, slik at et etterspørselsbasert tilbud aldri vil bli veldig stort. I et slik begrenset
-marked er det naturlig å se for seg at særlig rollene for det offentlige som dreier seg om kvalitetssikring av markedet og å kompensere for markedssvikt ved å gå inn med offentlige tilbud, vil
-være svært omfattende. Videre vil rollen som
-omhandler å stimulere markedet innebære potensielt høye kostnader ettersom det norske markedet i dag er lite.
-Dette indikerer at rollen for det offentlige i en
-norsk kontekst uansett vil være relativt stor. Å tilrettelegge for åpen tilgang til offentlige data kan
-også være et supplement til en offentlig eid og
-drevet karriereveiledningstjeneste. Det er også
-mulig å se for seg en kombinert løsning der et
-offentlig nettsted tilrettelegger for at andre skal
-kunne benytte data derfra.
-Neste kapittel vil komme inn på erfaringer og
-kunnskapsgrunnlag knyttet til nettbasert karriereveiledning i Norge.
-
-7.3.2
-
-Analyser og piloter – Norge
-
-Karriereveiledning på nett har vært aktualisert i
-Norge i flere sammenhenger de senere årene.
-Senter for IKT i utdanningen har siden 2010 gjennomført piloter og fått utarbeidet flere rapporter
-for å skaffe erfaring og gjøre en vurdering av
-mulighetene for å utvikle et e-veiledningstilbud i
-tilknytning til utdanning.no. Nasjonal koordine-
-
-[Side 117]
-
-NOU 2016: 7
-Norge i omstilling – karriereveiledning for individ og samfunn
-
-ringsgruppe for karriereveiledning85 initierte i
-2013 en prosess knyttet til å få utredet et helhetlig
-karriereveiledningstilbud på nett som resulterte i
-en samfunnsøkonomisk analyse. I det følgende
-presenteres hovedfunn fra disse prosessene.
-Et helhetlig karriereveiledningstilbud på nett –
-en samfunnsøkonomisk analyse
-Den samfunnsøkonomiske analysen av et helhetlig karriereveiledningstilbud på nett ble gjennomført av Analyse og Strategi på oppdrag fra Nasjonal koordineringsgruppe for karriereveiledning
-og Vox.86 I rapporten ble et helhetlig tilbud forstått som både å innebære en større grad av samordning mellom aktørene på området, og en utvidelse av tilbudet. Rapporten består, i tillegg til
-selve den samfunnsøkonomiske analysen, av en
-gjennomgang av tilbudet av nettsteder med karriererelevant innhold, en redegjørelse for ansvarsfordeling for offentlig karriereveiledningstjenester, samt informasjon om tilbudet i Danmark,
-Sverige, Finland, Scotland og New Zealand.
-Modeller for samordning
-Det eksisterer som vist tidligere en rekke nettsteder som er relevante for å vurdere befolkningens
-tilgang til karriereveiledningstjenester på nett.
-Men det er stor variasjon i hvor stor grad nettstedene kan sies å ha et formål og innhold som kan
-knyttes direkte an til karriereveiledning. Det varierer også hvor stor del av befolkningen nettstedet
-retter seg mot.
-Seks nettsteder ble av Analyse og Strategi vurdert å være de mest sentrale innenfor dagens
-offentlige tilbud av karriereveiledning på nett og
-ble inkludert i den samfunnsøkonomiske analysen. Disse var: utdanning.no, vilbli.no, nav.no,
-ung.no, samordaopptak.no og nokut.no. Det var
-også disse nettstedene som ble foreslått inkludert
-i et mer helhetlig tilbud.
-Det ble utarbeidet tre ulike modeller for et helhetlig karriereveiledningstilbud på nett, i tillegg til
-et basisalternativ (se figur 7.2).87 I utformingen av
-de tre modellene ble det lagt til grunn at det eksis-
-
-terer et behov for å etablere ett offentlig nettsted
-for karriereveiledning, som også inkluderer e-veiledning. Alle modellene baserte seg på den eksisterende strukturen i utdanning.no.88
-Det er ulikt ambisjonsnivå knyttet til koordinering av de eksisterende nettstedene i de tre
-modellene. «Koordinering» innebærer i denne
-rapporten å trekke ut de aktivitetene som dreier
-seg om karriereveiledning og å overføre utvikling,
-drift og vedlikehold av disse aktivitetene til det
-nye nettstedet. Men i noen tilfeller kan koordinering også dreie seg om å trekke opp grenseflater
-for hvor ansvaret for produksjon av spesifikke tjenester skal ligge. Det er med andre ord ikke
-snakk om å fusjonere eller slå sammen nettjenester. De andre tjenestene/nettstedene består, men
-de delene av innholdet som lettere og eventuelt
-bedre kan utvikles og leveres via et nytt nettsted,
-overføres dit.
-Rapporten peker på tre modeller som innebærer ulik grad av koordinering og samordning
-mellom offentlige nettilbud som har elementer av
-karriereveiledning. Alle modellene har utdanning.no som utgangspunkt når man skal flytte
-oppgaver til ett sted. Den minste modellen innebærer samling og koordinering av veiledningsaktiviteter på nett på Kunnskapsdepartementets
-område, og inkluderer elementer fra for eksempel
-samordna opptak og NOKUT sine nettsteder.
-Neste trinn involverer også flytting av elementer
-fra nettsteder på arbeidsmarkeds- og integreringsfeltet, som nav.no og ung.no. Den største modellen, som også anbefales, inkluderer flytting av
-oppgaver fra vilbli.no som er et fylkeskommunalt
-ansvar, og forvaltningsmessig mer komplisert.
-Hovedfunn
-Den samfunnsøkonomiske analysen ser på nyttevirkningene,89 samt de viktigste kostnadsvirkningene av de tre modellalternativene. Noen av de
-sentrale effektene av økt samordning er, ifølge
-denne analysen:90
-– Enklere tilgjengelighet for veiledningstrengende til karriereveiledning.
-87
-
-85
-
-Nasjonal koordineringsgruppe for karriereveiledning
-består av representanter på ledernivå i Vox, Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet, Senter for IKT
-i utdanningen, IMDi, Universitets- og høgskolerådet og
-Nasjonalt fagskoleråd, og skal drøfte tverrsektorielle problemstillinger og bidra til felles strategier og politikkutvikling på karriereveiledningsfeltet. Koordineringsgruppen
-ledes av direktøren i Vox
-86
-Analyse og Strategi (2014)
-
-115
-
-Kapittel 7
-
-88
-
-Da rapporten ble utarbeidet i konseptfasen, ble det ikke
-fortatt behovsvurderinger knyttet til tjenesteutforming,
-målgruppers spesifikke behov eller stor grad av spesifisering knyttet til utforming av et helhetlig karriereveiledningsnettsted. Analysen ble avgrenset til å omfatte de nettstedene med mest relevant innhold.
-Dette ble bestemt i samråd med arbeidsgruppen og årsaken ble oppgitt å være at utdanning.no har et bredt og
-omfattende karriereveiledningstilbud i dag, med tilhørende
-systemer for å håndtere data og metadata.
+Modellen utvalget foreslår legger til grunn at et nytt nasjonalt karrierenettsted utvikles med utgangspunkt i det eksisterende utdanning.no som er en del av Senter for IKT i utdanningen. Utdanning.no er et allerede godt utviklet nettsted for utdanningsinformasjon med høye brukertall og høy kvalitet. Nettstedet har årlig mellom fire og fem millioner besøk, og både utdanningssøkere og veiledere bruker sidene. Utdanning.no er utviklet gjennom mange år og organisasjonen har samlet mye kunnskap og kompetanse om å drifte en slik type nettsted. Utdanning.no kan utvikles videre og fylles med innhold som er relevant både for de som skal ta utdanningsvalg og de som skal ta valg knyttet til arbeidsliv og karriere. Dette vil både utnytte ressurser som allerede eksisterer og hindre unødvendig bruk av ressurser ved å starte et nettsted fra bunnen av.
+
+Utdanning.no har allerede et godt tilbud når det gjelder utdanningsinformasjon og yrkesbeskrivelser og har også utviklet en god del selvhjelpsressurser. En utvidelse av innholdet og tjenestene vil kreve en utvidelse av staben. I tillegg til å vedlikeholde de eksisterende tjenestene på utdanning.no, må det brukes ressurser på å utvikle nytt innhold og nye tjenester. Det vil være behov for økt bemanning innenfor teknisk utvikling og dataintegrasjon, drift, redaksjonelle medarbeidere og prosjektledere. Det vil i tillegg være behov for innkjøp knyttet til interaksjonsdesign og visualisering, lisenser og hardware, redaksjonelt innhold og statistiske data.
+
+Navn
+
+Nettstedet bør ha et navn som kommuniserer tydelig at den er rettet mot alle og adresserer både utdanning og karriereutvikling. Dette vil innebære kostnader knyttet til for eksempel etablering av en ny merkevare som bør utredes før en slik endring gjennomføres.
+
+Målgruppe og innhold
+
+Målgruppen for nettstedet er hele befolkningen, og derfor må innholdet på nettstedet være mangfoldig. Nettstedet må minimum inneholde informasjon og selvhjelpsressurser. Nettstedet kan også være en viktig kanal for formidling av framtidens kompetansebehov. Eksempler på annen type innhold kan være statistikk og data om arbeidsmarked og jobbmuligheter, redaksjonelle artikler som belyser relevante tema og problemstillinger, bransjeinformasjon, yrkesbeskrivelser, informasjon om utdanningsmuligheter, tips og råd om jobbsøkingsprosessen, informasjon for de som står i fare for å bli oppsagt, informasjon om andre hjelpeinstanser, ulike selvhjelpsressurser for kartlegging av egen kompetanse og interesser og så videre.
+
+Den eksisterende kompetanseressursen for veiledere, rådgivere og lærere kalt veilederforum.no vil ha en naturlig plass på nettstedet og bør videreutvikles.[^327] Utvalget mener at den konkrete utformingen av innhold og formidlingsform på det nye nettstedet må gjøres av en kompetent redaksjon med både informasjons- og karrierefaglig kompetanse. Utvalget ser det som en selvfølge at nettstedet vil ta i bruk den til enhver tid relevante teknologi og digitale plattformer for å formidle det innholdet som produseres til brukerne på best måte.
+
+Design
+
+Med et slikt mangfold av målgrupper og temaer, må det legges stor vekt på at nettstedets innhold er brukervennlig og tilgjengelig. God interaksjonsdesign blir svært viktig. Nettstedet bør utformes på en slik måte at ulike grupper enkelt finner fram til det som er relevant for seg. Det kan for eksempel være egne faner/sider for utdanningssøkende, foreldre, karriereskiftere, jobbsøkere, arbeidsledige. Det kan også lages midlertidige eller mer permanente temasider der spesielt aktuelle tema fremheves, for eksempel i perioder med søknadsfrister til høyere utdanning eller hvis en spesifikk bransje opplever nedgangstider. De fleste nettbrukere anvender (google)søk for å finne fram til den informasjonen de trenger. Søkemotoroptimalisering er derfor avgjørende for at personer lett finner fram til relevant informasjon og aktuelle tjenester på nettstedet. Nettstedet fungerer som inngangsport til e-veiledningstjenesten, som er en egen side på nettstedet. E-veiledningstjenesten må lett kunne nås direkte gjennom (google)søk. Det er en selvfølge at nettstedet utformes i responsiv design, det vil si at den er tilpasset bruk fra alle typer skjermer, både datamaskin, nettbrett og mobil.
+
+**Utdypende om e-veiledningstjenesten**
+
+En nasjonal e-veiledningstjeneste har som mål å gi alle som har behov for det tilgang til en profesjonell veileder med solid veiledningsfaglig og annen kompetanse. Veiledningen vil foregå via chat, telefon, mail, sms og lignende. Brukere av e-veiledning entrer tjenesten via en nettside som er plassert på det nasjonale karrierenettstedet. De kan nå tjenesten både direkte via nettstedets forside og gjennom nettsøk komme direkte til e-veiledningens side. Brukere som ønsker å chate, starter en chat ved å poste et spørsmål i chat-feeden og får svar så snart en veileder er tilgjengelig. Kommunikasjonen foregår skriftlig og i «sanntid». Det er ingen begrensning på hvor lang tid chat-sesjonen kan ta, men erfaring tilsier at de kan ta fra 15 til 60 minutter.[^328] Brukeren kan ta ut en logg over samtalen i ettertid.
+
+E-veiledning kan være relevant både for de som søker svar på enklere spørsmål og er ute etter konkret informasjon og de som har behov for en mer omfattende veiledning. eVejledning i Danmark skiller mellom det de kaller informasjonsveiledning og refleksiv veiledning. Erfaringene viser at 60 prosent av samtalene var refleksjonsveiledninger og 40 prosent informasjonsveiledninger.
+
+Plassering
+
+E-veiledningstjenesten etableres som en egen enhet i den avdelingen i Senter for IKT i utdanningen som får ansvar for nettsted og e-veiledningstjeneste. Fysisk samlokalisering og tett samarbeid med resten av Senter for IKT i utdanningen vil gi effektiv drift, samt at den gjensidige kvalitetsgevinsten mellom nettstedet, e-veiledningstjenesten og senterets øvrige drift vil være høy. Selv om e-veiledningstjenesten integreres med det nye karrierenettstedet, vil det være nødvendig med egen faglig ledelse og administrasjon av tjenesten. Antall ansatte, at de jobber over hele landet, og et kontinuerlig behov for kvalitetssikring og tjenesteproduksjon tilsier dette.
+
+Organisering
+
+E-veiledningstjenesten etableres med en organisasjon bestående av ledelse og en gruppe e-veiledere. Tjenesten bemannes med 24 årsverk.
+
+I de økonomiske beregningene nedenfor er det tatt utgangspunkt i at 14 personer jobber heltid i Tromsø og 19 personer jobber deltid som e-veiledere rundt om i landet. Fordelingen mellom antall veiledere i Tromsø og i resten av landet, og hvem som jobber deltid og hvem heltid, kan selvsagt tenkes annerledes. Dette vil i så fall føre til justeringer i de økonomiske anslagene.
+
+De heltidsansatte jobber sammen i team lokalisert ved Senter for IKT i utdanningen sitt kontor i Tromsø. Det er nødvendig å ha en robust kjernegruppe av e-veiledere, da disse på grunn av åpningstider vil jobbe i turnus. En sentral organisering med et team av heltidsansatte i Tromsø vil være med å sikre kvalitet og profesjonalitet i tjenesten. I tillegg vil en slik organisering gi mulighet for å bygge opp spesialistkompetanse på enkelte problemstillinger.
+
+Resten av e-veilederne jobber deltid og distribuert fra andre deler av landet. I modellen utvalget foreslår jobber det minimum en e-veileder i hvert fylke (19 til sammen). Dette er viktig fordi arbeidsliv, arbeidsmarked og utdanningstilbud kan variere fra landsdel til landsdel. Et nettverk av lokalt baserte veiledere vil kunne ivareta kunnskap om regionale forhold fra alle deler av landet. De lokale veilederne bør ha erfaring fra og ha sin resterende jobbtilknytning i de andre relevante sektorene, både ungdomsskole, videregående opplæring, universitets- og høyskolesektoren, voksenopplæring, NAV og de fylkesvise karrieresentrene. Nettverket må organiseres i relasjon til eksisterende strukturer for karriereveiledning i kommune, fylkeskommune og stat. Kontinuerlig erfaring med ansikt-til-ansikt veiledning og daglig eksponering for lokale problemstillinger, vil være en viktig kompetanse å bringe inn i teamet av e-veiledere.
+
+E-veiledningstjenesten må ha utvidede åpningstider og være tilgjengelig hele uken, også i helgen. Åpningstider vil for eksempel være mandag- torsdag 08.30–22.00, fredag 08.30–18.30 lørdag og søndag 15.00–22.00. På grunn av dette må e-veilederne jobbe i turnus og størrelsen på veilederteamet må dimensjoneres etter en slik modell.
+
+Kapasitet
+
+På bakgrunn av erfaringer fra den danske eVejledning kan et årsverk regne med å håndtere ca. 4000 henvendelser. Med 24 årsverk betyr det at tjenesten årlig kan håndtere opp mot 100 000 henvendelser.
+
+Kompetanse og kvalitet
+
+E-veiledning er en veiledningsform få har erfaring med i Norge. Det vil være nødvendig med kontinuerlig fokus på utvikling av veiledningsmetodikk, fagutvikling og stor grad av erfaringsutveksling for at et slikt faglig nybrottsarbeid skal lykkes. E-veiledning stiller helt egne krav til kompetanse. De som skal være ansatt i tjenesten må fra start få solid og relevant opplæring i rollen som e-veileder. I en slik tjeneste som har alle som målgruppe, vil veilederne møte alle slags personer og problemstillinger. Det tilsier at e-veilederne må ha bred veiledningskompetanse og kunne mye både om utdanningstilbud, karriereveier, arbeidsliv og arbeidsmarked, rettigheter, andre velferdstjenester og så videre.
+
+Den tekniske løsningen legger til rette for at veilederne, både de som jobber i andre deler av landet og de som jobber i teamet i Tromsø, kan ha kontinuerlig kontakt i et digitalt møterom. De kan kommunisere med hverandre på et «bakrom» både underveis og mellom veiledninger, og kan derfor nyttiggjøre seg av hverandres kompetanse og erfaring på tvers av sektor. Forsøket med e-veiledning ved Senter for IKT viste at veilederne etablerte et godt miljø for utveksling av kompetanse og erfaringer i det digitale møterommet, og dette bidro til den faglige kvaliteten på veiledningen.
+
+**Samspill mellom nettsted og e-veiledningstjeneste**
+
+Det vil være en rekke fordeler knyttet til at nettstedet og e-veiledningstjenesten utvikles og driftes i tett samspill. Det at nettstedet og e-veiledningen er del av samme organisasjon vil bety at ressursene utnyttes godt, fordi både den tekniske og den veiledningsfaglige kompetansen kan brukes mot begge tjenestene. Nettstedet vil kunne være et selvfølgelig verktøy for e-veilederne og representere en effektiv ressurs for dem underveis i veiledningssesjonene. Gjennom sin ekstensive kontakt med brukere, vil veilederne kunne være en ressurs for å utvikle nettstedets innhold og kvalitet. De vil raskt erfare og fange opp manglende innhold på nettstedet, som meldes inn til redaksjonen. E-veiledningstjenesten skal til dels bemannes med personer som jobber i ulike fylker og i flere sektorer. Dette vil gi tilgang til personer med mye regional kunnskap, noe som også kan komme nettstedet til nytte. Det kan for eksempel være aktuelt at e-veilederne leverer redaksjonelt innhold til nettstedet, basert på sin spesialistkompetanse. De lokalt baserte e-veilederne vil også være viktige ambassadører for nettstedet og kan tenkes å fungere som ressurspersoner i opplæring av andre veiledere når det gjelder nytte og bruk av nettstedets ressurser.
+
+Det påtenkte redaksjonsrådet og referansegruppen vil representere en viktig ressurs for kvalitetssikring av nettstedet og e-veiledningstjenesten. Kontakt og samarbeid med representanter fra de ulike sektorene i disse organene vil gi tilgang til kompetanse og ressurspersoner som kan være med å sikre at nettstedet er relevant for alle målgrupper.
+
+**Utvalgets begrunnelser for å anbefale denne modellen**
+
+- Det er samfunnsøkonomisk lønnsomt å gi befolkningen bedre tilgang til relevant og kvalitetssikret informasjon, selvhjelpsressurser og e-veiledning.
+
+- Det er per i dag ikke et stort og vitalt nok privat marked i Norge til at det uten offentlig innsats vil utvikles gode nok tjenester som gir befolkningen tilgang til kvalitetssikret karriererelevant informasjon og e-veiledning.
+
+- Utdanning.no er et etablert kompetansemiljø som kan utvikle og drifte et karrierenettsted på en profesjonell måte. Å bygge videre på og utvide den organisasjonen vil utnytte ressursene som allerede eksisterer, samt sikre at innholdet i det eksisterende utdanning.no integreres i det nye nettstedet.
+
+- Samarbeid og grensedragning mot andre offentlige aktører som produserer nettbasert informasjon vil ivaretas av et redaksjonsråd og en referansegruppe.
+
+- Etablering av et nettsted med informasjon/selvhjelp og en e-veiledningstjeneste vil representere en utvidelse av kapasiteten når det gjelder karriereveiledning i Norge. Etablering av disse tjenestene kan frigjøre kapasitet for fysiske veiledningsmøter for personer med mer komplekse spørsmål.
+
+- Kompetanse og ressurser kan utnyttes bedre når de samles i en organisasjon som drifter begge tjenestene. Å etablere en e-veiledningstjeneste i tilknytning til et nytt karrierenettsted vil virke gjensidig forsterkende på de to tilbudene. Nettstedet vil bli kvalitetssikret av å eksponeres for tilbakemeldinger fra bruk i e-veiledning. E-veilederne vil bruke nettstedet som en viktig kilde.
+
+- En stor modell for e-veiledningstjenesten vil kunne håndtere opp mot 100 000 henvendelser i året. Tjenesten vil bety en markant utvidelse av tilgangen til profesjonell karriereveiledning for befolkningen.
+
+- Kunnskap om regionalt arbeidsmarked og utdanning og sektorbasert kompetanse ivaretas best i en distribuert modell med e-veiledere i alle fylker. Summen av kompetanse i teamet kan svare til et mangfold av brukerbehov. En stor modell for e-veiledningstjenesten med 24 årsverk vil sikre en robust tjeneste med solide åpningstider.
+
+  1.  **Nettbasert karriereveiledning – del av en helhet**
+
+Utvalget er i sitt mandat bedt om å se på «*hvordan et nasjonalt karriereveiledningstilbud på nett kan bli en integrert del av et helhetlig system for livslang karriereveiledning*». Utvalget skal i sin hovedinnstilling gå nærmere inn på hvordan et helhetlig system for livslang karriereveiledning kan og bør utformes. Det har vært en utfordring for utvalget å konkludere med hvordan et nettbasert karriereveiledningstilbud kan bli en integrert del av helheten, før de ulike aspekter ved et helhetlig system for livslang karriereveiledning er utredet og diskutert.
+
+Utvalget tar forbehold om eventuelle endringer som kan komme i utvalgets hovedinnstilling. Det er derfor ikke hensiktsmessig å gå langt inn i detaljer for samspill mellom nettjenesten og de øvrige karriereveiledningstjenestene.
+
+Figur 7.4 gir likevel en illustrasjon av hvordan utvalget ser for seg at de ulike tilbudene nettsted, e-veiledning og ansikt-til-ansikt/«fysisk» veiledning kan fungere sammen i en helhet. Folk har ulike behov i ulike situasjoner. Utvalget mener at et helhetlig karriereveiledningstilbud bør legge til rette for at folk kan ta i bruk den type tjeneste de foretrekker og som er mest relevant gitt den situasjonen han eller hun er i.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Et helhetlig karriereveiledningstilbud på nett
+
+\* Inkluderer all karriereveiledning som foregår i form av fysiske møter, først og fremst ansikt-til-ansikt veiledning, men også kurs, opplæring, undervisning osv.
+
+En del av befolkningen vil aldri ta i bruk eller oppsøke karriereveiledning, verken fysisk eller på nett (lyst felt). Av de som har behov for karriereveiledning, vil det variere hvilken tjeneste de først oppsøker (pilene til venstre). Noen trenger først og fremst informasjon og vil finne det de trenger på nettstedet. Der ligger det også ulike selvhjelpsressurser og en del vil få tilfredsstilt sine behov ved å bruke disse. Andre vil ha behov for kontakt med en karriereveileder. For noen vil det være tilstrekkelig og kanskje også ønskelig å møte veilederen på nett via e-veiledning. Andre vil ha behov for å møte en veileder ansikt-til-ansikt.
+
+Det å ta et valg er en prosess. Noen vil derfor ha behov for å benytte seg av flere tjenester, enten samtidig eller på ulike tidspunkt (slik de vertikale pilene illustrerer), alt etter som hvilken fase i valgprosessen man er. Det er brukerne selv som vurderer hva han eller hun har behov for og oppsøker tjenestene deretter. Det er ikke tenkt inn noen form for silingsmekanisme som skal styre personer til et eller et annet tilbud.
+
+Utvalget mener at en slik løsning vil sikre at folk har tilgang til karriereveiledningstjenester etter eget behov. Ansikt-til-ansikt veiledning er den mest ressurskrevende formen for veiledning. Det er en ambisjon at forholdsvis mange vil få tilfredsstilt sine behov ved hjelp av de «billigere» tjenestene nettbruk og e-veiledning. På den måten kan den mest ressurskrevende tjenesten, nemlig ansikt-til-ansikt veiledning, ha bedre kapasitet til å møte de som har mer komplekse spørsmål.[^329]
+
+1.  **Anbefalinger for forvalting av et nettbasert karriereveiledningstilbud**
+
+For utviklingen og driften av nettsted for karriereveiledning med tilknyttet e-veiledning har utvalget følgende vurderinger og anbefalinger knyttet til organisering og forvaltning:
+
+Klare styringslinjer
+
+Utvalget anbefaler at nettstedet og e-veiledningstjenesten eies av Kunnskapsdepartementet. Kunnskapsdepartementet har ansvar for å koordinere kompetansepolitikken og for majoriteten av tjenestene som berøres. Utvalget mener at en slik klar ansvarslinje bør opprettholdes. Samarbeidet med arbeidsmarkedsmyndighetene og integreringsmyndighetene bør først og fremst ivaretas gjennom det foreslåtte redaksjonsrådet. Dette samarbeidet er viktig for å sikre at nettstedet blir et nyttig verktøy både for veiledere og de som søker veiledning og informasjon.
+
+Det bør videre utarbeides koordinerte styringssignaler fra Kunnskapsdepartementet, Arbeids- og sosialdepartementet og Justisdepartementet til berørte underliggende etater, som pålegger både Senter for IKT i utdanningen (drifter av nettstedet), Vox, Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet og Integrerings- og mangfoldsdirektoratet å samarbeide om nettstedet og e-veiledningstjenesten. Det bør også utvikles mekanismer for å sikre at de andre underliggende etatene er involvert i strategiske vurderinger rundt nettstedets innhold og prioriteringer.
+
+Vox har i oppdrag å koordinere karriereveiledningsfeltet nasjonalt og bidra til kvalitet og profesjonalitet i tjenestene. Vox’ rolle og kompetanse må trekkes inn i utviklingen av de nettbaserte tjenestene gjennom etablering av en styringsgruppe i oppstartsfasen.
+
+Utvalget anbefaler også at regjeringen pålegger alle relevante offentlige aktører å dele data av relevans for nettstedet der dette er mulig. Regjeringen bør også pålegge nettstedet å dele sine data. Dette er i tråd med prinsipper for digital forvaltning lansert i stortingsmeldingen Digital agenda for Norge.[^330] Dette gir også en bedre ressursutnyttelse av data innsamlet av offentlige instanser, gjennom at de gjøres tilgjengelig for flere. Et slikt pålegg vil minske behovet for at den etaten som er ansvarlig for nettstedet bruker tid på å fremforhandle avtaler om datadeling.
+
+Samarbeidsflater og grensedragninger
+
+Det finnes per i dag flere offentlig finansierte nettsteder som har tjenester som enten overlapper med eller grenser tett opp til tilbudet utvalget anbefaler at finnes på et nytt nettsted. Der hvor overlappet er betydelig, vil det være av stor viktighet at man på eiernivå trekker opp grensene mellom hva et nytt nettbasert karriereveiledningstilbud skal bidra med, og hva de eksisterende tilbudene skal bidra med, og ikke minst hvordan disse kan samarbeide og vise til hverandre for informasjon. Etter utvalgets mening er de to viktigste aktørene[^331] da nav.no og vilbli.no:
+
+- vilbli.no har detaljert og oppdatert informasjon om videregående opplæring og ivaretar fylkeskommunenes informasjonsplikt. Det er svært viktig at Kunnskapsdepartementet går i dialog med fylkeskommunene og VIGO IKS som eier vilbli.no for å avklare grensedragninger og samarbeid mellom et nytt nettsted og vilbli.no. Samarbeid og datadeling mellom et nytt nettsted og vilbli.no vil gjøre det lettere for brukerne å finne fram, men også enklere å utvikle nye tjenester for både ungdomstrinnet, videregående nivå og voksne som skal gjennomføre grunnopplæring. Et nytt nettsted bør kunne gi god informasjon om videregående opplæring, men vilbli.no har store mengder nødvendig detaljinformasjon om videregående opplæring som av ressursmessige årsaker ikke bør dupliseres. Det vil også være potensielt store økonomiske besparelser for både stat og fylkeskommune i at nettstedene samarbeider godt og unngår dobbeltarbeid. For å oppnå besparelser og gjøre tilbudet mer oversiktlig for brukerne, anbefaler utvalget at det gjøres en grensedragning der vilbli.no konsentreres om kvalitetssikret detaljert informasjon om videregående opplæring, mens det nye nettstedet står for de andre typene av innhold, så som selvhjelpsressurser og online kommunikasjon, men nettstedet må også ha tilstrekkelig og kvalitetssikret informasjon om alle utdanningsnivåer, inkludert videregående opplæring.
+
+- nav.no er også en meget ekstensiv side, med arbeidsmarkedsinformasjon, noen selvhjelpsressurser, i tillegg til informasjon om rettigheter, stønader og ytelser. Utvalget har fått informasjon fra Arbeids- og velferdsdirektoratet om NAVs kanalstrategi og planer for videreutvikling av nav.no.[^332] Strategien inkluderer blant annet planer om at brukerne skal benytte nettbaserte løsninger for enklere henvendelser og å utvikle mer omfattende selvbetjeningsløsninger og sikre kanaler for elektronisk kommunikasjon. Dette er et utviklingsarbeid som er på planleggingsstadiet og utvalget mener det er svært viktig at Kunnskapsdepartementet og Arbeids- og sosialdepartementet har en tett dialog om grensedragninger og samarbeidsflater mellom et nytt nav.no og et nytt nettsted for karriereveiledning. Igjen vil det være ressursbesparende å sørge for at man ikke dupliserer noe. Det kan også tenkes at innhold og tjenester på det nye nettstedet, kan støtte opp under NAVs målsetninger om å få flere i arbeid raskere ved at folk bruker nettstedet og e-veiledningstjenesten samtidig som de er brukere av NAVs tjenester.
+
+Det er viktig at man på eiersiden (departementer og fylkeskommuner) går inn og blir enige om hvilken aktør som skal ta hovedansvaret for hva. For både nav.no og vilbli.no gjelder at de oppfyller en del lovpålagte informasjonsoppgaver. Dette vil det etter utvalgets mening ikke være aktuelt å rokke ved. Nettstedet utvalget anbefaler å etablere vil tilby mye mer enn bare informasjon, men det bør også tilby god og oppdatert informasjon. Der hvor denne best produseres på et eksisterende nettsted, bør ikke nettstedet produsere denne informasjonen. Samtidig vil nettstedet tilby et bredt spekter av selvhjelpsressurser. Dette finnes det for eksempel noen relativt utdaterte versjoner av på nav.no, utviklet på 90-tallet. Slike verktøy er dyre å gjøre gode, og er et eksempel på et tilbud som bare bør utvikles ett sted, og heller brukes av alle.
+
+Plassering av nettstedet og tilhørende organisasjonskart
+
+Nettstedet bør utvikles og driftes av en instans som besitter kompetanse på informasjonsteknologi, karriereveiledning, utdanning og arbeidsmarked. Men for at nettstedet skal treffe målgruppen og bli brukt, må det ligge informasjonsfaglig og teknologisk i front. Nettstedet må også gjøres kjent og være søkemotoroptimalisert. Utdanning.no er en godt utviklet, eksisterende merkevare med over fire millioner besøk i 2014. Utvalget mener derfor at utdanning.no bør være utgangspunktet for et nytt nettsted, med et bredere formål enn dagens løsning. Dette er også anbefalingen i den utførte samfunnsøkonomiske analysen av et helhetlig karriereveiledningstilbud på nett.[^333]
+
+Driften av utdanning.no ligger hos Senter for IKT i utdanningen, og utvalget anbefaler derfor at det redaksjonelle ansvaret legges dit. Dersom nettstedet legges til utdanning.no, anbefaler utvalget også at det etableres gode strukturer for å samarbeide tett med Vox, Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet, de fylkesvise partnerskapene for karriereveiledning og andre relevante aktører for å sikre en tjeneste som er karrierefaglig godt fundert.[^334]
+
+For å gi faglig forankring og påvirkning til innholdet i nettjenesten anbefales det å etablere et redaksjonsråd med Senter for IKT i utdanningen og de mest sentrale aktørene på feltet som Vox, Utdanningsdirektoratet og Arbeids- og velferdsdirektoratet, Inkluderings- og mangfoldsdirektoratet og eventuelt andre aktører som defineres som sentrale. Disse vil være viktige kvalitetssikrere og innholdsleverandører til tjenesten.
+
+En større referansegruppe, med relevante aktører på feltet, der blant annet partene i arbeidslivet inviteres inn, vil også være hensiktsmessig etter utvalgets mening.
+
+I en oppstartfase anbefales det også å etablere en midlertidig styringsgruppe der de berørte underliggende etatene Vox, Utdanningsdirektoratet, Arbeids- og velferdsdirektoratet og Integrerings- og mangfoldsdirektoratet inviteres inn for å være involvert i strategiske vurderinger rundt det nettbaserte tilbudets innhold og prioriteringer. Representasjon i den midlertidige styringsgruppen bør være på ledernivå.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Forvaltning
+
+E-veiledningen
+
+Når det gjelder forvaltningen av en distribuert modell for e-veiledning er denne avhengig av at det legges føringer fra sentralt hold som åpner for at rådgivere i skolen, karriereveiledere i karrieresentre og NAV-veiledere kan være ansatt i delte stillinger i Senter for IKT i utdanningen.
+
+I de økonomiske beregningene nedenfor, tar utvalget utgangspunkt i at kostnader knyttet til husleie og kontorplass for e-veilederne som jobber rundt om i landet dekkes av stedlig arbeidsgiver. E-veiledningstjenesten vil også være avhengig av å ha god kontakt med karriereveiledere og rådgivere som jobber i sektorene, og det bør etableres strukturer som sikrer dette. I hovedinnstillingen vil utvalget anbefale hvordan slike strukturer bør bygge på eller henge sammen med de eksisterende strukturene for koordinering og samarbeid sektorene imellom på karriereveiledningsfeltet, lokalt og sentralt.
+
+1.  **Økonomiske og administrative konsekvenser**
+
+Utvalget estimerer følgende økonomiske og administrative kostnader dersom man følger utvalgets anbefaleringer om å velge alternativ 2B (med den mest omfattende e-veiledningstjenesten) i modellen som er beskrevet.
+
+De økonomiske kostnadene er knyttet til to hovedelementer: oppstart, utvikling og drift av nettstedet, og oppstart, utvikling og drift av e-veiledningstjenesten knyttet til nettstedet. Utvalget har bedt Senter for IKT i utdanningen om å estimere kostnadene ved å videreutvikle og drifte et nettsted med utgangspunkt i utdanning.no, ettersom dette er utvalgets anbefalte løsning. Senteret har også estimert kostnadene knyttet til en e-veiledningstjeneste. I tillegg har utvalget sett til beregninger fra rapporten *Samfunnsøkonomisk analyse av karriereveiledning på nett* i sine anslag.[^335]
+
+Utvalget har gitt en detaljert redegjørelse for anslåtte økonomiske og administrative konsekvenser for sine anbefalinger i sin delrapport.[^336] I det følgende gjengis totale kostnader for anbefalingen.
+
+Totale kostnader for et karriereveiledningstilbud på nett
+
+Utvalget har presentert en modell som innebærer muligheter for opp- og nedskalering. De beregnede kostnadene er for den mest omfattende varianten.
+
+Totale *oppstartskostnader* for utvalgets anbefalte modell for nettbasert karriereveiledning, inklusive e-veiledning er på mellom 8 millioner kroner og 18 millioner kroner, avhengig av hvor rask oppstart av nettstedet skal være.
+
+Totale årlige *driftskostnader* for utvalgets anbefalte modell for nettbasert karriereveiledning, inklusive e-veiledning er på 37 millioner kroner. I tillegg kommer eksisterende budsjett for utdanning.no på 10 millioner kroner. Årlige utgifter til en nettbasert karriereveiledningstjeneste etter utvalgets anbefalte modell vil ligge på om lag *47 millioner kroner*.
+
+Øvrige kost/nytte-betraktninger og antatte besparelser
+
+Etableringen av et nettsted og en e-veiledningstjeneste vil kunne innebære ressursbesparelser i andre etater og organisasjoner, fordi noen av oppgavene de i dag utfører vil bli ivaretatt av det nye nettbaserte karriereveiledningstilbudet. For e-veiledningstjenestens del er det rimelig å anta at den vil kunne besvare en del henvendelser som ellers ville bli rettet til den fysiske veiledningstjenesten. Ved at e-veiledningstjenesten «tar unna» en del henvendelser, kan det bli bedre kapasitet til å møte de som har mer komplekse spørsmål i de fysiske tjenestene. Nettstedet vil inneholde kvalitetssikret informasjon, relevant redaksjonelt innhold og flere typer selvhjelpsressurser. Andre offentlige nettsteder som så langt har produsert lignende innhold og tjenester, kan spare ressurser på å overlate fremtidig produksjon av denne typen innhold til nettstedet og heller lenke til denne fra sine egne sider.
+
+Utvalget ønsker også å vise til tallene fra den tidligere omtalte samfunnsøkonomiske analysen av en e-veiledningstjeneste, som viser de potensielle positive effektene på feilvalg og frafall økt tilgang til karriereveiledning kan antas å ha. Strategi og Analyse[^337] estimerer at feilvalg og frafall i en tyveårsperiode koster samfunnet 220 milliarder kroner.[^338] En investering i mer tilgjengelig karriereveiledning vil ifølge analysen kunne begrense disse kostandene betraktelig. I tillegg er det rimelig å anta at gjennom mer tilgjengelig veiledning vil gjennomstrømming i utdanningsløpet for øvrig øke. Det kan også bidra til at flere blir værende i arbeidslivet og/eller kommer i arbeid. Den samfunnsøkonomiske nytteverdien av nettbasert karriereveiledning som er tilgjengelig for alle må derfor kunne sies å være stor.
+
+Utvalget legger også til grunn at det nettbaserte tilbudet vil være et viktig element i kompetansespredning og kompetanseheving hos rådgivere og veiledere generelt, og at det vil være et nyttig verktøy til bruk i veiledning for disse. Man kan anta at dette kan bidra til økt kvalitet i karriereveiledningen.
+
+Administrative konsekvenser
+
+Modellen utvalget anbefaler for forvaltning vil innebære behov for at aktører som skal delta i redaksjonsråd og eventuelle større referansegruppe setter av tid og ressurser til dette arbeidet.
+
+Det vil også være nødvendig at Kunnskapsdepartementet gjør endringer i styringsparametere til underliggende etater, slik at disse har styringsparametere som er i tråd med deres rolle i oppfølgingen og drift av en nettbasert tjeneste.
+
+Likeledes vil det være nødvendig at Arbeids- og sosialdepartementet har tilsvarende styringsparametere for Arbeids og velferdsdirektoratet, og Justisdepartementet for Integrerings- og mangfoldsdirektoratet.
+
+En forutsetning for at det på nettstedet kan utvikles relevante og kvalitetssikrede informasjonstjenester, er at det får effektiv tilgang til ulike offentlige data. Det vil derfor være nødvendig å vurdere endringer i styringen av andre etater, for å legge til rette for datadeling mellom disse og det nye nettstedet. Dette gjelder for eksempel, NAV, Vigo IKS/vilbli.no, SSB, NOKUT, Samordna opptak. For Vigo IKS/vilbli.no vil det være nødvendig å gå i dialog med fylkeskommunalt nivå som eier tjenesten, om hvordan også vilbli.no kan dele data med det nye nettstedet.
+
+1.  **Karriereveiledning i grunnopplæringen**
+
+Utvalget legger til grunn en forståelse av karriereveiledning som «tjenester og aktiviteter som skal hjelpe personer, uavhengig av alder og tidspunkt i livet, til å ta valg når det gjelder utdanning, opplæring og arbeid, og til å håndtere egen karriere». Karriereveiledning i grunnopplæringen omhandler dermed både oppfølging i konkrete overgangsfaser underveis i opplæringsløpet, og et kontinuerlig arbeid med å sette elever i stand til å håndtere egen karriere, herunder forskjellige overganger.
+
+Fokuset på en gradvis utviklingsprosess og progresjon er tydeliggjort i forskrift til opplæringslovens bestemmelser om utdannings- og yrkesrådgivning hvor det står:
+
+Eleven skal gradvis bli bevisst sine eigne interesser, dugleikar og verdiar, og få kunnskap, sjølvinnsikt og evne til sjølv å kunne ta avgjerd om yrkes- og utdanningsval. Rådgivinga skal også utvikle eleven sine evner til å vurdere moglege konsekvensar av val og førebyggje feilval. Frå 8.–13. årstrinn skal rådgivinga leggjast opp som ein prosess.[^339]
+
+Gitt forståelsen av karriereveiledning som legges til grunn, baserer utvalget sine vurderinger på at karriereveiledning i grunnopplæringen eksplisitt omfatter den forskriftsfestede retten i rådgivning (særlig utdannings- og yrkesrådgivning), fagene utdanningsvalg og arbeidslivsfaget på ungdomstrinnet og faget prosjekt til fordypning på yrkesfaglige studieprogram i videregående opplæring. Samtidig ser man en tydelig sammenheng mellom formålet i skolen, slik det er formulert i formålsparagrafen, og formålet med karriereveiledning.
+
+Utvalget mener at utdannings- og yrkesrådgivningen bør omtales som karriereveiledning og vil i denne teksten gjøre dette der det er naturlig, men der hvor utvalget omtaler dagens system, vil rådgivning og utdannings- og yrkesrådgivning fortsatt benyttes.
+
+1.  **Overganger i grunnopplæringen**
+
+Overganger i grunnskolen og til videregående opplæring
+
+For å oppnå gode overganger gjennom utdanningsløpet, er det nødvendig at skolen eleven skal begynne på får tilstrekkelig informasjon til å kunne tilrettelegge for den enkelte elev så raskt som mulig. Et av tiltakene i St.meld. nr. 44 (2008–2009) Utdanningslinja var å etablere gode systemer for overføring av relevant informasjon om elevene mellom grunnskolen og videregående opplæring.
+
+Det er mye å vinne på å gjøre overganger så gode som mulig for elevene. Mange kommuner har egne planer for å sikre gode overganger mellom barnehage og skole og mellom barneskole og ungdomsskole, og mellom ungdomsskole og videregående skole. Kjernepunkter i planene er å sørge for solid informasjonsflyt, slik at man kan lage opplegg bygget på eksisterende kunnskap og bakgrunn om eleven.
+
+Overgangen fra grunnskole til videregående opplæring skjer ytre sett fra dag én etter sommerferien, men forberedes gjerne i lang tid forut for dette. Ved alle ungdomsskoler i Norge settes det tidlig i elevenes ungdomsskoleperiode i gang et arbeid for å forberede dem på å treffe det første, store valget om fremtidig utdanning og yrke. Mange opplever valget av videregående opplæring som dramatisk og avgjørende, og det er derfor ekstra viktig at skolen bidrar med god informasjon og veiledning i forbindelse med denne overgangen.
+
+Videre er det slik at de faglige og sosiale utfordringene øker på ungdomstrinnet. Kravene til god kontakt skole-hjem, elev-lærer og elev-rådgiver øker derfor også.
+
+Ulike tiltak som har som siktemål å bedre overgangen mellom grunnskole og videregående opplæring kan være aktuelle å iverksette for å lykkes med en god overgang mellom disse to skolenivåene. En av hensiktene med ulike tiltak kan være å øke andelen som fullfører videregående opplæring med formell kompetanse. De senere årene har det vært betydelig oppmerksomhet rundt høye frafallsprosenter fra videregående opplæring. God rådgivning er av høy prioritet. Best mulig karriereveiledning skal gi grunnlag for at de unge treffer gode valg.
+
+Elever på siste år i ungdomsskolen er i ferd med å avslutte ti års obligatorisk opplæring. Det er viktig at de da har et best mulig grunnlag for å ta valg for sin videre utdanning og senere overgang til arbeid. God karriereveiledning er et sentralt bidrag i denne prosessen. Mangel på karriereveiledning kan føre til at eleven tar valg som ikke viser seg å være hensiktsmessige. Mange elever finner seg ikke til rette på det programmet de har valgt og ønsker å gjøre omvalg eller å slutte. For mange velger å slutte.
+
+Overganger i videregående opplæring
+
+En av de tydeligste målsetningene for skolens karriereveiledning i grunnopplæringen er knyttet til arbeidet med å øke gjennomføringen av videregående opplæring. Gjennom *Program for bedre gjennomføring i videregående opplæring* har Kunnskapsdepartementet i samarbeid med fylkeskommunene forsøkt å identifisere kritiske overganger der det er særlig viktig å sette inn tiltak (se Figur 8.1 ).[^340] Definisjonen av hva som er kritiske faser, er gjort både med utgangspunkt i et erfaringsbasert kunnskapsgrunnlag basert på innspill fra fylkeskommunene, og på et forskningsbasert kunnskapsgrunnlag.
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Overganger i grunnopplæringen
+
+Kunnskapsdepartementet: Program for bedre gjennomføring i videregående opplæring
+
+På bakgrunn av dette kunnskapsgrunnlaget er det utviklet et rammeverk for bedre gjennomføring som tydeliggjør hva som anses som kritiske overganger. Rammeverket skal gi grunnlag for å øke systematikken i fylkeskommunens arbeid med å finne gode tiltak for målgruppen. Modellen starter med overgangen mellom ungdomstrinnet og videregående skole.
+
+Noen overganger i videregående opplæring er antatt å være mer kritiske enn andre, og utvalget anser at karriereveiledning er spesielt viktig for elevene og/eller lærlingene når det for eksempel gjelder overgangen fra videregående trinn 2 (Vg2) til lærlingeordning eller til tredje påbyggingsår (3 PÅ) for å få generell studiekompetanse. Her er frafallet stort.
+
+Andelen elever som ikke blir lærlinger, men går over til tredje påbyggingsår har økt fra 2,5 prosent til 9,4 prosent fra innføringen med reform 94 til 2007.[^341]
+
+Over ti tusen elever går hvert år over fra fag- og yrkesopplæring til Vg3 påbyggingsår. To av fem elever består ikke. Karriereveiledning i denne overgangen er derfor essensielt. Dette trekkes også frem av Utdanningsdirektoratet i publikasjonen *Hva kjennetegner elever som lykkes:*
+
+Økt oppmerksomhet om forutsetningene for å bestå påbyggingsåret har fått noen fylkeskommuner til å innføre strengere inntakskrav og redusere antall påbyggingsklasser. Dette kan virke restriktivt for noen elever som har hatt påbygging som langsiktig mål, og vil ikke kunne ta hensyn til andre individuelle forhold, som motivasjon. Men god rådgivning om hva påbyggingsåret krever, er utvilsomt nødvendig.[^342]
+
+Fra videregående opplæring til høyere utdanning
+
+God sammenheng mellom videregående opplæring og høyere utdanning er sentralt. Studieforberedende utdanningsprogrammer bør gjøre elevene kjent med hva som kreves når de blir studenter. I Norge fullfører om lag 60 prosent av studentene en grad, mens 68 prosent er gjennomsnitt i OECD landene.[^343]
+
+For at elevene skal være bedre forberedt, og overgangen og gjennomstrømmingen i høyere utdanning skal bli bedre, mener utvalget en må bidra til at elevene gjennom karriereveiledning i videregående opplæring er best mulig forberedt til å treffe gode og bevisste valg. Refleksjon og bevisstgjøring rundt egne personlige egenskaper, interesser, talenter, verdier og holdninger bør begynne så tidlig så mulig i utdanningsløpet.
+
+1.  **Tilbudet i dag**
+
+Formål og innhold i rådgivningen i grunnopplæringen er nært knyttet til formålet med opplæringen. I innledningen til den generelle delen av læreplanen formuleres grunnopplæringens formål slik:
+
+Målet for opplæringa er å ruste barn, unge og vaksne til å møte livsens oppgåver og meistre utfordringar saman med andre. Ho skal gi kvar elev kompetanse til å ta hand om seg sjølv og sitt liv, og samtidig overskott og vilje til å vere andre til hjelp.[^344]
+
+Skolen skal bidra til elevenes personlige, sosiale og faglige utvikling og læring, og kvalifisere dem for et godt liv, slik at de kan fungere på ulike arenaer i samfunnet og bidra til samfunnets vekst og utvikling. Skolens samfunnsmandat er vidt og omfatter flere sider ved eleven enn det kognitive. Blant annet skal elevene utvikle demokratiske verdier, utfolde skaperglede og lære å handle etisk. I sin behandling av kompetanser, viser Ludvigsen-utvalget til at et så omfattende oppdrag også stiller krav til kompetansebegrepet. Utvalget legger i sitt arbeid til grunn et bredt kompetansebegrep hvor kompetanse «*handler om å kunne løse oppgaver og møte utfordringer i ulike sammenhenger og omfatter både kognitive, praktiske, sosiale og emosjonelle sider ved elevens læring, inkludert holdninger og etiske vurderinger*».[^345] Et slikt bredt kompetansebegrep gir koblinger til grunnopplæringens formål. Rådgivningen skal bidra til grunnopplæringens arbeid med å oppfylle sitt samfunnsmandat.
+
+Rådgivningen skal også bidra til å utjevne sosiale forskjeller, til integrering av etniske minoriteter og til å sikre at elevene gjennomfører det 13-årige utdanningsløpet. Rådgivningen skal også ivareta et likestillingsperspektiv ved å bidra til at elever får den hjelpen de trenger for å utnytte og utvikle egne ressurser, uten hensyn til tradisjonelle kjønnsroller.
+
+To former for rådgivning
+
+Rådgivningen i grunnopplæringen har to former, sosialpedagogisk rådgivning og utdannings- og yrkesrådgivning.
+
+Sosialpedagogisk rådgivning skal mer spesifikt medvirke til at den enkelte elev finner seg til rette i opplæringen. Den skal hjelpe elevene med personlige, sosiale og emosjonelle problemer som kan ha betydning for elevenes opplæring og sosiale forhold på skolen, og har berøringspunkter med læringsmiljøfeltet og arbeidsområder knyttet både til PP-tjenesten og skolehelsetjenesten.
+
+Utdannings- og yrkesrådgivningen innebærer rett til rådgivning og veiledning om blant annet valg av utdanning og yrker, informasjon om utdanningsveier i Norge og andre land, kunnskap om arbeidsmarkedet både nasjonalt og internasjonalt og opplæring i å benytte ulike rådgivningsverktøy. Utdannings- og yrkesrådgivningen skal hjelpe elevene til å bli bevisst egne verdier, interesser og forutsetninger, til selvinnsikt, kunnskap og evne til å foreta egne valg om utdanning og yrke, og til å vurdere konsekvenser av valgene og forebygge feilvalg.
+
+I det brede oppdraget grunnopplæringen har, er sammenhengen mellom de to rådgivningsformene åpenbar. I denne rapporten legges likevel hovedvekten på utdannings- og yrkesrådgivningen.
+
+1.  **Organisering og rettigheter**
+
+Det er skoleeier som har ansvaret for organisering av rådgivningen. Opplæringsloven og forskrift til opplæringsloven stiller ikke detaljerte krav til hvordan dette gjøres i praksis.
+
+Det er ulik praksis mellom skoleeiere og mellom skoler i hvordan rådgivningen organiseres for å oppfylle elevenes rettigheter. Noen steder er ansvaret for de to formene for rådgivning lagt til ulike personer i rådgiverstilling, med et mer eller mindre tydelig organisatorisk og tematisk skille mellom rådgivningsformene. Andre steder er skillet mindre tydelig. I en evaluering av skolens rådgivning viser forfatterne til at en slik deling av oppgavene langt på vei har blitt anbefalt av myndighetene, men at mange rådgivere fortsatt er skeptiske til at det å skille de to rådgivningsformene vil bidra til økt kvalitet på begge områder.[^346] Likevel viser resultatene at rådgivere ved skoler som har delt rådgivningen i overveiende grad mener at dette fungerer godt og er en god måte å organisere rådgivningen på.[^347]
+
+Rett til nødvendig rådgivning
+
+Den enkelte elev har en individuell rett til nødvendig rådgivning.[^348] Denne retten innebærer at elevene skal kunne få «*informasjon, rettleiing, oppfølging og hjelp til å finne seg til rette på skolen og ta avgjerd i tilknytning til framtidige yrkes- og utdanningsval*.».[^349] Dette omfatter rådgivning om utdanning, yrkestilbud og yrkesvalg og sosiale spørsmål.[^350]
+
+Bestemmelsen om rett til rådgivning gjelder alle elever i grunnopplæringen.[^351] Retten til rådgivning omfatter ikke lærlinger og lærekandidater.[^352]
+
+I 2009 ble det ved en forskriftsendring presisert at sosialpedagogisk rådgivning og utdannings- og yrkesrådgivning skal ses i sammenheng og rådgivningen skal ha et helhetlig perspektiv på eleven.[^353] Forskere peker på at det er satt ambisiøse mål for hva rådgivningen skal bidra til: sosial utjevning, integrering og frafallsforebygging, men at det er uklart hvordan dette skal foregå eller overvåkes.[^354]
+
+Eleven skal ha informasjon om rådgivningen og tilgang til rådgivning på den enkelte skole. Videre kan rådgivningen tilbys både individuelt og i grupper, men det er elevens egne ønsker og behov som i hovedsak vil være avgjørende for hvilken form som velges.[^355]
+
+Oppfølgingstjenesten
+
+Oppfølgingstjenesten (OT) skal være behjelpelig med å fremme tilbud om opplæring, arbeid eller kompetansefremmende tiltak, eventuelt en kombinasjon av disse.[^356] OTs målgruppe er ungdom som er omfattet av den lovfestede retten til videregående opplæring og som det aktuelle skoleåret a) ikke har søkt eller tatt imot elev – eller læreplass, b) avbryter slik opplæring, c) ikke er i arbeid, eller d) har tapt retten som følge av vedtak om bortvisning eller som følge av vedtak om heving av lærekontrakt eller opplæringskontrakt. Tjenesten gjelder til og med det året ungdommen fyller 21 år.[^357] Ungdom som er i Oppfølgingstjenestens (OT) målgruppe er ikke omfattet av retten til nødvendig rådgivning.
+
+1.  **Tilgang og kvalitet**
+
+Tilgang og kvalitet er to vesentlige aspekter ved rådgivningstilbudet. De to gangene EU har vedtatt resolusjoner om livslang veiledning har dette vært to av de sentrale områdene man har ønsket å vurdere og utvikle, i tillegg til blant annet karrierekompetanse og koordinering.[^358] De to resolusjonene har gitt rammer til det tverreuropeiske samarbeidet innenfor politikkutvikling på området gjennom European Lifelong Guidance Policy Network (ELGPN) siden 2007. Kunnskapsdepartementet har fastslått at rådgivning skal være tilgjengelig på hver skole.
+
+Hvor stor ressurs som stilles til rådighet for rådgivning er ofte et sentralt spørsmål når rådgivningen i skolen diskuteres, og har betydning for tilgang til tilbudet. Ressursbestemmelsen finnes i tariffavtalenes særavtaler om leseplikt og tidsressurs i henholdsvis grunnskolen og videregående opplæring. Avtalene fastsetter tid til rådgiverfunksjonen ved at rådgiverne har færre undervisningstimer enn øvrige lærere. I avtaleverket er det beregnet omlag ett årsverk per 500 elever. Denne bestemmelsen ble fastsatt i 2006 og representerte da en viss økning i forhold til den forrige ressursbestemmelsen fra 1963. Skolen eller skoleeier kan bruke større ressurser på rådgivningen enn det normen tilsier.[^359] Skoleeier har likevel plikt til å oppfylle retten til nødvendig rådgivning uavhengig av dette.
+
+En rapport fra 2010 viser at 2/3 av skolene (69,3 prosent) har mindre enn ett rådgiverårsverk. Dette har sammenheng med at det er mange små skoler i Norge[^360]. Størrelsen på ressursen avsatt til rådgiverfunksjonen må ses i sammenheng med de oppgavene rådgiverne forventes å utføre. Rådgiverrollen er problematisert og diskutert i flere rapporter.[^361] Man ser at oppgavemengden for rådgivere har økt år for år, men at ressurssiden ikke har økt tilsvarende.[^362]
+
+I 2015 kartla Utdanningsdirektoratet[^363] tilgangen på informasjon om videregående opplæring for minoritetsspråklige med svake norskferdigheter og deres foreldre/foresatte.[^364] Informasjonstilfanget for målgruppen er svært begrenset, samtidig med at denne gruppen har liten kjennskap til det norske skolesystemet. En undersøkelse gjort av NTNU i 2014, tar til orde for utvidet utdannings- og yrkesrådgivning til denne gruppen elever, og stiller spørsmålstegn ved utbyttet for nyankomne elever av informasjonsmateriell laget for norske ungdomsskoleelever.[^365] På bakgrunn av dette anbefalte man blant annet at det utvikles nettbasert og lett oppdaterbar informasjon beregnet for denne målgruppen i samarbeid med relevante aktører.
+
+*Rådgivernes kompetanse* er et annet hovedelement i diskusjoner knyttet til rådgivningen i skolen, også internasjonalt. I det europeiske utviklingsarbeidet knyttet til politikkutvikling på området er kompetansen til praktikere ett av fem kvalitetselementer i et rammeverk for nasjonale systemer for livslang veiledning.[^366]
+
+I Norge er det krav om at begge former for rådgivning skal utføres av personer med relevant kompetanse for de to områdene, men det stilles ikke krav til formell kompetanse til rådgivere i grunnopplæringen.[^367] Spørsmålet om hvilken kompetanse som skulle kreves av rådgivere har vært diskutert siden rådgivning ble innført i norsk grunnskole i 1959.[^368]
+
+I Buland m.fl. sin rapport fra 2011 oppgir 67 posent av rådgiverne at de har formell kompetanse innen rådgivning.[^369] De sammenlikner sine funn med en tilsvarende kartlegging foretatt i 2000,[^370] og andelen som oppgir å ha relevant utdanning har *sunket* i grunnopplæringen fra 73 prosent i 2000 til 59 prosent i 2011. En mulig forklaring, som det kan finnes noe støtte for hos Buland m.fl. (2011), er at rådgivere over tid har fått et annet syn på hva rådgiverrelevant utdanning er, slik at en utdanning man tidligere opplevde som relevant, på neste spørretidspunkt oppfattes mer i retning av generell grunnutdanning.[^371] I videregående opplæring oppgir 82 prosent å ha relevant utdanning. Dette er en liten økning i forhold til undersøkelsen i 2000, hvor andelen var 80 prosent. I Utdanningsdirektoratets spørring til sektor høsten 2013 sier 66 prosent av skolelederne og 59 prosent av skoleeierne at de tar aktive grep for å heve skolenes kompetanse innen utdannings- og yrkesrådgivningen.[^372]

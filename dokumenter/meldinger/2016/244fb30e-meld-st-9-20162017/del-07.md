@@ -1,1132 +1,590 @@
-# Meld. St. 9 (2016–2017), del 7 av 10 (side 82–92)
+# Meld. St. 9 (2016–2017), del 7 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2016/244fb30e-meld-st-9-20162017.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-9-20162017/id2522412/
 - Original-PDF: https://www.regjeringen.no/contentassets/f34b56ba52454667a46049aa550b42bc/no/pdfs/stm201620170009000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 17 tabeller, 6 figurer, 246 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 82]
-
-82
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-ger på hverandre, for eksempel de maritime
-utdanningene der allerede det første året gir kvalifikasjoner (sertifikater) som kan tas i bruk i yrkeslivet. Tiltaket forutsetter at det totale utdanningsløpet ikke skal overstige to år, eller tre år i særskilte tilfeller. Se kapittel 10.3.1, Utdanningens
-lengde.
-Tiltak: Regjeringen vil foreslå å åpne for at det
-kan stilles krav om annen fullført fagskoleutdanning eller relevant arbeidserfaring i tillegg til kravet
-om fullført videregående opplæring for opptak til
-fagskoleutdanning.
-Tiltak: Regjeringen vil foreslå å åpne for at det
-kan stilles krav om autorisasjon som del av opptaksgrunnlaget for utdanninger der dette er relevant.
-Opptak på grunnlag av realkompetanse
-Formålet med en realkompetansevurdering er å
-vurdere om en person uten tilstrekkelig formell
-kompetanse for opptak har tilegnet seg tilsvarende forkunnskaper og ferdigheter på annen
-måte, slik at vedkommende likevel kan få adgang
-til utdanningen.27 Mange personer har opparbeidet seg kompetanse i eller utenfor arbeidslivet
-som ikke er dokumentert gjennom vitnemål, fageller svennebrev. For at den enkelte og samfunnet
-skal kunne benytte denne kompetansen best
-mulig, er det viktig med gode systemer for realkompetansevurdering.28
-Det er opp til fagskolene selv å fastsette kriterier for realkompetansevurdering, jf. fagskoleloven § 4 annet ledd. Det samme gjelder for realkompetansevurdering i forbindelse med opptak til
-universiteter og høyskoler. Realkompetansevurdering er relativt hyppig brukt i fagskolesektoren,
-og det er en høyere andel studenter som tas opp
-på grunnlag av realkompetanse til fagskoler enn
-til universiteter og høyskoler. Rundt ti prosent av
-studentene tas opp til fagskoleutdanning på
-grunnlag av realkompetanse mot rundt én prosent av studentene til universitets- og høyskoleutdanning.29
-Som en oppfølging av St.meld. nr. 44 (2008–
-2009) Utdanningslinja ga Kunnskapsdepartementet Vox i oppdrag å se nærmere på realkompetanse27
-
-I Prop. 95 L (2015–2016) presiseres dette slik: «Det er ikke
-mulig å vurdere realkompetanse uten at det er klart hva de
-formelle kravene er, slik at det er noe å vurdere realkompetansen opp mot. Fagskolene må derfor ha opptaksforskrifter som både fastsetter formelle opptakskrav og de tilsvarende kriteriene for realkompetansevurdering.»
-28
-St.meld. nr. 44 (2008–2009) Utdanningslinja
-29
-Kunnskapsdepartementet (2016a) og Samordna opptak
-(2016).
-
-2016–2017
-
-vurdering i forbindelse med opptak til fagskoleutdanning. Vox har på den bakgrunn utarbeidet en
-veiledning i samarbeid med NOKUT og flere fagskoler.30 Veiledningen til Vox er basert på de europeiske prinsippene for realkompetansevurdering,
-slik de er presentert i Cedefops Guidelines. Se
-boks 3.3. Målet er at veiledningen skal bidra til
-mer kunnskap om realkompetanse generelt og til
-en mer enhetlig praksis for realkompetansevurdering ved opptak.
-I noen av høringsuttalelsene til NOU 2014: 14
-Fagskolen – et attraktivt utdanningsvalg etterlyses
-en tydeliggjøring av kravene for opptak på grunnlag av realkompetanse. Regjeringen vil derfor
-foreslå å fastsette generelle bestemmelser om
-realkompetansevurdering i forskrift.31 Bestemmelsene vil foreslås som del av en felles nasjonal
-opptaksforskrift, som er omtalt under.
-Tiltak: Regjeringen vil foreslå å fastsette generelle bestemmelser om realkompetansevurdering i
-forskrift.
-Aldersgrense for realkompetansevurdering
-I fagskoleloven heter det at «med fagskoleutdanning menes yrkesrettede utdanninger som bygger
-på videregående opplæring eller tilsvarende realkompetanse». I Veiledning til tilbydere av fagskoleutdanning tolker NOKUT dette slik at «søkere
-som ønsker å bli realkompetansevurdert må ha en
-alder som minst er normalalderen for fullført videregående opplæring (19 år)».32 Til sammenlikning kreves det at søkere må ha fylt 25 år for å
-ha krav på realkompetansevurdering ved søknad
-om opptak til høyskole- og universitetsstudier.33
-Bestemmelsene om realkompetanse ved de
-forskjellige fagskolene og fagskoleutdanningene
-varierer, også med hensyn til hvilke krav som stilles til alder. Ved mange fagskoleutdanninger stil30
-
-31
-32
-33
-
-Alfsen og Storli (2013). Rapporten inneholder praksiseksempler fra de samarbeidende fagskolene Fagskolen i
-Oslo, Fagskolen i Kristiansand, AOF Haugaland, Noroff
-Fagskole i Kristiansand, Ålesund kunstfagskole, eCademy
-og NKI Nettstudier
-Liknende bestemmelser finnes i forskrift 31. januar 2007 nr.
-173 om opptak til høyere utdanning § 3-1.
-NOKUT (2016a)
-Jf. forskrift 31. januar 2007 nr. 173 om opptak til høyere
-utdanning: «Søkere som er 25 år eller eldre i opptaksåret
-[…] har krav på å få vurdert om de er kvalifiserte for et
-bestemt studium på grunnlag av realkompetanse» (§ 3-1).
-Personer som er 23 år eller mer, og som kan dokumentere
-minst fem års arbeidspraksis og/eller utdanning, kan i tillegg få opptak til universiteter og høyskoler på grunnlag av
-generell studiekompetanse dersom de i tillegg har bestått
-studiekompetansefagene norsk, engelsk, historie, samfunnsfag, matematikk og naturfag, jf. 23/5-regelen, § 2-1.
-
-[Side 83]
-
-2016–2017
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-les det strengere krav enn i NOKUTs veiledning,
-enten strengere krav til minimumsalder og/eller
-krav om relevant yrkespraksis av en varighet som
-vanskelig kan oppnås ved en alder av 19 år. Flere
-stiller for eksempel krav om minimum fem års
-relevant arbeidserfaring for opptak på grunnlag
-av realkompetanse. Dette tilsvarer antall år i relevant arbeid som kreves for å kunne melde seg til
-fag- eller svenneprøve gjennom praksiskandidatordningen.34
-Fagskolestatistikken fra NSD viser at ved
-enkelte utdanninger er en del av studentene tatt
-opp på grunnlag av realkompetanse, og de er
-overraskende unge. Ved noen fagskoler er studentene 18 år og yngre. Disse studentene kan ikke ha
-nok arbeidserfaring til at de kan ha opparbeidet
-kompetanse tilsvarende fullført videregående opplæring. Dataene indikerer at det med dagens ordning er en fare for at enkelte fagskoleutdanninger
-fungerer som et alternativ til videregående opplæring fordi studentene som tas inn, ikke har tilstrekkelig faglige kvalifikasjoner.
-Regjeringen mener at det er usannsynlig at
-søkere som ikke har hatt læring som hovedaktivitet, og som er yngre eller omtrent like gamle som
-personer som har fullført videregående opplæring, kan ha klart å oppnå samme eller tilsvarende
-kompetanse som dem. Det tar tid å opparbeide
-seg kompetanse både i og utenfor utdanningssystemet. For å styrke fagskoleutdanningens posisjon som utdanning på et nivå over videregående
-opplæring, foreslår regjeringen å innføre en
-aldersgrense på minimum 23 år for opptak til fagskoleutdanning på grunnlag av realkompetanse.
-Tabell 10.4 viser at rundt to prosent av studentene som er tatt opp på grunnlag av realkompetanse, ble tatt opp da de var under 23 år, hovedsakelig innenfor fagområdene estetiske fag, skjønnhetspleie og økonomisk-administrative fag.35
-Tiltak: Regjeringen vil foreslå en aldersgrense
-på minimum 23 år for opptak til fagskoleutdanning
-på grunnlag av realkompetanse.
-Realkompetanse som grunnlag for fritak for del av
-fagskoleutdanning
-Bestemmelsene om innpassing og fritak for del av
-fagskoleutdanning kom ved lovendring i 2010 og
-forskrift i 2013.36 Bestemmelsene innebærer at
-
-alle fagskolene skal innpasse beståtte emner fra
-annen godkjent fagskoleutdanning på samme
-eller nært beslektet fagområde, og at de kan gi fritak for emner på grunnlag av annen dokumentert
-relevant utdanning eller kompetanse. Utgangspunktet for vurderingen skal være læringsutbyttebeskrivelser og fagskolepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning.37
-Ordningen med fritak for del av fagskoleutdanning, det vil si emner, på grunnlag av realkompetanse, er relativt ny. Som nevnt har Vox tidligere
-hatt i oppdrag å se nærmere på realkompetansevurdering i forbindelse med opptak til fagskoleutdanning og utviklet en veiledning om dette.38 Vox
-har i samarbeid med Universitets- og høgskolerådet også utarbeidet en veiledning om fritak for
-deler av universitets- og høyskoleutdanning på
-grunnlag av dokumentasjon av realkompetanse.39 Regjeringen vil derfor gi Vox i oppdrag å
-utvikle en tilsvarende veiledning for vurdering av
-realkompetanse i forbindelse med søknader om
-fritak for del av fagskoleutdanning. Oppdraget
-skal utføres i samarbeid med representanter for
-fagskolene og NOKUT.
-Tiltak: Regjeringen vil utvikle en veiledning for
-realkompetansevurdering ved fritak for del av fagskoleutdanning.
-Opptaksforskrift
-Det følger av fagskoleloven § 4 at tilbydere av fagskoleutdanning skal fastsette egne forskrifter om
-opptak som inneholder krav til formell utdanning
-eller tilsvarende realkompetanse.40 Flere fagskoler kan samarbeide om å utarbeide forskrift
-hvis de finner det hensiktsmessig. Forskriftsfesting er et viktig redskap for å ivareta søkernes
-rettssikkerhet. Det skal bidra til transparens, forutberegnelighet og likebehandling.
-Fagskolene må forholde seg til det nasjonale
-fagskoleregelverket når de utformer egne forskrifter. Bestemmelser om opptak er i dag gitt i lov om
-fagskoleutdanning (fagskoleloven), forskrift om
-kvalitetssikring og kvalitetsutvikling i høyere
-utdanning og fagskoleutdanning (studiekvalitets36
-37
-38
-39
+En annen europeisk studie, om virkningene av Erasmus-samarbeidet i høyere utdanning, *The Erasmus Impact Study*, viser at nyutdannede med internasjonal erfaring klarer seg mye bedre på arbeidsmarkedet enn dem som ikke har det.[^148] Sannsynligheten for å oppleve langtidsledighet er halvparten så stor for en tidligere Erasmus-student som for en person uten utenlandsopphold som del av utdanningen.
 
-34
+Regjeringen er opptatt av bedre deltakelse i EUs utdanningsprogram *Erasmus+*. Det skal bidra til kvalitetsutvikling, til å nå målene i norsk utdanningspolitikk og til å styrke det internasjonale utdanningssamarbeidet på alle nivåer. I tillegg vil det gjøre utdanningen relevant og studentene attraktive for arbeidsmarkedet, samtidig som studentene får mulighet til faglig og personlig utvikling.
 
-Se http://www.udir.no/regelverk-og-tilsyn/finn-regelverk/
-etter-tema/Fag--og-yrkesopplaring/Praksiskandidatordningen/
-35
-Skjønnhetspleie ligger under kategorien «Samferdsels- og
-sikkerhetsfag og andre servicefag» i tabellen.
+Aktuelle prosjekter for fagskolen i dette programmet er mobilitet og strategiske partnerskap. Sistnevnte skal bidra til innovativ praksis (metodikk, verktøy, pensum og studieprogram), samarbeid med ulike aktører, erfaringsdeling og nettverk. Tverrsektorielle prosjekter, IKT, entreprenørskap og samarbeid med nærings- og arbeidsliv er spesielt prioritert. Det er viktig at norske fagskoler benytter dette virkemidlet for å bidra til innovasjon, relevans og kvalitet i utdanningen. Ifølge Senter for internasjonalisering av utdanning, SIU, er VEA – Statens fagskole for gartnere og blomsterdekoratører så langt den eneste fagskolen som har deltatt i internasjonale utdanningsprogram over tid. Vea har gjennomført både mobilitetsprosjekt og partnerskap. Formålet i prosjektene har vært å utvikle flernasjonalt faglig felleskap og undervisningsopplegg og forberede studentene til et europeisk arbeidsmarked.
 
-83
+I 2014 kartla NOKUT internasjonaliseringsarbeidet ved norske fagskoler.[^149] Den viser at 34 av de 55 fagskolene som svarte (62 prosent), hadde internasjonalisering av én eller flere typer som var definert i undersøkelsen: internasjonalt orienterte utdanninger, utenlandske studenter, utvekslingsopphold og/eller internasjonalisering av fagstaben. 21 skoler (38 prosent) hadde ingen internasjonaliseringsaktiviteter. De humanistiske og estetiske utdanningene skilte seg ut som de klart mest internasjonalt orienterte, men også innenfor de tekniske fagene var det en del internasjonaliseringsarbeid.
 
-40
+17 av de 55 institusjonene i undersøkelsen (ca. 31 prosent) hadde mulighet for perioder i utlandet som en del av utdanningen. Dette var hovedsakelig korte opphold på under seks uker, oftest én eller to uker. Bare fem av fagskolene organiserte opphold av lengre varighet, det vil si fra tre måneder til et helt semester. Ett av de overraskende funnene i undersøkelsen er at det ikke var en entydig sammenheng mellom fagskolenes størrelse og internasjonaliseringsarbeidet.
 
-Lov 20. juni 2003 nr. 56 om fagskoleutdanning, forskrift 1.
-august 2013 nr. 942 om fagskoleutdanning.
-Forskrift 1. august 2013 nr. 942 om fagskoleutdanning § 1
-Alfsen og Storli (2013)
-Alfsen, Lorange og Thomsen (2015)
-I tillegg står det i § 6 at styret ved en fagskole skal fastsette
-forskrift blant annet om eksamen. Bestemmelsene om forskrift om opptak og eksamen ble presisert med endringene
-av 1. juli 2016 i lov om fagskoleutdanning av 20. juni 2003
-nr. 56.
+Det var lite internasjonalisering blant det faglige personalet. Bare seks fagskoler meldte at de hadde utenlandske lærere til å undervise, mens 14 fagskoler hadde ordninger for kompetanseheving for ansatte i utlandet. Undersøkelsen viser at det pågår noe internasjonaliseringsarbeid ved fagskolene, men at det er potensiale for mer.
 
-[Side 84]
+I tillegg til det internasjonale samarbeidet som del av norsk utdanning er det flere både offentlige og private fagskoler som har inngått avtaler om innpassing av egen fagskoleutdanning i utenlandsk bachelorutdanning. De fleste av disse avtalene er inngått av private fagskoler. For eksempel har Høyskolen Kristiania (Norges kreative fagskole) samarbeidet med universiteter i utlandet siden begynnelsen av 1990-tallet. Noroff har samarbeidsavtaler med universiteter i England, Australia, Wales og Sør-Afrika, der to år på Noroff pluss ett år ved samarbeidende institusjon i utlandet gir bachelorgrad innenfor nettverk og IT-sikkerhet, lyd- og musikkproduksjon, filmproduksjon, 3D spilldesign, 3D filmproduksjon og grafisk design. Dette gjelder også for nettstudenter.
 
-84
+Hvert år drar mellom 200 og 250 studenter fra de private fagskolene som er representert gjennom Abelia – Forum for fagskoler, til utenlandske universiteter disse fagskolene har avtaler med. Studentene reiser i hovedsak til engelskspråklige land.[^150]
 
-2016–2017
+Det er ingen nordisk avtale om overganger på fagskolenivået. Det skyldes at Island og Finland ikke har noe som tilsvarer fagskoleutdanning. I tillegg er organiseringen svært ulik i Danmark og Sverige, som omtalt i kapittel 3.5. Det at de svenske yrkeshögskoleutbildningene har godkjenning kun for et visst antall år og betydelig medfinansiering fra næringslivet gjør at de kan virke litt vanskelig tilrettelagt for langsiktige samarbeidsavtaler. Når det gjelder nordisk samarbeid, er det mest aktuelt å se til Danmark for fagskolene, spesielt de tekniske fagskolene, da de danske erhvervsakademiene hovedsakelig gir utdanning innenfor økonomiske og tekniske fag. Det er flere eksempler på avtaler om overgang fra norsk teknisk fagskoleutdanning til dansk erhvervsuddannelse og deretter videre til professionsbacheloruddannelse.[^151] For eksempel har Fagskolen i Vestfold samarbeid med Erhvervsakademiet i Aalborg. Fagskolen Oslo og Akershus har samarbeid med København Ervervsakademi og VIA University College i Horsens.
 
-Meld. St. 9
-Fagfolk for fremtiden
+Regjeringen ønsker å stimulere til mer nordisk og europeisk fagskolesamarbeid og vil legge til rette for at utviklingsmidlene også kan benyttes til å etablere slikt samarbeid.
 
-Tabell 10.4 Realkompetansevurderte studenter under 23 år fordelt på fagområde.
+I stortingsmeldingen om internasjonalisering av utdanning fra 2009 ble det lagt vekt på at internasjonalisering var et ledd i innsatsen for å styrke ytterligere kvaliteten, relevansen og attraktiviteten til det norske utdanningssystemet.[^152] Meldingen viser til at fagskolen har særlige utfordringer på dette området, og at den burde gis bedre muligheter for å delta i internasjonalt samarbeid. I den sammenheng vises det også til at fagskolenes studenter «ikke har rett til studie- og eventuelt skolepengestøtte for opphold i utlandet som ledd i norsk fagskoleutdanning, slik delstudenter i høyere utdanning har». Studenter ved universiteter og høyskoler kan få støtte til delstudier i utlandet både for korte og lange opphold. Minimumsperioden for å få støtte for delstudium er fire uker.
 
-Fagfelt
+Regjeringen ønsker mer internasjonalisering av fagskoleutdanningen. Det er derfor i budsjettet for 2017 foreslått å gi fagskolestudentene mulighet til å få støtte fra Lånekassen til delstudier i utlandet, på lik linje med universitets- og høyskolestudentene. Det er en forutsetning at fagskolen i Norge godkjenner studieoppholdet i utlandet som en del av den utdanningen søkeren tar hos dem.
 
-Antall studenter under 23 år
-Antall aktive studenter tatt
-tatt opp på grunnlag av opp på grunnlag av realkomrealkompetanse petanse da de var under 23 år
+*Tiltak: Regjeringen vil innføre rett til studie- og eventuelt skolepengestøtte for opphold i utlandet som ledd i norsk fagskoleutdanning.*
 
-Antall aktive studenter
-totalt
+1.  **Samspill med arbeidslivet i utdanningen**
 
-2013
+For at fagskoleutdanningen skal være yrkesrettet og ha nærhet til arbeidslivet den utdanner for, må undervisningen skje i overenstemmelse med erfaringsbasert bransjekunnskap og arbeidslivets dagsaktuelle behov. Den må også bygge på oppdatert kunnskap og teknologi.
 
-2014
+En NIFU-studie<sup> </sup>fra 2012 viser at praksis som del av utdanningen er av stor betydning for universitets- og høyskolestudenter.[^153] Kontakt med arbeidslivet er vanlig i de fleste utdanningene, oppfattes som nyttig av studentene og har positiv effekt på motivasjon, gjennomføring av studiene og sysselsetting. Ifølge NIFU-studien er det mest vanlig med korte, uforpliktende former for kontakt med arbeidslivet, som for eksempel foredrag og ekskursjoner (ca. 70 prosent) prosjektsamarbeid (ca. 60 prosent) og praksis (ca. 30 prosent). Praksis er samarbeidsformen som ifølge studentene gir høyest utbytte i form av praktiske ferdigheter. I tillegg oppga nesten 60 prosent av kandidatene at samarbeidet hadde gitt økt motivasjon til gjennomføring av studiet i høy eller nokså høy grad. Blant dem som hadde hatt kontakt med arbeidslivet i studietiden, var det færre som var forsinket enn blant dem som ikke hadde hatt det.
 
-2015
+I studien antas det videre at samarbeid med arbeidslivet i studietiden er gunstig for sysselsetting etter avlagt grad, både fordi samarbeidet kan gi kandidatene kompetanse som oppfattes som relevant av arbeidsmarkedet, og fordi de får kontakter i arbeidslivet som de kan ha nytte av når de søker jobb.
 
-2013
+Studien viser altså at samarbeid med arbeidslivet under utdanningen ser ut til å øke gjennomføringen og kandidatenes muligheter på arbeidsmarkedet. Effekten er høyest innenfor fagområder med liten tradisjon for slikt samarbeid. Selv om denne studien gjelder kandidater fra universitets- og høyskoleutdanning, har den også relevans for fagskoleutdanningene. Funnene må imidlertid vurderes utfra fagskolestudentenes erfaringsbakgrunn.
 
-2014
+1.  **Eksempler på samarbeid med arbeidslivet**
 
-2015
+<!-- -->
 
-2013
+1.  oppgaver i eller om samarbeid med bedrift eller offentlig virksomhet
 
-2014
+2.  lærere i kombinerte stillinger og gjestelærere
 
-2015
+3.  hospitering for fagskolelærere i relevante virksomheter
 
-Helse-, sosial- og
-idrettsfag
+4.  mentorordninger
 
-4
+5.  arbeidslivspaneler
 
-1
+6.  samarbeid om utstyr og lokaler
 
-6
+7.  praksis, bedriftsbesøk eller næringslivsdager
 
-4
+8.  samarbeid som del av klyngeprogram og andre nærings- og innovasjonspolitiske virkemidler.
 
-6
+Hvert enkelt fagmiljø må i samarbeid med den aktuelle bransjen finne den samarbeidsformen som er mest hensiktsmessig for utdanningen.
 
-9
+**Rammeslutt**
 
-2 555
+Fagskolerådet fremhever praksisdimensjonen som særlig viktig for kvaliteten i fagskoleutdanningene. I NOU 2014: 14 *Fagskolen – et attraktivt utdanningsvalg* anbefales det at det stilles lovfestet krav om praksis i alle fagskoleutdanningene. Det er ikke alle i Fagskolerådet enige i, ifølge NIFUs evaluering. Dette gjenspeiler de store ulikhetene fagskolene imellom og at praksis arter seg forskjellig innenfor de ulike bransjene og fagområdene. For enkelte fagskoleutdanninger er praksis obligatorisk. Det gjelder for eksempel kadettperioden innenfor maritim utdanning. For andre er praksistiden et prosjektarbeid i en bedrift, slik det ofte er i de tekniske fagskolene. For kunstutdanningene er praktisk arbeid en vesentlig del av utdanningen, men foregår i hovedsak på skolen. For andre igjen ligger den viktigste praksisdelen forut for utdanningen og er et opptakskrav.
 
-2 777
+Gjennom opprettelse av søkbare utviklingsmidler, jf. kapittel 9.3, vil regjeringen legge til rette for at det for eksempel kan gis støtte til opprettelse av nye utdanninger det er særlig behov for i arbeidslivet, eller til utdanninger som opprettes i særlig godt samarbeid med arbeidslivet.
 
-2 825
+1.  **Eksempler på innovative fagskoleutdanninger ved Fagskolen Innlandet**
 
-Humanistiske og
-estetiske fag
+Fagskolen Innlandet er en av landets største fagskoler med over 1 000 studenter. Fagskolen har et tett samarbeid med næringslivet lokalt og regionalt, blant annet gjennom næringsklyngen på Raufoss. Fagskolen Innlandet har lang erfaring med å tilby nettbasert utdanning, og 80 prosent av studentene benytter seg av slike tilbud. Studenter som tar nettbasert utdanning, deltar på samlinger og undervisning via læringsplattformen Fronter.
 
-100
+*Kompositt- og plastbearbeiding*
 
-102
+Kompositt- og plastmaterialer tas i bruk på nye områder til erstatning for metaller. Trendene viser vekst i bruken av kompositt- og plastmaterialer innenfor maritim sektor, olje og offshore, sport- og fritidsprodukter. Det er en lignende utvikling i bygg- og anleggsbransjen. Fremst i utviklingen er bil- og luftfartsindustrien.
 
-106
+Fagskolen har utviklet et nytt kurs i kompositt- og plastbearbeiding i samarbeid med lokalt næringsliv. Det legges opp til at de som har gjennomført utdanningen, skal gå inn i en lederjobb, og prosjektarbeid er derfor en viktig arbeidsform. Prosjektene er tverrfaglige, og utdanningen avsluttes med et hovedprosjekt i samarbeid med næringslivet. 
 
-201
+Utdanningen på heltid har en varighet på to år. Den tilbys også på deltid og nettbasert, og da over fire år med flere tredagers samlinger hvert år.
 
-179
+*Agroteknikerutdanning innenfor natur- og kulturbasert entreprenørskap*
 
-170
+Multitasking er viktig i de norske bygdene, ofte i kombinasjon med tradisjonell landbruksvirksomhet. I Norsk bygdeforsknings trendundersøkelse 2014 oppgir over 50 prosent av gårdbrukerne at de driver med en eller annen form for tilleggsnæring med utgangspunkt i gårdens ressurser. I tillegg er det flere andre gründere i bygdene som utvikler og driver næring basert på lokale natur- og kulturressurser.
 
-2 454
+Ideen bak agroteknikerutdanningen i natur- og kulturbasert entreprenørskap er nettopp å bidra til entreprenørskap basert på lokale og regionale ressurser. De som har fullført denne utdanningen, skal kunne bruke aktuelle verktøy for å utvikle og realisere en forretningsidé og bidra positivt for utvikling av egen bedrift og for samfunnet. I tillegg har de kunnskap om å lede små og mellomstore bedrifter, samt salg og markedsføring.
 
-2 030
+Tilbudet er samlingsbasert, med noe nettbasert undervisning/veiledning i tillegg, og gis ved Ål og Hvam videregående skoler.
 
-1 782
-
-Pedagogiske fag
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-24
-
-Mediefag
-
-5
-
-6
-
-1
-
-13
-
-12
-
-3
-
-601
-
-334
-
-255
-
-Naturvitenskapelige fag, håndverksfag og tekniske fag
-
-17
-
-20
-
-6
-
-23
-
-28
-
-16
-
-7 090
-
-7 104
-
-7 414
-
-Primærnæringsfag
-
--
-
--
-
-1
-
-1
-
--
-
-1
-
-113
-
-110
-
-156
-
-Samferdsels- og
-sikkerhetsfag og
-andre servicefag
-
-38
-
-54
-
-43
-
-39
-
-101
-
-92
-
-1 104
-
-1 329
-
-1 164
-
-Økonomiske og
-administrative fag
-
-19
-
-27
-
-22
-
-41
-
-36
-
-32
-
-2 409
-
-1 477
-
-1 749
-
-Uoppgitt fagfelt
-
--
-
--
-
--
-
--
-
-1
-
--
-
--
-
-1079
-
-78
-
-183
-
-210
-
-185
-
-322
-
-363
-
-323
-
-16 326
-
-16 240
-
-15 447
-
-Totalt
-Kilde: NSD
-
-forskriften) og forskrift om tilsyn med kvaliteten i
-fagskoleutdanning
-(fagskoletilsynsforskriften).
-Bestemmelsene skal sikre at opptaket til fagskoleutdanning skjer på grunnlag av relevante utdanningsprogram i videregående opplæring, og at
-fagskoleutdanning ligger på nivået over videregående opplæring.
-Det kan være hensiktsmessig at generelle
-bestemmelser om opptak til fagskoleutdanning,
-som alle fagskolene må forholde seg til, samles på
-ett sted i en felles nasjonal opptaksforskrift. Flere
-av tiltakene som har vært nevnt i dette kapitlet,
-som tilleggskrav og bestemmelser om realkompetansevurdering, kan inngå i en slik forskrift. Forskriften kan i tillegg inneholde bestemmelser om
-norskkrav for søkere fra land utenfor Norden og
-bestemmelser om for eksempel nasjonal klagenemd.41 En felles nasjonal opptaksforskrift for fagskoleutdanning er også foreslått i NOU 2014: 14
-Fagskolen – et attraktivt utdanningsvalg. En slik
-41
-
-Jf. forskrift 31. januar 2007 nr. 173 om opptak til høyere
-utdanning, § 2-2 og kapittel 8
-
-felles nasjonal forskrift vil kunne bidra til større
-grad av forutsigbarhet og likebehandling for
-søkerne. Forslaget må ses i sammenheng med
-forslaget om å innføre et nasjonalt opptakssystem
-for fagskoleutdanninger. Se Nasjonalt opptakssystem for fagskoleutdanning nedenfor.
-Tiltak: Regjeringen vil vurdere å fastsette en
-egen felles nasjonal opptaksforskrift for fagskoleutdanning.
-Nasjonalt opptakssystem for fagskoleutdanning
-Opptaket til fagskoleutdanningene foregår dels
-lokalt på den enkelte fagskolen, dels med en viss
-grad av samordning. Det eksisterer i dag ikke et
-enhetlig opptakssystem som dekker alle fagskoleutdanningene. Opptakskontoret som driftes av
-Rogaland fylkeskommune, benyttes imidlertid for
-opptak til de fleste utdanningene i fylkeskommunale fagskoler. Se boks 10.3.
-En større grad av samordning av opptaket til
-fagskoleutdanning kan gi flere fordeler for fagskolesektoren. Det vil blant annet gi administra-
-
-[Side 85]
-
-2016–2017
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-tive besparelser for fagskolene, større grad av
-likebehandling av søkere og større mulighet for
-samlet innhenting av statistikk og dermed et
-bedre kunnskapsgrunnlag på området. Samordningen forutsetter også at det kan etableres et
-nettsted der all informasjon om fagskoleutdanningene og opptakskravene samles. Dette vil
-igjen gjøre det enklere å få oversikt over det
-totale utdanningstilbudet i fagskolesektoren og
-over hvilke opptakskrav som gjelder for hver
-enkel utdanning.
-Å innføre et felles nasjonalt opptakssystem for
-fagskoleutdanning ble foreslått i NOU 2014: 14
-Fagskolen – et attraktivt utdanningsvalg, og i
-høringssvarene var det stor tilslutning til dette.
-NOU-en foreslo å legge opptakskontoret til Felles
-studieadministrativt tjenestesenter (FSAT), som i
-dag har ansvar for det samordnede opptaket til
-universitets- og høyskoleutdanning og portalen
-www.samordnaopptak.no.
-På bakgrunn av forslaget i NOU-en bestilte
-Kunnskapsdepartementet fra FSAT en mulighetsstudie med forslag til modeller for en samordning
-av opptaket til fagskoleutdanning. FSAT skriver
-der at et samordnet opptak for fagskoleutdanning,
-i likhet med dagens opptak for universitets- og
-høyskoleutdanning, vil gi høyere kvalitet på søknadsbehandlingen. De skriver også at et samordnet opptak vil gi bedre statistikk og mulighet for
-analyser av søkningen og opptaksresultatene.
-Dessuten vil løsningen gi den enkelte fagskolen
-administrative besparelser med tanke på informasjon og søknadsbehandling. Ordningen vil kunne
-legge til rette for at fagskolene utfører saksbehandling for hverandre i de tilfellene der søkerne
-prioriterer flere utdanningsønsker.42
-FSAT understreker at det er en forutsetning
-for innføring av et samordnet opptak at opptaksregelverket ved fagskoleutdanningene er entydig
-og kan forstås av alle involverte. Opptaksbestemmelsene må derfor beskrives på samme måte og
-med lik terminologi, men de trenger ikke å være
-like. Dette vil kunne medføre behov for å gjennomgå opptaksbestemmelsene ved mange fagskoleutdanninger, og det er viktig at fagskolene
-tar hensyn til dette i utformingen og oppdatering
-av egne opptaksforskrifter.
-En ny saksbehandlerportal for søknader om
-fagskoleutdanning, slik FSAT foreslår, jf. boks
-10.5, vil kreve minimalt av tilpasninger av de
-lokale administrative systemene som benyttes ved
-fagskolene i dag. Det vil kunne lages unntaksordninger for utdanninger der det er nødvendig med
-42
-
-Kilde: FSAT
-
-85
-
-særskilte opptaksfrister. Systemet vil gi mulighet
-for lokale tilpasninger, og vedtak om opptak fattes
-lokalt, selv om det søkes gjennom en felles opptaksmodell.
-Regjeringen vil innføre et felles opptakssystem
-for fagskolene og legge ansvaret for systemet til
-FSAT. Å innføre et felles, nasjonalt opptakssystem
-for fagskoleutdanning parallelt med opptakssystemet for universitets- og høyskoleutdanning vil
-bidra til bedre synliggjøring av fagskoleutdanningen. Dette er viktig for å få flere gode studenter
-inn i fagskolene.
-Regjeringen ser videre flere fordeler ved at
-søkning til fagskoleutdanning synliggjøres på
-samme nettside som det samordnede opptaket til
-universiteter og høyskoler. Det vil bidra til at fagskoleutdanning synliggjøres på lik linje med universitets- og høyskoleutdanning. I tillegg vil det
-bli mulig å søke opptak til de fleste fagskoleutdanningene via én nettside, og søkerne kan prioritere
-utdanningsvalgene sine.
-Regjeringen ser det som ønskelig at det nasjonale opptakssystemet benyttes av både offentlige
-og private fagskoler og vil pålegge de offentlige
-fagskolene å delta i det. For de private fagskolene
-må det være frivillig å delta, på samme måte som
-det er frivillig for private høyskoler å delta i det
-samordnede opptaket til høyere utdanning.
-Tiltak: Regjeringen vil foreslå å innføre et nasjonalt opptakssystem for fagskoleutdanninger.
-Tiltak: Regjeringen vil foreslå at opptak til fagskoleutdanning synliggjøres på samme nettsted som
-det samordnede opptaket til universiteter og høyskoler.
-
-10.3 Utdanning og læringsmiljø av høy
-kvalitet
-Regjeringen er opptatt av å heve kvaliteten i fagskoleutdanningen, på samme måte som i resten
-av utdanningssystemet. Det er som tidligere
-nevnt den enkelte fagskolen som har hovedansvaret for å sikre og videreutvikle utdanningskvaliteten. For å lykkes i dette er det viktig at det
-arbeides systematisk og godt. God utdanningskvalitet er avhengig av faglig velbegrunnet utforming og tilrettelegging av utdanningsprogrammene, et profesjonelt og nært samspill med
-arbeids- og næringslivet, et sterkt fagmiljø med
-velkvalifiserte og kompetente ansatte og et inspirerende læringsmiljø for studentene. Dette er
-krevende å få til i praksis, og det fordrer god
-ledelse i alle ledd.
-
-[Side 86]
-
-86
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-2016–2017
-
-Boks 10.5 FSATs anbefalte modell for søknadsbehandling
-Figuren under viser en modell for søkerportal
-for opptak til fagskoleutdanning fra Felles
-studieadministrativt tjenestesenter (FSAT).
-Søkerne vil søke gjennom portalen, og FSAT vil
-lage en webapplikasjon for saksbehandling av
-søknadene. Fagskolene vil behandle søknadene
-selv. Om ønskelig kan det legges opp til at de
-
-utfører saksbehandling for hverandre, slik det i
-dag gjøres for søknader om opptak til universitets- og høyskoleutdanning. Fagskolene vil fortsatt kunne benytte de systemene de har i dag.
-Denne løsningen vil kreve nyutvikling fra FSATs
-side, men vil ikke være ressurskrevende for fagskolene.
-
-Figur 10.1
-I saksbehandlerportalen vil FSAT kunne gi tilgang til både elektroniske vitnemål fra Nasjonal
-vitnemålsdatabase (NVB) og tidligere vedtak
-om generell studiekompetanse (GSK-vedtak) fra
-
-10.3.1 Utforming og tilrettelegging av
-utdanningene
-NOKUT bruker begrepet «utdanningsdesign» for
-å beskrive faktorer som bidrar til å legge til rette
-for god læring og for at studentene oppnår et kvalitativt godt læringsutbytte. Det å utforme et
-utdanningsprogram er en kompleks aktivitet. Det
-fordrer god utdanningsledelse, og det må skje i
-samspill mellom studenter, faglig ansatte, støttetjenester, arbeidslivet, fag- og yrkesorganisasjoner
-og samfunnet for øvrig. Det er ikke noe den
-enkelte emneansvarlige lærer skal gjøre alene.
-Det er en fellesoppgave for fagmiljøet for utdanningen. I tillegg må man ta hensyn til hva rammene rundt gir av føringer, som for eksempel økonomi og personalressurser, lover og forskrifter.
-
-Samordna opptaks GSK-base. Dette vil gi grunnlag for en større grad av automatisert saksbehandling av søkerne enn det som er mulig
-med dagens system.
-
-For en del fagskoleutdanninger må det for eksempel tas hensyn til nasjonale og/eller internasjonale
-sertifiseringsordninger.
-Et sentralt element i god tilrettelegging for
-læring er gjennomtenkte og relevante læringsutbyttebeskrivelser som er tilpasset fagets egenart og
-riktig nivå i Nasjonalt kvalifikasjonsrammeverk for
-livslang læring. Videre må det være godt samsvar
-mellom læringsutbyttebeskrivelsene og utdanningens innhold, læringsaktiviteter, undervisnings-,
-prøvings- og vurderingsformer. Det er viktig at
-utdanningene bygges opp slik at emnene utfyller
-hverandre og samlet utgjør en helhet.
-Andre elementer av betydning for utformingen
-og tilretteleggingen av utdanningen er utdanningens lengde, aktuelle metoder og verktøy, digitalisering og internasjonalisering.
-
-[Side 87]
-
-2016–2017
-
-87
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-Mangler økonomiske ressurser
-Mangler faglige ressurser
-Mangler administrativt støtteapparat
-Mangler relevante samarbeidspartnere
-Mangler infrastruktur (simulatorer, laboratorier verksteder osv.)
-Mangler tid
-Mangler etterspørsel
-Endringer i nasjonale prioriteringer
-Annet
-0,0
-
-0,5
-
-Alle
-
-Privat
-
-1,0
-
-1,5
-
-2,0
-
-2,5
-
-3,0
-
-3,5
-
-4,0
-
-Offentlig
-
-Figur 10.2 I hvilken grad møter fagskolen hindringer i utviklingen av etter- og videreutdanningstilbud?
-1 = møter ikke hindringer i det hele tatt – 4 = møter hindringer i stor grad
-Kilde: Tømte, Olsen, Waagene, Solberg, Børing og Borlaug (2015), tabell 5.15
-
-Videre er det sentralt for utformingen av
-utdanningen om den skal gis stedbasert og for
-heltidsstudenter eller fleksibelt i form av deltid
-og/eller nettbasert. Samme læringsinnhold må
-med andre ord tilrettelegges ulikt om studentene
-studerer på heltid, deltid, samlingsbasert eller deltar i rene nett- eller fjerntilbud. Kontakten med
-bransje og/eller praksisfelt er også avgjørende.
-Digitalisering og nettbasert undervisning og læring
-Norsk arbeidsliv, som samfunnet for øvrig, preges
-av digitalisering. Fremtidens fagfolk må derfor
-beherske relevant digital teknologi og digitale
-arbeidsformer. Rapportering, kommunikasjon og
-arbeidsprosesser blir stadig mer avhengig av digitale verktøy, og fagskolekandidatene må være rustet for denne utviklingen. En mer digital utdanning vil gi kandidatene relevant digital kunnskap
-og dessuten bli mer tilgjengelig for flere studenter. I innspillene til NOU 2014: 5 MOOC til Norge –
-Nye digitale læringsformer i høyere utdanning ble
-det blant annet pekt på at MOOC kan bidra til å
-styrke tilgangen til utdanning og utdanningskvaliteten.
-Innenfor enkelte bransjer tilbys det i dag for
-lite fagskoleutdanning sammenlignet med etterspørselen i arbeidslivet.43,44 Ny digital teknologi
-med mulighet for nettbasert undervisning kan
-gjøre det enklere å utvide tilbudet og gjøre det til43
-
-MOOC står for Massive Open Online Courses og refererer
-til kurs som er gratis og tilgjengelige for alle via internett.
-44
-NOU 2014: 5 MOOC til Norge
-
-gjengelig for flere. Fleksible utdanningsformer
-kan være med på å styrke samarbeidet mellom
-utdanningsinstitusjonene og arbeidslivet gjennom videoforelesninger, simulatorer, osv. På
-samme måte kan de også gjøre det mulig for personer i arbeidslivet å få ny kunnskap gjennom lett
-tilgjengelig utdanning. I NHOs kompetansebarometer for 2015 svarte sju av ti bedrifter at muligheten for nettbasert utdanning vil øke sjansen for
-at de tilbyr sine ansatte formell kompetanseheving.45
-Fra undersøkelser blant universitets- og høyskolestudenter vet vi at de setter pris på den generelle fleksibiliteten teknologien gir med hensyn til
-læringsformer og studiested.46 Studentene setter
-pris på at digitale verktøy letter tilgangen til fagstoff, bedrer informasjonsflyten og gjør det
-enklere å samarbeide.47 Dagens studenter forventer også mer fleksibel tilrettelegging av utdanningene og større variasjon enn tidligere. Samtidig
-antydes det at de faglig ansatte er mer skeptiske
-til bruk av digitale verktøy, og at det er behov for
-øke deres kompetanse når det gjelder bruk av
-teknologi og digitale verktøy i undervisningen.
-Digitalisering kan være en drivkraft for faglig
-utvikling, for eksempel gjennom simuleringer,
-beregninger og eksperimentering. Den kan bidra
-45
-
-Solberg, Børing, Rørstad og Carlsten (2016)
-Norgesuniversitetet (2015) Digital tilstand. Side 18 ff. gir
-en oppsummering av andre aktuelle undersøkelser.
-47
-Digitale verktøy er i undersøkelsen Digital tilstand (Norgesuniversitetet, 2015) definert som «datamaskiner, nettbrett
-og annet utstyr, samt ulike måter å bruke internett og digital teknologi på».
-46
-
-[Side 88]
-
-88
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-2016–2017
-
-Boks 10.6 Tilsyn med tekniske fagskoler – nettbaserte utdanninger
-NOKUT har satt i gang et tilsynsprosjekt knyttet
-til tekniske fagskoleutdanninger. Se boks 10.10.
-Formålet med tilsynsprosjektet er å følge opp
-om utdanningene er tilpasset de siste årenes lovog forskriftsendringer. Som en del av tilsynet
-vurderer NOKUT nærmere nettbaserte tekniske fagskoleutdanninger. De fleste tekniske
-fagskoleutdanningene som tilbys på nett, er
-såkalte «nettbaserte med samlinger», det vil si at
-undervisning og samhandling foregår vekselvis
-på internett og fysisk lokasjon.
-Digitale verktøy for læring er i stadig utvikling. Tilsynet har så langt avdekket at det er et
-utviklingspotensial knyttet til faglærernes digitale kompetanse og kunnskap i nettpedagogikk
-
-til å gi studentene praksisnær utdanning, og den
-kan muliggjøre faglig oppdatering for de ansatte.
-Som nevnt i kapittel 2 har mange fagskoler
-bakgrunn i fjernundervisning, brevkurs eller
-andre tilrettelagte former for elektroniske eller
-papirbaserte læremidler, gjerne i kombinasjon
-med fysiske møter. Mange fagskoleutdanninger
-tilbys i dag enten som helt eller delvis nettbaserte.
-Det er gjennomført få undersøkelser av de
-fleksible utdanningstilbudene i fagskolesektoren.
-I kartleggingen NIFU har gjort av etter- og videreutdanningstilbud i Norge, trekkes spesielt økonomi frem som et hinder for utviklingen av etterog videreutdanningstilbud i fagskolesektoren, jf.
-figur 10.1.48 NOKUT er også i ferd med å gjennomføre et tilsyn med nettbaserte utdanninger i
-de tekniske fagskolene. Se boks 10.6.
-I utdanninger som tilbys på nett, er det særlige
-utfordringer knyttet til faglig ansattes kompetanse
-når det gjelder pedagogisk bruk av teknologi for
-undervisning og læring. Dette krever økonomiske
-ressurser. Regjeringen mener at det å åpne for
-muligheten til å søke utviklingsmidler vil kunne
-bidra til bedre tilrettelegging av fleksible og oppdaterte utdanningsløsninger i fagskolesektoren,
-og har derfor foreslått å sette av midler til dette
-formålet i budsjettet for 2017.
-Tiltak: Regjeringen vil foreslå å tilrettelegge for
-å fremme bruk av teknologi for læring i fagskoleutdanningen.
-48
-
-Tømte, Olsen, Waagene, Solberg, Børing og Borlaug
-(2015)
-
-og til bruken av digitale verktøy i de nettbaserte
-utdanningene. Digitale verktøy brukes i stor
-grad til å legge ut informasjon til studentene,
-men er i mindre grad brukt for å fremme studentaktivitet, samhandling mellom studenter og
-samhandling mellom studenter og lærere.
-Tilsynet har også avdekket ulik forståelse og
-bruk av terminologi i de nettbaserte utdanningene. Kjernebegreper som «nettpedagogisk
-kompetanse» og «nettbasert utdanning» tolkes
-og forstås ulikt.
-Kilde: NOKUT. Tilsynet var ikke avsluttet da meldingen ble
-lagt frem. Rapporten fra tilsynet vil bli publisert på NOKUTs
-hjemmesider.
-
-Utdanningens lengde
-Fagskoleutdanningen er i dag maksimalt to år, og
-regjeringen mener det er viktig at dette fortsatt
-skal være normalordningen. Det er en del av fagskoleutdanningens styrke at den er kort og yrkesrettet og får studentene raskt ut i arbeid. Det viser
-seg imidlertid at to år i enkelte tilfeller kan bli for
-kort tid. Dette gjelder kanskje spesielt utdanninger for bransjer med mange sertifiseringsordninger.
-I NOU 2014: 14 Fagskolen – et attraktivt utdanningsvalg fremholder utvalget at den teknologiske
-utviklingen og tilpasningen til arbeidslivets kompetansebehov i enkelte tilfeller kan kreve lengre
-utdanningsløp. Regjeringen er enig i at det vil
-være uheldig om de ytre rammene legger strukturelle hindringer i veien for kvalitetsutvikling og tilpasning til arbeidslivets kompetansebehov. Samtidig bør ikke fagskoleutdanningen bli for lik
-utdanning som tilbys ved universitetene og høyskolene. I NOU-en advares det også mot at lengre
-utdanninger kan være mer krevende både for
-arbeidsgiverne og for studentene, som ofte er i en
-annen livsfase enn studenter i universitets- og
-høyskoleutdanning.
-I høringssvarene til NOU-en gir enkelte fagskoler uttrykk for at de ønsker at det skal åpnes
-for lengre utdanningsløp i særlige tilfeller der
-enkeltnæringer har behov for det.
-Regjeringen mener at mangelen på mulighet
-for å opprette lengre utdanningsløp i fagskolene
-kan føre til at utdanninger som burde være fag-
-
-[Side 89]
-
-2016–2017
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-skoleutdanninger, isteden blir opprettet som
-bachelorutdanninger. For å begrense den akademiske driften i fagskoleutdanningen, som har
-kommet delvis på grunn av begrensningen i
-utdanningens lengde, ønsker regjeringen derfor i
-helt spesielle tilfeller å åpne for at fagskoleutdanning kan bli treårig. Dette vil gjelde i tilfeller der
-utdanningen vanskelig lar seg gjennomføre på to
-år, eksempelvis på grunn av autorisasjons- eller
-sertifiseringskrav. Det er viktig at eventuelle lengre fagskoleutdanninger må oppfylle kompetansekrav som stilles av det avtagende arbeidslivet.49
-Muligheten for utvidet utdanningslengde vil bidra
-til å synliggjøre fagskoleutdanningen som en selvstendig utdanningsvei og forhindre at fagskolene
-ser seg nødt til å endre karakter for å tilfredsstille
-kravene i universitets- og høyskoleloven.
-Økningen i lengden på fagskoleutdanningene
-kan komme ved at fagskolene søker NOKUT om å
-opprette enten nye treårige utdanningstilbud eller
-kortere påbygningsutdanninger som bygger på
-andre fagskoleutdanninger, slik at den samlede
-utdanningen overstiger rammen på to år. Det er
-viktig å understreke at fagskoleutdanninger av
-mer enn to års varighet skal være unntak. Regjeringen vil derfor at det skal søkes om særskilt dispensasjon for å opprette fagskoleutdanninger som
-alene eller i kombinasjon med andre utdanninger
-skal være av mer enn to års varighet. Dette vil
-også gjelde fagskoler med fagområdegodkjenning.
-Minimum varighet for fagskoleutdanning er et
-halvt år. I 2015 var 315 av totalt 1 323 fagskoleutdanninger av et halvt års varighet (30 fagskolepoeng). Se tabell 3.3. Utvalget bak NOU 2014: 14
-Fagskolen – et attraktivt utdanningsvalg stilte
-spørsmål ved om det er hensiktsmessig at fagskolene tilbyr utdanninger som er så korte som et
-halvt år. I den påfølgende høringen ga flere
-høringsinstanser uttrykk for at disse utdanningene er viktige fordi de svarer på behov i arbeidslivet. Regjeringen vil derfor opprettholde muligheten for å tilby fagskoleutdanninger av et halvt
-års varighet.
-Tiltak: Regjeringen vil foreslå en unntaksbestemmelse i fagskoleloven for å åpne for fagskoleutdanning på inntil tre år.
-Internasjonalisering
-Internasjonalisering er viktig for å sikre at de som
-tar fagskoleutdanning, har kompetansen som er
-
-nødvendig i et stadig mer flerkulturelt og globalisert samfunns- og arbeidsliv. I tillegg kan internasjonalt samarbeid være et godt virkemiddel for å
-utvikle og sikre kvaliteten i utdanningen, for
-eksempel ved at det gir kunnskap om andre faglige tradisjoner og impulser til nye måter å gjøre
-ting på.
-Dette bekreftes i en studie om internasjonalisering av høyere utdanning fra Europaparlamentet.50 Den er basert på to undersøkelser, utført av
-henholdsvis International Association of Universities (IAU) og European Association for International Education (EAIE).51 Ifølge denne studien
-blir kvalitetsutvikling av undervisning og læring
-og det å forberede studentene på å leve og arbeide
-i en globalisert verden fremhevet som de viktigste
-fordelene og begrunnelsene for internasjonalisering av ledere og internasjonalt ansvarlige ved universiteter og høyskoler.
-En annen europeisk studie, om virkningene av
-Erasmus-samarbeidet i høyere utdanning, The
-Erasmus Impact Study, viser at nyutdannede med
-internasjonal erfaring klarer seg mye bedre på
-arbeidsmarkedet enn dem som ikke har det.52
-Sannsynligheten for å oppleve langtidsledighet er
-halvparten så stor for en tidligere Erasmus-student som for en person uten utenlandsopphold
-som del av utdanningen.
-Regjeringen er opptatt av bedre deltakelse i
-EUs utdanningsprogram Erasmus+. Det skal bidra
-til kvalitetsutvikling, til å nå målene i norsk utdanningspolitikk og til å styrke det internasjonale
-utdanningssamarbeidet på alle nivåer. I tillegg vil
-det gjøre utdanningen relevant og studentene
-attraktive for arbeidsmarkedet, samtidig som studentene får mulighet til faglig og personlig utvikling.
-Aktuelle prosjekter for fagskolen i dette programmet er mobilitet og strategiske partnerskap.
-Sistnevnte skal bidra til innovativ praksis (metodikk, verktøy, pensum og studieprogram), samarbeid med ulike aktører, erfaringsdeling og nettverk. Tverrsektorielle prosjekter, IKT, entreprenørskap og samarbeid med nærings- og arbeidsliv
-er spesielt prioritert. Det er viktig at norske fagskoler benytter dette virkemidlet for å bidra til
-innovasjon, relevans og kvalitet i utdanningen.
-Ifølge Senter for internasjonalisering av utdanning, SIU, er VEA – Statens fagskole for gartnere
-og blomsterdekoratører så langt den eneste fag50
-51
-
-49
-
-Jf. forslag i NOU 2014: 14 Fagskolen – et attraktivt utdanningsvalg.
-
-89
-
-52
-
-Se Europaparlamentet (2015)
-Egron-Polak og Hudson (2014) og Engel, Sandström, van
-der Aa og Glass (2015)
-Europakommisjonen (2014)
-
-[Side 90]
-
-90
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-skolen som har deltatt i internasjonale utdanningsprogram over tid. Vea har gjennomført både
-mobilitetsprosjekt og partnerskap. Formålet i prosjektene har vært å utvikle flernasjonalt faglig felleskap og undervisningsopplegg og forberede studentene til et europeisk arbeidsmarked.
-I 2014 kartla NOKUT internasjonaliseringsarbeidet ved norske fagskoler.53 Den viser at 34 av
-de 55 fagskolene som svarte (62 prosent), hadde
-internasjonalisering av én eller flere typer som var
-definert i undersøkelsen: internasjonalt orienterte
-utdanninger, utenlandske studenter, utvekslingsopphold og/eller internasjonalisering av fagstaben. 21 skoler (38 prosent) hadde ingen internasjonaliseringsaktiviteter. De humanistiske og estetiske utdanningene skilte seg ut som de klart mest
-internasjonalt orienterte, men også innenfor de
-tekniske fagene var det en del internasjonaliseringsarbeid.
-17 av de 55 institusjonene i undersøkelsen (ca.
-31 prosent) hadde mulighet for perioder i utlandet
-som en del av utdanningen. Dette var hovedsakelig korte opphold på under seks uker, oftest én
-eller to uker. Bare fem av fagskolene organiserte
-opphold av lengre varighet, det vil si fra tre måneder til et helt semester. Ett av de overraskende
-funnene i undersøkelsen er at det ikke var en
-entydig sammenheng mellom fagskolenes størrelse og internasjonaliseringsarbeidet.
-Det var lite internasjonalisering blant det faglige personalet. Bare seks fagskoler meldte at de
-hadde utenlandske lærere til å undervise, mens
-14 fagskoler hadde ordninger for kompetanseheving for ansatte i utlandet. Undersøkelsen viser at
-det pågår noe internasjonaliseringsarbeid ved fagskolene, men at det er potensiale for mer.
-I tillegg til det internasjonale samarbeidet som
-del av norsk utdanning er det flere både offentlige
-og private fagskoler som har inngått avtaler om
-innpassing av egen fagskoleutdanning i utenlandsk bachelorutdanning. De fleste av disse avtalene er inngått av private fagskoler. For eksempel
-har Høyskolen Kristiania (Norges kreative fagskole) samarbeidet med universiteter i utlandet
-siden begynnelsen av 1990-tallet. Noroff har samarbeidsavtaler med universiteter i England, Australia, Wales og Sør-Afrika, der to år på Noroff
-pluss ett år ved samarbeidende institusjon i utlandet gir bachelorgrad innenfor nettverk og IT-sikkerhet, lyd- og musikkproduksjon, filmproduksjon, 3D spilldesign, 3D filmproduksjon og grafisk
-design. Dette gjelder også for nettstudenter.
-
-Hvert år drar mellom 200 og 250 studenter fra
-de private fagskolene som er representert gjennom Abelia – Forum for fagskoler, til utenlandske
-universiteter disse fagskolene har avtaler med.
-Studentene reiser i hovedsak til engelskspråklige
-land.54
-Det er ingen nordisk avtale om overganger på
-fagskolenivået. Det skyldes at Island og Finland
-ikke har noe som tilsvarer fagskoleutdanning. I tillegg er organiseringen svært ulik i Danmark og
-Sverige, som omtalt i kapittel 3.5. Det at de svenske yrkeshögskoleutbildningene har godkjenning kun for et visst antall år og betydelig medfinansiering fra næringslivet gjør at de kan virke litt
-vanskelig tilrettelagt for langsiktige samarbeidsavtaler. Når det gjelder nordisk samarbeid, er det
-mest aktuelt å se til Danmark for fagskolene, spesielt de tekniske fagskolene, da de danske
-erhvervsakademiene hovedsakelig gir utdanning
-innenfor økonomiske og tekniske fag. Det er flere
-eksempler på avtaler om overgang fra norsk teknisk fagskoleutdanning til dansk erhvervsuddannelse og deretter videre til professionsbacheloruddannelse.55 For eksempel har Fagskolen i Vestfold samarbeid med Erhvervsakademiet i
-Aalborg. Fagskolen Oslo og Akershus har samarbeid med København Ervervsakademi og VIA
-University College i Horsens.
-Regjeringen ønsker å stimulere til mer nordisk
-og europeisk fagskolesamarbeid og vil legge til
-rette for at utviklingsmidlene også kan benyttes til
-å etablere slikt samarbeid.
-I stortingsmeldingen om internasjonalisering
-av utdanning fra 2009 ble det lagt vekt på at internasjonalisering var et ledd i innsatsen for å styrke
-ytterligere kvaliteten, relevansen og attraktiviteten til det norske utdanningssystemet.56 Meldingen viser til at fagskolen har særlige utfordringer på dette området, og at den burde gis bedre
-muligheter for å delta i internasjonalt samarbeid. I
-den sammenheng vises det også til at fagskolenes
-studenter «ikke har rett til studie- og eventuelt
-skolepengestøtte for opphold i utlandet som ledd i
-norsk fagskoleutdanning, slik delstudenter i høyere utdanning har». Studenter ved universiteter
-og høyskoler kan få støtte til delstudier i utlandet
-54
-
-55
-56
-
-53
-
-Kantardjiev (2014)
-
-2016–2017
-
-Ifølge Statens lånekasse var det i 2015–16 ca. 210 studenter
-fra fagskoler som fortsatte ved utenlandske universiteter.
-Det tilsvarende tallet for 2014–15 var ca. 250. Studentene
-reiser mest til USA, Australia, Irland og Storbritannia, men
-også til Sør-Afrika, New Zealand og Danmark.
-Ikke alle professionsbacheloruddannelser gir direkte
-adgang til kandidatuddannelser (master).
-St.meld. nr. 14 (2008–2009) Internasjonalisering av utdanning.
-
-[Side 91]
-
-2016–2017
-
-både for korte og lange opphold. Minimumsperioden for å få støtte for delstudium er fire uker.
-Regjeringen ønsker mer internasjonalisering
-av fagskoleutdanningen. Det er derfor i budsjettet
-for 2017 foreslått å gi fagskolestudentene mulighet til å få støtte fra Lånekassen til delstudier i
-utlandet, på lik linje med universitets- og høyskolestudentene. Det er en forutsetning at fagskolen i
-Norge godkjenner studieoppholdet i utlandet som
-en del av den utdanningen søkeren tar hos dem.
-Tiltak: Regjeringen vil innføre rett til studie- og
-eventuelt skolepengestøtte for opphold i utlandet som
-ledd i norsk fagskoleutdanning.
-10.3.2 Samspill med arbeidslivet i utdanningen
-For at fagskoleutdanningen skal være yrkesrettet
-og ha nærhet til arbeidslivet den utdanner for, må
-undervisningen skje i overenstemmelse med erfaringsbasert bransjekunnskap og arbeidslivets
-dagsaktuelle behov. Den må også bygge på oppdatert kunnskap og teknologi.
-En NIFU-studie fra 2012 viser at praksis som
-del av utdanningen er av stor betydning for universitets- og høyskolestudenter.57 Kontakt med
-arbeidslivet er vanlig i de fleste utdanningene,
-oppfattes som nyttig av studentene og har positiv
-effekt på motivasjon, gjennomføring av studiene
-og sysselsetting. Ifølge NIFU-studien er det mest
-vanlig med korte, uforpliktende former for kontakt med arbeidslivet, som for eksempel foredrag og ekskursjoner (ca. 70 prosent) prosjektsamarbeid (ca. 60 prosent) og praksis (ca. 30
-prosent). Praksis er samarbeidsformen som
-ifølge studentene gir høyest utbytte i form av
-praktiske ferdigheter. I tillegg oppga nesten 60
-prosent av kandidatene at samarbeidet hadde
-gitt økt motivasjon til gjennomføring av studiet i
-høy eller nokså høy grad. Blant dem som hadde
-hatt kontakt med arbeidslivet i studietiden, var
-det færre som var forsinket enn blant dem som
-ikke hadde hatt det.
-I studien antas det videre at samarbeid med
-arbeidslivet i studietiden er gunstig for sysselsetting etter avlagt grad, både fordi samarbeidet kan
-gi kandidatene kompetanse som oppfattes som
-relevant av arbeidsmarkedet, og fordi de får kontakter i arbeidslivet som de kan ha nytte av når de
-søker jobb.
-Studien viser altså at samarbeid med arbeidslivet under utdanningen ser ut til å øke gjennomføringen og kandidatenes muligheter på arbeidsmarkedet. Effekten er høyest innenfor fagområ57
-
-Næss, Thune, Støren og Vabø (2012)
-
-91
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-Boks 10.7 Eksempler på samarbeid
-med arbeidslivet
-1. oppgaver i eller om samarbeid med bedrift
-eller offentlig virksomhet
-2. lærere i kombinerte stillinger og gjestelærere
-3. hospitering for fagskolelærere i relevante
-virksomheter
-4. mentorordninger
-5. arbeidslivspaneler
-6. samarbeid om utstyr og lokaler
-7. praksis, bedriftsbesøk eller næringslivsdager
-8. samarbeid som del av klyngeprogram og
-andre nærings- og innovasjonspolitiske
-virkemidler.
-Hvert enkelt fagmiljø må i samarbeid med den
-aktuelle bransjen finne den samarbeidsformen
-som er mest hensiktsmessig for utdanningen.
-
-der med liten tradisjon for slikt samarbeid. Selv
-om denne studien gjelder kandidater fra universitets- og høyskoleutdanning, har den også relevans
-for fagskoleutdanningene. Funnene må imidlertid
-vurderes utfra fagskolestudentenes erfaringsbakgrunn.
-Fagskolerådet fremhever praksisdimensjonen som særlig viktig for kvaliteten i fagskoleutdanningene. I NOU 2014: 14 Fagskolen – et
-attraktivt utdanningsvalg anbefales det at det stilles lovfestet krav om praksis i alle fagskoleutdanningene. Det er ikke alle i Fagskolerådet enige i,
-ifølge NIFUs evaluering. Dette gjenspeiler de
-store ulikhetene fagskolene imellom og at praksis arter seg forskjellig innenfor de ulike bransjene og fagområdene. For enkelte fagskoleutdanninger er praksis obligatorisk. Det gjelder for
-eksempel kadettperioden innenfor maritim
-utdanning. For andre er praksistiden et prosjektarbeid i en bedrift, slik det ofte er i de tekniske fagskolene. For kunstutdanningene er
-praktisk arbeid en vesentlig del av utdanningen,
-men foregår i hovedsak på skolen. For andre
-igjen ligger den viktigste praksisdelen forut for
-utdanningen og er et opptakskrav.
-Gjennom opprettelse av søkbare utviklingsmidler, jf. kapittel 9.3, vil regjeringen legge til rette
-for at det for eksempel kan gis støtte til opprettelse av nye utdanninger det er særlig behov for i
-
-[Side 92]
-
-92
-
-Meld. St. 9
-Fagfolk for fremtiden
-
-2016–2017
-
-Boks 10.8 Eksempler på innovative fagskoleutdanninger ved Fagskolen Innlandet
-Fagskolen Innlandet er en av landets største fagskoler med over 1 000 studenter. Fagskolen har
-et tett samarbeid med næringslivet lokalt og
-regionalt, blant annet gjennom næringsklyngen
-på Raufoss. Fagskolen Innlandet har lang erfaring med å tilby nettbasert utdanning, og 80 prosent av studentene benytter seg av slike tilbud.
-Studenter som tar nettbasert utdanning, deltar
-på samlinger og undervisning via læringsplattformen Fronter.
-Kompositt- og plastbearbeiding
-Kompositt- og plastmaterialer tas i bruk på nye
-områder til erstatning for metaller. Trendene
-viser vekst i bruken av kompositt- og plastmaterialer innenfor maritim sektor, olje og offshore,
-sport- og fritidsprodukter. Det er en lignende
-utvikling i bygg- og anleggsbransjen. Fremst i
-utviklingen er bil- og luftfartsindustrien.
-Fagskolen har utviklet et nytt kurs i kompositt- og plastbearbeiding i samarbeid med lokalt
-næringsliv. Det legges opp til at de som har gjennomført utdanningen, skal gå inn i en lederjobb,
-og prosjektarbeid er derfor en viktig arbeidsform. Prosjektene er tverrfaglige, og utdanningen avsluttes med et hovedprosjekt i samarbeid
-med næringslivet.
-Utdanningen på heltid har en varighet på to
-år. Den tilbys også på deltid og nettbasert, og da
-
-arbeidslivet, eller til utdanninger som opprettes i
-særlig godt samarbeid med arbeidslivet.
-10.3.3 De ansattes fag- og yrkeskompetanse
-For å være en god lærer innenfor fagskoleutdanning er det avgjørende med solid fagkunnskap,
-kunnskap om yrkesfeltet og god pedagogisk og
-yrkesdidaktisk kompetanse. Undervisningspersonalet skal ha relevant og oppdatert yrkeserfaring,
-og de bør inngå i nært samarbeid med den aktuelle
-bransjen. Derimot er det ikke krav om at de skal ha
-forskningskompetanse, slik det kreves av det faglige personalet ved universitetene og høyskolene.
-Faglig fornyelse og kritisk refleksjon er kjennetegn på gode fagmiljø. Et godt undervisningsmiljø holder seg oppdatert på ny kunnskap, nye
-
-over fire år med flere tredagers samlinger hvert
-år.
-Agroteknikerutdanning innenfor natur- og
-kulturbasert entreprenørskap
-Multitasking er viktig i de norske bygdene, ofte i
-kombinasjon med tradisjonell landbruksvirksomhet. I Norsk bygdeforsknings trendundersøkelse 2014 oppgir over 50 prosent av gårdbrukerne at de driver med en eller annen form for
-tilleggsnæring med utgangspunkt i gårdens ressurser. I tillegg er det flere andre gründere i
-bygdene som utvikler og driver næring basert
-på lokale natur- og kulturressurser.
-Ideen bak agroteknikerutdanningen i naturog kulturbasert entreprenørskap er nettopp å
-bidra til entreprenørskap basert på lokale og
-regionale ressurser. De som har fullført denne
-utdanningen, skal kunne bruke aktuelle verktøy
-for å utvikle og realisere en forretningsidé og
-bidra positivt for utvikling av egen bedrift og for
-samfunnet. I tillegg har de kunnskap om å lede
-små og mellomstore bedrifter, samt salg og markedsføring.
-Tilbudet er samlingsbasert, med noe nettbasert undervisning/veiledning i tillegg, og gis
-ved Ål og Hvam videregående skoler.
 Kilde: http://fagskolen-innlandet.no/
 
-metoder og verktøy og ny teknologi og tar initiativ
-til utvikling av utdanningene, herunder undervisnings- og vurderingsmetoder tilpasset fagets,
-bransjens og/eller yrkets egenart.
-Hva slags kompetanse har de ansatte i fagskolen? Departementets krav er nedfelt i forskrift
-om kvalitetssikring og kvalitetsutvikling i høyere
-utdanning og fagskoleutdanning § 5-2 nr. (3) bokstav b):
-Tilbyderen skal ha fast ansatte i undervisningsstilling og administrative stillinger med en slik
-kompetanse at tilbyder er i stand til å kvalitetssikre og utvikle sine pedagogiske metoder og
-nye og eksisterende utdanningstilbud innenfor
-sentrale fagområder som inngår i utdanningene.
+**Rammeslutt**
+
+1.  **De ansattes fag- og yrkeskompetanse**
+
+For å være en god lærer innenfor fagskoleutdanning er det avgjørende med solid fagkunnskap, kunnskap om yrkesfeltet og god pedagogisk og yrkesdidaktisk kompetanse. Undervisningspersonalet skal ha relevant og oppdatert yrkeserfaring, og de bør inngå i nært samarbeid med den aktuelle bransjen. Derimot er det ikke krav om at de skal ha forskningskompetanse, slik det kreves av det faglige personalet ved universitetene og høyskolene.
+
+Faglig fornyelse og kritisk refleksjon er kjennetegn på gode fagmiljø. Et godt undervisningsmiljø holder seg oppdatert på ny kunnskap, nye metoder og verktøy og ny teknologi og tar initiativ til utvikling av utdanningene, herunder undervisnings- og vurderingsmetoder tilpasset fagets, bransjens og/eller yrkets egenart.
+
+Hva slags kompetanse har de ansatte i fagskolen? Departementets krav er nedfelt i forskrift om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning § 5-2 nr. (3) bokstav b):
+
+Tilbyderen skal ha fast ansatte i undervisningsstilling og administrative stillinger med en slik kompetanse at tilbyder er i stand til å kvalitetssikre og utvikle sine pedagogiske metoder og nye og eksisterende utdanningstilbud innenfor sentrale fagområder som inngår i utdanningene.
+
+1.  **Kompetanseutvikling i regionale næringsmiljøer**
+
+Innovasjon Norge eies av staten og fylkeskommunene og har som formål å realisere verdiskapende næringsutvikling i hele landet gjennom tre hovedarbeidsområder: entreprenørskap, vekst i bedrifter og innovasjonsmiljøer.
+
+I perioden 2013–16 har Innovasjon Norge på oppdrag fra Kommunal- og moderniseringsdepartementet hatt ansvar for en satsing på kompetanseutvikling i regionale næringsmiljøer. Formålet med satsingen har vært å forsterke regionale næringsmiljøers tilgang på relevant kompetanse gjennom samarbeid med fagskoler, høyskoler og universiteter for å utvikle utdanningstilbud. Denne særskilte satsingen vil for 2017 bli ført videre av fylkeskommunene gjennom et regionalpolitisk tilskudd. I tillegg vil Innovasjon Norges arbeid mot innovasjonsmiljøer fortsatt være åpent for fagskolene gjennom klyngesamarbeid.
+
+Nedenfor følger eksempler på prosjekter innenfor satsingen på kompetanseutvikling i regionale næringsmiljøer der fagskoler er/har vært aktive aktører:
+
+- Osterfjord Næringssamarbeid – Kompetanseutvikling i CNC og robot-næringsmiljøet i Hordaland
+
+- Nasjonalt Senter for Komposittkompetanse- Kompositt- og polymerutdanning for framtidsretting av norsk mekanisk plastbearbeidene industri
+
+- Maritim forening Sogn og Fjordane/NCE Subsea – PROSJEKTET 2 – etablera tilbod om samansett kompetanse retta mot havrommet og havromsteknologi
+
+- Tretorget AS – Trekompetanse innlandet
+
+- Eyde-Klyngen – Kompetanseutvikling for verdens mest ressurseffektive og bærekraftige prosessindustri
+
+- Eyde – Klyngen – Eyde operatør
+
+- Innovative opplevelser – Opplevelsesbasert verdiskaping i Nord
+
+- IKT Telemark – Industriell datasenterkompetanse
+
+- Kongsbergregionen – Smart automasjon og produksjon for fremtidig norsk industri
+
+- TotAl gruppen – Avansert -og automatisert utdanning for framtidsretting av norsk vareproduserende/mekanisk industri med utgangspunkt i Industri 4.0
+
+- Arena Innovasjon Torskefisk (AIT) – Industriell utvikling gjennom kompetansebygging i AIT
+
+- Kunnskapsparken Helgeland – Mobilisering til kompetanseløft i mineralnæringen
+
+**Rammeslutt**
+
+Denne bestemmelsen er presisert i fagskoletilsynsforskriften, fastsatt av NOKUT, ved at det er satt krav til *fagmiljøet* for fagskoleutdanningen som godkjennes, ikke til den enkelte ansatte, jf. § 3-5. Det viktige er at undervisningspersonalets samlede kompetanse er tilpasset den aktuelle utdanningen, og at personalet må være stort og stabilt nok til å gjennomføre fastsatte læringsaktiviteter.
+
+Det er krav om at alle som underviser, må ha formell utdanning innenfor aktuelt fagområde minst på samme nivå som det undervises i.[^154] Det er også, som nevnt, krav om at fagmiljøet skal ha relevant og oppdatert yrkeserfaring. For alle fagskoleutdanningene skal det videre være en faglig ansvarlig med formell faglig kompetanse som må være ansatt i minimum 50 prosent stilling, og minst én person må ha formell pedagogisk utdanning og erfaring. I tillegg er det krav om at miljøet må ha digital kompetanse relevant for utdanning, samt at det for utdanninger med praksis må være praksisveiledere med «kompetanse til å veilede og vurdere studentene i praksis».[^155]
+
+Siden det inngår i søknadsvurderingen, har NOKUT god informasjon om de ansattes kvalifikasjoner på tidspunktet for godkjenning av fagskoleutdanningen. Det gir likevel ikke et godt nok grunnlag for tilstrekkelig oversikt over kompetansen til dem som underviser i fagskoleutdanningene: For det første setter ikke alltid søkerne opp listen over sine ansattes kvalifikasjoner på en måte som gjør det lett å sammenligne på tvers, og for det andre mangler det gode systemer for å vedlikeholde denne kunnskapen. Regjeringen vil derfor arbeide for å få bedre statistikk på dette området.
+
+*Tiltak: Regjeringen vil sikre et godt system for informasjon om fagskoleansattes kvalifikasjoner.*
+
+1.  **Tilsyn med tekniske fagskoler – faglig og pedagogisk ansvarlig**
+
+I 2014 ble det innført et krav om at det må være en dedikert faglig og en dedikert pedagogisk ansvarlig for alle fagskoleutdanningene. Som en del av tilsynet med de tekniske fagskolene, jf. boks 10.6, har NOKUT derfor sett nærmere på hvordan dette kravet er implementert i de tekniske fagskoleutdanningene.
+
+Pedagogisk ansvarlig skal ha et særlig ansvar for det pedagogiske opplegget for utdanningen, inkludert gjennomføring og kvalitetssikring av det pedagogiske opplegget. Pedagogisk ansvarlig skal også følge opp undervisningspersonalet.
+
+Faglig ansvarlig skal sikre at studentene gjennomfører utdanningen som beskrevet i planen og oppnår læringsutbyttet for utdanningen. Faglig ansvarlig skal også følge opp dem som underviser, praksisveiledere og gjestelærere ved utdanningen.
+
+Tilsynet har foreløpig konkludert med at faglig og pedagogisk ansvarlige har tilfredsstillende kompetanse i henhold til kravene i fagskoletilsynsforskriften. Beskrivelsene av oppgavene deres varierer imidlertid fra fagskole til fagskole. Mange fagskoler har også oppnevnt faglig og/eller pedagogisk ansvarlige som har ansvar for flere utdanninger samtidig. Det er noen steder uklart hvordan det sikres at vedkommende har kapasitet til å fylle ansvaret for alle utdanningene. Funnene tyder på at det ikke er en omforent forståelse i sektoren av hva som er ment å ligge i faglig og pedagogisk ansvarliges oppgaver og ansvar.
+
+Kilde: NOKUT. Tilsynet var ikke avsluttet da meldingen ble lagt frem.
+
+**Rammeslutt**
+
+*Utdanningsbakgrunn*
+
+De fagskoleansatte har variert utdanningsbakgrunn, med alt fra grunnskole til universitets- og høyskoleutdanning som høyeste utdanningsnivå. Det er rimelig at bakgrunnen er variert, all den tid det for noen fagskoleutdanninger ikke finnes andre relevante utdanningstilbud, og mange fagskoleutdanninger fordrer opplæring og veiledning utført av personer med omfattende praktisk erfaring fra bransjen. Det som er viktig, er at fagskolenes ansatte samlet sett har god og relevant praktisk og teoretisk kunnskap.
+
+I fagskoletilsynsforskriften er det satt følgende utdanningskrav til dem som underviser i fagskolene, jf. § 3-5 første ledd bokstav a):
+
+Formell utdanning minst på samme nivå som det undervises i, innen det aktuelle fagområdet eller nærliggende fagområder. For nye fagområder der det ennå ikke tilbys tertiær utdanning, kan langvarig yrkespraksis erstatte formell utdanning.
+
+Tabell 10.5 viser en oversikt over utdanningsbakgrunnen til de fagskoleansatte. Av registreringsgrunner er det for en del institusjoner, hovedsakelig fylkeskommunale, ikke mulig å skille ansatte i fagskoleutdanning fra ansatte i videregående opplæring. Data for disse kombinerte skolene er derfor skilt ut i egen kategori.
+
+Statistikken gir også et noe misvisende inntrykk av kvalifikasjonene til de fagskoleansatte fordi fagskoleutdanning ikke er skilt fra videregående opplæring i SSBs arbeidsmarkedsstatistikk. Ansatte med fagskoleutdanning er følgelig markert med videregående opplæring som høyeste utdanningsnivå. Fordi NOKUT normalt ikke godkjenner søknader der lærerne har lavere formell utdanning enn fagskole, jf. kravet i fagskoletilsynsforskriften nevnt tidligere er det rimelig å anta at de aller fleste av dem som er oppgitt med videregående opplæring som høyeste utdanningsnivå i tabell 10.5, i realiteten har fagskoleutdanning.
+
+1.  Sysselsatte i fagskoler og kombinerte videregående skoler og fagskoler, etter utdanningsnivå og sektor. 2014. Antall.
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Høyeste oppnådde utdanningsnivå | Kombinerte videregående skoler og fagskoler | Fagskoler |  |  |
+|  |  |  |  |  |
+|  | Private fagskoler | Offentlige fagskoler | Private fagskoler | Offentlige fagskoler |
+|  |  |  |  |  |
+| Grunnskole | \- | 176 | 48 | 24 |
+|  |  |  |  |  |
+| Videregående opplæring (inkl. fagskoleutdanning) | 4 | 633 | 157 | 98 |
+|  |  |  |  |  |
+| Høyere utdanning | 85 | 2 141 | 348 | 360 |
+| Uoppgitt/ukjent utdanningsbakgrunn | \- | 22 | 14 | 3 |
+| Sum | 89 | 2 972 | 567 | 485 |
+|  |  |  |  |  |
+
+Merknad: I 2014 var det 26 kombinerte skoler, dvs. skoler med både videregående opplæring og fagskoleutdanning. De hadde samlet 5 490 av i alt 15 970 studenter. 87 virksomheter var rene fagskoler. De hadde i alt 10 480 studenter, dvs. nesten 2/3 av fagskolestudentene. (Én av fagskolene var uten studenter, men med to ansatte.)
+
+Kilde: SSB
+
+Ved de rene fagskolene, som i alt har nesten to tredjedeler av studentene, har 67 prosent av de ansatte høyere utdanning, 24 prosent videregående opplæring, det vil si mest sannsynlig fagskoleutdanning, og snaue syv prosent grunnskole som høyeste oppnådde utdanningsnivå, jf. tabell 10.5. I tillegg er det en gruppe vi ikke kjenner bakgrunnen til, men den er såpass liten at den ikke påvirker totalbildet vesentlig.
+
+Når en skal vurdere kompetansekravene til de ansatte i fagskolene, er det viktig å være oppmerksom på at det finnes fagskoleutdanninger på områder der det ikke tilbys høyere utdanning. I tillegg er det viktig at fagskolene kan trekke på medarbeidere med lang og bred erfaring fra yrkesfeltet. Derfor bør det som nevnt ikke være et absolutt krav at alle som underviser innenfor fagskoleutdanning, har høyere utdanning. Det kan imidlertid diskuteres om andelen bør opp fra dagens 67 prosent, spesielt i lys av at det er vedtatt krav om mastergrad for nye grunnskolelærere og for alle som underviser i allmennfag i videregående opplæring, samt at kvalifikasjonskravene for faglig ansatte ved universiteter og høyskoler er skjerpet. Det at syv prosent av de ansatte har grunnskole som høyeste oppnådde utdanningsnivå, kan det også være verd å se nærmere på.
+
+1.  **Pedagogisk ansvarlig**
+
+I henhold til NOKUTs *Veiledning til fagskoletilsynsforskriften* skal pedagogisk ansvarlig ha et særlig ansvar for det pedagogiske opplegget for utdanningen, det vil si valg av pedagogisk tilnærming og metodisk og pedagogisk tilrettelegging av utdanningen, valg av vurderingsordninger tilpasset utdanningens læringsutbytte og gjennomføring og kvalitetssikring av det pedagogiske opplegget. Pedagogisk ansvarlig skal også følge opp undervisningspersonalet og sikre at de følger det pedagogiske opplegget.
+
+Den pedagogisk ansvarlige kan ha ansvar for det pedagogiske opplegget ved flere utdanninger. Det er imidlertid avgjørende at den pedagogisk ansvarlige har tilstrekkelig kapasitet til å kvalitetssikre det pedagogiske opplegget for alle utdanningene.
+
+Kilde: NOKUT (2016a)
+
+**Rammeslutt**
+
+Ettersom kvalitet alltid også må ses i relasjon til omgivelsene, er det ikke urimelig å vurdere utdanningskravene til ansatte i fagskolen i lys av kravene som gjelder for undervisningspersonalet i utdanningssystemet for øvrig. Regjeringen vil derfor vurdere om det er behov for å fastsette ytterligere kvalifikasjonskrav til ansatte i fagskolen og om eventuelle krav kan graderes for ulike stillingskategorier.
+
+I søknadene om godkjenning som sendes NOKUT, opereres det med ulike benevnelser som «hovedlærer», «faglærer», «lærer», «timelærer», «gjestelærer» og «veileder». I tillegg brukes ofte «lektor» ved fagskoleutdanningene som er samlokalisert med videregående skole. Fagskoletilsynsforskriften har, som nevnt, dessuten bestemmelser om faglig ansvarlig og pedagogisk ansvarlig. Det kan være hensiktsmessig med en bedre samordning, ved at det for eksempel knyttes forskjellige krav til stillingskategorier som fast ansatte undervisere, gjestelærere og praksisveiledere. Regjeringen vil på denne bakgrunnen vurdere om det kan være behov for en standardisering av krav til ulike stillingskategorier i fagskolen, slik det er på de øvrige nivåene i utdanningssystemet. Det vil også bli vurdert om det er behov for en egen opplæring og/eller sertifisering i veiledning for faglig ansatte som først og fremst har ansvar for praksisopplæring og eventuelle krav til denne. Dette vil måtte utredes i samarbeid med NOKUT og sektoren.
+
+1.  Sysselsatte i fagskoler og i kombinerte videregående skoler (vgs) og fagskoler, etter type virksomhet, type pedagogisk utdanning og avtalt arbeidstid. 2014.
+
+<table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td><p>I alt</p></td>
+<td><p>Andel i prosent</p></td>
+<td><p>Opptil 20 t/uke</p></td>
+<td><p>20–36<br />
+t/uke</p></td>
+<td><p>37 t/uke eller mer</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Kombinerte vgs og fagskoler</p></td>
+<td><p>I alt</p></td>
+<td><p>3 061</p></td>
+<td><p>100</p></td>
+<td><p>488</p></td>
+<td><p>545</p></td>
+<td><p>2 028</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p>PPU</p></td>
+<td><p>1 115</p></td>
+<td><p>36,4</p></td>
+<td><p>100</p></td>
+<td><p>153</p></td>
+<td><p>862</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Allmennlærer</p></td>
+<td><p>214</p></td>
+<td><p>7,0</p></td>
+<td><p>19</p></td>
+<td><p>35</p></td>
+<td><p>160</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Faglærer</p></td>
+<td><p>212</p></td>
+<td><p>6,9</p></td>
+<td><p>23</p></td>
+<td><p>39</p></td>
+<td><p>150</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Barnehagelærer</p></td>
+<td><p>43</p></td>
+<td><p>1,4</p></td>
+<td><p>5</p></td>
+<td><p>11</p></td>
+<td><p>27</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Annen ped. utdanning</p></td>
+<td><p>221</p></td>
+<td><p>7,2</p></td>
+<td><p>31</p></td>
+<td><p>39</p></td>
+<td><p>153</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Ikke lærerutdannet</p></td>
+<td><p>1 254</p></td>
+<td><p>41,0</p></td>
+<td><p>310</p></td>
+<td><p>268</p></td>
+<td><p>676</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Fagskoler</p></td>
+<td><p>I alt</p></td>
+<td><p>1 052</p></td>
+<td><p>100</p></td>
+<td><p>299</p></td>
+<td><p>156</p></td>
+<td><p>597</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>PPU</p></td>
+<td><p>227</p></td>
+<td><p>21,6</p></td>
+<td><p>43</p></td>
+<td><p>29</p></td>
+<td><p>155</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Allmennlærer</p></td>
+<td><p>48</p></td>
+<td><p>4,6</p></td>
+<td><p>11</p></td>
+<td><p>9</p></td>
+<td><p>28</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Faglærer</p></td>
+<td><p>34</p></td>
+<td><p>3,2</p></td>
+<td><p>6</p></td>
+<td><p>7</p></td>
+<td><p>21</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Barnehagelærer</p></td>
+<td><p>10</p></td>
+<td><p>0,9</p></td>
+<td><p>4</p></td>
+<td><p>1</p></td>
+<td><p>5</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Annen ped. utdanning</p></td>
+<td><p>64</p></td>
+<td><p>6,1</p></td>
+<td><p>21</p></td>
+<td><p>12</p></td>
+<td><p>31</p></td>
+</tr>
+<tr>
+<td></td>
+<td><p>Ikke lærerutdannet</p></td>
+<td><p>669</p></td>
+<td><p>63,6</p></td>
+<td><p>214</p></td>
+<td><p>98</p></td>
+<td><p>357</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Merknad: I 2014 var det 26 kombinerte skoler, dvs. skoler med både videregående opplæring og fagskoleutdanning. De hadde samlet 5 490 av i alt 15 970 fagskolestudenter. 87 virksomheter var rene fagskoler. De hadde nesten to tredjedeler av fagskolestudentene, i alt 10 480. (Én av disse skolene var uten studenter, men med to ansatte.)
+
+PPU-Y inngår i tallene for PPU, og yrkesfaglærere inngår i tallene for faglærere.
+
+Kilde: SSB
+
+*Pedagogisk kompetanse*
+
+Det finnes ingen egen pedagogisk utdanning for dem som skal undervise i fagskolene. Det er heller ikke krav om at alle ansatte skal ha pedagogisk utdanning. Fagskoletilsynsforskriften § 3-5 første ledd punkt b) har følgende bestemmelse om undervisningspersonale samlede pedagogiske kompetanse:
+
+Pedagogisk kompetanse relevant for utdanningen. Minst én person skal ha formell pedagogisk utdanning og erfaring, og et særlig ansvar for utdanningens pedagogiske opplegg.
+
+Tabell 10.6 viser at nærmere to tredjedeler (63,6 prosent) av alle ansatte og omtrent 60 prosent av de fulltidsansatte ved «rene» fagskoler mangler pedagogisk utdanning. Av gruppen ansatte som er tilknyttet fagskoleutdanningen i mindre enn halv stilling, mangler over 70 prosent pedagogisk utdanning.
+
+Det kan være verdt å stille spørsmålet om den samlede pedagogiske kompetansen til de fagskoleansatte er tilstrekkelig. Gitt kravet om bransje- og yrkestilknytning og mye praksisrettet opplæring er det antakelig ikke rimelig å forlange at alle som underviser på fagskoleutdanning, skal ha formell pedagogisk skolering. Det kan være fornuftig om flere av dem deler sin tid mellom fagskolen og en arbeidsplass av relevans for fagskoleutdanningen, da det kan være en god måte å sikre praksisrelevansen i utdanningen på.
+
+Imidlertid kan NOKUTs krav om minimum én person med formell pedagogisk utdanning virke snaut, spesielt for større fagskoler og utdanninger. Det ideelle ville være om flere kolleger hadde bakgrunn i pedagogikk, slik at det for hver utdanning var et fagmiljø som kunne diskutere utforming, tilrettelegging og videreutvikling av den, inklusive nye lærings- og vurderingsformer. Dette er faglige vurderinger og avgjørelser som det er vanskelig å drive frem for én person alene. I tillegg gjør det fagmiljøene veldig sårbare om kun en person har pedagogisk fagkompetanse.
+
+Regjeringen vil derfor vurdere tiltak for å styrke den pedagogiske kompetansen til de ansatte i fagskolen.
+
+*Krav til fagmiljøets størrelse og stabilitet*
+
+I tillegg til at det kan stilles kvalifikasjonskrav til hver enkelt lærer, kan det også stilles krav til fagmiljøet som helhet, både når det gjelder størrelse, faglig, yrkes- og pedagogisk kompetanse, samt tilknytning til skolen – fast/midlertidig stilling, heltid/deltid, osv. Spørsmålet om fagmiljøenes «robusthet» tas opp i NOU 2014: 14 *Fagskolen – et attraktivt utdanningsvalg*:
+
+For å sikre at utdanningene er relevante, oppdaterte og utviklingsorienterte er det viktig at det står et robust, kompetent og oppdatert fagmiljø bak utdanningen …
+
+… de fleste vil kunne stille seg bak en definisjon som innebærer at et minimumskrav til et slikt fagmiljø er at miljøet vil bestå over tid selv med vekslende studentinngang, ved frafall av ansatte, og at miljøet styrkes gjennom synergier der helheten utgjør mer enn delene slått sammen. Flere fagmiljøer på norske fagskoler vil ut fra en slik definisjon kunne si at de har robuste fagmiljøer, men langt fra alle. Ca. 35 % av alle norske fagskoler har færre enn 40 studenter og ca. 63 % har færre enn 100 studenter. Det er bekymringsfullt med tanke på robusthet og faglig styrke.
+
+NOKUT har i fagskoletilsynsforskriften satt krav om at den faglig ansvarlige for en utdanning skal være tilknyttet tilbyder i minst 50 prosent stilling. Det er ikke er satt krav om hvilken tilknytning den pedagogisk ansvarlige skal ha, men både faglig og pedagogisk ansvarlig kan være tilknyttet flere utdanninger.
+
+Av godkjenningsbrev fra NOKUT fremgår det at enkelte fagskoler benytter samme faglig og pedagogisk ansvarlige for mange utdanninger, og at disse også kan være geografisk spredt. Regjeringen mener at det er viktig for kvaliteten i utdanningen at den som har det faglige eller pedagogiske hovedansvaret, i praksis kan være tilgjengelig for studentene, ledelsen og de andre lærerne på utdanningen. Slik tilgjengelighet er viktig fordi mange fagskolestudenter følger deltidsopplegg, og fordi det også er mange deltidsansatte ved fagskoleutdanningene.
+
+Tilknytningen til arbeidslivet utdanningen skal kvalifisere for, gjør at det i fagskoleutdanningene er, og bør være, mange lærere som deler sin tid mellom fagskolen og den aktuelle bransjen eller yrket. Likevel er det viktig at en viss kjerne av fagmiljøet er ansatt på fulltid for å sikre god oppfølging av studentene.
+
+Kravene til fagmiljø i universitets- og høyskoleloven når det gjelder utdanning, forskning og/eller kunstnerisk utviklingsarbeid, samt internasjonale nettverk, er langt strengere enn i fagskoleloven, og de har blitt ytterligere skjerpet med endringen i studiekvalitetsforskriften i 2016.[^156] Kravene som settes til lærere og fagmiljø, er grunnleggende for kvaliteten i utdanningene som tilbys. Selv om det ikke bør stilles like kvalifikasjonskrav til ansatte i fagskoleutdanning og universitet- og høyskoleutdanning fordi utdanningene har ulike formål, er det viktig at det stilles tilstrekkelig høye krav til fagskolelærerne til at utdanningskvaliteten kan videreutvikles og fagskoleutdanningen bli mer attraktiv for studenter og arbeidsgivere.
+
+Regjeringen ønsker derfor å vurdere om det skal settes strengere krav til ansattes kvalifikasjoner generelt og til fagmiljø med fagområdegodkjenning. Som grunnlag for dette arbeidet vil regjeringen først kartlegge kompetansebehovet i fagskoleutdanningen.
+
+*Tiltak: Regjeringen vil kartlegge kompetansebehovet i fagskolen som grunnlag for å vurdere kompetansekravene til fagmiljø og undervisningspersonale.*
+
+*Tiltak: Regjeringen vil sette i verk tiltak for å heve den pedagogiske kompetansen hos fagskolelærere.*
+
+1.  **Studentvelferd og læringsmiljø**
+
+*Studentvelferd*
+
+Studentvelferd er viktig både for å sikre like muligheter til å ta utdanning og for å tilrettelegge for at studentene skal kunne konsentrere seg om å lære mest mulig. Gjennom å gi fagskolene rett til å bli medlem av en studentsamskipnad vil regjeringen gi fagskolestudentene mulighet til å benytte studentboliger, -barnehager, -kantiner og andre velferdsordninger innenfor samskipnadssystemet. Dette må likevel ikke være en sovepute for fagskolenes tilrettelegging for god læring, enten det gjelder lokaler, mottaksordninger, administrativ støtte eller læringsressurser.
+
+I undersøkelsen *Fysisk utforming for rasjonell undervisning og forskning* omtales kjennetegn på lokaler som fremmer rasjonell undervisning i ulike undervisningstrender.[^157] For fagskoleutdanning kan det være spesielt interessant å se på det som står om praksisnær undervisning. For den anbefaler lokaler som er fleksible, har korte avstand til eller er samlokalisert med arbeidsliv, samt felles arenaer for innovasjon og fler- og sambruksfunksjoner.
+
+Mange fagskoler er i dag samlokalisert med andre utdanningsinstitusjoner, som videregående skoler eller universiteter og høyskoler. Felles bruk av lokaler og større studentmiljø vil gi fagskolestudentene bedre nettverk både faglig og sosialt. I tillegg kan det være rasjonelt for institusjonene og dessuten legge til rette for faglig samarbeid på tvers.
+
+Regjeringen har gjennom endringer i fagskoleloven som trådte i kraft 1. juli 2016 styrket studentenes rettigheter. Fagskolestudentene er nå sikret de samme rettighetene som universitets- og høyskolestudentene.[^158] Gjennom lovbestemmelser om eksamen, sensur, fusk, utestenging og bortvisning av studenter, osv. ønsker regjeringen også å sikre mest mulig forutsigbare rammer rundt studentenes utdanningshverdag. Innføring av elleve måneders studiestøtte er et annet tiltak som vil gi studentene bedre vilkår for å gjennomføre utdanningen på en god måte.
+
+*Læringsmiljø*
+
+Mange av velferdsgodene som universitets- og høyskolestudentene i dag nyter godt av, kommer som følge av langsiktig studentpolitisk arbeid. Gjennom å tilrettelegge for studentdemokrati og tillitsvalgtarbeid vil fagskolene derfor kunne sikre seg en god partner i utviklingen av læringsmiljøet, i tillegg til at det gir studentene en nødvendig stemme i det fagkritiske arbeidet.
+
+Fagskolens styre har det overordnede ansvaret for studentenes fysiske og psykiske læringsmiljø. Universell, enheten med pådriveransvar for å fremme universell utforming og inkluderende læringsmiljø i universitets- og høyskolesektoren, skriver følgende om læringsmiljø:
+
+Et godt og inkluderende læringsmiljø er grunnleggende for et rettferdig og effektivt utdanningssystem. Læringsmiljøet skal favne mangfoldet i studentmassen, uavhengig av kjønn, etnisk bakgrunn, religion eller funksjonsevne. Det er vesentlig å anerkjenne at studenter har lik rett, men ulike forutsetninger og behov for å kunne ta del i læringsprosessen.[^159]
+
+Fagskoleloven har siden 2005 hatt tilsvarende bestemmelser om læringsmiljø som universitets- og høyskoleloven, det vil si at det ved behov skal tilrettelegges «så langt det er mulig og rimelig», men uten at det går på bekostning av de faglige kravene som stilles (§ 4a). Henvendelser Universell har mottatt fra enkelte fagskoler, viser at de ikke alltid synes det er lett å vite hva som er hensiktsmessig og rimelig tilrettelegging i det enkelte tilfelle. Regjeringen mener derfor det er viktig å få kartlagt hva slags støtte fagskolene har behov for i dette arbeidet.
+
+*Tiltak: Regjeringen vil be Universell om å foreta en kartlegging av hvilket behov fagskolene har for støtte til arbeidet med studenter med ulike funksjonsnedsettelser og utrede aktuelle tiltak.*
+
+*Levekårsundersøkelse*
+
+Statistisk sentralbyrå (SSB) har, på oppdrag fra Kunnskapsdepartementet, gjennomført tre levekårsundersøkelser blant norske universitets- og høyskolestudenter (1998, 2005 og 2010/2011). Undersøkelsene har blant annet kartlagt studentenes boligforhold, økonomiske situasjon og forbruksvaner. Undersøkelsen i 2011 omfattet også forhold rundt studentenes studieprogresjon, helse og fritidsvaner.[^160]
+
+Å gjennomføre en kartlegging av fagskolestudentenes levekår vil kunne gi fagskolene, studentsamskipnadene og myndighetene et bedre bilde av hvem studentene er, og hva som trengs for at de skal kunne gjøre en best mulig jobb med utdanningen.
+
+*Tiltak: Regjeringen vil inkludere fagskolestudentene i den neste levekårsundersøkelsen blant studentene.*
+
+1.  Fullføring på normert tid og senere for opptakskullene 2011–13
+
+<table>
+<tbody>
+<tr>
+<td><p>År</p></td>
+<td><p>Totalt</p></td>
+<td><p>Fullført på normert tid antall</p></td>
+<td><p>Fullført normert tid i %</p></td>
+<td><p>Fullført</p>
+<p>N + 1 år</p></td>
+<td><p>Fullført</p>
+<p>N + 2 år<sup>1</sup></p></td>
+<td><p>Fullført totalt (%)</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>2011</p></td>
+<td><p>14 823</p></td>
+<td><p>8 060</p></td>
+<td><p>54,37</p></td>
+<td><p>8 455</p></td>
+<td><p>8 515</p></td>
+<td><p>57,44</p></td>
+</tr>
+<tr>
+<td><p>2012</p></td>
+<td><p>12 609</p></td>
+<td><p>6 638</p></td>
+<td><p>52,64</p></td>
+<td><p>6 810</p></td>
+<td><p>6 826</p></td>
+<td><p>54,14</p></td>
+</tr>
+<tr>
+<td><p>2013</p></td>
+<td><p>11 571</p></td>
+<td><p>5 430</p></td>
+<td><p>46,93</p></td>
+<td><p>5 602</p></td>
+<td><p>5 604</p></td>
+<td><p>48,43</p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Fullføring tre år etter normert tid er inkludert i dette tallet for opptakskullet 2011.
+
+Kilde: NSD
+
+1.  **Veien ut av fagskolen**
+
+    1.  **Gjennomstrømning og frafall**
+
+En vanlig måte å kartlegge utdanningskvalitet på, er å undersøke om de som begynner på en utdanning, faktisk fullfører, og om de fullfører på normert tid eller ei. En internasjonal kunnskapsoversikt om frafall ved universiteter og høyskoler viser at frafallet i stor grad kan forklares med bakenforliggende faktorer som tidligere faglige prestasjoner og foreldrenes utdanningsnivå.[^161] Ett tiltak for å forhindre frafall kan derfor være å sørge for å rekruttere de rette studentene, for eksempel ved hjelp av faglige krav, opptaksprøver eller god rådgivning. Frafall kan imidlertid også forebygges ved hjelp av gode rutiner for mottak av studenter, god oppfølging og godt tilrettelagte utdanninger. Slike tiltak er viktige for å hjelpe flere til å gjennomføre utdanningen.
+
+Tall fra Norsk senter for forskningsdata, NSD, viser at gjennomsnittlig fullføring på normert tid for fagskolestudentene i opptakskullene 2011, 2012 og 2013 var henholdsvis 54, 53 og 47 prosent. For de toårige fagskoleutdanningene er tallene bedre, men også der nedadgående, med henholdsvis 65, 63 og 60 prosent. Utviklingen er mer ujevn for de øvrige utdanningene, jf. tabell 10.7. I tillegg har tabellene i vedlegg 13.2 mer utfyllende informasjon.
+
+Med hensyn til datakvaliteten er det viktig å huske på at 2011 var det første året fagskolene rapporterte til statistikkdatabasen DBH-F ved NSD, og det tar erfaringsmessig noen år før slik rapportering når ønsket kvalitet. Senest vinteren 2016 ble statistikken forbedret ved at det ble avdekket en del feilrapporterte utdanninger.
+
+En mulig feilkilde i statistikken kan også være fagskoleutdanning som tilbys som enkeltemner (spesialiseringer, moduler, mv.). Regjeringen mener det er viktig at fagskoleutdanning kan tilbys som enkeltemner i etter- og videreutdanning, men de må da registreres på en måte som gjør at de ikke fremkommer som frafall i statistikken. Det kan være det er for tidlig å si om den negative utviklingen dataene kan tyde på, reelt sett er et tegn på dårligere resultater, eller om det er et utslag av at statistikken på fagskoleområdet ennå er ganske ny. Uansett er de en indikasjon på at det nå er på tide med et kvalitetsløft i fagskoleutdanningen.
+
+Gjennomføringen på normert tid er høyere i fagskoleutdanningene enn i universitets- og høyskoleutdanningene. Kunnskapsdepartementets tilstandsrapport for høyere utdanning 2016 viser at henholdsvis 40,2 og 41,8 prosent av opptakskullene til bachelorutdanning 2011 og 2012 fullførte på normert tid.[^162] Det at gjennomføringen er høyest i fagskoleutdanningen, er som forventet. Det bør være lettere å gjennomføre en kort enn en lang utdanning. Ut fra utdanningenes omfang kunne en antakelig forventet en større forskjell i favør av fagskoleutdanningene.
+
+En annen forskjell mellom fagskoleutdanning og høyere utdanning på dette området er at tid ser ut til å hjelpe bedre på gjennomføringen i høyere utdanning enn i fagskoleutdanning. For opptakskullet 2011 til bachelorutdanning økte gjennomføringen med 12,4 prosentpoeng, til 52,6 prosent, ett år etter normert tid, mens gjennomføringen for fagskolestudentene som ble tatt opp samme år, bare hadde økt med tre prosentpoeng, til 57 prosent, ett år etter normert tid. For opptakskullet 2010 til bachelorutdanning skjedde det en betydelig økning i gjennomføringen også to år etter normert tid, det vil si fra 43 prosent i 2013 til 64 prosent i 2015, mens det ikke fant sted noen tilsvarende økning i fagskoleutdanningen. Økningen i gjennomføring to år etter normert tid for opptakskullet til fagskoleutdanning i 2011 var knapt merkbar fra året før, kun på 0,4 prosentpoeng til 57,4 prosent. Det betyr at to år etter normert tid er gjennomføringen bedre for bachelor- enn for fagskoleutdanning.
+
+Tallene gir i seg selv ikke tilstrekkelig grunnlag for å si hva frafallet i fagskoleutdanningen skyldes. Til det trengs også kvalitativ informasjon. Tallene viser imidlertid at det er nødvendig å snu utviklingen slik at flere av dem som begynner på en fagskoleutdanning, fullfører. For å kunne øke gjennomføringen i fagskoleutdanningen er det nødvendig med et bedre informasjonsgrunnlag, slik at tiltak som settes inn, kan treffe rett. Regjeringen vil derfor ta initiativ til en nasjonal frafallsundersøkelse i fagskoleutdanningen.
+
+*Tiltak: Regjeringen vil styrke kunnskapsgrunnlaget om gjennomføring av fagskoleutdanning gjennom en frafallsundersøkelse.*
+
+1.  **Dokumentasjon av kandidatens kompetanse**
+
+Dokumentasjon av kandidatenes kompetanse er viktig for overgangen til arbeidslivet, til annen utdanning og for anerkjennelse av kompetansen generelt. Dokumentasjonen må også være i en form som er forståelig og forutsigbar, med vitnemål som viser læringsutbyttet for utdanningen.
+
+*Læringsutbytte*
+
+Gode, presise og målbare læringsutbyttebeskrivelser er et viktig verktøy for å vurdere kandidatenes kunnskap, ferdigheter og generelle kompetanse og gi arbeidsgivere et riktig bilde av hva de kan. I tillegg skal de hjelpe studentene til å forstå hvilke mål de skal arbeide mot, og hva som kreves av dem. Læringsutbyttebeskrivelsene skal også være til hjelp for personer som vurderer fagskolen som et utdanningsvalg. De må derfor gjøres tilgjengelig for både studenter og utdanningssøkende.
+
+Kravet om at det må utformes læringsutbyttebeskrivelser for alle utdanninger, er en følge av at Kunnskapsdepartementet i 2011 fastsatte Nasjonalt kvalifikasjonsrammeverk for livslang læring. Se kapittel 3.3. Fagskolene fikk frist til utgangen av 2014 med å utarbeide læringsutbyttebeskrivelser i tråd med kvalifikasjonsrammeverket. Læringsutbyttebeskrivelsene for den enkelte fagskoleutdanningen skal uttrykke hva kandidaten skal kunne, vite og være i stand til å gjøre ved fullført og bestått utdanning.
+
+NOKUT har ansvar for å vurdere fagskoleutdanningenes læringsutbyttebeskrivelser. Som en prøveordning har et panel med eksterne fageksperter vurdert læringsutbyttebeskrivelsene i søknadene om godkjenning av nye fagskoleutdanninger.[^163] Erfaringene fra læringsutbyttepanelet er at fagskolenes læringsutbyttebeskrivelser gradvis har blitt bedre i løpet av de to årene panelet har eksistert.
+
+Gode læringsutbyttebeskrivelser er et viktig hjelpemiddel for å vurdere søknader om innpassing mellom fagskoler, for realkompetansevurdering og for å tilrettelegge for at fagskolekandidatenes skal få en riktig vurdering av sin kompetanse ved overgang til arbeidslivet eller til annen utdanning. Det er derfor viktig med fortsatt innsats ved fagskolene for at alle utdanningene skal ha gode læringsutbyttebeskrivelser i tråd med Nasjonalt kvalifikasjonsrammeverk.
+
+*Vitnemål*
+
+For å sikre tilfredsstillende dokumentasjon av kandidatenes kompetanse inneholder fagskoleloven bestemmelser om vitnemålsutstedelse for all fagskoleutdanning. NOKUT kan fastsette nærmere krav til innhold og utforming av vitnemålet, og Nasjonalt fagskoleråd har utarbeidet en mal for fagskolevitnemål (på engelsk *Vocational Diploma*). *Diploma* er godt egnet som oversettelse av vitnemål for fagskoleutdanning, da *diploma/diplôme* i engelsk og fransk språktradisjon normalt brukes for vitnemål fra høyere utdanning, mens *certificate/certificat* brukes som betegnelse for vitnemål til og med videregående opplæring.
+
+Regjeringen vil også innføre Europass-fagbeskrivelser for fagskoleutdanningen, det vil si et vedlegg med engelsk forklaring av utdanningens innhold. Med det vil vitnemålene fra fagskoleutdanningen lettere kunne benyttes internasjonalt. Se omtale under *Europass* på neste side. For å forhindre forfalskning skal vitnemål kun finnes i én variant, det vil si ett dokument per individ, og ikke i ulike språklige versjoner. Det er viktig med gode rutiner og god sikkerhet rundt vitnemålsutstedelsen.
+
+*Vitnemålsportal*
+
+For en potensiell arbeidsgiver eller avtakende utdanningsinstitusjon er eneste måte å få vite sikkert om fagskolevitnemål og -karakterutskrifter er ekte, å be om få se originaldokumentene.
+
+I høringsnotatet om forslag til endringer i universitets- og høyskoleloven fra september 2015 pekte Kunnskapsdepartementet på at forfalskning av vitnemål og karakterutskrifter er et stort problem, og det brukes stadig mer ressurser på å kontrollere slike dokumenter.[^164] Dette gjelder også dokumentasjon av annen fullført norsk utdanning. Departementet foreslo derfor å lovfeste en *vitnemålsportal* i universitet- og høyskoleloven:[^165]
+
+Nasjonal vitnemåls- og karakterportal er en tjeneste for digital, tidsbegrenset tilgjengeliggjøring av vitnemål og karakterer. Formålet med systemet er å sikre sannferdig informasjon om vitnemål og karakterer og å forhindre bruk av forfalskede vitnemål og karakterutskrifter. Portalen eies av staten gjennom departementet.[^166]

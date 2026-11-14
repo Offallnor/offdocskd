@@ -1,1445 +1,322 @@
-# Meld. St. 16 (2015–2016), del 6 av 9 (side 67–78)
+# Meld. St. 16 (2015–2016), del 6 av 8
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2016/95965279-meld-st-16-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-16-20152016/id2476199/
 - Original-PDF: https://www.regjeringen.no/contentassets/daaabc96b3c44c4bbce21a1ee9d3c206/no/pdfs/stm201520160016000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 4 tabeller, 22 figurer, 57 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 67]
-
-2015–2016
-
-Meld. St. 16
-
-67
-
-Fra utenforskap til ny sjanse
-
-føringer i introduksjonsloven for hvilke mini­
-mumstiltak som bør inngå i programmet for å for­
-berede til deltakelse i arbeidslivet. Det skal blant
-annet vurderes hvordan man kan legge sterkere
-føringer for at flere deltar i arbeidsrettede tiltak i
-sitt program. For alle deltakere skal det som en
-del av utformingen av individuell plan, gjøres en
-konkret vurdering av om praksis i arbeidslivet
-eller andre arbeidsrettede tiltak skal inngå i pro­
-grammet.
-For ytterligere å legge til rette for økt overgang til arbeid er introduksjonsloven endret fra 1.
-januar 2016 slik at det er mulig å få permisjon fra
-introduksjonsprogrammet ved tilbud om arbeid.
-Det vil gi mulighet til å få erfaring fra arbeidslivet,
-trygghet i den første sårbare perioden i arbeidsli­
-vet, og mulighet for å vende tilbake til opplæring
-dersom erfaringen fra arbeidslivet viser at man
-trenger mer grunnleggende kvalifisering.
-Regjeringen ønsker å stimulere til økt samar­
-beid mellom kommunene og offentlige og private
-arbeidsgivere. For å få til det, vurderes en rekke
-tiltak – som økt bruk av mentorordning, arbeids­
-livsrådgivning, økonomiske tiltak og samarbeids­
-og intensjonsavtaler. Når det gjelder norskopplæ­
-ringen kan arbeidsretting dreie seg både om are­
-naer for opplæring, innholdet i undervisningen,
-og oppfølging og veiledning av deltakeren. Regje­
-ringen vil gjennom arbeidet med en ny melding til
-Stortinget om integreringspolitikk vurdere nær­
-mere hvordan man kan få til et tettere samarbeid
-med partene i arbeidslivet og frivillige organisa­
-sjoner.
-Regjeringen vil
-–
-
-vurdere hvordan deltakere i introduksjonspro­
-grammet og opplæring i norsk og samfunns­
-kunnskap som har omsorgspermisjon, kan føl­
-
-–
-
-–
-–
-
-ges tettere opp for å motivere dem til å gjen­
-oppta kvalifiseringen etter endt permisjon
-utrede spørsmålet om særskilt tilrettelagt opp­
-læring for personer med nedsatt funksjonsevne
-som deltar i opplæring i norsk og samfunns­
-kunnskap
-at flere kommuner arbeidsretter introduk­
-sjonsprogrammet og samarbeider med offent­
-lige og private arbeidsgivere
-utrede hva som bør være minimumsinnholdet i
-introduksjonsprogrammet, særlig for å øke
-bruken av arbeidsrettede tiltak
-
-4.6.4
-
-Nasjonale kvalitetsstandarder for
-norskopplæring
-Det finnes i dag ingen tverrsektorielle og felles
-standarder for kvalitet, verken til tilbyderne eller
-til den opplæringen som foregår utenfor introduk­
-sjonslovens virkeområde. Det skal derfor utvikles
-slike kvalitetsstandarder som veiledning for
-norskopplæring som tilbys i regi av offentlige eta­
-ter, eller av private virksomheter, der det offent­
-lige er bestiller. Hensikten er at norskopplæringen
-som tilbys av ulike tilbydere på tvers av sektorer,
-skal holde en viss kvalitet og være mer harmoni­
-sert enn i dag. Utvikling av nasjonale kvalitets­
-standarder for norskopplæring vil skje i et sam­
-arbeid mellom Justis- og beredskapsdepartemen­
-tet, Kunnskapsdepartementet og Arbeids- og
-sosialdepartementet.
-Regjeringen vil
-–
-
-innføre nasjonale tverrsektorielle kvalitetsstan­
-darder for norskopplæring
-
-[Side 68]
-
-68
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-2015–2016
-
-5 Opplæringstiltak i Arbeids- og velferdsetaten
-Arbeidsmarkedspolitikken skal legge til rette for
-et velfungerende arbeidsmarked med høy syssel­
-setting og lav ledighet, og bidra til et inkluderende
-arbeidsliv. Bruk av arbeidsmarkedstiltak er et vik­
-tig virkemiddel i arbeidsmarkedspolitikken, hvor
-målet er å få flere i arbeid og færre på stønad.
-Arbeids- og velferdsetaten bistår arbeidssøkere
-og personer med nedsatt arbeidsevne med en
-rekke tiltak og tjenester som skal lette overgan­
-gen til arbeid. Arbeidsmarkedstiltak kan også
-inngå i kvalifiseringsprogrammer for utsatte grup­
-per, og gis til mottakere av økonomisk stønad
-etter sosialtjenesteloven.
-Arbeidsmarkedstiltak er ingen rettighet, men
-gis på bakgrunn av en individuell vurdering av
-den enkeltes behov for bistand for å komme i
-arbeid. Alle som henvender seg til et NAV-kontor
-og som ønsker eller trenger det, skal få vurdert
-sitt behov for bistand gjennom en behovs- eller
-arbeidsevnevurdering. Tilbud om tiltak gis der­
-som dette anses som nødvendig og hensiktsmes­
-sig for å styrke den enkeltes muligheter på
-arbeidsmarkedet.
-Det finnes mange forskjellige typer arbeids­
-markedstiltak og tjenester som er ment å passe
-for mennesker som trenger ulik form for bistand.
-For mange voksne som står utenfor arbeidslivet
-på grunn av manglende kompetanse, er opp­
-læringstiltak i Arbeids- og velferdsetaten et viktig
-bidrag for å komme i arbeid. En betydelig del av
-den arbeidsmarkedspolitiske innsatsen er knyttet
-til ulike former for opplæring og kvalifisering. De
-to dominerende opplæringstiltakene er Arbeids­
-markedsopplæring (AMO) og bruk av ordinære
-utdanningsplasser.
-En utfordring ved dagens opplæringstilbud, er
-at grupper av arbeidssøkere med svake grunnleg­
-gende ferdigheter eller svake norskferdigheter
-ser ut til å ha problemer med å dra nytte av
-Arbeids- og velferdsetatens arbeidsmarkedstiltak.
-Det er videre grunn til å se nærmere på om
-Arbeids- og velferdsetatens samlede opplæ­
-ringsinnsats har en innretning og et nivå som er
-tilpasset arbeidssøkernes behov.
-
-Boks 5.1 Ismet: Tiltak som ikke
-treffer
-Ismet er 40 år og innvandret til Norge for seks
-år siden. Han har deltatt i introduksjonspro­
-grammet for nyankomne innvandrere, men
-har fremdeles mangelfulle norskkunnskaper.
-Han fullførte introduksjonsprogrammet etter
-to år og mottar ikke lenger introduksjonsstø­
-nad.
-Han har ikke rett til videregående opplæ­
-ring.
-Heller ikke Arbeids- og velferdsetatens vir­
-kemiddelapparat treffer i tilstrekkelig grad de
-særskilte behovene og utfordringene som
-mange innvandrere møter i det norske
-arbeidsmarkedet. Ismet er i dag arbeidssøker
-og tilmeldt Arbeids- og velferdsetaten. Han
-ønsker å arbeide, men med dårlige norsk­
-ferdigheter og lite kompetanse er det vanske­
-lig å få jobb. Ismet har hatt kortvarige vikaria­
-ter, flere arbeidspraksisplasser og deltatt på
-AMO-kurs gjennom Arbeids- og velferdseta­
-ten, men har problemer med å få varig tilknyt­
-ning til arbeidslivet.
-For å øke mulighetene for å få jobb har
-Ismet behov for norskkurs. I tillegg ønsker
-han å ta opp igjen videregående opplæring
-med sikte på å ta fagbrev. Han har imidlertid
-ikke rett til videregående opplæring, og
-Arbeids- og velferdsetatens tilbud om AMO­
-kurs har ikke gitt ham de nødvendige bygge­
-steinene på veien mot et fagbrev.
-
-5.1
-
-Arbeidsrettet bistand ved
-NAV-kontorene
-
-Personer som melder seg hos arbeids- og vel­
-ferdsforvaltningen med behov for kvalifisering
-kan få opplæring som arbeidsmarkedstiltak.
-AMO, utdanningstiltak innenfor det ordinære
-utdanningssystemet for personer med nedsatt
-arbeidsevne (utdanningstiltaket) og kvalifisering i
-
-[Side 69]
-
-2015–2016
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-69
-
-Boks 5.2 Nye virkemidler for å få flere i arbeid
-– Arbeidstrening i ordinært arbeidsliv har
-Gjennom Stortingets behandling av Prop. 39 L
-erstattet bruk av praksisplasser. Oppfølgin­
-(2014–2015) Endringer i arbeidsmiljøloven og
-gen av tiltaksdeltaker og arbeidsgiver er styr­
-sosialtjenesteloven (adgang til midlertidig anset­
-ket.
-telse med videre og aktivitetsplikt i sosialhjelp),
-– Nye og bedre tilretteleggingsordninger hvor
-er en rekke nye virkemidler vedtatt for å stimu­
-arbeidsgiver får dekket utgifter for arbeidssø­
-lere arbeidsgivere til å ansette flere personer
-som av ulike grunner ikke deltar i arbeidslivet.
-kere som trenger tilrettelegging av arbeids­
-Hensikten er å styrke utsatte gruppers mulighe­
-plassen. Ny oppfølgings- og tilretteleggings­
-ter til å komme i arbeid, dels ved at de får mulig­
-avtale hvor arbeidsgiver og arbeidssøker får
-heten til å prøve seg og vise hva de kan, dels
-oppfølging og navngitt kontaktperson i
-gjennom bedre tilrettelegging og riktigere insen­
-Arbeids- og velferdsetaten.
-tiver. Mange av tiltakene er innrettet mot å redu­
-– Nytt arbeidsforberedende tiltak i et tilrette­
-sere arbeidsgivers risiko ved å ansette arbeids­
-lagt og skjermet arbeidsmiljø med vekt på til­
-søkere med nedsatt eller usikker arbeidsevne.
-passet opplæring og utplassering i ordinære
-virksomheter.
-Sentrale tiltak er i denne sammenheng
-– Generell adgang til midlertidig ansettelse i
-– Plikt for kommunene til å stille vilkår om akti­
-inntil tolv måneder trådte i kraft 1. juli 2015.
-vitet ved tildeling av økonomisk stønad til
-livsopphold etter sosialtjenesteloven.
-– Økt bruk av lønnstilskudd ved at ordningene
-er gjort enklere og mer attraktive for arbeids­
-– Utforming av velferdsytelser som understøt­
-givere. Det er opprettet en ny, varig lønnstil­
-ter arbeid og aktivitet, der målet er at perso­
-ner på helserelaterte ytelser i større grad
-skuddsordning. Tiltaksdeltakere kan anset­
-skal kunne ta i bruk sin faktiske arbeidsevne.
-tes midlertidig i hele eller deler av tiltaksperi­
-oden.
-
-arbeidsmarkedsbedrift (KIA) er opplæringstiltak
-som kan tilbys personer med ulike behov. I tillegg
-kan Arbeids- og velferdsetaten gi støtte til bedrift­
-sintern opplæring (BIO) til ansatte i virksomheter
-med alvorlige omstillingsproblemer. Andre
-arbeidsmarkedstiltak kan inneholde elementer av
-opplæring og kvalifisering.
-Det gis også muligheter for lengre opplærings­
-løp for enslig mor eller far som fyller vilkårene for
-stønader etter folketrygdloven kapittel 15 (over­
-gangsstønaden).1
-Store deler av Arbeids- og velferdsetatens til­
-taksapparat er behandlet i Prop. 39 L (2014–
-2015), se boks 5.2.
-Denne meldingen tar for seg arbeidsmarkeds­
-tiltak hvor opplæring er tiltakenes primære for­
-mål. De to dominerende opplæringstiltakene er
-AMO og utdanningstiltaket. Dette er tiltak som i
-2014 hadde henholdsvis 6 200 og 9 200 deltakere i
-gjennomsnitt, det vil si om lag 15 400 deltakere,
-eller om lag 22 prosent av tiltaksdeltakerne. En
-1
-
-Overgangsstønaden varer i utgangspunktet i tre år, men
-med muligheter for forlengelse kan opplæring vare i inntil
-seks år.
-
-betydelig del av den arbeidsmarkedspolitiske inn­
-satsen er dermed knyttet til ulike former for opp­
-læring og kvalifisering.
-
-5.2
-
-Tiltaksbruk og målgrupper
-
-Arbeids- og sosialdepartementet har etatssty­
-ringsansvar for Arbeids- og velferdsetaten. Innen­
-for bevilgningen til arbeidsmarkedstiltak har etaten mulighet til å benytte et bredt spekter av virke­
-midler tilpasset den enkeltes behov og etterspør­
-selen på arbeidsmarkedet. Tiltakene er rammefi­
-nansiert, og i 2014 deltok i gjennomsnitt 69 700
-arbeidssøkere og personer med nedsatt arbeids­
-evne i tiltak.
-Arbeids- og velferdsforvaltningen er en stor og
-dominerende kjøper i et marked med en rekke til­
-bydere av arbeidsmarkedstiltak. Arbeidsmarked­
-stiltak anskaffes hovedsakelig
-– gjennom anbud etter regelverket for offentlige
-anskaffelser, som eksempelvis AMO
-– som enkeltplasser fra ordinære arbeidsgivere
-og utdanningsinstitusjoner, som eksempelvis
-arbeidstreningsplasser og utdanningsplasser
-
-[Side 70]
-
-70
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-2015–2016
-
-Boks 5.3 Arbeidssøkere og personer med nedsatt arbeidsevne
-arbeids- og velferdsforvaltningen for å komme i
-Arbeidssøkere er betegnelsen på summen av
-jobb. Dette inkluderer også et stort antall bru­
-helt ledige, delvis ledige, arbeidssøkere på tiltak
-kere som i hovedsak har behov for helsemessig
-og andre arbeidssøkere. Arbeidssøkere er per­
-behandling eller rehabilitering før de har nytte
-soner som søker inntektsgivende arbeid ved
-av arbeidsmarkedstiltak.
-arbeids- og velferdsforvaltningen, og som skal
-være tilgjengelige for det arbeidet som søkes.
-Om lag 205 000 personer var ved utgangen
-Hovedregelen er at man anses som arbeidssø­
-av 2014 registrert med nedsatt arbeidsevne. Av
-ker hvis man har meldt seg eller fornyet meldin­
-disse deltok 29 prosent på ulike arbeidsmarked­
-gen i løpet av de to siste ukene. Det var regis­
-stiltak, 29 prosent ventet på tiltaksplass eller
-trert rundt 80 000 ledige i gjennomsnitt i 2015. I
-vedtak om hensiktsmessig bistand, mens
-tillegg deltok rundt 12 500 personer på arbeids­
-42 prosent var registrert uten behov for arbeids­
-markedstiltak ifølge tall fra Arbeids- og velferds­
-rettet bistand. Ungdom under 30 år er prioritert
-direktoratet.
-ved tildeling av tiltak.
-Mange av arbeids- og velferdsforvaltnin­
-Grupper som prioriteres ved tildeling av
-gens brukere som står utenfor arbeidslivet har
-arbeidsmarkedstiltak er ungdom, langtidsle­
-mangelfull kompetanse. Blant ledige utgjør
-dige og innvandrere fra land utenfor EØS.
-gruppen som har grunnskole som høyeste full­
-Begrepet «personer med nedsatt arbeids­
-førte utdanning om lag 40 prosent, mens blant
-evne» omfatter personer hvor arbeidsevnen er
-personer med nedsatt arbeidsevne er det om lag
-nedsatt slik at vedkommende hindres i å
-60 prosent som kun har grunnskole, jf.
-beholde eller skaffe seg inntektsgivende arbeid,
-kapittel 2.
-og som har behov for en betydelig innsats fra
-
-–
-
-gjennom direkte kjøp av tiltaksplasser fra for­
-håndsgodkjente tiltaksbedrifter i skjermet sek­
-tor
-
-Det er bred enighet om at arbeidsmarkedstiltak i
-størst mulig utstrekning bør foregå i ordinære
-virksomheter. Dette øker sannsynligheten for en
-vellykket overgang til arbeid og gjelder både for
-mennesker som har kortere eller lengre avstand
-til arbeidslivet.
-De fleste tilegner seg nyttig kompetanse i
-arbeidslivet, på arbeidsplassen. Samtidig vil flere
-av de som står utenfor arbeidslivet, og som mel­
-der seg hos Arbeids- og velferdsetaten, ha behov
-for opplæring, enten i form av lengre utdannings­
-løp, kortere kurs eller gjennom tiltak i et tilrette­
-lagt og skjermet arbeidsmiljø. Behovet for opp­
-læringstiltak kan også øke med økende struktu­
-rell ledighet og omstillingsbehov i arbeidsmarke­
-det.
-
-5.3
-
-Dagens opplæringstilbud i
-Arbeids- og velferdsetaten
-
-AMO gis som hovedregel i form av kurs som sam­
-ler flere deltakere, og er rettet mot personer som
-har vanskeligheter med å komme inn på arbeids­
-
-markedet på grunn av mangelfull kompetanse
-eller kompetanse som ikke møter arbeidsmarke­
-dets behov. Kursene er relativt kortvarige og
-yrkesrettede, som enkeltstående kurs i for eksem­
-pel regnskap, eller kurs som leder fram til god­
-kjente eksamener/sertifikater, som datakortet og
-fagbrev. AMO kan også inneholde blant annet kar­
-riereveiledning, informasjon om norsk arbeidsliv
-og kommunikasjonstrening. Innholdet i kursene
-varierer betydelig, også mellom ulike fylker.
-Aldersgrensen for å kunne delta i AMO-kurs er 19
-år. AMO-kurs kan ha en varighet på inntil ti måne­
-der og kan ved behov forlenges i inntil seks måne­
-der. Kursene anskaffes via anbud.
-Ordinær utdanning er offentlig eller privat
-utdanning som er åpen for alle, og som gir formell
-kompetanse, det vil si kompetanse som er doku­
-mentert i vitnemål eller andre offisielle papirer fra
-skole og utdanningsinstitusjoner. I utgangspunk­
-tet må man søke Lånekassen om støtte eller bruke
-egne midler hvis man skal ta ordinær utdanning.
-For å kunne få tildelt utdanning som arbeids­
-markedstiltak må deltaker ha nedsatt arbeidsevne
-og være 26 år eller eldre. Det er en forutsetning at
-utdanningen som velges, er vurdert som hensikts­
-messig og nødvendig av Arbeids- og velferdseta­
-ten med tanke på videre jobbutsikter. Utdanning i
-ordinært utdanningssystem for tiltaksdeltakere
-
-[Side 71]
-
-2015–2016
-
-71
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-Tabell 5.1 Gjennomsnittlig antall tiltaksdeltakere i AMO og utdanningstiltaket. Sum personer i disse tilta­
-kene og sum alle tiltaksdeltakere. Årsgjennomsnitt for 2004, 2009, 2014 og endring 2004–2014 i prosent
-Tiltakstype
-
-2004
-
-2009
-
-2014 Endring 2004–2014 i pst.
-
-AMO
-
-8 300
-
-8 100
-
-6 200
-
--26 %
-
-Utdanningstiltaket
-
-26 300
-
-17 200
-
-9 200
-
--65 %
-
-Sum personer i AMO og utdan­
-ningstiltaket
-
-34 600
-
-25 300
-
-15 400
-
--55 %
-
-Sum alle tiltaksdeltakere
-
-74 000
-
-71 700
-
-69 700
-
--6 %
-
-Kilde: Arbeids- og velferdsdirektoratet
-
-under 26 år kan gis dersom deltaker på grunn av
-sykdom, skade eller lyte er i en utdanningssitua­
-sjon som avviker vesentlig fra den som gjelder for
-annen ungdom. Utdanningen kan ha en varighet
-på inntil tre år. Varigheten kan unntaksvis forlen­
-ges. Utdanningsplasser skaffes som regel av bru­
-ker selv ved å søke skole- eller studieplass gjen­
-nom ordinære prosedyrer for opptak.
-
-5.4
-
-Mindre bruk av opplæringstiltak
-
-De siste ti årene har det vært en samlet nedgang
-på 55 prosent i andelen personer som deltar i
-AMO og utdanningstiltaket, fra gjennomsnittlig
-om lag 34 600 deltakere i 2004 til gjennomsnittlig
-om lag 15 400 deltakere i 2014, jf. tabell 5.1. I
-samme periode har det vært en mindre reduksjon
-i det totale antallet tiltaksdeltakere.
-Endringer i tiltaksbruken vil være påvirket av
-en rekke forhold. Hvilke typer tiltak som er hen­
-siktsmessig og nødvendig for overgang til arbeid
-kan variere både med konjunkturer og struktu­
-relle forhold, sammensetningen av de ledige og
-personer med nedsatt arbeidsevne, arbeidsgiver­
-nes ønsker og behov, samt arbeids- og velferdsfor­
-valtningens ressurser og arbeidsmetodikk.
-Bruken av utdanningstiltaket har gått mest
-ned. Antall deltakere i utdanningstiltaket ble redu­
-sert med 65 prosent fra 2004 til 2014, til gjennom­
-snittlig om lag 9 200 deltakere. Andel personer
-med nedsatt arbeidsevne på opplæringstiltak har
-gått ned fra 32 prosent i 2004 til seks prosent i
-2014. Samtidig tar en økende andel av deltakerne i
-utdanningstiltaket utdanning på høyere nivå.
-Antall deltakere i AMO har gått ned med
-26 prosent, og andel deltakere som går på kurs
-som gir formell kompetanse har gått ned med
-56 prosent fra 2004 til 2014, fra gjennomsnittlig
-om lag 3 000 deltakere til om lag 1 300 deltakere.
-Arbeidsmarkedsopplæring som gir formell kom­
-petanse er AMO-kurs som leder fram til godkjente
-
-eksamener eller sertifikater, som eksempelvis fag­
-brev.
-For innvandrere registrert som arbeidssøkere,
-var AMO det mest benyttede arbeidsmarkedstilta­
-ket, etterfulgt av arbeidspraksis i ordinær virk­
-somhet, ifølge tall fra Arbeids- og velferdsdirekto­
-ratet for desember 2014.2 Blant alle arbeidssøkere
-som deltok i AMO, utgjorde innvandrere om lag
-60 prosent. Blant personer med nedsatt arbeids­
-evne er andelen noe lavere. Høy deltakelse i AMO
-kan ha sammenheng med at flere innvandrere
-mangler kompetanse som etterspørres i det nor­
-ske arbeidsmarkedet, men det kan også skyldes at
-flere har dårlige norskkunnskaper og behov for
-kurs som inneholder yrkesrettet norskopplæring.
-AMO benyttes også av personer med nedsatt
-arbeidsevne. Den totale bruken av tiltaket har de
-seneste årene gått ned, jf. tabell 5.2. Samtidig har
-andelen innvandrere økt svakt i den samme perio­
-den.
-
-5.5
-
-Hvem deltar og hva slags
-opplæring er det som tilbys?
-
-Mange deltakere i AMO som formell opplæring,
-deltok i opplæring innenfor salg og service, helse­
-og sosialfag/helse- og oppvekstfag eller transportfag i 2014. Dette viser tall fra Arbeids- og velferds­
-direktoratet. 66 prosent av deltakerne i AMO-kurs
-som formell opplæring var under 40 år i 2014.
-Andelen yngre deltakere i AMO som formell opp­
-læring har økt fra 2009 til 2014, se figur 5.1. Både i
-2009 og 2014 var det forholdsvis lik kjønnsforde­
-ling blant deltakerne.
-Majoriteten av deltakerne i AMO (både for­
-mell og ikke-formell opplæring), det vil si om lag
-60 prosent, var arbeidssøkere, mens om lag
-2
-
-Med innvandrer menes her person født i utlandet av to
-utenlandsfødte foreldre. Foreldre med ukjent fødeland reg­
-nes som utenlandsfødt.
-
-[Side 72]
-
-72
-
-2015–2016
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-100 %
-90 %
-80 %
-70 %
-60 %
-50 %
-40 %
-30 %
-20 %
-10 %
-0%
-2009
-
-2014
-
-19-24 år
-
-25-29 år
-
-30-39 år
-
-40-49 år
-
-50-59 år
-
-60 år og over
-
-Figur 5.1 Andel deltakere i AMO som formell
-opplæring etter alder. 2009 og 2014
-Kilde: Arbeids- og velferdsdirektoratet
-
-40 prosent var personer med nedsatt arbeidsevne
-i 2014. I 2009 var nærmere 80 prosent av delta­
-kerne i AMO arbeidssøkere. Statistikk over perso­
-ner som deltar i utdanningstiltak i ordinært utdan­
-ningssystem gjennom Arbeids- og velferdsetaten
-har en stor andel med ukjent utdanning, og tallene
-er beheftet med usikkerhet. Andelen deltakere i
-utdanningstiltaket som tok høyere utdanning var
-45 prosent, mens andelen som tok utdanning på
-videregående opplæringsnivå var 35 prosent i
-gjennomsnitt i 2014. Det har over tid vært vekst i
-andelen som tar høyere utdanning. Andelen som
-tok grunnskole var en prosent samme år.3
-På videregående opplæringsnivå er det høy
-deltakelse i helse- og oppvekstfag og allmenne
-fag. Mange i høyere utdanning med varighet på
-inntil fire år tar helse-, sosial- og idrettsfag. Også
-
-lærerutdanninger og utdanning i pedagogikk
-samt naturvitenskap, håndverk og tekniske fag er
-hyppig valgte retninger innenfor høyere utdan­
-ning.
-Blant de som tar høyere utdanning over fire år
-er lærerutdanninger og utdanning i pedagogikk
-mest vanlig. I 2014 var 60 prosent av deltakerne i
-utdanningstiltaket kvinner, en andel som har holdt
-seg stabil de siste årene. Den største andelen av
-deltakerne var mellom 30 og 39 år, som ved AMO
-som formell opplæring. Hovedtrekkene ved delta­
-kere i formell utdanning er med andre ord at
-mange er i alderen 30 til 39 år, og mange tar helse­
-og sosialfag/helse- og oppvekstfag. Kjønnsbalan­
-sen er lik for AMO som formell utdanning, mens
-det er overvekt av kvinner i utdanningstiltaket.
-Andelen deltakere med nedsatt arbeidsevne i
-AMO (både formell og ikke-formell utdanning)
-har økt over tid, mens utdanningstiltaket er forbe­
-holdt personer med nedsatt arbeidsevne.
-Det er fylkesvise variasjoner i bruk av opp­
-læringstiltak i Arbeids- og velferdsetaten. Proba
-samfunnsanalyse finner at Akershus, Hordaland,
-Troms og Finnmark har særlig høy andel av til­
-taksdeltakerne i opplæringstiltak, mens Hedmark,
-Oppland og Sogn og Fjordane har særlig lav andel
-av tiltaksdeltakerne i opplæringstiltak.4 Opp­
-læringstiltak inkluderer her alle opplæringstiltak
-for personer med nedsatt arbeidsevne.
-
-5.6
-
-Mulige årsaker til mindre bruk av
-utdanningstiltaket
-
-Det kan være mange grunner til at bruken av opp­
-læring, og særlig bruken av utdanningstiltaket,
-har blitt redusert de siste ti årene. Det har vært
-3
-
-4
-
-Andel med ukjent utdanningsnivå i utdanningstiltaket er
-høy på grunn av mangelfull registrering. Andelen uten
-registrert utdanning var 38 prosent i 2009 og 20 prosent i
-2014. Fordelingen på utdanningsnivå bør derfor brukes
-med varsomhet.
-Proba samfunnsanalyse 2012b
-
-Tabell 5.2 Antall tiltaksdeltakere i AMO blant arbeidssøkere og personer med nedsatt arbeidsevne for­
-delt på innvandrere og andre. Andel innvandrere. Årsgjennomsnitt 2011 til 2014
-2011
-
-2012
-
-2013
-
-2014
-
-I alt
-
-7800
-
-8000
-
-7200
-
-6200
-
-Innvandrere
-
-4000
-
-4100
-
-3800
-
-3300
-
-Ikke innvandrere
-
-4000
-
-3900
-
-3400
-
-2900
-
-Andel innvandrere
-
-50 %
-
-51 %
-
-53 %
-
-53 %
-
-Kilde: Arbeids- og velferdsdirektoratet
-
-[Side 73]
-
-2015–2016
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-73
-
-Boks 5.4 Regelverksendringer og endringer i finansieringssystem
-Siden 2003 har det blitt foretatt flere regelverksordinær utdanning for tiltaksdeltakere under
-endringer som kan ha hatt betydning for bruken
-26 år kan likevel gis dersom deltaker på
-av utdanningstiltaket
-grunn av sykdom, skade eller lyte er i en
-– Fra 1. januar 2003 ble det satt et kostnadstak
-utdanningssituasjon som avviker vesentlig
-for stønad til dekning av skolepenger,
-fra den som gjelder for annen ungdom. Inn­
-semesteravgift og eksamensavgift for deltastrammingen gjaldt altså personer i alderen
-kere i utdanningstiltak. Det er mulig å ta
-22 til og med 25 år.
-utdanning med kostnader utover dette, men
-– Fra 1. januar 2004 ble det innført en varig­
-da forutsettes det egenfinansiering av diffehetsbegrensning på utdanningstiltak. Maksi­
-ransen, eksempelvis gjennom støtte fra Lånemal varighet ble satt til tre år. Unntaksvis kan
-kassen for utdanning.
-denne perioden forlenges.
-– Fra 1. januar 2004 ble aldersgrensen for å
-– Fra 1. januar 2009 ble utgifter til stønader ved
-motta attføringsytelser ved skolegang hevet.
-skolegang gitt ved rammebevilgning. TidliMens søker tidligere måtte være fylt 22 år for
-gere var dette finansiert gjennom overslags­
-å kunne motta attføringsytelser ved gjennombevilgning.
-føring av utdanning som attføringstiltak,
-– Fra 1. mars 2010 ble attføringspenger, rehabi­
-innebar det nye kravet at søker som hovedreliteringspenger og tidsbegrenset uførestønad
-gel må være fylt 26 år. Opplæring i form av
-erstattet av arbeidsavklaringspenger.
-
-innført både regelverksendringer og endringer i
-finansieringssystemet som har hatt som mål å
-stramme inn bruken av dette tiltaket, jf. boks 5.4.
-Proba samfunnsanalyse peker på at endringer
-i prioriteringer over tid har hatt betydning for bru­
-ken av utdanningstiltaket.5 De viser til at det etter
-NAV-reformen ble lagt vekt på at hovedmålet var å
-finne raskeste vei tilbake i jobb og satse på
-«arbeid først». Opplæringstiltak utover korte kurs
-ble derfor ikke prioritert. I følge undersøkelsen
-har dette blitt noe mindre vektlagt de siste to
-årene. Arbeids- og velferdsetatens ansatte har
-registrert et økende behov for noe lengre opplæ­
-ringsløp, blant annet som følge av at en del bru­
-kere som blir tilbudt kortvarige tiltak relativt raskt
-kommer tilbake til NAV-kontoret uten å ha nådd
-målet om ordinært arbeid.
-
-5.7
-
-Effekter av opplæringstiltak
-
-Hensikten med arbeidsmarkedstiltak er å styrke
-deltakernes muligheter til å komme i jobb. Når
-man skal måle effekten av tiltak, spør man om til­
-tak utgjør en forskjell, altså om tiltaket styrker del­
-takernes muligheter i arbeidsmarkedet sammen­
-
-liknet med det som ville ha vært situasjonen der­
-som de ikke hadde deltatt.
-I Norge, som i mange andre land, har det gjen­
-nom flere år blitt gjennomført effektevalueringer
-av arbeidsmarkedstiltak for ordinære arbeidssø­
-kere. I økende grad har også effektevalueringene
-omfattet tiltak for personer med nedsatt arbeids­
-evne. Evalueringene viser gjennomgående posi­
-tive, men moderate effekter. Effektene avhenger
-av tiltakstype, individkarakteristika og tidsper­
-spektivet som legges til grunn. Tiltak som medfø­
-rer eller likner på ordinær ansettelse og tiltak som
-har til hensikt å gjøre arbeidssøkere mer effektive
-i sin jobbsøking, synes å oppnå best resultater, i
-hvert fall når det gjelder rask overgang til arbeid.
-Opplæringstiltak medfører gjerne en innlå­
-singseffekt som innebærer at overgangen til jobb
-reduseres på kort sikt mens de deltar i tiltak, men
-slike tiltak gir også økt sannsynlighet for overgang til arbeid etter avsluttet tiltaksgjennomfø­
-ring. På individnivå kan det se ut til at den sam­
-lede effekten av opplæringstiltak er positiv for alle
-målgrupper sett under ett.6 Praksisplasser og sys­
-selsettingstiltak i skjermede miljøer ser ut til å ha
-svakere effekter.
-6
-
-5
-
-Proba samfunnsanalyse 2015a
-
-Arendt og Pozzoli 2013, Hardoy mfl. 2006, Raaum mfl.
-2002b
-
-[Side 74]
-
-74
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-5.7.1
-
-Erfaringer med opplæringstiltak i
-Norge
-Det er gjennomført flere evalueringer av opp­
-læringstiltakene i Norge. Tiltakene som er evalu­
-ert er AMO-kurs, som både ordinære arbeidssø­
-kere og personer med nedsatt arbeidsevne kan
-delta i, og utdanningstiltaket, som gjelder for per­
-soner med nedsatt arbeidsevne.
-Effektevalueringer av AMO-kurs viser en posi­
-tiv effekt for deltakernes arbeidsmarkedssitua­
-sjon. En analyse av effektene av AMO-kurs for
-ledige i perioden 1991 til 1996 viste at effektene
-var positive, også tre til fem år etter avsluttet til­
-tak.7 En nytte-kostnadsanalyse som ble gjennom­
-ført på grunnlag av dette viste at kostnadene ved
-kursene ble mer enn oppveid av økt jobbdelta­
-kelse for deltakere som hadde arbeidserfaring før
-kurset.8 En analyse av effekten av opplæringstil­
-tak for ordinært ledige med data fra 1993 til 2003,
-konkluderer med at AMO-kurs samlet sett førte til
-en liten reduksjon i ledighetsperioden, til tross for
-noe lavere overgang til jobb i selve tiltaksperio­
-den.9
-Enkelte studier har sett på effekten av AMO­
-kurs for utvalgte målgrupper av ledige. En studie
-av effekt av arbeidsmarkedstiltak for innvandrere
-fant positive effekter på sannsynligheten for overgang til arbeid for innvandrere etter fullført AMO­
-kurs.10 Analysene viser også positive effekter av
-tiltakskjeding for innvandrere, det vil si bruk av
-ulike typer tiltak etter hverandre, og med AMO
-som første tiltaket. En mulig forklaring på disse
-resultatene kan være at mange innvandrere tar
-AMO-kurs som inneholder yrkesrettet norskopp­
-læring, og norskkunnskap er viktig for å få jobb.11
-En analyse av unge som hadde startet i videre­
-gående opplæring fra 1992 til 2007, men sluttet
-uten å fullføre, fant at AMO hadde en positiv effekt
-på jobbsjansen både under og etter tiltaket.12 En
-del av disse kursene la vekt på jobbsøking i til­
-taksperioden, mens de mest langvarige var mer
-kompetansegivende, for eksempel fullføring av
-enkeltfag innenfor videregående opplæring.
-En studie som har sammenliknet effekten av
-opplæringstiltak for ordinære jobbsøkere med
-7
-
-Raaum mfl. 2002b
-Raaum mfl. 2002a
-9
-Hardoy mfl. 2006
-10
-Med innvandrer menes personer født i utlandet av to uten­
-landsfødte foreldre med bakgrunn fra Asia, Afrika, Sør- og
-sentral-Amerika og Øst-Europa.
-11
-Hardoy og Zhang 2010
-12
-Simson, Kristine von 2012
-8
-
-2015–2016
-
-effekten av tiltaket arbeidspraksis i perioden
-2003–2012, finner at opplæringstiltak har positive
-effekter, mens arbeidspraksis har moderate – om
-noen – effekter.13 Rekkefølgen av tiltak synes
-imidlertid å ha betydning i de tilfellene disse
-benyttes i en tiltakskjede. Opplæring først og
-arbeidspraksis etterpå viser seg å ha flere positive
-effekter enn arbeidspraksis først og opplæring
-etterpå.
-Norske evalueringer av ordinær utdanning
-som arbeidsrettet tiltak gjelder tiltak for personer
-med nedsatt arbeidsevne, eller attføring, som det
-het tidligere. En studie analyserte deltakere i att­
-føringstiltak i 1989, hvor ulike former for opplæ­
-ring var dominerende, ved siden av innslag av
-lønnstilskudd.14 Resultatene var usikre, men ten­
-derte mot en svak positiv effekt. Et viktig resultat
-var imidlertid at effekten varierte etter hvilke for­
-utsetninger deltakerne hadde i utgangspunktet.
-Effekten var best for de som sto svakest på
-arbeidsmarkedet. Å motivere personer som står
-svakt på arbeidsmarkedet til å ta opplæring er der­
-for viktig.
-En analyse av utfall av attføringstiltak for alle
-attføringsdeltakere fra 1994 til 2003 sammenliknet
-ulike tiltak.15 Tiltakene ble gruppert i: Arbeids­
-praksis i ordinære og skjermede virksomheter,
-lønnstilskudd og opplæring i form av ordinær
-utdanning og AMO. På kort sikt har lønnstilskudd
-best effekt. På lengre sikt er det ordinær utdan­
-ning som har mest positiv virkning. Både AMO og
-utdanningstiltaket ga bedre jobbsjanser etter tilta­
-ket, men utdanning ga også bedre jobbstabilitet
-og fastholdelse. Over en seksårsperiode hadde
-AMO samlet sett ikke en statistisk pålitelig sam­
-funnsøkonomisk effekt når tiltaksperioden ble
-regnet inn, ifølge denne undersøkelsen. Ordinær
-utdanning ga et samfunnsøkonomisk overskudd
-over den samme seksårsperioden. Andre norske
-evalueringer har også vist at utdanningstiltaket
-synes å gi bedre effekt enn AMO for personer
-med nedsatt arbeidsevne, samt at opplæring har
-bedre effekt enn praksisplass,16 men dårligere
-effekt enn lønnstilskudd.17
-Konklusjonene fra internasjonale sammenfat­
-ninger, jf. boks 5.5 er i stor grad i overensstem­
-melse med OECDs oppsummering fra en rekke
-europeiske evalueringer som viser at tiltak som i
-første rekke bidrar med støtte og oppmuntring til
-13
-14
-15
-16
-17
-
-Zhang 2015
-Aakvik mfl. 2005
-Westli 2008
-Hardoy mfl. 2006
-Markussen og Røed 2014
-
-[Side 75]
-
-2015–2016
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-75
-
-Boks 5.5 Sammenfatning av internasjonale resultater
-effekt på lengre sikt, altså tiltakseffekter som
-Det er gjennomført flere internasjonale oppsum­
-er store nok til å oppveie innlåsingseffektene
-meringer av effekter av arbeidsmarkedstiltak.
-ved utdanningen.
-En dansk oppsummering har sett på erfaringer
-med utdanning brukt som arbeidsmarkedstiltak
-– Det er tegn til at utdanning som arbeidsmar­
-– også for personer med nedsatt arbeidsevne – i
-kedstiltak er økonomisk kostnadssvarende.
-en rekke land, herunder Norge, og konkluderer
-– Utdanning som arbeidsmarkedstiltak virker
-slik:1
-bedre enn blant annet arbeidspraksis.
-– Det er en viss indikasjon for at utdanning
-– Utdanning som arbeidsmarkedstiltak har
-ikke øker sjansen til jobb for personer med
-betydelige innlåsingseffekter, det vil si at
-helseproblemer. Her skiller Norge seg ut
-mange av deltakerne ville ha fått jobb i løpet
-med mer positive resultater for personer med
-av den tiden de brukte på utdanning om de
-nedsatt arbeidsevne.
-hadde søkt på jobber i stedet.
-– Det er en viss indikasjon for at effekten av
-– Utdanning som arbeidsmarkedstiltak har
-utdanning som arbeidsmarkedstiltak er høy­
-positive tiltakseffekter, det vil si effekter målt
-ere hvis arbeidsledigheten er høy når tiltaket
-etter at opplæringen er gjennomført, og
-starter.
-effekt som varer over lengre tid (mer enn tre
-år).
-1
-Arendt og Pozzoli 2013. Denne sammenfatningen gjelder
-– Det er en viss indikasjon på at utdanning som
-bare bruk av ordinær utdanning, ikke kurs i regi av
-arbeidsmarkedstiltak har positiv samlet
-arbeidsformidlingene i landene forskningsresultatene er
-hentet fra.
-
-jobbsøkeaktiviteter og rask utplassering i arbeids­
-livet ofte er mer effektive enn tradisjonelle opp­
-læringstiltak.18 Opplæringstiltak tar ofte tid, har
-betydelige innlåsingseffekter mens tiltaket varer,
-men kan ha langsiktige positive effekter. OECD
-peker dessuten på at målrettet opplæring og blan­
-dede strategier som kombinerer opplæring og
-utplassering, kan være effektive, og at det i mange
-land kan være rom for å øke omfanget av opplæ­
-ring under lavkonjunktur.
-Disse resultatene gir grunnlag for å konklu­
-dere med at opplæring som tiltak har betydning
-og kan ha positiv effekt for mange som står uten­
-for arbeidslivet. Effekten av opplæringstiltak vari­
-erer mellom ulike målgrupper, men ser ut til å
-kunne ha relativt god effekt for personer som står
-langt fra arbeidsmarkedet.
-Evaluering av tiltak viser videre at formidlings­
-tiltak og rask utplassering i arbeidslivet virker
-godt for mange arbeidssøkergrupper. Formid­
-lingstiltak er ofte også de tiltakene som er minst
-ressurskrevende å tilby og å administrere. I ned­
-gangskonjunktur når det er færre stillinger å for­
-midle til, og når deler av arbeidskraften kan
-trenge ny kompetanse, kan det være grunn til å
-satse mer også på opplæringstiltak.
-18
-
-OECD 2015
-
-5.8
-
-Utfordringer ved Arbeids- og
-velferdsetatens opplæringstilbud
-
-For å få flere i arbeid skal Arbeids- og velferdseta­
-ten tilby sine brukere et godt og individuelt tilpas­
-set tjenestetilbud som samsvarer med behovene i
-arbeidsmarkedet. Dette gjelder også opplærings­
-tiltak for personer hvor manglende kompetanse
-utgjør en vesentlig barriere for arbeidsdeltakelse.
-Selv om effektevalueringer av Arbeids- og vel­
-ferdsetatens opplæringstiltak på landsbasis viser
-at resultatene i hovedsak er positive, foreligger
-det også forskning som kan tyde på at en del
-arbeidssøkere med dårlige norskferdigheter eller
-svake grunnleggende ferdigheter, kan ha vansker
-med å dra nytte av enkelte av Arbeids- og vel­
-ferdsetatens tiltak, som blant annet arbeidspraksis
-hvor effekten på overgang til arbeid er svak.
-En Fafo-rapport om somalieres møte med
-Arbeids- og velferdsetaten finner at deler av den
-kvalifiseringen som tilbys ikke samsvarer med
-brukergruppenes behov og kunnskapsnivå.19
-Fafo-rapporten legger vekt på at deltakelse på
-arbeidsmarkedstiltak først blir meningsfull når
-den enkelte arbeidssøker kommer til Arbeids- og
-velferdsetaten med et visst minstemål av kunn­
-skaper og norskferdigheter som lar seg omsette i
-19
-
-Friberg og Elgvin 2014
-
-[Side 76]
-
-76
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-arbeidsmarkedet. Fafo mener funnene kan være
-relevante også for andre brukergrupper i etaten
-som har behov for opplæring som kan gi grunn­
-leggende kvalifisering. En annen undersøkelse
-foretatt av Fafo bekrefter også flere svakheter ved
-tiltakstilbudet, særlig overfor innvandrere. Den
-indikerer blant annet at innholdet i enkelte AMO­
-kurs ikke tilfredsstiller de formelle kravene som
-stilles fra arbeidsgivere.20 Utfyllende regelverk i
-Arbeids- og velferdsdirektoratet har inneholdt
-krav til at brukerne har «tilstrekkelige» norsk­
-kunnskaper til å kunne nyttiggjøre seg etatens til­
-tak, og dette kan ha vært tolket ulikt rundt om i
-landet.
-I en kartlegging foretatt av Arbeids- og vel­
-ferdsdirektoratet i 2014 framkommer betydelig og
-til dels tilfeldig variasjon på tvers av fylkene i
-omfang og innretning av norskopplæring til
-arbeids- og velferdsforvaltningens brukere.
-Direktoratet viser til stor variasjon i innhold i
-AMO-kursene, og et behov for å skaffe mer kunn­
-skap om hvilke behov som dekkes og hvilke resul­
-tater de ulike AMO- kursene gir. Arbeids- og sosi­
-aldepartementet tar derfor sikte på å innhente
-mer informasjon om dette, slik at innretningen av
-tiltaket kan bli mest mulig kunnskapsbasert.
-For arbeidssøkere med svake grunnleggende
-ferdigheter, for eksempel svake lese- og skrive­
-ferdigheter, kan det også se ut som om Arbeids­
-og velferdsetatens tiltakstilbud ikke i tilstrekkelig
-grad imøtekommer behovet for effektiv, arbeids­
-rettet bistand. En ekspertgruppe som har gjen­
-nomgått Arbeids- og velferdsetaten, finner at etaten har hatt for lite oppmerksomhet rundt utfor­
-dringene med manglende grunnleggende ferdig­
-heter.21 Samtidig understreker ekspertgruppen at
-ansvaret for grunnskoleopplæring ligger hos
-kommunene.
-Utfordringer knyttet til innretningen av AMO­
-kursene gir grunn til å vurdere om Arbeids- og
-velferdsetatens opplæringsinnsats kan tilretteleg­
-ges og systematiseres på en slik måte at flere
-arbeidssøkere og personer med nedsatt arbeids­
-evne med svake norskkunnskaper og mangelfulle
-grunnleggende ferdigheter kan få et bedre tilbud
-som setter flere i stand til å få og beholde arbeid.
-Flere trekk ved utviklingen på arbeidsmarkedet
-og sammensetningen av Arbeids- og velferdseta­
-tens brukere understøtter dette.
-
-20
-21
-
-Djuve og Sandbæk 2012
-Sluttrapport fra Ekspertgruppen: «Et Nav med mulighe­
-ter». Oslo, april 2015
-
-5.9
-
-2015–2016
-
-Tiltak for et bedre opplærings­
-tilbud i Arbeids- og velferdsetaten
-
-For å få flere i arbeid skal Arbeids- og velferdsetaten
-ved behov tilby sine brukere et fleksibelt og indivi­
-duelt tilpasset opplæringstilbud. Utviklingstrekk ved
-etatens opplæringstilbud, sammensetningen av bru­
-kere og kunnskap om tiltakene gjør det nødvendig å
-vurdere om nivå, innretning og innhold i opp­
-læringstiltakene er i tråd med de behovene for
-arbeidsrettet bistand som NAV-kontorets brukere
-har i dag. Det er også grunn til å vurdere om omfan­
-get av opplæringstilbudet er på et riktig nivå, eller
-om det bør gjøres endringer som kan stimulere til
-økt eller endret bruk av opplæringstiltak.
-Nedgangen i Arbeids- og velferdsetatens bruk
-av formell opplæring og utdanning har vært bety­
-delig de siste årene. Omfanget av opplæringsakti­
-viteten må ses i sammenheng med tiltakssammen­
-setning for øvrig, men det er grunnlag for å vur­
-dere endringer i regelverk og innretning som kan
-bidra til å styrke bruken av opplæring ut fra det
-behovet for omskolering og yrkeskompetanse
-mange arbeidssøkere og personer med nedsatt
-arbeidsevne har. Mange av arbeids- og velferds­
-forvaltningens brukere mangler kompetanse på
-videregående opplæringsnivå.
-Det er grunn til å stille spørsmål ved om det er
-en hensiktsmessig og fornuftig prioritering av
-Arbeids- og velferdsetatens opplæringsressurser å
-tilby flertallet av deltakerne enten høyere utdan­
-ning eller kortere AMO-kurs som ikke gir formell
-kompetanse. Formålet med å foreslå endringer i
-etatens opplæringstilbud er derfor å utforme et til­
-bud som er bedre tilpasset det behovet for opplæ­
-ring som arbeidssøkere i dag og i tiden framover
-har for å komme i arbeid.
-De foreslåtte endringene understøttes av til­
-gjengelige effektstudier av opplæringstiltak. En
-generell erfaring fra disse studiene er at opp­
-læringstiltak av en viss varighet der opplæringen
-gir formell kompetanse, gir god effekt på overgan­
-gen til arbeid for både arbeidssøkere og personer
-med nedsatt arbeidsevne.
-SSBs framskrivinger av tilbud og etterspørsel
-etter arbeidskraft fordelt på utdanning, viser at det
-i årene fram mot 2030 særlig ligger an til å bli et
-underskudd av personer med yrkesfaglige, videre­
-gående utdanninger.22 Dette er først og fremst
-utdanningsmyndighetenes ansvar, men det er
-også rimelig at dette påvirker utformingen av opp­
-læringstiltak i Arbeids- og velferdsetatens regi.
-22
-
-Gjefsen mfl. 2014
-
-[Side 77]
-
-2015–2016
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-Regjeringen vil derfor vri mer av Arbeids- og
-velferdsetatens opplæringsinnsats mot arbeidssø­
-kere som har svake grunnleggende ferdigheter
-eller svake formelle kvalifikasjoner. Det kan skje
-gjennom å tilby kortvarige kurs i grunnleggende
-ferdigheter og norskopplæring for de som trenger
-det for å komme i arbeid, eller gjennom tilbud om
-lengre opplæringsopplegg innrettet mot blant
-annet videregående opplæring. Opplæringen bør
-målrettes mot områder hvor det er etterspørsel i
-arbeidsmarkedet. Spesielt vil det bli viktig å priori­
-tere fagopplæring, for eksempel innenfor helse­
-og oppvekstfag. Det vil øke sannsynligheten for at
-flere kommer i arbeid etter gjennomført opplæ­
-ring.
-Regjeringen vil
-–
-–
-
-øke Arbeids- og velferdsetatens samlede opp­
-læringsinnsats, og tilpasse den bedre til
-arbeidssøkernes behov
-innrette opplæringsinnsatsen mot å gi bru­
-kerne en mer arbeidsrettet og yrkesrelevant
-opplæring på områder hvor det er forventet en
-framtidig mangel på arbeidskraft. Det gjelder
-særlig innenfor yrkesfaglig, videregående opp­
-læring
-
-5.9.1
-
-Nytt to-årig yrkesrettet opplærings­
-tiltak
-Som ledd i regjeringens satsing for å redusere
-ledigheten blant unge, ble det fra 1. januar 2016
-etablert et nytt opplæringstilbud med inntil to års
-varighet for arbeidssøkere med svake formelle
-kvalifikasjoner eller svake grunnleggende ferdig­
-heter. Tilbudet er også åpnet for personer med
-nedsatt arbeidsevne som er i samme situasjon.
-Opplæringen innenfor den to-årige ordningen vil
-gjennomføres som individuelt tilrettelagt opplæ­
-ring, og opplæringen sikter mot å gi deltakerne
-formell kompetanse i form av vitnemål eller lik­
-nende.
-Tilbudet rettes mot arbeidssøkere som i dag
-ofte tilbys kortere, standardiserte AMO-kurs eller
-arbeidspraksis, men som har behov for mer
-omfattende og grunnleggende opplæring. Tilbu­
-det kan ses i sammenheng med blant annet forslag om en modulstrukturert opplæringsmodell
-for videregående opplæring, forslag om fagbrev
-på jobb og forslag om at ordningen med praksis­
-brev innføres som en permanent ordning, jf. kapit­
-tel 3.
-Personer under 30 år som ikke har fullført
-videregående opplæring, eller som har svake
-
-77
-
-grunnleggende ferdigheter, er i 2016 prioritert for
-deltakelse i tiltaket, men det kan også tilbys
-arbeidssøkere over 30 år. Tiltaksdeltakerne må
-være fylt 19 år.
-Muligheten for tilbud om lengre opplæring
-utover AMO-kurs i offentlig eller privat regi har
-inntil nå vært forbeholdt personer med nedsatt
-arbeidsevne. Det er derfor en viss risiko for at
-arbeidssøkere «klientifiseres» og plasseres i
-denne målgruppen for å få tilgang til lengre utdan­
-ning. Det er ikke en hensiktsmessig og ønsket til­
-pasning.
-I den to-årige opplæringsordningen vil det bli
-lettere å kombinere tilbud fra Arbeids- og vel­
-ferdsetaten med opplæring fra fylkeskommunen,
-siden etaten innenfor det nye opplæringstiltaket
-kan benytte seg av tilgjengelig opplæringstilbud
-innenfor offentlige og private utdanningsinstitu­
-sjoner, slik etaten allerede i dag gjør ved bruk av
-utdanning som arbeidsmarkedstiltak.
-Dette betyr at Arbeids- og velferdsetaten kan
-tilby sine brukere eksisterende skole- og studie­
-plasser, og dekke utgifter til for eksempel skole­
-penger, diverse andre studieutgifter samt penger
-til livsopphold. Arbeids- og velferdsetaten kan i til­
-legg bistå med ulike former for oppfølging og til­
-rettelegging. Dersom skole- eller studieplasser
-ikke er tilgjengelig på det aktuelle opplæringsom­
-rådet, kan etaten vurdere å anskaffe opplæringen
-på anbudsbasis dersom det er rom for dette innen­
-for etatens rammebevilgning til arbeidsmarkeds­
-tiltak.
-I samarbeidsprosjekter med blant annet kom­
-muner og fylkeskommunen kan ulike former for
-samfinansiering avtales lokalt så lenge midlene
-brukes i tråd med de retningslinjene Stortinget
-har trukket opp for bruk av bevilgningen til
-arbeidsmarkedstiltak. Her er det over tid utviklet
-ulike finansierings- og samarbeidsmodeller. Dette
-handlingsrommet lokalt er viktig for å sikre gode
-og fleksible løsninger.
-Ansvar og arbeidsdeling
-Et vilkår for å få tilgang til videregående opplæ­
-ring innenfor det nye to-årige opplæringstilbudet
-og det eksisterende tre-årige utdanningstilbudet
-for personer med nedsatt arbeidsevne, er at man
-ikke har rett til videregående opplæring innenfor
-det ordinære utdanningssystemet, og heller ikke
-får tilbud om dette gjennom introduksjonsordnin­
-gen. Denne avklaringen av Arbeids- og velferdse­
-tatens ansvar vil bli nedfelt i en sentral forskrift
-om arbeidsmarkedstiltak. Innenfor den forskrifts­
-festede avgrensningen avgjør etaten på skjønns­
-
-[Side 78]
-
-78
-
-Meld. St. 16
-Fra utenforskap til ny sjanse
-
-messig grunnlag, og ut fra tilgjengelige ressurser,
-hvem som kan innvilges opplæring for å komme i
-arbeid.
-Arbeids- og velferdsetatens tilbud om videre­
-gående opplæring vil derfor omfatte arbeidssø­
-kere og personer med nedsatt arbeidsevne som
-etter dagens regelverk ikke har rett til videregå­
-ende opplæring, og hvor tilbud fra etaten vurderes
-å være hensiktsmessig for å komme i arbeid. Det
-kan i henhold til dagens opplæringslov være unge
-som ikke har fullført videregående opplæring
-innenfor de fem årene de har til rådighet og som
-er for unge for voksenretten (under 25 år), innvan­
-drere med fullført videregående opplæring i utlan­
-det som ikke får denne utdanningen godkjent som
-studiekompetanse eller yrkeskompetanse i
-Norge, personer som har fullført videregående
-opplæring, men ikke bestått, og personer som har
-fullført og bestått videregående opplæring, men
-som ønsker en annen videregående spesialise­
-ring.
-Når retten til videregående opplæring utvides
-slik regjeringen foreslår i denne meldingen, vil
-den første av gruppene som er nevnt ovenfor falle
-inn under fylkeskommunens opplæringsansvar,
-og derfor ikke lenger være i målgruppen for
-Arbeids- og velferdsetatens tilbud om videre­
-gående opplæring. En slik utvidelse av retten til
-videregående opplæring vil tydeliggjøre ansvaret
-på dette området, og det vil bli færre personer
-som står uten rett.
-Tilbud om grunnskoleopplæring, inkludert
-opplæring i grunnleggende ferdigheter, er et kom­
-munalt ansvar (jf. kapittel 3). Voksne som har
-behov for opplæring på dette nivået har rett til
-grunnskoleopplæring fra kommunen. Det forhin­
-drer imidlertid ikke arbeids- og velferdsforvaltnin­
-gen fra å kunne samarbeide med kommunene om
-å tilby kurs i grunnleggende ferdigheter. NAV­
-kontoret vil også delta i forsøk med modulstruktu­
-rert opplæring på dette nivået.
-Innenfor Arbeids- og velferdsetatens res­
-sursramme for arbeidsmarkedstiltak må det prio­
-riteres hva slags opplæring man skal tilby. Som for
-andre arbeidsmarkedstiltak må innsatsen rettes
-mot den opplæringen som gir størst effekt på
-overgangen til arbeid. Arbeids- og velferdsetatens
-opplæringsinnsats må derfor konsentreres om å
-tilby arbeidsrettet og yrkesrelevant opplæring.
-Det innebærer blant annet å tilby arbeidssøkere
-fagopplæring på videregående opplæringsnivå
-innenfor områder hvor det er etterspørsel i
-arbeidsmarkedet.
-
-2015–2016
-
-Regjeringen vil
-–
-
-styrke tilbudet til arbeidssøkere gjennom et
-to-årig yrkesrettet opplæringstiltak for perso­
-ner over 19 år med svake grunnleggende
-ferdigheter, og som står uten rett til videre­
-gående opplæring etter opplæringsloven
-
-5.9.2
-
-Aldersgrensen for utdanning som
-arbeidsmarkedstiltak settes ned
-
-Innenfor det eksisterende utdanningstiltaket som
-er forbeholdt personer med nedsatt arbeidsevne,
-er i dag aldersgrensen for å komme inn på tiltaket
-26 år. En unntaksbestemmelse åpner for at utdan­
-ning kan innvilges personer som er under 26 år.
-Denne bestemmelsen har vist seg å være utfor­
-drende for skjønnsutøvelsen i arbeids- og velferds­
-forvaltningen.23 Aldersgrensen er satt til 26 år for
-å hindre misbruk av ordningen, og for å unngå at
-tilbud om høyere utdanning blir innvilget perso­
-ner som burde ha bekostet dette selv.
-Regjeringen foreslår at aldersgrensen for å få
-tilgang til opplæring på inntil tre år for personer
-med nedsatt arbeidsevne, settes ned fra 26 år til 22
-år. Dette var aldersgrensen for tiltaket før den ble
-hevet til 26 år i 2004, jf. boks 5.4. Forslaget kan
-bidra til å styrke utdanningsmulighetene for unge
-med nedsatt arbeidsevne eller nedsatt funksjons­
-evne, og forsterke regjeringens og IA-partenes
-innsats rettet mot unge under 30 år.
-En aldersgrense på 22 år vil gjøre det lettere å
-vri utdanningstiltaket mer i retning av videregå­
-ende opplæring. Samtidig vil aldersgrensen være
-tilstrekkelig høy til å kunne hindre misbruk av
-ordningen. Videregående opplæring kan tilbys
-personer uten rett til dette etter opplæringsloven.
-En del personer med nedsatt arbeidsevne
-under 26 år er allerede blitt innvilget utdannings­
-tiltaket gjennom en eksisterende unntaksbestem­
-melse i regelverket. I 2014 var dette 1 450 perso­
-ner, eller 16 prosent av alle deltakere på utdan­
-ningstiltaket. Det er derfor ikke gitt at forslaget vil
-føre til noen betydelig vekst i antall deltakere på
-tiltaket selv om målgruppen utvides, men det kan
-bidra til økt likebehandling av personer i alders­
-gruppen under 26 år som har behov for utdan­
-ning.
-En unntaksbestemmelse åpner i dag for at
-varigheten av utdanningen kan forlenges utover
-den ordinære grensen på tre år. Det er ikke satt
-en endelig tidsbegrensning for denne unntaks­
-bestemmelsen. Bestemmelsen faller nå bort, og
-23
-
-Grue og Finnvold 2014
+Tilbudet rettes mot arbeidssøkere som i dag ofte tilbys kortere, standardiserte AMO-kurs eller arbeidspraksis, men som har behov for mer omfattende og grunnleggende opplæring. Tilbudet kan ses i sammenheng med blant annet forslag om en modulstrukturert opplæringsmodell for videregående opplæring, forslag om fagbrev på jobb og forslag om at ordningen med praksisbrev innføres som en permanent ordning, jf. kapittel 3.
+
+Personer under 30 år som ikke har fullført videregående opplæring, eller som har svake grunnleggende ferdigheter, er i 2016 prioritert for deltakelse i tiltaket, men det kan også tilbys arbeidssøkere over 30 år. Tiltaksdeltakerne må være fylt 19 år.
+
+Muligheten for tilbud om lengre opplæring utover AMO-kurs i offentlig eller privat regi har inntil nå vært forbeholdt personer med nedsatt arbeidsevne. Det er derfor en viss risiko for at arbeidssøkere «klientifiseres» og plasseres i denne målgruppen for å få tilgang til lengre utdanning. Det er ikke en hensiktsmessig og ønsket tilpasning.
+
+I den to-årige opplæringsordningen vil det bli lettere å kombinere tilbud fra Arbeids- og velferdsetaten med opplæring fra fylkeskommunen, siden etaten innenfor det nye opplæringstiltaket kan benytte seg av tilgjengelig opplæringstilbud innenfor offentlige og private utdanningsinstitusjoner, slik etaten allerede i dag gjør ved bruk av utdanning som arbeidsmarkedstiltak.
+
+Dette betyr at Arbeids- og velferdsetaten kan tilby sine brukere eksisterende skole- og studieplasser, og dekke utgifter til for eksempel skolepenger, diverse andre studieutgifter samt penger til livsopphold. Arbeids- og velferdsetaten kan i tillegg bistå med ulike former for oppfølging og tilrettelegging. Dersom skole- eller studieplasser ikke er tilgjengelig på det aktuelle opplæringsområdet, kan etaten vurdere å anskaffe opplæringen på anbudsbasis dersom det er rom for dette innenfor etatens rammebevilgning til arbeidsmarkedstiltak.
+
+I samarbeidsprosjekter med blant annet kommuner og fylkeskommunen kan ulike former for samfinansiering avtales lokalt så lenge midlene brukes i tråd med de retningslinjene Stortinget har trukket opp for bruk av bevilgningen til arbeidsmarkedstiltak. Her er det over tid utviklet ulike finansierings- og samarbeidsmodeller. Dette handlingsrommet lokalt er viktig for å sikre gode og fleksible løsninger.
+
+*Ansvar og arbeidsdeling*
+
+Et vilkår for å få tilgang til videregående opplæring innenfor det nye to-årige opplæringstilbudet og det eksisterende tre-årige utdanningstilbudet for personer med nedsatt arbeidsevne, er at man ikke har rett til videregående opplæring innenfor det ordinære utdanningssystemet, og heller ikke får tilbud om dette gjennom introduksjonsordningen. Denne avklaringen av Arbeids- og velferdsetatens ansvar vil bli nedfelt i en sentral forskrift om arbeidsmarkedstiltak. Innenfor den forskriftsfestede avgrensningen avgjør etaten på skjønnsmessig grunnlag, og ut fra tilgjengelige ressurser, hvem som kan innvilges opplæring for å komme i arbeid.
+
+Arbeids- og velferdsetatens tilbud om videregående opplæring vil derfor omfatte arbeidssøkere og personer med nedsatt arbeidsevne som etter dagens regelverk ikke har rett til videregående opplæring, og hvor tilbud fra etaten vurderes å være hensiktsmessig for å komme i arbeid. Det kan i henhold til dagens opplæringslov være unge som ikke har fullført videregående opplæring innenfor de fem årene de har til rådighet og som er for unge for voksenretten (under 25 år), innvandrere med fullført videregående opplæring i utlandet som ikke får denne utdanningen godkjent som studiekompetanse eller yrkeskompetanse i Norge, personer som har fullført videregående opplæring, men ikke bestått, og personer som har fullført og bestått videregående opplæring, men som ønsker en annen videregående spesialisering.
+
+Når retten til videregående opplæring utvides slik regjeringen foreslår i denne meldingen, vil den første av gruppene som er nevnt ovenfor falle inn under fylkeskommunens opplæringsansvar, og derfor ikke lenger være i målgruppen for Arbeids- og velferdsetatens tilbud om videregående opplæring. En slik utvidelse av retten til videregående opplæring vil tydeliggjøre ansvaret på dette området, og det vil bli færre personer som står uten rett.
+
+Tilbud om grunnskoleopplæring, inkludert opplæring i grunnleggende ferdigheter, er et kommunalt ansvar (jf. kapittel 3). Voksne som har behov for opplæring på dette nivået har rett til grunnskoleopplæring fra kommunen. Det forhindrer imidlertid ikke arbeids- og velferdsforvaltningen fra å kunne samarbeide med kommunene om å tilby kurs i grunnleggende ferdigheter. NAV-kontoret vil også delta i forsøk med modulstrukturert opplæring på dette nivået*.*
+
+Innenfor Arbeids- og velferdsetatens ressursramme for arbeidsmarkedstiltak må det prioriteres hva slags opplæring man skal tilby. Som for andre arbeidsmarkedstiltak må innsatsen rettes mot den opplæringen som gir størst effekt på overgangen til arbeid. Arbeids- og velferdsetatens opplæringsinnsats må derfor konsentreres om å tilby **arbeidsrettet og yrkesrelevant **opplæring. Det innebærer blant annet å tilby arbeidssøkere fagopplæring på videregående opplæringsnivå innenfor områder hvor det er etterspørsel i arbeidsmarkedet.
+
+*Regjeringen vil*
+
+- styrke tilbudet til arbeidssøkere gjennom et to‑årig yrkesrettet opplæringstiltak for personer over 19 år med svake grunnleggende ferdigheter, og som står uten rett til videregående opplæring etter opplæringsloven
+
+  1.  **Aldersgrensen for utdanning som arbeidsmarkedstiltak settes ned**
+
+Innenfor det eksisterende utdanningstiltaket som er forbeholdt personer med nedsatt arbeidsevne, er i dag aldersgrensen for å komme inn på tiltaket 26 år. En unntaksbestemmelse åpner for at utdanning kan innvilges personer som er under 26 år. Denne bestemmelsen har vist seg å være utfordrende for skjønnsutøvelsen i arbeids- og velferdsforvaltningen.[^136] Aldersgrensen er satt til 26 år for å hindre misbruk av ordningen, og for å unngå at tilbud om høyere utdanning blir innvilget personer som burde ha bekostet dette selv.
+
+Regjeringen foreslår at aldersgrensen for å få tilgang til opplæring på inntil tre år for personer med nedsatt arbeidsevne, settes ned fra 26 år til 22 år. Dette var aldersgrensen for tiltaket før den ble hevet til 26 år i 2004, jf. boks 5.4. Forslaget kan bidra til å styrke utdanningsmulighetene for unge med nedsatt arbeidsevne eller nedsatt funksjonsevne, og forsterke regjeringens og IA-partenes innsats rettet mot unge under 30 år.
+
+En aldersgrense på 22 år vil gjøre det lettere å vri utdanningstiltaket mer i retning av videregående opplæring. Samtidig vil aldersgrensen være tilstrekkelig høy til å kunne hindre misbruk av ordningen. Videregående opplæring kan tilbys personer uten rett til dette etter opplæringsloven.
+
+En del personer med nedsatt arbeidsevne under 26 år er allerede blitt innvilget utdanningstiltaket gjennom en eksisterende unntaksbestemmelse i regelverket. I 2014 var dette 1 450 personer, eller 16 prosent av alle deltakere på utdanningstiltaket. Det er derfor ikke gitt at forslaget vil føre til noen betydelig vekst i antall deltakere på tiltaket selv om målgruppen utvides, men det kan bidra til økt likebehandling av personer i aldersgruppen under 26 år som har behov for utdanning.
+
+En unntaksbestemmelse åpner i dag for at varigheten av utdanningen kan forlenges utover den ordinære grensen på tre år. Det er ikke satt en endelig tidsbegrensning for denne unntaksbestemmelsen. Bestemmelsen faller nå bort, og erstattes av en bestemmelse hvor forlengelsen fastsettes til maksimalt ett år. Utdanning utover tre, pluss eventuelt ett år, bør finansieres gjennom støtte fra Lånekassen, eller av den enkelte selv.
+
+*Regjeringen vil*
+
+- senke aldersgrensen for utdanning som arbeidsmarkedstiltak fra 26 år til 22 år for personer med nedsatt arbeidsevne
+
+- begrense varigheten av utdanningstiltaket til maksimalt tre år, med mulighet for ett års forlengelse
+
+  1.  **Bedre kurstilbud i grunnleggende ferdigheter og norskopplæring**
+
+Arbeids- og velferdsetaten skal, i tillegg til å tilby lengre opplæring med varighet på inntil to eller tre år, fortsatt tilby arbeidsrettede kurs av kortere varighet. Det kan blant annet omfatte kurs i grunnleggende ferdigheter samt norskopplæring.
+
+Det er i løpet av de siste årene blitt færre AMO-kurs som gir formell kompetanse. Det kan få konsekvenser for overgangen til arbeid. Det er grunn til i større grad å vektlegge kurs som gir kvalifikasjoner i form av sertifikater, kursbevis med videre, da undersøkelser viser at dette kan øke mulighetene på arbeidsmarkedet.
+
+Arbeids- og velferdsetaten skal innenfor sitt tilbud om arbeidsmarkedsopplæring kunne tilby kurs i grunnleggende ferdigheter som lesing og skriving, som er relevant for at den enkelte skal komme i arbeid. For mange vil opplæring i grunnleggende ferdigheter være en forutsetning for å få god tilknytning til arbeidslivet, og for å kunne dra nytte av andre arbeidsmarkedstiltak. Det er et mål for regjeringen at Arbeids- og velferdsetaten skal kunne tilby bedre og mer formalisert opplæring i grunnleggende ferdigheter enn i dag.
+
+For ansatte **gis tilbud om opplæring i grunnleggende ferdigheter gjennom BKA-programmet, jf. kapittel 3. Dette omfatter fra 2016 også opplæring i grunnleggende norsk. Arbeids- og velferdsetatens tilbud vil rette seg mot arbeidssøkere som står utenfor arbeidsmarkedet. Læringsmålene som er utviklet for BKA-ordningen kan imidlertid, når dette er hensiktsmessig, også danne grunnlag for AMO-kurs.[^137] Dette vil gi en klar ramme og retning for kursene. På dette området er det også viktig å legge til rette for et godt samarbeid med kommunene som ansvarlig for grunnskoleopplæringen for voksne.
+
+AMO-kurs er et av de mest benyttede arbeidsmarkedstiltakene for innvandrere. Det kan både skyldes mangelfull kompetanse og svake norskferdigheter hos brukerne. Innvandrere utgjør en økende andel av tiltaksdeltakerne i AMO, og for mange av disse utgjør dårlige norskferdigheter en barriere mot å få et varig fotfeste i arbeidslivet. Det er derfor grunnlag for å trappe opp Arbeids- og velferdsetatens tilbud om arbeidsrettet norskopplæring, ettersom foreliggende opplysninger fra Arbeids- og velferdsdirektoratet kan tyde på at tilbudet er varierende og mangelfullt utbygd.
+
+Opplæring kan, når det er hensiktsmessig, følge læreplan i norsk og samfunnskunnskap for voksne innvandrere, og bidra til å kvalifisere for den nasjonale norskprøven.[^138] At norskopplæringen skal være arbeidsrettet, kan innebære at en tar utgangspunkt i det såkalte arbeidslivsdomenet i den nevnte læreplanen, ved at språkopplæringen for eksempel foregår på en arbeidsplass.
+
+Arbeidsrettet norskopplæring kan også knyttes til deltakelse i arbeidsmarkedstiltak som arbeidstrening innenfor bestemte bransjer og yrker. I slike tilfeller vil norskopplæringen være et delelement i tiltakstilbudet. Dette kan eventuelt skje i et samarbeid mellom kommune og arbeids- og velferdsforvaltningen, hvor for eksempel det kommunale norskopplæringstilbudet kombineres med bruk av arbeidsmarkedstiltak.
+
+For kurs i grunnleggende ferdigheter og arbeidsrettet norskopplæring, vil det være opp til NAV-kontoret å avgjøre på skjønnsmessig grunnlag hvem som skal tildeles slike kurs.
+
+Kommunene har imidlertid hovedansvaret for å tilby opplæring i grunnleggende ferdigheter samt ansvaret for grunnleggende norskopplæring. Arbeids- og velferdsetatens tilbud må tilpasses og avgrenses mot kommunenes lovpålagte oppgaver på dette området hvor det er fastsatt rettigheter, plikter og timerammer for norskopplæringen til nyankomne innvandrere basert på blant annet oppholdsgrunnlag.
+
+Arbeidsmarkedskurs og kortvarige opplæringsopplegg skal, som i dag, anskaffes etter lov om offentlige anskaffelser. Det kursbaserte opplæringstilbudet omfatter både arbeidssøkere og personer med nedsatt arbeidsevne over 19 år. Varigheten av tilbudet fastsettes til inntil ett år. I dag er varigheten av Arbeids- og velferdsetatens kurstilbud ti måneder, med mulighet til seks måneders forlengelse. Muligheten for forlengelse faller bort med opprettelsen av et nytt to-årig opplæringstiltak.
+
+*Regjeringen vil*
+
+- utvikle opplæringen i Arbeids- og velferdsetaten ved å gi et bedre kurstilbud i grunnleggende ferdigheter og arbeidsrettet norskopplæring
+
+- fastsette kursvarigheten til maksimalt ett år
+
+  1.  **Bruk av arbeidstrening som ledd i opplæring**
+
+Et nytt arbeidstreningstiltak med blant annet forsterket oppfølging fra Arbeids- og velferdsetaten ble lagt fram av regjeringen i Prop. 39 L (2014–2015) og iverksatt i 2016. Tiltaket avløser arbeidspraksis som arbeidsmarkedstiltak. Ved bruk av arbeidstrening er tiltaksdeltakeren ikke ansatt hos arbeidsgiver og mottar ikke lønn, men offentlige ytelser som tiltakspenger, arbeidsavklaringspenger med videre.
+
+Mulighetene for aktivt å benytte arbeidstrening for å få flere arbeidssøkere til å gjennomføre videregående opplæring er lansert som en del av regjeringens ungdomssatsing for 2016. Arbeidstrening erstatter ikke en ordinær læreplass, men siden det kan være utfordrende for noen å få innpass hos arbeidsgivere som lærlinger, lærekandidater eller praksisbrevkandidater, kan arbeidstrening brukes som en prøveperiode før eventuelt oppstart av fag- og yrkesopplæring. Arbeidsgivere kan av ulike årsaker oppleve usikkerhet ved å påta seg ansvaret for en lærling med usikker produktivitet og arbeidsevne. Selv om lærlingen skal bidra til verdiskaping og lærebedriften mottar tilskudd for opplæringen, kan lærlinger medføre kostnader for virksomheten i form av tid til opplæring og veiledning og utbetaling av lærlinglønn.
+
+Arbeidstrening i regi av Arbeids- og velferdsetaten kan tjene ulike formål. Den kan brukes som et virkemiddel for å få arbeidssøkere tilbake i opplæring. Arbeidstrening kan fungere som avklaring av om den enkelte arbeidssøker er egnet til å inngå som lærling i virksomheten. En praksisperiode kan også gi deltakeren den erfaringen og kunnskapen som skal til for å gjøre han eller henne aktuell for læreplass. Tilbud om arbeidstrening kan suppleres med tilbud om avklarings- og motivasjonskurs, hvor målet for eksempel kan være å utarbeide en aktivitetsplan for hvilke tiltak man trenger for å komme i arbeid. Når en eventuell lærekontrakt er på plass, bør fylkeskommunen ta over ansvaret for oppfølging og finansiering.
+
+Det er ikke et mål å øke den samlede bruken av arbeidstrening. Arbeidstrening er allerede et mye brukt arbeidsmarkedstiltak, men samtidig et tiltak med dokumentert svak effekt på overgang til arbeid. Forskning viser imidlertid at arbeidstrening brukt i kombinasjon med tett oppfølging og opplæringstiltak kan ha en positiv effekt, jf. kapittel 5.8.
+
+Samarbeid med fylkeskommunen om videregående opplæring hvor begge parter bidrar med sine egne tilbud, kan derfor føre til en mer effektiv og helhetlig bruk av arbeidstreningstiltaket enn der dette tiltaket brukes isolert. Selv om den samlede bruken av arbeidstrening ikke skal øke, kan en større del av plassene med fordel kombineres med målrettet opplæring.
+
+*Regjeringen vil*
+
+- legge til rette for at Arbeids- og velferdsetatens tilbud om arbeidstrening i ordinært arbeidsliv kan inngå som et ledd i å få flere arbeidssøkere inn i yrkesrettet opplæring
+
+  1.  **Oppsummering: Tre opplæringsvarianter i NAV-kontorenes regi**
+
+Opplæring i regi av Arbeids- og velferdsetaten skal ha som hovedmål å sikre arbeidssøkere og personer med nedsatt arbeidsevne grunnleggende ferdigheter og kompetanse for å møte arbeidslivets krav.
+
+Ved å vektlegge opplæring som gir formell kompetanse, blant annet innenfor fag- og yrkesopplæring, og opplæring i grunnleggende ferdigheter og norsk, vil dette til sammen kunne bidra til en tydeligere prioritering og målretting av Arbeids- og velferdsetatens ansvar og opplæringsinnsats.
+
+Målgruppen for å gjennomføre en lengre utdanning utvides til å omfatte arbeidssøkere med svake formelle kvalifikasjoner eller svake grunnleggende ferdigheter, i tillegg til personer med nedsatt arbeidsevne hvor aldersgrensen for tilbud om utdanning settes ned fra 26 til 22 år. Målgruppen for tilbud om videregående opplæring avgrenses samtidig til personer uten rett til dette etter opplæringsloven.
+
+Innenfor etatens samlede opplæringstilbud vil det finnes tre ulike opplæringsvarianter som NAV-kontoret sammen med den enkelte arbeidssøker kan velge mellom:
+
+- korte, yrkesrettede kurs som blant annet kan inneholde opplæring i grunnleggende ferdigheter og norskopplæring med varighet på inntil ett år
+
+- opplæring i inntil to år for arbeidssøkere med behov for grunnleggende kvalifisering utover grunnskolenivå. Målet for opplæringen kan være praksisbrev eller fagbrev. Dette er et nytt tilbud som er satt i verk som en del av regjeringens ungdomspakke fra 1. januar 2016
+
+- utdanning med varighet på inntil tre år for personer med nedsatt arbeidsevne
+
+For enkelte arbeidssøkere kan det være aktuelt å kombinere flere tiltak for å komme i arbeid, for eksempel kursbasert norskopplæring og to-årig yrkesrettet opplæring.
+
+1.  **Godkjenning av utenlandske utdanninger og yrkeskvalifikasjoner**
+
+Å få godkjent sin medbrakte kompetanse kan være avgjørende for å få arbeid, og slik få en varig og stabil tilknytning til arbeidslivet. Det er et viktig mål at innvandrerne skal få bruke ressursene sine og bidra til fellesskapet. Norge trenger kompetanse for utvikling av arbeidslivet og økonomien, det er derfor nødvendig at medbrakt kompetanse fra utlandet blir brukt effektivt. Det innebærer både en helhetlig innsats for å øke rekrutteringen av innvandrere til arbeidslivet, og et kontinuerlig arbeid for å forenkle og forbedre godkjenningsordningene for utenlandske utdanninger og yrkeskvalifikasjoner.
+
+Godkjenning av utdanninger og godkjenning av yrkeskvalifikasjoner[^139] **omfatter mange ordninger og involverte aktører. De ulike godkjenningsordningene styres etter forskjellige prinsipper og lovverk basert på ulike hensyn og formål.
+
+De ulike godkjenningssystemene gjenspeiler historien til ulike yrker og utdanninger og er preget av at ordningene skal ivareta og balansere forskjellige hensyn. Godkjenningsordningene må for eksempel bidra til at personer får brukt kompetansen sin til nytte for seg selv og samfunnet. Samtidig skal krav til kvalitet og sikkerhet i yrkesutøvelse og nivå på utdanninger opprettholdes, og høyere utdanningsinstitusjoners (UH-institusjoner) faglige autonomi respekteres. Hensynet til internasjonale forpliktelser må også ivaretas.
+
+Regjeringen vil også komme tilbake til problemstillinger knyttet til godkjenning av utenlandsk utdanning og yrkeskvalifikasjoner i meldingen om integreringspolitikk som etter planen skal legges fram for Stortinget våren 2016.
+
+1.  **Mary: Ønsker å utøve et regulert yrke i Norge**
+
+Mary er 30 år og fra Filippinene. Hun har en fireårig bachelorutdanning som regnskapsfører og har arbeidet som regnskapsfører i Filippinene før hun kom til Norge. Regnskapsfører er et regulert yrke i Norge, og det er krav til at regnskapsførere skal ha graden bachelor i økonomi og administrasjon – profilering regnskapsfører. Finanstilsynet, som er godkjenningskontoret Mary må kontakte, krever at søkere med utdanning fra utlandet legger fram en bekreftelse fra norsk utdanningsinstitusjon om at kravene i anbefalt plan for bachelor i økonomi og administrasjon – profilering regnskapsfører, er oppfylt. Det er opp til Mary selv å finne en aktuell høyskole eller universitet for å få en faglig godkjenning for innpassing av utdanningen. Personer med utdanning fra utlandet må uansett avlegge eksamen i skatterett/avgiftsrett og rettslære som omfatter norske regler. Mary synes det er vanskelig å finne fram i det norske utdanningssystemet, og klarer ikke finne en høyskole der hun kan få tatt utdanningen hun trenger for å bli kvalifisert.
+
+Det at Mary ikke kommer fra et EØS-land bidrar til å gjøre prosessen mer komplisert. Dersom Mary hadde vært fra et land i EØS ville Finanstilsynet benyttet prinsippene i yrkeskvalifikasjonsdirektivet for EØS-borgere. Da ville Finanstilsynet vurdert utdanningen, og de ville i et liknende tilfelle som Marys kunne pålagt utlikningstiltak. Yrkeskvalifikasjonsdirektivet bidrar slik til at EØS-borgere enklere kan få oversikt over hva man trenger for å få komplettert og godkjent yrkeskvalifikasjonene sine.
+
+**\[Boks slutt\]**
+
+**\[:figur:figX-X.jpg\]**
+
+1.  Hvem bruker hvilke godkjenningsordninger?
+
+<!-- -->
+
+1.  **Godkjenning av utenlandsk utdanning**
+
+    1.  **Godkjenning av utenlandsk fagopplæring og utenlandsk fagskoleutdanning**
+
+Norge har, i motsetning til de andre nordiske landene, fram til i dag ikke hatt en sentral godkjenningsordning for utenlandsk fagopplæring. Personer som har en utenlandsk fagopplæring har ikke hatt et sted å henvende seg for å få godkjent sin utdanning. Dette har særlig vært problematisk for arbeidsinnvandrere fra EØS-området. Etter henstilling fra Kunnskapsdepartementet og Utdanningsdirektoratet utførte noen fylkesmenn en vurdering av om den utenlandske fagopplæringen søkeren ønsket vurdert, var sidestilt med norsk fagopplæring. Fylkesmennene gir bare en uttalelse, ikke en formell godkjenning med hjemmel i lov eller forskrift. I arbeidet med vurderingen av utenlandsk fagopplæring får fylkesmennene bistand fra fylkeskommunene.
+
+Norge har også manglet en ordning for godkjenning av utenlandsk fagskoleutdanning.
+
+1.  **Vurdering av kvalifikasjoner for opptak til høyere utdanning**
+
+Personer med en utenlandsk videregående opplæring som ønsker opptak til høyere utdanning i Norge, trenger en vurdering av sine kvalifikasjoner. Det er Samordna opptak som behandler søknader om opptak til høyere utdanning fra søkere med utenlandsk utdanning i den nasjonale opptaksmodellen. De vurderer også, utenom opptaket, videregående opplæring fra utlandet og gir råd om slik utdanning kan gi generell studiekompetanse.
+
+I forskrift om opptak til høyere utdanning er følgende fastsatt for søkere med utenlandsk utdanning[^140]:
+
+- Søkere med tre-årig videregående utdanning fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk når den videregående utdanningen gir generelt opptaksgrunnlag til universiteter og høyskoler i de respektive landene.
+
+- Søkere som har utenlandsk utdanning fra land utenfor Norden, må dokumentere bestått utdanning på nivå med norsk tre-årig videregående opplæring som gir generell studiekompetanse, jf. sjette ledd, og i tillegg dokumentere kunnskaper i norsk \[…\]
+
+- GSU-listen er bindende ved opptak til høyere utdanning.
+
+GSU-listen (listen for generell studiekompetanse fra utlandet) er en oversikt per land som beskriver hvilke krav som gjelder for at personer med utdanning fra utlandet skal ha generell studiekompetanse i Norge (det vil si hva slags utdanning de må ha fra det aktuelle landet, samt eventuelle tilleggskrav i norsk og engelsk). Listen vedtas og administreres av NOKUT. I tillegg til at den er bindende i vurderinger av søknader om opptak til høyere utdanning, brukes GSU-listen også veiledende i andre sammenhenger: i forbindelse med opptak til høyere grads studier, faglig godkjenning ved universiteter og høyskoler, og i NOKUTs vurderinger av søknader om generell godkjenning av utenlandsk utdanning.
+
+1.  **Generell godkjenning av utenlandsk høyere utdanning**
+
+Personer som har høyere utdanning fra utlandet kan ønske en godkjenning som gir informasjon til potensielle arbeidsgivere om hvilket nivå og omfang utdanningen deres har. Generell godkjenning er en ordning hvor en utenlandsk høyere utdanning vurderes opp mot kravene til akkrediterte norske utdanninger. Ordningen som forvaltes av NOKUT er frivillig og er ment som et hjelpemiddel for personer som vil inn på det norske arbeidsmarkedet. Utdanningen vurderes bare ut fra nivå og omfang, og godkjenningen sier ikke noe om det faglige innholdet. Retten til å gi generell godkjenning er forankret i universitets- og høyskoleloven[^141]. NOKUT har ansvar for forvaltning av ordningen.
+
+For å imøtekomme næringslivets behov har NOKUT i tillegg til den formelle generelle godkjenningen, innført en såkalt «turbovurdering», som er rettet utelukkende mot arbeidsgivere. I løpet av en uke vil NOKUT kunne fortelle arbeidsgivere om utdanningsdokumenter er ekte, om lærestedet er akkreditert i hjemlandet, og hva slags utdanningssystem landet har.
+
+Generelt vil all godkjenning være basert på den dokumentasjonen søkeren legger fram. I enkelte tilfeller vil søkeren ikke kunne dokumentere sin utdanning, eller dokumentasjonen kan være ufullstendig (for eksempel kan dette gjelde for flyktninger). I andre tilfeller vil dokumentasjonen ikke kunne ansees som tilstrekkelig pålitelig. Dette vil for eksempel gjelde utdanningsdokumenter fra land hvor infrastrukturen på utdanningsområdet er dårlig eller har brutt sammen. I slike tilfeller vil det være nødvendig med en rekonstruksjon av utdanningen, en prosess som er vesentlig mer ressurskrevende enn den ordinære godkjenningen. For søkere som ikke kan dokumentere sin kompetanse fra høyere utdanning, fikk NOKUT fra 2013 midler til å etablere en egen prosedyre, den såkalte UVD-ordningen (godkjenningsordning for personer uten verifiserbar dokumentasjon).
+
+NOKUT har systematisk bygget opp kompetanse om høyere utdanning. NOKUT mottok over 6 500 søknader om generell godkjenning i 2014, med en gjennomsnittlig saksbehandlingstid på 1,3 måneder. I tillegg gjør NOKUT årlig rundt 120 vurderinger knyttet til UVD-ordningen. UVD-ordningen ses på med interesse fra utlandet som en mulig modell for godkjenning av utdanningsdokumenter som ikke kan verifiseres.
+
+1.  **Faglig godkjenning**
+
+I tillegg til, eller i stedet for, en generell godkjenning kan personer med utenlandsk høyere utdanning ha behov for en vurdering av det faglige innholdet i sin utdanning. Dette kalles faglig godkjenning. Faglige godkjenninger av utenlandsk utdanning er delt inn i fritak og faglig jevngodhetsvurdering. De har det til felles at de fordrer en vurdering av det spesifikke faglige innholdet i søkerens aktuelle utdanning opp mot en spesifisert akkreditert norsk høyere utdanning. En faglig godkjenning skiller seg dermed fra en generell godkjenning ved at den sier noe om i hvilken grad en utenlandsk utdanning i faglig innhold og nivå tilsvarer hele (jevngodhetsvurdering) eller deler (fritak) av et bestemt studieprogram ved et bestemt universitet eller en bestemt høyskole. I begrepet «faglig jevngod» ligger det et krav om at utdanningen oppfyller den aktuelle høyere utdanningsinstitusjonens spesifikke faglige krav til innhold, bredde og dybde i den graden det søkes godkjenning av. Godkjenning etter denne bestemmelsen gir søkeren rett til å bruke tittelen som er fastsatt for den utdanningen den er jevnført med.[^142] Myndigheten til å foreta faglige godkjenninger er derfor bare tillagt universiteter og høyskoler som er institusjonsakkrediterte, eller som tilbyr akkrediterte studier etter universitets- og høyskoleloven.
+
+Det finnes også en spesialordning for flyktninger uten dokumentasjon på utdanning. I særlige tilfeller kan det aktuelle universitetet eller høyskolen gi fritak for del av en grad på grunnlag av kunnskaper dokumentert på annen måte enn ved eksamen[^143], tilsvarende UVD-godkjenningen beskrevet ovenfor.
+
+For å bedre informasjonsutvekslingen og sikre en så god saksbehandling som mulig av disse søknadene på tvers av institusjonene, har Kunnskapsdepartementet etablert en database, GAUS (søketjeneste for godkjenning av utenlandske studier). Det er en forutsetning at de enkelte institusjonene legger all saksbehandling i tilknytning til søknader om faglig godkjenning i databasen, slik at andre institusjoner kan få innsyn i saksbehandlingen av søknader av liknende karakter, samt at NOKUT legger inn sine vedtak om generell godkjenning. Det er et generelt inntrykk i sektoren at databasen fungerer etter målsettingen, og at den er blitt et nyttig verktøy i godkjenningsprosessen.
+
+Dersom en person som har utenlandsk høyere utdanning ønsker å fortsette sin utdanning i Norge, kan han eller hun søke om fritak for fag eller emner i en norsk utdanning på bakgrunn av utdanning tatt ved utenlandske høyere utdanningsinstitusjoner.[^144] Lovbestemmelsen slår fast at dokumentasjon av realkompetanse kan gi grunnlag for fritak. Dette kan også være aktuelt for utenlandske søkere.
+
+1.  **Godkjenning av yrkeskvalifikasjoner**
+
+Personer som ønsker å utøve et lovregulert yrke i Norge, vil trenge en godkjenning av sine yrkeskvalifikasjoner. I Norge er over 170 yrker lovregulert. Ordningen med godkjenning av yrkeskvalifikasjoner har sin opprinnelse i at det stilles krav til kompetanse for å utøve lovregulerte yrker. Antall regulerte yrker varierer fra land til land.
+
+1.  **Godkjenninger av yrkeskvalifikasjoner for søkere fra land i EØS**
+
+For å fremme mobilitet mellom land i EU/EØS, også for yrker som er regulert, har EU innført et yrkeskvalifikasjonsdirektiv (2005/36/EF)[^145]. I direktivet stilles det krav om at landene skal ha ordninger for å godkjenne den kompetansen andre lands borgere har til å utøve yrket i det landet der de bosetter seg. Både utdanninger på høyere nivå og opplæring på videregående opplæringsnivå og lavere, kan føre fram til yrker som er lovregulerte og kommer inn under bestemmelsene i direktivet. Ordningene er avgrenset til borgere fra medlemsland i EU/EØS.
+
+Godkjenningsordningene for lovregulerte yrker skal sikre at personell som autoriseres, har nødvendig kompetanse til å utøve yrket de skal virke i. Det er 15 godkjenningsinstanser som er omfattet av direktiv 2005/36/EF i Norge. 12 departementer har ansvar for lovregulerte yrker. Kunnskapsdepartementet er koordinator for direktivet om godkjenning av yrkeskvalifikasjoner. Antall regulerte yrker vil til enhver tid variere noe ved at enkelte yrker blir regulert og andre avregulert. Det er flest søknader om godkjenning innenfor helseyrkene og elektrofagyrkene.
+
+Yrkeskvalifikasjonsdirektivet ble i januar 2016 endret ved direktiv 2013/55/EU som forenkler direktivet noe og innfører en del nye regler. Dette gjelder for eksempel innføring av varslingsmekanismer for helseyrker, veterinærer og personer i yrker med opplæring av mindreårige hvis yrkesutøver har mistet retten til å utøve yrket. Videre skal det innføres profesjonskort som skal forenkle godkjenningsprosessen for mottakerlandet. Kortet skal være frivillig å bruke. Landene skal også i gitte tilfeller vurdere delvis adgang til et yrke når kriterier for dette er til stede. Direktivet stiller krav om at informasjonen skal være elektronisk tilgjengelig, og at det skal være mulig å søke om godkjenning elektronisk.
+
+1.  **Godkjenninger av yrkeskvalifikasjoner for søkere fra land utenfor EØS**
+
+Selv om det kan være utfordringer knyttet til godkjenningsordningen for regulerte yrker for EØS-borgere, er dette et etablert system som gir forutsigbare rammer for godkjenning. For borgere av land utenfor EØS er situasjonen en annen ved at det ikke er felles regler for behandling av slike søknader. Saksbehandlingen er mer komplisert, særlig for søknader som gjelder utdanning fra land i Asia og Afrika. Før selve saksbehandlingen starter, kan den enkelte søker bruke svært lang tid på å innhente ytterligere dokumentasjon på sin kompetanse fra utlandet, etter krav fra godkjenningsinstansen. Saksbehandlingen resulterer også ofte i et krav om at den enkelte må gjennomføre mer utdanning og/eller skaffe seg mer arbeidspraksis før godkjenning blir gitt. Det kan skyldes at utdanning ervervet utenfor EØS ikke passer så godt inn i det norske utdanningssystemet, og ikke er harmonisert eller regulert gjennom EU-direktiver i samme grad som utdanninger fra EØS-land.
+
+Enkelte godkjenningsinstanser krever at en søker fra land utenfor EØS får en generell godkjenning av utdanningen fra NOKUT før de vil behandle søknaden. Det kan gjøre at søker opplever at systemet er tungvint ved at det er flere godkjenninger som må foretas. Godkjenningskontoret innhenter ved behov uttalelser fra andre instanser, det kan være enten en generell godkjenning fra NOKUT eller en uttalelse fra en utdanningsinstitusjon. I praksis blir det derfor for denne gruppen ofte snakk om godkjenning av utdanning og ikke godkjenning av yrkeskvalifikasjoner. Noen godkjenningskontorer legger i slike tilfeller mer vekt på utdanningen enn på yrkeskvalifikasjonene, og krever at utdanningen blir «omgjort» til norsk utdanning for at den skal godkjennes.
+
+1.  **Kompletterende utdanning**
+
+Kompletterende utdanning er et samlebegrep for tilleggsutdanning som personer med kvalifikasjoner fra utlandet trenger for å få godkjent og anvendt sine yrkeskvalifikasjoner, og komme raskere inn på det norske arbeidsmarkedet i jobber som de er kvalifisert for. Å kunne bruke medbrakte kvalifikasjoner, supplert med nødvendig kompletterende utdanning, uten å måtte ta hele utdanningen på nytt, er verdifullt både for den enkelte og for det norske arbeids- og samfunnslivet. Behovet for kompletterende utdanning kan gjelde personer med utdanning på ulike nivåer, både med og uten behov for godkjenning for å praktisere yrket. Spørsmålet har særlig blitt aktualisert i forbindelse med lovregulerte yrker for søkere fra land utenfor EØS. Kompletterende utdanning vil også være nødvendig for en del flyktninger som har høyere utdanning.
+
+Godkjenningskontorene kan gi informasjon til søkere om hvilke fag eller emner som må kompletteres for å få godkjent utdanningen. På grunn av mangelfull statistikk er det uklart i hvilket omfang dette skjer. En utredning har dokumentert at det er mangel på slike tilbud ved universiteter og høyskoler i Norge selv om det er vanskelig å tallfeste.[^146]
+
+Det finnes ikke en egen, nasjonal ordning for kompletterende utdanning i Norge. Departementet med ansvar for det enkelte regulerte yrket har også ansvar for at det finnes systemer for kompletterende utdanning.
+
+Høgskolen i Oslo og Akershus har igangsatt et kurstilbud innenfor sykepleiens faglige og vitenskapelige grunnlag som er et av fagområdene hvor Helsedirektoratet[^147], i sine avslag ofte påpeker at det er mangler ved den utenlandske utdanningen til søkerne. Kurset finansieres ved egenandel fra studentene og ble utviklet med noe støtte fra Helsedirektoratet.
+
+Sverige har tilbudt kompletterende utdanningsprogrammer til personer med utdanning fra land utenfor EØS siden 1995, blant annet for sykepleiere og lærere. Erfaringene fra Sverige tyder på at god organisering av et slikt utdanningstilbud blant annet kjennetegnes av at tilbudet er hjemlet i lov/forskrift, at tilbudet finansieres gjennom øremerkede midler til lærestedene og at flere læresteder samarbeider om å tilby et slikt opplegg. Flere andre land har også kompletterende tilbud som en del av systemet for godkjenning av utenlandsk utdanning og yrkeskvalifikasjoner. Dette gjelder blant annet Tyskland og Canada. Tilbudene omtales ofte som «bridging programs».
+
+1.  **Informasjonstjeneste**
+
+Det kan være vanskelig for personer som har behov for godkjenning av utdanning eller yrkeskvalifikasjoner å finne fram til riktig aktør eller ordning. Derfor opprettet Kunnskapsdepartementet en informasjonstjeneste ved NOKUT som skal veilede søkere om godkjenning av utenlandsk utdanning eller yrkeskvalifikasjoner til rett instans.
+
+NOKUT gir informasjon til søkere om blant annet opptak til høyere utdanning, innpassing ved universiteter og høyskoler og informasjon om ordninger for godkjenning av yrkeskvalifikasjoner. For søkere som ønsker en faglig godkjenning, gir NOKUT også informasjon om hvilke universiteter og høyskoler som har studieprogrammer som tilsvarer profilen i søkerens utenlandske utdanning.
+
+I tillegg er det flere steder som gir informasjon om studiemuligheter i Norge for utenlandske søkere, som for eksempel nettsiden «Study in Norway».
+
+**\[Boks slutt\]**
+
+1.  **Tiltak for et enklere system for godkjenningsordninger**
+
+    1.  **Etablere godkjenningsordninger for utenlandsk fagutdanning**
+
+Regjeringen vil opprette en nasjonal godkjenningsordning for utenlandsk fagopplæring, jf. Prop. 1 S (2015–16). Forvaltningen av denne skal samordnes med generell godkjenning av utenlandsk høyere utdanning. Kunnskapsdepartementet har også foreslått å opprette en ordning for godkjenning av utenlandsk fagskoleutdanning gjennom endringer i fagskoleloven. Disse endringene skal etter planen tre i kraft 1. august 2016.
+
+En samordning av disse godkjenningsordningene vil gi en mer effektiv forvaltning, og vil bedre kvaliteten på avgjørelsene. For søkeren vil det være mest hensiktsmessig å ha en instans å forholde seg til. Nivåene i utdanningssystemene i utlandet samsvarer ikke alltid med nivåene i norsk utdanning. I tillegg vil det være behov for «verifiseringskompetanse» og kunnskap om blant annet andre lands utdanningssystemer, utdanningsinstitusjoner, lærlingordninger og fagopplæringsorganisasjoner.
+
+*Regjeringen vil*
+
+- etablere en nasjonal godkjenningsordning for utenlandsk fagopplæring
+
+- etablere en nasjonal godkjenningsordning for utenlandsk fagskoleutdanning
+
+  1.  **Styrke UVD-ordningen**
+
+UVD-ordningen (godkjenningsordning for personer uten verifiserbar dokumentasjon) ble opprettet i 2013. Denne ordningen gjelder høyere utenlandsk utdanning. Årlig gjør NOKUT rundt 120 vurderinger knyttet til UVD-ordningen.
+
+*Regjeringen vil*
+
+- styrke godkjenningsordningen for personer uten verifiserbar dokumentasjon (UVD-ordningen)
+
+  1.  **Tilgang og likebehandling**
+
+Personer som trenger godkjenning av sin utdanning eller sine yrkeskvalifikasjoner kan ha problemer med å finne fram til informasjon om hvor de skal henvende seg for å få sin utdanning eller yrkeskvalifikasjoner godkjent, jf. boks 6.1. For personer som trenger godkjenning er det viktig med forutsigbarhet, likebehandling og enkel tilgang til informasjon.
+
+I dag er det tilfeller av mangelfull oppfølging fra godkjenningskontorene overfor søkerne som har yrkeskvalifikasjoner fra land utenfor EØS, og som har fått avslag på sin søknad. I tillegg er det ikke god nok informasjon til søkerne om hva de mangler, og hva de kan gjøre for å få godkjenning. Noen godkjenningskontorer har for eksempel kun gitt avslag uten nærmere informasjon.
+
+Norge kan selv velge å legge tilsvarende prinsipper som i EUs yrkeskvalifikasjonsdirektiv til grunn for søknader også for søkere fra land utenfor EØS. Dette vil bidra til større likebehandling i søknadsbehandlingen. Videre vil det bidra til at godkjenningskontorene legger større vekt på at søker har utøvd et yrke i hjemlandet, og har yrkespraksis og etter- og videreutdanning. Det vil også kunne bidra til å få inn bedre og mer sammenlignbar statistikk fra de ulike godkjenningsinstansene, jf. kapittel 6.4.5.
+
+Regjeringen vil igangsette et utredningsarbeid sammen med de mest berørte departementene for å vurdere om prinsipper i EUs yrkeskvalifikasjonsdirektiv kan legges til grunn for søknader om godkjenninger av utenlandske yrkeskvalifikasjoner for søkere fra land utenfor EØS. Utredningen skal også inneholde vurderinger av tiltak for større grad av forutsigbarhet, større grad av likebehandling og enkel tilgang til informasjon og veiledning for ikke-EØS-borgere som søker om godkjenning til lovregulerte yrker. Dette inkluderer også en standardisert innsamling av en samlet statistikk på tvers av godkjenningsordningene. En felles nettportal med informasjon om hvor man skal henvende seg for alle typer godkjenning skal også vurderes i dette arbeidet. Arbeidet skal ta utgangspunkt i gjeldende ansvars- og oppgavefordeling mellom departementer og godkjenningsinstanser. Arbeidet vil ledes av Kunnskapsdepartementet.
+
+*Regjeringen vil*
+
+- vurdere tiltak som kan gi økt forutsigbarhet, større grad av likebehandling og enkel tilgang til informasjon og veiledning for ikke-EØS-borgere som søker om godkjenning til lovregulerte yrker. Arbeidet vil inkludere vurdering av en informasjonsportal
+
+  1.  **Styrke tilbudet om kompletterende utdanninger**
+
+Utfordringene når det gjelder behovet for flere kompletterende utdanningstilbud angår svært mange sektormyndigheter. Med økende innvandring og stor etterspørsel etter arbeidskraft innenfor noen sektorer med mange lovregulerte yrker, særlig helsesektoren og elektrofagyrkene, har denne utfordringen fått økt oppmerksomhet. Dette gjelder spesielt innvandrere, men til dels også norskfødte. God tilgang til kompletterende utdanning vil derfor bidra til å gi innvandrere den kompetansen de har behov for, og dermed bidra til at de raskere kommer i arbeid som svarer til deres kompetanse.
+
+Etablering av kompletterende utdanningstilbud fordrer at det er kjent hva søkerne trenger av slik utdanning. Når det gjelder lovregulerte yrker, er det påkrevd at godkjenningsinstansene bedrer sine registreringssystemer for å få fram informasjon om og få dokumentert søkernes behov for kompletterende utdanning, også for søkere fra land utenfor EØS. For at utdanningssektoren skal ha mulighet til å innrette og tilpasse tilbud i samsvar med behovene, er det nødvendig å etablere en systematisk dialog mellom relevante utdanningsinstitusjoner og godkjenningsinstanser. Det er også behov for at de aktuelle departementene og godkjenningsmyndighetene får på plass systemer for finansiering av slike tilbud.
+
+Mange norske profesjonsutdanninger har et stort innslag av praksis sammenliknet med tilsvarende utdanning fra andre land. Det indikerer at det er behov for kvalifisert og veiledet praksis som en del av tilbudet om kompletterende utdanning.
+
+Dagens situasjon, med et høyt antall flyktninger, en betydelig arbeidsinnvandring gjennom flere år og etterspørsel etter arbeidskraft med visse typer kompetanse i arbeidsmarkedet, aktualiserer behovet for bedre ordninger for kompletterende utdanning. Det er derfor behov for en ny satsing på slike tiltak som bygger på erfaringene fra universiteter og høyskoler.
+
+Stortinget har bevilget midler til flere tilbud om kompletterende utdanninger i høyere utdanning, jf. Prop. 1 S (2015–16).
+
+*Regjeringen vil*
+
+- styrke tilbudet om kompletterende utdanninger
+
+  1.  **Mer kunnskap og statistikk om godkjenningsprosesser og utdanning fra utlandet**
+
+Integreringsmyndighetene følger med på hvordan det går med integreringen på en rekke felt gjennom ulike former for statistikk fra fagmyndighet eller SSB, for eksempel over bosetting av flyktninger, deltakelse i kvalifisering, sysselsetting og arbeidsledighet. Dette gjøres blant annet ut fra et mål om effektiv ressursbruk for å oppnå en mest mulig smidig overgang til arbeid for innvandrere. Slik statistikk publiseres regelmessig og minst en gang i året.
+
+En utredning om lovregulerte yrker, søknadsbehandling og statistikk påpeker at statistikkføringen er lite systematisk.[^148] Statistikken er heller ikke samlet eller sammenliknbar på tvers av ulike instanser selv om gangen i saksbehandlingen er relativt lik. I følge utredningen er godkjenningsinstansene positive til at det utvikles et felles system for statistikk. Elektronisk søknadsbehandling anbefales som mest kostnadseffektivt for å få på plass samlet statistikkrapportering.
+
+Fordi godkjenningsordningene har stor betydning for innvandrernes deltakelse på arbeidsmarkedet, er det ønskelig at det også på dette feltet blir laget samlet statistikk. Det gjelder for eksempel oversikt over antallet innvandrere som er i godkjenningsprosessen til enhver tid, og en oversikt over strømmene inn og ut av prosessen og strømmene mellom de ulike fasene i prosessen. Videre er det behov for oversikt over tendenser og utvikling i saksbehandlingstiden og den totale tiden den enkelte søker bruker i godkjenningsprosessen både for lovregulerte yrker og for utdanninger.
+
+Det finnes i dag ingen oversikt over andelen søkere som etter krav fra godkjenningsinstansene klarer å skaffe påkrevd dokumentasjon, over den gjennomsnittlige tiden som brukes til dette og til videre verifisering av dokumentene. Det finnes heller ikke statistikk som viser hvilken kompetanse søkere som får avslag mangler, statistikk som gir grunnlag for å tallfeste andelen som fullfører påkrevd kompletterende utdanning eller som viser tiden den enkelte bruker for å skaffe seg slik tilleggskompetanse. Det er derfor vanskelig å vurdere behovet for effektivisering for å få til en raskere godkjenningsprosess og overgang til arbeid.
+
+Det er også mangler i SSBs utdanningsstatistikk når det gjelder innvandreres medbrakte utdanning, trass i tiltak de senere årene for å forbedre dette. Det ble gjennomført en stor spørreskjema-undersøkelse i 2011–2012 blant alle innvandrere uten registrert utdanning. Det har dessuten blitt lagt bedre til rette for innhenting av utdanningsdata gjennom administrative registre, i første rekke Datasystem for utlendings- og flyktningsaker (DUF).
+
+Manglene skyldes særlig at det er vanskelig å få inn utdanningsopplysninger for innvandrere fra EØS-land. Disse trenger ingen oppholdstillatelse i Norge, kun en registrering. I tillegg er de opplysningene som er innhentet, både gjennom survey og DUF, basert på egen oppgitt utdanning, noe som ofte svekker kvaliteten på statistikken.
+
+Kunnskapsdepartementet vil undersøke mulighetene for få utarbeidet en samlet statistikk på tvers av godkjenningsordningene for lovregulerte yrker. Statistikken skal kunne gi en oversikt over antall søkere som til enhver tid er i de ulike fasene av godkjenningsprosessen, gjøre det mulig å følge utviklingen i saksbehandlingstidene hos de ulike instansene og finne den totale tiden den enkelte søker bruker på å få kvalifikasjonene sine godkjent*.* Arbeidet involverer flere departementer og vil bli ledet av Kunnskapsdepartementet.
+
+Det skal også iverksettes kompetansekartlegging av flyktninger med sikte på at personer med medbrakt kompetanse skal gis et tilpasset opplegg for raskere å komme i arbeid der de får brukt sin kompetanse. Stortinget har bevilget midler til dette i statsbudsjettet for 2016, tiltaket vil omtales nærmere i den kommende integreringsmeldingen.
+
+*Regjeringen vil*
+
+- igangsette et arbeid med å vurdere utarbeiding av samlet statistikk på tvers av godkjenningsordninger for lovregulerte yrker
+
+  1.  **Kompetanseheving i førstelinjetjenestene**
+
+Programrådgivere i introduksjonsprogrammet, veiledere på karrieresentrene eller på NAV-kontorer og lærere og rådgivere i den kommunale voksenopplæringen møter personene som har behov for godkjenning av utdanning eller yrkeskvalifikasjoner. Det er derfor viktig at disse førstelinjetjenestene har god kunnskap om og oversikt over de ulike godkjenningsordningene, og hva som kreves for å få godkjent ulike typer utdanning og yrkeskvalifikasjoner. Selv om informasjonen om godkjenningssøknader kan være god, kan det oppstå utfordringer i kommunikasjonen som fører til ufullstendige eller ikke-tilfredsstillende søknader. Dette kan forlenge saksbehandlingstiden. God nettbasert informasjon og kompetente saksbehandlere som gir søkerne bistand, kan bidra til bedre søknader, til å forkorte den reelle behandlingstiden og til å effektivisere godkjenningsmyndighetenes arbeid.
+
+Et kompetansehevende tiltak for programrådgivere i kommunenes introduksjonsprogram gjennomføres av IMDi i samarbeid med NOKUT. Tiltaket omfatter både kursvirksomhet og et nytt e-læringsprogram som vil kunne tas i bruk av flere aktuelle instanser. Et annet relevant tiltak er et forsøksprosjekt med sikte på styrket karriereveiledning for innvandrere gjennom et samarbeid mellom regionale karrieresentre og den kommunale voksenopplæringen. Erfaringene så langt viser at tverrfaglig samarbeid gir et bedre karriereveiledningstilbud til innvandrere.
+
+*Regjeringen vil*
+
+- videreutvikle og styrke tiltak som er satt i gang med sikte på å øke kunnskapen i førstelinjetjenestene om godkjenningsordningene gjennom etatenes ordinære informasjonsarbeid og karriereveiledning
+
+  1.  **Bevissthet og ansvar i arbeidslivet**
+
+Arbeidsgivere har et betydelig ansvar med hensyn til å anerkjenne verdien av kompetanse ervervet utenfor Norge, ansette arbeidssøkere med en annen utdanningsbakgrunn og annen tilegnet yrkeskvalifikasjon enn norsk og et annet fødselssted enn Norge. Erfaringer fra andre land har vist at kampanjer rettet mot arbeidsgivere kan gjøre arbeidslivet mer bevisst problemstillingene med utenlandsk kompetanse og arbeidskraft. Regjeringen vil derfor ta initiativ til en kampanje for å øke kunnskapen og forståelsen av utenlandsk kompetanse. I tillegg vil kampanjen informere om de ulike godkjenningsordningene. Partene i arbeidslivet inviteres til å bidra til kampanjen sammen med ansvarlige statlige etater. Et bredt samarbeid skal sikre legitimitet og at kampanjen når mange arbeidsgivere i både offentlig og privat virksomhet.
+
+*Regjeringen vil*
+
+- igangsette en kampanje for å få fram verdien av å anerkjenne og ansette personer med kompetanse ervervet utenfor Norge
+
+1.  **Støtte til livsopphold for voksne i utdanning**
+
+For å kunne delta i opplæring og utdanning har voksne behov for å dekke utgifter til livsopphold. Livsopphold ved ordinær utdanning skal som hovedregel finansieres gjennom støtte fra Lånekassen eller gjennom egne midler. Dette gjelder også for voksne som mangler grunnskole eller videregående opplæring. Det er imidlertid en del som tyder på at dagens støtteordninger for voksne som mangler grunnskoleopplæring eller videregående opplæring, ikke er tilstrekkelig tilpasset denne gruppen.
+
+1.  **Muligheter innenfor Lånekassens ordninger**
+
+    1.  **Støtte til grunnskoleopplæring og videregående opplæring**
