@@ -1,903 +1,278 @@
-# Prop. 47 L (2017–2018), del 6 av 9 (side 74–86)
+# Prop. 47 L (2017–2018), del 6 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2018/600ec5be-prop-47-l-20172018.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-47-l-20172018/id2593609/
 - Original-PDF: https://www.regjeringen.no/contentassets/34b3084dfd5c4c6295d0198689a81fc1/no/pdfs/prp201720180047000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 74]
+Uten individdata som gjør det mulig å følge gjennomføring på normert tid og frafall, vil departementet ikke kunne følge måloppnåelsen i fagskolesektoren på en tilfredsstillende måte. For kvalitetsarbeidet på overordnet nivå er det videre viktig å kunne undersøke om det er systematiske forskjeller i gjennomføringen og frafallet etter fag, geografi, osv. Individdata for gjennomføring av fagskoleutdanningene er ikke bare nødvendige for Kunnskapsdepartementets ansvar for styringen av fagskolesektoren og for at fagskolene gir utdanning av tilstrekkelig høy kvalitet, dette er også etterspurt av andre. Fullføring og frafall er også viktige indikatorer for å kunne anslå tilgangen på kvalifisert arbeidskraft fremover til ulike bransjer og sektorer.
 
-74
+Helse- og omsorgsdepartementet har uttrykt ønske om å fastsette måltall for kandidatproduksjon for de helse- og sosialfaglige fagskoleutdanningene, og sektoren (fylkeskommunene og fagskolene) har i forbindelse med budsjettbehandlingen og tildelingene for 2018, blitt varslet om dette. Det vil ikke være mulig å fastsette kandidatmåltall for spesifikke fagskoleutdanninger uten at det rapporteres individdata for gjennomføring. Det at de helse- og sosialfaglige fagskoleutdanningene gjennomgående gis på deltid (høsten 2016 ble f.eks. 181 av disse utdanningene gitt på deltid, mens bare 11 ble gitt på heltid), gjør det spesielt viktig med gode individdata slik at beregningen av antallet kandidater kan bli så realistisk som mulig. Andre aktuelle brukere av fullførings- og frafallsdata for fagskoleutdanningen er fylkeskommunene og de nye regionene, som gjennom regionmeldingen har fått i oppdrag å utarbeide regionale kompetansepolitiske strategier, jf. Meld. St. 22 (2015–2016) *Nye folkevalgte regioner*.
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+Fagskolene er viktige for å sikre kompetent arbeidskraft. I Meld. St. 9 (2016–2017) *Fagfolk for fremtiden – Fagskoleutdanning* (fagskolemeldingen) er utviklingen av et bedre kunnskapsgrunnlag om fagskoleutdanningen, herunder bedre statistikk, et viktig tiltak som fikk klar støtte i Stortinget, jf. Innst. 254 S (2016–2017). Det å ha individdata om studenter – og nå også om ansatte – i DBH-F er nødvendig for å ha et godt grunnlag for politikkutviklingen i sektoren. Når det gjelder ansatte, viser departementet til tiltaket i fagskolemeldingen om å sikre et godt system for informasjon om fagskoleansattes kvalifikasjoner, da det er et viktig ledd i det videre arbeidet med kvalitetsheving av fagskoleutdanningen. Uten individdata, som fødselsnummer og informasjon om de enkelte er ansatt på heltid eller deltid, er det ikke mulig å gjøre seg opp noen mening om det samlede kvalifikasjonsnivået i sektoren er tilfredsstillende for utdanninger på dette nivået.
 
-postadresse og opplysninger om studieprogresjon.
+Det er departementets oppfatning at det er tilstrekkelig med rapportering av fødselsnummer, navn og statsborgerskap for sikkert å identifisere individer. Det vises til høringsforslagets vurderinger av de personmessige konsekvensene av dette. Opplysninger om bestått utdanning, herunder gjennomførte emner og kurs, fullførte utdanninger, oppnådde grader og lignende fra fagskoler, er ikke taushetsbelagte opplysninger. Opplysninger om bestått utdanning på individnivå er som nevnt over nødvendig for at departementet skal kunne følge med på gjennomstrømmingen da departementet har styringsparametere på dette.
 
-23.3 Departementets høringsforslag
-Det ble i høringsnotatet vist til at Database for statistikk – fagskolestatestikk (DBH-F) er en database som inneholder informasjon om fagskoler og
-fagskoleutdanning. Oppgaven med å drifte og forvalte databasen er lagt til NSD som er et statsaksjeselskap eid av departementet. Dataene i DBH-F
-har mindre omfang for fagskolene enn DBH har
-for universiteter og høyskoler.
-Departementet viste videre i høringsnotatet til
-at individdata om studenter og ansatte ved fagskolene er viktig for departementets strategiske
-arbeid knyttet til utviklingen og oppfølgingen av
-fagskoleutdanningen. Rapportering av disse dataene vil danne, sammen med rapporteringen av
-regnskap og resultatdata, grunnlag for utarbeidelse av årlige tilstandsrapporter for fagskoleutdanningen. Formålet med tilstandsrapportene er
-å gi en oversikt og en vurdering av tilstanden i fagskolesektoren. Tilstandsrapportene er også et
-redskap for departementet i styringen av sektorene, blant annet i budsjettarbeidet. Innsamlingen
-av individdata om studenter og ansatte i fagskolesektoren, legger videre til rette for forskning. For
-å oppfylle formålene med DBH-F er det nødvendig at databasen inneholder kvalitetssikrede og
-fullstendige data om utdanningssektoren på individnivå.
-Departementet viste i høringsnotatet til at det
-hadde foretatt en vurdering av om samtykke
-kunne være et egnet grunnlag for behandling av
-individdata i databasen. Departementet la til
-grunn at det teknisk sett er mulig for utdanningsinstitusjonene å innhente et elektronisk samtykke av sine studenter og ansatte til innhentingen av disse dataene. Det er likevel her snakk om
-en database som skal inneholde informasjon om
-en svært stor gruppe mennesker. Dette gjør det
-uforholdsmessig tid- og arbeidskrevende å innhente samtykke fra den enkelte. En innrapportering basert på samtykke innebærer i tillegg en
-reservasjonsrett for den enkelte som vil gi et svekket datagrunnlag i DBH-F. Dette kan gjøre det
-vanskelig å oppfylle formålet med innsamlingen
-av personopplysninger. Rapportering av data om
-studenter og ansatte basert på samtykke vil kunne
-føre til at informasjonen i DBH-F blir mangelfull,
-og at dette vil vanskeliggjøre både forskning på
-sektoren og departements virksomhetsstyring.
-Samtykke er et lite egnet behandlingsgrunnlag.
+Karakterer fra videregående opplæring og grunnskolen er å anse som taushetsbelagte opplysninger etter fvl. § 13 første ledd nr. 1. Slike karakterer var opprinnelig foreslått innrapportert, men departementet har nå kommet frem til at denne informasjonen ikke er strengt nødvendig for departementets styring av sektoren og videreføres ikke i forslaget. Departementet har kommet til at å avgrense formålet til å kun å gjelde forskning på utdanningssektoren er for snevert og viser i den forbindelse til personvernforordningen art. 5 nr. 1 bokstav b hvor det presiseres at bruk av data til «vitenskapelig eller historisk forskning eller for statistiske formål \[…\] ikke anses som uforenelig med de opprinnelige formålene». Det vises til lovforslagets første ledd.
 
-2017–2018
+Når det gjelder personopplysninger om ansatte, var det foreslått å innrapportere opplysninger om arbeid og lønn. Generelle opplysninger om arbeidssted, arbeidstid, yrke og stilling er ikke taushetsbelagte opplysninger. Opplysninger om lønn og godtgjørelse når det gjelder arbeid utført for det offentlige er heller ikke taushetsbelagt. Når det gjelder opplysninger om lønn og godtgjørelse til ansatte ved private institusjoner, utover det som fremgår av offentlige skattelister, kan dette være omfattet av taushetsplikt etter fvl. § 13 første ledd. Lovforslaget er endret fra det som ble sendt på høring, slik at det kun er opplysninger knyttet til stillingsforhold og finansiering av stillingen som departementet kan pålegge fagskolene å rapportere inn.
 
-En lovfestet rapporteringsplikt vil sikre at individdata rapporteres til DBH-F, slik at databasen
-kan være en fullstendig database som kan brukes
-i tråd med formålet. Den foreslåtte lovhjemmelen
-angir formålet med innrapporteringen av personopplysningene, hvilke opplysninger som skal innrapporteres, samt hvem som har behandlingsansvaret. Når det gjelder bruken av individdata til
-forskning, ble det foreslått i høringsnotatet å
-avgrense dette til å gjelde forskning på utdanningssektoren.
-Høringsnotatet beskrev også hvilke opplysninger som skulle behandles i DBH-F. Departementet foreslo at navn og fødselsnummer skal rapporteres inn for sikkert å kunne identifisere individer.
-Postnummer og kommunenummer vil blant annet
-bli brukt i mobilitetsundersøkelser. Opplysninger
-om navn, kjønn, postnummer, e-post, fødselsnummer, statsborgerskap, yrke og arbeidssted er ikke
-å anse som sensitive etter personopplysningsloven § 2 nr. 8. I utgangspunktet er de heller ikke
-taushetsbelagte etter forvaltningsloven (fvl.) § 13
-første ledd nr. 1. I henhold til personopplysningsloven § 12 skal fødselsnummer kun brukes der
-det er nødvendig for å oppnå sikker identifisering.
-Opplysninger om bestått utdanning, herunder
-avlagte emner, gjennomførte kurs, fullførte utdanninger og oppnådde grader og lignende, er ikke
-taushetsbelagte opplysninger. For karakterer kan
-saken stille seg annerledes. Her skilles det også
-mellom karakterer fra grunnskolen/videregående
-opplæring og karakterer fra fagskoleutdanning.
-Karakterer fra videregående opplæring og grunnskolen er å anse som taushetsbelagte opplysninger etter fvl. § 13 første ledd nr. 1. Det ble i
-høringsnotatet foreslått at det i DBH-F vil det bli
-behandlet opplysninger om karakterpoeng fra
-videregående opplæring, og dette må anses som
-taushetsbelagte opplysninger.
-Departementet viste også til at når det gjelder
-personopplysninger om ansatte, vil behandlingen
-omfatte opplysninger om arbeid og lønn. Generelle opplysninger om arbeidssted, arbeidstid,
-yrke og stilling er ikke taushetsbelagte opplysninger. Opplysninger om lønn og godtgjørelse når
-det gjelder arbeid utført for det offentlige er ikke
-taushetsbelagte. Det samme gjelder opplysninger
-om lønn og inntekt som er tilgjengelig i offentlige
-skattelister, selv om de gjelder ansatte ved private
-skoler.
-Gjeldende personopplysningslov har en definisjon av sensitive personopplysninger i popplyl. § 2
-nr. 8. Den nye personvernforordningen har en tilsvarende definisjon av «special category of personal data», jf. personvernforordningen artikkel 9.
+Det vises til lovforslaget § 42.
 
-[Side 75]
+1.  **Ikrafttredelse og overgangsbestemmelser**
 
-2017–2018
+Departementet foreslår at loven skal tre i kraft fra det tidspunkt Kongen bestemmer, men tar sikte på at den vil gjelde fra 1. juli 2018 med unntak av § 7 om godkjenning av utenlandsk fagskoleutdanning. Bestemmelsen om godkjenning av utenlandsk fagskoleutdanning kan først tre i kraft 1. januar 2019. Denne bestemmelsen involverer NOKUT. NOKUTs styre vedtok i oktober 2017 å sette i gang en forsøksordning for vurdering av utenlandsk fagskolelovutdanning. Ved å utsette ikrafttredelsen til denne bestemmelsen, vil det gi NOKUT tilstrekkelig tid til å skaffe seg den nødvendige kompetansen om utenlandsk fagskoleutdanning.
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+Når det gjelder spørsmålet om rett til å få skrevet ut nye vitnemål med betegnelsen studiepoeng, foreslår departementet at denne retten gjøres tidsbegrenset. Departementet foreslår at de studenter som ønsker å skaffe seg et nytt vitnemål, må gjøre det innen 31. desember 2020.
 
-De personopplysningene som skal behandles i
-DBH-F faller ikke inn under disse definisjonene,
-og det vil følgelig ikke registreres sensitive personopplysninger i DBH-F.
-Departementet viste også til at det vil kunne
-bli aktuelt å sammenstille og utlevere opplysninger til forsknings- og utredningsformål. For visse
-forsknings- og utredningsformål innenfor utdanningssektoren kan det være nødvendig å sammenstille opplysninger fra DBH-F. NSD kan sammenstille ulike opplysninger i DBH-F, for eksempel en
-sammenstilling av data innenfor fagskoleutdanningen og høyere utdanning (fra DBH). NSD kobler
-imidlertid ikke selv opplysninger fra DBH-F med
-eksterne datasett. Dersom det blir aktuelt å koble
-personopplysninger fra DBH-F med for eksempel
-registerdata fra SSB, vil det være naturlig at koblingen foretas av SSB.
-Departementet utredet videre i høringsnotatet
-behandlingsansvar for behandlingen av personopplysningene i DBH-F. Departementet er
-behandlingsansvarlig for individdataene som samles inn i DBH-F, mens NSD er databehandler. I
-henhold til databehandleravtalen skal NSD, på
-vegne av Kunnskapsdepartementet, samle inn
-personopplysninger fra fagskolene. Avtalen sier
-også at NSD på visse vilkår kan utlevere personopplysninger til mottakere som har lovlig behandlingsgrunnlag. Hver av disse organene blir
-behandlingsansvarlig for personopplysningene de
-mottar.
-Utleveringen av personopplysninger fra databasen må være i tråd med gjeldende personvernlovgivning. For å sikre dette vil Kunnskapsdepartementet, gjennom databehandleravtalen med
-NSD, sørge for gode rutiner ved utlevering. Blant
-annet skal det avklares at mottaker har lovlig
-grunnlag for å behandle personopplysninger, og
-at omfanget og typen personopplysninger som
-utleveres begrenses til det som er nødvendig for
-mottakerens formål. Videre legges det opp til at
-utleveringen skjer på bakgrunn av en avtale med
-mottaker som fastsetter rammene for mottakerens behandling av personopplysningene.
+1.  **Endring i lov om studentsamskipnader – tilknytning til studentsamskipnader**
 
-23.4 Høringsinstansenes syn
-De fleste av høringsinstansene som har kommentert forslaget støtter det. Unntaket er Datatilsynet.
-Norske Fag- og Friskolers Landsforbund synes
-at det er ryddig at hjemmel for DBH er utredet og
-at det foreligger et konkret forslag, men viser
-også til at «reservasjonsretten er en grunnleg-
+    1.  **Gjeldende rett**
 
-75
-
-gende menneskerett, og derfor alltid skal være
-mulig å benytte seg av.»
-Næringslivets hovedorganisasjon skriver at «det
-er viktig med godt statistikkgrunnlag i fagskolesektoren. Det innebærer at også individuelle data
-bør kunne ha relevans for å sikre et best mulig
-kunnskapsgrunnlag om kandidatene i sektoren.»
-Statistisk sentralbyrå «mener det er bra og nødvendig at det lovfestes en tydelig hjemmel i fagskoleloven for både registrering og annen
-behandling av personopplysninger om studenter i
-fagskolesektoren.»
-Norsk senter for forskningsdata støtter forslaget. «Dette vil sikre et godt juridisk grunnlag for
-rutiner ved oppbevaring og utlevering av disse
-dataene.»
-Nasjonalt fagråd og Forum for fagskoler viser
-blant annet til at det må tas hensyn til at fagskolesektoren består av noen store, en del mellomstore
-og mange små fagskoler med begrensede ressurser. Det vises også til at rapportering av opplysninger om fast lønn, faste tillegg, uregelmessige tillegg, bonus og overtidsgodtgjørelse for tilsatte,
-ikke er «relevante opplysning som kan være nyttige bidrag til utviklingen av kvaliteten i fagskolesektoren.»
-NOKUT «poengtere viktigheten av at DBH
-dekker all høyere utdanning og fagskoleutdanning i Norge, uavhengig av om institusjonene er
-statlige, private eller om de ligger under et annet
-departementet enn Kunnskapsdepartementet.»
-Treider fagskoler og NKI AS mener at man bør
-begrense rapporteringen til forhold som er
-direkte relatert til kvalitetsheving, og som vil
-kunne komme studentene i sektoren til gode. Det
-stilles spørsmål ved om opplysninger knyttet til
-lønn og finansiering av stilling er relevante opplysninger for departementet.
-Datatilsynet støtter ikke forslaget. Datatilsynet
-skriver blant annet at de tidligere har stilt spørsmål ved nødvendigheten av at rapporteringen
-skjer på individnivå. Datatilsynet kan ikke se at
-dette er adressert i verken høringen i 2016 eller
-det foreliggende høringsforslaget.
-Datatilsynet viser til at:
-«Det forrige høringsnotatet var kort og
-begrunnet ikke nødvendigheten av personopplysninger inn i DBH. Som bakgrunn for det
-foreliggende forslaget er det utarbeidet en
-«Utredning av personvernkonsekvenser», men
-det er fortsatt ingen begrunnelse for hvorfor
-Kunnskapsdepartementet trenger rapportering på individnivå. I likhet med forrige
-høringsrunde legger departementet bare til
-
-[Side 76]
-
-76
-
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
-
-grunn at innrapportering og behandling av
-individdata om studenter og ansatte ved universiteter og høyskoler er nødvendig for Kunnskapsdepartementets forvaltning og offentlige
-myndighetsutøvelse.
-[…]
-Hvis departementets påstand om at individdata er nødvendig for forvaltningen av sektoren er korrekt betyr det at det er legitimt for
-ethvert departement å opprette registre med
-personopplysninger om ansatte og andre registrerte i sektoren. Vi etterlyser en kommentar
-til dette.
-Benevnelsen av registeret tilsier for øvrig at
-innholdet er statistikk, og det bør dermed være
-tilstrekkelig med aggregerte data. Dersom
-Kunnskapsdepartementet mener at utarbeidelse av statistikk krever tilgang til personopplysningene, så bør departementet begrunne
-hvorfor utarbeidelse av statistikk er en oppgave som departementet tar seg av selv all den
-tid vi har et dedikert organ – SSB – som utfører
-denne type tjenester på forvaltningens vegne.
-Kunnskapsdepartementet har lagt til grunn
-at de personopplysningene som skal registreres i DBH ikke faller inn under betegnelsen
-«sensitive» i henhold til personopplysningsloven, og legger på den bakgrunn til grunn at
-personverninteressen i å bestemme over bruk
-og tilgang til egne personopplysninger ikke
-gjør seg særlig gjeldende. Dette mener Datatilsynet er feil.
-For det første er det ikke hvorvidt personopplysningene er sensitive som er avgjørende
-for om hver enkelt ønsker og ha kontroll på
-sine personopplysninger.
-For det andre er det flere av de opplysningene som er planlagt registrert er å anse som
-konfidensielle og som de registrerte vil ha en
-forventning om at kun blir brukt av lærestedet
-for dets formål med å administrere enten relasjonen mellom student og lærested eller ansatt
-og arbeidsgiver. Dette mener vi er tilfelle med
-for eksempel statsborgerskap, e-postadresse,
-karakterer fra videregående og fra høyere
-utdanning og opplysninger om lønn.
-[…]
-Oppsummert mener Datatilsynet at det i
-avveiningen av interesser er lagt uforholdsmessig mye vekt på viktigheten av rapporteringen i forhold til personverninteressen i å ha
-kontroll på egne data. Nødvendigheten av å
-opprette et sentralt register over studenter og
-ansatte i høyskolesektoren er ikke tilstrekkelig
-begrunnet.»
-
-2017–2018
-
-23.5 Departementets vurdering
-Departementet sendte i 2016 på høring et forslag
-om nye bestemmelser om rapportering av individdata til Database for statistikk om høyere utdanning og DBH – Fagskoleutdanning (DBH-F) da
-departementet anså at hjemmelsgrunnlaget for
-denne behandlingen var uklar. Det viste seg at
-flere av høringsinstansene delte denne vurderingen. Selv om de fleste høringsinstansene var positive til å få et tydelig hjemmelsgrunnlag for rapporteringen i sektoren, kom departementet til at
-det var ønskelig med en grundigere vurdering av
-de potensielle personvernmessige konsekvensene
-av forslagene. Departementet ba derfor Norsk
-senter for forskningsdata (NSD) og Ceres om
-bistand til å utrede dette.
-På bakgrunn av personvernkonsekvensutredningen og kravet til rettslig grunnlag i nasjonal
-rett, jf. personvernforordningen artikkel (art.) 6
-nr. 3 bokstav b, foreslo departementet i det
-høringsnotatet som ble sendt på høring høsten
-2017 og som ligger til grunn for nærværende lovforslag, en ny bestemmelse i fagskoleloven som
-hjemler behandlingen av personopplysninger i
-DBH-F. I tillegg ble utredningen gjort tilgjengelig
-på Kunnskapsdepartementets nettside for høringen.
-Innhenting og behandling av individdata har
-personvernkonsekvenser. Personvern er et
-uttrykk for den enkeltes og samfunnets behov for
-beskyttelse av den personlige integritet. Enhver
-skal i utgangspunktet kunne bestemme over hva
-andre skal få vite om deres personlig forhold. Personvernregelverket skal bl.a. sikre at det ikke
-behandles flere opplysninger enn det som er nødvendig for et konkret formål, og at det bare
-behandles opplysninger for formål som er legitime. Videre skal personopplysningene være korrekte, fullstendige, relevante og tilstrekkelige for
-det enkelte formål. Den enkeltes interesse i selv å
-ha kontroll på hva det offentlige bruker av opplysninger om ham eller henne er sentral. Det er også
-viktig at den enkelte er orientert om bruken av
-informasjon som kan få konsekvenser for ham
-eller henne. Den enkeltes interesse av at opplysningene er så korrekte og fullstendige som mulig,
-styrker betydningen av å være kjent med hvilke
-opplysninger som brukes.
-Samtidig er det gode argumenter for å kunne
-bruke personopplysninger, for eksempel nødvendigheten av å utøve sentrale samfunnsfunksjoner
-som styring og kontrollvirksomhet. Ved gjenbruk
-av personopplysninger kan brukere av offentlige
-tjenester slippe å gi de samme opplysningene
-
-[Side 77]
-
-2017–2018
-
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
-
-flere ganger, fordi disse allerede er tilgjengelige.
-Dette gir også store samfunnsmessige effektivitetsgevinster, for eksempel innenfor offentlig forvaltning.
-Et tiltak som innebærer inngrep i personvernet, må veies opp mot relevante samfunnshensyn
-og andre interesser. Sentrale elementer i denne
-vurderingen vil være hvor sensitive opplysninger
-det er tale om å behandle, hvor stor integritetskrenkingen av den registrerte er, samt hvor
-tungtveiende samfunnsinteresser eller andre
-interesser man søker å verne.
-Selv om opplysninger i DBH-F samles inn om
-det enkelte individ, benyttes alltid tall på aggregert nivå i styringen av sektoren og ved publisering i DBH-F eller i departementets publikasjoner.
-Personopplysningene i DBH-F er ikke taushetsbelagte eller sensitive. Formålet med DBH-F er å
-legge til rette for statistikk, utredning og
-forskning, for departementets forvaltning og styring av utdanning, og især for å kunne følge opp
-og bidra til videreutvikling av kvaliteten i fagskoleutdanningen. Personopplysningene skal brukes i
-den utstrekning det er nødvendig for å oppnå
-dette formålet, og behandlingen er ellers underlagt øvrige begrensninger etter til enhver tid gjeldende personopplysningsregelverk. På bakgrunn
-av dette mener departementet at hensynet til det
-offentliges interesser veier tyngre enn den enkeltes interesse i at disse opplysningene ikke
-behandles gjennom DBH-F.
-Departementet har merket seg Datatilsynets
-høringsuttalelse til forslaget. Datatilsynet skriver
-blant annet at de stiller spørsmål ved nødvendigheten av at rapporteringen skjer på individnivå, og
-de etterspør også en begrunnelse for hvorfor personopplysninger er nødvendig. De presiserer at
-utøvelse av offentlig myndighet ikke gjør det nødvendig med personopplysninger om studenter og
-ansatte. Datatilsynet viser til at et sentralt prinsipp
-etter personvernregelverket er kravet til uttrykkelig formål ved bruk av personopplysninger, og de
-mener dette ikke er tilstrekkelig begrunnet. I
-avveiningen av interesser mener Datatilsynet at
-det er lagt uforholdsmessig mye vekt på behovet
-for rapportering fremfor den enkeltes interesse i å
-ha kontroll på egne data. Datatilsynet konkluderer
-med at nødvendigheten av å opprette et sentralt
-register over studenter og ansatte i fagskolesektoren ikke er tilstrekkelig begrunnet.
-Det er departementets oppfatning at den foreslåtte lovbestemmelsen vil skape åpenhet om at
-det blir behandlet personopplysninger i DBH-F
-om studenter og ansatte, og det vil bli tydelig hva
-som er formålet med DBH-F og behandlingen av
-
-77
-
-personopplysninger i databasen. Behandlingen vil
-fremstå som forutsigbar for de registrerte og
-tydeliggjøre at departementet har et rettslig
-grunnlag for behandlingen.
-Selv om de som personopplysningene kan
-knyttes til (de registrerte), vil ha liten kontroll
-over hvem som skal få tilgang til deres personopplysninger, er det viktig å ta i betraktning at
-behandlingen ikke på noen måte skal brukes til
-kontroll, overvåking eller lignende, som kan være
-til den registrertes ugunst. Det vil heller ikke bli
-innsamlet eller behandlet sensitive personopplysninger eller særlige kategorier av personopplysninger omtalt i art. 9, om de registrerte. Det som
-er viktig for departementet er å kunne benytte
-aggregerte individdata for å se i hvor stor grad
-studenter som begynner på en fagskoleutdanning,
-også fullfører, da det er en viktig indikator for
-utdanningskvalitet både på utdannings-, skole- og
-nasjonalt nivå. Det er også viktig for departementet å kunne få kunnskap om i hvilken grad studenter med fagskoleutdanning begynner i høyere
-utdanning og mer generelt å få kunnskap om
-hvordan det går med studenter fra fagskolene i
-arbeidsmarkedet mv. Dette er avhengig av tilgang
-på individdata.
-Som nevnt i høringsnotatet skal lovforslaget
-legge til rette for at fagskolene innrapporterer
-data om sine studenter og ansatte til DBH-F. En
-lovfestet rapporteringsplikt vil sikre at individdata
-rapporteres til DBH-F, slik at databasen kan være
-en fullstendig database som kan brukes i tråd
-med formålet.
-Individdata om studenter og ansatte ved fagskolene er viktig for departementets strategiske
-arbeid knyttet til utviklingen og oppfølgingen av
-sektoren. Rapportering av disse dataene danner
-grunnlag for utarbeidelse av årlige tilstandsrapporter for fagskoleutdanning. Formålet med tilstandsrapportene er å gi en oversikt og en vurdering av tilstanden i fagskolesektoren på nasjonalt
-nivå. Tilstandsrapportene er også et redskap for
-departementet i styringen av sektoren, blant
-annet i budsjettarbeidet. Innsamlingen av individdata om studenter og ansatte i fagskolesektoren
-legger videre til rette for forskning på utdanningssektoren.
-Som nevnt over stiller Datatilsynet spørsmål
-ved nødvendigheten av at rapporteringen skjer på
-individnivå og etterspør en begrunnelse for hvorfor personopplysninger er nødvendig. Datatilsynet
-viser til at et sentralt prinsipp etter personvernregelverket er kravet til uttrykkelig formål med
-bruk av personopplysninger, og det mener de at
-departementet ikke har begrunnet.
-
-[Side 78]
-
-78
-
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
-
-Departementet er enig med Datatilsynet i at
-departementet kunne tydeliggjort behovene for
-individrapportering bedre. Departementet viser
-til at en rekke institusjoner er avhengige av informasjonen som finnes i DBH-F, dette inkluderer
-blant annet Statistisk sentralbyrå (SSB), NOKUT
-og Statens lånekasse for utdanning. SSB henter i
-dag data fra DBH-F med hjemmel i statistikkloven
-for å publisere offisiell statistikk. Det opprinnelige
-forslaget inkluderte også opplysninger som SSB
-får fra andre kilder, men de delene av forslaget
-blir ikke videreført, da dette kan innhentes fra
-andre kilder. Karakterer fra videregående opplæring lagres i dag i Nasjonal vitnemålsdatabase
-(NVB), og SSB kan da innhente slik informasjon
-fra denne databasen.
-Når det gjelder statsborgerskap, inngår informasjon om dette i den nasjonale utdanningsrapporteringen som Norge er pålagt å rapportere til,
-Eurostat/OECD/UNESCO, blant annet i forbindelse med studentmobilitet. SSB henter de nødvendige dataene om dette i DBH-F. Det er også en
-viktig indikator for å vurdere måloppnåelse for
-integreringspolitikken i utdanningssystemet,
-både hva gjelder studenter og ansatte.
-Departementet viser til at i fagskolesektorens
-målstruktur inngår blant annet mål om høy kvalitet i fagskoleutdanning, jf. Prop. 1 S (2017 – 2018).
-God kvalitet i fagskoleutdanningen er også et helt
-sentralt mål i Fagskolemeldingen, og departementet arbeider nå med å følge den opp. Under dette
-målet peker departementet på flere relevante indikatorer for å følge måloppnåelsen, blant annet fullføring og frafall.
-Fullføring på normert tid og frafall er en viktig
-og internasjonalt anerkjent indikator for utdanningskvalitet, og bruk av individdata er en vanlig
-og anerkjent metode internasjonalt for å beregne
-gjennomføring av studier. OECD publiserer hvert
-år utdanningsstatistikk for medlemslandene i
-publikasjonen Education at a Glance (EAG). 2016utgaven av EAG viste at 15 OECD-land, inkludert
-Norge, benytter denne mest presise metoden for å
-beregne gjennomføring i høyere utdanning. Når
-det gjelder fagskoleutdanningen, har muligheten
-til å rapportere gode data hittil vært dårligere,
-fordi SSB i sin statistikk inntil nylig har gruppert
-den sammen med videregående opplæring. Dette
-endres nå, jf. lovendring 2016 om krav til eget
-organisasjonsnummer for fagskolene, men det
-foreligger derfor så langt lite statistikk om denne
-delen av utdanningssystemet. Fullføring og frafall
-inngår også i et sett på ti kvalitetsindikatorer for
-yrkesopplæring på alle nivåer utarbeidet av EQAVET, EUs samarbeid om kvalitetssikring av yrkes-
-
-2017–2018
-
-opplæringen. Begge indikatorene fordrer at
-departementet har data på individnivå om fødselsnummer og midlertidig fødselsnummer.
-For å beregne andelen som fullfører på normert tid, må departementet vite når den enkelte
-fagskolestudent påbegynte utdanningen og når
-vedkommende fullførte. For å beregne andelen
-som fullfører på normert tid, må departementet
-vite når den enkelte fagskolestudent påbegynte
-utdanning av hhv. 30, 60, 90 eller 120 fagskolepoengs omfang, om utdanningen er på heltid eller
-deltid, og om – og i tilfelle når – vedkommende
-fullførte. (60 fagskolepoeng (studiepoeng) tilsvarer ett år på fulltid.)
-Uten individdata som gjør det mulig å følge
-gjennomføring på normert tid og frafall, vil departementet ikke kunne følge måloppnåelsen i fagskolesektoren på en tilfredsstillende måte. For
-kvalitetsarbeidet på overordnet nivå er det videre
-viktig å kunne undersøke om det er systematiske
-forskjeller i gjennomføringen og frafallet etter fag,
-geografi, osv. Individdata for gjennomføring av
-fagskoleutdanningene er ikke bare nødvendige
-for Kunnskapsdepartementets ansvar for styringen av fagskolesektoren og for at fagskolene gir
-utdanning av tilstrekkelig høy kvalitet, dette er
-også etterspurt av andre. Fullføring og frafall er
-også viktige indikatorer for å kunne anslå tilgangen på kvalifisert arbeidskraft fremover til ulike
-bransjer og sektorer.
-Helse- og omsorgsdepartementet har uttrykt
-ønske om å fastsette måltall for kandidatproduksjon for de helse- og sosialfaglige fagskoleutdanningene, og sektoren (fylkeskommunene og fagskolene) har i forbindelse med budsjettbehandlingen og tildelingene for 2018, blitt varslet om dette.
-Det vil ikke være mulig å fastsette kandidatmåltall
-for spesifikke fagskoleutdanninger uten at det rapporteres individdata for gjennomføring. Det at de
-helse- og sosialfaglige fagskoleutdanningene gjennomgående gis på deltid (høsten 2016 ble f.eks.
-181 av disse utdanningene gitt på deltid, mens
-bare 11 ble gitt på heltid), gjør det spesielt viktig
-med gode individdata slik at beregningen av antallet kandidater kan bli så realistisk som mulig.
-Andre aktuelle brukere av fullførings- og frafallsdata for fagskoleutdanningen er fylkeskommunene og de nye regionene, som gjennom regionmeldingen har fått i oppdrag å utarbeide regionale
-kompetansepolitiske strategier, jf. Meld. St. 22
-(2015 – 2016) Nye folkevalgte regioner.
-Fagskolene er viktige for å sikre kompetent
-arbeidskraft. I Meld. St. 9 (2016 – 2017) Fagfolk for
-fremtiden – Fagskoleutdanning (fagskolemeldingen) er utviklingen av et bedre kunnskapsgrunn-
-
-[Side 79]
-
-2017–2018
-
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
-
-lag om fagskoleutdanningen, herunder bedre statistikk, et viktig tiltak som fikk klar støtte i Stortinget, jf. Innst. 254 S (2016 – 2017). Det å ha individdata om studenter – og nå også om ansatte – i
-DBH-F er nødvendig for å ha et godt grunnlag for
-politikkutviklingen i sektoren. Når det gjelder
-ansatte, viser departementet til tiltaket i fagskolemeldingen om å sikre et godt system for informasjon om fagskoleansattes kvalifikasjoner, da det er
-et viktig ledd i det videre arbeidet med kvalitetsheving av fagskoleutdanningen. Uten individdata,
-som fødselsnummer og informasjon om de
-enkelte er ansatt på heltid eller deltid, er det ikke
-mulig å gjøre seg opp noen mening om det samlede kvalifikasjonsnivået i sektoren er tilfredsstillende for utdanninger på dette nivået.
-Det er departementets oppfatning at det er tilstrekkelig med rapportering av fødselsnummer,
-navn og statsborgerskap for sikkert å identifisere
-individer. Det vises til høringsforslagets vurderinger av de personmessige konsekvensene av dette.
-Opplysninger om bestått utdanning, herunder
-gjennomførte emner og kurs, fullførte utdanninger, oppnådde grader og lignende fra fagskoler, er
-ikke taushetsbelagte opplysninger. Opplysninger
-om bestått utdanning på individnivå er som nevnt
-over nødvendig for at departementet skal kunne
-følge med på gjennomstrømmingen da departementet har styringsparametere på dette.
-Karakterer fra videregående opplæring og
-grunnskolen er å anse som taushetsbelagte opp-
-
-79
-
-lysninger etter fvl. § 13 første ledd nr. 1. Slike
-karakterer var opprinnelig foreslått innrapportert,
-men departementet har nå kommet frem til at
-denne informasjonen ikke er strengt nødvendig
-for departementets styring av sektoren og videreføres ikke i forslaget. Departementet har kommet
-til at å avgrense formålet til å kun å gjelde
-forskning på utdanningssektoren er for snevert og
-viser i den forbindelse til personvernforordningen
-art. 5 nr. 1 bokstav b hvor det presiseres at bruk
-av data til «vitenskapelig eller historisk forskning
-eller for statistiske formål […] ikke anses som
-uforenelig med de opprinnelige formålene». Det
-vises til lovforslagets første ledd.
-Når det gjelder personopplysninger om
-ansatte, var det foreslått å innrapportere opplysninger om arbeid og lønn. Generelle opplysninger
-om arbeidssted, arbeidstid, yrke og stilling er ikke
-taushetsbelagte opplysninger. Opplysninger om
-lønn og godtgjørelse når det gjelder arbeid utført
-for det offentlige er heller ikke taushetsbelagt.
-Når det gjelder opplysninger om lønn og godtgjørelse til ansatte ved private institusjoner, utover
-det som fremgår av offentlige skattelister, kan
-dette være omfattet av taushetsplikt etter fvl. § 13
-første ledd. Lovforslaget er endret fra det som ble
-sendt på høring, slik at det kun er opplysninger
-knyttet til stillingsforhold og finansiering av stillingen som departementet kan pålegge fagskolene å
-rapportere inn.
-Det vises til lovforslaget § 42.
-
-[Side 80]
-
-80
-
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
-
-2017–2018
-
-24 Ikrafttredelse og overgangsbestemmelser
-Departementet foreslår at loven skal tre i kraft fra
-det tidspunkt Kongen bestemmer, men tar sikte
-på at den vil gjelde fra 1. juli 2018 med unntak av
-§ 7 om godkjenning av utenlandsk fagskoleutdanning. Bestemmelsen om godkjenning av utenlandsk fagskoleutdanning kan først tre i kraft
-1. januar 2019. Denne bestemmelsen involverer
-NOKUT. NOKUTs styre vedtok i oktober 2017 å
-sette i gang en forsøksordning for vurdering av
-utenlandsk fagskolelovutdanning. Ved å utsette
-
-ikrafttredelsen til denne bestemmelsen, vil det gi
-NOKUT tilstrekkelig tid til å skaffe seg den nødvendige kompetansen om utenlandsk fagskoleutdanning.
-Når det gjelder spørsmålet om rett til å få skrevet ut nye vitnemål med betegnelsen studiepoeng,
-foreslår departementet at denne retten gjøres tidsbegrenset. Departementet foreslår at de studenter
-som ønsker å skaffe seg et nytt vitnemål, må gjøre
-det innen 31. desember 2020.
-
-[Side 81]
-
-2017–2018
-
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
-
-81
-
-25 Endring i lov om studentsamskipnader – tilknytning til
-studentsamskipnader
-25.1 Gjeldende rett
 Fagskoler har i dag ingen rett eller plikt til tilknytning til studentsamskipnad. Fagskolen og studentsamskipnaden kan imidlertid inngå avtale om tilknytning.
 
-25.2 Departementets høringsforslag
-Departementet legger til grunn at fagskolestudenter skal ha et velferdstilbud på lik linje med det tilbudet som studenter ved universiteter og høyskoler har. Studentsamskipnadene er opprettet av
-departementet og har som hovedoppgave å tilby
-velferdstjenester til studenter. Departementet
-mener at studentsamskipnadstilknytning vil styrke
-fagskolenes velferdstilbud. Rett til tilknytning til
-studentsamskipnad kan styrke fagskolenes attraktivitet. Utgangspunktet bør være at fagskolestudentene og styret ved fagskolen ønsker slik tilknytning. Som for universiteter og høyskoler vil
-det være departementet som avgjør hvilken studentsamskipnad den enkelte institusjon skal være
-tilknyttet.
-Våren 2018 er kun noen få fagskoler medlem
-av en studentsamskipnad.
-Departementet viser til Stortingsflertallets
-vedtak i forbindelse med Innst. 254 S (2016 –
-2017), og foreslår at alle fagskoler skal ha rett til
-tilknytning til en studentsamskipnad. Det vil være
-styret ved fagskolen som avgjør om fagskolen skal
-knytte seg til en studentsamskipnad. Studentene
-er representert i styret, og vil dermed kunne delta
-i avgjørelsen. Styret plikter også å samarbeide
-med studentorganet ved fagskolen når det gjelder
-saker av betydning for studiemiljø og studentvelferd.
-Noen fagskoleutdanninger er lagt opp slik at
-studentene ikke har så sterk tilknytning til et studiested, og de har sannsynligvis ikke behov for
-alle tjenester som en studentsamskipnad tilbyr. En
-fagskoles tilknytning til studentsamskipnad vil
-kreve administrativ merinnsats både fra fagskolen
+1.  **Departementets høringsforslag**
 
-og fra studentsamskipnaden. Forpliktende avtaler
-må inngås og følges opp, fagskolene skal kreve
-inn semesteravgift på vegne av studentsamskipnaden, fagskolene må kunne tilby egnet fri stasjon,
-eller for eksempel økonomisk tilskudd, hvor dette
-er naturlig sett opp mot institusjonens størrelse
-og hva som er gjengs for tilbudet studentsamskipnader tilbyr utdanningsinstitusjoner.
+Departementet legger til grunn at fagskolestudenter skal ha et velferdstilbud på lik linje med det tilbudet som studenter ved universiteter og høyskoler har. Studentsamskipnadene er opprettet av departementet og har som hovedoppgave å tilby velferdstjenester til studenter. Departementet mener at studentsamskipnadstilknytning vil styrke fagskolenes velferdstilbud. Rett til tilknytning til studentsamskipnad kan styrke fagskolenes attraktivitet. Utgangspunktet bør være at fagskolestudentene og styret ved fagskolen ønsker slik tilknytning. Som for universiteter og høyskoler vil det være departementet som avgjør hvilken studentsamskipnad den enkelte institusjon skal være tilknyttet.
+
+Våren 2018 er kun noen få fagskoler medlem av en studentsamskipnad.
+
+Departementet viser til Stortingsflertallets vedtak i forbindelse med Innst. 254 S (2016–2017), og foreslår at alle fagskoler skal ha rett til tilknytning til en studentsamskipnad. Det vil være styret ved fagskolen som avgjør om fagskolen skal knytte seg til en studentsamskipnad. Studentene er representert i styret, og vil dermed kunne delta i avgjørelsen. Styret plikter også å samarbeide med studentorganet ved fagskolen når det gjelder saker av betydning for studiemiljø og studentvelferd.
+
+Noen fagskoleutdanninger er lagt opp slik at studentene ikke har så sterk tilknytning til et studiested, og de har sannsynligvis ikke behov for alle tjenester som en studentsamskipnad tilbyr. En fagskoles tilknytning til studentsamskipnad vil kreve administrativ merinnsats både fra fagskolen og fra studentsamskipnaden. Forpliktende avtaler må inngås og følges opp, fagskolene skal kreve inn semesteravgift på vegne av studentsamskipnaden, fagskolene må kunne tilby egnet fri stasjon, eller for eksempel økonomisk tilskudd, hvor dette er naturlig sett opp mot institusjonens størrelse og hva som er gjengs for tilbudet studentsamskipnader tilbyr utdanningsinstitusjoner.
+
 Departementet mener at økt samlet studentvelferd bør veie tyngre enn administrative merkostnader for fagskolen og studentsamskipnaden, og foreslår derfor at fagskolene får en ubetinget rett til tilknytning til studentsamskipnad.
-Departementet foreslår ingen plikt til tilknytning til studentsamskipnad for fagskoler. Departementet mener det i første omgang er mest hensiktsmessig å overlate til styret ved fagskolen selv
-å vurdere om deres studenter vil ha behov for, og
-nytte av, tilknytning til en studentsamskipnad. I
-Innst. 254 S er departementet bedt om å vurdere
-om fagskoler etter bestemte kriterier bør ha plikt
-til medlemskap i studentsamskipnad. Dette vil
-departementet komme tilbake til i forbindelse
-med evaluering av de kvalitetshevende tiltakene.
-Departementet har i tillegg foreslått noen mindre endringer i studentsamskipnadsloven for å
-sikre fagskolene rett til medlemskap i en studentsamskipnad.
 
-25.3 Høringsinstansenes syn
-De fleste høringsinstansene er positive til høringsforslaget om å lovfeste en rett for fagskoler å bli
-med i en studentsamskipnad. Et mindretall av
-høringsinstansene ønsker at fagskolene skal ha
-både rett og plikt til å bli medlem i en studentsamskipnad.
-Forum for fagskoler støtter departementets forslag om at fagskolene skal ha en rett til tilknytning
-til en studentsamskipnad, og at det er fagskolens
-styre som beslutter om de ønsker å benytte seg av
-denne retten eller ikke. Forum for fagskoler
-mener at det må være en vurdering av de samlede
+Departementet foreslår ingen plikt til tilknytning til studentsamskipnad for fagskoler. Departementet mener det i første omgang er mest hensiktsmessig å overlate til styret ved fagskolen selv å vurdere om deres studenter vil ha behov for, og nytte av, tilknytning til en studentsamskipnad. I Innst. 254 S er departementet bedt om å vurdere om fagskoler etter bestemte kriterier bør ha plikt til medlemskap i studentsamskipnad. Dette vil departementet komme tilbake til i forbindelse med evaluering av de kvalitetshevende tiltakene.
 
-[Side 82]
+Departementet har i tillegg foreslått noen mindre endringer i studentsamskipnadsloven for å sikre fagskolene rett til medlemskap i en studentsamskipnad.
 
-82
+1.  **Høringsinstansenes syn**
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+De fleste høringsinstansene er positive til høringsforslaget om å lovfeste en rett for fagskoler å bli med i en studentsamskipnad. Et mindretall av høringsinstansene ønsker at fagskolene skal ha både rett og plikt til å bli medlem i en studentsamskipnad.
 
-behovene til studentene som må ligge til grunn
-for styrets beslutning om fagskolen skal delta i en
-studentsamskipnad eller ikke.
-Studentsamskipnaden på Vestlandet er positive
-til at studenter ved fagskoler får anledning til å bli
-medlem av en studentsamskipnad, da disse studentene også har behov for velferdstjenester på
-linje med ordinære studenter. Studentsamskipnaden på Vestlandet mener imidlertid at det er
-enkelte forhold som bør reguleres på en bedre
-måte i lov eller forskrift. Studentsamskipnaden på
-Vestlandet mener at rett til medlemskap i en studentsamskipnad ikke bør gjelde for fagskoler som
-hovedsakelig retter seg inn mot voksne studenter
-som tar etterutdanning ved siden av fullt arbeid.
-De mener videre at det bør gis anledning til at fagskoler som har undervisning på steder hvor studentsamskipnaden ikke har et tjenestetilbud, kan
-unntas fra innbetaling av semesteravgift og således medlemskap i studentsamskipnaden. Studentsamskipnaden på Vestlandet mener at det bør
-avklares om avgift til fagskolestudentenes interesseorganisasjon (ONF) skal betales av studentsamskipnaden fra innbetalt semesteravgift.
-Samskipnadsrådet mener at en rett til studentsamskipnadstilknytning gir institusjonene autonomi og studentene friheten til å velge den løsningen som passer dem, mens en plikt derimot vil
-virke innskrenkende. Samskipnadsrådet peker
-videre på at dersom tilknytningsplikt skulle bli
-anvendt, ville det på landsbasis variere med studentsamskipnader som fortsatt kun hadde ett
-lærested tilknyttet seg, til 59 læresteder på det
-meste.
-For studentsamskipnader som risikerer å
-knytte seg til et titalls nye fagskoler, kan dette føre
-med seg en betydelig økning av administrative
-kostnader. Samskipnadsrådet viser til at erfaringen med studentsamskipnadstilknytning for fagskoler varierer, og det er tydelig at en uniform
-modell ikke er løsningen – hverken for fagskolestudentene eller for studentsamskipnadene. Tilknytning må derfor skje i dialog mellom fagskolestudent/samskipnad og studentdemokratiene, og
-ta høyde for den bestemte situasjonen og fagskolestudentenes behov.
-Flere høringsinstanser peker på at det er styrene ved fagskolene som selv må vurdere om
-deres studenter har behov for og nytte av et medlemskap i en studentsamskipnad. Noen peker
-også på at flere av fagskolene er små, slik at et
-medlemskap i en studentsamskipnad kan bli uforholdsmessig dyrt for en fagskole eller at størrelsen på fagskolen tilsier at det ikke er forsvarlig å
-opprette et velferdstilbud på skolen.
+*Forum for fagskoler* støtter departementets forslag om at fagskolene skal ha en rett til tilknytning til en studentsamskipnad, og at det er fagskolens styre som beslutter om de ønsker å benytte seg av denne retten eller ikke. Forum for fagskoler mener at det må være en vurdering av de samlede behovene til studentene som må ligge til grunn for styrets beslutning om fagskolen skal delta i en studentsamskipnad eller ikke.
 
-2017–2018
+*Studentsamskipnaden* på Vestlandet er positive til at studenter ved fagskoler får anledning til å bli medlem av en studentsamskipnad, da disse studentene også har behov for velferdstjenester på linje med ordinære studenter. Studentsamskipnaden på Vestlandet mener imidlertid at det er enkelte forhold som bør reguleres på en bedre måte i lov eller forskrift. Studentsamskipnaden på Vestlandet mener at rett til medlemskap i en studentsamskipnad ikke bør gjelde for fagskoler som hovedsakelig retter seg inn mot voksne studenter som tar etterutdanning ved siden av fullt arbeid. De mener videre at det bør gis anledning til at fagskoler som har undervisning på steder hvor studentsamskipnaden ikke har et tjenestetilbud, kan unntas fra innbetaling av semesteravgift og således medlemskap i studentsamskipnaden. Studentsamskipnaden på Vestlandet mener at det bør avklares om avgift til fagskolestudentenes interesseorganisasjon (ONF) skal betales av studentsamskipnaden fra innbetalt semesteravgift.
 
-Et mindretall av høringsinstansene mener at
-alle fagskoler skal ha rett og plikt til å bli medlem
-av en studentsamskipnad. Bakgrunnen for dette
-er at de ønsker at fagskolestudentene skal ha de
-samme rettighetene som studenter ved universiteter og høyskoler når det gjelder studentvelferd
-gjennom studentsamskipnader.
-Flere fylkeskommuner mener at alle fagskoler
-over en viss størrelse må være medlem av en studentsamskipnad på lik linje med universiteter og
-høyskoler.
-Organisasjon for Norske Fagskolestudenter
-(ONF) støtter forslag om ubetinget rett til tilknytning til studentsamskipnad for alle fagskoler uavhengig av omfang på studier og fagskolens størrelse. ONF mener det er viktig at styret plikter å
-samarbeide med studentorgan når det gjelder tilknytning til studentsamskipnad og saker som
-angår velferd og studiemiljø.
-ONF mener det bør vurderes om fagskoler
-som søker fagområdeakkreditering skal ha plikt
-til tilknytning til studentsamskipnad. ONF viser til
-at for eksempelvis fagområdet helse og oppvekst i
-dag ikke har heltidsstudenter og alderssnittet er
-høyere med mange godt voksne studenter. Det
-gjelder likevel ikke hele studentgruppen på fagområdet for det og de som har behov, må ikke
-være uten tilbud fra studentsamskipnaden.
-KS mener at det er riktig at fagskolestudentene skal ha de samme rettigheter som studenter,
-lovforslaget ivaretar dette på en god måte. De
-mener videre at fagskolene bør ha plikt til å være
-medlem i studentsamskipnader på linje med
-andre høyere utdanningsinstitusjoner.
+*Samskipnadsrådet* mener at en rett til studentsamskipnadstilknytning gir institusjonene autonomi og studentene friheten til å velge den løsningen som passer dem, mens en plikt derimot vil virke innskrenkende. Samskipnadsrådet peker videre på at dersom tilknytningsplikt skulle bli anvendt, ville det på landsbasis variere med studentsamskipnader som fortsatt kun hadde ett lærested tilknyttet seg, til 59 læresteder på det meste.
 
-25.4 Departementets vurdering
-Departementets vurdering er at det bør være rett,
-men ingen plikt, for en fagskole å bli medlem av
-en studentsamskipnad. Fagskolesektoren er en
-svært sammensatt sektor hvor en studentsamskipnadstilknytning ikke alltid vil være den beste
-løsningen.
-Det er viktig at den løsningen styret ved fagskoler velger når det gjelder spørsmål om medlemskap i studentsamskipnad er forankret hos
-studentene ved fagskolen gjennom deres studentdemokrati. Departementet mener at det, av hensyn til studentsamskipnadenes mulighet til å tilby
-kvalitativt gode tjenester til studentene fra tilknyttede fagskoler, herunder studentboliger, er hensiktsmessig å stille visse krav til fagskoler som
-ønsker å knytte seg til en bestemt studentsamskipnad.
+For studentsamskipnader som risikerer å knytte seg til et titalls nye fagskoler, kan dette føre med seg en betydelig økning av administrative kostnader. Samskipnadsrådet viser til at erfaringen med studentsamskipnadstilknytning for fagskoler varierer, og det er tydelig at en uniform modell ikke er løsningen – hverken for fagskolestudentene eller for studentsamskipnadene. Tilknytning må derfor skje i dialog mellom fagskolestudent/samskipnad og studentdemokratiene, og ta høyde for den bestemte situasjonen og fagskolestudentenes behov.
 
-[Side 83]
+Flere høringsinstanser peker på at det er styrene ved fagskolene som selv må vurdere om deres studenter har behov for og nytte av et medlemskap i en studentsamskipnad. Noen peker også på at flere av fagskolene er små, slik at et medlemskap i en studentsamskipnad kan bli uforholdsmessig dyrt for en fagskole eller at størrelsen på fagskolen tilsier at det ikke er forsvarlig å opprette et velferdstilbud på skolen.
 
-2017–2018
+Et mindretall av høringsinstansene mener at alle fagskoler skal ha rett og plikt til å bli medlem av en studentsamskipnad. Bakgrunnen for dette er at de ønsker at fagskolestudentene skal ha de samme rettighetene som studenter ved universiteter og høyskoler når det gjelder studentvelferd gjennom studentsamskipnader.
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+Flere fylkeskommuner mener at alle fagskoler over en viss størrelse må være medlem av en studentsamskipnad på lik linje med universiteter og høyskoler.
 
-En fagskoles medlemskap i en studentsamskipnad vil gi studenter tilgang til studentboliger
-og velferdsgoder på linje med studenter ved universiteter og høyskoler. Noen fagskoler har aktivitet i flere fylker. En fagskole med lokalisering på
-flere steder har kun rett til å søke medlemskap i
-én studentsamskipnad, men kan velge å søke hos
-den de mener er mest aktuell. Den enkelte fagskole og studentsamskipnad kan utarbeide løsninger som reduserer praktiske og økonomiske hindre for fagskoler med færre enn 50 studenter og
-for fagskoler som utelukkende tilbyr utdanninger
-med færre enn 60 studiepoeng. Dette vil spesielt
-gjelde fagskoler i Trondheim og Oslo.
-Fagskolene må bære den største praktiske og
-administrative byrden knyttet til innkreving av
-studieavgift og etablering av avtaler om fri stasjon.
-Innkrevd semesteravgift skal brukes til å
-finansiere studentenes velferdstilbud. I studentenes velferdstilbud inngår studentdemokratiet. Det
-kan være åpning for at studentdemokratiet ved en
-fagskole får mulighet til å disponere noe av de
-økonomiske midlene til eget bruk, støtte til nasjonal studentorganisasjon for fagskolestudenter
+*Organisasjon for Norske Fagskolestudenter* (ONF) støtter forslag om ubetinget rett til tilknytning til studentsamskipnad for alle fagskoler uavhengig av omfang på studier og fagskolens størrelse. ONF mener det er viktig at styret plikter å samarbeide med studentorgan når det gjelder tilknytning til studentsamskipnad og saker som angår velferd og studiemiljø.
 
-83
+ONF mener det bør vurderes om fagskoler som søker fagområdeakkreditering skal ha plikt til tilknytning til studentsamskipnad. ONF viser til at for eksempelvis fagområdet helse og oppvekst i dag ikke har heltidsstudenter og alderssnittet er høyere med mange godt voksne studenter. Det gjelder likevel ikke hele studentgruppen på fagområdet for det og de som har behov, må ikke være uten tilbud fra studentsamskipnaden.
 
-eller annen aktivitet ved fagskolen som for eksempel idrett, media ol. Dette er forhold som må
-avklares lokalt. Ordninger her bør bygge på
-samme modell som for studentsamskipnader og
-lokalt studentdemokrati eller velferdsting for studentene ved universiteter- og høyskoler.
+*KS* mener at det er riktig at fagskolestudentene skal ha de samme rettigheter som studenter, lovforslaget ivaretar dette på en god måte. De mener videre at fagskolene bør ha plikt til å være medlem i studentsamskipnader på linje med andre høyere utdanningsinstitusjoner.
+
+1.  **Departementets vurdering**
+
+Departementets vurdering er at det bør være rett, men ingen plikt, for en fagskole å bli medlem av en studentsamskipnad. Fagskolesektoren er en svært sammensatt sektor hvor en studentsamskipnadstilknytning ikke alltid vil være den beste løsningen.
+
+Det er viktig at den løsningen styret ved fagskoler velger når det gjelder spørsmål om medlemskap i studentsamskipnad er forankret hos studentene ved fagskolen gjennom deres studentdemokrati. Departementet mener at det, av hensyn til studentsamskipnadenes mulighet til å tilby kvalitativt gode tjenester til studentene fra tilknyttede fagskoler, herunder studentboliger, er hensiktsmessig å stille visse krav til fagskoler som ønsker å knytte seg til en bestemt studentsamskipnad.
+
+En fagskoles medlemskap i en studentsamskipnad vil gi studenter tilgang til studentboliger og velferdsgoder på linje med studenter ved universiteter og høyskoler. Noen fagskoler har aktivitet i flere fylker. En fagskole med lokalisering på flere steder har kun rett til å søke medlemskap i én studentsamskipnad, men kan velge å søke hos den de mener er mest aktuell. Den enkelte fagskole og studentsamskipnad kan utarbeide løsninger som reduserer praktiske og økonomiske hindre for fagskoler med færre enn 50 studenter og for fagskoler som utelukkende tilbyr utdanninger med færre enn 60 studiepoeng. Dette vil spesielt gjelde fagskoler i Trondheim og Oslo.
+
+Fagskolene må bære den største praktiske og administrative byrden knyttet til innkreving av studieavgift og etablering av avtaler om fri stasjon.
+
+Innkrevd semesteravgift skal brukes til å finansiere studentenes velferdstilbud. I studentenes velferdstilbud inngår studentdemokratiet. Det kan være åpning for at studentdemokratiet ved en fagskole får mulighet til å disponere noe av de økonomiske midlene til eget bruk, støtte til nasjonal studentorganisasjon for fagskolestudenter eller annen aktivitet ved fagskolen som for eksempel idrett, media ol. Dette er forhold som må avklares lokalt. Ordninger her bør bygge på samme modell som for studentsamskipnader og lokalt studentdemokrati eller velferdsting for studentene ved universiteter- og høyskoler.
+
 Departementet vil ved evaluering av de kvalitetshevende tiltakene, jf. Fagskolemeldingens tiltak nr. 1 og Stortingets vedtak, vurdere om fagskoler etter bestemte kriterier bør ha plikt til medlemskap i studentsamskipnad.
-Det var ingen av høringsinstansene som
-direkte kommenterte de justerte forslagene for å
-sikre fagskoler rett til medlemskap i studentsamskipnader.
-Departementet foreslår å endre § 4 i studentsamskipnadsloven slik at fagskoler får rett til medlemskap i en studentsamskipnad. Det må også
-foretas enkelte språklige justeringer i §§ 1 og 3
-som en følge av at fagskolene får rett til medlemskap.
-Det vises til forslag om endring i studentsamskipnadsloven §§ 1, 3 og 4.
 
-[Side 84]
+Det var ingen av høringsinstansene som direkte kommenterte de justerte forslagene for å sikre fagskoler rett til medlemskap i studentsamskipnader.
 
-84
+Departementet foreslår å endre § 4 i studentsamskipnadsloven slik at fagskoler får rett til medlemskap i en studentsamskipnad. Det må også foretas enkelte språklige justeringer i §§ 1 og 3 som en følge av at fagskolene får rett til medlemskap.
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+Det vises til forslag om endring i studentsamskipnadsloven §§ 1, 3 og 4.
 
-2017–2018
+1.  **Endring i lov om studentsamskipnader – deling (fisjonering) av studentsamskipnader**
 
-26 Endring i lov om studentsamskipnader – deling (fisjonering)
-av studentsamskipnader
-26.1 Gjeldende rett
-Kunnskapsdepartementet har lagt til grunn at det
-er mest hensiktsmessig at hver høyskole og universitet skal være knyttet kun til én studentsamskipnad, se Meld. St. 18 (2014 – 2015) Konsentrasjon for kvalitet – strukturreform i universitets- og
-høyskolesektoren. Det følger av studentsamskipnadsloven § 2 tredje ledd at Kunnskapsdepartementet beslutter om studentsamskipnader skal
-«opprettes, legges ned eller slås sammen». Sammenslåing omtales ofte som fusjon. Deling, ofte
-omtalt som fisjon, av studentsamskipnader er i
-dag ikke særskilt regulert i loven. Det er imidlertid lagt til grunn i praksis at departementet kan
-dele en studentsamskipnad. Da Norges-teknisk
-naturvitenskapelige universitetet (NTNU) ble
-slått sammen med Høgskolen i Gjøvik og Høgskolen i Ålesund, ble avdelingen i Gjøvik skilt ut fra
-Studentsamskipnaden i Oppland og Avdeling Ålesund skilt ut fra studentsamskipnaden i Sunnmøre. Disse ble så slått sammen med Studentsamskipnaden i Trondheim.
-I forbindelse med skifte av eier av fast eiendom skal det som hovedregel betales avgift ved
-tinglysning av dokument (dokumentavgift). Ved
-fusjoner, fisjoner og omdanninger som bygger på
-såkalte kontinuitetsbetraktninger, skal det likevel
-ikke betales dokumentavgift, fordi det reelt sett
-ikke foreligger noen hjemmelsoverføring når fast
-eiendom blir overført i en slik situasjon. Formålet
-med kontinuitetsbetraktningene er å lette gjennomføringer av fusjoner, fisjoner og omdanninger
-som er ønskelig ut fra et samfunnsøkonomisk perspektiv. Departementet har lagt til grunn at sammenslåinger av studentsamskipnader ikke bør
-medføre krav om betaling av dokumentavgift. I
-studentsamskipnadsloven § 2 tredje ledd er det
-fastsatt at sammenslåinger kan gjennomføres
-basert på kontinuitet i rettighets- og forpliktelsesposisjoner, jf. Prop. 92 L (2011 – 2012), jf. Prop. 15
-L (2010 – 2011).
-Gjennom praksis er det etablert at sammenslåing av studentsamskipnader kan registreres i fore-
+    1.  **Gjeldende rett**
 
-taksregisteret. Det er også lagt til grunn, ved
-utskilling av Gjøvik-delen av Studentsamskipnaden i Oppland, at kontinuitetsprinsipper kan
-gjelde ved deling av en studentsamskipnad. Dette
-innebærer bl.a. at deling ikke har medført plikt til
-å betale dokumentavgift.
+Kunnskapsdepartementet har lagt til grunn at det er mest hensiktsmessig at hver høyskole og universitet skal være knyttet kun til én studentsamskipnad, se Meld. St. 18 (2014–2015) *Konsentrasjon for kvalitet – strukturreform i universitets- og høyskolesektoren*. Det følger av studentsamskipnadsloven § 2 tredje ledd at Kunnskapsdepartementet beslutter om studentsamskipnader skal «opprettes, legges ned eller slås sammen». Sammenslåing omtales ofte som fusjon. Deling, ofte omtalt som fisjon, av studentsamskipnader er i dag ikke særskilt regulert i loven. Det er imidlertid lagt til grunn i praksis at departementet kan dele en studentsamskipnad. Da Norges-teknisk naturvitenskapelige universitetet (NTNU) ble slått sammen med Høgskolen i Gjøvik og Høgskolen i Ålesund, ble avdelingen i Gjøvik skilt ut fra Studentsamskipnaden i Oppland og Avdeling Ålesund skilt ut fra studentsamskipnaden i Sunnmøre. Disse ble så slått sammen med Studentsamskipnaden i Trondheim.
 
-26.2 Departementets høringsforslag
-Strukturen for universiteter, høyskoler og fagskoler er dynamisk og kan endres over tid. Organiseringen av studentsamskipnadene må kunne
-endres slik at prinsippet om at hver enkelt universitet, høyskole og fagskole kun skal være knyttet
-til én studentsamskipnad (se over) kan legges til
-grunn ved eventuelle fremtidige endringer av
-organiseringen. Fremtidig struktur for studentsamskipnader kan også bli påvirket av at fagskoler
-skal få rett til å knytte seg til en studentsamskipnad.
-Kunnskapsdepartementet har lagt til grunn at
-det skal ligge til fagdepartementet å vurdere hva
-som er en hensiktsmessig struktur for studentsamskipnadene. For å unngå usikkerhet hvis det
-er behov for omorganiseringer ønsker departementet å lovfeste gjeldende tolkning og praktisering av kontinuitetsprinsippet ved deling av studentsamskipnader.
-Hittil har deling av studentsamskipnader
-skjedd som en forberedelse til innlemming av den
-utskilte delen i en annen studentsamskipnad.
-Departementet foreslår imidlertid også å tydeliggjøre at en studentsamskipnad skal kunne deles,
-uten at delen eller delene deretter innlemmes i en
-annen studentsamskipnad, men at de kan fortsette som en selvstendig studentsamskipnad.
-Departementet foreslår at deling av studentsamskipnader kan skje på like vilkår som sammenslåing. Departementet foreslår at prinsippene
-om kontinuitet i rettigheter og forpliktelser ved
-sammenslåing av studentsamskipnader også legges til grunn ved deling av studentsamskipnad, og
+I forbindelse med skifte av eier av fast eiendom skal det som hovedregel betales avgift ved tinglysning av dokument (dokumentavgift). Ved fusjoner, fisjoner og omdanninger som bygger på såkalte kontinuitetsbetraktninger, skal det likevel ikke betales dokumentavgift, fordi det reelt sett ikke foreligger noen hjemmelsoverføring når fast eiendom blir overført i en slik situasjon. Formålet med kontinuitetsbetraktningene er å lette gjennomføringer av fusjoner, fisjoner og omdanninger som er ønskelig ut fra et samfunnsøkonomisk perspektiv. Departementet har lagt til grunn at sammenslåinger av studentsamskipnader ikke bør medføre krav om betaling av dokumentavgift. I studentsamskipnadsloven § 2 tredje ledd er det fastsatt at sammenslåinger kan gjennomføres basert på kontinuitet i rettighets- og forpliktelsesposisjoner, jf. Prop. 92 L (2011–2012), jf. Prop. 15 L (2010–2011).
 
-[Side 85]
+Gjennom praksis er det etablert at sammenslåing av studentsamskipnader kan registreres i foretaksregisteret. Det er også lagt til grunn, ved utskilling av Gjøvik-delen av Studentsamskipnaden i Oppland, at kontinuitetsprinsipper kan gjelde ved deling av en studentsamskipnad. Dette innebærer bl.a. at deling ikke har medført plikt til å betale dokumentavgift.
 
-2017–2018
+1.  **Departementets høringsforslag**
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+Strukturen for universiteter, høyskoler og fagskoler er dynamisk og kan endres over tid. Organiseringen av studentsamskipnadene må kunne endres slik at prinsippet om at hver enkelt universitet, høyskole og fagskole kun skal være knyttet til én studentsamskipnad (se over) kan legges til grunn ved eventuelle fremtidige endringer av organiseringen. Fremtidig struktur for studentsamskipnader kan også bli påvirket av at fagskoler skal få rett til å knytte seg til en studentsamskipnad.
 
-at dette slås fast i studentsamskipnadsloven § 2
-tredje ledd.
+Kunnskapsdepartementet har lagt til grunn at det skal ligge til fagdepartementet å vurdere hva som er en hensiktsmessig struktur for studentsamskipnadene. For å unngå usikkerhet hvis det er behov for omorganiseringer ønsker departementet å lovfeste gjeldende tolkning og praktisering av kontinuitetsprinsippet ved deling av studentsamskipnader.
 
-26.3 Høringsinstansenes syn
-Det er kun to av høringsinstansene som har uttalt
-seg om forslaget, og disse er begge positive. Samskipnadsrådet uttaler at de er positive til
-endringene i studentsamskipnadsloven om å lovfeste gjeldende tolkning og praktisering av fisjonering av studentsamskipnader. Fagskolen Innlandet mener at det virker fornuftig å gjøre det lettere
-å tilpasse strukturen i studentsamskipnader til
-strukturen til utdanningsinstitusjoner.
+Hittil har deling av studentsamskipnader skjedd som en forberedelse til innlemming av den utskilte delen i en annen studentsamskipnad. Departementet foreslår imidlertid også å tydeliggjøre at en studentsamskipnad skal kunne deles, uten at delen eller delene deretter innlemmes i en annen studentsamskipnad, men at de kan fortsette som en selvstendig studentsamskipnad.
 
-26.4 Departementets vurdering
-Departementet konstaterer at de høringsinstansene som har uttalt seg om høringsforslaget er
-positive til forslaget. Ingen av instansene hadde
-forslag til endringer i ordlyden.
-Departementet mener det bør komme tydelig
-frem av ordlyden i loven at departementet kan
-bestemme at studentsamskipnader skal deles, og
-at dette kan gjøres i tråd med prinsippet om kontinuitet. Kontinuitet ved deling av en studentsamskipnad vil ha likhetstrekk med fisjon av selskaper
-eller omdanning av stiftelser ved deling.
+Departementet foreslår at deling av studentsamskipnader kan skje på like vilkår som sammenslåing. Departementet foreslår at prinsippene om kontinuitet i rettigheter og forpliktelser ved sammenslåing av studentsamskipnader også legges til grunn ved deling av studentsamskipnad, og at dette slås fast i studentsamskipnadsloven § 2 tredje ledd.
 
-85
+1.  **Høringsinstansenes syn**
 
-Ved en fisjon av selskaper kan det være spørsmål om skattemessig kontinuitet, kontinuitet på
-eiersiden og kontinuitet mht. den utøvende virksomheten, i tillegg til regnskapsmessig behandling. Dette blir annerledes for en studentsamskipnad, da de ikke har noen eiere, og skal etter en
-deling også drive virksomhet i tråd med lov om
-studentsamskipnader. Ved deling blir det ikke
-spørsmål om eierkontinuitet siden det er på det
-rene at den utøvende virksomheten skal videreføres. Selv om deling av studentsamskipnader skal
-gjennomføres med kontinuitet, må det ved hver
-enkelt deling gjøres konkrete vurderinger av
-hvordan delingen for øvrig skal gjennomføres, der
-bl.a. forholdet til kreditorer avklares. Departementet legger til grunn at det mest sentrale i praksis ved en fisjon av en studentsamskipnad vil være
-at det ikke skal betales dokumentavgift ved
-tinglysning av eiendom.
-Lov om studentsamskipnader har ikke egne
-bestemmelser som nærmere beskriver hvordan
-omorganiseringer skal gjennomføres. I og med at
-det er et begrenset antall studentsamskipnader i
-Norge, mener departementet det heller ikke er
-behov for slike regler. Imidlertid kan stiftelseslovens bestemmelser om omdanning ved deling gi
-veiledning i den praktiske gjennomføringen av en
-deling av en studentsamskipnad.
-Det vises til forslag om endring i studentsamskipnadsloven § 2.
+Det er kun to av høringsinstansene som har uttalt seg om forslaget, og disse er begge positive. *Samskipnadsrådet* uttaler at de er positive til endringene i studentsamskipnadsloven om å lovfeste gjeldende tolkning og praktisering av fisjonering av studentsamskipnader. *Fagskolen Innlandet* mener at det virker fornuftig å gjøre det lettere å tilpasse strukturen i studentsamskipnader til strukturen til utdanningsinstitusjoner.
 
-[Side 86]
+1.  **Departementets vurdering**
 
-86
+Departementet konstaterer at de høringsinstansene som har uttalt seg om høringsforslaget er positive til forslaget. Ingen av instansene hadde forslag til endringer i ordlyden.
 
-Prop. 47 L
-Lov om fagskoleutdanning (fagskoleloven)
+Departementet mener det bør komme tydelig frem av ordlyden i loven at departementet kan bestemme at studentsamskipnader skal deles, og at dette kan gjøres i tråd med prinsippet om kontinuitet. Kontinuitet ved deling av en studentsamskipnad vil ha likhetstrekk med fisjon av selskaper eller omdanning av stiftelser ved deling.
 
-2017–2018
+Ved en fisjon av selskaper kan det være spørsmål om skattemessig kontinuitet, kontinuitet på eiersiden og kontinuitet mht. den utøvende virksomheten, i tillegg til regnskapsmessig behandling. Dette blir annerledes for en studentsamskipnad, da de ikke har noen eiere, og skal etter en deling også drive virksomhet i tråd med lov om studentsamskipnader. Ved deling blir det ikke spørsmål om eierkontinuitet siden det er på det rene at den utøvende virksomheten skal videreføres. Selv om deling av studentsamskipnader skal gjennomføres med kontinuitet, må det ved hver enkelt deling gjøres konkrete vurderinger av hvordan delingen for øvrig skal gjennomføres, der bl.a. forholdet til kreditorer avklares. Departementet legger til grunn at det mest sentrale i praksis ved en fisjon av en studentsamskipnad vil være at det ikke skal betales dokumentavgift ved tinglysning av eiendom.
 
-27 Økonomiske og administrative konsekvenser
-27.1 Vitnemålsportal
-I dag er driften og videreutviklingen av Vitnemålsportalen delvis finansiert av Kunnskapsdepartementet og delvis av de statlige universitetene og
-høyskolene. Universiteter og høyskoler benytter
-seg av FS (Felles studentsystem) som saksbehandlersystem, og finansierer videreutviklingen
-av Vitnemålsportalen gjennom den årlige kontingenten til Felles studentsystem.
-I Meld. St. 9 (2016 – 2017) Fagfolk for fremtiden
-er det fastsatt som eget tiltak at Regjeringen skal
-sikre at Nasjonal vitnemåls- og karakterportal skal
-omfatte fagskoleutdanning. Departementet tildelte CERES, nå Kunnskapsdepartementets tjenesteorgan, i juni 2017 1,5 mill. kroner til arbeid
-med inkludering av fagskoleresultater i Nasjonal
-vitnemålsportal over kap. 281 post 01 i 2017.
-Departementet tar sikte på å videreføre tildelingen knyttet til inkludering av fagskoleresultater i
-de kommende år på om lag samme nivå som i
-2017.
+Lov om studentsamskipnader har ikke egne bestemmelser som nærmere beskriver hvordan omorganiseringer skal gjennomføres. I og med at det er et begrenset antall studentsamskipnader i Norge, mener departementet det heller ikke er behov for slike regler. Imidlertid kan stiftelseslovens bestemmelser om omdanning ved deling gi veiledning i den praktiske gjennomføringen av en deling av en studentsamskipnad.
 
-27.2 Opprettelse av studentorgan
-Forslaget vil kunne føre til noe økte økonomiske
-og administrative kostnader for fagskolen, ved at
-fagskolen må sørge for mulighet for at studenttillitsvalgte har tilgang til et kontor helt eller delvis,
-på skolens område. Det kan også bli noe utgifter
-til dekning av nødvendig IKT-utstyr og annet
-utstyr som for eksempel kontorrekvisita. Departementet antar at dette ikke pålegger fagskolen
-store kostnader. Studentorganet kan ikke pålegge
-institusjonene bestemte ytelser.
+Det vises til forslag om endring i studentsamskipnadsloven § 2.
 
-27.3 Utvidede rettigheter for studenter
-i permisjon
-Etter dette forslaget får fagskolen en større plikt
-enn de har i dag for å tilrettelegge for de studentene som får barn i studietiden. Dette kan føre til
-at studieplassen ikke benyttes i permisjonsperioden. I en viss utstrekning kan fagskolene tape
+1.  **Økonomiske og administrative konsekvenser**
 
-penger, da de ikke kan få fylt opp studieplassen for
-den tiden som er igjen av studieåret. Departementet legger til grunn at dette vil skje ganske sjeldent, og at det for den enkelte fagskole ikke vil
-være snakk om særlig store beløp.
+    1.  **Vitnemålsportal**
 
-27.4 Fagskolenes tilknytning til
-studentsamskipnad
-Forslag til endringer i studentsamskipnadsloven
-vil ikke medføre administrative eller økonomiske
-merkostnader for staten. På sikt kan større medlemsmasse og større etterspørsel etter studentboliger føre til økte krav til tildelinger gjennom de
-årlige budsjettildelingene.
-For studentsamskipnadene vil forslaget medføre en viss økning i administrative kostnader
-siden fagskolene nå kan bli omfattet av studentsamskipnadens tilbud. Innlemming av fagskoler i
-studentsamskipnader vil bety at studentsamskipnadene og departementet som tilskuddsyter må
-forholde seg til en større medlemsmasse.
-Flere av fagskolene er små og har få studenter.
-Innlemming av fagskoler i studentsamskipnader
-vil kreve mer saksbehandlingsressurser både på
-den enkelte fagskole og hos studentsamskipnaden. Det er nærliggende å tenke seg at studentsamskipnadene og fagskolene vil oppleve likeartede problemstillinger i forhandlinger om medlemskap. Her bør studentsamskipnadene sammen
-utarbeide felles utkast til avtaler for medlemskap
-for fagskoler.
-Studentsamskipnadenes vedtekter må endres
-når nye fagskoler tas inn i studentsamskipnaden.
-Fagskolene må tilby studentsamskipnadene fri
-stasjon. Dette vil medføre økte utgifter for den
-enkelte fagskolen, slik tilfellet er for private og
-offentlige universiteter og høyskoler.
-Ved at fagskolene får rett til å knytte seg til en
-studentsamskipnad vil flere studenter blir medlemmer i studentsamskipnaden. Det er grunn til å
-tro at dette vil føre til en større etterspørsel etter
-studentsamskipnadens tjenester. Dette vil i stor
-grad blir finansiert gjennom semesteravgift, egenbetaling og tilskudd fra felles velferdsordninger.
+I dag er driften og videreutviklingen av Vitnemålsportalen delvis finansiert av Kunnskapsdepartementet og delvis av de statlige universitetene og høyskolene. Universiteter og høyskoler benytter seg av FS (Felles studentsystem) som saksbehandlersystem, og finansierer videreutviklingen av Vitnemålsportalen gjennom den årlige kontingenten til Felles studentsystem.
+
+I Meld. St. 9 (2016–2017) *Fagfolk for fremtiden* er det fastsatt som eget tiltak at Regjeringen skal sikre at Nasjonal vitnemåls- og karakterportal skal omfatte fagskoleutdanning. Departementet tildelte CERES, nå Kunnskapsdepartementets tjenesteorgan, i juni 2017 1,5 mill. kroner til arbeid med inkludering av fagskoleresultater i Nasjonal vitnemålsportal over kap. 281 post 01 i 2017. Departementet tar sikte på å videreføre tildelingen knyttet til inkludering av fagskoleresultater i de kommende år på om lag samme nivå som i 2017.
+
+1.  **Opprettelse av studentorgan**
+
+Forslaget vil kunne føre til noe økte økonomiske og administrative kostnader for fagskolen, ved at fagskolen må sørge for mulighet for at studenttillitsvalgte har tilgang til et kontor helt eller delvis, på skolens område. Det kan også bli noe utgifter til dekning av nødvendig IKT-utstyr og annet utstyr som for eksempel kontorrekvisita. Departementet antar at dette ikke pålegger fagskolen store kostnader. Studentorganet kan ikke pålegge institusjonene bestemte ytelser.
+
+1.  **Utvidede rettigheter for studenter i permisjon**
+
+Etter dette forslaget får fagskolen en større plikt enn de har i dag for å tilrettelegge for de studentene som får barn i studietiden. Dette kan føre til at studieplassen ikke benyttes i permisjonsperioden. I en viss utstrekning kan fagskolene tape penger, da de ikke kan få fylt opp studieplassen for den tiden som er igjen av studieåret. Departementet legger til grunn at dette vil skje ganske sjeldent, og at det for den enkelte fagskole ikke vil være snakk om særlig store beløp.
+
+1.  **Fagskolenes tilknytning til studentsamskipnad**
+
+Forslag til endringer i studentsamskipnadsloven vil ikke medføre administrative eller økonomiske merkostnader for staten. På sikt kan større medlemsmasse og større etterspørsel etter studentboliger føre til økte krav til tildelinger gjennom de årlige budsjettildelingene.
+
+For studentsamskipnadene vil forslaget medføre en viss økning i administrative kostnader siden fagskolene nå kan bli omfattet av studentsamskipnadens tilbud. Innlemming av fagskoler i studentsamskipnader vil bety at studentsamskipnadene og departementet som tilskuddsyter må forholde seg til en større medlemsmasse.
+
+Flere av fagskolene er små og har få studenter. Innlemming av fagskoler i studentsamskipnader vil kreve mer saksbehandlingsressurser både på den enkelte fagskole og hos studentsamskipnaden. Det er nærliggende å tenke seg at studentsamskipnadene og fagskolene vil oppleve likeartede problemstillinger i forhandlinger om medlemskap. Her bør studentsamskipnadene sammen utarbeide felles utkast til avtaler for medlemskap for fagskoler.
+
+Studentsamskipnadenes vedtekter må endres når nye fagskoler tas inn i studentsamskipnaden. Fagskolene må tilby studentsamskipnadene fri stasjon. Dette vil medføre økte utgifter for den enkelte fagskolen, slik tilfellet er for private og offentlige universiteter og høyskoler.
+
+Ved at fagskolene får rett til å knytte seg til en studentsamskipnad vil flere studenter blir medlemmer i studentsamskipnaden. Det er grunn til å tro at dette vil føre til en større etterspørsel etter studentsamskipnadens tjenester. Dette vil i stor grad blir finansiert gjennom semesteravgift, egenbetaling og tilskudd fra felles velferdsordninger.
+
+Det kan bli et større press på spesielt studentboliger i de store byene som Oslo, Bergen og Trondheim. Dette kan forsterke problemene knyttet til underdekning av studentboliger og føre til lengre til ventelister for studentboliger. Lengre ventelister for å få tildelt studentboliger gir flere utilfredse studenter og kan skape mer støy i media. Eventuelle bevilgninger til nye studentboliger må håndteres i den årlige budsjett-tildelingen.
+
+Fagskolestudenter må, dersom deres fagskole knytter seg til en studentsamskipnad, betale semesteravgift. Alle studenter tilknyttet en studentsamskipnad må betale det samme beløpet i semesteravgift, jf. studentsamskipnadsloven § 10, enten vedkommende er student ved universitet, høyskole eller fagskole. Dette betyr en økt kostnad for fagskolestudenter, enten de velger å benytte seg av studentsamskipnadens tilbud eller ikke. Fagskolene vil ha noe administrative merarbeid ved at de må kreve inn semesteravgiften.
+
+1.  **Deling (fisjonering) av studentsamskipnader**
+
+Forslaget om hjemmel for deling av studentsamskipnader antas ikke å få vesentlige administrative eller økonomiske konsekvenser, siden forslaget kun betyr lovfesting av etablert praksis.
+
+1.  **Merknader til bestemmelsene**
+
+    1.  **Ny fagskolelov**
+
+*Til § 1 Formål*
+
+Bestemmelsen bygger på § 1 i gjeldende lov og gjengir lovens formål, som er å legge til rette for fagskoleutdanning av høy kvalitet.
+
+Uttrykket «tilfredsstillende vilkår» i gjeldende lov er endret til «gode utdanningsvilkår». Dette gjenspeiler at det skal stilles høye krav til at fagskolene tilrettelegger sine utdanninger slik at studentene kan gjennomføre på en god måte.
+
+*Til § 2 Lovens virkeområde*
+
+Bestemmelsen er en videreføring av § 1 tredje til femte ledd i gjeldende lov og omhandler lovens stedlige virkeområde. Bestemmelsen om Svalbard mv. er videreført. Gjeldende lovs bestemmelse om fagskolevirksomhet utenfor Norge er også videreført.
+
+*Til § 3 Fylkeskommunalt ansvar for fagskoleutdanning*
+
+Bestemmelsen er en videreføring av § 1a i gjeldende lov, slik at det er fylkeskommunene og på sikt de nye regionene som skal sørge for at det tilbys akkreditert fagskoleutdanning i samsvar med kompetansebehovene lokalt, regionalt og nasjonalt.
+
+*Til § 4 Definisjon og kvalitetssikring av fagskoleutdanning*
+
+*Første ledd* viderefører § 1 andre ledd, andre og tredje punktum i gjeldende lov. Fagskoleutdanning defineres som «høyere yrkesfaglig utdanning». Begrepet plasserer fagskolen som høyere utdanning og tydeliggjør at fagskoleutdanning skal ligge på nivå over videregående opplæring. «Yrkesfaglig utdanning» vil skille utdanningen fra universitets- og høyskoleutdanning. Ved overgang til universitets- eller høyskolestudier vil endringen i definisjon ikke ha betydning, siden det fremdeles er læringsutbyttet fra den enkelte fagskoleutdanning som skal ligge til grunn for fritaksvurderingen.
+
+*Andre ledd* fastsetter at hovedregelen for omfang og innhold i akkreditert fagskoleutdanning tilsvarer mellom et halvt og to studieår på fulltid. I særlige tilfeller kan det åpnes opp for treårig fagskoleutdanning. Dette er et unntak som skal tolkes snevert. Kun i helt spesielle tilfeller vil treårig fagskoleutdanning være tillatt. Tillatelse kan for eksempel gis hvis internasjonale krav til yrkesutøvelse eller særlige krav til sertifisering eller krav om autorisasjon vil medføre at fagskoleutdanningen ikke kan gis innenfor en tidsramme på to år. Fagskoleutdanningstilbudet må følge utviklingen i arbeidsmarkedet og de krav som stilles der.
+
+Det er departementet eller underordnet forvaltningsorgan etter delegasjon fra departementet som etter søknad kan godkjenne treårig fagskoleutdanning. Departementet kan også fastsette vilkår for adgangen til å gi dispensasjon for treårig fagskoleutdanning.
+
+I *tredje ledd* stilles det krav om at alle fagskoler skal ha tilfredsstillende systemer for kvalitetssikring. I tillegg videreføres kravet om at studentevalueringer alltid skal inngå i kvalitetssikringssystemene, se gjeldende lov § 2 fjerde ledd. Hvor omfattende disse kvalitetssikringssystemene kan være, vil variere etter hvor omfattende fagskolens virksomhet er, hvor mange utdanningstilbud fagskolen har, om fagskolen har fagområdeakkreditering etc.
+
+*Til § 5 Akkreditering av fagskoleutdanning*
+
+Bestemmelsen bygger på § 2 i gjeldende lov. Uttrykket «godkjenning» er erstattet med «akkreditering», tilsvarende uttrykket i lov om universiteter og høyskoler kapittel 2 og 3, men innebærer ingen endring i reglene for prosess rundt akkrediteringen.
+
+*Første ledd* er en videreføring av § 2 tredje ledd i gjeldende lov. Det er NOKUT som akkrediterer fagskoleutdanning og fagområde.
+
+*Andre ledd* er nytt og gir en beskrivelse av hva akkreditering er; akkreditering etter fagskoleloven er en faglig vurdering av om en fagskoleutdanning oppfyller et gitt sett av vilkår. Disse vilkårene fastsettes av departementet og NOKUT. Det stilles andre krav til akkreditering av fagskoleutdanning enn til akkreditering av høyere utdanning, og vilkårene og prosedyrene for akkreditering må reflektere dette, jf. forskrift om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning (studiekvalitetsforskriften).
+
+*Tredje ledd* er en videreføring av gjeldende lov § 2 annet ledd, og gjelder akkreditering for fagområde. Departementet gir forskrift om vilkår for slik akkreditering, se femte ledd bokstav b.
+
+*Fjerde ledd v*iderefører i hovedsak gjeldende lov § 2 femte ledd. Det presiseres at det er NOKUT som kan trekke tilbake akkrediteringen. I forslaget til ny bestemmelse er «tilbyder» erstattet med «fagskolens styre».
+
+*Til § 6 Beskyttelse av betegnelsene fagskoleutdanning og fagskole*
+
+Bestemmelsen er en videreføring av § 25 i gjeldende lov. Uttrykket «godkjenning» er erstattet med uttrykket «akkreditering».
+
+*Første ledd* sier at den som ikke har rett til å bruke betegnelsene «fagskole» eller «fagskoleutdanning», heller ikke har rett til å bruke disse betegnelsene i sin markedsføring, eller på annen måte gi et uriktig inntrykk av å ha akkreditering. I tillegg til uriktig bruk av de beskyttede betegnelsene, kan det dreie seg om ord og uttrykk i markedsføring, på nettsider, i sosiale medier og i annen informasjon som kan villede en potensiell student eller arbeidsgiver til å tro at det dreier seg om en fagskole eller fagskoleutdanning som har NOKUT-akkreditering. For eksempel kan ord eller uttrykk som «studiepoeng», «akkreditert utdanning» eller lignende omfattes. Denne oppramsingen er ikke ment å være uttømmende.
+
+Villedende markedsføring omfattes av lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) av 9. januar 2009 nr. 2. Markedsføringsloven dekker all markedsføring fra aktører som kan sies å utøve næringsvirksomhet. Villedende markedsføring om private utdanningstilbud, eksempelvis dersom en skole gir uriktig inntrykk av at den har en godkjenning eller akkreditering den ikke har, vil også kunne bli vurdert som brudd på markedsføringslovens mer generelle forbud mot urimelig handelspraksis. Etter omstendighetene kan en slik praksis også rammes av forskrift om urimelig handelspraksis av 1. juni 2009 nr. 565 § 1 nr. 4. Forbrukertilsynet fører tilsyn med markedsføringslovens bestemmelser om forskrift om urimelig handelspraksis og vil med hjemmel i markedsføringslovens sanksjonsbestemmelser kunne gripe inn mot villedende markedsføring fra skoler som ikke har NOKUT-akkreditering for å gi fagskoleutdanning. Markedsføringslovens sanksjonsbestemmelser finnes i markedsføringslovens kapittel 7. Etter markedsføringslovens § 48 første ledd er forsettlige og vesentlige overtredelser av denne karakter også straffbare.
+
+*Andre ledd* gir departementet hjemmel til å forby bruk av betegnelse eller navn som gir et villedende inntrykk av at utdanningen er akkreditert som fagskoleutdanning.
+
+*Tredje ledd* gir departementet hjemmel til å tillate sammensatte betegnelser som allerede er etablert.
+
+*Fjerde ledd* gir departementet hjemmel til å ilegge overtredelsesgebyr til den som bruker betegnelsene «fagskole» eller «fagskoleutdanning» uten akkreditering fra NOKUT. Dette gir en reell mulighet til å stanse rettsstridig bruk av betegnelsen «fagskole» eller «fagskoleutdanning». Normalt innledes sakene med at departementet får tips om potensielle overtredelser. Om departementet vurderer saken dithen at en beskyttet betegnelse brukes i strid med loven, sender departementet en anmodning til overtreder om at bruken opphører. Normalt gis det en frist på én til tre måneder til å rette opp forholdet, samtidig som det angis at anmodningen er å anse som et forhåndsvarsel, jf. forvaltningsloven § 16. Mottaker av anmodningen gis anledning til å svare på departementets vurdering. Først etter en slik prosess vil departementet kunne følge opp fortsatt rettsstridig bruk av betegnelser med overtredelsesgebyr.
+
+Bestemmelsen angir skyldkravet for ileggelse av overtredelsesgebyr. Dette skyldkravet får betydning hvis det dreier seg om å ilegge privatpersoner overtredelsesgebyr. Det objektive grunnlaget for ileggelse av overtredelsesgebyr er at noen bruker betegnelsene «fagskole» eller «fagskoleutdanning» uten at de er NOKUT-akkrediterte fagskoleutdanninger, jf. paragrafens første ledd, eller at de bruker en betegnelse som etter departementets forskrift eller enkeltvedtak er forbudt, jf. paragrafens annet ledd.
+
+Et foretak kan ilegges overtredelsesgebyr for rettsstridig bruk av beskyttet betegnelse på samme grunnlag som enkeltpersoner. For foretak kreves det imidlertid ingen grad av skyld hos enkeltpersoner. Også om noen har handlet på foretakets vegne kan foretaket ilegges overtredelsesgebyr. Departementet viser til Rt. 2007 s. 1684 avsnitt 22 vedrørende hvorvidt noen kan anses å ha handlet på et foretaks vegne.
+
+Departementet har ikke funnet det hensiktsmessig å regulere et morselskaps subsidiære ansvar for eventuelle overtredelser. Det er heller ikke hensiktsmessig å lage egne foreldelsesregler eller endelig frist for ileggelse av gebyr. Om rettsstridig bruk av beskyttede betegnelser har opphørt, har som hovedregel også departementets interesse av å ilegge overtredelsesgebyr opphørt, i det de viktigste hensynene bak bestemmelsen er ivaretatt.
+
+*Femte ledd*: Gebyrets størrelse er regulert i forskrift, jf. forskrift om overtredelsesgebyr etter universitets- og høyskoleloven og fagskoleloven av 13. oktober 2017 nr. 1616. Forskriften vil bli videreført.
+
+Ved fastsettelsen av beløp kan det tas hensyn til at mange tilbydere av yrkesrettet opplæring eller utdanning, både med og uten akkreditering, er små og har begrenset økonomisk handlekraft. Likevel må beløpet som ilegges som overtredelsesgebyr, være av en slik størrelse at det faktisk er egnet til å hindre fortsatt bruk av en beskyttet betegnelse i strid med loven. I forskriften er det fastsatt at et overtredelsesgebyr ikke kan overstige fem ganger folketrygdens grunnbeløp. Departementets forskrift gitt i medhold av denne bestemmelsen vil utfylles av forvaltningslovens bestemmelser om saksbehandling.
+
+Endelig vedtak om overtredelsesgebyr for rettsstridig bruk av uttrykkene «fagskole» eller «fagskoleutdanning» er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 bokstav e.
+
+*Til § 7 Generell godkjenning av utenlandsk fagskoleutdanning*
+
+Godkjenningsordningen for utenlandsk fagskoleutdanning er generell. Den omfatter kun en vurdering av nivå og omfang. I vedtaket om generell godkjenning av den utenlandske fagskoleutdanningen kan det gis informasjon om navn på utdanningen eller kvalifikasjonen, utdanningens lengde, fagområde og mulig yrkestittel og hva den eventuelt kan sammenliknes med av norsk fagskoleutdanning, samt henvisning til det europeiske kvalifikasjonsrammeverket for livslang læring (EQF) for utdanning fra land hvor dette er aktuelt.
+
+En generell godkjenning vil ikke være så spesifikk at den kan gi rettigheter i tilfeller der det i lov eller forskrift er krav om autorisasjon, sertifisering eller godkjenning for yrkesutøvelse. En generell godkjenning er ment som hjelp for å få jobb på områder hvor det ikke er krav om spesiell autorisasjon mv.. I tillegg kan den i en del tilfeller være et tjenlig underlag for ulike myndigheters vurdering av søknader om autorisasjon mv.. Det vil måtte avgjøres av den enkelte aktuelle autorisasjonsmyndighet. Departementet forutsetter at NOKUT samarbeider med relevant autorisasjonsmyndighet hvor det er aktuelt i forbindelse med vurdering av utenlandsk fagskoleutdanning.
+
+*Til § 8 Godskriving og fritak*
+
+*Første ledd*: Godskriving gjelder enten fullført fagskoleutdanning eller beståtte emner fra akkreditert fagskoleutdanning. Fagskolen plikter å godskrive slik utdanning og slike emner dersom den finner at de oppfyller de faglige kravene som stilles i utdanningen det søkes om godskriving i. Å godskrive et emne innebærer at det kan inngå som en del av utdanningen der studenten har søkt om godskriving, og at studenten ikke må ta tilsvarende emne på nytt.
+
+Dersom en utdanning eller et emne oppfyller de faglige kravene til ett eller flere emner ved en annen fagskole, skal det godskrives uavhengig av om det er gitt likt eller ulikt antall studiepoeng, eller om det ikke er gitt studiepoeng. Men det skal ikke godskrives flere studiepoeng enn de som er oppnådd ved fagskolen hvor studenten har tatt utdanningen eller emnet. I praksis vil det bety at hvis et fag eller emne ved fagskole A gir 5 studiepoeng og dette blir godskrevet ved fagskole B hvor faget har 10 studiepoeng, er resultatet at studenten får godskrevet faget eller emnet og dermed ikke må ta det på nytt, men eventuelt må ta 5 studiepoeng i et annet fag eller emne hvis studenten for øvrig ikke har et tilstrekkelig antall studiepoeng for å oppfylle kravet til den aktuelle utdanningen. Tilsvarende vil gjelde hvis fagskole A gir 10 studiepoeng og fagskole B gir 5. Det er faget eller emnet som godskrives, og ikke nødvendigvis studiepoengene.
+
+Det følger av § 8 første ledd siste setning at fagskolen skal påse at det ikke gis dobbel uttelling for samme faginnhold. Bestemmelsen gjelder for tilfeller der studenten har overlappende emner. Fagskolen må i det enkelte tilfellet gjøre en konkret vurdering av hva som skal anses som dobbel uttelling, både ut fra hvor stor grad av overlapp det er tale om, og hvor sentrale elementer i utdanningen eller emnet det er tale om.
+
+*Andre ledd*: Det kan gis fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse, altså utdanning som ikke oppfyller vilkårene for godskriving etter første ledd. Blant annet kan dokumentasjon av realkompetanse gi grunnlag for fritak.
+
+Det er fagskolen som vurderer søknaden om fritak opp mot en konkret utdanning. Fritaksvurderinger foretas på grunnlag av søknader fra enkeltstudenter som mener at de har en utdanning og/eller erfaring som har gitt dem et læringsutbytte som tilsvarer læringsutbyttet i ett eller flere emner ved den aktuelle fagskoleutdanningen.
+
+For at en søknad om fritak skal kunne innvilges, må søkerens kompetanse vurderes som likeverdig med læringsutbyttet som er fastsatt for utdanningen eller emnet som det søkes fritak for. Et innvilget fritak betyr at fagskolen som gir fritaket, går god for at studenten har kompetanse likeverdig med det som forventes av en ordinær student som har gjennomført og bestått det samme emnet eller de samme emnene ved fagskolen. Fritaket betyr at studenten ikke trenger å delta i det emnet eller emnene som fritaket gjelder for, eller erstatte det med et annet emne.
+
+Fritaksbestemmelsen gir ikke studenten konkrete rettigheter utover at fagskolen har plikt til å vurdere søknaden. Det er opp til fagskolen å vurdere hva som er «annen dokumentert relevant utdanning og kompetanse» som kan gi grunnlag for fritak. Skolen vurderer da om den omsøkte utdanningen eller kompetansen oppfyller de faglige kravene for skolens egen utdanning, med den konsekvens at utdanningstiden kan avkortes.
+
+Fritak er blant annet aktuelt for søkere som ønsker opptak til videre utdanning ved en fagskole i Norge på bakgrunn av påbegynt eller fullført utdanning fra utlandet, realkompetanse eller utdanning tatt ved for eksempel en folkehøyskole eller ved en annen fagskole.
+
+*Til § 9 Styrets ansvar*
+
+*Første ledd første punktum* er en videreføring av regelen i gjeldende lov § 3 andre ledd andre punktum om at alle fagskoler skal ha et eget styre, mens *andre punktum* er en videreføring av gjeldende § 3 andre ledd første punktum som foreslått i Prop. 44 L (2016–2017) og vedtatt av Stortinget, se Innst. 225 L (2016–2017). For offentlige fagskoler og fagskoler organisert som studieforbund videreføres dagens krav om at et styre skal være øverste ansvarlige styringsorgan ved fagskolen. Som følge av kravet til selskapsform for private fagskoler, jf. § 13 første ledd, vil øvrige private fagskoler ha krav om styre som øverste ansvarlige styringsorgan gjennom aksjeloven eller stiftelsesloven. Det er dermed ikke nødvendig å regulere dette i fagskoleloven for private fagskoler organisert som aksjeselskap eller stiftelser. Bestemmelsen om styret griper ikke inn i den grunnleggende ansvarsfordelingen mellom generalforsamlingens eierstyring eller andre lovfestede organers kompetanse etter aksjeloven eller stiftelsesloven.
+
+*Andre ledd* tilsvarer i all hovedsak gjeldende § 3 syvende ledd, se Prop. 44 L (2016–2017). Bestemmelsen endres likevel fra at vedtaket skal gjelde at «det er forsvarlig å starte opp et nytt studieår» til at vedtaket skal gjelde om det er «forsvarlig å ta opp nye studenter». Departementet mener dette i sterkere grad vil ivareta studentenes rettigheter. Vedtaket skal være begrunnet, og styret må selv vurdere hvilke momenter som vektlegges i vurderingen. Departementet viser til at blant annet studenttilfang, tilgang på lærerkrefter og lokaler, budsjett og økonomi mv. vil kunne være relevante momenter. Bestemmelsen presiserer at det er «styret selv» som skal fatte dette vedtaket, og delegasjon av denne oppgaven er dermed avskåret. Vedtaket skal bidra til forutberegnelighet for studenter og søkere og bevisstgjøring av styret. Vedtaket må være tilgjengelig for studentene, og det skal derfor publiseres på institusjonens nettside. Andre setning gir at vedtaket skal fattes før studiestart. Departementet mener at fagskolene på dette tidspunktet bør ha tilstrekkelig informasjon til å foreta en reell vurdering av om det er forsvarlig å ta opp studentene. Av hensyn til forutberegneligheten for studenter og søkere bør fagskolene tilstrebe at vedtaket fattes så tidlig som mulig.
+
+*Tredje ledd* er delvis en videreføring av gjeldende bestemmelser og delvis nye. Oppstillingen samler reguleringene av styrets plikter i bokstavene a)–f), men dette er ikke en uttømmende liste over styrets plikter og ansvar. Ordlyden er endret fra at styret er «ansvarlig for» til at styret skal «sørge for» forholdene som angis i bestemmelsene. Departementet legger til grunn at det er bedre i overenstemmelse med gjeldende rett at dette formuleres som en pliktbestemmelse.
+
+Bokstav a)–c) er videreføring av reguleringen som finnes i gjeldende § 3 tredje ledd. Bokstav a) presiserer styrets alminnelige plikt til å sørge for at studentene får en utdanning som er i tråd med akkrediteringen. Vurderingen må foretas opp mot den aktuelle akkrediteringen til fagskolen, og vil kunne omfatte flere utdanninger dersom fagskolen er akkreditert for ulike typer fagskoleutdanning. Bokstav b) presiserer at styret har ansvaret for at alle vilkår for eventuelle offentlige tilskudd er oppfylt, mens bokstav c) presiserer at styret skal sørge for at alle opplysninger som gis til NOKUT, studenter og dem som søker utdanning er korrekte og fullstendige. Plikten omfatter også opplysninger til studenter. For øvrig er det gjort enkelte språklige endringer i bestemmelsene som ikke er ment å innebære realitetsendringer.
+
+Bokstav d) er en ny bestemmelse. Reguleringen presiserer styrets plikter og fastsetter uttrykkelig at det skal sørges for at studenter og søkere får tilstrekkelig og nødvendig informasjon og veiledning. Bestemmelsen gir eksempler på hva dette innebærer, uten at dette er å regne som en uttømmende liste. Det må vurderes konkret i det enkelte tilfellet hva som er nødvendig informasjon for studenter og søkere.
+
+Bokstav e) er en videreføring av gjeldende § 4 tredje ledd med mindre språklige endringer. Styret er ansvarlig for å fastsette generelle krav til lærer- og instruktørkompetanse og ledelse. Realkompetanse skal vurderes som likeverdig med formell kompetanse. I tråd med § 12 første ledd kan departementet gi forskrift med særlige krav til rektors kompetanse. Dette påvirker ikke styrets plikter etter denne bestemmelsen, men må i tilfelle ses i sammenheng med krav i en slik forskrift.
+
+Bokstav f) er delvis en videreføring av gjeldende § 3 tredje ledd, samt en videreføring av gjeldende § 3 åttende ledd. Kravet til internkontroll retter seg i praksis mot de private fagskolene, da kommuneloven regulerer krav til de kommunale og fylkeskommunale fagskolenes internkontroll. Bestemmelsen presiserer styrets plikt til å etablere og gjennomføre systematiske kontrolltiltak, såkalt internkontroll, som skal bidra til å sikre at virksomheten etterlever gjeldende lover og regler. Hvordan internkontrollen innrettes vil kunne variere ut fra virksomhetens størrelse, egenart mv. Departementet understreker at bestemmelsen ikke innebærer innskrenkninger i styrets alminnelige adgang til å delegere oppgaver. Den konkrete utarbeidelsen av rutiner og kontroll med etterlevelsen av rutiner kan delegeres til for eksempel daglig ledelse i tråd med den alminnelige adgangen til delegasjon fra styret. Dersom institusjonen ikke har etablert systematiske kontrolltiltak, kan dette møtes med reaksjoner som nevnt i §§ 34–37. Departementet kan presisere kravene til internkontroll i forskrift.
+
+*Fjerde ledd* er i all hovedsak en videreføring av gjeldende § 3 fjerde ledd. Bestemmelsen presiserer at det må være fastsatt særlig i fagskoleloven dersom adgang til delegasjon av beslutningsmyndighet er avskåret.
+
+*Til § 10 Styrets sammensetning*
+
+*Første ledd* er i all hovedsak ny, og erstatter også delvis gjeldende lov § 3 andre ledd andre punktum, jf. Prop. 44 L (2016–2017). Reguleringen fastsetter at fagskolens styre skal ha minst syv medlemmer. Dette er et minimum og en nedre grense, og styret kan bestå av flere medlemmer. Kravet om at minst to av styrets medlemmer skal ha bakgrunn fra relevant arbeids- og næringsliv gjelder uavhengig av antall medlemmer i styret. I kravet til relevant bakgrunn ligger det en skjønnsmessig vurdering som må foretas med utgangspunkt i det utdanningstilbudet som fagskolen har, opp mot den faglige bakgrunnen disse medlemmene har. Dersom det er et stort spenn i hvilke utdanningene som tilbys av den aktuelle fagskolen må dette tas med i vurderingen. Det er ikke et uttrykkelig krav at disse medlemmene må ha regional tilknytning, men de bør fortrinnsvis ha dette. Hvilke fordeler det vil være at medlemmene har regional eller lokal tilknytning til relevant arbeids- og næringsliv bør derfor vektlegges tungt i vurderingen av styremedlemmene.
