@@ -3,25 +3,25 @@
 Kudos oppgir bare nummeret («Meld. St. 17 (2023–2024)»), mens brukerne spør etter tittelen
 («Om integreringspolitikken») eller kortnavnet («integreringsmeldingen», «Lavlønnsutvalget»).
 
-- hovedtittel: leses fra forsiden i dokumentteksten. Finnes den ikke der, hentes den fra
-  dokumentsiden (lenken «Les hele dokumentet»), når siden kan nås. Lagres i dokumenter.tsv og
-  hentes ikke på nytt. «-» betyr at den ikke ble funnet.
+- hovedtittel: leses fra forsiden i dokumentteksten og lagres i dokumenter.tsv. «-» betyr at den
+  ikke ble funnet; da prøves det igjen ved neste kjøring (for eksempel etter at teksten er byttet ut
+  med tekst fra Word). Dokumentsiden på regjeringen.no kan ikke brukes: den gir 403 også fra GitHub
+  (test 14.11.2026).
 - kortnavn: utvalgsnavnet leses fra NOU-teksten («Lavlønnsutvalget ble oppnevnt …»). Andre kortnavn
   (for eksempel «integreringsmeldingen») står for hånd under «kortnavn» i dokumenter.json. En tom liste
   der betyr at dokumentet bevisst ikke har kortnavn. Nye meldinger og NOU-er uten kortnavn listes i
   kudos-rapport.txt, så de kan legges til.
 
-Bruk: python3 -I verktoy/titler.py [--side] [--vis]
-  --side  hent tittelen fra dokumentsiden når teksten ikke har den (krever nett)
+Bruk: python3 -I verktoy/titler.py [--alle] [--vis]
+  --alle  les hovedtittelen på nytt for alle dokumentene
   --vis   skriv ut tittel og kortnavn for alle, uten å lagre
 """
-import csv, html, json, os, re, sys, time, urllib.request
+import json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import deling  # noqa: E402
 
 ROT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-UA = "Mozilla/5.0 (offentlige dokumenter)"
 TYPER = ("NOU", "Melding til Stortinget", "Proposisjon til Stortinget")
 STOPP = re.compile(r"^(Utredning fra|Utgreiing frå|Tilråding|Tilråding frå|Det kongelige|Avgitt til|Til .*departementet|\(Regjeringen|\[Side|Innstilling|Meld\. St|Prop\. |NOU \d|\(\d{4}|Melding til Stortinget|Proposisjon til Stortinget|Omslag|Offentlige institusjoner|Departementenes sikkerhets|Bestilling|Internett|Telefon|E-post|.*www\.)", re.I)
 HOPP = re.compile(r"^(\(\d{4}\s*[–-]\s*\d{4}\)|Melding til Stortinget|Proposisjon til Stortinget.*|Norges offentlige utredninger|\d{4}: ?\d+)$", re.I)
@@ -30,6 +30,7 @@ UTVALG = re.compile(r"\b([A-ZÆØÅ][a-zæøå-]+(?:utvalget|kommisjonen|ekspert
 
 def rens(linje):
     linje = re.sub(r"<[^>]+>", "", linje)
+    linje = re.sub(r"^(Brø)+", "", linje)   # rest fra Word-konverteringen i noen eldre dokumenter
     linje = re.sub(r"[*_#]+", "", linje)
     return re.sub(r"\s+", " ", linje).strip(" |")
 
@@ -39,7 +40,7 @@ def nummer(tittel):
     return re.sub(r"\s*\(.*$", "", tittel).strip()
 
 
-def forside(rad, n=150):
+def forside(rad, n=400):
     fil = rad["fil"]
     del1 = os.path.join(deling.mappe(fil), "del-01.md")
     _, kropp = deling.les(del1 if os.path.exists(os.path.join(ROT, del1)) else fil)
@@ -61,14 +62,14 @@ def fra_tekst(rad):
                 continue
             if HOPP.match(m) and not ut:
                 continue
-            if STOPP.match(m) or len(m) > 160:
+            if STOPP.match(m) or len(m) > 400:
                 break
             ut.append(m)
         if ut:
             t = re.sub(r"\s+:", ":", " ".join(ut)).strip()
             t = re.sub(r"(?<=\S)– ", " – ", t)
             t = re.sub(r":(?=\S)", ": ", t)
-            if 3 <= len(t) <= 250 and not re.fullmatch(r"[\d\s:().–-]+", t):
+            if 3 <= len(t) <= 500 and not re.fullmatch(r"[\d\s:().–-]+", t):
                 return t
     if rad["type"] == "NOU":   # forsiden uten nummer: tittelen står rett over «Utredning fra …»
         for i, l in enumerate(linjer[:60]):
@@ -85,25 +86,6 @@ def fra_tekst(rad):
     return ""
 
 
-def fra_side(url):
-    """Tittelen fra dokumentsiden: og:title eller <title>, uten nummeret og nettstedsnavnet."""
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            s = r.read(400_000).decode("utf-8", "replace")
-    except Exception as e:
-        print(f"  {type(e).__name__} {getattr(e, 'code', '')}: {url}", flush=True)
-        return ""
-    for m in (re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"', s),
-              re.search(r"<h1[^>]*>(.*?)</h1>", s, re.S), re.search(r"<title>(.*?)</title>", s, re.S)):
-        if m:
-            t = html.unescape(re.sub(r"<[^>]+>|\s+", " ", m.group(1))).strip()
-            t = re.sub(r"\s*[-|–]\s*regjeringen\.no\s*$", "", t, flags=re.I)
-            if t:
-                return t
-    return ""
-
-
 def kortnavn(rad, hand):
     navn = list(hand.get(rad["tittel"], []))
     if rad["type"] == "NOU":
@@ -113,7 +95,7 @@ def kortnavn(rad, hand):
     return "|".join(navn)
 
 
-def oppdater(rader, side=False):
+def oppdater(rader, alle=False):
     """Fyller hovedtittel og kortnavn i radene (dict id → rad). Returnerer meldinger og NOU-er uten kortnavn."""
     oppsett = json.load(open(os.path.join(ROT, "dokumenter.json"), encoding="utf-8"))
     hand = oppsett.get("kortnavn", {})
@@ -124,14 +106,8 @@ def oppdater(rader, side=False):
     for r in rader.values():
         if r["type"] not in TYPER or not os.path.exists(os.path.join(ROT, r["fil"])):
             continue
-        if not r.get("hovedtittel") or (side and r["hovedtittel"] == "-"):
-            t = fra_tekst(r)
-            if not t and side and r.get("side"):
-                t = fra_side(r["side"])
-                if t.replace(" ", "") == r["tittel"].replace(" ", ""):
-                    t = ""
-                time.sleep(1)
-            r["hovedtittel"] = t or "-"
+        if not r.get("hovedtittel") or r["hovedtittel"] == "-" or alle:
+            r["hovedtittel"] = fra_tekst(r) or "-"
         r["kortnavn"] = kortnavn(r, hand)
         if r["type"] in ("NOU", "Melding til Stortinget") and not r["kortnavn"] and r["tittel"] not in hand:
             mangler.append(r["tittel"])
@@ -151,7 +127,7 @@ def visningstittel(r):
 def main():
     import kudos_hent
     rader = kudos_hent.les_oversikt()
-    mangler = oppdater(rader, side="--side" in sys.argv)
+    mangler = oppdater(rader, alle="--alle" in sys.argv)
     if "--vis" in sys.argv:
         for r in sorted(rader.values(), key=lambda r: (r["type"], r["ar"])):
             if r["type"] in TYPER:

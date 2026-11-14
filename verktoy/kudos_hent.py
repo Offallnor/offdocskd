@@ -347,7 +347,7 @@ def main():
     for rad in oversikt.values():
         merk_kvalitet(rad)
         deling.ordne(rad["fil"])
-    uten_kortnavn = titler.oppdater(oversikt, side=True)
+    uten_kortnavn = titler.oppdater(oversikt)
     skriv_oversikt(oversikt)
     skriv_veiviser(oversikt, typer)
     gjenstar = sum(1 for _, _, r in valgte if "KU-" + r["uuid"] not in oversikt) - len(feil)

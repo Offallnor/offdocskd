@@ -67,7 +67,7 @@ jobs:
           SOK: ${{ inputs.sok }}
           TITLER: ${{ inputs.titler && '1' || '' }}
         run: |
-          if [ -n "$TITLER" ]; then python3 -I verktoy/titler.py --side
+          if [ -n "$TITLER" ]; then python3 -I verktoy/titler.py --alle
           elif [ -n "$TEST" ]; then python3 -I verktoy/kudos_hent.py --test "$TEST"
           elif [ -n "$LISTE" ]; then python3 -I verktoy/kudos_hent.py --liste "$LISTE" --fra "$FRA" --sok "$SOK"
           else python3 -I verktoy/kudos_hent.py --maks "$MAKS" $DIAGNOSE $NY_TEKST; fi
