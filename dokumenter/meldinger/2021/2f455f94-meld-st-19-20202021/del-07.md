@@ -1,883 +1,200 @@
-# Meld. St. 19 (2020–2021), del 7 av 7 (side 75–86)
+# Meld. St. 19 (2020–2021), del 7 av 9
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2021/2f455f94-meld-st-19-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-19-20202021/id2839431/
 - Original-PDF: https://www.regjeringen.no/contentassets/e3ccd14012d3458db739786f20ea7a41/no/pdfs/stm202020210019000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 5 tabeller, 5 figurer, 43 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 75]
+## Dimensjonering av høyere utdanning
 
-2020–2021
+Norges framtid som kunnskapssamfunn avhenger i stor grad av hvor mange som tar høyere utdanning, hvilke utdanninger de tar, og hvilke karriereveier og bosteder de velger. Deltakelsen i høyere utdanning er i sin tur avhengig av demografien og samfunnsutviklingen for øvrig. Politikken på dette feltet må forene langsiktige målsettinger på samfunnsnivå med mer kortsiktige endringer i økonomien og hensynet til den enkeltes valgfrihet når det gjelder egen karriere. I det følgende brukes *dimensjonering* som en overordnet betegnelse på alle mekanismer som anvendes for å regulere det totale omfanget av norsk høyere utdanning, samt fordeling på fag og studiested, med sikte på å møte behovene og nå de langsiktige målene.
 
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
+Internasjonal utdanningsforskning har vist at dimensjoneringen av høyere utdanning i vestlige land før rundt 1960 for en stor del var basert på beregninger og antakelser om arbeidskraftsbehov, men at nesten alle ikke-kommunistiske land deretter la om til en dimensjonering som i hovedsak var tilpasset studentenes etterspørsel, noe som førte til en eksplosiv økning i studenttallene.[^33] Norge er et typisk eksempel på dette. Ottosen-komiteen la i sine innstillinger i perioden 1966–1970 til grunn at kapasiteten totalt sett burde dimensjoneres etter studentenes etterspørsel, mens arbeidskraftsbehovene burde spille inn ved fordelingen av kapasiteten på de enkelte utdanningene.[^34] Høyere utdanning har vært sett som et gode for den enkelte, både med tanke på karriere og dannelse, og som et kollektivt gode ved at det styrker konkurranseevnen og det sivile samfunnet. Siden det har vært et mål å tilby høyere utdanning til flest mulig av de kvalifiserte søkerne, og siden arbeidskraftbehovene har vært så vanskelige å forutsi, har løsningen vært å dimensjonere etter studiesøkingen. Videre har tanken vært at det heller er en vekselvirkning enn et motsetningsforhold mellom de to hensynene, blant annet gjennom at studentene over tid vil etterspørre studier som gir de beste karrieremulighetene.
 
-ver at det skal være nasjonale retningslinjer for
-hver enkelt utdanning. Disse retningslinjene er
-fastsatt av departementet med hjemmel i universitets- og høyskoleloven § 3-2 og er dermed rammeplaner i lovens forstand. For andre utdanninger er
-de nasjonale retningslinjene ikke fastsatt av departementet, og disse er ikke rammeplaner i lovens
-forstand. I tillegg til rammeplaner og retningslinjer er det andre rammer og styringsverktøy
-som påvirker flere av disse profesjonsutdanningene (se avsnitt 2.2.1).
-Ingeniørutdanning
-Forskrift om rammeplan for ingeniørutdanning
-§ 4 fastsetter at det skal utarbeides nasjonale retningslinjer for emnegrupper og enkelte emner i
-ingeniørutdanningen og indikatorer for hva som
-kjennetegner ingeniørutdanning av høy internasjonal kvalitet. Retningslinjene for ingeniørutdanning blir videreutviklet av Universitets- og
-høgskolerådet ved fagstrategisk enhet for matematikk, naturvitenskap og teknologi (UHR-MNT)
-og setter rammer for ingeniørutdanningen. Med
-utgangspunkt i disse fastsetter den enkelte institusjon studieplaner. Studieplanene har bestemmelser om studieretninger og faglig innhold, uttrykt
-gjennom krav til læringsutbytte på program-,
-studieretnings- og emnenivå. Studieplanene skal
-videre inneholde bestemmelser om organisering,
-læringsformer og vurderingsordninger.
-Lærerutdanningene
-Retningslinjene for de ulike lærerutdanningene
-blir forvaltet av Universitets- og høgskolerådet
-ved fagstrategisk enhet for lærerutdanning (UHRLU) og deres nasjonale fagorganer for ulike lærerutdanninger. I rammeplanene for de ulike lærerutdanningene blir retningslinjene beskrevet som
-«førende for institusjonenes arbeid», men det
-åpnes likevel for «et spenn mellom retningslinjene
-og det lokale planverket, med rom for nyskaping
-og institusjonell tilpasning».
-Helse- og sosialfagutdanningene
-Etter at forskrift om felles rammeplan for helseog sosialfagutdanninger ble vedtatt høsten 2017,
-har det pågått et stort arbeid med å utvikle nasjonale retningslinjer innenfor disse fagene kalt RETHOS (retningslinjer for helse- og sosialfagutdanninger). I alt er det utviklet retningslinjer for 20
-grunnutdanninger, hvorav 8 tidligere hadde rammeplaner. I tillegg er det hittil 14 master- og vide-
+Etter hvert som høyere utdanning er blitt bygget ut og studiesteder er blitt etablert rundt i landet, har også tilbudsstrukturen i seg selv fått stor betydning for dimensjoneringen. Høyere utdanning er en spesialisert virksomhet, og når fagmiljøer først er etablert, vil det være en tendens til at kompetansen i miljøene også blir bestemmende for studieporteføljen, kanskje vel så mye som etterspørselen blant studenter eller arbeidsgivere, i hvert fall på kort sikt. Behovet for en bredde av forskningsmiljøer som også må omfatte spesialiserte fag uten store arbeidskraftsbehov, er et annet hensyn som spiller inn.
 
-73
+For enkelte fagområder og utdanninger, særlig lærerutdanninger og helseutdanninger, har departementet i tillegg til den generelle dimensjoneringsdynamikken som er beskrevet ovenfor, drevet en viss sentralstyrt dimensjonering utfra arbeidskraftbehov. For en del profesjonsutdanninger (blant annet medisin, psykologi, veterinærutdanning, sivilingeniørutdanning og siviløkonomutdanning) har opptakskapasiteten begrenset kandidatproduksjonen. De studiene som i realiteten har vært mest direkte dimensjonert etter studiesøkernes preferanser har vært disiplinstudiene, altså studiefag som ikke er innrettet mot bestemte yrker. Dette så man tydelig i de to «studenteksplosjonene» i årene 1967–73 og 1988–1995, da særlig humanistiske og samfunnsvitenskapelige studier vokste mye mer enn andre fagområder, hovedsakelig på grunn av stor studenttilstrømning og tilgang på økt og lite øremerket statlig finansiering i en periode med høy ungdomsledighet.
 
-reutdanninger som enten har fått eller vil få nasjonale retningslinjer. Noen av disse har tidligere
-hatt rammeplaner.
-Retningslinjene skal være av overordnet
-karakter slik at det er rom for lokale profiler på
-utdanningene. De definerer en nasjonal minstestandard for sluttkompetansen som studentene
-skal oppnå på den enkelte utdanning. Retningslinjene skiller seg fra de gamle rammeplanene ved
-at det er læringsutbyttebeskrivelsene som skal
-styre innholdet i utdanningen. Opptakskrav,
-emnevis fordeling på studiepoeng, og praksistid
-fordelt på praksisarena er ikke omtalt slik som i
-de gamle rammeplanene.
-Retningslinjene utvikles av deltakere fra universiteter og høyskoler i samarbeid med deltakere fra helse- og velferdstjenestene og en studentrepresentant. Det er universitetene og høyskolene og tjenestene som selv foreslår kandidater til Kunnskapsdepartementet. Studentrepresentanten foreslås av Norsk studentorganisasjon.
-Retningslinjearbeidet er et samarbeid mellom
-fire departementer: Arbeids- og sosialdepartementet, Barne- og familiedepartementet, Helseog omsorgsdepartementet og Kunnskapsdepartementet. Departementene deltar i en styringsgruppe som gir overordnede innspill til arbeidet.
-Arbeidet ledes av Kunnskapsdepartementet, som
-også fastsetter retningslinjene.
+Siden Bologna-prosessen og EUs Lisboa-strategi rundt tusenårsskiftet har dimensjoneringen i mange europeiske land blitt mer mål- og indikatorstyrt, med økt vekt på økonomiske insentiver rettet både mot institusjonene og studentene for å øke gjennomføringen av kurs og grader. Det nye finansieringssystemet som ble innført i norsk høyere utdanning i 2002, var en del av denne trenden. Det innebar en ny form for dimensjonering ved at politikken og finansieringsmekanismene nå i større grad omfattet hele sektoren samlet, betraktet som et felles utdanningsmarked, mens styringen tidligere hadde vært mer direkte rettet mot hver enkelt institusjon. Samtidig fikk institusjonene endrede fullmakter til å opprette, legge ned og dimensjonere utdanningstilbud. Dette innebar at universitetene og høyskolene fikk økt ansvar og innflytelse over dimensjoneringen, samtidig som de fikk insentiver som skulle motivere dem til å tiltrekke seg studenter og få dem til å gjennomføre. Systemet var likevel en videreføring av hovedlinjen siden Ottosen-komiteen i den forstand at det fortsatt først og fremst ble tilpasset studentetterspørselen.
 
-4.4.2
+I de senere årene har det vært en økende tendens til å vektlegge arbeidsmarkedets kompetansebehov igjen. I mange land, så vel som i OECD og EU, ser man dette i politiske målsettinger om at studentenes «employability» skal styrkes. Dette innebærer sjelden krav om at innholdet i studiene skal «yrkesrettes», slik man så enkelte forsøk på i 1980-årene, eller pålegg om at dimensjoneringen skal følge framskrivinger av arbeidskraftbehovene direkte. I stedet har man lagt vekt på at utdanningene skal gi framtidens arbeidstakere relevante kunnskaper og ferdigheter som setter dem i stand til å utvikle seg gjennom hele karrieren. Det forutsetter blant annet dialog mellom arbeidslivet og utdanningsinstitusjonene og en felles forståelse av hva som er samfunnets kompetansebehov. Slik vil også kandidatene få bedre informasjon om arbeidsmarkedsbehovene og økt bevissthet om relevansen av kompetansen de tilegner seg, uavhengig av hvilket studieprogram de har valgt. Men enkelte land, for eksempel Danmark og Finland, har også tatt i bruk økonomiske insentiver for å bidra til at institusjonenes dimensjonering i større grad tar hensyn til kandidatenes arbeidsmarkedsutfall. I Norge har de nasjonale myndighetene særlig vektlagt arbeidsmarkedsbehovene gjennom øremerking av midler til bestemte studier i de årlige budsjettene.
 
-Begrunnelsen for dagens styring av
-profesjonsutdanningene
-Behovet for en nasjonal samordning varierer mellom ulike utdanninger. Når det gjelder utdanningene som leder fram til bestemte yrker, er det
-behov for å sikre at utdanningenes innhold svarer
-til de kravene de nyutdannede møter i arbeidslivet. Dette gjelder særlig når utdanningen er
-grunnlag for autorisasjon. Når slike utdanninger
-tilbys ved flere læresteder, har også arbeidslivet
-behov for trygghet om at en del grunnleggende
-kompetanse er felles for alle kandidater.
-Den norske enhetsskolen er for eksempel
-bygd på tanken om at alle elever skal ha like
-muligheter. Derfor er det viktig at lærerne som
-skal arbeide i skolen, har en utdanning av en tilsvarende standard uavhengig av hvor de er utdannet. I helsevesenet er det på samme måte viktig at
-personellet har kompetanse som er i tråd med
-pasientenes og brukernes behov. Dette krever
-utdanning av høy og likeverdig kvalitet samme
-hvor personellet har studert. Dette er viktig både
-av hensyn til kravet om likeverdige tjenester og av
-hensyn til pasientsikkerhet.
+### Dagens system
 
-[Side 76]
+I Norge, som i de fleste andre land, har dimensjoneringen av høyere utdanning i dag et todelt formål:
 
-74
+- å møte studentenes etterspørsel etter utdanning
 
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
+- å møte arbeidslivets behov for kvalifisert arbeidskraft
 
-Ingeniørutdanningene ble evaluert av NOKUT
-i tidsrommet 2006–2008.20 Selv om evalueringen
-konkluderte med at den faglige kvaliteten i alle
-utdanninger ble ansett for å være «stort sett god»,
-inneholdt den en rekke anbefalinger om hvordan
-utdanningene kunne videreutvikles. Anbefalingene pekte blant annet på en manglende nasjonal
-samordning av utdanningstilbudet og behov for
-tiltak innenfor rekruttering, forskningsbasert
-utdanning, pedagogisk kompetanse, internasjonalisering og mer. NOKUTs evaluering dannet
-utgangspunkt for en revisjon av rammeplanen for
-ingeniørutdanning. Både av utdanningene selv og
-i arbeidslivet er revisjonen sett på som et viktig
-bidrag til samordning av ingeniørutdanningene,
-og den viser hvordan rammeplanstyring kan fungere positivt. Interne evalueringer gjort i universiteter og høyskoler viser også at arbeidet med
-rammeplan og retningslinjer har vært viktig for å
-utvikle en nasjonal standard for disse utdanningene.
-Arbeidet med rammeplanene for de helse- og
-sosialfaglige utdanningene har sin bakgrunn i to
-stortingsmeldinger: I Meld. St. 13 (2011–2012)
-Utdanning for velferd: Samspill i praksis ble det
-vist til at helse- og velferdstjenestene ikke hadde
-god nok innflytelse på det faglige innholdet i
-utdanningene. Mange mente at studentene i
-helse- og sosialfagutdanningene i større grad må
-forberedes på arbeidsoppgavene og arbeidsmåtene i framtidens helse- og velferdstjenester.
-For å oppnå dette må både tjenestene og brukerne i større grad involveres i utformingen av
-innholdet i utdanningene.
-I Meld. St. 16 (2016–2017) Kultur for kvalitet i
-høyere utdanning slo regjeringen fast at de daværende rammeplanene var blitt for statiske og ikke i
-tilstrekkelig grad holdt følge med endringer i
-kompetansebehovene. Meldingen konkluderte
-med at det var behov for en nasjonal styring av
-disse utdanningene for å sikre at helse- og velferdstjenestene får en større innflytelse over relevante
-utdanninger, at sluttkompetansen til nyutdannede
-kandidater imøtekommer felles minimumskrav,
-og at tjenestenes kompetansebehov og brukernes
-behov for kvalitet i tjenestene dekkes. For å sikre
-arbeidslivsrelevans utvikles retningslinjene i egne
-programgrupper bestående av like mange representanter fra universitets- og høyskolesektoren og
-fra helse- og velferdstjenestene. I tillegg er det
-med en studentrepresentant. Både brukerorgani20
+Dimensjoneringen har i hovedtrekk foregått på samme måte siden Kvalitetsreformen, selv om det har vært løpende diskusjoner, evalueringer og justeringer. Stjernø-utvalget hadde omfattende omtale av dimensjonering i 2008, og i 2015 ble finansieringssystemet gjennomgått av en ekspertgruppe.[^35] I begge tilfeller ble resultatet en videreføring av det etablerte systemet. Den viktigste substansielle endringen siden 2002 er innføringen av en egen indikator for ferdige kandidater i finansieringssystemet i 2017. Hensikten var å gi et insentiv for bedre gjennomføring av hele gradsutdanninger, og dermed sluttkompetanse som er etterspurt i arbeidslivet.
 
-«Evaluering av ingeniørutdanningen i Norge 2008: Sammendrag av viktige konklusjoner og anbefalinger», Nasjonalt organ for kvalitet i utdanning, 2008.
+I det følgende gis en kort omtale av de viktigste virkemidlene sentrale myndigheter rår over i dimensjoneringen av norsk høyere utdanning.
 
-2020–2021
+Finansiering
 
-sasjoner, fag- og interesseorganisasjoner, arbeidsgivere og universiteter og høyskoler bidrar med
-innspill i utviklings- og revisjonsarbeidet. For å
-unngå at retningslinjene blir for statiske, skal de
-revideres ved behov.
+Finansiering er et av de kraftigste virkemidlene i dimensjoneringen av høyere utdanning. Ettersom utdanning er gratis for studentene (gratisprinsippet), er den statlige finansieringen helt avgjørende for kapasiteten ved de statlige lærestedene. I tillegg til tildelingene til utdanningskapasitet som fordeles direkte av departementet, påvirkes rammebevilgningen av et indikatorbasert system der studiepoengproduksjon, uteksaminerte kandidater og utvekslingsstudenter gir uttelling. Hensikten er å gi institusjonene insentiver til å etablere studier som studentene etterspør, og bidra til at studentene lykkes med å ta eksamener og til slutt oppnår en grad, samtidig som de legger til rette for studieopphold utenlands. Ved behov for økt utdanningskapasitet utover det som følger av den indikatorbaserte uttellingen, blir de økte midlene ofte rettet inn mot fagområder der bevilgende myndigheter identifiserer udekkede behov. Ved tilføring av økte midler setter departementet samtidig en forventning om en bestemt økning i utdanningskapasiteten. Finansieringssystemet er omtalt nærmere i avsnittene 2.2.2 og 4.2.
 
-4.4.3
+Etatsstyring
 
-Bør profesjonsutdanningene styres
-mindre detaljert?
-Universitets- og høyskolelandskapet har utviklet
-seg markant de siste tiårene. Antallet institusjoner
-som tilbyr ingeniør-, lærer- og sykepleierutdanning, har blitt mindre. Mange av disse utdanningene tilbys nå av universiteter og av store fagmiljøer, gjerne spredd på flere studiesteder. Gjennom bruk av blant annet rammeplaner og retningslinjer som viktige kvalitetsdrivende verktøy
-har utdanningene endret seg. Det er økende oppmerksomhet rundt kontakten med arbeids- og
-samfunnsliv og verdien av arbeidslivsrelevans.
-Styringen av profesjonsutdanningene har vært et
-diskusjonstema i løpet av hele 2000-tallet, og
-endringene i sektoren de siste årene har lagt et
-grunnlag for at utdanningene kan styres noe
-annerledes framover.
-Mjøs-utvalget leverte i 2000 utredningen NOU
-2000: 14 Frihet med ansvar: om høgre utdanning og
-forskning i Norge. Den ble et viktig utgangspunkt
-for endringene i norsk høyere utdanning på 2000tallet og la grunnlaget for Kvalitetsreformen. Et
-sentralt budskap i rapporten ligger i nettopp tittelen. Det er den akademiske og institusjonelle friheten som er grunnlaget for gode universiteter og
-høyskoler: «Kravet til høgre utdanning om nytte
-og relevans kan best ivaretas av institusjoner med
-stor grad av autonomi. Dette åpner for variasjon
-og fleksibilitet, for styrkede endringsvilkår og
--muligheter, og det er også et av de idealer som tilhører det tradisjonelle norske lærested.» Utredningen kobler slik akademisk og institusjonell frihet til gode resultater. Utvalget understreker også
-at det er fagmiljøene som står for den mest verdifulle faglige utviklingen: «Det mest sentrale for
-institusjonenes bidrag til kompetansereformen er
-at fagmiljøene selv ønsker å delta i utvikling av
-gode kurs- og utdanningstilbud som personer og
-bedrifter har interesse av. Til dette kreves
-interesse og vilje fra fagmiljøene, men også kunnskap om behovene for kompetanseutvikling i
-arbeidslivet.»
-Styring gjennom rammeplaner og retningslinjer har vært tema for flere utredninger og meldinger etter Mjøs-utvalget. Stjernø-utvalget påpekte i
-utredningen NOU 2008: 3 Sett under ett: Ny struktur i høyere utdanning at å regulere innholdet i en
+Som etatsstyrende departement har Kunnskapsdepartementet en formalisert styringsdialog med universitetene og høyskolene, blant annet gjennom tildelingsbrev, rapportering, etatsstyringsmøter og tilbakemeldingsdokumenter (se avsnitt 2.3). I denne styringsdialogen vurderer departementet dimensjoneringen av studietilbudene ved de enkelte institusjonene i lys av de overordnede målene, basert på institusjonenes rapportering og øvrig tilgjengelig statistikk. For en del profesjonsutdanninger bruker departementet i tillegg såkalte kandidatmåltall for å følge utviklingen. Kandidatmåltallene angir et minimumsnivå på kandidatproduksjonen, og er delvis basert på tildelte studieplasser og i noen grad på anslag over arbeidskraftbehovene. I de senere årene har dimensjoneringen også blitt tematisert i forbindelse med utviklingsavtaler.
 
-[Side 77]
+Regler for opprettelse av studietilbud
 
-2020–2021
+Norske universiteter og høyskoler har høy grad av frihet til å opprette nye studieprogrammer. Et nytt program må akkrediteres for å sikre kvaliteten, enten av egen institusjon eller av NOKUT, avhengig av fullmaktene som følger av institusjonskategorien. Hvis institusjonen ikke allerede har rett til å tildele den relevante graden, må det i tillegg søkes til departementet om dette, noe som i de fleste tilfeller innvilges dersom akkrediteringen og formalitetene for øvrig er i orden. Noen av de lengre profesjonsutdanningene har egne grader, og slike studieprogrammer kan dermed ikke opprettes før institusjonen får rett til å tildele den aktuelle graden. Dette gjelder medisin, veterinærmedisin, psykologi, rettsvitenskap og teologi. Hensynet til samlede kostnader for staten og behov for likeverdig sluttkompetanse i sentrale profesjoner har vært blant begrunnelsene for sentral regulering av nyetablering i disse utdanningene. Aune-utvalget og flere andre aktører har imidlertid reist spørsmålet om disse begrunnelsene er tilstrekkelige i dagens situasjon, eller om det bør åpnes for flere nyetableringer også i disse fagene.
 
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
+Statistikk, framskrivinger og annen informasjon
 
-utdanning ikke er noen garanti for kvalitet, og
-argumenterte for å avskaffe rammeplaner. Utvalget anerkjente behovet for at utdanningene måtte
-oppfylle faglige standarder og minstekrav fra
-yrkesfeltene der kandidatene skal arbeide, men la
-vekt på at kvalitet best oppnås gjennom utøving av
-faglig skjønn kombinert med god faglig ledelse,
-og at avskaffelse av rammeplanene ville kunne gi
-rom for lokale tilpasninger i samarbeid med regionale virksomheter.
-I 2011 kom Meld. St. 13 (2011–2012) Utdanning for velferd: Samspill i praksis, der et av hovedbudskapene var at kompetansen til nyutdannede
-kandidater ikke var godt nok rettet mot behovene
-i de tjenestene de ble utdannet til. Tilrådingen
-gikk på at tjenestene skulle få større innflytelse på
-innholdet i utdanningene.
-I kvalitetsmeldingen (Meld. St. 16 (2016–2017)
-Kultur for kvalitet i høyere utdanning) oppsummeres innspillene til meldingen slik: «Kritikken går
-på at de [rammeplaner] begrenser den faglige friheten til institusjonene, at de hemmer
-nytenkning, og at de delvis er i utakt med utviklingen i tjenestene, skolene og annet relevant
-arbeidsliv.» I meldingen sa regjeringen seg enig i
-mye av denne kritikken, og uttrykte at bruken av
-rammeplaner på sikt skulle reduseres.
-Innspillene til denne meldingen har mye til felles med innspillene til kvalitetsmeldingen. Innspillene kan summeres i noen hovedargumenter:
-– Utvikling og nyskaping krever fleksibilitet og faglig frihet. Det er gjennomgående i innspillene at
-de fleste utdanningsinstitusjoner og samfunnsaktører mener at en noe mindre detaljert styring av profesjonsutdanningene vil gjøre det
-smidigere å kontinuerlig utvikle disse utdanningene i samarbeid med arbeidslivet enn i
-dag. Et mindre rigid system gir rom for mer
-utprøving og raskere tilpasning til de stadig
-skiftende behovene i arbeidslivet. Mange
-peker på at det er fagmiljøene selv som er tettest på utdanningene, og slik er mest kompetente til å utvikle disse utdanningene videre i
-samspill med arbeidslivet. Et større faglig eierskap er også motiverende for dem som driver
-utdanningene. Alt i alt blir det argumentert for
-at noe mindre detaljert styring vil føre til utdanninger som er mer innovative, og som i enda
-større grad enn i dag endrer seg i takt med
-behovene i samfunnet.
-– Mindre detaljert styring gir rom for utdanningsprofiler som spiller på institusjonenes ulike styrker. De fleste innspillene erkjenner at det er viktig at profesjonsutdanningene utdanner kandidater som har en felles kompetanse som holder
+Statistikk, framskrivinger og annen informasjon om studiesøking, arbeidsmarkedsbehov og andre forhold som har betydning for dimensjoneringen av høyere utdanning, har i seg selv ingen direkte styrende virkning. Men siden et godt kunnskapsgrunnlag er så avgjørende for alle aktører som skal treffe beslutninger i høyere utdanning – universiteter og høyskoler, departement og direktorater, studiesøkere og andre – er det grunn til å tenke på tilgjengeliggjøring av god informasjon som et viktig dimensjoneringsvirkemiddel i seg selv. En NIFU-rapport om institusjonenes dimensjonering av studietilbud fra 2019 indikerer at kunnskapsgrunnlaget i dag er mangelfullt, særlig når det gjelder arbeidsmarkedsbehovene.[^36] Dette er nærmere omtalt nedenfor.
 
-–
+Opptaksregler
 
-–
+Systemet for opptak og reglene for konkurranse om studieplasser har stor betydning for dimensjoneringen. Forbindelsen er imidlertid kompleks og innebærer en del tilsynelatende selvmotsigelser. For eksempel er høye opptakskrav ofte forbundet med prestisje, noe som kan bidra til økt studiesøking og etterspørsel etter kandidatene blant arbeidsgivere. Hvis studietilbudet økes som respons på denne etterspørselen, risikerer man imidlertid at prestisjen synker, noe som igjen kan føre til mindre etterspørsel. Blant annet på grunn av slike mekanismer er det ikke opplagt hvordan opptaksreglene kan innrettes for å bidra til å realisere målene for dimensjoneringen. Attraktiviteten og opptakskravene er også avhengige av forhold utenfor utdanningssektoren, særlig karrieremuligheter og rekrutteringsmønstre i arbeidslivet. Men det vil være viktig å unngå en situasjon hvor man over tid enten har uvanlig høye opptakskrav i kombinasjon med knapphet på studietilbud, eller overkapasitet i kombinasjon med lave opptakskrav. Regjeringen har varslet at det skal nedsettes et utvalg som skal vurdere opptakssystemet for høyere utdanning.
 
-–
+I tillegg til de virkemidlene og mekanismene som er beskrevet ovenfor, er det en rekke andre forhold som har en mer indirekte virkning på dimensjoneringen, for eksempel tilgang på studiefinansiering, andelen som studerer utenlands, tilgang på praksisplasser og kulturelle strømninger som påvirker utdanningsvalg. Slike forhold må også tas med i betraktning i det løpende arbeidet med dimensjonering.
 
-75
+### Målsettinger og utfordringer
 
-samme minstestandard uavhengig av lærested.
-De peker også på de gode hensiktene bak en
-slik styring. De fleste understreker imidlertid
-også at større fleksibilitet til å utvikle utdanninger som er basert på institusjonenes egenart,
-vil gi utdanninger som holder faglig høyere
-kvalitet. Dette fordi de bedre kan bygge på
-ulike institusjoners faglige satsinger og tradisjoner.
-Mer fleksibilitet gir større rom for regional tilpasning. Mange innspill peker på at det å gi utdanningsinstitusjonene mer fleksibilitet i å utvikle
-utdanningene også vil gjøre dem bedre i stand
-til å treffe behovene i det lokale arbeidsmarkedet mer presist. Noen stiller også spørsmål ved
-om en del av dagens detaljerte rammeplaner
-og retningslinjer hindrer institusjonene i å ta ut
-potensialet i en slik tilpasning.
-Et nytt institusjonslandskap bør føre til endret
-styring av profesjonsutdanningene. Det som tidligere var små og mellomstore høyskoler, er i
-stadig større grad blitt en del av universiteter
-eller store høyskoler. Slik har mange av miljøene som står bak profesjonsutdanninger, blitt
-større og støtter seg på sterkere forskningsmiljøer og samlet sett høyere pedagogisk kompetanse. Dette gir muligheter for tettere koblinger mellom forskning og undervisning og
-forskningsbaserte utdanninger. Mange argumenterer for at dette bør bety at disse miljøene
-nå må få større tillit og mer styring over egne
-utdanninger.
-Nødvendig samarbeid kan organiseres av institusjonene og arbeidslivet selv. Mange mener at
-det endrede landskapet i høyere utdanning i
-Norge vil gjøre det enklere for institusjonene å
-koordinere aktiviteter og tiltak på nasjonalt
-nivå der det er nødvendig. At dette allerede i
-dag skjer innenfor lærerutdanning og ingeniørfag, i samarbeid med arbeidslivet, blir brukt
-som et argument for at dette fungerer godt.
+Ekspertgruppen som gikk gjennom finansieringssystemet i 2015, ga antakelig uttrykk for en utbredt oppfatning da de kom til følgende konklusjon: «Dimensjoneringen av norsk høyere utdanning fungerer stort sett godt».[^37] Denne konklusjonen bygget utvalget på følgende situasjonsbeskrivelse: «Det er lav arbeidsledighet og lav mistilpasning blant ferdige kandidater. Studentene velger i hovedsak i samsvar med arbeidsmarkedets behov, men det finnes samtidig utfordringer med å skaffe nok arbeidskraft til viktige yrker i samfunnet.»
 
-4.4.4
+Sammenlignet med andre land og med tidligere lavkonjunkturer i Norge er denne beskrivelsen fortsatt dekkende, særlig når det gjelder arbeidsledighet blant høyt utdannede – men med et forbehold om effektene av koronakrisen. Samtidig vet vi at nasjonale gjennomsnittstall kan skjule problematiske ubalanser, slik OECDs rapport om norsk høyere utdanning fra 2018 pekte på.[^38] For eksempel har mistilpasningen (i form av ledighet, irrelevant arbeid, ufrivillig deltid, o.a.) lenge vært relativt høy innenfor deler av humaniora, som humaniorameldingen fra 2017 viste, og underdekningen på en del utdanningstyper i arbeidsmarkedet (blant annet sykepleiere, IKT-utdannede, barneskolelærere og psykologer) har vært vedvarende, for det meste i distriktene.[^39] Erfaring har vist at slike ubalanser har en viss sammenheng, særlig i perioder der demografien gir knapphet på studiesøkere, noe befolkningsstatistikken viser at vi vil få i kommende år. Selv om det store bildet i dag ikke ser så galt ut sammenlignet med andre land, mener regjeringen at disse ubalansene har såpass store konsekvenser for enkeltpersoners karrieremuligheter og for bedrifter og velferdstjenester at endringer i dimensjoneringen bør vurderes for å bedre samsvaret mellom studiesøkingen og arbeidsmarkedsbehovene.
 
-Videre styring for bedre kvalitet og
-relevans i profesjonsutdanningene
-Regjeringen mener nå at tiden er moden for å justere styringen av de rammeplanstyrte profesjonsutdanningene. Utdanningsinstitusjonene bør gis
-noe mer fleksibilitet til å utvikle disse utdanningene i samspill med arbeidslivet og med blikk på
-regionale behov. Rammeplanene fastsatt av departementet skal gi de overordnede rammene for
-strukturen og innholdet i utdanningene, men ikke
-det konkrete faglige innholdet. Innenfor disse
-overordnede rammene vil det være hensiktsmes-
+Samtidig er det også et mål for regjeringen at høyere utdanning, i tillegg til å kvalifisere for viktige oppgaver i arbeidslivet, skal bidra til å øke det generelle kunnskapsnivået i samfunnet og legge til rette for den enkeltes dannelsesprosess. Norge har lenge vært et land der en relativt stor andel av befolkningen har høyere utdanning. I 2017 lå Norge på tiendeplass i OECD når det gjelder andelen 25–34-åringer med fullført høyere utdanning. Det er et viktig mål for regjeringen at vi fortsatt skal ha en høy andel av befolkingen med høyere utdanning. Regjeringen ser derfor med en viss bekymring på at det i senere år har vært en vekst i antall og andel kvalifiserte studiesøkere som ikke får tilbud om studieplass. Dette er en utvikling Kunnskapsdepartementet vil følge nøye med på framover. Det kan være sammensatte årsaker til denne søkerstatistikken, og det er ikke gitt at tilbud om studieplass i høyere utdanning er det beste alternativet i alle tilfeller. For mange kan for eksempel høyere yrkesfaglig utdanning ved en fagskole være et godt alternativ. Dimensjoneringen av universitets- og høyskoleutdanning og fagskoleutdanning bør derfor ses mer i sammenheng, og det bør legges til rette for mer samspill mellom de to utdanningssektorene. Men det er like fullt et nasjonalt mål at kapasiteten i høyere utdanning må stå i et rimelig forhold til etterspørselen blant utdanningssøkerne.
 
-[Side 78]
+Regjeringen har gjennom Meld. St. 14 (2019–2020) *Kompetansereformen – Lære hele livet* signalisert ambisjoner om å åpne universitetene og høyskolene i større grad for livslang læring. Både tidligere studenter og personer med en annen bakgrunn og høy realkompetanse skal få økte muligheter til å heve og oppdatere sin kompetanse, blant annet for å styrke sin stilling på arbeidsmarkedet. Dette vil ha konsekvenser for dimensjoneringen. Universitetene og høyskolene forventes å utvikle fleksible og relevante studietilbud for disse gruppene, og Kunnskapsdepartementet vil bidra til å realisere kompetansereformens målsettinger gjennom virkemidler som beskrives nærmere i Meld. St. 16 (2020–2021) *Utdanning for omstilling: Økt arbeidslivsrelevans i høyere utdanning*.
 
-76
+Som ledd i det kompetansepolitiske arbeidet har regjeringen også en klar ambisjon om å sikre god dekning av studietilbud for befolkningen i hele landet, blant annet på bakgrunn av stadig økende krav til utdanning og kompetanse i arbeidslivet. Gjennom regionreformen har fylkeskommunene fått en forsterket rolle som kompetansepolitisk aktør, noe som fordrer et godt samarbeid med universitetene og høyskolene. For at det skal være mulig å ta universitets- og høyskoleutdanning og fagskoleutdanning uavhengig av bosted og livssituasjon, har regjeringen varslet en egen strategi om desentralisert og fleksibel utdanning. Strategien skal etter planen legges fram sommeren 2021.
 
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
+Økende betydning av utdanning og kompetanseutvikling i regionene
 
-sig med ytterligere samordning for å ivareta en
-felles standard. Nasjonale retningslinjer som går
-nærmere inn på det faglige innholdet, vil bli
-utviklet i samarbeid mellom utdanningsinstitusjoner og arbeidslivet. De vil sette rammene for institusjonene ved utviklingen av studieplaner, men
-ikke være formelt sett bindende.
-De rammeplanstyrte profesjonsutdanningene
-har stor betydning for samfunnet. De utdanner
-kandidater til yrker som er spesielt viktige for velferdsstaten. Kvaliteten på utdanningene må være
-jevnt god. Institusjonene møter høye forventninger både fra regjeringen, arbeidsgiverne og
-brukergrupper av studenter, pasienter og andre.
-Derfor er det viktig med åpenhet om kvaliteten og
-resultatene av undervisning og forskning i disse
-fagene.
-I tillegg til rammeplaner og retningslinjer
-benytter regjeringen en lang rekke virkemidler
-som til sammen bidrar til å sikre kvaliteten i
-utdanningene. Eksempler på slike virkemidler er
-evalueringer og kartlegginger av utdanningsfelt
-og enkeltutdanninger ved NOKUT, innhenting av
-ulike data fra utdanningsinstitusjonene, nasjonale
-deleksamener, Studiebarometeret og tilsyn med
-institusjonenes systematiske kvalitetsarbeid ved
-NOKUT.
-En annen måte å følge opp kvaliteten ved institusjoner og utdanninger på er gjennom departementets styringsdialog. En slik styring må bygge
-på prinsippene om at den skal være dialogbasert,
-differensiert, strategisk og kunnskapsbasert, som
-beskrevet i kapittel 3. Styringsdialogen følger opp
-kvalitetsutfordringer ved enkelte utdanninger ved
-enkelte institusjoner. Dersom det er nasjonale
-utfordringer for en utdanning som eksempelvis blir
-avdekket i en fagevaluering, vil dette også kunne
-følges opp i styringsdialogen med alle universiteter
-og høyskoler som tilbyr denne. Nasjonal styring
-kan videre skje gjennom strategiske midler, aktivitetskrav og annen spesifikk resultatoppfølging.
-Ingeniørutdanning
-Rammeplanen og de nasjonale retningslinjene for
-bachelor i ingeniørfag vil bli videreført som i dag.
-Regnskap og revisjon
-Bachelorstudiet i regnskap og revisjon er under
-avvikling på grunn av nye utdanningskrav for
-autorisering som revisor og regnskapsfører. Siste
-kull med studenter ble tatt opp i 2018. Rammeplan
-og nasjonale retningslinjer for utdanningen blir
-dermed ikke berørt av denne meldingen.
+Sysselsettingsutvalget (NOU 2021: 2 *Kompetanse, aktivitet og inntektssikring: Tiltak for økt sysselsetting*) viser at kravene til kompetanse i norsk arbeidsliv har økt over tid. Teknologisk utvikling i kombinasjon med høy innvandring kan bidra til at det blir vanskeligere for enkelte å etablere seg i arbeidsmarkedet, og det vil bidra til å øke behovet for læring og kompetanse. Koronapandemien legger ytterligere press på en rekke næringer og øker behovet for omstilling. Det kan føre til behov for rekvalifisering av arbeidstakere i næringer som vil være preget av nedleggelser og høy ledighet framover.
 
-2020–2021
+Distriktsnæringsutvalget (NOU 2020: 29 *Næringslivets betydning for levende og bærekraftige lokalsamfunn*) og demografiutvalget (NOU 2020: 15 *Det handler om Norge: Utredning om konsekvenser av demografiutfordringer i distriktene*) framhever utdanningssystemets viktige rolle for tilgangen til kvalifisert arbeidskraft i en region. Nye arbeidsformer og teknologisk utvikling har gjennom mange tiår gradvis frigjort arbeidskraft fra arbeidsoppgaver innenfor primærnæringene, industrien, bygge- og anleggsvirksomhet og tjenestenæringer som varehandel, kommunikasjon og administrasjon. Det er likevel ikke gitt at den arbeidskraften som frigjøres som følge av nye arbeidsformer og teknologisk utvikling, automatisk kan settes inn i vekstnæringer. Det er fare for at en del mennesker kan falle ut av arbeidsstyrken fordi de mangler etterspurt kompetanse.
 
-Lærerutdanningene
-For lærerutdanningene tar Kunnskapsdepartementet sikte på å starte arbeidet med nye og mer
-overordnede rammeplaner. I tråd med denne
-meldingen bør det i rammeplanene gis mer handlingsrom framover for lærerutdanningene. Dette
-skjer i samarbeid med utdanningsinstitusjonene
-og arbeidslivet og er i tråd med strategien Lærerutdanning 2025: Nasjonal strategi for kvalitet og
-samarbeid i lærerutdanningene.
-Utdanningsinstitusjonene, i kontakt med relevant arbeids- og næringsliv, skal sørge for samordnet praksis for hvilket læringsutbytte som skal
-ligge til grunn i lærerutdanningene. I dag blir
-dette gjort gjennom nasjonale retningslinjer som
-er førende for utdanningene. Disse retningslinjene
-beskriver en minstestandard. Det bør vurderes om
-nasjonale retningslinjer, eller tilsvarende mekanismer for å sikre mest mulig lik praksis og samordnede krav til læringsutbytte, skal utformes på en
-annen måte enn i dag for å beskrive en nasjonal
-minstestandard. Det er Universitets- og høgskolerådet som i dag, på vegne av aktørene fra utdanningssektoren og arbeidslivet, koordinerer arbeidet med retningslinjene. Det er naturlig at UHR
-koordinerer arbeidet med å se på retningslinjene
-på nytt, både når det gjelder hvor detaljerte de skal
-være, og hvordan de skal være utformet.
-Prosessene med nye rammeplaner og nye
-retningslinjer må ses i sammenheng.
-Helse- og sosialfagutdanningene
-Helse- og sosialfagutdanningene utdanner kandidater til helse-, omsorgs- og velferdstjenester. For
-å kunne levere nødvendige og forsvarlige tjenester til pasienter og brukere må tjenestene ha personell med riktig og god kompetanse. Personellet
-yter i mange tilfeller livsviktige tjenester. Dermed
-er det særlig viktig at disse utdanningene sikres
-en nasjonal minstestandard for kompetanse, noe
-som er viktig både for å oppnå likeverdige helsetjenester og av hensyn til kvalitet og pasientsikkerhet. Dette utgjør en viktig rammebetingelse
-i vurderingen av den videre utviklingen.
-Helse- og sosialfagutdanningene er nå inne i
-en prosess med utvikling av nasjonale retningslinjer (RETHOS). De første retningslinjene ble
-fastsatt i 2019, og det er fortsatt flere under planlegging. Det er nært samarbeid mellom representanter fra helse- og velferdstjenestene og universitetene og høyskolene om å utvikle innholdet i
-retningslinjene. Både tjenestene og brukerorganisasjoner har i økende grad blitt oppmerksom på
+\[Boks slutt\]
 
-[Side 79]
+Universitetenes og høyskolenes ansvar
 
-2020–2021
+Regjeringen har ved flere anledninger, senest i kvalitetsmeldingen og humaniorameldingen, understreket at institusjonene ved styret har et ansvar for å dimensjonere porteføljene sine i tråd med både studiesøkingen og arbeidsmarkedsbehovene. Styrene har ansvar for å trekke opp strategien for den faglige virksomheten og for å disponere ressursene for å nå målene som er satt av overordnede myndigheter. Når det gjelder dimensjoneringen, er sektormålene om god tilgang til utdanning og om velferd, verdiskaping og innovasjon sentrale. NIFU-rapporten om institusjonenes arbeid med dimensjonering viser imidlertid at institusjonene i all hovedsak dimensjonerer etter studiesøkernes preferanser, og at de i praksis har vanskelig for å omprioritere i tråd med endrede behov. Dette skyldes blant annet fagpersonalets spesialisering og at det har etablert seg en dynamikk hvor grunnenhetene ved institusjonene opplever å «tjene» de studiepoengene de produserer, og dermed har «eierskap» til forvaltningen av en del av midlene.[^40] Både finansieringskategoriene for de ulike fagene i finansieringssystemet, systemet med studieplasstildelinger og trekk ved den interne organiseringen ved institusjonene synes å bidra til dette. Det rapporteres også at institusjonene synes kunnskapsgrunnlaget om arbeidsmarkedsbehovene er vanskelig å forholde seg til. Videre er det en utfordring for institusjonene at en del studenter som har fått opptak, ikke møter til studiestart, noe som har ført til en praksis med «overbooking». Kontakten med arbeidslivet gjennom det lovpålagte rådet for samarbeid med arbeidslivet (RSA) har varierende betydning.
 
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
+Det kan på denne bakgrunnen reises spørsmål ved om institusjonenes ansvar for å ivareta dimensjoneringen i tråd med det todelte målet er tydelig nok kommunisert, eller om det bør klargjøres at styret forventes å gjøre omprioriteringer, også mellom fakulteter og grunnenheter, når endrede behov i samfunnet tilsier dette. Regjeringen har forståelse for at historisk betingede trekk ved institusjonene kan gjøre omprioriteringer vanskelige. Løpende omstilling er likevel helt nødvendig for å sikre levedyktige institusjoner. Regjeringen vil gjennom en mer institusjonstilpasset styringsdialog, slik den er beskrevet i avsnitt 4.1, følge opp den enkelte institusjons ansvar for dimensjonering av utdanningskapasiteten. Regjeringen har klare forventinger til at det gjøres løpende vurderinger av regionale og nasjonale kompetansebehov og hvordan kapasitet og innretning på studieporteføljen kan innrettes før å møte disse. Framtidig vekst i utdanningskapasitet innenfor prioriterte områder vil ikke bare kunne finansieres med økte tildelinger, institusjonene må selv bidra ved å gjøre nødvendige omprioriteringer. Regjeringen mener derfor at det må vurderes endringer og tiltak som gjør det lettere for institusjonenes styrer å ta dette ansvaret. Slike endringer og tiltak omtales nærmere nedenfor.
 
-muligheten for innflytelse på innholdet i utdanningene, og involveringen fra deres side er
-økende. Det pågående arbeidet med RETHOS må
-følgelig gå videre som planlagt og virke noe tid før
-effektene kan evalueres.
-NOKUT vil evaluere implementeringen i 2021.
-Senere vil styringen, organiseringen, implementeringen og resultatene bli evaluert, og denne
-evalueringen vil strekke seg til 2025. Kunnskapsdepartementet vil samarbeide med Arbeids- og
-sosialdepartementet, Barne- og familiedepartementet og Helse- og omsorgsdepartementet om
-evalueringen.
-Med grunnlag i evalueringen vil det bli bestemt
-om også disse utdanningene skal styres som lærerog ingeniørutdanningene. Slik er det naturlig at
-ulike utdanninger har ulik framdrift når det gjelder
-rammeplanstyring og utvikling av retningslinjer.
+Sentrale myndigheters ansvar
 
-4.4.5 Tiltak
+På grunn av gratisprinsippet er det de statlige tildelingene som i all hovedsak er bestemmende for den totale kapasiteten i høyere utdanning. Samlet kapasitet er dermed i siste instans sentrale myndigheters ansvar. Regjeringen har også ansvar for å sørge for at institusjonsstrukturen er hensiktsmessig ut fra nasjonale ambisjoner og behov. Når det gjelder fordelingen av kapasiteten på ulike utdanninger, har regjeringen et overordnet ansvar, men en stor del av beslutningene er her overlatt til institusjonene, i tråd med tanken om at institusjonelt selvstyre over tid vil gi bedre måloppnåelse enn detaljert sentralstyring. På noen områder spiller imidlertid Kunnskapsdepartementet en direkte rolle gjennom kandidatmåltallene og øremerking av tildelinger til utdanningskapasitet. Det vil også framover være behov for en viss nasjonal styring av dimensjoneringen av utdanningskapasiteten.
+
+Generelt har økte bevilgninger vært nødvendig for å øke det totale tilbudet av høyere utdanning i takt med at søkertallene har økt de siste tiårene. I tillegg har det vært behov for en særskilt mekanisme for å sikre at det bygges opp kapasitet innenfor politisk prioriterte områder. En del av ressursøkningen til økt kapasitet har dermed blitt øremerket til prioriterte fagområder eller utdanninger. Disse prioriteringene har variert over tid, og de har for eksempel omfattet IKT-utdanninger og utdanninger som er viktige i forbindelse med miljøspørsmål, men de mest stabile prioriteringene fra politisk hold har vært lærer- og helseutdanningene, som det har vært stor etterspørsel etter i arbeidsmarkedet.
+
+Den nåværende praksisen med tildelinger øremerket til bestemte utdanninger kan også ha noen uheldige sider. Det kan lett bli slik at særskilte tildelinger utover gjeldende rammer i praksis blir en forutsetning for å endre dimensjoneringen når behovene endrer seg, noe som kan gjøre det mindre aktuelt for institusjonene å gjøre omprioriteringer innenfor egen ramme. Ved øremerkede tildelinger kan det også være en utfordring å forene de politiske målsettingene med de konkrete forholdene ved de ulike institusjonene, for eksempel når det gjelder søkergrunnlag, tilgang på praksisplasser og andre faglige ressurser. Videre er det behov for mer og bedre kunnskap om kompetansebehovene på studieprograms- og institusjonsnivå, gjerne knyttet til konkrete regionale kompetansebehov, for å sikre at sentrale myndigheters beslutninger får et best mulig grunnlag.
+
+Også i framtiden vil det være behov for en mekanisme som kan supplere institusjonenes egne dimensjoneringsbeslutninger, slik at sentrale myndigheter i siste instans kan sikre nødvendig kompetanse på enkelte områder og at helheten i de nasjonale behovene blir ivaretatt. En aktuell modell er tildeling av særskilt finansering gjennom åpen konkurranse, som i Dikus kvalitetsprogrammer. Modellen er også brukt for å tildele fagskoleplasser og utviklingsmidler i fagskolesektoren, og noe lignende ser vi også i bransjeprogrammene i Kompetanse Norge. Regjeringen mener denne modellen bør brukes i større utstrekning, også som en mekanisme for å bygge opp kapasitet innenfor bestemte områder som er politisk prioritert, eller hvor det er identifisert et udekket behov. På den måten kan sentrale myndigheter målrette innsatsen bedre gjennom å fastsette tydelige tildelingskriterier, samtidig som institusjonene i større grad enn i dag kan velge om den aktuelle prioriteringen treffer deres profil, fagmiljø, søkergrunnlag og regionale arbeidsmarked i en slik grad at de vil søke.
+
+For å bidra til å øke institusjonenes oppmerksomhet om behovene innenfor enkelte profesjonsutdanninger, herunder lærer- og helseutdanninger, har Kunnskapsdepartementet tatt i bruk såkalte kandidatmåltall som angir hvor mange den enkelte institusjon minst forventes å uteksaminere per år fra den aktuelle utdanningen. Kandidatmåltallene brukes som grunnlag for etatsstyringen, og er fastsatt av departementet på bakgrunn av historiske data over uteksaminerte kandidater, studieplasstildelinger i senere år og grove anslag over de regionale arbeidskraftbehovene. Regjeringen vurderer det slik at kandidatmåltallene ikke har et tilstrekkelig klart formål, og som indikasjon på arbeidskraftsbehovene har de måltallene som settes, ikke godt nok grunnlag til å være pålitelige. I tillegg bør bruken av slike indikatorer i større grad baseres på det reelle søkergrunnlaget ved de ulike institusjonene. Hvilke alternative metoder som kan erstatte dagens kandidatmåltall, bør blant annet ses i sammenheng med utviklingen av et helhetlig analyse- og informasjonssystem om behovene for høyt utdannet arbeidskraft.
+
+Informasjon om arbeidslivets kompetansebehov
+
+En viktig forutsetning for at dimensjoneringen av høyere utdanning skal kunne møte kompetansebehovene i arbeidslivet, er best mulig informasjon om hva disse behovene består i. Som nevnt ovenfor trenger Kunnskapsdepartementet og andre aktører på nasjonalt nivå et bedre kunnskapsgrunnlag om kompetansebehovene som grunnlag for sine beslutninger. Men god informasjon er vel så viktig som grunnlag for et velfungerende søkermarked i høyere utdanning.
+
+Fordi dimensjoneringen av utdanningstilbudet i høy grad er drevet av søkerne, er studiesøkerne i realiteten svært innflytelsesrike beslutningstakere. Samtidig vet vi at jobbmulighetene etter utdanningen er den nest viktigste faktoren ved valg av utdanning, etter faglig interesse, ifølge den nasjonale kartleggingen av unges utdannings- og yrkesvalg.[^41] Da er det også viktig at studiesøkerne har tilgang til kvalitetssikret og relevant informasjon om hvilke kompetansebehov og karrieremuligheter de ulike utdanningene peker mot. I dag er tilgangen til slik informasjon varierende, noe som innebærer en risiko for at studievalg treffes på sviktende grunnlag.
+
+Universitetene og høyskolene er også avhengige av informasjon for å kunne utvikle sine studietilbud og dimensjonere kapasiteten i tråd med arbeidslivets kompetansebehov. NIFUs rapport om institusjonenes arbeid med dimensjonering har imidlertid vist at institusjonene for en stor del mangler anvendelig informasjon om de konkrete arbeidsmarkedene som er relevante for deres studieporteføljer. Regjeringen mener derfor at det er nødvendig med et systematisk arbeid for å tilgjengeliggjøre bedre informasjon, noe som vil bidra til å trekke både institusjonenes oppmerksomhet og søkernes preferanser i retning av arbeidsmarkedets behov.
+
+Å frambringe informasjon om framtidige kompetansebehov er imidlertid krevende. Behovene kan endres på grunn av konjunktursvingninger, teknologiutvikling, bransjers vekst og fall, velferdstjenesters organisering, og flere andre forhold, noe som gjør framskrivinger usikre. En del av problemet med å få oversikt skyldes at arbeidsmarkedsbehovene varierer regionalt, samtidig som det er vanskelig å forutse de nyutdannede kandidatenes mobilitet. Kompetansesammensetningen i befolkningen påvirkes dessuten av blant annet aldring og migrasjon.
+
+I tillegg kompliseres bildet av at ulike aktører, som interesseorganisasjoner og sektorinteresser, arbeider aktivt for å øke kapasiteten i bestemte utdanninger, blant annet gjennom å produsere egne beskrivelser av behovet. I noen tilfeller ser vi også at det er aktører som ønsker å nedtone behovene. Resultatet kan være et uoversiktlig bilde som er vanskelig å bruke som grunnlag for dimensjoneringsbeslutninger.
+
+Kunnskapsdepartementet har gjennom årene fått utarbeidet en rekke analyser av arbeidsmarkedsbehovene, men uten at dette har vært utviklet til et helhetlig system, med unntak for lærerutdanningene og helseutdanningene.[^42] Med opprettelsen av Kompetansebehovsutvalget (se boks 4.6) er det lagt et godt grunnlag, men det er behov for videre utvikling slik at vi får et mer heldekkende system som kan møte bredden i informasjonsbehovene. De ulike aktørene (universitetene og høyskolene, sentrale myndigheter i kunnskapssektoren, sektordepartementene, studiesøkere, virksomheter og offentligheten for øvrig) vil i noen grad ha overlappende informasjonsbehov, eller behov som kan dekkes ved hjelp av de samme datakildene, men det vil også være behov for mer skreddersydd datainnsamling og analysearbeid.
+
+Kompetansebehovsutvalget
+
+Det regjeringsoppnevnte Kompetansebehovsutvalget (KBU) skal frambringe den best mulige faglige vurderingen av Norges framtidige kompetansebehov. Dette skal danne grunnlag for planlegging og strategiske kompetansebeslutninger – for både myndigheter og arbeidslivet, regionalt og nasjonalt.
+
+KBU ble først oppnevnt i 2017 for en treårsperiode. Våren 2020 ble det besluttet at utvalget skulle videreføres fram til 2026, men med justert mandat og ny organisering.
+
+\[Boks slutt\]
+
+Ikke minst er det avgjørende at informasjonen formidles på måter som er tilpasset de ulike målgruppene. Det må særlig skilles mellom informasjonsbehovene hos tre ulike brukergrupper: sentrale beslutningstakere, de enkelte universitetene og høyskolene, og studiesøkerne. Kompetansebehovsutvalgets rapporter har for eksempel vist seg å ha stort gjennomslag som grunnlag for politikkutforming hos strategiske aktører, blant annet fordi utvalgsarbeidet kombinerer forskningsbaserte analyser med konsensusskapende drøftinger innenfor rammen av trepartssamarbeidet om kompetansepolitikken. Slike rapporter er imidlertid uegnet som beslutningsgrunnlag for den enkelte studiesøker. For studiesøkerne er det viktig at informasjon om kompetansebehov, ledighet og arbeidsmarkedsrelevans for den enkelte utdanning formidles og visualiseres gjennom tilpassede kanaler, som ofte vil være digitale plattformer. Universitetene og høyskolene vil ha informasjonsbehov som er knyttet til konkrete fagfelt, bransjer og regioner, samtidig som denne brukergruppen kan nyttiggjøre seg av litt andre typer analyser enn studiesøkerne.
+
+Et analyse- og informasjonssystem som skal ha høy troverdighet må være forskningsbasert, og må derfor være forankret i et kompetent utrednings- og analysemiljø. Det nye Direktoratet for høyere utdanning og kompetanse vil ha gode forutsetninger for å ta ansvar for et slikt system. Direktoratet vil kunne legge til rette for balansert bruk av framskrivninger i kombinasjon med spørreundersøkelser, registerdata og stordata om både arbeidsgiver- og arbeidstakersiden. I tillegg til informasjon om mer generelle utviklingstrekk er det behov for spesifikk informasjon om en rekke profesjoner, programmer, sektorer og bransjer. Særlig må det legges vekt på å skaffe bedre informasjon om arbeidsmarkedssituasjonen for ulike fagfelt på regionalt nivå. Analyse- og informasjonssystemet må dessuten utvikles i dialog med berørte parter – herunder universitetene og høyskolene, partene i arbeidslivet, sektordepartementer og andre sektorinteresser – slik at det får allmenn tilslutning som en kvalitetssikret og balansert kilde til informasjon. Kunnskapsdepartementet vil i denne sammenhengen også se på mulighetene for å legge enda bedre til rette for god dialog med sektordepartementene om samfunnets utdanningsbehov.
+
+På regionalt nivå er det etablert kompetansefora i alle landets fylker med bred representasjon fra sentrale kunnskapsaktører, inkludert universiteter og høyskoler, fylkeskommunene, partene i arbeidslivet, fagskoler og NAV. Fylkeskommunene har fått et større strategisk ansvar for den regionale kompetansepolitikken, og fungerer som sekretariat for foraene. I forbindelse med et helhetlig analyse- og informasjonssystem om nasjonale og regionale kompetansebehov er det viktig å konsolidere og styrke kunnskapsflyten mellom institusjonene for høyere utdanning regionalt og regionale samhandlingsstrukturer. Analyse- og informasjonssystemet om kompetansebehov i det nye Direktoratet for høyere utdanning og kompetanse avgrenses mot NAVs rolle og ansvar på samme område.
+
+Nyetablering i enkelte fag
+
+Kvalitetsreformen i 2003 etablerte en totrinns prosess for godkjenning av nye studieprogrammer. Først må de akkrediteres, enten av egen institusjon eller av NOKUT, for å sikre den akademiske kvaliteten og relevansen for arbeidslivet. Deretter må institusjoner som ikke allerede har rett til å tildele den relevante graden, søke Kunnskapsdepartementet om dette. For de generelle gradene bachelor og master har godkjenningen vært tilnærmet automatisk. Noen profesjonsutdanninger er integrerte og har egne grader utenom den vanlige bachelor/master-strukturen. Dette gjelder medisin, veterinærmedisin, psykologi, rettsvitenskap og teologi. Noen har antatt at det bare er disse gradene som er regulerte, men så er ikke tilfellet. Formelt krever alle nye gradsrettigheter en endring av gradsforskriften (forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler).
+
+I realiteten har det vært tre grunner til at det har vært ønskelig å begrense nyetableringer i noen av utdanningene med egne grader: 1) ekstraordinært kostnadsnivå i medisin og veterinærmedisin, 2) behov for å unngå for store variasjoner i sluttkompetanse, blant annet fordi regulering av yrkesutøvelse hviler på de aktuelle gradene, og 3) behov for en helhetlig samordning av knappe fag- og forskningsressurser.
+
+Aune-utvalget, som har utredet ny universitets- og høyskolelov, tar opp begrensningene for nyetablering i disse fagene. Et mindretall gir en omfattende begrunnelse for å gå bort fra den restriktive linjen. De mener den favoriserer enkelte universiteter på en usaklig måte, og fører til at det utdannes for få leger, jurister og psykologer. Flertallet mener dagens praksis bør videreføres, og viser til behovet for konsentrasjon av fagmiljøene. Medisinstudiet er i tillegg utredet av Grimstad-utvalget. Her anbefalte halve utvalget at det åpnes for at flere enn dagens institusjoner kan få gradsrettighet, forutsatt akkreditering.[^43]
+
+Regjeringen mener dagens regelverk med totrinns behandling som beskrevet ovenfor fungerer godt og bør videreføres. Problemet er ikke gradsforskriften, men at det hittil har vært for uklart hvilke kriterier vurderingene bygger på. Regjeringen deler vurderingen som er anført av mindretallet i Aune- og Grimstad-utvalgene, og mener det er uheldig at enkelte utdanninger har vært begrenset til et fåtall institusjoner. Det er dokumentert etterspørsel i arbeidsmarkedet og hos studentene, særlig etter medisin, rettsvitenskap og psykologi. Begrensningen fører også til en konsentrasjon av disse utdanningene til et lite antall byer og hemmer kvalitetsfremmende konkurranse i sektoren.
+
+Regjeringen vil derfor at universiteter og høyskoler som får akkreditert studietilbud for de særskilte profesjonsgradene i psykologi, rettsvitenskap og teologi, framover vil bli gitt rett til å tildele graden. Regjeringen vil be alle institusjoner som ønsker å etablere disse studietilbudene, om å søke akkreditering i NOKUT. En slik akkrediteringsprosess innebærer en omfattende ekstern kvalitetsvurdering av sakkyndig komité, inkludert krav til studietilbudet og fagmiljøet, og en vurdering av om studiene er i tråd med gjeldende regelverk, slik som studiekvalitetsforskriften og Nasjonalt kvalifikasjonsrammeverk. For psykologi vil dette også innebære krav om at studietilbudet er i tråd med nasjonal rammeplan og retningslinjer. For rettsvitenskap vil regjeringen vurdere behovet for felles sluttkompetanse for jurister i dialog med Justis- og beredskapsdepartementet og berørte universiteter og høyskoler.
+
+Det er ekstraordinære kostnader knyttet til eventuelle nyetableringer i profesjonsutdanningene i medisin og veterinærmedisin. Det er allerede nedsatt en interdepartemental arbeidsgruppe for å vurdere en kapasitetsøkning for medisinutdanningene og oppfølgingen av Grimstad-utvalget. Arbeidsgruppen vurderer hvordan en kapasitetsøkning kan gjennomføres basert på en helhetsvurdering av blant annet behov, rekrutteringsgrunnlag, kvalitet i studiemodeller og kost/nytte-vurderinger. Regjeringen anerkjenner at det er behov for økt kapasitet i medisinutdanningen. Regjeringen vil på bakgrunn av dette ta initiativ til en nasjonal prosess om dimensjonering av medisinutdanningen i årene framover, og vil i den sammenheng vurdere om denne skal inkludere flere institusjoner enn i dag. Prosessen skal involvere universitets- og høyskolesektoren og de regionale helseforetakene, og bidra til at nasjonale behov kan dekkes med god ressursutnyttelse og høy kvalitet på studietilbudet. Regjeringen mener at det ikke er behov for en tilsvarende prosess for veterinærmedisin.
+
+Regjeringen vil understreke at denne praksisendringen ikke innebærer at institusjoner som får nye gradsrettigheter, automatisk får økte bevilgninger. Finansiering og fordeling av eventuelle midler til nye studieplasser vil håndteres gjennom ordinære budsjettprosesser. Egne gradsrettigheter er heller ikke til hinder for samarbeid om fellesgrader og andre former for samarbeid, og institusjonene må vurdere hva som er mest hensiktsmessig gitt disse forutsetningene.
+
+Nedleggelse av fag
+
+Nedleggelse av fag er i utgangspunktet universitetenes og høyskolenes ansvar. I likhet med nyetableringer og omdisponeringer må nedleggelser i prinsippet ses som en naturlig del av institusjonenes løpende arbeid med å tilpasse den faglige virksomheten til behovene i samfunnet og til akademias egne behov for videre faglig utvikling. Nedleggelse av fag henger ofte sammen med svekket studentrekruttering, noe som kan gjøre det vanskelig å opprettholde fagmiljøet og studietilbudet. Men nedleggelser kan også bli aktuelt på grunn av endringer i institusjonens strategiske planer. I svært små og spesialiserte fag kan nedleggelse henge sammen med karriereskift eller alderspensjon hos enkeltpersoner.
+
+Det er oftest innenfor humaniora, som av historiske grunner har mange små fag, at nedleggelser fra tid til annen kommer på agendaen. Det dreier seg ofte om mindre språkfag eller spesialiserte kulturfag med få ansatte og få studenter. I arbeidet med Meld. St. 25 (2016–2017) *Humaniora i Norge* fikk departementet mange innspill om at dynamikken rundt nedleggelse av små humaniorafag er problematisk. Diskusjonene om nedleggelse er ofte langvarige og kan innebære splittelser ved institusjonene. Vanskeligst er det hvis et fag skal legges ned ved den siste norske institusjonen som tilbyr faget. Da mobiliserer ofte de ansatte, tidligere ansatte, studenter og støttespillere for å bevare faget, først overfor beslutningsorganer ved institusjonen, deretter i offentligheten. Argumentet mot nedleggelse er gjerne at faget ivaretar et nasjonalt behov, selv om den enkelte institusjon ikke ser seg tjent med å opprettholde det.
+
+Som oppfølging av humaniorameldingen nedsatte departementet en ekspertgruppe som skulle komme med forslag til løsninger på småfagsproblemet (se boks 4.7).
+
+Ekspertgruppen om utsatte humaniorafag
+
+Ekspertgruppen besto av professor Einar Lie (Universitetet i Oslo, gruppens leder), professor Kjersti Fløttum (Universitetet i Bergen), prodekan Julie Sommerlund (Københavns universitet) og økonomidirektør Kjetil Hellang (Universitetet i Agder). På bakgrunn av mandatet drøfter ekspertgruppens rapport prinsipielle sider ved porteføljeforvaltningen i humaniorafagene, herunder virkningene av institusjonenes bruk av finansieringskategoriene og spørsmålet om såkalt kryssubsidiering, som utgangspunkt for en gjennomgang av småfagsproblemet. Risikoen for uheldige nedleggelser av fag som samfunnet har behov for drøftes opp mot risikoen for uheldig konservatisme hvis man ikke aksepterer nedleggelser. Ekspertgruppen definerer et *utsatt fag* som et fag «som er tenkt lagt ned ved en institusjon som tilbyr dette som siste gjenværende fag nasjonalt.»
+
+Med dette som utgangspunkt drøfter gruppen hvordan ulike former for særfinansiering kan komme til å virke i universitets- og høyskolesektoren. Utvalget drøfter blant annet den danske småfagsordningen og konkluderer med at denne kan få uheldige virkninger som ansvarsfraskrivelse og konservatisme i porteføljeforvaltningen hvis den innføres i Norge.
+
+Utvalget anbefaler i stedet en «beredskapsløsning» som i gitte situasjoner kan rettes mot fag som oppfyller følgende tre kriterier:
+
+- at faget er nedleggingstruet på nasjonalt nivå
+
+- at det er tale om et tilbud på masternivå
+
+- at det gjelder fag som universiteter og høyskoler tilbyr og som fyller nærmere bestemte samfunnsbehov
+
+Etter ekspertgruppens vurdering er det i dag ingen fag som er nedleggingstruet etter den definisjonen de legger til grunn. Beredskapsløsningen er derfor en løsning for en mulig framtidig situasjon der et studiefag på masternivå som det er klart behov for, er i ferd med å bli nedlagt av den siste institusjonen som tilbyr det. I et slikt tilfelle foreslår gruppen at departementet tilbyr en institusjon å finansiere to førsteamanuensisstillinger over fem år, mot at institusjonen selv finansierer to stillinger, slik at det til sammen blir fire stillinger, noe gruppen anser som et minimum.
+
+\[Boks slutt\]
+
+Ekspertgruppen leverte sin rapport høsten 2019. Høringsrunden i etterkant viste at selv om mange av dem som uttalte seg, mente at utvalgsrapporten var klar og tydelig i sin analyse og i sine forslag, var det få som sluttet seg til anbefalingene. Mange var kritiske og mente at «utsatte fag» var definert for snevert, at problemet var større enn analysen viste, og at beredskapsordningen ikke var en god nok løsning på problemet.
+
+Regjeringen deler ekspertgruppens bekymring for at en ordning med statlig særfinansiering kan resultere i uheldige strategiske tilpasninger. Med en slik ordning kan det dessuten bli vanskelig for institusjonene å gjennomføre nødvendige omstillinger. På den andre siden kan ikke Kunnskapsdepartementet som overordnet ansvarlig være uten virkemidler hvis institusjonene gjennomfører nedleggelser som kan være velbegrunnede hver for seg, men som samlet sett fører til at landet eller en større region står uten fagtilbud som det er klare behov for.
+
+Nå som både styringssystemet og flere av virkemidlene for dimensjonering er oppe til drøfting, kan spørsmålet om utsatte humaniorafag ses i en større sammenheng enn det lå an til da man besluttet å utrede ulike former for særfinansiering. Som denne meldingen understreker, er det institusjonene selv som har ansvar for å dimensjonere i tråd med samfunnets behov. Allikevel vil det også i framtiden kunne være nedleggelser der det er uenighet om hvorvidt samfunnsbehovene er blitt godt nok ivaretatt. Kunnskapsdepartementet vil i slike tilfeller vurdere om det er nødvendig å be det nye Direktoratet for høyere utdanning og kompetanse om å utrede i hvilken grad konkrete samfunnsbehov vil bli stående udekket som konsekvens av en nedleggelse (se omtale av direktoratets rolle når det gjelder arbeidsmarkedsbehov ovenfor). På grunnlag av direktoratets utredning vil Kunnskapsdepartementet i samråd med berørte sektordepartementer kunne vurdere om det er behov for tiltak fra sentralt hold for å videreføre et faglig tilbud på området. Når det gjelder humaniorafagene, har høringen av ekspertgruppens rapport vist at det ofte er Kulturdepartementet som er relevant sektordepartement, men det kan også være andre departementer.
+
+Regjeringen vil understreke at en slik framgangsmåte er ment å dekke behovet for det ekspertgruppen kalte en «beredskapsmodell», som kun skal tas i bruk helt unntaksvis. Det vanlige må være at institusjonen som vurderer nedleggelse, selv utreder samfunnsbehovene, og viderefører faget dersom samfunnsbehovene tilsier det.
+
+I tilfeller hvor det likevel er behov for tiltak fra sentralt hold, vil det være naturlig å konsultere institusjonene og relevante fagmiljøer, for eksempel gjennom UHRs strategiske enheter, blant annet for å avklare om det aktuelle faget har naturlig tilknytning til andre fag eller fagmiljøer. Kunnskapsdepartementet vil så på bakgrunn av direktoratets utredning og konsultasjon med relevante aktører beslutte om tiltak skal iverksettes gjennom styringsdialogen med en eller flere institusjoner, eller gjennom en åpen konkurranseutlysning gjennom det nye direktoratet.
+
+Egenbetaling
+
+I Meld. St. 14 (2019–2020) *Kompetansereformen – Lære hele livet* varslet regjeringen at den ville utrede mulige endringer i egenbetalingsforskriften for høyere utdanning. Regjeringen ønsker at helheten i regelverket skal bli bedre gjennom å se egenbetalingsforskriften i sammenheng med regelverket om offentlig støtte og reglementet om statlige universiteter og høyskolers forpliktende samarbeid, jf. rundskriv F-07-13 (BOA-regelverket). Gratisprinsippet skal ligge fast. Regjeringens mål er å gjøre høyere utdanning tilgjengelig for flere, uavhengig av livssituasjon. Et regelverk som er tydeligere og enklere enn dagens, og som tilrettelegger for en enhetlig praktisering i sektoren, er ett av virkemidlene. Regjeringen vil derfor sende forslag til endringer i egenbetalingsforskriften på en bred høring. Endringene som departementet foreslår, skal gjøre regelverket for egenbetaling mer fleksibelt og åpne for at statlige universiteter og høyskoler i større grad enn i dag kan tilby utdanninger mot egenbetaling. Utdanningene skal være særlig tilrettelagt for personer med arbeidserfaring. Formålet med endringene i egenbetalingsforskriften er at regelverket skal gi institusjonene større fleksibilitet og handlingsrom og å bedre kunne å tilpasse utdanningstilbudene til arbeidslivets og samfunnets behov.
+
+### Tiltak
+
 Regjeringen vil:
-–
 
-–
+- holde fast ved at målene for dimensjonering av utdanningskapasiteten er å dekke studentenes etterspørsel etter utdanning og arbeidslivets behov for kvalifisert arbeidskraft
 
-–
+- tydeliggjøre på egnet måte institusjonenes ansvar for dimensjonering i tråd med begge målene, og stille klare forventinger til at det gjøres løpende vurderinger av dette, blant annet i forbindelse med styringsdialogen og utviklingsavtalene
 
-at rammeplaner for de rammeplanstyrte utdanningene skal gjøres mer overordnede og
-mindre detaljerte, og at retningslinjer ikke skal
-forskriftsfestes. Dette skjer i ulikt tempo for
-ulike utdanninger.
-at utviklingen av retningslinjer skal skje gjennom nasjonale samarbeidsorganer styrt av
-utdanningsinstitusjonene selv og med deltakelse fra representanter for arbeidslivet.
-Dette skjer i ulikt tempo for ulike utdanninger.
-at styringen av helse- og sosialfagutdanningene
-gjennom RETHOS skal opprettholdes inntil
-videre. RETHOS evalueres i perioden 2021–
-2025. Kunnskapsdepartementet skal samarbeide med Arbeids- og sosialdepartementet,
-Barne- og familiedepartementet og Helse- og
-omsorgsdepartementet om evalueringen.
-Utfallet av evalueringen vil være førende for
-om de to første punktene skal gjelde for helseog sosialfagutdanningene.
+- utvikle et helhetlig analyse- og informasjonssystem om de nasjonale og regionale behovene for høyt utdannet arbeidskraft rettet mot studiesøkere, universiteter og høyskoler og myndigheter. Ansvaret for analyse- og informasjonssystemet plasseres i Direktoratet for høyere utdanning og kompetanse, og systemet skal baseres på Kompetansebehovsutvalgets analyser og tilknyttende prosesser.
 
-4.5
+- bruke konkurransearenaen for utdanning i det nye direktoratet som et sentralt virkemiddel for fordeling av særskilte tildelinger
 
-Sammenslåing av direktorater
-og statlig eide aksjeselskaper
-innenfor høyere utdanning og
-kompetansepolitikk
+- bruke det nye Direktoratet for høyere utdanning og kompetanse til å utrede samfunnsbehov i forbindelse med omdiskuterte nedleggelser av utsatte fag (jf. Lie-utvalgets utredning om små humaniorafag), og beslutte om tiltak er nødvendig i samråd med berørte sektordepartementer
 
-Regjeringen har besluttet å slå sammen flere virksomheter til Direktoratet for høyere utdanning og
-kompetanse med virkning fra 1. juli 2021. Units
-digitale tjenesteleveranser organiseres sammen
-med Uninett AS og deler av NSD i et eget tjeneste-
+- gå gjennom dagens bruk av kandidatmåltall og vurdere alternative virkemidler
 
-77
+- tildele gradsrettigheter innenfor rettsvitenskap, psykologi og teologi til de institusjonene som får akkreditering av NOKUT. Finansiering og fordeling av eventuelle midler til nye studieplasser håndteres gjennom den ordinære budsjettprosessen.
 
-leveranseorgan, som etableres 1. januar 2022. Den
-faglige friheten, institusjonenes selvstyre og gjensidig tillit ligger til grunn for departementets styring av de statlige universitetene og høyskolene.
-Kunnskapsdepartementet skal fortsette å ha en
-god styringsdialog direkte med det enkelte universitet og den enkelte høyskole. Med en mer
-strategisk styring og økt vektlegging av utviklingsavtalene legger regjeringen opp til mer
-skreddersydd styring av de ulike institusjonene.
-Slik legges det til rette for en mangfoldig sektor
-der hver enkelt institusjon kan utvikle seg innenfor det den har best forutsetninger for, og samtidig bidra best mulig til den nasjonale måloppnåelsen. Samtidig forventes det at institusjonene
-bidrar til å nå overordnede nasjonale mål for å
-sikre en god samfunnsutvikling.
-Noen oppgaver kan med fordel utføres på
-tvers av universitetene og høyskolene. Vi trenger
-effektive forvaltningsorganer som kan legge til
-rette for at universiteter og høyskoler kan oppnå
-gode resultater. Norge trenger et forvaltningsapparat som bidrar til at vi lykkes med å løfte
-kompetansen i befolkningen og sikre et omstillingsdyktig samfunn. For at departementet skal
-kunne konsentrere seg om oppgavene som sekretariat for den politiske ledelsen, og for at det skal
-være nok oppmerksomhet på iverksettingen av
-politikk, trengs det direktorater og andre typer
-virksomheter. Regjeringen slår sammen direktorater og rydder i oppgavefordelingen dem imellom for å bedre effektiviteten og oppnå en tydelig
-og helhetlig styring. Virksomhetene vil ha en
-tydelig rolle- og ansvarsdeling seg imellom, og de
-skal ikke øke styringstrykket eller rapporteringskravene overfor sektoren.
-Kunnskapsdepartementet har i dag flere
-underliggende virksomheter innenfor høyere
-utdanning og kompetanseområdet. Virksomhetene
-utfører direktoratsoppgaver overfor departementet
-og yter tjenester til utdannings- og forskningsinstitusjoner. Disse er:
-– Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku). Hovedoppgavene er å fremme utvikling av kvaliteten
-ved universiteter, høyskoler og fagskoler og å
-styrke internasjonalt samarbeid og utveksling i
-hele utdanningsløpet.
-– Kompetanse Norge. Direktorat som forvalter,
-utvikler, samordner og gi råd om kompetansepolitiske virkemidler, og har forvaltningsansvar for norsk- og samfunnskunnskapsprøvene for voksne innvandrere.
-– Nasjonalt organ for kvalitet i utdanningen
-(NOKUT). Har følgende hovedoppgaver: akk-
+- ta initiativ til en nasjonal prosess om dimensjonering av medisinutdanningen og i den sammenheng vurdere om denne skal inkludere flere institusjoner enn i dag. Prosessen skal involvere universitets- og høyskolesektoren og de regionale helseforetakene, og bidra til at nasjonale behov kan dekkes med god ressursutnyttelse og høy kvalitet på studietilbudet. Prosessen bygger på de vurderingene som gjøres av den interdepartementale arbeidsgruppen for medisinutdanning.
 
-[Side 80]
-
-78
-
-2020–2021
-
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
-
-tilknyttet NTNU
-
-Tjenesteleveranseorganet
-
-Direktoratet for høyere
-utdanning og kompetanse
-
-Figur 4.2 Organisasjonsendringer
-
-–
-
-–
-
-–
-
-reditering og tilsyn med kvaliteten ved universiteter, høyskoler og fagskoler, godkjenning av
-utenlandsk utdanning, forvaltning av forskrifter, kunnskapsgrunnlag og analyse.
-NSD – Norsk senter for forskningsdata AS. Er et
-nasjonalt senter og arkiv for forskningsdata
-som tilrettelegger for deling og gjenbruk av
-data om mennesker og samfunn, gir råd om
-håndtering av data og personvern i forskning
-og publiserer statistikk om universiteter, høyskoler og fagskoler.
-Uninett AS. Utvikler og driver den digitale
-grunnmuren for forskning og utdanning i
-Norge og leverer tjenester innenfor nett,
-sikkerhet, plattform og data.
-Unit – Direktoratet for IKT og fellestjenester i
-høyere utdanning og forskning. Har forvaltningsansvar på IKT-området innenfor høyere
-utdanning og forskning og ansvar for digitale
-leveranser til sektoren, blant annet studieadministrative systemer og Nasjonal vitnemåls- og
-karakterportal.
-
-NSD og Uninett er aksjeselskaper som i stor grad
-yter tjenester til utdannings- og forskningsinstitusjoner, mens de øvrige er forvaltningsorganer.
-Regjeringen har besluttet å omorganisere disse
-virksomhetene. Regjeringen etablerer ett direktorat og ett tjenesteleveranseorgan og rendyrker
-NOKUT som tilsyns- og akkrediteringsorgan.
-Figuren over viser dagens og framtidig organisering. Direktoratet for høyere utdanning og kompetanse etableres 1. juli 2021 gjennom en sammenslåing av Kompetanse Norge, Diku og deler
-av Unit. Direktoratet får også oppgaver fra NSD
-
-og NOKUT, i tillegg til tjenesten Universell21 som
-i dag er tilknyttet NTNU. Det sammenslåtte direktoratet skal rette seg mot å styrke studenters og
-voksnes kompetanse på alle utdanningsnivåer.
-Dette vil bidra til å videreutvikle fagskolene, høyskolene og universitetene og det kompetansepolitiske området. Direktoratet skal ha hovedkontor i Bergen, og kontorer i Oslo, Tromsø og
-Trondheim.
-De digitale tjenesteleveransene til kunnskapssektoren skal også organiseres mer effektivt. En
-samordning av tjenesteleveransene skal gjøre det
-enklere å realisere felles strategier og mål, gi effektiv ressursbruk og gi bedre og mer sammenhengende tjenester for brukerne. De fleste av Units digitale tjenester vil bli lagt til tjenesteleveranseorganet, som vil bli etablert 1. januar 2022.
-Tjenesteleveranseorganet vil også omfatte Uninett
-og deler av NSDs oppgaver. Organet skal ha hovedkontor i Trondheim og kontorer i Bergen og Oslo.
-NOKUT vil videreføres som et selvstendig tilsyns- og akkrediteringsorgan. NOKUT vil bli
-berørt av omorganiseringen da oppgaver som ikke
-er direkte tilknyttet tilsyns- og akkrediteringsoppgavene, overføres til direktoratet. NOKUTs
-oppgaver vil bli vurdert i sammenheng med
-endringer i universitets- og høyskoleloven, og oppgaver vil derfor bli overført på et senere tidspunkt
-enn ved etableringen av direktoratet 1. juli 2021.
-21
-
-Universell arbeider på oppdrag fra Kunnskapsdepartementet som en nasjonal pådriverenhet og koordinator for inkludering, universell utforming, tilrettelegging og læringsmiljøutvalg i høyere utdanning og fagskoleutdanning.
-Universell er organisatorisk tilknyttet NTNU.
-
-[Side 81]
-
-2020–2021
-
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
-
-I tråd med retningslinjene for lokalisering av
-statlige arbeidsplasser og tjenester skal utflytting
-fra Oslo vurderes ved strukturendringer. Antall og
-andel ansatte i Oslo skal ikke øke som følge av ny
-virksomhetsstruktur, og noen oppgaver, funksjoner og arbeidsplasser skal flyttes ut av Oslo i
-løpet av en femårsperiode.
-Direktoratet for høyere utdanning og kompetanse, NOKUT og tjenesteleveranseorganet skal
-legge til rette for at universitetene og høyskolene
-skal lykkes med samfunnsoppdraget og bidra til at
-politikk gjennomføres.
-
-4.5.1
-
-Bakgrunn for dagens
-direktoratsstruktur
-
-På oppdrag fra Kunnskapsdepartementet utarbeidet Svein Gjedrem og Sven Ole Fagernæs rapporten «Kunnskapssektoren sett utenfra: Gjennomgang av organiseringen av de sentraladministrative
-oppgavene i kunnskapssektoren» i 2016. Utredningen omfattet hele departementets ansvarsområde. I rapporten ble det vist til at det innenfor
-høyere utdanning ikke fantes ett enkelt forvaltningsorgan som tok seg av ulike administrative
-funksjoner som et mellomledd mellom departementet og universiteter, høyskoler og fagskoler.
-Forvaltningsoppgavene var fordelt mellom
-departementet, en rekke underliggende organer
-med ulik virksomhetsform og Universitets- og
-høgskolerådet (UHR). Virksomhetenes organisasjonsform var ikke alltid tilpasset formål og oppgavetype. Dette apparatet var krevende å styre og
-lite effektivt.
-Departementet hadde en stor andel forvaltningsoppgaver knyttet til universiteter og høyskoler. Disse oppgavene kunne gå på bekostning
-av å utøve rollen som sekretariat for den politiske
-ledelsen. Derfor var det behov for et sentralt forvaltningsorgan for universitets- og høyskolesektoren. Det ble foreslått å opprette organet ved å slå
-sammen flere av virksomhetene i universitets- og
-høyskolesektoren.
-Rapporten fra Gjedrem og Fagernes ble fulgt
-opp av departementet gjennom flere omorganiseringer innenfor områdene barnehage, grunnopplæring, kompetansepolitikk og høyere utdanning.
-Innenfor høyere utdanning ble det opprettet to nye
-direktorater 1. januar 2018, ett som samlet oppgaver
-knyttet til tilskuddsforvaltning og kvalitetsutvikling
-(Diku), og ett som samlet digitale fellestjenester
-(Unit). NOKUT ble videreført, og innenfor kompetanseområdet ble Kompetanse Norge videreført.
-Diku ble opprettet gjennom en sammenslåing
-av Senter for internasjonalisering, Norgesuniver-
-
-79
-
-sitetet og Program for kunstnerisk utviklingsarbeid. Direktoratet overtok også forvaltningen av
-programmet Sentre for fremragende utdanning
-fra NOKUT og tilskuddsordningen for lærebøker
-fra Universitets- og høgskolerådet. I tillegg fikk
-Diku oppgaver innenfor høyere yrkesfaglig utdanning. Diku har hovedkontor i Bergen og kontorer
-i Oslo og Tromsø.
-Unit – Direktoratet for IKT og fellestjenester i
-høyere utdanning og forskning ble opprettet gjennom en sammenslåing av CERES, BIBSYS og
-deler av Uninett AS. Unit har hovedkontor i
-Trondheim og kontor i Oslo.
-
-4.5.2
-
-Behovet for og formålet med en ny
-organisering
-
-Kompetansereformen
-Den omstillingen Norge må gjennom, innebærer
-mer vekt på arbeidslivsrelevans og en sterkere
-ambisjon for etter- og videreutdanning. Både Diku
-og Kompetanse Norge har forvaltet ordninger for
-fleksible utdanningstilbud, med litt forskjellige
-innretninger. Ordningene har blitt styrket gjennom kompetansereformen, og kompetansepolitiske tiltak har i tillegg blitt styrket under den
-pågående pandemien. Overlappet mellom de to
-direktoratene har blitt opplevd som forvirrende.
-Det har vært uklart hvilket av direktoratene som
-har ansvar for hva, og overlappet har krevd
-betydelig samordning mellom direktoratene.
-Kompetansereformen forutsetter et sektorovergripende og arbeidslivsrettet perspektiv.
-Voksne som tar utdanning, er mer opptatt av at
-opplæringen og utdanningen er arbeidsrettet og
-relevant for dem, enn hvilket nivå den er på. Sektordelingen mellom et fylkeskommunalt nivå med
-videregående opplæring og fagskole på den ene
-siden og et statlig nivå med universiteter og høyskoler på den andre siden begrenser muligheten
-for å se ulike tiltak i sammenheng. Ved å etablere
-et direktorat som ser kompetanseområdet og høyere utdanning og høyere yrkesfaglig utdanning
-under ett, kan vi lykkes bedre med omstillingen
-av samfunnet.
-At arbeidet med kunnskapsgrunnlag og analyser ivaretas av solide fagmiljøer, er en forutsetning for å kunne utvikle politikken videre. Til nå
-har arbeidet med statistikk og analyse vært for
-fragmentert på tvers av de ulike direktoratene.
-Sammenslåingen legger grunnlaget for å hente
-mer ut av disse ressursene.
-En samlet og helhetlig oversikt over utdanninger og kompetansebehov kan gi et bedre
-
-[Side 82]
-
-80
-
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
-
-beslutningsgrunnlag for det offentlige (staten,
-fylkeskommunene) og god utnyttelse av virkemidlene for kompetanseheving. En kartlegging av
-institusjonenes arbeid med dimensjoneringen av
-høyere utdanning viser at både departementet,
-utdanningsinstitusjonene og studentene trenger
-bedre informasjon om arbeidsmarkedsbehovene
-for å kunne treffe gode beslutninger i tråd med
-samfunnets behov.22 En viktig leverandør av slik
-informasjon er Kompetansebehovsutvalget, som i
-dag ligger til Kompetanse Norge, men arbeidet vil
-kunne styrkes vesentlig når analysekapasiteten
-fra de ulike direktoratene slås sammen. Det er
-enklere å gjennomføre kompetansereformen med
-en endret direktoratsstruktur som er mer sektorovergripende. Dette er bakgrunnen for at regjeringen etablerer det sammenslåtte direktoratet.
-Tydelig og effektiv styring av høyere utdanning
-Organiseringen av direktoratene har vært tatt opp
-av universiteter, høyskoler, ulike interesseorganisasjoner og av direktoratene selv i innspill til
-arbeidet med denne meldingen. NIFU så også
-nærmere på direktoratene da instituttet undersøkte styringen av universiteter og høyskoler på
-oppdrag fra departementet.23
-Problemstillinger som er tatt opp gjentatte
-ganger, er uklarheten i direktoratenes oppgavefordeling og roller, og at det er et for mange direktorater. NIFU påpeker i sin rapport at antall direktorater i seg selv kan øke det administrative arbeidet
-ved institusjonene fordi de må vie oppmerksomhet til hvert enkelt organ og måten de handler på,
-og inngå i flere typer dialog og samarbeid.
-En annen utfordring NIFU viser til, er NOKUTs
-to roller: Organet er både kunnskapsleverandør
-og myndighet for kvalitetssikring. For institusjonene er det uklart om rapporter og analyser
-skal tolkes som en dialog med en «kollega» eller
-som føringer fra en myndighet med tilsynsansvar.
-NOKUT er faglig uavhengig i rollen som tilsynsog akkrediteringsorgan, men har ikke en slik uavhengighet i sine øvrige oppgaver. Aune-utvalget
-peker på at forvirringen rundt hvilken rolle
-NOKUT har, kan svekke tilliten til NOKUTS rolle
-som kvalitetssikringsorgan.24
-
-Også på tjenestesiden er det fragmentering og
-behov for konsolidering og rendyrking av oppgaver. Det er blant annet uheldig at tjenesteleveranser og myndighetsoppgaver ligger til samme
-virksomhet: Unit opptrer i et leverandør-kundeforhold med institusjonene samtidig som det har
-forvaltningsoppgaver som innebærer at det har et
-myndighetsforhold overfor de samme institusjonene. Det er krevende å få god brukermedvirkning i utviklingen og prisingen av tjenester i
-en virksomhet som også har en myndighetsfunksjon overfor mange av dem som bruker og betaler
-for tjenestene. I årene framover vil det være behov
-for store investeringer i nye fellesløsninger knyttet
-til blant annet deling av data, digital forskningsinfrastruktur og administrative systemer. Samtidig forventes det at budsjettrammene blir strammere. Dette innebærer at tilgjengelige ressurser
-må koordineres og brukes effektivt for å møte
-behovene. Med dagens organisering med ulike
-virksomhetsvise strategier og vedtekter er det
-krevende å samordne strategier og fellesfunksjoner for å bruke ressursene best mulig. En samordning av tjenesteleverandørene vil skape en
-bidragsyter som er bedre rustet til å realisere
-felles strategier, måloppnåelse og effektiv ressursbruk og derigjennom gi brukerne bedre tjenester. Samtidig må den framtidige styringen og
-organiseringen ta høyde for at mange av tjenestene går til aktører utenfor universitets- og høyskolesektoren.
-Ved å slå sammen direktorater, etablere et
-organ avgrenset til å levere tjenester og rendyrke
-NOKUT som tilsyns- og akkrediteringsorgan
-legges det til rette for en forenklet og mer avklart
-styring av høyere utdanning. Regjeringen vil at
-endringene skal bidra til at departementet, direktoratet, tjenesteleveranseorganet og universiteter
-og høyskoler framover har en tydeligere rollefordeling med klarere grenser mellom departementets styringsansvar og universitetenes og høyskolenes institusjonelle selvstyre. Gjennom disse
-grepene sluttføres også oppfølgingen av anbefalingene som departementet mottok fra Gjedrem
-og Fagernæs i 2016.
-
-4.5.3
-22
-
-«Styrt eller søkerstyrt? En undersøkelse av hvordan universiteter og høyskoler dimensjonerer sine studietilbud»,
-NIFU-rapport 2019:15, Nordisk institutt for studier av innovasjon, forskning og utdanning, 2019.
-23
-«Styring av universiteter og høyskoler i Norge: en undersøkelse av styringsinstrumenter og styringsaktører i UH-sektoren», NIFU-rapport 2020: 25, Nordisk institutt for studier
-av innovasjon, forskning og utdanning, 2020.
-
-2020–2021
-
-Nærmere om direktoratet,
-tjenesteleveranseorganet og NOKUT
-
-Direktoratet for høyere utdanning og kompetanse
-En effektiv forvaltning krever direktorater som
-ivaretar myndighetsoppgaver. I tillegg er det
-24
-
-NOU 2020: 3 Ny lov om universiteter og høyskoler.
-
-[Side 83]
-
-2020–2021
-
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
-
-behov for analyse- og kunnskapsforvaltning. Noen
-utviklingsoppgaver bør også koordineres nasjonalt. Dette er oppgaver som faller innenfor de to
-hovedrollene som det ifølge Difi er vanlig at direktorater ivaretar: gjennomføringsrollen og fagrollen.25 Dette er oppgavetyper som Diku,
-Kompetanse Norge, NOKUT og Universell, og
-dels også Unit og NSD, utfører. Denne typen
-direktoratsoppgaver samles i det nye direktoratet.
-Virkemidlene direktoratet skal forvalte, vil
-være rettet mot å øke den voksne befolkningens
-kompetanse. Direktoratet vil ha oppgaver på tvers
-av universiteter og høyskoler, fagskoler, kompetanseområdet og voksenopplæring. Dette omfatter blant annet oppgaver med analyse- og kunnskapsforvaltning, forvaltning av regelverk, inkl.
-opptak til høyere utdanning, forvaltning av tilskuddsordninger, tildeling av midler, forvaltning i
-tilknytning til finansieringssystemet for universiteter og høyskoler og arbeid med internasjonalisering og digitalisering. Noen utviklingsoppgaver
-koordineres nasjonalt, og slike oppgaver vil også
-kunne bli lagt til direktoratet. Det er en forutsetning at direktoratet ivaretar brukerperspektivet i
-sin måte å arbeide på.
-Direktoratet skal være en pådriver for digitalisering. Units oppgaver med nasjonal samordning
-på IKT-området innenfor utdanning og forskning
-legges til direktoratet. Det samme gjelder policyutvikling, sekretariatsfunksjoner og arbeid med
-styringsmodellen for informasjonssikkerhet.
-Units oppgaver i Samordna opptak, med unntak av
-den digitale løsningen som alle institusjonene
-benytter, legges også til direktoratet.
-NSDs Database for statistikk om høgre utdanning (DBH) inneholder et bredt spekter av informasjon om universiteter, høyskoler og fagskoler.
-NSD drifter også registeret over vitenskapelige
-publiseringskanaler (kanalregisteret). NSDs oppgaver som gjelder DBH og kanalregisteret er
-typiske direktoratsoppgaver som bør ses i sammenheng med øvrige oppgaver som legges til
-direktoratet. Oppgavene blir derfor flyttet. Dette
-er også en oppfølging av anbefalingen fra en
-
-25
-
-«Merverdi eller unødig omvei? Om direktoratenes rolle i
-gjennomføring av nasjonal politikk», Difi-rapport 2013: 11,
-Direktoratet for forvaltning og IKT, 2013.
-
-81
-
-ekstern gruppe som ble nedsatt av departementet
-for å gå gjennom NSD.
-Tjenesteleveranseorganet
-Units digitale tjenester, som utgjør om lag 30 ulike
-fellestjenester, organiseres sammen med Uninetts
-og deler av NSDs oppgaver i det nye tjenesteleveranseorganet fra 1. januar 2022.
-Som oppfølging av digitaliseringsstrategien for
-universitets- og høyskolesektoren etablerte Unit, i
-samarbeid med sektoren, en styringsmodell som
-skal sikre brukermedvirkning i strategiutvikling,
-tjenesteutvikling og forvaltningsmodeller i 2018.
-Digitaliseringsstyret for høyere utdanning og
-forskning er sentralt i denne modellen. I styret
-sitter representanter fra toppledelsen ved universiteter og høyskoler, instituttsektoren, de regionale helseforetakene, Norsk studentorganisasjon
-mfl. Styret har en rådgivende funksjon overfor
-Units myndighetsrolle og en besluttende rolle
-innenfor porteføljestyring og prioritering av fellesprosjekter som er finansiert av fellesmidler. Unit
-er sekretariat for styret. Med justeringen av oppgavene og fordelingen av Units oppgaver mellom
-direktoratet og tjenesteleveranseorganet kan ikke
-denne modellen videreføres uendret. Intensjonen
-med digitaliseringsstyret vil bli videreført, men
-den konkrete utformingen vil måtte tilpasses de
-nye virksomhetene.
-NOKUT – Nasjonalt organ for kvalitet i utdanningen
-NOKUT videreføres som et eget forvaltningsorgan under Kunnskapsdepartementet. Det vil bli
-beholdt som et selvstendig tilsyns- og akkrediteringsorgan, i tråd med de europeiske kravene til
-kvalitetssikringsorganer. Oppgaver som ikke er
-direkte tilknyttet tilsyns- og akkrediteringsoppgavene, flyttes fra NOKUT til direktoratet.
-NOKUTs oppgaver og lovregulering utredes
-samlet våren 2021. Ingen oppgaver overføres fra
-NOKUT til det nye direktoratet ved etableringen
-1. juli 2021. Forslag til endringer i universitets- og
-høyskoleloven om NOKUTs virksomhet og portefølje sendes på høring sommeren 2021. Hvilke
-oppgaver som skal overføres fra NOKUT til direktoratet, vil bli avklart i forbindelse med lovprosessen.
-
-[Side 84]
-
-82
-
-2020–2021
-
-Meld. St. 19
-Styring av statlige universiteter og høyskoler
-
-5 Økonomiske og administrative konsekvenser
-Denne meldingen legger opp til en mer helhetlig
-og forenklet styring av statlige universiteter og
-høyskoler. God styring i offentlig sektor har stor
-samfunnsmessig verdi. Tilstrekkelig delegering
-av myndighet er et grunnleggende styringsprinsipp i staten og skal legge til rette for effektiv og
-målrettet virkemiddelbruk. Mål- og resultatstyring er derfor nedfelt i økonomiregelverket for
-statlige aktører, og meldingen legger til grunn at
-dette videreføres.
-Det er i denne meldingen heller ikke varslet
-tiltak for universiteter og høyskoler som fører til
-vesentlige administrative eller organisatoriske
-endringer. Endringene er innenfor de etablerte
-rammene for statlige forvaltningsorganer og de
-særskilte fullmaktene som er gitt statlige universiteter og høyskoler.
-Enkelte av tiltakene under avsnitt 4.3 Dimensjonering av høyere utdanning kan medføre behov
-for økte bevilgninger. Endringer i finansieringssystemet for universiteter og høyskoler som en
-følge av den foreslåtte gjennomgangen i avsnitt
-4.2 Finansiering kan også ha provenyeffekt.
-Avsnitt 4.1 og avsnitt 4.4 inneholder ikke forslag
-som har økonomiske konsekvenser. Regjeringen
-vil komme tilbake til oppfølging av meldingen og
-tiltak som krever bevilgningsendringer, i forbindelse med de årlige budsjettforslagene. Gjennomføringen av slike tiltak vil bli vurdert i lys av den
-økonomiske situasjonen.
-
-Regjeringens beslutning om å endre deler av
-direktoratsstrukturen under Kunnskapsdepartementet har både administrative og økonomiske
-konsekvenser. Regjeringen gjennomfører endringer på dette forvaltningsområdet ved å opprette
-ett direktorat og ett tjenesteleveranseorgan og rendyrke NOKUT som tilsyns- og akkrediteringsorgan. Direktoratet etableres 1. juli 2021 gjennom
-en sammenslåing av Kompetanse Norge, Diku og
-deler av Unit. Direktoratet får også oppgaver fra
-NSD og NOKUT, i tillegg til Universell som er tilknyttet NTNU. Direktoratet skal ha hovedkontor i
-Bergen og kontorer i Oslo, Tromsø og Trondheim.
-Regjeringen har besluttet at omstillingskostnadene
-dekkes innenfor gjeldende budsjettramme, og at
-det skal utarbeides en forpliktende gevinstrealiseringsplan som synliggjør hvilke kvalitative
-og kvantitative gevinster man kan forvente av
-omorganiseringen over en femårsperiode.
-Kunnskapsdepartementet
-tilrår:
-Tilråding
-fra
-Kunnskapsdepartementet
-19. mars 2021 om Styring av statlige universiteter
-og høyskoler blir sendt Stortinget.
-
-[Side 85]
-
-[Side 86]
-
-Bestilling av publikasjoner
-Departementenes sikkerhets- og serviceorganisasjon
-www.publikasjoner.dep.no
-Telefon: 22 24 00 00
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-Omslags- og kapittelillustrasjoner:
-Mathilde Lid, Melkeveien designkontor AS
-
-ME
-
-R K E T T RY
-
-1
-
-46
-
-20
-4
-
-KK
-K
-
-MI
-
-JØ
-
-SA
-
-L
-
-Trykk: Departementenes sikkerhets- og
-serviceorganisasjon – 03/2021
-
-De
-
-p M edia
-
-04
+- følge opp kompetansereformen ved å gjøre regelverket for egenbetaling mer fleksibelt og åpne for at statlige universiteter og høyskoler i større grad enn i dag kan tilby utdanninger mot egenbetaling

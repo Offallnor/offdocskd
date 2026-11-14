@@ -1,1064 +1,244 @@
-# Meld. St. 14 (2019–2020), del 8 av 9 (side 92–104)
+# Meld. St. 14 (2019–2020), del 8 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2020/6f0dffff-meld-st-14-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-14-20192020/id2698284/
 - Original-PDF: https://www.regjeringen.no/contentassets/afb66fbbcdfb47749f1b7007b559d145/no/pdfs/stm201920200014000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 9 figurer, 12 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 92]
-
-90
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-2019–2020
-
-7 Satsinger på kompetanseutvikling i ulike sektorer
-I tillegg til kompetansereformen, som retter seg
-mot virksomheter og sysselsatte i hele arbeidslivet, har regjeringen en rekke satsinger på kompetanseutvikling i ulike sektorer og for ulike deler av
-arbeidslivet. Kompetanseutvikling er et sentralt
-virkemiddel for å fremme konkurransekraft og
-verdiskaping i næringslivet og for å bidra til kvalitet i offentlig sektor. Regjeringen har satsinger på
-kompetanseutvikling som er rettet mot å møte
-utfordringer i ulike deler av arbeidslivet og mot å
-tette kompetansegapet i enkeltsektorer.
-
-7.1
-
-Kompetanseutvikling som en del
-av næringspolitikken
-
-For å kunne drive konkurransedyktig og verdiskapende næringsvirksomhet både hjemme og
-internasjonalt må næringslivet ha tilgang på
-kompetent arbeidskraft og kontinuerlig vedlikeholde og utvikle de ansattes kompetanse. Raskere endringshastighet, kontinuerlig behov for
-forbedringer, digitalisering, ny teknologi og krav
-til mer klima- og miljøvennlige løsninger innebærer behov for oppdatert kunnskap på alle
-nivåer i bedriftene. Norsk næringsliv er avhengig
-av å ha medarbeidere som er blant de mest kompetente og produktive i verden innenfor sine fagområder.
-Næringslivets og arbeidslivets behov er skiftende, og det er behov for kompetanse som kan
-legge til rette for lønnsom omstilling, både når det
-gjelder å skape nye virksomheter, og når det gjelder å utvikle og omstille eksisterende virksomheter. Kompetanse knyttet til forskning, utvikling,
-innovasjon og entreprenørskap er særdeles viktig
-for dette.
-Regjeringen har som oppfølging av Meld. St.
-27 (2016–2017) Industrien – grønnere, smartere og
-mer nyskapende (industrimeldingen) gjennomført
-en rekke tiltak relatert til utvikling av kunnskap
-og kompetanse i næringslivet. I meldingen ble det
-lagt vekt på at udekket kompetansebehov i
-næringslivet innebærer et potensielt tap av verdiskaping. Det fremgikk at regjeringen vil styrke
-samhandlingen mellom utdannings- og kompetan-
-
-sepolitikken og næringspolitikken for å bidra til
-god verdiskapingsevne i næringslivet.
-De aller fleste bedriftene er små, og over en
-million arbeidstakere arbeider i Norge i bedrifter
-med færre enn 50 ansatte. Regjeringen la i august
-2019 frem Småbedriftslivet. Strategi for små og mellomstore bedrifter, der tilgang på kompetanse var
-et av de prioriterte innsatsområdene. En bred satsing på kompetanse i arbeidsstyrken og tilgang på
-kvalifisert arbeidskraft vil være avgjørende for at
-små og mellomstore bedrifter skal kunne bidra til
-vekst og skape flere jobber.
-Regjeringen har blant annet styrket Invest in
-Norway, som arbeider for å tiltrekke utenlandske
-investeringer og kompetanse til Norge.
-Videre har regjeringen opprettet katapult-ordningen, som tilrettelegger for etablering av testsentre der bedrifter i samarbeid med forskningsog utdanningsmiljøer kan teste og utvikle ny teknologi og nye løsninger. Samarbeid mellom industri og utdanningsinstitusjoner bidrar til økt kompetanseutvikling i arbeidslivet, og testsentrene
-bidrar til mer samarbeid mellom ulike industrimiljøer som gir grunnlag for deling og spredning av
-kompetanse.
-Klyngeprogrammet, som forvaltes av flere virkemiddelaktører i fellesskap, er under vurdering
-og videreutvikling. Regjeringen har lagt opp til å
-bruke klyngene aktivt for å fremme økt omstilling
-og innovasjon i næringslivet. Klyngene og
-bedriftsnettverk bidrar i seg selv ofte til læring på
-tvers, utveksling av kunnskap og samarbeid om
-ny kunnskapsutvikling.
-Regjeringen har også støttet opp om etablering av DigitalNorway/Toppindustrisenteret, som
-skal bidra til økt kompetanse om digitalisering i
-næringslivet, spesielt i små og mellomstore bedrifter.
-Bevilgningene til forskning og innovasjon har
-økt betydelig siden 2013. Over Nærings- og fiskeridepartementets budsjett tildeles det midler til
-Norges forskningsråd, Innovasjon Norge, Siva –
-selskapet for industrivekst, og Design og arkitektur Norge (DOGA). Disse benevnes som det
-næringsrettede virkemiddelapparatet når det gjelder deres virkemidler for forskning og innovasjon
-
-[Side 93]
-
-2019–2020
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-i næringslivet. De nevnte aktørene har ordninger
-som har elementer av kompetanseutvikling og
-omstilling i seg.
-Innovasjon Norge bidrar til vekst i norsk
-næringsliv gjennom kapital og kompetanse, og
-mange av selskapets virkemidler inneholder rådgivning og kompetanseutvikling. Selskapet tilbyr
-blant annet kurs og rådgivning relatert til oppstart
-og utvikling av bedrifter, markedsundersøkelser
-og eksportsatsing.
-Norges forskningsråd har også flere virkemidler som bidrar til utvikling og spredning av kompetanse innenfor og på tvers av miljøer. Næringsog fiskeridepartementet tildeler midler til flere
-forskningsprogrammer. Det største programmet
-er Brukerstyrt innovasjonsarena (BIA). Innovasjonsprosjekter (IPN-er) utgjør hovedvekten av
-BIAs portefølje. Dette er prosjekter der næringslivets behov ligger til grunn og næringslivet står
-som hovedeier av prosjektet. Evaluering av BIA
-viser at BIAs krav til samarbeid mellom næringsliv og FoU-miljøer (miljøer for forskning og utvikling) gir gode forutsetninger for kunnskapsoverføring og kompetanseutvikling.
-Nærings- og fiskeridepartementet tildeler
-også midler til nærings-ph.d.-ordningen i
-Forskningsrådet. Nærings-ph.d.-ordningen har
-som mål å fremme produktive samarbeid mellom
-næringsliv og akademia, og økt forskerkompetanse i norsk næringsliv. Nærings-ph.d.-kandidater forsker på problemstillinger som er relevante
-for bedriften, og får faglig innsikt og veiledning fra
-et universitet eller en høyskole, i Norge eller i
-utlandet. Kompetansekravene til vitenskapelig
-nivå er de samme som for andre ph.d.-grader.
-Siva har ansvar for næringshageprogrammet
-og inkubasjonsprogrammet, i tillegg til katapultordningen. Begge disse programmene tilrettelegger for kompetanseutvikling, økt innovasjon og
-nyskaping. Gjennom en egen bevilgning på 10
-mill. kroner i revidert nasjonalbudsjett 2016 iverksatte Siva prosjektet Arena for industriell nyskaping, som hadde spesiell vekt på deling av kompetanse for utvikling av nytt og eksisterende
-næringsliv.
-DOGA arbeider for å få næringslivet til i større
-grad å ta i bruk design som et strategisk innovasjonsverktøy, og legger stor vekt på spredningseffekter og kompetanseutvikling.
-Regjeringen har satt i gang en helhetlig gjennomgang av det næringsrettede virkemiddelapparatet. Formålet er å sørge for at vi får størst mulig
-samlet verdiskaping og lønnsomme arbeidsplasser innenfor bærekraftige rammer ut av de midlene som går gjennom virkemiddelapparatet.
-
-91
-
-Gjennomgangen omfatter bredden av de næringsrettede virkemidlene (også flere der Nærings- og
-fiskeridepartementet ikke er inne på finansieringssiden).
-
-7.2
-
-Kompetanseutvikling
-i havnæringene
-
-Nærings- og fiskeridepartementet har blant annet
-også sektoransvar for maritim næring og fiskeriog havbruksnæringen. Havnæringene – maritim,
-marin og petroleum – har de senere årene vært
-preget av økende grad av digitalisering. Det har
-vært et uttalt behov fra næringens side å bedre tilfanget av digital kompetanse gjennom å tilpasse
-utdanningen av arbeidstakere i havnæringene til
-den økende digitaliseringen. Stortinget har bevilget en engangsbevilgning på 15 mill. kroner til en
-styrking av digitaliseringsinnholdet i havrelaterte
-utdanninger. Satsingen er en del av regjeringens
-oppdaterte havstrategi Blå muligheter, som ble
-lansert våren 2019.
-Markom2020 er et nasjonalt utviklingsprosjekt
-som har i oppgave å heve kvaliteten på maritime
-utdanninger. Prosjektet omfatter utdanningsinstitusjoner både på universitets- og høyskolenivå og
-på fagskolenivå. Programmet har blant annet
-resultert i etableringen av nye utdanningsprogrammer på bachelor-, master- og doktorgradsnivå. Fra 2019 samarbeider institusjonene i Markom2020 om å tilby et nytt samlingsbasert bachelorprogram i maritim ledelse for kandidater med
-fullført maritim profesjonsutdanning på fagskolenivå. Prosjektet er også i gang med å utvikle en
-nettportal for fleksible og relevante kurs og
-videreutdanninger i de maritime fagskolene.
-
-7.3
-
-Kompetanseutvikling i landbruket
-
-Mange av dem som etablerer seg i landbruket, er
-voksne og har ofte en annen utdanning enn landbruksfaglig. I tillegg til de ordinære utdanningsløpene er det derfor nødvendig å ha gode fleksible
-kompetansetilbud til voksne. Det siste tiåret har
-det vært en økende etterspørsel etter fleksible
-landbruksfaglige utdanningstilbud som også gir
-formell kompetanse. Frem til 2017/2018 var det
-flere offentlige og private naturbruksskoler som
-tilbød ulike kurs for voksne med innhold fra programmet landbruk og gartner fra videregående
-opplæring. Både staten og landbrukssektoren så
-behovet for å etablere en nasjonal ordning for et
-utdanningstilbud med klart definert faglig inn-
-
-[Side 94]
-
-92
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-hold. En utredning fra Trøndelag forskning og
-utvikling1 viste at det var behov for et formelt og
-fleksibelt utdanningstilbud tilpasset næringsutøvere i landbruket og dem som var i ferd med å etablere seg i næringen. Samtidig viste utredningen
-at finansieringen av slike tilbud var krevende for
-fylkeskommunene.
-I jordbruksoppgjøret i 2017 ble partene enige
-om å etablere en nasjonal modell for voksenagronom (voksenagronomen ) i regi av de fylkeskommunale naturbruksskolene med et faglig innhold
-som omfatter programfag landbruk Vg2 og Vg3
-og er basert på opplæringsloven. Opplæringen
-gjennom voksenagronomen er organisert som
-samlinger i kombinasjon med nettundervisning
-og har en nedre aldersgrense for opptak på 25 år.
-Betegnelsen voksenagronomen er forbeholdt tilbud som er i tråd med modellen med hensyn til
-forvaltning, organisering og innhold. Samtidig har
-det de tre siste årene blitt satt av midler til utvikling og implementering av felles digitale verktøy
-for nettbasert undervisning for hele landet.
-Fylkeskommunenes ansvar for ordningen må
-ses i sammenheng med deres rolle som skoleeiere og regionale utviklingsaktører. De videregående skolene med utdanningsprogram naturbruk
-er viktige for å rekruttere rett kompetanse til landbrukssektoren, og som ressurs for tilbudene om
-kurs og videreutdanning i landbruket.
-Modellen har vist gode resultater, og ordningen er nå etablert i nesten hele landet og tilbys på
-20 naturbruksskoler, i ni av landets fylkeskommuner, til om lag 500 deltakere. Det har vært økende
-etterspørsel etter tilbudet, som nå også omfatter
-gartnerutdanning (Vg3). Tre av fylkeskommunene tilbyr dette i tillegg til agronomutdanning
-(landbruk Vg3).
-
-7.4
-
-Kompetanseutvikling for lærere
-i barnehage og skole
-
-Lærernes kompetanse er det viktigste bidraget til
-at barn og unge opplever mestring, utvikler seg,
-lærer og trives. Derfor er kompetanseutvikling for
-lærere, styrere og skoleledere regjeringens viktigste satsing for å bedre kvaliteten i barnehager og
-skoler.
-Regjeringen satser på kompetanseutvikling for
-alle grupper ansatte i barnehagen. Målet er å øke
-andelen barnehagelærere, få flere barnehagelærere med masterkompetanse og sikre at alle barnehager utvikler sin pedagogiske praksis gjen1
-
-Haugum mfl. 2017.
-
-2019–2020
-
-nom barnehagebasert kompetanseutvikling.
-Siden 2016 har 3142 barnehagelærere fått tilbud
-om videreutdanning. Ansatte med annen treårig
-pedagogisk utdanning som vil kvalifisere seg for
-tilsetting som pedagogisk leder i barnehagen, kan
-søke tilleggsutdanning i barnehagepedagogikk
-(TiB).
-Regjeringen har de siste årene gjennomført en
-betydelig satsing på videreutdanning av lærere og
-ledere i skolen. Samlet for perioden 2014–2020
-har Stortinget bevilget om lag 9,5 mrd. kroner til
-videreutdanning av lærere og skoleeiere. Siden
-2014 har mer enn 34 000 lærere fått tilbud om
-videreutdanning med støtte fra staten, og antallet
-videreutdanningsplasser har økt kraftig. I 2020
-settes det av om lag 1,5 mrd. kroner til videreutdanning for lærere og skoleledere. Satsingen ble
-styrket med innføring av krav til kompetanse for å
-undervise i fagene matematikk, engelsk, norsk,
-samisk og norsk tegnspråk, men det er også
-mulig å ta videreutdanning i skolens øvrige fag, og
-i tverrfaglige emner.
-Skoleeierne har ansvaret for at kravene til
-kompetanse og fordypning i undervisningsfagene
-blir oppfylt. Fra Utdanningsdirektoratets undersøkelse Spørring til Skole-Norge blant skoler og skoleeiere våren 2018 vet vi at 83 prosent av kommunene har en plan eller en strategi for hvordan de
-skal oppfylle de nye kompetansekravene. Kunnskapsdepartementet forventer at alle kommuner
-utarbeider en plan eller strategi for å nå kompetansekravene.
-Andre kompetanseutviklingstiltak for lærere
-er som følger:
-– Regional og desentralisert ordning for kompetanseutvikling i barnehage og skole: Gjennom
-den regionale og desentraliserte ordningen for
-kompetanseutvikling i skolen får kommuner
-og fylkeskommuner over hele landet mulighet
-til å sette i gang kompetanseutviklingstiltak for
-lærere og andre ansatte ut ifra lokale behov.
-Det skjer i nært samarbeid med andre barnehage- og skoleeiere i fylket eller regionen og
-universiteter eller høyskoler. Den desentraliserte ordningen ble etablert i 2017, og den
-regionale ordningen for barnehager ble etablert i 2019. For 2020 bevilget Stortinget om
-lag 230 mill. kroner til ordningen for skoler og
-190 mill. kroner til ordningen for barnehager.
-– Veiledning av nyutdannede nytilsatte lærere:
-Mange lærere opplever overgangen fra utdanning til yrke som utfordrende. Stortinget har
-bevilget 60 mill. kroner til veiledning av nyutdannede nytilsatte lærere i grunnskolen for
-skoleåret 2019/2020. I samarbeid med organi-
-
-[Side 95]
-
-2019–2020
-
-–
-
-–
-
-–
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-sasjoner for barnehage, skole og høyere utdanning har regjeringen også lagt frem Prinsipper
-og forpliktelser for veiledning av nyutdannede
-nytilsatte lærere i barnehage og skole, og Utdanningsdirektoratet har utviklet en nettbasert veileder.
-Lederkompetanse: For å sikre at kompetanseutviklingen faktisk gir bedre tilbud for barn i
-barnehagen og elevene i klasserommet, er det
-viktig å ha gode ledere som har kompetanse i å
-legge til rette for kollektiv profesjonsutvikling
-for ansatte i barnehager og skoler. Siden 2009
-har mer enn 4000 skoleledere deltatt i den
-nasjonale rektorutdanningen. Regjeringen har
-besluttet å fortsette satsingen på skoleledernes
-kompetanse. Skoleledere som har gjennomført
-rektorutdanning eller tilsvarende, får tilbud om
-modulbasert videreutdanning innenfor ulike
-temaer.
-Spesialistutdanning: Siden 2016 har lærere hatt
-muligheten til å ta videreutdanning som kan
-kvalifisere for en funksjon som lærerspesialist.
-Fra 2019 finnes det tolv tilbud om spesialistutdanning innenfor ulike fag og fagområder. Spesialistutdanningene skal bidra til å rekruttere
-flere lærerspesialister. Regjeringen har som
-mål å gi alle skoler tilgang til lærerspesialister
-i begynneropplæring og gi 3000 lærere mulighet til å bli lærerspesialister i skolen innen fem
-år.
-Yrkesfaglærerløftet: I 2019 bevilger regjeringen 90 mill. kroner til Yrkesfaglærerløftet, som
-er regjeringens strategi for kompetanseutvikling for yrkesfaglærere. Siden 2018 har 1550
-yrkesfaglærere deltatt i kombinerte etter- og
-videreutdanningstilbud. Tilbudene blir utviklet
-av universiteter og høyskoler sammen med fylkeskommuner og skal svare på lokale behov.
-
-7.5
-
-Videreutdanning for lærere som
-underviser voksne innvandrere
-i norsk
-
-Satsingen på kompetanseutvikling for lærere som
-underviser i norsk etter introduksjonsloven, er et
-tiltak i regjeringens integreringsstrategi. Satsingen ble styrket med 16 mill. kroner i statsbudsjettet for 2019. Midlene skal dekke stipend til lærere
-som underviser voksne innvandrere i norsk etter
-introduksjonsloven, og som ønsker å ta videreutdanning i norsk som andrespråk på høyskole eller
-universitet. Kompetanse Norge administrerer og
-lyser ut stipend på oppdrag fra Kunnskapsdepar-
-
-93
-
-tementet. Stipendordningen iverksettes fra og
-med studieåret 2019/2020.
-Det var 96 lærere som fikk innvilget stipend i
-2019. Disse lærerne kommer fra til sammen 60
-kommuner. Lærerne kan få tildelt 110 000 kroner i
-stipend for å ta 30 studiepoeng.
-Midlene som er bevilget, går også til tilskudd
-til studiestedene til gjennomføring av videreutdanningene og til utvikling av nye videreutdanninger
-og administrasjon av stipendordningen. Høyskolen i Innlandet og Høgskulen på Vestlandet har
-fått til sammen 4,3 mill. kroner til å gjennomføre
-videreutdanningene i norsk som andrespråk.
-Regjeringen har over statsbudsjettet for 2020
-doblet midlene til kompetanseheving for lærere
-som underviser voksne innvandrere i norsk. Det
-vil totalt bevilges 32 mill. kroner, noe som innebærer at ca. 200 lærere kan tildeles stipend til
-videreutdanning i norsk som andrespråk fra skoleåret 2020/2021.
-Lærere som underviser voksne i grunnskolen
-og i videregående opplæring, kan søke om videreutdanning gjennom satsingen Kompetanse for kvalitet. Det er ikke opprettet et eget tilbud for disse
-lærerne, men de kan søke på alle videreutdanningstilbud ved universiteter og høyskoler og få
-finansiering fra ordningen. I 2019 er det om lag 25
-lærere som underviser voksne, og som deltar i
-videreutdanning i Kompetanse for kvalitet.
-
-7.6
-
-Kompetanseutvikling i helse- og
-omsorgstjenestene
-
-Høy kompetanse blant helse- og sosialfaglig personell er avgjørende for kvaliteten i helse- og
-omsorgstjenestene. Kompetanseløft 2020 er regjeringens plan for rekruttering, kompetanseheving
-og fagutvikling i de kommunale helse- og
-omsorgstjenestene. Planen har som formål å bidra
-til en faglig sterk kommunal helse- og omsorgstjeneste, og å bidra til å sikre at sektoren har tilstrekkelig og kompetent bemanning. Spesialisthelsetjenesten har utstrakt aktivitet for å heve ansattes
-kompetanse gjennom videre- og etterutdanninger
-og intern kompetanseheving. Kompetanse som
-virkemiddel er spesielt omtalt i Meld. St. 7 (2019–
-2020) Nasjonal helse- og sykehusplan 2020–2023
-fordi kompetanseutvikling er et av de viktigste
-verktøyene spesialisthelsetjenesten har for å
-beholde arbeidskraft, gi tjenester av høy kvalitet
-og bedre pasientsikkerheten i en sektor som preges av høy omstillingstakt.
-I de kommunale helse- og omsorgstjenestene
-følger Kompetanseløft 2020 opp Meld. St. 26
-
-[Side 96]
-
-94
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-(2014–2015) Fremtidens primærhelsetjeneste –
-nærhet og helhet, Omsorg 2020 (regjeringens plan
-for omsorgsfeltet 2015–2020) og Prop. 15 S
-(2015–2016) Opptrappingsplanen for rusfeltet
-(2016–2020). Planperioden er 2016–2020. Gjennom Kompetanseløft 2020 samles tiltak knyttet til
-kompetanseheving, rekruttering og fagutvikling i
-de kommunale helse- og omsorgstjenestene. Tiltakene omfatter alle nivåer i den kommunale helseog omsorgstjenesten og favner bredt. Samlet er
-det bevilget om lag 1,5 mrd. kroner til tiltak i Kompetanseløft 2020 i 2019. Regjeringen har besluttet
-at Kompetanseløft 2020 skal erstattes med et nytt
-kompetanseløft for den kommunale helse- og
-omsorgstjenesten når dagens plan avsluttes ved
-utgangen av 2020.
-Kompetanseløft 2020 består i 2019 av blant
-annet følgende tiltak:
-– Gjennom det kommunale kompetanse- og innovasjonstilskuddet gis det generelt tilskudd til
-grunn-, videre- og etterutdanning av ansatte i
-omsorgstjenestene, og til kompetansetiltak
-som gjelder rus og psykiske lidelser.
-– Sykepleiere med minst to års yrkeserfaring
-kan få lønnstilskudd til gjennomføring av masterutdanning innen avansert klinisk sykepleie.
-– Det er innført en ny masterutdanning i avansert klinisk allmennsykepleie.
-– ABC-opplæring av ufaglærte ved Nasjonal
-kompetansetjeneste for aldring og helse har
-fått finansiering. Dette er en individuelt tilpasset opplæring som kan lede til fagbrev som helsefagarbeider, og som blant annet er tilrettelagt
-for minoritetsspråklige.
-– Nasjonal lederutdanning for primærhelsetjenesten ved BI har fått finansiering. Målgruppen er ledere i den kommunale og fylkeskommunale helse- og omsorgstjenesten. Utdanningen er ettårig og har med dagens bevilgningsnivå en årlig kapasitet på 216 kandidater.
-Regjeringen har også lagt til rette for økt kompetanse i kommunene gjennom innføring av kompetansekrav i helse- og omsorgstjenesteloven. Det
-er videre innført krav om å være spesialist i allmennmedisin, eller være under spesialisering, for
-å jobbe som fastlege. Revidert forskrift om spesialistutdanning og spesialistgodkjenning for leger og
-tannleger (spesialistforskriften) trådte i kraft 1.
-mars 2019.
-Det skjer en omfattende kompetanseutvikling i
-regi av de regionale helseforetakene og helseforetakene som ivaretas innenfor deres helhetlige
-ansvar og økonomiske rammer.
-
-2019–2020
-
-Helseforetakene er store utdanningsvirksomheter og har blant annet utstrakt aktivitet for å
-heve ansattes kompetanse gjennom videre- og
-etterutdanninger og intern kompetanseheving.
-Det gjør de både i samarbeid med utdanningssektoren og i egen regi.
-I spesialisthelsetjenesten har helseforetakene
-ansvar for personell- og kompetanseplanlegging.
-De skal sørge for at det er tilstrekkelig bemanning
-som kan utføre oppgavene. De skal også planlegge for å sikre at de ansatte har den kompetansen som er nødvendig for å utføre disse oppgavene, herunder sikre kompetanseheving og
-livslang læring for ansatte i spesialisthelsetjenesten.
-Knapphet på arbeidskraft i årene som kommer, innebærer at tjenestene må utvikle kompetansen bedre. Fremskrivninger viser at det særlig
-kan bli knapphet på sykepleiere og helsefagarbeidere. I Meld. St. 7 (2019–2020) Nasjonal helse- og
-sykehusplan 2020–2023 understrekes behovet for
-at den enkelte ansatte må utvikle sin kompetanse
-gjennom hele yrkeskarrieren. Teamene må
-utvikle sin felles kompetanse, og lederne må
-utvikle sin kompetanse til å lede, fordi store utfordringer krever store endringer – som må ledes.
-Utdanningsmyndighetene må sikre at utdanningsinstitusjonene og helse- og omsorgstjenesten samvirker godt, og at utdanningene reflekterer behovene helse- og omsorgstjenesten har.
-Relevante tiltak i meldingen er:
-– Helseforetakene skal i sine utviklingsplaner
-lage en plan for å sikre tilstrekkelig kompetanse. Det skal legges til rette for livslang
-læring og en heltidskultur. Sykepleiere og helsefagarbeidere skal gis prioritet i planarbeidet.
-– Helsefellesskapene oppfordres til å sette konkrete mål for deling av kompetanse mellom
-spesialisthelsetjenesten og den kommunale
-helse- og omsorgstjenesten.
-– Utdanningene for spesialsykepleiere innen
-anestesi-, barne-, intensiv-, operasjons- og
-kreftsykepleie skal revideres.
-– Den tverrfaglige videreutdanningen i psykisk
-helse- og rusarbeid skal revideres, og det skal
-etableres en ny masterutdanning i psykisk
-helse- og rusarbeid rettet mot sykepleiere.
-– Behovet for sykepleiere med klinisk breddekompetanse i sykehus skal utredes, og det
-skal tilrettelegges for utvikling av en utdanning
-for slik kompetanse.
-– Antall lærlinger både i helsefag og i andre lærefag som er relevante i sykehus, skal økes i løpet
-av planperioden 2020–2023. Arbeidet med å
-
-[Side 97]
-
-2019–2020
-
-–
-
-–
-
-–
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-øke antall helsefagarbeiderlærlinger skal prioriteres i planperioden.
-Det skal opprettes et opplæringskontor for helsefagarbeiderlærlinger og andre relevante
-lærefag i hvert helseforetak. Helseforetak kan
-samarbeide om opplæringskontorene der det
-er hensiktsmessig.
-De regionale helseforetakene, under ledelse av
-Helse Vest RHF, skal opprette et nasjonalt kompetansedelingsprosjekt for å følge opp målet
-om flere lærlinger i planperioden.
-Helse Vest RHF skal opprette et nasjonalt nettverk for deling av metoder for utvikling av
-simuleringsopplegg og deling av disse mellom
-helseforetakene.
-
-Spesialistutdanning av leger gjennomføres primært i spesialisthelsetjenesten og i de kommunale helse- og omsorgstjenestene. Fra 1. mars
-2019 trådte en ny ordning for spesialistutdanning
-og spesialistgodkjenning av leger i kraft fullt ut for
-alle medisinske spesialiteter og for hele spesialiseringsløpet. Første fase ble innført 1. mars 2017.
-Spesialistforskriften regulerte i første omgang
-sykehusspesialitetene. I desember 2018 ble spesialitetene allmennmedisin, samfunnsmedisin og
-arbeidsmedisin også omfattet av forskriften.
-
-7.7
-
-Kompetanseutvikling i det
-kommunale barnevernet
-
-En rekke forsknings- og tilsynsrapporter har pekt
-på kompetanseutfordringer i det kommunale barnevernet. Det er også påvist alvorlig svikt i tjenestetilbudet i enkelte kommuner. Egne kartlegginger av kompetansebehovet i tjenestene har fremhevet at barnevernstjenestene særlig trenger mer
-kompetanse for å sørge for medvirkning fra, samarbeid med og samtaler med barn, sørge for nødvendig systematikk i arbeidet og ivareta enkelte
-av sine kjerneoppgaver, særlig identifisere barn
-som lever med omsorgssvikt.
-Regjeringen la høsten 2017 frem en kompetansestrategi for det kommunale barnevernet som
-skal vare til 2024. Kompetansestrategien inngår
-som en del av regjeringens barnevernsreform.
-Strategien, som ble iverksatt i 2018, inneholder en
-rekke kompetansehevende tiltak som skal bidra
-til bedre barnevernstjenester for barn og familier,
-for eksempel økt tilbud om praksisrettet etter- og
-videreutdanning for ansatte i tjenestene. Regjeringen planlegger å sende forslag til kompetansekrav
-for ansatte i barnevernet på høring i løpet av våren
-2020. Det er videre satt i gang arbeid med å
-
-95
-
-utvikle nasjonale retningslinjer om læringsutbytte
-i barnevernsfaglige masterutdanninger.
-Regjeringen har igangsatt et arbeid med å
-utvikle en tverrsektoriell kompetansestrategi om
-vold og overgrep, jf. tiltak i Opptrappingsplan mot
-vold og overgrep (2017–2021). Vold i nære relasjoner og vold og overgrep mot barn er ofte gjentakende. Det er derfor viktig at vold oppdages og
-stoppes tidlig, for å unngå langsiktige skadevirkninger. For at ansatte i virksomheter som tilbyr
-offentlige tjenester skal utgjøre en forskjell for
-volds- og overgrepsutsatte, trenger de kompetanse om vold og overgrep, og gode rutiner for å
-avdekke vold og handle ved mistanke. Barne-,
-ungdoms- og familiedirektoratet (Bufdir) har fått i
-oppdrag å bidra i arbeidet med å utvikle kompetansestrategien i samarbeid med andre relevante
-fagdirektorater.
-Regjeringen vil fortsette arbeidet med å øke
-kompetansen i barnevernet og utvikle en felles
-nasjonal kompetansestrategi om vold og overgrep.
-
-7.8
-
-Kompetanseutvikling i politiet
-
-Behovet for kompetanseutvikling i politiet har økt.
-Det er behov for økt spesialisering, og digitalisering har ført til nye kompetansebehov. Kvalitetstiltak i nærpolitireformen skaper også behov for
-kompetanseutvikling.
-Kompetanseheving i politiet er de siste årene i
-hovedsak knyttet til det store reformarbeidet som
-har pågått i etaten (nærpolitireformen), blant
-annet en satsing på å heve kvaliteten i straffesaksarbeidet (etterforskningsløftet) og en satsing på
-opplæring av personell i patruljevirksomhet (mer
-politiarbeid på stedet), samt til det digitale skiftet.
-Stortinget vedtok nærpolitireformen i 2015, jf.
-Prop. 61 LS (2014–2015) Endringer i politiloven
-mv. (trygghet i hverdagen – nærpolitireformen) og
-Innst. 306 S og 307 L (2014–2015). Målet med
-reformen er å sikre et operativt, synlig og tilgjengelig nærpoliti, med kapasitet til å forebygge,
-etterforske og påtale kriminelle handlinger. Reformen får konsekvenser for hvilken kompetanse de
-ulike delene av politiet må ha. Nye funksjoner og
-arbeidsprosesser krever ny kompetanse blant
-annet i bruk av digitale løsninger, og det foregår
-derfor mange opplæringsaktiviteter i politiet, slik
-at politiet kan utføre oppdraget i tråd med reformens ambisjoner.
-Et særlig område som skal løftes faglig er
-etterforskningsfeltet. Riksadvokaten og Politidirektoratet (POD) har utarbeidet en felles hand-
-
-[Side 98]
-
-96
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-lingsplan for løft av etterforskningsfeltet. Styrket
-satsing på kompetanseutvikling ved blant annet
-bruk av kompetanseplaner, obligatorisk årlig opplæring og opplæringsansvarlig inngår i handlingsplanen.
-POD har også utarbeidet en strategi for digital
-kompetanseheving i politiutdanningen. Strategien omfatter både grunnutdanningen og etter- og
-videreutdanningen. Hensikten er å gi politiet
-grunnleggende forståelse for sikring av digitale
-spor fra datautstyr, over internett og fra mobiltelefoner.
-Politihøgskolen (PHS) har utviklet et stort
-etter- og videreutdanningstilbud for å møte behovet for ny kompetanse i etaten og for å holde tritt
-med samfunnsutviklingen. Det har vært en betydelig vekst i både bredde og volum i etter- og videreutdanningstilbudet ved PHS. Opptaket av studenter til disse tilbudene har vokst med 86 prosent siden studieåret 2013/2014. Fremover forventes behovet å vokse ytterligere.
-
-7.9
-
-Kompetanseutvikling i forsvaret
-
-Forsvaret har mange ulike oppgaver som krever
-en stadig mer spesialisert kompetanse innen flere
-fagfelt. Forsvaret har tradisjonelt vært organisert
-slik at den eneste karriereveien har vært å stige i
-gradene. Det har vært mindre attraktivt å utvikle
-spesialistkompetanse eller å skifte stilling på
-samme nivå i organisasjonen. Begrensede horisontale karrieremuligheter påvirker kvaliteten i
-den operative strukturen negativt. En ny ordning
-for militært tilsatte (militærordningen) ble derfor
-vedtatt av Stortinget ved behandlingen av Innst.
-335 L og 336 S (2014–2015) til Prop. 111 LS
-(2014–2015). Ordningen fastsetter de overordnede rammene for tilsetting, disponering, avansement og utdanning av militært tilsatte. Forsvaret
-har innført to komplementære karrieresystemer
-med én karrierevei for offiserer og én karrierevei
-for spesialister.
-En omfattende reform av Forsvarets utdanningssystem ble vedtatt av Stortinget ved behandling av Innst. 62 S (2016–2017) til Prop. 151 S
-(2015–2016). Målet er et system som leverer
-behovsprøvd, kostnadseffektiv og relevant militær
-utdanning. Forsvarets utdanningssystem har blitt
-tilpasset til den nye todelingen, og tyngdepunktet
-har blitt vridd fra nivådannende utdanning for offiserer til fag- og funksjonsrettet utdanning for både
-offiserer og spesialister. Behovet for spesialistkompetanse i forsvarssektoren sammenfaller med
-knapphet innenfor flere kompetanseområder i
-
-2019–2020
-
-samfunnet. En solid base av fagspesialister fordrer derfor at forsvarssektoren er konkurransedyktig i arbeidsmarkedet – og at de ansatte i sektoren ser på spesialistkarrieren som et attraktivt
-alternativ til en offiserskarriere. For å lykkes med
-dette ble det høsten 2018 igangsatt et eget prosjekt – Spesialisten – som skulle identifisere virkemidler for å redusere sluttrater og gjøre spesialistkarrieren mer attraktiv og konkurransedyktig.
-Prosjektet, som ble ferdigstilt høsten 2019, har
-anbefalt følgende målbilde for fag- og funksjonsutdanning i Forsvaret:
-I 2025 tilbyr Forsvaret en relevant, behovsprøvd og fleksibel fag- og funksjonsutdanning.
-Utdanningen tilbys i riktig mengde til rett tid i
-spesialistenes karriereløp, også gjennom aktiv
-bruk av oppdatert læringsteknologi. Utdanningen styres, ledes og videreutvikles basert på
-utdanningsdokumentasjon av høy kvalitet, på
-tvers av driftsenheter og koordinert med nivådannende utdanning i rammen av ett utdanningssystem. Utdanningen er relevant ved at
-den bidrar til å dekke Forsvarets og den enkeltes til enhver tid gjeldende kompetansebehov,
-og ved at den bidrar til å gi spesialistkarrieren
-høy status og anerkjennelse.
-Forsvaret har identifisert konkrete handlingspunkter i forlengelsen av prosjektet. Disse innebærer blant annet å utarbeide helhetlige utdannings- og tjenesteplaner med vekt på fleksibilitet
-og muligheter, å innføre kompetansenivåer for
-fagspesialister, å koble lønn og kompetanse tettere sammen og å inngå kompetansepartnerskap
-med sivile utdanningsinstitusjoner. I forbindelse
-med kommende langtidsplan for forsvarssektoren
-tar regjeringen sikte på å fortsette videreutviklingen av utdanningssystemet samt legge til rette for
-ytterligere konsolidering der det er hensiktsmessig. Videre vil utvikling av fleksible løsninger for
-etter- og videreutdanning som kan kombineres
-med arbeid, være nødvendig for å møte krav om
-kontinuerlig forbedring og tilpasning til omskiftelige sikkerhetspolitiske omgivelser.
-
-7.10 Digital opplæring for statlig
-ansatte
-For å effektivisere, samordne og målrette kompetanseutviklingen i staten og imøtekomme kravene
-til omstilling og utvikling for statens ansatte ble
-det i 2014 bevilget 40 mill. kroner til en felles satsing på digital opplæring – På nett med læring –
-
-[Side 99]
-
-2019–2020
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-for alle statens ansatte. Målet var å styrke og samordne kompetanseutviklingen i staten gjennom å
-etablere en felles plattform for distribusjon og
-deling av opplæringsprogrammer. Programmet
-På nett med læring ble etablert, og ved programmets avslutning har Direktoratet for forvaltning
-og IKT (Difi), som fikk oppdraget, utviklet en
-læringsplattform som tilbyr 34 ulike e-læringskurs
-og digitale verktøy som er åpne for alle. Kursene
-favner et vidt spekter av temaer som er relevante
-for offentlig sektor. Det er i dag 26 000 registrerte
-brukere på plattformen.
-Kommunal- og moderniseringsdepartementet
-har også ansvar for å følge opp Helhet, kvalitet og
-effektivitet. Strategi for bedre og mer effektive administrative tjenester i departementsfellesskapet
-(2016–2020). De har gitt Departementenes sikkerhets- og serviceorganisasjon (DSS) i oppdrag å
-etablere tilbud om opplæring og kompetanseutvikling som en fellestjeneste. DSS er i gang med
-utvikling av opplæringstiltak og verktøy for kompetanseutvikling for ansatte i departementene.
-Regjeringen vil sikre videreføring av en felles
-satsing på digital opplæring i staten.
-
-97
-
-7.11 Tverrsektorielt samarbeid om
-kompetanseutvikling
-Kompetanseutvikling blir stadig viktigere som virkemiddel for å forbedre kvaliteten i offentlige tjenester eller i satsinger på enkelte næringer. For at
-satsinger på kompetanseutvikling skal kaste mest
-mulig av seg, må tilbudene som utvikles, svare til
-behovene i sektorene, og etterspørselen må mobiliseres.
-Kunnskapsdepartementet er i gang med å
-utvikle infrastrukturen som er nødvendig for å
-identifisere kompetansebehov, mobilisere etterspørsel og koble utdanningsinstitusjoner og
-arbeidslivet i utvikling av nye tilbud. Kunnskapsdepartementet har etablert søknadsbaserte ordninger for å støtte utvikling av videreutdanningstilbud og drift av videreutdanningstilbud, jf. vedlegg 1. På sikt vil Kunnskapsdepartementet
-utvikle infrastrukturen slik at andre departementer som ønsker å satse på kompetanseutvikling i
-sin sektor, kan benytte en felles infrastruktur.
-
-[Side 100]
-
-98
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-2019–2020
-
-8 Økonomiske og administrative konsekvenser
-Målene for kompetansereformen er for det første
-at ingen skal gå ut på dato på grunn av manglende
-kompetanse, og for det andre at vi skal tette kompetansegapet, det vil si gapet mellom hva arbeidslivet trenger av kompetanse, og den kompetansen
-arbeidstakerne faktisk har.
-Tiltakene i denne meldingen er rettet mot at
-flere skal oppdatere sin kompetanse og bli stående lenger i jobb, og at virksomheter skal ha tilgang til nødvendig kompetanse, noe som vil føre
-til økt produktivitet og innsparinger i trygdeutgifter. Både norsk og internasjonal forskning viser at
-kompetanseutvikling kan være økonomisk lønnsomt både for den enkelte og for samfunnet.
-Stortinget har bevilget om lag 300 mill. kroner til
-tiltak knyttet til kompetansereformen i 2020. De viktigste tiltakene er endringer i Lånekassens ordninger, Kompetanseprogrammet og søknadsbaserte
-ordninger i Diku. Økonomiske og administrative
-konsekvenser av disse tiltakene omtales nærmere
-under. I tillegg har Stortinget bevilget 5 mill. kroner
-til 100 nye fagskoleplasser som kan tas ved siden av
-jobb i 2020 og 10 mill. kroner til tiltak rettet mot ungdom mellom 16 og 24 år som har falt ut av videregående opplæring. Pengene skal fordeles på fylkene. I
-tillegg har Stortinget i 2020 bevilget 250 mill. kroner til fylkeskommunene i forbindelse med
-korona-krisen og 150 mill. kroner til andre kompetansehevende tiltak, blant annet til å styrke treparts bransjeprogrammer for kompetanseutvikling, jf. Innst. 233 S (2019–2020).
-Meldingen peker ut en retning for regjeringens videre politikk. Noen tiltak innebærer i
-hovedsak vurderinger og utredninger. Utgiftene
-til dette vil bli dekket innenfor de ordinære budsjettrammene.
-Regjeringen tar forbehold om at noen tiltak
-som skal vurderes, først kan bli aktuelle å gjennomføre når det er budsjettmessig dekning for
-dem. Forslag som krever bevilgningsøkninger, vil
-bli fremmet for Stortinget i forbindelse med de
-årlige statsbudsjettene.
-
-8.1
-
-Økonomiske og administrative
-konsekvenser av hovedtiltakene
-
-8.1.1 Lånekassens ordninger
-Stortinget har bevilget 46 mill. kroner til å gjøre
-Lånekassens ordninger mer fleksible fra og med
-2019.
-Regjeringen har
-– åpnet for å gi tilleggslån til livsopphold for
-voksne i utdanning
-– avviklet minstekrav om at deltidsutdanning må
-være minst 50 prosent av fulltidsutdanning for
-å få rett til lån og stipend
-– endret beregningsmåten for lån og stipend ved
-deltidsutdanning for å få rett til lån og stipend
-– hevet aldersgrensene for når lån må være
-betalt tilbake, til 70 år og for når lån kan bli
-redusert, til 50 år
-– gjort mindre endringer som gjør det lettere for
-voksne å ta videregående opplæring
-Eventuelle budsjettvedtak i Stortinget om
-endringer i ordningene krever endring i forskriften om utdanningsstøtte og i Lånekassens saksbehandlingssystem.
-
-8.1.2 Kompetanseprogrammet
-Stortinget har bevilget 97 mill. kroner til Kompetanseprogrammet i 2020. Kompetanseprogrammet består i 2020 av tre forskjellige programområder
-– tilskudd til fleksible videreutdanningstilbud
-– treparts bransjeprogram for kompetanseutvikling
-– utprøving av insentivordninger for livslang
-læring
-Stortinget har besluttet at av potten på 97 mill.
-kroner vil 45 mill. kroner gå til programområde 2
-– treparts bransjeprogram for kompetanseutvikling. Treparts bransjeprogram for kompetanseutvikling er en pilotordning som pågår til 2022.
-Bevilgninger til Kompetanseprogrammet vil for
-øvrig avhenge av de årlige statsbudsjettene. I til-
-
-[Side 101]
-
-2019–2020
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-legg har Stortinget i forbindelse med korona-krisen bevilget ekstra midler til Kompetanseprogrammet, se over.
-Etableringen av Kompetanseprogrammet har
-administrative konsekvenser for Kompetanse
-Norge.
-
-8.1.3 Søknadsbaserte ordninger i Diku
-Stortinget har for 2020 bevilget til sammen 61
-mill. kroner til fleksible utdanningstilbud som
-lyses ut til universiteter og høyskoler gjennom
-Diku. Noe av midlene er ettårige, mens noe er
-flerårige og vil bli økt i takt med en forventet opptrapping av studietilbudene. Midlene er fordelt
-slik:
-– 36 mill. kroner er satt av til drift av fleksible
-videreutdanningstilbud for personer som har
-behov for endret og ny kompetanse som følge
-av digitalisering og det grønne skiftet;
-– 20,8 mill. kroner er satt av til utvikling av fleksible studietilbud (desentraliserte, nettbaserte,
-samlingsbaserte, deltid);
-– 4,6 mill. kroner til en tilskuddsordning for drift
-av fleksible studietilbud. Bevilgningen trappes
-opp over fire år og vil utgjøre 36,8 mill. kroner
-i 2024.
-Eventuelle fremtidige bevilgningsøkninger utover
-dette vil avhenge av de årlige statsbudsjettene.
-
-99
-
-Tildeling fra Diku regnes ikke som ekstern
-finansiering for universiteter og høyskoler, og
-institusjonene vil dermed få resultatbasert uttelling for avlagte studiepoeng og uteksaminerte
-kandidater, jf. finansieringssystemet for universiteter og høyskoler.
-Etableringen av den søknadsbaserte ordningen har administrative konsekvenser for Diku.
-Ordningen vil bli vurdert når den har virket en tid.
-
-8.1.4 Digital kompetanseplattform
-Regjeringen har besluttet å ta initiativ til å utvikle
-en digital kompetanseplattform. Kompetanse
-Norge utreder ulike løsninger for en digital plattform. Minst ett av løsningsforslagene skal kunne
-gjennomføres innenfor gjeldende økonomiske
-rammer.
-8.1.5
-
-Utvidelse av godkjenningsordning for
-utenlandsk fag- og yrkesopplæring
-NOKUT fikk i 2016 tilført 17 mill. kroner for å etablere ordningen, og bevilgningen ble utvidet i
-2017 til 24 mill. kroner. Videre kostnader til ordningen vil avhenge av ambisjonsnivå og av hvor
-mange land og fag som skal inn i ordningen.
-
-[Side 102]
-
-100
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-2019–2020
-
-9 Oversikt over tiltakene
-Tiltak for å stimulere til mer etterspørsel etter
-kompetanseutvikling
-
-–
-
-Regjeringen har
-–
-–
-–
-–
-–
-
-åpnet for å gi tilleggslån til livsopphold for
-voksne i utdanning
-avviklet minstekrav om at deltidsutdanning må
-være minst 50 prosent av fulltidsutdanning for
-å få rett til lån og stipend
-endret beregningsmåten for lån og stipend ved
-deltidsutdanning
-hevet aldersgrensene for når lån må være
-betalt tilbake, til 70 år og for når lån kan bli
-redusert, til 50 år
-gjort mindre endringer som gjør det lettere for
-voksne å ta videregående opplæring
-
-–
-
-–
+## Utvikling av godkjenningsordningene for kompetanse fra utlandet
+
+Godkjenningsordningene for utenlandsk utdanning og yrkeskvalifikasjoner fra utlandet skal bidra til at personer med utenlandsk utdanning effektivt kan bruke kompetansen sin i Norge. For godkjenningsordningene for yrkeskvalifikasjoner er hensikten å sikre at yrkesutøvere har de nødvendige kvalifikasjonene for å kunne utøve yrket i Norge.
+
+Personer med utenlandsk kompetanse (både nordmenn som har utdanning fra utlandet, arbeidsinnvandrere og flyktninger) kan ha problemer med å ta i bruk sin kompetanse i det norske arbeidsmarkedet. Godkjenningsordningene for kompetanse fra utlandet er viktige verktøy som kan bidra til at flere får brukt sin kompetanse, og til at arbeidslivet får dekket sitt kompetansebehov.
+
+Det finnes ulike godkjenningsordninger. På den ene siden har man ordninger for frivillig godkjenning. Her inngår NOKUTs godkjenningsordninger for høyere utdanning, for fagskoleutdanning og for fag- og yrkesopplæring. På den andre siden har vi godkjenningsordninger for spesifikke kvalifikasjoner, som ordningene for de regulerte yrkene. Et lovregulert yrke betyr at myndighetene i lov eller forskrift krever bestemte kvalifikasjoner for retten til å benytte yrkestittel og/eller utøve yrket. Det er en vesentlig forskjell mellom godkjenning av utdanning og yrkesgodkjenning. Godkjenning av utdanning er frivillig og kan være til hjelp for personer med utdanning fra utlandet. Yrkesgodkjenning er derimot et krav for at en person med kvalifikasjoner fra utlandet kan utøve et regulert yrke i Norge. For eksempel er hovedformålet med autorisasjonsordningen for helsepersonell å ivareta pasienters sikkerhet, og å ivareta kvalitet og tillit til helse- og omsorgstjenesten og helsepersonell. Autorisasjon skal bidra til at helsepersonell med en bestemt tittel har nødvendige kvalifikasjoner når de utøver yrket. En generell og faglig godkjenning av utenlandsk utdanning innebærer ikke rett til å praktisere i lovregulerte yrker.
+
+Godkjenningsfeltet ble gjennomgått helhetlig i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse. Samordnet innsats for voksnes* *læring*. Nedenfor omtales utviklingen i ettertid av denne meldingen.
+
+### Godkjenningsordningen for utenlandsk fag- og yrkesopplæring
+
+Godkjenningsordningen ble etablert i 2016. Den er forankret i opplæringsloven og forvaltes av NOKUT. I tråd med stortingsbehandlingen av lovforslaget bygges ordningen gradvis opp. Ordningen startet med to land og fem kvalifikasjoner, og omfatter nå fem land og nitten kvalifikasjoner. Ordningen ble innført som en direkte oppfølging av Meld. St. 16 (2015– 2016) og inngår også i regjeringens strategi mot arbeidslivskriminalitet.[^62]
+
+I denne godkjenningsordningen blir utenlandsk fag- og yrkesopplæring vurdert opp mot og sidestilt med norske fag- eller svennebrev. En opplæring godkjennes som sidestilt når den har samme nivå og omfang og inneholder mange av de samme vesentlige faglige elementene som det norske faget.
+
+NOKUT publiserte høsten 2018 en egenevaluering av godkjenningsordningen for utenlandsk fag- og yrkesopplæring. Evalueringen viser positive effekter for dem som får godkjenning. Flere av respondentene opplyser at de har fått nye oppgaver og forbedret status i bedriften. Flere opplyser også at de har fått høyere lønn som følge av godkjenningen.
+
+En utfordring med ordningen er at det er til dels store forskjeller mellom hvordan fagene er inndelt og sammensatt i norsk og utenlandsk fag- og yrkesopplæring. NOKUT viser i sin egenevaluering at dette fører til mange avslag for opplæringer som ellers har samme nivå og omfang som norsk opplæring. Opplæringene kan for eksempel ha et bredere eller smalere faglig innhold sammenlignet med aktuelt norsk fag.
+
+Det er også en krevende oppgave å foreta en faglig vurdering av en utenlandsk fag- og yrkesopplæring. De utenlandske læreplanene må analyseres og sammenlignes med norske krav til fag- og svennebrev, noe som er et tidkrevende arbeid. Regjeringen har derfor prioritert de utdanningene og landene det har kommet flest arbeidsinnvandrere fra. Ved en utvidelse av ordningen vil regjeringen fortsatt prioritere land med høy arbeidsinnvandring til Norge. Utviklingen av ordningen har skjedd i nært samarbeid med partene i arbeidslivet, og regjeringen vil videreføre dette.
+
+Regjeringen etablerte høsten 2019 en arbeidsgruppe som skal se på erfaringene med ordningen så langt og komme med forslag til endringer for å utvide og videreutvikle ordningen på en hensiktsmessig måte. NOKUT har fått i oppdrag å etablere arbeidsgruppen og skal være sekretariat for denne. Arbeidsgruppen vil levere sin rapport til departementet i løpet av våren 2020. Arbeidslivet og bransjene deltar med representanter i denne arbeidsgruppen.
+
+### Godkjenningsordningen for utenlandsk fagskoleutdanning
+
+Godkjenningsordningen for utenlandsk fagskoleutdanning startet 1. januar 2019. Ordningen for fagskoleutdanning er en generell ordning som beskriver utdanningens nivå og omfang, og omfatter alle utdanninger i alle land. Vedtaket om godkjenning skal kort beskrive fagområdet for utdanningen, blant annet ved å oppgi hvilket yrke eller hvilken bransje eller sektor utdanningen kvalifiserer for der den er avlagt.
+
+Det er flere utfordringer med godkjenningsordningen for utenlandsk fagskoleutdanning. Det er få godkjenningskontorer i andre land som forholder seg til dette nivået. Det finnes også lite kunnskap om utdanninger på fagskolenivå globalt. Fagskoleutdanning har også ofte uklare grenser til både fag- og yrkesopplæring og høyere utdanning. Det finnes heller ingen internasjonale avtaler eller konvensjoner for fagskoleutdanning. I tillegg er det en utfordring å få verifisert søkernes utdanningsdokumenter. Summen av alt dette gjør at saksbehandlingstiden på søknader under denne ordningen varierer. Regjeringen vil evaluere ordningen tre år etter implementering.
+
+### Godkjenningsordningen for utenlandsk høyere utdanning
+
+Personer som har høyere utdanning fra utlandet, kan ha behov for en godkjenning som gir informasjon til potensielle arbeidsgivere om hvilket nivå og omfang utdanningen deres har.
+
+Ordningen innebærer at søkeren får sin utenlandske høyere utdanning vurdert opp mot kravene til akkrediterte norske utdanninger. Ordningen er frivillig og er ment som et hjelpemiddel for personer som vil inn på det norske arbeidsmarkedet. Utdanningen vurderes bare ut fra nivå og omfang, og godkjenningen sier ikke noe om det faglige innholdet. Retten til å gi generell godkjenning er forankret i universitets- og høyskoleloven.[^63] NOKUT har ansvar for forvaltning av ordningen.
+
+NOKUT har systematisk bygget opp kompetanse om høyere utdanning i andre land. NOKUT mottok rundt 7000 søknader om generell godkjenning i 2018, med en gjennomsnittlig saksbehandlingstid på tre måneder. I tillegg gjør NOKUT årlig rundt 200 vurderinger ved hjelp av intervjubaserte metoder for søkere med manglende eller ikke-verifiserbar dokumentasjon, knyttet til UVD-ordningen (godkjenningsordning for personer uten verifiserbar dokumentasjon) og kvalifikasjonsvurdering. De intervjubaserte metodene utviklet av NOKUT ses på med interesse fra utlandet og ligger til grunn for ordninger under begrepet kvalifikasjonspass.[^64] Regjeringen bidrar til å finansiere disse ordningene, og NOKUT bidrar faglig.
+
+Den generelle godkjenningen av høyere utenlandsk utdanning sier ingenting om det faglige innholdet i utdanningen, noe arbeidsgivere i noen tilfeller vil etterspørre. Dette gjelder særlig for fagspesifikke grader med en tilhørende tittel, når den ikke er lovregulert. I tillegg kan det være nødvendig med en faglig vurdering av utdanningen dersom søkeren ønsker å studere videre ved en norsk utdanningsinstitusjon.
+
+Per i dag er det imidlertid ingen formell, sentral ordning som vurderer det faglige innholdet i høyere utdanning fra utlandet i Norge. For å få en faglig vurdering av utenlandsk utdanning må søkere ta kontakt med et norsk universitet eller en norsk høyskole som er akkreditert og tilbyr tilsvarende utdanning. Dette er forankret i universitets- og høyskolelovens § 3-5 om godskriving og faglig godkjenning.[^65] I mange tilfeller vil universiteter og høyskoler likevel kun gjøre en slik vurdering i forbindelse med opptak til studier på det samme lærestedet. Faglig godkjenning vil dermed ofte inngå som en del av en søknadsprosess der den enkelte institusjon avgjør om den utenlandske utdanningen oppfyller kravene til opptak på det enkelte studieprogrammet.
+
+Ordningen med å søke godkjenning av utenlandsk utdanning som faglig jevngod med norsk grad og tilhørende rett til å bruke tittel er lite etterspurt. Det er kun 109 slike vedtak om jevngodhet med norsk grad som er registrert i GAUS.[^66] Totalt er det registrert over 60 000 godkjenningssaker i universitets- og høyskolesektoren i dette systemet. Men dette omfatter også andre typer godkjenning, som for eksempel innpassing mot videre studier, og godkjenning av kurs og eksamen avlagt i utlandet i forbindelse med utvekslingsprogrammer.
+
+### Yrkesgodkjenning etter yrkeskvalifikasjonsdirektivet
+
+Deltakerne i det norske arbeidsmarkedet har kvalifikasjoner fra mange forskjellige land. De fleste har fått sine kvalifikasjoner i Norge, men stadig flere har kvalifikasjoner fra utlandet. Noen har flyttet til Norge for å jobbe, noen er flyktninger, noen har kommet på familiegjenforening, og noen har reist ut som student og kommet hjem igjen med utdanning fra utlandet. Felles for alle er at de kan ha behov for å få sine yrkeskvalifikasjoner godkjent slik at de kan få relevant jobb, når yrket er regulert i Norge.
+
+For å lette den frie bevegelsen for arbeidstakere og tjenesteytere har EU utarbeidet direktiv om godkjenning av yrkeskvalifikasjoner. Yrkeskvalifikasjonsdirektivet, som blant annet er gjennomført i norsk rett i yrkeskvalifikasjonsloven, kommer til anvendelse for EØS-statsborgere som ønsker å praktisere et regulert yrke i en annen EØS-stat (vertsstaten) enn den staten de har yrkeskvalifisert seg i (hjemstaten).[^67] Det kommer til anvendelse for arbeidstakere og tjenesteytere og for personer som ønsker å etablere seg innenfor yrkesregulert virksomhet. I yrkeskvalifikasjonsdirektivet og yrkeskvalifikasjonsloven spesifiseres noen grunnleggende prinsipper som vil gjelde for at en person fra en EØS-stat eller Sveits skal omfattes av regelverket. Et av prinsippene i yrkeskvalifikasjonsdirektivet er at det skal gi yrkesutøver en rett til å utøve det samme yrket i vertsstaten som vedkommende er kvalifisert for å utøve i hjemstaten. Både yrkeskvalifikasjonsdirektivet og yrkeskvalifikasjonsloven forutsetter at yrkesutøver har dokumenterbare yrkeskvalifikasjoner.
+
+Yrkesgodkjenning etter yrkeskvalifikasjonsdirektivet er noe annet enn godkjenning av utdanning. Ordningen er innrettet med utgangspunkt i arbeidsmarkedet og ikke utdanningssystemet, og den gjelder ikke for personer som ønsker godkjenning for å studere videre i Norge. Personer som blir godkjent, får rett til å praktisere yrket og benytte yrkestittelen i Norge.
+
+Selv om det kan være utfordringer knyttet til yrkesgodkjenningsordningen for regulerte yrker for EØS-borgere, er dette et etablert system som gir rimelig forutsigbare rammer for godkjenning. For borgere av land utenfor EØS eller Sveits er situasjonen en annen ved at det ikke er felles regler for behandling av slike søknader. Saksbehandlingen er mer komplisert, særlig for søknader som gjelder utdanning fra land i Asia og Afrika. Saksbehandlingen resulterer også ofte i et krav om at den enkelte må gjennomføre mer utdanning og/eller skaffe seg mer arbeidspraksis før godkjenning eller autorisasjon blir gitt. Det kan blant annet skyldes at utdanning ervervet utenfor EØS eller Sveits ikke passer så godt inn i det norske utdanningssystemet og ikke er harmonisert eller regulert gjennom EU-direktiver i samme grad som utdanninger fra EØS-land eller Sveits.
+
+Godkjenning av utenlandsk utdanning og yrkesgodkjenning omtales i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse. Samordnet innsats for voksnes* *læring*, der regjeringen foreslår flere tiltakspunkter som Stortinget sluttet seg til i behandlingen i juni 2016. Dette gjelder blant annet å vurdere tiltak som kan gi økt forutsigbarhet, større grad av likebehandling og enkel tilgang til informasjon og veiledning for ikke-EØS-borgere som søker om yrkesgodkjenning for å kunne utøve et lovregulert yrke.
+
+### Bedre informasjon og helhet i systemet for godkjenningsordninger
+
+Systemet for godkjenningsordninger er komplekst. Regjeringen vil bidra til bedre samordning og helhet på godkjenningsfeltet slik at det skal bli enklest mulig for personer med utenlandsk utdanning å få brukt kompetansen sin i Norge. I første omgang vil regjeringen sørge for bedre informasjon om godkjenningsordningene og gjennomgå behovet for kompletterende utdanninger. Regjeringen vil også se på endringer som kan bidra til bedre samordning og helhet på godkjenningsfeltet.
+
+Riksrevisjonen leverte i juni 2019 en rapport til Stortinget om godkjenning av utdanning og yrkesgodkjenning fra utlandet.[^68] I rapporten peker Riksrevisjonen på at informasjonen til brukerne ikke er god nok, at det ikke er lagt godt nok til rette for effektiv saksbehandling hos godkjenningsmyndighetene, at det er dårlig tilrettelagt for påbygging av utdanning og yrkeskvalifikasjoner fra utlandet, og at godkjenningsfeltet er preget av lite samhandling. Riksrevisjonens rapport ble behandlet i Stortinget 26. november 2019, da det ga sin tilslutning til Riksrevisjonens anbefalinger.[^69]
+
+Bedre informasjon
+
+Regjeringen er enig i at det finnes et forbedringspotensial når det gjelder informasjon til brukerne. Det finnes i dag informasjon om yrkesgodkjenning hos Altinn og informasjon for dem som ønsker å studere i Norge, på nettstedet *www.studyinnorway.no*. Helsedirektoratet har informasjonssider om autorisasjon av helsepersonell. Regjeringen vil sørge for at informasjon om godkjenningsordningene, både for utdanning og for yrkesgodkjenning, blir bedre og mer tilgjengelig, blant annet gjennom NOKUTs nettsider og gjennom Altinn for yrkesgodkjenning. Altinn er kontaktpunkt etter tjenesteloven, og etter yrkeskvalifikasjonsloven og yrkeskvalifikasjonsdirektivet. Informasjon om yrkesgodkjenning, det vil si beskrivelse av fagfeltet og henvisning til relevante nettsider der søkere og veiledere kan finne informasjon, skal være tilgjengelig på kontaktpunktet.
+
+Tilgang til kompletterende utdanninger
+
+Når det gjelder tilrettelegging for påbygging av utdanning og yrkeskvalifikasjoner fra land utenfor EØS, er det de senere årene utviklet en del tilbud for personer som trenger kompletterende utdanning for å kunne få yrkesgodkjenning. Tilbudet dekker imidlertid ikke alle yrker, og det er ikke nok informasjon om mulighetene og kravene til å få yrkesgodkjenning. Regjeringen vil sørge for en gjennomgang av behovet for kompletterende utdanning for de regulerte yrkene og gi Kunnskapsdepartementet et pådriveransvar for å bidra til at det utvikles slike tilbud i utdanningssektoren.
+
+Bedre sammenheng i godkjenningssystemet
+
+I dag behandles søknader om yrkesgodkjenning i 16 forskjellige yrkesgodkjenningsmyndigheter, som stort sett er direktorater. I Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse. Samordnet innsats for voksnes* *læring* varslet regjeringen blant annet at den ville vurdere tiltak for økt forutsigbarhet og større grad av likebehandling. Riksrevisjonen stiller spørsmål ved om det har vært god nok samordning i bruken av regelverket for yrkesgodkjenning.
+
+Mange søkere er omfattet av regler fra yrkeskvalifikasjonsdirektivet, som er gjennomført i norsk rett i yrkeskvalifikasjonsloven og i egne forskrifter til helsepersonelloven og dyrehelsepersonelloven. Dette skal sørge for likebehandling, men reglene omfatter kun personer med statsborgerskap og utdanning fra et EU/EØS-land. Det er imidlertid utfordrende å samordne gjennomføringen av reglene på tvers av godkjenningsmyndighetene. Regjeringen har derfor sendt på høring forslag om at relevante prinsipper fra yrkeskvalifikasjonsdirektivet også skal gjelde for tredjelandsborgere med yrkeskvalifikasjoner fra tredjeland, jf. boks 6.6. Dette vil gi et samlet regelverk på tvers av yrkene og gjelde også for tredjelandsborgere. Høringsforslaget omfatter ikke yrkesgodkjenning av helsepersonell eller dyrehelsepersonell. Helse- og omsorgsdepartementet og Landbruks- og matdepartementet utreder forslag til endringer i yrkesgodkjenningen av helsepersonell og dyrehelsepersonell.
+
+Høring om endringer i yrkeskvalifikasjonsloven og forskrift om godkjenning av yrkeskvalifikasjoner
+
+Kunnskapsdepartementet har sendt på høring endringer i lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven) og forskrift om godkjenning av yrkeskvalifikasjoner i et eget høringsnotat.
+
+Kunnskapsdepartementet har sendt på høring et forslag om at enkelte av prinsippene i yrkeskvalifikasjonsloven med tilhørende forskrift også skal gjelde for personer, også norske statsborgere, med yrkeskvalifikasjoner fra tredjeland. Det vil si land utenfor EU/EØS eller Sveits. Hensikten er at disse personene kan få bedre oversikt over hva man trenger for å få komplettert og godkjent yrkeskvalifikasjonene sine.
+
+Departementet foreslår at følgende prinsipper legges til grunn:
+
+- *Godkjenningsprinsippet:* Ved behandling av søknader skal det legges vekt på de helhetlige yrkeskvalifikasjonene og ikke bare den formelle utdanningen. Hvis summen av de helhetlige yrkeskvalifikasjonene ikke er vesentlig forskjellige fra kravene i Norge, bør det i utgangspunktet gis godkjenning.
+
+- *Utligningstiltak:* Når en søker mangler de nødvendige kvalifikasjonene for godkjenning, bør søker opplyses om tiltak som prøveperiode, egnethetstest eller kompletterende utdanning i den grad slike tilbud er tilgjengelige.
+
+- *Delvis adgang:* Når en søkers kvalifikasjoner dekker deler av de oppgavene en godkjenning gir rett til å utøve, kan det gis godkjenning for denne delen av yrket. Det er en forutsetning at det er mulig å skille mellom de forskjellige delene av et yrke.
+
+- *Tidspunkt for vurdering av språkkrav:* Det stilles som hovedregel ikke språkkrav i godkjenningsprosessen, men før vedkommende kan starte i arbeid. Søker kan dermed få vite om vedkommende kvalifiserer til yrkesutøvelse mens språkopplæringen fortsatt pågår.
+
+\[Boks slutt\]
+
+Regjeringen ser nå nærmere på hvordan ansvaret for deler av godkjenningsprosessen for yrkesgodkjenning kan flyttes fra yrkesgodkjenningsmyndighetene til NOKUT. Yrkesgodkjenningsmyndighetene bør fortsatt ha ansvar for den endelige faglige vurderingen av om en person er kvalifisert til å kunne utøve et lovregulert yrke i Norge. NOKUT vil ha ansvar for vurderingen av søkernes utdanning og om denne er ekte, og på hvilket nivå etter yrkeskvalifikasjonsdirektivet den ligger. Når dette ansvaret samles hos NOKUT, vil NOKUTs allerede sterke fagmiljø på utenlandsk utdanning styrkes. Dette vil gi gode forutsetninger for effektiv saksbehandling av høy kvalitet.
+
+Gjennom samlingen av deler av godkjenningsoppgavene ved yrkesgodkjenning hos NOKUT vil vi få en bedre, men likevel ikke fullstendig og kvalitetssikret statistikk om søknader, saksbehandlingstid og vedtak. Denne statistikken vil dekke både EU/EØS-borgere og tredjelandsborgere. Dette vil gi viktig styringsinformasjon for feltet. Regjeringen vil også vurdere en teknisk løsning som gjør det mulig for godkjenningsmyndighetene å gjennomføre automatisert og manuell mottakskontroll, å lage søkbare oversikter over vedtak i lignende saker mv.
+
+Regjeringen ser også at det er potensial for mer effektiv saksbehandling, blant annet gjennom større bruk av digitalisering og deling av data.
+
+### Internasjonale prosesser
+
+I EU jobbes det for tiden med å få på plass en ordning om gjensidig automatisk godkjenning av utdanning tatt innenfor EU. I tillegg til dette ble UNESCOs globale konvensjon for godkjenning av kvalifikasjoner i høyere utdanning vedtatt i 2019. Konvensjonen er til en viss grad basert på Lisboakonvensjonen. Se boks 6.7 for en kort omtale av EU-kommisjonens rekommandasjon og UNESCO-konvensjonen.
+
+EU-kommisjonens arbeid med rekommandasjon om automatisk godkjenning og UNESCOs globale konvensjon for godkjenning av kvalifikasjoner i høyere utdanning
+
+EU-kommisjonen publiserte i 2018 en rådsanbefaling om gjensidig automatisk godkjenning.<sup>1</sup> Rådsrekommandasjonen har som mål at alle elever og studenter i videregående opplæring og høyere utdanning skal få automatisk godkjenning av et læringsopphold i et annet EU-land uten å måtte gå gjennom særskilte godkjenningsprosedyrer.
+
+Rådsrekommandasjonen bygger på pågående prosesser som Norge og NOKUT deltar i. Innenfor høyere utdanning oppfyller Norge i hovedsak allerede kravene. Norge har også etablert nasjonale retningslinjer for godkjenning av utenlandsk videregående opplæring for opptak til høyere utdanning gjennom GSU-listen (generell studiekompetanse for utenlandske søkere), og godkjenner allerede kvalifikasjoner fra EU-land som oppfyller kriteriene.
+
+Den globale konvensjonen for godkjenning av kvalifikasjoner i høyere utdanning ble vedtatt på UNESCOs generalkonferanse i 2019. Konvensjonen vil skape standardiserende verktøy som vil gjøre det enklere for studenter og forskere å studere og arbeide i utlandet og få utdanningen sin godkjent. Dette arbeidet skal gå parallelt med at UNESCO moderniserer sine regionale konvensjoner for godkjenning. Norge har stått i spissen for arbeidet og også bidratt økonomisk. Regjeringen vil ha en aktiv rolle i den globale implementeringsprosessen.
+
+<sup>1</sup> Rådets henstilling af 26. november 2018 om fremme af automatisk gensidig anerkendelse af kvalifikationer på videregående uddannelsesniveau og ungdomsuddannelsesniveau samt resultater af læringsophold i udlandet.
+
+\[Boks slutt\]
+
+Regjeringen har tatt initiativ overfor de andre nordiske landene for å se på muligheten til å få på plass en nordisk avtale om gjensidig godkjenning av fag- og yrkesopplæring og fagskoleutdanning. Initiativet er tatt gjennom et eget brev med forslag om en erklæring om gjensidig godkjenning av sluttført videregående fag- og yrkesopplæring og fagskoleutdanning, tilsvarende nivå 4 og 5 i det europeiske kvalifikasjonsrammeverket (EQF). Henvisning til EQF bør gjøre en gjensidig godkjenning mulig, til tross for enkelte ulikheter i opplærings- og utdanningssystemene i Norden.
+
+### Tiltak
 
 Regjeringen vil
-–
 
-–
+- fortsette å utvikle og utvide godkjenningsordningen for fag- og yrkesopplæring med utgangspunkt i arbeidslivets behov og i samarbeid med partene i arbeidslivet – slik at flere land og flere kvalifikasjoner kan inngå i ordningen
 
-fortsette arbeidet med å gjøre utdanningsstøtteordningen mer fleksibel og tilpasset livslang
-læring, herunder for voksne som tar videregående opplæring
-bruke Kompetanseprogrammet til å stimulere
-til utvikling av ordninger som arbeidslivet trenger – både på tilbudssiden og på etterspørselssiden
+- evaluere godkjenningsordningen for utenlandsk fagskoleutdanning tre år etter implementering
 
-Tiltak for å åpne utdanningssystemet for livslang
-læring
-Regjeringen forventer
-–
+- sørge for bedre informasjon om godkjenningsfeltet, både for utdanning og for yrkesgodkjenning via nettsidene til NOKUT og Altinn
 
-at institusjonene utnytter sitt handlingsrom til å
-tilby fleksible videreutdanningstilbud og kurs
-som svarer til arbeidslivets etterspørsel og er
-tilpasset personer i arbeid
+- gjennomgå behovet for kompletterende utdanninger, og vurdere hvordan godskriving og fritak kan bidra til å gjøre det lettere for den enkelte å komplettere sin utdanning
 
-Regjeringen har
-–
+- utrede flytting til NOKUT av den delen av yrkesgodkjenningen som innebærer vurdering av søkerens utdanning og dens nivå etter yrkeskvalifikasjonsdirektivet samt ekthetsvurdering. Ansvaret for den endelige faglige vurderingen vil fortsatt ligge hos yrkesgodkjenningsmyndighetene.
 
-–
-–
-–
-–
-–
+- foreslå lovendringer og endringer i forskrifter, slik at relevante prinsipper fra yrkeskvalifikasjonsdirektivet som utgangspunkt også skal gjelde for tredjelandsborgere med yrkeskvalifikasjoner fra tredjeland
 
-Regjeringen vil
-–
+- følge opp initiativet overfor de nordiske landene med sikte på å få på plass en nordisk erklæring om gjensidig godkjenning av sluttført videregående fag- og yrkesopplæring og fagskoleutdanning
 
-trappe opp tildelingen til økt studiekapasitet,
-gjennom konkurranse, og slik bidra til at
-arbeidslivets behov for oppdatert kompetanse i
-hele landet blir ivaretatt
+## Et fremtidsrettet trepartssamarbeid
 
-gjennomgå og tydeliggjøre regelverket om
-egenbetaling, og spesielt vurdere behov for
-endringer i dagens unntaksbestemmelser for
-utdanninger som er særlig tilpasset personer i
-arbeid. Gratisprinsippet for de ordinære utdanningene skal ligge fast.
-vurdere behovet for justeringer av finansieringssystemet for universiteter og høyskoler i
-forbindelse med stortingsmeldingen om styringspolitikken for statlige universiteter og
-høyskoler
-revidere Digitaliseringsstrategi for universitetsog høyskolesektoren 2017–2021 med sikte på at
-ny strategi skal omfatte alle sider ved digitalisering i denne sektoren, herunder blant annet
-vurdere erfaringene fra den store økningen i
-bruk av digitale undervisnings- og videotjenester som følge av at studenter og ansatte har fått
-undervisning, studert og arbeidet hjemmefra
-under korona-tiltakene
+Myndighetene, utdanningsinstitusjonene og arbeidslivet har ulike roller i kompetansepolitikken, men resultatet blir best når regjeringen og representanter for arbeids- og samfunnsliv samarbeider.
 
-–
-–
+Det er lange tradisjoner for trepartssamarbeid i kompetansepolitikken. Kompetansepolitikken bygger på den norske modellen for samarbeid i arbeidslivet. Viktige elementer i den norske arbeidslivsmodellen er samarbeid mellom partene i arbeidslivet og myndighetene, høy organisasjonsgrad og en koordinert lønnsdannelse. Regjeringen og partene i arbeidslivet er enige om å ivareta og styrke den norske arbeidslivsmodellen. Den norske samarbeidsmodellen er et godt utgangspunkt og en forutsetning for å lykkes med å nå målet om at ingen skal gå ut på dato på grunn av manglende kompetanse.
 
-i denne stortingsperioden tildelt 738 studieplasser til fagskolesektoren, fordelt med 638 i
-statsbudsjettet for 2018 og 100 i statsbudsjettet
-for 2020
-etablert en ny tilskuddsordning for driftstilskudd i høyere yrkesfaglig utdanning
-satt i gang en evaluering av tilskuddsordningen
-for fagskoleutdanning og en midtveisevaluering av tiltakene i fagskolemeldingen
-etablert en ordning med søkbare utviklingsmidler til fagskolene fra 2017, med om lag 43
-mill. kroner i 2020
-gitt Diku, NOKUT, Unit og Universell større
-rolle i utviklingen av fagskolesektoren
-etablert utdanning for undervisere i høyere
-yrkesfaglig utdanning
-gitt fagskolestudentene like rettigheter som
-andre studenter
-utviklet ny fagskolelov som trådte i kraft 1. juli
-2018, og en ny fagskoleforskrift som trådte i
-kraft 11. juli 2019
+Regjeringen har, i samarbeid med partene i arbeidslivet, ansvar for å utvikle kompetansepolitikken slik at den enkelte og virksomhetene får dekket sine kompetansebehov. Regjeringen har ansvar for å gjennomføre politikken på de ulike områdene innenfor kompetansepolitikken og å sørge for samordning på tvers av politikkområder og forvaltningsnivåer.
 
-[Side 103]
+Et godt trepartssamarbeid innebærer at partene i arbeidslivet og andre relevante aktører er involvert i alle faser av politikkutviklingen, fra idéfasen til gjennomføringen. Samtidig har partene i arbeidslivet en særskilt rolle i fag- og yrkesopplæringen som er forankret i opplæringsloven og i ILO-konvensjonen nr. 142 artikkel 5, som ble ratifisert av Stortinget i 1977.
 
-2019–2020
+Arbeidslivet står sentralt i kompetansereformen. Arbeidslivet er den største læringsarenaen for sysselsatte. Lov og avtaleverk innenfor de ulike tariffområdene regulerer arbeidsgivers ansvar for kompetanseutvikling i tråd med den enkeltes virksomhets behov på kort og lengre sikt. Kompetansereformen rokker ikke ved den etablerte ansvarsdelingen mellom arbeidsgiver og arbeidstaker.
 
-Meld. St. 14
-Kompetansereformen – Lære hele livet
+Arbeidslivet har også en sentral rolle i kompetansereformen gjennom at det etterspør kompetanseutvikling, bidrar til å utvikle nye tilbud og investerer tid og penger i kompetanseutvikling. Partene i arbeidslivet er representert både i den strategiske politikkutviklingen og i den praktiske utviklingen og iverksettingen av tiltak.
 
-Regjeringen vil
-–
-–
-–
-–
-–
+### Partene i arbeidslivet og involvering i regjeringens politikkutvikling
 
-legge frem en strategi for høyere yrkesfaglig
-utdanning i 2021
-styrke kvaliteten i fagskolesektoren og har
-som langsiktig ambisjon å øke kapasiteten i
-sektoren
-foreslå å fjerne begrensningen i minstelengden
-på fagskoleutdanning
-stimulere til at flere fagskoler søker fagområdeakkreditering
-følge opp NOKUTs arbeid med en ny modell
-for akkreditering av fagskoleutdanning
+Regjeringen involverer partene i arbeidslivet i politikkutviklingen gjennom flere råd og utvalg. Figur 6.1 viser hvordan samarbeidet i dag er organisert innenfor kompetansepolitikken med følgende råd og utvalg:
 
-Tiltak for bedre kobling mellom tilbud om og
-etterspørsel etter kompetanseutvikling
-Regjeringen vil
-–
-–
-–
-–
-–
-–
+- Kompetansepolitisk råd følger opp *Nasjonal kompetansepolitisk strategi 2017–2021*.
+
+- Kompetansebehovsutvalget skal fremskaffe en best mulig faglig vurdering av Norges fremtidige kompetansebehov.
+
+- Samarbeidsrådet for yrkesopplæring (SRY) gir råd til Kunnskapsdepartementet om, og tar initiativ for å fremme, fag- og yrkesopplæringen.
+
+- De ti faglige rådene er rådgivende organer for statlige utdanningsmyndigheter. Rådene skal fremme behov og synspunkter fra arbeidslivet overfor myndighetene.
+
+- Yrkesopplæringsnemndene (Y-nemndene) er rådgivende organer for fylkeskommunen i utviklingen av kvaliteten i, og i dimensjoneringen av, fag- og yrkesopplæringen. Nemndene skal blant annet fremme arbeidslivets behov og synspunkter overfor fylkeskommunene.
+
+- Nasjonalt fagskoleråd skal fremme fagskolenes samlede interesser som selvstendig del av utdanningssystemet og stimulere til samordning av, samarbeid om og kvalitetsutvikling av fagskoletilbudene. Under Nasjonalt fagskoleråd ligger fire nasjonale fagråd.
+
+- Ressurs- og koordineringsgruppen følger opp *Samfunnskontrakt for flere læreplasser (2016–2020)*. Denne gruppen rapporterer til Arbeids- og pensjonspolitisk råd, som ligger under Arbeids- og sosialdepartementet.
+
+- Regionale kompetansefora er etablert i flere fylkeskommuner som en del av fylkeskommunens kompetansepolitiske ansvar.
+
+I tillegg kommer mesterbrevnemnda som oppnevnes av Nærings- og fiskeridepartementet. Mesterbrevnemnda har medlemmer fra NHO og LO og bestemmer hvilke fag som skal omfattes av ordningen, bestemmer kravene til utdanning og praksis, bestemmer innholdet i mesterutdanningen og tildeler mesterbrev.
+
+Alle statlige høyskoler og universiteter har også Råd for samarbeid med arbeidslivet (RSA). De skal bidra til økt samarbeid mellom utdanningsinstitusjoner, regionale myndigheter og næringslivet. RSA-ene har representanter fra partene i arbeidslivet og studentorganisasjonene.
+
+\[:figur:figX-X.jpg\]
+
+Samarbeidsstrukturer på det kompetansepolitiske området under Kunnskapsdepartementet
+
+Figuren viser at det er etablert egne fagråd for de enkelte «fag-retningene» for å videreutvikle fagene på de forskjellige utdanningsnivåene. Rådene har ulike funksjoner. Noen av dem fungerer som strategiske og politiske møteplasser, for å få innspill til politikkutvikling, for å forankre ny politikk og for å få nye ideer fra utdanningsinstitusjoner og arbeidsliv. Kunnskapsdepartementet har behov for en rådsstruktur der de ulike aktørene kan bidra i implementeringen av politikk, og der aktørene bidrar aktivt i utviklingsfasen av ny politikk.
+
+Grunnlaget for disse rådene og utvalgene er forskjellig. Innenfor fag- og yrkesopplæringen har SRY, faglige råd og yrkesopplæringsnemndene en lovforankring. Opplæringsloven gir bestemmelser om sammensetning av disse organene og hvilke oppgaver som ligger i deres mandat. De andre rådgivende organene er ikke forankret i lov, men kan ha sammenheng med politiske avtaler. Eksempler på dette er Kompetansepolitisk råd som følger opp *Nasjonal kompetansepolitisk strategi 2017–2021* og ressurs- og koordineringsgruppen som følger opp *Samfunnskontrakt for flere læreplasser (2016–2020).* Flere av disse avtalene og organene har en tidsavgrenset virkeperiode, og det er derfor nødvendig å vurdere hvordan samarbeidet med arbeidslivet skal organiseres på den beste måten for fremtiden. Kunnskapsdepartementet vil invitere partene i arbeidslivet til en dialog om et fremtidsrettet trepartssamarbeid innenfor kompetansepolitikken.
+
+### Samarbeid om Nasjonal kompetansepolitisk strategi
+
+I 2017 undertegnet regjeringen, arbeidslivets hovedorganisasjoner, Sametinget og Voksenopplæringsforbundet *Nasjonal kompetansepolitisk strategi 2017–2021*. Strategien ble utviklet i fellesskap mellom regjeringen og representanter for arbeids- og samfunnsliv. Bakgrunnen for samarbeidet var at OECD anbefalte Norge å utvikle en felles strategi for kompetansepolitikk.[^70]
+
+Den kompetansepolitiske strategien fastslår at regjeringen og de andre representantene er enige om å
+
+- bidra til at den enkelte og samfunnet gjør gode valg
+
+- arbeide for bedre læringsmuligheter og god bruk av kompetanse i arbeidslivet
+
+- styrke kompetansen til voksne med svak tilknytning til arbeidslivet
+
+Strategien er relativt overordnet, og strategipartnerne har forpliktet seg til å følge opp og konkretisere intensjonene i strategien.
+
+I 2017 etablerte regjeringen også Nasjonalt kompetansepolitisk råd. Rådet skal blant annet arbeide med å følge opp strategien, og det består av representanter fra regjeringen, partene i arbeidslivet og Voksenopplæringsforbundet (VOFO). Rådet skal holde oversikt over oppfølging av strategien og komme med innspill i kompetansepolitiske spørsmål. Rådet diskuterer nasjonens kompetansebehov, som blir belyst i rapportene fra Kompetansebehovsutvalget (KBU), og innspillene til politikkutvikling ses også i lys av KBUs vurderinger. Fra 2020 vil Universitets- og høyskolerådet også være medlem i rådet.
+
+Strategien har gitt retning til regjeringens kompetansepolitikk over de siste to årene, blant annet for tiltak rettet mot voksne med svak tilknytning til arbeidslivet, i arbeidet med karriereveiledning og i utvikling av tiltak for å stimulere til relevante videreutdanningstilbud.
+
+I løpet av de to årene strategien har virket, har rådet tatt opp ulike punkter i strategien med særlig vekt på utfordringene som arbeidslivet opplever som følge av digitalisering.
+
+OECD har utført en studie av hvordan Kompetansepolitisk råd og KBU fungerer, og hva andre land kan lære av disse løsningene for koordinering og samarbeid i kompetansepolitikken.[^71] OECD peker på at Kompetansepolitisk råd bidrar til at politikkutviklingen blir mer helhetlig enn tidligere, og at medlemmene i rådet i det store og hele opplever at de får mer innflytelse på politikkutviklingen enn tidligere. Medlemmene mener også at arbeidet i rådet bidrar til å sette kompetansepolitikken høyere på agendaen i regjeringen og i organisasjonene som de enkelte representerer.
+
+Et konkret eksempel på politikkutvikling gjennom Kompetansepolitisk råd er etableringen av treparts bransjeprogram for kompetanseutvikling i 2019 og av tilskudd til fleksibel videreutdanning i digital kompetanse i 2018. Dette er tiltak som ble foreslått på ulike tidspunkt av medlemmer i Kompetansepolitisk råd. Partene i arbeidslivet er også sentrale i gjennomføringen av tiltakene. I bransjeprogrammene har partene i arbeidslivet hovedansvaret for å identifisere opplæringsbehov og bidra til at virksomheter samarbeider med utdanningstilbydere om utvikling av nye tilbud. Også innenfor ordningen med tilskudd til utvikling av fleksible videreutdanningstilbud er arbeidslivet representert i et faglig råd som gir innspill til kriterier og tildeling av midler.
+
+OECD mener Kompetansepolitisk råd er et fremskritt i trepartssamarbeidet. Samtidig peker studien fra OECD på flere forbedringspunkter. OECD anbefaler at det settes av mer tid til diskusjon i rådet – mer tid til å til å trekke felles konklusjoner og oppsummere hvordan innspill og anbefalinger som rådet har gitt, blir fulgt opp av alle medlemmer. OECD anbefaler også at rådets mandat avgrenses tydeligere fra mandatene til andre utvalg og råd.
+
+Regjeringen vil samarbeide med strategipartnerne og medlemmene av Kompetansepolitisk råd om forbedringer av rådets arbeid. I 2021 vil også regjeringen fornye den kompetansepolitiske strategien i samråd med medlemmene i rådet. Regjeringen vil også styrke dialogen mellom nasjonalt og regionalt nivå som følge av fylkenes forsterkede rolle i kompetansepolitikken.
+
+Med etablering av Kompetanseprogrammet vil regjeringen videreutvikle trepartssamarbeidet. Regjeringen vil invitere Kompetansepolitisk råd til å gi strategiske innspill til Kompetanseprogrammet.
+
+### Kompetansebehovsutvalget
+
+Kompetansebehovsutvalget (KBU) ble oppnevnt i 2017 for å gi en best mulig faglig vurdering av Norges fremtidige kompetansebehov. KBU ble i første omgang oppnevnt for tre år. I februar 2020 overleverte KBU den siste av i alt tre NOU-er. Utvalget besto i perioden 2017 til 2020 av representanter fra hovedorganisasjonene i arbeidslivet, analytikere/forskere og representanter fra departementer. Formålet med KBU var å «legge grunnlag for nasjonal og regional planlegging og for den enkeltes og arbeidslivets strategiske kompetansebeslutninger». Utvalgsmandatet åpnet for en forlengelse og justering av utvalget, basert på en evaluering.
+
+Kunnskapsdepartementet har utført en intern evaluering basert på samtaler med medlemmene og sekretariatet. Erfaringene viser at det krever tid å komme frem til en felles forståelse av grunnlaget for de fremtidige kompetansebehovene. Et flertall av utvalgets medlemmer ønsker en videreføring av KBU, men med endringer. Flere trekker frem at det har en verdi i seg selv at forskere, partene i arbeidslivet og departementsrepresentantene møtes og kommer til enighet om et bestemt budskap. Flere mener KBU har lyktes i arbeidet med å frembringe og systematisere et kunnskapsgrunnlag om Norges fremtidige kompetansebehov basert på eksisterende forskning og analyser. OECD peker på viktigheten av å ha et slikt felles fundament som medlemmene er enige om. Dette bidrar til bedre diskusjoner om relevant politikkutvikling.
+
+Samtidig pekte Kunnskapsdepartementets evaluering på flere utfordringer med oppsettet for KBU. Det var blant annet diskusjoner om kunnskapsgrunnlaget kun skulle være forskningsbasert, og hvordan erfaringene fra arbeidslivet skulle inkluderes i vurderingene fra utvalget. Som følge av dette ble det også diskusjoner om partenes rolle i utvalget.
+
+KBU er en relativt ny konstruksjon som vil trenge tid til å finne sin form. Regjeringen vil videreføre og videreutvikle KBU. Kunnskapsdepartementet vil gjøre endringer i både medlemssammensetningen og i mandatet når KBU forlenges. KBU vil få et tydeligere oppdrag om å levere regionale analyser som kan brukes av fylkeskommunene i rollen som ansvarlig for den regionale kompetansepolitikken. KBU vil også få et tydeligere oppdrag om å styrke grunnlaget for utdanningsvalg og dimensjonering. Et fremtidig KBU må i sine tolkninger av det fremtidige kompetansebehovet kombinere tilgjengelig forskning og erfaringsbasert kunnskap fra arbeidslivet. Partene i arbeidslivet kan gi viktig innsikt, og deres bidrag vil være en sentral del av fortolkningsgrunnlaget. Partene vil fremdeles være representert når KBU videreføres. KBU vil ha et eget sekretariat i Kompetanse Norge.
+
+NOU-ene som KBU har laget gir samlet sett et sterkt kunnskapsgrunnlag som blir et viktig fundament for det videre arbeidet med kompetansepolitikken. I videreføringen av KBU vil Kompetanse Norge få i oppdrag å oppdatere kunnskapsgrunnlaget som KBU har lagt, og videreutvikle dette, blant annet i form av faste datasett og indikatorer. Hensikten er å frigjøre tid slik at utvalget kan gå i dybden i analysene og vurderingene av Norges fremtidige kompetansebehov. Kompetanse Norge vil få ansvar for faste oppdateringer av kunnskapsgrunnlaget, tilrettelegging av dialog og formidling av data og kunnskap målrettet til ulike brukere i forvaltningen, arbeidslivet, utdanningssøkerne og tilbyderne.
+
+### Tiltak
 
 Regjeringen vil
-–
-–
 
-vurdere forslag fra flere offentlige utvalg om å
-utvide rettighetene til videregående opplæring
-gjennomgå overganger i utdanningssystemet
-for å vurdere treffsikkerheten i eksisterende
-regelverk og behov for flere smidige overganger. I dette inngår en gjennomgang av realkompetansevurdering som et verktøy i utdanningssystemet.
+- videreutvikle samarbeidet med partene i arbeidslivet for å få til et best mulig og fremtidsrettet trepartssamarbeid i kompetansepolitikken
 
-Regjeringen har
-–
+- fornye den nasjonale kompetansepolitiske strategien i samråd med medlemmene i Kompetansepolitisk råd og samarbeide om å forbedre rådets arbeid
 
-–
+- videreføre og videreutvikle Kompetansebehovsutvalget, blant annet med et tydeligere oppdrag om å levere regionale analyser som kan brukes av fylkeskommunene i rollen som ansvarlig for den regionale kompetansepolitikken
 
-–
-
-–
-–
-
-–
-
-–
-–
-–
-
-lagt om arbeids- og velferdsetatens opplæringstiltak slik at flere vil få muligheten til å fullføre
-videregående opplæring
-
-Regjeringen vil
-gjennomføre forsøk med modulstrukturert
-opplæring for voksne på grunnskolens nivå, i
-enkelte lærefag og kombinasjoner av forberedende voksenopplæring og modulstrukturert
-videregående opplæring
-igangsette et arbeid for å vurdere hvordan
-arbeids- og velferdsetaten og fylkeskommunene kan samarbeide tettere om å gi voksne
-arbeidssøkende formell kompetanse på videregående nivå
-følge opp tiltakene i Integrering gjennom kunnskap, regjeringens integreringsstrategi for perioden 2019–2022, for å øke yrkesdeltakelsen
-dele forvaltningsansvaret for tilskuddsordningen til studieforbund mellom Kunnskapsdepartementet og Kulturdepartementet
-
-101
-
-–
-–
-–
-
-–
-
-–
-
-etablere en nasjonal digital karriereveiledningstjeneste på karriereveiledning.no
-ta initiativ til å utvikle en digital kompetanseplattform
-etablere et nasjonalt kvalitetsrammeverk som
-Kompetanse Norge skal forvalte
-utrede en kompetanselov
-fortsette å styrke fylkeskommunenes kompetansepolitiske ansvar
-styrke fylkeskommunenes ansvar for karriereveiledning, blant annet gjennom lovfesting av
-en plikt for fylkeskommunene til å tilby karriereveiledning for innbyggerne
-legge til rette for økt samarbeid mellom ulike
-aktører på veiledningsfeltet, spesielt mellom
-karriereveiledningen i skolen, oppfølgingstjenesten og de fylkesvise karrieresentrene
-gjennomføre utviklingsprosjektet Kompetansepiloter i regi av fylkeskommunene
-støtte initiativer fra bransjer for å utvikle dokumentasjonsordninger for arbeidslivet
-fortsette å utvikle og utvide godkjenningsordningen for fag- og yrkesopplæring med
-utgangspunkt i arbeidslivets behov og i samarbeid med partene i arbeidslivet – slik at flere
-land og flere kvalifikasjoner kan inngå i ordningen
-evaluere godkjenningsordningen for utenlandsk fagskoleutdanning tre år etter implementering
-sørge for bedre informasjon om godkjenningsfeltet, både for utdanning og for yrkesgodkjenning via nettsidene til NOKUT og Altinn
-gjennomgå behovet for kompletterende utdanninger, og vurdere hvordan godskriving og fritak kan bidra til å gjøre det lettere for den
-enkelte å komplettere sin utdanning
-utrede flytting til NOKUT av den delen av
-yrkesgodkjenningen som innebærer vurdering
-av søkerens utdanning og dens nivå etter
-yrkeskvalifikasjonsdirektivet samt ekthetsvurdering. Ansvaret for den endelige faglige vurderingen vil fortsatt ligge hos yrkesgodkjenningsmyndighetene.
-foreslå lovendringer og endringer i forskrifter,
-slik at relevante prinsipper fra yrkeskvalifikasjonsdirektivet som utgangspunkt også skal
-gjelde for tredjelandsborgere med yrkeskvalifikasjoner fra tredjeland
-
-[Side 104]
-
-102
-
-–
-
-–
-
-–
-
-–
-
-2019–2020
-
-Meld. St. 14
-Kompetansereformen – Lære hele livet
-
-følge opp initiativet overfor de nordiske landene med sikte på å få på plass en nordisk
-erklæring om gjensidig godkjenning av sluttført videregående fag- og yrkesopplæring og
-fagskoleutdanning
-videreutvikle samarbeidet med partene i
-arbeidslivet for å få til et best mulig og fremtidsrettet trepartssamarbeid i kompetansepolitikken
-fornye den nasjonale kompetansepolitiske strategien i samråd med medlemmene i Kompetansepolitisk råd og samarbeide om å forbedre
-rådets arbeid
-videreføre og videreutvikle Kompetansebehovsutvalget med et tydeligere oppdrag om å
-
-–
-
-levere regionale analyser som kan brukes av
-fylkeskommunene i rollen som ansvarlig for
-den regionale kompetansepolitikken
-gi Kompetanse Norge ansvar for faste oppdateringer og utvikling av kunnskapsgrunnlaget
-om fremtidige kompetansebehov
-Kunnskapsdepartementet
-tilrår:
-
-Tilråding fra Kunnskapsdepartementet 22.
-april 2020 om Kompetansereformen – Lære hele
-livet blir sendt Stortinget.
+- gi Kompetanse Norge ansvar for faste oppdateringer og utvikling av kunnskapsgrunnlaget om fremtidige kompetansebehov
