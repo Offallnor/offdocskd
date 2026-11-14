@@ -1,970 +1,336 @@
-# Prop. 139 L (2014–2015), del 10 av 11 (side 105–115)
+# Prop. 139 L (2014–2015), del 10 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2015/7b0b06b0-prop-139-l-20142015.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-139-l-20142015/id2416520/
 - Original-PDF: https://www.regjeringen.no/contentassets/dd4e8d89893a424889125ea02c368add/no/pdfs/prp201420150139000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 105]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-105
-
-tens administrator. Både faste og midlertidige
-rettsmedlemmer skal fortsatt kunne være administratorer. Dette omfatter også rettsfullmektiger.
-Det nye er at ingen midlertidige rettsmedlemmer
-kan være administrator i en sak som settes med
-fem medlemmer. Det følger av henvisningen til
-tredje ledd i andre punktum. Tredje punktum viderefører regelen om at administrator bestemmer
-rettens sammensetning, det vil si hvor mange
-medlemmer retten skal ha, og hvilken kyndighet
-meddommer(ne) skal ha, se ellers andre ledd
-bokstav d og tredje ledd.
-Nytt femte ledd bestemmer at administrator og
-de øvrige medlemmene av retten oppnevnes tilfeldig med mindre saklige grunner tilsier at dette må
-fravikes. Se punkt 8.3.4.3.
-
-I noen tilfeller kan det hefte usikkerhet ved
-tidspunktet for når vedtaket er kommet frem, og/
-eller anken er avgitt på forskriftsmessig måte.
-Loven etablerer ingen tilleggsfrister for disse tilfellene. Retten må her foreta en konkret vurdering
-av om ankefristen er overholdt. Se også punkt
-10.5.1.
-I andre ledd er siste ord endret fra «ham» til
-det kjønnsnøytrale» vedkommende».
-I tredje ledd om forlengelse av ankefristen,
-strykes uttrykket «det forvaltningsorgan hvis vedtak det ankes over» som overflødig.
-Av fjerde ledd fremgår at bare Trygderetten
-kan se bort fra oversittelsen av ankefristen, slik at
-ankemotparten ikke lenger skal kunne gjøre
-dette. Se punkt 10.5.4.
-
-Til § 8 Habilitet
-
-Til ny § 10 Beregning av ankefristen
-
-Paragrafen, som omhandler habilitet, er redigert
-noe annerledes enn gjeldende § 8, men innholdet
-er i hovedtrekk det samme.
-Bestemmelsen i andre ledd er ny, og innebærer at rettsfullmektigen vil være inhabil dersom
-Trygderettens leder eller det rettsmedlem som
-har tilsyn med rettsfullmektigen – som i alminnelighet vil være vedkommende avdelingsleder – er
-inhabil.
-I fjerde ledd opprettholdes den gjeldende
-bestemmelsen om at Trygderettens leder selv
-avgjør om han eller hun er inhabil. Den adgangen
-som lederen har etter gjeldende rett til å forelegge
-spørsmålet om egen habilitet og habiliteten til «to
-av Trygderettens faste medlemmer» for Høyesteretts ankeutvalg, er tatt ut av loven.
-
-Den nye paragrafen om hva som skal til for at
-anken anses fremsatt i tide, lovfester i hovedsak
-de regler som gjelder for de alminnelige domstoler, jf. domstolloven § 146 andre ledd og §§ 148
-og 149. Dette innebærer samtidig at det legges til
-rette for at elektronisk anke kan tas i bruk når det
-er ønskelig. Selve ordlyden i den foreslåtte
-bestemmelsen bygger hovedsakelig på forvaltningsloven § 30. En har på samme måte som i forvaltningsloven valgt å ha denne tekniske bestemmelsen i en selvstendig paragraf. Det vises til
-10.5.2.
-
-Til opphevingen av nåværende § 9
-Opphevingen skyldes at ordningen med legmedlemmer og stedfortredere opphører. Det vises
-henholdsvis til punktene 8.2.4.3 og 8.2.4.2.
-Til § 9 Ankefrist
-Paragrafen svarer til nåværende § 10 og omhandler fristen for å anke en sak inn for Trygderetten.
-Første ledd innebærer at ankefristen er seks
-uker fra det tidspunkt melding om det vedtak som
-er gjenstand for anke er kommet frem til den vedtaket gjelder, eller vedkommendes fullmektig/
-stedfortreder. Ankefristen avbrytes ved at den er
-levert til den instans som har fattet vedtaket, eventuelt etter reglene i § 10, som blant annet innebærer at det er tilstrekkelig at den er avgitt til
-norsk postoperatør.
-
-Til § 11 Ankeerklæringen og hvem som skal motta den
-Paragrafen omhandler ankeerklæringen og hvem
-som skal motta den. Bestemmelsen er noe
-omstrukturert i forhold til tilsvarende bestemmelse i dag for å skape bedre sammenheng, men
-uten endring av realiteten.
-Det er nytt at begrepet ankemotpart tas inn i
-og blir definert i denne paragrafen, noe som har
-sammenheng med endringen i § 12. Se punkt 9.5.
-Som følge av dette er dessuten bestemmelsen om
-at det felles lokale kontoret i arbeids- og velferdsforvaltningen skal være adressat for en anke,
-endret. Anken skal settes frem for den enhet som
-Arbeids- og velferdsdirektoratet bestemmer.
-Til § 12 Benyttelse av klageadgang
-Forslaget til endret § 12 om benyttelse av klageadgang, er innholdsmessig identisk med nåværende nr. 1. Begrepet «særlover» er imidlertid
-erstattet med «andre lover».
-
-[Side 106]
-
-106
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-Nåværende § 12 nr. 2 om hvem som skal være
-ankemotpart er tatt ut, da forholdet nå reguleres i
-§ 11. Begrepet ankemotpart har fått en noe annen
-betydning enn tidligere, se punkt 9.5.
-
-2014–2015
-
-henvisningen til kun andre ledd. Rekommandert
-sending av ekspedisjonsbrevet blir dermed ikke
-noe lovkrav.
-Til § 14 Utsetting iverksetting av vedtak
-
-Til § 13 Ankemotpartens forberedelse av ankesaken
-Paragrafen omhandler ankemotpartens forberedelse av ankesaken til Trygderetten
-Første ledd første punktum er videreført i sin
-helhet. Gjeldende andre punktum er opphevet.
-Nytt andre punktum viderefører nåværende tredje
-punktum med den endring at ankeforberedelsen
-skal skje snarest mulig. Tredje punktum er en videreføring av nåværende fjerde punktum uten materiell endring. En beskrivelse av de opplysninger
-ankemotparten bygger på, er erstattet med det faktiske grunnlag. Partenes anførsler er erstattet med
-partenes påstandsgrunnlag. Det vises til § 20 tredje
-ledd i lovforslaget, samt punkt 11.4.4.2. Påstandsgrunnlaget dekker også «merknader til den
-ankende parts anførsler og ankemotpartens
-begrunnelse». Denne formuleringen er derfor tatt
-ut.
-Andre ledd viderefører nåværende andre ledd
-med den endring at fristen fastsettes til tre uker,
-noe som er praksis i dag. Den ankende parts
-merknader til oversendelsesbrevet omtales gjerne
-som den ankende parts tilsvar.
-Tredje ledd svarer til gjeldende tredje ledd,
-men er omformulert. Snarest er erstattet med
-straks for å markere at utarbeidelse av ekspedisjonsbrev og oversendelse av sakens dokumenter
-til Trygderetten skal skje uten unødvendig opphold. Fordi det er de faktiske forhold slik de foreligger på avgjørelsestidspunktet som skal legges
-til grunn for avgjørelsen, kan det være av betydning at retten får et mest mulig ajourført faktum å
-bygge sin avgjørelse på. Det vises til merknader til
-§ 19 første ledd første punktum og punkt 11.3.4
-samt merknader til § 20 første ledd, jf. punkt
-11.4.4.5.
-Fjerde ledd viderefører nåværende § 13 fjerde
-ledd, men den ankende part skal få tilsendt kopi av
-ekspedisjonsbrevet også i de tilfeller der vedkommende ikke har inngitt tilsvar. Merknadsfristen settes til tre uker, jf. andre ledd. Den ankende part
-skal så vidt mulig sende kopi av sine merknader til
-ankemotparten. Departementet antar at advokater
-sender kopi til ankemotparten, slik praksis er ved
-de alminnelige domstoler, jf. tvisteloven § 12-3
-andre ledd. Det vises til punkt 11.2.4.
-Femte ledd viderefører nåværende femte ledd,
-men begrenser kravet om melding gjennom
-rekommandert brev til oversendelsesbrevet, jf.
-
-Første ledd presiserer at anken ikke medfører
-utsettelse av iverksettingen av vedtaket. Endringen medfører kun språklige endringer.
-Andre ledd er en videreføring av nåværende
-§ 14 andre ledd med den endring at «rettens administrator» er erstattet med «Trygderetten».
-Trygderetten kan, som tidligere, ta stilling til
-spørsmålet før ankemotparten har oversendt
-anken for realitetsavgjørelse, jf. § 13 fjerde ledd.
-Til § 15 Bevis
-Første ledd viderefører nåværende § 15 nr. 3 første
-ledd første punktum.
-Andre ledd viderefører nåværende § 15 nr. 3
-andre ledd. Bestemmelsen er noe omformulert,
-men medfører ikke materielle endringer.
-Tredje ledd inneholder en generell henvisning
-til at tvistelovens bevisregler gjelder så langt de
-passer. Henvisningsbestemmelsen antas å gi tilstrekkelig presisjon for brukerne, som i det
-vesentlige er profesjonelle. Dette gir Trygderetten den nødvendige fleksibilitet. Utkastet medfører materielle endringer, blant annet vil adgangen til å la andre enn rettens medlemmer oppta
-forklaring fra parter og vitner begrenses noe.
-Endringene antas å få liten betydning i praksis.
-Det vises til punkt 11.5.4.
-Til opphevingen av § 16
-Bestemmelsene om møteplikt for vitner og parter
-oppheves. Møteplikten blir i samsvar med tvisteloven, jf. § 15 tredje ledd og merknadene til
-bestemmelsen.
-Til ny § 16 Partenes rett til innsyn i sakens dokumenter
-Første ledd viderefører nåværende § 17 nr. 1 og nr.
-2 første ledd. Utgangspunktet er at den som er
-part har rett til innsyn i alle dokumenter i saken.
-Parten skal ikke ha rett til å få innsyn i den interne
-saksforberedelse. Andre hensyn gjør seg i større
-grad gjeldende for denne type dokumenter. Det
-vises til punkt 11.6.4.
-Andre ledd viderefører nåværende § 17 nr. 3
-uten endringer. Bestemmelsen tilsvarer forvaltningsloven § 19 andre ledd.
-
-[Side 107]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-Tredje ledd om hvordan dokumentene skal gjøres tilgjengelig for partene, viderefører i realiteten
-nåværende § 17 nr. 7.
-Til § 17 Klageadgang
-Bestemmelsen viderefører klageretten i nåværende § 17 a, men det er presisert at klageretten
-er begrenset til den part som er nektet innsyn, jf.
-første punktum. Beslutningen som nekter innsyn
-skal være skriftlig og begrunnet, jf. merknadene
-til § 23. Etter andre punktum skal klageadgang,
-klagefrist og fremgangsmåte fremgå av beslutningen.
-Til § 18 Prosessdyktighet og prosessfullmektig
-Første ledd er nytt og omhandler prosessdyktighet
-og stedfortredere. For så vidt gjelder den ankende
-part legges tvistelovens forståelse av begrepene
-til grunn. I bestemmelsen gis reglene i tvisteloven
-kapittel 2 tilsvarende anvendelse så langt de passer.
-Gjeldende bestemmelse om retten for en part
-til å la seg bistå av prosessfullmektig, videreføres
-med en språklig endring som andre ledd.
-Det vises til punkt 9.5.
-Til § 19 Avgjørelsesgrunnlaget
-Første ledd viderefører nåværende bestemmelse
-om at avgjørelsesgrunnlaget i utgangspunktet
-skal baseres på partenes skriftlige fremstillinger
-og sakens øvrige opplysninger. Retten skal foreta
-en vurdering av faktum slik det foreligger på
-avgjørelsestidspunktet, jf. Rt. 2008 s. 688. Det
-vises til punkt 11.3.4.
-Andre ledd er omformulert, men det er ikke tilsiktet materielle endringer. Rettens adgang til å
-beslutte muntlig saksbehandling med rettsmøte
-videreføres. Partene kan be om muntlig saksbehandling, men retten må uansett vurdere dette av
-eget tiltak.
-Til § 20 Rettens forhold til partenes prosesshandlinger
-Etter første ledd kan retten prøve alle sider av
-saken, det vil si rettsanvendelsen, saksbehandlingen, faktum og det frie forvaltningsskjønn. Det er
-således ingen begrensninger i prøvingsadgangen, og retten kan fatte materielle vedtak. Bestemmelsen kodifiserer gjeldende rett.
-Andre ledd svarer til gjeldende § 20 andre ledd
-og slår fast at retten kan gå utover partenes
-påstander til gunst for den ankende part. Det vises
-
-107
-
-til punkt 11.4.4.1.Tredje ledd viderefører gjeldende
-første ledd. Partenes påstandsgrunnlag binder
-ikke retten. Dette tilsvarer rettens kompetanse i
-saker ved de alminnelige domstoler der partene
-ikke har fri rådighet, jf. tvisteloven § 11-4. Retten
-skal prøve alle vilkår for den ytelse som er krevd.
-Det vises til punkt 11.4.4.2. Retten kan bygge
-avgjørelsen på alle bevis som er fremme i saken,
-jf. lovforslagets fjerde ledd. Ved tvil om hva som er
-bevis og hva som er påstandsgrunnlag, må det
-avgjørende være om retten tilsidesetter de krav
-som med rimelighet kan stilles til kontradiktorisk
-behandling, NOU 2001: 32 Rett på sak, punkt 5.2.
-Fjerde ledd er en kodifisering av gjeldende rett.
-Lovteksten er utformet etter modell av tvisteloven
-§ 11-3 om rettens ansvar for rettsanvendelsen og
-11-2 andre ledd om at retten ikke er bundet av partenes argumentasjon om bevisspørsmål.
-Femte ledd er dels en videreføring av § 15 nr. 1,
-men utredningsprinsippet neddempes. Bestemmelsen skiller seg fra forvaltningsloven § 17. Retten har et ansvar for et forsvarlig avgjørelsesgrunnlag. Hvor godt opplyst saken skal være må
-vurderes mot sakens betydning. jf. proporsjonalitetsprinsippet. Det vises til § 1 andre ledd sjette
-strekpunkt og punkt 6.4. Retten kan innhente opplysninger dersom den finner det nødvendig. Der
-retten innhenter nye opplysninger, er det viktig at
-kontradiksjonsprinsippet blir ivaretatt, jf. sjuende
-ledd.
-Bestemmelsene i sjette og sjuende ledd er nye.
-Det kontradiktoriske prinsipp har med dette fått
-større vekt. Partene blir likestilt, også med hensyn til kontradiksjon. Forhold som kan få betydning for avgjørelsen skal partene ha en mulighet
-til å uttale seg om. Etter sjette ledd skal retten gi
-partene mulighet til å uttale seg før saken blir
-avgjort på et annet grunnlag enn partene har prosedert på, dersom retten går utenfor partenes
-påstandsgrunnlag, jf. tredje ledd.
-Sjuende ledd slår fast det generelle prinsippet
-om at partene skal være gitt mulighet til å uttale
-seg om faktiske forhold som er av betydning for
-avgjørelsen. Det vises til punkt 11.4.4.3 for
-bestemmelsens praktiske anvendelsesområde og
-typetilfeller. Kjerneområdet for bestemmelsen vil
-være opplysninger som tilkommer etter at ankemotparten har forberedt ankesaken og sendt den
-til Trygderetten. Utover dette vil retten måtte
-foreta en konkret vurdering. Kontradiksjon kan
-unnlates der det er klart at opplysningene ikke vil
-kunne få noen betydning for avgjørelsen. Kontradiksjonsprinsippet kan favne videre enn de situasjoner som er nevnt i sjette og sjuende ledd. Foreleggelsesadgangen etter § 20 første ledd siste
-
-[Side 108]
-
-108
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-punktum videreføres i andre punktum. Kontradiksjon vil kunne bli tilstrekkelig ivaretatt ved ny
-behandling hos ankemotparten.
-Til § 21 Kjennelser
-Paragrafen omhandler Trygderettens kjennelser.
-Nytt i første ledd er at bestemmelsen angir
-hvilke avgjørelser som treffes ved kjennelse.
-Andre ledd er nytt ved at det nå fremgår av
-loven at kjennelser skal begrunnes som dommer.
-Det er tatt inn en henvisning til tvisteloven § 19-6,
-som gjelder avgjørelsers utforming og begrunnelse. Av informasjonshensyn refereres i tillegg
-tvisteloven § 19-6 femte ledd første og andre punktum, om hvordan dommer skal utformes. Det er
-med dette ikke tatt sikte på å skjerpe dagens krav
-til begrunnelser av kjennelser. Disse skal fortsatt
-være avhengig av hva som reelt sett blir avgjort.
-Begrunnelsen skal omfatte en fremstilling av
-saken, partenes påstandsgrunnlag og rettens vurdering. Retten skal fortsatt kunne henvise til
-begrunnelsen i ankemotpartens utredning i oversendelsesbrevet, i den utstrekning rettens grunngiving faller sammen med den som er gitt der, jf.
-tvisteloven § 19-6 femte ledd siste punktum.
-Tredje ledd er en videreføring av gjeldende
-tredje ledd om adgangen til å nytte såkalt «kjennelse med forenklet grunngiving».
-Fjerde ledd om ulike typer slutninger er en
-videreføring av gjeldende fjerde ledd med noen
-endringer. Ordlyden i tvisteloven § 19-6 syvende
-ledd om at kjennelser skal inneholde en slutning
-som nøyaktig angir resultatet for de avgjørelser
-som treffes, er tatt inn i første punktum. I tillegg til
-dette vil de vanligste slutningsformene som benyttes ved realitetsavgjørelser i Trygderetten fortsatt
-være gjengitt i loven, av informasjonshensyn. Ordlyden er imidlertid endret. Av gjeldende lovs § 21
-tredje ledd fremgår hvilke slutningsformer som
-benyttes hvis saken ikke avvises. Dette er endret
-til hvilke slutningsformer som benyttes når retten
-avgjør realiteten i saken, jf. andre punktum. Det
-ligger ikke noen realitetsendring i dette. Etter
-tredje punktum er det foretatt en omredigering og
-tilføyelse for å klargjøre og fremheve at oppheving
-og/eller henvisning av vedtak kun kan skje hvis
-det ikke foreligger et forsvarlig grunnlag for å
-avgjøre sakens realitet. Nytt i bestemmelsen er at
-en sak kan henvises til ny behandling uten at vedtaket oppheves, dersom det er grunnlag for det.
-Det kan for eksempel være aktuelt i avvisningssak
-hvor det gis oppreisning for oversittet ankefrist og
-saken ikke er realitetsbehandlet av ankemotparten. Det kan også være aktuelt i sak om tilbake-
-
-2014–2015
-
-kreving hvor det uklart hvor langt foreldelsen
-strekker seg. Ut over dette er det ikke funnet
-grunn til, eller behov for, å lovfeste de ulike aktuelle slutningsformer av prosessuell karakter.
-Det vises til punkt 12.5.1.
-Til § 22 Avsigelse og underretning om kjennelse
-Første ledd er med enkelte redaksjonelle
-endringer en videreføring av gjeldende bestemmelse.
-Andre ledd er nytt og angir tidspunktet for når
-en kjennelse skal anses avsagt.
-Tredje ledd første punktum om når partene skal
-underrettes om en kjennelse er en videreføring av
-gjeldende første ledd første punktum i.f. Andre
-punktum om søksmålsfristen er en videreføring av
-gjeldende første ledd andre punktum.
-Til § 23 Beslutninger
-Bestemmelsen er ny.
-Første ledd angir hvilke avgjørelser som skal
-treffes ved beslutning. Beslutningsformen er knyttet til saksstyrende avgjørelser. Av lovforslaget
-fremgår det at også rettens avgjørelser som hever
-en sak som bortfaller uten realitetsavgjørelse, treffes ved beslutning. Det stilles ikke krav om
-begrunnelse av beslutninger. Unntaksvis vil imidlertid dette følge av kravet til forsvarlig saksbehandling, for eksempel ved hevingsbeslutninger.
-Andre ledd første punktum er en delvis videreføring av gjeldende lovs § 22 fjerde ledd. Bestemmelsen er utvidet ved at ikke bare retten, men
-også den administrator som har truffet avgjørelsen, kan omgjøre den. Beslutninger treffes som
-oftest av rettens administrator og det er derfor et
-behov for å lovfeste at administrator også skal
-kunne omgjøre en slik beslutning når dette er forsvarlig. Andre punktum med henvisning til tvisteloven § 19-10 første og fjerde ledd er nytt.
-Det vises for øvrig til punkt 12.5.2.
-Til § 24 Retting av feil
-Bestemmelsen om retting av feil er skilt ut som en
-egen paragraf. I dag finnes det bestemmelser om
-dette i § 22.
-Første ledd første punktum inkorporerer gjeldende § 22 andre ledd første punktum og er hentet fra tvisteloven § 19-8 første ledd. Bestemmelsen gjelder ikke bare retting av kjennelser, slik
-gjeldende § 22 gjør, men også retting av beslutninger. Andre punktum tilsvarer § 22 andre ledd
-andre punktum. Tredje punktum tilsvarer § 22
-
-[Side 109]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-andre ledd tredje punktum. Fjerde punktum tilsvarer § 22 andre ledd fjerde punktum. Gjeldende
-§ 22 andre ledd femte punktum, om at rettens
-administrator uten opphold skal forelegge saken
-for retten, er tatt ut fordi det anses overflødig.
-I andre ledd er det tatt inn en henvisning til
-tvisteloven § 19-8 tredje og fjerde ledd. § 19-8 tredje
-ledd første punktum angir fremgangsmåten ved
-retting. Etter andre punktum skal det gis underretning om rettingen etter de samme regler som
-gjelder for den avgjørelse som er rettet. Av fjerde
-ledd fremgår at om avgjørelsen rettes, eller begjæres rettet, er dette uten betydning for ankefristen.
-Det vises for øvrig til punkt 12.5.3.
-Til § 25 Tilleggskjennelse
-Bestemmelsen om tilleggskjennelse er ny i loven.
-Bestemmelsen er formulert etter modell av tvisteloven § 19-9 om tilleggsavgjørelser.
-Første ledd angir bestemmelsens virkeområde.
-Bestemmelsen har videre regler om at det må settes frem begjæring om tilleggskjennelse innen
-seks uker fra det tidspunkt meddelelse om kjennelsen er kommet frem til vedkommende part.
-Fristen er satt tilsvarende som for anke til Trygderetten i trygderettsloven § 10 (§ 9 i lovforslaget).
-Når det i kjennelse ikke er truffet avgjørelse
-om noe som skulle vært avgjort, kan tilleggskjennelse avsies. Det er aktuelt i de situasjonene hvor
-retten ikke tok stilling til ett eller flere tvistespørsmål, eller andre krav.
-Tilleggskjennelse skiller seg fra gjenopptak av
-kjennelse. Gjenopptak dreier seg om de tilfeller
-hvor tvistespørsmål er avgjort av retten, men hvor
-en part mener at det hefter kvalifiserte feil ved
-avgjørelsen, se punkt 13.3. En tilleggskjennelse
-innebærer at den opprinnelige kjennelsen blir stående for så vidt gjelder de spørsmål som ble tatt
-stilling til, mens det eller de resterende spørsmål
-blir særskilt avgjort i en egen, etterfølgende kjennelse.
-Tilleggskjennelse kan være aktuelt både når
-retten har forsømt å avgjøre et krav som var tvistegjenstand under saken og når den har forsømt å ta
-stilling til andre krav som var reist under saken,
-for eksempel krav om saksomkostninger. Krav
-eller påstandsgrunnlag som ikke var fremsatt
-under forhandlingene, kan parten derimot ikke
-kreve tilleggskjennelse for.
-Tilleggskjennelse er for øvrig underlagt de
-alminnelige regler for kjennelser, herunder kravene til utforming, avsigelse og forkynnelse.
-Når det avsies tilleggkjennelse, skal retten
-følge den samme fremgangsmåte som ved til-
-
-109
-
-leggsavgjørelser i tvisteloven § 19-9 første ledd
-andre punktum hvor det vises til bestemmelsen
-om retting av feil som fremgår av tvisteloven § 198 andre ledd annet og tredje punktum og tredje
-ledd.
-Andre ledd gir regler om søksmålsfristens løp.
-Det vises for øvrig til punkt 12.5.4.
-Til § 26 Søksmål
-Paragrafen om søksmål viderefører uten realitetsendringer nåværende § 23. Bestemmelsen i andre
-ledd om at Trygderetten må ha truffet avgjørelse i
-sak som omfattes av trygderettsloven § 2, før
-saken kan bringes inn lagmannsretten, er overført
-fra § 1 nr. 3 i gjeldende lov. Ellers er redigeringen
-av paragrafen noe endret.
-Til § 27 Gjenopptak av Trygderettens kjennelse. Vilkår
-Paragrafen er ny og omhandler gjenopptak av
-Trygderettens kjennelse, se punkt 13.3.
-Etter første ledd er retten til gjenopptak begrenset til kjennelser, se § 21. Adgangen til gjenopptak
-vil også gjelde tilleggskjennelser etter § 25. I en
-konkret sak kan retten omgjøre egne beslutninger, jf. § 23.
-Gjenopptak kan bare skje etter begjæring fra
-en av partene i ankesaken. Trygderetten kan for
-sin del ikke gjenoppta en sak av eget tiltak. For
-øvrig vil en ankende parts rettsetterfølger etter
-omstendighetene også kunne kreve gjenopptak.
-Dersom det organ som var ankemotpart i ankesaken er erstattet av et annet organ med tilsvarende kompetanse, vil retten til å begjære gjenopptak tilligge dette organet.
-Vilkårene for gjenopptak – gjenopptaksgrunnene – i andre ledd er alternative, slik at det er tilstrekkelig at ett av vilkårene er oppfylt for at en
-kjennelse skal kunne gjenopptas.
-Etter andre ledd bokstav a må det dreie seg
-om opplysninger om det tidligere faktiske forholdet som retten ikke var kjent med. Senere utvikling av de faktiske forholdene kan ikke danne
-grunnlag for gjenopptak, men kan eventuelt føre
-til en ny ankesak. Vilkårene i bokstav a forutsettes praktisert i en kvalifisert forstand. Ikke
-enhver ny faktisk opplysning om det tidligere
-faktiske forholdet vil kunne danne grunnlag for
-gjenopptak. Nye opplysninger som må regnes
-som presiseringer og utfyllinger av tidligere
-kjente forhold vil ikke kunne danne grunnlag for
-gjenopptak.
-Det kreves ikke at Trygderetten eller den
-instans som var ankemotpart kan klandres for at
-
-[Side 110]
-
-110
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-opplysningene ikke var kjent ved første gangs
-behandling av saken.
-Andre ledd bokstav b regulerer situasjon der
-gjenopptak begjæres på grunn av påståtte feil ved
-rettens behandling av ankesaken. Det må dreie
-seg om relativt betydelige feil/mangler. Det er
-ikke tilstrekkelig at retten i gjenopptakssaken er
-uenig i utfallet i den saken som kreves gjenopptatt, eller at en annen rettsanvendelse eller
-skjønnsutøvelse hadde latt seg forsvare.
-Uttrykket «kan» i innledningen til første ledd
-indikerer ikke at det skal foretas en skjønnsmessig vurdering av om gjenopptak skal skje. Er
-vilkårene oppfylt, skal ankesaken gjenopptas.
-Uttrykket reflekterer at gjenopptak bare skal skje
-når det foreligger begjæring om det, og at
-Trygderetten verken har rett eller plikt til å gjenoppta en ankesak etter eget tiltak.
-Ankesaken danner rammen for hva som kan
-omfattes av en begjæring om gjenopptak. En part
-kan ikke gjennom en slik begjæring oppnå noe
-annet eller mer enn det som var tvistegjenstand i
-ankesaken.
-Det vil ellers ikke være noe til hinder for at det
-settes frem begjæring om gjenopptak av en kjennelse av Trygderetten, selv om det foreligger en
-rettskraftig dom i saken. Dette ble lagt til grunn
-av Høyesterett når det gjaldt en begjæring fra den
-ankende part, jf. HR-2007-00002A. Antakelig vil
-det også kunne settes frem begjæring om gjenopptak selv om søksmålsfristen ikke er utløpt, jf.
-samme høyesterettsdom.
-Tredje ledd første punktum bestemmer at
-begjæring om gjenopptak må settes frem innen
-seks måneder etter at parten ble kjent med det
-forholdet som begjæringen bygger på. Etter andre
-punktum kan det gis oppreisning for oversittelse
-av fristen for å begjære gjenopptak, men bare dersom det foreligger «særlige grunner». Med dette
-siktes det til forhold som er en direkte årsak til at
-fristen ble oversittet, for eksempel omstendigheter knyttet til kvalifisert sykdom. Bare Trygderetten kan gi oppreisning på grunn av fristoversittelse. Dersom oppreisning ikke gis, kan gjenopptakelsesbegjæringen avvises, se § 28 tredje ledd
-og merknadene til denne paragrafen. Paragrafen
-er ikke til hinder for at det settes frem begjæring
-om gjenopptak flere ganger.
-Fjerde ledd henviser til loven § 11 om innholdet
-av en ankeerklæring, se punkt 13.3.4.5 Videre skal
-det angis om begjæringen gjelder hele avgjørelsen eller bare deler av kjennelsen.
-Femte ledd forutsetter at det skal drives en viss
-veiledning. Veiledningsplikten vil primært påhvile
-ankemotparten, når det gjelder begjæring om
-
-2014–2015
-
-gjenopptak fra den ankende part, se § 28 første
-ledd. Er det ankemotparten som begjærer gjenopptak, er det Trygderetten som må veilede, i og
-med at det er Trygderetten som er adressat for
-begjæringer fra ankemotparten, se § 28 andre
-ledd.
-Det er bare Trygderetten som har kompetanse til å avvise en begjæring om gjenopptak dersom innholdsvilkåret ikke er oppfylt, uavhengig
-av om det er den ankende part eller ankemotparten som har satt frem begjæringen.
-Til opphevingen av nåværende § 28
-Någjeldende § 28 omhandler innkalling av legmedlemmer og sakkyndige. Ordningen med legmedlemmer opphører. Innkalling av sakkyndige
-flyttes til § 32. § 28 kan da oppheves.
-Til ny § 28 Behandling av begjæring om gjenopptak
-mv.
-Paragrafen er ny, og omhandler behandlingen av
-en begjæring om gjenopptak mv., se punkt
-13.3.4.7.
-Etter første ledd første punktum skal den
-ankende parts begjæring om gjenopptak settes
-frem for ankemotparten. Dette betyr imidlertid
-ikke at ankemotparten kan avgjøre om vilkårene
-for gjenopptak er oppfylt. Det er det bare Trygderetten som kan gjøre. På den annen side vil ankemotparten kunne gi den ankende part medhold i
-det underliggende kravet, det vil si omgjøre det
-tidligere påankede vedtaket (sitt eget vedtak) i
-den aktuelle saken. For ankemotparter som er forvaltningsorganer, medfører dette at vedtaket kan
-omgjøres etter forvaltningsrettslige regler, jf. særlig forvaltningsloven § 35. For andre ankemotparter vil utgangspunktet være at omgjøringen skjer
-etter etablerte, egne retningslinjer.
-Hvis ankemotparten ikke omgjør, eller bare
-omgjør delvis, følger det av andre punktum i første
-ledd at ankemotparten må forberede sak om gjenopptak for Trygderetten. Denne saksforberedelsen skal skje med utgangspunkt i de regler som
-gjelder for ankemotpartens forberedelse av ordinære ankesaker, jf. trygderettsloven § 13. Dette
-følger av femte ledd.
-Ankemotparten skal sette frem begjæring om
-gjenopptak for Trygderetten, jf. andre ledd første
-punktum. Kravene til begjæringens innhold, jf.
-§ 27 fjerde ledd, vil her representere et minimum.
-Det må forutsettes at ankemotparten om nødvendig gir en bredere fremstilling av saken, slik at retten med basis i begjæringen og eventuell uttalelse
-
-[Side 111]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-fra den ankende parten som utgangspunkt får et
-best mulig grunnlag for å kunne ta stilling til
-begjæringen, se for øvrig § 13, selv om denne
-bestemmelsen ikke får direkte anvendelse i denne
-sammenheng.
-Det er rettens ansvar å sørge for at den
-ankende part gis anledning til å uttale seg, jf.
-andre ledd andre punktum. Etter omstendighetene må ankemotparten gis anledning til å kommentere den ankende parts uttalelse.
-Etter tredje ledd kan en begjæring om gjenopptak avvises. Bestemmelsen sier ikke noe om i
-hvilke tilfelle avvisning kan skje, men det siktes til
-prosessforutsetninger som ikke oppfylles, for
-eksempel at fristen for å begjære gjenopptak er
-oversittet, og det ikke foreligger grunnlag for å gi
-oppreisning for fristoversittelsen. Det vises ellers
-til spesialbestemmelsen § 27 femte ledd, hvor det
-er fastsatt at begjæringen kan avvises dersom den
-ikke oppfyller kravene til innhold.
-Er de nødvendige prosessforutsetninger oppfylt, kan begjæringen på dette trinnet av saksbehandlingen få to utfall – enten at begjæringen tas
-til følge eller at begjæringen ikke tas til følge.
-Fjerde ledd fastsetter hva som skal skje etter at
-en sak er gjenopptatt. Retten skal da ta stilling til
-realiteten i saken, det vil si det kravet som ligger
-til grunn for at saken ble begjært gjenopptatt, for
-eksempel om den ankende part skal gis rett til
-den uførepensjon som ble avslått i det påankede
-vedtaket, og som retten stadfestet i sin kjennelse.
-I alminnelighet vil nok motparten allerede ha
-uttalt seg om realiteten i saken. I så fall vil det i
-utgangspunktet ikke være nødvendig å be motparten om (ny) uttalelse. Men har ikke motparten
-uttalt seg, fastsetter fjerde ledd at denne skal gis
-anledning til å komme med en uttalelse.
-Vanligvis vil det være naturlig at retten tar stilling både til begjæringen om gjenopptak og, eventuelt, til realiteten i saken i en og samme kjennelse.
-Femte ledd fastsetter at de øvrige bestemmelser i trygderettsloven skal gjelde tilsvarende i
-saker om gjenopptak – med de unntak som følger
-av denne paragrafen og av § 27. De øvrige regler
-skal imidlertid bare anvendes så langt de passer.
-Dette åpner for at anvendelsen kan skje smidig og
-hensiktsmessig måte.
-Trygderettens avgjørelse i sak om gjenopptak
-vil kunne bringes inn for lagmannsretten ved
-søksmål etter § 26. Dette gjelder både når avgjørelsen er knyttet til begjæringen om gjenopptak
-og når avgjørelsen er knyttet til realiteten i saken.
-
-111
-
-Til § 29 Sakskostnader
-Paragrafen om sakskostnader svarer til nåværende § 25. Det er foretatt en endring i andre ledd
-ved at sakskostnader den ankende part pålegges
-kan inndrives etter reglene for dommer. De øvrige
-endringer i bestemmelsen er hovedsakelig en
-kodifisering av gjeldende praksis og ellers av
-redaksjonell art.
-Første ledd første punktum fastsetter at hvis
-Trygderettens kjennelse er til gunst for den
-ankende part, har vedkommende krav på å få
-erstattet nødvendige kostnader i forbindelse med
-saken.
-Kjennelser som går ut på at vedtaket omgjøres, anses å være til gunst for den ankende part.
-Trygderetten har ansett at også kjennelser som
-resulterer i oppheving og hjemvisning av det
-påankede vedtaket, regnes å være til gunst for den
-ankende part. En kjennelse der det er tatt stilling
-til om saken skal avvises, men som resulterer i at
-den fremmes til realitetsbehandling, kan bare sies
-å være til gunst for vedkommende hvis hun eller
-han får (helt eller delvis) medhold ved avgjørelsen
-av sakens materielle spørsmål.
-Det må være årsakssammenheng mellom
-bistanden og vedtaket til gunst for den ankende
-part.
-I andre punktum presiseres at også utgifter
-den ankende part har hatt i forbindelse med forutgående behandling, kan medregnes. Utgifter den
-ankende part har hatt før førsteinstansvedtaket
-må holdes utenfor.
-I gjeldende bestemmelse står det at den
-ankende part kan få dekket utgifter Trygderetten
-er ansvarlig for etter bestemmelsene i lov 13. juni
-1980 nr. 35 (rettshjelploven). Trygderetten er ikke
-lenger ansvarlig for disse utgiftene. Bestemmelsen endres derfor slik at det kun vises til utgifter
-pådratt etter rettshjelploven.
-Andre ledd har – som nå – regler som gir retten
-adgang til å pålegge den ankende part å erstatte
-kostnader ankemotparten har hatt i forbindelse
-med saken. Dette kan skje når den ankende part
-åpenbart uten grunn har fremsatt eller opprettholdt anke. I någjeldende bestemmelse står det at
-den ankende part kan pålegges helt eller delvis å
-bære de utgifter anken har medført for Trygderetten. Det siktes her til utgifter pådratt etter rettshjelploven. Bestemmelsen endres derfor i samsvar
-med endringen i første ledd.
-Det følger av andre ledd andre punktum at
-sakskostnader den ankende part pålegges kan
-inndrives etter reglene for dommer. Avgjørelsen
-er tvangsgrunnlag og skal også ellers regnes like
-
-[Side 112]
-
-112
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-med dom ved anvendelse av reglene i lov 26. juni
-1992 nr. 86 om tvangsfullbyrdelse og midlertidig
-sikring.
-Til § 30 Gebyrfri behandling
-Paragrafen svarer til gjeldende § 26 første ledd og
-fastsetter at Trygderettens behandling er gebyrfri.
-I dag dekkes ikke statens utgifter til Trygderetten mot refusjon fra de trygde- og pensjonsordninger som omfattes av ankeordningen. Gjeldende andre ledd blir derfor ikke videreført.
-
-2014–2015
-
-Det stilles ikke noe krav om at innkalling av vitner skal skje gjennom forkynnelse av vitnestevning.
-Første ledd gjelder innkalling av parter, vitner
-og sakkyndige til rettsmøte. I de fleste tilfeller er
-innkalling uproblematisk. Forkynning kan være
-nødvendig dersom den ankende part ikke har
-advokat, eller dersom advokaten ikke lykkes med
-å få kontakt med sin klient.
-Andre ledd har en henvisning til reglene i domstolloven om forkynning.
-Til § 33 Godtgjørelse til vitner og sakkyndige
-
-Til § 31 Melding om kjennelse mv.
-Paragrafen omhandler Trygderettens melding om
-kjennelse mv. Bestemmelsen svarer til nåværende
-§ 27. Det er foretatt endring ved at det stilles krav
-om at færre meldinger fra Trygderetten må sendes
-ved rekommandert brev. Det kreves ikke lenger at
-meldinger til en part om fastsatte frister, fremskaffelse av opplysninger, bevis m.v. sendes ved rekommandert brev. Alternativet om innkalling til møte
-(rettsmøte) flyttes til § 32. Det foretas videre en
-omredigering av paragrafen ved at første ledd andre
-punktum flyttes til andre ledd, mens nåværende
-andre ledd blir nytt første ledd andre punktum.
-Første ledd første punktum endres slik at
-Trygderettens melding til den ankende part om
-rettens kjennelse og beslutning som hever en sak
-som bortfaller uten realitetsavgjørelse, jf. § 23 første ledd andre punktum, gis gjennom rekommandert brev. Etter andre punktum gis andre meldinger på den måten retten finner hensiktsmessig. I
-de fleste tilfeller gis da melding ved vanlig brev.
-Andre ledd fastsetter at meldingen anses mottatt to uker etter innlevering til postoperatør
-med mindre vedkommende har fått meldingen
-tidligere. Denne bestemmelsen har særlig
-betydning i forhold til søksmålsfristen, jf. § 26
-femte ledd.
-Tredje ledd opprettholdes med enkelte språklige endringer. Det presiseres at det med part, siktes til den ankende part.
-Til § 32 Innkalling av parter, vitner og sakkyndige til
-rettsmøte
-Nåværende § 29 gjelder innkalling av vitner. Det
-er foretatt endring ved at innkalling av vitner,
-sakkyndige og parter samles i en bestemmelse.
-
-Paragrafen svarer til gjeldende § 30. Nåværende
-§ 30 første ledd er ikke lenger aktuell når ordningen med legmedlemmer og stedfortreder for faste
-medlemmer i Trygderetten bortfaller. § 33, som
-erstatter dagens § 30 andre og tredje ledd, vil i
-praksis bare gjelde godtgjørelse til vitner og
-sakkyndige som innkalles til rettsmøte. Bestemmelsen gir reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v. tilsvarende
-anvendelse.
-Til § 34 Taushetsplikt
-Paragrafen er gitt overskriften «Taushetsplikt» og
-viderefører uendret nåværende § 31.
-Til § 35 Straff for å gi uriktige opplysninger mv.
-Paragrafen viderefører nåværende § 32 med
-enkelte språklige endringer. Paragrafen er dessuten gitt overskriften «Straff for å gi uriktige opplysninger».
-Til § 36 Forskrifter
-Paragrafen viderefører nåværende § 33, og er gitt
-overskriften «Forskrifter».
-Til § 37 Forholdet til forvaltningsloven
-Paragrafen gjelder forholdet til forvaltningsloven,
-og er identisk med nåværende § 33 a.
-Til § 38
-Bestemmelsen om ikrafttreden mv. viderefører
-gjeldende § 34.
-
-[Side 113]
-
-2014–2015
-
-113
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-skriftlig. Dette tilsvarer trygderettsloven § 11
-tredje ledd (§ 11 andre ledd andre punktum i lovforslaget).
-
-18.3 Merknader til endringene i
-folketrygdloven
-Til § 21-12 første ledd tredje punktum
-Endringen innebærer en presisering av at klageinstansens vedtak som stadfester underinstansens
-avvisningsvedtak, kan ankes videre inn for
-Trygderetten, se forvaltningsloven § 28 tredje
-ledd hvor klageinstansens avvisningsvedtak ikke
-kan påklages videre dersom også underinstansen
-har gjort vedtak om avvisning. Saker hvor klageinstansen har truffet avvisningsvedtak i første
-instans, for eksempel der underinstansen har
-kommet til at anken bør fremmes til realitetsbehandling, kan ankes direkte til Trygderetten, jf.
-trygderettsloven § 1.
-
-Til opphevelsen av § 21-12 tredje ledd tredje punktum
-
-Til § 21-12 tredje ledd første punktum
-
-Departementet foreslår at loven skal tre i kraft fra
-den tid Kongen bestemmer. Det foreslås videre en
-overgangsbestemmelse som innebærer at loven
-gis virkning for saker som er mottatt i Trygderetten etter lovens ikrafttredelse. Det vises til lovforslaget avsnitt III.
-
-Bestemmelsen om at klage eller anke skal settes
-frem for det felles lokale kontoret i arbeids- og velferdsforvaltningen endres i samsvar med tilsvarende endring i trygderettsloven § 11 første ledd,
-hvoretter en anke skal settes frem for den enhet
-som Arbeids- og velferdsdirektoratet bestemmer,
-se merknaden til denne bestemmelsen, jf. punkt
-10.5.5.
-Som følge av at henvisningen til trygderettsloven § 11 er foreslått tatt ut, se merknaden til
-opphevelsen av § 21-12 tredje ledd tredje punktum, blir det slått fast at en klage kan settes frem
-skriftlig eller muntlig. Det vil da følge av forvaltningsloven § 32, jf. folketrygdloven § 21-1, at den
-som mottar en muntlig klage skal sette den opp
-
-Folketrygdloven § 21-12 tredje ledd tredje punktum oppheves. Endringen innebærer at forvaltningsloven §§ 31 (oversitting av klagefristen), 32
-(klagens form og innhold), 33 (saksforberedelsen
-i klagesak) og 42 (oppsettende virkning) skal
-gjelde for klagesaker etter folketrygdloven i stedet for trygderettsloven §§ 10, 11, 13 og 14. Se
-punkt 16 foran.
-
-18.4 Til ikrafttredelses- og overgangsbestemmelsen
-
-Arbeids- og sosialdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver
-under et fremlagt forslag til proposisjon til Stortinget om endringer i lov om anke til Trygderetten (lovrevisjon).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i lov om anke til Trygderetten (lovrevisjon)
-i samsvar med et vedlagt forslag.
-
-[Side 114]
-
-114
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-2014–2015
-
-Forslag
-til lov om endringer i lov om anke til Trygderetten (lovrevisjon)
-I
-Lov 16. desember 1966 nr. 9 om anke til Trygderetten skal lyde:
-Lov 16. desember 1966 nr. 9 om anke til
-Tr ygderetten (tr ygderettsloven)
-
-Kapittel 1 Formål og virkeområde
-§ 1 Lovens formål
-(1) Loven skal legge til rette for en betryggende,
-rask og tillitskapende behandling av trygde- og pensjonstvister av en uavhengig og upartisk Trygderett.
-(2) For å oppnå formålene i første ledd, skal
-– Trygderetten sørge for at bevisførselen gir et forsvarlig faktisk avgjørelsesgrunnlag,
-– partene få innsyn i og mulighet for å imøtegå
-motpartens argumentasjon og bevis,
-– partene likebehandles og få den nødvendige veiledning,
-– Trygderetten foreta en selvstendig og reell vurdering av avgjørelsesgrunnlaget,
-– viktige avgjørelser begrunnes, og
-– saksbehandlingen og kostnadene stå i et rimelig
-forhold til sakens betydning.
-§ 2 Trygderettens saklige virkeområde. Ankerett
-(1) Vedtak om individuelle rettigheter og
-plikter etter følgende regelverk kan ankes inn for
-Trygderetten av den vedtaket gjelder, i loven her
-kalt den ankende part:
-a) folketrygdloven
-b) barnetrygdloven
-c) lovgivningen om krigspensjonering
-d) bestemmelser for supplerende pensjonsordninger som er fastsatt ved lov eller vedtak av
-Stortinget
-e) samordningsloven
-f) særlige lovbestemmelser som fastsetter at saker
-kan ankes til Trygderetten.
-(2) Kongen kan bestemme at ankerett etter
-første ledd også skal gjelde vedtak om individuelle rettigheter og plikter i
-a) supplerende pensjonsordninger for kommunale arbeidstakere
-b) supplerende pensjonsordninger for arbeidstakere i selvstendige statlige og kommunale
-
-foretak og i andre institusjoner av offentlig
-karakter og
-c) supplerende private pensjonsordninger og
-herunder fastsette regler om tilpasning av
-lovens bestemmelser.
-(3) For tilleggstrygder kan departementet
-etter søknad treffe slik bestemmelse som nevnt i
-andre ledd.
-(4) Trygderetten kan ikke prøve vedtak som
-etter bestemmelse i lov eller i vedtekt eller i
-medhold av lov eller vedtekt ikke er gjenstand
-for anke, eller som kan ankes inn for en annen
-ankeinstitusjon.
-(5) Vedtak truffet av Kongen eller et departement kan ikke ankes inn for Trygderetten.
-
-Kapittel 2 Tr ygderettens organisasjon mv.
-§ 3 Trygderettens leder. Rettsmedlemmer
-(1) Trygderetten skal ha en leder, nestleder
-og så mange andre faste medlemmer som Kongen bestemmer. Disse medlemmer utnevnes av
-Kongen.
-(2) Trygderetten skal ha faste juridisk kyndige,
-medisinsk kyndige og attføringskyndige medlemmer.
-(3) Dersom saksmengden eller særlige forhold gjør det påkrevet, kan Kongen beskikke
-midlertidige medlemmer for inntil to år om gangen.
-(4) Trygderetten skal ha så mange rettsfullmektiger som Trygderettens leder bestemmer.
-Rettsfullmektigene tilsettes av Trygderettens
-leder for en periode på inntil tre år, med mulighet for forlengelse med inntil to år. Rettsfullmektigene kan utføre de oppgaver som etter loven
-her er tillagt de juridisk kyndige medlemmer av
-Trygderetten.
-(5) Ved utnevning av Trygderettens leder og
-nestleder gjelder kravene i domstolloven § 54 første
-ledd. Ved utnevning av andre juridisk kyndige medlemmer etter andre og tredje ledd gjelder kravene i
-domstolloven § 54 andre ledd. For rettsfullmektiger
-gjelder kravene i domstolloven § 54 tredje ledd.
-(6) Medisinsk kyndige medlemmer skal ha autorisasjon som lege.
-(7) Domstolloven §§ 53 og 60 gjelder for rettsmedlemmene og rettsfullmektigene.
-
-[Side 115]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-(8) Et rettsmedlem er uavhengig i sin behandling av ankesaker og saker om gjenopptak. Rettsmedlemmene skal utøve sin virksomhet på en måte
-som inngir alminnelig tillit og respekt.
-§ 4 Avdelinger mv.
-Kongen kan bestemme at Trygderetten skal
-deles i avdelinger og kan fastsette nærmere
-regler om rettens arbeidsordning og administrasjon.
-§ 5 Trygderettens lokalisering
-(1) Trygderetten har sitt sete i Oslo.
-(2) Etter beslutning av Trygderettens leder
-kan det holdes møte utenfor Oslo.
-§ 6 Regler om rettens sammensetning og saksforberedelse
-Trygderettens leder kan gi nærmere regler
-om saksforberedelse og om rettens sammensetning i den enkelte sak.
-§ 7 Rettens sammensetning i den enkelte sak. Administrator
-(1) Retten settes med to medlemmer i den
-enkelte sak, hvis ikke annet er bestemt.
-(2) Retten settes med tre medlemmer
-a)når sakens art tilsier at retten i tillegg settes med
-et juridisk kyndig medlem, et medisinsk kyndig
-medlem eller et attføringskyndig medlem,
-b)når retten opprinnelig er satt med to medlemmer,
-men det viser seg at det ikke er enighet om utfallet av saken,
-c)når saken reiser vanskelige retts- eller bevisspørsmål,
-d)når Trygderettens leder bestemmer det.
-(3) I de tilfellene hvor det må antas at rettens
-avgjørelse kan bli bestemmende for praksis på et
-saksområde, kan retten settes med fem medlemmer.
-Spørsmål om å sette retten med fem medlemmer,
-avgjøres av Trygderettens leder. Alle medlemmene
-skal være faste.
-(4) Et juridisk kyndig medlem skal være rettens
-administrator. Midlertidig ansatte medlemmer og
-rettsfullmektiger kan være administratorer, med
-unntak for tilfellene nevnt i tredje ledd. Spørsmål
-om å sette retten med to eller tre medlemmer avgjøres av rettens administrator, med unntak for tilfellene nevnt i andre ledd bokstav d.
-(5) Administrator og de øvrige medlemmene av
-retten oppnevnes tilfeldig med mindre saklige grunner tilsier at dette må fravikes.
-
-115
-
-§ 8 Habilitet
-(1) Reglene om habilitet i domstolloven §§ 106
-til 108 og § 113 gjelder tilsvarende for medlemmene av den rett som skal avgjøre saken og for
-saksforberedere.
-(2) For rettsfullmektiger gjelder domstolloven
-§ 109 tilsvarende.
-(3) Om et medlem av retten er inhabil avgjøres av retten selv, men vedkommende medlem
-skal ikke delta ved avgjørelsen. Avgjørelsen treffes av Trygderettens leder dersom det er spørsmål
-om inhabilitet for rettens administrator. Rettens
-administrator avgjør om en saksforbereder er
-inhabil.
-(4) Trygderettens leder avgjør selv om han
-eller hun er inhabil.
-
-Kapittel 3 Anke og saksforberedelse
-§ 9 Ankefrist
-(1) Fristen for anke til Trygderetten er seks
-uker fra det tidspunkt skriftlig underretning om
-vedtaket og om ankeadgang og ankefrist er
-kommet fram til vedkommende.
-(2) Har en part krevd å få oppgitt begrunnelsen for vedtaket etter forvaltningsloven § 24
-andre ledd, avbrytes ankefristen. Ny ankefrist
-tar til å løpe fra det tidspunkt meddelelse om
-begrunnelsen er kommet fram til vedkommende.
-(3) Trygderetten eller ankemotparten kan i
-særlige tilfeller forlenge ankefristen.
-(4) Trygderetten kan se bort fra at ankefristen
-er oversittet når særlige grunner taler for det.
-§ 10 Beregning av ankefristen
-(1) For at en anke skal være fremsatt i tide, er
-det tilstrekkelig at ankeerklæringen før utløpet av
-fristen
-a) er avgitt til postoperatør i Norge som skal sørge
-for å få sendingen frem til mottaker, eller
-b) at den er kommet frem til den elektroniske
-adressen som i det påankede vedtaket er oppgitt
-for mottak av elektronisk anke.
-(2) Kommer ankeerklæringen ikke frem, må
-den settes frem på nytt innen en uke etter at vedkommende forsto eller burde ha forstått at erklæringen
-ikke har kommet frem.
-(3) Ved beregning av ankefristen gjelder domstolloven §§ 148 og 149.
-§ 11 Ankeerklæringen og hvem som skal motta den
-(1) Anke til Trygderetten skal settes fram for
-den institusjon som har fattet vedtaket, i loven her
-kalt ankemotpart. Anke over vedtak etter lovgivning som hører under Arbeids- og velferdsdirek-
+*(7)* Domstolloven §§ 53 og 60 *gjelder* *for rettsmedlemmene og rettsfullmektigene*.
+
+*(8) Et rettsmedlem er uavhengig i sin behandling av ankesaker og saker om gjenopptak. Rettsmedlemmene skal utøve sin virksomhet på en måte som inngir alminnelig tillit og respekt.*
+
+BrøBrø*§ 4 Avdelinger mv.*
+
+BrøBrøKongen kan bestemme at Trygderetten skal deles i avdelinger og kan fastsette nærmere regler om rettens arbeidsordning og administrasjon.
+
+BrøBrø*§ 5 Trygderettens lokalisering*
+
+BrøBrø*(1)* Trygderetten har sitt sete i Oslo.
+
+*(2)* Etter beslutning av Trygderettens leder kan det holdes møte utenfor Oslo.
+
+BrøBrø*§ 6 Regler om rettens sammensetning og saksforberedelse*
+
+BrøBrøTrygderettens leder kan gi nærmere regler om saksforberedelse og om rettens sammensetning i den enkelte *sak.*
+
+BrøBrø*§ 7 Rettens sammensetning i den enkelte sak. Administrator*
+
+BrøBrø*(1) Retten settes med to medlemmer i den enkelte sak, hvis ikke annet er bestemt.*
+
+*(2) Retten settes med tre medlemmer*
+
+*a) når sakens art tilsier at retten i tillegg settes med et juridisk kyndig medlem, et medisinsk kyndig medlem eller et attføringskyndig medlem,*
+
+*b) når retten opprinnelig er satt med to medlemmer, men det viser seg at det ikke er enighet om utfallet av saken,*
+
+*c) når saken reiser vanskelige retts- eller bevisspørsmål,*
+
+*d) når Trygderettens leder bestemmer det.*
+
+*(3) I de tilfellene hvor det må antas at rettens avgjørelse kan bli bestemmende for praksis på et saksområde, kan retten settes med fem medlemmer. Spørsmål om å sette retten med fem medlemmer, avgjøres av Trygderettens leder. Alle medlemmene skal være faste.*
+
+*(4) Et juridisk kyndig medlem skal være rettens administrator. Midlertidig ansatte medlemmer og rettsfullmektiger kan være administratorer, med unntak for tilfellene nevnt i tredje ledd. Spørsmål om å sette retten med to eller tre medlemmer avgjøres av rettens administrator, med unntak for tilfellene nevnt i andre ledd bokstav d.*
+
+*(5) Administrator og de øvrige medlemmene av retten oppnevnes tilfeldig med mindre saklige grunner tilsier at dette må fravikes.*
+
+BrøBrø*§ 8 Habilitet*
+
+BrøBrø*(1)* Reglene om *habilitet* i *domstolloven* §§ 106 *til* 108 og § 113 *gjelder* tilsvarende for medlemmene av den rett som skal avgjøre saken og for saksforberedere.
+
+*(2) For rettsfullmektiger gjelder domstolloven § 109 tilsvarende.*
+
+*(3)* Om et medlem av retten er *inhabil* avgjøres av retten selv, men vedkommende medlem skal ikke delta ved avgjørelsen. *Avgjørelsen treffes av Trygderettens leder* dersom det er spørsmål om *inhabilitet* for rettens *administrator*. Rettens administrator avgjør om en saksforbereder er *inhabil*.
+
+*(4)* Trygderettens leder avgjør selv om han eller hun er *inhabil.*
+
+BrøBrø***Kapittel 3* Anke og saksforberedelse**
+
+BrøBrø*§ 9 Ankefrist*
+
+BrøBrø*(1)* Fristen for anke til Trygderetten er seks uker fra det tidspunkt skriftlig *underretning* om vedtaket og om ankeadgang og ankefrist er kommet fram til vedkommende.
+
+*(2)* Har en part krevd å få oppgitt begrunnelsen for vedtaket etter forvaltningsloven § 24 andre ledd, avbrytes ankefristen. Ny ankefrist tar til å løpe fra det tidspunkt meddelelse om begrunnelsen er kommet fram til *vedkommende.*
+
+*(3) Trygderetten eller ankemotparten kan* i særlige tilfeller forlenge ankefristen.
+
+*(4) Trygderetten kan* se bort fra at ankefristen er *oversittet* *når særlige* grunner taler for det.
+
+BrøBrø*§ 10 Beregning av ankefristen*
+
+BrøBrø*(1) For at en anke skal være fremsatt i tide, er det tilstrekkelig at ankeerklæringen før utløpet av fristen*
+
+BrøBrø*a) er avgitt til postoperatør i Norge som skal sørge for å få sendingen frem til mottaker, eller*
+
+*b) at den er kommet frem til den elektroniske adressen som i det påankede vedtaket er oppgitt for mottak av elektronisk anke.*
+
+BrøBrø*(2) Kommer ankeerklæringen ikke frem, må den settes frem på nytt innen en uke etter at vedkommende forsto eller burde ha forstått at erklæringen ikke har kommet frem.*
+
+*(3) Ved beregning av ankefristen gjelder domstolloven §§ 148 og 149.*
+
+BrøBrø*§ 11 Ankeerklæringen og hvem som skal motta den*
+
+BrøBrø*(1)* Anke til Trygderetten skal settes fram for den institusjon som *har fattet vedtaket, i loven her kalt ankemotpart.* Anke over vedtak etter lovgivning som hører under Arbeids- og velferdsdirektoratet skal settes fram *for den enheten som Arbeids- og velferdsdirektoratet bestemmer*.
+
+*(2)* Anken kan settes fram skriftlig eller muntlig. *Ved muntlig anke skal mottaker* sørge for å sette opp anken skriftlig og underskrive den sammen med den ankende part.
+
+*(3)* Erklæringen om anke må være underskrevet og nevne:
+
+BrøBrøa) at den er en anke til Trygderetten,
+
+b\) navn, fødselsdag og fødselsår samt adresse til den ankende part,
+
+c\) det vedtak som påankes,
+
+d\) den endring i vedtaket som kreves, og så vidt mulig de nærmere omstendigheter som anføres til støtte for anken,
+
+e\) erklæringer og andre bevis som påberopes,
+
+f\) bilag som følger anken.
+
+BrøBrø*(4)* Hvis en skriftlig anke er ufullstendig eller uklar, skal den ankende part gjøres oppmerksom på eventuelle mangler ved anken eller andre forhold som kan ha betydning i saken, og gis en frist for å rette opp eller supplere anken.
+
+BrøBrø*§ 12 Benyttelse av klageadgang*
+
+BrøBrø*Dersom* et vedtak kan påklages etter folketrygdloven § 21-12, barnetrygdloven § 15 eller etter bestemmelser i andre *lover,* kan saken bringes inn for Trygderetten først etter at klageadgangen er *benyttet.*
+
+BrøBrø*§ 13 Ankemotpartens forberedelse av ankesaken*
+
+BrøBrø*(1)* Ankemotparten skal ta det påankede vedtaket opp til ny *prøving.* *Hvis* anken ikke faller bort, skal ankemotparten tilrettelegge saken og *snarest mulig* fremstille den i et oversendelsesbrev til Trygderetten. Oversendelsesbrevet skal inneholde en beskrivelse av *det faktiske grunnlaget* ankemotparten bygger på, partenes *påstandsgrunnlag og partenes påstander.*
+
+*(2) Oversendelsesbrevet* sendes den ankende part med melding om at mulige merknader må avgis til ankemotparten innen *tre uker regnet* fra og med den dag meldingen er mottatt.
+
+*(3) Straks fristen for merknader er ute, utarbeider ankemotparten et ekspedisjonsbrev med eventuelle tilleggsmerknader og sender sakens dokumenter til Trygderetten.*
+
+*(4)* *Kopi av ekspedisjonsbrevet sendes den ankende part med frist for merknader på tre uker. Den ankende part sender eventuelle merknader direkte til Trygderetten, så vidt mulig med kopi til ankemotparten. Har ankemotparten ytterligere merknader i saken, sendes disse til Trygderetten og den ankende part innen tre uker.*
+
+*(5)* Bestemmelsen i § 31 *første ledd første punktum* gjelder tilsvarende for meldinger til den ankende part etter *andre ledd.*
+
+BrøBrø*§ 14 Utsatt iverksetting av vedtak*
+
+BrøBrø*(1) Anken medfører ikke utsettelse av iverksettingen av det påankede vedtaket.*
+
+*(2) Når* særlige grunner taler for det, kan *Trygderetten* eller ankemotparten bestemme at *iverksettingen* av *vedtaket* helt eller delvis skal utsettes til anken er avgjort. Det kan settes vilkår for slik utsetting.
+
+BrøBrø*§ 15 Bevis*
+
+BrøBrø*(1)* I den utstrekning noen plikter å gi opplysninger til ankemotparten har vedkommende samme plikt overfor *Trygderetten.*
+
+*(2) Retten kan bestemme at den ankende part skal fremstille seg for lege eller annen sakkyndig som grunnlag for en medisinsk eller ervervsmessig vurdering, dersom det anses å være av betydning for rettens avgjørelse.*
+
+*(3) For Trygderetten gjelder reglene om bevis i tvisteloven kapittel 21 til 28 så langt de passer.*
+
+BrøBrø*§ 16 Partenes rett til innsyn i sakens dokumenter*
+
+BrøBrø*(1)* En part har rett til å gjøre seg kjent med sakens *dokumenter, også etter at det er truffet vedtak i saken. En part har likevel ikke rett til å gjøre seg kjent med dokumenter* som Trygderetten har utarbeidet for sin interne *saksforberedelse.*
+
+*(2)* Med mindre det er av vesentlig betydning for parten, har *vedkommende ikke* krav på å få gjøre seg kjent med de opplysninger i et dokument som gjelder en annen persons helseforhold eller andre forhold som av særlige grunner ikke bør meddeles *videre.*
+
+*(3) Trygderetten bestemmer* ut fra hensynet til forsvarlig saksbehandling hvordan dokumentene skal gjøres tilgjengelig for partene. På anmodning skal en part *gis kopi* av *dokumentene.*
+
+BrøBrø*§ 17 Klageadgang*
+
+BrøBrø*En part som er nektet innsyn, kan påklage Trygderettens beslutning til departementet i samsvar med reglene i forvaltningsloven kapittel VI. Klageadgang, klagefrist og fremgangsmåte skal fremgå av beslutningen som nekter innsyn.*
+
+BrøBrø*§ 18 Prosessdyktighet og prosessfullmektig*
+
+BrøBrø*(1) Reglene om prosessdyktighet og stedfortreder i tvisteloven kapittel 2 gjelder så langt de passer.*
+
+*(2)* En part har rett til å la seg *representere* av prosessfullmektig etter samme regler som fastsatt i tvisteloven kapittel 3 i søksmål for lagmannsrett og for tingrett.
+
+BrøBrø***Kapittel 4* Ankebehandling**
+
+BrøBrø*§ 19 Avgjørelsesgrunnlaget*
+
+BrøBrø*(1)* Retten behandler tvisten på grunnlag av den skriftlige *fremstillingen* som partene har gitt*,* og sakens øvrige opplysninger*,* *slik de foreligger når retten avgjør saken.*
+
+*(2) Retten kan holde rettsmøte hvis særlige grunner taler for det. Rettsmøtet holdes for åpne dører. Retten kan beslutte at rettsmøtet skal holdes for lukkede dører av hensyn til partene eller der andre sterke grunner taler for det.*
+
+BrøBrø*§ 20 Rettens forhold til partenes prosesshandlinger*
+
+BrøBrø*(1) Retten kan prøve alle sider av saken og selv treffe realitetsavgjørelse.*
+
+*(2) Retten kan ved sin avgjørelse gå utover partenes påstander hvis det er til gunst for den ankende part.*
+
+*(3) Retten er ikke bundet av partenes påstandsgrunnlag. Påstandsgrunnlagene er de rettsstiftende faktiske forhold en part bygger sin påstand på.*
+
+*(4) Retten skal av eget tiltak anvende gjeldende rettsregler og er ikke bundet av partenes argumentasjon om bevisspørsmål.*
+
+*(5) Retten skal sørge for et forsvarlig avgjørelsesgrunnlag. Retten kan innhente de opplysninger den finner nødvendig for avgjørelsen.*
+
+*(6) Partene skal gis mulighet til å uttale seg dersom retten går utenfor partenes påstandsgrunnlag.*
+
+*(7) Partene skal gis mulighet til å uttale seg om faktiske forhold som er av betydning for rettens avgjørelsesgrunnlag. Ellers* avgjør retten om partene skal gis adgang til å uttale seg.
+
+BrøBrø*§ 21 Kjennelser*
+
+BrøBrø*(1)* Rettens avgjørelser *av krav som er tvistegjenstand, avgjørelser om avvisning og avgjørelser om tilleggskjennelse og gjenopptak* treffes ved alminnelig flertall *i kjennelse av de rettsmedlemmer som har deltatt i saken*.
+
+*(2) Kjennelser skal begrunnes som dommer, med unntak for tilfellene nevnt i tredje ledd. I kjennelsen skal saksfremstillingen og redegjørelsen for påstandsgrunnlagene beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og partenes rettslige og faktiske anførsler så langt det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurderingen og rettsanvendelsen avgjørelsen er bygd på. For øvrig gjelder tvisteloven § 19-6 tilsvarende så langt den passer.*
+
+*(3)* Dersom retten finner det klart at anken ikke kan føre fram, og avgjørelsen antas ikke å få betydning utenfor den foreliggende sak, er det tilstrekkelig at kjennelsen inneholder en kort beskrivelse av hva saken gjelder og en redegjørelse for de momenter som retten har lagt avgjørende vekt på.
+
+*(4) Kjennelser skal inneholde en slutning som nøyaktig angir resultatet for de avgjørelser som treffes. Når retten avgjør realiteten i saken, kan avgjørelsen gå ut på stadfestelse eller omgjøring. Hvis det ikke foreligger et forsvarlig grunnlag for å avgjøre realiteten, kan retten oppheve vedtaket og henvise saken til ny behandling. Dersom det er grunnlag for det, kan retten også henvise uten å oppheve vedtaket.*
+
+BrøBrø*§ 22 Avsigelse og underretning om kjennelse*
+
+BrøBrø*(1)* Kjennelse skal avsies snarest mulig etter at *Trygderetten har mottatt saken.*
+
+*(2) En kjennelse er avsagt når den er underskrevet av rettens medlemmer.*
+
+*(3) Partene skal straks underrettes om kjennelsen.* I *underretningen* skal partene gjøres oppmerksom på søksmålsfristen etter § 26 femte ledd.
+
+BrøBrø*§ 23 Beslutninger*
+
+BrøBrø*(1) Avgjørelser om saksbehandlingen treffes ved beslutning av retten eller rettens administrator. Rettens avgjørelse om å heve en sak som bortfaller uten realitetsavgjørelse, treffes også ved beslutning.*
+
+*(2) En beslutning kan omgjøres av den rett eller den administrator som har truffet den. Tvisteloven § 19-10 første og fjerde ledd gjelder for slik omgjøring.*
+
+BrøBrø*§ 24 Retting av feil*
+
+BrøBrø*(1) Rettens administrator kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelse eller lignende klar feil har fått en utforming som ikke stemte med rettens mening. Partene skal uten opphold underrettes om rettelsen. En part kan* kreve rettelsen forelagt for retten. Begjæringen må settes fram for Trygderetten senest en uke etter at underretningen om rettelsen er mottatt.
+
+*(2) Tvisteloven § 19-8 tredje og fjerde ledd gjelder for retting etter paragrafen her.*
+
+BrøBrø*§ 25 Tilleggskjennelse*
+
+BrøBrø*(1) Er det i kjennelse ikke truffet avgjørelse om noe som skulle ha vært avgjort, kan tilleggskjennelse avsies dersom det settes fram begjæring om det innen seks uker fra det tidspunkt meddelelsen om kjennelsen* *er kommet fram til vedkommende part. Tvisteloven § 19-9 gjelder for slik tillleggskjennelse så langt det passer.*
+
+*(2) Ved begjæring om tilleggskjennelse stopper søksmålsfristen. Blir tilleggskjennelse avsagt, løper ny søksmålsfrist. Blir begjæringen ikke tatt til følge, fortsetter fristen å løpe.*
+
+BrøBrø***Kapittel 5* Søksmål *og gjenopptak***
+
+BrøBrø*§ 26 Søksmål*
+
+BrøBrø*(1) Partene kan ved søksmål, og uten forliksmekling, bringe Trygderettens kjennelse inn* for lagmannsretten i det lagdømme hvor den ankende part for Trygderetten har sitt alminnelige verneting.
+
+*(2)* Tvist som nevnt i *§ 2* kan ikke bringes inn for lagmannsretten før Trygderetten har truffet avgjørelse i saken.
+
+*(3)* Domstolene kan prøve lovligheten av Trygderettens kjennelser.
+
+*(4) Når* søksmålet reises mot offentlig myndighet, skal det reises mot det organ som var ankemotpart ved sakens behandling for Trygderetten. *Dersom Arbeids- og velferdsetaten var ankemotpart, skal søksmålet rettes mot Arbeids- og velferdsdirektoratet.*
+
+*(5)* Fristen for søksmål er seks måneder fra det tidspunkt *underretning* om Trygderettens kjennelse er kommet fram til vedkommende part. Det kan gis oppfriskning mot oversitting av søksmålsfristen etter reglene i tvisteloven §§ 16-12 til 16-14.
+
+BrøBrø*§ 27 Gjenopptak av Trygderettens kjennelse. Vilkår*
+
+BrøBrø*(1) Trygderettens kjennelse kan gjenopptas etter begjæring fra en av partene i saken.*
+
+*(2) Det er et vilkår for gjenopptak at*
+
+BrøBrø*a) det er kommet til nye opplysninger om det tidligere faktiske forholdet som er egnet til å føre til et annet resultat, eller*
+
+*b) det foreligger alvorlige saksbehandlingsfeil, uforsvarlig rettsanvendelse eller uforsvarlig skjønnsutøvelse.*
+
+BrøBrø*(3) Begjæring om gjenopptak må settes fram innen seks måneder etter at parten ble kjent med det forholdet som begjæringen bygger på. Retten kan se bort fra at fristen er oversittet når det foreligger særlige grunner.*
+
+*(4) Begjæring om gjenopptak skal settes fram skriftlig. Reglene i § 11 tredje og fjerde ledd gjelder for slik begjæring. Det skal angis om begjæringen gjelder hele avgjørelsen eller bare deler av den.*
+
+*(5) Dersom en begjæring om gjenopptak er ufullstendig eller uklar, skal partene gjøres oppmerksom på eventuelle mangler og gis en frist for å rette opp eller supplere begjæringen. Dersom fristen ikke overholdes, skal begjæringen avvises. Avgjørelse om avvisning kan bare treffes av Trygderetten.*
+
+BrøBrø*§ 28 Behandling av begjæring om gjenopptak mv.*
+
+BrøBrø*(1) Den ankende part setter fram begjæring om gjenopptak for ankemotparten i den aktuelle ankesaken. Dersom det aktuelle vedtaket ikke omgjøres, skal ankemotparten forberede sak om gjenopptak for Trygderetten.*
+
+*(2) Ankemotparten setter fram begjæring om gjenopptak for Trygderetten. Retten tar stilling til begjæringen etter at den ankende part er gitt anledning til å uttale seg.*
+
+*(3) Hvis begjæringen ikke avvises, skal avgjørelsen gå ut på at begjæringen ikke tas til følge eller at saken gjenopptas.*
+
+*(4) Dersom saken gjenopptas, skal motparten om nødvendig gis anledning til å uttale seg før saken realitetsbehandles.*
+
+*(5) For øvrig skal de alminnelige regler i denne loven gjelde så langt de passer.*
+
+BrøBrø***Kapittel 6* Utgifter ved saksbehandlingen**
+
+BrøBrø*§ 29 Sakskostnader*
+
+BrøBrø*(1)* Hvis Trygderettens kjennelse er til gunst for den ankende part, skal retten pålegge ankemotparten helt eller delvis å erstatte de nødvendige *kostnader* som saken har medført for den ankende *part.* *Dette gjelder også nødvendige kostnader den ankende part har hatt i forbindelse med tidligere klagebehandling av saken, og kostnader* *som* er *pådratt* etter bestemmelsene i lov 13. juni 1980 nr. 35 om fri rettshjelp.
+
+*(2)* Hvis den ankende part åpenbart uten grunn har fremsatt eller opprettholdt anke, kan retten bestemme at vedkommende helt eller delvis skal bære de utgifter som anken har medført for ankemotparten *og utgifter etter lov 13. juni 1980 nr. 35 om fri rettshjelp. Sakskostnader som den ankende part pålegges, kan inndrives etter reglene for dommer.*
+
+*(3) Sakskostnader* tilkjennes bare når parten har krevd det. Retten tar avgjørelse om sakskostnader i den kjennelse som avslutter saken.
+
+*(4)* Rettens avgjørelser om *sakskostnader* kan ankes separat. Tvisteloven §§ 20-9 og 20-10 gjelder *for slik anke*. Ankedomstol er den lagmannsrett som er nevnt i § 26 *første* ledd i loven her. Ankefristen er én måned fra den dag vedkommende mottok underretning om avgjørelsen.
+
+BrøBrø*§ 30 Gebyrfri behandling*
+
+BrøBrøBehandling *i* Trygderetten er gebyrfri.
+
+BrøBrø***Kapittel 7* Forskjellige bestemmelser**
+
+BrøBrø*§ 31 Melding om kjennelse mv.*
+
+BrøBrø*(1)* Trygderettens melding til *den ankende* part *om* *rettens* kjennelse *og beslutning som hever en sak som bortfaller uten realitetsavgjørelse,* gis gjennom rekommandert brev. *Andre meldinger gis på den måten retten finner hensiktsmessig.*
+
+*(2) Meldingen anses for mottatt to uker etter innlevering til postoperatør, hvis ikke vedkommende har fått brevet tidligere.*
+
+*(3)* Hvis *den ankende* part ikke har bopel i riket, kan retten om nødvendig gjennom *melding* som nevnt i første ledd, pålegge vedkommende innen en fastsatt frist å oppgi en person som er bosatt i Norge som kan motta meldingen*.* Forpliktelsen varer til saken er avgjort. Etterkommer vedkommende ikke *en* slik anmodning, sendes *meldingen til* vedkommendes sist kjente adresse.
+
+BrøBrø*§ 32 Innkalling av parter, vitner og sakkyndige til rettsmøte*
+
+BrøBrø*(1) Trygderetten innkaller parter, vitner og sakkyndige til rettsmøte, om nødvendig ved forkynning.*
+
+*(2) Reglene i domstolloven om forkynning gjelder så langt de passer.*
+
+BrøBrø*§ 33 Godtgjørelse til vitner og sakkyndige*
+
+BrøBrø*Vitner og sakkyndige har krav på godtgjørelse etter reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v.*
+
+BrøBrø*§ 34 Taushetsplikt*
+
+BrøBrø*(1)* Enhver som i medfør av stilling eller verv etter loven får kjennskap til private forhold eller en virksomhets innretninger eller forretningsforhold som ikke er alminnelig kjent, plikter å bevare taushet om det vedkommende har fått kjennskap til, med mindre annet følger av stillingen eller vervet.
+
+*(2)* Bestemmelsene i første ledd gjelder ikke i tilfelle hvor allmenne interesser tilsier at opplysninger gis, og departementet samtykker i det. Forvaltningsloven §§ 13 til 13 e gjelder ikke.
+
+BrøBrø*§ 35 Straff for å gi uriktige opplysninger mv.*
+
+BrøBrø*Den* som mot bedre vitende gir uriktige opplysninger*,* eller fortier vesentlige opplysninger av betydning for sak som er brakt inn for Trygderetten eller som unnlater å etterkomme påbud som er gitt i medhold av denne lov*, straffes med bøter hvis forholdet ikke går inn under et strengere straffebud.*
+
+BrøBrø*§ 36 Forskrifter*
+
+BrøBrø*(1)* Kongen kan fastsette *forskrift* om gjennomføringen av denne lov.
+
+*(2)* Kongen kan *i* forskrift gjøre de unntak fra loven og gi de supplerende regler som er nødvendige til oppfylling av plikter som følge av overenskomst med fremmed stat.
+
+BrøBrø*§ 37 Forholdet til forvaltningsloven*
+
+BrøBrøForvaltningsloven gjelder ikke ved behandlingen av saker etter denne lov.
+
+BrøBrø***Kapittel 8 Ikrafttredelse.* Overgangsbestemmelser**
+
+BrøBrø§ 38 Denne lov trer i kraft 1. januar 1967.
+
+BrøBrøII
+
+BrøBrøI lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:
+
+BrøBrø§ 21-12 første ledd tredje punktum skal lyde:
+
+BrøBrøEtter at denne klageadgangen er benyttet, kan klageinstansens vedtak, *også vedtak om å avvise en klage,* ankes inn for Trygderetten etter reglene i lov 16. desember 1966 nr. 9 om anke til Trygderetten.
+
+BrøBrø§ 21-12 tredje ledd første punktum skal lyde:
+
+BrøBrøKlage eller anke settes fram *skriftlig eller muntlig* for *den enheten som Arbeids- og velferdsdirektoratet bestemmer.*
+
+BrøBrø§ 21-12 tredje ledd tredje punktum oppheves.
+
+BrøBrøIII
+
+BrøLoven trer i kraft fra den tid Kongen bestemmer.
+
+Loven gis virkning for saker som er mottatt i Trygderetten etter lovens ikrafttredelse.
+
+[^1]: BrøBrøArbeids- og velferdsetaten omfatter den statlige delen av arbeids- og velferdsforvaltningen.
+
+[^2]: BrøBrøFor straffesaker, se straffeprosessloven §§ 317 og 318, samt § 320.

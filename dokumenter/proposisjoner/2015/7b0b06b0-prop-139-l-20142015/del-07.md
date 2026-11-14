@@ -1,890 +1,320 @@
-# Prop. 139 L (2014–2015), del 7 av 11 (side 73–82)
+# Prop. 139 L (2014–2015), del 7 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2015/7b0b06b0-prop-139-l-20142015.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-139-l-20142015/id2416520/
 - Original-PDF: https://www.regjeringen.no/contentassets/dd4e8d89893a424889125ea02c368add/no/pdfs/prp201420150139000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 73]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-om at vedtaket oppheves og saken hjemvises til ny
-behandling, anses å være til gunst for den
-ankende part. Rettens standpunkt vedrørende
-saksomkostninger fremgår av slutningen.
-Kjennelser som avgjøres med stadfestelse
-utgjør ca. 75-80 prosent av Trygderettens totale
-saksmengde. Av kjennelsene som blir endret blir
-ca. 60 prosent omgjort og ca. 40 prosent opphevet.
-Det fremgår av loven § 22 første ledd at kjennelsen skal avsies snarest mulig etter at saksbehandlingen er slutt og straks meddeles partene.
-Partene skal samtidig gjøres oppmerksom på
-søksmålsfristen for lagmannsretten etter § 23
-fjerde ledd.
-12.2.2 Beslutninger
-Selv om trygderettsloven ikke har noen generell
-bestemmelse om beslutninger, inneholder den
-flere bestemmelser av prosessledende art. Avgjørelser som hever en sak som bortfaller uten realitetsavgjørelse treffes også ved beslutning.
-Prosessledende avgjørelser treffes normalt
-ved beslutning av rettens administrator, eller av
-rettsmedlemmene som deltar i saken. Med prosessledende avgjørelser siktes det til avgjørelser
-som skjer under sakens gang og som bare gjelder
-saksbehandlingen. Eksempler her er beslutning
-om oppsettende virkning etter trygderettsloven
-§ 14, om muntlige forhandlinger etter § 19 andre
-ledd første punktum, om en muntlig forhandling
-skal skje for åpne eller lukkede dører, jf. loven
-§ 19 andre ledd andre punktum, om fritak for vitneplikt, jf. loven § 15 nr. 3. Flere eksempler på prosessledende avgjørelser finnes i blant annet
-trygderettsloven §§ 15 og 16, men er lite praktiske.
-Trygderettsloven har ingen nærmere bestemmelser som sier noe om hvilke avgjørelser som
-skal treffes ved beslutning. I praksis synes det
-som om alle prosessledende avgjørelser treffes i
-form av beslutninger. Kjennelsesformen er ellers
-reservert for realitetsavgjørelser og for avgjørelser om avvisning. Den praktiske forskjellen er at
-beslutninger er utformet på en enklere og mer
-kortfattet måte enn kjennelser.
-Det er i utgangspunktet ingen adgang til å
-angripe de beslutninger Trygderetten treffer
-under forberedende saksbehandling, for de alminnelige domstoler. Disse må i tilfelle brukes som
-grunnlag for et angrep på selve avgjørelsen av
-saken. Når det gjelder avgjørelser om fri sakførsel, er lagmannsrett ankeinstans for alle avgjørelser av Trygderetten. Rettens avgjørelse om å
-nekte innsyn kan påklages til departementet i
-
-73
-
-samsvar med reglene i forvaltningsloven kap. VI,
-jf. trygderettsloven § 17 a andre ledd.
-Av trygderettsloven § 22 fjerde ledd fremgår
-det at retten kan omgjøre prosessledende kjennelser og beslutninger hvis ingen ervervet rett er til
-hinder for det. Det fremgår av lovens forarbeider
-at bestemmelsen er i samsvar med tilsvarende
-bestemmelse i arbeidstvistloven § 25 nr. 4.
-Begrepet «ervervet rett» er hentet fra tilsvarende bestemmelser i den tidligere tvistemålsloven av 13. august 1915 nr. 6 § 164 tredje ledd
-(omgjøring av prosessledende kjennelser) og
-§ 165 tredje ledd (omgjøring av beslutninger).
-Disse bestemmelsene er, med en annen form og
-ordlyd, tatt inn i den nye tvisteloven § 19-10. Første ledd lyder slik: «Beslutning og saksstyrende
-kjennelser kan omgjøres av den rett som har
-avsagt dem hvis hensynet til lovens formål tilsier
-det, og omgjøring ikke er uforholdsmessig tyngende for en part som har innrettet seg etter
-avgjørelsen». Denne formuleringen er ment å tilsvare innholdet av begrepet «ervervet rett» i den
-tidligere tvistemålslovens § 164 tredje ledd og
-§ 165 tredje ledd. I kommentaren til denne
-bestemmelsen i Norsk Lovkommentar uttales det
-blant annet følgende: «Avveiningen må bero på en
-konkret vurdering av om avgjørelsen har skapt
-forventninger det vil være urimelig å gripe inn i».
-Det fremgår ellers av tvisteloven § 19-10 fjerde
-ledd at retten kan omgjøre både av eget tiltak og
-etter krav fra en part. Det samme må gjelde
-omgjøring etter trygderettsloven § 22 fjerde ledd,
-selv om dette ikke uttrykkelig fremgår av bestemmelsen.
-12.2.3 Retting av feil
-Det fremgår av trygderettsloven § 22 andre ledd
-at kjennelser kan rettes av rettens administrator
-av eget tiltak dersom det foreligger skrivefeil,
-regnefeil og andre åpenbare feil. I praksis foretas
-rettingen ved tilføyelse, overstrykning mv. på det
-aktuelle stedet i den originale kjennelsen. Dato for
-rettingen påføres kjennelsen og undertegnes av
-rettens administrator. Innen en uke etter at melding om rettelsen er mottatt av parten kan vedkommende kreve saken forelagt for retten til ny
-vurdering.
-En mer omfattende retting kan skje av retten
-dersom kjennelsen er ufullstendig eller uklar, jf.
-loven § 22 tredje ledd. En slik retting kan først
-skje etter at begge parter er hørt. Denne bestemmelsen har vært anvendt dersom det ikke har blitt
-tatt stilling til krav om saksomkostninger, eller
-dersom det ikke går frem av kjennelsen at den
-
-[Side 74]
-
-74
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-ankende parten eller prosessfullmektigen hadde
-gitt merknader i saken. Rettingen foretas på
-samme måte som ved retting av åpenbare skrivefeil m.v. men i disse tilfellene må alle rettens medlemmer i saken undertegne rettingen.
-
-12.3 Høringsnotatet
-12.3.1 Kjennelser
-Departementet mener i høringsnotatet at det bør
-det fremgå av loven hvilke avgjørelser som treffes
-i form av kjennelse og hvordan dette gjøres.
-Det bør etter departementets syn også fremgå
-av loven at kjennelser skal begrunnes som dommer og hvordan de ellers skal utformes.
-Bestemmelsen i § 21 tredje ledd om adgangen
-til på visse vilkår å avsi kjennelser med forenklet
-begrunnelse ble foreslått opprettholdt. Også her
-skal det gis en fyllestgjørende begrunnelse, men
-saksfremstillingen for øvrig er mer summarisk.
-Bestemmelsen i lovens § 21 andre ledd, om
-adgangen til å gi begrenset begrunnelse i den
-utstrekning rettens grunngiving faller sammen
-med den som er gitt i ankemotpartens utredning,
-ble foreslått tatt ut. Det ble vist til at bestemmelsen ikke anses nødvendig da denne type kjennelser uansett fyller kravet til en dom, jf. bestemmelsens første ledd.
-I høringsnotatet ble det foreslått å ta inn ordlyden i tvisteloven § 19-6 syvende ledd om dommer og kjennelsers slutninger, ved at det nå
-fremgår at kjennelser skal inneholde en slutning
-som nøyaktig angir resultatet for de avgjørelser
-som treffes. I tillegg til dette finner departementet at de vanligste slutningsformene som benyttes ved realitetsavgjørelser i Trygderetten fortsatt skal fremgå av loven, av informasjonshensyn. Ordlyden ble imidlertid foreslått endret. Av
-gjeldende lov § 21 tredje ledd fremgår hvilke
-slutningsformer som benyttes hvis saken ikke
-avvises. Dette ble foreslått endret til hvilke slutningsformer som benyttes når retten avgjør realiteten i saken. Det ligger ikke noen realitetsendring i dette. Videre ble det foretatt en omredigering og tilføyelse for å klargjøre og fremheve
-at oppheving og/eller hjemvisning av vedtak kun
-kan skje hvis det ikke foreligger et forsvarlig
-grunnlag for å avgjøre saken. Nytt i bestemmelsen er at en sak kan hjemvises uten at vedtaket
-oppheves. Det kan for eksempel være aktuelt i
-avvisningssak hvor det gis oppreisning for oversittet ankefrist, og saken ikke er realitetsbehandlet av ankemotparten. Det kan også være aktuelt
-i sak om tilbakekreving hvor det uklart hvor
-
-2014–2015
-
-langt foreldelsen rekker. Ut over dette fant ikke
-departementet ikke grunn til, eller behov for, å
-lovfeste de ulike aktuelle slutningsformer av prosessuell karakter.
-Gjeldende § 22 første ledd om avsigelse og
-underretning om kjennelse ble med noen redaksjonelle endringer foreslått opprettholdt i § 22.
-Nytt i bestemmelsen er en lovfesting av at en kjennelse er avsagt når den er underskrevet av rettens
-medlemmer.
-12.3.2 Beslutninger
-Departementet mente at det bør gå frem av loven
-hvilke avgjørelser som treffes i form av beslutning
-og hvordan dette gjøres. Det ble foreslått en egen
-bestemmelse om beslutninger i § 23. Beslutningsformen skal være knyttet til saksstyrende avgjørelser. Av lovutkastet fremgår det at også rettens
-avgjørelser som hever en sak som bortfaller uten
-realitetsavgjørelse treffes ved beslutning.
-Nåværende § 22 fjerde ledd om omgjøring av
-beslutninger ble, med noen endringer, foreslått
-videreført.
-12.3.3 Retting av feil
-Bestemmelsen om retting av feil i gjeldende § 22
-andre ledd ble foreslått flyttet til ny § 24. Den nye
-bestemmelsen skal omfatte både retting av kjennelser og retting av beslutninger. Det ble forslått
-at gjeldende ordlyd erstattes med ordlyden i
-tvisteloven § 19-8 første ledd om retting av feil, da
-denne er mer klargjørende og også fanger opp
-begrepet «uklar» i gjeldende tredje ledd. Gjeldende § 22 andre ledd femte punktum, om at rettens administrator uten opphold skal forelegge
-saken for retten, ble foreslått tatt ut da den er
-overflødig.
-Det ble videre foreslått at tvisteloven § 19-8
-tredje og fjerde ledd skal gjelde tilsvarende så
-langt de passer. Her angis fremgangsmåten ved
-retting, og det fremgår at det er uten betydning
-for ankefristen at avgjørelsen rettes eller begjæres
-rettet.
-12.3.4 Tilleggskjennelse
-Departementet ga i høringsnotatet uttrykk for at
-det er behov for å lovfeste en adgang til å avsi tilleggskjennelse for de situasjonene hvor retten
-ikke tok stilling til ett eller flere tvistespørsmål,
-eller andre krav.
-Det ble foreslått å lovregulere Trygderettens
-adgang til å avsi tilleggskjennelse etter modell av
-
-[Side 75]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-tvisteloven § 19-9 om tilleggsavgjørelser. Det ble
-foreslått at tilleggskjennelse skal kunne avsies når
-en av partene setter frem begjæring om det.
-En begjæring om tilleggskjennelse må rette
-seg mot et rettsforhold som er reist i saken og
-som ikke er avgjort. En kjennelse som ikke tar en
-begjæring om tilleggskjennelse til følge kan angripes ved søksmål. Domstolene skal bare prøve om
-det var grunnlag for å avsi tilleggskjennelse, og
-ikke sakens realitet.
-Det ble foreslått innført en tidsfrist for adgangen til å fremme begjæring om tilleggskjennelse
-på seks uker.
-Når det avsies tilleggskjennelse, ble det foreslått at retten skal følge den samme fremgangsmåte som ved tilleggsavgjørelser i tvisteloven
-§ 19-9 første ledd andre punktum.
-
-12.4 Høringsinstansene
-Kun et fåtall instanser hadde merknader til dette
-punktet i høringsnotatet. Jussformidlingen slutter
-seg til departementets forslag om å opprettholde
-muligheten for forenklet begrunnelse i § 21. Det
-vises til at dette kun skal skje i unntakstilfeller
-hvor resultatet er klart, og vil være både tids- og
-kostnadsbesparende, uten at Jussformidlingen
-kan se at dette går utover rettsikkerheten. Jussformidlingen mener videre at det er hensiktsmessig, slik departementet foreslår, at det i kjennelsene avgis en klar slutning hvor resultatet
-kommer frem. De mener at det i denne slutningen ikke bare bør fremkomme om vedtaket stadfestes, oppheves eller hjemvises, men også hva
-virkningen av dette er. Eksempelvis at vedtaket
-stadfestes, slik at tilbakebetalingskravet opprettholdes. Dette fordi mange av de ankende parter
-er privatpersoner som Jussformidlingen erfarer
-trenger forklart virkningen av de ulike konklusjonene.
-Pensjonskasseforeningen uttaler:
-«Departementet foreslår at Trygderettens
-adgang til å avsi kjennelser med forenklet
-begrunnelse opprettholdes. Dette kan være
-rasjonelt for det tilfellet at saksinngangen i
-fremtiden øker. Etter vår oppfatning er det likevel klart å foretrekke at retten avsier selvstendige kjennelser, som i størst mulig grad gir en
-helhetlig fremstilling av saksforholdet og rettens vurderinger. I praksis er det ønskelig at
-kjennelser med utpregede henvisninger til partenes fremstillinger unngås. Partenes tillit til
-rettens behandling er vesentlig, og kan svek-
-
-75
-
-kes noe ved henvisnings- og sitatbaserte avgjørelser.
-Pensjonskasseforeningen støtter departementets forslag om lovfestet hjemmel til å avsi
-tilleggskjennelser. Det antas at adgangen i
-praksis vil bli benyttet i få tilfeller. …»
-
-12.5 Departementets vurderinger og
-forslag
-12.5.1 Kjennelser
-Departementet følger opp forslaget fra høringsnotatet om å lovfeste hvilke avgjørelser som treffes i
-form av kjennelse og hvordan dette gjøres, se § 21
-første ledd i lovforslaget.
-Det bør etter departementets syn fremgå av
-loven at kjennelser skal begrunnes som dommer
-og også hvordan de ellers skal utformes, slik det
-er foreslått i § 21 andre ledd. Det vises i bestemmelsen til at tvisteloven § 19-6 om dommers utforming og begrunnelse gjelder tilsvarende så langt
-den passer. Tvisteloven § 19-6 femte ledd første og
-andre punktum om dommers og kjennelsers innhold er i tillegg tatt inn i andre ledd av informasjonshensyn. Det fremgår her at i kjennelsen skal
-saksfremstillingen og redegjørelsen for påstandsgrunnlagene konsentrert beskrive det rettsforhold som er tvistegjenstand, sakens bakgrunn og
-partenes rettslige og faktiske anførsler så langt
-det er nødvendig for å forklare avgjørelsen. Deretter gjør retten rede for den bevisvurdering og
-rettsanvendelse avgjørelsen er bygd på.
-Bestemmelsen i § 21 tredje ledd om adgangen
-til på visse vilkår å avsi kjennelser med forenklet
-begrunnelse foreslås likevel opprettholdt, som i
-høringsforslaget. Også her skal det gis en fyllestgjørende begrunnelse, men saksfremstillingen for
-øvrig er mer summarisk.
-Bestemmelsen i loven § 21 andre ledd, om
-adgangen til å gi begrenset begrunnelse i den
-utstrekning rettens grunngiving faller sammen
-med den som er gitt i ankemotpartens utredning,
-tas ut, i samsvar med høringsforslaget. Bestemmelsen anses ikke nødvendig da denne type kjennelser uansett fyller kravet til en dom, jf. bestemmelsens første ledd. Andre ledd andre punktum
-om at grunngiving kan unnlates i den utstrekning
-den ikke kan gis uten å røpe opplysninger som en
-part ikke har rett til å gjøre seg kjent med, foreslås tatt ut. Dette fordi bestemmelsen henviser til
-loven § 17 nr. 2 til nr. 4, som er endret og delvis
-tatt ut av loven.
-I loven § 21 fjerde ledd, som omhandler kjennelsens slutning, foreslås det i tråd med hørings-
-
-[Side 76]
-
-76
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-forslaget å ta inn ordlyden i tvisteloven § 19-6
-syvende ledd om dommer og kjennelsers slutninger, ved at det nå fremgår at kjennelser skal inneholde en slutning som nøyaktig angir resultatet
-for de avgjørelser som treffes. I tillegg til dette finner departementet at de vanligste slutningsformene som benyttes ved realitetsavgjørelser i
-Trygderetten fortsatt skal fremgå av loven, av
-informasjonshensyn. Ordlyden foreslås imidlertid endret. Av gjeldende lov § 21 tredje ledd fremgår hvilke slutningsformer som benyttes hvis
-saken ikke avvises. Dette foreslås endret til hvilke
-slutningsformer som benyttes når retten avgjør
-realiteten i saken. Det ligger ikke noen realitetsendring i dette. Videre er det foretatt en omredigering og tilføyelse for å klargjøre og fremheve at
-oppheving og/eller hjemvisning av vedtak kun
-kan skje hvis det ikke foreligger et forsvarlig
-grunnlag for å avgjøre saken. Nytt i bestemmelsen er at en sak kan hjemvises uten at vedtaket
-oppheves. Det kan for eksempel være aktuelt i
-avvisningssak hvor det gis oppreisning for oversittet ankefrist, og saken ikke er realitetsbehandlet av ankemotparten. Det kan også være aktuelt i
-sak om tilbakekreving hvor det uklart hvor langt
-foreldelsen rekker. Ut over dette har departementet ikke funnet grunn til, eller behov for, å lovfeste de ulike aktuelle slutningsformer av prosessuell karakter. Forslagene her følger opp høringsforslaget.
-Jussformidlingen mener at det i slutningen ikke
-bare bør fremkomme om vedtaket stadfestes, oppheves eller hjemvises, men også hva virkningen
-av dette er. Eksempelvis at vedtaket stadfestes,
-slik at tilbakebetalingskravet opprettholdes.
-Departementets lovforslag bygger på tvistelovens bestemmelser om hvordan dommer skal
-utformes, herunder at slutningen nøyaktig skal
-angi resultatet for de avgjørelser som treffes. Ved
-omgjøring i Trygderetten vil slutningen derfor
-måtte angi virkningen, for eksempel slik: «NAV
-Klageinstans sitt vedtak omgjøres slik at det beløp
-Ap skal tilbakebetale til NAV settes til kr 5 000.»
-Ved stadfesting vil virkningen av Trygderettens
-kjennelse følge av det påankede vedtaket, som er
-gjengitt først i Trygderettens kjennelse. Departementet mener dette må være tilstrekkelig for at
-den ankende part skal kunne sette seg inn i avgjørelsen, og foreslår på denne bakgrunn ingen
-endringer i forhold til høringsforslaget.
-Gjeldende § 22 første ledd om avsigelse og
-underretning om kjennelsen er med noen redaksjonelle endringer foreslått opprettholdt i § 22.
-Bestemmelsens nåværende første ledd foreslås
-delt opp i tre ledd. Nytt i bestemmelsen er at
-
-2014–2015
-
-departementet har foreslått lovfestet at en kjennelse er avsagt når den er underskrevet av rettens
-medlemmer.
-Det vises til lovforslaget, trygderettsloven
-§§ 21 og 22.
-12.5.2 Beslutninger
-Departementet mener videre at det bør fremgå av
-loven hvilke avgjørelser som treffes i form av
-beslutning og hvordan dette gjøres. Det foreslås i
-tråd med høringsnotatet en egen bestemmelse om
-beslutninger i § 23. Beslutningsformen skal være
-knyttet til saksstyrende avgjørelser. Av lovforslaget fremgår det at også rettens avgjørelser som
-hever en sak som bortfaller uten realitetsavgjørelse treffes ved beslutning.
-Tidligere § 22 fjerde ledd om omgjøring av
-beslutninger foreslås, med noen endringer, flyttet
-til ny § 23 andre ledd. Begrepet «prosessledende
-kjennelser» er tatt ut i den nye bestemmelsen
-fordi prosessledende avgjørelser kun treffes ved
-beslutninger i Trygderetten. Det foreslås at en
-beslutning også skal kunne omgjøres av den
-administrator som har truffet den. I praksis treffes de fleste beslutninger kun av rettens administrator. I bestemmelsens andre punktum foreslås
-det at tvisteloven § 19-10 første og fjerde ledd gis
-tilsvarende anvendelse. Bestemmelsens første
-ledd første punktum gir hovedregelen om hvilke
-avgjørelser som kan omgjøres, og om vilkårene
-for omgjøring. Bestemmelsens fjerde ledd gir
-regler om saksbehandling ved omgjøring.
-Det vises til lovforslaget, trygderettsloven
-§ 23.
-12.5.3 Retting av feil
-Forslagene i dette punkt er i samsvar med
-høringsforslaget. Bestemmelsen om retting av feil
-i gjeldende § 22 andre ledd foreslås flyttet til ny
-§ 24. Den nye bestemmelsen omfatter ikke bare
-retting av kjennelser, slik gjeldende bestemmelse
-gjør, men også retting av beslutninger. I bestemmelsens første ledd forslås det at gjeldende ordlyd
-erstattes med ordlyden i tvisteloven § 19-8 første
-ledd om retting av feil, da denne er mer klargjørende og også fanger opp begrepet «uklar» i gjeldende tredje ledd. Gjeldende § 22 andre ledd
-femte punktum, om at rettens administrator uten
-opphold skal forelegge saken for retten, foreslås
-tatt ut fordi det anses overflødig.
-I andre ledd foreslås det at tvisteloven § 19-8
-tredje og fjerde ledd skal gjelde tilsvarende så langt
-de passer. Her angis fremgangsmåten ved retting,
-
-[Side 77]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-og det fremgår at det er uten betydning for ankefristen at avgjørelsen rettes eller begjæres rettet.
-Det vises til lovforslaget, trygderettsloven
-§ 24.
-12.5.4 Tilleggskjennelse
-Departementet følger her opp forslagene i
-høringsnotatet. Som der nevnt er det behov for å
-lovfeste en adgang til å avsi tilleggskjennelse for
-de situasjonene hvor retten ikke tok stilling til ett
-eller flere tvistespørsmål eller andre krav. Slike
-saker har i flere tilfeller vært gjenopptatt.
-Departementet ser det som lite hensiktsmessig at gjenopptaksinstituttet benyttes i større grad
-enn nødvendig. Gjenopptak egner seg bare for de
-tilfeller hvor tvistespørsmål er avgjort av retten,
-men hvor en part mener at det hefter kvalifiserte
-feil ved avgjørelsen, se punkt 13.3.
-Et tosporet system med tilleggskjennelse for
-spørsmål som ikke ble tatt stilling til og gjenopptak av alt avgjorte forhold, der vilkårene for dette
-er oppfylt, vil også bidra til klarere linjer for retting av mangelfulle eller uriktige kjennelser.
-Det foreslås på denne bakgrunn å lovregulere
-Trygderettens adgang til å avsi tilleggskjennelse i
-lovens § 25, etter modell av tvisteloven § 19-9 om
-tilleggsavgjørelser.
-Det fremgår av forslag til § 25 første ledd at tilleggskjennelse avsies når en av partene setter
-frem begjæring om det.
-En begjæring om tilleggskjennelse må rette
-seg mot et rettsforhold som er reist i saken og
-som ikke er avgjort. Det kan tenkes å oppstå
-uenighet om hva retten har tatt stilling til i kjennelsen. Dersom rettens vurdering er at det forhold som det begjæres tilleggskjennelse om alt er
-avgjort, vil det ikke være grunnlag for å ta begjæringen til følge. Retten skal da avsi kjennelse der
-slutningen går ut på at begjæringen ikke tas til
-følge. Vurderingen av hva som alt er avgjort beror
-på en tolkning av hva som var ankegjenstand,
-sammenholdt med slutningen og premissene i
-
-77
-
-kjennelsen, og må gjøres konkret. En kjennelse
-som ikke tar en begjæring om tilleggskjennelse til
-følge kan angripes ved søksmål. I tilfelle skal domstolene bare prøve om det var grunnlag for å avsi
-tilleggskjennelse, og ikke sakens realitet.
-Departementet presiserer at ordningen med
-tilleggskjennelse ikke er ment som en hjemmel
-for å avkreve retten en tilleggsbegrunnelse for de
-tvistetemaer som alt er avgjort.
-I likhet med ordningen med tilleggsavgjørelser i sivilprosessen foreslås det innført en tidsfrist
-for adgangen til å fremme begjæring om tilleggskjennelse. Etter tvisteloven § 19-9 må begjæring
-settes frem innen ankefristen. Departementet
-mener at en frist på seks uker i denne sammenheng er en naturlig frist, tilsvarende fristen for
-anke til Trygderetten i trygderettsloven § 10.
-Søksmålsfristen i lovens § 23 fjerde ledd på seks
-måneder er etter departementets syn for lang, da
-det anses som svært viktig for de berørte parter at
-det tas stilling til uavklarte spørsmål så raskt som
-mulig etter at den mangelfulle kjennelsen er
-avsagt. Tidsfristen fremgår av lovens § 25 første
-ledd første punktum.
-Det foreslås at retten ved avsigelse av tilleggskjennelse skal følge den samme fremgangsmåte
-som ved tilleggsavgjørelser i tvisteloven § 19-9 første ledd andre punktum. Der vises det til bestemmelsen om retting av feil som fremgår av tvisteloven § 19-8 andre ledd annet og tredje punktum
-og tredje ledd, se lovforslaget § 25 første ledd
-andre punktum.
-Tvistelovens ordning er at en begjæring om tilleggsavgjørelse stopper ankefristen. Dersom tilleggsavgjørelse blir avsagt, løper ny ankefrist.
-Den opprinnelige fristen fortsetter å løpe dersom
-tilleggsavgjørelse ikke blir avsagt. Departementet foreslår en tilsvarende ordning for forholdet til
-søksmålsfristen i trygdesaker tatt inn i trygderettsloven § 25 andre ledd.
-Det vises til lovforslaget, trygderettsloven
-§ 25.
-
-[Side 78]
-
-78
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-2014–2015
-
-13 Søksmål og gjenopptak
-13.1 Innledning
-Trygderettens kjennelser kan prøves på to måter.
-Den ordinære måten (rettsmiddelet) er søksmål.
-Den andre er gjenopptak. Søksmålsadgangen er
-lovfestet i trygderettsloven § 23. Ordningen med
-gjenopptak av Trygderettens kjennelser er ulovfestet, skapt gjennom Trygderettens egen praksis.
-Kapittel 13 her er i særlig grad viet ordningen
-med gjenopptak. De gjeldende regler om søksmål
-foreslås videreført, med noen mindre endringer
-av redaksjonell art.
-Den sentrale problemstillingen knyttet til gjenopptak, er om denne ordningen skal lovfestes og –
-i så fall – hvorledes dette skal skje. Spørsmål som
-melder seg her er hvem som eventuelt skal kunne
-utløse en sak om gjenopptak, hvilke avgjørelser
-som skal kunne gjenopptas og hvilke materielle
-vilkår som må oppfylles før gjenopptak kan skje.
-Videre vil det blant annet bli vurdert om det skal
-lovfestes regler om frister for gjenopptak og nærmere regler om saksbehandlingen. Ordningen
-med gjenopptak har sin parallell i ordningen med
-gjenåpning av dommer etter tvisteloven kapittel
-31.
-
-13.2 Søksmål
-13.2.1 Gjeldende rett
-Partene i en ankesak for Trygderetten kan bringe
-rettens kjennelse inn for lagmannsretten ved
-søksmål, uten forutgående behandling i forliksrådet, jf. trygderettsloven § 23. Søksmålsfristen er
-seks måneder. Overprøvingen er knyttet til lovligheten av Trygderettens kjennelse.
-I årene 2007–2011 har det i gjennomsnitt vært
-satt frem i underkant av 60 søksmål per år. I de alt
-overveiende tilfelle er det den ankende part i
-saken for Trygderetten som står som saksøker.
-Ca. halvparten av saken pådømmes. De øvrige
-sakene avsluttes ved at de forlikes eller ved at saksøker trekker søksmålet.
-
-13.2.2 Høringsnotatet
-Det foreslås ingen materielle endringer i bestemmelsene om søksmål. Dagens § 23 ble foreslått
-som § 26, og foreslått omredigert.
-I hovedsak dreier dette seg om endringer i
-rekkefølgen av de enkelte ledd. Bestemmelsen i
-andre ledd om at tvist som nevnt i § 1 ikke kan
-bringes inn for lagmannsretten før Trygderettens
-avgjørelse foreligger, ble foreslått flyttet fra § 1. nr.
-3 til søksmålsparagrafen, i tilnærmet samme utforming.
-13.2.3 Høringsinstansene
-Ingen av høringsinstansene hadde merknader til
-dette punktet i høringsnotatet.
-13.2.4 Departementets vurderinger og forslag
-Etter departementets oppfatning er det ikke
-grunn til å foreta særlige endringer i bestemmelsene om søksmål. Det foreslås imidlertid at
-bestemmelsen i trygderettsloven § 1 nr. 3 overføres til § 26 som nytt andre ledd. Det foreslås
-også visse språklige og redaksjonelle endringer i
-samsvar med høringsnotatet.
-Departementet har ellers vurdert om søksmålsfristen fortsatt skal være seks måneder.
-Fristen kan fremstå som lang, sett i forhold til
-andre frister for søksmål og anke. For eksempel
-er søksmålsfristen for avgjørelser som treffes av
-fylkesnemnda for barnevern og sosiale saker to
-måneder, jf. barnevernloven § 7-24 andre ledd.
-Fristen for å anke avgjørelser av tingretten og av
-lagmannsretten er en måned, jf. tvisteloven § 29
-femte ledd. Det er også i denne sammenheng et
-poeng at langt de fleste saker som Trygderetten
-avgjør, tidligere er behandlet i to instanser.
-På den annen side er det ingen frist for overprøving av vedtak av et domstollignende organ som
-kontrollkommisjonen for psykisk helsevern. Det er
-heller ikke fastsatt noen søksmålsfrist for vedkommende utlending som vil bringe utlendingsnemndas vedtak inn for tingretten. Fristen for departementet er derimot fire måneder, jf. utlendingsloven
-
-[Side 79]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-§ 79. For pasientskadeerstatningsnemndas vedtak
-er søksmålsfristen seks måneder, jf. pasientskadeerstatningsloven § 18 andre ledd.
-Etter departementets oppfatning kan man ikke
-uten videre sammenligne søksmålsfristene for de
-ulike domstollignende organene. Som den korte
-gjennomgangen viser, er fristene til dels meget forskjellige, noe som kan tyde på at behovene er forskjellige. Når det gjelder den korte ankefristen for
-avgjørelser av tingretten/lagmannsretten i sivile
-saker, er det grunn til å merke seg at saksbehandlingen i domstolene gjennomgående er meget
-grundig, særlig fordi sakene i alminnelighet avgjøres etter muntlige forhandlinger, og at begge partene vanligvis er representert av advokat.
-På denne bakgrunn ønsker ikke departementet å foreslå endring av den gjeldende søksmålsfristen.
-Det vises til lovforslaget, trygderettsloven
-§ 26.
-
-13.3 Gjenopptak
-13.3.1 Gjeldende rett
-Gjennom Trygderettens praksis er det utviklet en
-ordning som åpner for gjenopptak av tidligere
-kjennelser av Trygderetten, det vil si at den tidligere saken kan behandles på nytt av ankemotparten/Trygderetten. Ordningen har vært praktisert omtrent fra det tidspunktet Trygderetten ble
-opprettet, det vil si fra 1967.
-Det er ingen lovgivning som regulerer gjenopptak, men ordningen er akseptert av de alminnelige domstoler. Gjenopptak må anses som et
-ekstraordinært rettsmiddel ved siden av det ordinære rettsmiddelet som er søksmål. I utgangspunktet kan gjenopptak bare foretas til gunst for
-vedkommende private part.
-Gjenopptak kan skje etter begjæring fra den
-som var ankende part i ankesaken. Det er også
-praksis for at Trygderetten gjenopptar en sak når
-Sivilombudsmannen har henstilt til Trygderetten
-om å foreta en ny vurdering av en tidligere kjennelse. Videre har det forekommet at Trygderetten
-har gjenopptatt en sak av eget tiltak.
-Gjenopptaksgrunnene – det vil si de forhold
-ved den aktuelle avgjørelsen som kan gi grunnlag
-for gjenopptak – kan i korte trekk oppsummeres
-slik, jf. kjennelsen i ankesak nr. 01/05935:
-– Nye faktiske opplysninger som er egnet til at
-privat parts opprinnelige krav må gis medhold
-– Alvorlige saksbehandlingsfeil
-– Uforsvarlig rettsanvendelse
-– Uforsvarlig skjønnsutøvelse.
-
-79
-
-Det er tilstrekkelig at en av disse grunnene foreligger. Dersom vilkårene for gjenopptak foreligger, medfører ikke det at det opprinnelige vedtaket automatisk blir omgjort, med den følge at
-den ankende part gis rett til den aktuelle ytelsen
-eller fritas for en plikt, for eksempel til å tilbake
-det som er utbetalt for mye i uførepensjon. Det må
-i tillegg foretas en selvstendig, konkret drøftelse
-av realiteten.
-Nye opplysninger er det grunnlaget som i klart
-størst utstrekning anføres som begrunnelse for
-gjenopptak. De nye opplysningene må gjelde det
-rådende faktum på tidspunktet for den tidligere
-avgjørelsen. Videre må det dreie seg om opplysninger som kan være egnet til å føre til at vedkommende gis helt eller delvis medhold i kravet.
-Den andre hovedkategorien gjenopptaksgrunnlag er feil ved den tidligere avgjørelsen i
-form av alvorlige saksbehandlingsfeil, uforsvarlig
-rettsanvendelse eller at det er anvendt skjønn
-utenfor rammene for et forsvarlig skjønn. I praksis
-er det forutsatt at ikke enhver feil kan gi grunnlag
-for gjenopptak, i det feilen må kunne ha hatt en
-viss betydning for resultatet. Helt ubetydelige feil
-sjaltes ut som grunnlag for gjenopptak. Det er heller ikke er tilstrekkelig at retten er uenig i den tidligere avgjørelsen. Det må dreie seg om konkrete,
-påvisbare feil.
-Sentrale elementene i saksbehandlingen mv.
-er følgende:
-– Det er ingen frist for når begjæring om gjenopptak må settes frem.
-– Det stilles heller ikke konkrete betingelser til
-innholdet av en begjæring om gjenopptak.
-– Begjæring om gjenopptak skal i utgangspunktet først behandles av ankemotparten i den
-opprinnelige saken (eller av det organ som nå
-har denne kompetansen).
-– Dersom vilkårene foreligger, har praksis vært
-at ankemotparten har hatt kompetanse til å
-gjenoppta og eventuelt treffe nytt vedtak til
-gunst for den ankende part.
-– Dersom ankemotparten avslår å gjenoppta,
-eller gjenopptar, men ikke gir den ankende
-part medhold i realiteten, kan hun/han bringe
-avgjørelsen inn for Trygderetten til overprøving. Trygderetten vurderer om vilkårene
-for gjenopptak er oppfylt og – eventuelt – om
-det er grunnlag for omgjøring av den tidligere
-avgjørelsen.
-Tidligere kjennelser av Trygderetten utgjør
-kjerneområdet for ordningen med gjenopptak.
-Det er sikker praksis for at ordningen også omfatter gjenopptak av vedtak av trygdeforvaltningen
-
-[Side 80]
-
-80
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-og av andre aktuelle pensjonsordninger, når ankefristen er utløpet og det ikke er gitt oppreisning
-for fristoversittelsen. Noen rettslig plikt for
-Trygderetten til å gjenoppta i disse tilfellene antas
-ikke å foreligge.
-Gjenopptak av Trygderettens kjennelser er
-det vesentlige. Gjenopptak av vedtak av trygdeforvaltningen/andre ankemotparter forekommer
-stadig sjeldnere.
-De alminnelige domstolers parallell til Trygderettens gjenopptaksinstitutt er gjenåpning. I motsetning til gjenopptak er gjenåpning lovregulert –
-og ganske detaljert – i kapittel 31 i tvisteloven.
-Begrepsbruken kan tyde på at det er likhetspunkter mellom de to ordningene. Visse likhetspunkter foreligger, men ulikhetene er betydelige. Ulikhetene kan – noe grovt – oppsummeres slik:
-– Virkeområdet. Gjenåpning: Gjenåpning gjelder
-som hovedregel bare «Rettskraftige avgjørelser som avslutter behandlingen av en sak», jf.
-tvisteloven § 31-2 første ledd. Gjenopptak: Kjerneområdet er realitetsavgjørelser av Trygderetten, men instituttet omfatter også vedtak av
-trygdeforvaltningen eller vedtak av andre pensjonsordninger, dersom ankefristen er oversittet og det ikke er gitt oppreisning for oversittelsen.
-– Hvem kan begjære gjenåpning/gjenopptak.
-Gjenåpning: Begge (alle) parter. Gjenopptak:
-Bare den private part, i alle fall som utgangspunkt.
-– Grunnene for gjenåpning/gjenopptak. Gjenåpning: Bare (formelle) feil ved rettergangen,
-for eksempel at en dommer var inhabil, og nye
-faktiske opplysninger som ikke kunne vært
-påberopt i samband med den opprinnelige
-saken, jf. tvisteloven §§ 31-3 og 31-4. Se også
-§ 31-5. Gjenopptak: Nye faktiske opplysninger,
-uforsvarlig rettsanvendelse, alvorlige feil i
-saksbehandlingen og uforsvarlig skjønn.
-– Begjæring om gjenåpning/gjenopptak – innhold. Gjenåpning: Detaljerte krav i tvisteloven
-§ 31-7. Gjenopptak: Ingen krav.
-– Begjæring om gjenåpning/gjenopptak – frist.
-Gjenåpning: Begjæringen må settes fram innen
-seks måneder etter at vedkommende part «ble
-kjent med det forhold som kravet bygger på,
-eller burde skaffet seg kunnskap om dette, se
-tvisteloven § 31-6 første ledd. I tillegg fastsetter
-§ 31-6 en absolutt frist på ti år. Gjenopptak:
-Ingen frist.
-– Gjenåpning/gjenopptak av eget tiltak. Gjenåpning: Vedkommende domstol (sideordnet
-lagmannsrett eller Høyesterett) kan ikke gjenåpne en sak av eget tiltak, bare etter begjæring
-
-–
-
-2014–2015
-
-fra en av partene, jf. tvisteloven § 31-1. Gjenopptak: Trygderetten kan av eget tiltak gjenoppta
-et vedtak av trygdeforvaltningen/annen pensjonsordning når ankefristen er oversittet, og
-det ikke er gitt oppreisning for fristoversittelsen.
-Saksbehandling. Gjenåpning: Hovedregelen er
-at sideordnet domstol behandler og avgjør krav
-om gjenåpning, jf. tvisteloven § 31-1. Gjenopptak: Utgangspunktet er at saken i første
-omgang behandles av ankemotparten i den
-opprinnelige saken. Ankemotparten (eventuelt
-underinstansen) kan – hvis vilkårene for gjenopptak foreligger – selv omgjøre den aktuelle
-avgjørelsen av Trygderetten. Ellers skal ankemotparten forberede saken for Trygderetten i
-samsvar med trygderettsloven § 13.
-
-Trygdeforvaltningens adgang til å behandle på
-nytt og omgjøre egne vedtak kan også sies å være
-en parallell til gjenopptaksinstituttet, særlig når
-det gjelder ugyldige vedtak.
-Spørsmålet om lovregulering av gjenopptak
-ble vurdert i forarbeidene til trygderettsloven.
-Det lovforberedende, departementsoppnevnte
-utvalget som utarbeidet forslag til ny lov om
-Trygderetten, utarbeidet også en særskilt lovbestemmelse om gjenopptak. Denne lovbestemmelsen, tatt inn som § 23 i utvalgets lovutkast, hadde
-sterke likhetstrekk med de tilsvarende bestemmelser om gjenopptagelse i kap. 27 i dagjeldende
-tvistemålslov av 13. august 1915 nr. 6. Forslaget
-ble ikke fulgt opp av departementet i lovproposisjonen og ikke av Stortinget. Konkrete lovforslag
-om gjenopptak er heller ikke senere fremmet for
-Stortinget.
-
-13.3.2 Høringsnotatet
-13.3.2.1
-
-Om behovet for lovfesting
-
-Departementets fremholdt det syn i høringsnotatet
-at ordningen med gjenopptak bør lovfestes.
-Etter departementets forslag vil ordningen
-fortsatt avvike en del fra gjenåpning etter tvisteloven kapittel 31, selv om ulikhetene vil bli mindre
-enn etter den ordning som nå praktiseres. Blant
-annet av den grunn foreslo departementet at
-begrepsbruken bør være forskjellig, og da synes
-det – fortsatt – naturlig å anvende «gjenopptak»
-om ordningen etter trygderettsloven.
-Det er særlig tre grunner til at departementet
-mente at ordningen med gjenopptak bør lovfestes:
-Klargjøring av rettstilstanden. Trygderetten
-behandler i dag regelmessig saker om gjenopp-
-
-[Side 81]
-
-2014–2015
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-tak. Selv om ordningen med gjenopptak er anerkjent av domstolene, synes det å herske en viss
-grad av usikkerhet i tilknytning til grunnlaget for
-ordningen og dens innhold. Denne usikkerheten
-synes særlig å gjøre seg gjeldende blant ankende
-parter, men også i domstolene og blant ankemotpartene og advokater/rettshjelpere råder det
-usikkerhet. Lovfesting vil sørge for at ordningen
-får klarere rammer, både når det gjelder innhold
-og saksbehandlingsregler.
-Det går frem av høringsnotatet at det blant
-annet bør trekkes opp klarere linjer mellom ordningen med gjenopptak av Trygderettens kjennelser og ny prøving av ankemotpartenes/trygdeforvaltningens egne vedtak. I praksis vil dette særlig gjelde Arbeids- og velferdsetatens vedtak.
-Departementet mente at det bare bør være
-Trygderetten som kan ta stilling til om en kjennelse skal gjenopptas eller ikke, også i de tilfellene
-hvor begjæringen om gjenopptak settes frem av
-den ankende part, se nedenfor. Ankemotparten
-bør således tillegges en rent innstillende funksjon
-i saker om gjenopptak. Det ble imidlertid presisert at en begjæring fra den ankende part om
-gjenopptak av en kjennelse ikke vil være til hinder
-for at ankemotparten, der denne er et ordinært
-forvaltningsorgan, vil kunne benytte seg av sin
-alminnelige adgang til å omgjøre forvaltningsvedtak etter forvaltningsrettslige regler, jf. særlig forvaltningsloven § 35.
-Informasjonshensynet. Ettersom gjenopptak i
-dag er ulovfestet, forutsettes det relativt inngående kjennskap til ordningen som sådan og kjennskap til de nærmere vilkårene for gjenopptak og
-gjeldende saksbehandlingsregler. Dette gjelder i
-særlig grad de ankende parter og også deres prosessfullmektiger. Dermed kan det bli noe tilfeldig
-hvem som påberoper seg gjenopptak.
-Vesentlige endringer. Departementet foreslo
-som nevnt til dels vesentlige endringer i den ulovfestede ordningen. En viktig endring er at ikke
-bare den ankende part, men også ankemotparten,
-skal kunne sette frem begjæring om gjenopptak.
-Andre viktige endringer er blant annet at ordningen med gjenopptak utelukkende skal gjelde kjennelser, at det bare er Trygderetten som i første
-instans kan ta stilling til en begjæring om gjenopptak, og at det fastsettes en frist for når det kan settes frem begjæring om gjenopptak.
-13.3.2.2
-
-Virkeområdet
-
-I høringsnotatet ble det trukket opp to alternativer
-med hensyn til virkeområdet for gjenopptak ved
-lovfesting av ordningen. Man kan enten inn-
-
-81
-
-skrenke dagens praksis, slik at bare Trygderettens kjennelser kan kreves gjenopptatt, eller
-man kan videreføre dagens praksis, slik at også
-visse vedtak som ikke tidligere har vært prøvd av
-Trygderetten omfattes. Departementet kom til at
-det ved lovfesting bare bør tas sikte på gjenopptak
-av Trygderettens kjennelser.
-Trygderettsloven regulerer prosessordningen i Trygderetten. Regler om ekstraordinær, ny
-prøving av vedtak som retten ikke tidligere har
-behandlet, mente departementet systematisk ikke
-hører hjemme her.
-Departementet pekte videre på at man ved å la
-gjenopptak omfatte mer enn Trygderettens kjennelser, vil bevege seg langt inn i den alminnelige
-forvaltningsretten og læren om omgjøring av
-ugyldige vedtak.
-13.3.2.3
-
-Gjenopptaksgrunnene
-
-Departementet foreslo at vilkårene for gjenopptak
-lovfestes, og at de vilkår som har utviklet seg i
-praksis i det alt vesentlige blir kodifisert. Det ble
-vist til at disse vilkårene er godt innarbeidet i
-praksis og synes å fungere rimelig bra. Reglene vil
-også kunne anvendes når det er ankemotparten
-som begjærer gjenopptak.
-13.3.2.4
-
-Hvem som kan sette frem begjæring om
-gjenopptak
-
-Når det gjelder spørsmålet om hvem som skal
-kunne sette frem begjæring om gjenopptak, foreslo departementet at ikke bare privat part i den
-opprinnelige ankesaken gis adgang til dette, men
-også at motparten får den samme adgangen. Det
-ble trukket frem at dette har sammenheng med
-blant annet økt likestilling mellom partene, som
-generelt tilstrebes i forslaget til revidert trygderettslov. Det gir en rasjonell mulighet for å få
-endret en feil avgjørelse i favør av (også) ankemotparten og bidrar dermed ytterligere til at
-Trygderetten treffer rettsriktige avgjørelser.
-Det ble foreslått at det tas inn en bestemmelse
-i loven om at begjæring om gjenopptak kan settes
-frem av begge parter.
-13.3.2.5
-
-Begjæringens innhold
-
-Departementet foreslo at det innføres krav til innholdet av en begjæring om gjenopptak etter de
-samme regler som gjeldet for innholdet av en
-ankeerklæring, jf. trygderettsloven § 11, men likevel slik at det kreves presisert om begjæringen
-retter seg mot hele eller deler av kjennelsen, se til
-
-[Side 82]
-
-82
-
-Prop. 139 L
-Endringer i lov om anke til Trygderetten (lovrevisjon)
-
-sammenligning tvisteloven § 31-7 andre ledd bokstav d). Dersom kravene til innholdet ikke er oppfylt, skal begjæringen om gjenopptak avvises ved
-kjennelse. Det bør imidlertid gjelde en viss plikt til
-å drive veiledning og avklare uklare punkter i en
-begjæring om gjenopptak.
-13.3.2.6
-
-Tidsfrist
-
-Departementet vurderte om det bør innføres en
-tidsfrist for adgangen til å kreve en kjennelse gjenopptatt, og kom til at de beste grunner taler for at
-en slik frist blir innført. Det ble vist til at det gjelder frister for gjenåpning etter tvistelovens regler.
-En bestemt tidsfrist for begjæring om gjenopptak vil etter departementets oppfatning bidra til at
-det skapes mer ryddighet rundt ordningen. Fristen bør ikke settes kortere enn det som gjelder for
-gjenåpning, og seks måneder synes å være en
-rimelig frist for alle som var parter i den opprinnelige saken.
-Departementet mente imidlertid at det ikke
-synes å være behov for noen absolutt frist, for
-eksempel en frist på ti år, slik tvisteloven § 31-6
-andre ledd fastsetter.
-13.3.2.7
-
-Saksbehandling og avgjørelse
-
-Departementet foreslo at den ankende part skal
-sette frem begjæring om gjenopptak for ankemotparten, jf. § 28. For ankemotparter som er ordinære forvaltningsorganer vil dette – som tidligere
-nevnt – gi en mulighet for å vurdere om den
-ankende part skal gis medhold i sitt underliggende
-krav, knyttet til forvaltningsrettslige omgjøringsregler. Når det gjelder ankemotparter som ikke er
-ordinære forvaltningsorganer, vil også disse kunne
-omgjøre sine tidligere avgjørelser, men da etter
-andre regler enn de forvaltningsrettslige.
-Når ankemotparten selv begjærer gjenopptak,
-faller det naturlig at begjæringen settes frem for
-Trygderetten.
-Gjenopptas saken, helt eller delvis, vil det neste
-leddet i saksbehandlingen være å realitetsbehandle
-saken, det vil si å ta stilling til om Trygderettens
-kjennelse skal endres og på hvilken måte.
-
-2014–2015
-
-Blant andre er Norsk Forbund for Utviklingshemmede, FFO, Landsorganisasjonen i Norge (LO)
-og UNIO negative til at også ankemotparten skal
-kunne begjære gjenopptak. Det er særlige hensynet til den private part, og dennes behov for å
-kunne innrette seg etter en kjennelse som fremheves i denne sammenheng. LO viser også til at
-begrepet gjenopptak bør endres til begrepet gjenåpning, for å gjøre dette likt som tvistelovens og
-straffeprosesslovens bestemmelser.
-I boken «Kompetanse og plikt til gjenopptak av
-trygdesaker til gunst for den private part» av professor Bjørn Henning Østenstad, (Fagbokforlaget,
-Bergen 2015), er det vist til at departementet i
-høringsnotatet foreslår en lovfesting av de vilkår
-som i dag blir praktisert, og at den uklarhet om
-forståelsen av vilkårene for gjenopptak som blir
-dokumentert i boken, likevel ikke blir sett, langt
-mindre omtalt. Forfatteren viser til at boken derfor også er et innspill til høringsnotatet om revidert trygderettslov.
-Østenstad mener Trygderettens praksis mht
-vilkår for gjenopptak ikke har tilstrekkelig hjemmel, ikke minst gjelder det når en opererer med
-en uforsvarlighetsterskel ved påståtte feil i rettsanvendelsen. Han mener dette vil kunne binde
-domstolene til ikke å gå dypere i prøvingen, slik
-de alminnelige normene for domstolsprøving av
-forvaltningsvedtak ellers skulle tilsi. Han er videre
-kritisk til forslaget om at gjenopptakelsesinstituttet skal være forbeholdt Trygderettens egne kjennelser, og ikke også avgjørelser i trygdeforvaltningen. Han viser til at en slik ordning innebærer at
-søksmål om legaliteten av en avgjørelse i forvaltningen om å nekte gjenopptak må reises for tingretten, og at en slik av avgrensing vil ha som resultat at veien fram til rettferdighet blir lengre og
-vanskeligere for den private part.
-Da departementet først over et halvt år etter
-at høringsfristen for forslaget til en revidert
-ankelov ble oppmerksom på Østenstad bok, har
-departementet ikke hatt anledning til å vurdere
-forfatterens synspunkter i sin fulle bredde.
-Enkelte problemstillinger kommenteres likevel i
-det følgende.
-
-13.3.3 Høringsuttalelsene
-
-13.3.4 Departementets vurderinger og forslag
-
-Flertallet av høringsinstansene har uttalt seg positive til forslaget om å lovfeste gjenopptakelsesinstituttet, blant andre Arbeids- og velferdsdirektoratet, Funksjonshemmedes fellesorganisasjon (FFO), KLP, Legeforeningen og Pensjonskasseforeningen.
-
-13.3.4.1
-
-Om behovet for lovfesting
-
-Departementet opprettholder det syn at ordningen med gjenopptak bør lovfestes, og at lovfestingen skjer i trygderettsloven kapittel 5, som nye
-§§ 27 og 28. Dette medfører at kapittel 5 vil
-omfatte både det ordinære rettsmiddelet søksmål
+- Saksbehandling. Gjenåpning: Hovedregelen er at sideordnet domstol behandler og avgjør krav om gjenåpning, jf. tvisteloven § 31-1. Gjenopptak: Utgangspunktet er at saken i første omgang behandles av ankemotparten i den opprinnelige saken. Ankemotparten (eventuelt underinstansen) kan – hvis vilkårene for gjenopptak foreligger – selv omgjøre den aktuelle avgjørelsen av Trygderetten. Ellers skal ankemotparten forberede saken for Trygderetten i samsvar med trygderettsloven § 13.
+
+BrøTrygdeforvaltningens adgang til å behandle på nytt og omgjøre egne vedtak kan også sies å være en parallell til gjenopptaksinstituttet, særlig når det gjelder ugyldige vedtak.
+
+Spørsmålet om lovregulering av gjenopptak ble vurdert i forarbeidene til trygderettsloven. Det lovforberedende, departementsoppnevnte utvalget som utarbeidet forslag til ny lov om Trygderetten, utarbeidet også en særskilt lovbestemmelse om gjenopptak. Denne lovbestemmelsen, tatt inn som § 23 i utvalgets lovutkast, hadde sterke likhetstrekk med de tilsvarende bestemmelser om gjenopptagelse i kap. 27 i dagjeldende tvistemålslov av 13. august 1915 nr. 6. Forslaget ble ikke fulgt opp av departementet i lovproposisjonen og ikke av Stortinget. Konkrete lovforslag om gjenopptak er heller ikke senere fremmet for Stortinget.
+
+BrøBrø**Høringsnotatet**
+
+BrøBrø*Om behovet for lovfesting*
+
+BrøDepartementets fremholdt det syn i høringsnotatet at ordningen med gjenopptak bør lovfestes.
+
+Etter departementets forslag vil ordningen fortsatt avvike en del fra gjenåpning etter tvisteloven kapittel 31, selv om ulikhetene vil bli mindre enn etter den ordning som nå praktiseres. Blant annet av den grunn foreslo departementet at begrepsbruken bør være forskjellig, og da synes det – fortsatt – naturlig å anvende «gjenopptak» om ordningen etter trygderettsloven.
+
+Det er særlig tre grunner til at departementet mente at ordningen med gjenopptak bør lovfestes:
+
+*Klargjøring av rettstilstanden.* Trygderetten behandler i dag regelmessig saker om gjenopptak. Selv om ordningen med gjenopptak er anerkjent av domstolene, synes det å herske en viss grad av usikkerhet i tilknytning til grunnlaget for ordningen og dens innhold. Denne usikkerheten synes særlig å gjøre seg gjeldende blant ankende parter, men også i domstolene og blant ankemotpartene og advokater/rettshjelpere råder det usikkerhet. Lovfesting vil sørge for at ordningen får klarere rammer, både når det gjelder innhold og saksbehandlingsregler.
+
+Det går frem av høringsnotatet at det blant annet bør trekkes opp klarere linjer mellom ordningen med gjenopptak av Trygderettens kjennelser og ny prøving av ankemotpartenes/trygdeforvaltningens egne vedtak. I praksis vil dette særlig gjelde Arbeids- og velferdsetatens vedtak. Departementet mente at det bare bør være Trygderetten som kan ta stilling til om en kjennelse skal gjenopptas eller ikke, også i de tilfellene hvor begjæringen om gjenopptak settes frem av den ankende part, se nedenfor. Ankemotparten bør således tillegges en rent innstillende funksjon i saker om gjenopptak. Det ble imidlertid presisert at en begjæring fra den ankende part om gjenopptak av en kjennelse ikke vil være til hinder for at ankemotparten, der denne er et ordinært forvaltningsorgan, vil kunne benytte seg av sin alminnelige adgang til å omgjøre forvaltningsvedtak etter forvaltningsrettslige regler, jf. særlig forvaltningsloven § 35.
+
+*Informasjonshensynet*. Ettersom gjenopptak i dag er ulovfestet, forutsettes det relativt inngående kjennskap til ordningen som sådan og kjennskap til de nærmere vilkårene for gjenopptak og gjeldende saksbehandlingsregler. Dette gjelder i særlig grad de ankende parter og også deres prosessfullmektiger. Dermed kan det bli noe tilfeldig hvem som påberoper seg gjenopptak.
+
+*Vesentlige endringer.* Departementet foreslo som nevnt til dels vesentlige endringer i den ulovfestede ordningen. En viktig endring er at ikke bare den ankende part, men også ankemotparten, skal kunne sette frem begjæring om gjenopptak. Andre viktige endringer er blant annet at ordningen med gjenopptak utelukkende skal gjelde kjennelser, at det bare er Trygderetten som i første instans kan ta stilling til en begjæring om gjenopptak, og at det fastsettes en frist for når det kan settes frem begjæring om gjenopptak.
+
+BrøBrø*Virkeområdet*
+
+BrøI høringsnotatet ble det trukket opp to alternativer med hensyn til virkeområdet for gjenopptak ved lovfesting av ordningen. Man kan enten innskrenke dagens praksis, slik at bare Trygderettens kjennelser kan kreves gjenopptatt, eller man kan videreføre dagens praksis, slik at også visse vedtak som ikke tidligere har vært prøvd av Trygderetten omfattes. Departementet kom til at det ved lovfesting bare bør tas sikte på gjenopptak av Trygderettens kjennelser.
+
+Trygderettsloven regulerer prosessordningen i Trygderetten. Regler om ekstraordinær, ny prøving av vedtak som retten ikke tidligere har behandlet, mente departementet systematisk ikke hører hjemme her.
+
+Departementet pekte videre på at man ved å la gjenopptak omfatte mer enn Trygderettens kjennelser, vil bevege seg langt inn i den alminnelige forvaltningsretten og læren om omgjøring av ugyldige vedtak.
+
+BrøBrø*Gjenopptaksgrunnene*
+
+BrøDepartementet foreslo at vilkårene for gjenopptak lovfestes, og at de vilkår som har utviklet seg i praksis i det alt vesentlige blir kodifisert. Det ble vist til at disse vilkårene er godt innarbeidet i praksis og synes å fungere rimelig bra. Reglene vil også kunne anvendes når det er ankemotparten som begjærer gjenopptak.
+
+BrøBrø*Hvem som kan sette frem begjæring om gjenopptak*
+
+BrøNår det gjelder spørsmålet om hvem som skal kunne sette frem begjæring om gjenopptak, foreslo departementet at ikke bare privat part i den opprinnelige ankesaken gis adgang til dette, men også at motparten får den samme adgangen. Det ble trukket frem at dette har sammenheng med blant annet økt likestilling mellom partene, som generelt tilstrebes i forslaget til revidert trygderettslov. Det gir en rasjonell mulighet for å få endret en feil avgjørelse i favør av (også) ankemotparten og bidrar dermed ytterligere til at Trygderetten treffer rettsriktige avgjørelser.
+
+Det ble foreslått at det tas inn en bestemmelse i loven om at begjæring om gjenopptak kan settes frem av begge parter.
+
+BrøBrø*Begjæringens innhold*
+
+BrøDepartementet foreslo at det innføres krav til innholdet av en begjæring om gjenopptak etter de samme regler som gjeldet for innholdet av en ankeerklæring, jf. trygderettsloven § 11, men likevel slik at det kreves presisert om begjæringen retter seg mot hele eller deler av kjennelsen, se til sammenligning tvisteloven § 31-7 andre ledd bokstav d). Dersom kravene til innholdet ikke er oppfylt, skal begjæringen om gjenopptak avvises ved kjennelse. Det bør imidlertid gjelde en viss plikt til å drive veiledning og avklare uklare punkter i en begjæring om gjenopptak.
+
+BrøBrø*Tidsfrist*
+
+BrøDepartementet vurderte om det bør innføres en tidsfrist for adgangen til å kreve en kjennelse gjenopptatt, og kom til at de beste grunner taler for at en slik frist blir innført. Det ble vist til at det gjelder frister for gjenåpning etter tvistelovens regler.
+
+En bestemt tidsfrist for begjæring om gjenopptak vil etter departementets oppfatning bidra til at det skapes mer ryddighet rundt ordningen. Fristen bør ikke settes kortere enn det som gjelder for gjenåpning, og seks måneder synes å være en rimelig frist for alle som var parter i den opprinnelige saken.
+
+Departementet mente imidlertid at det ikke synes å være behov for noen absolutt frist, for eksempel en frist på ti år, slik tvisteloven § 31-6 andre ledd fastsetter.
+
+BrøBrø*Saksbehandling og avgjørelse*
+
+BrøDepartementet foreslo at den ankende part skal sette frem begjæring om gjenopptak for ankemotparten, jf. § 28. For ankemotparter som er ordinære forvaltningsorganer vil dette – som tidligere nevnt – gi en mulighet for å vurdere om den ankende part skal gis medhold i sitt underliggende krav, knyttet til forvaltningsrettslige omgjøringsregler. Når det gjelder ankemotparter som ikke er ordinære forvaltningsorganer, vil også disse kunne omgjøre sine tidligere avgjørelser, men da etter andre regler enn de forvaltningsrettslige.
+
+Når ankemotparten selv begjærer gjenopptak, faller det naturlig at begjæringen settes frem for Trygderetten.
+
+Gjenopptas saken, helt eller delvis, vil det neste leddet i saksbehandlingen være å realitetsbehandle saken, det vil si å ta stilling til om Trygderettens kjennelse skal endres og på hvilken måte.
+
+BrøBrø**Høringsuttalelsene**
+
+BrøFlertallet av høringsinstansene har uttalt seg positive til forslaget om å lovfeste gjenopptakelsesinstituttet, blant andre *Arbeids- og velferdsdirektoratet*, *Funksjonshemmedes fellesorganisasjon (FFO), KLP, Legeforeningen* og *Pensjonskasseforeningen.*
+
+Blant andre er *Norsk Forbund for Utviklingshemmede*, *FFO, Landsorganisasjonen i Norge (LO)* og *UNIO* negative til at også ankemotparten skal kunne begjære gjenopptak. Det er særlige hensynet til den private part, og dennes behov for å kunne innrette seg etter en kjennelse som fremheves i denne sammenheng. *LO* viser også til at begrepet gjenopptak bør endres til begrepet gjenåpning, for å gjøre dette likt som tvistelovens og straffeprosesslovens bestemmelser.
+
+I boken «*Kompetanse og plikt til gjenopptak av trygdesaker til gunst for den private part*» av professor Bjørn Henning Østenstad, (Fagbokforlaget, Bergen 2015), er det vist til at departementet i høringsnotatet foreslår en lovfesting av de vilkår som i dag blir praktisert, og at den uklarhet om forståelsen av vilkårene for gjenopptak som blir dokumentert i boken, likevel ikke blir sett, langt mindre omtalt. Forfatteren viser til at boken derfor også er et innspill til høringsnotatet om revidert trygderettslov.
+
+Østenstad mener Trygderettens praksis mht vilkår for gjenopptak ikke har tilstrekkelig hjemmel, ikke minst gjelder det når en opererer med en uforsvarlighetsterskel ved påståtte feil i rettsanvendelsen. Han mener dette vil kunne binde domstolene til ikke å gå dypere i prøvingen, slik de alminnelige normene for domstolsprøving av forvaltningsvedtak ellers skulle tilsi. Han er videre kritisk til forslaget om at gjenopptakelsesinstituttet skal være forbeholdt Trygderettens egne kjennelser, og ikke også avgjørelser i trygdeforvaltningen. Han viser til at en slik ordning innebærer at søksmål om legaliteten av en avgjørelse i forvaltningen om å nekte gjenopptak må reises for tingretten, og at en slik av avgrensing vil ha som resultat at veien fram til rettferdighet blir lengre og vanskeligere for den private part.
+
+Da departementet først over et halvt år etter at høringsfristen for forslaget til en revidert ankelov ble oppmerksom på Østenstad bok, har departementet ikke hatt anledning til å vurdere forfatterens synspunkter i sin fulle bredde. Enkelte problemstillinger kommenteres likevel i det følgende.
+
+BrøBrø**Departementets vurderinger og forslag**
+
+BrøBrø *Om behovet for lovfesting*
+
+BrøDepartementet opprettholder det syn at ordningen med gjenopptak bør lovfestes, og at lovfestingen skjer i trygderettsloven kapittel 5, som nye §§ 27 og 28. Dette medfører at kapittel 5 vil omfatte både det ordinære rettsmiddelet søksmål og det ekstraordinære rettsmiddelet gjenopptak. Av den grunn foreslås kapitteloverskriften endret fra «Søksmål» til «Søksmål og gjenopptak».
+
+Lovfestingen bør kunne skje med utgangspunkt i de retningslinjene som har utviklet seg gjennom Trygderettens praksis, men det synes likevel å være behov for ganske vesentlige endringer.
+
+Etter departementets forslag vil ordningen fortsatt avvike en del fra gjenåpning etter tvisteloven kapittel 31, selv om ulikhetene vil bli mindre enn etter den ordning som nå praktiseres. Blant annet av den grunn foreslår departementet at begrepsbruken bør være forskjellig, og da synes det – fortsatt – naturlig å anvende «gjenopptak» om ordningen etter trygderettsloven.
+
+Når det gjelder begrunnelsen for å lovfeste ordningen med gjenopptak vises til redegjørelsen fra høringsnotatet i punkt 13.3.2.1 foran.
+
+BrøBrø*Virkeområdet*
+
+BrøVed lovfesting av ordningen med gjenopptak står valget mellom to alternativer når det gjelder virkeområdet. Man kan enten innskrenke dagens praksis, slik at bare Trygderettens kjennelser kan kreves gjenopptatt med hjemmel i den nye lovbestemmelsen i lov om anke til Trygderetten, eller man kan videreføre dagens praksis, slik at også visse vedtak som ikke tidligere har vært prøvd av Trygderetten omfattes.
+
+Trygderettsloven regulerer prosessordningen i Trygderetten. I utgangspunktet hører da regler om ekstraordinær, ny prøving av vedtak som retten ikke tidligere har behandlet, systematisk ikke hjemme her.
+
+*Østenstad* viser til at forslaget i høringsnotatet innebærer at søksmål om legaliteten av en avgjørelse i trygdeforvaltningen om å nekte gjenopptak må reises for tingretten og ikke via Trygderetten. I slike tilfeller må domstolene naturlig nok basere seg på alminnelige normer for legalitetsprøving av forvaltningsvedtak, det vil si at det da ikke er rom for en særlig uforsvarlighetsstandard ved svikt i rettsanvendelsen. Forfatteren mener videre at et slikt tosporet system i seg selv gir en særlig styrke til argumentene mot å forstå uforsvarlighetsterskelen som noe annet enn en henvisning til de alminnelige prinsippene for legalitetsprøving. Han hevder dessuten at forholdet mellom Trygderettens og trygdeforvaltningens praksis trenger en nærmere gjennomgang ved lovrevisjonen. Han viser til at tendensen synes å være at også trygdeforvaltningen tar opp og baserer seg på Trygderettens vilkår for gjenopptak.
+
+Departementet foreslår at det kun er Trygderetten som skal kunne kan ta stilling til om en *kjennelse* skal gjenopptas eller ikke. Ankemotparten skal dermed ikke lenger gjøre vedtak om å omgjøre den aktuelle avgjørelsen i Trygderetten på basis av gjeldende kriterier for gjenopptak, herunder uforsvarlighetsstandarden med hensyn til rettsanvendelsen, se nærmere punkt 13.3.4.3 nedenfor. Ankemotparten skal heller ikke kunne nekte gjenopptak, med ankeadgang til Trygderetten. Ankemotparten tillegges således en rent innstillende funksjon i saker om gjenopptak. Det er imidlertid forutsatt at ankemotparten også i den lovfestede ordningen vil kunne benytte seg av sin alminnelige adgang til å omgjøre sitt vedtak etter forvaltningsrettslige regler, det vil si etter en lavere terskel for omgjøring, jf. lovforslaget § 28 første ledd. Dette støttes av *Arbeids- og velferdsdirektoratet*, som viser til at dette vil medføre en forenkling sammenlignet med dagens praksis, der ankemotparten først tar stilling til begjæring om gjenopptak etter de ulovfestede reglene, og så vurderer om det er grunnlag for å gjøre om det tidligere vedtaket.
+
+Forslagene om at ordningen med at den lovfestede gjenopptaksordningen forbeholdes Trygderettens egne avgjørelser, og at det kun er Trygderetten som skal treffe en avgjørelse etter de opptrukne kriterier, vil samlet sett skape klarere linjer med hensyn til vilkårene for henholdsvis gjenopptak av Trygderettens kjennelser og ny prøving av ankemotpartens/trygdeforvaltningens egne vedtak.
+
+Arbeids- og velferdsetatens gjenopptakspraksis for *egne vedtak* etter de samme kriterier som gjelder for Trygderettens egne avgjørelser og med ankerett til Trygderetten, avskaffes ikke med lovforslaget. Dette er et eget rettsinstitutt som står på egne ben, regulert i rundskriv.
+
+Det vises til lovforslaget, trygderettsloven § 27 første ledd.
+
+BrøBrø*Gjenopptaksgrunnene*
+
+BrøI høringsnotatet ble det foreslått at vilkårene for gjenopptak lovfestes, og at de vilkår som har utviklet seg i praksis i det alt vesentlige blir kodifisert. Det ble vist til at disse vilkårene er godt innarbeidet i praksis og synes å fungere rimelig bra. Reglene vil også kunne anvendes når det er ankemotparten som begjærer gjenopptak.
+
+Som det går fram av punkt 13.3.3 foran mener *Østenstad* at Trygderettens praksis med hensyn til vilkår for gjenopptak ikke har tilstrekkelig hjemmel, ikke minst gjelder det når en opererer med en uforsvarlighetsterskel ved påståtte feil i rettsanvendelsen. Han mener dette vil kunne binde domstolene til ikke å gå dypere i prøvingen, slik de alminnelige normene for domstolsprøving av forvaltningsvedtak ellers skulle tilsi.
+
+Departementet skal bemerke at utgangspunktet for gjenopptaksinstituttet er at saken allerede har vært gjenstand for klage og anke til Trygderetten, og med mulighet for søksmål for lagmannsretten der retten har full prøvingsadgang over Trygderettens avgjørelse. Vilkårene for å kunne kreve en sak gjenopptatt dreier seg om vilkår for å få det endelige vedtaket prøvd ytterligere en gang, etter at de ordinære lovfestede overprøvingsmuligheter er uttømt.
+
+Når det gjelder det nærmere innhold i kriteriene for gjenopptak viser departementet til Trygderettens uttalelser om dette, blant annet i TRR-2006-1254:
+
+BrøBrø«Retten vil innledningsvis bemerke at verken trygderettsloven eller folketrygdloven har bestemmelser om gjenopptakelse av tidligere avgjorte saker. Det har i Trygderettens praksis utviklet seg visse vilkår for ny realitetsbehandling. Etter praksis må det foreligge bestemte holdepunkter for å anta at utfallet av ny realitetsbehandling kan bli annerledes enn ved den tidligere behandlingen. En sak gjenopptas dersom det er kommet til opplysninger om det tidligere faktiske forholdet som er egnet til å føre til at kravet helt eller delvis må gis medhold. Det samme gjelder dersom det blir påvist at det tidligere var begått alvorlige saksbehandlingsfeil, at den tidligere rettsanvendelsen var uforsvarlig eller at skjønnsutøvelsen falt utenfor rammene for et forsvarlig skjønn.
+
+I og med at spørsmålet i saken dreier seg om gjenopptakelse innebærer dette at kriteriene er strengere enn at retten bare er uenig i et tidligere vedtak, eller i hvordan saken har vært håndtert, jf. de ovennevnte vilkårene for gjenopptakelse. Saksbehandlingsfeilen må være «alvorlig», eller rettsanvendelsen «uforsvarlig».»
+
+BrøDet foreligger ingen dom i Høyesterett som eksplisitt tar stilling til Trygderettens praksis med hensyn til de ulovfestede vilkår for gjenopptak. Til illustrasjon av kriteriet «uforsvarlig rettsanvendelse» viser departementet til dommen i Gulating lagmannsrett (LG-2010-167678):
+
+BrøBrø«Lagmannsretten er i likhet med Trygderetten kommet til at rettsanvendelsen ikke var uforsvarlig. Lagmannsretten er ikke enig med saksøker i at enhver uriktig rettsanvendelse kan defineres som uforsvarlig i forhold til hva som skal kreves for gjenopptakelse. For at det skal foreligge en uforsvarlig rettsanvendelse må det kreves noe mer. Lagmannsretten er videre enig med saksøker i at dersom rettanvendelsen bygger på et rettskildebilde og en metodebruk som ikke avviker fra det allment aksepterte må rettsanvendelsen anses forsvarlig.»
+
+BrøUt fra den grundige saksbehandlingen som skjer i Trygderetten, foreslår departementet at dagens praksis med en noe høyere terskel når det gjelder å få gjenopptatt en sak (uforsvarlig rettsanvendelse) videreføres i den lovfestede ordningen. En ordning hvoretter Trygderetten skulle være forpliktet til å underkaste en sak full ny behandling etter kun en påstand om at retten har tatt feil i sin rettsanvendelse, ville innebære at reglene om klage- og ankefrister ble uten praktisk innhold.
+
+Departementet vil også vise til at vilkårene for å få en sak som er endelig avgjort av de alminnelige domstoler gjenåpnet etter tvisteloven §§ 31-3 og 31-4 (som svarer til Trygderettens gjenopptak), er meget snevre. Et minstevilkår er at det enten må være alvorlige feil ved rettergangen eller det er fremkommet opplysninger om faktiske forhold som var ukjent da saken ble avgjort, og som tilsier at avgjørelsen høyst sannsynlig ville blitt en annen. En påstand om at dommen bygger på feil rettsanvendelse, gir ikke grunnlag for gjenåpning, og skal ikke engang vurderes av den domstol som skal ta stilling til gjenåpningsspørsmålet.
+
+Som Østenstad redegjør for i sin bok, foreligger en noe fragmentert domstolspraksis med hensyn til forståelsen av vilkåret for gjenopptak med påstand om svikt i rettsanvendelsen. Han hevder at de tolkningsproblemene som han dokumenterer med hensyn til forståelsen av uforsvarlighetsstandarden, videreføres ved en lovforankring, i og med at departementet har som siktemål å «videreføre gjeldende rett». Departementet vurderer det slik at en lovforankring av kriteriet «uforsvarlig rettsanvendelse» vil medføre en større bevissthet i domstolene på dette, og at de tolkningsproblemer omkring dette som måtte foreligge, da vil få en nærmere avklaring.
+
+Det vises til lovforslaget, trygderettsloven § 27 andre ledd.
+
+BrøBrø*Hvem kan sette frem begjæring om gjenopptak*
+
+BrøFlere av høringsinstansene er svært kritiske til forslaget om at også ankemotparten skal kunne begjære gjenopptak. Det vises blant annet til behovet til den ankende part til å kunne innrette seg i tråd med Trygderettens kjennelse.
+
+Departementet foreslår likevel at høringsforslaget følges opp, slik at ikke bare privat part i den opprinnelige ankesaken gis adgang til dette, men også at motparten får den samme adgangen. Det gir en rasjonell mulighet for å få endret en feil avgjørelse i favør av (også) ankemotparten og bidrar dermed ytterligere til at Trygderetten treffer rettsriktige avgjørelser.
+
+Departementet vil i tillegg bemerke at i saker hvor Trygderetten har omgjort vedtaket, men hvor det i ettertid viser seg at Trygderetten har lagt feil faktum til grunn, kan ikke ankemotparten i dag omgjøre med hjemmel i forvaltningsloven § 35 eller folketrygdloven § 21-6 om nytt vedtak på grunn av endrede forhold. Det kan bety at brukere kan motta ytelser på feilaktig grunnlag i mange år. Det er åpenbart et behov for å kunne rette opp i disse feilene uten å belaste domstolene og pådra bruker store utgifter og den belastningen en slik prosess er for bruker. Hensynet til bruker, domstolene og ankemotparten taler derfor for en adgang for sistnevnte til å begjære gjenopptak av Trygderettens kjennelse. Forslaget om at begjæring om gjenopptak kan settes frem av begge parter, er tatt inn som ny § 27 første ledd.
+
+Det vises til lovforslaget, trygderettsloven § 27 første ledd.
+
+BrøBrø*Begjæringens innhold*
+
+BrøEtter den ordning som praktiseres nå, stilles det ingen spesifikke krav til innholdet av en begjæring om gjenopptak. Departementet finner det naturlig at det innføres slike krav, og foreslår at de tas inn i ny § 27 fjerde ledd.
+
+Departementet foreslår at det innføres krav til innhold etter de samme regler som gjelder for innholdet av en ankeerklæring, men likevel slik at det kreves presisert om begjæringen retter seg mot hele eller deler av kjennelsen, se til sammenligning tvisteloven § 31-7 andre ledd bokstav d. Dersom kravene til innhold ikke er oppfylt, skal begjæringen om gjenopptak avvises ved kjennelse, men retten har en viss plikt til å drive veiledning og avklare uklare punkter i et krav om gjenopptak.
+
+Det vises til lovforslaget, trygderettsloven § 27 fjerde ledd.
+
+BrøBrø*Tidsfrist*
+
+BrøEn bestemt tidsfrist for begjæring om gjenopptak vil etter departementets oppfatning bidra til at det skapes mer ryddighet rundt ordningen. Fristen bør ikke settes kortere en det som gjelder for gjenåpning, og seks måneder synes å være en rimelig frist for alle som var parter i den opprinnelige saken. På bakgrunn av dette foreslås at fristen for å begjære gjenopptak settes til seks måneder etter at parten ble kjent med det forhold som begjæringen bygger på. Uten at det har vært avgjørende for departementet, kan det pekes på at også søksmålsfristen etter trygderettsloven § 23 er seks måneder.
+
+Det synes imidlertid ikke, som også antydet i høringsnotatet, å være behov for noen absolutt frist, for eksempel en frist på ti år, slik tvisteloven § 31-6 andre ledd fastsetter. Hovedbegrunnelsen for dette er at en uriktig kjennelse av Trygderetten ikke bør bli stående, selv om kjennelsen er avsagt for lang tid tilbake.
+
+Det vises til lovforslaget, trygderettsloven § 27 tredje ledd.
+
+BrøBrø*Saksbehandling og avgjørelse*
+
+BrøDepartementets forslag til saksbehandlingsregler mv. er tatt inn i trygderettsloven som ny § 28. Forslaget er for det første basert på at saksbehandlingsreglene i stor grad skal være de samme, uavhengig av om det den ankende part eller ankemotparten som setter frem begjæring om gjenopptak. For det andre bygger forslaget på at lovens øvrige regler i utgangspunktet skal gjelde tilsvarende, så langt de passer. Et tredje hovedmoment er at ordningen med gjenopptak nødvendiggjør visse spesialregler. Forslaget er i samsvar med høringsnotatet.
+
+Departementet foreslår at den ankende part skal sette frem begjæring om gjenopptak for ankemotparten, jf. § 28 første ledd. For ankemotparter som er ordinære forvaltningsorganer vil dette – som tidligere nevnt – gi en mulighet for å vurdere om den ankende skal gis medhold i sitt underliggende krav, knyttet til forvaltningsrettslige omgjøringsregler. Når det gjelder ankemotparter som ikke er ordinære forvaltningsorganer, vil også disse kunne omgjøre sine tidligere avgjørelser, men da etter andre regler enn de forvaltningsrettslige. Normalt vil det være spørsmål om hvilke regler vedkommende ankemotpart har utviklet i praksis om dette.
+
+Dersom ankemotpartens prøving etter forvaltningsrettslige regler/institusjonell praksis gir den ankende part medhold fullt ut, vil grunnlaget for begjæringen om gjenopptak falle bort. I motsatt fall går departementets forslag ut på at ankemotparten skal fremme sak for Trygderetten, jf. § 28 første ledd. Saksforberedelsen skal da skje etter de samme regler som gjelder ved forberedelse av ankesaker, så langt de passer, jf. lovens § 13. Dette følger av bestemmelsen i § 28 femte ledd.
+
+Når ankemotparten selv begjærer gjenopptak, faller det naturlig at begjæringen settes frem for Trygderetten. Forslag om dette er tatt inn i § 28 andre ledd.
+
+Det er viktig at hensynet til kontradiksjon ivaretas. Når begjæringen fremmes av den ankende part, vil dette hensynet i stor grad være ivaretatt ved at ankemotpartens saksforberedelse skal baseres på reglene i § 13. Er det ankemotparten som begjærer gjenopptak, foreslår departementet at det tas inn en uttrykkelig bestemmelse om at Trygderetten ikke kan avgjøre spørsmålet om gjenopptak før den ankende part har fått anledning til å uttale seg, jf. § 28 andre ledd.
+
+Trygderetten vil kunne avvise en begjæring om gjenopptak dersom en prosessforutsetning ikke er oppfylt, for eksempel dersom fristen for gjenopptak er oversittet, og det ikke er grunnlag for å gi oppreisning for oversittelsen. Dersom det ikke er grunnlag for å avvise begjæringen, vil resultatet enten bli at begjæringen ikke tas til følge eller at saken gjenopptas. Departementet foreslår at dette lovfestes i § 28 tredje ledd.
+
+Gjenopptas saken, helt eller delvis, vil det neste leddet i saksbehandlingen være å realitetsbehandle saken, det vil si å ta stilling til om Trygderettens kjennelse skal endres og på hvilken måte. Man må det se det slik at integrert i begjæringen om gjenopptak ligger et krav om ny realitetsavgjørelse.
+
+I disse tilfellene vil man således få en to-leddet behandling. Ved realitetsbehandlingen vil retten som utgangspunkt ha den samme kompetansen som når retten tar stilling til tvistespørsmålet i en konkret ankesak. Det sentrale er at retten kan avsi (ny) kjennelse som setter den tidligere kjennelsen til side – så langt endringen rekker – og gi parten medhold i den opprinnelige påstanden. Et eksempel: Retten stadfestet i den opprinnelige kjennelsen ankemotpartens avslag på den ankende parts krav om 100 prosent uførepensjon. Den ankende part setter frem begjæring om gjenopptak. Retten gjenopptar saken og behandler realiteten. Retten kommer nå til at vilkårene for 100 prosent uførepensjon var oppfylt og gir henne/ham rett til slik pensjon. Virkningstidspunktet vil bli det samme som om han hadde fått medhold i sitt opprinnelige krav om 100 prosent uførepensjon.
+
+Det vises til lovforslaget, trygderettsloven § 28.
+
+BrøBrø**Utgifter ved saksbehandlingen**
+
+BrøBrø**Innledning**
+
+BrøI dette kapitlet behandles forslag om enkelte endringer i trygderettsloven § 25 om dekning av sakskostnader. Hensikten er å klargjøre innholdet i bestemmelsen, særlig hvilke kostnader som dekkes.
+
+Videre foreslås at sakskostnader som den ankende part pålegges, kan tvangsfullbyrdes etter reglene for dommer.
+
+Det foreslås ingen endringer i trygderettsloven § 26 når det gjelder gebyr. Den ankende part skal fortsatt ikke betale noe til Trygderetten for å få behandlet ankesaken.
+
+BrøBrø**Gjeldende rett**
+
+BrøBrø**Sakskostnader**
+
+BrøBruken av advokater og rettshjelpere med tillatelse til å drive rettshjelpsvirksomhet fra Tilsynsrådet for advokatvirksomhet, har økt betydelig i Trygderetten de senere årene. I årene 1989 til 1993 var det prosessfullmektig i 7-8 prosent av sakene. Fra 1994 til 2008 har det vært en jevn økning opp til ca. 40 prosent av sakene. De aller fleste prosessfullmektiger er advokater eller rettshjelpere. Spørsmål om dekning av sakskostnader er derfor et tema i et betydelig antall saker i Trygderetten.
+
+Trygderettsloven § 25 har bestemmelser om å pålegge en part, helt eller delvis, å dekke utgifter som saken har medført for motparten og Trygderetten. Første ledd omhandler dekning av den ankende parts utgifter, mens andre ledd gjelder utgifter «som saken har medført for Trygderetten og ankemotparten».
+
+For at Trygderetten skal pålegge ankemotparten å dekke den ankende parts saksomkostninger, må kjennelsen være «til gunst» for vedkommende.
+
+Avgjørelser som går ut på å omgjøre det påankede vedtaket må uten videre anses å være til gunst. Etter Trygderettens praksis vil også kjennelser som resulterer i oppheving og hjemvisning, anses for å være til gunst for den ankende part. Trygderetten mente tidligere at ikke alle slike kjennelser kunne anses for å være til gunst, men praksis ble endret etter en uttalelse fra Sivilombudsmannen i 2004.
+
+Det er sikker praksis for at det kun er de utgiftene som har påløpt i anledning anken, samt eventuell forutgående klage, som kan erstattes.
+
+Vanligvis vil det være utgifter til advokat som erstattes, men det kan også være andre utgifter. I enkelte tilfeller er ankemotparten pålagt å dekke den ankende parts utgifter ved innhenting av medisinske opplysninger. Forutsetningen har vært at erklæringene har vært nødvendige for å få en kjennelse til gunst.
+
+Uttrykket «nødvendige utgifter» innebærer at bare de utgiftene som er nødvendig for å få saken betryggende utført, kan dekkes etter § 25. Er det utført arbeid ut over det som er nødvendig, vil salærkravet bare delvis bli godtatt.
+
+Trygderetten vil normalt anse at det forholdet at vedtaket blir endret til gunst som tilstrekkelig grunnlag for å anse advokatutgifter som nødvendige. Hvis det derimot er klart at ingen av anførslene har ført frem, men rettens avgjørelse er til gunst på et helt annet grunnlag, kan neppe utgiftene anses nødvendige i relasjon i forhold til § 25. Som eksempel kan nevnes at den ankende part har påberopt god tro med hensyn til feilutbetaling, men retten er uenig i dette. Retten finner imidlertid at noe av tilbakebetalingskravet bortfaller på grunn av foreldelse. I en slik situasjon synes det lite rimelig å pålegge ankemotparten å dekke omkostningene.
+
+Det er bare unntaksvis at det vil være aktuelt å pålegge den ankende part å betale saksomkostninger etter trygderettsloven § 25 andre ledd. I Ot.prp. nr. 5 (1966–67) fremgår det at formålet med bestemmelsen er å hindre at prosesslystne personer i utrengsmål legger beslag på rettens tid og arbeidskraft. Bestemmelsen er bare ment å komme til anvendelse rent unntaksvis og bare i de tilfeller hvor vedkommende «åpenbart uten grunn har fremsatt eller opprettholdt anke». Forarbeidene gir liten veiledning i vurderingen, men uttaler at «Man tenker nærmest på tilfelle hvor det ville synes åpenbart urimelig at den ankende part i tilfelle var fritatt for å dekke de utgifter som ankesaken har medført». Trygderetten har visstnok bare i ett tilfelle pålagt den ankende part å betale saksomkostninger. Det gjelder kjennelse av 28. oktober 2011 i ankesak nr. 11/01060. Vedkommende hadde gjentatte ganger fremmet samme krav uten å nå frem. Ankemotparten hadde lagt ned påstand om dekning av saksomkostninger. Retten tilkjente ankemotparten 2000 kroner i saksomkostninger.
+
+Trygderettsloven § 25 tredje ledd slår fast at det bare skal tilkjennes saksomkostninger når den ankende part har krevd dette. Dersom det skulle bli aktuelt å ilegge den ankende part saksomkostninger etter trygderettsloven § 25 andre ledd, vil dette forutsette at ankemotparten har krevd saksomkostningene dekket.
+
+Etter § 25 fjerde ledd kan Trygderettens avgjørelser påankes særskilt til lagmannsretten. Før lovendring i 2001 var det ingen adgang til å få en særskilt prøving av spørsmålet om sakskostnader etter § 25, og hele saken måtte bringes inn for lagmannsretten selv om det bare var spørsmålet om sakskostnader man ønsket overprøvd.
+
+BrøBrø**Fri sakførsel**
+
+BrøI mange tilfeller vil også Trygderetten behandle spørsmål om innvilgelse av fri sakførsel i medhold av rettshjelploven.
+
+Etter rettshjelploven § 17 kan det innvilges fri sakførsel i ankesaker for Trygderetten. Trygderetten kan selv innvilge fri sakførsel etter rettshjelploven § 19.
+
+Trygderettens avgjørelser om fri rettshjelp er forvaltningsvedtak. Det er forvaltningslovens bestemmelser som kommer til anvendelse, sammen med særreglene i rettshjelploven. Avgjørelser truffet av Trygderetten om fri sakførsel, kan ankes til Borgarting lagmannsrett etter rettshjelploven § 27.
+
+Det følger av rettshjelploven § 5 at bistand etter loven er subsidiær i forhold til bistand som kan dekkes av andre ordninger eller som kan erstattes på annen måte. Lovbestemmelsen gir en del eksempler på alternativ bistand/erstatninger, blant annet forvaltningsloven § 36.
+
+Trygderettsloven § 25 er ikke spesielt nevnt, men rettshjelploven må nok i prinsippet anses subsidiær også i forhold til denne.
+
+Revisjonen av trygderettsloven får ikke betydning i forholdet til rettshjelploven.
+
+BrøBrø**Dekning av Trygderettens utgifter**
+
+BrøDet følger av trygderettsloven § 26 første ledd at behandlingen ved Trygderetten er gebyrfri. I Ot.prp. nr. 5 (1966–67) side 43 uttales om dette:
+
+BrøBrø«Utvalget har foreslått at behandlingen ved Trygderetten skal være gebyrfri. Selv et beskjedent gebyr kan bety en økonomisk belastning for en pensjonist eller pensjonssøker og kan i tilfelle innebære en faktisk begrensning av den formelle ankerett.»
+
+BrøEtter § 26 andre ledd dekkes utgiftene til Trygderetten av staten mot refusjon fra de trygder og pensjonsordninger som omfattes av ankeordningen. Departementet kan gi nærmere regler om fordelingen av utgiftene. Slike regler er ikke gitt. Bestemmelsen har ingen praktisk betydning.
+
+BrøBrø**Høringsnotatet**
+
+BrøBrø**Sakskostnader**
+
+BrøI tvisteloven og forvaltningsloven benyttes betegnelsen sakskostnader. Departementet foreslo at denne betegnelsen også benyttes i trygderettsloven.
+
+Den økende bruk av advokater/retthjelpere har også medført at Trygderetten oftere må ta stilling til dekning av sakskostnader etter trygderettsloven. Det har vist seg i praksis et behov for en nærmere presisering av bestemmelsen, særlig når det gjelder hvilke kostnader som dekkes. I saker hvor NAV Klageinstans er ankemotpart, vil det nesten alltid ha vært en forutgående klagebehandling i NAV Klageinstans før saken kommer til Trygderetten. Det har i enkelte tilfeller vært uklart for advokater om arbeid knyttet til klagesaken, kan dekkes etter trygderettsloven.
+
+I høringsnotatet ble det foreslått presisert at også utgifter til juridisk bistand i forbindelse med forutgående behandling kan dekkes.
+
+Det er rent unntaksvis at den ankende part pålegges å betale sakskostnader i forbindelse med ankesaken. Departementet fant det likevel riktig at Trygderetten har adgang til dette i særlige tilfeller. Når denne adgangen nyttes, er det også hensiktsmessig at kostnadene kan inndrives på en enkel måte. Departementet foreslo derfor en bestemmelse, etter mønster av forvaltningsloven § 36 tredje ledd sjette punktum, om at sakskostnader som den ankende part pålegges, kan inndrives etter reglene for dommer.
+
+BrøBrø**Gebyrfrihet**
+
+BrøDepartementet foreslo ingen realitetsendringer når det gjelder gebyr. Gebyrfriheten markerer at overprøving i Trygderetten skal være et lavterskeltilbud. Det kan også vises til at det ikke skal betales gebyr for å få en kjennelse av Trygderetten overprøvd i lagmannsretten.
+
+BrøBrø**Høringsinstansene**
+
+Brø*Arbeids- og velferdsdirektoratet* viser til at det er ulik praksis i Trygderetten og Arbeids- og velferdsetaten når det gjelder dekning av sakskostnader, der resultatet i anke- og klagesak er at det påankede / påklagede vedtaket blir opphevet og saken hjemvist til ny behandling i underinstansen. Trygderetten tolker «til gunst» i trygderettsloven § 25 slik at alle kjennelser som resulterer i oppheving og hjemvisning er til gunst for den ankende part. Trygderetten endret sin praksis etter en uttalelse fra Sivilombudsmannen i 2004 (SOM-2004-60).
+
+Direktoratet uttaler videre:
+
+BrøBrø«Arbeids- og velferdsetaten gjør en nærmere vurdering av vilkåret «endret til gunst» i forvaltningsloven § 36. Etatens praksis i de såkalte «gruppe 3-tilfellene», følger Lovavdelingens uttalelser i JDLOV-2003-5695 og JDLOV-2009-1962. Lovavdelingen støtter sin tolkning først og fremst i forarbeidene til forvaltningsloven § 36, jf. Ot.prp. nr. 75 (1968–69) og i «en temmelig entydig forvaltningspraksis».
+
+Gruppe 3-tilfellene er de opphevelsene som verken varig eller midlertidig medfører noen endring av rettstilstanden for klageren. Dette gjelder typisk ved opphevelse av et vedtak der krav om ytelse etter folketrygdloven er avslått. Årsaken til at avslaget oppheves, kan være både feil i faktum, feil rettsanvendelse, saksbehandlingsfeil eller andre ugyldighetsgrunner. Opphevelsene er uansett prosessledende beslutninger, som i utgangspunktet ikke gir rettskrav på sakskostnader.
+
+Situasjonen for klagerne i gruppe 3 vil være at de har fått medhold i at underinstansens vedtak lider av feil – og kan dermed innkassere en prosessuell seier. Materielt står de imidlertid på stedet hvil: Før kravet ble satt frem hadde de ikke ytelsen, de fikk det ikke ved underinstansens avslag, og de har det fortsatt ikke etter at avslaget ble opphevet.
+
+Hver sak må likevel vurderes konkret, og det kan tenkes tilfeller der Arbeids- og velferdsetaten likevel vil dekke sakskostnader i et gruppe 3-tilfelle. Momenter i denne vurderingen vil være i hvilken grad etaten er å bebreide for feilen som førte til opphevelse av underinstansvedtaket, om parten (også) er å bebreide for feilen, hvor viktig saken er for parten, hvor store «nødvendige» kostnader parten har pådratt seg for å få underinstansens negative vedtak opphevet, og hvor sannsynlig det er at parten vil få medhold ved underinstansens fornyete behandling av saken.
+
+Arbeids- og velferdsdirektoratet er kjent med uenigheten mellom Sivilombudsmannen og Lovavdelingen om det er en endring til gunst for parten, som gir rett til dekning av sakskostnader, når resultatet i saken er oppheving og hjemvisning. Etter vårt syn har Lovavdelingens begrunnelse for at det bare helt unntaksvis skal gis dekning av sakskostnader i gruppe 3- tilfellene godt rettskildemessig grunnlag og fremstår etter vår oppfatning som rimelig for parten. Vi mener departementet bør vurdere å uttale seg om denne problemstillingen i forarbeidene til ny trygderettslov. Vi kan ikke se at den lille forskjellen i ordlyden i forvaltningsloven § 36 og trygderettsloven § 25, gir grunnlag for den ulike praksisen som nå er i disse sakene. Det er uheldig at det alltid gis dekning av sakskostnader når Trygderetten opphever og hjemviser i ankeomgangen, mens det bare helt unntaksvis gis dekning avsakskostnader når Arbeids- og velferdsetaten opphever og hjemviser i klageomgangen.»
+
+BrøDirektoratet bemerker videre at det er ryddig når departementet nå foreslår hjemmel i trygderettsloven § 29 første ledd andre punktum for at Trygderetten pålegger ankemotparten å dekke sakskostnadene i klagesaken også, dersom kjennelsen er til gunst for den ankende part. Direktoratet viser til at det her har vært en del uklarhet, og ulik praksis, fordi det nå mangler klar hjemmel i trygderettsloven § 25 til å pålegge ankemotparten å dekke også disse kostnadene i ankeomgangen, og fordi ordlyden i forvaltningsloven § 36 tredje ledd kan gi grunnlag for avslag av etterfølgende krav om dekning av sakskostnader for klageomgangen.
+
+*Pensjonskasseforeningen* finner det ikke åpenbart at enhver kjennelse som resulterer i oppheving og hjemvising skal lede til dekning av saksomkostninger. En skranke ligger selvsagt i at den ankende part kun skal ha dekket utgifter som betraktes som nødvendige, men det er foreningens utgangspunkt at omkostninger som et utgangspunkt bare burde dekkes automatisk der retten foretar en omgjøring av det påankende vedtaket og omkostningene anses som nødvendige i denne kontekst. Et rettsgrunnlag for unntaksvis å kunne pålegge den ankende part å dekke ankemotpartens kostnader bør fremgå av trygderettsloven. Det vil kunne være situasjoner der det er rimelig at den ankende part belastes slike utgifter.
+
+*Helsedirektoratet* ønsker å vise til at HELFO ikke anser alle vedtak som går ut på å oppheve og hjemvise en sak til ny behandling for å være «til gunst» for parten, slik at parten får rett til dekning av sakskostnader etter forvaltningsloven § 36. Støtte for dette syn finnes i uttalelser fra Justisdepartementets lovavdeling.
+
+*KLP* ber Arbeids- og sosialdepartementet vurdere å ta inn i bestemmelsen at det skal være dokumenterte utgifter som den ankende part selv har hatt i forbindelse med ankesaken som kan kreves dekket. Videre opplever KLP også at Trygderetten tilstår saksomkostninger når det er anvendt prosessfullmektig som ikke fyller vilkårene for å drive ervervsmessig rettshjelpsvirksomhet, jf. tvisteloven § 3-3. Slik KLP ser det er det ikke lovlig adgang til dette. KLP ber derfor departementet vurdere om henvisningen i lovforslagets § 18 utvides til også kapittel 3 i tvisteloven, slik at det ble nærmere presisert hvem som kan opptre som prosessfullmektig under nærmere forutsetninger.
+
+Etter *Oslo Pensjonsforsikrings* oppfatning er det viktig at det gis tydelige regler for når retten kan pålegge sakskostnader og hvilket omfang et slikt pålegg skal ha. De mener formuleringene som er foreslått i høringsnotatet ikke er entydige og det vil kunne oppstå tvil knyttet til hva som er «nødvendige (kostnader) for å få endret det påankede vedtak». Det stilles spørsmål om ikke bestemmelsen bør ha en forklaring på hva som menes med «nødvendig», på samme måte som tvisteloven § 20-5, eventuelt en henvisning til tvistelovens regler så langt det passer.
+
+BrøBrø**Departementets vurderinger og forslag**
+
+BrøBrø**Sakskostnader – presisering av hvilke kostnader som dekkes m.m.**
+
+BrøI tvisteloven og forvaltningsloven benyttes betegnelsen «sakskostnader». I samsvar med høringsnotatet foreslår departementet at denne betegnelsen også benyttes i trygderettsloven.
+
+Som det redegjøres for i høringsnotatet har den økende bruk av advokater/retthjelpere også medført at Trygderetten oftere må ta stilling til dekning av sakskostnader etter trygderettsloven § 25.
+
+Departementet foreslår at det presiseres i § 29 at Trygderetten skal kunne bestemme at kostnadsdekningen også skal omfatte utgiftene den ankende part har hatt i forbindelse med forutgående klagebehandling. Som det fremgår av punkt 14.4 foran mener også *Arbeids- og velferdsdirektoratet* at dette er en ryddig ordning.
+
+Som det fremgår av punkt 14.4, mener *Arbeids- og velferdsdirektoratet* det er uheldig at det alltid gis dekning av sakskostnader når Trygderetten opphever og hjemviser i ankeomgangen, mens det bare helt unntaksvis gis dekning av sakskostnader når Arbeids- og velferdsetaten opphever i klageomgangen.
+
+Departementet vil innledningsvis vise til at når lagmannsretten opphever en trygderettskjennelse, får vedkommende saksomkostninger selv om det ikke er sikkert at vedkommende vil komme til å få innvilget sitt krav på vedkommende ytelse. Tilsvarende gjelder generelt ved domstolsbehandling av forvaltningsvedtak. Siden Trygderetten erstatter førsteinstansbehandlingen i de alminnelige domstoler, kan det tilsi at saksomkostninger tilkjennes også ved oppheving i Trygderetten.
+
+Departementet viser også til Sivilombudsmannens uttalelse i Årsmeldingen for 2004, hvor det uttales (s. 234) blant annet:
+
+BrøBrø«… En ordning der Trygderetten også ved kjennelser om å oppheve tidligere vedtak selv tar stilling til sakskostnadskravet fremfor å sende det videre for senere avgjørelse, vil kanskje også medføre at forutsetningene for vurderingen av kravet er bedre. For den ankende part fremstår det også som en klar fordel at saksomkostninger tilkjennes i tid nær opp til tidspunktet da de er pådratt. Dette kan tale for i fremtiden å endre praksis slik at krav som ellers ville bli sendt videre i systemet blir avgjort av Trygderetten og da som hovedregel innvilget.»
+
+BrøDepartementet viser til dette og foreslår å opprettholde gjeldende ordning slik at alle kjennelser i Trygderetten som resulterer i oppheving og hjemvisning skal anses å være til gunst for den ankende part, med omkostningsansvar for ankemotparten som konsekvens (med mindre kostnadene ikke var å anse som «nødvendige»).
+
+Som nevnt har Arbeids- og velferdsetaten bygd på en annen løsning ved tolkningen av forvaltningsloven § 36, slik at det bare helt unntaksvis gis dekning av sakskostnader når Arbeids- og velferdsetaten opphever og hjemviser i klageomgangen. Departementet er enig i at det kan synes noe uheldig at den lille forskjellen i ordlyden i trygderettsloven § 25 og forvaltningsloven § 36 skulle gi grunnlag for den ulike praksisen i Trygderetten og i Arbeids- og velferdsetaten ved klagebehandling.
+
+Departementet vil i denne forbindelse nevne at det er besluttet at det skal settes ned et offentlig utvalg til å revidere forvaltningsloven, og det er i mandatet nevnt særskilt at sakskostnadsreglene i forvaltningsloven § 36 skal vurderes. Departementet vil avvente utvalgets utredning før forholdet mellom trygderettsloven og forvaltningsloven på dette punkt vurderes nærmere.
+
+Som det fremgår av punkt 14.4 mener *Oslo Pensjonsforsikring* at formuleringene som er foreslått i høringsnotatet ikke er entydige og reiser spørsmål om ikke bestemmelsen bør ha en forklaring på begrepet «nødvendig», på samme måte som tvisteloven § 20-5, hvor det er bestemt at det ved vurderingen av om kostnadene har vært nødvendige, «… legges \[…\] vekt på om det ut fra betydningen av saken har vært rimelig å pådra dem». Departementet antar imidlertid at et slikt krav om rimelighet i liten utstrekning vil bidra til en presisering av nødvendighetsvilkåret. Som nevnt i punkt 14.2.1 vil Trygderetten normalt anse det forholdet at vedtaket blir endret til gunst som tilstrekkelig grunnlag for å anse advokatutgifter som nødvendige. Hvis det derimot er klart at ingen av anførslene har ført frem, men rettens avgjørelse er til gunst på et helt annet grunnlag, kan neppe utgiftene anses nødvendige etter § 25.
+
+*KLP* ber Arbeids- og sosialdepartementet vurdere å ta inn i bestemmelsen at det skal være dokumenterte utgifter som den ankende part selv har hatt i forbindelse med ankesaken som kan kreves dekket. Departementet forutsetter at det bare er de nødvendige utgiftene den ankende part har hatt, som kan kreves dekket. Departementet finner likevel ikke grunn til å lovfeste dette.
+
+Videre opplever *KLP* også at Trygderetten tilstår saksomkostninger når det er anvendt prosessfullmektig som ikke fyller vilkårene for å drive ervervsmessig rettshjelpsvirksomhet, jf. tvisteloven § 3-3. Slik KLP ser det er det ikke lovlig adgang til dette. Departementet viser til at det i trygderettsloven § 18 er henvist til tvisteloven kapittel 3. Tvisteloven § 3-3 fjerde ledd åpner i utgangspunktet for at enhver myndig person kan være prosessfullmektig etter særskilt tillatelse fra retten i den enkelte sak. De som driver erversmessig eller stadig rettshjelpsvirksomhet kan bare være prosessfullmektig hvis de i tillegg oppfyller vilkårene i domstolloven § 218. Foruten advokater, kan også den som har juridisk embetseksamen eller master i rettsvitenskap yte rettshjelp, jf. domstolloven § 218 andre ledd nr. 1. Dessuten kan ikke-jurister drive rettshjelpsvirksomhet, men da må vedkommende ha tillatelse fra retten i den enkelte sak. Hvis retten godkjenner en rettshjelper som prosessfullmektig, kan saksomkostninger tilkjennes etter de alminnelige reglene om dette. Dette er gjeldende rett etter trygderettsloven § 25, se forslaget til trygderettsloven § 29.
+
+Som nevnt under 14.2.1 er det rent unntaksvis at den ankende part pålegges sakskostnader i forbindelse med ankesaken. Departementet finner det likevel riktig at Trygderetten har adgang til dette i særlige tilfeller. Når denne adgangen nyttes, er det også hensiktsmessig at kostnadene kan inndrives på en enkel måte. Departementet foreslår derfor en bestemmelse i § 25 andre ledd, etter mønster av forvaltningsloven § 36 tredje ledd sjette punktum, om at sakskostnader som den ankende part pålegges, kan inndrives etter reglene for dommer.
+
+Departementet har vurdert om overprøving av Trygderettens avgjørelse om sakskostnader og søksmål over Trygderettens kjennelse bør samles i en paragraf. Departementet har likevel funnet det mest hensiktsmessig at alle forhold knyttet til spørsmålet om sakskostnader reguleres i en egen paragraf.
+
+Det vises til lovforslaget, trygderettsloven § 29.
+
+BrøBrø**Gebyr**
