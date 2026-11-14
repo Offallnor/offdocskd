@@ -1,874 +1,290 @@
-# NOU 2016: 13, del 13 av 16 (side 140–150)
+# NOU 2016: 13, del 13 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/0e793719-nou-2016-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-13/id2510437/
 - Original-PDF: https://www.regjeringen.no/contentassets/3f93bdb31a5942fba104512d4a3b8f00/no/pdfs/nou201620160013000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 140]
-
-140
-
-Kapittel 10
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-sker. Et slikt vern kunne tilsvart det vernet som
-en varsler har.
-En plikt for arbeidsgiver til å etablere et system for å behandle og avgjøre reservasjonsønsker, og eventuelle konflikter som følge av dette,
-kan eventuelt begrenses til visse typer virksomheter.7 En kunne kanskje også hatt en generell
-ordning hvor en etablerte et eksplisitt vern mot
-gjengjeldelse som følge av uttrykt reservasjonsønske, samt en plikt for arbeidsgiver til å vurdere
-et slikt ønske. På samme måte som plikten til å
-legge forholdene til rette for varsling (som gjelder
-«dersom forholdene i virksomheten tilsier det», jf.
-§ 3-6), kunne en integrere dette i det systematiske
-HMS-arbeidet.
-
-10.3 Fordeler og ulemper med
-lovregulering
-Lovregulering kan ha både positive og negative
-konsekvenser. Ikke alle områder egner seg for
-lovregulering, og i enhver situasjon hvor det oppstår spørsmål om et område bør rettsliggjøres, bør
-disse konsekvensene drøftes for å se om lov er et
-ønsket og egnet virkemiddel.
-Et hensyn som taler for lovregulering er hensynet til forutberegnelighet. Forutberegnelighet vil
-si at en person har mulighet til å forutsi sin rettslige posisjon. En rett til å nekte å utføre visse
-arbeidsoppgaver som er klart avgrenset vil innebære forutberegnelighet først og fremst for
-arbeidstakere, oppdragstakere eller dagpengemottakere, men også for arbeidsgivere, oppdragsgivere eller arbeidsmarkedsmyndighetene. Klare
-rettigheter med hensyn til samvittighetsreservasjon vil også bidra til å verne arbeidstakere, yrkesutøvere og arbeidsledige mot vilkårlig maktutøvelse fra arbeidsgivers eller forvaltningens side.
-Når det kommer til generell regulering av samvittighetsnektelser, vil det imidlertid etter utvalgets
-mening nødvendigvis måtte utformes en regel
-som legger opp til en stor grad av skjønn. Det
-innebærer at selv om regelen ville gi en adgang til
-reservasjon i enkelte tilfeller, ville det ikke nødvendigvis være mulig for den enkelte å forutse
-hvorvidt det vil bli resultatet på forhånd. Særreguleringer som gir en rett til reservasjon kan imidlertid sies å innebære større grad av forutberegnelighet for både arbeidsgiver og arbeidstaker,
-7
-
-Se for eksempel arbeidsmiljøloven § 3-3 om plikt til å knytte
-virksomheten til bedriftshelsetjeneste «når risikoforholdene i virksomheten tilsier det». Hvilke virksomheter dette
-gjelder er konkretisert i forskrift.
-
-forutsatt at det ikke knyttes strenge vilkår til retten. I slike tilfeller vil reguleringen, som nevnt,
-kunne få karakter av en adgang.
-Hensynet til utjevning av maktubalanse kan
-også tale for lovregulering av samvittighetsnektelser. Det vil som hovedregel være en grunnleggende ubalanse i maktforholdet mellom en yrkesutøver som ønsker fritak fra en arbeidsoppgave og
-arbeidsgiver eller andre kontraktsmotparter. Dels
-har dette sammenheng med økonomiske ressurser og tilgang til juridisk kompetanse, dels foreligger også en direkte rettslig ubalanse ved at
-arbeidsgiver har arbeidsrettslig styringsrett og
-forvaltningen har offentligrettslig styringskompetanse. Ubalansen vil være særlig sterk fordi
-arbeidsgiver eller forvaltningsorganet forvalter
-ressurser som den som yter arbeid er avhengig av
-til livsopphold.
-Hensynet til vern av grunnleggende menneskerettigheter kan gå inn som et tredje overordnet
-hensyn som kan tale for eksplisitt rettslig regulering av samvittighetsnektelser. Samvittighetsfriheten og religions- og livssynsfriheten er grunnleggende menneskerettigheter på samme måte som
-ytringsfrihet. Statene plikter ikke bare å respektere rettighetene, men også å verne dem effektivt
-mot private parters krenkelser av andres menneskerettigheter. Lovregulering, med mulighet for
-rettslig gjennomføring og sanksjoner mot brudd,
-kan da være nødvendig.
-Hensynet til konsekvens og sammenheng i det
-arbeidsrettslige regelverket kan tale for at en også
-regulerer samvittighets-, religions- og livssynsfriheten i arbeidslivet. Det finnes per dags dato en
-rekke bestemmelser som pålegger arbeidsgivere
-å tilrettelegge for den enkelte arbeidstakers
-behov; ikke bare for personer med nedsatt funksjonsevne, men også for syke, gravide og personer med familieforpliktelser og delvis også av mer
-generelle velferdsgrunner. Samvittighetsbaserte
-reservasjonsønsker vil ikke nødvendigvis være
-mindre vektige enn denne type arbeidstakerinteresser.
-Arbeidstakernes ytringsfrihet er vernet gjennom varslingsreglene og også mer generelt, utenfor området for «kritikkverdige forhold». Selv om
-en rett til å reservere seg mot konkrete arbeidsoppgaver normalt vil medføre større inngrep i
-arbeidsgivers styringsrett enn en rett for arbeidstakerne til å ytre seg, vil også ytringsfrihet kunne
-ha negativ betydning for arbeidsgivers omdømme
-og dermed også for effektiv gjennomføring av
-virksomhetens formål. Likevel har en altså valgt å
-innføre et sterkt rettsvern for arbeidstakers
-ytringsfrihet ved varslingsreglene. En samvittig-
-
-[Side 141]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-hetskonflikt vil antakelig ikke oppleves mindre
-alvorlig for den enkelte enn en typisk varslingssituasjon. Forskjellen på situasjonene vil ofte kun
-bestå i hvorvidt situasjonen er slik at arbeidstakeren kan eller må akseptere at andre utfører
-arbeidsoppgaven eller ikke. Avgjørende her er
-imidlertid at varslingsreglene er ment å skulle
-bidra til at arbeidstakere skal kunne gi beskjed
-om kritikkverdige forhold de er kjent med på en
-forsvarlig måte uten å bli utsatt for represalier.
-Bak dette ligger offentlighetens interesse av å få
-vite om slike forhold og eventuelt få satt en stopper for kritikkverdige forhold. Selv om varsling
-kan kombineres med oppgavenekt, er adgang til å
-nekte å utføre noe man i utgangspunktet har forpliktet seg til gjennom en avtale grunnleggende
-sett forskjellig fra varsling.
-Hensynet til effektiv styring taler mot å regulere
-samvittighetsnektelser rettslig. Demokratihensyn og hensynet til avtalefrihet kan tale mot at en
-griper inn med rettslig vern av personer som ikke
-ønsker å utføre visse typer arbeidsoppgaver. Det
-kan hevdes at disse heller bør søke seg mot andre
-stillinger eller yrker. Legitim maktutøvelse, enten
-denne bygger på avtale (arbeidsrettslig styringsrett) eller offentligrettslig kompetanse, kan bli
-vanskeliggjort dersom arbeidstakere, oppdragstakere eller arbeidsledige kan nekte å utføre arbeidsoppgaver ut fra egen samvittighet. Arbeidsgivere
-eller de som gir en selvstendig næringsdrivende
-et oppdrag har en legitim forventning om at arbeidet skal utføres. Samvittigheten er individuell og
-vanskelig observerbar og det kan by på store pro-
-
-141
-
-Kapittel 10
-
-blemer, og også ta tid, å avgjøre hva som faller
-innenfor eller utenfor legitime nektelser.
-At arbeids- og oppdragsgiveres styring blir
-ineffektiv vil også kunne ha negativ betydning for
-andre, for eksempel kollegaer, kunder, klienter og
-pasienter. Kunder vil kunne få vanskeliggjort sin
-tilgang på varer eller tjenester, mens kollegaer vil
-måtte overta de arbeidsoppgavene som en annen
-nekter å utføre. I verste fall kan det også innebære
-inngrep i tredjeparters menneskerettigheter, som
-retten til helse og til ikke å bli utsatt for usaklig
-forskjellsbehandling.
-Lovregulering av dette området kan føre til at
-problemer som egentlig kunne blitt løst i praksis
-på arbeidsplassen blir gjort om til en rettslig problemstilling. Dette kan også medføre manglende
-fleksibilitet ved løsning av konflikter. Ved rettslig
-konfliktløsning vil det nødvendigvis bli en vinner
-og en taper ved at arbeidstaker enten får adgang
-til reservasjon eller ikke, og arbeidsgiver må
-omfordele arbeidsoppgavene eller ikke. Selv om
-rettsreglene ikke hindrer at partene kommer til
-enighet, kan en rettslig regulering kunne føre til
-at partene føler mindre «eierskap» til konflikten,
-noe som kanskje kan motvirke mulighetene for
-løsning i minnelighet. Det kan også hevdes at lovregulering kan hindre tilpasning til lokale forhold,
-bransjemessige behov eller samfunnsutvikling.
-Det sistnevnte problemet kan løses ved at en fastsetter en skjønnsmessig og generell regel, men
-dette vil i sin tur gå utover forutberegneligheten,
-som nevnt ovenfor.
-
-[Side 142]
-
-142
-
-Kapittel 11
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Kapittel 11
-
-Utvalgets anbefalinger
-11.1 Innledning
-Et velfungerende samfunn er avhengig av et velfungerende og inkluderende arbeidsliv. Et velfungerende arbeidsliv forutsetter at arbeidsgivere
-kan stole på at arbeidstakere utfører de arbeidsoppgavene de er ansatt for å gjøre, innenfor de
-rammene lovgivningen gir. Noe annet vil kunne gå
-utover kunder, klienter og brukere, og ha en
-negativ effekt på næringslivet og offentlig tjenesteyting.
-Utvalget står likevel samlet om å mene at samvittighetsfriheten representerer en viktig menneskelig verdi, og at det bør legges til rette for at
-denne kan ivaretas også i arbeidslivet. Dersom det
-virkelig dreier seg om en dyp og viktig samvittighetsoverbevisning for arbeidstakeren og det er
-mulig å legge til rette for reservasjon i praksis,
-uten at det går utover andre, bør det etter utvalgets mening legges til rette for reservasjon.
-Utvalget mener følgende tre spørsmål bør stå
-sentralt i vurderingen av samvittighetsbasert fritak i arbeidslivet:
-i. Bygger arbeidstakers ønske om reservasjon
-mot å utføre bestemte arbeidsoppgaver på en
-dyp og viktig samvittighetsoverbevisning?
-ii. Kan reservasjon finne sted uten at det er inngripende for tredjepart?
-iii. Er reservasjon gjennomførbart i praksis uten
-for store ulemper for arbeidsgiver og kollegaer?
-
-11.2 Lovregulering av reservasjonsrett?
-Det kan anføres gode grunner for å fastsette en
-generell bestemmelse om vern av samvittighetsfrihet i arbeidsforhold. Blant annet kan det hevdes
-at dersom dette ikke reguleres vil «den sterkeste
-få råde»,1 noe som i de fleste tilfeller vil være
-arbeids- eller oppdragsgiver. Også hensynet til
-forutberegnelighet og vern av grunnleggende
-
-menneskerettigheter kan tale for lovregulering,
-se nærmere om dette i punkt 10.3. Utvalget har
-likevel kommet til at de fleste samvittighetskonflikter i arbeidslivet ikke egner seg så godt for
-rettslig regulering. I enkelte særlige tilfeller, hvor
-det er åpenbart at mye står på spill for arbeidstakeren, mener utvalget reservasjonsrett bør være
-gjenstand for spesiell lovgivning. Utvalget mener
-med andre ord at en generell regulering av samvittighetskonflikter ikke vil være hensiktsmessig.
-Utvalget vil peke på at en samvittighetskonflikt
-er en kompleks moralsk problemstilling, som lett
-kan forenkles og endre karakter dersom den lovreguleres. Taper en arbeidstaker en sak om reservasjonsrett i en domstol er det stor sannsynlighet
-for at dette vil sette endelig punktum for saken.2
-Vinner arbeidstakeren, kan det også få en negativ
-effekt på miljøet på arbeidsplassen. Å bringe slike
-saker inn for domstolene bør dermed være siste
-utvei i en konflikt som fortoner seg helt uløselig.
-Domstolsbehandling tar dessuten lang tid og er
-kostbar, og vil derfor i de fleste tilfeller være uegnet for å få en rask og smidig løsning på en konkret sak.
-Utvalget mener at god dialog mellom den
-enkelte arbeidstakeren og arbeidsgiveren, eventuelt i samarbeid med kollegaer og fagforeninger, vil
-føre til de beste resultatene for alle involverte. På
-den måten kan den enkelte arbeidsgiver og
-arbeidstaker sammen finne gode løsninger som
-passer i det enkelte tilfellet og på den enkelte
-arbeidsplassen. En formalisering av rettigheter vil
-kunne hindre slik smidighet og føre til unødvendig oppblåsing av konflikter. På grunn av det
-brede spekteret av mulige konfliker, ville en eventuell generell regulering av dette spørsmålet dessuten måtte vært så skjønnsmessig og vag at den
-antakelig ikke ville føre til noen større forutberegnelighet for de involverte.
-Utvalget mener det er viktig å presisere at
-reservasjon skal være unntaket, og at utgangs2
-
-1
-
-Backer (2013) s. 43.
-
-Om slike følger av rettsliggjøring, se Mathiesen (2011) s.
-203.
-
-[Side 143]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-punktet i arbeidslivet må være at den enkelte
-arbeidstaker skal utføre den jobben han eller hun
-er ansatt for å gjøre. At en arbeidstaker ønsker å
-reservere seg mot deler av jobben vil føre til konsekvenser for kollegaer og andre. Utvalget mener
-derfor at den enkelte har et ansvar for ikke å
-uttrykke ønske om reservasjon i utide, se nedenfor i punkt 11.3.2. En generell lovregulering vil
-kunne føre til en økning i antall arbeidstakere som
-uttrykker slike ønsker, noe utvalget mener ikke
-vil være utvetydig positivt. Også dette kan tale for
-at rett eller adgang til reservasjon ikke bør reguleres generelt.
-Utvalget vil anbefale en tolerant grunninnstilling og smidige løsninger i møte mellom arbeidstaker og arbeidsgiver i praksis, framfor ytterligere
-lovfesting av reservasjonsadgang eller -rett.
-Oppsummert vil utvalget derfor fraråde en
-generell lovfesting av reservasjonsrett i arbeidslivet, og anbefale at lovfesting av reservasjonsrett
-for spesifikke problemstillinger også kun brukes
-unntaksvis. Dette er ikke en nedvurdering av
-betydningen av samvittighetsfrihet, men en
-erkjennelse av at lovverket ikke alltid er det beste
-redskapet for å beskytte samvittighetsfriheten
-innenfor arbeidslivet. I stedet for lovregulering
-framhever utvalget moralsk dialog og refleksjon,
-hvilket særlig vil si en gjensidig vilje til forståelse
-og til å finne gjennomførbare løsninger i praksis.
-Utvalget mener reservasjonsønsker først og fremst
-bør behandles lokalt på den aktuelle arbeidsplassen i lys av de tre foreslåtte hovedkriteriene.
-Utvalget mener at noen spesielle situasjoner
-utgjør unntak fra denne hovedregelen. Her vil lovfesting av reservasjonsrett, alt tatt i betraktning,
-være den beste løsningen. Dette gjelder særlig
-situasjoner der det er klart at spesielt mye står på
-spill for arbeidstaker, slik som i liv-død-situasjoner
-eller andre helt spesielle forhold. Et hypotetisk
-framtidig eksempel kan være hvis aktiv dødshjelp
-gjøres til en pasientrettighet (se punkt 8.6). I situasjoner som dette, vil hensynet til den enkelte
-arbeidstakers samvittighetsfrihet veie så tungt at
-det bør gis en lovfestet reservasjonsrett for å sikre
-arbeidstakers mulighet for å reservere seg. Det å
-overlate avgjørelsen om reservasjonsadgang til
-lokale forhandlinger kan her føre til et utilstrekkelig vern for samvittighetsfriheten. Abortloven er
-et eksempel på lovfesting av reservasjonsrett i
-slike helt spesielle situasjoner. Når aktuelle og
-spesielt kontroversielle felt skal lovreguleres i
-framtiden, anbefaler utvalget at lovgiver samtidig
-foretar en avveining av de ulike hensynene for og
-imot reservasjon i det konkrete tilfellet, med
-utgangspunkt i utvalgets tre hovedkriterier.
-
-143
-
-Kapittel 11
-
-I dag er det lovfestet adgang til, eller mulighet
-for, reservasjon ved utførelse av abort, forskning
-på fostervev, rituell omskjæring og for noen grupper vigslere ved visse ekteskapsinngåelser. Utvalget vil anbefale at lovreguleringen beholdes som i
-dag for utførelse av abort og vielser innenfor trosog livssynssamfunn. Utvalget anbefaler at dagens
-lovregulering tas opp til ny vurdering for
-forskning på fostervev. Deler av utvalget anbefaler
-at dagens lovregulering tas opp til ny vurdering
-for omskjæring.
-Abort er en liv-død-problemstilling der det er
-forståelig at mye kan stå på spill for helsearbeidere som vil reservere seg mot utførelse eller
-assistanse av samvittighetsgrunner. Erfaringene
-med abortloven tyder på at reservasjonsretten
-som hovedregel lar seg praktisere uten uakseptable ulemper for pasienter, kollegaer og arbeidsgiver, jf. hovedkriterium 2 og 3. Videre er abortlovens og -forskriftens reservasjonsrett ikke absolutt, men innebærer en fornuftig avveining av
-ulike hensyn. Utvalget mener derfor at den lovfestede reservasjonsretten bør videreføres.
-Utvalget gir en annen type begrunnelse for
-den lovfestede reservasjonsretten for vielser
-innenfor tros- og livssynssamfunn. En reservasjonsrett er her velbegrunnet tatt i betraktning
-tros- og livssynssamfunns rolle i et liberalt demokrati som Norge (se kapittel 5). Det ligger i trosog livssynssamfunns natur at de må ha et myndighetsområde for lærespørsmål der de i utgangspunktet er avskjermet fra statlig inngripen. Ettersom ekteskapssyn ofte vil utgjøre sentrale lærespørsmål, er det grunn til å innrømme tros- og
-livssynssamfunnene stor grad av handlingsrom
-her, inkludert samvittighetsfrihet for den enkelte
-vigsler.
-Bioteknologilovens reservasjonsrett mot deltakelse i forskningsprosjekter hvor fostervev benyttes og utførelse eller assistanse ved transplantasjon av fostervev er, etter det utvalget kjenner til,
-en lite benyttet rett. Etter utvalgets oppfatning står
-mindre på spill for ansatte som måtte ha kvaler
-ved slike arbeidsoppgaver enn ved abort. Dette
-fordi fostervevet stammer fra provosertaborterte
-fostre der det ikke er noen sammenheng mellom
-avgjørelsen om abort og den påfølgende bruken
-av fostervevet. Bruk av fostervev er ikke et
-moralsk relevant bidrag til at abort finner sted.
-Problemstillingen har derfor etter utvalgets oppfatning ikke den alvorlighetsgrad som bør kreves
-for at en lovfestet reservasjonsrett skal vurderes.
-Den mindre formelle reservasjonsadgangen som
-utvalget anbefaler når de tre hovedkriteriene er
-oppfylt bør være tilstrekkelig. Utvalget mener der-
-
-[Side 144]
-
-144
-
-Kapittel 11
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-for at reservasjonsbestemmelsen kan vurderes
-når bioteknologiloven skal revideres.
-Det følger av lov om rituell omskjæring av gutter at «[i] den grad det ikke hindrer et forsvarlig
-tilbud, skal det tas hensyn til helsepersonell som
-av samvittighetsgrunner ikke ønsker å utføre eller
-assistere ved slike inngrep». Lovbestemmelsen
-ved omskjæring er etter utvalgets oppfatning vag
-og skjønnsmessig, og gir ingen rett til reservasjon. Loven gir heller ingen nærmere veiledning
-om hva det skal tas hensyn til ved vurderingen av
-reservasjonsønsker. Utvalget foreslår at det, for
-eksempel ved evaluering av omskjæringsloven,
-undersøkes hvorvidt reservasjonsadgangen har
-vært praktisert likt ved de forskjellige helseforetakene. I forlengelsen av dette bør det vurderes om
-det er grunnlag for enten å endre adgangen til en
-rett tilsvarende abortforskriftens bestemmelse,
-eller å oppheve lovens reservasjonsadgang til fordel for lokale vurderinger på de aktuelle sykehusene. Utvalgets medlemmer Myskja, Magelssen og Øverenget vil anbefale det siste. Et samlet
-utvalg påpeker at reservasjonsadgang ved rituell
-omskjæring ofte kan være velbegrunnet: En dyp
-og viktig samvittighetsoverbevisning kan være i
-spill for legen (kriterium 1). Reservasjon kan også
-ofte finne sted uten ulemper for pasienter og pårørende (kriterium 2), fordi kollegaer eller private
-sykehus kan utføre inngrepet. Gitt at ikke for
-mange av avdelingens leger reserverer seg, vil det
-også være mulig å legge til rette for reservasjon i
-praksis uten for store ulemper for arbeidsgiver og
-kollegaer (kriterium 3).
-Dersom aktiv dødshjelp vedtas som en lovbestemt rettighet i Norge, mener utvalget at helsepersonell bør gis en lovbestemt reservasjonsrett
-av samme karakter som den som i dag finnes i
-abortloven med forskrift.
-
-11.3 Håndtering av samvittighetskonflikter i arbeidslivet
-11.3.1 Innledning
-I vurderingen av om det bør gis adgang for reservasjon, har utvalget lagt vekt på etiske forhold
-knyttet til samvittighetsfrihet. Utvalget har vurdert hvordan det praktisk kan legges til rette for
-at den enkelte kan utføre sitt arbeid på en måte
-som er i overensstemmelse med egen samvittighet, samtidig som det tas tilstrekkelig hensyn til
-berørte parter, som arbeidsgiver og tredjeparter.
-Utvalget står samlet om å mene at samvittighetsfriheten representerer en viktig verdi i et
-demokrati. Analysene dreier seg derfor i det alt
-
-vesentlige om å finne ut hvordan samvittigheten
-best mulig kan ivaretas i møte med andre sentrale
-demokratiske verdier og rettigheter. Generelt sett
-vil utvalget altså anbefale at det utvises fleksibilitet
-og legges til rette for at arbeidstakere kan unngå
-oppgaver som er i strid med deres samvittighet.
-Imidlertid forutsettes det at dette ikke i vesentlig
-grad går utover andre viktige hensyn. Det betyr at
-det i mange tilfeller kan legges til rette for reservasjon, mens det i andre tilfeller ikke vil være mulig
-uten for store negative konsekvenser for andre.
-For at det skal være aktuelt å vurdere reservasjon av samvittighetsgrunner, mener utvalget at
-det må foreligge en dyp samvittighetsbasert overbevisning om at det er moralsk galt å utføre den
-aktuelle oppgaven. Det må i tillegg kunne gjøres
-forståelig for andre at denne handlingen kan lede
-til en samvittighetskonflikt. Kravet til forståelighet
-vil være avhengig av situasjonen, og det kan ikke
-stilles opp entydige kriterier.
-Utvalget mener følgende tre spørsmål bør stå
-sentralt i vurderingen av samvittighetsbasert fritak i arbeidslivet:
-i. Bygger arbeidstakers ønske om reservasjon
-mot å utføre bestemte arbeidsoppgaver på en
-dyp og viktig samvittighetsoverbevisning?
-ii. Kan reservasjon finne sted uten at det er inngripende for tredjepart?
-iii. Er reservasjon gjennomførbart i praksis uten
-for store ulemper for arbeidsgiver og kollegaer?
-Utvalget legger som nevnt til grunn at det første
-kriteriet alltid må være oppfylt for at det i det hele
-tatt skal gi mening å vurdere samvittighetsbasert
-reservasjon. Kravet om reservasjon står sterkere
-dersom flere kriterier er oppfylt. Dersom alle de
-tre kriteriene er oppfylt mener utvalget det bør
-legges til rette for reservasjon.
-Hvordan en samvittighetskonflikt i arbeidslivet skal håndteres vil variere avhengig av om det
-er snakk om en arbeidstaker, selvstendig næringsdrivende eller arbeidssøker som opplever en samvittighetskonflikt.
-En arbeidstaker er i utgangspunktet bundet av
-den arbeidskontrakten han eller hun har inngått
-med arbeidsgiver og undergitt arbeidsgivers styringsrett. Lovregler kan imidlertid sette grenser
-for arbeidsgivers styringsrett. Diskrimineringsregelverket, arbeidsmiljøloven, menneskerettslige
-forpliktelser og bestemmelsen om reservasjonsrett i abortloven er eksempler på slike.
-Selvstendig næringsdrivende er ikke underlagt arbeidsavtale eller arbeidsgivers styringsrett,
-og kan i utgangspunktet inngå de avtaler han eller
-
-[Side 145]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-hun ønsker så lenge de ligger innenfor rammene
-av annen lovgivning. Eksempler på lover som setter slike rammer er diskrimineringsregelverket
-og apotekloven. Også oppdragskontraktene kan
-sette grenser for hva en selvstendig næringsdrivende kan og ikke kan reservere seg mot å utføre.
-Enkelte selvstendige næringsdrivende har inngått kontrakter med staten om å utføre oppgaver
-på vegne av det offentlige. Det gjelder for eksempel fastleger og faste forsvarere. De vil være bundet av de kontraktene de har inngått med myndighetene og er pliktige til å utføre de oppgavene
-som må utføres for at det offentlige kan sies å opprettholde et tilstrekkelig tjenestetilbud.
-
-11.3.2 Arbeidstakere
-Tiltak før eventuelle samvittighetskonflikter
-Utvalget anbefaler altså at det ikke vedtas noen
-generell lovgivning som regulerer samvittighetsnektelser i arbeidslivet, men at slike konflikter
-heller løses konkret på den enkelte arbeidsplassen.
-Samvittighetskonflikter kan oppstå på mange
-ulike typer arbeidsplasser. Det kan derfor være
-hensiktsmessig at arbeidsgivere tenker gjennom
-muligheten for at enkelte arbeidstakere vil kunne
-få samvittighetskvaler knyttet til oppgaver på
-arbeidsplassen, og hvordan slike konflikter kan
-håndteres og løses. Ulike samvittighetskonflikter
-må kanskje behandles ulikt, men uansett vil det
-være til god hjelp for en arbeidsgiver om han eller
-hun har forberedt seg på hvilke samvittighetskonflikter som kan være sannsynlige, hvem som kan
-bidra med kunnskap og hvordan en eventuell konflikt kan håndteres.
-Dersom det dreier seg om religiøse ritualer og
-praksiser, kan det for eksempel være aktuelt å ta
-kontakt med det aktuelle tros- eller livssynssamfunnet for å få innspill til løsninger. Det kan også
-tenkes at arbeidsgiver- og bransjeorganisasjoner
-eller andre virksomheter som driver med det
-samme kan bidra med kunnskap og forslag til løsninger.
-I et stadig mer flerkulturelt samfunn vil det
-antakelig oftere enn tidligere dukke opp tilfeller
-hvor noen arbeidstakere vil ha problemer med å
-utføre enkelte arbeidsoppgaver av samvittighetsårsaker. Noen arbeidsplasser har utarbeidet egne
-retningslinjer for hvordan arbeidstakerne forventes å opptre på arbeidsplassen for å sikre et inkluderende arbeidsmiljø hvor arbeidstakerne både
-har respekt for hverandre og kundene, og hvor
-det ikke skal forekomme diskriminering hverken
-
-145
-
-Kapittel 11
-
-av andre ansatte, kunder eller andre tredjeparter.
-Det er også utgitt flere publikasjoner for å bedre
-kunnskapen om det kulturelle mangfoldet. Blant
-annet har Samarbeidsrådet for tros- og livssynssamfunn (STL) utarbeidet brosjyren Livsfaseriter,
-religions- og livssynspolitiske utfordringer i
-Norge3 og Likestillings- og diskrimineringsombudet (LDO) har utarbeidet en håndbok for arbeidslivet om Religion på arbeidsplassen.4 Også flere
-tros- og livssynssamfunn har utgitt brosjyrer og
-laget nettsider med relevant informasjon. Utvalget
-mener det er naturlig at også samvittighetskonflikter på arbeidsplassen tas opp i slike veiledninger. Det samme gjelder veiledningsmateriell som
-utarbeides av partene i arbeidslivet.
-Mange samvittighetskonflikter oppstår som
-følge av en persons religion og livssyn. Det betyr
-at den det gjelder ikke nødvendigvis har noe imot,
-eller i hvert fall aksepterer, at en annen utfører
-oppgaven. Det kan også tenkes tilfeller der en person mener oppgaven strider mot lover, avtaler
-eller den allmenne moral, og at den egentlig ikke
-bør utføres i det hele tatt. I visse tilfeller vil det da
-være naturlig å etablere en varslingssak. Det vil si
-at arbeidstaker varsler arbeidsgiver om at det bør
-vurderes om forhold i virksomheten er kritikkverdige. For slike varslingssaker er det utarbeidet
-egne prosedyreregler i arbeidsmiljøloven. Det er
-ikke gitt at en arbeidstaker kan nekte å utføre en
-oppgave han eller hun mener er kritikkverdig.
-Prosess
-I utgangspunktet ønsker arbeidstakere å gjøre en
-god jobb, slik at både arbeidsgivere, kollegaer og
-andre blir fornøyde. Når en samvittighetskonflikt
-oppstår for en arbeidstaker, og vedkommende må
-be seg fritatt fra oppgaver som det i utgangspunktet forventes at vedkommende skal gjøre, kan
-dette oppleves som en vanskelig situasjon. Utvalget mener derfor at det er viktig å håndtere slike
-situasjoner med varsomhet. Selv om det som
-oftest er nødvendig at arbeidstaker selv tar initiativ til en prat med arbeidsgiver om situasjonen, og
-kanskje også har noen ideer om mulige løsninger,
-er det viktig at arbeidsgiver reagerer med forståelse og respekt. For at situasjonen skal bli minst
-mulig belastende for arbeidstakeren, bør det være
-opp til ham eller henne hvem som skal involveres,
-enten det dreier seg om tillitsvalgte eller representanter fra andre organisasjoner.
-3
-4
-
-Plesner og Døving (2009).
-Likestillings- og diskrimineringsombudet (2009).
-
-[Side 146]
-
-146
-
-Kapittel 11
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Utvalget mener generelt at det vil være best at
-situasjonen løses på lavest mulig nivå, med færrest mulig involverte. Dersom arbeidstakeren har
-behov for støtte eller for å belyse konsekvenser
-for kollegaer, kan tillitsvalgte involveres i samtalen.
-Dersom situasjonen ikke lar seg løse, kan det
-være aktuelt å trekke inn ekstern bistand. Dette
-kan for eksempel være representanter for et troseller livssynssamfunn, juridisk bistand eller
-arbeidstaker- og arbeidsgiverorganisasjoner.
-Det er viktig at behandlingen av samvittighetskonflikter på arbeidsplassen kan gjøres på en tillitsfull, fleksibel og grundig måte slik at både
-arbeidstakeren og arbeidsgiveren kan leve med
-resultatet uansett hva det måtte bli.
-Anvendelse av utvalgets kriterier
-Utvalget anbefaler at arbeidsgivere vurderer
-ønsker om reservasjon i lys av de tre kriteriene
-utvalget har utformet, se punkt 11.3.1.
-Det kanskje mest utfordrende for en arbeidsgiver å vurdere når en arbeidstaker ber om fritak fra
-å utføre en arbeidsoppgave, vil være hvorvidt
-dette dreier seg om en dyp og viktig samvittighetsoverbevisning. Dette legger et ansvar både på
-arbeidstakere og arbeidsgivere. Arbeidstaker har
-et moralsk ansvar for ikke å påberope seg samvittighetskonflikter i utide. Behovet må være reelt og
-betydelig og henvisningen til samvittighetsoverbevisningen må være oppriktig. Arbeidsgivere har
-et tilsvarende moralsk ansvar for å forsøke å forstå
-arbeidstakerens framstilling av samvittighetskonflikten han eller hun er i.
-I utgangspunktet vil det være et inngrep i
-arbeidstakers privatliv å pålegge ham eller henne
-å fortelle om sine overbevisninger eller livssyn.
-Utvalget mener likevel det stiller seg annerledes
-når det er arbeidstaker som krever tilpasninger på
-denne bakgrunnen. Arbeidstakeren må derfor
-redegjøre for bakgrunnen for sitt reservasjonsønske og etter beste evne forsøke å gjøre dette forståelig for arbeidsgiveren. Ettersom utvalget legger til grunn at det bare er dype og viktige samvittighetsoverbevisninger som kan danne grunnlag
-for innfrielse av et reservasjonsønske, må arbeidstakerens redegjørelse være egnet til å overbevise
-arbeidsgiveren om at det faktisk er snakk om en
-slik situasjon. Det kan ikke utelukkes at det i noen
-tilfeller kan være vanskelig for en arbeidstaker å
-gi en tilstrekkelig overbevisende redegjørelse, og
-at både religiøse og kulturelle forskjeller kan
-bidra til det. I så fall vil det være til stor nytte dersom arbeidstaker kan henvende seg til relevante
-
-tros- og livssynssamfunn, interesserorganisasjoner, andre kollegaer, tillitsvalgte eller arbeidstakerorganisasjoner og andre som kan hjelpe i en
-slik situasjon.
-Arbeidsgiveren plikter på sin side å lytte til
-arbeidstakerens forklaring og vise forståelse for at
-reservasjonsønsket kan grunne i en dyp og viktig
-samvittighetsoverbevisning. Det kan imidlertid
-tenkes at for dårlig kunnskap om andres religion
-og livssyn medfører at det blir vanskelig å forstå at
-et reservasjonsønske skyldes en dyptgripende og
-viktig samvittighetskonflikt. Det kan også tenkes
-at en arbeidsgiver vil være grunnleggende uenig i
-at reservasjonsønsket kan skyldes en så dyptgripende og viktig samvittighetskonflikt som
-arbeidstaker hevder. Arbeidsgiver kan også være
-grunnleggende politisk uenig i arbeidstakerens
-holdning til et omstridt område, som for eksempel
-vielse av likekjønnede og selvbestemt abort.
-Utvalget anbefaler at det legges stor vekt på
-arbeidstakers forklaring, også der den kan være
-vanskelig å forstå. Utvalget mener det må påhvile
-et gjensidig ansvar på arbeidstaker og arbeidsgiver for å gjøre forklaringen forståelig.
-Arbeidstakeren bør, dersom arbeidsgiver
-ønsker det, aktivt bidra med forslag og ideer for
-hvordan et reservasjonsønske kan løses i praksis
-uten at det går ut over arbeidsgiver, kollegaer
-eller tredjeparter. I en virksomhet med et godt
-arbeidsmiljø, gode rutiner for partssamarbeid, en
-kreativ grunninnstilling og et ønske om smidige
-løsninger mener utvalget at arbeidsgiver og
-arbeidstaker bør kunne drøfte seg fram til noen
-løsninger som så kan måles opp mot kriterium to
-og tre.
-Et tegn på at det dreier seg om en dyp og viktig samvittighetsoverbevisning for arbeidstaker er
-at han eller hun er villig til å påta seg mindre
-attraktive oppgaver. Det kan dessuten kompensere for ulemper for arbeidsgiver og kollegaer. At
-arbeidstaker vurderer å slutte i jobben dersom
-vedkommende må utføre arbeidsoppgaven, er
-også et viktig tegn på at det dreier seg om en dyp
-og viktig samvittighetsoverbevisning.
-Dersom det faktisk foreligger en dyp og viktig
-samvittighetsoverbevisning, vil hensynet til tredjepart være det viktigste. Jo større konsekvenser
-reservasjonen vil få for tredjepart, jo mer svekkes
-grunnen for å gi reservasjon. Konsekvensene for
-tredjepart vil kunne variere fra vesentlige inngrep i
-tredjeparts rettigheter, til at tredjeparter knapt
-merker at noen har reservert seg mot en oppgave.
-At en kunde ikke kan betale for alkohol i en av
-flere kasser i en butikk fordi en ansatt ikke ønsker
-å selge alkohol av samvittighetsgrunner, kan
-
-[Side 147]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-neppe sies å gå mer utover kundene enn dersom
-den ansatte i kassa er under 18 år og av den grunn
-ikke kan selge alkohol. Det samme må kunne sies
-om en apotekansatt som overlater til en kollega å
-veilede om prevensjonsmidler uten å tilkjennegi
-sitt syn på for eksempel spiral. Dersom den
-samme apotekansatte derimot hadde gitt uttrykk
-for at spiral er et uetisk prevensjonsmiddel, ville
-det kunne oppleves støtende for kunden. Dersom
-reservasjon medfører at kunden ikke får den varen
-han eller hun ellers ville ha fått, eller må vente på å
-få den på grunn av reservasjonen, vil det medføre
-en større og kanskje uakseptabel ulempe for kunden. At en person ikke får den lovbestemte rettigheten han eller hun har krav på, eller ikke får den
-innen rimelig tid, er åpenbart en alvorlig og uakseptabel konsekvens av reservasjon.
-At en arbeidstaker ønsker å reservere seg mot
-å utføre en oppgave medfører at kollegaene må
-gjøre jobben. Ofte vil arbeidet kunne omorganiseres på en slik måte at det ikke innebærer nevneverdige problemer for andre. I andre tilfeller kan
-det medføre en betydelig økt arbeidsbyrde på kollegaer og de kan få mindre kapasitet til andre mer
-attraktive arbeidsoppgaver. I mange sammenhenger vil det for eksempel kunne legges til rette for
-at en ansatt i en matvarebutikk som har behov for
-å reservere seg mot å håndtere svinekjøtt og alkohol, får jobbe i fiskedisken, fylle på varer eller
-utføre annet arbeid som foregår i en butikk. Hvis
-ansettelsen gjelder sesongarbeid før jul på et slakteri er det kanskje vanskeligere å tenke seg at en
-ansatt skal kunne reservere seg mot å håndtere
-svinekjøtt.
-Det kan også tenkes at kollegaer må ta på seg
-en større andel av moralsk problematiske arbeidsoppgaver. Dersom en arbeidstaker har behov for å
-reservere seg av samvittighetsgrunner som grunner seg på religion, vil ofte andre ikke ha tilsvarende dype og viktige samvittighetsoverbevisninger knyttet til den oppgaven. Dersom det dreier
-seg om mer allmenne etiske dilemmaer som for
-eksempel utføring av abort, er det ikke vanskelig å
-tenke seg at det kan være følelsesmessig belastende å utføre en større andel aborter som følge av
-andres reservasjon, selv om man selv ikke ønsker
-å reservere seg. Reservasjon vil således også
-kunne føre til et dårligere kollegialt arbeidsmiljø.
-Reservasjon kan også være til ulempe for
-arbeidsgiver. At en eller flere reserverer seg mot å
-utføre enkelte oppgaver kan for eksempel medføre økte administrative og økonomiske konsekvenser for arbeidsgiver, som kanskje må endre
-på enkelte arbeidsrutiner eller spesialtilpasse
-turnuser og arbeidsplaner. Dersom reservasjon
-
-147
-
-Kapittel 11
-
-fører til at det ikke kan tilbys en gitt tjeneste i et
-tidsrom, kan det også føre til tapte inntekter for
-arbeidsgiver.
-Når arbeidstaker har bedt om reservasjon og
-redegjort for sine dype og viktige samvittighetsgrunner er det viktig at arbeidsgiver har en positiv
-tilnærming og fatter en avgjørelse etter beste
-skjønn. Dersom en arbeidstaker til stadighet
-skulle påberope seg samvittighet som grunnlag
-for reservasjon, må arbeidsgiver kunne kreve noe
-mer, jf. ovenfor hvor det framgår at en arbeidstaker ikke må fremme krav eller ønske om reservasjon i utide. Det samme gjelder ved mistanke om
-misbruk. I slike tilfeller vil resultatet kunne bli
-oppsigelse av arbeidstaker som følge av ordrenekt
-heller enn tilrettelegging for reservasjon som
-følge av en dyp og viktig samvittighetsgrunn.
-Dersom arbeidsgiver kommer til at det ikke er
-mulig å tilrettelegge for reservasjon, vil det få
-store konsekvenser for arbeidstaker. Arbeidstakeren kan velge å utføre oppgaven og dermed
-handle i strid med sin samvittighet. Alternativt
-kan arbeidstakeren føle seg tvunget til å avslutte
-arbeidsforholdet ved å si opp. Arbeidstaker kan
-også nekte å utføre arbeidsoppgaven, noe som
-kan føre til at han eller hun blir sagt opp. I noen tilfeller kan en god og respektfull prosess der
-arbeidstaker opplever å bli tatt på alvor, føre til at
-arbeidstaker endrer syn på hvorvidt det er mulig
-for vedkommende å utføre den aktuelle arbeidsoppgaven. Utvalget mener også at en god og
-respektfull prosess der arbeidstakeren opplever å
-bli tatt på alvor kan føre til at en eventuell avslutning av arbeidsforholdet oppleves som akseptabel.
-Uansett om reservasjonskravet fører til at
-arbeidsforholdet avsluttes eller ikke, mener utvalget at konsekvensene er så store for arbeidstakeren at det er viktig at arbeidsgiver begrunner
-hvorfor det ikke kan legges til rette for reservasjon. Dersom det ender med oppsigelse, følger det
-av arbeidsmiljøloven at arbeidstaker kan kreve at
-arbeidsgiver oppgir begrunnelsen for oppsigelsen.
-Politi, tollvesen, domstol og forsvar
-For noen grupper arbeidstakere som utøver makt
-på vegne av staten har det vært omfattende debatter om bruk av religiøse plagg og symboler. Dette
-gjelder uniformerte arbeidstakere i forsvaret, politiet og tollvesenet, samt dommere.5 Begrunnelsen
-5
-
-For mer om dette, se særlig NOU 2013: 1 punkt 13.3.2 og
-Strand (2012) s. 255 flg. og s. 357 flg. I dag er det bare politiet som i sitt uniformsreglement har forbud mot bruk av
-religiøse plagg og symboler.
-
-[Side 148]
-
-148
-
-Kapittel 11
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-for at det eventuelt skal settes strengere rammer
-for ansattes bruk av religiøse symboler og plagg
-for akkurat disse arbeidstakerne, har særlig vært
-hensynet til nøytralitet. Spørsmålet er om dette
-hensynet bør føre til at adgangen til reservasjon
-mot utførelse av arbeidsoppgaver bør være snevrere for disse arbeidstakerne.
-Etter utvalgets mening vil en vid reservasjonsadgang for disse gruppene kunne svekke inntrykket av militærets, politiets, tollvesenets eller domstolenes rolle som nøytrale håndhevere av loven.
-En reservasjonsadgang vil nettopp innebære at
-vedkommende arbeidstaker ikke alltid utfører de
-arbeidsoppgavene som ligger til stillingen, og dermed ikke er en lojal håndhever av loven i alle tilfeller. Det at en arbeidstaker ønsker å reservere
-seg mot en arbeidsoppgave innebærer selvsagt
-ikke at vedkommende ikke utfører jobben sin
-samvittighetsfullt, men utad kan det framstå som
-at statens utøvere av makt ikke er nøytrale.
-Som det framgår av eksempelet i punkt 8.12
-om politiet, mener utvalget at spørsmål om samvittighetsfritak for offentlig ansatte i et demokrati
-generelt sett bør behandles med åpenhet. Det
-angår borgernes tillit til myndighetenes nøytralitet i moralske kontroverser og de offentlig ansattes lojalitet overfor lovverket. Utvalget mener derfor at denne gruppen av arbeidstakere må ha en
-snevrere adgang til reservasjon, og det bør være
-spesielt sterke grunner for samvittighetsbaserte
-fritak for disse gruppene av arbeidstakere.
-
-11.3.3 Selvstendig næringsdrivende
-Utvalgets mandat ber først og fremst om en vurdering av samvittighetsfrihet for arbeidstakere ved
-utførelse av arbeidsoppgaver, og utvalget har derfor konsentrert seg om ordinære ansettelsesforhold. Mandatet viser imidlertid også til at oppdragsforhold, som for eksempel fastlegeordningen, kan føre til at samvittighetskonflikter oppstår
-også for selvstendig næringsdrivende. Selvstendig
-næringsdrivende kan i utgangspunktet inngå eller
-la være å inngå de avtaler de ønsker så lenge de
-ligger innenfor rammene av annen lovgivning,
-herunder diskrimineringsregelverket. For selvstendig næringsdrivende som har en løpende kontrakt vil det imidlertid kunne oppstå samvittighetskonflikter som er sammenlignbare med dem
-arbeidstakere kan oppleve. Næringsdrivende er
-riktignok verken underlagt noen arbeidsavtale
-eller arbeidsgivers styringsrett, men vil like fullt
-være bundet av de avtaler de inngår. Oppdragsavtaler vil, i motsetning til arbeidsavtaler, i utgangspunktet inngås mellom likeverdige parter, og det
-
-avtalerettslige rammeverket er derfor noe annerledes. Som det framgår av kapittel 6, kan også
-annen lovgivning begrense handlefriheten til selvstendig næringsdrivende.
-Enkelte kontrakter som inngås med myndighetene innebærer at den selvstendig næringsdrivende skal utføre oppgaver på vegne av det offentlige. Slike kontrakter kan stille særlige krav til
-hvordan, og av hvem, oppgavene skal utføres.
-Etter gjeldende rett kan blant annet fastleger og
-faste forsvarere anmode om å overlate saker til
-andre for eksempel på grunn av at andre har
-annen og bedre kompetanse eller kapasitet. Når
-det gjelder fastleger, er det som tidligere nevnt
-fastslått av Helse- og omsorgsdepartementet at
-det ikke er mulig å omfordele saker med henvisning til samvittighet. For fastleger som hadde problem med henvisning til abort, er denne saken
-løst ved at de ikke lenger henviser til abort. Imidlertid kan det tenkes andre situasjoner hvor samvittighetskonflikter kan oppstå for næringsdrivende som utfører oppgaver på vegne av det
-offentlige.
-Utvalget oppfordrer til at myndighetene, ved
-utforming av slike avtaler, tar stilling til hvorvidt
-det er mulig å gi et forsvarlig tilbud og samtidig gi
-anledning til de selvstendig næringsdrivende som
-har inngått kontrakten å ivareta sin egen samvittighet.
-Generelt mener utvalget at de samme prinsippene som er lagt til grunn for arbeidstakeres samvittighetsfritak bør gjelde også for selvstendig
-næringsdrivende med kontrakt med offentlige og
-private oppdragsgivere.
-
-11.3.4 Arbeidsledige
-Personer som er arbeidsledige på grunn av samvittighetskonflikter kan i hovedsak deles inn i to
-grupper; de som har måttet slutte i et arbeidsforhold fordi det ikke var mulig å tilrettelegge for
-reservasjon og de som ikke kan ta en jobb fordi
-den vil medføre oppgaver vedkommende ikke kan
-gjøre av samvittighetshensyn. Dersom den
-arbeidsledige selv har sluttet i sitt tidligere arbeid
-eller nekter å søke eller ta nytt arbeid «uten rimelig grunn», vil vedkommende bli ilagt økonomiske
-sanksjoner i form av minst 12 ukers suspensjon av
-dagpenger. NAV har i sitt rundskriv lagt til grunn
-at en arbeidstaker som har «sluttet i arbeidsforholdet fordi han/hun ikke fikk tilpasset arbeidsavtale forenlig med tro, ønsker eller livssyn» vanskelig kan anses som å ha en slik «rimelig grunn».6
-6
-
-Arbeids- og velferdsetaten (2013a).
-
-[Side 149]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Utvalget mener at dersom samfunnet skal ivareta samvittighetsfriheten i arbeidslivet, må den
-ivaretas også når en person søker arbeid eller har
-mistet jobben som følge av en samvittighetskonflikt. Konsekvensene for den arbeidsledige ved
-ikke å få dagpenger er stor, ettersom han eller
-hun mister hele sitt økonomiske livsgrunnlag for
-en lengre periode. Dette utgjør utvilsomt et stort
-inngrep. Argumentet som kan brukes overfor
-arbeidstakere med samvittighetskvaler om at «du
-kan da bare si opp», står svakt når konsekvensen
-er både tap av inntekt og kompenserende trygdeytelser inntil vedkommende finner passende
-arbeid. Det tilsier at samvittighetsgrunner også
-må tillegges vekt i denne sammenhengen.
-
-149
-
-Kapittel 11
-
-Utvalget mener at Trygderettens praksis som
-refereres i punkt 6.4 gir uttrykk for en fornuftig
-avveining av hensynene. Utvalget vil derfor anbefale at det ved vurderingen av hvorvidt en arbeidssøker skal ha rett på dagpenger, bør tas hensyn til
-samvittighetsgrunner i tråd med Trygderettens
-praksis. Også i denne vurderingen mener utvalget
-at det kan være hensiktsmessig å legge de tre kriteriene til grunn for avgjørelsen. Det må selvsagt
-være en forutsetning at arbeidssøkers innsigelser
-mot mulige arbeidsforhold ikke er så omfattende
-at han eller hun ikke framstår som en reell arbeidssøker.
-
-[Side 150]
-
-150
-
-Referanser og litteratur
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Referanser og litteratur
-Lover og forskrifter
-Abortloven: Lov 13. juni 1975 nr. 50 om svangerskapsavbrudd (abortloven).
-Apotekloven: Lov 2. juni 2000 nr. 39 om apotek
-(apotekloven).
-Arbeidsmiljøloven: Lov 17. juni 2005 nr. 62 om
-arbeidsmiljø, arbeidstid og stillingsvern mv.
-(arbeidsmiljøloven).
-Bioteknologiloven: Lov 5. desember 2003 nr. 100
-om humanmedisinsk bruk av bioteknologi
-m.m. (bioteknologiloven).
-Burettslagslova: lov 6. juni 2003 nr. 39 om burettslag (burettslagslova).
-Diskrimineringsloven om seksuell orientering:
-Lov 21. juni 2013 nr. 58 om forbud mot diskriminering på grunn av seksuell orientering,
-kjønnsidentitet og kjønnsuttrykk (diskrimineringsloven om seksuell orientering).
-Diskrimineringsloven om etnisitet: Lov 21. juni
-2013 nr. 60 om forbud mot diskriminering på
-grunn av etnisitet, religion og livssyn (diskrimineringsloven om etnisitet).
-Diskriminerings- og tilgjengelighetsloven: Lov
-21. juni 2013 nr. 61 om forbud mot diskriminering på grunn av nedsatt funksjonsevne (diskriminerings- og tilgjengelighetsloven).
-Domstolloven: Lov 13. august 1915 nr. 5 om domstolene (domstolloven).
-Ekteskapsloven: Lov 4. juli 1991 nr. 47 om ekteskap [ekteskapsloven].
-EØS-loven: Lov 27. november 1992 nr. 109 om
-gjennomføring i norsk rett av hoveddelen i
-avtale om Det europeiske økonomiske samarbeidsområde (EØS) m.v. (EØS-loven).
-Folketrygdloven: Lov 28. februar 1997 nr. 19 om
-folketrygd (folketrygdloven).
-Grunnloven: Lov av 17. mai 1814 nr. 00: Kongeriket Norges Grunnlov.
-Helse- og omsorgstjenesteloven: Lov 24. juni 2011
-nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven).
-Kirkeloven: Lov 7. juni 1996 nr. 31 om Den norske
-kirke (kirkeloven).
-
-Likestillingsloven: Lov 21. juni 2013 nr. 59 om likestilling mellom kjønnene (likestillingsloven).
-Lov 13. juni 1969 nr. 25 om trudomssamfunn og
-ymist anna.
-Lov 9. februar 1972 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. (opphevet).
-Lov av 21. april 1972 nr. 18.om oppheving av straffeloven av 22. mai 1902 nr. 10.
-Lov 8 mai 1981 nr. 14 om endringer i straffelovens
-§ 135 a og § 349 a (forbud mot diskriminering
-av homofile).
-Lov 12. juni 1981 nr. 64 om tilskott til livssynssamfunn.
-Lov 30. april 1993 nr. 40 om registrert partnerskap
-(Opphevet ved lov 27. juni 2008 nr. 53).
-Lov 30. april 1998 nr. 24 om endringer i lov av
-4. februar 1977 nr. 4 om arbeidervern og
-arbeidsmiljø m.v. (arbeidsmiljøloven).
-Lov 26. mars 2004 nr. 15 om endringer i lov
-4. februar 1977 nr. 4 om arbeidervern og
-arbeidsmiljø mv. (likebehandling i arbeidslivet) m.m.
-Lov 27. juni 2008 nr. 53 om endringer i ekteskapsloven, barnelova, adopsjonsloven, bioteknologiloven mv. (felles ekteskapslov for heterofile
-og homofile par).
-Lov 9. april 2010 nr. 12 om endringer i arbeidsmiljøloven, likestillingsloven, diskrimineringsombudsloven og diskriminerings- og tilgjengelighetsloven.
-Lov 20. juni 2014 nr. 40 om rituell omskjæring av
-gutter.
-Menneskerettsloven: Lov 21. mai 1999 nr. 30 om
-styrking av menneskerettighetenes stilling i
-norsk rett (menneskerettsloven).
-Opplæringslova: Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova).
-Pasient- og brukerrettighetsloven: Lov 2. juli 1999
-nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven).
-Politiloven: Lov 4. august 1995 nr. 53 om politiet
-(politiloven).
+Førde, R., O. Aasland (2013): Moralsk stress og faglig ytringsfrihet blant leger. Tidsskrift for Den norske legeforening, 133(12–13), 1310–1314
+
+Førde, R., O. Aasland og E. Falkum (1997): The ethics of euthanasia – attitudes and practice among Norwegian physicians. Soc. Sci. Med. 1997; 45: 887 – 92.
+
+Førde, R., M. Magelssen, E. Meland, E. Swensen (2013): Reservasjon – Rapport fra arbeidsgruppe nedsatt av Den norske legeforening.
+
+Gleditsch, B. O. og B. Holseth (2015): Selvsagt styrer skolen mot mål og resultater. Det har den alltid gjort. Dagbladet 1. september 2015. http://www.dagbladet.no/2015/09/01/ kultur/meninger/kronikk/lokale/valg15- vestfold/40907463/ (sist besøkt 8. juli 2016).
+
+Gran, E. (2015): Lærere tvinges med på gudstjeneste. Fritanke.no 4. desember 2015.
+
+Haaland, E. et. al. (2014): Ikke reelt bortfall av henvisningsplikten. Tidsskrift for den norske legeforening 2014; 134:1646.
+
+Haaland, E. (2016): Presentasjon for Samvittighetsutvalget 15. januar 2016.
+
+Habermas, J. (1992): Faktizität und Geltung. Frankfurt: Suhrkamp.
+
+Habermas, J. (2006): Philosophy in the Public Sphere. European Journal of Philosophy 14, s. 1–25.
+
+Hanger, M. R. (2016): Kan bli ny runde om reservasjonsrett. Dagens medisin 26. februar 2016. http://www.dagensmedisin.no/artikler/ 2016/02/26/-kan-bli-ny-runde-om- reservasjonsrett/ (sist besøkt 8. juli 2016).
+
+Heggheim, S. og I. T. Dahlback (2014): Politimann kallar utkasting «skam» – får støtte. NRK Sørlandet 28. mai 2014. http://www.nrk.no/ sorlandet/politimann-far-stotte-1.11746198 (sist besøkt 8. juli 2016).
+
+Hellum, A. og H. S. Aasen (red.) (2013): Women’s Human Rights, CEDAW in International, Regional and National Law. Cambridge University Press.
+
+Hollekim, R. et. al. (2012): A nationwide study of Norwegian beliefs about same-sex marriage and lesbian and gay parenthood. Sexuality Research & Social Policy 2012; Volum 9.(1).
+
+Hotvedt, M. J. og T. S. Ulseth (2013): Arbeidsavtalen og styringsrett: Harmoni i en domsoktett, Arbeidsrett 2013 s. 112–128.
+
+Högfeldt, D. (2016): Kristna bagare betalade miljonskadestånd. Världen idag 8. januar 2016. http://www.varldenidag.se/nyheter/ kristna-bagare-betalade-miljonskadestand/ cbbpah!sWJXyWuYRKzmPUmYOMK3Gg/ (sist besøkt 8. juli 2016).
+
+Høstmælingen, N. (2003): Internasjonale Menneskerettigheter, Oslo: Universitetsforlaget.
+
+Hålien, E. (2002): Av hensyn til signaleffekten. Bergens Tidende 22. februar 2002.
+
+Jacobsen, L., S. Strøm og T. Abelsen (2015): Advokatforeningen: – Frykter for rettsikkerheten til asylsøkere. NRK Finnmark 19. november 2015. https://www.nrk.no/ finnmark/advokatforeningen-frykter-for- rettsikkerheten-til-asylsokere-1.12662837 (sist besøkt 8. juli 2016).
+
+Jelstad, J. og K. O. Vedvik (2014): Lærerne som nektet. Utdanning, 4: 14.
+
+Johansen, P. O. (2011): Jødeforfølgelsene og det norske rettsoppgjøret. Foredrag holdt i Jødisk museum Oslo 1. desember 2011. Tilgjengelig på: http://www.jus.uio.no/ikrs/ tjenester/kunnskap/kriminalpolitikk/aktuelt/ Tema/jodeforfolgelse/ (sist besøkt 28. juli 2016).
+
+Jonsen, A. R. og S. Toulmin (1988): The Abuse of Casuistry. A History of Moral Reasoning. Berkeley: University of California Press.
+
+Kälvemark, S., A. T. Höglund, M. G. Hansson, P. Westerholm og B. Arnetz (2004): Living with conflicts – ethical dilemmas and moral distress in the health care system. Social Science & Medicine, 58(6), 1075–1084.
+
+Kirchgaessner, S., P. Duncan, A. Nardelli og D. Robineau (2016): Seven in 10 Italian gynaecologists refuse to carry out abortions. The Guardian 11. mars 2016. http://www.theguardian.com/world/ 2016/mar/11/italian-gynaecologists- refuse-abortions-miscarriages (sist besøkt 8. juli 2016).
+
+Kirkemøtet (2016): Kirkemøtets vedtak 11. april 2016. KM 17/16 Kirkelig vigsel for likekjønnede par.
+
+Kirkerådet (2015): Brev av 18. desember 2015 til Kunnskapsdepartementet ved Torbjørn Røe Isaksen. https://kirken.no/globalassets/ kirken.no/om-kirken/slik-styres-kirken/ kirkeradet/2016/januar/kr_02_2_16\_ retningslinjer_for_skolegudstjenester.pdf (sist besøkt 8. juli 2016).
+
+Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst (KNMG) (2011): Position paper: The role of the physician in the voluntary termination of life.
+
+Kuczewski, M. G. (1997): Fragmentation and Consensus. Communitarian and Casuist Bioethics. Washington, D.C.: Georgetown University Press.
+
+LaFollette, H. (2016): My Conscience May Be My Guide, but You May Not Need to Honour It. Cambridge Quarterly of Healthcare Ethics, First View Article, 2016. DOI: http:dx.doi.org/ 10.1017/S0963180116000256 (sist besøkt 8. juli 2016).
+
+Likestillings- og diskrimineringsombudet (2009): Religion på arbeidsplassen, håndbok for arbeidslivet.
+
+Maclure, J. og C. Taylor (2011): Secularism and the Freedom of Conscience. Cambridge Mass: Harvard University Press.
+
+Magelssen, M. og T. Folstad (2011): Bør leger ha reservasjonsrett ved assistert befruktning? Etikk i praksis 2011: 5(2); 7–22.
+
+Magelssen, M. og G. O. Langeland (2014): Fastlegers reservasjonsadgang – hyklersk eller velbegrunnet? Etikk i praksis 2014;8(2):69–81.
+
+Magelssen, M. (2015): NOBAS-undersøkelsen 2015, Senter for medisinsk etikk, Universitetet i Oslo. http://www.med.uio.no/helsam/ english/research/projects/norwegian- bioethics-attitude-survey/ (sist besøkt 8. juli 2016).
+
+Mathiesen, T. (2011): Retten i samfunnet, En innføring i rettssosiologi. Oslo: Pax Forlag.
+
+Miller, R. B. (1995): Casuistry and Modern Ethics. A Poetics of Practical Reasoning. Chicago: University of Chicago Press.
+
+Ministerie van Buitenlandse Zaken (2010): The Ministry of foreign affairs: FAQ Euthanasia, The Termination of Life on Request and Assisted Suicide (Review Procedures) Act in practice. http://www.patientsrightscouncil.org/site/ wp-content/uploads/2012/03/Netherlands_Ministry_of_Justice_FAQ\_ Euthanasia_2010.pdf (sist besøkt 8. juli 2016).
+
+Møse, E. (2002): Menneskerettigheter. Oslo: Cappelen Akademisk Forlag.
+
+Nordberg, E. M. K. et al. (2014): Conscientious objection to referrals for abortion: pragmatic solution or threat to women’s rights? BMC Medical Ethics 2014; 15:15.
+
+Nordpoll, K. N. (2014): Prevensjonsmiddel sin verknad etter befruktning – vitskap og etikk. Hovudoppgåve ved Det medisinske fakultet, NTNU.
+
+Nussbaum, M. (2008): Liberty of Conscience, New York: Basic Books.
+
+Nordstrand M. A. et al. (2013): Medisinstudenters holdninger til legalisering av eutanasi og legeassistert selvmord. Tidsskrift for den norske legeforening 2013: 133(22); 2359–2363.
+
+NTB (2010): Killengren: – Uaktuelt å gi fritak av samvittighetsgrunner. TV2 30. juli 2010. http://www.tv2.no/a/3256900?referrer= tv2no_menu (sist besøkt 8. juli 2016).
+
+NTB (2016a): Asylinstruks skaper uro i UDI. NRK 7. januar 2016. http://www.nrk.no/ norge/asylinstruks-skaper-uro-i-udi-1.12736965 (sist besøkt 8. juli 2016).
+
+NTB (2016 b): Høykommissæren kritisk til ny asylinstruks. NRK Finnmark 15. januar 2016. http://www.nrk.no/finnmark/ hoykommissaeren-kritisk-til-ny-asylinstruks-1.12751976 (sist besøkt 8. juli 2016).
+
+Oksvold, J. J. (2013): Homofilt samliv er ikke tillatt i islam. Islamnet 25. januar 2013. http://www.islamnet.no/aktuelt/ samfunnsdebatten/item/81-homofilt- samliv-er-ikke-tillatt-i-islam (sist besøkt 8. juli 2016).
+
+Olsen, T. (2016): FN: Norge bryter internasjonale asylregler på Storskog. Aftenposten 19. januar 2016. http://www.aftenposten.no/ nyheter/iriks/FN-Norge-bryter- internasjonale-asylregler-pa-Storskog-8320369.html (sist besøkt 8. juli 2016).
+
+Parekh, B. (2002): Rethinking Multiculturalism: Cultural Diversity and Political Theory. Cambridge: Harvard University Press.
+
+Pinsevenner (2008): Forbilder og underordning! Pinsevenner 12. januar 2008. http://pinsevenner.org/home/35-skapelsen/ 59-forbilder-og-underordning (sist besøkt 8. juli 2016).
+
+Plesner, I. T. (2008): Freedom of religion or belief: A quest for state neutrality? Oslo: Unipub.
+
+Plesner, I. T. og C. A. Døving (red.) (2009): Samarbeidsrådet for tros- og livssynssamfunn, Livsfaseriter Religions- og livssynspolitiske utfordringer i Norge.
+
+Politidirektoratet (2012): Per Oskar Strand og Åshild Slettebø. Grunnleggende verdier, moral og etikk – en innføring i etikk for ansatte i politi- og lensmannsetaten, 3. utgave, Politidirektoratet.
+
+Politiet (2009), Politihistorie. https://www.politi.no/om_politiet/ politihistorie/ (sist besøkt 8. juli 2016).
+
+Rawls, J. (1993): Political Liberalism, New York: Columbia University Press.
+
+Rådet for legeetikk (2008): Brev av 1. desember 2008 til Helse- og omsorgsdepartementet om adgang for fastleger til å reservere seg mot å henvise lesbiske par til assistert befruktning.
+
+Samarbeidsrådet for tros- og livssynssamfunn (2015): Flerreligiøs høytidskalender for 2015.
+
+http://www.trooglivssyn.no/kalender (sist besøkt 8. juli 2016).
+
+Sorabji, R. (2014): Moral Conscience through the Ages. Oxford University Press.
+
+Store norske leksikon, nettutgave: https://snl.no/ (sist besøkt 8. juli 2016).
+
+Strand, V. B. (2012): Diskrimineringsvern og religionsutøvelse, hvor langt rekker individvernet? Oslo: Gyldendal juridisk.
+
+Støbakk, T. (2016): Legen mistet jobben da hun nektet å sette inn spiral – nå vil hun stevne kommunen for retten. Dagbladet 10. mars 2016. http://www.dagbladet.no/2016/03/10/ nyheter/innenriks/reservasjonsrett/ 43460274/ (sist besøkt 8. juli 2016).
+
+Sulmasy, D. P. (2008): What is conscience and why is respect for it so important? Theoretical Medicine and Bioethics, 29 (3): 135–149.
+
+Svendsen, C. (2014): Endrer forskrift etter abortskandale. NRK 2. januar 2014. http://www.nrk.no/norge/absolutt-grense-for-abort-1.11445461 (sist besøkt 8. juli 2016).
+
+Swensen, E. (2012a): Det viktigaste er at fastlegen kjem til himmelen. Dag og Tid 2. mars 2012.
+
+Swensen, E. (2012b): Reservasjonsrett eller sivil ulydighet? Tidsskriftet blogg 13. februar 2012. http://blogg.tidsskriftet.no/2012/02/13/ reservasjonsrett-eller-sivil-ulydighet (sist besøkt 8. juli 2016).
+
+Tjeransen, T. (2011): Vil helligholde sabbaten – nektes dagpenger. Syvendedags Adventistkirken 18. november 2011. http://www.adventist.no/Adventist/Hjem/ Nyheter/2011/November-2011/Vil- helligholde-sabbaten-nektes-dagpenger#. V3Dj7T88yfB (sist besøkt 8. juli 2016).
+
+Tranøy, K. E. (1998): Det åpne sinn: moral og etikk mot et nytt årtusen. Oslo: Universitetsforlaget.
+
+Ulfstein, G. (2012): Den rettslige betydningen av avgjørelser fra menneskerettslige konvensjonsorganer. Lov og Rett, 09/2012.
+
+Van Leeuwen, F. (2013): ‘Womens’ rights are human rights!’: the practice of the United Nations Human Rights Committee and the Committee on Economic, Social and Cultural Rights, Chapter 8, i Aasen, Henriette Sinding og Anne Hellum, eds. (2013): Women’s Human Rights, CEDAW in International, Regional and National Law, Cambridge University Press.
+
+Van der Heide, A. et al. (2007): End-of-life practices in the Netherlands under the Euthanasia Act. New England Journal of Medicine, 356(19), s. 1957–1965.
+
+Venn, D. (2012): Eligibility Criteria for Unemployment Benefits: Quantitative Indicators for OECD and EU Countries. OECD Social, Employment and Migration Working Papers, No. 131, Paris: OECD Publishing. DOI: http://dx.doi.org/10.1787/5k9h43kgkvr4-en (sist besøkt 8. juli 2016).
+
+Volokh, E. (2015): When does your religion legally excuse you from doing part of your job. The Washington Post, 4. september 2015.
+
+Wasserström, R. (1971): The Relevance of Nuremberg. Philosophy and Public Affairs, 1 (1), 22–46.
+
+Wicclair, M. R. (2011): Conscientious Objection in Health Care. Cambridge: Cambridge University Press.
+
+Zillén, K. (2016): Hälso- och sjukvårdspersonalens religions- og samvetsfrihet. En rättsvetenskaplig studie om samvetsgrundad vägran och kravet på god vård. Uppsala universitet.
+
+Øverenget, E. (2003): Hannah Arendt. Oslo: Universitetsforlaget.
+
+1.  **\[\[vedlegg resett\]\]**
+
+**Samvittighetsbegrepets og samvittighetsfrihetens historie**
+
+**Innledning**
+
+Denne framstillingen baserer seg i stor grad på Richard Sorabjis *Moral Conscience through the Ages.*[^411] **Boken er en historisk framstilling av begrepet samvittighet, og spørsmål knyttet til samvittighetsfrihet er et underordnet tema. Historisk sett har ikke interessen for samvittighets*frihet* som politisk begrep vært dominerende før i moderne tid, klart knyttet til liberalismens kontraktstenkning fra 1600-tallet og utover (se nedenfor). Like fullt er det viktige forestillinger og ideer i tiden forut for dette som er av avgjørende betydning for den moderne forståelse av hva samvittighetsfrihet er, og hvordan denne frihet skal forstås og praktiseres.
+
+**Gresk begynnelse: dele kunnskap med seg selv**
+
+Samvittighet er ikke et ukjent fenomen i Bibelens Gamle Testament, som for eksempel i flere av fortellingene om kong David, men det var, ifølge Sorabji, grekerne som satte ord på fenomenet. Et begrep som tilsvarer det vi kan kalle samvittighet, finner vi første gang i greske tragedier fra fem hundre år før Kristus. Begrepet er en konstruksjon som inneholder ordet ‘syneidô’, for eksempel i formen ‘syneidesis’, som blant annet betyr å dele kunnskap, koblet med pronomenet for en selv. Det ble brukt om det å dele kunnskap med seg selv om en defekt man har eller en feil man har begått. Man kan også dele kunnskap om at man ikke har handlet feil, når man har en ren samvittighet. Begrepet innebærer følgelig et bilde av et splittet sinn, som deler denne kunnskapen. Metaforen finner vi igjen i det norske ordet ‘samvittighet’: sam-viten. Sorabji sier at det latinske ‘conscius’ er en latinisering av ‘syneidôs’ og det er rimelig å se dette direkte videreført i det norske ordet og i beslektede germanske ord med samme betydning.
+
+Sofokles’ tragedie *Antigone* er et typisk eksempel på denne tidlige greske framstillingen av samvittighet. Antigone begraver sin bror til tross for kongens påbud om det motsatte. Hun anerkjenner at kongens lov er gyldig og godtar straff, men mener hun må følge den høyere guddommelige lov som står over ethvert menneskelig påbud. Dette ligner den moderne forståelsen av samvittighet som en dyp, indre innsikt som påbyr en å handle på tvers av det som er allment anerkjent, for ellers gjør man noe som er moralsk galt. Filosofen Aristoteles (384–322 f.Kr.) benytter fortellingen om Antigone som eksempel for å utarbeide skillet mellom den naturlige moralloven (eng.: «natural law») og konvensjonell lov. I tradisjonen etter de store greske filosofene internaliseres denne naturlige moralloven og knyttes til menneskets fornuft. Denne oppfatningen av samvittigheten som et uttrykk for et splittet sinn videreføres i den gresk-romerske stoisismen, som har hatt innflytelse på moderne moralfilosofisk tenkning.
+
+I den gresk-romerske verden er altså samvittighet som uttrykk for en indre moralsk bevissthet eller krav veletablert. Og i eksempelet med Antigone kan vi kanskje også snakke om en samvittighets*konflikt*, i moderne forstand, idet hun opplever at både kongens lov og den guddommelige lov er gyldige selv om de strider mot hverandre. Men Sorabji skriver at det er først med kristendommen og Paulus at det blir en direkte, systematisk forbindelse mellom samvittighet, forstått som å dele kunnskap med seg selv om en overtredelse, og en guddommelig lov.
+
+**Paulus om samvittigheten og den indre lov**
+
+Ifølge Paulus i Romerbrevet 2, 14–15 har alle Guds lov i sitt hjerte og samvittigheten som et vitne om denne loven. Samvittigheten er altså ikke identisk med loven, eller det samme som vår kunnskap om loven, men noe som framviser eller avslører denne loven. Vi har kunnskap om loven når vi kjenner til hva den krever av oss, for eksempel ved at vi vet at den påbyr oss å gjøre mot andre som vi vil at de skal gjøre mot oss. Samvittigheten er en indre sans som kommer i tillegg til denne kunnskapen, for den gjør oss oppmerksom på at en handling vi planlegger ikke er i samsvar med det loven krever av oss, eller den forteller oss at noe vi har gjort er galt ut fra loven. Altså: Vi har en indre moralsk lov som vi har kunnskap om og som er grunnlaget for den opplevelsen av å handle galt (eller rett) som vi kaller samvittighet.
+
+Sorabji framhever et annet viktig punkt ved Paulus’ analyse av samvittighet, nemlig at den ikke er ufeilbarlig. Altså, den indre loven vil alltid være rett, men vi kan *oppfatte* den feil gjennom samvittigheten. Dermed er heller ikke samvittigheten å forstå som Guds røst, den er vår egen indre stemme. Og ettersom samvittigheten kan ta feil, må den forstås som en oppfatning og ikke som viten. Allikevel har den begrepsinnhold. Samtidig motiverer den, og det betyr at den har et følelsesmessig aspekt. Disse kjennetegnene er felles for den antikke oppfatningen av samvittighet, som vi har arvet i vår moderne forståelse av fenomenet.
+
+**Tidlig kristendom – og spørsmålet om religionsfrihet**
+
+Samvittighetsfrihet har to aspekter; friheten til å inneha en bestemt oppfatning og friheten til å handle ut fra denne oppfatningen. Dermed kan samvittigheten undertrykkes og samvittighetsfrihet nektes på to måter; man kan straffe bestemte handlinger, eller man kan forsøke å hindre selve oppfatningene. I praksis betyr det at man straffer folk for enten det ene eller det andre. For eksempel kan man straffe folk for å delta i bestemte religiøse handlinger eller man kan tvinge dem til å avsverge en bestemt tro, slik man har gjort under religionsforfølgelser. Da kristendommen med sitt monoteistiske brudd med den mer inkluderende romerske religionsfriheten vant fram, ble samvittighetsfrihet, forstått som religionsfrihet, etter hvert et sentralt tema. Selv om religions- og samvittighetsfrihet ikke er det samme, er det i stor grad sammenfall mellom dem, og argumentene som støtter dem er svært like, om enn ikke identiske.
+
+Den kristne teologen Tertullian (160–220) argumenterte for religionsfrihet ved å peke på at ingen guddom vil ønske å bli tilbedt ufrivillig. Man kan ikke tvinge noen til å tro noe bestemt, det vil ganske enkelt ikke ha den tilsiktede effekten. Dermed bør man tillate trosfrihet både i oppfatning og i handling – for gudene ville ikke verdsette tvungen tro og tilbedelse, det er bare hyklersk. To hundre år senere motsa Augustin (354–430) dette argumentet ved å hevde at mange eksempler viste at moderat tvang eller trusler er et veldig effektivt middel for å omvende folk, og dermed kan det fungere som en øyeåpner. Altså – selv om man i utgangspunktet ikke tilber med den rette innstilling, vil man kunne komme til faktisk tro og reell tilbedelse etter hvert. Dermed er argumentet om tvangens ineffektivitet ikke så overbevisende likevel. Skal man argumentere for religions- eller samvittighetsfrihet, bør ikke slike effektivitetsargument stå sentralt. Dette er en problematikk som dukker opp igjen i forbindelse med Lockes behandling av temaet mer enn tusen år senere.
+
+**Reformasjon, avlat og samvittighet i trosspørsmål**
+
+Samvittigheten spilte en avgjørende rolle i striden som førte til Reformasjonen, og deretter skulle samvittighetsfrihet spille en avgjørende rolle for Martin Luther (1483–1546) selv. En viktig motivasjon for Luthers protest mot Kirken, var det han kalte Pavens terrorisering av samvittigheten gjennom avlatssystemet. Syndere kunne betale et beløp i stedet for å gjennomføre botsøvelser, og dermed fikk syndsbekjennelse og avlat stor plass i den religiøse praksisen på denne tiden. Kirkens tilnærming til bot for synder var utelukkende preget av frykt, ifølge Luther, og førte kun til en serie av bekjennelser uten ende. Det som skulle være en følge av bekjennelse og bot, nemlig vissheten om tilgivelse og dermed en lykkelig samvittighet, manglet. Dette aspektet ved samvittighet, det å ha *god* samvittighet som det heter på norsk, var også lite til stede i tidligere analyser av samvittigheten. Den står imidlertid sentralt i den moderne forståelsen av samvittigheten ikke bare som en bevissthet om en feil eller mangel, men også som en visshet om at man har gjort det som er rett i en situasjon der det var sterke grunner for å handle moralsk feil. Samtidig leste Luther Bibelen slik at vi aldri kan bli fri for synd gjennom egne handlinger, om det er bekjennelse, bot eller økonomisk avlat. Det er Guds nåde som frigjør, ikke handlinger, og den ustoppelige terroriseringen av samvittigheten gjennom krav om avlat er følgelig i strid med det kristne budskapet.
+
+Da striden med Kirken senere toppet seg, var det på grunn av Luthers egen samvittighet. Han ble bannlyst i 1521, men nektet fortsatt å trekke tilbake noen av sine tidligere påstander slik han ble pålagt av Keiser Karl ved Riksdagen i Worms: «Jeg verken kan eller vil tilbakekalle noe, for det er verken trygt eller tilrådelig å gjøre noe mot ens samvittighet». Det er altså det eksistensielle alvoret ved å følge egen samvittighet som understrekes i dette utsagnet. Samtidig er det verdt å merke seg at dette også er et signal om det idéhistoriske skiftet som vi gjerne forbinder med moderniteten – nemlig betydningen av det subjektive selvet. Det er typisk den enkelte som er den avgjørende instans for rett og galt, ikke det religiøse eller politiske fellesskapet. Charles Taylor har beskrevet denne utviklingen i boken *Sources of the Self*, og knytter endringen til framveksten av protestantismens forståelse av troen som et forhold mellom den enkelte og Gud.[^412] Luthers berømte utsagn ved samme anledning, «Her står jeg, og kan ikke annet. Så hjelpe meg Gud», fanger denne absolutte siden ved samvittigheten som en ufravikelig og subjektiv indre dommer. Verken Kirken eller myndighetene har direkte tilgang til sannheten, og det er derfor den enkeltes samvittighet som må være øverste dommer, selvsagt basert på de kilder som finnes til sannhet: Skriften og fornuften. Derfor kan man heller ikke tvinge noen til tro, for troen er et spørsmål om den enkeltes samvittighet.
+
+Det er, ifølge Sorabji, imidlertid lett å spore en endring i Luthers toleranse for den enkeltes samvittighet i politiske spørsmål, i forbindelse med at han selv fikk makt og innflytelse. Det demonstreres blant annet i hans reaksjon på bondeopprøret, som han først støttet. Senere, ettersom striden hardnet til, hevdet han at bøndene ikke handlet ut fra god samvittighet, og at det var en plikt for herskerne å slå ned opprøret med makt. I 1531 innførte han et prinsipielt skille når det gjelder samvittighetens rolle i religiøse og politiske spørsmål. Hadde man samvittighetskvaler når det gjaldt synd, skulle man glemme loven og holde seg til løftet om Guds nåde. I politiske spørsmål, derimot, skulle man gjøre motsatt: glemme samvittigheten og la loven råde. Dermed er det først og fremst religionsfrihet som fremmes i den lutherske revolusjonen.
+
+**1600-tallet: Samvittighetsfrihet for minoriteter og individer**
+
+Mens Luthers samvittighetsfrihet var en frihet for protestanter fra katolikkenes dominans, ble 1600-tallet i langt større grad knyttet til det vi i dag mener er den mest sentrale form for samvittighetsfrihet, nemlig friheten for minoriteter og enkeltindivider. På grunn av oppsplittingen av de protestantiske kirkene i ulike grupperinger basert på teologiske stridsspørsmål, oppsto en rekke religiøse minoriteter. En del av dem valgte å utvandre til de nye koloniene som ble etablert i Amerika. Deres opplevelser var av stor betydning for vektleggingen av religionsfrihet i den amerikanske grunnloven.
+
+En sentral talsperson for samvittighetsfrihet blant disse utvandrerne var den engelske teologen Roger Williams (1603–1684). Martha Nussbaums *Liberty of conscience* tar utgangspunkt i hans liv og skrifter.[^413] Han grunnla en amerikansk koloni der han sørget for at religionsfrihet også omfattet katolikker, noe som ikke var vanlig for protestantiske talsmenn for religionsfrihet den gang. Et av hans hovedargumenter for religionsfrihet var at undertrykkelse av samvittigheten skapte hyklere, blasfemikere og opprørere mot kongen. Forfølgelse av annerledes troende gjør deres samvittighet hardere, og det er dessuten bare Gud som kan bringe vantro på rett vei. Det er altså både feil av religiøse grunner og fordi det er ineffektivt. Et argument som styrker dette poenget er at også samvittigheten til de mest fromme kan ta feil – som vi ser fra historien. Vi er ganske enkelt uvitende om hva som er sant i samvittighetsspørsmål. I tillegg mente Williams at samvittigheten *var* mennesket – noe Sorabji fortolker som en tidlig utgave av argumentet om samvittighetens identitetsskapende betydning.
+
+En annen sentral engelskmann i samvittighetsfrihetens idéhistorie var forfatteren John Milton (1608–1674) som virket under den engelske borgerkrigstiden. Hans viktigste bidrag er argumentene for trykkefrihet. Det er den tidlige varianten av det vi i dag kaller ytringsfrihet; nært knyttet til religions- og samvittighetsfrihet. Milton mente at man ikke skulle forby litteratur, noe som var vanlig tidligere. Religiøse ledere skulle nøye seg med å anbefale hva som var verdt å lese, men den enkeltes samvittighet måtte selv få bestemme. Det var ikke nødvendigvis skadelig å lese litteratur som ikke ble regnet som oppbyggelig. For å vite hva som var det gode, måtte man faktisk kjenne til lastene og bevisst ha avvist dem. Miltons toleranse hadde imidlertid grenser, idet han gjorde unntak for katolisisme. Milton levde under den engelske borgerkrigstiden; på den tiden ble katolisismen av motstandere sett på som en trussel som, hvis den kom til makten, ikke ville innrømme sine motstandere religions- og samvittighetsfrihet. Derfor måtte den selv ødelegges – i likhet med annen «åpen overtro». Milton mente videre at samvittighetsfrihet bare kunne sikres innen et fritt samvelde, og var umulig innen et monarki, noe som foregriper samtidige oppfatninger om sammenhengen mellom demokrati og samvittighetsfrihet. Dette idealet om (relativ) politisk frihet kobler han til trykkefrihet, idet en fri og åpen diskusjon er den beste måten å sikre økt kunnskap og sannhet. Det er også klart at Milton betraktet samvittighetsfrihet som relevant ut over religionsfriheten, ikke minst gjennom argumentet for trykke- og lesefrihet.
+
+Borgerkrigstiden var preget av revolusjonære ideer, og en gruppe, *the Levellers*, som hadde kjempet for Cromwell, var trolig de første til å legge fram en moderne forståelse av samvittighetsfrihet som en politisk idé. De krevde demokratiske reformer, inkludert frihet for alle og et representativt, oppløselig parlament. I tillegg krevde de frihet fra militærtjeneste for de som av samvittighetsgrunner var motstandere av krig generelt eller en bestemt krig.
+
+En sentral skikkelse i toleransens, og dermed også i samvittighetsfrihetens, idéhistorie er den engelske filosofen John Locke (1632–1704), som i sitt *Letter Concerning Toleration*[^414] fremmer tre argumenter for toleranse. Det første er at herskeren ikke kan gis myndighet til å bestemme undersåttenes religion fordi han ikke er i posisjon til å sikre dem evig frelse. Det andre er at tvang ikke leder til sann tro, og til slutt at herskeren dessuten ikke kan vite hvilken tro som er sann – det kan ingen vite. Sorabji framhever at dette poenget i like stor grad gjelder moralsk kunnskap, som jo er samvittighetens grunnlag. Dermed mener han at Lockes beste argument er det faktum at vi ikke kan stole på samvittigheten, noe som igjen betyr at samvittighetsfrihet er den beste løsning – også for samvittigheter som tar feil. Tvang er bare forsvarlig dersom man vet hva som er rett, og det gjør ingen.
+
+**Opplysningstid og samvittighetens sekularisering**
+
+I opplysningstiden sekulariseres samvittigheten ved at vektleggingen av tro erstattes av en indre, naturlig forståelse av moralsk rett og galt som samvittighetens kilde. Jarlen av Shaftesbury (1671–1713) og Francis Hutcheson (1694–1746) var blant talsmennene for denne sekulariseringen, som samtidig bidro til en økt vektlegging av samvittighetens følelsesmessige aspekt. Hos filosofen David Hume (1711–1776) er denne moralske sansen direkte knyttet til følelsene, idet han hevdet at fornuften ikke kan motivere handling. Sorabji påpeker at en slik tanke forutsetter at det finnes en verdidom som gir opphav til følelsen, og at denne posisjonen dermed gjør samvittigheten til kun en *effekt* av det som i andre sammenhenger oppfattes som selve samvittigheten, nemlig verdidommen. Posisjonen innebærer dermed en svekkelse av samvittighetens betydning, idet den gjøres til en effekt av den egentlige moralske innsikten.
+
+For Adam Smith (1723–1790) forstås samvittigheten billedlig som en upartisk observatør som bedømmer handlingene uten hensyn til egeninteresse. Dermed nyskaper han den antikke ideen om samvittigheten som uttrykk for et to-delt sinn. Nå er det ikke skillet mellom en som bedømmes og en dommer, men mellom personen som handler og den upartiske observatøren. I følge Smith frykter vi mest av alt å gjøre noe galt, noe klanderverdig, og en slik indre vurdering vil sikre nettopp det. Heller enn å unngå faktisk klander og søke faktisk beundring, ønsker vi altså å gjøre oss *fortjent* til slike vurderinger, og derfor må samvittigheten være som en slik innbilt upartisk observatør. Et integrert og helstøpt moralsk menneske vil, ifølge Smith, bli tilnærmet lik den upartiske observatør. Dette idealet om det moralske mennesket som ikke tar hensyn til egeninteresse, gjenfinner vi i den nytte-etiske moraltradisjonen også i vår tid.
+
+Jean-Jacques Rousseau (1712–1778) knytter moralsk erkjennelse til fornuften, og sier at samvittigheten er det som gjør at vi elsker det gode og hater det onde. Dermed forsterkes det følelsesmessige og motiverende ved samvittigheten. I tillegg hevder Rousseau at samvittigheten er ufeilbarlig, noe som står i sterk kontrast til tradisjonens vektlegging av feilbarligheten som en grunn for samvittighetsfrihet. Immanuel Kant (1724–1804) justerer dette poenget ved å mene at samvittigheten er hinsides feilbarlighet. Vår forstand kan ta feil fordi den er et produkt av kultur og behøver oppdragelse, men samvittigheten er naturlig og finnes hos alle mennesker. Når vi gjør galt, er det ikke vår samvittighet som tar feil. Det er vi selv som ikke er oppmerksom på, eller som neglisjerer, samvittighetens røst. Vi har følgelig en plikt til å oppøve og skjerpe vårt moralske sanseapparat. Samvittigheten er det subjektive prinsipp om at vi står til ansvar overfor Gud – men det betyr ikke at Kant forutsetter Guds faktiske eksistens. Selv om ideen om Gud er innbakt i det moralske universet, er den bare av symbolsk betydning. Han forstår samvittigheten som bevisstheten om en indre domstol, og som direkte knyttet til den moralske følelsen av aktelse for moralloven. Kant sier også at når vi opplever god samvittighet, er gleden heller en følelse av lettelse over å ha unngått å gjøre galt enn en positiv opplevelse av å gjøre rett.
+
+**1800 og 1900-tallet: fortsatt sekularisering og politisering**
+
+Den amerikanske forfatteren Henry David Thoreau (1817–1862) talte for sivil ulydighet av samvittighetsgrunner, og han nektet å betale skatt i protest mot slaveriet og krigen med Mexico. Begrunnelsen var sekulær. Som Sorabji påpeker, ønsket han ikke samvittighetsfrihet – altså retten til ikke å betale skatt fordi slaveri var lovlig, men derimot frihet for slaver. Sivil ulydighet og kamp for samvittighetsfrihet er, som diskutert i avsnittet om sentrale begreper, ikke samme sak. Det er gjenkjennbart der sivil ulydighet er brukt i Norge, som for eksempel Mardøla- og Alta-aksjonene. Selv om opprøret mot autoriteten er begrunnet og forsvart ved henvisning til samvittigheten, er det ikke et ønske om frihet for egne samvittighetsbaserte handlinger som er i spill. Hensikten er gjennomslag for et politisk mål, i dette tilfellet bevaring av vassdrag.
+
+Den indiske borgerrettsforkjemperen Mahatma Gandhi (1869–1948) var påvirket av Leo Tolstojs arbeider om samvittighet og motstand mot vold, og brukte det til å gi nytt innhold til Thoreaus tanke om sivil ulydighet på samvittighetens grunn. I utgangspunktet anså Gandhi samvittigheten som Guds stemme og som opphav til påbud som ikke kan betviles. Den er ikke gjenstand for rasjonelle argument, men er en intuitiv visshet, som en åpenbaring. Men forutsetningen er trening og disiplinering for å vekke samvittigheten. Samvittighetens kilde er derimot basert på refleksjon – i Gandhis tilfelle over Tolstojs argumenter. De ble videreutviklet gjennom offentlig diskusjon med meningsmotstandere. Så selv om samvittigheten er en indre stemme, er grunnlaget for dens bud fornuftsbaserte, offentlig tilgjengelige argumenter. Dermed slutter Gandhi seg til ideer om deliberativt basert moral som vi kjenner blant annet fra den moderne kantianske tradisjonen representert ved tenkere som Habermas og Rawls. Det betyr også at samvittigheten kan begrunnes på en måte som andre kan etterprøve og forstå, også dersom de er uenige i konklusjonen. Dette er i tråd med utvalgets diskusjon av hvilke krav som bør stilles til en påstått samvittighetsoverbevisning (se kapittel 3).
+
+**Militærnekting og demokrati**
+
+Som vi har sett, tok allerede The Levellers på 1600-tallet til orde for samvittighetsbasert fritak for militærtjeneste. Da Storbritannia innførte allmenn verneplikt i 1916, ble fritak et tema igjen. I starten var ikke bare felles religiøse oppfatninger som hos kvekerne godtatt som fritaksgrunn, slik som i de fleste land der religionsfrihet var akseptert. Også individuelle religiøse, moralske og ideologiske (slik som sosialistiske) begrunnelser kunne aksepteres i de oppnevnte britiske tribunalene. Sorabji påpeker at selv om de fleste mente militærnekterne moralsk sett tok feil, støttet flertallet likevel at de fikk følge sin samvittighet. Det er altså en aksept av at også antatt feilaktige samvittighetshenvisninger er en gyldig grunn så lenge det dreier seg om en alvorlig overbevisning.
+
+I det moderne, flerkulturelle demokratiet er samvittighetsfrihet også en integrert del av den nødvendige toleransen som muliggjør en slik stat. Jocelyn Maclure og Charles Taylor hevder i sin bok *Secularism and the Freedom of Conscience* at det er en forutsetning at en slik stat er religiøst nøytral, og dermed sekulær.[^415] Men sekulariteten fordrer også – tilsynelatende paradoksalt – en del tilfeller av spesiell beskyttelse av religions- og samvittighetsfrihet. Slik beskyttelse gjelder «kjerneverdier», verdier som er av identitetsdannende karakter. Intensiteten i tilknytningen til disse verdiene er et avgjørende kriterium, ifølge Maclure og Taylor. Sorabji mener at kravet om intensitet eller dybde ikke er tilstrekkelig. Det kreves i tillegg en referanse til noe som det ville være moralsk galt av vedkommende å gjøre, som kan eksemplifiseres gjennom uttrykk som «Jeg kunne ikke leve med meg selv hvis jeg gjorde/ikke gjorde dette». Samvittighet er altså en intens følelsesmessig overbevisning om at noe er rett eller galt å gjøre, der følelsen knyttes til grunnleggende identitetsskapende verdier, som utgjør en akseptabel grunn for samvittighetsbaserte unntak. Da behøver ikke verdiene være knyttet til samvittighet basert på religion. Og dermed er tråden knyttet tilbake til samvittighetens begrepsmessige opprinnelse i den greske tragedien, som det å dele kunnskap med seg selv om noe galt.
+
+**«Samvittighetens grunntrekk»**
+
+Sorabji oppsummerer sin analyse av samvittighetens historie i det han mener er kjerneingredienser i samvittighetsbegrepet:
+
+1.  Samvittighet er en persons oppfatning av hva det har vært eller vil være galt av ham eller henne å gjøre eller mene i en bestemt situasjon.
+
+<!-- -->
+
+1.  Oppfatningen innbefatter personlig selvbevissthet og dreier seg primært om hva det vil være galt å gjøre for en selv, ikke andre.
+
+2.  Det er en verdioppfatning, som involverer følelser og virker motiverende.
+
+3.  Opplevelsen av å ta feil eller handle galt forklarer at også andres samvittighet virker på oss og påkaller respekt.
+
+4.  Samvittighet er ikke medfødt.
+
+5.  Den er verdibestemt, og kan dermed uttrykke tradisjoner og konvensjoner som bare har lokal tilknytning og verdi – og er derfor i behov for stadig kritisk gjennomtenkning og etterprøving.
+
+6.  Den er ikke Guds røst og ikke avhengig av at verdiene er guddommelige.
+
+7.  Den er ikke ufeilbarlig.
+
+8.  Samvittigheten er forpliktende, men ikke i en absolutt forstand. Det betyr at vi kan ha motstridende forpliktelser og dermed samvittighetskonflikt.
+
+9.  Samvittighetsfrihet er fraværet av autoritetsbasert tvang til å ha meninger eller til å handle på tvers av de verdiene den enkelte opplever som grunnleggende viktige.
+
+10. Toleranse er et videre begrep enn samvittighetsfrihet, og begrunnes delvis annerledes.
+
+11. Religionsfrihet og samvittighetsfrihet er delvis overlappende og delvis likt begrunnet, men det er ikke det samme.
+
+12. Begrepet samvittighetsfrihet brukes i forskjellige betydninger.
+
+*Litteraturliste*
+
+Locke, J. (2010): A letter concerning Toleration and other Writings, edited and with an Introduction by Mark Goldie. Indianapolis: Liberty Fund: http://oll.libertyfund.org/ titles/locke-a-letter-concerning-toleration-and-other-writings.
+
+Maclure, J. og C. Taylor (2011): Secularism and the Freedom of Conscience. Cambridge Mass: Harvard University Press.
+
+Nussbaum, M. (2008): Liberty of Conscience. New York: Basic Books.
+
+Sorabji, R. (2014): Moral Conscience through the ages. Oxford University Press.
+
+Taylor, C. (1989): Sources of the Self: The Making of the Modern Identity. Cambridge Mass: Harvard University Press.
+
+1.  **\[\[vedlegg resett\]\]**
+
+**Samvittighetsfrihet i helsevesenet – den internasjonale debatten**
+
+Samvittighetsspørsmål har historisk sett vært sentrale i helsevesenets selvforståelse, fordi helsearbeid berører grunnleggende moralske spørsmål ved å bruke ekspertkunnskap på andres kropp og sinn. Dette ansvaret er skjerpet i vår tid, der vi er spesielt oppmerksomme på betydningen av den enkeltes rett til å bestemme over egen kropp og på den enkeltes ansvar for egne handlinger. Etter andre verdenskrig har således økt erkjennelse av skadepotensialet i medisinsk kunnskap ledet til en sterk grad av moralsk selvregulering innen medisinsk praksis, med en vektlegging av den enkelte helsearbeiders moralske ansvar. Ettersom dette ansvaret strekker seg videre enn det juridiske ansvaret for å følge gjeldende regler og retningslinjer, dreier det seg om den enkeltes fagetiske og personlige moral. En rekke beslutninger om medisinske inngrep oppfattes derfor av den enkelte helsearbeider, så vel som av andre involverte parter, som samvittighetsspørsmål.
+
+Alberto Giubilini hevder at medisinsk etikk er et spesielt konfliktfylt felt, og sporer det til nye medisinske muligheter på grunn av vitenskapelig og teknologisk utvikling, samt utviklingen av multikulturelle samfunn.[^416] Nå er ikke de viktigste stridsområdene i spørsmålet om samvittighetsbasert reservasjonsrett, abort og eutanasi, resultat av ny teknologi eller økt pluralisme. De har vært omdiskutert i århundrer. Mange helsearbeidere, så vel som legfolk, vil på moralsk grunnlag avvise å utføre enten abort eller eutanasi, eller begge disse anvendelsene av medisinsk kunnskap. Samtidig mener mange, både helsepersonell og andre, at det er gode moralske grunner for å inkludere abort i et moderne helsetilbud, og stadig flere betrakter eutanasi likedan. De ulike posisjonene underbygges av entydige moralske argumenter som kan finne støtte både i personlige moraloppfatninger og faglig-etiske overveielser. Både abortspørsmålet og dødshjelp har vært ledsaget av og vekker intens offentlig debatt, noe som er en indikasjon på at mye er på spill for begge sider av debatten. Derfor hevder noen at de som har samvittighetskvaler med å delta i denne type inngrep, bør få slippe det. Andre mener at slikt samvittighetsfritak utgjør et unødvendig hinder for lovlig helsehjelp, fordi det ikke er nødvendig for de som har samvittighetskvaler å ha akkurat de jobbene som leder til slike konflikter.
+
+Det er ikke utelukkende direkte deltakelse i abort og dødshjelp som påkaller slike samvittighetsdebatter i helsevesenet. En del grupper vil også fritas for aktiviteter som mer eller mindre direkte er nødvendige for å utføre abort eller dødshjelp. Likedan er det enkelte som har innvendinger mot å skrive ut noen former for prevensjon, noen eller alle former for assistert befruktning, omskjæring samt forskning på befruktede egg eller fostervev. Det kan også tenkes mer situasjonsspesifikke reservasjonsgrunner, der man mener at bestemte tilbud eller inngrep er feil for en bestemt pasient.
+
+De grunnleggende uenighetene om hva som er moralsk rett bruk av kompetanse og ressurser i helsevesenet, er ikke diskutert bare i Norge. I den internasjonale litteraturen i medisinske, medisinsk-etiske og filosofiske tidsskrifter er det de senere årene skrevet en lang rekke artikler om samvittighetsfritak i helsevesenet. Denne diskusjonen er preget av at det er ulike lovreguleringer i forskjellige land, og ulike kulturelle og politiske forutsetninger for diskusjonene, men allikevel er det så vidt mange fellestrekk at denne diskusjonen er opplysende for norsk regulering. Den følgende gjennomgangen av litteraturen på området er ikke ment å være komplett eller fullt representativ for hele litteraturen, men vil vise noe av den internasjonale bakgrunnen for den pågående norske debatten. Artiklene er presentert i tilnærmet kronologisk rekkefølge, uten å struktureres ut fra tema, argumenter eller konklusjon. Flere av artiklene tar opp flere tema, og argumenter og konklusjoner overlapper i stor grad, slik at enhver slik klassifisering vil bli delvis misvisende. Presentasjonene er kortfattet og forutsetter en viss kjennskap til grunntrekkene i debatten. Gjennomgangen viser at spørsmål om reservasjonsrett eller ‑adgang er et meget aktuelt tema i internasjonal debatt innen medisinsk etikk. I tillegg er det verdt å merke seg at reservasjonsadgang i helsevesenet er en intens kamparena i mange land. To eksempler er kampen mot reservasjonsadgang i Canadas nye lovgivning om aktiv dødshjelp på den ene siden, og vanskeliggjøringen av tilgang til lovfestet abort som kan knyttes til det stor antall samvittighetsreservasjoner i Italia.
+
+Det er skrevet mye om samvittighetskonflikter og -fritak for helsearbeidere i den medisinske og medisinsk-etiske faglitteraturen i mange tiår. Imidlertid ser ikke spørsmålet ut til å være utdebattert, og derfor vil denne gjennomgangen primært ta for seg noen bidrag fra de siste tre årene. Imidlertid er det noen eldre bidrag som figurerer sentralt som bakgrunn for de siste års bidrag som også bør nevnes. Den tidligste artikkelen blant disse er Mark Wicclairs ‘Conscientious Objection in Medicine’ fra 2000, som analyserer flere etiske begrunnelser for å anerkjenne samvittighetsbegrunnede fritak fra arbeidsoppgaver.[^417] Han hevder at få vil være uenig i å tillate samvittighetsnekt i omstridte praksiser som abort og legeassistert selvmord, noe som ikke er like åpenbart i dagens debatt. Men det er andre tilfeller, ikke minst konkrete enkelttilfeller, som kan være mindre klare, og Wicclair gjennomgår grunner for å respektere også slike kontroversielle fritaksønsker. Han drøfter moralrelativisme, toleranse for verdidiversitet, respekt for autonomi og respekt for moralsk integritet. Han mener at det siste er en vektig grunn fordi medisin er en grunnleggende sett moralsk aktivitet. Dette siste betyr imidlertid at en betingelse for å godta henvisning til samvittighet, er at den knyttes til kjerneverdier i medisinen forstått som en moralsk aktivitet. I tillegg må ikke en reservasjon hindre pasientens rett til behandling, så fremt det er mulig å unngå. Det innebærer at legen må være villig til å henvise pasienten til en kollega som ikke har samme samvittighetsproblemer. Forfatteren understreker også at henvisning til samvittighet er ikke i seg selv grunn god nok til å nekte å utføre en oppgave. Det forutsetter en dokumentasjon av at handlingen vil berøre grunnleggende integritet knyttet til medisinens kjerneverdier.[^418]
+
+Julian Savulescu argumenterer i artikkelen ‘Conscientious objection in medicine’ fra 2006 for at samvittighetsnekt kan være en unnskyldning for å handle galt, ved at man svikter sine plikter.[^419] Dersom noen ikke er villig til å tilby lovlig, effektiv og tjenlig omsorg for pasienter, bør de ikke være leger. Forfatteren betrakter den betydning samvittighetsfrihet tillegges i helsetjenestene som en forlengelse av den tradisjonelle paternalistiske legerollen, der legen som ekspert visste hva som var best for pasienten. Reservasjonsrett leder til et helsetilbud som er ineffektivt, urettferdig, inkonsistent og i strid med legens profesjonelle forpliktelser. Dessuten, ettersom de aktuelle reservasjonsønsker er religiøst begrunnet, diskrimineres sekulære verdier, som er like dype og viktige som religiøse. Samtidig innrømmer Savulescu at tvang til å utføre oppgaver som er i strid med ens dype overbevisning er skadelig for legen og begrenser frihet. Derfor mener han at fritak kan innrømmes dersom mange nok vil utføre tjenesten slik at ikke rettighetene til pasientene begrenses. Det forutsetter at leger og medisinstudenter er oppmerksomme på sine plikter til å tilby all lovlig og tjenlig behandling, at pasienter er klar over sine rettigheter, at reservasjonister sikrer at pasientene vet at de har rett på behandling og henviser dem til andre som er villige til å yte den, og at de som nekter og derigjennom hindrer lovlig omsorg, straffes.
+
+I artikkelen ‘What is conscience and why is respect for it so important?’ fra 2008, diskuterer Daniel Sulmasy betydningen av ordet ‘samvittighet’ i lys av den historiske forståelsen av begrepet og påpeker at en slik begrepslig avklaring er savnet i den medisinsk-etiske debatten.[^420] Samvittighet forstås her som en forpliktelse på moral i seg selv, kombinert med en bedømmelse av en handling en har begått eller tenker å utføre som et brudd på denne forpliktelsen. Den moralske forpliktelsen knyttes til dype moralske overbevisninger som har identitetsmessig betydning. Det betyr ikke at samvittigheten er ufeilbarlig. Den kan feile av flere grunner, men den er like fullt bindende så lenge den er basert på den beste overveielse man kan utføre. Sulmasy diskuterer også betydningen av indirekte bidrag til en handling man har reservasjoner mot, og skiller mellom intensjonalt og materielt bidrag. Han trekker blant annet fram faktorer som hvorvidt bidraget er nødvendig, nærhet til den problematiske handlingen, om man er under press for å utføre bidraget, om bidraget vil oppfattes som en aksept av handlingen og om det er et bidrag som vil gjentas. Det kan påvirke bedømmelsen av om handlingen er moralsk akseptabel for den enkelte, eller om det er grunnlag for å reservere seg. Gitt samvittighetens grunnleggende moralske betydning for den enkelte og dens feilbarlighet, er det et moralsk grunnprinsipp å vise toleranse for hverandres dype overbevisning, også innen helsevesenet. Men vi skal ikke tolerere moralske handlinger som i seg selv undergraver den toleranse de selv krever, eller slike som påfører andre skader.
+
+Morten Magelssen argumenterer i artikkelen ‘When should conscientious objection be accepted?’ fra 2012, for at reservasjonsadgang begrunnes i beskyttelse av den moralske integriteten til helsepersonell, men at den bare kan oppfylles når bestemte kriterier er oppfylt.[^421] Noen verdier er konstitutive for den personlige identiteten, og det å handle på tvers av disse er skadelig for den enkelte. I tillegg er et godt samfunn og et godt helsevesen avhengig av borgere og av utøvere som har integritet. Rett til samvittighetsfritak for helsearbeidere beskytter dette grunnleggende gode for den enkelte, samfunnet og helsetjenesten. De kriteriene som må oppfylles for at samvittighetsfritak bør godtas, inkluderer i) at å utføre handlingen vil utgjøre en alvorlig krenkelse av en dyp overbevisning, ii) at overbevisningen har en troverdig moralsk eller religiøs begrunnelse, iii) at handlingen ikke utgjør en essensiell del av helseutøverens arbeid og iv) at byrdene på pasieneten er små. Fritaksønsket styrkes om begrunnelsen er knyttet til medisinens egne verdier og handlingen er ny eller har usikker moralsk status.

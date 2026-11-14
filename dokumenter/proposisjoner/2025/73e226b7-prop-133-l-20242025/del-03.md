@@ -1,692 +1,234 @@
-# Prop. 133 L (2024–2025), del 3 av 3 (side 27–36)
+# Prop. 133 L (2024–2025), del 3 av 4
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/73e226b7-prop-133-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-133-l-20242025/id3096142/
 - Original-PDF: https://www.regjeringen.no/contentassets/0165aba5a456407b936ad64ede15755c/no/pdfs/prp202420250133000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 27]
-
-2024–2025
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-av medlemspremien og omsetningsavgiften, og
-gjennom statsgarantien. En lukking av ordningen
-nå vil innebære at staten dekker ytterligere kostnader som følge av lukkingen, samtidig som de
-yngre årskullene får noe av regningen gjennom
-reduksjon av utbetalingsperioden fra syv til fem
-år.
-Departementet viser videre til at den partssammensatte arbeidsgruppen anbefaler at uttaksalderen heves til 62 år for medlemmer under 50 år.
-Arbeidsgruppen viser til at ordningen har blitt tyngre å finansiere for de aktive fiskerne og næringen
-på grunn av ubalansen mellom aktive fiskere og
-pensjonister, og mener det er fornuftig med grep
-som demper utgiftene på sikt. Videre mener
-arbeidsgruppen at det er naturlig at uttaksalderen
-tilpasses laveste uttaksalder for alderspensjon i folketrygden og store deler av det øvrige pensjonssystemet.
-Departementet mener uttaksalderen bør
-heves. Det vil tilpasse alderen for uttak av fiskerpensjon til laveste uttaksalder for alderspensjon i
-folketrygden, ordninger for avtalefestet pensjon i
-offentlig og privat sektor, privat tjenestepensjon
-og offentlig tjenestepensjon for 1963-kullet og
-yngre årskull.
-Videre vil det dempe utgiftene på sikt.
-Arbeidsgruppens medlemmer fra næringen
-ønsker i utgangspunktet en raskere avvikling av
-ordningen, og anbefaler også at ordningens økonomiske situasjon bør åpne for justeringer underveis, både med hensyn til tidsperspektiv på avviklingen og fordeling av kostnader. Departementet
-legger også til grunn, som i høringsnotatet, at å
-lukke ordningen kun for nye medlemmer nå, ikke
-utelukker at det på et senere tidspunkt vil kunne
-ses på om det er økonomi i ordningen til å foreta
-en raskere avvikling om dette skulle anses som
-ønskelig og hensiktsmessig. Grep som demper
-utgiftene på sikt, øker sjansen for at ordningens
-økonomiske situasjon åpner for en raskere avvikling ved et senere tidspunkt.
-Å foreta en slik endring for medlemmer som
-nærmer seg gjeldende pensjonsalder, vil etter
-departementets syn være for inngripende. Det
-anses derfor kun å være aktuelt å gjøre en slik
-endring gjeldende for medlemmer som er under
-50 år på det tidspunktet en eventuell lovendring
-trer i kraft. Forutsatt at en lovendring trer i kraft 1.
-januar 2026, vil endringen gjøres gjeldende for
-medlemmer født i 1976 eller senere, mens medlemmer født i 1975 eller tidligere vil kunne få utbetalt pensjon fra fylte 60 år.
-Forslaget til endring innebærer at medlemmet
-må vente i to år med å kunne ta ut pensjon, sam-
-
-27
-
-menlignet med dagens regler. Det er imidlertid
-tenkt at pensjon fortsatt kun skal utbetales til
-medlemmet er 67 år. Den største forskjellen fra i
-dag vil derfor være at mottakeren får redusert
-antall år med pensjon fra sju år til fem år. Dette var
-også stønadsperioden fra fiskerpensjonen ble etablert og fram til 1994.
-I og med at forslaget ikke gis virkning for medlemmer som er 50 år eller eldre når nye regler trer
-i kraft, vil forslaget ikke gi noen økonomisk effekt
-før det har gått ti år etter ikrafttredelsen. De første
-som er omfattet av endringen, vil da fylle 60 år,
-men må vente to år med å ta ut pensjon. På dette
-tidspunktet vil det ha gått ti år uten at det er kommet nye medlemmer inn i fiskerpensjonsordningen. Forslaget vil derfor ha en positiv effekt på
-økonomien i ordningen på et tidspunkt der inntekter fra medlemspremie er blitt vesentlig redusert.
-Departementet anser at å endre periode for
-uttak av pensjon fra 60–67 år til 62–67 år ikke er en
-grunnlovsstridig tilbakevirkning. Departementet
-viser til at det fra da loven trådte i kraft i 1958 og
-fram til 1994, ble utbetalt pensjon i kun fem år. Det
-var først med virkning fra 1994 at pensjon er blitt
-utbetalt i sju år. Departementet viser til at ved utvidelsen av utbetalingsperioden i 1994, ble det
-påpekt både fra departementet og ved behandlingen i Stortinget, at forbedringene i ordningen
-kunne foretas på grunn av at økonomien ble
-ansett for å være god. Departementet anser at det
-er et moment ved denne vurderingen at hva som
-utbetales av pensjon, ikke står i forhold til hva
-som er innbetalt av premie. For øvrig følger det
-direkte av lovens § 31 at rettigheter etter loven
-kan endres, innskrenkes eller oppheves ved
-senere lov. Endringen gjelder dessuten kun de
-som er yngre enn 50 år når nye regler trer i kraft.
-De som berøres vil derfor ha minst ti år til å omstille seg med tanke på endringer i pensjonsreglene.
-Forslaget om å øke nedre aldersgrense fra 60
-år til 62 år vil tilpasse nedre uttaksalder i pensjonstrygden for fiskere til nåværende nedre uttaksalder i folketrygden og store deler av det øvrige
-pensjonssystemet. I pensjonsforliket på Stortinget
-29. februar 2024 stilte et bredt flertall på Stortinget seg blant annet bak et forslag om gradvis
-økende aldersgrenser i pensjonssystemet. Den
-partssammensatte arbeidsgruppen skriver i sin
-rapport at de mener det er naturlig at en vurderer
-tilpasninger av aldersgrensene i en lukket pensjonstrygd for fiskere i avviklingstiden til
-endringene i folketrygden og det øvrige pensjonssystemet. Departementet er enig i at det vil være
-naturlig at aldersgrensene i pensjonstrygden for
-
-[Side 28]
-
-28
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-fiskere også tilpasses endringene som pensjonsforliket har enes om, slik at uttaksperioden i
-fiskerpensjonen beveger seg i takt med folketrygden og øvrige pensjonsordninger. Tilpasninger av
-pensjonstrygden for fiskere i avviklingstiden til
-pensjonsforliket vil følges opp av departementet i
-en senere prosess.
-Departementet foreslår en endring i tråd med
-det ovennevnte. Det vises til lovforslaget § 2 nr. 2,
-§ 6 nr. 2, § 8 første ledd andre punktum og § 21
-første og andre ledd.
-
-6.2.4 Avvikling av barnetillegget
-Departementet registrerer at det ikke har kommet noen innvendinger mot forslaget om at
-barnetillegget avvikles. Den partssammensatte
-arbeidsgruppen anbefaler også at barnetillegget
-avvikles.
-Ettersom forsørgingstillegg til barn i folketrygdens alderspensjon er avviklet, anser departementet at det heller ikke er grunnlag for å videreføre barnetillegg i fiskerpensjonen. Siden fiskerpensjonen kun gis i en begrenset periode, vurderer departementet at det ikke er nødvendig med
-noen forsert avvikling, men foreslår at de som
-mottar pensjon med barnetillegg når nye regler
-trer i kraft, får barnetillegget videreført så lenge
-de mottar pensjon og barnet er under 18 år.
-Departementet foreslår en endring i tråd med
-det ovennevnte. Det vises til lovforslaget § 7 nr. 3
-andre ledd og § 8 tredje ledd andre punktum.
-6.2.5 Finansiering av ordningen
-I høringsnotatet fra høsten 2021 ble departementets forslag om å lukke ordning for nye medlemmer, samt å øke uttaksalderen for medlemmer
-under 50 år, anslått å gi en akkumulert underdekning på om lag 530 millioner kroner med daværende satser for medlemspremie og omsetningsavgift. Departementet vurderte i høringsnotatet at
-staten bør bidra til finansieringen av en lukking og
-avvikling med et beløp i størrelsesorden det
-antatte beløpet staten måtte ha dekket gjennom
-statsgarantien dersom dagens fiskerpensjonsordning videreføres, noe som i høringsnotatet ble
-anslått til 360 millioner kroner. Departementet la i
-høringsnotatet til grunn at dette finansieringsgapet måtte bæres av næringen gjennom økt medlemspremie og omsetningsavgift.
-Departementet mener fortsatt at forslaget om
-fordelingen av kostnadene ved en lukking i
-høringsnotatet er rimelig, og samme finansieringsprinsipp lå til grunn i mandatet til den parts-
-
-2024–2025
-
-sammensatte arbeidsgruppen. Videre ble medlemspremien og omsetningsavgiften økt i statsbudsjettet for 2023, for å sikre en bedre balanse
-mellom inntekter og utgifter i ordningen i påvente
-av arbeidsgruppens vurderinger og oppfølging av
-disse.
-I forbindelse med arbeidsgruppen ble det
-gjort nye beregninger. Den akkumulerte underdekningen ved en videreføring av dagens fiskerpensjonsordning, med nivået på medlemspremien
-og omsetningsavgiften i 2022, altså før økningen
-av medlemspremien og omsetningsavgiften i
-2023, ble anslått til 241 millioner kroner. En lukking av ordningen for nye medlemmer, med økt
-uttaksalder for medlemmer under 50 år ved lukketidspunktet, ble anslått å gi en akkumulert underdekning på 215 millioner kroner med dagens nivå
-på medlemspremie og omsetningsavgift, og er
-altså ikke forventet å overstige det staten har sagt
-seg villig til å dekke.
-Finansieringsgapet som departementet i
-høringsnotatet la til grunn måtte dekkes av næringen er allerede dekket inn av næringen gjennom
-at medlemspremien og omsetningsavgiften ble
-økt i 2023. I tråd med det som ble signalisert i
-høringsnotatet, og i mandatet til arbeidsgruppen,
-vil departementet ikke foreslå noen videre økning
-av medlemspremien utover det som følger av
-reguleringen og ingen videre økning av omsetningsavgiften, og staten vil finansiere den forventede underdekningen i tiden framover som følger
-av lukkingen.
-Norges Fiskarlag ber i sitt høringsinnspill om
-at Staten garanterer at de yngste medlemmene i
-ordningen ikke utsettes for økning av medlemspremien utover prisvekst og plan for avvikling av
-pensjonsordningen. Departementet legger til
-grunn at det er naturlig å la planen for lukking og
-avvikling gå over lengre tid, og at nivået på medlemspremien og omsetningsavgiften holdes på
-dagens nivå i tråd med planen for avvikling av
-pensjonsordningen. En lukking kun for nye medlemmer vil innebære en lang avviklingstid og det
-er betydelig usikkerhet knyttet til ordningens
-framtidige økonomi. Dersom de økonomiske forutsetningene for statstilskuddet på et tidspunkt i
-løpet av avviklingstiden endrer seg vesentlig, kan
-det være grunn til å vurdere justering av medlemspremie og omsetningsavgift. Departementet
-viser videre til at den partssammensatte arbeidsgruppen peker på at de økonomiske framskrivningene er usikre, og at de anbefaler at ordningens økonomiske situasjon bør åpne for justeringer underveis både med hensyn til tidsperspektiv på avviklingen og fordeling av kostnader.
-
-[Side 29]
-
-2024–2025
-
-6.2.6
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-Forholdet til pensjonsordningen for
-arbeidstakere til sjøs
-
-Departementet mener at det ikke ville vært en
-god løsning å innlemme fiskerne i pensjonsordningen for arbeidstakere til sjøs, som Norsk Sjømannsforbund og Norsk Sjøoffiserforbund ønsker
-å utrede nærmere. Disse instansene mener blant
-annet at departementets forslag innebærer en
-manglende likebehandling av ansatte innen fiskeri, og viser til at medlemmer av pensjonsordningen for arbeidstakere til sjøs er ansatt på de
-samme fiskefartøyene, har samme skatte- og trygdemessige status som selvstendig næringsdrivende, og avlønnes av hyre og lott på lik linje som
-fiskerne. Videre mener disse instansene at forslaget innebærer at alderspensjon fra folketrygden
-alene skal være en god nok løsning for fiskerne
-som den eneste gruppen arbeidstakere i Norge.
-Departementet viser til at spørsmålet om en
-innlemmelse av fiskerne i pensjonsordningen for
-arbeidstakere til sjøs også ble diskutert i den
-partssammensatte arbeidsgruppen som utredet
-forslag til endringer i pensjonstrygden for fiskere.
-Arbeidsgruppens medlem fra Norsk Sjømannsforbund foreslo i arbeidsgruppen å utrede en løsning
-der fiskere som jobber på fiskefartøy som er så
-store at fartøyene er omfattet av pensjonsordningen for arbeidstakere til sjøs (PAS), skal opptas i
-PAS. De øvrige medlemmene av arbeidsgruppen
-ønsket ikke å gå videre inn i en utredning av en
-slik mulig løsning med obligatorisk medlemskap i
-en annen pensjonsordning, fordi en mener at det
-ikke er naturlig å ha obligatorisk medlemskap i en
-pensjonsordning for personer som defineres som
-selvstendig næringsdrivende. Det vil da framstå
-som ulogisk at en for en del av fiskerne erstatter
-et obligatorisk medlemskap i pensjonstrygden for
-fiskere med et obligatorisk medlemskap i en
-annen pensjonsordning. Det ble videre vist til at
-en lukking av pensjonstrygden for fiskere innebærer en fortsatt likebehandling av fiskere.
-Arbeidsgruppens medlem fra Fiskebåt mener at i
-den grad hele mannskapet på fiske- og fangstfartøy skal likebehandles må det heller skje gjennom
-at sjømannspensjonsordningen lukkes for ansatte
-på fiske- og fangstfartøy, og at det får bli opp til de
-ansatte og partene i arbeidslivet å finne frem til
-gode individuelle eller kollektive pensjonsspareordninger for hele mannskapet på fiske- og fangstfartøy.
-Departementet ser ikke et behov for å utrede
-en løsning som kun én av fiskernes organisasjoner ønsker, og der de andre av fiskernes organisasjoner mener det hverken er nødvendig eller
-
-29
-
-ønskelig at fiskerne har en egen, obligatorisk pensjonsløsning. Videre innebærer forslaget om å
-lukke pensjonstrygden for fiskere, og å ikke
-erstatte den med en annen pliktig ordning for fiskerne, en likebehandling av fiskere. Det innebærer også en likebehandling av fiskerne med det
-store flertallet av andre selvstendig næringsdrivende.
-Som arbeidsgruppen også peker på, foreligger
-det alternativer for å sikre seg en god og mer forutsigbar supplerende pensjonsdekning enn
-dagens pensjonstrygd for fiskere. Fiskerne kan i
-dag, som selvstendig næringsdrivende, etablere
-en egen pensjonsordning i medhold av innskuddspensjonsloven. Innskuddspensjonsordningen sikrer rett til alderspensjon, og den årlige opptjeningen kan tilpasses den enkeltes ønsker og
-behov. Videre er det også mulig å knytte forsikringer mot uførhet og død til ordningen. Pensjonen
-kan tas ut fra fylte 62 år. Den årlige pensjonen
-bestemmes ut fra den kapitalen som er oppspart,
-avkastningen på den, lengden på den tiden pensjonen ønskes tatt ut over og uttaksgrad. Fiskerne
-har i dag også mulighet til å inngå en avtale om
-individuell pensjonssparing (IPS) med en bank
-eller pensjonsinnretning.
-Hyre og annen utbetaling som ligningsmessig
-behandles som lønn skal også behandles som
-lønn i henhold til regelverket om obligatorisk tjenestepensjon. Arbeidsgivere for fiskere med hyreinntekter har altså et visst ansvar for å foreta pensjonsinnbetaling, selv om det for de aller fleste fiskere er lottinntektene som utgjør det bærende
-lønnselementet.
-Departementet ser at å lukke pensjonstrygden
-for fiskere vil kunne få konsekvenser for medlemmer av Maritim pensjonskasse (MPK) som i løpet
-av sin framtidige yrkeskarriere også arbeider som
-fiskere og som har opptjening i MPK i fartstidsbasert ordning, som Maritim pensjonskasse
-peker på i sitt høringsinnspill. Dette gjennom at
-muligheten til å benytte opptjent tid i pensjonstrygden for fiskere som hjelpetid i MPK vil falle
-vekk for de som ikke er aktive eller latente medlemmer av pensjonstrygden for fiskere før 1.
-januar 2026. For medlemmer av den fartstidsbaserte ordningen (gammelt regelverk) i MPK,
-arbeidstakere til sjøs født før 1970, vil slik hjelpetid kunne benyttes til å oppnå kravet om 150 fartsmåneder for å få rett til pensjon, og opptjente uker
-etter fylte 40 år i pensjonstrygden for fiskere kan
-brukes til å forhindre eller framskynde utskutt
-pensjonsalder. Hjelpetid opptjent i pensjonstrygden for fiskere kan altså brukes til påvirke om
-medlemmet har rett til løpende pensjon eller kun
-
-[Side 30]
-
-30
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-rett til en engangsutbetaling, og hvor lenge
-medlemmet kan ta ut pensjon.
-For medlemmer av MPK i inntektsbasert ordning med fartstid, skal fartsmåneder opptjent
-etter gammelt regelverk konverteres til en pensjonsbeholdning ved fylte 62 år. Om medlemmet
-oppnår rett til pensjon vurdert etter gammelt
-regelverk, og hvor tidlig medlemmet ville kunnet
-tatt denne ut, påvirker derfor størrelsen på pensjonen. Bruk av hjelpetid vil for disse medlemmene
-altså ikke påvirke om de har rett til pensjon fra
-MPK, eller tidligste uttaksalder, men samlet pensjon vil påvirkes av opptjeningen etter gammelt
-regelverk som konverteres og legges til pensjonsbeholdningen. For medlemmer av MPK som kun
-har opptjening i inntektsbasert ordning er ikke
-hjelpetid videreført, og en lukking av pensjonstrygden for fiskere vil ikke ha noen konsekvenser
-for de av disse medlemmene som også arbeider
-som fiskere i løpet av yrkeskarrieren.
-Departementet viser til at bortfallet av muligheten til å benytte hjelpetid opptjent i pensjonstrygden for fiskere, kun vil gjelde de av medlemmene i MPK som ikke har noen opptjening i pensjonstrygden for fiskere fra før 1. januar 2026. De
-som i løpet av yrkeskarrieren har jobbet som fiskere vil fortsatt kunne benytte hjelpetid opptjent i
-pensjonstrygden for fiskere, og vil fortsatt kunne
-benytte framtidig opptjent hjelpetid i pensjonstrygden for fiskere. Departementet viser videre til
-at hjelpetid ikke er videreført i ny ordning i MPK,
-og er derfor under utfasing. Den konverterte opptjeningen fra før 2020 vil også over tid utgjøre en
-stadig mindre andel av pensjonsopptjeningen for
-medlemmene av MPK i inntektsbasert ordning
-med fartstid. For medlemmer av MPK med opptjening før 2020, og som ikke har tidligere opptjening i pensjonstrygden for fiskere, vil mulige konsekvenser for pensjonen i MPK være kjent dersom de begynner å arbeide som fiskere for første
-gang etter 1. januar 2026. De det eventuelt gjelder
-vil heller ikke betale noen medlemspremie til
-noen av ordningene, i perioden de jobber som fiskere.
-
-6.2.7 Administrasjon av ordningen
-Pelagisk forening mener at det også burde vært
-vurdert om det er mulig å redusere de administrative kostnadene ved ordningen. Departementet
-viser til at den partssammensatte arbeidsgruppen
-også vurderte administrasjonen av ordningen.
-Arbeidsgruppen skriver at den mener administrasjonskostnadene er høye, men den har ikke funnet et alternativ som vurderes som klart bedre.
-
-2024–2025
-
-Arbeidsgruppen peker videre på det er relativt
-store beløp i utestående medlemspremie, og
-mener man bør se på mulige tiltak for å bedre innkrevingen av medlemspremie. Departementet vil
-vurdere mulige tiltak i lov eller forskrift i samråd
-med Garantikassen for fiskere, som administrerer
-ordningen, for å sikre at medlemspremien i større
-grad blir innbetalt når den skal.
-Norsk Sjøoffiserforbund skriver at de savner
-tall på hvordan Garantikassen for fiskere som forvalter ordningen er finansiert, og hvilke konsekvenser det vil ha for Garantikassen med hensyn til
-de øvrige ytelsene dersom pensjonstrygden for fisker endres eller avvikles. Departementet viser til
-Garantikassen for fiskeres høringssvar, der de vurderer at forslagene i høringsnotatet ikke medfører
-vesentlige konsekvenser for administreringen av
-ordningen. Administrasjonen av pensjonstrygden
-for fiskere er finansiert gjennom medlemspremien
-og omsetningsavgiften, og honoraret fastsettes
-etter en fordelingsbrøk, hvor de årlige kostnadene
-fordeles blant de ulike ordningene Garantikassen
-administrerer.
-
-6.2.8 Prosess
-Departementet viser til høringsinnspill fra Norsk
-Sjømannsforbund og Norsk Sjøoffiserforbund
-som peker på at næringen over år var lovet en
-gjennomgang av pensjonstrygden for fiskere, og
-at høringsnotatet var for dårlig utredet. Videre
-pekte også Norges Kystfiskarlag på noen aspekter
-de ønsket bedre belyst.
-Departementet viser til at det i etterkant av
-høringen ble nedsatt en partssammensatt arbeidsgruppe med oppdrag å beskrive og kartlegge pensjonsordningen for fiskere, vurdere behovet for
-en egen særskilt pensjonsløsning for fiskere eller
-om ordningen bør avvikles, og komme med tilrådinger om hvordan pensjonsløsningen eventuelt
-bør være. Den partssammensatte arbeidsgruppen
-fullførte sin rapport 20. desember 2024. Arbeidsgruppens hovedanbefalinger var de samme som
-forslagene i høringsnotatet, og en videre anbefaling fra arbeidsgruppens medlemmer fra næringen om en raskere avvikling under forutsetning
-om at staten dekker en større del av kostnadene.
-Arbeidsgruppen peker videre på at det er uheldig
-at nye medlemmer blir tatt inn i en ordning det er
-relativt bred enighet om å lukke, og at prosessen
-med en lukking av fiskerpensjonsordningen har
-pågått over lang tid og at det er nødvendig med
-framgang i saken slik at nødvendige endringer
-blir gjort.
-
-[Side 31]
-
-2024–2025
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-Departementet mener forslagene som følges
-opp her er godt utredet, og mener i likhet med
-arbeidsgruppen at det er viktig med framgang i
-saken. Departementet følger derfor nå opp
-arbeidsgruppens hovedanbefalinger, som også ble
-foreslått av departementet i høringsnotatet høsten
-2021. Departementet har også merket seg næringens ønske om en raskere avvikling av ordningen,
-og at staten tar en større del av underdekningen
-ved en raskere avvikling. Disse synspunktene vil
-tas med i vurderingen av veien videre etter at
-hovedanbefalingene fra arbeidsgruppen, som allerede har vært på høring, er gjennomført.
-
-6.2.9 Annet
-Når det gjelder innspillet om tilfeller der fiskere
-som åpenbart ikke vil få glede av fiskerpensjonsordningen plikter å være med på finansieringen,
-viser departementet til at gjeldende regelverk i
-utgangspunktet skal forhindre slike tilfeller. I fiskerpensjonsloven § 2 er det gitt regler om unntak
-fra trygdeplikt. Personer som hever alderspensjon
-etter loven, eller er over 60 år og har krevd premie
-tilbakebetalt, er unntatt fra trygdeplikt, se nr. 1
-bokstav a. Videre kan personer som er omfattet av
-pensjonsordningen for arbeidstakere til sjøs eller
-annen offentlig tilsvarende pensjonsordning,
-kreve unntak fra trygdeplikt, se nr. 1 bokstav b.
-
-31
-
-Personer som antas å bli hovedbeskjeftiget i
-annen næring enn fiske og fangst i storparten av
-kalenderåret, kan også kreve unntak fra trygdeplikt, se nr. 1 bokstav c. Etter nr. 2 kan personer
-som er over 46 år på det tidspunktet vedkommende første gang fyller vilkårene etter § 1, kreve
-seg unntatt fra trygden, siden disse ikke vil ha
-mulighet til å få tilstrekkelig opptjening før fylte
-60 år til å kunne få pensjon. Fiskere som er unntatt trygdeplikt vil likevel bidra i noen grad til
-finansieringen av ordningen gjennom omsetningsavgiften, som behandles som en fellesavgift i lottoppgjøret.
-Når det gjelder innspillet om at ved dødsfall bør
-etterlatte minst få utbetalt det som er innbetalt av
-avdød fisker til pensjonstrygden, viser departementet til at dagens ordning – der restbeløpet etter
-medlemmer som dør fordeles på de gjenlevende
-medlemmene i pensjonstrygden gjennom såkalt
-dødelighetsarv – er en sentral og viktig del av
-finansieringen av pensjonsordninger hvor ytelsene
-fra ordningen er definert, slik tilfellet er med pensjonstrygden for fiskere. Dødelighetsarven er en
-del av pensjonstrygdens finansiering i dag, og
-departementet kan ikke se at det er spesielle hensyn som tilsier en annen løsning som følge av at
-pensjonstrygden foreslås lukket for nye medlemmer.
-
-[Side 32]
-
-32
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-2024–2025
-
-7 Økonomiske og administrative konsekvenser
-Forslaget om å lukke ordningen for nye medlemmer fra og med 1. januar 2026, med økt uttaksalder til 62 år for medlemmer under 50 år ved lukketidspunktet, er forventet å gi en samlet underdekning i årene 2026–2036 på 205 millioner kroner. Ordningen gikk med overskudd i 2024, og det
-er derfor forventet et behov for at staten dekker
-195 millioner kroner. En lukking for nye medlemmer vil gradvis redusere inntektene til ordningen
-fra medlemspremien, og dette er forventet å gi en
-underdekning i ordningen fram til 2037. I 2036 vil
-den foreslåtte økte uttaksalderen for medlemmer
-under 50 år ved lukketidspunktet begynne å ha en
-positiv effekt på økonomien i ordningen, på et
-tidspunkt der inntekter fra medlemspremie er
-blitt vesentlig redusert.
-Det er en betydelig usikkerhet knyttet til prognosene for pensjonstrygden for fiskere. Beregningene forutsetter en konstant innbetalt omsetningsavgift. Faktisk innbetalt omsetningsavgift vil
-avhenge av en rekke faktorer, blant annet utvikling
-i priser og fiskeripolitikk. Omsetningsavgiften, som
-er ordningens hovedfinansieringskilde, har de siste
-årene vært rekordhøy, men det knytter seg usikkerhet til framtidige inntekter fra omsetningsavgiften. Dersom inntektene fra omsetningsavgiften
-viser seg å bli lavere enn forutsatt vil det øke underdekningen og kunne forskyve tidspunktet for når
-ordningen går med overskudd. Videre knytter det
-seg usikkerhet til utviklingen i antall aktive medlemmer, som vil påvirke både inntektene fra medlemspremien og pensjonsutgiftene på lengre sikt.
-Det er blitt utarbeidet flere prognoser for
-kostnadene ved en lukking de siste årene, som
-har vært relativt stabile, men prognosene hviler
-på usikre forutsetninger som vist til over. I beregningene som ble gjort i forbindelse med den
-partssammensatte arbeidsgruppen var en lukking for nye medlemmer, med økt uttaksalder til
-62 år for medlemmer under 50 år ved lukketidspunktet, forventet å gi en akkumulert underdekning på 215 millioner kroner. I disse beregningene ble det lagt til grunn tall fra regnskapet 2021
-og at balansen 1. januar 2022 starter med en
-
-akkumulert underdekning tilsvarende summen
-av statsgarantien for 2020 og 2021, det vil si
-67,8 millioner kroner. I disse beregningene ble
-det forutsatt at lovendringene trådte i kraft 1.
-januar 2022.
-Forslagene i denne proposisjonen er, som vist
-til over, forventet å gi et behov for at staten dekker
-195 millioner kroner i årene 2026–2036, og staten
-vil løpende finansiere den forventede underdekningen som følger av lukkingen. I tråd med det
-som ble signalisert i høringsnotatet, og i mandatet
-til arbeidsgruppen, vil departementet ikke foreslå
-noen videre økning av medlemspremien utover
-det som følger av reguleringen og ingen videre
-økning av omsetningsavgiften. Med dagens nivå
-på medlemspremie og omsetningsavgift, er forslagene altså forventet å gi en underdekning i ordningen i perioden 2026–2036, som staten løpende
-vil dekke gjennom statsbudsjettet. Som vist til i
-punkt 6.2.5 vil en lukking kun for nye medlemmer
-innebære en lang avviklingstid og det er betydelig
-usikkerhet knyttet til ordningens framtidige økonomi. Dersom de økonomiske forutsetningene for
-statstilskuddet på et tidspunkt i løpet av avviklingstiden endrer seg vesentlig, kan det være
-grunn til å vurdere justering av medlemspremie
-og omsetningsavgift. Departementet viser videre
-til at den partssammensatte arbeidsgruppen
-peker på at de økonomiske framskrivningene er
-usikre, og at de anbefaler at ordningens økonomiske situasjon bør åpne for justeringer underveis både med hensyn til tidsperspektiv på avviklingen og fordeling av kostnader.
-Forslaget om å avvikle barnetillegget, som
-innebærer at ingen nye barnetillegg innvilges
-etter 1. januar 2026, er forventet å ha en beskjeden økonomisk effekt. I 2024 var det 120 pensjonister som mottok barnetillegg, og det ble utbetalt
-2,8 millioner kroner.
-Forslaget er ikke ventet å ha noen administrative konsekvenser i overskuelig framtid, men vil
-innebære at pensjonstrygden for fiskere vil avvikles på lang sikt.
-
-[Side 33]
-
-2024–2025
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-33
-
-8 Pensjonstrygden for fiskeres forhold til bestemmelser om
-internasjonal trygdekoordinering
-EØS-avtalen har betydning for alderspensjon fra
-pensjonstrygden for fiskere. Blant annet får
-bestemmelsene om fri bevegelighet og om at
-enhver forskjellsbehandling på grunnlag av nasjonalitet i utgangspunktet er forbudt innenfor EØSavtalens virkeområde, anvendelse.
-Det følger av fiskerpensjonsloven § 30 nr. 2 at
-bestemmelsene som er gitt i eller i medhold av fiskerpensjonsloven, skal fravikes i den utstrekning
-det er nødvendig for å overholde forpliktelser som
-følger av EØS-avtalens hoveddel, trygdeforordningen (883/2004) og gjennomføringsforordningen
-(987/2009).
-Alderspensjonen fra pensjonstrygden for fiskere regnes som en ytelse ved alderdom etter
-trygdeforordningen artikkel 3.
-Fiskerpensjonslovens krav om minst 750 premieuker i ordningen for å ha rett til alderspensjon,
-praktiseres som følge av sammenleggingsprinsippet, som er grunnleggende innen trygdekoordinering, slik at personer som har drevet fiske i andre
-EØS-stater enn Norge kan få denne tiden medregnet for å oppfylle inngangsvilkårene for rett til fiskerpensjon. Vedkommende vil da på vanlig måte
-få en fiskerpensjon som står i forhold til den tiden
-vedkommende har vært medlem i fiskerpensjonsordningen.
-Bestemmelsene i fiskerpensjonsloven forutsetter ikke bosted eller opphold i Norge etter at pensjonen har kommet til utbetaling, og det forutset-
-
-tes heller ikke fortsatt medlemskap i ordningen.
-Det betyr at pensjonen fritt kan utbetales til personer som er bosatt i andre land, både innenfor og
-utenfor EØS.
-Norge ratifiserte 8. januar 2016 ILO-konvensjon nr. 188 om arbeidsvilkår i fiskerisektoren.
-Konvensjonen regulerer en rekke forhold. De ratifiserende statene skal blant annet sørge for at «…
-fiskere som til vanlig er bosatt på medlemsstatens
-territorium, og i den grad den nasjonale lovgivning gir rom for det; de personer de forsørger, er
-dekket av trygd som ikke er mindre gunstig enn
-den som gjelder for andre arbeidstakere, herunder lønnsmottakere eller selvstendig næringsdrivende som til vanlig er bosatt på medlemsstatens territorium». Det fremgår videre at statene
-«… gjennom bilaterale eller multilaterale avtaler
-og gjennom bestemmelser vedtatt innenfor rammen av regionale organisasjoner for økonomisk
-integrasjon, [kan] fastsette andre regler om trygdelovgivningen som gjelder for fiskere».
-I forkant av norsk ratifikasjon av denne konvensjonen ble det konstatert at disse forpliktelsene for Norges del ble utkvittert gjennom folketrygdloven og Norges folkerettslige forpliktelser
-til trygdekoordinering, uten at det var grunn til å
-omtale lov om pensjonstrygd for fiskere. Det
-samme ble lagt til grunn i Norges første rapport
-(2018) over implementeringen av konvensjonen.
-
-[Side 34]
-
-34
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-2024–2025
-
-9 Merknader til lovforslaget
-
-Til § 1
-
-Til § 7
-
-Forslaget til nytt andre punktum fastslår at den
-som 1. januar 2026 ikke har premieuker i pensjonsordningen, likevel ikke er trygdepliktig etter
-loven. Det vises til punkt 6.2.1.
-
-Etter § 7 nr. 3 har pensjonister som forsørger barn
-under 18 år, rett til barnetillegg for hvert barn
-med inntil 30 prosent av grunnbeløpet. Det foreslås at barnetillegget avvikles. Det foreslås å tas
-inn i et nytt § 7 nr. 3 andre ledd om at for rett til
-barnetillegg skal virkningstidspunktet ved framsetting av krav være før 1. januar 2026. Det foreslås at den som mottar pensjon med barnetillegg
-ved lovens ikrafttredelse, får barnetillegget videreført så lenge vedkommende mottar pensjon og
-barnet er under 18 år. Videre foreslås det at dersom alderspensjonistens barn dør før fylte 18 år,
-ytes tillegget ut den kalendermåneden dødsfallet
-inntreffer. Det vises til punkt 6.2.4.
-
-Til § 2
-Etter gjeldende § 2 nr. 2 kan personer som er over
-46 år på det tidspunktet vedkommende første
-gang fyller vilkårene etter § 1, kreve seg unntatt
-fra trygdeplikten. Bestemmelsen er ikke nødvendig som følge av forslaget til § 1 andre punktum.
-§ 2 nr. 2 foreslås derfor endret til å slå fast at den
-som 1. januar 2026 ikke har fylt 50 år, er unntatt
-fra trygdeplikt etter § 2 nr. 1 bokstav a tidligst når
-vedkommende har fylt 62 år. § 2 nr. 1 bokstav a
-slår fast at den som hever alderspensjon etter
-loven, eller som har fylt 60 år og har krevd premie
-tilbakebetalt, er unntatt fra trygdeplikten. Personer som 1. januar 2026 ikke har fylt 50 år, kan etter
-forslagene i proposisjonen her ikke heve alderspensjon etter denne loven eller kreve premie tilbakebetalt før fylte 62 år. Det vises til punkt 6.2.3.
-
-Til § 8
-Loven § 8 gir regler om utbetalingen av alderspensjon fra ordningen. Forslaget til § 8 første ledd nytt
-andre punktum slår fast at alderspensjon etter første punktum ytes fra og med kalendermåneden
-etter den måneden pensjonisten fyller 62 år til den
-som 1. januar 2026 ikke har fylt 50 år. Det vises til
-punkt 6.2.3.
-
-Til § 3
-Etter § 3 nr.1 og 2 har enkelte personer rett til å
-stå som frivillig medlem av trygden for deler av
-kalenderåret eller på fulltid. Forslaget til § 3 ny nr.
-3 slår fast at retten til frivillig medlemskap i trygden etter nr. 1 og nr. 2 ikke gjelder for dem som 1.
-januar 2026 ikke har premieuker i pensjonsordningen. Det vises til punkt 6.2.1.
-
-Til § 8
-Gjeldende § 8 tredje ledd andre punktum bestemmer stans av barnetillegget dersom pensjonistens
-barn dør. Det foreslås at bestemmelsen tas inn i
-§ 7 nr. 3, og at § 8 tredje ledd andre punktum oppheves. Det vises til punkt 6.2.4.
-Til § 21
-
-Til § 6
-Av § 6 nr. 1 følger det at rett til alderspensjon har
-den som har minst 750 premieuker. Av nr. 2 følger
-at pensjonsalderen er 60 år. Forslaget til § 6 nr. 2
-nytt andre punktum slår fast at for personer som 1.
-januar 2026 ikke har fylt 50 år, er pensjonsalderen
-62 år. Det vises til punkt 6.2.3.
-
-I § 21 første ledd foreslås det tilføyd at den som 1.
-januar 2026 ikke har fylt 50 år, kan framsette krav
-etter første punktum først ved fylte 62 år. I andre
-ledd foreslås tilføyd at ektefelle og barn til en trygdet som 1. januar 2026 ikke har fylt 50 år, har
-samme rett til tilbakebetaling av premie som etter
-første ledd dersom den trygdete dør før fylte 62
-år. Det vises til punkt 6.2.3.
-
-[Side 35]
-
-2024–2025
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-35
-
-Arbeids- og inkluderingsdepartementet
-
-Ikrafttredelsesbestemmelsen
-Departementet foreslår at loven trer i kraft fra den
-tid Kongen bestemmer. Departementet legger
-opp til at loven skal tre i kraft 1. januar 2026.
-
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et framlagt forslag til proposisjon til Stortinget om
-endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden).
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om endringer i lov om pensjonstrygd for fiskere (lukking
-av pensjonstrygden) i samsvar med et vedlagt forslag.
-
-[Side 36]
-
-36
-
-Prop. 133 L
-Endringer i lov om pensjonstrygd for fiskere (lukking av pensjonstrygden)
-
-2024–2025
-
-Forslag
-til lov om endringer i lov om pensjonstrygd for fiskere (lukking
-av pensjonstrygden)
-
-I lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere gjøres følgende endringer:
-§ 1 skal lyde:
-Trygdepliktig etter denne lov er, med de unntak som følger av bestemmelser i § 2, enhver som
-er ført på blad B i det registeret/manntallet som
-er satt opp etter § 4 i loven her. Den som 1. januar
-2026 ikke har premieuker i trygden, er likevel ikke
-trygdepliktig etter denne loven.
-§ 2 nr. 2 skal lyde:
-2. Den som 1. januar 2026 ikke har fylt 50 år,
-er unntatt fra trygdeplikt etter nr. 1 litra a tidligst
-ved fylte 62 år.
-§ 3 ny nr. 3 skal lyde:
-3. Retten til frivillig medlemskap i trygden etter
-nr. 1 og nr. 2 gjelder ikke personer som er unntatt
-fra trygdeplikt etter § 1 andre punktum.
-§ 6 nr. 2 nytt andre punktum skal lyde:
-Pensjonsalderen er 62 år for personer som 1. januar
-2026 ikke har fylt 50 år.
-§ 7 nr. 3 nytt andre ledd skal lyde:
-For rett til barnetillegg skal virkningstidspunktet
-ved framsettingen av kravet være før 1. januar
-2026. Den som mottar barnetillegg denne datoen,
-får barnetillegget videreført så lenge vedkommende
-
-mottar pensjon, og barnet er under 18 år. Dør pensjonistens barn før fylte 18 år, ytes tillegget ut kalendermåneden dødsfallet inntreffer.
-§ 8 første ledd nytt andre punktum skal lyde:
-Til den som 1. januar 2026 ikke har fylt 50 år, ytes
-alderspensjon etter første punktum fra og med
-kalendermåneden etter den måneden pensjonisten
-fyller 62 år.
-§ 8 tredje ledd andre punktum oppheves.
-§ 21 første og andre ledd skal lyde:
-Den som ved fylte 60 år ikke har opparbeidet
-750 premieuker, kan kreve den innbetalte pliktige
-og frivillige premien tilbakebetalt, dog med fradrag for de første 75 premieuker. Den som 1.
-januar 2026 ikke har fylt 50 år, kan først framsette
-krav etter første punktum ved fylte 62 år.
-Samme rett til tilbakebetaling av premie har
-ektefelle og barn til en trygdet som dør før fylte 60
-år. Ektefelle og barn til en trygdet som 1. januar
-2026 ikke har fylt 50 år, har rett til tilbakebetaling
-av premie dersom den trygdete dør før fylte 62 år.
-II
-Loven trer i kraft fra den tiden Kongen bestemmer. Kongen kan sette de ulike bestemmelsene i
-kraft til ulik tid.
-
-Departementenes sikkerhets- og serviceorganisasjon
-
-I
+# Forslag til endringer i lov om pensjonstrygd for fiskere
+
+## Høringsinstansenes syn i høringsrunden
+
+### Lukking av ordningen
+
+Departementet foreslo i høringsnotatet at pensjonsordningen lukkes for nye medlemmer. En nærmere redegjørelse for forslaget er gitt i punkt 4.1.
+
+*Norges Fiskarlag* mener departementets forslag om lukking av ordningen for nye medlemmer er saklig og velbegrunnet og kan derfor støtte forslaget. De peker på at en lukking kun for nye medlemmer vil medføre en meget lang tidshorisont, og ber om at ordningen avvikles raskere om det etter hvert viser seg mulig uten at det går på bekostning av rettighetene til medlemmene i ordningen. Videre ber Norges Fiskarlag om at Staten garanterer at de yngste medlemmene i ordningen ikke utsettes for økning av medlemspremien utover prisvekst og plan for avvikling av pensjonsordningen.
+
+*Norges Kystfiskarlag* skriver at ettersom ordningen har gått med underskudd over lang tid og behovet for førtidspensjonering blant fiskere ikke lenger anses som like relevant, støtter Norges Kystfiskarlag departementets vurdering om en lukking og etter hvert avvikling av ordningen. De skriver at fiskere etter avviklingen vil likestilles med andre selvstendige næringsdrivende når det gjelder pensjon. Som et alternativ foreslår Norges Kystfiskarlag at man utreder modelløsninger basert på at ordningen går fra å være en pliktig ordning til å bli en frivillig ordning, og at dette vil kunne bidra til en hurtigere avvikling av ordningen og gi fiskere mulighet til å finne alternative løsninger for innskuddspensjon. Kystfiskarlaget understreker at på tross av den lange tidshorisonten for avvikling, er det viktig for deres medlemmer at pensjonsordningen kun stenges for nye medlemmer. Medlemmer som har betalt både medlemspremie og omsetningsavgift i ordningen over tid vil anse det som svært urettferdig dersom de nå stenges ute av ordningen.
+
+*Fiskebåt* skriver at på bakgrunn av den usikkerheten som råder om ordningens framtidige økonomi, de prinsipielle forholdene knyttet til pensjon for selvstendig næringsdrivende og at ordningen er mindre relevant, støtter Fiskebåt forslaget om at ordningen lukkes. Fiskebåt mener det bør innføres en lukkealder. Ved fastsettelse av denne må man ta hensyn til fiskernes berettigede forventninger om pensjon. De mener at så lenge de ansatte får en rimelig tidshorisont til å omstille seg og får tilbakebetalt innbetalt premie som kan plasseres i private pensjonsspareløsninger, bør det kunne settes en høy lukkealder. Fiskebåt anbefaler i utgangspunktet at denne settes til 50 år, under forutsetning om at fordelingen av at den økte underdekningen som følger av en lukking dekkes gjennom et spleiselag mellom næringen, herunder rederiene, og de tilgodesette medlemmene av ordningen, og hvor staten tar en større del av kostnadene enn det som er skissert i høringsnotatet.
+
+*Pelagisk forening* ser at samfunnet har endret seg vesentlig siden fiskerpensjonsordningen ble innført, og har ikke innvendinger til at ordningen blir lukket og på sikt avviklet. De mener det er viktig at fiskere som har betalt inn til ordningen, og derfor har en forventning til utbetaling av fiskerpensjon, ikke blir skadelidende ved lukking. Prinsipielt mener Pelagisk forening at ordningen bør lukkes slik at ordningen blir helt avviklet på så kort tid som mulig. De peker videre på at når ordningen er avviklet, må også omsetningsavgiften bli opphevet.
+
+*Norsk Sjømannsforbund* mener at ordningen må videreføres som i dag, inntil et partssammensatt utvalg har tatt en grundig gjennomgang av ordningen og sett på mulighetene for tilpasninger som kan gi også fiskerne et minimum av lovpålagte pensjonsrettigheter. Sjømannsforbundet har forståelse for at underdekningen i pensjonstrygden for fiskere ikke er bærekraftig og at det er nødvendig å gjøre endringer. De skriver at de har ventet tålmodig i en årrekke på en lovet gjennomgang av pensjonstrygden for fiskere, og at de mener departementet løper fra både ansvar og løfter med forslaget til lukking og avvikling på dette tidspunktet. De mener videre at høringsnotatet er særdeles tynt og inneholder minimalt med faktaopplysninger når det gjelder det økonomiske grunnlaget for forslaget. Videre savner de en nærmere begrunnelse for hvorfor departementet ikke har vurdert eller kommentert mulighetene til å ivareta også fiskernes rett til tjenestepensjon gjennom pensjonsordningen for arbeidstakere til sjøs, som allerede har systemene på plass.
+
+*Norsk Sjøoffiserforbund* er enig med departementet i at pensjonstrygden for fiskere er moden for endring, men mener samtidig at høringsnotatet ikke grundig nok utreder pensjonsordningen slik den er i dag og hvilke konsekvenser eventuelle endringer vil måtte få. Sjøoffisersforbundet mener at det vil være naturlig å se nærmere på hvordan fiskere eventuelt kan ivaretas gjennom pensjonsordningen for arbeidstakere til sjøs og savner derfor en nærmere begrunnelse for at departementet ikke anser dette som formålstjenlig. På bakgrunn av at de mener det er flere forhold som ikke er grundig nok utredet ber de om at departementet igangsetter en reell partssammensatt utredning av dagens pensjonstrygd for fiskere.
+
+*Garantikassen for fiskere* skriver at etter deres oppfatning er det opp til fiskernes faglige organisasjoner, på vegne av sine medlemmer, å mene noe om hvordan den framtidige pensjonsordningen skal utformes. De viser til at de er administrator av ordningen, og det er derfor ikke naturlig at de har sterke meninger om dette.
+
+*Åkerøy Kystfiske AS* mener ordningen må lukkes for nye medlemmer. De mener videre at medlemmer under 50 år på lukkingstidspunktet ikke bør fortsette i ordningen, dette for å sikre en raskere avvikling og begrense de totale forvaltningskostnadene. De skriver at omsetningsavgiften må settes betydelig ned, og at økt underdekning bør inndekkes gjennom økt medlemspremie og av staten.
+
+*Arbeids- og velferdsdirektoratet* har ingen særlige merknader utover at de antar at både forslaget om å lukke ordningen for nye medlemmer og å øke uttaksalderen til 62 år, på sikt vil kunne medføre noe økte utgifter til arbeidsavklaringspenger.
+
+### Avviklingstid
+
+*Fiskebåt* peker på at dersom ordningen kun skal lukkes for nye medlemmer fra og med 2023 vil ikke ordningen kunne avvikles før femti år frem i tid. Forutsetningene omkring fremtidige inntekter og utgifter over en så lang tidsperiode fremstår etter Fiskebåts syn særdeles usikre. De skriver at hvordan fiskerinæringen ser ut om noen tiår er vanskelig å spå, og både førstehåndsverdien og antallet medlemmer avhenger av faktorer som er ukjente. På sikt vil dessuten situasjonen langt på vei bli den samme som oppstår ved å sette en høy lukkealder, nemlig at mange fiskere som ikke omfattes av ordningen må delta i finansieringen av pensjonen til noen få gjennom omsetningsavgiften.
+
+Fiskebåt mener derfor at det bør innføres en lukkealder. Ved fastsettelse av denne må det tas hensyn til fiskernes berettigede forventninger om pensjon. Så lenge de ansatte får en rimelig tidshorisont til å omstille seg og får tilbakebetalt innbetalt premie som kan plasseres i private pensjonsspareløsninger, bør det kunne settes en høy lukkealder. Fiskebåt anbefaler i utgangspunktet at lukkealderen settes til 50 år, dog under følgende forutsetninger om fordelingen av de økte kostnadene: Underdekningen som oppstår ved lukking må dekkes gjennom et spleiselag mellom næringen, herunder rederiene og de tilgodesette medlemmene av ordningen, og hvor staten tar en større del av kostnadene enn det som er skissert i høringsnotatet. Fiskebåt viser i den sammenheng til at underdekningen skyldes strukturendringer i flåteleddet som har skjedd over en lang tidsperiode, og som kunne og burde vært grepet tak i på et tidligere tidspunkt, mens det ennå var midler i likviditetsfondet.
+
+*Pelagisk Forening* mener prinsipielt at ordningen bør lukkes slik at den blir avviklet på så kort tid som mulig.
+
+*Norges Fiskarlag* skriver at en lukking av pensjonstrygden for fiskere for kun nye medlemmer vil medføre at ordningen ikke avvikles før om 50 år. Dette er en meget lang tidshorisont, og de ber om at ordningen avvikles raskere om det etter hvert tyder på at det er mulig, uten at det går på bekostning av rettighetene til medlemmene i ordningen.
+
+*Norges Kystfiskarlag* understreker at på tross av den lange tidshorisonten for avvikling er det viktig for deres medlemmer at pensjonsordningen kun stenges for nye medlemmer. Medlemmer som har betalt både medlemspremie og produktavgift til ordningen over tid vil anse det som svært urettferdig dersom de nå stenges ute av ordningen. Som et alternativ foreslår Norges Kystfiskarlag at man utreder modelløsninger basert på at ordningen går fra å være en pliktig ordning til å bli en frivillig ordning, og at dette vil kunne bidra til en hurtigere avvikling av ordningen og gi fiskere mulighet til å finne alternative løsninger for innskuddspensjon.
+
+*Norsk Sjømannsforbund* mener ordningen må videreføres som i dag inntil et partssammensatt utvalg har tatt en grundig gjennomgang av ordningen og sett på mulighetene for tilpasninger som kan gi også fiskerne et minimum av lovpålagte pensjonsrettigheter.
+
+*Åkerøy Kystfiske AS* mener at medlemmer under 50 år på lukketidspunktet ikke bør fortsette i ordningen. Dette for å sikre en raskere avvikling og begrense de totale forvaltningskostnadene. Åkerøy Kystfiske AS skriver videre at medlemmer som blir lukket ute må få dekket innbetalingene sine fratrukket 75 uker.
+
+### Heving av nedre uttaksalder
+
+Departementet foreslo i høringsnotatet at uttaksalderen økes fra 60 år til 62 år, for medlemmer under 50 år på lukketidspunktet. En nærmere redegjørelse for forslaget er gitt i punkt 4.1.
+
+*Norges Fiskarlag* og *Fiskebåt* støtter å heve uttaksalderen til 62 år.
+
+*Norsk Sjøoffiserforbund* mener det er uheldig at man i forslaget øker aldersgrensen fra 60 til 62 år for dem som på omleggingstidspunktet ikke har fylt 50 år uten at disse også får andre endringer i vilkårene. Etter deres vurdering burde man heller sett på en økning av innbetalingene gjennom eksempelvis økte satser, enn å legge hele regningen på de yngre årskullene.
+
+Øvrige instanser hadde ikke merknader til forslaget.
+
+### Avvikling av barnetillegget
+
+Departementet foreslo i høringsnotatet at barnetillegget avvikles. En nærmere redegjørelse for forslaget er gitt i punkt 4.1.
+
+*Norges Fiskarlag* og *Fiskebåt* støtter å fjerne barnetillegget.
+
+Øvrige instanser hadde ikke merknader til forslaget.
+
+### Finansiering av ordningen
+
+*Norges Fiskarlag* er innforstått med at medlemspremie og omsetningsavgift vil måtte økes for å dekke utgiftene ved utbetaling av pensjon. Av hensyn til det øvrige avgiftsnivået i fiskerinæringen ber de om at økningen ikke blir urimelig og at staten bærer kostnadene som i det minste tilsvarer videreføring av ordningen, slik som skissert i høringsnotatet
+
+*Norges Kystfiskarlag* registrerer at i departementets lukkingsforslag økes medlemspremien med 25 prosent og omsetningsavgiften med 0,05 prosentpoeng. Kystfiskarlaget vil på det sterkeste fraråde en slik økning. De viser til at ordningen er drevet med underskudd over lang tid uten at det er tatt skikkelig grep, og mener at staten må ta ansvar for, og bidra til, finansieringen av en langt større del av underdekningen. De mener det ikke er akseptabelt at den enkelte fiskeren skal bli pålagt en økning på flere tusen kroner i tvungen pensjonssparing i en ordning som planlegges avviklet. De skriver videre at fiskerne opplever et stort trykk av nye og økte avgifter, gebyrer og investeringskrav, noe omsetningsavgiften og medlemspremien vil komme på toppen av. For flere fiskere i den mindre flåten er driftsøkonomien sårbar for en slik økning i det samlede kostnadsnivået.
+
+*Fiskebåt* viser til at omsetningsavgiften behandles som en fellesavgift i lottoppgjøret, og om omsetningsavgiften skal økes ytterligere innebærer det dermed at kostnadene veltes over på rederi og mannskap som ikke omfattes av pensjonsordningen. De mener det også er et moment at de samlede pensjonsutgiftene til arbeidsgiverne i fiske og fangst har økt betydelig etter omleggingen av pensjonsordningen for arbeidstakere til sjøs. Fiskebåt mener derfor at underdekningen primært må inndekkes gjennom økte medlemspremier fra de som fortsatt tilgodeses i ordningen, og av staten.
+
+### Forholdet til pensjonsordningen for arbeidstakere til sjøs
+
+*Norsk Sjømannsforbund* savner en nærmere begrunnelse for hvorfor departementet ikke har vurdert eller kommentert mulighetene til å ivareta også fiskernes rett til tjenestepensjon gjennom pensjonsordningen for arbeidstakere til sjøs, som allerede har systemene på plass. De stiller seg undrende til departementets påstand om at løsningen som ble vedtatt for arbeidstakere til sjøs, ikke uten videre er egnet for fiskere. De skriver at selv om fiskere har en skatte- og trygdemessig status som selvstendig næringsdrivende, er de ansatte og kan sies opp på lik linje med andre arbeidstakere i Norge. De viser videre til at i overkant av 2 000 medlemmer av pensjonsordningen for arbeidstakere til sjøs er ansatt på de samme fiskefartøyene som fiskerne, og innehar samme skatte- og trygdemessige status som selvstendig næringsdrivende, de avlønnes av hyre og lott på lik linje som fiskerne, og at den eneste forskjellen er at de har en annen stillingsbenevnelse enn fisker.
+
+Norsk Sjømannsforbund skriver videre at de reagerer på det de oppfatter som en manglende likebehandling av ansatte innen fiskeri. De kan ikke se hvorfor fiskerne, på lik linje med andre ansatte innenfor samme næringen, ikke skulle ha samme minimum av pensjonsrettigheter som sine kollegaer. De skriver videre at hensikten med innføringen av obligatorisk tjenestepensjon var å legge til rette for at arbeidstakere skulle ha pensjonsrettigheter i tillegg til alderspensjonen fra folketrygden, og at nå legger altså departementet til grunn at de som innehar stillingstittel fiskere, skal fratas sin lovpålagte tjenestepensjon og at alderpensjonen alene er en god nok løsning som den eneste gruppen arbeidstakere i Norge. Det kan ikke Norsk Sjømannsforbund akseptere.
+
+*Norsk Sjøoffiserforbund* mener at det vil være naturlig å se nærmere på hvordan fiskere eventuelt kan ivaretas gjennom pensjonsordningen for arbeidstakere til sjøs og savner derfor en nærmere begrunnelse for at departementet ikke anser dette som formålstjenlig. De viser til at det er for tiden over 2 000 medlemmer i pensjonsordningen for arbeidstakere til sjøs som har sin hovedbeskjeftigelse innenfor fiskeri. Sjøoffiserforbundet mener det derfor er uheldig at man går for en løsning hvor fiskere ikke skal ha rett til det samme minimum av pensjonsrettigheter som eksempelvis styrmannen som omfattes av pensjonsordningen for arbeidstakere til sjøs. Dette mener de ikke er likebehandling av ansatte, og at det i beste fall blir upresist å begrunne dette med at fiskere er selvstendig næringsdrivende, da denne tolkningen også vil være tilfellet for eksempelvis styrmannen.
+
+Norsk Sjøoffiserforbund mener videre at det kan oppfattes litt motsetningsfullt når man på den ene siden valgte å reformere pensjonsordningen for arbeidstakere til sjøs, mens man på den andre siden ønsker å avvikle pensjonstrygden for fiskere. Det betyr ikke at de nødvendigvis mener at opprettholdelse av dagens fiskerpensjon er det riktige, men de mener behovet for en pensjonsordning før fylte 67 år (i tillegg til eventuell alderspensjon fra folketrygden) taler for at fiskere bør omfattes av en ordning som eksempelvis pensjonsordningen for arbeidstakere til sjøs. De skriver at hensikten med innføringen av obligatoriske tjenestepensjon på midten av 2000-tallet nettopp var å legge til rette for pensjonsrettigheter i tillegg til alderspensjon fra folketrygden.
+
+*Fiskebåt* mener det ikke kan være aktuelt å inkludere fiskerne i pensjonsordningen for arbeidstakere til sjøs. Fiskebåt mener at det parallelt med en lukking av fiskerpensjonen vil være naturlig at det også vurderes lukking av pensjonsordningen for arbeidstakere til sjøs for ansatte på fiske- og fangstfartøy, så får det bli opp til ansatte og partene i arbeidslivet å finne fram til gode individuelle eller kollektive pensjonsspareordninger for hele mannskapet på fiske- og fangstfartøy.
+
+*Pensjonstrygden for sjømenn* (nå Maritim pensjonskasse), som administrerer pensjonsordningen for arbeidstakere til sjøs (PAS), kommenterer at forslagene vil kunne påvirke deres medlemmer som i yrkeskarrieren også arbeider som fiskere. Disse kan anvende opptjente premieuker i pensjonstrygden for fiskere til å oppnå minstekravet for rett til løpende pensjon fra Maritim pensjonskasse (MPK) i fartstidsbasert ordning (hjelpetid). Medlemmer av MPK i fartstidsbasert ordning kan også bruke tiden fra pensjonstrygden for fiskere til å forhindre eller fremskynde utskutt pensjonsalder, som er en forskyvning av pensjonsalderen ved for få pensjonsgivende fartsmåneder etter fylte 40 år, og dermed ta ut pensjon fra MPK ved et tidligere tidspunkt.
+
+For medlemmer av MPK som har opptjening i både fartstidsbasert ordning og inntektsbasert ordning, vil det skje en konvertering av fartsmånedene til pensjonsbeholdning ved fylte 62 år, der utfallet av konverteringen er avhengig av den totale opptjeningen medlemmet har etter både den fartstidsbaserte og den inntektsbaserte ordningen, og der tid i pensjonstrygden for fiskere vil kunne brukes som hjelpetid for å komme over 150 måneder og dermed komme økonomisk sett vesentlig bedre ut. Hjelpetid kan også for disse påvirke hvor mange år med pensjonsutbetaling medlemmet ville hatt rett til etter gammel ordning, og dermed påvirke størrelsen på pensjonsbeholdningen etter konverteringen.
+
+### Administrasjon av ordningen
+
+*Pelagisk forening* mener det også burde vært vurdert om det er mulig å redusere de administrative kostnadene ved ordningen.
+
+*Garantikassen for fiskere* skriver at forslagene i høringsnotatet ikke medfører vesentlige konsekvenser for administreringen av ordningen.
+
+*Norsk Sjøoffiserforbund* skriver at de savner tall på hvordan Garantikassen for fiskere som forvalter ordningen er finansiert, og hvilke konsekvenser det vil ha for Garantikassen med hensyn til de øvrige ytelsene dersom pensjonstrygden for fiskere endres eller avvikles.
+
+### Prosess
+
+*Norges Kystfiskarlag* skriver at de savner en mer helhetlig gjennomgang av den økonomiske situasjonen, samt arbeids- og helsesituasjon til fiskere i dag, og at de gjerne hadde sett at dette ble grundigere belyst.
+
+*Norsk Sjømannsforbund* mener at ordningen må videreføres som i dag, inntil et partssammensatt utvalg har tatt en grundig gjennomgang av ordningen og sett på mulighetene for tilpasninger som kan gi også fiskerne et minimum av lovpålagte pensjonsrettigheter. De skriver at de har ventet tålmodig i en årrekke på en lovet gjennomgang av pensjonstrygden for fiskere, og at de mener departementet løper fra både ansvar og løfter med forslaget til lukking og avvikling på dette tidspunkt. De mener videre at høringsnotatet er særdeles tynt og inneholder minimalt med faktaopplysninger når det gjelder det økonomiske grunnlaget til forslaget. Videre savner de en nærmere begrunnelse for hvorfor departementet ikke har vurdert eller kommentert mulighetene til å ivareta også fiskernes rett til tjenestepensjon gjennom pensjonsordningen for arbeidstakere til sjøs, som allerede har systemene på plass.
+
+*Norsk Sjøoffiserforbund* mener det er flere forhold som ikke er grundig nok utredet gjennom høringsnotatet og ber om at departementet igangsetter en reell partssammensatt utredning av dagens pensjonstrygd for fiskere. De mener at de foreslåtte endringene berører flere prinsipielle spørsmål som ikke i tilstrekkelig grad er drøftet, herunder: (1) forholdet til pensjonsordningen for arbeidstakere til sjøs, (2) betydningen av kategoriseringen som selvstendig næringsdrivende for fiskere som like fullt er underlagt et arbeidstakerforhold, (3) mangel på likebehandling av ansatte på fiskefartøy, (4) hvem som skal stå ansvarlig for arbeidstakeres pensjonsordninger, og (5) rimeligheten ved ensidig og i betydelig omfang redusere en aldersgruppes pensjonsytelser for å sikre pensjonsytelsene for en annen aldersgruppe.
+
+### Annet
+
+*Norges Kystfiskarlag* mener at ved dødsfall bør etterlatte minst få utbetalt det som er innbetalt av avdød fisker til pensjonstrygden.
+
+*Pelagisk forening* uttaler at de har sett tilfeller der fiskere som åpenbart ikke vil få glede av ordningen plikter å være med på finansieringen. Som eksempel nevner de fiskere over 67 år, som må betale inn til ordningen. De mener det bør vurderes å endre regelverket slik at en unngår slike klart urimelige tilfeller.
+
+## Departementets vurderinger og forslag
+
+### Lukking av ordningen
+
+Departementet registrerer at det er bred enighet om behovet for endringer i dagens pensjonstrygd for fiskere. Flertallet av høringsinstansene støtter en lukking og avvikling, og gir heller ikke uttrykk for noe ønske om at pensjonstrygden for fiskere skal erstattes med en annen pliktig ordning. Høringsinstansene peker blant annet på ordningens usikre økonomi, at ordningen er mindre relevant, og de prinsipielle forholdene knyttet til pensjon for selvstendig næringsdrivende. Norsk Sjømannsforbund og Norsk Sjøoffisersforbund mente at ordningen burde videreføres inntil et partssammensatt utvalg hadde tatt en grundig gjennomgang av ordningen. Disse instansene gir likevel også uttrykk for at det er behov for endringer.
+
+I etterkant av høringen ble det nedsatt en partssammensatt arbeidsgruppe som har utredet forslag til endringer i pensjonstrygden for fiskere, og anbefalingene fra denne er i stor grad sammenfallende med forslagene i høringsnotatet. En samlet arbeidsgruppe, med unntak av medlemmet fra Norsk Sjømannsforbund, konkluderer med at det ikke er et behov for en egen særskilt og pliktig pensjonsløsning for fiskere, og at pensjonstrygden for fiskere bør lukkes for nye medlemmer. Arbeidsgruppens medlem fra Norsk Sjømannsforbund mener det fortsatt er behov for en pliktig pensjonsordning for fiskerne. Dette medlemmet har foreslått å utrede en løsning der fiskere som jobber på fiskefartøy som er så store at fartøyene er omfattet av pensjonsordningen for arbeidstakere til sjøs (PAS), skal opptas i PAS. Dette medlemmet støtter ikke en lukking uten at det gjennomføres en slik utredning.
+
+Arbeidsgruppen konstaterer at pensjonstrygden for fiskere i sin nåværende form har en rekke svakheter. Ordningens innretning fører til at mange fiskere betaler premie i mange år uten at de får noen pensjon tilbake, grunnet den lange opptjeningstiden som kreves og reglene om bortfall av pensjon ved mottak av uføretrygd eller arbeidsavklaringspenger. Det er også relativt mange som gjennom omsetningsavgiften bidrar økonomisk til at noen relativt få skal få pensjon. Effektivisering i fiskerinæringen har over tid ført til en nedgang i antall aktive fiskere, og dette har skapt en ubalanse mellom antall avgiftsbetalende fiskere og pensjonister, og gjort ordningen tyngre å finansiere for de aktive fiskerne og næringen. Å skulle gjøre forbedringer i ordningen, vil øke kostnadene ytterligere.
+
+Departementet deler arbeidsgruppens syn på at dagens pensjonstrygd for fiskere har en rekke svakheter. Da høringsnotatet ble sendt ut høsten 2021 var ordningen i tillegg underfinansiert. Selv om ordningen per dags dato er i balanse, har ordningen blitt tyngre å finansiere for de aktive fiskerne og næringen gjennom økningene av medlemspremie og omsetningsavgift siden 2020, og det knytter seg i tillegg betydelig usikkerhet rundt ordningens framtidige økonomi. Departementet viser videre til at både Norsk Sjømannsforbund og Norsk Sjøoffisersforbund i høringen gir uttrykk for at det er behov for endringer. Norsk Sjømannsforbunds medlem i arbeidsgruppen støtter også en lukking og avvikling av pensjonstrygden for fiskere, gitt at den erstattes av en annen pliktig ordning.
+
+Departementet registrerer at det er bred enighet om at dagens pensjonstrygd for fiskere har en rekke svakheter, og ser ingen grunn til å videreføre en ordning ingen av høringsinstansene egentlig ønsker. Departementet foreslår at pensjonstrygden for fiskere lukkes for nye medlemmer fra og med 1. januar 2026.
+
+Videre mener den partssammensatte arbeidsgruppen, alle unntatt medlemmet fra Norsk Sjømannsforbund, at det ikke er behov for en egen særskilt og pliktig pensjonsløsning for fiskere. Arbeidsgruppen viser til at samfunnet har endret seg vesentlig siden fiskerpensjonsordningen ble innført, og at behovet for en nedtrappingspensjon ikke lenger anses som like relevant. Arbeidsgruppen viser videre til at det foreligger alternativer for å sikre seg en god og mer forutsigbar supplerende pensjonsdekning. Arbeidsgruppen mener at fiskerne, som andre selvstendige næringsdrivende, ikke bør være omfattet av en pliktig pensjonsløsning ut over folketrygden.
+
+Departementet deler arbeidsgruppens syn på at det ikke er behov for en egen særskilt og pliktig pensjonsløsning for fiskere. Fiskerpensjonsordningen ble opprettet som en nedtrappingspensjon med formål å lette overgangen til arbeid på land og i påvente av uttak av alderspensjon. Pensjonen har aldri hatt som formål å være noen tilleggspensjon i tillegg til folketrygdens alderspensjon. Folketrygden med mulighet til fleksibelt uttak av alderspensjon, muligheten til å etablere egne pensjonspareordninger, antatt bedre helse blant fiskere og bedre arbeidsforhold for fiskere, har bidratt til å redusere behovet for fiskerpensjonen som nedtrappingspensjon.
+
+Departementet kan heller ikke se at det skal være et statlig ansvar å opprettholde en nedtrappingspensjon med statsgaranti for en særlig gruppe av selvstendig næringsdrivende. Departementet viser til at fiskere i dag er i en særskilt trygde- og skattemessig status. Blant annet har de særordninger som sikrer dem sykepenger, dagpenger og yrkesskadedekning, i tillegg til pensjonsordningen. Selv om fiskere har en del ordninger, både skatte- og trygderettslig, som tilsvarer eller ligner på ordninger som arbeidstakere har, er de likevel å anse som selvstendig næringsdrivende. Inntektene skriver seg i det vesentlige fra lott (andel av/oppgjør for fangsten). De har ingen arbeidsgiver som betaler arbeidsgiveravgift og pensjonsinnskudd på grunnlag av lottinntektene, men betaler avgifter (produktavgift og omsetningsavgift) og medlemspremie. Hyre og annen utbetaling som ligningsmessig behandles som lønn, skal også behandles som lønn i henhold til regelverket om obligatorisk tjenestepensjon. Arbeidsgivere for fiskere med hyreinntekter har altså et visst ansvar for å foreta pensjonsinnbetaling, selv om det for de aller fleste fiskere er lottinntektene som utgjør det bærende lønnselementet.
+
+Departementet mener også at fiskere, i likhet med andre selvstendig næringsdrivende, vil være tjent med å eventuelt etablere egne pensjonspareordninger. De fiskerne som blir stående utenfor den lukkede fiskerpensjonsordningen, vil selv måtte ta ansvar for å sikre seg en pensjonsopptjening ut over den de har i folketrygden. Det eksisterer i dag ordninger som gjør at de kan sikre seg en god og mer forutsigbar supplerende pensjonsdekning, der den årlige opptjeningen kan tilpasses den enkeltes ønsker og behov. Departementet viser til at fiskerne i dag, som selvstendig næringsdrivende, kan etablere en egen pensjonsordning i medhold av innskuddspensjonsloven. Videre har fiskerne i dag også mulighet til å inngå en avtale om individuell pensjonssparing (IPS) med en bank eller pensjonsinnretning.
+
+Norsk Sjømannsforbund og Norsk Sjøoffiserforbund ønsker en utredning av hvordan fiskerne eventuelt kan ivaretas gjennom pensjonsordningen for arbeidstakere til sjøs. Disse instansene reagerer blant annet på det de oppfatter som en manglende likebehandling av ansatte innen fiskeri. Disse innspillene diskuteres nærmere under punkt 6.2.5 om forholdet til pensjonsordningen for arbeidstakere til sjøs.
+
+I høringen ble det foreslått som et alternativ av Norges Kystfiskarlag at man utreder modelløsninger basert på at ordningen går fra å være en pliktig ordning til å bli en frivillig ordning. Departementet vurderer at en slik løsning vil være svært vanskelig i en utligningsfinansiert ordning der årets inntekter skal dekke årets pensjonsutgifter, og der det er betydelige opptjente pensjonsforpliktelser.
+
+Departementet legger til grunn at omsetningsavgiften permanent opphører når det er tilstrekkelig dekning til å utbetale gjenstående forpliktelser i ordningen.
+
+Departementet foreslår en endring i tråd med det ovennevnte. Det vises til lovforslaget § 1 andre punktum og § 3 nr. 3.
+
+### Avviklingstid
+
+Departementet foreslår i denne proposisjonen, som i høringsnotatet, at ordningen lukkes kun for nye medlemmer. Flertallet av høringsinstansene som støtter en lukking gir uttrykk for at de i utgangspunktet ønsker en raskere avvikling av ordningen enn det som følger av å lukke for kun nye medlemmer. Det pekes samtidig på både hensynet til at de eksisterende medlemmene i ordningen ikke kommer urimelig ut og at en raskere avvikling vil være tyngre å finansiere.
+
+I den partssammensatte arbeidsgruppen anbefaler også arbeidsgruppens medlemmer fra næringen i utgangspunktet at ordningen avvikles raskere, gjennom at pensjonstrygden for fiskere lukkes også for eksisterende medlemmer under 46 år. I arbeidsgruppens mandat ble det lagt til grunn, som i høringsnotatet, at staten var villig til å bidra til en lukking og avvikling av ordningen med et beløp i størrelsesorden det antatte beløpet staten måtte ha dekket gjennom statsgarantien dersom dagens fiskerpensjonsordning ble videreført med nivået på medlemspremie og omsetningsavgift som gjaldt da arbeidsgruppen ble nedsatt. Arbeidsgruppens medlemmer fra næringen mener imidlertid at kostnaden ved lukkealternativet er for høy, dersom staten ikke bidrar med en større del av finansieringen av den økte underdekningen som oppstår ved en raskere avvikling av ordningen. De mener at myndighetene i stor grad selv er ansvarlig for at det ikke ble tatt grep for å håndtere underdekningen i ordningen på et tidligere tidspunkt, og at det taler for at myndighetene bør finansiere en større del av kostnadene som oppstår ved lukking av ordningen som følge av dette.
+
+Departementet viser til at det er en klar forutsetning for ordningen at den skal være selvfinansierende. Videre anser departementet det som formålstjenlig at pensjonsordningen lukkes og avvikles, og mener derfor det er rimelig at staten bidrar til å sikre at dette målet oppnås. I høringsnotatet ble det lagt til grunn at det var rimelig at staten bidrar i en størrelsesorden tilsvarende den antatte underdekningen ved å videreføre ordningen. Ordningen er nå anslått til å være tilnærmet i balanse, og den forventede underdekningen ved lukking i tråd med forslaget i denne proposisjonen er i samme størrelsesorden som den forventede underdekningen ved en videreføring, før den siste økningen av medlemspremie og omsetningsavgift. Med forslaget i denne proposisjonen vil departementets prinsipp for bidrag til lukking og avvikling i høringsnotatet i praksis bety at nivået på medlemspremie og omsetningsavgift er det den ville vært ved en videreføring av ordningen, mens staten finansierer underdekningen som følger av lukkingen. Departementet anser det som en rimelig fordeling av kostnadene.
+
+En lukking kun for nye medlemmer er minst kostnadskrevende og ivaretar i størst grad forutsigbarhet for de som er medlemmer. Som høringsinstansene også peker på er det et viktig hensyn ved en raskere avvikling at dagens medlemmer som lukkes ute ikke kommer urimelig ut. Å eventuelt finne gode løsninger for dette vil kreve tid og ytterligere utredning. Videre er det viktig med framgang i saken. Departementet, i likhet med den partssammensatte arbeidsgruppen, mener det er uheldig at nye medlemmer blir tatt inn i en ordning det er relativ bred enighet om å lukke. Videre legger departementet til grunn, i tråd med høringsnotatet og anbefalingen fra den partssammensatte arbeidsgruppen, at ordningens økonomiske situasjon bør åpne for justeringer underveis både med hensyn til tidsperspektiv på avviklingen og fordeling av kostnader. Departementet vurderer at å lukke for nye medlemmer fra og med 1. januar 2026 er et godt første steg, uavhengig av avviklingstiden man ser for seg.
+
+### Heving av nedre uttaksalder
+
+Departementet merker seg at det kun har kommet én innvending mot forslaget om at uttaksalderen heves til 62 år for medlemmer under 50 år ved lukketidspunktet. Norsk Sjøoffiserforbund skriver at etter deres vurdering burde man heller sett på en økning av innbetalingene gjennom eksempelvis økte satser enn å legge hele regningen på de yngre årskullene. Departementet er ikke enig i at forslaget innebærer å legge hele regningen på de yngre årskullene, men ser at disse kommer dårligere ut enn de eldre årskullene. De yngre årskullene har på den andre siden lenger tid til å tilpasse seg. Departementet viser til at underdekningen i ordningen har blitt inndekket gjennom økninger av medlemspremien og omsetningsavgiften, og gjennom statsgarantien. En lukking av ordningen nå vil innebære at staten dekker ytterligere kostnader som følge av lukkingen, samtidig som de yngre årskullene får noe av regningen gjennom reduksjon av utbetalingsperioden fra syv til fem år.
+
+Departementet viser videre til at den partssammensatte arbeidsgruppen anbefaler at uttaksalderen heves til 62 år for medlemmer under 50 år. Arbeidsgruppen viser til at ordningen har blitt tyngre å finansiere for de aktive fiskerne og næringen på grunn av ubalansen mellom aktive fiskere og pensjonister, og mener det er fornuftig med grep som demper utgiftene på sikt. Videre mener arbeidsgruppen at det er naturlig at uttaksalderen tilpasses laveste uttaksalder for alderspensjon i folketrygden og store deler av det øvrige pensjonssystemet.
+
+Departementet mener uttaksalderen bør heves. Det vil tilpasse alderen for uttak av fiskerpensjon til laveste uttaksalder for alderspensjon i folketrygden, ordninger for avtalefestet pensjon i offentlig og privat sektor, privat tjenestepensjon og offentlig tjenestepensjon for 1963-kullet og yngre årskull.
+
+Videre vil det dempe utgiftene på sikt. Arbeidsgruppens medlemmer fra næringen ønsker i utgangspunktet en raskere avvikling av ordningen, og anbefaler også at ordningens økonomiske situasjon bør åpne for justeringer underveis, både med hensyn til tidsperspektiv på avviklingen og fordeling av kostnader. Departementet legger også til grunn, som i høringsnotatet, at å lukke ordningen kun for nye medlemmer nå, ikke utelukker at det på et senere tidspunkt vil kunne ses på om det er økonomi i ordningen til å foreta en raskere avvikling om dette skulle anses som ønskelig og hensiktsmessig. Grep som demper utgiftene på sikt, øker sjansen for at ordningens økonomiske situasjon åpner for en raskere avvikling ved et senere tidspunkt.
+
+Å foreta en slik endring for medlemmer som nærmer seg gjeldende pensjonsalder, vil etter departementets syn være for inngripende. Det anses derfor kun å være aktuelt å gjøre en slik endring gjeldende for medlemmer som er under 50 år på det tidspunktet en eventuell lovendring trer i kraft. Forutsatt at en lovendring trer i kraft 1. januar 2026, vil endringen gjøres gjeldende for medlemmer født i 1976 eller senere, mens medlemmer født i 1975 eller tidligere vil kunne få utbetalt pensjon fra fylte 60 år.
+
+Forslaget til endring innebærer at medlemmet må vente i to år med å kunne ta ut pensjon, sammenlignet med dagens regler. Det er imidlertid tenkt at pensjon fortsatt kun skal utbetales til medlemmet er 67 år. Den største forskjellen fra i dag vil derfor være at mottakeren får redusert antall år med pensjon fra sju år til fem år. Dette var også stønadsperioden fra fiskerpensjonen ble etablert og fram til 1994.
+
+I og med at forslaget ikke gis virkning for medlemmer som er 50 år eller eldre når nye regler trer i kraft, vil forslaget ikke gi noen økonomisk effekt før det har gått ti år etter ikrafttredelsen. De første som er omfattet av endringen, vil da fylle 60 år, men må vente to år med å ta ut pensjon. På dette tidspunktet vil det ha gått ti år uten at det er kommet nye medlemmer inn i fiskerpensjonsordningen. Forslaget vil derfor ha en positiv effekt på økonomien i ordningen på et tidspunkt der inntekter fra medlemspremie er blitt vesentlig redusert.
+
+Departementet anser at å endre periode for uttak av pensjon fra 60–67 år til 62–67 år ikke er en grunnlovsstridig tilbakevirkning. Departementet viser til at det fra da loven trådte i kraft i 1958 og fram til 1994, ble utbetalt pensjon i kun fem år. Det var først med virkning fra 1994 at pensjon er blitt utbetalt i sju år. Departementet viser til at ved utvidelsen av utbetalingsperioden i 1994, ble det påpekt både fra departementet og ved behandlingen i Stortinget, at forbedringene i ordningen kunne foretas på grunn av at økonomien ble ansett for å være god. Departementet anser at det er et moment ved denne vurderingen at hva som utbetales av pensjon, ikke står i forhold til hva som er innbetalt av premie. For øvrig følger det direkte av lovens § 31 at rettigheter etter loven kan endres, innskrenkes eller oppheves ved senere lov. Endringen gjelder dessuten kun de som er yngre enn 50 år når nye regler trer i kraft. De som berøres vil derfor ha minst ti år til å omstille seg med tanke på endringer i pensjonsreglene.
+
+Forslaget om å øke nedre aldersgrense fra 60 år til 62 år vil tilpasse nedre uttaksalder i pensjonstrygden for fiskere til nåværende nedre uttaksalder i folketrygden og store deler av det øvrige pensjonssystemet. I pensjonsforliket på Stortinget 29. februar 2024 stilte et bredt flertall på Stortinget seg blant annet bak et forslag om gradvis økende aldersgrenser i pensjonssystemet. Den partssammensatte arbeidsgruppen skriver i sin rapport at de mener det er naturlig at en vurderer tilpasninger av aldersgrensene i en lukket pensjonstrygd for fiskere i avviklingstiden til endringene i folketrygden og det øvrige pensjonssystemet. Departementet er enig i at det vil være naturlig at aldersgrensene i pensjonstrygden for fiskere også tilpasses endringene som pensjonsforliket har enes om, slik at uttaksperioden i fiskerpensjonen beveger seg i takt med folketrygden og øvrige pensjonsordninger. Tilpasninger av pensjonstrygden for fiskere i avviklingstiden til pensjonsforliket vil følges opp av departementet i en senere prosess.
+
+Departementet foreslår en endring i tråd med det ovennevnte. Det vises til lovforslaget § 2 nr. 2, § 6 nr. 2, § 8 første ledd andre punktum og § 21 første og andre ledd.
+
+### Avvikling av barnetillegget
+
+Departementet registrerer at det ikke har kommet noen innvendinger mot forslaget om at barnetillegget avvikles. Den partssammensatte arbeidsgruppen anbefaler også at barnetillegget avvikles.
+
+Ettersom forsørgingstillegg til barn i folketrygdens alderspensjon er avviklet, anser departementet at det heller ikke er grunnlag for å videreføre barnetillegg i fiskerpensjonen. Siden fiskerpensjonen kun gis i en begrenset periode, vurderer departementet at det ikke er nødvendig med noen forsert avvikling, men foreslår at de som mottar pensjon med barnetillegg når nye regler trer i kraft, får barnetillegget videreført så lenge de mottar pensjon og barnet er under 18 år.
+
+Departementet foreslår en endring i tråd med det ovennevnte. Det vises til lovforslaget § 7 nr. 3 andre ledd og § 8 tredje ledd andre punktum.
+
+### Finansiering av ordningen
+
+I høringsnotatet fra høsten 2021 ble departementets forslag om å lukke ordning for nye medlemmer, samt å øke uttaksalderen for medlemmer under 50 år, anslått å gi en akkumulert underdekning på om lag 530 millioner kroner med daværende satser for medlemspremie og omsetningsavgift. Departementet vurderte i høringsnotatet at staten bør bidra til finansieringen av en lukking og avvikling med et beløp i størrelsesorden det antatte beløpet staten måtte ha dekket gjennom statsgarantien dersom dagens fiskerpensjonsordning videreføres, noe som i høringsnotatet ble anslått til 360 millioner kroner. Departementet la i høringsnotatet til grunn at dette finansieringsgapet måtte bæres av næringen gjennom økt medlemspremie og omsetningsavgift.
+
+Departementet mener fortsatt at forslaget om fordelingen av kostnadene ved en lukking i høringsnotatet er rimelig, og samme finansieringsprinsipp lå til grunn i mandatet til den partssammensatte arbeidsgruppen. Videre ble medlemspremien og omsetningsavgiften økt i statsbudsjettet for 2023, for å sikre en bedre balanse mellom inntekter og utgifter i ordningen i påvente av arbeidsgruppens vurderinger og oppfølging av disse.
+
+I forbindelse med arbeidsgruppen ble det gjort nye beregninger. Den akkumulerte underdekningen ved en videreføring av dagens fiskerpensjonsordning, med nivået på medlemspremien og omsetningsavgiften i 2022, altså før økningen av medlemspremien og omsetningsavgiften i 2023, ble anslått til 241 millioner kroner. En lukking av ordningen for nye medlemmer, med økt uttaksalder for medlemmer under 50 år ved lukketidspunktet, ble anslått å gi en akkumulert underdekning på 215 millioner kroner med dagens nivå på medlemspremie og omsetningsavgift, og er altså ikke forventet å overstige det staten har sagt seg villig til å dekke.
+
+Finansieringsgapet som departementet i høringsnotatet la til grunn måtte dekkes av næringen er allerede dekket inn av næringen gjennom at medlemspremien og omsetningsavgiften ble økt i 2023. I tråd med det som ble signalisert i høringsnotatet, og i mandatet til arbeidsgruppen, vil departementet ikke foreslå noen videre økning av medlemspremien utover det som følger av reguleringen og ingen videre økning av omsetningsavgiften, og staten vil finansiere den forventede underdekningen i tiden framover som følger av lukkingen.
+
+Norges Fiskarlag ber i sitt høringsinnspill om at Staten garanterer at de yngste medlemmene i ordningen ikke utsettes for økning av medlemspremien utover prisvekst og plan for avvikling av pensjonsordningen. Departementet legger til grunn at det er naturlig å la planen for lukking og avvikling gå over lengre tid, og at nivået på medlemspremien og omsetningsavgiften holdes på dagens nivå i tråd med planen for avvikling av pensjonsordningen. En lukking kun for nye medlemmer vil innebære en lang avviklingstid og det er betydelig usikkerhet knyttet til ordningens framtidige økonomi. Dersom de økonomiske forutsetningene for statstilskuddet på et tidspunkt i løpet av avviklingstiden endrer seg vesentlig, kan det være grunn til å vurdere justering av medlemspremie og omsetningsavgift. Departementet viser videre til at den partssammensatte arbeidsgruppen peker på at de økonomiske framskrivningene er usikre, og at de anbefaler at ordningens økonomiske situasjon bør åpne for justeringer underveis både med hensyn til tidsperspektiv på avviklingen og fordeling av kostnader.
+
+### Forholdet til pensjonsordningen for arbeidstakere til sjøs
+
+Departementet mener at det ikke ville vært en god løsning å innlemme fiskerne i pensjonsordningen for arbeidstakere til sjøs, som Norsk Sjømannsforbund og Norsk Sjøoffiserforbund ønsker å utrede nærmere. Disse instansene mener blant annet at departementets forslag innebærer en manglende likebehandling av ansatte innen fiskeri, og viser til at medlemmer av pensjonsordningen for arbeidstakere til sjøs er ansatt på de samme fiskefartøyene, har samme skatte- og trygdemessige status som selvstendig næringsdrivende, og avlønnes av hyre og lott på lik linje som fiskerne. Videre mener disse instansene at forslaget innebærer at alderspensjon fra folketrygden alene skal være en god nok løsning for fiskerne som den eneste gruppen arbeidstakere i Norge.
+
+Departementet viser til at spørsmålet om en innlemmelse av fiskerne i pensjonsordningen for arbeidstakere til sjøs også ble diskutert i den partssammensatte arbeidsgruppen som utredet forslag til endringer i pensjonstrygden for fiskere. Arbeidsgruppens medlem fra Norsk Sjømannsforbund foreslo i arbeidsgruppen å utrede en løsning der fiskere som jobber på fiskefartøy som er så store at fartøyene er omfattet av pensjonsordningen for arbeidstakere til sjøs (PAS), skal opptas i PAS. De øvrige medlemmene av arbeidsgruppen ønsket ikke å gå videre inn i en utredning av en slik mulig løsning med obligatorisk medlemskap i en annen pensjonsordning, fordi en mener at det ikke er naturlig å ha obligatorisk medlemskap i en pensjonsordning for personer som defineres som selvstendig næringsdrivende. Det vil da framstå som ulogisk at en for en del av fiskerne erstatter et obligatorisk medlemskap i pensjonstrygden for fiskere med et obligatorisk medlemskap i en annen pensjonsordning. Det ble videre vist til at en lukking av pensjonstrygden for fiskere innebærer en fortsatt likebehandling av fiskere. Arbeidsgruppens medlem fra Fiskebåt mener at i den grad hele mannskapet på fiske- og fangstfartøy skal likebehandles må det heller skje gjennom at sjømannspensjonsordningen lukkes for ansatte på fiske- og fangstfartøy, og at det får bli opp til de ansatte og partene i arbeidslivet å finne frem til gode individuelle eller kollektive pensjonsspareordninger for hele mannskapet på fiske- og fangstfartøy.
+
+Departementet ser ikke et behov for å utrede en løsning som kun én av fiskernes organisasjoner ønsker, og der de andre av fiskernes organisasjoner mener det hverken er nødvendig eller ønskelig at fiskerne har en egen, obligatorisk pensjonsløsning. Videre innebærer forslaget om å lukke pensjonstrygden for fiskere, og å ikke erstatte den med en annen pliktig ordning for fiskerne, en likebehandling av fiskere. Det innebærer også en likebehandling av fiskerne med det store flertallet av andre selvstendig næringsdrivende.
+
+Som arbeidsgruppen også peker på, foreligger det alternativer for å sikre seg en god og mer forutsigbar supplerende pensjonsdekning enn dagens pensjonstrygd for fiskere. Fiskerne kan i dag, som selvstendig næringsdrivende, etablere en egen pensjonsordning i medhold av innskuddspensjonsloven. Innskuddspensjonsordningen sikrer rett til alderspensjon, og den årlige opptjeningen kan tilpasses den enkeltes ønsker og behov. Videre er det også mulig å knytte forsikringer mot uførhet og død til ordningen. Pensjonen kan tas ut fra fylte 62 år. Den årlige pensjonen bestemmes ut fra den kapitalen som er oppspart, avkastningen på den, lengden på den tiden pensjonen ønskes tatt ut over og uttaksgrad. Fiskerne har i dag også mulighet til å inngå en avtale om individuell pensjonssparing (IPS) med en bank eller pensjonsinnretning.
+
+Hyre og annen utbetaling som ligningsmessig behandles som lønn skal også behandles som lønn i henhold til regelverket om obligatorisk tjenestepensjon. Arbeidsgivere for fiskere med hyreinntekter har altså et visst ansvar for å foreta pensjonsinnbetaling, selv om det for de aller fleste fiskere er lottinntektene som utgjør det bærende lønnselementet.
+
+Departementet ser at å lukke pensjonstrygden for fiskere vil kunne få konsekvenser for medlemmer av Maritim pensjonskasse (MPK) som i løpet av sin framtidige yrkeskarriere også arbeider som fiskere og som har opptjening i MPK i fartstidsbasert ordning, som Maritim pensjonskasse peker på i sitt høringsinnspill. Dette gjennom at muligheten til å benytte opptjent tid i pensjonstrygden for fiskere som hjelpetid i MPK vil falle vekk for de som ikke er aktive eller latente medlemmer av pensjonstrygden for fiskere før 1. januar 2026. For medlemmer av den fartstidsbaserte ordningen (gammelt regelverk) i MPK, arbeidstakere til sjøs født før 1970, vil slik hjelpetid kunne benyttes til å oppnå kravet om 150 fartsmåneder for å få rett til pensjon, og opptjente uker etter fylte 40 år i pensjonstrygden for fiskere kan brukes til å forhindre eller framskynde utskutt pensjonsalder. Hjelpetid opptjent i pensjonstrygden for fiskere kan altså brukes til påvirke om medlemmet har rett til løpende pensjon eller kun rett til en engangsutbetaling, og hvor lenge medlemmet kan ta ut pensjon.
+
+For medlemmer av MPK i inntektsbasert ordning med fartstid, skal fartsmåneder opptjent etter gammelt regelverk konverteres til en pensjonsbeholdning ved fylte 62 år. Om medlemmet oppnår rett til pensjon vurdert etter gammelt regelverk, og hvor tidlig medlemmet ville kunnet tatt denne ut, påvirker derfor størrelsen på pensjonen. Bruk av hjelpetid vil for disse medlemmene altså ikke påvirke om de har rett til pensjon fra MPK, eller tidligste uttaksalder, men samlet pensjon vil påvirkes av opptjeningen etter gammelt regelverk som konverteres og legges til pensjonsbeholdningen. For medlemmer av MPK som kun har opptjening i inntektsbasert ordning er ikke hjelpetid videreført, og en lukking av pensjonstrygden for fiskere vil ikke ha noen konsekvenser for de av disse medlemmene som også arbeider som fiskere i løpet av yrkeskarrieren.
+
+Departementet viser til at bortfallet av muligheten til å benytte hjelpetid opptjent i pensjonstrygden for fiskere, kun vil gjelde de av medlemmene i MPK som ikke har noen opptjening i pensjonstrygden for fiskere fra før 1. januar 2026. De som i løpet av yrkeskarrieren har jobbet som fiskere vil fortsatt kunne benytte hjelpetid opptjent i pensjonstrygden for fiskere, og vil fortsatt kunne benytte framtidig opptjent hjelpetid i pensjonstrygden for fiskere. Departementet viser videre til at hjelpetid ikke er videreført i ny ordning i MPK, og er derfor under utfasing. Den konverterte opptjeningen fra før 2020 vil også over tid utgjøre en stadig mindre andel av pensjonsopptjeningen for medlemmene av MPK i inntektsbasert ordning med fartstid. For medlemmer av MPK med opptjening før 2020, og som ikke har tidligere opptjening i pensjonstrygden for fiskere, vil mulige konsekvenser for pensjonen i MPK være kjent dersom de begynner å arbeide som fiskere for første gang etter 1. januar 2026. De det eventuelt gjelder vil heller ikke betale noen medlemspremie til noen av ordningene, i perioden de jobber som fiskere.
+
+### Administrasjon av ordningen
+
+Pelagisk forening mener at det også burde vært vurdert om det er mulig å redusere de administrative kostnadene ved ordningen. Departementet viser til at den partssammensatte arbeidsgruppen også vurderte administrasjonen av ordningen. Arbeidsgruppen skriver at den mener administrasjonskostnadene er høye, men den har ikke funnet et alternativ som vurderes som klart bedre. Arbeidsgruppen peker videre på det er relativt store beløp i utestående medlemspremie, og mener man bør se på mulige tiltak for å bedre innkrevingen av medlemspremie. Departementet vil vurdere mulige tiltak i lov eller forskrift i samråd med Garantikassen for fiskere, som administrerer ordningen, for å sikre at medlemspremien i større grad blir innbetalt når den skal.
+
+Norsk Sjøoffiserforbund skriver at de savner tall på hvordan Garantikassen for fiskere som forvalter ordningen er finansiert, og hvilke konsekvenser det vil ha for Garantikassen med hensyn til de øvrige ytelsene dersom pensjonstrygden for fisker endres eller avvikles. Departementet viser til Garantikassen for fiskeres høringssvar, der de vurderer at forslagene i høringsnotatet ikke medfører vesentlige konsekvenser for administreringen av ordningen. Administrasjonen av pensjonstrygden for fiskere er finansiert gjennom medlemspremien og omsetningsavgiften, og honoraret fastsettes etter en fordelingsbrøk, hvor de årlige kostnadene fordeles blant de ulike ordningene Garantikassen administrerer.
+
+### Prosess
+
+Departementet viser til høringsinnspill fra Norsk Sjømannsforbund og Norsk Sjøoffiserforbund som peker på at næringen over år var lovet en gjennomgang av pensjonstrygden for fiskere, og at høringsnotatet var for dårlig utredet. Videre pekte også Norges Kystfiskarlag på noen aspekter de ønsket bedre belyst.
+
+Departementet viser til at det i etterkant av høringen ble nedsatt en partssammensatt arbeidsgruppe med oppdrag å beskrive og kartlegge pensjonsordningen for fiskere, vurdere behovet for en egen særskilt pensjonsløsning for fiskere eller om ordningen bør avvikles, og komme med tilrådinger om hvordan pensjonsløsningen eventuelt bør være. Den partssammensatte arbeidsgruppen fullførte sin rapport 20. desember 2024. Arbeidsgruppens hovedanbefalinger var de samme som forslagene i høringsnotatet, og en videre anbefaling fra arbeidsgruppens medlemmer fra næringen om en raskere avvikling under forutsetning om at staten dekker en større del av kostnadene. Arbeidsgruppen peker videre på at det er uheldig at nye medlemmer blir tatt inn i en ordning det er relativt bred enighet om å lukke, og at prosessen med en lukking av fiskerpensjonsordningen har pågått over lang tid og at det er nødvendig med framgang i saken slik at nødvendige endringer blir gjort.
+
+Departementet mener forslagene som følges opp her er godt utredet, og mener i likhet med arbeidsgruppen at det er viktig med framgang i saken. Departementet følger derfor nå opp arbeidsgruppens hovedanbefalinger, som også ble foreslått av departementet i høringsnotatet høsten 2021. Departementet har også merket seg næringens ønske om en raskere avvikling av ordningen, og at staten tar en større del av underdekningen ved en raskere avvikling. Disse synspunktene vil tas med i vurderingen av veien videre etter at hovedanbefalingene fra arbeidsgruppen, som allerede har vært på høring, er gjennomført.
+
+### Annet
+
+Når det gjelder innspillet om tilfeller der fiskere som åpenbart ikke vil få glede av fiskerpensjonsordningen plikter å være med på finansieringen, viser departementet til at gjeldende regelverk i utgangspunktet skal forhindre slike tilfeller. I fiskerpensjonsloven § 2 er det gitt regler om unntak fra trygdeplikt. Personer som hever alderspensjon etter loven, eller er over 60 år og har krevd premie tilbakebetalt, er unntatt fra trygdeplikt, se nr. 1 bokstav a. Videre kan personer som er omfattet av pensjonsordningen for arbeidstakere til sjøs eller annen offentlig tilsvarende pensjonsordning, kreve unntak fra trygdeplikt, se nr. 1 bokstav b. Personer som antas å bli hovedbeskjeftiget i annen næring enn fiske og fangst i storparten av kalenderåret, kan også kreve unntak fra trygdeplikt, se nr. 1 bokstav c. Etter nr. 2 kan personer som er over 46 år på det tidspunktet vedkommende første gang fyller vilkårene etter § 1, kreve seg unntatt fra trygden, siden disse ikke vil ha mulighet til å få tilstrekkelig opptjening før fylte 60 år til å kunne få pensjon. Fiskere som er unntatt trygdeplikt vil likevel bidra i noen grad til finansieringen av ordningen gjennom omsetningsavgiften, som behandles som en fellesavgift i lottoppgjøret.
+
+Når det gjelder innspillet om at ved dødsfall bør etterlatte minst få utbetalt det som er innbetalt av avdød fisker til pensjonstrygden, viser departementet til at dagens ordning – der restbeløpet etter medlemmer som dør fordeles på de gjenlevende medlemmene i pensjonstrygden gjennom såkalt dødelighetsarv – er en sentral og viktig del av finansieringen av pensjonsordninger hvor ytelsene fra ordningen er definert, slik tilfellet er med pensjonstrygden for fiskere. Dødelighetsarven er en del av pensjonstrygdens finansiering i dag, og departementet kan ikke se at det er spesielle hensyn som tilsier en annen løsning som følge av at pensjonstrygden foreslås lukket for nye medlemmer.

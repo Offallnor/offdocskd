@@ -1,1161 +1,216 @@
-# Meld. St. 33 (2015–2016), del 3 av 8 (side 24–33)
+# Meld. St. 33 (2015–2016), del 3 av 8
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2016/fc8ffcc8-meld-st-33-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-33-20152016/id2501017/
 - Original-PDF: https://www.regjeringen.no/contentassets/8f9e56528fb340eb9f6515cc21ab5119/no/pdfs/stm201520160033000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 figur. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 24]
-
-24
-
-Meld. St. 33
-
-2015–2016
-
-NAV i en ny tid – for arbeid og aktivitet
-
-ratet skriver at kommunene ikke i samme grad
-har hatt dette perspektivet i sin tilnærming. Direk­
-toratet viser her til uttalelser fra ekspertgruppen
-om at et bredt kommunalt oppgavespekter i
-utgangspunktet kan bidra til mer effektiv sam­
-handling mellom NAV-kontorets arbeidsrettede
-oppgaver og tilgrensede kommunale oppgaver,
-men samtidig svekke arbeidsfokuset. Direktoratet
-mener det er viktig at tjenesteinnholdet blir revur­
-dert i forbindelse med framtidige kommunesam­
-menslåinger. Spørsmålet bør etter direktoratets
-mening utredes nærmere.
-Det er også flere kommuner som mener at
-ekspertgruppen i større grad burde problemati­
-sert partnerskapsmodellen, bl.a. kommunene
-Gjerdrum, Namdalseid og Namsos. Kommunesek­
-torens organisasjon (KS) er i den forbindelse mest
-opptatt av å påpeke viktigheten av at «partnerska­
-pet skal være likeverdig mellom stat og kom­
-mune». KS mener det forutsetter at kommunene
-blir behandlet som likeverdige parter i partner­
-skapet, og at dette må gjelde når direktoratet både
-utvikler sine strategier og «ruller ut» sine ulike
-plattformer til NAV-kontorene. Videre skriver de
-at likeverdighet ikke handler om å informere den
-andre part, men å involvere og samhandle. KS
-skulle ønske at ekspertgruppen i enda større grad
-diskuterte og synliggjorde det mulighetsrommet
-som de mener ligger i partnerskapsmodellen.
-Noen kommuner, herunder Namdalseid, Over­
-halla og Porsgrunn, vektlegger at rapporten ikke
-gir et tilfredsstillende svar på hvordan de grunn­
-leggende utfordringene med todelt eierskap og
-styring i NAV-kontorene skal løses. Styringsmo­
-dellen og oppgavefordelingen er etter deres vur­
-dering uklar, og vil derved ikke være hensikts­
-messig om ambisjonene for reformen skal nås.
-Andre, herunder KS, Sandnes kommune og
-Oslo kommune, legger vekt på at rapporten har
-stort fokus på de gruppene som står nærmest
-arbeidsmarkedet, men har en mer overfladisk
-behandling av NAV-kontorenes oppgaver rettet
-mot mennesker som står langt fra arbeidsmarke­
-det, og som ofte har mer sammensatte vansker.
-Her peker enkelte høringsuttalelser på at ekspert­
-gruppen har få konkrete anbefalinger i forhold til
-disse gruppene, og savner omtale av hva som skal
-til for at NAV-kontorene skal forvalte de rettslige
-føringer og intensjonen i lov om sosiale tjenester i
-arbeids- og velferdsforvaltningen på en god måte.
-KS framhever betydningen av å anerkjenne det
-sosialfaglige arbeidet som en likeverdig del av
-NAV-kontorets samfunnsoppdrag.
-Flere fylkesmenn, Hordaland, Rogaland og
-Oslo og Akershus, er inne på det samme når de
-
-mener det er problematisk at ekspertgruppen har
-avgrenset fokuset til de arbeidsrettede tjenestene.
-At ekspertgruppen i for liten grad tar for seg de
-kommunale tjenestene på NAV-kontorene, gjør at
-gjennomgangen etter deres vurdering ikke gir et
-helhetlig bilde av NAV-kontorenes samfunnsman­
-dat, av utfordringene og mulige løsninger for å
-møte utfordringene. De er bekymret for at de sosi­
-ale velferdsoppgavene på NAV-kontorene ser ut til
-å ha kommet i bakgrunnen. Fylkesmannen i Vestfold går så langt som å mene at erfaringene med
-partnerskapsmodellen tilsier at det bør utredes
-om de kommunale tjenestene og kommunale vel­
-ferdsoppgaver i arbeids- og velferdsforvaltningen
-bør skilles fra de statlige, både organisatorisk og
-administrativt.
-
-2.2.1 NAV-kontorets rolle i arbeidsmarkedet
-Det ser ut til å være stor enighet om at NAV-konto­
-rene må øke sin kontakt med arbeidsgivere og
-styrke sin kompetanse om arbeidslivet. Arbeids- og
-velferdsdirektoratet mener det er helt avgjørende
-at NAV-kontorene klarer «å rykke nærmere
-arbeidsmarkedet og arbeidsgivere». Selv om etaten allerede har tatt mange skritt i retning av å bli
-en tydeligere, mer arbeidsrettet organisasjon, gir
-direktoratet uttrykk for at det fortsatt er mye som
-gjenstår.
-Også kommunene og KS gir sin støtte til dette
-strategiske grepet, og begrunner det med at det
-er i arbeidslivet jobbene skapes og jobbskiftene
-skjer. Også flere brukerorganisasjoner, som Funk­
-sjonshemmedes Fellesorganisasjon, Kreftforeningen,
-Norsk epilepsiforbund, Norsk Revmatikerforbund
-og Unge funksjonshemmede, støtter forslaget om
-styrket samarbeid og kontakt mellom de lokale
-NAV-kontorene og det lokale nærings- og arbeids­
-livet.
-Arbeids- og velferdsdirektoratet støtter ekspert­
-gruppens forslag om å opprette en nasjonal base
-med grunnlagsdata for stillingsmarkedet som vil
-være tilgjengelig for offentlig og private forsøk.
-Dette vil gi grunnlag for bedre oversikt over
-ledige stillinger for NAV-kontorets brukere og
-ansatte og gjøre at Arbeids- og velferdsetaten i
-større grad kan yte rekrutteringstjenester til
-arbeidsgivere. Dette et viktig for å nå målet med
-etatens markedsarbeid om å bidra til et gjennom­
-siktig og velfungerende arbeids- og stillingsmar­
-ked som øker overgangen til arbeid. Dagens kom­
-pliserte arbeidsmarkeds – og stillingskanalstruk­
-tur stiller stadig større krav til NAV-kontorets
-arbeidsmarkedskompetanse, samtidig som det
-synliggjør behovet for en åpen, felles arena hvor
-
-[Side 25]
-
-2015–2016
-
-Meld. St. 33
-NAV i en ny tid – for arbeid og aktivitet
-
-arbeidsgivere, arbeidssøkere, private beman­
-ningsbyråer og andre aktører kan møtes.
-Flere kommuner, bl.a. Oslo, Bergen og Hurdal,
-er opptatt av at kommunene får et større ansvar
-for arbeidsmarkedstiltakene. KS foreslår å prøve
-ut en ordning der kommunene overtar det sam­
-lede ansvaret for arbeidsmarkedstiltakene rettet
-mot personer med nedsatt arbeidsevne og som
-ofte har behov for bistand fra flere offentlige
-instanser. For brukere med sammensatte behov
-mener de at det er en fordel å kunne se arbeids­
-markedstiltakene i sammenheng med kommune­
-nes helse- og omsorgs- og rehabiliteringstjenester
-samt tjenester knyttet til integrering og det bolig­
-sosiale arbeidet. De framhever også at kommu­
-nene gjennom kvalifiseringsprogrammet allerede
-har et ansvar for personer med vesentlig nedsatt
-arbeids- og inntektsevne, men hvor også staten
-har ansvar for å tilby tiltak. Et samlet ansvar for
-arbeidsmarkedstiltakene for personer med ned­
-satt arbeidsevne i kommunen vil kunne bidra til et
-mer helhetlig tilbud til brukerne. Jevnaker kom­
-mune mener det i tilknytning til kommunerefor­
-men bør vurderes å overføre alle arbeidsrettede
-tiltak til kommunen. Andre, som Sandnes kom­
-mune, nøyer seg med å påpeke at det kan være
-aktuelt med en framtidig utredning og utprøving
-av et kommunalt ansvar for hele tiltaksapparatet,
-men at dette forutsetter robuste kommunestruk­
-turer av en viss størrelse. Kristiansand kommune
-mener at en utredning om en ev. overføring av
-varig tilrettelagt arbeid i både skjermede og ordi­
-nære virksomheter, kan omfatte spørsmålet om
-muligheten for at kommunene kan overta noe
-mer av de arbeidsrettede tiltakene. Øvre Eiker er
-opptatt av at kommunenes ansvar når det gjelder
-tiltaksinnsats knyttet til brukergrupper som står
-langt unna arbeidslivet, bør utredes nærmere.
-KS mener det er grunn til å se nærmere på om
-den danske modellen med jobcentre kan overfø­
-res til norske forhold under forutsetning om
-endret kommunestruktur. Jobcentrene er kom­
-munale, og deres viktigste oppgave er å hjelpe
-ledige til å få en jobb i det ordinære arbeidsmarke­
-det og å hjelpe virksomheter med å finne nye
-medarbeidere. KS mener det i første omgang
-kunne gjennomføres nye forsøk med et større
-ansvar for arbeidsmarkedstiltak i utvalgte kom­
-muner. Forslaget støttes av flere kommuner, herunder Oslo og Bergen.
-Samtidig som KS ønsker økt kommunalt
-ansvar for flere arbeidsmarkedstiltak, herunder
-også ansvaret for tiltaket varig tilrettelagt arbeid,
-er det ut fra høringsuttalelsene stor motstand mot
-forslaget som ble lagt fram i Meld. St. 14 (2014–
-
-25
-
-2015) Kommunereformen – nye oppgaver til større
-kommuner, om å utrede tiltaket, herunder også
-varig tilrettelagt arbeid i ordinære virksomheter,
-nærmere med sikte på kommunal overtaking. Det
-er likevel slik at det også er flere kommuner som
-er positive til forslaget.
-
-2.2.2
-
-Oppfølging av brukere fra
-NAV-kontoret
-Arbeids- og velferdsdirektoratet ser betydelige
-utfordringer ved NAV-kontorenes oppfølging av
-brukere og bistand til arbeidsgivere, og viser til at
-dette også framkommer i en rekke forskningsrap­
-porter og undersøkelser. Arbeids- og velferdsdi­
-rektoratet mener at det er kapasiteten og antall
-brukere per medarbeider som er hovedproble­
-met. De framhever at det er et stort gap mellom
-forventningene til brukeroppfølging og arbeids­
-retting og kontorenes faktiske mulighet til å møte
-disse. Samtidig som ambisjonene og forventnin­
-gene til Arbeids- og velferdsetatens eget oppføl­
-gingsarbeid er blitt merkbart høyere, er også
-antallet brukere per årsverk økt betydelig siden
-NAV-reformen og innholdsreformen ble iverksatt.
-Arbeids- og velferdsdirektoratet støtter forsla­
-get om at NAV-kontorene selv må kunne bistå
-flere av de brukerne som trenger enklere avkla­
-rings- og oppfølgingstiltak for å komme i jobb, og
-ikke være pålagt å kjøpe tiltak fra eksterne leve­
-randører i like stor grad som i dag. Dette vil gi
-økte muligheter for mer fleksible og individuelt til­
-passede løsninger som vil komme brukerne til
-gode. Direktoratet understreker at det bare er
-snakk om en type arbeidsrettet tiltak som omfat­
-tes av benevnelsen «Supported employment», og
-som handler om avklaring, motivasjon, veiledning,
-rådgiving og bistand ute på arbeidsplassen. Tje­
-nester som krever spesiell type fagekspertise og/
-eller spesielt tilrettelagte avklarings- og trenings­
-miljøer, må fortsatt etter Arbeids- og velferdsdi­
-rektoratets vurdering anskaffes i et marked. Når
-tiltakene gjennomføres i det ordinære arbeidsli­
-vet, vil det etter Arbeids- og velferdsdirektoratets
-vurdering ofte være både enklere og mer bruker­
-vennlig, rasjonelt og effektivt at NAV-kontorene
-selv håndterer avklarings- og oppfølgingsarbeidet.
-Arbeids- og velferdsdirektoratet viser i denne for­
-bindelse til gode resultater fra den foreløpige eva­
-lueringen av forsøket med «kjerneoppgaver i
-NAV-kontor».
-Forslaget fra ekspertgruppen om at NAV-kon­
-toret selv må gjennomføre en vesentlig del av tilta­
-kene som innebærer oppfølging av brukere og
-arbeidsgivere i det ordinære arbeidslivet, støttes
-
-[Side 26]
-
-26
-
-Meld. St. 33
-
-2015–2016
-
-NAV i en ny tid – for arbeid og aktivitet
-
-av mange kommuner og et flertall av brukerorga­
-nisasjonene. Av alle høringsuttalelsene fra ulike
-kommuner er det bare et fåtall som er skeptiske til
-forslaget om økt egenproduksjon av oppfølgings­
-tiltaket i NAV-kontoret. Det legges vekt på at opp­
-følging av brukere er en kjerneoppgave for NAV­
-kontorene, og at dette vil bidra til økt samarbeid
-og tettere relasjoner mellom arbeidsgivere og
-NAV-kontor. Over noe tid vil styrket samhandling
-mellom NAV-kontor og arbeidsgivere kunne ha
-positive effekter på flere måter, f.eks. når arbeids­
-giver har behov for bistand til rekruttering. Samti­
-dig er det flere kommuner som understreker nød­
-vendigheten av fortsatt å kjøpe tiltak. Noen mener
-at dette særlig vil gjelde for noen målgrupper der
-det kreves bred og sammensatt kompetanse som
-det ikke vil være naturlig at NAV-kontoret besitter.
-Noen brukere vil, som også Arbeids- og velferds­
-direktoratet påpeker, alltid trenge tiltak som kre­
-ver spesiell fagkompetanse eller tilrettelagte pro­
-duksjonsmiljøer.
-Flere kommuner, herunder Kristiansand,
-Askøy og Aurskog-Høland, legger vekt på at økt
-egenproduksjon vil tjene brukerne ved at NAV­
-kontoret i større grad kan tilby skreddersøm, slik
-tilfellet er for de tiltakene kommunen produserer
-selv. Det pekes på at behovet for individuelt tilpas­
-sede tjenester er størst for de brukergruppene
-som står lengst unna arbeidsmarkedet, og som
-har behov for ulike kommunale tjenester i tillegg
-til arbeidsrettede tiltak fra NAV-kontoret. Både
-innvandrere og ungdommer trekkes fram som
-brukergrupper som har spesielt stort behov for
-individuelt tilpasset bistand.
-Kommuner som ikke støtter forslaget, herunder Kongsberg og Øksnes, gir uttrykk for at de
-ser det som lite hensiktsmessig at NAV-kontorene
-skal bruke ressurser på å styrke egen organisa­
-sjon, når det allerede eksisterer gode og velfunge­
-rende rutiner knyttet til å finne tilpassede tjenes­
-ter for brukere hos eksisterende leverandører. De
-viser til et godt samarbeid med ulike leverandører
-av arbeidsrettede tiltak som de mener har brukt
-mange år på å bygge opp kompetanse, erfaring og
-nettverk. Skepsisen er også knyttet til en bekym­
-ring for at en eventuell overføring av oppgaver til
-NAV-kontoret vil bidra til å svekke tilbudet som
-gis til brukerne. Disse kommunene mener at
-NAV-kontoret heller bør satse på å gjennomføre
-gode arbeidsevnevurderinger, gode anbudspro­
-sesser og å tilegne seg god bestillerkompetanse.
-Brukerorganisasjonene er opptatt av at kvalite­
-ten i NAV-kontorenes oppfølging må komme til
-syne i møtet med brukerne. Norsk epilepsiforbund
-påpeker betydningen av at arbeidsperspektivet
-
-må styrkes i arbeidsevnevurderingene, og at
-fokus på muligheter og begrensninger som den
-enkelte har knyttet til en gitt jobb, er helt avgjø­
-rende for å kunne finne gode løsninger. Dette
-påpekes også av flere andre organisasjoner. Rådet
-for psykisk helse er opptatt av at helsesektoren
-må integreres i rehabiliteringsløpet. Dette mener
-de er en viktig premiss for å lykkes med rehabili­
-tering med ordinært arbeidsliv som arena. Både
-spesialisthelsetjenesten og de kommunale helse­
-tjenestene må i langt større grad enn i dag inte­
-greres i rehabiliteringsløpet.
-Flere brukerorganisasjoner er opptatt av
-utdanning som arbeidsrettet tiltak. Særlig Funk­
-sjonshemmedes fellesorganisasjon og Unge funk­
-sjonshemmede argumenterer for nødvendigheten
-av at aldergrensen i utdanningstiltaket på 26 år
-senkes til 22 år. De viser til at høyere utdanning er
-viktig for at personer med nedsatt funksjonsevne
-skal komme i jobb. De ønsker også at det i større
-grad enn i dag må kunne gis utdanning utover tre
-år.
-
-2.2.3
-
-Styring, ledelse, organisering –
-myndige NAV-kontor
-Høringsuttalelsene gir i stor grad tilslutning til
-større handlingsrom og mer myndige NAV-kon­
-tor. Dette oppnås etter Arbeids- og velferdsdirekto­
-ratets vurdering best ved å legge mer vekt på
-ledelse og kompetanse, og mindre på styring.
-Arbeids- og velferdsdirektoratet mener at dette
-krever endrede styringsambisjoner fra både
-departementet og direktoratet i retning av mindre
-detaljert styring. En konsekvens vil være at en må
-ha aksept for ulik praksis på NAV-kontorene.
-Likere rammebetingelser fra statlig og kom­
-munal side vil ifølge Arbeids- og velferdsdirekto­
-ratet antagelig gjøre styringen av NAV-kontorene
-enklere. Direktoratet mener at større vekt på
-ledelse, kompetansebygging og bruk av skjønn i
-veiledningen vil kunne redusere behovet for pro­
-sedyrer og rutiner, og gjøre den statlige styringen
-av NAV-kontorene mer lik måten kommunene sty­
-rer den kommunale delen av NAV-kontorene.
-Direktoratet foreslår at en går gjennom den sam­
-lede styringen av NAV-kontorene.
-Ifølge direktoratet er det særlig behov for min­
-dre detaljert styring av arbeidsmarkedstiltakene.
-Skal etaten lykkes med å nå de fastsatte målene
-om et bestemt tiltaksnivå innenfor en vedtatt bud­
-sjettramme, og der både prisene på tiltak og andel
-deltakere med tiltakspenger varierer, krever det
-en styring fra direktoratet og fylke som reduserer
-NAV-kontorenes mulighet til å tilpasse bruken til
-
-[Side 27]
-
-2015–2016
-
-Meld. St. 33
-
-27
-
-NAV i en ny tid – for arbeid og aktivitet
-
-brukernes behov. Denne type styring krever bety­
-delige administrative ressurser i etaten. Direkto­
-ratet anser det som helt nødvendig at styringssys­
-temet for arbeidsmarkedstiltakene videreutvikles
-i en retning som sikrer mer fleksibilitet og gir etaten økt handlingsrom til å utøve godt faglig
-skjønn.
-Også kommunene er opptatt av å øke det
-lokale handlingsrommet knyttet til lokale priorite­
-ringer, valg av virkemidler og tilpasninger til de
-enkelte brukernes behov. KS mener at det raskt
-må settes i gang et arbeid som gir lederne ved
-NAV-kontorene myndighet til å utøve reell ledelse
-og styringen må endres fra «produksjonsstyring»
-til «resultatstyring». I tillegg til mange kommuner,
-herunder Kristiansand, Bodø, Lørenskog, Fredrik­
-stad, Tromsø, Aremark, Kvam og Ringsaker, gir
-også brukerorganisasjoner, herunder Norsk Rev­
-matikerforbund, Rusmisbrukernes Interesseorgani­
-sasjon og Funksjonshemmedes fellesorganisasjon,
-og arbeidslivsorganisasjoner, herunder YS, NTL,
-Ergoterapeutene, LO, Fellesorganisasjonen, Akade­
-mikerne og Akademikerforbundet, uttrykk for at
-styring av NAV-kontorene i større grad må legge
-vekt på resultater og mindre på telling av gjen­
-nomførte aktiviteter. Noen brukerorganisasjoner
-viser i denne forbindelse til ekspertgruppens
-uttalelser om at store deler av NAV-kontorets virk­
-somhet er basert på usikkert kunnskapsgrunnlag,
-og at ved stor grad av usikkerhet blir oppgaver
-gjennomgående løst bedre lokalt i samarbeid med
-brukerne.
-Noen brukerorganisasjoner legger vekt på at
-styringssystemet må utformes slik at medarbei­
-dere får økt handlingsrom til å utøve skjønn
-basert på god sosialfaglig praksis i møte med bru­
-kerne. NAV-kontorene må bli mindre byråkra­
-tiske, og det må legges mer vekt på individuell
-oppfølging. Andre er opptatt av at mer myndige
-NAV-kontor må bety større frihet til å jobbe mot
-hele det kommunale tjenesteapparatet, andre eta­
-ter og sektorer. Flere er inne på at leder av NAV­
-kontor må bli en del av kommunens strategiske
-ledelse.
-Arbeids- og velferdsdirektoratet er enig i
-ekspertgruppens vurdering av at mer myndige
-NAV-kontor forutsetter at kontorene må være
-store nok til å kunne ha god fag- og lederkompe­
-tanse til å omsette økt handlingsrom til bedre tje­
-nester for brukerne. Direktoratet understreker
-videre at det med dagens 454 NAV-kontor er van­
-skelig å oppnå effektiv ressursutnyttelse. Analyser
-som direktoratet selv har foretatt, viser at veile­
-derne på NAV-kontorene i gjennomsnitt har
-ansvar for 150 brukere med nedsatt arbeidsevne.
-
-Det er store forskjeller kontorene imellom, men
-arbeidsbelastningen er gjennomgående mindre i
-de minste kontorene. Denne skjevfordelingen av
-arbeidsoppgaver og ressurser mellom NAV-kon­
-tor henger i stor grad sammen med garantibe­
-stemmelsen om statlig minimumsbemanning.
-Arbeids- og velferdsdirektoratet støtter derfor
-forslagene om at minimumsgarantien for NAV­
-kontor bør avvikles og at det bør bli færre NAV­
-kontor. Det vil alltid være nødvendig å sikre en
-best mulig disponering av ressursene for å nå
-gitte mål, og dette krever ifølge direktoratet
-regelmessig vurdering av hensiktsmessig organi­
-sasjonsstruktur, oppgaveplassering og fordeling
-av ressurser. Arbeids- og velferdsdirektoratet
-mener at etaten selv er best egnet til å gjøre disse
-vurderingene, og påpeker at dette er i tråd med
-sentrale prinsipper for styring i staten. Etter
-Arbeids- og velferdsdirektoratets vurdering bør
-handlefriheten også omfatte organisatorisk inn­
-plassering av tjenester som ytes av både arbeids­
-livstjenestene og NAV-Intro. Når det gjelder for­
-slaget om å overføre arbeidslivssentrene til NAV­
-kontorene, ser Arbeids- og velferdsdirektoratet
-argumenter både for og mot. De er positive til for­
-slaget, men foreslår at det må gjennomføres en
-nærmere utredning i nært samarbeid med par­
-tene i arbeidslivet.
-KS er enig i ekspertgruppens vurdering av at
-det er behov for å styrke arbeidslivskompetansen
-på NAV-kontorene, og mener at overflytting av
-arbeidslivssentrene kan være et mulig tiltak. KS
-mener at arbeidslivssentrene spiller en viktig rolle
-i oppfølgingen av både IA-avtalen og IA-virksom­
-heter. KS er opptatt av at det bør kunne legges
-føringer for at den særskilte oppfølgingen av IA­
-virksomheter, må kunne videreføres uavhengig av
-om arbeidslivssentrene opprettholdes som en
-separat enhet eller integreres i de lokale NAV-kon­
-torene. De konkluderer i likhet med Arbeids- og
-velferdsdirektoratet med at spørsmålet må drøftes
-med partene.
-Arbeids- og velferdsdirektoratet mener det er
-behov for å redusere antall NAV-kontor til i under­
-kant av 200. I den grad dette ikke løses i tilknyt­
-ning til kommunesammenslåinger, bør dette pri­
-mært skje gjennom interkommunale løsninger,
-slik lovverket åpner for. Etter Arbeids- og velferds­
-direktoratets vurdering kan dette være en god løs­
-ning for å kunne etablere større kompetansemil­
-jøer og å sikre god integrering av tjenester på
-tvers av statlige og kommunale ansvarsområder.
-Direktoratet varsler at i den grad det ikke er mulig
-å få dette til, vil etaten vurdere å samle deler av
-den statlige kompetansen i enheter som dekker
-
-[Side 28]
-
-28
-
-Meld. St. 33
-
-2015–2016
-
-NAV i en ny tid – for arbeid og aktivitet
-
-flere kommuner. Dette kan f.eks. gjøres ved å
-flytte oppgaver knyttet til oppfølging mot arbeid
-og aktivitet til større regionsentre, samtidig som
-enkelte av Arbeids- og velferdsetatens oppgaver
-som veiledning i selvbetjeningsløsninger for alders­
-pensjon og andre ytelser, vil kunne bli ivaretatt av
-kommunale enheter.
-Når det gjelder forslaget om å avvikle mini­
-mumsgarantien for NAV-kontor med minst tre
-statlig ansatte, ser det ut til at kommunenes vurde­
-ringer er mer delte. Dette gjelder også forslaget
-om at det må bli færre NAV-kontor med større
-kompetansemiljøer som kan jobbe mot arbeidsgi­
-verne og dekke naturlige arbeidsmarkedsområ­
-der. Av alle kommunene som har sendt inn
-høringsuttalelser, er de fleste for begge forslagene,
-men det er også noen som argumenterer mot,
-herunder Ål, Fosnes, Namdalseid og Overhalla.
-Lesja kommune vektlegger sterkt lokalkontorets
-betydning i forhold til å løse arbeids- og velferds­
-forvaltningens samfunnsoppdrag i kommunene,
-og mener at dette betinger lokal stedeværelse av
-fagkompetanse og ressurser. Odda kommune
-mener at det noen steder kan være naturlig å slå
-sammen NAV-kontor, men er opptatt av at konto­
-rene ikke må bli så sentraliserte at de av den
-grunn ikke klarer å yte tjenester til alle. KS er opp­
-tatt av at minimumsgarantien for NAV-kontor med
-minst tre ansatte fra statlig side, må ses i sammen­
-heng med større prosesser som kommunerefor­
-men. De påpeker at garantien er en viktig årsak til
-den skjeve fordelingen av ressurser på store
-bykontorer vs. små kontorer.
-Bodø kommune ser avvikling av minimumsga­
-rantien som helt nødvendig for å få til kvalitativt
-gode fagmiljøer. Det hevdes at i dag har mange
-små kontorer godt med ressurser, men er likevel
-for små til å få bygd opp gode nok fagmiljøer. Sam­
-tidig har mange større kontorer ikke nok ressur­
-ser til å gjøre oppgavene sine, slik at resultatet av
-denne garantien kan bli at en risikerer gjennom­
-gående dårlig kvalitet på NAV-kontorenes arbeid.
-Et mindretall av kommunene er som nevnt ovenfor, skeptiske til forslaget om å avvikle mini­
-mumsgarantien. Det argumenteres med at
-ekspertgruppen ikke drøfter mulige negative kon­
-sekvenser for brukerne i form av reiseavstander
-og dårligere tilgjengelighet, og at en avvikling kan
-gjøre det vanskeligere for lokale NAV-kontorers
-samspill med naturlige samarbeidsenheter i kom­
-munene. Det framholdes at god og tett oppfølging
-av brukere med sammensatte og omfattende
-behov forutsetter nærhet til brukernes hverdag.
-Det hevdes videre at en sentralisering av kontorer
-
-vil svekke fleksibiliteten til å finne gode lokalt til­
-passede løsninger for de svakeste brukerne.
-Unge Funksjonshemmede har gitt uttrykk for at
-de er usikre på om økt myndighet forutsetter
-færre og større NAV-kontor. De ser behovet for
-større fagmiljøer, men legger vekt på at dette må
-gjøres på en måte som ikke bidrar til å redusere
-brukernes muligheter til å komme i kontakt med
-de samme fagmiljøene. Også Funksjonshemmedes
-fellesorganisasjon legger vekt på at det lokale NAV­
-kontoret er viktig for mange, og mener at den
-lokale forankringen i små kommuner med få
-ansatte innebærer en kompetanse i seg selv som
-ikke bør svekkes. Rusmisbrukernes Interesseorga­
-nisasjon foreslår at man i stedet for færre og
-større NAV-kontor heller bør utforske ordningen
-med tjenesteområder der leder av NAV-kontor
-kan få delegert deler av fylkesdirektørens full­
-makter overfor andre NAV-kontor innenfor tje­
-nesteområdet, og at medarbeiderne kan alternere
-mellom ulike NAV-kontor.
-Mens Arbeids- og velferdsdirektoratet er positiv
-til forslaget om å overføre fylkesmannens ansvar
-for faglig råd og veiledning til NAV fylke, får for­
-slaget i all hovedsak ikke støtte fra KS eller kom­
-munene. Heller ingen fylkesmenn som har sendt
-inn høringsuttalelser er enig i forslaget. Direktora­
-tet mener at forslaget vil kunne være et viktig
-bidrag til å underbygge og videreutvikle partner­
-skapet mellom fylkeskontorene og kommunene.
-Ved å samle den faglige støtten på NAV fylke vil
-kompetanseutviklingstiltak kunne få større plass i
-partnerskapssamtalene. På denne måten kan
-kommunene ifølge Arbeids- og velferdsdirektora­
-tet bli mer delaktige og få et større eierskap til til­
-rettelegging av kompetansetiltak.
-Motforestillingene fra kommunal side henger
-for det første sammen med at fylkesmannen har
-ansvar for tilsyn og veiledning på en rekke av
-kommunens oppgaver og kjenner kommunenes
-samlede situasjon godt. Det argumenteres for at
-dette gir fylkesmannen et bedre utgangspunkt for
-å gi veiledning og råd med et mer helhetlig per­
-spektiv enn fylkesleddet i arbeids- og velferdsfor­
-valtningen. Kommunene er et selvstendig forvalt­
-ningsnivå med selvstendig ansvar for en rekke tje­
-nester, hvor den kommunale delen av NAV-konto­
-ret kun er en del av det totale tjenestetilbudet. For
-det andre er NAV fylke overordnet instans i den
-statlige styringslinjen av NAV-kontorene. Særlig
-KS mener at hvis fylkesleddet i tillegg skal gi råd
-og veiledning, vil det for ansatte på NAV-konto­
-rene kunne være vanskelig å skille mellom hva
-som er et nøytralt og velmenende råd, og hva som
-er pålegg i den statlige styringslinjen.
-
-[Side 29]
-
-2015–2016
-
-Meld. St. 33
-NAV i en ny tid – for arbeid og aktivitet
-
-Fra kommunal side ser det ut til at det er stor
-enighet om forslaget om å utrede spørsmålet om
-det skal være en felles tariffavtale for statlige og
-kommunalt ansatte på NAV-kontorene. KS tror
-dette vil kunne bidra til å effektivisere NAV-leders
-komplekse administrative oppgave og bidra til å
-skape bedre integrerte kontorer. Men som også
-mange kommuner kommenterer, reiser forslaget
-en rekke arbeidsrettslige problemstillinger som
-må utredes nærmere. Arbeids- og velferdsdirektora­
-tet er positive til en felles tariffavtale, men peker
-samtidig på at dette er en sak mellom partene i
-arbeidslivet. De fleste arbeidslivsorganisasjonene
-er uenige i forslaget.
-
-2.2.4 Kompetanse og kunnskap
-Arbeids- og velferdsdirektoratet er opptatt av at god
-kompetanse vil bli viktigere med den retningen
-som følger av ekspertgruppens forslag til hoved­
-strategier for arbeids- og velferdsforvaltningen.
-De mener at en mer bevisst satsing på fag- og pro­
-fesjonsutvikling i etaten vil være en hensiktsmes­
-sig vei å gå, og viser til at de er i dialog med flere
-forsknings- og utdanningsinstitusjoner for å få til
-et tettere samarbeid om bl.a. kompetanseutvik­
-ling. Selv om det er gjennomført omfattende
-lederutvikling i etaten i de siste årene, ser direkto­
-ratet behovet for å videreutvikle lederutviklings­
-programmene. De mener dette bør gjøres i samar­
-beid med KS.
-
-29
-
-Også KS legger vekt på at mer myndige NAV­
-kontor innebærer at både ledelsen og kompetan­
-sen på NAV-kontorene må styrkes. Økt handlings­
-rom vil forsterke kravet til ledelse. KS mener at
-det er klokt å tenke etablering av et ledelsespro­
-gram. Forslaget støttes også av mange kommu­
-ner.
-Arbeids- og velferdsdirektoratet er enig med
-ekspertgruppen i at det på mange av arbeids- og
-velferdsforvaltningens områder er begrenset med
-kunnskap om sammenhenger mellom mål og mid­
-ler, og viser til at det er satt i gang et arbeid i sam­
-arbeid med departementet med henblikk på å få
-mer sikker kunnskap om effekter av politiske
-reformer, tiltak og virkemidler. Det er betydelige
-forventninger til tjenestene fra NAV-kontorene.
-For å møte disse forventningene og framtidige
-utfordringer er det nødvendig å drive utstrakt fag­
-og tjenesteutvikling innad i arbeids- og velferds­
-forvaltningen. Arbeids- og velferdsdirektoratet
-framhever betydningen av at det utvikles en kom­
-petanse- og læringsstruktur som ivaretar både ini­
-tiativ fra sentralt hold og samtidig fanger opp
-lokale utprøvinger og erfaringer. Også mange av
-høringsinstansene, særlig arbeidstakerorganisa­
-sjoner som YS, Akademikerforbundet, Unio, Aka­
-demikerne og LO, er opptatt av at det bør satses på
-sterkere kompetanse og kunnskap og gir sin
-støtte til mange av forslagene som ekspertgrup­
-pen har kommet med.
-
-[Side 30]
-
-30
-
-Meld. St. 33
-NAV i en ny tid – for arbeid og aktivitet
-
-2015–2016
-
-3 Arbeidsrettet oppfølging fra NAV-kontoret
-3.1
-
-Innledning
-
-Arbeids- og velferdsforvaltningen har ansvar for å
-tilby arbeidsrettet oppfølging til personer som
-trenger bistand for å komme i arbeid eller fort­
-sette i et arbeidsforhold. Til denne oppgaven dis­
-ponerer forvaltningen et vidt tjenestespekter
-innenfor både det kommunale og statlige ansvars­
-området.
-Som en arbeidsmetodikk er oppfølging defi­
-nert som «all samhandling mellom bruker og
-arbeids- og velferdsforvaltningen som har til for­
-mål å understøtte framdriften i den enkeltes pro­
-sess mot et mål». Grunnleggende sett dreier opp­
-følging seg om å samhandle med mennesker – å
-gi tjenester som kan bidra til å endre menneskers
-livsvilkår og gi dem nye muligheter. Relasjonen
-mellom NAV-veilederen og brukeren er derfor
-viktig og utgjør kjerneaktiviteten i oppfølgingen.
-Dette kapitlet handler om den arbeidsrettede
-oppfølgingen fra NAV-kontoret til personer som
-trenger bistand for å komme i, eller bli i jobb. I
-årene som kommer står vi overfor økte utfordrin­
-ger både når det gjelder situasjonen på arbeids­
-markedet og en forventet økning i antall brukere
-grunnet den demografiske utviklingen. Flykt­
-ningsituasjonen vil trolig i tillegg bidra til en ytter­
-ligere økning i antall brukere med sammensatte
-bistandsbehov. Dette fører til økte krav til arbeids­
-og velferdsforvaltningen. For at NAV-kontorene
-skal være bedre rustet til å kunne yte arbeidsret­
-tet oppfølging av god kvalitet til brukere med
-behov for tilpassede og koordinerte tjenester, er
-det nødvendig å legge til rette for en mer effektiv
-og målrettet bruk av forvaltningens og NAV-kon­
-torets ressurser.
-Behovet for å gjennomgå arbeids- og velferds­
-forvaltningens oppfølgingsinnsats er påpekt i flere
-forskningsrapporter og av ekspertgruppen som
-har gjennomgått arbeids- og velferdsforvaltnin­
-gen. Blant annet peker ekspertgruppen på at det
-er behov for å tilpasse innsatsen til brukernes
-behov, samtidig som det er nødvendig med en viss
-grad av standardisering knyttet til samhandlingen
-mellom forvaltningen og brukeren når det gjelder
-arbeidsrettet oppfølging.
-
-Kapitlet redegjør for behovet for prioriteringer
-av bruken av ressursene i NAV-kontorene, med
-særskilt vekt på unge. Som et ledd i arbeidet med
-å utvikle bedre oppfølgingsmetoder og prosesser,
-drøftes problemstillinger knyttet til praktiseringen
-av behovs- og arbeidsevnevurderinger. Det drøftes
-også hvordan det kan legges til rette for tydeligere
-aktivitetskrav i de ulike ordningene samt behovet
-for et mer ensartet og hensiktsmessig system for
-å følge opp disse kravene. Dette med sikte på økt
-arbeidsretting og brukerretting av oppfølgingen.
-Målet er en effektiv forvaltning som møter
-brukerne med en helhetlig innsats og tilpassede
-tjenester og virkemidler. I henhold til gjeldende
-regler og innenfor de rammer som er stilt til dis­
-posisjon, skal brukerne gis de ytelser de har krav
-på, hensiktsmessige tjenester og tiltak med mål
-om å oppnå rask og varig overgang til arbeid.
-
-3.2
-
-Prioriteringer av ressursene til
-arbeidsrettet oppfølging
-
-Kravene og forventningene til brukeroppfølging
-fra NAV-kontorene er store. Hvor hyppig den
-enkelte bruker skal følges opp, er bl.a. regulert i
-departementets tildelingsbrev til Arbeids- og vel­
-ferdsdirektoratet og regelverket knyttet til ytelser
-og arbeidsmarkedstiltak. Prognoser viser at presset på oppfølgingsressursene vil øke ytterligere i
-tiden som kommer. Situasjonen på arbeidsmarke­
-det med svakere etterspørsel og økt ledighet,
-sterk økning i innvandrerbefolkningen og flere
-med sammensatte utfordringer på grunn av svake
-grunnleggende ferdigheter og helseproblemer vil
-bidra til økt behov for arbeidsrettet oppfølging fra
-NAV-kontorene. Dette gjør det nødvendig med
-tydelige prioriteringer av bruken av ressurser til
-arbeidsrettet oppfølging på NAV-kontoret.
-En rekke studier peker på tett oppfølging som
-en suksessfaktor for overgang til arbeid for unge1
-og personer som står langt unna arbeidsmarke­
-1
-
-Anne Hege Strand, Magne Bråthen og Arne Backer Grøn­
-ningsæter (2015) «NAV-kontorenes oppfølging av unge bru­
-kere» Fafo-rapport 2015:14.
-
-[Side 31]
-
-2015–2016
-
-Meld. St. 33
-NAV i en ny tid – for arbeid og aktivitet
-
-det.2 I studier av langtidsmottakere av sosialhjelp3
-og deltakere i kvalifiseringsprogrammet4 trekkes
-god brukermedvirkning og oppfølging tilpasset
-den enkelte bruker fram som suksessfaktorer.
-Høy bemanningsfaktor i forhold til antall brukere
-trekkes fram som en viktig rammebetingelse for å
-kunne drive med tett individuell oppfølging. Det
-vises til at veilederen på NAV-kontoret må jobbe
-med å endre brukerens holdninger og bygge mot­
-ivasjon, og samtidig være en «brobygger» mot
-arbeidsmarkedet. Det siste forholdet krever at vei­
-lederne har god kjennskap til det lokale arbeids­
-markedet og har gode relasjoner til lokale arbeids­
-givere.
-Flere forskningsartikler viser til at det er en
-presset ressurssituasjon blant de som skal følge
-opp personer med nedsatt arbeidsevne.5 Ressurs­
-situasjonen er særlig utfordrende ved store NAV­
-kontor, hvor det ofte er mellom 150–300 brukere
-per veileder. Det kan være utfordrende for den
-enkelte veileder å løse det manglende samsvaret
-mellom ambisiøs og krevende metodikk og lite
-ressurser. I en forskningsrapport fra NTNU6 slås
-det fast at man bør se nærmere på hvordan
-Arbeids- og velferdsetaten kan bidra til bedre prio­
-ritering av oppgavene.
-Det er årlig et svært stort antall treffpunkter
-mellom brukere og arbeids- og velferdsforvaltnin­
-2
-
-3
-4
-
-5
-
-6
-
-Anne Britt Djuve, Roy A. Nielsen og Anne Hege Strand
-(2012) «Kvalifiseringsprogrammet og sosialhjelpsutgiftene»,
-Fafo-rapport 2012:63.
-Angelika Schafft og Øystein Spjelkavik (2011) «Evaluering
-av Kvalifiseringsprogrammet», AFI- rapport nr. 4/2011.
-Kjetil Frøyland og Knut Fossestøl (2014) «Inkludering av
-ungdom i skole eller arbeid – 2. Tiltak, metoder, samarbeid
-og samordning i og rundt NAV-kontoret. Andre delrapport fra
-evaluering av utviklingsarbeid i 15 prosjektområder», Høg­
-skolen i Oslo og Akershus/ Arbeidsforskningsinstituttet,
-AFI-rapport 1/2014.
-Rambøll management (2008) «Evaluering av programmet
-Tettere individuell oppfølging. Sluttrapport», Oslo.
-Anne Britt Djuve, Roy A. Nielsen og Anne Hege Strand
-(2012) «Kvalifiseringsprogrammet og sosialhjelpsutgiftene»,
-Fafo-rapport 2012:63.
-Anders Mølster Galaasen og Ivar Andreas Åsland Lima
-(2014) «Arbeidsevnevurderinger i NAV: Kunnskapsstatus og
-veien videre», artikkel nr. 3/2014 i Arbeid og velferd,
-Arbeids- og velferdsdirektoratet.
-Proba (2011) «Arbeidsevnevurdering i NAV. Evalueringsrap­
-port.», Proba-rapport 2011-06, Oslo.
-Heidi Pedersen, Ann Kristin Alseth, Anne Wullum Aas­
-back, Jan Ove Nyland og Edgar Marthinsen (2011)
-«Arbeidsevnevurderingen i NAV – Brukerorientert prosess
-eller ren prosedyre.», NTNU Samfunnsforskning AS, Trond­
-heim, NTNU-trykk.
-Heidi Pedersen, Ann Kristin Alseth, Anne Wullum Aas­
-back, Jan Ove Nyland og Edgar Marthinsen (2011)
-«Arbeidsevnevurderingen i NAV – Brukerorientert prosess
-eller ren prosedyre.», NTNU Samfunnsforskning AS, Trond­
-heim, NTNU-trykk.
-
-31
-
-gen. Det overveiende flertallet av disse er initiert
-av brukeren. Brukerne henvender seg på forskjel­
-lige måter. Fra NAVs brukermelding framgår det
-at det i løpet av ett år er om lag 60 mill. oppslag og
-19 mill. innlogginger på nav.no, om lag 6 mill. tele­
-fonsamtaler, om lag 20 mill. sendte brev og om lag
-7 mill. besøk på NAV-kontorene. Brukerne av
-arbeids- og velferdsforvaltningen er en stor og
-uensartet gruppe. Om lag 2,8 mill. er brukere av
-arbeids- og velferdsforvaltningen i løpet av et år.
-Mange av disse mottar tjenester som i liten grad
-krever besøk på NAV-kontoret, slik som utbeta­
-ling av pensjon og foreldrepenger.
-NAV-kontoret er den enheten innenfor arbeids­
-og velferdsforvaltningen som i første rekke møter
-brukerne gjennom personlig frammøte. Brukere
-av sosiale tjenester står for 35 pst. av møtene.
-Møter knyttet til oppfølging mot arbeid, syk­
-meldte som trenger oppfølging og personer som
-mottar arbeidsavklaringspenger utgjør 10 pst. av
-møtene mellom bruker og NAV-kontoret. Mange
-av de øvrige henvendelsene dreier seg om infor­
-masjonsbehov knyttet til økonomiske stønader.
-Gitt det store volum i brukere og oppgaver
-som NAV-kontorene har og de store utfordrin­
-gene arbeids- og velferdsforvaltningen står overfor i årene som kommer, er det behov for å legge
-til rette for en mer målrettet bruk av NAV-kontore­
-nes ressurser. For at NAV-kontoret skal få frigjort
-mest mulig ressurser til å drive med arbeidsrettet
-oppfølging, er det nødvendig at de som henvender
-seg til arbeids- og velferdsforvaltningen raskt og
-effektivt henvises til relevant bistand. Arbeids- og
-velferdsdirektoratets kanalstrategi skal bidra til
-dette ved at NAV-kontoret i større grad avlastes
-for oppgaver som ikke direkte støtter opp om
-arbeidsrettet oppfølging. Andre enheter avlaster
-også NAV-kontoret gjennom arbeidsrettet bistand.
-Økt digitalisering er en vesentlig forutsetning for
-dette.
-
-3.2.1 Digitalisering og frigjøring av ressurser
-Brukerne av arbeids- og velferdsforvaltningen
-skal tilbys kvalitativt gode tjenester samt forståe­
-lig og tilstrekkelig informasjon. Dette gjelder
-både personbrukere og arbeidsgivere. En viktig
-forutsetning for å lykkes med dette er at arbeids­
-og velferdsforvaltningen kan tilby digitale tjenes­
-ter der dette er hensiktsmessig for brukerne og
-der dette gir hensiktsmessige arbeidsprosesser
-for forvaltningen. De langsiktige ambisjonene for
-digitalisering er viktig for å avlaste NAV-konto­
-rene slik at de kan bruke mer tid på brukere som
-
-[Side 32]
-
-32
-
-Meld. St. 33
-NAV i en ny tid – for arbeid og aktivitet
-
-står langt unna arbeidsmarkedet og som trenger
-tilpassede og koordinerte tjenester.
-Brukerne vil forvente at flere av arbeids- og
-velferdsforvaltningens tjenester automatiseres og
-gjøres selvbetjente. Over syv mill. brukere besø­
-ker NAV-kontoret i året. Mer enn halvparten av
-disse besøkene gjelder informasjon om økono­
-miske ytelser. Ekspertgruppens vurdering var at
-dagens brukere av arbeids- og velferdsforvaltnin­
-gen har mer kontakt med forvaltningen på trygde­
-og stønadsområdet enn det de ønsker og trenger.
-Dette mente ekspertgruppen skyldtes både usik­
-kerhet om innholdet i tilsendt informasjon og til­
-gangen på informasjon. For mange brukere vil det
-være mer hensiktsmessig å få dekket sitt informa­
-sjonsbehov digitalt, enn å møte opp på NAV-konto­
-ret.
-Regjeringen har nylig lagt fram Meld. St. 27
-(2015–2016) Digital agenda for Norge- IKT for en
-enklere hverdag og økt produktivitet. Et av hoved­
-målene for Regjeringens IKT-politikk er en bru­
-kerrettet og effektiv offentlig forvaltning. Regje­
-ringen vil forbedre offentlig sektor og gi innbyg­
-gerne og næringsliv et enklere og bedre møte
-med det offentlige.
-Brukeren i sentrum er en av fem hovedpriori­
-teringer i Regjeringens IKT-politikk. Dette inne­
-bærer at brukerne og brukernes behov skal være
-det sentrale utgangspunktet ved digitalisering av
-offentlig sektor og stå sentralt i IKT-politikken for
-øvrig. Offentlige tjenester skal fremstå sammen­
-hengende og helhetlige for brukerne, uavhengig
-av hvilke offentlige virksomheter som tilbyr dem.
-De siste årene har store deler av IKT-utviklin­
-gen i Arbeids- og velferdsetaten vært knyttet til
-store reformer og ulike regelverksendringer som
-pensjonsreformen og ny uføretrygd. Samtidig har
-etaten bl.a. gjennom Prosjekt 1 i IKT-modernise­
-ringsprogrammet utviklet flere selvbetjeningsløs­
-ninger, bedre brukerdialoger og gjort det mulig
-for brukerne å få innsyn i egen sak over nettet.
-Bruken av digitale løsninger har allerede et stort
-omfang, og erfaringene viser at nye løsninger tas
-raskt i bruk, jf. boks 3.1. Det er imidlertid fortsatt
-helt nødvendig å modernisere store ytelsesområ­
-der som i dag driftes i Infotrygd. Det betyr at
-vesentlig kapasitet til utviklingsarbeid fortsatt de
-nærmeste årene vil være konsentrert om dette
-arbeidet. Det pågående moderniseringsprogram­
-met, der Prosjekt 2 etter planen skal starte opp
-høsten 2016, vil i stor grad være konsentrert om å
-få på plass nye moderniserte løsninger for ytelses­
-områdene foreldrepenger og engangsstønad.
-Dette er nødvendig for å sikre stabilitet, sikkerhet,
-
-2015–2016
-
-effektiv forvaltning og raskere respons på
-endringer i regelverk og andre myndighetspålegg.
-Samtidig må det gjennomføres en dreining og
-forsterkning av utviklingsaktiviteter knyttet til
-arbeid og gode digitale brukertjenester. Blant de
-viktigste tiltakene på dette området de nærmeste
-årene er å digitalisere sykefraværsoppfølgingen,
-ytterligere digitalisere brukerdialogen, forenkle
-oppfølgingsmetodikken og få en modernisering
-av dagens arbeidsrettede tjenester.
-Etter hvert som digitale tjenester bygges ut
-skal brukeren ha flere muligheter til kontakt og
-samhandling med arbeids- og velferdsforvaltnin­
-gen. Kontakt kan skje enten på nett, på telefon,
-per brev eller ved oppmøte på NAV-kontoret. Digi­
-taliseringsarbeidet skal bl.a. legge til rette for økt
-kontakt på nett. Målet for etatens kanalstrategi er
-at brukerne skal få tilpasset informasjon, selv­
-betjeningsløsninger som gir en fullverdig bruker­
-dialog, forhåndsutfylt informasjon etaten allerede
-har om brukeren, veiledning gjennom dialogen,
-og i mange tilfeller umiddelbare svar på henven­
-delsen eller søknaden.
-
-Boks 3.1 Stadig flere får tilgang til
-digitale tjenester
-–
-–
-–
-–
-–
-–
-
-Over 60 mill. besøk på nav.no årlig
-75 000 som logger seg på Ditt NAV daglig
-58 pst. søkte alderspensjon i selvbetje­
-ningsløsningen på nav.no i 2015, en økning
-på 6 prosentpoeng sammenliknet med 2014
-Selvbetjeningsløsningen for uføretrygd
-brukes av stadig flere med en økning på om
-lag 17 pst. fra april 2015 til april 2016
-Andelen som sender elektroniske melde­
-kort er tett opp mot 100 pst.
-I 2015 ble nye digitale søknadsdialoger satt
-i drift:
-– Dagpenger ble komplett mars 2015
-(søknadsdialog for nye, gjenopptak og
-permitterte)
-– Foreldrepenger ble levert juni 2015
-(søknadsdialog for førstegangssøkere)
-– Søknadsdialog for bil ble levert septem­
-ber 2015
-– Søknadsdialog for tiltakspenger ble
-levert desember 2015
-– De digitale løsningene er allerede tatt
-godt imot og tallene viser at om lag 80
-pst. av dagpengesøknadene i januar
-2016 ble sendt elektronisk, mens tilsva­
-rende tall for foreldrepenger var 70 pst.
-
-[Side 33]
-
-2015–2016
-
-Meld. St. 33
-NAV i en ny tid – for arbeid og aktivitet
-
-Mottakere av ytelser skal få informasjon og
-støtte i søknadsprosessen uten å måtte møte på
-NAV-kontoret. Et flertall av brukerne vil fore­
-trekke dette. Informasjonsbehov knyttet til ytelser
-skal i stor grad kunne dekkes gjennom selvbetje­
-ningsløsninger på nav.no. Dette skal sikre at bru­
-keren får individuelt tilpasset informasjon, veiled­
-ning og oppfølging basert på informasjon som etaten allerede har. Bedre styring av brukernes måte
-å kontakte arbeids- og velferdsforvaltningen på,
-skal gi en bedre tilpasning til brukernes behov for
-raske og tilgjengelige tjenester. Målet er at bru­
-kerne skal få best mulig service i riktig kanal på
-en mest mulig kostnadseffektiv måte. Det betyr
-at:
-– Flere og bedre tjenester på nav.no gjør at bru­
-ken øker, og at andel ad hoc-henvendelser på
-NAV-kontoret og telefon går ned
-– Det fysiske møtet skal i større grad være plan­
-lagt og mindre ad hoc-preget
-– Tilgjengeligheten øker for brukere med sam­
-mensatte oppfølgingsbehov, men minsker for
-de øvrige gruppene
-– Flere tjenester på telefon gjør at bruken samlet
-sett øker
-– Chat og sosiale medier anvendes for å under­
-støtte nav.no
-– Brev og e-post erstattes av digitale tjenester
-Arbeids- og velferdsforvaltningens kostnader per
-brukermøte i de ulike kanalene varierer. Som
-påpekt i rapporten fra ekspertgruppen, er oppføl­
-gingssamtaler med sikte på arbeid det mest kost­
-nadskrevende. Å betjene brukere som ringer
-arbeids- og velferdsforvaltningen har 180 ganger
-høyere kostnad enn når brukere finner samme
-informasjon på nav.no.7 Som også ekspertgrup­
-pen påpekte, ligger det dermed store gevinster i å
-gi god informasjon på nett, slik at brukerne ikke
-har behov for å henvende seg til arbeids- og vel­
-ferdsforvaltningen gjennom andre kanaler.
-Når tjenestebredden bygges ut i noen kanaler,
-åpner det for å redusere tjenestebredden i NAV­
-kontoret og dermed frigjøre ressurser som kan
-brukes til arbeidsrettet oppfølging. Brukere med
-mer sammensatte behov skal få nytte av en større
-del av NAV-kontorets ressurser. Enkle informa­
-sjonstjenester skal bare unntaksvis gis på NAV­
-kontoret. Riktig kanalisering av brukerhenvendel­
-ser skal bidra til mindre byråkratiske og mer bru­
-kervennlige tjenester. Arbeids- og velferdsforvalt­
-ningen har iverksatt en rekke tiltak for å støtte
-opp under kanalstrategien. Det er etter Regjerin7
-
-Dette er eksklusiv utviklingskostnadene for nettjenester.
-
-33
-
-gens vurdering avgjørende at arbeids- og velferds­
-forvaltningen lykkes med dette arbeidet slik at det
-frigjøres mer ressurser til å drive effektiv og mål­
-rettet arbeidsrettet oppfølging ved NAV-kontoret.
-Departementet har bedt Arbeids- og velferds­
-direktoratet fortsette arbeidet med å gjennomføre
-og videreutvikle kanalstrategien. Et viktig mål er å
-styrke NAV-kontorenes mulighet til å tilby
-arbeidsrettet oppfølging til de som i dag står uten­
-for, eller holder på å falle ut av arbeidslivet.
-
-3.2.2 Tidlig innsats og samordnede tjenester
-For å oppnå korte stønadsløp og raskest mulig
-overgang til arbeid, er det viktig at det avklares
-tidlig hvilket bistandsbehov den enkelte har, slik
-at oppfølging kan gis der det er nødvendig og hen­
-siktsmessig. Rask inngripen er særlig viktig for
-unge som risikerer lange perioder utenfor
-arbeidslivet eller i verste fall uføretrygd og varig
-ekskludering fra arbeidslivet. For personer på hel­
-serelaterte ytelser vil det være viktig å avklare
-behovet for arbeidsrettet oppfølging så tidlig som
-mulig i sykdomsforløpet. For å oppnå tidlig inn­
-sats og helhetlig oppfølging av den enkelte bru­
-ker, er det avgjørende at NAV-kontoret samarbei­
-der godt med andre aktører.
-Tidlig innsats rettet mot unge
-Antallet unge med nedsatt arbeidsevne har økt de
-senere årene. Passive perioder i ungdomsårene
-øker risikoen for lange og tilbakevendende perio­
-der med arbeidsledighet eller varig ekskludering
-fra arbeidslivet. Varig ekskludering fra arbeids­
-markedet er et stort tap både for den enkelte og
-for samfunnet. Det er nødvendig med et godt sam­
-arbeid med aktører innenfor utdannings- og helse­
-sektoren samt kommunale tjenester som ligger
-utenfor NAV-kontoret, for å oppnå tidlig innsats og
-helhetlig oppfølging av denne brukergruppen.
-Mens andre europeiske land har høy arbeids­
-ledighet blant unge, er situasjonen i Norge i
-større grad preget av at det er mange unge som er
-registrert med helseproblemer. Om lag 42 000
-unge under 30 år er registrert hos Arbeids- og vel­
-ferdsetaten med nedsatt arbeidsevne. Av disse er
-det 28 000 som mottar arbeidsavklaringspenger.
-Personer med nedsatt arbeidsevne er en beteg­
-nelse arbeids- og velferdsforvaltningen benytter
-om brukere som på grunn av fysiske, psykiske
-eller sosiale årsaker mottar eller skal motta spesi­
-ell oppfølging. Personer som mottar uføretrygd er
-ikke inkludert i denne statistikken med mindre de
-deltar på tiltaket varig tilrettelagt arbeid. Totalt er
+*Unge Funksjonshemmede* har gitt uttrykk for at de er usikre på om økt myndighet forutsetter færre og større NAV-kontor. De ser behovet for større fagmiljøer, men legger vekt på at dette må gjøres på en måte som ikke bidrar til å redusere brukernes muligheter til å komme i kontakt med de samme fagmiljøene. Også *Funksjonshemmedes fellesorganisasjon* legger vekt på at det lokale NAV-kontoret er viktig for mange, og mener at den lokale forankringen i små kommuner med få ansatte innebærer en kompetanse i seg selv som ikke bør svekkes. *Rusmisbrukernes Interesseorganisasjon* foreslår at man i stedet for færre og større NAV-kontor heller bør utforske ordningen med tjenesteområder der leder av NAV-kontor kan få delegert deler av fylkesdirektørens fullmakter overfor andre NAV-kontor innenfor tjenesteområdet, og at medarbeiderne kan alternere mellom ulike NAV-kontor.
+
+Mens *Arbeids- og velferdsdirektoratet* er positiv til forslaget om å overføre fylkesmannens ansvar for faglig råd og veiledning til NAV fylke, får forslaget i all hovedsak ikke støtte fra *KS* eller *kommunene*. Heller ingen fylkesmenn som har sendt inn høringsuttalelser er enig i forslaget. Direktoratet mener at forslaget vil kunne være et viktig bidrag til å underbygge og videreutvikle partnerskapet mellom fylkeskontorene og kommunene. Ved å samle den faglige støtten på NAV fylke vil kompetanseutviklingstiltak kunne få større plass i partnerskapssamtalene. På denne måten kan kommunene ifølge Arbeids- og velferdsdirektoratet bli mer delaktige og få et større eierskap til tilrettelegging av kompetansetiltak.
+
+Motforestillingene fra kommunal side henger for det første sammen med at fylkesmannen har ansvar for tilsyn og veiledning på en rekke av kommunens oppgaver og kjenner kommunenes samlede situasjon godt. Det argumenteres for at dette gir fylkesmannen et bedre utgangspunkt for å gi veiledning og råd med et mer helhetlig perspektiv enn fylkesleddet i arbeids- og velferdsforvaltningen. Kommunene er et selvstendig forvaltningsnivå med selvstendig ansvar for en rekke tjenester, hvor den kommunale delen av NAV-kontoret kun er en del av det totale tjenestetilbudet. For det andre er NAV fylke overordnet instans i den statlige styringslinjen av NAV-kontorene. Særlig KS mener at hvis fylkesleddet i tillegg skal gi råd og veiledning, vil det for ansatte på NAV-kontorene kunne være vanskelig å skille mellom hva som er et nøytralt og velmenende råd, og hva som er pålegg i den statlige styringslinjen.
+
+Fra kommunal side ser det ut til at det er stor enighet om forslaget om å utrede spørsmålet om det skal være en felles tariffavtale for statlige og kommunalt ansatte på NAV-kontorene. *KS* tror dette vil kunne bidra til å effektivisere NAV-leders komplekse administrative oppgave og bidra til å skape bedre integrerte kontorer. Men som også mange kommuner kommenterer, reiser forslaget en rekke arbeidsrettslige problemstillinger som må utredes nærmere. *Arbeids- og velferdsdirektoratet* er positive til en felles tariffavtale, men peker samtidig på at dette er en sak mellom partene i arbeidslivet. De fleste arbeidslivsorganisasjonene er uenige i forslaget.
+
+1.  **Kompetanse og kunnskap**
+
+*Arbeids- og velferdsdirektoratet* er opptatt av at god kompetanse vil bli viktigere med den retningen som følger av ekspertgruppens forslag til hovedstrategier for arbeids- og velferdsforvaltningen. De mener at en mer bevisst satsing på fag- og profesjonsutvikling i etaten vil være en hensiktsmessig vei å gå, og viser til at de er i dialog med flere forsknings- og utdanningsinstitusjoner for å få til et tettere samarbeid om bl.a. kompetanseutvikling. Selv om det er gjennomført omfattende lederutvikling i etaten i de siste årene, ser direktoratet behovet for å videreutvikle lederutviklingsprogrammene. De mener dette bør gjøres i samarbeid med KS.
+
+Også *KS* legger vekt på at mer myndige NAV-kontor innebærer at både ledelsen og kompetansen på NAV-kontorene må styrkes. Økt handlingsrom vil forsterke kravet til ledelse. KS mener at det er klokt å tenke etablering av et ledelsesprogram. Forslaget støttes også av mange kommuner.
+
+*Arbeids- og velferdsdirektoratet* er enig med ekspertgruppen i at det på mange av arbeids- og velferdsforvaltningens områder er begrenset med kunnskap om sammenhenger mellom mål og midler, og viser til at det er satt i gang et arbeid i samarbeid med departementet med henblikk på å få mer sikker kunnskap om effekter av politiske reformer, tiltak og virkemidler. Det er betydelige forventninger til tjenestene fra NAV-kontorene. For å møte disse forventningene og framtidige utfordringer er det nødvendig å drive utstrakt fag- og tjenesteutvikling innad i arbeids- og velferdsforvaltningen. Arbeids- og velferdsdirektoratet framhever betydningen av at det utvikles en kompetanse- og læringsstruktur som ivaretar både initiativ fra sentralt hold og samtidig fanger opp lokale utprøvinger og erfaringer. Også mange av høringsinstansene, særlig arbeidstakerorganisasjoner som *YS, Akademikerforbundet, Unio, Akademikerne* og *LO*, er opptatt av at det bør satses på sterkere kompetanse og kunnskap og gir sin støtte til mange av forslagene som ekspertgruppen har kommet med.
+
+1.  **Arbeidsrettet oppfølging fra NAV-kontoret**
+
+    1.  **Innledning**
+
+Arbeids- og velferdsforvaltningen har ansvar for å tilby arbeidsrettet oppfølging til personer som trenger bistand for å komme i arbeid eller fortsette i et arbeidsforhold. Til denne oppgaven disponerer forvaltningen et vidt tjenestespekter innenfor både det kommunale og statlige ansvarsområdet.
+
+Som en arbeidsmetodikk er oppfølging definert som «all samhandling mellom bruker og arbeids- og velferdsforvaltningen som har til formål å understøtte framdriften i den enkeltes prosess mot et mål». Grunnleggende sett dreier oppfølging seg om å samhandle med mennesker – å gi tjenester som kan bidra til å endre menneskers livsvilkår og gi dem nye muligheter. Relasjonen mellom NAV-veilederen og brukeren er derfor viktig og utgjør kjerneaktiviteten i oppfølgingen.
+
+Dette kapitlet handler om den arbeidsrettede oppfølgingen fra NAV-kontoret til personer som trenger bistand for å komme i, eller bli i jobb. I årene som kommer står vi overfor økte utfordringer både når det gjelder situasjonen på arbeidsmarkedet og en forventet økning i antall brukere grunnet den demografiske utviklingen. Flyktningsituasjonen vil trolig i tillegg bidra til en ytterligere økning i antall brukere med sammensatte bistandsbehov. Dette fører til økte krav til arbeids- og velferdsforvaltningen. For at NAV-kontorene skal være bedre rustet til å kunne yte arbeidsrettet oppfølging av god kvalitet til brukere med behov for tilpassede og koordinerte tjenester, er det nødvendig å legge til rette for en mer effektiv og målrettet bruk av forvaltningens og NAV-kontorets ressurser.
+
+Behovet for å gjennomgå arbeids- og velferdsforvaltningens oppfølgingsinnsats er påpekt i flere forskningsrapporter og av ekspertgruppen som har gjennomgått arbeids- og velferdsforvaltningen. Blant annet peker ekspertgruppen på at det er behov for å tilpasse innsatsen til brukernes behov, samtidig som det er nødvendig med en viss grad av standardisering knyttet til samhandlingen mellom forvaltningen og brukeren når det gjelder arbeidsrettet oppfølging.
+
+Kapitlet redegjør for behovet for prioriteringer av bruken av ressursene i NAV-kontorene, med særskilt vekt på unge. Som et ledd i arbeidet med å utvikle bedre oppfølgingsmetoder og prosesser, drøftes problemstillinger knyttet til praktiseringen av behovs- og arbeidsevnevurderinger. Det drøftes også hvordan det kan legges til rette for tydeligere aktivitetskrav i de ulike ordningene samt behovet for et mer ensartet og hensiktsmessig system for å følge opp disse kravene. Dette med sikte på økt arbeidsretting og brukerretting av oppfølgingen.
+
+Målet er en effektiv forvaltning som møter brukerne med en helhetlig innsats og tilpassede tjenester og virkemidler. I henhold til gjeldende regler og innenfor de rammer som er stilt til disposisjon, skal brukerne gis de ytelser de har krav på, hensiktsmessige tjenester og tiltak med mål om å oppnå rask og varig overgang til arbeid.
+
+1.  **Prioriteringer av ressursene til arbeidsrettet oppfølging**
+
+Kravene og forventningene til brukeroppfølging fra NAV-kontorene er store. Hvor hyppig den enkelte bruker skal følges opp, er bl.a. regulert i departementets tildelingsbrev til Arbeids- og velferdsdirektoratet og regelverket knyttet til ytelser og arbeidsmarkedstiltak. Prognoser viser at presset på oppfølgingsressursene vil øke ytterligere i tiden som kommer. Situasjonen på arbeidsmarkedet med svakere etterspørsel og økt ledighet, sterk økning i innvandrerbefolkningen og flere med sammensatte utfordringer på grunn av svake grunnleggende ferdigheter og helseproblemer vil bidra til økt behov for arbeidsrettet oppfølging fra NAV-kontorene. Dette gjør det nødvendig med tydelige prioriteringer av bruken av ressurser til arbeidsrettet oppfølging på NAV-kontoret.
+
+En rekke studier peker på tett oppfølging som en suksessfaktor for overgang til arbeid for unge[^32] og personer som står langt unna arbeidsmarkedet.[^33] I studier av langtidsmottakere av sosialhjelp[^34] og deltakere i kvalifiseringsprogrammet[^35] trekkes god brukermedvirkning og oppfølging tilpasset den enkelte bruker fram som suksessfaktorer. Høy bemanningsfaktor i forhold til antall brukere trekkes fram som en viktig rammebetingelse for å kunne drive med tett individuell oppfølging. Det vises til at veilederen på NAV-kontoret må jobbe med å endre brukerens holdninger og bygge motivasjon, og samtidig være en «brobygger» mot arbeidsmarkedet. Det siste forholdet krever at veilederne har god kjennskap til det lokale arbeidsmarkedet og har gode relasjoner til lokale arbeidsgivere.
+
+Flere forskningsartikler viser til at det er en presset ressurssituasjon blant de som skal følge opp personer med nedsatt arbeidsevne.[^36] Ressurssituasjonen er særlig utfordrende ved store NAV-kontor, hvor det ofte er mellom 150–300 brukere per veileder. Det kan være utfordrende for den enkelte veileder å løse det manglende samsvaret mellom ambisiøs og krevende metodikk og lite ressurser. I en forskningsrapport fra NTNU[^37] slås det fast at man bør se nærmere på hvordan Arbeids- og velferdsetaten kan bidra til bedre prioritering av oppgavene.
+
+Det er årlig et svært stort antall treffpunkter mellom brukere og arbeids- og velferdsforvaltningen. Det overveiende flertallet av disse er initiert av brukeren. Brukerne henvender seg på forskjellige måter. Fra NAVs brukermelding framgår det at det i løpet av ett år er om lag 60 mill. oppslag og 19 mill. innlogginger på nav.no, om lag 6 mill. telefonsamtaler, om lag 20 mill. sendte brev og om lag 7 mill. besøk på NAV-kontorene. Brukerne av arbeids- og velferdsforvaltningen er en stor og uensartet gruppe. Om lag 2,8 mill. er brukere av arbeids- og velferdsforvaltningen i løpet av et år. Mange av disse mottar tjenester som i liten grad krever besøk på NAV-kontoret, slik som utbetaling av pensjon og foreldrepenger.
+
+NAV-kontoret er den enheten innenfor arbeids- og velferdsforvaltningen som i første rekke møter brukerne gjennom personlig frammøte. Brukere av sosiale tjenester står for 35 pst. av møtene. Møter knyttet til oppfølging mot arbeid, sykmeldte som trenger oppfølging og personer som mottar arbeidsavklaringspenger utgjør 10 pst. av møtene mellom bruker og NAV-kontoret. Mange av de øvrige henvendelsene dreier seg om informasjonsbehov knyttet til økonomiske stønader.
+
+Gitt det store volum i brukere og oppgaver som NAV-kontorene har og de store utfordringene arbeids- og velferdsforvaltningen står overfor i årene som kommer, er det behov for å legge til rette for en mer målrettet bruk av NAV-kontorenes ressurser. For at NAV-kontoret skal få frigjort mest mulig ressurser til å drive med arbeidsrettet oppfølging, er det nødvendig at de som henvender seg til arbeids- og velferdsforvaltningen raskt og effektivt henvises til relevant bistand. Arbeids- og velferdsdirektoratets kanalstrategi skal bidra til dette ved at NAV-kontoret i større grad avlastes for oppgaver som ikke direkte støtter opp om arbeidsrettet oppfølging. Andre enheter avlaster også NAV-kontoret gjennom arbeidsrettet bistand. Økt digitalisering er en vesentlig forutsetning for dette.
+
+1.  **Digitalisering og frigjøring av ressurser**
+
+Brukerne av arbeids- og velferdsforvaltningen skal tilbys kvalitativt gode tjenester samt forståelig og tilstrekkelig informasjon. Dette gjelder både personbrukere og arbeidsgivere. En viktig forutsetning for å lykkes med dette er at arbeids- og velferdsforvaltningen kan tilby digitale tjenester der dette er hensiktsmessig for brukerne og der dette gir hensiktsmessige arbeidsprosesser for forvaltningen. De langsiktige ambisjonene for digitalisering er viktig for å avlaste NAV-kontorene slik at de kan bruke mer tid på brukere som står langt unna arbeidsmarkedet og som trenger tilpassede og koordinerte tjenester.
+
+Brukerne vil forvente at flere av arbeids- og velferdsforvaltningens tjenester automatiseres og gjøres selvbetjente. Over syv mill. brukere besøker NAV-kontoret i året. Mer enn halvparten av disse besøkene gjelder informasjon om økonomiske ytelser. Ekspertgruppens vurdering var at dagens brukere av arbeids- og velferdsforvaltningen har mer kontakt med forvaltningen på trygde- og stønadsområdet enn det de ønsker og trenger. Dette mente ekspertgruppen skyldtes både usikkerhet om innholdet i tilsendt informasjon og tilgangen på informasjon. For mange brukere vil det være mer hensiktsmessig å få dekket sitt informasjonsbehov digitalt, enn å møte opp på NAV-kontoret.
+
+Regjeringen har nylig lagt fram Meld. St. 27 (2015–2016) *Digital agenda for Norge- IKT for en enklere hverdag og økt produktivitet*. **Et av hovedmålene for Regjeringens IKT-politikk er en brukerrettet og effektiv offentlig forvaltning. Regjeringen vil forbedre offentlig sektor og gi innbyggerne og næringsliv et enklere og bedre møte med det offentlige.
+
+Brukeren i sentrum er en av fem hovedprioriteringer i Regjeringens IKT-politikk. Dette innebærer at brukerne og brukernes behov skal være det sentrale utgangspunktet ved digitalisering av offentlig sektor og stå sentralt i IKT-politikken for øvrig. Offentlige tjenester skal fremstå sammenhengende og helhetlige for brukerne, uavhengig av hvilke offentlige virksomheter som tilbyr dem.
+
+De siste årene har store deler av IKT-utviklingen i Arbeids- og velferdsetaten vært knyttet til store reformer og ulike regelverksendringer som pensjonsreformen og ny uføretrygd. Samtidig har etaten bl.a. gjennom Prosjekt 1 i IKT-moderniseringsprogrammet utviklet flere selvbetjeningsløsninger, bedre brukerdialoger og gjort det mulig for brukerne å få innsyn i egen sak over nettet. Bruken av digitale løsninger har allerede et stort omfang, og erfaringene viser at nye løsninger tas raskt i bruk, jf. boks 3.1. Det er imidlertid fortsatt helt nødvendig å modernisere store ytelsesområder som i dag driftes i Infotrygd. Det betyr at vesentlig kapasitet til utviklingsarbeid fortsatt de nærmeste årene vil være konsentrert om dette arbeidet. Det pågående moderniseringsprogrammet, der Prosjekt 2 etter planen skal starte opp høsten 2016, vil i stor grad være konsentrert om å få på plass nye moderniserte løsninger for ytelsesområdene foreldrepenger og engangsstønad. Dette er nødvendig for å sikre stabilitet, sikkerhet, effektiv forvaltning og raskere respons på endringer i regelverk og andre myndighetspålegg.
+
+Samtidig må det gjennomføres en dreining og forsterkning av utviklingsaktiviteter knyttet til arbeid og gode digitale brukertjenester. Blant de viktigste tiltakene på dette området de nærmeste årene er å digitalisere sykefraværsoppfølgingen, ytterligere digitalisere brukerdialogen, forenkle oppfølgingsmetodikken og få en modernisering av dagens arbeidsrettede tjenester.
+
+Etter hvert som digitale tjenester bygges ut skal brukeren ha flere muligheter til kontakt og samhandling med arbeids- og velferdsforvaltningen. Kontakt kan skje enten på nett, på telefon, per brev eller ved oppmøte på NAV-kontoret. Digitaliseringsarbeidet skal bl.a. legge til rette for økt kontakt på nett. Målet for etatens kanalstrategi er at brukerne skal få tilpasset informasjon, selvbetjeningsløsninger som gir en fullverdig brukerdialog, forhåndsutfylt informasjon etaten allerede har om brukeren, veiledning gjennom dialogen, og i mange tilfeller umiddelbare svar på henvendelsen eller søknaden.
+
+1.  **Stadig flere får tilgang til digitale tjenester**
+
+- Over 60 mill. besøk på nav.no årlig
+
+- 75 000 som logger seg på Ditt NAV daglig
+
+- 58 pst. søkte alderspensjon i selvbetjeningsløsningen på nav.no i 2015, en økning på 6 prosentpoeng sammenliknet med 2014
+
+- Selvbetjeningsløsningen for uføretrygd brukes av stadig flere med en økning på om lag 17 pst. fra april 2015 til april 2016
+
+- Andelen som sender elektroniske meldekort er tett opp mot 100 pst.
+
+- I 2015 ble nye digitale søknadsdialoger satt i drift:
+
+  - Dagpenger ble komplett mars 2015 (søknadsdialog for nye, gjenopptak og permitterte)
+
+  - Foreldrepenger ble levert juni 2015 (søknadsdialog for førstegangssøkere)
+
+  - Søknadsdialog for bil ble levert september 2015
+
+  - Søknadsdialog for tiltakspenger ble levert desember 2015
+
+  - De digitale løsningene er allerede tatt godt imot og tallene viser at om lag 80 pst. av dagpengesøknadene i januar 2016 ble sendt elektronisk, mens tilsvarende tall for foreldrepenger var 70 pst.
+
+**\[Boks slutt\]**
+
+Mottakere av ytelser skal få informasjon og støtte i søknadsprosessen uten å måtte møte på NAV-kontoret. Et flertall av brukerne vil foretrekke dette. Informasjonsbehov knyttet til ytelser skal i stor grad kunne dekkes gjennom selvbetjeningsløsninger på nav.no. Dette skal sikre at brukeren får individuelt tilpasset informasjon, veiledning og oppfølging basert på informasjon som etaten allerede har. Bedre styring av brukernes måte å kontakte arbeids- og velferdsforvaltningen på, skal gi en bedre tilpasning til brukernes behov for raske og tilgjengelige tjenester. Målet er at brukerne skal få best mulig service i riktig kanal på en mest mulig kostnadseffektiv måte. Det betyr at:
+
+- Flere og bedre tjenester på nav.no gjør at bruken øker, og at andel ad hoc-henvendelser på NAV-kontoret og telefon går ned
+
+- Det fysiske møtet skal i større grad være planlagt og mindre ad hoc-preget
+
+- Tilgjengeligheten øker for brukere med sammensatte oppfølgingsbehov, men minsker for de øvrige gruppene
+
+- Flere tjenester på telefon gjør at bruken samlet sett øker
+
+- Chat og sosiale medier anvendes for å understøtte nav.no
+
+- Brev og e-post erstattes av digitale tjenester
+
+Arbeids- og velferdsforvaltningens kostnader per brukermøte i de ulike kanalene varierer. Som påpekt i rapporten fra ekspertgruppen, er oppfølgingssamtaler med sikte på arbeid det mest kostnadskrevende. Å betjene brukere som ringer arbeids- og velferdsforvaltningen har 180 ganger høyere kostnad enn når brukere finner samme informasjon på nav.no.[^38] Som også ekspertgruppen påpekte, ligger det dermed store gevinster i å gi god informasjon på nett, slik at brukerne ikke har behov for å henvende seg til arbeids- og velferdsforvaltningen gjennom andre kanaler.
+
+Når tjenestebredden bygges ut i noen kanaler, åpner det for å redusere tjenestebredden i NAV-kontoret og dermed frigjøre ressurser som kan brukes til arbeidsrettet oppfølging. Brukere med mer sammensatte behov skal få nytte av en større del av NAV-kontorets ressurser. Enkle informasjonstjenester skal bare unntaksvis gis på NAV-kontoret. Riktig kanalisering av brukerhenvendelser skal bidra til mindre byråkratiske og mer brukervennlige tjenester. Arbeids- og velferdsforvaltningen har iverksatt en rekke tiltak for å støtte opp under kanalstrategien. Det er etter Regjeringens vurdering avgjørende at arbeids- og velferdsforvaltningen lykkes med dette arbeidet slik at det frigjøres mer ressurser til å drive effektiv og målrettet arbeidsrettet oppfølging ved NAV-kontoret.
+
+Departementet har bedt Arbeids- og velferdsdirektoratet fortsette arbeidet med å gjennomføre og videreutvikle kanalstrategien. Et viktig mål er å styrke NAV-kontorenes mulighet til å tilby arbeidsrettet oppfølging til de som i dag står utenfor, eller holder på å falle ut av arbeidslivet.
+
+1.  **Tidlig innsats og samordnede tjenester**
+
+For å oppnå korte stønadsløp og raskest mulig overgang til arbeid, er det viktig at det avklares tidlig hvilket bistandsbehov den enkelte har, slik at oppfølging kan gis der det er nødvendig og hensiktsmessig. Rask inngripen er særlig viktig for unge som risikerer lange perioder utenfor arbeidslivet eller i verste fall uføretrygd og varig ekskludering fra arbeidslivet. For personer på helserelaterte ytelser vil det være viktig å avklare behovet for arbeidsrettet oppfølging så tidlig som mulig i sykdomsforløpet. For å oppnå tidlig innsats og helhetlig oppfølging av den enkelte bruker, er det avgjørende at NAV-kontoret samarbeider godt med andre aktører.
+
+*Tidlig innsats rettet mot unge*
+
+Antallet unge med nedsatt arbeidsevne har økt de senere årene. Passive perioder i ungdomsårene øker risikoen for lange og tilbakevendende perioder med arbeidsledighet eller varig ekskludering fra arbeidslivet. Varig ekskludering fra arbeidsmarkedet er et stort tap både for den enkelte og for samfunnet. Det er nødvendig med et godt samarbeid med aktører innenfor utdannings- og helsesektoren samt kommunale tjenester som ligger utenfor NAV-kontoret, for å oppnå tidlig innsats og helhetlig oppfølging av denne brukergruppen.
+
+Mens andre europeiske land har høy arbeidsledighet blant unge, er situasjonen i Norge i større grad preget av at det er mange unge som er registrert med helseproblemer. Om lag 42 000 unge under 30 år er registrert hos Arbeids- og velferdsetaten med nedsatt arbeidsevne. Av disse er det 28 000 som mottar arbeidsavklaringspenger. Personer med nedsatt arbeidsevne er en betegnelse arbeids- og velferdsforvaltningen benytter om brukere som på grunn av fysiske, psykiske eller sosiale årsaker mottar eller skal motta spesiell oppfølging. Personer som mottar uføretrygd er ikke inkludert i denne statistikken med mindre de deltar på tiltaket varig tilrettelagt arbeid. Totalt er det nå om lag 13 000 uføretrygdede under 30 år, og dette tallet har økt betydelig de siste 20 årene. Det er imidlertid ikke forskningsmessig belegg for å si at dagens ungdom er sykere enn tidligere generasjoner.
+
+De unge som mottar helserelaterte ytelser fra arbeids- og velferdsforvaltningen er en stor og heterogen gruppe med et bredt spekter av utfordringer, både helsemessige og sosiale, og med hensyn til gjennomføring av utdanning og muligheter for å ha inntektsgivende arbeid. Mange unge som står utenfor utdanning og arbeid har sammensatte utfordringer, ofte knyttet til avbrutt videregående opplæring, psykisk helse og rus.
+
+Unge er også overrepresentert blant mottakerne av økonomisk sosialhjelp, og andelen unge med lavinntekt har økt de siste årene.[^39] Dette betyr at en økende andel unge står i fare for å bli stående utenfor arbeidslivet.
+
+I tillegg er vi inne i en periode med økende arbeidsledighet, og det er ofte unge som faller først ut av arbeidsmarkedet fordi de har minst erfaring. Andelen unge under 30 år som er registrert ledige var om lag 3,8 pst. av arbeidsstyrken i samme alder i 2015. Om lag en tredjedel av de registrerte ledige ved Arbeids- og velferdsetaten er under 30 år.
+
+Det er imidlertid samtidig slik at unge ofte har kortere ledighetsperioder enn andre. Mange unge har flere skifter mellom arbeid og utdanning og mellom ulike jobber i starten av sin arbeidskarriere. Det er også slik at mange av de som faller fra videregående opplæring fullfører i voksen alder, eller etablerer seg med arbeid og videre utdanning uten fullført videregående opplæring.[^40] Det er likevel viktig å forebygge frafall og bidra til at flest mulig kan fullføre videregående opplæring uten å oppleve passive perioder utenfor utdanning og arbeid. Dette øker sannsynligheten for at den enkelte kan få en stabil og varig arbeidsmarkedstilknytning senere i livet.
+
+Oppfølging knyttet til inkludering av ungdom i skole eller arbeid må være fleksibel, slik at den kan tilpasses den situasjonen og de behovene som ungdommene har til enhver tid. Dette framkommer i en evaluering som Frøyland og Fossestøl har foretatt av et utviklingsarbeid rettet mot utsatte ungdommer.[^41] Evalueringen finner at rask respons og god tilgjengelighet ser ut til å være suksesskriterier i arbeidet med utsatt ungdom. Videre pekes det på at intensiv og tett oppfølging ofte krever mer enn det mange får innenfor den ordinære virksomheten i et NAV-kontor.
+
+Unge NAV-brukere mottar det samme tjenestetilbudet som NAV-brukere for øvrig og er i hovedsak del av det samme arbeidsrettede systemet for oppfølging. Tilgangen på virkemidler og tiltak samt hvilke rettigheter og plikter unge NAV-brukere har, avhenger som for øvrige brukere av arbeids- og velferdsforvaltningens tjenester av hvilket bistandsbehov den enkelte vurderes å ha. Ungdom er imidlertid den gruppen som prioriteres høyest i arbeids- og velferdsforvaltningen. Dette er en prioritering det er stor politisk enighet om. Det er iverksatt en rekke ulike satsinger rettet mot inkludering av unge i arbeidslivet de senere årene.
+
+For å sikre at unge får den bistanden de har behov for, er det bl.a. gitt politiske føringer om prioritering av arbeidsrettet bistand for unge. Det innebærer at unge er prioritert ved tildeling av arbeidsmarkedstiltak, og at det finnes egne garantiordninger for unge arbeidsledige og unge med nedsatt arbeidsevne. Dette er synliggjort i tildelingsbrevet til Arbeids- og velferdsetaten.
+
+1.  **Garantiordningene for unge**
+
+Garantien for ungdom under 20 år innebærer at unge som står uten arbeid eller skoleplass er garantert tilbud om arbeidsmarkedstiltak. Ungdom i denne aldersgruppen som kommer i kontakt med NAV-kontoret har ofte ikke fullført videregående opplæring. Oppfølgingen av denne garantiens målgruppe skjer derfor ofte i samarbeid med fylkeskommunen, med mål om økt fullføring av videregående opplæring.
+
+Garantien for arbeidsledig ungdom i alderen 20–24 år innebærer utarbeidelse av en aktivitetsplan innen én måned etter at NAV-kontoret har konkludert med behov for arbeidsrettet bistand. Aktivitetsplanen skal utarbeides av NAV-veilederen i samarbeid med brukeren, og er en plan for hva som skal til for at brukeren skal kunne komme i arbeid. Aktivitetsplanen kan inneholde tiltak og virkemidler fra arbeids- og velferdsforvaltningen, men også tilbud fra andre tjenesteytere dersom den enkelte har behov for det for å nå målet om arbeid.
+
+Garantiordningen for unge med nedsatt arbeidsevne innebærer at 90 pst. i gruppen unge med nedsatt arbeidsevne i alderen 20–29 år skal ha en godkjent aktivitetsplan til enhver tid.
+
+**\[Boks slutt\]**
+
+Ungdom er en prioritert målgruppe for flere andre satsinger innenfor arbeidsmarkedspolitikken. Eksempler er Jobbstrategi for personer med nedsatt funksjonsevne, IA-avtalens delmål 2, egen ungdomspakke i Prop. 1 S (2015–2016) hvor 1000 nye tiltaksplasser innrettes mot arbeidsledig ungdom, «0–24 samarbeidet» mellom Kunnskapsdepartementet, Arbeids- og sosialdepartementet, Helse- og omsorgsdepartementet og Barne- og likestillingsdepartementet, forsøk med arbeidsavklaringspenger som lønnstilskudd, ny tilretteleggings- og oppfølgingsavtale og det nye opplæringstiltaket.
+
+Det er iverksatt flere tiltak for å legge til rette for prioritering av innsats rettet mot unge, bl.a. forsøk med NAV-veileder i videregående skole og opprettelse av egne ungdomsteam ved store NAV-kontor. En gjennomgang Fafo har gjort blant de 200 største NAV-kontorene i landet viste at hele 83 pst. av kontorene hadde organisert seg med et eget ungdomsteam, en dedikert ungdomskontakt eller en kombinasjon av disse.[^42] Statistikk fra Arbeids- og velferdsdirektoratet viser at unge i større grad deltar på tiltak, at de følges tettere opp og at langtidsledigheten blant unge er lavere enn for eldre grupper.
+
+Tidlig inngripen, tett individuell oppfølging og godt tverrfaglig samarbeid på både helse-, arbeids- og utdanningsfeltet, er viktig for å lykkes med å få unge i jobb eller utdanning.
+
+I dag stilles NAV-kontoret overfor en rekke krav om prioriteringer av til dels overlappende, parallelle, motstridende og uklare målgrupper. Dette gjør styringssignalene om hvem som faktisk skal prioriteres mer uklare. Pålegg om å prioritere mange mindre målgrupper begrenser NAV-kontorets handlingsrom til å prioritere personer ut fra kjennetegn ved den enkelte og lokale forhold. Dette kan i verste fall føre til en situasjon i retning uttrykket «prioriteres alle, prioriteres ingen». Gitt NAV-kontorets mange oppgaver og brukere, og de mange utfordringer velferdssamfunnet står overfor, er det nødvendig å forvalte NAV-kontorets ressurser slik at de kanaliseres til dem som har størst oppfølgingsbehov.
+
+Fafo har i rapporten «NAV-kontorenes oppfølging av unge brukere» undersøkt hvordan NAV-kontorene organiserer sin oppfølging av unge, og hvilken rolle garantiordningene har i oppfølgingsarbeidet.[^43] Fafo er kritiske til at dagens garantier er utformet som krav til kvantitet, framfor kvalitet. De mener garantiene understreker at unge skal følges opp raskt, men stiller spørsmål ved om garantiene egentlig garanterer unge god oppfølging. Det trekkes fram som en utfordring at garantiene fokuserer på målbarhet når det gjelder NAV-kontorenes oppfyllelse av garantiene, framfor at den enkelte unge skal ha tilrettelagte tjenester og en oppfølging av god kvalitet. Funnene i Fafos rapport kan tyde på at garantienes viktigste rolle i praksis er å utgjøre nasjonale styringssignaler om at unge skal prioriteres i NAV-kontorenes arbeid.
+
+Fafo finner ikke grunnlag for å hevde at dagens garantier for unge i alderen 20–29 år påvirker den konkrete oppfølgingen unge får fra NAV-kontoret, og peker på at en god utforming av garantiene vil avhenge av hva som er hensikten med dem. Fafo viser til at dersom formålet er et tydelig styringssignal, kunne garantiene hatt en enklere utforming enn i dag. Dersom formålet er å hindre marginalisering av unge, burde de gitt løfter om mer konkrete tiltak enn en aktivitetsplan, og dersom formålet er å sikre kvalitativt god og tilpasset oppfølging, burde de f.eks. inneholdt garanti om tett oppfølging og tilrettelegging av tjenestene. Fafo anser mer tid til oppfølging og flere utdannings- og arbeidsrettede tiltak for unge som sentralt for å kunne oppfylle en slik garanti.
+
+Fafo mener at garantiene bidrar til nasjonal forankring av NAV-kontorenes prioritering av unge brukere. Dette kan imidlertid ivaretas på andre måter, noe som også allerede gjøres. Det presiseres i dag tydelig i statsbudsjettet og i tildelingsbrevet til Arbeids- og velferdsetaten at unge skal prioriteres for arbeidsmarkedstiltak, i tillegg til at unge er prioritert målgruppe i en lang rekke ulike satsinger. Prioriteringen av unge i arbeids- og velferdspolitikken har etter hvert blitt så gjennomgående at det kan stilles spørsmålstegn ved hvilken selvstendig betydning garantiordningene har for den faktiske prioriteringen av unge i etaten.
+
+De mange ulike innsatsene for unge, herunder de tre garantiordningene, og signaler om at unge skal prioriteres i en rekke ulike sammenhenger utgjør til sammen en kompleks pakke av styringssignaler knyttet til oppfølgingen av unge. Det er grunn til å tro at en forenkling og tydeliggjøring av styringssignalene kan bidra til en mer effektiv og bedre tilpasset oppfølging av unge ved NAV-kontorene.
+
+Den gjennomgående prioriteringen av ungdom i Arbeids- og velferdsetaten, og funn fra Fafos rapport, kan tyde på at en avvikling av egne garantiordninger for ungdom neppe vil ha stor betydning for den oppfølgingen ungdom får fra NAV-kontoret. Regjeringen mener det er viktig å prioritere unge, men på en tydeligere og mer entydig måte enn i dag. Dette kan gjøres ved å slå sammen dagens tre garantiordninger og samtidig løsrive innsatsen fra spesifikke virkemidler i form av arbeidsmarkedstiltak eller aktivitetsplan. Regjeringen mener derfor at innsatsen skal utformes slik at alle i målgruppen for ordningen skal ha mottatt et tilbud fra arbeids- og velferdsforvaltningen eller annen samarbeidende instans om arbeid, utdanning eller en annen form for aktiv innsats innen en gitt frist. Denne innsatsen kan være arbeidsmarkedstiltak, kombinasjon av arbeidsmarkedstiltak og utdanning, helsemessig behandling, eller annen målrettet oppfølging med mål om overgang til arbeid eller utdanning. En slik innretning vil sikre tidlig innsats for unge som har behov for bistand og gi NAV-veilederen frihet til å tilpasse tilbudet etter den enkeltes behov og muligheter lokalt. En innlemmelse av garantien for unge under 20 år i en felles ordning for ungdom vil innebære at denne gruppen ikke nødvendigvis vil få tilbud om arbeidsmarkedstiltak, men vil få et tilbud som er i tråd med vurderingen av den enkeltes behov for bistand. Det understrekes at unge fortsatt vil være en prioritert gruppe for deltakelse på tiltak. Departementet vil komme tilbake til Stortinget i Prop. 1 S (2016–2017) med konkretisering av innhold og omfang av en slik ny innsats for unge.
+
+Forslaget om endret innretning av innsatsen mot unge kan ses i sammenheng med utviklingen av et profileringsverktøy for en bedre kartlegging av brukernes behov, jf. omtale under pkt. 3.3.4 i dette kapitlet. Hensikten med et slikt verktøy vil bl.a. kunne være å avdekke særskilte behov hos brukere på et tidligere tidspunkt enn det som gjøres med dagens system. Dette vil også komme unge brukere til gode, ved at NAV-veilederne på et tidlig tidspunkt kan målrette innsatsen mot de brukerne som anses å ha det største behovet for bistand. Dette kan f.eks. være å tidlig identifisere unge som har høy risiko for å utvikle mer omfattende problemer, noe som kan gi et bedre grunnlag for raskere iverksetting av målrettet innsats.
+
+Tilstrekkelig tilgang på egnede tiltaksplasser for ungdom vil også være viktig for å sikre en god oppfølging av denne gruppen. Fra budsjettåret 2012 har man både i Prop. 1 S og i tildelingsbrevet til Arbeids- og velferdsetaten angitt hvordan det samlede tiltaksnivået skal fordeles på hhv. ordinære ledige og personer med nedsatt arbeidsevne. Bevilgningen til tiltak for personer med nedsatt arbeidsevne er størst. Som følge av dette har tilgangen til tiltak for ledige, herunder unge, tidvis vært svært knapp. I kapittel 4 i denne meldingen drøftes det hvordan man kan tone ned aktivitetsstyringen av arbeidsmarkedstiltakene og bedre ivareta fleksibiliteten som en post for arbeidsmarkedstiltak var ment å ivareta. Dette vil bedre mulighetene for å kunne prioritere unge og andre ut fra behov, uten å la muligheten for tiltaksdeltakelse være knyttet til hvorvidt personen har nedsatt arbeidsevne.
+
+Regjeringen vil videre gjennomføre et forsøk hvor unge med nedsatt arbeidsevne skal få en tettere og mer tilpasset oppfølging fra NAV-kontoret, og hvor kommunene også utenfor rammen av NAV-kontoret samtidig får et større ansvar for å bistå i oppfølgingen. Forsøket omtales nærmere i pkt. 5.3.7.
+
+*Tidligere avklaring av behov for arbeidsrettet oppfølging av sykmeldte som risikerer å falle varig ut av arbeid*
+
+Forskning viser at arbeid ofte er helsefremmende, særlig ved diagnoser som dominerer sykdomsstatistikken.[^44] Ved langtidsfravær står mange i fare for å miste kontakt med arbeidsplassen og risikoen for varig utstøting fra arbeidslivet øker. Tidlig innsats og tett oppfølging av sykmeldte er derfor viktig for å forebygge og redusere sykefravær og redusere risikoen for overgangen til mer varige helserelaterte ytelser. Både arbeidsgiver, lege og Arbeids- og velferdsetaten har ansvar for å følge opp sykmeldte for å motvirke langvarig fravær fra arbeid.
+
+Behovene for oppfølging og tiltak vil variere. De fleste sykefravær er korte. I 2013 ble 83 pst. av alle de legemeldte sykefraværstilfellene avsluttet innen åtte uker. Videre har de fleste sykmeldte en arbeidsgiver. Om lag 20 pst. av dem som blir sykmeldt i mer enn seks måneder har imidlertid enten avsluttet et arbeidsforhold i sykepengeperioden eller er ikke registrert med arbeidsgiver i arbeidstakerregisteret. I 2014 gikk 40 000 arbeidstakere ut sykepengeperioden. To av tre av de som går ut hele sykepengeperioden går over på en annen helserelatert ytelse.
+
+Arbeids- og velferdsetatens rolle i første del av sykepengeperioden er primært å understøtte og tilrettelegge for det bedriftsinterne sykefraværsarbeidet. Arbeids- og velferdsetaten skal ved behov bidra med kompetanse og utløse tiltak for å understøtte arbeidsgivers tilretteleggingsinnsats og bistå til at den sykmeldte kommer fullt tilbake eller øker arbeidsevnen i et allerede eksisterende arbeidsforhold. I tilfeller hvor det blir klart at bedriftsintern tilrettelegging ikke gir resultater, og medisinske grunner tilsier at arbeidstaker vil kunne klare et annet arbeid, vil den sykmeldte kunne ha behov for annen type bistand fra Arbeids- og velferdsetaten. Dagens regler for oppfølging av sykmeldte legger opp til at arbeidsgiver og arbeidstaker tidlig skal gjøre en felles vurdering av arbeidsevne og arbeidsoppgaver og melde fra til Arbeids- og velferdsetaten om eventuelle bistandsbehov. Dersom den sykmeldte ikke er i aktivitet, skal det senest ved åtte ukers sykmelding foreligge en legeerklæring hvor det dokumenteres at medisinske grunner er til hinder for arbeidsrettet aktivitet. Det er svært sjelden at NAV-kontoret involveres i oppfølgingen av sykmeldte før det har gått åtte uker og aktivitetskravet skal vurderes. Det vises til nærmere omtale under punkt 3.4 om oppfølging/håndheving av aktivitetskravet knyttet til åtte ukers sykefravær.
+
+En relativt liten andel av de som går ut hele sykmeldingsperioden på ett år får i dag vurdert behovet for arbeidsrettet bistand av Arbeids- og velferdsetaten i form av en arbeidsevnevurdering før sykepengeperioden nærmer seg slutten. Ekspertgruppen som har gjennomgått arbeids- og velferdsforvaltningen, mener at NAV-kontoret må komme tidligere på banen med oppfølging av sykmeldte som ikke kan komme tilbake til egen arbeidsgiver. Etter ekspertgruppens vurdering har ikke Arbeids- og velferdsetaten informasjonsgrunnlag for å kunne identifisere hvem som vil bli langtidssykmeldt og trolig ikke vil vende tilbake til egen arbeidsgiver. Ekspertgruppen viser til at dette er en vurdering som må gjøres av arbeidsgiver og arbeidstaker basert på utprøving av arbeidsevne, gjerne i et felles møte med legen og med bistand fra Arbeids- og velferdsetaten. Dette betinger reell dialog mellom partene, bl.a. med utgangspunkt i sykmelders vurderinger og konkret utprøving av arbeidsoppgaver. Ekspertgruppen viser imidlertid til at det i praksis er få arbeidsgivere som tar kontakt med Arbeids- og velferdsetaten i denne første fasen av sykefraværet. Det vises til at Sintef i sin evaluering av arbeidsavklaringspenger har foreslått at en vurdering av om den sykmeldte mest sannsynlig skal tilbake til sin arbeidsgiver gjøres i forbindelse med dialogmøte 2.[^45] Regjeringen mener det bør vurderes tiltak som kan sikre at det tilstrekkelig tidlig gjøres en slik vurdering, og at det ev. legges en plan for overgang til annet arbeid. Det vises i denne sammenheng til at Arbeids- og velferdsdirektoratet vurderer en forbedret modell for håndheving av aktivitetskravet for sykmeldte, der arbeidsgivere vil få brev med forhåndsinformasjon. I et slikt informasjonsbrev kan det ev. bli bedt om at oppfølgingsplanen sendes inn. Samtidig vurderes det om malen for oppfølgingsplan bør endres, slik at det framgår tydeligere om den sykmeldte har problemer med å vende tilbake til egen arbeidsgiver. For å gjøre det enklere å fylle ut og sende inn oppfølgingsplanen, bør malen digitaliseres.
+
+Ekspertgruppen foreslår at det innføres et dialogmøte rundt åtte ukers sykefravær for sykmeldte som antas å ha størst oppfølgingsbehov og som ikke allerede er i aktivitet. De mener det må være arbeidsgiver/arbeidstaker som tar initiativ til et slikt møte, basert på den informasjonen de har om arbeidsmuligheter og sykdom. Dette er en mulighet som finnes i dag, men som benyttes i liten grad. Departementet er enig i ekspertgruppens vurdering om at det er viktig med systemer og rutiner som tidligere fanger opp personer som vil ha behov for tett oppfølging og hvor det kan være aktuelt å iverksette arbeidsrettede tiltak i sykepengeperioden. Målet må være i større grad å ansvarliggjøre arbeidstaker og arbeidsgiver og øke arbeidsrettingen hos Arbeids- og velferdsetaten. Økt innsats fra Arbeids- og velferdsetaten tidligere i sykefraværsperioden vil kreve økte ressurser. På den annen side vil relevante tiltak kunne iverksettes tidligere og samlet stønadsperiode vil kunne bli kortere. Nye IKT-løsninger i Arbeids- og velferdsetaten skal bidra til å målrette innsatsen mot sykmeldte som har særlig behov for oppfølging og tiltak. Det er også tatt i bruk nye løsninger som skal sikre en toveis kommunikasjon mellom sykmelder og Arbeids- og velferdsetaten. Dette vil bl.a. kunne gi Arbeids- og velferdsetaten bedre opplysninger om saker hvor det er behov for arbeidsrettet bistand i en tidlig fase. Det vurderes i denne sammenheng å gjennomføre en informasjonssatsing om nye digitale løsninger på sykefraværsområdet, der en av målsettingene kan være å øke partenes kjennskap til muligheten for å be om bistand fra Arbeids- og velferdsetaten.
+
+Arbeidsgivers tilretteleggingsplikt gjelder også etter utløpet av sykepengeperioden, og mange arbeidsgivere er interessert i å få arbeidstakerne tilbake etter lengre sykdomsperioder. Mye tyder imidlertid på at Arbeids- og velferdsetaten i liten grad etterspør tiltak fra arbeidsgiver i perioden med arbeidsavklaringspenger. Den dialogbaserte oppfølgingen i sykefraværsperioden, som forutsetter samhandling med arbeidsgiver og lege, stopper ofte opp når sykepengeåret er utløpt. Regjeringen mener det bør vurderes en form for forlenget sykefraværsoppfølging av mottakere av arbeidsavklaringspenger som fortsatt har en arbeidsgiver ved overgangen fra sykepenger til arbeidsavklaringspenger, der arbeidsgiver trekkes mer aktivt inn i oppfølgingen. Det kan f.eks. være aktuelt å iverksette arbeidstrening hos egen arbeidsgiver. Det vises til erfaringer fra Arbeids- og velferdsetatens «Nærværsprosjekt», der de valgte å møte utfordringen gjennom bruk av såkalt dialogmøte 4 og 5.
+
+*Samarbeid med andre tjenesteytere – helse, kriminalomsorgen, utdanning og integrering*
+
+NAV-kontoret har et omfattende samarbeid med andre tjenesteytere som kommunene, spesialisthelsetjenesten og utdanningssektoren om brukere med sammensatte utfordringer. Kommunene og fylkeskommunene har bl.a. ansvar for primærhelsetjenestene, integrering, barnevern, barnehage, grunnskole og videregående skole. Arbeids- og velferdsforvaltningen har også et samarbeid med kriminalomsorgen, med utgangspunkt i et prinsipp om at tilbud til domfelte skal utføres av den tjenesteyteren som også leverer tjenester til den øvrige befolkningen. For at personer med sammensatte utfordringer skal oppleve den arbeidsrettede oppfølgingen fra NAV-kontoret som god, må det være lagt til rette for hensiktsmessig samhandling mellom enhetene i arbeids- og velferdsforvaltningen og tjenesteytere fra andre sektorer. Målet er at brukere med sammensatte behov skal få rett tjeneste til rett tid.
+
+*Helse*
+
+Personer med helseproblemer utgjør en dominerende andel av brukerne i arbeids- og velferdsforvaltningen som har behov for arbeidsrettet bistand. Mange av dem mottar medisinsk behandling. Forskning viser at arbeid ofte gir bedre helse[^46], men arbeidsrettet aktivitet kommer ofte sent i behandlingsløpet eller etter at behandlingen er sluttført. Samtidighet i behandling og arbeidsrettet bistand der dette er mulig gir raskere overgang til arbeid enn sekvensiell bruk av behandling og arbeidsrettet bistand. Ekspertgruppen som har gjennomgått arbeids- og velferdsforvaltningen mener at en i større grad må sikre samtidighet i bruk av behandling og arbeidsrettede tiltak. Ekspertgruppen peker på at det er utfordringer knyttet til uklare ansvarsforhold, manglende koordinering og samarbeid mellom arbeids- og velferdsforvaltningen og helsesektoren.
+
+Tidligere og tettere arbeidsrettet oppfølging var en sentral begrunnelse for å slå sammen de helserelaterte ytelsene rehabiliteringspenger, attføringspenger og tidsbegrenset uførestønad til arbeidsavklaringspenger. Dette med sikte på å iverksette nødvendige arbeidsrettede tiltak så tidlig som mulig i sykdomsforløpet. Samtidig skulle det bedre mulighetene til å kombinere medisinsk behandling og arbeidsrettede tiltak.
+
+At flere skal kunne gjennomføre medisinsk behandling samtidig som de får arbeidsrettet oppfølging fra NAV-kontoret, utfordrer samhandlingen mellom NAV-kontoret og helsesektoren. Samspillet innen helse/arbeid-dimensjonen er komplekst fordi det involverer en rekke aktører med ulike roller, bl.a. bruker, arbeidsgiver, fastlege/sykmelder, andre kommunale helse- og rehabiliteringstjenester, spesialisthelsetjenesten og arbeids- og velferdsforvaltningen.
+
+Regjeringen ønsker å videreutvikle velfungerende tiltak og samordne innsatsen fra arbeids- og velferdsforvaltningen og helsetjenesten bedre. Vi vil legge til rette for bedre samarbeid, bl.a. med sikte på mer samtidighet i tjenestetilbudet fra Arbeids- og velferdsetaten og helsesektoren, med mål om at personer med helseproblemer skal kunne fortsette i, eller komme raskere i arbeid.
+
+Avklarte roller og ansvarsforhold mellom helsetjenesten og arbeids- og velferdsforvaltningen er viktig for å kunne samarbeide målrettet. Som en hovedregel bør tjenester som i hovedsak er å anse som helsetjenester forankres i helsetjenesten. Tjenester som i hovedsak er å anse som arbeidsrettede tjenester bør være Arbeids- og velferdsetatens ansvar. Arbeids- og velferdsetaten og helsetjenesten har tjenester i ordningen med Raskere tilbake[^47] som er delvis overlappende. Dette gir et uoversiktlig tilbud for brukerne og saksbehandlere i Arbeids- og velferdsetaten. Regjeringen vil derfor vurdere endringer som bidrar til forenkling og en tydeligere ansvars- og rolledeling mellom helsesektoren og arbeids- og velferdsforvaltningen.
+
+Oppfølgingsplan for arbeid og psykisk helse (2013–2016) viderefører og videreutvikler innsatsen i Nasjonal strategiplan for arbeid og psykisk helse (2007–2012). I tillegg til tiltak innenfor Arbeids- og sosialdepartementets og Helse- og omsorgsdepartementets områder, omfatter innsatsen tiltak innenfor Kunnskapsdepartementets ansvarsområde. Oppfølgingsplanen sluttføres i 2016, og det tas sikte på at tiltak som har vist seg å ha effekt implementeres i ordinær drift. Ifølge oppfølgingsplanen skal det legges til rette for samarbeidsavtaler mellom arbeids- og velferdsforvaltningen og helsesektoren. Helse- og omsorgsministeren har i oppdragsdokumentet for 2016 bedt de regionale helseforetakene om å etablere tiltak som kan bidra til et mer systematisk samarbeid mellom helsetjenesten og Arbeids- og velferdsetaten, herunder vurdere inngåelse av særskilte samarbeidsavtaler med Arbeids- og velferdsetaten. Tilsvarende oppdrag er gitt Arbeids- og velferdsetaten. Dette vil bidra til å bygge ned barrierer som hindrer effektivt samarbeid og læring mellom de to sektorene.
+
+Regjeringen vil også legge til rette for en forbedret, forsterket, tverrsektoriell og samordnet innsats på rusfeltet. Høsten 2015 la Regjeringen fram en opptrappingsplan med en rekke tiltak for å styrke brukernes innflytelse, møte de pårørendes behov og skape en tjeneste preget av lett tilgjengelighet, helhet og kvalitet. Opptrappingsplanen har en samlet ramme på 2,4 mrd. kroner for perioden 2016–2020. Planen har konkrete mål innen sentrale levekårsområder som arbeid, økonomi, sosiale forhold, skole, utdanning, bolig, barnevern, ernæring og helse- og omsorgsfeltet.
+
+Regjeringen planlegger videre en opptrappingsplan for habilitering og rehabilitering. Opptrappingsplanen skal føre til en styrking av habiliterings- og rehabiliteringsfeltet til pasient- og brukergrupper som i dag ikke får det tilbudet de burde ha, og til en klargjøring av ansvarsdelingen mellom de kommunale helse- og omsorgstjenestene og spesialisthelsetjenesten.
+
+*Kriminalomsorgen*
+
+En levekårsundersøkelse utført av SSB fant at det store flertallet av innsatte hadde levekårsproblemer på ett eller flere områder. Undersøkelsen viste bl.a. at utdanningsnivået og yrkesaktiviteten var klart lavere enn blant andre det er naturlig å sammenlikne dem med. Rundt 2/3 av de innsatte i undersøkelsen hadde ungdomsskole eller lavere som høyeste fullførte utdanning, og bare 36 pst. var i arbeid ved innsettelse.[^48] Fengselet kan være en arena for motivasjons- og endringsarbeid. Det er derfor viktig at det er et godt samarbeid med bl.a. NAV-kontor og andre aktuelle samarbeidspartnere i god tid før løslatelse. Arbeids- og sosialdepartementet og Justis- og beredskapsdepartementet ble våren 2014 enige om tiltak for å styrke samarbeidet mellom kriminalomsorgen og arbeids- og velferdsforvaltningen og for å bedre tilgjengeligheten av arbeids- og velferdsforvaltningens tjenester. Flere av tiltakene er i ferd med å bli implementert. Det vil bli gjennomført en ekstern følgeevaluering over to år. Formålet med følgeevalueringen vil bl.a. være å vurdere i hvilken grad de innsattes rett til tjenester etter folketrygdloven og sosialtjenesteloven blir ivaretatt. Evalueringen vil også undersøke samarbeidet og arbeidsfordelingen mellom arbeids- og velferdsforvaltningen og kriminalomsorgen innen tilbakeføringsarbeidet.
+
+*Utdanning*

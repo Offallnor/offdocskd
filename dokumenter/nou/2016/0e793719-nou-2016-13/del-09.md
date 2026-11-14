@@ -1,980 +1,174 @@
-# NOU 2016: 13, del 9 av 16 (side 99–108)
+# NOU 2016: 13, del 9 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/0e793719-nou-2016-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-13/id2510437/
 - Original-PDF: https://www.regjeringen.no/contentassets/3f93bdb31a5942fba104512d4a3b8f00/no/pdfs/nou201620160013000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 99]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-motstanden mot aktiv dødshjelp blant norske
-leger,33 er det ikke sikkert at en kollega som er
-villig til å utføre slike handlinger er tilgjengelig.
-Pasienter som ber om dødshjelp vil typisk være
-syke og svake og ha vanskelig for å forflytte seg til
-en lege som er villig til å utføre aktiv dødshjelp.
-Her er det en kontrast til spørsmålet om reservasjon mot aborthenvisning hvor pasientene typisk
-er friske og mobile.
-Lege-pasientforholdet kan være minst like
-nært og viktig for pasienter som ønsker aktiv
-dødshjelp som for abortsøkende kvinner. Aktiv
-dødshjelp blir typisk aktuelt mot slutten av et lengre forløp med kronisk sykdom og/eller lindrende behandling. Det å søke ny lege innebærer
-således et kontinuitetsbrudd og vil kunne oppleves som en betydelig belastning for den syke.
-Dersom aktiv dødshjelp skulle bli tillatt som
-en rettighet i Norge, er det vanskelig å se for seg
-hvordan leger skal få en generell reservasjonsrett
-mot å utføre og henvise til dødshjelp uten byrde og
-belastning for pasientene og uten at den reelle tilgangen til dødshjelp innskrenkes for noen pasienter.
-I en avveining må man ta stilling til om slike konsekvenser for pasienter er akseptable, og om hensynet til at helsepersonell skal få slippe befatning
-med aktiv dødshjelp skal veie tyngre.
-
-8.7
-
-Omskjæring
-
-Situasjonsbeskrivelse
-Omskjæring av gutter av religiøse og kulturelle
-grunner – rituell omskjæring – er omstridt i
-Norge. Fra januar 2015 ble rituell omskjæring av
-gutter igjen et lovfestet offentlig helsetilbud i
-Norge. Lovendringen kom etter en lang offentlig
-debatt om dette kontroversielle spørsmålet. En
-viktig begrunnelse var skadereduksjon. Ved at
-omskjæring tilbys på offentlige sykehus, håper
-man å redusere risiko for komplikasjoner ved
-omskjæring utført under ikke-optimale forhold.
-Inngrepet utføres av barnekirurger og urologer,
-og noen av disse har ønsket å reservere seg mot å
-utføre slike inngrep.
-Myndighetene framhevet at de regionale helseforetakene har stor frihet til å finne ut hvordan
-tilbudet om omskjæring organiseres i praksis, og
-at en der det er mulig kan ta hensyn til den
-enkelte leges reservasjonsønske så lenge dette
-ikke innebærer at det lovfestede tilbudet svekkes.
-Dette ble tatt inn i lov om rituell omskjæring, der
-det i § 4 heter: «I den grad det ikke hindrer et for-
-
-svarlig tilbud, skal det tas hensyn til helsepersonell som av samvittighetsgrunner ikke ønsker å
-utføre eller assistere ved slike inngrep.» Det ble
-derimot ikke innført noen lovfestet rett for helsepersonell til å reservere seg mot å utføre eller
-assistere ved slik inngrep. Det følger av forarbeidene til bestemmelsen at «Det regionale helseforetaket må organisere spesialisthelsetjenesten
-på en slik måte at rituell omskjæring kan bli utført
-innen rimelig tid og det vil ikke være adgang til å
-avslå et ønske om rituell omskjæring utelukkende
-under henvisning til at helsepersonell ved sykehuset ikke ønsker å utføre inngrepet eller assistere ved inngrepet».34
-Da loven ble innført anslo man et behov for
-2000 omskjæringer årlig, i all hovedsak av muslimske guttebarn. Langt færre inngrep enn dette
-har funnet sted i lovens første virkeår (2015),
-ifølge en artikkel i Dagens Medisin.35 Der framgår det også at kapasitetsproblemer og interne
-prioriteringer på urologiske og barnekirurgiske
-avdelinger, mer enn antallet leger som har reservert seg, er hovedforklaringen på at så få inngrep
-har blitt utført hittil. Flere helseforetak har overlatt inngrepet til private sykehus.
-Det finnes ingen systematisk oversikt over
-hvor mange leger som har reservert seg mot å
-utføre omskjæring. Medieoppslag tyder på at det
-ved noen sykehus er mange leger som har ønsket
-å reservere seg, mens det ved andre ikke er så
-utbredt. Fra medieoppslag framgår det også at
-legenes argumenter mot rituell omskjæring særlig er at inngrepet ikke er medisinsk-faglig
-begrunnet, at det har en risiko for komplikasjoner
-(om enn ikke stor), at pasienten ikke kan samtykke til inngrepet og at omskjæring påfører en
-irreversibel markør for religiøs og/eller kulturell
-tilhørighet. Det har også vært hevdet at det må
-være opp til den enkelte å «velge» sin religiøse
-og/eller livssynsmessige identitet, og at rituell
-omskjæring begrenser denne valgfriheten.
-Drøfting
-Legene som er kritisk til omskjæring kan, som vi
-ser, dele de begrunnelsene som anføres av andre
-deltakere i samfunnsdebatten, slik som at inngrepet påfører barnet en irreversibel markør for tilhørighet. I tillegg har legene argumenter som enten
-springer ut av – eller gis ekstra tyngde av – det
-medisinsk-faglige og profesjonsetiske, slik som
-34
-
-33
-
-Førde, Aasland og Falkum (1997).
-
-99
-
-Kapittel 8
-
-35
-
-Prop. 70 L (2013–2014), merknadene til § 4.
-Bordvik (2016), Dagens medisin.
-
-[Side 100]
-
-100
-
-Kapittel 8
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-argumentet om at rituell omskjæring ikke er
-medisinsk-faglig begrunnet.
-Legenes reservasjonsønsker synes altså å
-bygge på samvittighetsoverbevisninger som er
-formet både av faglige og allmenn-etiske (det vi i
-punkt 4.5 kaller «personlige») begrunnelser.
-Mange vil mene at det er en viktig profesjonsetisk
-oppgave for helsepersonell å sette grenser for
-fagets virkeområde.36 I dette perspektivet bør
-leger og annet helsepersonell aktivt avgrense seg
-fra slikt som ikke er sykdomsbehandling og som
-ikke er helsefremmende. Betydningen av å
-respektere helsepersonells selvstendige profesjonsetiske overveielser av denne typen er et selvstendig argument for å respektere et reservasjonsønske knyttet til rituell omskjæring. Noen tilfeller av reservasjonsønsker kan også grunne seg på
-en politisk motstand mot omskjæringsloven, heller enn en faglig eller personlig samvittighetsoverbevisning.
-Hvor tungtveiende er legenes overbevisning
-om at det er galt for dem å utføre omskjæring? Til
-forskjell fra abort er det ved omskjæring ikke
-snakk om en liv-død-situasjon. Derimot er det i likhet med abort mulig for legene å argumentere
-med at prosedyren bør ligge utenfor fagets virkeområde og følgelig er i strid med profesjonsetikken. For utvalget framstår det plausibelt at en motstand mot å utføre rituell omskjæring kan bygge
-på en dyp samvittighetsoverbevisning.
-Dersom det ikke gis adgang til reservasjon,
-må en vurdere konsekvensen av dette. For noen
-vil spørsmålet om rituell omskjæring være så
-alvorlig at de vil velge oppsigelse, eller eventuelt
-ikke søke på enkelte jobber, framfor å gjennomføre inngrepet. Dersom det er så alvorlig for den
-enkelte lege og det samtidig er relativt enkelt å
-finne andre leger som kan gjennomføre inngrepet
-uten at det rammer den som ber om tjenesten,
-taler det for at det gis mulighet til reservasjon.
-Dersom mange leger reserverer seg, særlig i
-helseregioner der det er få leger som kan gjennomføre inngrepet, vil dette i praksis innebære en
-reell begrensning i muligheten til å få gjennomført et tilbud som er en lovfestet rettighet. Loven
-forsøker å forebygge en slik situasjon ved at reservasjonsønsker bare skal hensyntas «i den grad det
-ikke hindrer et forsvarlig tilbud».
-
-36
-
-Se for eksempel Etiske regler for leger, I § 9.
-
-8.8
-
-Religiøst forankrede praksiser
-
-8.8.1
-Innledning
-Enkelte religiøst og livssynsmessige forankrede
-praksiser kan skape utfordringer i arbeidslivet.
-Det kan for eksempel gjelde arbeidstakere som av
-religiøse årsaker ikke ønsker å håndhilse på eller
-sitte i samme bil som kollegaer, pasienter eller
-elever av motsatt kjønn. Det kan også gjelde
-arbeidstakere i butikker og på restauranter som
-av religiøse grunner ikke ønsker å håndtere
-enkelte typer mat og drikke, for eksempel kjøtt av
-svin eller ku eller alkohol.
-Selv om begge situasjonene kan sies å dreie
-seg om religiøst eller livssynsmessige forankrede
-praksiser vil utvalget behandle dem hver for seg.
-
-8.8.2
-Sosiale sammenhenger i arbeidslivet
-Situasjonsbeskrivelse
-Utvalget tenker her på situasjoner der personer
-ikke ønsker å berøre enkelte andre, for eksempel
-lærere som nekter å håndhilse på elever og kollegaer av et bestemt kjønn og mannlige leger som
-nekter å håndhilse på kvinnelige pasienter. Fra
-svensk presse har vi sett at en mannlig politiker
-ikke ville håndhilse på en kvinnelig reporter, noe
-som skapte debatt i Sverige. Det samme gjelder
-situasjoner der personer ikke ønsker å oppholde
-seg i samme rom som enkelte andre. Utvalget er
-også kjent med en sak fra norsk arbeidsliv der en
-mannlig renholder ikke vil kjøre i samme bil som
-sine kvinnelige kollegaer på vei til oppdrag eller
-vaske på samme sted som sine kvinnelige kollegaer.
-Det kan også tenkes situasjoner der en lærer
-krever at elevene håndhilser selv om elevene av
-religiøse årsaker ikke aksepterer dette, eller at en
-lege krever av pasientene sine at de håndhilser og
-nekter å behandle pasienter som ikke gjør det.
-Andre eksempler på religiøs praksis kan være
-en barnehagelærers ønske om ikke å spise
-sammen med barna under Ramadan, et Jehovas
-vitnes ønske om ikke å være tilstede på arbeidsplassen under, eller delta i, bursdagsfeiring for en
-av sine kollegaer, en adventist som ikke kan
-arbeide på helligdager, en kvinnelig muslim som
-krever å benytte hijab på jobben og en mannlig
-sikhs krav om å benytte turban på jobb.
-Som det framgår av punkt 2.3 vil problemer
-knyttet til bruk av religiøse plagg, som for eksempel hijab og turban, i utgangspunktet falle utenfor
-utvalgets mandat.
-
-[Side 101]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Drøfting
-Utvalget legger til grunn at etterlevelse av religiøse ritualer og religiøs adferd praktiseres ulikt, og
-at det dermed også er svært forskjellig hvor stor
-betydning etterlevelse har for den enkelte. For
-noen vil det ikke å kunne etterleve praksisen ikke
-ha så stor betydning, mens for andre vil det innebære å bryte med en viktig overbevisning.
-Selv om det kan være vanskelig å forstå for
-andre at en slik praksis kan ha stor betydning for
-noen, for eksempel fysisk berøring eller håndhilsning på en av motsatte kjønn, kan brudd på en slik
-praksis være dyptgripende for den arbeidstakeren
-det gjelder.
-Oftest vil arbeidstakere kunne etterleve religiøse praksiser uten at kollegaer og andre engang
-merker det, i hvert fall uten at det går ut over
-andre eller at andre opplever det som negativt. I
-enkelte tilfeller og situasjoner kan imidlertid religiøse praksiser få betydning for andre. I tillegg til
-at for eksempel kollegaer, pasienter og elever kan
-oppleve konsekvensene som vesentlige og alvorlige, vil de også kunne oppleves som krenkende. I
-noen tilfeller kan utøvelse av religiøse ritualer
-medføre merarbeid for andre.
-Utøvelse av religiøse ritualer og praksiser kan
-også ha betydning for arbeidsforholdet som
-sådan, og dermed gå utover arbeidsgivers
-interesse i å få en jobb gjort. Det vil for eksempel
-være tilfelle der en arbeidstaker må avbryte et
-konkret arbeid for å gå til bønn eller at en arbeidstaker ikke ønsker å tilby tjenester til enkelte personer, for eksempel på grunn av kjønn.
-Å bli nektet å be i arbeidstiden kan være svært
-inngripende for noen. Ofte kan bønn likevel greit
-utføres i arbeidstiden uten at det går utover verken arbeidsgiver eller andre. I andre tilfeller kan
-det ha større konsekvenser. Det gjelder blant
-annet i tilfeller der en arbeidstaker er alene om å
-utføre en tjeneste og denne må avbrytes. Det kan
-for eksempel gjelde sjåfører dersom de må
-avbryte kjøringen. Også i møte med kollegaer kan
-religiøse ritualer og praksiser ha betydning. Ovenfor ble det nevnt et tilfelle der en mannlig renholder ikke ville kjøre bil sammen med kvinnelige
-kollegaer på vei til oppdrag. Selv om det var viktig
-for renholderen å etterleve sin religion på dette
-punktet, ble konsekvensene store for både kollegaene og ikke minst arbeidsgiver. Når det oppstår
-betydelige negative konsekvenser for tredjepart
-eller det i praksis ikke lar seg gjøre å tilpasse
-arbeidsoppgavene, vil det være urimelig å kreve
-slik tilpasning, selv om det ligger en dyp overbevisning til grunn for kravet.
-
-101
-
-Kapittel 8
-
-Et annet eksempel kan være en lege som av
-religiøse grunner ser det som problematisk å
-måtte håndhilse på pasienter av annet kjønn. Det
-vil kunne oppleves inngripende og krenkende for
-en pasient om legen nekter å håndhilse. I tillitsforholdet mellom en lege og en pasient, på samme
-måte som mellom en lærer og en elev, er det viktig at den profesjonelle part setter hensynet til
-pasient og elev foran egne interesser. Ikke minst
-må en lege kunne gjennomføre undersøkelser av
-en pasient av motsatt kjønn.
-At en kollega ikke vil håndhilse eller delta i
-bursdagsfeiring kan også oppleves som støtende
-av noen. Samtidig er det andre måter å hilse og
-vise respekt på innenfor ulike kulturelle tradisjoner, som å holde hånden for brystet og bukke
-eller lignende.
-At en muslimsk barnehagelærer ikke vil spise
-svinekjøtt til lunsj sammen med barna i barnehagen eller ikke ønsker å spise sammen med barna
-under Ramadan vil neppe kunne ha særlige konsekvenser eller oppleves å være krenkende for
-andre.
-Et annet eksempel kan knyttes til Jehovas vitner som av religiøse årsaker ikke deltar i bursdagsfeiringer, og av samme årsak ikke ønsker å
-være tilstede ved en bursdagsfeiring for en av sine
-kollegaer selv om denne skjer på arbeidsplassen i
-arbeidstiden. En slik holdning vil kunne hindre
-deltagelse i en sosial aktivitet i arbeidstiden, og vil
-dermed kunne ha betydning for arbeidsmiljøet og
-arbeidskulturen. Likevel vil det neppe oppleves
-særlig krenkende av andre at en eller noen kollegaer ikke deltar i bursdagsfeiringen med en slik
-begrunnelse. Tvert imot vil et krav om tilstedeværelse på slike arrangementer være en urimelig
-begrensning på religionsfriheten, og bør heller
-ikke betraktes som en arbeidsoppgave man trenger fritak for.
-
-8.8.3
-Håndtering av mat og drikke
-Situasjonsbeskrivelse
-Det kan tenkes situasjoner hvor arbeidstakere
-ønsker å reservere seg mot å bearbeide, behandle
-og/eller selge enkelte typer matvarer og drikke. I
-praksis er det gjerne snakk om befatning med
-enkelte typer kjøtt og alkohol.
-Ulike religioner har forskjellige påbud og forbud for sine troende, blant annet har islam forbud
-mot for eksempel svinekjøtt og alkohol. For noen
-gjelder dette også biprodukter, noe som betyr at
-de verken ønsker å ha befatning med svin eller
-produkter av svin, som blodmat eller gelatin. De
-
-[Side 102]
-
-102
-
-Kapittel 8
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-kan også ha et ønske om ikke å ha befatning med
-dyr som er slaktet på feil måte eller selvdøde dyr.
-På bakgrunn av dette kan det være forståelig
-at muslimer ikke ønsker å håndtere og selge, og
-dermed tjene penger på slike produkter. For de
-det gjelder kan det dreie seg om en dyp overbevisning, og adgang til reservasjon kan derfor oppleves påkrevd. Det ikke å ønske å ha befatning med
-svin og alkohol av religiøse årsaker er dermed
-langt mer alvorlig enn en mer overflatisk preferanse av typen «Jeg liker ikke svin» eller «Jeg fordrar ikke alkohol».
-I desember 2013 vakte det engelske varehuset
-Marks & Spencer sterke reaksjoner hos sine kunder og møtte også et opprop til boikott av varehuset etter at de hadde lansert et regelverk som tillot
-at ansatte som av religiøse grunner ikke rørte svinekjøtt eller alkohol, skulle slippe å håndtere
-disse varene i møte med varehusets kunder. Det
-skapte massive protester da kunder som kjøpte
-disse produktene fikk beskjed om å henvende seg
-i en annen kasse av en ansatt som hadde reservert
-seg mot slike varer. Det tok ikke lang tid før varehuset reverserte sitt regelverk og i tillegg beklaget overfor sine kunder.
-Drøfting
-Det er ikke vanskelig å tenke seg at en tilsvarende
-problemstilling som den i Storbritannia kan gjøre
-seg gjeldende i Norge, selv om utvalget ikke er
-kjent med at det har vært tilfelle. Norge har en
-stor muslimsk befolkning og norske butikker selger gjerne svinekjøtt og alkohol. Det er heller
-ikke vanskelig å tenke seg at lignende problemstillinger kan gjøre seg gjeldende med andre
-grupper enn muslimer, både religiøse og sekulære.
-Selv om svinekjøtt og alkohol er «forbudt» for
-muslimer, vil ikke alle ha motforestillinger mot å
-selge disse produktene. Likevel er det forståelig at
-enkelte arbeidstakere kan ha motforestillinger
-mot å håndtere disse produktene gjennom arbeidet, og at det kan oppleves som en krenkelse av
-moralsk/religiøs integritet dersom de skulle bli
-presset til det.
-Også andre arbeidstakere kan ha dyptgripende motforestillinger mot bestemte mat- og
-drikkevarer uten at det har en religiøs begrunnelse. Det kan for eksempel være vegetarianere
-og veganere som mener det er moralsk forkastelig å bearbeide og spise kjøtt, samt personer som
-mener alkohol er destruktivt for samfunnet og
-dermed ikke ønsker å bidra til at noen i det hele
-tatt kan kjøpe alkohol.
-
-En butikk- eller restauranteier vil ønske å tilby
-lovlige produkter for salg. Det er en forutsetning
-for driften at så skjer og det er mange berørte parter (eier og arbeidsgiver, andre ansatte, produsenter og kunder) som er avhengig av at driften er
-god og effektiv. Det at enkelte medarbeidere
-reserverer seg mot å komme i kontakt med
-bestemte produkter, kan skape problemer for salg
-og effektiv drift. Det at enkelte medarbeidere gir
-uttrykk for en negativ holdning til enkelte produkter kan også være ødeleggende for bedriftens
-omdømme. Det kan oppleves som støtende for
-kundene dersom de oppfatter dette som en
-moralsk fordømmelse av deres spise- og drikkevaner. Mat og drikke er sentralt i alle tradisjoner og
-kan derfor ha identitetsmessig betydning. Samtidig kan reaksjonen bunne i politiske syn på religionens innflytelse på hverdagslivet i samfunnet og
-derfor ikke dreie seg om en krenkelse i streng forstand.
-I noen tilfeller vil det trolig være mulig å frita
-en arbeidstaker fra de delene av en jobb som innebærer håndtering av visse produkter uten spesielle ulemper for virksomheten, arbeidsgiver, kollegaer eller kunder.
-I andre sammenhenger vil reservasjon derimot skape utfordringer. Dersom en kelner ikke vil
-servere alkohol eller kjøtt kan dette innebære å
-nekte en helt vesentlig del av hans eller hennes
-jobb, noe som kan skape utfordringer både for
-arbeidsgivere, kollegaer og kunder og gjøre tilrettelegging vanskelig eller umulig. I tillegg kan motviljen formidle en negativ holdning til restaurantens produkter.
-Også produsentene av disse produktene kan
-tenkes å bli skadelidende av at produktene hos
-enkelte ansatte i butikker betraktes som så
-urene/uakseptable at han eller hun ikke vil ha noe
-med dem å gjøre, og kanskje også formidler dette
-synet til kunden. Det vil kunne oppfattes som en
-indirekte oppfordring til å velge alternative produkter og slik sett være ufordelaktig for produsenten.
-Hvis motforestillingen mot enkelte produkter
-er så stor at man ikke ønsker å ha befatning med
-disse, kan det hevdes at vedkommende strengt
-tatt ikke egner seg som ansatt i denne bestemte
-virksomheten.
-Mot dette kan det hevdes at vi må tåle å konfronteres med moralsk uenighet i møte med
-andre borgere. Ut fra dette argumentet har ikke
-kunden en rett til å slippe å møte butikkansatte
-som reserverer seg. Men det kan like fullt hende
-at kundene ikke vil akseptere en slik avvisning og
-vil bruke sin kundemakt til å få butikken til å
-
-[Side 103]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-endre praksis – slik som i eksemplet fra Storbritannia.
-
-8.9
-
-Arbeid på religiøse helligdager
-
-Situasjonsbeskrivelse
-For en arbeidstaker kan det være viktig å få fri til å
-feire helligdager som er sentrale innen vedkommendes religiøse tradisjon. For noen vil dette
-være en sentral del av deres livssyn og identitet
-som de vil oppleve det som inngripende å måtte
-avstå fra å ta del i. For andre er det mer en hyggelig markering sammen med familie og kjente.
-Samarbeidsrådet for tros- og livssynssamfunn
-(STL) har fra 2012 utarbeidet en kalender med
-oversikt over mange av de religiøse helligdagene
-som feires av ulike deler av Norges befolkning.37
-Fri til å ta del i religiøse feiringer på dager som
-normalt er ordinære arbeidsdager faller innenfor
-utvalgets mandat hvis det oppstår en samvittighetskonflikt for arbeidstakeren dersom han eller
-hun nektes fri på dager som er helt sentrale i dennes religion.
-Det er en vanlig ordning i mange land at en
-rekke offisielle fridager følger de tradisjonelle fridagene til den religiøse majoriteten. Mens det i
-Frankrike er den katolske kirkes kalender som
-følges, følger vi kalenderen til den protestantiske
-majoritetskirken Den norske kirke. Når helligdager i Norge følger kristne høytider får majoritetsbefolkningen en mulighet til å feire sine høytider i
-samsvar med sin religions tradisjoner.
-Arbeidstakere som ikke er medlem av Den
-norske kirke har etter lov om trudomssamfunn og
-ymist anna § 27a rett til inntil to dager fri i året i
-forbindelse med religiøse høytider etter sin egen
-religion. Denne retten er innført for å legge til
-rette for tros- og livssynsfrihet, også for minoriteter. Ordningen kan dermed sees som en form for
-kompensasjon for en fordel majoritetsbefolkningen har, og altså som et tiltak for å sikre reell likebehandling eller reelt like rettigheter. Arbeidsgiver kan ikke kreve noen form for bevis for at
-arbeidstakeren faktisk tilhører den religionen han
-eller hun hevder.38
-Rett til velferdspermisjoner med eller uten
-lønn kan også følge av tariffavtaler, arbeids- og
-personalreglementer eller individuelle arbeidsavtaler. Retten til velferdspermisjon må praktiseres
-på samme måte for ulike religioner. Likestillings-
-
-103
-
-Kapittel 8
-
-og diskrimineringsombudet har behandlet en sak
-om en dansk barnehageassistent som arbeidet i
-en norsk barnehage som fikk avslag på søknad
-om velferdspermisjon med lønn på Store Bededag. Store Bededag er en helligdag i Den danske
-folkekirke, men ikke i Norge. Arbeidstakeren
-viste blant annet til at en muslimsk arbeidskollega
-hadde fått velferdspermisjon i forbindelse med Idfeiringen. Til tross for at Store Bededag neppe er
-like sentral for medlemmer i Den danske folkekirke som Id-feiringen er for en muslim, fikk assistenten medhold i at hun var blitt diskriminert på
-grunnlag av religion.39
-Når det gjelder den lovfestede retten til to
-dager årlig fri, er det laget regler om varsling i tide
-og om innarbeiding av fridager i lov om trudomssamfunn og ymist anna § 27a. Disse reglene er
-begrunnet i hensynet til arbeidsgiver, som vil
-kunne ha behov for en viss oversikt over når det
-er aktuelt at arbeidstakerne skal ha fri.40 Arbeidstaker som ønsker å benytte denne retten til religiøse fridager pålegges dermed å gi arbeidsgiver
-varsel senest 14 dager i forveien. Det følger av
-paragrafens andre ledd at arbeidsgiver kan kreve
-at arbeidstaker arbeider fridagene inn igjen. Når
-disse dagene skal arbeides inn skal diskuteres
-med arbeidstaker, men det er arbeidsgiver som
-har det endelige ordet. I siste ledd slås det fast at
-arbeidsmiljølovens regler om overtid ikke kommer til anvendelse på innarbeiding av disse fridagene. Utover dette reguleres ikke lønn av bestemmelsen.
-Drøfting
-Det vil være relevant hvorvidt en arbeidstakers
-ønske om fri for å feire sine religiøse helligdager
-skaper større problemer for arbeidsgiver og om
-det eventuelt går ut over andre arbeidstakere eller
-brukere (tredjepersoner).
-Det er viktig å merke seg at den lovfestede retten til fri på helligdager gjelder uavhengig av om
-det er vanskelig å legge til rette for slik fri. Det
-kan imidlertid tenkes at en arbeidstaker ønsker å
-få fri utover disse to dagene. Spørsmålet blir da
-om arbeidstakere bør kunne kreve fri utover det
-som følger av den nevnte loven.
-Utvalget mener at dersom ønsket om fri på
-slike dager praktiseres i god dialog mellom
-arbeidstaker og arbeidsgiver, vil det normalt trolig
-være mulig å unngå at arbeidsgiver får større problemer på grunn av dette og at det sjelden vil opp-
-
-37
-
-Samarbeidsrådet for tros- og livssynssamfunn (2015). STL
-har ikke laget en flerreligiøs høytidskalender for 2016.
-38
-Jf. Ot.prp. nr. 41 (1979–80) s. 27.
-
-39
-40
-
-Likestillings- og diskrimineringsombudets sak 10/2147.
-Jf. Ot.prp. nr. 41 (1979–80) s. 26.
-
-[Side 104]
-
-104
-
-Kapittel 8
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-stå situasjoner der tredjeparts rettigheter rammes. Dersom det skulle vise seg at slike konflikter
-oppstår med tredjeparts rettigheter, bør det foretas en vurdering og avveining av hvor inngripende
-dette er for tredjepart og hvor dyptgripende det er
-for arbeidstaker dersom han eller hun ikke får fri.
-Dersom det for eksempel er en kirurg som to
-måneder i forveien ber om fri en dag for å feire en
-sentral religiøs høytid, må en gå ut fra at det er
-mulig for arbeidsgiver å finne en annen som kan ta
-den aktuelle vakten. Men dersom det skjer en stor
-ulykke og det på grunn av unormalt mange pasienter på akuttmottaket trengs hjelp av legen for å
-redde liv, mener utvalget at hensynet til pasientenes
-liv og helse må gå foran hensynet til legens fridag,
-uavhengig av på hvilket grunnlag man har fri.
-Et lignende spørsmål knytter seg til fri på
-bestemte tider på bestemte ukedager for å delta i
-enkelte religiøse aktiviteter og ritualer. Også her
-vil det variere fra person til person hvor viktig slik
-deltakelse er, med store variasjoner også innad i
-det enkelte trossamfunn. En del ønsker for
-eksempel å «holde hviledagen hellig», mens for
-andre som tilhører samme trossamfunn er dette
-av underordnet betydning. Mens søndag tradisjonelt er helligdagen for kristne, er det lørdag som
-er jødenes sabbatsdag. Muslimene har ikke en
-egen fridag på samme måte, men en del muslimer
-har et sterkt ønske om å delta i bønn i moskeen
-fredag ettermiddag.
-Også her ser vi at norsk lovgivning og praksis
-følger majoritetens tradisjoner. Søndag er innarbeidet som offisiell helligdag, og det er bestemt
-ved lov at offentlige kontorer og de fleste butikker
-og andre bedrifter skal være stengt søndager.
-Noen unntak gis, som for eksempel for butikker
-som ligger ved større turistutfartssteder, bensinstasjoner og sykehus. Det blir da et spørsmål om
-det påligger arbeidsgiver et ansvar for å legge til
-rette for at arbeidstakere som har en annen religiøs eller livssynstradisjon skal kunne få fri på det
-som for dem er tilsvarende religiøse fridager eller
-på bestemte bønnetider en fast dag i uken.
-De sentrale spørsmålene er hvor dyptgripende
-det vil være for arbeidstaker å ikke kunne få fri en
-slik ukedag eller på en bestemt bønnetid, hvor
-store praktiske problemer dette eventuelt påfører
-arbeidsgiver og hvorvidt det vil være inngripende
-for en tredjepart. Her vil en igjen måtte forutsette
-at det er en god dialog mellom arbeidstaker og
-arbeidsgiver. Det kan innebære at arbeidstaker er
-villig til å forklare viktigheten av dette fritaket, og
-at arbeidsgiver er villig til å respektere betydningen av slike religiøst betingede påbud, selv om
-han eller hun ikke deler dette livssynet. I en del
-
-stillinger og på en del arbeidsplasser vil det være
-mulig å legge til rette for eksempel for fri på lørdager for jøder som ønsker det uten at dette skaper større praktiske problemer eller rammer
-andre rettigheter. Tilsvarende vil det i en del
-yrker være lett å imøtekomme ønske om fri noen
-timer fredag ettermiddag for muslimer. I så tilfelle
-bør det være mulig å legge til rette for det.
-
-8.10 Skolegudstjeneste og åndelig
-omsorg på sykehjem
-Situasjonsbeskrivelse
-Disse eksemplene omhandler arbeidstakere som
-ønsker å reservere seg mot arbeidsoppgaver de
-selv oppfatter som religionsutøvelse eller tilslutning til en bestemt religion. Spørsmålet er kommet opp i forbindelse med lærere ved offentlige
-grunnskoler som pålegges å følge elever på skolegudstjeneste og ansatte på sykehjem som for
-eksempel forventes å lese Fadervår for beboerne.
-Lærere og skolegudstjeneste
-Julegudstjenesten har en lang tradisjon i norsk
-skole. Ettersom julegudstjenester skjer i skoletiden har Kunnskapsdepartementet ansett slike
-som en del av elevenes opplæring og som en del
-av de ansattes arbeidsdag på skolen. Departementet har lagt til grunn at skolen kan gjennomføre
-gudstjenester som en del av sin generelle kulturog tradisjonsformidling, selv om det ikke er en
-obligatorisk del av opplæringen. Gudstjenesten
-kan ikke være en del av KRLE-faget.41 Ved en del
-skoler må elever nå aktivt melde seg på til slike
-gudstjenester. Elever har uansett rett til fritak fra
-julegudstjenesten, men det er ingen tilsvarende
-lovfestet fritaksrett for lærere som for eksempel
-ikke er troende eller som tilhører en annen religion.42 Spørsmålet om lærerne har plikt til å følge
-elevene til julegudstjeneste ble aktualisert i Oslo
-kommune vinteren 2015. Human-Etisk Forbund
-mente at lærere ikke kan pålegges å følge elever
-til skolegudstjeneste. Selv om opplæringslova
-ikke inneholder noen bestemmelse om fritaksrett
-for lærere, vil en fritaksrett etter forbundets
-mening følge av religions- og livssynsfriheten
-etter Grunnloven § 16 og menneskerettsloven
-sammenholdt med internasjonale menneskerettskonvensjoner.43
-41
-42
-43
-
-Utdanningsdirektoratet (2015).
-Opplæringslova § 2-3 a.
-Gran (2015), Fritanke.no.
-
-[Side 105]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Som svar på en henvendelse fra Human-Etisk
-Forbund skriver Oslo kommune følgende:
-Så vidt vi kan se må rektor i kraft av sin styringsrett kunne pålegge sine ansatte, både kontaktlærere og andre, å følge elevene til gudstjeneste når dette skjer i skoletiden.44
-I et svar til Stortinget ga kunnskapsminister Røe
-Isaksen uttrykk for det samme synet som Oslo
-kommune og understreket at lærere etter opplæringslova ikke har krav på fritak for denne type
-aktiviteter.45 På samme måte som Oslo kommune
-framhevet han at skolegudstjenester som skjer i
-skoletiden er en del av elevenes opplæring og dermed også de ansattes arbeidsdag på skolen. Det
-innebærer at en lærer må forvente at det kan være
-en del av arbeidsoppgavene å følge elevene til
-gudstjeneste og å ha tilsyn med dem der.
-Human-Etisk Forbund er av den oppfatning at
-skolegudstjenester innebærer religionsutøvelse
-og dermed ikke kan anses som en ordinær
-arbeidsoppgave. De viser til Den norske kirkes
-egen definisjon av gudstjenester som «det viktigste møtestedet for kristne. Den er stedet der de
-kristne blir synlig som en menighet; et fellesskap
-av mennesker som deler troen på Gud, og Jesu
-Kristi oppstandelse. Den er et sted der mennesker
-møter hverandre, og sammen trer frem for
-Gud.»46 Kirkerådet har derimot gitt uttrykk for at
-skolegudstjenester skiller seg fra ordinære gudstjenester ved at skolegudstjenesten før jul er en
-felles arena for å gjøre elevene kjent med norsk
-kulturarv, inkludert juleevangeliet og julesanger.
-Rådet legger til grunn at «skolegudstjenesten er
-en del av det generelle kulturelle arbeidet ved skolen begrunnet i læreplanen, og som sådan en del
-av skolens aktiviteter.»47 Dette er i samsvar med
-Kunnskapsdepartementets oppfatning, se ovenfor.
-Åndelig omsorg på sykehjem
-Spørsmålet om bistand fra personalet til åndelig
-omsorg ble aktualisert ved et sykehjem som
-ønsket å utvikle sin diakonale identitet.48 De
-ansatte ble derfor bedt om å bistå pasientene med
-deres religionsutøvelse. Blant annet skulle personalet lese Fadervår som aftenbønn for enkelte av
-44
-
-Gran (2015), Fritanke.no.
-Kunnskapsministeren (2015).
-46 Gran (2015), Fritanke.no.
-47
-Kirkerådet (2015).
-48
-Eksempelet er anonymisert etter avtale med det aktuelle
-sykehjemmet.
-45
-
-105
-
-Kapittel 8
-
-pasientene ved demensavdelingen. En muslimsk
-ansatt ønsket å reservere seg mot dette. Den
-ansatte mente at å lese en kristen aftenbønn ikke
-var forenlig med hennes religion, noe hun fikk
-bekreftet av sin imam.
-Saken kom opp for sykehjemmets etiske råd,
-hvor arbeidsgiver blant annet viste til pasientenes
-rett til å utøve sin tro og sitt livssyn, og at institusjonen hadde plikt til å tilrettelegge for slik utøvelse. Sykehjemmet var villig til å prøve å finne
-smidige løsninger for ansatte som ønsket å reservere seg, men mente at dette kunne føre til at de
-fort kunne havne i en situasjon der mange ville
-reservere seg hvis det først skulle bli en åpning
-for dette. De mente derfor det var viktig for dem å
-avgjøre om fritaksønsket var basert på alvorlig
-overbevisning.
-Human-Etisk Forbund har vært kritisk særlig
-til sykehjemmets ønske om å vurdere og overprøve den ansattes overbevisningsgrunner. De
-viser også til at sykehjemmet ikke har opplyst i
-sine stillingsannonser at jobben også inneholder
-ansvar for å ivareta beboeres religiøse behov.
-Norsk og internasjonal rett om religionsutøvelse
-i arbeidsforhold
-Arbeidsgivers styringsrett innebærer blant annet
-en rett til å definere en stillings arbeidsoppgaver.
-Arbeidsgivers utøvelse av styringsrett er likevel
-underlagt et alminnelig saklighetskrav. Offentlig
-arbeidsgivers styringsrett er i tillegg underlagt et
-forvaltningsrettslig saklighets- og likebehandlingsprinsipp. Så vel nasjonal som internasjonal
-rett kan også sette grenser for en arbeidsgivers
-adgang til å stille krav om arbeidsoppgaver som
-innebærer religionsutøvelse. Verken opplæringslova, helsepersonelloven, arbeidsmiljøloven eller
-diskrimineringsloven om etnisitet inneholder
-direkte bestemmelser om rett til fritak for arbeidstakere fra ulike typer arbeid i forbindelse med religiøse seremonier. Diskrimineringsloven om etnisitet begrenser arbeidsgivers adgang til å etterspørre opplysninger om religiøs overbevisning
-ved ansettelse. Slike opplysninger kan bare kreves hvor «stillingens karakter» tilsier det, eller
-hvor «det inngår i formålet for vedkommende
-virksomhet å fremme bestemte religiøse eller kulturelle syn, og arbeidstakerens stilling vil være av
-betydning for gjennomføringen av formålet», jf.
-§ 17. Samme lov forbyr også diskriminering på
-grunnlag av religion eller livssyn under arbeidsforholdet, jf. §§ 6 og 7.
-Religions- og livssynsfriheten beskyttes også
-av Grunnloven § 16 samt EMK artikkel 9 og FN-
-
-[Side 106]
-
-106
-
-Kapittel 8
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-ØSK artikkel 18, som begge er gjort til en del av
-norsk rett via menneskerettsloven.
-EMD har innrømmet statene et relativt vidt
-handlingsrom når det gjelder krav til arbeidstakere om å utføre handlinger som er i strid med
-deres religiøse overbevisning, se blant annet
-Ladele- og McFarlane-sakene.49 Utgangspunktet
-om at en arbeidstaker kan ivareta sin livssynsfrihet ved å slutte i arbeid ble likevel moderert i
-disse sakene. Krav om at en person skal utøve
-eller gi sin tilslutning til en annen religion eller et
-annet livssyn enn den han eller hun tilhører, berører religions- og livssynsfrihetens innerste kjerne.
-I EMDs praksis er dette blitt knyttet til et krav om
-at man ikke skal tvinges til å røpe sin livssynsmessige overbevisning. For eksempel har EMD slått
-ned på et krav om at en advokat skulle erklære
-seg som ateist eller tilhenger av en religion som
-forbød edsavleggelse for å unngå å måtte avlegge
-en religiøs ed i forbindelse med sin yrkesutøvelse.50
-Drøfting
-Ved vurderingen av om en arbeidstaker skal gis
-rett eller adgang til reservasjon vil overbevisningens dybde være en aktuell faktor. Her kan det
-være av betydning om den aktuelle arbeidstakeren som ber seg fritatt tilhører en trosretning som
-direkte forbyr denne type aktiviteter.
-En annen faktor er i hvilken utstrekning handlingen innebærer et reelt bidrag til religionsutøvelse. Her vil det være av betydning hvor aktiv
-arbeidstaker forutsettes å være i det som oppfattes som religionsutøvelse. En lærers oppgave
-under en skolegudstjeneste vil være å føre tilsyn
-med skoleelevene og sørge for at de ikke forstyrrer seremonien. Det kreves ikke aktiv deltakelse,
-for eksempel i form av salmesang eller bønn. Det
-kan derfor stilles spørsmål om dette overhodet
-utløser noe samvittighetsspørsmål. Samtidig kan
-det å være tilstede under en religiøs handling for
-noen oppfattes som en form for deltakelse. Deltakelse under en slik religiøs seremoni er noe annet
-enn å ta med elever på omvisning i en kirke,
-moske eller synagoge.
-En ansatt på et sykehjem som bes om å lese
-opp Fadervår som aftenbønn vil ha en mer aktiv
-rolle. Det kan likevel også her hevdes at det å tilrettelegge for andres religionsutøvelse ikke er det
-49
-
-EMD (2013) avsnitt 106 og 109. Sakene Ladele og McFarlane gjaldt nektelse av å registrere homofile partnerskap og
-nektelse av å gi samlivrådgivning til homofile.
-50
-EMD (2008a).
-
-samme som selv å utøve eller å tilslutte seg denne
-religionen. Her vil også pasientenes rett til religionsutøvelse kunne settes opp mot de ansattes
-vern mot krav om å delta i eller utføre religiøse
-handlinger i strid med egen overbevisning.
-Et spørsmål som har vært reist, blant annet av
-det nevnte sykehjemmet, er i hvilken grad
-arbeidstaker plikter å redegjøre for grunnlaget for
-sin overbevisning, og om arbeidsgiver i medhold
-av styringsretten kan pålegge den ansatte å utføre
-oppgaven, såfremt de finner at det ikke er vektige
-samvittighetsgrunner for å frita vedkommende. Et
-krav om redegjørelse for arbeidstakers overbevisningsgrunner vil kunne komme i strid med personvernet, retten til privatliv eller religions- og
-livssynsfriheten. Imidlertid kan det hevdes at det
-er rimelig å kreve begrunnelse før arbeidsgiver
-kan innvilge et ønske om å fritas for arbeidsoppgaver som hører til stillingen. En slik begrunnelse
-vil med nødvendighet måtte angå grunnleggende
-aspekter ved arbeidstakerens religion eller livssyn.
-Det kan ha betydning hvilken type arbeidsforhold det gjelder. For eksempel kan det stilles
-spørsmål om det kan stilles strengere krav til
-offentlig ansatte enn andre arbeidstakere. I
-eksempelet om lærerne i den offentlige skolen vil
-det i så fall bety at de i større grad må slutte opp
-om det undervisningstilbudet skolen har valgt å gi,
-selv om de måtte være personlig uenige. Lærerne
-er rollemodeller for elevene, og bør derfor være
-varsomme med å framheve sitt eget livssyn samt
-være lojale mot skolens verdigrunnlag og tradisjoner. Det kan likevel stilles spørsmål ved om plikten til å følge skolens tradisjoner er like sterk når
-den praksisen det gjelder er så sterkt tilknyttet et
-bestemt trossamfunns ritualer og trostradisjon,
-slik en gudstjeneste i Den norske kirke er.
-Lærernes rolle som modeller for elevene kan
-likevel ikke være til hinder for reservasjon dersom de har en dyp overbevisning om at det vil
-være galt av dem å delta i gudstjenesten. Det forutsetter imidlertid at skolegudstjenesten forstås
-som en gudstjenestelig handling og ikke del av
-det «kulturelle arbeidet» til skolen, og at tilstedeværelse kan forstås som aktiv deltakelse.
-At sykehjemmet har et religiøst formål for sin
-virksomhet vil som nevnt ha betydning for deres
-adgang til å stille krav til arbeidstakerne om aktiv
-oppslutning om formålet. På den annen side vil
-det også være et argument i motsatt retning at
-sykehjemmet for en stor del drives for offentlige
-midler og inngår i den alminnelige offentlige
-helse- og omsorgstjenesten.
-
-[Side 107]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Hvorvidt arbeidstaker var kjent med den aktuelle delen av stillingens innhold på ansettelsestidspunktet kan ha en viss betydning. Arbeidstakere
-som tar ansettelse på et diakonalt sykehjem må
-forventes å bli møtt med krav om å slutte opp om
-virksomhetens formål, selv om det kan reises
-spørsmål om hvor langt denne lojalitetsplikten
-går. Samtidig er grunnskolen og sykehjem
-arbeidsplasser som sysselsetter svært mange
-arbeidstakere, og en manglende reservasjonsrett
-for dem som har samvittighetsproblemer med å
-utføre arbeidsoppgavene vil kunne ha betydning
-for mulighetene til å forsørge seg ved eget arbeid.
-Hvor enkelt det er å tilrettelegge for reservasjon vil avhenge av virksomhetens størrelse, samt
-hvor stor del av personalet som reserverer seg. I
-skolegudstjenestetilfellet kan for eksempel lærere
-som ønsker å reservere seg stå for det alternative
-opplegget som skolene er forpliktet til å tilby elevene. Ettersom det tradisjonelt er større livssynsmangfold blant elever enn blant lærere i mange
-regioner, vil det trolig normalt ikke by på så store
-problemer å finne tilstrekkelig med lærere som er
-villige til å følge elevene til skolegudstjenester.
-For sykehjemspasienter kan det være omvendt.
-Her vil antakelig en større andel av pasientene tilhøre majoritetsreligionen enn det som er tilfelle
-for personalet. Dette er likevel en situasjon som
-kan endre seg over tid.
-Utvalget mener at i den grad det er mulig å
-legge til rette for at enkelte lærere og ansatte på
-sykehjem reserverer seg mot det de opplever som
-utøvelse av en annen religion, bør dette gjøres.
-Forutsetningen er at dette er basert på en dyp
-overbevisning om at det vil være moralsk galt å
-utføre oppgaven, og at det kan finnes praktiske
-løsninger som gjør at reservasjonen ikke går på
-bekostning av det tilbudet arbeidsgiver ønsker
-eller er forpliktet til å tilby sine elever eller pasienter.
-
-8.11 Læreres evaluering av elever
-Situasjonsbeskrivelse
-Verdien og effekten av ulike evalueringsformer
-har lenge vært diskutert, både i det pedagogiske
-forskningsmiljøet og innen norsk skole. Typisk
-var det på syttitallet diskutert hensikten med, og
-verdien av, såkalte normerte prøver. Dette ble
-sentralt i forbindelse med Evalueringsutvalgets
-rapporter.51 Disse prøvene skulle danne utgangspunkt for karaktersettingen, og dermed sikre en
-51
-
-NOU 1974: 41 og NOU 1978: 2.
-
-107
-
-Kapittel 8
-
-lik vurdering og et grunnlag for å gi den beste
-undervisningen. Prøvene ble imidlertid kritisert
-for å fremme konkurranse heller enn læring for
-dens egen skyld.
-I dag er denne type normering ikke bare nasjonal, men internasjonal, gjennom den såkalte PISAundersøkelsen. Det forsterker, ifølge kritikerne,
-konkurranseelementet og en snever og statisk
-prestasjonsbasert forståelse av læring. Motsetningen er, ifølge dem, et dannelsesbasert ideal som
-er dynamisk og vektlegger framskritt like mye
-som aktuell prestasjon. Men det ligger i sakens
-natur at dette er resultater som ikke lar seg måle
-slik at det egner seg for sammenligning. Derfor
-blir denne uenigheten om hva som er hovedhensikten med undervisningen konkretisert i en
-diskusjon om hvordan og hvorfor man skal måle
-at skolen oppnår sine resultater.
-Dette danner bakteppet for et av de senere års
-mer omtalte tilfeller av samvittighetsbasert
-arbeidsnekt innenfor undervisningssektoren i
-Norge. Skolene i Sandefjord hadde prestert dårligere enn landsgjennomsnittet på nasjonale prøver,
-og satte inn flere tiltak for å endre på dette. Blant
-annet leide kommunen inn konsulentselskapet
-PricewaterhouseCoopers i 2009 for å foreslå
-omstrukturering av skolesektoren.
-PwC foreslår flere ledere, en egen «enhet for
-mål- og resultatoppfølging» og at «styring bør
-skje i forhold til kommuniserte og kjente resultatmål, effektmål og prosessmål». Politikerne
-vedtar at de innen 2015 skal bli en av landets
-beste skolekommuner.52
-Den foreslåtte resultatstyringen ble innført og
-møtte motstand fra en del lærere og deres fagforening, men innvendingene ble tilbakevist med henvisning til at målstyringen var politisk bestemt.
-Sammen med en rekke andre reformer ble det
-høsten 2011, som prøveordning, innført et avkrysningsskjema på opp til 70 punkter som skulle vurdere elevenes måloppnåelse som lav, middels eller
-høy. I løpet av vinteren 2012 undertegnet ca. 300
-av 500 lærere i kommunen et brev som protesterte mot tiltaket, samtidig som åtte av ni medlemmer i en kommunalt nedsatt arbeidsgruppe anbefalte at denne rapporteringen på grad av måloppnåelse burde fjernes. Kommunen kontaktet
-Utdanningsdirektoratet, som ikke tok stilling til
-denne konkrete formen for tilbakemelding, men
-52
-
-Jelstad og Vedvik (2014), Utdanning. Gjennomgangen av
-hendelsene i saken med Sandefjord-lærerne er i hovedsak
-basert på denne kilden.
-
-[Side 108]
-
-108
-
-NOU 2016: 13
-
-Kapittel 8
-
-Samvittighetsfrihet i arbeidslivet
-
-påpekte at faglig tilbakemelding kan gjøres på
-mange måter. Til tross for motstanden, vedtok
-politikerne i Sandefjord å innføre skjemaet fra
-høsten 2012, med en mindre endring i ordlyden
-på den omstridte avkryssingen.
-To lærere i Sandefjord nektet å krysse av på
-skjemaet og oppga følgende grunner:
-1. elevene og foreldrene vil ikke skjønne tilbakemelding i denne formen,
-2. det vil ikke bidra til mestring,
-3. man bør fokusere på læring og utvikling, ikke
-prestasjon og
-4. vurderingen gagner skoleeier, ikke elevene.
-Deres hovedpoeng var at dette var skadelig for
-elevene, og at evalueringsformen dermed var i
-strid med deres rolle som lærere. Lærerne tilbød
-seg å gi en skriftlig vurdering til erstatning for
-avkrysningen, men skoleledelsen avviste det. Før
-sommeren 2013 fikk begge lærerne en muntlig
-advarsel. De nektet fortsatt å benytte skjemaet, og
-før jul 2013 ble de innkalt til møte med kommunens skoleledelse som hadde fått en juridisk vurdering av situasjonen. Lærerne ble forelagt denne
-vurderingen, som i klartekst sa at deres nekt
-kunne medføre avskjed eller oppsigelse. De oppfattet det som en advarsel, og det var også trolig
-hensikten. Dersom de fortsatte å nekte å bruke
-skjemaene, ville kommunen vurdere å gå til oppsigelser.
-Lærerne, som ble sykmeldte utover vinteren
-2014, fikk etter hvert følge av andre lærere som
-også nektet å benytte skjemaet, blant annet med
-begrunnelsen at det kunne fungere demotiverende og dermed skade elevene. Det ble opprettet
-en støttegruppe blant foreldrene, og saken fikk
-stor mediedekning som i hovedsak var kritisk til
-kommunens handlemåte. Kommunen uttalte at
-dette dreide seg om ansatte som nektet å følge
-lovlig fattede vedtak, og påpekte at de derfor var i
-sin rett til å reagere. Uansett om det var press
-eller argumenter som var grunnen, så ga Sandefjord kommune etter. Før sommeren 2014 vedtok
-politikerne at lærerne ikke ville bli oppsagt, og
-grunnlaget for arbeidsnekten ble fjernet. I et
-debattinnlegg i Dagbladet 1. september 2015
-kunne ordføreren sammen med en annen politiker opplyse følgende:
-Det tidligere systemet for halvårsvurdering
-[ble] fjernet høsten 2014 og erstattet av en
-omforent løsning som var anbefalt av en
-arbeidsgruppe bestående av foresatte, lærere
-og skoleledelse, og som ungdomsrådet, skole-
-
-og barnehageutvalget, formannskapet
-bystyret enstemmig sluttet opp om.53
-
-og
-
-I korthet var dette en sak som utspilte seg på bakgrunn av en langt bredere strid om målstyring
-som redskap i offentlig virksomhet, der skolen er
-en av de viktigste arenaene. Det hører med til historien at representanter for Sandefjord kommune
-hevder at skolen i dag ligger godt over landsgjennomsnittet på nasjonale prøver, og at de derfor
-mener at deres grep grunnleggende sett var riktig, selv om de har antydet at både prosedyren
-med innføringen av skjemaet, og kanskje også
-selve skjemaet, hadde feil ved seg.
-Drøfting
-Vi har historiske eksempler på at lærere har nektet å utføre arbeidsoppgaver av samvittighetsgrunner, slik som Læreraksjonen i 1942 der norske lærere nektet å bli med på nazifisering av skolen. De fleste vil si at disse lærerne handlet riktig,
-til tross for at de nektet å følge arbeidsgivers
-pålegg. Det finnes tilfeller der en lærer har
-moralsk plikt til å nekte å utføre oppgaver som
-han eller hun pålegges av arbeidsgiver. Imidlertid
-var situasjonen under okkupasjonen av Norge så
-ulik dagens situasjon at det er lite å hente fra det
-tilfellet utover å fastslå at lærere i noen sammenhenger må ha moralsk plikt til å ta stilling til om
-arbeidsgivers pålegg er akseptable.
-Sandefjordlærernes samvittighetsnekt har
-både viktige likheter med og forskjeller fra tilfellene vi kjenner fra helsevesenet, for eksempel i
-forbindelse med abortinngrep eller omskjæring
-av gutter. Tilfellene er like i den forstand at det
-henvises både til allmennmoralske og profesjonsetiske grunner for å nekte å utføre oppgaven. Men
-til forskjell fra eksemplene fra helsevesenet, kan
-ikke skoleledelsen etterkomme lærerens ønske
-om å unngå den omstridte tjenesten ved å sette en
-kollega til å utføre den. Det er bare denne arbeidstakeren som faktisk har forutsetninger for å
-kunne utføre oppgaven. Dermed vil det å etterkomme nekten innebære at oppgaven ikke utføres
-på den måten som arbeidsgiver har forutsatt. I
-dette tilfellet vil det bety at de aktuelle elevene vil
-vurderes etter andre prinsipper enn sine medelever i andre klasser ved samme skole, og dermed
-reduseres verdien av et viktig styringsredskap for
-skoleledelsen. I dette tilfellet var det mange
-lærere som sympatiserte med de to som reserverte seg, og ønsket å følge deres eksempel. Der53
-
-Gleditsch og Holseth (2015), Dagbladet.
+De faglige grunnene for nektelse er av moralsk karakter; begrunnelsen var ikke bare at det nevnte skjemaet ga dårlige eller misvisende vurderinger, men at den formen for evaluering var skadelig for elevene på flere måter, uavhengig av om informasjonen var korrekt. Slik evaluering ble hevdet å være demotiverende men også å kunne skade selvbildet til elevene. Det dreide seg altså om en moralsk feil, og dette var derfor ikke bare en nekt på grunn av faglig uenighet, men hadde karakter av å være en samvittighetssak. Hvor dyptgripende denne overbevisningen var, kan diskuteres, men når noen er villige til å miste jobben tyder det på at overbevisningen ikke er overflatisk. Man kan også si at overbevisningen er forståelig og meningsfull, også for de som er dypt uenige i at skjemaet er skadelig for elevene.
+
+Det er grunner for å si at denne type uenighet bør avgjøres fagpolitisk, og ikke gjennom arbeidsnekt. Dette er en fagpolitisk strid, og samvittighetsnekt kan framstå som en form for utpressing på et område som bør avgjøres gjennom argumenter. Det faktum at man ikke kan gjennomføre det vedtatte undervisnings- eller evalueringsopplegget i hele den aktuelle organisasjonen, uten å fjerne arbeidstakerne som nekter, styrker den posisjonen. Det at det ikke finnes noen fleksible ordninger der den som nekter kan slippe den oppgaven de mener vil være moralsk uakseptabel, tilsier at dette er en type samvittighetsnekt som ikke kan løses pragmatisk. På den andre siden kan man si at slike fagligmoralske grunner for arbeidsnekt har en sterkere karakter enn de som er privatmoralsk eller religiøst begrunnet, særlig innen yrker som har en utpreget kallstradisjon, som prester, helsepersonell og lærere.
+
+1.  **Politi**
+
+*Situasjonsbeskrivelse*
+
+Politiet har en viktig samfunnsoppgave som innebærer at de skal håndheve og opprettholde lov og orden og bekjempe kriminalitet. Dersom det er nødvendig kan politiet utøve makt for å oppnå dette. Oppgavene til et moderne politi krever evne til å reflektere moralsk over egen samfunnsrolle og oppgaver. Det vil imidlertid ha betydelig effekt både symbolsk og reelt dersom polititjenestemenn nekter å utføre oppgaver eller fritas for utøvelse av oppdrag av samvittighetsgrunner. Det er lite som tilsier at samvittighetsfritak er et stort behov for dagens politikorps, men problemstillingen har blitt tatt opp i nyere tid. Det er derfor en problemstilling som bør drøftes, ettersom det kan tenkes situasjoner der spørsmålet blir mer presserende enn det er i dag.
+
+Betydningen av en diskusjon om hvilket rom samvittighet bør ha i politiarbeid, kan illustreres kort med politiets rolle under andre verdenskrig. Da ble en rekke polititjenestemenn avsatt fordi NS-regimet ønsket egne medlemmer i denne viktige maktposisjonen, eller fordi de motsatte seg regimets pålegg. I tillegg ble en rekke polititjenestemenn arrestert på grunn av sabotasje og andre illegale aktiviteter.[^331] Under arrestasjonene og deportasjonene av norske jøder er det ikke kjent noen tilfeller av at noen nektet å utføre ordre av samvittighetsgrunner. De fleste samarbeidet, noen til dels iherdig, men det er også kjent at noen motarbeidet både denne og andre ordrer. «Et ukjent antall levde opp til den norske rettstatstradisjonen, varslet om forestående razziaer, hjalp jøder og andre nordmenn med å flykte, feilinformerte sine overordnede og så en annen vei. Omfanget av dette motstandsarbeidet er ukjent.»[^332] Det har ikke vært mulig å finne dokumentert at noen eksplisitt nektet å delta i jødedeportasjonene av samvittighetsgrunner. Under etterkrigsoppgjøret ble det godtatt som unnskyldning at politifolkene fulgte ordre,[^333] til tross for at Nürnberg-domstolen satte klare begrensninger på gyldigheten av et slikt forsvar.[^334] Vi kan tenke oss at politiet kunne ha nektet å samarbeide om å utføre denne type oppgaver av samvittighetsgrunner, slik biskoper og prester i Kirken eller norske lærere valgte å gjøre, idet de motsatte seg nazifiseringen. Dette viser at situasjoner kan forekomme, der det i ettertid vil framstå som klart at det vil være riktig av polititjenestemenn å nekte å utføre oppgaver av samvittighetsgrunner.
+
+I moderne tid har politiet blitt brukt til politisk omstridte oppgaver, som uttransportering av asylsøkere og fjerning av demonstranter blant annet i forbindelse med miljøaksjoner. Det siste har ledet til diskusjon om polititjenestemenn bør ha rett til å be seg fritatt for bestemte oppgaver av samvittighetsgrunner. Daværende leder for Politiets Fellesforbund, Arne Johannessen, fremmet forslag om mulighet for reservasjon i 2010, da det var forventet aksjoner mot bygging av en ny kraftlinje i Hardanger, og det var aktuelt at politiet skulle settes inn for å fjerne demonstrantene: «I et demokrati må det være rom for politifolk til å søke om fritak hvis det bryter med en sterk personlig overbevisning».[^335] Politidirektør Ingelin Killengren mente det var umulig å innføre dette prinsippet i politiet, for man kunne tenke seg en rekke områder der tjenestemenn kunne nekte oppgaver av samvittighetsgrunner. «Vi kan da havne i en situasjon hvor det er situasjonsbestemt om man har en ordensmakt som fungerer eller ikke, og det kan vi ikke ha».[^336] Utspillet fant heller ikke støtte hos politikere fra SV og FrP, eller hos leder av politijuristene. De hevdet det ville innebære henholdsvis at den enkelte polititjenestemann bestemte heller enn politikerne, at rettsstaten ville gå i oppløsning, og at det ville lede til anarki.[^337] Nå var det ikke slik at Johannessen mente at polititjenestemennene selv skulle avgjøre om de skulle delta i politiaksjoner. De skulle kunne søke om fritak fra bestemte aksjoner og dersom det var mulig skulle de fritas. Det var politiledelsen som skulle ha det siste ordet, så trusselen mot rettsstat og politisk styring var ikke overhengende. Mer alvorlig var et beslektet problem med en slik fritaksløsning som politijuristenes leder, Jan Olav Fransvold, trakk fram. Dersom politifolk kan søke seg fritatt, vil det kunne oppfattes som at de som ikke søker og derfor utfører oppdraget, støtter den aktuelle politiaksjonen.[^338] Det vil kunne føre til en politisering av politiets arbeid som kan undergrave tilliten til etatens nøytralitet.
+
+En beslektet problemstilling er utsendelse av asylsøkere i tilfeller der vedtaket er omstridt. Da den afghanske kamptolken Faizullah Muradi fikk avslag og skulle sendes ut av landet, uttalte en av politimennene som utførte oppdraget at det var en skam. Han opplevde antakelig en samvittighetskonflikt. Han valgte ikke å nekte å utføre oppdraget, men ga uttrykk for at avgjørelsen var feil. Hendelsen og uttalelsen fikk stor medieoppmerksomhet, og politimannen fikk kritikk fra en informasjonsrådgiver hos Politiets Fellesforbund: «For oss er det ein glipp at han seier kva han meiner i saka. Men politifolk er også mennesker i saker, og slike gleppar skjer.»[^339] Politimannen uttalte at han ikke angret på sine uttalelser. En slik offentlig etisk-politisk ytring om et vedtak, kan klassifiseres som et samvittighetsbasert brudd på pålagte arbeidsoppgaver. Noen måneder senere ble vedtaket omgjort og tolken bor nå i Norge.
+
+*Drøfting*
+
+Dersom politifolk skulle ha mulighet til å søke om fritak fra bestemte oppdrag av samvittighetsgrunner, kan man tenke seg flere aktuelle situasjoner; for eksempel miljøaksjoner, andre ulovlige demonstrasjoner med påfølgende arrestasjoner, uttransportering av asylsøkere med avviste søknader, utkastelser av oppsagte leietakere fra leiligheter med mer. Det er ikke sannsynlig at en slik reservasjonsadgang ville bli mye benyttet, men som reaksjonene på Johannessens utspill viser, oppfattet både politikere og politiledelse selve prinsippet som uakseptabelt fordi det svekker maktutøvelsens legitimitet. Også offentlige ytringer om oppdraget, enten positive eller negative, vil kunne ha denne funksjonen. Imidlertid viser Nürnbergoppgjøret etter andre verdenskrig at det ikke ble akseptert at polititjenestemenn kunne unndra seg moralske vurderinger fordi de var maktens tjenere. Det er derfor grunn til å drøfte hvorvidt et demokrati kan og bør gi rom for at også polititjenestemenn kan bli fritatt for oppgaver som strider mot deres samvittighet.
+
+Dersom disse sakene sammenlignes med andre tilfeller der det er politisk akseptert at samvittighetsfritak er rimelig, er kanskje militærtjeneste det nærmeste eksemplet. Det dreier seg også om en avtjening i statens maktapparat der man kan utøve makt mot mennesker under bestemte betingelser. Imidlertid er militærnekting en avvisning av det å avtjene verneplikt fordi selve voldsutøvelsen strider mot ens samvittighet. Det dreier seg altså ikke om et frivillig valgt yrke der man ønsker å unngå bestemte arbeidsoppgaver. Ønsket om samvittighetsfritak for politifolk ligner derfor mer på situasjonsbestemt militærnekting, der man nekter å tjenestegjøre på grunn av en aktuell situasjon, for eksempel Norges NATO-medlemskap. Det er det vanligvis ikke anledning til.
+
+Denne typen nekt vil også skille seg fra begrunnelsen til helsepersonell som ikke vil delta ved omskjæring og lærere som pålegges evalueringsformer de mener er til skade for elevene og i strid med det som er hensikten med lærergjerningen. Her er det den profesjonelle selvforståelsen som er i spill – de mener at slikt gjør ikke en helsearbeider eller en lærer. For politimannen er det tvert imot – det å skape ro og orden og sørge for at lovlige aktiviteter kan gjennomføres er blant politiets kjerneoppgaver. Det er følgelig formålet med den konkrete oppgaven som er problemet, ikke oppgaven i seg selv. En politibetjent vil for eksempel ikke ha problemer med å fjerne ulovlige demonstranter i seg selv, problemer vil først oppstå dersom politibetjenten er uenig i grunnen til at demonstrantene skal fjernes. En kan si det er knyttet til den enkeltes privatmoralske vurdering heller enn til den profesjonsetiske selvforståelsen.
+
+Politifolk som ønsker fritak fra et oppdrag av samvittighetsgrunner kan sammenlignes med politifolk som ber seg fritatt fra oppdrag der familie eller venner blir berørt. I slike situasjoner vil det være rimelig å frita politibetjenten fordi det er en psykisk belastning å måtte bruke makt mot en man ellers har et vennskapelig forhold til. Det vil ikke bare påvirke deres framtidige relasjon, men vil sette politibetjenten i en lojalitetskonflikt. Han eller hun har vennskapsforpliktelser overfor den som utsettes for maktutøvelsen samtidig som han eller hun har en profesjonell plikt til å utøve makt overfor vedkommende om nødvendig. Det er rimelig at politifolk fritas fra å delta i en slik aksjon så framt det er mulig.
+
+Imidlertid er det en vesentlig forskjell mellom fritak av denne typen personlige grunner og av samvittighetsgrunner som har sitt utspring i politisk kontroversielle vedtak. I det første tilfellet vil ikke handlingen kunne fortolkes som innlegg i en politisk debatt. Alle vil kunne komme i samme situasjon. Dersom politifolk får innvilget fritak fra bestemte oppdrag fordi de innebærer gjennomføring av politiske vedtak man mener er feil, vil det kunne fortolkes som en politisk stillingtagen. Politiledelsen sier at denne politiske avgjørelsen kan oppfattes som så moralsk feilaktig at gjennomføringen for enkelte kan gå på samvittigheten løs. Ettersom det bare er enkelte av politiets oppdrag som kan tenkes å bli gjenstand for samvittighetsfritak, vil det kunne hevdes at politiet foretar en implisitt bedømmelse av det politiske vedtaket. Vedtaket blir altså bedømt til å være så kontroversielt at det er grunn for å få fritak fra deltakelse i gjennomføringen. Andre vedtak har ikke denne karakteren. Det blir første steg på veien mot et politisert politikorps. Et beslektet problem er det som lederen av politijuristene påpekte, nemlig at de som ikke ber seg fritatt, vil kunne oppfattes som at de støtter det aktuelle vedtaket. Ellers ville de jo bedt om fritak. Det vil kunne svekke oppfattelsen av politiet som politisk nøytralt. Tilsvarende problem oppstår når de som gjennomfører oppdraget bedømmer det, for eksempel ved å betegne det som en «skam», som i kamptolksaken. Så lenge tjenestemannen tillates å uttale seg slik, vil det kunne oppfattes som at etaten støtter den vurderingen av vedtaket.
+
+Det kan legges til at vi er tjent med politifolk som utfører oppdrag til tross for at de har sympati med de som utsettes for maktutøvelse. Slike politifolk vil sørge for å gå fram på en forsiktig måte og bidra til at konfrontasjoner dempes. Dette var tilfellet ved utsendelsen av kamptolken, hvor den utsendte i ettertid roste utførelsen av oppdraget. Det betyr ikke at tjenestemenn som er enige i den politiske beslutningen, nødvendigvis vil vise større grad av iver i tjenesten, og dermed bekrefte noen demonstranters oppfatning av politiet som mer enn et redskap for statsmakten. Men en samvittighetsbasert politisering av politikorpset kan lett føre til at gjennomføringen fortolkes i den retningen. Vi er altså ikke tjent med at politiaksjoner gjennomføres av et politikorps der de som er uenige i den politiske beslutningen er fritatt.
+
+Mot dette kan man hevde at disse kostnadene er en følge av at publikum faktisk vet at politifolk fritas fra oppdrag de har samvittighetsproblemer med. Det er altså den symbolske effekten av reservasjonsfritak som er avgjørende i slike saker. Den kan man unngå ved å finne fleksible og lempelige fritaksordninger som bare involverer den aktuelle politibetjent og hans eller hennes overordnede. Hvis vi antar at dette vil gjelde få tilfeller og et mindre antall tjenestemenn, kan det gjennomføres med lite publisitet og uten vesentlige ekstrabelastninger for kollegaer. Utvalget vil midlertid ikke anbefale slike ordninger som forutsetter større eller mindre grader av hemmelighold. Samvittighetsfritak for offentlig ansatte i et demokrati bør behandles med åpenhet, for det angår borgernes tillit til myndighetenes moralske nøytralitet og lojalitet overfor lovverket. Det tilsier at politifolk generelt i liten grad bør fritas fra oppgaver av samvittighetsgrunner.
+
+I utgangspunktet er det viktig med et politikorps som består av mennesker med en velutviklet samvittighet. Demokratiet trenger politifolk som reflekterer moralsk. Det kan tale for et fleksibelt handlingsrom når det gjelder lokale fritaksmuligheter i spesielle tilfeller. Imidlertid har politifolk en spesiell funksjon med rett til å utøve makt på samfunnets vegne. Det taler for at mulighetene for samvittighetsfritak er begrensede. Det er viktigere at de beslutninger som politiet skal gjennomføre er moralsk forsvarlige og politisk legitime.
+
+1.  **Offentlig myndighetsutøvelse**
+
+*Situasjonsbeskrivelse*
+
+Justis- og beredskapsdepartementet sendte ut en ny asylinstruks 24. november 2015 til Utlendingsdirektoratet og Utlendingsnemnda.[^340] Instruksen skulle komme til anvendelse ved etatenes behandling av asylsaker. Av instruksen framgikk det at asylsøkere som «har hatt opphold i et trygt tredjeland», skulle få avslag etter utlendingslovens § 32. Dette åpnet for retur av asylsøkere som kom til Norge over grensen til Russland uten en reell behandling av den enkeltes søknad. Instruksen ble fastsatt etter en endring i utlendingsloven som gir departementet adgang til også å instruere Utlendingsnemnda. Endringen i utlendingsloven innebærer også at vilkåret om at søkere bare kan returneres til trygt tredjeland dersom de får søknaden behandlet der, ble fjernet.
+
+Vinteren 2016 orienterte flere ansatte i Utlendingsdirektoratet (UDI) ledelsen om at de ønsket å reservere seg mot å ta del i behandling av utsendelsessaker etter den nye asylinstruksen.[^341] De mente denne praksisen var i strid med Norges folkerettslige forpliktelser. Dette utløste en debatt, hvor de ansatte fikk støtte fra flere hold.[^342] I tillegg til at de ansatte ønsket å reservere seg mot å utføre oppgaven, ble dette også en varslingssak. De ansatte ville altså ikke bare selv ha fritak fra å utføre en arbeidsoppgave, men også å endre den praksisen som ble innført. Denne instruksen er nå opphevet, men eksempelet illustrerer at offentlig ansatte kan komme i en situasjon hvor de mener deres arbeidsgivers praksis ikke er etisk riktig.
+
+Professor Mads Andenæs uttalte i et avisintervju 8. januar 2016 at «Det er betryggende at folk som arbeider med disse spørsmålene viser faglig integritet. For folk som jobber i offentlig forvaltning må det gå grenser for hva de skal gå med på, og dette gjør de nå klart for politisk ledelse.»[^343] Andenæs sier altså at det er en fordel at også arbeidstakere i offentlig forvaltning skal kunne ha meninger om hva som er faglig akseptabelt, noe de også må kunne gi uttrykk for. Selv om dette i hovedsak dreier seg om ytringsfrihet/varsling, ble det i det aktuelle tilfellet også kombinert med ønske om ikke å utføre enkelte arbeidsoppgaver.
+
+UDIs direktør Frode Forfang fikk spørsmål fra media om den politiske kritikken fra sine ansatte på UDIs intranett, og svarte følgende:
+
+Jeg vet ikke hvor omfattende dette er, men det er helt sikkert delte oppfatninger om dette temaet som om mye annet. Jeg synes dette viser at vi har mange faglig engasjerte medarbeidere, og jeg vil ikke legge lokk på denne type debatter. Men vi har en forpliktelse til å iverksette enhver politisk instruks, også denne.[^344]
+
+På spørsmål om hvordan han vil håndtere det hvis en ansatt sier han ikke vil behandle denne type saker, svarte Forfang:
+
+Nei, det er ikke like greit, men jeg vil ikke gå videre inn på det. Utfordringen er hvis flere skulle reservere seg mot å behandle sakene. (…) Det er ikke slik at det er valgfritt å behandle eller ikke å behandle saker. Når man jobber i UDI er man forpliktet til å gjøre saksbehandling i tråd med det som gjelder. (...) Det er bra at vi har faglig engasjerte medarbeidere, og vi skal \[ha\] en åpen diskusjon internt. Men det må kombineres med at vi er 100 prosent lojale til det regelverket vi skal iverksette.
+
+Her viste UDI-direktøren en generelt åpen holdning til intern kritikk, men han understreket samtidig at han mente de ansatte ikke hadde noen generell reservasjonsadgang i slike saker, og at det ville måtte håndteres annerledes dersom flere ansatte reserverte seg mot saksbehandling etter den nye instruksen.
+
+Forfang uttalte seg ikke om hvordan han vil håndtere et eventuelt reservasjonsønske.
+
+*Drøfting*
+
+Etter de ansattes mening var arbeidsgivers nye retningslinjer i strid med det som Stortinget hadde vedtatt som norsk lov og rammer for utlendingsmyndighetenes praksis. Dersom en instruks er i strid med norsk lov, kan ikke arbeidsgiver pålegge ansatte å utføre arbeidsoppgaver i tråd med instruksen. Saken illustrerer likevel interessante spørsmål forbundet med utvalgets mandat, ettersom de ansatte ytret ønske om reservasjon mot arbeidsoppgaver.
+
+Eksempelet viser hvordan reservasjon kan skje på grunnlag av den ansattes faglige integritet og samvittighet i et spørsmål der arbeidstaker og arbeidsgiver er uenige om hvordan de overordnede lovene for virksomheten skal tolkes. Eksempelet viser at det for ansatte i en offentlig etat kan oppstå konflikt mellom lojalitet til arbeidsgivers instrukser som kan være preget av bestemte politiske prioriteringer, og lojalitet til det overordnede lovverket som etaten er satt til å forvalte etter faglige kriterier.
+
+Selv om den konkrete saken først og fremst dreier seg om faglige begrunnelser ved at vedtakene vil være i strid med menneskerettighetene, og altså at det var en ulovlig instruks, kunne det også vært samvittighetsgrunner som lå til grunn for nektelsen. Uavhengig av om en instruks er i strid med menneskerettighetene eller ikke, kan det tenkes at ansatte vil kunne mene at den ikke er etisk forsvarlig.
+
+Det framstår som forståelig at noe viktig står på spill for arbeidstakerne i dette eksempelet. Utfallet av saksbehandlingen har stor betydning for tredjepart (asylsøkeren), og det å få utføre saksbehandlingen i samsvar med det en mener er riktig vil være vesentlig for en saksbehandler.
+
+Dersom det bare er enkelte arbeidstakere som nekter å utføre de aktuelle arbeidsoppgavene, vil det å gi adgang til reservasjon neppe få store konsekvenser verken for kollegaer, arbeidsgiver eller tredjepart. Situasjonen ville derimot kunne bli annerledes dersom flere saksbehandlere nekter å utføre arbeidsoppgavene. Dette ville trolig i praksis kunne lamme deler av UDIs virksomhet, noe som taler mot å gi fritak. Dessuten ville det kunne fortone seg som en aksjon som ville kreve avklaring av hvorvidt den vurderingen som ligger til grunn for instruksen er forsvarlig.
+
+Dersom det ikke gis adgang til reservasjon, vil konsekvensen for den enkelte være at han eller hun må velge mellom å gå på akkord med egen overbevisning, inkludert det de mener er i strid med menneskerettighetene, eller å fortsette å nekte å utføre oppgavene. Dette siste vil kunne føre til at vedkommende mister jobben som følge av arbeidsnekt.
+
+I det aktuelle eksempelet er det senere kommet fram at en rekke partier i Stortinget stilte seg kritiske eller avvisende til justisministerens og UDI-ledelsens anvendelse av den nye asylinstruksen. Dette ble ikke minst tydelig i forbindelse med den offentlige høringen om Høyre/FrP-regjeringens forslag til ytterligere innstramminger i asyl- og innvandringspolitikken i februar 2016. Videre fikk de ansatte som nevnt bred støtte i sin vurdering av folkeretten. En som ber om fritak av samvittighetsgrunner basert på vurderinger som mange med kunnskap på feltet støtter, står generelt sett sterkere i spørsmålet om hvorvidt arbeidsgiver skal ta hensyn til denne anmodningen. Det gjelder både fordi det da oppfyller kravet om at grunnlaget må gi mening også for de som ikke deler vurderingen, og fordi det sannsynliggjør at overbevisningen er dyptgripende. Det kan tilføyes at berettiget tvil om hvorvidt oppgaven er rettsstridig styrker grunnene for fritak, fordi det sannsynliggjør at reservasjonsønsket er basert på privatmoralske og fagligetiske overbevisninger, kombinert med respekt for loven. I slike tilfeller, som ligger på grensen mot varsling, er det også rimelig at arbeidsgiver vurderer om arbeidsoppgavene er forsvarlige.
+
+1.  **Advokater**
+
+*Situasjonsbeskrivelse*
+
+En advokats rolle som juridisk talerør for en annen person innebærer at advokaten kan komme i en situasjon hvor klienten ønsker at han eller hun skal fremme standpunkter som strider mot advokatens grunnleggende livssyn eller overbevisning. Det ligger i advokatens yrkesrolle at han eller hun skal sette sin klients interesser foran sine egne. Det kan dermed tenkes at en advokat kan oppleve en samvittighetskonflikt i møte med en klients ønsker.
+
+I dette eksempelet må det for det første skilles mellom *advokater generelt* og *forsvarere*, ettersom disse yrkesgruppene vil ha svært forskjellig roller. Dette reflekteres også i at det i tillegg til regler for god advokatskikk,[^345] er gitt egne retningslinjer for forsvarere.[^346] Drøftingen under vil først ta for seg advokater generelt, før det avslutningsvis knyttes noen særskilte bemerkninger til forsvarere.
+
+*Forsvarere* vil ha en særskilt rolle, i og med at jobben deres nettopp er å forsvare en person som er anklagd for å ha utført en straffbar handling. Den siktede har krav på et godt forsvar uavhengig av hva han eller hun har gjort eller ikke gjort, og det er forsvarerens rolle å sørge for dette. Det ligger i rollens natur at forsvareren må ta på seg rollen å forsvare personer som kan ha gjort noe som strider mot det de fleste vil se på som riktig. En forsvarer kan dermed som utgangspunkt ikke nekte å ta en sak fordi forsvarerhandlingen ikke vil bidra til det grunnleggende advokatetiske prinsippet om å «fremme rett og hindre urett». En forsvarer vil også «fremme rett og hindre urett» ved å arbeide for at en tiltalt ikke blir straffedømt etter utilstrekkelige beviser.
+
+Når det gjelder forsvarere, vil det være forskjell på *faste forsvarere* og *andre* *forsvarere*. En fast forsvarer er oppnevnt av domstolsadministrasjonen for den enkelte tingrett, og blir oppnevnt når den tiltalte ikke har egen advokat. Forsvarere som ikke er oppnevnt som fast forsvarer blir ikke automatisk oppnevnt, og er avhengig av oppdrag på samme måte som andre advokater.
+
+*Drøfting*
+
+En advokat skal i sitt arbeid sette sin klients interesser foran sine egne. Selv om en advokat ikke skal bli identifisert med sin klient, kan det tenkes at dersom klienten står for noe som står i kontrast til advokatens eget livssyn eller samvittighet, vil dette sette advokaten i en vanskelig situasjon. Hvis en advokat ikke kan utføre et oppdrag uten at han eller hun lar arbeidet bli påvirket av slike omstendigheter, kan det hevdes at advokaten ikke bare kan, men *bør* si nei til oppdraget. Dette vil gjelde både advokater generelt og forsvarere spesielt.
+
+Det vil være stor variasjon i hvilke typer oppdrag eventuelle reservasjonsønsker vil være knyttet til, og dermed også hvor dyptgripende den aktuelle samvittighetskonflikten vil være. Eksempelvis kan det tenkes at en advokat kan oppleve at det strider mot hans eller hennes samvittighet å kreve inn høye summer fra klienter som ikke er sterkt økonomisk stilte eller å utføre arbeid advokaten selv anser for å være unødvendig arbeid, etter press om inntjening fra arbeidsgiver. Det kan også tenkes at den aktuelle klienten driver en, i advokatens øyne, umoralsk virksomhet som vedkommende advokat ikke vil ha befatning med. Videre kan det hende at klienten ber om bistand til aggressiv skatteplanlegging (skatteplanlegging på grensen av det som er lovlig) som advokaten mener er politisk eller sosialt uforsvarlig, eller at klienten i større eller mindre grad er knyttet til, eller forbundet med, umoralske eller ulovlige aktiviteter.
+
+Fordi det er stor variasjon i hvilke samvittighetskonflikter som kan oppstå, vil det også være stor variasjon i hvor nær advokatens handlinger er til det han eller hun opplever som etisk problematisk. En ansatt advokat som blir bedt om å utføre unødvendig ekstraarbeid for en klient for å oppnå fakturerbare timer er direkte knyttet til handlingen som oppleves problematisk. En advokat kan imidlertid også oppleve det som problematisk å bistå en klient som bedriver umoralsk aktivitet, uavhengig av om oppdraget i seg selv innebærer medvirkning til etisk uakseptable handlinger.
+
+Hvorvidt en samvittighetsnektelse vil være mulig å legge til rette for i praksis og om den vil utgjøre en belastning på øvrige kollegaer, vil både avhenge av størrelsen på det oppdraget advokaten nekter å utføre og på hvor stort firmaet er. I noen tilfeller vil det være mulig at en kollega utfører arbeidet advokaten ikke ønsker å utføre, og at den aktuelle arbeidstakeren i stedet utfører andre oppdrag som gjør at kravene til fakturering og inntjening tilfredsstilles. I andre tilfeller vil kanskje nektelsen kunne føre til at firmaet må si fra seg oppdraget. I så tilfelle vil dette kunne få store økonomiske konsekvenser for arbeidsgiver.
+
+Som nevnt ovenfor i punkt 6.11, vil det være en mer begrenset adgang til ikke å fortsette et oppdrag advokaten allerede har påtatt seg. Av advokatforeningens kommentarer til retningslinjene følger det at «advokaten må unnlate å medvirke i oppdrag hvor det er klart eller synes mulig at advokatens medvirkning kan føre til resultater i strid med hva som er rett.»[^347] Å fremme rett og hindre urett vil for advokaten være et grunnleggende prinsipp, som vil kunne være dyptgripende for den enkelte.
+
+En forsvarer kan som utgangspunkt ikke nekte å ta en sak fordi det ville være stridende mot prinsippet om å «fremme rett og hindre urett». En forsvarers hovedoppdrag er ikke å fremme rett og hindre urett, men å gi et fullgodt forsvar for sin klient. En forsvarer vil også «fremme rett og hindre urett» ved å arbeide for at en tiltalt ikke blir straffedømt etter utilstrekkelige beviser. Det er imidlertid anerkjent i de etiske retningslinjene at det å forfekte et standpunkt forsvareren vet ikke er riktig kan være problematisk for vedkommende. I punkt 6.1 andre ledd er det derfor gitt mulighet for forsvareren til å frasi seg oppdraget dersom klienten har erkjent skyld overfor sin forsvarer, men likevel ønsker å erklære seg uskyldig i retten.
+
+For advokater er det altså allerede gitt mulighet til å si nei til et oppdrag på grunn av samvittighet. Det vil likevel kunne tenkes at en advokat eller fullmektig vil vegre seg fra å si nei til et oppdrag selv om det strider mot vedkommendes samvittighet. En advokatfullmektig vil være «nederst på rangstigen» i firmaet, og ofte i tøff kamp med andre fullmektiger om å få stilling som fast advokat etter fullmektigperioden. Tilsvarende vil en advokat kunne være i konkurranse med øvrige advokater om inntjening eller å bli tatt opp som partner i firmaet.
+
+Ettersom det er en mulighet for advokater til å påberope seg de etiske retningslinjene dersom han eller hun ønsker å si fra seg oppdraget, kan det tenkes at det ikke er reguleringen som er utfordringen, men eventuelt holdninger på arbeidsplassen, kulturen i bransjen eller forhold hos den enkelte advokaten. Dersom det er slik at en advokat på grunn av press på arbeidsplassen eller manglende bevissthet rundt etikk, ikke lytter til egen samvittighet kan det ikke bare få konsekvenser for ens egen integritet, men også tilliten til profesjonen som sådan. En annen løsning enn ytterligere regulering kan være å gi etikk større plass på studiet og i advokathverdagen gjennom obligatorisk undervisning og kursing om slike problemstillinger. Dette kan øke bevisstheten rundt viktigheten av integritet og samvittighet hos arbeidsgivere i tillegg til større mot og bevissthet for den enkelte advokaten.
+
+Faste forsvarere er i en noe annen situasjon enn andre advokater, noe som gjenspeiles også i at det stilles strenge krav til når en fast forsvarer kan si fra seg et oppdrag. Faste forsvarere vil, i likhet med for eksempel fastlegene, ha et samfunnsoppdrag som skal oppfylle en tredjeparts rettigheter, nærmere bestemt retten til en forsvarer. En tredjepersons rettigheter vil dermed kunne tilsi at en reservasjonsadgang ikke kan være ubetinget. Advokatene får støtte fra det offentlige for å utføre dette samfunnsoppdraget.[^348]
+
+Etter utvalgets mening vil rollen som forsvarer i seg selv kunne være utfordrende, og enkelte typer saker kan innebære en større belastning for den enkelte enn andre. Som en persons advokat vil en også bli kjent på et mer personlig plan, og må være et medmenneske i en vanskelig situasjon. Det å være en støtte og et talerør for enkelte klienter vil kunne være svært utfordrende. Til tross for at den faste forsvareren har påtatt seg denne spesielle rollen, mener utvalget det kan tenkes at det for enkelte vil være en dyptgripende overbevisning som gjør at de ikke *kan* innta jobben som forsvarer for enkelte klienter. Ved konflikt, må etter utvalgets mening imidlertid den tiltaltes rett til forsvar gå foran en advokats reservasjonsønske.
+
+1.  **Ekteskap og adopsjon for likekjønnede par**
+
+*Situasjonsbeskrivelse*
+
+Dette eksempelet gjelder arbeidstakers ønske om å reservere seg mot arbeidsoppgaver som på ulik måte bidrar til godkjenning av samliv eller inngåelse av ekteskap mellom likekjønnede. Det mest aktuelle vil antakelig være kirkelig eller borgerlig vigslers ønske om ikke å vie likekjønnede par. Reservasjonsønsker kan også tenkes framsatt av personer som forbereder eller på andre måter medvirker til rammene rundt selve vielsen, slik som ansatte i Folkeregisteret eller i tingretten. Videre kan en tenke seg reservasjonsønsker fra personer som medvirker i en prosess hvor et likekjønnet par ønsker å adoptere barn sammen. Det kan for eksempel gjelde ansatte i Barne-, ungdoms- og familieetaten (Bufetat). I andre land har en sett tilfeller hvor næringsdrivende som leverer varer eller tjenester til bryllupsfester, vegrer seg mot å bidra til likekjønnedes feiringer.
+
+Den norske holdningen til homofili[^349] har vært i rask endring, fra avkriminalisering så sent som 1972[^350] via familierettslig likestilling på de fleste områder ved partnerskapsloven av 1993 og til full familierettslig likestilling ved innføring av felles ekteskapslov i 2009. Strafferettslig forbud mot offentlig forhånelse mv. og strafferettslig diskrimineringsforbud med hensyn til levering av varer og tjenester ble innført allerede i 1981.[^351] Sivilrettslige diskrimineringsforbud er blitt utviklet fra slutten av 1990-tallet og gjelder fra 2014 på alle samfunnsområder.[^352] Parallelt med denne utviklingen er unntak fra diskrimineringsforbud av hensyn til religionsfriheten blitt modifisert.[^353]
+
+Også internasjonalt har holdningene endret seg. Den europeiske menneskerettsdomstols någjeldende syn er at forskjellsbehandling basert på seksuell orientering krever særlig alvorlige grunner for å legitimeres. Domstolen mener videre at likekjønnede par er i en sammenlignbar situasjon med ulikekjønnede par med hensyn til behovet for rettslig anerkjennelse og vern av sitt forhold, selv om statene har et vidt handlingsrom med hensyn til hvordan denne anerkjennelsen skal skje.[^354] To nylige saker for domstolen – Ladele-saken og McFarlane-saken – har tatt opp forholdet mellom religiøst begrunnede samvittighetsnektelser og diskriminering på grunn av seksuell orientering. Ladele var en offentlig ansatt ekteskapsregistrator som ikke ønsket å registrere homofile partnerskap. McFarlane arbeidet som seksual- og samlivsterapeut hos en privat arbeidsgiver, men ønsket ikke å gi seksualrådgivning til homofile par. Begge påberopte seg religiøse grunner for sin vegring mot å utføre denne type arbeidsoppgaver. I begge tilfeller fant domstolen (enstemmig i McFarlane-saken og et flertall på fem dommere i Ladele-saken) at Storbritannia ikke hadde gått utenfor sitt tillatte handlingsrom ved å tillate oppsigelse på et slikt grunnlag.
+
+Ekteskap kan i Norge inngås borgerlig eller i regi av et trossamfunn. Borgerlige vielser skjer vanligvis i tingrettene. Ekteskapsvilkårene prøves i begge tilfeller av Folkeregisteret. Relevant myndighet i adopsjonssaker er Bufetat med underordnede instanser.
+
+Spørsmålet om reservasjonsrett ble tatt opp i forbindelse med at felles ekteskapslov ble vedtatt i 2008. Det var enighet om at vigslere fra trossamfunn skulle ha reservasjonsrett, noe som også ble lovfestet i ekteskapsloven § 13. Under stortingsbehandlingen fremmet Familie- og kulturkomiteens medlemmer fra Fremskrittspartiet, Høyre, Kristelig Folkeparti og Venstre forslag om at Regjeringen skulle legge til rette for en fritaksordning for ansatte som «av overbevisningsgrunner ikke kan utføre sitt arbeid med hensyn til den nye ekteskapslovens definisjon og med hensyn til nye regler for (…) adopsjon».[^355] Forslaget ble ikke fremmet til votering. Det gjelder altså ingen lovfestet reservasjonsadgang eller reservasjonsrett ved borgerlige vielser eller ved medvirkning til adopsjon. Verken straffeloven § 186 eller diskrimineringsloven om seksuell orientering inneholder eksplisitte unntak fra diskrimineringsforbudene på grunnlag av reservasjonsønsker. Dette hindrer ikke at en arbeidsgiver kan velge å foreta interne omfordelinger av arbeidsoppgaver så lenge dette ikke medfører ulemper for den vernede gruppen. Ifølge forarbeidene til endringene i ekteskapsloven i 2008 synes en slik praksis å ha vært fulgt tidligere ved inngåelse av partnerskap ved tingrettene.[^356]
+
+Ifølge ekteskapsloven § 16 siste ledd er et ekteskap ugyldig «dersom prest i Den norske kirke ikke har fulgt liturgi fastsatt av Kirkemøtet.» Dette innebærer at dersom likekjønnede skal vies i kirken, må det utformes en liturgi som omfatter disse. Kirkerådet har nå vedtatt at det skal utarbeides en slik liturgi, samtidig som man anerkjenner reservasjonsrett både for prester og for andre kirkelig ansatte som medvirker til seremonien.[^357]
+
+*Drøfting*
+
+Flere grunnlag kan tenkes for reservasjon mot å bidra til likekjønnede ekteskap og likekjønnedes rett til adopsjon. Et slikt grunnlag kan være at homofil praksis i seg selv er moralsk galt, eller at ekteskap ut fra Guds vilje eller kulturell tradisjon utgjør en pakt mellom mann og kvinne. I forbindelse med at likekjønnede par adopterer barn har enkelte også gitt uttrykk for en bekymring for at de barn som blir adoptert blir skadelidende ved å vokse opp i et hjem der de juridiske foreldrene/omsorgspersonene er av samme kjønn. Det siste kan tenkes presisert på ulike måter; blant annet at de kan lide under et ønske om å kjenne sitt biologiske opphav eller at de har behov for omsorgspersoner av begge kjønn for identifikasjon mv.
+
+Synspunktet at homofilt samliv i seg selv er moralsk galt er representert i Den norske kirke samt finnes i frikirkelige miljøer og i andre religioner.[^358] I dagens samfunn synes det vanskelig å begrunne en slik oppfatning ut fra en ikke-religiøs (sekulær) synsvinkel. De som forsøker, benytter en form for «naturlighets»-argument som har lite gjennomslag i den norske debatten i dag. I andre deler av verden har slike argumenter mer gehør.
+
+Motstand mot vielser av likekjønnede kan begrunnes ved henvisning til religiøse tradisjoner eller skrifter som personen holder for hellige, og som angir at ekteskap bare kan være en pakt mellom en mann og en kvinne. For dem som har en slik religiøst begrunnet oppfatning, vil dette kunne være en grunnleggende overbevisning som det vil by på problemer å fravike. Andre vil begrunne at ekteskap bare kan inngås mellom mann og kvinne på sekulært grunnlag, slik som ved henvisning til det tradisjonelle ekteskapets rolle som arena for omsorg og oppdragelse av barn og som samfunnsbyggende institusjon.[^359]
+
+Hvor tungtveiende et reservasjonsønske er, kan også avhenge av hva som fra vigslers side ligger i en ekteskapsinngåelse. Det borgerlige vigselsritualet er fastsatt ved kongelig resolusjon av 5. desember 2008. Det innebærer at ektefellene lover hverandre samhold og støtte i alle livets forhold samt kjærlighet og troskap livet ut.[^360] Den norske kirkes vigselsliturgi inneholder i dag elementer hvor man ber om Guds velsignelse over ekteparet og hjemmet deres.[^361] Det kan da hevdes at en kirkelig vigsler vil bli utsatt for en tilleggskonflikt som består i å be om Guds velsignelse over en forbindelse han eller hun mener at Gud ikke vil anerkjenne som ekteskap.
+
+Synspunktet om at likekjønnede ikke bør kunne adoptere, kan i prinsippet grunngis religiøst, men det kan også dreie seg om en oppfatning av barnets beste som er sekulært begrunnet. For eksempel har Øivind Benestad et religiøst begrunnet standpunkt i en kronikk, hvor han blant annet viser til «barns gudegitte rett til sin egen mor og far» og til at dersom kirken tilpasser seg den «kjønnsnøytrale ideologien \[hvor\] to menn eller to kvinner \[blir\] definert som rette ektefolk (…) vil det bety et dramatisk brudd med Bibelen og med kirkens lære om ekteskap og foreldreskap, familie og barn.»[^362] Fremskrittspartiets partiprogram fra perioden 2005–2009 gir uttrykk for et antakelig sekulært begrunnet standpunkt: Partiet er av den oppfatning at «barn har den beste oppveksten ved å ha foreldre av ulikt kjønn, og ønsker derfor ikke at homofile skal få adoptere».
+
+Dersom en skulle sammenligne motstand mot likekjønnede ekteskap med motstand mot andre former for ekteskap, er det klart at motstand mot ekteskap mellom personer av ulik «rase» er en posisjon som vanskelig vil anerkjennes i dagens samfunn.[^363] Noen vil være motstandere av ekteskap mellom nær beslektede (i praksis fettere og kusiner) på genetisk eller religiøst grunnlag. Videre kan en tenke seg motstand mot senere norsk anerkjennelse av ekteskap inngått i utlandet hvor den ene part var mindreårig da ekteskapet ble inngått.[^364] Dersom polygame ekteskap skulle bli anerkjent, kan dette tenkes å medføre reservasjonsønsker. Det siste er imidlertid foreløpig en teoretisk debatt i Norge.
+
+Det vil være ulikt hvor nær en arbeidstaker står til det som oppleves som etisk problematisk; det vil si at ulike arbeidstakere kan være forskjellig stilt med hensyn til grad av kausal involvering. Når det gjelder vielser, vil vigsleren, som erklærer partene for rette ektefolk, være nærmere ekteskapsinngåelsen enn andre involverte. Her er det i prinsippet ikke forskjell mellom kirkelige og borgerlige vigslere.
+
+For andre, som for eksempel medvirker ved saksbehandling forut for ekteskapsinngåelsen, kan det hevdes at årsakssammenhengen er mer avledet. Disse forbereder grunnlaget for en avgjørelse, men foretar ikke selv den rettsstiftende handlingen. Denne prøvingen er dessuten standardisert, og gir lite rom for saksbehandlers skjønn. Andres medvirkning er enda mer avledet. Det kan for eksempel gjelde personer som pynter lokalet hvor ekteskapsinngåelsen skal skje.[^365] Utvalget er kjent med noen saker fra amerikanske og britiske medier hvor næringsdrivende, blant annet bakere, florister og fotografer, har nektet å levere varer og tjenester til feiring av bryllup mellom likekjønnede. Etter utvalgets mening er det klart at disses handlinger ikke ville kunne utgjøre en moralsk relevant medvirkning til selve ekteskapsinngåelsen.[^366] For disse personene har de moralske kvalene i stedet dreiet seg om hvorvidt det er riktig av dem å bruke sin kunstneriske/håndverkerfaglige ekspertise til en feiring av en moralsk realitet (det likekjønnede ekteskapet) som de anser som moralsk eller religiøst problematisk. En tilsvarende handling ville i Norge antakelig være straffbar etter den norske straffelov av 2005 § 186 og grunnlag for erstatning etter diskrimineringsloven om seksuell orientering § 24 jf. § 5.
+
+Når det gjelder barnevernansatte som går på hjemmebesøk til potensielle adoptivforeldre, eller ansatte i Bufetat som gir godkjennelse for adopsjon, vil disse medvirke til å forberede grunnlaget for en avgjørelse. Saksforberedelse i adopsjonssaker innebærer bruk av skjønn i større grad enn prøving av ekteskapsvilkår, noe som kan være et argument for at det gis adgang til å reservere seg. Det kan også hevdes at potensielle adoptivforeldre kan ha interesse av å bli vurdert av saksbehandlere som ikke er motstandere av homofil samlivsform.
+
+Hvorvidt man befinner seg innenfor offentlig eller privat sektor, kan tenkes å ha betydning for hvorvidt det bør gis adgang til reservasjon. Det kan også ha betydning om arbeidsgiver er et trossamfunn eller ikke. Det kan vises til at inngåelse av ekteskap for tingretten er en forvaltningsoppgave, og at en offentlig tjenestemann må vise respekt for de til enhver tid gjeldende lover og regler. Demokratihensyn kan tilsi at det her i mindre grad enn for religiøse trossamfunn legges vekt på samvittighetsfriheten. Offentlige instanser har dessuten en lovfestet plikt til å fremme likebehandling, også med hensyn til seksuell orientering.[^367]
+
+Om arbeidsgiver er offentlig eller privat trenger likevel ikke i seg selv være noe vektig juridisk moment. Verken i Ladele-saken (offentlig arbeidsgiver) eller i McFarlane-saken (privat arbeidsgiver) ble dette tillagt vekt i noen retning. Også McFarlanes private arbeidsgiver var underlagt etiske bransjeregler som påla virksomheten å fremme likestilling, blant annet med hensyn til seksuell orientering.
+
+Den rettslige forankringen for arbeidsgivers/oppdragsgivers ordre kan ha betydning for legitimiteten. Som nevnt innledningsvis vil det ligge innenfor menneskerettighetene slik de tolkes i dag at en stat velger å godkjenne likekjønnede ekteskap. Ved avveiningen mellom flere menneskerettigheter, som religions- og livssynsfrihet og diskrimineringsvern for homofile, har imidlertid statene etter Den europeiske menneskerettsdomstolens praksis et vidt handlingsrom. En vil altså innenfor visse grenser kunne prioritere mellom religions- og livssynsfrihet og diskrimineringsvern for homofile, for eksempel ved å åpne for individuell reservasjon så lenge det sørges for at homofiles rettigheter ikke blir krenket.
+
+I Norge er det vedtatt gjennom lovgivning at homofile skal likestilles med heterofile når det gjelder adgang til å inngå ekteskap og adopsjon. Demokratihensyn kan da tale mot at det gis adgang eller rett til reservasjon i disse tilfellene med mindre det fastsettes i lov. Endringene i ekteskapsloven i 2008 som blant annet innebærer at to personer av samme kjønn kan inngå ekteskap var imidlertid politisk omstridt. Selv om det er et flertall i folket for å anerkjenne likekjønnede ekteskap, er det stadig et relativt betydelig mindretall som er mot. Når det gjelder adopsjonsrettigheter for likekjønnede par er meningene enda mer delte.[^368] Det kan derfor argumenteres for at hensynet til motstanderne kan tale for å lovfeste en reservasjonsadgang.
+
+Vigslere i trossamfunn har som nevnt lovfestet reservasjonsrett. Kirkemøtet for Den norske kirke vedtok 11. april 2016 at det skal utarbeides en liturgi som omfatter likekjønnede par. Når denne liturgien blir utarbeidet, vil det kunne bli forventninger både fra kirkens ledelse og fra likekjønnede som ønsker kirkelig vigsel, om at vielsen faktisk gjennomføres. Blant annet har kulturminister Linda Cathrine Hofstad Helleland uttalt at homofile skal få gifte seg i sin lokale kirke.[^369] En reservasjonsadgang eller -rett kan derfor tenkes å få betydning for en vigslers videre karriere innenfor kirken. Samtidig har Kirkemøtet uttalt at prester fortsatt skal kunne reservere seg mot å vie likekjønnede, men at alle medlemmer skal kunne inngå ekteskap i sin lokale kirke.[^370]
+
+Borgerlige vigslere har i dag ingen reservasjonsrett eller -adgang. Det forutsettes dermed at for eksempel dommere i tingretten må utføre vielser av alle som ønsker det og som oppfyller lovens vilkår, herunder likekjønnede. Dersom en borgerlig vigsler nekter å utføre vielser av likekjønnede, vil konsekvensen kunne være tap av stilling eller manglende tilgang til en bestemt arbeidsplass. Det er bare en liten del av det totale arbeidsmarkedet hvor man ikke kan arbeide på grunn av denne type reservasjonsønsker. Det vil likevel kunne være et hinder for videre yrkeskarriere for jurister innenfor domstolene.
+
+Selv om det vil være flere ansatte i Bufetat som kommer i berøring med adopsjonssaker, utgjør dette også et nokså begrenset område. En del ansatte i barnevernet vil kunne forberede saker om godkjenning for adopsjon, og en manglende reservasjonsrett vil her kunne få større betydning for arbeidstakers yrkeskarriere.
+
+Et moment som har vært tillagt vekt ved vurderingen av om reservasjonsønsker bør respekteres, kan være om personen har tatt en viss utdanning eller valgt et visst arbeidsforhold vitende om at denne type arbeidsoppgaver inngår, eller om dette er en problemstilling som er oppstått senere. Innrettelseshensyn vil således kunne være av betydning for om arbeidstaker har en berettiget interesse i å oppnå ansettelse eller fortsette i sitt yrke til tross for at det er visse deler av stillingens arbeidsoppgaver han eller hun ønsker å reservere seg mot. Så vel flertallet som mindretallet i Ladele-saken tilla det en viss vekt at Ladele var blitt ansatt hos sin arbeidsgiver før den britiske partnerskapsloven var vedtatt. Motsatt ble det tillagt vekt i McFarlanes disfavør at han hadde inngått arbeidsavtalen vitende om at hans arbeidsgiver også ga råd til homofile par.
+
+De praktiske ulempene for arbeidsgiver ved å tilrettelegge vil antakelig avhenge av organisasjonens størrelse. Økonomiske og organisatoriske ulemper kan være relevante, herunder også misnøye blant arbeidskollegaer over å skulle overta deler av arbeidsoppgavene. Likevel synes de praktiske ulemper for de fleste arbeidsgivere relativt begrensede, ettersom det inngås et begrenset antall likekjønnede ekteskap,[^371] og ettersom andre arbeidsoppgaver dominerer i slike stillinger. Det er også få barn som adopteres av likekjønnede par.[^372] Arbeidsgivers ønske om et visst omdømme, eller at man er pålagt å arbeide for likestilling, kan medføre at det blir problematisk å ha en arbeidstaker som ønsker å reservere seg mot arbeidsoppgaver som innebærer forskjellsbehandling på bakgrunn av seksuell legning. Dette ble tillagt vekt i den nevnte McFarlane-saken og av flertallet i den nevnte Ladele-saken.
+
+Likekjønnede par som ønsker kirkelig vielse kan føle det som en belastning at enkelte ønsker å reservere seg mot å vie dem, og dermed at deres samliv ikke blir vurdert på samme måte som for heterofile par. Dersom det skulle legges til rette for at enkelte borgerlige vigslere skulle få fritak fra å vie likekjønnede, vil likekjønnede par likevel få sin lovfestede rett til ekteskapsinngåelse oppfylt, og dermed antakelig ikke få vite om nektelsen. Videre kan likekjønnede par bli utsatt for følelsesmessige eller praktiske ulemper ved at barnevernsansatte eller ansatte ved Bufetats regioner reserverer seg mot å dra på hjemmebesøk eller behandle adopsjonssaker. Hvor stor denne ulempen vil være, vil antakelig avhenge av hvordan disse instansene ordner sine tjenester. Å nektes tjenester fra private næringsdrivende som ellers tilbys alle, vil trolig kunne oppleves som en betydelig belastning for de berørte.
+
+1.  **Samvittighetsnektelser og trygdeytelser under arbeidsledighet**
+
+*Situasjonsbeskrivelse*

@@ -1,896 +1,278 @@
-# Prop. 87 L (2018–2019), del 5 av 15 (side 51–60)
+# Prop. 87 L (2018–2019), del 5 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2019/c108c43b-prop-87-l-20182019.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-87-l-20182019/id2641322/
 - Original-PDF: https://www.regjeringen.no/contentassets/6b1e8ae0a39e4519ac1f95311ab622be/no/pdfs/prp201820190087000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 38 figurer, 204 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 51]
-
-2018–2019
-
-7.3.2
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-Høringsinstansenes syn
-
-Avrunding av tjenestetid
-Høringsnotatet vurderte ikke hvilke avrundingsregler for tjenestetid som skal gjelde for minstekravet til tjenestetid for å få rett til oppsatt påslagspensjon. Flere høringsinstanser har påpekt at det
-bør presiseres hvilke avrundingsregler som skal
-gjelde, eventuelt om minstekravet gjelder absolutt.
-Krav til medlemstid for rett til alderspensjon
-KLP legger til grunn at overføringsavtalen må
-gjelde både ved utbetaling av samlet pensjon, og
-ved vurderingen av oppfyllelse av vilkår for tjenestetid der det er aktuelt. For å sikre et enhetlig
-regelverk og pensjonssystem for alle elementene i
-ny påslagsordning, mener KLP derfor at overføringsavtalen også må gjelde ved vurdering av ettårskravet for oppsatt alderspensjon. Det betyr at
-det er samlet tjenestetid hos forskjellige arbeidsgivere/ordninger som må ligge til grunn ved vurderingene av om ettårskravet er oppfylt, og at lovteksten derfor bør endres.
-Arbeidstakerorganisasjonene, Gabler og NITO
-gir uttrykk for det samme. Arbeidstakerorganisasjonene viser for øvrig til at det i høringsnotatet er
-lagt til grunn at kravet til medlemstid for å få rett
-til oppsatt uføre- og etterlattepensjon skal videreføres med tre år. Organisasjonene kan ikke se at
-dette er en naturlig oppfølging av avtalen, og
-mener kravet til ett års tjenestetid også skal gjelde
-for retten til oppsatt uføre- og etterlattepensjon.
-De uttaler at det virker uhensiktsmessig å ha ulike
-krav til opptjeningstid i ulike ytelser.
-Fleksibelt uttak av alderspensjon
-Flere av høringsinstansene uttrykker en viss
-skepsis til den store graden av fleksibilitet som
-det er lagt opp til. Blant annet uttaler Gabler:
-«Gabler vil innledningsvis bemerke at det legges opp til en svært stor grad av fleksibilitet når
-det gjelder uttak av de ulike elementene i den
-nye pensjonsordningen. Påslagspensjon og
-oppsatt bruttopensjon kan tas ut gradert på
-samme måte som i NAV, dvs. i 20 prosents
-intervaller samt i 50 prosent. Pensjonen kan i
-tillegg stanses etter uttak og startes på nytt
-senere. Videre har ikke lovforslaget noen
-bestemmelser om at noen av de ulike elementene må tas ut samtidig. Det vises til at mange
-årskull vil ha en rekke komponenter i sin pen-
-
-49
-
-sjon: Påslagspensjon, oppsatt bruttopensjon,
-AFP/betinget tjenestepensjon, overgangstillegg og 2011-tillegg. En person med rett til 5 av
-disse elementene vil iht. det foreliggende lovforslag kunne ta ut hvert enkeltelement på
-ulike tidspunkt. Dette vil være krevende å
-håndtere og medføre kompliserte pensjonsberegninger, og det vil også være utfordrende å gi
-medlemmene korrekt informasjon om hvilke
-valgmuligheter som finnes. Gabler ber departementet vurdere å begrense fleksibiliteten
-noe.»
-Gabler viser ellers til at lave uttaksgrader kan gi
-svært lave pensjonsutbetalinger, og mener det bør
-vurderes om det skal settes en nedre grense for
-hvor lav pensjonen kan bli ved gradert uttak. Det
-samme påpeker Statens pensjonskasse og mener at
-det derfor bør fastsettes regler for når påslagsbeholdningen kan utbetales som et engangsbeløp,
-samt eventuelt regler for omregning til en kortere
-utbetalingsperiode.
-Oslo kommune stiller også spørsmål ved fleksibiliteten, og Den Norske Aktuarforening mener på
-sin side at reglene for fleksibelt uttak av alderspensjon bør være like i offentlig og privat sektor.
-KLP påpeker at for at en enklere skal kunne håndtere en samlet utbetaling, er det nødvendig med
-endringer i det foreslåtte regelverket. KLP mener
-departementet bør vurdere å stille krav om samtidig uttak av alle alderspensjonsytelsene (påslagspensjon, bruttopensjon, betinget tjenestepensjon
-og 2011-tillegget) og ha lik fleksibilitet i uttaksgrader for alle alderspensjonsytelser, etter samme
-regler som i folketrygden. KLP spør hvorfor det
-skal være en begrensning på 100 prosent ved
-kombinasjon av uførepensjon og påslagspensjon i
-offentlig tjenestepensjon og uttaler videre:
-«KLP viser også til at det å kunne ta ut pensjonen før 67 år gir økt fleksibilitet for den enkelte.
-Blant yrkesaktive er det mange som tar ut
-alderspensjon i folketrygden før 67 år, noe som
-viser at denne muligheten er verdsatt. Verdien
-av å ha denne muligheten vil trolig være større
-for uføre ettersom de i gjennomsnitt har lavere
-forventet levealder enn de yrkesaktive.»
-Pensjonistforbundet er av samme oppfatning og
-kan ikke se noen gode argumenter for at uføre
-skal få redusert sine muligheter for uttak sammenlignet med hva andre har.
-Oslo Pensjonsforsikring (OPF) peker på at det
-er viss forskjell i den foreslåtte fleksibiliteten
-avhengig av hvilket pensjonselement det er tale
-
-[Side 52]
-
-50
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-om, noe som etter OPFs oppfatning er uheldig, da
-det skaper mye kompleksitet og gjør det vanskeligere for det enkelte medlem i tjenestepensjonsordningen å orientere seg om sine rettigheter.
-OPF mener derfor det bør kreves likt uttak av de
-forskjellige pensjonselementene den enkelte har
-rett til. OPF er enig i at det bør være anledning til
-å kombinere uttak av alderspensjon fra tjenestepensjonsordningen med uførepensjon fra tjenestepensjonsordningen, men gir uttrykk for at det må
-stilles krav til at det samlede uttaket er 100 prosent.
-Tidspunkt for uttak og opphør av alderspensjon – utbetalingsperiode
-Arbeidstakerorganisasjonene viser til at innstrammingen av hvor lenge alderspensjon utbetales ved
-dødsfall ikke var en del av forhandlingene, og
-mener at reglene må videreføres som i dag. De
-skriver at forslaget kniper inn en måneds pensjonsutbetaling til svært mange offentlig ansatte
-og er en innstramming de ikke aksepterer.
-Ytelsen er et viktig bidrag til omstilling ved tap av
-ektefelle i en husholdning. Det presiseres at
-denne rettigheten i dagens ordning er en bruttoytelse, som også i framtidig påslagsordning må
-ivaretas for ikke å reduseres i verdi. Forsvar
-offentlig pensjon og NITO er av samme oppfatning.
-SPK og Gabler påpeker de praktiske konsekvensene av at ulike ytelser opphører til ulik tid,
-og SPK viser til at dette vil komplisere implementeringen i systemet og kommunikasjonen om pensjon til ektefelle, arvinger eller dødsbo.
-Arbeidstakerorganisasjonene skriver videre at
-forslaget i høringsnotatet vil innebære en ytterligere innstramming når det gjelder starttidspunktet for pensjonen, ved at pensjonen først kan løpe
-fra måneden etter man har meldt uttak av pensjon
-og etter fylte 62 år. Organisasjonene uttaler at det
-er vanskelig å akseptere at pensjonen ikke lenger
-skal løpe fra den dagen man fyller 62, slik dagens
-regler tilsier og som gir rett til pensjon fra det tidspunkt man ikke lenger oppebærer lønn. Arbeidstakerorganisasjonene mener at det er sterke argumenter for at pensjonsytelsen følger tidspunktet
-for fratreden selv om nytt pensjonssystem åpner
-for uttak av pensjon uavhengig av fratreden. Er
-man født tidlig i en måned, risikerer man å stå
-uten inntekt eller pensjon fram til neste måned.
-Arbeidstakerorganisasjonene kan ikke støtte et
-forslag som innebærer at medlemmer kan stå
-uten inntekt i en så lang periode. Deres kommentarer gjelder også tidspunktet for uttak og opphør
-
-2018–2019
-
-av AFP, overgangstillegg mv. Forsvar offentlig pensjon er av samme mening.
-Omregning ved endring i pensjonsgrad eller stans av
-pensjon og omregning ved opptjening etter pensjonsuttak
-Få høringsinstanser har uttalt seg om dette.
-Gabler påpeker at de offentlige tjenestepensjonsordningene tilsynelatende skal legge ny opptjening til løpende pensjon i januar året etter at opptjeningen har skjedd, mens dette etter folketrygdloven § 20-17 tredje ledd skal skje i januar året
-etter at inntekten er lignet, som er året etter at
-inntekten ble opptjent. Gabler viser i denne forbindelse til at den store fleksibiliteten som det legges
-opp til, vil kreve betydelige investeringer i systemutvikling for å kunne omregne løpende pensjoner
-og oppdatere påslagsbeholdningene maskinelt.
-SPK viser til forslaget til lov om Statens pensjonskasse § 6-5 andre ledd om at ny opptjening
-etter uttak av delvis pensjon vil bli lagt til pensjonen først ved endring av uttaksgrad. Det vises til
-folketrygdloven § 20-17 andre ledd, der det går
-fram at opptjente rettigheter i slike tilfeller også
-kan tillegges pensjonen dersom medlemmet selv
-ber om det. SPK ser behov for tilsvarende regler
-for påslagspensjon.
-
-7.3.3 Departementets vurdering og forslag
-Avrunding av tjenestetid
-Høringsnotatet har ikke omtalt hvilke avrundingsregler for tjenestetid som skal gjelde for minstekrav til tjenestetid for rett til oppsatt påslagspensjon. Flere høringsinstanser har påpekt at det bør
-presiseres hvilke avrundingsregler som skal
-gjelde, eventuelt om minstekravet skal gjelde
-absolutt slik som i dagens ordning.
-Departementet er enig i at det bør presiseres
-hvilke avrundingsregler som skal gjelde og foreslår at tjenestetid etter kapittel 5 a måles i år og
-fastsettes med én desimal. En arbeidstaker som
-har vært medlem i for eksempel 350 dager vil da
-få fastsatt tjenestetiden til 1,0 år. Departementet
-mener det er hensiktsmessig med ett mål på tjenestetid og foreslår derfor at minstekravet til tjenestetid skal gjelde tjenestetid etter avrunding.
-Departementet foreslår ingen endring i hvordan
-tjenestetiden skal fastsettes for bruk i dagens ordninger.
-Se punkt 7.3.4 om utformingen av lovendringer.
-
-[Side 53]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-Krav til medlemstid for rett til alderspensjon
-Departementet foreslo i høringsnotatet at minstekravet til opptjeningstid for å få rett til en oppsatt
-pensjonsrett fra den nye ordningen settes til ett år.
-Flere høringsinstanser har kommentert at de forutsetter at det er samlet opptjeningstid hos forskjellige arbeidsgivere/ordninger som må avgjøre
-hvorvidt kravet om ett års opptjeningstid er oppfylt.
-Departementets intensjon med lovforslaget er
-at tjenestetid skal forstås som samlet tjenestetid,
-dvs. samlet tid hos forskjellige arbeidsgivere/ordninger. Departementet foreslår at det går eksplisitt fram av lovforslaget at samlet tjenestetid må
-være minst ett år for å få rett på oppsatt påslagspensjon og betinget tjenestepensjon.
-I høringsnotatet presiserte departementet at
-reduksjonen i kravet til opptjeningstid for å få rett
-til oppsatt påslagspensjon ikke skal medføre en
-utvidet rett til oppsatt uførepensjon for dem som
-omfattes av påslagspensjon. Arbeidstakerorganisasjonene har uttrykt at dette ikke er en naturlig oppfølging av avtalen og mener krav til ett års tjenestetid også skal gjelde for rett til oppsatt uføre- og
-etterlattepensjon.
-Avtalens punkt om ett års krav til oppsatt pensjon lyder: «De som har minst ett års samlet tjenestetid, får en oppsatt rett til alderspensjon fra
-påslagsordningen.» Slik departementet ser det,
-går det tydelig fram av avtalen at punktet gjelder
-påslagspensjon og ikke en utvidet rett til oppsatt
-pensjon av andre ytelser. Departementet opprettholder lovforslaget som presiserer at ettårskravet
-ikke gjelder for oppsatt rett til uførepensjon.
-Departementet viser til Stortingets vedtak nr.
-108, punkt 47, 5. desember 2016, der Stortinget
-ber regjeringen fremme en sak med vurdering av
-å oppheve reglene som gjør at man må ha vært
-medlem av Statens pensjonskasse i tre år for å få
-rett til pensjon. Departementet presiserer at lov
-om Statens pensjonskasse § 23 ikke innebærer et
-minstekrav for opptjening for utbetaling av pensjon for personer som står i aktiv stilling når pensjonen skal tas ut. Det foreslås heller ikke et slikt
-minstekrav i de nye ordningene. Det er bare i tilfeller der personen har fratrådt stilling før pensjonsalder at det er et krav om at tjenestetiden er
-minst tre år for at man har rett på oppsatt alderspensjon. Departementet viser videre til at treårskravet i § 23 gjennom overføringsavtalen, jf. lov
-om Statens pensjonskasse § 20 første ledd bokstav
-f, i dag er knyttet til samlet medlemstid i offentlige
-tjenestepensjonsordninger. Dersom man for
-eksempel bare har to års medlemstid i Statens
-
-51
-
-pensjonskasse, men minst ett ytterligere år i en
-annen offentlig tjenestepensjonsordning, vil man
-derfor ha rett på å få utbetalt pensjon, også dersom man ikke står i stilling når pensjonen kan tas
-ut.
-Departementet viser til punkt 11.2.3 der departementet presiserer at medlemmer født i 1963
-eller senere med tjenestetid før 2020, får en oppsatt pensjonsrett for tiden før 2020 dersom samlet
-opptjeningstid, dvs. både tid før og etter 2020, er
-minst tre år. Dagens krav om minst tre års tjenestetid vil derfor fortsatt bare ha betydning for personer som ikke er medlem i en offentlig tjenestepensjonsordning ved pensjonsalder og som samlet sett har hatt kortere enn tre år i offentlig sektor. Det vil derfor være snakk om svært lav opptjeningstid, som skal samordnes med alderspensjon
-fra folketrygden og som derfor ville gitt svært lave
-pensjonsnivåer. Det er i dag regler i privat tjenestepensjon som gjør at man ikke får opptjening ved
-kortvarige arbeidsforhold, men ingen regler som
-sier at samlet opptjening minst må være tre år for
-at man har rett på en oppsatt pensjon. I privat sektor er det imidlertid ingen garantert regulering av
-rettighetene etter fratreden, administrasjonskostnadene ved forvaltningene av pensjonsmidlene
-skal dekkes av avkastningene på midlene og det
-er ingen overføringsavtale som gjør at det er samlet opptjening i privat sektor som er av betydning.
-Kortvarige arbeidsforhold gir av den grunn liten
-opptjening også i privat sektor.
-Departementet viser videre til at personer som
-samlet har hatt mindre enn tre års opptjening i
-offentlig sektor har vært dekket av uføre- og etterlatteordningene mens de var medlem av en offentlig tjenestepensjonsordning. Videre vil alle offentlig ansatte som er født i 1963 eller senere, etter
-forslagene i proposisjonen her, tjene opp rett til
-alderspensjon etter nye regler, der dagens treårsregel ikke har betydning. Det vises også til at
-dagens minstekrav for å bli medlem av pensjonsordningen foreslås opphevet i punkt 7.2.3, noe
-som vil innebære at alle som står i aktiv stilling
-ved pensjonsalder, vil få rett til pensjon. På det
-grunnlaget, og som følge av at avtalen fra 3. mars
-2018 ikke inneholder noen punkter om endringer
-i treårskravet i dagens ordninger, vil departementet ikke fremme forslag om å oppheve kravet om
-tre års tjenestetid i lov om Statens pensjonskasse
-§ 23.
-Departementet foreslår her, i tråd med avtalen
-3. mars, at man har rett til oppsatt påslagspensjon
-dersom samlet tjenestetid er minst ett år.
-Se punkt 7.3.4 om utformingen av lovendringer.
-
-[Side 54]
-
-52
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-Fleksibelt uttak av påslagspensjon
-Det har ikke kommet innvendinger mot forslaget
-om at årlig påslagspensjon skal framkomme ved å
-dividere påslagsbeholdningen med folketrygdens
-delingstall ved uttaksalder. Departementet viser
-til at dette er tilsvarende som for alderspensjon fra
-folketrygden, og at dette vil ivareta både levealdersjusteringen av påslagspensjon og nøytrale
-uttaksregler. Nøytrale uttaksregler sikrer at årlig
-pensjon blir høyere jo senere den tas ut og er en
-forutsetning for at påslagspensjon fritt kan kombineres med arbeidsinntekt. Departementet viser
-videre til at delingstallene i folketrygden gjelder
-både for kvinner og menn og at forslaget dermed
-også sikrer kjønnsnøytrale utbetalingsregler.
-Departementet opprettholder på den bakgrunnen
-forslaget om at årlig påslagspensjon skal framkomme ved å dividere påslagsbeholdningen med
-folketrygdens delingstall på uttakstidspunktet, og
-at påslagspensjon kan kombineres med arbeidsinntekt uten at pensjonen blir avkortet.
-Flere av høringsinstansene har uttrykt skepsis
-til den store graden av fleksibilitet det er lagt opp
-til når det gjelder uttak av de ulike pensjonselementene, og har bedt departementet om å
-begrense fleksibiliteten noe.
-Departementet ser at høringsnotatet har lagt
-opp til svært stor grad av valgfrihet og fleksibilitet,
-og deler høringsinstansenes syn om at fleksibiliteten bør begrenses noe. Departementets vurdering
-er at det vil være mest hensiktsmessig å begrense
-fleksibiliteten noe for overgangsordningene, men
-opprettholde mye av fleksibiliteten for påslagspensjon.
-Når det gjelder forholdet til de private tjenestepensjonsordningene, deler departementet synspunktene til de høringsinstansene som har argumentert for en viss harmonisering. I tjenestepensjonsloven åpnes det for at pensjonsuttaket kan
-være gradert, graden av uttak kan likevel ikke
-være mindre enn det som er nødvendig for at samlet årlig pensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. I innskuddspensjonsloven
-gis det også adgang til å ta ut mindre enn full
-alderspensjon. Etter lov om innskuddspensjon
-kan graden av uttak ikke være mindre enn det
-som er nødvendig for at årlig alderspensjon utgjør
-om lag 20 prosent av folketrygdens grunnbeløp.
-Departementet ser at det kan være hensiktsmessig at det også for påslagspensjon kreves et
-visst nivå på årlig pensjon for at pensjonen skal
-kunne tas ut gradert. Departementet foreslår at
-påslagspensjonen skal kunne tas ut med 20, 40,
-50, 60, 80, eller 100 prosent, men at påslagspensjo-
-
-2018–2019
-
-nen bare kan tas ut gradert dersom årlig påslagspensjon minst utgjør 30 prosent av folketrygdens
-grunnbeløp.
-I tjenestepensjonsloven kan uttaksgraden på
-ethvert tidspunkt etter uttak endres til fullt uttak.
-Det gis også adgang til å endre uttaksgraden ved
-fylte 67 år. Det samme gjelder i lov om innskuddspensjon. Høringsnotatets forslag om at
-uttaksgraden for påslagspensjon kan endres en
-gang i året, er altså noe mer fleksibelt enn det som
-gjelder i de private tjenestepensjonsordningene.
-Ettersom påslagspensjon for de fleste utbetales
-parallelt med folketrygdens alderspensjon, mener
-departementet fortsatt at det er naturlig å se hen
-til folketrygdens regler for endring av uttaksgrad.
-Departementet opprettholder derfor forslaget om
-at uttaksgraden kan endres med tolv måneders
-mellomrom, og at det ellers gis mulighet til å ta ut
-full pensjon og til å stanse uttaket.
-I høringsnotatet foreslo departementet at
-påslagspensjon ikke skal kunne tas ut når man
-mottar en 100 prosent uførepensjon, men at
-påslagspensjon kan tas ut så lenge summen av
-uføregraden og uttaksgraden av påslagspensjon
-ikke overstiger 100 prosent. KLP har stilt spørsmål om hvorfor det skal være en begrensning på
-100 prosent ved kombinasjon av uførepensjon og
-påslagspensjon og viste til at verdien av å ha
-mulighet til full fleksibilitet vil være minst like stor
-for uføre som for arbeidsføre. Pensjonistforbundet
-er av samme oppfatning. Arbeidstakerorganisasjonene har bedt departementet se nærmere på om
-begrensningen om at uføregraden og uttaksgraden for påslagspensjon ikke kan overstige 100
-prosent kan skape noen utfordringer ved at uføregraden ikke nødvendigvis er de samme prosentandelene som forslaget om uttaksgrad.
-Departementet kan ikke se at det det oppstår
-større utfordringer knyttet til forslaget om at summen av uføregraden og uttaksgraden for påslagspensjon ikke kan overstige 100 prosent, da et klart
-flertall har en uføregrad på 100 prosent eller 50
-prosent. I lovforslaget i høringsnotatet var formuleringen om hvorvidt det var mulig å ta ut påslagspensjon, knyttet til utbetalingsgraden for uførepensjonen. Departementet kan ikke se at det er
-nødvendig å knytte vilkåret til utbetalingsgraden
-og foreslår at vilkåret i stedet knyttes til uføregraden. Hvorvidt utbetalingsgraden avviker fra uføregraden, dvs. om uførepensjonen blir avkortet for
-inntekt eller ikke, vil da ikke påvirke uttaksmulighetene for påslagspensjon. Departementet foreslår derfor at medlemmer som mottar gradert uførepensjon kan ta ut gradert påslagspensjon, men
-at uttaksgraden for påslagspensjon begrenses slik
-
-[Side 55]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-at summen av uføregraden og uttaksgraden for
-påslagspensjon ikke kan overstige 100 prosent.
-SPK har pekt på at det ikke er beskrevet noe
-om forholdet mellom arbeidsavklaringspenger fra
-folketrygden (AAP) og påslagspensjon. AAP ytes
-fullt ut uten reduksjon i alderspensjon fra folketrygden, og SPK uttaler at det må avklares om
-SPK trenger en hjemmel for dette i tjenestepensjonsordningene. Departementet kan ikke se at
-det er behov for noen slik hjemmel ettersom
-uttaksgraden for påslagspensjon ikke er knyttet til
-folketrygden, hverken alderspensjon, uføretrygd
-eller AAP, men til uføregraden i tjenestepensjonsordningen.
-Det har ikke kommet motforestillinger mot
-forslaget om at påslagspensjon automatisk utbetales med 100 prosent fra og med måneden etter
-fylte 75 år, og departementet opprettholder dette
-forslaget.
-Se punkt 7.3.4 om utformingen av lovendringer.
-Tidspunkt for uttak og opphør av påslagspensjon
-Departementet foreslo i høringsnotatet at påslagspensjonen gis tidligst fra og med måneden etter
-melding om uttak av pensjon ble gitt, likevel tidligst fra og med måneden etter fylte 62 år. Arbeidstakerorganisasjonene omtaler dette som en innstramming og mener retten til pensjon må gjelde
-fra det tidspunktet man ikke lenger mottar lønn.
-Departementet mener at når uttaket av alderspensjon frikobles fra fratreden, kan ikke utbetalingen automatisk knyttes til fratreden. Uttak av
-alderspensjon må knyttes til melding om uttak.
-Alderspensjon fra folketrygden kommer tidligst til
-utbetaling fra måneden etter fylte 62 år. Etter
-departementets vurdering vil det være naturlig at
-tilsvarende gjelder for påslagspensjon. Påslagspensjon skal være et supplement til alderspensjonen fra folketrygden; ytelsen er ikke dimensjonert slik at den alene gir en tilstrekkelig inntektssikring. Departementet kan derfor ikke se at det
-er tungtveiende grunner til at påslagspensjon skal
-kunne utbetales en måned tidligere enn alderspensjon fra folketrygden. For dem som må slutte
-ved en gitt alder pga. særaldersgrense, foreslår
-departementet at disse skal kunne motta en tidligpensjon fram til 67 år, se kapittel 12. Dette betyr at
-de som må slutte før 62 år pga. særaldersgrense,
-ikke vil stå uten noen ytelse. Departementet opprettholder derfor forslaget om at påslagspensjon
-tidligst kan tas ut fra måneden etter fylte 62 år.
-I høringsnotatet foreslo departementet at
-påslagspensjon skal løpe ut måneden etter døds-
-
-53
-
-måneden. Det ble altså ikke foreslått bestemmelser om at påslagspensjon skal utbetales i ytterligere en måned dersom avdøde etterlater seg ektefelle eller særregler i tilfeller der et medlem dør
-uten at alderspensjonen er begynt å løpe. Flere av
-høringsinstansene er kritiske til forslaget i
-høringsnotatet. Arbeidstakerorganisasjonene viser
-til at dette ikke var en del av forhandlingene, og
-mener at reglene må videreføres som i dag. SPK,
-KLP og Gabler peker på administrative utfordringer knyttet til implementering og utfordringer
-knyttet til kommunikasjonen med ektefelle, arvinger eller dødsbo ved at ulike ytelser har ulikt
-opphørstidspunkt.
-Departementet viser til at alderspensjon fra
-folketrygden utbetales ut dødsmåneden, mens
-lovforslaget i høringsnotatet innebærer at påslagspensjonen utbetales i ytterligere én måned. Også
-alderspensjon etter tjenestepensjonsloven, som
-gir livsvarig pensjon i likhet med påslagspensjon,
-opphører ved død, og det er ingen forlenget utbetalingsperiode til eventuell gjenlevende ektefelle.
-Departementet mener dette taler for at det heller
-ikke i påslagspensjon bør være forlenget utbetaling til gjenlevende ektefelle.
-I dag er det bruttopensjonen, uten fratrekk for
-folketrygden, som utbetales i måneden(e) etter
-dødsmåneden. Påslagspensjon er betydelig lavere
-enn en usamordnet bruttopensjon, særlig for personer med pensjonsgrunnlag under 7,1 G. For
-den enkelte gjenlevende vil derfor en ekstra utbetalingsmåned med påslagspensjon i liten grad
-være en reell inntektssikring. Det vises til at
-offentlig tjenestepensjon har ektefellepensjon som
-utbetales som en livsvarig ytelse til gjenlevende
-ektefelle når et medlem dør. Enke- og enkemannspensjonen løper fra og med den måneden medlemmet dør og til og med måneden etter enkens
-eller enkemannens død. Departementet opprettholder forslaget fra høringsnotatet om at påslagspensjon skal løpe ut måneden etter dødsmåneden.
-Se punkt 7.3.4 om utformingen av lovendringer.
-Omregning ved endring i pensjonsgrad eller stans av
-pensjon
-I høringsnotatet argumenterte departementet for
-at det kan være hensiktsmessig at reglene for
-omregning ved endring i pensjonsgrad eller stans
-av pensjon tilsvarer reglene for alderspensjon fra
-folketrygden. Det har ikke kommet innvendinger
-mot dette.
-Departementet foreslår at dersom pensjonsgraden endres, skal påslagspensjon under utbeta-
-
-[Side 56]
-
-54
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-ling først legges tilbake i påslagsbeholdningen.
-Dette gjøres ved å multiplisere pensjonen med
-delingstallet på endringstidspunktet. Deretter
-beregnes ny pensjon ut fra en andel av samlet
-påslagsbeholdning som tilsvarer den nye uttaksgraden.
-Se punkt 7.3.4 om utformingen av lovendringer.
-Omregning av alderspensjon ved opptjening etter
-pensjonsuttak
-I høringsnotatet viste departementet til at det kan
-være hensiktsmessig at reglene for omregning av
-alderspensjon ved opptjening etter pensjonsuttak
-baseres på tilsvarende regler som for alderspensjon fra folketrygden. Departementet kan ikke se
-at det har kommet innvendinger mot forslaget om
-at personer som har tatt ut hel alderspensjon, får
-ny opptjening tillagt den løpende pensjonen.
-Gabler har påpekt at de offentlige tjenestepensjonsordningene tilsynelatende skal legge ny opptjening til løpende pensjon i januar året etter at
-opptjeningen har skjedd, mens dette etter folketrygdloven § 20-17 tredje ledd skal skje i januar
-året etter at inntekten er lignet. Ettersom opptjening av påslagspensjon ikke er avhengig av ligningsopplysninger, ser ikke departementet at det
-er nødvendig at omregningen av offentlig tjenestepensjon knyttes til når inntekten er lignet.
-Departementet opprettholder forslaget om at
-pensjonsopptjening etter uttak av hel alderspensjon regnes om til årlig pensjon ved hjelp av
-delingstallet på omregningstidspunktet, og legges
-til pensjonen som allerede løper. Departementet
-foreslår at omregninger foretas med virkning fra
-1. januar året etter at ny opptjening har skjedd.
-SPK har vist til at det ved delvis uttak i folketrygden er mulig at opptjente rettigheter tillegges
-pensjonen dersom medlemmet selv ber om dette.
-SPK ser behov for et tilsvarende regelverk for
-påslagspensjon. Arbeidstakerorganisasjonene har
-etterspurt hvorfor ikke opptjening etter uttak av
-gradert påslagspensjon kan komme til utbetaling
-fortløpende.
-Departementet ser at det kan være hensiktsmessig at det gis anledning til at opptjening etter
-uttak av gradert påslagspensjon kan komme til
-utbetaling, dersom et medlem ønsker dette.
-Departementet viser til at man kan få tillagt videre
-opptjening ved delvis uttak ved å stanse uttaket og
-igangsette med samme uttaksgrad, dvs. ved å oppdatere uttaksgraden. Denne muligheten vil være
-ivaretatt dersom det presiseres i loven at opptjening etter uttak av delvis alderspensjon tilføres
-
-2018–2019
-
-påslagsbeholdningen og kommer til utbetaling
-når uttaksgraden endres eller oppdateres.
-Departementet foreslår derfor at pensjonsopptjening etter gradert uttak skal tilføres påslagsbeholdningen og omregnes til pensjon når uttaksgraden endres eller oppdateres, og at det gis
-hjemmel i loven for å fastsette detaljerte regler om
-opptjening etter pensjonsuttak i forskrift.
-Se punkt 7.3.4 om utformingen av lovendringer.
-
-7.3.4
-
-De enkelte lovforslagene
-
-7.3.4.1 Innledning
-I dette punktet foreslår departementet endringer i
-de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i punkt 7.3.3.
-Endringer i lov om Statens pensjonskasse og lov
-om pensjonsordning for sykepleiere behandles i
-punktene 7.3.4.2 og 7.3.4.3.
-7.3.4.2 Lov om Statens pensjonskasse
-Bestemmelsene om tjenestetid og avrunding av
-tjenestetid følger av § 19. Forslag til endringer i
-§ 19 første ledd første punktum innebærer en presisering av hva som regnes som tjenestetid når
-tiden inngår i beregningen av pensjon. I forslaget
-til andre ledd videreføres bestemmelsene i nåværende første ledd tredje og fjerde punktum om
-avrunding av tjenestetiden, og det presiseres samtidig at bestemmelsene gjelder ved beregning av
-pensjon etter kapittel 5, 6 og 7. Det foreslås i nytt
-tredje ledd avrundingsregler for tjenestetid etter
-kapittel 5 a. I tredje ledd går det fram at tjenestetid
-benyttet i kapittel 5 a skal fastsettes i antall år,
-avrundet til én desimal.
-Det vises til lovforslaget, lov om Statens pensjonskasse § 19.
-Reglene om uttak av alderspensjon (påslagspensjon) foreslås gitt i ny § 26 c. Første ledd gir
-regler om tidligste og seneste uttakstidspunkt.
-Det går det fram at pensjonen tidligst gis fra og
-med måneden etter den måneden melding om
-uttak av pensjon blir gitt, likevel tidligst fra og
-med måneden etter fylte 62 år. Dersom pensjonen
-ikke er tatt ut innen fylte 75 år, skal pensjonen
-utbetales fra og med måneden etter fylte 75 år.
-Andre ledd gir regler for hvordan årlig pensjon
-skal beregnes ved uttak. Det går fram at alderspensjonen skal fastsettes på grunnlag av påslagsbeholdningen på uttakstidspunktet ved at beholdningen divideres med delingstallet på uttakstidspunktet for pensjonen.
-
-[Side 57]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-Det følger av tredje ledd at alderspensjonen
-kan tas ut helt eller delvis med gradene 20, 40, 50,
-60, 80, eller 100 prosent. I andre punktum stilles
-det som krav at årlig påslagspensjon minst må
-utgjøre 30 prosent av folketrygdens grunnbeløp
-på uttakstidspunktet for at pensjonen kan tas ut
-gradert. I tredje punktum går det fram at dersom
-et medlem mottar midlertidig uførepensjon eller
-uførepensjon, kan ikke summen av uføregrad og
-uttaksgrad etter denne paragrafen overstige 100
-prosent.
-Av forslaget til § 26 c fjerde ledd følger det at
-pensjonsgraden kan endres eller oppdateres når
-det har gått ett år fra uttakstidspunktet eller ett år
-fra tidspunktet da uttaksgraden sist ble endret
-eller oppdatert. I andre punktum presiseres det at
-medlemmet likevel kan ta ut full pensjon eller
-stanse pensjonen uavhengig av bestemmelsene i
-første punktum. Endelig i tredje punktum presiseres det at ved fylte 75 år utbetales full pensjon.
-Av forslaget til § 26 c femte ledd går det fram
-at dersom pensjonsgraden endres eller oppdateres, skal pensjonen gjøres om til en beholdning
-ved å multiplisere pensjonen med delingstallet på
-endringspunktet. Dette beløpet skal legges
-sammen med eventuell beholdning som ikke er
-tatt ut. I tredje punktum går det fram at pensjonen
-deretter skal beregnes etter bestemmelsene i
-denne paragrafen.
-Endelig går det fram av forslaget til § 26 c
-sjette ledd at pensjonen kan kombineres med
-arbeidsinntekt uten at pensjonen blir avkortet.
-Reglene om ny opptjening etter uttak foreslås
-gitt i ny § 26 d. Første ledd gir regler om videre
-opptjening etter uttak av hel alderspensjon. Det
-går fram at ved uttak av hel alderspensjon skal
-pensjonsopptjening som tilføres påslagsbeholdningen etter uttak, regnes om til årlig pensjon ved
-hjelp av delingstallet på uttakstidspunktet, og legges til pensjonen som allerede løper. I andre punktum presiseres det at omregningen skal foretas
-med virkning fra 1. januar året etter at opptjeningen fant sted. Andre ledd gir regler om videre
-opptjening etter uttak av gradert alderspensjon.
-Det går fram at ved uttak av gradert alderspensjon
-skal pensjonsopptjening som tilføres påslagsbeholdningen etter uttak omregnes til pensjon etter
-§ 26 c femte ledd når uttaksgraden endres eller
-oppdateres. I tredje ledd gis det en hjemmel til å
-fastsette forskrift om gjennomføring av denne
-paragrafen.
-Det foreslås at bestemmelser om oppsatt pensjon for tjenestetid etter 2019 gis i ny § 26 g. Det
-følger av bestemmelsene at et medlem som fratrer
-stillingen med minst ett års samlet tjenestetid uten
-
-55
-
-rett til straks løpende pensjon, har rett til oppsatt
-påslagspensjon og oppsatt betinget tjenestepensjon etter reglene i kapittel 5 a.
-Reglene om fastsetting av delingstall foreslås
-gitt i ny § 26 k. Det går fram at det skal benyttes
-delingstall fastsatt av Arbeids- og velferdsdirektoratet, jf. folketrygdloven §§ 20-12 og 20-13.
-Videre foreslås det bestemmelser om opphør
-av pensjon i ny § 26 l, der det i første ledd slås fast
-at påslagspensjon opphører ved utgangen av
-måneden etter måneden medlemmet døde.
-Det vises til lovforslaget, lov om Statens pensjonskasse §§ 26 c, 26 d, 26 g, 26 k og 26 l første
-ledd.
-Departementet viser til at det i høringsnotatet
-ble presisert at reduksjonen i kravet til opptjeningstid for å få rett til oppsatt påslagspensjon, jf.
-§ 26 g, ikke skal medføre en utvidet rett til oppsatt
-uførepensjon. Bestemmelsen om oppsatt uførepensjon i lov om Statens pensjonskasse § 27 femte
-ledd foreslås derfor endret slik at det går fram at
-medlemmet må ha fratrådt stillingen med minst
-tre års samlet tjenestetid for å få rett til oppsatt
-uførepensjon.
-Det vises til lovforslaget, lov om Statens pensjonskasse § 27 femte ledd.
-Departementet viser til at de lovfestede tjenestepensjonsordningene kan sette som vilkår for
-rett til pensjon at medlemmet samtidig setter fram
-krav om ytelser fra folketrygden. Dette følger
-blant annet av lov om Statens pensjonskasse § 44
-tiende ledd. Departementet foreslår at bestemmelsen endres, slik at dette ikke skal gjelde for
-pensjon etter kapittel 5 a, med unntak av oppsatt
-pensjon etter § 26 h.
-Det vises til lovforslaget, lov om Statens pensjonskasse § 44 tiende ledd.
-
-7.3.4.3 Lov om pensjonsordning for sykepleiere
-Pensjonsordningen for sykepleiere er regulert i
-lov 22. juni 1962 nr. 12. Regelverket er i store
-trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens
-pensjonskasse i punkt 7.3.4.2, gjøres i lov om pensjonsordning for sykepleiere. I tillegg blir det presisert i § 19 a første ledd at det kreves minst tre
-års samlet tjenestetid for å få rett til oppsatt enkeeller enkemannspensjon.
-Det vises til lovforslaget, lov om pensjonsordning for sykepleiere §§ 5, 11 c, 11 d, 11 g, 11 k og
-11 l første ledd, samt § 12 femte ledd, § 19 a første
-ledd og § 36 tredje ledd.
-
-[Side 58]
-
-56
-
-7.3.4.4
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-Lov om pensjonsordning for
-apotekvirksomhet mv.
-
-Pensjonsordning for apotekvirksomhet er regulert i lov 26. juni 1953 nr. 11. Regelverket er i store
-trekk sammenfallende med reglene i lov om Statens pensjonskasse. Selv om det i proposisjonen
-her ikke foreslås å innføre påslagspensjon i pensjonsordning for apotekvirksomhet mv, foreslår
-departementet at en tilsvarende endring som foreslått i lov om Statens pensjonskasse § 27 femte
-ledd, jf. punkt 7.3.4.2, gjøres i lov om pensjonsordning for apotekvirksomhet mv.
-Det vises til lovforslaget, lov om pensjonsordning for apotekvirksomhet § 10 femte ledd.
-
-7.4
-
-Regulering av pensjon og
-påslagsbeholdning
-
-7.4.1
-
-Pensjonsavtalen og forslagene
-i høringsnotatet
-Departementet foreslo at reguleringen av pensjon
-under utbetaling skal skje årlig fra 1. mai i samsvar med lønnsveksten og deretter fratrekkes 0,75
-prosent. Dersom pensjonen tas ut i månedene
-juni–april, foreslo departementet at fratrekket ved
-første regulering skal settes forholdsmessig ned
-ut fra når i perioden pensjonen ble tatt ut. Departementet viste til at tilsvarende bestemmelser gjelder for dagens alderspensjon.
-Med den nye alderspensjonsordningen opparbeider den enkelte pensjonsrettigheter i form av
-en påslagsbeholdning. Regulering av pensjon
-under opptjening vil dermed skje gjennom at
-påslagsbeholdningen reguleres, i motsetning til i
-dagens regler der pensjonsgrunnlaget følger
-utviklingen i den enkeltes lønnsnivå. Det framgår
-av pensjonsavtalen at beholdningen skal reguleres
-på samme måte som alderspensjon fra folketrygden. Opptjente alderspensjonsrettigheter i folketrygden reguleres ved at pensjonsbeholdningen årlig oppjusteres i takt med lønnsveksten med
-virkning fra 1. mai. I høringsnotatet foreslo departementet at påslagsbeholdningen skal reguleres
-årlig fra 1. mai i samsvar med lønnsveksten.
-7.4.2
-
-Høringsinstansenes syn
-
-Det er få høringsinstanser som har uttalt seg om
-regulering. SPK påpeker at det er behov for å
-tydeliggjøre hvordan reguleringen av beholdningen ved start, stopp og endring av påslagspensjon
-skal håndteres. SPK kan ikke se at det er direkte
-omtalt hvordan økt pensjonsopptjening som er til-
-
-2018–2019
-
-ført beholdningene etter uttak med virkning fra 1.
-januar, skal reguleres første gang. SPK antar imidlertid at en her skal følge samme prinsipper som i
-folketrygden, og legger til grunn at økt opptjening
-skal reguleres på samme måte som resten av
-beholdningen under utbetaling. Gabler viser til at
-det ikke kommer tydelig fram av høringsnotatet
-hvordan en skal behandle pensjonsopptjening
-hhv. før og etter G-reguleringen 1. mai. I folkevalgtordningen implementeres dette ved at opptjening fra og med 1. mai året før til og med 30. april i
-inneværende år reguleres opp med grunnbeløpet
-fra 1. mai i inneværende år. Gabler ser ingen gode
-argumenter for at det skal være annerledes i
-påslagsordningen.
-
-7.4.3 Departementets vurdering og forslag
-Det har ikke kommet innsigelser i høringen på at
-påslagsbeholdningen med virkning fra 1. mai
-reguleres med lønnsveksten og at påslagspensjon
-under utbetaling reguleres med virkning fra 1.
-mai med lønnsveksten fratrukket 0,75 prosent, og
-departementet opprettholder forslaget.
-Reguleringen skal fortsatt gjennomføres ved å
-benytte de reguleringsfaktorene som blir fastsatt
-for regulering av alderspensjon fra folketrygden,
-og departementet foreslår at dette også skal
-gjelde regulering av påslagsbeholdningen og
-påslagspensjonen.
-Departementet ser at det i høringsnotatet i
-liten grad er tydeliggjort hvordan reguleringen
-skal håndteres ved start, stopp og endring av pensjon. Departementet har lagt til grunn at dette
-skal følge de samme prinsippene som i folketrygden, og foreslår derfor at reguleringen i slike tilfeller skal ta hensyn til når på året endringen fant
-sted.
-Forslagene innebærer at påslagsbeholdning
-som ikke er omregnet til årlig pensjon skal reguleres i samsvar med lønnsveksten med virkning fra 1.
-mai. Dette gjelder både den delen av beholdningen
-som ikke er omregnet til årlig ytelse ved delvis
-uttak, og opptjening som har skjedd etter helt uttak
-og som ikke har blitt omregnet til årlig pensjon.
-Kapittel 8 i forskrift 22. desember 2009 nr.
-1810 om alderspensjon fra folketrygden inneholder detaljerte bestemmelser om regulering av
-alderspensjon ved endring av pensjonsgrad. Ved
-reduksjon av uttaksgrad eller stans av pensjon, tar
-reguleringen hensyn til når på året endringen fant
-sted. Er uttaksgraden pr. 1. mai lavere enn gjennomsnittlig uttaksgrad siste tolv måneder, sier § 83 at beholdningsstørrelser skal reguleres med
-lønnsvekst og deretter fratrekkes en faktor f1 lik:
-
-[Side 59]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-57
-
-gjennomsnittlig uttaksgrad siste år – uttaksgrad pr. 1. mai
-f 1 = 0,0075  ---------------------------------------------------------------------------------------------------------------------------------------------------100 % – uttaksgrad pr. 1. mai
-Ved førstegangsuttak, og ved økning av uttaksgrad, skal reguleringen ta hensyn til når på året
-uttaket eller gradsendringen fant sted. Er uttaksgraden pr. 1. mai høyere enn gjennomsnittlig
-
-uttaksgrad siste tolv måneder, sier § 8-4 at pensjon
-under utbetaling skal reguleres med lønnsvekst
-og fratrekkes deretter en faktor f2 lik:
-
-gjennomsnittlig uttaksgrad siste år
-f 2 = 0,0075  ----------------------------------------------------------------------------------------uttaksgrad pr. 1. mai
-Departementet mener at tilsvarende regler skal
-gjelde også for påslagspensjon og foreslår at det
-gis hjemmel i loven for at nærmere regler om
-dette fastsettes i forskrift.
-Se punkt 7.4.4 om utformingen av lovendringer.
-
-7.4.4
-
-De enkelte lovforslagene
-
-7.4.4.1 Innledning
-I dette punktet foreslår departementet endringer i
-de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i punkt 7.4.3.
-Endringer i lov om Statens pensjonskasse og lov
-om pensjonsordning for sykepleiere behandles i
-punktene 7.4.4.2 og 7.4.4.3.
-7.4.4.2 Lov om Statens pensjonskasse
-Bestemmelsene om regulering av pensjon følger i
-dag av lov om Statens pensjonskasse § 42, og det
-foreslås en rekke endringer i paragrafen. Forslagene om regulering av påslagsbeholdning og
-betingetbeholdning tas inn § 42 første ledd, der
-det slås fast at påslagsbeholdningen etter § 26 b
-og betingetbeholdning etter § 26 e, se punkt 8.4,
-skal reguleres årlig i samsvar med lønnsveksten. I
-annet punktum presiseres det at ved reduksjon av
-uttaksgrad eller stans av pensjon skal reguleringen ta hensyn til når på året endringen fant sted.
-Nåværende første ledd blir andre ledd.
-Bestemmelsen gjelder regulering av alderspensjon. Det går fram at regulering av alderspensjon
-etter kapittel 5 under utbetaling, skal foretas ved
-at pensjonsgrunnlaget reguleres årlig fra 1. mai i
-samsvar med lønnsveksten og fratrekkes deretter
-0,75 prosent. Andre punktum gjelder regulering
-av alderspensjon etter kapittel 5 a. Det går fram at
-regulering av alderspensjon etter kapittel 5 a
-under utbetaling, foretas ved at pensjonen reguleres årlig fra 1. mai i samsvar med lønnsveksten og
-
-fratrekkes deretter 0,75 prosent, men likevel slik
-at alderspensjon etter § 26 h reguleres etter første
-punktum. Det presiseres at ved førstegangsuttak
-og ved økning av uttaksgrad, skal reguleringen ta
-hensyn til når i året uttaket eller gradsendringen
-fant sted. Fjerde punktum gjelder regulering av
-overgangstillegg etter § 26 j. Det går fram at tillegget skal beregnes av det til enhver tid gjeldende
-grunnbeløpet i folketrygden, jf. punkt 9.4 nedenfor.
-Forslaget som gjelder nytt fjerde ledd første
-punktum, presiserer at oppreguleringen av pensjonsgrunnlaget ved 67 år gjelder bruttoberegnet
-alderspensjon etter kapittel 5. Bestemmelsen fastslår i dag at pensjonsgrunnlaget for medlemmer
-som fratrer sin stilling med alderspensjon eller
-avtalefestet pensjon før 67 år, skal omregnes fra
-måneden etter fylte 67 år ved at det oppreguleres
-med lønnsveksten fra fratredelsestidspunktet og
-fram til omregningstidspunktet. Denne bestemmelsen gjelder ikke for alderspensjon fra påslagsordningen.
-I nytt femte ledd er det gitt regler om regulering av oppsatt pensjon. Det går fram at pensjonsgrunnlaget for medlemmer som fratrer sin stilling
-uten rett til straks å få pensjon etter loven her eller
-lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse, jf. § 23, skal reguleres med
-lønnsveksten fram til tidspunktet det ytes pensjon
-etter loven her. I andre punktum presiseres det at
-det samme skal gjelde for oppsatt alderspensjon
-etter § 26 h før pensjonen tas ut. I tredje punktum
-går det fram at når en arbeidstaker har gått over
-fra et høyere til et lavere samlet pensjonsgrunnlag, jf. § 15 annet ledd, skal det tidligere grunnlaget som har betydning for pensjonsberegningen
-reguleres tilsvarende.
-Sjette ledd gjelder hvilken reguleringsfaktor
-som skal benyttes. Det går fram av sjette ledd at
-ved regulering av beholdninger, pensjoner og pensjonsgrunnlag etter første til femte ledd benyttes
-de reguleringsfaktorer Kongen fastsetter etter fol-
-
-[Side 60]
-
-58
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-ketrygdloven § 19-14 åttende ledd og § 20-18
-åttende ledd.
-I nytt sjuende ledd gis det en hjemmel til å fastsette forskrift om gjennomføring av denne paragrafen.
-Det vises til lovforslaget, lov om Statens pensjonskasse § 42.
-
-7.4.4.3 Lov om pensjonsordning for sykepleiere
-Pensjonsordningen for sykepleiere er regulert i
-lov 22. juni 1962 nr. 12. Regelverket er i store
-trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens
-pensjonskasse i punkt 7.4.4.2, gjøres i lov om pensjonsordning for sykepleiere.
-Det vises til lovforslaget, lov om pensjonsordning for sykepleiere § 39.
-
-7.5
-
-Barnetillegg til påslagspensjon
-
-7.5.1
-
-Pensjonsavtalen og forslagene
-i høringsnotatet
-Etter dagens regler gis det et tillegg til alderspensjonen fra offentlig tjenestepensjonsordning for
-pensjonister som forsørger barn under 18 år. For
-hvert barn ytes det et barnetillegg på 10 prosent
-av brutto alderspensjon etter levealdersjustering.
-Alderspensjonen med barnetillegg kan likevel
-ikke overstige 90 prosent av pensjonsgrunnlaget
-etter levealdersjustering. Beregningen av barnetillegget tar utgangspunkt i bruttopensjonen, dvs.
-pensjonen før samordning.
-Det ble ikke avtalt barnetillegg til påslagspensjonen i pensjonsavtalen, og departementet foreslo i høringsnotatet at det ikke skal gis barnetillegg i påslagsordningen. Dersom det ikke gis barnetillegg i påslagsordningen, vil barnetillegg til
-alderspensjonen i offentlig tjenestepensjon bli
-faset ut med bruttoordningen. De første årskullene som omfattes av nye ordninger vil ha store
-deler av sin tjenestepensjon opptjent i bruttoordningen og vil følgelig få barnetillegg knyttet til
-denne delen. Det innebærer en gradvis utfasing av
-barnetillegget over tid, slik at det ikke blir store
-forskjeller mellom påfølgende årskull.
-7.5.2 Høringsinstansenes syn
-Arbeidstakerorganisasjonene er mot at barnetillegg til alderspensjon ikke skal videreføres og
-uttaler:
-
-2018–2019
-
-«Arbeidstakerorganisasjonene viser til at fjerning av barnetillegg til alderspensjon var ikke
-en del av forhandlingene, og mener at ytelsesnivået må videreføres som i dag. At avtalen fra
-3. mars ikke omtaler barnetillegg er etter
-arbeidstakerorganisasjonenes syn et meget
-svakt argument for å fjerne ordningen med barnetillegg. Tvert imot taler dette etter arbeidstakerorganisasjonenes syn for at barnetillegg
-bør videreføres på samme nivå som tidligere.
-Arbeidstakerorganisasjonene mener departementet må legge fram forslag for Stortinget om
-utformingen av et barnetillegg tilpasset
-påslagsordningen. (…) Arbeidstakerorganisasjonene viser til at barnetillegg i dag er en del
-av alderspensjonen for offentlig ansatte, og at
-barnetillegget er en rettighet som bør være
-gjenstand for forhandlinger. De viser videre til
-at omfanget av barnetillegg til alderspensjonister er relativt beskjedent, og at kostnadene ved
-å videreføre barnetillegg i påslagsordningen vil
-ikke være store. De viser til at en fjerning av
-barnetillegg vil ha stor betydning for de alderspensjonister som mister tillegget. Blant dem er
-det mange som mottar alderspensjon med særaldersgrense som skal sikres ordninger som
-gjør at de ikke kommer dårligere ut enn hvis
-dagens regler videreføres.»
-Forsvar offentlig pensjon anfører at når dette bare
-berører relativt få alderspensjonister, og heller
-ikke er nevnt i avtalen, er det snarere et argument
-for å beholde barnetillegget, med nødvendig tekniske endringer for å tilpasse beregningsmetodikk i ny offentlig tjenestepensjon. LOP uttaler at
-dersom partene ønsket å fjerne barnetillegget,
-ville dette stått nedfelt. LOP mener at det er uheldig å tolke en ren unnlatelse som at ordningen
-ønskes bort. Oslo kommune stiller spørsmål om
-det ikke burde ha framgått av pensjonsavtalen at
-det ikke skal være barnetillegg til påslagspensjonen.
-Arbeidsgiverforeningen Spekter er enig med
-departementet i at ordningen med barnetillegg til
-alderspensjonen fases ut. De viser til at det er få
-pensjonister med rett til slikt tillegg og til at et viktig element i arbeidet med endring av offentlig tjenestepensjon var å få større likhet i pensjonsordningene i privat og offentlig sektor. NHO støtter
-også forslaget om å fjerne barnetillegget i alderspensjonen.
-SPK på sin side viser til konsekvensene for
-implementeringen av barnetillegget at det ikke
-skal gis barnetillegg i påslagsordningen, men at
-det videreføres i bruttoordningen. SPK uttaler
+## Opptjening av pensjon
+
+### Pensjonsavtalen og forslagene i høringsnotatet
+
+Påslagsbeholdning
+
+I avtalen går det fram at den enkelte arbeidstakers pensjonsopptjening skal akkumuleres i en beholdning. Dette tilsvarer utformingen av ny alderspensjon i folketrygden.
+
+I høringsnotatet ble det foreslått at en påslagsbeholdning skal danne grunnlaget for å beregne årlig påslagspensjon. Det ble videre foreslått at påslagsbeholdningen skal bygges opp ved summen av all pensjonsopptjening i påslagsordningen. I høringsnotatet ble det videre foreslått at dette skal skje ved at pensjonsgrunnlaget multipliseres med fastsatte opptjeningsprosenter og tilføres påslagsbeholdningen. Det ble foreslått at pensjonsopptjeningen skal tilføres påslagsbeholdningen årlig.
+
+Opptjeningssatsene
+
+I en påslagsordning skjer pensjonsopptjeningen ved at et opptjeningsgrunnlag multipliseres med fastsatte opptjeningssatser og tilføres beholdningen. I avtalen fra 3. mars går det fram at opptjeningssatsene i påslagsordningen skal være en grunnsats på 5,7 prosent av pensjonsgrunnlaget i inntektsintervallet 0–12 G og en tilleggssats på 18,1 prosent i inntektsintervallet 7,1–12 G.
+
+Pensjonsgrunnlag
+
+Definisjonen av pensjonsgrunnlaget endres ikke, og departementet foreslo i høringsnotatet at pensjonsgrunnlaget fortsatt skal være den faste arbeidsinntekten i det arbeidsforholdet som gir rett til medlemskap. Dette innebærer at bestemmelsene som framgår av kapittel 3 i lov om Statens pensjonskasse også vil gjelde for påslagsordningen, med unntak av § 15 og § 14 andre ledd.
+
+Opptjening gjennom året
+
+I høringsnotatet pekte departementet på at det ikke går fram av avtalen hvordan opptjeningen skal skje for medlemmer som har endringer i pensjonsgrunnlaget i løpet av året, for medlemmer som jobber deltid eller for medlemmer som kun jobber deler av et kalenderår. For medlemmer som i løpet av et kalenderår får endret pensjonsgrunnlag, jobber deltid, bytter stilling eller jobber i offentlig sektor kun deler av året, vil pensjonsopptjeningen for et gitt kalenderår være avhengig av hvordan opptjeningen gjennom året skjer. Dette skyldes tilleggssatsen for inntekt i intervallet 7,1–12 G som gjør at samlet opptjeningssats er lavere for pensjonsgrunnlag opp til 7,1 G enn for pensjonsgrunnlag i inntektsintervallet 7,1–12 G.
+
+Departementet foreslo i høringsnotatet at opptjeningen skal skje løpende. Departementet foreslo at opptjeningen for en periode med uforandret pensjonsgrunnlag skal fastsettes som det opptjeningen ville ha vært dersom vedkommende hadde hatt dette grunnlaget et helt kalenderår, dividert på 365 og multiplisert med antall dager i perioden. Departementet foreslo videre at for medlemmer med deltidsstilling skal den løpende opptjeningen utgjøre en forholdsmessig del av det opptjeningen ville vært dersom medlemmet hadde hatt fulltidsstilling.
+
+Videre foreslo departementet, i tråd med avtalen, at det gis opptjening til påslagspensjon fram til 75 år.
+
+Opptjening på grunnlag av uførepensjon
+
+I høringsnotatet foreslo departementet at uføre skal tjene opp påslagspensjon på grunnlag av pensjonsgrunnlaget for uførepensjonen, justert for uførepensjonens utbetalingsgrad.
+
+I avtalen fra 3. mars går det fram at spørsmålet om hvor lenge uføre skal tjene opp påslagspensjon, utsettes til etter at Stortinget har vedtatt reglene i folketrygden. Det ble vist til at departementet vil komme tilbake med forslag om hvor lenge uføre skal tjene opp rett til påslagspensjon.
+
+Pensjonsopptjening ved ulønnet permisjon
+
+Departementet la i høringsnotatet til grunn at permisjon uten lønn som gir rett til pensjonsgivende tjenestetid med hjemmel i lov om Statens pensjonskasse § 20 første ledd bokstav d, også skal gi pensjonsopptjening i påslagsordningen, men viste til at reglene teknisk må tilpasses at alderspensjonsordningen legges om.
+
+Departementet foreslo at det gis opptjening til påslagspensjon ved ulønnet permisjon ved at pensjonsgrunnlaget i stillingen legges til grunn som opptjeningsgrunnlag i permisjonstiden. Ved delvis permisjon foreslo departementet at pensjonsgrunnlaget skal justeres forholdsmessig. Departementet foreslo også en justering av dagens lovtekst gjennom at ordene «tjenestemennenes hovedsammenslutninger» erstattes av «hovedsammenslutningene». Forslaget til endring er en språklig oppdatering og innebærer ingen realitetsendring.
+
+### Høringsinstansenes syn
+
+Innmelding og medlemskap
+
+*KLP* viser til at det både etter avtalen og etter forslaget i høringsnotatet gis pensjonsopptjening fram til og med 75 år. Samtidig er det uttalt at dagens innmeldingsregler i offentlig tjenestepensjon ikke skal endres. KLP peker på at det i dag er regler som unntar personer fra medlemskap i offentlig tjenestepensjonsordning. Både i lov om Statens pensjonskasse (§ 8) og lov om pensjonsordningen for sykepleiere (§ 3 a) er det krav om å oppnå fem års tjenestetid fram til aldersgrensen for å bli innmeldt. Tilsvarende krav i kommunal sektor er tre år. Dette betyr at personer som faller inn under nevnte unntaksregler, ikke vil ha muligheten til å tjene opp påslagspensjon. Når det i ny ordning foreslås regler om minstekrav på ett år for oppsatt påslagspensjon, mener KLP at departementet bør vurdere om dagens unntaksregler for medlemskap bør endres.
+
+*SPK* er av samme oppfatning og viser til at en som starter å jobbe i medlemspliktig stilling etter 65 år, uansett ikke vil få rett til alderspensjon selv om han står i stilling til 75 år. SPK mener at det er grunn til å se på den øvre, alminnelige aldersgrensen på 70 år. Alternativt kan kravet endres til tre år for bruttopensjon og ett år for påslagspensjon.
+
+Påslagsbeholdning og opptjeningssatsene
+
+Høringsinstansene har i liten grad uttalt seg om opptjeningssatsene og forslaget om at opptjeningen skal akkumuleres i en pensjonsbeholdning. NHO uttaler imidlertid at man i offentlig sektor har avtalt å legge seg på et pensjonsnivå som svært få bedrifter i privat sektor kan unne seg.
+
+Pensjonsgrunnlag
+
+Selv om det i høringsnotatet er slått fast at det ikke er lagt opp til endringer i innholdet i begrepet «pensjonsgrunnlag», er det mange høringsinstanser som har kommentert dette og også påpekt ulike problemstillinger knyttet til begrepet. Noen tar til orde for en ny vurdering av hva som skal inngå i pensjonsgrunnlaget.
+
+*Arbeidstakerorganisasjonene* viser til at det ikke er avtalt å endre hvordan pensjonsgrunnlaget skal fastsettes. Etter organisasjonenes oppfatning, er ikke omtalen i høringsnotatet helt beskrivende for gjeldende regler, da en rekke faste og variable tillegg gjennom tariffavtaler er gjort pensjonsgivende. De viser til at det er ulike regler i staten og offentlig sektor for øvrig. Organisasjonene uttaler at beskrivelsen om at pensjonsgrunnlaget skal være den faste arbeidsinntekten i det arbeidsforholdet som gir rett til medlemskap står i motstrid til avtaler og praksis og lett kan misoppfattes slik det står i høringsnotatet. Organisasjonene viser ellers til at partene i hovedtariffavtalen i staten har satt ned en partssammensatt arbeidsgruppe for å vurdere pensjonsgrunnlaget i staten.
+
+*SPK* viser til at de med dagens regelverk har utfordringer knyttet til hva som skal være pensjonsgivende tillegg. Spesielt gjelder dette virksomhetenes rapportering av faste og variable pensjonsgivende tillegg. Så lenge definisjonen av pensjonsgrunnlaget ikke endres, er det derfor et ønske om at SPK får et tydeligere regelverk for hva som skal inngå i pensjonsgrunnlaget. Alternativt ser SPK fram til en ny vurdering av hva som skal inngå i pensjonsgrunnlaget, for eksempel i utgangspunktet etter samme modell som i folketrygden.
+
+*KLP* viser til at det i dag er lov/tariffavtaler som regulerer hva som er pensjonsgivende tillegg. Dette gjelder i både statlig og kommunal sektor. KLP legger til grunn at samme inntekt som i dag er pensjonsgivende i tjenestepensjonsordningen skal gi opptjening i påslagsordningen. KLP bemerker at når det i lovforslaget § 6-2 første ledd vises til at § 14 andre ledd i lov om Statens pensjonskasse ikke skal gjelde for påslagsbeholdningen, betyr dette at begrensningen om samlet pensjonsgrunnlag på 12 G i påslagsordningen ikke vil gjelde dersom man har to eller flere arbeidsgivere. KLP registrerer at dette er en utvidelse av dagens regler om maksimalt 12 G som samlet pensjonsgrunnlag.
+
+*NITO* viser til at bruken av begrepet «pensjonsgrunnlag» i forslaget til § 6-2 ikke bidrar til noen entydig begrepsbruk, fordi samme begrep da brukes i helt forskjellige sammenhenger. NITO foreslår at man i stedet bør bruke betegnelsen «opptjeningsgrunnlag».
+
+*Forsvar offentlig pensjon* peker på at spørsmålet om pensjonsgivende tillegg ikke er berørt i pensjonsavtalen, men at det bør tas opp mellom partene for å komme fram til en løsning der alle faste tillegg blir pensjonsgivende også i offentlig sektor.
+
+*Pensjonistforbundet* peker på det samme når det gjelder variable tillegg, og mener det bør vurderes å endre hvordan pensjonsgrunnlaget skal defineres, eller eventuelt andre tiltak som sikrer en pensjonsopptjening som står i forhold til den inntekten arbeidstakeren faktisk har mottatt.
+
+Opptjening gjennom året
+
+*SPK* støtter departementets forslag om løpende opptjening og mener dette er en fornuftig løsning. SPK viser til at høringsnotatet foreslår at opptjeningen skal skje løpende, men legges til beholdningen en gang i året. SPK mener at formuleringen her bør være: «opptjeningen skal skje løpende og legges til beholdningen». Med hvilken frekvens den enkelte pensjonsleverandøren ønsker å oppdatere beholdningen, bør være valgfritt, ifølge SPK. Nærmere regelverk bør eventuelt fastsettes i forskrift.
+
+*KLP* støtter også denne løsningen da den sikrer at dagens modell for premie- og reserveberegning og finansieringsmodell kan videreføres. KLP uttaler imidlertid at hvis pensjonen skal tjenes opp kontinuerlig, kan ikke pensjonsbeholdningen oppdateres årlig etterskuddsvis. KLP legger derfor til grunn at siste setning i § 6-2 femte ledd ikke knytter seg til pensjonsopptjeningen, men til den årlige justeringen av påslagspensjonen etter uttak av pensjon. KLP mener at denne etterskuddsvise justeringen er ivaretatt av lovforslagets § 6-5, og siste setning i § 6-2 femte ledd kan derfor fjernes.
+
+Også *OPF* støtter departementets forslag til løsning for opptjening gjennom året, og mener dette er den mest hensiktsmessige måten å gjøre opptjeningen på. OPF ser likevel grunn til å påpeke følgende:
+
+«I forslag til ny § 6-2 femte ledd i lov om Statens pensjonskasse er det foreslått at opptjeningen for hver periode med uforandret pensjonsgrunnlag fastsettes ved at pensjonsgrunnlaget multipliseres med antall dager i perioden og divideres med 365. OPF mener det ikke er nødvendig å presisere i regelverket hvilket antall dager året skal deles inn i. Dette fordi tjenestepensjonsleverandørene opererer med forskjellige periodiseringsfaktorer for et år. Således vil en konkret angivelse av antall dager kunne føre til dyptgripende systemtekniske endringer og resultatet for medlemmet vil uansett ikke bli endret.»
+
+*KS, Finans Norge og Gabler* gir uttrykk for det samme. KS påpeker at det er flere viktige hensyn som må ligge til grunn for hvordan opptjeningen periodiseres. De viktigste hensynene er å unngå urimelige utslag for enkeltindividers pensjonsrettigheter, samt at beregningsreglene ikke må medføre uforholdsmessige administrative byrder for arbeidsgiver. Gjeldende praksis for periodisering av opptjening er et resultat av en avveining mellom ulike hensyn, og er ikke omstridt. Bestemmelsen om løpende opptjening som departementet foreslår, vil kunne gi opphav til usikkerhet med hensyn til hvilken periodisering som skal gjelde for timelønnede, korte vikariater og merarbeid utover fast avtalt arbeidstid. KS mener på denne bakgrunnen at periodiseringen av opptjeningen ikke er egnet for lov- eller forskriftsregulering, og at forslaget om løpende opptjening derfor bør frafalles. For øvrig støtter KS forslaget om at opptjening i en deltidsstilling utgjør en forholdsmessig del av opptjeningen for en fulltidsstilling, da en slik detaljering er nødvendig for å unngå urimelige utslag for enkeltindividers pensjonsopptjening.
+
+Opptjening på grunnlag av uførepensjon
+
+*Arbeidstakerorganisasjonene* uttaler at det må presiseres at grunnlaget for opptjening av påslagspensjon skal reguleres årlig med lønnsveksten, noe som etter deres oppfatning ikke er tydelig i høringsnotatet.
+
+*SPK* viser til at departementet vil komme tilbake med forslag om hvor lenge uføre skal tjene opp rett til alderspensjon i påslagspensjonen. Med tanke på implementering og betjening av medlemmer, bør dette, etter SPKs syn, være avklart innen 2021.
+
+*KLP* legger til grunn at delvis uføre som får økt uføregrad, får med seg opptjening ut fra pensjonsgrunnlaget i reststillingen som den siste delen av uførepensjonen er beregnet ut fra. KLP støtter at opptjeningen skal reduseres for dem som er delvis uføre og har inntekt ved siden av pensjonen. I lovteksten er dette uttrykt gjennom henvisning til både uføregrad og utbetalingsgrad. Begrepet «uføregrad» er etter KLPs syn overflødig ved siden av utbetalingsgraden, og bør derfor fjernes i § 6-2 andre ledd. KLP påpeker videre at utbetalingsgraden sier hva størrelsen på utbetalingen av uførepensjon er, og er ikke alltid et uttrykk for pensjonistens faktiske inntektstap. Inntektsgrensen i uføreordningen inneholder et fribeløp (0,4 G) for dem som har uføretrygd fra folketrygden. Mange uførepensjonister har også rett til en økt inntektsgrense på grunn av karriereutvikling. Når inntektsgrensen er økt på grunn av disse elementene, påvirker dette utbetalingsgraden og dermed også opptjeningen til alderspensjon. På denne måten vil en uførepensjonist få opptjening til alderspensjon også ut fra selve fribeløpet og karriereutviklingen som ligger i inntektsgrensen. Noen uførepensjonister vil dermed kunne få en bedre opptjening til alderspensjon, enn om de ikke hadde et fribeløp eller karriereutvikling. De vil også kunne få en bedre opptjening enn personer som ikke er uføre. KLP viser til at beregning og utbetaling av uførepensjonen er basert på hva pensjonisten forventes å tjene. Opptjeningen til alderspensjon må derfor justeres i forbindelse med etteroppgjøret av uførepensjon, det vil si når en vet hva riktig pensjonsutbetaling ble i det foregående kalenderåret.
+
+Opptjening ved ulønnet permisjon
+
+*Arbeidstakerorganisasjonene* støtter forslaget om at pensjonsopptjening ved ulønnet permisjon i utgangspunktet vil være pensjonsgrunnlaget i stillingen ved permisjonstidspunktet. Organisasjonene kan imidlertid ikke se at lovforslaget har ivaretatt enigheten i pensjonsavtalens punkt 2, siste ledd om at ulønnet utdanningspermisjon gir pensjonsopptjening i påslagsordningen når arbeidsgiver vurderer at utdanningen er relevant for sitt kompetansebehov.
+
+*KLP* registrerer at lovforslaget er i overenstemmelse med hvordan reglene er i statlig sektor i dag. Samtidig bemerkes det at lovforslaget innebærer en utvidelse av avtalen, som har spesifisert at det er ulønnet utdanningspermisjon som skal gi opptjening. KLP støtter ellers forslaget om at det er pensjonsgrunnlaget i stillingen som medlemmet har permisjon fra som legges til grunn for pensjonsopptjening.
+
+*OPF* legger til grunn at den avtalte permisjonsbestemmelsen, etter ordlyden i avtalen, også skal gjelde i kommunal sektor.
+
+*SPK* skriver at det ikke framkommer hvordan opptjeningsgrunnlaget ved ulønnet permisjon skal reguleres. Det bør tydeliggjøres hvorvidt det skal være likt for alle opptjeningsårene, eller om det ved ulønnet permisjon skal reguleres med lønnsveksten.
+
+*Styret i pensjonsordningen for sykepleiere* uttaler at lovforslaget etter deres mening ikke gjenspeiler det som er avtalt mellom partene i denne ordningen, hvor rett til pensjonsopptjening under permisjon er begrenset til utdanningspermisjon. Samtidig er det ikke i avtalen uttrykt noen forutsetning om at rett til opptjening under permisjon må være fastsatt i en tariffavtale. Styret reiser derfor spørsmål om hvorfor dette forutsettes i lovforslaget. Når loven åpner for at partene i tariffavtale kan beslutte at tid under ulønnet permisjon skal kunne gi pensjonsopptjening, framstår det etter styrets syn som merkelig at en slik avtale må aksepteres av styret.
+
+### Departementets vurdering og forslag
+
+Innmelding og medlemskap
+
+For å bli medlem av Statens pensjonskasse, er det i dag et krav at det er minst fem år igjen til aldersgrensen. Det er en tilsvarende bestemmelse for sykepleierpensjonsloven og i pensjonsordning for apotekvirksomhet mv. I KS-området er arbeidstakere som ved aldersgrensen ikke vil få en samlet pensjonsgivende tjenestetid på minst tre år unntatt fra medlemskap.
+
+I høringsnotatet ble det ikke foreslått endringer i disse bestemmelsene. Både *SPK* og *KLP* ber i sine høringssvar departementet om å vurdere å endre dagens unntaksregler for medlemskap for eldre arbeidstakere. Det vises til at det er avtalt at det skal gis pensjonsopptjening fram til 75 år, og at det da er uheldig å knytte innmeldingsreglene til aldersgrensen. Det vises også til at det er avtalt et minstekrav på ett år for å rett til oppsatt påslagspensjon.
+
+Departementet deler SPK og KLPs syn om at dagens unntaksregler for medlemskap framstår som urimelige, særlig når det for påslagspensjon gis pensjonsopptjening fram til 75 år. Departementet foreslår derfor at dagens unntaksregler for medlemskap for personer med kort tid til aldersgrensen oppheves. Det foreslås at bestemmelsen også oppheves i sykepleierpensjonsordningen og i pensjonsordning for apotekvirksomhet mv.
+
+Departementet opprettholder forslaget fra høringen om å justere dagens lovtekst i § 20 første ledd bokstav d gjennom at ordene «tjenestemennenes hovedsammenslutninger» erstattes av «hovedsammenslutningene». I tillegg foreslås tilsvarende endring i § 11 første ledd andre punktum. Forslaget til endring er en språklig oppdatering og innebærer ingen realitetsendring.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Påslagsbeholdning
+
+Høringsinstansene har i liten grad uttalt seg om forslaget om at opptjeningen skal akkumuleres i en pensjonsbeholdning og at pensjonsopptjeningen skjer ved at pensjonsgrunnlaget multipliseres med fastsatte opptjeningsprosenter og tilføres påslagsbeholdningen.
+
+I høringsnotatet foreslo departementet at pensjonsopptjeningen skal tilføres påslagsbeholdningen årlig. *SPK* mener det bør være valgfritt for den enkelte pensjonsleverandøren hvor hyppig de ønsker å oppdatere beholdningen. *KLP* skriver at dersom opptjeningen skal skje løpende, bør også pensjonsopptjeningen tilføres pensjonsbeholdningen løpende.
+
+Departementets forslag i høringsnotatet om at pensjonsopptjeningen skal tilføres påslagsbeholdningen årlig var ment å regulere med hvilken frekvens påslagspensjonen skal justeres etter uttak. Departementet ser, slik også KLP påpeker, at dette er ivaretatt gjennom lovforslagene for uttak av påslagspensjon, og ser derfor ingen grunn til å lovfeste hvor hyppig ny pensjonsopptjening skal tilføres påslagsbeholdningen. Departementet foreslår derfor at påslagsbeholdningen skal danne grunnlaget for å beregne årlig påslagspensjon og at påslagsbeholdningen er summen av all pensjonsopptjening i påslagsordningen.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Opptjeningssatsene
+
+I høringsnotatet viste departementet til at opptjeningssatsene går fram av pensjonsavtalen fra 3. mars og foreslo i lovforslaget at opptjeningssatsene settes til 5,7 prosent av pensjonsgrunnlaget i inntektsintervallet 0–12 G og en tilleggssats på 18,1 prosent i inntektsintervallet 7,1–12 G.
+
+De fleste høringssvarene har ikke kommentert forslagene om opptjeningssatser, og departementet opprettholder forslagene fra høringsnotatet om en opptjeningssats på 5,7 prosent av pensjonsgrunnlaget opp til 12 ganger folketrygdens grunnbeløp og en tilleggssats på 18,1 prosent av pensjonsgrunnlaget mellom 7,1 og 12 ganger grunnbeløpet. Departementet foreslår at det er gjeldende grunnbeløp som skal legges til grunn.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Pensjonsgrunnlag
+
+Selv om det i høringsnotatet ble slått fast at innholdet i begrepet pensjonsgrunnlag ikke skal endres, har mange høringsinstanser likevel kommentert dette. I lovforslaget ble det foreslått at pensjonsgrunnlaget for påslagspensjon skal fastsettes etter kapittel 3 i lov om Statens pensjonskasse, unntatt bestemmelsene i § 14 andre ledd om samlet pensjonsgrunnlag ved flere arbeidsforhold og § 15 om beregning av gjennomsnittsgrunnlag.
+
+*Arbeidstakerorganisasjonene* mener at omtalen i høringsnotatet ikke er dekkende for gjeldende regler, da en rekke faste og variable tillegg gjennom tariffavtaler er gjort pensjonsgivende. Departementet leser uttalelsen fra *Arbeidstakerorganisasjonene* dithen at dette gjelder omtalen av pensjonsgrunnlag i høringsnotatet og ikke selve lovforslaget.
+
+Departementet ser at formuleringen i høringsnotatet om at pensjonsgrunnlaget fortsatt skal være den faste arbeidsinntekten i det arbeidsforholdet som gir rett til medlemskap, kan leses som at departementet foreslår en innsnevring av hva som skal være pensjonsgivende. Dette har ikke vært departementets intensjon med formuleringen. Departementet har ikke ment å så tvil om at de faste og variable tilleggene som gjennom tariffavtaler er gjort pensjonsgivende også skal gjelde for påslagspensjon. Departementet presiserer derfor at det er samme inntekt som i dag er pensjonsgivende i tjenestepensjonsordningen, som skal gi opptjening til påslagspensjon.
+
+*KLP* viser til at departementets forslag om at § 14 andre ledd i lov om Statens pensjonskasse ikke skal gjelde for påslagsbeholdningen betyr at begrensningen om samlet pensjonsgrunnlag på 12 G ikke vil gjelde dersom man har to eller flere arbeidsgivere. KLP registrerer at dette er en utvidelse av dagens regler. Departementet er innforstått med at dette kan være en utvidelse sammenlignet med dagens regler for dem som samtidig har to eller flere arbeidsgivere i offentlig sektor, men ikke for tilfeller hvor et medlem har en stilling i offentlig sektor parallelt med en stilling i privat sektor. Prinsipielt mener departementet at begrensningen om at det ikke gis opptjening for pensjonsgrunnlag som samlet overstiger 12 G dersom man har to eller flere arbeidsgivere, også burde gjelde for påslagspensjon. Dette vil imidlertid være administrativt krevende ved at årlig opptjening da må koordineres gjennom overføringsavtalen. Departementet viser til at en slik begrensning vil omfatte få personer både fordi de fleste kun har én arbeidsgiver og at de fleste har inntekter som er klart lavere enn 12 G. Departementet mener derfor at det administrative merarbeidet taler klart mot å ha en begrensning om at samlet pensjonsgrunnlag ikke kan overstige 12 G for personer som har to eller flere arbeidsgivere med offentlig tjenestepensjon.
+
+§ 15 inneholder bestemmelser om fastsettelse av gjennomsnittlig pensjonsgrunnlag ved varierende arbeidstid samt bestemmelser om hvordan pensjonsgrunnlaget skal fastsettes når arbeidstaker tidligere har hatt høyere pensjonsgrunnlag enn på pensjoneringstidspunktet. § 14 andre ledd inneholder bestemmelser om summering av pensjonsgrunnlag ved flere, samtidige arbeidsforhold. Departementet viser til at disse bestemmelsene blir overflødige for påslagspensjon. Departementet opprettholder derfor forslaget fra høringsnotatet om at bestemmelsene som framgår av kapittel 3 i lov om Statens pensjonskasse også skal gjelde for påslagsordningen, med unntak av § 15 og § 14 andre ledd.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Opptjening gjennom året
+
+I høringsnotatet viste departementet til at det ikke går fram av avtalen hvordan opptjeningen skal skje for medlemmer som har endringer i pensjonsgrunnlaget i løpet av året, for medlemmer som jobber deltid eller for medlemmer som kun jobber deler av et kalenderår. I høringsnotatet viste departementet til at opptjeningen enten kan skje koordinert eller isolert for hvert enkelt stillingsforhold.
+
+I høringsnotatet skrev departementet at det ble lagt vekt på følgende forhold:
+
+- at samlet opptjening som offentlig ansatt skal være uavhengig av om opptjeningen har skjedd i en eller flere ulike ordninger.
+
+- at verdien av opptjening i en offentlig ordning skal være uavhengig av om annen opptjening har skjedd i en offentlig eller i en privat tjenestepensjonsordning.
+
+- at regelverket bør utformes slik at det ikke blir nødvendig med koordinering mellom ulike ordninger.
+
+De fleste høringsinstansene støtter departementets forslag om løpende opptjening. Enkelte har imidlertid pekt på at tjenestepensjonsleverandørene opererer med forskjellige periodiseringsfaktorer for et år og at en konkret angivelse av antall dager i et år vil kunne føre til dyptgripende systemtekniske endringer.
+
+*KS* påpeker at beregningsreglene ikke må medføre uforholdsmessige administrative byrder for arbeidsgiver, og viser til at gjeldende praksis for periodisering av opptjening er et resultat av en avveining mellom ulike hensyn, og er derfor ikke omstridt. KS er av den oppfatning at departementets forslag om løpende opptjening, vil kunne gi opphav til usikkerhet med hensyn til hvilken periodisering som skal gjelde for timelønnede, korte vikariater og merarbeid utover fast avtalt arbeidstid.
+
+Departementet ser at det gjennom detaljeringsgraden i lovforslaget kan stilles spørsmål om regelverket er ment å føre til endringer med hensyn til hvordan pensjonsgrunnlaget for arbeidstakere uten fast avtalt arbeidstid, korte vikariater eller for merarbeid ut over fast avtalt arbeidstid, skal fastsettes og rapporteres. Departementet har ikke hatt til hensikt å endre hvordan arbeidsgivere skal melde inn ansatte i pensjonsordningene. Departementet har heller ikke hatt til hensikt å endre hvordan pensjonsgrunnlaget fastsettes og rapporteres for arbeidstakere uten fast avtalt arbeidstid, korte vikariater eller for merarbeid ut over fast avtalt arbeidstid. For timelønnede, vikarer og fast ansatte som arbeider utover den faste stillingen, legger departementet til grunn at medlemskapet oppdateres etterskuddsvis og med den periodiseringen som praktiseres i dag.
+
+Departementets vurdering er at detaljeringsgraden som ble foreslått i høringsnotatet er unødvendig. Departementet foreslår derfor at opptjeningen skal skje løpende og at endring av pensjonsgrunnlag skal gis effekt fra virkningstidspunktet. Sammenlignet med forslaget i høringsnotatet, innebærer dette forslaget ingen endringer for ansatte med en fast avtalt arbeidstid. Opptjeningen for en periode med uforandret pensjonsgrunnlag, vil da være det opptjeningen ville ha vært dersom vedkommende hadde hatt dette grunnlaget et helt kalenderår vektet med hvor stor del av året vedkommende har hatt dette grunnlaget.
+
+Departementet legger til grunn at for arbeidstakere uten fast avtalt arbeidstid («timelønnede»), med korte vikariater eller med merarbeid ut over fast avtalt arbeidstid, gis endringer effekt etterskuddsvis når medlemskapet oppdateres, med den periodiseringen som praktiseres i dag.
+
+Departementet registrerer at høringsinstansene er positive til forslaget om at den løpende opptjeningen for medlemmer med deltidsstilling skal utgjøre en forholdsmessig del av det opptjeningen ville vært dersom medlemmet hadde hatt fulltidsstilling, og departementet opprettholder forslaget fra høringsnotatet.
+
+KLP tolker ordlyden i lovforslaget § 26 b første ledd slik at opptjeningen på grunnlag av fast lønn og variable tillegg skal behandles likt for personer med deltidsstilling og ber departementet klargjøre om dette er en riktig tolkning. Departementet kan bekrefte at KLPs tolkning er riktig. Slik departementet ser det, følger dette av formuleringen i høringsnotatet om at opptjening ved deltid skal utgjøre en forholdsmessig del av opptjeningen for en fulltidsstilling. Forslaget må ses på bakgrunn av at påslagsordningen har alleårsopptjening slik at de variable tilleggene vil stå i forhold til stillingsandelen.
+
+Høringsinstansene har ikke hatt synspunkter på forslaget om at det gis opptjening til påslagspensjon fram til 75 år. Departementet opprettholder forslaget fra høringsnotatet om at det gis opptjening til påslagspensjon fram til og med den måneden en fyller 75 år.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Opptjening på grunnlag av uførepensjon
+
+I høringsnotatet foreslo departementet at uføre skal tjene opp påslagspensjon på grunnlag av pensjonsgrunnlaget for uførepensjonen. Departementet foreslo videre at opptjeningen skal reduseres forholdsmessig når uføregraden eller utbetalingsgraden er lavere enn 100 prosent.
+
+*KLP* har pekt på at inntektsgrensen i uførepensjonen inneholder et fribeløp for dem som har uføretrygd fra folketrygden og at forslaget i høringsnotatet vil gi opptjening til alderspensjon også ut fra selve fribeløpet. Noen uførepensjonister vil dermed kunne få en bedre opptjening til alderspensjon enn om de ikke hadde et fribeløp, og noen vil kunne få en bedre opptjening enn personer som ikke er uføre. KLP peker også på at beregning og utbetaling av uførepensjon er basert på hva pensjonisten forventes å tjene. Dette betyr, med departementets forslag i høringsnotatet, at opptjeningen til alderspensjon må justeres i forbindelse med etteroppgjøret, det vil si når en vet hva riktig pensjonsutbetaling ble i det foregående kalenderåret.
+
+Departementet ser at lovforslaget i høringsnotatet har noen utilsiktede effekter, jf. merknadene fra KLP. Departement har sett hen til hvordan opptjeningen til alderspensjon for uføre er utformet i folketrygden. Departementet ser at opptjeningen både blir enklere (en slipper etterskuddsvis endring i forbindelse med etteroppgjøret) og mer rettferdig (en får likebehandling av personer med og uten fribeløp) dersom opptjeningen skjer uten å ta hensyn til utbetalingsgraden.
+
+Departementet foreslår derfor at opptjening ved mottak av uførepensjon skal skje på grunnlag av pensjonsgrunnlaget som uførepensjonen er beregnet av. For å unngå at fribeløpet i seg selv gir opptjening til påslagspensjon og at opptjeningen må korrigeres i forbindelse med etteroppgjøret, foreslår departementet at for perioder hvor et medlem har hatt annen opptjening enn opptjening ved mottak av uførepensjon, skal opptjening på grunnlag av uførepensjonen reduseres med annen opptjening. Opptjening på grunnlag av uførepensjon skal også reduseres ved annen opptjening av påslagspensjon i andre offentlige tjenestepensjonsordninger. Dersom uføregraden er lavere enn 100 prosent, skal opptjening på grunnlag av uførepensjonen ikke overstige opptjening på grunnlag av pensjonsgrunnlaget for uførepensjonen, justert for den faktiske uføregraden.
+
+*Arbeidstakerorganisasjonene* har uttalt at det må presiseres at grunnlaget for opptjening av påslagspensjon skal reguleres årlig med lønnsveksten, noe som etter deres oppfatning ikke er tydelig i høringsnotatet. Slik departementet ser det, følger det av lovforslaget at pensjonsgrunnlaget skal reguleres med lønnsveksten, ettersom pensjonsgrunnlaget som uførepensjonen er beregnet av reguleres med lønnsveksten.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Opptjening ved ulønnet permisjon
+
+Departementet la i høringsnotatet til grunn at permisjon uten lønn, som gir rett til pensjonsgivende tjenestetid etter dagens regler i Statens pensjonskasse, også skal gi pensjonsopptjening i påslagsordningen. I lovforslaget for lov om Statens pensjonskasse var dette formulert ved at det gis pensjonsopptjening for den tid medlemmet har permisjon uten lønn, eller på annen måte midlertidig har fratrådt tjenesten, og hvor det ved tariffavtale mellom staten og hovedsammenslutningene er bestemt at tiden skal gi pensjonsopptjening.
+
+*KLP* registrerer at lovforslaget er i overenstemmelse med hvordan reglene er i statlig sektor i dag, men har bemerket at lovforslaget innebærer en utvidelse av avtalen, som spesifiserer at det er ulønnet utdanningspermisjon som skal gi opptjening. Departementet er enig med KLP i at lovforslaget innebærer pensjonsopptjening også for andre permisjoner enn utdanningspermisjon, og at avtalen kun omhandler utdanningspermisjon. Departementet vurderer imidlertid ikke at dette er en utvidelse av intensjonen i avtalens formulering om utdanningspermisjon. Slik departementet ser det, er pensjonsavtalens punkt 2 siste ledd ment å utvide hvilke permisjoner som gir rett til pensjonsopptjening sammenlignet med dagens regler, ikke begrense hvilke permisjoner som gir rett til pensjonsopptjening.
+
+Departementet legger til grunn at pensjonsavtalens punkt 2 siste ledd følges opp i regelverket som gjelder for kommunale og fylkeskommunale tjenestepensjonsordninger.
+
+Lovforslaget som gjaldt pensjonsordning for sykepleiere var i høringsnotatet utformet etter mønster av lov om Statens pensjonskasse. Det var lagt inn en forutsetning om at tariffavtalen var godkjent av styret i pensjonsordningen.
+
+*Styret i pensjonsordningen for sykepleiere* uttaler at lovforslaget etter deres mening ikke gjenspeiler det som er avtalt mellom partene, hvor rett til pensjonsopptjening under permisjon er begrenset til utdanningspermisjon. Samtidig er det ikke i avtalen uttrykt noen forutsetning om at rett til opptjening under permisjon må være fastsatt i en tariffavtale. Styret reiser derfor spørsmål om hvorfor dette forutsettes i lovforslaget. Når loven åpner for at partene i tariffavtale kan beslutte at tid under ulønnet permisjon skal kunne gi pensjonsopptjening, framstår det etter styrets syn som merkelig at en slik avtale må aksepteres av styret.
+
+Departementet foreslår for Statens pensjonskasses del at det gis opptjening av påslagspensjon for den tid medlemmet har ulønnet utdanningspermisjon når arbeidsgiver vurderer at utdanningen er relevant for stillingen, og for tid i ulønnet permisjon, eller som midlertidig fratrådt, for tilfeller hvor dette følger av tariffavtale inngått med hovedsammenslutningene. For pensjonsordningen for sykepleiere er lovforslaget begrenset til ulønnet utdanningspermisjon som arbeidsgiver vurderer er relevant for stillingen. I samsvar med uttalelsen fra styret i pensjonsordningen for sykepleiere, er den delen av høringsforslaget som gjaldt pensjonsopptjening for tid med ulønnet permisjon eller som midlertidig fratrådt som følge av tariffavtale tatt ut av lovforslaget.
+
+Det har ikke kommet innvendinger mot forslaget om at opptjeningen i påslagsordningen ved ulønnet permisjon gis ved at pensjonsgrunnlaget i stillingen skal være opptjeningsgrunnlag i permisjonstiden. *SPK* mener at det ikke framkommer hvordan opptjeningsgrunnlaget i ulønnet permisjon skal reguleres. Departementet viser til at dersom pensjonsgrunnlaget i stillingen et medlem har permisjon fra øker, for eksempel gjennom sentrale lønnsforhandlinger, skal det økte pensjonsgrunnlaget legges til grunn, på lik linje med medlemmer som ikke er i permisjon, og at det derfor ikke er behov for en egen bestemmelse for regulering av pensjonsgrunnlaget i ulønnet permisjon. Departementet opprettholder derfor forslaget om at opptjeningen av påslagspensjon skal skje på grunnlag av pensjonsgrunnlaget i stillingen som medlemmet har permisjon fra eller har midlertidig fratrådt. Departementet foreslår videre at ved delvis permisjon skal opptjeningen utgjøre en forholdsmessig del av opptjeningen ved hel permisjon.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+Uførepensjon og pensjon til etterlatte barn og ektefeller
+
+Både uførepensjon, enke- eller enkemannspensjon og barnepensjon beregnes i dag med utgangspunkt i pensjonsgrunnlag og tjenestetid. Pensjonsgrunnlag er beskrevet i kapittel 3 i lov om Statens pensjonskasse og tjenestetid er beskrevet i kapittel 4. Departementet kan ikke se at innføringen av ny alderspensjon gjør det nødvendig å justere lovene for uførepensjon, enke- eller enkemannspensjon eller barnepensjon, med ett unntak.
+
+§ 35 i lov om Statens pensjonskasse inneholder en begrensningsregel for dem som mottar egen alderspensjon fra offentlig tjenestepensjon og samtidig har rett til bruttoberegnet enke- eller enkemannspensjon som reduseres ved inntekt (såkalt behovsprøvd enke- eller enkemannspensjon). Begrensningsregelen innebærer at pensjonene ikke skal overstige et beløp som svarer til 60 prosent av summen av den gjenlevendes og den avdødes alderspensjoner. Avdødes alderspensjon regnes av samme pensjonsgrunnlag og tjenestetid som er lagt til grunn for enke- eller enkemannspensjonen. Det overskytende beløpet skal gå til fradrag i enke- eller enkemannspensjonen.
+
+60-prosentbegrensningen tar ikke utgangspunkt i hvor mye alderspensjon som blir utbetalt fra tjenestepensjonsordningen, men i brutto alderspensjon før fradrag for alderspensjon fra folketrygden. I påslagspensjonsordningen blir utbetalingen fra tjenestepensjonsordningen beregnet uavhengig av folketrygden, og er derfor vesentlig lavere enn dagens brutto alderspensjon. En tilsvarende 60-prosentbegrensning for påslagspensjon vil derfor ikke være like begrensende. Departementet ser at dette gjør det nødvendig å gjøre lovtekniske endringer eller presiseringer for beregning av enke- eller enkemannspensjon for årskull født fra og med 1963 for dem som mottar egen alderspensjon og som i tillegg har rett til bruttoberegnet enke- eller enkemannspensjon.
+
+Departementet kommer tilbake med lovforslag for beregning av enke- og enkemannspensjon i disse tilfellene.
+
+Det er også behov for regler om samordning av enke- og enkemannspensjon fra offentlige tjenestepensjonsordninger med alderspensjon fra folketrygden etter nye regler. Departementet kommer tilbake med forslag til nødvendige lovendringer.
+
+Departementet foreslår at det presiseres i § 35 at alderspensjon er alderspensjon beregnet etter bruttopensjonsreglene, det vil si etter kapittel 5.
+
+Se punkt 7.2.4 om utformingen av lovendringer.
+
+### De enkelte lovforslagene
+
+#### Innledning
+
+I dette punktet foreslår departementet endringer i de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i punkt 7.2.3. Endringer i lov om Statens pensjonskasse og lov om pensjonsordning for sykepleiere behandles i punktene 7.2.4.2 og 7.2.4.3. Når det gjelder pensjonsordning for apotekvirksomhet mv. vises det til punkt 7.2.4.4 og til avsnitt 6.2 foran.
+
+#### Lov om Statens pensjonskasse
+
+Bestemmelsene om medlemskap i lov 28. juli 1949 nr. 26 om Statens pensjonskasse har begrensninger i retten til medlemskap for den som ved tilsettingen har kort tid igjen aldersgrensen for stillingen. Det følger av § 8 første ledd at den som har mindre enn fem år i igjen til aldersgrensen ikke blir medlem av Pensjonskassen, med mindre vedkommende har vært medlem tidligere, slik at samlet medlemskap overstiger minstegrensen. Departementet foreslår at bestemmelsen oppheves.
+
+Departementet foreslår at ordene «tjenestemennenes hovedsammenslutninger» erstattes av «hovedsammenslutningene» i § 20 første ledd bokstav d. Tilsvarende endring foreslås i § 11 første ledd andre punktum. Forslaget til endring er en språklig oppdatering og innebærer ingen realitetsendring.
+
+Det vises til lovforslaget, lov om Statens pensjonskasse § 8 første ledd og § 20 første ledd bokstav d.
+
+Departementet foreslår enkelte endringer i bestemmelsene om pensjonsgrunnlag i kapittel 3. Det foreslås å erstatte «Den pensjonsgivende inntekt» i § 14 første ledd med «Pensjonsgrunnlaget», samtidig som det tas inn en bestemmelse om begrensning i pensjonsgrunnlaget for betinget tjenestepensjon. Videre foreslås det å presisere at begrensningen i pensjonsgrunnlaget på 12 G ved flere stillinger ikke skal gjelde pensjon etter kapittel 5 a, med unntak av oppsatt pensjon for tjenestetid før 2020. Det foreslås også at de særskilte bestemmelsene i § 15 om fastsetting av pensjonsgrunnlaget når medlemmet har hatt varierende arbeidstid, tidligere har hatt høyere pensjonsgrunnlag eller når medlemmet har hatt flere stillinger samtidig, ikke skal gjelde pensjon etter kapittel 5 a, med unntak av oppsatt pensjon for tjenestetid før 2020.
+
+Det vises til lovforslaget, lov om Statens pensjonskasse §§ 14 og 15.
+
+Departementet foreslår for øvrig at bestemmelsene om ny offentlig tjenestepensjon tas inn i nytt kapittel 5 a i lov om Statens pensjonskasse, og at kapitlet får overskriften «Alderspensjon – påslagspensjon mv.». I § 26 a om virkeområdet slås det fast at kapitlet gjelder for medlemmer født i 1963 eller senere. Dagens alderspensjonsregler, som fortsatt skal gjelde for medlemmer født i 1962 eller tidligere, framgår av kapittel 5. Det foreslås at dette kapitlet får overskriften «Alderspensjon – bruttopensjon.».
+
+Reglene om opptjening av ny alderspensjon (påslagspensjon) foreslås gitt i § 26 b. Pensjonen skal tjenes opp i en påslagsbeholdning, og det må gis nærmere regler for hvordan opptjeningen skal skje. Det er lønnen i medlemspliktig stilling (pensjonsgrunnlaget) som danner grunnlaget for opptjening, og det følger av forslaget til hovedregelen i første ledd at alderspensjon tjenes opp med en grunnsats på 5,7 prosent av pensjonsgrunnlaget opp til 12 ganger folketrygdens grunnbeløp og en tilleggssats på 18,1 prosent av pensjonsgrunnlaget mellom 7,1 og 12 ganger grunnbeløpet. Det gis pensjonsopptjening fram til og med måneden medlemmet fyller 75 år. Videre presiseres det at det er gjeldende grunnbeløp som legges til grunn, og at opptjeningen ved deltidsstilling utgjør en forholdsmessig del av opptjeningen for en fulltidsstilling.
+
+Pensjonsopptjening på annet grunnlag enn etter hovedregelen følger av bestemmelsene i § 26 b andre og tredje ledd. I andre ledd videreføres prinsippet om at tid med midlertidig uførepensjon eller uførepensjon skal gi pensjonsopptjening, det vil si på grunnlag av pensjonsgrunnlaget som uførepensjonen er beregnet av. Det presiseres at opptjeningen reduseres forholdsmessig når uføregraden er lavere enn 100 prosent, og at slik opptjening skal reduseres med eventuell annen samtidig opptjening. Etter § 26 b tredje ledd gis det opptjening for den tid medlemmet har ulønnet utdanningspermisjon, når arbeidsgiver vurderer at utdanningen er relevant for stillingen. Videre gis det etter samme ledd pensjonsopptjening for den tid medlemmet har annen permisjon uten lønn eller på annen måte midlertidig har fratrådt tjenesten og hvor det ved tariffavtale inngått med hovedsammenslutningene er bestemt at tiden skal gi pensjonsopptjening. Det er pensjonsgrunnlaget i stillingen som medlemmet har permisjon fra eller midlertidig har fratrådt, som legges til grunn for slik opptjening. Det går videre fram av lovforslaget at opptjeningen skal skje forholdsmessig ved delvis permisjon.
+
+Endelig følger det av forslaget til § 26 b fjerde ledd at opptjeningen skal skje løpende, slik at endringer gis effekt fra virkningstidspunktet og at pensjonsopptjeningen akkumuleres i en påslagsbeholdning.
+
+Departementet foreslår også at ordet «kapitel» i kapitteloverskriftene erstattes med ordet «kapittel».
+
+Innføringen av påslagspensjon gjør det også nødvendig med en justering av § 35 som gir regler om den øvre grensen for summen av egen alderspensjon eller uførepensjon i kombinasjon med enke- eller enkemannspensjon. I andre ledd framgår det at summen av alderspensjon og ektefellepensjon ikke skal overstige et beløp som svarer til 60 prosent av summen av den gjenlevendes og den avdødes alderspensjoner. I forslaget til lovendring blir det presisert at alderspensjon i denne sammenheng er alderspensjon beregnet etter bruttopensjonsreglene, det vil si etter kapittel 5.
+
+Det vises til lovforslaget, lov om Statens pensjonskasse kapitteloverskriftene, § 26 a, § 26 b og § 35 første ledd.
+
+#### Lov om pensjonsordning for sykepleiere
+
+Pensjonsordningen for sykepleiere er regulert i lov 22. juni 1962 nr. 12. Regelverket er i store trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens pensjonskasse i punkt 7.2.4.2, så langt de passer, gjøres i lov om pensjonsordning for sykepleiere. Det presiseres at opptjening ved ulønnet permisjon her er begrenset til utdanningspermisjon.
+
+I tråd med dette foreslås det at bestemmelsene om ny offentlig tjenestepensjon tas inn i nytt kapittel 4 a i lov om pensjonsordning for sykepleiere. Kapitlet vil gjelde for medlemmer født i 1963 eller senere.
+
+Departementet foreslår også at romertallene i kapitteloverskriftene gjennomgående erstattes av arabiske (vanlige) tall.
+
+Det vises til lovforslaget, lov om pensjonsordning for sykepleiere kapitteloverskriftene, § 3 første ledd bokstav a, § 11 a, § 11 b og § 20 første ledd bokstav a.
+
+#### Lov om pensjonsordning for apotekvirksomhet mv.
+
+Pensjonsordning for apotekvirksomhet mv. er regulert i lov 26. juni 1953 nr. 11. Regelverket er i store trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende endring som er foreslått i lov om Statens pensjonskasse § 8 første ledd gjøres i lov om pensjonsordning for apotekvirksomhet mv. Departementet foreslår også at romertallene i kapitteloverskriftene gjennomgående erstattes av arabiske (vanlige) tall, og at ordet «kapitel» i kapitteloverskriftene erstattes med ordet «kapittel». Forslaget omfatter også en språklig oppdatering av § 26 første ledd første punktum ved at «lov om folketrygd» erstattes med «folketrygdloven». For øvrig vises til avsnitt 6.2 foran.
+
+Det vises til lovforslaget, lov om pensjonsordning for apotekvirksomhet mv. § 2 første ledd, § 26 første ledd første punktum og kapitteloverskriftene.

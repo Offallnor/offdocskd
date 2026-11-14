@@ -1,861 +1,384 @@
-# Prop. 85 L (2016–2017), del 7 av 8 (side 74–84)
+# Prop. 85 L (2016–2017), del 7 av 8
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2017/0e24c951-prop-85-l-20162017.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-85-l-20162017/id2546645/
 - Original-PDF: https://www.regjeringen.no/contentassets/9d9b670ae0864342989fa60b8901837c/no/pdfs/prp201620170085000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 6 tabeller, 1 figur, 22 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 74]
-
-74
-
-Prop. 85 L
-
-9.8.3 Departementets vurdering
-Departementet kan ikke se at forslagene skulle
-være i strid med trygdekonvensjonene under ILO
-og Europarådet.
-
-9.9
-
-2016–2017
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-Den europeiske
-menneskerettighetskonvensjon
-(EMK)
-
-9.9.1 Nærmere om konvensjonen
-Europarådets konvensjon om beskyttelse av menneskerettigheter (EMK) ble vedtatt av Europarådet i Roma 4. november 1950. Norge ratifiserte
-EMK 15. januar 1952, og konvensjonen trådte i
-kraft 3. september 1953. EMK gjelder som norsk
-lov med forrang foran annen norsk lovgivning, jf.
-menneskerettsloven §§ 2 og 3.
-Artikkel 8 i EMK slår fast retten til respekt for
-privatliv og familieliv, og understreker at det ikke
-skal skje «… noe inngrep av offentlig myndighet i
-utøvelsen av denne rettighet unntatt når dette er i
-samsvar med loven og er nødvendig i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, offentlige trygghet eller landets økonomiske
-velferd, for å forebygge uorden eller kriminalitet,
-for å beskytte helse eller moral, eller for å
-beskytte andres rettigheter og friheter».
-Konvensjonens artikkel 14 inneholder et generelt diskrimineringsforbud, hvor det heter at
-«Utøvelsen av de rettigheter og friheter som er
-fastlagt i denne konvensjon skal bli sikret uten diskriminering på noe grunnlag slik som kjønn, rase,
-farge, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, tilknytning
-til en nasjonal minoritet, eiendom, fødsel eller
-annen status».
-9.9.2 Høringsinstansene
-NOAS etterlyser i sitt høringssvar en vurdering av
-hvordan forslagene forholder seg til EMK artikkel
-14, sammenholdt med artiklene 3 og 8. Jussbuss
-mener at det burde ha vært vurdert om forslaget
-er i strid med diskrimineringsforbudet i EMK
-artikkel 14, «… da endringene innebærer at en
-gruppe av befolkningen ikke får utøvet sin konvensjonsfestede rett til familieliv». Også FNs høykommissær for flyktningers regionale representasjon
-for Nord-Europa viser i sitt høringssvar til EMK
-artiklene 8 og 14.
-Det ble i høringsrunden påpekt at de foreslåtte
-endringene i trygderegelverket vil ha konsekvenser for rettigheter etter utlendingsloven, fordi sup-
-
-plerende stønad etter dagens regler (utlendingsforskriften og tilhørende rundskriv) ikke anses
-for å være en ytelse som oppfyller underholdskravet som stilles til referansepersonene for å kunne
-få innvilget en søknad om familiegjenforening.
-Det ble påpekt at lovforslaget også er problematisk i forhold til flyktningers adgang til permanent oppholdstillatelse, i og med at det allerede er
-vedtatt å innføre et krav om tolv måneders selvforsørgelse for at flyktninger skal få slik tillatelse.
-Retten til statsborgerskap er igjen avledet av retten til permanent oppholdstillatelse. Kravet om
-tolv måneders selvforsørgelse har imidlertid foreløpig ikke trådt i kraft.
-LDO uttalte for øvrig i høringen at utlendingsforskriften og tilhørende rundskriv må endres for
-å ikke å komme i konflikt med diskriminerings- og
-tilgjengelighetslovens forbud mot indirekte diskriminering på grunn av nedsatt funksjonsevne med
-hensyn til retten til familiegjenforening, permanent oppholdstillatelse og norsk statsborgerskap.
-
-9.9.3 Departementets vurdering
-Det fremgår av EMK artikkel 8 at enhver har rett
-til respekt for sitt familieliv. Det er likevel på det
-rene at EMK artikkel 8 som det klare utgangspunkt ikke gir utlendinger rett til verken familieetablering eller familiegjenforening.
-Den europeiske menneskerettsdomstol (EMD)
-har gitt statene en vid skjønnsmargin i saker som
-gjelder familieinnvandring. EMD viser gjerne til
-at statene har rett til å kontrollere utlendingers
-adgang til og opphold på sitt territorium, og at
-konvensjonen ikke garanterer noen rett for utenlandske statsborgere til å innvandre til, eller bo i,
-et bestemt land, se for eksempel Jeunesse mot
-Nederland, avsnitt 100. Videre har EMD flere ganger uttalt at artikkel 8 ikke pålegger statene noen
-generell plikt til å respektere et ektepars valg av
-land å bosette seg i eller til å tillate familiegjenforening på sitt territorium, se for eksempel Jeunesse mot Nederland, avsnitt 107.
-Retten til familieliv er også beskyttet av FNs
-konvensjon om sivile og politiske rettigheter artikkel 17. Det er imidlertid ikke holdepunkter for å
-anta at denne bestemmelsen inneholder folkerettslige forpliktelser som går utover de som følger av EMK artikkel 8.
-Departementet vil likevel understreke at de
-foreslåtte endringene i trygdelovgivningen ikke
-har vært motivert av noe ønske om å stramme inn
-adgangen til familieinnvandring, permanent oppholdstillatelse eller norsk statsborgerskap. Departementet har derfor tatt saken opp med Justis- og
-
-[Side 75]
-
-2016–2017
-
-Prop. 85 L
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-beredskapsdepartementet for vurdering av eventuelle justeringer i utlendingsforskriften og tilhørende rundskriv.
-Justis- og beredskapsdepartementet tar sikte
-på å legge frem et høringsnotat våren 2017, med
-forslag om endringer i utlendingsforskriften med
-hensyn til kravet til selvforsørgelse for rett til permanent oppholdstillatelse. Det vil her foreslås at
-det ikke skal være et vilkår om selvforsørgelse for
-barn, elever i videregående skole, personer over
-67 år eller varig uføre. Det vil i høringsnotatet
-understrekes at henvisningen til varig uføre også
-omfatter utlendinger som ikke har rett til uføretrygd etter folketrygdloven. På denne måten videreføres intensjonen i gjeldende rett.
-Også for rett til familieinnvandring vil det foretas justeringer i utlendingsregelverket.
-For at en utlending skal kunne komme til
-Norge gjennom familieinnvandring, stilles det
-krav om at referansepersonen er sikret midler tilsvarende lønnstrinn 24 i statens lønnsregulativ
-(underholdskravet). Underhold anses imidlertid
-også sikret dersom referansepersonen mottar
-alderspensjon eller uføretrygd tilsvarende fullt
-minste pensjonsnivå med høy sats, jf. utlendingsforskriften § 10-8 annet ledd. Under høringen ble
-det påpekt at lovforslaget innebærer at uføre og
-eldre flyktninger (med mindre enn 40 års trygdetid) ikke lenger vil være automatisk omfattet av
-denne bestemmelsen.
-Flyktninger er i dag unntatt fra underholdskravet i saker om familiegjenforening dersom søknad
-fremmes innen ett år etter at referansepersonen
-fikk oppholdstillatelse. Det kan ellers gjøres unntak fra underholdskravet dersom særlig sterke
-menneskelige hensyn tilsier det. De forslagene til
-endringer i trygderegelverket som var på høring,
-ville kunne få stor betydning, særlig for unge
-uføre flyktninger, siden disse med dagens regler
-ville være avskåret fra familieinnvandring bortsett
-fra i de situasjonene som følger av de nevnte unntakene.
-Da en slik konsekvens av lovforslaget ikke var
-tilsiktet, vil Justis- og beredskapsdepartementet
-gjøre nødvendige endringer i utlendingsforskriften § 10-8, slik at alle flyktninger som er over 67 år
-eller uføre, og som har en samlet inntekt som
-minst svarer til henholdsvis fullt minste pensjonsnivå eller full minste årlige ytelse for uføretrygd,
-vil bli omfattet av bestemmelsens annet ledd
-(«særordningen» for eldre og uføre). Ved å stille
-krav til samlet inntekt, omfattes også flyktninger
-
-75
-
-som er delvis uføre, men slik at de må benytte
-restarbeidsevnen sin for å øke inntekten.
-På denne måten videreføres intensjonen i gjeldende rett. Det kan også være behov for enkelte
-andre følgeendringer i utlendingsforskriften.
-
-9.10 EØS-avtalen
-9.10.1 Nærmere om konvensjonen
-Avtalen om Det europeiske økonomiske samarbeidsområdet (heretter EØS-avtalen) trådte i kraft
-1. januar 1994.
-EØS-regelverket setter ingen begrensninger
-for medlemslandenes muligheter til å foreta tilpasninger i nasjonal trygdelovgivning, såfremt dette
-gjøres på en slik måte at EØS-borgere ikke diskrimineres sammenlignet med landets egne borgere.
-På grunn av de såkalte sammenleggingsbestemmelsene i forordning 883/2004 om koordinering av trygdeordninger vil nasjonale botidskrav
-kunne oppfylles ved at tid i andre EØS-land medregnes. Dette innebærer at eventuelle nye eller
-hevede botidskrav i praksis ikke vil få betydning
-for personer som har tilstrekkelig opptjening i
-andre EØS-land.
-9.10.2 Høringsinstansene
-Det er ingen høringsinstanser som har uttalt seg
-om forholdet til forordning 883/2004.
-FNs høykommissær for flyktningers regionale
-representasjon for Nord-Europa viser imidlertid til
-artikkel 29 i EUs statusdirektiv (direktiv 2011/95/
-EU), som pålegger medlemslandene en plikt til å
-påse at flyktninger og personer under subsidiær
-beskyttelse mottar «the necessary social assistance as provided to nationals …».
-9.10.3 Departementets vurdering
-Departementet understreker at EUs statusdirektiv ikke gjelder for Norge, slik også påpekt av FNs
-høykommissær for flyktningers regionale representasjon for Nord-Europa. Det må for øvrig understrekes at plikten etter artikkel 29 gjelder «social
-assistance», altså økonomisk sosialhjelp. Departementet kan følgelig uansett ikke se at dette skulle
-være et relevant moment ved vurderingen av de
-foreslåtte endringene.
-Departementet kan ikke se at forslagene
-skulle være i strid med EØS-avtalen.
-
-[Side 76]
-
-76
-
-Prop. 85 L
-
-2016–2017
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-9.11 Bilaterale trygdeavtaler
-9.11.1 Nærmere om avtalene
-Norge har inngått en rekke bilaterale trygdeavtaler, som regulerer trygdekoordineringen mellom
-landene.
-Disse avtalene inneholder ingen begrensninger for muligheten til å foreta tilpasninger i nasjonal trygdelovgivning, som for eksempel å heve
-eller innføre krav til botid for rett til ytelser. Også
-her, på samme måte som innenfor EØS, vil imidlertid rettigheter kunne oppnås gjennom sammenlegging av tid, men da begrenset til pensjonsområdet.
-
-9.11.2 Høringsinstansene
-Ingen av høringsinstansene har uttalt seg om forholdet til Norges bilaterale trygdeavtaler.
-9.11.3 Departementets vurdering
-Departementet kan ikke se at forslagene skulle
-være i strid med Norges bilaterale trygdeavtaler.
-
-9.12 Oppsummering
-Som det fremgår av gjennomgangen ovenfor, kan
-departementet ikke se at de foreslåtte tiltakene
-skulle være i strid med Norges folkerettslige forpliktelser.
-
-[Side 77]
-
-2016–2017
-
-Prop. 85 L
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-77
-
-10 Integreringsmessige konsekvenser av forslagene
-og spørsmålet om hvem som skal bære kostnadene –
-evaluering av tiltakene
-10.1 Integreringsmessige konsekvenser
-Det vises til punkt 5.2.2 om de vurderingene som
-ble gjort i høringsnotatet, av de integreringsmessige konsekvensene av forslagene.
-Som det fremgår av høringsnotatet, er mennesker som innvandrer til Norge en sammensatt
-gruppe, med betydelige individuelle forskjeller i
-ressurser og i forutsetninger for å lykkes her i landet. Dette gjelder flyktninger, så vel som andre
-innvandrergrupper. Innvandrere som gruppe er
-imidlertid, i den første tiden etter ankomsten til
-Norge, i en svakere økonomisk stilling enn resten
-av befolkningen.
-Den norske velferdsmodellen er avhengig av
-høy arbeidsdeltakelse og en effektiv integreringspolitikk, se også Meld. St. 30 (2015–2016) Fra
-mottak til arbeidsliv – en effektiv integreringspolitikk. Departementet er av den oppfatning at det er
-avgjørende for integreringen at nyankomne innvandrere med fluktbakgrunn raskt kommer i
-arbeid og ikke blir stående utenfor arbeidslivet og
-blir avhengige av kontantytelser. Departementet
-ønsker derfor å styrke arbeidsinsentivene for
-både flyktninger og andre med kort botid i Norge,
-både av hensyn til offentlig økonomi og ikke
-minst av hensyn til den positive effekten arbeidsdeltakelse har for den enkelte flyktnings egen
-økonomi og integrering i det norske samfunnet.
-Det er grunn til å anta at det vil ta noe tid før
-de som får opphold i landet på bakgrunn av
-beskyttelsesbehov kommer inn i arbeidslivet, men
-dersom man gjennom de foreslåtte tiltakene lykkes med å stimulere flere til å komme i arbeid,
-antas både inntektsmulighetene og integreringen
-å bli styrket på sikt.
-Flere høringsinstanser er bekymret for at forslagene vil svekke integreringsarbeidet og vanskeliggjøre bosetting av flyktninger. Dette gjelder
-blant andre KS og Rettspolitisk forening.
-KS gir uttrykk for at innstrammingene i trygdeordningene for flyktninger og konsekvensene
-for integreringen deres i det norske samfunnet,
-
-bør belyses særskilt. De uttaler videre at de er
-kjent med at regjeringen har iverksatt andre prosesser og utredningsarbeider for å bedre integreringen og arbeidsdeltagelsen for flyktninger, blant
-annet ved nedsettelsen av Brochmannutvalget. De
-mener at konsekvensene av innstrammingene i
-trygderegelverket bør ses i sammenheng med
-dette utvalgsarbeidet.
-Videre mener Rettspolitisk forening at omlegging av inntektssikringen for eldre og uføre flyktninger vil virke integreringshemmende ved at det
-fører til økt fattigdom for flyktningene.
-Flere høringsinstanser, blant annet Næringslivets Hovedorganisasjon og Rettspolitisk forening
-hevder at omleggingen til ytelser fra ordningen
-med supplerende stønad for uføre flyktninger
-ikke vil gi arbeidsinsentiver, og de påpeker at de
-aktuelle personene per definisjon er enten eldre
-eller uføre, og at de derfor ikke skal i arbeid.
-Rettspolitisk forening mener at det ikke er mangel på insentiver som holder denne gruppen fra å
-delta i arbeidslivet, men reell arbeidsuførhet.
-Etter Næringslivets Hovedorganisasjons (NHO)
-syn vil ikke forslaget om å fjerne særrettigheter
-for flyktninger i folketrygdloven, påvirke sannsynligheten for overgang til arbeid i særlig stor grad.
-NHO finner det i tillegg uklart hvor stor restarbeidsevne disse personene har, og om arbeidsevnen er etterspurt i det ordinære arbeidslivet. Den
-samlede sysselsettingseffekten fremstår derfor,
-etter NHOs syn, som usikker.
-Departementet skal bemerke at arbeidsinsentivene i forslaget ikke er rettet mot personer som
-allerede er eldre eller uføre, men mot personer
-som kommer arbeidsføre til landet i voksen alder,
-og som i dag lett kan passiviseres ved at de på
-grunn av de særskilte bestemmelsene i folketrygdloven har utsikt til en garantert minstepensjon uten noen egeninnsats.
-Videre legger departementet til grunn at en
-viss skjerping av kravene for å kvalifisere for de
-ytelsene som har størst økonomisk betydning, vil
-gi insentiver til å delta i arbeidslivet, både fordi
-
-[Side 78]
-
-78
-
-2016–2017
-
-Prop. 85 L
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-man da vil få en høyere inntekt mens man er
-arbeidsfør og i yrkesaktiv alder, og også for eventuelt på sikt å kunne oppnå rett til ytelser basert
-på denne yrkesaktiviteten. Dessuten vil man – når
-man deltar i arbeidslivet – kunne oppnå et høyere
-nivå på ytelsene enn om man har vært inaktiv.
-Dette svarer etter departementets vurdering godt
-på punkt 16 i Stortingets avtale 19. november
-2015, som anmoder om at det vurderes innføring
-av botidskrav for ytelser som ikke støtter opp om
-arbeid og aktivitet.
-Som det fremgår av punkt 6.5 i NOU 2017: 2
-Integrasjon og tillit, kan de relativt høye minstesatsene i velferdssystemet i Norge være et disinsentiv til arbeid. Dette gjelder særlig for ytelser
-der det ikke stilles eksplisitte krav til arbeidssøking eller arbeidsrettet aktivitet og tidligere deltagelse i arbeidsmarkedet. Departementet viser til
-at det i proposisjonen her ikke foreslås endringer i
-ytelser som er eksplisitt knyttet til arbeidsdeltagelse, så som sykepenger og dagpenger. Ytelsene
-som omfattes av departementets lovforslag, er i
-hovedsak ytelser som ikke krever stor grad av deltagelse i arbeidslivet.
-Et annet viktig prinsipp for departementet er
-at de foreslåtte endringene baserer seg på likebehandling av personer med flyktningstatus og familiegjenforente, personer med opphold på humanitært grunnlag og nordmenn som vender hjem
-etter lange utenlandsopphold. Departementet
-mener at det er et viktig prinsipp, blant annet for
-bærekraften og trygdeordningenes legitimitet, at
-alle gis den samme mulighet til å opparbeide seg
-rett til ytelser fra folketrygden ut fra deltakelsen i
-arbeidslivet, og at man ikke gir særrettigheter til
-enkelte grupper.
-Disse synspunktene kommer også til uttrykk i
-Integrerings- og mangfoldsdirektoratets (IMDi)
-høringsuttalelse. IMDi slutter seg til intensjonen i
-forslaget om likebehandling av personer med
-ulikt oppholdsgrunnlag.
-
-10.2 Hvem skal bære kostnadene
-I arbeidet med å gjennomgå trygderegelverket la
-departementet i høringsnotatet til grunn som et
-hovedprinsipp at det er viktig å unngå at innstrammende tiltak i de statlige ordningene medfører for
-store økonomiske konsekvenser for kommunale
-sosialhjelpsbudsjetter.
-Som det fremgår av punkt 5.4.1, er flere
-høringsinstanser bekymret for at forslagene skal
-resultere i økte kommunale utgifter. Det er blant
-annet frykt for at dette kan medføre at kommuner
-
-vil kvie seg for å bosette flyktninger, med uheldige
-konsekvenser for integreringen.
-KS uttaler:
-«I høringsnotatet er det lagt til grunn et hovedprinsipp om at innstramminger i de statlige
-trygdeordningene ikke skal medføre for store
-økonomiske konsekvenser for kommunale
-sosialhjelpsbudsjetter. Dette hovedprinsippet
-har likevel ikke fått fullt gjennomslag, og flere
-av endringsforslagene kan føre til økte utgifter
-for kommunene, særlig knyttet til økonomisk
-sosialhjelp.
-KS forventer full kompensasjon for kommunesektorens merutgifter som følge av
-endringene i trygderegelverket. Kompensasjonen må omfatte alle merutgifter, inkludert økt
-ressursbehov til saksbehandling som følge av
-at behovsprøvde ordninger er mer krevende å
-håndtere enn lovbestemte ytelser.»
-Flere kommuner, blant andre Bergen kommune,
-Drammen kommune, Larvik kommune, Oslo kommune og Sandnes kommune gir uttrykk for de
-samme synspunktene.
-Som nevnt har Arbeids- og sosialdepartementet, sammen med Finansdepartementet, Justis- og
-beredskapsdepartementet, Barne- og likestillingsdepartementet og Kommunal- og moderniseringsdepartementet, tatt initiativ til et samarbeid med
-kommunenes arbeidsgiver-, interesse- og medlemsorganisasjon, KS, for å kartlegge konsekvensene som de foreslåtte tiltakene vil kunne ha for
-kommunesektoren, se punkt 7.5. Det legges til
-grunn at kommunesektoren vil bli kompensert for
-større merutgifter.
-
-10.3 Evaluering av tiltakene
-I høringsnotatet ble det sagt følgende om oppfølging etter en eventuell lovendring:
-«Departementet vil utarbeide et opplegg for en
-evaluering av virkningene av de foreslåtte
-endringene i trygdeordningene, slik at det kan
-vurderes om det er behov for justeringer.»
-I lys av innspillene fra høringsinstansene vil departementet legge opp til en bred og grundig gjennomgang av konsekvensene av endringene i trygderegelverket. Det vil i denne forbindelse være
-naturlig å se nærmere på en rekke mulige konsekvenser av endringene. Som eksempler nevnes:
-
-[Side 79]
-
-2016–2017
-
-Prop. 85 L
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-Konsekvensene for kommuneøkonomien
-Som nevnt ovenfor, har det blitt tatt initiativ til et
-samarbeid med KS for å kartlegge de forventende
-konsekvensene som endringene vil kunne ha for
-kommunenes sosialhjelpsbudsjetter. Det legges til
-grunn at man i forbindelse med evalueringen av
-endringene bør se nærmere på den faktiske utviklingen.
-Konsekvensene for bosetting
-Det bør i forlengelsen av vurderingen av utviklingen i kommuneøkonomien undersøkes om det i
-evalueringsperioden har funnet sted endringer i
-kommunenes villighet til å bosette flyktninger.
-Konsekvensene for fattigdomsutvikling
-I høringsrunden ga flere instanser uttrykk for en
-bekymring for at forslagene kunne ha utilsiktede
-konsekvenser som gjorde dem til fattigdomsfeller
-for enkelte flyktninger. Evalueringen bør derfor
-gjennomgå utviklingen i forekomsten av vedvarende
-lavinntekt blant personer med flyktningstatus.
-Konsekvensene for familieøkonomien
-Endringene vil kunne gi forskjellige utslag for forskjellige typer familiekonstellasjoner i flyktning-
-
-79
-
-populasjonen. I evalueringen bør det derfor blant
-annet ses nærmere på om det er noen familiekonstellasjoner hvor endringene slår uheldig ut. Det
-bør særlig ses på den økonomiske utviklingen til
-barnefamilier med flyktningbakgrunn.
-Administrative konsekvenser
-En rekke høringsinstanser påpekte at tiltaket vil
-medføre en økt administrativ belastning for
-Arbeids- og velferdsetaten. Evalueringen bør derfor redegjøre for eventuelle endringer i Arbeidsog velferdsetatens bemanning på de aktuelle fagområdene.
-Som nevnt i høringsnotatet, må det forventes å
-ta noe tid før de positive konsekvensene av forslagene vil vise seg. Fordelingsvirkningene og konsekvensene for integrering, som følge av at flere
-av endringene forventes å gi økte arbeidsinsentiver, vil først være synlige etter at de har virket en
-stund. Det vil derfor kunne være hensiktsmessig
-å vente noen få år før evalueringen igangsettes.
-I perioden fra endringenes ikrafttredelse og
-frem til evalueringen tar til, forutsettes det imidlertid at arbeids- og velferdsforvaltningen vil følge
-utviklingen nøye.
-
-[Side 80]
-
-80
-
-Prop. 85 L
-
-2016–2017
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-11 Overgangsordninger
-11.1 Innledning
-Arbeids- og sosialdepartementet har, med støtte
-fra Justis- og beredskapsdepartementets lovavdeling, lagt til grunn at innstrammingene i trygderegelverket kan gis virkning for personer som har
-søkt om asyl ved lovendringenes ikrafttredelse.
-Arbeids- og sosialdepartementet ba Lovavdelingen vurdere nærmere hvordan dette stiller seg
-for personer som allerede har fått oppholdstillatelse, men som foreløpig ikke har opptjent rett til
-en trygdeytelse eller som ikke har søkt om eller
-fått tilstått en ytelse.
-I punkt 11.2 behandles endringer av folketrygdens særskilte bestemmelser for flyktninger og i
-punkt 11.3 skjerping av kravet til forutgående kvalifiseringsperioder. I punkt 11.4 foreslås overgangsordninger.
-
-11.2 Endring av folketrygdens særskilte
-bestemmelser for flyktninger
-Justis- og beredskapsdepartementets lovavdeling
-har blitt forelagt spørsmålet om forholdet til
-Grunnloven § 97 ved en avvikling av folketrygdens særskilte bestemmelser for flyktninger.
-I brev 3. desember 2015 har Lovavdelingen
-vurdert grunnlovsmessigheten av å avvikle folketrygdens særskilte bestemmelser for flyktninger,
-både for allerede tilståtte ytelser og for fremtidige
-ytelser. Lovavdelingen er av den oppfatning at
-grunnlovsvernet for alderspensjon og uføretrygd
-til en viss grad må antas å omfatte de særskilte
-beregningsreglene for flyktninger. Lovavdelingen
-legger til grunn at det vil være mest problematisk
-å avvikle de særskilte bestemmelsene for alderspensjon for flyktninger som har langvarig opphold
-i Norge og kort tid igjen til pensjonsalderen.
-For uføretrygd legger Lovavdelingen til grunn
-at den enkeltes forventning, i motsetning til det
-som gjelder for alderspensjon, ikke kan bygges på
-at en rett til ytelser inntrer på et bestemt fremtidig
-tidspunkt. Etter Lovavdelingens oppfatning får
-derfor lengden av oppholdstiden i Norge før regel-
-
-endringene inntreffer sentral betydning ved
-grunnlovsvurderingen.
-Videre uttaler Lovavdelingen at det kan være
-argumenter for at grunnlovsvernet for ytelser til
-gjenlevende ektefelle og for barnepensjonen i
-praksis kan bli svakere enn det som gjelder for
-alderspensjon og uføretrygd. Lovavdelingen
-nøyer seg imidlertid med å peke på at disse
-ytelsene er avledet av medlemmets rett og har
-innslag av sosial ytelse.
-
-11.3 Skjerping av kravet til forutgående
-kvalifiseringsperioder for
-folketrygdens pensjoner mv. og
-innføring av et slikt krav for visse
-korttidsytelser
-11.3.1 Innledning
-Arbeids- og sosialdepartementet har bedt Lovavdelingen vurdere spørsmålet om hvor langt følgende tre typer innstramminger i ytelser etter folketrygdloven er forenelige med Grunnloven § 97:
-1. heving av kvalifikasjonskravet fra tre til fem år
-for rett til alderspensjon, gjenlevendepensjon,
-barnepensjon og uføretrygd,
-2. heving av kvalifikasjonskravet fra tre til fem år
-for rett til arbeidsavklaringspenger og fra tre år
-til syv år for rett til stønad for enslige forsørgere, og
-3. innføring av kvalifikasjonskrav på fem til syv år
-for visse korttidsytelser.
-Det ble lagt til grunn at det skisserte forslaget
-både skal gjelde for personer som har oppholdstillatelse i Norge (og eventuelt statsborgerskap i tillegg) og for personer som ikke har fått innvilget
-oppholdstillatelse. Norske statsborgere og andre
-med oppholdstillatelse i Norge som har utenlandsopphold i kvalifiseringsperioden omfattes således
-også av forslaget.
-Forslaget skal også gjelde personer som ved
-lovens ikrafttredelse oppfyller kvalifikasjonskravene, men som ennå ikke har fremsatt krav om
-ytelse etter folketrygdloven. Forslaget skal imidlertid ikke gjelde personer som har satt frem krav
-
-[Side 81]
-
-2016–2017
-
-Prop. 85 L
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-om den aktuelle trygdeytelsen før lovens ikrafttredelse.
-Lovavdelingen avga sin vurdering i brev 16.
-mars 2016.
-
-11.3.2 Heving av kvalifikasjonskravet fra tre
-til fem år for rett til alderspensjon,
-gjenlevendepensjon, barnepensjon og
-uføretrygd
-11.3.2.1 Innledning
-For rett til pensjonsytelser etter folketrygdloven
-stilles det krav om at mottakeren har en forutgående trygdetilknytning til Norge (kvalifikasjonskrav) før det pensjonsbetingende tilfellet inntreffer. For rett til uføretrygd er det et krav om at
-søkeren i de siste tre årene frem til uføretidspunktet har vært medlem i trygden. For rett til ytelser
-til gjenlevende ektefelle og barnepensjon er det et
-krav om at avdøde i de siste tre årene frem til
-dødsfallet var medlem i trygden. For rett til alderspensjon er det et krav om tre års trygdetid fra personen fylte 16 år og frem til uttaket av alderspensjon. Fra alle disse kvalifikasjonskravene gjelder det unntak. Det vises til kapittel 3 om gjeldende rett for nærmere detaljer.
-Spørsmålet er om det er i overenstemmelse
-med Grunnloven § 97 å øke kvalifikasjonskravene
-fra tre til fem år for personer som enda ikke har
-fremsatt krav om de ovennevnte ytelsene.
-11.3.2.2 Alderspensjon
-I Lovavdelingens brev av 3. desember 2015 ble det
-uttalt følgende om hvorvidt en fjerning av de særlige beregningsreglene for flyktninger ved alderspensjon vil være i overenstemmelse med Grunnloven § 97:
-«Etter vårt syn er det særlig der en flyktning
-over lang tid har hatt lovlig opphold i Norge,
-med pliktig medlemskap i folketrygden, og
-vedkommende har innrettet seg etter et eksisterende regelverk, at det kan være grunnlag
-for forventninger som er beskyttet etter
-Grunnloven § 97. Etter hvert som oppholdet i
-Norge og dermed tilknytningen til landet øker,
-vil en pensjonsytelse også få mindre preg av å
-være en rent sosial ytelse. Likheten med situasjonen for andre personer som kan få alderspensjon uten at betalingselementet står sentralt, øker. Forventningen om å kunne bygge
-rett på det eksisterende regelverket vil dessuten tilta i styrke etter hvert som en nærmer seg
-
-81
-
-at et pensjonstilfelle inntreffer (ved at pensjonsalderen nås). Spørsmålet om vern vil gjøre seg
-gjeldende med større styrke desto større inngrep det blir spørsmål om. Ved vurderingen av
-inngrepets størrelse må en sammenligne tilstanden før og etter inngrepet. Det vil dessuten
-ha betydning hvor plutselig inngrepet skjer.
-Lengden av eventuelle overgangsperioder kan
-her ha betydning. Vi viser til de momentene til
-vurderingen som er oppstilt i Borthen-saken.»
-Lovavdelingen viser i brev av 16. mars 2016 til at
-de avveiningene som her er gjort, også vil være
-avgjørende for spørsmålet om en heving av kvalifikasjonskravet for rett til alderspensjon vil være i
-overenstemmelse med Grunnloven § 97.
-Etter Lovavdelingens syn vil det ikke være i
-strid med Grunnloven § 97 å øke kvalifikasjonskravet fra tre til fem år for rett til alderspensjon.
-Dette gjelder selv for personer som hadde mer
-enn tre års trygdetid og dermed oppfylte kvalifikasjonskravet ved regelendringens ikrafttredelse,
-men som ikke rekker å få fem års trygdetid før
-pensjonsalder nås. Det er etter Lovavdelingens
-syn avgjørende for konklusjonen at disse personene har hatt så kort oppholdstid i Norge, normalt
-mindre enn fem år fra innvilgelsen av oppholdstillatelsen, at de i liten grad har innrettet seg etter
-eller på annen måte fått berettigede forventninger
-om å få alderspensjon fra Norge. Dertil er pensjonstapet nokså lite – de vil kun tape pensjon
-basert på tre til fem års trygdetid i Norge. Videre
-nevner Lovavdelingen at gruppen som rammes av
-lovendringen til dels vil kunne få supplerende stønad. Muligheten for kompensasjon av tapet er
-imidlertid mindre relevant, all den tid botiden er
-såpass kort og pensjonstapet såpass begrenset.
-Lovavdelingen nevner også at saken gjelder pensjoner hvor betalings- og opptjeningselementet er
-lite fremtredende, men også dette er etter deres
-mening mindre relevant.
-
-11.3.2.3 Uføretrygd
-I brevet av 3. desember 2015 uttalte Lovavdelingen følgende om hvorvidt en fjerning av de
-særlige beregningsreglene for flyktninger ved
-uføretrygd vil være i strid med Grunnloven § 97:
-«Ved vurderingen etter Grunnloven § 97 kan
-en likevel ikke på samme måte som for alderspensjonen legge vekt på hvor lang tid det går
-mellom regelendringene og tidspunktet for når
-pensjonstilfellet inntreffer. Den enkeltes forventning kan ikke bygges på at en rett til
-
-[Side 82]
-
-82
-
-Prop. 85 L
-
-2016–2017
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-ytelser inntrer på et bestemt fremtidig tidspunkt, men må heller vurderes ut fra at det oppstår en rett til ytelser dersom uførhet, med tilhørende tap av inntektsevne, skulle inntreffe.
-Spørsmålet om lengden av oppholdstiden i
-Norge før regelendringene inntreffer, får dermed sentral betydning ved grunnlovsvurderingen. Det kan riktignok anføres at uføretrygden
-i noe større grad enn alderspensjonen bærer
-preg av en sosial ytelse. Det er like fullt tale om
-en lovbestemt, rettighetsbasert ytelse. Også
-for dem som hittil har nytt godt av flyktningfordelene, må det ha betydning at uføretrygden
-etter folketrygdloven § 12-1 har til formål «å
-sikre inntekt for personer som har fått sin inntektsevne varig nedsatt på grunn av sykdom,
-skade eller lyte».
-Lovavdelingen viste i sitt brev av 16. mars 2016 til
-at de avveiningene som her er gjort, sammen med
-de avveiningene som er gjengitt over om alderspensjon, vil være avgjørende for hvorvidt heving
-av kvalifikasjonskravet for rett til uføretrygd er i
-overenstemmelse med Grunnloven § 97.
-Etter Lovavdelingens syn vil det ikke være i
-strid med Grunnloven § 97 å heve kvalifikasjonskravet for rett til uføretrygd fra tre til fem år for
-alle som setter frem krav om uføretrygd etter at
-lovendringene har trådt i kraft. Dette gjelder selv
-for personer som hadde mer enn tre års medlemskap i trygden og dermed oppfylte kvalifikasjonskravet ved regelendringens ikrafttredelse, men
-som ikke har hatt fem års medlemskap før uføretidspunktet. Ettersom uføretrygd beregnes på
-grunnlag av både faktisk trygdetid frem til man
-blir ufør og fremtidig trygdetid som godskrives
-frem til man fyller 67 år, vil det kunne medføre at
-tapet kan bli nokså stort for yngre personer, som
-har mye av ytelsen beregnet på grunnlag av fremtidig opptjening. Sett hen til at personene som
-rammes av regelendringen oftest vil ha hatt kort
-oppholdstid i Norge, normalt mindre enn fem år
-fra innvilgelsen av oppholdstillatelsen, og at den
-enkeltes forventning ikke kan bygges på at en rett
-til ytelser inntrer på et bestemt fremtidig tidspunkt, vil en heving av kvalifikasjonskravet til fem
-år etter Lovavdelingens syn likevel ikke være i
-strid med Grunnloven § 97.
-Arbeids- og sosialdepartementet ba Lovavdelingen vurdere om en utvidelse av ordningen med
-supplerende stønad til også å omfatte uføre, vil ha
-betydning for grunnlovsvurderingen. Av Lovavdelingens brev av 15. juni 2016 fremgår at en slik lovendring kan ha betydning for spørsmålet om det
-er i overenstemmelse med Grunnloven § 97 å
-
-endre de særlige beregningsreglene som gjelder
-for flyktningers uføretrygd, og Lovavdelingen
-viser også til sin uttalelse av 3. desember 2015.
-Om loven utvides til også å omfatte uføre, har liten
-eller ingen betydning for spørsmålet om øking av
-kvalifikasjonskravet for uføretrygd fra tre år til
-fem år.
-
-11.3.2.4 Ytelser til gjenlevende ektefelle og
-barnepensjon
-På bakgrunn av det Lovavdelingen har konkludert
-med angående heving av kvalifikasjonskravet for
-alderspensjon og uføretrygd, kan de ikke se at det
-vil være i strid med Grunnloven § 97 å gjøre det
-samme for ytelser til gjenlevende ektefelle og for
-barnepensjon. Lovavdelingen kan vanskelig se at
-disse ytelsene skulle ha noe større vern enn alderspensjon og uføretrygd, tvert imot mener de at det
-er forhold som taler for at vernet i praksis kan
-være svakere. De nøyer seg med å peke på at
-disse ytelsene er avledet av medlemmets rett og
-har innslag av sosial ytelse, og viser for øvrig til
-sin uttalelse av 3. desember 2015.
-11.3.2.5 Heving av kvalifikasjonskravet for
-arbeidsavklaringspenger fra tre til fem år
-og for stønad for enslige forsørgere fra tre
-år til syv år
-Lovavdelingen viser til at det følger av Høyesteretts dom gjengitt i Norsk Retstidende 1996 s.
-1415 (Borthen), at utgangspunktet og hovedregelen er at lovbestemte økonomiske ytelser fra det
-offentlige for fremtiden kan falle bort eller
-begrenses gjennom lovgivningen uten hinder av
-Grunnloven § 97. Forventninger om at man i
-fremtiden vil omfattes av en bestemt rettighet, er i
-liten grad vernet mot at regelen endres eller oppheves før den tid kommer.
-Lovavdelingen gir uttrykk for at selv om
-arbeidsavklaringspenger er en lovbestemt rett,
-som skal sikre mottakerens livsopphold ved bortfall av arbeidsinntekt, er det like fullt en korttidsytelse, med et lite fremtredende betalings- og opptjeningselement. Når dette ses i sammenheng
-med den korte botiden som de aktuelle personene
-har hatt i Norge, er det etter Lovavdelingens syn
-klart at det ikke vil være «grovt urimelig eller
-urettferdig» å la en lovendring få virkning for personer som på tidspunktet for regelendringens
-ikrafttredelse oppfylte treårskravet. Lovavdelingen finner det ikke nødvendig å foreta en generell vurdering av hvilket vern Grunnloven § 97 gir
-
-[Side 83]
-
-2016–2017
-
-Prop. 85 L
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-den enkelte mot endringer i reglene om arbeidsavklaringspenger.
-Lovavdelingen viser til at det for flyktninger i
-dag ikke gjelder noe kvalifikasjonskrav for rett til
-arbeidsavklaringspenger, og at det som nevnt
-ovenfor ikke vil være i strid med Grunnloven § 97
-å innføre et femårig kvalifikasjonskrav for pensjonsytelser for denne gruppen. I lys av dette vil
-det etter Lovavdelingens syn heller ikke være
-grunnlovsstridig å innføre et femårig kvalifikasjonskrav for arbeidsavklaringspenger.
-Lovavdelingen mener det heller ikke vil være i
-strid med Grunnloven § 97 å heve kvalifikasjonskravet for rett til stønad for enslige forsørgere fra
-tre år til syv år. Dette er en utpreget sosial ytelse,
-hvilket innebærer at lovgiver har stor handlefrihet
-for oppstilling av tilknytningskrav.
-
-11.3.2.6 Særlig om flyktninger og personer som
-har fått oppholdstillatelse i Norge på
-annet grunnlag etter en asylsøknad
-Lovavdelingen viser til at det for flyktninger i dag
-ikke gjelder noe kvalifikasjonskrav for rett til
-alderspensjon, gjenlevendepensjon, barnepensjon og uføretrygd. Dermed kan de få pensjonsytelser fra og med innvilgelsen av oppholdstillatelsen, gitt at lovens øvrige vilkår er oppfylt. Lovavdelingen har kommet til at det ikke ville være i
-strid med Grunnloven § 97 å oppheve unntakene
-fra kravene til tre års forutgående trygdetilknytning til Norge, slik at disse kravene også vil gjelde
-for flyktninger. Etter Lovavdelingens syn vil derfor heller ikke innføring av et kvalifikasjonskrav
-på fem år for denne gruppen være i strid med
-Grunnloven § 97. Riktignok vil flyktninger som
-ved regelendringens ikrafttredelse har vært kvalifisert for en pensjonsytelse i mer enn fire år, miste
-retten til ytelsen dersom pensjonstilfellet inntrer
-før fem år er gått. Dette er imidlertid etter Lovavdelingens syn ikke tilstrekkelig til at tilbakevirkningsvurderingen blir en annen enn den som er
-gjort i punktene 11.3.2.2 til 11.3.2.4.
-For personer som etter en asylsøknad får oppholdstillatelse i Norge på annet grunnlag enn
-flyktningstatus, for eksempel opphold på humanitært grunnlag, følger det av forskrift 14. mai 2008
-nr. 460 om trygdedekning for asylsøkere og deres
-familiemedlemmer § 3, jf. § 2, at tiden fra og med
-fremsettelsen av søknaden om asyl vil regnes med
-i vurderingen av om vedkommende oppfyller kvalifikasjonskravene for rett til ytelser etter folketrygdloven. Lovavdelingen legger til grunn at det
-ikke er i strid med Grunnloven § 97 å fjerne denne
-bestemmelsen. Etter Lovavdelingens syn vil følge-
-
-83
-
-lig heller ikke det å innføre et kvalifikasjonskrav
-på fem år for denne gruppen være i strid med
-Grunnloven § 97. Riktignok vil de to regelendringene sammen gjøre at perioden før kvalifikasjonskravet er oppfylt, økes noe mer for denne
-gruppen enn andre, men Lovavdelingen mener at
-dette ikke er tilstrekkelig til at tilbakevirkningsvurderingen blir en annen enn den som er gjort
-foran.
-
-11.3.2.7 Innføring av kvalifikasjonskrav for
-korttidsytelser
-Lovavdelingen viser til at det følger av Høyesteretts dom gjengitt i Norsk Retstidende 1996 s.
-1415 (Borthen), at utgangspunktet og hovedregelen er at lovbestemte økonomiske ytelser fra det
-offentlige for fremtiden kan falle bort eller
-begrenses gjennom lovgivningen uten hinder av
-Grunnloven § 97. Om slike regelendringer vil
-være i samsvar med Grunnloven § 97, må likevel
-avhenge av en konkret vurdering av om tilbakevirkningen ved den enkelte endringen er «særlig
-urimelig eller urettferdig». Lovavdelingen uttaler
-at det for eksempel ikke utelukkes at det er grenser for hvor høye kvalifikasjonskrav som kan oppstilles med tilbakevirkende kraft, sett hen til at de
-som rammes har vært pliktige medlemmer i folketrygden og betalt trygdeavgift. Lovavdelingen
-mener en slik mulig grense under enhver omstendighet ikke vil være overtrådt allerede ved syv år.
-
-11.4 Ikraftsetting. Overgangsordninger
-11.4.1 Høringsnotatet
-I høringsnotatet foreslo departementet at innstrammingene i regelverket skal gjøres gjeldende
-for personer som setter frem krav etter lovens
-ikrafttredelse.
-Om behovet for overgangsordninger uttalte
-departementet i høringsnotatet:
-«Etter departementets vurdering er det ikke
-behov for overgangsregler med hensyn til de
-særskilte bestemmelsene om unntak fra kravet
-til botid for retten til alderspensjon og uføretrygd. Det er heller ikke behov for overgangsbestemmelser for beregning av barnetillegg og
-ektefelletillegg.
-Departementet mener imidlertid at det bør
-gis overgangsregler for de særskilte bestemmelsene om beregningen av alderspensjon,
-slik at man skjermer personer som er 62 år
-eller eldre ved lovens ikrafttredelse. Denne
-
-[Side 84]
-
-84
-
-Prop. 85 L
-
-2016–2017
-
-Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg
-(ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser)
-
-gruppen har maksimalt fem år igjen til 67 år, da
-de med dagens regler ville ha oppnådd alderspensjon etter de særskilte bestemmelsene. Det
-bør imidlertid stilles krav om langvarig tilknytning til folketrygden for å komme inn under
-overgangsreglene. Personer som har halvparten av sin opptjening i Norge, det vil si 20 år, må
-anses for å ha tilstrekkelig langvarig tilknytning.
-Departementet har vurdert om det bør gis
-overgangsordninger for uføre flyktninger som
-hverken mottar uføretrygd eller har fremsatt
-krav om uføretrygd ved lovens ikrafttredelse,
-tilsvarende som ved alderspensjon.
-Utgangspunktet er at lovgiver står fritt til å
-endre regelverket med virkning for alle tilfeller
-som oppstår etter at endringen har trådt i kraft.
-Folketrygdlovens bestemmelser om rettigheter for flyktninger innebærer en positiv særbehandling fremfor andre grupper i samfunnet.
-Det er som utgangspunkt et politisk spørsmål
-om en vil innføre eller opprettholde denne
-typen fordeler for en bestemt gruppe med virkning fremover.
-Forslaget i høringsnotatet innebærer at personer med flyktningstatus som oppfyller de
-medisinske og ervervsmessig vilkårene for
-uføretrygd, men har lav eller ingen opptjent
-rett etter folketrygdlovens regler, sikres nødvendig inntekt til livsopphold gjennom etableringen av ordningen med supplerende stønad
-for uføre flyktninger. Denne stønaden vil
-komme i stedet for eller som et supplement til
-uføretrygden. Den supplerende stønaden er
-imidlertid behovsprøvd, og det gis ikke barnetillegg slik som i uføretrygden. Behovsprøvingen vil ivareta behovet for innstramminger i
-statens utgifter, samtidig som det vil skjerme
-de personene innenfor gruppen som ellers ville
-blitt rammet hardest.
-Ettersom endringene bare gis virkningen
-for flyktninger som setter frem krav om uføretrygd etter lovens ikrafttredelse, ser departementet ikke behov for overgangsregler ut over
-dette.
-Endringene i asylsøkerforskriften vil ikke
-få stor innvirkning på den enkeltes mulighet til
-å tjene opp rett til pensjon, og departementet
-anser det derfor ikke nødvendig med overgangsregler.»
-I utkastet til lovendringer i høringsnotatet ble det
-på bakgrunn av uttalelsene fra Lovavdelingen
-foreslått at det utarbeides regler for overgang til
-alderspensjon for personer som har uføretrygd
-
-etter de særskilte bestemmelsene for flyktninger
-på det tidspunktet loven trer i kraft.
-Det ble i høringsnotatet vist til at Lovavdelingen anbefaler at personer som har hatt lang tilknytning til Norge unntas fra lovendringen av
-hensyn til Grunnloven § 97. Departementet vurderte det slik at personer som mottar uføretrygd
-etter de særskilte bestemmelsene for flyktninger i
-folketrygdloven, som har kort tid igjen til pensjonsalderen og som har oppholdt seg lenge i
-Norge, også bør få alderspensjon etter de særskilte bestemmelsene for flyktninger.
-I forlengelsen av de foreslåtte overgangsreglene i høringsnotatet, mente departementet at
-det kan være passende at personer som mottar
-uføretrygd etter de særskilte bestemmelsene for
-flyktninger, har maksimalt 5 år igjen til pensjonsalder og som har vært medlemmer i folketrygden i
-minst 20 år etter fylte 16 år, ved overgangen til
-alderspensjon får pensjon etter de særskilte
-bestemmelsene for flyktninger.
-
-11.4.2 Høringsinstansens syn
-Kun et fåtall instanser har hatt synspunkter på
-behovet for overgangsregler og forholdet til
-Grunnloven § 97.
-Etter Justis- og beredskapsdepartementets syn vil
-det være en fordel om man i proposisjonen gir en
-mer utførlig omtale av hvilke konsekvenser de
-foreslåtte endringene i regelverket om uføretrygd
-vil ha for bestående rettsposisjoner og av forholdet til Grunnloven § 97.
-Rettspolitisk forening mener at det er positivt at
-det blir gitt overgangsregler for de særskilte
-bestemmelsene om beregningen av alderspensjon, slik at man skjermer personer som er over
-62 år eller eldre ved lovens ikrafttredelse. Rettspolitisk forening stiller seg likevel ikke bak forslaget
-om at det skal oppstilles som et ytterligere vilkår
-at flyktningen har 20 års botid i Norge for å
-komme inn under overgangsreglene.
-Bærum kommune sier:
-«For tidligere bosatte flyktninger og asylsøkere som etter vedtatt regelendring mister sin
-arbeidsevne, eller kan fremsette krav om alderspensjon vil særregelen om å innvilge (full)
-minstepensjon bortfalle. De vil få pensjon
-beregnet etter det faktiske antall år bosatt i
-Norge og ikke 40 år som særregelen åpner for.
-Det er uklart i høringsnotat om denne gruppen
-kan/skal henvises til ordningen med statlig
-supplerende stønad.»
+<u>«Ved vurderingen etter Grunnloven § 97 kan en likevel ikke på samme måte som for alderspensjonen legge vekt på hvor lang tid det går mellom regelendringene og tidspunktet for når pensjonstilfellet inntreffer. Den enkeltes forventning kan ikke bygges på at en rett til ytelser inntrer på et bestemt fremtidig tidspunkt, men må heller vurderes ut fra at det oppstår en rett til ytelser dersom uførhet, med tilhørende tap av inntektsevne, skulle inntreffe. Spørsmålet om lengden av oppholdstiden i Norge før regelendringene inntreffer, får dermed sentral betydning ved grunnlovsvurderingen. Det kan riktignok anføres at uføretrygden i noe større grad enn alderspensjonen bærer preg av en sosial ytelse. Det er like fullt tale om en lovbestemt, rettighetsbasert ytelse. Også for dem som hittil har nytt godt av flyktningfordelene, må det ha betydning at uføretrygden etter folketrygdloven § 12-1 har til formål «å sikre inntekt for personer som har fått sin inntektsevne varig nedsatt på grunn av sykdom, skade eller lyte».</u>
+
+Lovavdelingen viste i sitt brev av 16. mars 2016 til at de avveiningene som her er gjort, sammen med de avveiningene som er gjengitt over om alderspensjon, vil være avgjørende for hvorvidt heving av kvalifikasjonskravet for rett til uføretrygd er i overenstemmelse med Grunnloven § 97.
+
+Etter Lovavdelingens syn vil det ikke være i strid med Grunnloven § 97 å heve kvalifikasjonskravet for rett til uføretrygd fra tre til fem år for alle som setter frem krav om uføretrygd etter at lovendringene har trådt i kraft. Dette gjelder selv for personer som hadde mer enn tre års medlemskap i trygden og dermed oppfylte kvalifikasjonskravet ved regelendringens ikrafttredelse, men som ikke har hatt fem års medlemskap før uføretidspunktet. Ettersom uføretrygd beregnes på grunnlag av både faktisk trygdetid frem til man blir ufør og fremtidig trygdetid som godskrives frem til man fyller 67 år, vil det kunne medføre at tapet kan bli nokså stort for yngre personer, som har mye av ytelsen beregnet på grunnlag av fremtidig opptjening. Sett hen til at personene som rammes av regelendringen oftest vil ha hatt kort oppholdstid i Norge, normalt mindre enn fem år fra innvilgelsen av oppholdstillatelsen, og at den enkeltes forventning ikke kan bygges på at en rett til ytelser inntrer på et bestemt fremtidig tidspunkt, vil en heving av kvalifikasjonskravet til fem år etter Lovavdelingens syn likevel ikke være i strid med Grunnloven § 97.
+
+Arbeids- og sosialdepartementet ba Lovavdelingen vurdere om en utvidelse av ordningen med supplerende stønad til også å omfatte uføre, vil ha betydning for grunnlovsvurderingen. Av Lovavdelingens brev av 15. juni 2016 fremgår at en slik lovendring kan ha betydning for spørsmålet om det er i overenstemmelse med Grunnloven § 97 å endre de særlige beregningsreglene som gjelder for flyktningers uføretrygd, og Lovavdelingen viser også til sin uttalelse av 3. desember 2015. Om loven utvides til også å omfatte uføre, har liten eller ingen betydning for spørsmålet om øking av kvalifikasjonskravet for uføretrygd fra tre år til fem år.
+
+1.  *<u>Ytelser til gjenlevende ektefelle og barnepensjon</u>*
+
+På bakgrunn av det Lovavdelingen har konkludert med angående heving av kvalifikasjonskravet for alderspensjon og uføretrygd, kan de ikke se at det vil være i strid med Grunnloven § 97 å gjøre det samme for ytelser til gjenlevende ektefelle og for barnepensjon. Lovavdelingen kan vanskelig se at disse ytelsene skulle ha noe større vern enn alderspensjon og uføretrygd, tvert imot mener de at det er forhold som taler for at vernet i praksis kan være svakere. De nøyer seg med å peke på at disse ytelsene er avledet av medlemmets rett og har innslag av sosial ytelse, og viser for øvrig til sin uttalelse av 3. desember 2015.
+
+1.  *<u>Heving av kvalifikasjonskravet for arbeidsavklaringspenger fra tre til fem </u><u>å</u><u>r og for st</u><u>ø</u><u>nad for enslige fors</u><u>ø</u><u>rgere fra tre </u><u>å</u><u>r til syv </u><u>å</u><u>r</u>*
+
+Lovavdelingen viser til at det følger av Høyesteretts dom gjengitt i Norsk Retstidende 1996 s. 1415 (Borthen), at utgangspunktet og hovedregelen er at lovbestemte økonomiske ytelser fra det offentlige for fremtiden kan falle bort eller begrenses gjennom lovgivningen uten hinder av Grunnloven § 97. Forventninger om at man i fremtiden vil omfattes av en bestemt rettighet, er i liten grad vernet mot at regelen endres eller oppheves før den tid kommer.
+
+Lovavdelingen gir uttrykk for at selv om arbeidsavklaringspenger er en lovbestemt rett, som skal sikre mottakerens livsopphold ved bortfall av arbeidsinntekt, er det like fullt en korttidsytelse, med et lite fremtredende betalings- og opptjeningselement. Når dette ses i sammenheng med den korte botiden som de aktuelle personene har hatt i Norge, er det etter Lovavdelingens syn klart at det ikke vil være «grovt urimelig eller urettferdig» å la en lovendring få virkning for personer som på tidspunktet for regelendringens ikrafttredelse oppfylte treårskravet. Lovavdelingen finner det ikke nødvendig å foreta en generell vurdering av hvilket vern Grunnloven § 97 gir den enkelte mot endringer i reglene om arbeidsavklaringspenger.
+
+Lovavdelingen viser til at det for flyktninger i dag ikke gjelder noe kvalifikasjonskrav for rett til arbeidsavklaringspenger, og at det som nevnt ovenfor ikke vil være i strid med Grunnloven § 97 å innføre et femårig kvalifikasjonskrav for pensjonsytelser for denne gruppen. I lys av dette vil det etter Lovavdelingens syn heller ikke være grunnlovsstridig å innføre et femårig kvalifikasjonskrav for arbeidsavklaringspenger.
+
+Lovavdelingen mener det heller ikke vil være i strid med Grunnloven § 97 å heve kvalifikasjonskravet for rett til stønad for enslige forsørgere fra tre år til syv år. Dette er en utpreget sosial ytelse, hvilket innebærer at lovgiver har stor handlefrihet for oppstilling av tilknytningskrav.
+
+1.  *<u>S</u><u>æ</u><u>rlig om flyktninger og personer som har f</u><u>å</u><u>tt oppholdstillatelse i Norge p</u><u>å</u><u> annet grunnlag etter en asyls</u><u>ø</u><u>knad</u>*
+
+Lovavdelingen viser til at det for flyktninger i dag ikke gjelder noe kvalifikasjonskrav for rett til alderspensjon, gjenlevendepensjon, barnepensjon og uføretrygd. Dermed kan de få pensjonsytelser fra og med innvilgelsen av oppholdstillatelsen, gitt at lovens øvrige vilkår er oppfylt. Lovavdelingen har kommet til at det ikke ville være i strid med Grunnloven § 97 å oppheve unntakene fra kravene til tre års forutgående trygdetilknytning til Norge, slik at disse kravene også vil gjelde for flyktninger. Etter Lovavdelingens syn vil derfor heller ikke innføring av et kvalifikasjonskrav på fem år for denne gruppen være i strid med Grunnloven § 97. Riktignok vil flyktninger som ved regelendringens ikrafttredelse har vært kvalifisert for en pensjonsytelse i mer enn fire år, miste retten til ytelsen dersom pensjonstilfellet inntrer før fem år er gått. Dette er imidlertid etter Lovavdelingens syn ikke tilstrekkelig til at tilbakevirkningsvurderingen blir en annen enn den som er gjort i punktene 11.3.2.2 til 11.3.2.4.
+
+For personer som etter en asylsøknad får oppholdstillatelse i Norge på annet grunnlag enn flyktningstatus, for eksempel opphold på humanitært grunnlag, følger det av forskrift 14. mai 2008 nr. 460 om trygdedekning for asylsøkere og deres familiemedlemmer § 3, jf. § 2, at tiden fra og med fremsettelsen av søknaden om asyl vil regnes med i vurderingen av om vedkommende oppfyller kvalifikasjonskravene for rett til ytelser etter folketrygdloven. Lovavdelingen legger til grunn at det ikke er i strid med Grunnloven § 97 å fjerne denne bestemmelsen. Etter Lovavdelingens syn vil følgelig heller ikke det å innføre et kvalifikasjonskrav på fem år for denne gruppen være i strid med Grunnloven § 97. Riktignok vil de to regelendringene sammen gjøre at perioden før kvalifikasjonskravet er oppfylt, økes noe mer for denne gruppen enn andre, men Lovavdelingen mener at dette ikke er tilstrekkelig til at tilbakevirkningsvurderingen blir en annen enn den som er gjort foran.
+
+1.  *<u>Innf</u><u>ø</u><u>ring av kvalifikasjonskrav for korttidsytelser</u>*
+
+Lovavdelingen viser til at det følger av Høyesteretts dom gjengitt i Norsk Retstidende 1996 s. 1415 (Borthen), at utgangspunktet og hovedregelen er at lovbestemte økonomiske ytelser fra det offentlige for fremtiden kan falle bort eller begrenses gjennom lovgivningen uten hinder av Grunnloven § 97. Om slike regelendringer vil være i samsvar med Grunnloven § 97, må likevel avhenge av en konkret vurdering av om tilbakevirkningen ved den enkelte endringen er «særlig urimelig eller urettferdig». Lovavdelingen uttaler at det for eksempel ikke utelukkes at det er grenser for hvor høye kvalifikasjonskrav som kan oppstilles med tilbakevirkende kraft, sett hen til at de som rammes har vært pliktige medlemmer i folketrygden og betalt trygdeavgift. Lovavdelingen mener en slik mulig grense under enhver omstendighet ikke vil være overtrådt allerede ved syv år.
+
+1.  **<u>Ikraftsetting. Overgangsordninger</u>**
+
+    1.  **<u>H</u><u>ø</u><u>ringsnotatet</u>**
+
+I høringsnotatet foreslo departementet at innstrammingene i regelverket skal gjøres gjeldende for personer som setter frem krav etter lovens ikrafttredelse.
+
+Om behovet for overgangsordninger uttalte departementet i høringsnotatet:
+
+<u>«Etter departementets vurdering er det ikke behov for overgangsregler med hensyn til de særskilte bestemmelsene om unntak fra kravet til botid for retten til alderspensjon og uføretrygd. Det er heller ikke behov for overgangsbestemmelser for beregning av barnetillegg og ektefelletillegg.</u>
+
+<u>Departementet mener imidlertid at det bør gis overgangsregler for de særskilte bestemmelsene om beregningen av alderspensjon, slik at man skjermer personer som er 62 år eller eldre ved lovens ikrafttredelse. Denne gruppen har maksimalt fem år igjen til 67 år, da de med dagens regler ville ha oppnådd alderspensjon etter de særskilte bestemmelsene. Det bør imidlertid stilles krav om langvarig tilknytning til folketrygden for å komme inn under overgangsreglene. Personer som har halvparten av sin opptjening i Norge, det vil si 20 år, må anses for å ha tilstrekkelig langvarig tilknytning.</u>
+
+<u>Departementet har vurdert om det bør gis overgangsordninger for </u>*<u>uf</u><u>ø</u><u>re </u>*<u>flyktninger som hverken mottar uføretrygd eller har fremsatt krav om uføretrygd ved lovens ikrafttredelse, tilsvarende som ved alderspensjon.</u>
+
+<u>Utgangspunktet er at lovgiver står fritt til å endre regelverket med virkning for alle tilfeller som oppstår etter at endringen har trådt i kraft. Folketrygdlovens bestemmelser om rettigheter for flyktninger innebærer en positiv særbehandling fremfor andre grupper i samfunnet. Det er som utgangspunkt et politisk spørsmål om en vil innføre eller opprettholde denne typen fordeler for en bestemt gruppe med virkning fremover.</u>
+
+<u>Forslaget i høringsnotatet innebærer at personer med flyktningstatus som oppfyller de medisinske og ervervsmessig vilkårene for uføretrygd, men har lav eller ingen opptjent rett etter folketrygdlovens regler, sikres nødvendig inntekt til livsopphold gjennom etableringen av ordningen med supplerende stønad for uføre flyktninger. Denne stønaden vil komme i stedet for eller som et supplement til uføretrygden. Den supplerende stønaden er imidlertid behovsprøvd, og det gis ikke barnetillegg slik som i uføretrygden. Behovsprøvingen vil ivareta behovet for innstramminger i statens utgifter, samtidig som det vil skjerme de personene innenfor gruppen som ellers ville blitt rammet hardest.</u>
+
+<u>Ettersom endringene bare gis virkningen for flyktninger som setter frem krav om uføretrygd etter lovens ikrafttredelse, ser departementet ikke behov for overgangsregler ut over dette.</u>
+
+<u>Endringene i asylsøkerforskriften vil ikke få stor innvirkning på den enkeltes mulighet til å tjene opp rett til pensjon, og departementet anser det derfor ikke nødvendig med overgangsregler.» </u>
+
+I utkastet til lovendringer i høringsnotatet ble det på bakgrunn av uttalelsene fra Lovavdelingen foreslått at det utarbeides regler for overgang til alderspensjon for personer som har uføretrygd etter de særskilte bestemmelsene for flyktninger på det tidspunktet loven trer i kraft.
+
+Det ble i høringsnotatet vist til at Lovavdelingen anbefaler at personer som har hatt lang tilknytning til Norge unntas fra lovendringen av hensyn til Grunnloven § 97. Departementet vurderte det slik at personer som mottar uføretrygd etter de særskilte bestemmelsene for flyktninger i folketrygdloven, som har kort tid igjen til pensjonsalderen og som har oppholdt seg lenge i Norge, også bør få alderspensjon etter de særskilte bestemmelsene for flyktninger.
+
+I forlengelsen av de foreslåtte overgangsreglene i høringsnotatet, mente departementet at det kan være passende at personer som mottar uføretrygd etter de særskilte bestemmelsene for flyktninger, har maksimalt 5 år igjen til pensjonsalder og som har vært medlemmer i folketrygden i minst 20 år etter fylte 16 år, ved overgangen til alderspensjon får pensjon etter de særskilte bestemmelsene for flyktninger.
+
+1.  **<u>H</u><u>ø</u><u>ringsinstansens syn</u>**
+
+Kun et fåtall instanser har hatt synspunkter på behovet for overgangsregler og forholdet til Grunnloven § 97.
+
+Etter *Justis- og beredskapsdepartementets* syn vil det være en fordel om man i proposisjonen gir en mer utførlig omtale av hvilke konsekvenser de foreslåtte endringene i regelverket om uføretrygd vil ha for bestående rettsposisjoner og av forholdet til Grunnloven § 97.
+
+*Rettspolitisk forening* mener at det er positivt at det blir gitt overgangsregler for de særskilte bestemmelsene om beregningen av alderspensjon, slik at man skjermer personer som er over 62 år eller eldre ved lovens ikrafttredelse. Rettspolitisk forening stiller seg likevel ikke bak forslaget om at det skal oppstilles som et ytterligere vilkår at flyktningen har 20 års botid i Norge for å komme inn under overgangsreglene.
+
+*Bærum kommune* sier:
+
+<u>«For tidligere bosatte flyktninger og asylsøkere som etter vedtatt regelendring mister sin arbeidsevne, eller kan fremsette krav om alderspensjon vil særregelen om å innvilge (full) minstepensjon bortfalle. De vil få pensjon beregnet etter det faktiske antall år bosatt i Norge og ikke 40 år som særregelen åpner for. Det er uklart i høringsnotat om denne gruppen kan/skal henvises til ordningen med statlig supplerende stønad.»</u>
+
+*NOAS* peker på at regelendringene som foreslås vil ha virkning også for dem som har bodd lenge i Norge, og dermed ha innvirkning på flyktningers opparbeidede rettigheter og berettigede forventninger.
+
+NOAS sier videre at ordningene omfatter også dem som har jobbet flere tiår i Norge og dem som har kort tid igjen til pensjonsalder. NOAS er særlig negativ til at disse personene får sine rettigheter svekket i betydelig grad.
+
+1.  **<u>Departementets vurdering og forslag</u>**
+
+Departementet foreslår at lovendringene skal tre i kraft fra den tid Kongen bestemmer. Det tas sikte på at endringene skal gjelde fra 1. januar 2018, med unntak av botidskrav for kontantstøtte som det tas sikte på å innføre fra 1. juli 2017. Endringene foreslås gitt virkning for krav som fremsettes etter lovens ikrafttredelse. Endringene kan dermed i utgangspunktet gjøres gjeldende også for personer som har fått innvilget oppholdstillatelse før endringen trådte i kraft.
+
+I høringsnotatet ble det foreslått at fortsatt rett til ytelser etter de særskilte bestemmelsene for flyktninger skal gjelde for krav om alderspensjon etter folketrygdloven kapitlene 19 og 20 fra personer født i 1956 eller tidligere, som ved lovens ikrafttredelse har vært medlemmer i folketrygden i minst 20 år etter fylte 16 år. Videre ble det foreslått at loven ikke skal gis virkning for alderspensjon for personer som ved lovens ikrafttredelse allerede mottar uføretrygd etter de særlige reglene for flyktninger, er født i 1956 eller tidligere og som har vært medlemmer i folketrygden i minst 20 år etter fylte 16 år. Disse skal ved overgang til alderspensjon få pensjon etter de særskilte bestemmelsene for flyktninger. Det samme gjelder personer som har pensjon som gjenlevende ektefelle etter folketrygdloven § 17-5.
+
+Departementet har merket seg at *Rettspolitisk forening* ikke stiller seg bak forslaget om at det skal oppstilles som et ytterligere vilkår at flyktningen har 20 års botid i Norge for å komme inn under overgangsreglene.
+
+Videre peker *NOAS* på at regelendringene som foreslås vil ha virkning også for dem som har bodd lenge i Norge, og dermed ha innvirkning på flyktningers opparbeidede rettigheter og berettigede forventninger. NOAS peker videre på at ordningene omfatter også dem som har jobbet flere tiår i Norge og dem som har kort tid igjen til pensjonsalder.
+
+Departementet viser til at forslaget i proposisjonen her som nevnt nettopp vil skåne dem med langvarig tilknytning til Norge. Departementet vil videre peke på at personer som har jobbet «flere tiår» i Norge normalt vil ha opptjent rett til en pensjon som vil være høyere enn den minstepensjonen en flyktning i dag er garantert gjennom folketrygdlovens særskilte bestemmelser. Dermed vil vedkommende ikke berøres av innstrammingene.
+
+*Bærum kommune* finner det uklart om tidligere bosatte flyktninger og asylsøkere som etter vedtatt regelendring mister arbeidsevnen, eller kan fremsette krav om alderspensjon, vil være henvist til supplerende stønad når dagens særskilte bestemmelser for flyktninger bortfaller. Departementet viser her til forslaget til virkningstidspunkt for endringene og de foreslåtte overgangsreglene omtalt foran. Flyktninger har imidlertid muligheten til å opptjene pensjon fra folketrygden som alle andre som er lovlig bosatt i Norge.
+
+Etter dette opprettholder departementet forslaget i høringsnotatet med hensyn til overgangsregler for alderspensjon.
+
+*Justis- og beredskapsdepartementet* ønsker en mer utførlig omtale av konsekvensene de foreslåtte endringene vil ha for uføre flyktningers bestående rettsposisjon – og av forholdet til Grunnloven § 97. Departementet viser til at det ikke foreslås å gjøre endringene gjeldende for flyktninger som har fått innvilget en uføretrygd etter dagens særbestemmelser for flyktninger. Departementet legger derfor til grunn at det sentrale spørsmålet når det gjelder de foreslåtte endringene er om det vil foreligge en uegentlig tilbakevirkning som er «særlig urimelig eller urettferdig».
+
+Flyktninger har hatt en særrett i folketrygden, som kan ha bidratt til å styrke denne gruppens forventninger om en positiv særbehandling den dagen de setter frem krav om de ulike ytelsene. Departementet har også merket seg at flere av høringsinstansene har pekt på at flyktninger er i en særstilling sammenlignet med andre grupper i samfunnet, og at en positiv særbehandling av denne gruppen er rimelig. Departementet understreker at det er en politisk beslutning om det er ønskelig og rimelig å ha en positiv særbehandling av enkelte grupper utover det som følger av internasjonale forpliktelser.
+
+Departementet foreslår at personer som har fremsatt eller fått behandlet krav om uføretrygd på tidspunktet for endringenes ikrafttredelse ikke skal være omfattet av endringene. Det er på det rene at Stortinget kan kutte i fremtidige uføreytelse, herunder oppheve særordningen for flyktninger. Spørsmålet er imidlertid om det er en grense for hvor mye som kan kuttes og hvor raskt et slikt kutt kan skje.
+
+Uføretrygd er en helserelatert ytelse hvor flere vilkår må være oppfylt, og hvor det for den enkelte både er usikkert om han eller hun i fremtiden vil bli ufør, om vilkårene for rett til uføretrygd da vil være oppfylt, og fra når uføretrygden eventuelt vil bli tilstått. Uføretrygd skiller seg således fra alderspensjon, hvor retten inntreffer for alle ved en bestemt alder. De særlige rettighetene for flyktninger med hensyn til uføretrygd er ikke opptjent, hverken gjennom botid eller innbetaling, og bærer i stor grad preg av å være en sosial stønad.
+
+Økonomisk stønad til livsopphold etter sosialtjenesteloven (økonomisk sosialhjelp) er det nedre sikkerhetsnettet i velferdsordningene. Uføre som av ulike grunner ikke har rett til uføretrygd fordi de ikke oppfyller botidskravet eller som har en lav uføretrygd fordi trygdetiden utgjør mindre enn 40 år, men som ikke har flyktningstatus, er sikret gjennom nettopp denne ordningen. Departementet har i kapittel 6 foreslått at personer med flyktningstatus som oppfyller de medisinske og ervervsmessige vilkårene for uføretrygd, kan få særlige rettigheter til inntektssikring gjennom ordningen med supplerende stønad. Denne stønaden vil komme i stedet for eller som et supplement til uføretrygd fra folketrygden.
+
+Satsene for supplerende stønad for uføre flyktninger er foreslått satt til samme nivå som de garanterte minsteytelsene for uføretrygd. Nivået på den supplerende stønaden er foreslått fastsatt ved at den uføre personen får rett til full supplerende stønad etter sivilstatus/bosituasjon, og at maksimalt stønadsnivå reduseres med personens inntekt mv.
+
+Som det fremgår av punkt 6.5.2, vil ordningen med supplerende stønad for eldre og uføre flyktninger gi en tilnærmet lik inntektssikring som de gjeldende særskilte bestemmelsene for uføretrygd og alderspensjon for flyktninger.
+
+Det er i hovedsak to ulikheter som gjør seg gjeldende mellom dagens særbestemmelser for flyktninger etter reglene om uføretrygd i folketrygdloven og forslaget om inntektssikring i ordningen med supplerende stønad. Supplerende stønad er behovsprøvd. Behovsprøvingen skjer med utgangspunkt i familiens økonomiske situasjon. Dette innebærer at en flyktning som har en formue av en viss størrelse ikke vil få rett til supplerende stønad. En flyktning som har en ektefelle med inntekt av en viss størrelse, kan få fradrag i den supplerende stønaden. Videre gis det ikke barnetillegg til supplerende stønad, men det gis barnetillegg til uføretrygden. Barnetillegget utgjør 0,4 G per barn ved full trygdetid / for flyktninger (37 000 kroner per 1. mai 2016), men behovsprøves mot begge foreldres inntekt og/eller barnets inntekt. Summen av uføretrygden og barnetillegget kan ikke utgjøre mer enn 95 prosent av inntekten før uførhet.
+
+Den økonomiske konsekvensen for den enkelte ved å erstatte særreglene for flyktninger i folketrygdens uføretrygd med en særlig rett til inntektssikring gjennom ordningen med supplerende stønad, vil variere ut fra den enkeltes situasjon. I høringsnotatet viste departementet til at det kunne være grunnlag for å vurdere om det skulle gis overgangsregler for flyktninger med lang botid i Norge – det er denne gruppen som eventuelt kan ha et vern etter Grunnloven § 97 mot uegentlig tilbakevirkning som er særlig urimelig eller urettferdig.
+
+Personer med langvarig botid i Norge vil imidlertid være den gruppen som har lengst opptjening i folketrygden etter de ordinære reglene for uføretrygd. Størrelsen på uføretrygden – og eventuelle barnetillegg – vil kunne være høyere enn satsen for supplerende stønad/minstesatsen i uføretrygden, slik at personen har høyere opptjening etter de ordinære reglene enn det som følger både av dagens ordning for flyktninger i folketrygden og av den foreslåtte endringen. For andre vil uføretrygden være såpass høy at den supplerende stønaden kun vil være et mindre supplement til uføretrygden. Jo lenger tilknytning flyktningen har til folketrygden, desto høyere vil uføretrygden fra folketrygden basert på opptjening være. Dette fører igjen til at et fradrag i supplerende stønad mot ektefelles inntekt og fravær av barnetillegg i ordningen får langt mindre virkning for den gruppen som i utgangspunktet kunne hatt et vern etter Grunnloven § 97. For denne gruppen vil oppheving av særreglene for flyktninger i uføretrygden og innføring av supplerende stønad til uføre flykninger ikke utgjøre et vesentlig økonomisk tap. Departementet foreslår på denne bakgrunn at personer som har fremsatt krav om uføretrygd etter ikrafttredelsestidspunktet fullt ut omfattes av de nye reglene. De nye reglene skal ikke gjøres gjeldende for personer som allerede mottar uføretrygd, eller ved behandling av krav om uføretrygd som er satt frem før ikrafttredelsestidspunktet. Departementet understreker at flyktninger fortsatt skal ha rett til uføretrygd, men da etter de samme reglene som gjelder for alle andre.
+
+I punkt 8.1 foreslås det å redusere perioden man kan motta supplerende stønad i utlandet og å skjerpe kontrollen med utenlandsopphold. Departementet opprettholder at det ikke er behov for overgangsregler med hensyn til disse forslagene.
+
+1.  **<u>Merknader til de enkelte bestemmelsene i folketrygdloven, kontantst</u><u>ø</u><u>tteloven og loven om supplerende st</u><u>ø</u><u>nad</u>**
+
+    1.  **<u>Til endringene i folketrygdloven</u>**
+
+*<u>Til innholdsfortegnelsen i kapittel 1</u>*
+
+*Sjuende strekpunkt* i innholdsfortegnelsen utgår som følge av at § 1-7 oppheves. Nåværende åttende, niende og tiende strekpunkt blir sjuende, åttende og niende strekpunkt.
+
+*<u>Til </u><u>§</u><u> </u><u>1-7</u>*
+
+Paragrafen som inneholder en definisjon av begrepet flyktning, oppheves som følge av at særreglene om flyktninger i folketrygden foreslås avviklet, med unntak av særreglene for ytelser til gjenlevende ektefelle og barn i kapitlene 17 og 18. Det er innarbeidet egne bestemmelser for flyktninger i disse kapitlene. Se merknadene til §§ 3-2, 3-3, 17-3, 17-4, 17-7, 18-2, 18-3 og 18-5.
+
+*<u>Til </u><u>§</u><u> </u><u>3-2</u>*
+
+*Sjette ledd* om at en flyktning som er medlem i trygden, får full grunnpensjon uten hensyn til bestemmelsene om trygdetid, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet. Bestemmelsen er innarbeidet i §§ 17-7 og 18-5.
+
+*<u>Til </u><u>§</u><u> </u><u>3-3</u>*
+
+*Sjuende* ledd om at flyktning (§ 1-7) som er medlem i trygden, får fullt særtillegg uten hensyn til bestemmelsene om trygdetid, oppheves som følge av at særreglene om flyktninger foreslås avviklet. Bestemmelsen er innarbeidet i §§ 17-7 og 18-5.
+
+Nåværende åttende ledd blir sjuende ledd.
+
+*<u>Til </u><u>§</u><u> </u><u>3-9</u>*
+
+Bestemmelsen i *tredje ledd tredje punktum* om at vilkåret om minst 10 års trygdetid før 1967 for rett til tilleggspensjon ikke gjelder for flyktninger som er medlemmer i trygden, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet. Videre anses bestemmelsen i tredje ledd tredje punktum å være uaktuell også for gjenlevende, ettersom persongruppen bestemmelsen er rettet mot normalt sett ikke vil være yrkesaktive og opptjene rett til pensjon.
+
+*<u>T</u><u>il </u><u>§</u><u> </u><u>10-2</u>*
+
+Da det foreslås at kravet til forutgående medlemskap for rett til ytelser etter kapittel 10 (hjelpemidler mv.) avvikles, foreslås bestemmelsen opphevet.
+
+*<u>Til </u><u>§</u><u> </u><u>11-2</u>*
+
+Bestemmelsen i *første ledd* om at det er et vilkår for rett til arbeidsavklaringspenger at vedkommende har vært medlem i minst ett eller tre år før fremsettelse av krav endres til fem år. Dette innebærer en skjerping av kravet om forutgående trygdetid.
+
+Gjeldende andre ledd om at departementet i forskrift kan fastsette nærmere regler om når vilkåret om forutgående medlemskap kan fravikes oppheves. *Nytt* *andre ledd* gir uttømmende regler for når det kan gjøres unntak fra første ledd. Forslaget innebærer skjerping av gjeldende rett.
+
+Bestemmelsen i *tredje ledd* om at vilkåret i første ledd om forutgående medlemskap for rett til arbeidsavklaringspenger ikke gjelder for en flyktning som er medlem i trygden, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+Departementet gjør oppmerksom på at det i Prop. 74 L (2016–2017) Endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv.) er fremmet tilsvarende forslag om endringer i folketrygdloven § 11-2. Sistnevnte forslag innebærer samme endring i unntaksadgangen som forslaget i proposisjonen her, men det foreslås ingen endringer i det ordinære botidskravet eller i det særlig unntaket for personer med flyktningstatus. Videre foreslås det at bestemmelsene om tilleggsstønader, det vil si dekning av utgifter knyttet til gjennomføring av et arbeidsrettet tiltak, ikke lenger skal reguleres i folketrygdloven kapittel 11. Henvisningen i første ledd til «ytelser etter dette kapitlet» og «en ytelse» er dermed endret til «arbeidsavklaringspenger». Forutsatt at Stortinget først fatter vedtak etter forslaget i proposisjonen her, vil det ikke være nødvendig å gjøre endringer § 11-2 som foreslått i Prop. 74 L (2016–2017).
+
+*<u>Til </u><u>§</u><u> </u><u>12-2</u>*
+
+Bestemmelsen i *andre ledd* om at vilkåret i første ledd om forutgående medlemskap for rett til uføretrygd ikke gjelder for en flyktning som er medlem i trygden, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+Nåværende tredje og fjerde ledd blir andre og tredje ledd.
+
+*<u>Til </u><u>§</u><u> </u><u>12-3</u>*
+
+Henvisningen i *tredje ledd* *første punktum* til «§ 12-2 tredje og fjerde ledd» er endret til «§ 12-2 andre og tredje ledd» som følge av at nåværende § 12-2 andre ledd foreslås opphevet. Tredje ledd *andre punktum* er omformulert som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+*<u>Til </u><u>§</u><u> </u><u>12-12</u>*
+
+Henvisningen i *fjerde ledd* til «§ 12-2 tredje ledd» er endret til «§ 12-2 andre ledd» som følge av at nåværende § 12-2 andre ledd oppheves.
+
+Henvisningen i *femte ledd* til «§ 12-2 fjerde ledd» er endret til «§ 12-2 tredje ledd» av samme grunn.
+
+*<u>Til </u><u>§</u><u> </u><u>12-13</u>*
+
+Bestemmelsen i *fjerde ledd andre punktum* om at ytelsen til en flyktning som er medlem i folketrygden, ikke skal settes lavere enn minsteytelsen etter andre ledd uten avkortning for trygdetid, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+*<u>Til </u><u>§</u><u> </u><u>12-15</u>*
+
+*Andre ledd andre punktum* om at barnetillegg til en flyktning som er medlem i folketrygden, ikke avkortes på grunn av manglende trygdetid, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+*<u>Til </u><u>§</u><u> </u><u>15-2</u>*
+
+*Første ledd* som gjelder krav til forutgående medlemskap i trygden for rett til ytelser, endres i samsvar med at kravet til tilknytning til folketrygden for rett til ytelser foreslås økt fra tre til fem år.
+
+Bestemmelsen i *andre* *ledd* om at vilkåret i første ledd om forutgående medlemskap for rett til ytelser som enslig mor eller far ikke gjelder for en flyktning som er medlem i trygden, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+Nåværende tredje ledd blir andre ledd.
+
+*<u>Til </u><u>§</u><u> </u><u>17-3</u>*
+
+Fordi § 1-7 om definisjon av flyktning foreslås opphevet som følge av at særreglene for flyktninger i folketrygdloven foreslås avviklet, men videreført for pensjon til gjenlevende ektefelle, er ordlyden i *første ledd bokstav c* justert.
+
+Ordlyden i *tredje ledd* som bestemmer at vilkårene i første ledd for rett til pensjon eller overgangsstønad ikke gjelder når den gjenlevende er flyktning og medlem i trygden, justeres som følge av at definisjonen i § 1-7 oppheves.
+
+*<u>Til </u><u>§</u><u> </u><u>17-4</u>*
+
+Bestemmelsen som gjelder flyktninger i *fjerde ledd andre punktum,* justeres som følge av at definisjonen i § 1-7 oppheves.
+
+*<u>Til </u><u>§</u><u> </u><u>17-7 andre og fjerde ledd</u>*
+
+Bestemmelsen i § 3-2 sjette ledd om at en flyktning som er medlem i trygden, får full grunnpensjon uten hensyn til bestemmelsene om trygdetid, er innarbeidet i § 17-7 *andre ledd* som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet for alderspensjon etter kapittel 19, men videreført for pensjon til gjenlevende ektefelle. Det samme gjelder bestemmelsen om særtillegg i § 3-3 sjuende ledd, som er innarbeidet i § 17-7 *fjerde ledd*. Endringen medfører ikke realitetsendringer.
+
+*<u>Til </u><u>§</u><u> </u><u>18-2</u>*
+
+Bestemmelsen i *tredje ledd* om at vilkåret i første ledd om forutgående medlemskap for rett til barnepensjon ikke gjelder når barnet eller en av foreldrene er flyktning og medlem i trygden, er justert som følge av at definisjonen i § 1-7 oppheves.
+
+*<u>Til </u><u>§</u><u> </u><u>18-3</u>*
+
+Bestemmelsen som gjelder flyktninger i *tredje ledd andre punktum* er justert som følge av at definisjonen i § 1-7 oppheves.
+
+*<u>Til </u><u>§</u><u> </u><u>18-5</u>*
+
+Bestemmelsen i § 3-2 sjette ledd og § 3-3 sjuende ledd om at en flyktning som er medlem i trygden, får full grunnpensjon og fullt særtillegg uten hensyn til bestemmelsene om trygdetid, er innarbeidet i § 18-5 *første* og *andre ledd* som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet for alderspensjon etter kapittel 19, men videreført for barnepensjon. Endringen medfører ikke realitetsendringer.
+
+*<u>Til </u><u>§</u><u> </u><u>19-2</u>*
+
+Bestemmelsen i *andre ledd bokstav c* om at vilkåret i første ledd om tre års trygdetid for rett til alderspensjon ikke gjelder flyktning som er medlem i trygden, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+*<u>Til </u><u>§</u><u> </u><u>19-3</u>*
+
+Bestemmelsen i § 19-3 *fjerde ledd andre punktum* som gjelder beregning av alderspensjon til flyktning, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+*<u>Til </u><u>§</u><u> </u><u>19-8</u>*
+
+*Sjuende ledd* om at en flyktning som er medlem i trygden, har rett til et pensjonsnivå som nevnt i andre til sjette ledd uten hensyn til bestemmelsen i første ledd om trygdetid, oppheves som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+Nåværende åttende og niende ledd blir sjuende og åttende ledd.
+
+*<u>Til </u><u>§</u><u> </u><u>20-10</u>*
+
+Bestemmelsen i *fjerde ledd første punktum* om at en flyktning som er medlem i trygden, får full garantipensjon uten hensyn til bestemmelsene om trygdetid i første og andre ledd, tas ut som følge av at særreglene om flyktninger i folketrygdloven foreslås avviklet.
+
+Fjerde ledd *andre punktum* (som blir fjerde ledd) omformuleres som følge av dette.
+
+*Femte ledd andre punktum* om at garantipensjon beregnet på grunnlag av fjerde ledd første punktum bare beholdes lenge vedkommende er medlem i trygden, utgår som følge av at fjerde ledd første punktum oppheves.
+
+*<u>Til </u><u>§</u><u> </u><u>3-2 andre ledd f</u><u>ø</u><u>rste punktum, </u><u>§</u><u> </u><u>3-5 femte ledd, </u><u>§</u><u> </u><u>3-8 andre ledd, </u><u>§</u><u> </u><u>12-2 f</u><u>ø</u><u>rste ledd f</u><u>ø</u><u>rste punktum og tredje ledd, </u><u>§</u><u> </u><u>12-12 sjuende ledd, </u><u>§</u><u> </u><u>12-17 f</u><u>ø</u><u>rste ledd bokstav a, </u><u>§</u><u> </u><u>15-2 f</u><u>ø</u><u>rste ledd, </u><u>§</u><u> </u><u>16-2 f</u><u>ø</u><u>rst</u><u>e ledd, </u><u>§</u><u> </u><u>17-3 f</u><u>ø</u><u>rste ledd bokstav a og b, </u><u>§</u><u> </u><u>18-2 f</u><u>ø</u><u>rste ledd bo</u><u>k</u><u>stav a og b, </u><u>§</u><u> </u><u>19-2 f</u><u>ø</u><u>rste ledd, </u><u>§</u><u> </u><u>19-8 f</u><u>ø</u><u>rste ledd f</u><u>ø</u><u>rste punktum, </u><u>§</u><u> </u><u>20-10 f</u><u>ø</u><u>rste ledd fjerde punktum og andre ledd f</u><u>ø</u><u>rste punktum</u>*
+
+Bestemmelsene som gjelder krav til trygdetid/forutgående medlemskap i trygden for rett til ytelser, endres i samsvar med at kravet til tilknytning til folketrygden for rett til ytelser foreslås økt fra tre til fem år. Videre skjerpes kravet i § 3-2 andre ledd første punktum der det fremgår at det er et vilkår for rett til grunnpensjon at vedkommende har minst tre års trygdetid, til et krav om minst fem års trygdetid. Bestemmelsen om avrunding av trygdetid i § 3-5 femte ledd endres tilsvarende. Bestemmelsen i § 3-8 andre ledd endres slik at det kreves minst fem poengår for rett til tilleggspensjon.
+
+*<u>Til </u><u>§</u><u> </u><u>22-8 sjuende ledd</u>*
+
+Bestemmelsen etablerer hjemmel til å gjøre fradrag i etterbetalt uføretrygd tilsvarende for mye utbetalt supplerende stønad i perioden som etterbetalingen gjelder. For tilfeller med justering av trygdetid vil dette innebære at hele etterbetalingen går til dekning av for mye utbetalt supplerende stønad.
+
+1.  **<u>Til endringen i kontantst</u><u>ø</u><u>tteloven</u>**
+
+*<u>Til </u><u>§</u><u> </u><u>3</u>*
+
+§ 3 *andre punktum* er supplert med et krav om at støttemottakeren må ha vært medlem i folketrygden i minst fem år. I tillegg innføres det et nytt tredje punktum der det presiseres at dersom begge foreldrene bor sammen med barnet, må begge foreldrene ha vært medlem i folketrygden i minst fem år.
+
+1.  **<u>Til endringene i lov om supplerande st</u><u>ø</u><u>nad til personar med kort butid i Noreg</u>**
+
+*<u>Til </u><u>§</u><u> </u><u>1</u>*
+
+Bestemmelsen om lovens formål er endret som følge av at loven skal omfatte både personer over 67 år og uføre flyktninger. Ordet pensjon er erstattet med «ytingar» slik at både pensjon og uføretrygd er omfattet av ordlyden.
+
+*<u>Til </u><u>§</u><u> </u><u>2 nytt f</u><u>ø</u><u>rste ledd</u>*
+
+I *første punktum* er tilføyd en bestemmelse med definisjon av «flyktning» som knyttes opp mot utlendingsloven § 28, tilsvarende som folketrygdloven § 1-7.
+
+I *andre punktum* er ufør flyktning definert som *en flyktning som ikke har fylt 67 år og* som fyller vilkårene i folketrygdloven §§ 12-4 til 12-7. Dette innebærer at uføre flyktninger som fyller de aldersmessige, medisinske og de ervervsmessige vilkårene i folketrygdloven §§ 12-4 til 12-7, også er omfattet av loven. Det må dermed være fattet vedtak om tilståelse av uføretrygd, eller vedtak om avslag på grunn av manglende forutgående medlemskap, men hvor de nevnte vilkårene er oppfylt.
+
+Nåværende første, andre og tredje ledd blir andre, tredje og nytt fjerde ledd.
+
+*<u>Til </u><u>§</u><u> </u><u>3</u>*
+
+Gjeldende *første ledd* *første punktum* bestemmer at supplerende stønad gis til personer som har fylt 67 år som er bosatt i Norge. Bestemmelsen er supplert slik at uføre flyktninger også er omfattet av loven.
+
+*<u>Til </u><u>§</u><u> </u><u>4 f</u><u>ø</u><u>rste og andre ledd</u>*
+
+Etter gjeldende ordning opprettholdes retten til stønad ved utenlandsopphold på inntil 90 dager. For å sikre at ordningen avgrenses til personer som er bosatte i Norge og som normalt oppholder seg her, foreslås det å redusere den tillatte perioden en mottaker kan oppholde seg i utlandet til 45 dager. Det er i tillegg tatt inn en henvisning til lovens § 11 for å tydeliggjøre at det med stønadsperiode menes 12 måneder.
+
+*<u>Til </u><u>§</u><u> </u><u>5</u>*
+
+Paragrafen omhandler nivået på full supplerende stønad.
+
+*Første ledd* som omhandler stønadsnivået for mottakere som har fylt 67 år, er endret som følge av at uføre flyktninger inkluderes i ordningen.
+
+*Andre ledd* er nytt og omhandler stønadsnivået på supplerende stønad til uføre flyktninger. For en mottaker som bor alene og for stønadsmottakere med ektefelle som ikke har fylt 67 år og som ikke er ufør flyktning, utgjør full stønad etter *bokstav a* 2,48 ganger grunnbeløpet, se folketrygdloven § 12-13 andre ledd siste punktum. For alle andre utgjør full stønad 2,28 ganger grunnbeløpet, se *bokstav b*.
+
+For uføre flyktninger med en uføregrad under 100 prosent, vil nivået på full supplerende stønad inneholde en minstegaranti på husholdningens samlede inntekt, bare i den utstrekning at restarbeidsevnen utnyttes fullt ut. Dette oppnås ved at fradrag for arbeidsinntekt ikke kan settes lavere enn forventet inntekt etter uførhet, se merknad til § 6.
+
+*<u>Til </u><u>§</u><u> </u><u>6</u>*
+
+Paragrafen gjelder hvilke typer inntekt som går til fradrag i supplerende stønad. Gjeldende første ledd er delt opp i første og andre ledd.
+
+I *første ledd* videreføres nåværende første ledd første punktum med hovedregelen om inntekt som skal gå til fradrag i supplerende stønad.
+
+*Andre ledd* er en videreføring av første ledd andre punktum som inneholder reglene om fradrag i ytelsen til stønadstakeren for inntekt som ektefellen mv. over 67 år har. Uføre flyktninger skal omfattes av den samme inntektsprøvingsregelen. Både andre ledd *første og andre punktum* er tilføyd et «likevel» for å tydeliggjøre at reglene i andre ledd er unntak fra hovedregelen i første ledd.
+
+Dersom ektefellen enten har fylt 67 år eller er ufør flyktning, skal dennes inntekt bare gå til fradrag i stønadsmottakerens supplerende stønad dersom ektefellens inntekt er så høy at ektefellen selv ikke har rett til noe supplerende stønad. Dette gjelder uavhengig av om ektefellens inntekt er alderspensjon, arbeidsinntekt mv. eller supplerende stønad.
+
+Når ektefellen har fylt 67 år, følger det av *første punktum* at det skal være et «fribeløp» tilsvarende full supplerende stønad med ordinær sats for personer over 67 år før inntekten går til fradrag i stønadsmottakerens supplerende stønad. Kun inntekt utover satsen for full stønad skal gå til avkortning. Dette sikrer ektepar, som begge har rett til supplerende stønad, en samlet husholdningsinntekt tilsvarende minstenivå for ektepar med full trygdetid.
+
+Som en følge av at § 5 er tilføyd et nytt andre ledd for å inkludere uføre, er henvisningen i første punktum endret til § 5 «første ledd» bokstav b.
+
+Uføre flyktninger gis etter andre ledd *andre punktum* den samme fradragsregelen, men slik at «fribeløpet» når ektefellen er ufør flyktning er lik minste årlige ytelse for uføretrygd med ordinær sats, jf. henvisningen til § 5 andre ledd bokstav b.
+
+§ 6 andre ledd som blir *nytt* *tredje ledd* lister opp hvilke typer inntekt som skal gå til fradrag i supplerende stønad, er noe omredigert.
+
+*Bokstav a* om arbeidsinntekt videreføres uendret.
+
+Departementet ser behov for å presisere hvilke inntekter som er å regne som ytelser til livsopphold fra folketrygden i *bokstav b*. Dette gjelder sykepenger, foreldrepenger, adopsjonspenger, svangerskapspenger, pleiepenger, omsorgspenger, overgangsstønad, dagpenger og arbeidsavklaringspenger. Uføretrygd er tilføyd i listen over de ytelsene som skal gå til fradrag. I bokstav b er det presisert at dette også skal gjelde forsørgingstillegg, hvilket er i tråd med dagens praksis.
+
+Ettersom ordningen nå skal omfatte uføre flyktninger under 67 år, er det behov for også å gjøre fradrag for ytelser som i liten grad har vært aktuelle for den nåværende personkretsen. Etter fjerde ledd *bokstav c* skal det derfor også gjøres fradrag for kontantstøtte, introduksjonsstønad for nyankomne innvandrere, kvalifiseringsstønad og ektefellebidrag.
+
+*Bokstav d*, som svarer til gjeldende bokstav c, er tilføyd «uføretrygd og andre ytingar til livsopphald». Som i bokstav b er det presisert at dette også skal gjelde forsørgingstillegg, hvilket er i tråd med dagens praksis.
+
+*Bokstav e* om kapitalinntekter videreføres uendret.
+
+*Ny bokstav f* klargjør gjeldende bokstav d når det gjelder fradrag for ytelser fra utlandet. Bestemmelsen tydeliggjør at alle typer inntekt nevnt i bokstavene a til e skal gå til fradrag, også om inntekten stammer fra utlandet. Norske og utenlandske inntekter blir behandlet på samme måte.
+
+*Nytt fjerde ledd* regulerer hvordan fradrag for arbeidsinntekt i supplerende stønad til flyktninger med uføregrad lavere enn 100 prosent skal gjennomføres. Når uføregraden blir fastsatt, tas det stilling til om, og i så fall hvor mye, den uføre flyktningen kan forventes å jobbe. På denne måten fastsettes personens restinntektsevne. For personer som er helt uføre, vil restinntektsevnen være 0 prosent. For personer som bare har delvis nedsatt inntektsevne, skal den fastsatte inntekten etter uførhet legges til grunn for reduksjon i den supplerende stønaden, dersom vedkommendes faktiske inntekt er lavere.
+
+*<u>Til </u><u>§</u><u> </u><u>10 andre ledd og nytt tredje ledd</u>*
+
+Paragrafen omhandler justeringer i fastsatt stønad som følge av endringer i inntektsforhold mv. Gjeldende andre ledd er delt opp i andre og nytt tredje ledd for å skille mellom regulering av stønadsnivå (andre ledd) og regulering av fradrag (nytt tredje ledd).
+
+Ved endringer i minste pensjonsnivå følger det av *andre ledd* at supplerende stønad skal reguleres i tråd med endringen. På grunn av innføringen av et nytt stønadsnivå for uføre flyktninger jf. § 5 andre ledd, er det gjort en tilføyelse om at den supplerende stønaden skal reguleres også som følge av endringer i grunnbeløpet. Det er i tillegg gjort en liten justering i ordlyden som følge av disse endringene.
+
+På grunn av at uføre flyktninger omfattes av ordningen, er det i *tredje ledd* tatt inn en bestemmelse om at uføretrygd og andre ytelser som er direkte knyttet til grunnbeløpet eller blir regulert etter tilsvarende regler som for alderspensjon fra folketrygden, skal reguleres i tråd med endringene i disse ytelsene.
+
+*<u>Til </u><u>§</u><u> </u><u>21</u>*
+
+Paragrafen gjelder kontroll av supplerende stønad. I *andre ledd* lovfestes at Arbeids- og velferdsetaten skal kunne kreve at en stønadsmottaker skal møte personlig for å vise pass eller annet reisedokument for å kontrollere retten til stønaden. Dette følger i dag av forskrift 16. desember 2005 nr. 1513 om kontroll med retten til supplerande stønad, fastsatt i medhold av lovens andre ledd andre punktum. Muligheten til å kreve personlig fremmøte er i loven utvidet fra to til inntil fire ganger i året. Ikke alle mottakere behøver å kalles inn fire ganger i året, men etaten er nå gitt hjemmel til å gjøre det i saker hvor det anses å være behov for så tett oppfølging.
+
+Forskriftshjemmelen i gjeldende andre ledd første punktum om at etaten kan iverksette tiltak for å kontrollere at vilkårene for stønad er oppfylt eller om en stønadsmottaker har hatt utenlandsopphold i strid med reglene, er skilt ut som et *nytt tredje ledd* med en mindre språklig justering.
+
+1.  **<u>Til bestemmelsen om lovens ikrafttredelse</u>**
+
+Departementet foreslår i *nr. 1* at loven skal tre i kraft fra den tid Kongen bestemmer og at de enkelte bestemmelsene kan settes i kraft til ulik tid.
+
+*Nr. 2 første punktum* bestemmer at endringene skal gis virkning for krav som settes frem etter lovens ikrafttredelse. Fortsatt rett til behandling etter de særskilte bestemmelsene for flyktninger skal etter nr. 2 *andre punktum* gjelde for krav om alderspensjon etter folketrygdloven kapitlene 19 og 20 fra personer født i 1956 eller tidligere, som ved lovens ikrafttredelse har vært medlemmer i folketrygden i minst 20 år etter fylte 16 år.
+
+Videre skal etter *nr. 3* loven ikke gis virkning for alderspensjon for personer som ved lovens ikrafttredelse allerede mottar uføretrygd etter de særlige reglene for flyktninger i folketrygdloven § 12-2 andre ledd og § 12-13 fjerde ledd andre punktum, er født i 1956 eller tidligere og som har vært medlemmer i folketrygden i minst 20 år etter fylte 16 år. Disse skal ved overgang til alderspensjon få pensjon etter de særlige reglene for flyktninger i folketrygdloven, se § 19-2 andre ledd bokstav c og § 3-2 sjette ledd og § 3-3 sjuende ledd eller § 20-10 fjerde ledd. Det samme gjelder personer som har pensjon som gjenlevende ektefelle etter de særlige bestemmelsene for flyktninger i folketrygdloven, se § 17-3 første eller tredje ledd og § 3-2 sjette ledd og § 3-3 sjuende ledd.
+
+<u>Arbeids- og sosialdepartementet</u>
+
+<u>tilrår:</u>
+
+At Deres Majestet godkjenner og skriver under et framlagt forslag til proposisjon til Stortinget om endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg (ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser).
+
+**<u>Vi HARALD</u>**<u>, Norges Konge,</u>
+
+<u>stadfester:</u>
+
+Stortinget blir bedt om å gjøre vedtak til lov om endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg (ny inntektssikring for eldre og uføre flyktninger og endrede botidskrav for rett til visse ytelser) i samsvar med et vedlagt forslag.
+
+**<u>Forslag </u>**
+
+**<u>til lov om endringer i folketrygdloven, kontantst</u><u>ø</u><u>tteloven og lov om supple</u><u>r</u><u>ande st</u><u>ø</u><u>nad til personar med kort butid i Noreg (ny inntektssikring for eldre og uf</u><u>ø</u><u>re flyktninger og endrede botidskrav for rett til visse ytelser)</u>**
+
+<u>I</u>
+
+<u>I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:</u>
+
+<u>Kapittel 1 innholdsfortegnelsen sjuende strekpunkt oppheves.</u>
+
+<u>Nåværende åttende, niende og tiende strekpunkt blir sjuende, åttende og niende strekpunkt.</u>
+
+<u>§ 1-7 oppheves.</u>
+
+<u>§ 3-2 sjette ledd oppheves.</u>
+
+<u>§ 3-3 sjuende ledd oppheves. Nåværende åttende ledd blir sjuende ledd.</u>
+
+<u>§ 3-9 tredje ledd tredje punktum oppheves.</u>
+
+<u>§ 10-2 oppheves.</u>
+
+<u>§ 11-2 skal lyde:</u>
+
+*<u>§</u><u> </u><u>11-2 </u><u>Forutg</u><u>å</u><u>ende medlemskap</u>*
+
+*<u>Det er et vilk</u><u>å</u><u>r for rett til arbeidsavklaringspenger at medlemmet i minst fem </u><u>å</u><u>r umiddelbart f</u><u>ø</u><u>r krav om ytelsen settes fram, har v</u><u>æ</u><u>rt medlem i folketrygden. Ved vurderingen av om vilk</u><u>å</u><u>ret er oppfylt, ses det bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter </u><u>ø</u><u>k</u><u>o</u><u>nomisk bidrag til eller har ansvar for </u><u>å</u><u> bidra til bemanningen av.</u>*
+
+*<u>Vilk</u><u>å</u><u>ret om fem </u><u>å</u><u>rs forutg</u><u>å</u><u>ende medlemskap i f</u><u>ø</u><u>rste ledd gjelder likevel ikke for den som har v</u><u>æ</u><u>rt medlem i folketrygden i minst ett </u><u>å</u><u>r umiddelbart f</u><u>ø</u><u>r krav om ytelsen settes fram, dersom</u>*

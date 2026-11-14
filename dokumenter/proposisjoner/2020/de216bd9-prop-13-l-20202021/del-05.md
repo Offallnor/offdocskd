@@ -1,962 +1,370 @@
-# Prop. 13 L (2020–2021), del 5 av 12 (side 47–57)
+# Prop. 13 L (2020–2021), del 5 av 13
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/de216bd9-prop-13-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-13-l-20202021/id2770746/
 - Original-PDF: https://www.regjeringen.no/contentassets/ba7a008576244c8aa35a1d90fc2d2903/no/pdfs/prp202020210013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 17 figurer, 204 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 47]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-lag for rett til ny etterlatteytelse, se avsnitt 3.5.5.4,
-vil etterlatte som er mottakere av overgangsstønad etter reglene om omsorg for barn etter § 17-6
-første ledd bokstav a og § 17-6 tredje ledd, være
-omfattet av reglene som gir rett til ny ytelse. Dette
-tilsier etter departementets syn at overgangsregler bør gis til gunst, ved at overgangsstønad gitt
-på disse grunnlagene skal gis med samme overgangsregler som for dem som mottar ordinær
-etterlattepensjon på det tidspunktet nye regler
-trer i kraft.
-En egen gruppe av mottakere av overgangsstønad etter kapittel 17 er etterlatte som tar nødvendig utdanning, jf. § 17-6 første ledd bokstav b.
-Bestemmelsen gjelder både for etterlatte som
-ikke har omsorg for barn, og for etterlatte som på
-grunn av for eksempel barns alder ikke har rett til
-overgangsstønad etter § 17-6 første ledd bokstav
-a. Dersom den etterlatte har omsorg for barn,
-foreslår departementet at det bør gjelde tilsvarende overgangsregler som for personer med
-løpende etterlattepensjon, jf. foregående avsnitt.
-For personer som mottar overgangsstønad
-etter første ledd bokstav b og ikke har omsorg for
-barn, anser departementet at det ikke er behov
-for særlige overgangsregler, men at ytelsen opphører når vedtaksperioden er utløpt.
-Departementet vurderer at det heller ikke er
-behov for særlige overgangsregler for etterlatte
-som mottar overgangsstønad i en omstillingsperiode og som ikke var gift med den avdøde
-lenge nok til å kunne få rett til pensjon, og som
-heller ikke har eller har hatt barn med den
-avdøde, jf. § 17-6 første ledd bokstav c. Vanlig
-omstillingsperiode for denne gruppen anses som
-hovedregel å være tolv måneder fra og med måneden etter dødsfallet, men ved svært kortvarige
-ekteskap, gis det overgangsstønad i seks måneder. Perioden med overgangsstønad kan forlenges
-dersom det foreligger helt spesielle omstendigheter. Departementet ser ingen grunn til at det skal
-gis overgangsregler om mulighet for forlengelse
-av stønaden i slike tilfeller.
-Overgangsstønad kan gis tidligere familiepleiere dersom vedkommende kun har behov for stønad i en overgangsperiode, se folketrygdloven
-§ 16-7 andre ledd. Departementet legger til grunn
-at det for en mottaker av overgangsstønad som
-tidligere familiepleier, er gjort en vurdering som
-tilsier at det kun foreligger behov i en overgangsperiode, og at ytelsen derfor skal opphøre når vedtaksperioden er utløpt.
-Departementet viser til at det vil ta tid før nye
-regler trer i kraft. Personer i de gruppene det nå
-ikke foreslås overgangsregler for, vil i mange til-
-
-45
-
-feller først bli innvilget overgangsstønad på et
-tidspunkt der nye regler er kjent. De vil derfor
-allerede ved innvilgelse kunne informeres om de
-nye reglene, og om at stønadsperioden ikke vil
-kunne utvides.
-Departementet viser til lovforslaget, folketrygdloven § 17 A-1 bokstav b, c og d.
-
-3.5.7.5
-
-Videreføring av retten til at en ytelse kan
-«gjenoppstå»
-For det tilfelle der den etterlatte mottar ny omstillingsstønad uten tidsbegrensning og aktivitetskrav, foreslår departementet at dagens regel om at
-rett til etterlatteytelse kan «gjenoppstå», videreføres som en del av overgangsreglene for denne
-gruppen. Dette er personer som har liten tilknytning til arbeidslivet og som er i en så høy alder at
-de må anses å ha begrenset mulighet til å kunne
-forsørge seg selv med egen arbeidsinntekt fram til
-uttak av alderspensjon. Etter departementets syn
-vil situasjonen neppe være vesentlig endret etter
-at den tidligere mottakeren har vært gift en periode. Ettersom denne gruppen ikke er omfattet av
-tidsbegrensningen, vil det, dersom den latente retten til etterlatteytelse gjenoppstår på grunn av
-skilsmisse eller dødsfall, ikke oppstå noen problemstilling knyttet til hvor lang tid som er gått
-siden dødsfallet som opprinnelig ga rett til ytelsen.
-Departementet viser til lovforslaget, folketrygdloven § 17-11 andre ledd.
-
-3.6
-
-Forholdet til Grunnloven § 97
-
-3.6.1 Innledning
-Lovavdelingen i Justis- og beredskapsdepartementet har i brev til Arbeids- og sosialdepartementet 27. juli 2018 gitt sin vurdering av om forslaget om å tidsbegrense ytelsen til etterlatte under
-67 år kan gjennomføres uten å komme i konflikt
-med tilbakevirkningsforbudet i Grunnloven § 97.
-3.6.2
-
-Omlegging fra varig etterlattepensjon
-til tidsbegrenset omstillingsstønad
-Etter lovavdelingens syn er overgangsreglene
-utvalget har foreslått tilstrekkelige til at endringen
-ikke vil komme i konflikt med Grunnloven § 97.
-Lovavdelingen mener videre det ligger innenfor
-den politiske handlefriheten å sette grensene for
-hvem som skal omfattes av overgangsreglene.
-For personer som ennå ikke har blitt etterlatt
-når endringen trer i kraft, uttaler lovavdelingen at
-innrettelseshensynet, som taler for et særlig vern
-
-[Side 48]
-
-46
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-for løpende ytelser, ikke foreligger. Lovavdelingen
-legger vekt på at preget av tilbakevirkning er
-beskjedent, at lovgiver har saklige grunner for
-omlegging av etterlatteytelsene i lys av samfunnsutviklingen, at en omlegging bør omfatte flest
-mulig både ut fra likhetshensyn og for at innsparingseffekt bør oppnås raskest mulig. Lovavdelingen viser i tillegg til at personer i denne gruppen vil ha visse muligheter til å tilpasse seg den
-endrede situasjonen gjennom å skaffe seg alternative inntekter.
-
-3.6.3
-
-Innføring av tidsbegrensning for
-personer som har løpende ytelser på
-endringstidspunktet
-Lovavdelingen peker på at innføring av tidsbegrensning av løpende ytelser innebærer totalt
-bortfall av en løpende langtidsytelse til livsopphold som har grunnlag i folketrygdloven. Etter
-lovavdelingens syn er det her tale om et omfattende inngrep for den enkelte som rammes, og at
-inngrepets art og omfang isolert sett er et vektig
-argument for at det kan være tale om klart urimelig eller urettferdig tilbakevirkning.
-Lovavdelingen uttaler at det er av betydning
-hvilket nærmere grunnlag de etterlatte har for
-sine forventninger om å få beholde sine ytelser,
-og viser til Høyesteretts generelle uttalelse om
-enkepensjoner i Rt. 2006 s. 262 hvor det heter i
-avsnitt 78 at:
-«Når det gjelder enkepensjon, vil det nok ha
-skjedd en forandring i den alminnelige samfunnsoppfatning. Da pensjonsloven ble innført,
-var synsmåten at enker var forsørget av sine
-menn og måtte være sikret en pensjon for sitt
-utkomme også etter hans død. I dag vil oppfatningen være at enkepensjonen i de fleste tilfelle
-tross alt bare er et supplement til enkenes eller
-enkemennenes egen inntekt i form av lønn
-eller pensjon.»
-Det vises videre til at folketrygdloven, helt siden
-vedtakelsen i 1966, har operert med et bærende
-prinsipp om at etterlattepensjonens omfang
-bestemmes ut fra den gjenlevendes egen ervervsinntekt, og at lovgivningen hele tiden har latt forventninger til den gjenlevendes arbeidsinnsats
-definere og avgrense retten til etterlattepensjon
-og pensjonens omfang. I takt med endringer i
-samfunnsforholdene, som har bedret etterlattes
-forutsetninger for å kunne komme i arbeid, har
-også forventningene til yrkesaktivitet vært
-økende.
-
-2020–2021
-
-Lovavdelingen legger derfor til grunn at lovgivningen, selv ikke for dem med løpende ytelser,
-kan sies å ha skapt noen klar forventning om at
-dagens ordning skal stå uendret, eller at det bare
-skal skje uvesentlige justeringer. «Forventningen
-er snarere knyttet til det ASD angir som formålet
-med ordningen, nemlig å sikre inntekt når forsørgeren dør og den gjenlevende ikke er i stand til å
-forsørge seg selv.»
-Lovavdelingen peker videre på at det foreligger tungtveiende grunner bak ønsket om å avvikle etterlattepensjonen som en varig ytelse, og at
-det finnes tungtveiende grunner for at en slik
-omlegging også må få virkning for løpende pensjoner. Det gjelder særlig for personer som er i en
-alder der man generelt kan forventes å være
-yrkesaktiv. Ut fra lovgivningens innretning og formål, samt lovgivers behov for handlefrihet, mener
-lovavdelingen at det i utgangspunktet ikke innebærer klart urimelig eller urettferdig tilbakevirkning å innføre tidsbegrensning også for personer med løpende ytelser. For personer i aldersgruppen 30 – 40 år mener lovavdelingen at det
-ikke kan være tvilsomt at endringsforslagene må
-aksepteres, og ikke vil innebære klart urimelig
-eller urettferdig tilbakevirkning. Videre kan lovavdelingen vanskelig se at det vil være grunnlovsmessig problematisk for personer i aldersgruppen
-40 – 50 år. Utover dette finner lovavdelingen det
-vanskelig å angi presist hvor grensen for det
-grunnlovsmessig akseptable går. Dette vil
-avhenge av hvor omfattende bortfall det er tale
-om, om ytelsen utgjør eneste eller den vesentligste inntektskilden for vedkommende, hvilke årskull som rammes og hvor lenge ytelsen har løpt.
-Departementet
-oppfatter
-lovavdelingens
-uttalelse slik at personer som i det vesentlige er
-selvforsørget, ikke kan sies å ha noe sterkt grunnlovsvern mot at ytelsen faller bort etter en rimelig
-omstillingsperiode.
-Departementets forslag til overgangsregler
-innebærer at det innføres tidsbegrensning for alle
-som mottar en løpende etterlattepensjon når nye
-regler trer i kraft, og som har hatt en gjennomsnittlig årlig arbeidsinntekt over to ganger grunnbeløpet de siste fem årene før endringstidspunktet. Tilleggsvilkåret om at arbeidsinntekten ikke
-må overstige tre ganger grunnbeløpet hvert av de
-to siste årene, kan innebære at de likevel får tidsbegrensning, selv om gjennomsnittlig årlig
-arbeidsinntekt ikke overstiger to ganger grunnbeløpet de fem siste årene.
-For personer som ikke faller inn under overgangsreglene fordi de har hatt en gjennomsnittlig
-årsinntekt rett over inntektsgrensen, vil etterlatte-
-
-[Side 49]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-pensjon utgjøre om lag 40 prosent av bruttoinntekten. Departementet mener at personer som
-over tid har hatt en årlig arbeidsinntekt av denne
-størrelsesorden, har en tilknytning til arbeidslivet
-som er tilstrekkelig til at de i normale tilfeller vil
-ha reelle muligheter til å få økt arbeidsinntekt
-etter en rimelig omstillingsperiode. I den forbindelse viser departementet til at en inntekt på to
-ganger grunnbeløpet vil tilsvare 40 prosent stilling ved et lønnsnivå på om lag 500 000 kroner per
-år. Dette indikerer at en person med en stilling
-med midlere inntektsnivå må gå opp til nærmere
-full stilling for å opprettholde en totalinntekt på
-samme nivå når etterlatteytelsen faller bort. Etterlatte som har mulighet til å øke sin deltakelse i
-arbeidslivet for å kompensere for bortfall av etterlattepensjonen etter omstillingsperiodens utløp,
-vil også få høyere pensjonsopptjening sammenliknet med langvarig mottak av avkortet etterlattepensjon. Til sammenlikning utgjør minste pensjonsnivå med særskilt sats for enslige 204 690
-kroner (fra 1. mai 2020).
-Når det gjelder omstillingsperiodens innhold
-og varighet viser departementet til at personer
-som mottar en løpende etterlattepensjon og som
-etter departementets forslag i stedet vil få en tidsbegrenset ytelse, fortsatt skal kunne motta en
-etterlatteytelse i fem år fra det tidspunkt nye
-regler trer i kraft. Det er lagt til grunn at nye
-regler tidligst vil kunne tre i kraft fra 2023, noe
-som gir mottakerne av etterlattepensjon ytterligere to år til å omstille seg til å bli fullt selvforsørget. Det vil gi en samlet omstillingsperiode på
-sju år. Departementet viser i tillegg til at en gjennomgang og mulig omlegging av folketrygdens
-ytelser er varslet flere år tilbake i tid, og at innføring av tidsbegrensning som også skulle omfatte
-personer med løpende etterlattepensjon, ble foreslått av Etterlatteutvalget i NOU 2017: 3.
-Departementet antar at det vil være enkelttilfeller som selv etter en romslig omstillingsperiode
-ikke har klart å øke sin arbeidsinntekt. Lovavdelingen har i sin vurdering vist til at selv om det kan
-anses realistisk å bygge på at den etterlatte kan
-skaffe alternative inntektskilder når omstillingsperioden utløper, vil det alltid oppstå enkelttilfeller
-der forutsetningen ikke slår til. Det er etter Høyesteretts praksis ikke noe krav etter Grunnloven
-§ 97 at rent individuelle omstendigheter, knyttet
-til den enkelte persons situasjon, må fanges opp
-av de nye reglene. Det vises her til resonnementet
-i Rt. 2006 s. 262 avsnitt 101:
-«Ankende part har imidlertid med styrke fremholdt at hun har gjort hva hun kunne for å
-
-47
-
-skaffe seg utdannelse og arbeid etter skilsmissen i 1979, men det ble umulig på grunn av trafikkulykken. Jeg er enig med A i at hun derfor
-rammes hardt. Hun har gjort hva hun kunne
-for å skaffe seg en stilling som hun kunne leve
-trygt i, og som ville ha gitt en god pensjon. Men
-jeg kan vanskelig se at slike konkrete begivenheter skulle ha vært tatt hensyn til av lovgiveren, eventuelt ved en unntaksregel.»
-Departementet viser til at etterlatte som ikke er
-fylt 55 år etter dagens regler, som hovedregel forventes å ha en inntekt på minimum to ganger folketrygdens grunnbeløp. Departementet har fått
-opplyst at regelverket praktiseres strengt, men
-departementet antar at det blant dagens mottakere som har blitt etterlatt nær 55-årsgrensen, kan
-være personer som ikke med rimelighet kan forventes å omstille seg til å bli selvforsørget. På
-denne bakgrunn foreslår departementet i punkt
-3.5.7.3 at overgangsregelen skal inkludere en noe
-større persongruppe. Det legges derfor opp til at
-personer som er 53 år og eldre når nye regler trer
-i kraft, og som ikke har hatt en årlig arbeidsinntekt over to ganger grunnbeløpet i gjennomsnitt
-de siste fem årene før ikrafttredelsen, og arbeidsinntekten i tillegg ikke har oversteget tre ganger
-grunnbeløpet hvert av de siste to årene før ikrafttredelsen, får beholde en etterlatteytelse fram til
-uttak av alderspensjon. Sammen med det forhold
-at lovendringen etter planen tidligst trer i kraft fra
-2023, vil dette gjennomgående gi god tid til omstilling for den enkelte.
-Departementet anerkjenner at det å innføre
-tidsbegrensning på en i utgangspunktet varig
-ytelse kan bli oppfattet som inngripende, og at
-dette vil gjelde selv om de fleste gjenlevende er
-helt eller delvis selvforsørget, eller har reelle
-muligheter til å bli det etter en omstillingsperiode.
-Helt siden folketrygden ble innført i 1967 har
-imidlertid hensikten med etterlattepensjonen
-vært at det bare skulle ytes i tilfeller der den etterlatte ikke kunne forsørge seg selv. Gjeldende
-beregnings- og avkortingsregler innebærer imidlertid at personer som allerede er fullt selvforsørget kan motta en avkortet etterlattepensjon
-over lengre tid. Dette er vanskelig forenlig med
-etterlattepensjonens begrunnelse.
-Forslaget innebærer videre at tidsbegrensning
-foreslås innført for alle etterlatte født 1970 og
-senere. Dette gjelder uten hensyn til den etterlattes inntektsnivå. Departementet mener det ikke
-er urimelig å forvente at personer som i dag er 50
-år eller yngre omstiller seg til å bli fullt selvforsørget. Det er få mottakere i de yngste alders-
-
-[Side 50]
-
-48
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-gruppene, men andelen mottakere med uredusert
-ytelse er like høy blant de yngste som de eldste.
-Dette skyldes trolig at etterlatte i yngre aldersgrupper oftere enn etterlatte i de eldste aldersgruppene har midlertidig redusert inntekt på
-grunn av skolegang eller omsorg for små barn.
-Departementet understreker at innføring av
-tidsbegrensning krever tettere oppfølging enn det
-
-2020–2021
-
-som er nødvendig for mottakere av en varig
-ytelse. For personer som ikke kommer inn under
-overgangsreglene, legger departementet opp til at
-det som en del av oppfølgingen må avklares om
-den etterlatte fyller vilkårene for en helserelatert
-ytelse.
-
-[Side 51]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-49
-
-4 Barnepensjon
-4.1
-
-Innledning
-
-Alle mindreårige barn har krav på å bli forsørget
-inntil de når en alder hvor de kan forsørge seg
-selv. Å investere i gode velferdsordninger for barn
-uavhengig av familiesituasjon, anses i dag som
-sentralt for å sikre barn gode oppvekstvilkår og
-læringsmuligheter, noe som blir stadig viktigere
-for senere deltakelse i arbeidslivet. Barn som har
-mistet foreldre befinner seg i en sårbar situasjon,
-og det er viktig at det finnes gode velferdsordninger som bidrar til økonomisk sikring av barn når
-én av eller begge foreldrene er døde.
-Regelverket for barnepensjon er i liten grad
-endret siden den tidligere forsørgertrygden for
-barn ble innlemmet i folketrygden i 1967. Barnepensjon og etterlattepensjon har tradisjonelt vært
-sett i sammenheng ved at ytelsene samlet sett
-skulle sikre familien inntekt i tilfelle forsørgers
-dødsfall. En slik husholdningstankegang har vært
-lagt til grunn både når én av foreldrene er død og
-når begge foreldrene er døde, ved at det eldste
-barnet i sistnevnte tilfelle får en ytelse på samme
-nivå som etterlattepensjonen til en gjenlevende
-ektefelle.
-Barnepensjon til et barn som har mistet én forelder, utgjør med dagens regler om lag 40 000 kroner i året, tilsvarende om lag 3 300 kroner i måneden. Ytelsen blir lavere per barn dersom den
-avdøde etterlater seg flere barn som samtidig har
-rett til barnepensjon. Tall fra Arbeids- og velferdsdirektoratet indikerer at om lag halvparten av
-barna som i 2019 mottok barnepensjon etter at én
-av foreldrene er død, ikke hadde søsken som samtidig mottok barnepensjon, mens om lag 35 prosent hadde ett søsken som samtidig mottok barnepensjon. I 2019 utgjorde gjennomsnittlig utbetalt ytelse per barn 33 500 kroner i året, det vil si
-2 790 kroner i måneden.
-Barnepensjon til barn som har mistet begge
-foreldrene avhenger av foreldrenes inntekt og
-antall søsken. Med dagens regler utgjør ytelsen
-for ett barn vel 200 000 kroner i året på minstenivå
-(med grunnbeløpet per 1. mai 2020). Dette gir en
-månedlig ytelse på vel 17 000 kroner. Dersom det
-er to barn som samtidig har rett til barnepensjon
-
-etter de avdøde foreldrene, utgjør årlig ytelse per
-barn vel 120 000 kroner, eller om lag 10 000 kroner per måned. Tall fra Arbeids- og velferdsdirektoratet indikerer at om lag 60 prosent av barna
-som ved utgangen av 2019 mottok barnepensjon
-etter at begge foreldrene er døde, ikke delte
-ytelsen med søsken. Gjennomsnittlig utbetalt
-ytelse ved utgangen av 2019 utgjorde om lag
-14 100 kroner i måneden. Barn som mottok
-ytelsen alene, hadde i gjennomsnitt en nesten
-dobbelt så høy ytelse som barn som delte en samlet ytelse med søsken, henholdsvis om lag 17 200
-og om lag 9 300 kroner per måned. De ti prosentene av barna med høyest ytelse, hadde en ytelse
-som var nesten fire ganger så høy som de ti prosent av barna med lavest ytelse. Det var liten forskjell i gjennomsnittlig ytelse mellom de som
-hadde ytelse på minstenivået og de som hadde en
-ytelse over minstenivået, hvilket kan tyde på at en
-stor andel har en ytelse på eller nær minstenivået,
-og at det mest avgjørende for ytelsens størrelse,
-er om barnet mottar ytelsen alene eller deler en
-samlet ytelse med søsken.
-Antall mottakere av barnepensjon har falt over
-tid. I 1967 var det i overkant av 25 000 mottakere.
-Antallet sank til om lag 15 000 på begynnelsen av
-80-tallet, noe som først og fremst hadde sammenheng med at antall dødsfall blant foreldre gikk
-ned, men også som følge av at barnebefolkningen
-sank med nesten 20 prosent i denne perioden, fra
-1,1 til 0,9 millioner barn. Ved utgangen av 2019
-har barnebefolkningen igjen økt til nivået i 1967,
-men antall mottakere av barnepensjon er redusert
-ytterligere til vel 11 000 barn. I overkant av 1 prosent av mottakerne har mistet begge foreldrene
-sine. Ved utgangen av 2019 utgjorde dette 144
-barn.
-Folketrygdens utgifter til barnepensjon er
-også redusert over tid, fra om lag 1 milliard kroner i 1970 til om lag 0,4 milliarder kroner i 2019.
-Nye familiemønstre innebærer at mange barn
-vokser opp utenfor den tradisjonelle kjernefamilien. Samfunnsutviklingen de siste tiårene tilsier
-at det er behov for å vurdere innretningen av
-regelverket for barnepensjon på nytt. Departementet mener at folketrygden fortsatt skal yte
-
-[Side 52]
-
-50
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-barnepensjon til etterlatte barn for å bidra til å
-sikre inntekt for barn når en eller begge foreldre
-er døde. I samsvar med utvalgets forslag foreslår
-departementet imidlertid flere endringer som vil
-innebære en standardisering og forenkling sammenliknet med dagens regler. For flertallet av
-etterlatte barn vil forslaget også innebære en
-vesentlig forbedring av ytelsen, ved at det foreslås
-høyere satser og å gå bort fra systemet med
-avtrappende satser ved flere barn. Departementet
-foreslår i tillegg en modernisering og språklig
-oppdatering av enkelte bestemmelser.
-Departementet legger til grunn at barn som
-mottar barnepensjon på det tidspunkt nye regler
-trer i kraft, skal få pensjonen beregnet på nytt dersom det nye regelverket gir en høyere ytelse.
-
-4.2
-
-Gjeldende rett
-
-4.2.1 Innledning
-Reglene om barnepensjon står i dag i folketrygdloven kapittel 18. Barnepensjon ytes dersom biologiske foreldre eller adoptivforeldre dør. Nivået på
-ytelsen avhenger blant annet av om én av eller
-begge foreldre er døde, om barnet har søsken
-som samtidig har rett til barnepensjon og den
-avdøde forelderens/de avdøde foreldrenes pensjonsopptjening og medlemskap i folketrygden.
-Det er ikke en forutsetning for rett til pensjon at
-den avdøde faktisk forsørget barnet. Retten til barnepensjon er også uavhengig av om foreldrene
-var gift, skilt, samboere eller aldri har bodd
-sammen. Etter definisjonen i folketrygdloven § 16 skal begrepet «barn» forstås som person under
-18 år, men barnepensjon kan i enkelte tilfeller gis
-utover fylte 18 år.
-4.2.2 Tilknytning til folketrygden
-Det stilles krav om at den avdøde forelderen
-hadde tilknytning til folketrygden for at barnet
-skal ha rett til barnepensjon. Etter hovedregelen
-må den avdøde ha vært medlem i folketrygden de
-siste tre årene før dødsfallet, se folketrygdloven
-§ 18-2 første ledd bokstav a.1 Dersom den avdøde i
-de siste tre årene før dødsfallet mottok pensjon
-eller uføretrygd fra folketrygden, eller enkelte
-andre nærmere definerte pensjonsytelser, anses
-1
-
-Kravet om tre års forutgående medlemskap i folketrygdloven § 18-2 er vedtatt økt til fem år, se lov 20. desember 2019
-nr. 84 avsnitt V punkt 7, Prop. 10 L (2019–2020) og Innst. 80
-L (2019–2020). Tilsvarende gjelder for treårskravet for mottak av pensjon før dødsfallet. Det tas sikte på å sette lovendringene i kraft med virkning fra 1. januar 2021.
-
-2020–2021
-
-kravet til forutgående trygdetilknytning oppfylt,
-se folketrygdloven § 18-2 første ledd bokstav b.
-På samme måte som for ytelser til gjenlevende
-ektefelle, er det gjort flere unntak fra kravet til forutgående medlemskap i folketrygden, se folketrygdloven § 18-2 andre til sjuende ledd. Disse vil
-det ikke bli redegjort for her.
-Dersom dødsfallet skyldes yrkesskade gjelder
-det ingen krav om forutgående tilknytning til
-folketrygden for den avdøde forelderen, se folketrygdloven § 18-11 bokstav a.
-I tillegg til at den avdøde må ha hatt en tilknytning til folketrygden, er det i utgangspunktet et
-krav for rett til barnepensjon at barnet er medlem
-i folketrygden, se folketrygdloven § 18-3 første
-ledd. Vilkåret om fortsatt medlemskap innebærer
-at det er en begrensning i adgangen til å få barnepensjon utbetalt i utlandet (eksport). Det er imidlertid gjort flere unntak også fra denne hovedregelen, se folketrygdloven § 18-3 andre og tredje
-ledd. I praksis innebærer unntakene at barnepensjon likevel ytes selv om barnet ikke er medlem i
-folketrygden dersom en av barnets foreldre har
-lang botid i Norge, eller den avdøde har opptjent
-rett til tilleggspensjon. Det stilles heller ikke krav
-om at barnet er medlem i folketrygden dersom
-dødsfallet skyldes en yrkesskade, se folketrygdloven § 18-11 bokstav b.
-Det følger av EØS-avtalen artikkel 29, forordning 883/2004 artikkel 6 og flere av Norges bilaterale trygdeavtaler at vilkåret om forutgående
-medlemskap kan oppfylles ved å legge sammen
-tid som medlem i folketrygden og tid som medlem i de aktuelle landenes trygdeordninger.
-Videre pålegger trygdeavtalene Norge å eksportere barnepensjon til andre EØS-land og avtaleland for personer som kommer inn under avtalenes anvendelsesområde, uavhengig av kravet om
-fortsatt medlemskap.
-
-4.2.3 Beregning av barnepensjon
-Dersom én av foreldrene er død, utgjør barnepensjonen faste satser av grunnbeløpet, 40 prosent av
-folketrygdens grunnbeløp for det første barnet og
-25 prosent av grunnbeløpet for hvert av de øvrige
-barna, se folketrygdloven § 18-5 første ledd. Pensjonen reduseres forholdsmessig dersom den
-avdøde forelderen ikke hadde full trygdetid (40
-år). Dette gjelder derimot ikke dersom dødsfallet
-skyldes en yrkesskade, se folketrygdloven § 18-11
-bokstav c. Barnepensjon til to eller flere barn summeres og gis med like stort beløp til hvert barn.
-Barnepensjon til barn som har mistet begge
-foreldrene, beregnes på grunnlag av de avdøde
-
-[Side 53]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-foreldrenes pensjonsopptjening. Pensjonen til
-det første barnet utgjør et beløp som svarer til
-full etterlattepensjon etter den av foreldrene som
-ville ha fått høyest etterlattepensjon før avkorting
-mot arbeidsinntekt, se folketrygdloven § 18-5
-andre ledd. Dersom moren er død og farskap
-ikke er fastslått, gis det pensjon på grunnlag av
-morens opptjening. Pensjonen for neste barn
-utgjør 40 prosent av grunnbeløpet og 25 prosent
-av grunnbeløpet for hvert av de øvrige barna.
-Barnepensjon til to eller flere barn summeres og
-gis med like stort beløp til hvert barn. Dersom
-den avdøde etterlater seg flere barnekull, beregnes barnepensjon særskilt for hvert kull. Pensjonen reduseres også her på grunn av manglende
-trygdetid, med mindre dødsfallet skyldes en
-yrkesskade.
-
-4.2.4
-
-Bortfall av barnepensjon
-
-Barnepensjon gis som hovedregel fram til barnet
-fyller 18 år, se folketrygdloven § 18-4 andre ledd.
-Dersom begge foreldrene er døde og barnet har
-utdanning som hovedbeskjeftigelse, gis det barnepensjon fram til barnet fyller 20 år, se folketrygdloven § 18-4 tredje ledd. Det samme gjelder
-praktikanter og lærlinger når arbeidsinntekten
-etter fradrag for skatt er mindre enn grunnbeløpet pluss særtillegg for enslige, i dag tilsvarende
-en netto inntekt på to ganger folketrygdens
-grunnbeløp.
-Dersom dødsfallet skyldes en yrkesskade, kan
-barnepensjon gis inntil barnet fyller 21 år dersom
-barnet har utdanning som hovedbeskjeftigelse, se
-folketrygdloven § 18-11 bokstav d. Det samme
-gjelder praktikanter og lærlinger som etter skatt
-har hatt inntekt mindre enn grunnbeløpet pluss
-særtillegg for enslige.
-I motsetning til hva som gjelder for pensjon/
-overgangsstønad til en gjenlevende ektefelle, faller ikke retten til barnepensjon bort dersom en
-gjenlevende forelder gifter seg igjen. Pensjonen
-faller heller ikke bort dersom barnet selv gifter
-seg. Retten til barnepensjon faller derimot bort
-hvis barnet blir adoptert av et ektepar, eller dersom en ektefelle adopterer den andre ektefellens
-barn, se folketrygdloven § 18-7 første ledd.
-Bestemmelsen innebærer at barnepensjonen faller bort når adopsjonen fører til at barnet får to
-foreldre. Dersom et foreldreløst barn blir adoptert
-av en enslig, får barnet barnepensjon beregnet
-som om én forelder er død.
-Dersom barnet får rett til uføretrygd, skal barnepensjonen avkortes mot uføretrygden krone for
-krone, se folketrygdloven § 18-7 andre ledd.
-
-51
-
-Barnepensjonen kan reduseres dersom barnet
-er under opphold i institusjon, se folketrygdloven
-§ 18-8. Det følger av folketrygdloven § 18-9 at barnepensjon faller bort under straffegjennomføring.
-
-4.3
-
-Utvalgets forslag
-
-Utvalget mente at det å forhindre barnefattigdom
-ved tap av foreldre burde være det sentrale elementet i de framtidige etterlatteytelsene. For
-ytelser til etterlatte barn la utvalget fram forslag
-om økte satser og forlenget varighet som sammenliknet med dagens regelverk, vil gi en forbedret ytelse for de fleste mottakere. Utvalget la i
-tillegg fram flere forslag som innebar betydelig
-forenkling av regelverket for barnepensjon.
-Utvalget foreslo at barnepensjonen, som i dag,
-skal beregnes uavhengig av barnets alder. Utvalget påpekte at det ikke er entydig hvilke hensyn
-det skulle legges avgjørende vekt på i et regelverk
-med aldersdifferensierte satser. Omsorg for små
-barn gir mer begrensede muligheter for en enslig
-forsørger til å skaffe seg en egen inntekt eller øke
-sin arbeidsinnsats, noe som trekker i retning av at
-ytelsen burde være høyere for små barn. Imidlertid koster det normalt mer å forsørge et eldre
-barn enn et yngre barn, noe som er et argument
-for at ytelsen burde være høyere for eldre barn.
-Ettersom det er hensyn som trekker i begge retninger, var det etter utvalgets syn ingen tungtveiende argumenter som taler for at ytelsen burde
-differensieres med barnets alder.
-Utvalget viste til at det ikke er sterke holdepunkter for å anta at en husholdning med flere
-barn gir mer omfattende stordriftsfordeler enn en
-husholdning med ett barn, og foreslo derfor å gå
-bort fra avtrappende satser dersom det er flere
-søsken som har rett til barnepensjon etter avdøde.
-Utvalget foreslo at pensjonen skal utmåles uavhengig av de avdøde foreldrenes pensjonsopptjening, også når begge foreldrene er døde.
-Etter utvalgets syn tilsa et slikt system at barnepensjon også burde beregnes uavhengig av
-avdøde forelders trygdetid.
-Utvalget viste til at barn i dag er under foreldrenes omsorg lenger enn tidligere, og foreslo at
-ytelsene til etterlatte barn skal løpe til fylte 20 år
-for alle barn som er under utdanning etter at de
-har fylt 18 år, uavhengig av om barnet har mistet
-én av eller begge foreldrene. Utvalget mente det
-ville være en fordel om det gjelder en felles aldersgrense for barnepensjon, og at det burde vurderes
-om denne aldersgrensen også skal gjelde for
-yrkesskadetilfellene.
-
-[Side 54]
-
-52
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-Utvalget uttalte at nivået på en fremtidig ytelse
-til etterlatte barn, burde kunne fastsettes på et
-relativt selvstendig grunnlag ut fra en samlet vurdering av relevante forhold, men at nivået på barnepensjonen til barn som har mistet én forelder,
-burde settes med utgangspunkt i at satsen skal stå
-i rimelig forhold til kostnadene ved å forsørge et
-barn. For å beregne kostnadene ved å forsørge
-barn, har utvalget blant annet sett hen til referansebudsjettet fra Statens institutt for forbruksforskning (SIFO). Dette benyttes blant annet til å
-beregne forbruksutgifter i den såkalte underholdskostnaden som bestemmes i forbindelse
-med fastsetting av barnebidrag. Utvalget viste til
-at forutsatt at to foreldre i utgangspunktet bidrar
-omtrent likt til barnets forsørgelse, vil halvparten
-av underholdskostnaden gi en god indikasjon på
-hvilket månedlig tilskudd som bortfaller dersom
-én av foreldrene dør. Halvparten av underholdskostnaden, tilsvarende det beløpet som bortfaller dersom én forsørger dør, kan på denne
-måten beregnes til mellom 2 700 kroner og 4 900
-kroner per måned, avhengig av barnets alder.
-En annen referanse utvalget viste til i sin drøfting, er utgiftsdekning for barn som plasseres i
-fosterhjem. Disse satsene er på om lag samme
-nivå som SIFOs satser. Veiledende satser utgjør
-5 520 kroner per måned for barn under seks år, og
-opp til 8 125 kroner per måned for barn som er 15
-år og eldre per 1. juli 2020. Halvparten av de veiledende satsene vil dermed utgjøre mellom om
-lag 2 800 og om lag 4 000 kroner.
-Utvalget mente at ytelsen til etterlatte barn
-som har mistet én forelder, må ses i sammenheng
-med forslaget om at dagens etterlattepensjon skal
-erstattes med en tidsbegrenset omstillingsstønad
-som skal utmåles etter en standardisert sats. Etter
-utvalgets oppfatning kunne denne omleggingen
-være et argument for å øke ytelsene til barn som
-har mistet én av foreldrene. Utvalget foreslo etter
-dette en årlig ytelse på 50 prosent av grunnbeløpet til hvert barn.
-Når det gjelder ytelsen til barn som har mistet
-begge foreldrene, mente utvalget det burde skje
-en tilnærming av nivået på denne ytelsen til nivået
-på ytelsen til barn som har mistet én av foreldrene. Utvalget viste til at utviklingen i forsørgings- og omsorgsformer og utbyggingen av velferdssystemet har bidratt til at foreldreløse barn i
-dag er i en annen og økonomisk sett gunstigere
-situasjon enn da folketrygden ble innført for over
-50 år siden. Dette trekker i retning av å løsrive
-fastsetting av ytelsen fra prinsippet om at barn
-trer inn i foreldrenes pensjonsrett, og at ytelsen
-bør være lavere for første barn enn etter dagens
-
-2020–2021
-
-regelverk. Det ble blant annet lagt vekt på at barnepensjon verken i dag eller i framtiden vil være
-den eneste kilden til å dekke kostnadene ved oppfostring av barn. Ut fra en samlet vurdering foreslo utvalget at ytelsen til barn som har mistet
-begge foreldrene skulle utgjøre 120 prosent av
-grunnbeløpet.
-Ettersom utvalgets forslag ville innebære en
-lavere ytelse for foreldreløse barn som ikke har
-søsken, uttalte utvalget at det burde vurderes om
-det er behov for å videreføre bestemmelsen i § 18-8
-om reduksjon av ytelser under institusjonsopphold, og om kommuner fortsatt burde ha hjemmel
-til å kreve refusjon i barnepensjon ved plassering
-utenfor hjemmet. Utvalget mente at dagens regler
-kan medvirke til å forverre situasjonen for barn
-som er i en allerede vanskelig situasjon, ved at de
-ikke har mulighet til å opparbeide seg midler til
-senere egenforsørgelse. Utvalget uttalte videre at
-det burde vurderes om regler om bortfall eller
-omregning av barnepensjon når en enslig person
-har fått foreldreansvar etter barneloven § 38, er
-hensiktsmessig og rettferdig utformet med tanke
-på barn i ulike livssituasjoner.
-Utvalgets forslag gjelder nye tilfeller, men
-utvalget foreslo at barn som allerede mottar barnepensjon når nytt regelverk trer i kraft, skal få
-pensjonen beregnet etter nye regler dersom dette
-gir høyere ytelse.
-
-4.4
-
-Høringsinstansenes syn
-
-De fleste av høringsinstansene som uttaler seg,
-støtter i det vesentlige utvalgets forslag om en forbedret barnepensjon.
-KS støtter at barnepensjon til etterlatte barn
-økes og forlenges til fylte 20 år, samt at det innføres enhetlige satser som er uavhengig av den
-avdødes inntekt og av antall barn i familien.
-Spekter mener det er viktig at forholdene legges godt til rette for barn som har mistet foreldre,
-slik at de gis mulighet til utdanning og yrkesdeltakelse mest mulig på linje med andre barn.
-Kreftforeningen viser til at barn som mister foreldre blir økonomisk sårbare, og at det kan være
-vanskelig for barn som har mistet den ene av sine
-foreldre å studere ettersom de mister sin pensjon
-ved fylte 18 år. Kreftforeningen støtter derfor forslaget om å utvide aldergrensen for barnepensjon
-til fylte 20 år til alle etterlatte barn som er under
-utdanning.
-LO Kommune, LO Stat, UNIO, YS og Akademikerne (hovedsammenslutningene) mener at
-aldersgrensen for å motta barnepensjon bør heves
-
-[Side 55]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-til 20 år for alle etterlatte barn, og inntil 25 år dersom barnet er under utdanning. Hovedsammenslutningene viser blant annet til at barn er under
-foreldrenes omsorg lenger enn tidligere, og at
-etterlatte barn kan ha særlige økonomiske behov.
-Å utvide øvre aldersgrense for barnepensjon er
-etter hovedsammenslutningenes syn i tråd med
-prinsippene som utvalget for øvrig legger til
-grunn for omleggingen.
-Norsk Fosterhjemforening mener at barnepensjon bør kunne gis opp til 25 år til etterlatte barn
-som er under barnevernets omsorg, uavhengig av
-om de er i et utdanningsløp eller ikke. Norsk Fosterhjemsforening mener at utdanning som vilkår
-for inntektssikring ikke er treffsikkert og peker
-på at mange barnevernsbarn har problemer med
-å fullføre utdanning.
-LOP, Norsk Fosterhjemsforening og hovedsammenslutningene støtter ikke at barnepensjon
-for mange foreldreløse barn vil bli redusert med
-utvalgets forslag sammenliknet med dagens
-regler.
-Hovedsammenslutningene uttaler at de ikke
-kan støtte et opplegg som endrer ytelsen for nye
-tilfeller, slik at de aller fleste foreldreløse barn får
-lavere barnepensjon.
-Arbeids- og velferdsdirektoratet (direktoratet)
-påpeker at en styrking av barnepensjonen vil
-kunne gi høy samlet inntekt for familier med store
-barnekull, noe som muligens kan virke passiviserende for gjenlevende.
-Direktoratet har ellers merknader til den tekniske gjennomføringen av utvalgets forslag, og
-påpeker at forslagene har flere elementer som det
-vil være administrativt krevende å følge opp, selv
-om forslaget også inneholder forenklende elementer.
-Direktoratet påpeker at det må presiseres
-hvordan krav om utdanning ved barnepensjon
-skal følges opp og kontrolleres, og hva som skal
-godkjennes som utdanning.
-Selv om ytelsen foreslås gitt uavhengig av
-trygdetid, opplyser direktoratet at de fortsatt vil
-måtte foreta en vurdering av avdødes botid i forbindelse med kvalifiseringsperioden.
-Utvalgets forslag innebærer at dagens regelverk for beregning av barnepensjon gradvis vil
-fases ut. Direktoratet presiserer at det vil være krevende å forvalte to parallelle regelverk over en periode på inntil 20 år, og at dette vil kunne medføre
-økte driftskostnader. Som et mulig alternativ foreslår direktoratet å konvertere barnepensjon til foreldreløse til nytt regelverk fortløpende, men slik at
-utbetalingen tilsvarer utbetalingen før konvertering, dersom denne er høyere enn den nye ytelsen.
-
-53
-
-Direktoratet presiserer for øvrig at hva som
-lønner seg av nytt eller gammelt regelverk, vil
-kunne variere over tid og med antall barn i søskenflokken.
-
-4.5
-
-Departementets vurdering og
-forslag
-
-4.5.1 Innledning
-Alle mindreårige barn har krav på å bli forsørget,
-og barnepensjon fra folketrygden er en viktig inntektssikring for barn når én av eller begge foreldrene er døde. For en gjenlevende forelder kan
-barnepensjonen bli et særlig viktig bidrag når
-dagens etterlattepensjon erstattes med en tidsbegrenset omstillingsstønad. Departementets forslag i denne proposisjonen innebærer at det stilles
-strengere krav til gjenlevende ektefeller, men dette
-gir samtidig mulighet til å styrke barnepensjonene.
-Departementet legger i dette kapitlet fram forslag til regler om barnepensjon fra folketrygden.
-Forslaget er hovedsakelig i overenstemmelse
-med etterlatteutvalgets forslag. De endringsforslagene som fremmes i punktene 4.5.2 til 4.5.7 gjelder hovedsakelig beregningsregler, og enkelte
-andre mindre endringer i tilknytning til etterlatteutvalgets forslag.
-Regelverket for barnepensjon har ikke vært
-gjenstand for noen større gjennomgang siden folketrygdloven ble gitt i 1966. En rekke endringer
-i andre ytelseskapitler har imidlertid medført
-endringer også i regelverket for barnepensjon.
-På denne bakgrunn anser departementet at det
-er behov for en fullstendig gjennomgang av
-regelverket. I punkt 4.6 legger departementet
-fram forslag til enkelte tekniske og språklige
-endringer, samt forslag som innebærer en oppdatering og tydeliggjøring av regelverket på
-enkelte områder.
-4.5.2
-
-Beregning av barnepensjon når én
-forelder er død
-
-Departementet er enig med utvalget i at barnepensjon skal gis med en fast sats til hvert barn,
-uavhengig av hvor mange barn den avdøde etterlater seg.
-Folketrygdloven har hatt avtrappende satser
-for barnepensjon helt siden forsørgertrygden for
-barn ble innlemmet i den tidligere folketrygdloven av 17. juni 1966. Forarbeidene gir ikke klare
-svar på hvorfor det ble innført avtrappende satser
-for barnepensjon. Departementet viser til at
-Norge, i motsetning til mange andre land ikke har
-
-[Side 56]
-
-54
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-innført noe samlet tak for barnepensjon og etterlattepensjon, og mener avtrappende satser kan ses
-i lys av det.
-Departementet mener videre at reglene må
-ses i lys av den kraftige stigningen i fruktbarhetstallene som Norge opplevde fram til midten av
-1960-tallet. Innlemmelse av den tidligere forsørgertrygden for barn i folketrygden, innebar en
-økning av satsene for barnepensjon. Et regelverk
-med avtrappende satser bidro til å begrense
-økningen i utgiftene til barnepensjon som følge av
-flere og større barnekull og økte satser. Departementet antar, som utvalget, at det også kan ha ligget til grunn betraktninger om stordriftsfordeler
-knyttet til å ha flere barn i en husholdning, sammenliknet med det å ha ett barn i husholdningen.
-Utvalget uttalte at hvor mye en sparer i utgifter
-per barn ved å ha flere barn, nok vil være svært
-individuelt og avhenge av en rekke forhold, som
-for eksempel barnas kjønn, nærhet i alder mellom
-barna og levestandard generelt. Utvalget la i sitt
-forslag om å gå bort fra avtrappende satser vekt
-på at det ikke er sterke holdepunkter for å anta at
-en husholdning med flere barn i dag gir mer
-omfattende stordriftsfordeler enn en husholdning
-med ett barn. Departementet slutter seg til denne
-vurderingen, og antar også at stordriftsfordelene
-ved å ha flere barn trolig var større i en tid da det
-var vanlig med store barnekull, enn i dagens samfunn med færre barn per familie.
-Departementet støtter utvalgets syn om at
-dagens system med avtrappende satser bidrar til
-et komplisert regelverk, som i tillegg er ressurskrevende å administrere, ved at barnepensjonen
-må beregnes på nytt når et av barna i en søskenflokk når øvre aldersgrense for rett til barnepensjon. Når barnepensjon skal gis med en fast sats til
-hvert barn, er det ikke behov for å videreføre
-bestemmelser om fordeling av barnepensjon når
-avdøde etterlater seg mer enn ett barn, se folketrygdloven § 18-5 sjette ledd. Etter dagens regler
-beregnes pensjonen særskilt for hvert barnekull,
-dersom barnekullene oppdras hver for seg.
-Departementet mener at et system med faste satser per barn, tilsier at disse reglene heller ikke
-videreføres, se § 18-5 sjuende ledd, se likevel
-punkt 4.5.3.2 om forhøyet sats for barnepensjon.
-Det samme gjelder regelen i § 18-5 femte ledd om
-at det ved beregning av pensjon skal ses bort fra
-søsken som mottar redusert barnepensjon på
-grunn av opphold i helseinstitusjon, eller som blir
-forpleid etter barnevernloven, se spesialmerknad
-til § 18-5.
-
-2020–2021
-
-Departementet er videre enig med utvalget i at
-barnepensjonen, som i dag, bør beregnes uavhengig av barnets alder.
-Når det gjelder nivået på pensjon til barn som
-har mistet én av foreldrene, slutter departementet
-seg i det vesentlige til utvalgets vurderinger.
-Departementet foreslår, som utvalget, at ytelsen
-til barn som har mistet én forelder, skal utgjøre
-0,5 ganger folketrygdens grunnbeløp til hvert
-barn. Dette utgjør om lag 50 000 kroner i året og i
-underkant av 4 200 kroner måneden med grunnbeløpet per 1. mai 2020. Før skatt gir dette en årlig
-ytelse som er om lag 10 000 kroner høyere enn
-dagens regler for barn som ikke deler ytelsen
-med søsken, og om lag 16 500 kroner høyere enn
-gjennomsnittlig utbetalt ytelse.
-Forslaget om økte satser og å gå bort fra
-avtrappende satser, vil gi en styrket barnepensjon
-til alle barn som har mistet én av foreldrene. Dette
-utgjør nær 99 prosent av alle mottakere av barnepensjon.
-For familier med mange barn, kan samlet
-ytelse bli betydelig høyere enn etter dagens
-regler. Barnepensjon for fire barn utgjør med
-dagens regelverk 1,15 ganger folketrygdens
-grunnbeløp per år når én av foreldrene er døde.
-Med departementets forslag vil samlet ytelse
-utgjøre nær dobbelt så mye, 2 ganger folketrygdens grunnbeløp. Som påpekt av Arbeids- og velferdsdirektoratet kan dette muligens virke passiviserende for noen gjenlevende forsørgere. Det kan
-derfor argumenteres for at det burde være et tak
-for samlet barnepensjon, men departementet er
-enig med direktoratet i at en slik regel ikke ville
-være hensiktsmessig da den ville være kompliserende og omfatte svært få familier. Departementet
-viser til lovforslaget, folketrygdloven § 18-5 første
-ledd.
-
-4.5.3
-
-Beregning av barnepensjon når begge
-foreldrene er døde
-
-4.5.3.1 Generell sats
-Departementet mener at pensjonen til barn som
-har mistet begge foreldrene, skal beregnes etter
-samme prinsipper som pensjon til barn som har
-mistet én av foreldrene. Det innebærer at pensjonen skal beregnes uavhengig av barnets alder og
-gis med en fast sats til hvert barn, uavhengig av
-hvor mange barn den avdøde etterlater seg.
-
-[Side 57]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-Forslaget om at barnepensjonen skal beregnes
-uavhengig av de avdøde foreldrenes pensjonsopptjening, vil innebære en betydelig forenkling sammenliknet med dagens regelverk. Det er også
-naturlig sett i lys av at ytelsen til etterlatte voksne
-foreslås som en standardisert sats, jf. departementets forslag i punkt 3.5.3.1. Departementet viser til
-at det bare er i de få tilfellene der barnet har mistet begge foreldrene at barnepensjonen beregnes
-med utgangspunkt i de avdøde foreldrenes pensjonsopptjening. I desember 2019 gjaldt dette 144
-barn. Forslaget innebærer videre større grad av
-økonomisk likestilling, ved at barn av foreldre
-som har lav inntekt og opptjening i folketrygden,
-vil få en like høy ytelse som barn av mer velstående foreldre. Forslaget vil i tillegg gi større grad
-av forutberegnelighet, ved at ytelsens størrelse vil
-framgå direkte av regelverket.
-Departementet er enig med utvalget i at nivået
-på ytelsen kan fastsettes på relativt selvstendig
-grunnlag. Nivået på ytelsen til dagens mottakere
-er normalt et viktig referansepunkt ved vurderingen av nivået for framtidige ytelser, men innad i
-den lille gruppen foreldreløse barn er det i dag så
-stor forskjell i nivået på ytelsen, at dette etter
-departementets syn ikke bør tillegges stor vekt.
-De store forskjellene i utbetalt ytelse skyldes først
-og fremst at det har så stor betydning for nivået
-om det er ett eller flere barn i samme barnekull
-som samtidig har rett til barnepensjon etter de
-avdøde foreldrene. Dagens regler medfører stor
-nivåforskjell også innad i en søskenflokk, ved at
-det yngste barnet vil få en betydelig økt ytelse når
-eldre søsken ikke lenger har rett til barnepensjon.
-Dersom det er to barn som samtidig har rett til
-barnepensjon, vil ytelsen til det yngste barnet øke
-fra 1,2 ganger grunnbeløpet til 2 ganger grunnbeløpet når det eldste barnet ikke lenger har rett
-til barnepensjon. Dersom de avdøde foreldrene
-etterlater seg tre barn som alle har eller har hatt
-rett til barnepensjon, vil ytelsen til det yngste barnet ha økt fra 0,88 ganger grunnbeløpet til 2 ganger grunnbeløpet når de to eldste søsknene ikke
-lenger mottar barnepensjon. I begge eksemplene
-er det forutsatt at barna har ytelse på minstenivå.
-Blant dagens mottakere er det 60 prosent som
-ikke deler ytelsen med ett eller flere søsken. Det
-er imidlertid ikke mulig å si om disse barna tidligere har delt ytelsen med eldre søsken som ikke
-lenger har rett til barnepensjon.
-Foreldreløse barn som ikke deler ytelsen med
-ett eller flere søsken, mottar i dag en ytelse som
-tilsvarer minstenivået for flere av folketrygdens
-ytelser som skal sikre livsopphold for voksne personer. Departementet understreker at barne-
-
-55
-
-pensjon ikke er ment å være den eneste kilden til
-dekning av utgifter til oppfostring av barn. Alle
-mindreårige barn har krav på å bli forsørget, og
-en person som påtar seg foreldreansvaret for et
-foreldreløst barn, vil ha samme forpliktelse til å
-forsørge barnet som en biologisk forelder. Med
-dette mener departementet at det i utgangspunktet ligger en forutsetning om at det ikke kan forventes at barnet selv, med barnepensjonen som
-følger barnet, skal betale fullt ut for kostnadene
-for egen oppfostring. Sett i sammenheng med forslaget om at pensjonen skal gis med en fast sats
-per barn, mener departementet at satsen for
-barnepensjon til barn som har mistet begge foreldrene, bør settes lavere enn dagens minstenivå.
-Som tiltak mot barnefattigdom mener departementet det er viktigere å styrke ytelsen til det store flertall av etterlatte barn, fremfor å videreføre et uforholdsmessig høyt nivå for noen svært få.
-Departementet mener at utvalgets forslag om
-at årlig ytelse til barn som har mistet begge foreldrene skal utgjøre 1,2 ganger folketrygdens
-grunnbeløp, bygger på en rimelig avveining av
-forholdet mellom kostnader ved oppfostring av
-barn, og nivået på ytelsen til dagens mottakere.
-En sats på 1,2 ganger grunnbeløpet gir en ytelse
-på noe over det dobbelte av ytelsen til barn som
-har mistet én av foreldrene. Forslaget innebærer
-at alle barn som mottar barnepensjon etter å ha
-mistet begge foreldrene, og som har minst ett søsken, vil få like høy eller høyere ytelse med nytt
-regelverk sammenliknet med dagens regelverk.
-Enkelte foreldreløse barn som etter dagens
-regler ville hatt rett til en ytelse over minstenivå,
-vil derimot kunne få en lavere ytelse. Departementet legger til grunn at de foreldreløse barna
-som i dag mottar de høyeste ytelsene, ikke er den
-mest økonomisk utsatte gruppen og viser videre
-til at dette gjelder få personer. På denne bakgrunn
-mener departementet at det ikke er grunn til å
-videreføre det høyeste nivået for framtidig etterlatte barn.
-Departementet foreslår at barnepensjon til
-barn som har mistet begge foreldrene skal utgjøre
-1,2 ganger folketrygdens grunnbeløp i årlig
-ytelse. Departementet viser til lovforslaget, folketrygdloven § 18-5 andre ledd.
-
-4.5.3.2
-
-Forhøyet sats
-
-Departementet viser til at enkelte høringsinstanser er sterkt imot forslag som innebærer redusert
-ytelse for en sårbar gruppe. Blant gruppen av
-barn som har mistet begge foreldrene, har
-enkelte etter dagens regler rett til en ytelse på
+## Departementets vurdering og forslag
+
+### Innledning
+
+Departementet legger i punkt 3.5 fram forslag til regler om ny etterlatteytelse fra folketrygden. Forslagene er langt på vei i overenstemmelse med etterlatteutvalgets forslag, men på enkelte punkter avviker departementets forslag fra utvalgets.
+
+Ettersom departementet foreslår å legge om ytelsen, er det nødvendig å strukturere folketrygdloven kapittel 17 på en annen måte enn i dag.
+
+### Fra varig etterlattepensjon til tidsbegrenset omstillingsstønad
+
+Departementet er enig i utvalgets forslag om at dagens varige etterlattepensjon til personer under 67 år erstattes av en tidsbegrenset omstillingsstønad. Det er et sentralt mål for regjeringen at flest mulig skal kunne delta i arbeidslivet. Å legge om etterlattepensjonen til en tidsbegrenset omstillingsstønad, anses å være en tydeliggjøring av at etterlatte er arbeidsføre personer som i størst mulig grad skal forsørge seg selv gjennom arbeid. Dette anses igjen å bidra til å oppnå målsettingen om at flest mulig skal delta i arbeidslivet.
+
+Det er ikke nytt at etterlatte forventes å skulle forsørge seg selv. I forarbeidene til den tidligere folketrygdloven av 1966 var det uttalt at etterlattepensjon bare skulle gis i de tilfeller hvor enken ikke kunne forsørge seg selv ved eget arbeid. I St.meld. nr. 75 (1963–64) viste Sosialdepartementet til at kvinner stort sett har de samme muligheter i arbeidslivet som menn, og at gifte kvinner i stadig større utstrekning tar lønnet arbeid utenfor hjemmet, og uttalte at dette var forhold som måtte virke inn ved utformingen av enkepensjoneringen i den kommende folketrygden. Disse synspunktene er enda mer aktuelle i dag, og etter departementets syn er det mange argumenter som taler for at det ikke er behov for å videreføre en varig etterlattepensjon.
+
+Få av dagens mottakere av etterlattepensjon lever kun av pensjonen. For mange utgjør pensjonen et til dels betydelig supplement til arbeidsinntekt eller andre midler. Med ytelse på minstenivå vil etterlattepensjonen etter dagens regler ikke være fullstendig avkortet før den etterlatte har en inntekt på 5,5 ganger folketrygdens grunnbeløp som per 1. mai 2020 tilsvarer om lag 550 000 kroner. En etterlatt som mottar en etterlattepensjon på 2,6 ganger grunnbeløpet, kan ha en inntekt på inntil 7 ganger grunnbeløpet, om lag 700 000 kroner, før ytelsen faller helt bort. Personer som er fullt ut selvforsørget, kan altså motta etterlattepensjon helt fram til uttak av alderspensjon.
+
+Mange av høringsinstansene har vist til at de, i lys av samfunnsutviklingen, ser behovet for en gjennomgang av folketrygdens ytelser til etterlatte. Flere høringsinstanser mener likevel at utvalgets forslag til endringer er mer inngripende enn det er behov eller grunnlag for.
+
+Departementet viser til at dagens etterlattepensjon er den eneste varige folketrygdytelsen til arbeidsføre som skal dekke utgifter til livsopphold. Videre viser departementet til at dagens varige ytelse har svake arbeidsinsentiver, og mange etterlatte vil få liten økonomisk uttelling av å øke sin arbeidsinnsats. Dette kan medføre at personer som har vært delvis forsørget av sin ektefelle, i liten grad ser behovet for å omstille seg for å kunne forsørge seg selv etter at ektefellen dør. Departementet mener, som utvalget, at den nye ytelsen må innrettes slik at den gir den etterlatte mulighet til å bli i stand til å forsørge seg selv og foreslår derfor at dagens varige etterlattepensjon erstattes med en tidsbegrenset omstillingsstønad.
+
+Formålet med den foreslåtte omstillingsstønaden til gjenlevende ektefeller under 67 år, er å sikre inntekt for den gjenlevende og gi hjelp til selvhjelp, slik at den etterlatte etter en omstillingsperiode etter dødsfallet kan bli i stand til å forsørge seg selv ved eget arbeid. Forslaget til formålsbestemmelse er i samsvar med den generelle formålsbestemmelsen i folketrygdloven § 1-1.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-1 første ledd.
+
+Norge har på trygdeområdet ratifisert en rekke konvensjoner under ILO og Europarådet. De viktigste konvensjonene for etterlatteytelser er ILO-konvensjon nr. 128 (heretter ILO-128) og Europarådets trygdekodeks (heretter ET). Norge har, ved å ratifisere disse instrumentene, forpliktet seg til å ha en etterlatteytelse som oppfyller nærmere angitte krav. Et sentralt slikt krav går fram av ILO-128 artikkel 25, som slår fast at etterlatteytelsen til en kvinne som var forsørget av sin mann på det tidspunktet vedkommende døde, «skal gis så lenge trygdetilfellet varer.» Det samme kravet kommer til uttrykk i ET artikkel 64.
+
+Etter departementets syn vil innføringen av en tidsbegrenset omstillingsstønad ikke bryte med ILO-128 artikkel 25 og ET artikkel 64. Departementet legger til grunn at formålet med konvensjonsbestemmelsene er å sikre enken en inntekt, slik at enkepensjonen kan erstattes av en annen ytelse, så lenge enken ikke går ned i inntekt.
+
+Departementet mener at formålet om å sikre inntekt for etterlatte best kan nås ved å gi bistand til selvforsørgelse gjennom eget arbeid. Hovedtyngden av etterlatte i Norge er i dag selvforsørget, og for de som ikke er det, er inntektssikringssystemet i folketrygden betydelig bygd ut og forbedret siden ILO-128 og ET ble innført. Til dette kommer at det i forbindelse med innføringen av den tidsbegrensede omstillingsstønaden vil bli foreslått overgangsordninger som sikrer personer over en viss alder som har hatt liten tilknytning til yrkeslivet en etterlatteytelse uten tidsbegrensning, se avsnitt 3.5.7.
+
+Dertil kommer at det etter departementets syn uansett ikke bør være slik at mer enn 50 år gamle konvensjoner som er basert på samfunnsforholdene slik de var den gang, skal begrense handlingsrommet for å modernisere stønadsordninger til gjenlevende ektefeller, slik at stønadene i større grad kan reflektere dagens samfunnsforhold. I den forbindelse kan det videre vises til at Sverige, som sammen med Finland og Norge er de nordiske landene som har sluttet seg til «etterlattedelen» av ILO-128 og ET, la om sin etterlattepensjon til en tidsbegrenset omstillingsytelse allerede i 1994, men med lange overgangsregler. Skulle ILO/Europarådet likevel stille spørsmål ved innretningen på den foreslåtte omstillingsstønaden, vil dette bli håndtert i dialogen med ILO/Europarådet.
+
+Departementet mener at omstillingsstønaden bør gjøres pensjonsgivende. Årlig pensjonsopptjening vil da bli 18,1 prosent av utbetalt ytelse. Med en uavkortet ytelse vil dette tilsvare et supplement til pensjonsbeholdningen på vel 40 000 kroner årlig i faste 2020-kroner.
+
+Etter departementets syn vil det at ytelsen gjøres pensjonsgivende, gi mottakerne en mulighet til å ha opphold fra arbeidslivet uten at dette medfører tap av pensjon i framtiden. Departementet viser også til at folketrygdens øvrige ytelser til livsopphold som hovedregel er pensjonsgivende, herunder overgangsstønaden til enslige forsørgere.
+
+Når det gjelder varighet på ny omstillingsstønad, anser departementet at det ved vurderingen bør tas utgangspunkt i varigheten av andre tidsbegrensede ytelser i folketrygden. Varigheten av ny etterlatteytelse må gi den etterlatte en reell mulighet til omstilling, men samtidig bør langvarig passivitet unngås. En gruppe stønadsmottakere som anses å være arbeidsføre, og som har behov for stønad i en omstillingsperiode, er enslige forsørgere. Enslige forsørgere kan motta overgangsstønad fra folketrygden i inntil tre år, med mulighet for forlengelse i ytterligere to år når mottakeren er under nødvendig og hensiktsmessig utdanning. Mottakere av stønad til enslige forsørgere og etterlatte vil ofte være i litt ulike situasjoner, men det er også mange likhetspunkter. Blant annet vil begge gruppene være i en omstillingsfase. Departementet anser at et tidsrom på inntil tre år i utgangspunktet skal være god tid til å omstille seg etter ektefelles eller samboers dødsfall. Dersom det i tillegg foreligger en mulighet til å utvide stønadsperioden med ytterligere to år der det er behov for utdanning og/eller tiltak, anser departementet at balansen mellom å ha en reell mulighet til omstilling og å unngå langvarig passivitet, er ivaretatt.
+
+Departementet foreslår at den nye omstillingsstønaden skal kunne utbetales for en periode på inntil tre år etter dødsfallet. Det foreslås videre at stønadsperioden kan forlenges i inntil ytterligere to år dersom den etterlatte har behov for utdanning eller tiltak for å komme i arbeid.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-5 første og andre ledd.
+
+### Beregning av ytelsen
+
+#### Nivå på ytelsen
+
+I dag er nivået på folketrygdens etterlattepensjon avledet av den avdødes tilknytning til folketrygden. Med full trygdetid utgjør dagens etterlattepensjon minst summen av grunnpensjon og særtillegg eller pensjonstillegg, det vil si et minstenivå på to ganger folketrygdens grunnbeløp (om lag 200 000 kroner med dagens grunnbeløp) før eventuell avkorting.
+
+For at ytelsen før avkorting skal bli høyere enn minstenivået, må 55 prosent av den avdødes tilleggspensjon være høyere enn særtillegget eller pensjonstillegget, hvilket impliserer at den avdøde må ha hatt en årlig inntekt på minst om lag 5,3 ganger grunnbeløpet (om lag 540 000 kroner), beregnet med opptjeningsreglene som gjelder fra 1992, over tilstrekkelig lang tid.
+
+Maksimal ytelse, som tilsvarende kan beregnes med utgangspunkt i at den avdøde har hatt en inntekt på 12 ganger folketrygdens grunnbeløp over tid, utgjør om lag 2,6 ganger folketrygdens grunnbeløp (om lag 260 000 kroner). Differansen mellom minstenivået og den maksimale bruttoytelsen er altså bare om lag 60 000 kroner.
+
+Etter skatt er differansen mellom maksimal ytelse og minstenivået enda mindre. Prinsippet i dagens ordning om at ytelsen er avledet av den avdødes opptjening, har altså i praksis begrenset betydning.
+
+Det at det i praksis har begrenset betydning at dagens ytelse er avledet av den avdødes inntekt, og ikke har noen betydning dersom den avdøde hadde relativt lav inntekt og opptjening, taler etter departementets syn for at ny etterlatteytelse bør utformes uavhengig av den avdødes tidligere inntekt. En slik løsning bidrar også til en forenkling av systemet. Ytelsen foreslås derfor å være en standardisert ytelse, uavhengig av den avdødes inntekt og opptjening i folketrygden.
+
+Departementet viser til at det er forutsatt at den nye omstillingsstønaden skal skattlegges på samme måte som arbeidsinntekt. Ved vurderingen av nivået på ytelsen, legger departementet i likhet med utvalget til grunn at det er rimelig at ny ytelse er i samme størrelsesorden som dagens minstenivå for etterlattepensjon, når det tas hensyn til endret beskatning, og foreslår i tråd med utvalgets forslag at den standardiserte satsen settes til 2,25 ganger grunnbeløpet. Departementet viser til at et nivå på 2,25 ganger grunnbeløpet tilsvarer nivået på overgangsstønaden for enslige forsørgere, som også skattlegges som lønnsinntekt.
+
+Departementet foreslår på den bakgrunn at den standardiserte satsen settes til 2,25 G.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-6.
+
+Finansdepartementet tar sikte på å fremme forslag om nødvendige endringer i skatteloven, slik at disse trer i kraft samtidig med at de nye etterlatteytelsene innføres.
+
+#### Inntektsavkorting
+
+Etter dagens regler avkortes etterlattepensjonen mot arbeidsinntekt som den etterlatte har eller kan forventes å få. Pensjonen reduseres med 40 prosent av inntekt som overstiger et fribeløp som tilsvarer 0,5 ganger folketrygdens grunnbeløp.
+
+Som utvalget var inne på, ville det å fjerne avkortingen mot arbeidsinntekt fullstendig, antakelig være et tiltak som i stor grad ville bedre arbeidsinsentivene. I likhet med utvalget vil departementet imidlertid ikke tilrå dette, blant annet fordi det ville tilgodesett relativt høytlønte vesentlig mer enn lavtlønte. Departementet mener derfor at den nye omstillingsstønaden, som dagens etterlattepensjon, bør avkortes mot inntekt. Stønaden er ment som en inntektssikring i en periode der det er behov for omstilling etter en ektefelle eller samboers dødsfall, og ikke som et supplement til egen inntekt. Å fjerne avkortingen vil innebære en lite målrettet bruk av offentlige midler, og dessuten kunne virke urimelig i forhold til yrkesaktive som lever på vesentlig lavere inntekter.
+
+Departementet viser til at nivået på den nye omstillingsstønaden til etterlatte i yrkesaktiv alder i henhold til forslaget skal tilsvare nivået på stønaden til enslige forsørgere, 2,25 ganger grunnbeløpet. Overgangsstønaden til enslige forsørgere avkortes med 45 prosent av den inntekten som overstiger 0,5 ganger grunnbeløpet. Departementet foreslår at tilsvarende skal gjelde for den nye omstillingsstønaden. Med en slik avkortingssats vil ytelsen være fullt ut avkortet når inntekten overstiger 5,5 ganger grunnbeløpet. Dette innebærer at ny omstillingsstønad vil være fullstendig avkortet ved det samme inntektsnivået som dagens etterlattepensjon på minstenivå.
+
+Personer med lav eller ingen arbeidsinntekt som blir etterlatt i relativt ung alder, kan ha lettere for å omstille seg til å bli selvforsørget enn eldre etterlatte i tilsvarende situasjon. I dagens regelverk blir dette hensyntatt ved at det som hovedregel legges til grunn for avkortingen av ytelsen at etterlatte som ikke har fylt 55 år, har en inntekt på minst to ganger grunnbeløpet.
+
+Etterlatteutvalgets utredning viser at behovet for etterlatteytelser i stadig mindre grad er knyttet til økende alder. De fleste etterlatte er helt eller delvis selvforsørget, og dette gjelder også i de eldre aldersgruppene. Departementet velger på denne bakgrunn å ikke foreslå at det i ny omstillingsstønad gis ulike regler for inntektsavkorting avhengig av etterlattes alder.
+
+Departementet foreslår at dagens regler om hvilke trygde- og pensjonsytelser som er likestilt med arbeidsinntekt, videreføres. En etterlatt som er ufør, men med lavere uføregrad enn 100 prosent, vil kunne ha behov for omstilling for å kunne utnytte restarbeidsevnen. Å skulle gi gradert omstillingsstønad til en person med uføregrad under 100 prosent, vil innebære kompliserte avkortingsregler. Departementet foreslår derfor at der en etterlatt har en uføregrad under 100 prosent, avkortes omstillingsstønaden mot uføretrygden på samme måte som øvrig inntekt.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-9.
+
+### Aktivitetskrav
+
+#### Innføring av et aktivitetskrav
+
+Et aktivitetskrav anses å være et hensiktsmessig virkemiddel for å oppnå målet om at den etterlatte skal bli selvforsørget. Departementet er derfor enig med utvalget i at det for å oppnå formålet med den nye omstillingsstønaden, bør innføres et krav til aktivitet for å kunne motta ytelsen.
+
+Etter dagens regelverk anses det første året etter dødsfallet som en omstillingstid, og etterlattepensjonen avkortes derfor ikke for høyere inntekt enn det den etterlatte faktisk har i denne perioden. Med utgangspunkt i at det nå foreslås en ny omstillingsstønad med varighet på tre år, mener departementet at det vil forsinke omstillingsprosessen dersom det ikke skal stilles noe krav til den etterlatte om å være i aktivitet med sikte på arbeid før det har gått ett år etter dødsfallet. Departementet viser til at utvalget var opptatt av at stønadsperioden skal brukes best mulig for å bistå den etterlatte i innsatsen med å bli selvforsørget. Departementet anser derfor at det etter en overgangsperiode på seks måneder etter dødsfallet er rimelig å kunne forvente at den etterlatte er i nærmere fastsatt aktivitet, og foreslår at det fra seks måneder etter dødsfallet gjelder et aktivitetskrav for fortsatt rett til omstillingsstønad.
+
+Innføring av en tidsbegrenset ytelse, med aktivitetskrav og tilhørende sanksjonsregler, innebærer at etterlatte som gruppe må følges opp i større grad enn de har vært til nå. Den etterlattes behov for omstilling må kartlegges relativt kort tid etter dødsfallet, slik at vedkommende kan komme i gang med hensiktsmessig aktivitet relativt raskt. Bestemmelsen om arbeids- og velferdsetatens oppfølgingsplikt av enslige forsørgere i folketrygdloven § 15-6 andre ledd foreslås derfor å gjelde tilsvarende for mottakere av ny omstillingsstønad.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-7 første og andre ledd.
+
+#### Nærmere om aktivitetskravets innhold
+
+Det vil være store variasjoner i den enkeltes tilknytning til arbeidslivet når dødsfallet inntreffer. Mange vil være i fullt arbeid, og ikke ha behov for noen yrkes- eller arbeidsmessig omstilling, slik at det ikke vil være aktuelt å stille noe aktivitetskrav ut over å fortsatt være i arbeid. Andre vil ha liten eller ingen utdanning og/eller arbeidserfaring, og vil ha behov for ulike former for opplæring, utdanning og arbeidstrening for å kunne komme i arbeid. Rammene for aktivitetskrav må derfor være relativt vide, og det må være adgang til å foreta konkrete vurderinger ut fra den enkeltes behov.
+
+Som utvalget viste til, anser departementet at kravet må utformes slik at den etterlatte gis insentiver til å ta arbeid eller til å øke sin arbeidsinnsats. Videre bør utformingen av aktivitetskravet innrettes slik at arbeids- og velferdsetatens oppfølging blir effektiv.
+
+Ved utforming av aktivitetskravet tar departementet utgangspunkt i tilsvarende regelverk for overgangsstønad til enslige forsørgere etter folketrygdloven kapittel 15. Det foreslås at det stilles krav om at den etterlatte fra seks måneder etter dødsfallet er i arbeid som utgjør minst halvparten av full tid, har meldt seg til arbeids- og velferdsetaten som reell arbeidssøker, gjennomfører utdanning eller opplæring som vurderes som nødvendig og hensiktsmessig for å kunne få eller beholde et arbeid, eller etablerer egen virksomhet i tråd med bestemmelser i folketrygdloven kapittel 4 om dagpenger under arbeidsløshet.
+
+Ut fra formålet for ny omstillingsstønad, og det forhold at stønaden er tidsbegrenset, anser departementet at det i mange tilfeller vil være grunnlag for å stille et strengere krav til aktivitet enn å være i arbeid i minst halvparten av full tid, og at det bør være adgang til å kreve at den etterlatte søker fulltidsarbeid eller arbeider i full stilling. Departementet foreslår derfor at det fra ett år etter dødsfallet gis en adgang til å stille et utvidet aktivitetskrav. Formålet med en slik regel er å bidra til en effektiv utnyttelse av omstillingsperioden, slik at den etterlatte i størst mulig grad kan bli selvforsørget innen stønadsperiodens utløp.
+
+Departementet anser at det i en del tilfeller vil være rimelig å gjøre unntak fra aktivitetskravet, tilsvarende som i regelverket for ytelser til enslige forsørgere, for eksempel der den etterlatte er i foreldrepermisjon. Det foreslås at nærmere regler om unntak gis i forskrift.
+
+Departementet anser videre at en mer detaljert utforming av regler om hvilke aktivitetskrav som kan stilles, herunder hvilken utdanning som kan godkjennes, nærmere om for hvilke aldersgrupper og hvilke krav som kan stilles til arbeidssøking, deltakelse i arbeidsmarkedstiltak og arbeidsdeltakelse, samt hvilke krav som kan stilles for å dokumentere at vilkårene er oppfylt, også bør gjøres i forskrift.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-7.
+
+#### Sanksjoner ved brudd på aktivitetsplikten
+
+Utover å henvise til at reglene om aktivitetskrav tilsvarer de kravene som gjelder for dagpengemottakere og mottakere av stønad til enslig forsørger, kom utvalget ikke med forslag til sanksjonsregler ved brudd på aktivitetsplikten. Når det innføres regler om aktivitetsplikt, er det etter departementets syn naturlig at det også innføres sanksjonsregler som gir hjemmel for reduksjon eller stans av ytelsen dersom den etterlatte ikke oppfyller aktivitetsplikten.
+
+Ved utformingen av slike regler anser departementet det som hensiktsmessig å ta utgangspunkt i tilsvarende regler for mottakere av overgangsstønad for enslige forsørgere. Av folketrygdloven § 15-12 første ledd følger det at stønaden faller bort én måned dersom medlemmet uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til arbeids- og velferdsetaten. Bortfallsperioden vil trekkes fra den innvilgede stønadsperioden.
+
+Det foreslås tilsvarende sanksjonsregel for de samme situasjoner for mottakere av ny omstillingsstønad. Ettersom det etter hovedregelen gis omstillingsstønad i tre eller fem år fra tidspunktet for dødsfallet, vil det imidlertid ikke være behov for å ha en regel om at bortfallsperioden skal trekkes fra den innvilgede stønadsperioden.
+
+I folketrygdloven § 15-12 andre ledd er det gitt regler om utestengning fra ytelser for tilfeller der det er gitt mangelfulle eller uriktige opplysninger, og mottakeren enten var eller burde vært klar over dette. Departementet foreslår at det gis en tilsvarende regel for ny omstillingsstønad.
+
+Departementet foreslår at det gis hjemmel til å  gi forskrifter om gjennomføring av sanksjoner og om utestengingsperiodens varighet. Slik forskriftshjemmel er også gitt i folketrygdloven § 15-12.
+
+Departementet foreslår at dersom aktivitetskravet i § 17-7 ikke følges opp, stanses omstillingsstønaden til vilkårene for å motta ytelsen igjen er oppfylt.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-8.
+
+### Personkretsen
+
+#### Innledning
+
+Utvalget diskuterte i sin utredning flere problemstillinger knyttet til hvem som i framtida skal kunne få ny omstillingsstønad. Departementet foreslår noen mindre endringer i personkretsen i denne proposisjonen, men tilrår ingen omfattende omlegging på det nåværende tidspunkt. Det vises til lovforslaget, folketrygdloven § 17-4.
+
+#### Samboere
+
+Utvalget pekte på at endringer i familie- og yrkesmønstre innebærer at behovet for ytelser til etterlatte er endret siden folketrygdloven trådte i kraft i 1967. Dagens samlivsmønstre er mer mangfoldige og mindre dominert av de livslange ekteskapene. Det er mer vanlig å være samboere før en eventuell ekteskapsinngåelse. Utvalget mente på denne bakgrunn at det burde vurderes å likestille langvarige samboerskap med ekteskap med hensyn til å ha rett til etterlatteytelser.
+
+Departementet er langt på vei enig i utvalgets argumenter. Å skulle utvide gruppen av samboere med rett til ytelser, er imidlertid en omfattende diskusjon som krever en større gjennomgang og utredning. Problemstillingen vil ha relevans for flere områder innen trygde- og pensjonsretten, og departementet ser ikke at det per nå er grunnlag for å foreslå å utvide retten for samboere for en enkelt ytelse på folketrygdens område.
+
+Departementet ser også at en utvidelse av gruppen samboere som skal ha rett til ytelser, uten at det har vært foretatt en helhetlig gjennomgang og utredning av spørsmålet, vil medføre administrative utfordringer for arbeids- og velferdsetaten. Særlig vil det kunne by på utfordringer med hensyn til å fastsette forutgående samboerskap i de siste fem år. Erfaringer fra Sverige, der man fra 1946 likestilte ektefeller og samboere i ekteskapslignende forhold, var at et så vidt samboerbegrep var vanskelig å praktisere. Der ble regelen i 1960 endret til at likebehandlingen av ektefeller og samboere bare gjelder samboere som har eller har hatt felles barn eller tidligere har vært gift med hverandre. Dette er modellen som dannet bakgrunn for dagens regel i folketrygdloven.
+
+Departementet vil derfor i denne omgang ikke foreslå å utvide gruppen samboere som kan ha rett til etterlatteytelser.
+
+#### Krav til ekteskapets varighet
+
+Med henvisning til at Trygdelovutvalget i NOU 1990: 20 foreslo at kravet til ekteskapets varighet for barnløse ektefeller som var yngre enn 40 år, skulle økes fra fem år til ti år, mente Etterlatteutvalget at det kunne være aktuelt å øke kravet til samlivets varighet for rett til ny etterlatteytelse. Dette ble vurdert som særlig aktuelt dersom langvarig samboerskap på selvstendig grunnlag skulle kunne gi rett til ny etterlatteytelse og at varighetskravet kunne oppfylles ved sammenlegging av tid som samboer og gift.
+
+Departementet anser at det for etterlatte som ikke har barn, på samme måte som i dag, må stilles krav til lengden på ekteskapet før det foreligger rett til ny omstillingsstønad. I dag kreves det i slike tilfeller at ekteskapet har vart i minst fem år. Økt yrkesaktivitet blant kvinner, og det forhold at både kvinner og menn som lever i og utenfor samliv i stadig større grad er selvforsørgede, kunne tilsi at kravet til lengden på ekteskapet for rett til ytelse bør økes.
+
+Departementet anser at å utvide kravet til samlivets varighet fra fem år til for eksempel ti år, ville vært aktuelt å vurdere dersom gruppen av samboere med rett til ny omstillingsstønad ble utvidet. Ettersom det ikke foreslås å utvide gruppen samboere som kan gis rett til ny omstillingsstønad, vurderer departementet at gjeldende rett på dette området bør videreføres, og foreslår ingen endringer.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-4 første ledd bokstav a.
+
+#### Omsorg for barn som grunnlag for rett til ny etterlatteytelse
+
+Departementet ser, i likhet med utvalget, gode grunner for at etterlatte med omsorg for barn gis rett til omstillingsstønad, uavhengig av varigheten på samlivet med den avdøde, og uavhengig av om barnet var den avdødes barn eller ikke.
+
+For de tilfellene barnet er den etterlattes særkullsbarn og ekteskapet har vart mindre enn fem år, vil en slik regelendring medføre en utvidelse av retten til ytelse. Departementet anser at det er gode grunner for å foreta en slik utvidelse. I motsetning til de tilfellene der barnet også er den avdødes barn, vil barnet i slike tilfeller ikke ha rett til barnepensjon. Rett til omstillingsstønad i et slikt tilfelle vil derfor ikke bare sikre inntekt for den voksne etterlatte, men også bidra til å ivareta forsørgelsen av barnet.
+
+For de tilfellene der barnet er den avdødes særkullsbarn, legger departementet til grunn at årsaken til at den etterlatte har omsorgen for barnet, er at barnets andre forelder også er død eller av andre grunner ikke har omsorgen for barnet. Det kan derfor foreligge et reelt omstillingsbehov, uavhengig av varigheten av forholdet og omsorgen. Utvidelse av retten på dette punktet vil trolig gjelde et svært begrenset antall tilfeller.
+
+Med unntak av personer som har rett til etterlatteytelse på grunn av omsorg for den avdødes barn, er det etter dagens regler ikke vilkår om faktisk omsorg for barn eller et barns alder for rett til etterlatteytelser. Departementet ser ingen grunn til at retten til ny omstillingsytelse skal begrenses til de som har omsorg for barn under for eksempel skolepliktig alder, men foreslår at retten skal gjelde så lenge barnet på tidspunktet for dødsfallet ikke er fylt 18 år.
+
+Departementet foreslår med dette at en etterlatt som på tidspunktet for dødsfallet har omsorgen for barn under 18 år, får rett til ny omstillingsstønad. Det foreslås at det stilles krav til omsorgens omfang, slik at den etterlatte må ha omsorgen for barnet med minst halvparten av full tid. Departementet viser til lovforslaget, folketrygdloven § 17-4 første ledd bokstav c.
+
+#### Fraskilte
+
+Etter dagens regelverk kan fraskilte ha rett til etterlattepensjon dersom dødsfallet skjer innen fem år etter skilsmissen og ekteskapet varte i minst 25 år, eller 15 år hvis ektefellene hadde barn sammen. Det kan også gis ytelser selv om dødsfallet skjer mer enn fem år etter skilsmissen, dersom den skilte var helt eller delvis forsørget av bidrag fra avdøde.
+
+Departementet er enig med utvalget i at fraskilte som hovedregel ikke skal ha rett til ny omstillingsstønad. Forslaget om å erstatte dagens etterlattepensjon med en tidsbegrenset omstillingsstønad, innebærer at hovedformålet med ytelsen er å gi den etterlatte hjelp til å forsørge seg selv ved eget arbeid. En skilsmisse innebærer for de fleste at man allerede over en viss tid har måttet innstille seg på å forsørge seg selv. På skilsmissetidspunktet har partene allerede flyttet fra hverandre, og de fleste har vært separerte i minst ett år, slik at behovet for omstilling for flertallet av tilfellene, ikke lenger er til stede. Departementet foreslår derfor at dagens regler om fraskiltes rett til etterlatteytelser i hovedsak ikke videreføres.
+
+Utvalget påpekte at det kunne være aktuelt å gjøre unntak for situasjoner der en gjenlevende fraskilt var forsørget av underholdsbidrag fra den avdøde, noe dagens unntaksregel også åpner for. I slike situasjoner vil det, også for en fraskilt, være dødsfallet som utløser behovet for omstilling. Departementet mener at den nye omstillingsstønaden må være målrettet mot dem som har reelt behov for omstilling, og er derfor enig med utvalget i at unntaksregelen bør videreføres, men foreslår at kravet til den forutgående forsørgelsen skjerpes, slik at retten forbeholdes de som helt eller i det vesentlige ble forsørget med bidrag fra den avdøde. Det foreslås at unntaksadgangen lovreguleres i et eget ledd i § 17-4.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-4 andre ledd.
+
+#### Tidligere familiepleier
+
+En tidligere familiepleier har påtatt seg en pleieoppgave det offentlige ellers måtte ha gjort. Vedkommende vil normalt ikke ha opptjent rett til for eksempel pleiepenger eller oppebære andre ytelser under pleieforholdet, og han eller hun står uten andre inntektsalternativer enn eventuelt sosialhjelp når pleieforholdet opphører. Departementet legger derfor til grunn at en tidligere familiepleier kan ha tilsvarende behov for inntektssikring i en omstillingsperiode etter at pleieforholdet er opphørt, som en gjenlevende ektefelle. Det er få personer som antas å kunne ha rett til ytelser som tidligere familiepleiere, men retten anses som viktig for de få det gjelder. Departementet foreslår derfor at tidligere familiepleiere, som i dag, skal ha rett på en ytelse som tilsvarer etterlatteytelsen til voksne under 67 år. Siden etterlattepensjonen endres fra en varig ytelse til en tidsbegrenset omstillingsstønad, foreslås det at ytelsen til tidligere familiepleiere endres tilsvarende. Det anses som rimelig at omstillingsstønaden til tidligere familiepleier – så langt mulig – gis med tilsvarende vilkår som for etterlatte under 67 år. Dette innebærer at det foreslås at ny ytelse til tidligere familiepleier gis som en tidsbegrenset omstillingsstønad med vilkår om aktivitetsplikt.
+
+Departementet anser det for øvrig som rimelig å videreføre de materielle vilkårene for at en tidligere familiepleier skal kunne ha rett til ny omstillingsstønad. Dette gjelder også vilkåret om at pleieforholdet skal ha vart i minst fem år. Det er et svært begrenset antall mottakere av ytelsen, og en relativt høy andel av disse mottakerne er over 60 år. Fem års fravær fra arbeidslivet eller mer vil for de fleste være et betydelig «hull i CV-en». Behovet for omstilling vil derfor kunne gjelde flertallet av de potensielle mottakerne.
+
+For en vurdering av hvorvidt det bør innføres særregler for tidligere familiepleiere i de eldste årskullene, vises det til forslag om overgangsregler for personer som har en løpende ytelse på endringstidspunktet, se punkt 3.5.7. I motsetning til hva som gjelder for rett til etterlatteytelser etter folketrygdloven kapittel 17, er det for rett til ytelser som tidligere familiepleier et vilkår om nedsatt inntektsevne. Etter departementets syn er det rimelig å anta at en stor del av de eldre mottakerne av ytelsen vil ha svak tilknytning til arbeidslivet. Departementet anser det som naturlig at nye tilfeller av tidligere familiepleiere vurderes ut fra reglene for nye etterlatte, og at en for løpende ytelser til tidligere familiepleiere benytter særreglene for løpende tilfeller av etterlattepensjon, det vil si at gruppene så langt mulig behandles likt.
+
+Ytelser til tidligere familiepleiere er i dag regulert i et eget kapittel i folketrygdloven. Utvalget mente at det burde vurderes å innlemme gruppen som en del av den alminnelige personkretsen i kapitlet om ny omstillingsstønad til etterlatte under 67 år. Departementet anser at dette vil være en lovteknisk forenkling.
+
+Departementet foreslår at kapittel 16 i folketrygdloven oppheves og at regler om omstillingsstønad til tidligere familiepleier tas inn som en egen bestemmelse i folketrygdloven kapittel 17.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-1 andre ledd og § 17-15.
+
+### Andre vurderinger
+
+#### Innledning
+
+Departementet foreslår at en del av regelverket for etterlattepensjon videreføres for ny omstillingsstønad, riktignok med enkelte nødvendige tilpasninger. I dette avsnittet vil det bli redegjort nærmere for vurderingene og forslagene som gjelder tilknytningen til folketrygden, tilleggsstønader, bortfallsregler og særregler for yrkesskade.
+
+#### Tilknytning til folketrygden
+
+Etter dagens regler er det et vilkår for rett til etterlattepensjon at den avdøde har hatt en viss tilknytning til folketrygden forut for dødsfallet. Etterlatteutvalget mente det burde være et slikt tilknytningskrav også for rett til ny omstillingsstønad, men foreslo at det skulle være den etterlatte som måtte fylle kravet. Bakgrunnen var at retten til ytelsen i størst mulig grad skal knyttes til den etterlattes behov for omstilling.
+
+Blant de landene Norge har inngått trygdeavtaler med, er det vanlig å knytte retten til en etterlatteytelse til den avdødes tilknytning til landets trygdeordning, siden ytelsen kan ses på som en forsikring, og det er dødsfallet som utløser retten til ytelsen.
+
+Tilknytningskravet i folketrygdloven kan oppfylles ved sammenlegging med tid i andre lands trygdeordninger, forutsatt at Norge har inngått trygdeavtale med landet. Etterlatteutvalgets forslag vil derfor medføre at personer som er bosatt i Norge, enklere vil få tilgang til ytelsen dersom ektefellen faller fra, enn i tilfeller der en ektefelle arbeider i Norge og den andre er bosatt i et annet avtaleland. I et slikt tilfelle vil ikke ektefellen som er bosatt i det andre landet, ha rett til omstillingsstønaden dersom ektefellen som arbeider i Norge dør, og den etterlatte selv ikke har noen tilknytning til folketrygden.
+
+Sammenliknet med dagens regler vil utvalgets forslag medføre en forrykking av den balanserte gjensidigheten som ligger i forordning 883/2004 (trygdeforordningen) og som man søker å oppnå ved fremforhandlingen av de bilaterale trygdeavtalene Norge har inngått. Norskbosatte etterlatte etter nordmenn som har arbeidet i andre avtaleland (med tradisjonelle etterlatteordninger), vil i større utstrekning motta ytelser enn utenlandsbosatte etterlatte etter utenlandske statsborgere som har arbeidet i Norge. Departementet antar at man med en slik ordning ikke kan se bort fra at land som Norge har bilaterale trygdeavtaler med, i lys av dette vil ta initiativ til å endre avtalene for å stramme inn på eksporten av egne ytelser.
+
+En ordning som gjør det mindre attraktivt for utenlandske arbeidstakere å ta arbeid i Norge, kan innebære en diskriminering av disse. En slik diskriminering er EØS-problematisk i seg selv, men også i lys av prinsippene om fri flyt av varer, kapital, tjenester og personer som gjelder for EUs indre marked, og som Norge er en del av gjennom EØS-avtalen. Forskjellsbehandlingen kan la seg forsvare dersom den objektivt sett kan rettferdiggjøres, men etter departementets syn kan dette by på utfordringer.
+
+Departementet har etter en nærmere vurdering kommet til at det ikke vil være hensiktsmessig å følge opp Etterlatteutvalgets forslag med hensyn til hvem som skal fylle kravet om forutgående tilknytning. Departementet viser her særlig til faren for at dette kan innebære en diskriminering av utenlandske arbeidstakere, men også til den forrykkingen av den balanserte gjensidigheten som ligger i trygdeforordningen og i de bilaterale trygdeavtalene Norge har inngått.
+
+Departementet foreslår etter dette å videreføre gjeldende regler om forutgående og fortsatt medlemskap i folketrygden. Det vises til lovforslaget, folketrygdloven §§ 17-2 og 17-3.
+
+#### Betydningen av medlemstid i folketrygden
+
+Etter gjeldende regler er etterlattepensjon en avledet ytelse som beregnes med utgangspunkt i lengden på den avdødes trygdetid i folketrygden. Dersom trygdetiden er kortere enn den tiden som kreves for rett til en full ytelse (40 år), blir etterlatteytelsen tilsvarende redusert. Dersom dødsfallet skjer før fylte 67 år, blir trygdetid i folketrygden fram til den avdøde ville ha fylt 67 år, medregnet ved beregningen av ytelsen.
+
+Etterlatteutvalget foreslo at den nye omstillingstønaden skal gis med et fast beløp til alle som fyller vilkårene for ytelsen, uavhengig av hvor lang trygdetid i folketrygden den etterlatte eller den avdøde har. I tilfeller der trygdetiden i folketrygden er kortere enn den tiden som etter dagens regler kreves for rett til en full ytelse, kan dette medføre at trygden må utbetale en større ytelse enn etter dagens regler.
+
+Gitt at ny omstillingsstønad er gjenstand for eksport etter de trygdeavtalene Norge har inngått med andre land, kan en manglende trygdetidsavkorting også medføre at Norge må eksportere en høyere ytelse enn etter dagens regler. Tidsbegrensningen og det at mottakeren av omstillingsstønaden må oppfylle et aktivitetskrav for å kunne motta den, er imidlertid forhold som bidrar til at det ikke er sikkert at Norge totalt sett vil måtte eksportere et høyere beløp på etterlatteområdet enn etter dagens regler.
+
+Med mindre det i folketrygdloven tas inn positive bestemmelser om at omstillingsstønaden er gjenstand for eksport, vil svaret på dette spørsmålet i stor grad avhenge av de trygdeavtalene Norge har inngått med andre land. Slik departementet oppfatter etterlatteutvalget, var dets intensjon og oppfatning at stønaden ikke var å anse som en pensjon, og dermed heller ikke gjenstand for eksport etter trygdeavtalene våre.
+
+I trygdeforordningen artikkel 7 er det såkalte eksportabilitetsprinsippet nedfelt. Prinsippet innebærer at alle kontantytelser som en person har rett til fra et avtaleland eller etter forordningen skal eksporteres dersom den som har rett til ytelsen, flytter eller er bosatt i et annet avtaleland. Unntak gjelder der noe annet følger av forordningen.
+
+Dagens etterlattepensjon er et eksempel på en ytelse som er omfattet av trygdeforordningen artikkel 7, og som derfor er gjenstand for eksport. Spørsmålet blir da om noe annet gjelder for den foreslåtte omstillingsstønaden. Utgangspunktet her er at ytelser til etterlatte faller inn under trygdeforordningens anvendelsesområde, og dermed også noe som er gjenstand for eksport.
+
+Trygdeforordningen artikkel 3 nr. 5 slår fast at sosialhjelp ikke er omfattet av forordningen. Slik departementet ser det, er det ikke naturlig å regne den foreslåtte omstillingsstønaden som sosialhjelp. Et særtrekk ved en slik ytelse er at den innvilges etter et konkret skjønn. Dette er ikke tilfellet med omstillingsstønaden. Denne blir gitt til alle som fyller vilkårene for å få den.
+
+I trygdeforordningen artikkel 3 nr. 3 er det presisert at forordningen også får anvendelse på «ikke-avgiftsbaserte kontantytelser som omfattes av artikkel 70». Hvis en ytelse gjør det, åpner bestemmelsen på nærmere vilkår opp for mulighet for å unnta den fra eksport.
+
+Til det ovenstående bemerker departementet at et grunnleggende krav for at en ytelse skal falle inn under trygdeforordningen artikkel 70, er at ytelsen inneholder elementer både av sosialhjelp og trygd. Over har departementet konkludert med at den forslåtte omstillingsstønaden ikke kan regnes som sosialhjelp. Dermed er ikke omstillingsstønaden en ytelse som faller inn under artikkel 70. Unntaket for eksport er da heller ikke aktuelt.
+
+Slik departementet vurderer det, er da den foreslåtte omstillingsstønaden verken en ytelse som faller utenfor trygdeforordningens anvendelsesområde eller en ytelse som kan unntas fra eksport i medhold av trygdeforordningen artikkel 70. Den må da regnes som en pensjonsytelse i forordningens forstand, noe som blant annet innebærer at den er gjenstand for eksport. Etter departementets syn kan det neppe være grunn til å vurdere dette annerledes når det gjelder de bilaterale trygdeavtalene som Norge har inngått.
+
+Selv om den nye omstillingsstønaden, i motsetning til dagens etterlatteytelse, ikke beregnes ut fra den avdødes opptjening i folketrygden, anser departementet at omstillingsstønaden fremdeles bør stå i forhold til den avdødes trygdetid i folketrygden. Dersom den avdøde har opptjent pensjonsrettigheter for eksempel i andre land i EØS eller et land som Norge har en trygdeavtale med, vil den etterlatte kunne få etterlatteytelser fra flere land, basert på trygdetiden i de ulike landenes trygdeordninger. Å innføre en ordning der omstillingsstønaden ikke skal baseres på et slik pro rata-system, vil bryte med systemet for beregning av pensjonsytelser som Norges trygdeavtaler er basert på, og vil medføre en full ytelse fra Norge samtidig som det utbetales ytelser fra andre land den avdøde hadde opptjening i.
+
+På bakgrunn av ovenstående er departementet kommet til at det ikke vil følge opp Etterlatteutvalgets forslag om at omstillingstønaden skal gis med et fast beløp, uavhengig av hvor lang trygdetid i folketrygden den etterlatte eller den avdøde har. Departementet foreslår at gjeldende rett på dette området videreføres, slik at omstillingsstønaden trygdetidsavkortes.
+
+Det vises til lovforslaget, folketrygdloven § 17-6.
+
+#### Tilleggsstønader
+
+Etter folketrygdloven § 17-9, jf. §§ 15-10 og 15-11, kan en gjenlevende ektefelle på nærmere vilkår få stønad til barnetilsyn, tilleggsstønader og stønad til skolepenger mv. Departementet anser at tilleggsstønadene samsvarer med formålet om at den etterlatte skal settes i stand til å kunne forsørge seg selv, og det foreslås derfor at disse tilleggsytelsene videreføres.
+
+Etter dagens regler gis stønad til barnetilsyn for barn som ble forsørget av ektefellene i fellesskap, og for fellesbarn som er født senere. I begge tilfeller er det et vilkår at den etterlatte forsørger barnet. Ettersom omsorg for barn foreslås å være et selvstendig grunnlag for ny omstillingsstønad, se punkt 3.5.5.4, foreslår departementet at det ikke stilles krav om at barnet eller barna må ha vært forsørget av ektefellene i fellesskap. Det foreslås at det fortsatt skal være et vilkår at den etterlatte forsørger barna. Departementet foreslår videre at det, som i dag, på visse vilkår skal gis rett til stønad til barnetilsyn for fosterbarn.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-10.
+
+#### Bortfallsregler
+
+Etter departementets syn bør dagens regler for når etterlatteytelser skal bortfalle i all hovedsak videreføres. Departementet foreslår derfor at ny omstillingsstønad, som dagens etterlattepensjon, skal falle bort når den etterlatte fyller 67 år, eller fra det tidspunktet han eller hun tar ut alderspensjon fra folketrygden. Det foreslås også at stønaden faller bort dersom den etterlatte mottar avtalefestet pensjon. Departementet viser til lovforslaget, folketrygdloven § 17-11 første ledd bokstav a, b og c.
+
+Dersom en etterlatt med ny omstillingsstønad blir ufør, skal vedkommende ikke omstilles til å forsørge seg selv ved eget arbeid og vil normalt ikke kunne fylle vilkårene for fortsatt rett til omstillingsstønad. Departementet foreslår derfor at omstillingsstønaden, som dagens etterlattepensjon, skal falle bort dersom den etterlatte får rett til uføretrygd med en uføregrad på 100 prosent. Dersom uføregraden er mindre enn 100 prosent, foreslår departementet at omstillingsstønaden avkortes mot uføretrygden, se punkt 3.5.3.2.
+
+Departementet foreslår videre at ny omstillingsstønad bortfaller dersom den etterlatte gifter seg på nytt eller flytter sammen med en person vedkommende har eller har hatt felles barn med eller tidligere har vært gift med. Videre bortfaller stønaden dersom den etterlatte får barn med ny samboer. Det vises til lovforslaget, folketrygdloven § 17-11 første ledd bokstav d.
+
+Etter gjeldende regler faller ikke retten til pensjon på grunnlag av det første ekteskapet endelig bort ved inngåelse av nytt ekteskap, men ligger som en latent rett for det tilfelle det nye ekteskapet oppløses ved skilsmisse før det er gått to år, eller den nye ektefellen dør, se punkt 3.2.7. Departementet foreslår at bortfall av omstillingsstønad på grunn av inngåelse av ekteskap, skal medføre at stønaden er varig bortfalt. Forslaget innebærer en endring sammenliknet med gjeldende rett ved at den etterlatte ikke vil kunne få tilbake omstillingsstønaden på grunnlag av det tidligere ekteskapet dersom det nye ekteskapet blir oppløst ved skilsmisse innen to år. Dersom ektefellen dør, vil retten til omstillingsstønad avhenge av om den etterlatte fyller de ordinære vilkårene for slik stønad, for eksempel ved at paret har felles barn, eller at det siste ekteskapet har vart i minst fem år. Den foreslåtte løsningen tydeliggjør at stønaden er ment å bidra til omstilling i en overgangsfase etter et dødsfall.
+
+Forslaget medfører at en person kan få omstillingsstønad flere ganger gjennom livsløpet, forutsatt at de ordinære vilkårene for ytelsen er oppfylt hver gang. Departementet legger til grunn at behovet for å få utvidet perioden ut over tre år, for å kunne ta nødvendig utdanning eller tiltak for å kunne komme i arbeid, normalt vil være ivaretatt ved én gangs utvidelse, og at det kun unntaksvis vil være aktuelt å forlenge stønadsperioden ut over tre år mer enn én gang.
+
+Folketrygdloven §§ 17-13 og 17-14 gir regler om reduksjon og bortfall av ytelser under opphold i institusjon og under straffegjennomføring. Tilsvarende regler er gitt i flere av folketrygdens ytelseskapitler. Departementet foreslår at bestemmelsene videreføres og viser til lovforslaget, folketrygdloven §§ 17-13 og 17-14.
+
+#### Særregler der dødsfallet skyldes yrkesskade
+
+De fleste ytelseskapitler i folketrygdloven har regler som gir særlige rettigheter ved yrkesskade. Dette gjelder også for etterlatteytelsene. I hvilken grad det fortsatt skulle gjelde særregler for ny etterlatteytelse der dødsfallet skyldes yrkesskade, var ikke en del av utvalgets mandat, og dette ble heller ikke drøftet av utvalget.
+
+Departementet legger til grunn at omleggingen fra varig etterlattepensjon til tidsbegrenset omstillingsstønad også må gjelde for tilfeller der årsaken til dødsfallet er yrkesskade. Det må imidlertid tas stilling til hvorvidt det skal gjelde særregler ved yrkesskade for ny omstillingsstønad.
+
+Etter dagens regler gis det rett til etterlatteytelser uten krav til forutgående og fortsatt medlemskap dersom årsaken til dødsfallet er yrkesskade. Departementet foreslår at disse reglene videreføres også i ny omstillingsstønad. Videre foreslår departementet at det i yrkesskadetilfellene – som i dag – ikke skal stilles krav til ekteskapets varighet.
+
+Yrkesskadefordelene som gjelder i dag i tilfeller der den etterlatte har omsorg for barn, vil etter forslaget til nye regler være ivaretatt gjennom hovedregelen om rett til stønad på grunn av omsorg for barn. Disse reglene er det derfor ikke nødvendig å videreføre.
+
+I det tilfellet dødsfallet skyldes yrkesskade, gir dagens regler en fordel ved selve beregningen av etterlattepensjonen, se § 17-12 tredje ledd. Regelen innebærer at det gis rett til full grunnpensjon og tilleggspensjon uten avkorting for eventuell redusert trygdetid. Siden ny omstillingsstønad etter forslaget ikke lenger skal beregnes som pensjon på grunnlag av den avdødes opptjening, anser departementet at gjeldende regel ikke kan videreføres med dagens ordlyd. Departementet anser imidlertid at tilsvarende fordel bør videreføres også i ny omstillingsstønad og foreslår at omstillingsstønaden, der dødsfallet skyldes yrkesskade, ikke avkortes på grunn av redusert trygdetid.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-12.
+
+### Overgangsregler
+
+#### Innledning
+
+Departementet har vurdert behovet for overgangsordninger ved innføringen av ny omstillingsytelse til etterlatte under 67 år.
+
+Departementet deler utvalgets oppfatning av at det vil være uheldig dersom det tar lang tid før en ser effektene av en reformert ytelse til etterlatte under 67 år. Innføringen av en standardisert og tidsbegrenset etterlatteytelse til personer under 67 år vil være forenklende og bedre støtte opp under insentiver til arbeid og egen inntekt. Samtidig er det viktig å ivareta hensynet til eldre personer som har tilpasset sin livssituasjon under andre samfunnsforhold, og som kan ha svak tilknytning til arbeidslivet og begrenset reell mulighet til å etablere seg i arbeidsmarkedet.
+
+Behovet for overgangsregler er vurdert både for nye tilfeller, det vil si personer som vil bli etterlatte etter at nytt regelverk trer i kraft, og for personer som allerede mottar etterlattepensjon, eller fyller vilkårene for å motta etterlattepensjon, ved ikrafttredelsen.
+
+#### Midlertidig unntak fra tidsbegrensning for nye tilfeller av etterlatte
+
+Departementet foreslår at det gis et midlertidig unntak fra tidsbegrensningen i ny omstillingsstønad. Forslaget her forutsettes å skulle gjelde for personer som blir etterlatte etter at nytt regelverk er trådt i kraft.
+
+Departementet mener, i likhet med utvalget, at det i utgangspunktet ikke er holdepunkter for å skille mellom yngre og eldre etterlatte i regelverket. Det vises til at de fleste mottakerne av etterlattepensjon i dag er yrkesaktive og har en ytelse som er avkortet mot inntekt. Det er liten forskjell mellom yngre og eldre etterlatte i så måte. Departementet mener at det likevel i en overgangsfase vil være behov for å gjøre unntak fra tidsbegrensningen i nytt regelverk for eldre personer med begrenset tilknytning til arbeidslivet. Erfaring viser at dette kan være en gruppe som har små muligheter til å komme inn i arbeidsmarkedet. Personer som ennå ikke er etterlatte når nytt regelverk trer i kraft, vil kunne tilpasse seg at folketrygdens ytelser til etterlatte i framtiden ikke vil være like omfattende som i dag. Slik tilpasning kan for eksempel være å tegne gjeldsforsikring eller på annen måte sørge for inntekts- og risikoutjevning mellom ektefellene, før et dødsfall inntreffer. Etter departementets syn bør en overgangsordning for personer som ikke er etterlatte når nytt regelverk trer i kraft, derfor ha et klart avgrenset omfang og en klar avgrenset varighet.
+
+Departementet foreslår at personer som er 60 år eller eldre når nytt regelverk trer i kraft, som ikke har hatt en årlig arbeidsinntekt over to ganger grunnbeløpet i gjennomsnitt de siste fem årene, og som i tillegg ikke har hatt en arbeidsinntekt over tre ganger grunnbeløpet i hvert av de siste to årene før de blir etterlatte, skal kunne motta ytelsen fram til de fyller 67 år. Forutsatt at nytt regelverk trer i kraft fra 2023, innebærer den foreslåtte løsningen at personer som er født i 1962 eller tidligere og som blir etterlatt etter at nytt regelverk trer i kraft, vil kunne motta den nye omstillingsstønaden fram til de fyller 67 år, forutsatt at de har hatt begrenset tilknytning til arbeidsmarkedet i årene før de blir etterlatt. Ved 67 år slår den ubetingede retten til alderspensjon fra folketrygden inn. Forslaget følger opp utvalgets anbefaling.
+
+Departementet mener at en aldersgrense på 60 år med hensyn til å kunne få unntak fra tidsbegrensningen, er en rimelig avveining mellom behovet for å ivareta de eldste etterlatte og behovet for at det ikke skal gå lang tid før en ser effektene av nytt regelverk. I denne sammenhengen må det tas i betraktning at de fleste blir etterlatte i relativt høy alder, og at mer omfattende unntak dermed ville medføre at reformen fikk begrenset effekt.
+
+Likeledes mener departementet at inntektsgrensen for å få unntak på to ganger grunnbeløpet i gjennomsnitt i løpet av de fem siste årene, er et rimelig nivå ved at inntekt over dette nivået representerer en relativt stabil arbeidsmarkedstilknytning over noe tid. Når det i tillegg stilles et krav om at inntekten ikke må overstige tre ganger grunnbeløpet hvert av de to siste årene, blir dessuten formålet med unntaksbestemmelsen godt ivaretatt. Departementet understreker at ny omstillingsstønad ikke er ment å tilrettelegge for å kunne trappe ned arbeidsinnsatsen.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-5 tredje ledd.
+
+#### Overgangsregler for løpende tilfeller
+
+Forslaget som følger forutsettes å skulle gjelde for personer som allerede er etterlatte og mottar etterlattepensjon når nytt regelverk trer i kraft (løpende tilfeller).
+
+Departementet viser til at utvalget vurderte hvilke elementer i nytt regelverk som eventuelt skulle gjelde for etterlatte under 67 år som mottar en etterlatteytelse når de nye reglene trer i kraft. Som nevnt innledningsvis mener departementet at det vil være uheldig dersom det tar lang tid før en ser effektene av en reformert ytelse til etterlatte under 67 år. Om gjeldende regelverk skulle fortsette å løpe uendret fram til 67 år for alle som mottar ytelsen når de nye reglene trer i kraft, ville det innebære at regelverket for dagens etterlattepensjon vil måtte opprettholdes i ytterligere 40–45 år, ettersom de yngste mottakerne av etterlattepensjon i dag er i 20-årene.
+
+Utvalget pekte på at de gjeldende skattereglene for etterlattepensjon, herunder rett til skattebegrensning ved lav alminnelig inntekt, sammen med avkortingsreglene for etterlattepensjonen, gir svært høy marginalskatt og dårlige arbeidsinsentiver for mange etterlatte. Utvalget la derfor til grunn at det kunne være aktuelt å omregne løpende ytelser til nytt regelverk etter mønster av konverteringen av uførepensjon til uføretrygd i 2015.
+
+Departementet er enig i at det er uheldig å opprettholde et regelverk som i så liten grad gir insentiver til økt arbeidsinnsats, og viser til at det også er ønskelig å avvikle særreglene i skattesystemet som nå bare gjelder for en liten gruppe personer, etter at disse særreglene tidligere er avviklet for blant andre alle alderspensjonister og uføretrygdede. Departementet vurderer imidlertid at en konvertering av ytelsene etter modell av konvertering av uførepensjon til uføretrygd, vil være teknisk krevende å gjennomføre. Dette er en vurdering som også flere høringsinstanser støtter.
+
+Utvalget la videre til grunn at dagens etterlattepensjon burde kunne gjøres tidsbegrenset og viste til at selv om det er flest eldre blant de som i dag mottar en uavkortet etterlattepensjon, det vil si at de ikke har annen inntekt, er det også en del unge mottakere, og det kan synes lite rimelig at presumptivt arbeidsføre personer som i dag er i 30–40 årsalderen, skal kunne fortsette å motta en etterlatteytelse til de er 67 år. Departementet deler utvalgets syn. Departementet foreslår på denne bakgrunn å innføre tidsbegrensning på tre år, pluss eventuelt to år, også for personer som mottar etterlattepensjon på tidspunktet for innføring av nytt regelverk. Departementet foreslår at ytelsesnivået og øvrige vilkår for den løpende etterlattepensjonen videreføres i denne femårsperioden.
+
+Som for nye tilfeller vil det imidlertid være behov for et midlertidig unntak fra tidsbegrensningen for de eldste etterlatte som har svak tilknytning til arbeidsmarkedet. I likhet med utvalget, mener departementet at det vil være rimelig med en noe mer lempelig regel for unntak fra tidsbegrensningen for de som mottar etterlattepensjon når nytt regelverk trer i kraft, enn for nye tilfeller. I motsetning til for personer som ikke ennå er etterlatte, er det for sent for allerede etterlatte å tilpasse seg at folketrygdens ytelser til etterlatte i framtiden ikke vil være like omfattende som i dag, selv om de for øvrig er i samme situasjon når det gjelder at de kan ha tilpasset sin arbeidsinnsats under andre samfunnsforhold og av den grunn har svak tilknytning til arbeidsmarkedet. Departementet viser til at å tidsbegrense en i utgangspunktet varig ytelse, griper inn i en eksisterende rett, og det er derfor gjennomført en særskilt vurdering av grunnlovsvernet med hensyn til dette. Det vises til punkt 3.6.
+
+Departementet viser til at det i dagens regelverk ligger en forutsetning om at etterlatte som hovedregel forventes å forsørge seg selv. Dette kommer til uttrykk ved at etterlattepensjonen reduseres mot arbeidsinntekt, og at det i regelverket er hjemmel for å redusere pensjonen selv om den etterlatte faktisk ikke har inntekt, eller har lavere inntekt enn det er grunn til å forvente. Ved fastsetting av forventet inntekt skal det etter loven blant annet legges vekt på alder, evner, utdanning, yrkesbakgrunn, arbeidsmuligheter på hjemstedet, og arbeidsmuligheter på andre steder der det er rimelig at vedkommende tar arbeid. Det legges også vekt på eventuelle barns tilsynsbehov.
+
+For en etterlatt som ikke har fylt 55 år, legges det i utgangspunktet til grunn at vedkommende har en årlig arbeidsinntekt på minst to ganger grunnbeløpet i folketrygden, med mindre det er en rimelig grunn til at vedkommende har lavere inntekt. Regelen innebærer at en etterlatt som er helt eller delvis selvforsørget, ikke skal kunne redusere sin arbeidsinntekt ved fylte 55 år og dermed få utbetalt en høyere etterlattepensjon. Dersom vedkommende over flere år har hatt svak tilknytning til arbeidslivet, og ved tidspunktet for dødsfallet er 55 år eller eldre, stilles det normalt ikke krav til at den etterlatte må omstille seg til å bli selvforsørget.
+
+Ettersom det etter dagens regelverk forventes høyere grad av selvforsørgelse for etterlatte som ikke har fylt 55 år, er det etter departementets syn i utgangspunktet rimelig at aldersgrensen for unntak for tidsbegrensning for personer som allerede mottar etterlattepensjon når nye regler trer i kraft, settes til 55 år. Departementet har likevel kommet til at aldersgrensen bør settes noe lavere. Bakgrunnen for dette er at personer med særlig svak tilknytning til arbeidslivet som har blitt etterlatt nær 55-årsgrensen, ikke med rimelighet kan forventes å omstille seg til å bli selvforsørget. Dette gjelder særlig ettersom pensjonen ikke reduseres utover faktisk inntekt det første året etter dødsfallet. På denne bakgrunn foreslår departementet at etterlatte som er 53 år eller mer på tidspunktet for ikrafttredelse av nye regler, gis unntak fra tidsbegrensningen. Departementet foreslår at det i tillegg skal være et vilkår at den etterlatte ikke har hatt en arbeidsinntekt over to ganger grunnbeløpet i gjennomsnitt i løpet av de fem siste årene, og i tillegg ikke har hatt en arbeidsinntekt over tre ganger grunnbeløpet i hvert av de siste to årene før ikrafttredelsen av nytt regelverk.
+
+Under forutsetning av at endringene kan tre i kraft fra 2023, vil etterlatte som er født i 1969 og tidligere kunne omfattes av overgangsreglene og fortsatt motta en etterlatteytelse fram til fylte 67 år.
+
+Departementet viser til lovforslaget, folketrygdloven § 17 A-3.
+
+For å unngå at dagens regelverk skal opprettholdes i svært lang tid, forslår departementet at personer som gis unntak fra tidsbegrensningen, skal få ytelsen beregnet som en omstillingsstønad etter det nye kapitlet i folketrygdloven kapittel 17 etter en periode på fem år. Dette innebærer at bruttoytelsen til disse personene etter fem år vil endres. Den vil øke for personer som har etterlattepensjon på minstenivået i dag, mens den vil reduseres for personer som i dag har etterlattepensjon over nivået på ny omstillingsstønad. Omstillingsstønaden til denne gruppen skal skattlegges som lønn etter alminnelige regler, på lik linje med nye mottakere av omstillingsstønad. Departementet understreker at dette vil kunne medføre at enkelte kan oppleve at ytelsen etter skatt blir redusert.
+
+Fem år etter ikrafttredelsen av nytt regelverk, anslagsvis i 2028, vil det altså være en del mottakere av dagens etterlattepensjon som fra det tidspunkt i stedet vil motta den nye omstillingsstønaden. Mens dagens etterlattepensjon avhenger av den avdødes opptjente rettigheter og kan utgjøre mellom 2 og vel 2,6 ganger grunnbeløpet, gis den nye omstillingsstønaden med et fast beløp på 2,25 ganger grunnbeløpet. Overgangen fra gammel til ny ytelse kan dermed både bety en økning og reduksjon av inntekt før skatt. Dagens etterlattepensjon skattlegges mildere enn det som legges til grunn for den nye omstillingsstønaden, men for etterlatte som kombinerer etterlatteytelsen med arbeidsinntekt, gjør den høye marginalskatten i dagens regler det mindre åpenbart at dagens skatteregler er gunstigere. Det kan imidlertid være tilfeller der inntekten før skatt øker, mens inntekten etter skatt reduseres.
+
+For etterlatte som mottar bostøtte, kan en økning i inntekt før skatt gi lavere bostøtte, selv når inntekten etter skatt reduseres. Departementet vil i samråd med Kommunal- og moderniseringsdepartementet utrede forslagets betydning for bostøtten, og vurdere tiltak i tiden fram til løpende etterlattepensjoner avløses av ny omstillingsstønad fem år etter ikrafttredelse av nye regler.
+
+Departementet viser til lovforslaget, folketrygdloven § 17 A-4.
+
+Departementets forslag om at etterlatte med svak tilknytning til arbeidslivet som er 53 år eller eldre når nye regler trer i kraft skal få beholde en varig ytelse, innebærer at tidsbegrensningen innføres for alle mottakere av etterlattepensjon født i 1970 og senere, samt alle mottakere av etterlattepensjon som har hatt inntekt over to ganger grunnbeløpet i gjennomsnitt de siste fem årene før ikrafttredelsen av nytt regelverk, eller inntekt over tre ganger grunnbeløpet i hvert av de siste to årene før ikrafttredelse av nytt regelverk. Disse personene vil kunne fortsette å motta etterlattepensjonen i inntil tre år, med mulighet for forlengelse i ytterligere to år dersom det er behov for utdanning eller tiltak for å komme i arbeid. Under forutsetning av at de nye reglene kan tre i kraft tidligst fra 2023, vil tiden mellom reglenes vedtakelse og ikraftredelse gi de etterlatte ytterligere to år til å omstille seg. Dette gir en mulig omstillingsperiode på sju år. Ettersom de fleste som i dag mottar en etterlatteytelse var helt eller delvis selvforsørget allerede før dødsfallet, mener departementet at de etterlatte i denne gruppen med rimelighet kan forventes å bli fullt selvforsørget i løpet av denne perioden.
+
+Departementet foreslår at personer som på endringstidspunktet har pensjon eller overgangsstønad etter folketrygdloven kapittel 16 og 17, beholder denne ytelsen på nærmere vilkår og at dette reguleres gjennom nytt kapittel 17 A i folketrygdloven. Personkretsen er angitt i forslag til ny § 17 A-1. Det er som en følge av dette nødvendig å videreføre en rekke gjeldende bestemmelser. Dette gjelder bestemmelsene om fortsatt medlemskap i folketrygden, jf. § 17 A-2, bestemmelsene om bortfall av ytelser, jf. § 17 A-5, bestemmelsene om reduksjon av ytelse på grunn av inntekt, jf. § 17 A-6 og bestemmelsene om bortfall av ytelse under opphold i institusjon og straffegjennomføring, jf. §§ 17 A-7 og 17 A-8.
+
+Som i dagens regelverk, foreslår departementet at personene som omfattes av overgangsreglene i nytt kapittel 17 A, skal få sin ytelse avkortet mot faktisk eller forventet inntekt. Ytelsen avkortes som i dag med 40 prosent av inntekt over halvparten av folketrygdens grunnbeløp.
+
+Departementet viser til lovforslaget, folketrygdloven § 17 A-6.
+
+#### Overgangsregler for mottakere av overgangsstønad
+
+Overgangsstønad etter folketrygdloven § 17-6 gis til personer som ikke fyller vilkårene for etterlattepensjon i § 17-5. Tilsvarende foreligger det adgang til å gi overgangsstønad til tidligere familiepleier etter folketrygdloven kapittel 16. Det er i arbeids- og velferdsetatens rundskriv lagt til grunn at overgangsstønad etter kapitlene 16 og 17 gis i en begrenset periode, og at den opphører når vilkårene i de aktuelle bestemmelsene ikke lenger er til stede.
+
+Departementet legger ut fra dette til grunn at vedtak om overgangsstønad naturlig utløper etter endt vedtaksperiode.
+
+Departementet vurderer at mottakere av overgangsstønad som har omsorg for barn, er i en særstilling. Etter departementets forslag om at omsorg for barn skal være et selvstendig grunnlag for rett til ny etterlatteytelse, se avsnitt 3.5.5.4, vil etterlatte som er mottakere av overgangsstønad etter reglene om omsorg for barn etter § 17-6 første ledd bokstav a og § 17-6 tredje ledd, være omfattet av reglene som gir rett til ny ytelse. Dette tilsier etter departementets syn at overgangsregler bør gis til gunst, ved at overgangsstønad gitt på disse grunnlagene skal gis med samme overgangsregler som for dem som mottar ordinær etterlattepensjon på det tidspunktet nye regler trer i kraft.
+
+En egen gruppe av mottakere av overgangsstønad etter kapittel 17 er etterlatte som tar nødvendig utdanning, jf. § 17-6 første ledd bokstav b. Bestemmelsen gjelder både for etterlatte som ikke har omsorg for barn, og for etterlatte som på grunn av for eksempel barns alder ikke har rett til overgangsstønad etter § 17-6 første ledd bokstav a. Dersom den etterlatte har omsorg for barn, foreslår departementet at det bør gjelde tilsvarende overgangsregler som for personer med løpende etterlattepensjon, jf. foregående avsnitt.
+
+For personer som mottar overgangsstønad etter første ledd bokstav b og ikke har omsorg for barn, anser departementet at det ikke er behov for særlige overgangsregler, men at ytelsen opphører når vedtaksperioden er utløpt.
+
+Departementet vurderer at det heller ikke er behov for særlige overgangsregler for etterlatte som mottar overgangsstønad i en omstillingsperiode og som ikke var gift med den avdøde lenge nok til å kunne få rett til pensjon, og som heller ikke har eller har hatt barn med den avdøde, jf. § 17-6 første ledd bokstav c. Vanlig omstillingsperiode for denne gruppen anses som hovedregel å være tolv måneder fra og med måneden etter dødsfallet, men ved svært kortvarige ekteskap, gis det overgangsstønad i seks måneder. Perioden med overgangsstønad kan forlenges dersom det foreligger helt spesielle omstendigheter. Departementet ser ingen grunn til at det skal gis overgangsregler om mulighet for forlengelse av stønaden i slike tilfeller.
+
+Overgangsstønad kan gis tidligere familiepleiere dersom vedkommende kun har behov for stønad i en overgangsperiode, se folketrygdloven § 16-7 andre ledd. Departementet legger til grunn at det for en mottaker av overgangsstønad som tidligere familiepleier, er gjort en vurdering som tilsier at det kun foreligger behov i en overgangsperiode, og at ytelsen derfor skal opphøre når vedtaksperioden er utløpt.
+
+Departementet viser til at det vil ta tid før nye regler trer i kraft. Personer i de gruppene det nå ikke foreslås overgangsregler for, vil i mange tilfeller først bli innvilget overgangsstønad på et tidspunkt der nye regler er kjent. De vil derfor allerede ved innvilgelse kunne informeres om de nye reglene, og om at stønadsperioden ikke vil kunne utvides.
+
+Departementet viser til lovforslaget, folketrygdloven § 17 A-1 bokstav b, c og d.
+
+#### Videreføring av retten til at en ytelse kan «gjenoppstå»
+
+For det tilfelle der den etterlatte mottar ny omstillingsstønad uten tidsbegrensning og aktivitetskrav, foreslår departementet at dagens regel om at rett til etterlatteytelse kan «gjenoppstå», videreføres som en del av overgangsreglene for denne gruppen. Dette er personer som har liten tilknytning til arbeidslivet og som er i en så høy alder at de må anses å ha begrenset mulighet til å kunne forsørge seg selv med egen arbeidsinntekt fram til uttak av alderspensjon. Etter departementets syn vil situasjonen neppe være vesentlig endret etter at den tidligere mottakeren har vært gift en periode. Ettersom denne gruppen ikke er omfattet av tidsbegrensningen, vil det, dersom den latente retten til etterlatteytelse gjenoppstår på grunn av skilsmisse eller dødsfall, ikke oppstå noen problemstilling knyttet til hvor lang tid som er gått siden dødsfallet som opprinnelig ga rett til ytelsen.
+
+Departementet viser til lovforslaget, folketrygdloven § 17-11 andre ledd.

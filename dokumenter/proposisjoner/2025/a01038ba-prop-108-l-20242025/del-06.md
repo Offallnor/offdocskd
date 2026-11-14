@@ -1,840 +1,172 @@
-# Prop. 108 L (2024–2025), del 6 av 14 (side 59–68)
+# Prop. 108 L (2024–2025), del 6 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/a01038ba-prop-108-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-108-l-20242025/id3096361/
 - Original-PDF: https://www.regjeringen.no/contentassets/0e6c12314d5f421c901e35a08dae68b4/no/pdfs/prp202420250108000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 figurer, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 59]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-stilling, vil inntektsgrensen være lik fribeløpet på
-2,7 G, per kalenderår.
-Departementet opprettholder forslaget om at
-tidligpensjonen skal reduseres med 66 prosent,
-justert for tjenestetidsbrøken, av inntekten som
-overstiger inntektsgrensen.
-Departementet foreslo i høringsnotatet at det
-er pensjonsgivende inntekt etter folketrygdloven
-§ 3-15 som skal legges til grunn ved reduksjon av
-pensjonen, som normalt tilsvarer arbeidsinntekt. I
-høringen har det kommet opp spørsmål om hvorfor det ikke er foreslått et unntak for pensjonsgivende inntekt knyttet til erstatning for inntektstap
-etter skadeerstatningsloven § 3-1, yrkesskadeforsikringsloven § 13 og pasientskadeloven § 4
-første ledd, slik det er gjort i uføreforskriften (forskrift om reduksjon av uførepensjon fra lovfestet
-offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør § 3 a). Departementet
-viser til at det i avtalen av 25. august 2023 ikke var
-gjort unntak for denne type inntekter, men er likevel enig i at det i forskriften bør gjøres et slikt unntak. Når mottak av uførepensjon vil kunne
-begrense graden på tidligpensjonen, jf. punkt
-7.3.3, vil det også være rimelig at det er samme
-typer inntekter som skal føre til avkorting av de to
-ytelsene. Det vil også gi et enklere regelverk å forholde seg til for mottakere av begge ytelsene.
-Departementet viser videre til at det i uføreforskriften ikke er gjort unntak for spareprodukter som skattlegges som pensjonsgivende inntekt,
-og mener derfor at det heller ikke bør gjøres et
-slikt unntak for tidligpensjon.
-LO Kommune, LO Stat, Unio og YS, heretter
-omtalt som arbeidstakerorganisasjonene, mener
-det må skilles mellom inntekt som er helt uavhengig av tidligere ansettelsesforhold, og inntekt som
-er en konsekvens av tidligere arbeidsforhold.
-Departementet mener at det bør ses bort fra inntekt som stammer fra avsluttet arbeidshold før tidligpensjonen ble tatt ut. Dette er også tilsvarende
-som dagens regler ved reduksjon av uførepensjon, hvor såkalte etterslepsinntekter ikke fører til
-reduksjon av uførepensjonen. I tillegg er etterbetaling av trygdeytelser unntatt, og departementet
-mener det samme bør gjelde for tidligpensjon. I
-punkt 7.7.3 foreslår departementet i tillegg et unntak for arbeidsavklaringspenger, for personer som
-mottar midlertidig uførepensjon i kombinasjon
-med tidligpensjon. Annen pensjonsgivende inntekt vil kunne gi avkorting av tidligpensjonen. For
-inntekt som er utbetalt uavhengig av tidligere stilling, viser arbeidstakerorganisasjonene til reglene
-for uføretrygd. Pensjonsgivende inntekt som er
-utbetalt uavhengig av tidligere stilling, unntas
-
-57
-
-ikke ved reduksjon av uførepensjon. Departementet mener at pensjonsgivende inntekt som er utbetalt uavhengig av tidligere stilling også skal redusere tidligpensjonen.
-Når det gjelder hvorvidt pensjonistlønn bør
-unntas fra inntekt som skal redusere tidligpensjonen, viser departementet til at ny tidligpensjonsordning er et supplement til de ordinære pensjonsreglene for personer som slutter i jobb fordi
-de har hatt en stilling med særaldersgrense. Det
-er også avtalt at ytelsen skal reduseres mot inntekt. Regelverket er ment å hensynta arbeidstakere som må slutte tidlig, og insentiver til arbeid
-etter uttak er følgelig ikke en hovedmålsetting.
-Når fribeløpet er 2,7 G, vil det dessuten være fullt
-mulig å arbeide en god del før tidligpensjonen
-avkortes.
-Tjenestepensjonsleverandørene foretrekker
-ulike metoder for fastsettelse av inntektsgrense
-ved deluttak og endring i medlemspliktig stilling
-etter uttak. Departementet viser til at de foreslåtte
-reglene for reduksjon vil innebære at beløpet tidligpensjonen skal reduseres med vil være uavhengig av nivået på tidligpensjon, bortsett fra gjennom tjenestetidsbrøken. Dette gjelder også dersom det er beregnet flere deluttak, jf. forslag
-omtalt i punkt 7.3.3. Departementet mener derfor
-at det bør beregnes én inntektsgrense per mottaker av tidligpensjon. Ved eventuelle endringer i
-pensjonsgrunnlaget i medlemspliktig stilling etter
-uttak, skal inntektsgrensen endres. Ved endring
-av inntektsgrensen underveis i et kalenderår foreslår departementet at det skal tas hensyn til antall
-måneder med hver inntektsgrense.
-For de som reduserer medlemspliktig stilling
-etter uttak av gradert tidligpensjon, vil det altså
-være flere deluttak, men én inntektsgrense.
-Departementet foreslår at ved flere deluttak skal
-den laveste tjenestetidsbrøken legges til grunn
-ved reduksjon. Dette vil være til gunst for personer som ikke har full tjenestetid ved første uttak
-av tidligpensjon, og som fortsetter i medlemspliktig stilling.
-Se lovforslag i Statens pensjonskasseloven
-§ 26 q første ledd. I boks 10.3 og boks 10.4 (i
-punkt 10.4), gis det eksempler på periodisering av
-inntektsgrensen.
-Enkelte tjenestepensjonsleverandører har
-pekt på at forslaget til forskrift § 2 om reduksjon
-av tidligpensjon og særalderspåslag og om etteroppgjør bør tydeliggjøres, slik at når det står «inntekt» så menes pensjonsgivende inntekt etter folketrygdloven § 3-15. Departementet er enig i at
-dette bør framgå av forskriften.
-
-[Side 60]
-
-58
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-Departementet ba særskilt om innspill til hvordan
-inntektsgrensen
-kunne
-periodiseres.
-Høringsinstansene har ulike meninger om hvordan dette bør gjøres. Enkelte har foreslått at fribeløpet ikke periodiseres. Departementet viser til at
-det vil være lite hensiktsmessig hvis inntektsgrensen er den samme, uavhengig av om man har mottatt tidligpensjon én måned eller hele året. I
-uttaksåret vil da nivået på månedlig inntekt som
-man kan ha uten reduksjon av pensjon, for de som
-tar ut tidligpensjon fra første mulighet, avhenge av
-når man er født. Departementet foreslår derfor at
-inntektsgrensen periodiseres i uttaksåret og opphørsåret, avhengig av hvor mange måneder av
-året det utbetales tidligpensjon.
-I sitt høringssvar har Statens pensjonskasse
-(SPK) uttalt at de må få nødvendige hjemler for å
-innhente inntektsopplysninger fra Skatteetaten.
-De viser til departements høringsforslag om forskrift om avtalefestet pensjon for medlemmer i
-Statens pensjonskasse mv. av 1. juli 2024 side 18
-flg. Også Oslo Pensjonsforsikring (OPF) viser til at
-systemet med inntektsavkorting og tilhørende
-etteroppgjør knyttet til tidligpensjon og særalderspåslag vil kreve særskilt hjemmelsgrunnlag
-for innhenting av opplysninger om medlemmets
-pensjonsgivende inntekt fra Skatteetaten.
-Departementet viser til at behovet for hjemler
-for innhenting av inntektsopplysninger fra Skatteetaten ikke var tema i høringsnotatet som følges
-opp i denne proposisjonen, og vil følge opp dette i
-en egen prosess. Departementet viser videre til at
-de kommunale tjenestepensjonsleverandørene er
-underlagt lovgivning som hører til Finansdepartementet, og vil følge opp deres innspill overfor
-Finansdepartementet. Departementet tar sikte på
-å få nødvendige hjemler på plass før 1. januar
-2026.
-Det vises til lovforslaget i Statens pensjonskasseloven § 26 q første, andre, tredje og fjerde ledd.
-
-7.7
-
-Forholdet til andre ytelser
-
-7.7.1 Avtalen og forslagene i høringsnotatet
-I høringsnotatet viste departementet til at uføretrygd fra folketrygden og uførepensjon fra tjenestepensjonsordning ytes fram til alderen for ubetinget rett til alderspensjon fra folketrygden og
-representerer en fullverdig inntektssikring. Dette
-tilsier at det ikke skal være mulig å motta en ugradert uføreytelse i kombinasjon med tidligpensjon.
-Departementet viste videre til at medlemmer
-som mottar en gradert uførepensjon kombinert
-med en deltidsstilling kan ha samme behov for tid-
-
-ligpensjon fra reststillingen som medlemmer som
-ikke mottar uførepensjon. For gradert uføre som
-ellers kvalifiserer til tidligpensjon, foreslo departementet at det kan gis tidligpensjon så lenge summen av uføregraden på uførepensjonen og graden
-på tidligpensjonen ikke overstiger 100 prosent. I
-slike tilfeller vil graden på tidligpensjonen være
-det som er lavest av gjennomsnittlig stillingsprosent i stilling med særaldersgrense og 100 prosent
-fratrukket uføregraden. I forslaget i høringsnotatet var det slik at når gradert tidligpensjon kombineres med gradert uførepensjon, ble inntektsgrensen økt tilsvarende beregningsgrunnlaget for
-tidligpensjonen multiplisert med 100 prosent
-minus graden på tidligpensjonen.
-I høringsnotatet viste departementet til at det
-gis fulle arbeidsavklaringspenger til en som har
-tapt hele arbeidsevnen. Dersom en kun har tapt
-en del av arbeidsevnen, reduseres arbeidsavklaringspengene slik at ytelsen svarer til den delen
-av arbeidsevnen som er tapt. Beregningen av den
-reduserte ytelsen tar utgangspunkt i forholdet
-mellom en arbeidstid på 37,5 timer per uke og det
-antall timer medlemmet har vært i eller kunne ha
-vært i inntektsgivende arbeid.
-Videre viste departementet til at de som mottar arbeidsavklaringspenger i kombinasjon med
-gradert midlertidig uførepensjon, kan gis tidligpensjon så lenge summen av uføregraden på den
-midlertidige uførepensjonen og graden på tidligpensjonen ikke overstiger 100 prosent. Departementet foreslo at ved slike tilfeller skal graden på
-tidligpensjonen være det som er lavest av gjennomsnittlig stillingsprosent i stilling med særaldersgrense og 100 prosent fratrukket uføregraden. Når gradert tidligpensjon kombineres med
-gradert midlertidig uførepensjon, øker inntektsgrensen tilsvarende beregningsgrunnlaget for tidligpensjonen multiplisert med 100 prosent minus
-graden på tidligpensjonen. Arbeidsavklaringspenger er pensjonsgivende inntekt og tidligpensjonen
-reduseres dersom arbeidsavklaringspengene og
-annen pensjonsgivende inntekt overstiger inntektsgrensen.
-I høringsnotatet viste departementet til at personer som mottar gradert tidligpensjon i kombinasjon med en deltidsstilling uten særaldersgrense,
-kan ønske å gå av før alderen for ubetinget rett til
-alderspensjon fra folketrygden i stillingen med
-alminnelig aldersgrense, altså før tidligpensjonen
-opphører. Departementet vurderte at det bør
-være mulig å ta ut ordinær alderspensjon fra reststillingen i slike tilfeller. Departementet foreslo at
-tidligpensjon kan kombineres med alderspensjon
-fra folketrygden og ordinær alderspensjon fra
-
-[Side 61]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-offentlig tjenestepensjon så lenge summen av
-uttaksgraden for ordinær alderspensjon og tidligpensjonen ikke overstiger 100 prosent. Personer
-som tidligere har mottatt 100 prosent ordinær
-alderspensjon fra offentlig tjenestepensjon, mister
-ikke retten til tidligpensjon, og kan motta tidligpensjon dersom uttak av ordinær tjenestepensjon
-stanses eller uttaksgraden endres.
-Dagpenger er pensjonsgivende inntekt, og
-departementet viste i høringsnotatet til at tidligpensjonen skal avkortes dersom pensjonsgivende
-inntekt, inkludert dagpenger, overstiger inntektsgrensen.
-Omstillingsstønad er pensjonsgivende inntekt,
-og departementet viste i høringsnotatet til at tidligpensjonen skal avkortes dersom pensjonsgivende inntekt, inkludert omstillingsstønad, overstiger inntektsgrensen.
-I tråd med avtalen skal særalderspåslag ikke
-gis i kombinasjon med tidligpensjon. Departementet foreslo derfor at det ikke gis tidligpensjon
-til personer som mottar, eller har mottatt særalderspåslag, uavhengig av uttaksgrad.
-Departementet foreslo at det skal være et vilkår for å motta tidligpensjon at vedkommende
-ikke mottar eller har mottatt avtalefestet pensjon.
-Dette er også lagt til grunn i Prop. 35 L (2023–
-2024) Endringer i lov om avtalefestet pensjon for
-medlemmer av Statens pensjonskasse og enkelte
-andre lover (ny avtalefestet pensjon).
-
-7.7.2 Høringsinstansenes syn
-Oslo Pensjonsforsikring (OPF) viser til departementets forslag om at det bør være mulig å ta ut
-ordinær alderspensjon fra reststilling i tilfeller
-hvor en person mottar gradert tidligpensjon i
-kombinasjon med deltidsstilling uten særaldersgrense, og hvor vedkommende ønsker å gå av
-med pensjon før alderen for ubetinget rett til
-alderspensjon fra folketrygden. OPF er usikre på
-hvorvidt tidligpensjonen i et slikt tilfelle faktisk
-skal betraktes som gradert. OPF legger til grunn
-at det med ordinær alderspensjon fra tjenestepensjonsordning i denne sammenheng siktes til
-påslagspensjon, men ber om at dette tydeliggjøres.
-Kommunal Landspensjonskasse (KLP), viser til
-at kravet om at årlig påslagspensjon må utgjøre
-minst 30 prosent av grunnbeløpet for gradert
-uttak, ble tatt inn i sykepleierpensjonsloven § 11 c
-tredje ledd og Statens pensjonskasseloven § 26 c
-tredje ledd etter innspill fra høringen av Prop. 87 L
-(2018–2019). Bakgrunnen var et ønske om å
-begrense fleksibiliteten noe ut fra administrative
-
-59
-
-hensyn. KLP uttaler at mange i de første årskullene som mottar gradert tidligpensjon, ikke vil
-oppfylle vilkåret for å kunne ta ut gradert påslagspensjon.
-Gabler mener at forslaget om at arbeidsavklaringspenger (AAP) skal regnes som inntekt som
-kan redusere tidligpensjonen dersom en person
-har en kombinasjon av gradert midlertidig uførepensjon og gradert tidligpensjon, bør revurderes.
-Gabler påpeker at den midlertidige uførepensjonen ytes med en sats som er tilpasset at det løper
-AAP fra folketrygden. Gabler mener at dersom
-AAP også skal inntektsredusere tidligpensjonen,
-får det karakter av dobbeltavkorting.
-LO Kommune, LO Stat, Unio og YS, heretter
-omtalt som arbeidstakerorganisasjonene, og
-Arbeids- og velferdsdirektoratet viser til at det i
-departementets forslag er et vilkår for uttak av tidligpensjon at vedkommende ikke mottar eller har
-mottatt avtalefestet pensjon. Arbeids- og velferdsdirektoratet mener at ordlyden kan forstås som å
-omfatte både livsvarig AFP i offentlig sektor, livsvarig AFP i privat sektor, AFP som tidligpensjonsordning fra Pensjonsordning for apotekvirksomhet i henholdsvis alderen 62 til og med 64 år og 65
-til og med 66 år, AFP fra pensjonsordningen i Private barnehagers landsforbund, og eventuelle
-andre AFP-ordninger. Alle disse AFP-ordningene
-gjelder for 1963-årskullet og i det minste noen
-senere årskull. De påpeker følgende:
-«Det er kun gjeldende rett for forholdet mellom særalderspensjon og livsvarig offentlig
-AFP som er beskrevet, i punkt 3.2.4. Det finnes
-slik vi forstår det ikke regler om at dagens særalderspensjon i offentlig sektor etter lov om
-Statens pensjonskasse § 21 første og andre
-ledd og AFP i privat sektor etter AFP-tilskottsloven ikke kan kombineres, forutsatt at ikke
-utbetaling av særalderspensjon før fylte 62 år
-har medført at vilkåret i Fellesordningens vedtekter § 3-7 ikke er oppfylt.»
-
-Arbeids- og velferdsdirektoratet mener det må
-tydeliggjøres i proposisjonen hva slags AFPytelser som er ment å omfattes av bestemmelsene
-om at tidligpensjon ikke kan kombineres med
-«avtalefestet pensjon». Statens pensjonskasse
-(SPK) ber om at det tydeliggjøres i regelverket at
-et medlem ikke kan ta ut oppsatt bruttopensjon og
-tidligpensjon samtidig.
-Arbeidstakerorganisasjonene og Politiets Fellesforbund mener det ikke bør være et vilkår for
-uttak av tidligpensjon at vedkommende ikke mottar eller har mottatt særalderspåslag eller AFP. De
-
-[Side 62]
-
-60
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-påpeker at det ikke er et vilkår for så vidt gjelder
-AFP i dag, og at det derfor ikke er riktig at det
-ikke finnes gjeldende rett å videreføre. Videre
-mener de at pensjonsreglene i offentlig sektor er
-kompliserte og uoversiktlige, og det vil være stor
-risiko for at medlemmer trår feil og gjennom dette
-mister retten til tidligpensjon. Arbeidstakerorganisasjonene mener det må være tilstrekkelig at
-medlemmene ikke kan ta ut tidligpensjon og særalderspåslag samtidig. Arbeidstakerorganisasjonene påpeker at den samme problemstillingen
-gjelder for påslagspensjon.
-Pensjonistforbundet er uenige i departementets
-vurdering av at mottak av tidligpensjon skal være
-diskvalifiserende for å motta ny AFP. Pensjonistforbundet mener vilkårene for å motta AFP må
-være innrettet slik at flest mulig innfrir dem, og at
-det ikke er ulogiske eller urimelige krav som gjør
-at enkelte mister retten til AFP.
-Pensjonistpartiet Akershus mener at de som
-mottar tidligpensjon bør kunne kombinere dette
-med særalderspåslaget. Dette for å likestille med
-andre som mottar fleksibel alderspensjon, pensjon
-fra ordinær alderspensjon fra offentlig tjenestepensjon eller AFP.
-Videre noterer Arbeids- og velferdsdirektoratet at hvis privat AFP ikke skal kunne ytes til personer som mottar eller har mottatt tidligpensjon
-for arbeidstakere med særaldersgrense, kan det
-hende Nav vil måtte utvikle tjenester for å utlevere
-opplysninger om tidligpensjon fra samordningsregisteret til Fellesordningen for AFP. De mener at
-eventuelle administrative konsekvenser trolig blir
-små.
-
-7.7.3 Departementets vurdering og forslag
-Departementet viste i høringsnotatet til at uførepensjon fra tjenestepensjonsordning og uføretrygd fra folketrygden ytes fram til alderen for
-ubetinget rett til alderspensjon fra folketrygden,
-og at dette tilsier at man ikke skal kunne motta en
-ugradert uføreytelse i kombinasjon med tidligpensjon. I tråd med dette ble det foreslått at uføre som
-mottar gradert uførepensjon skal kunne få innvilget tidligpensjon, så lenge summen av graden på
-tidligpensjonen og uføregraden ikke overstiger
-100 prosent. Videre ble det foreslått at inntektsgrensen skulle økes i slike tilfeller, tilsvarende
-grunnlaget for tidligpensjonen, multiplisert med
-100 prosent minus graden for tidligpensjonen.
-Gabler har påpekt at dette vil kunne gi utslag
-som ikke er rimelige, ved at man kan ha en forholdsvis høy inntekt uten at noen av ytelsene blir
-avkortet. Departementet mener nå at prinsippet
-
-bør være at inntektsgrensen for tidligpensjonen
-kun økes i de tilfellene man har en gjenværende
-medlemspliktig stilling, jf. forslag i avsnitt 7.6. Inntektsgrensen for tidligpensjonen vil dermed ikke
-økes, som følge av at tidligpensjonen kombineres
-med uførepensjon. Departementet viser videre til
-at når fribeløpet er økt til 2,7 G, vil også full tidligpensjon kunne kombineres med forholdsvis høy
-inntekt.
-Arbeidsavklaringspenger (AAP) er pensjonsgivende inntekt. For de som mottar arbeidsavklaringspenger i kombinasjon med gradert midlertidig uførepensjon, ble det i høringsnotatet foreslått
-tilsvarende regler, og inntektsgrensen økes på
-samme vis som ved varig uførepensjon. Gabler
-mener dette vil gi dobbeltavkorting, siden den
-midlertidige uførepensjonen er lavere som følge
-av at det løper en folketrygdytelse, og den samme
-folketrygdytelsen kan gi avkorting av tidligpensjonen. Departementet viser til at det opprinnelige
-forslaget ville medføre at inntektsgrensen normalt
-økes langt mer enn det som vil være nødvendig
-for å unngå avkorting av arbeidsavklaringspenger,
-som følge av at ytelsen er 66 prosent av et beregningsgrunnlag på maksimalt 6 G. Når reglene for
-gradering nå foreslås endret sammenlignet med
-høringsforslaget, ser departementet likevel at problemstillingen vil kunne være aktuell i visse tilfeller, dersom graden på tidligpensjonen er lav og
-graden på den midlertidige uførepensjonen høy.
-Departementet foreslår derfor at i tilfeller der
-arbeidsavklaringspenger kombineres med midlertidig uførepensjon, skal ikke arbeidsavklaringspenger gi reduksjon av tidligpensjonen. Se lovforslag i Statens pensjonskasseloven § 26 q andre
-ledd.
-For personer som ikke mottar midlertidig uførepensjon, vil arbeidsavklaringspenger kunne gi
-reduksjon av tidligpensjonen dersom arbeidsavklaringspengene utgjør mer enn fribeløpet på 2,7
-G. Departementet viser i denne sammenheng til
-at også mottak av uføretrygd fra folketrygden vil
-kunne redusere tidligpensjonen.
-Ingen av høringsinstansene har hatt merknader til dette. Departementet mener også at det er
-rimelig at man ikke skal kunne motta en full ytelse
-fra folketrygden i kombinasjon med full tidligpensjon.
-Angående forholdet mellom ny tidligpensjon
-og AFP og særalderspåslag, vises det til omtale i
-punkt 6.4, som i hovedsak omhandler samme problemstillinger for personer med videreført tidligpensjon. Departementet viser her til at det vil
-kunne oppleves urimelig at selv et kortvarig uttak
-av avtalefestet pensjon vil innebære at man mister
-
-[Side 63]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-retten til framtidig uttak av tidligpensjon. På
-denne bakgrunn foreslår departementet at vilkåret for å kunne ta ut ny tidligpensjon endres til
-kun å omfatte at man ikke mottar avtalefestet pensjon. Departementet presiserer at det aktuelle vilkåret er ment å gjelde både offentlig og privat
-avtalefestet pensjon, tilsvarende som for videreført tidligpensjonsordning. Når det gjelder særalderspåslaget, mener departementet det vil være et
-kompliserende element dersom tidligpensjonen
-skal kunne mottas etter uttak av særalderspåslag,
-blant annet som følge av at de to ytelsene har ulike
-regler for reduksjon mot inntekt. Departementet
-viser også til at hensikten med særalderspåslaget
-er å øke nivået på livsvarig pensjon, og opprettholder derfor vilkåret som gjelder særalderspåslaget.
-Se lovforslaget i Statens pensjonskasseloven
-§ 26 o og § 26 p andre ledd.
-Departementet foreslo at tidligpensjonen skal
-falle bort ved uttak av pensjon etter kapittel 5 a,
-før alderen for ubetinget rett til alderspensjon fra
-folketrygden. Departementet har på bakgrunn av
-høringsinnspillene gjort en ny vurdering, se
-omtale i punkt 6.4, og foreslår en tilsvarende justering i forslaget til ny tidligpensjon som for videreført tidligpensjon. Med forslaget kan tidligpensjonen tas ut dersom pensjon etter kapittel 5 a eller
-tilsvarende pensjon fra annen offentlig tjenestepensjonsordning, er stanset. Se lovforslaget i Statens pensjonskasseloven § 26 o og § 26 p andre
-ledd.
-Betinget tjenestepensjon og oppsatt bruttopensjon kan ikke stanses eller graderes, og uttak av
-disse ytelsene vil derfor medføre at man ikke kan
-
-61
-
-ta ut tidligpensjon. Forslaget innebærer dermed at
-tidligpensjon kan tas ut dersom påslagspensjon
-etter kapittel 5 a, jf. lov om Statens pensjonskasse
-§ 26 c, er stanset. Det samme vil gjelde sykepleierpensjonsloven, jf. § 11 c. Departementet foreslår i
-tillegg endringer som innebærer at ytelser etter
-kapittel 5 a i Statens pensjonskasseloven og kapittel
-4 a i sykepleierpensjonsloven ikke kan utbetales
-samtidig med tidligpensjon, jf. omtale i avsnitt 6.4.
-I høringsnotatet viste departementet til at dagpenger og omstillingsstønad er pensjonsgivende
-inntekt og at tidligpensjon avkortes dersom pensjonsgivende inntekt, inkludert dagpenger eller
-omstillingsstønad, overstiger inntektsgrensen.
-Departementet kan ikke se at det har framkommet noe som tilsier endringer når det gjelder forholdet mellom tidligpensjon og dagpenger eller
-omstillingsstønad.
-Departementet opprettholder ellers forslaget
-om en tilpasning i reglene om enke- og enkemannspensjon, som følge av at hjemmelsgrunnlaget for
-tidligpensjonen endres. Det vises til Statens pensjonskasseloven § 35 og lov om pensjonsordning
-for sykepleiere § 20. Reglene slår i dag fast at dersom den gjenlevende ektefellen samtidig har
-alderspensjon etter kapittel 5, midlertidig uførepensjon eller uførepensjon fra SPK, eller fra annen
-tjenestepensjonsordning, skal enke- eller enkemannspensjonen fra SPK reduseres. Departementet foreslår at blant annet tidligpensjon etter Statens pensjonskasseloven § 26 o og § 26 p skal føre
-til reduksjon av enke- eller enkemannspensjonen
-fra Statens pensjonskasse og Pensjonsordningen
-for sykepleiere.
-
-[Side 64]
-
-62
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-8 Særalderspåslag
-8.1
-
-Innledning og sammendrag
-
-I dette kapittelet foreslås regler for utforming av
-særalderspåslag. Det foreslås at årskull født fra og
-med 1963 får et særalderspåslag dersom de oppfyller gitte vilkår.
-Avsnitt 8.2 foreslår hvilke kvalifikasjonskrav
-som må være oppfylt for å motta særalderspåslag.
-Det foreslås at de som i løpet av de siste 15 årene
-før særaldersgrensen, eller før fratreden med rett
-til uttak av særalderspåslag, har stått i en
-medlemspliktig stilling med særaldersgrense i
-minst 10 år, får et særalderspåslag til livsvarig pensjon. Det foreslås i tillegg at dersom vilkåret har
-vært oppfylt ved ett uttak, skal det anses som oppfylt ved senere uttak. Kvalifikasjonskravet for særalderspåslaget anses som oppfylt for de som mottar tidligpensjon.
-Avsnitt 8.3 foreslår beregningsregler for særalderspåslag. Det foreslås at særalderspåslaget skal
-beregnes som en prosentandel av pensjonsgrunnlaget i stillingen med særaldersgrense. Dersom
-tid i stilling med særaldersgrense er kortere enn
-30 år, skal særalderspåslaget reduseres tilsvarende. Det foreslås særskilte regler for hvordan
-tid før 2025 skal behandles. Det foreslås at satsen
-for særalderspåslaget for de som i dag har aldersgrense 65 år skal være 5,8 prosent av pensjonsgrunnlaget. Satsen for de som i dag har særaldersgrense 63 år og 60 år foreslås til henholdsvis 6,5
-prosent og 7,7 prosent av pensjonsgrunnlaget.
-Avsnitt 8.4 foreslår regler for beregning av
-særalderspåslag for personer som har hatt ulike
-særaldersgrenser. Det foreslås at siste særaldersgrense legges til grunn for beregningen av særalderspåslaget. Ved overgang fra stilling med høyere særaldersgrense til lavere særaldersgrense
-legges den nye aldersgrensen til grunn etter tre
-års tjeneste i den nye stillingen. Ved samtidige stillinger med ulik aldersgrense legges den laveste
-aldersgrensen til grunn, forutsatt at en har stått i
-stilling med den laveste aldersgrensen i minst tre
-år.
-Avsnitt 8.5 foreslår regler for utbetalingsperiode for særalderspåslag. Det foreslås at særalderspåslag tidligst kan utbetales fra laveste
-
-uttaksalder for alderspensjon fra folketrygden.
-For personer som mottar tidligpensjon, foreslås
-det at særalderspåslaget utbetales fra alderen for
-ubetinget rett til alderspensjon fra folketrygden,
-altså når tidligpensjonen avløses av ordinær pensjon.
-Avsnitt 8.6 foreslår regler for reduksjon av
-særalderspåslag ved samtidig inntekt eller ved
-uttak senere enn to år før alderen for ubetinget
-rett til alderspensjon fra folketrygden.
-Avsnitt 8.7 foreslår regler for forholdet mellom
-særalderspåslag og andre ytelser.
-
-8.2
-
-Kvalifikasjonsregler
-
-8.2.1 Avtalen og forslagene i høringsnotatet
-Det går fram av avtalen og høringsnotatet at de
-som i løpet av de siste 15 årene før aldersgrensen,
-eller før fratreden med rett til uttak av alderspensjon, har stått i en stilling med særaldersgrense i
-minst 10 år, får et særalderspåslag til livsvarig pensjon. Det går videre fram at det kreves en stillingsandel på minimum 20 prosent i stilling med særaldersgrense for å få medregnet tid.
-I høringsnotatet foreslo departementet at
-tiden en person har mottatt midlertidig uførepensjon eller uførepensjon ikke anses som å stå i stilling i denne sammenhengen. Aldersgrensen og
-tidspunktet for fratreden med rett til uttak av
-alderspensjon kan være samme tidspunkt, men
-behøver ikke å være det. For eksempel kan
-enkelte gå av med 85-årsregelen, som innebærer
-fratreden tidligere enn særaldersgrensen, og det
-er også mulig å gå av etter særaldersgrensen.
-Departementet foreslo at kravet til tid i en stilling med særaldersgrense ikke skal være knyttet
-til tjenestetid med en gitt særaldersgrense, dvs. at
-det er tilstrekkelig å ha stått i en stilling med særaldersgrense uavhengig av om særaldersgrensen
-var 60, 63 eller 65 år. Videre foreslo departementet at tid i stilling med særaldersgrense skal forstås som samlet tid i stilling med særaldersgrense, dvs. samlet tid hos forskjellige arbeidsgivere/ordninger. Departementet foreslo at tid
-måles i år og fastsettes med én desimal og at min-
-
-[Side 65]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-stekravet til tid skal gjelde tid i stilling med særaldersgrense etter avrunding med én desimal.
-Det går ikke eksplisitt fram av avtalen at det er
-et krav om å fratre medlemspliktig stilling for å få
-særalderspåslag, men det går fram av avtalen at
-særalderspåslagets størrelse vil påvirkes av tidspunkt for fratreden, samt inntekt etter uttak.
-Departementets vurdering i høringsnotatet var at
-det skal være et tilsvarende krav om fratreden fra
-medlemspliktig stilling for særalderspåslaget,
-som for tidligpensjon. Uten krav om helt eller delvis fratreden vil det være lønnsomt for alle å ta ut
-særalderspåslaget så tidlig som mulig selv om en
-fortsetter i medlemspliktig stilling. Dette skyldes
-at det ble avtalt en inntektsgrense på 1 G i avkortingsreglene, mens det ikke er noen inntektsgrense når en reduserer særalderspåslaget etter
-avgangsalder. Det var bakgrunnen for at departementet foreslo at en må ha fratrådt medlemspliktig stilling, helt eller delvis, for å få særalderspåslag.
-Departementet foreslo videre at et vilkår for
-uttak av særalderspåslag er at påslagspensjon er
-tatt ut.
-
-8.2.2 Høringsinstansenes syn
-Merknader fra høringsinstansene om kvalifiseringsreglene for ny tidligpensjon, se punkt 7.2.2,
-gjelder også for kvalifikasjonsreglene for særalderspåslag. I dette avsnittet gjengis kun de
-merknadene som gjelder særskilt for særalderspåslaget.
-Pensjonsavtalen av 25. august 2023 med nye
-pensjonsregler for de som har særaldersgrense
-følger opp pensjonsavtalen fra 2018 om tjenestepensjon for ansatte i offentlig sektor. I avtalen står
-det at «Personer som 1.1.2020 har ti eller færre år
-til særaldersgrensen, skal sikres ordninger som
-gjør at de ikke kommer dårligere ut enn hvis
-dagens regler, inkl. 85-årsregelen, videreføres».
-I høringsnotatet ble det foreslått at tidligpensjon til personer i årskullene 1963 til 1969 som
-1.1.2020 hadde ti eller færre år igjen til aldersgrensen gis etter særskilte regler. Det innebærer
-at tidligpensjon til disse årskullene gis etter tilsvarende regler som i gjeldende tidligpensjonsordning.
-LO Kommune, LO Stat, Unio og YS, heretter
-omtalt som arbeidstakerorganisasjonene, viser i
-sitt høringssvar til omtalen i pensjonsavtalen fra
-2018 om de som 1. januar 2020 har ti eller færre år
-til aldersgrensen. Arbeidstakerorganisasjonene
-omtaler dette som sikringsbestemmelsen.
-Arbeidstakerorganisasjonene skriver at de mener
-
-63
-
-at sikringsbestemmelsen er ivaretatt når det gjelder tidligpensjon for de eldste årskullene, men at
-det livsvarige nivået på alderspensjonen vil kunne
-være dårligere enn dagens regler for de som ikke
-kvalifiserer til det nye særalderspåslaget. Arbeidstakerorganisasjonene viser til at det vil være noen
-som enten ikke oppfyller kvalifikasjonskravet om
-minst 10 av siste 15 år i særaldersgrensestilling
-eller har mindre enn 30 års tjenestetid i særaldersgrensestilling. Disse, og særlig de som ikke kvalifiserer for særalderspåslag, vil kunne få et livsvarig pensjonsnivå under det de ville fått etter de
-gamle pensjonsreglene. Arbeidstakerorganisasjonene mener departementet må foreslå ordninger
-som gjør at disse ikke får et dårligere livsvarig
-pensjonsnivå enn om de gamle reglene ble videreført.
-Arbeidstakerorganisasjonene viser til at de
-som er eldre enn 1967-årskullet kan ha gått av
-med tidligpensjon før 2023-avtalen om nye pensjonsregler for de med særaldersgrense ble inngått. Noen av disse vil enten ikke oppfylle kvalifikasjonskravet om minst 10 av siste 15 år i særaldersgrensestilling eller de vil ha mindre enn 30
-års tjenestetid i særaldersgrensestilling. Disse, og
-særlig de som ikke kvalifiserer for særalderspåslag, vil kunne få et livsvarig pensjonsnivå under
-det de ville fått etter de gamle pensjonsreglene.
-For eksempel kan en person som har gått av med
-tidligpensjon før avtalen ble inngått 25. august
-2023, hatt 9,5 års tjenestetid i en særaldersgrensestilling. Denne personen kunne ved å ha stått i
-stilling et halvt år til kvalifisert for særalderspåslaget.
-Arbeidstakerorganisasjonene mener at også
-enkelte regler i høringsnotatet er utformet slik at
-de kan bryte med den aktuelle bestemmelsen i
-avtalen av 3. mars 2018 eller at regler foreslått i
-høringsnotatet, i samvirke med øvrige regler, kan
-gi et lavere livsvarig pensjonsnivå enn det de ville
-fått etter de gamle reglene. Arbeidstakerorganisasjonene skriver at dette for eksempel kan gjelde
-reglene om samordning med alderspensjon fra folketrygden.
-Arbeidstakerorganisasjonene mener at med
-de nye reglene vil midlertidig fravær fra stillingen
-kunne få stor betydning både for om den ansatte
-kvalifiserer for tidligpensjon og særalderspåslag
-og for størrelsen på tidligpensjonen og særalderspåslaget. De skriver at dette i liten grad er
-omtalt i høringsnotatet. De forutsetter at permisjoner også godskrives som tjenestetid i særaldersgrensestilling. Videre forutsetter de at sykefravær ikke regnes som fravær fra stillingen i
-reglenes forstand, og at det samme gjelder for fra-
-
-[Side 66]
-
-64
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-vær i forbindelse med lovfestede permisjoner som
-fødsels-/omsorgspermisjon o.l. Også Befalets Fellesorganisasjon (BFO) og Politiets Fellesforbund
-ber departementet inkludere permisjon etter permisjonsavtalen i proposisjonen.
-Gabler mener det ikke framkommer tydelig av
-lovforslaget om særalderspåslag også kan gis til
-personer med oppsatte rettigheter. BFO ber også
-om avklaring av om de som står i stilling to år
-etter særaldersgrensen kan velge å ta ut oppsatt
-pensjon, påslagspensjon og særalderspåslag fra
-fylte 62 år.
-Det var i høringsforslaget satt som vilkår for
-rett til særalderspåslag at man tar ut påslagspensjon. Kommunal Landspensjonskasse (KLP) mener
-at kravet om uttak av påslagspensjon skiller seg
-fra de øvrige alderspensjonsytelsene og utgjør et
-ytterligere kompliserende element. Når det i tillegg gjøres unntak for de tilfellene hvor medlemmet ikke har opptjent rett til påslagspensjon, blir
-det ekstra komplisert. De kan ikke se at forholdet
-er omtalt eller begrunnet i høringsnotatet, og de
-ser heller ikke nødvendigheten av et slikt vilkår.
-Gabler viser til at påslagspensjon allerede kan
-være tatt ut før det blir aktuelt med særalderspåslag. De tar opp om det også skal være mulig å få
-særalderspåslag i de tilfeller hvor uttaket av
-påslagspensjonen stanses.
-Gabler bemerker at det i høringsforslaget ikke
-er presisert hvordan tjenestetiden i vilkårsprøvingen for særalderspåslaget skal avrundes. Det
-vises også til at disse årskullene får sin oppsatte
-bruttopensjon (for opptjening før 2020) beregnet
-ut fra en tjenestetidsbrøk der både teller og nevner fastsettes med én desimal. De mener det er
-inkonsistent at beregningen av påslaget ifølge lovforslaget skal skje med heltall, og at det bør benyttes én desimal også i pensjonsberegningen. Når
-det gjelder «gammel» tidligpensjon som videreføres for kullene som per 1. januar 2020 hadde
-under ti år igjen til særaldersgrensen, mener de
-disse pensjonene fortsatt bør beregnes med heltall, som i dag. Akademikerne mener det er uheldig at det i kvalifikasjonsreglene legges opp til
-avrunding med én desimal, mens tjenestetiden i
-utmålingsreglene avrundes til hele år.
-
-8.2.3 Departementets vurdering og forslag
-Departementet viser til vurderingen av kvalifikasjonsreglene for ny tidligpensjon i punkt 7.2.3.
-Departementet har tilsvarende vurderinger når
-det gjelder kvalifikasjonsreglene for særalderspåslag.
-
-Departementet opprettholder forslaget fra
-høringsnotatet om at en må fratre medlemspliktig
-stilling for å motta særalderspåslag.
-Departementet viser til at enkelte har stilt
-spørsmål om det skal være en nedre grense for
-hvor stor stillingsreduksjonen må være når det
-gjelder tidligpensjon, se punkt 7.2.2, og antar at
-dette også gjelder for særalderspåslag. Særalderspåslag skal supplere ordinær pensjon og er
-derfor klart lavere enn tidligpensjon. Dette tilsier
-at det kan være argumenter for å sette en nedre
-grense for hvor stor stillingsreduksjonen må være
-for særalderspåslaget. I sykepleierpensjonsloven
-er det i dag et krav om fratreden på minst 10 prosent, målt i forhold til full stilling, for å motta bruttopensjon, se sykepleierpensjonsloven § 7 sjette
-ledd. For å unngå svært lave utbetalinger av særalderspåslag er departementets vurdering at det
-bør kreves fratreden på minst 10 prosent, målt i
-forhold til full stilling, for å motta særalderspåslag.
-Departementet opprettholder også forslaget
-om at det kreves at en i løpet av de siste 15 årene
-før særaldersgrensen, eller før fratreden med rett
-til uttak av pensjon, har stått i en stilling med særaldersgrense i minst 10 år.
-I høringsnotatet foreslo departementet minst
-20 prosent stilling med særaldersgrense for å få
-medregnet tid. Departementet foreslår i lovforslaget her at det skal være pensjonsgivende tjenestetid i særaldersgrensestilling i stedet for tid med
-minst 20 prosent stilling som skal medregnes. Det
-vises til punkt 7.2.3 hvor departementet har gjort
-en vurdering av tilsvarende kvalifikasjonskrav for
-ny tidligpensjon.
-Departementet foreslår at dersom vilkåret har
-vært oppfylt ved ett uttak, skal det anses som oppfylt ved senere uttak.
-De som oppfyller vilkårene for å motta ny tidligpensjon vil også oppfylle vilkårene for særalderspåslag, ettersom kvalifikasjonskravene er
-sammenfallende. For å unngå at pensjonsinnretningene må kontrollere kvalifikasjonskravene på
-nytt, mener departementet at det ikke bør være
-nødvendig å sjekke kvalifikasjonskravene på nytt
-for personer som mottar ny tidligpensjon.
-Årskullene som skal beholde gjeldende tidligpensjonsordning, er omfattet av hva LO Kommune, LO Stat, Unio og YS, heretter omtalt som
-arbeidstakerorganisasjonene, omtaler som sikringsbestemmelsen. For disse årskullene vil ikke
-kvalifikasjonskravene for tidligpensjon og særalderspåslag være sammenfallende. Departementet deler arbeidstakerorganisasjonenes vurdering
-i at det vil være tilfeller hvor disse ikke vil oppfylle
-kvalifikasjonskravet for særalderspåslag, og kun
-
-[Side 67]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-vil få tidligpensjon. De vil da kunne få lavere livsvarig pensjonsnivå enn det som følger av reglene
-som gjaldt før 2020. For å unngå dette foreslår
-departementet at kvalifikasjonskravet for særalderspåslag, 10 av 15-årsregelen, skal anses som
-oppfylt for personer som har mottatt tidligpensjon.
-Enkelte høringsinstanser har hatt merknader
-til at det er uklart om også personer som allerede
-har fratrådt kan ha rett til særalderspåslag. Lovforslaget er justert slik at det framgår at både personer som fratrer og som har fratrådt vil kunne ha
-rett på særalderspåslag om de ellers fyller vilkårene.
-Staten og hovedsammenslutningene har med
-hjemmel i Statens pensjonskasseloven § 20 første
-ledd bokstav d inngått en særavtale om medregning av permisjon uten lønn og annet midlertidig
-fravær som pensjonsgivende tjenestetid i Statens
-pensjonskasse, den såkalte permisjonsavtalen. I
-staten godskrives permisjoner gjennom permisjonsavtalen (PM-2023-18). I kommunesektoren
-er avtale om permisjoner og pensjonsopptjening
-regulert i SGS 2020.
-Lovforslaget har ikke hatt som intensjon å
-endre på reglene om pensjonsopptjening ved fravær i forbindelse med permisjoner etter permisjonsavtalen. Slike permisjoner fra stilling i særaldersgrense vil bli medregnet som pensjonsgivende tjenestetid i kvalifisering og beregning av
-tidligpensjon og særalderspåslag.
-I lovforslaget i høringsnotatet ble det satt som
-vilkår for uttak av særalderspåslag at det tas ut
-påslagspensjon etter kapittel 5 a. I høringsnotatet
-ble det ikke forslått regler om opphør eller stans i
-utbetaling av særalderspåslag ved senere stans i
-uttak av påslagspensjon. Vilkåret ble regnet som
-oppfylt i de tilfellene hvor medlemmet ikke har
-opptjent rett til påslagspensjon.
-Departementet er enig med Kommunal Landspensjonskasse (KLP) i at vilkår om uttak av
-påslagspensjon for rett til særalderspåslag utgjør
-et kompliserende element og lovforslaget for særalderspåslag fremmes uten vilkår om uttak av
-påslagspensjon etter kapittel 5 a.
-Departementet viser til at det framgår av § 19
-tredje ledd i Statens pensjonskasseloven at tjenestetid for ordinær alderspensjon etter kapittel 5 a
-fastsettes i antall år, avrundet til én desimal.
-Departementet er enig med høringsinstansene i at
-også pensjonsberegningsreglene og kvalifikasjonsreglene for særalderspåslag bør fastsettes
-med én desimal. I lovforslaget som legges fram i
-denne proposisjonen, er lovforslaget § 19 tredje
-
-65
-
-ledd justert slik at også tjenestetid i kapittel 5 b
-(tidligpensjon og særalderspåslag) fastsettes i
-antall år, avrundet til én desimal.
-Det vises til lovforslaget i Statens pensjonskasseloven § 26 r første ledd og § 19 tredje ledd. Det
-vises også til sykepleierpensjonsloven § § 11 p første ledd og § 5 tredje ledd.
-
-8.3
-
-Beregningsregler
-
-8.3.1 Avtalen og forslagene i høringsnotatet
-Det går fram av avtalen at særalderspåslaget skal
-beregnes som en prosentandel av pensjonsgrunnlaget i stillinger med særaldersgrense. Prosentandelene er definert i avtalen og er 7,7 prosent for de
-med aldersgrense 60 år, 6,5 prosent for de med
-aldersgrense 63 år og 5,8 prosent for de med
-aldersgrense 65 år. Dersom tid i stillingen med
-særaldersgrense er kortere enn 30 år, skal særalderspåslaget avkortes tilsvarende. Det går videre
-fram av avtalen at dersom gjennomsnittlig stillingsandel i stilling med særaldersgrense er
-lavere enn 100 prosent skal påslaget reduseres
-forholdsmessig.
-Som for tidligpensjon ble det i høringsnotatet
-foreslått at beregningsgrunnlaget fastsettes som
-sluttlønnen i stilling med særaldersgrense,
-omgjort til full stilling begrenset til 12 ganger folketrygdens grunnbeløp. Særalderspåslaget skulle
-da utgjøre en prosentandel av sluttlønnen i stillingen med særaldersgrense, omregnet til fulltidsstilling.
-Departementet foreslo i høringsnotatet at
-gjennomsnittlig stillingsandel i stilling med særaldersgrense bestemmer hvilken grad særalderspåslaget maksimalt kan utgjøre, begrenset til maksimalt 100 prosent. For de som fratrer delvis ble
-uttaksgraden for særalderspåslaget foreslått
-beregnet med den gjennomsnittlige stillingsandelen, men likevel ikke høyere enn 100 prosent
-minus gjenværende medlemspliktig stillingsandel. For medlemmer som etter særaldersgrensen
-mottar gradert uførepensjon, skulle graden maksimalt settes til 100 prosent minus høyeste uføregrad etter særaldersgrensen. For medlemmer
-som fratrer etter særaldersgrensen og som både
-har en medlemspliktig stilling og mottar gradert
-uførepensjon, skulle graden maksimalt settes til
-100 prosent minus stillingsandelen i den medlemspliktige stillingen og høyeste uføregrad etter
-særaldersgrensen.
-
-[Side 68]
-
-66
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-8.3.2 Høringsinstansenes syn
-Merknader fra høringsinstansene om tid i stilling
-med særaldersgrense for å beregne ny tidligpensjon, se punkt 7.3.2, gjelder også for tid i stilling
-med særaldersgrense for å beregne særalderspåslag. I dette avsnittet gjengis kun de merknadene
-som gjelder særskilt for beregning av særalderspåslaget.
-LO Kommune, LO Stat, Unio og YS, heretter
-omtalt som arbeidstakerorganisasjonene, uttrykker at det bør være nok at særalderspåslaget regnes
-ut fra gjennomsnittlig stillingsandel registrert hos
-pensjonsleverandør og at det er unødvendig å kreve
-minst 20 prosent stilling for å få medregnet tid.
-De skriver videre at for alle som får et avkortet
-særalderspåslag, bør det anbefales å klage dersom man vet å ha jobbet mer enn 20 pst. stilling i
-mer enn 30 år, enten dette var som ekstravakt, deltidsansatt med merarbeid eller hos to ulike
-arbeidsgivere. De skriver at dette kommer til å
-skape omfattende merarbeid hos pensjonsleverandørene og at det derfor bør gjøres en pragmatisk
-tilnærming som løser disse utfordringene.
-Arbeidstakerorganisasjonene viser til at det er
-yrkesgrupper som har fått særaldersgrenser i
-nyere tid eller har hatt endring i sin særaldersgrense. I helsesektoren har hjelpepleiere hatt særaldersgrense. For helsefagarbeidere i det nye
-utdanningsløpet som erstattet hjelpepleierutdanningen, ble særaldersgrensen for helsefagarbeidere først fastsatt i hovedtariffoppgjøret i KS 2012.
-Arbeidstakerorganisasjonene mener at det er urimelig at helsefagarbeidere som har hatt samme
-jobb hele veien, ikke får med ansiennitet til særalderspåslag etter samlet karriere. De mener at det
-må fastsettes regler som tar hensyn til dette. Det
-vises også til at tilsvarende utfordringer også finnes i kriminalomsorgen. Her fikk betydelige grupper fastsatt en redusert særaldersgrense til 63 år
-så sent som i 2001.
-Når det gjelder tjenestetidsavkorting av særalderspåslag viser Gabler til at begrepet «tid i stilling» benyttes i lovforslaget i høringsnotatet.
-Gabler etterlyser en mer konsistent begrepsbruk,
-og at det framgår tydelig at det kun er medlemspliktig tid som det er betalt premie for som skal
-inngå i selve pensjonsberegningen.
-Pensjon for alle mener at de med særaldersgrense på 60 år kommer spesielt dårlig ut. Slik de
-leser høringsnotatet vil disse miste AFP i tillegg til
-at de får færre opptjeningsår og høyere delingstall. De mener derfor at påslaget på 7,7 prosent
-lang fra dekker opp for tapet og at de vil komme
-langt dårligere ut enn de med særaldersgrense på
-
-65 år. Også Landsforbundet for offentlige pensjonister (LOP) mener at et særalderspåslag på 7,7 prosent ikke er godt nok.
-Norsk Kommunedirektørforum mener at særalderspåslaget på 5,8 prosent for ansatte med minst
-30 års opptjeningstid i stilling med særaldersgrense 65 år vil føre til at få kommunedirektører
-kvalifiserer til full opptjening. De påpeker at få
-kommunedirektører har hatt slike stillinger så
-lenge. Departementet bes derfor vurdere om opptjeningstiden bør være kortere enn 30 år for full
-opptjening.
-Ifølge lovforslaget skal særalderspåslaget
-beregnes med heltall. Gabler mener det er inkonsistent, og at det bør benyttes én desimal i pensjonsberegningen. Gabler viser til at det ikke
-framgår av høringsnotatet om det er tenkt at man
-skal «besteberegne» deltiden dersom personen
-har over 30 år totalt i stilling med særaldersgrense.
-Akershus fylkeskommunes eldreråd og Pensjonistpartiet Holtålen mener det må komme klart
-fram i proposisjonen at all opparbeidet tid før 2020
-inngår i opptjeningstiden i ny pensjonsordning for
-de med særaldersgrenser. De skriver at de er forundret over at påslaget ikke skal levealdersjusteres og at reduksjon av særalderspåslaget ved
-uttak senere enn to år før ubetinget rett til uttak av
-folketrygdens alderspensjon vil føre til at man
-mest sannsynlig ikke kan kompensere bortfall av
-det livsvarige tillegget med lønnsinntekt.
-
-8.3.3 Departementets vurdering og forslag
-Departementet viser til vurderingen av beregningsreglene for ny tidligpensjon, se punkt 7.3.3.
-Departementet har tilsvarende vurderinger når
-det gjelder pensjonsgrunnlag, tid i stilling med
-særaldersgrense for å beregne særalderspåslag,
-og regulering av særalderspåslaget.
-Departementet foreslår at det ved fastsettelsen
-av pensjonsgrunnlaget for særalderspåslag kun
-skal ses på arbeidsinntekt som stammer fra
-arbeidsforhold med særaldersgrense, men at
-dette kun gjelder for tid etter 1. januar 2025.
-Departementet foreslår at i beregningen av
-særalderspåslaget skal tjenestetid kun være tjenestetid i stilling med særaldersgrense, men at
-det for tid før 1. januar 2025 likevel skal benyttes
-all pensjonsgivende tjenestetid.
-Departementet opprettholder forslaget fra
-høringsnotatet om at satsen skal være 7,7 prosent
-for de med aldersgrense 60 år, 6,5 prosent for de
-med aldersgrense 63 år og 5,8 prosent for de med
-aldersgrense 65 år.
+## Beregningsregler
+
+### Avtalen og forslagene i høringsnotatet
+
+I avtalen går det fram at tidligpensjonen skal utgjøre 66 prosent av pensjonsgrunnlaget i stillingen med særaldersgrense for de som har minst 30 års samlet opptjening i en stilling med særaldersgrense, uavhengig av om særaldersgrensen er 60, 63 eller 65 år. Det går også fram at hvis tid i stilling med særaldersgrense er kortere enn 30 år, avkortes pensjonen forholdsmessig. Videre går det fram at tidligpensjonen skal reduseres forholdsmessig dersom gjennomsnittlig stillingsandel i stilling med særaldersgrense er lavere enn 100 prosent.
+
+I høringsnotatet foreslo departementet at beregningsgrunnlaget fastsettes som sluttlønnen i stilling med særaldersgrense, omgjort til full stilling. Tidligpensjonen utgjør da 66 prosent av sluttlønnen i stillingen med særaldersgrense, omregnet til fulltidsstilling, justert med en brøk hvor tid i stilling med særaldersgrense, men maksimalt 30 år, er telleren og 30 år er nevneren.
+
+Departementet foreslo videre at gjennomsnittlig stillingsandel i stilling med særaldersgrense bestemmer hvilken grad tidligpensjonen maksimalt kan utgjøre, begrenset til 100 prosent.
+
+### Høringsinstansenes syn
+
+Datakvalitet og krav om minimum 20 prosent stilling for å få medregnet tid
+
+De høringsuttalelsene som gjelder datakvalitet og krav om 20 prosent stilling for å få medregnet tid for kvalifikasjonskravet gjelder tilsvarende for beregningsreglene, se punkt 7.2.2.
+
+Alle tjenestepensjonsleverandørene som har gitt høringssvar (*Gabler, Kommunal Landspensjonskasse* (KLP)*, Oslo Pensjonsforsikring* (OPF), *Statens pensjonskasse* (SPK) og *Storebrand Livsforsikring*) påpeker at datakvaliteten for registrering av særaldersgrenser bakover i tid vil få betydning for beregning av ny tidligpensjon, som foreslås basert på 30 års samlet opptjening i en stilling med særaldersgrense med minst 20 prosent stillingsandel. Også *LO Kommune*, *LO Stat*, *Unio* og *YS*, heretter omtalt som arbeidstakerorganisasjonene, peker på at det vil være utfordrende med manglende registrering av stillinger med særaldersgrense bakover i tid.
+
+OPF mener at alle opplysninger som vil kunne være relevante for å foreta korrekt beregning av tidligpensjon i henhold til de foreslåtte særaldersgrensereglene, ikke er tilgjengelige hos alle tjenestepensjonsleverandører.
+
+KLP uttaler at de fleste med stilling med særaldersgrense har samme særaldersgrense gjennom hele karrieren. For de fleste vil det derfor være liten forskjell på ordinær tjenestetid og tjenestetid med særaldersgrense.
+
+Gabler mener at flere av pensjonsordningene vil ha utfordringer knyttet til datakvalitet. De skriver at en må påregne at det er betydelige «hull» og feilregistreringer i flere av ordningenes medlemsregistre når det gjelder hvilke aldersgrenser medlemmene har hatt til enhver tid. De skriver at det er en ikke uregelmessig foreteelse at det innrapporteres feil aldersgrense i forbindelse med de kvartalsvise lønnsdatainnlesningene, og at jo lenger tilbake i tid man går, jo større er sannsynligheten for at det er registrert feil stillingskoder og feil aldersgrenser i historikken på det enkelte medlem, hvis det da er registrert noe i det hele tatt.
+
+Gabler uttaler at for å behandle søknader om særalderspåslag og ny tidligpensjon, må man i noen tilfeller avdekke hva som var søkers riktige aldersgrense helt tilbake til 1980- og 1990-tallet. De mener at historikken kan være høyst mangelfull. Gabler skriver videre at pensjonsordningen dessuten kan ha blitt flyttet mellom leverandører en eller flere ganger, og det kan i den forbindelse ha skjedd feil i overføringen av medlemshistorikk. Gabler viser til at det først var tidlig på 2000-tallet at det ble innført et standardisert format for overføring av medlemsdata mellom pensjonsleverandørene. Dette innebærer at det i mange tilfeller mangler informasjon om medlemmenes aldersgrense tilbake i tid. Denne informasjonen kan det bli krevende å få tak i mange år etterpå, da arbeidsgiveren ikke nødvendigvis har tilgang til så gamle opplysninger. Gabler skriver at lønnssystemet kan ha vært byttet ut en eller flere ganger, fysiske saksmapper kan ha blitt makulert etc. Det kan derfor bli utfordrende å rekonstruere korrekt aldersgrensehistorikk i forbindelse med at det fremsettes søknad om særalderspåslag og ny tidligpensjon.
+
+Gabler skriver videre at det tidligere har vært av underordnet betydning hvilken aldersgrense medlemmet har hatt historisk. Ettersom ny aldersgrense gjelder etter et år i KS-området (jf. SGS 2020 del I § 6-2), har det sjelden vært maktpåliggende å undersøke hva som har vært riktig aldersgrense lenger tilbake i tid. Personer som har hatt overgang til høyere aldersgrense kan riktignok få rett til alderspensjon etter den tidligere aldersgrensen. Gablers erfaring er imidlertid at denne regelen relativt sjelden kommer til anvendelse i praksis, og det har vært overkommelig å undersøke historikken i de tilfellene hvor den har vært aktuell. Gabler skriver at aldersgrensen dessuten primært har hatt betydning for å vurdere fra hvilket tidspunkt det foreligger en pensjonsrett. I selve pensjonsberegningen er det lønn og deltid som er de sentrale variablene i de «tradisjonelle» ytelsene i offentlig tjenestepensjon.
+
+Pensjonsgrunnlag, beregningsgrunnlag og sluttlønn
+
+Flere høringsinstanser er usikre på hvordan begrepene «pensjonsgrunnlag», «sluttlønn» og «beregningsgrunnlag» skal tolkes i lovforslaget. *LO Kommune, LO Stat, Unio og YS*, heretter omtalt som arbeidstakerorganisasjonene, mener det er uklart om sluttlønn er det samme som «pensjonsgrunnlaget» eller «beregningsgrunnlaget», som begge brukes i lovforslaget.
+
+Arbeidstakerorganisasjonene mener at sluttlønnsbegrepet, slik det har vært i tidligere bruttoordning, må legges til grunn, herunder lønnsoppgangs- og lønnsnedgangsbestemmelser. De mener at dette ikke er ivaretatt i lovforslaget i høringsnotatet. Arbeidstakerorganisasjonene påpeker at det ble etterspurt og bekreftet «under forhandlingene» at sluttlønnsberegningen skulle følge dagens regler med alt det innebærer, både for ny tidligpensjon og særalderspåslag.
+
+*Statens pensjonskasse* (SPK) viser til departementets forslag til regler om fastsettelse av grunnlag for beregning av tidligpensjon og påpeker at «sluttlønn» ikke nødvendigvis har det samme juridiske innhold som begrepet «pensjonsgrunnlag» i Statens pensjonskasseloven § 11. SPK mener at for å oppnå en enhetlig forståelse og praktisering bør innholdet i gjeldende § 11 være bestemmende.
+
+SPK mener videre at formuleringen «pensjonsgrunnlag fastsettes som sluttlønnen i stillingen, omregnet til full stilling, begrenset til tolv ganger folketrygdens grunnbeløp», synes å utelukke delt pensjonsgrunnlag etter § 15 annet ledd, midlertidig høyere pensjonsgrunnlag etter § 15 annet ledd annet punktum og høyere grunnlag ved flere stillinger, jf. § 15 tredje ledd. Også *Kommunal Landspensjonskasse* (KLP), *Forsvarsdepartementet*, *Forsvaret*, *Befalets Fellesorganisasjon* (BFO)*, Norges offisers- og spesialistforbund* (NOF), *Politiets Fellesforbund, Akademikerne og arbeidstakerorganisasjonene* gir uttrykk for samme bekymring. Høringsinstansene ber departementet om å tydeliggjøre hva som gjelder for å unngå tvil.
+
+Forsvaret viser til at militært ansatte etter forsvarsloven er underlagt beordringsplikt til stillinger i Norge og utlandet etter Forsvarets behov. Militært ansatte kan etter samme paragraf også beordres fra en stilling når det er nødvendig av for eksempel helsemessige årsaker. Dette innebærer at militært ansatte kan beordres mot villighet til alle de tjenestesteder Forsvaret er lokalisert, og man kan også beordres til stilling med høyere eller lavere lønn. Forsvaret presiserer viktigheten av at prinsippet om delt pensjonsgrunnlag etter pensjonskasseloven § 15 andre ledd også blir gjeldende for ny tidligpensjon og særalderspåslag. De skriver at dette særlig er viktig for Forsvarets personell som er underlagt beordringsplikten, da det i ytterste tilfelle kan innebære beordring til stilling med lavere lønn og dermed lavere pensjon.
+
+KLP mener det er noe uklart hvilken lønn pensjonsgrunnlaget skal beregnes etter i de tilfellene hvor medlemmet har gått over til en stilling med høyere aldersgrense, etter at medlemmet fylte vilkårene for å kunne ta ut ny tidligpensjon. De mener det er nærliggende å tenke at det i disse tilfellene er lønnen i stillingen med særaldersgrense som gir rett til ny tidligpensjon (med eventuell lønnsnedgang/oppgang), som skal legges til grunn. De ber departementet klargjøre dette, og tydeliggjøre om pensjonsgrunnlaget fra stillingen med særaldersgrense i så fall skal reguleres med grunnbeløpet fram til fratreden.
+
+Arbeidstakerorganisasjonene og *Politiets Fellesforbund* mener at lovforslaget er ufullstendig når det gjelder regulering. De påpeker at i tilfeller der for eksempel lov om Statens pensjonskasse § 15 andre ledd kommer til anvendelse, må pensjonsgrunnlaget også reguleres fra tidspunktet for det høyere pensjonsgrunnlaget og frem til uttakstidspunktet, og de antar at dette er ivaretatt gjennom dagens § 42 femte ledd. For ansatte som har krav på ny tidligpensjon og særalderspåslag etter regelen om «10 av siste 15 år», men som ikke står i særaldersgrensestilling på uttakstidspunktet, må pensjonsgrunnlaget i særaldersgrensestillingen også reguleres med lønnsveksten frem til uttakstidspunktet. Arbeidstakerorganisasjonene og Politiets Fellesforbund mener at dette ikke er ivaretatt gjennom dagens § 42 femte ledd. Også *Storebrand Livsforsikring* påpeker dette. Storebrand Livsforsikring mener det bør vurderes om dette må presiseres nærmere i nevnte bestemmelse.
+
+*Gabler* og Storebrand Livsforsikring mener det er uklart om tid der vedkommende har mottatt midlertidig uførepensjon eller uførepensjon fra stilling med særaldersgrense regnes med i beregningen av tidligpensjon. De viser til at det ikke skal regnes med i kvalifikasjon til tidligpensjon, men påpeker at det ikke står eksplisitt noe om betydningen for beregningen av ytelsen.
+
+KLP støtter departementets vurdering av å unngå dobbeltavkorting, og ser at metoden for gradering kan fungere i enkle situasjoner. De er imidlertid usikre på om ordlyden i lovforslaget § 26 o femte ledd og § 26 p femte ledd faktisk gir uttrykk for at det er den laveste graden av gjennomsnittlig stillingsandel og 100 prosent minus gjenværende medlemspliktig stillingsandel som skal legges til grunn, og anbefaler at bestemmelsen tydeliggjøres. Tilsvarende kommentar gjelder for særalderspåslaget.
+
+KLP mener videre at dersom en pensjonist øker eller reduserer stillingen sin etter uttak av gradert tidligpensjon, er det uklart hvorvidt det skal beregnes en ny grad, eller om det kun skal skje en justering av pensjonen i etteroppgjøret. Hvis det skal beregnes ny grad, vil dette i praksis innebære at personer med tidligpensjon ikke kun vil ha en inntektsgrense når de jobber i medlemspliktig stilling. I tillegg vil selv marginale endringer i stilling medføre justeringer av graden på tidligpensjonen. Til sammenligning har man i privat sektor ett fribeløp før pensjonen blir justert.
+
+*Den norske legeforening* påpeker at slik de nye tidligpensjonsreglene er utformet, med krav om 30 år i særaldersstilling for å få full opptjening, vil man som lege ikke lenger få tellende opptjeningstid fra annen offentlig tjeneste, siden leger ikke har særaldersgrense ved aktuelle arbeidssteder utenfor Forsvaret. De mener at det vil få den konsekvensen at nesten ingen leger vil kunne oppnå full opptjeningstid før de når aldersgrensen for særalderspensjon. Også Forsvaret mener at kravet på 30 år i full særaldersgrensestilling for å få full opptjening er et strengt krav. *Akershus fylkeskommunes eldreråd, Pensjonistpartiet Holtålen* og BFO anfører at endringen fra å kreve 30 års tjenestetid, til å kreve 30 år i en stilling med særaldersgrense, for å få full ytelse, kan være grunnlovsstridig. Akershus fylkeskommunes eldreråd og Pensjonistpartiet Holtålen mener at krav om 30 år i en særalderstilling for å få full tidligpensjon, på mange måter vil si at individet må bestemme seg for å jobbe i en slik stilling store deler av sitt yrkesaktive liv. De mener at dette helt klart vil være et hinder for nyrekruttering av eldre arbeidstakere til de yrkene som har slik særaldersgrense. NOF argumenterer for at militært tilsatte som tidligere oppfylte kravene for særalderspensjon, men som ved overgang til nye regler ikke har full opptjening av tidligpensjon, må håndteres særskilt.
+
+### Departementets vurdering og forslag
+
+Avtalen fra 25. august 2023 sier at tidligpensjonen skal være 66 prosent av pensjonsgrunnlaget for de med minst 30 års opptjening i en stilling med særaldersgrense, og at pensjonen skal reduseres forholdsmessig hvis opptjeningstiden er under 30 år. Det følger også av avtalen at det kreves en stillingsandel på minimum 20 prosent i en stilling med særaldersgrense for å få medregnet tid.
+
+Høringen har avdekket at tjenestepensjonsinnretningene har betydelige utfordringer knyttet til registrering av tid med særaldersgrensestillinger tilbake i tid. Departementet mener det er uheldig at noen vil kunne få en høyere tidligpensjonsytelse enn andre, utelukkende som følge av at en tjenestepensjonsleverandør har bedre historiske data enn en annen, eller fordi man har en arbeidsgiver som kan verifisere stillingsbrøker på minst 20 prosent inntil 30 år tilbake i tid. Departementet foreslår derfor at reglene for opptjeningstid justeres noe.
+
+Departementet foreslår at all tid i medlemspliktig stilling før 1. januar 2025 regnes med i beregningen av tidligpensjonen, mens kun tjenestetid med særaldersgrense regnes med fra 1. januar 2025. Dette innebærer at det skilles mellom tilbakelagt tid og tid framover, slik at all tid i medlemspliktig stilling før 1. januar 2025 regnes med ved beregning av tidligpensjonen, også tid med ordinær aldersgrense, mens kun tjenestetid med særaldersgrense regnes med fra 1. januar 2025.
+
+Departementet mener videre at kravet om minst 20 prosent stilling for å få medregnet tid også bortfaller ved beregning av ny tidligpensjon. Det vises til punkt 7.2.3 hvor departementet har vurdert 20-prosentkravet i kvalifikasjonsreglene.
+
+Siden beregningsreglene tar hensyn til gjennomsnittlig stillingsprosent, vil de som over tid kun har en lav stillingsandel med særaldersgrense uansett få en lav ytelse. Dette tilsier at det er liten mulighet for uheldig tilpasning, og at de økonomiske konsekvensene av at dette kravet bortfaller er begrenset. Departementet foreslår derfor at kravet om minimum 20 prosent stilling for å få medregnet tid bortfaller.
+
+I høringsnotatet foreslo departementet at for å unngå dobbelavkorting av grunnlaget for beregning av tidligpensjon, skulle beregningsgrunnlaget fastsettes som sluttlønn i stilling med særaldersgrense, omgjort til full stilling. Dette innebar et avvik fra hvordan pensjonsgrunnlaget fastsettes etter gjeldende regler. Høringsinstansene påpeker blant annet at «sluttlønn» ikke nødvendigvis har det samme juridiske innhold som begrepet «pensjonsgrunnlag» i Statens pensjonskasseloven § 11, og at departementets forslag synes å utelukke delt pensjonsgrunnlag etter § 15 andre ledd, midlertidig høyere pensjonsgrunnlag etter § 15 andre ledd andre punktum og høyere grunnlag ved flere stillinger, jf. § 15 tredje ledd.
+
+Departementet har ikke hatt som intensjon å endre innholdet i hva som er pensjonsgrunnlag, utover at kun tid i stilling med særaldersgrense skal inngå, og ser at begrepet sluttlønn derfor har vært upresist. I lys av dette, og i lys av høringsinnspillene, ser departementet at det vil forenkle regelverket betydelig hvis pensjonsgrunnlaget fastsettes som etter gjeldende bestemmelser i Statens pensjonskasseloven kapittel 3. Gjennomsnittlig stillingsandel vil da være en del av pensjonsgrunnlaget, og pensjonen vil ikke reduseres med deltid utover gjennomsnittlig stillingsandel. Denne forenklingen vil innebære en mer enhetlig forståelse og praktisering av begrepene i lovforslaget.
+
+Departementet opprettholder forslaget fra høringsnotatet om at regulering av ny tidligpensjon etter Statens pensjonskasseloven kapittel 5 b under utbetaling skal foretas ved at pensjonsgrunnlaget reguleres årlig fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Det er det samme som gjelder etter kapitlene om bruttopensjon, jf. Statens pensjonskasseloven kapittel 5 og sykepleierpensjonsloven kapittel 4. Ellers viser departementet til merknader om at lovforslaget er ufullstendig når det gjelder regulering av pensjonsgrunnlaget for de som ikke står i særaldersgrensestilling på uttakstidspunktet. Departementet er enig i at pensjonsgrunnlaget skal reguleres med lønnsveksten frem til tidspunktet det ytes pensjon. Dette er tilsvarende regel som gjelder i situasjonen hvor et medlem har en oppsatt rett til alderspensjon, jf. Statens pensjonskasseloven § 23. Samme reguleringsregler gjelder for øvrig i situasjonen hvor et medlem har gått over fra et høyere til et lavere samlet pensjonsgrunnlag, jf. § 15 andre ledd. I slike tilfeller skal det tidligere grunnlaget som har betydning for pensjonsberegningen reguleres med lønnsveksten fram til tidspunktet det ytes pensjon. Dette er ivaretatt i lovforslaget her, jf. § 42 femte ledd tredje punktum.
+
+Departementet foreslo i høringsnotatet at gjennomsnittlig stillingsandel i stilling med særaldersgrense bestemmer hvilken grad tidligpensjonen maksimalt kan utgjøre, begrenset til maksimalt 100 prosent. Departementet foreslo at de som har en gjennomsnittlig stillingsandel i stilling med særaldersgrense som er lavere enn 100 prosent, får en gradert tidligpensjon hvor graden settes lik den gjennomsnittlige stillingsandelen, eller 100 prosent minus stillingsandelen i den gjenværende medlemspliktige stillingen hvis dette er lavere. I lys av at departementet i proposisjonen her foreslår at pensjonsgrunnlaget skal fastsettes etter gjeldende bestemmelser i Statens pensjonskasseloven kapittel 3, og ikke som sluttlønn i stilling med særaldersgrense omgjort til full stilling, vil beregningsreglene ved delvis fratreden være annerledes enn det som ble sendt på høring. I forslaget her vil gjennomsnittlig stilling være en del av pensjonsgrunnlaget. Dersom medlemmet har en medlemspliktig stilling og/eller uførepensjon eller uføretrygd etter uttak av tidligpensjon, skal uttaksgraden for tidligpensjonen maksimalt settes til 100 prosent minus stillingsandelen i den medlemspliktige stillingen og/eller uføregraden. Dette vil innebære en forenkling av regelverket.
+
+Departementet foreslo i høringsnotatet at i tilfeller hvor en person først har fratrådt delvis, og på et senere tidspunkt fratrer helt, er det naturlig at en får beregnet en ny tidligpensjon for det nye deluttaket og at de to deluttakene deretter løper parallelt. Departementet viser til spørsmål om hvorvidt det skal beregnes en ny grad dersom en pensjonist øker eller reduserer stillingen sin etter uttak av gradert tidligpensjon, eller om det kun skal skje en justering av pensjonen i etteroppgjøret. Departementets vurdering er at det skal beregnes et nytt deluttak når et medlem reduserer sin medlemspliktige stilling etter uttak av gradert tidligpensjon. Dersom et medlem øker sin medlemspliktige stilling, skal tidligpensjonen beregnes med ny grad. Det vil derfor kunne løpe flere deluttak parallelt.
+
+Departementet viser til merknader fra *Gabler* og *Storebrand* *Livsforsikring* om hvorvidt midlertidig uførepensjon eller uførepensjon fra stilling med særaldersgrense skal regnes med i beregningen av tidligpensjon. Departementet presiserer at tid med uførepensjon eller midlertidig uførepensjon fra stilling med særaldersgrense skal regnes med som pensjonsgivende tjenestetid i beregningen av tidligpensjon, men ikke som tid for å vurdere kvalifikasjonskravet (se punkt 7.2.3)
+
+Departementet viser til punkt 7.2.3 der det går fram at både kvalifikasjon og beregning av tidligpensjon skal fastsettes med én desimal. Lovforslaget her er justert slik at tjenestetid i kapittel 5 b (tidligpensjon og særalderspåslag) fastsettes i antall år, avrundet til én desimal, se § 19 tredje ledd.
+
+Departementet ser at enkelte instanser har pekt på at 30 års samlet opptjening i en stilling med særaldersgrense kan være vanskelig å oppnå for visse personellgrupper i Forsvaret. Departementet viser til at reglene for opptjeningstid skal justeres, slik at ordinær tjenestetid brukes til beregning av tidligpensjonen for tid før 2025, mens tid i særaldersgrensestilling legges til grunn for tid fra og med 1. januar 2025.
+
+Det vises til lovforslaget i Statens pensjonskasseloven § 26 o fjerde, femte og sjette ledd og § 26 p fjerde, femte og sjette ledd. Det vises også til § 19 tredje ledd og § 11 tredje ledd.
+
+## Flere ulike særaldersgrenser gjennom arbeidslivet
+
+### Avtalen og forslagene i høringsnotatet
+
+I høringsnotatet pekte departementet på at det vil være tilfeller hvor den enkelte, enten samtidig eller på ulike tidspunkt i yrkeskarrieren, har hatt stillinger med ulike særaldersgrenser. Regelverket må derfor ha bestemmelser om hvilken særaldersgrense som skal legges til grunn, når den enkelte har hatt ulike særaldersgrenser. I høringsnotatet foreslo departementet at den siste særaldersgrensen legges til grunn for beregning av tidligpensjonen ved etterfølgende stillinger. For å unngå uheldig tilpasninger foreslo departementet at ved skifte fra stilling med høy særaldersgrense til stilling med lavere aldersgrense, må en ha stått i stilling med den lavere særaldersgrensen i minst tre år.
+
+Departementet foreslo videre at de som har samtidige stillinger med ulike særaldersgrenser kan gis ny tidligpensjon med utgangspunkt i den laveste aldersgrensen, forutsatt at en har stått i stilling med den særaldersgrensen som utløser tidligpensjonen i minst tre år før aldersgrensen eller før fratreden med rett til uttak av alderspensjon.
+
+### Høringsinstansenes syn
+
+*Oslo Pensjonsforsikring (OPF)* er usikre på hva som skal gjelde som pensjonsgrunnlag i tilfeller med samtidige stillinger med ulike særaldersgrenser, og der uttak av tidligpensjon utsettes til det tidspunkt hvor det foreligger rett også i henhold til den høyeste aldersgrensen. De ber om en presisering av hvordan pensjonsgrunnlaget skal fastsettes i slike tilfeller.
+
+### Departementets vurdering og forslag
+
+Departementet foreslo i høringsnotatet at den siste særaldersgrensen legges til grunn for tidligpensjonen når vedkommende har hatt stillinger med ulike særaldersgrenser. Ingen høringsinstanser har hatt merknader til dette. Videre har det ikke kommet merknader til forslaget om at ved skifte fra stilling med høy særaldersgrense til stilling med lavere aldersgrense, må en ha stått i den lavere særaldersstillingen i minst tre år. Det har heller ikke kommet merknader til forslaget om at den laveste aldersgrensen kan legges til grunn, også ved samtidige stillinger med ulike særaldersgrenser, forutsatt at en har stått i stiling med den lavere særaldersgrensen i minst tre år før aldersgrensen eller før fratreden med rett til uttak av alderspensjon. Departementet opprettholder disse forslagene.
+
+Det vises til lovforslaget i Statens pensjonskasseloven § 26 t første og andre ledd.
+
+Departementet viser til spørsmålet om hvordan pensjonsgrunnlaget skal fastsettes i tilfeller med samtidige stillinger med ulike særaldersgrenser, og der uttak av tidligpensjon utsettes til det tidspunkt hvor det foreligger rett også i henhold til den høyeste aldersgrensen. Som følge av at pensjonsgrunnlaget skal fastsettes etter gjeldende regler i lov om Statens pensjonskasse kapittel 3, mener departementet at § 14 andre ledd vil gjelde i slike tilfeller.
+
+## Utbetalingsperiode og utfasing av 85-årsregelen
+
+### Avtalen og forslagene i høringsnotatet
+
+Aldersgrense 63 år
+
+Det går fram i avtalen at de som er født i 1970 eller senere kan ta ut tidligpensjonen tidligst *fra* særaldersgrensen. Videre går det fram at årskullene 1967–1969 kan ta ut tidligpensjonen *før* særaldersgrensen dersom summen av alder og opptjeningstid er minst 85 år. Det går fram av avtalen at 85-årsregelen skal fases ut, og at denne utfasingen skal skje gradvis for årskullene 1967–1969. Som følge av den gradvise utfasingen av 85-årsregelen, kan årskullene 1967–1969 ta ut tidligpensjon tidligere enn fire år før alderen for ubetinget rett til alderspensjon fra folketrygden. De som er født i 1970 eller senere kan ta ut tidligpensjonen tidligst fra særaldersgrensen på 63 år.
+
+I høringsnotatet foreslo departementet at tidligpensjonen gis fra og med måneden etter melding om uttak blir gitt, likevel tidligst fra måneden etter at retten til tidligpensjon inntreffer. Tidligpensjonen utbetales til og med måneden medlemmet når alderen for ubetinget rett til alderspensjon fra folketrygden. Dersom et medlem som mottar tidligpensjon dør før alderen for ubetinget rett til alderspensjon fra folketrygden, foreslo departementet at tidligpensjonen opphører ved utgangen av måneden etter måneden medlemmet døde.
+
+Departementet foreslo videre at tidligpensjonen skal falle bort ved uttak av pensjon etter kapittel 5 a.
+
+Departementet foreslo at endringer i tidligpensjonen får virkning fra måneden etter at den begivenhet som førte til endringen fant sted. Dette vil kunne være endringer som følge av økt eller redusert pensjonsgrad.
+
+Aldersgrense 60 år
+
+Det går fram av avtalen at tidligpensjonen gis i sju år *fra* aldersgrensen for de som er født i 1973 eller senere. Videre går det fram at årskullene 1970–1972 kan ta ut tidligpensjon *før* særaldersgrensen dersom summen av alder og opptjeningstid er minst 85 år.
+
+Det går også fram av avtalen at hvor lenge før særaldersgrensen tidligpensjonen kan tas ut, fases ut månedlig slik at de som er født i januar 1970 kan ta ut tidligpensjon inntil tre år før særaldersgrensen, mens de som er født i februar 1970 kan ta ut tidligpensjonen inntil to år og elleve måneder før aldersgrensen, osv.
+
+I høringsnotatet foreslo departementet at tidligpensjonen gis fra og med måneden etter melding om uttak blir gitt, likevel tidligst fra måneden etter at retten til tidligpensjon inntreffer. Tidligpensjonen utbetales til og med måneden medlemmet når alderen for ubetinget rett til alderspensjon fra folketrygden. Dersom et medlem som mottar tidligpensjon dør før alderen for ubetinget rett til alderspensjon fra folketrygden, foreslo departementet at tidligpensjonen opphører ved utgangen av måneden etter måneden medlemmet døde.
+
+Departementet foreslo videre at tidligpensjonen skal falle bort ved uttak av pensjon etter kapittel 5 a.
+
+Departementet foreslo at endringer i tidligpensjon får virkning fra måneden etter at den begivenhet som førte til endringen fant sted. Dette vil kunne være endringer som følge av økt eller redusert pensjonsgrad.
+
+### Høringsinstansenes syn
+
+*Gabler* mener det bør vurderes å åpne for å innvilge tidligpensjon tilbake i tid. Gabler mener at ettersom uttak av tidligpensjon krever nedtrapping eller fratredelse, kan retten til tidligpensjon bli avdekket etterskuddsvis – noe som tilsier at det bør kunne gis tidligpensjon med tilbakevirkende kraft.
+
+*Kommunal Landspensjonskasse* (KLP) viser til departementets forslag i § 26 u om at endringer i tidligpensjon får virkning fra måneden etter at den begivenhet som førte til endringen fant sted. KLP påpeker at dette vil være praktisk ved endringer i tidligpensjonsgraden, men konstaterer at dersom en person mottar 100 prosent tidligpensjon, og begynner å arbeide fullt igjen, vil vedkommende motta både full lønn og pensjon i en hel måned.
+
+Mange høringsinstanser har hatt innvendinger mot de foreslåtte reglene om utfasingen av 85-årsregelen. *Akershus fylkeskommunes eldreråd, Pensjonistpartiet Akershus, Pensjon for alle, NTL Samfunnssikkerhet og beredskap, Befalets Fellesorganisasjon* (BFO), og *Politiets Fellesforbund*, blant andre, mener at utfasingen av 85-årsregelen kommer for tidlig for de som er nær særaldersgrensen. Flere instanser mener at det er inngripende i opptjente rettigheter og i systemets forutsigbarhet, og at dette kan utgjøre et brudd mot Grunnloven § 97. Mange instanser oppfordrer departementet til å vurdere lengre og bedre overgangsordninger.
+
+Pensjon for alle, NTL Samfunnssikkerhet og beredskap, Akershus fylkeskommunes eldreråd og Pensjonistpartiet Akershus mener det er uheldig at utfasingen av 85-årsregelen kommer samtidig med innfasing av normert aldersgrense. De mener dette vil føre til flere uføre og skape uverdige avganger. Politiets Fellesforbund uttrykker at den samlede negative effekten av endringene vil kunne avdempes betydelig ved å øke fribeløpet for annen inntekt for årskullene 1970–1973 for de med særaldersgrense 60 år og årskullene 1967–1970 for de med særaldersgrense 63 år. Pensjonistpartiet Akershus påpeker at årskullene fra 1970 og yngre kommer i en krevende situasjon og mener at man må vurdere overgangsordninger for årskullene frem til og med 1979.
+
+BFO påpeker at personellet i Forsvaret har planlagt å kunne gå av med 85-årsregelen når de søkte om tilsetting i Forsvaret, og at mange kan ha tatt seg en ny yrkesutdannelse i den hensikt å være konkurransedyktige i privat sektor. BFO mener at personell som fratas muligheten til å avgå ved bruk av 85-årsregelen (årskullene 1970–1972 og 1973–1979) skal kunne gis permisjon uten lønn i inntil 3 år frem til særaldersgrensen for stillingen, uten plikt til å gjeninntre. De mener at permisjonstiden i slike tilfeller skal medregnes i tjenestetiden.
+
+Samtidig uttrykker *Forsvaret* at utfasingen av 85-års regelen vil kunne være positivt for Forsvarets kompetansesituasjon. De mener at det kan gi Forsvaret tilgang til potensielt 600 flere ansatte, men påpeker at det også kan være en utfordring når endringer i særaldersgrensen gjøres på kort varsel. *Samfunnsbedriftene* mener at Molanderutvalgets rapport i 2023 argumenterte godt for å avvikle 85-årsregelen og støtter forslaget om å fase ut denne.
+
+### Departementets vurdering og forslag
+
+Avtalen fra 25. august 2023 er utformet som en langsiktig løsning for personer med særaldersgrense. Avtalen ivaretar dette ved at særaldersgrensene økes i takt med økende levealder, i samsvar med økningen i aldersgrensen for ubetinget rett til uttak av alderspensjon fra folketrygden, og ved å forskyve utbetalingsperioden for tidligpensjonen.
+
+I tråd med gjeldende regelverk foreslo departementet i høringsnotatet at tidligpensjonen gis fra og med måneden etter melding om uttak blir gitt, og tidligst fra måneden etter at retten til tidligpensjon inntreffer. Departementet foreslo at tidligpensjonen gis til og med måneden medlemmet når alderen for ubetinget rett til alderspensjon fra folketrygden. Ingen høringsinstanser har hatt merknader til dette og departementet opprettholder forslaget.
+
+Det vises til lovforslaget i Statens pensjonskasseloven § 26 u første ledd.
+
+Departementet foreslo at endringer i tidligpensjon får virkning fra måneden etter at den begivenhet som førte til endringen fant sted. *Kommunal Landspensjonskasse* (KLP) påpeker at en person som mottar 100 prosent tidligpensjon, og begynner å arbeide fullt igjen, vil kunne motta både full lønn og pensjon i en hel måned. Departementet mener at forslaget er i tråd med gjeldende regelverk for når endringer i alderspensjon får virkning. Departementets opprettholder derfor forslaget.
+
+Det vises til lovforslaget i Statens pensjonskasseloven § 26 u tredje ledd.
+
+Departementet viser til synpunkter om at det bør åpnes for å innvilge tidligpensjon tilbake i tid. Regelverket åpner for at det også kan gis tidligpensjon til personer som har sluttet i medlemspliktig stilling, og det er altså ingen forutsetning for å motta tidligpensjon at pensjoneringen skjer fra en medlemspliktig stilling. Det innføres avkorting mot inntekt, og departementet mener at dette tilsier at den enkelte må ta en vurdering av når de ønsker å få utbetalt tidligpensjon. Departementets vurdering er at det ikke skal kunne gis tidligpensjon tilbake i tid.
+
+Det går fram av avtalen fra 25. august 2023 at 85-årsregelen skal utfases gradvis for årskullene 1967–1969 med aldersgrense 63 år, og for årskullene 1970–1972 med aldersgrense 60 år. Flere av høringssvarene, inkludert et flertall fra privatpersoner, har likevel hatt innvendinger mot de foreslåtte reglene om utfasingen av 85-årsregelen. De mener at det er inngripende i opptjente rettigheter og kan utgjøre et brudd mot Grunnloven § 97.
+
+Departementet har gjort en grunnlovsvurdering av de forholdene som høringsinstansene mener kan være i strid med Grunnloven § 97, inklusive avviklingen av 85-årsregelen. Grunnlovsvurderingen i sin helhet kan leses i kapittel 11. Departementets vurdering er at avviklingen av 85-årsregelen ikke er i strid med Grunnloven § 97. Departementet opprettholder forslagene om utfasingen av 85-årsregelen.
+
+Det vises til lovforslaget i Statens pensjonskasseloven § 26 o tredje ledd og § 26 p tredje ledd.
+
+Departementet har merket seg at flere instanser har pekt på at et økt fribeløp vil kunne dempe den opplevde negative effekten av endringene for de første årskullene som berøres av nye regler for tidligpensjon. Departementet viser til avtalen som ble inngått den 13. januar 2025 mellom regjeringen og partene i offentlig sektor om økt fribeløp for ny tidligpensjon. Avtalen innebærer at fribeløpet for avkorting av ny tidligpensjon økes fra 1 G til 2,7 G. Økningen i fribeløpet gjelder alle som skal ha ny tidligpensjon, dvs. årskull født fra og med 1970 med aldersgrense 60 år og årskull født fra og med 1967 med aldersgrense 63 år.

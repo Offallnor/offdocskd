@@ -1,913 +1,604 @@
-# NOU 2016: 13, del 12 av 16 (side 130–139)
+# NOU 2016: 13, del 12 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/0e793719-nou-2016-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-13/id2510437/
 - Original-PDF: https://www.regjeringen.no/contentassets/3f93bdb31a5942fba104512d4a3b8f00/no/pdfs/nou201620160013000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 130]
+1.  Bygger arbeidstakers ønske om reservasjon mot å utføre bestemte arbeidsoppgaver på en dyp og viktig samvittighetsoverbevisning?
 
-130
+<!-- -->
 
-Kapittel 9
+1.  Kan reservasjon finne sted uten at det er inngripende for tredjepart?
 
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
+2.  Er reservasjon gjennomførbart i praksis uten for store ulemper for arbeidsgiver og kollegaer?
 
-denne diskusjonen da ville ha vært den direkte
-effekten for den abortsøkende kvinnen, heller enn
-symboleffekten.
-Noe annerledes stiller det seg dersom en borgerlig vigsler skulle få aksept for ikke å vie likekjønnede par. Riktignok innebærer ikke dette heller noen tilslutning til den etiske motstanden mot
-likekjønnede ekteskap som ligger bak for vigsleren, men i likhet med tilfellet som gjaldt kirkelige
-vigslere kan ikke dette ses løsrevet fra den identitetspolitiske konteksten om anerkjennelse av
-homofile. Dersom staten godtar at en av dens offisielle representanter får fritak fra å likebehandle
-borgere i samsvar med loven, er den symbolske
-effekten sterkere. Da er det i egenskap av å være
-håndhever av statens lover, vigsleren får unntak
-fra å følge lovene. Det gir en sterkere symbolsk
-effekt, og særlig når de som opplever krenkelsen
-har vært utsatt for mange negative opplevelser på
-grunn av den legningen som statens representant
-implisitt sier ikke bør gi grunnlag for ekteskap.
-Utvalget vil framheve at ved innvilgelse av
-reservasjonsadgang aksepterer man implisitt at
-oppfatningen til den som ønsker å reservere seg
-er plausibel, dyp og viktig. En innvilgelse av reservasjon er en anerkjennelse av at oppfatningen er
-et syn som forekommer i vårt pluralistiske samfunn, og videre at oppfatningen er en holdning
-som det er akseptabelt å ha i vårt liberale demokrati. Innvilgelse av reservasjon signaliserer ikke
-tilslutning til den moraloppfatningen som reservasjonen uttrykker. Etter utvalgets oppfatning ligger
-det ikke noe mer i toleranse for reservasjon enn
-en anerkjennelse av at holdningen finnes i samfunnet, og en aksept av at noen har denne holdningen. Dette innebærer derfor ikke nødvendigvis
-noen moralsk problematisk «godkjenning» av den
-oppfatningen som ligger til grunn for reservasjonsønsket. Det ligger i sakens natur at reservasjonsønsker, som jo typisk er minoritetsoppfatninger,
-for en tredjepart kan framstå ikke bare som fremmedartede og søkte, men til og med som støtende. Hvis vi som liberalt demokrati mener alvor
-med samvittighetsfriheten som vern også av
-minoriteters moralske integritet, må borgerne
-tåle et visst monn av ubehag i møte med visse
-reservasjonsønsker.
-Imidlertid vil noen reservasjonsønsker kunne
-oppfattes som mer enn moralsk begrunnet
-vegring mot å utføre en oppgave. Dersom reservasjonen er mot handlinger som kan knyttes til personers grunnleggende identitet, slik som likekjønnede ekteskap, kan den symbolske effekten ha
-betydning som må tas i betraktning. Det gjelder
-særlig dersom den som reserverer seg har en stil-
+Utvalget legger som nevnt til grunn at det første kriteriet alltid må være oppfylt for at det i det hele tatt skal gi mening å vurdere samvittighetsbasert reservasjon. Kravet om reservasjon står sterkere dersom flere kriterier er oppfylt. Dersom alle de tre kriteriene er oppfylt mener utvalget det bør legges til rette for reservasjon.
 
-ling som representant for myndighetene. Det er
-derfor viktig at den som reserverer seg, reserverer seg mot den aktuelle handlingen eller arbeidsoppgaven fordi han eller hun finner denne
-moralsk problematisk, og ikke mot å yte tjenester
-til personen på grunn av dennes karakteristika
-(kjønn, seksuell orientering, politisk syn, etc.).
-Men som sagt er det ikke alltid mulig å opprettholde dette skillet absolutt.
+Hvordan en samvittighetskonflikt i arbeidslivet skal håndteres vil variere avhengig av om det er snakk om en arbeidstaker, selvstendig næringsdrivende eller arbeidssøker som opplever en samvittighetskonflikt.
 
-9.4.3
+En arbeidstaker er i utgangspunktet bundet av den arbeidskontrakten han eller hun har inngått med arbeidsgiver og undergitt arbeidsgivers styringsrett. Lovregler kan imidlertid sette grenser for arbeidsgivers styringsrett. Diskrimineringsregelverket, arbeidsmiljøloven, menneskerettslige forpliktelser og bestemmelsen om reservasjonsrett i abortloven er eksempler på slike.
 
-Samvittighetsfritak – diskriminering
-og krenkelse
-Som nevnt i kapittel 3 finnes det situasjoner der et
-reservasjonsønske bygger på en oppfatning som
-er dyp og viktig for personen, men der oppfatningen like fullt er uakseptabel i et demokratisk samfunn. For eksempel vil et reservasjonsønske som
-er fundert i oppfatninger som dypest sett er rasistiske eller nazistiske være så uakseptable og
-uetiske at de må avvises, selv om de er aldri så
-dype og viktige for personen.
-Et historisk eksempel er lektor Olav Hoaas,
-som i 1978 ble avskjediget fra stillingen sin som
-lektor ved Stokmarknes gymnas på grunn av en
-rekke rasistiske uttalelser og benektelse av
-jødeutryddelsene i undervisningen. Saken endte i
-rettsvesenet som en avskjedssak og gikk til Høyesterett, der det ble fastslått at selv om Hoaas
-hadde rett til å fremme slike synspunkter i offentligheten, kunne han ikke undervise i strid med
-skolens formål.2 Det ble gitt rom for at han kunne
-uttrykke egne oppfatninger også i undervisningen, så lenge de ble presentert som det, og balansert mot andre oppfatninger, men han hadde ikke
-frihet til å presentere åpenbare feilaktige eller
-misvisende påstander som fakta. Det ville blant
-annet gjelde Holocaust-benektelse, raseoverlegenhet og negative følger av «raseblanding». Selv om
-Hoaas ikke påberopte seg samvittighetsfrihet, er
-som tidligere påpekt, ytringsfrihet nært beslektet.
-Hans rasistiske undervisning kan derfor tenkes
-som en reservasjon mot å undervise i noe som
-han mente var usant. Avskjedigelsen viste at det
-ikke var akseptabelt den gang, og utvalget ser
-ingen grunn til å trekke grensene for samvittighetsfrihet videre enn det Høyesterett gjorde i
-denne saken for spørsmål som dreier seg om
-rasistiske ytringer i undervisning.
-Er det rett å tolerere reservasjonsønsker når
-tredjepart mener de på grunn av dette utsettes for
-diskriminering og opplever det som krenkende?
-«Diskriminering» og «krenkelse» er potente
-2
+Selvstendig næringsdrivende er ikke underlagt arbeidsavtale eller arbeidsgivers styringsrett, og kan i utgangspunktet inngå de avtaler han eller hun ønsker så lenge de ligger innenfor rammene av annen lovgivning. Eksempler på lover som setter slike rammer er diskrimineringsregelverket og apotekloven. Også oppdragskontraktene kan sette grenser for hva en selvstendig næringsdrivende kan og ikke kan reservere seg mot å utføre.
+
+Enkelte selvstendige næringsdrivende har inngått kontrakter med staten om å utføre oppgaver på vegne av det offentlige. Det gjelder for eksempel fastleger og faste forsvarere. De vil være bundet av de kontraktene de har inngått med myndighetene og er pliktige til å utføre de oppgavene som må utføres for at det offentlige kan sies å opprettholde et tilstrekkelig tjenestetilbud.
+
+1.  **Arbeidstakere**
+
+*Tiltak før eventuelle samvittighetskonflikter*
+
+Utvalget anbefaler altså at det ikke vedtas noen generell lovgivning som regulerer samvittighetsnektelser i arbeidslivet, men at slike konflikter heller løses konkret på den enkelte arbeidsplassen.
+
+Samvittighetskonflikter kan oppstå på mange ulike typer arbeidsplasser. Det kan derfor være hensiktsmessig at arbeidsgivere tenker gjennom muligheten for at enkelte arbeidstakere vil kunne få samvittighetskvaler knyttet til oppgaver på arbeidsplassen, og hvordan slike konflikter kan håndteres og løses. Ulike samvittighetskonflikter må kanskje behandles ulikt, men uansett vil det være til god hjelp for en arbeidsgiver om han eller hun har forberedt seg på hvilke samvittighetskonflikter som kan være sannsynlige, hvem som kan bidra med kunnskap og hvordan en eventuell konflikt kan håndteres.
+
+Dersom det dreier seg om religiøse ritualer og praksiser, kan det for eksempel være aktuelt å ta kontakt med det aktuelle tros- eller livssynssamfunnet for å få innspill til løsninger. Det kan også tenkes at arbeidsgiver- og bransjeorganisasjoner eller andre virksomheter som driver med det samme kan bidra med kunnskap og forslag til løsninger.
+
+I et stadig mer flerkulturelt samfunn vil det antakelig oftere enn tidligere dukke opp tilfeller hvor noen arbeidstakere vil ha problemer med å utføre enkelte arbeidsoppgaver av samvittighetsårsaker. Noen arbeidsplasser har utarbeidet egne retningslinjer for hvordan arbeidstakerne forventes å opptre på arbeidsplassen for å sikre et inkluderende arbeidsmiljø hvor arbeidstakerne både har respekt for hverandre og kundene, og hvor det ikke skal forekomme diskriminering hverken av andre ansatte, kunder eller andre tredjeparter. Det er også utgitt flere publikasjoner for å bedre kunnskapen om det kulturelle mangfoldet. Blant annet har Samarbeidsrådet for tros- og livssynssamfunn (STL) utarbeidet brosjyren Livsfaseriter, religions- og livssynspolitiske utfordringer i Norge[^407] og Likestillings- og diskrimineringsombudet (LDO) har utarbeidet en håndbok for arbeidslivet om Religion på arbeidsplassen.[^408] Også flere tros- og livssynssamfunn har utgitt brosjyrer og laget nettsider med relevant informasjon. Utvalget mener det er naturlig at også samvittighetskonflikter på arbeidsplassen tas opp i slike veiledninger. Det samme gjelder veiledningsmateriell som utarbeides av partene i arbeidslivet.
+
+Mange samvittighetskonflikter oppstår som følge av en persons religion og livssyn. Det betyr at den det gjelder ikke nødvendigvis har noe imot, eller i hvert fall aksepterer, at en annen utfører oppgaven. Det kan også tenkes tilfeller der en person mener oppgaven strider mot lover, avtaler eller den allmenne moral, og at den egentlig ikke bør utføres i det hele tatt. I visse tilfeller vil det da være naturlig å etablere en varslingssak. Det vil si at arbeidstaker varsler arbeidsgiver om at det bør vurderes om forhold i virksomheten er kritikkverdige. For slike varslingssaker er det utarbeidet egne prosedyreregler i arbeidsmiljøloven. Det er ikke gitt at en arbeidstaker kan nekte å utføre en oppgave han eller hun mener er kritikkverdig.
+
+*Prosess*
+
+I utgangspunktet ønsker arbeidstakere å gjøre en god jobb, slik at både arbeidsgivere, kollegaer og andre blir fornøyde. Når en samvittighetskonflikt oppstår for en arbeidstaker, og vedkommende må be seg fritatt fra oppgaver som det i utgangspunktet forventes at vedkommende skal gjøre, kan dette oppleves som en vanskelig situasjon. Utvalget mener derfor at det er viktig å håndtere slike situasjoner med varsomhet. Selv om det som oftest er nødvendig at arbeidstaker selv tar initiativ til en prat med arbeidsgiver om situasjonen, og kanskje også har noen ideer om mulige løsninger, er det viktig at arbeidsgiver reagerer med forståelse og respekt. For at situasjonen skal bli minst mulig belastende for arbeidstakeren, bør det være opp til ham eller henne hvem som skal involveres, enten det dreier seg om tillitsvalgte eller representanter fra andre organisasjoner.
+
+Utvalget mener generelt at det vil være best at situasjonen løses på lavest mulig nivå, med færrest mulig involverte. Dersom arbeidstakeren har behov for støtte eller for å belyse konsekvenser for kollegaer, kan tillitsvalgte involveres i samtalen.
+
+Dersom situasjonen ikke lar seg løse, kan det være aktuelt å trekke inn ekstern bistand. Dette kan for eksempel være representanter for et tros- eller livssynssamfunn, juridisk bistand eller arbeidstaker- og arbeidsgiverorganisasjoner.
+
+Det er viktig at behandlingen av samvittighetskonflikter på arbeidsplassen kan gjøres på en tillitsfull, fleksibel og grundig måte slik at både arbeidstakeren og arbeidsgiveren kan leve med resultatet uansett hva det måtte bli.
+
+*Anvendelse av utvalgets kriterier*
+
+Utvalget anbefaler at arbeidsgivere vurderer ønsker om reservasjon i lys av de tre kriteriene utvalget har utformet, se punkt 11.3.1.
+
+Det kanskje mest utfordrende for en arbeidsgiver å vurdere når en arbeidstaker ber om fritak fra å utføre en arbeidsoppgave, vil være hvorvidt dette dreier seg om en dyp og viktig samvittighetsoverbevisning. Dette legger et ansvar både på arbeidstakere og arbeidsgivere. Arbeidstaker har et moralsk ansvar for ikke å påberope seg samvittighetskonflikter i utide. Behovet må være reelt og betydelig og henvisningen til samvittighetsoverbevisningen må være oppriktig. Arbeidsgivere har et tilsvarende moralsk ansvar for å forsøke å forstå arbeidstakerens framstilling av samvittighetskonflikten han eller hun er i.
+
+I utgangspunktet vil det være et inngrep i arbeidstakers privatliv å pålegge ham eller henne å fortelle om sine overbevisninger eller livssyn. Utvalget mener likevel det stiller seg annerledes når det er arbeidstaker som krever tilpasninger på denne bakgrunnen. Arbeidstakeren må derfor redegjøre for bakgrunnen for sitt reservasjonsønske og etter beste evne forsøke å gjøre dette forståelig for arbeidsgiveren. Ettersom utvalget legger til grunn at det bare er dype og viktige samvittighetsoverbevisninger som kan danne grunnlag for innfrielse av et reservasjonsønske, må arbeidstakerens redegjørelse være egnet til å overbevise arbeidsgiveren om at det faktisk er snakk om en slik situasjon. Det kan ikke utelukkes at det i noen tilfeller kan være vanskelig for en arbeidstaker å gi en tilstrekkelig overbevisende redegjørelse, og at både religiøse og kulturelle forskjeller kan bidra til det. I så fall vil det være til stor nytte dersom arbeidstaker kan henvende seg til relevante tros- og livssynssamfunn, interesserorganisasjoner, andre kollegaer, tillitsvalgte eller arbeidstakerorganisasjoner og andre som kan hjelpe i en slik situasjon.
+
+Arbeidsgiveren plikter på sin side å lytte til arbeidstakerens forklaring og vise forståelse for at reservasjonsønsket kan grunne i en dyp og viktig samvittighetsoverbevisning. Det kan imidlertid tenkes at for dårlig kunnskap om andres religion og livssyn medfører at det blir vanskelig å forstå at et reservasjonsønske skyldes en dyptgripende og viktig samvittighetskonflikt. Det kan også tenkes at en arbeidsgiver vil være grunnleggende uenig i at reservasjonsønsket kan skyldes en så dyptgripende og viktig samvittighetskonflikt som arbeidstaker hevder. Arbeidsgiver kan også være grunnleggende politisk uenig i arbeidstakerens holdning til et omstridt område, som for eksempel vielse av likekjønnede og selvbestemt abort.
+
+Utvalget anbefaler at det legges stor vekt på arbeidstakers forklaring, også der den kan være vanskelig å forstå. Utvalget mener det må påhvile et gjensidig ansvar på arbeidstaker og arbeidsgiver for å gjøre forklaringen forståelig.
+
+Arbeidstakeren bør, dersom arbeidsgiver ønsker det, aktivt bidra med forslag og ideer for hvordan et reservasjonsønske kan løses i praksis uten at det går ut over arbeidsgiver, kollegaer eller tredjeparter. I en virksomhet med et godt arbeidsmiljø, gode rutiner for partssamarbeid, en kreativ grunninnstilling og et ønske om smidige løsninger mener utvalget at arbeidsgiver og arbeidstaker bør kunne drøfte seg fram til noen løsninger som så kan måles opp mot kriterium to og tre.
+
+Et tegn på at det dreier seg om en dyp og viktig samvittighetsoverbevisning for arbeidstaker er at han eller hun er villig til å påta seg mindre attraktive oppgaver. Det kan dessuten kompensere for ulemper for arbeidsgiver og kollegaer. At arbeidstaker vurderer å slutte i jobben dersom vedkommende må utføre arbeidsoppgaven, er også et viktig tegn på at det dreier seg om en dyp og viktig samvittighetsoverbevisning.
+
+Dersom det faktisk foreligger en dyp og viktig samvittighetsoverbevisning, vil hensynet til tredjepart være det viktigste. Jo større konsekvenser reservasjonen vil få for tredjepart, jo mer svekkes grunnen for å gi reservasjon. Konsekvensene for tredjepart vil kunne variere fra vesentlige inngrep i tredjeparts rettigheter, til at tredjeparter knapt merker at noen har reservert seg mot en oppgave. At en kunde ikke kan betale for alkohol i en av flere kasser i en butikk fordi en ansatt ikke ønsker å selge alkohol av samvittighetsgrunner, kan neppe sies å gå mer utover kundene enn dersom den ansatte i kassa er under 18 år og av den grunn ikke kan selge alkohol. Det samme må kunne sies om en apotekansatt som overlater til en kollega å veilede om prevensjonsmidler uten å tilkjennegi sitt syn på for eksempel spiral. Dersom den samme apotekansatte derimot hadde gitt uttrykk for at spiral er et uetisk prevensjonsmiddel, ville det kunne oppleves støtende for kunden. Dersom reservasjon medfører at kunden ikke får den varen han eller hun ellers ville ha fått, eller må vente på å få den på grunn av reservasjonen, vil det medføre en større og kanskje uakseptabel ulempe for kunden. At en person ikke får den lovbestemte rettigheten han eller hun har krav på, eller ikke får den innen rimelig tid, er åpenbart en alvorlig og uakseptabel konsekvens av reservasjon.
+
+At en arbeidstaker ønsker å reservere seg mot å utføre en oppgave medfører at kollegaene må gjøre jobben. Ofte vil arbeidet kunne omorganiseres på en slik måte at det ikke innebærer nevneverdige problemer for andre. I andre tilfeller kan det medføre en betydelig økt arbeidsbyrde på kollegaer og de kan få mindre kapasitet til andre mer attraktive arbeidsoppgaver. I mange sammenhenger vil det for eksempel kunne legges til rette for at en ansatt i en matvarebutikk som har behov for å reservere seg mot å håndtere svinekjøtt og alkohol, får jobbe i fiskedisken, fylle på varer eller utføre annet arbeid som foregår i en butikk. Hvis ansettelsen gjelder sesongarbeid før jul på et slakteri er det kanskje vanskeligere å tenke seg at en ansatt skal kunne reservere seg mot å håndtere svinekjøtt.
+
+Det kan også tenkes at kollegaer må ta på seg en større andel av moralsk problematiske arbeidsoppgaver. Dersom en arbeidstaker har behov for å reservere seg av samvittighetsgrunner som grunner seg på religion, vil ofte andre ikke ha tilsvarende dype og viktige samvittighetsoverbevisninger knyttet til den oppgaven. Dersom det dreier seg om mer allmenne etiske dilemmaer som for eksempel utføring av abort, er det ikke vanskelig å tenke seg at det kan være følelsesmessig belastende å utføre en større andel aborter som følge av andres reservasjon, selv om man selv ikke ønsker å reservere seg. Reservasjon vil således også kunne føre til et dårligere kollegialt arbeidsmiljø.
+
+Reservasjon kan også være til ulempe for arbeidsgiver. At en eller flere reserverer seg mot å utføre enkelte oppgaver kan for eksempel medføre økte administrative og økonomiske konsekvenser for arbeidsgiver, som kanskje må endre på enkelte arbeidsrutiner eller spesialtilpasse turnuser og arbeidsplaner. Dersom reservasjon fører til at det ikke kan tilbys en gitt tjeneste i et tidsrom, kan det også føre til tapte inntekter for arbeidsgiver.
+
+Når arbeidstaker har bedt om reservasjon og redegjort for sine dype og viktige samvittighetsgrunner er det viktig at arbeidsgiver har en positiv tilnærming og fatter en avgjørelse etter beste skjønn. Dersom en arbeidstaker til stadighet skulle påberope seg samvittighet som grunnlag for reservasjon, må arbeidsgiver kunne kreve noe mer, jf. ovenfor hvor det framgår at en arbeidstaker ikke må fremme krav eller ønske om reservasjon i utide. Det samme gjelder ved mistanke om misbruk. I slike tilfeller vil resultatet kunne bli oppsigelse av arbeidstaker som følge av ordrenekt heller enn tilrettelegging for reservasjon som følge av en dyp og viktig samvittighetsgrunn.
+
+Dersom arbeidsgiver kommer til at det ikke er mulig å tilrettelegge for reservasjon, vil det få store konsekvenser for arbeidstaker. Arbeidstakeren kan velge å utføre oppgaven og dermed handle i strid med sin samvittighet. Alternativt kan arbeidstakeren føle seg tvunget til å avslutte arbeidsforholdet ved å si opp. Arbeidstaker kan også nekte å utføre arbeidsoppgaven, noe som kan føre til at han eller hun blir sagt opp. I noen tilfeller kan en god og respektfull prosess der arbeidstaker opplever å bli tatt på alvor, føre til at arbeidstaker endrer syn på hvorvidt det er mulig for vedkommende å utføre den aktuelle arbeidsoppgaven. Utvalget mener også at en god og respektfull prosess der arbeidstakeren opplever å bli tatt på alvor kan føre til at en eventuell avslutning av arbeidsforholdet oppleves som akseptabel.
+
+Uansett om reservasjonskravet fører til at arbeidsforholdet avsluttes eller ikke, mener utvalget at konsekvensene er så store for arbeidstakeren at det er viktig at arbeidsgiver begrunner hvorfor det ikke kan legges til rette for reservasjon. Dersom det ender med oppsigelse, følger det av arbeidsmiljøloven at arbeidstaker kan kreve at arbeidsgiver oppgir begrunnelsen for oppsigelsen.
+
+*Politi, tollvesen, domstol og forsvar*
+
+For noen grupper arbeidstakere som utøver makt på vegne av staten har det vært omfattende debatter om bruk av religiøse plagg og symboler. Dette gjelder uniformerte arbeidstakere i forsvaret, politiet og tollvesenet, samt dommere.[^409] Begrunnelsen for at det eventuelt skal settes strengere rammer for ansattes bruk av religiøse symboler og plagg for akkurat disse arbeidstakerne, har særlig vært hensynet til nøytralitet. Spørsmålet er om dette hensynet bør føre til at adgangen til reservasjon mot utførelse av arbeidsoppgaver bør være snevrere for disse arbeidstakerne.
+
+Etter utvalgets mening vil en vid reservasjonsadgang for disse gruppene kunne svekke inntrykket av militærets, politiets, tollvesenets eller domstolenes rolle som nøytrale håndhevere av loven. En reservasjonsadgang vil nettopp innebære at vedkommende arbeidstaker ikke alltid utfører de arbeidsoppgavene som ligger til stillingen, og dermed ikke er en lojal håndhever av loven *i alle tilfeller*. Det at en arbeidstaker ønsker å reservere seg mot en arbeidsoppgave innebærer selvsagt ikke at vedkommende ikke utfører jobben sin samvittighetsfullt, men utad kan det framstå som at statens utøvere av makt ikke er nøytrale.
+
+Som det framgår av eksempelet i punkt 8.12 om politiet, mener utvalget at spørsmål om samvittighetsfritak for offentlig ansatte i et demokrati generelt sett bør behandles med åpenhet. Det angår borgernes tillit til myndighetenes nøytralitet i moralske kontroverser og de offentlig ansattes lojalitet overfor lovverket. Utvalget mener derfor at denne gruppen av arbeidstakere må ha en snevrere adgang til reservasjon, og det bør være spesielt sterke grunner for samvittighetsbaserte fritak for disse gruppene av arbeidstakere.
+
+1.  **11.3.3 Selvstendig næringsdrivende**
+
+Utvalgets mandat ber først og fremst om en vurdering av samvittighetsfrihet for arbeidstakere ved utførelse av arbeidsoppgaver, og utvalget har derfor konsentrert seg om ordinære ansettelsesforhold. Mandatet viser imidlertid også til at oppdragsforhold, som for eksempel fastlegeordningen, kan føre til at samvittighetskonflikter oppstår også for selvstendig næringsdrivende. Selvstendig næringsdrivende kan i utgangspunktet inngå eller la være å inngå de avtaler de ønsker så lenge de ligger innenfor rammene av annen lovgivning, herunder diskrimineringsregelverket. For selvstendig næringsdrivende som har en løpende kontrakt vil det imidlertid kunne oppstå samvittighetskonflikter som er sammenlignbare med dem arbeidstakere kan oppleve. Næringsdrivende er riktignok verken underlagt noen arbeidsavtale eller arbeidsgivers styringsrett, men vil like fullt være bundet av de avtaler de inngår. Oppdragsavtaler vil, i motsetning til arbeidsavtaler, i utgangspunktet inngås mellom likeverdige parter, og det avtalerettslige rammeverket er derfor noe annerledes. Som det framgår av kapittel 6, kan også annen lovgivning begrense handlefriheten til selvstendig næringsdrivende.
+
+Enkelte kontrakter som inngås med myndighetene innebærer at den selvstendig næringsdrivende skal utføre oppgaver på vegne av det offentlige. Slike kontrakter kan stille særlige krav til hvordan, og av hvem, oppgavene skal utføres. Etter gjeldende rett kan blant annet fastleger og faste forsvarere anmode om å overlate saker til andre for eksempel på grunn av at andre har annen og bedre kompetanse eller kapasitet. Når det gjelder fastleger, er det som tidligere nevnt fastslått av Helse- og omsorgsdepartementet at det ikke er mulig å omfordele saker med henvisning til samvittighet. For fastleger som hadde problem med henvisning til abort, er denne saken løst ved at de ikke lenger henviser til abort. Imidlertid kan det tenkes andre situasjoner hvor samvittighetskonflikter kan oppstå for næringsdrivende som utfører oppgaver på vegne av det offentlige.
+
+Utvalget oppfordrer til at myndighetene, ved utforming av slike avtaler, tar stilling til hvorvidt det er mulig å gi et forsvarlig tilbud og samtidig gi anledning til de selvstendig næringsdrivende som har inngått kontrakten å ivareta sin egen samvittighet.
+
+Generelt mener utvalget at de samme prinsippene som er lagt til grunn for arbeidstakeres samvittighetsfritak bør gjelde også for selvstendig næringsdrivende med kontrakt med offentlige og private oppdragsgivere.
+
+1.  **11.3.4 Arbeidsledige**
+
+Personer som er arbeidsledige på grunn av samvittighetskonflikter kan i hovedsak deles inn i to grupper; de som har måttet slutte i et arbeidsforhold fordi det ikke var mulig å tilrettelegge for reservasjon og de som ikke kan ta en jobb fordi den vil medføre oppgaver vedkommende ikke kan gjøre av samvittighetshensyn. Dersom den arbeidsledige selv har sluttet i sitt tidligere arbeid eller nekter å søke eller ta nytt arbeid «uten rimelig grunn», vil vedkommende bli ilagt økonomiske sanksjoner i form av minst 12 ukers suspensjon av dagpenger. NAV har i sitt rundskriv lagt til grunn at en arbeidstaker som har «sluttet i arbeidsforholdet fordi han/hun ikke fikk tilpasset arbeidsavtale forenlig med tro, ønsker eller livssyn» vanskelig kan anses som å ha en slik «rimelig grunn».[^410]
+
+Utvalget mener at dersom samfunnet skal ivareta samvittighetsfriheten i arbeidslivet, må den ivaretas også når en person søker arbeid eller har mistet jobben som følge av en samvittighetskonflikt. Konsekvensene for den arbeidsledige ved ikke å få dagpenger er stor, ettersom han eller hun mister hele sitt økonomiske livsgrunnlag for en lengre periode. Dette utgjør utvilsomt et stort inngrep. Argumentet som kan brukes overfor arbeidstakere med samvittighetskvaler om at «du kan da bare si opp», står svakt når konsekvensen er både tap av inntekt og kompenserende trygdeytelser inntil vedkommende finner passende arbeid. Det tilsier at samvittighetsgrunner også må tillegges vekt i denne sammenhengen.
+
+Utvalget mener at Trygderettens praksis som refereres i punkt 6.4 gir uttrykk for en fornuftig avveining av hensynene. Utvalget vil derfor anbefale at det ved vurderingen av hvorvidt en arbeidssøker skal ha rett på dagpenger, bør tas hensyn til samvittighetsgrunner i tråd med Trygderettens praksis. Også i denne vurderingen mener utvalget at det kan være hensiktsmessig å legge de tre kriteriene til grunn for avgjørelsen. Det må selvsagt være en forutsetning at arbeidssøkers innsigelser mot mulige arbeidsforhold ikke er så omfattende at han eller hun ikke framstår som en reell arbeidssøker.
+
+**Referanser og litteratur**
+
+Lover og forskrifter
+
+Abortloven: Lov 13. juni 1975 nr. 50 om svangerskapsavbrudd (abortloven).
+
+Apotekloven: Lov 2. juni 2000 nr. 39 om apotek (apotekloven).
+
+Arbeidsmiljøloven: Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).
+
+Bioteknologiloven: Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven).
+
+Burettslagslova: lov 6. juni 2003 nr. 39 om burettslag (burettslagslova).
+
+Diskrimineringsloven om seksuell orientering: Lov 21. juni 2013 nr. 58 om forbud mot diskriminering på grunn av seksuell orientering, kjønnsidentitet og kjønnsuttrykk (diskrimineringsloven om seksuell orientering).
+
+Diskrimineringsloven om etnisitet: Lov 21. juni 2013 nr. 60 om forbud mot diskriminering på grunn av etnisitet, religion og livssyn (diskrimineringsloven om etnisitet).
+
+Diskriminerings- og tilgjengelighetsloven: Lov 21.  juni 2013 nr. 61 om forbud mot diskriminering på grunn av nedsatt funksjonsevne (diskriminerings- og tilgjengelighetsloven).
+
+Domstolloven: Lov 13. august 1915 nr. 5 om domstolene (domstolloven).
+
+Ekteskapsloven: Lov 4. juli 1991 nr. 47 om ekteskap \[ekteskapsloven\].
+
+EØS-loven: Lov 27. november 1992 nr. 109 om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde (EØS) m.v. (EØS-loven).
+
+Folketrygdloven: Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).
+
+Grunnloven: Lov av 17. mai 1814 nr. 00: Kongeriket Norges Grunnlov.
+
+Helse- og omsorgstjenesteloven: Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven).
+
+Kirkeloven: Lov 7. juni 1996 nr. 31 om Den norske kirke (kirkeloven).
+
+Likestillingsloven: Lov 21. juni 2013 nr. 59 om likestilling mellom kjønnene (likestillingsloven).
+
+Lov 13. juni 1969 nr. 25 om trudomssamfunn og ymist anna.
+
+Lov 9. februar 1972 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. (opphevet).
+
+Lov av 21. april 1972 nr. 18.om oppheving av straffeloven av 22. mai 1902 nr. 10.
+
+Lov 8 mai 1981 nr. 14 om endringer i straffelovens § 135 a og § 349 a (forbud mot diskriminering av homofile).
+
+Lov 12. juni 1981 nr. 64 om tilskott til livssynssamfunn.
+
+Lov 30. april 1993 nr. 40 om registrert partnerskap (Opphevet ved lov 27. juni 2008 nr. 53).
+
+Lov 30. april 1998 nr. 24 om endringer i lov av 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven).
+
+Lov 26. mars 2004 nr. 15 om endringer i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø mv. (likebehandling i arbeidslivet) m.m.
+
+Lov 27. juni 2008 nr. 53 om endringer i ekteskapsloven, barnelova, adopsjonsloven, bioteknologiloven mv. (felles ekteskapslov for heterofile og homofile par).
+
+Lov 9. april 2010 nr. 12 om endringer i arbeidsmiljøloven, likestillingsloven, diskrimineringsombudsloven og diskriminerings- og tilgjengelighetsloven.
+
+Lov 20. juni 2014 nr. 40 om rituell omskjæring av gutter.
+
+Menneskerettsloven: Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven).
+
+Opplæringslova: Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova).
+
+Pasient- og brukerrettighetsloven: Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven).
+
+Politiloven: Lov 4. august 1995 nr. 53 om politiet (politiloven).
+
+Sosialtjenesteloven: Lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven).
+
+Straffeloven 1902: Almindelig borgerlig Straffelov (Straffeloven) 22. mai 1902 nr. 10 (opphevet).
+
+Straffeloven 2005: Lov 20. mai 2005 nr. 28 om straff (straffeloven).
+
+Straffeprosessloven: Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven).
+
+Tvisteloven: Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile saker (tvisteloven).
+
+Abortforskriften: Forskrift 15. juni 2001 nr. 635 om svangerskapsavbrudd (abortforskriften).
+
+Advokatforskriften: Forskrift 20. desember 1996 nr. 1161 til domstolloven kapittel 11 (Advokatforskriften).
+
+Fastlegeforskriften: Forskrift 29. august 2012 nr. 842 om fastlegeordning i kommunene.
+
+Forskrift om endringer i forskrift 15. juni 2001 nr. 635 om svangerskapsavbrudd (fjerne henvisning fra fastlegen når kvinner begjærer abort).
+
+Forskrift om utførelse av arbeid: Forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid).
+
+Politiinstruksen: Forskrift 22. juni 1990 nr. 3963 for politiet (Politiinstruksen).
+
+Offentlige dokumenter og rapporter
+
+Arbeidsministeren (2011): Skriftlig svar til Stortinget 23. november 2011. Stortingsdokument 15:266 (2011–2012).
+
+Arbeids- og inkluderingsdepartementet (2009): Norges sjette nasjonale rapport til Den europeiske sosialrettskomité. 27/08/09 RAP/RCha/NO/VI(2009). Rapporten er tilgjengelig fra http://www.coe.int/en/web/ turin-european-social-charter/archives (sist besøkt 1. august 2016).
+
+Arbeids- og velferdsetaten (2013a): Rundskriv av 1. september 2013 om dagpenger fra NAV – Arbeids- og velferdsetaten, R04-00-A15.
+
+Arbeids- og velferdsetaten (2013b): Rundskriv av 1. september 2013 om dagpenger under arbeidsløshet, R04-00-B16.
+
+Barne- og likestillingsdepartementet (2009): Rundskriv av 14. mai 2009 nr. Q-2009–20.
+
+Barne-, likestillings- og inkluderingsdepartementet (2016): Rundskriv av 1. januar 2016 om ekteskapsloven, Q-2016–20.
+
+Barne-, ungdoms- og familiedirektoratet (2015): Adopsjon fra utlandet gjennom en organisasjon. Publisert 03. mars 2015, sist oppdatert 23. juni 2016. https://www.bufdir.no/ Adopsjon/Jeg_onsker_a_adoptere/ Adoptere_fra_utlandet/ (sist besøkt 3. august 2016).
+
+Helfo (2012): Analyserapport, Statistikk over allmennlegars takstbruk 2012. https://helfo.no/ Documents/Analyser%20og%20rapporter/ Analyserapport-Statistikk%20over% 20allmennlegars%20takstbruk%202012.pdf (sist besøkt 8. juli 2016).
+
+Helse- og omsorgsdepartementet (2011): Rundskriv av 31. oktober 2011 om reservasjon for leger i den kommunale helse- og omsorgssektoren, I-4/2011.
+
+Helse- og omsorgsdepartementet (2014a): Høringsnotat av 21. januar 2014 om endringer i helse- og omsorgstjenesteloven og i pasient- og brukerrettighetsloven (hjemmel til å gi forskrifter om reservasjonsmulighet for fastleger og rett til å skifte fastlege ved reservasjon).
+
+Helse- og omsorgsdepartementet (2014b): Høringsnotat av 27. juni 2014. Forslag om å fjerne henvisning fra fastlegen når kvinner begjærer svangerskapsavbrudd. Endringer i fastlegeforskriften (forskrift 29. august 2012 nr. 842 om fastlegeordningen i kommunene) og i abortforskriften (forskrift 15. juni 2001 nr. 635 om svangerskapsavbrudd).
+
+Helsedirektoratet (2015): Prioriteringsveileder – kvinnesykdommer. Publisert 27. februar 2015, sist endret 2. november 2015. https://helsedirektoratet.no/retningslinjer/kvinnesykdommer/seksjon?Tittel= infertilitet-9524 (sist besøkt 1. august 2016).
+
+Helsedirektoratet (2012): Bestilling – Undersøkelse av omfang av samvittighetsbegrunnede reservasjoner mot å utføre oppgaver i den kommunale helse- og omsorgstjenesten og spesialisthelsetjenesten. Brev 1. juni 2012 fra Helsedirektoratet til Helse- og omsorgsdepartementet.
+
+Helsedirektoratet (2015): Evaluering av bioteknologiloven 2015. Oppdatering om status og utvikling på fagområdene som reguleres av loven.
+
+Innst. O. nr. 63 (2007–2008) Innstilling fra familie- og kulturkomiteen om lov om endringer i ekteskapsloven, barnelova, adopsjonsloven, bioteknologiloven mv. (felles ekteskapslov for heterofile og homofile par).
+
+Justis- og beredskapsdepartementet (2015): Rundskriv 24. november 2015 om rask saksbehandling for asylsøkere som har hatt opphold i Russland, jf. utlendingsloven §§ 32 og 90. GI-13/2015.
+
+Justis- og beredskapsdepartementet (2016): Lovavdelingens fortolkning 11. februar 2016 av abortloven § 2.
+
+Kunnskapsministeren (2015): Skriftlig svar til Stortinget 9. desember 2015. Stortingsdokument 15:287 (2015–2016).
+
+NOU 1974: 41 Karakterer, eksamener, kompetanse m.v. i skoleverket.
+
+NOU 1978: 2 Vurdering, kompetanse og inntak i skoleverket.
+
+NOU 2009: 14 Et helhetlig diskrimineringsvern.
+
+NOU 2013: 1 Det livssynsåpne samfunn – en helhetlig tros- og livssynspolitikk.
+
+NOU 2014: 9 Ny adopsjonslov.
+
+Ot.forh. nr. 8 (2007–2008) NB/NN Stortingsforhandlinger. Debatter mv. i Odelstinget 22.–30. september.
+
+Ot.prp. nr. 27 (1967–68) Om lov om trossamfunn m.m.
+
+Ot.prp. nr. 38 (1974–75) Om lov om svangerskapsavbrudd.
+
+Ot.prp. nr. 53 (1977–78) Om lov om endring i lov 13. juni 1975 nr. 50 om svangerskapsavbrudd.
+
+Ot.prp. nr. 41 (1979–80) Om endringer i lov om arbeidervern og arbeidsmiljø, lov om arbeidstvister og lov om trudomssamfunn og ymist anna.
+
+Ot.prp. nr. 35 (1995–96) Om lov om endringer i lov 17. juni 1966 nr. 12 om folketrygd (dagpenger under arbeidsledighet), i lov 27. juni 1947 nr. 9 om tiltak til å fremme sysselsetting og i visse andre lover.
+
+Ot.prp. nr. 12 (1998–99) Lov om pasientrettigheter (pasientrettighetsloven).
+
+Ot.prp. nr. 77 (1999–2000) Om lov om endringer i lov 9. februar 1973 nr. 6 om transplantasjon, sykehusobduksjon og avgivelse av lik m.m.
+
+Ot.prp. nr. 104 (2002–2003) Om lov om endringer i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø mv. (likebehandling i arbeidslivet) m.m.
+
+Ot.prp. nr. 49 (2004–2005) Om lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).
+
+Ot.prp. nr. 33 (2007–2008) Om lov om endringer i ekteskapsloven, barnelova, adopsjonsloven, bioteknologiloven mv. (felles ekteskapslov for heterofile og homofile par).
+
+Prop. 70 L (2013–2014) Lov om rituell omskjæring av gutter.
+
+Prop. 88 L (2012–2013) Diskrimineringslovgivning (diskrimineringsloven om seksuell orientering, likestillingsloven, diskrimineringsloven om etnisitet, diskriminerings- og tilgjengelighetsloven).
+
+Stortinget (2008): Stortingets anmodningsvedtak nr. 614, 2008.
+
+Utdanningsdirektoratet (2015): Tolkningsuttalelse om opplæringslova § 1-1. Gudstjenester i skoletiden. http://www.udir.no/Regelverk/ Finn-regelverk-for-opplaring/Finn-regelverk-etter-tema/Innhold-i-opplaringen/ Gudstjenester-i-skoletiden/ (sist besøkt 8. juli 2016).
+
+Norske dommer, kjennelser og avgjørelser
+
+HR-2001-428.
+
+LH-2000-302.
+
+Rt. 1939 s. 53.
+
+Rt. 1947 s. 742.
+
+Rt. 1949 s. 935.
+
+Rt. 1950 s. 377.
 
 Rt. 1982 s. 1729.
 
-[Side 131]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-karakteristikker i etiske, juridiske og politiske
-debatter. I denne sammenhengen forstår vi ikke
-dette som fagjuridiske begrep men i tråd med slik
-de benyttes i dagligtale, der diskriminering referer til allmennmoralens krav om at relevant like
-grupper av samfunnsborgere skal respekteres og
-behandles likt. Hvis man forskjellsbehandles uten
-grunn, blir man diskriminert. Dersom man ikke
-behandles med respekt og verdighet på samme
-måte som andre, kan man føle seg krenket. Noen
-typer forskjellsbehandling, slik som rasistisk motiverte handlinger, er det bred enighet om at ikke
-på noen måte fortjener samfunnets respekt og
-toleranse. I andre tilfeller er det mer problematisk, som i spørsmålet om fritak fra vielse av likekjønnede par. Her er reservasjonsønsket forankret i (ofte religiøse) oppfatninger som er på
-vikende front i samfunnet, samtidig som en eventuell innvilgelse av reservasjon betyr forskjellsbehandling av utsatte minoriteter som har ført, og
-fortsatt fører, en langvarig kamp for anerkjennelse. Den ene minoritetens samvittighetsfritak
-kan derfor oppfattes som å innebære en krenkende forskjellsbehandling av den andre minoriteten.
-En tilnærming er at siden vigsleren aksepterer
-å registrere ulikekjønnede ekteskap men avviser å
-registrere likekjønnede ekteskap, så innebærer
-reservasjonsønsket uakseptabel forskjellsbehandling. Det er ikke vesensforskjellig fra rasediskriminering og kan følgelig ikke tolereres, selv om
-den aktuelle arbeidstakeren står fritt til å ytre sitt
-syn offentlig. Dette dreier seg om grupper som
-har ført en langvarig kamp mot diskriminering, og
-det er ikke bare retten til likebehandling som er
-viktig for dem, men anerkjennelse av likeverd.
-Derfor vil det ikke oppleves som tilstrekkelig at
-de får gifte seg på lik linje med ulikekjønnede par,
-fordi selve det faktum at myndighetene tillater at
-noen nekter å gjennomføre handlingen uttrykker
-manglende anerkjennelse. Toleranse for reservasjonsønsket vil her kunne oppfattes som et
-uttrykk for at gruppen som blir diskriminert fortsatt ikke blir betraktet som likeverdig.
-En annen tilnærming tar utgangspunkt i at hva
-som regnes som urimelig forskjellsbehandling er
-knyttet til allmennmoralske oppfatninger som forandrer seg over tid, og der det også vil være
-uenighet innad i et kulturelt fellesskap i samme
-tidsperiode. Det innebærer at forskjellsbehandling som er moralsk riktig i en tidsperiode er fullstendig uakseptabel i en annen. En slik moralsk
-uenighet om hva som er legitim forskjellsbehandling av grupper kan man også ha innad i et samfunn i samme tidsperiode. Et slikt perspektiv inne-
-
-131
-
-Kapittel 9
-
-bærer ikke moralsk relativisme, men en forutsetning om at vi kan ta feil i våre moralske oppfatninger, og at det derfor er rimelig å akseptere ulike
-grupper av mennesker har ulikt syn på hva som er
-moralsk relevant. Men det innebærer også at
-synet på hva som er legitim forskjellsbehandling
-må kunne variere tilsvarende. En tilnærming som
-anerkjenner at det er moralsk uenighet om likekjønnet ekteskap, og at man kan akseptere at et
-mindretall kan mene at ekteskapet bare bør forbeholdes mann og kvinne, hevder at det derfor bør
-vurderes i hvert enkelt tilfelle om det er mulig å gi
-rom for at arbeidstakere får tilpasninger i arbeidsoppgaver, forutsatt at paret ikke blir skadelidende.
-Et slikt syn godtar en form for forskjellsbehandling ved at det er offentlig akseptert å mene at det
-er galt å vie ulikekjønnede og det kan følgelig sies
-å ha en symbolsk effekt som blir sterkere i lys av
-den langvarige kampen for anerkjennelse. Men en
-slik reservasjonsadgang endrer ikke på den juridiske likestillingen av ulikekjønnede par.
-Mange reservasjonsønsker er knyttet til et
-ønske om å unngå å gjøre noe som personen
-mener er moralsk galt. De som ønsker handlingen
-utført for sin del, om det er abort, omskjæring,
-vielse eller kjøp av mat- og drikkevarer kan oppfatte reservasjonen som en fordømmelse av deres
-handling, levemåte eller til og med identitet. De
-kan da, med større eller mindre grad av rimelighet, føle seg såret eller krenket. Noen av disse tilfellene er spesielt betydningsfulle, fordi de har sin
-rot i intense moralsk-politiske debatter, der en
-gruppe har kjempet fram rettigheter mot stor motstand. For eksempel er det rimelig at grupper som
-for eksempel homofile opplever seg som en utsatt
-minoritet selv om de i dag har flertallets støtte her
-i landet for sine krav om anerkjennelse og likebehandling. For en del vil derfor potensialet for å
-oppleve krenkelse være stort, særlig dersom den
-krenkende handlingen eller utsagnet kan kombineres med en frykt for at disse tilkjempede rettighetene igjen kan fjernes.
-En opplevd krenkelse har større betydning
-subjektivt dersom en gruppe er eller nylig har
-vært i en spesielt sårbar og utsatt posisjon. I en
-slik situasjon kan man si at den også har større
-grad av objektivitet, dersom det faktisk er slik at
-gruppen man tilhører er utsatt. Da kan man peke
-på ytre omstendigheter som grunn for krenkelsen. Reell sosial og politisk makt er derfor av
-betydning for hvor stor vekt påstander om krenkelse hos tredjepart skal ha i vurderingen av samvittighetsfritak for arbeidsoppgaver. Det er imidlertid ikke enkelt å avgjøre hvorvidt en gruppe er
-utsatt eller har makt som gjør at de bør tåle at
-
-[Side 132]
-
-132
-
-NOU 2016: 13
-
-Kapittel 9
-
-Samvittighetsfrihet i arbeidslivet
-
-noen vil reservere seg mot å yte dem den
-omstridte tjenesten. Det finnes for eksempel
-mange åpent homofile borgere i ledende posisjoner i samfunnet, noe som tilsier at de ikke lenger
-er en like utsatt gruppe som de var for noen tiår
-siden. Samtidig er det utvilsomt mange homofile
-som ikke kan vedkjenne seg sin legning uten å
-risikere alvorlige personlige følger, noe som trekker i motsatt retning. En person med mye makt,
-har mindre grunnlag for å kreve at en opplevd
-krenkelse skal tas hensyn til. Påberopt krenkelse
-bør derfor ikke være et avgjørende argument i
-vurdering av samvittighetsfritak. Samtidig vil det
-at noen får adgang til å reservere seg innebære en
-faktisk forskjellsbehandling, noe som bør spille
-inn i vurderingen. I en slik vurdering er det ikke
-likegyldig hvordan reservasjon finner sted i praksis. Noen måter å reservere seg på kan være upassende, konfronterende og innebære en formidling
-av moralsk fordømmelse. Slik kan reservasjon
-være krenkende i mer problematisk forstand.
-Dette vil være moralsk uakseptabelt. Dersom man
-forsøker å gjennomføre reservasjonen smidig og
-med liten grad av offentlig oppmerksomhet,3 vil
-grunnlaget for å oppleve fritaket som krenkende
-bli tilsvarende redusert. Det er altså ikke nok å
-henvise til en krenkende symboleffekt for å avvise
-reservasjon. Det bør derfor vurderes i hvor stor
-grad det er rimelig å tillegge opplevelse av krenkelse på grunn av diskriminering stor vekt i vurderingen.
-Noen ganger kan begrep som «diskriminering» og «krenkelse», og motsvarende «samvittighet» og «moralsk integritet» brukes som retoriske
-virkemidler i den politiske debatten. Derfor er det
-viktig at man undersøker nøye hvilke argumenter
-som er relevante i den konkrete saken og hvilken
-holdbarhet og styrke disse argumentene har.
-
-9.5
-
-Tredje kriterium: Gjennomførbart
-i praksis
-
-Utvalget mener at det bør legges til rette for reservasjon bare dersom dette lar seg gjøre på en god
-måte i praksis. Spørsmålet blir hvor store ulemper
-arbeidsgiver og kollegaer skal måtte tåle. Dersom
-noen reserverer seg mot en arbeidsoppgave på en
-arbeidsplass, vil det nødvendigvis medføre at
-andre må utføre denne oppgaven i stedet. Selv om
-kollegaene ikke har reservert seg mot den
-3
-
-Anbefalingen om smidighet og diskresjon innebærer imidlertid ikke en anbefaling om at fritak på samvittighetsgrunnlag holdes hemmelig.
-
-samme oppgaven, kan det være en belastning å
-måtte utføre en større andel slike oppgaver. Dersom reservasjonsønsket er knyttet til en arbeidstakers religiøse overbevisning, vil kollegaer som
-ikke tilhører samme religion ikke nødvendigvis
-ha problemer med å utføre oppgaven. Dreier
-reservasjonsønsket seg imidlertid om en allment
-etisk omstridt oppgave, vil også kollegaer kunne
-oppleve arbeidsoppgaven som problematisk, selv
-om de selv ikke har reservert seg mot den. For
-eksempel kan en lege som ikke har reservert seg
-mot å utføre omskjæring på guttebarn oppleve det
-som belastende å måtte utføre inngrepet. Dersom
-reservasjon blant kollegaer fører til at legen må
-utføre flere inngrep, vil det naturligvis bli enda
-mer belastende.
-Dersom arbeidstakeren ønsker å reservere
-seg mot en stor del av den jobben han eller hun er
-ansatt for å gjøre, vil det ofte være praktisk vanskelig å legge til rette for reservasjon. Er det bare
-snakk om en mindre del av arbeidsoppgavene, vil
-det ikke nødvendigvis være problematisk verken
-for arbeidsgiver eller kollegaer at en arbeidstaker
-slipper å utføre en oppgave. Dreier det seg om en
-større del, vil det selvsagt få større konsekvenser.
-Det hjelper ikke at mye står på spill for arbeidstaker hvis det rett og slett ikke lar seg gjøre for
-arbeidsgiver å legge til rette for reservasjon og
-samtidig opprettholde et ønsket tjenestetilbud.
-For å opprettholde ønsket tjenestetilbud, kan det
-hende arbeidsgiver må endre turnuser og arbeidsplaner. Dersom slik tilrettelegging er kostbar eller
-på annen måte er spesielt krevende for arbeidsgiver, vil det tale mot at reservasjon innvilges. Økonomisk kan det få konsekvenser dersom arbeidsgiver for eksempel må ha en ekstra person på jobb
-for å opprettholde tilbudet.
-Eksempelet med butikkansatte som ikke
-ønsket å håndtere enkelte varer illustrerer denne
-problemstillingen. I noen tilfeller vil det være
-mulig å tilrettelegge for at en arbeidstaker reserverer seg mot å selge for eksempel svin og alkohol. Arbeidstakeren kan for eksempel få andre
-oppgaver, eller det kan settes av en kasse i butikken hvor det ikke kan betales for disse produktene. Det siste skjer også når kassemedarbeideren er under 18 år. Dersom butikken bare har én
-ansatt på jobb og reservasjon fører til at butikken
-ikke kan selge disse varene på dette skiftet, vil det
-gjøre det vanskelig å legge til rette for reservasjon.
-Utvalget mener at dersom arbeidsgivere utviser smidighet og kreativitet i møte med et reservasjonsønske fra en ansatt, vil det i mange tilfeller
-
-[Side 133]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-være mulig å legge til rette for reservasjon i praksis.
-
-9.6
-
-Rimelig uenighet og
-samvittighetsfrihet
-
-I kapittel 5 diskuterte utvalget betydningen av
-samvittighetsfrihet i et liberalt samfunn der man
-aksepterer pluralismen som et faktum. Et slikt
-samfunn må ha noen urokkelige grunnprinsipper
-som samfunnsborgerne deler og respekterer, selv
-om de begrunner dem forskjellig. Det gjelder særlig idealene om enkeltmenneskets moralske frihet
-og respekt for likeverdet til alle borgere. Andre
-spørsmål er slike som vi kan være enige om å
-være uenige om, der man må finne stabile politiske kompromisser. Typiske eksempel inkluderer tilgang til abort, omskjæring av guttebarn, tilgang til assistert befruktning, og fosterdiagnostikk. Disse spørsmålene er gjerne ledsaget av en
-omfattende og intens offentlig debatt før man når
-et slikt stabilt kompromiss.
-Slike kompromisser er nettopp det, kompromisser, og derfor en ordning mange fortsatt finner problematisk selv om de aksepterer at den
-politiske debatten er avsluttet og ikke bør åpnes
-igjen. I slike spørsmål vil det være rimelig å si at
-det foreligger et sterkt grunnlag for å innvilge
-samvittighetsfrihet for arbeidstakere som er
-moralsk uenige i den politiske ordningen de samtidig aksepterer. Samtidig er det ofte i slike spørsmål at problemet med symboleffekt er særlig
-sterkt, fordi den politiske ordningen er kjempet
-fram, ofte mot stor motstand. Dermed følger det
-at i spørsmål der adgang til samvittighetsfrihet
-synes særlig viktig av politiske grunner, er det
-samtidig sterke politiske grunner for å begrense
-tilgang til reservasjon for å beskytte tredjepart
-mot det de opplever som uttrykk for moralsk fordømmelse eller manglende anerkjennelse av likeverd. Utvalget anbefaler at man i slike tilfeller
-etterstreber løsninger som kan imøtekomme de
-som ønsker å reservere seg på måter som i minst
-mulig grad rammer brukeres opplevelse av tilgang og anerkjennelse.
-
-9.7
-
-Samvittighetsfrihetens ulike
-uttrykk
-
-I del II redegjorde utvalget for forholdet mellom
-reservasjon, varsling og sivil ulydighet. Der ble det
-hevdet at samvittighetskonflikter kan gi opphav til
-alle disse tre handlingene, avhengig av situasjo-
-
-133
-
-Kapittel 9
-
-nen. Mens den som vil reservere seg, primært
-ønsker å fritas for visse arbeidsoppgaver, ønsker
-varsleren å få oppmerksomhet om kritikkverdige
-forhold. Den sivilt ulydige vil på sin side frambringe slik oppmerksomhet og/eller unngå å
-bidra til umoralske handlinger, ved å motsette seg
-myndighetenes lover og påbud. Etter vår oppfatning er det riktig å si at samvittighet og samvittighetsoverbevisninger spiller en viktig rolle i alle
-disse tre handlingsmønstrene og at de følgelig har
-noe sentralt til felles. I en gitt situasjon kan det
-være uavklart fra begynnelsen hva arbeidstakeren
-sikter mot. En tolkning av saken med lærerne
-som protesterte mot det omfattende evalueringsopplegget i Sandefjord, er at de først var varslere
-som ønsket oppmerksomhet om det de mente var
-en skadelig praksis. Da de ikke fikk gehør i
-systemet, reserverte de seg med henvisning til
-samvittigheten og nektet å gjennomføre evalueringene.
-Det har blitt hevdet at de tre handlingsformene ikke er etisk likeverdige, og spesifikt at sivil
-ulydighet er å foretrekke framfor et krav om
-reservasjon. I debatten om fastlegers reservasjon
-mot aborthenvisning skrev kommunelege Elisabeth Swensen:
-Sivil ulydighet er derimot en kampform. Det
-betyr å stå opp mot makten, å organisere et
-«nei», å kjempe for det man tror på. Det koster.
-Da risikerer man eksempelvis å miste jobben.
-Den dagen staten lovfester pasientenes rett til
-assistert selvmord, vil jeg selv velge en slik vei:
-nekte, sparke oppover, hyle i avisspaltene,
-eventuelt lenke meg fast til undersøkelsesbenken. Men reservere meg, for deretter å sende
-min gode kollega ned på sykehjemmet for å
-effektuere oppdraget slik at kommunen blir
-fornøyd? Aldri!4
-Eksempelet er interessant, og det er klart at sivil
-ulydighet kan innebære risiko for å miste jobben
-og at den sivilt ulydige følgelig tar på seg større
-risiko i kamp for det han eller hun mener, enn den
-som reserverer seg og ber om å få arbeidet tilpasset deretter. Samtidig er sammenhengen som den
-omstridte arbeidsoppgaven inngår i avgjørende
-for hvilke handlingsalternativer som er aktuelle
-og virksomme. Den dagen legeassistert selvmord
-eventuelt skulle bli tillatt i Norge, vil dette være et
-nytt og trolig høyst kontroversielt tilbud. Sivil ulydighet vil da kunne være en effektiv protestform
-som vil føre til oppmerksomhet og potensielt ha
-4
-
-Swensen (2012b).
-
-[Side 134]
-
-134
-
-NOU 2016: 13
-
-Kapittel 9
-
-Samvittighetsfrihet i arbeidslivet
-
-gjennomslagskraft i den offentlige debatten.
-Annerledes forholder det seg med veletablerte tilbud. Selvbestemt abort har vært tilgjengelig i fire
-tiår, og selv om en minoritet er imot dette på etisk
-grunnlag er tilbudet ikke kontroversielt i den norske offentligheten. Også abortmotstandere –
-inkludert fastleger og annet helsepersonell som
-måtte være mot abort – må innse at en bred samfunnsmessig konsensus om abortspørsmålet for
-lengst er satt. I en slik situasjon er det forståelig at
-en abortmotstander gjennom å be om toleranse
-for reservasjon søker et kompromiss som er levelig i praksis, i stedet for å sette hardt mot hardt
-gjennom en sivil ulydighetsaksjon som neppe vil
-kunne rokke det minste ved samfunnets konsensus. I tillegg kan det være at legen mener det er
-riktig at abortbeslutningen i første trimester tas av
-kvinnen selv, selv om legen mener at abort vil
-være galt og derfor ikke kan bidra til at hun gjennomfører den. Da vil sivil ulydighet ikke være en
-treffende aksjonsform, fordi legen ønsker ikke
-noe mer enn mulighet til å handle i overensstemmelse med egen samvittighet. Den som reserverer seg, ønsker ikke nødvendigvis å hindre andre i
-å ta beslutninger på grunnlag av deres egen samvittighet. Det innebærer ikke moralsk relativisme,
-men en aksept av demokratiets spilleregler og
-muligheten for at ens egen samvittighet kan ta
-feil, selv om man er overbevist.
-Samfunnet bør ha en gjennomtenkt måte å
-møte de som varsler, reserverer seg eller begår
-sivil ulydighet på. Flere av eksemplene har illustrert viktigheten av at arbeidsplasser legger til
-rette for at ansatte kan utvikle et faglig og etisk
-skjønn, fordi slike kvaliteter igjen kan komme
-tredjepart (kunde, pasient, bruker) til gode. Faglig-etisk uenighet og diskusjoner gir grobunn for
-konstruktive endringer. Organisasjoner gjør rett i
-å tilstrebe gode diskusjonsklima med en viss takhøyde for uenighet, fordi dette kan være viktig
-både for de ansatte selv og for kvaliteten på virksomheten som bedrives.
-
-ver at man utfører slike oppgaver. Imidlertid finnes det gode grunner for å innrømme samvittighetsfrihet også innenfor arbeidslivet.
-Hensynet til moralske minoriteters deltakelse i
-samfunnet og mangfold i arbeidslivet taler for
-reservasjonsadgang i samsvar med kriteriene om
-at en dyp og viktig overbevisning står på spill for
-arbeidstaker (kriterium 1), at reservasjon ikke er
-inngripende for tredjepart (2) og er gjennomførbart i praksis uten for store ulemper for arbeidsgiver og kollegaer (3). Det er problematisk hvis
-noen yrker ikke rekrutterer fra visse grupper i
-samfunnet fordi disse gruppene opplever at noen
-yrker eller stillinger er umulige å inneha for dem,
-eller at de er uønsket. Da utnyttes ikke befolkningens talent, kompetanse og interesser på best
-mulig måte, og noen grupper kan oppleve seg
-som annenrangs borgere.
-En politikk uten rom for tilpasning kan tenkes
-å inspirere fiendskap og mistenksomhet hos
-moralske minoriteter. Det kan gi grobunn for radikalisering og tilbaketrekning fra samfunnets fellesarenaer. En generell praksis om å tolerere reservasjoner i arbeidslivet når disse er velbegrunnete
-og gjennomførbare i praksis uten å påføre byrder
-for tredjeperson, kan få konsekvenser i et større
-perspektiv – både gunstige og bekymringsverdige. På den ene siden kan en tolerant reservasjonspolitikk åpne et rom som toneangivende personer i den moralske minoriteten så krever blir
-tatt i bruk: Hvis det er adgang til reservasjon, kan
-det tenkes at lederskikkelser forventer at minoritetens medlemmer benytter reservasjonsmuligheten, og at medlemmene ellers kan møte kritikk for
-ikke å leve i tråd med gruppens egen etikk. På
-den andre siden kan en tolerant politikk fungere
-som en «lynavleder» ved at moralske minoriteter
-derved opplever at de blir tatt på alvor som likeverdige samfunnsborgere. På denne måten kan en
-tolerant reservasjonspolitikk tenkes både å forebygge og å inspirere radikalisering og «uniformering» av moralske minoriteter.
-
-9.8
-
-9.9
-
-Konsekvenser på samfunnsnivå
-
-Samvittighetsfrihet er en grunnverdi i det liberale
-demokratiet, og i utgangspunktet skal det gode
-grunner til for å begrense denne friheten for borgerne. Det betyr imidlertid ikke at samvittighetsfrihet skal ha samme rolle i arbeidslivet. I utgangspunktet kan man ivareta friheten ved å sikre at
-arbeidstakere som vegrer seg mot bestemte
-arbeidsoppgaver av samvittighetsgrunner, kan
-finne annet inntektsgivende arbeid som ikke kre-
-
-Situasjonsbetingede
-samvittighetskonflikter
-
-I del II ble det skilt mellom prinsipielle og situasjonsbetingede samvittighetskonflikter. De samvittighetskonfliktene som skaper mest offentlig
-debatt og er lettest å få øye på, er de prinsipielle.
-Men i vår gjennomgang av eksempler er det også
-noen som er mer situasjonsbetingede, slik som
-når helsepersonell er villig til å utføre abort, men
-vil reservere seg i spesialtilfeller som fosterreduk-
-
-[Side 135]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-sjon. Kanskje oppstår slike situasjonsbetingede
-samvittighetskonflikter, der spesielle forhold ved
-en situasjon i sum framkaller et behov for reservasjon hos arbeidstakeren, hyppigere enn man
-gjerne tror – for eksempel i helsetjenesten.
-Utvalget er kjent med et annet, reelt eksempel
-som illustrerer dette: En psykiater hadde ansvar
-for oppfølgning av unge pasienter med psykose,
-og fikk i tillegg ansvar for legemiddelassistert
-rehabilitering (LAR), inkludert utskrivning av
-resepter på metadon og lignende medikamenter
-til opiatavhengige pasienter. Etter hvert fattet psykiateren mistanke om at medikamenter han skrev
-ut tilfløt noen av psykosepasientene hans gjennom
-det illegale markedet, og ledet til et misbruk som
-drastisk forverret disse pasientenes helse. Psykiateren opplevde dette som at et arbeid han var
-pålagt og i utgangspunktet villig til å gjøre
-(utskrivning av resepter på vanedannende medikamenter) skadet hans øvrige, spesielt sårbare
-pasienter. Dette utløste hos ham en alvorlig samvittighetskonflikt og et ønske om å reservere seg
-mot LAR-behandling.5
-Eksempelet illustrerer at i en uforutsigbar
-yrkeshverdag kan det oppstå spesielle situasjoner
-med faktorer som i sum utløser en samvittighetskonflikt og kanskje også et reservasjonsønske. Et
-mindre ekstremt eksempel er de advokatetiske
-reglene som legger opp til at advokater må kunne
-vurdere i det enkelte tilfellet om oppdraget er av
-en slik karakter at han eller hun ikke kan utføre
-det. Likedan kan journalister reservere seg mot
-bestemte oppdrag for eksempel fordi de mener at
-medieeksponering vil skade sårbare mennesker.
-Dette viser at en politikk som innebærer eksplisitt
-regulering av alle kjente, prinsipielle reservasjonsønsker (slik som abort, aktiv dødshjelp, rituell
-omskjæring, mv.) ikke er tilstrekkelig for å dekke
-alle reservasjonsønsker som kan bli aktuelle.
-Dette er et argument for at det i tillegg til å regulere enkeltområder, slik som i dag, kan settes opp
-generelle etiske og juridiske kriterier som kan
-anvendes mer generelt i ulike situasjoner.
-Det er imidlertid vektige argumenter mot å gi
-adgang til situasjonsbestemt reservasjon i noen
-tilfeller. For arbeidsgivere vil det antakelig være
-vanskeligere å forholde seg til at arbeidstakerne
-skal kunne ta en konkret vurdering i hver enkelt
-situasjon. Det vil skape større uforutsigbarhet
-med hensyn til å få arbeidet utført eller levere de
-tjenester som skal leveres. I forarbeidene til abort5
-
-Psykiateren har gitt sitt samtykke til at hans historie blir
-gjengitt her.
-
-135
-
-Kapittel 9
-
-loven ble det lagt til grunn at det måtte kreves at
-helsepersonell hadde tatt klart standpunkt til om
-de kunne utføre eller assistere ved abort. Videre
-sa departementet at det er «nødvendig at de ansettende myndigheter blir gjort kjent med i hvilken
-utstrekning helsepersonell ønsker seg fritatt for å
-assistere ved eller utføre svangerskapsavbrudd.»6 Dersom sykehuset skal kunne levere de
-tjenestene de skal, er det avgjørende at de er kjent
-med hvor mange av de ansatte som reserverer
-seg. Også for andre arbeidsgivere vil det være
-vesentlig å være kjent med om de har arbeidstakere som kan utføre de arbeidsoppgavene som er
-nødvendige eller ikke. For tredjeparter som har
-interesser eller rettigheter knyttet til den aktuelle
-tjenesten (kunder, pasienter), vil det også være
-problematisk dersom situasjonsbestemt reservasjon fører til for eksempel økt ventetid.
-Prinsipielt bør det etter utvalgets oppfatning
-være rom for reservasjon også i situasjonsbetingede samvittighetskonflikter på lik linje, det vil si
-etter samme kriterier, som mer tradisjonell, prinsipiell reservasjon. Som utvalget har pekt på, er det
-imidlertid mulig at situasjonsbestemt reservasjon
-i noen tilfeller vil føre til større ulemper for
-arbeidsgiver og tredjeparter, og at det andre og/
-eller tredje kriteriet dermed ikke vil være oppfylt.
-Dette vil da få betydning for hvorvidt arbeidsgiver
-bør legge til rette for reservasjon i enkelttilfeller.
-
-9.10 Andre argumenter av betydning
-9.10.1
-
-Konsekvenser for arbeidstaker
-dersom reservasjon ikke innvilges
-
-Det er moralsk relevant hvilke konsekvenser det
-vil få for arbeidstaker at arbeidsgiver ikke aksepterer ønsket om reservasjon. Aktuelle konsekvenser kan for eksempel være at arbeidstaker må
-slutte i jobben, at han eller hun ikke har mulighet
-til å ta annet arbeid, at det ikke finnes alternative
-stillinger i nærheten eller at ny jobb eventuelt krever flytting. Det vil også være relevant om arbeidstakeren kan gjøre bruk av utdannelsen sin og den
-ekspertisen som han eller hun har bygget opp.
-Når slike konsekvenser for arbeidstakere blir
-omfattende, taler det isolert sett for at reservasjon
-bør innvilges. Samtidig er dette hensynet etter
-utvalgets oppfatning mindre tungtveiende enn de
-tre hovedkriteriene.
-
-6
-
-Ot.prp. nr. 38 (1974–75) s. 30.
-
-[Side 136]
-
-136
-
-NOU 2016: 13
-
-Kapittel 9
-
-9.10.2
-
-Samvittighetsfrihet i arbeidslivet
-
-Er reservasjon mer berettiget for de
-som arbeider med mennesker?
-
-Det hevdes iblant, blant annet i den akademiske
-debatten om helsepersonells samvittighetsfrihet,
-at adgang til reservasjon er spesielt sterkt begrunnet i de menneskebehandlende profesjonene, slik
-som helse- og sosialprofesjonene.7 Begrunnelsen
-for dette kan være todelt; for det første, at spesielt
-viktige ting – nemlig pasienten/klienten/brukerens velferd – står på spill i profesjonsetiske
-dilemmaer; for det andre, at det er spesielt viktig
-at profesjonsutøveren har velutviklet moralsk
-skjønn siden profesjonsutøveren står i en moralsk
-relasjon til brukeren og har makt over denne. Det
-dreier seg både om at profesjonsutøveren er
-ekspert og har kunnskapsbasert makt og om at
-vedkommende kontrollerer tilgangen til de ressursene som brukeren ønsker eller behøver. Da
-må det også, hevdes det, legges til rette for utøvelse av dette moralske skjønnet, til brukerens
-beste. En overlege har gitt uttrykk for en slik
-holdning:
-Det hender også ikke rent sjelden at jeg ikke
-gjør alt etter sykehusboka, men praktiserer
-benign8 sivil ulydighet ved å gi pasienten litt
-dyrere behandling fordi jeg mener vedkommende trenger det. Det hender jeg går litt over
-grensen for «trygg arbeidstid» fordi oppfølgingen av en pasient krever det. Det er med andre
-ord ikke alltid jeg følger reglene til punkt og
-prikke fordi mitt anliggende er å være en god
-lege for pasientene, ikke en funksjonær for staten. Er ikke det hva det vil si å være lege?9
-Overlegens uttrykk «benign sivil ulydighet»
-beskriver dette fagligetiske skjønnet som tar seg
-friheter men som er ment å komme pasientene til
-gode. Dette kan videre hevdes å være et argument
-for reservasjonsadgang i de spesialtilfellene der
-profesjonsutøverens fagligetiske skjønn tilsier at
-det er rett ikke å utføre ordre eller handle i tråd
-med retningslinjer. Spørsmålet er altså om det i
-noen yrker bør være ekstra stor takhøyde for slik
-skjønnsutøvelse i tråd med den ansattes samvittighet.
-Siden profesjonsutøverne har så utstrakt kontakt med pasienter/klienter/brukere kan det riktignok hende at reservasjon blir vanskelig å gjennomføre uten at disse blir skadelidende. Det kan
-7
-8
-9
-
-Se for eksempel Wicclair (2011).
-Godartet, til noens beste.
-Folstad (2012).
-
-altså være vanskeligere å legge til rette for reservasjon for slike profesjonsutøvere enn for andre
-arbeidstakere. Det er et argument mot reservasjonsadgang i de menneskebehandlende profesjonene.
-
-9.10.3
-
-Offentlig eller privat arbeids- eller
-oppdragsgiver?
-Generelt mener utvalget at typen arbeidsgiver
-eller oppdragsgiver kan ha etisk betydning.
-Offentlige institusjoner representerer staten og
-skal på den ene siden være åpne for at alle skal
-kunne jobbe der, uavhengig av blant annet kjønn,
-etnisitet, legning eller livssyn. På den andre siden
-skal de også legge til rette for lik tilgang til alle
-offentlige tjenester uten usaklig forskjellsbehandling. Utvalget har vist til flere eksempler der disse
-to hensynene kan komme i konflikt og må avveies.
-Private institusjoner står i utgangspunktet friere i å stille krav til sine ansatte. For eksempel er
-det legitimt at tros- og livssynssamfunn kan kreve
-lojalitet overfor egne normer og i visse tilfeller
-også medlemskap i et bestemt trossamfunn. Blant
-annet må prester i Den norske kirke være medlemmer av kirken og lojale overfor kirkens lære.
-Samtidig er det grenser for hvilke krav trossamfunn og andre private organisasjoner kan stille
-ettersom også ansatte der har et stillingsvern og
-er omfattet av arbeidsmiljølovens og diskrimineringslovenes bestemmelser.
-Det kan hevdes at livssynsbaserte institusjoner og yrkesutøvere med driftsavtaler med offentlig sektor om å levere tjenester til allmennheten,
-bør undergis krav til nøytralitet på samme måte
-som offentlige institusjoner. Det samfunnsoppdrag disse institusjoner og personer har påtatt
-seg, gjør at disse i mindre grad kan vektlegge eget
-livssyn i møte med publikum. For fastlegene vil
-dette være et moment som kan tale mot at disse
-kan reservere seg. For livssynsbaserte institusjoner med offentlig driftsavtale er det mer usikkert
-hvilken betydning dette momentet har. Det er
-åpenbart at institusjonene ikke kan forutsette at
-de pasienter og beboere som blir tatt inn etter vanlig kommunal søknadsprosedyre deler deres livssyn og deltar i trosbasert aktiviteter. Men det er
-mer usikkert om dette også bør få betydning i forholdet mellom institusjonen og dens ansatte, slik
-at disse i større grad bør ha rett til å reservere seg
-mot å delta i trosbaserte aktiviteter enn det de
-ville hatt dersom institusjonen ikke hadde offentlig driftsavtale. Det kan på den ene side hevdes at
-en arbeidstaker har søkt seg til den aktuelle institusjonen vel vitende om at den er trosbasert. På
-
-[Side 137]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-den annen side kan man hevde at dette er store
-arbeidsplasser for den aktuelle yrkesgruppen,
-som i praksis betales over offentlige budsjetter, og
-at det til en viss grad er tilfeldig hvorvidt en
-arbeidstaker får og tar ansettelse hos den ene
-eller den andre institusjonen.
-
-9.10.4 Kjent eller ny problemstilling?
-Det kan være moralsk relevant hvorvidt reservasjonsproblemstillingen var kjent for arbeidstakeren da han eller hun søkte jobben eller begynte på
-sin utdanning. Hvis problemstillingen var kjent,
-kan det hevdes at arbeidstaker har akseptert
-arbeidsforholdet eller yrket som det er, og dermed har et selvstendig ansvar for å unngå stillinger der det å utføre enkelte arbeidsoppgaver kan
-bli et problem. Motsatt, hvis problemstillingen er
-nyoppstått, kan det hevdes at det vil være urimelig
-inngripende å kreve at den ansatte skal innordne
-seg eller forlate stillingen. Argumentet har vært
-framhevet i menneskerettslig praksis, for eksempel i Ladele- og McFarlane-sakene.10 Her ble det
-lagt vekt på at Ladele hadde blitt ansatt som
-offentlig registrator før den engelske partnerskapsloven var blitt vedtatt, mens McFarlane
-hadde tatt arbeid som samlivsterapeut hos en
-arbeidsgiver som han visste også gav råd til likekjønnede par.
-Det er klart at en arbeidstaker eller yrkesutøver som med åpne øyne velger å ta en stilling hvor
-hovedtyngden av oppgavene er av en karakter
-som han eller hun oppfatter som moralsk problematisk, vil stå svakt dersom vedkommende
-ønsker å fritas for arbeidsoppgaver og samtidig
-10
-
-EMD (2013), se boks 6.1.
-
-137
-
-Kapittel 9
-
-beholde stillingen. Utover dette vil argumentet
-etter utvalgets mening ha varierende vekt.
-På den ene siden kan en arbeidstaker ikke forvente at hans eller hennes arbeidsoppgaver ikke
-skal endre seg i løpet av et arbeidsforhold.
-Arbeidsgiver har ut fra styringsretten adgang til å
-endre arbeidsoppgavene innenfor rammen av den
-arbeidsavtalen som er inngått. Ny lovgivning kan
-også få betydning for hvilke arbeidsoppgaver som
-ligger til en stilling. Når en endring er besluttet av
-den som har legitim myndighet til dette – arbeidsgiver, oppdragsgiver eller lovgiver – må arbeidstaker eller yrkesutøver som hovedregel respektere
-de endringer som er foretatt, uansett om han eller
-hun selv måtte være uenig.
-På den andre siden bør det heller ikke nødvendigvis være avgjørende at problemstillingen var
-kjent da arbeidstaker påbegynte sin utdannelse
-eller gikk inn i det enkelte arbeidsforhold. En
-beslutning om å ta en bestemt utdannelse eller
-inngå i et bestemt arbeidsforhold eller yrke vil i
-praksis være motivert ut fra mange faktorer.
-Hovedmotivet vil antakelig være at yrket eller stillingens hovedoppgaver oppleves som meningsfulle og givende. De konkrete arbeidsoppgavene
-som oppfattes som etisk problematiske kan i praksis oppstå sjelden eller bare innenfor avgrensede
-deler av en virksomhet. I tillegg kan arbeidstaker
-som opprinnelig var innstilt på å utføre arbeidsoppgaver som ligger til stillingen, endre livssyn
-eller på annet grunnlag begynne å oppfatte
-arbeidsoppgavene som moralsk problematiske.
-Det er viktig at livssynsminoriteter ikke på unødvendig eller uforholdsmessig grunnlag blir utestengt fra visse yrker eller arbeidsplasser. At problemstillingen var kjent for arbeidstaker eller
-yrkesutøver bør altså ikke nødvendigvis avskjære
-reservasjonsadgang.
-
-[Side 138]
-
-138
-
-NOU 2016: 13
-
-Kapittel 10
-
-Samvittighetsfrihet i arbeidslivet
-
-Kapittel 10
-
-Bør samvittighetsnektelser lovreguleres?
-10.1 Innledning
-Det kan stilles spørsmål om, og i tilfelle hvordan,
-samvittighetsnektelser i arbeidslivet bør lovreguleres. Etter norsk rett i dag er ikke samvittighetsnektelser i arbeidslivet regulert generelt, men
-enkelte situasjoner er omfattet av særregulering.
-Utvalget har i kapittel 6 gitt en oversikt over
-hvordan samvittighetsnektelser er regulert i
-norsk rett i dag. I det følgende vil utvalget gi en
-framstilling av de to modellene utvalget mener
-ville vært de mest aktuelle løsningene for generell
-lovregulering av samvittighetsnektelser. Avslutningsvis, i punkt 10.3, pekes det på fordeler og
-ulemper med lovregulering, før utvalget kommer
-med sine anbefalinger i kapittel 11.
-
-10.2 Alternative muligheter for
-regulering
-10.2.1 Generell eller særskilt regulering
-Som nevnt i kapittel 6, setter de internasjonale
-konvensjonene som Norge har ratifisert og er forpliktet til å følge, de ytre rammene for samvittighetsfrihetens betydning i Norge. Det kan likevel
-være mulig å gå lenger i å vektlegge samvittighetsfrihet enn det som følger av menneskerettskonvensjonene. I avveiningen mellom kolliderende menneskerettigheter har organer som overvåker internasjonale menneskerettskonvensjoner
-tradisjonelt innvilget statene et vidt handlingsrom.1
-Måten samvittighetsnektelser har blitt regulert på i Norge til nå, har vært ved særregulering
-av enkelttilfeller. I en diskusjon om lovregulering
-av samvittighetsnektelser er det naturlig å ta
-utgangspunkt i denne måten å regulere på. En slik
-særregulering kan omfatte en direkte lov- eller
-forskriftshjemlet reservasjonsrett av ulik styrke,
-som for eksempel i abortforskriften og lov om
-rituell omskjæring. En slik reguleringsmåte forut1
-
-For eksempel EMD (2007b).
-
-setter imidlertid at den aktuelle problemstillingen
-er kjent og vil ikke omfatte nyoppståtte problemstillinger. Det må også tas stilling til hvorvidt det
-skal gis en rett, slik som i abortloven med forskrift, eller bare en adgang, slik som finnes i
-omskjæringsloven.
-Utvalget har særlig vurdert to modeller for lovregulering som kunne vært aktuelle for generell
-regulering av samvittighetsnektelser. En slik
-generell regulering ville i tilfelle kommet i tillegg
-til den særreguleringen vi har i dag for å fange
-opp de tilfellene som lovgiver ikke har vurdert
-særskilt. Den første modellen innebærer en
-eksplisitt plikt for arbeidsgiver til å foreta tilrettelegging der hvor visse vilkår er oppfylt, modellert
-etter regler om tilrettelegging for personer med
-nedsatt funksjonsevne. Den andre er en modell
-hvor arbeidsgiver etablerer et system for vurdering av arbeidstakers reservasjonsønsker, modellert etter varslingsreglene i arbeidsmiljøloven.
-Disse modellene behandles i kapitlene 10.2.2 og
-10.2.3.
-
-10.2.2
-
-Tilretteleggingsplikt
-
-Dersom samvittighetsnektelser skal reguleres
-generelt, mener utvalget en aktuell løsning kunne
-vært å innføre en generell plikt til individuell tilrettelegging for arbeidstakers samvittighet, etter
-mønster fra diskriminerings- og tilgjengelighetsloven av 2013.2 Etter denne loven § 26 har arbeidstakere og arbeidssøkere med nedsatt funksjonsevne
-rett til «egnet individuell tilrettelegging av
-arbeidsplass og arbeidsoppgaver for å sikre at de
-kan få eller beholde arbeid (…) samt utføre og ha
-mulighet til fremgang i arbeidet på lik linje med
-andre», så lenge dette ikke innebærer en «uforholdsmessig byrde» for arbeidsgiveren. Siktemålet er altså ikke bare at arbeidssøker eller arbeidstaker skal kunne oppnå og beholde arbeid, men
-2
-
-Lov 21. juni 2013 nr. 61 om forbud mot diskriminering på
-grunn av nedsatt funksjonsevne (diskriminerings- og tilgjengelighetsloven).
-
-[Side 139]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-også at han eller hun skal ha muligheter for
-samme karriereutvikling som andre arbeidstakere.
-Overført til samvittighetsnektelser ville dette
-innebære en plikt for arbeidsgivere til å omfordele
-arbeidsoppgaver slik at disse kunne utføres av
-andre arbeidstakere uten tilsvarende reservasjonsønsker. For eksempel ville en butikk kunne ha
-plikt til å omplassere en muslimsk arbeidstaker
-som ikke ønsker å selge svinekjøtt fra kjøttdisk til
-andre arbeidsoppgaver. En offentlig arbeidsgiver
-med ansvar for ekteskapsinngåelser ville ha plikt
-til å omfordele arbeidsoppgavene slik at en
-arbeidstaker med samvittighetskvaler blir fritatt
-fra å foreta vielser av personer av samme kjønn (jf.
-Ladele-saken3). En privat arbeidsgiver som tilbyr
-seksualrådgivning ville kunne ha plikt til å omfordele arbeidsoppgavene slik at andre arbeidstakere
-må gi råd til homofile par (jf. McFarlane-saken4).
-En løsning tilsvarende den som gjelder for personer med funksjonsnedsettelser ville forplikte
-arbeidsgiver til å vurdere tilrettelegging for så vel
-arbeidstakere som arbeidssøkere. I tillegg vil
-arbeidsgiver være forpliktet til å foreta tilrettelegging eller se bort fra tilretteleggingsbehovet ved
-avgjørelsen om arbeidssøker skal tilbys stillingen,
-så lenge tilretteleggingen ikke ville medføre noen
-uforholdsmessig byrde. En tilsvarende tilretteleggingsplikt med hensyn til reservasjonsønsker
-kunne ta utgangspunkt i utvalgets tre foreslåtte
-hovedkriterier for vurdering av slike ønsker (se
-punkt 9.2). Tilretteleggingsplikten er altså ikke
-absolutt: Den gjelder bare hvor den ikke innebærer en uforholdsmessig byrde for arbeidsgiveren, jamfør utvalgets tredje hovedkriterium (se
-punkt 9.5). Både økonomiske kostnader og ulemper for arbeidskollegaer eller virksomhetens kunder eller klienter (jf. andre hovedkriterium) kan
-begrense arbeidsgivers tilretteleggingsplikt. Det
-er heller ikke gitt at tilretteleggingsplikten bør gå
-like langt ved samvittighetsbetingede reservasjonsønsker som den gjør ved nedsatt funksjonsevne.
-For eksempel har en i amerikansk rettspraksis
-lagt til grunn en lavere terskel for at arbeidsgiver
-skal kunne påberope seg «undue hardship» (uforholdsmessig byrde) ved tilrettelegging for religion, enn ved tilrettelegging for nedsatt funksjonsevne.5
-En tilretteleggingsplikt for arbeidsgivere vil
-ikke nødvendigvis gjelde offentlige myndigheter
-som inngår driftsavtaler med næringsdrivende.
-3
-4
-5
-
-Se boks 6.1.
-Se boks 6.1.
-EU-kommisjonen (2013) s. 12–14.
-
-139
-
-Kapittel 10
-
-Dette kan eventuelt styres ved at en i lov, forskrift,
-rundskriv, instruks eller avtale fastsetter hvilke
-oppgaver som hører til driften, men med muligheter for å søke om unntak. Eksempler kan gjelde
-fastlegers aborthenvisning, apotekeres tilbud om
-prevensjon og taxieieres plikt til å kjøre kunder
-uansett kundenes seksuelle legning.
-En plikt til tilrettelegging i dagpengetilfellet
-ville bestå i at en endret lov, forskrift og/eller
-praksis hvoretter arbeidssøkere kan nekte å søke
-på eller akseptere stillinger hvor arbeidsoppgaver
-strider mot deres samvittighet, eller hvor en
-arbeidstaker som har sluttet i arbeid som følge av
-at arbeidsforholdet ikke var tilpasset hans eller
-hennes religion, ikke blir ilagt sanksjoner i form
-av forlenget ventetid på dagpenger. Flere land har
-eller har hatt dagpengeordninger hvor det er fastsatt at arbeidsledige kan nekte å ta bestemte typer
-arbeid på samvittighetsgrunnlag.6
-
-10.2.3
-
-«Varsling»-modellen
-
-Et annet alternativ kunne være å innføre en
-modell for selvregulering, hvor arbeidsgiver ved
-lov pålegges å opprette et system for at arbeidstakere skal kunne ta opp situasjoner hvor de opplever en samvittighetskonflikt i arbeidssituasjonen.
-Dette ville ligne mer på det vernet som er gjennomført for varslere i arbeidsmiljøloven §§ 2-4, 2-5
-og 3-6. En virksomhet har plikt til å etablere generelle ordninger som legger til rette for intern rapportering om «kritikkverdige forhold». En arbeidsgiver som får varsel om kritikkverdige forhold har
-plikt til å undersøke og vurdere dette, samtidig
-som han eller hun skal unnlate å foreta handlinger
-som innebærer negativ gjengjeldelse mot varsleren.
-Som vist tidligere er varsling og samvittighetsnektelser ikke sammenfallende fenomener. En
-arbeidstaker som ønsker å reservere seg mot en
-bestemt oppgave, har ikke nødvendigvis som mål
-at arbeidsgiver skal slutte å utføre de handlinger
-som arbeidstaker ikke ønsker å medvirke til. Samvittighetsnektelser vil også kunne gjelde handlinger som arbeidsgiver er klar over og vedstår
-seg, slik at det ikke nødvendigvis vil være noe
-poeng at arbeidsgiver undersøker eller vurderer
-arbeidstakers opplysninger med sikte på en generell endring av praksis. Derimot vil arbeidstaker i
-visse virksomheter kunne ha behov for en instans
-hvor han eller hun kan ta opp reservasjonsønsker.
-Arbeidstaker kan også ha behov for vern mot
-negative sanksjoner som følge av reservasjonsøn6
-
-Eidsvaag (2014).
+Rt. 2001 s. 1413.
+
+Rt. 2008 s. 1764.
+
+Rt. 2011 s. 1.
+
+Rt. 2012 s. 219.
+
+Rt. 2013 s. 258.
+
+Trygderettens kjennelse av 4. september 1998, TRR-1998-663.
+
+Trygderettens kjennelse av 14. oktober 2005, TRR-2005-1289.
+
+Trygderettens kjennelse av 14. oktober 2005, TRR-2005-1598.
+
+Likestillings- og diskrimineringsombudet sak 10/2147.
+
+Likestillings- og diskrimineringsombudets sak 15/1909.
+
+Likestillings- og diskrimineringsombudets sak 16/168.
+
+Likestillings- og diskrimineringsombudets sak 16/947.
+
+Etiske retningslinjer og veiledere
+
+De internasjonale etiske retningslinjene for jordmødre (1999): De internasjonale etiske retningslinjene for jordmødre, vedtatt av ICM i 1999.
+
+Det europeiske etiske regelverket for politiet (The European Code of Police Ethics). Vedtatt av Ministerrådet 19. september 2001.
+
+Etiske regler for farmasøyter (2014): Vedtatt av Norsk farmasøytisk selskap, sist revidert 2014. http://www.nfs.no/Etikk/ETISKE- RETNINGSLINJER-FOR-FARMASOYTER/ (sist besøkt 8. juli 2016).
+
+Etiske regler for leger (2015): Vedtatt av Den norske legeforeningens landsstyre 1961 med endringer, senest 2015. http://legeforeningen.no/ Om-Legeforeningen/Organisasjonen/ Rad-og-utvalg/Organisasjonspolitiske-utvalg/ etikk/etiske-regler-for-leger/ (sist besøkt 8. juli 2016).
+
+Etiske retningslinjer for forsvarere (2009): Vedtatt av Advokatforeningen 1999, sist endret 2009. https://www.advokatforeningen.no/ advokatetikk/god-advokatskikk/ retningslinjer-for-forsvarere/ (sist besøkt 8. juli 2016).
+
+Etiske retningslinjer for næringslivskontakt i forsvarssektoren (2011): Vedtatt av Forsvarsdepartementet i 2011.
+
+Etiske retningslinjer for statstjenesten (2012): Fastsatt av Fornyings-, administrasjons- og kirkedepartementet, sist revidert 2012. https://www.regjeringen.no/no/ dokumenter/etiske-retningslinjer-for- statstjenesten/id88164/ (sist besøkt 8. juli 2016).
+
+General Medical Council (2013): Good medical practice, Working with doctors Working for patients, utgitt 2013, oppdatert 2014.
+
+Lærerprofesjonens etiske plattform (2012): Vedtatt av Utdanningsforbundet og Skolenes landsforbund.
+
+Regler for god advokatskikk med kommentarer. Advokatforeningen: https://www.advokatforeningen.no/ advokatetikk/god-advokatskikk/ kommentarutgaven/ (sist besøkt 8. juli 2016).
+
+Vær varsom-plakaten (2015): Vedtatt av Norsk presseforbund i 1936, sist revidert 12. juni 2015.
+
+Yrkesetisk grunnlagsdokument for barnevernspedagoger, sosionomer, vernepleiere og velferdsvitere (2015): Vedtatt på Fellesorganisasjonens 6. kongress mars 2015.
+
+Yrkesetiske retningslinjer for sykepleiere (2011): Godkjent av Sykepleierforbundets landsstyre i 1983, sist revidert i 2011.
+
+Internasjonale konvensjoner
+
+Barnekonvensjonen: De forente nasjoners konvensjon 20. november 1989 om barnets rettigheter (BK).
+
+De forente nasjoners internasjonale konvensjon 16. desember 1966 om sivile og politiske rettigheter (FN-SP).
+
+De forente nasjoners internasjonale konvensjon 16. desember 1966 om økonomiske, sosiale og kulturelle rettigheter (FN-ØSK).
+
+De forente nasjoners verdenserklæring for menneskerettigheter av 1948, Verdenserklæring om menneskerettighetene (UDHR).
+
+Den europeiske menneskerettskonvensjonen: Europarådets konvensjon 4. november 1950 om beskyttelse av menneskerettighetene og de grunnleggende friheter (EMK).
+
+Den europeiske kodeks for sosial sikkerhet av 1964: CETS No 048.
+
+Den europeiske sosialpakten av 1961: CETS No. 35.
+
+Den reviderte europeiske sosialpakten av 1996: CETS No. 163.
+
+Europarådets resolusjon 1763/2010, The right to conscientious objection in lawful medical care.
+
+ILO-konvensjon 102: om minstestandard for sosial sikkerhet, 1952.
+
+ILO-konvensjon 111: om diskriminering i sysselsetting og yrke, 1958.
+
+ILO-konvensjon 155: om sikkerhet og helse i arbeidsmiljøet, 1981.
+
+ILO-konvensjon 168: om fremme av sysselsetting og vern mot arbeidsledighet, 1988.
+
+Kvinnekonvensjonen: De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering av kvinner (KDK).
+
+EU-regelverk
+
+Europaparlaments- og rådsdirektiv 2003/88/EF av 4. november 2003 om visse aspekt ved organisering av arbeidstida (Arbeidstidsdirektivet).
+
+Europaparlaments- og rådsdirektiv 2006/54/EF av 5. juli 2006 om gjennomføring av prinsippet om like høve for og lik handsaming av menn og kvinner ved tilsetjing og i arbeidstilhøve (omarbeiding) (Likestillingsdirektivet).
+
+Rådsdirektiv 89/391/EØF av 12. juni 1989 om iverksetting av tiltak som forbedrer arbeidstakernes sikkerhet og helse på arbeidsplassen (Arbeidsmiljødirektivet/Rammedirektivet om arbeidsmiljø).
+
+Rådsdirektiv 2000/78/EF av 27. november 2000 om forbud mot diskriminering i arbeidslivet (Rammedirektivet mot diskriminering).
+
+Rådsdirektiv 2004/113/EF av 13. desember 2004 om likebehandling av menn og kvinner ved adgang til og levering av varer og tjenester (Likebehandlingsdirektivet).
+
+EUs charter om grunnleggende rettigheter av 1. desember 2009, 2012/C 326/02.
+
+Avgjørelser og uttalelser fra internasjonale organer
+
+Den europeiske komitéen for sosiale rettigheter (2014): International Planned Parenthood Federation – European Network (IPPF EN) mot Italia, klagesak 87/2012. Avgjørelse 10. mars 2014.
+
+Den europeiske komitéen for sosiale rettigheter (2015a): Federation of Catholic Families in Europe (FAFCE) mot Sverige, klagesak 99/2013. Avgjørelse 17. mars 2015.
+
+Den europeiske komitéen for sosiale rettigheter (2015b): Confederazione Generale Italiana del Lavoro (CGIL) mot Italia, klagesak 91/2013. Avgjørelse 12. oktober 2015.
+
+EMD (1976): Tyrer mot Storbritannia, Kommisjonens rapport av 14. desember 1976, ECHR:1976:1214REP000585672.
+
+EMD (1978): Arrowsmith mot Storbritannia, Kommisjonens avgjørelse av 12. juli 1978, ECHR:1977:0516DEC000705075.
+
+EMD (1982): Campbell og Cosans mot Storbritannia, dom av 25. februar 1982, ECHR:1983:0322JUD000751176.
+
+EMD (1985): Børre Knudsen mot Norge, avvisningsavgjørelse av 8. mars 1985, ECHR:1985:0308DEC001104584.
+
+EMD (1988): Jan Åke Karlsson mot Sverige, avvisningsavgjørelse av 8. september 1988, ECHR:1988:0908DEC001235686.
+
+EMD (1993): Kokkinakis mot Hellas 1993, dom av 25. mai 1993, ECHR:1993:0525JUD001430788.
+
+EMD (1996): Valsamis mot Hellas, dom av 18. desember 1996, ECHR:1996:1218JUD002178793.
+
+EMD (1997): Kalac mot Tyrkia, dom av 1. juli 1997. ECHR:1997:0701JUD002070492.
+
+EMD (1999): Buscarini og andre mot San Marino, dom av 18. februar 1999, ECHR:1999:0218JUD002464594.
+
+EMD (2000a): Thlimmenos mot Hellas, dom av 6. april 2000, ECHR:2000:0406JUD003436997.
+
+EMD (2000b): Hasan og Chaush mot Bulgaria, avgjørelse av 26. oktober 2000, ECHR:2000:1026JUD003098596.
+
+EMD (2001): Bruno Pichon og Marie-Line Sajous mot Frankrike, avvisningsavgjørelse av 2. oktober 2001, ECHR:2001:1002DEC004985399.
+
+EMD (2006a): Kurtulmus mot Tyrkia, avvisningsavgjørelse av 24. januar 2006, ECHR:2006:0124DEC006550001.
+
+EMD (2006b): Kosteski mot Makedonia, dom av 13. april 2006, ECHR:2006:0413JUD005517000.
+
+EMD (2007a): Tysiac mot Polen, dom av 20. mars 2007, ECHR:2007:0320JUD000541003.
+
+EMD (2007b): Evans mot Storbritannia, dom av 10. april 2007, ECHR:2007:0410JUD000633905.
+
+EMD (2008a): Alexandridis mot Hellas, dom av 21. februar 2008, ECHR:2008:0221JUD001951606.
+
+EMD (2008b): Religionsgemeinschaft der Zeugen Jehovas og andre mot Østerrike, dom av 31. juli 2008, ECHR:2008:0731JUD004082598.
+
+EMD (2009): Sejdic og Finci mot Bosnia og Herzegovina, dom (storkammer) av 22. desember 2009, ECHR:2009:1222JUD002799606.
+
+EMD (2010a): Sinan Isik mot Tyrkia, dom av 2. februar 2010, ECHR:2010:0202JUD002192405.
+
+EMD (2010b): Schalk og Kopf mot Østerrike, dom av 24. juni 2010, ECHR:2010:0624JUD003014104
+
+EMD (2010c): Jakóbski mot Polen, dom av 7. desember 2010, ECHR:2010:1207JUD001842906.
+
+EMD (2010d): Crkava og andre mot Kroatia, dom av 9. desember 2010, ECHR:2010:1209JUD000779808.
+
+EMD (2011): R.R. mot Polen, dom av 26. mai 2011, ECHR:2011:0526JUD002761704.
+
+EMD (2012a): Konstantin Markin mot Russland, dom av 22. mars 2012, ECHR:2012:0322JUD003007806.
+
+EMD (2012b): P. og S. mot Polen, dom av 30. oktober 2012, ECHR:2012:1030JUD005737508.
+
+EMD (2013): Eweida og andre mot Storbritannia, dom av 15. januar 2013, ECHR:2013:0115JUD004842010.
+
+EMD (2014): Fernández Martinez mot Spania, dom (storkammer) av 12. juni 2014, ECHR:2014:0612JUD005603007.
+
+EU-domstolen (2008a): Sak C-267/06 Tadao Maruko mod Versirgungsanstalt der deutschen Bühnen, EU:C:2008:179.
+
+EU-domstolen (2008b): Sak C-54/07 Centrum voor gelijkheid van kansen en voor racismebestrijding mod Firma Feryn NV, EU:C:2008:397.
+
+EU-domstolen (2011): Sak C-147/08 Jürgen Römer mod Freie und Hansestadt Hamburg, EU:C:2011:286.
+
+EU-domstolen (2013): Sak C-81/12 Asociatia ACCEPT v Consiliul National pentru Combaterea Discriminarii, EU:C:2013:275.
+
+EU-kommisjonen (2013): Reasonable Accommodation beyond Disability in Europe, Luxembourg: Office for Official Publications for the European Union, 2013, http://ec.europa.eu/ justice/discrimination/files/reasonable_accommodation_beyond_disability_in_europe_en.pdf (sist besøkt 8. juli 2016).
+
+Europarådet (2008): Digest of the case law of the European Committee of Social Rights (2008).
+
+Europarådet (2015): Compilation of Council of Europe standards relating to the principles of freedom of thought, conscience and religion and links to other human rights, Adopted by the Steering Committe for Human Rights (CDDH) on 19 June 2015.
+
+FNs kvinnekomité (1999): CEDAW General Recommendation No. 24: Article 12 of the Convention (Women and Health), A/54/38/Rev.1.chap.1.
+
+FNs komité for økonomiske, sosiale og kulturelle rettigheter (2000): General Comment No. 14: The Right to the Highest Attainable Standard of Health (Art. 12).
+
+FNs komité for økonomiske, sosiale og kulturelle rettigheter (2006): General Comment No 18 (Right to work).
+
+FNs komité for økonomiske, sosiale og kulturelle rettigheter (2009): General Comment No 20, Non-Discrimination in Economic, Social and Cultural Rights (art. 2, para. 2) U-N. Doc. E/C.12/GC/20.
+
+FNs menneskerettskomité (1989): Bhinder mot Canada, 9. november 1989, (208/1986), ICCPR, A/45/40 vol. II.
+
+FNs menneskerettskomité (1993): General Comment No 22.
+
+FNs menneskerettskomité (2005): Karen Noelia Llantoy Huamán v. Peru, Communication No. 1153/2003, U.N. Doc. CCPR/C/85/D/1153/2003.
+
+ILO ekspertkomité (1996): Special Survey on Equality in Employment and Occupation in respect of Convention No. 111 (1996).
+
+ILOs ekspertkomité (2011): CEACR Direct Request 2011, Denmark.
+
+ILO (2012): General Survey on the fundamental Conventions concerning rights at work in light of the ILO Declaration on Social Justice for a Fair Globalization, 2008 (Conference paper, 02 March 2012).
+
+Utenlandske lover, forarbeider og avgjørelser
+
+*Sverige*
+
+Lag (1958:515) om kvinnas behörighet till prästerlig tjänst (opphevet i 1991) \[Sverige\].
+
+Kungörelse (1974:152) om beslutad ny regeringsform \[Sverige\].
+
+Äktenskapsbalk (1987:230) \[Sverige\].
+
+Diskrimineringslag (2008:567) \[Sverige\].
+
+Proposition 1974:70 Kungl. Maj:ts proposition med förslag till abortlag, m. m. \[Sverige\].
+
+Riksdagens protokoll av onsdag 11. mai 2010, 2010/11:100 \[Sverige\].
+
+Mål T 1781-14, Jönköpings tingsrätts dom 12. november 2015 \[Sverige\].
+
+Mål T 10264-14, Stockholms tingsrätts dom 28. desember 2015 \[Sverige\].
+
+Diskrimineringsombudsmannens beslutning 10. april 2014, ANM 2014/12 \[Sverige\].
+
+Diskrimineringsombudsmannens beslutning 10. april 2014, ANM 2014/226 \[Sverige\].
+
+Diskrimineringsombudsmannens beslutning 10. april 2014, ANM 2014/227 \[Sverige\].
+
+*Danmark*
+
+Bekendtgørelse nr. 31 av 12. januar 2005 om forbud mod forskelsbehandling på arbejdsmarkedet m.v som endret senest ved lov nr. 387 af 27. maj 2008 \[Danmark\].
+
+Bekendtgørelse nr. 572 af 17. juni 2009 om lov om medlemskap af folkekirken, kirkelig betjening og sognebåndsløsning, som ændret senest ved lov nr. 531 af 12. juni 2012 \[Danmark\].
+
+Bekendtgørelse nr. 702 af 27 mai 2015 om selvforskyldt ledighed \[Danmark\].
+
+Sundhedsloven: Bekendtgørelse nr. 1202 af 14. november 2011, som ændret senest ved lov nr. 656 af 8. juni 2016 (sundhedsloven) \[Danmark\].
+
+Ægteskabsloven: Bekendtgørelse nr. 1096 af 7. oktober 2014 om ægteskabsindgåelse og opløsning, som ændret senest ved lov nr. 1741 af 22. desember 2015 (ægteskabsloven) \[Danmark\].
+
+Betænkning nr. 522/69 om adgang til svangerskabsafbrydelse \[Danmark\].
+
+Arbejdsmarkedets ankenævn Årsberetning 2007, sag nr. 31 \[Danmark\].
+
+Arbejdsmarkedets ankenævn Årsberetning 2008, sag nr. 7 \[Danmark\].
+
+*Nederland*
+
+Lov av 1. oktober 1838, revidert 1992, Burgerlijk Wetboek \[Nederland\].
+
+Lov av 1. mai 1981, Wet Afbreking Zwangerschap \[Nederland\].
+
+Lov av 2. mars 1994, Algemene wet gelijke behandeling (AWGB) \[Nederland\].
+
+Lov av 23. november 1995, Arbeidstijdenwet \[Nederland\].
+
+Lov av 1. april 2002, Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding \[Nederland\].
+
+Lov av 4. juli 2014, tot wijziging van het Burgerlijk Wetboek en de Algemene wet gelijke behandeling met betrekking tot ambtenaren van de burgerlijke stand die onderscheid maken als bedoeld in de Algemene wet gelijke behandeling \[Nederland\].
+
+Centrale Raad van Beroep, avgjørelse av 29. februar 2016 \[Nederland\].
+
+*Storbritannia*
+
+The 1967 Abortion Act as amended by the 1990 Human Fertilisation and Embryology Act \[Storbritannia\].
+
+Human Fertilisation and Embryology Act fra 1990 \[Storbritannia\].
+
+The 2010 Equality Act \[Storbritannia\].
+
+The Marriage (Same Sex Couples) Act 2013 \[Storbritannia\].
+
+Janaway v Salford Health Authority 1988 \[Storbritannia\].
+
+Bøker og artikler
+
+Ahdar, R., I. Leigh (2013): Religious Freedom in the Liberal State. Oxford University Press.
+
+Ahlm, E. (2016): Discrimination on the basis of religion – in Sweden and beyond. European Journal of Social Law No 4. Oct.-Nov.-Dec. 2014. (Utkommet 2016).
+
+Andersen, K. (1967): Fra arbeidslivets rett. Johan Grundt Tanum Forlag, s. 149.
+
+Austad, T. (2015): Notat presentert for Samvittighetsutvalget 25. september 2015.
+
+Backer, I. L. (2013): Lov og Lovgivning – artikler og foredrag. Oslo: Universitetsforlaget.
+
+Barry, B. (2001): Culture and Equality – An Egalitarian Critique of Multiculturalism. Cambridge: Polity Press.
+
+Baubérot, J. (2007): Current issues in France, i Alec Hargreaves (ed), Politics and Religion in France and the United States. Plymouth.
+
+Benestad, Ø. (2014): Likekjønnet ekteskap i kirken? NRK Ytring 6. juli 2014. https://www.nrk.no/ytring/likekjonnet- ekteskap-i-kirken\_-1.11810774 (sist besøkt 8. juli 2016).
+
+Blankenhorn, D. (2007): The future of marriage. New York: Encounter Books.
+
+Blindheim, A. M. og H. Skotheim (2014): Fastleger nekter å lystre Bent Høie, Dagbladet 9. mars 2014. http://www.dagbladet.no/2014/03/09/ nyheter/samfunn/politikk/bent_hoie/ solberg-regjeringen/32209324/ (sist besøkt 8. juli 2016).
+
+Bordvik, M. (2016): Høie har lovet noe sykehusene ikke kan holde. Dagens Medisin 25. februar 2016. http://www.dagensmedisin.no/ artikler/2016/02/25/-hoie-har-lovet-noe- sykehusene-ikke-kan-holde/ (sist besøkt 8. juli 2016).
+
+British Pregnancy Advisory Service (2013): Britain’s Abortion Law, What it says, and why. Stratford-upon-Avon.
+
+Brunstad, S. B. og L. I. Nordal (2016): Organistar kan nekte å spele i bryllaup. NRK Møre og Romsdal 22. april 2016. http://www.nrk.no/mr/organistar-kan-nekte-a-spele-i-bryllaup-1.12912625 (sist besøkt 8. juli 2016).
+
+Bugge, S. (2016): Minister: Homofile skal få gifte seg i sin lokale kirke. VG 14. april 2016. http://www.vg.no/1nyheter/innenriks/ den-norske-kirke/minister-homofile-skal-faa-gifte-seg-i-sin-lokale-kirke/a/23659274/ (sist besøkt 8. juli 2016).
+
+Dannevig, K. G. (2010): Slakter politiutspill. Dagsavisen 31. juli 2010.
+
+Den katolske kirke (2007): Den katolske katekisme § 1790. http://www.katolsk.no/tro/ kkk/k3_06 (sist besøkt 8. juli 2016).
+
+Den norske kirke (2014): Vigselsliturgi 28. mars 2014. https://kirken.no/nb-NO/bryllup/ vigselsliturgien/ (sist besøkt 8. juli 2016).
+
+Den norske legeforening (2013): Bred debatt om reservasjonsadgang. 6. juni 2013. http://legeforeningen.no/Nyheter/2013/ Bred-debatt-om-reservasjonsadgang/ (sist besøkt 8. juli 2016).
+
+Dommerud, T. (2014): Abortsøkende dropper fastlegen. Aftenposten 16. februar 2014. http://www.aftenposten.no/nyheter/iriks/ Abortsokende-dropper-fastlegen-7472592.html (sist besøkt 8. juli 2016).
+
+Eidsvaag, T. (2014): The activation line in social security law and social assistance law: a human rights perspective, Chapter 5 in Aasen, Henriette Sinding, Siri Gloppen, Anne-Mette Magnussen, and Even Nilssen, Juridification and Social Citizenship in the Welfare State. Edward Elgar.
+
+Ertzaas, P. (2016): Jusprofessor om «UDI-opprøret»: – Betryggende. VG 8. januar 2016. http://www.vg.no/nyheter/innenriks/ jusprofessor-om-udi-opproeret-betryggende/ a/23591846/ (sist besøkt 8. juli 2016).
+
+Evju, S. (2010): Arbeidsrett og styringsrett – et perspektiv, Arbeidsrett – utvalgte artikler 2001–2010, Oslo: Universitetsforlaget.
+
+Felde, G. (2013): Staten har ikke fasiten. Bergens Tidende 31. oktober 2013. http://www.bt.no/ meninger/kronikk/Staten-har-ikke- fasiten-2996079.html (sist besøkt 8. juli 2016).
+
+Folstad, T. (2012): kommentar til Swensen, E., Reservasjonsrett eller sivil ulydighet?, 16. februar 2012. http://blogg.tidsskriftet.no/ 2012/02/13/reservasjonsrett-eller-sivil- ulydighet#comment-2702 (sist besøkt 8. juli 2016).

@@ -1,993 +1,248 @@
-# NOU 2016: 13, del 8 av 16 (side 88–98)
+# NOU 2016: 13, del 8 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/0e793719-nou-2016-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-13/id2510437/
 - Original-PDF: https://www.regjeringen.no/contentassets/3f93bdb31a5942fba104512d4a3b8f00/no/pdfs/nou201620160013000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 88]
-
-88
-
-NOU 2016: 13
-
-Kapittel 7
-
-Samvittighetsfrihet i arbeidslivet
-
-sjoner. Man forsøker å vise at disse eksemplene er
-like når det gjelder det som moralsk sett er i spill,
-og at de derfor bør behandles likt, støttet av prinsipper som viser at dette er noe som bygger på en
-allment akseptert moraloppfatning. Slike analogislutninger er det fremste kjennetegnet på det som
-kalles etisk kasuistikk, og som gjerne presenteres
-som et alternativ til teori- og prinsippdrevet etikk.
-I en kasuistisk tilnærming dreier ikke moral
-seg først og fremst om teoribaserte prinsipper.
-Det er snarere snakk om en konkret situasjonsforståelse som bygger på en felles oppfatning av hva
-som er rett å gjøre eller hva som er moralsk godt.
-Gjennom dette grepet endres den etiske og politiske diskusjonen fra teoretiske og abstrakte problemstillinger til konkrete diskusjoner av hva som
-er i spill i det enkelte tilfellet, og hvordan det vil
-være rett å håndtere disse.
-Kasuistikk påstås å gjøre det lettere å oppnå
-enighet om den rette handlemåten sammenlignet
-med teoribaserte tilnærminger. Dette skyldes at
-den gir oss redskaper til å ta praktiske avgjørelser
-i reelle valgsituasjoner, der teorier og prinsipper
-sjelden gir konkret veiledning.1 Jonsen og Toulmin hevder at de gjennom arbeid i en etisk komité
-erfarte at folk lettere kan nå enighet om hva som
-er rett og galt i konkrete valgsituasjoner, selv om
-de er grunnleggende uenige om hvilken teoretisk
-grunnforståelse det er rett å støtte seg på.2 Dessuten fører teorier oss inn i et anvendelsesproblem:
-Hvordan skal vi bestemme hva som er rett å gjøre
-i konkrete saker ut fra abstrakte prinsipper? Selv
-om man insisterer på forrangen til én bestemt
-teori, må man allikevel ty til en form for kasuistikk
-for å ta konkrete avgjørelser. Kasuistikk er altså
-en systematisering av en praksisnær tilnærming til
-konkrete moralske spørsmål.
-Den mer prinsipielle begrunnelsen for kasuistikk er at det er de enkelte situasjonene som er
-moralsk primære, ikke generelle prinsipper.
-Jonsen og Toulmin henviser blant annet til en tradisjon som stammer fra Aristoteles’ moralfilosofi
-som mener at sannhet på moralens område
-uttrykkes i konkrete handlinger og avgjørelser
-som uttrykk for den rette holdning. Kasuistikk
-fanger altså bedre moralens partikulære karakter
-enn teoretiske tilnærminger.
-Et grunntrekk i kasuistisk etikk er kartlegging
-av de moralsk relevante aspektene ved den aktuelle situasjonen. Jonsen og Toulmin viser til Aristoteles som skriver i Den nikomakiske etikk at en
-slik framstilling må tenkes som svar på de føl-
-
-gende spørsmålene: «Hvem handler?», «Hva skal
-skje?», «Hva eller hvilken kontekst er involvert?»,
-«Hva slags midler blir benyttet?», «Med hvilket
-formål?» og «På hvilken måte?».3 På bakgrunn av
-en slik situasjonsbeskrivelse er målet å avdekke
-alle, eller flest mulig av, de moralsk betydningsfulle aspektene ved situasjonen. Da vet vi hva som
-er på spill. Slike spørsmål gir også en strukturering av hvordan håndtere de etiske utfordringene.
-Utvalget har derfor utviklet noen analytiske verktøy og kriterier som er tilpasset samvittighetskonflikter i arbeidslivet. De danner bakgrunnen for
-situasjonsbeskrivelsene og drøftingene av eksemplene, og danner rammeverket for utvalgets anbefalinger.
-Det neste steget i en tradisjonell kasuistisk
-analyse består i å finne gode og relevante eksempler for analogislutninger. Det er en beslutning,
-handling eller situasjon som er velkjent eller lett
-gjenkjennbar, og som ligner på det aktuelle problemet når det gjelder ett eller flere av de moralsk
-viktige trekkene som er avdekket i situasjonsanalysen. Det er ikke avgjørende at paradigmene
-beskriver reelle hendelser, men man må velge tilfeller der det er allmenn aksept for hva som er rett
-handling i det enkelte tilfellet.
-Eksemplene knyttes til generelle handlingsregler eller prinsipper, slik som «ærlighet varer
-lengst», «gjør mot andre som du vil at andre skal
-gjøre mot deg», eller «det er bedre å la ti skyldige
-gå fri, enn å dømme én uskyldig». Disse prinsippene er tommelfingerregler som gir retning for
-diskusjonene. Poenget med en kasuistisk analyse
-vil være å finne ut hvordan det aktuelle tilfellet
-skal håndteres, og det skjer gjennom en analyse
-av argumenter som taler for og mot ulike løsninger, støttet av prinsipper og eksempler. Dette er
-ikke en mekanisk øvelse der det handlingsalternativet som har flest argumenter for og færrest mot,
-er det vi bør velge. En må vekte argumentene ut
-fra viktighet og relevans for den aktuelle situasjonen, noe som krever moralsk klokskap. Denne
-vurderingen krever altså utøvelse av skjønn. Kasuistikk er imidlertid ikke først og fremst en privatmoralsk øvelse, den har som sagt sin betydning i
-en bredere sosial sammenheng. Derfor må
-skjønnsutøvelsen basere seg på argumenter som
-er godtagbare for de involverte partene generelt.
-Kasuistikk i denne forstand henviser derfor til et
-gitt moralsk fellesskap, og har dermed sitt grunnlag i en felles oppfatning av hva det gode liv er for
-et menneske.4
-
-1
-
-3
-
-2
-
-Miller (1995) s. 4.
-Jonsen og Toulmin (1988).
-
-4
-
-Jonsen og Toulmin (1988) s. 71.
-Kuczewski (1997) s. 117–121.
-
-[Side 89]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Knut Erik Tranøy argumenterer for at slike
-moralske fellesoppfatninger spiller en avgjørende
-rolle i normativ argumentasjon og definerer allmennmoral som «det sett av moralske verdier,
-normer og dyder – og de tilsvarende praksiser og
-institusjoner – som har bred aksept og er internalisert og respektert i en gitt kultur til en gitt tid».5
-Slike fellesoppfatninger er konstitutive for et samfunn, og det er disse vi kan henvise til når vi diskuterer hva som er rett å gjøre i enkelttilfeller. Ved å
-henvise til slike ukontroversielle oppfatninger
-som vi kan forutsette at alle eller de aller fleste
-deler, har vi et utgangspunkt for argumentene
-som alle potensielle tilhørere eller lesere deler. De
-kan uttrykkes i enkle regler og prinsipper eller
-gjennom velkjente eksempler på riktig eller gal
-handling.
-I utredningen vil utvalget benytte noen elementer fra den klassiske kasuistikken, uten å
-følge den slavisk. Det viktigste elementet er den
-etiske analysen som vil bygge på gode situasjonsbeskrivelser der det vil legges vekt på hva som er
-moralsk mest avgjørende i de aktuelle tilfellene.
-Videre vil utvalget bruke veiledende handlingsregler og paradigmatiske tilfeller i analogiargumentasjonen, men benytter også i stor grad allmennmoralske handlingsregler og prinsipper. Det viktigste for en god kasuistisk analyse er at det henvises til normer og verdier som er allment anerkjent, uansett om det er prinsipper eller
-eksempler det henvises til.
-
-7.3
-
-Analytiske verktøy
-
-I avgjørelsen av om en arbeidstaker bør ha
-adgang eller rett til å reservere seg mot enkelte
-arbeidsoppgaver som følge av sin samvittighet,
-kan det være nyttig med noen verktøy eller retningslinjer. Hva som er moralsk, juridisk og praktisk relevant i avveininger om samvittighetskonflikter vil danne grunnlaget for om en samvittighetskonflikt i praksis skal eller bør lede til en
-adgang eller rett til reservasjon.
-På bakgrunn av disse relevante momentene,
-finner utvalget at det særlig er seks hovedspørsmål som bør stilles for å belyse hva som står på
-spill i en bestemt samvittighetskonflikt.
-1. Hva er grunnlaget for samvittighetskonflikten?
-Skyldes konflikten faglige, moralske, livssynsmessige/religiøse eller kulturelle oppfatninger? Hvor dyptfølt er overbevisningen?
-5
-
-Tranøy (1998) s. 106–107.
-
-89
-
-Kapittel 7
-
-2. I hvilken situasjon og handling har samvittighetskonflikten oppstått? Dreier det seg om
-arbeidstakers ønske/krav om å unnlate å
-utføre en arbeidsoppgave eller om å få utføre
-oppgaven på en spesifikk måte?
-3. Hvor nær er den omstridte handlingen til det
-som oppleves som problematisk? Er det en
-direkte årsakssammenheng mellom den
-omstridte arbeidsoppgaven og de konsekvensene arbeidstakeren ikke ønsker å bidra til?
-For eksempel vil det være en direkte årsakssammenheng mellom en leges utførelse av
-kirurgisk abort og selve aborten. En mer avledet årsakssammenheng kan for eksempel være
-en leges henvisning til abort. Pleie av kvinner
-etter abort vil derimot ikke ha noen årsakssammenheng med utførelsen av selve aborten.
-4. Hvilke konsekvenser får samvittighetskonflikten/
-nektelsen for andre? Dersom en arbeidstaker
-gis adgang til å nekte å utføre en arbeidsoppgave vil det kunne gå utover andre. På arbeidsplassen vil dette særlig få betydning for
-arbeidsgiver, som må omorganisere arbeidet,
-og kollegaer som må utføre de aktuelle
-arbeidsoppgavene. Arbeidsnekten vil også
-kunne få konsekvenser for berørte tredjeparter, som for eksempel kunder, klienter, pasienter og samfunnet for øvrig. Utvalget mener alle
-slike aktuelle ulemper må tas i betraktning. I
-vurderingen må det tas hensyn til hvor store
-ulempene er, hvilken art de er av og i hvilken
-grad de lar seg redusere ved praktisk tilrettelegging og kompensatoriske tiltak. Det vil også
-være relevant om den aktuelle arbeidsoppgaven er en kjerneoppgave i arbeidstakerens
-stilling.
-5. Hvilke konsekvenser får det for arbeidstaker hvis
-det ikke gis mulighet for reservasjon? Her vil det
-være viktig hvorvidt arbeidstaker kan omplasseres til andre arbeidsoppgaver eller om han
-eller hun må sies opp. Hvilke muligheter
-arbeidstakeren har for å få annet arbeid med
-den aktuelle utdanningen og kompetansen vil
-også være relevant. Hvorvidt arbeidstaker har
-rett til arbeidsledighetstrygd/dagpenger dersom arbeidsforholdet opphører har også betydning.
-6. Hva er det juridiske grunnlaget for pålegget om
-å utføre den aktuelle arbeidsoppgaven? Etter
-utvalgets mening vil det ha betydning om dette
-er en lovpålagt oppgave for arbeidsgiver eller
-yrkesutøver. For eksempel er det demokratisk
-bestemt at helsevesenet skal tilby abort og
-omskjæring av gutter og at likekjønnede par
-skal ha rett til ekteskapsinngåelse. Et pålegg
-
-[Side 90]
-
-90
-
-NOU 2016: 13
-
-Kapittel 7
-
-Samvittighetsfrihet i arbeidslivet
-
-om at henholdsvis helsepersonell eller borgelig vigsler skal utføre slike oppgaver vil da stå
-sterkere enn i tilfeller hvor plikten til å utføre
-arbeidsoppgavene bare bygger på en arbeidsavtale. Det bør likevel kunne tillegges betydning om arbeidsoppgaven er anerkjent som
-juridisk eller etisk omstridt. Videre vil det være
-relevant å se på hvorvidt arbeidsoppgaven var
-en kjent del av stillingen på tiltredelsestidspunktet eller om det er en oppgave som er tillagt stillingen etter at arbeidstakeren tiltrådte.
-Etter utvalgets oppfatning er dette et sett med
-spørsmål som det vil være relevant å stille ved de
-
-fleste samvittighetskonflikter i arbeidslivet der det
-blir spørsmål om nekting eller tilpasning av
-arbeidsoppgaver. Spørsmålene peker på moralsk
-relevante faktorer som vil gi grunnlag for å si noe
-om hvor sterke eller svake grunner det er for
-adgang til reservasjon i hvert tilfelle. Denne diskusjonen tas opp igjen i utredningens fjerde del
-der utvalget vil gå gjennom en rekke reelle samvittighetskonflikter, og på den måten vise hvilke faktorer ved de ulike situasjonene som er moralsk
-relevante i vurderingen av samvittighetskonfliktene og hvilke løsninger som er rettferdige.
-
-[Side 91]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-91
-
-Kapittel 8
-
-Kapittel 8
-
-Diskusjon av eksempler
-8.1
-
-Valg av eksempler
-
-Den følgende katalogen av eksempler er valgt ut
-for å gi en oversikt over bredden av aktuelle tilfeller der samvittighetsfrihet har vært eller kan være
-aktuell i norsk arbeidsliv. Hensikten er ikke å lage
-en fullstendig katalog, men det har vært et mål å
-vise bredde både i virksomheter og i yrker som er
-involvert. Utvalget av eksempler innbefatter de
-fleste av de tilfellene som er lovregulert, og som
-derfor er allment anerkjent som oppgaver som for
-noen er moralsk utfordrende. Utvalget har i tillegg tatt med de mest kontroversielle spørsmålene, der det enten har vært omfattende debatt
-eller mye medieoppmerksomhet. Det er imidlertid også, av breddehensyn, valgt ut noen tilfeller
-som er relativt lite kontroversielle, og også noen
-der det er mindre åpenbart at spesielt dyptgripende moralske spørsmål er i spill. Utvalget har
-også forsøkt å få med tilfeller der tredjeparter
-eller virksomheter blir berørt i ulik grad og på
-ulike måter. Utvalgsmedlemmene har valgt ut
-eksemplene i fellesskap, og har innhentet informasjon gjennom søk i søkemotorer og databaser
-for å belyse disse. Noen av eksemplene er framkommet gjennom direkte henvendelser til utvalget eller utvalgsmedlemmer. Utvalgets vurderinger i de enkelte eksemplene baserer seg på prinsipper som både er rettslig, politisk og etisk relevante. Ved spørsmålet om reservasjonsadgang
-bør innvilges, vil flere faktorer være av betydning.
-Utvalget har i de fleste eksemplene avstått fra å
-konkludere eksplisitt om hvorvidt reservasjonsadgang bør innvilges. Men drøftingene av eksemplene danner grunnlag for utvalgets normative
-konklusjoner i kapittel 9 og 11. Utvalget har tilstrebet å inkludere et bredt spekter av relevante
-argumenter i drøftingen av hvert eksempel.
-
-8.2
-
-Utførelse av abort
-
-Situasjonsbeskrivelse
-Det klassiske eksemplet på samvittighetskonflikter i helsetjenesten er provosert abort. Gjennom
-1900-tallet endret samfunnets og helsepersonells
-holdninger til abort seg fra forbud og utbredt motstand til liberalisering, kvinners selvbestemmelse
-og etisk aksept. Da lov om svangerskapsavbrudd
-ble vedtatt i 1975, inkluderte den en bestemmelse
-som ga helsepersonell rett til å avstå fra å utføre
-eller assistere ved abortinngrep (abortloven § 14,
-abortforskriften §§ 15-18). Denne retten ble opprettholdt da loven ble endret i 1978 og det ble innført selvbestemt abort.1 Retten gjelder ikke pleie
-før og etter inngrepet. I Norge utføres abort kun i
-offentlige sykehus, mens det i noen andre land
-gjøres i egne abortklinikker, som ofte er private.
-De senere årene har medikamentell abort blitt
-mer utbredt enn kirurgisk abort, og utgjør nå
-langt over halvparten av abortene. Reservasjonsretten gjelder både medikamentell og kirurgisk
-abort. Helsedirektoratets kartlegging i 2012 fant
-at 186 helsearbeidere hadde reservert seg mot å
-delta ved abort.2
-Til grunn for reservasjonsønsket ligger en
-oppfatning om at abort (i typiske tilfeller) er
-moralsk galt, da det er en handling som har til formål å avslutte fosterets liv. Denne moralske oppfatningen kan videre begrunnes etisk og/eller
-religiøst. Helsepersonell kan også knytte sin oppfatning til profesjonsetikken, ved å hevde at å
-avslutte liv er i strid med helsepersonells tradisjonelle rolle.
-Drøfting
-I denne situasjonen illustreres mange sentrale faktorer av moralsk relevans for bedømmelse av
-reservasjonsønsker generelt. For det første, hel1
-2
-
-Ot.prp. nr. 53 (1977–78).
-Helsedirektoratet (2012).
-
-[Side 92]
-
-92
-
-Kapittel 8
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-sepersonellets motstand mot provosert abort kan
-være en dyp moralsk overbevisning av den typen
-som er sentral i personens normsett og som for
-flere er forankret i livssyn. Fra ståstedet til helsepersonellet som vil reservere seg, dreier abort
-seg om liv og død; etisk sett står det således mye
-på spill. Derfor er det plausibelt å hevde at det å
-bli presset til å handle i strid med en overbevisning om at abort (i typiske tilfeller) er alvorlig
-moralsk galt, skader helsepersonellets moralske
-integritet. For det andre er helsepersonell ved å
-utføre eller assistere ved provosert abort klart
-årsaksmessig involvert i provosert abort ved at de
-forårsaker eller gir et sentralt kausalt bidrag til at
-abort finner sted. Det er altså ikke tvil om at kvaler ved provosert abort aktualiseres og er relevante ved utførelse eller assistanse ved abort.
-Provosert abort omtales iblant som et uløselig
-moralsk dilemma i vårt samfunn. I dette ligger det
-at det kan anføres gode etiske argumenter både i
-et forsvar for og i en motstand mot provosert
-abort. Det er allment anerkjent i samfunnsdebatten at lovverket derfor ikke kan reflektere en
-moralsk konsensus, men må være et praktisk
-kompromiss. Spørsmålet om helsepersonells
-reservasjonsrett skal derfor ikke tjene som en
-gjenåpning av debatten om selvbestemt abort. En
-omkamp om dette er politisk urealistisk og heller
-ikke på agendaen til de som argumenterer for
-reservasjonsadgang for helsepersonell. I stedet er
-dette et spørsmål om hvorvidt og på hvilken måte
-en skal ta hensyn til det mindretallet av leger og
-andre som ønsker å reservere seg mot å delta i
-gjennomføring av provosert abort uten at dette
-begrenser kvinners rett til selvbestemt abort.
-Erfaring viser at det i praksis er mulig å legge
-til rette for reservasjon mot deltakelse ved abort
-uten at dette går ut over kvinnene som søker
-hjelp. Kollegaer overtar de aktuelle arbeidsoppgavene. All den tid noen regner deltakelse ved
-abort som krevende, kan det hevdes at helsepersonellet som reserverer seg legger en belastning
-på øvrige kollegaer, som altså må øke sin befatning
-med abort. Det er rimelig å anta at det vil variere
-hvorvidt disse kollegaene opplever det som en
-belastning å utføre flere aborter.
-Hvis en høy andel av aktuelle ansatte gjør bruk
-av reservasjonsretten, kan arbeidsgiver få problemer med å få utført aborter. For å forhindre en
-slik situasjon, følger det av abortforskriften § 17 at
-sykehuset ved utlysning av stillinger for helsepersonell kan kreve at de som ansettes må være villige til å påta seg de plikter og oppgaver som
-påhviler avdelingen/institusjonen, herunder svangerskapsavbrudd.
-
-I motsetning til i Norge finnes det land der
-reservasjonspraksisen kan sies å true adgangen
-til abort. I blant annet Italia har man erfart at
-andelen av helsepersonell som reserverer seg
-mot abort i enkelte distrikter kan bli så høy at
-kvinner ikke kan få utført abort på lokale sykehus.3 Dette vil særlig ramme ressurssvake og vanskeligstilte kvinner, som ikke har praktisk eller
-økonomisk mulighet til å oppsøke sykehus i andre
-deler av landet eller utenlands.
-Pasienter som søker abort ved norske sykehus får utført abort og treffer normalt ikke helsepersonellet som reserverer seg. Så lenge sykehuset har tilstrekkelig med personale som er villige til å utføre eller assistere ved abortinngrep, er
-helsepersonells bruk av reservasjonsretten ikke
-til ulempe for pasientene.
-Reservasjonsretten ved abort illustrerer noen
-av de fundamentale og avgjørende etiske spørsmålene som vi kan stille i enhver reservasjonssituasjon:
-Står det noe viktig på spill for arbeidstakeren;
-er dennes moralske integritet truet og er alternativet å slutte i jobben? Vil tredjepart, i dette tilfellet
-abortsøkende kvinner, bli utsatt for en ekstrabelastning og hvor stor vil den i så fall være? Dersom
-det er praktisk mulig å tilrettelegge for fritak, vil
-det føre til ekstrabelastninger for arbeidsgiver
-eller kollegaer?
-Svaret på disse spørsmålene må deretter følges av en vurdering der belastningene/ulempene
-for de ulike partene veies mot hverandre. I denne
-vurderingen vil det blant annet være viktig å vurdere hvordan de ulike løsningene sikrer eller
-begrenser grunnleggende menneskerettigheter
-for henholdsvis lege/helsepersonell og pasient.
-I spørsmålet om direkte medvirkning til abortinngrep, er det demokratisk besluttet gjennom lov
-at det er rimelig å gi fritak for deltakelse i inngrepet av samvittighetsgrunner. Tilpasning lar seg
-gjennomføre tilsynelatende uten uakseptable følger for andre parter. Slik sett ligner dette på den
-allmenne aksepten av at vernepliktige kan nekte å
-utøve militærtjeneste. Noen har akseptable grunner for å mene at tjenesten innebærer å ta liv
-under omstendigheter de mener er moralsk uakseptable.
-Deltakelse i abortinngrep skiller seg fra militærtjeneste blant annet ved at verneplikten gjelder samfunnsborgere generelt, mens abort bare
-utøves av enkelte yrkesgrupper. Man kan forlate
-3
-
-Den europeiske komitéen for sosiale rettigheter (2014);
-Kirchgaessner, Duncan, Nardelli og Robineau (2016), The
-Guardian.
-
-[Side 93]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-yrket dersom kravene er uakseptable. Imidlertid
-er det delte meninger innad i legeprofesjonen om
-abortinngrepet bør være en medisinsk oppgave.
-Det er derfor ikke bare uenighet om den moralske statusen til abortinngrep, men om inngrepets
-yrkesetiske status. Det er en forståelig, om enn
-kontroversiell, oppfatning at abort strider mot
-medisinens «etos». Ettersom legeyrket er et av de
-yrker der kallstanken og den moralske refleksjonen har stor betydning, gir det en ekstra grunn for
-å si at man må kunne fortsette å utøve legeyrket
-samtidig som man fritas for oppgaver som strider
-mot
-grunnleggende
-samvittighetsgrunner,
-moralsk og faglig.
-Det er akseptert i det norske samfunnet at
-samvittighetsgrunner skal kunne danne grunnlag
-for fritak fra deltakelse i abortinngrep på visse vilkår. Samtidig er samvittighetsfrihet ved abortinngrep grundig diskutert og behandlet i forbindelse
-med innføring av selvbestemt abort. Utvalget
-mener derfor at dette er et egnet eksempel for
-andre diskusjoner om samvittighetsfrihet i
-arbeidslivet, særlig innenfor helsetjenesten.
-Andre situasjoner der reservasjon mot abort kan bli
-aktuelt
-I dag er adgangen til å reservere seg mot abort
-begrenset til generelle reservasjoner, det vil si
-hvor legen ikke ønsker å utføre abort uavhengig
-av situasjon. Det er dermed ikke rom for at en
-lege vurderer behov for reservasjon i en konkret
-situasjon.4 Det kan imidlertid tenkes at helsepersonell vil ønske å reservere seg mot å utføre abort
-i spesielle situasjoner selv om de aksepterer å
-utføre abort i typiske tilfeller. To slike situasjoner
-kan være fosterreduksjon og senabort.
-Fosterreduksjon vil si abort av ett eller flere
-fostre i et flerlingsvangerskap. Den vanligste
-grunnen vil være at fosterdiagnostikk har påvist
-en sykdom hos fosteret, men fosterreduksjon gjøres også for å redusere risikoen som følger ved et
-flerlingsvangerskap eller fordi kvinnen ikke
-ønsker å bære fram alle fostrene.
-I februar 2016 ble fosterreduksjon gjenstand
-for offentlig debatt etter at Justisdepartementets
-lovavdeling hadde kommet fram til at abortlovens
-bestemmelse om selvbestemmelse også skulle
-omfatte fosterreduksjon for friske fostre.5 Kritikken mot denne fortolkningen dreide seg dels om
-det etiske og juridiske ved en slik praksis, men
-også om den faglige innvendingen at prosedyren
-4
-5
-
-Ot.prp. nr. 38 (1974–75) s. 30.
-Justis- og beredskapsdepartementet (2016).
-
-93
-
-Kapittel 8
-
-gir en risiko for utilsiktet abort av gjenværende
-fostre.6 Professor Ole-Erik Iversen hevdet at
-denne praksisen ville kunne føre til krav om reservasjonsrett: «I praksis blir dette sikkert en sjelden
-problemstilling, men det prinsipielle er like viktig
-uansett (…) Blir det en ny runde med leger som
-vil reservere seg mot å utføre dette vanskelige og
-høyteknologiske inngrepet? Jeg tror vi får en ny
-debatt om reservasjonsrett her».7
-Det kan også tenkes at helsepersonell som finner det akseptabelt å bidra til aborter generelt kan
-ha spesielle kvaler med senaborter der fosteret
-nærmer seg levedyktighet. Nylig er denne praksisen skjerpet inn ved at utgangen av 22. svangerskapsuke er satt som øvre grense for senaborter.8
-Eksemplene fosterreduksjon og senabort
-illustrerer at et reservasjonsønske ikke nødvendigvis må dreie seg om prinsipiell og absolutt motstand mot en behandling eller prosedyre som
-sådan, men kan være mer situasjonsbetinget.
-Slike situasjonsbetingede reservasjonsønsker
-oppstår når spesielle forhold ved situasjonen i
-sum gjør at helsepersonellet opplever det moralsk
-galt å bidra ved dette spesifikke tilfellet.
-
-8.3
-
-Fastlegers henvisning til abort
-
-Situasjonsbeskrivelse
-Spørsmålet om reservasjonsadgang for fastlegers
-henvisning til abort kan hevdes å være avklart
-gjennom at fastlegers henvisningsplikt ble fjernet
-i 2015. Fordi eksempelet er prinsipielt viktig og
-den offentlige debatten interessant, vil utvalget nå
-like fullt drøfte argumenter for og imot at fastleger
-(i rettstilstanden før 2015) burde få reservasjonsadgang.
-Verken abortloven eller forarbeidene til loven
-sier noe om reservasjon mot aborthenvisning for
-fastleger. Siden abortloven ble vedtatt i 1975 har
-et uvisst antall allmennleger/fastleger unnlatt å
-henvise til abort.9 I oktober 2011 formidlet Helseog omsorgsdepartementet gjennom et rundskriv
-at fastleger ikke har adgang til reservasjon verken
-når det gjelder aborthenvisning eller i andre situasjoner.10 Det har vært omstridt hvorvidt rundskri6
-7
-8
-9
-
-10
-
-Hanger (2016), Dagens medisin.
-Hanger (2016), Dagens medisin.
-Svendsen (2014), NRK.
-Ca. 20 fastleger med reservasjoner mot aborthenvisning
-eller annet er blitt navngitt i debatten siden 2011. Blindheim og Skotheim (2014).
-Helse- og omsorgsdepartementet (2011).
-
-[Side 94]
-
-94
-
-Kapittel 8
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-vet innebar en ny rettstilstand eller om det kun var
-en presisering av gjeldende rett. Dette går utvalget ikke nærmere inn på. Fastlegene opplevde selv
-at myndighetene inntil rundskrivet hadde tolerert
-praksisen, og en del hadde også fått eksplisitt
-aksept for den av kommunene. Rundskrivet
-utløste en omfattende debatt i det offentlige rom.
-I en avtale mellom Kristelig Folkeparti, Fremskrittspartiet og Høyre fra 30. september 2013
-framgår det at partiene var enige om at «Det gis
-reservasjonsmuligheter for fastleger etter dialog
-med Den norske legeforening.»
-Som følge av denne avtalen sendte Helse- og
-omsorgsdepartementet i januar 2014 på høring et
-forslag om reservasjonsmulighet for fastleger mot
-å henvise til abort. Forslaget møtte stor motstand i
-høringsrunden, og det ble derfor utarbeidet et
-nytt forslag som ble sendt på høring i juni 2014.
-Det nye forslaget omfattet endringer i fastlegeforskriften og abortforskriften, som innebar at
-fastlegen ikke skulle plikte å henvise til abort,
-men bare gjennomføre konsultasjon med kvinnen,
-inkludert anamneseopptak, klinisk undersøkelse,
-laboratorieundersøkelser, samt å informere og
-veilede kvinnen.11 Samtidig ble det presisert at
-ordningen med felleslister ikke åpner for at fastleger kan fordele oppgaver seg imellom av samvittighetsgrunner.
-Endringene er ment å ivareta både hensynet til
-abortsøkende kvinners rettigheter og hensynet til
-leger som av samvittighetsgrunner finner det vanskelig å henvise til abort. Noen høringsinstanser
-og fastleger har innvendt at fastlegens plikt til å
-lage en skriftlig sammenfatning som så sendes
-sykehuset er en henvisning, bare under et annet
-navn.12 Utvalget tar ikke stilling til dette, men vil
-under drøfte argumenter for og imot at fastleger i
-stedet burde få en eksplisitt adgang til reservasjon
-mot henvisning til abort.
-Det er i de senere årene blitt mer vanlig at
-kvinner henvender seg direkte til sykehuset, heller enn å gå via fastlegen.13 Imidlertid er det fortsatt mange som benytter fastlegene, særlig utenfor de store byene.
-I tillegg til innlegg i media av og intervjuer
-med fastleger som har reservert seg («reservasjonsleger»), finnes det en intervjustudie med sju
-fastleger som reserverte seg fram til rundskrivet i
-11
-
-Helse- og omsorgsdepartementet (2014) s. 12. Endringene
-ble gjennomført ved Forskrift om endringer i forskrift 15.
-juni 2001 nr. 635 om svangerskapsavbrudd (fjerne henvisning fra fastlegen når kvinner begjærer abort).
-12
-Haaland et al. (2014).
-13
-Dommerud (2014), Aftenposten.
-
-2011. Studien dreier seg om begrunnelser for
-reservasjon, praktisk innretning av reservasjonen
-og konsekvenser for tjenestene.14 Utvalget oppfatter informasjonen som er framkommet i det
-offentlige rom som ensidig, ettersom kvinner som
-har vært i befatning med reservasjonslegene etter
-hva utvalget kjenner til ikke har stått fram i mediene. Utvalget er kjent med totalt tre klager til Helsetilsynet på denne reservasjonspraksisen i årene
-den har funnet sted.15 Det kan hevdes at det sparsomme antallet klager indikerer at reservasjon i
-de aller fleste tilfeller har funnet sted smidig og
-uten større ulemper for pasientene. Det kan derimot også hevdes at antallet klager ikke kan tolkes
-i denne retningen, ettersom det må antas at det er
-høy terskel for at abortsøkende kvinner som har
-hatt en negativ opplevelse velger å klage til Helsetilsynet.
-Reservasjon mot aborthenvisning kan tenkes
-å skje på ulike måter i praksis. I den nevnte intervjustudien framkom det tre framgangsmåter som
-var i bruk fram til rundskrivet i 2011. Felles for
-disse var at reservasjonslegene på forhånd hadde
-avtalt med én eller flere kollegaer som var villige
-til å overta selve henvisningsarbeidet. I den første
-varianten sørget reservasjonslegen for at flest
-mulig abortkonsultasjoner ble sluset direkte til
-kollegaen. Når pasienter oppga ønske om abort
-som kontaktårsak overfor sekretæren, ville disse
-få timeavtale direkte hos kollegaen. På denne
-måten ble reservasjonslegen ikke involvert i
-direkte kontakt med pasienten. Det andre alternativet var når problemstillingen kom opp under
-konsultasjonen og reservasjonslegen deretter
-med en gang avbrøt konsultasjonen og ba sekretæren finne en time til pasienten hos kollegaen.
-Som et tredje alternativ gjennomførte noen reservasjonsleger konsultasjonen med pasienten, men
-overlot så til en kollega å stå for papirarbeidet,
-inkludert selve henvisningen.
-Drøfting
-Fastlegene som reserverer seg mot aborthenvisning gjør det av tilsvarende grunner som helsepersonellet som reserverer seg på sykehusene.
-Det er således ikke tvil om at en dyp moralsk overbevisning, den samme som for sykehuspersonalet, er i spill for reservasjonslegene. Det som imidlertid kan diskuteres er om henvisning kan sies å
-være et moralsk relevant bidrag til abort. Deretter
-er det et spørsmål om det er en moralsk relevant
-14
-15
-
-Nordberg et al. (2014).
-Haaland (2016).
-
-[Side 95]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-forskjell mellom selv å henvise og å sende pasienten videre til en kollega som så henviser. Hvis
-begge handlinger fører til at abort finner sted, kreves det en forklaring på hvorfor reservasjonslegen aksepterer å gjøre det andre, men ikke det
-første.16
-Det som er et prinsipielt viktig spørsmål for
-utvalget, og som utvalget vil komme tilbake til på
-mer generelt grunnlag (se punkt 9.3.1), er hvorvidt den som vil reservere seg selv er den eneste
-som kan avgjøre om tilstrekkelig mye står på spill
-moralsk sett og om ens moralske integritet er
-truet, eller om et reservasjonsønske og etiske
-resonnementer kan og bør vurderes av arbeidsgiver, myndigheter eller andre parter.
-Når det gjelder hvorvidt det er snakk om
-moralsk relevante bidrag til at abort finner sted
-kan det hevdes at det er meningsfullt å snakke om
-«grader av medvirkning» til en moralsk kontroversiell handling. I dette perspektivet er det å utføre
-kirurgisk abort en sterkere grad av medvirkning
-enn det å assistere ved kirurgisk abort, som igjen
-er en sterkere grad enn det å henvise til abort,
-som igjen kan være sterkere enn det å overlate
-pasienten til en kollega som så henviser. Sykepleieren som yter pleie i etterkant av en abort, og ikke
-minst en drosjesjåfør som frakter pasienten til
-gynekologisk avdeling, medvirker derimot ikke til
-abort i moralsk meningsfull forstand. Imidlertid
-har et viktig tema i den offentlige debatten vært
-hvorvidt skillet mellom å henvise og å overlate til
-en kollega å henvise faktisk kan eller bør tillegges
-moralsk betydning.17
-En viktig grunn til at reservasjon mot henvisning til abort har blitt mer kontroversielt enn
-reservasjon mot å utføre selve aborten, er at
-reservasjon mot henvisning kan få langt mer konkrete konsekvenser for pasientene. Ved utførelsen
-av abort vil vanligvis ikke kvinnen møte den som
-reserverer seg, som nevnt ovenfor. Det vil langt
-oftere skje ved fastlegers reservasjon. Men hva
-konsekvensene av at fastleger får mulighet til å
-reservere seg rent faktisk kan bli, har vært
-omstridt i debatten.
-Det er få som bestrider at når pasientens lovfestede rett til abort står opp mot legens rett til å
-beskytte sin samvittighet må hensynet til pasienten veie tyngst, siden helsetjenesten nettopp er til
-for å tjene pasienten. Flere reservasjonstilhengere
-har svart at de er enige, men har hevdet at måten
-
-reservasjon faktisk finner sted på gjør at pasienten
-uten større ulempe får gjennomført abort.18 Ifølge
-disse er det derfor praktisk gjennomførbart å ivareta både pasientens rettighet og legens samvittighetsfrihet samtidig.19 Således kan det i hvert fall
-synes som om det er enighet om at jo større ulemper og hindringer i tilgangen til abort reservasjonen medfører for pasienten, jo mindre akseptabel
-er reservasjonen. Selv om pasienten ender opp
-med å få utført aborten, kan det imidlertid være
-andre ulemper slik som økt ventetid, ulempen ved
-ny konsultasjon hos annen lege på et annet tidspunkt og økt reisevei.
-Et viktig tema i den offentlige debatten har
-vært at møtet med legen som reserverer seg kan
-oppleves krenkende eller som moralsk fordømmende. I lege-pasientrelasjonen vil det ofte være
-en skjev maktbalanse mellom partene. En pasient
-som ønsker abort kan være sårbar og i en vanskelig situasjon. Hvordan påvirker det pasienten hvis
-legen lar det skinne igjennom, eksplisitt eller
-implisitt, at han eller hun er uenig i det valget
-kvinnen vurderer å ta? På den ene siden kan det
-hevdes at pasienter må skånes for formidling av
-slike moralske oppfatninger. På den andre siden
-kan det innvendes at reservasjonslegene vil ha de
-samme holdninger til abort også om de nektes
-reservasjonsadgang. En reservasjonsadgang gir
-uansett ikke legen noen fullmakt til å formidle
-moralsk fordømmelse. Kommunikasjonen både
-kan og bør skje med fintfølelse.
-Abort er fortsatt et omstridt moralsk spørsmål
-i vårt samfunn og det kan ikke være en rettighet å
-være skjermet fra moralsk uenighet i møte med
-andre borgere. Det er langt fra å opplyse nøkternt
-at man av moralske grunner ikke kan utføre en
-bestemt tjeneste til å fordømme eller krenke de
-som søker abort. Men på grunn av den makt legerollen fortsatt gir i møte med en ofte sårbar pasient, kan en slik uenighet uttrykt i dette møtet ha
-et større potensial for krenkelse enn når tilsvarende synspunkt fremmes som del av en offentlig
-debatt.
-Utvalget er ikke samstemte i vurderingen av
-styrken og relevansen av sentrale argumenter i
-debatten om reservasjonsadgang for fastleger.
-Det gjenspeiler den offentlige debatten i spørsmålet, men også en underliggende uenighet i hva
-som skal være grunnlag for å innvilge fritak fra
-18
-
-16
-
-For to ulike syn på dette, se Swensen (2012); Magelssen og
-Langeland (2014).
-17
-Se Swensen (2012) og Magelssen og Langeland (2014) for
-to ulike syn på dette spørsmålet.
-
-95
-
-Kapittel 8
-
-19
-
-Ettersom pasienten har rett til å fremme begjæring om
-abort direkte overfor sykehuset (jf. abortforskriften § 1) vil
-fastlegens reservasjon uansett ikke kunne frata pasienten
-tilgang til abort, men den kan vanskeliggjøre den.
-Felde (2013), Bergens Tidende.
-
-[Side 96]
-
-96
-
-NOU 2016: 13
-
-Kapittel 8
-
-Samvittighetsfrihet i arbeidslivet
-
-arbeidsoppgaver ved henvisning til egen samvittighet. Det gjelder ikke minst hvordan vi skal
-avgjøre hva som er en tilstrekkelig dyp overbevisning og hvilke konsekvenser en slik overbevisning bør føre med seg. Vi kommer tilbake til disse
-spørsmålene i punkt 9.3.1.
-Som gjennomgangen over viser, er ikke innrømmelse av reservasjonsadgang den eneste løsningen som kan ivareta reservasjonslegenes samvittighetsfrihet. Helse- og omsorgsdepartementet
-har i stedet valgt å fjerne fastlegers plikt til å henvise til abort. Dette sikrer dog ikke fastlegers samvittighetsfrihet i andre situasjoner enn abort, noe
-utvalget kommer tilbake til nedenfor.
-
-8.4
-
-Prevensjonsmidler
-
-Situasjonsbeskrivelse
-I forbindelse med at Helse- og omsorgsdepartementet vedtok å fjerne fastlegers plikt til å henvise
-til abort, uttalte de seg samtidig om andre reservasjonsproblemstillinger for fastleger, herunder
-innsetting av spiral som prevensjonsmiddel.20
-Departementet gjorde det klart at fastleger ikke
-skulle ha reservasjonsadgang ved denne eller
-andre arbeidsoppgaver. Heller ikke fastleger som
-deler pasientlister med kollegaer gjennom såkalte
-felleslister, skulle ha anledning til å overlate oppgaver til kollegaer av samvittighetsgrunner.21
-Noen fastleger og gynekologer har unnlatt å
-sette inn spiral (kobberspiral og/eller hormonspiral) med den begrunnelse at spiralen kan medføre
-at et befruktet egg skades slik at det ikke kan
-overleve, alternativt ikke fester seg i livmorveggen, og dermed ikke kan utvikle seg videre
-(såkalte «postfertiliseringseffekter»). Dette kan
-oppfattes som en «tidlig abort» ved at spiralen forårsaker at et påbegynt liv ikke lever videre. Under
-en forutsetning om at befruktede egg har menneskeverd og rett til liv kan dette bedømmes som
-etisk problematisk.
-For flere prevensjonsmidler er virkningsmekanismene ikke fullt ut klarlagt. Ifølge en masteroppgave fra NTNU i 2014 er tilgjengelige kunnskapsoppsummeringer få og ofte av svak kvalitet,
-20
-21
-
-Helse- og omsorgsdepartementet (2014b).
-«Ordningen med fellesliste gir grunnlag for at fastlegene
-kan fordele arbeidsoppgaver seg imellom for å dekke opp
-for ubesatte stillinger eller avtalehjemler, ferie- eller annet
-fravær eller av hensyn til kvaliteten på helsehjelpen. Etter
-departementets vurdering åpner ordningen med felleslister
-ikke for at fastlegene kan fordele oppgaver av andre grunner som for eksempel reservasjon av samvittighetsgrunner.» Helse- og omsorgsdepartementet (2014b) s. 8.
-
-men gir i sum støtte til den oppfatning at flere prevensjonsmidler, herunder kobber- og hormonspiral, kan ha de omstridte effektene.22
-I 2015 ble fastlege Katarzyna Jachimovicz
-oppsagt av Sauherad kommune fordi hun nektet å
-sette inn spiral. Jachimovicz gikk deretter til rettssak mot kommunen under henvisning til samvittighetsfriheten.23
-Drøfting
-Flere momenter som drøftes i de andre kasuistikkene fra helsetjenesten er også relevante i denne
-situasjonen. Her legger vi vekt på momentene
-som er særegne for spiralinnsetting.
-Sammenligner vi reservasjon mot spiralinnsetting med reservasjon mot utførelse av abort og
-aborthenvisning, framkommer noen forskjeller
-som har betydning. Formålet med abort er at fosterets liv skal avsluttes. Formålet med spiralinnsetting er derimot å forebygge svangerskap. Hvis
-spiralen forårsaker at en «tidlig abort» finner sted,
-er dette en utilsiktet bivirkning. Videre kan fastlegen hevdes å være mer sentral i årsakskjeden når
-han eller hun er den som setter inn spiralen, enn
-når han eller hun kun henviser til sykehusavdelingen som utfører abort.
-Innsetting av spiral er en praktisk ferdighet
-som ikke alle fastleger besitter. Helfos statistikk
-for 2012 indikerer at 3263 av landets ca. 4500 fastleger – ca. tre fjerdedeler – hadde satt inn spiral i
-løpet av året.24 Det synes altså å være et mindretall fastleger som ikke selv setter inn spiral, men
-som overlater oppgaven til kollegaer (eventuelt på
-fellesliste) eller henviser til gynekolog. I Informasjonsbrev til leger fra Helsedirektoratet om «Langtidsvirkende prevensjon inkludert i bidragsordning for prevensjon til unge kvinner» datert 5.
-februar 2015 står det at «Dersom du selv ikke har
-kompetanse i innsetting av spiral eller implantat,
-er det viktig å vise kvinnen videre til helsepersonell som kan gjøre dette».
-Dermed synes manglende praktisk kyndighet
-å være en akseptert begrunnelse for å overlate
-innsetting av spiral til kollegaer, uten at dette har
-vært problematisert. I lys av dette kan det synes
-urimelig at samvittighetsgrunner ikke på samme
-måte kan begrunne at legen kan overlate denne
-oppgaven til en kollega.
-22
-23
-24
-
-Nordpoll (2014).
-Støbakk (2016), Dagbladet.
-3263 fastleger hadde brukt taksten 214a («innsetting og
-skifting av spiral og prevensjonsstav») i 2012; Helfo (2012)
-s. 72.
-
-[Side 97]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Spiralinnsetting utgjør ingen omfattende andel
-av fastlegens oppgaver. Annerledes forholder det
-seg med prevensjonsveiledning og foreskrivning
-av prevensjonsmidler sett under ett. Hvis en fastlege vil reservere seg mot all befatning med prevensjonsveiledning og prevensjonsmidler, er det
-derfor trolig vanskelig å legge til rette for dette i
-praksis.
-
-8.5
-
-Assistert befruktning
-
-Situasjonsbeskrivelse
-I Norge kommer 3–4 prosent av fødsler etter bruk
-av teknikkene som samlet benevnes assistert
-befruktning.25 Assistert befruktning er et veletablert tilbud, men har, så vidt utvalget er kjent
-med, særlig to aspekter som kan oppleves som
-etisk utfordrende. Det ene er at in vitro-fertilisering (IVF, «prøverørsbefruktning») kan innebære
-at det produseres befruktede egg som ender med
-å bli destruert. I tillegg har utviklingen av metodene krevd bruk av befruktede egg som ble
-destruert i prosessen. For de som mener at
-befruktede egg har menneskeverd er dette
-moralsk problematisk. Det andre er at ved kjønnscelledonasjon vokser ikke barnet som blir til opp
-med begge de biologiske foreldrene. Dette gjelder sæddonasjon, som har til hensikt å hjelpe
-heterofile og lesbiske par til å få barn gjennom
-assistert befruktning. Det samme vil gjelde eggdonasjon dersom dette blir tillatt.
-Et reservasjonsønske kan komme enten fra
-helsepersonell som utfører eller assisterer ved
-selve den assisterte befruktningen, eller fra leger
-som må henvise pasienter til slik behandling.
-I forbindelse med at tilbudet om assistert
-befruktning for lesbiske ble vedtatt i 2008, besluttet Stortinget samtidig å anmode Regjeringen om
-å «sørge for at det legges til rette for at helsepersonell som av samvittighetsgrunner ønsker det i
-enkelttilfeller, skal kunne fritas fra å utføre eller
-assistere ved assistert befruktning».26 Fastlegers
-henvisning ble ikke nevnt, men Rådet for legeetikk foreslo i et brev til Helse- og omsorgsdepartementet av 1. desember 2008 at fastleger også
-burde få reservere seg mot å henvise lesbiske par
-til assistert befruktning. Ut fra dagens rettstilstand har fastleger ingen reservasjonsadgang,
-heller ikke for henvisning til assistert befruktning.
-25
-26
-
-Helsedirektoratet (2015) s. 19.
-Stortinget (2008).
-
-97
-
-Kapittel 8
-
-De som har samvittighetskvaler knyttet til
-assistert befruktning søker neppe arbeid på fertilitetsklinikker. Utvalget legger derfor til grunn at
-reservasjonsønskene trolig i stedet kommer fra
-leger som henviser, hvilket vil si fastleger og
-potensielt også gynekologer. Utvalget er kjent
-med noen få saker der fastleger ikke har villet
-henvise til assistert befruktning. I noen tilfeller
-gjaldt dette assistert befruktning som sådan. I
-andre tilfeller ønsket fastleger å reservere seg
-mot henvisning til kjønnscelledonasjon, slik som
-ved assistert befruktning spesifikt til lesbiske par.
-Sistnevnte problemstilling er sjelden – et overslag
-tilsa at en fastlege i gjennomsnitt vil møte lesbiske
-par som ønsker henvisning en gang hvert niende
-år.27
-Drøfting
-Når det gjelder etiske kvaler knyttet til destruksjon av befruktede egg kan det argumenteres for
-at dette er et forståelig etisk standpunkt, som riktignok forutsetter kontroversielle premisser om
-det befruktede eggets personstatus og etiske rettigheter. Reservasjonsønsket kan bygge på en dyp
-og begrunnet overbevisning. Som nevnt ovenfor,
-kan det å ødelegge befruktede egg for noen fortolkes som å ta liv, og det å befrukte et egg ved sæddonasjon vil innebære å frata et barn retten til å
-vokse opp med begge sine biologiske foreldre.
-Sammenlignet med aborthenvisning har den
-som henviser til assistert befruktning typisk en
-større distanse fra de moralsk omstridte handlingene. Fastlegen/gynekologen henviser vanligvis
-til fertilitetsutredning, og det er på henvisningstidspunktet et åpent spørsmål om utredningen vil
-ende med tilbud om assistert befruktning, og
-videre om det da vil bli laget overtallige befruktede egg som ender med å bli destruert. Det er
-altså ingen nødvendig sammenheng mellom henvisningen og den omstridte handlingen.
-Hvis legen ikke vil henvise et lesbisk par, er
-det viktig for den etiske analysen hvilken begrunnelse legen anfører. Hvis det dreier seg om en
-motstand mot at likekjønnede par får barn, vil
-reservasjonsønsket og nektelsen framstå som
-direkte diskriminerende på bakgrunn av seksuell
-orientering/samlivsform. Disse pasientene vil i
-disse tilfellene nektes et tilbud fra helsetjenesten
-som andre pasienter får, utelukkende fordi de tilhører en bestemt gruppe. Utvalget legger imidlertid til grunn at legen som oftest vil begrunne sitt
-reservasjonsønske med en overbevisning om at
-27
-
-Magelssen og Folstad (2011).
-
-[Side 98]
-
-98
-
-NOU 2016: 13
-
-Kapittel 8
-
-Samvittighetsfrihet i arbeidslivet
-
-barn bør få vokse opp med begge biologiske foreldre der det er mulig. På dette grunnlaget vil
-sæddonasjon til både lesbiske og heterofile par
-kunne være problematisk. Ved assistert befruktning har samfunn og helsetjeneste medansvar for
-barnets tilblivelse. Disse legene vil da mene at
-hensynet til barnet tilsier at planen fra start bør
-være at barnet skal vokse opp med og bli ivaretatt
-av biologisk mor og far. Dette involverer en oppfatning som mange vil regne som etisk rimelig og
-som er utbredt i vårt samfunn: I en befolkningsundersøkelse fra 2015 sa 27 prosent seg litt eller
-svært enig i at «sæd- og eggdonasjon er problematisk fordi barnet da ikke får vokse opp med begge
-genetiske foreldre».28 I samme undersøkelse sa
-58 prosent seg litt eller svært enig i at det er bra at
-lesbiske par har tilbud om assistert befruktning.
-Noen vil likevel kunne hevde at slik reservasjon
-innebærer indirekte diskriminering fordi det rent
-faktisk rammer alle lesbiske par og bare noen
-heterofile par.
-Videre er det, som i spørsmålet om reservasjon mot aborthenvisning, etisk relevant hvordan
-henvisende lege formidler reservasjonen og hvordan pasientenes behov for henvisning ivaretas, for
-eksempel gjennom avtale med kollega som overtar konsultasjonen. Den indirekte diskrimineringen kan unngås dersom pasienten ikke blir påført
-ulemper og får oppfylt sine rettigheter på lik linje
-med den øvrige befolkningen.
-
-8.6
-
-Aktiv dødshjelp
-
-Situasjonsbeskrivelse
-Aktiv dødshjelp er en samlebetegnelse på eutanasi
-og legeassistert selvmord. Eutanasi er en leges
-intenderte (tilsiktede) drap på en person ved å
-injisere medikamenter, på bakgrunn av personens
-frivillige og kompetente forespørsel. Legeassistert
-selvmord er en leges tilsiktede hjelp til en person i
-dennes selvmord, ved å skaffe til veie medikamenter som personen kan innta selv, på bakgrunn av
-personens frivillige og kompetente forespørsel.29
-På dette området, som på andre etisk kontroversielle felt, er det også en kamp om språk. For
-eksempel foretrekker noen derfor heller å snakke
-om «selvbestemt død» enn «selvmord». I denne
-teksten forholder vi oss til det etablerte begrepsapparatet.
-Aktiv dødshjelp er ulovlig i Norge. I Europa tillater Benelux-landene (Belgia, Nederland og
-
-Luxembourg) eutanasi og legeassistert selvmord,
-mens Sveits og Tysklands lovgivning kun åpner
-for assistert selvmord. Internasjonalt er det i
-mange land bevegelser for legalisering.
-I Benelux-landene er aktiv dødshjelp altså tillatt, men det er ingen rettighet pasientene har
-krav på, slik tilfellet er for eksempel med provosert abort i Norge. Leger i Benelux-landene kan
-derfor uten videre avslå anmodninger om aktiv
-dødshjelp hvis de ikke ønsker å bidra til dette. Det
-eksisterer heller ingen plikt til å henvise til kollegaer som er villige til å utføre dødshjelp, men nettopp dette er omdiskutert. Den nederlandske legeforeningen uttalte i 2011 at leger som ikke selv vil
-utføre dødshjelp, burde være pliktige til å henvise
-pasienter til kollegaer.30 I Nederland utføres de
-fleste tilfeller av eutanasi av allmennleger.31
-Hvis aktiv dødshjelp skulle bli tillatt i Norge,
-vil dette kunne bli en oppgave for fastleger, sykehjemsleger samt leger i noen sykehusspesialiteter. Annet helsepersonell, som sykepleiere og farmasøyter, vil kunne være indirekte involvert. Som
-situasjonen i Nederland viser, vil det ha stor betydning om dødshjelp da blir en pasientrettighet eller
-ikke. De ulike helseprofesjonene i Norge har egne
-etiske retningslinjer for yrkesutøvelsen.32 Disse
-gjør det klart at aktiv dødshjelp er uforenlig med
-profesjonsutøvernes rolle.
-Drøfting
-Aktiv dødshjelp innebærer at legens handlinger
-utgjør et tilsiktet bidrag til pasientens død. Dermed er det klart at dødshjelpshandlingen bærer et
-stort moralsk alvor. Blant de som er motstandere
-av aktiv dødshjelp, anføres både allmennetiske og
-profesjonsetiske begrunnelser. En allmennetisk
-begrunnelse kan være at det er galt å ta menneskeliv og/eller at aktiv dødshjelp er en praksis som er
-skadelig for samfunnet og svake grupper. En profesjonsetisk begrunnelse kan være at aktiv dødshjelp går mot helseprofesjonenes grunnleggende
-normer om ikke å skade og ikke å ta liv. Etter
-utvalgets mening er det ikke i noen av tilfellene tvil
-om at dødshjelp er en så alvorlig handling at det er
-forståelig at dette kan stride mot dype moralske
-oppfatninger hos helsearbeidere.
-Et viktig spørsmål er om det kan legges til
-rette for reservasjon i praksis. Gitt den utbredte
-30
-31
-
-28
-
-Magelssen (2015).
-29
-Nordstrand et al. (2013).
-
-32
-
-Koninklijke Nederlandsche Maatschappij tot bevordering
-der Geneeskunst (KNMG) (2011).
-Van der Heide, et al. (2007) s. 1960.
-Jf. Etiske regler for leger (2015) § 5 og Yrkesetiske retningslinjer for sykepleiere (2011) punkt 2.11.
+Hvis aktiv dødshjelp skulle bli tillatt i Norge, vil dette kunne bli en oppgave for fastleger, sykehjemsleger samt leger i noen sykehusspesialiteter. Annet helsepersonell, som sykepleiere og farmasøyter, vil kunne være indirekte involvert. Som situasjonen i Nederland viser, vil det ha stor betydning om dødshjelp da blir en *pasientrettighet* eller ikke. De ulike helseprofesjonene i Norge har egne etiske retningslinjer for yrkesutøvelsen.[^309] Disse gjør det klart at aktiv dødshjelp er uforenlig med profesjonsutøvernes rolle.
+
+*Drøfting*
+
+Aktiv dødshjelp innebærer at legens handlinger utgjør et tilsiktet bidrag til pasientens død. Dermed er det klart at dødshjelpshandlingen bærer et stort moralsk alvor. Blant de som er motstandere av aktiv dødshjelp, anføres både allmennetiske og profesjonsetiske begrunnelser. En allmennetisk begrunnelse kan være at det er galt å ta menneskeliv og/eller at aktiv dødshjelp er en praksis som er skadelig for samfunnet og svake grupper. En profesjonsetisk begrunnelse kan være at aktiv dødshjelp går mot helseprofesjonenes grunnleggende normer om ikke å skade og ikke å ta liv. Etter utvalgets mening er det ikke i noen av tilfellene tvil om at dødshjelp er en så alvorlig handling at det er forståelig at dette kan stride mot dype moralske oppfatninger hos helsearbeidere.
+
+Et viktig spørsmål er om det kan legges til rette for reservasjon i praksis. Gitt den utbredte motstanden mot aktiv dødshjelp blant norske leger,[^310] er det ikke sikkert at en kollega som er villig til å utføre slike handlinger er tilgjengelig. Pasienter som ber om dødshjelp vil typisk være syke og svake og ha vanskelig for å forflytte seg til en lege som er villig til å utføre aktiv dødshjelp. Her er det en kontrast til spørsmålet om reservasjon mot aborthenvisning hvor pasientene typisk er friske og mobile.
+
+Lege-pasientforholdet kan være minst like nært og viktig for pasienter som ønsker aktiv dødshjelp som for abortsøkende kvinner. Aktiv dødshjelp blir typisk aktuelt mot slutten av et lengre forløp med kronisk sykdom og/eller lindrende behandling. Det å søke ny lege innebærer således et kontinuitetsbrudd og vil kunne oppleves som en betydelig belastning for den syke.
+
+Dersom aktiv dødshjelp skulle bli tillatt som en rettighet i Norge, er det vanskelig å se for seg hvordan leger skal få en generell reservasjonsrett mot å utføre og henvise til dødshjelp *uten byrde og belastning* for pasientene og *uten at den reelle tilgangen til dødshjelp innskrenkes* for noen pasienter. I en avveining må man ta stilling til om slike konsekvenser for pasienter er akseptable, og om hensynet til at helsepersonell skal få slippe befatning med aktiv dødshjelp skal veie tyngre.
+
+1.  **Omskjæring**
+
+*Situasjonsbeskrivelse*
+
+Omskjæring av gutter av religiøse og kulturelle grunner – rituell omskjæring – er omstridt i Norge. Fra januar 2015 ble rituell omskjæring av gutter igjen et lovfestet offentlig helsetilbud i Norge. Lovendringen kom etter en lang offentlig debatt om dette kontroversielle spørsmålet. En viktig begrunnelse var skadereduksjon. Ved at omskjæring tilbys på offentlige sykehus, håper man å redusere risiko for komplikasjoner ved omskjæring utført under ikke-optimale forhold. Inngrepet utføres av barnekirurger og urologer, og noen av disse har ønsket å reservere seg mot å utføre slike inngrep.
+
+Myndighetene framhevet at de regionale helseforetakene har stor frihet til å finne ut hvordan tilbudet om omskjæring organiseres i praksis, og at en der det er mulig kan ta hensyn til den enkelte leges reservasjonsønske så lenge dette ikke innebærer at det lovfestede tilbudet svekkes. Dette ble tatt inn i lov om rituell omskjæring, der det i § 4 heter: «I den grad det ikke hindrer et forsvarlig tilbud, skal det tas hensyn til helsepersonell som av samvittighetsgrunner ikke ønsker å utføre eller assistere ved slike inngrep.» Det ble derimot ikke innført noen lovfestet rett for helsepersonell til å reservere seg mot å utføre eller assistere ved slik inngrep. Det følger av forarbeidene til bestemmelsen at «Det regionale helseforetaket må organisere spesialisthelsetjenesten på en slik måte at rituell omskjæring kan bli utført innen rimelig tid og det vil ikke være adgang til å avslå et ønske om rituell omskjæring utelukkende under henvisning til at helsepersonell ved sykehuset ikke ønsker å utføre inngrepet eller assistere ved inngrepet».[^311]
+
+Da loven ble innført anslo man et behov for 2000 omskjæringer årlig, i all hovedsak av muslimske guttebarn. Langt færre inngrep enn dette har funnet sted i lovens første virkeår (2015), ifølge en artikkel i Dagens Medisin.[^312] Der framgår det også at kapasitetsproblemer og interne prioriteringer på urologiske og barnekirurgiske avdelinger, mer enn antallet leger som har reservert seg, er hovedforklaringen på at så få inngrep har blitt utført hittil. Flere helseforetak har overlatt inngrepet til private sykehus.
+
+Det finnes ingen systematisk oversikt over hvor mange leger som har reservert seg mot å utføre omskjæring. Medieoppslag tyder på at det ved noen sykehus er mange leger som har ønsket å reservere seg, mens det ved andre ikke er så utbredt. Fra medieoppslag framgår det også at legenes argumenter mot rituell omskjæring særlig er at inngrepet ikke er medisinsk-faglig begrunnet, at det har en risiko for komplikasjoner (om enn ikke stor), at pasienten ikke kan samtykke til inngrepet og at omskjæring påfører en irreversibel markør for religiøs og/eller kulturell tilhørighet. Det har også vært hevdet at det må være opp til den enkelte å «velge» sin religiøse og/eller livssynsmessige identitet, og at rituell omskjæring begrenser denne valgfriheten.
+
+*Drøfting*
+
+Legene som er kritisk til omskjæring kan, som vi ser, dele de begrunnelsene som anføres av andre deltakere i samfunnsdebatten, slik som at inngrepet påfører barnet en irreversibel markør for tilhørighet. I tillegg har legene argumenter som enten springer ut av – eller gis ekstra tyngde av – det medisinsk-faglige og profesjonsetiske, slik som argumentet om at rituell omskjæring ikke er medisinsk-faglig begrunnet.
+
+Legenes reservasjonsønsker synes altså å bygge på samvittighetsoverbevisninger som er formet både av faglige og allmenn-etiske (det vi i punkt 4.5 kaller «personlige») begrunnelser. Mange vil mene at det er en viktig profesjonsetisk oppgave for helsepersonell å sette grenser for fagets virkeområde.[^313] I dette perspektivet bør leger og annet helsepersonell aktivt avgrense seg fra slikt som ikke er sykdomsbehandling og som ikke er helsefremmende. Betydningen av å respektere helsepersonells selvstendige profesjonsetiske overveielser av denne typen er et selvstendig argument for å respektere et reservasjonsønske knyttet til rituell omskjæring. Noen tilfeller av reservasjonsønsker kan også grunne seg på en politisk motstand mot omskjæringsloven, heller enn en faglig eller personlig samvittighetsoverbevisning.
+
+Hvor tungtveiende er legenes overbevisning om at det er galt for dem å utføre omskjæring? Til forskjell fra abort er det ved omskjæring ikke snakk om en liv-død-situasjon. Derimot er det i likhet med abort mulig for legene å argumentere med at prosedyren bør ligge utenfor fagets virkeområde og følgelig er i strid med profesjonsetikken. For utvalget framstår det plausibelt at en motstand mot å utføre rituell omskjæring kan bygge på en dyp samvittighetsoverbevisning.
+
+Dersom det ikke gis adgang til reservasjon, må en vurdere konsekvensen av dette. For noen vil spørsmålet om rituell omskjæring være så alvorlig at de vil velge oppsigelse, eller eventuelt ikke søke på enkelte jobber, framfor å gjennomføre inngrepet. Dersom det er så alvorlig for den enkelte lege og det samtidig er relativt enkelt å finne andre leger som kan gjennomføre inngrepet uten at det rammer den som ber om tjenesten, taler det for at det gis mulighet til reservasjon.
+
+Dersom mange leger reserverer seg, særlig i helseregioner der det er få leger som kan gjennomføre inngrepet, vil dette i praksis innebære en reell begrensning i muligheten til å få gjennomført et tilbud som er en lovfestet rettighet. Loven forsøker å forebygge en slik situasjon ved at reservasjonsønsker bare skal hensyntas «i den grad det ikke hindrer et forsvarlig tilbud».
+
+1.  **Religiøst forankrede praksiser**
+
+    1.  **Innledning**
+
+Enkelte religiøst og livssynsmessige forankrede praksiser kan skape utfordringer i arbeidslivet. Det kan for eksempel gjelde arbeidstakere som av religiøse årsaker ikke ønsker å håndhilse på eller sitte i samme bil som kollegaer, pasienter eller elever av motsatt kjønn. Det kan også gjelde arbeidstakere i butikker og på restauranter som av religiøse grunner ikke ønsker å håndtere enkelte typer mat og drikke, for eksempel kjøtt av svin eller ku eller alkohol.
+
+Selv om begge situasjonene kan sies å dreie seg om religiøst eller livssynsmessige forankrede praksiser vil utvalget behandle dem hver for seg.
+
+1.  **Sosiale sammenhenger i arbeidslivet**
+
+*Situasjonsbeskrivelse*
+
+Utvalget tenker her på situasjoner der personer ikke ønsker å berøre enkelte andre, for eksempel lærere som nekter å håndhilse på elever og kollegaer av et bestemt kjønn og mannlige leger som nekter å håndhilse på kvinnelige pasienter. Fra svensk presse har vi sett at en mannlig politiker ikke ville håndhilse på en kvinnelig reporter, noe som skapte debatt i Sverige. Det samme gjelder situasjoner der personer ikke ønsker å oppholde seg i samme rom som enkelte andre. Utvalget er også kjent med en sak fra norsk arbeidsliv der en mannlig renholder ikke vil kjøre i samme bil som sine kvinnelige kollegaer på vei til oppdrag eller vaske på samme sted som sine kvinnelige kollegaer.
+
+Det kan også tenkes situasjoner der en lærer krever at elevene håndhilser selv om elevene av religiøse årsaker ikke aksepterer dette, eller at en lege krever av pasientene sine at de håndhilser og nekter å behandle pasienter som ikke gjør det.
+
+Andre eksempler på religiøs praksis kan være en barnehagelærers ønske om ikke å spise sammen med barna under Ramadan, et Jehovas vitnes ønske om ikke å være tilstede på arbeidsplassen under, eller delta i, bursdagsfeiring for en av sine kollegaer, en adventist som ikke kan arbeide på helligdager, en kvinnelig muslim som krever å benytte hijab på jobben og en mannlig sikhs krav om å benytte turban på jobb.
+
+Som det framgår av punkt 2.3 vil problemer knyttet til bruk av religiøse plagg, som for eksempel hijab og turban, i utgangspunktet falle utenfor utvalgets mandat.
+
+*Drøfting*
+
+Utvalget legger til grunn at etterlevelse av religiøse ritualer og religiøs adferd praktiseres ulikt, og at det dermed også er svært forskjellig hvor stor betydning etterlevelse har for den enkelte. For noen vil det ikke å kunne etterleve praksisen ikke ha så stor betydning, mens for andre vil det innebære å bryte med en viktig overbevisning.
+
+Selv om det kan være vanskelig å forstå for andre at en slik praksis kan ha stor betydning for noen, for eksempel fysisk berøring eller håndhilsning på en av motsatte kjønn, kan brudd på en slik praksis være dyptgripende for den arbeidstakeren det gjelder.
+
+Oftest vil arbeidstakere kunne etterleve religiøse praksiser uten at kollegaer og andre engang merker det, i hvert fall uten at det går ut over andre eller at andre opplever det som negativt. I enkelte tilfeller og situasjoner kan imidlertid religiøse praksiser få betydning for andre. I tillegg til at for eksempel kollegaer, pasienter og elever kan oppleve konsekvensene som vesentlige og alvorlige, vil de også kunne oppleves som krenkende. I noen tilfeller kan utøvelse av religiøse ritualer medføre merarbeid for andre.
+
+Utøvelse av religiøse ritualer og praksiser kan også ha betydning for arbeidsforholdet som sådan, og dermed gå utover arbeidsgivers interesse i å få en jobb gjort. Det vil for eksempel være tilfelle der en arbeidstaker må avbryte et konkret arbeid for å gå til bønn eller at en arbeidstaker ikke ønsker å tilby tjenester til enkelte personer, for eksempel på grunn av kjønn.
+
+Å bli nektet å be i arbeidstiden kan være svært inngripende for noen. Ofte kan bønn likevel greit utføres i arbeidstiden uten at det går utover verken arbeidsgiver eller andre. I andre tilfeller kan det ha større konsekvenser. Det gjelder blant annet i tilfeller der en arbeidstaker er alene om å utføre en tjeneste og denne må avbrytes. Det kan for eksempel gjelde sjåfører dersom de må avbryte kjøringen. Også i møte med kollegaer kan religiøse ritualer og praksiser ha betydning. Ovenfor ble det nevnt et tilfelle der en mannlig renholder ikke ville kjøre bil sammen med kvinnelige kollegaer på vei til oppdrag. Selv om det var viktig for renholderen å etterleve sin religion på dette punktet, ble konsekvensene store for både kollegaene og ikke minst arbeidsgiver. Når det oppstår betydelige negative konsekvenser for tredjepart eller det i praksis ikke lar seg gjøre å tilpasse arbeidsoppgavene, vil det være urimelig å kreve slik tilpasning, selv om det ligger en dyp overbevisning til grunn for kravet.
+
+Et annet eksempel kan være en lege som av religiøse grunner ser det som problematisk å måtte håndhilse på pasienter av annet kjønn. Det vil kunne oppleves inngripende og krenkende for en pasient om legen nekter å håndhilse. I tillitsforholdet mellom en lege og en pasient, på samme måte som mellom en lærer og en elev, er det viktig at den profesjonelle part setter hensynet til pasient og elev foran egne interesser. Ikke minst må en lege kunne gjennomføre undersøkelser av en pasient av motsatt kjønn.
+
+At en kollega ikke vil håndhilse eller delta i bursdagsfeiring kan også oppleves som støtende av noen. Samtidig er det andre måter å hilse og vise respekt på innenfor ulike kulturelle tradisjoner, som å holde hånden for brystet og bukke eller lignende.
+
+At en muslimsk barnehagelærer ikke vil spise svinekjøtt til lunsj sammen med barna i barnehagen eller ikke ønsker å spise sammen med barna under Ramadan vil neppe kunne ha særlige konsekvenser eller oppleves å være krenkende for andre.
+
+Et annet eksempel kan knyttes til Jehovas vitner som av religiøse årsaker ikke deltar i bursdagsfeiringer, og av samme årsak ikke ønsker å være tilstede ved en bursdagsfeiring for en av sine kollegaer selv om denne skjer på arbeidsplassen i arbeidstiden. En slik holdning vil kunne hindre deltagelse i en sosial aktivitet i arbeidstiden, og vil dermed kunne ha betydning for arbeidsmiljøet og arbeidskulturen. Likevel vil det neppe oppleves særlig krenkende av andre at en eller noen kollegaer ikke deltar i bursdagsfeiringen med en slik begrunnelse. Tvert imot vil et krav om tilstedeværelse på slike arrangementer være en urimelig begrensning på religionsfriheten, og bør heller ikke betraktes som en arbeidsoppgave man trenger fritak for.
+
+1.  **Håndtering av mat og drikke**
+
+*Situasjonsbeskrivelse*
+
+Det kan tenkes situasjoner hvor arbeidstakere ønsker å reservere seg mot å bearbeide, behandle og/eller selge enkelte typer matvarer og drikke. I praksis er det gjerne snakk om befatning med enkelte typer kjøtt og alkohol.
+
+Ulike religioner har forskjellige påbud og forbud for sine troende, blant annet har islam forbud mot for eksempel svinekjøtt og alkohol. For noen gjelder dette også biprodukter, noe som betyr at de verken ønsker å ha befatning med svin eller produkter av svin, som blodmat eller gelatin. De kan også ha et ønske om ikke å ha befatning med dyr som er slaktet på feil måte eller selvdøde dyr.
+
+På bakgrunn av dette kan det være forståelig at muslimer ikke ønsker å håndtere og selge, og dermed tjene penger på slike produkter. For de det gjelder kan det dreie seg om en dyp overbevisning, og adgang til reservasjon kan derfor oppleves påkrevd. Det ikke å ønske å ha befatning med svin og alkohol av religiøse årsaker er dermed langt mer alvorlig enn en mer overflatisk preferanse av typen «Jeg liker ikke svin» eller «Jeg fordrar ikke alkohol».
+
+I desember 2013 vakte det engelske varehuset Marks & Spencer sterke reaksjoner hos sine kunder og møtte også et opprop til boikott av varehuset etter at de hadde lansert et regelverk som tillot at ansatte som av religiøse grunner ikke rørte svinekjøtt eller alkohol, skulle slippe å håndtere disse varene i møte med varehusets kunder. Det skapte massive protester da kunder som kjøpte disse produktene fikk beskjed om å henvende seg i en annen kasse av en ansatt som hadde reservert seg mot slike varer. Det tok ikke lang tid før varehuset reverserte sitt regelverk og i tillegg beklaget overfor sine kunder.
+
+*Drøfting*
+
+Det er ikke vanskelig å tenke seg at en tilsvarende problemstilling som den i Storbritannia kan gjøre seg gjeldende i Norge, selv om utvalget ikke er kjent med at det har vært tilfelle. Norge har en stor muslimsk befolkning og norske butikker selger gjerne svinekjøtt og alkohol. Det er heller ikke vanskelig å tenke seg at lignende problemstillinger kan gjøre seg gjeldende med andre grupper enn muslimer, både religiøse og sekulære.
+
+Selv om svinekjøtt og alkohol er «forbudt» for muslimer, vil ikke alle ha motforestillinger mot å selge disse produktene. Likevel er det forståelig at enkelte arbeidstakere kan ha motforestillinger mot å håndtere disse produktene gjennom arbeidet, og at det kan oppleves som en krenkelse av moralsk/religiøs integritet dersom de skulle bli presset til det.
+
+Også andre arbeidstakere kan ha dyptgripende motforestillinger mot bestemte mat- og drikkevarer uten at det har en religiøs begrunnelse. Det kan for eksempel være vegetarianere og veganere som mener det er moralsk forkastelig å bearbeide og spise kjøtt, samt personer som mener alkohol er destruktivt for samfunnet og dermed ikke ønsker å bidra til at noen i det hele tatt kan kjøpe alkohol.
+
+En butikk- eller restauranteier vil ønske å tilby lovlige produkter for salg. Det er en forutsetning for driften at så skjer og det er mange berørte parter (eier og arbeidsgiver, andre ansatte, produsenter og kunder) som er avhengig av at driften er god og effektiv. Det at enkelte medarbeidere reserverer seg mot å komme i kontakt med bestemte produkter, kan skape problemer for salg og effektiv drift. Det at enkelte medarbeidere gir uttrykk for en negativ holdning til enkelte produkter kan også være ødeleggende for bedriftens omdømme. Det kan oppleves som støtende for kundene dersom de oppfatter dette som en moralsk fordømmelse av deres spise- og drikkevaner. Mat og drikke er sentralt i alle tradisjoner og kan derfor ha identitetsmessig betydning. Samtidig kan reaksjonen bunne i politiske syn på religionens innflytelse på hverdagslivet i samfunnet og derfor ikke dreie seg om en krenkelse i streng forstand.
+
+I noen tilfeller vil det trolig være mulig å frita en arbeidstaker fra de delene av en jobb som innebærer håndtering av visse produkter uten spesielle ulemper for virksomheten, arbeidsgiver, kollegaer eller kunder.
+
+I andre sammenhenger vil reservasjon derimot skape utfordringer. Dersom en kelner ikke vil servere alkohol eller kjøtt kan dette innebære å nekte en helt vesentlig del av hans eller hennes jobb, noe som kan skape utfordringer både for arbeidsgivere, kollegaer og kunder og gjøre tilrettelegging vanskelig eller umulig. I tillegg kan motviljen formidle en negativ holdning til restaurantens produkter.
+
+Også produsentene av disse produktene kan tenkes å bli skadelidende av at produktene hos enkelte ansatte i butikker betraktes som så urene/uakseptable at han eller hun ikke vil ha noe med dem å gjøre, og kanskje også formidler dette synet til kunden. Det vil kunne oppfattes som en indirekte oppfordring til å velge alternative produkter og slik sett være ufordelaktig for produsenten.
+
+Hvis motforestillingen mot enkelte produkter er så stor at man ikke ønsker å ha befatning med disse, kan det hevdes at vedkommende strengt tatt ikke egner seg som ansatt i denne bestemte virksomheten.
+
+Mot dette kan det hevdes at vi må tåle å konfronteres med moralsk uenighet i møte med andre borgere. Ut fra dette argumentet har ikke kunden en rett til å slippe å møte butikkansatte som reserverer seg. Men det kan like fullt hende at kundene ikke vil akseptere en slik avvisning og vil bruke sin kundemakt til å få butikken til å endre praksis – slik som i eksemplet fra Storbritannia.
+
+1.  **Arbeid på religiøse helligdager**
+
+*Situasjonsbeskrivelse*
+
+For en arbeidstaker kan det være viktig å få fri til å feire helligdager som er sentrale innen vedkommendes religiøse tradisjon. For noen vil dette være en sentral del av deres livssyn og identitet som de vil oppleve det som inngripende å måtte avstå fra å ta del i. For andre er det mer en hyggelig markering sammen med familie og kjente. Samarbeidsrådet for tros- og livssynssamfunn (STL) har fra 2012 utarbeidet en kalender med oversikt over mange av de religiøse helligdagene som feires av ulike deler av Norges befolkning.[^314]
+
+Fri til å ta del i religiøse feiringer på dager som normalt er ordinære arbeidsdager faller innenfor utvalgets mandat hvis det oppstår en samvittighetskonflikt for arbeidstakeren dersom han eller hun nektes fri på dager som er helt sentrale i dennes religion.
+
+Det er en vanlig ordning i mange land at en rekke offisielle fridager følger de tradisjonelle fridagene til den religiøse majoriteten. Mens det i Frankrike er den katolske kirkes kalender som følges, følger vi kalenderen til den protestantiske majoritetskirken Den norske kirke. Når helligdager i Norge følger kristne høytider får majoritetsbefolkningen en mulighet til å feire sine høytider i samsvar med sin religions tradisjoner.
+
+Arbeidstakere som ikke er medlem av Den norske kirke har etter lov om trudomssamfunn og ymist anna § 27a rett til inntil to dager fri i året i forbindelse med religiøse høytider etter sin egen religion. Denne retten er innført for å legge til rette for tros- og livssynsfrihet, også for minoriteter. Ordningen kan dermed sees som en form for kompensasjon for en fordel majoritetsbefolkningen har, og altså som et tiltak for å sikre reell likebehandling eller reelt like rettigheter. Arbeidsgiver kan ikke kreve noen form for bevis for at arbeidstakeren faktisk tilhører den religionen han eller hun hevder.[^315]
+
+Rett til velferdspermisjoner med eller uten lønn kan også følge av tariffavtaler, arbeids- og personalreglementer eller individuelle arbeidsavtaler. Retten til velferdspermisjon må praktiseres på samme måte for ulike religioner. Likestillings- og diskrimineringsombudet har behandlet en sak om en dansk barnehageassistent som arbeidet i en norsk barnehage som fikk avslag på søknad om velferdspermisjon med lønn på Store Bededag. Store Bededag er en helligdag i Den danske folkekirke, men ikke i Norge. Arbeidstakeren viste blant annet til at en muslimsk arbeidskollega hadde fått velferdspermisjon i forbindelse med Id-feiringen. Til tross for at Store Bededag neppe er like sentral for medlemmer i Den danske folkekirke som Id-feiringen er for en muslim, fikk assistenten medhold i at hun var blitt diskriminert på grunnlag av religion.[^316]
+
+Når det gjelder den lovfestede retten til to dager årlig fri, er det laget regler om varsling i tide og om innarbeiding av fridager i lov om trudomssamfunn og ymist anna § 27a. Disse reglene er begrunnet i hensynet til arbeidsgiver, som vil kunne ha behov for en viss oversikt over når det er aktuelt at arbeidstakerne skal ha fri.[^317] Arbeidstaker som ønsker å benytte denne retten til religiøse fridager pålegges dermed å gi arbeidsgiver varsel senest 14 dager i forveien. Det følger av paragrafens andre ledd at arbeidsgiver kan kreve at arbeidstaker arbeider fridagene inn igjen. Når disse dagene skal arbeides inn skal diskuteres med arbeidstaker, men det er arbeidsgiver som har det endelige ordet. I siste ledd slås det fast at arbeidsmiljølovens regler om overtid ikke kommer til anvendelse på innarbeiding av disse fridagene. Utover dette reguleres ikke lønn av bestemmelsen.
+
+*Drøfting*
+
+Det vil være relevant hvorvidt en arbeidstakers ønske om fri for å feire sine religiøse helligdager skaper større problemer for arbeidsgiver og om det eventuelt går ut over andre arbeidstakere eller brukere (tredjepersoner).
+
+Det er viktig å merke seg at den lovfestede retten til fri på helligdager gjelder uavhengig av om det er vanskelig å legge til rette for slik fri. Det kan imidlertid tenkes at en arbeidstaker ønsker å få fri utover disse to dagene. Spørsmålet blir da om arbeidstakere bør kunne kreve fri utover det som følger av den nevnte loven.
+
+Utvalget mener at dersom ønsket om fri på slike dager praktiseres i god dialog mellom arbeidstaker og arbeidsgiver, vil det normalt trolig være mulig å unngå at arbeidsgiver får større problemer på grunn av dette og at det sjelden vil oppstå situasjoner der tredjeparts rettigheter rammes. Dersom det skulle vise seg at slike konflikter oppstår med tredjeparts rettigheter, bør det foretas en vurdering og avveining av hvor inngripende dette er for tredjepart og hvor dyptgripende det er for arbeidstaker dersom han eller hun ikke får fri.
+
+Dersom det for eksempel er en kirurg som to måneder i forveien ber om fri en dag for å feire en sentral religiøs høytid, må en gå ut fra at det er mulig for arbeidsgiver å finne en annen som kan ta den aktuelle vakten. Men dersom det skjer en stor ulykke og det på grunn av unormalt mange pasienter på akuttmottaket trengs hjelp av legen for å redde liv, mener utvalget at hensynet til pasientenes liv og helse må gå foran hensynet til legens fridag, uavhengig av på hvilket grunnlag man har fri.
+
+Et lignende spørsmål knytter seg til fri på bestemte tider på bestemte ukedager for å delta i enkelte religiøse aktiviteter og ritualer. Også her vil det variere fra person til person hvor viktig slik deltakelse er, med store variasjoner også innad i det enkelte trossamfunn. En del ønsker for eksempel å «holde hviledagen hellig», mens for andre som tilhører samme trossamfunn er dette av underordnet betydning. Mens søndag tradisjonelt er helligdagen for kristne, er det lørdag som er jødenes sabbatsdag. Muslimene har ikke en egen fridag på samme måte, men en del muslimer har et sterkt ønske om å delta i bønn i moskeen fredag ettermiddag.
+
+Også her ser vi at norsk lovgivning og praksis følger majoritetens tradisjoner. Søndag er innarbeidet som offisiell helligdag, og det er bestemt ved lov at offentlige kontorer og de fleste butikker og andre bedrifter skal være stengt søndager. Noen unntak gis, som for eksempel for butikker som ligger ved større turistutfartssteder, bensinstasjoner og sykehus. Det blir da et spørsmål om det påligger arbeidsgiver et ansvar for å legge til rette for at arbeidstakere som har en annen religiøs eller livssynstradisjon skal kunne få fri på det som for dem er tilsvarende religiøse fridager eller på bestemte bønnetider en fast dag i uken.
+
+De sentrale spørsmålene er hvor dyptgripende det vil være for arbeidstaker å ikke kunne få fri en slik ukedag eller på en bestemt bønnetid, hvor store praktiske problemer dette eventuelt påfører arbeidsgiver og hvorvidt det vil være inngripende for en tredjepart. Her vil en igjen måtte forutsette at det er en god dialog mellom arbeidstaker og arbeidsgiver. Det kan innebære at arbeidstaker er villig til å forklare viktigheten av dette fritaket, og at arbeidsgiver er villig til å respektere betydningen av slike religiøst betingede påbud, selv om han eller hun ikke deler dette livssynet. I en del stillinger og på en del arbeidsplasser vil det være mulig å legge til rette for eksempel for fri på lørdager for jøder som ønsker det uten at dette skaper større praktiske problemer eller rammer andre rettigheter. Tilsvarende vil det i en del yrker være lett å imøtekomme ønske om fri noen timer fredag ettermiddag for muslimer. I så tilfelle bør det være mulig å legge til rette for det.
+
+1.  **Skolegudstjeneste og åndelig omsorg på sykehjem**
+
+*Situasjonsbeskrivelse*
+
+Disse eksemplene omhandler arbeidstakere som ønsker å reservere seg mot arbeidsoppgaver de selv oppfatter som religionsutøvelse eller tilslutning til en bestemt religion. Spørsmålet er kommet opp i forbindelse med lærere ved offentlige grunnskoler som pålegges å følge elever på skolegudstjeneste og ansatte på sykehjem som for eksempel forventes å lese Fadervår for beboerne.
+
+*Lærere og skolegudstjeneste*
+
+Julegudstjenesten har en lang tradisjon i norsk skole. Ettersom julegudstjenester skjer i skoletiden har Kunnskapsdepartementet ansett slike som en del av elevenes opplæring og som en del av de ansattes arbeidsdag på skolen. Departementet har lagt til grunn at skolen kan gjennomføre gudstjenester som en del av sin generelle kultur- og tradisjonsformidling, selv om det ikke er en obligatorisk del av opplæringen. Gudstjenesten kan ikke være en del av KRLE-faget.[^318] Ved en del skoler må elever nå aktivt melde seg på til slike gudstjenester. Elever har uansett rett til fritak fra julegudstjenesten, men det er ingen tilsvarende lovfestet fritaksrett for lærere som for eksempel ikke er troende eller som tilhører en annen religion.[^319] Spørsmålet om lærerne har plikt til å følge elevene til julegudstjeneste ble aktualisert i Oslo kommune vinteren 2015. Human-Etisk Forbund mente at lærere ikke kan pålegges å følge elever til skolegudstjeneste. Selv om opplæringslova ikke inneholder noen bestemmelse om fritaksrett for lærere, vil en fritaksrett etter forbundets mening følge av religions- og livssynsfriheten etter Grunnloven § 16 og menneskerettsloven sammenholdt med internasjonale menneskerettskonvensjoner.[^320]
+
+Som svar på en henvendelse fra Human-Etisk Forbund skriver Oslo kommune følgende:
+
+Så vidt vi kan se må rektor i kraft av sin styringsrett kunne pålegge sine ansatte, både kontaktlærere og andre, å følge elevene til gudstjeneste når dette skjer i skoletiden.[^321]
+
+I et svar til Stortinget ga kunnskapsminister Røe Isaksen uttrykk for det samme synet som Oslo kommune og understreket at lærere etter opplæringslova ikke har krav på fritak for denne type aktiviteter.[^322] På samme måte som Oslo kommune framhevet han at skolegudstjenester som skjer i skoletiden er en del av elevenes opplæring og dermed også de ansattes arbeidsdag på skolen. Det innebærer at en lærer må forvente at det kan være en del av arbeidsoppgavene å følge elevene til gudstjeneste og å ha tilsyn med dem der.
+
+Human-Etisk Forbund er av den oppfatning at skolegudstjenester innebærer religionsutøvelse og dermed ikke kan anses som en ordinær arbeidsoppgave. De viser til Den norske kirkes egen definisjon av gudstjenester som «det viktigste møtestedet for kristne. Den er stedet der de kristne blir synlig som en menighet; et fellesskap av mennesker som deler troen på Gud, og Jesu Kristi oppstandelse. Den er et sted der mennesker møter hverandre, og sammen trer frem for Gud.»[^323] Kirkerådet har derimot gitt uttrykk for at skolegudstjenester skiller seg fra ordinære gudstjenester ved at skolegudstjenesten før jul er en felles arena for å gjøre elevene kjent med norsk kulturarv, inkludert juleevangeliet og julesanger. Rådet legger til grunn at «skolegudstjenesten er en del av det generelle kulturelle arbeidet ved skolen begrunnet i læreplanen, og som sådan en del av skolens aktiviteter.»[^324] Dette er i samsvar med Kunnskapsdepartementets oppfatning, se ovenfor.
+
+*Åndelig omsorg på sykehjem*
+
+Spørsmålet om bistand fra personalet til åndelig omsorg ble aktualisert ved et sykehjem som ønsket å utvikle sin diakonale identitet.[^325] De ansatte ble derfor bedt om å bistå pasientene med deres religionsutøvelse. Blant annet skulle personalet lese Fadervår som aftenbønn for enkelte av pasientene ved demensavdelingen. En muslimsk ansatt ønsket å reservere seg mot dette. Den ansatte mente at å lese en kristen aftenbønn ikke var forenlig med hennes religion, noe hun fikk bekreftet av sin imam.
+
+Saken kom opp for sykehjemmets etiske råd, hvor arbeidsgiver blant annet viste til pasientenes rett til å utøve sin tro og sitt livssyn, og at institusjonen hadde plikt til å tilrettelegge for slik utøvelse. Sykehjemmet var villig til å prøve å finne smidige løsninger for ansatte som ønsket å reservere seg, men mente at dette kunne føre til at de fort kunne havne i en situasjon der mange ville reservere seg hvis det først skulle bli en åpning for dette. De mente derfor det var viktig for dem å avgjøre om fritaksønsket var basert på alvorlig overbevisning.
+
+Human-Etisk Forbund har vært kritisk særlig til sykehjemmets ønske om å vurdere og overprøve den ansattes overbevisningsgrunner. De viser også til at sykehjemmet ikke har opplyst i sine stillingsannonser at jobben også inneholder ansvar for å ivareta beboeres religiøse behov.
+
+*Norsk og internasjonal rett om religionsutøvelse i arbeidsforhold*
+
+Arbeidsgivers styringsrett innebærer blant annet en rett til å definere en stillings arbeidsoppgaver. Arbeidsgivers utøvelse av styringsrett er likevel underlagt et alminnelig saklighetskrav. Offentlig arbeidsgivers styringsrett er i tillegg underlagt et forvaltningsrettslig saklighets- og likebehandlingsprinsipp. Så vel nasjonal som internasjonal rett kan også sette grenser for en arbeidsgivers adgang til å stille krav om arbeidsoppgaver som innebærer religionsutøvelse. Verken opplæringslova, helsepersonelloven, arbeidsmiljøloven eller diskrimineringsloven om etnisitet inneholder direkte bestemmelser om rett til fritak for arbeidstakere fra ulike typer arbeid i forbindelse med religiøse seremonier. Diskrimineringsloven om etnisitet begrenser arbeidsgivers adgang til å etterspørre opplysninger om religiøs overbevisning ved ansettelse. Slike opplysninger kan bare kreves hvor «stillingens karakter» tilsier det, eller hvor «det inngår i formålet for vedkommende virksomhet å fremme bestemte religiøse eller kulturelle syn, og arbeidstakerens stilling vil være av betydning for gjennomføringen av formålet», jf. § 17. Samme lov forbyr også diskriminering på grunnlag av religion eller livssyn under arbeidsforholdet, jf. §§ 6 og 7.
+
+Religions- og livssynsfriheten beskyttes også av Grunnloven § 16 samt EMK artikkel 9 og FN-ØSK artikkel 18, som begge er gjort til en del av norsk rett via menneskerettsloven.
+
+EMD har innrømmet statene et relativt vidt handlingsrom når det gjelder krav til arbeidstakere om å utføre handlinger som er i strid med deres religiøse overbevisning, se blant annet Ladele- og McFarlane-sakene.[^326] Utgangspunktet om at en arbeidstaker kan ivareta sin livssynsfrihet ved å slutte i arbeid ble likevel moderert i disse sakene. Krav om at en person skal utøve eller gi sin tilslutning til en annen religion eller et annet livssyn enn den han eller hun tilhører, berører religions- og livssynsfrihetens innerste kjerne. I EMDs praksis er dette blitt knyttet til et krav om at man ikke skal tvinges til å røpe sin livssynsmessige overbevisning. For eksempel har EMD slått ned på et krav om at en advokat skulle erklære seg som ateist eller tilhenger av en religion som forbød edsavleggelse for å unngå å måtte avlegge en religiøs ed i forbindelse med sin yrkesutøvelse.[^327]
+
+*Drøfting*
+
+Ved vurderingen av om en arbeidstaker skal gis rett eller adgang til reservasjon vil overbevisningens dybde være en aktuell faktor. Her kan det være av betydning om den aktuelle arbeidstakeren som ber seg fritatt tilhører en trosretning som direkte forbyr denne type aktiviteter.
+
+En annen faktor er i hvilken utstrekning handlingen innebærer et reelt bidrag til religionsutøvelse. Her vil det være av betydning hvor aktiv arbeidstaker forutsettes å være i det som oppfattes som religionsutøvelse. En lærers oppgave under en skolegudstjeneste vil være å føre tilsyn med skoleelevene og sørge for at de ikke forstyrrer seremonien. Det kreves ikke aktiv deltakelse, for eksempel i form av salmesang eller bønn. Det kan derfor stilles spørsmål om dette overhodet utløser noe samvittighetsspørsmål. Samtidig kan det å være tilstede under en religiøs handling for noen oppfattes som en form for deltakelse. Deltakelse under en slik religiøs seremoni er noe annet enn å ta med elever på omvisning i en kirke, moske eller synagoge.
+
+En ansatt på et sykehjem som bes om å lese opp Fadervår som aftenbønn vil ha en mer aktiv rolle. Det kan likevel også her hevdes at det å tilrettelegge for andres religionsutøvelse ikke er det samme som selv å utøve eller å tilslutte seg denne religionen. Her vil også pasientenes rett til religionsutøvelse kunne settes opp mot de ansattes vern mot krav om å delta i eller utføre religiøse handlinger i strid med egen overbevisning.
+
+Et spørsmål som har vært reist, blant annet av det nevnte sykehjemmet, er i hvilken grad arbeidstaker plikter å redegjøre for grunnlaget for sin overbevisning, og om arbeidsgiver i medhold av styringsretten kan pålegge den ansatte å utføre oppgaven, såfremt de finner at det ikke er vektige samvittighetsgrunner for å frita vedkommende. Et krav om redegjørelse for arbeidstakers overbevisningsgrunner vil kunne komme i strid med personvernet, retten til privatliv eller religions- og livssynsfriheten. Imidlertid kan det hevdes at det er rimelig å kreve begrunnelse før arbeidsgiver kan innvilge et ønske om å fritas for arbeidsoppgaver som hører til stillingen. En slik begrunnelse vil med nødvendighet måtte angå grunnleggende aspekter ved arbeidstakerens religion eller livssyn.
+
+Det kan ha betydning hvilken type arbeidsforhold det gjelder. For eksempel kan det stilles spørsmål om det kan stilles strengere krav til offentlig ansatte enn andre arbeidstakere. I eksempelet om lærerne i den offentlige skolen vil det i så fall bety at de i større grad må slutte opp om det undervisningstilbudet skolen har valgt å gi, selv om de måtte være personlig uenige. Lærerne er rollemodeller for elevene, og bør derfor være varsomme med å framheve sitt eget livssyn samt være lojale mot skolens verdigrunnlag og tradisjoner. Det kan likevel stilles spørsmål ved om plikten til å følge skolens tradisjoner er like sterk når den praksisen det gjelder er så sterkt tilknyttet et bestemt trossamfunns ritualer og trostradisjon, slik en gudstjeneste i Den norske kirke er.
+
+Lærernes rolle som modeller for elevene kan likevel ikke være til hinder for reservasjon dersom de har en dyp overbevisning om at det vil være galt av dem å delta i gudstjenesten. Det forutsetter imidlertid at skolegudstjenesten forstås som en gudstjenestelig handling og ikke del av det «kulturelle arbeidet» til skolen, og at tilstedeværelse kan forstås som aktiv deltakelse.
+
+At sykehjemmet har et religiøst formål for sin virksomhet vil som nevnt ha betydning for deres adgang til å stille krav til arbeidstakerne om aktiv oppslutning om formålet. På den annen side vil det også være et argument i motsatt retning at sykehjemmet for en stor del drives for offentlige midler og inngår i den alminnelige offentlige helse- og omsorgstjenesten.
+
+Hvorvidt arbeidstaker var kjent med den aktuelle delen av stillingens innhold på ansettelsestidspunktet kan ha en viss betydning. Arbeidstakere som tar ansettelse på et diakonalt sykehjem må forventes å bli møtt med krav om å slutte opp om virksomhetens formål, selv om det kan reises spørsmål om hvor langt denne lojalitetsplikten går. Samtidig er grunnskolen og sykehjem arbeidsplasser som sysselsetter svært mange arbeidstakere, og en manglende reservasjonsrett for dem som har samvittighetsproblemer med å utføre arbeidsoppgavene vil kunne ha betydning for mulighetene til å forsørge seg ved eget arbeid.
+
+Hvor enkelt det er å tilrettelegge for reservasjon vil avhenge av virksomhetens størrelse, samt hvor stor del av personalet som reserverer seg. I skolegudstjenestetilfellet kan for eksempel lærere som ønsker å reservere seg stå for det alternative opplegget som skolene er forpliktet til å tilby elevene. Ettersom det tradisjonelt er større livssynsmangfold blant elever enn blant lærere i mange regioner, vil det trolig normalt ikke by på så store problemer å finne tilstrekkelig med lærere som er villige til å følge elevene til skolegudstjenester. For sykehjemspasienter kan det være omvendt. Her vil antakelig en større andel av pasientene tilhøre majoritetsreligionen enn det som er tilfelle for personalet. Dette er likevel en situasjon som kan endre seg over tid.
+
+Utvalget mener at i den grad det er mulig å legge til rette for at enkelte lærere og ansatte på sykehjem reserverer seg mot det de opplever som utøvelse av en annen religion, bør dette gjøres. Forutsetningen er at dette er basert på en dyp overbevisning om at det vil være moralsk galt å utføre oppgaven, og at det kan finnes praktiske løsninger som gjør at reservasjonen ikke går på bekostning av det tilbudet arbeidsgiver ønsker eller er forpliktet til å tilby sine elever eller pasienter.
+
+1.  **Læreres evaluering av elever**
+
+*Situasjonsbeskrivelse*
+
+Verdien og effekten av ulike evalueringsformer har lenge vært diskutert, både i det pedagogiske forskningsmiljøet og innen norsk skole. Typisk var det på syttitallet diskutert hensikten med, og verdien av, såkalte normerte prøver. Dette ble sentralt i forbindelse med Evalueringsutvalgets rapporter.[^328] Disse prøvene skulle danne utgangspunkt for karaktersettingen, og dermed sikre en lik vurdering og et grunnlag for å gi den beste undervisningen. Prøvene ble imidlertid kritisert for å fremme konkurranse heller enn læring for dens egen skyld.
+
+I dag er denne type normering ikke bare nasjonal, men internasjonal, gjennom den såkalte PISA-undersøkelsen. Det forsterker, ifølge kritikerne, konkurranseelementet og en snever og statisk prestasjonsbasert forståelse av læring. Motsetningen er, ifølge dem, et dannelsesbasert ideal som er dynamisk og vektlegger framskritt like mye som aktuell prestasjon. Men det ligger i sakens natur at dette er resultater som ikke lar seg måle slik at det egner seg for sammenligning. Derfor blir denne uenigheten om hva som er hovedhensikten med undervisningen konkretisert i en diskusjon om hvordan og hvorfor man skal måle at skolen oppnår sine resultater.
+
+Dette danner bakteppet for et av de senere års mer omtalte tilfeller av samvittighetsbasert arbeidsnekt innenfor undervisningssektoren i Norge. Skolene i Sandefjord hadde prestert dårligere enn landsgjennomsnittet på nasjonale prøver, og satte inn flere tiltak for å endre på dette. Blant annet leide kommunen inn konsulentselskapet PricewaterhouseCoopers i 2009 for å foreslå omstrukturering av skolesektoren.
+
+PwC foreslår flere ledere, en egen «enhet for mål- og resultatoppfølging» og at «styring bør skje i forhold til kommuniserte og kjente resultatmål, effektmål og prosessmål». Politikerne vedtar at de innen 2015 skal bli en av landets beste skolekommuner.[^329]
+
+Den foreslåtte resultatstyringen ble innført og møtte motstand fra en del lærere og deres fagforening, men innvendingene ble tilbakevist med henvisning til at målstyringen var politisk bestemt. Sammen med en rekke andre reformer ble det høsten 2011, som prøveordning, innført et avkrysningsskjema på opp til 70 punkter som skulle vurdere elevenes måloppnåelse som lav, middels eller høy. I løpet av vinteren 2012 undertegnet ca. 300 av 500 lærere i kommunen et brev som protesterte mot tiltaket, samtidig som åtte av ni medlemmer i en kommunalt nedsatt arbeidsgruppe anbefalte at denne rapporteringen på grad av måloppnåelse burde fjernes. Kommunen kontaktet Utdanningsdirektoratet, som ikke tok stilling til denne konkrete formen for tilbakemelding, men påpekte at faglig tilbakemelding kan gjøres på mange måter. Til tross for motstanden, vedtok politikerne i Sandefjord å innføre skjemaet fra høsten 2012, med en mindre endring i ordlyden på den omstridte avkryssingen.
+
+To lærere i Sandefjord nektet å krysse av på skjemaet og oppga følgende grunner:
+
+1.  elevene og foreldrene vil ikke skjønne tilbakemelding i denne formen,
+
+<!-- -->
+
+1.  det vil ikke bidra til mestring,
+
+2.  man bør fokusere på læring og utvikling, ikke prestasjon og
+
+3.  vurderingen gagner skoleeier, ikke elevene.
+
+Deres hovedpoeng var at dette var skadelig for elevene, og at evalueringsformen dermed var i strid med deres rolle som lærere. Lærerne tilbød seg å gi en skriftlig vurdering til erstatning for avkrysningen, men skoleledelsen avviste det. Før sommeren 2013 fikk begge lærerne en muntlig advarsel. De nektet fortsatt å benytte skjemaet, og før jul 2013 ble de innkalt til møte med kommunens skoleledelse som hadde fått en juridisk vurdering av situasjonen. Lærerne ble forelagt denne vurderingen, som i klartekst sa at deres nekt kunne medføre avskjed eller oppsigelse. De oppfattet det som en advarsel, og det var også trolig hensikten. Dersom de fortsatte å nekte å bruke skjemaene, ville kommunen vurdere å gå til oppsigelser.
+
+Lærerne, som ble sykmeldte utover vinteren 2014, fikk etter hvert følge av andre lærere som også nektet å benytte skjemaet, blant annet med begrunnelsen at det kunne fungere demotiverende og dermed skade elevene. Det ble opprettet en støttegruppe blant foreldrene, og saken fikk stor mediedekning som i hovedsak var kritisk til kommunens handlemåte. Kommunen uttalte at dette dreide seg om ansatte som nektet å følge lovlig fattede vedtak, og påpekte at de derfor var i sin rett til å reagere. Uansett om det var press eller argumenter som var grunnen, så ga Sandefjord kommune etter. Før sommeren 2014 vedtok politikerne at lærerne ikke ville bli oppsagt, og grunnlaget for arbeidsnekten ble fjernet. I et debattinnlegg i Dagbladet 1. september 2015 kunne ordføreren sammen med en annen politiker opplyse følgende:
+
+Det tidligere systemet for halvårsvurdering \[ble\] fjernet høsten 2014 og erstattet av en omforent løsning som var anbefalt av en arbeidsgruppe bestående av foresatte, lærere og skoleledelse, og som ungdomsrådet, skole- og barnehageutvalget, formannskapet og bystyret enstemmig sluttet opp om.[^330]
+
+I korthet var dette en sak som utspilte seg på bakgrunn av en langt bredere strid om målstyring som redskap i offentlig virksomhet, der skolen er en av de viktigste arenaene. Det hører med til historien at representanter for Sandefjord kommune hevder at skolen i dag ligger godt over landsgjennomsnittet på nasjonale prøver, og at de derfor mener at deres grep grunnleggende sett var riktig, selv om de har antydet at både prosedyren med innføringen av skjemaet, og kanskje også selve skjemaet, hadde feil ved seg.
+
+*Drøfting*
+
+Vi har historiske eksempler på at lærere har nektet å utføre arbeidsoppgaver av samvittighetsgrunner, slik som Læreraksjonen i 1942 der norske lærere nektet å bli med på nazifisering av skolen. De fleste vil si at disse lærerne handlet riktig, til tross for at de nektet å følge arbeidsgivers pålegg. Det finnes tilfeller der en lærer har moralsk plikt til å nekte å utføre oppgaver som han eller hun pålegges av arbeidsgiver. Imidlertid var situasjonen under okkupasjonen av Norge så ulik dagens situasjon at det er lite å hente fra det tilfellet utover å fastslå at lærere i noen sammenhenger må ha moralsk plikt til å ta stilling til om arbeidsgivers pålegg er akseptable.
+
+Sandefjordlærernes samvittighetsnekt har både viktige likheter med og forskjeller fra tilfellene vi kjenner fra helsevesenet, for eksempel i forbindelse med abortinngrep eller omskjæring av gutter. Tilfellene er like i den forstand at det henvises både til allmennmoralske og profesjonsetiske grunner for å nekte å utføre oppgaven. Men til forskjell fra eksemplene fra helsevesenet, kan ikke skoleledelsen etterkomme lærerens ønske om å unngå den omstridte tjenesten ved å sette en kollega til å utføre den. Det er bare denne arbeidstakeren som faktisk har forutsetninger for å kunne utføre oppgaven. Dermed vil det å etterkomme nekten innebære at oppgaven ikke utføres på den måten som arbeidsgiver har forutsatt. I dette tilfellet vil det bety at de aktuelle elevene vil vurderes etter andre prinsipper enn sine medelever i andre klasser ved samme skole, og dermed reduseres verdien av et viktig styringsredskap for skoleledelsen. I dette tilfellet var det mange lærere som sympatiserte med de to som reserverte seg, og ønsket å følge deres eksempel. Dermed blir en sannsynlig konsekvens av å etterkomme samvittighetsnekten at mange eller alle arbeidstakere innen samme organisasjon slutter å utføre den omstridte oppgaven. Konsekvensene er følgelig langt mer omfattende enn i de mest typiske samvittighetsnekt-sakene vi har diskutert tidligere.
+
+En annen forskjell er at det ikke er rimelig å si at denne nekten teoretisk sett kan ramme enkeltpersoner som bruker den aktuelle tjenesten på lignende vis som ved samvittighetsfritak i helsevesenet. Elevene har rett til å få undervisning, og der inngår evaluering, men de har ikke rett til akkurat denne type evaluering som disse lærerne nektet å utføre. Ettersom lærerne tilbød seg å utføre alternative evalueringsformer, kan man ikke si at den enkelte bruker rammes. Den som rammes er dermed arbeidsgiver, som her ikke lenger kan benytte det styringsverktøyet han eller hun har vurdert som det beste. Kommunen hadde forhørt seg med Utdanningsdirektoratet, som ikke hadde direkte innvendinger mot den valgte evalueringsformen. Dermed var arbeidsgiver i sin fulle rett til å pålegge arbeidstakerne å bruke dette redskapet, noe som tilsier at de sto sterkt juridisk og kanskje moralsk da de vurderte å si opp lærerne.
+
+Imidlertid er det flere aspekter ved denne saken som gjør at dette siste poenget bør nyanseres. Det var en overveldende faglig-etisk motstand mot evalueringsskjemaet i lærerkollegiet i Sandefjord. Kommunen hadde innført skjemaet mot råd fra sin egen fagkomité. Det ble også hevdet at de aktuelle fagmiljøene ikke hadde fått deltatt på en god måte i prosessen som ledet fram mot innføringen av skjemaet. Etter hvert som saken fikk større oppmerksomhet nasjonalt, var det flere forskere innen feltet som argumenterte for at denne type evaluering var skadelig for noen elever. Disse poengene gir grunnlag for å si at de aktuelle lærerne hadde gode faglige grunner for sin nektelse.

@@ -1,925 +1,221 @@
-# Meld. St. 12 (2017–2018), del 4 av 5 (side 52–63)
+# Meld. St. 12 (2017–2018), del 4 av 5
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2018/1f395dbd-meld-st-12-20172018.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-12-20172018/id2595598/
 - Original-PDF: https://www.regjeringen.no/contentassets/258cadcb3cca4e3c87c858fd787e0f75/no/pdfs/stm201720180012000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 19 figurer, 77 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 52]
-
-52
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-Boks 4.6 Nordområdeprosjektet
-Initiativet «HMS-utfordringer i nordområdene» ble igangsatt av Norsk olje og gass i
-2010 og avsluttet i 2014. Arbeidsgiverorganisasjonene, arbeidstakerorganisasjonene, Petroleumstilsynet og Oljedirektoratet deltok i
-arbeidet.
-Formålet med prosjektet var å øke kunnskapen om HMS-utfordringer i nordområdene, og å etablere en felles forståelse for
-disse problemstillingene.
-Det ble utført et omfattende litteratursøk
-og gjennomført en rekke arbeidsseminarer
-om tema knyttet til HMS-utfordringer i nordområdene:
-– klimatiske forhold og kommunikasjon
-– helse og arbeidsmiljø
-– helikopterlogistikk og helikopterberedskap
-– risikostyring og design
-– beredskap
-– logistikk og iskontroll
-Interessen for og engasjementet rundt Nordområdeprosjektet har vært stort i næringen,
-og kunnskapen og kompetansen som er
-utviklet deles med partene og andre interessenter.
-
-dene gjennom samarbeidet i Arctic Offshore
-Regulators Forum (AORF) og ved bilaterale avtaler med disse landene. Petroleumstilsynet bidrar i
-Arktisk råd og spesielt i arbeidsgruppen «Emergency Prevention, Preparedness and Response»
-(EPPR). Tilsynets aktiviteter og samarbeid bidrar
-til erfaringsdeling nasjonalt og internasjonalt, og
-til å heve kunnskapsnivået blant partene i næringen om HMS utfordringer i kaldt klima og hvordan virksomheten kan drives forsvarlig i nord.
-Erfaring og kunnskap fra oppfølgingen benyttes i
-Petroleumstilsynets oppfølging av operatørenes
-planlegging og gjennomføring av operasjoner i
-Barentshavet. Dette innebærer også tilsyn på innretningene, i letevirksomhet og drift.
-
-4.6.4
-
-Organisatoriske endringer
-
-De fleste selskap i petroleumsnæringen har opprettet endrings- og forbedringsprogrammer for å
-øke produktiviteten og tilpasse seg et lavere inn-
-
-2017–2018
-
-tekts- og kostnadsnivå. Slike endrings- og forbedringsprogrammer er ikke noe nytt i petroleumsnæringen. De senere årene har det imidlertid
-vært en raskere utvikling i retning av økt bruk av
-drifts- og vedlikeholdsmodeller som kombinerer
-standardisering med forenkling, og mer fleksibel
-personellutnyttelse. Organisatoriske endringer er
-for eksempel lavere grunnbemanning og etablering av sentrale personellenheter som skal møte
-svingninger i behov for lokalt personell eller
-ekspertpersonell, mer kampanje- og aktivitetsstyring, flytting av oppgaver fra hav til sentrale støtteenheter på land og å legge flere oppgaver på færre
-personellgrupper. Endringene omfatter hele operatør- og leverandørkjeden, samt sokkel og landorganisasjoner og påvirker mange fagområder og
-grupper av arbeidstakere.
-På landanleggene startet effektiviserings- og
-endringsprosessene rundt 2008, det vil si betydelig tidligere enn til havs. De fleste landanleggene
-er nå inne i en fase der det arbeides kontinuerlig
-med effektivisering og kostnadskutt. Til havs ble
-de største endringene først igangsatt hos operatørselskapene. Dette har i sin tur ført til effektiviseringsprogrammer for entreprenørene og leverandørene.
-Større grad av rotasjon og mer mobile ansatte
-kan medføre behov for kompetanseutvikling og
-økt tilrettelegging for å unngå negative konsekvenser for HMS. Samtidig kan rotasjon av personell være en effektiv måte å få til erfaringsoverføring og læring. Det kan være utfordrende å
-forstå hvilken betydning komplekse endringsprosesser kan få for HMS, jf. kapittel 4.5.5.
-Potensielle utfordringer avhenger av hvordan
-arbeidet organiseres og gjennomføres. Det er
-derfor viktig med en god risiko- og endringsstyring og et velfungerende partssamarbeid. Det
-må sikres tilstrekkelig opplæring og trening av
-ansatte, og operatøren må sørge for forutsigbarhet for entreprenør gjennom god planlegging.
-Petroleumstilsynet følger opp både hvordan selskapene styrer og risikovurderer nedbemannings- og endringsprosesser. Utfordringer knyttet til omstillingsprosesser og effektivisering følges også opp i Sikkerhetsforum.
-
-4.6.5 Digitalisering
-Det er en rask utvikling innen digitalisering som
-vil ha betydning for petroleumsvirksomheten
-fremover. Digitalisering innebærer blant annet
-videreutvikling av integrerte operasjoner, fjernstyring, automatisering, robotteknologi, kunstig
-intelligens og utnyttelse av mulighetene som lig-
-
-[Side 53]
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-ger i analyse av store datamengder. Denne utviklingen kan blant annet bidra til mer effektive
-arbeidsprosesser, erstatte manuelt arbeid, gi
-bedre analyser og bidra til bedre beslutninger.
-Dette vil kunne ha klare positive effekter for
-HMS, blant annet som følge av redusert eksponering og bidra til større konkurransedyktighet.
-Samtidig kan utviklingen medføre utfordringer,
-blant annet knyttet til situasjonsforståelse, informasjonssikring og feilhandlinger. Næringen må
-derfor aktivt følge opp endringer i risikobildet
-som følge av digitalisering.
-Både næringen og Petroleumstilsynet arbeider for å få kunnskapsoversikt over HMS-muligheter og utfordringer knyttet til digitalisering, og
-hvordan disse utfordringene kan håndteres. Sikkerhetsforum følger også opp dette arbeidet.
-
-4.6.6
-
-IKT-sårbarhet og sikring
-
-Økende bruk av digitale teknologier gjør petroleumsindustrien mer utsatt som følge av sårbarheter i IKT-systemer og avanserte digitale trusler.
-Både menneskelige feil og feil på utstyr kan føre
-til forstyrrelser i driftsregularitet og økonomiske
-tap. Dataangrep øker også i omfang, blir mer
-sofistikerte og vanskeligere å forsvare seg mot.
-Endringene i risikobildet krever at aktørene
-løpende har oppmerksomhet mot å forbedre sin
-IKT-sikkerhet og evne til å håndtere uønskede
-digitale hendelser. Petroleumstilsynet har også
-styrket sine ressurser på tilsyn med IKT-sikkerhet. Behovet for styrket tilsyn med petroleumsvirksomhetens IKT-sikkerhet og sårbarhet
-ble både påpekt av Lysne-utvalget, NOU 2015: 13
-– Digital sårbarhet – Sikkert samfunn og Meld. St.
-38 (2016–2017) IKT-sikkerhet – Et felles ansvar.
-Gisselaksjonen i In Amenas i 2013 og
-endringer i trusselbildet har også medført økt
-oppmerksomhet og tiltak for bedre sikring i petroleumssektoren. Petroleumstilsynet har prioritert
-oppfølging av sikkerhet og beredskap knyttet til
-bevisste anslag og terror i næringen. Tilsynsaktivitetene har omfattet sikring og IKT-sikkerhet i
-hele logistikkjeden. Petroleumstilsynet gjennomførte i 2017 tilsyn med forsyningsbaser, helikoptertransport og innretninger til havs.
-Kravene til sikring er, i likhet med HMS-regelverket, utformet som funksjonskrav. Dette innebærer at det normalt ikke angis spesifikke krav til
-sikringstiltak. Totalt sett mener myndighetene at
-det har vært forbedring av sikringsarbeidet i
-petroleumsnæringen de senere årene, men at
-utviklingen krever en styrket oppfølging i næringen.
-
-53
-
-4.6.7 Beredskap
-Beredskap inngår som et viktig element i oppfølging av sikkerheten i petroleumsvirksomheten.
-Beredskap dreier seg om et kontinuerlig arbeid
-for å være best mulig forberedt på å håndtere
-ulike fare- og ulykkessituasjoner som kan oppstå.
-Hovedformålet med beredskap er å forhindre
-eller begrense konsekvenser av ulykker og tilløp
-til ulykker. Det er mange ulike aktører som er
-involvert i beredskapsarbeidet, og det er viktig
-med klare ansvarsforhold og roller. Det er også av
-stor betydning at det foreligger klare rutiner for
-varsling av fare- og ulykkessituasjoner. God kommunikasjon og et godt samarbeid mellom aktørene er også viktige forutsetninger. Det stilles
-strenge krav til kompetanse og øvelser, og i
-enkelttilfeller krav om fysisk og psykisk skikkethet hos det personell som inngår i beredskapsorganisasjonen. Gjennom årlige øvelser i samarbeid mellom næring og myndigheter videreutvikles beredskapsordninger og kompetanse.
-I petroleumsvirksomheten er det operatøren
-som er ansvarlig for å opprettholde en effektiv
-beredskap og håndtere eventuelle fare- og ulykkessituasjoner som måtte oppstå. Av petroleumsloven følger det at rettighetshaver eller andre
-som deltar i petroleumsvirksomheten til enhver
-tid skal opprettholde effektiv beredskap med sikte
-på å møte fare- og ulykkessituasjoner.
-Kvalitet og evne til forbedring, både når det
-gjelder organisering, teknologi og personell på
-alle nivåer i organisasjonen, er viktige faktorer i
-beredskapsarbeidet. Behovet for beredskapstiltak vil variere ut fra en vurdering av risiko, herunder geografi, klima osv. Det viktigste beredskapsarbeidet gjøres av aktørene selv og omfatter
-tiltak av teknisk, operasjonell og/eller organisatorisk karakter.
-Landanleggene er i henhold til sivilbeskyttelsesloven også underlagt tilsyn fra Næringslivets
-Sikkerhetsorganisasjon (NSO) og beredskapstiltak skal dimensjoneres etter forskrift om industrivern. Flere av landanleggene deltar også i forskjellige former for beredskapssamarbeid.
-Petroleumstilsynet fører tilsyn med operatørenes beredskapsarbeid. Ved eventuelle hendelser
-vil Petroleumstilsynet løpende vurdere de tiltak
-operatøren planlegger og gjennomfører, og bidra
-med faktaopplysninger, situasjonsforståelse og
-konsekvensutredninger.
-Petroleumstilsynet har etablert en beredskapsvaktordning som sikrer at etaten blir varslet
-om fare- og ulykkessituasjoner og kan varsle
-videre til andre involverte myndigheter i henhold
-
-[Side 54]
-
-54
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-til etablerte avtaler og varslingsprosedyrer. Dette
-kan være Arbeids- og sosialdepartementet, Oljedirektoratet, Kystverket, Miljødirektoratet, Sjøfartsdirektoratet og aktuelt sokkelpolitidistrikt. Petroleumstilsynet varsler også andre nasjoner om hendelser som kan ha betydning for deres petroleumsvirksomhet. I perioden 2015 til 2018 ble det
-varslet om anslagsvis 500–600 fare- og ulykkessituasjoner per år.
-Dersom situasjonen krever det, kan Petroleumstilsynet fatte vedtak om at andre skal stille
-nødvendige beredskapsmessige ressurser til
-rådighet for rettighetshavers regning eller iverksette andre tiltak for rettighetshavers regning for
-å skaffe nødvendige tilleggsressurser. Slike inngrep vil først være aktuelt ved fare- og ulykkessituasjoner som kan medføre tap av menneskeliv
-eller personskade, forurensning eller stor materiell skade.
-Petroleumstilsynet kan også etablere midlertidige utelukkelses- eller fareområder, hvis det
-anses nødvendig for å hindre eller begrense
-enkelte alvorlige skadevirkninger. Slike områder
-har for eksempel blitt opprettet i forbindelse med
-gasslekkasjer for å hindre at fartøy kommer i kontakt med lett antennelig gass.
-Myndighetenes ansvar og roller ved ikke-villede
-hendelser på norsk kontinentalsokkel
-I desember 2015 oppsto en alvorlig nestenulykke
-da den ubemannende lekteren Eide Barge 33 slet
-seg i Nordsjøen og drev mot plattformene på Valhallfeltet. Hendelsen viste at flere berørte aktører
-hadde forbedringspunkter i sin håndtering hva
-gjelder varsling og koordinering. I etterkant av
-hendelsen har det blitt iverksatt tiltak for å forbedre dialogen og informasjonsdelingen mellom
-myndighetene.
-I kjølvannet av hendelsen ble det igangsatt et
-samarbeid mellom berørte departementer under
-ledelse av Justis- og beredskapsdepartementet.
-Justis- og beredskapsdepartementet har en samordningsrolle på samfunnssikkerhetsområdet når
-problemstillingene omfatter flere sektorer. Det
-skal utarbeides en rapport om ulike norske
-myndigheters ansvar og rolle ved ikke-villede hendelser på norsk kontinentalsokkel. Dette kan
-være flytende gjenstander eller andre situasjoner
-som utgjør fare for liv, helse, miljø, sikkerhet eller
-store økonomiske verdier i petroleumsvirksomheten. Rapporten vil beskrive departementenes og
-etatenes ansvarsområder, og vil kunne fungere
-som et oppslagsverk ved lignende hendelser. Hensikten er å forbedre norske myndigheters kjenn-
-
-2017–2018
-
-skap til hverandres roller, kompetanse som de
-ulike aktørene besitter og hvilke virkemidler de
-har til rådighet ved liknende hendelser på kontinentalsokkelen. Disse elementene er viktige i et
-robust krisehåndteringsapparat som baserer seg
-på et godt samarbeid og dialog mellom berørte
-aktører i tråd med samvirkeprinsippet. Videre vil
-rapporten vise til aktørenes kommunikasjonslinjer under ekstraordinære hendelser og identifisere eventuelle forbedringsområder. Justis- og
-beredskapsdepartementet tar sikte på å ferdigstille rapporten våren 2018.
-
-4.6.8 Dykking
-HMS-regelverket gjelder for dykking som for
-andre aktiviteter i petroleumsvirksomheten. Etter
-1985 har det vært en samtykkeordning for alle
-bemannede undervannsoperasjoner. Hensikten
-med samtykkeordningen er at operatøren skal
-dokumentere overfor myndighetene at dykkeoperasjoner skal gjennomføres i tråd med regelverket. I forbindelse med behandlingen av samtykkesøknaden innhenter Petroleumstilsynet vurderinger fra Helsetilsynet.
-I 2017 ble det innrapportert 15 568 manntimer
-i metning ved dykking på norsk sokkel. Tallene
-innebærer en reduksjon på ca. 65 prosent sammenliknet med dykkeraktiviteten i 2016, og utgjør
-det laveste aktivitetsnivået siden 2002. Det ble
-ikke innrapportert noen personskader eller faresituasjoner ved metningsdykking i 2017. Det har
-vært få tilfeller av trykkfallsyke etter 1991, da
-myndighetene innførte felles rammer for dekompresjonstabeller for metningsdykking. Siste dødsulykke ved metningsdykking på norsk sokkel
-skjedde i 1987.
-For overflateorientert dykking på norsk sokkel ble det i 2017 rapportert 406 manntimer i vann
-og ingen uønskede hendelser. Aktivitetsnivået for
-overflateorientert dykking er generelt lavt og det
-har vært slik de siste 20 årene.
-Oppfølging av nordsjødykkersaken
-Tidligere dykkere har gjennom flere runder gått
-til sak mot staten og krevet erstatning for skader
-som følge av dykking i Nordsjøen i tidsrommet
-1965–1990. Saken fikk sin endelige politiske
-avslutning ved Stortingets vedtak 16. juni 2014,
-som gjaldt behandlingen av Prop. 88 S (2013–
-2014) Endringer i statsbudsjettet 2014 under
-Arbeids- og sosialdepartementet om oppfølging av
-tidligere nordsjødykkere. I tråd med Stortingets
-vedtak ble det inngått et forlik mellom staten og
-
-[Side 55]
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-dykkerne. Forliket innebar blant annet at dykkerne ble tilbudt ytterligere 25 G i kompensasjon
-mot å forplikte seg til ikke å gå videre med saken
-for domstolene. Kompensasjonsordningene for
-pionerdykkerne ble avsluttet i 2015, og Nemnda
-for pionerdykkere ble avviklet samme år. Staten
-har gjennom ordningene utbetalt kompensasjon
-til 270 dykkere og etterlatte. Det var kun to tidligere dykkere som ikke aksepterte tilbudet fra
-staten.
-Forliket innebar også at det skulle nedsettes
-en arbeidsgruppe med myndighetene og partene
-for å se nærmere på dykkernes arbeidsvilkår i
-dag. Videre ble det lagt til grunn at Stiftelsen Kontakttelefonen for pionerdykkere (Dykkerkontakten) skulle videreføres. Det ble også pekt på i proposisjonen at det bør finnes flere forskningsmiljøer som kan belyse problemstillinger knyttet
-til dykking.
-Dykkernes arbeidsvilkår
-Avtalen om en nærmere vurdering av dykkernes
-arbeidsvilkår i dag ble fulgt opp gjennom etablering av en partssammensatt arbeidsgruppe
-under Sikkerhetsforum. Arbeidsgruppen har
-vurdert det som hensiktsmessig å inkludere dykkerpersonell i spørreundersøkelsen til RNNP,
-som gjelder spørsmål om arbeidsmiljø og opplevd sikkerhet. Med dette tiltaket vil dykkepersonell fra 2018 bli omfattet av RNNP på lik linje
-med øvrig personell i petroleumsvirksomheten.
-Departementet mener dette er et godt tiltak som
-vil kunne gi nyttig informasjon om dykkernes
-arbeidsvilkår. Slik kunnskap vil blant annet være
-viktig i det kontinuerlige skade- og ulykkesforebyggende arbeidet.
-Dykkerkontakten
-Dykkerkontakten ble opprettet i 2003 for å hjelpe
-tidligere nordsjødykkere i en vanskelig situasjon.
-Stiftelsen drifter blant annet en døgnåpen kontakttelefon. Stiftelsen har tre ansatte og har også knyttet til seg relevant kompetanse på gjeldsrådgivning og annen rådgivning for å kunne bistå dykkerne. Dykkerkontakten bidrar også med seminarer, samtalegrupper og informasjon på nett. Dykkerkontakten har et godt omdømme og har
-gjennom flere år sørget for god helsefaglig, psykologisk, sosial og juridisk støtte for dykkerne.
-Behovet for Dykkerkontaktens tjenester ser nå
-imidlertid ut til å avta, og arbeidet går inn i en
-avsluttende fase. Departementet tar derfor sikte
-på at Dykkerkontakten på noe sikt avvikles og at
-
-55
-
-eventuelt videre oppfølgingsbehov ivaretas i det
-ordinære helse- og velferdssystemet.
-Dykkerrelatert forskning
-Risiko for senskader ved dykking har vært belyst i
-flere sammenhenger. Forskningsrådet har blant
-annet gjennom PETROMAKS og PETROMAKS2
-støttet forskning hvor man har lagt vekt på HMS i
-dykkeraktivitet på sokkelen og viser blant annet til
-resultater som tyder på at biokjemiske faktorer
-påvirkes av dykking27 28. Denne forskningen har
-blant annet betydning for prosedyrer som kan øke
-sikkerheten for metningsdykking. Som et ledd i
-det kontinuerlige sikkerhetsarbeidet har Statens
-arbeidsmiljøinstitutt (STAMI) på oppdrag fra
-departementet foretatt en kartlegging og gjennomgang av kunnskapen om helseeffekter av
-yrkesdykking. Både nasjonale og internasjonale
-studier har blitt vurdert i forbindelse med arbeidet. STAMI legger i sin rapport fra 201729 til
-grunn at det ikke er påvist sikre alvorlige helseskader av metningsdykking eller overflateorientert dykking i petroleumsvirksomheten under
-normale omstendigheter, dvs. når dykkingen
-gjennomføres med tilstrekkelig sikkerhetsmargin mot kjent skadelig eksponering. På grunnlag
-av kunnskapsgjennomgangen, er det STAMIs vurdering at det ikke er dokumentert forekomst av
-alvorlige kroniske helseskader knyttet til dykking
-til dypere dyp enn 180 meter, som i praksis er
-grensen i norsk petroleumsvirksomhet i dag.
-Dette forutsetter en sertifisering av dykkerne
-som tar hensyn til de spesielle forhold som gjelder
-slike dykk, god arbeidsorganisering, gode kvalitetskontrollregimer og gode arbeidsmiljøforhold.
-Det er også viktig at det i tråd med gjeldende
-regelverk gjennomføres grundige helsekontroller av dykkerne både før og etter eksponeringen.
-STAMI viser også til sin undersøkelse fra 2010,
-hvor det blant annet ble lagt til grunn at sammenliknet med helseovervåking av arbeidstakere på
-land, synes dykkerne å være godt ivaretatt30.
-STAMI peker i rapporten på at dagens tilbud med
-vurdering før og etter dykk, og helsesjekk hvert
-27
-
-28
-29
-30
-
-Fismen, L., Eide, T., Hjelde, A. et al. (2013). Hyperoxia but
-not ambient pressure decreases tetrahydrobiopterin level without affecting the enzymatic capability of nitric oxide synthase
-in human endothelial cells. Arbeitsphysiologie
-Fismen, L.(2013). Nitric oxide synthesis and biochemical
-defense factors in saturation diving
-STAMI-rapport Årg. 18, nr. 4 (2017). Kunnskapsstatus ved
-dykking innaskjærs og i offshorevirksomheten
-STAMI-rapport Årg. 11, nr. 1 (2010). Vurdering av behovet
-for helseoppfølging av dykkere i petroleumsvirksomheten
-
-[Side 56]
-
-56
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-14
-
-Hindringer på
-helikopterdekk
-
-12
-
-Hendelse relatert
-til bevegelse av
-helikopterdekk
-
-10
-
-Turbulens under
-innflyging til
-innretning
-
-8
-6
-
-2017
-
-2016
-
-2015
-
-2014
-
-2013
-
-2012
-
-2011
-
-Operasjonelle
-hendelser
-
-2010
-
-0
-2009
-
-Hendelser relatert
-til lufttrafikkledelse
-
-2008
-
-2
-
-2007
-
-Utladning av
-statisk elektrisitet
-
-2006
-
-4
-
-Tekniske hendelser
-
-Figur 4.11 Hendelser med liten eller middels gjenværende sikkerhetsmargin
-Kilde: RNNP 2017
-
-tredje år tyder på at dykkerne er godt sikret mht.
-helseovervåking. Årlige sertifikatkontroller (eller
-hvert annet år) kommer i tillegg som en ekstra
-sikkerhetsfaktor.
-STAMI mener for øvrig at det er behov for
-ytterligere studier av metningsdykking og mulige
-helseeffekter, der særlig psykiske- og sentralnervøse effekter og hjerte- og kareffekter bør belyses
-nærmere. Gjennomgangen vil være et viktig
-grunnlag for myndighetenes videre oppfølging på
-området, og i arbeidet med å forebygge helseskader og sykdom som følge av yrkesdykking. Når
-det gjelder behovet for ytterligere forskning, har
-departementet gjennom tildelingsbrevet til Norges forskningsråd i 2018 signalisert at departementet forventer blant annet forskning knyttet til
-yrkesdykking.
-
-4.6.9 Helikoptersikkerhet
-Helikoptertransport er i seg selv ikke en del av
-petroleumsvirksomheten, men er nært tilknyttet
-som del av den samlede offshorevirksomheten.
-Helikopterrisiko utgjør en stor del av den totale
-risikoeksponeringen for arbeidstakere på sokkelen.
-Helikoptervirksomhet på sokkelen foregår i
-krevende omgivelser. Flygingene utføres over
-store åpne havområder til landingsplasser på faste
-eller flytende installasjoner som kan være krevende å benytte. Nødlandingsplasser finnes ofte
-ikke annet sted enn på selve havoverflaten. Dette
-
-stiller store krav først og fremst til flymateriellets
-pålitelighet, utrustning, prosedyrer og trening av
-flygebesetning, men også til redningsutstyr og for
-eksempel evakueringstrening for passasjerene. I
-tillegg til disse utfordringene, gjør de klimatiske
-forholdene i norske kyst- og havområder med
-hyppig forekomst av dårlig vær, samt ising om vinteren, operasjonen ekstra krevende.
-På tross av den høye iboende risikoen ved helikopteroperasjonene, har sikkerhetsutviklingen
-for helikoptervirksomhet i norsk petroleumsvirksomhet hatt en tydelig positiv trend siden 1990. I
-april 2016 havarerte imidlertid et helikopter av
-typen EC225 på vei fra Gullfaks til Flesland, og 13
-mennesker omkom. Ulykken blir undersøkt av
-Statens havarikommisjon for transport. Det er
-utgitt en foreløpig rapport. Den direkte årsaken til
-ulykken synes å være en utmattingssprekk i tannhjul i hovedgearboksen.
-Figur 4.11 viser antall hendelser med liten
-eller middels gjenværende sikkerhetsmargin, dvs.
-at det henholdsvis er ingen eller én gjenværende
-barriere mot dødsulykke.
-Luftfartstilsynet fører tilsyn med helikoptervirksomhet i petroleumsvirksomhet på norsk
-sokkel. For å kunne drive slik helikoptervirksomhet i Norge må helikopterselskapet være etablert i Norge og være sertifisert med lisens og
-Air Operator Certificate (AOC) utstedt av Luftfartstilsynet. Luftfartstilsynet fører tilsyn med
-alle helikopteroperatørene som flyr offshoreoperasjoner på norsk område, ettersom tilsynsansva-
-
-[Side 57]
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-57
-
-Boks 4.7 Regelverk for helikopteroperasjoner
-Helikoptervirksomhet på norsk sokkel er reguvene kan betraktes som en oppsummering av
-lert i forskrift om luftfartsoperasjoner, og inneerfaringer fra 50 års flyging med helikopter på
-norsk sokkel og er et viktig bidrag til helikopterholder de alminnelige drifts- og sikkerhetsbestemmelsene for luftfartsoperasjoner, herunder
-sikkerheten på norsk sokkel.
-helikopter. Forskriften gjennomfører ForordEU har vedtatt felleseuropeiske tilleggsning (EU) 965/2012. Det er også gitt norske tilregler for offshore helikopteroperasjoner
-(HOFO-regelverket). Disse reglene skal erstatte
-leggsregler i ulike forskrifter. I tillegg har Norsk
-de nasjonale tilleggskravene. Norges standOlje og Gass utviklet bransjestandarden
-NOG066 Anbefalte retningslinjer for flygning på
-punkt er at de felleseuropeiske tilleggsreglene
-petroleumsinnretninger, som inneholder en
-for offshore helikopteroperasjoner ikke omfatrekke tilleggskrav ut over myndighetenes minites av EØS-avtalen. HOFO-regelverket er derfor
-ikke gjennomført i norsk rett.
-mumskrav til helikoptersikkerhet. Disse kra-
-
-ret tilfaller den staten som har utstedt AOC-sertifiseringen31.
-Helikopterselskapene, operatørene på sokkelen og de ansattes organisasjoner, har sammen
-med norske myndigheter gjennom flere tiår
-utviklet en god sikkerhetskultur som bidrar til det
-høye sikkerhetsnivået i helikopteroperasjoner på
-norsk sokkel, jf. kapittel 2.3.1. Det er også etablert
-et treparts HMS-forum for luftfartsbransjen. Her
-deltar representanter fra arbeidsgiversiden
-(NHO), arbeidstakersiden (Parat, LO, Norsk
-Kabinforening, Norsk Flygerforbund) og representanter fra Luftfartstilsynet.
-Fallet i oljepris fra 2014 førte til innstramminger for å redusere kostnadene forbundet med helikoptertransporten. Bemanningsreduksjoner og
-reduksjon av antall helikoptre i helikopterselskapene, har medført krav til mer effektiv utnyttelse
-av helikoptre og mannskaper. Dette gir seg utslag
-i at flygebesetninger ofte utfører flere flyginger
-per dag enn tidligere. Den økte eksponeringstiden
-for helikopterstøy og vibrasjoner kan føre til utfordringer med tanke på besetningens arbeidsmiljø.
-Dette er en situasjon som følges tett fra Luftfartstilsynets side.
-Økende olje- og gassvirksomhet i nordlig del
-av Norskehavet og i Barentshavet vil medføre økt
-behov for transport av personell med helikopter til
-og fra de aktuelle områdene. Utfordringene i nord
-er lang vintersesong med tilhørende mørke, og
-værforhold preget av tåke, nedbør som snø, ising
-31
-
-I motsetning til offshore helikoptervirksomhet, er det for
-onshore helikoptervirksomhet ikke krav om AOC utstedt
-fra norske luftfartsmyndigheter for å kunne drive helikoptervirksomhet i Norge.
-
-og polare lavtrykk. Dette er dessuten et krevende
-værvarslingsområde med få observasjoner og
-store geografiske avstander. Økt helikopteraktivitet i disse områdene krever derfor tett oppfølging av aktører og tilsynsmyndighet.
-
-4.6.10 Senfase
-Innretninger og tilhørende infrastruktur på norsk
-sokkel er vanligvis designet og bygget med en
-beregnet levetid på ca. 15–30 år. Om lag halvparten av de faste innretningene er over 20 år, og de
-eldste innretningene på norsk sokkel er nå over
-40 år gamle. Figur 4.12 viser aldersfordelingen av
-de faste innretningene på norsk sokkel som er i
-drift, i antall og prosent.
-For å bruke innretninger utover opprinnelig
-designlevetid, kreves det samtykke fra Petroleumstilsynet og Oljedirektoratet. Søknaden om
-samtykke må sendes inn ett år før den planlagte
-levetiden utløper. I søknaden skal operatøren
-dokumentere at fortsatt bruk av innretningene
-ivaretar kravene til forsvarlig virksomhet og prinsippene for risikoreduksjon. Per 1. mars 2017 har
-29 innretninger i drift på norsk sokkel fått samtykke til forlenget levetid.
-Bruk av innretninger og infrastruktur på
-norsk sokkel ut over opprinnelig beregnet levetid krever oppmerksomhet rundt en rekke forhold. Operatøren må påse at sikkerhetsnivå og
-teknisk integritet opprettholdes og sikres ved
-økende alder. Endret bruk som følge av nye eller
-endrede driftsløsninger, endrede reser voareller bore- og brønnforhold og anvendelse av ny
-teknologi, er alle viktige elementer som må ivaretas.
-
-[Side 58]
-
-58
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-3; 3 %
-18; 21 %
-
-16; 18 %
-
-24; 27 %
-27; 31 %
-
-0–10 år
-
-11–20 år
-
-31–40 år
-
-40+ år
-
-21–30 år
-
-Figur 4.12 Aldersfordeling av faste innretninger på
-norsk sokkel
-Kilde: Petroleumstilsynet
-
-På eldre innretninger er kombinasjonen av
-nytt og gammelt utstyr og systemer ofte en utfordring. Modifikasjoner og endringer kan gjøre det
-utfordrende å ha oversikt over og forståelse for
-viktige sikkerhetsbarrierers funksjoner, og hvordan disse henger sammen. Petroleumstilsynet har
-sett at enkelte hendelser de siste årene kan knyttes til mangelfull forståelse av samspillet mellom
-gammelt og nytt. Eldre utstyr kan også innebære
-at sikkerhetsstyringen er mer operasjonell, det vil
-si at man har mindre automatikk for å forebygge
-og håndtere eventuelle hendelser. For «gårsdagens» barriereløsninger er det derfor ekstra viktig at teknisk tilstand er god og at personellet har
-god kompetanse og forståelse av innretningens
-systemer og utstyr.
-Det er ikke grunnlag for å hevde at sikkerhetsnivået generelt er svekket på innretninger i senfase. Tall fra RNNP tyder heller ikke på at innretninger i senfase skiller seg ut. Næringen har de
-siste årene økt sin forståelse av aldrings- og senfaseproblematikk og Norsk olje og gass har gitt ut
-retningslinjer om levetidsforlengelser som nylig
-er revidert. Sikkerhetsmyndigheten erfarer imidlertid at vedlikeholdet på innretninger i senfase
-får preg av å være mer korrigerende enn forebyggende. Dette er en utvikling som over tid kan
-svekke sikkerheten, og som Petroleumstilsynet
-følger opp. Petroleumstilsynet har i 2016–2017
-blant annet samarbeidet med myndighetene i
-North Sea Offshore Authorities Forum (NSOAF)
-
-2017–2018
-
-om en serie tilsynsaktiviteter som spesielt tar opp
-problemstillinger relevant for senfase. Målet med
-samarbeidet er å sikre erfaringsoverføring og
-læring mellom medlemslandene i NSOAF.
-
-4.6.11 Plugging av brønner
-På norsk sokkel er det i dag om lag 2000 aktive
-brønner som produserer petroleum, injiserer
-vann eller gass, eller som er midlertidig stengt. I
-tillegg bores det hvert år anslagsvis 100 til 150
-nye brønner. Letebrønner har historisk blitt plugget fortløpende, men det har vært lite plugging av
-produksjonsbrønner. Flere felt nærmer seg nå
-slutten av levetiden og det totale antallet brønner
-som skal plugges øker. Det forventes derfor at
-plugging av brønner vil utgjøre en betydelig del av
-aktivitetsnivået de neste 10 til 15 årene.
-Brønner som ikke er forsvarlig tilbakeplugget
-kan være en risiko både for personell, innretning
-og miljøet. Lekkasjer fra slike brønner kan medføre både utblåsning, eksplosjon, brann og forurensing. Det er derfor viktig at brønner tilbakeplugges på en slik måte at det ikke oppstår lekkasjer i fremtiden. For å redusere risikoen og for å
-unngå en opphopning av gamle brønner, er myndighetene opptatt av at antall midlertidig forlatte
-brønner skal være så lavt som mulig. Petroleumsregelverket stiller krav om at brønnene som ikke
-er i bruk, må tilbakeplugges innen en gitt tid.
-En utfordring er at eldre brønner ikke er
-designet for å plugges og forlates permanent på
-en enkel og kostnadseffektiv måte. I tillegg kan
-det i løpet av brønners levetid ha oppstått strukturelle svakheter eller endringer i undergrunnen
-som gjør det mer krevende å plugge brønnene.
-Erfaringer fra tilbakepluggingsprosjekter, både i
-Norge og i andre land, har vist at dette arbeidet
-kan være utfordrende. I mange tilfeller har det tatt
-like lang tid å plugge en brønn permanent som det
-opprinnelig tok å bore brønnen.
-Det finnes i dag ikke én enkelt metode eller ett
-enkelt verktøy som kan benyttes til å oppfylle alle
-krav i regelverket til permanent plugging av brønner. Det å finne trygge, gode, effektive og rimelige måter å plugge og etterlate brønner på er viktig for å unngå unødvendige kostnader på sokkelen fremover. Det arbeides derfor i næringen med
-å utvikle nye metoder og verktøy som kan effektivisere arbeidet med plugging av brønner. Petroleumstilsynet følger denne utviklingen tett. Etablerte statlige støtteordninger, gjennom for
-eksempel PETROMAKS2, Demo 2000 og Innovasjon Norge, har vært, og vil være viktige i et slikt
-utviklingsarbeid.
-
-[Side 59]
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-4.6.12 Disponering
-Det forventes at en rekke innretninger vil avslutte
-produksjonen og bli fjernet i løpet av neste tiårsperiode. Fjerning av innretninger innebærer ofte
-at flere aktiviteter foregår samtidig. Dette stiller
-særlige krav til helhetlig risikostyring av virksomheten.
-I fjerningsfasen har Petroleumstilsynet tilsynsansvaret frem til innretningen, eller deler av
-denne, er brakt om bord på et fartøy. Fra dette
-tidspunktet overtas ansvaret av myndighetene i
-det landet fartøyet er registrert. Arbeidstilsynet er
-
-59
-
-myndighetsansvarlig for opphoggingsstedet på
-land. Miljødirektoratet er myndighet og har tilsynsansvar for forhold knyttet til ytre miljø.
-Det er Petroleumstilsynets erfaring at selskapenes gjennomføring av fjerningsaktiviteter er
-betydelig forbedret fra de første innretningene ble
-fjernet til i dag. Operatørselskap og involverte
-entreprenørselskap har i tett samarbeid utviklet
-utstyr, metoder, kompetanse og systemer som
-understøtter et høyt HMS-nivå. Petroleumstilsynet erfarer også at det i større grad blir lagt til
-rette for sikker fjerning av innretninger ved prosjektering av nye utbygginger.
-
-[Side 60]
-
-Figur 5.1
-
-[Side 61]
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-61
-
-5 Oppfølging av HMS-regimet
-Dagens HMS-regime er utviklet på bakgrunn av
-erfaringer som er gjort siden oppstarten av norsk
-petroleumsvirksomhet, jf. kapittel 2.1.3. Det legges til grunn at dette regimet, som legger vekt på
-en funksjonell regelverkstilnærming og ansvarliggjøring av næringen selv i sikkerhetsarbeidet, har
-vært et viktig grunnlag for en positiv utvikling og
-et høyt HMS-nivå i norsk petroleumsvirksomhet.
-I Meld. St. 29 (2010–2011) Felles ansvar for eit
-godt og anstendig arbeidsliv ble det pekt på viktige
-utfordringer for petroleumsnæringen i fremtiden.
-Det ble blant annet pekt på at endringer i aktivitetsnivå og aktørbildet, med flere mindre og internasjonale selskaper på norsk sokkel kunne få
-betydning for et aktivt og velfungerende partsamarbeid. Betydningen av å møte utfordringene slik
-at de ikke fører til økt risiko og skade på helse,
-miljø og sikkerhet ble understreket. Dette krever
-en kontinuerlig bevissthet på at myndighetsoppfølging og regelverk må være innrettet slik at nye
-utviklingstrekk og utfordringer fanges opp og
-møtes på en god måte. Departementet varslet derfor en grundig gjennomgang og vurdering av
-HMS-regimet på petroleumsområdet. En slik
-gjennomgang var ønskelig for eventuelt å bekrefte
-at dagens ordning var formålstjenlig, eller som et
-signal om behov for større eller mindre endringer.
-Som det fremgår i kapittel 4.2.4, ble det i 2012 nedsatt en faglig ekspertgruppe for gjennomgang og
-vurdering av dagens HMS-regime. Ekspertgruppen konkluderte i 2013 med at det norske HMSregimet for petroleumsvirksomheten fungerer
-overveiende godt, men at det har noen viktige
-utfordringer. Gruppen pekte blant annet på behov
-for en tydeligere prioritering og bruk av virkemidler fra myndighetenes side og for å vurdere en
-tydelig praksis for kost-nytte vurderinger ved innføring av nye forskrifter og enkeltvedtak. Det ble
-videre pekt på at myndighetene bør forbedre styring av storulykkesrisiko gjennom tydeligere og
-mer detaljerte krav om risikoakseptkriterier og
-risikoanalyser.
-Arbeids- og sosialdepartementet inviterte også
-i november 2016 berørte parter og myndigheter
-til en arbeidsgruppe for en felles vurdering og
-drøfting av HMS-tilstanden og -utviklingen i norsk
-
-petroleumsvirksomhet. Bakgrunnen var at HMSutviklingen i 2015 og 2016 skapte behov for å sette
-HMS-situasjonen i petroleumsvirksomheten særlig på dagsorden. Et viktig mål med arbeidsgruppens arbeid var å komme frem til et representativt
-og omforent bilde av status for helse, miljø og sikkerhet i petroleumsvirksomheten. Gruppen skulle
-videre vurdere hva som skal til for å opprettholde
-og forbedre sikkerhetsnivået, samtidig med effektiv og økonomisk drift. Partenes og myndighetenes oppfatning av status, utfordringer og eventuelle mulige veier til videre utvikling og forbedring
-skulle inngå som grunnlag for denne stortingsmeldingen om helse, miljø og sikkerhet i petroleumsvirksomheten. Arbeidsgruppens rapport ble
-lagt frem for departementet 29. september 2017.
-Arbeidsgruppen pekte på at myndighetene og partene gjennom årene har sluttet opp om dagens
-HMS-regime, som legger vekt på funksjonsbaserte regler, ansvarliggjøring av aktørene og en
-risikobasert og dialogbasert tilsynsoppfølging.
-Arbeidsgruppen konkluderer med at regimet for
-oppfølging av helse, miljø og sikkerhet i norsk
-petroleumsvirksomhet i hovedtrekk er velfungerende og bør videreføres. HMS-regimet legger til
-rette for innovasjon og fleksibilitet i utvikling og
-valg av gode løsninger. Denne fleksibiliteten er
-ønskelig på bakgrunn av at næringen er i rask
-utvikling og at selskapene har behov for å ta i
-bruk den til enhver tid best egnede teknologien.
-Denne fleksibiliteten utgjør handlingsrommet i
-regimet. Handlingsrommet legger til rette for at
-partene kan utfordre hverandre og myndighetene
-med hensyn til fortolkning og oppfølging av rammer og muligheter. Samtidig har handlingsrommet grenser. Arbeidsgruppen pekte på at utfordringer og utprøving av grensene for handlingsrommet kan bidra til at tilliten mellom aktørene
-settes på prøve og at innretningen på regimet settes under press.
-Arbeidsgruppen var også enige om at kontinuerlig forbedring av helse, arbeidsmiljø og sikkerhet er en forutsetning og et felles mål i petroleumsvirksomheten. For å sikre effektiv drift og
-kontinuerlig forbedring må næringen og myndighetene hele tiden strekke seg etter, lære av og ta i
-
-[Side 62]
-
-62
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-bruk ny kunnskap og ny teknologi. Partene i
-arbeidsgruppen var også enige om samarbeidstiltak for bedre oppfølging på en rekke områder.
-Norges forskningsråd har gjennom PETROMAKS finansiert et prosjekt som har analysert
-egenarten ved det norske reguleringsregimet,
-samt sammenliknet det med andre sikkerhetsreguleringer1. Forskningen viser at sikkerhetsreguleringen i norsk petroleumsvirksomhet har
-utviklet seg ulikt tilsvarende sikkerhetsreguleringer på land, mye på grunn av det sterke trepartssamarbeidet. Forskningen viser at trepartssamarbeidet er en styrke, både med hensyn til legitimitet, demokratihensyn og effektivitet. Prosjektet
-viser at tillit er viktig for at trepartssamarbeidet
-skal fungere, men erfaringer viser også at tillitsbaserte strukturer er sårbare. I den komparative
-studien av regimene i Norge, Storbritannia og
-USA viser prosjektet at det er et viktig skille om
-regelverkene er basert på preskriptive og detaljerte regler eller på å beskrive formål og funksjonelle krav. Et preskriptivt regelverk reduserer tvetydigheten og antall mulige handlingsalternativer
-og passer godt inn der interessekonflikter blir
-«rettsliggjort». Et funksjonsbasert regelverk tillater flere mulige løsninger når det oppstår interessekonflikter. Forutsetninger for at et funksjonsbasert regelverk skal kunne fungere er høy toleranse for usikkerhet, høy grad av tillit mellom
-aktørene og en tilsynspraksis som kan være mer
-veiledende og basert på dialog.
-
-5.1
-
-Næringens og selskapenes
-oppfølging
-
-I likhet med andre deler av norsk arbeidsliv er det
-virksomhetene selv som er ansvarlig for HMSnivået i petroleumsvirksomheten.
-For å etablere, opprettholde og videreutvikle
-et høyt HMS-nivå og sikkerhetskultur, kreves en
-aktiv og kontinuerlig oppfølging fra næringen selv.
-Ledere på alle nivå har et særskilt ansvar for å
-bidra til å redusere risikoen for storulykker og
-arbeidsbetinget skade og sykdom. Det er en forutsetning for dagens HMS-regime at næringen og
-selskapene har kunnskap om og viser evne og
-vilje til å følge opp de forventinger og rammer
-som følger av regimet, herunder samarbeid med
-arbeidstakersiden, oppfølging av myndighetenes
-tilsyn, samt forståelse og respekt for regelverkets
-rammer.
-1
-
-Lindøe, P., Baram, M., & Renn, O. (Eds.) (2013). Risk
-Governance of Offshore Oil and Gas Operations
-
-2017–2018
-
-HMS-regelverket pålegger operatørselskapet
-et overordnet ansvar for å påse at regelverkskrav
-er oppfylt og at de øvrige aktørene i virksomheten
-følger opp sine plikter. Dette er spesielt viktig i en
-periode som er preget av store endringer, og når
-det er usikkerhet om hvordan endringer i arbeidsprosesser, bemanning og organisering vil påvirke
-helse, miljø og sikkerhet fremover. Operatøren
-står for den daglige driften av petroleumsvirksomheten, men er ikke alene ansvarlig. Rettighetshavere må følge opp sin påseplikt og påse at operatøren driver virksomheten forsvarlig og i samsvar
-med gjeldende regelverk.
-Erfaringer fra Petroleumstilsynets tilsyn de
-siste årene viser at operatørselskapene i driftsfasen i all hovedsak aktivt følger opp at styringssystemer er etablert og fungerer etter hensikten,
-og at HMS-nivået er forsvarlig. Petroleumstilsynet
-mener også at selskapene i all hovedsak følger opp
-påseansvaret, men det kan være mer krevende å
-følge opp leverandører lengre ned i kjeden.
-Petroleumsnæringen har lang erfaring med å
-dele erfaringer og legge til rette for læring etter
-hendelser, både nasjonalt og internasjonalt. Det
-tilrettelegges for erfaringsutveksling og læring
-gjennom etablerte samarbeidsfora på virksomhetsnivå, i trepartssamarbeidet og på myndighetsnivå. Slik læring har blant annet bidratt til
-endringer i reguleringsregime og organisering av
-myndighetene, videreutvikling av regelverk, teknologisk utvikling og endringer i selskapenes
-systemer.
-Gjennom mange år har bransjeforeningene
-Norsk olje og gass, Norges Rederiforbund og
-Norsk Industri gjennomført fellesprosjekter for å
-bedre sikkerheten på norsk sokkel, jf. blant annet
-gasslekkasjeprosjektet, kjemikalieprosjektet og
-støyprosjektet som er nevnt i kapittel 4. Gjennom
-disse prosjektene har næringen tatt ansvar i situasjoner som har krevet bedre oppfølging.
-Forebygging av storulykker har vært, og forblir
-den viktigste oppgaven til partene i petroleumsvirksomheten. To av de viktigste satsingsområdene for industrien vil fortsatt være reduksjon
-av antall og alvorlighetsgrad av hydrokarbonlekkasjer og brønnhendelser. Norsk olje og gass har
-av denne grunn blant annet tatt initiativ til å revitalisere prosjektet: «Reduksjon av hydrokarbonlekkasjer på norsk sokkel» der fagforbundene og
-Petroleumstilsynet også deltar. Prosjektet har
-som mål å bidra til økt læring og erfaringsoverføring om hendelsene, jf. kapittel 4.4.2. Som ledd i
-dette arbeidet utarbeides det informasjonspakker
-med de viktigste læringspunktene fra de ulike
-hendelsene. Disse informasjonspakkene brukes i
-
-[Side 63]
-
-2017–2018
-
-Meld. St. 12
-Helse, miljø og sikkerhet i petroleumsvirksomheten
-
-forbindelse med HMS-opplæring ute på innretningene. I tillegg samarbeider aktørene i næringen
-om å redusere antall brønnkontrollhendelser. Det
-er blant annet blitt etablert et eget industriforum
-som arbeider med å utarbeide læringspakker som
-blir distribuert til alle riggene, og som utgjør
-grunnstammen i læringsmateriellet som blir
-brukt for å lære av andre riggers og selskapers
-hendelser.
-Arbeidsmiljøstandarden i norsk petroleumsvirksomhet har i all hovedsak hatt en positiv utvikling i perioden 2011–2017, men næringen har fortsatt en rekke arbeidsmiljøutfordringer. RNNP
-viser en negativ utvikling når det gjelder psykososialt arbeidsmiljø og sikkerhetskultur i 2017, og
-det var en økning i alvorlige personskader.
-Arbeidsforhold og organisering av arbeidet har
-betydning for sikkerhet, arbeidsmiljø og helse.
-Den partssammensatte arbeidsgruppen understreket at industrien fortsatt må arbeide for å forbedre arbeidsmiljøet med særlig vekt på utfordringer som skiftarbeid og rotasjonsordninger, støy
-og vibrasjoner, kjemisk helserisiko og ergonomiske forhold. Samtidig pekte gruppen på at det
-gjennom en årrekke har vært en positiv utvikling i
-næringen med hensyn til å innarbeide arbeidsmiljøkrav tidlig i designfasen av nye innretninger
-og anlegg. Dette er kostnadseffektiv risikoreduksjon som er i tråd med prinsippene for god risikostyring.
-Partene i arbeidsgruppen var enige om at
-nattarbeid må begrenses til det som er nødvendig
-og forsvarlig, og det må foretas gode risikovurderinger i forbindelse med planlegging og gjennomføring av nattarbeid. Problemstillinger knyttet til
-nattarbeid følges opp i samarbeid mellom partene
-og myndighetene i regi av Regelverksforum.
-Arbeidsgruppen pekte også på at det må arbeides
-videre med å utvikle god kunnskap og dokumentasjon om arbeidsmiljørisiko i petroleumsvirksomheten. Næringen må arbeide for bedre kartlegging av eksponeringsbildet og risiko for eksempel
-når det gjelder benzen, men også helsefarlige kjemikalier generelt og andre definerte arbeidsmiljøfaktorer for risikoutsatte grupper. Partene i næringen er også enige om at selskapene bør registrere
-egne måledata i den nasjonale databasen EXPO2,
-og bransjeorganisasjonene vil oppfordre selskapene til å ta i bruk denne databasen. Bruk av
-EXPO-databasen har stor betydning for utvikling
-av bred og faktabasert kunnskap om kjemisk
-arbeidsmiljø i næringen. Som oppfølging av den
-partssammensatte gruppens anbefalinger, er det
-2
-
-https://stami.no/expo/
-
-63
-
-igangsatt et samarbeid under Sikkerhetsforum for
-oppfølging av arbeidsmiljørisiko. Partene skal
-gjennom dette prosjektet ytterligere forbedre
-kunnskap og dokumentasjon knyttet til støy, vibrasjoner og kjemisk eksponering.
-Det er godt dokumentert at det foreligger
-årsakssammenhenger mellom arbeidsmiljøeksponeringer og redusert helse og jobbengasjement
-hos arbeidstakere3. Det finnes også etter hvert
-solid vitenskapelig dokumentasjon på at dårlig
-arbeidsmiljø er svært kostbart for samfunnet og
-for virksomhetene. Samtidig viser også nyere
-forskning at gode arbeidsmiljøforhold bidrar positivt til virksomhetenes resultater og produktivitet.
-Og såfremt arbeidsmiljøtiltak er behovsprøvde og
-kunnskapsbaserte, er det også etter hvert god
-dokumentasjon på at kost-nytteeffekten av slike
-tiltak er klart positive. I en næring med behov for
-innsparinger og effektivisering, er det således
-gode grunner for å arbeide med arbeidsmiljøforhold, utover rene vernehensyn. Dette fordrer
-imidlertid at man utvikler arbeidsmiljøet på basis
-av reelle behov på den enkelte arbeidsplass, og at
-tiltakene man iverksetter er knyttet til utførelsen
-og organiseringen av selve arbeidet. Dette vet
-man er viktig for at arbeidsmiljøtiltakene skal ha
-virkning og bør derfor være styrende for det systematiske arbeidsmiljøarbeidet.
-Samarbeidsprosjekter er av stor betydning for
-HMS-arbeidet i petroleumsvirksomheten. Arbeid i
-regi av samarbeidsarenaene har bidratt til å utfordre partene, og ført til en samlet gevinst for HMSarbeidet. Egne spørreundersøkelser og forskningsprosjekt har ført til økt innsikt og kunnskap
-som aktivt brukes videre i arbeidet. I tillegg har
-det i de siste årene også vært økt kontakt mellom
-Petroleumstilsynet og partene i næringen, og dermed har ulike sider av HMS-arbeidet blitt belyst
-og fått økt oppmerksomhet. Samtidig er det viktig
-at slike samarbeidsprosjekter følges opp i de
-enkelte selskapene, og at effekten av disse synliggjøres. Den partssammensatte arbeidsgruppen
-pekte på at partene bør oppfordre til at vurderinger og enighet på trepartsarenaene følges opp og
-gir effekt på HMS-arbeidet og HMS-nivået i virksomhetene.
-På grunn av den raske teknologiske utviklingen innen petroleumsvirksomheten, er det behov
-3
-
-Karlson, Hagberg og Bergstrøm (2015). Production loss
-among employees perceiving work environment problems.
-PubMed, SINTEF (2016). Kostnader ved arbeidsrelaterte
-sykdommer og skader, DGUV Report (2013). Calculating the
-International Return on Prevention for companies: Costs and
-Benefits of Investments in Occupational Safety and Health og
-STAMI (2015). Faktabok om arbeidsmiljø og helse
+Helikopterselskapene, operatørene på sokkelen og de ansattes organisasjoner, har sammen med norske myndigheter gjennom flere tiår utviklet en god sikkerhetskultur som bidrar til det høye sikkerhetsnivået i helikopteroperasjoner på norsk sokkel, jf. kapittel 2.3.1. Det er også etablert et treparts HMS-forum for luftfartsbransjen. Her deltar representanter fra arbeidsgiversiden (NHO), arbeidstakersiden (Parat, LO, Norsk Kabinforening, Norsk Flygerforbund) og representanter fra Luftfartstilsynet.
+
+Fallet i oljepris fra 2014 førte til innstramminger for å redusere kostnadene forbundet med helikoptertransporten. Bemanningsreduksjoner og reduksjon av antall helikoptre i helikopterselskapene, har medført krav til mer effektiv utnyttelse av helikoptre og mannskaper. Dette gir seg utslag i at flygebesetninger ofte utfører flere flyginger per dag enn tidligere. Den økte eksponeringstiden for helikopterstøy og vibrasjoner kan føre til utfordringer med tanke på besetningens arbeidsmiljø. Dette er en situasjon som følges tett fra Luftfartstilsynets side.
+
+Økende olje- og gassvirksomhet i nordlig del av Norskehavet og i Barentshavet vil medføre økt behov for transport av personell med helikopter til og fra de aktuelle områdene. Utfordringene i nord er lang vintersesong med tilhørende mørke, og værforhold preget av tåke, nedbør som snø, ising og polare lavtrykk. Dette er dessuten et krevende værvarslingsområde med få observasjoner og store geografiske avstander. Økt helikopteraktivitet i disse områdene krever derfor tett oppfølging av aktører og tilsynsmyndighet.
+
+1.  **Senfase**
+
+Innretninger og tilhørende infrastruktur på norsk sokkel er vanligvis designet og bygget med en beregnet levetid på ca. 15–30 år. Om lag halvparten av de faste innretningene er over 20 år, og de eldste innretningene på norsk sokkel er nå over 40 år gamle. Figur 4.12 viser aldersfordelingen av de faste innretningene på norsk sokkel som er i drift, i antall og prosent.
+
+**\[:figur:fig4-12.jpg\]**
+
+1.  Aldersfordeling av faste innretninger på norsk sokkel
+
+Petroleumstilsynet
+
+For å bruke innretninger utover opprinnelig designlevetid, kreves det samtykke fra Petroleumstilsynet og Oljedirektoratet. Søknaden om samtykke må sendes inn ett år før den planlagte levetiden utløper. I søknaden skal operatøren dokumentere at fortsatt bruk av innretningene ivaretar kravene til forsvarlig virksomhet og prinsippene for risikoreduksjon. Per 1. mars 2017 har 29 innretninger i drift på norsk sokkel fått samtykke til forlenget levetid.
+
+Bruk av innretninger og infrastruktur på norsk sokkel ut over opprinnelig beregnet levetid krever oppmerksomhet rundt en rekke forhold. Operatøren må påse at sikkerhetsnivå og teknisk integritet opprettholdes og sikres ved økende alder. Endret bruk som følge av nye eller endrede driftsløsninger, endrede reservoar- eller bore- og brønnforhold og anvendelse av ny teknologi, er alle viktige elementer som må ivaretas.
+
+På eldre innretninger er kombinasjonen av nytt og gammelt utstyr og systemer ofte en utfordring. Modifikasjoner og endringer kan gjøre det utfordrende å ha oversikt over og forståelse for viktige sikkerhetsbarrierers funksjoner, og hvordan disse henger sammen. Petroleumstilsynet har sett at enkelte hendelser de siste årene kan knyttes til mangelfull forståelse av samspillet mellom gammelt og nytt. Eldre utstyr kan også innebære at sikkerhetsstyringen er mer operasjonell, det vil si at man har mindre automatikk for å forebygge og håndtere eventuelle hendelser. For «gårsdagens» barriereløsninger er det derfor ekstra viktig at teknisk tilstand er god og at personellet har god kompetanse og forståelse av innretningens systemer og utstyr.
+
+Det er ikke grunnlag for å hevde at sikkerhetsnivået generelt er svekket på innretninger i senfase. Tall fra RNNP tyder heller ikke på at innretninger i senfase skiller seg ut. Næringen har de siste årene økt sin forståelse av aldrings- og senfaseproblematikk og Norsk olje og gass har gitt ut retningslinjer om levetidsforlengelser som nylig er revidert. Sikkerhetsmyndigheten erfarer imidlertid at vedlikeholdet på innretninger i senfase får preg av å være mer korrigerende enn forebyggende. Dette er en utvikling som over tid kan svekke sikkerheten, og som Petroleumstilsynet følger opp. Petroleumstilsynet har i 2016–2017 blant annet samarbeidet med myndighetene i North Sea Offshore Authorities Forum (NSOAF) om en serie tilsynsaktiviteter som spesielt tar opp problemstillinger relevant for senfase. Målet med samarbeidet er å sikre erfaringsoverføring og læring mellom medlemslandene i NSOAF.
+
+1.  **Plugging av brønner**
+
+På norsk sokkel er det i dag om lag 2000 aktive brønner som produserer petroleum, injiserer vann eller gass, eller som er midlertidig stengt. I tillegg bores det hvert år anslagsvis 100 til 150 nye brønner. Letebrønner har historisk blitt plugget fortløpende, men det har vært lite plugging av produksjonsbrønner. Flere felt nærmer seg nå slutten av levetiden og det totale antallet brønner som skal plugges øker. Det forventes derfor at plugging av brønner vil utgjøre en betydelig del av aktivitetsnivået de neste 10 til 15 årene.
+
+Brønner som ikke er forsvarlig tilbakeplugget kan være en risiko både for personell, innretning og miljøet. Lekkasjer fra slike brønner kan medføre både utblåsning, eksplosjon, brann og forurensing. Det er derfor viktig at brønner tilbakeplugges på en slik måte at det ikke oppstår lekkasjer i fremtiden. For å redusere risikoen og for å unngå en opphopning av gamle brønner, er myndighetene opptatt av at antall midlertidig forlatte brønner skal være så lavt som mulig. Petroleumsregelverket stiller krav om at brønnene som ikke er i bruk, må tilbakeplugges innen en gitt tid.
+
+En utfordring er at eldre brønner ikke er designet for å plugges og forlates permanent på en enkel og kostnadseffektiv måte. I tillegg kan det i løpet av brønners levetid ha oppstått strukturelle svakheter eller endringer i undergrunnen som gjør det mer krevende å plugge brønnene. Erfaringer fra tilbakepluggingsprosjekter, både i Norge og i andre land, har vist at dette arbeidet kan være utfordrende. I mange tilfeller har det tatt like lang tid å plugge en brønn permanent som det opprinnelig tok å bore brønnen.
+
+Det finnes i dag ikke én enkelt metode eller ett enkelt verktøy som kan benyttes til å oppfylle alle krav i regelverket til permanent plugging av brønner. Det å finne trygge, gode, effektive og rimelige måter å plugge og etterlate brønner på er viktig for å unngå unødvendige kostnader på sokkelen fremover. Det arbeides derfor i næringen med å utvikle nye metoder og verktøy som kan effektivisere arbeidet med plugging av brønner. Petroleumstilsynet følger denne utviklingen tett. Etablerte statlige støtteordninger, gjennom for eksempel PETROMAKS2, Demo 2000 og Innovasjon Norge, har vært, og vil være viktige i et slikt utviklingsarbeid.
+
+1.  **Disponering**
+
+Det forventes at en rekke innretninger vil avslutte produksjonen og bli fjernet i løpet av neste tiårsperiode. Fjerning av innretninger innebærer ofte at flere aktiviteter foregår samtidig. Dette stiller særlige krav til helhetlig risikostyring av virksomheten.
+
+I fjerningsfasen har Petroleumstilsynet tilsynsansvaret frem til innretningen, eller deler av denne, er brakt om bord på et fartøy. Fra dette tidspunktet overtas ansvaret av myndighetene i det landet fartøyet er registrert. Arbeidstilsynet er myndighetsansvarlig for opphoggingsstedet på land. Miljødirektoratet er myndighet og har tilsynsansvar for forhold knyttet til ytre miljø.
+
+Det er Petroleumstilsynets erfaring at selskapenes gjennomføring av fjerningsaktiviteter er betydelig forbedret fra de første innretningene ble fjernet til i dag. Operatørselskap og involverte entreprenørselskap har i tett samarbeid utviklet utstyr, metoder, kompetanse og systemer som understøtter et høyt HMS-nivå. Petroleumstilsynet erfarer også at det i større grad blir lagt til rette for sikker fjerning av innretninger ved prosjektering av nye utbygginger.
+
+1.  **Oppfølging av HMS-regimet**
+
+**\[:figur:fig5-1.jpg\]**
+
+Dagens HMS-regime er utviklet på bakgrunn av erfaringer som er gjort siden oppstarten av norsk petroleumsvirksomhet, jf. kapittel 2.1.3. Det legges til grunn at dette regimet, som legger vekt på en funksjonell regelverkstilnærming og ansvarliggjøring av næringen selv i sikkerhetsarbeidet, har vært et viktig grunnlag for en positiv utvikling og et høyt HMS-nivå i norsk petroleumsvirksomhet.
+
+I Meld. St. 29 (2010–2011) *Felles ansvar for eit godt og anstendig arbeidsliv* ble det pekt på viktige utfordringer for petroleumsnæringen i fremtiden. Det ble blant annet pekt på at endringer i aktivitetsnivå og aktørbildet, med flere mindre og internasjonale selskaper på norsk sokkel kunne få betydning for et aktivt og velfungerende partsamarbeid. Betydningen av å møte utfordringene slik at de ikke fører til økt risiko og skade på helse, miljø og sikkerhet ble understreket. Dette krever en kontinuerlig bevissthet på at myndighetsoppfølging og regelverk må være innrettet slik at nye utviklingstrekk og utfordringer fanges opp og møtes på en god måte. Departementet varslet derfor en grundig gjennomgang og vurdering av HMS-regimet på petroleumsområdet. En slik gjennomgang var ønskelig for eventuelt å bekrefte at dagens ordning var formålstjenlig, eller som et signal om behov for større eller mindre endringer. Som det fremgår i kapittel 4.2.4, ble det i 2012 nedsatt en faglig ekspertgruppe for gjennomgang og vurdering av dagens HMS-regime. Ekspertgruppen konkluderte i 2013 med at det norske HMS-regimet for petroleumsvirksomheten fungerer overveiende godt, men at det har noen viktige utfordringer. Gruppen pekte blant annet på behov for en tydeligere prioritering og bruk av virkemidler fra myndighetenes side og for å vurdere en tydelig praksis for kost-nytte vurderinger ved innføring av nye forskrifter og enkeltvedtak. Det ble videre pekt på at myndighetene bør forbedre styring av storulykkesrisiko gjennom tydeligere og mer detaljerte krav om risikoakseptkriterier og risikoanalyser.
+
+Arbeids- og sosialdepartementet inviterte også i november 2016 berørte parter og myndigheter til en arbeidsgruppe for en felles vurdering og drøfting av HMS-tilstanden og -utviklingen i norsk petroleumsvirksomhet. Bakgrunnen var at HMS-utviklingen i 2015 og 2016 skapte behov for å sette HMS-situasjonen i petroleumsvirksomheten særlig på dagsorden. Et viktig mål med arbeidsgruppens arbeid var å komme frem til et representativt og omforent bilde av status for helse, miljø og sikkerhet i petroleumsvirksomheten. Gruppen skulle videre vurdere hva som skal til for å opprettholde og forbedre sikkerhetsnivået, samtidig med effektiv og økonomisk drift. Partenes og myndighetenes oppfatning av status, utfordringer og eventuelle mulige veier til videre utvikling og forbedring skulle inngå som grunnlag for denne stortingsmeldingen om helse, miljø og sikkerhet i petroleumsvirksomheten. Arbeidsgruppens rapport ble lagt frem for departementet 29. september 2017. Arbeidsgruppen pekte på at myndighetene og partene gjennom årene har sluttet opp om dagens HMS-regime, som legger vekt på funksjonsbaserte regler, ansvarliggjøring av aktørene og en risikobasert og dialogbasert tilsynsoppfølging. Arbeidsgruppen konkluderer med at regimet for oppfølging av helse, miljø og sikkerhet i norsk petroleumsvirksomhet i hovedtrekk er velfungerende og bør videreføres. HMS-regimet legger til rette for innovasjon og fleksibilitet i utvikling og valg av gode løsninger. Denne fleksibiliteten er ønskelig på bakgrunn av at næringen er i rask utvikling og at selskapene har behov for å ta i bruk den til enhver tid best egnede teknologien. Denne fleksibiliteten utgjør *handlingsrommet* i regimet. Handlingsrommet legger til rette for at partene kan utfordre hverandre og myndighetene med hensyn til fortolkning og oppfølging av rammer og muligheter. Samtidig har handlingsrommet grenser. Arbeidsgruppen pekte på at utfordringer og utprøving av grensene for handlingsrommet kan bidra til at tilliten mellom aktørene settes på prøve og at innretningen på regimet settes under press.
+
+Arbeidsgruppen var også enige om at kontinuerlig forbedring av helse, arbeidsmiljø og sikkerhet er en forutsetning og et felles mål i petroleumsvirksomheten. For å sikre effektiv drift og kontinuerlig forbedring må næringen og myndighetene hele tiden strekke seg etter, lære av og ta i bruk ny kunnskap og ny teknologi. Partene i arbeidsgruppen var også enige om samarbeidstiltak for bedre oppfølging på en rekke områder.
+
+Norges forskningsråd har gjennom PETROMAKS finansiert et prosjekt som har analysert egenarten ved det norske reguleringsregimet, samt sammenliknet det med andre sikkerhetsreguleringer[^39]. Forskningen viser at sikkerhetsreguleringen i norsk petroleumsvirksomhet har utviklet seg ulikt tilsvarende sikkerhetsreguleringer på land, mye på grunn av det sterke trepartssamarbeidet. Forskningen viser at trepartssamarbeidet er en styrke, både med hensyn til legitimitet, demokratihensyn og effektivitet. Prosjektet viser at tillit er viktig for at trepartssamarbeidet skal fungere, men erfaringer viser også at tillitsbaserte strukturer er sårbare. I den komparative studien av regimene i Norge, Storbritannia og USA viser prosjektet at det er et viktig skille om regelverkene er basert på preskriptive og detaljerte regler eller på å beskrive formål og funksjonelle krav. Et preskriptivt regelverk reduserer tvetydigheten og antall mulige handlingsalternativer og passer godt inn der interessekonflikter blir «rettsliggjort». Et funksjonsbasert regelverk tillater flere mulige løsninger når det oppstår interessekonflikter. Forutsetninger for at et funksjonsbasert regelverk skal kunne fungere er høy toleranse for usikkerhet, høy grad av tillit mellom aktørene og en tilsynspraksis som kan være mer veiledende og basert på dialog.
+
+1.  **Næringens og selskapenes oppfølging**
+
+I likhet med andre deler av norsk arbeidsliv er det virksomhetene selv som er ansvarlig for HMS-nivået i petroleumsvirksomheten.
+
+For å etablere, opprettholde og videreutvikle et høyt HMS-nivå og sikkerhetskultur, kreves en aktiv og kontinuerlig oppfølging fra næringen selv. Ledere på alle nivå har et særskilt ansvar for å bidra til å redusere risikoen for storulykker og arbeidsbetinget skade og sykdom. Det er en forutsetning for dagens HMS-regime at næringen og selskapene har kunnskap om og viser evne og vilje til å følge opp de forventinger og rammer som følger av regimet, herunder samarbeid med arbeidstakersiden, oppfølging av myndighetenes tilsyn, samt forståelse og respekt for regelverkets rammer.
+
+HMS-regelverket pålegger operatørselskapet et overordnet ansvar for å påse at regelverkskrav er oppfylt og at de øvrige aktørene i virksomheten følger opp sine plikter. Dette er spesielt viktig i en periode som er preget av store endringer, og når det er usikkerhet om hvordan endringer i arbeidsprosesser, bemanning og organisering vil påvirke helse, miljø og sikkerhet fremover. Operatøren står for den daglige driften av petroleumsvirksomheten, men er ikke alene ansvarlig. Rettighetshavere må følge opp sin påseplikt og påse at operatøren driver virksomheten forsvarlig og i samsvar med gjeldende regelverk.
+
+Erfaringer fra Petroleumstilsynets tilsyn de siste årene viser at operatørselskapene i driftsfasen i all hovedsak aktivt følger opp at styringssystemer er etablert og fungerer etter hensikten, og at HMS-nivået er forsvarlig. Petroleumstilsynet mener også at selskapene i all hovedsak følger opp påseansvaret, men det kan være mer krevende å følge opp leverandører lengre ned i kjeden.
+
+Petroleumsnæringen har lang erfaring med å dele erfaringer og legge til rette for læring etter hendelser, både nasjonalt og internasjonalt. Det tilrettelegges for erfaringsutveksling og læring gjennom etablerte samarbeidsfora på virksomhetsnivå, i trepartssamarbeidet og på myndighetsnivå. Slik læring har blant annet bidratt til endringer i reguleringsregime og organisering av myndighetene, videreutvikling av regelverk, teknologisk utvikling og endringer i selskapenes systemer.
+
+Gjennom mange år har bransjeforeningene Norsk olje og gass, Norges Rederiforbund og Norsk Industri gjennomført fellesprosjekter for å bedre sikkerheten på norsk sokkel, jf. blant annet gasslekkasjeprosjektet, kjemikalieprosjektet og støyprosjektet som er nevnt i kapittel 4. Gjennom disse prosjektene har næringen tatt ansvar i situasjoner som har krevet bedre oppfølging.
+
+Forebygging av *storulykker* har vært, og forblir den viktigste oppgaven til partene i petroleumsvirksomheten. To av de viktigste satsingsområdene for industrien vil fortsatt være reduksjon av antall og alvorlighetsgrad av hydrokarbonlekkasjer og brønnhendelser. Norsk olje og gass har av denne grunn blant annet tatt initiativ til å revitalisere prosjektet: «Reduksjon av hydrokarbonlekkasjer på norsk sokkel» der fagforbundene og Petroleumstilsynet også deltar. Prosjektet har som mål å bidra til økt læring og erfaringsoverføring om hendelsene, jf. kapittel 4.4.2. Som ledd i dette arbeidet utarbeides det informasjonspakker med de viktigste læringspunktene fra de ulike hendelsene. Disse informasjonspakkene brukes i forbindelse med HMS-opplæring ute på innretningene. I tillegg samarbeider aktørene i næringen om å redusere antall brønnkontrollhendelser. Det er blant annet blitt etablert et eget industriforum som arbeider med å utarbeide læringspakker som blir distribuert til alle riggene, og som utgjør grunnstammen i læringsmateriellet som blir brukt for å lære av andre riggers og selskapers hendelser.
+
+*Arbeidsmiljøstandarden* i norsk petroleumsvirksomhet har i all hovedsak hatt en positiv utvikling i perioden 2011–2017, men næringen har fortsatt en rekke arbeidsmiljøutfordringer. RNNP viser en negativ utvikling når det gjelder psykososialt arbeidsmiljø og sikkerhetskultur i 2017, og det var en økning i alvorlige personskader. Arbeidsforhold og organisering av arbeidet har betydning for sikkerhet, arbeidsmiljø og helse. Den partssammensatte arbeidsgruppen understreket at industrien fortsatt må arbeide for å forbedre arbeidsmiljøet med særlig vekt på utfordringer som skiftarbeid og rotasjonsordninger, støy og vibrasjoner, kjemisk helserisiko og ergonomiske forhold. Samtidig pekte gruppen på at det gjennom en årrekke har vært en positiv utvikling i næringen med hensyn til å innarbeide arbeidsmiljøkrav tidlig i designfasen av nye innretninger og anlegg. Dette er kostnadseffektiv risikoreduksjon som er i tråd med prinsippene for god risikostyring.
+
+Partene i arbeidsgruppen var enige om at nattarbeid må begrenses til det som er nødvendig og forsvarlig, og det må foretas gode risikovurderinger i forbindelse med planlegging og gjennomføring av nattarbeid. Problemstillinger knyttet til nattarbeid følges opp i samarbeid mellom partene og myndighetene i regi av Regelverksforum. Arbeidsgruppen pekte også på at det må arbeides videre med å utvikle god kunnskap og dokumentasjon om arbeidsmiljørisiko i petroleumsvirksomheten. Næringen må arbeide for bedre kartlegging av eksponeringsbildet og risiko for eksempel når det gjelder benzen, men også helsefarlige kjemikalier generelt og andre definerte arbeidsmiljøfaktorer for risikoutsatte grupper. Partene i næringen er også enige om at selskapene bør registrere egne måledata i den nasjonale databasen EXPO[^40], og bransjeorganisasjonene vil oppfordre selskapene til å ta i bruk denne databasen. Bruk av EXPO-databasen har stor betydning for utvikling av bred og faktabasert kunnskap om kjemisk arbeidsmiljø i næringen. Som oppfølging av den partssammensatte gruppens anbefalinger, er det igangsatt et samarbeid under Sikkerhetsforum for oppfølging av arbeidsmiljørisiko. Partene skal gjennom dette prosjektet ytterligere forbedre kunnskap og dokumentasjon knyttet til støy, vibrasjoner og kjemisk eksponering.
+
+Det er godt dokumentert at det foreligger årsakssammenhenger mellom arbeidsmiljøeksponeringer og redusert helse og jobbengasjement hos arbeidstakere[^41]. Det finnes også etter hvert solid vitenskapelig dokumentasjon på at dårlig arbeidsmiljø er svært kostbart for samfunnet og for virksomhetene. Samtidig viser også nyere forskning at gode arbeidsmiljøforhold bidrar positivt til virksomhetenes resultater og produktivitet. Og såfremt arbeidsmiljøtiltak er behovsprøvde og kunnskapsbaserte, er det også etter hvert god dokumentasjon på at kost-nytteeffekten av slike tiltak er klart positive. I en næring med behov for innsparinger og effektivisering, er det således gode grunner for å arbeide med arbeidsmiljøforhold, utover rene vernehensyn. Dette fordrer imidlertid at man utvikler arbeidsmiljøet på basis av reelle behov på den enkelte arbeidsplass, og at tiltakene man iverksetter er knyttet til utførelsen og organiseringen av selve arbeidet. Dette vet man er viktig for at arbeidsmiljøtiltakene skal ha virkning og bør derfor være styrende for det systematiske arbeidsmiljøarbeidet.
+
+Samarbeidsprosjekter er av stor betydning for HMS-arbeidet i petroleumsvirksomheten. Arbeid i regi av samarbeidsarenaene har bidratt til å utfordre partene, og ført til en samlet gevinst for HMS-arbeidet. Egne spørreundersøkelser og forskningsprosjekt har ført til økt innsikt og kunnskap som aktivt brukes videre i arbeidet. I tillegg har det i de siste årene også vært økt kontakt mellom Petroleumstilsynet og partene i næringen, og dermed har ulike sider av HMS-arbeidet blitt belyst og fått økt oppmerksomhet. Samtidig er det viktig at slike samarbeidsprosjekter følges opp i de enkelte selskapene, og at effekten av disse synliggjøres. Den partssammensatte arbeidsgruppen pekte på at partene bør oppfordre til at vurderinger og enighet på trepartsarenaene følges opp og gir effekt på HMS-arbeidet og HMS-nivået i virksomhetene.
+
+På grunn av den raske teknologiske utviklingen innen petroleumsvirksomheten, er det behov for kontinuerlig kunnskapsutvikling når det gjelder helse, arbeidsmiljø og sikkerhet. Det er også viktig at ny teknologi som har betydning for både effektivitet og sikkerhet tas i bruk i selskapene.
+
+Operatørene har i stor grad bidratt til forsknings- og utredningsprosjekter med relevans for petroleumsaktivitet på norsk sokkel. Næringens investeringer til forskning var på topp i 2013. Etter dette har operatørene redusert sine investeringer i betydelig grad. Operatørene har kuttet mer i sine eksterne FoU-investeringer enn i interne FoU-investeringer, og det er dermed mer krevende for instituttsektoren å utløse nødvendige forskningsmidler fra operatørene enn tidligere. Norges forskningsråd er bekymret for denne utviklingen og følger den tett i dialog med operatørene.
+
+Kunnskaps- og teknologiutvikling er grunnleggende forutsetninger for det kontinuerlige forbedringsarbeidet i petroleumsvirksomheten. Næringen må derfor følge opp at dette prioriteres av organisasjonene og selskapene. Den partssammensatte gruppen anbefalte at næringen, myndighetene og relevante forskningsmiljøer etablerer en arbeidsgruppe som ser på i hvilken grad HMS-relevant forskning har gitt resultater, og hvordan ny teknologi kan tas i bruk. Dette følges opp i Sikkerhetsforum.
+
+1.  **Myndighetenes oppfølging**
+
+Myndighetene har ulike virkemidler for å bidra til et høyt helse-, miljø- og sikkerhetsnivå i petroleumsnæringen. Dette gjelder både med hensyn til å sikre seriøse aktører og samarbeid om et kontinuerlig forbedringsarbeid i alle faser av virksomheten.
+
+1.  **Oppfølging av konsesjonssystemet**
+
+Kravene til helse, miljø og sikkerhet følges opp gjennom alle faser i petroleumsvirksomheten. Rammeverket bidrar til å gi myndighetene god styring og kontroll med petroleumsvirksomheten, fra leting etter petroleumsforekomster, utbygging og utvinning til avslutning av virksomheten, jf. kapittel 2.1.1. Det er Olje- og energidepartementet som har ansvaret for gjennomføring av konsesjonsrunder og godkjenning av utbyggingsplaner.
+
+Sikkerhetsmyndighetene, ved Petroleumstilsynet og Arbeids- og sosialdepartementet, gir også sine faglige vurderinger til Olje- og energidepartementet i forbindelse med søknadene. Det er en klar ansvars- og rolledeling mellom myndighetene i dette arbeidet, og denne ansvars- og rolledelingen ligger fast og videreføres. Beslutninger om HMS-regelverket kan imidlertid ha betydning for effektiv drift, og beslutninger om tildeling og overdragelser kan ha betydning for sikkerhetsnivået. Myndighetene må derfor sørge for at vi har seriøse og kompetente aktører på norsk sokkel.
+
+I kriteriene for tildeling av utvinningstillatelser stilles det blant annet krav til sammensetning av utvinningstillatelsene og særlige krav til kompetanse og operasjonell erfaring ved aktiviteten i Barentshavet, i områder med store havdyp, i områder med høyt trykk og/eller høy temperatur. Disse kriteriene ble sist skjerpet i 2011, som følge av erfaringer etter utblåsningen på Deepwater Horizon.
+
+1.  **Petroleumstilsynets tilsynsoppfølging**
+
+Den mest synlige delen av Petroleumstilsynets tilsynsoppfølging er den løpende oppfølgingen av næringen. Tilsynet omfatter et bredt spekter av aktiviteter fra tradisjonelle kontrollaktiviteter som revisjoner, møter med næringen og gransking av hendelser gjennom alle faser av petroleumsvirksomheten. En beskrivelse av Petroleumstilsynets tilsynsstrategi og -metodikk fremgår av kapittel 2.2.
+
+Den faglige ekspertgruppen som i 2013 diskuterte tilsynsstrategi og HMS-regelverk i norsk petroleumsvirksomhet konkluderte med at det norske HMS-regimet i hovedsak er robust og bør videreføres. Samtidig ble det blant annet pekt på at det er behov for tydeligere prioritering og bruk av virkemidler og at Petroleumstilsynet bør bli tydeligere i utøvelsen av sin rolle som tilsynsmyndighet, anvendelse av grunnlaget for normering, dialogbaserte tilsyn og bruk av lovfestede og ikke-lovfestede virkemidler. Petroleumstilsynet har fulgt opp denne utfordringen gjennom oppbygging og videreutvikling av medarbeidernes kunnskap og kompetanse gjennom et bredt faglig opplæringstilbud. Ekspertgruppen pekte også på et behov for å vurdere regelverket og myndighetenes oppfølging av storulykkesrisiko. Tilsynet iverksatte etter dette ulike tiltak, som regelverkspresiseringer, risiko- og barrierestyringsprosjekter og oppfølging av aktørene i næringen. Tilsynsmyndigheten og næringen selv har tatt en rekke initiativer innen risikostyring, barrierestyring og ledelsesoppfølging.
+
+Den partssammensatte arbeidsgruppen i 2017 var også enige om at en system- og risikobasert tilsynsmodell er en sentral del av HMS-regimet, og bør videreføres. Gruppen var videre enige om nødvendigheten av et sterkt og tydelig tilsyn, med nødvendig autoritet. Petroleumstilsynets tilsynsstrategi er i utgangspunktet basert på dialog og tillit og for å ha nødvendig autoritet, må Petroleumstilsynet være kompetent, tydelig og konsekvent i utøvelsen av sin rolle som tilsyns- og kontrollmyndighet overfor næringen og det enkelte selskap. Det er ulikt syn på om Petroleumstilsynets tillitsbaserte strategi fullt ut er hensiktsmessig gitt dagens situasjon i næringen. Arbeidstakerorganisasjonene i arbeidsgruppen uttalte at det i lys av enkeltsaker kan stilles spørsmål ved om tilsynet i alle tilfeller har tilstrekkelig autoritet og bruker sine virkemidler på en tilstrekkelig måte. Dette gjelder spesielt ved gjentatte funn av uønskede forhold og tilstander.
+
+Tilsynsbegrepet kan i vid forstand forstås som all aktivitet og virkemiddelbruk som iverksettes for å følge opp regelverkets intensjoner og at det etterleves. Det omfatter således alle aktiviteter som gir Petroleumstilsynet et grunnlag for å vurdere om selskapene tar ansvar for å drive forsvarlig, i alle faser av virksomheten. I et langsiktig perspektiv er det Petroleumstilsynets ambisjon å bidra til å forebygge og til kontinuerlig forbedring, for å bygge opp under målsetningen om at petroleumsvirksomheten skal være verdensledende innen HMS.
+
+Petroleumstilsynet benytter sjelden formelle reaksjonsmidler. Dersom bruk av dialog vurderes å være et vel så effektivt virkemiddel som formelle reaksjonsmidler, foretrekkes dette. Formålet med virkemiddelbruken, herunder reaksjonsmidler, er å ansvarliggjøre aktørene og sikre etterlevelse av regelverket. En fordel med en forsiktig bruk av formelle reaksjoner kan være at ansvaret for oppfølging plasseres tydelig hos selskapene selv, og en opprettholder et rom for å sende kraftigere signaler når tilsynet ikke har tillit til aktørenes egen oppfølging.
+
+Petroleumstilsynet må i hvert enkelt tilfelle vurdere bruken av virkemidler og reaksjoner med tanke på ønsket resultat og effekt. Tilsynet må fortløpende tilpasse seg endringer i næringen og kontinuerlig vurdere egen tilsynsoppfølging og reaksjonsbruk. Tilsynsrollen utøves og oppfattes som ulik i ulike sammenhenger. Tilsynet må derfor være bevisst og tydelig på hvilke signaler og effekt bruken av de ulike virkemidlene har. En dialogbasert oppfølging fremmer læring og understreker næringens ansvar, men kan oppfattes av næringen mer som veiledning og rådgiving enn som myndighetstilsyn. Bruk av reaksjonsmidler understreker rollen som kontroll- og tilsynsetat. En utvikling med endrede rammebetingelser og flere krevende situasjoner kan tilsi at det er behov for at Petroleumstilsynet er tydeligere i sin reaksjonsbruk og i nødvendig grad etterprøver at pålegg blir fulgt opp.
+
+Petroleumstilsynet har de senere årene hatt særlig oppmerksomhet på vurdering og bruk av virkemidler og reaksjoner i alle faser av petroleumsvirksomheten. De fleste utbygginger på norsk sokkel gjennomføres innenfor det usikkerhetsspennet for tid og kostnader som framgår av PUD. Enkelte utbygginger har imidlertid hatt utfordringer med betydelige overskridelser, både i kostnader og gjennomføringstid. Dette kan ha betydning også for kvalitet og HMS i prosjektering og bygging. På bakgrunn av dette vil Petroleumstilsynet gjennomgå erfaringer fra tilsyn med sikkerhet og arbeidsmiljø i utbyggingsprosjekter de senere årene med sikte på å oppsummere erfaringer, identifisere eventuelle mangler ved prosjektgjennomføring og læringspunkter, samt foreslå tiltak for videreutvikling av egen tilsynsoppfølging. I dette inngår å vurdere hensiktsmessig bruk av tilsyn og reaksjonsmidler i tidlig fase av utbyggingsprosjekter.
+
+Petroleumstilsynet skal derfor på en aktiv og synlig måte vurdere sin virkemiddelbruk og hvordan hele spekteret av virkemidler brukes i myndighetsoppfølgingen av selskapene. For å sikre at Petroleumstilsynet har legitimitet og autoritet i utøvelsen av myndighetsrollen må tilsynsetaten også sørge for å ha kompetanse og kapasitet til å vurdere fremtidige utviklingstrekk, hvilke implikasjoner dette kan få for tilsyn, virkemiddelbruk og eventuelle behov for regelverksutvikling.
+
+1.  **Prioriterte hovedtema for tilsyn**
+
+På bakgrunn av utviklingstrekk i næringen de siste par årene lanserte Petroleumstilsynet i 2017 hovedtemaet «Trenden skal snus, – med Petroleumstilsynet som pådriver og næringen som utøver». Bakgrunnen for hovedtemaet var RNNP-resultater, erfaringer fra tilsynsaktiviteter og hendelser og informasjon fra ulike parter i næringen om risiko, som tydet på en negativ trend i HMS-utviklingen i 2015 og 2016. Målet var å løfte frem noen sentrale utfordringer og å bidra til å få utviklingen på rett spor. De tre sentrale utfordringene var *partsamarbeid, robusthet* og *standardisering.* Petroleumstilsynet førte tilsyn og gjennomførte en rekke andre aktiviteter i oppfølgingen av næringen. Det var god dialog og et høyt engasjement rundt temaene i 2017.
+
+I sin helhet bidro «Trenden skal snus» til økt oppmerksomhet og kunnskap og forbedringstiltak i industrien når det gjelder partssamarbeid, robusthet og standardisering. Hovedtemaet førte også til debatt og erfaringsutveksling og har satt viktige tema på dagsorden. Selv om hovedtemaet for 2017 er avsluttet, vil partsamarbeid, robusthet og standardisering fremdeles være viktige tema for oppfølging i tiden fremover.
+
+I 2018 har Petroleumstilsynet valgt «Sikkerhet er et verdivalg» som sitt hovedtema. Tilsynet understreker med dette at sikkerhet er bærebjelken i norsk petroleumsvirksomhet. Uten en trygg næring står verdier på spill. Bransjen endres og velger stadig nye løsninger, men vern om menneskers liv og helse må fortsatt være fremste prioritet. Petroleumstilsynet understreker at partene har et felles ansvar for å styrke og videreutvikle sikkerhetsnivået som er opparbeidet gjennom mange år. Skal man lykkes i dette, må verdien av sikkerhet veie tungt i alle beslutninger.
+
+1.  **Gransking av ulykker og uavhengig undersøkelseskommisjon**
+
+Ved behandlingen av St.meld. nr. 12 (2005–2006) *Om helse, miljø og sikkerhet i petroleumsvirksomheten* ble det lagt til grunn at det skal kunne etableres ad-hoc undersøkelseskommisjoner når det er behov for en ekstern gransking av både hendelsesforløp, regelverk og operatørens og myndighetenes rolle ved hendelser i petroleumsvirksomheten. Departementet inngikk i 2010 en avtale med Statens havarikommisjon for transport om bistand i forbindelse med eventuelle granskinger, jf. kapittel 2.2.4. Det har etter dette ikke blitt iverksatt eksterne undersøkelseskommisjoner. Arbeidstakersiden i næringen har etterlyst bruk av uavhengig undersøkelseskommisjon i petroleumsvirksomheten. Departementet anser at bruk av uavhengige granskinger vil være viktig og nyttig når det er behov for det, men mener allikevel ikke at det er hensiktsmessig å etablere en fast uavhengig undersøkelseskommisjon for petroleumsvirksomheten. Etter dagens ordning kan en undersøkelseskommisjon etableres både når det er nødvendig av hensyn til objektivitet og den allmenne tilliten til myndighetene og regimet, og med tanke på læring og forbedring. En ekstern, uavhengig undersøkelseskommisjon vil derfor bli vurdert for eksempel når det er behov for å vurdere myndighetenes rolle og oppfølging, og ved særlig alvorlige hendelser.
+
+1.  **Tiltak for å redusere kostnadsnivået på sokkelen**
+
+I regjeringens politiske plattform 2013 (Sundvolden-plattformen) gikk regjeringen inn for å redusere kostnadsnivået på norsk sokkel. Det ble derfor igangsatt en utredning av mulige tiltak for å forenkle forflytning av flyttbare innretninger mellom ulike lands sokler i Nordsjøen, og et samarbeid mellom myndighetene for å utarbeide en felles veileder i samfunnsøkonomisk analyse for beslutninger i petroleumsvirksomheten.
+
+1.  *Enklere forflytning av flyttbare innretninger mellom ulike lands sokler*
+    *i Nordsjøen*
+
+På oppdrag fra Arbeids- og sosialdepartementet utarbeidet Petroleumstilsynet i 2015 rapporten «*Flyt av flyttbare innretninger mellom kontinentalsokler i Nordsjøbassenget*». I rapporten identifiserte Petroleumstilsynet mulige tiltak som kan gjøre det enklere å flytte flyttbare innretninger mellom norsk og britisk sokkel og/eller fungere kostnadsreduserende og effektiviserende, uten å ta stilling til om det vil være hensiktsmessig å gjennomføre tiltakene.
+
+Petroleumstilsynet har på oppdrag fra departementet arbeidet videre med utvalgte tiltak som ble identifisert i rapporten. Av disse er tiltak som forventes ikke å ha negativ effekt på HMS-nivået fulgt opp. Disse tiltakene gjelder tydeliggjøring av regelverket på enkelte områder, samt visse endringer i tilsynsoppfølgingen og regelverket for flyttbare innretninger. Andre utredete tiltak har enten ikke latt seg gjennomføre ennå, virker ikke effektivisende, eller forventes å ha negativ effekt på HMS-nivået.
+
+Regjeringen vil ikke gjennomføre tiltak som forventes å ha negativ effekt på HMS-nivået i petroleumsvirksomheten.
+
+1.  *Sektorveileder i samfunnsøkonomisk analyse*
+
+Ved utredning av statlige tiltak som man forventer gir vesentlige nytte- eller kostnadsvirkninger, herunder vesentlige budsjettmessige virkninger for staten, skal det gjennomføres en analyse i samsvar med gjeldende rundskriv for samfunnsøkonomiske analyser.
+
+For å forbedre kvaliteten på slike analyser leder Olje- og energidepartementet et arbeid med å utarbeide en felles sektorveileder[^42] i samfunnsøkonomisk analyse for petroleumssektoren. Sektorveilederen omfatter beslutninger i petroleumssektoren, uavhengig av hvilken myndighet som fatter beslutningen. I arbeidet deltar Olje- og energidepartementet, Klima- og miljødepartementet, Finansdepartementet, Arbeids- og sosialdepartementet, Oljedirektoratet, Miljødirektoratet, Petroleumstilsynet og Direktoratet for økonomistyring. Formålet med sektorveilederen er å bidra til å sikre et godt beslutningsgrunnlag i forkant av myndighetsbeslutninger. Gode beslutningsgrunnlag gir bedre avveininger mellom ressursutnyttelse og helse, miljø og sikkerhet. Sektorveilederen konkretiserer blant annet hvordan en skal ta hensyn til storulykkesrisiko og utslipp som kan ha negativ påvirkning på miljøverdier det er utfordrende å verdsette. Arbeidet med sektorveilederen er i sluttfasen.
+
+1.  **Medvirkning og partssamarbeid**
+
+To- og trepartssamarbeidet er vesentlige forutsetninger og viktige arenaer for HMS-regimet i norsk petroleumsvirksomhet. Et godt samarbeid forutsetter god og åpen kommunikasjon og gjensidig anerkjennelse av roller og ansvar. Et godt topartspartssamarbeid i virksomhetene kjennetegnes av gode prosesser, åpenhet og reell medvirkning i forholdet mellom arbeidsgiver- og arbeidstakersiden. Det formelle grunnlaget og de ulike arenaer for partssamarbeid og medvirkning fremgår for øvrig av kapittel 2.3.
+
+Arbeidstakermedvirkning innebærer at arbeidstakerne og deres representanter blir involvert i de aktuelle prosessene slik at deres innspill og meninger kan utgjøre en del av beslutningsgrunnlaget, at de er sikret den nødvendige kunnskapen og at de får den tid som er nødvendig for å utføre sine oppgaver. Gjennom arbeidstakermedvirkning brukes arbeidstakernes samlede kunnskap og erfaring for å sikre at saker blir tilstrekkelig belyst før det treffes beslutninger som angår helse, miljø og sikkerhet, og arbeidstakerne gis mulighet til innflytelse på sin egen arbeidssituasjon.
+
+Arbeidstakerne i petroleumsvirksomheten har viktig kompetanse og erfaring som bidrar til grunnlaget for et godt HMS-arbeid. Medvirkning blir derfor sett på som en forutsetning for å drive forsvarlig petroleumsvirksomhet, og skal gjennomføres i de ulike faser av virksomheten. Tilsynserfaringer viser at i selskaper med godt samarbeidsklima, hvor reell arbeidstakermedvirkning fungerer, bidrar partssamarbeidet positivt til arbeidet med helse, miljø og sikkerhet.
+
+Selskapene skal legge til rette for reell arbeidstakermedvirkning, og sørge for at lovpålagte ordninger som arbeidsmiljøutvalg og verneombud brukes på en god måte i forebyggende HMS-arbeid, og i forbindelse med endring og effektivisering. Petroleumsnæringen har vært inne i en utfordrende periode med nedbemanninger og omstillinger. En slik situasjon kan også være utfordrende for det etablerte partssamarbeidet. Petroleumstilsynet pekte i forbindelse med sitt hovedtema i 2017 – «Trenden skal snus» på at man så et økt press på partssamarbeidet, spesielt i forbindelse med effektivisering av virksomhetene og nedbemanning. Partssamarbeidet ble fulgt opp gjennom en rekke aktiviteter i 2017, i tilsyn, i statusmøter med selskapenes ledelse, i Sikkerhetsforum, i møter med fagforeninger og forum for koordinerende hovedverneombud. Tilsynet erfarer at det er variasjon i hvor godt partssamarbeidet fungerer i selskapene. Det opplevde presset på topartssamarbeidet kan henge sammen med at næringen tilpasser seg endrede rammebetingelser. Utviklingen i styrings- og organisasjonsformer, som kanskje innebærer at det i mindre grad legges vekt på reell medvirkning og samarbeid, vil også kunne påvirke topartssamarbeidet. Det er likevel nyanser mellom partene i næringen i oppfatningen av om og i hvilken grad medvirkning og samarbeid i petroleumsvirksomheten er kommet under press. Tilsyn med arbeidstakermedvirkning i endringsprosesser viser også at flere aktører evner å få til gode prosesser med bred involvering og at det er godt samarbeid mellom ledelse, vernetjeneste og tillitsvalgte.
+
+En utredning publisert av Petroleumstilsynet i 2016 viste at det ofte ikke var tilstrekkelig og tidlig nok involvering av arbeidstakersiden i HMS-kritiske problemstillinger, at verneombudene opplevde utfordringer knyttet til tilstrekkelig tid, og svakheter og mangler ved opplæring og kompetanse[^43]. De fleste selskapene hadde formelle systemer og strukturer på plass, men det var variasjon i hvor godt dette fungerer i praksis. IRIS og Fafo har også på oppdrag fra Petroleumstilsynet og Arbeidstilsynet gjennomført et forskingsprosjekt om arbeidstakermedvirkning i petroleumsvirksomheten og på store byggeplasser på land[^44]. Prosjektet så på forutsetninger for og utfordringer med tilrettelegging for arbeidstakermedvirkning på bedriftsnivå og i kontraktskjeder. Et overordnet inntrykk fra intervjuer med noen selskap i petroleumssektoren er at både arbeidsgiversiden og arbeidstakersiden er aktive og involverte i HMS-arbeidet. Samarbeidet beskrives ofte som krevende, men konstruktivt. Selskapene hadde mange gode intensjoner og erfaringer med arbeidstakermedvirkning og partssamarbeid. Selskapene brukte betydelig tid og ressurser på samarbeid med fagforeningene, og organisering av vernetjenesten og arbeidsmiljøutvalg.
+
+Tillit i topartssamarbeidet er et grunnlag for trepartssamarbeidet og en forutsetning for det norske HMS-regimet. Rundt år 2000 var det tegn på at partene i næringen manglet et felles utgangspunkt og en felles oppfatning av risikonivået, og at det ikke ble lagt tilstrekkelig vekt på partssamarbeid og medvirkning. Det ble tatt konkrete grep for å bedre trepartssamarbeidet, blant annet gjennom etablering av Sikkerhetsforum i 2001. I tillegg ble RNNP etablert i 1999 for å bidra til en omforent forståelse av utviklingen i risikonivå blant arbeidsgiversiden, arbeidstakersiden og myndighetene. Norsk petroleumsvirksomhet ble etter dette ansett som en foregangsnæring med hensyn til organisering og samarbeid mellom de tre partene.
+
+Den partssammensatte arbeidsgruppen fra 2017 var enige om at trepartsarenaene i petroleumsvirksomheten i hovedsak fungerer godt og bør videreføres. Viktige tema og problemstillinger settes på dagsorden og drøftes mellom de tre partene, og diskusjonene er preget av samarbeidsvilje. I 2017 ble Sikkerhetsforum utvidet med medlemmer fra arbeidstakerorganisasjonene Tekna og NITO, og dette er særlig relevant på bakgrunn av den raske teknologiske utvikling og de utfordringer dette innebærer for petroleumsvirksomheten.
+
+På trepartsarenaene er partene i stor grad representert gjennom sine organisasjoner, og diskusjonene foregår på overordnet og prinsipielt nivå, jf. kapittel 2.3.1. Organisasjonene kan ikke formelt forplikte sine medlemmer til konkret oppfølging av diskusjoner og enighet på trepartsarenaene, selv om organisasjonenes råd kan ha stor betydning for selskapenes prioriteringer.
+
+I regi av Sikkerhetsforum har det vært iverksatt felles satsinger og prosjekter på prioriterte områder, jf. for eksempel omtale i kapittel 4 av kjemikalieprosjektet, støyprosjektet og nordområdesatsingen. Disse oppfattes som positive samarbeidsprosjekter som har ført til engasjement og aktivitet i næringen. Samtidig er det også situasjoner i dag hvor trepartssamarbeidet utfordres i større grad enn tidligere. Det kan være et behov og potensial for bedre utnyttelse av trepartsarenaene til å søke enighet om utfordringer og oppfølging. Merverdien av trepartssamarbeidet avhenger av at diskusjoner på trepartsarenaene fører til samarbeid om oppfølging og tiltak.
+
+Selskapene har vært gjennom store endringer de siste årene og man har fått mye erfaring med arbeidstakermedvirkning ved gjennomføring av krevende endringsprosesser. Det er eksempler både på prosesser der man har fått medvirkningen til å fungere godt og på prosesser med mangelfull medvirkning. Det er viktig at disse erfaringene blir brukt til videre læring. Etter anbefaling fra den partssammensatte arbeidsgruppen fra 2017 er det derfor i regi av Sikkerhetsforum satt i gang et partsamarbeid for å samle inn, diskutere og sammenstille erfaring med sikte på læring og videre utvikling av partssamarbeidet. Denne gruppen kan blant annet drøfte og definere roller og ansvar i to- og trepartssamarbeidet, samt diskutere ulike styringssystemer.
+
+1.  **Læring, erfaringsutveksling og forebygging**
+
+Petroleumsnæringen har lang erfaring med å dele kunnskap og erfaring og legge til rette for læring etter hendelser. Kunnskaps- og erfaringsutveksling skjer gjennom etablerte samarbeidsfora på virksomhetsnivå, i trepartssamarbeidet og på myndighetsnivå.
+
+Utfordringer knyttet til læring og spørsmålet om hvorfor man ikke har lært, dukker ofte opp i forbindelse med gransking av hendelser og ulykker. Både direkte utløsende og bakenforliggende årsaker til ulykker har ofte fellestrekk. I forbindelse med gransking av større ulykker viser det seg ofte at det har vært informasjon eller kunnskap i organisasjonene som kunne bidratt til å forhindre ulykken.
+
+Det er imidlertid ikke bare uønskede hendelser som gir grunnlag for læring. Det er også mye å lære av hvorfor ting går bra. PETROMAKS2 har finansiert forskning som har bidratt til økt kunnskap om hvorfor ulykker ikke skjer, og hvilke forutsetninger som må være til stede for at en arbeidsoperasjon skal kunne betegnes som vellykket[^45]. Det er utviklet kunnskap som vil kunne hjelpe næringen til mer målrettet læring av vellykkede operasjoner. Dette vil igjen bidra til at næringen kan være mer proaktiv i sikkerhetsarbeidet, slik at styringssystemer og prosedyrer og faktisk arbeidspraksis kan justeres *før* det skjer en uønsket hendelse eller ulykke.
+
+Det er i dag mange møteplasser og arenaer hvor HMS diskuteres og det er et stort omfang av kunnskap som kan deles. Det er imidlertid behov for bedre systematisering av kunnskapen for å gi god læring etter hendelser. Partene i regi av Sikkerhetsforum har på denne bakgrunn nedsatt en tverrfaglig partssammensatt arbeidsgruppe for å vurdere hvordan deling av kunnskap kan effektiviseres og systematiseres i et langsiktig perspektiv.
+
+1.  **Innretning på regelverk og bruk av standarder**
+
+Hensiktsmessige og oppdaterte standarder er viktig for at reguleringsregimet skal fungere. Fra ca. 2005 til 2014 var det en utvikling i retning av flere selskapsspesifikke krav i næringen. Etter 2015 har det imidlertid vært en klar utvikling i retning av å bruke felles standarder. Norsk olje og gass har også hatt et eget prosjekt med formål om å identifisere selskapsspesifikke krav, påpeke deres uheldige konsekvenser og foreslå tiltak for å gå bort fra selskapsspesifikke krav og i stedet benytte felles og anerkjente industristandarder. IOGP har også et stort prosjekt for å identifisere og samordne selskapsspesifikke krav og på sikt fremme disse som felles industristandarder (ISO).
+
+Standardiseringsarbeidet har gjennom årene hatt varierende engasjement og effekt. Dette medførte blant annet at det frem til 2013 var et betydelig etterslep i oppdatering av standarder som det henvises til i regelverket. Ekstraordinære tiltak i standardiseringsarbeidet har imidlertid bidratt til å rette opp denne situasjonen, slik at NORSOK-standardene i dag i stor grad er oppdaterte[^46].
+
+NORSOK-eierne (Norsk olje og gass, Norsk Industri og Norges Rederiforbund), står samlet om følgende mål for petroleumsstandardisering:
+
+- Sikre et forsvarlig sikkerhetsnivå
+
+- Øke bruken av internasjonale standarder
+
+- Redusere bruken av særnorske krav
+
+- Redusere behovet for selskapsinterne spesifikasjoner
+
+- Sikre at standarder representerer kostnadseffektive løsninger
+
+- Bidra til å styrke konkurranseevnen for norsk kontinentalsokkel
+
+Dette er mål som også myndighetene stiller seg bak. Petroleumstilsynet vil bidra til at næringen har relevante standarder som oppfyller behov for detaljerte spesifikasjoner, slik at brukerne kan etterleve funksjonelle krav i regelverket. Det er også viktig at standarder videreutvikles, slik at disse bidrar til å opprettholde et høyt HMS-nivå og HMS-utvikling i takt med den teknologiske utviklingen.
+
+Utviklingen i næringen de senere årene med generasjonsskifte, nye aktører osv. tilsier at det er et behov for et kunnskapsløft om det funksjonsbaserte regelverket. En av anbefalingene til den partssammensatte arbeidsgruppen var derfor at Petroleumstilsynet, i samarbeid med partene i næringen, tar initiativ til å vurdere det etablerte opplæringstilbudet om regelverksregimet. Målsettingen med arbeidet vil være å videreutvikle opplæringstilbudet og øke kompetansen på regelverksregimet i næringen. Dette arbeidet er forankret i Regelverksforum.
+
+1.  **Kunnskapsutvikling**
+
+Næringens prioriteringer er avgjørende for kunnskapsutviklingen i petroleumsvirksomheten. Investeringer i forskning og teknologi finansieres i hovedsak av oljeselskapene. I 2016 utgjorde disse investeringene om lag 3,2 milliarder kroner for sektoren under ett. Utviklingen i de senere år viser at investeringene i FoU økte frem til 2013 til et nivå i underkant av 4,2 milliarder kroner for deretter å synke. Etter 2013 har derimot andelen av den selskapsinterne forskningsaktiviteten økt. Dette indikerer at det er de eksterne forskningsmiljøene som har opplevd de største reduksjonene. Norges forskningsråd er bekymret for denne utviklingen og følger den tett i dialog med operatørene.
+
+Arbeids- og sosialdepartementet har det overordnede myndighetsansvaret for forskning på sikkerhet og arbeidsmiljø i petroleumsvirksomheten. Den offentlig finansierte forskningen er i hovedsak organisert som en del av Forskningsrådets store petroleumsprogram, PETROMAKS2. Denne satsingen er videreført og gjort synkron med resten av PETROMAKS2-programmet, samt gjort om til en løpende satsing med tre-årige programplaner.
+
+1.  **Regjeringens konklusjoner**
+
+**\[:figur:fig6-1.jpg\]**

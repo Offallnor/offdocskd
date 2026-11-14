@@ -1,993 +1,260 @@
-# Prop. 51 L (2025–2026), del 4 av 5 (side 40–52)
+# Prop. 51 L (2025–2026), del 4 av 6
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2026/70172faf-prop-51-l-20252026.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-51-l-20252026/id3153657/
 - Original-PDF: https://www.regjeringen.no/contentassets/834c980322244ed0b1c0152ad741acd3/no/pdfs/prp202520260051000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 40]
-
-40
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-boliger er høyt, og at økte leve- og rentekostnader
-bidrar til å presse prisene oppover. Kommunen
-viser til behov for økt satsing på støtteordninger
-fra Husbanken.
-Leieboerforeningen støtter ikke forslaget. Foreningen erkjenner behovet for å forberede seg på
-at flyktninger fra Ukraina vil fortsette å komme til
-Norge, men ser likevel ikke behov for å svekke
-leieboeres beskyttelse. Leieboerforeningen anser
-kortvarige ettårskontrakter, som ikke er begrunnet i utleiers egen tilstedeværelse i eller planlagt
-bruk av boligen, for å være i strid med utviklingen
-av et seriøst leiemarked og et brudd på de forbrukerhensyn som skal ligge til grunn for husleieloven. Foreningen viser til at forslaget dekker alle
-grupper av leieboere, og mener dette innebærer
-«en uakseptabel svekkelse [av] husleielovens
-vern av leieboeres boligsituasjon». Samtidig
-mener Leieboerforeningen at det er feil å skille ut
-en særskilt svak gruppe som ukrainske flyktninger og tilby leievilkår som husleieloven ellers
-ikke aksepterer. Foreningen mener dette er en
-form for diskriminering som bør vurderes opp
-mot diskrimineringsloven.
-
-10.5 Departementets vurderinger
-Departementet opprettholder forslaget om å
-videreføre den midlertidige bestemmelsen i husleieloven § 9-3 a som åpner for å inngå tidsbestemt
-leiekontrakt med minstetid på ett år ved utleie av
-fritidsbolig som tas i bruk til bolig. Den midlertidige bestemmelsen foreslås videreført til 1. juli
-2028. Formålet med videreføringen er å fremskaffe nok utleieboliger ved boligmangel som
-følge av at det kommer mange fordrevne fra
-Ukraina.
-
-2025–2026
-
-Det er grunn til å tro at et høyt antall flyktninger vil bli bosatt også de neste årene. Så langt
-har kommunene i stor grad benyttet det private og
-kommunale utleiemarkedet i bosettingen. Tilbakemeldinger tyder på at boligreserven i svært
-mange kommuner er nær uttømt. Det er i tillegg
-høyt press i leiemarkedet, slik at flere grupper
-enn flyktninger sliter med å finne bolig. En spørreundersøkelse, som ble sendt til kommunene
-kort tid etter at den midlertidige bestemmelsen
-trådte i kraft i juni 2023, viste at en rekke kommuner allerede har eller kommer til å leie inn fritidsboliger som følge av unntaket. Det midlertidige
-unntaket i husleieloven kan dermed bidra til å
-avhjelpe situasjonen i kommuner som har mange
-fritidsboliger av god kvalitet.
-Leieboerforeningen mener kortvarige ettårskontrakter svekker leiers boligsituasjon og vern
-etter husleieloven. Departementet viser til at hensynet til forutsigbare og langsiktige leieforhold
-må veies mot tilgangen til boliger. Etter departementets syn vil det for eksempel være bedre for
-en flykning å ha tilgang på en fritidsbolig av god
-kvalitet i ett år, enn å måtte bo lenge i mottak eller
-andre mindre gode botilbud. Et vilkår for å
-benytte unntaket om kortere minstetid er også at
-fritidsboligen må være godkjent til bruk som bolig
-etter plan- og bygningslovgivningen. Dette gir
-leier en ekstra sikkerhet for at fritidsboligen har
-visse kvaliteter.
-Asker kommune viser til høyt prisnivå og
-press i leiemarkedet, og mener det er behov for
-økt satsing på støtteordninger fra Husbanken.
-Departementet følger situasjonen med bosetting
-av flyktninger i kommunene nøye, og vurderer
-eventuelle endringer i de økonomiske virkemidlene i de ordinære budsjettprosessene.
-
-[Side 41]
-
-2025–2026
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-41
-
-11 Yrkestransportloven
-11.1 Innledning og bakgrunn
-For å kunne håndtere en situasjon der et høyt
-antall fordrevne fra Ukraina søker beskyttelse i
-Norge, er det vedtatt midlertidige lovbestemmelser i yrkestransportlovgivningen. Disse midlertidige bestemmelsene oppheves 1. juli 2026.
-Organisasjonene og virksomhetene i personog godstransportbransjen melder om mangel på
-yrkessjåfører. Blant de fordrevne fra Ukraina
-finnes personer med kompetanse og erfaring som
-yrkessjåfører.
-Departementet foreslår å videreføre unntaket
-fra yrkestransportlovens krav om fire års botid i
-Norge for utlendinger som søker om kjøreseddel
-for persontransport mot vederlag, slik at dette
-fortsatt ikke skal gjelde for fordrevne fra Ukraina,
-på nærmere bestemte vilkår.
-Kravet om kjøreseddel skal blant annet sikre
-at sjåfører i løyvepliktig transport har slik vandel
-at de er skikket til å ha ansvar for passasjerer i
-løyvepliktig persontransport. Kravet om botid skal
-sikre at politiet har tilstrekkelig grunnlag for å
-vurdere om den som søker om kjøreseddel har
-slik vandel at vedkommende er skikket for yrket.
-Det gjeldende botidskravet i yrkestransportloven
-§ 37 c forhindrer at ukrainske fordrevne kan
-jobbe som bussjåfør i Norge på kort sikt.
-EØS-borgere som fremlegger politiattest fra
-hjemlandet, er unntatt kravet om botid, jf. yrkestransportloven § 37 c andre ledd. Departementet
-foreslår å videreføre tilsvarende unntak for
-ukrainske fordrevne, men med visse sikkerhetsmekanismer i politiets saksbehandling.
-I tillegg gjelder felleseuropeiske krav om anerkjent førerkort og yrkessjåførkompetanse (YSK)
-for den som vil ta jobb som bussjåfør i Norge. EU
-har innført rettslige tilpasningsmuligheter for de
-felleseuropeiske kravene om førerkort og YSK for
-å bidra til sysselsetting av ukrainske sjåfører i
-EU/EØS.
-Norge har anerkjent ukrainske førerkort i alle
-klasser siden vinteren 2023, i tråd med tilpasningsmulighetene EU har innført. Statens vegvesen sendte i november 2023 på høring forslag til
-forskrift om midlertidige tiltak for yrkessjåfør-
-
-bevis utstedt av Ukraina, herunder om forenklinger i YSK-kravet for buss- og lastebilsjåfører fra
-Ukraina. Forskriften ble vedtatt og trådte i kraft
-1. februar 2024.
-Kravet om fire års botid for kjøreseddel er
-nasjonalt og forhindrer at EUs rettslige tilpasninger får praktisk virkning i Norge.
-
-11.2 Gjeldende rett
-11.2.1 Yrkestransportloven
-Kravet om kjøreseddel gjelder for den som skal
-utføre løyvepliktig persontransport, herunder
-drosje, turvogn og rutevogn, og er regulert i
-yrkestransportloven kapittel 7A. Kjøreseddelen
-utstedes av politiet der søkeren bor og gjelder for
-hele landet. Samferdselsdepartementet har fagansvaret for yrkestransportloven og tilhørende
-forskrifter.
-Kravet til kjøreseddel er en nasjonal ordning
-som er innført for å sikre at førere i løyvepliktig
-persontransport er egnet til å utøve yrket, og skal
-bidra til å sikre trygg og profesjonell utøvelse av
-persontransport. Sjåføren må være egnet til å
-utføre transport av barn, eldre, funksjonshemmede og øvrige sårbare samfunnsgrupper.
-Yrkestransportloven § 37 a første ledd angir at
-den som skal utføre løyvepliktig persontransport,
-må ha kjøreseddel i tillegg til førerkort. For å få
-utstedt kjøreseddel må søkeren (i) ha førerkort i
-den aktuelle førerkortklassen, (ii) ha fylt 20 år,
-men ikke være eldre enn 75 år, (iii) ha slik vandel
-at politiet ikke finner vedkommende uskikket til å
-være sjåfør, og (iv) oppfylle helsekravene som
-gjelder for førerkortklassene D og DE, jf. yrkestransportloven § 37 c, jf. yrkestransportloven
-§ 37 a tredje ledd. Fører av drosje må i tillegg ha
-tilstrekkelig faglig kompetanse og ha hatt førerkort klasse B uavbrutt i minst to år, jf. yrkestransportloven § 37 c første ledd andre punktum.
-For utlendinger kreves det minst fire års botid
-i Norge for at kjøreseddel kan utstedes, jf. yrkestransportloven § 37 c andre ledd. Dette kravet
-gjelder likevel ikke for (a) EØS-borgere som
-legger frem politiattest fra hjemlandet sitt, (b)
-
-[Side 42]
-
-42
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-utlendinger fra land utenfor EØS som har oppholdt seg i et EØS-land og kan legge frem politiattest og dokumentasjon på lovlig opphold fra
-EØS-landet, eller (c) utlendinger fra land utenfor
-EØS som tidligere har hatt opphold i Norge, forutsatt at fraværet ikke er av et slikt omfang at det
-ikke kan gjennomføres tilfredsstillende vandelskontroll.
-Formålet med kravet om botid er å sikre at
-politiet har tilstrekkelig grunnlag for å foreta en
-forsvarlig vandelskontroll av søkeren. I Prop. 15 L
-(2014–2015) Endringar i yrkestransportlova (krav
-om butid for utferding av kjøresetel mv.) fremgår
-det at botidskravet skal bidra til å verne om passasjerenes sikkerhet, se s. 3. At botidskravet ikke
-gjelder for EØS-borgere er en konsekvens av at
-politiregisterloven § 36 likestiller norske politiattester med attester utstedt i andre EØS-land, jf.
-nærmere omtale nedenfor. Unntaket er begrunnet
-i EØS-avtalens forbud mot restriksjoner på EØSborgeres rett til fri bevegelighet innad i EØSområdet.
-Kravet til vandel kontrolleres ved at politiet
-vurderer om vedkommende er «uskikka til å virke
-som førar», jf. yrkestransportloven § 37 c første
-punktum. Vurderingen tar utgangspunkt i om vedkommende, på bakgrunn av registrerte opplysninger, kan anses å utgjøre en sikkerhetsrisiko for
-passasjerer. Politiet baserer sine vurderinger på
-opplysninger i norske politiregistre samt øvrige
-relevante opplysninger om vedkommende er
-registrert i Norge.
-Etter yrkestransportloven § 37 h kan Politidirektoratet i «særskilde høve» gjøre unntak fra
-bestemmelsene i yrkestransportloven kapittel 7A
-om kjøreseddel, herunder botidskravet. Slik
-bestemmelsen er utformet, gir den ikke politiet
-hjemmel for å gjøre gruppeunntak. Dispensasjon
-fra botidskravet må bygge på en konkret og individuell vurdering av den enkelte søker. Kvalifikasjonsnormen «særskilde høve» tilsier at bestemmelsen er en snever unntaksregel.
-Politidirektoratet avslår etter fast praksis
-klager over avslag på søknader om unntak fra
-botidskravet når begrunnelsen bygger på hensynet til arbeidsmarkedsintegrering for utlendinger. Politidirektoratet viser i slike tilfeller til
-lovens forarbeider, Prop. 15 L (2014–2015), jf.
-Håndhevingsinstruks i førerkortsaker mv. (RPOD
-2022-13) punkt 3.10.3.3.
-Yrkestransportloven § 37 k hjemler den midlertidige ordningen med unntak fra kravet om botid
-for fordrevne fra Ukraina. Bestemmelsen gir unntak fra botidskravet for ukrainske fordrevne som
-legger frem politiattest fra hjemlandet som klart
-
-2025–2026
-
-fremstår autentiske, samt særskilte sikkerhetsmekanismer i politiets behandling av ukrainske politiattester. Unntaket fra botidskravet gjelder kun for
-persontransport med motorvogn med over ni seter.
-
-11.2.2 Europaparlaments- og rådsforordning
-(EU) 2022/1280 av 18. juli 2022
-EU har gjennom forordning 2022/1280 lagt til
-rette for en forenklet prosess for anerkjennelse og
-verifisering av ukrainske førerkort og yrkessjåførkompetanse («førerdokumentasjon») for fordrevne fra Ukraina som er midlertidig bosatt i
-EU/EØS-stater. Formålet med forordningen er å
-sikre at fordrevne fra Ukraina får muligheten til å
-få førerrett i de EØS-statene hvor de er midlertidig bosatt, samt ta arbeid som yrkessjåfører hvis
-de har slik kompetanse. For å oppnå dette har EU
-utviklet et felles EU-rammeverk for anerkjennelse
-av ukrainske førerkort og yrkessjåførbevis, hvor
-innehaveren har midlertidig beskyttelse i henhold
-til nasjonal rett. Forordningen har blant annet bakgrunn i at Ukraina har tilnærmet sitt nasjonale
-regelverk til yrkessjåførdirektivet (2003/59/EC)
-for sjåfører som utfører internasjonal transport.
-Ukraina har avtale med EU om krav til yrkessjåfører, som er ment å bidra til at ukrainske sjåfører har lignende formelle kompetansekrav som
-sjåfører i EU/EØS.
-Tilpasningene er frivillige for medlemslandene
-å innføre. Forordningen (EU) 2022/1280 er imidlertid inntatt i EØS-avtalen. Norge innførte regler
-om anerkjennelse av ukrainske førerkort i alle
-klasser i førerkortforskriften i februar 2023. Forenklede krav til utdannings- og testprogram for
-yrkessjåførkompetanse for både gods- og persontransport er fastsatt av Statens vegvesen med virkning fra 1. februar 2024.
-11.2.3 Politiregisterlovgivningen
-Gjennomføringen av vandelskontroll er regulert i
-politiregisterloven § 36. Det følger av bestemmelsens første ledd nr. 1 første punktum at opplysninger fra vandelskontrollen kan gis som politiattest. Med politiattest menes norsk politiattest med
-opplysninger fra politiets registre, jf. politiregisterforskriften § 28-2 første ledd andre punktum.
-Politiattest utstedt i et annet EØS-land likestilles med norsk politiattest i de tilfeller det i lov
-eller i medhold av lov er hjemlet krav om botid, jf.
-politiregisterloven § 36 nr. 1 andre punktum. Bakgrunnen for dette er Norges forpliktelse i henhold
-til EØS-avtalen om at EØS-borgere ikke skal diskrimineres og at man derfor må godta attester
-
-[Side 43]
-
-2025–2026
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-utstedt i deres hjemland, jf. Ot.prp. nr. 108 (2008–
-2009) side 311. Politiattester utstedt i tredjeland
-kan ikke legges til grunn i forbindelse med vandelsvurderinger. Begrunnelsen for dette er blant
-annet at det i praksis ofte ikke vil være mulig å
-gjennomføre tilfredsstillende vandelskontroll av
-utlendinger fra tredjeland (utenfor EØS-området).
-Politiregisterforskriften § 28-4 inneholder nærmere regler om utstedelse av politiattest i de tilfellene der det er fastsatt krav om botid i henhold
-til politiregisterloven § 36 andre ledd, jf. også den
-tilsvarende bestemmelsen i yrkestransportloven
-§ 37 c annet ledd.
-
-11.3 Forslaget i høringsnotatet
-Departementet foreslo i høringsnotatet å videreføre den midlertidige ordningen i yrkestransportloven § 37 k som innebærer at kravet om fire års
-botid i Norge for utstedelse av kjøreseddel, ikke
-skal gjelde for ukrainske fordrevne som fremlegger politiattest fra hjemlandet. Kjøreseddel tildelt etter denne bestemmelsen skal etter forslaget
-kun være gyldig for persontransport med motorvogn i kjøretøygruppe M3.
-I tillegg foreslo departementet å videreføre
-sikkerhetsmekanismer og særskilte hjemler for
-politiets saksbehandling av søknader om kjøreseddel for fordrevne fra Ukraina.
-Departementet uttalte videre at midlertidige
-lovendringer i yrkestransportloven i størst mulig
-grad bør ivareta det opprinnelige formålet botidskravet søker å ivareta, gitt forslagets midlertidige
-karakter. Botidskravet skal sikre at politiet har tilstrekkelig grunnlag for å gjøre en forsvarlig vandelskontroll av søkeren. Dette skal igjen bidra til å
-sikre at sjåfører i løyvepliktig persontransport
-ikke har en slik vandel at de er uskikket til å ha
-ansvaret for passasjerer, og dermed beskytte passasjerene mot trafikkfarlig atferd og uønskede
-hendelser.
-Sjåfører i løyvepliktig persontransport har, i
-motsetning til sjåfører i godstransport, ansvar for
-passasjerer i drosjen eller bussen. Sjåførene, særlig av de mindre kjøretøyene, har ofte ansvar for
-særlig sårbare grupper, som barn og personer
-med nedsatt funksjonsevne. Dette er tilfellet blant
-annet i forbindelse med skoleskyss og pasienttransport, som er lovpålagt, og tilrettelagt transport (TT-transport). Disse passasjerene har behov
-for særlig vern mot å bli kjørt av sjåfører som har
-slik vandel at de ikke er skikket for yrket. Sårbare
-passasjerer er ofte alene med sjåfører, og vil dermed være særlig utsatt for risiko for overgrep.
-
-43
-
-I denne sammenheng viste departementet i
-høringsnotatet til at barnets beste skal være et
-grunnleggende hensyn ved handlinger og avgjørelser som angår barn, jf. Grunnloven § 104. Sysselsetting av ukrainske bussjåfører bør ikke gå på
-bekostning av passasjerenes sikkerhet.
-På denne bakgrunn foreslo departementet å
-videreføre bestemmelsen om at kjøresedler
-utstedt med grunnlag i unntak fra botidskravet for
-ukrainske fordrevne kun skal være gyldig for persontransport med kjøretøy i kjøretøygruppe M3,
-det vil si busser med tillatt totalvekt over fem tonn.
-Dette innebærer at ukrainske fordrevne som
-ønsker å kjøre drosje og mindre busser fremdeles
-må oppfylle vilkåret om fire års botid i Norge, selv
-om vedkommende fremlegger politiattest fra
-Ukraina.
-Ettersom unntak fra botidskravet for fordrevne fra Ukraina er frivillig, i den forstand at
-unntaket ikke er nødvendig av hensyn til EØSavtalen, har Norge mulighet til å etablere særskilte sikkerhetsmekanismer for politiets saksbehandling av politiattester fra Ukraina.
-Med henvisning til at politiet ikke har den
-samme tilgangen til opplysninger gjennom
-ukrainske attester som ved vandels- og skikkhetsvurderingen basert på attester utstedt i EØS-land,
-vurderte departementet det som hensiktsmessig
-å videreføre sikkerhetsmekanismene i politiets
-saksbehandlingsrutiner for behandling av ukrainske politiattester. Dette innebærer at politiet fortsatt har midlertidig hjemmel for intervju med
-søkeren, avslagshjemmel for de tilfeller der politiet ikke finner grunn til å feste lit til den fremlagte
-dokumentasjonen, samt at beslutning om avvisning av dokumentasjonen ikke kan påklages. Ordningen innebærer til dels å fravike ordinære partsrettigheter for forvaltningsvedtak i forvaltningsloven, inkludert retten til begrunnelse og klagebehandling. Departementet mente imidlertid fortsatt at disse særreglene kunne forsvares i lys av
-hensynet til passasjersikkerheten og det faktum at
-politiet normalt ikke behandler politiattester fra
-tredjeland. Videre viste departementet til at unntakene fra forvaltningsloven er begrunnet i en
-midlertidig ordning som er etablert til gunst for
-den enkelte part.
-Departementet mente forslaget til innsnevring
-av bestemmelsen til kun å gjelde for persontransport med kjøretøy i klasse M3 ville kunne
-ivareta noe av behovet for å beskytte sårbare
-grupper, inkludert barn.
-Departementet mente forslaget om en videreføring av ordningen om å gjøre unntak fra botidskravet for kjøreseddel for ukrainske fordrevne,
-
-[Side 44]
-
-44
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-med de begrensningene det er lagt opp til, er forsvarlig med hensyn til passasjersikkerheten. Endringene er midlertidige og vil kunne bidra til økt
-sysselsetting av ukrainere i persontransportbransjen. Både vedkommende enkeltpersoner, persontransportsektoren og berørte lokalsamfunn vil
-kunne ha nytte av endringene. Usikkerheten som
-er knyttet til risikoen ved vandelskontroll basert
-på ukrainske politiattester kunne etter departementets syn langt på vei kompenseres for i de
-ovennevnte særskilte prosedyrene og hjemlene
-for politiets saksbehandling.
-Videre viste departementet til EUs tilpasninger i felleseuropeiske krav til ukrainske sjåfører. Departementet uttalte i høringsnotatet at
-Norge bør bidra til at tilpasningene får virkning
-også i Norge, såfremt tilpasningene er forholdsmessige og faglig forsvarlige.
-Departementet vurderte det, i høringsnotatet,
-som hensiktsmessig at de midlertidige endringene
-i yrkestransportloven følger den generelle varigheten til lov om midlertidige endringer i lovverket
-som følge av ankomst av fordrevne fra Ukraina
-(videreføring mv.).
-
-11.4 Høringsinstansenes syn
-Tre høringsinstanser har uttalt seg om forslaget
-til videreføring av endringer i yrkestransportloven
-som gjelder botidskrav for fordrevne fra Ukraina.
-Alle høringsinstansene er positive til forslaget i
-høringsnotatet.
-Bergen kommune støtter departementets vurderinger om ivaretakelse av særlig sårbare grupper, samtidig som det legges til rette for ansettelser innen transportbransjen før kravet om fire års
-botid er oppfylt, og dermed også forslaget om å
-videreføre de midlertidige endringene i yrkestransportloven.
-Integrerings- og mangfoldsdirektoratet (IMDi)
-er positive til en videreføring av det midlertidige
-regelverket. IMDi mener det vil være viktig å
-vurdere effekten av det midlertidige regelverket
-knyttet til kvalifisering og sysselsetting av innvandrere, og eventuelt vurdere om ordningen bør
-omfatte en større målgruppe.
-Statens vegvesen støtter en videreføring av
-dagens unntak fra botidskravet på fire år for å få
-utstedt kjøreseddel, og at dette videreføres kun
-for persontransport med motorvogn i kjøretøygruppe M3, forutsatt av at det fremlegges politiattest fra hjemlandet.
-Statens vegvesen støtter også å videreføre
-enkelte midlertidige endringer i lovverket frem til
-
-2025–2026
-
-1. juli 2028. Dette vil medføre en endring i forskrift
-om midlertidige tiltak for yrkessjåførbevis utstedt
-av Ukraina, vedtatt 1. februar 2024, slik at yrkessjåførbevis med kode 95.01 utstedt etter denne
-forskriften vil utstedes med gyldighet i samsvar
-med datoen nevnt over.
-
-11.5 Departementets vurderinger
-Departementet merker seg at det er mottatt tre
-høringssvar knyttet til forslaget om å videreføre
-unntaket i yrkestransportloven § 37 k. Departementet har særlig merket seg at samtlige høringsinstanser som har uttalt seg, er positive til forslaget om å videreføre det midlertidige unntaket
-fra botidskravet for fordrevne fra Ukraina som
-fremlegger politiattest fra hjemlandet.
-Departementet viser til Bergen kommunes
-høringssvar som støtter departementets vurderinger av at ordningen både ivaretar hensynet til
-særlige sårbare grupper samtidig som det legges
-til rette for ansettelser innen transportbransjen.
-Departementet presiserer at kjøresedler utstedt
-med hjemmel i unntaksbestemmelsen i yrkestransportloven § 37 k kun vil være gyldige for
-transport med motorvogn i kjøretøygruppe M3, jf.
-kjøretøyforskriften § 2-2 nr. 2 bokstav c. Det innebærer at fordrevne fra Ukraina som ikke oppfyller
-det ordinære botidskravet på fire år i yrkestransportloven § 37 c, etter forholdene kan tillates
-å kjøre buss med tillat totalvekt over fem tonn.
-Kjøreseddelen vil ikke være gyldig for mindre
-kjøretøy. Krav om gyldig førerkort i den aktuelle
-klassen gjelder uten endringer.
-Videre viser departementet til høringsinnspillet fra IMDi om at det vil være viktig å vurdere
-effekten av det midlertidige regelverket knyttet til
-kvalifisering og sysselsetting av innvandrere, og
-eventuelt vurdere om ordningen bør omfatte en
-større målgruppe. Departementet bemerker at
-bruken av det midlertidige unntaket så lang har
-vært begrenset. Per 15. juni 2025 hadde politiet
-mottatt 15 søknader om kjøreseddel med hjemmel
-i unntaksbestemmelsen i § 37 k.
-For å ivareta særlig sårbare grupper vurderer
-departementet det som fortsatt nødvendig å
-avgrense bestemmelsen slik at unntaket fra
-botidskravet ikke gjelder for transport med de
-minste kjøretøyene, herunder drosje og minibuss.
-Disse kjøretøytypene benyttes i stor grad til skoleskyss og transport av personer med nedsatt funksjonsevne, og en slik avgrensning anses som et
-viktig tiltak for å ivareta passasjersikkerheten hos
-særlig sårbare passasjergrupper.
-
-[Side 45]
-
-2025–2026
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-Departementet merker seg at unntaket til dels
-kan gå på tvers av opprinnelige intensjoner bak
-yrkestransportlovens bestemmelser om vandel,
-bruk av politiattester fra tredjeland og botid.
-Departementet viser til høringsnotatets presentasjon av forslaget, der det fremgår at midlertidige
-lovendringer i yrkestransportloven etter departementets syn i størst mulig grad bør ivareta botidskravets opprinnelige formål, altså å verne om passasjersikkerheten.
-I forlengelsen av det viser departementet til at
-sikkerhetsmekanismene som foreslås videreført
-for politiets behandling av søknader om kjøreseddel for fordrevne fra Ukraina, til en viss grad
-kan kompensere for utfordringer knyttet til vurderingen av disse politiattestene. Prosedyrene er
-utformet for å styrke kvaliteten i vandelsvurderingen og sikre at politiet fortsatt kan foreta en
-forsvarlig og helhetlig vurdering av søkerens skikkethet, særlig i de tilfeller der informasjonsgrunnlaget fremstår begrenset eller uklart. Departementet vurderer på denne bakgrunn at de skisserte prosedyrene fortsatt utgjør viktige sikkerhetsmekanismer for å beskytte passasjerer mot
-uegnede sjåfører.
-Departementet viser til at Statens vegvesen
-støtter en videreføring av gjeldende unntak fra
-botidskravet for persontransport med motorvogn
-i kjøretøygruppe M3 for fordrevne fra Ukraina
-som kan fremlegge politiattest fra hjemlandet.
-Etter departementets syn legger ordningen til
-rette for at kvalifiserte søkere raskere kan tre inn i
-arbeidsmarkedet, uten at det går på bekostning av
-
-45
-
-de grunnleggende kravene til kompetanse og
-skikkethet.
-Departementet viser til proposisjonens punkt
-2.1 om den overordnede begrunnelsen for særregler for fordrevne fra Ukraina. Rundt 90 000 fordrevne fra Ukraina er bosatt i Norge. Antallet er
-uten sidestykke i nyere tid og krever tilpasninger
-av mottakslandene. Tilpasningene behøves gjennomgripende i alle samfunnssektorer, også i
-arbeidsintegreringssektoren. Sysselsetting er et
-sentralt virkemiddel i håndteringen av de ekstraordinære ankomstene av fordrevne som Norge
-opplever.
-Videre har Ukraina omfattende samarbeid
-med EU/EØS og har tilnærmet seg EUs modeller
-for føreropplæring og yrkessjåførkompetanse.
-Departementet fastholder at forslaget om å
-videreføre unntaket fra botidskravet for kjøreseddel for fordrevne fra Ukraina, med de begrensningene det er lagt opp til, er forsvarlig med hensyn til passasjersikkerheten. Endringene er midlertidige og vil kunne bidra til økt sysselsetting av
-fordrevne fra Ukraina i persontransportbransjen.
-Både enkeltpersoner, persontransportsektoren og
-berørte lokalsamfunn vil kunne ha nytte av endringene.
-Med henvisning til forslaget i høringsnotatet,
-fastholder departementet at Norge bør bidra til at
-EUs tilpasninger i felleseuropeiske krav til
-ukrainske sjåfører (krav til YSK) får praktisk
-virkning også i Norge, både for sjåfører i gods- og
-persontransport.
-
-[Side 46]
-
-46
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-2025–2026
-
-12 Økonomiske og administrative konsekvenser
-12.1 Integreringsloven
-Personer som får innvilget midlertidig kollektiv
-beskyttelse, og som blir bosatt, utløser integreringstilskudd og tilskudd til opplæring i norsk til
-kommunene, se nærmere omtale i Prop. 90 L
-(2022–2023) og Prop. 72 L (2023–2024). Med forslaget til videreføring av det midlertidige regelverket i integreringsloven, videreføres dagens
-regelverk i all hovedsak.
-Departementet vurderte i høringsnotatet at
-forslagene til videreføring og tilpasninger i de
-midlertidige reglene i integreringsloven og integreringsforskriften for personer med oppholdstillatelse etter utlendingsloven § 34, ikke gir behov
-for å gjøre justeringer i integreringstilskuddet
-eller tilskuddet til opplæring i norsk for voksne
-personer med kollektiv beskyttelse.
-Grimstad kommune, Lindesnes læringssenter og
-Vennesla Voksenopplæringssenter ga høringsinnspill om at integreringstilskuddet og tilskuddet til
-opplæring i norsk for voksne personer med kollektiv beskyttelse må justeres.
-Departementet opprettholder imidlertid vurderingen i høringsnotatet. Departementet viser
-også til at eventuelle forskriftsbestemmelser som
-foreslås med hjemmel i integreringsloven § 37 e
-vil bli sendt på høring, og at det i den forbindelse
-vil bli foretatt vurderinger av økonomiske og
-administrative konsekvenser av konkrete forslag.
-Eventuelle endringer i kommunenes utgifter
-vil fanges opp i beregningsutvalgets årlige kartlegginger.
-
-12.2 Barnevernsloven
-De midlertidige reglene gir større rom for å gjennomføre kostnadsdempende tiltak enn det som er
-mulig innenfor det ordinære regelverket. Kostnadene knyttet til omsorgssentrene vil følge av
-den konkrete innretningen på omsorgssentertilbudet, og denne følger ikke direkte av lovforslaget. Det er derfor ikke slik at et gitt bevilgningsbehov eller en konkret kostnadsreduksjon
-følger direkte av de midlertidige reglene.
-
-Presiseringen av at Barne-, ungdoms- og familieetatens ansvar for å tilby plass i omsorgssenter
-også gjelder enslige barn med midlertidig kollektiv beskyttelse, innebærer ingen realitetsendring.
-Adgangen til å gi oppholdet i familiebasert botilbud som alternativ til en plass i et omsorgssenter,
-kan gi kostnadsbesparelser sammenlignet med en
-plassering i omsorgssenter.
-Den midlertidige bestemmelsen i barnevernsloven § 3-3 legger til rette for at Norge i ekstraordinære situasjoner kan ta imot, plassere og
-ivareta et større antall barn som er under offentlig
-omsorg, eller står uten personer med foreldreansvar, i Ukraina. I en slik ekstraordinær situasjon
-vil det ikke være aktuelt å lage en avtale med den
-andre staten om å dekke utgifter til et omsorgstiltak i Norge. Utgiftene kompenseres gjennom
-ordninger knyttet til flyktninger. Bestemmelsen er
-til nå ikke tatt i bruk.
-
-12.3 Opplæringsloven og
-barnehageloven
-Fordrevne fra Ukraina som kommer til Norge, vil
-trenge et barnehage- og skoletilbud raskt. Eksisterende tilskuddsordninger mv. skal i utgangspunktet ivareta kommunesektorens kostnader
-ved mottak og bosetting av nyankomne personer
-som er fordrevet fra Ukraina. Det samlede tilskuddet vil avhenge av antall fordrevne som kommer.
-Ved en særlig stor tilstrømning kan det oppstå
-utfordringer knyttet til bemanning, lokaler, læremidler mv., som innebærer at rettighetene ikke
-kan oppfylles. Tilpasningene i regelverket som
-foreslås videreført skal bidra til at kommunene
-kan løse disse utfordringene. Tilpasningene skal
-legge til rette for at det kan gjøres gode prioriteringer lokalt. Regelverksendringene i seg selv har
-ikke økonomiske konsekvenser.
-
-12.4 Helselovgivningen
-Forslaget om å videreføre de midlertidige lovbestemmelsene i pasient- og brukerrettighetsloven,
-
-[Side 47]
-
-2025–2026
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-spesialisthelsetjenesteloven og helse- og omsorgstjenesteloven har ikke økonomiske eller administrative konsekvenser. Dersom det blir aktuelt å ta
-hjemlene i bruk, vil økonomiske og administrative
-konsekvenser av foreslåtte forskrifter måtte vurderes.
-
-47
-
-boliger av god kvalitet i nærheten av kollektivtilbud og/eller tjenestetilbud som skole og barnehage mv. I kommuner hvor dette ikke er tilfellet,
-vil videreføringen ha svært begrenset eller ingen
-konsekvenser.
-
-12.7 Yrkestransportloven
-12.5 Plan- og bygningsloven
-Plan- og bygningsloven er sentral for å skaffe tilstrekkelig kapasitet til innkvartering, bolig, barnehage og skole. Lovendringene gir fleksibilitet og
-handlingsrom til å gjennomføre nødvendige tiltak
-raskere og rimeligere ved økte ankomster.
-Departementet foreslår en ren videreføring av
-gjeldende, midlertidige regler. Departementet
-legger derfor til grunn at forslaget ikke vil innebære økonomiske eller administrative konsekvenser av negativ betydning for det offentlige eller
-private.
-
-12.6 Husleieloven
-Å videreføre adgangen til å inngå leieavtale for en
-kortere periode enn tre år for fritidsboliger, kan
-bidra til at flere boliger blir tilgjengelige for utleie.
-Videreføringen av unntaksbestemmelsen vil få
-størst effekt i kommuner med mange fritids-
-
-Unntak fra botidskravet for ukrainske fordrevne
-som fremlegger politiattest fra hjemlandet kan
-føre til at politiet mottar flere søknader om kjøreseddel. Departementet vurderer det likevel som
-lite sannsynlig at en slik økning vil medføre
-nevneverdige administrative eller økonomiske
-konsekvenser. Departementet viser i denne sammenheng til at per 15. juni 2025 hadde politiet
-mottatt 15 søknader om kjøreseddel fra ukrainske
-fordrevne.
-Unntaket vil kunne ha positive økonomiske
-konsekvenser for virksomheter i persontransportsektoren som trenger sjåfører.
-Videre kan unntaket føre til at flere ukrainske
-fordrevne får jobb som bussjåfører. For vedkommende enkeltpersoner vil unntaket kunne få positive privatøkonomiske konsekvenser.
-Økt sysselsetting av ukrainske fordrevne vil
-kunne ha positive øvrige økonomiske ringvirkninger i samfunnet.
-
-[Side 48]
-
-48
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-2025–2026
-
-13 Merknader til bestemmelsene
-13.1 Endringene i husleieloven
-Den midlertidige bestemmelsen i husleieloven
-§ 9-3 a videreføres uten endringer. Det vises til
-merknader til bestemmelsen i punkt 17.5 i Prop.
-90 L (2022–2023) og punkt 18.2 i Prop. 72 L
-(2023–2024).
-
-13.2 Endringene i
-spesialisthelsetjenesteloven
-Den midlertidige bestemmelsen i spesialisthelsetjenesteloven § 2-5 d videreføres uten endringer.
-Det vises til merknader til bestemmelsene i punkt
-14.4 i Prop. 107 L (2021–2022).
-
-13.3 Endringene i pasient- og
-brukerrettighetsloven
-Den midlertidige bestemmelsen i pasient- og
-brukerrettighetsloven § 2-5 d videreføres uten
-innholdsmessige endringer. Rekkefølgen i opplistingen er endret slik at den blir kronologisk, og
-en feil i henvisningene i punkt c og d til reglene i
-§ 2-2 a er rettet. Henvisningene skal være til tredje
-ledd i bestemmelsen og ikke til andre ledd. Det
-vises for øvrig til merknader til bestemmelsen i
-punkt 14.5 i Prop. 107 L (2021–2022) og punkt
-17.3 i Prop. 90 L (2022–2023).
-
-13.4 Endringene i yrkestransportloven
-Den midlertidige bestemmelsen i yrkestransportloven § 37 k videreføres uten endringer. Det vises
-til merknader til bestemmelsen i punkt 18.6 i
-Prop. 72 L (2023–2024).
-
-13.5 Endringene i barnehageloven
-De midlertidige bestemmelsene i § 14 fjerde og
-femte ledd videreføres i ny § 14 b, med mindre
-språklige justeringer. Den midlertidige bestem-
-
-melsen i § 19 tredje ledd videreføres. Se merknader til bestemmelsene i punkt 18.7 i Prop. 72 L
-(2023–2024) og punkt 14.6 i Prop. 107 L (2021–
-2022).
-
-13.6 Endringene i plan- og
-bygningsloven
-De midlertidige bestemmelsene i plan- og bygningsloven §§ 20-9 og 20-10 videreføres uten endringer. Det vises til merknadene i punkt 18.8 i
-Prop. 72 L (2023–2024).
-
-13.7 Endringene i helse- og
-omsorgstjenesteloven
-Den midlertidige bestemmelsen i helse- og
-omsorgstjenesteloven § 7-2 b videreføres uten
-endringer. Det vises til merknadene i punkt 14.8 i
-Prop. 107 L (2021–2022).
-
-13.8 Endringene i integreringsloven
-Integreringsloven kapittel 6A om midlertidige
-regler for personer som har fått oppholdstillatelse
-etter utlendingsloven § 34 videreføres med
-enkelte tilpasninger, se merknader under. For
-øvrige bestemmelser vises det til merknadene i
-punkt 14.9 i Prop. 107 L (2021–2022), punkt 17.4 i
-Prop. 90 L (2022–2023) og punkt 18.10 i Prop. 72 L
-(2023–2024).
-Til § 37 e første ledd
-Endringen i første ledd innebærer at forskriftshjemmelen ikke lenger knyttes særskilt til personer med kollektiv beskyttelse, men åpner for
-midlertidig forskrift når høye ankomster av asylsøkere gjør det nødvendig å tilpasse integreringstiltak til personer som omfattes av integreringsloven. Hjemmelen som følger av gjeldende andre
-ledd, vil med endringen omfattes av første ledd.
-
-[Side 49]
-
-2025–2026
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-Vilkåret for å gi midlertidig forskrift etter
-første ledd er at det av hensyn til kapasiteten i
-kommunen eller fylkeskommunen er nødvendig å
-tilpasse integreringstiltak til personer som er
-omfattet av loven i en situasjon med høye ankomster av asylsøkere. Dette legger opp til en konkret
-vurdering av hvorvidt ankomstene av asylsøkere
-er av et slikt omfang at det er nødvendig å tilpasse
-integreringstiltak av hensyn til kapasiteten i kommunen eller fylkeskommunen.
-Til § 37 e andre ledd
-Endringen i andre ledd innebærer at det gis en ny
-forskriftshjemmel til å gjøre tilpasninger i integreringstiltak for personer som har hatt kollektiv
-beskyttelse som går over til å ha status som asylsøkere, herunder til å fastsette midlertidige regler
-som fraviker kravene i bestemmelsene nevnt i
-§ 37 e første ledd bokstav a til h for denne gruppen.
-
-49
-
-tredje punktum og 6-6 første ledd tredje punktum,
-videreføres. Se merknader til bestemmelsene i
-punkt 18.12 i Prop. 72 L (2023–2024).
-
-13.11 Ikrafttredelse, opphevelse og
-overgangsregler
-Loven trer i kraft fra den tiden Kongen bestemmer.
-Gjeldende midlertidige regler oppheves 1. juni
-2026. Det tas sikte på at at loven som viderefører
-de midlertidige reglene settes i kraft innen dagens
-regler oppheves. De enkelte bestemmelsene kan
-settes i kraft til ulik tid.
-Kongen kan gi nærmere overgangsregler for
-de midlertidige lovendringene i del I til X i forbindelse med ikrafttredelsen av loven og i forbindelse
-med at den opphører å gjelde.
-Del I til X i loven er tidsbegrenset og opphører
-å gjelde 1. juli 2028. Dersom det på dette tidspunktet er behov for å videreføre enkelte eller
-flere av lovendringene, må det skje ved nytt lovvedtak.
-
-13.9 Endringene i barnevernsloven
-De midlertidige bestemmelsene i barnevernsloven § 2-7, § 3-3 tredje ledd, § 11-1 fjerde til sjette
-ledd, § 11-3 tredje ledd, § 12-11 sjette ledd fjerde
-punktum og § 17-3 andre ledd andre punktum
-videreføres uten innholdsmessige endringer.
-
-13.10 Endringene i opplæringsloven
-
-Arbeids- og inkluderingsdepartementet
-tilrår:
-At Deres Majestet godkjenner og skriver under
-et framlagt forslag til proposisjon til Stortinget om
-midlertidige endringer i lovverket som følge av
-ankomst av fordrevne fra Ukraina (videreføring
-m.m.).
-
-De midlertidige bestemmelsene i §§ 2-1 andre
-ledd andre og tredje punktum, 3-7 første ledd
-
-Vi HARALD, Norges Konge,
-stadfester:
-Stortinget blir bedt om å gjøre vedtak til lov om midlertidige endringer i lovverket som følge av
-ankomst av fordrevne fra Ukraina (videreføring m.m.) i samsvar med et vedlagt forslag.
-
-[Side 50]
-
-50
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-2025–2026
-
-Forslag
-til lov om midlertidige endringer i lovverket som følge av
-ankomst av fordrevne fra Ukraina (videreføring m.m.)
-I
-I lov 26. mars 1999 nr. 17 om husleieavtaler skal
-§ 9-3 a lyde:
-§ 9-3 a Midlertidig unntak ved utleie av fritidsbolig
-som bolig
-For bygning hvor det er gitt unntak for tidsbestemt bruksendring fra fritidsbolig til bolig
-etter plan- og bygningsloven §§ 20-9 og 20-10, kan
-det inngås tidsbestemt leieavtale med minstetid
-på ned til ett år.
-II
-I lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten
-m.m. skal § 2-5 d lyde:
-§ 2-5 d Midlertidige unntak fra plikter
-Når det som følge av et høyt antall ankomster
-til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for
-å bidra til å sikre at spesialisthelsetjenestens
-kapasitet ikke overskrides, kan departementet gi
-forskrift om helt eller delvis unntak fra følgende
-bestemmelser:
-a. § 2-5 om individuell plan
-b. § 2-5 a om koordinator
-c. § 2-5 c om kontaktlege.
-III
-I lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter skal § 2-5 d lyde:
-§ 2-5 d Midlertidige unntak fra rettigheter
-Når det som følge av et høyt antall ankomster
-til Norge av personer fordrevet fra Ukraina er
-nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og
-omsorgstjenestens kapasitet ikke overskrides,
-kan departementet gi forskrift om helt eller delvis
-unntak fra følgende bestemmelser:
-
-a. § 2-2 a andre ledd tredje punktum om fastsettelse av tidsfrist for når pasienten senest
-skal få nødvendig helsehjelp
-b. § 2-2 a tredje ledd bokstav a om informasjon
-om rett til nødvendig helsehjelp
-c. § 2-2 a tredje ledd bokstav b om informasjon
-om tidspunkt for oppstart av helsehjelpen
-d. § 2-2 b første ledd første punktum om rett til
-nødvendig helsehjelp uten opphold ved brudd
-på tidsfrist fastsatt etter § 2-2 a andre ledd
-tredje punktum
-e. § 2-2 b første ledd andre punktum om plikt til å
-kontakte Helfo
-f. § 2-3 om rett til fornyet vurdering
-g. § 2-4 om rett til valg av behandlingssted
-h. § 2-5 om rett til individuell plan
-i. § 2-5 a om rett til kontaktlege
-j. § 2-5 b om rett til koordinator
-k. § 2-5 c om rett til barnekoordinator.
-IV
-I lov 21. juni 2002 nr. 45 om yrkestransport med
-motorvogn og fartøy (yrkestransportlova) skal
-§ 37 k lyde:
-§ 37 k Mellombels unntak frå butidskrav for fordrivne frå Ukraina
-For personar med mellombels kollektivt vern
-etter utlendingsloven § 34 som legg fram politiattest som klart framstår autentisk frå heimstaten
-sin, gjeld ikkje kravet i § 37 c andre ledd om butid
-for utferding av kjøresetel.
-Kjøresetel for personar med mellombels
-kollektivt vern som har budd mindre enn fire år i
-Noreg, gjeld berre persontransport med bil for
-persontransport med over 8 sitteplassar i tillegg til
-førarsetet og tillaten totalvekt over 5000 kg.
-Politiet skal påføre kjøresetelen merknad om kva
-for kjøretøy han gjeld for.
-Part eller annan med rettsleg klageinteresse
-kan ikkje klage på avslag som har grunnlag i forhold kring autentisiteten til politiattesten.
-Politiet kan krevje at personar med mellombels kollektivt vern kjem til intervju for å vurdere
-
-[Side 51]
-
-2025–2026
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-om vilkåra etter § 37 c første ledd første punktum
-er oppfylte.
-Kjøresetel utferda med grunnlag i dette unntaket gjeld til innehavaren har budd fire år i
-Noreg, med mindre anna er bestemt om føresetnader som gjeld alder i § 37 a tredje ledd. Politiet
-skal påføre kjøresetelen merknad om kva for
-periode han gjeld for.
-V
-I lov 17. juni 2005 nr. 64 om barnehager gjøres
-følgende endringer:
-§ 14 b skal lyde:
-§ 14 b Midlertidig godkjenning i en situasjon med
-svært mange fordrevne
-Departementet kan gi forskrift om midlertidig
-godkjenning ved etablering av barnehager og
-barnehageplasser som opprettes for å dekke et
-midlertidig behov som følge av at det kommer
-svært mange fordrevne barn under opplæringspliktig alder fra Ukraina.
-Departementet kan gi forskrift om unntak fra
-kravene til organisering i § 7 a for ordinære barnehager som har fått midlertidig godkjenning etter
-forskrift med hjemmel i første ledd.
-§ 19 fjerde ledd skal lyde:
-Departementet kan gi forskrift om midlertidig
-tilskudd til drift av barnehager og barnehageplasser som er godkjent med hjemmel i forskrift
-etter § 14 b.
-VI
-I lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling gjøres følgende endringer:
-§ 20-9 skal lyde:
-§ 20-9 Midlertidige unntak fra loven
-Når det er nødvendig som følge av et høyt
-antall ankomster til Norge av personer fordrevet
-fra Ukraina, kan kommunen etter skriftlig anmodning fra en offentlig myndighet eller fra private tilbydere innen barnehage, skole eller bolig, gjøre
-unntak fra søknadsplikten. Plan- og bygningsloven § 1-6 andre ledd gjelder ikke. Unntak kan
-gjøres for oppføring av ny, varig bygning, tidsbestemt bruksendring og plassering av midlertidige
-bygninger som skal brukes til
-a. innkvartering av asylsøkere og andre Utlendingsdirektoratet gir botilbud til
-b. omsorgssentre for enslige mindreårige asylsøkere under 15 år
-
-51
-
-c. barnehage eller skole
-d. bolig.
-Unntak etter første ledd kan ikke gjøres hvis
-det oppstår fare for liv og helse for brukerne, fare
-for skade på miljø eller kulturminner, tap av
-naturmangfold eller dyrket eller dyrkbar jord,
-eller gjennomføringen av en arealplan vanskeliggjøres. Bygninger som skal brukes til bolig kan
-bare oppføres til varig bruk når området er avsatt
-til bebyggelse og anlegg i en arealplan, og det
-ikke finnes andre alternativer som medfører
-mindre ulemper. Når behovet etter første ledd
-bortfaller, kan boligen brukes til annet varig
-boligformål.
-Ved tidsbestemt bruksendring eller plassering
-av midlertidige bygninger skal det fremgå av vedtaket hvor lenge unntaket gjelder. Unntaket kan
-gjelde for inntil to år.
-Departementet kan gi midlertidig forskrift om
-krav til innhold i og behandling av anmodninger
-om unntak, nabovarsling, tiltakshavers ansvar,
-tekniske krav til tiltaket, ansvar og ferdigstillelse.
-§ 20-10 skal lyde:
-§ 20-10 Saksbehandling etter § 20-9
-Ved tidsbestemt bruksendring eller plassering
-av midlertidige bygninger, skal kommunen fatte
-vedtak innen syv virkedager. Gjelder tiltaket oppføring av bolig til varig bruk, er fristen 14 virkedager. Fristen løper fra den skriftlige anmodningen er mottatt og kan ikke forlenges. Fattes
-det ikke vedtak innen fristene, kan tiltaket likevel
-settes i gang på tiltakshavers egen risiko. Dersom
-det ut fra formålet med anmodningen om unntak
-er et sterkt behov for rask avgjørelse i saken, skal
-kommunen fatte vedtak så raskt som mulig etter
-at anmodningen er mottatt.
-Ved oppføring av bolig til varig bruk som
-berører ansvarsområdet til statlige eller regionale
-myndigheter, skal anmodning om unntak forelegges disse. Fristen løper i den tiden saken er til
-uttalelse. Statlige og regionale myndigheter skal
-uttale seg eller fatte vedtak innen fem virkedager
-fra de mottar saken. Fristen kan ikke forlenges.
-Kommunen kan behandle og avgjøre saken etter
-loven her dersom fristen ikke overholdes.
-Ved avslag på anmodning om unntak skal
-kommunen samtidig orientere om andre alternative eiendommer eller egnede bygninger som kan
-tas i bruk, som kommunen kjenner til.
-Kommunens vedtak etter første ledd kan
-påklages av en part eller andre med rettslig klageinteresse i saken. Klagefristen er syv virkedager
-fra kommunen har fattet vedtak. En klagesak skal
-forberedes av kommunen og sendes klage-
-
-[Side 52]
-
-52
-
-Prop. 51 L
-Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
-
-instansen innen syv virkedager etter at klagen er
-mottatt. Dersom kommunen ikke overholder
-fristen, kan klagen tas under behandling av klageinstansen. Klageinstansen skal avgjøre saken
-innen syv virkedager. Fristene kan ikke forlenges.
-VII
-I lov 24. juni 2011 nr. 30 om kommunale helse- og
-omsorgstjenester m.m. skal § 7-2 b lyde:
-§ 7-2 b Midlertidige unntak fra plikter
-Når det som følge av et høyt antall ankomster
-til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at den kommunale
-helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt
-eller delvis unntak fra følgende bestemmelser:
-a. § 7-1 om individuell plan
-b. § 7-2 om koordinator
-c. § 7-2 a om barnekoordinator.
-VIII
-I lov 6. november 2020 nr. 127 om integrering
-gjennom opplæring, utdanning og arbeid skal
-kapittel 6A lyde:
-Kapittel 6A Midlertidige regler for personer
-som har fått oppholdstillatelse etter
-utlendingsloven § 34 mv.
-§ 37 a Unntak fra plikt til å delta i opplæring i mottak
-Asylsøkere som er i målgruppen for ordningen
-med kollektiv beskyttelse, har ikke plikt til å delta
-i opplæring i mottak etter § 5 i loven her.
-§ 37 b Kompetansekartlegging og karriereveiledning
-Retten og plikten til å gjennomføre kompetansekartlegging før bosetting etter § 6 i loven her
-gjelder ikke for personer som har fått oppholdstillatelse etter utlendingsloven § 34.
-Personer som har fått oppholdstillatelse etter
-utlendingsloven § 34, har rett, men ikke plikt, til å
-gjennomføre kompetansekartlegging etter § 10 i
-loven her. Personer som deltar i introduksjonsprogram etter § 37 c, har rett og plikt til å gjennomføre kompetansekartleggingen. Kartleggingen
-skal bidra til å avklare om vedkommende er kvalifisert for tilgjengelige arbeidsplasser i kommunen, og til at introduksjonsprogrammet etter
-§ 37 c blir tilpasset den enkeltes behov.
-Personer som har fått oppholdstillatelse etter
-utlendingsloven § 34, har rett, men ikke plikt, til å
-
-2025–2026
-
-gjennomføre karriereveiledning etter § 11 i loven
-her. § 11 fjerde ledd gjelder ikke.
-§ 37 c Introduksjonsprogram
-Bestemmelsene i § 14 a første ledd bokstav c
-om at introduksjonsprogrammet skal inneholde
-opplæring i samfunnskunnskap, gjelder ikke for
-personer som har fått oppholdstillatelse etter
-utlendingsloven § 34.
-§ 37 d Opplæring i norsk
-Personer som har fått oppholdstillatelse etter
-utlendingsloven § 34, har rett, men ikke plikt, til å
-delta i opplæring i norsk etter kapittel 6 i loven
-her. De har ikke rett eller plikt til opplæring i samfunnskunnskap. For øvrig gjelder § 26.
-Retten til opplæring i norsk gjelder i ett år fra
-oppstartstidspunktet. For øvrig gjelder §§ 30 og 32
-i loven her. Deltagere i opplæringen bør oppnå et
-minimumsnivå i norsk. Plikten til å avlegge prøver
-etter § 37 gjelder ikke. Kommunen skal likevel
-sørge for at deltagerne får mulighet til å avlegge
-gratis avsluttende prøve i norsk. Departementet
-kan gi forskrift om utvidet opplæring i norsk.
-Kommunen skal, samtidig som det treffes vedtak om opplæring i norsk, utarbeide en norskplan.
-Norskplanen skal inneholde deltagerens norskmål, omfanget av opplæringen og klagemuligheter. § 34 gjelder ikke.
-§ 37 e Forskriftshjemmel
-Dersom høye ankomster av asylsøkere gjør det
-nødvendig å tilpasse integreringstiltak til personer
-som er omfattet av loven, kan departementet av
-hensyn til kapasiteten i kommunen eller fylkeskommunen, gi midlertidig forskrift om
-a. målgruppene for og rettigheter og plikter til
-opplæring i mottak, introduksjonsprogram og
-opplæring i norsk og samfunnskunnskap etter
-§§ 5, 8, 9, 26, 27, 28, 37 c og 37 d
-b. retten til karriereveiledning etter §§ 11 og 37 b
-c. utsettelse av frister for oppstart av introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter §§ 12, 30, 37 c og 37 d
-d. sluttmål, varighet og kravene til innhold i introduksjonsprogrammet etter §§ 13, 14 og 37 c
-e. retten til, beregningen av og reduksjon i introduksjonsstønaden etter kapittel 5 ved deltagelse i introduksjonsprogram etter § 37 c
-f. varigheten og omfanget av opplæring og
-kravene til opplæringen etter §§ 30 til 33 og 37 d
-g. prøver i norsk og samfunnskunnskap etter
-§ 37.
-h. behandling av personopplysninger etter §§ 41
-til 44.
+# Opplæringsloven og barnehageloven
+
+## Innledning og bakgrunn
+
+Stortinget vedtok 7. juni 2022 å innføre tre midlertidige endringer i opplæringsloven og to midlertidige endringer i barnehageloven, jf. Prop. 107 L (2021–2022). De midlertidige endringene i opplæringsloven og barnehageloven gjaldt opprinnelig til 1. juli 2023. Reglene ble i ettertid videreført til 1. juli 2024, jf. Prop. 90 L (2022–2023), og deretter til 1. juli 2026, med en ytterligere tilpasning i barnehageloven, jf. Prop. 72 L (2023–2024).
+
+## Gjeldende rett
+
+### Grunnloven, opplæringsloven og barnehageloven
+
+Det følger av Grunnloven § 109 at barn har rett til å motta grunnleggende opplæring. Barns rett til utdanning følger også av folkerettslige forpliktelser, blant annet barnekonvensjonen artikkel 28 nr. 1.
+
+Alle barn i Norge har rett og plikt til grunnskoleopplæring fra det kalenderåret de fyller seks år, og til de har fullført det tiende skoleåret, jf. opplæringsloven §§ 2-1 og 2-2. Retten til grunnskoleopplæring gjelder uavhengig av det enkelte barnets oppholdsstatus og bosettingsstatus. Det er kommunen som har ansvaret for å tilby grunnskoleopplæring til alle barn som oppholder seg i kommunen, også i mottak. Retten til grunnskoleopplæring skal oppfylles så raskt som mulig og senest innen én måned (se nærmere om midlertidig frist på tre måneder i punkt 7.2.2).
+
+Retten til videregående opplæring for ungdom er regulert i opplæringsloven § 5-1. I motsetning til grunnskoleopplæringen, har ungdom ingen plikt til å delta i eller gjennomføre videregående opplæring. Med den nye opplæringsloven som trådte i kraft 1. august 2024, har ungdom etter søknad rett til videregående opplæring frem til oppnådd studie- eller yrkeskompetanse, inntil det året en fyller 24 år. De som da ikke har oppnådd studie- eller yrkeskompetanse, har rett til videregående opplæring for voksne, jf. opplæringsloven § 18-3. Det er et vilkår for rett til videregående opplæring at en har lovlig opphold i Norge, jf. opplæringsloven § 5-9. Inntak til videregående opplæring er nærmere regulert i opplæringsforskriften kapittel 4.
+
+Barnehageloven § 16 gir barn rett til barnehageplass i den kommunen der det er bosatt. Nyankomne barn har etter søknad rett til barnehageplass først når opphold er innvilget og familien er bosatt i en kommune.
+
+Statsforvalteren fører tilsyn med at skoler og barnehager følger regelverket. Statsforvalteren kan påpeke pliktbrudd og gi veiledning.
+
+Departementet viser til nærmere redegjørelse for det generelle regelverket i Grunnloven, opplæringsloven og barnehageloven som fremgår av Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024).
+
+### Midlertidige tilpasninger i opplæringsloven
+
+Det er innført tre midlertidige endringer i opplæringsloven som følge av ankomst av fordrevne fra Ukraina.
+
+Den absolutte fristen for når retten til fullverdig grunnskoleopplæring skal oppfylles, er utvidet fra én til tre måneder, jf. § 2-1 andre ledd andre punktum. Kravet om at retten skal oppfylles så raskt som mulig, er ikke endret.
+
+Det er også innført en hjemmel for at departementet kan gi forskrift om forlengelse av tremånedersfristen dersom det er nødvendig i en situasjon der det kommer svært mange fordrevne fra Ukraina, jf. § 2-1 andre ledd tredje punktum. Denne forskriftshjemmelen er ennå ikke tatt i bruk.
+
+I tillegg er det innført unntak fra kravet til elevens eller foreldrenes samtykke for at særskilt opplæringstilbud for nyankomne elever gis i egne grupper, klasser eller skoler (innføringsopplæring), jf. §§ 3-7 første ledd tredje punktum og 6-6 første ledd tredje punktum. Unntaket fra kravet til samtykke gjelder dersom opplæring gjennom særskilt organisert tilbud er nødvendig for å gi nyankomne elever et forsvarlig opplæringstilbud i en situasjon der det kommer svært mange fordrevne fra Ukraina.
+
+Departementet viser til nærmere redegjørelse for de midlertidige tilpasningene i opplæringsloven i Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024).
+
+### Midlertidige tilpasninger i barnehageloven
+
+Det er innført tre midlertidige endringer i barnehageloven som følge av ankomst av fordrevne fra Ukraina.
+
+Det er innført en hjemmel i barnehageloven § 14 fjerde ledd som åpner for at departementet kan gi forskrift om midlertidig godkjenning av barnehager og barnehageplasser for å dekke et midlertidig behov som følge av at det kommer svært mange fordrevne barn under opplæringspliktig alder fra Ukraina. Det er videre innført en hjemmel i barnehageloven § 19 tredje ledd som åpner for at departementet kan gi forskrift om tilskudd til drift av midlertidige barnehager og barnehageplasser som er godkjent med hjemmel i § 14 fjerde ledd.
+
+Det er i tillegg innført en hjemmel i barnehageloven § 14 femte ledd som åpner for at departementet kan gi forskrift om unntak fra kravene til organisering i § 7 a for ordinære barnehager som har fått midlertidig godkjenning etter forskrift med hjemmel i § 14 fjerde ledd.
+
+Det er fastsatt en midlertidig forskrift om midlertidig godkjenning av ordinære barnehager og midlertidig tilskudd for enklere bosetting av fordrevne fra Ukraina og flyktninger. Forskriften trådte i kraft 1. august 2023.
+
+Departementet viser til nærmere redegjørelse og begrunnelse for de midlertidige tilpasningene i barnehageloven i Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024).
+
+## Forslaget i høringsnotatet
+
+### Opplæringsloven
+
+Departementet foreslo å videreføre endringen av fristen for når retten til et fullverdig opplæringstilbud skal oppfylles, fra én til tre måneder, jf. opplæringsloven § 2-1 andre ledd andre punktum.
+
+Departementet foreslo å videreføre hjemmelen for å gi forskrift om ytterligere fristforlengelse, jf. § 2-1 andre ledd tredje punktum.
+
+Departementet foreslo også å videreføre unntaket fra kravet til elevens eller foresattes samtykke for at særskilt opplæringstilbud for nyankomne elever i grunnskoleopplæring og videregående opplæring gis i egne grupper, klasser eller skoler, jf. første ledd tredje punktum i §§ 3-7 og 6-6.
+
+Departementet ba om høringsinstansenes syn på om det er krav i opplæringsloven som det er særlig vanskelig å oppfylle, eller som er til hinder for kommunenes evne til å gi et fullverdig opplæringstilbud.
+
+### Barnehageloven
+
+Departementet foreslo å videreføre hjemmelen til å gi forskrift om midlertidig godkjenning av barnehager og barnehageplasser som opprettes for å dekke et midlertidig behov som følge av at det kommer svært mange fordrevne barn under opplæringspliktig alder fra Ukraina, jf. barnehageloven § 14 fjerde ledd.
+
+Departementet foreslo også å videreføre hjemmelen til å gi forskrift om midlertidig tilskudd til drift av slike barnehager og barnehageplasser, jf. barnehageloven § 19 tredje ledd.
+
+Departementet foreslo å videreføre hjemmelen i barnehageloven § 14 femte ledd til å gi forskrift om midlertidig unntak fra reglene om selvstendig rettssubjekt i § 7 a første ledd for barnehager som er midlertidig godkjent etter § 14 fjerde ledd. Departementet foreslo at dagens § 14 fjerde og femte ledd flyttes til en ny § 14 b.
+
+## Høringsinstansenes syn
+
+### Opplæringsloven
+
+Det er fem høringsinstanser som har uttalt seg om forslaget om å videreføre de midlertidige endringene i opplæringsloven. *Integrerings- og mangfoldsdirektoratet (IMDi)*, *Buskerud fylkeskommune*, *Bergen kommune* og *Utdanningsforbundet* støtter forslaget.
+
+*IMDi* er enig i at de midlertidige endringene som er innført i regelverket, særlig for grunnskolen, bidrar til økt fleksibilitet og lokale tilpasninger som følge av ankomstene av fordrevne, og at dette bidrar positivt til kommunens evne til å bosette fordrevne. Direktoratet mener det ellers vil være hensiktsmessig å vurdere behovet for en ny midlertidig regel om at unntaksbestemmelsen om inntak (opplæringsforskriften § 4-9 sjette ledd) også skal gjelde for nylig bosatte flyktninger i situasjoner med særskilt høye ankomster. IMDi viser til at mange nyankomne ungdommer ankommer Norge eller flytter mellom mottaks- og bosettingskommuner midt i skoleåret, ofte utenfor egen kontroll. Dette gjør det vanskelig å forholde seg til søknadsfrister og fylkeskommunenes praksis med ett årlig inntak, og bidrar til at gruppen blir særlig sårbar i møte med systemet. IMDi viser til at krav om å vente til neste ordinære opptak skaper betydelige utfordringer både for kommunene og for de bosatte ungdommene selv. IMDi mener at adgang til fleksible unntak i inntaksreglene er et særlig viktig tiltak i perioder med høye ankomster. Slike tilpasninger vil bidra til raskere overgang til ordinær opplæring, bedre utnyttelse av ungdommenes ressurser og redusert risiko for utenforskap. Samtidig vil det gi kommuner og fylkeskommuner et nødvendig handlingsrom til å håndtere ekstraordinære situasjoner på en mer helhetlig og forutsigbar måte.
+
+*Buskerud fylkeskommune* støtter forslaget om å videreføre reglene. Fylkeskommunen viser samtidig til at håndtering av sen søknad og rullerende inntak krever betydelige ressurser, og at det også kan oppstå mangel på ledige plasser. Fylkeskommunen anbefaler nasjonal veiledning for mest mulig lik praksis ved ekstraordinære situasjoner. Fylkeskommunen viser også til at utvidelsen av fristen for å gi et fullverdig opplæringstilbud kun gjelder grunnskole, og at sårbar ungdom blir gående å vente på oppstart av et opplæringsløp. Fylkeskommunen savner en klargjøring av retten til opplæring for ungdom i alderen 16-17 år som venter på oppstart av videregående opplæring.
+
+*Utdanningsforbundet* støtter en videreføring av reglene. Utdanningsforbundet viser til at de midlertidige endringene i lovverket forenkler prosessene ved ankomst og lemper på lovpålagte plikter, samtidig som Norge må følge opp de menneskerettslige forpliktelsene, blant annet om barns rett til utdanning og barns beste-vurderinger. Utdanningsforbundet viser til at tallene fra høringsnotatet viser at ikke alle kommuner klarer å gi et fullverdig opplæringstilbud innen fristen, og vil understreke betydningen av å følge med på situasjonen fremover.
+
+*Ukrainsk minoritetsforening i Norge* uttaler at forslaget i praksis innebærer en videreføring av midlertidige unntaksordninger over en periode som samlet vil kunne strekke seg over seks år. Foreningen uttaler at når midlertidige løsninger innen blant annet skole og barnehage forlenges over flere år, øker risikoen for at barn lever store deler av barndommen under et rettslig og administrativt «unntaksregime», preget av uforutsigbarhet og varierende kommunal praksis. Det vises også til at en betydelig andel av barna i målgruppen nå har en reell og etablert tilknytning til Norge. I slike tilfeller blir konsekvensene av langvarig midlertidighet særlig inngripende, fordi tiltakene ikke bare påvirker midlertidige opphold, men reelt sett griper inn i barns oppvekstsvilkår, identitetsdannelse og utviklingsløp. Foreningen viser videre til barnekonvensjonen artikkel 28 og 29 om retten til utdanning og utvikling, særlig når det gjelder kontinuitet og stabilitet i skoleløp. Foreningen mener at videre regelverksutvikling må sikre at barn med sterk faktisk tilknytning til Norge gis særlig vekt i vurderingen av konsekvenser, og at det etableres tydelige rammer som ivaretar kontinuitet i skole- og barnehageløp. Dette gjelder i særlig grad barn som allerede har etablert norsk språk som sitt primære opplæringsspråk.
+
+### Barnehageloven
+
+Det er tre høringsinstanser som har uttalt seg om forslaget om å videreføre de midlertidige endringene i barnehageloven. Disse er *IMDi*, *Bergen kommune* og *Utdanningsforbundet,* som alle støtter forslaget.
+
+*IMDi* påpeker at for nyankomne foreldre er tilgang til barnehage en forutsetning for deltakelse i introduksjonsprogram og andre kvalifiseringsløp, og at det er positivt at kommunenes kapasitet til å gi ukrainske barn et fullverdig barnehagetilbud har økt fra 2023 til 2024. IMDi understreker viktigheten av å arbeide videre med utfordringer knyttet til språk og relevant kompetanse i barnehagene.
+
+*Utdanningsforbundet* uttaler at det, ut fra Probas følgeevaluering, synes som at det ordinære regelverket er tilstrekkelig fleksibelt når det gjelder å gi tidsavgrensede godkjenninger av barnehager og barnehageplasser ved behov. Utdanningsforbundet vil samtidig understreke betydningen av arealnorm og kvalitet på inne- og uteareal, samt behovet for god bemanning med ansatte som har relevant barnefaglig og pedagogisk kompetanse. En høyere andel barnehagelærere vil kunne bidra til å opprettholde og styrke kvaliteten på tilbudet til samtlige barn. Utdanningsforbundet mener det er beklagelig at barn ikke får barnehageplass før familien er bosatt i en kommune, og viser til barnets beste.
+
+## Departementets vurderinger
+
+### Videreføring av midlertidige tilpasninger i opplæringsloven
+
+Departementet foreslår å videreføre de midlertidige reglene i opplæringsloven, uten ytterligere tilpasninger. Dette innebærer å videreføre endringen av fristen for når retten til et fullverdig opplæringstilbud senest skal oppfylles fra én til tre måneder, hjemmelen for å gi forskrift om ytterligere forlengelse av fristen, og unntaket fra kravet til elevens eller foreldrenes samtykke for at elevene kan få opplæring i et særskilt organisert tilbud (innføringsopplæring). Forslaget støttes i hovedsak av høringsinstansene som har uttalt seg.
+
+Ifølge tall fra grunnskolens informasjonssystem (GSI) var det 324 ukrainske fordrevne i skolepliktig alder som ikke mottok et fullverdig opplæringstilbud per 1. oktober 2023, til tross for at de hadde oppholdt seg i Norge i tre måneder eller mer. Samme telledato i 2024 hadde antallet sunket til 171, og ytterligere til 134 i 2025. I undersøkelsen Spørsmål til Skole-Norge våren og høsten 2024 oppga henholdsvis 78 prosent og 91 prosent av grunnskolelederne at elevene mottar et fullverdig opplæringstilbud innen tre måneder. I Spørsmål til Skole-Norge høsten 2025 rapporterte et flertall av grunnskoleeiere at det i svært liten, liten eller noen grad er behov for utvidet tid for å få på plass et fullverdig opplæringstilbud til nyankomne fra Ukraina eller at denne utvidelsen har vært nødvendig. Samtidig mener 27 prosent at det i stor eller svært stor grad er behov for utvidet tid og at denne utvidelsen har vært nødvendig. Det er imidlertid lokale variasjoner i spørsmål om utvidelsen av tid har vært nødvendig og om det fortsatt er behov for utvidet frist. Tendensen er at skoleeiere i Oslo-området og større, sentrale kommuner i liten grad har behov for utvidet tid, mens behovet er størst i små kommuner, særlig på Sør- og Vestlandet. Som de mest sentrale utfordringene, oppgis mangel på lærere og øvrig personale med relevant kompetanse. Flertallet av skoleeiere rapporterer at de har kapasitet til å ta imot nyankomne elever i tiden fremover, men ikke alle har kapasitet på nærskolen. Av skoleeiere rapporterer 12 prosent at de ikke har kapasitet til å ta imot flere elever.
+
+Departementet vil også vise til følgeevalueringen av de midlertidige endringene i lovverket fra Proba, som leverte en endelig sluttrapport våren 2024. Proba mener utvidelse av fristen til å gi et fullverdig opplæringstilbud har fungert etter sin hensikt, og at bestemmelsen kan ha vært viktig for enkelte kommuners evne til å bosette fordrevne. Proba legger også til grunn at unntaket fra kravet til samtykke for bruk av innføringsopplæring i grunnskolen og i videregående skole, har vært hensiktsmessig for økt fleksibilitet og forutsigbarhet for kommunene. Følgeevalueringen er nærmere omtalt i Prop. 72 L (2023–2024) punkt 2.2.
+
+Selv om antallet ankomster av fordrevne fra Ukraina har vært lavere det siste året, tilsier prognosene at det er sannsynlig at det fortsatt vil være et jevnt antall ankomster av fordrevne i tiden fremover, og at dette vil legge ytterligere press på kommunene og fylkeskommunene. Det kan oppstå situasjoner hvor ankomsttallene øker, eller bosettingskapasiteten til kommunene minker. Det kan også komme færre enn det som er anslått. Den uforutsigbare situasjonen tilsier etter departementets vurdering at det fortsatt bør være fleksibilitet i regelverket som kan ta høyde for et høyt antall ankomster. Departementet vil understreke at selv om den absolutte fristen for å gi et fullverdig opplæringstilbud foreslås videreført, er hovedregelen fortsatt at retten til grunnskoleopplæring skal oppfylles så raskt som mulig. Dette innebærer at kommunen fortløpende må tilby den opplæringen den kan, selv om kommunen ikke umiddelbart kan tilby et fullverdig opplæringstilbud. Det åpnes derfor ikke for at kommunen kan utsette å gi opplæring lenger enn det som er nødvendig. Departementet har tillit til at kommunene raskt gir et så godt opplæringstilbud som mulig til nyankomne barn.
+
+Departementet viser til innspillet fra *Ukrainsk minoritetsforening i Norge*, og er enig i at det må unngås at barn blir berørt av de midlertidige reglene over lang tid. Departementet vil imidlertid vise til at når nyankomne barn først har fått et fullverdig opplæringstilbud senest innen tre måneder fra ankomst til Norge, åpner ikke de midlertidige reglene for ytterligere unntak fra reglene i opplæringsloven, utover eventuelle tilpasninger innenfor rammene av tilbud om innføringsopplæring etter opplæringsloven § 3-7. Videreføring av de midlertidige reglene vil derfor ikke berøre de samme elevene over lang tid, men åpner kun for tilpasninger den første tiden eleven er i Norge. Det er også begrenset hvor lang tid nyankomne elever kan få innføringsopplæring. Slik innføringsopplæring kan kun gis for ett år av gangen, og for maksimalt to år.
+
+Departementet viser også til at de midlertidige reglene i opplæringsloven gjelder uavhengig av type oppholdstillatelse, og derfor ikke vil påvirkes av eventuelle endringer i ordningen med midlertidig kollektiv beskyttelse. Departementet viser for øvrig til begrunnelsen for reglene i Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024).
+
+Departementet har vurdert behovet for ytterligere midlertidige tilpasninger i opplæringsloven. Departementet har som utgangspunkt at de ordinære reglene bør gjelde så langt som mulig, også i ekstraordinære situasjoner. Regelverket for opplæring har noe fleksibilitet og muligheter for tilpasninger etter lokale forhold. De midlertidige endringene som er innført i regelverket, særlig i grunnskolen, bidrar også til økt fleksibilitet og lokale tilpasninger som følge av ankomstene av fordrevne.
+
+Departementet er ikke enig med *Buskerud fylkeskommune* i at retten til opplæring for ungdom i alderen 16-17 år bør klargjøres. Departementet vil vise til at ungdom under 18 år skal ha opplæring etter opplæringsloven. Ungdom over grunnskolepliktig alder på 16 år, kan etter søknad ha rett til videregående opplæring etter opplæringsloven § 5-1 eller forberedende opplæring for voksne etter opplæringsloven § 18-2. For ungdom i mottak med rett til videregående opplæring, er det fylkeskommunen der mottaket ligger som har ansvaret for å oppfylle retten til opplæring.
+
+Både *IMDi* og *Buskerud fylkeskommune* har uttalt seg i høringen om mulige utfordringer med inntak til videregående opplæring for nyankomne som blant annet ankommer midt i et skoleår og som ikke får søkt inntak i henhold til søknadsfristene. Departementet vil vise til at retten til videregående opplæring avhenger av søknad fra den enkelte. Fylkeskommunene skal etter opplæringsforskriften § 4-9 tredje ledd ta hensyn til søknader som kommer inn etter søknadsfristen *så langt råd er*. Fylkeskommunen er gitt stor frihet med hensyn til om den vil gi inntak til videregående opplæring for elever som søker etter søknadsfristen. Dette gjelder både nyankomne fordrevne og andre. Fylkeskommunen kan velge å gi et tilbud allerede fra inneværende skoleår, eller fra starten av påfølgende skoleår selv om søknaden er sendt etter fristen. Departementet mener at regelverket om inntak er tilstrekkelig fleksibelt.
+
+Utdanningsdirektoratet (Udir) har gjennomført kartlegginger av opplæringstilbudet til nyankomne ungdommer fra Ukraina, senest gjennom en spørreundersøkelse til fylkeskommunene høsten 2024. Kartleggingen viser at samtlige fylkeskommuner har ukrainske ungdommer i studieforberedende og yrkesfaglige studieprogrammer, og en tredjedel har nyankomne ukrainske ungdommer i opplæring i bedrift. Kartleggingen viser videre variasjon blant annet i inntakspraksis og opplæringstilbud.
+
+Departementet viser ellers til tidligere vurderinger av behovet for ytterligere tilpasninger i opplæringsloven i Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024). Antallet ankomster av fordrevne og prognosene fremover, tilsier etter departementets vurdering at det ikke er behov for ytterligere tilpasninger i regelverket, men departementet vil fortløpende vurdere behovet.
+
+### Videreføring av midlertidige tilpasninger i barnehageloven
+
+Departementet foreslår å videreføre de midlertidige forskriftshjemlene i barnehageloven om midlertidig godkjenning og tilskudd til barnehager. Departementet foreslår også å videreføre den midlertidige forskriftshjemmelen som åpner for å gi regler om unntak fra kravet til selvstendig rettssubjekt for ordinære barnehager som har fått midlertidig godkjenning. Forslaget støttes av høringsinstansene som har uttalt seg.
+
+Formålet med forskriftshjemlene er å legge til rette for at kommunene kan gi tidsavgrensede godkjenninger av barnehager og barnehageplasser i en periode med behov for å raskt etablere midlertidige tilbud. Det er gitt forskriftsregler til bestemmelsene i midlertidig forskrift om midlertidig godkjenning av ordinære barnehager og midlertidig tilskudd for enklere bosetting av fordrevne fra Ukraina og flyktninger. Begrunnelsen for reglene er nærmere omtalt i Prop. 72 L (2023–2024) punkt 12.5.
+
+I undersøkelsen Spørsmål til Barnehage-Norge som ble gjennomført høsten 2025 av Deloitte i samarbeid med Ideas2evidence, på oppdrag fra Utdanningsdirektoratet, vurderte omtrent halvparten av barnehageeierne i stor eller svært stor grad å ha kapasitet til å gi et fullverdig barnehagetilbud til nyankomne barn fra Ukraina. Selv om spørsmålsstillingen er annerledes enn tidligere år, tyder svarene på en negativ utvikling fra 2024 (72 prosent positive i 2024). Om lag syv av ti kommunale barnehagemyndigheter vurderer i stor eller svært stor grad at kommunen har kapasitet til å gi et fullverdig barnehagetilbud til nyankomne barn fra Ukraina. Tre av fire kommunale barnehagemyndigheter vurderer at kommunen vil ha kapasitet fremover til å ta imot og gi nyankomne barn fra Ukraina et fullverdig barnehagetilbud. I spørringen trekkes språkutfordringer og mangel på personale med relevant kompetanse frem som de største utfordringene for å gi et fullverdig barnehagetilbud til ukrainske barn, både av barnehageeiere og kommunen som barnehagemyndighet. Rapportering i BASIL for 2023 og 2024 viser videre at det ble opprettet syv barnehager i 2023 og ni barnehager i 2024 etter den midlertidige forskriften om bosetting av fordrevne fra Ukraina §§ 1 og 2. I 2025 ble det opprettet fire midlertidige barnehager.
+
+I følgeevalueringen av de midlertidige endringene i lovverket fra Proba, oppgir Proba at deres inntrykk er at reglene i barnehageloven legger til rette for å etablere flere barnehageplasser raskt ved behov, og at reglene fungerer etter sin hensikt. Følgeevalueringen er nærmere omtalt i Prop. 72 L (2023–2024) punkt 2.2.
+
+Departementet vil bemerke at forskriftshjemlene åpner for midlertidig godkjenning av barnehager, men slik at de alminnelige kravene etter regelverket om barnehager også gjelder for barnehager som er midlertidig godkjent. Dette innebærer at kravene til arealnorm og bemanning gjelder for disse barnehagene.
+
+Selv om antallet ankomster av fordrevne har vært lavere det siste året, er det sannsynlig at det fortsatt vil være et jevnt antall ankomster av fordrevne som vil legge ytterligere press på kommunene om å tilby barnehageplasser. Den uforutsigbare situasjonen tilsier etter departementets vurdering at det fortsatt bør være mulighet for midlertidig godkjenning av barnehager, og viser til begrunnelsen for reglene som omtalt i Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024).
+
+Departementet vil for øvrig vise til at retten til barnehageplass først inntrer ved innvilget opphold og bosetting i en kommune. Eventuelle endringer i ordningen med midlertidig kollektiv beskyttelse vil kunne ha betydning for hvor raskt barn blir bosatt i en kommune og dermed får rett til barnehageplass. De midlertidige reglene gjelder likevel uavhengig av hvilken type oppholdstillatelse som gis, og vil uansett kunne ha betydning for å avhjelpe situasjoner med økte ankomster.
+
+Departementet foreslår at de midlertidige forskriftshjemlene i dagens § 14 fjerde og femte ledd, plasseres i en ny § 14 b som følge av endringer i barnehageloven som ble vedtatt våren 2025, jf. Lovvedtak 89 (2024–2025) Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren). Forslaget medfører ikke realitetsendringer.
+
+Utover de endringene som er innført, mener departementet at det ordinære regelverket i utgangspunktet er tilstrekkelig fleksibelt, og at det per nå ikke er behov for ytterligere endringer i barnehageloven. Departementet viser i hovedsak til de vurderingene som er gjort av fleksibiliteten i regelverket i Prop. 107 L (2021–2022), Prop. 90 L (2022–2023) og Prop. 72 L (2023–2024).
+
+# Helselovgivningen
+
+## Innledning og bakgrunn
+
+For å kunne håndtere en situasjon der et høyt antall fordrevne fra Ukraina kommer til Norge for å søke beskyttelse, er det vedtatt midlertidige lovbestemmelser i helselovgivningen. Bestemmelsene gir departementet hjemmel til i forskrift å gjøre helt eller delvis unntak fra enkelte plikt- og rettighetsbestemmelser i helselovgivningen, blant annet retten til vurdering av henvisninger til spesialisthelsetjenesten innen ti virkedager, retten til fornyet vurdering og retten til individuell plan, kontaktlege og koordinator. Bestemmelsene oppheves 1. juli i år.
+
+## Gjeldende rett
+
+### Om rettigheter til helse- og omsorgstjenester for fordrevne fra Ukraina
+
+Fordrevne fra Ukraina som søker om beskyttelse i Norge, vil anses som asylsøkere fra søknaden er registrert og frem til de får vedtak om midlertidig kollektiv beskyttelse. Som asylsøkere blir de medlemmer i folketrygden med en begrenset trygdedekning inntil endelig vedtak er fattet, jf. forskrift om trygdedekning for asylsøkere og deres familiemedlemmer, gitt med hjemmel i folketrygdloven § 2-16. Den begrensede trygdedekningen (medlemskapet) gir blant annet rett til stønad ved helsetjenester etter bestemmelsene i folketrygdloven kapittel 5. Dette innebærer at asylsøkere skal betale vanlig egenandel for helsetjenester, på linje med personer som er medlemmer i folketrygden som bosatt i Norge.
+
+Med medlemskap i folketrygden har asylsøkere «fulle rettigheter» til nødvendig helsehjelp fra kommunen og spesialisthelsetjenesten etter pasient- og brukerrettighetsloven kapittel 2, jf. § 2 bokstav b i forskrift 16. desember 2011 nr. 1255 om rett til helse- og omsorgstjenester til personer uten fast opphold i riket, gitt med hjemmel i pasient- og brukerrettighetsloven § 1-2.
+
+For asylsøkere med medlemskap i folketrygden skal utgifter til sykehusopphold dekkes av folketrygden, jf. spesialisthelsetjenesteloven § 5-3 andre ledd. Det betyr at de ikke skal betale for behandlingen selv, på linje med personer som er medlemmer i folketrygden som bosatt i Norge.
+
+Asylsøkere med medlemskap i folketrygden har rett til å stå på liste hos fastlege, jf. pasient- og brukerrettighetsloven § 2-1 c.
+
+Asylsøkere i statlig mottak eller som har tilbud om opphold i statlig mottak, har ikke krav på omsorgstjenester etter pasient- og brukerrettighetsloven § 2-1 andre ledd, med mindre de er bosatt i kommune i henhold til særlig avtale mellom utlendingsmyndighetene og den enkelte kommune, jf. § 6 i forskrift om rett til helse- og omsorgstjenester til personer uten fast opphold i riket.
+
+Fordrevne fra Ukraina som har fått innvilget vedtak om midlertidig kollektiv beskyttelse med (minst) ett års varighet, regnes som medlemmer i folketrygden som bosatt i Norge etter folketrygdloven § 2-1. De har samme rettigheter til å motta helse- og omsorgstjenester og stønad til dekning av utgiftene som andre personer som er medlemmer i folketrygden som bosatt i Norge. De har også rett til å stå på liste hos fastlege.
+
+### Om rett til nødvendig tannhelsetjenester fra Den offentlige tannhelsetjenesten
+
+For rett til nødvendige tannhelsetjenester fra Den offentlige tannhelsetjenesten ble det fra 1. juli 2024 innført et krav om fem års botid for unge voksne som har midlertidig oppholdstillatelse, jf. tannhelsetjenesteloven §§ 1-3 d og 2-1 a. Botidskravet gjelder for de særlige rettighetene unge voksne har fordi de er i aldersgruppen 19 til 28 år, jf. lovens § 1-3 første ledd bokstav d.
+
+### Midlertidige hjemler til å gjøre unntak fra rettigheter og plikter
+
+Midlertidige bestemmelser i pasient- og brukerrettighetsloven § 2-5 d, spesialisthelsetjenesteloven § 2-5 d og helse- og omsorgstjenesteloven § 7-2 b gir departementet hjemmel til i forskrift å gjøre helt eller delvis unntak fra enkelte plikt- og rettighetsbestemmelser i helselovgivningen. Det kan gjøres unntak blant annet fra retten til å få fastsatt en frist for når nødvendig helsehjelp fra spesialisthelsetjenesten senest skal tilbys, retten til å få nødvendig helsehjelp uten opphold ved brudd på denne fristen og spesialisthelsetjenestens plikt til å kontakte Helfo ved fristbrudd. Videre kan det gjøres unntak fra reglene om rett til fornyet vurdering i spesialisthelsetjenesten, valg av behandlingssted, individuell plan, kontaktlege, koordinator og barnekoordinator. Bestemmelsene gir ikke adgang til å gjøre unntak fra plikt og rett til grunnleggende helse -og omsorgstjenester som øyeblikkelig hjelp og nødvendige helse- og omsorgstjenester. De gir heller ikke adgang til å gjøre unntak fra plikt til å yte forsvarlige helse- og omsorgstjenester.
+
+Adgangen til å gjøre unntak er begrenset til situasjoner der det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for å bidra til å sikre at den kommunale helse- og omsorgstjenestens og spesialisthelsetjenestens kapasitet ikke overskrides. I vurderingen av om antallet ankomster fra Ukraina er tilstrekkelig høyt til at det kan gjøres unntak, må det ses hen til det antall flyktninger og asylsøkere som ellers ankommer Norge. Det må dreie seg om ankomster av et slikt omfang at dette gjør det nødvendig med unntak fra rettighetsbestemmelser for å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og omsorgstjenestens kapasitet ikke overskrides. Om antallet ankomster gjør det nødvendig med unntak, vil bero på en konkret vurdering av situasjonen.
+
+Videre må det vurderes konkret hvilke av de opplistede pliktene og rettighetsbestemmelsene det skal gjøres unntak fra. Her må det legges vekt på hvilke pasient- og brukergrupper som særlig vil rammes dersom det fastsettes unntak, og hvor viktig den konkrete rettighetsbestemmelse er for å sikre nødvendige og forsvarlige tjenester.
+
+Eventuelle unntak fra rettighetsbestemmelser skal ikke gå lenger enn det som er nødvendig for å oppnå de formålene som unntakene begrunnes med. Ved vurderingen av om det skal gjøres unntak må det også vurderes om formålet kan oppnås ved iverksetting av andre mindre inngripende tiltak. Det er lagt til grunn at unntak gitt med hjemmel i disse bestemmelsene i utgangspunktet skal gjelde for befolkningen generelt, og ikke være begrenset til flyktninger fra Ukraina. Det må imidlertid vurderes om et unntak kan begrenses til enkelte pasient- eller brukergrupper som antas å ha mindre behov for den aktuelle rettigheten det unntas fra. Behovet for unntak må vurderes fortløpende. Dersom det ikke lenger er behov for å gjøre unntak, må unntaket oppheves.
+
+Hjemlene har ikke vært benyttet. Bestemmelsene oppheves 1. juli i år.
+
+## Forslaget i høringsnotatet
+
+I høringsnotatet foreslo departementet å videreføre de midlertidige lovhjemlene i pasient- og brukerrettighetsloven § 2-5 d, spesialisthelsetjenesteloven § 2-5 d og helse- og omsorgstjenesteloven § 7-2 b, til 1. juli 2028. Bestemmelsene gir departementet hjemmel til i forskrift å gjøre helt eller delvis unntak fra enkelte rettigheter og plikter i helselovgivningen.
+
+## Høringsinstansenes syn
+
+Svært få høringsinstanser har kommentert forslaget om å videreføre de midlertidige lovhjemlene i helselovgivningen. Enkelte høringsinstanser uttaler generelt at de støtter videreføring av de midlertidige lovhjemlene.
+
+*Bergen kommune* mener unntak fra rettigheter i spesialisthelsetjenesten kan føre til økt belastning på den kommunale helsetjenesten og uttaler:
+
+«Lettelsene fra fristfastsettelse for helsehjelp i spesialisthelsetjenesten vil kunne medføre økt ventetid, noe som vil øke belastningen på kommunehelsetjenesten.
+
+Helseforetakene bør kunne pålegges å gi tilbud til henviste pasienter raskere for å avlaste kommunehelsetjenesten heller enn motsatt.
+
+Individuell plan og koordinator er tiltak som ikke bare er egnet til å gi bedre koordinert helsehjelp til pasientene, men som også er egnet til å gi bedre utnyttelse av ressursene. Å unnlate å bruke disse verktøyene vil øke belastningen på kommunehelsetjenesten.
+
+Individuell plan og koordinator er verktøy for å bidra til at bruker får mer målrettede tjenester, strukturert samordning av tjenester og å lage mer sømløse pasientløp. Dette kan bidra til effektivisering av kommunens helse- og sosiale tjenester.
+
+Individuell plan, koordinator og barnekoordinator er svært aktuelle verktøy å bruke som tilbud til flyktninger som trenger veiledning i det norske velferdssystem for å få nødvendig helsebistand.
+
+Departementet har rett i at ordningene krever ressurser til administrasjon. Derfor er det også bare pasienter med kvalifiserte behov som får disse ordningene i dag. Grupper som Prop. 107 L (2021–2022) punkt 10.5.3.1 viser til, som «grupper som vurderes å ha mindre behov for koordinator», får ikke koordinator etter reglene som gjelder under normal kapasitet heller. Vi ser derfor ikke at fritak for plikt og rettigheter på disse punktene vil gi noe utslag i kapasitet.»
+
+## Departementets vurderinger
+
+Departementet opprettholder forslaget om å videreføre de midlertidige bestemmelsene i pasient- og brukerrettighetsloven § 2-5 d, spesialisthelsetjenesteloven § 2-5 d og helse- og omsorgstjenesteloven § 7-2 b til 1. juli 2028. Bestemmelsene gir departementet hjemmel til i forskrift å gjøre helt eller delvis unntak fra enkelte rettigheter og plikter i helselovgivningen.
+
+Som omtalt i punkt 2.2 har over 106 000 fordrevne fra Ukraina søkt beskyttelse i Norge siden februar 2022, og det er bosatt mange fordrevne fra Ukraina og andre flyktninger i kommuner over hele landet de siste årene.
+
+Utlendingsforvaltningens ankomstprognoser fra januar 2026 viser at Norge kan forvente omtrent 14 500 fordrevne fra Ukraina (13 300 under kollektiv beskyttelse og 1200 etter ordinært regelverk) til Norge i 2026, i tillegg til 4 000 ordinære asylsøkere. Det knytter seg stor usikkerhet til prognosene.
+
+Etter departementets vurdering kan det oppstå en situasjon der den samlede belastning på helsetjenesten blir for stor på grunn av et fortsatt høyt antall ankomster. De midlertidige hjemlene bør derfor videreføres. Om det er tilstrekkelig behov for å gjøre unntak, må vurderes konkret dersom utviklingen tilsier det. Dersom departementet mener det er behov for å gjøre unntak fra en eller flere rettigheter eller plikter, må forslag om dette sendes på høring før forskriften kan fastsettes. Departementet ser at eventuelle unntak fra plikter som hviler på spesialisthelsetjenesten kan få betydning for belastningen på den kommunale helse- og omsorgstjenesten. Risikoen for slike konsekvenser vil være en del av den vurderingen departementet må gjøre før hjemlene eventuelt tas i bruk.
+
+# Plan- og bygningsloven
+
+## Innledning og bakgrunn
+
+Plan- og bygningsloven er sentral for å skaffe tilstrekkelig kapasitet til innkvartering, bolig, barnehage og skole. Stortinget har vedtatt midlertidige bestemmelser i plan- og bygningsloven for å gjøre det enklere for kommuner å ta imot mange fordrevne på kort tid. De midlertidige bestemmelsene gir fleksibilitet og handlingsrom til å gjennomføre nødvendige tiltak raskere og rimeligere ved økte ankomster. Bestemmelsene ble vedtatt videreført av Stortinget i 2023 (Prop. 90 L (2022–2023)) og i 2024 (Prop. 72 L (2023–2024)). Bestemmelsene oppheves 1. juli 2026.
+
+## Gjeldende rett
+
+Plan- og bygningsloven har ikke egne særregler som sikrer raskere prosesser ved kriser eller ekstraordinære situasjoner. Er det for eksempel behov for å ta i bruk en idrettshall til asylmottak, et kontorlokale til skole, en hytte til bolig eller tilsvarende, krever dette søknad om tillatelse og ofte også dispensasjon fra plan. Dette gjelder selv om den endrede bruken er ment å være kortvarig for å dekke et akutt behov.
+
+Stortinget har derfor vedtatt midlertidige regler i plan- og bygningsloven §§ 20-9 og 20-10. Etter § 20-9 (beredskapsbestemmelsen) kan kommunen gjøre unntak fra krav om søknad om tillatelse for bygninger som skal brukes til innkvartering av asylsøkere og andre utlendinger som Utlendingsdirektoratet gir botilbud til, omsorgssentre for enslige mindreårige asylsøkere under 15 år, barnehage, skole og boliger. Plan- og bygningsloven § 20-10 regulerer saksbehandling etter beredskapsbestemmelsen i § 20-9.
+
+For nærmere omtale av gjeldende rett, herunder omtale av de midlertidige reglene, vises det til Prop. 107 L (2021–2022) punkt 12.5, Prop. 90 L (2022–2023) punkt 13.5 og Prop. 72 L (2023–2024) punkt 14.2.
+
+## Forslaget i høringsnotatet
+
+I høringsnotatet foreslo departementet å videreføre de midlertidige reglene i plan- og bygningsloven §§ 20-9 og 20-10. Departementets vurdering er at de midlertidige bestemmelsene gir kommunene tilstrekkelig fleksibilitet, også ved høye ankomsttall. De midlertidige reglene ble derfor foreslått videreført uten endringer.
+
+## Høringsinstansenes syn
+
+Det er åtte høringsinstanser som har uttalt seg om forslaget. *Bergen kommune*, *Integrerings- og mangfoldsdirektoratet (IMDi)*, *Nord-norsk mottakssenter*, *Riksantikvaren* og *Utlendingsdirektoratet (UDI)* støtter forslaget om videreføring.
+
+*Riksantikvaren* viser til at bestemmelsen har vist seg å være et viktig verktøy for kommunene i ekstraordinære situasjoner, samtidig som den inneholder nødvendige faglige og rettslige skranker for å ivareta sikkerhet, miljø og kulturminner. Riksantikvaren anbefaler å tydeliggjøre at kulturminnehensyn bør avklares tidlig i prosessen ved bruk av beredskapsbestemmelsen.
+
+*Utlendingsdirektoratet (UDI)* viser til at behovet for mottaksplasser er uforutsigbart fordi asylankomstene kan endre seg raskt. Siden bestemmelsen trådte i kraft, har UDI erfart at den absolutte fristen på to års varighet på unntak fra krav om søknad begrenser muligheten for å kunne tilby nok mottaksplasser. UDI foreslår at toårsfristen forlenges, slik at det kan gjøres unntak så lenge situasjonen tilsier det, og at vedtak om unntak kan gis flere ganger for samme bygningsmasse. Dette vil kunne ivareta UDIs behov for raske opp- og nedjusteringer av mottaksplasser, og være bedre tilpasset det uforutsigbare ankomstbildet som følge av krigen i Ukraina.
+
+*Hero Norge AS* viser til at de midlertidige reglene har vært avgjørende for rask etablering av mottaksplasser i en ekstraordinær situasjon, og at ordningen i all hovedsak har fungert etter sin hensikt i den akutte fasen. Samtidig erfarer Hero Norge AS at regelverket i liten grad regulerer tiden etter utløpet av unntaksperioden, og særlig ikke situasjoner der bygget, til tross for lovlig drift i unntaksperioden, ikke kan godkjennes etter ordinære tekniske krav. Hero Norge AS mener det mangler et overgangsregime som håndterer perioden mellom midlertidig unntak og endelig avklaring etter ordinært regelverk. De viser til at dette temaet heller ikke er hensiktsmessig regulert i det avtaleverk UDI har med sine leverandører. Bortfall av tillatelse etter utløp av midlertidig unntak håndteres kontraktsrettslig som mislighold, uten særskilt overgangsregime. *Nord-norsk mottakssenter* og *Lilandtunet AS* deler samme bekymringer som Hero Norge AS. De viser til at kommuner avstår fra å bruke § 20-9 med henvisning til at bygningen har hatt midlertidige unntak tidligere, og at driftsoperatører da blir henvist til ordinær saksbehandling som utløser krav om full teknisk standard (TEK17).
+
+*Sandnes kommune* mener også at det er behov for en forlengelsesmulighet av toårsfristen. Kommunen foreslår at det i § 20-9 tredje ledd inntas en bestemmelse om at vedtak etter første ledd kan forlenges med to år, og at forlengelsesadgangen skal gjelde både for vedtak som allerede er fattet, og for nye vedtak.
+
+## Departementets vurderinger
+
+Departementet opprettholder forslaget om å videreføre de midlertidige reglene i plan- og bygningsloven §§ 20-9 og 20-10. De fleste høringsinstansene støtter forslaget, og flere påpeker at reglene har vært et viktig verktøy for kommunene i den ekstraordinære situasjonen med å skaffe tilstrekkelig kapasitet til innkvartering, bolig, barnehage og skole. Det er usikkert hvor lenge krigen i Ukraina vil vare, og dermed usikkerhet knyttet til utviklingen av flyktningstrømmen fremover. Departementet vurderer derfor at det fortsatt er behov for å videreføre de midlertidige reglene i plan- og bygningsloven, og foreslår å videreføre reglene til 1. juli 2028.
+
+Reglene gir kommunene økt handlingsrom til å gjøre helt eller delvis unntak fra plan- og bygningsloven. Ingen har rettskrav på at kommunen skal bruke beredskapsbestemmelsen. Vurderingen er underlagt kommunens skjønn, jf. «kan». Det er opp til den enkelte kommune å ta stilling til om det er grunnlag for å gi unntak etter de midlertidige reglene.
+
+Unntaket for tidsbestemt bruksendring kan omfatte mindre endringer eller reparasjoner som er nødvendig for at bygningen eller del av bygningen skal kunne brukes på forsvarlig måte. Dette vil være mindre tiltak som allerede i dag er unntatt søknadsplikt etter byggesaksforskriften § 4-1. Unntaket omfatter derimot ikke større endringer i eksempelvis bærende konstruksjoner eller endringer/inngrep som kan påvirke, herunder redusere, brannsikkerheten.
+
+Etter tredje ledd i § 20-9 kan unntak ved tidsbestemt bruksendring eller plassering av midlertidige bygninger kun gjelde for inntil to år. Er det behov for unntak utover to år, regnes de som permanente tiltak og skal da behandles etter de ordinære reglene i plan- og bygningsloven. Flere høringsinstanser peker på at denne begrensningen skaper uforutsigbarhet og utfordringer. Det er av den grunn kommet forslag om å endre bestemmelsen slik at kommunen kan forlenge varigheten utover to år, og at vedtak om unntak kan gis flere ganger for samme bygningsmasse.
+
+Departementet har forståelse for at begrensningen medfører utfordringer, og da særlig for driftsoperatører. Vi kan likevel ikke se at det er grunnlag for å imøtekomme et forslag om å utvide unntaksperioden uten at dette har vært gjenstand for høring. Departementet har lagt som et viktig premiss for beredskapsbestemmelsen at de ordinære prosessene i plan- og bygningsloven bør brukes så langt det er mulig. En utvidelse av unntaksperioden vil bryte med lovens system og hovedregel om at midlertidige tiltak er tiltak med varighet inntil to år.
+
+Beredskapsbestemmelsen er ment som en sikkerhetsventil som kommunen kan ta i bruk dersom dette er nødvendig. Det avgjørende for kommunens vurdering er om bruken av beredskapsbestemmelsen er «nødvendig» fordi det ikke vil være forsvarlig å avvente ordinære saksbehandlingsprosesser for å sikre tilstrekkelig innkvartering. Beredskapsbestemmelsen er dermed tiltenkt for mer akutte situasjoner. Eier eller driftsoperatør har, slik departementet vurderer det, tilstrekkelig tid før utløpet av unntaksperioden på to år til å igangsette ordinær søknadsprosess. Departementet minner i den sammenheng også om at kommunen kan gi helt eller delvis unntak fra tekniske krav, dersom det vurderes som forsvarlig ut fra sikkerhet, helse og miljø etter plan- og bygningsloven § 31-4. Ved vurderingen skal kommunen blant annet legge vekt på byggverkets alder, formell vernestatus, type, formål, plassering, varigheten av tiltaket og nåværende tekniske tilstand.
+
+Departementet minner om at det ved svært høye ankomster, er anledning til å få bistand fra Rådet for bygg- og anleggsberedskap til å sette i stand boliger eller bygge nye. Rådet for bygg- og anleggsberedskap er rådgivende organ for Nærings- og fiskeridepartementet (NFD) i spørsmål om bygg- og anleggsberedskap. Rådet inngår i NFDs beredskapsorganisasjon ved kriser, og består av faste medlemmer fra de landsdekkende firmaene innen bygg- og anleggsnæringene og fra bransjeorganisasjoner etter forslag fra firmaene og organisasjonene selv. Rask gjennomføring av et slikt arbeid forutsetter at den midlertidige beredskapshjemmelen i plan- og bygningsloven videreføres.
+
+Etter departementets vurdering reiser ikke de midlertidige reglene spørsmål etter Grunnloven, menneskerettsloven eller Norges folkerettslige forpliktelser. Rettssikkerheten til naboer, gjenboere og andre berørte er etter departementets oppfatning tilstrekkelig ivaretatt ved at forvaltningsloven gjelder, jf. også plan- og bygningsloven § 1-9.

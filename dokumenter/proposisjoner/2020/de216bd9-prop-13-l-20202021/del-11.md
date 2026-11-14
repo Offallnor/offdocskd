@@ -1,961 +1,840 @@
-# Prop. 13 L (2020–2021), del 11 av 12 (side 119–128)
+# Prop. 13 L (2020–2021), del 11 av 13
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/de216bd9-prop-13-l-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-13-l-20202021/id2770746/
 - Original-PDF: https://www.regjeringen.no/contentassets/ba7a008576244c8aa35a1d90fc2d2903/no/pdfs/prp202020210013000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 17 figurer, 204 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 119]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-Det er her spørsmål om å gripe inn i rettighetsbaserte langtidsytelser som løper inntil videre,
-som ytes med grunnlag i folketrygdloven, som er
-avledet av avdøde ektefelles rettigheter. Ytelsene
-skal langt på vei utgjøre et supplement til de
-ytelsene den gjenlevende får på selvstendig
-grunnlag (med forbehold for etterlattepensjon til
-gjenlevende under 67 år, se nærmere punkt 5.4.3).
-Tillegget etter ftrl. § 20-19 a kommer i en særstilling med sin lovfastsatte begrensning på fem år
-(se punkt 5.2).
-Ved drøftelsen av om avvikling av særreglene
-om ytelser til gjenlevende ektefelle er et inngrep
-i strid med Grunnloven § 97 kan en viss veiledning hentes i Rt. 2006 s. 262, særlig når det gjelder spørsmålet om hvilket grunnlag de etterlatte
-har for sine forventninger om å få beholde sine
-ytelser. Saken er av betydning selv om den
-dreide seg om vern for ytelser etter lov om Statens pensjonskasse, og ikke ytelser etter folketrygdloven. Saken gjaldt endring i vilkårene for
-fraskilt ektefelles rett til ektefellepensjon etter
-lov 28. juli 1949 nr. 26 om Statens pensjonskasse.
-Vår sak gjelder både fraskilte og gifte gjenlevende. Slik folketrygdens ytelser til etterlatte er
-bygd opp, kan vi ikke se at det ved vurderingen
-av grunnlovsvernet for disse ytelsene er grunn
-til å skille ut fra om den som er eller blir etterlatt,
-var gift eller fraskilt på det aktuelle tidspunktet.
-Det sentrale i vår sammenheng er Høyesteretts vurdering av forholdet mellom den avdødes
-(SPK-medlemmets) egen rett til pensjon og
-enkens rett til ektefellepensjon (Rt. 2006 s. 262
-avsnitt 77 og 78):
-«(77) Statspensjonens karakter av særrett
-basert på arbeidskontrakten gjelder medlemmet selv. Det er en sammenheng mellom
-medlemmets lønn, innskudd og pensjonsutbetaling. En annen sak er at en vesentlig del
-av pensjonen i dag finansieres av det offentlige og ikke av medlemmets innskudd i SPK.
-(78) Overfor en enke etter et medlem i SPK
-blir imidlertid tilknytningen mellom en mulig
-fremtidig pensjon og hennes innsats svakere.
-Innskuddet i pensjonskassen er det samme for
-gifte og ugifte medlemmer. For enker vil betalingselementet således ikke gjøre seg gjeldende med samme styrke som for medlemmet
-selv. Ektefellepensjonen blir derved av mer
-avledet karakter, jf. NOU 1995:29 om Samordning av pensjons- og trygdeytelser side 208,
-…»
-
-117
-
-Det fremgår av sammenhengen at Høyesterett
-mente dette momentet måtte tillegges vekt selv
-om det ikke skulle være spørsmål om fraskiltes
-rett til etterlattepensjon.
-Også for etterlatteytelsene i folketrygdloven
-må det tilsvarende legges vekt på at det ikke er
-gjenlevende selv som har opptjent de ytelsene
-som loven i dag gir krav på. Betalings- og opptjeningselementet gjør seg altså i mindre grad
-gjeldende for denne gruppen enn for avdøde selv.
-Dermed har gjenlevende etter vårt syn også svakere grunnlag for forventninger om at pensjonen
-fortsatt skal beregnes etter reglene som i dag gjelder, enn hva avdøde selv ville hatt for sin pensjon.
-Høyesterett gjengir videre i Rt. 2006 s. 262
-(avsnitt 78 og 79) flere tilknyttede argumenter fra
-Samordningsutvalget (NOU 1995: 29 s. 208) for at
-«enkepensjon» nyter et svakt grunnlovsvern:
-«(78) … «Når det gjelder enkepensjon, vil det
-nok ha skjedd en forandring i den alminnelige
-samfunnsoppfatning. Da pensjonsloven ble innført, var synsmåten at enker var forsørget av
-sine menn og måtte være sikret en pensjon for
-sitt utkomme også etter hans død. I dag vil oppfatningen være at enkepensjonen i de fleste tilfelle tross alt bare er et supplement til enkenes
-eller enkemennenes egen inntekt i form av
-lønn eller pensjon.»
-(79) … «På den ene siden er retten til enkepensjon en avledet rett. Det kan sies å være en
-større uvisshet forbundet til spørsmålet om og
-når retten til enkepensjon vil inntre enn til
-spørsmålet om og når retten til alderspensjon
-vil inntre.»«
-Adgangen til å gripe inn i ytelser etter folketrygdloven er som det klare utgangspunkt større enn
-adgangen til å redusere ytelser etter offentlig tjenestepensjon. Vi viser til HR-2016-389-A, som
-gjaldt stortingspensjon, hvor Høyesterett i avsnitt
-86 uttaler følgende (om «statspensjoner»):
-«Jeg ser det slik at disse pensjonene dermed
-nyter et sterkere vern mot inngrep enn det som
-gjelder for trygderettigheter og sosiale ytelser
-for øvrig.»
-Det kan spørres hvor stor forskjellen i grunnlovsvernet egentlig er for ytelser etter folketrygdloven og lov om Statens pensjonskasse når det
-etter begge ordningene er tale om rettsposisjoner
-som er avledet av en annen persons medlemsrettigheter. Høyesteretts uttalelse kan i det minste
-tas til inntekt for at vernet for etterlatteytelser
-
-[Side 120]
-
-118
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-etter folketrygdloven ikke kan være sterkere enn
-for tilsvarende ytelser etter lov om Statens pensjonskasse; situasjonen er snarere den motsatte.
-Rt. 1996 s. 1415 P (Borthen) kan etter dette trolig
-gi en viss veiledning om hvor omfattende inngrep
-som kan aksepteres i etterlatteytelsene etter folketrygdloven. Vi kommer tilbake til dette i punkt
-5.1.2.
-Etterlatteytelsene i folketrygdloven har riktignok særtrekk sammenlignet med de folketrygdytelsene som ble vurdert både i Borthen- og Thunheim-saken. De har – i hvert fall som et utgangspunkt – ikke preg av basisytelse (grunnytelse),
-slik som grunnpensjonen, men snarere preg av
-ikke-betalt supplement til den trygdedes egen inntekt (enten denne har karakter av ervervsinntekt,
-ytelse fra folketrygden eller noe annet). Ytelsen
-har heller ikke preg av et tillegg der betalingseller opptjeningselement gjør seg gjeldende med
-noen styrke. Forholdet kompliseres imidlertid av
-at denne typen karakteristikker kan komme til
-kort overfor enkelte grupper av personer, kanskje
-særlig for eldre årskull og der personer i disse årskullene i lengre tid har hatt etterlatteytelsene som
-primær inntektskilde. Som nevnt har dessuten
-etterlattepenson til gjenlevende ektefelle under
-67 år visse særtrekk som bør vurderes nærmere
-(se punkt 5.4.3).
-Ved grunnlovsvurderingen må det tas hensyn
-til i hvilken grad ulike grupper har innrettet seg
-etter det gjeldende regelverket for ytelser til etterlatte.
-Innrettelseshensynet fører til at vernet er sterkere for dem som allerede mottar løpende ytelser
-enn for dem som ennå ikke er kommet i en slik
-posisjon. Når ytelsene har begynt å løpe, vil dette i
-seg selv gi grunnlag for innrettelse, uavhengig av
-hvordan stillingen var før ytelsen løp. Vi viser til
-vår uttalelse 9. mars 2009 (JDLOV-2006-4290C)
-punkt 6. Vi viser også til Rt. 2006 s. 262, der det i
-avsnitt 79, som argument for svekket grunnlovsvern, ble vist til at det «kan sies å være en
-større uvisshet forbundet til spørsmålet om og når
-retten til enkepensjon vil inntre enn til spørsmålet
-om og når retten til alderspensjon vil inntre». En
-slik usikkerhet foreligger ikke lenger etter at vilkårene for etterlatteytelsen har inntrådt og ytelsen
-har begynt å løpe.
-Etter omstendighetene kan det også være et
-moment i retning av grunnlovsvern at den rettsposisjonen det er spørsmål om å gripe inn i, har
-eksistert lenge. Dette momentet kan imidlertid
-krysses av andre momenter, for eksempel at
-behovet for endring kan tilta etter hvert som tiden
-går.
-
-2020–2021
-
-I grunnlovsvurderingen har det vesentlig
-betydning om en ytelse er tilstått som en varig
-ytelse eller om den er tilstått for en begrenset
-periode eller på annet vis har et midlertidig preg.
-Dersom ytelsen i loven er gjort tidsbegrenset, er
-dette i seg selv et svært tungtveiende argument
-mot å si at det foreligger et vern etter Grunnloven
-§ 97 for fortsatt å motta ytelsen etter at perioden
-er utløpt.
-Når det gjelder betydningen av innrettelseshensynet for dem som allerede mottar etterlattepensjon, men som er under 67 år, viser vi til ytterligere drøftelse i punkt 5.4.3.
-Vekten av innrettelseshensyn må ses i sammenheng med muligheten for – og eventuelle forventninger fra lovgiver om – at den enkelte tilpasser seg til endrede forhold.
-Selv om lovbestemmelsene om ytelser til etterlatte gir den enkelte krav på ytelser i visse tilfeller,
-har det hele tiden også stått sentralt at ytelsen
-skal dekke reelle behov for understøttelse. Det
-understrekes for eksempel i St.meld. nr. 75 (1963–
-64) s. 28 at «de midler som kan nyttes til pensjonsformål [bør] i størst mulig utstrekning … gå til
-dekning av de reelle pensjonsbehov», som ledd i
-departementets argumentasjon for å avvise innføring av en ordning i folketrygdloven med ubetinget rett for enhver enke til full enkepensjon.
-Det vises allerede den gangen, samme sted, til at
-den typen ordninger «ble gjennomført under helt
-andre samfunnsforhold enn de en har i dag».
-Behovet for at midler til pensjonsformål i
-størst mulig grad bør kunne gå til dekning av
-reelle behov, gjenspeiles også i Høyesteretts tolking av Grunnloven § 97. I Rt. 1996 s. 1415 P (Borthen) på s. 1428 uttaler førstvoterende:
-«Oppbyggingen av velferdsstaten er sterkt
-understreket som et moment av betydning for
-grunnlovstolkingen. Jeg er enig i at dette kommer inn. Den trygghet og forutberegnelighet
-for økonomi og levestandard som jeg har fremhevet som avgjørende for at trygderettigheter
-må ha et grunnlovsvern, er nettopp et viktig
-utslag av vår velferdsstat. Men hensynet til velferdssamfunnet har også en annen side av
-betydning. Det er viktig å kunne kanalisere
-offentlige midler dit det er størst behov for
-dem. Sterke bånd på adgangen til å foreta
-omprioriteringer vil – iallfall som generell regel
-– ikke ivareta velferdssamfunnet og dets
-behov.»
-For deler av etterlatteytelsene kan tilpasningen,
-som vi kommer tilbake til særlig ved drøftelse av
-
-[Side 121]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-inngrep i etterlattepensjonen til personer under
-67 år, nettopp bestå i at det stilles nye krav om
-selvforsørgelse. Vi viser til punkt 5.4.3 nedenfor,
-hvor vi også går inn på betydningen av formålet
-med etterlatteytelsene og betydningen av om inngrepet tar hensyn til den etterlattes evne til å bære
-tapet.
-Muligheten for å tilpasse seg endrede forhold
-(typisk ved krav om yrkesaktivitet) vil – alt annet
-likt – jevnt over være større for yngre enn for
-eldre personer. Forventningen om tilpasning gjennom yrkesaktivitet vil særlig gjelde for personer
-som er i det som normalt regnes som yrkesaktiv
-alder.
-Ved grunnlovsvurderingen er også lovgivers
-behov for handlefrihet et moment av vesentlig betydning. Ytelsene til etterlatte, så langt de rekker, stiller en persongruppe i en gunstig situasjon sammenlignet med andre. Det er som utgangspunkt et
-politisk spørsmål om en vil innføre eller opprettholde denne typen fordeler for en bestemt gruppe
-med virkning fremover i tid. Den enkelte kan ikke
-forvente at slike særfordeler består over tid, og
-særlig ikke ved endrede samfunnsforhold. Innføring av fordelene var i sin tid saklig begrunnet,
-men det er også tungtveiende saklige grunner for
-at det skjer endringer. Vi viser til ASDs brev 6. juli
-2016 s. 1–2 og s. 13–14 samt NOU 2017: 3 kapittel 3
-(s. 19–29). Særreglene om ytelser til etterlatte har
-sin bakgrunn i en tid da den typiske familien hadde
-én hovedforsørger (mannen), mens kvinnen var
-hjemme eller jobbet deltid. Sammenlignet med den
-gangen deltar flere kvinner i yrkeslivet, og behovet
-for særskilte ytelser til etterlatte er dermed blitt
-mindre, se slik også Rt. 2006 s. 262 avsnitt 82–90
-(om ektefellepensjon).
-I slike situasjoner, hvor endringer i samfunn og
-arbeidsliv gjør at de forutsetningene som lå til
-grunn da ytelsen ble innført, ikke eksisterer som i
-dag, må hensynet til folketrygdens og samfunnets
-økonomi, som Høyesterett viste til i Rt. 1996 s. 1415
-P (Borthen) på s. 1430 (gjengitt foran i punkt 4.1),
-ha særlig tyngde. Det er også sentralt at reform av
-dagens system for ytelser til etterlatte bidrar til å
-støtte opp om «arbeidslinjen».
-Dersom lovgiver først inntar det standpunktet
-at folketrygdens ytelser til etterlatte bør bygges
-ned, kan det videre anføres tungtveiende lovgivningspolitiske argumenter for at en reform også
-bør inkludere personer som allerede mottar
-ytelser som etterlatt. Det gjelder kanskje særlig
-for personer som med dagens regler i lang tid
-fremover ville motta denne typen ytelser. Likhetshensyn ble tillagt vesentlig vekt i Rt. 1996 s. 1415 P
-(Borthen) s. 1432, jf. s. 1433 og Rt. 1996 s. 1440 P
-
-119
-
-(Thunheim) s. 1453. I saken her vil hensynet til
-likhet mellom ulike generasjoner spille inn. Også
-hensynet til likhet mellom dem som blir etterlatt
-før og etter lovendringstidspunktet spiller inn.
-Videre vil hensynet til at innsparingseffekten ikke
-utskytes i tid, tilsi at også de som mottar løpende
-ytelser, omfattes av reformen i størst mulig
-utstrekning. Både i Borthen- og Thunheim-saken
-ble dette argumentet også tillagt vesentlig vekt (jf.
-Rt. 1996 s. 1415 på s. 1432–1433 og Rt. 1996 s.
-1440 på s. 1453).
-Når det gjelder den rettslige betydningen av det
-«folketrygdforbeholdet» som i dag finnes i ftrl. § 25-14
-(jf. ASDs brev 18. mai 2017 s. 12), nøyer vi oss med
-å vise til Lovavdelingens uttalelse 9. mars 2009
-(JDLOV-2006-4290A) punkt 3.5 med videre henvisninger samt HR-2016-389-A avsnitt 102 og 103.
-For grunnlovsvurderingen kan det videre ha
-interesse om relevante lovforarbeider underbygger den forventningen om vern som kan være
-skapt ved ulike lovbestemmelser om etterlatteytelser, eller om det tvert imot er tatt forbehold om at
-endringer vil eller kan skje. Momentet må selvsagt
-ses i sammenheng med hvordan de relevante lovbestemmelsene selv er utformet og begrunnet.
-Foran i punkt 2 har vi omtalt ulike lovendringer som gjelder folketrygdens ytelser til
-etterlatte. Disse lovendringene, sammen med en
-rekke andre lovvedtak, fulgte opp de to brede pensjonsforlikene som ble inngått i Stortinget i 2005
-og 2007. Forlikene er omtalt i punkt 1.3.3 og 1.3.4 i
-Ot.prp. nr. 37 (2008–2009) Om lov om endringer i
-folketrygdloven (ny alderspensjon).
-Det er et gjennomgående trekk ved forarbeidene til de ulike lovendringene som er omtalt
-foran at de – om enn med ulik grad av konkretisering – bærer bud om at de endringene som ble
-foreslått i reglene om folketrygdens ytelser til
-etterlatte, skulle gjelde midlertidig i påvente av en
-mer generell utredning av disse ytelsene.
-Som nevnt i punkt 2.1.1 ble det ved lov 5. juni
-2009 nr. 32 vedtatt nye regler om alderspensjon i
-folketrygdloven kapittel 20. For årskullene født til
-og med 1953 skulle ftrl. kapittel 19 gjelde, og det
-ble for disse årskullene ikke gjort endringer i særreglene om beregning av alderspensjon til gjenlevende ektefelle.
-I den proposisjonen som lovvedtaket var
-basert på, ble det varslet at regjeringen i løpet av
-2009 tok sikte på å fremme en ny proposisjon
-blant annet med forslag til nødvendige tilpasninger i reglene om etterlattepensjon som følge av
-forslaget om fleksibelt uttak av alderspensjon, jf.
-Ot.prp. nr. 37 (2008–2009) s. 19.
-
-[Side 122]
-
-120
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-De varslede endringene ble fulgt opp ved lov
-11. desember 2009 nr. 112 om endringer i folketrygdloven mv. (tilpasninger i folketrygdens
-regelverk som følge av pensjonsreformen). Lovendringene var basert på regjeringens forslag i
-Ot.prp. nr. 106 (2008–2009) Om lov om endringer
-i folketrygdloven mv. (tilpasninger i folketrygdens
-regelverk som følge av pensjonsreformen). Om
-bakgrunnen for endringene som ble foreslått da,
-heter det i proposisjonen (på s. 6):
-«Pensjonsreformen omfatter hele pensjonssystemet, og det er nødvendig å gjøre tilpasninger
-i andre lover og i folketrygdens øvrige regelverk. I denne proposisjonen foreslås det tilpasninger som skal gjelde fra 1. januar 2011, fordi
-det fra dette tidspunktet innføres endringer i
-alderspensjon beregnet etter dagens regler.
-Det gjelder blant annet tilpasning av ytelser til
-etterlatte, og visse ytelser som i dag beregnes i
-forhold til grunnbeløpet.
-I forbindelse med pensjonsforliket i Stortinget i 2005 ble det blant annet bestemt at etterlattepensjon i folketrygden skal utredes når
-Stortinget har tatt stilling til ny opptjeningsmodell for alderspensjon i folketrygden.
-Departementet vil vurdere folketrygdens
-ytelser til etterlatte tilpasset ny alderspensjon i
-det videre arbeidet med pensjonsreformen.»
-I Ot.prp. nr. 106 (2008–2009) punkt 3 (om ordningen med pensjon og overgangsstønad til gjenlevende ektefelle frem til 67 år) heter det at denne
-«videreføres de første årene fra 2011»» (jf. s. 8), og
-det heter at «hele ordningen vil bli gjennomgått i
-forbindelse med det videre arbeidet med pensjonsreformen», slik at «dagens ytelsesnivå bør
-videreføres inntil videre» (s. 9).
-I Ot.prp. nr. 106 (2008–2009) punkt 4 (alderspensjon til gjenlevende ektefelle) heter det på lignende vis at «reglene om beregning av alderspensjon til gjenlevende ektefelle videreføres i dagens
-alderspensjon inntil videre» (s. 11), og videre at de
-forslagene i høringsnotatet som proposisjonen
-bygde på, «gjelder tilpasninger fra 2011 i påvente
-av mer varige løsninger» (s. 11). På s. 12 heter det
-videre at «dagens nivå på ytelsene [bør] videreføres inntil mer varige løsninger er vurdert».
-Gjenfremsettelsesproposisjonen (Prop. 15 L
-(2009–2010)) og komitéinnstillingen fra Stortinget
-(Innst. 33 L (2009–2010), se s. 7) inneholder ikke
-uttalelser av særlig interesse.
-Ved lov 20. juni 2014 nr. 24 ble det som nevnt i
-punkt 2.2 i ftrl. § 12-18 vedtatt en bestemmelse om
-gjenlevendetillegg til ny uføretrygd som gis i inn-
-
-2020–2021
-
-til fem år. Vi viser til omtalen i punkt 5.3 av forarbeidene til lovendringen (Prop. 66 L (2013–2014)).
-Ved lov 19. juni 2015 nr. 41 om endringer i folketrygdloven (midlertidig gjenlevendetillegg til ny
-alderspensjon) ble det som nevnt i punkt 2.1.2 innført et nytt gjenlevendetillegg til alderspensjon i
-ftrl. § 20-19 a til de fire første årskullene som kan ta
-ut alderspensjon delvis beregnet etter nye regler i
-ftrl. kapittel 20 (årskullene født mellom 1954 og
-1957). Endringen var forutsatt å være midlertidig
-(jf. for så vidt endringslovens tittel). I den proposisjonen som dannet grunnlag for lovvedtaket (Prop.
-95 L (2014–2015) heter det (s. 1–2):
-«Et neste steg i pensjonsreformen vil være å
-vurdere i hvilken grad og på hvilken måte gjenlevendepensjonen skal tilpasses til pensjonsreformen. Arbeids- og sosialdepartementet har
-forutsatt at dette spørsmålet skal utredes, med
-sikte på at en varig løsning for ytelser til etterlatte i folketrygden vil kunne iverksettes fra
-2020.»
-Vi sammenfatter de ulike forarbeidene og deres
-betydning for grunnlovsvurderingen slik: Det er på
-det rene at utredning av hele ordningen med etterlatteytelsene gjennom lovforarbeider og andre relevante dokumenter har vært varslet i lang tid. Det
-kan ikke komme brått og uventet at viktige
-endringer vil bli foreslått, også med virkning for
-bestående rettsposisjoner. I dette ligger en mulighet for å innrette seg og ta forholdsregler, noe som
-også har betydning ved den avveiningen som må
-skje etter Grunnloven § 97. Vi viser til at Høyesterett i HR-2016-389-A (stortingspensjon) avsnitt 97
-og 98 argumenterte på tilsvarende måte. Hvor stor
-vekt dette momentet vil ha i avveiningen, avhenger
-av sakens øvrige momenter.
-Det som er sagt foran, gir etter vårt syn grunnlag for følgende oppsummering: De av folketrygdens ytelser til etterlatte som saken her gjelder,
-nyter ut fra sitt grunnlag nokså gjennomgående et
-svakt grunnlovsvern mot endringer. I tråd med de
-generelle retningslinjene som er oppstilt i Borthen-saken må det ha betydning
-– hvor stort omfanget av et tap er
-– hvor sterkt innrettelseshensynet gjør seg gjeldende (ut fra blant annet om ytelser allerede
-løper, om ytelsen er gjort varig eller tidsbegrenset, og om hvor langt det er gitt signaler
-om endring)
-– hvilke muligheter det er for å tilpasse seg den
-nye situasjonen ved å kompensere for tap; her
-kan både vedkommendes alder og varigheten
-av en omstillingsperiode ha betydning
-
-[Side 123]
-
-2020–2021
-
-–
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-hvilke forventninger lovverket har stilt til krav
-om aktivitet; dette momentet kan særlig ha
-betydning for personer i yrkesaktiv alder
-
-Selv om grunnlovsvernet som utgangspunkt er
-relativt svakt, kan det ut fra dette bli nødvendig til
-å ta hensyn til spesielle tilfeller der individer eller
-grupper av individer, gjennom de inngrepene
-regelendringene gjør i bestående rettsposisjoner,
-rammes særlig hardt. Vi viser for så vidt til de
-momentene Høyesterett regnet opp i Borthensaken.
-
-5
-
-De ulike ytelsene – forholdet til
-Grunnloven § 97
-
-5.1
-
-Nominell videreføring av
-gjenlevendefordel etter
-folketrygdloven kapittel 19
-
-5.1.1
-
-Nominell videreføring av
-gjenlevendetillegget («alternativ 1»)
-
-Vi vurderer først om endringen (inngrepet) i
-reglene om gjenlevendefordel ved beregning av
-alderspensjon etter folketrygdloven kapittel 19,
-basert på alternativ 1, kommer i konflikt med
-Grunnloven § 97. Spørsmålet er om inngrepet
-innebærer «klart urimelig eller urettferdig»
-tilbakevirkning.
-Som nevnt i punkt 2.1.1 ble det i 2009 ikke
-gjort endringer i særreglene om beregning av
-alderspensjon til gjenlevende ektefelle.
-Den gruppen som antas å ha det sterkeste
-vernet, er personer som er født i 1953 eller tidligere. Det er her tale om personer som på tidspunktet for lovendringen (2020) har fått innvilget
-alderspensjon, og som fullt ut får sine ytelser
-beregnet etter ftrl. kapittel 19, jf. § 19-1 annet
-ledd og § 19-15.
-Om disse personene på tidspunktet for lovendringen også har fått innvilget etterlatteytelser
-til alderspensjonen, avhenger av om de da har
-fått status som etterlatt eller ikke. Vi konsentrerer vurderingen om personer som på tidspunktet
-for lovendringen er blitt etterlatt, ut fra den
-betraktningen at det er for dem spørsmålet om
-grunnlovsvern vil kunne oppstå.
-ASD har pekt på to underalternativer for
-hvilke årskull endringen omfatter: 1) personer
-som er født i 1944 og senere og 2) alle årskull, det
-vil si også eldre enn 1944-kullet. Vi vurderer
-spørsmålet ut fra det mest vidtgående underalternativet (underalternativ 2). Personer som er født i
-1943, vil i 2020 fylle 77 år.
-
-121
-
-Det er for denne gruppen ikke spørsmål om å
-frata dem etterlattefordeler i sin helhet. Inngrepet
-består i stedet av en nominell videreføring av innvilgede ytelser knyttet til status som etterlatt.
-Denne gruppen går med andre ord glipp av oppregulering av ytelsen på linje med den oppreguleringen som skjer for andre ytelser (grupper) etter
-folketrygdloven. Over tid vil en slik «frysordning»
-redusere verdien av tildelte ytelser personer i
-gruppen får som følge av sin status som etterlatt,
-men verdien av gjenlevenderettighetene vil aldri
-forsvinne helt.
-I ASDs brev 6. juli 2016 (s. 11) er det opplyst
-følgende:
-«I 2015 var det i alt 207 000 etterlatte alderspensjonister. Av dem var det 116 000 som faktisk
-fikk økt sin utbetalte alderspensjon etter særreglene i § 19-16. De øvrige hadde enten høyere egenopptjent alderspensjon, eller så lav
-pensjon at særtillegget er fullt ut avkortet mot
-tilleggspensjonen inkludert gjenlevendefordel.
-Størrelsen på gjenlevendefordelen varierer
-betydelig. Gjennomsnittlig gjenlevendefordel
-for mottakere født 1911–1953, var i 2015
-38 000 kroner. Blant mottakerne i 2015 var
-beløpet maksimalt opp mot 1,7 G, men det kan
-i prinsippet være langt høyere. Gjenlevende
-som får fordel av avdødes trygdetid kan få særlig høy gjenlevendefordel.»
-Vi viser også til omtalen i NOU 2017: 3 s. 133–135.
-Det fremgår av drøftelsen og oppsummeringen i punkt 4 at vernet mot uegentlig tilbakevirkende inngrep i folketrygdens ytelser til etterlatte
-er nokså begrenset. Etter vårt syn blir dette avgjørende for at en generelt må bygge på at den ordningen som er skissert i alternativ 1, ikke kommer
-i konflikt med Grunnloven § 97. Utgangspunktet
-for spørsmålet som nå vurderes, er at en generelt
-ønsker å fase ut dagens særlige regler for alderspensjon (og uføretrygd) til etterlatte. Utvalget
-peker i sin oppsummering (NOU 2017: 3 s. 136)
-på flere hensyn som taler for at en endring også
-omfatter personer som allerede mottar løpende
-ytelser: «hensynet til et bærekraftig pensjonssystem, en rimelig fordeling av de økonomiske
-byrdene mellom generasjoner og at endringer
-ikke bør slå for ulikt ut fra ett årskull til et annet».
-Disse hensynene må etter vårt syn slå gjennom
-overfor det inngrepet alderspensjonistene her blir
-utsatt for. Vi viser for så vidt også til drøftelsen vår
-i punkt 4.2. Vi peker også på at dette utfasingsalternativet innebærer en gradvis, nokså «myk»
-nedtrapping av verdien av gjenlevendefordelen.
-
-[Side 124]
-
-122
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-Endringen må stå seg selv om inngrepet som
-nevnt skjer i allerede løpende ytelser, den etterlatte i praksis har få eller ingen muligheter for å
-kompensere for tapet gjennom arbeid, og generelle argumenter knyttet til ønsket om å skape
-insentiver til at folk står i arbeid lengst mulig, ikke
-kan ha noen vekt som argument for å redusere
-ytelsene i fremtiden for de årskullene en her taler
-om.
-Vi kan vanskelig kan se at det oppstår særskilte problemer som følge av at også personer
-som er eldre enn 1944-årskullet, inkluderes i
-reformen (underalternativ 2).
-Konklusjonen er etter dette at den skisserte
-overgangsordningen for utfasing av gjenlevendefordel ved beregning av alderspensjon etter folketrygdloven kapittel 19, basert på alternativ 1
-(nominell videreføring av gjenlevendetillegget),
-ikke innebærer «klart urimelig eller urettferdig»
-tilbakevirkning. Konklusjonen omfatter både
-underalternativ 1 og 2. Overgangsordningen kan
-dermed gjennomføres uten hinder av Grunnloven
-§ 97, selv der personene på lovendringstidspunktet (2020) allerede mottar alderspensjon med
-gjenlevendetilllegg. Det er desto klarere at personer som ennå ikke mottar slikt gjenlevendetillegg,
-ikke nyter noe grunnlovsvern.
-
-5.1.2
-
-Særlig om nominell videreføring av
-samlet alderspensjon («alternativ 2»«)
-Spørsmålet er så om alternativ 2, slik det er
-omtalt i punkt 3.1 foran (nominell videreføring av
-samlet alderspensjon), kan gjennomføres uten
-hinder av Grunnloven § 97. Avgjørende er om
-inngrepet innebærer «klart urimelig eller urettferdig» tilbakevirkning.
-Den sentrale forskjellen sammenlignet med
-alternativ 1 er at «frysløsningen» omfatter den
-samlede alderspensjonen, inkludert verdien av
-gjenlevendefordel etter kapittel 19 og (eventuelt)
-gjenlevendetillegg etter § 20-19 a. Nivået på samlet pensjon holdes nominelt uendret til denne når
-nivået av den egenopptjente alderspensjonen,
-regulert på ordinær måte. Deretter reguleres pensjonen på ordinær måte. En konsekvens av den
-foreslåtte løsningen er at verdien av gjenlevenderettighetene relativt raskt vil kunne reduseres til
-null (se nedenfor).
-Alternativ 2 er, til forskjell fra alternativ 1, ikke
-tenkt anvendt for personer som er eldre enn 1944årskullet (personer som er 77 år eller eldre på lovendringstidspunktet i 2020).
-
-2020–2021
-
-Utvalget anbefaler ikke å gå videre med et
-slikt alternativ, og det uttaler i den forbindelse
-(NOU 2017: 3 s. 132):
-«[D]ette alternativet [vil] kunne få urimelig
-stor negativ effekt på den samlede alderspensjonen for en del av de eldste gjenlevende. I
-denne gruppen er det fortsatt en del som har
-en betydelig del av sin yrkeskarrière fra perioden før folketrygden ble innført. Det vil også
-være mange kvinner fra årskull som har hatt
-liten egen pensjonsopptjening. Utvalget vil derfor ikke anbefale dette alternativet.»
-Også ved drøftelsen av alternativ 2 bør det skilles
-mellom dem som allerede på lovendringstidspunktet (2020) har fått status som etterlatt og fått innvilget gjenlevendetillegg til alderspensjon etter ftrl.
-kapittel 19, og dem som på lovendringstidspunktet ennå ikke har status som etterlatt. Det særlige
-elementet av innrettelse som ligger i at alderspensjonen med gjenlevendetillegg allerede løper, styrker muligheten for at vernet etter Grunnloven
-§ 97 slår inn, og vi vurderer derfor først denne
-gruppen. På slutten av punkt 5.1.2 kommer vi helt
-kort tilbake til dem som på lovendringstidspunktet ennå ikke har fått status som etterlatt.
-Når det gjelder inngrepets omfang for personer
-som før lovendringstidspunktet i 2020 har fått innvilget gjenlevendefordel etter hittil gjeldende
-regler om beregning av alderspensjon til gjenlevende (ftrl. § 19-16), kan dette variere betydelig,
-som angitt i punkt 5.1.1. Som nevnt der var gjennomsnittlig gjenlevendefordel for mottakere født
-1911–1953 i 2015 38 000 kroner. Samtidig ble det
-pekt på at beløpet blant mottakerne i 2015 maksimalt var opp mot 1,7 G, men at det i prinsippet
-kunne være langt høyere. Vi konstaterer foreløpig
-at det nevnte gjennomsnittsbeløpet ligger godt
-innenfor det beløpet Høyesterett vurderte i
-Rt. 1996 s. 1415 P (Borthen), se nedenfor, men at
-det for noen kan være tale om ytelser i en helt
-annen størrelsesorden.
-Vi viser også til utvalgets figur 8.9 (NOU 2017: 3
-s. 131) og omtalen av dette typetilfellet i NOU 2017:
-3 punkt 8.7.3 (s. 130–132). I det typetilfellet som
-utvalget omtaler, og med de forutsetningene som
-legges til grunn (blant annet en årlig lønnsvekst på
-4 %), når verdien av gjenlevendefordelen null i løpet
-av ni år (jf. NOU 2017: 3 s. 131).
-Jo større andel ektefelletillegget utgjør av
-den samlede pensjonen, desto flere år vil det gå
-før frysordningen taper sin betydning. Frysordningen bidrar til at reduksjonen av den samlede
-pensjonens realverdi skjer gradvis, uten brå over-
-
-[Side 125]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-ganger, noe som i prinsippet også gir grunnlag
-for gradvis tilpasning. En kommer likevel ikke
-unna at tapet også gradvis materialiserer seg, og
-at det etter hvert kan bli tale om meget omfattende årlige tap. Det kan også, når det er tale om
-meget omfattende tap, settes spørsmålstegn ved
-rimeligheten av at den etterlatte gjennom den
-skisserte overgangsordningen må tåle at egenopptjent pensjon unntas fra slik oppregulering
-som gjelder gjennomgående for alle andre grupper i folketrygdsystemet.
-Det er i NOU 2017: 3 s. 130 vist til at tilsvarende løsning av overgangsspørsmålet ble valgt
-da det ved lov 21. desember 1990 nr. 80 ble innført
-behovsprøving av forsørgingstillegg til alderspensjon. Det er denne lovendringen som ble vurdert
-opp mot Grunnloven § 97 i Rt. 1996 s. 1415 P
-(Borthen). I den saken aksepterte Høyesterett i
-plenum enstemmig det tapet Borthen led ved at
-det ble innført nye regler om inntektsprøving av
-ektefelletillegget etter folketrygdloven. For Borthen var tapet på et halvt grunnbeløp årlig (men
-dette ble altså avdempet gjennom en «frysløsning» tilsvarende den utvalget nå foreslår under
-alternativ 1, jf. punkt 5.1.1).
-Vi kan, på bakgrunn av resultatet i Borthensaken og det vi generelt har lagt til grunn om
-grunnlovsvern for etterlatteytelsene i punkt 4.2
-foran, vanskelig se det annerledes enn at etterlatte
-alderspensjonister må akseptere tap av gjenlevendefordeler i samme størrelsesorden som det som
-ble godtatt i Borthen-saken, det vil si et halvt
-grunnbeløp, og med den utfasingsordningen som
-ligger i alternativ 2. Vi peker særlig på at forventningen om å kunne beholde etterlattefordelen
-neppe er noe sterkere her enn det som var situasjonen i Borthen-saken. Det gjelder etter vårt syn
-selv om det ikke finnes generelle mekanismer
-som tar særskilt hensyn til den enkeltes evne til å
-bære det økonomiske tapet som måtte oppstå som
-følge av endringen. Vi finner særskilt grunn til å
-peke på at utvalget har valgt fortsatt å prioritere
-ytelser til etterlatte barn.
-Ut fra dette vil langt de fleste tilfellene etter
-alternativ 2 gå klar av Grunnloven § 97.
-Det kan på den annen side oppstå vanskelige
-spørsmål dersom tapet for den enkelte som allerede mottar løpende ytelser, er vesentlig høyere
-enn det Høyesterett aksepterte i Borthen-saken.
-De eldste berørte årskullene (med 1944-kullet
-som det eldste) vil allerede i en årrekke kunne ha
-mottatt gjenlevendefordel som en del av alderspensjonen og ha innrettet sin økonomi og levestandard etter dette. Samtidig vil det være
-
-123
-
-beskjedne muligheter for å kompensere for tapet
-av pensjon.
-Slik dette alternativet er skissert, finnes det
-ikke noen mekanismer som bidrar til å sikre at
-den etterlatte har økonomisk styrke til å bære
-tapet (vi ser da bort fra at reglene om barnepensjon vil sikre etterlatte barns stilling). Dette kan
-bidra til at inngrepet rammer enkelte grupper urimelig hardt. I Borthen-saken la Høyesterett, som
-argument for at endringen ikke kom i konflikt
-med Grunnloven § 97, vesentlig vekt på at de nye
-og mindre gunstige reglene var basert på behovsprøving, og at innstramningene var søkt utformet
-slik at de bare rammer pensjonister som hadde
-økonomisk styrke til å bære tapet (Rt. 1996 s.
-1415 P (Borthen) på s. 1432).
-Vi har ikke noe fullgodt grunnlag for å foreta
-en endelig vurdering på dette punktet, det vil si
-for personer som på tidspunktet for lovendringen
-har fått status som etterlatt og som mottar
-løpende gjenlevendetillegg, etter alternativ 2
-(nominell videreføring av samlet alderspensjon).
-Dersom en går videre med denne modellen, bør
-en i større grad kartlegge virkningene for grupper som rammes særlig hardt, og det bør skje en
-vurdering av om inngrepet er akseptabelt eller om
-det av hensyn til Grunnloven § 97 bør innføres
-skjermingsordninger eller annet som kan bidra til
-å unngå særlig urimelige utslag av den generelle
-utfasingsordningen.
-Etter vårt syn vil det ikke oppstå grunnlovsstrid etter alternativ 2 for personer som på lovendringstidspunktet ennå ikke har fått status som
-etterlatt, og som dermed ikke har fått innvilget
-noen ytelse med gjenlevendefordel. Vi viser til
-det relativt svake grunnlovsvernet som generelt
-gjelder for denne typen ytelser, og at innrettelseshensynet ikke gjør seg særlig tungt gjeldende.
-
-5.2
-
-Løpende gjenlevendetillegg etter
-folketrygdloven § 20-19 a
-Som nevnt i punkt 2.1.1 ble det ikke vedtatt noen
-bestemmelse om beregning av alderspensjon til
-gjenlevende ektefelle i lov 5. juni 2009 nr. 32 om
-endringer i folketrygdloven (ny alderspensjon). Vi
-kan ikke se at dette i seg selv reiste noe spørsmål
-om forholdet til Grunnloven § 97. Spørsmålet om
-grunnlovsstrid i denne saken må etter vårt syn
-knyttes til rettsposisjoner som er etablert i medhold av ftrl. § 20-19 a, som ble vedtatt ved lov
-19. juni 2015 nr. 41 (for de fire årskullene født mellom 1954 og 1957).
-
-[Side 126]
-
-124
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-Når det gjelder inngrep i ytelser etter de særlige bestemmelsene i ftrl. § 20-19 a (gjenlevendetillegg til årskullene 1954–1957 ved uttak av alderspensjon til og med 2019) har ASD i brev 26. april
-2017 presisert at det vanskelig kan se at det vil
-være aktuelt å avvikle allerede innvilgede tillegg,
-og at det ikke lenger er nødvendig å vurdere
-grunnlovmessigheten av avvikling av innvilgede
-tillegg etter § 20-19 a. Dette omfatter, etter det vi
-forstår, også personer som fra i dag (2018) og
-innen utgangen av 2019 tar ut alderspensjon, jf.
-ftrl. § 20-19 a første ledd.
-I stedet beholdes innvilgede gjenlevendetillegg, likevel slik at disse tilleggene unntas fra årlig
-regulering i tiden etter lovendringen, jf. ASDs
-brev 26. april 2017.
-Vi nøyer oss her med å peke på at det er uproblematisk etter Grunnloven § 97 at innvilgede tillegg etter ftrl. § 20-19 a for årskullene 1954–1957
-unntas fra årlig regulering (nominell videreføring)
-i tiden etter en eventuell lovendring. Det er her
-tale om en skånsom utfasing av særlige tillegg,
-der utfasingen over tid bidrar til å skape større likhet med yngre årskull (1958 og yngre), og der
-utfasingen må ses i sammenheng med den generelle omleggingen av folketrygdens system for
-ytelser til etterlatte. Som det fremgår av punkt
-2.1.2 og 4.2 var det på tidspunktet for vedtakelse
-av folketrygdloven § 20-19 a varslet at det var tale
-om en midlertidig ordning.
-
-5.3
-
-Gjenlevendetillegg til uføretrygd
-(folketrygdloven § 12-18)
-ASD skisserte i sitt brev 6. juli 2016 som en mulig
-lovendring at ftrl. § 12-18 (tillegg til uføretrygd for
-gjenlevende ektefelle (gjenlevendetillegg)) oppheves fra og med 2020, med den følgen at nye tillegg
-ikke innvilges etter 2020. Allerede innvilgede tillegg skulle løpe ut vedtaksperioden (fem år) uten
-å fornyes etterpå.
-Som nevnt i ASDs brev 26. april 2017 foreslår
-utvalget i NOU 2017: 3 at tilleggene videreføres
-nominelt, på samme måte som gjenlevendefordel etter kapittel 19 og gjenlevendetillegg etter
-§ 20-19 a. ASD ønsker likevel fortsatt vurdert en
-endring som skissert i forrige avsnitt.
-Spørsmålet er om en slik avvikling/utfasing av
-ordningen med gjenlevendetillegg til uføretrygd
-etter ftrl. § 12-18 innebærer «klart urimelig eller
-urettferdig» tilbakevirkning etter Grunnloven § 97.
-Som nevnt i punkt 2.2 ble det ved lov
-16. desember 2011 nr. 59 ikke vedtatt nye regler
-om gjenlevenderettigheter i ny uføretrygd. Vi
-
-2020–2021
-
-kan ikke se at dette i seg selv reiste noe spørsmål
-om forholdet til Grunnloven § 97. Spørsmålet om
-grunnlovsstrid i denne saken må etter vårt syn
-knyttes til rettsposisjoner som er etablert i medhold av ftrl. § 12-18, som ble vedtatt ved lov
-20. juni 2014 nr. 24 om endringer i folketrygdloven, lov om Statens pensjonskasse og enkelte
-andre lover (tilpasninger til ny uføretrygd i folketrygden og ny uførepensjonsordning for offentlig
-tjenestepensjon). Vi tar utgangspunkt i situasjonen for personer som på tidspunktet for en eventuell lovendring har fått innvilget tillegg med
-hjemmel i ftrl. § 12-18.
-Spørsmålet er om det vil innebære en klart urimelig eller urettferdig tilbakevirkning overfor
-denne persongruppen å oppheve ftrl. § 12-18, med
-den følge at allerede innvilgede tillegg ikke fornyes etter utløpet av vedtaksperioden.
-Vi viser først til de generelle momentene som
-det er gjort rede for i punkt 4.
-For vurderingen etter Grunnloven § 97 er det
-helt sentralt at det i ftrl. § 12-18 står at gjenlevendetillegg til uføretrygd gis «for et tidsrom på fem
-år». Da har mottakerne av slike ytelser heller ikke
-grunnlag for å innrette seg etter å få ytelsen i mer
-enn fem år. Den betydning det i andre sammenhenger har at en pensjon har begynt å løpe, fordi
-det gir grunnlag for innrettelse, gjør seg ikke gjeldende her, siden det etter loven selv er tale om en
-tidsbegrenset ytelse. Grunnlovsvern måtte i tilfelle bygges på at lovgiver i fremtiden vil vedta lovregler som gir rettigheter ut over de som i dag
-gjelder (et tillegg som i lovteksten er begrenset til
-å gjelde i fem år). Vi kan imidlertid ikke se at en
-slik forventning er beskyttet av Grunnloven § 97.
-Av forarbeidene til lovendringen i 2014 fremgår det meget tydelig at det var tale om en midlertidig ordning. Vi viser her særlig til Prop. 66 L
-(2013–2014) s. 7, 31, 33 og 37. På s. 37 heter det
-for eksempel:
-«Departementet mener det er en klar fordel dersom det tydelig kommuniseres at dette tillegget
-kun skal gis fram til langsiktige regler er etablert. Departementet legger vekt på at dersom
-det ikke kommuniseres at tillegget er tidsbegrenset, vil et slikt tillegg kunne oppfattes som
-varig av de som får det innvilget, noe som kan
-skape behov for overgangsordninger som løper
-over lang tid. Departementet opprettholder derfor forslaget om at det nye gjenlevendetillegget
-tidsbegrenses for den enkelte til fem år, det vil si
-at en person som får innvilget et slikt tillegg har
-rett til å beholde det i inntil fem år.»
-
-[Side 127]
-
-2020–2021
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-Behandlingen i Stortinget endret ikke dette inntrykket, sml. Innst. 289 L (2013–2014) s. 12.
-I brev 26. april 2017 fra ASD er det opplyst at
-«det var forutsatt at den individuelle tidsbegrensningen skulle komme frem av vedtaket», men at
-det ved en feil ikke har skjedd, og at dette skal rettes opp i løpet av høsten 2017. Vi kan ikke se at
-denne feilen kan ha avgjørende betydning for
-grunnlovsvurderingen.
-Etter vårt syn er dette i seg selv tilstrekkelig til
-å begrunne at det ikke kan bli spørsmål om
-grunnlovsstrid etter Grunnloven § 97. Det gjelder
-uansett om de ytelsene som i dag er innvilget, kan
-ha stort omfang (i ASDs brev 6. juli 2016 nevnes
-ett tilfelle av innvilget årlig tillegg på kr 126 000).
-Konklusjonen er at en slik avvikling/utfasing
-av ordningen med gjenlevendetillegg til uføretrygd etter ftrl. § 12-18 som beskrevet foran ikke
-innebærer «klart urimelig eller urettferdig» tilbakevirkning. Endringen er dermed forenlig med
-Grunnloven § 97.
-Det kan dermed heller ikke bli spørsmål om
-grunnlovsstrid for tilfeller der tillegg etter ftrl.
-§ 12-18 ikke er innvilget på tidspunktet for en
-eventuell lovendring som skissert.
-
-5.4
-
-Utfasing av dagens etterlattepensjon
-til gjenlevende ektefelle under 67 år
-(folketrygdloven kapittel 17)
-
-5.4.1
-Innledning
-Spørsmålet er om den endringen i folketrygdens
-regler om etterlattepensjon som utvalget foreslår,
-kan vedtas uten hinder av Grunnloven § 97. Avgjørende er om det inngrepet som skjer i bestående
-rettsposisjoner, innebærer «klart urimelig eller
-urettferdig» tilbakevirkning. Spørsmålet må løses
-med utgangspunkt i de retningslinjene som er
-oppstilt i punkt 4.
-Dagens regler er beskrevet i ASDs brev 18.
-mai 2017 punkt 2 (s. 2–4), som er gjengitt i punkt
-2.3 foran. Vi viser også til NOU 2017: 3 punkt 6.2.1
-(s. 73). Den endringen som utvalget foreslår, er
-beskrevet i ASDs brev punkt 3 (s. 4–5). Vi viser
-også til sammenfatningen i brevet s. 15, gjengitt
-foran i punkt 3.3.
-5.4.2
-
-Personer som på lovendringstidspunktet
-ikke oppfyller vilkårene for rett til
-etterlattepensjon
-Vi vurderer først stillingen til personer som på lovendringstidspunktet (2020) ikke oppfyller vilkårene for rett til etterlattepensjon.
-
-125
-
-Utvalget foreslår at personer som er født i 1960
-eller tidligere, og som ikke har hatt inntekt over to
-ganger grunnbeløpet de siste fem årene, skjermes
-gjennom en særlig overgangsordning. Personer i
-denne gruppen vil etter utvalgets forslag ha krav
-på ytelser (etter ny ordning) og at ytelsen løper
-frem til 67 år, det vil si uten den tidsbegrensningen som generelt er foreslått. For denne gruppen
-oppstår ikke noen grunnlovsproblemer.
-Grunnlovsspørsmålet dreier seg dermed om
-personer som på tidspunktet for lovendringen er
-yngre enn 60 år, samt personer som er 60 år eller
-eldre, men som samtidig har hatt årlig inntekt
-over to ganger grunnbeløpet de siste fem årene.
-ASD mener at ordningen går klar av Grunnloven § 97, og bygger standpunktet generelt på at
-den som ennå ikke har etablert en rettsposisjon
-som etterlatt, heller ikke kan ha noen vernet posisjon etter grunnlovsbestemmelsen. Det stilles riktignok spørsmål «om det er grunn til å være like
-kategorisk overfor eldre ektepar som har innrettet seg etter et mer tradisjonelt kjønnsrollemønster med én hovedforsørger (mannen), og som
-ville fylt vilkårene for rett til etterlattepensjon dersom ektefellen faller fra på endringstidspunktet».
-For de sistnevnte tilfellene nøyer ASD seg med å
-vise til at at de skisserte overgangsreglene vil
-bidra til rimelige resultater.
-Vi finner ikke grunn til å innta noe generelt
-standpunkt lik det ASD bygger på (om at den som
-ennå ikke har etablert en rettsposisjon som etterlatt, heller ikke kan ha noen vernet posisjon etter
-Grunnloven § 97). Vi nøyer oss i stedet med å
-slutte oss til ASDs konklusjon om at endringen
-går klar av Grunnloven § 97, og bygger standpunktet på følgende:
-Som utgangspunkt er grunnlovsvernet for
-etterlatteytelsene i folketrygdloven relativt svakt.
-Vi viser til gjennomgåelsen i punkt 4 foran.
-Det er her tale om personer som ennå ikke er
-kommet i posisjon til å motta pensjon. Den innrettelsen som ligger i at ytelser allerede løper, og
-som eventuelt kan gi et særlig grunnlag for vern
-mot endringer, foreligger ikke. Selv om vi ikke finner det nødvendig å ta noe generelt standpunkt til
-om grunnlovsvern er avskåret, basert på at status
-som etterlatt ikke er nådd, vil fravær av slik status
-i det minste være et meget tungtveiende argument mot at det foreligger grunnlovsstrid. Vi legger i den samlede vurderingen vekt på hvilke rettigheter det her dreier seg om, at preget av tilbakevirkning er beskjedent, at lovgiver har saklige
-grunner for omlegningen av hele ordningen med
-etterlatteytelser sett i lys av samfunnsutviklingen,
-at en omlegning dersom det først besluttes også
-
-[Side 128]
-
-126
-
-Prop. 13 L
-Endringer i folketrygdloven (nye etterlatteytelser)
-
-bør omfatte flest mulig både ut fra likhetshensyn
-og for at innsparingseffekten bør oppnås raskest
-mulig. For personer i den gruppen det her er tale
-om, vil det også foreligge visse muligheter for å tilpasse seg den endrede situasjonen gjennom å
-skaffe seg alternative inntekter.
-Det er ikke i seg selv urimelig å ha forventning
-til aktivitet og at det skal gi grunnlag for inntekter
-til livsopphold. Det dreier seg om personer i en
-aldersgruppe som generelt forventes å være yrkesaktive. Det må dessuten ha vesentlig vekt at det
-legges opp til en omstillingsperiode på inntil fem
-år, der ytelsen i omstillingsperioden er på et sammenlignbart nivå med det en i dag ville mottatt.
-Skjermingsordningen (for personer som på
-lovendringstidspunktet er 60 år) er utarbeidet slik
-at den ivaretar dem som i minst grad har mulighet
-for å tilpasse seg, og som dessuten i størst grad
-må antas å ha innrettet seg etter gjeldende regelverk.
-Det kan stilles spørsmål om også noe yngre
-årskull burde vært skjermet, men etter vårt syn
-ligger det innenfor den politiske handlefriheten å
-trekke grensen slik utvalget her har gjort (jf. for
-så vidt Rt. 2006 s. 262 avsnitt 100).
-Etter vårt syn er den skisserte overgangsordningen tilstrekkelig til at endringen ikke vil
-komme i konflikt med Grunnloven § 97. Løsningen innebærer ikke «klart urimelig eller urettferdig» tilbakevirkning. Det gjelder selv om det for
-en del personer vil være tale om at en ikke får
-ytelser i fremtiden som kunne ha meget betydelig
-omfang.
-
-5.4.3
-
-Personer som på lovendringstidspunktet
-oppfyller vilkårene for etterlattepensjon
-
-Vi vurderer så spørsmålet om grunnlovsvernet for
-personer som på lovendringstidspunktet oppfyller vilkårene for etterlattepensjon (personer som
-mottar løpende ytelser). Her er vurderingen til
-dels vanskeligere.
-For en gruppe oppstår ikke noe grunnlovsproblem: Personer som er født i 1960 eller tidligere,
-og som ikke har hatt inntekt over to ganger
-grunnbeløpet de siste fem årene, skjermes gjennom en særlig overgangsordning. Deres ytelser
-forblir varige etter samme prinsipp som i dag (det
-vil si frem til 67 år). Disse personene vil i praksis
-få videreført sine ytelser «på om lag samme nivå
-som dagens ytelse» (jf. ASDs brev 18. mai 2017 s.
-15). I brevet på s. 5 gis det et par eksempler på
-hvordan reglene vil kunne slå ut (for etterlatte
-med årlig arbeidsinntekt på henholdsvis 100 000
-og 185 000 kroner). Eksemplene viser at det kan
-
-2020–2021
-
-bli tale om reduserte årlige ytelser, men det er tale
-om en relativt beskjeden reduksjon som går klar
-av Grunnloven § 97. At deres ytelser konverteres
-til en ytelse beregnet etter nye regler, er uten
-betydning for grunnlovsvurderingen.
-Spørsmålet er om det oppstår problemer for
-dem som får tidsbegrenset allerede løpende ytelser (i
-praksis inntil fem år). Dette dreier seg om personer som på lovendringstidspunktet i 2020 er yngre
-enn 60 år, eller som er 60 år eller eldre, men har
-hatt årlig inntekt på mer enn to ganger grunnbeløpet de siste fem årene.
-Når det gjelder inngrepets art og omfang, peker
-vi først på at det er spørsmål om totalt bortfall av
-en løpende langtidsytelse til livsopphold som har
-grunnlag i folketrygdloven. Slik sett er det selve
-pensjonsretten som angripes; det er ikke bare tale
-om justeringer i vilkårene for retten eller justering
-av rettens nærmere omfang. Tilfellet her skiller
-seg dermed fra blant annet Rt. 1996 s. 1415 P
-(Borthen), Rt. 1996 s. 1440 P (Thunheim) og HR2016-389-A (stortingspensjon).
-Når det gjelder omfanget av tapet, viser vi til
-fremstillingen i ASDs brev 18. mai 2017 s. 10–12,
-samt brevet s. 3–4, som vi har gjengitt foran i
-punkt 2.3. For gjenlevende som har uavkortet
-ytelse, kan det årlige tapet utgjøre noe i overkant
-av 2,4 ganger grunnbeløpet etter skatt (om lag
-220 000 kroner). Figuren på s. 11 i brevet (også
-inntatt i NOU 2017: 3 s. 80 som figur 6.4) viser
-hvor mange som mottar uavkortet ytelse (både
-andel av dem som mottar ytelse og antallet) innenfor ulike aldersgrupper. For noen få er etterlatteytelsen eneste ytelse til livsopphold.
-Etterlattepensjonen avkortes i dag mot den
-etterlattes inntekt. Etterlattepensjoner vil finnes i
-en hvilken som helst størrelsesorden mellom null
-og det maksimalbeløpet som er nevnt foran (om
-lag 220 000 kroner). For en etterlatt med årsinntekt på 3 ganger grunnbeløpet (om lag 280 000
-kroner) vil etterlattepensjonen før skatt være om
-lag 90 000 kroner. Etterlattepensjonen vil være
-fullt ut avkortet etter dagens regler ved en årsinntekt på 5,5 ganger grunnbeløpet (om lag 550 000
-kroner).
-Vi er ikke kjent med tidligere tilfeller der det
-foreslås helt å avvikle varige ytelser til livsopphold
-av et slikt årlig omfang for den enkelte som det
-kan være tale om. Det er uansett – med sikte på
-slike yttertilfeller – tale om et meget omfattende
-inngrep for den enkelte som rammes, selv tatt i
-betraktning at det skjer med en overgangsperiode
-på tre til fem år. Også for personer som for eksempel har en ytelse på halvparten av det som er
-nevnt foran – 110 000 kroner – er det tale om et
+# Merknader til de enkelte paragrafene i lovforslaget
+
+## Til endringene i folketrygdloven
+
+Til § 12-18
+
+Det følger av gjeldende første ledd at det gis tillegg til uføretrygden etter bestemmelsene i paragrafen for et tidsrom på fem år til en person som også fyller vilkårene for rett til pensjon i §§ 17-3 og 17-4, og enten § 17-5 eller § 17-10. Ettersom det ikke skal innvilges nye tillegg etter ikraftsettingen av denne loven, endres *første ledd*, og den gis nytt innhold. Det går nå fram av første ledd at innvilgede tillegg skal videreføres, men ikke reguleres etter de alminnelige reglene om årlig regulering av pensjoner. Tillegget vil dermed bli holdt nominelt uendret fra ikraftsettingstidspunktet.
+
+Gjeldende bestemmelser om beregning av tillegget i § 12-18 andre til sjette ledd kan oppheves, da det ikke lenger skal beregnes nye tillegg. Det samme gjelder nåværende åttende ledd om regulering, ettersom tillegget skal holdes nominelt uendret.
+
+I *andre ledd* videreføres gjeldende § 12-18 sjuende ledd.
+
+*Tredje ledd* er en videreføring av § 12-18 niende ledd, og det er foretatt en presisering ved å henvise til § 1-5.
+
+Det vises til punkt 6.5.3.
+
+Til § 17-1
+
+Formålsbestemmelsen er utformet annerledes enn gjeldende § 17-1. Hensikten er å tydeliggjøre at den nye ytelsen, utover å sikre inntekt, skal bidra til at gjenlevende ektefeller og tidligere familiepleiere etter en omstillingsperiode kan bli i stand til å forsørge seg selv ved eget arbeid.
+
+Tilføyelsen av andre ledd har sammenheng med opphevelsen av folketrygdloven kapittel 16 og er hovedsakelig en videreføring av gjeldende § 16-1.
+
+Det vises til punkt 3.5.2 og punkt 3.5.5.6.
+
+Til § 17-2
+
+Vilkår om forutgående medlemskap i folketrygden flyttes fra nåværende § 17-3. Det er gjort noen språklige tilpasninger, samt at den allerede vedtatte endringen i kravet om varighet av forutgående medlemskap fra tre til fem år, kommer fram av lovteksten.
+
+Det vises til punkt 1.3.1 og 3.5.6.2.
+
+Til § 17-3
+
+Vilkår om fortsatt medlemskap i folketrygden for å ha rett til ytelser etter kapittel 17, er flyttet fra nåværende § 17-4. Bestemmelsen er i hovedsak videreført, men er tilpasset endringene som er gjort i ytelsene.
+
+Det vises til punkt 3.5.6.2.
+
+Til § 17-4
+
+Paragrafen fastsetter i *første ledd* at det er et vilkår for rett til ytelser etter kapitlet at den gjenlevende på tidspunktet for dødsfallet a) var gift med den avdøde og ekteskapet hadde vart i minst fem år, b) har eller har hatt barn med den avdøde eller c) har omsorg for barn under 18 år med minst halvparten av full tid.
+
+Etter første ledd bokstavene b og c gis det rett til ytelser for tilfeller der ekteskapet har vart i mindre enn fem år, eller for samboere, jf. folketrygdloven § 1-5. For at samboere skal ha rett til ytelser etter disse alternativene, er det en forutsetning at den gjenlevende var samboer med den avdøde på tidspunktet for dødsfallet.
+
+*Andre ledd* gjelder retten til ytelse til fraskilt person. I disse tilfellene må den gjenlevende helt eller i det vesentlige ha vært forsørget av bidrag fra avdøde. Det er en forutsetning at den gjenlevende ikke har giftet seg igjen, og at ekteskapet varte minst 25 år, eller minst 15 år dersom ektefellene hadde barn sammen.
+
+Bestemmelsens første ledd har sin parallell i dagens § 17-5. Vilkårene er endret noe. Dagens regler gir rett til ytelse dersom den gjenlevende a) var gift med den avdøde i minst fem år eller b) har eller har hatt barn med sin avdøde ektefelle eller c) hadde omsorgen for den avdødes barn på dødsfallstidspunktet forutsatt at ekteskapet og omsorgen for barnet etter dødsfallet til sammen varte i minst fem år. Andre ledd om fraskiltes rett til ytelse har sin parallell i dagens § 17-10.
+
+Det vises til punkt 3.5.5.
+
+Til § 17-5
+
+Bestemmelsen angir varigheten for omstillingsstønaden.
+
+Etter *første ledd* ytes omstillingsstønaden i inntil tre år etter dødsfallet når den gjenlevende fyller vilkårene for rett til ytelser etter § 17-4.
+
+Etter *andre ledd* kan stønadsperioden utvides med inntil to år når den gjenlevende er under nødvendig og hensiktsmessig utdanning, eller har behov for tiltak for å komme i arbeid.
+
+Etter *tredje ledd* gjøres det unntak fra tidsbegrensningen for gjenlevende som er født i 1962 eller tidligere. For denne gruppen kan stønaden utbetales til den gjenlevende fyller 67 år, selv om det utvider stønadsperioden på tre år. Det er et vilkår for rett til utvidet stønadsperiode at den gjenlevende ikke har hatt en årlig arbeidsinntekt over to ganger grunnbeløpet i gjennomsnitt de siste fem årene før dødsfallet, og i tillegg ikke har hatt en arbeidsinntekt over tre ganger grunnbeløpet i hvert av de to siste årene før dødsfallet.
+
+Det vises til punkt 3.5.2 og 3.5.7.2.
+
+Til § 17-6
+
+Paragrafen har regler om omstillingsstønadens størrelse. Full årlig omstillingsstønad utgjør 2,25 ganger grunnbeløpet og gis dersom den avdøde hadde minst 40 års trygdetid etter bestemmelsene i §§ 3-5 og 3-7. Dersom trygdetiden er kortere, reduseres omstillingsstønaden forholdsmessig. Bestemmelsen innebærer en endring av gjeldende beregningsmåte i § 17-7, der både retten til etterlattepensjon og nivået på ytelsen er avledet av den avdødes tilknytning til og opptjening i folketrygden.
+
+Det vises til punkt 3.5.3.1.
+
+Til § 17-7
+
+Bestemmelsen har regler om aktivitetsplikt som vilkår for å motta omstillingsstønad. Hensikten er at den gjenlevende skal stimuleres til å innrette seg mot arbeidslivet eller mot å øke sin yrkesdeltakelse. Reglene har sin parallell i dagens § 17-8 om forventet arbeidsinntekt.
+
+Etter *første ledd* er det etter en overgangsperiode på seks måneder etter dødsfallet et vilkår for rett til omstillingsstønad at den gjenlevende enten a) er i arbeid som utgjør minst halvparten av full tid, b) har meldt seg til arbeids- og velferdsetaten som reell arbeidssøker, c) gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at medlemmet skal kunne få eller beholde et arbeid, eller d) etablerer egen virksomhet. Utformingen av aktivitetskravet tilsvarer i hovedsak aktivitetskravet som gjelder for enslige forsørgere etter folketrygdloven kapittel 15, jf. § 15-6.
+
+Overgangsperioden på seks måneder er en endring sett i forhold til dagens regelverk der det første året etter dødsfallet anses som en omstillingstid hvor etterlattepensjonen ikke avkortes for høyere inntekt enn den etterlatte faktisk har i perioden.
+
+Etter *andre ledd* skal arbeids- og velferdsetaten etter behov innkalle den etterlatte til samtaler for å vurdere oppfølging og behov for tiltak.
+
+Etter *tredje ledd* kan det fra ett år etter dødsfallet stilles krav om at den gjenlevende er i arbeid eller arbeidsrettet aktivitet slik det framgår etter første ledd på full tid.
+
+*Fjerde ledd* har en forskriftshjemmel der departementet gis anledning til å gi forskrifter om kravene til aktivitet etter denne paragrafen, herunder unntak fra aktivitetskravet, hvilken utdanning som kan godkjennes, kravet om å være reell arbeidssøker og hvilke krav som kan stilles for å dokumentere at vilkårene er oppfylt.
+
+Det vises til punkt 3.5.4.
+
+Til § 17-8
+
+Bestemmelsen har regler om sanksjon for tilfeller der den gjenlevende ikke oppfyller aktivitetsplikten som framgår av § 17-7. Utformingen av bestemmelsen har tatt utgangspunkt i tilsvarende regler for mottakere av overgangsstønad for enslige forsørgere, jf. § 15-12.
+
+*Første ledd* tydeliggjør at dersom den gjenlevende ikke oppfyller aktivitetskravet i § 17-7, stanses omstillingsstønaden inntil vilkårene igjen er oppfylt.
+
+Etter *andre ledd* faller omstillingsstønaden bort én måned når den gjenlevende uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til arbeids- og velferdsetaten.
+
+Etter *tredje ledd* kan den gjenlevende utestenges fra rett til stønad i inntil tre måneder første gang og inntil seks måneder ved gjentakelser dersom vedkommende har gitt uriktige opplysninger om forhold som har betydning for retten til ytelser, og han eller hun var klar over eller burde vært klar over dette. Det samme gjelder dersom den gjenlevende har unnlatt å gi opplysninger om betydning for retten til ytelser.
+
+*Fjerde ledd* gir hjemmel for departementet til å gi forskrifter om gjennomføring av sanksjoner etter paragrafen, utestengningsperiodens varighet og opphør av ytelse ved langvarig manglende aktivitet.
+
+Det vises til punkt 3.5.4.3.
+
+Til § 17-9
+
+Etter bestemmelsen skal omstillingsstønaden reduseres på grunnlag av arbeidsinntekt. Reglene erstatter nåværende § 17-8. Det framgår av den nye bestemmelsen at stønaden skal reduseres når arbeidsinntekten på årsbasis overstiger halvparten av grunnbeløpet. Ytelsen skal da reduseres med 45 prosent av inntekten som overstiger denne inntektsgrensen. Dersom arbeidsinntekten er lavere enn halvparten av grunnbeløpet, skal det ikke skje noen reduksjon.
+
+Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11, svangerskapspenger og foreldrepenger etter kapittel 14 og pensjonsytelser etter AFP-tilskottsloven kapitlene 2 og 3. Ved gradert uførhet blir uføretrygd etter kapittel 12 likestilt med arbeidsinntekt.
+
+Reglene innebærer en endring av dagens avkortingsregler. Dagens etterlattepensjon avkortes mot arbeidsinntekt som den gjenlevende har eller kan forventes å få. Pensjonen reduseres med 40 prosent av inntekt som overstiger halvparten av grunnbeløpet. Regelen om at uføretrygd likestilles med arbeidsinntekt for gradert uføre, innebærer også en endring.
+
+*Fjerde ledd* gir hjemmel for departementet til å gi forskrifter om detaljer rundt reduksjon av stønad etter denne paragrafen, herunder om innhenting og dokumentasjon av arbeidsinntekt og hvordan avkorting skal gjennomføres når det gis omstillingsstønad samtidig med andre ytelser etter folketrygdloven. Departementet antar at dette kan være særlig aktuelt dersom den gjenlevende mottar andre ytelser etter loven som også skal avkortes mot arbeidsinntekt.
+
+Det vises til punkt 3.5.3.2.
+
+Til § 17-10
+
+Paragrafen gir bestemmelser om stønad til barnetilsyn, tilleggsstønader, stønader til skolepenger m.m. Bestemmelsen er en videreføring av dagens § 17-9. Siden gjenlevende med omsorg for barn etter § 17-4 første ledd bokstav c har rett til omstillingsstønad, uavhengig av om barnet var den avdødes barn eller den gjenlevendes særkullsbarn, gis det stønad etter § 17-10 for barn som blir forsørget av den gjenlevende.
+
+Det vises til punkt 3.5.6.4.
+
+Til § 17-11
+
+Paragrafen supplerer § 17-5 om varigheten for omstillingsstønaden. § 17-11 gjelder bortfall av ytelser etter kapittel 17 når gjenlevende fyller 67 år eller tar ut andre pensjonsytelser. Bestemmelsen har en parallell i dagens § 17-11.
+
+Etter *første ledd* faller retten til ytelser etter kapittel 17 bort når den gjenlevende a) fyller 67 år eller tar ut alderspensjon etter loven her, b) får rett til uføretrygd for full uførhet, c) mottar avtalefestet pensjon fra en offentlig pensjonsordning eller avtalefestet pensjon etter AFP-tilskottsloven kapittel 4 eller d) gifter seg igjen. Ved alternativ d er det henvist til folketrygdloven § 1-5, som en presisering av at lovens bestemmelser om ektefeller også gjelder for visse samboerpar. Dersom den gjenlevende flytter sammen med en person vedkommende har eller har hatt felles barn med eller tidligere har vært gift med eller dersom den gjenlevende får barn med ny samboer, medfører dette altså også at retten til ytelser etter kapittel 17 faller bort. Bortfallsgrunnene er de samme som i någjeldende § 17-11 første og andre ledd.
+
+*Andre ledd* er en tilpasning av dagens bestemmelser i tredje og fjerde ledd i § 17-11 om ny rett til ytelser som følge av at nytt ekteskap oppløses ved skilsmisse eller den nye ektefellen dør. Etter den nye bestemmelsen er det bare gjenlevende som er omfattet av unntaket fra tidsbegrensningen etter § 17-5 tredje ledd som skal kunne få tilbake omstillingsstønaden dersom det nye ekteskapet blir oppløst ved skilsmisse før det er gått to år, eller ektefellen dør. Det vil si gjenlevende som er først i 1962 eller tidligere, og som i tillegg oppfyller inntektskravende som oppstilles i § 17-5 tredje ledd.
+
+Det vises til punkt 3.5.6.5 og 3.5.7.5.
+
+Til § 17-12
+
+Paragrafen omhandler spesielle bestemmelser når dødsfallet skyldes yrkesskade. De spesielle bestemmelsene gjelder både vilkår for rett til ytelser og beregning av ytelser.
+
+De spesielle regler som gjelder når dødsfallet skyldes yrkesskade er følgende:
+
+- Kravene om medlemskap i §§ 17-2 og 17-3 gjelder ikke. Det er nok at den avdøde var medlem på dødstidspunktet.
+
+- Det stilles ingen krav til ekteskapets varighet, jf. § 17-5.
+
+- Ytelsene beregnes etter særskilte regler, jf. andre ledd.
+
+Siden gjenlevende med omsorg for barn gis rett til omstillingsstønad etter § 17-4, er det ikke nødvendig å videreføre dagens unntaksregel i § 17-12 første ledd bokstav c om at vilkåret i gjeldende § 17-5 om barn ikke gjelder. Tilsvarende er det ikke nødvendig å videreføre gjeldende § 17-12 andre ledd.
+
+Det vises til punkt 3.5.6.6.
+
+Til § 17-13
+
+Paragrafen gir regler om reduksjon av ytelser etter kapittel 17 under opphold i institusjon med fri kost og losji under statlig ansvar eller tilsvarende institusjon i utlandet. Bestemmelsen er en videreføring av nåværende § 17-13.
+
+Det vises til punkt 3.5.6.5.
+
+Til § 17-14
+
+Paragrafen bestemmer hvordan ytelsene etter kapittel 17 påvirkes av straffegjennomføring. Bestemmelsen er en videreføring av nåværende § 17-14.
+
+Det vises til punkt 3.5.6.5.
+
+Til § 17-15
+
+I § 17-15 innføres regler om ytelser til tidligere familiepleier. Reglene erstatter dagens regler i folketrygdloven kapittel 16.
+
+Det er i dag få personer som er familiepleiere. Disse kan ha tilsvarende behov for inntektssikring i en omstillingsperiode etter at pleieforholdet er opphørt som en etterlatt ektefelle eller samboer. Ytelse til tidligere familiepleier foreslås gitt som en tidsbegrenset omstillingsytelse med vilkår om aktivitetsplikt slik det generelle vilkåret er. Vilkåret om at pleieforholdet skal ha vart i minst fem år, opprettholdes også som vilkår for at det skal foreligge rett til ny omstillingsstønad.
+
+Det vises til punkt 3.5.5.6.
+
+Til nytt kapittel 17 A
+
+Ettersom de fleste som mottar en ytelse etter kapittel 17 når loven trer i kraft, vil beholde denne ytelsen i en overgangsperiode, finner departementet det hensiktsmessig å gi et nytt kapittel 17 A i folketrygdloven. Det er behov for å videreføre en rekke av dagens bestemmelser som gjelder denne ytelsen.
+
+Det vises til punkt 3.5.7.
+
+Til § 17 A-1
+
+Paragrafen angir anvendelsesområdet for kapitlet. Kapitlet skal gjelde for de som har pensjon etter kapitlene 16 eller 17, eller overgangsstønad etter kapittel 17 og har omsorg for barn på det tidspunktet de nye reglene trer i kraft.
+
+Det vises til punkt 3.5.7.3 og 3.5.7.4.
+
+Til § 17 A-2
+
+Paragrafen gir bestemmelser om fortsatt medlemskap i folketrygden for rett til ytelser etter kapittel 17 A. Reglene viderefører i hovedsak gjeldende § 17-4 (ny § 17-3).
+
+Det vises til punkt 3.5.7.3.
+
+Til § 17 A-3
+
+Paragrafen gir bestemmelser om stønadsperioden, og er ny sammenlignet med gjeldende rett i folketrygdloven kapittel 17. I *første ledd* gis det tilsvarende regler som gjelder for den nye omstillingsstønaden i kapittel 17. Det innebærer at pensjonen eller overgangsstønaden beholdes i tre år fra det tidspunktet lovendringen trer i kraft. Stønadsperioden kan utvides med inntil to år når den gjenlevende er under nødvendig og hensiktsmessig utdanning, eller har behov for tiltak for å komme i arbeid.
+
+*Andre ledd* utvider stønadsperioden ytterligere for gjenlevende som er født i 1969 eller tidligere. Disse kan få ytelsen utbetalt til de fyller 67 år. Det er et vilkår for rett til utvidet stønadsperiode at den gjenlevende ikke har hatt en årlig arbeidsinntekt over to ganger grunnbeløpet i gjennomsnitt de siste fem årene før lovendringen trer i kraft. I tillegg må arbeidsinntekten ikke ha oversteget tre ganger grunnbeløpet i hvert av de to siste årene før lovendringen trer i kraft. Inntektsgrensen for unntaket tilsvarer regelen i ny § 17-5 tredje ledd.
+
+Det vises til punkt 3.5.7.3.
+
+Til § 17 A-4
+
+Det går fram av paragrafen at for de som er født i 1969 eller tidligere, jf. § 17 A-3 andre ledd, skal ytelsen regnes om etter en periode på fem år etter at lovendringen trådte i kraft. Ytelsen skal da beregnes som en omstillingsstønad etter nye regler i § 17-6. Selv om ytelsen skal regnes om, vil ytelsen for øvrig bli regulert i kapittel 17 A.
+
+Det vises til punkt 3.5.7.3.
+
+Til § 17 A-5
+
+Bestemmelsene i denne paragrafen omhandler bortfall av pensjon eller overgangsstønad. *Første ledd* er i hovedsak en videreføring av gjeldende § 17-11 første og andre ledd.
+
+*Andre ledd* er en videreføring av gjeldende § 17-11 tredje og fjerde ledd for gjenlevende som etter § 17 A-3 andre ledd har fått unntak fra tidsbegrensningen.
+
+Bestemmelsene tilsvarer bortfallsreglene for ytelser etter kapittel 17, og det vises til merknadene til § 17-11 og til punkt 3.5.7.3.
+
+Til § 17 A-6
+
+I paragrafen videreføres gjeldende regler om reduksjon på grunn av inntekt i § 17-8. Dette er hensiktsmessig siden løpende ytelser skal videreføres og skattebegrensningsreglene inntil videre skal beholdes. Ved gradert uførhet blir uføretrygd etter kapittel 12 likestilt med arbeidsinntekt.
+
+Det vises til punkt 3.5.7.3.
+
+Til §§ 17 A-7 og 17 A-8
+
+Gjeldende rett om ytelser til gjenlevende ektefelle under opphold i institusjon og under straffegjennomføring i §§ 17-13 og 17-14 videreføres. Lovteknisk gjøres dette ved at paragrafene viser til de tilsvarende bestemmelsene i nytt kapittel 17.
+
+Det vises til punkt 3.5.7.3.
+
+Til § 18-3
+
+Paragrafen har regler om fortsatt medlemskap og eksport av barnepensjon.
+
+*Første ledd* er en videreføring av hovedregelen om at barnet må være medlem av trygden for å ha rett til pensjon. Departementet foreslår i punkt 4.6.1 at formuleringen «fortsatt» ikke videreføres.
+
+Reglene i *andre ledd* videreføres, men departementet foreslår en endring i ordlyden i andre ledd *bokstav b* etter innføring av ny alderspensjon i kapittel 20. Barnepensjon kan eksporteres både på grunnlag av opptjent tilleggspensjon og inntektspensjon, men det er en forutsetning for eksport at avdøde for samme nivå på pensjonsopptjening ville hatt rett til tilleggspensjon etter kapittel 19, jf. kap. 3. Se punkt 4.6.2.
+
+Bestemmelsen i andre alternativ gjelder eksport av tilleggspensjon på grunnlag av bestemmelsene for unge uføre i § 3-22 og § 12-3 tredje ledd. Bestemmelsen vil ikke lenger være relevant i lys av departementets forslag om at barnepensjon skal utgjøre faste satser av grunnbeløpet, og departementet foreslår på denne bakgrunn at bestemmelsen oppheves, se punkt 4.5.2 og 4.5.3.
+
+Til § 18-4
+
+Paragrafen gir regler om lengden på stønadsperioden og barnets alder. Paragrafen er noe omarbeidet sammenliknet med gjeldende regler. Det går klart fram av kapittelets øvrige regler at det er en forutsetning for rett til barnepensjon at en av eller begge foreldrene er døde. Presiseringen i første ledd videreføres derfor ikke. Videre fjernes henvisningen til reglene i § 17-2 om forsvunnet ektefelle. Etter § 17-2 har en person rett til ytelser i samme utstrekning som en gjenlevende ektefelle​ dersom vedkommendes ektefelle er forsvunnet og det er avsagt kjennelse eller dom for at han eller hun formodes å være død, jf. lov 12. mai 2015 nr. 27 om forsvunne personar kapittel 3. Sistnevnte lov inneholder generelle regler, og kommer til anvendelse selv uten henvisning i folketrygdlovens regler om barnepensjon.
+
+*Første ledd* er en videreføring av hovedregelen i gjeldende andre ledd om at barnepensjonen gis inntil barnet fyller 18 år. I *andre ledd* videreføres bestemmelsen i gjeldende tredje ledd om at pensjon kan gis inntil barnet fyller 20 år dersom barnet er under utdanning på full tid og begge foreldrene er døde. Forslaget innebærer ingen realitetsendring, men departementet foreslår en forenkling og språklig oppdatering av ordlyden.
+
+Gjeldende regler om inntektsprøving for praktikanter og lærlinger i bestemmelsens tredje ledd andre punktum videreføres ikke, slik at reglene blir generelle for alle under utdanning, se punkt 4.6.4. I gjeldende tredje ledd tredje punktum er det gitt en særregel når barnepensjonen er gitt etter bestemmelsen i § 18-5 fjerde ledd, når mor er død og farskapet ikke er fastslått. Departementet foreslår at det materielle innholdet i bestemmelsen videreføres i § 18-4 andre ledd *andre punktum*. Ordlyden er oppdatert i henhold til departementets utforming av ny § 18-5 tredje ledd, se punkt 4.6.3.
+
+I nytt *tredje ledd* gis det en forskriftshjemmel slik at det kan gis nærmere regler om hvilken utdanning som godkjennes. Arbeids- og velferdsdirektoratet har i rundskriv til gjeldende bestemmelser gitt nærmere regler om begrepet utdanning.
+
+Det vises til punkt 4.6.4.
+
+Til § 18-5
+
+Paragrafen gir regler om beregning av barnepensjon. *Første ledd* regulerer tilfellene der én forelder er død. Første ledd *første punktum* slår fast at den årlige pensjonen skal utgjøre 0,5 ganger grunnbeløpet for hvert barn. Første ledd *andre* og *tredje punktum* bestemmer at pensjonen skal beregnes med avdødes trygdetid og reduseres forholdsmessig dersom avdødes trygdetid var kortere enn 40 år. Fra 1. januar 1993 er ytelser til gjenlevende ektefelle og barn fullt ut avledet av avdødes medlemskap og opptjening, jf. Ot.prp. nr. 99 (1991–1992). Før dette kunne gjenlevendes eget trygdeforhold legges til grunn både ved tilståelse og beregning av etterlattepensjon og barnepensjon. Endringen kom ikke direkte til uttrykk i reglene om beregning av barnepensjon når én av foreldrene er døde. Slik bestemmelsen lyder i dag skal barnepensjonen reduseres dersom den gjenlevende forelderen får eller ville ha fått redusert pensjon på grunn av manglende trygdetid. For å tydeliggjøre at det kun er avdødes trygdetid som skal legges til grunn ved beregning av barnepensjon, foreslår departementet at dette skal følge direkte av ordlyden. Forslaget er en språklig presisering og innebærer ingen realitetsendring sammenliknet med dagens regler.
+
+*Andre ledd* gir regler om beregning av barnepensjon når begge foreldre er døde. Andre ledd *første punktum* slår fast at den årlige pensjonen skal utgjøre 1,2 ganger grunnbeløpet for hvert barn, se punkt 4.5.3.1. Andre ledd *andre punktum* er en særregel som bare kommer til anvendelse dersom det ved tidspunktet for den andre forelderens død bare er ett barn som har rett til barnepensjon etter noen av de avdøde foreldrene. I slike tilfeller skal den årlige pensjonen utgjøre 2,25 ganger grunnbeløpet. Dette innebærer en endring i forhold til gjeldende rett, ved at det yngste barnet i en søskenflokk ikke vil få en høyere barnepensjon når eldre søsken ikke lenger fyller vilkårene for rett til barnepensjon. Det er videre en endring at pensjonen ikke skal beregnes særskilt dersom avdøde etterlater seg flere barnekull, se punkt 4.5.3.2. Andre ledd *tredje punktum* bestemmer at pensjonen skal beregnes med avdødes trygdetid og reduseres forholdsmessig dersom trygdetiden var kortere enn 40 år. Andre ledd *tredje punktum* bestemmer at pensjonen skal beregnes med avdødes trygdetid, og reduseres forholdsmessig dersom trygdetiden var kortere enn 40 år. Dette er en presisering og medfører ingen endring av gjeldende rett.
+
+*Tredje ledd* gir regler om beregning av barnepensjon der det er fastsatt juridisk foreldreskap for kun én forelder etter barnelova kapittel 2, og denne forelderen er død. Barnepensjonen skal da fastsettes etter andre ledd, se punkt 4.6.3.
+
+*Fjerde ledd* gir regler om beregning av pensjon på grunnlag av bestemmelsen i § 18-3 andre ledd bokstav b. Fjerde ledd er en videreføring av gjeldende § 18-5 tredje ledd, men ordlyden er noe endret som følge av innføring av ny alderspensjon i kapittel 20, se punkt 4.6.2.
+
+I lys av forslaget om at at pensjon gis med fast sats til hvert barn, oppheves gjeldende § 18-5 femte, sjette og sjuende ledd, se punkt 4.5.2 og 4.5.3.
+
+Til § 18-6
+
+Paragrafen gir regler om bortfall og reduksjon av barnepensjon ved adopsjon. Bestemmelsene er flyttet fra gjeldende § 18-7 første ledd og er en videreføring av gjeldende rett. Gjeldende § 18-6 oppheves.
+
+Til § 18-7
+
+Paragrafen viderefører bestemmelsen i gjeldende § 18-7 andre ledd om at barnepensjonen faller bort i den utstrekning barnet har rett til uføretrygd fra folketrygden. Dette innebærer at barnepensjonen skal reduseres krone for krone mot uføretrygd som barnet mottar.
+
+Til § 18-8
+
+Paragrafen er en videreføring av gjeldende bestemmelser om barnepensjon under opphold i institusjon. Formuleringen i fjerde ledd første punktum «dersom barnet har mistet begge foreldrene» foreslås endret til «dersom barnet er foreldreløst». Presiseringen har sammenheng med departementets utforming av ny bestemmelse i § 18-5 tredje ledd for beregning av barnepensjon når barnet bare har hatt én juridisk forelder, se punkt 4.6.3. Barn som mottar barnepensjon etter ny bestemmelse i § 18-5 tredje ledd er i juridisk forstand foreldreløse, det vil si at det ikke finnes noen gjenlevende forelder som har foreldreansvar for barnet etter reglene i barneloven kapittel 2. Når det gjelder retten til og beregning av barnepensjon skal disse barna i alle tilfeller likestilles med barn som mottar barnepensjon etter § 18-5 andre ledd. På denne bakgrunn er det ikke nødvendig å videreføre bestemmelsen i § 18-8 fjerde ledd andre punktum. Barn som mottar barnepensjon etter § 18-5 nytt tredje ledd er juridisk sett foreldreløse, og vil omfattes av hovedregelen i første punktum.
+
+Det vises til punkt 4.5.7.
+
+Til § 18-10
+
+Gjeldende særbestemmelser ved dødsfall som skyldes yrkesskade i § 18-11 er flyttet.
+
+Bestemmelsens *bokstav* *a*, *b* og *c* er en videreføring av gjeldende rett.
+
+Departementet foreslår at de ordinære aldersgrensene for barnepensjon skal gjelde når dødsfallet skyldes en yrkesskade. Bestemmelsene i bokstav d og e som gir barnet rett til å motta barnepensjon inntil fylte 21 år, videreføres ikke.
+
+Det vises til punkt 4.5.5.2.
+
+Til § 19-2 andre ledd bokstav b
+
+Endringene er en oppdatering av paragrafhenvisninger, ettersom gjeldende bestemmelse om medlemskap og vilkår for rett til alderspensjon til gjenlevende ektefelle flyttes fra kapittel 17 og inkorporeres i kapittel 19.
+
+Til § 19-2 a
+
+Den nye paragrafen gir bestemmelse om krav til forutgående medlemskap for å ha rett til pensjon beregnet etter § 19-16. Paragrafen viderefører i hovedsak gjeldende § 17-3. I tillegg er det foretatt en systematisering, slik at paragrafen får en noe annen utforming.
+
+I *første ledd* *bokstav a* videreføres § 17-3 første ledd bokstav a og § 17-13 andre ledd andre punktum. Botidskravet ble endret ved lov 20. desember 2019 nr. 84, ved at det økte fra tre til fem år. *Bokstav b* er en videreføring av § 17-3 første ledd bokstav b og § 17-3 femte ledd.
+
+*Andre ledd* viderefører § 17-3 fjerde ledd og *tredje ledd* viderefører § 17-3 femte ledd. *Fjerde ledd* viderefører § 17-3 sjuende ledd.
+
+Det vises til punkt 1.3.1 og 5.5.7.
+
+Til § 19-3 a
+
+Paragrafen er ny. Bestemmelsene er i hovedsak en videreføring av gjeldende § 17-4 om krav til forutgående medlemskap som vilkår for rett til pensjon.
+
+*Første ledd* er en videreføring av § 17-4 andre ledd første punktum. *Andre ledd* er en videreføring av § 17-4 andre ledd andre punktum.
+
+*Tredje ledd* viser til at pensjon etter unntaksbestemmelsen i § 19-2 a andre og tredje ledd bare beholdes så lenge den gjenlevende er medlem i trygden, og er en videreføring av § 17-4 fjerde ledd.
+
+Någjeldende første ledd blir overflødig ved siden av bestemmelsen i § 19-3 første ledd. Bestemmelsene i § 17-4 tredje ledd om beregning av særtillegg videreføres ikke, da dette er overflødig i dag.
+
+Det vises til punkt 5.5.6.
+
+Til § 19-11 første ledd nytt sjette punktum
+
+Bestemmelsen er flyttet fra någjeldende § 19-16 sjette ledd.
+
+Det vises til punkt 5.5.7.
+
+Til § 19-16
+
+Någjeldende paragraf har bestemmelser om beregning av alderspensjonen til gjenlevende ektefelle. I stor grad viser første ledd i gjeldende paragraf til vilkårene som gjelder for rett til pensjon etter §§ 17-3 og 17-4 og i enten § 17-5 eller § 17-10. §§ 17-3 og 17-4 blir i lovforslaget her flyttet til ny § 19-2 a og § 19-3 a. De resterende vilkårene i § 17-5 og § 17-10 inkorporeres i den nye utformingen av § 19-16. Det materielle innholdet i gjeldende rett er i all hovedsak videreført, men paragrafen har fått en annen inndeling og utforming.
+
+I *første ledd* videreføres någjeldende § 17-5 om vilkår for alderspensjon til gjenlevende ektefelle. Den gjenlevende må ha vært gift med avdøde i minst 5 år, har eller har hatt barn med den avdøde eller hadde omsorgen for avdødes barn på dødsfallstidspunktet på nærmere vilkår. I bokstav b gjøres en språklig endring for å oppnå lik ordlyd som i forslaget til ny § 17-4.
+
+*Andre ledd* er en videreføring av gjeldende rett i § 17-10 om vilkår for rett pensjon til gjenlevende skilt person. Det er ikke nødvendig å videreføre § 17-10 første ledd bokstav a. Det følger av gjeldende § 19-16 femte ledd at alderspensjon ytes på grunnlag av gjenlevendes egen opptjening dersom vedkommende gifter seg igjen. Denne bestemmelsen videreføres som nytt *tredje ledd.*
+
+Någjeldende § 19-16 andre og tredje ledd har regler om beregningen av grunnpensjon og tilleggspensjon. Dette er videreført i *fjerde* og *femte ledd*. *Sjette ledd* viderefører bestemmelsen om at grunn- og tilleggspensjonen skal omregnes dersom den gjenlevende mottok alderspensjon på dødstidspunktet.
+
+Innholdet i *sjuende ledd* er nytt. Det går fram av bestemmelsene at gjenlevendefordelen ikke skal reguleres årlig etter folketrygdloven § 19-14. Alderspensjonen til en gjenlevende ektefelle beregnes på en slik måte at verdien av gjenlevendefordelen er en del av alderspensjonen. Det er derfor nødvendig å innføre en metode for å kunne fastslå hva gjenlevendefordelen isolert sett utgjør på det tidspunktet lovendringen trer i kraft. Fra og med dette tidspunktet skal ikke gjenlevendefordelene reguleres årlig etter de alminnelige reglene. Av *andre punktum* går det fram at denne bestemmelsen kun gjelder for årskullene fra og med 1944-kullet. Det vil si at tidligere årskull beholder samme regulering som før.
+
+*Åttende ledd* viderefører en forskriftshjemmel. Det er behov for blant annet å gi bestemmelser som regulerer beregningen av minste pensjonsnivå etter § 19-14 for en gjenlevende ektefelle, og hvordan pensjonen skal beregnes ved endringer i pensjonsgrad.
+
+Det vises til punkt 5.5.4.
+
+Til § 20-19 a
+
+Gjeldende bestemmelse om gjenlevendetillegg til årskullene 1954-1957 ved uttak av alderspensjon til og med 2019 utvides ikke for ytterligere årskull. Dette innebærer at det ikke vil bli innvilget nye tillegg. En rekke personer har allerede fått innvilget slikt tillegg.
+
+Generelle regler om regulering av alderspensjon følger av § 20-18. Departementet har likevel funnet det formålstjenlig at bestemmelser om regulering av pensjonen for denne gruppen behandles særskilt i egen paragraf.
+
+Det går fram av någjeldende bestemmelse at gjenlevendetillegget beregnes etter reglene i kapittel 19. Det betyr at forhold som påvirker beregningen av alderspensjonen etter kapittel 19 også vil få virkning for gjenlevendetillegget. Slike forhold kan være revurdering, regulering, ny opptjening og eksport. Det må da gjøres en ny differanseberegning og en ny fastsetting av beløpet gjenlevendetillegget vil utgjøre. I *nytt fjerde ledd* går det fram at slike endringer ikke lenger skal påvirke tillegget. Dette gjelder bare dersom det tilkommer ny opptjening som gir utslag for beregningen av alderspensjonen etter kapittel 19. Ved andre endringer, som at pensjonsgraden reduseres, retten faller bort ved for eksempel gjengifte skal tillegget etter § 20-19 a fortsatt reduseres. Når alderspensjonen etter kapittel 19 reguleres årlig, vil dette også gi utslag for gjenlevendetillegget, se nytt sjette ledd.
+
+Av nytt *femte ledd* går det fram at gjenlevendetillegget ikke skal reguleres etter de alminnelige reglene om årlig regulering i § 20-18.
+
+I nytt *sjette ledd* er det bestemt at gjenlevendetillegget skal reduseres når alderspensjonen reguleres årlig etter bestemmelsene i §§ 19-14 og 20-18.
+
+Det vises til punkt 5.5.5.
+
+## Til ikrafttredelsesbestemmelsene og overgangsreglene
+
+I lovens del II *nr. 1* er det gitt bestemmelser om at loven trer i kraft fra den tid Kongen bestemmer, og at de enkelte bestemmelsene kan settes i kraft til ulik tid.
+
+Det vises til punkt 1.1.
+
+Barn som fyller vilkårene i kapittel 18 ved ikraftsettingen og da har rett til barnepensjon etter de særlige reglene om yrkesskade i § 18-11 bokstavene d og e, beholder barnepensjonen inntil fylte 21 år i samsvar med de tidligere reglene, jf. *nr. 2*.
+
+Det vises til punkt 4.7.
+
+I *nr. 3* går det fram at barn som har barnepensjon på ikraftsettingstidspunktet likevel kan få ytelsen etter de nye reglene, dersom dette er til gunst.
+
+Departementet kan gi nærmere bestemmelser i forskrift om overgangsregler, jf. *nr. 4*,
+
+Det vises til punkt 4.7.
+
+Arbeids- og sosialdepartementet
+
+tilrår:
+
+At Deres Majestet godkjenner og skriver under et fremlagt forslag til proposisjon til Stortinget om endringer i folketrygdloven (nye etterlatteytelser).
+
+**Vi HARALD**, Norges Konge,
+
+stadfester:
+
+Stortinget blir bedt om å gjøre vedtak til lov om endringer i folketrygdloven (nye etterlatteytelser) i samsvar med et vedlagt forslag.
+
+Forslag
+
+til lov om endringer i folketrygdloven (nye etterlatteytelser)
+
+I
+
+I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endringer:
+
+I innledningen til loven gjøres følgende endringer:
+
+«Kapittel 16. Ytelser til tidligere familiepleier» endres til «Kapittel 16. Opphevet»
+
+Etter «Kapittel 17. Ytelser til gjenlevende ektefelle» skal «Kapittel 17 A. Overgangsregler for gjenlevende som er innvilget ytelse før 1. januar 2023» settes inn.
+
+§ 12-18 skal lyde:
+
+*§ 12-18* Tillegg til uføretrygd for gjenlevende ektefelle (gjenlevendetillegg)
+
+*Gjenlevendetillegg som er innvilget før 1. januar 2023, videreføres med den nominelle verdien. Tillegget skal ikke reguleres årlig i samsvar med senere endringer i grunnbeløpet.*
+
+Tillegget skal justeres for uføregrad. Dersom den gjenlevende har inntekt som vil gi reduksjon av uføretrygd etter § 12-14, skal gjenlevendetillegget multipliseres med forholdet mellom den reduserte uføretrygden og uføretrygden uten inntektsreduksjon. Bestemmelsene om etteroppgjør i § 12-14 fjerde ledd gjelder tilsvarende.
+
+Tillegget faller bort når den gjenlevende gifter seg igjen, *se § 1-5*.
+
+Kapittel 16 oppheves.
+
+Kapittel 17 skal lyde:
+
+Kapittel 17. Ytelser til gjenlevende ektefelle og tidligere familiepleier
+
+Bestemmelser om
+
+- formål står i § 17-1
+
+- generelle vilkår står i §§ 17-2 til 17-4
+
+- omstillingsstønad står i §§ 17-5 og 17-6
+
+- plikt til aktivitet med sikte på å komme i arbeid står i § 17-7
+
+- sanksjoner står i § 17-8
+
+- reduksjon av stønad på grunn av inntekt står i § 17-9
+
+- stønad til barnetilsyn, tilleggsstønader, stønader til skolepenger m.m. står i § 17-10
+
+- bortfall av ytelser står i § 17-11
+
+- ytelser etter dødsfall som skyldes yrkesskade står i § 17-12
+
+- ytelser under institusjonsopphold og straffegjennomføring står i §§ 17-13 og 17-14
+
+- ytelser til tidligere familiepleier står i § 17-15
+
+*§ 17-1* Formål
+
+Formålet med ytelser etter dette kapitlet er å sikre inntekt for gjenlevende ektefeller og gi hjelp til selvhjelp, slik at den gjenlevende etter en omstillingsperiode etter dødsfallet kan bli i stand til å forsørge seg selv ved eget arbeid.
+
+Formålet er dessuten å sikre inntekt i en omstillingsperiode for enslige medlemmer som har vært familiepleiere, og som ikke kan forsørge seg selv etter at pleieforholdet er opphørt.
+
+*§ 17-2* Forutgående medlemskap
+
+Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at den avdøde i de siste fem årene før dødsfallet
+
+a\) var medlem i trygden eller
+
+b\) mottok pensjon eller uføretrygd etter denne loven.
+
+Ved vurderingen av om vilkåret i første ledd bokstav a er oppfylt, ses det bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av. Vilkåret er ikke oppfylt dersom den avdøde var arbeidsufør, men ikke hadde rett til uføretrygd fordi vilkåret om forutgående medlemskap i § 12-2 første ledd ikke var oppfylt.
+
+Vilkåret i første ledd gjelder ikke dersom den avdøde var medlem i trygden på dødsfallstidspunktet og da
+
+a\) ikke hadde fylt 26 år, eller
+
+b\) hadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.
+
+Den gjenlevende har rett til ytelser etter tredje ledd tidligst fra det tidspunktet den avdøde ville ha vært medlem i ett år dersom dødsfallet ikke hadde skjedd.
+
+Tidsrom da avdøde hadde avtalefestet pensjon med statstilskott skal være likestilt med tidsrom med pensjon fra folketrygden ved anvendelsen av bestemmelsen i første ledd bokstav b. Det samme gjelder tidsrom med pensjon fra en lovfestet pensjonsordning som er tilpasset folketrygden ved at det ikke gis ordinær pensjon til gjenlevende ektefelle.
+
+Vilkåret i første ledd gjelder ikke når avdøde var medlem i folketrygden ved dødsfallet og kunne tilstås en ytelse på grunnlag av tidligere opptjening minst svarende til grunnbeløpet. Med «ytelse på grunnlag av tidligere opptjening» menes en ytelse beregnet etter reglene for alderspensjon etter kapittel 3 på grunnlag av poengår og perioder som medlem av folketrygden før dødsfallet.
+
+*§ 17-3* Fortsatt medlemskap
+
+Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at vedkommende er medlem i trygden.
+
+Den som ikke fyller vilkåret i første ledd, får likevel omstillingsstønad dersom den avdøde eller den gjenlevende har minst 20 års samlet botid, se § 3-5 åttende ledd. Dersom både den avdøde og den gjenlevende har mindre enn 20 års botid, gis det omstillingsstønad beregnet på bakgrunn av bestemmelsene i § 17-4 andre ledd andre punktum og tredje ledd slik de lød før 1. januar 2023.
+
+Omstillingsstønad etter unntaksbestemmelsene i § 17-2 tredje, fjerde og sjette ledd beholdes bare så lenge den gjenlevende er medlem i trygden.
+
+*§ 17-4* Øvrige vilkår for ytelser
+
+Det er et vilkår for rett til ytelser til gjenlevende ektefelle etter dette kapitlet at vedkommende på tidspunktet for dødsfallet
+
+a\) var gift med den avdøde og ekteskapet hadde vart i minst fem år,
+
+b\) har eller har hatt barn med den avdøde eller
+
+c\) har omsorg for barn under 18 år med minst halvparten av full tid.
+
+Til en fraskilt person som helt eller i det vesentlige har vært forsørget av bidrag fra den avdøde, kan det ytes stønad etter dette kapitlet dersom ekteskapet varte i minst 25 år, eller minst 15 år hvis ektefellene hadde barn sammen.
+
+*§ 17-5* Omstillingsstønad
+
+Til en gjenlevende som fyller vilkårene for rett til ytelser etter §§ 17-2 til 17-4, kan det ytes omstillingsstønad i inntil tre år etter dødsfallet.
+
+Stønadsperioden kan utvides med inntil to år hvis den gjenlevende er under nødvendig og hensiktsmessig utdanning, eller har behov for tiltak for å komme i arbeid.
+
+Dersom den gjenlevende er født i 1962 eller tidligere, kan stønaden likevel utbetales til den gjenlevende fyller 67 år, selv om det utvider stønadsperioden etter første ledd. Det er et vilkår for rett til utvidet stønadsperiode at den gjenlevende de siste fem årene før dødsfallet ikke har hatt en gjennomsnittlig årlig arbeidsinntekt som overstiger to ganger grunnbeløpet det enkelte år. Den årlige arbeidsinntekten må i tillegg ikke ha oversteget tre ganger grunnbeløpet hvert av de siste to årene før dødsfallet.
+
+*§ 17-6* Omstillingsstønaden størrelse
+
+Full årlig omstillingsstønad utgjør 2,25 ganger grunnbeløpet og gis dersom den avdøde hadde minst 40 års trygdetid etter bestemmelsene i §§ 3-5 og 3-7. Dersom trygdetiden er kortere, reduseres omstillingsstønaden forholdsmessig.
+
+*§ 17-7* Plikt til aktivitet med sikte på å komme i arbeid
+
+Etter en overgangsperiode på seks måneder etter dødsfallet er det et vilkår for rett til omstillingsstønad at den gjenlevende
+
+a\) er i arbeid som utgjør minst halvparten av full tid,
+
+b\) har meldt seg til arbeids- og velferdsetaten som reell arbeidssøker,
+
+c\) gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at den gjenlevende skal kunne få eller beholde et arbeid, eller
+
+d\) etablerer egen virksomhet, se § 4-6 tredje ledd.
+
+Arbeids- og velferdsetaten skal etter behov innkalle til samtaler for å vurdere oppfølging av den gjenlevende og om det skal settes i verk tiltak med sikte på overgang til arbeid.
+
+Når det er gått ett år etter dødsfallet, kan det stilles krav om at den gjenlevende er i arbeid eller arbeidsrettet aktivitet etter første ledd på full tid.
+
+Departementet kan gi forskrifter om kravet til aktivitet etter denne paragrafen. Det kan blant annet gis bestemmelser om unntak fra aktivitetskravet, hvilken utdanning som kan godkjennes, kravet om å være reell arbeidssøker og hvilke krav som kan stilles for å dokumentere at vilkårene etter paragrafen er oppfylt.
+
+*§ 17-8* Sanksjoner
+
+Dersom den gjenlevende ikke følger opp aktivitetskravet i § 17-7, skal omstillingsstønaden stanses inntil vilkårene for å motta ytelsen igjen er oppfylt.
+
+Dersom den gjenlevende uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til arbeids- og velferdsetaten, faller omstillingsstønaden bort én måned.
+
+Dersom den gjenlevende har gitt uriktige opplysninger om forhold som har betydning for retten til ytelser etter dette kapitlet, og han eller hun var klar over eller burde vært klar over dette, kan vedkommende utestenges fra rett til stønad i inntil tre måneder første gang og inntil seks måneder ved gjentakelser. Det samme gjelder dersom den gjenlevende har unnlatt å gi opplysninger om betydning for retten til ytelser.
+
+Departementet kan gi forskrifter om gjennomføring av sanksjoner etter paragrafen her, utestengingsperiodens varighet og opphør av ytelse ved langvarig manglende aktivitet.
+
+*§ 17-9* Arbeidsinntekt m.m.
+
+Stønaden til den gjenlevende reduseres på grunnlag av arbeidsinntekt.
+
+Stønaden skal ikke reduseres hvis arbeidsinntekten på årsbasis er mindre enn halvparten av grunnbeløpet. Ytelsen reduseres med 45 prosent av inntekt over halvparten av grunnbeløpet.
+
+Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11, uføretrygd etter kapittel 12 der uføregraden er under 100 prosent, svangerskapspenger og foreldrepenger etter kapittel 14 og pensjonsytelser etter AFP-tilskottsloven kapitlene 2 og 3.
+
+Departementet kan gi forskrifter om detaljer om reduksjon av stønad etter denne paragrafen, herunder innhenting og dokumentasjon av arbeidsinntekt og hvordan avkortingen skal gjennomføres når det gis omstillingsstønad samtidig med andre ytelser etter folketrygdloven.
+
+*§ 17-10* Stønad til barnetilsyn, tilleggsstønader, stønader til skolepenger m.m.
+
+Til en gjenlevende som fyller vilkårene i § 17-4, kan det gis
+
+a\) stønad til barnetilsyn etter § 15-10,
+
+b\) tilleggsstønader og stønad til skolepenger mv. etter § 15-11.
+
+Stønad til barnetilsyn etter § 15-10 eller § 15-11 første ledd bokstav d gis for barn som blir forsørget av den gjenlevende.
+
+For fosterbarn, se barnevernloven § 4-22, kan det ytes stønad til barnetilsyn etter § 15-10 eller § 15-11 første ledd bokstav d når den gjenlevende har forsørget barnet de siste to årene eller oppfostringen tok til før dødsfallet.
+
+*§ 17-11* Bortfall av ytelser
+
+Retten til ytelser etter dette kapitlet faller bort når den gjenlevende
+
+a\) fyller 67 år eller tar ut alderspensjon etter loven her,
+
+b\) får rett til uføretrygd for full uførhet,
+
+c\) mottar avtalefestet pensjon fra en offentlig pensjonsordning eller
+
+d\) gifter seg igjen, se § 1-5.
+
+En gjenlevende som er omfattet av unntaket fra tidsbegrensningen etter § 17-5 tredje ledd, har igjen rett til omstillingsstønad dersom det nye ekteskapet blir oppløst ved skilsmisse før det er gått to år, eller ektefellen dør.
+
+*§ 17-12* Stønad etter dødsfall som skyldes yrkesskade
+
+Ved dødsfall som skyldes en skade eller sykdom som går inn under kapittel 13, ytes det omstillingsstønad til gjenlevende ektefelle etter følgende særbestemmelser:
+
+a\) Vilkåret i § 17-2 om forutgående medlemskap gjelder ikke.
+
+b\) Vilkåret i § 17-3 om fortsatt medlemskap gjelder ikke.
+
+c\) Vilkåret i § 17-4 om ekteskapets varighet gjelder ikke.
+
+Omstillingsstønaden avkortes ikke på grunn av redusert trygdetid.
+
+*§ 17-13* Ytelser under opphold i institusjon
+
+Personer som mottar ytelser etter dette kapitlet, får ytelsene redusert etter bestemmelsene i denne paragrafen under opphold i en institusjon med fri kost og losji under statlig ansvar eller tilsvarende institusjon i utlandet. Ytelsene blir ikke redusert under opphold i somatiske sykehusavdelinger.
+
+Ytelser etter dette kapitlet gis uten reduksjon i innleggelsesmåneden og de tre påfølgende månedene. Deretter blir ytelsene redusert og skal under oppholdet utgjøre 45 prosent av grunnbeløpet.
+
+Ytelsene skal ikke reduseres når vedkommende forsørger barn. Dersom vedkommende har faste og nødvendige utgifter til bolig, kan arbeids- og velferdsetaten bestemme at ytelsene ikke skal reduseres eller reduseres mindre enn nevnt i andre ledd.
+
+Dersom vedkommende innen tre måneder etter utskrivelsen på nytt kommer i institusjon, gis det redusert ytelse fra og med måneden etter at det nye oppholdet tar til. Ytelsene skal utbetales etter lovens vanlige bestemmelser fra og med utskrivingsmåneden.
+
+Ytelsen etter denne paragrafen må ikke overstige den ytelsen vedkommende har rett til etter lovens vanlige bestemmelser.
+
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i denne paragrafen. Blant annet kan det gis bestemmelser om
+
+a\) beregning av redusert ytelse,
+
+b\) at bestemmelsene skal gjelde for personer innlagt i andre institusjoner,
+
+c\) at det kan gjøres unntak for visse institusjoner eller bestemte persongrupper.
+
+*§ 17-14* Ytelser under straffegjennomføring
+
+En person som utholder varetekt, straff eller særreaksjon i anstalt under kriminalomsorgen eller tilsvarende anstalt i utlandet, har ikke rett til å få utbetalt ytelser etter dette kapitlet fra og med andre måned etter at soningen tar til. Ytelsene skal likevel utbetales med 50 prosent når vedkommende forsørger barn. Det samme gjelder fra og med andre måned etter at en persons formue er satt under forvaltning etter straffeprosessloven § 220.
+
+Fra og med kalendermåneden vedkommende blir løslatt, gis ytelser til gjenlevende ektefelle etter lovens vanlige bestemmelser.
+
+Ved gjennomføring av samfunnsstraff, straffegjennomføring i medhold av straffegjennomføringsloven § 16 eller § 16 a eller betinget dom, utbetales ytelser til gjenlevende ektefelle dersom vilkårene for øvrig er oppfylt. Tilsvarende gjelder ved prøveløslatelse i medhold av straffegjennomføringsloven §§ 42 flg.
+
+Departementet kan gi forskrifter om anvendelsen av bestemmelsene i paragrafen her.
+
+*§ 17-15* Ytelser til tidligere familiepleier
+
+En person som i minst fem år har hatt nødvendig tilsyn med og pleie av en nærstående, og som ikke kan forsørge seg selv etter at pleieforholdet er opphørt, har rett til ytelser etter dette kapitlet.
+
+Det er et vilkår at den tidligere familiepleieren er medlem i trygden og var medlem i trygden i minst fem år fram til pleieforholdet opphørte. Dette vilkåret gjelder ikke dersom vedkommende etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år, og har vært medlem i minst ett år fram til han eller hun setter fram krav om ytelser.
+
+For rett til ytelser etter dette kapitlet må
+
+a\) pleieren ha vært ugift i minst fem år under pleieforholdet, og være ugift når kravet om stønad settes fram,
+
+b\) den som ble pleid, ha mottatt pensjon fra folketrygden eller ha vært medlem i trygden med et medlemskap som omfattet folketrygdlovens pensjonskapitler,
+
+c\) pleieforholdet ha medført at pleieren i det vesentlige ikke har vært i stand til å forsørge seg selv ved annet arbeid,
+
+d\) pleieforholdet ha medført at pleieren ikke er i stand til å forsørge seg selv ved eget arbeid etter at pleieforholdet har opphørt og
+
+e\) pleieren for øvrig ikke ha tilstrekkelige midler til livsopphold.
+
+Til en tidligere familiepleier kan det ytes tilleggsstønader og stønad til skolepenger mv. etter § 15-11 for at vedkommende kan komme i arbeid.
+
+Bestemmelsene i §§ 17-5, 17-6, 17-7, 17-8, 17-9, 17-11, 17-13 og 17-14 gjelder tilsvarende.
+
+Nytt kapittel 17 A skal lyde:
+
+Kapittel 17 A. Overgangsregler for gjenlevende som er innvilget ytelse før 1. januar 2023
+
+Bestemmelser om
+
+- hvem kapitlet gjelder for står i § 17 A-1
+
+- fortsatt medlemskap står i § 17 A-2
+
+- stønadsperiode står i § 17 A-3
+
+- omregning av ytelsen står i § 17 A-4
+
+- bortfall står i § 17 A-5
+
+- reduksjon av ytelse på grunn av inntekt står i § 17 A-6
+
+- reduksjon av ytelse under opphold i institusjon og under straffegjennomføring står i §§ 17 A-7 og 17 A-8
+
+*§ 17 A-1* Hvem kapitlet gjelder for
+
+Reglene i kapitlet her gjelder for personer som før 1. januar 2023 har fått innvilget og mottar følgende ytelser:
+
+a\) pensjon etter kapittel 16 og 17,
+
+b\) overgangsstønad etter § 17-6 første ledd bokstav a,
+
+c\) overgangsstønad etter § 17-6 første ledd bokstav b og den gjenlevende har omsorgen for barn under 18 år eller
+
+d\) overgangsstønad etter § 17-6 andre ledd.
+
+*§ 17 A-2* Fortsatt medlemskap
+
+Det er et vilkår for rett til ytelser etter dette kapitlet at vedkommende er medlem i trygden.
+
+For den som ikke fyller vilkåret i første ledd, gjelder bestemmelsene i § 17-3 andre ledd tilsvarende.
+
+Pensjon eller overgangsstønad etter unntaksbestemmelsene i § 17-2 tredje, fjerde og sjette ledd og med tilleggspensjon etter de tidligere bestemmelser om medregning av framtidige pensjonspoeng for unge uføre i loven her slik de lød før lov 16. desember 2011 nr. 59 om endringer i folketrygdloven trådte i kraft, beholdes bare så lenge den gjenlevende er medlem i trygden.
+
+*§ 17 A-3* Stønadsperiode
+
+Pensjonen eller overgangsstønaden utbetales i tre år fra 1. januar 2023. Stønadsperioden kan utvides med inntil to år hvis den gjenlevende er under nødvendig og hensiktsmessig utdanning, eller har behov for tiltak for å komme i arbeid.
+
+Dersom den gjenlevende er født i 1969 eller tidligere, kan pensjonen eller overgangsstønaden likevel utbetales til den gjenlevende fyller 67 år, selv om det utvider stønadsperioden etter første ledd. Det er et vilkår for rett til utvidet stønadsperiode etter leddet her at den gjenlevende de siste fem årene før 1. januar 2023 ikke har hatt en gjennomsnittlig årlig arbeidsinntekt som overstiger to ganger grunnbeløpet det enkelte år. Den årlige arbeidsinntekten må i tillegg ikke ha oversteget tre ganger grunnbeløpet hvert av de siste to årene før 1. januar 2023.
+
+*§ 17 A-4* Omregning av ytelsen
+
+Dersom den gjenlevende har rett til ytelse uten tidsbegrensning etter § 17 A-3 andre ledd, skal ytelsen fra 1. januar 2028 beregnes som en omstillingsstønad etter § 17-6. For øvrig gjelder bestemmelsene i kapitlet her.
+
+*§ 17 A-5* Bortfall av pensjon eller overgangsstønad til gjenlevende ektefelle
+
+Retten til ytelser etter dette kapitlet faller bort når den gjenlevende
+
+a\) fyller 67 år eller mottar alderspensjon etter loven her,
+
+b\) får rett til uføretrygd for full uførhet,
+
+c\) mottar avtalefestet pensjon fra en offentlig pensjonsordning eller
+
+d\) gifter seg igjen, se også § 1-5.
+
+En gjenlevende som er omfattet av unntaket fra tidsbegrensningen etter § 17 A-3 andre ledd, har rett til pensjon eller overgangsstønad dersom det nye ekteskapet blir oppløst ved skilsmisse før det er gått to år, eller ektefellen dør.
+
+*§ 17 A-6* Reduksjon av ytelse på grunn av inntekt
+
+Pensjonen eller overgangsstønaden til den gjenlevende ektefellen​ reduseres på grunnlag av arbeidsinntekt som den gjenlevende har eller kan forventes å få. Ved fastsetting av forventet inntekt legges det blant annet vekt på alder, evner, utdanning, yrkesbakgrunn, arbeidsmuligheter på hjemstedet, og arbeidsmuligheter på andre steder der det er rimelig at vedkommende tar arbeid. Det legges også vekt på eventuelle barns tilsynsbehov.
+
+En gjenlevende ektefelle som ikke har fylt 55 år, forventes å få en arbeidsinntekt på minst to ganger grunnbeløpet etter en overgangsperiode på ett år etter dødsfallet. Dette gjelder likevel ikke dersom det er en rimelig grunn til at den gjenlevende ektefellen har en lavere inntekt. Kravet til forventet arbeidsinntekt gjelder ikke dersom den gjenlevende ektefellen fyller vilkårene for rett til overgangsstønad etter § 17-6 slik paragrafen lød før 1. januar 2023.
+
+Pensjonen eller overgangsstønaden skal ikke reduseres hvis den faktiske eller forventede arbeidsinntekten på årsbasis er mindre enn halvparten av grunnbeløpet. Ytelsen reduseres med 40 prosent av inntekt over halvparten av grunnbeløpet.
+
+Likestilt med arbeidsinntekt er dagpenger etter kapittel 4, sykepenger etter kapittel 8, stønad ved barns og andre nærståendes sykdom etter kapittel 9, arbeidsavklaringspenger etter kapittel 11, uføretrygd etter kapittel 12 der uføregraden er under 100 prosent, svangerskapspenger og foreldrepenger etter kapittel 14 og pensjonsytelser etter AFP-tilskottsloven kapitlene 2 og 3.
+
+Departementet kan gi forskrifter om fastsetting og endring av forventet arbeidsinntekt. Det kan herunder gjøres unntak fra bestemmelsene i § 22-12.
+
+*§ 17 A-7* Ytelser til gjenlevende ektefelle under opphold i institusjon
+
+For ytelser til gjenlevende ektefelle som har opphold i institusjon, gjelder bestemmelsene i § 17-13 tilsvarende.
+
+*§ 17 A-8* Ytelser til gjenlevende ektefelle under straffegjennomføring
+
+For ytelser til gjenlevende ektefelle under straffegjennomføring, gjelder bestemmelsene i § 17-14 tilsvarende.
+
+Innholdsfortegnelsen til kapittel 18 fjerde, femte og sjuende strekpunkt skal lyde:
+
+- *bortfall og reduksjon av barnepensjon ved adopsjon* står i § 18-6
+
+- *forholdet til andre ytelser fra folketrygden* står i § 18-7
+
+- pensjon etter dødsfall som skyldes yrkesskade, står i *§ 18-10*
+
+§ 18-3 første ledd skal lyde:
+
+Det er et vilkår for at et barn skal ha rett til pensjon, at *det er* medlem i trygden.
+
+§ 18-3 andre ledd bokstav b skal lyde:
+
+b\) den avdøde har mindre enn 20 års botid, men har minimum tre år med pensjonsgivende inntekt som overstiger grunnbeløpet, eller
+
+§ 18-4 skal lyde:
+
+*§ 18-4* Stønadsperioden
+
+*Barnepensjon gis inntil barnet fyller 18 år.*
+
+*Dersom begge foreldrene er døde og barnet er under utdanning på full tid, gis pensjon inntil barnet fyller 20 år. Det samme gjelder når pensjonen er gitt etter § 18-5 tredje ledd.*
+
+*Departementet kan gi forskrifter om hvilken utdanning som kan godkjennes. Det kan blant annet gis bestemmelser om unntak fra kravet om at utdanningen skal skje på full tid, og om stans eller midlertidig opphør av pensjon ved opphold i utdanningen.*
+
+§ 18-5 skal lyde:
+
+*§ 18-5* Beregning av barnepensjon
+
+*Dersom en av foreldrene er død, skal den årlige pensjonen utgjøre 0,5 ganger grunnbeløpet for hvert barn. Full barnepensjon gis dersom den avdøde forelderen hadde minst 40 års trygdetid etter bestemmelsene i §§ 3-5 og 3-7. Dersom trygdetiden er kortere, reduseres barnepensjonen forholdsmessig.*
+
+*Dersom begge foreldrene er døde, skal den årlige pensjonen utgjøre 1,2 ganger grunnbeløpet for hvert barn. Dersom det på tidspunktet for den andre forelderens død kun er ett barn som har rett til pensjon etter én av eller begge de avdøde foreldrene, skal den årlige pensjonen utgjøre 2,25 ganger grunnbeløpet. Full barnepensjon gis dersom en av foreldrene hadde minst 40 års trygdetid etter bestemmelsene i §§ 3-5 og 3-7. Dersom ingen av foreldrene hadde full trygdetid, reduseres barnepensjonen forholdsmessig tilsvarende trygdetiden til den av foreldrene som hadde lengst trygdetid.*
+
+*Dersom det er fastsatt juridisk foreldreskap for kun én forelder etter bestemmelsene i barneloven kapittel 2, og denne forelderen er død, fastsettes barnepensjonen etter andre ledd.*
+
+*Når det ytes barnepensjon på grunnlag av bestemmelsen i § 18-3 andre ledd bokstav b, skal trygdetiden i første og andre ledd svare til antall år med faktisk opptjent tilleggspensjon eller inntektspensjon.*
+
+§ 18-6 skal lyde:
+
+*§ 18-6* Bortfall og reduksjon av barnepensjon ved adopsjon
+
+*Retten til barnepensjon faller bort dersom barnet blir adoptert av et ektepar, eller dersom en ektefelle adopterer den andre ektefellens barn. Ved adopsjon ellers beholder barnet retten til pensjon, men pensjonen beregnes etter bestemmelsene i § 18-5 første ledd.*
+
+§ 18-7 skal lyde:
+
+*§ 18-7* Forholdet til andre ytelser fra folketrygden
+
+*Barnepensjonen faller bort i den utstrekning barnet har rett til uføretrygd.*
+
+§ 18-8 fjerde ledd skal lyde:
+
+*Dersom barnet er foreldreløst, skal den reduserte ytelsen utgjøre 45 prosent av grunnbeløpet.*
+
+Nåværende § 18-11 blir ny § 18-10. Paragrafens bokstav d og e oppheves.
+
+§ 19-2 andre ledd bokstav b skal lyde:
+
+b\) den som fyller vilkårene i *§§ 19-2 a, 19-3 a og 19-16 og*
+
+Ny § 19-2 a skal lyde:
+
+*§ 19-2 a* Krav til forutgående medlemskap for rett til fastsetting av pensjon etter § 19-16
+
+*For å få rett til fastsetting av pensjon etter § 19-16, må ett av følgende vilkår være oppfylt:*
+
+*a) Den avdøde må i de siste fem årene fram til dødsfallet ha vært medlem i trygden. Vilkåret er likevel ikke oppfylt dersom avdøde var arbeidsufør, men ikke hadde rett til uføretrygd fordi vilkårene om forutgående medlemskap i § 12-2 første ledd ikke var oppfylt. Det ses bort fra perioder med tjeneste i internasjonale organisasjoner eller organer som staten Norge er medlem av, yter økonomisk bidrag til eller har ansvar for å bidra til bemanningen av.*
+
+*b) Den avdøde må i de siste fem årene fram til dødsfallet ha mottatt pensjon eller uføretrygd etter denne loven. Tidsrom da avdøde hadde avtalefestet pensjon med statstilskott skal være likestilt med tidsrom med pensjon fra folketrygden. Det samme gjelder tidsrom med pensjon fra en lovfestet pensjonsordning som er tilpasset folketrygden ved at det ikke gis ordinær pensjon til gjenlevende ektefelle.*
+
+*Vilkåret i første ledd gjelder ikke dersom den avdøde var medlem i trygden på dødsfallstidspunktet og da*
+
+*a) ikke hadde fylt 26 år, eller*
+
+*b) hadde vært medlem etter fylte 16 år med unntak av maksimum 5 år.*
+
+*Retten etter andre ledd inntrer tidligst fra det tidspunktet den avdøde ville ha vært medlem i ett år dersom dødsfallet ikke hadde skjedd.*
+
+*Vilkåret i første ledd gjelder ikke når avdøde var medlem i folketrygden ved dødsfallet og kunne tilstås en ytelse på grunnlag av tidligere opptjening minst svarende til grunnbeløpet, det vil si en ytelse etter reglene for alderspensjon etter kapittel 3 på grunnlag av poengår og perioder som medlem av folketrygden før dødsfallet.*
+
+Ny § 19-3 a skal lyde:
+
+*§ 19-3 a* Fortsatt medlemskap ved fastsetting av pensjon etter § 19-16
+
+*Dersom den gjenlevende ikke er medlem i trygden, ytes det likevel alderspensjon dersom den gjenlevende eller den avdøde har minst 20 års samlet botid, se § 3-5 åttende ledd.*
+
+*Dersom både den avdøde og den gjenlevende har mindre enn 20 års botid, ytes det pensjon etter § 19-3 andre ledd bokstavene a og b.*
+
+*Pensjon etter unntaksbestemmelsene i § 19-2 a andre og tredje ledd beholdes bare så lenge den gjenlevende er medlem i trygden. Bestemmelsene i § 19-3 tredje og fjerde ledd gjelder så langt de passer.*
+
+I § 19-11 skal første ledd nytt sjette punktum lyde:
+
+*Ved vurdering av om vilkåret er oppfylt, medregnes kun alderspensjon på grunnlag av vedkommendes egen opptjening.*
+
+§ 19-16 skal lyde:
+
+*§ 19-16* Alderspensjon til gjenlevende ektefelle
+
+Alderspensjon til en gjenlevende ektefelle som fyller vilkårene i *§§ 19-2 a og 19-3 a* fastsettes etter *fjerde til sjuende ledd i paragrafen her. Det er et vilkår at den gjenlevende*
+
+a\) var gift med den avdøde i minst fem år,
+
+b\) har eller har hatt barn med den avdøde, eller
+
+c\) hadde omsorgen for avdødes barn (§ 1-6) på dødsfallstidspunktet. Ekteskapet og omsorgen for barnet etter dødsfallet må til sammen ha vart i minst fem år.
+
+*Alderspensjon til gjenlevende skilt person som fyller vilkårene i §§ 19-2 a og 19-3 a, fastsettes etter fjerde til sjuende ledd i denne paragrafen, dersom den tidligere ektefellen døde innen fem år etter skilsmissen og*
+
+a\) ekteskapet varte i minst 25 år eller
+
+b\) ekteskapet varte i minst 15 år og ektefellene hadde felles barn.
+
+*Dersom den skilte personen var helt eller delvis forsørget av bidrag fra den avdøde, kan det gjøres unntak fra vilkåret om at det er gått mindre enn fem år mellom skilsmissen og dødsfallet. Ved avgjørelsen skal det legges vekt på varigheten av ekteskapet, og alderen til den skilte gjenlevende personen.*
+
+Dersom pensjonisten gifter seg igjen, ytes det alderspensjon på grunnlag av vedkommendes egen opptjening.
+
+Grunnpensjonen etter § 19-5 beregnes på grunnlag av den avdødes trygdetid dersom den er lenger enn den gjenlevendes trygdetid, se §§ 3-2 og 3-7.
+
+Tilleggspensjonen etter § 19-5 beregnes etter bestemmelsene i § 3-23.
+
+Dersom den gjenlevende mottok alderspensjon på dødsfallstidspunktet, skal grunnpensjon og tilleggspensjon omregnes.
+
+*For personer født fra og med 1944 og framover utgjør gjenlevendefordelene differansen mellom alderspensjon etter paragrafen her medregnet rettigheter som gjenlevende ektefelle, og alderpensjon etter kapittel 19 uten rettigheter som gjenlevende ektefelle. Personer født i 1944 og senere får ikke gjenlevendefordelen regulert etter § 19-14.*
+
+Departementet kan gi forskrifter om pensjonsberegning etter paragrafen her. *Det kan blant annet gis bestemmelser om beregning av minste pensjonsnivå etter § 19-14 femte ledd og omregning av pensjon ved endringer i pensjonsgrad.*
+
+§ 20-19 a nytt fjerde, femte og sjette ledd skal lyde:
+
+*Endringer i alderspensjon etter kapittel 19 som gir økning i pensjonen, utover endringer som følger av § 19-14, skal ikke endre gjenlevendetillegget etter paragrafen her.*
+
+*Gjenlevendetillegget skal ikke reguleres årlig etter § 20-18.*
+
+*Gjenlevendetillegget skal reduseres med økninger i alderspensjonen etter §§ 19-14 og 20-18.*
+
+II
+
+*Ikrafttredelse og overgangsregler.*
+
+1\. Loven trer i kraft fra den tiden Kongen bestemmer. Kongen kan bestemme at de forskjellige bestemmelsene skal tre i kraft til ulik tid.
+
+2\. Et barn som har rett til barnepensjon etter de særlige reglene om yrkesskade i § 18-11 bokstav d og e og vilkårene i kapittel 18 slik dette lød før loven her trer i kraft, beholder barnepensjonen fram til fylte 21 år i samsvar med de tidligere reglene.
+
+3\. Et barn som allerede fyller vilkårene for rett til en ytelse etter folketrygdloven kapittel 18 når nye regler trer i kraft, skal få ytelsen beregnet etter det nye regelverket dersom dette gir høyere ytelse enn etter det gamle regelverket.
+
+4\. Departementet kan gi forskrifter om overgangsregler.

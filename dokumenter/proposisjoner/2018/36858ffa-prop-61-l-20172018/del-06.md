@@ -1,2885 +1,2209 @@
-# Prop. 61 L (2017–2018), del 6 av 9 (side 62–78)
+# Prop. 61 L (2017–2018), del 6 av 8
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2018/36858ffa-prop-61-l-20172018.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-61-l-20172018/id2595189/
 - Original-PDF: https://www.regjeringen.no/contentassets/bf07d44ef44442fcbb4cd222d7943f9c/no/pdfs/prp201720180061000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 18 tabeller, 21 figurer, 771 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 62]
+|                        |               |         |
+|------------------------|---------------|---------|
+| Brutto tjenestepensjon | 370 791/1,026 | 361 394 |
 
-62
+Brø
 
-2017–2018
+||
+||
+||
 
-Prop. 61 L
+Brø
 
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
+|                       |                 |         |
+|-----------------------|-----------------|---------|
+| \- Samordningsfradrag | 4 085 765/13,77 | 296 715 |
 
-Antall
+Brø
 
-Dagens samordning
+||
+||
+||
 
-Ny samordning
-600
+Brø
 
-100%
+|                             |               |        |
+|-----------------------------|---------------|--------|
+| \+ Tillegg etter samordning | 234 085/13,77 | 17 000 |
 
-500
-400
+Brø
 
-60%
-300
-40%
+||
+||
+||
 
-Antall
+Brø
 
-Kompensasjonsgrad
+|                         |     |        |
+|-------------------------|-----|--------|
+| = Netto tjenestepensjon |     | 81 679 |
 
-80%
+Brø
 
-200
-20%
+||
+||
+||
 
-100
-0
+Brø
 
-0%
-3–4
+|               |                 |         |
+|---------------|-----------------|---------|
+| \+ Folketrygd | 4 169 147/13,77 | 302 770 |
 
-4–5
+Brø
 
-5–6
+||
+||
+||
 
-6–7
+Brø
 
-7–8
+|                  |     |         |
+|------------------|-----|---------|
+| = Samlet pensjon |     | 384 449 |
 
-8–9
+Brø
 
-9–10
+||
+||
+||
 
-10–11
+Brø
 
-11–12
+|                          |     |      |
+|--------------------------|-----|------|
+| Kompensasjonsgrad (pst.) |     | 68,4 |
 
-12>
+Brø
 
-Pensjonsgrunnlag i G
+||
+||
+||
 
-Figur 9.7 Faktisk kompensasjonsgrad og antall personer for statsansatte med heltid og full opptjening
+BrøTabell 9.8 viser beregning av pensjon dersom Silje tar ut full folketrygd og tjenestepensjon ved 67 år. Den beregnede pensjonsbeholdningen og den faktiske pensjonsbeholdningen vil da være like. Bruttopensjonen utgjør 66 prosent av pensjonsgrunnlaget levealdersjustert med justeringstallet for 1963-kullet ved 67 år, som er 1,205. Samordningsfradraget utgjør samordningsbeholdningen, det vil si pensjonsbeholdningen fratrukket den samordningsfrie delen på 2 prosent, dividert med delingstallet ved 67 år. Etter samordning gis det et tillegg på 2,5 G, dividert på delingstallet ved 67 år. Folketrygden er den faktiske pensjonsbeholdningen ved 67 år dividert med delingstallet ved 67 år. Ved 67 år vil samlet årlig pensjon for Silje bli 326 966 kroner og samlet kompensasjonsgrad blir 58,2 prosent.
 
-9.3.2 Statens pensjonskasse
-I dette punktet illustreres samlet pensjon og sammensetning av samlet pensjon for et utvalg av
-Statens
-pensjonskasses
-alderspensjonister.
-Beregningene fra Statens pensjonskasse er gjort
-på 1945-kullet for ansatte i staten og skolene som
-mottar pensjon fra en aktiv stilling. Beregningene inkluderer både dem som går av med
-alderspensjon og AFP, dem som går av med særalderspensjon og dem som tidligere har mottatt
-uføretrygd. Totalt inngår 7 162 personer i beregningene fra Statens pensjonskasse. Beregningene viser først kompensasjonsnivåer for staten
-og deretter for skolene.
-9.3.2.1 Statsansatte med full opptjening og heltid
-Figur 9.7 viser faktiske gjennomsnittlige kompensasjonsgrader, med dagens samordningsregler og forslaget til nye samordningsregler, for
-statsansatte fordelt etter pensjonsgrunnlag. Figuren inkluderer alle statsansatte som har full opptjening og som har jobbet heltid, til sammen
-1 662 personer. For dem med lavest pensjonsgrunnlag, under 4 G, er kompensasjonsgraden i
-gjennomsnitt om lag 8 prosentpoeng lavere med
-forslaget til nye samordningsregler enn med
-dagens samordningsregler. Det er imidlertid kun
-fire medlemmer med pensjonsgrunnlag under
-4 G. For dem med pensjonsgrunnlag mellom 4 G
-og 5 G er kompensasjonsgraden med forslaget til
-nye samordningsregler om lag 3 prosentpoeng
+BrøBrøBeregning av pensjon ved samtidig uttak av gradert tjenestepensjon og folketrygd. 50 prosent tjenestepensjon og 50 prosent folketrygd tas ut ved 67 år, og 100 prosent tjenestepensjon og folketrygd tas ut ved 70 år
 
-lavere enn med dagens samordningsregler. For
-pensjonsgrunnlag over 5 G er reduksjonen i
-kompensasjonsgrad med forslaget til nye samordningsregler, sammenlignet med dagens samordningsregler, klart mindre. For pensjonsgrunnlag over 10 G øker samlet kompensasjonsgrad marginalt med forslaget til nye samordningsregler. Samlet kompensasjonsgrad faller
-noe mindre med pensjonsgrunnlag med forslaget til nye samordningsregler enn med dagens
-samordningsregler. Gjennomsnittlig kompensasjonsgrad for bestanden er 72,3 prosent med
-dagens samordningsregler og 71,5 prosent med
-forslaget til nye samordningsregler, det vil si en
-differanse på 0,8 prosentpoeng.
-Figur 9.8 illustrerer bidragene til samlet kompensasjon fra folketrygden og fra tjenestepensjonen.
+BrøBrø
 
-9.3.2.2 Statsansatte – alle
-Figur 9.9 omfatter alle statsansatte født i 1945,
-det vil si også dem som ikke har full opptjening
-og/eller som har jobbet deltid. Figuren omfatter
-3 646 personer. For dem med pensjonsgrunnlag
-mellom 0 G og 3 G er kompensasjonsgraden i
-gjennomsnitt 1 prosentpoeng lavere med forslaget til nye samordningsregler enn med dagens
-samordningsregler. For dem med pensjonsgrunnlag mellom 3 G og 4 G, er kompensasjonsgraden i gjennomsnitt 6 prosentpoeng lavere
-med forslaget til nye samordningsregler. Det er
-totalt 284 medlemmer med pensjonsgrunnlag
+||
+||
+||
 
-[Side 63]
+Brø
 
-2017–2018
+|                               |                      |           |
+|-------------------------------|----------------------|-----------|
+| Pensjonsbeholdning ved 67 år: | 533 714 × 0,181 × 40 | 3 864 088 |
 
-63
+Brø
 
-Prop. 61 L
+||
+||
+||
 
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
+Brø
 
-Dagens samordning
+|                                  |                  |           |
+|----------------------------------|------------------|-----------|
+| Samordningsbeholdning ved 67 år: | 0,98 × 3 864 088 | 3 786 806 |
 
-Ny samordning
+Brø
 
-FT
+||
+||
+||
+||
 
-FT
+Brø
 
-Tjenestepensjon
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><p><em>Pensjon etter</em><br />
+<em> levealdersjustering </em></p></td>
+</tr>
+</tbody>
+</table>
 
-100 %
-90 %
+Brø
 
-100 %
-90 %
+||
+||
+||
+||
 
-80 %
+Brø
 
-80 %
-70 %
+|                                  |                     |         |
+|----------------------------------|---------------------|---------|
+| Brutto tjenestepensjon ved 67 år | 0,5 × 370 791/1,205 | 153 855 |
 
-70 %
-60 %
+Brø
 
-Tjenestepensjon
+||
+||
+||
 
-60 %
-50 %
+Brø
 
-50 %
-40 %
+|                                 |                       |         |
+|---------------------------------|-----------------------|---------|
+| \- Samordningsfradrag ved 67 år | 0,5 × 3 786 806/16,17 | 117 094 |
 
-Pensjonsgrunnlag i G
+Brø
 
-12>
+||
+||
+||
 
-11–12
+Brø
 
-10–11
+|                             |                     |       |
+|-----------------------------|---------------------|-------|
+| \+ Tillegg etter samordning | 0,5 × 234 085/16,17 | 7 238 |
 
-9–10
+Brø
 
-8–9
+||
+||
+||
 
-7–8
+Brø
 
-6–7
+|                                   |     |        |
+|-----------------------------------|-----|--------|
+| = Netto tjenestepensjon ved 67 år |     | 44 000 |
 
-5–6
+Brø
 
-3–4
+||
+||
+||
 
-12>
+Brø
 
-11–12
+|                         |                       |         |
+|-------------------------|-----------------------|---------|
+| \+ Folketrygd ved 67 år | 0,5 × 3 864 088/16,17 | 119 483 |
 
-10–11
+Brø
 
-9–10
+||
+||
+||
 
-8–9
+Brø
 
-7–8
+|                            |     |         |
+|----------------------------|-----|---------|
+| = Samlet pensjon ved 67 år |     | 163 483 |
 
-6–7
+Brø
 
-0%
-5–6
+||
+||
+||
 
-0%
-4–5
+Brø
 
-20 %
-10 %
-3–4
+|  |  |  |
+|----|----|----|
+| Beregnet pensjonsbeholdning ved 70 år: | 3 864 088 + 3 × 0,181 × 280 902 | 4 016 618 |
 
-10 %
+Brø
 
-4–5
+||
+||
+||
 
-40 %
-30 %
+Brø
 
-30 %
-20 %
+|                                  |                  |           |
+|----------------------------------|------------------|-----------|
+| Samordningsbeholdning ved 70 år: | 0,98 × 4 016 618 | 3 936 285 |
 
-Pensjonsgrunnlag i G
+Brø
 
-Figur 9.8 Dekomponert faktisk kompensasjonsgrad for statsansatte med heltid og full opptjening
+||
+||
+||
+||
 
-Dagens samordning
+Brø
 
-Ny samordning
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><p><em>Pensjon etter</em><br />
+<em> levealdersjustering </em></p></td>
+</tr>
+</tbody>
+</table>
 
-120%
+Brø
 
-1200
+||
+||
+||
+||
 
-100%
+Brø
 
-1000
+|  |  |  |
+|----|----|----|
+| Brutto tjenestepensjon ved 70 år | 153 855 × (1 – 0,0075)<sup>3 </sup>+ 0,5 × 370 791/1,026 | 331 116 |
 
-80%
+Brø
 
-800
+||
+||
+||
 
-60%
+Brø
 
-600
+|  |  |  |
+|----|----|----|
+| \- Samordningsfradrag ved 70 år | 117 094 × (1 – 0,0075)<sup>3 </sup>+ 0,5 × 3 936 285/13,77 | 285 860 |
 
-40%
+Brø
 
-400
+||
+||
+||
 
-20%
+Brø
 
-200
+|  |  |  |
+|----|----|----|
+| \+ Tillegg etter samordning | 7 238 × (1 – 0,0075)<sup>3 </sup>+ 0,5 × 234 085/13,77 | 15 576 |
 
-0%
+Brø
 
-Antall
+||
+||
+||
 
-Kompensasjonsgrad
+Brø
 
-Antall
+|                                   |     |        |
+|-----------------------------------|-----|--------|
+| = Netto tjenestepensjon ved 70 år |     | 89 284 |
 
-0
-0–3
+Brø
 
-3–4
+||
+||
+||
 
-4–5
+Brø
 
-5–6
+|  |  |  |
+|----|----|----|
+| \+ Folketrygd ved 70 år | (119 483)(1 – 0,0075)<sup>3 </sup>+ 2 084 574/13,77 | 268 200 |
 
-6–7
+Brø
 
-7–8
+||
+||
+||
 
-8–9
+Brø
 
-9–10
+|                            |     |         |
+|----------------------------|-----|---------|
+| = Samlet pensjon ved 70 år |     | 357 485 |
 
-10–11
+Brø
 
-11–12
+||
+||
+||
 
-12>
+Brø
 
-Pensjonsgrunnlag i G
+|                          |     |      |
+|--------------------------|-----|------|
+| Kompensasjonsgrad (pst.) |     | 63,6 |
 
-Figur 9.9 Faktisk kompensasjonsgrad og antall personer for statsansatte, alle
+Brø
 
-under 4 G. For dem med pensjonsgrunnlag mellom 4 G og 5 G er kompensasjonsgraden i gjennomsnitt 2 prosentpoeng lavere med forslaget til
-nye samordningsregler, enn med dagens samordningsregler. For pensjonsgrunnlag over 5 G
-er kompensasjonsgraden med dagens samordningsregler og forslaget til nye samordningsregler om lag lik.
-Gjennomsnittlig
-kompensasjonsgrad
-for
-bestanden er 71,9 prosent med dagens samordningsregler og 70,6 prosent med forslaget til nye
+||
+||
+||
 
-samordningsregler, det vil si en differanse på 1,3
-prosentpoeng.
-Figur 9.10 illustrerer bidragene til samlet kompensasjon fra folketrygden og fra tjenestepensjonen.
+BrøDersom Silje venter med å ta ut folketrygd og tjenestepensjon til hun er 70 år, vil hun delvis kompensere for levealdersjusteringen. Opptjeningen i folketrygden øker ved at hun får pensjonsopptjening for ytterligere tre år med en inntekt på 6 G. Ved 70 år har hun da 43 opptjeningsår i folketrygden, med en gjennomsnittlig opptjening på 5,72 G. Siden tjenestepensjon og folketrygd tas ut samtidig, er den beregnede pensjonsbeholdningen fortsatt lik den faktiske pensjonsbeholdningen. Tabell 9.9 illustrerer beregningen av samlet pensjon ved 70 år i dette tilfellet.
 
-9.3.2.3 Skole – full opptjening og heltid
-Figur 9.11 viser faktiske kompensasjonsgrader
-med dagens samordningsregler og med forslaget
-til nye samordningsregler for lærere, fordelt etter
-pensjonsgrunnlag. Figuren inkluderer alle født i
+Bruttopensjonen levealdersjusteres nå med justeringstallet for 1963-kullet ved 70 år, 1,026 i dette tilfellet. Samordningsbeholdningen ved 70 år er den faktiske pensjonsbeholdningen ved 70 år, fratrukket den samordningsfrie delen på 2 prosent. Samordningsfradraget er lik denne beholdningen dividert med delingstallet ved 70 år, som er 13,77. Etter samordning gis det et tillegg lik 2,5 G, dividert på delingstallet ved 70 år. Alderspensjonen fra folketrygden er den faktiske pensjonsbeholdningen ved 70 år dividert med delingstallet ved 70 år. Ved 70 år vil samlet årlig pensjon for Silje bli 384 449 kroner, og samlet kompensasjonsgrad blir 68,4 prosent.
 
-[Side 64]
+Silje kan alternativt gå ned til 50 prosent stilling fra 67 år og fra samme tidspunkt ta ut 50 prosent alderspensjon fra folketrygden og tjenestepensjonsordningen ved 67 år. Fra 70 år fratrer hun den resterende 50 prosent stillingen og tar ut 100 prosent alderspensjon fra folketrygden og tjenestepensjonsordningen. Tabell 9.10 viser beregning av samlet pensjon ved 67 og 70 år i dette tilfellet.
 
-64
+Den beregnede pensjonsbeholdningen er da lik den faktiske pensjonsbeholdningen ved 67 år. Nettopensjonen ved 67 år er følgelig halvparten av det den ville vært med fullt uttak ved 67 år. Den nettopensjonen og folketrygden som følger av 50 prosent uttak ved 67 år er «låst», og det eneste som skjer med denne frem til 70 år, er årlig regulering.
 
-2017–2018
+Ved 70 år skal den resterende delen av brutto tjenestepensjon samordnes med alderspensjon fra folketrygden. Pensjonsbeholdningen har da økt med 18,1 prosent av 3 G i tre år. Den beregnede pensjonsbeholdningen er nå basert på 43 år med en gjennomsnittlig inntekt på 5,51 G. Den faktiske pensjonsbeholdningen er 50 prosent av den pensjonsbeholdningen hun hadde ved 67 år pluss opptjeningen mellom 67 og 70 år. Samordningsbeholdningen ved 67 år er den beregnede pensjonsbeholdningen ved 70 år, fratrukket de samordningsfrie delene. Alderspensjon under utbetaling reguleres årlig noe svakere enn lønnsveksten. Dette må det tas hensyn til i den delen av pensjonen som tas ut fra 67 år, både i bruttopensjonen, i alderspensjonen fra folketrygden og i samordningsfradraget.
 
-Prop. 61 L
+BrøI dette tilfellet er samlet årlig pensjon ved 70 år 357 481 kroner og samlet kompensasjonsgrad er 63,6 prosent.
 
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
+BrøBrø**Beregning av pensjon når det gis garantipensjon fra folketrygden**
 
-Ny samordning
+BrøFor å illustrere hvordan pensjonen beregnes når det utbetales garantipensjon fra folketrygden, vises det til typeeksemplet Snorre. Forutsetninger om pensjonsopptjening for Snorre går frem av boks 9.2.
 
-FT
+BrøBrø**Forutsetninger Snorre**
 
-FT
+BrøBrøSivilstand: Enslig
 
-12>
-
-11–12
-
-10–11
-
-9–10
-
-8–9
-
-12>
-
-Pensjonsgrunnlag i G
-
-7–8
-
-0%
-6–7
-
-0%
-
-Tjenestepensjon
-
-5–6
-
-20 %
-
-0–3
-
-20 %
-
-11–12
-
-40 %
-
-10–11
-
-40 %
-
-9–10
-
-60 %
-
-8–9
-
-60 %
-
-7–8
-
-80 %
-
-6–7
-
-80 %
-
-5–6
-
-100 %
-
-4–5
-
-100 %
-
-3–4
-
-120 %
-
-0–3
-
-120 %
-
-3–4
-
-Tjenestepensjon
-
-4–5
-
-Dagens samordning
-
-Pensjonsgrunnlag i G
-
-Figur 9.10 Dekomponert faktisk kompensasjonsgrad for statsansatte, alle
-
-Antall
-
-Dagens samordning
-
-Ny samordning
-
-100%
-
-800
-700
-600
-500
-
-60%
-
-400
-40%
-
-Antall
-
-Kompensasjonsgrad
-
-80%
-
-300
-200
-
-20%
-
-100
-0%
-
-0
-3–4
-
-4–5
-
-5–6
-
-6–7
-
-7–8
-
-8–9
-
-9–10
-
-10–11
-
-Pensjonsgrunnlag i G
-
-Figur 9.11 Faktisk kompensasjonsgrad og antall lærere med heltid og full opptjening
-
-1945 med full opptjening som har jobbet heltid, til
-sammen 1 229 personer.
-For dem med lavest pensjonsgrunnlag, under 5
-G, er kompensasjonsgraden mellom 3 og 10 prosentpoeng lavere med forslaget til nye samordningsregler. Det er imidlertid kun fire medlemmer med
-pensjonsgrunnlag under 5 G blant lærerne. For dem
-med pensjonsgrunnlag over 5 G er samlet kompensasjon med dagens samordningsregler og med forslaget til nye samordningsregler tilnærmet lik.
-Gjennomsnittlig
-kompensasjonsgrad
-for
-bestanden er 70,5 prosent med dagens samord-
-
-ningsregler og 70,3 prosent med forslaget til nye
-samordningsregler, det vil si en differanse på 0,2
-prosentpoeng.
-Figur 9.12 illustrerer bidragene til samlet kompensasjonsgrad fra folketrygden og fra tjenestepensjonen.
-
-9.3.2.4 Skole – alle
-Figur 9.13 inkluderer alle lærerne født i 1945, det
-vil si også dem som ikke har full opptjening og som
-har jobbet deltid. Figuren omfatter 3 516 personer.
-
-[Side 65]
-
-2017–2018
-
-65
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Dagens samordning
-
-Ny samordning
-
-FT
-
-FT
-
-10–11
-
-10–11
-
-8–9
-
-Pensjonsgrunnlag i G
-
-9–10
-
-0%
-8–9
-
-10 %
-
-0%
-
-7–8
-
-20 %
-
-10 %
-
-6–7
-
-30 %
-
-20 %
-
-Tjenestepensjon
-
-5–6
-
-40 %
-
-30 %
-
-3–4
-
-50 %
-
-40 %
-
-9–10
-
-60 %
-
-50 %
-
-7–8
-
-70 %
-
-60 %
-
-6–7
-
-80 %
-
-70 %
-
-5–6
-
-90 %
-
-80 %
-
-4–5
-
-100 %
-
-90 %
-
-3–4
-
-100 %
-
-4–5
-
-Tjenestepensjon
-
-Pensjonsgrunnlag i G
-
-Figur 9.12 Dekomponert faktisk kompensasjonsgrad for lærere med heltid og full opptjening
-
-Antall
-
-Dagens samordning
-
-Ny samordning
-
-120%
-
-1800
-1600
-
-100%
-80%
-
-1200
-1000
-
-60%
-
-800
-
-40%
-
-Antall
-
-Kompensasjonsgral
-
-1400
-
-600
-400
-
-20%
-
-200
-
-0%
-
-0
-0–3
-
-3–4
-
-4–5
-
-5–6
-
-6–7
-
-7–8
-
-8–9
-
-9–10
-
-10–11
-
-Pensjonsgrunnlag i G
-
-Figur 9.13 Faktisk kompensasjonsgrad og antall, alle lærerne
-
-For dem med pensjonsgrunnlag mellom 0 G og 3 G
-er kompensasjonsgraden lik med forslaget til nye
-samordningsregler og med dagens samordningsregler. For dem med pensjonsgrunnlag mellom 3 G
-og 4 G er kompensasjonsgraden om lag 8 prosentpoeng lavere og for dem med pensjonsgrunnlag
-mellom 4 G og 5 G er kompensasjonsgraden om
-lag 4 prosentpoeng lavere. Det er totalt 350 medlemmer med pensjonsgrunnlag under 5 G. For pensjonsgrunnlag over 5 G er kompensasjonsgraden
-med dagens samordningsregler og med forslaget
-til nye samordningsregler om lag lik.
-
-Gjennomsnittlig
-kompensasjonsgrad
-for
-bestanden er 70,1 prosent med dagens
-samordningsregler og 69,3 prosent med forslaget
-til nye samordningsregler, det vil si en differanse
-på 0,8 prosentpoeng.
-Figur 9.14 illustrerer bidragene til samlet kompensasjonsgrad fra folketrygden og fra tjenestepensjonen.
-Tabellene 9.1 og 9.2 viser noen hovedtall fra
-beregningene fra Statens pensjonskasse.
-
-[Side 66]
-
-66
-
-2017–2018
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Dagens samordning
-
-Ny samordning
-
-FT
-
-FT
-
-10–11
-
-9–10
-
-10–11
-
-Pensjonsgrunnlag i G
-
-8–9
-
-0%
-7–8
-
-0%
-
-6–7
-
-20 %
-
-5–6
-
-20 %
-
-Tjenestepensjon
-
-4–5
-
-40 %
-
-0–3
-
-40 %
-
-9–10
-
-60 %
-
-8–9
-
-60 %
-
-7–8
-
-80 %
-
-6–7
-
-80 %
-
-5–6
-
-100 %
-
-4–5
-
-100 %
-
-3–4
-
-120 %
-
-0–3
-
-120 %
-
-3–4
-
-Tjenestepensjon
-
-Pensjonsgrunnlag i G
-
-Figur 9.14 Dekomponert faktisk kompensasjonsgrad for alle lærere
-Tabell 9.1 Hovedtall for dagens og nye samordningsregler. Statsansatte SPK
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-3,11
-
-1,21
-
-4,32
-
-71,9
-
-3,28
-
-0,98
-
-4,26
-
-70,6
-
--1,3
-
-Full opptjening og fulltid
-
-3,39
-
-1,55
-
-4,94
-
-72,3
-
-3,74
-
-1,16
-
-4,89
-
-71,5
-
--0,8
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-av sluttlønn. «Differanse pp.» er forskjellen i samlet kompensasjonsgrad med dagens og ny samordning i prosentpoeng.
-
-Tabell 9.2 Hovedtall for dagens og nye samordningsregler. Skole SPK
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-3,02
-
-1,27
-
-4,29
-
-70,1
-
-3,13
-
-1,12
-
-4,25
-
-69,3
-
--0,8
-
-Full opptjening og fulltid
-
-3,27
-
-1,46
-
-4,72
-
-70,5
-
-3,58
-
-1,12
-
-4,71
-
-70,3
-
--0,2
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-av sluttlønn. «Differanse pp.» er forskjellen i samlet kompensasjonsgrad med dagens og ny samordning i prosentpoeng.
-
-9.3.3 Kommunal landspensjonskasse
-Kommunal Landspensjonskasse har beregnet
-samlet pensjon og sammensetningen av samlet
-pensjon for et utvalg av alderspensjonistene sine.
-Beregningene er gjort på 1945-, 1946-, 1947- og
-1948-kullet og omfatter 22 454 personer. Beregningene inkluderer både personer med ordinær
-aldersgrense, personer med særaldersgrense og
-personer som tidligere har mottatt uførepensjon.
-
-Beregningene er gjort separat for fem risikofellesskap i Kommunal Landspensjonskasse, men
-hovedtyngden av det som presenteres i punktet
-her omfatter risikofellesskapet for fellesordningen
-for kommuner og bedrifter. Avslutningsvis presenteres noen hovedtall for pensjonsordningen
-for sykepleiere, fellesordningen for fylkeskommuner, fellesordningen for statlige helseforetak og
-pensjonsordningen for sykehusleger.
-
-[Side 67]
-
-2017–2018
-
-67
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Antall
-
-Dagens samordning
-
-Ny samordning
-
-90%
-
-1400
-
-80%
-
-1200
-1000
-
-60%
-50%
-
-800
-
-40%
-
-600
-
-30%
-
-Antall
-
-Kompensasjonsgrad
-
-70%
-
-400
-
-20%
-200
-
-10%
-0%
-
-0
-3–4
-
-4–5
-
-5–6
-
-6–7
-
-7–8
-
-8–9
-
-9–10
-
-10–11
-
-11–12
-
-12>
-
-Pensjonsgrunnlag i G
-
-Figur 9.15 Kompensasjonsgrader og antall personer med heltid og full opptjening i fellesordningen for
-kommuner og bedrifter
-
-9.3.3.1
-
-Fellesordningen for kommuner og
-bedrifter – full opptjening og heltid
-
-Linjene i figur 9.15 viser faktiske kompensasjonsgrader med dagens samordningsregler og med
-forslaget til nye samordningsregler for ansatte i
-fellesordningen for kommuner og bedrifter fordelt
-etter pensjonsgrunnlag. Figuren inkluderer alle
-medlemmer i fellesordningen for kommuner og
-bedrifter født i perioden 1945–1948, som har full
-opptjeningstid og som har jobbet heltid, totalt
-2 928 medlemmer. For dem med lavest pensjonsgrunnlag, under 4 G, er samlet kompensasjon
-med forslaget til nye samordningsregler om lag 5
-prosentpoeng lavere enn med dagens samordningsregler. Det er imidlertid veldig få personer
-med pensjonsgrunnlag under 4 G, kun 43 medlemmer til sammen fra 1945–1948-kullene. For
-dem med pensjonsgrunnlag mellom 4 G og 5 G er
-samlet kompensasjon med forslaget til nye samordningsregler om lag 3 prosentpoeng lavere enn
-med dagens samordningsregler. Det er i dette inntektsintervallet det er klart flest medlemmer. For
-pensjonsgrunnlag over 5 G er forskjellen mellom
-dagens samordningsregler og forslaget til nye
-samordningsregler liten. For dem med pensjonsgrunnlag over 7 G er kompensasjonsgraden med
-forslaget til nye samordningsregler marginalt høyere enn med dagens samordningsregler. Dette
-betyr at samlet kompensasjonsgrad med forslaget
-til nye samordningsregler er mindre fallende med
-pensjonsgrunnlag enn med dagens samordningsregler.
-
-Gjennomsnittlig
-kompensasjonsgrad
-for
-bestanden er 72,0 prosent med dagens samordningsregler og 70,5 prosent med forslaget til nye
-samordningsregler, det vil si en differanse på 1,5
-prosentpoeng.
-Figur 9.16 illustrerer bidragene til samlet kompensasjonsgrad fra folketrygden og fra tjenestepensjonen.
-
-9.3.3.2
-
-Fellesordningen for kommuner og
-bedrifter – alle
-
-Figur 9.17 viser faktiske kompensasjonsgrader
-med dagens samordningsregler og forslaget til
-nye samordningsregler for alle (det vil si også
-dem uten full opptjening og med deltid) i fellesordningen for kommuner og bedrifter fordelt etter
-pensjonsgrunnlag. Figuren inkluderer 13 849
-medlemmer.
-For dem med pensjonsgrunnlag under 3 G er
-kompensasjonsgraden med forslaget til nye samordningsregler om lag 12 prosentpoeng lavere
-enn med dagens samordningsregler. Det er totalt
-3 342 medlemmer med pensjonsgrunnlag under
-3 G. For dem med pensjonsgrunnlag mellom 3 G
-og 4 G er kompensasjonsgraden om lag 7 prosentpoeng lavere med forslaget til nye samordningsregler, og det er 3 727 medlemmer i dette intervallet. I det intervallet hvor det er flest medlemmer,
-pensjonsgrunnlag mellom 4 G og 5 G, er kompensasjonsgraden om lag 4 prosentpoeng lavere med
-forslaget til nye samordningsregler. I dette intervallet er det 4 027 medlemmer. For pensjons-
-
-[Side 68]
-
-68
-
-2017–2018
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Ny samordning
-
-FT
-
-FT
-
-12>
-
-11–12
-
-10–11
-
-12>
-
-Pensjonsgrunnlag i G
-
-9–10
-
-0%
-8–9
-
-10 %
-
-0%
-
-7–8
-
-20 %
-
-10 %
-
-Tjenestepensjon
-
-6–7
-
-20 %
-
-3–4
-
-30 %
-
-11–12
-
-30 %
-
-10–11
-
-40 %
-
-9–10
-
-50 %
-
-40 %
-
-8–9
-
-60 %
-
-50 %
-
-7–8
-
-70 %
-
-60 %
-
-6–7
-
-80 %
-
-70 %
-
-5–6
-
-90 %
-
-80 %
-
-4–5
-
-100 %
-
-90 %
-
-3–4
-
-100 %
-
-4–5
-
-Tjenestepensjon
-
-5–6
-
-Dagens samordning
-
-Pensjonsgrunnlag i G
-
-Figur 9.16 Dekomponerte faktiske kompensasjonsgrader for personer med heltid og full opptjening –
-Fellesordningen for kommuner og bedrifter
-
-Antall
-
-Dagens samordning
-
-Ny samordning
-
-100%
-
-4500
-4000
-3500
-3000
-
-60%
-
-2500
-2000
-
-40%
-
-Antall
-
-Kompensasjonsgrad
-
-80%
-
-1500
-1000
-
-20%
-
-500
-0%
-
-0
-0–3
-
-3–4
-
-4–5
-
-5–6
-
-6–7
-
-7–8
-
-8–9
-
-9–10
-
-10–11
-
-11–12
-
-12>
-
-Pensjonsgrunnlag i G
-
-Figur 9.17 Kompensasjonsgrader og antall personer i fellesordningen for kommuner og bedrifter, alle
-
-grunnlag over 5 G er forskjellen mellom dagens
-samordningsregler og forslaget til nye samordningsregler klart mindre. For dem med pensjonsgrunnlag over 7 G er kompensasjonsgraden marginalt høyere med forslaget til nye samordningsregler. Dette betyr at samlet kompensasjonsgrad
-med forslaget til nye samordningsregler er klart
-mindre fallende med pensjonsgrunnlag enn med
-dagens samordningsregler.
-
-Gjennomsnittlig
-kompensasjonsgrad
-for
-bestanden er 75,9 prosent med dagens samordningsregler og 70,9 prosent med forslaget til nye
-samordningsregler, det vil si en differanse på 5,0
-prosentpoeng.
-Figur 9.18 illustrerer bidragene til samlet kompensasjonsgrad fra folketrygden og fra tjenestepensjonen.
-
-[Side 69]
-
-2017–2018
-
-69
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Dagens samordning
-
-Ny samordning
-
-FT
-
-FT
-
-Pensjonsgrunnlag i G
-
-12>
-
-11–12
-
-10–11
-
-9–10
-
-8–9
-
-7–8
-
-6–7
-
-Tjenestepensjon
-
-5–6
-
-12>
-
-4–5
-
-0%
-0–3
-
-10 %
-
-0%
-11–12
-
-20 %
-
-10 %
-10–11
-
-30 %
-
-20 %
-
-9–10
-
-40 %
-
-30 %
-
-8–9
-
-50 %
-
-40 %
-
-7–8
-
-60 %
-
-50 %
-
-6–7
-
-70 %
-
-60 %
-
-5–6
-
-80 %
-
-70 %
-
-4–5
-
-90 %
-
-80 %
-
-3–4
-
-100 %
-
-90 %
-
-0–3
-
-100 %
-
-3–4
-
-Tjenestepensjon
-
-Pensjonsgrunnlag i G
-
-Figur 9.18 Dekomponerte kompensasjonsgrader for fellesordningen for kommuner og bedrifter, alle
-
-9.3.3.3
-
-Fellesordningen for kommuner og
-bedrifter – deltid
-I fellesordningen for kommuner og bedrifter er
-det et stort omfang av deltid. Figur 9.19 viser faktiske kompensasjonsgrader etter pensjonsgrunnlag for dem som har jobbet deltid. Deltid inkluderer dem som har en gjennomsnittlig stillingsprosent under 100. Gruppen omfatter om lag 9 804
-personer, og dette er om lag 70 prosent av alle
-pensjonerte medlemmer i fellesordningen for
-kommuner og bedrifter.
-
-Antall
-
-For dem med pensjonsgrunnlag under 3 G er
-samlet kompensasjon med forslaget til nye samordningsregler om lag 15 prosentpoeng lavere
-enn med dagens samordningsregler. Det er totalt
-3 341 medlemmer med pensjonsgrunnlag under
-3 G. Det er 3 656 medlemmer som har pensjonsgrunnlag mellom 3 G og 4 G, og for disse er samlet kompensasjon om lag 8 prosentpoeng lavere
-med forslaget til nye samordningsregler. For dem
-med pensjonsgrunnlag mellom 4 G og 5 G er samlet kompensasjonsgrad om lag 4 prosentpoeng
-lavere med forslaget til nye samordningsregler. I
-dette intervallet er det 2 244 medlemmer. For pen-
-
-Dagens samordning
-
-Ny samordning
-
-100%
-
-4000
-3500
-3000
-2500
-
-60%
-
-2000
-40%
-
-1500
-1000
-
-20%
-
-500
-0
-
-0%
-0–3
-
-3–4
-
-4–5
-
-5–6
-
-6–7
-
-7–8
-
-8–9
-
-9–10
-
-10–11
-
-Pensjonsgrunnlag i G
-
-Figur 9.19 Kompensasjonsgrad og antall personer i fellesordningen for kommuner og bedrifter, deltid
-
-Antall
-
-Kompensasjonsgrad
-
-80%
-
-[Side 70]
-
-70
-
-2017–2018
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Dagens samordning
-
-Ny samordning
-
-FT
-
-FT
-
-10–11
-
-9–10
-
-8–9
-
-7–8
-
-10–11
-
-Pensjonsgrunnlag i G
-
-6–7
-
-0%
-5–6
-
-10 %
-
-0%
-
-Tjenestepensjon
-
-4–5
-
-20 %
-
-10 %
-
-0–3
-
-30 %
-
-20 %
-
-9–10
-
-40 %
-
-30 %
-
-8–9
-
-50 %
-
-40 %
-
-7–8
-
-60 %
-
-50 %
-
-6–7
-
-70 %
-
-60 %
-
-5–6
-
-80 %
-
-70 %
-
-4–5
-
-90 %
-
-80 %
-
-3–4
-
-100 %
-
-90 %
-
-0–3
-
-100 %
-
-3–4
-
-Tjenestepensjon
-
-Pensjonsgrunnlag i G
-
-Figur 9.20 Dekomponerte kompensasjonsgrader for fellesordningen for kommuner og bedrifter, deltid
-Tabell 9.3 Hovedtall for dagens samordningsregler og forslaget til nye samordningsregler for fellesordningen
-for kommuner og bedrifter
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-2,34
-
-0,75
-
-3,10
-
-75,9
-
-2,33
-
-0,57
-
-2,89
-
-70,9
-
--5,0
-
-Full opptjening og fulltid
-
-2,93
-
-1,13
-
-4,06
-
-72,0
-
-2,95
-
-1,02
-
-3,97
-
-70,5
-
--1,5
-
-Deltid
-
-2,11
-
-0,64
-
-2,75
-
-79,0
-
-2,08
-
-0,42
-
-2,50
-
-71,9
-
--7,1
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-av sluttlønn. «Differanse pp.» er forskjellen i samlet kompensasjonsgrad med dagens og ny samordning i prosentpoeng.
-
-sjonsgrunnlag over 5 G er forskjellen mellom
-dagens samordningsregler og forslaget til nye
-samordningsregler klart mindre. Dette betyr at
-samlet kompensasjonsgrad med forslaget til nye
-samordningsregler er klart mindre fallende med
-pensjonsgrunnlag enn med dagens samordningsregler.
-Gjennomsnittlig kompensasjonsgrad for alle
-med deltid er 79,0 prosent med dagens samordningsregler og 71,9 prosent med forslaget til nye
-samordningsregler, det vil si en differanse på 7,1
-prosentpoeng.
-Figur 9.20 viser hvor mye av samlet pensjon
-som kommer fra folketrygden og hvor mye som
-kommer fra tjenestepensjonsordningen.
-Tabell 9.3 viser noen hovedtall for dagens samordningsregler og forslaget til nye samordningsregler for fellesordningen for kommuner og
-bedrifter.
-
-Forslaget til nye samordningsregler i proposisjonen her gir høyere kompensasjonsgrader enn
-forslaget i høringsnotatet. Dette gjelder særlig
-personer som har et lavt pensjonsgrunnlag og
-som har arbeidet deltid.
-
-9.3.3.4 Hovedtall for øvrige risikofellesskap i KLP
-Tallene for pensjonsordningen for sykepleiere,
-fellesordningen for fylkeskommuner og fellesordningen for statlige helseforetak, se henholdsvis tabell 9.4, 9.5 og 9.6, viser de samme hovedresultatene som tabell 9.3 for fellesordningen for
-kommuner og bedrifter. Det er små forskjeller i
-gjennomsnittlig kompensasjonsgrad med dagens
-samordningsregler og med forslaget til nye samordningsregler når man kun ser på dem med full
-opptjening og heltid. Forskjellen i gjennomsnittlig kompensasjonsgrad med dagens sam-
-
-[Side 71]
-
-2017–2018
-
-71
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Tabell 9.4 Hovedtall for dagens samordningsregler og forslaget til nye samordningsregler for
-pensjonsordningen for sykepleiere
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-2,70
-
-1,02
-
-3,72
-
-74,4
-
-2,63
-
-0,88
-
-3,51
-
-70,1
-
--4,2
-
-Full opptjening og fulltid
-
-3,08
-
-1,22
-
-4,30
-
-70,8
-
-3,05
-
-1,20
-
-4,25
-
-70,1
-
--0,7
-
-Deltid
-
-2,60
-
-0,97
-
-3,57
-
-75,6
-
-2,52
-
-0,80
-
-3,32
-
-70,3
-
--5,4
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-
-Tabell 9.5 Hovedtall for dagens samordningsregler og forslaget til nye samordningsregler for fellesordningen
-for fylkeskommuner
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-2,49
-
-0,88
-
-3,37
-
-74,1
-
-2,45
-
-0,76
-
-3,21
-
-70,6
-
--3,4
-
-Full opptjening og fulltid
-
-3,05
-
-1,30
-
-4,34
-
-70,5
-
-3,04
-
-1,28
-
-4,31
-
-70,1
-
--0,5
-
-Deltid
-
-2,16
-
-0,68
-
-2,84
-
-78,2
-
-2,11
-
-0,50
-
-2,61
-
-71,9
-
--6,3
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-av sluttlønn. «Differanse pp.» er forskjellen i samlet kompensasjonsgrad med dagens samordningsregler og forslaget til nye samordningsregler i prosentpoeng.
-
-Tabell 9.6 Hovedtall for dagens samordningsregler og forslaget til nye samordningsregler, for
-fellesordningen for statlige helseforetak
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-2,41
-
-0,80
-
-3,21
-
-76,8
-
-2,37
-
-0,61
-
-2,98
-
-71,3
-
--5,4
-
-Full opptjening og fulltid
-
-2,78
-
-1,00
-
-3,78
-
-72,8
-
-2,74
-
-0,93
-
-3,67
-
-70,7
-
--2,1
-
-Deltid
-
-2,23
-
-0,72
-
-2,94
-
-80,4
-
-2,19
-
-0,47
-
-2,65
-
-72,5
-
--7,9
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-av sluttlønn. «Differanse pp.» er forskjellen i samlet kompensasjonsgrad med dagens samordningsregler og forslaget til nye samordningsregler i prosentpoeng.
-
-ordningsregler og med forslaget til nye samordningsregler er klart større blant dem som har
-jobbet deltid. Deltidsgruppen er i flertall i alle
-disse tre fellesskapene i Kommunal Landspensjonskasse og samlet gjør dette at differansen i
-gjennomsnittlig kompensasjonsgrad med dagens
-samordningsregler og med forslaget til nye samordningsregler er klart større enn i Statens pensjonskasse. Pensjonsordningen for sykehus-
-
-leger skiller seg ut fra de andre fellesskapene i
-Kommunal Landspensjonskasse. Dette skyldes
-først og fremst at denne gruppen har et klart
-høyere pensjonsgrunnlag enn de andre gruppene og at kun en liten andel av sykehuslegene
-har jobbet deltid.
-Tabell 9.7 oppsummerer noen hovedtall for
-dagens samordningsregler og forslaget til nye
-samordningsregler for pensjonsordningen for
-
-[Side 72]
-
-72
-
-2017–2018
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Tabell 9.7 Hovedtall for dagens samordningsregler og forslaget til nye samordningsregler, for
-pensjonsordningen for sykehusleger
-Dagens samordning
-
-Ny samordning
-
-Differanse pp.
-
-FT
-
-TP
-
-Sum
-
-KG
-
-FT
-
-TP
-
-Sum
-
-KG
-
-Alle
-
-3,78
-
-3,46
-
-7,24
-
-66,9
-
-3,68
-
-3,68
-
-7,36
-
-68,0
-
-1,1
-
-Full opptjening og fulltid
-
-3,78
-
-3,59
-
-7,37
-
-67,1
-
-3,71
-
-3,80
-
-7,51
-
-68,4
-
-1,3
-
-Deltid
-
-3,75
-
-2,66
-
-6,41
-
-65,9
-
-3,51
-
-2,90
-
-6,41
-
-65,9
-
-0,0
-
-«FT» refererer til gjennomsnittlig utbetaling fra folketrygden, målt i G. «TP» er gjennomsnittlig utbetaling fra offentlig tjenestepensjon målt i G. «Sum» er gjennomsnittlig utbetalt samlet pensjon målt i G. «KG» viser gjennomsnittlig kompensasjonsgrad i prosent
-av sluttlønn. «Differanse pp.» er forskjellen i samlet kompensasjonsgrad med dagens samordningsregler og forslaget til nye samordningsregler i prosentpoeng.
-
-sykehusleger. Totalt består denne gruppen av om
-lag 250 personer, hvorav et klart flertall, 86 prosent, har jobbet fulltid.
-
-9.4
-
-Eksempler på beregning av
-pensjon
-
-9.4.1 Innledning
-Dette punktet belyser hvordan en beregner samlet offentlig tjenestepensjon under ulike forutsetninger om uttaksalder, fødselsår, uttaksgrad, opptjeningsår osv. Eksemplene er begrenset til de årskullene som omfattes av forslagene, det vil si årskull fra og med 1954-kullet. Punktene 9.4.2 til 9.4.4
-viser beregninger for personer som skal ha all
-alderpensjon fra folketrygden beregnet etter nye
-opptjeningsregler, mens punkt 9.4.5 viser beregninger for personer som skal ha folketrygden
-beregnet dels etter nye og dels etter gamle opptjeningsregler.
-Typeeksemplene ser bort fra at årskullene
-født i 1963 eller senere i henhold til avtalen om tjenestepensjon for ansatte i offentlig sektor, inngått
-3. mars 2018, vil bli omfattet av en ny offentlig tjenestepensjonsordning og en ny AFP-ordning.
-Typeeksemplene ser videre bort fra videreføringen av den individuelle garantien for årskullene
-1959–1962 og tillegget til senere årskull som følger av samme avtale. Eksemplene rendyrker derfor effektene av de nye samordningsreglene som
-foreslås i proposisjonen her.
-I alle eksemplene benyttes grunnbeløpet i
-folketrygden fra 1. mai 2017, altså 93 634 kroner.
-Som det er gjort nærmere rede for i punkt
-6.5.3, fastsettes det på uttakstidspunktet for tjenestepensjonen en pensjonsbeholdning i folketrygden. Dersom folketrygden er tatt ut før tjenestepensjonen, vil det ikke være samsvar mellom
-
-beholdningen som ligger til grunn for alderspensjonen som utbetales fra folketrygden og den
-beholdningen som skal legges til grunn ved samordningen. I kapittelet her blir denne effekten
-fremstilt gjennom begrepene faktisk eller beregnet pensjonsbeholdning. Pensjonsopptjeningen
-for et kalenderår tilføres pensjonsbeholdningen
-ved utløpet av året da fastsettingen av formues- og
-inntektskatt for det aktuelle året er ferdig. På
-uttakstidspunktet vil derfor ikke all opptjening
-være tilført pensjonsbeholdningen, men den vil tilføres på et senere tidspunkt. Dette kan omfatte
-opptjeningen både i uttaksåret og opptjeningen i
-inntil to år før uttaksåret. Slik opptjening skal
-inngå i samordningen etter hvert som den tilføres
-pensjonsbeholdningen i folketrygden. For å forenkle fremstillingen, er det i eksemplene nedenfor antatt at all inntekt er ferdiglignet på uttakstidspunktet.
-
-9.4.2
-
-Samtidig uttak av tjenestepensjon og
-folketrygd
-For å illustrere hvordan pensjonen beregnes ved
-samtidig uttak av tjenestepensjon og folketrygd,
-vises det til typeeksemplet Silje. Forutsetninger om
-pensjonsopptjening for Silje går frem av boks 9.1.
-Tabell 9.8 illustrerer hvordan pensjonen
-beregnes dersom Silje tar ut full tjenestepensjon
-og alderspensjon fra folketrygden ved 67 år.
-Tabell 9.9 illustrerer hvordan pensjonen beregnes dersom Silje tar ut full alderspensjon og folketrygd ved 70 år, det vil si at hun kompenserer
-for levealdersjusteringen ved å arbeide etter 67
-år. Tabell 9.10 illustrerer hvordan pensjonen
-beregnes dersom Silje tar ut 50 prosent tjenestepensjon og folketrygd ved 67 år, og den
-resterende delen av tjenestepensjonen og folketrygden ved 70 år.
-
-[Side 73]
-
-2017–2018
-
-73
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Boks 9.1 Forutsetninger Silje
-Sivilstand: Enslig
 Fødselsår: 1963
+
 Grunnbeløp (G): 93 634
-Anslag på delingstall og justeringstall
-62 år
 
-63 år
+BrøAnslag på delingstall og justeringstall
 
-64 år
+BrøBrø
 
-65 år
+||
+||
+||
 
-66 år
+Brø
 
-67 år
+|     |
+|-----|
+|     |
 
-68 år
+Brø
 
-69 år
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 62 år | 63 år | 64 år | 65 år | 66 år | 67 år | 68 år | 69 år | 70 år |
 
-70 år
+Brø
 
-Delingstall
+||
+||
+||
+||
 
-20,21
+Brø
 
-19,40
+|             |
+|-------------|
+| Delingstall |
 
-18,59
+Brø
 
-17,78
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 20,21 | 19,40 | 18,59 | 17,78 | 16,98 | 16,17 | 15,37 | 14,57 | 13,77 |
 
-16,98
+Brø
 
-16,17
+||
+||
+||
 
-15,37
+Brø
 
-14,57
+|                |
+|----------------|
+| Justeringstall |
 
-13,77
+Brø
 
-Justeringstall
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1,506 | 1,446 | 1,385 | 1,325 | 1,265 | 1,205 | 1,145 | 1,086 | 1,026 |
 
-1,506
+Brø
 
-1,446
+||
+||
+||
 
-1,385
+BrøBrø*Alderspensjon fra folketrygden*
 
-1,325
+BrøBrøOpptjeningsmodell i folketrygden: Ny opptjeningsmodell
 
-1,265
+- Opptjeningsår: 30 år ved 67 år
 
-1,205
+- Gjennomsnittlig inntekt ved 67 år: 3 G (280 902 kroner)
 
-1,145
+BrøBrø*Offentlig tjenestepensjon*
 
-1,086
+BrøBrøPensjonsgrunnlag: 3 G (280 902 kroner)
 
-1,026
+- Opptjeningstid: 30 år ved 67 år
 
-Alderspensjon fra folketrygden
+- Stillingsandel: 80 prosent
 
-Offentlig tjenestepensjon
+- Grunnlag for tillegg etter samordning: 2,5 G (234 085 kroner)
 
-–
+BrøBrø**Rammeslutt**
 
-–
-–
-–
-–
+BrøTabell 9.11 illustrerer hvordan pensjonen beregnes dersom Snorre tar ut full tjenestepensjon og alderspensjon fra folketrygden ved 67 år.
 
-–
-–
+BrøBrøBeregning av pensjon når det utbetales garantipensjon fra folketrygden. Samtidig uttak av folketrygd og tjenestepensjon ved 67 år
 
-Opptjeningsmodell i folketrygden: Ny opptjeningsmodell
-Opptjeningsår: 40 år ved 67 år
-Gjennomsnittlig inntekt ved 67 år: 5,7 G
-(533 714 kroner)
+BrøBrø
 
-Tabell 9.8 viser beregning av pensjon dersom
-Silje tar ut full folketrygd og tjenestepensjon ved
-67 år. Den beregnede pensjonsbeholdningen og
-den faktiske pensjonsbeholdningen vil da være
-like. Bruttopensjonen utgjør 66 prosent av pensjonsgrunnlaget levealdersjustert med justeringstallet for 1963-kullet ved 67 år, som er 1,205. Samordningsfradraget utgjør samordningsbeholdningen, det vil si pensjonsbeholdningen fratrukket
-den samordningsfrie delen på 2 prosent, dividert
-med delingstallet ved 67 år. Etter samordning gis
+||
+||
+||
 
-Pensjonsgrunnlag: 6 G (561 804 kroner)
-Opptjeningstid: 35 år ved 67 år
-Stillingsandel: 100 prosent
-Grunnlag for tillegg etter samordning: 2,5 G
-(234 085 kroner)
+Brø
 
-det et tillegg på 2,5 G, dividert på delingstallet ved
-67 år. Folketrygden er den faktiske pensjonsbeholdningen ved 67 år dividert med delingstallet
-ved 67 år. Ved 67 år vil samlet årlig pensjon for
-Silje bli 326 966 kroner og samlet kompensasjonsgrad blir 58,2 prosent.
-Dersom Silje venter med å ta ut folketrygd og
-tjenestepensjon til hun er 70 år, vil hun delvis
-kompensere for levealdersjusteringen. Opptjeningen i folketrygden øker ved at hun får pensjonsopptjening for ytterligere tre år med en inntekt på
+|                             |                         |           |
+|-----------------------------|-------------------------|-----------|
+| Inntektspensjonsbeholdning: | 280 902 × 0,181 × 30 år | 1 525 298 |
 
-Tabell 9.8 Beregning av pensjon ved samtidig uttak av full tjenestepensjon og folketrygd ved 67 år
-Pensjonsbeholdning ved 67 år:
+Brø
 
-533 714 × 0,181 × 40
+||
+||
+||
 
-3 864 088
+Brø
 
-Samordningsbeholdning ved 67 år:
+|                                            |     |           |
+|--------------------------------------------|-----|-----------|
+| Garantipensjonsbeholdning etter avkorting: |     | 1 463 383 |
 
-0,98 × 3 864 088
+Brø
 
-3 786 806
-Pensjon etter
-levealdersjustering
+||
+||
+||
 
-Brutto tjenestepensjon
+Brø
 
-370 791/1,205
+|                             |                       |           |
+|-----------------------------|-----------------------|-----------|
+| Sum beregnede beholdninger: | 1 525 298 + 1 463 383 | 2 988 681 |
 
-307 710
+Brø
 
-- Samordningsfradrag
+||
+||
+||
 
-3 786 806/16,17
+Brø
 
-234 187
+|                        |                  |           |
+|------------------------|------------------|-----------|
+| Samordningsbeholdning: | 0,98 × 2 988 681 | 2 928 908 |
 
-+ Tillegg etter samordning
+Brø
 
-234 085/16,17
+||
+||
+||
+||
 
-14 476
+Brø
 
-= Netto tjenestepensjon
-+ Folketrygd
-= Samlet pensjon
-Kompensasjonsgrad (pst.)
+<table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td><p><em>Pensjon etter</em><br />
+<em> levealdersjustering</em></p></td>
+</tr>
+</tbody>
+</table>
 
-87 999
-3 864 088/16,17
+Brø
 
-238 966
-326 966
-58,2
+||
+||
+||
+||
 
-[Side 74]
+Brø
 
-74
+|                        |               |         |
+|------------------------|---------------|---------|
+| Brutto tjenestepensjon | 185 395/1,205 | 153 855 |
 
-2017–2018
+Brø
 
-Prop. 61 L
+||
+||
+||
 
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
+Brø
 
-Tabell 9.9 Beregning av pensjon ved samtidig uttak av full tjenestepensjon og folketrygd ved 70 år
-Pensjonsbeholdning ved 70 år:
+|                       |                 |         |
+|-----------------------|-----------------|---------|
+| \- Samordningsfradrag | 2 928 908/16,17 | 181 132 |
 
-3 864 088 + 561 804 × 0,181 × 3
+Brø
 
-4 169 147
+||
+||
+||
 
-Samordningsbeholdning ved 70 år:
+Brø
 
-0,98 × 4 169 147
+|                                   |     |     |
+|-----------------------------------|-----|-----|
+| Netto tjenestepensjon før tillegg |     | 0   |
 
-4 085 765
-Pensjon etter
-levealdersjustering
+Brø
 
-Brutto tjenestepensjon
+||
+||
+||
 
-370 791/1,026
+Brø
 
-361 394
+|                             |               |        |
+|-----------------------------|---------------|--------|
+| \+ Tillegg etter samordning | 234 085/16,17 | 14 476 |
 
-- Samordningsfradrag
+Brø
 
-4 085 765/13,77
+||
+||
+||
 
-296 715
+Brø
 
-+ Tillegg etter samordning
+|                                       |     |        |
+|---------------------------------------|-----|--------|
+| = Netto tjenestepensjon etter tillegg |     | 14 476 |
 
-234 085/13,77
+Brø
 
-17 000
+||
+||
+||
 
-= Netto tjenestepensjon
-+ Folketrygd
+Brø
 
-81 679
-4 169 147/13,77
+|               |                 |         |
+|---------------|-----------------|---------|
+| \+ Folketrygd | 2 988 681/16,17 | 184 829 |
 
-302 770
+Brø
 
-= Samlet pensjon
+||
+||
+||
 
-384 449
+Brø
 
-Kompensasjonsgrad (pst.)
+|                  |     |         |
+|------------------|-----|---------|
+| = Samlet pensjon |     | 199 305 |
 
-68,4
+Brø
 
-Tabell 9.10 Beregning av pensjon ved samtidig uttak av gradert tjenestepensjon og folketrygd. 50 prosent
-tjenestepensjon og 50 prosent folketrygd tas ut ved 67 år, og 100 prosent tjenestepensjon og folketrygd tas
-ut ved 70 år
-Pensjonsbeholdning ved 67 år:
+||
+||
+||
 
-533 714 × 0,181 × 40
+Brø
 
-3 864 088
+|                          |     |      |
+|--------------------------|-----|------|
+| Kompensasjonsgrad (pst.) |     | 71,0 |
 
-Samordningsbeholdning ved 67 år:
+Brø
 
-0,98 × 3 864 088
+||
+||
+||
 
-3 786 806
-Pensjon etter
-levealdersjustering
+BrøSnorre har i perioder av arbeidslivet hvor han har vært ansatt i offentlig sektor jobbet i deltidsstilling. Inntekten hans utgjør i gjennomsnitt 280 902 (3 G), ved fylte 67 år. Snorre vil ved 67 år ha en inntektspensjonsbeholdning på 1 525 298 kroner. Inntektspensjonsbeholdningen er ikke så stor at garantipensjonen er helt avkortet. Etter avkorting utgjør garantipensjonsbeholdningen 1 463 383 kroner. Summen av garantipensjonsbeholdningen og inntektspensjonsbeholdningen danner grunnlaget for beregningen av alderspensjonen fra folketrygden. Ettersom alderspensjonen fra folketrygden og tjenestepensjonen tas ut samtidig, vil summen av garantipensjonsbeholdningen og inntektspensjonsbeholdningen være lik de beregnede beholdningene som danner grunnlaget for samordningsbeholdningen.
 
-Brutto tjenestepensjon ved 67 år
+Med departementets forslag i høringsnotatet ville kronetillegget ha redusert samordningsfradraget med 14 476 kroner. Bruttopensjonen ville likevel ikke oversteget samordningsfradraget. Med departementets forslag i høringsnotatet ville derfor Snorre ikke fått utbetalt tjenestepensjon.
 
-0,5 × 370 791/1,205
+Med forslaget i proposisjonen her, i tråd med avtalen av 3. mars 2018, vil samlet årlig pensjon for Snorre ved 67 år bli 199 305 kroner. Fra folketrygden får Snorre 184 829 kroner og fra tjenestepensjonsordningen utbetales kronetillegget på 14 476 kroner. Uten tillegget ville Snorre bare fått pensjon fra folketrygden. Samlet kompensasjonsgrad blir 71 prosent sammenlignet med 65,8 prosent uten tillegget.
 
-153 855
+BrøBrø**Folketrygden tas ut før tjenestepensjonen**
 
-- Samordningsfradrag ved 67 år
+BrøFor å illustrere hvordan pensjonen beregnes når alderspensjonen fra folketrygden tas ut før tjenestepensjonen, vises det til typeeksemplet Agnes. Forutsetninger om pensjonsopptjening for Agnes går frem av boks 9.3.
 
-0,5 × 3 786 806/16,17
+BrøBrø**Forutsetninger Agnes**
 
-117 094
+BrøBrøSivilstand: Gift
 
-+ Tillegg etter samordning
-
-0,5 × 234 085/16,17
-
-7 238
-
-= Netto tjenestepensjon ved 67 år
-+ Folketrygd ved 67 år
-
-44 000
-0,5 × 3 864 088/16,17
-
-119 483
-
-= Samlet pensjon ved 67 år
-
-163 483
-
-Beregnet pensjonsbeholdning ved 70 år: 3 864 088 + 3 × 0,181 × 280 902
-
-4 016 618
-
-Samordningsbeholdning ved 70 år:
-
-3 936 285
-
-0,98 × 4 016 618
-
-Pensjon etter
-levealdersjustering
-Brutto tjenestepensjon ved 70 år
-
-153 855 × (1 – 0,0075)3 + 0,5 × 370 791/1,026
-
-331 116
-
-- Samordningsfradrag ved 70 år
-
-117 094 × (1 – 0,0075)3 + 0,5 × 3 936 285/13,77
-
-285 860
-
-+ Tillegg etter samordning
-
-7 238 × (1 – 0,0075)3 + 0,5 × 234 085/13,77
-
-15 576
-
-= Netto tjenestepensjon ved 70 år
-+ Folketrygd ved 70 år
-
-89 284
-3
-
-(119 483)(1 – 0,0075) + 2 084 574/13,77
-
-268 200
-
-= Samlet pensjon ved 70 år
-
-357 485
-
-Kompensasjonsgrad (pst.)
-
-63,6
-
-[Side 75]
-
-2017–2018
-
-75
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-6 G. Ved 70 år har hun da 43 opptjeningsår i folketrygden, med en gjennomsnittlig opptjening på
-5,72 G. Siden tjenestepensjon og folketrygd tas ut
-samtidig, er den beregnede pensjonsbeholdningen fortsatt lik den faktiske pensjonsbeholdningen. Tabell 9.9 illustrerer beregningen av samlet
-pensjon ved 70 år i dette tilfellet.
-Bruttopensjonen levealdersjusteres nå med
-justeringstallet for 1963-kullet ved 70 år, 1,026 i
-dette tilfellet. Samordningsbeholdningen ved 70
-år er den faktiske pensjonsbeholdningen ved 70
-år, fratrukket den samordningsfrie delen på 2 prosent. Samordningsfradraget er lik denne beholdningen dividert med delingstallet ved 70 år, som
-er 13,77. Etter samordning gis det et tillegg lik 2,5
-G, dividert på delingstallet ved 70 år. Alderspensjonen fra folketrygden er den faktiske pensjonsbeholdningen ved 70 år dividert med delingstallet
-ved 70 år. Ved 70 år vil samlet årlig pensjon for
-Silje bli 384 449 kroner, og samlet kompensasjonsgrad blir 68,4 prosent.
-Silje kan alternativt gå ned til 50 prosent stilling
-fra 67 år og fra samme tidspunkt ta ut 50 prosent
-alderspensjon fra folketrygden og tjenestepensjonsordningen ved 67 år. Fra 70 år fratrer hun den
-resterende 50 prosent stillingen og tar ut 100 prosent alderspensjon fra folketrygden og tjenestepensjonsordningen. Tabell 9.10 viser beregning av
-samlet pensjon ved 67 og 70 år i dette tilfellet.
-Den beregnede pensjonsbeholdningen er da
-lik den faktiske pensjonsbeholdningen ved 67 år.
-Nettopensjonen ved 67 år er følgelig halvparten av
-det den ville vært med fullt uttak ved 67 år. Den
-nettopensjonen og folketrygden som følger av 50
-prosent uttak ved 67 år er «låst», og det eneste
-som skjer med denne frem til 70 år, er årlig regulering.
-Ved 70 år skal den resterende delen av brutto
-tjenestepensjon samordnes med alderspensjon fra
-folketrygden. Pensjonsbeholdningen har da økt
-med 18,1 prosent av 3 G i tre år. Den beregnede
-pensjonsbeholdningen er nå basert på 43 år med
-en gjennomsnittlig inntekt på 5,51 G. Den faktiske
-pensjonsbeholdningen er 50 prosent av den pensjonsbeholdningen hun hadde ved 67 år pluss
-opptjeningen mellom 67 og 70 år. Samordningsbeholdningen ved 67 år er den beregnede pensjonsbeholdningen ved 70 år, fratrukket de samordningsfrie delene. Alderspensjon under utbetaling reguleres årlig noe svakere enn lønnsveksten. Dette må det tas hensyn til i den delen av
-pensjonen som tas ut fra 67 år, både i bruttopensjonen, i alderspensjonen fra folketrygden og i
-samordningsfradraget.
-
-I dette tilfellet er samlet årlig pensjon ved 70 år
-357 481 kroner og samlet kompensasjonsgrad er
-63,6 prosent.
-
-9.4.3
-
-Beregning av pensjon når det gis
-garantipensjon fra folketrygden
-
-For å illustrere hvordan pensjonen beregnes når
-det utbetales garantipensjon fra folketrygden, vises
-det til typeeksemplet Snorre. Forutsetninger om
-pensjonsopptjening for Snorre går frem av boks 9.2.
-Tabell 9.11 illustrerer hvordan pensjonen
-beregnes dersom Snorre tar ut full tjenestepensjon og alderspensjon fra folketrygden ved 67 år.
-Snorre har i perioder av arbeidslivet hvor han
-har vært ansatt i offentlig sektor jobbet i deltidsstilling. Inntekten hans utgjør i gjennomsnitt
-280 902 (3 G), ved fylte 67 år. Snorre vil ved 67 år
-ha en inntektspensjonsbeholdning på 1 525 298
-kroner. Inntektspensjonsbeholdningen er ikke så
-stor at garantipensjonen er helt avkortet. Etter
-avkorting utgjør garantipensjonsbeholdningen
-1 463 383 kroner. Summen av garantipensjonsbeholdningen og inntektspensjonsbeholdningen
-danner grunnlaget for beregningen av alderspensjonen fra folketrygden. Ettersom alderspensjonen fra folketrygden og tjenestepensjonen tas
-ut samtidig, vil summen av garantipensjonsbeholdningen og inntektspensjonsbeholdningen
-være lik de beregnede beholdningene som danner grunnlaget for samordningsbeholdningen.
-Med departementets forslag i høringsnotatet
-ville kronetillegget ha redusert samordningsfradraget med 14 476 kroner. Bruttopensjonen ville
-likevel ikke oversteget samordningsfradraget.
-Med departementets forslag i høringsnotatet ville
-derfor Snorre ikke fått utbetalt tjenestepensjon.
-Med forslaget i proposisjonen her, i tråd med
-avtalen av 3. mars 2018, vil samlet årlig pensjon for
-Snorre ved 67 år bli 199 305 kroner. Fra folketrygden får Snorre 184 829 kroner og fra tjenestepensjonsordningen utbetales kronetillegget på 14 476
-kroner. Uten tillegget ville Snorre bare fått pensjon fra folketrygden. Samlet kompensasjonsgrad
-blir 71 prosent sammenlignet med 65,8 prosent
-uten tillegget.
-
-9.4.4
-
-Folketrygden tas ut før
-tjenestepensjonen
-For å illustrere hvordan pensjonen beregnes når
-alderspensjonen fra folketrygden tas ut før tjenestepensjonen, vises det til typeeksemplet Agnes.
-Forutsetninger om pensjonsopptjening for Agnes
-går frem av boks 9.3.
-
-[Side 76]
-
-76
-
-2017–2018
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Boks 9.2 Forutsetninger Snorre
-Sivilstand: Enslig
-Fødselsår: 1963
-Grunnbeløp (G): 93 634
-Anslag på delingstall og justeringstall
-62 år
-
-63 år
-
-64 år
-
-65 år
-
-66 år
-
-67 år
-
-68 år
-
-69 år
-
-70 år
-
-Delingstall
-
-20,21
-
-19,40
-
-18,59
-
-17,78
-
-16,98
-
-16,17
-
-15,37
-
-14,57
-
-13,77
-
-Justeringstall
-
-1,506
-
-1,446
-
-1,385
-
-1,325
-
-1,265
-
-1,205
-
-1,145
-
-1,086
-
-1,026
-
-Alderspensjon fra folketrygden
-
-Offentlig tjenestepensjon
-
-–
-
-–
-–
-–
-–
-
-–
-–
-
-Opptjeningsmodell i folketrygden: Ny opptjeningsmodell
-Opptjeningsår: 30 år ved 67 år
-Gjennomsnittlig inntekt ved 67 år: 3 G
-(280 902 kroner)
-
-Pensjonsgrunnlag: 3 G (280 902 kroner)
-Opptjeningstid: 30 år ved 67 år
-Stillingsandel: 80 prosent
-Grunnlag for tillegg etter samordning: 2,5 G
-(234 085 kroner)
-
-Tabell 9.11 Beregning av pensjon når det utbetales garantipensjon fra folketrygden. Samtidig uttak av
-folketrygd og tjenestepensjon ved 67 år
-Inntektspensjonsbeholdning:
-
-280 902 × 0,181 × 30 år
-
-Garantipensjonsbeholdning etter avkorting:
-
-1 525 298
-1 463 383
-
-Sum beregnede beholdninger:
-
-1 525 298 + 1 463 383
-
-2 988 681
-
-Samordningsbeholdning:
-
-0,98 × 2 988 681
-
-2 928 908
-Pensjon etter
-levealdersjustering
-
-Brutto tjenestepensjon
-
-185 395/1,205
-
-153 855
-
-- Samordningsfradrag
-
-2 928 908/16,17
-
-181 132
-
-Netto tjenestepensjon før tillegg
-+ Tillegg etter samordning
-
-0
-234 085/16,17
-
-= Netto tjenestepensjon etter tillegg
-+ Folketrygd
-= Samlet pensjon
-Kompensasjonsgrad (pst.)
-
-14 476
-14 476
-
-2 988 681/16,17
-
-184 829
-199 305
-71,0
-
-[Side 77]
-
-2017–2018
-
-77
-
-Prop. 61 L
-
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
-
-Boks 9.3 Forutsetninger Agnes
-Sivilstand: Gift
 Fødselsår: 1964
+
 Grunnbeløp (G): 93 634
-Anslag på delingstall og justeringstall
-62 år
 
-63 år
+BrøAnslag på delingstall og justeringstall
 
-64 år
+BrøBrø
 
-65 år
+||
+||
+||
 
-66 år
+Brø
 
-67 år
+|     |
+|-----|
+|     |
 
-68 år
+Brø
 
-69 år
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 62 år | 63 år | 64 år | 65 år | 66 år | 67 år | 68 år | 69 år | 70 år |
 
-70 år
+Brø
 
-Delingstall
+||
+||
+||
+||
 
-20,31
+Brø
 
-19,50
+|             |
+|-------------|
+| Delingstall |
 
-18,69
+Brø
 
-17,88
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 20,31 | 19,50 | 18,69 | 17,88 | 17,07 | 16,27 | 15,46 | 14,66 | 13,87 |
 
-17,07
+Brø
 
-16,27
+||
+||
+||
 
-15,46
+Brø
 
-14,66
+|                |
+|----------------|
+| Justeringstall |
 
-13,87
+Brø
 
-Justeringstall
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1,513 | 1,453 | 1,393 | 1,332 | 1,272 | 1,212 | 1,152 | 1,092 | 1,034 |
 
-1,513
+Brø
 
-1,453
+||
+||
+||
 
-1,393
+BrøBrø*Alderspensjon fra folketrygden*
 
-1,332
+BrøBrøOpptjeningsmodell i folketrygden: Ny opptjeningsmodell
 
-1,272
+- Opptjeningsår: 35 år ved 62 år
 
-1,212
+- Gjennomsnittlig inntekt ved 62 år: 7 G (655 438 kroner)
 
-1,152
+BrøBrø*Offentlig tjenestepensjon*
 
-1,092
+BrøBrøPensjonsgrunnlag: 7 G (655 438 kroner)
 
-1,034
+- Opptjeningstid: 35 år ved 62 år
 
-Alderspensjon fra folketrygden
+- Stillingsandel: 100 prosent
 
-Offentlig tjenestepensjon
+- Grunnlag for tillegg etter samordning: 2,5 G (234 085 kroner)
 
-–
+BrøBrø**Rammeslutt**
 
-–
-–
-–
-–
+BrøTabell 9.12 illustrerer beregning av pensjon dersom Agnes tar ut full alderspensjon fra folketrygden ved 62 år og full tjenestepensjon ved 67 år. I tabell 9.13 vises beregningen av pensjon dersom Agnes tar ut full alderspensjon fra folketrygden ved 62 år og 50 prosent tjenestepensjon ved 67 år. Den resterende delen av tjenestepensjonen tas ut ved 70 år.
 
-–
-–
+BrøBrøBeregning av pensjon når folketrygden er tatt ut før tjenestepensjonen. Folketrygden tas ut ved 62 år og tjenestepensjonen tas ut ved 67 år
 
-Opptjeningsmodell i folketrygden: Ny opptjeningsmodell
-Opptjeningsår: 35 år ved 62 år
-Gjennomsnittlig inntekt ved 62 år: 7 G
-(655 438 kroner)
+BrøBrø
 
-Tabell 9.12 illustrerer beregning av pensjon
-dersom Agnes tar ut full alderspensjon fra folketrygden ved 62 år og full tjenestepensjon ved 67
-år. I tabell 9.13 vises beregningen av pensjon dersom Agnes tar ut full alderspensjon fra folketrygden ved 62 år og 50 prosent tjenestepensjon ved
-67 år. Den resterende delen av tjenestepensjonen
-tas ut ved 70 år.
-Dersom Agnes tar ut full alderspensjon fra folketrygden ved 62 år og tjenestepensjon ved 67 år,
-avviker den beregnede pensjonsbeholdningen fra
-den faktiske pensjonsbeholdningen. Ved uttak av
-full alderspensjon fra folketrygden ved 62 år,
-omgjøres pensjonsbeholdningen hennes til årlige
-utbetalinger ved hjelp av delingstallet ved 62 år.
-Denne pensjonen reguleres årlig med lønnsvekst
-fratrukket 0,75 pst. Den årlige opptjeningen
-Agnes har etter 62 år omgjøres til årlige utbetalinger med delingstallet som gjelder ved henholdsvis
-63, 64, 65, 66 og 67 år. Disse beløpene reguleres
-også årlig med lønnsvekst fratrukket 0,75 prosent.
-Tabell 9.12 illustrerer beregning av samlet pensjon ved 67 år i dette tilfellet.
-Den beregnede pensjonsbeholdningen ved
-67 år er den beholdningen Agnes ville ha hatt
-dersom alderspensjon fra folketrygden ble tatt ut
-samtidig med tjenestepensjonen, det vil si den
-pensjonsbeholdningen hun hadde ved 62 år pluss
-opptjeningen mellom 62 år og 67 år. Samordningsbeholdningen er denne beregnede pen-
+||
+||
+||
 
-Pensjonsgrunnlag: 7 G (655 438 kroner)
-Opptjeningstid: 35 år ved 62 år
-Stillingsandel: 100 prosent
-Grunnlag for tillegg etter samordning: 2,5 G
-(234 085 kroner)
+Brø
 
-sjonsbeholdningen fratrukket den samordningsfrie delen.
-Bruttopensjonen ved 67 år levealdersjusteres
-med justeringstallet ved 67 år (1,212), og samordningsfradraget utgjør samordningsbeholdningen
-delt på delingstallet ved 67 år (16,27). Alderspensjonen fra folketrygden ved 67 år er da lik utbetalingen fra folketrygden ved 62 år, det vil si pensjonsbeholdningen ved 62 år delt på delingstallet
-ved 62 år, pluss den årlige opptjeningen som er
-skjedd mellom 62 og 67 år, omgjort til årlig ytelser
-ved hjelp av delingstallene. Det må videre tas hensyn til regulering av pensjon under utbetaling.
-Dersom Agnes venter med å ta ut halvparten
-av tjenestepensjonen til hun er 70 år, blir pensjonsberegningen ved 67 og 70 år som i eksemplet i
-tabell 9.13.
-Her er nettopensjonen ved 67 år halvparten av
-nettopensjonen i eksemplet over, det vil si halvparten av den nettopensjonen Agnes ville ha fått dersom hun tok ut 100 prosent tjenestepensjon ved
-67 år. Alderspensjonen fra folketrygden ved 67 år
-er den samme som folketrygden ved 67 år i
-eksemplet over, ettersom forutsetningen for uttak
-av folketrygden er uendret.
-Bruttopensjonen ved 70 år er lik den bruttopensjonen Agnes mottok ved 67 år, pluss 50 prosent bruttopensjon som levealdersjusteres med
-justeringstallet ved 70 år, det vil si 1,034. Det
-samlede samordningsfradraget tilsvarer samord-
+|                               |                      |           |
+|-------------------------------|----------------------|-----------|
+| Pensjonsbeholdning ved 62 år: | 655 438 × 0,181 × 35 | 4 152 200 |
 
-[Side 78]
+Brø
 
-78
+||
+||
+||
 
-Prop. 61 L
+Brø
 
-2017–2018
+|                                        |                      |           |
+|----------------------------------------|----------------------|-----------|
+| Beregnet pensjonsbeholdning ved 67 år: | 655 438 × 0,181 × 40 | 4 745 371 |
 
-Endringer i lov om Statens pensjonskasse, lov om samordning av pensjons- og trygdeytelser og enkelte andre lover (tilpasning av
-alderspensjon fra offentlig tjenestepensjonsordning til alderspensjon fra folketrygden opptjent etter nye regler – levealdersjustering
-og samordning)
+Brø
 
-Tabell 9.12 Beregning av pensjon når folketrygden er tatt ut før tjenestepensjonen. Folketrygden tas ut ved
-62 år og tjenestepensjonen tas ut ved 67 år
-Pensjonsbeholdning ved 62 år:
+||
+||
+||
 
-655 438 × 0,181 × 35
+Brø
 
-4 152 200
+|                                  |                  |           |
+|----------------------------------|------------------|-----------|
+| Samordningsbeholdning ved 67 år: | 0,98 × 4 745 371 | 4 650 464 |
 
-Beregnet pensjonsbeholdning ved 67 år:
+Brø
 
-655 438 × 0,181 × 40
+||
+||
+||
+||
 
-4 745 371
+Brø
 
-Samordningsbeholdning ved 67 år:
+<table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td><p><em>Pensjon etter</em><br />
+<em> levealdersjustering</em></p></td>
+</tr>
+</tbody>
+</table>
 
-0,98 × 4 745 371
+Brø
 
-4 650 464
-Pensjon etter
-levealdersjustering
+||
+||
+||
+||
 
-Brutto tjenestepensjon
+Brø
 
-432 589/1,212
+|                        |               |         |
+|------------------------|---------------|---------|
+| Brutto tjenestepensjon | 432 589/1,212 | 356 922 |
 
-356 922
+Brø
 
-- Samordningsfradrag
+||
+||
+||
 
-4 650 464/16,27
+Brø
 
-285 831
+|                       |                 |         |
+|-----------------------|-----------------|---------|
+| \- Samordningsfradrag | 4 650 464/16,27 | 285 831 |
 
-+ Tillegg etter samordning
+Brø
 
-234 085/16,27
+||
+||
+||
 
-14 388
+Brø
 
-= Netto tjenestepensjon
+|                             |               |        |
+|-----------------------------|---------------|--------|
+| \+ Tillegg etter samordning | 234 085/16,27 | 14 388 |
 
-+ Folketrygd
+Brø
 
-= Samlet pensjon
-Kompensasjonsgrad (pst.)
+||
+||
+||
 
-ningsfradraget ved 67 år, pluss 50 prosent av
-samordningsbeholdningen ved 70 år dividert
-med delingstallet ved 70 år. Faktisk alderspensjon fra folketrygden ved 70 år er den faktiske
-alderspensjonen fra folketrygden som Agnes
-mottok ved 62 år, pluss den årlige opptjeningen
-mellom 62 og 70 år, omgjort til årlige ytelser ved
-hjelp av delingstallene. Alderspensjon under
+Brø
 
-85 479
-4 152 200
-× (1 – 0,0075)5 +
-20,31
-118 634 × (1 – 0,0075)4 +
-19,50
-118 634
-× (1 – 0,0075)3 +
-18,69
-118 634 × (1 – 0,0075)2 +
-17,88
-118 634 × (1 – 0,0075) +
-17,07
-118 634
-16,27
+|                         |     |        |
+|-------------------------|-----|--------|
+| = Netto tjenestepensjon |     | 85 479 |
 
-229 723
-315 202
-48,1
+Brø
 
-utbetaling reguleres årlig noe svakere enn
-lønnsveksten. Dette må det tas hensyn til i den
-delen av bruttopensjonen som tas ut fra 67 år og i
-den alderspensjonen fra folketrygden som tas ut
-fra 62 år. Samordningsfradraget beregnes som
-om tjenestepensjonen og alderspensjon fra folketrygden tas ut samtidig, også effekten av reguleringen.
+||
+||
+||
+||
+
+Brø
+
+|               |     |         |
+|---------------|-----|---------|
+| \+ Folketrygd |     | 229 723 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                  |     |         |
+|------------------|-----|---------|
+| = Samlet pensjon |     | 315 202 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                          |     |      |
+|--------------------------|-----|------|
+| Kompensasjonsgrad (pst.) |     | 48,1 |
+
+Brø
+
+||
+||
+||
+
+BrøDersom Agnes tar ut full alderspensjon fra folketrygden ved 62 år og tjenestepensjon ved 67 år, avviker den beregnede pensjonsbeholdningen fra den faktiske pensjonsbeholdningen. Ved uttak av full alderspensjon fra folketrygden ved 62 år, omgjøres pensjonsbeholdningen hennes til årlige utbetalinger ved hjelp av delingstallet ved 62 år. Denne pensjonen reguleres årlig med lønnsvekst fratrukket 0,75 pst. Den årlige opptjeningen Agnes har etter 62 år omgjøres til årlige utbetalinger med delingstallet som gjelder ved henholdsvis 63, 64, 65, 66 og 67 år. Disse beløpene reguleres også årlig med lønnsvekst fratrukket 0,75 prosent. Tabell 9.12 illustrerer beregning av samlet pensjon ved 67 år i dette tilfellet.
+
+Den beregnede pensjonsbeholdningen ved 67 år er den beholdningen Agnes ville ha hatt dersom alderspensjon fra folketrygden ble tatt ut samtidig med tjenestepensjonen, det vil si den pensjonsbeholdningen hun hadde ved 62 år pluss opptjeningen mellom 62 år og 67 år. Samordningsbeholdningen er denne beregnede pensjonsbeholdningen fratrukket den samordningsfrie delen.
+
+Bruttopensjonen ved 67 år levealdersjusteres med justeringstallet ved 67 år (1,212), og samordningsfradraget utgjør samordningsbeholdningen delt på delingstallet ved 67 år (16,27). Alderspensjonen fra folketrygden ved 67 år er da lik utbetalingen fra folketrygden ved 62 år, det vil si pensjonsbeholdningen ved 62 år delt på delingstallet ved 62 år, pluss den årlige opptjeningen som er skjedd mellom 62 og 67 år, omgjort til årlig ytelser ved hjelp av delingstallene. Det må videre tas hensyn til regulering av pensjon under utbetaling.
+
+Dersom Agnes venter med å ta ut halvparten av tjenestepensjonen til hun er 70 år, blir pensjonsberegningen ved 67 og 70 år som i eksemplet i tabell 9.13.
+
+BrøBrøBeregning av pensjon ved samtidig uttak når alderspensjonen fra folketrygden er tatt ut før tjenestepensjonen. Folketrygden tas ut ved 62 år, 50 prosent av tjenestepensjonen tas ut ved 67 og 100 prosent tas ut ved 70 år
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|                                        |                      |           |
+|----------------------------------------|----------------------|-----------|
+| Beregnet pensjonsbeholdning ved 67 år: | 655 438 × 0,181 × 40 | 4 745 371 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                  |                  |           |
+|----------------------------------|------------------|-----------|
+| Samordningsbeholdning ved 67 år: | 0,98 × 4 745 371 | 4 650 464 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                              |                     |         |
+|------------------------------|---------------------|---------|
+| Brutto tjenestepensjon 67 år | 0,5 × 432 589/1,212 | 178 461 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                             |                       |         |
+|-----------------------------|-----------------------|---------|
+| \- Samordningsfradrag 67 år | 0,5 × 4 650 464/16,27 | 142 915 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                             |                     |       |
+|-----------------------------|---------------------|-------|
+| \+ Tillegg etter samordning | 0,5 × 234 085/16,27 | 7 194 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                         |     |        |
+|-------------------------|-----|--------|
+| = Netto tjenestepensjon |     | 42 740 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|               |     |         |
+|---------------|-----|---------|
+| \+ Folketrygd |     | 229 723 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                            |     |         |
+|----------------------------|-----|---------|
+| = Samlet pensjon ved 67 år |     | 272 463 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|  |  |  |
+|----|----|----|
+| Beregnet pensjonsbeholdning ved 70 år: | 4 745 371 + 0,5 × 655 438 × 0,181 × 3 | 4 923 322 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                  |                  |           |
+|----------------------------------|------------------|-----------|
+| Samordningsbeholdning ved 70 år: | 0,98 × 4 923 322 | 4 824 856 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|  |  |  |
+|----|----|----|
+| Brutto tjenestepensjon 70 år | (178 461)(1 – 0,0075)<sup>3 </sup>+ 0,5 × 432 589/1,034 | 383 685 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|  |  |  |
+|----|----|----|
+| – Samordningsfradrag 70 år | (142 915)(1 – 0,0075)<sup>3 </sup>+ 0,5 × 4 824 856/13,87 | 313 655 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|  |  |  |
+|----|----|----|
+| Tillegg etter samordning | 7 194 × (1 – 0,075)<sup>3 </sup>+ 0,5 × 234 085/13,87 | 15 472 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                   |     |        |
+|-----------------------------------|-----|--------|
+| = Netto tjenestepensjon ved 70 år |     | 85 502 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                      |     |         |
+|----------------------|-----|---------|
+| Folketrygd ved 70 år |     | 236 665 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                            |     |         |
+|----------------------------|-----|---------|
+| = Samlet pensjon ved 70 år |     | 322 167 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                          |     |      |
+|--------------------------|-----|------|
+| Kompensasjonsgrad (pst.) |     | 49,2 |
+
+Brø
+
+||
+||
+||
+
+BrøHer er nettopensjonen ved 67 år halvparten av nettopensjonen i eksemplet over, det vil si halvparten av den nettopensjonen Agnes ville ha fått dersom hun tok ut 100 prosent tjenestepensjon ved 67 år. Alderspensjonen fra folketrygden ved 67 år er den samme som folketrygden ved 67 år i eksemplet over, ettersom forutsetningen for uttak av folketrygden er uendret.
+
+BrøBruttopensjonen ved 70 år er lik den bruttopensjonen Agnes mottok ved 67 år, pluss 50 prosent bruttopensjon som levealdersjusteres med justeringstallet ved 70 år, det vil si 1,034. Det samlede samordningsfradraget tilsvarer samordningsfradraget ved 67 år, pluss 50 prosent av samordningsbeholdningen ved 70 år dividert med delingstallet ved 70 år. Faktisk alderspensjon fra folketrygden ved 70 år er den faktiske alderspensjonen fra folketrygden som Agnes mottok ved 62 år, pluss den årlige opptjeningen mellom 62 og 70 år, omgjort til årlige ytelser ved hjelp av delingstallene. Alderspensjon under utbetaling reguleres årlig noe svakere enn lønnsveksten. Dette må det tas hensyn til i den delen av bruttopensjonen som tas ut fra 67 år og i den alderspensjonen fra folketrygden som tas ut fra 62 år. Samordningsfradraget beregnes som om tjenestepensjonen og alderspensjon fra folketrygden tas ut samtidig, også effekten av reguleringen.
+
+BrøBrø**Beregning av pensjon for overgangskullene**
+
+BrøFor å illustrere pensjonsberegning for overgangskullene vises det til typeeksemplet Hugo. Forutsetningene om pensjonsopptjening for Hugo går frem av boks 9.4.
+
+BrøBrø**Forutsetninger Hugo**
+
+BrøBrøSivilstand: Enslig
+
+Fødselsår: 1958
+
+Grunnbeløp (G): 93 634
+
+BrøAnslag på delingstall, justeringstall og forholdstall
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|     |
+|-----|
+|     |
+
+Brø
+
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 62 år | 63 år | 64 år | 65 år | 66 år | 67 år | 68 år | 69 år | 70 år |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|             |
+|-------------|
+| Delingstall |
+
+Brø
+
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 19,61 | 18,80 | 17,99 | 17,18 | 16,37 | 15,57 | 14,77 | 13,98 | 13,19 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+<table>
+<tbody>
+<tr>
+<td><p>Justeringstall<br />
+(ny alderspensjon)</p></td>
+</tr>
+</tbody>
+</table>
+
+Brø
+
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1,461 | 1,401 | 1,341 | 1,280 | 1,220 | 1,160 | 1,101 | 1,042 | 1,000 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|              |
+|--------------|
+| Forholdstall |
+
+Brø
+
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1,373 | 1,316 | 1,260 | 1,203 | 1,147 | 1,090 | 1,034 | 0,979 | 0,924 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+<table>
+<tbody>
+<tr>
+<td><p>Justeringstall<br />
+(gammel alderspensjon)</p></td>
+</tr>
+</tbody>
+</table>
+
+Brø
+
+|       |       |       |       |       |       |       |       |       |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1,373 | 1,316 | 1,260 | 1,203 | 1,147 | 1,090 | 1,034 | 0,979 | 0,937 |
+
+Brø
+
+||
+||
+||
+
+BrøBrø*Alderspensjon fra folketrygden*
+
+BrøBrøOpptjeningsmodell i folketrygden: 5/10 gammel og 5/10 ny opptjeningsmodell
+
+- Opptjeningsår: 40 år ved 67 år
+
+- Gjennomsnittlig inntekt ved 67 år: 6 G (561 804 kroner)
+
+- Sluttpoengtall: 5
+
+- Pensjonsprosent: 42,5
+
+BrøBrø*Offentlig tjenestepensjon*
+
+BrøPensjonsgrunnlag: 6 G (561 804 kroner)
+
+BrøBrøOpptjeningstid: 30 år ved 67 år
+
+- Stillingsandel: 100 prosent
+
+- Grunnlag for tillegg etter samordning: 2,5 G (234 085 kroner)
+
+BrøBrø**Rammeslutt**
+
+BrøTabell 9.14 viser pensjonsberegningen dersom Hugo tar ut full alderspensjon fra folketrygden og tjenestepensjon ved 67 år. Hugo er født i 1958 og har derfor halvparten av alderspensjonen fra folketrygden opptjent med gammel modell og halvparten opptjent med ny modell. Dette betyr at bruttopensjonen skal levealdersjusteres både med justeringstall som er avledet av forholdstall (i dette tilfellet er justeringstallet lik det faktiske forholdstallet) og med justeringstall som er avledet av delingstall. Videre skal samordningsfradraget både beregnes etter samordningsreglene for gammel alderspensjon fra folketrygden og etter de foreslåtte nye samordningsreglene. Samordningsfradraget som beregnes etter gamle regler levealdersjusteres med forholdstall, og samordningsfradraget som beregnes etter de foreslåtte nye samordningsreglene levealdersjusteres med delingstall. Dette gir to nettopensjoner – en beregnet etter dagens regler og en beregnet etter nye regler. Disse to nettopensjonene vektes sammen, og vektene er andelene av folketrygden som er opptjent i henholdsvis gammel og ny modell. Faktisk alderspensjon fra folketrygden består også av to deler, en del opptjent i gammel opptjeningsmodell og en del opptjent i ny opptjeningsmodell.
+
+BrøBrøBeregning av pensjon ved samtidig uttak av full tjenestepensjon og folketrygd ved 67 år
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|                               |     |     |           |
+|-------------------------------|-----|-----|-----------|
+| Pensjonsbeholdning ved 67 år: |     |     | 4 067 461 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                  |     |     |           |
+|----------------------------------|-----|-----|-----------|
+| Samordningsbeholdning ved 67 år: |     |     | 3 986 112 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><p><em>Gammel folketrygd og dagens samordning</em></p></td>
+<td><p><em>Ny folketrygd og</em><br />
+<em> ny samordning</em></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                        |     |     |     |
+|------------------------|-----|-----|-----|
+| Brutto tjenestepensjon |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                       |     |     |     |
+|-----------------------|-----|-----|-----|
+| \- Samordningsfradrag |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                             |     |     |     |
+|-----------------------------|-----|-----|-----|
+| \+ Tillegg etter samordning |     |     |     |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| = Netto tjenestepensjon før vekting | 93 204 | 78 669 |     |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+<table>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><p><em>Samlet pensjon</em><br />
+<em> etter vekting</em></p></td>
+</tr>
+</tbody>
+</table>
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                                     |     |        |
+|-------------------------------------|-----|--------|
+| Netto tjenestepensjon etter vekting |     | 85 937 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|            |     |         |
+|------------|-----|---------|
+| Folketrygd |     | 246 587 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                  |     |     |         |
+|------------------|-----|-----|---------|
+| = Samlet pensjon |     |     | 332 524 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+<table>
+<tbody>
+<tr>
+<td><p>Kompensasjonsgrad (pst.)<br />
+uten garanti</p></td>
+<td></td>
+<td></td>
+<td><p>59,2</p></td>
+</tr>
+</tbody>
+</table>
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                   |     |     |        |
+|-------------------|-----|-----|--------|
+| \+ Garantitillegg |     |     | 38 267 |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |     |     |         |
+|-------------------------------------|-----|-----|---------|
+| = Samlet pensjon med garantitillegg |     |     | 370 791 |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+<table>
+<tbody>
+<tr>
+<td><p>Kompensasjonsgrad (pst.)<br />
+med garantitillegg</p></td>
+<td></td>
+<td></td>
+<td><p>66,0</p></td>
+</tr>
+</tbody>
+</table>
+
+Brø
+
+||
+||
+||
+
+BrøResultatet blir altså ett samordningsfradrag som er sammensatt av to deler: en del som er beregnet etter gamle regler og vektet med andelen av folketrygden som er opptjent etter gammel opptjeningsmodell og en del som er beregnet etter nye regler og vektet med andelen av folketrygden som er opptjent etter ny opptjeningsmodell.
+
+BrøResultatet blir som om det ble beregnet to nettopensjoner som veies sammen med de samme vektene som benyttes for alderspensjon fra folketrygden. Gitt at man tar hensyn til at hvert av fradragene ikke kan være høyere enn den tilhørende bruttopensjonen, er det likevel to bruttopensjoner som veies sammen med de samme vektene som benyttes for alderspensjon fra folketrygden og to samordningsfradrag som veies på samme måte. Hugo er født i 1958 og omfattes derfor av den individuelle garantien. Det fremgår av tabell 9.14 at ved uttak av full tjenestepensjon og alderspensjon fra folketrygden ved 67 år, får Hugo en årlig pensjon etter levealdersjustering på 332 524 kroner. Dette utgjør 59,2 prosent av pensjonsgrunnlaget og Hugo får derfor et garantitillegg på 38 267 kroner.
+
+BrøBrø**Økonomiske og administrative konsekvenser. Likestillingsmessige konsekvenser. Ikrafttredelse**
+
+BrøBrø**Innledning**
+
+BrøDette kapitlet belyser økonomiske og administrative virkninger av forslaget til nye samordningsregler. I punkt 10.2 beskrives noen utfordringer knyttet til å anslå de økonomiske virkningene, mens punkt 10.3 presenterer beregninger fra Statens pensjonskasse og Kommunal Landspensjonskasse av hvordan forslaget til nye samordningsregler vil virke for et utvalg av deres alderspensjonister. I punkt 10.4 omtales likestillingsmessige konsekvenser av forslagene i proposisjonen her. I punkt 10.5 beskrives noen administrative virkninger. Forslag til lovens ikrafttredelse omtales i punkt 10.6.
+
+BrøBrø**Om anslag på økonomiske virkninger**
+
+BrøNy alderspensjon i folketrygden fases gradvis inn for årskullene 1954 til 1962 og gjelder også for offentlige ansatte, uavhengig av forslagene som fremmes i proposisjonen her. Konsekvensene for den enkeltes samlede pensjon og for arbeidsgivers kostnader, kan imidlertid først anslås når nye samordningsregler er fastsatt.
+
+Nye samordningsregler vil påvirke pensjonen til flere hundre tusen personer som har tjent opp pensjonsrettigheter i dagens offentlige tjenestepensjonsordning og dermed også kostnadene til de arbeidsgiverne som finansierer tjenestepensjonen. Nye samordningsregler vil videre kreve systemtilpasninger hos leverandørene av offentlig tjenestepensjon.
+
+Tradisjonelt anslås effektene av et forslag ved å sammenlikne forslaget med et alternativt forslag, for eksempel ikke å gjøre noen endringer. Departementet mener imidlertid at det ikke er et realistisk alternativ å unnlate å lage regler for samordning av bruttopensjonen med folketrygd opptjent med nye regler. I teorien kunne en ha fortsatt å samordne som om ny alderspensjon i folketrygden ikke eksisterte, men det ville bety at enkelte ville få samordnet tjenestepensjonen med en hypotetisk alderspensjon fra folketrygden som var helt forskjellig fra den alderspensjonen de faktisk vil motta fra folketrygden. Dette ville åpenbart kunne gi svært uheldige utslag.
+
+Departementet viser til at det er nedfelt i avtalen om tjenestepensjon for ansatte i offentlig sektor, inngått 3. mars 2018, at offentlig ansatte som er født i 1963 eller senere, fra 2020 skal tjene opp tjenestepensjon i en ny ordning som beregnes uavhengig av alderspensjon fra folketrygden. Reglene som foreslås i proposisjonen her vil derfor, for offentlig ansatte født i 1963 eller senere, bare få effekt for den delen av tjenestepensjonen som er opptjent før 2020. De økonomiske effektene av forslagene til nye regler vil dermed fases gradvis ut. Nedenfor beskrives imidlertid de økonomiske effektene uten en slik utfasing. De økonomiske effektene av en ny ordning vil bli belyst ved senere forslag til lovendringer som følger opp avtalen fra 3. mars 2018.
+
+Dagens regler innebærer at det skal samordnes som om folketrygden tas ut samtidig med tjenestepensjonen. Netto tjenestepensjon er dermed avhengig av når tjenestepensjonen tas ut, og gjennomgående vil netto tjenestepensjon bli lavere desto senere den tas ut, selv om samlet pensjon blir høyere. På grunn av alleårsopptjeningen varierer ny alderspensjon fra folketrygden i større grad enn den gamle med uttakstidspunktet. Dermed vil også netto tjenestepensjon bli mer avhengig av når pensjonen tas ut.
+
+Et sentralt mål med pensjonsreformen er at flere skal jobbe lenger. Foreløpig er det særlig før 67 år at yrkesdeltakelsen har økt, men etter hvert som virkningen av levealdersjusteringen av alderspensjonen blir sterkere, er det grunn til å vente at flere vil vente til etter 67 år med å ta ut pensjon. For personer med offentlig tjenestepensjon, kan utsatt uttak bidra til å redusere netto tjenestepensjon, fordi alderspensjonen fra folketrygden vokser mer enn tjenestepensjonen ved utsatt uttak. Fordi den fremtidige utviklingen av uttaksmønsteret er svært usikker, er også den fremtidige utviklingen av nettoutbetalingen av tjenestepensjon fra de offentlige tjenestepensjonsordningene svært usikker.
+
+De forholdene som er beskrevet over, gjør at det er vanskelig å tallfeste hvordan forslaget til nye samordningsregler vil påvirke statens og kommunesektorens økonomi. På et overordnet nivå innebærer forslaget en viss innsparing for de offentlige tjenestepensjonsordningene sammenliknet med en hypotetisk videreføring av dagens folketrygd i kombinasjon med dagens samordningsregler. Det skyldes både at ambisjonsnivået for samlet pensjon er noe lavere, særlig i tilfeller der samordningsregelverket har gitt urimelig høye kompensasjonsgrader, og at gjennomsnittlig utbetaling fra ny alderspensjon er høyere. Denne kombinasjonen gjør at nettoutbetalingene fra tjenestepensjonsordningene blir lavere.
+
+BrøBrø**Virkninger belyst ved beregninger fra Statens pensjonskasse og Kommunal Landspensjonskasse**
+
+BrøBrø**Innledning**
+
+BrøVidere i dette kapitlet belyses virkningene av forslaget til nye samordningsregler ved hjelp av beregninger fra Statens pensjonskasse og Kommunal Landspensjonskasse. Beregningene er basert på et utvalg alderspensjonister i disse ordningene. Det som sammenliknes er gjennomsnittlige pensjoner før levealdersjustering
+
+BrøBrømed gammel alderspensjon og tilhørende samordningsregler, og
+
+1.  med ny alderspensjon og de foreslåtte nye samordningsreglene.
+
+BrøDette blir dermed en sammenlikning av virkningene på lang sikt av de nye reglene, når de er fullt innfaset, med en hypotetisk videreføring av gammel folketrygd og gamle samordningsregler. Hovedbildet er at de foreslåtte nye samordningsreglene vil gi lavere nettoutbetalinger av alderspensjon fra tjenestepensjonsordningene enn det en hypotetisk videreføring av gammel folketrygd og gamle samordningsregler ville gjort. Dette skyldes dels at samlet pensjon fra folketrygden og tjenestepensjonsordningene er noe lavere med forslaget til nye samordningsregler, og for medlemmene i Statens pensjonskasse at gjennomsnittlig nivå på utbetalingen fra folketrygden er høyere med ny alderspensjon, slik at en mindre andel av samlet pensjon blir utbetalt fra tjenestepensjonsordningen.
+
+Hovedresultatet er trolig robust, men beregningene må likevel tolkes med forsiktighet, jf. punkt 9.3.1, som peker på flere momenter som trekker i retning av at de foreslåtte nye samordningsreglene er noe gunstigere enn det som går frem av beregningene. Gunstigere samordningsregler kan gi høyere utgifter for arbeidsgiverne, særlig i Kommunal Landspensjonskasse, enn det som går frem av beregningene.
+
+BrøBrø**Beregninger fra Statens pensjonskasse**
+
+BrøTabell 10.1 viser gjennomsnittlig alderspensjon fra folketrygden og fra Statens pensjonskasse for alderspensjonister i Statens pensjonskasse. Tabellen omfatter ansatte i staten og skoleverket, inklusive ansatte som ikke har full opptjeningstid og/eller har jobbet deltid. Tabellen inkluderer både medlemmer med ordinær aldersgrense, medlemmer med særaldersgrense og medlemmer som har mottatt uførepensjon. Den øverste delen av tabellen viser gjennomsnittet for alle, inklusive personer som har fått pensjon med utgangspunkt i en oppsatt pensjonsrett, mens den nederste delen viser gjennomsnittlig pensjon eksklusive oppsatte, altså for dem som har gått over fra en aktiv stilling til pensjon.
+
+BrøBrøGjennomsnittlig alderspensjon før levealdersjustering. SPK stat og skole. Målt i folketrygdens grunnbeløp (G)
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|     |              |            |                   |
+|-----|--------------|------------|-------------------|
+|     | Gamle regler | Nye regler | Endring i prosent |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                     |     |     |     |
+|---------------------|-----|-----|-----|
+| Alle inkl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,05 | 3,18 | 4,3 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,08 | 0,91 | -15,8 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,13 | 4,09 | -1,0 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 69,2 % | 68,3 % |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                      |     |     |     |
+|----------------------|-----|-----|-----|
+| Alle ekskl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,06 | 3,20 | 4,6 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,24 | 1,05 | -15,3 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,30 | 4,25 | -1,1 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 71,0 % | 70,0 % |     |
+
+Brø
+
+||
+||
+||
+
+BrøDet går frem av tabell 10.1 at det er relativt liten forskjell på resultatene inklusive og eksklusive personer med oppsatt pensjonsrett. For begge grupper er ny alderspensjon fra folketrygden i gjennomsnitt rundt fire prosent høyere enn gammel alderspensjon, mens netto utbetaling fra Statens pensjonskasse er drøyt 15 prosent lavere med ny alderspensjon fra folketrygden og de foreslåtte nye samordningsreglene. Samlet pensjon er 0,9 prosent lavere med forslaget til nye samordningsregler når personer med oppsatt pensjonsrett inkluderes og 1,0 prosent lavere når disse holdes utenom.
+
+Tabellene 10.2 og 10.3 viser tilsvarende tall som i tabell 10.1, separat for statsansatte og skoleverket. Det går frem at de gjennomsnittlige endringene i samlet pensjon er relativt like for ansatte i staten og skoleverket, men økningen i alderspensjonen fra folketrygden og reduksjonen i alderspensjonen fra Statens pensjonskasse er noe større i staten enn i skoleverket.
+
+BrøBrøGjennomsnittlig alderspensjon før levealdersjustering. SPK statsansatte. Målt i folketrygdens grunnbeløp (G)
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|     |              |            |                   |
+|-----|--------------|------------|-------------------|
+|     | Gamle regler | Nye regler | Endring i prosent |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                     |     |     |     |
+|---------------------|-----|-----|-----|
+| Alle inkl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,09 | 3,24 | 5,0 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,01 | 0,81 | -19,4 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,10 | 4,06 | -1,1 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 69,2 % | 68,2 % |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                      |     |     |     |
+|----------------------|-----|-----|-----|
+| Alle ekskl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,11 | 3,28 | 5,6 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,21 | 0,98 | -19,1 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,32 | 4,26 | -1,4 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 71,9 % | 70,6 % |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                           |     |     |     |
+|---------------------------|-----|-----|-----|
+| Heltid og full opptjening |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |        |
+|--------------|------|------|--------|
+| Folketrygden | 3,39 | 3,74 | 10,2 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,55 | 1,16 | -25,2 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,94 | 4,89 | -0,9 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 72,3 % | 71,5 % |     |
+
+Brø
+
+||
+||
+||
+
+BrøBrøGjennomsnittlig alderspensjon før levealdersjustering. SPK skolesegmentet. Målt i folketrygdens grunnbeløp (G)
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|     |              |            |                   |
+|-----|--------------|------------|-------------------|
+|     | Gamle regler | Nye regler | Endring i prosent |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                     |     |     |     |
+|---------------------|-----|-----|-----|
+| Alle inkl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,00 | 3,10 | 3,4 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,17 | 1,03 | -11,9 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,17 | 4,13 | -0,9 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 69,2 % | 68,4 % |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                      |     |     |     |
+|----------------------|-----|-----|-----|
+| Alle ekskl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,02 | 3,13 | 3,5 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,27 | 1,12 | -11,5 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,29 | 4,25 | -0,9 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 70,1 % | 69,3 % |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                           |     |     |     |
+|-------------------------------------------|-----|-----|-----|
+| Heltid og full opptjening ekskl. oppsatte |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |       |
+|--------------|------|------|-------|
+| Folketrygden | 3,27 | 3,58 | 9,7 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| SPK | 1,46 | 1,12 | -22,8 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 4,72 | 4,71 | -0,3 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 70,5 % | 70,3 % |     |
+
+Brø
+
+||
+||
+||
+
+BrøBrø**Beregninger fra Kommunal Landspensjonskasse**
+
+BrøTabell 10.4 viser beregninger fra Kommunal Landspensjonskasse for de tre ordningene med flest alderspensjonister: fellesordningen for kommuner og bedrifter, pensjonsordningen for sykepleiere og fellesordningen for helseforetak. Tabellen omfatter alle unntatt personer som mottar pensjon med utgangspunkt i en oppsatt rett.
+
+BrøBrøGjennomsnittlig alderspensjon før levealdersjustering. Tre ordninger i KLP. Alle ekskl. oppsatte. Målt i folketrygdens grunnbeløp (G)
+
+BrøBrø
+
+||
+||
+||
+
+Brø
+
+|     |              |            |                   |
+|-----|--------------|------------|-------------------|
+|     | Gamle regler | Nye regler | Endring i prosent |
+
+Brø
+
+||
+||
+||
+||
+
+Brø
+
+|                                           |     |     |     |
+|-------------------------------------------|-----|-----|-----|
+| Fellesordningen for kommuner og bedrifter |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |        |
+|--------------|------|------|--------|
+| Folketrygden | 2,34 | 2,33 | -0,7 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| KLP | 0,75 | 0,57 | -24,7 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 3,10 | 2,89 | -6,6 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                     |        |        |     |
+|-------------------------------------|--------|--------|-----|
+| *Gjennomsnittlig kompensasjonsgrad* | 75,9 % | 70,9 % |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|                                   |     |     |     |
+|-----------------------------------|-----|-----|-----|
+| Pensjonsordningen for sykepleiere |     |     |     |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|              |      |      |        |
+|--------------|------|------|--------|
+| Folketrygden | 2,70 | 2,63 | -2,6 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|     |      |      |         |
+|-----|------|------|---------|
+| KLP | 1,02 | 0,88 | -13,9 % |
+
+Brø
+
+||
+||
+||
+
+Brø
+
+|       |      |      |        |
+|-------|------|------|--------|
+| *SUM* | 3,72 | 3,51 | -5,7 % |
+
+Brø
+
+||
+||
+||
+
+Brø

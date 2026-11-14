@@ -1,957 +1,482 @@
-# Prop. 135 L (2019–2020), del 4 av 6 (side 39–49)
+# Prop. 135 L (2019–2020), del 4 av 6
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/81e683c0-prop-135-l-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-135-l-20192020/id2714572/
 - Original-PDF: https://www.regjeringen.no/contentassets/3663b3fd9a77413686176c00b263c561/no/pdfs/prp201920200135000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 39]
+# Endringer i lov om Statens pensjonskasse
 
-2019–2020
+## Behandling av personopplysninger i Statens pensjonskasse – gjeldende rett
 
-Prop. 135 L
+### Pensjonsordninger
 
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
+#### Oversikt over pensjonsordninger Statens pensjonskasse administrerer
 
-som blir automatisert hvor det ikke foreligger
-noen formell klage- eller ankerett. Søker kan be
-om en ny vurdering av søknaden, og behandlingen vil bli foretatt manuelt av Pensjonskassen.
-I § 45 b siste ledd ble det foreslått en hjemmel
-for departementet til å gi forskrift om behandlingen, blant annet om formålet med behandlingen,
-behandlingsansvar, hvilke personopplysninger
-som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, registerføring og tilgang til registre. Særskilt om helautomatisert behandling av saker om
-uførepensjon
+- Lov 28. juli 1949 nr. 26 om Statens pensjonskasse
 
-8.2.8
+- Hovedtariffavtalen i staten punkt 4.2 avtalefestet pensjon og lov 25. juni 2010 nr. 28 om avtalefestet pensjon for medlemmer i Statens pensjonskasse
 
-Viderebehandling av
-personopplysninger
+- Lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv.
 
-8.2.8.1 Generelt
-I høringsnotatet ble det redegjort for at forordningens artikkel 5 nr. 1 bokstav b bestemmer at personopplysninger skal samles inn for spesifikke,
-uttrykkelig angitte og berettigede formål (prinsippet om «formålsbegrensning»). Videre slår
-bestemmelsen fast at opplysningene ikke kan
-viderebehandles på en måte som er uforenlig med
-disse formålene. Forordningen artikkel 6 nr. 4
-bokstav a til e viser til en skjønnsmessig vurdering av om den nye bruken av opplysningene er
-forenlig eller ikke med den opprinnelige behandlingen. Dersom det nye formålet er forenlig med
-det opprinnelige formålet, vil det ikke være behov
-for et nytt behandlingsgrunnlag eller supplerende
-rettsgrunnlag for det nye formålet. Viderebehandling til uforenlige formål er lovlig dersom det foreligger særskilt hjemmel i lov eller samtykke fra
-den registrerte, jf. artikkel 6 nr. 4. Det er videre
-krav om at bestemmelser som åpner for viderebehandling for uforenlige formål, må være nødvendige og forholdsmessige.
-8.2.8.2
+- Lov 21. august 1998 nr. 65 om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett
 
-Statistikk, analyser, datavarehus og
-testdata
+- Lov 15. januar 1999 nr. 1 om pensjonsordning for ledsagere i utenrikstjenesten
 
-Departementet mente at utfordringen med forenlighetsvurderingen etter personvernforordningen
-artikkel 6 nr. 4 er at grensene er vage og skjønnsmessige, og at det alltid må foretas en konkret
-vurdering i det enkelte tilfellet. Det ble vist til at
-personopplysninger imidlertid lovlig kan viderebehandles til enkelte nye formål som er definert i
-personopplysningsloven § 8, nemlig til «…arkivformål i allmennhetens interesse, for formål knyttet til vitenskapelig eller historisk forskning eller
-for statistiske formål».
+- Lov 12. februar 2010 nr. 4 om pensjonsordningen for oppdragstakere i statlig beredskaps- eller familiehjem
 
-39
+- Lov 16. desember 2011 nr. 60 om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer
 
-Siden departementet foreslår bestemmelser
-om behandling av personopplysninger i lov om
-Statens pensjonskasse, synes det naturlig at også
-viderebehandling til statistikk mv. kommer klart
-til uttrykk i denne loven. Det følger av forslaget at
-behandling av personopplysninger bare kan skje
-dersom det er umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme
-eller fiktive opplysninger. Det vises til forslag til
-§ 45 b femte ledd i lov om Statens pensjonskasse.
-Det ble videre vist til at det er behov for bruk
-av personopplysninger til testing og utvikling av itsystemer. For å kontrollere om gjeldende regler
-og fakta er programmert riktig, kan det være
-behov for å anvende personopplysninger, selv om
-det tilstrebes å gjøre dette på anonymiserte opplysninger. Dette vil for eksempel gjelde når omfattende nye regler om offentlig tjenestepensjon trer
-i kraft fra 1. januar 2020.
-Departementet mente at personvernhensyn
-taler for at det bør være klart for de registrerte
-hvordan personopplysningene deres blir brukt. I
-personvernforordningen artikkel 5 bokstav a
-kommer dette til uttrykk ved at personopplysninger skal behandles på en «åpen måte med hensyn
-til den registrerte» (prinsippet om åpenhet). Lovregulering av adgangen til å bruke personopplysninger bidrar etter departementets vurdering til å
-skape slik åpenhet.
-Departementet foreslo på denne bakgrunn en
-ny bestemmelse som fastslår at Statens pensjonskasse kan bruke personopplysninger, herunder
-særlige kategorier personopplysninger, til utvikling og testing av IT-systemer. Med utvikling
-menes tradisjonelt det å lage eller oppgradere et
-IT-system slik at det er klart for testing. Med
-testing menes tradisjonelt det å foreta den siste
-kontrollen av at IT-systemet fungerer slik det skal.
-Etter departementets vurdering bør Statens
-pensjonskasse også kunne benytte personopplysninger til testing og utvikling i en del tilfeller der
-det er praktisk mulig, men hvor det er uforholdsmessig krevende å bruke fiktive eller anonyme
-opplysninger. Pensjonskassen har store og komplekse IT-systemer som inneholder opplysninger
-om et betydelig antall personer. De utveksler
-dessuten i utstrakt grad opplysninger med andre
-offentlige og private aktører. Det gjør at kravene
-til utvikling og testing er større enn de ellers ville
-vært.
-Departementet presiserte at en adgang for
-Statens pensjonskasse til å bruke personopplysninger når det er «uforholdsmessig vanskelig» å
-benytte anonyme eller fiktive opplysninger, ikke
-rokker ved det prinsipielle utgangspunktet om at
+- Forskrift 23. august 2013 nr. 1006 om pensjonsordning for Sametinget
 
-[Side 40]
+- Lov 21. mai 1982 nr. 25 om tillegg til lov 28. juli 1949 om Statens pensjonskasse (høyesterettspensjonsloven)
 
-40
+- Lov 6. mai 1966 om pensjonsordning for Stortingets ombudsmann for forvaltningen (tilleggslov til lov 28. juli 1949 om Statens pensjonskasse)
 
-2019–2020
+- Lov 9. november 1966 om tillegg til lov om Statens pensjonskasse av 28. juli 1949 (Regjeringsadvokat og leder i Arbeidsretten)
 
-Prop. 135 L
+- Lov 9. november 1956 nr. 2 om pensjonsordning for åremålstilsatte, opphevet ved lov 21. mai 1982 nr. 29 for nye åremålstilsatte (omfattet: Generaldirektøren for NSB, rasjonaliseringsdirektøren, riksmeklingsmannen, direktøren i Forsvarets Forskningsinstitutt, generaldirektøren i NVE og riksteatersjefen)
 
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
+- Lov 7. mai 2004 nr. 21 om Riksrevisjonen §§ 6 og 6 a (pensjon leder riksrevisor)
 
-Pensjonskassen skal bruke anonyme eller fiktive
-opplysninger i utviklings- og testarbeidet.
+- Lov 17. mai 1814 Kongeriket Noregs Grunnlov § 75 bokstav i (pensjon av statskassen)
 
-hjemmel til å behandle innhentede personopplysninger til å beregne forventet pensjon og premie.
+#### Nærmere om innhenting og behandling av personopplysninger i de mest sentrale pensjonsordningene
 
-8.2.8.3
+Lov om Statens pensjonskasse har ikke nærmere bestemmelser om behandling av personopplysninger.
 
-8.2.8.5 Arbeidsgivers kontroll av opplysninger
-Som nevnt i punkt 8.1.1.2 gir Statens pensjonskasse arbeidsgiver tilgang til de opplysningene
-som arbeidsgiveren tidligere har gitt om sine
-ansatte til Pensjonskassen. Arbeidsgiveren kan da
-kontrollere at opplysningene er korrekte og eventuelt rette uriktige eller mangelfulle opplysninger.
-Når arbeidsgiver ber om spesifisert faktura, gir
-Statens pensjonskasse dessuten opplysninger om
-premie på individnivå.
-Departementet foreslår at Pensjonskassens
-adgang til å utlevere innhentede opplysninger om
-medlemmene til arbeidsgiver for kontroll av at de
-gitte opplysningene er riktige, og for kontroll av
-grunnlaget for pensjonspremie, lovfestes.
+Statens pensjonskasses grunnlag for behandling av personopplysninger følger av personvernforordningen artikkel 6 nr. 1 bokstav e («… utøve offentlig myndighet som den behandlingsansvarlige er pålagt») sammenholdt med et supplerende rettsgrunnlag, jf. artikkel 6 nr. 3. Det supplerende rettsgrunnlaget følger av lovreguleringen av de oppgavene som Statens pensjonskasse skal utføre, jf. formålsbestemmelsen § 1 og den nærmere reguleringen av ytelsene i kapittel 5 og 6.
 
-Informasjon for å gi bedre
-medlemsbetjening m.v.
-Statens pensjonskasse har som målsetting å bidra
-til god medlems- og kundebetjening på pensjon,
-premie og forsikring. Det er viktig at medlemmene settes i stand til å ta valg basert på innsikt
-om hvilke konsekvenser valget vil ha for pensjonen. Et sentralt virkemiddel framover vil være å
-skreddersy informasjonen til det enkelte medlem
-ut fra hva de har behov for. Ved å sammenstille
-relevante data om medlemmene (altså data som
-har direkte påvirkninger på en pensjonsutbetaling), vil Statens pensjonskasse enkelt kunne
-gruppere medlemmene etter hvilken informasjon
-som er viktig at de får fra Statens pensjonskasse.
-En forutsetning er at Statens pensjonskasse har
-den relevante informasjon tilgjengelig for sammenstilling.
-Departementet ga i høringsnotatet uttrykk for
-at det med et komplekst regelverk er behov for å
-gi mer målrettet informasjon tilpasset medlemmene, slik at denne treffer bedre enn generell
-informasjon. En profilering av medlemmene har
-som formål å gi medlemmene er bedre brukeropplevelse med hensyn til informasjon fra Statens
-pensjonskasse. For en nærmere generell omtale
-av automatisering og profilering, se veileder
-WP259 rev.01 fra Personvernrådet (tidligere
-Artikkel 29-gruppen). Departementet foreslo
-etter dette at Statens pensjonskasse gis lovhjemmel til å behandle innhentede personopplysninger
-til å forbedre informasjonen til medlemmene.
-8.2.8.4 Beregning av forventet pensjon
-For å kunne beregne forventet pensjon til
-medlemmet er det i tillegg til opplysninger om
-medlemskapet i Statens pensjonskasse, behov for
-å innhente opplysninger fra folketrygden og
-andre offentlige tjenestepensjonsordninger. Slike
-opplysninger kan med hjemmel i lov i dag først
-innhentes ved faktisk pensjonering. Medlemmet
-må i dag gi samtykke for at Pensjonskassen skal
-kunne beregne forventet pensjon.
-Dersom opplysninger som Statens pensjonskasse allerede har innhentet til andre formål skal
-benyttes til å beregne forventet pensjon, kreves
-det imidlertid et nytt behandlingsgrunnlag dersom det nye formålet ikke er forenlig med det
-opprinnelige. Departementet foreslo derfor at
-Statens pensjonskasse i § 45 b tredje ledd gis
+Medlemmene i Statens pensjonskasse er i hovedsak ansatte i staten, kommunale og fylkeskommunale lærere samt ansatte i enkelte andre virksomheter. Etter lov om Statens pensjonskasse § 45 fjerde ledd plikter arbeidsgiver å gi de opplysningene Statens pensjonskasse trenger for å sikre riktig behandling av saker etter loven. Videre plikter folketrygdens organer å gi slike opplysninger. Medlemmet eller etterlatte av medlemmet plikter etter andre ledd å gi de opplysninger Statens pensjonskasse forlanger.
 
-8.3
+Arbeidsgiveren rapporterer hver måned inn stillingsopplysninger om sine arbeidstakere til Statens pensjonskasse. Dette gjelder fødselsdato, fødselsnummer, lønn og stillingsstørrelse. Opplysningene brukes blant annet til fortløpende å beregne og kreve inn pensjonspremie fra arbeidsgiver, foreta pensjonsberegninger for medlemmene og til å beregne pensjon ved pensjonering.
 
-Høringsinstansenes syn
+Statens pensjonskasse gir arbeidsgiver tilgang til de opplysningene som arbeidsgiveren tidligere har gitt om sine ansatte til Pensjonskassen. Arbeidsgiveren kan da kontrollere at opplysningene er korrekte og eventuelt rette uriktige eller mangelfulle opplysninger. Når arbeidsgiver ber om spesifisert faktura, gir Statens pensjonskasse dessuten opplysninger om premie på individnivå.
 
-Statens pensjonskasse er av den oppfatning at hjemmelen om innhenting av opplysninger som foreslås ikke dekker deres behov for innhenting av
-pasientjournaler i erstatningssaker og saker om
-uførepensjon.
-Skattedirektoratet har følgende kommentar til
-forslaget
+Statens pensjonskasse behandler personopplysninger ved forvaltningen av de pensjonene som etter lov om Statens pensjonskasse eller andre lover skal utbetales av Statens pensjonskasse, jf. loven § 1. Statens pensjonskasse administrerer en rekke ulike pensjonsordninger. En sentral slik ordning er pensjonsordningen for apotekvirksomhet, jf. lov 26. juni 1953 nr. 11, som omfatter apotekere og arbeidstakere tilsatt ved apotekene. Det følger av loven § 30 at pensjonsordningen administreres av Statens pensjonskasse. Hjemmel for innhenting av opplysninger er § 32 nr. 2 som er tilnærmet lik bestemmelsen i lov om Statens pensjonskasse § 45 fjerde ledd.
+
+I flere av de andre pensjonsordningene som Statens pensjonskasse administrerer, er arbeidstakerne medlemmer i Statens pensjonskasse, men med enkelte unntak fra loven. Dette gjelder for eksempel arbeidstakere som er omfattet av lov 21. august 1998 nr. 65 om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett (operapensjonsloven) som har egne regler for rett til medlemskap, tjenestetid og aldersgrense. Et annet eksempel er lov 21. mai 1982 nr. 25 om tillegg til lov 28. juli 1949 om Statens pensjonskasse som gjelder medlem av Høyesterett med andre regler for beregning av tjenestetid, pensjonsprosent og pensjonsgrunnlag. Hjemmel for innhenting av opplysninger for disse ordningene er lov om Statens pensjonskasse § 45 fjerde ledd. For arbeidstakere etter operapensjonsloven vises det til lovens § 2 som slår fast at disse arbeidstakerne er medlemmer i Statens pensjonskasse med de rettigheter og plikter som følger av lov om Statens pensjonskasse.
+
+Lov 15. januar 1999 nr. 1 om pensjonsordning for ledsagere i utenrikstjenesten administreres av Statens pensjonskasse, jf. § 4. Ledsagerne er ikke medlemmer i Statens pensjonskasse. Det er andre regler for opptjening og utbetaling av pensjon enn i lov om Statens pensjonskasse. Utenriksdepartementet rapporterer inn ledsagertiden til Statens pensjonskasse når pensjonen skal starte. Det er i loven ingen bestemmelser om innhenting av opplysninger.
+
+Lov 16. desember 2011 nr. 60 om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer administreres av Statens pensjonskasse, jf. § 8-1 første ledd. Ordningen omfatter opptjening og beregning etter tidligere ordninger og etter ny ordning som begge avviker fra lov om Statens pensjonskasse. For midlertidig uførepensjon, uførepensjon og etterlattepensjon gjelder lov om States pensjonskasse så langt ikke annet følger av stortings- og regjeringspensjonsloven. Hjemmel for innhenting av opplysninger er loven §§ 8-3 og 8-4.
+
+Forskrift 23. august 2013 nr. 1006 om pensjonsordning for sametingsrepresentanter administreres av Statens pensjonskasse, jf. § 6. Ordningen er tilnærmet lik pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer. Forskriften har ikke bestemmelser om innhenting av opplysninger, men forskriften § 7 viser til at stortings- og regjeringspensjonsloven gjelder tilsvarende.
+
+### Boliglån og gruppeliv
+
+Statens pensjonskasse administrerer boliglånsordningen i staten etter hovedtariffavtalen i staten punkt 5.1. Kommunal- og moderniseringsdepartementet har gitt instruks for forvaltning av boliglånsordningen i Statens pensjonskasse 14. oktober 2013. Av instruksen § 1 bokstav a følger at lån kan gis til yrkesaktive medlemmer i Statens pensjonskasse i henhold til lov om Statens pensjonskasse med tilleggslover.
+
+Statens pensjonskasse bruker samtykke for å behandle søknader om boliglån. Pensjonskassen kredittsjekker i dag ikke ektefelle/samboer, men ber om skattemelding og lønnslipper for samboer/ektefelle i søknaden.
+
+Kommunale- og fylkeskommunale lærere utgjør omtrent en tredel av medlemmene i Statens pensjonskasse og er omfattet av kommunale tariffavtaler og ikke hovedtariffavtalen i staten. Videre har flere virksomheter utenfor staten pensjonsordning i Statens pensjonskasse etter lov om Statens pensjonskasse § 5 andre ledd. Dette er for eksempel enkelte forskningsvirksomheter og private grunn- og videregående skoler. Disse medlemmene omfattes også av låneordningen.
+
+Statens pensjonskasse administrerer gruppelivsordningen i staten etter hovedtariffavtalen i staten punkt 3 § 23 (engangsutbetaling til etterlatte ved dødsfall). Grunnlag for å behandle personopplysninger har vært å utøve offentlig myndighet eller for å oppfylle en tariffavtale.
+
+Kommunale- og fylkeskommunale lærere har ikke gruppelivsordning i Statens pensjonskasse. Enkelte virksomheter utenfor staten har gruppelivsordning i Statens pensjonskasse for sine ansatte.
+
+Statens pensjonskasse mottar melding fra arbeidsgiver om dødsfallet for vurdering av etterlattepensjon og gruppelivsordningen. Videre innhenter Statens pensjonskasse opplysninger om dødsfall og familieforhold fra Folkeregisteret. Statens pensjonskasse innhenter kontonummer fra etterlatte for å utbetale etter gruppelivsordningen.
+
+Nedenfor følger en oversikt over boliglån- og gruppelivsordninger Statens pensjonskasse administrerer:
+
+- Boliglån, Hovedtariffavtalen i staten
+
+- Boliglån, pensjonsordning for apotekvirksomhet mv.
+
+- Boliglån, Jernbanens pensjonskassefond
+
+- Gruppeliv, Hovedtariffavtalen i staten
+
+- Gruppeliv, lov om godtgjørelse for stortingsrepresentanter § 19 tredje ledd
+
+- Gruppeliv, statsråder (regjeringsmedlemmer), statssekretærer og politiske rådgivere, kongelig resolusjon av 28. mars 2003
+
+### Erstatningsordninger ved personskade
+
+Nedenfor følger en oversikt over erstatningsordninger Statens pensjonskasse administrerer:
+
+- Lov 16. juni 1989 nr. 65 om yrkesskadeforsikring og Hovedtariffavtalen i staten punkt 3 § 24 – yrkesskade ansatte i staten
+
+- Lov 20. desember 2016 nr. 106 om godtgjørelse for stortingsrepresentanter § 19 fjerde ledd – yrkesskade stortingsrepresentanter
+
+- Lov 3. februar 1961 om ansvar for skade som motorvogner gjer (bilansvarslova) – bilansvar kun personskadedelen av oppgjøret
+
+- Forskrift 22. desember 2009 nr. 1768 om særskilt kompensasjonsordning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner
+
+- Lov 12. august 2016 nr. 77 om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven)
+
+- Forskrift 16. juni 2017 nr. 779 om verneplikt og heimevernstjeneste (vernepliktforskriften)
+
+- Forskrift 2. desember 2004 nr. 1563 om billighetserstatning for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner mv.
+
+- Forskrift 24. juni 2017 nr. 997 om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater (forsvarstilsatteforskriften)
+
+- Særavtale om dekning av utgifter til reise og kost innenlands § 12, se Statens personalhåndbok punkt 9.2.12
+
+- Særavtale om dekning av utgifter til reise og kost utenfor Norge § 13, se Statens personalhåndbok punkt 9.3.13
+
+- Særavtale om forsikrings- og erstatningsordninger for statsansatte på tjenestereise og ved stasjonering i utlandet, se Statens personalhåndbok punkt 9.24
+
+- Særavtale om godtgjørelse m.v. på tokt pkt. 7, se Statens personalhåndbok punkt 9.5.
+
+- Kongelig resolusjon av 9. august 2013 om ulykkesforsikring for medfølgende familiemedlemmer til embets- og tjenestemenn i utlandet, se Statens personalhåndbok punkt 10.26.
+
+Statens pensjonskasse bruker samtykke for å behandle søknader om erstatning ved personskade. Statens pensjonskasse innhenter helseopplysninger for å få full oversikt over alle relevante opplysninger for å behandle søknaden som kan være av kompleks medisinsk art med utvikling over flere år. Søker trenger da ikke selv å hente inn dokumentasjon som er nødvendig for å sannsynliggjøre et erstatningskrav.
+
+### Særskilt om automatiserte avgjørelser i Statens pensjonskasse
+
+Statens pensjonskasse har helt eller delvis automatisert saksbehandlingen for pensjon og boliglån. Automatiseringsarbeidet er i tråd med Digitaliseringsrundskrivet som forutsetter systematisk digitaliserings- og effektiviseringsarbeid i det offentlige.
+
+For pensjon behandles omtrent 60 prosent av alle sakene helautomatisk gjennom datasystemet. Når det gjelder etteroppgjør av uførepensjon er mellom 90 og 95 prosent av sakene helautomatisert.
+
+Pensjoneringsprosessen for uførepensjon kan deles inn i en vilkårsvurdering, beregning av pensjon og årlig etteroppgjør. Når et medlem har blitt innvilget arbeidsavklaringspenger eller uføretrygd fra Arbeids- og velferdsetaten legger Statens pensjonskasse det samme sykdomsbegrepet til grunn som i folketrygden, jf. lov om Statens pensjonskasse § 27 første ledd andre punktum. Statens pensjonskasse foretar i utgangspunktet ingen selvstendig medisinsk vurdering, men legger Arbeids- og velferdsetatens vurdering til grunn. Avgjørelsen om uførepensjon er ikke helautomatisert. Ved uføregrad under 50 prosent foretar Statens pensjonskasse en manuell selvstendig medisinsk vurdering. Videre fastsetter Statens pensjonskasse en inntektsgrense etter den nedsatte inntektsevnen, jf. lov om Statens pensjonskasse § 29.
+
+I forbindelse med det årlige etteroppgjøret for uførepensjon foretar Statens pensjonskasse en maskinell kontroll av medlemmets pensjonsgivende inntekt opp mot medlemmets inntektsgrense, jf. lov om Statens pensjonskasse § 30 tredje ledd og § 29. Det foretas ingen automatisert vurdering av medlemmets helseopplysninger ved etteroppgjøret. Statens pensjonskasse foretar i dag helautomatiske behandlinger ved forlengelse av uførepensjon når Arbeids- og velferdsetaten forlenger arbeidsavklaringspenger, og hvor forlengelsen er innenfor perioden i det manuelt fastsatte uførevedtaket.
+
+Statens pensjonskasse har som målsetting å øke automatiseringen av ikke-skjønnsmessige avgjørelser.
+
+### Særskilt om analyser, statistikk, datavarehus og testdata i Statens pensjonskasse
+
+Statens pensjonskasse utarbeider mange ulike typer analyser og rapporter. Dette omfatter blant annet historiske analyser, analyser og prognoser om framtiden, statistikker, budsjettinnspill til statsbudsjettet, økonomiske rapporter, fakturaer med underlagsmateriale samt sikkerhets- og kontrollrapporter.
+
+Statens pensjonskasse tester i dag på personopplysninger ved løpende systemforvaltning og -utvikling og ved mer omfattende regelendringer. Statens pensjonskasse har store utviklingsprosjekter i forbindelse med nye samordningsregler som er vedtatt og ny offentlig tjenestepensjon som vil tre i kraft fra 1. januar 2020. I Statens pensjonskasse vil personopplysninger som navn og adresse normalt bli avidentifisert/pseudonymisert/fjernet i interne testrutiner, mens personnummer og arbeidsgivernummer beholdes uendret. Ved begrunnet behov gis det tilgang til komplette personopplysninger. Datavarehus, det vil si en type databasesystem som søker å organisere data på en tematisk rettet måte, bruker personopplysninger til analyse- og rapporteringsformål.
+
+Grunnlag for behandling av personopplysninger i Statens pensjonskasse følger av personvernforordningen artikkel 6 nr. 1 bokstav e («…utøve offentlig myndighet som den behandlingsansvarlige er pålagt») sammenholdt med et supplerende rettsgrunnlag, jf. artikkel 6 nr. 3. Det supplerende rettsgrunnlaget følger av lovreguleringen av de oppgavene som Pensjonskassen skal utføre.
+
+## Høringsnotatet
+
+### Innledning
+
+Statens pensjonskasse administrerer flere ordninger innenfor pensjonsområdet, boliglån, gruppeliv og erstatning ved personskade. Ordningene er hjemlet i lov, forskrift, hovedtariffavtalen i staten og særavtaler. Behandling av personopplysninger følger forutsetningsvis av reguleringen av de oppgaver som Pensjonskassen skal utføre. Noen av de personopplysningene som behandles, er særlige kategorier personopplysninger (sensitive opplysninger), blant annet opplysninger om helse. Slike opplysninger vil kunne være av betydning ved behandlingen av en sak av vesentlig viktighet for den enkelte, for eksempel i forbindelse med vurdering av krav om uførepensjon eller erstatning ved personskade fra Statens pensjonskasse.
+
+På bakgrunn av forordningens krav til supplerende rettsgrunnlag og de ytterligere kravene som stilles til behandling av særlige kategorier personopplysninger, ble det i høringsnotatet lagt til grunn at behandling av personopplysninger i Statens pensjonskasse bør reguleres uttrykkelig.
+
+Statens pensjonskasse forvalter som nevnt en rekke ulike ordninger med ulike hjemmelsgrunnlag. Departementet mener det er mest hensiktsmessig at slike regler gis i lov om Statens pensjonskasse for alle de ordningene Statens pensjonskasse administrerer.
+
+### Formålsbestemmelse
+
+I høringsnotatet ble det gitt uttrykk for at det ikke går klart fram av lov om Statens pensjonskasse hvilket formål Pensjonskassen har eller hvilke ordninger den administrerer utover pensjon. Personvernforordningen artikkel 5 nr. 1 bokstav b bestemmer at personopplysningene skal samles inn for spesifikke, uttrykkelig angitte og berettigede formål. Departementet mente at en overordnet formålsbestemmelse for Statens pensjonskasse vil begrense hvilke personopplysninger Statens pensjonskasse kan innhente og behandle samt ha en viktig informasjonsverdi for de registrerte.
+
+Departementet foreslo på denne bakgrunn at lov om Statens pensjonskasse § 1 endres slik at det framgår hvilke formål Statens pensjonskasses har og hvilke ordninger Pensjonskassen administrerer. Det ble foreslått å lovfeste at formålet med pensjonsordningen i Statens pensjonskasse er å sikre medlemmene tjenestepensjon ved alderdom og uførhet, samt å sikre pensjon til etterlatte. Videre ble det foreslått en bestemmelse om at Pensjonskassen i tillegg skal administrere andre pensjonsordninger, boliglånsordningen i staten, gruppelivsordningen i staten og andre ordninger, erstatningsordninger i staten og andre ordninger, når det er fastsatt ved lov eller bestemt av departementet.
+
+### Innhenting og behandling av personopplysninger – pensjon
+
+Lov om Statens pensjonskasse § 45 har i dag bestemmelser om hvem som plikter å gi Statens pensjonskasse opplysninger. § 45 a gir Statens pensjonskasse tilgang til opplysninger i Folkeregisteret som er nødvendig for forvaltning og beregning av ytelser som Pensjonskassen administrerer.
+
+I høringsnotatet vurderte departementet dette slik:
+
+«Lovens bestemmelser om innhenting av personopplysninger dekker ikke fullt ut det behovet Pensjonskassen har for nødvendige opplysninger fra blant annet arbeidsgiver, andre offentlige myndigheter, helsepersonell og medlemmet. Dette skyldes at Statens pensjonskasse har overtatt administrasjonen av en rekke ulike ordninger etter at bestemmelsen ble gitt. Departementet foreslår at § 45 endres slik at Pensjonskassen har rett til å innhente de opplysningene som er nødvendige for å forvalte de ordningene Pensjonskassen administrerer. Paragrafen forutsettes å omfatte rett til å innhente opplysninger for å beregne pensjoner, beregne pensjonspremier og gi medlemmene opplysninger om hva forventet pensjon blir. Paragrafen er i det alt vesentlige utformet i tråd med folketrygdloven § 21-4 og lov om Statens pensjonskasse § 45 andre ledd.
+
+Som tidligere personopplysningslov, gir forordningen artikkel 6 nr. 1 bokstav c grunnlag for behandling som er nødvendig for å oppfylle en rettslig forpliktelse som påhviler den behandlingsansvarlige. Artikkel 6 nr. 1 bokstav e gir adgang til behandling når dette er nødvendig for å utføre en oppgave i allmennhetens interesse eller utøve offentlig myndighet som den behandlingsansvarlige er pålagt.
+
+Det følger imidlertid av artikkel 6 nr. 3 at grunnlaget for «behandlingen» nevnt i nr. 1 bokstav c og e «skal fastsettes» i unionsretten eller i medlemsstatenes nasjonale rett. Dette innebærer at artikkel 6 nr. 1 bokstav c eller e ikke alene kan utgjøre behandlingsgrunnlaget, men at den behandlingsansvarlige i tillegg må kunne vise til et supplerende grunnlag for behandlingen i unionsretten eller nasjonal rett som den behandlingsansvarlige er underlagt. Forordningen skiller seg på dette punktet fra kravene i tidligere personopplysningslov, som ikke stilte krav om et slikt supplerende rettsgrunnlag.
+
+Dersom det skal behandles særlige kategorier personopplysninger må rettsgrunnlaget i tillegg oppfylle de betingelser som følger av artikkel 9 nr. 2. Det følger av artikkel 9 nr. 2 at nr. 1 ikke får anvendelse dersom et av vilkårene i bokstav a til j er oppfylt. Særlig aktuelt her er bokstav b, hvoretter behandlingen må være «… nødvendig for at den behandlingsansvarlige eller den registrerte skal kunne oppfylle sine forpliktelser og utøve sine særlige rettigheter på området arbeidsrett, trygderett og sosialrett». Behandlingen må dessuten være tillatt i unionsretten, nasjonal rett eller tariffavtale som gir «…nødvendige garantier for den registrertes grunnleggende rettigheter og interesser».»
+
+Departementet la til grunn at når Statens pensjonskasse innhenter helseopplysninger i forbindelse med behandling av saker om uførepensjon direkte fra behandler, i stedet for at søker selv må sende disse inn, øker sannsynligheten for at Pensjonskassen får relevante, riktige og fullstendige opplysninger raskt. Dette fordi man slipper misforståelser med hensyn til hvilke opplysninger som er relevante og den ekstra tiden det vil ta for søker selv å samle og vurdere opplysningene.
+
+Forslaget til § 45 første ledd i høringsnotatet vil hjemle adgang for Statens pensjonskasse til å innhente pasientjournaler, men med de begrensninger som følger av folketrygdloven § 21-4 c, jf. forslaget til § 45 fjerde ledd. Det ble lagt til grunn at Statens pensjonskasse vil ha taushetsplikt etter helsepersonelloven § 21 flg. ved behandling av journalopplysninger, jf. pasientjournalloven § 15 og helseregisterloven § 17.
+
+I ny § 45 b første ledd foreslo departementet at det tas inn en overordnet hjemmel som angir rammene for behandling av personopplysninger. Det ble foreslått at Statens pensjonskasse kan behandle personopplysninger, herunder særlige kategorier av personopplysninger etter personvernforordningen artikkel 9, når dette er nødvendig for å forvalte de ordningene som Pensjonskassen administrerer. Bestemmelsen vil etter forslaget omfatte rett til å behandle opplysninger for å beregne pensjoner, beregne pensjonspremier og gi medlemmene opplysninger om hva forventet pensjon blir.
+
+### Innhenting og behandling av personopplysninger – boliglån
+
+Etter forslaget til § 1 andre ledd bokstav b høringsnotatet, skal boliglånsordningen i staten administreres av Pensjonskassen når det er fastsatt av departementet. Departementet foreslo derfor at forslaget til § 45 første ledd som hjemler innhenting av personopplysninger og § 45 b første ledd som hjemler behandling av personopplysninger, også skal omfatte boliglånsordningen.
+
+Etter forslaget i høringsnotatet vil § 45 hjemle innhenting av opplysninger også om andre enn den som krever en ytelse eller søker om lån. Ved at lovforslaget omfatter «kredittopplysningsvirksomhet» og «gjeldsinformasjonsforetak», vil innhenting av en kredittvurdering og innhenting av opplysninger fra et gjeldsinformasjonsregister omfatte lånesøker og eventuelt ektefelle eller samboer. Det ble pekt på at opplysninger fra et gjeldsinformasjonsregister vil være et viktig supplement til en kredittvurdering, og til den informasjon som medlemmet og eventuelt ektefelle eller samboer legger frem selv (for eksempel skattemelding). I tillegg til at Statens pensjonskasse vil informere om innhenting, sender kredittforetaket og gjeldsinformasjonsregisteret gjenpartsbrev til medlemmet.
+
+### Innhenting og behandling av personopplysninger – erstatning for personskade
+
+I høringsnotatet ble det vist til at helseopplysninger er nødvendige for å behandle søknader om erstatning for personskade etter ulike ordninger. Statens pensjonskasse benytter samtykke som behandlingsgrunnlag for å innhente og behandle slike opplysninger. Ordningene med erstatning for personskade er hjemlet i lov, forskrift, hovedtariffavtalen i staten og flere særavtaler.
+
+Etter forordningen vil samtykke ikke være gyldig som behandlingsgrunnlag dersom det foreligger en klar skjevhet mellom den registrerte og den behandlingsansvarlige. Dette gjelder særlig dersom den behandlingsansvarlige er en offentlig myndighet og det derfor kan stilles spørsmål ved om samtykket er gitt frivillig med hensyn til alle omstendigheter som kjennetegner den bestemte situasjonen, jf. forordningen fortalepunkt 43. Behandlingsgrunnlag må da framgå av lov.
+
+Dersom det skal behandles særlige kategorier av personopplysninger må rettsgrunnlaget i tillegg oppfylle de betingelser som følger av artikkel 9 nr. 2, herunder krav til at behandlingen er omfattet av «nødvendige garantier» som sikrer vern av personopplysninger og andre grunnleggende rettigheter, samt at det må være fastsatt «egnede og særlige tiltak» som verner grunnleggende rettigheter og personopplysninger, jf. fortalepunkt 52 og 53. Departementet pekte her på at Statens pensjonskasse har taushetsplikt for slike opplysninger etter forvaltningsloven.
+
+Departementet la til grunn at dersom Statens pensjonskasse innhenter helseopplysningene direkte fra behandler, i stedet for at søker selv må sende disse inn, øker sannsynligheten for at Pensjonskassen får relevante, riktige og fullstendige opplysninger raskt. Dette fordi man slipper misforståelser med hensyn til hvilke opplysninger som er relevante og den ekstra tiden det vil ta for søker selv å samle og vurdere opplysningene.
+
+Departementet foreslo etter dette at Statens pensjonskasse gis hjemmel i lov til å innhente og behandle nødvendige helseopplysninger ved behandling av søknader om erstatning ved personskade.
+
+### Særskilt om tilgang til Folkeregisteret
+
+Lov om Statens pensjonskasse § 45 a fastslår at Pensjonskassen, uten hinder av taushetsplikt, skal ha tilgang til opplysninger i Folkeregisteret som er nødvendig for «forvaltning og beregning av ytelser» som Pensjonskassen administrerer. For at tilgangen også skal omfatte boliglån og erstatningsordningene, foreslo departementet at § 45 a om tilgang til opplysninger i Folkeregisteret endres slik at Pensjonskassen skal ha tilgang til opplysninger i Folkeregisteret som er nødvendige for «å forvalte de ordningene som Pensjonskassen administrerer».
+
+### Helautomatiserte avgjørelser
+
+Departementet foreslo en uttrykkelig lovbestemmelse i lov om Statens pensjonskasse ny § 45 b andre ledd, om at Pensjonskassen skal kunne treffe avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9. Behandlingen må etter forslaget sikre partens krav til forsvarlig saksbehandling, egnede tiltak som ivaretar den registrertes rettigheter og friheter, og for øvrig være forenlig med retten til vern av personopplysninger. Det ble vist til punkt 3.2.1 til 3.2.3 i høringsnotatet.
+
+I høringsnotatet viste departementet til at vedtak om pensjon kan ankes inn for Trygderetten og at Pensjonskassen da foretar en manuell vurdering av saken. For boliglån kan medlemmet be om en ny vurdering av lånesøknaden, og Pensjonskassen vil da foreta en manuell behandling. Det samme vil gjelde for eventuelt andre ordninger som blir automatisert hvor det ikke foreligger noen formell klage- eller ankerett. Søker kan be om en ny vurdering av søknaden, og behandlingen vil bli foretatt manuelt av Pensjonskassen.
+
+I § 45 b siste ledd ble det foreslått en hjemmel for departementet til å gi forskrift om behandlingen, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, bruk av automatiserte avgjørelser, registerføring og tilgang til registre. Særskilt om helautomatisert behandling av saker om uførepensjon
+
+### Viderebehandling av personopplysninger
+
+#### Generelt
+
+I høringsnotatet ble det redegjort for at forordningens artikkel 5 nr. 1 bokstav b bestemmer at personopplysninger skal samles inn for spesifikke, uttrykkelig angitte og berettigede formål (prinsippet om «formålsbegrensning»). Videre slår bestemmelsen fast at opplysningene ikke kan viderebehandles på en måte som er uforenlig med disse formålene. Forordningen artikkel 6 nr. 4 bokstav a til e viser til en skjønnsmessig vurdering av om den nye bruken av opplysningene er forenlig eller ikke med den opprinnelige behandlingen. Dersom det nye formålet er forenlig med det opprinnelige formålet, vil det ikke være behov for et nytt behandlingsgrunnlag eller supplerende rettsgrunnlag for det nye formålet. Viderebehandling til uforenlige formål er lovlig dersom det foreligger særskilt hjemmel i lov eller samtykke fra den registrerte, jf. artikkel 6 nr. 4. Det er videre krav om at bestemmelser som åpner for viderebehandling for uforenlige formål, må være nødvendige og forholdsmessige.
+
+#### Statistikk, analyser, datavarehus og testdata
+
+Departementet mente at utfordringen med forenlighetsvurderingen etter personvernforordningen artikkel 6 nr. 4 er at grensene er vage og skjønnsmessige, og at det alltid må foretas en konkret vurdering i det enkelte tilfellet. Det ble vist til at personopplysninger imidlertid lovlig kan viderebehandles til enkelte nye formål som er definert i personopplysningsloven § 8, nemlig til «…arkivformål i allmennhetens interesse, for formål knyttet til vitenskapelig eller historisk forskning eller for statistiske formål».
+
+Siden departementet foreslår bestemmelser om behandling av personopplysninger i lov om Statens pensjonskasse, synes det naturlig at også viderebehandling til statistikk mv. kommer klart til uttrykk i denne loven. Det følger av forslaget at behandling av personopplysninger bare kan skje dersom det er umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger. Det vises til forslag til § 45 b femte ledd i lov om Statens pensjonskasse.
+
+Det ble videre vist til at det er behov for bruk av personopplysninger til testing og utvikling av it-systemer. For å kontrollere om gjeldende regler og fakta er programmert riktig, kan det være behov for å anvende personopplysninger, selv om det tilstrebes å gjøre dette på anonymiserte opplysninger. Dette vil for eksempel gjelde når omfattende nye regler om offentlig tjenestepensjon trer i kraft fra 1. januar 2020.
+
+Departementet mente at personvernhensyn taler for at det bør være klart for de registrerte hvordan personopplysningene deres blir brukt. I personvernforordningen artikkel 5 bokstav a kommer dette til uttrykk ved at personopplysninger skal behandles på en «åpen måte med hensyn til den registrerte» (prinsippet om åpenhet). Lovregulering av adgangen til å bruke personopplysninger bidrar etter departementets vurdering til å skape slik åpenhet.
+
+Departementet foreslo på denne bakgrunn en ny bestemmelse som fastslår at Statens pensjonskasse kan bruke personopplysninger, herunder særlige kategorier personopplysninger, til utvikling og testing av IT-systemer. Med utvikling menes tradisjonelt det å lage eller oppgradere et IT-system slik at det er klart for testing. Med testing menes tradisjonelt det å foreta den siste kontrollen av at IT-systemet fungerer slik det skal.
+
+Etter departementets vurdering bør Statens pensjonskasse også kunne benytte personopplysninger til testing og utvikling i en del tilfeller der det er praktisk mulig, men hvor det er uforholdsmessig krevende å bruke fiktive eller anonyme opplysninger. Pensjonskassen har store og komplekse IT-systemer som inneholder opplysninger om et betydelig antall personer. De utveksler dessuten i utstrakt grad opplysninger med andre offentlige og private aktører. Det gjør at kravene til utvikling og testing er større enn de ellers ville vært.
+
+Departementet presiserte at en adgang for Statens pensjonskasse til å bruke personopplysninger når det er «uforholdsmessig vanskelig» å benytte anonyme eller fiktive opplysninger, ikke rokker ved det prinsipielle utgangspunktet om at Pensjonskassen skal bruke anonyme eller fiktive opplysninger i utviklings- og testarbeidet.
+
+#### Informasjon for å gi bedre medlemsbetjening m.v.
+
+Statens pensjonskasse har som målsetting å bidra til god medlems- og kundebetjening på pensjon, premie og forsikring. Det er viktig at medlemmene settes i stand til å ta valg basert på innsikt om hvilke konsekvenser valget vil ha for pensjonen. Et sentralt virkemiddel framover vil være å skreddersy informasjonen til det enkelte medlem ut fra hva de har behov for. Ved å sammenstille relevante data om medlemmene (altså data som har direkte påvirkninger på en pensjonsutbetaling), vil Statens pensjonskasse enkelt kunne gruppere medlemmene etter hvilken informasjon som er viktig at de får fra Statens pensjonskasse. En forutsetning er at Statens pensjonskasse har den relevante informasjon tilgjengelig for sammenstilling.
+
+Departementet ga i høringsnotatet uttrykk for at det med et komplekst regelverk er behov for å gi mer målrettet informasjon tilpasset medlemmene, slik at denne treffer bedre enn generell informasjon. En profilering av medlemmene har som formål å gi medlemmene er bedre brukeropplevelse med hensyn til informasjon fra Statens pensjonskasse. For en nærmere generell omtale av automatisering og profilering, se veileder WP259 rev.01 fra Personvernrådet (tidligere Artikkel 29-gruppen). Departementet foreslo etter dette at Statens pensjonskasse gis lovhjemmel til å behandle innhentede personopplysninger til å forbedre informasjonen til medlemmene.
+
+#### Beregning av forventet pensjon
+
+For å kunne beregne forventet pensjon til medlemmet er det i tillegg til opplysninger om medlemskapet i Statens pensjonskasse, behov for å innhente opplysninger fra folketrygden og andre offentlige tjenestepensjonsordninger. Slike opplysninger kan med hjemmel i lov i dag først innhentes ved faktisk pensjonering. Medlemmet må i dag gi samtykke for at Pensjonskassen skal kunne beregne forventet pensjon.
+
+Dersom opplysninger som Statens pensjonskasse allerede har innhentet til andre formål skal benyttes til å beregne forventet pensjon, kreves det imidlertid et nytt behandlingsgrunnlag dersom det nye formålet ikke er forenlig med det opprinnelige. Departementet foreslo derfor at Statens pensjonskasse i § 45 b tredje ledd gis hjemmel til å behandle innhentede personopplysninger til å beregne forventet pensjon og premie.
+
+#### Arbeidsgivers kontroll av opplysninger
+
+Som nevnt i punkt 8.1.1.2 gir Statens pensjonskasse arbeidsgiver tilgang til de opplysningene som arbeidsgiveren tidligere har gitt om sine ansatte til Pensjonskassen. Arbeidsgiveren kan da kontrollere at opplysningene er korrekte og eventuelt rette uriktige eller mangelfulle opplysninger. Når arbeidsgiver ber om spesifisert faktura, gir Statens pensjonskasse dessuten opplysninger om premie på individnivå.
+
+Departementet foreslår at Pensjonskassens adgang til å utlevere innhentede opplysninger om medlemmene til arbeidsgiver for kontroll av at de gitte opplysningene er riktige, og for kontroll av grunnlaget for pensjonspremie, lovfestes.
+
+## Høringsinstansenes syn
+
+*Statens pensjonskasse* er av den oppfatning at hjemmelen om innhenting av opplysninger som foreslås ikke dekker deres behov for innhenting av pasientjournaler i erstatningssaker og saker om uførepensjon.
+
+*Skattedirektoratet* har følgende kommentar til forslaget
+
 «1. Merknader på skatteområdet:
-1.1 Nødvendighets- og forholdsmessighetsvurdering av utleveringen av opplysninger fra andre
-offentlige etater
-Det foreslås relativt vide lovhjemler for innhenting av opplysninger, uavhengig av taushetsplikt, fra andre offentlige etater. Vi viser bl.a. til
-forslaget til SPK-lov § 45.
-Skatteetaten har relativt strenge taushetspliktbestemmelser, jf. skatteforvaltningsloven
-§ 3-1. Der mottaker har innhentingshjemmel i
-lov har imidlertid Skatteetaten adgang til å frita
-fra taushetsplikten etter skatteforvaltningsforskriften § 3-3-1 annet ledd bokstav h:
-«Opplysninger kan uansett utleveres … h)
-til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi
-opplysningene».
-En utlevering må i henhold til skatteforvaltningsloven § 3-3 være nødvendig og forholdsmessig. Forholdsmessighetsvurderingen må
-foretas opp mot «ulempene den medfører i form
-av inngrep i personvernet og fare for at opplys-
 
-[Side 41]
+*1.1 Nødvendighets- og forholdsmessighetsvurdering av utleveringen av opplysninger fra andre offentlige etater*
 
-2019–2020
+Det foreslås relativt vide lovhjemler for innhenting av opplysninger, uavhengig av taushetsplikt, fra andre offentlige etater. Vi viser bl.a. til forslaget til SPK-lov § 45.
 
-Prop. 135 L
+Skatteetaten har relativt strenge taushetspliktbestemmelser, jf. skatteforvaltningsloven § 3-1. Der mottaker har innhentingshjemmel i lov har imidlertid Skatteetaten adgang til å frita fra taushetsplikten etter skatteforvaltningsforskriften § 3-3-1 annet ledd bokstav h:
 
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
+«Opplysninger kan uansett utleveres … h) til offentlige myndigheter ifølge lovbestemmelser som fastsetter eller klart forutsetter at taushetsplikten ikke skal være til hinder for å gi opplysningene».
 
-ninger av konkurransemessig betydning kommer
-på avveie», jf. § 3-3 annet ledd. Dette er utdypet
-i skatteforvaltningsforskriften § 3-3-1 annet
-ledd:
-«Ved vurderingen av om kravet til forholdsmessighet i skatteforvaltningsloven § 3-3 annet
-ledd er oppfylt, skal det legges vekt på om mottakerorganet vil settes i stand til å treffe en riktig avgjørelse, eller utføre en mer effektiv og
-hensiktsmessig tjeneste enn om det ikke
-hadde mottatt opplysningene. Det skal også
-legges vekt på formålet med behandlingen av
-opplysninger hos mottakeren, om mottakeren
-er underlagt taushetsplikt, hvilke opplysninger
-som skal utleveres og antallet personer som får
-tilgang til opplysningene.»
-For å kunne frita fra taushetsplikten etter
-skatteforvaltningsforskriften § 3-3-1 bokstav h
-forutsettes det at det er foretatt en slik nødvendighets- og forholdsmessighetsvurdering ifm.
-arbeidet med innhentingsbestemmelsene.
-Dette innebærer at det kun er en begrenset
-vurdering som skal gjøres ved utleveringsanmodningene hjemlet i bestemmelsen, jf.
-Prop. 1 LS (2018–2019) punkt 17.5.3:
-«Finansdepartementet bemerker at … forskriftsbestemmelsene som skal gis i medhold
-av § 3-3 tredje ledd, skal anses som en forhåndsvurdering av tilfeller der opplysningene
-alltid skal kunne utleveres. Når vilkårene i
-disse bestemmelsene er oppfylt, er det dermed ikke nødvendig å foreta de vurderingene
-som lovens § 3-3 første og annet ledd legger
-opp til.»
-I arbeidet med de ulike innhentingshjemlene er det følgelig viktig å synliggjøre nødvendighets- og forholdsmessighetsvurderingene
-som er gjort slik at disse er tilgjengelig ved
-senere anmodninger om opplysninger basert
-på hjemlene. Det bør bl.a. synliggjøres hvilke
-opplysninger som skal utleveres, jf. omtalen av
-skatteforvaltningsforskriften § 3-3-1 annet ledd
-ovenfor. En slik vurdering av behandlingen vil
-bidra til å øke forutsigbarheten overfor den
-registrerte. Vi anbefaler at dette gjøres i det
-videre arbeidet med bestemmelsene.
-1.2 Spesifisering av hvilke opplysninger som er
-nødvendige
-Som vist til ovenfor forutsettes det at det er
-gjort en nødvendighetsvurdering ifm. lovarbeidet. I høringsnotatets innledning går det fram
-at departementet ikke ser det som hensiktsmessig å gi detaljerte reguleringer om behandling av personopplysninger. Skatteetaten har
+En utlevering må i henhold til skatteforvaltningsloven § 3-3 være nødvendig og forholdsmessig. Forholdsmessighetsvurderingen må foretas opp mot *«ulempene den medfører i form av inngrep i personvernet og fare for at opplysninger av konkurransemessig betydning kommer på avveie»,* jf. § 3-3 annet ledd. Dette er utdypet i skatteforvaltningsforskriften § 3-3-1 annet ledd:
 
-41
+«Ved vurderingen av om kravet til forholdsmessighet i skatteforvaltningsloven § 3-3 annet ledd er oppfylt, skal det legges vekt på om mottakerorganet vil settes i stand til å treffe en riktig avgjørelse, eller utføre en mer effektiv og hensiktsmessig tjeneste enn om det ikke hadde mottatt opplysningene. Det skal også legges vekt på formålet med behandlingen av opplysninger hos mottakeren, om mottakeren er underlagt taushetsplikt, hvilke opplysninger som skal utleveres og antallet personer som får tilgang til opplysningene.»
 
-forståelse for at det kan være hensiktsmessig
-at dette reguleres i forskrift. Samtidig mener vi
-det ville vært ønskelig at forhold rundt behandlingen i større grad ble beskrevet i høringsnotatet. En slik beskrivelse vil også kunne
-redusere risikoen for utlevering av unødvendige opplysninger i forbindelse med den
-enkelte utleveringen, og bidra til økt forutsigbarhet for borgerne
-1.3 Hvilke opplysninger er nødvendig for
-gjennomføring av etteroppgjøret
-I høringsnotatet punkt 2.2.4 om automatiserte
-beslutningsprosesser vises det kun til behovet
-for pensjonsgivende inntekt:
-«I forbindelse med det årlige etteroppgjøret
-for uførepensjon foretar Statens pensjonskasse
-en maskinell kontroll av medlemmets pensjonsgivende inntekt opp mot medlemmets
-inntektsgrense, jf. lov om Statens pensjonskasse § 30 tredje ledd og § 29.»
-Det kan av dette se ut som man kun har
-behov for opplysninger som omfattes av folketrygdloven § 3-15 (jf. folketrygdloven §§ 30
-tredje ledd og 29 tredje ledd), dvs. pensjonsgivende inntekt. For å sikre at opplysninger
-som utleveres er i samsvar med de opplysninger SPK har behov for i arbeidet med etteroppgjøret, anbefaler vi derfor at det klargjøres
-nærmere hvilke opplysninger som omfattes av
-begrepet «opplysninger om pensjonsgivende
-inntekt». Skatteetaten kan bistå med dette ved
-behov.
-2. Merknader på folkeregisterområdet
-2.1 Endring av ordlyd i lov om Statens pensjonskasse § 45 a
+For å kunne frita fra taushetsplikten etter skatteforvaltningsforskriften § 3-3-1 bokstav h forutsettes det at det er foretatt en slik nødvendighets- og forholdsmessighetsvurdering ifm. arbeidet med innhentingsbestemmelsene. Dette innebærer at det kun er en begrenset vurdering som skal gjøres ved utleveringsanmodningene hjemlet i bestemmelsen, jf. Prop. 1 LS (2018–2019) punkt 17.5.3:
+
+«Finansdepartementet bemerker at … forskriftsbestemmelsene som skal gis i medhold av § 3-3 tredje ledd, skal anses som en forhåndsvurdering av tilfeller der opplysningene alltid skal kunne utleveres. Når vilkårene i disse bestemmelsene er oppfylt, er det dermed ikke nødvendig å foreta de vurderingene som lovens § 3-3 første og annet ledd legger opp til.»
+
+I arbeidet med de ulike innhentingshjemlene er det følgelig viktig å synliggjøre nødvendighets- og forholdsmessighetsvurderingene som er gjort slik at disse er tilgjengelig ved senere anmodninger om opplysninger basert på hjemlene. Det bør bl.a. synliggjøres hvilke opplysninger som skal utleveres, jf. omtalen av skatteforvaltningsforskriften § 3-3-1 annet ledd ovenfor. En slik vurdering av behandlingen vil bidra til å øke forutsigbarheten overfor den registrerte. Vi anbefaler at dette gjøres i det videre arbeidet med bestemmelsene.
+
+*1.2 Spesifisering av hvilke opplysninger som er nødvendige*
+
+Som vist til ovenfor forutsettes det at det er gjort en nødvendighetsvurdering ifm. lovarbeidet. I høringsnotatets innledning går det fram at departementet ikke ser det som hensiktsmessig å gi detaljerte reguleringer om behandling av personopplysninger. Skatteetaten har forståelse for at det kan være hensiktsmessig at dette reguleres i forskrift. Samtidig mener vi det ville vært ønskelig at forhold rundt behandlingen i større grad ble beskrevet i høringsnotatet. En slik beskrivelse vil også kunne redusere risikoen for utlevering av unødvendige opplysninger i forbindelse med den enkelte utleveringen, og bidra til økt forutsigbarhet for borgerne
+
+*1.3 Hvilke opplysninger er nødvendig for gjennomføring av etteroppgjøret*
+
+I høringsnotatet punkt 2.2.4 om automatiserte beslutningsprosesser vises det kun til behovet for pensjonsgivende inntekt:
+
+«I forbindelse med det årlige etteroppgjøret for uførepensjon foretar Statens pensjonskasse en maskinell kontroll av medlemmets pensjonsgivende inntekt opp mot medlemmets inntektsgrense, jf. lov om Statens pensjonskasse § 30 tredje ledd og § 29.»
+
+Det kan av dette se ut som man kun har behov for opplysninger som omfattes av folketrygdloven § 3-15 (jf. folketrygdloven §§ 30 tredje ledd og 29 tredje ledd), dvs. pensjonsgivende inntekt. For å sikre at opplysninger som utleveres er i samsvar med de opplysninger SPK har behov for i arbeidet med etteroppgjøret, anbefaler vi derfor at det klargjøres nærmere hvilke opplysninger som omfattes av begrepet «opplysninger om pensjonsgivende inntekt». Skatteetaten kan bistå med dette ved behov.
+
+2\. Merknader på folkeregisterområdet
+
+*2.1 Endring av ordlyd i lov om Statens pensjonskasse § 45 a*
+
 I høringsnotatet fremgår følgende (vår utheving):
+
 «3.5.6 Særskilt om tilgang til Folkeregisteret
-Lov om Statens pensjonskasse § 45 a fastslår at Pensjonskassen skal, uten hinder av
-taushetsplikt, ha tilgang til opplysninger i
-Folkeregisteret som er nødvendig for «forvaltning og beregning av ytelser» som Pensjonskassen administrerer. For at tilgangen også
-skal omfatte boliglån og erstatningsordningene foreslås at § 45 a om tilgang til opplysninger i Folkeregisteret endres slik at Pensjonskassen skal ha tilgang til opplysninger i Folkeregisteret som er nødvendige for «å forvalte de
-ordningene som Pensjonskassen administrerer.»
+
+Lov om Statens pensjonskasse § 45 a fastslår at Pensjonskassen skal, uten hinder av taushetsplikt, ha tilgang til opplysninger i Folkeregisteret som er nødvendig for «forvaltning og beregning av ytelser» som Pensjonskassen administrerer. For at tilgangen også skal omfatte boliglån og erstatningsordningene foreslås at § 45 a om tilgang til opplysninger i Folkeregisteret endres slik at Pensjonskassen skal ha tilgang til opplysninger i Folkeregisteret som er nødvendige for «å forvalte de ordningene som Pensjonskassen administrerer.»
+
 (…)
 
-[Side 42]
+Til § 45 a
 
-42
+Statens pensjonskasse har i dag tilgang til opplysninger i Folkeregisteret som er nødvendig for «forvaltning og beregning av ytelser» som Pensjonskassen administrerer. Bestemmelsen er endret slik at Pensjonskassen skal ha tilgang til opplysninger i Folkeregisteret som er nødvendig for å forvalte «de ordningene» som Pensjonskassen administrerer, herunder også boliglånsordningen og erstatningsordningene.
 
-Prop. 135 L
-
-2019–2020
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-Til § 45 a
-Statens pensjonskasse har i dag tilgang til opplysninger i Folkeregisteret som er nødvendig
-for «forvaltning og beregning av ytelser» som
-Pensjonskassen administrerer. Bestemmelsen
-er endret slik at Pensjonskassen skal ha tilgang
-til opplysninger i Folkeregisteret som er nødvendig for å forvalte «de ordningene» som
-Pensjonskassen administrerer, herunder også
-boliglånsordningen og erstatningsordningene.
 (…)
-§ 45 a skal lyde:
-Statens pensjonskasse skal, uten hinder av
-taushetsplikt, ha tilgang til opplysninger i
-Folkeregisteret som er nødvendig for å forvalte
-de ordningene som Pensjonskassen administrerer. Pensjonskassen skal også ha tilgang til
-opplysninger i registeret til utredning og produksjon av statistikk.»
-Ut i fra dette kan det synes som om lovendringen medfører at SPK får rett på ytterligere
-opplysninger sammenlignet med tidligere. Vi
-har ikke tilstrekkelig grunnlag i høringsnotatet
-til å vurdere om dette krever tilpasninger i våre
-løsninger for deling av opplysninger. Dette må
-utredes nærmere.
-2.2. Bryter forslag til § 45 sjette ledd i lov om
-Statens pensjonskasse med once only-prinsippet
-som er fastsatt i Digital Agenda?
-Forslaget til § 45 sjette ledd lyder:
-«Når et medlem av Pensjonskassen inngår
-ekteskap, eller når ekteskapet oppløses ved
-død eller skilsmisse, plikter medlemmet, den
-gjenlevende ektefellen eller i tilfelle vergen å
-sende melding om det til Pensjonskassen.»
-Regelen er for så vidt ikke ny og er i hovedsak en videreføring av gjeldende rett. Ut i fra en
-tankegang om at borgeren skal gi opplysning
-til det offentlige kun en gang, kan det i utgangspunktet foreligge gode grunner for at SPK i stedet utelukkende skulle forholdt seg til Folkeregisteret for uthenting av disse opplysningene. En første problemstilling som i så fall må
-avklares er om personkretsen som mottar tjenester fra SPK tilsvarer personkretsen som
-registreres i Folkeregisteret. Videre er det slik
-at det ikke nødvendigvis er meldeplikt til
-Folkeregisteret (overfor borgeren selv/eller
-offentlig myndighet) i alle aktuelle tilfeller. En
-løsning hvor SPK var forpliktet å forholde seg
-til Folkeregisteret ville imidlertid kunne ha
-hevet kvaliteten (ajourhold) på de aktuelle
-informasjonselementene i Folkeregisteret, og
-
-kanskje også saksbehandlingen i SPK da det er
-Folkeregistermyndigheten som har kompetanse og myndighet til vurdere og registre
-disse forholdene.
-Det kan være hensiktsmessig om man kan
-vurdere gjenbruk av opplysninger fra Folkeregistret i stedet for å videreføre dagens varslingsplikt. Det er imidlertid ikke et en til en forhold mellom varslingsplikten i SPK-loven § 45
-sjette ledd, og gjeldende meldeplikt(er) om vigsel, skilsmisse og død etter folkeregisterloven,
-kan det stilles spørsmål om man i stedet burde
-ha varslingsplikt til folkeregisteret.»
-Datatilsynet uttaler
-«Datatilsynet ser meget positivt på at innspillene fra oss som ble gitt i den tidligere prosessen er innarbeidet og i hovedsak tatt til følge.
-Personvernforordningen legger opp til en slik
-systematikk i artikkel 36 nr. 4.
-Denne saken er et godt eksempel på hvordan man under utarbeidelsen av lovforslag kan
-rådføre seg med tilsynsmyndigheten for å sikre
-at forslagene som gis ikke er i strid med prinsippene i personvernregelverket. Resultatet av
-rådføringen er at våre tilbakemeldinger i den
-formelle høringsprosessen er avgrenset til
-noen få punkter.
-Vi ønsker å påpeke at endringsforslagene
-fremstår som å være i tråd med andre lignende
-lovforslag, blant annet forslag til ny forvaltningslov §§ 11 og 12 om automatiserte beslutningsprosesser. Vi registrerer at ASD i innledningen til høringsnotatet har drøftet retten til
-manuell behandling som følger av personvernforordningen artikkel 22, og dette anser vi som
-positivt i forslaget.
-Vi har ikke tidligere vurdert forslaget om
-endringer i Lov om Statens pensjonskasse § 45
-b, femte ledd, som åpner opp for at data kan
-brukes til utvikling og testing av IT-systemer.
-Det er tatt et forbehold om at hjemmelen kun
-kan brukes dersom det er umulig eller uforholdsmessig vanskelig å bruke anonyme eller
-fiktive data for å oppnå formålet.
-Datatilsynet vil påpeke at forslaget til hjemmel fremstår som overordnet og meget generell, og vi stiller spørsmål ved om den oppfyller
-personvernforordningens premisser for lovhjemler som rettslig grunnlag, se blant annet
-artikkel 6 nr. 3, annet ledd og fortalepunkt 45.
-Vi mener også at ordlyden i forslaget tilsier en
-betydelig utvidelse i de rettslige mulighetene
-for bruk av data til nye formål.
-
-[Side 43]
-
-2019–2020
-
-Prop. 135 L
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-Datatilsynet mener at denne delen av
-endringsforslaget medfører en så utvidet
-mulighet for bruk av data at den bør underlegges en personvernkonsekvensvurdering.
-Som eksempel peker vi på at «testformål»
-og «utviklingsformål» favner et betydelig spekter av behandlinger, uten krav til vurdering av
-hva som legges i begrepene, viktigheten av
-behandlingen eller nytten i den aktuelle konteksten.
-Et annet eksempel er at det kun skilles mellom anonyme/fiktive og personopplysninger.
-Vi påpeker at det også kan gjøres begrensninger med andre former for identitetshåndtering
-(pseudonyme data, indirekte identifiserbare
-data) og datasettet kan også begrenses i for
-eksempel omfang av datakilder eller inkluderte.
-Vi anbefaler at forslaget gjennomgås nærmere for å vurdere om den kan gi tilstrekkelig
-rettslig grunnlag for test- og utviklingsformål,
-og for å sikre at blant annet nødvendighetsprinsippet i personvernforordningen er tilstrekkelig vurdert.
-Datatilsynet minner om muligheten til å
-rådføring med oss som tilsynsmyndighet, som
-følger av den nevnte personvernforordningen
-artikkel 36 nr. 4.»
-Norsk Pensjon ønsker at departementet legger til
-rette for at Norsk Pensjon kan motta fullstendig
-pensjonsinformasjon fra Statens pensjonskasse
-slik at arbeidstakere med rettigheter fra offentlig
-tjenestepensjon også får tilgang til komplette pensjonsoversikter og pensjonsprognoser.
-
-8.4
-
-Departementets vurdering og
-forslag
-
-8.4.1 Formålsbestemmelse
-Departementet følger opp høringsnotatet og foreslår at lov om Statens pensjonskasse § 1 endres
-slik at det fremgår hvilke formål Statens pensjonskasses har og hvilke ordninger Pensjonskassen
-administrerer. Det foreslås å lovfeste at formålet
-med pensjonsordningen i Statens pensjonskasse
-er å sikre medlemmene tjenestepensjon ved alderdom og uførhet. Ordningen skal også sikre pensjon til etterlatte. Videre foreslås en bestemmelse
-om at Pensjonskassen i tillegg skal administrere
-andre pensjonsordninger, boliglånsordningen i
-staten, gruppelivsordningen i staten og andre ordninger, erstatningsordninger i staten og andre
-ordninger, når det er fastsatt ved lov eller bestemt
-
-43
-
-av departementet. Det vises til § 1 andre og tredje
-ledd i lovforslaget.
-
-8.4.2 Innhenting av personopplysninger
-Som nevnt i høringsnotatet, dekker ikke § 45 i lov
-om Statens pensjonskasse det behovet Pensjonskassen har for nødvendige opplysninger fra blant
-annet arbeidsgiver, andre offentlige myndigheter,
-helsepersonell og medlemmet. Dette skyldes at
-Statens pensjonskasse har overtatt administrasjonen av en rekke ulike ordninger etter at
-bestemmelsen ble gitt.
-På denne bakgrunn foreslår departementet i
-tråd med høringsnotatet at § 45 endres, slik at
-Pensjonskassen har rett til å innhente opplysninger som er nødvendige for å forvalte de ordningene Pensjonskassen administrerer. Bestemmelsen vil omfatte rett til å innhente opplysninger for
-å beregne pensjoner, pensjonspremier og forventet pensjon. Bestemmelsen vil også hjemle innhenting av personopplysninger ved søknader om
-boliglån, og nødvendige helseopplysninger ved
-søknad om erstatning ved personskade. Paragrafen er i det alt vesentlige utformet i tråd med
-folketrygdloven § 21-4 og lov om Statens pensjonskasse § 45 andre ledd.
-Forslaget til § 45 første ledd vil hjemle adgang
-for Statens pensjonskasse til å innhente pasientjournaler, men med de begrensninger som følger
-av folketrygdloven § 21-4 c, jf. forslaget til § 45
-fjerde ledd. Departementet legger til grunn at
-Statens pensjonskasse vil ha taushetsplikt etter
-helsepersonelloven § 21 flg. ved behandling av
-journalopplysninger, jf. pasientjournalloven § 15
-og helseregisterloven § 17.
-Statens pensjonskasse er av den oppfatning at
-hjemmelen om innhenting av opplysninger som
-foreslås ikke dekker deres behov for innhenting
-av pasientjournaler i erstatningssaker og saker
-om uførepensjon. Departementet vil bemerke at
-da en utvidelse av adgangen til å innhente pasientjournaler ikke var tema i høringsnotatet, vil dette
-derfor ikke bli behandlet nærmere her.
-Skattedirektoratet mener at det i arbeidet med
-innhentingshjemler er viktig å synliggjøre nødvendighets- og forholdsmessighetsvurderingene
-som er gjort slik at disse er tilgjengelig ved senere
-anmodninger om opplysninger basert på hjemlene. Det bør synliggjøres hvilke opplysninger
-som skal utleveres. En slik vurdering av behandlingen vil bidra til å øke forutsigbarheten ovenfor
-den registrerte.
-Etter forslaget til ny § 45 skal Statens pensjonskasse bare få tilgang til nødvendige opplys-
-
-[Side 44]
-
-44
-
-Prop. 135 L
-
-2019–2020
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-ninger etter pålegg i den enkelte sak for å forvalte
-de ordninger som Pensjonskassen administrerer.
-Departementet legger imidlertid til grunn at
-denne bestemmelsen ikke gir Statens pensjonskasse adgang til å innhente løpende inntektsopplysninger fra Skatteetaten, kun til å innhente opplysninger etter pålegg i den enkelte sak.
-Departementet viser til at personopplysninger
-kun kan samles inn til spesifikke, uttrykkelig
-angitte og berettigete formål, jf. artikkel 5 nr. 1
-bokstav b. Med et uttrykkelig angitt og konkret
-formål vil det i større grad være enkelt å angi
-hvilke personopplysninger som er adekvate, nødvendige og relevante for å oppfylle formålet (prinsippet om dataminimering). Prinsippene her vil
-ivaretas gjennom de rammene som er nedfelt i lov
-om Statens pensjonskasse som er grunnlag for
-behandlingen av personopplysningene. Behovet
-for opplysninger vil variere med vilkårene som er
-fastsatt for den enkelte ytelse. For eksempel i
-saker om alderspensjon, vil nødvendige opplysninger hovedsakelig omfatte opplysninger om alder
-og inntekt mv. I saker om uførepensjon vil det
-være behov for en rekke opplysninger knyttet til
-vilkårsfastsettelsen, for eksempel helseopplysninger, opplysninger om nedsatt inntektsevne og
-gjennomgått hensiktsmessig behandling og
-arbeidsrettede tiltak mv.
-Departementet finner det ikke hensiktsmessig
-å regulere i loven hvilke opplysninger som vil
-kunne være aktuelle i saksbehandlingen. Utformingen vil kunne bli både detaljert og omfangsrik. En eventuell regulering vil derfor egne seg
-best i forskrifts form, men departementet finner
-det ikke nødvendig å gjøre dette nå. Dette vil bli
-vurdert nærmere.
-I forbindelse med det årlige etteroppgjøret for
-uførepensjon foretar Statens pensjonskasse en
-maskinell kontroll av medlemmets pensjonsgivende inntekt opp mot medlemmets inntektsgrense, jf. lov om Statens pensjonskasse § 29 og
-§ 30 tredje ledd.
-For å sikre at opplysninger som utleveres er i
-samsvar med de opplysninger Statens pensjonskasse har behov for i arbeidet med etteroppgjøret,
-anbefaler Skattedirektoratet at det klargjøres nærmere hvilke opplysninger som omfattes av begrepet opplysninger om pensjonsgivende inntekt.
-Departementet vil til dette bemerke at Statens
-pensjonskasse har behov for opplysninger om inntektsartene som inngår i personinntekt etter
-skatteloven § 12-2, som er grunnlaget for pensjonsgivende inntekt etter folketrygdloven § 3-15.
-Departementet viser i denne forbindelse til at
-Skatteetaten og Statens pensjonskasse er i dialog
-
-om hvilke opplysninger som inngår i «opplysninger om pensjonsgivende inntekt». Det vises
-også til dialog mellom Skatteetaten og Finansdepartementet om skatteforvaltningsloven § 3-6
-andre ledd.
-
-8.4.3 Behandling av personopplysninger
-I tråd med høringsnotatet foreslår departementet
-at det i ny § 45 b første ledd tas inn en overordnet
-hjemmel som angir rammene for behandling av
-personopplysninger. Etter bestemmelsen skal
-Statens pensjonskasse kunne behandle personopplysninger, herunder personopplysninger etter
-personvernforordningen artikkel 9 og 10, når
-dette er nødvendig for å forvalte de ordningene
-som Pensjonskassen administrerer.
-Bestemmelsen vil gjelde alle de oppgavene
-Statens pensjonskasse utfører, uavhengig av om
-det foreligger krav eller søknad, eller om det skal
-treffes et vedtak. For eksempel vil forberedelse av
-en sak også være omfattet, selv om det saksforberedende organet ikke skal avgjøre saken. Behandling knyttet til oppfølging av et vedtak og rapportering til overordnet myndighet i forbindelse med
-sakshåndtering er også ment å være omfattet.
-Bestemmelsen hjemler rett til å behandle opplysninger for å beregne pensjoner, beregne pensjonspremier og gi medlemmene opplysninger
-om hva forventet pensjon blir. Videre hjemles
-behandling av personopplysninger ved søknader
-om boliglån og nødvendige helseopplysninger ved
-søknad om erstatning ved personskade.
-Som nevnt i høringsnotatet mottar Pensjonskassen opplysninger på forskjellige måter. Noen
-opplysninger sendes inn uoppfordret fra
-medlemmet eller andre, og departementet forutsetter at opplysninger avgitt på denne måten skal
-omfattes av adgangen til å behandle innhentede
-opplysninger. Nærmere bestemmelser om hvilke
-opplysninger som kan behandles og adgangen til
-viderebehandling og utlevering, kan gis i medhold
-av forskriftshjemmelen som foreslås i § 45 b siste
-ledd dersom det skulle vise seg å være nødvendig.
-8.4.4 Særskilt om tilgang til Folkeregisteret
-Lov om Statens pensjonskasse § 45 a fastslår at
-Pensjonskassen, uten hinder av taushetsplikt, skal
-ha tilgang til opplysninger i Folkeregisteret som
-er nødvendig for «forvaltning og beregning av
-ytelser» som Pensjonskassen administrerer. For
-at tilgangen også skal omfatte boliglån og erstatningsordningene, foreslår departementet i tråd
-med høringsnotatet at § 45 a om tilgang til opplys-
-
-[Side 45]
-
-2019–2020
-
-Prop. 135 L
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-ninger i Folkeregisteret endres, slik at Pensjonskassen skal ha tilgang til opplysninger i Folkeregisteret som er nødvendige for «å forvalte de
-ordningene som Pensjonskassen administrerer».
-Som Skattedirektoratet peker på i sitt høringssvar, vil lovendringen medføre at Statens pensjonskasse får rett på ytterligere opplysninger fra Folkeregisteret enn tidligere, og at det må vurderes nærmere om dette krever systemtekniske endringer
-hos Skatteetaten. Departementet viser til at Statens
-pensjonskasse har opplyst at den foreslåtte utvidede tilgangen til opplysninger fra Folkeregisteret
-ikke vil medføre systemtekniske endringer verken
-hos Skatteetaten eller for Statens pensjonskasse
-når det gjelder manuelle oppslag eller maskinelle
-spørringer mot Folkeregisteret.
-Skattedirektoratet reiser videre spørsmål om
-det i stedet for meldeplikt for ektefeller mv. om
-endringer i sivil status til Statens pensjonskasse
-kan være hensiktsmessig å vurdere gjenbruk av
-opplysninger fra Folkeregisteret. Departementet
-har i forlengelsen av dette kontaktet Statens pensjonskasse, som har opplyst at det vil være en tilfredsstillende løsning å innhente opplysninger om
-sivilstatus mv. direkte fra Folkeregisteret. Departementet viser til dette, og foreslår at § 45 sjette
-ledd tas ut av lovforslaget.
-
-8.4.5 Helautomatiserte avgjørelser
-Departementet foreslår i tråd med høringsnotatet
-en uttrykkelig lovbestemmelse i lov om Statens
-pensjonskasse ny § 45 b andre ledd om at Pensjonskassen skal kunne treffe avgjørelser som
-utelukkende er basert på automatisert behandling
-av personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10. Behandlingen må sikre partens krav
-til forsvarlig saksbehandling, egnede tiltak som
-ivaretar den registrertes rettigheter og friheter,
-og for øvrig være forenlig med retten til vern av
-personopplysninger. Det vises til punkt 5.3 hvor
-departementets vurdering framkommer.
-På sikt vil det være mulig for Statens pensjonskasse å helautomatisere en del av uføresakene
-hvor Arbeids- og velferdsetatens vurdering av
-medisinske opplysninger legges til grunn. En opplysning om at et medlem mottar uførepensjon er
-en helseopplysning og dermed en «særlig kategori» personopplysning etter forordningen. Automatiserte avgjørelser kan ikke bygge på særlige
-kategorier personopplysninger med mindre
-behandlingen er nødvendig av hensyn til «viktige
-allmenne interesser». Det følger av loven at Statens pensjonskasse skal avgjøre og utbetale pen-
-
-45
-
-sjoner, herunder uførepensjon, til et stort antall
-borgere. Departementet legger derfor til grunn at
-forordningens krav er oppfylt i saker som gjelder
-uførepensjon, forutsatt at det etableres egnede tiltak for å verne den registrertes rettigheter, friheter og berettigede interesser, se punkt 5.3.2.
-Departementet følger opp Justis- og beredskapsdepartementets høringssvar, og foreslår at bestemmelsene om automatisering suppleres slik at helautomatiserte avgjørelser ikke kan bygge på
-skjønnsmessige vilkår «i lov eller forskrift». På
-den måten kommer det klart fram at det siktes til
-vilkårene i de materielle reglene som gir rettsgrunnlag for avgjørelsen, og ikke «vilkårene» i
-dataprogrammet som operasjonaliserer de materielle reglene.
-For å gjøre det klart at den registrerte har rett
-til manuell overprøving i den grad det ikke foreligger formell klage-/ankerett, jf. fortalepunkt 71 i
-forordningen om «menneskelig inngripen», foreslås at dette kommer uttrykkelig frem av loven i
-tråd med Justis- og beredskapsdepartementets
-forslag.
-Det vises til § 45 andre ledd i lovforslaget.
-I § 45 b syvende ledd foreslås det, i tråd med
-høringsnotatet, at departementet kan gi forskrift
-om behandlingen, blant annet om automatiserte
-avgjørelser.
-
-8.4.6
-
-Viderebehandling av
-personopplysninger
-
-8.4.6.1 Utvikling og testing av IT-systemer
-Statens pensjonskasse utfører oppgaver som
-angår et stort antall personer, og oppgavene som
-utføres har stor betydning for de som berøres.
-Systemene skal håndtere en stor informasjonsmengde og systematisere denne på en hensiktsmessig og sikker måte. Konsekvensene av feil i
-IT-systemene kan dermed bli betydelige.
-Prinsippene om riktighet, integritet og konfidensialitet, jf. forordningen artikkel 5 bokstav d
-og f, tilsier derfor at Pensjonskassen bør kunne
-benytte personopplysninger ved utvikling og
-testing av IT-systemer. Det samme gjør effektivitetshensyn. Personvernhensyn taler for at det bør
-være klart for de registrerte hvordan personopplysningene deres blir brukt. I personvernforordningen artikkel 5 bokstav a kommer dette til
-uttrykk ved at personopplysninger skal behandles
-på en «åpen måte med hensyn til den registrerte»
-(prinsippet om åpenhet). Lovregulering av adgangen til å bruke personopplysninger bidrar til å
-skape slik åpenhet.
-
-[Side 46]
-
-46
-
-Prop. 135 L
-
-2019–2020
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-Personvernforordningen artikkel 9 har egne
-regler om særlige kategorier av personopplysninger (opplysninger om helseforhold mv.). Det
-følger av artikkel 9 at det er forbudt å behandle
-personopplysninger som omfattes av de særlige
-kategoriene, med mindre det foreligger et unntak
-etter artikkel 9 nr. 2 bokstav a til h.
-De delene av IT-systemene som skal behandle
-opplysninger som omfattes av personvernforordningen artikkel 9, må utvikles og testes på samme
-måte som de andre delene av IT-systemene. Etter
-departementets vurdering er vilkårene i personvernforordningen artikkel 9 nr. 2 bokstav g oppfylt ved at behandlingen er nødvendig for at Pensjonskassen skal kunne utføre sine lovpålagte oppgaver. Videre vil det bli utarbeidet retningslinjer
-som skal gjelde for Pensjonskassens utviklingsog testvirksomhet. Departementet legger til
-grunn at retningslinjene vil oppfylle kravet til
-«egnede og særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser».
-Det følger av personvernforordningen artikkel
-6 nr. 4 at lovbestemmelser som gir hjemmel for
-viderebehandling av personopplysninger til uforenlige formål, må utgjøre et «nødvendig og forholdsmessig tiltak i et demokratisk samfunn for å sikre
-oppnåelse av målene nevnt i artikkel 23 nr. 1». I
-artikkel 23 nr. 1 nevnes blant annet mål av generell
-allmenn interesse for en medlemsstat, særlig en
-medlemsstats viktige økonomiske eller finansielle
-interesser, herunder trygdespørsmål. Etter departementets vurdering oppfyller de foreslåtte bestemmelsene vilkåret i artikkel 6 nr. 4. Departementet
-viser til redegjørelsen for behovet for å bruke personopplysninger til utvikling og testing, samt at
-utviklings- og testvirksomheten som hovedregel
-skal foregå med anonyme eller fiktive opplysninger.
-Departementet vil videre vise til at skatteforvaltningsloven ble tilføyd en ny § 5-11 ved
-endringslov 20. desember 2018 nr. 110:
-«§ 5-11. Bruk av personopplysninger ved utvikling og testing av IT-systemer
-(1) Skattemyndighetene kan behandle innhentede personopplysninger for å utvikle og
-teste IT-systemer dersom det vil være umulig
-eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.
-(2) Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.»
-Det vises til Prop. 1 LS (2018–2019) punkt 18.5 om
-Skatteetatens og Tolletatens bruk av personopplysninger til utvikling og testing av IT-systemer.
-
-Departementet foreslår en ny bestemmelse
-som fastslår at Statens pensjonskasse kan bruke
-personopplysninger, herunder særlige kategorier
-personopplysninger, til utvikling og testing av ITsystemer. Forslaget omfatter både utvikling og
-testing av IT-systemer. Med utvikling menes tradisjonelt det å lage eller oppgradere et IT-system
-slik at det er klart for testing. Med testing menes
-tradisjonelt det å foreta den siste kontrollen av at
-IT-systemet fungerer slik det skal.
-Etter departementets vurdering bør Statens
-pensjonskasse også kunne benytte personopplysninger til testing og utvikling i en del tilfeller der
-det er praktisk mulig, men hvor det er uforholdsmessig krevende å bruke fiktive eller anonyme
-opplysninger. Statens pensjonskasse har ca. 1 million medlemmer, og utfører oppgaver som har
-stor betydning for de som berøres og som skal ha
-pensjon. Regelverket er komplisert og omfattende. Konsekvensene av feil i IT-systemene kan
-dermed bli betydelige. Systemene skal håndtere
-en betydelig informasjonsmengde og foreta
-mange ulike beregninger for å sikre riktig premie
-og riktig pensjon til rett tid. De utveksler dessuten
-i utstrakt grad opplysninger med andre offentlige
-og private aktører. Det gjør at kravene til utvikling
-og testing er større enn de ellers ville vært.
-Departementet presiserer at en adgang for
-Statens pensjonskasse til å bruke personopplysninger når det er «uforholdsmessig vanskelig» å
-benytte anonyme eller fiktive opplysninger, ikke
-rokker ved det prinsipielle utgangspunktet om at
-Pensjonskassen skal bruke anonyme eller fiktive
-opplysninger i utviklings- og testarbeidet.
-Datatilsynet anbefaler at forslaget gjennomgås
-nærmere for å vurdere om den kan gi tilstrekkelig
-rettslig grunnlag for test- og utviklingsformål, og
-for å sikre at blant annet nødvendighetsprinsippet
-i personvernforordningen er tilstrekkelig vurdert.
-Datatilsynet påpeker at forslaget til hjemmel fremstår som overordnet og meget generell, og stiller
-spørsmål ved om den oppfyller personvernforordningens premisser for lovhjemler som rettslig
-grunnlag. Videre peker tilsynet på at det kun skilles mellom anonyme/fiktive og personopplysninger, og anbefaler at det også bør gjøres begrensninger med andre former for identitetshåndtering
-(pseudonyme data, indirekte identifiserbare data)
-og at datasettet også bør begrenses i for eksempel
-omfang av datakilder eller inkluderte.
-Departementet viser til at Statens pensjonskasse i dag i all hovedsak benytter pseudonyme
-data i test- og utvikling av sine IT-systemer.
-Dagens praksis rundt benyttelse av data i test av
-it-systemer kan oppsummeres i tre hovedkatego-
-
-[Side 47]
-
-2019–2020
-
-Prop. 135 L
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-rier. Dette er pseudonyme, syntetiske, og skarpe
-data fra produksjon. Statens pensjonskasse deltar
-i et bredt, tverretatlig samarbeid for å etablere
-data som kan benyttes på tvers av etatene, og som
-skal bidra til at offentlig sektor prioriterer arbeidet med å lage datasett med anonyme og fiktive
-opplysninger. De foreslåtte bestemmelsene skal
-bare dekke det resterende behovet for å bruke
-personopplysninger.
-I enkelte tilfeller vil det ikke være mulig, eller
-det vil være svært ressurskrevende, for Statens
-pensjonskasse å bruke pseudonyme eller syntetiske opplysninger for å gjennomføre utvikling og
-testing av Pensjonskassens IT-systemer. Det er i
-slike tilfeller tilgangsstyring, slik at kun personer
-med tjenestelig behov skal ha tilgang til
-utviklings- og testmiljøet.
-Departementet viser videre til at utviklings- og
-testvirksomheten ikke skal ha større omfang enn
-det som er nødvendig for å oppnå formålet. Personopplysningene skal ikke lagres lenger enn det
-som er nødvendig for å gjennomføre arbeidet.
-Departementet forutsetter at det utarbeides
-retningslinjer for behandling av henholdsvis personopplysninger og fiktive opplysninger ved utvikling og testen av IT-systemer, som ivaretar kravene i personvernforordningen. Når det gjelder
-personopplysninger legger departementet til
-grunn at det utarbeides særlig strenge og detaljerte retningslinjer.
-Departementet har merket seg Datatilsynets
-synspunkt om at forslaget til hjemmel fremstår
-som overordnet og meget generell. Tilsynet reiser
-spørsmål om forslaget oppfyller personvernforordningens premisser for lovhjemler som rettslig
-grunnlag.
-På denne bakgrunn foreslår departementet at
-det presiseres i loven at personopplysninger kun
-skal kunne benyttes til utvikling og testing av ITsystemer når dette er nødvendig for å sikre effektiv
-behandling av saker og riktige avgjørelser. Departementet anser etter dette at den registrertes personvernrettigheter etter forordningen er tilstrekkelig ivaretatt gjennom lovforslaget og tiltakene som
-er angitt ovenfor. Som nevnt i punkt 8.4.6.4 vil det
-kunne gis nærmere regler om bruk av peronsopplysninger til utvikling og testing av IT-systemer,
-dersom det skulle være behov for dette.
-Det vises til lovforslaget § 45 b sjette ledd.
-
-8.4.6.2 Statistikk og analyser mv.
-Som nevnt i punkt 8.2.8.2 utarbeider Statens pensjonskasse mange ulike typer analyser og rapporter. Dette omfatter blant annet historiske analyser,
-
-47
-
-analyser og prognoser om framtiden, statistikker,
-budsjettinnspill til statsbudsjettet, økonomiske
-rapporter, fakturaer med underlagsmateriale samt
-sikkerhets- og kontrollrapporter. Datavarehus,
-dvs. en type databasesystem som søker å organisere data på en tematisk rettet måte, bruker ikkeanonymiserte personopplysninger til analyse- og
-rapporteringsformål.
-På bakgrunn av ovenstående foreslår departementet at høringsnotatet følges opp på dette punkt
-slik at Statens pensjonskasse gis en klar hjemmel i
-lov for viderebehandling av personopplysninger til
-statistikk og analyser. Behandling av personopplysninger kan bare skje dersom det er umulig
-eller uforholdsmessig vanskelig å oppnå formålet
-ved å bruke anonyme eller fiktive opplysninger.
-Det vises til § 45 b femte ledd i lovforslaget.
-
-8.4.6.3
-
-Beregning av forventet pensjon
-
-Medlemmer i Statens pensjonskasse ønsker ofte å
-få en prognose på forventet pensjon.
-For å kunne beregne forventet pensjon til
-medlemmet er det i tillegg til opplysninger om
-medlemskapet i Statens pensjonskasse behov for
-å innhente opplysninger fra folketrygden og
-andre offentlige tjenestepensjonsordninger. Slike
-opplysninger kan med hjemmel i lov i dag først
-innhentes ved faktisk pensjonering. Medlemmet
-må i dag gi samtykke for at Pensjonskassen skal
-kunne beregne forventet pensjon.
-Dersom formålet med innhentingen er å
-beregne forventet pensjon, vil dette hjemles i lovforslaget § 45 b første ledd. Dersom opplysninger
-som Statens pensjonskasse allerede har innhentet
-til andre formål skal benyttes til å beregne forventet pensjon, kreves det et nytt behandlingsgrunnlag dersom det nye formålet ikke er forenlig med
-det opprinnelige. Departementet legger til grunn
-at nevnte formål ikke vil være uforenelig med det
-opprinnelige, men forslår likevel en klar lovbestemmelse om at Statens pensjonskasse skal
-kunne behandle innhentede personopplysninger
-til å beregne forventet pensjon og premie.
-Når det gjelder ønsket fra Norsk Pensjon om å
-kunne motta fullstendig pensjonsinformasjon fra
-Statens pensjonskasse blant annet for å kunne
-beregnet fremtidig pensjon, skal departementet
-bemerke at spørsmålet om utlevering av personopplysninger fra Statens pensjonskasse ikke var
-tema i høringsnotatet som behandles i proposisjonen her. Departementet kommer derfor ikke
-nærmere inn på dette, og vil følge opp dette spørsmålet i samråd med Finansdepartementet.
-Det vises til lovforslaget § 45 b tredje ledd.
-
-[Side 48]
-
-48
-
-Prop. 135 L
-
-2019–2020
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-8.4.6.4 Forskriftshjemmel om viderebehandling
-I høringsnotatet ble det foreslått at departementet
-kan gi nærmere regler i forskrift om behandlingen, blant annet adgangen til viderebehandling og
-utlevering. Departementet følger opp forslaget om
-slik forskriftshjemmel. Det vil blant annet kunne
-gis nærmere regler om bruk av personopplysninger til utvikling og testing av IT-systemer, dersom det skulle være behov for dette.
-Et særlig aktuelt tilfelle av viderebehandling
-gjelder bruk av opplysninger Statens pensjonskasse har fra tidligere saksbehandling. I praksis
-vil det ikke være uvanlig at en person over tid har
-flere saker til behandling. I slike tilfeller vil Pensjonskassen ha et reelt behov for å behandle per-
-
-sonopplysninger som er innhentet tidligere. Flere
-hensyn taler for at Pensjonskassen ser hen til opplysninger fra tidligere saksbehandling eller opplysninger innhentet fra en annen person i annen
-sak. Særlig ressurshensyn og hensynet til å opplyse saken best mulig er viktige hensyn, men også
-kontrollhensyn gjør seg sterkt gjeldende. Hvorvidt behandling av opplysninger som Statens pensjonskasse har fra tidligere saksbehandling vil
-være forenelig eller ikke med det opprinnelige formålet de ble samlet inn for, vil avhenge av en konkret vurdering i det enkelte tilfellet. Det vil derfor
-kunne være hensiktsmessig å regulere dette nærmere i en forskrift.
-Det vises til lovforslaget § 45 b siste ledd.
-
-[Side 49]
-
-2019–2020
-
-Prop. 135 L
-
-Endringer i arbeids- og velferdsforvaltningsloven, sosialtjenesteloven, lov om Statens pensjonskasse og enkelte andre lover
-(behandling av personopplysninger)
-
-49
-
-9 Endringer i lov om pensjonsordning for arbeidstakere til sjøs
-9.1
-
-Behandling av personopplysninger
-– gjeldende rett
-
-Pensjonstrygden for sjømenn er en offentlig og
-obligatorisk førtidspensjonsordning etablert ved lov
-3. desember 1948 nr. 7 om pensjonstrygden for sjømenn. Ved lov 22. november 2019 nr. 72 ble lovens
-tittel, med virkning fra 1. januar 2020, endret til lov
-om pensjonsordning for arbeidstakere til sjøs. Navnet på institusjonen som administrerer ordningen
-er fortsatt «Pensjonstrygden for sjømenn».
-Pensjonstrygden for sjømenn mottar og innhenter opplysninger om sine medlemmer og kunder for å kunne gi korrekte ytelser. Pensjonstrygden har ansvaret for å kreve inn premie fra
-arbeidstakere og arbeidsgivere samt å utbetale
-pensjonsytelser. For å kunne gi medlemmene
-korrekt pensjon er det nødvendig å ha tilgang til
-relevante personopplysninger. Pensjonstrygden
-for sjømenn henter nødvendig informasjon fra
-arbeidstakeren, arbeidsgiveren, pensjonsordninger og offentlige myndigheter.
-Lov om pensjonsordning for arbeidstakere til
-sjøs har ikke nærmere bestemmelser om behandling av personopplysninger. Pensjonstrygdens
-grunnlag for behandling av personopplysninger
-følger av personvernforordningen artikkel 6 nr. 1
-bokstav e («…utøve offentlig myndighet som den
-behandlingsansvarlige er pålagt») sammenholdt
-med et supplerende rettsgrunnlag, jf. artikkel 6
-nr. 3. Det supplerende rettsgrunnlaget følger av
-lovreguleringen av de oppgavene som Pensjonstrygden for sjømenn skal utføre. Lovreguleringen
-angir blant annet saksbehandlingsregler, og oppstiller rammer for behandlingen gjennom detaljerte beskrivelser av medlemmenes rettigheter,
-fastsettelse av vilkår, hvem personopplysninger
-kan innhentes fra mv.
-Lov om pensjonsordning for arbeidstakere til
-sjøs § 21 nr. 1 har bestemmelser om hvem som
-plikter å gi pensjonstrygden for sjømenn opplysninger. Fra 1. oktober 2018 fikk § 21 nr. 1 et nytt
-andre ledd som gir Pensjonstrygden tilgang til
-opplysninger fra Folkeregisteret som er nødvendig for forvaltning og beregning av ytelser som
-Pensjonstrygden administrerer.
-
-Pensjonstrygden har stort sett automatisert all
-saksbehandling både for premieinnbetaling og
-pensjonssaker. Pensjonstrygden har videre et
-behov for å kunne teste på produksjonsdata.
-
-9.2
-
-Høringsnotatet
-
-Etter gjeldende rett har Pensjonstrygden som
-nevnt hjemmel til å innhente opplysninger som er
-nødvendige for å sikre riktig behandling av saker
-etter loven, men loven har ikke nærmere bestemmelser om behandling av personopplysninger.
-Personvernforordningens
-definisjon
-av
-«behandling» av personopplysninger omfatter
-også «innhenting», se artikkel 4 nr. 2. Dette skulle
-tilsi at bestemmelser om innhenting og behandling av personopplysninger reguleres i tilknytning
-til hverandre. Av lovtekniske hensyn foreslo
-departementet at reglene om innhenting likevel
-beholdes i en egen bestemmelse slik det også er
-gjort i utlendingsloven, se utlendingsloven §§ 83 a
-og 84.
-Departementet foreslo at lov om pensjonsordning for arbeidstakere til sjøs § 21 nr. 1 første ledd
-om innhenting av opplysninger endres slik at den
-også omfatter beregning av forventet pensjon, jf.
-begrepet «å forvalte pensjonstrygden» i lovforslaget.
-I ny § 21 a foreslo departementet på tilsvarende måte som for Statens pensjonskasse at det
-med nødvendige tilpasninger til Pensjonstrygden
-for sjømenn tas inn en overordnet hjemmel som
-angir rammene for behandling av personopplysninger.
-Pensjonstrygden har stort sett automatisert all
-saksbehandling, både for premieinnbetaling og
-pensjonssaker. Departementet foreslo en uttrykkelig lovbestemmelse i lov om pensjonsordning
-for arbeidstakere til sjøs ny § 21 a andre ledd om
-at Pensjonstrygden skal kunne treffe avgjørelser
-som utelukkende er basert på automatisert
-behandling av personopplysninger. Behandlingen
-må sikre partens krav til forsvarlig saksbehandling, egnede tiltak som ivaretar den registrertes
-rettigheter og friheter, og for øvrig være forenlig
+
+§ 45 a skal lyde:
+
+Statens pensjonskasse skal, uten hinder av taushetsplikt, ha tilgang til opplysninger i Folkeregisteret som er nødvendig for å forvalte de ordningene som Pensjonskassen administrerer. Pensjonskassen skal også ha tilgang til opplysninger i registeret til utredning og produksjon av statistikk.»
+
+Ut i fra dette kan det synes som om lovendringen medfører at SPK får rett på ytterligere opplysninger sammenlignet med tidligere. Vi har ikke tilstrekkelig grunnlag i høringsnotatet til å vurdere om dette krever tilpasninger i våre løsninger for deling av opplysninger. Dette må utredes nærmere.
+
+*2.2. Bryter forslag til § 45 sjette ledd i lov om Statens pensjonskasse med once only-prinsippet som er fastsatt i Digital Agenda?*
+
+Forslaget til § 45 sjette ledd lyder:
+
+«Når et medlem av Pensjonskassen inngår ekteskap, eller når ekteskapet oppløses ved død eller skilsmisse, plikter medlemmet, den gjenlevende ektefellen eller i tilfelle vergen å sende melding om det til Pensjonskassen.»
+
+Regelen er for så vidt ikke ny og er i hovedsak en videreføring av gjeldende rett. Ut i fra en tankegang om at borgeren skal gi opplysning til det offentlige kun en gang, kan det i utgangspunktet foreligge gode grunner for at SPK i stedet utelukkende skulle forholdt seg til Folkeregisteret for uthenting av disse opplysningene. En første problemstilling som i så fall må avklares er om personkretsen som mottar tjenester fra SPK tilsvarer personkretsen som registreres i Folkeregisteret. Videre er det slik at det ikke nødvendigvis er meldeplikt til Folkeregisteret (overfor borgeren selv/eller offentlig myndighet) i alle aktuelle tilfeller. En løsning hvor SPK var forpliktet å forholde seg til Folkeregisteret ville imidlertid kunne ha hevet kvaliteten (ajourhold) på de aktuelle informasjonselementene i Folkeregisteret, og kanskje også saksbehandlingen i SPK da det er Folkeregistermyndigheten som har kompetanse og myndighet til vurdere og registre disse forholdene.
+
+Det kan være hensiktsmessig om man kan vurdere gjenbruk av opplysninger fra Folkeregistret i stedet for å videreføre dagens varslingsplikt. Det er imidlertid ikke et en til en forhold mellom varslingsplikten i SPK-loven § 45 sjette ledd, og gjeldende meldeplikt(er) om vigsel, skilsmisse og død etter folkeregisterloven, kan det stilles spørsmål om man i stedet burde ha varslingsplikt til folkeregisteret.»
+
+*Datatilsynet* uttaler
+
+«Datatilsynet ser meget positivt på at innspillene fra oss som ble gitt i den tidligere prosessen er innarbeidet og i hovedsak tatt til følge. Personvernforordningen legger opp til en slik systematikk i artikkel 36 nr. 4.
+
+Denne saken er et godt eksempel på hvordan man under utarbeidelsen av lovforslag kan rådføre seg med tilsynsmyndigheten for å sikre at forslagene som gis ikke er i strid med prinsippene i personvernregelverket. Resultatet av rådføringen er at våre tilbakemeldinger i den formelle høringsprosessen er avgrenset til noen få punkter.
+
+Vi ønsker å påpeke at endringsforslagene fremstår som å være i tråd med andre lignende lovforslag, blant annet forslag til ny forvaltningslov §§ 11 og 12 om automatiserte beslutningsprosesser. Vi registrerer at ASD i innledningen til høringsnotatet har drøftet retten til manuell behandling som følger av personvernforordningen artikkel 22, og dette anser vi som positivt i forslaget.
+
+Vi har ikke tidligere vurdert forslaget om endringer i Lov om Statens pensjonskasse § 45 b, femte ledd, som åpner opp for at data kan brukes til utvikling og testing av IT-systemer. Det er tatt et forbehold om at hjemmelen kun kan brukes dersom det er umulig eller uforholdsmessig vanskelig å bruke anonyme eller fiktive data for å oppnå formålet.
+
+Datatilsynet vil påpeke at forslaget til hjemmel fremstår som overordnet og meget generell, og vi stiller spørsmål ved om den oppfyller personvernforordningens premisser for lovhjemler som rettslig grunnlag, se blant annet artikkel 6 nr. 3, annet ledd og fortalepunkt 45. Vi mener også at ordlyden i forslaget tilsier en betydelig utvidelse i de rettslige mulighetene for bruk av data til nye formål.
+
+Datatilsynet mener at denne delen av endringsforslaget medfører en så utvidet mulighet for bruk av data at den bør underlegges en personvernkonsekvensvurdering.
+
+Som eksempel peker vi på at «testformål» og «utviklingsformål» favner et betydelig spekter av behandlinger, uten krav til vurdering av hva som legges i begrepene, viktigheten av behandlingen eller nytten i den aktuelle konteksten.
+
+Et annet eksempel er at det kun skilles mellom anonyme/fiktive og personopplysninger. Vi påpeker at det også kan gjøres begrensninger med andre former for identitetshåndtering (pseudonyme data, indirekte identifiserbare data) og datasettet kan også begrenses i for eksempel omfang av datakilder eller inkluderte.
+
+Vi anbefaler at forslaget gjennomgås nærmere for å vurdere om den kan gi tilstrekkelig rettslig grunnlag for test- og utviklingsformål, og for å sikre at blant annet nødvendighetsprinsippet i personvernforordningen er tilstrekkelig vurdert.
+
+Datatilsynet minner om muligheten til å rådføring med oss som tilsynsmyndighet, som følger av den nevnte personvernforordningen artikkel 36 nr. 4.»
+
+*Norsk Pensjon* ønsker at departementet legger til rette for at Norsk Pensjon kan motta fullstendig pensjonsinformasjon fra Statens pensjonskasse slik at arbeidstakere med rettigheter fra offentlig tjenestepensjon også får tilgang til komplette pensjonsoversikter og pensjonsprognoser.
+
+## Departementets vurdering og forslag
+
+### Formålsbestemmelse
+
+Departementet følger opp høringsnotatet og foreslår at lov om Statens pensjonskasse § 1 endres slik at det fremgår hvilke formål Statens pensjonskasses har og hvilke ordninger Pensjonskassen administrerer. Det foreslås å lovfeste at formålet med pensjonsordningen i Statens pensjonskasse er å sikre medlemmene tjenestepensjon ved alderdom og uførhet. Ordningen skal også sikre pensjon til etterlatte. Videre foreslås en bestemmelse om at Pensjonskassen i tillegg skal administrere andre pensjonsordninger, boliglånsordningen i staten, gruppelivsordningen i staten og andre ordninger, erstatningsordninger i staten og andre ordninger, når det er fastsatt ved lov eller bestemt av departementet. Det vises til § 1 andre og tredje ledd i lovforslaget.
+
+### Innhenting av personopplysninger
+
+Som nevnt i høringsnotatet, dekker ikke § 45 i lov om Statens pensjonskasse det behovet Pensjonskassen har for nødvendige opplysninger fra blant annet arbeidsgiver, andre offentlige myndigheter, helsepersonell og medlemmet. Dette skyldes at Statens pensjonskasse har overtatt administrasjonen av en rekke ulike ordninger etter at bestemmelsen ble gitt.
+
+På denne bakgrunn foreslår departementet i tråd med høringsnotatet at § 45 endres, slik at Pensjonskassen har rett til å innhente opplysninger som er nødvendige for å forvalte de ordningene Pensjonskassen administrerer. Bestemmelsen vil omfatte rett til å innhente opplysninger for å beregne pensjoner, pensjonspremier og forventet pensjon. Bestemmelsen vil også hjemle innhenting av personopplysninger ved søknader om boliglån, og nødvendige helseopplysninger ved søknad om erstatning ved personskade. Paragrafen er i det alt vesentlige utformet i tråd med folketrygdloven § 21-4 og lov om Statens pensjonskasse § 45 andre ledd.
+
+Forslaget til § 45 første ledd vil hjemle adgang for Statens pensjonskasse til å innhente pasientjournaler, men med de begrensninger som følger av folketrygdloven § 21-4 c, jf. forslaget til § 45 fjerde ledd. Departementet legger til grunn at Statens pensjonskasse vil ha taushetsplikt etter helsepersonelloven § 21 flg. ved behandling av journalopplysninger, jf. pasientjournalloven § 15 og helseregisterloven § 17.
+
+*Statens pensjonskasse* er av den oppfatning at hjemmelen om innhenting av opplysninger som foreslås ikke dekker deres behov for innhenting av pasientjournaler i erstatningssaker og saker om uførepensjon. Departementet vil bemerke at da en utvidelse av adgangen til å innhente pasientjournaler ikke var tema i høringsnotatet, vil dette derfor ikke bli behandlet nærmere her.
+
+*Skattedirektoratet* mener at det i arbeidet med innhentingshjemler er viktig å synliggjøre nødvendighets- og forholdsmessighetsvurderingene som er gjort slik at disse er tilgjengelig ved senere anmodninger om opplysninger basert på hjemlene. Det bør synliggjøres hvilke opplysninger som skal utleveres. En slik vurdering av behandlingen vil bidra til å øke forutsigbarheten ovenfor den registrerte.
+
+Etter forslaget til ny § 45 skal Statens pensjonskasse bare få tilgang til nødvendige opplysninger etter pålegg i den enkelte sak for å forvalte de ordninger som Pensjonskassen administrerer. Departementet legger imidlertid til grunn at denne bestemmelsen ikke gir Statens pensjonskasse adgang til å innhente løpende inntektsopplysninger fra Skatteetaten, kun til å innhente opplysninger etter pålegg i den enkelte sak.
+
+Departementet viser til at personopplysninger kun kan samles inn til spesifikke, uttrykkelig angitte og berettigete formål, jf. artikkel 5 nr. 1 bokstav b. Med et uttrykkelig angitt og konkret formål vil det i større grad være enkelt å angi hvilke personopplysninger som er adekvate, nødvendige og relevante for å oppfylle formålet (prinsippet om dataminimering). Prinsippene her vil ivaretas gjennom de rammene som er nedfelt i lov om Statens pensjonskasse som er grunnlag for behandlingen av personopplysningene. Behovet for opplysninger vil variere med vilkårene som er fastsatt for den enkelte ytelse. For eksempel i saker om alderspensjon, vil nødvendige opplysninger hovedsakelig omfatte opplysninger om alder og inntekt mv. I saker om uførepensjon vil det være behov for en rekke opplysninger knyttet til vilkårsfastsettelsen, for eksempel helseopplysninger, opplysninger om nedsatt inntektsevne og gjennomgått hensiktsmessig behandling og arbeidsrettede tiltak mv.
+
+Departementet finner det ikke hensiktsmessig å regulere i loven hvilke opplysninger som vil kunne være aktuelle i saksbehandlingen. Utformingen vil kunne bli både detaljert og omfangsrik. En eventuell regulering vil derfor egne seg best i forskrifts form, men departementet finner det ikke nødvendig å gjøre dette nå. Dette vil bli vurdert nærmere.
+
+I forbindelse med det årlige etteroppgjøret for uførepensjon foretar Statens pensjonskasse en maskinell kontroll av medlemmets pensjonsgivende inntekt opp mot medlemmets inntektsgrense, jf. lov om Statens pensjonskasse § 29 og § 30 tredje ledd.
+
+For å sikre at opplysninger som utleveres er i samsvar med de opplysninger Statens pensjonskasse har behov for i arbeidet med etteroppgjøret, anbefaler Skattedirektoratet at det klargjøres nærmere hvilke opplysninger som omfattes av begrepet opplysninger om pensjonsgivende inntekt. Departementet vil til dette bemerke at Statens pensjonskasse har behov for opplysninger om *inntektsartene* som inngår i personinntekt etter skatteloven § 12-2, som er grunnlaget for pensjonsgivende inntekt etter folketrygdloven § 3-15. Departementet viser i denne forbindelse til at Skatteetaten og Statens pensjonskasse er i dialog om hvilke opplysninger som inngår i «opplysninger om pensjonsgivende inntekt». Det vises også til dialog mellom Skatteetaten og Finansdepartementet om skatteforvaltningsloven § 3-6 andre ledd.
+
+### Behandling av personopplysninger
+
+I tråd med høringsnotatet foreslår departementet at det i ny § 45 b første ledd tas inn en overordnet hjemmel som angir rammene for behandling av personopplysninger. Etter bestemmelsen skal Statens pensjonskasse kunne behandle personopplysninger, herunder personopplysninger etter personvernforordningen artikkel 9 og 10, når dette er nødvendig for å forvalte de ordningene som Pensjonskassen administrerer.
+
+Bestemmelsen vil gjelde alle de oppgavene Statens pensjonskasse utfører, uavhengig av om det foreligger krav eller søknad, eller om det skal treffes et vedtak. For eksempel vil forberedelse av en sak også være omfattet, selv om det saksforberedende organet ikke skal avgjøre saken. Behandling knyttet til oppfølging av et vedtak og rapportering til overordnet myndighet i forbindelse med sakshåndtering er også ment å være omfattet.
+
+Bestemmelsen hjemler rett til å behandle opplysninger for å beregne pensjoner, beregne pensjonspremier og gi medlemmene opplysninger om hva forventet pensjon blir. Videre hjemles behandling av personopplysninger ved søknader om boliglån og nødvendige helseopplysninger ved søknad om erstatning ved personskade.
+
+Som nevnt i høringsnotatet mottar Pensjonskassen opplysninger på forskjellige måter. Noen opplysninger sendes inn uoppfordret fra medlemmet eller andre, og departementet forutsetter at opplysninger avgitt på denne måten skal omfattes av adgangen til å behandle innhentede opplysninger. Nærmere bestemmelser om hvilke opplysninger som kan behandles og adgangen til viderebehandling og utlevering, kan gis i medhold av forskriftshjemmelen som foreslås i § 45 b siste ledd dersom det skulle vise seg å være nødvendig.
+
+### Særskilt om tilgang til Folkeregisteret
+
+Lov om Statens pensjonskasse § 45 a fastslår at Pensjonskassen, uten hinder av taushetsplikt, skal ha tilgang til opplysninger i Folkeregisteret som er nødvendig for «forvaltning og beregning av ytelser» som Pensjonskassen administrerer. For at tilgangen også skal omfatte boliglån og erstatningsordningene, foreslår departementet i tråd med høringsnotatet at § 45 a om tilgang til opplysninger i Folkeregisteret endres, slik at Pensjonskassen skal ha tilgang til opplysninger i Folkeregisteret som er nødvendige for «å forvalte de ordningene som Pensjonskassen administrerer».
+
+Som Skattedirektoratet peker på i sitt høringssvar, vil lovendringen medføre at Statens pensjonskasse får rett på ytterligere opplysninger fra Folkeregisteret enn tidligere, og at det må vurderes nærmere om dette krever systemtekniske endringer hos Skatteetaten. Departementet viser til at Statens pensjonskasse har opplyst at den foreslåtte utvidede tilgangen til opplysninger fra Folkeregisteret ikke vil medføre systemtekniske endringer verken hos Skatteetaten eller for Statens pensjonskasse når det gjelder manuelle oppslag eller maskinelle spørringer mot Folkeregisteret.
+
+Skattedirektoratet reiser videre spørsmål om det i stedet for meldeplikt for ektefeller mv. om endringer i sivil status til Statens pensjonskasse kan være hensiktsmessig å vurdere gjenbruk av opplysninger fra Folkeregisteret. Departementet har i forlengelsen av dette kontaktet Statens pensjonskasse, som har opplyst at det vil være en tilfredsstillende løsning å innhente opplysninger om sivilstatus mv. direkte fra Folkeregisteret. Departementet viser til dette, og foreslår at § 45 sjette ledd tas ut av lovforslaget.
+
+### Helautomatiserte avgjørelser
+
+Departementet foreslår i tråd med høringsnotatet en uttrykkelig lovbestemmelse i lov om Statens pensjonskasse ny § 45 b andre ledd om at Pensjonskassen skal kunne treffe avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10. Behandlingen må sikre partens krav til forsvarlig saksbehandling, egnede tiltak som ivaretar den registrertes rettigheter og friheter, og for øvrig være forenlig med retten til vern av personopplysninger. Det vises til punkt 5.3 hvor departementets vurdering framkommer.
+
+På sikt vil det være mulig for Statens pensjonskasse å helautomatisere en del av uføresakene hvor Arbeids- og velferdsetatens vurdering av medisinske opplysninger legges til grunn. En opplysning om at et medlem mottar uførepensjon er en helseopplysning og dermed en «særlig kategori» personopplysning etter forordningen. Automatiserte avgjørelser kan ikke bygge på særlige kategorier personopplysninger med mindre behandlingen er nødvendig av hensyn til «viktige allmenne interesser». Det følger av loven at Statens pensjonskasse skal avgjøre og utbetale pensjoner, herunder uførepensjon, til et stort antall borgere. Departementet legger derfor til grunn at forordningens krav er oppfylt i saker som gjelder uførepensjon, forutsatt at det etableres egnede tiltak for å verne den registrertes rettigheter, friheter og berettigede interesser, se punkt 5.3.2.
+
+Departementet følger opp *Justis- og beredskapsdepartementets* høringssvar, og foreslår at bestemmelsene om automatisering suppleres slik at helautomatiserte avgjørelser ikke kan bygge på skjønnsmessige vilkår «i lov eller forskrift». På den måten kommer det klart fram at det siktes til vilkårene i de materielle reglene som gir rettsgrunnlag for avgjørelsen, og ikke «vilkårene» i dataprogrammet som operasjonaliserer de materielle reglene.
+
+For å gjøre det klart at den registrerte har rett til manuell overprøving i den grad det ikke foreligger formell klage-/ankerett, jf. fortalepunkt 71 i forordningen om «menneskelig inngripen», foreslås at dette kommer uttrykkelig frem av loven i tråd med Justis- og beredskapsdepartementets forslag.
+
+Det vises til § 45 andre ledd i lovforslaget.
+
+I § 45 b syvende ledd foreslås det, i tråd med høringsnotatet, at departementet kan gi forskrift om behandlingen, blant annet om automatiserte avgjørelser.
+
+### Viderebehandling av personopplysninger
+
+#### Utvikling og testing av IT-systemer
+
+Statens pensjonskasse utfører oppgaver som angår et stort antall personer, og oppgavene som utføres har stor betydning for de som berøres. Systemene skal håndtere en stor informasjonsmengde og systematisere denne på en hensiktsmessig og sikker måte. Konsekvensene av feil i IT-systemene kan dermed bli betydelige.
+
+Prinsippene om riktighet, integritet og konfidensialitet, jf. forordningen artikkel 5 bokstav d og f, tilsier derfor at Pensjonskassen bør kunne benytte personopplysninger ved utvikling og testing av IT-systemer. Det samme gjør effektivitetshensyn. Personvernhensyn taler for at det bør være klart for de registrerte hvordan personopplysningene deres blir brukt. I personvernforordningen artikkel 5 bokstav a kommer dette til uttrykk ved at personopplysninger skal behandles på en «åpen måte med hensyn til den registrerte» (prinsippet om åpenhet). Lovregulering av adgangen til å bruke personopplysninger bidrar til å skape slik åpenhet.
+
+Personvernforordningen artikkel 9 har egne regler om særlige kategorier av personopplysninger (opplysninger om helseforhold mv.). Det følger av artikkel 9 at det er forbudt å behandle personopplysninger som omfattes av de særlige kategoriene, med mindre det foreligger et unntak etter artikkel 9 nr. 2 bokstav a til h.
+
+De delene av IT-systemene som skal behandle opplysninger som omfattes av personvernforordningen artikkel 9, må utvikles og testes på samme måte som de andre delene av IT-systemene. Etter departementets vurdering er vilkårene i personvernforordningen artikkel 9 nr. 2 bokstav g oppfylt ved at behandlingen er nødvendig for at Pensjonskassen skal kunne utføre sine lovpålagte oppgaver. Videre vil det bli utarbeidet retningslinjer som skal gjelde for Pensjonskassens utviklings- og testvirksomhet. Departementet legger til grunn at retningslinjene vil oppfylle kravet til «egnede og særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser».
+
+Det følger av personvernforordningen artikkel 6 nr. 4 at lovbestemmelser som gir hjemmel for viderebehandling av personopplysninger til uforenlige formål, må utgjøre et «nødvendig og forholdsmessig tiltak i et demokratisk samfunn for å sikre oppnåelse av målene nevnt i artikkel 23 nr. 1». I artikkel 23 nr. 1 nevnes blant annet mål av generell allmenn interesse for en medlemsstat, særlig en medlemsstats viktige økonomiske eller finansielle interesser, herunder trygdespørsmål. Etter departementets vurdering oppfyller de foreslåtte bestemmelsene vilkåret i artikkel 6 nr. 4. Departementet viser til redegjørelsen for behovet for å bruke personopplysninger til utvikling og testing, samt at utviklings- og testvirksomheten som hovedregel skal foregå med anonyme eller fiktive opplysninger.
+
+Departementet vil videre vise til at skatteforvaltningsloven ble tilføyd en ny § 5-11 ved endringslov 20. desember 2018 nr. 110:
+
+«§ 5-11. *Bruk av personopplysninger ved utvikling og testing av IT-systemer*
+
+\(1\) Skattemyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.
+
+\(2\) Departementet kan i forskrift gi nærmere regler om behandling etter første ledd.»
+
+Det vises til Prop. 1 LS (2018–2019) punkt 18.5 om Skatteetatens og Tolletatens bruk av personopplysninger til utvikling og testing av IT-systemer.
+
+Departementet foreslår en ny bestemmelse som fastslår at Statens pensjonskasse kan bruke personopplysninger, herunder særlige kategorier personopplysninger, til utvikling og testing av IT-systemer. Forslaget omfatter både utvikling og testing av IT-systemer. Med utvikling menes tradisjonelt det å lage eller oppgradere et IT-system slik at det er klart for testing. Med testing menes tradisjonelt det å foreta den siste kontrollen av at IT-systemet fungerer slik det skal.
+
+Etter departementets vurdering bør Statens pensjonskasse også kunne benytte personopplysninger til testing og utvikling i en del tilfeller der det er praktisk mulig, men hvor det er uforholdsmessig krevende å bruke fiktive eller anonyme opplysninger. Statens pensjonskasse har ca. 1 million medlemmer, og utfører oppgaver som har stor betydning for de som berøres og som skal ha pensjon. Regelverket er komplisert og omfattende. Konsekvensene av feil i IT-systemene kan dermed bli betydelige. Systemene skal håndtere en betydelig informasjonsmengde og foreta mange ulike beregninger for å sikre riktig premie og riktig pensjon til rett tid. De utveksler dessuten i utstrakt grad opplysninger med andre offentlige og private aktører. Det gjør at kravene til utvikling og testing er større enn de ellers ville vært.
+
+Departementet presiserer at en adgang for Statens pensjonskasse til å bruke personopplysninger når det er «uforholdsmessig vanskelig» å benytte anonyme eller fiktive opplysninger, ikke rokker ved det prinsipielle utgangspunktet om at Pensjonskassen skal bruke anonyme eller fiktive opplysninger i utviklings- og testarbeidet.
+
+*Datatilsynet* anbefaler at forslaget gjennomgås nærmere for å vurdere om den kan gi tilstrekkelig rettslig grunnlag for test- og utviklingsformål, og for å sikre at blant annet nødvendighetsprinsippet i personvernforordningen er tilstrekkelig vurdert. Datatilsynet påpeker at forslaget til hjemmel fremstår som overordnet og meget generell, og stiller spørsmål ved om den oppfyller personvernforordningens premisser for lovhjemler som rettslig grunnlag. Videre peker tilsynet på at det kun skilles mellom anonyme/fiktive og personopplysninger, og anbefaler at det også bør gjøres begrensninger med andre former for identitetshåndtering (pseudonyme data, indirekte identifiserbare data) og at datasettet også bør begrenses i for eksempel omfang av datakilder eller inkluderte.
+
+Departementet viser til at Statens pensjonskasse i dag i all hovedsak benytter pseudonyme data i test- og utvikling av sine IT-systemer. Dagens praksis rundt benyttelse av data i test av it-systemer kan oppsummeres i tre hovedkategorier. Dette er pseudonyme, syntetiske, og skarpe data fra produksjon. Statens pensjonskasse deltar i et bredt, tverretatlig samarbeid for å etablere data som kan benyttes på tvers av etatene, og som skal bidra til at offentlig sektor prioriterer arbeidet med å lage datasett med anonyme og fiktive opplysninger. De foreslåtte bestemmelsene skal bare dekke det resterende behovet for å bruke personopplysninger.
+
+I enkelte tilfeller vil det ikke være mulig, eller det vil være svært ressurskrevende, for Statens pensjonskasse å bruke pseudonyme eller syntetiske opplysninger for å gjennomføre utvikling og testing av Pensjonskassens IT-systemer. Det er i slike tilfeller tilgangsstyring, slik at kun personer med tjenestelig behov skal ha tilgang til utviklings- og testmiljøet.
+
+Departementet viser videre til at utviklings- og testvirksomheten ikke skal ha større omfang enn det som er nødvendig for å oppnå formålet. Personopplysningene skal ikke lagres lenger enn det som er nødvendig for å gjennomføre arbeidet.
+
+Departementet forutsetter at det utarbeides retningslinjer for behandling av henholdsvis personopplysninger og fiktive opplysninger ved utvikling og testen av IT-systemer, som ivaretar kravene i personvernforordningen. Når det gjelder personopplysninger legger departementet til grunn at det utarbeides særlig strenge og detaljerte retningslinjer.
+
+Departementet har merket seg Datatilsynets synspunkt om at forslaget til hjemmel fremstår som overordnet og meget generell. Tilsynet reiser spørsmål om forslaget oppfyller personvernforordningens premisser for lovhjemler som rettslig grunnlag.
+
+På denne bakgrunn foreslår departementet at det presiseres i loven at personopplysninger kun skal kunne benyttes til utvikling og testing av IT-systemer når dette er nødvendig for å sikre effektiv behandling av saker og riktige avgjørelser. Departementet anser etter dette at den registrertes personvernrettigheter etter forordningen er tilstrekkelig ivaretatt gjennom lovforslaget og tiltakene som er angitt ovenfor. Som nevnt i punkt 8.4.6.4 vil det kunne gis nærmere regler om bruk av peronsopplysninger til utvikling og testing av IT-systemer, dersom det skulle være behov for dette.
+
+Det vises til lovforslaget § 45 b sjette ledd.
+
+#### Statistikk og analyser mv.
+
+Som nevnt i punkt 8.2.8.2 utarbeider Statens pensjonskasse mange ulike typer analyser og rapporter. Dette omfatter blant annet historiske analyser, analyser og prognoser om framtiden, statistikker, budsjettinnspill til statsbudsjettet, økonomiske rapporter, fakturaer med underlagsmateriale samt sikkerhets- og kontrollrapporter. Datavarehus, dvs. en type databasesystem som søker å organisere data på en tematisk rettet måte, bruker ikke-anonymiserte personopplysninger til analyse- og rapporteringsformål.
+
+På bakgrunn av ovenstående foreslår departementet at høringsnotatet følges opp på dette punkt slik at Statens pensjonskasse gis en klar hjemmel i lov for viderebehandling av personopplysninger til statistikk og analyser. Behandling av personopplysninger kan bare skje dersom det er umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.
+
+Det vises til § 45 b femte ledd i lovforslaget.
+
+#### Beregning av forventet pensjon
+
+Medlemmer i Statens pensjonskasse ønsker ofte å få en prognose på forventet pensjon.
+
+For å kunne beregne forventet pensjon til medlemmet er det i tillegg til opplysninger om medlemskapet i Statens pensjonskasse behov for å innhente opplysninger fra folketrygden og andre offentlige tjenestepensjonsordninger. Slike opplysninger kan med hjemmel i lov i dag først innhentes ved faktisk pensjonering. Medlemmet må i dag gi samtykke for at Pensjonskassen skal kunne beregne forventet pensjon.
+
+Dersom formålet med innhentingen er å beregne forventet pensjon, vil dette hjemles i lovforslaget § 45 b første ledd. Dersom opplysninger som Statens pensjonskasse allerede har innhentet til andre formål skal benyttes til å beregne forventet pensjon, kreves det et nytt behandlingsgrunnlag dersom det nye formålet ikke er forenlig med det opprinnelige. Departementet legger til grunn at nevnte formål ikke vil være uforenelig med det opprinnelige, men forslår likevel en klar lovbestemmelse om at Statens pensjonskasse skal kunne behandle innhentede personopplysninger til å beregne forventet pensjon og premie.
+
+Når det gjelder ønsket fra *Norsk Pensjon* om å kunne motta fullstendig pensjonsinformasjon fra Statens pensjonskasse blant annet for å kunne beregnet fremtidig pensjon, skal departementet bemerke at spørsmålet om utlevering av personopplysninger fra Statens pensjonskasse ikke var tema i høringsnotatet som behandles i proposisjonen her. Departementet kommer derfor ikke nærmere inn på dette, og vil følge opp dette spørsmålet i samråd med Finansdepartementet.
+
+Det vises til lovforslaget § 45 b tredje ledd.
+
+#### Forskriftshjemmel om viderebehandling
+
+I høringsnotatet ble det foreslått at departementet kan gi nærmere regler i forskrift om behandlingen, blant annet adgangen til viderebehandling og utlevering. Departementet følger opp forslaget om slik forskriftshjemmel. Det vil blant annet kunne gis nærmere regler om bruk av personopplysninger til utvikling og testing av IT-systemer, dersom det skulle være behov for dette.
+
+Et særlig aktuelt tilfelle av viderebehandling gjelder bruk av opplysninger Statens pensjonskasse har fra tidligere saksbehandling. I praksis vil det ikke være uvanlig at en person over tid har flere saker til behandling. I slike tilfeller vil Pensjonskassen ha et reelt behov for å behandle personopplysninger som er innhentet tidligere. Flere hensyn taler for at Pensjonskassen ser hen til opplysninger fra tidligere saksbehandling eller opplysninger innhentet fra en annen person i annen sak. Særlig ressurshensyn og hensynet til å opplyse saken best mulig er viktige hensyn, men også kontrollhensyn gjør seg sterkt gjeldende. Hvorvidt behandling av opplysninger som Statens pensjonskasse har fra tidligere saksbehandling vil være forenelig eller ikke med det opprinnelige formålet de ble samlet inn for, vil avhenge av en konkret vurdering i det enkelte tilfellet. Det vil derfor kunne være hensiktsmessig å regulere dette nærmere i en forskrift.
+
+Det vises til lovforslaget § 45 b siste ledd.

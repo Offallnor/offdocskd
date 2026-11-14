@@ -1,1025 +1,476 @@
-# Prop. 61 LS (2019–2020), del 6 av 9 (side 61–71)
+# Prop. 61 LS (2019–2020), del 6 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/391c5311-prop-61-ls-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-61-ls-20192020/id2696084/
 - Original-PDF: https://www.regjeringen.no/contentassets/915047f040474498831a618eec52239f/no/pdfs/prp201920200061000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 110 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 61]
+# Merknader til de enkelte bestemmelsene
 
-2019–2020
+Til arbeidsmiljøloven § 5-5 sjuende ledd
 
-Prop. 61 LS
+Endringen klargjør at forskriftshjemmelen også gir grunnlag for å gi regler om informasjonsplikt.
 
-59
+Til arbeidsmiljøloven § 18-6 første ledd første punktum
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+Endringen innebærer at påleggskompetansen til Arbeidstilsynet også skal omfatte bestemmelsene om adgang til innleie i § 14-12 første og andre ledd, § 14-12 a første ledd om likebehandling ved utleie og § 14-12 b første ledd om innleiers opplysningsplikt. Se omtale i punkt 2.6.3.3 om Arbeidstilsynets pålegg og reaksjoner i slike saker. Endringen vil åpne for bruk av Arbeidstilsynets alminnelige reaksjonsmidler.
 
-10) «representativ motor» en motortype som er
-utvalgt fra en motorfamilie på en slik måte at
-utslippsegenskapene er representative for
-motorfamilien,
-11) «reservemotor» en motor som
-a) utelukkende brukes til å erstatte en motor
-som allerede er brakt i omsetning og montert i en ikke-veigående mobil maskin, og
-b) er i samsvar med et utslippstrinn som er
-lavere enn trinnet som gjelder på datoen da
-motoren skiftes ut,
-12) «motor i bruk» en motor som er i bruk i ikkeveigående mobile maskiner med normale
-kjøremønstre, driftsforhold og nyttelaster, og
-som benyttes til å utføre prøvingene for overvåking av utslipp som er nevnt i artikkel 19,
-13) «motor med kompresjonstenning» en motor
-som fungerer etter kompresjonstenningsprinsippet,
-14) «motor med elektrisk tenning» en motor som
-fungerer etter gnisttenningsprinsippet,
-15) «motor med elektrisk tenning til håndholdt
-maskin» en motor med elektrisk tenning som
-har en referanseeffekt på mindre enn 19 kW,
-og som brukes i utstyr som oppfyller minst ett
-av følgende vilkår:
-a) Operatøren bærer det hele tiden når det
-benyttes til å utføre oppgaven(e) det er
-beregnet på.
-b) Det brukes i flere posisjoner, for eksempel
-opp ned eller sidelengs, for å utføre oppgaven(e) det er beregnet på.
-c) Tørrvekten, medregnet motoren, er mindre enn 20 kg, og det oppfyller minst ett av
-følgende vilkår:
-i) Operatøren støtter utstyret fysisk eller
-bærer det hele tiden når det benyttes til
-å utføre oppgaven(e) det er beregnet på.
-ii) Operatøren støtter utstyret fysisk eller
-styrer det hele tiden når det benyttes til
-å utføre oppgaven(e) det er beregnet på.
-iii) Det brukes i en generator eller en
-pumpe,
-16) «flytende drivstoff» et drivstoff som finnes i flytende form ved standardomgivelser (298 K,
-absolutt omgivelsestrykk 101,3 kPa),
-17) «gassformig drivstoff» et drivstoff som er helt
-gassformig ved standardomgivelser (298 K,
-absolutt omgivelsestrykk 101,3 kPa),
-18) «dobbeltdrivstoffmotor» en motor som er
-utformet for samtidig drift med et flytende
-drivstoff og et gassformig drivstoff, der begge
-drivstoffene måles separat, og der den forbrukte mengden av et av drivstoffene i forhold
-til det andre kan variere avhengig av driften,
+Endringen innebærer også at opplysningsplikten i § 18-5 første ledd og vedtak om stans etter § 18-8 omfattes av Arbeidstilsynets påleggskompetanse. Arbeidstilsynet vil da kunne benytte seg av de alminnelige reaksjonsmidlene etter arbeidsmiljøloven for å gjennomføre bestemmelsene.
 
-19) «enkeltdrivstoffmotor» en motor som ikke er
-en dobbeltdrivstoffmotor,
-20) «gassenergifaktor» (GER), for en dobbeltdrivstoffmotor, forholdet mellom energiinnholdet i
-det gassformige drivstoffet og energiinnholdet
-i begge drivstoffene. Når det gjelder en enkeltdrivstoffmotor, defineres GER som enten 1
-eller 0 avhengig av drivstofftypen,
-21) «motor med konstant turtall» en motor der
-EU-typegodkjenningen er begrenset til drift
-med konstant turtall, unntatt der motorens turtallsregulator for konstant turtall er fjernet
-eller deaktivert. Den kan ha et tomgangsturtall som kan brukes når motoren startes eller
-stanses, og den kan være utstyrt med en turtallsregulator som kan innstilles på et alternativt turtall når motoren er stanset,
-22) «motor med variabelt turtall» en motor som
-ikke er en motor med konstant turtall,
-23) «drift med konstant turtall» drift av en motor
-med en turtallsregulator som automatisk kontrollerer brukerens behov for å opprettholde
-motorturtallet, selv når belastningen varierer,
-24) «hjelpemotor» en motor som er montert eller
-skal monteres i en ikke-veigående mobil
-maskin som verken direkte eller indirekte gir
-framdrift,
-25) «nettoeffekt» motoreffekten i kW som oppnås
-i en prøvingsbenk ved enden av veivakselen
-eller tilsvarende del, målt i samsvar med metoden for måling av effekten til forbrenningsmotorer som er definert i UN-ECE-reglement
-nr. 120, ved hjelp av et referansedrivstoff eller
-en drivstoffkombinasjon som angitt i artikkel
-25 nr. 2,
-26) «referanseeffekt» den nettoeffekten som
-brukes til å bestemme motorens gjeldende
-utslippsgrenseverdier,
-27) «nominell nettoeffekt» motorens nettoeffekt i
-kW som angitt av produsenten ved nominelt
-turtall,
-28) «største nettoeffekt» den høyeste verdien av
-nettoeffekten på den nominelle effektkurven
-for full belastning for motortypen,
-29) «nominelt turtall» det største turtallet ved full
-belastning som en motors turtallsregulator tillater, slik den er konstruert av produsenten,
-eller dersom det ikke finnes en turtallsregulator, turtallet der motoren når den høyeste nettoeffekten, slik den er angitt av produsenten,
-30) «motorens produksjonsdato» datoen, uttrykt
-som måneden og året, da motoren gjennomgår den siste kontrollen etter at den har forlatt
-produksjonslinjen og er klar til å leveres eller
-settes på lager,
+Til statsansatteloven § 11 sjuende ledd
 
-[Side 62]
+Nytt sjuende ledd innebærer at Arbeidstilsynet får myndighet til å føre tilsyn med at statlige virksomheter overholder vilkårene for innleie etter statsansatteloven § 11 første og annet ledd.
 
-60
+Arbeidstilsynet fører allerede tilsyn med reglene om helse, miljø og sikkerhet (HMS), arbeidstid mv. i staten. Den nye bestemmelsen innebærer at Arbeidstilsynets myndighet utvides til å omfatte bestemmelsen om innleie. Arbeidstilsynet vil kunne ta i bruk sine ordinære virkemidler etter arbeidsmiljøloven kapittel 18, det vil si pålegg, tvangsmulkt og stansing, og kan kreve å få utlevert de opplysninger som anses nødvendige for utøvelsen av tilsynet. Arbeidstilsynet har videre hjemmel til å ilegge virksomheter overtredelsesgebyr for brudd på reglene i § 11 første og annet ledd, dersom vilkårene for dette etter arbeidsmiljøloven § 18-10 er til stede.
 
-Prop. 61 LS
+Til allmenngjøringsloven § 11 andre ledd andre punktum
 
-2019–2020
+Endringen innebærer at Arbeidstilsynet får myndighet til å anvende reaksjonsmidlene etter arbeidsmiljøloven §§ 18-7, 18-8 og 18-10 også overfor brudd på opplysningsplikten etter § 11 tredje ledd.
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+Arbeids- og sosialdepartementet
 
-31) «overgangsperiode» de første 24 måneder
-etter datoene angitt i vedlegg III for å bringe
-trinn V-motorer i omsetning,
-32) «overgangsmotor» en motor med produksjonsdato før datoene angitt i vedlegg III for å
-bringe trinn V-motorer i omsetning, og som
-a) overholder de seneste gjeldende utslippsgrensene som er fastsatt i det relevante
-regelverket som gjaldt 5. oktober 2016,
-eller
-b) hører inn under et effektområde, eller som
-brukes eller er beregnet på å brukes i en
-innretning som ikke var omfattet av
-utslippsgrenser for forurensende stoffer og
-typegodkjenning på unionsplan 5. oktober
-2016,
-33) «produksjonsdato for ikke-veigående mobil
-maskin» måneden og året som er angitt på
-maskinens lovfestede merking, eller dersom
-det mangler lovfestet merking, måneden og
-året da den gjennomgår den siste kontrollen
-etter at den har forlatt produksjonslinjen,
-34) «fartøy for fart på innlands vannveier» et fartøy som er omfattet av virkeområdet for direktiv (EU) 2016/1629,
-35) «aggregat» en uavhengig ikke-veigående
-mobil maskin som ikke er en del av et framdriftssystem og først og fremst er beregnet på
-å produsere elektrisk kraft,
-36) «stasjonær maskin» en maskin som er beregnet på å være montert permanent på ett sted
-når den tas i bruk og ikke er beregnet på å bli
-flyttet, på vei eller på annen måte, unntatt
-under transport fra produksjonsstedet til det
-første installasjonsstedet,
-37) «montert permanent» festet med bolter, eller
-fastmontert effektivt på annen måte, slik at
-den ikke kan fjernes uten bruk av verktøy eller
-utstyr, i et fundament eller et alternativt festepunkt med det formål å sørge for at motoren
-brukes på ett enkelt sted i en bygning, en konstruksjon, et anlegg eller en installasjon,
-38) «snøscooter» en motordrevet maskin som er
-beregnet på terrengkjøring, hovedsakelig på
-snø, som drives av belter som er i kontakt med
-snøen, og styres ved hjelp av ski som er i kontakt med snøen, og som har en største egenvekt i driftsferdig stand på 454 kg (herunder
-standardutstyr, kjølevæske, smøremidler, drivstoff og verktøy, men uten tilleggsutstyr og
-føreren),
-39) «terrenggående kjøretøy» eller «ATV» et
-motorisert kjøretøy som drives fram av en
-motor og hovedsakelig er beregnet på kjøring
-på flater uten dekke på fire eller flere hjul med
+tilrår:
 
-lavt dekktrykk, og som er konstruert med et
-sadelsete bare til føreren eller konstruert med
-et sadelsete til føreren og et sete til høyst én
-passasjer, samt et styre til styring,
-40) «side-ved-side-kjøretøy» eller «UTV» et motordrevet, førerbetjent kjøretøy uten ledd som
-hovedsakelig er beregnet på kjøring på flater
-uten dekke på fire eller flere hjul, med en minste egenvekt i driftsferdig stand på 300 kg
-(herunder standardutstyr, kjølevæske, smøremidler, drivstoff og verktøy, men uten tilleggsutstyr og føreren) og med en høyeste konstruksjonshastighet på 25 km/t eller mer; et
-slikt kjøretøy er også konstruert for transport
-av passasjerer og/eller gods og/eller for å
-trekke og skyve utstyr, det styres med en
-annen styreinnretning enn et styre, er konstruert for fritids- eller nyttebruk og har plass til
-høyst seks personer, herunder føreren, som
-sitter ved siden av hverandre på ett eller flere
-seter som ikke er sadelseter,
-41) «jernbanekjøretøy» en ikke-veigående mobil
-maskin som utelukkende brukes på jernbanespor,
-42) «lokomotiv» et jernbanekjøretøy som er konstruert for enten direkte gjennom egne hjul
-eller indirekte gjennom hjulene på andre jernbanekjøretøyer å gi framdriftskraft til egen
-framdrift og framdrift av andre jernbanekjøretøyer som er konstruert for transport av gods,
-passasjerer og annet utstyr, men som selv ikke
-er konstruert for eller beregnet på å transportere gods eller passasjerer, unntatt de personene som fører det,
-43) «skinnegående motorvogn» et jernbanekjøretøy som er konstruert for enten direkte gjennom egne hjul eller indirekte gjennom hjulene
-på andre jernbanekjøretøyer å gi framdriftskraft til egen framdrift, og som er særlig konstruert for transport av gods eller passasjerer,
-eller både gods og passasjerer, og ikke er et
-lokomotiv,
-44) «vedlikeholdskjøretøy til jernbanedrift» et
-jernbanekjøretøy som ikke er en skinnegående motorvogn eller et lokomotiv, og som
-omfatter, men ikke er begrenset til et jernbanekjøretøy som er særlig konstruert for å
-utføre vedlikehold eller byggearbeid eller
-løfteoperasjoner i forbindelse med sporet eller
-annen jernbaneinfrastruktur,
-45) «mobil kran» en selvdrevet utliggerkran som
-kan kjøre på vei eller i terrenget, eller begge
-deler, og som holdes stabil gjennom tyngdekraften og beveger seg ved hjelp av dekk, belter eller andre mobile innretninger,
+At Deres Majestet godkjenner og skriver under et framlagt forslag til proposisjon til Stortinget om endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen av forordning (EU) 2016/1628.
 
-[Side 63]
+**Vi HARALD,** Norges Konge,
 
-2019–2020
+stadfester:
 
-Prop. 61 LS
+Stortinget blir bedt om å gjøre vedtak til lov om endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets krav om opplysninger mv.) og vedtak om samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen av forordning (EU) 2016/1628 i samsvar med et vedlagt forslag.
 
-61
+A
+Forslag
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+til lov om endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets krav
+om opplysninger mv.)
 
-46) «snøfreser» en selvdrevet maskin som utelukkende er konstruert for snørydding fra flater
-med fast dekke ved å samle opp en mengde
-snø og slynge den med stor kraft ut av et rør,
-47) «gjøre tilgjengelig på markedet» enhver levering av en motor eller en ikke-veigående mobil
-maskin for distribusjon eller bruk på unionsmarkedet i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,
-48) «bringe i omsetning» første gang en motor
-eller en ikke-veigående mobil maskin gjøres
-tilgjengelig på unionsmarkedet,
-49) «produsent» enhver fysisk eller juridisk person som er ansvarlig overfor godkjenningsmyndigheten for alle aspekter ved motorens
-EU-typegodkjenning eller tillatelser og for å
-sikre produksjonssamsvar for motoren, og
-som også er ansvarlig for markedstilsyn når
-det gjelder de produserte motorene, uavhengig av om de er direkte involvert i alle etapper
-av utformingen og konstruksjonen av motoren
-som er omfattet av EU-typegodkjenningsprosessen,
-50) «produsentens representant» eller «representanten» enhver fysisk eller juridisk person etablert i Unionen som produsenten har behørig
-utpekt ved skriftlig fullmakt til å representere
-denne på områder som gjelder godkjenningsmyndigheten eller markedstilsynsmyndigheten, og til å opptre på dennes vegne på de
-områdene som omfattes av denne forordning,
-51) «importør» enhver fysisk eller juridisk person
-etablert i Unionen som bringer en motor fra en
-tredjestat i omsetning, uavhengig av om motoren allerede er montert i en ikke-veigående
-mobil maskin,
-52) «distributør» enhver fysisk eller juridisk person i forsyningskjeden, utenom produsenten
-eller importøren, som gjør en motor tilgjengelig på markedet,
-53) «markedsdeltaker» produsenten, produsentens representant, importøren eller distributøren,
-54) «produsent av originalt utstyr» eller «OEMprodusent» enhver fysisk eller juridisk person
-som produserer ikke-veigående mobile maskiner,
-55) «godkjenningsmyndighet» den myndigheten i
-en medlemsstat som medlemsstaten har opprettet eller utpekt og meldt til Kommisjonen,
-og som er vedkommende myndighet med hensyn til
-a) alle sider ved EU-typegodkjenning av en
-motortype eller en motorfamilie,
-b) godkjenningsprosessen,
+I
 
-c) å utstede og eventuelt tilbakekalle eller
-nekte EU-typegodkjenning og utstede EUtypegodkjenningsdokumenter,
-d) å fungere som kontaktpunkt for godkjenningsmyndighetene i andre medlemsstater,
-e) å utpeke de tekniske instansene og
-f) å sikre at produsenten oppfyller forpliktelsene sine med hensyn til produksjonssamsvar,
-56) «teknisk instans» en organisasjon eller et
-organ som en medlemsstats godkjenningsmyndighet har utpekt som prøvingslaboratorium for å utføre prøvinger, eller som samsvarsvurderingsorgan for å utføre førstegangsvurdering og andre prøvinger eller inspeksjoner på vegne av godkjenningsmyndigheten,
-eller myndigheten selv når den utfører disse
-funksjonene,
-57) «markedstilsyn» virksomhet som utøves og tiltak som treffes av nasjonale myndigheter for å
-sikre at motorer som gjøres tilgjengelige på
-markedet, overholder de relevante delene av
-Unionens harmoniseringsregelverk,
-58)«markedstilsynsmyndighet» en myndighet i
-en medlemsstat som har ansvar for å utføre
-markedstilsyn på medlemsstatens territorium,
-59) «nasjonal myndighet» en godkjenningsmyndighet eller enhver annen myndighet som deltar i og har ansvar for markedstilsyn, grensekontroll eller omsetning i en medlemsstat med
-hensyn til motorer som skal monteres i ikkeveigående mobile maskiner eller ikke-veigående mobile maskiner der det er montert
-motorer,
-60) «sluttbruker» enhver fysisk eller juridisk person, utenom produsenten, OEM-produsenten,
-importøren eller distributøren, som har ansvar
-for drift av motoren som er montert i en ikkeveigående mobil maskin,
-61) «utslippskontrollstrategi» et element eller en
-gruppe konstruksjonselementer som er innarbeidet i den generelle konstruksjonen av en
-motor eller en ikke-veigående mobil maskin
-der en motor er montert, og som brukes til å
-begrense utslippene,
-62) «utslippskontrollsystem» alle innretninger,
-systemer eller konstruksjonselementer som
-begrenser eller reduserer utslipp,
-63) «alternativ kontrollstrategi» en utslippskontrollstrategi som reduserer utslippskontrollsystemets effektivitet under omgivelses- eller
-driftsforhold for motoren som forekommer
-ved normal drift av maskinen eller utenom
-prøvingsmetodene for EU-typegodkjenning,
+I lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler m.v. skal § 11 andre ledd andre punktum lyde:
 
-[Side 64]
+Arbeidsmiljøloven § 18-6 første, andre, sjette, syvende og åttende ledd samt §§ 18-7, 18-8 og 18-10 får tilsvarende anvendelse ved tilsyn etter loven her, og *ved gjennomføring av plikten til å gi opplysninger i tredje ledd første punktum*.
 
-62
+II
 
-Prop. 61 LS
+I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. gjøres følgende endringer:
 
-2019–2020
+§ 5-5 sjuende ledd bokstav b skal lyde:
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+b\) godkjenning *og plikt til å gi opplysninger i forbindelse med dette,*
 
-64) «elektronisk styreenhet» en motors elektroniske innretning som er en del av utslippskontrollsystemet og bruker data fra motorens
-følere til å styre motorens parametrer,
-65) «resirkulering av eksos» eller «EGR» en teknisk innretning som er en del av utslippskontrollsystemet og reduserer utslipp ved å tilbakeføre eksosen som avgis fra et eller flere forbrenningskamre, til motoren der den blandes
-med tilførselsluft før eller under forbrenning,
-unntatt dersom det brukes ventilinnstilling for å
-øke mengden gjenværende eksos i forbrenningskammeret eller -kamrene som blandes
-med tilførselsluft før eller under forbrenning,
-66) «system for etterbehandling eksos» en katalysator, et partikkelfilter, et deNOx-system, et
-kombinert deNOx-partikkelfilter eller enhver
-annen utslippsreduserende innretning, unntatt
-resirkulering av eksos og turboladere, som er
-en del av utslippskontrollsystemet, men som
-er montert etter motorens eksoskanaler,
-67) «ulovlig inngrep» deaktivering, justering eller
-modifisering av utslippskontrollsystemet, herunder all programvare eller andre elementer
-for logisk styring av et slikt system, hvis virkning, tilsiktet eller ikke, er at motorens
-utslippsytelse blir dårligere,
-68) «prøvingssyklus» en sekvens av prøvingspunkter som hvert er definert med et bestemt turtall og dreiemoment som motoren skal overholde ved prøving i stasjonær eller variabel
-driftstilstand,
-69) «stasjonær prøvingssyklus» en prøvingssyklus der motorturtall og dreiemoment holdes
-på et avgrenset sett av nominelt konstante
-verdier. Stasjonære prøvinger utføres enten i
-prøvingssykluser med enkeltfaser eller med
-ramper,
-70) «variabel prøvingssyklus» en prøvingssyklus
-med en sekvens av normaliserte turtalls- og
-dreiemomentverdier som varierer fra sekund
-til sekund,
-71) «veivhus» rom i eller utenfor en motor som er
-forbundet med bunnpannen ved interne eller
-eksterne rør som gasser og damper kan slippe
-ut gjennom,
-72) «regenerering» en hendelse der utslippsnivåene endres når ytelsen for systemet for
-etterbehandling av eksos gjenopprettes ved
-konstruksjon, og som kan klassifiseres som
-kontinuerlig regenerering eller uregelmessig
-(periodisk) regenerering,
-73) «utslippsperiode» eller «EDP» antall timer
-eller, dersom det er relevant, avstanden som
-brukes til å bestemme forringelsesfaktorene,
+§ 18-6 første ledd skal lyde:
 
-74) «forringelsesfaktorer» den serien faktorer som
-angir forholdet mellom utslipp ved begynnelsen og slutten av utslippsperioden,
-75) «virtuell prøving» datasimuleringer, herunder
-beregninger, som foretas for å dokumentere
-en motors ytelsesnivå som en hjelp i beslutningsprosessen uten at det er nødvendig å
-bruke en fysisk motor.
+Arbeidstilsynet gir de pålegg og treffer de enkeltvedtak ellers som er nødvendig for gjennomføringen av bestemmelsene i og i medhold av § 1-7, kapittel 2, § 2 A-6, kapittel 3 til kapittel 11, samt §§ 14-1 a, 14-5 til 14-8, § 14-9 andre ledd bokstav f andre punktum og andre ledd siste punktum, *§ 14-12 første til tredje ledd*, *§ 14-12 a første ledd, § 14-12 b første ledd,* § 14-15 femte ledd og §§ 15-2, 15-15, *18-5 og 18-8.* Dette gjelder likevel ikke § 10-2 andre til fjerde ledd og *§* 10-6 tiende ledd.
+
+III
+
+I lov 16. juni 2017 nr. 67 om statens ansatte mv. skal § 11 nytt sjuende ledd lyde:
+
+Arbeidstilsynet fører tilsyn med at bestemmelsene i første og annet ledd blir overholdt. Arbeidstilsynet gir de pålegg og treffer de enkeltvedtak ellers som er nødvendige for gjennomføringen av bestemmelsene. Arbeidsmiljøloven § 18-5, § 18-6 annet, sjette, syvende og åttende ledd og §§ 18-7, 18-8 og 18-10 får tilsvarende anvendelse.
+
+IV
+
+Loven trer i kraft fra den tiden Kongen bestemmer.
+
+B
+Forslag
+
+til vedtak om samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen av forordning (EU) 2016/1628
+
+Stortinget samtykker til godkjenning av EØS-komiteens beslutning nr. 39/2020 av 20. mars 2020 om innlemmelse i EØS-avtalen av forordning (EU) 2016/1628.
+
+1.
+
+Kildehenvisninger
+
+Alsos, K., M. Bråten & S.C. Trygstad (2016). *Sjatteringer av likhet. Evaluering av reglene om likebehandling av utleid arbeidskraft.* Fafo-rapport 2016:15.
+
+Arbeidstilsynet, NAV, Skatteetaten og politiet (2019). *Felles årsrapport for styrket innsats mot arbeidslivskriminalitet 2018.*
+
+Arbeidstilsynet, NAV, Skatteetaten og politiet (2020). *Felles årsrapport for etatenes innsats mot arbeidslivskriminalitet 2019.*
+
+Arbeidstilsynet (2018). *Risiko for arbeidsskadedødsfall i det landbaserte arbeidslivet. En sammenligning av norske og utenlandske arbeidstakere.* Kompass Tema nr. 1-2018.
+
+Bemanningsbransjen i NHO Service og Handel (2020). *Bemanningsbarometeret 4. kvartal 2019. Bemanningsbransjens utvikling.* Utarbeidet i samarbeid med Prognosesenteret.
+
+Bemanningsbransjen i NHO Service og Handel (2016). *Ansatt i bemanningsbransjen. Medarbeiderundersøkelsen 2015/16.* Gjennomført av Ipsos på oppdrag fra Bemanningsbransjen i NHO Service og Handel.
+
+Bergene, A.C., K. Nergaard & J. Svalund (2019*). Brudd på reglene om adgangen til midlertidig ansettelse og innleie. Delrapport.* Fafo-rapport 2018:47.
+
+Bråten, M., E. Albrechtsen, R. K. Andersen, T. Tovslid & R. Værnes (2014). *Innleide arbeidstakere i verfts- og petroleumsindustrien. Styring av arbeidsmiljø og personskaderisiko.* Fafo-rapport 2014:54.
+
+ECON Pöyry (2009). *Bemanningsbransjen. Struktur, utvikling og rolle.* Rapport 2009-083.
+
+Ellingsen, D., A. Grimsmo, M. H. Ingelsrud, A. Underthun & C. T. Wathne (2016). *Jakten på den bærekraftige fleksibiliten. Typologier av ansatte i bemanningsbransjen.* Arbeidsforskningsinstituttet FoU-resultat 08:2016.
+
+Engelstad, E. (2019) *Slutt med mobilen i handa? – Egenbemanning, underentreprise og innleie i byggenæringa i Oslo og Akershus høsten 2019.* Rapport utgitt av Elektromontørenes Forening Oslo og Akershus, Heismontørenes Fagforening (El og IT Forbundet), Rørleggernes Fagforening avdeling 605, Tømrer og Byggfagforeningen avdeling 601 og Oslo Bygningsarbeiderforening avdeling 603 (Fellesforbundet).
+
+Finci, A. (2019) *Norsk industri 2018 og andre norske sekundærnæringer. Pilene peker oppover.* Statistisk sentralbyrå. Oslo-Kongsvinger, 2019.
+
+Fri Fagbevegelse (2019) *Innleie: Åtte av ti byggeplasser i Bergen bryter loven.* Nettavisen Fri Fagbevegelse 08.10.2019. LO Media. Oslo, 2019.
+
+Kilskar, S., Skaufel, K. Wasilkiewicz, B. Nygaard & A. Øren (2017). *Flerkulturelle arbeidsplasser i byggenæringen. Kartlegging av muligheter og utfordringer.* SINTEF i samarbeid med IdeThandling, 2017.
+
+Meld. St. 29 (2010–2011). *Felles ansvar for eit godt og anstendig arbeidsliv. Arbeidsforhold, arbeidsmiljø og sikkerheit.*
+
+Nasjonalt tverretatlig analyse og etterretningssenter (2017). *Situasjonsbeskrivelse 2017. Arbeidslivskriminalitet i Norge.*
+
+Nasjonalt tverretatlig analyse og etterretningssenter (2020). *Situasjonsbeskrivelse 2020. Arbeidslivskriminalitet.*
+
+Nergaard, K., T. Nesheim, K. Alsos, Ø. M. Berge, S. C. Trygstad & A.M. Ødegård (2011). *Utleie av arbeidskraft 2011.* Fafo-rapport 2011:33.
+
+Nergaard, K. (2018). *Tilknytningsformer i norsk arbeidsliv. Sluttrapport.* Fafo-rapport 2018:38.
+
+Nergaard, K. (2019). *Innleie i byggebransjen i Trondheim. Resultater fra en kartlegging høsten 2018.* Fafo-rapport 2019:20.
+
+Nesheim, T. (2017). *Tilknytningsformer for arbeid. Virksomhetsstudien.* SNF – Samfunns- og næringslivsforskning. Arbeidsnotat 07-2017.
+
+Prop. 74 L (2011–2012). *Endringer i arbeidsmiljøloven og tjenestemannsloven mv. (likebehandling ved utleie av arbeidstakere og tiltak i den forbindelse mv.).*
+
+Prop. 73 L (2017–2018). *Endringer i arbeidsmiljøloven (fast og midlertidig ansettelse og innleie fra bemanningsforetak).*
+
+Svalund, J., B. Sletvold Øistad & K. Alsos (2019) *Arbeidstakeres håndheving av regler for midlertidige ansettelser og innleie.* Fafo-rapport 2019:38.
+
+2.
+
+EØS-komiteens beslutning nr. 39/2020 av 20. mars 2020 om endring av EØS-avtalens vedlegg II (Tekniske forskrifter, standarder, prøving og sertifisering) og vedlegg X (Generelle tjenester)
+
+EØS-KOMITEEN HAR –
+
+under henvisning til avtalen om Det europeiske økonomiske samarbeidsområde, heretter kalt EØS-avtalen, særlig artikkel 98,
+
+og ut fra følgende betraktninger:
+
+\(1\) Europaparlaments- og rådsforordning (EU) 2016/1628 av 14. september 2016 om krav til utslippsgrenser for forurensende gasser og partikler og typegodkjenning av forbrenningsmotorer til ikke-veigående mobile maskiner, om endring av forordning (EU) nr. 1024/2012 og (EU) nr. 167/2013 og om endring og oppheving av direktiv 97/68/EF[^1], rettet ved EUT L 231 av 6.9.2019, s. 29, skal innlemmes i EØS-avtalen.
+
+\(2\) Forordning (EU) 2016/1628 opphever europaparlaments- og rådsdirektiv 97/68/EF[^2], som er innlemmet i EØS-avtalen, og som følgelig skal oppheves i EØS-avtalen.
+
+\(3\) EØS-avtalens vedlegg II og X bør derfor endres –
+
+TRUFFET DENNE BESLUTNING:
+
+Artikkel 1
+
+I EØS-avtalens vedlegg II gjøres følgende endringer:
+
+1\. I kapittel XXIV, etter nr. 1d (kommisjonsbeslutning 2012/32/EU), skal nytt nr. 1e lyde:
+
+«1e. **32016 R 1628**: Europaparlaments- og rådsforordning (EU) 2016/1628 av 14. september 2016 om krav til utslippsgrenser for forurensende gasser og partikler og typegodkjenning av forbrenningsmotorer til ikke-veigående mobile maskiner, om endring av forordning (EU) nr. 1024/2012 og (EU) nr. 167/2013 og om endring og oppheving av direktiv 97/68/EF (EUT L 252 av 16.9.2016, s. 53), rettet ved EUT L 231 av 6.9.2019, s. 29.»
+
+2\. I kapittel II nr. 40 (europaparlaments- og rådsforordning (EU) nr. 167/2013) skal nytt strekpunkt lyde:
+
+«– **32016 R 1628**: Europaparlaments- og rådsforordning (EU) 2016/1628 av 14. september 2016 (EUT L 252 av 16.9.2016, s. 53), rettet ved EUT L 231 av 6.9.2019, s. 29.»
+
+3\. Teksten i kapittel XXIV nr. 1a (europaparlaments- og rådsdirektiv 97/68/EF) oppheves.
+
+Artikkel 2
+
+I EØS-avtalens vedlegg X nr. 3 (europaparlaments- og rådsforordning (EU) nr. 1024/2012) skal nytt strekpunkt lyde:
+
+«– **32016 R 1628**: Europaparlaments- og rådsforordning (EU) 2016/1628 av 14. september 2016 (EUT L 252 av 16.9.2016, s. 53), rettet ved EUT L 231 av 6.9.2019, s. 29.»
+
+Artikkel 3
+
+Teksten til forordning (EU) 2019/1628, rettet ved EUT L 231 av 6.9.2019, s. 29, på islandsk og norsk, som vil bli kunngjort i EØS-tillegget til *Den europeiske unions tidende*, skal gis gyldighet.
+
 Artikkel 4
-Motorkategorier
-1. I denne forordning får følgende motorkategorier, inndelt i underkategoriene angitt i vedlegg I, anvendelse:
-1) «Kategori NRE»:
-a) Motorer til ikke-veigående mobile maskiner som er beregnet på og egnet til å
-forflytte seg eller bli forflyttet, på vei
-eller på annen måte, som ikke er utelukket i henhold til artikkel 2 nr. 2, og som
-ikke inngår i en annen kategori angitt i
-punkt 2–10 i dette nummer.
-b) Motorer med en referanseeffekt som er
-mindre enn 560 kW, og som brukes i
-stedet for trinn V-motorer i kategori
-IWP, IWA, RLL eller RLR.
-2) «Kategori NRG»: Motorer med en referanseeffekt som er større enn 560 kW, og
-som utelukkende skal brukes i aggregater.
-Andre aggregatmotorer som ikke har
-disse egenskapene, inngår i kategori NRE
-eller NRS, avhengig av egenskapene
-deres.
-3) «Kategori NRSh»: Motorer med elektrisk
-tenning til håndholdte maskiner med en
-referanseeffekt som er mindre enn 19 kW,
-og som utelukkende skal brukes i håndholdte maskiner.
-4) «Kategori NRS»: Motorer med elektrisk
-tenning med en referanseeffekt som er
-mindre enn 56 kW, og som ikke inngår i
-kategorien NRSh.
-5) «Kategori IWP»:
-a) Motorer som utelukkende skal brukes i
-fartøyer for fart på innlands vannveier,
-til direkte eller indirekte framdrift, eller
-som er beregnet på direkte eller indirekte framdrift av slike fartøy, med en
-referanseeffekt på minst 19 kW.
-b) Motorer som brukes i stedet for motorer i kategori IWA, forutsatt at de er i
-samsvar med artikkel 24 nr. 8.
-6) «Kategori IWA»: Hjelpemotorer som utelukkende skal brukes i fartøyer for fart på
 
-[Side 65]
+Denne beslutning trer i kraft 21. mars 2020, forutsatt at alle meddelelser etter EØS-avtalens artikkel 103 nr. 1 er inngitt[^3].
 
-2019–2020
-
-Prop. 61 LS
-
-63
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-innlands vannveier, og som har en referanseeffekt på minst 19 kW.
-7) «Kategori RLL»: Motorer som utelukkende
-skal brukes i lokomotiver, til framdrift av
-lokomotiver eller beregnet på framdrift av
-lokomotiver.
-8) «Kategori RLR»:
-a) Motorer som utelukkende skal brukes i
-skinnegående motorvogner, til framdrift av slike vogner eller beregnet på
-framdrift av slike vogner.
-b) Motorer som brukes i stedet for trinn Vmotorer i kategori RLL.
-9) «Kategori SMB»: Motorer med elektrisk
-tenning som utelukkende skal brukes i snøscootere. Andre motorer til snøscootere
-enn motorer med elektrisk tenning inngår i
-kategori NRE.
-10) «Kategori ATS»: Motorer med elektrisk
-tenning som utelukkende skal brukes i
-ATV-er eller UTV-er. Andre motorer til
-ATV-er og UTV-er enn motorer med elektrisk tenning inngår i kategori NRE.
-2. En motor med variabelt turtall i en bestemt
-kategori kan brukes i stedet for en motor med
-konstant turtall i samme kategori.
-Motorer med variabelt turtall i kategori
-IWP som brukes til drift med konstant turtall,
-skal dessuten være i samsvar med artikkel 24
-nr. 7 eller artikkel 24 nr. 8, avhengig av hva som
-er relevant.
-3. Motorer til vedlikeholdskjøretøyer til jernbanedrift og hjelpemotorer til skinnegående
-motorvogner og lokomotiver inngår i kategori NRE eller NRS, avhengig av deres egenskaper.
-Kapittel II
-Alminnelige forpliktelser
 Artikkel 5
-Medlemsstatenes forpliktelser
-1. Medlemsstatene skal opprette eller utpeke
-godkjennings- og markedstilsynsmyndigheter
-i samsvar med denne forordning.
-2. Medlemsstatene skal underrette Kommisjonen om at de har opprettet og utpekt godkjennings- og markedstilsynsmyndighetene nevnt i
-nr. 1, herunder myndighetenes navn, postadresse og e-postadresse og ansvarsområde.
-Kommisjonen skal offentliggjøre en liste over
-og nærmere opplysninger om godkjenningsmyndighetene på sitt nettsted.
-3. Medlemsstatene skal bare tillate omsetning av
 
-a) motorer som er omfattet av en gyldig EUtypegodkjenning som er gitt i samsvar med
-denne forordning, uavhengig av om de allerede er montert i ikke-veigående mobile
-maskiner, og
-b) ikke-veigående mobile maskiner der det
-er montert motorer som nevnt i bokstav
-a).
-4. Medlemsstatene skal ikke forby, begrense
-eller hindre omsetning av
-a) motorer på grunn av aspekter ved konstruksjonen og funksjonen som omfattes av
-denne forordning, dersom disse motorene
-oppfyller kravene i forordningen,
-b) ikke-veigående mobile maskiner på grunn
-av utslipp av forurensende gasser og partikler fra motorer som er montert i slike
-maskiner, dersom disse motorene omfattes
-av denne forordnings virkeområde og oppfyller kravene i forordningen.
-5. Medlemsstatene skal organisere og utføre
-markedstilsyn og kontroll av motorer på markedet i samsvar med kapittel III i forordning
-(EF) nr. 765/2008.
-Artikkel 6
-Godkjenningsmyndighetenes forpliktelser
-1. Godkjenningsmyndighetene skal sikre at produsenter som søker om EU-typegodkjenning,
-oppfyller kravene i denne forordning.
-2. Godkjenningsmyndighetene skal gi EU-typegodkjenning bare til motortyper eller motorfamilier som oppfyller kravene i denne forordning.
-3. Godkjenningsmyndighetene skal gjennom
-IMI offentliggjøre et register over alle motortyper og motorfamilier som har fått tildelt, forlenget eller tilbakekalt en EU-typegodkjenning, eller som har fått en søknad om EU-typegodkjenning avvist.
-Registeret skal inneholde minst følgende
-opplysninger:
-a) Produsentens navn og adresse og selskapets navn, dersom det er forskjellig fra produsentens navn.
-b) Firma eller varemerke(r) tilhørende produsenten, etter hva som er relevant.
-c) Betegnelse på motortypene som omfattes
-av EU-typegodkjenning av motortypen,
-eller, dersom det er relevant, av EU-typegodkjenning av motorfamilien.
-d) Motorkategori.
-e) EU-typegodkjenningsnummeret, herunder
-nummeret på eventuelle utvidelser.
+Denne beslutning skal kunngjøres i EØS-avdelingen av og EØS-tillegget til *Den europeiske unions tidende*.
 
-[Side 66]
+Utferdiget i Brussel, 20. mars 2020.
 
-64
+*For EØS-komiteen*
 
-Prop. 61 LS
+*Formann*
 
-2019–2020
+*Clara Ganslandt*
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+*EØS-komiteens*
 
-f) Dato for tildeling, utvidelse, nektelse eller
-tilbakekalling av EU-typegodkjenningen.
-g) Innholdet i avsnittene «Generelle opplysninger om motoren» og «Endelig utslippsresultat» i prøvingsrapporten som er nevnt
-i artikkel 24 nr. 12.
-Artikkel 7
-Markedstilsynsmyndighetenes forpliktelser
-1. Markedstilsynsmyndighetene skal foreta
-dokumentkontroll og eventuelt fysisk kontroll
-og laboratoriekontroll av motorer i tilstrekkelig omfang og på grunnlag av passende prøver.
-I den forbindelse skal de ta hensyn til gjeldende prinsipper for risikovurdering, klager
-og annen relevant informasjon.
-2. Markedstilsynsmyndighetene kan kreve at
-markedsdeltakerne gjør slik dokumentasjon
-og slike opplysninger tilgjengelige i den grad
-det anses nødvendig for at myndighetene skal
-kunne utføre sin virksomhet.
-Artikkel 8
-Produsentenes alminnelige forpliktelser
-1. Produsentene skal sikre at motorene deres,
-når de bringes i omsetning, er produsert og
-godkjent i samsvar med denne forordning.
-2. Dersom produsentene endrer en motor som
-er omfattet av EU-typegodkjenning, på en slik
-måte at den deretter tilhører en annen kategori eller underkategori, har de ansvar for å
-sikre at motoren oppfyller kravene som
-gjelder for nevnte kategori eller underkategori.
-Dersom en juridisk person endrer en motor
-på en slik måte at den ikke lenger overholder
-utslippsgrensene som gjelder for motorens
-kategori eller underkategori, anses nevnte person å være ansvarlig for å sikre at disse utslippsgrensene igjen overholdes.
-3. Produsentene er ansvarlige overfor godkjenningsmyndigheten for alle deler av EU-typegodkjenningsprosessen og for å sikre produksjonssamsvar, uavhengig av om de er direkte
-involvert i alle etapper av framstillingen av en
-motor eller ikke.
-4. Produsentene skal sørge for at det er innført
-framgangsmåter for å sikre at serieproduksjon fortsatt er i samsvar med den godkjente
-typen, og for å overvåke utslipp fra motorer i
-bruk i samsvar med artikkel 19.
-I samsvar med kapittel VI skal det tas hensyn til endringer i en motortypes utforming
+*Sekretærer*
 
-eller egenskaper og endringer i de kravene
-som en motortype er erklært å være i samsvar
-med.
-5. I tillegg til den lovfestede merkingen nevnt i
-artikkel 32 skal produsentene angi sitt navn,
-firma eller registrerte varemerke og sin kontaktadresse i Unionen på motorene som de har
-produsert og bringer i omsetning, eller, dersom dette ikke er mulig, i et dokument som
-følger med motoren.
-6. På grunngitt anmodning skal produsentene gi
-OEM-produsenten en gjenpart av den lovfestede merkingen nevnt i artikkel 15 nr. 4.
-7. Produsentene skal så lenge de har ansvar for
-en motor, sikre at lagrings- eller transportforholdene ikke setter motorens samsvar med
-dette kapittel og kapittel III i fare.
-8. Produsentene skal kunne stille EU-typegodkjenningsdokumentet med vedlegg som nevnt
-i artikkel 23 nr. 1 og, dersom det er relevant,
-en kopi av samsvarserklæringen nevnt i artikkel 31 til rådighet for godkjenningsmyndighetene i et tidsrom på ti år etter at en motor er
-brakt i omsetning.
-9. Produsentene skal på grunngitt anmodning og
-via godkjenningsmyndigheten gi nasjonale
-myndigheter en kopi av EU-typegodkjenningsdokumentet for en motor. Denne kopien skal
-være skrevet på et språk som lett kan forstås
-av den anmodende nasjonale myndighet.
-10. Med sikte på EU-typegodkjenning av motorer
-skal produsenter som er etablert utenfor Unionen, utpeke én representant som er etablert i
-Unionen, til å representere seg overfor godkjenningsmyndigheten.
-11. Med sikte på markedstilsyn skal produsenter
-som er etablert utenfor Unionen, utpeke én
-representant som er etablert i Unionen, som
-kan være representanten nevnt i nr. 10.
-Artikkel 9
-Produsentenes forpliktelser med hensyn til
-motorer som ikke oppfyller kravene
-1. En produsent som har grunn til å tro eller
-anser at en av motorene som bringes i omsetning, ikke er i samsvar med denne forordning,
-skal umiddelbart foreta en undersøkelse av
-mistanken om manglende samsvar og hvor
-utbredt det kan antas å være.
-På grunnlag av resultatene av undersøkelsen skal produsenten treffe korrigerende tiltak
-for å sikre at motorer i produksjon bringes i
-samsvar med den godkjente motortypen eller
-motorfamilien i rett tid.
+02N0xx1
 
-[Side 67]
-
-2019–2020
-
-Prop. 61 LS
-
-65
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-Produsenten skal umiddelbart underrette
-godkjenningsmyndigheten som har gitt EUtypegodkjenningen, om undersøkelsen og gi
-nærmere opplysninger, særlig om det manglende samsvaret og om eventuelle korrigerende tiltak som er truffet.
-2. Uten hensyn til nr. 1 er en produsent ikke forpliktet til å treffe korrigerende tiltak med
-hensyn til en motor som ikke er i samsvar
-med denne forordning som følge av
-endringer som er foretatt etter at den er brakt
-i omsetning, og som ikke er blitt godkjent av
-produsenten.
-Artikkel 10
-
-4.
-
-5.
-6.
-
-Forpliktelser for produsentenes representanter
-med ansvar for markedstilsyn
-Produsentenes representanter med ansvar for
-markedstilsyn skal minst utføre følgende oppgaver, som skal være angitt i den skriftlige fullmakten fra produsenten:
-a) Sikre at EU-typegodkjenningsdokumentet
-med vedlegg som nevnt i artikkel 23 nr. 1 og,
-dersom det er relevant, en kopi av samsvarserklæringen nevnt i artikkel 31 kan stilles til
-rådighet for godkjenningsmyndighetene i et
-tidsrom på ti år etter at en motor er brakt i
-omsetning.
-b) På grunngitt anmodning gi godkjenningsmyndigheten alle opplysninger og all dokumentasjon som er nødvendig for å dokumentere produksjonssamsvar for en motor.
-c) Samarbeide med godkjennings- og markedstilsynsmyndighetene på deres anmodning når
-det gjelder tiltak som treffes i henhold til fullmakten.
-Artikkel 11
-Importørenes alminnelige forpliktelser
-1. Importørene skal bringe i omsetning bare
-motorer som har fått EU-typegodkjenning.
-2. Før en EU-typegodkjent motor bringes i
-omsetning, skal importørene sikre at
-a) EU-typegodkjenningsdokumentet
-med
-vedlegg som nevnt i artikkel 23 nr. 1 er tilgjengelig,
-b) motoren har den lovfestede merkingen
-som nevnt i artikkel 32,
-c) motoren er i samsvar med artikkel 8 nr. 5.
-3. I et tidsrom på ti år etter at motoren er brakt i
-omsetning, skal importørene dersom det er
-
-7.
-
-relevant, kunne stille en kopi av samsvarserklæringen nevnt i artikkel 31 til rådighet for
-godkjennings- og markedstilsynsmyndighetene, og skal sikre at EU-typegodkjenningsdokumentet med vedlegg som nevnt i artikkel
-23 nr. 1 på anmodning kan stilles til rådighet
-for disse myndighetene.
-Importørene skal angi sitt navn, firma eller
-registrerte varemerke og sin kontaktadresse
-på motoren eller, dersom dette ikke er mulig, i
-et dokument som følger med motoren.
-Importørene skal sikre at motoren følges av
-opplysningene og instruksene som er nevnt i
-artikkel 43.
-Importørene skal så lenge de har ansvar for en
-motor, sikre at lagrings- eller transportforholdene ikke setter motorens samsvar med dette
-kapittel eller kapittel III i fare.
-Importørene skal på grunngitt anmodning gi
-en anmodende nasjonal myndighet alle opplysninger og all dokumentasjon som er nødvendig for å dokumentere produksjonssamsvar
-for en motor. Opplysningene og dokumentasjonen skal være skrevet på et språk som lett
-kan forstås av den anmodende nasjonale myndighet.
-
-Artikkel 12
-Importørenes forpliktelser med hensyn til
-motorer som ikke oppfyller kravene
-1. En importør som har grunn til å tro eller anser
-at en motor ikke er i samsvar med denne forordning, særlig at den ikke svarer til EU-typegodkjenningen, skal ikke bringe motoren i
-omsetning før den er brakt i samsvar med
-denne forordning.
-Importøren skal uten unødig opphold underrette produsenten, markedstilsynsmyndighetene og godkjenningsmyndigheten som har
-gitt EU-typegodkjenningen, om dette.
-2. En importør som har grunn til å tro eller anser
-at en motor som er brakt i omsetning, ikke er i
-samsvar med denne forordning, skal umiddelbart foreta en undersøkelse av det mistenkte
-manglende samsvaret og hvor utbredt det kan
-antas å være.
-På grunnlag av resultatene av undersøkelsen skal importøren treffe korrigerende tiltak
-og underrette produsenten om dette, for å
-sikre at motorer i produksjon bringes i samsvar
-med den godkjente motortypen eller motorfamilien i rett tid.
-
-[Side 68]
-
-66
-
-Prop. 61 LS
-
-2019–2020
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-Artikkel 13
-Distributørenes alminnelige forpliktelser
-1. Når distributørene gjør en motor tilgjengelig
-på markedet, skal de utvise behørig aktsomhet
-med hensyn til kravene i denne forordning.
-2. Før de gjør en motor tilgjengelig på markedet,
-skal distributørene kontrollere at
-a) produsenten har overholdt artikkel 8 nr. 5,
-b) importøren, dersom det er relevant, har
-overholdt artikkel 11 nr. 2 og 4,
-c) motoren har den lovfestede merkingen
-som nevnt i artikkel 32,
-d) opplysningene og instruksene som er nevnt
-i artikkel 43, er tilgjengelige på et språk
-som lett kan forstås av OEM-produsenten.
-3. Importørene skal så lenge de har ansvar for en
-motor, sikre at lagrings- eller transportforholdene ikke setter motorens samsvar med dette
-kapittel eller kapittel III i fare.
-4. Distributørene skal på grunngitt anmodning
-sikre at produsenten gir den anmodende
-nasjonale myndighet dokumentasjonen som
-er angitt i artikkel 8 nr. 8, eller at importøren
-gir den anmodende nasjonale myndighet
-dokumentasjonen som er angitt i artikkel 11
-nr. 3.
-
-2.
+| *Hege M. Hoff* | *Mikołaj Karłowski* |
+|----------------|---------------------|
 
 3.
 
-4.
+Europaparlaments- og rådsforordning (EU) 2016/1628 av 14. september 2016 om krav til utslippsgrenser for forurensende gasser og partikler og typegodkjenning av forbrenningsmotorer til ikke-veigående mobile maskiner, om endring av forordning (EU) nr. 1024/2012 og (EU) nr. 167/2013 og om endring og oppheving av direktiv 97/68/EF
 
-5.
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR
 
-Artikkel 14
-Distributørenes forpliktelser med hensyn til
-motorer som ikke oppfyller kravene
-1. En distributør som har grunn til å tro eller
-anser at en motor ikke er i samsvar med denne
-forordning, skal ikke gjøre motoren tilgjengelig på markedet før den er brakt i samsvar med
-denne forordning.
-2. En distributør som har grunn til å tro eller
-anser at en motor som vedkommende har
-gjort tilgjengelig på markedet, ikke er i samsvar med denne forordning, skal underrette
-produsenten eller produsentens representant
-for å sikre at de nødvendige korrigerende tiltakene for å bringe motorene i produksjon i samsvar med den godkjente motortypen eller
-motorfamilien treffes i samsvar med artikkel 9
-eller 12.
-Artikkel 15
-Forpliktelser for produsenter av originalt utstyr
-med hensyn til montering av motorer
-1. OEM-produsenter skal montere EU-typegodkjente motorer i ikke-veigående mobile maski-
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 114,
 
-6.
+under henvisning til forslag fra Europakommisjonen,
 
-ner i samsvar med produsentens anvisninger i
-henhold til artikkel 43 nr. 2 og på en måte som
-ikke har ugunstig virkning på motorens ytelse
-med hensyn til utslipp av forurensende gasser
-og partikler.
-Dersom en OEM-produsent ikke følger anvisningene nevnt i nr. 1 i denne artikkel eller
-endrer en motor i forbindelse med monteringen i ikke-veigående mobile maskiner på en
-måte som har ugunstig virkning på motorens
-ytelse med hensyn til forurensende gasser og
-partikler, skal nevnte OEM-produsent anses
-som produsent ved anvendelsen av denne forordning, og er særlig underlagt forpliktelsene
-fastsatt i artikkel 8 og 9.
-OEM-produsenter kan montere EU-typegodkjente motorer i ikke-veigående mobile maskiner bare dersom de utelukkende skal brukes
-som fastsatt i artikkel 4.
-Dersom motorens lovfestede merking nevnt i
-artikkel 32 ikke er synlig uten at deler fjernes,
-skal OEM-produsenten på et synlig sted på
-den ikke-veigående mobile maskinen påføre
-en dublett av merkingen som er nevnt i nevnte
-artikkel og i den relevante gjennomføringsrettsakten, levert av produsenten.
-Dersom en ikke-veigående mobil maskin der
-det er montert en overgangsmotor, er brakt i
-omsetning i samsvar med artikkel 58 nr. 5,
-skal OEM-produsentene angi produksjonsdatoen for den ikke-veigående mobile
-maskinen som en del av merkingen på maskinen.
-Dersom en produsent leverer en motor atskilt
-fra systemet for etterbehandling av eksos til en
-OEM-produsent i samsvar med artikkel 34 nr.
-3, skal OEM-produsenten, dersom det er relevant, gi produsenten opplysninger om montering av motoren og systemet for etterbehandling av eksos.
+etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
 
-Artikkel 16
-Anvendelse av produsentenes forpliktelser på
-importører og distributører
-En importør eller distributør som gjør en motor
-tilgjengelig på markedet i eget navn eller under
-eget varemerke, eller som endrer en slik motor
-på en måte som kan påvirke motorens samsvar
-med gjeldende krav, skal anses som produsent
-ved anvendelsen av denne forordning, og er
-særlig underlagt forpliktelsene fastsatt i artikkel
-8 og 9.
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité[^4],
 
-[Side 69]
+etter den ordinære regelverksprosessen[^5] og
 
-2019–2020
+ut fra følgende betraktninger:
 
-Prop. 61 LS
+1\) Det indre marked omfatter et område uten indre grenser, der fritt varebytte og fri bevegelighet for personer, tjenester og kapital må sikres. For dette formål ble det ved europaparlaments- og rådsdirektiv 97/68/EF[^6] truffet tiltak for å redusere luftforurensning fra motorer som skal monteres i ikke-veigående mobile maskiner. Bestrebelsene for utvikling og drift av Unionens indre marked bør fortsette.
 
-67
+2\) Det indre marked bør bygge på åpne, enkle og ensartede regler som gir rettssikkerhet og klarhet til fordel for både næringsliv og for-brukere.
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+3\) Det er innført en ny lovgivningsmessig metode i Unionens typegodkjenningsregelverk for motorer med sikte på å forenkle og påskynde vedtakelsen av slik lovgivning. I henhold til denne metoden fastsetter regelgiveren grunnleggende regler og prinsipper og gir Kommisjonen myndighet til å vedta delegerte rettsakter og gjennomføringsrettsakter om nærmere tekniske detaljer. Denne forordning bør derfor med hensyn til materielle krav fastsette bare grunnleggende bestemmelser om utslipp av forurensende gasser og partikler og typegodkjenning av forbrenningsmotorer til ikke-veigående mobile maskiner, og bør gi Kommisjonen myndighet til å fastsette tekniske spesifikasjoner i delegerte rettsakter og gjennomføringsrettsakter.
 
-Artikkel 17
-Meldingsplikt for markedsdeltakere og OEMprodusenter
-Markedsdeltakere og OEM-produsenter skal på
-anmodning og i et tidsrom på fem år etter at en
-motor er brakt i omsetning, underrette godkjennings- og markedstilsynsmyndighetene om følgende:
-a) Alle markedsdeltakere som har levert en
-motor til dem.
-b) Alle markedsdeltakere eller OEM-produsenter
-dersom de kan identifiseres, som de har levert
-en motor til.
+4\) Ved europaparlaments- og rådsforordning (EU) nr. 167/2013l[^7] ble det fastsatt rammeregler for godkjenning av og markedstilsyn for jordbruks- og skogbrukskjøretøyer. Gitt likhetene mellom områdene og positive erfaringer med anvendelsen av forordning (EF) nr. 167/2013 bør det tas hensyn til mange av rettighetene og forpliktelsene fastsatt i nevnte forordning med hensyn til ikke-veigående mobile maskiner. Det er imidlertid viktig at det vedtas et avgrenset sett av regler som fullt ut tar hensyn til de særlige kravene til motorer til ikke-veigående mobile maskiner.
 
-gier på en slik måte at det hindrer ulovlige inngrep i størst mulig grad. Det er forbudt å
-bruke alternative kontrollstrategier.
-5. Kommisjonen skal vedta gjennomføringsrettsakter som fastsetter nærmere opplysninger
-om parametrene som brukes til å definere
-motortyper og motorfamilier, herunder deres
-driftstilstander, og tekniske opplysninger med
-sikte på å hindre ulovlige inngrep som nevnt i
-nr. 4 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember
-2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
-Artikkel 19
+5\) Ved europaparlaments- og rådsdirektiv 2006/42/EF[^8] fastsettes de grunnleggende kravene til helse og sikkerhet med hensyn til konstruksjon og produksjon for å bedre sikkerheten for maskiner som bringes i omsetning. I nevnte direktiv fastsettes det imidlertid ikke krav til utslippsgrenser for forurensende gasser og partikler for forbrenningsmotorer til ikke-veigående mobile maskiner. Det bør derfor fastsettes visse særlige forpliktelser for produsenter av ikke-veigående mobile maskiner for å sikre at monteringen av motorer i slike maskiner foretas på en måte som ikke har ugunstig virkning på motorens ytelse med hensyn til utslipp av forurensende gasser og partikler. Det er også nødvendig med visse forpliktelser knyttet til aspekter ved utslippsgrensene for forurensende gasser og partikler fra motorer til ikke-veigående mobile maskiner for å sikre effektive utslippsgrenser for motorer fastsatt i denne forordning.
 
-Kapittel III
-Grunnleggende krav
-Artikkel 18
-Krav til eksosutslipp ved EU-typegodkjenning
-1. Produsentene skal sikre at motortyper og
-motorfamilier er konstruert, bygd og montert
-slik at de oppfyller kravene fastsatt i kapittel II
-og i dette kapittel.
-2. Motortyper og motorfamilier skal fra tidspunktet da motorene angitt i vedlegg III bringes i omsetning, ikke overskride grenseverdiene for eksosutslipp som kalles trinn V og er
-angitt i vedlegg II.
-Dersom en motorfamilie i samsvar med
-parametrene som definerer motorfamilien
-fastsatt i den relevante gjennomføringsrettsakten, omfatter mer enn ett effektområde,
-skal den representative motoren (for EU-typegodkjenningsformål) og alle motortyper i
-samme familie (for produksjonssamsvarsformål) med hensyn til de gjeldende effektområdene
-a) overholde de strengeste utslippsgrenseverdiene,
-b) prøves ved hjelp av prøvingssykluser som
-tilsvarer de strengeste utslippsgrenseverdiene,
-c) omfattes av de tidligste gjeldende datoene
-for EU-typegodkjenning og omsetning som
-er angitt i vedlegg III.
-3. Eksosutslippene fra motortyper og motorfamilier skal måles på grunnlag av prøvingssyklusene angitt i artikkel 24 og i samsvar med
-artikkel 25.
-4. Motortyper og motorfamilier skal være konstruert og utstyrt med utslippskontrollstrate-
+6\) Denne forordning bør inneholde grunnleggende krav til utslippsgrenser for og framgangsmåter for EU-typegodkjenning av motorer til ikke-veigående mobile maskiner. Hovedelementene i de relevante kravene i denne forordning bygger på resultatene av Kommisjonens konsekvensanalyse av 20. november 2013, der forskjellige alternativer analyseres ved å føre opp mulige fordeler og ulemper med hensyn til økonomiske, miljømessige, sikkerhetsrelaterte og samfunnsmessige aspekter samt helsemessige virkninger. Både kvalitative og kvantitative aspekter ble tatt med i denne analysen.
 
-Overvåking av utslipp fra motorer i bruk
-1. Utslippene av forurensende gasser fra motorer
-som tilhører de motortypene eller motorfamiliene i utslippstrinn V som er typegodkjent i
-samsvar med denne forordning, skal overvåkes ved å prøve motorer i bruk som er montert i ikke-veigående mobile maskiner og brukes i normale driftssykluser. Produsenten har
-ansvaret for å utføre denne prøvingen i samsvar med godkjenningsmyndighetens krav til
-motorer som har blitt riktig vedlikeholdt, i
-samsvar med bestemmelsene om valg av
-motorer, prøvingsmetoder og rapportering av
-resultater for de forskjellige motorkategoriene.
-Kommisjonen skal gjennomføre forsøksprogrammer med sikte på å utvikle egnede
-prøvingsmetoder for de motorkategoriene og
-underkategoriene som det ikke finnes slike
-prøvingsmetoder for.
-Kommisjonen skal gjennomføre overvåkingsprogrammer for hver motorkategori for å
-fastslå i hvilken grad utslippene som måles i
-prøvingssyklusen, tilsvarer utslippene som
-måles ved faktisk drift. Programmene og resultatene av disse skal hvert år framlegges for
-medlemsstatene og deretter gjøres tilgjengelige for allmennheten.
-2. Kommisjonen skal gis myndighet til å vedta
-delegerte rettsakter i samsvar med artikkel 55
-for å utfylle denne forordning med nærmere
-bestemmelser med hensyn til utvelging av
-motorer, prøvingsmetoder og rapportering av
-resultatene nevnt i nr. 1 i denne artikkel. Disse
-delegerte rettsaktene skal vedtas innen
-31. desember 2016.
+7\) For å sikre at det indre marked virker, bør denne forordning fastsette harmoniserte regler for EU-typegodkjenning av motorer til ikke-veigående mobile maskiner. For dette formål bør nye utslippsgrenser fastsettes og anvendes for motorer til ikke-veigående mobile maskiner samt for jordbruks- og skogbruksmaskiner, for å gjenspeile den tekniske utviklingen og for å sikre tilnærming til Unionens politikk i veisektoren. Disse nye utslippsgrensene bør fastsettes med sikte på å oppnå Unionens mål for luftkvalitet og redusere utslipp fra ikke-veigående mobile maskiner og jordbruks- og skogbrukskjøretøyer, og dermed redusere andelen av utslipp fra ikke-veigående mobile maskiner i forhold til utslipp fra veigående kjøretøyer. Derfor bør virkeområdet for Unionens regelverk på dette området utvides med sikte på å forbedre harmoniseringen av markedet på unionsplan og internasjonalt plan og minimere risikoen for konkurransevridning og helseskadelige virkninger.
 
-[Side 70]
+8\) I tillegg til å utvide virkeområdet for Unionens regelverk på området markedsharmonisering og samtidig minimere risikoen for konkurransevridning har denne forordning som mål å forenkle de nåværende rettslige rammene, herunder ved å treffe tiltak for å forenkle administrative framgangsmåter, og forbedre de allmenne vilkårene for håndheving av dette regelverket, særlig ved å styrke reglene for markedstilsyn.
 
-68
+9\) I Kommisjonens hvitbok av 28. mars 2011 med tittelen «Roadmap to a Single European Transport Area – Towards a competitive and resource efficient transport system» (Veikart for et felles europeisk transportområde – mot et konkurransedyktig og ressurseffektivt transportsystem) framheves den særlige rollen som jernbaner og innlands vannveier skal spille når det gjelder å oppnå klimamål. Med tanke på at utviklingen av disse transportsystemene kommer til kort ved sammenligning med andre sektorer når det gjelder å forbedre luftkvaliteten, bør Kommisjonen og medlemsstatenes myndigheter innenfor sine respektive ansvarsområder sørge for ulike måter å støtte nyskaping innen utslippsteknologi på, slik at den kontinuerlige økningen i mengden gods som flyttes over på jernbane og innlands vannveier, går hånd i hånd med en forbedring av luftkvaliteten i Europa.
 
-Prop. 61 LS
+10\) Kravene til motorer til ikke-veigående mobile maskiner bør følge prinsippene som er fastsatt i kommisjonsmeldingen av 5. juni 2002 om handlingsplanen for enklere og bedre lovgivningsmessige rammer.
 
-2019–2020
+11\) I det sjuende allmenne miljøhandlingsprogrammet i Unionen, som ble vedtatt ved europaparlaments- og rådsbeslutning nr. 1386/2013/EU[^9], minnes det om at Unionen er blitt enig om å oppnå en luftkvalitet som ikke medfører betydelige negative virkninger på og risiko for menneskers helse og miljøet. I Unionens regelverk er det fastsatt hensiktsmessige utslippsgrenser for luftkvalitet og vern av menneskers helse, særlig når det gjelder følsomme personer, samt for nasjonale utslippstak[^10]. Etter sin melding av 4. mai 2001, som etablerte CAFE-programmet («Clean Air For Europe»), vedtok Kommisjonen 21. september 2005 en ny melding om en tematisk strategi for luftforurensning («Thematic strategy for air pollution»). En av konklusjonene i denne tematiske strategien er at ytterligere reduksjoner i utslipp fra transportsektoren (luft-, sjø- og landtransport), fra husholdningene og fra energi-, landbruks- og industrisektoren er nødvendig for å nå Unionens mål for luftkvalitet. I denne sammenheng bør oppgaven med å redusere utslipp fra motorer til ikke-veigående mobile maskiner ses på som en del av en samlet strategi. De nye utslippsgrensene, som kalles «trinn V», er blant tiltakene som er utformet for å redusere de nåværende utslippene fra motorer i bruk av luftforurensende stoffer som forurensende partikler og ozondannende stoffer som nitrogenoksider (NO<sub>x</sub>) og hydrokarboner.
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+12\) Den 12. juni 2012 omklassifiserte Verdens helseorganisasjon gjennom Det internasjonale senter for kreftforskning (IARC – International Agency for Research on Cancer) eksosutslipp fra dieselmotorer til «kreftframkallende for mennesker» (gruppe 1), på grunnlag av tilstrekkelig dokumentasjon på at eksponering er forbundet med økt risiko for lungekreft.
 
-Kapittel IV
-Framgangsmåter for EU-typegodkjenning
-Artikkel 20
-Søknad om EU-typegodkjenning
-1. Produsentene skal for hver motortype eller
-motorfamilie inngi en egen søknad om EUtypegodkjenning til godkjenningsmyndigheten i en medlemsstat, og hver søknad skal
-følges av opplysningsmappen nevnt i artikkel
-21. Bare én søknad skal inngis for en bestemt
-motortype, eller motorfamilie dersom det er
-relevant, og den skal inngis til bare én godkjenningsmyndighet.
-2. Produsentene skal gjøre tilgjengelig for den tekniske instans som er ansvarlig for å utføre EUtypegodkjenningsprøvingene, en motor som er i
-samsvar med egenskapene til motortypen eller,
-for en motorfamilie, med egenskapene til den
-representative motoren som er beskrevet i opplysningsmappen nevnt i artikkel 21.
-3. Dersom godkjenningsmyndigheten ved søknad om EU-typegodkjenning av en motorfamilie anser at den innsendte søknaden med
-hensyn til den utvalgte representative motoren
-nevnt i nr. 2 i denne artikkel ikke fullt ut er
-representativ for den motorfamilien som er
-beskrevet i opplysningsmappen nevnt i artikkel 21, skal produsentene stille til rådighet en
-alternativ og eventuelt ytterligere en representativ motor som godkjenningsmyndigheten
-anser er representativ for motorfamilien.
-4. Produsentene skal innen en måned etter produksjonsstart for den godkjente motortypen
-eller motorfamilien framlegge den opprinnelige planen for overvåking av motorer i bruk til
-godkjenningsmyndigheten som har gitt EUtypegodkjenning for denne motortypen eller
-eventuelt motorfamilien.
-Artikkel 21
-Opplysningsmappe
-1. Søkeren skal framlegge en opplysningsmappe
-for godkjenningsmyndigheten som inneholder
-følgende:
-a) Et opplysningsdokument, herunder en liste
-over referansedrivstoffer og, på produsentens anmodning, alle andre spesifiserte
-drivstoffer, drivstoffblandinger eller drivstoffemulsjoner som er nevnt i artikkel 25
-nr. 2 og beskrevet i samsvar med de delegerte rettsaktene nevnt i artikkel 25 nr. 4
-(«opplysningsdokumentet»).
+13\) For å forbedre Unionens luftkvalitet og nå målene om vern av luften på en bærekraftig måte fram til 2020 og videre kreves kontinuerlig innsats for å redusere utslipp fra forskjellige typer motorer. Av den grunn bør produsentene på forhånd gis klar og omfattende informasjon om framtidige utslippsgrenseverdier, og bør gis en tilstrekkelig frist til å overholde disse og til å utvikle nødvendig teknologi.
 
-b) Alle relevante data, tegninger, fotografier
-og andre opplysninger om motortypen eller
-eventuelt den representative motoren.
-c) Eventuelle tilleggsopplysninger som godkjenningsmyndigheten har bedt om i forbindelse med framgangsmåten for søknaden om EU-typegodkjenning.
-2. Opplysningsmappen kan leveres på papir eller
-i et elektronisk format som er godkjent av den
-tekniske instansen og godkjenningsmyndigheten.
-3. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter maler for opplysningsdokumentet og opplysningsmappen. Disse
-gjennomføringsrettsaktene skal vedtas innen
-31. desember 2016 etter framgangsmåten med
-forskriftskomité nevnt i artikkel 56 nr. 2.
-Kapittel V
-Gjennomføring av framgangsmåter for EU-typegodkjenning
-Artikkel 22
-Alminnelige bestemmelser
-1. Godkjenningsmyndigheten som mottar søknaden, skal gi EU-typegodkjenning til alle motortyper eller motorfamilier som er i samsvar
-med både
-a) opplysningene i opplysningsmappen, og
-b) kravene i denne forordning, særlig tiltakene for produksjonssamsvar nevnt i
-artikkel 26.
-2. Dersom en motor oppfyller kravene fastsatt i
-denne forordning, skal godkjenningsmyndighetene ikke pålegge andre krav til EU-typegodkjenning med hensyn til eksosutslipp for
-ikke-veigående mobile maskiner der en slik
-motor er montert.
-3. Etter datoene for EU-typegodkjenning av
-motorer som er angitt i vedlegg III for hver
-motorunderkategori, skal godkjenningsmyndighetene ikke gi EU-typegodkjenning for en
-motortype eller motorfamilie som ikke oppfyller kravene fastsatt i denne forordning.
-4. EU-typegodkjenningsdokumenter skal nummereres i samsvar med et harmonisert system
-som skal fastsettes av Kommisjonen.
-5. Gjennom IMI skal godkjenningsmyndigheten
-a) gjøre tilgjengelig for godkjenningsmyndighetene i de andre medlemsstatene en liste
-over de EU-typegodkjenningene som den
-har gitt, eller eventuelt forlenget, innen én
-måned etter at det tilsvarende EU-typegodkjenningsdokumentet er utstedt,
+14\) Når det fastsettes utslippsgrenser, er det viktig å ta hensyn til følgene for konkurranseevnen i markedene og for produsentene, de direkte og indirekte kostnader som pålegges foretakene, og fordelene som oppnås når det gjelder å stimulere til nyskaping, forbedre luftkvaliteten, redusere helseutgiftene og øke forventet levealder.
 
-[Side 71]
+15\) Reduksjon av utslipp fra motorer på en bærekraftig måte krever konstant forsterkning av det direkte samarbeidet mellom produsenter og tilknyttede virksomheter på den ene side og veletablerte vitenskapelige forskningsinstitusjoner på den annen side. Slikt samarbeid spiller en vesentlig rolle i utviklingen av nye produkter og teknologi som bidrar positivt til å forbedre luftkvaliteten.
 
-2019–2020
+16\) Utslipp fra motorer til ikke-veigående mobile maskiner utgjør en vesentlig del av de samlede menneskeskapte utslippene av visse skadelige luftforurensende stoffer. Motorer som står for en betydelig del av luftforurensningen med NO<sub>x</sub> og partikler, bør være omfattet av de nye utslippsgrensene.
 
-Prop. 61 LS
+17\) For å sikre best mulig vern av personer som arbeider i nærheten av maskiner, og for å holde den samlede eksponeringen av personer som arbeider i nærheten av flere forskjellige mobile maskiner og typer mobilt utstyr, så lav som mulig, bør tilgjengelig teknologi brukes til å minimere utslipp.
 
-69
+18\) Kommisjonen bør løpende vurdere utslipp som det ennå ikke er fastsatt regler for, og som oppstår som følge av mer omfattende bruk av nye drivstoffsammensetninger, ny motorteknologi og nye utslippskontrollsystemer. Om nødvendig bør Kommisjonen også framlegge forslag for Europaparlamentet og Rådet med sikte på å fastsette regler for slike utslipp.
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+19\) Det er nødvendig å oppmuntre til å innføre motorer som bruker alternative drivstoffer som kan gi lave utslipp av NO<sub>x</sub> og forurensende partikler. Derfor bør grenseverdiene for samlet mengde hydrokarboner tilpasses for å ta hensyn til utslipp av ikke-metanholdige hydrokarboner og metan.
 
-b) omgående gjøre tilgjengelig for godkjenningsmyndighetene i de andre medlemsstatene en liste over de EU-typegodkjenningene som den har nektet å gi eller har tilbakekalt, sammen med en begrunnelse for
-beslutningen,
-c) innen én måned etter å ha mottatt en
-anmodning fra godkjenningsmyndigheten i
-en annen medlemsstat oversende nevnte
-godkjenningsmyndighet en kopi av EUtypegodkjenningsdokumentet for motortypen eller motorfamilien, dersom dette
-finnes, sammen med opplysningspakken
-nevnt i nr. 6 for hver motortype eller motorfamilie som den har gitt eller nektet å gi EUtypegodkjenning, eller som den har tilbakekalt EU-typegodkjenningen for.
-6. Godkjenningsmyndigheten skal sette sammen
-en opplysningspakke som består av opplysningsmappen sammen med prøvingsrapporten og alle andre dokumenter som den tekniske instansen eller godkjenningsmyndigheten har lagt ved opplysningsmappen når den
-har utført sine oppgaver («opplysningspakken»).
-Opplysningspakken skal ha en innholdsfortegnelse som viser innholdet i den, der alle sider er nummerert eller merket på annen måte,
-slik at hver enkelt side og formatet for hvert enkelt dokument lett kan identifiseres, med sikte
-på å vise trinnene i forvaltningen av EU-typegodkjenningen, særlig datoene for revisjoner
-og ajourføringer.
-Godkjenningsmyndigheten skal sikre at
-opplysningene som ligger i opplysningspakken, er tilgjengelige i et tidsrom på minst 25
-år etter at gyldighetstiden til den aktuelle EUtypegodkjenningen er utløpt.
-7. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter
-a) metoden for fastsettelse av det harmoniserte nummereringssystemet nevnt i nr. 4,
-b) malene og datastrukturen for utveksling av
-opplysninger nevnt i nr. 5.
-Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56
-nr. 2.
-Artikkel 23
-Særlige bestemmelser om EU-typegodkjenningsdokumentet
-1. EU-typegodkjenningsdokumentet skal inneholde følgende vedlegg:
+20\) Denne forordning berører ikke medlemsstatenes rett til i samsvar med traktatene å fastsette de kravene de måtte anse som nødvendige for å sikre at offentligheten og arbeidstakerne er beskyttet når ikke-veigående mobile maskiner nevnt i denne forordning er i bruk, forutsatt at disse kravene ikke påvirker omsetningen av motorer til slike maskiner.
 
-2.
-3.
+21\) For å sikre at utslipp av ultrafine forurensende partikler (med en størrelse på 0,1 µm og mindre) blir regulert, bør Kommisjonen gis mulighet til å vedta en antallbasert metode for utslipp av forurensende partikler, i tillegg til den massebaserte metoden som nå benyttes. Den antallbaserte metoden bør bygge på resultatene av partikkelmålingsprogrammet til De forente nasjoners økonomiske kommisjon for Europa (UN-ECE) og bør være i samsvar med eksisterende ambisiøse miljømål.
 
-4.
+22\) For at disse miljømålene skal kunne nås, er det hensiktsmessig at grenseverdiene for partikkelantall som er fastsatt i denne forordning, sannsynligvis vil gjenspeile de høyeste prestasjonsnivåene som for øyeblikket kan nås med partikkelfiltre ved hjelp av den beste tilgjengelige teknologien.
 
-5.
+23\) Ettersom ikke-veigående mobile maskiner har lang levetid, bør det vurderes å ettermontere utstyr i de motorene som allerede er i bruk. Slik ettermontering bør særlig brukes i tett befolkede områder som et middel til å hjelpe medlemsstatene med å overholde Unionens regelverk for luftkvalitet. For å sikre en sammenlignbar og ambisiøs grad av ettermontering bør medlemsstatene ta hensyn til prinsippene i UN-ECE-reglement nr. 132.
 
-a) Opplysningspakken.
-b) Dersom det er relevant, navn på og underskriftsprøver for personer som har tillatelse
-til å undertegne samsvarserklæringer som
-nevnt i artikkel 31, samt opplysninger om
-deres stilling i selskapet.
-Kommisjonen skal fastsette en mal for EUtypegodkjenningsdokumentet.
-For hver motortype eller motorfamilie som er
-godkjent, skal godkjenningsmyndigheten
-a) fylle ut alle relevante rubrikker i EU-typegodkjenningsdokumentet og legge ved
-prøvingsrapporten,
-b) utarbeide innholdsfortegnelsen for opplysningspakken,
-c) umiddelbart utstede det ferdig utfylte typegodkjenningsdokumentet med vedlegg til
-søkeren.
-Dersom en EU-typegodkjenning i samsvar
-med artikkel 35 er underlagt begrensninger
-med hensyn til gyldighet, eller dersom motortypen eller motorfamilien er unntatt fra visse
-krav i denne forordning, skal disse begrensningene eller unntakene angis i EU-typegodkjenningsdokumentet.
-Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter malen for EU-typegodkjenningsdokumentet nevnt i nr. 2 i denne
-artikkel. Disse gjennomføringsrettsaktene
-skal vedtas innen 31. desember 2016 etter
-framgangsmåten med forskriftskomité nevnt i
-artikkel 56 nr. 2.
+24\) Dersom det er hensiktsmessig og teknologier er innbyrdes forbundet, bør det søkes synergier mellom reduksjonen av utslipp av forurensende gasser og partikler fra motorer til ikke-veigående mobile maskiner og utslippsgrenser for tunge kjøretøyer. Slike tiltak kan bidra til å øke stordriftsfordelene og forbedre luftkvaliteten.
 
-Artikkel 24
-Prøvinger som kreves for EU-typegodkjenning
-1. Utpekte tekniske instanser skal ved egnet
-prøving påvise at de tekniske kravene som er
-fastsatt i denne forordning, er oppfylt. Måleog prøvingsmetodene og det bestemte utstyret
-og verktøyet som kreves for å utføre disse
-prøvingene, skal være som fastsatt i artikkel
-25.
-2. Produsenten skal stille til rådighet for godkjenningsmyndigheten det antallet motorer
-som kreves i henhold til de relevante delegerte rettsaktene for å gjennomføre de nødvendige prøvingene.
-3. De nødvendige prøvingene skal utføres på
-motorer som er representative for motortypen
-eller eventuelt for den representative motoren
-i motorfamilien som skal godkjennes.
-Uten hensyn til første ledd kan produsenten etter avtale med godkjenningsmyndigheten velge en motor som selv om den ikke er
+25\) Kommisjonen bør vedta verdensomspennende harmoniserte prøvingssykluser i prøvingsmetodene som danner grunnlaget for utslippsreglene ved EU-typegodkjenning. Det bør også vurderes å bruke bærbare utslippsmålesystemer til å overvåke de faktiske utslippene ved bruk.
+
+26\) For å håndtere faktiske utslipp ved bruk og forberede samsvarsprosessen for motorer i bruk bør det innenfor en passende frist vedtas en prøvingsmetode for å overvåke at prestasjonskravene for utslipp overholdes, basert på bruk av bærbare utslippsmålesystemer.
+
+27\) Det er avgjørende for å overholde de fastsatte grensene for utslipp av forurensende stoffer at systemet for etterbehandling av eksos fungerer riktig, særlig når det gjelder NO<sub>x</sub>. I denne sammenheng bør det innføres tiltak for å sikre riktig drift av systemer for etterbehandling av eksos som bygger på bruk av reagenser som forbrukes eller ikke kan gjenvinnes.
+
+28\) Bærbare brannpumper er avgjørende i visse typer nødssituasjoner der vannforsyning via vannledninger ikke er tilgjengelig. Monteringen av systemer for etterbehandling av eksos fra motorer til slike maskiner vil imidlertid øke vekten og driftstemperaturen deres i den grad at det vil være farlig for operatøren, og de vil være umulige å bære for hånd. Bærbare brannpumper bør derfor ikke omfattes av denne forordnings virkeområde.
+
+29\) Endringer av en motor, for eksempel inaktivering av systemet for etterbehandling av eksos eller økning av motoreffekten, kan få alvorlige konsekvenser for motorens utslippsytelse og holdbarhet. Juridiske personer som utfører slike endringer, bør derfor ha ansvaret for å sikre at de gjeldende utslippsgrensene overholdes.
+
+30\) Det bør være tillatt å bringe motorer i omsetning i medlemsstatene når de er omfattet av og overholder de nye reglene for utslippsgrenser og framgangsmåter for EU-typegodkjenning som er fastsatt i denne forordning. Slike motorer bør ikke være omfattet av andre nasjonale utslippskrav med hensyn til at de bringes i omsetning. Dette bør ikke berøre medlemsstatenes rett til å oppmuntre til eller begrense bruken av motorer som allerede er brakt i omsetning, forutsatt at kriteriene som anvendes, ikke innebærer forskjellsbehandling og er objektivt begrunnet. Medlemsstater som gir EU-typegodkjenning, bør treffe kontrolltiltak for å sikre at motorer som produseres i henhold til framgangsmåter for EU-typegodkjenning, kan identifiseres.
+
+31\) Motorer som er beregnet på eksport, og som skal brukes av væpnede styrker, bør ikke være omfattet av utslippsgrensene fastsatt i denne forordning. Merking bør likevel kreves i visse tilfeller for å kunne skille slike motorer fra motorer som er omfattet av disse utslippsgrensene.
+
+32\) For å ta hensyn til logistiske forsyningsbegrensninger og gi mulighet for produksjon i henhold til JIT-prinsippet («Just In Time») samt unngå unødvendige kostnader og administrative byrder bør en produsent med samtykke fra produsenten av det originale utstyret («OEM-produsenten») kunne levere en motor atskilt fra systemet for etterbehandling av eksos.
+
+33\) Noen ikke-veigående mobile maskiner brukes under ekstreme forhold som innebærer risiko for liv og helse eller er omfattet av svært utfordrende tekniske krav. Med tanke på disse særlige omstendighetene og det forholdsvis lave antallet motorer til slike ikke-veigående mobile maskiner bør det gis visse unntak fra utslippsgrensene som er fastsatt i denne forordning, for motorer som skal brukes i potensielt eksplosjonsfarlige omgivelser og i kjøretøyer for utsetting av livbåter.
+
+34\) For at produsentene skal kunne gjøre feltforsøk som er en naturlig del av motorens utviklingsprosess, bør det være tillatt å bringe motorer som ikke er EU-godkjent på det aktuelle tidspunktet, i midlertidig omsetning. Unntak som gjør det mulig å bringe motorer i midlertidig omsetning med sikte på feltforsøk av prototyper, bør også være tillatt.
+
+35\) For å ta hensyn til langsiktige prosjekter i jernbanesektoren som krever betydelige investeringer, bør det i samsvar med europaparlaments- og rådsdirektiv 2008/57/EF[^11] gis unntak for motorer som inngår i prosjekter som ble igangsatt før denne forordnings anvendelsesdato, og som er langt framskredne.
+
+36\) Det er viktig ikke å hindre teknisk nyskaping når det gjelder utslippsytelsen for motorer til ikke-veigående mobile maskiner med krav som for øyeblikket ikke er fastsatt i eksisterende administrative framgangsmåter for typegodkjenning. Det er derfor nødvendig å fastsette visse unntak og regler for motorer som omfatter ny teknologi eller bygger på nye prinsipper.
+
+37\) OEM-produsenter som produserer et begrenset antall enheter per år, står overfor alvorlige utfordringer når de skal endre maskinparkens utforming innenfor standardovergangsperioden. Disse produsentene er vanligvis små og mellomstore bedrifter («SMB-er») som har begrenset teknisk kapasitet og ofte innhenter opplysninger om motorer på framtidige trinn senere enn andre OEM-produsenter. Dette gjelder særlig produsenter av jordbruksmaskiner som produserer et begrenset antall enheter per år, og som vil stå overfor en alvorlig strukturell utfordring ved overgangen til utslippsgrensene i trinn V. Det er derfor nødvendig å fastsette særlige regler for slike tilfeller.
+
+38\) Det bør være tillatt å bringe i omsetning motorer som skal erstatte motorer som allerede er montert i ikke-veigående mobile maskiner, og som overholder mindre strenge utslippsgrenser enn dem som er fastsatt i denne forordning, for å gjøre det mulig for produsentene å oppfylle sine garantiforpliktelser og sikre tilstrekkelig tilgang til slike motorer på markedet.
+
+39\) I henhold til gjeldende beregninger må et stort antall bredsporede lokomotiver skiftes mellom 2016 og 2025. Lokomotiver med høyeffektsmotor som egner seg for jernbanenett med sporvidde på 1 520 mm, er ikke tilgjengelige på unionsmarkedet. Skreddersydde løsninger vil i betydelig grad øke kostnadene ved et nytt lokomotiv og vil hindre jernbaneoperatørene i å fornye lokomotivparken. De tekniske og økonomiske begrensningene ved jernbanenettet med en sporvidde på 1 520 mm bør tas i betraktning i framgangsmåtene for EU-typegodkjenning. For å lette og framskynde en mer miljøvennlig jernbanesektor i de berørte medlemsstatene og fremme bruken av den beste teknologien som for øyeblikket finnes på markedet, bør det gis et midlertidig unntak fra visse krav for disse lokomotivene på jernbanenettet. Et slikt unntak kan gjøre det mulig å redusere jernbanetrafikkens miljøvirkning.
+
+40\) Bomullsproduksjon i Unionen er begrenset til svært få medlemsstater. På grunn av de høye kostnadene til nye innhøstingsmaskiner for bomull, og for å unngå en ekstra finansiell byrde på bomullsproduksjonssektoren som vil utgjøre en ytterligere trussel mot den økonomiske levedyktigheten, bør markedsdeltakerne få tilgang til et bredt spekter av brukte innhøstingsmaskiner for bomull. Derfor bør medlemsstatene i et begrenset tidsrom ha mulighet til å anvende nasjonal lovgivning på motorer som er montert i slike maskiner.
+
+41\) Når det gjelder markedstilsyn, bør denne forordning medføre forpliktelser for nasjonale myndigheter som er mer spesifikke enn de tilsvarende forpliktelsene fastsatt i europaparlaments- og rådsforordning (EF) nr. 765/2008[^12].
+
+42\) For å sikre at framgangsmåten for overvåking av produksjonssamsvar, som er en av hjørnesteinene i EU-typegodkjenningsordningen, er riktig iverksatt og fungerer godt, bør produsentene kontrolleres jevnlig av den utpekte vedkommende myndighet eller en kvalifisert teknisk instans som er utpekt for dette formålet.
+
+43\) Unionen er avtalepart i UN-ECEs overenskomst om fastsettelse av ensartede tekniske krav til kjøretøyer med hjul, og til utstyr og deler som kan monteres og/eller benyttes på kjøretøyer med hjul, samt vilkår for gjensidig anerkjennelse av godkjenning gitt på grunnlag av disse krav (revidert overenskomst av 1958). Som følge av dette bør godkjenning gitt i henhold til UN-ECE-reglementene og endringene av disse som Unionen har stemt for, eller som Unionen har tiltrådt i henhold til rådsbeslutning 97/836/EF[^13], anerkjennes som likeverdige med EU-typegodkjenning gitt i henhold til denne forordning. For å sikre sammenheng og samordning mellom Unionens og UN-ECEs regelverk bør Kommisjonen derfor gis myndighet til å vedta delegerte rettsakter for å fastsette hvilke UN-ECE-reglementer som får anvendelse på EU-typegodkjenning.
+
+44\) For å utfylle denne forordning med ytterligere tekniske opplysninger bør myndigheten til å vedta rettsakter i samsvar med artikkel 290 i traktaten om Den europeiske unions virkemåte delegeres til Kommisjonen med hensyn til overvåking av utslippsytelse ved bruk, framgangsmåter for teknisk prøving og måling, produksjonssamsvar, atskilt levering av systemer for etterbehandling av eksos fra motorer, motorer til prøving i felt, motorer til bruk i eksplosjonsfarlige omgivelser, likeverdighet for EU-typegodkjenning av motorer, informasjon til OEM-produsenter og sluttbrukere samt standarder for og vurdering av tekniske instanser. Det er særlig viktig at Kommisjonen holder hensiktsmessige samråd under sitt forberedende arbeid, herunder på ekspertnivå, og at disse samrådene gjennomføres i samsvar med prinsippene fastsatt i den tverrinstitusjonelle avtalen av 13. april 2016 om bedre regelverksutforming[^14]. Særlig bør Europaparlamentet og Rådet for å sikre lik deltakelse i utarbeidingen av delegerte rettsakter motta alle dokumenter samtidig som medlemsstatenes sakkyndige, og de sakkyndige bør ha systematisk adgang til møter i Kommisjonens ekspertgrupper der det arbeides med å utarbeide delegerte rettsakter.
+
+45\) For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen gis gjennomføringsmyndighet. Denne myndigheten bør utøves i samsvar med europaparlaments- og rådsforordning (EU) nr. 182/2011[^15].
+
+46\) Medlemsstatene bør fastsette regler for sanksjoner som skal anvendes ved overtredelser av denne forordning, og sikre at de gjennomføres. Sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.
+
+47\) For å ta hensyn til den løpende tekniske utviklingen og de siste resultatene innen forskning og nyskaping bør det fastslås hvilke muligheter som finnes for ytterligere å redusere utslipp av forurensende stoffer fra motorer som allerede er montert i ikke-veigående mobile maskiner. I denne vurderingen bør det fokuseres på de motorkategoriene som for første gang er omfattet av denne forordnings virkeområde, og på de kategoriene der utslippsgrenseverdiene forblir uendret i henhold til denne forordning.
+
+48\) De spesifikke grenseverdiene, prøvingsmetodene og kravene til utslipp av forurensende stoffer som er fastsatt i denne forordning, bør også få anvendelse på motorer til jordbruks- og skogbrukstraktorer som er omfattet av forordning (EU) nr. 167/2013. Som følge av den kombinerte virkningen av utsettelsen av trinn IV for traktorer i gruppe T2, T4.1 og C2 og anvendelsesdatoene i trinn V vil trinn IV få svært kort varighet med hensyn til effektområde 56–130 kW. For å unngå ineffektivitet og en unødvendig byrde bør datoen for den obligatoriske EU-typegodkjenningen i trinn IV utsettes med ett år og den fleksible mengden økes i hensiktsmessig grad. Dessuten bør overgangsbestemmelsene i denne forordning med hensyn til anvendelseskravene i trinn V få anvendelse også på motorer i trinn III B. Forordning (EU) nr. 167/2013 og delegert kommisjonsforordning (EU) 2015/96[^16] bør derfor endres.
+
+49\) Av hensyn til klarhet, forutsigbarhet, praktiske årsaker og forenkling, og for å redusere byrden for produsenter av motorer og ikke-veigående mobile maskiner, bør denne forordning inneholde bare et begrenset antall gjennomføringsstadier for innføring av nye utslippsnivåer og framgangsmåter for EU-typegodkjenning. Det er viktig at kravene fastsettes i god tid, slik at produsentene rekker å utvikle, prøve ut og gjennomføre tekniske løsninger for motorer som serieproduseres, og slik at produsenter og godkjenningsmyndigheter rekker å innføre nødvendige administrative ordninger.
+
+50\) Direktiv 97/68/EF er blitt betydelig endret flere ganger. Av hensyn til klarhet, forutsigbarhet, praktiske årsaker og forenkling bør dette direktiv oppheves og erstattes med en forordning og et begrenset antall delegerte rettsakter og gjennomføringsrettsakter. Vedtakelsen av en forordning sikrer at bestemmelsene kommer direkte til anvendelse, særlig på produsenter, godkjenningsmyndigheter og tekniske instanser, og at de kan endres mye raskere og mer effektivt, slik at det kan tas bedre hensyn til den tekniske utviklingen.
+
+51\) Direktiv 97/68/EF bør derfor oppheves med virkning fra en dato som gir industrien tilstrekkelig tid til å tilpasse seg til denne forordning og de tekniske spesifikasjonene og administrative bestemmelsene som skal fastsettes i de delegerte rettsaktene og gjennomføringsrettsaktene som vedtas i henhold til denne forordning.
+
+52\) Direktiv 97/68/EF gir ikke fritak for motorer til ikke-veigående mobile maskiner som skal brukes i eksplosjonsfarlige omgivelser. For å ta hensyn til de strenge tekniske kravene som er avgjørende for driftssikkerheten til slike motorer, bør direktiv 97/68/EF endres, slik at det kan gjøres unntak for slike motorer til nevnte direktiv oppheves.
+
+53\) Utvekslingen av data og opplysninger om EU-typegodkjenning må forbedres, slik at denne forordning kan anvendes effektivt og raskt. Det bør derfor fastsettes at de nasjonale myndigheter skal samarbeide effektivt med hverandre og med Kommisjonen og utveksle data og opplysninger om EU-typegodkjenning ved hjelp av informasjonssystemet for det indre marked («IMI») som fastsatt i europaparlaments- og rådsforordning (EU) nr. 1024/2012[^17]. For å lette gjennomføringen av denne forordning bør det opprettes en modul i IMI som er særlig tilpasset ikke-veigående mobile maskiner. Det bør også være mulig for produsenter og tekniske instanser å bruke IMI til å utveksle data og opplysninger om motorer til ikke-veigående mobile maskiner.
+
+54\) Ettersom målene for denne forordning, som er å fastsette harmoniserte regler for administrative og tekniske krav til utslippsgrenser for og framgangsmåter for EU-typegodkjenning av motorer til ikke-veigående mobile maskiner, ikke kan nås i tilstrekkelig grad av medlemsstatene, men på grunn av deres omfang og virkninger bedre kan nås på unionsplan, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.
+
+VEDTATT DENNE FORORDNING:
+
+Kapittel I
+
+Formål, virkeområde og definisjoner
+
+Artikkel 1
+
+Formål
+
+1\. I denne forordning fastsettes utslippsgrenser for forurensende gasser og partikler samt administrative og tekniske krav til EU-typegodkjenning av alle motorer som er nevnt i artikkel 2 nr. 1.
+
+I denne forordning fastsettes også visse forpliktelser i forbindelse med ikke-veigående mobile maskiner der en motor som er nevnt i artikkel 2 nr. 1, monteres eller er montert, når det gjelder utslippsgrensene for forurensende gasser og partikler fra slike motorer.
+
+2\. I denne forordning fastsettes også kravene til markedstilsyn for motorer nevnt i artikkel 2 nr. 1 som er montert i eller skal monteres i ikke-veigående mobile maskiner, og som er omfattet av EU-typegodkjenning.
+
+Artikkel 2
+
+Virkeområde
+
+1\. Denne forordning får anvendelse på alle motorer som hører inn under kategoriene angitt i artikkel 4 nr. 1, og som er montert i eller skal monteres i ikke-veigående mobile maskiner, og når det gjelder utslippsgrensene for forurensende gasser og partikler fra disse motorene, på slike ikke-veigående mobile maskiner.
+
+2\. Denne forordning får ikke anvendelse på motorer beregnet på
+
+a\) framdrift av kjøretøyer nevnt i artikkel 2 nr. 1 i europaparlaments- og rådsdirektiv 2007/46/EF[^18],
+
+b\) framdrift av jordbruks- og skogbrukstraktorer som definert i artikkel 3 nr. 8 i forordning (EU) nr. 167/2013,
+
+c\) framdrift av kjøretøyer som nevnt i artikkel 2 nr. 1 i europaparlaments- og rådsforordning (EU) nr. 168/2013[^19],
+
+d\) stasjonære maskiner,
+
+e\) sjøgående fartøyer som krever et gyldig navigasjons- eller sikkerhetssertifikat,
+
+f\) fartøyer som definert i europaparlaments- og rådsdirektiv (EU) 2016/1629[^20] som ikke er omfattet av direktivets virkeområde,
+
+g\) framdrift av eller hjelpefunksjoner for fartøyer for fart på innlands vannveier med en nettoeffekt på mindre enn 19 kW,
+
+h\) fartøyer som definert i artikkel 3 nr. 1 i europaparlaments- og rådsdirektiv 2013/53/EU[^21],
+
+i\) luftfartøy som definert i artikkel 2 bokstav a) i kommisjonsforordning (EU) nr. 1321/2014[^22],
+
+j\) kjøretøyer til fritidsbruk, unntatt snøscootere, terrenggående kjøretøyer og side-ved-side-kjøretøyer,
+
+k\) kjøretøyer og maskiner som utelukkende brukes eller er beregnet på å brukes i konkurranser,
+
+l\) bærbare brannpumper som er definert i og omfattet av den europeiske standarden for bærbare brannpumper[^23],
+
+m\) modeller i redusert målestokk eller kopier i redusert målestokk av kjøretøyer eller maskiner som produseres til fritidsbruk i mindre målestokk enn originalen, og som har en nettoeffekt på mindre enn 19 kW.
+
+Artikkel 3
+
+Definisjoner
+
+I denne forordning menes med
+
+1\) «ikke-veigående mobil maskin» en mobil maskin, transportabelt utstyr eller kjøretøy med eller uten karosseri eller hjul som ikke er beregnet på transport av passasjerer eller gods på vei, og som omfatter maskiner montert på understellet på kjøretøyer som er beregnet på transport av passasjerer eller gods på vei,
+
+2\) «EU-typegodkjenning» framgangsmåten der en godkjenningsmyndighet erklærer at en motortype eller en motorfamilie overholder relevante administrative bestemmelser og tekniske krav i denne forordning,
+
+3\) «forurensende gasser» følgende forurensende stoffer i gassform som slippes ut av en motor: karbonmonoksid (CO), samlet mengde hydrokarboner (HC) og nitrogenoksider (NO<sub>x</sub>), idet NO<sub>x</sub> er nitrogenmonoksid (NO) og nitrogendioksid (NO<sub>2</sub>), uttrykt som NO<sub>2</sub>-ekvivalenter,
+
+4\) «partikler» eller «PM» massen av ethvert materiale i gassen som slippes ut av en motor, og som samles opp på et fastsatt filtermateriale etter at gassen er fortynnet med ren, filtrert luft slik at temperaturen ikke overstiger 325 K (52 °C),
+
+5\) «partikkelantall» eller «PN» antall faste partikler som slippes ut av en motor med en diameter på over 23 nm,
+
+6\) «forurensende partikler» ethvert materiale som slippes ut av en motor og måles som PM eller PN,
+
+7\) «forbrenningsmotor» eller «motor» enhver energiomformer, unntatt en gassturbin, som er utformet for å omforme kjemisk energi (inngående) til mekanisk energi (utgående) ved en indre forbrenningsprosess. Den omfatter, dersom disse er montert, utslippskontrollsystemet og kommunikasjonsgrensesnittet (maskinvare og meldinger) mellom motorens elektroniske styreenhet(er) og andre styreenheter for framdriftssystemer eller ikke-veigående mobile maskiner som er nødvendige for å overholde bestemmelsene i kapittel II og III,
+
+8\) «motortype» en gruppe motorer som ikke skiller seg fra hverandre når det gjelder vesentlige egenskaper,
+
+9\) «motorfamilie» produsentens gruppering av motortyper som gjennom sin konstruksjon har lignende egenskaper med hensyn til eksosutslipp og overholder gjeldende utslippsgrenseverdier,
+
+10\) «representativ motor» en motortype som er utvalgt fra en motorfamilie på en slik måte at utslippsegenskapene er representative for motorfamilien,
+
+11\) «reservemotor» en motor som
+
+a\) utelukkende brukes til å erstatte en motor som allerede er brakt i omsetning og montert i en ikke-veigående mobil maskin, og
+
+b\) er i samsvar med et utslippstrinn som er lavere enn trinnet som gjelder på datoen da motoren skiftes ut,
+
+12\) «motor i bruk» en motor som er i bruk i ikke-veigående mobile maskiner med normale kjøremønstre, driftsforhold og nyttelaster, og som benyttes til å utføre prøvingene for overvåking av utslipp som er nevnt i artikkel 19,
+
+13\) «motor med kompresjonstenning» en motor som fungerer etter kompresjonstenningsprinsippet,
+
+14\) «motor med elektrisk tenning» en motor som fungerer etter gnisttenningsprinsippet,
+
+15\) «motor med elektrisk tenning til håndholdt maskin» en motor med elektrisk tenning som har en referanseeffekt på mindre enn 19 kW, og som brukes i utstyr som oppfyller minst ett av følgende vilkår:
+
+a\) Operatøren bærer det hele tiden når det benyttes til å utføre oppgaven(e) det er beregnet på.
+
+b\) Det brukes i flere posisjoner, for eksempel opp ned eller sidelengs, for å utføre oppgaven(e) det er beregnet på.
+
+c\) Tørrvekten, medregnet motoren, er mindre enn 20 kg, og det oppfyller minst ett av følgende vilkår:
+
+i\) Operatøren støtter utstyret fysisk eller bærer det hele tiden når det benyttes til å utføre oppgaven(e) det er beregnet på.
+
+ii\) Operatøren støtter utstyret fysisk eller styrer det hele tiden når det benyttes til å utføre oppgaven(e) det er beregnet på.
+
+iii\) Det brukes i en generator eller en pumpe,
+
+16\) «flytende drivstoff» et drivstoff som finnes i flytende form ved standardomgivelser (298 K, absolutt omgivelsestrykk 101,3 kPa),
+
+17\) «gassformig drivstoff» et drivstoff som er helt gassformig ved standardomgivelser (298 K, absolutt omgivelsestrykk 101,3 kPa),
+
+18\) «dobbeltdrivstoffmotor» en motor som er utformet for samtidig drift med et flytende drivstoff og et gassformig drivstoff, der begge drivstoffene måles separat, og der den forbrukte mengden av et av drivstoffene i forhold til det andre kan variere avhengig av driften,
+
+19\) «enkeltdrivstoffmotor» en motor som ikke er en dobbeltdrivstoffmotor,
+
+20\) «gassenergifaktor» (GER), for en dobbeltdrivstoffmotor, forholdet mellom energiinnholdet i det gassformige drivstoffet og energiinnholdet i begge drivstoffene. Når det gjelder en enkeltdrivstoffmotor, defineres GER som enten 1 eller 0 avhengig av drivstofftypen,
+
+21\) «motor med konstant turtall» en motor der EU-typegodkjenningen er begrenset til drift med konstant turtall, unntatt der motorens turtallsregulator for konstant turtall er fjernet eller deaktivert. Den kan ha et tomgangsturtall som kan brukes når motoren startes eller stanses, og den kan være utstyrt med en turtallsregulator som kan innstilles på et alternativt turtall når motoren er stanset,
+
+22\) «motor med variabelt turtall» en motor som ikke er en motor med konstant turtall,
+
+23\) «drift med konstant turtall» drift av en motor med en turtallsregulator som automatisk kontrollerer brukerens behov for å opprettholde motorturtallet, selv når belastningen varierer,
+
+24\) «hjelpemotor» en motor som er montert eller skal monteres i en ikke-veigående mobil maskin som verken direkte eller indirekte gir framdrift,
+
+25\) «nettoeffekt» motoreffekten i kW som oppnås i en prøvingsbenk ved enden av veivakselen eller tilsvarende del, målt i samsvar med metoden for måling av effekten til forbrenningsmotorer som er definert i UN-ECE-reglement nr. 120, ved hjelp av et referansedrivstoff eller en drivstoffkombinasjon som angitt i artikkel 25 nr. 2,
+
+26\) «referanseeffekt» den nettoeffekten som brukes til å bestemme motorens gjeldende utslippsgrenseverdier,
+
+27\) «nominell nettoeffekt» motorens nettoeffekt i kW som angitt av produsenten ved nominelt turtall,
+
+28\) «største nettoeffekt» den høyeste verdien av nettoeffekten på den nominelle effektkurven for full belastning for motortypen,
+
+29\) «nominelt turtall» det største turtallet ved full belastning som en motors turtallsregulator tillater, slik den er konstruert av produsenten, eller dersom det ikke finnes en turtallsregulator, turtallet der motoren når den høyeste nettoeffekten, slik den er angitt av produsenten,
+
+30\) «motorens produksjonsdato» datoen, uttrykt som måneden og året, da motoren gjennomgår den siste kontrollen etter at den har forlatt produksjonslinjen og er klar til å leveres eller settes på lager,
+
+31\) «overgangsperiode» de første 24 måneder etter datoene angitt i vedlegg III for å bringe trinn V-motorer i omsetning,
+
+32\) «overgangsmotor» en motor med produksjonsdato før datoene angitt i vedlegg III for å bringe trinn V-motorer i omsetning, og som
+
+a\) overholder de seneste gjeldende utslippsgrensene som er fastsatt i det relevante regelverket som gjaldt 5. oktober 2016, eller
+
+b\) hører inn under et effektområde, eller som brukes eller er beregnet på å brukes i en innretning som ikke var omfattet av utslippsgrenser for forurensende stoffer og typegodkjenning på unionsplan 5. oktober 2016,
+
+33\) «produksjonsdato for ikke-veigående mobil maskin» måneden og året som er angitt på maskinens lovfestede merking, eller dersom det mangler lovfestet merking, måneden og året da den gjennomgår den siste kontrollen etter at den har forlatt produksjonslinjen,
+
+34\) «fartøy for fart på innlands vannveier» et fartøy som er omfattet av virkeområdet for direktiv (EU) 2016/1629,
+
+35\) «aggregat» en uavhengig ikke-veigående mobil maskin som ikke er en del av et framdriftssystem og først og fremst er beregnet på å produsere elektrisk kraft,
+
+36\) «stasjonær maskin» en maskin som er beregnet på å være montert permanent på ett sted når den tas i bruk og ikke er beregnet på å bli flyttet, på vei eller på annen måte, unntatt under transport fra produksjonsstedet til det første installasjonsstedet,

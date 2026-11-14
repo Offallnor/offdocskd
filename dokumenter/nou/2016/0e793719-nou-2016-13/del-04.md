@@ -1,992 +1,212 @@
-# NOU 2016: 13, del 4 av 16 (side 45–54)
+# NOU 2016: 13, del 4 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2016/0e793719-nou-2016-13.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2016-13/id2510437/
 - Original-PDF: https://www.regjeringen.no/contentassets/3f93bdb31a5942fba104512d4a3b8f00/no/pdfs/nou201620160013000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 45]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-rett. Dette har særlig vært i fokus i forbindelse
-med helserettigheter, se blant annet pasientrettighetsloven,7 abortloven,8 bioteknologiloven9 og lov
-om rituell omskjæring av gutter.10 Også andre rettigheter og interesser kan være av betydning, se
-nærmere i punkt 6.9.
-
-6.1.3
-
-Internasjonale menneskerettigheter,
-EU/EØS-retten og forholdet til norsk
-rett
-Det følger av Grunnloven § 92 at statens myndigheter skal respektere og sikre menneskerettighetene. Menneskerettsloven av 199911 § 2 gjør noen
-sentrale internasjonale konvensjoner til norsk
-rett. De opplistede konvensjonene skal gis forrang
-framfor motstridende norsk lov, jf. menneskerettsloven § 3. Av størst betydning for utvalget er FNkonvensjonen om sivile og politiske rettigheter av
-1966 (SP),12 FN-konvensjonen om økonomiske,
-sosiale og kulturelle rettigheter av 1966 (ØSK),13
-Den europeiske menneskerettskonvensjon av
-1950 (EMK)14 og FNs kvinnekonvensjon fra 1979
-(KDK).15 For øvrige menneskerettskonvensjoner
-som Norge er bundet av, slik som Den reviderte
-europeiske sosialpakt fra 1996 (ESP eller Sosialpakten)16 og ILO-konvensjonen om diskriminering fra 1958,17 gjelder det folkerettslige presumsjonsprinsippet: Norsk rett tolkes slik at den i
-størst mulig grad samsvarer med folkeretten.
-Ulike menneskerettslige instrumenter stiller
-ulike krav til statene om å respektere, fremme
-eller sikre menneskerettighetene. I utgangspunktet vil kravene til statene om å respektere rettighe7
-
-Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter
-(pasient- og brukerrettighetsloven).
-8
-Lov 13. juni 1975 nr. 50 om svangerskapsavbrudd (abortloven).
-9
-Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av
-bioteknologi m.m. (bioteknologiloven).
-10
-Lov 20. juni 2014 nr. 40 om rituell omskjæring av gutter.
-11
-Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven).
-12
-De forente nasjoners internasjonale konvensjon 16. desember 1966 om sivile og politiske rettigheter (FN-SP).
-13
-De forente nasjoners internasjonale konvensjon 16. desember 1966 om økonomiske, sosiale og kulturelle rettigheter
-(FN-ØSK).
-14
-Europarådets konvensjon 4. november 1950 om beskyttelse av menneskerettighetene og de grunnleggende friheter (EMK).
-15
-De forente nasjoners internasjonale konvensjon 18. desember 1979 om avskaffelse av alle former for diskriminering
-av kvinner.
-16
-Den reviderte europeiske sosialpakten av 1996: CETS No.
-163.
-17
-ILO-konvensjon 111: om diskriminering i sysselsetting og
-yrke, 1958.
-
-45
-
-Kapittel 6
-
-tene, i kraft av å være lovgiver, forvaltningsmyndighet eller offentlig arbeidsgiver, være mer
-omfattende enn kravene om å sikre de samme rettighetene på det private arbeidsmarkedet. Likevel
-understreker EMD i Eweida-dommen at prinsippene for statenes negative og positive plikter er
-likeartede. Det må uansett foretas en rimelig
-avveining av individets og samfunnets interesser,
-og ved denne avveiningen har statene et visst
-handlingsrom18.
-Ikke bare konvensjonenes tekst vil ha betydning, men også praksis fra organene som overvåker konvensjonene. Ofte vil konvensjonsorganenes praksis utvikles og endres over tid. Et eksempel på dette er Den europeiske menneskerettsdomstols (EMD) uttalelse om at konvensjonen er
-«a living instrument which (…) must be interpreted in the light of present-day conditions.»19 At
-konvensjonen nå forstås på en måte, utelukker
-med andre ord ikke at domstolen ved neste mulighet kommer til at konvensjonen må tolkes annerledes, i lys av endrede samfunnsforhold.
-Den
-europeiske
-menneskerettsdomstols
-avgjørelser er bindende for statene. Andre organers avgjørelser eller uttalelser vil ikke være
-direkte bindende, men kan likevel ha betydelig
-rettskildemessig vekt.20 Presumpsjonsprinsippet
-tilsier også at ikke-inkorporerte konvensjoner har
-betydning. For eksempel har Høyesterett lagt
-vekt på praksis fra Ekspertkomiteen for den europeiske sosialpakt (ECSR) ved tolkningen av norsk
-rett.21
-EUs charter om grunnleggende rettigheter22
-inneholder bestemmelser om så vel sivile og politiske som økonomiske, sosiale og kulturelle rettigheter, herunder samvittighets- og religionsfrihet,23 rett til arbeid og til valg av yrke, likhet for
-loven og forbud mot diskriminering. Charteret ble
-gjort bindende i 2009, og har i prinsippet samme
-status som traktatene. Det er ikke tatt inn i EØSavtalen, og Norge er dermed ikke forpliktet til å
-gjennomføre charteret. Men ettersom det utgjør
-en rettskilde ved tolking av annen EU-rett, her18
-19
-20
-21
-22
-23
-
-EMD (2013) avsnitt 84.
-EMD (1976).
-Se blant andre Ulfstein (2012) og Rt. 2008 s. 1764.
-Se blant annet Rt. 2001 s. 1413, s. 1428.
-EUs charter om grunnleggende rettigheter av 1. desember
-2009, 2012/C 326/02.
-Charterets artikkel 10 om tanke-, samvittighets- og religionsfriheten inneholder en bestemmelse om at man anerkjenner retten til «conscientious objection (…) in accordance with the national laws governing the exercise of this
-right.» Ut fra andre språkversjoner enn den engelske synes
-dette imidlertid å ta sikte på retten til å nekte militærtjeneste.
-
-[Side 46]
-
-46
-
-Kapittel 6
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-under likebehandlings- og ikke-diskrimineringsdirektivene, kan det likevel indirekte få betydning
-for tolkning av norsk lovgivning som gjennomfører EU-retten.
-Norsk rett skal, på EØS-rettens område, tolkes
-i samsvar med EU- og EØS-retten. Dette følger
-blant annet av EØS-avtalens artikkel 6 og Overvåkings- og domstolavtalens artikkel 3. Så vel EUdomstolens og EFTA-domstolens avgjørelser om
-for eksempel diskrimineringsforbud er relevante
-for tolkningen av norsk rett.24 En norsk lov som
-gjennomfører en EØS-rettsakt, for eksempel et
-direktiv om likebehandling, skal i tilfelle motstrid
-gå foran en intern norsk regulering, se EØS-loven
-§ 2.25
-
-6.1.4
-Plan for den videre framstillingen
-De rettslige rammene for å kunne reservere seg
-kan være forskjellige ettersom den som ønsker å
-reservere seg er arbeidstaker, selvstendig
-næringsdrivende eller arbeidsledig. En arbeidstaker er underlagt arbeidsgivers styringsrett og plikter å vise lojalitet overfor arbeidsgiver, men
-arbeidsgiver har samtidig relativt omfattende
-omsorgs- og tilretteleggingsplikter overfor
-arbeidstaker. De arbeidsrettslige rammene for
-reservasjonsrett tas opp i punkt 6.2.
-Selvstendig næringsdrivende vil i utgangspunktet kunne velge hvilke oppdrag de vil påta seg.
-Likevel kan det ligge begrensninger i vilkår for å
-drive næringsvirksomhet (for eksempel at et apotek må føre visse varer) eller i oppdragsavtaler
-(for eksempel at fastleger må tilby visse tjenester). Spesielle spørsmål som vedrører selvstendig
-næringsdrivende tas opp i punkt 6.3.26
-En arbeidssøker som ønsker dagpenger under
-arbeidsledighet er i en noe annen stilling. Det er i
-utgangspunktet et vilkår for denne trygdeytelsen
-at han eller hun er villig til å søke og ta imot
-ethvert arbeid. Samtidig vil det være praktisk
-umulig å søke på enhver ledig stilling, det vil altså
-uansett måtte gjøres et utvalg. Samvittighetsspørsmål kan likevel oppstå hvor arbeidssøker på forhånd erklærer at det er visse typer stillinger han
-eller hun ikke er villig til å søke på, eller hvor
-arbeidssøker får tilbud om arbeid hvor det er
-24
-
-Se for eksempel Rt. 2013 s. 258 avsnitt 94 og Rt. 2012 s. 219
-avsnitt 46.
-25
-Lov 27. november 1992 nr. 109 om gjennomføring i norsk
-rett av hoveddelen i avtale om Det europeiske økonomiske
-samarbeidsområde (EØS) m.v. (EØS-loven).
-26
-Det generelle strafferettslige diskrimineringsforbudet,
-som gjelder både for arbeidstakere og selvstendig næringsdrivende, tas opp i punkt 6.6.4.
-
-visse arbeidsoppgaver han eller hun har reservasjoner mot. Dessuten kan slike spørsmål oppstå
-hvor arbeidssøker ikke har fått aksept for reservasjonsønsker i sitt tidligere arbeidsforhold, og derfor har valgt å slutte eller er blitt oppsagt. I slike
-situasjoner vil det rettslige utgangspunktet være
-at dagpengene suspenderes for en viss periode. I
-punkt 6.4 tar utvalget opp forholdet mellom samvittighetsreservasjon og vilkårene for dagpenger
-under arbeidsledighet.
-Utvalget vil deretter gå inn på mer generelle
-prinsipper som kan få betydning for utøvelse av
-reservasjonsrett i arbeidslivet. Her vil samvittighets-, religions- og livssynsfriheten slik denne følger av internasjonale konvensjoner og norsk rett
-bli omtalt, se punkt 6.5. Her tar utvalget også opp
-adgangen til å gjøre inngrep i livssynsfriheten. I
-punkt 6.6–6.8 drøftes vernet mot diskriminering.
-Først gis en generell oversikt over diskrimineringsvernet etter internasjonale menneskerettskonvensjoner, EU/EØS-retten og norsk rett, se
-punkt 6.6. Deretter, i punkt 6.7, drøftes diskrimineringsforbud som vern for den som ønsker å reservere seg. I punkt 6.8 tar utvalget opp likebehandlingshensyn og diskrimineringsforbud som grunnlag for å begrense arbeidstakers reservasjonsrett. I
-punkt 6.9 drøftes andres rettigheter (utenom likebehandling) som grunnlag for begrensninger i en
-arbeidstakers eller yrkesutøvers reservasjonsadgang.
-En oversikt over eksplisitte norske lov- og forskriftsbestemmelser om reservasjonsrett gis i
-punkt 6.10, mens etiske retningslinjer presenteres
-i punkt 6.11. I punkt 6.12 gis en oversikt over rettstilstanden i noen utvalgte land.
-
-6.2
-
-6.2.1
-
-Arbeidsforholdet som ramme for
-arbeidstakers arbeidsplikt og
-reservasjonsrett
-
-Arbeidsgivers styringsrett og arbeidstakers arbeids- og lojalitetsplikt
-Et arbeidsforhold innebærer at en arbeidsgiver og
-en arbeidstaker inngår en arbeidsavtale som medfører at arbeidstaker skal stille sin arbeidskraft til
-disposisjon for arbeidsgiver mot et vederlag.
-Arbeidsavtalen er ikke en ordinær kontrakt. Både
-det som leveres, arbeidsytelsen, og omstendighetene rundt gjør at den skiller seg fra andre kontrakter. Arbeidsgiver står i utgangspunktet fritt til
-å ansette hvem han eller hun vil, og til å diktere
-innholdet i kontrakten. Arbeidstakeren er gjerne
-avhengig av denne kontrakten for å kunne tjene til
-livets opphold. Arbeidskontrakten er dermed ikke
-
-[Side 47]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-inngått mellom jevnbyrdige parter, og arbeidstakeren setter seg i et underordningsforhold ved å
-inngå en arbeidskontrakt. En arbeidskontrakt er
-også ufullstendig ved at den ikke detaljregulerer
-et arbeidsforhold, men bare skisserer noen
-hovedtrekk og rammer for arbeidsforholdet.27
-Arbeidsgiveren har rett til ensidig å fastsette
-bestemmelser som er bindende for arbeidstakeren. Det innebærer at arbeidsgiveren kan pålegge
-arbeidstakeren å utføre oppgaver som faller
-innenfor arbeidsforholdet. Dette er bedre kjent
-som arbeidsgivers styringsrett. Styringsretten kan
-defineres som arbeidsgivers rett «til å organisere,
-lede og fordele arbeidet, og til å ansette og si opp
-arbeidstakere.»28 Styringsretten er imidlertid
-ikke ubegrenset.
-I Rt. 2000 s. 1602, Nøkk-dommen, uttalte Høyesterett følgende om styringsretten:
-Arbeidsgiveren har i henhold til styringsretten
-rett til å organisere, lede, kontrollere og fordele
-arbeidet, men dette må skje innenfor rammen
-av det arbeidsforhold som er inngått. Ved tolkingen og utfyllingen av arbeidsavtalen må det
-blant annet legges vekt på stillingsbetegnelse,
-omstendighetene rundt ansettelsen, sedvaner i
-bransjen, praksis i det aktuelle arbeidsforhold
-og hva som finnes rimelig i lys av samfunnsutviklingen.
-Høyesteretts uttalelse knytter seg til tolkningen
-og utfyllingen av arbeidsavtalen, og de retningslinjene Høyesterett la til grunn i denne dommen er
-avgjørende for å avgjøre hvilke arbeidsoppgaver
-som faller inn under arbeidsforholdet. I utvalgets
-mandat er det presisert at utvalget skal se på
-«arbeidsoppgaver som pålegges innenfor arbeidsavtalens/oppdragets ramme.» Det er altså en forutsetning at arbeidsoppgaven, etter en slik tolkning, faller innenfor arbeidsforholdets rammer.
-Mer interessant for utvalget er styringsrettens grenser utover det som følger av at det må være innenfor arbeidsforholdet.
-Styringsretten er begrenset av lovgivning og
-avtaler. Det innebærer at dersom det for eksempel
-vil være i strid med EMK artikkel 9 å pålegge en
-arbeidstaker å utføre en arbeidsoppgave, vil
-arbeidsgiver heller ikke kunne gjøre det i kraft av
-styringsretten. Styringsretten kan således beteg-
-
-nes som en «restkompetanse» innenfor de rammene som følger av lovgivning og avtaler.29
-I Rt. 2001 s. 418, Kårstø-dommen, uttalte Høyesterett at:
-Styringsretten begrenses imidlertid også av
-mer allmenne saklighetsnormer. Utøvelsen av
-arbeidsgivers styringsrett stiller visse krav til
-saksbehandlingen, det må foreligge et forsvarlig grunnlag for avgjørelsen, som ikke må være
-vilkårlig, eller basert på utenforliggende hensyn.
-Høyesterett la altså her til grunn at det gjelder et
-saklighetskrav ved utøvelsen av styringsretten.
-Det er uklart hvorvidt dette saklighetskravet, i tillegg til krav til saksbehandlingen, også gir anvisning på en rimelighetsvurdering som åpner for en
-avveining av arbeidsgivers og arbeidstakers
-interesser.30 Det kan uavhengig av dette, hevdes
-at en slik rimelighetsvurdering uansett følger av
-«alminnelig avtalerett – herunder den gjensidige
-lojalitetsplikt i arbeidsforhold og avtl. § 36 – at
-arbeidsavtalen kan tolkes og utfylles med rimelighetsvurderinger».31 Dette spørsmålet er ikke
-avklart, men i denne sammenhengen er det tilstrekkelig å si at rekkevidden av arbeidsgivers
-styringsrett kan begrenses av rimelighetsvurderinger.
-I forarbeidene til arbeidsmiljøloven uttalte
-departementet at det er antatt at grensene for
-arbeidsgivers styringsrett vil være de samme
-enten man er ansatt i privat, kommunal eller statlig sektor.32
-Arbeidsforholdet innebærer i tillegg til
-arbeidsplikten også en mer generell lojalitetsplikt
-for arbeidstaker. Arbeidstaker plikter å slutte lojalt
-opp om arbeidsgivers interesser, og ikke motarbeide disse. Denne lojalitetsplikten kan i enkelte
-tilfeller tale mot en adgang til å reservere seg mot
-bestemte arbeidsoppgaver, særlig der hvor
-arbeidstaker har søkt ansettelse hos en arbeidsgiver som han eller hun er klar over utfører visse
-oppgaver eller leverer visse tjenester som vedkommende ikke ønsker å bidra til. For eksempel
-må en arbeidstaker som velger å ta ansettelse i et
-trossamfunn i utgangspunktet forventes å utføre
-de arbeidsoppgavene som ligger til den konkrete
-stillingen.
-29
-30
-
-27
-28
-
-For mer om dette, se Evju (2010).
-Andersen (1967) s. 149.
-
-47
-
-Kapittel 6
-
-31
-32
-
-Evju (2010).
-Se Evju (2010) s. 42–44.
-Hotvedt og Ulseth (2013) s. 119.
-Ot.prp. nr. 49 (2004–2005) s. 242.
-
-[Side 48]
-
-48
-
-NOU 2016: 13
-
-Kapittel 6
-
-6.2.2
-
-Samvittighetsfrihet i arbeidslivet
-
-Arbeidsgivers omsorgs- og
-tilretteleggingsplikt
-
-Når en arbeidstaker ønsker å reservere seg mot å
-utføre en arbeidsoppgave, oppstår spørsmålet om
-arbeidsgiver har en plikt til å tilrettelegge for
-dette. En tilretteleggingsplikt i denne sammenhengen innebærer at arbeidsforholdet fortsetter,
-men arbeidstaker blir fritatt fra denne oppgaven.
-Det medfører i så fall at andre arbeidstakere må
-overta oppgaver som i utgangspunktet ligger til
-den arbeidstakeren som ønsker å nekte.
-I denne sammenhengen vil arbeidsgivers styringsrett og arbeidstakers lojalitetsplikt ha sitt
-motstykke i en omsorgsplikt for arbeidsgiver. Av
-denne følger også en relativt omfattende plikt for
-arbeidsgiver til å tilrettelegge arbeidet for den
-enkelte arbeidstakers individuelle forutsetninger.
-Arbeidsmiljøloven slår også fast i § 1-1 at et
-grunnleggende formål med loven er «å legge til
-rette for tilpasninger i arbeidsforholdet knyttet til
-den enkelte arbeidstakers forutsetninger og livssituasjon», og «å bidra til et inkluderende arbeidsliv». Dette formålet tilsier blant annet at arbeidstakere med ulikt livssyn eller religiøs overbevisning
-ikke bør utestenges fra arbeidslivet.33 Videre følger det av lovens § 4-2 annet ledd bokstav b at
-arbeidsgiver ved organiseringen av arbeidet skal
-ta hensyn til den enkelte arbeidstakers «arbeidsevne, kyndighet, alder og øvrige forutsetninger».
-Bestemmelsen er et utslag av et generelt arbeidsmiljørettslig prinsipp om at arbeidet skal tilpasses
-mennesket som skal utføre det.34 Arbeidsmiljøloven § 4-3 oppstiller videre et krav om at arbeidet
-legges til rette slik at arbeidstakers «integritet og
-verdighet» ivaretas. Begge disse bestemmelsene
-kan i prinsippet omfatte tilfeller hvor arbeidstaker
-på grunn av samvittighetskvaler ikke kan eller vil
-utføre bestemte arbeidsoppgaver.35 Utvalget er
-ikke kjent med at det er publisert rettspraksis
-knyttet til disse bestemmelsene som gjelder samvittighetsnektelser.
-33
-
-Se også Grunnloven § 110 første ledd første punktum.
-Dette kommer også til uttrykk i ILO-konvensjon 155 (om
-sikkerhet og helse i arbeidsmiljøet, 1981) artikkel 5(b),
-EUs rammedirektiv om arbeidsmiljø (Rådsdirektiv 89/391/
-EØF av 12. juni 1989 om iverksetting av tiltak som forbedrer arbeidstakernes sikkerhet og helse på arbeidsplassen
-(Arbeidsmiljødirektivet) artikkel 6 nr. 2 bokstav d og
-Arbeidstidsdirektivets (Europaparlaments- og Rådsdirektiv 2003/88/EF av 4. november 2003 om visse aspekt ved
-organisering av arbeidstida (Arbeidstidsdirektivet)) fortale avsnitt 11.
-35
-I tillegg hjemler arbeidsmiljøloven med forskrifter rett til
-individuell tilrettelegging, herunder omplassering, på
-andre spesifiserte grunnlag, som sykdom (arbeidsmiljøloven § 4-6) og graviditet (forskrift om utføring av arbeid).
-34
-
-Også andre bestemmelser kan gi grunnlag for
-krav om individuell tilrettelegging, særlig når det
-gjelder arbeidstid og permisjoner. Dels bygger
-disse på brede skjønnsmessig utformede vilkår
-som «sosiale og andre vektige velferdsgrunner»,
-som i prinsippet også kan omfatte religiøse behov,
-se arbeidsmiljøloven § 10-2 fjerde ledd om redusert arbeidstid.
-Arbeidsmiljøloven har ingen bestemmelser
-som gir rett til pauser i løpet av arbeidsdagen for å
-be.36 Loven inneholder heller ikke noen rett til fri
-på religiøse helligdager, men en slik begrenset
-rettighet på inntil to dager per år, følger av lov om
-trudomssamfunn og ymist anna § 27a, se også
-henvisningsbestemmelsen i arbeidsmiljøloven
-§ 12-15. Arbeidstaker har heller ikke noen lovfestet rett til velferdspermisjoner på grunnlag av religion, for eksempel for å dra på pilegrimsreise.
-Dersom tariffavtale eller arbeidsreglement gir
-grunnlag for å innvilge velferdspermisjoner, vil
-dette ofte også omfatte permisjoner på grunnlag
-av religiøse behov. Religiøse praksiser kan også gi
-grunnlag for unntak fra noen ufravikelige arbeidstidsbestemmelser: Arbeidstaker og arbeidsgiver
-kan inngå avtale om søndagsarbeid uten hensyn
-til de alminnelige begrensningene for dette, mot
-at arbeidstaker gis tilsvarende fri på andre dager
-som i henhold til arbeidstakerens religion er
-helge- eller høytidsdager. Det følger av arbeidsmiljøloven § 10-10 femte ledd. For en nærmere gjennomgang av enkelte arbeidstids- og permisjonsrettigheter i forbindelse med religionsutøvelse, se
-nedenfor i punkt 8.9.
-
-6.3
-
-Rammer for selvstendig
-næringsdrivendes reservasjonsrett
-
-Selvstendig næringsdrivende vil ikke på samme
-måte som arbeidstakere stå i et avhengighetsforhold til en arbeidsgiver, og er dermed heller ikke
-underlagt arbeidsgivers styringsrett. Som
-utgangspunkt står dermed selvstendig næringsdrivende fritt til å velge hvilke oppdrag de ønsker
-å påta seg, og de kan således ivareta egen samvittighetsfrihet uten at det nødvendigvis vil gå utover
-andre. Likevel kan begrensninger i avtalefriheten
-følge av diskrimineringsforbud, se punkt 6.6.4.
-Næringslovgivningen kan pålegge næringsdri36
-
-Arbeidsmiljøloven kapittel 12 om permisjoner gir rett til fri
-av visse spesifiserte grunner, blant annet knyttet til graviditet, fødsel, amming og familieforpliktelser; for ivaretakelse
-av offentlige forpliktelser (militærtjeneste, offentlige verv),
-og også delvis knyttet til personlige preferanser (utdanningspermisjon).
-
-[Side 49]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-vende å føre visse typer varer, og annen lovgivning, som for eksempel helselovgivningen kombinert med en oppdragsavtale, kan pålegge
-næringsdrivende å utføre visse typer tjenester.
-Det forhold at en har valgt å drive en spesiell virksomhet kan altså sette grenser for ens mulighet
-for å utøve religion eller livssyn.
-Apotekloven § 5-3 om forhandlingsplikt pålegger apoteker å forhandle alle legemidler som er
-tillatt solgt her i landet.37 Dette inkluderer også
-legemidler som enkelte kan ha samvittighetskvaler mot å omsette, som prevensjonsmidler. En tilsvarende bestemmelse etter fransk rett ble tatt
-opp i Pichon-saken for EMD.38 Saken gjaldt en
-fransk apoteker som av religiøse årsaker ikke
-ønsket å selge prevensjon. EMD la her vekt på at
-salget av prevensjonsmidler var lovlig og at de
-aktuelle produktene bare kunne fås på resept i et
-apotek. Da kunne apotekerne ikke gi forrang til
-egne religiøse synspunkter, og pålegge andre å
-følge disse synspunktene, som grunnlag for å
-nekte å selge produktene. Apotekerne kunne
-utøve sin tro på mange måter utenfor yrkeslivet.
-Enkelte selvstendige næringsdrivende som på
-vegne av det offentlige yter tjenester private har
-rett til, står i en særstilling. Dette gjelder for
-eksempel fastleger og faste forsvarere. Fastleger
-behandles i punkt 6.9.1 om helserettigheter. Faste
-forsvarere behandles i punkt 6.11 om advokater.
-
-6.4
-
-Reservasjonsrett for
-arbeidsledige?
-
-Trygderettslige regler kan sette rammer for
-arbeidslediges rett til trygdeytelser dersom de
-ønsker å reservere seg mot enkelte arbeidsoppgaver. Dagpenger under arbeidsledighet er regulert i folketrygdloven kapittel 4 og er en sosialforsikringsytelse.39 Den som søker ytelsen forutsettes å ha vært i arbeid, og relativt nylig hatt inntekt
-av en viss størrelse.40 Dessuten forutsetter
-ytelsen at dagpengemottaker er blitt arbeidsledig
-uten egen skyld, står til rådighet for arbeidsmarkedet og aktivt søker arbeid, samt tar imot eventuelle arbeidstilbud.41 Dersom den arbeidsledige
-har sluttet i sitt tidligere arbeid eller nekter å søke
-eller ta nytt arbeid «uten rimelig grunn», vil ved-
-
-kommende bli ilagt økonomiske sanksjoner i form
-av minst tolv ukers suspensjon av dagpengene.42
-Hvorvidt det i det enkelte tilfelle har foreligget en
-slik «rimelig grunn» avgjøres av NAV, med muligheter for klage til overordnet forvaltningsorgan og
-videre til Trygderetten og eventuelt domstolene.
-Dersom en arbeidstaker har blitt sagt opp på
-grunn av en samvittighetsnektelse, eller en
-arbeidssøkende på grunn av sin samvittighet har
-takket nei til en jobb, oppstår spørsmålet om samvittighetskvaler kan utgjøre en «rimelig grunn» i
-folketrygdloven § 4-10, slik at retten til dagpenger
-ikke faller bort. NAV har i sitt rundskriv lagt til
-grunn at en arbeidstaker som har «sluttet i
-arbeidsforholdet fordi han/hun ikke fikk tilpasset
-arbeidsavtale forenlig med tro, ønsker eller livssyn» vanskelig kan anses å ha en slik «rimelig
-grunn».43
-Det følger videre av folketrygdloven § 4-5 at
-kravet om å stå til rådighet for arbeidsmarkedet
-gjelder for «ethvert arbeid» som arbeidstakeren
-kan utføre. I praksis gjøres generelle unntak for
-arbeid som strider mot lov eller ærbarhet, blant
-annet prostitusjon og streikebryterarbeid, samt
-individuelle unntak for arbeid som arbeidstakeren
-ikke er fysisk eller psykisk skikket for.44 Individuelle samvittighetsgrunner har etter norsk rett i
-utgangspunktet ikke vært ansett som legitimt
-grunnlag for å avslutte et arbeidsforhold eller
-nekte å søke på en stilling.45
-Selv om plikten til å søke og ta imot arbeid
-etter folketrygden gjelder «ethvert arbeid», er
-Norge bundet av internasjonale trygderettskonvensjoner som definerer en arbeidsledig som en
-som står utenfor arbeidsmarkedet på grunn av
-mangel på «suitable employment»; det vil si «passende» eller «høvelig» arbeid.46 Det vil da være i
-strid med konvensjonene om man ilegger økonomiske sanksjoner for vegring mot å ta arbeid som
-ikke er «suitable». I rapporter til internasjonale
-kontrollorganer har Norge også uttalt at en i praksis følger «suitable employment»-standarden.47 I
-42
-43
-44
-45
-46
-
-37
-
-Lov 2. juni 2000 nr. 39 om apotek (apotekloven).
-EMD (2001).
-39 Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).
-40
-Folketrygdloven § 4-4.
-41
-Folketrygdloven §§ 4-10 og 4-5
-
-49
-
-Kapittel 6
-
-38
-
-47
-
-Folketrygdloven §§ 4-10 og 4-20.
-Arbeids- og velferdsetaten (2013a).
-Arbeids- og velferdsetaten (2013b). Om streikebryterarbeid se Ot.prp. nr. 35 (1995–96) s. 51.
-Se ovennevnte rundskriv.
-Dette gjelder Den europeiske kodeks for sosial sikkerhet
-av 1964: CETS No 048 art. 20, og ILO-konvensjonene 102
-(om minstestandard for sosial sikkerhet, 1952) artikkel 20
-og 168 (om fremme av sysselsetting og vern mot arbeidsledighet, 1988) artikkel 20 og 21.
-Blant annet Norges sjette nasjonale rapport til Den europeiske sosialrettskomité, Arbeids- og inkluderingsdepartementet (2009) s. 33–34. Se også Trygderettens kjennelse
-av 14. oktober 2005, TRR-2005-1289.
-
-[Side 50]
-
-50
-
-NOU 2016: 13
-
-Kapittel 6
-
-Samvittighetsfrihet i arbeidslivet
-
-forbindelse med en konkret sak om en adventist
-som hadde reservert seg mot lørdagsarbeid
-uttalte daværende arbeidsminister Hanne Bjurstrøm i Stortingets spørretime 2011 at «[f]ør det
-ilegges en … sanksjon, må det … gjøres en konkret vurdering av om arbeidet som ble tilbudt kan
-anses som høvelig for arbeidssøkeren og om
-arbeidssøkeren kan ha hatt en rimelig grunn for å
-takke nei til arbeidet.»48 Det er likevel ikke opp til
-den enkelte å avgjøre hva som er «høvelig
-arbeid»; det vil i utgangspunktet avgjøres av
-NAV.49
-I noen avgjørelser fra Trygderetten har retten
-i praksis lagt til grunn at det foreligger en adgang
-til samvittighetsfritak. Trygderettens kjennelse av
-4. september 1998 gjaldt en arbeidssøker som i
-søknadsskjema for dagpenger hadde oppgitt at
-han reserverte seg mot visse typer arbeid. Fylkestrygdekontorets avslag på dagpenger ble omgjort
-at Trygderetten, som uttalte:
-Retten legger til grunn at AP klart har sagt i fra
-at han i utgangspunktet vil ta i mot alle slags
-former for arbeidstilbud. Han har imidlertid
-angitt at han av overbevisningsgrunner ikke
-kan ta visse former for arbeid ut fra sin kristne
-tro. Retten mener at for en personlig kristen vil
-det være vanskelig å ta arbeid som strider mot
-den kristne lære. For eksempel kan man ikke
-kreve at en personlig kristen lege eller sykepleier skal delta i abortinngrep. For personer
-som er imot abort, kan det således ikke anses
-for høvelig arbeid å arbeide ved et informasjonskontor for abortsøkende og de må også
-anses å ha rimelig grunn til å nekte å ta imot
-arbeide ved et slikt informasjonskontor.50
-En arbeidssøker som gir uttrykk for svært omfattende begrensninger når det gjelder hvilke typer
-arbeid vedkommende er villig til å ta, vil derimot
-ikke fylle det generelle kravet om å være «reell
-arbeidssøker», og vil av den grunn ikke ha rett til
-dagpenger.
-
-6.5
-
-Samvittighets-, religions- og
-livssynsfriheten
-
-6.5.1
-
-Menneskerettslige rammer
-
-6.5.1.1 Hva omfatter vernet?
-De internasjonale konvensjonene som Norge har
-ratifisert og er forpliktet til å følge, setter de ytre
-rammene for hvor stor vekt samvittighetsfriheten
-skal ha i Norge. Det er dermed viktig å se på hvor
-disse grensene går for å sikre at vi overholder
-våre internasjonale forpliktelser. Det kan imidlertid være mulig å gå lenger i å vektlegge samvittighetsfriheten enn det som følger av menneskerettskonvensjonene, så lenge dette ikke fører til brudd
-på andres menneskerettigheter. I avveiningen
-mellom kolliderende menneskerettigheter har
-organer som overvåker internasjonale menneskerettskonvensjoner tradisjonelt innvilget statene et
-vidt handlingsrom.51
-Frihet for tanke, samvittighet og overbevisning er beskyttet av flere konvensjoner, blant
-annet FNs konvensjon om sivile og politiske rettigheter, Den europeiske menneskerettskonvensjonen og Barnekonvensjonen.52 Alle disse tar
-utgangspunkt i FNs Verdenserklæring om menneskerettighetene fra 1948. Erklæringen fra 1948
-er, i motsetning til de øvrige nevnte, ikke bindende.53
-For temaet samvittighetsfrihet i arbeidslivet vil
-det være de to førstnevnte konvensjonene, FNs
-konvensjon om sivile og politiske rettigheter og
-Den europeiske menneskerettskonvensjonen,
-som er mest relevante.
-Samvittighetsfriheten er beskyttet av Den
-europeiske menneskerettskonvensjon fra 1950
-(EMK) artikkel 9. I artikkel 9 er retten til tanke-,
-samvittighets- og religionsfrihet nedfelt:
-1. Enhver har rett til tankefrihet, samvittighetsfrihet og religionsfrihet; denne rett omfatter frihet til å skifte religion eller overbevisning, og
-frihet til enten alene eller sammen med andre
-og så vel offentlig som privat å gi uttrykk for sin
-religion eller overbevisning, ved tilbedelse,
-undervisning, praksis og etterlevelse.
-2. Frihet til å gi uttrykk for sin religion eller overbevisning skal bare bli undergitt slike begrens51
-52
-
-48
-
-Arbeidsministeren (2011).
-Blant annet Trygderettens kjennelse av 14. oktober 2005,
-TRR-2005-1598.
-50
-Et annet eksempel er Trygderettens kjennelse av 14. oktober 2005, TRR-2005-1289.
-49
-
-53
-
-EMD (2007b).
-De forente nasjoners konvensjon om barnets rettigheter av
-20. november 1989 (BK).
-I tillegg vil EUs Charter of Fundamental Rights of the European Union artikkel 10 beskytte samvittighetsfriheten. Da
-charteret ikke omfattes av EØS-avtalen, og artikkel 10 korresponderer med EMK artikkel 9, vil utvalget ikke gå nærmere inn på dette.
-
-[Side 51]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-with institutional characteristics or practices
-analogous to those of traditional religions. The
-Committee therefore views with concern any
-tendency to discriminate against any religion
-or belief for any reason, including the fact that
-they are newly established, or represent religious minorities that may be the subject of
-hostility on the part of a predominant religious
-community.56
-
-ninger som er foreskrevet ved lov og er nødvendige i et demokratisk samfunn av hensyn til
-den offentlige trygghet, for å beskytte den
-offentlige orden, helse eller moral, eller for å
-beskytte andres rettigheter og friheter.
-Bestemmelsen er i hovedsak sammenfallende
-med FNs konvensjon om sivile og politiske rettigheter artikkel 18, og bestemmelsene behandles
-derfor sammen i det følgende.
-En arbeidstaker som nekter å utføre en
-arbeidsoppgave kan tenkes å påberope samvittighetsfriheten, men også religions- og livssynsfriheten. Det vil heller ikke alltid være et klart skille
-mellom saker som behandles som spørsmål om
-inngrep i religions- og livssynsfriheten eller samvittighetsfriheten. Praksis fra domstolen tyder på
-at for eksempel saker om militærnekting ofte
-behandles i forbindelse med religion eller overbevisning, selv om de kanskje like gjerne kunne blitt
-behandlet som spørsmål om inngrep i samvittighetsfriheten.54 I det følgende vil dermed fokuset
-være på samvittighetsfriheten sett i sammenheng
-med religions- og livssynsfriheten.
-I sin første dom knyttet til EMK artikkel 9
-understreket Den europeiske menneskerettsdomstolen (EMD) at tanke-, samvittighets- og religionsfriheten er en av grunnsteinene i et demokratisk samfunn i konvensjonens betydning.55 Videre
-uttalte domstolen:
-It is, in its religious dimension, one of the most
-vital elements that go to make up the identity of
-believers and their conception of life, but it is
-also a precious asset for atheists, agnostics,
-sceptics and the unconcerned. The pluralism
-indissociable from a democratic society, which
-has been dearly won over the centuries,
-depends on it.
-Det er ikke noe krav til hva slags eller hvilken religion eller overbevisning man påberoper seg, så
-lenge det naturlig faller inn under bestemmelsens
-ordlyd. FNs menneskerettskomité har uttalt følgende om dette:
-Article 18 protects theistic, non-theistic and
-atheistic beliefs, as well as the right not to profess any religion or belief. The terms «belief»
-and «religion» are to be broadly construed.
-Article 18 is not limited in its application to traditional religions or to religions and beliefs
-54
-
-Høstmælingen (2003) s. 241.
-55
-EMD (1993).
-
-51
-
-Kapittel 6
-
-Komitéen har også uttalt seg om saker om militærnekting, og har sagt at dersom det åpnes for
-militærnekting av samvittighetsgrunner, skal statene ikke gjøre forskjell med hensyn til hva slags
-overbevisningsgrunnlag som kreves for fritak.57
-EMK artikkel 9 verner både religion og tro, noe
-som innebærer at også ikke-religiøse overbevisninger omfattes, se for eksempel Arrowsmith mot
-Storbritannia, hvor pasifisme ble ansett for å bli
-beskyttet av artikkel 9.58
-FNs menneskerettskomité har slått fast at det
-ikke kan gjøres inngrep i tanke- og samvittighetsfriheten eller i retten til å ha eller ta en religion
-eller tro.59 Også EMK artikkel 9 beskytter den
-enkeltes rett til å ha tankefrihet, samvittighetsfrihet og religions- og livssynsfrihet. Den verner
-altså den indre retten til å ha en religion, samvittighet eller overbevisning, også kalt forum
-internum. Forum internum, retten til å ha en samvittighet eller en religion kan ikke begrenses.
-Dette kan blant annet innebære en rett til ikke å gi
-opplysninger om religiøs eller livssynsmessig
-overbevisning. I saken Sinan Isik mot Tyrkia fant
-EMD at det var en krenkelse av retten til å ha en
-religion at det var påkrevd at alle hadde et identitetskort med opplysninger om den enkeltes religiøse tilhørighet.60 I Alexandridis mot Hellas fant
-EMD at det var i strid med religionsfriheten å
-kreve at en advokat skulle erklære seg som ateist
-eller tilhenger av en religion som forbød edsavleggelse for å unngå å måtte avlegge en religiøs ed i
-forbindelse med sin yrkesutøvelse.61
-Artikkel 9 gir også rett til å utøve sin religion
-eller overbevisning; å gi uttrykk for den offentlig
-eller privat «ved tilbedelse, undervisning, praksis
-og etterlevelse». Denne delen av rettigheten kal56
-57
-58
-59
-60
-61
-
-FNs menneskerettskomité (1993) avsnitt 2.
-FNs menneskerettskomité (1993) avsnitt 11.
-EMD (1978).
-FNs menneskrettskomité (1993).
-EMD (2010a).
-EMD (2008a). Se også EMD (1999), hvor et krav om at folkevalgte skulle sverge en religiøs ed, altså gi sin tilslutning
-til en bestemt religion, utgjorde brudd på artikkel 9.
-
-[Side 52]
-
-52
-
-NOU 2016: 13
-
-Kapittel 6
-
-Samvittighetsfrihet i arbeidslivet
-
-les gjerne forum externum, og gjelder bare en persons religion og overbevisning, og altså ikke samvittigheten. Retten til å utøve ens samvittighet er
-med andre ord ikke omfattet av ordlyden i andre
-punktum. Spørsmålet er om dette har noen betydning i praksis.
-Som tidligere nevnt, har EMD tolket religionsog livssynsfriheten vidt, slik at den også omfatter
-for eksempel pasifisme. I mange tilfeller vil
-arbeidstakers utøvelse av samvittighet kunne
-behandles som utøvelse av retten til å ha en religion eller overbevisning, som er omfattet av artikkel 9. Spørsmålet om utøvelse av samvittighetsfrihet burde bli beskyttet på selvstendig grunnlag av
-EMK aktualiserte seg i Eweida, se boks 6.1. Den
-saken som er interessant i denne sammenhengen
-var Ladele, som arbeidet med å registrere ekteskap i et folkeregister, men som nektet å registrere homofile partnerskap. Flertallet behandlet
-dette som et spørsmål om inngrep i Ladeles religionsfrihet, ettersom oppfatningen hennes var nært
-knyttet til hennes kristne livssyn. Etter en konkret
-vurdering kom domstolen til at inngrepet i religionsfriheten hennes var legitimt etter EMK artikkel 9 nr. 2. Et mindretall på to dommere mente
-imidlertid dette dreide seg om samvittighetsfrihet. Ettersom samvittighetsfriheten i EMK artikkel 9 er absolutt, var dette et inngrep som ikke
-kunne forenes med EMK artikkel 9. De uttalte
-blant annet følgende:
-The third applicant’s case is not so much one of
-freedom of religious belief as one of freedom of
-conscience – that is, that no one should be forced to act against one’s conscience or be penalised for refusing to act against one’s conscience. Although freedom of religion and freedom of conscience are dealt with under the
-same Article of the Convention, there is a fundamental difference between the two (…).
-We are of the view that once that a genuine
-and serious case of conscientious objection is
-established, the State is obliged to respect the
-individual’s freedom of conscience, both positively (by taking reasonable and appropriate
-measures to protect the rights of the conscientious objectors) and negatively (by refraining
-from actions which punish the objector or discriminate against him or her).
-Mindretallet ga altså uttrykk for en absolutt rett til
-å handle i tråd med ens samvittighet. Dersom man
-kan vise til at man har utøvd en genuin og alvorlig
-samvittighetsnektelse, kan ikke staten gripe inn
-på noen måte. I arbeidslivet ville dette bety at
-
-enhver genuin samvittighetsnekt er akseptabel,
-uavhengig av om det innebærer diskriminering
-eller på andre måter går utover for eksempel tredjepersons rettigheter. Antakelig må samvittighetsfriheten i EMK artikkel 9 forstås slik at den gir en
-rett til å ha en samvittighet, men ikke en ubegrenset rett til å utøve den. Man kan imidlertid utøve
-sin religion eller overbevisning, men da har staten
-også en rett til å begrense denne retten dersom
-vilkårene i artikkel 9 nr. 2 er oppfylt. I sin doktorgradsavhandling om helsepersonells samvittighetsfrihet i Sverige har Kavot Zillén oppsummert
-samvittighetsfriheten etter EMK artikkel 9 slik:
-Sammanfattningsvis kan sägas att samvetsfriheten i artikel 9 EKMR i praktiken inte tillför
-något särskilt skydd för en enskild att manifestera sin samvetsgrundade värdering, då det
-krävs att manifestationen är grundad på religion eller tro, dvs. faller innom skyddsområdet
-för religionsfriheten. Samvetsfriheten kan följaktligen sägas ha en begränsad självständig
-betydelse och omfattar i princip endast den
-enskildes absoluta rätt att ha en viss samvetsgrundad uppfattning.62
-Praksisen knyttet til EMK artikkel 9 begrenser
-beskyttelsen til oppfatninger med en viss alvor,
-viktighet, sammenheng og styrke («a certain level
-of cogency, seriousness, cohesion and importance»).63 Det er uklart hvor mye og hva som ligger i dette. EMD og Den europeiske menneskerettskommisjonen har gjort det klart at ikke alle
-handlinger som er motivert i eller er inspirert av
-en religion eller overbevisning er beskyttet av
-EMK artikkel 9.64 Spørsmålet blir da ofte ikke om
-et konkret tilfelle utgjør et lovlig inngrep i rettighetene til klageren, men om tilfellet i det hele tatt
-er beskyttet av samvittighets- eller religions- og
-livssynsfriheten.
-I saken Kalac mot Tyrkia var spørsmålet om
-det var i strid med EMK artikkel 9 at en praktiserende muslimsk offiser hadde blitt tvangspensjonert.65 Domstolen la til grunn at tvangspensjoneringen ikke skyldtes at klageren utøvde sin religion, men hans holdninger og oppførsel. Arbeidsgiveren hadde ikke hindret offiseren i å utøve sin
-religion, men tvert imot lagt til rette for at han for
-eksempel kunne be fem ganger om dagen og faste
-under Ramadan. Fordi tvangspensjoneringen
-62
-63
-64
-65
-
-Zillén (2016) s. 138–139.
-EMD (1982).
-Se blant andre EMD (1997).
-EMD (1997).
-
-[Side 53]
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-53
-
-Kapittel 6
-
-Boks 6.1 Eweida-saken
-Storbritannia hadde sikret Eweidas rettigheter
-Den europeiske menneskerettsdomstolen avsa i
-tilstrekkelig etter artikkel 9 og at det dermed
-2013 en dom i saken Eweida og andre mot Storikke hadde skjedd et inngrep i artikkel 9.
-britannia. Saken omhandlet fire klagere som alle
-Mindretallet la særlig vekt på behandlingen av
-mente deres rettigheter etter artikkel 9 var blitt
-saken både lokalt på arbeidsplassen og de nasjokrenket på grunn av arbeidsrelaterte situasjonale domstolenes vurdering. Mindretallet kom
-ner. Saken er svært sentral for utvalgets arbeid.
-også til at det ikke forelå indirekte diskrimineForut for denne dommen hadde domstolens og
-ring på bakgrunn av Eweidas religion.
-kommisjonens utgangspunkt vært at så lenge en
-Chaplin var ansatt som sykepleier og brukte
-arbeidstaker hadde mulighet til å skifte jobb,
-et halskjede med kors på jobb. Etter at sykeville det som utgangspunkt ikke være i strid
-huset innførte nye uniformer ble korset synlig.
-med rettighetene etter EMK artikkel 9 at
-Chaplin ble bedt om å ta av seg korset av hensyn
-arbeidsgiver påla arbeidsoppgaver eller kleskotil helse og sikkerhet, men nektet. Hun ble flytder som var i strid med religion eller overbevistet til en stilling som ikke innebar sykepleie og
-ning. I denne saken modereres dette noe, da
-som siden opphørte. Chaplin mente dette inneEMD slår fast at muligheten for å skifte jobb
-bar et inngrep i hennes rettigheter etter artikkel
-ikke er avgjørende, men er et moment i vurde9, og at det utgjorde diskriminering etter artikringen av om inngrepet er forholdsmessig. Det
-kel 14 sett i sammenheng med artikkel 9.
-kan dermed tyde på at EMD i større grad åpner
-EMD anerkjente at det å bære kors er å gi
-for at arbeidstakere i visse tilfeller skal kunne
-uttrykk for religion, og fant at det å ikke la
-nekte å utføre arbeidsoppgaver på grunn av relihenne bruke korset dermed var et inngrep i
-gion eller overbevisning.
-hennes rettigheter. Ettersom begrunnelsen var
-Eweida jobbet med innsjekking for et privat
-helse og sikkerhet for Chaplin og pasientene og
-flyselskap i Storbritannia. En dag bestemte hun
-at medlemsstatene har en vid skjønnsmargin
-seg for å begynne å bruke et halskjede med kors
-når det kommer til å avveie motstridende rettigåpenlyst som et tegn på sin tro. Dette var i strid
-heter, var inngrepet proporsjonalt. Det var dermed flyselskapets reglement og etter advarsler
-med ikke noe uforholdsmessig inngrep i Chable hun sendt hjem uten lønn. Noen måneder
-plins religionsfrihet ikke å la henne arbeide som
-senere ble flyselskapets reglement endret og
-sykepleier med korset i kjede rundt halsen.
-det ble tillatt å bruke blant annet kors synlig.
-Domstolen slo også fast at det ikke var diskrimiEweida kunne da komme tilbake på jobb, men
-nerende etter artikkel 14 i sammenheng med
-hun fikk ikke erstattet den tapte inntekten for
-artikkel 9.
-månedene hun var hjemme. Dette mente hun
-Ladele jobbet med å registrere fødsler, dødsvar i strid med religionsfriheten hennes.
-fall og ekteskap i et offentlig register. Etter at
-Flertallet i EMD uttalte at det å bruke et
-likekjønnede lovlig fikk inngå partnerskap i
-kors var et uttrykk for religion, og at et inngrep i
-Storbritannia, ble også registrering av slike partdette dermed må være legitimt. Flertallet mente
-nerskap en del av hennes arbeidsoppgaver.
-at de motstridende rettighetene, Eweidas rett til
-Ladele var kristen og mente ekteskapet er ment
-å uttrykke sin religion og arbeidsgiverens ønske
-å være mellom en mann og en kvinne. Hun nekom et visst «image», ikke var rimelig balansert.
-tet derfor å registrere partnerskap. Hennes
-Domstolens flertall la vekt på at korset var disoffentlige arbeidsgiver var pliktig til å arbeide
-kret og at det ikke var dokumentert at bruk av
-for likestilling, og ansvarlig også for ansattes
-for eksempel hijab hadde hatt noen negativ
-handlinger i tjeneste. Ladele ble bedt om å sigbetydning for arbeidsgiverens image. At
-nere en ny kontrakt hvor det framgikk at hun
-arbeidsgiveren i ettertid endret reglementet
-skulle registrere ekteskap, men at hun ikke var
-tydet også på at forbudet ikke var så viktig. Når
-pålagt å holde seremonier. Hun opprettholdt sitt
-det da ikke kunne dokumenteres at Eweidas
-krav om fritak og det endte med at hun ble
-bruk av kors utgjorde noe inngrep i andres retoppsagt. Ladele hevdet seg diskriminert etter
-tigheter, mente flertallet at Storbritannia ikke
-artikkel 14 i kombinasjon med artikkel 9.
-hadde sikret hennes rettigheter etter EMK
-artikkel 9 tilstrekkelig. To dommere mente at
-
-[Side 54]
-
-54
-
-Kapittel 6
-
-NOU 2016: 13
-Samvittighetsfrihet i arbeidslivet
-
-Boks 6.1 forts.
-etter hans mening ga uttrykk for at homoseksuEttersom Ladeles nektelse var direkte motivert
-ell praksis var synd, kunne han ikke gjøre noe
-av hennes religiøse tro, mente flertallet i EMD
-som innebar å gi sin tilslutning til slik aktivitet.
-at det falt innenfor virkeområdet til artikkel 9, og
-Han hadde terapitimer med likekjønnede par,
-artikkel 14 kunne vurderes. Flertallet sa videre
-men hadde problemer når det kom til spørsmål
-at de lokale myndighetenes avgjørelse om å
-rundt sex. McFarlane ble oppsagt fordi arbeidspålegge samtlige ansatte å registrere også partgiveren mente han ikke kunne stole på at
-nerskap satte Ladele i en dårligere posisjon på
-McFarlane ville utføre de arbeidsoppgavene
-grunn av hennes religion. Flertallet måtte da
-som lå til stillingen i tråd med arbeidsgivers
-vurdere hvorvidt denne avgjørelsen hadde et
-uttalte visjoner om likestilling. Disse visjonene
-legitimt formål og om inngrepet var forholdsvar også skriftlig nedfelt. McFarlane mente at
-messig. Flertallet i domstolen la vekt på at det
-dette var et inngrep i hans rettigheter etter artikkreves særlig sterke grunner for å godta forkel 9, og at det også utgjorde diskriminering
-skjellsbehandling på bakgrunn av seksuell legetter artikkel 14 sett i sammenheng med artikning. Arbeidsgiverens avgjørelse bygget på et
-kel 9.
-ønske om likebehandling, som var et legitimt
-McFarlanes nektelse var direkte motivert av
-formål. Selv om konsekvensene for Ladele var
-hans kristne tro, og EMD slo fast at nektelsen
-alvorlige (hun mistet jobben) og hun ikke var
-innebar utøvelse av hans religion. Domstolen sa
-klar over at jobben ville omfatte registrering av
-videre at ettersom han mistet jobben, var konsepartnerskap da hun tok den, kom domstolens
-kvensene for McFarlane alvorlige. Likevel, sa
-flertall til at forskjellsbehandlingen var forholdsdomstolen, hadde McFarlane frivillig videreutmessig. Flertallet la til grunn at staten hadde et
-dannet seg innen seksualrådgivning hos
-vidt handlingsrom når det kom til avveiningen
-arbeidsgiveren samtidig som han var klar over
-av motstridende rettigheter, og at dette var
-at det ville være umulig å fordele klienter på
-innenfor det handlingsrommet. Det var dermed
-bakgrunn av seksuell orientering. Selv om det
-ikke diskriminerende etter artikkel 14 i samikke var avgjørende at han frivillig hadde gått
-menheng med artikkel 9. To dommere mente
-inn i arbeidsforholdet på tross av at det innebar
-imidlertid at situasjonen utgjorde indirekte disforpliktelser i strid med hans religiøse overbekriminering av Ladele på bakgrunn av hennes
-visning, var det et moment i vurderingen.
-samvittighet. De mente at Ladeles samvittighet
-Arbeidsgiverens
-begrunnelse
-for
-sine
-medførte at hun hadde krav på å bli behandlet
-handlinger, var å sikre at tjenestene deres ble tilannerledes enn sine kollegaer, og dermed slippe
-budt uten diskriminering. Staten har et vidt
-å utføre den omstridte oppgaven. Mindretallet la
-handlingsrom i avveiningen av motstridende retsærlig vekt på at oppgaven ikke var kjent for
-tigheter, og EMD mente at Storbritannia ikke
-Ladele da hun tok jobben og at reservasjon
-hadde gått utover dette handlingsrommet i
-kunne skje uten at tredjeparter ville merke det.
-denne saken. Domstolen mente derfor at saken
-Se nærmere om mindretallets syn i punkt
-ikke utgjorde et inngrep i McFarlanes rettighe6.5.1.2.
-ter etter artikkel 9 eller etter artikkel 14 sett i
-McFarlane jobbet som sex- og samlivsterasammenheng med artikkel 9.
-peut. McFarlane var kristen, og fordi Bibelen
-hadde en annen årsak enn religionsutøvelsen,
-utgjorde den ikke noe inngrep i EMK artikkel 9.
-Praksis etter EMK viser også at det stilles et
-krav til sammenheng mellom overbevisningen og
-den aktuelle manifestasjonen. I saken Børre
-Knudsen mot Norge (avvisningsavgjørelse) uttaler Menneskerettskommisjonen at Knudsens nektelse av å utføre den statlige delen av sine embetsplikter «did not actually express the applicant’s
-belief or religious views and it cannot, therefore,
-be considered as such to be protected by Article 9
-
-para. I, even when it was motivated by such views
-or belief.»66 I saken Valsamis mot Hellas kom
-EMD til at krav om at en skolejente som måtte
-delta i en nasjonal parade klagerne mente hadde
-militære overtoner, ikke kunne være så støtende
-for noen med pasifistisk overbevisning at det
-krenket hennes religionsfrihet.67
-66
-67
-
-EMD (1985).
-EMD (1996).
+De internasjonale konvensjonene som Norge har ratifisert og er forpliktet til å følge, setter de ytre rammene for hvor stor vekt samvittighetsfriheten skal ha i Norge. Det er dermed viktig å se på hvor disse grensene går for å sikre at vi overholder våre internasjonale forpliktelser. Det kan imidlertid være mulig å *gå lenger* i å vektlegge samvittighetsfriheten enn det som følger av menneskerettskonvensjonene, så lenge dette ikke fører til brudd på andres menneskerettigheter. I avveiningen mellom kolliderende menneskerettigheter har organer som overvåker internasjonale menneskerettskonvensjoner tradisjonelt innvilget statene et vidt handlingsrom.[^93]
+
+Frihet for tanke, samvittighet og overbevisning er beskyttet av flere konvensjoner, blant annet FNs konvensjon om sivile og politiske rettigheter, Den europeiske menneskerettskonvensjonen og Barnekonvensjonen.[^94] Alle disse tar utgangspunkt i FNs Verdenserklæring om menneskerettighetene fra 1948. Erklæringen fra 1948 er, i motsetning til de øvrige nevnte, ikke bindende.[^95]
+
+For temaet samvittighetsfrihet i arbeidslivet vil det være de to førstnevnte konvensjonene, FNs konvensjon om sivile og politiske rettigheter og Den europeiske menneskerettskonvensjonen, som er mest relevante.
+
+Samvittighetsfriheten er beskyttet av Den europeiske menneskerettskonvensjon fra 1950 (EMK) artikkel 9. I artikkel 9 er retten til tanke-, samvittighets- og religionsfrihet nedfelt:
+
+1.  Enhver har rett til tankefrihet, samvittighetsfrihet og religionsfrihet; denne rett omfatter frihet til å skifte religion eller overbevisning, og frihet til enten alene eller sammen med andre og så vel offentlig som privat å gi uttrykk for sin religion eller overbevisning, ved tilbedelse, undervisning, praksis og etterlevelse.
+
+<!-- -->
+
+1.  Frihet til å gi uttrykk for sin religion eller overbevisning skal bare bli undergitt slike begrensninger som er foreskrevet ved lov og er nødvendige i et demokratisk samfunn av hensyn til den offentlige trygghet, for å beskytte den offentlige orden, helse eller moral, eller for å beskytte andres rettigheter og friheter.
+
+Bestemmelsen er i hovedsak sammenfallende med FNs konvensjon om sivile og politiske rettigheter artikkel 18, og bestemmelsene behandles derfor sammen i det følgende.
+
+En arbeidstaker som nekter å utføre en arbeidsoppgave kan tenkes å påberope samvittighetsfriheten, men også religions- og livssynsfriheten. Det vil heller ikke alltid være et klart skille mellom saker som behandles som spørsmål om inngrep i religions- og livssynsfriheten eller samvittighetsfriheten. Praksis fra domstolen tyder på at for eksempel saker om militærnekting ofte behandles i forbindelse med religion eller overbevisning, selv om de kanskje like gjerne kunne blitt behandlet som spørsmål om inngrep i samvittighetsfriheten.[^96] I det følgende vil dermed fokuset være på samvittighetsfriheten sett i sammenheng med religions- og livssynsfriheten.
+
+I sin første dom knyttet til EMK artikkel 9 understreket Den europeiske menneskerettsdomstolen (EMD) at tanke-, samvittighets- og religionsfriheten er en av grunnsteinene i et demokratisk samfunn i konvensjonens betydning.[^97] Videre uttalte domstolen:
+
+It is, in its religious dimension, one of the most vital elements that go to make up the identity of believers and their conception of life, but it is also a precious asset for atheists, agnostics, sceptics and the unconcerned. The pluralism indissociable from a democratic society, which has been dearly won over the centuries, depends on it.
+
+Det er ikke noe krav til hva slags eller hvilken religion eller overbevisning man påberoper seg, så lenge det naturlig faller inn under bestemmelsens ordlyd. FNs menneskerettskomité har uttalt følgende om dette:
+
+Article 18 protects theistic, non-theistic and atheistic beliefs, as well as the right not to profess any religion or belief. The terms «belief» and «religion» are to be broadly construed. Article 18 is not limited in its application to traditional religions or to religions and beliefs with institutional characteristics or practices analogous to those of traditional religions. The Committee therefore views with concern any tendency to discriminate against any religion or belief for any reason, including the fact that they are newly established, or represent religious minorities that may be the subject of hostility on the part of a predominant religious community.[^98]
+
+Komitéen har også uttalt seg om saker om militærnekting, og har sagt at dersom det åpnes for militærnekting av samvittighetsgrunner, skal statene ikke gjøre forskjell med hensyn til hva slags overbevisningsgrunnlag som kreves for fritak.[^99] EMK artikkel 9 verner både religion og tro, noe som innebærer at også ikke-religiøse overbevisninger omfattes, se for eksempel Arrowsmith mot Storbritannia, hvor pasifisme ble ansett for å bli beskyttet av artikkel 9.[^100]
+
+FNs menneskerettskomité har slått fast at det ikke kan gjøres inngrep i tanke- og samvittighetsfriheten eller i retten til å ha eller ta en religion eller tro.[^101] Også EMK artikkel 9 beskytter den enkeltes rett til *å ha* tankefrihet, samvittighetsfrihet og religions- og livssynsfrihet. Den verner altså den indre retten til å ha en religion, samvittighet eller overbevisning, også kalt *forum internum*. Forum internum, retten til å ha en samvittighet eller en religion kan ikke begrenses. Dette kan blant annet innebære en rett til ikke å gi opplysninger om religiøs eller livssynsmessig overbevisning. I saken Sinan Isik mot Tyrkia fant EMD at det var en krenkelse av retten til å ha en religion at det var påkrevd at alle hadde et identitetskort med opplysninger om den enkeltes religiøse tilhørighet.[^102] I Alexandridis mot Hellas fant EMD at det var i strid med religionsfriheten å kreve at en advokat skulle erklære seg som ateist eller tilhenger av en religion som forbød edsavleggelse for å unngå å måtte avlegge en religiøs ed i forbindelse med sin yrkesutøvelse.[^103]
+
+Artikkel 9 gir også rett til *å* *utøve* sin religion eller overbevisning; å gi uttrykk for den offentlig eller privat «ved tilbedelse, undervisning, praksis og etterlevelse». Denne delen av rettigheten kalles gjerne *forum externum*, og gjelder bare en persons religion og overbevisning, og altså ikke samvittigheten. Retten til å utøve ens samvittighet er med andre ord ikke omfattet av ordlyden i andre punktum. Spørsmålet er om dette har noen betydning i praksis.
+
+1.  **Eweida-saken**
+
+Den europeiske menneskerettsdomstolen avsa i 2013 en dom i saken Eweida og andre mot Storbritannia. Saken omhandlet fire klagere som alle mente deres rettigheter etter artikkel 9 var blitt krenket på grunn av arbeidsrelaterte situasjoner. Saken er svært sentral for utvalgets arbeid. Forut for denne dommen hadde domstolens og kommisjonens utgangspunkt vært at så lenge en arbeidstaker hadde mulighet til å skifte jobb, ville det som utgangspunkt ikke være i strid med rettighetene etter EMK artikkel 9 at arbeidsgiver påla arbeidsoppgaver eller kleskoder som var i strid med religion eller overbevisning. I denne saken modereres dette noe, da EMD slår fast at muligheten for å skifte jobb ikke er avgjørende, men er et moment i vurderingen av om inngrepet er forholdsmessig. Det kan dermed tyde på at EMD i større grad åpner for at arbeidstakere i visse tilfeller skal kunne nekte å utføre arbeidsoppgaver på grunn av religion eller overbevisning.
+
+*Eweida* jobbet med innsjekking for et privat flyselskap i Storbritannia. En dag bestemte hun seg for å begynne å bruke et halskjede med kors åpenlyst som et tegn på sin tro. Dette var i strid med flyselskapets reglement og etter advarsler ble hun sendt hjem uten lønn. Noen måneder senere ble flyselskapets reglement endret og det ble tillatt å bruke blant annet kors synlig. Eweida kunne da komme tilbake på jobb, men hun fikk ikke erstattet den tapte inntekten for månedene hun var hjemme. Dette mente hun var i strid med religionsfriheten hennes.
+
+Flertallet i EMD uttalte at det å bruke et kors var et uttrykk for religion, og at et inngrep i dette dermed må være legitimt. **Flertallet mente at de motstridende rettighetene, Eweidas rett til å uttrykke sin religion og arbeidsgiverens ønske om et visst «image», ikke var rimelig balansert. Domstolens flertall la vekt på at korset var diskret og at det ikke var dokumentert at bruk av for eksempel hijab hadde hatt noen negativ betydning for arbeidsgiverens image. At arbeidsgiveren i ettertid endret reglementet tydet også på at forbudet ikke var så viktig. Når det da ikke kunne dokumenteres at Eweidas bruk av kors utgjorde noe inngrep i andres rettigheter, mente flertallet at Storbritannia ikke hadde sikret hennes rettigheter etter EMK artikkel 9 tilstrekkelig. To dommere mente at Storbritannia hadde sikret Eweidas rettigheter tilstrekkelig etter artikkel 9 og at det dermed ikke hadde skjedd et inngrep i artikkel 9. Mindretallet la særlig vekt på behandlingen av saken både lokalt på arbeidsplassen og de nasjonale domstolenes vurdering. Mindretallet kom også til at det ikke forelå indirekte diskriminering på bakgrunn av Eweidas religion.
+
+*Chaplin* var ansatt som sykepleier og brukte et halskjede med kors på jobb. Etter at sykehuset innførte nye uniformer ble korset synlig. Chaplin ble bedt om å ta av seg korset av hensyn til helse og sikkerhet, men nektet. Hun ble flyttet til en stilling som ikke innebar sykepleie og som siden opphørte. Chaplin mente dette innebar et inngrep i hennes rettigheter etter artikkel 9, og at det utgjorde diskriminering etter artikkel 14 sett i sammenheng med artikkel 9.
+
+EMD anerkjente at det å bære kors er å gi uttrykk for religion, og fant at det å ikke la henne bruke korset dermed var et inngrep i hennes rettigheter. Ettersom begrunnelsen var helse og sikkerhet for Chaplin og pasientene og at medlemsstatene har en vid skjønnsmargin når det kommer til å avveie motstridende rettigheter, var inngrepet proporsjonalt. Det var dermed ikke noe uforholdsmessig inngrep i Chaplins religionsfrihet ikke å la henne arbeide som sykepleier med korset i kjede rundt halsen. Domstolen slo også fast at det ikke var diskriminerende etter artikkel 14 i sammenheng med artikkel 9.
+
+*Ladele* jobbet med å registrere fødsler, dødsfall og ekteskap i et offentlig register. Etter at likekjønnede lovlig fikk inngå partnerskap i Storbritannia, ble også registrering av slike partnerskap en del av hennes arbeidsoppgaver. Ladele var kristen og mente ekteskapet er ment å være mellom en mann og en kvinne. Hun nektet derfor å registrere partnerskap. Hennes offentlige arbeidsgiver var pliktig til å arbeide for likestilling, og ansvarlig også for ansattes handlinger i tjeneste. Ladele ble bedt om å signere en ny kontrakt hvor det framgikk at hun skulle registrere ekteskap, men at hun ikke var pålagt å holde seremonier. Hun opprettholdt sitt krav om fritak og det endte med at hun ble oppsagt. Ladele hevdet seg diskriminert etter artikkel 14 i kombinasjon med artikkel 9.
+
+Ettersom Ladeles nektelse var direkte motivert av hennes religiøse tro, mente flertallet i EMD at det falt innenfor virkeområdet til artikkel 9, og artikkel 14 kunne vurderes. Flertallet sa videre at de lokale myndighetenes avgjørelse om å pålegge samtlige ansatte å registrere også partnerskap satte Ladele i en dårligere posisjon på grunn av hennes religion. Flertallet måtte da vurdere hvorvidt denne avgjørelsen hadde et legitimt formål og om inngrepet var forholdsmessig. Flertallet i domstolen la vekt på at det kreves særlig sterke grunner for å godta forskjellsbehandling på bakgrunn av seksuell legning. Arbeidsgiverens avgjørelse bygget på et ønske om likebehandling, som var et legitimt formål. Selv om konsekvensene for Ladele var alvorlige (hun mistet jobben) og hun ikke var klar over at jobben ville omfatte registrering av partnerskap da hun tok den, kom domstolens flertall til at forskjellsbehandlingen var forholdsmessig. Flertallet la til grunn at staten hadde et vidt handlingsrom når det kom til avveiningen av motstridende rettigheter, og at dette var innenfor det handlingsrommet. Det var dermed ikke diskriminerende etter artikkel 14 i sammenheng med artikkel 9. To dommere mente imidlertid at situasjonen utgjorde indirekte diskriminering av Ladele på bakgrunn av hennes samvittighet. De mente at Ladeles samvittighet medførte at hun hadde krav på å bli behandlet annerledes enn sine kollegaer, og dermed slippe å utføre den omstridte oppgaven. Mindretallet la særlig vekt på at oppgaven ikke var kjent for Ladele da hun tok jobben og at reservasjon kunne skje uten at tredjeparter ville merke det. Se nærmere om mindretallets syn i punkt 6.5.1.2.
+
+*McFarlane* jobbet som sex- og samlivsterapeut. McFarlane var kristen, og fordi Bibelen etter hans mening ga uttrykk for at homoseksuell praksis var synd, kunne han ikke gjøre noe som innebar å gi sin tilslutning til slik aktivitet. Han hadde terapitimer med likekjønnede par, men hadde problemer når det kom til spørsmål rundt sex. McFarlane ble oppsagt fordi arbeidsgiveren mente han ikke kunne stole på at McFarlane ville utføre de arbeidsoppgavene som lå til stillingen i tråd med arbeidsgivers uttalte visjoner om likestilling. Disse visjonene var også skriftlig nedfelt. McFarlane mente at dette var et inngrep i hans rettigheter etter artikkel 9, og at det også utgjorde diskriminering etter artikkel 14 sett i sammenheng med artikkel 9.
+
+McFarlanes nektelse var direkte motivert av hans kristne tro, og EMD slo fast at nektelsen innebar utøvelse av hans religion. Domstolen sa videre at ettersom han mistet jobben, var konsekvensene for McFarlane alvorlige. Likevel, sa domstolen, hadde McFarlane frivillig videreutdannet seg innen seksualrådgivning hos arbeidsgiveren samtidig som han var klar over at det ville være umulig å fordele klienter på bakgrunn av seksuell orientering. Selv om det ikke var avgjørende at han frivillig hadde gått inn i arbeidsforholdet på tross av at det innebar forpliktelser i strid med hans religiøse overbevisning, var det et moment i vurderingen. Arbeidsgiverens begrunnelse for sine handlinger, var å sikre at tjenestene deres ble tilbudt uten diskriminering. Staten har et vidt handlingsrom i avveiningen av motstridende rettigheter, og EMD mente at Storbritannia ikke hadde gått utover dette handlingsrommet i denne saken. Domstolen mente derfor at saken ikke utgjorde et inngrep i McFarlanes rettigheter etter artikkel 9 eller etter artikkel 14 sett i sammenheng med artikkel 9.
+
+**\[Boks slutt\]**
+
+Som tidligere nevnt, har EMD tolket religions- og livssynsfriheten vidt, slik at den også omfatter for eksempel pasifisme. I mange tilfeller vil arbeidstakers utøvelse av samvittighet kunne behandles som utøvelse av retten til å ha en religion eller overbevisning, som er omfattet av artikkel 9. Spørsmålet om utøvelse av samvittighetsfrihet burde bli beskyttet på selvstendig grunnlag av EMK aktualiserte seg i Eweida, se boks 6.1. Den saken som er interessant i denne sammenhengen var Ladele, som arbeidet med å registrere ekteskap i et folkeregister, men som nektet å registrere homofile partnerskap. Flertallet behandlet dette som et spørsmål om inngrep i Ladeles religionsfrihet, ettersom oppfatningen hennes var nært knyttet til hennes kristne livssyn. Etter en konkret vurdering kom domstolen til at inngrepet i religionsfriheten hennes var legitimt etter EMK artikkel 9 nr. 2. Et mindretall på to dommere mente imidlertid dette dreide seg om samvittighetsfrihet. Ettersom samvittighetsfriheten i EMK artikkel 9 er absolutt, var dette et inngrep som ikke kunne forenes med EMK artikkel 9. De uttalte blant annet følgende:
+
+The third applicant’s case is not so much one of freedom of religious belief as one of freedom of conscience – that is, that no one should be forced to act against one’s conscience or be penalised for refusing to act against one’s conscience. Although freedom of religion and freedom of conscience are dealt with under the same Article of the Convention, there is a fundamental difference between the two (…).
+
+We are of the view that once that a genuine and serious case of conscientious objection is established, the State is obliged to respect the individual’s freedom of conscience, both positively (by taking reasonable and appropriate measures to protect the rights of the conscientious objectors) and negatively (by refraining from actions which punish the objector or discriminate against him or her).
+
+Mindretallet ga altså uttrykk for en absolutt rett til å handle i tråd med ens samvittighet. Dersom man kan vise til at man har utøvd en genuin og alvorlig samvittighetsnektelse, kan ikke staten gripe inn på noen måte. I arbeidslivet ville dette bety at enhver genuin samvittighetsnekt er akseptabel, uavhengig av om det innebærer diskriminering eller på andre måter går utover for eksempel tredjepersons rettigheter. Antakelig må samvittighetsfriheten i EMK artikkel 9 forstås slik at den gir en rett til å ha en samvittighet, men ikke en ubegrenset rett til å utøve den. Man kan imidlertid utøve sin religion eller overbevisning, men da har staten også en rett til å begrense denne retten dersom vilkårene i artikkel 9 nr. 2 er oppfylt. I sin doktorgradsavhandling om helsepersonells samvittighetsfrihet i Sverige har Kavot Zillén oppsummert samvittighetsfriheten etter EMK artikkel 9 slik:
+
+Sammanfattningsvis kan sägas att samvetsfriheten i artikel 9 EKMR i praktiken inte tillför något särskilt skydd för en enskild att manifestera sin samvetsgrundade värdering, då det krävs att manifestationen är grundad på religion eller tro, dvs. faller innom skyddsområdet för religionsfriheten. Samvetsfriheten kan följaktligen sägas ha en begränsad självständig betydelse och omfattar i princip endast den enskildes absoluta rätt att ha en viss samvetsgrundad uppfattning.[^104]
+
+Praksisen knyttet til EMK artikkel 9 begrenser beskyttelsen til oppfatninger med en viss alvor, viktighet, sammenheng og styrke («a certain level of cogency, seriousness, cohesion and importance»).[^105] Det er uklart hvor mye og hva som ligger i dette. EMD og Den europeiske menneskerettskommisjonen har gjort det klart at ikke alle handlinger som er motivert i eller er inspirert av en religion eller overbevisning er beskyttet av EMK artikkel 9.[^106] Spørsmålet blir da ofte ikke om et konkret tilfelle utgjør et lovlig inngrep i rettighetene til klageren, men om tilfellet i det hele tatt er beskyttet av samvittighets- eller religions- og livssynsfriheten.
+
+I saken Kalac mot Tyrkia var spørsmålet om det var i strid med EMK artikkel 9 at en praktiserende muslimsk offiser hadde blitt tvangspensjonert.[^107] Domstolen la til grunn at tvangspensjoneringen ikke skyldtes at klageren utøvde sin religion, men hans holdninger og oppførsel. Arbeidsgiveren hadde ikke hindret offiseren i å utøve sin religion, men tvert imot lagt til rette for at han for eksempel kunne be fem ganger om dagen og faste under Ramadan. Fordi tvangspensjoneringen hadde en annen årsak enn religionsutøvelsen, utgjorde den ikke noe inngrep i EMK artikkel 9.
+
+Praksis etter EMK viser også at det stilles et krav til *sammenheng* mellom overbevisningen og den aktuelle manifestasjonen. I saken Børre Knudsen mot Norge (avvisningsavgjørelse) uttaler Menneskerettskommisjonen at Knudsens nektelse av å utføre den statlige delen av sine embetsplikter «did not actually express the applicant’s belief or religious views and it cannot, therefore, be considered as such to be protected by Article 9 para. I, even when it was motivated by such views or belief.»[^108] I saken Valsamis mot Hellas kom EMD til at krav om at en skolejente som måtte delta i en nasjonal parade klagerne mente hadde militære overtoner, ikke kunne være så støtende for noen med pasifistisk overbevisning at det krenket hennes religionsfrihet.[^109]
+
+I andre tilfeller er det stilt mindre strenge krav. I saken Jakóbski mot Polen hevdet en buddhist at det at han ikke fikk tilbud om vegetarisk mat i fengsel utgjorde et inngrep i hans rettigheter etter artikkel 9.[^110] Myndighetene anførte at å være vegetarianer ikke var en religiøs plikt i buddhismen, og at selv strengere grener av buddhismen bare anbefalte dette. EMD tok ikke stilling til disse anførslene, men slo bare fast at å følge regler for diett kan være et uttrykk for religion etter artikkel 9, og vurderte om det var et legitimt inngrep i rettigheten.
+
+I Eweida-saken stilte EMD som vilkår for at en handling skal være et uttrykk for en religion eller overbevisning, at handlingen er «intimately linked» til religionen eller overbevisningen. Videre ga domstolen uttrykk for at hvert enkelt tilfelle måtte vurderes konkret, og at det ikke kan stilles krav om at den enkelte skal godtgjøre at han eller hun utførte handlingen for å oppfylle en religiøs plikt.[^111]
+
+EMD har slått fast at artikkel 9 som hovedregel ikke tillater offentlige myndigheter å overprøve religiøse overbevisningers *legitimitet*:[^112]
+
+The right to freedom of thought, conscience and religion denotes views that attain a certain level of cogency, seriousness, cohesion and importance (…). Provided this is satisfied, the State’s duty of neutrality and impartiality is imcompatible with any power on the State’s part to assess the legitimacy of religious beliefs or the ways in which those beliefs are expressed.[^113]
+
+EMD har gitt uttrykk for at det i utgangspunktet er betenkelig å kreve bevis for at en person har en religiøs overbevisning, se blant annet Kosteski mot Republikken Makedonia.[^114] Likevel kan dette være berettiget hvor arbeidstaker gjør krav på goder som ikke tilkommer alle ansatte. I den aktuelle saken hadde en arbeidstaker vært borte fra jobb på en religiøs helligdag til tross for pålegg om å møte. Som følge av dette ble han ilagt en sanksjon i form av 15 prosent kutt i lønn i tre måneder. EMD sa da at fordi det var tale om et privilegium, nemlig en ekstra fridag, var det ikke urimelig at arbeidsgiveren krevde bevis for å gi dette:
+
+Where the employee then seeks to rely on a particular exemption, it is not oppressive or in fundamental conflict with freedom of conscience to require some level of substantiation when that claim concerns a privilege or entitlement not commonly available and, if that substantiation is not forthcoming, to reach a negative conclusion (see, mutatis mutandis, cases concerning conscientious objection where the authorities may legitimately require strong evidence of genuine religious objections to justify exemption from the civil duty of military service (…)). The applicant however was not prepared to produce any evidence that could substantiate his claims.
+
+I saken hadde klageren ikke bidratt på noen måte til å dokumentere sin tro. EMD mente derfor at i den grad det var et inngrep i hans religionsfrihet, så var det forholdsmessig.
+
+Et mer spesifikt instrument som tar sikte på å verne om samvittighetsfrihet i arbeidslivet, er Europarådets resolusjon om samvittighetsfrihet i helsevesenet.[^115]
+
+I resolusjonen anbefales Europarådets medlemmer å regulere samvittighetsklausuler i helsevesenet. Det følger av artikkel 1 i resolusjonen at ingen personer, sykehus eller institusjon skal tvinges til å medvirke til eller utføre abort, dødshjelp eller noen annen handling som kan forårsake døden for et menneskelig foster eller embryo. Resolusjonen retter seg ikke bare mot helsepersonell, men også mot sykehus og institusjoner.
+
+Resolusjonen er ikke bindende for Europarådets medlemmer. Resolusjoner generelt har som formål å fungere som veiledninger og anbefalinger for medlemslandene.
+
+Denne resolusjonen har vært omstridt, ikke minst på bakgrunn av måten den ble utarbeidet og vedtatt på. Resolusjonen ble opprinnelig initiert for å beskytte kvinners reelle rett til abort også i land hvor motstanden mot abort har vært stor og mange ansatte i helsetjenesten har ønsket å reservere seg. Påtrykk fra abortmotstandere medførte imidlertid at utkastet til resolusjon ble endret, og nå i hovedsak dreier seg om reservasjonsadgang. Resolusjonen ble vedtatt med så knapt flertall at den ikke kunne legges fram som en rekommandasjon.[^116]
+
+1.  *Adgangen til å gjøre inngrep i frihetene*
+
+I EMK artikkel 9 nr. 2 gis staten en mulighet til å gjøre begrensninger i borgernes frihet til å gi uttrykk for sin religion eller overbevisning. Begrensningene kan som nevnt bare gjelde friheten til å *gi uttrykk* for ens religion eller overbevisning, forum externum, og dermed ikke i religions- og livssynsfriheten som sådan, forum internum.
+
+For at et inngrep skal være tillatt etter EMK artikkel 9 nr. 2, må det være «foreskrevet ved lov». Dette er fordi inngrepet skal være forutsigbart og tilgjengelig for den enkelte, slik at han eller hun kan handle deretter. Det er ikke nødvendig at inngrepet er eksplisitt nedfelt i formell lov, men den aktuelle rettstilstanden må være tilstrekkelig klar. Både skrevne og uskrevne rettsregler omfattes, men inngrepet må ha grunnlag i nasjonal rett.[^117] Rettstilstanden må heller ikke gi adgang til vilkårlig forskjellsbehandling.[^118]
+
+Det neste vilkåret er at inngrepet må ha et legitimt formål. Artikkel 9 nr. 2 inneholder en uttømmende oppregning av de formålene som er legitime. Ethvert inngrep i en persons religions-, livssyns- eller samvittighetsfrihet må altså begrunnes i «hensyn til den offentlige trygghet, for å beskytte den offentlige orden, helse eller moral, eller for å beskytte andres rettigheter og friheter».
+
+Det siste vilkåret er at inngrepet må være nødvendig i et demokratisk samfunn. I dette ligger at inngrepet må være nødvendig og proporsjonalt. Dette vil ikke være tilfelle hvor samme virkning vil kunne oppnås på en mindre inngripende måte. I denne siste vurderingen har medlemsstatene fått en relativt vid *nasjonal skjønnsmargin*. Det vil si at EMD lar statene få et handlingsrom når det kommer til å avveie ulike rettigheter og verdier mot hverandre. Dersom EMD kommer til at medlemslandets inngrep i en rettighet er innenfor det handlingsrommet medlemslandet har, betyr det ikke at EMD mener at dette er den mest hensiktsmessige måten å løse en rettighetskonflikt på, bare at den er akseptabel.
+
+Når det kommer til arbeidstakeres religions- og samvittighetsfrihet, synes Den europeiske menneskerettskommisjon lenge å ha tatt det standpunktet at så lenge en hadde muligheten til å skifte jobb, ville det som utgangspunkt ikke være i strid med ens rettigheter etter EMK artikkel 9 at arbeidsgiver påla en arbeidsoppgaver eller kleskoder som var i strid med ens religion eller overbevisning.[^119] EMD har også i Thlimmenos-saken uttalt at retten til å velge et bestemt yrke ikke er vernet av EMK.[^120]
+
+I den nevnte Eweida-saken fra 2013 modereres utgangspunktet noe. I stedet for å si at muligheten for å bytte jobb automatisk fører til at det ikke er et inngrep i rettighetene som følger av EMK artikkel 9, slo domstolen fast at denne muligheten skal tas med i vurderingen av om inngrepet i rettigheten er proporsjonalt. Dette kan tyde på at EMD i større grad åpner for at arbeidstakere skal kunne nekte å utføre oppgaver på grunn av sin religion eller overbevisning. Saken er dermed svært viktig for utvalgets arbeid.
+
+Som det framgår av boks 6.1, omfattet saken fire klagere som alle mente at situasjoner på arbeidsplassen innebar et inngrep i deres rettigheter etter EMK artikkel 9, eventuelt i kombinasjon med diskrimineringsvernet i EMK artikkel 14.
+
+To av klagerne, Eweida og Chaplin, mente det var i strid med deres rettigheter at de ikke fikk lov til å gå med kors på arbeidsplassen. Dette er med andre ord tilfeller som i utgangspunktet ligger på siden av utvalgets mandat. Likevel vil de generelle prinsippene som ble slått fast i Eweida- og Chaplin-sakene, kunne ha overføringsverdi også for samvittighetsnektelser. I Chaplin-saken ble hensynet til pasientenes helse og sikkerhet anerkjent og vektlagt som et saklig formål som kunne begrense de ansattes religionsfrihet. Inngrepet i Chaplins religionsutøvelse var dermed ikke uforholdsmessig. I Eweida-saken ble arbeidsgivers ønske om å framstå på en bestemt måte overfor omverdenen anerkjent som saklig. Konkret fant domstolen likevel at inngrepet var uforholdsmessig, og viste blant annet til verdien for den enkelte til å kommunisere sin overbevisning til andre:
+
+(...) as previously noted, this is a fundamental right: because a healthy democratic society needs to tolerate and sustain pluralism and diversity; but also because of the value to an individual who has made religion a central tenet of his or her life to be able to communicate that belief to others.[^121]
+
+De to siste klagerne ønsket å nekte å utføre arbeidsoppgaver. Den tredje klageren, Ladele, mente seg diskriminert etter artikkel 14 i kombinasjon med artikkel 9, se nærmere omtale av denne saken i punkt 6.7.
+
+Den fjerde klageren, McFarlane, jobbet som samlivsterapeut for et privat selskap. Domstolen vurderte først hvorvidt det var i strid med klagerens religionsfrihet at han mistet jobben fordi han ikke ville forplikte seg klart til å behandle likekjønnede par. Innledningsvis slo EMD fast at holdningen hans var direkte knyttet til hans religiøse tro, og at hans religionsutøvelse som utgangspunkt er beskyttet av artikkel 9. Domstolen vektla at konsekvensen for McFarlane var alvorlig, ettersom han mistet jobben.
+
+I dommen peker EMD også på betydningen av om omstendigheten var noe den aktuelle personen var klar over da han eller hun tok jobben, eller om det var resultat av en senere regulering. Det understrekes at dette ikke er *avgjørende*, men at det er et moment i helhetsvurderingen av om det er proporsjonalt.
+
+Domstolen uttalte videre at dersom formålet med et pålegg er å sikre likestilling/ikke-diskriminering, vil dette være et svært tungtveiende moment, og at statene må ha en vid skjønnsmargin ved avveiningen av motstridende rettigheter. Domstolen kom til at McFarlanes rettigheter etter artikkel 9 ikke var krenket.
+
+1.  **6.5.2 Vern for samvittighets-, religions- og livssynsfrihet etter norsk rett**
+
+Utover gjennomføringen av menneskerettighetene i norsk rett, er ikke *samvittighetsfrihet* direkte regulert. Norge gir dermed som utgangspunkt ikke sine borgere noen større samvittighetsfrihet enn det som følger av de konvensjonene vi er bundet av. Norge har imidlertid noen særreguleringer av samvittighets*nektelser*; *reservasjonsrett* eller -*adgang*, se nærmere behandling av dette emnet i punkt 6.9.
+
+*Religionsfriheten* er gitt grunnlovs rang og framgår av Grunnloven § 16. Bestemmelsen slår fast at «Alle innbyggere i riket har fri religionsutøvelse.» Bestemmelsen omfatter også livssynsfriheten. Den norske kirke betegnes som «Norges folkekirke», selv om den og staten etter grunnlovsendringen i 2012 er blitt selvstendiggjort i forhold til hverandre. Endringen innebar at Den norske kirke i hovedsak ble likestilt med andre tros- og livssynssamfunn.[^122] Det følger også av siste setning i § 16 at «Alle tros- og livssynssamfunn skal understøttes på lik linje».
+
+Religions- og livssynsfriheten presiseres noe i lov om trudomssamfunn og ymist anna. Av lovens § 1 framgår det at «\[a\]lle har rett til å driva religiøs verksemd åleine eller saman med andre, og til å skipa trudomssamfunn når rett og sømd ikkje vert krenkt.» Det framgår av lovens forarbeider at bestemmelsen ikke var ment å ha noen selvstendig rettslig betydning, ettersom religionsfriheten allerede var grunnlovsfestet i Grunnloven § 2 (som nå er flyttet til § 16), men at det ble ansett som naturlig å innlede loven med en slik prinsippbestemmelse.[^123] Bestemmelsen har antakelig noe mindre rekkevidde enn Grunnloven § 16. Grunnloven § 16 gir rett til religionsfrihet, mens lov om trudomssamfunn og ymist anna § 1 kun verner retten til å drive religiøs *virksomhet*, noe som kan bety at det kreves en viss organisering for at bestemmelsen kommer til anvendelse. Nyansene her har mindre betydning, ettersom religions- og livssynsfriheten er grunnlovsfestet gjennom § 16 og er vernet av menneskerettighetene.
+
+Norsk autoritativ rettspraksis som gjelder samvittighetsnektelser er av begrenset omfang.
+
+Rt. 1983 s. 1004, Børre Knudsen-saken, gjaldt en sokneprest som hadde nedlagt den statlige delen av sitt embete i protest mot abortlovens liberalisering av adgangen til abort. Staten reiste avskjedssak og fikk medhold, blant annet på grunnlag av manglende sammenheng mellom Knudsens arbeidsoppgaver og den lovgivning som han fant moralsk problematisk. Høyesterett gir her sin prinsipielle tilslutning til statens anførsler i tilknytning til lagmannsrettens dom:
+
+Staten bestrider ikke at en sokneprest som følge av sitt kirkelige kall vil føle plikt til å motarbeide en lovgivning som finnes å være i strid med sentrale kirkelige læresetninger. Men denne forpliktelse kan etter statens syn ikke gå så langt at han uten konsekvenser for sitt stillingsforhold kan unnlate å oppfylle arbeidsoppgaver som er uten enhver sammenheng med den lovgivning han kjemper mot.
+
+Videre uttaler Høyesterett:
+
+Heller ikke nødrettsargumentasjonen kan føre frem. Jeg minner om at de embetsplikter Knudsen nekter å utføre, ikke er av den karakter at de kan utløse noen samvittighetskonflikt. Nedleggelsen av embetspliktene kan – slik jeg ser det – vanskelig anses som annet enn en demonstrasjonshandling fra hans side, og den har hittil vart i over fire år. Formålet med denne demonstrasjonshandling er å bekjempe en lov som, selv om jeg selvsagt erkjenner at den ikke er kirken uvedkommende, dog ikke griper inn i kirkens indre liv. Kirkens tjenestemenn har full adgang til å ta til orde mot loven, og har for øvrig i stor utstrekning benyttet seg av denne adgang. Det er vel så at slike protesthandlinger som Børre Knudsen har foretatt, kan være et mer effektivt middel til å oppnå oppmerksomhet enn de verbale protester. Men jeg anser det klart at dette ikke gir grunnlag for å anse en slik fraleggelse av embetsplikter som det er tale om, for rettmessig.
+
+En sak for Hålogaland lagmannsrett har også aktualisert spørsmålet om samvittighetsnektelser.[^124] To prester ønsket ikke å stå under tilsyn av biskop Steinholt, som følge av motstridende syn på homofilispørsmålet. De valgte derfor blant annet å delta i den såkalte bispevigslingen av Børre Knudsen i Kautokeino i 1997. Som følge av denne handlingen, som ble ansett som svært illojal, ble det reist avskjedssak mot dem. De to prestene hevdet at deres handlinger var utløst av en samvittighetskonflikt. Sokneprestene mente at å delta i gudstjenestefellesskap med en av biskopene «ville legitimere den vrange lære og medvirke til å føre folk vill». Lagmannsretten fant at prestene selv hadde tatt et endelig brudd med Den norske kirke. Ettersom sokneprestene ved sin atferd hadde brutt ned den fornødne aktelse og tillit for stillingen, var det grunnlag for avskjed. Dommen ble anket til Høyesterett, men anken ble nektet fremmet.[^125]
+
+Rt. 1982 s. 1729, Hoaas-dommen, gjaldt primært ytringsfrihet, men kan illustrere en holdning som også kunne tenkes begrunnet ut fra samvittighet. Dette gjaldt et standpunkt som de fleste vil oppfatte som uakseptabelt. En lektor ved videregående skole var blitt avskjediget på grunn av sine uttalelser i forbindelse med undervisning. Uttalelsene gikk blant annet ut på at jødeforfølgelsene under andre verdenskrig var oppdiktet og at gasskamrene aldri hadde eksistert. Videre uttalte han seg om den germanske rases overlegenhet og farene ved raseblanding. Innledningsvis understreket førstvoterende at dette ikke var et «spørsmål om A har overtrådt grensen for den alminnelige ytringsfrihet, men om hans tjenesteplikter og hans skikkethet som lærer.» Og skikketheten, sa førstvoterende, må «først og fremst, vurderes i forhold til de stillingsforpliktelser som ved lovgivning er pålagt lærertjenesten i de offentlige skoler.» Det ble så vist til dagjeldende formålsparagraf. Videre uttalte Høyesterett:
+
+I vårt samfunn står det enhver fritt til å være enig eller uenig i de mål for undervisningen som her er stilt opp. Men velger man først å ta ansettelse i den videregående skole som lærer, må man i sitt arbeid i skolen være bundet av dem; det er en klar tjenesteplikt å respektere og fremme disse mål i undervisningen. Vil man ikke det, eller kan man det ikke, vil det kunne bety at man ikke er skikket som lærer i skolen.
+
+Det ble understreket at en lærers personlige oppfatning ikke skulle sensureres, men at han ikke kan «drive undervisningen slik at han motvirker de formål som det etter skolelovgivningen er hans plikt å fremme. Heller ikke kan han dosere egne meninger til fortrengsel for pensumgjennomgåelsen etter undervisningsplanen.» Etter en konkret vurdering av de utsagn Hoaas hadde kommet med, og av det faglige grunnlaget han hadde brakt de inn på, kom Høyesterett til at han hadde vist alvorlig svikt, og at det samlet sett forelå grunn for avskjed.
+
+1.  **Vern mot diskriminering – generelt**
+
+    1.  **Innledning – ulike problemstillinger**
+
+Krav om likebehandling og vern mot diskriminering er sentrale menneskerettigheter,[^126] som også kan få betydning for rekkevidden av reservasjonsrett i arbeidsforhold. På den ene siden kan *manglende* reservasjonsrett vurderes som diskriminering på grunn av religion eller livssyn. På den andre siden kan *innvilget* reservasjonsrett eller reservasjonsadgang innebære diskriminering overfor andre arbeidstakere eller overfor tredjepart. Særlig aktuelle diskrimineringsgrunnlag vil her være seksuell orientering og kjønn.
+
+I noen tilfeller vil arbeidstakere eller selvstendig næringsdrivende yrkesutøvere påberope seg multippel diskriminering, særlig som følge av religion og kjønn, eventuelt også etnisitet, dersom de ikke får utøve praksiser som de mener er nødvendige på grunn av religiøse krav, særlig til omgang mellom kjønnene. Arbeidsgiver kan på sin side mene at hensynet til likestilling tilsier at en nettopp *ikke* bør tilrettelegge for praksiser som gjør forskjell på kjønnene i en arbeidssituasjon. Problemstillingen er særlig kommet opp i forbindelse med muslimske kvinners ønske om å bære religiøse hodeplagg på arbeidsplassen, men kan også tenkes påberopt i situasjoner hvor en arbeidstaker av religiøse årsaker vegrer seg mot å arbeide sammen med eller under ledelse av arbeidstakere av motsatt kjønn. Dette illustrerer at det ikke alltid er gitt hva som ligger i et krav om likebehandling.
+
+Prinsippet om ikke-diskriminering er hjemlet i en rekke FN-konvensjoner, i konvensjoner fra FNs arbeidsorganisasjon ILO, og fra Europarådet. I tillegg inneholder EU-retten mange krav om likebehandling, som også er forankret i menneskerettslige idéer. Noen av EU-rettens krav om ikke-diskriminering er EØS-relevante. I andre tilfeller har Norge frivillig valgt å gjennomføre EU-rett på ikke-diskrimineringsområdet.
+
+Diskriminering defineres gjerne som usaklig direkte eller indirekte forskjellsbehandling som kan knyttes til ett eller flere diskrimineringsgrunnlag.[^127] Direkte diskriminering betegner ulik behandling av like tilfeller. Indirekte diskriminering omfatter tilsynelatende lik behandling som i praksis stiller noen grupper dårligere enn andre, hvor dette har sammenheng med et diskrimineringsgrunnlag.[^128]
+
+1.  **6.6.2 Internasjonale menneskerettskonvensjoner**
+
+Prinsippet om ikke-diskriminering er nedfelt i FNs Verdenserklæring om menneskerettighetene av 1948. Det følger av artikkel 2 at «\[e\]nhver \[har\] krav på alle de rettigheter som er nevnt i denne erklæring, uten forskjell av noen art, f. eks. på grunn av rase, farge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, eiendom, fødsel eller annet forhold.» Ifølge artikkel 7 er alle mennesker «like for loven og har uten diskriminering rett til samme beskyttelse av loven. Alle har krav på samme beskyttelse mot diskriminering i strid med denne erklæring og mot enhver oppfordring til slik diskriminering.» Verdenserklæringen er ikke bindende, men er blitt konkretisert gjennom blant annet FN-konvensjonen om sivile og politiske rettigheter og FN-konvensjonen om økonomiske, sosiale og kulturelle rettigheter.
+
+Ofte vil diskrimineringsforbud i enkeltkonvensjoner være «aksessoriske», det vil si at de bare gjelder i forhold til rettigheter som er hjemlet i konvensjonen. Retten til arbeid og til valg av yrke er hjemlet i økonomiske, sosiale og kulturelle menneskerettskonvensjoner. Sivile og politiske menneskerettskonvensjoner inneholder på sin side ingen rett til arbeid eller til valg av yrke. Likevel kan andre av konvensjonenes rettigheter få betydning også i arbeidslivet, for eksempel religions- og livssynsfrihet og retten til privatliv. FN-konvensjonen om sivile og politiske rettigheter artikkel 26 inneholder også et selvstendig krav om likhet for loven.
+
+Diskrimineringsforbudene vil ofte ikke være uttømmende med hensyn til diskrimineringsgrunnlag, men kan også omfatte «other status» eller lignende. Dette innebærer at hva som kan utgjøre et diskrimineringsgrunnlag vil kunne utvikles over tid, noe som særlig har vært tilfelle når det gjelder diskrimineringsgrunnlagene funksjonsnedsettelse og seksuell orientering.
+
+I FN-konvensjonen om økonomiske, sosiale og kulturelle rettigheter fra 1966 (FN-ØSK) artikkel 6 nr. 1 anerkjenner statene «retten til arbeid, som omfatter mulighet for enhver til å tjene sitt levebrød ved arbeid som han har valgt eller godtatt; og skal treffe de nødvendige tiltak for å trygge denne rettighet.» I artikkel 2 nr. 2 forplikter konvensjonspartene seg til å garantere at «de rettigheter som anerkjennes i konvensjonen \[herunder retten til arbeid\], blir utøvet uten forskjellsbehandling av noe slag på grunn av rase, hudfarge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, eiendom, fødsel eller status forøvrig.» Ifølge praksis fra ØSK-komiteen omfatter retten til arbeid, og dermed forbudet mot diskriminering, både selvstendig yrkesutøvelse og avhengig lønnsarbeid.[^129] Selv om bestemmelsen ikke innebærer noen individuell rettighet til å oppnå sysselsetting, må muligheten for arbeid være tilgjengelig for alle, uavhengig av blant annet religion og kjønn.[^130]
+
+Den europeiske sosialpakten, ESP, (1961, revidert 1996) tar også sikte på å fremme retten til arbeid, herunder retten til å tjene til sitt underhold ved et yrke man fritt har valgt, se ESP artikkel 1 nr. 2.[^131] Etter den reviderte sosialpakten artikkel E gjelder et forbud mot diskriminering med hensyn til konvensjonens rettigheter. Diskrimineringsgrunnlagene omfatter eksplisitt religion og kjønn, men artikkel E er ikke uttømmende med hensyn til diskrimineringsgrunner.
+
+Diskrimineringskonvensjonen fra 1958 er en av ILOs kjernekonvensjoner.[^132] Den omfatter diskriminering i arbeid og yrke, jf. artikkel 2. Diskrimineringsgrunnlagene er uttømmende angitt, og omfatter rase, hudfarge, religion, kjønn, politisk oppfatning og nasjonal eller sosial opprinnelse, jf. artikkel 1.
+
+FN-konvensjonen om sivile og politiske rettigheter (FN-SP) inneholder et aksessorisk diskrimineringsforbud med hensyn til konvensjonens rettigheter, artikkel 2 nr. 1, så vel som et selvstendig diskrimineringsforbud i artikkel 26. Begge diskrimineringsforbudene omfatter eksplisitt religion og kjønn, men er ikke uttømmende med hensyn til diskrimineringsgrunnlag.
+
+FNs kvinnekonvensjon (KDK) verner mot diskriminering av kvinner. Konvensjonen slår i artikkel 1 fast at diskrimineringsvernet for kvinner omfatter «enhver forskjellsbehandling, utestengning eller begrensning på grunnlag av kjønn som har som virkning eller formål» at kvinners menneskerettigheter krenkes. Konvensjonen gjelder på alle samfunnsområder. Statene skal iverksette tiltak for å sikre kvinner samme rettigheter som menn, se blant annet artikkel 2.
+
+Den europeiske menneskerettskonvensjon (EMK) omfatter et aksessorisk diskrimineringsforbud med hensyn til konvensjonens rettigheter, se artikkel 14.[^133] Diskrimineringsforbudet omfatter eksplisitt blant annet religion og kjønn, men er ikke uttømmende med hensyn til diskrimineringsgrunner. Forbudet har ingen selvstendig eksistens, men relaterer seg til konvensjonens rettigheter. Bruk av diskrimineringsforbudet forutsetter likevel ikke brudd på andre av konvensjonens bestemmelser: Det er tilstrekkelig at forholdet faller innenfor området av en konvensjonsbestemmelse, for eksempel religionsfrihet i artikkel 9 eller privatliv i artikkel 8.[^134] Dessuten omfatter diskrimineringsforbudet også rettigheter som staten velger å gi, og som faller innenfor en konvensjonsbestemmelses alminnelige rekkevidde.[^135] Diskriminering vil etter domstolens praksis si forskjellsbehandling av personer i sammenlignbare situasjoner uten saklig grunn.[^136] Statene har likevel et visst handlingsrom med hensyn til om det foreligger sammenlignbare situasjoner.[^137]
+
+1.  **6.6.3 EU/EØS-retten**
+
+EUs Charter om grunnleggende rettigheter inneholder en egen del III med tittel likestilling. Blant annet gir artikkel 20 uttrykk for det generelle prinsippet at alle mennesker er like for loven, mens artikkel 21 erklærer at «\[e\]nhver forskelsbehandling på grund af køn, race, farve, etnisk eller social oprindelse, genetiske anlæg, sprog, religion eller tro, politiske eller andre anskuelser, tilhørsforhold til et nationalt mindretal, formueforhold, fødsel, handicap, alder, seksuel orientering eller ethvert andet forhold er forbudt.» Charteret utvider ikke EUs kompetanser, se artikkel 51, og gir i seg selv ikke hjemmel for sekundærregulering.
+
+I medhold av ulike traktatbestemmelser er det vedtatt direktiver om diskriminering, som for eksempel det generelle Rammedirektivet mot diskriminering fra 2000 og Likebehandlingsdirektivet fra 2006 om kjønn.
+
+Rammedirektivet mot diskriminering omfatter blant annet «religion eller tro» og «seksuell orientering».[^138] Direktivet gjelder diskriminering i arbeidsforhold og yrke, jf. artikkel 1.[^139] Personer som rammes av diskriminering på andre samfunnsområder vernes i utgangspunktet ikke av direktivet. Direkte diskriminering omfatter dårligere behandling av en person på ett eller flere av de angitte grunnlag, jf. artikkel 2 nr. 2 bokstav a. Indirekte diskriminering omfatter en formelt nøytral praksis mv. som «vil stille personer med en bestemt religion eller tro (…) eller personer med en bestemt seksuel orientering, særlig ufordelaktigt i forhold til andre personer», jf. artikkel 2 nr. 2 bokstav b. Det foreligger likevel ikke indirekte diskriminering dersom denne praksisen har et saklig formål og virkemidlene er hensiktsmessige og nødvendige. Artikkel 4 nr. 1 gir også adgang til unntak fra hovedregelen om ikke-diskriminering for egenskaper som ut fra den enkelte stillingens karakter utgjør et regulært og nødvendig yrkesmessig krav, det såkalte GOR-unntaket.[^140] Her er vilkårene strenge.
+
+Likestillingsdirektivet (kjønn) fra 2006[^141] gjelder ifølge EØS-avtalens artikkel 6 i arbeidslivet.[^142] Direktivets artikkel 2 nr. 1 definerer direkte og indirekte diskriminering på vesentlig tilsvarende måte som Rammedirektivet.
+
+Diskrimineringsforbudet framgår av artikkel 14. Etter bestemmelsens første ledd gjelder direktivet blant annet tilgang til ansettelse samt ansettelses- og arbeidsvilkår, oppsigelse og lønn. Unntaket for egenskaper som utgjør et regulært og vesentlig yrkesmessig krav til den enkelte stilling, framgår her av artikkel 14 nr. 2. Unntaksadgangen gjelder bare ved ansettelse, denne type ulik behandling er altså ikke tillatt med hensyn til arbeids- og ansettelsesvilkår.
+
+For diskriminering som rammer kvinner utenfor arbeidsforhold kan eventuelt rådsdirektivet om kjønnslikebehandling med hensyn til varer og tjenester være relevant.[^143]
+
+1.  **6.6.4 Norsk rett**
+
+Et forbud mot diskriminering følger som nevnt innledningsvis av den norske Grunnloven § 98. Dette innebærer både et krav om likhet for loven, jf. første ledd, og et krav om at «\[i\]ntet menneske må utsettes for usaklig eller uforholdsmessig forskjellsbehandling», jf. andre ledd. Forbudet nevner ikke noen diskrimineringsgrunnlag eksplisitt, men må klart omfatte så vel religion og livssyn som kjønn og seksuell orientering.
+
+Forbud mot diskriminering følger nå av et knippe lover fra 2013. Av størst betydning for mandatet er diskrimineringsloven om etnisitet (religion), diskrimineringsloven om seksuell orientering og likestillingsloven (kjønn). Forbudene mot diskriminering i disse lovene er parallelt bygd opp. Først slås det fast at diskriminering av de grunnene lovene dekker er forbudt. Deretter presiseres at diskrimineringsforbudene dekker så vel direkte som indirekte diskriminering, og disse begrepene defineres. Endelig slås det fast at forskjellsbehandling som har et saklig formål, er nødvendig for å oppnå formålet, og hvor det er et rimelig forhold mellom det man ønsker å oppnå og hvor inngripende forskjellsbehandlingen er for den eller de som stilles dårligere, er lovlig. Likestillingsloven og diskrimineringslovene har også egne bestemmelser som slår fast at det generelle diskrimineringsforbudet gjelder alle sider av et ansettelsesforhold.[^144]
+
+Lovene gjennomfører blant annet EU-direktivene rammedirektivet mot diskriminering og likestillingsdirektivet i norsk rett, men har et videre anvendelsesområde enn disse direktivene ettersom lovene i prinsippet dekker alle samfunnsområder. Dette innebærer at EU-domstolens praksis om diskriminering i arbeidsforhold ikke nødvendigvis kan overføres til diskriminering som rammer mennesker på andre samfunnsområder.
+
+1.  **Forbud mot religions- og livssynsdiskriminering som grunnlag for reservasjon**
+
+    1.  **Internasjonale menneskerettskonvensjoner**

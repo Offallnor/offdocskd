@@ -1,972 +1,384 @@
-# Prop. 159 L (2024–2025), del 3 av 4 (side 29–39)
+# Prop. 159 L (2024–2025), del 3 av 3
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/cacb58b9-prop-159-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-159-l-20242025/id3109631/
 - Original-PDF: https://www.regjeringen.no/contentassets/2712d310b86d484988b440f10e3941a9/no/pdfs/prp202420250159000dddpdfs.pdf
-- Tekst: hentet fra PDF. Ingen tegn til tabeller eller figurer som kan være lest feil.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 29]
-
-2024–2025
-
-Prop. 159 L
-
-29
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-forbud er å beskytte barnet mot alvorlige krenkelser, som for eksempel tvangsekteskap, vold,
-kjønnslemlestelse eller annen alvorlig omsorgssvikt. Dersom det åpnes for skjønnsbaserte eller
-mangeartede unntak, risikerer man at tiltaket
-mister sin effektivitet og blir vanskelig å håndheve i praksis. Det kan føre til usikkerhet og uforutsigbarhet både for barnevernstjenesten og for
-foreldrene, og gi rom for omgåelser av forbudet.
-Et snevert og tydelig definert unntak sikrer dermed at utreiseforbudet blir et effektivt virkemiddel. Det bidrar til å sikre barnets beskyttelse,
-samtidig som det gir adgang til forsvarlige reiser
-som ikke medfører risiko for barnet. Departementet anser det derfor som forholdsmessig å ha
-et så snevert unntak.
-Et akuttvedtak om utreiseforbud skal være en
-midlertidig løsning. Etter departementets forslag
-skal et slikt vedtak straks etter vedtakelse oversendes til barneverns- og helsenemnda, på
-samme måte som ved andre akuttvedtak, jf.
-barnevernsloven § 14-22. Vedtaket skal falle bort
-dersom en slik begjæring ikke fremmes innen
-seks uker. Som for øvrige akuttvedtak foreslår
-departementet at nemndlederen pålegges en
-plikt til å avgjøre saken snarest, og om mulig
-innen 48 timer etter at nemnda har mottatt den.
-Disse rettsikkerhetsgarantiene sikrer at hovedregelen i barnevernsloven – om at tvangstiltak
-skal forberedes av barnevernstjenesten og
-behandles av barneverns- og helsenemnda –
-følges så snart situasjonen tillater det. En slik
-ordning bidrar også til at et akuttvedtak ikke
-varer lenger enn nødvendig for å avverge den
-umiddelbare faren barnet står overfor. Videre
-sikrer forslaget at det gjennomføres en grundig
-og uavhengig vurdering i nemnda før et eventuelt
-ordinært vedtak treffes.
-Selv om det normalt faller inn under foreldreansvaret å bestemme hvor barnet skal bo, reise og
-oppholde seg, mener departementet at hensynet
-til å beskytte barnet mot skadelige utenlandsopphold veier tyngre enn de negative konsekvensene
-et tidsbegrenset utreiseforbud kan innebære for
-foreldrene og barnet. Etter en samlet helhetsvurdering legger departementet til grunn at lovforslagene om utreiseforbud er «nødvendig i et
-demokratisk samfunn».
-Lovforslagene er derfor ikke i strid med
-Grunnloven § 102 eller EMK artikkel 8.
-
-6.4.2.3 Inngrep i retten til å forlate landet
-Forslagene om utreiseforbud innebærer også et
-inngrep i barns og foreldres rett til å forlate lan-
-
-det, jf. EMK, tilleggsprotokoll 4 artikkel 2 nr. 2 og
-Grunnloven § 106 andre ledd. Bestemmelsene
-fastslår en generell rett for enhver til å forlate
-ethvert land, herunder sitt eget land. Rettigheten
-gjelder i utgangspunktet for alle som oppholder
-seg på statens territorium, uavhengig av statsborgerskap eller formålet med reisen. Etter artikkel 2 nr. 3 kan rettigheten begrenses, dersom det
-har hjemmel i lov, har et legitimt formål og er
-nødvendig i et demokratisk samfunn. Formålet
-med det foreslåtte tiltaket er å verne barn mot
-alvorlig fare for liv eller helse og mot alvorlige
-krenkelser, som for eksempel tvangsekteskap,
-kjønnslemlestelse, vold eller annen alvorlig
-omsorgssvikt. Tiltaket kan dermed forankres i
-flere av de legitime formålene nevnt i artikkel 2
-nr. 3, særlig «forebyggelse av straffbare
-handlinger» og «beskyttelse av helse eller moral
-eller andres rettigheter og friheter» – herunder
-barnets rett til omsorg og beskyttelse.
-Departementet viser til de rettslige utgangspunktene og vurderingene som er gjort ovenfor
-knyttet til forholdsmessighet etter EMK artikkel 8
-nr. 2, se 6.4.2.2. Et utreiseforbud har som formål å
-beskytte barn mot skadelige utenlandsreiser som
-kan utsette barnet for alvorlig omsorgssvikt og
-forhold som kan sette barnets liv eller helse i fare.
-I praksis vil dette ofte gjelde situasjoner der
-barnets fundamentale rettigheter står i fare. Når
-barnet først har reist fra Norge, er det begrenset
-hva norske myndigheter kan gjøre for å avverge
-skaden. Det foreligger derfor et reelt behov for
-beskyttelse før skaden inntreffer. Etter departementets vurdering er et utreiseforbud egnet til å
-oppnå formålet. Tiltaket gir norske myndigheter
-adgang til å gripe inn før skaden oppstår, og har
-en klar forebyggende effekt. I vurderingen av
-nødvendighet og forholdsmessighet etter EMK
-artikkel 8 nr. 2, konkluderer departementet med
-at utreiseforbud framstår som målrettet og
-mindre inngripende virkemiddel enn andre
-eksisterende tiltak, som for eksempel omsorgsovertakelse etter barnevernsloven §§ 4-2 og 5-1.
-Departementet legger til grunn at tiltaket er forholdsmessig. Særlig i akuttsituasjoner, der barnet
-står i umiddelbar fare for å bli ført ut av landet til
-forhold som kan medføre alvorlig fare for barnets
-liv eller helse, mishandling eller annen alvorlig
-omsorgssvikt, er det avgjørende at myndighetene
-har adgang til å reagere raskt og iverksette midlertidig utreiseforbud. Slike inngrep skal imidlertid være forankret i klare lovbestemmelser og
-underlagt betryggende rettssikkerhetsgarantier.
-Vurderingen etter EMK tilleggsprotokoll 4 artikkel 2 nr. 3 er sammenfallende med departe-
-
-[Side 30]
-
-30
-
-Prop. 159 L
-
-2024–2025
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-mentets vurdering etter EMK artikkel 8 nr. 2, se
-6.4.2.2. På denne bakgrunnen legger departementet til grunn at lovforslagene om utreiseforbud er «nødvendig i et demokratisk samfunn».
-Lovforslagene er derfor ikke i strid med EMK, tilleggsprotokoll 4 artikkel 2 nr. 2 og Grunnloven
-§ 106 andre ledd.
-
-6.4.2.4 Indirekte forskjellsbehandling
-Et utreiseforbud kan reise spørsmål om indirekte
-forskjellsbehandling på grunn av nasjonalitet, jf.
-likestillings- og diskrimineringsloven § 6, jf. § 8 jf.
-Grunnloven § 98 andre ledd og EMK artikkel 14.
-Departementets lovforslag er nøytralt utformet,
-og forslaget om utreiseforbud skal gjelde for alle
-barn som har sitt vanlige bosted i Norge og oppholder seg i Norge. Bestemmelsen gjelder uavhengig av barnets og foreldrenes nasjonalitet og
-hvilket land reisen gjelder. Bestemmelsen vil likevel særlig kunne ramme personer med en annen
-bakgrunn enn norsk.
-I vurderingen av om formålet er saklig inngår
-en konkret vurdering av om formålet er legitimt i
-det konkrete tilfellet og om begrunnelsen bygger
-på korrekt faktum. Det følger av kravet til nødvendighet at forskjellsbehandlingen må være
-egnet til å oppnå formålet. Dersom det er andre
-ikke-diskriminerende handlingsalternativer som
-er egnet til å oppnå formålet, og som ikke er
-uforholdsmessig ressurskrevende, vil dette være
-et sterkt argument for at forskjellsbehandlingen
-ikke er nødvendig, se Prop. 81 L (2016–2017)
-punkt 14.2.1 side 118-119. Kravet til forholdsmessighet innebærer en proporsjonalitetsvurdering,
-en avveining mellom mål og middel, og konsekvensene for den eller de som rammes av forskjellsbehandlingen, se Prop. 81 L (2016–2017)
-kapittel 30 side 315.
-Departementet viser til vurderingene som er
-gjort i punkt 6.4.1 og 6.4.2.2 om behovet for en
-tydeligere regel om utreiseforbud, og at det i dette
-punktet vurderes at forbudet har et saklig formål,
-er nødvendig og forholdsmessig. Vurderingen
-baserer seg utelukkende på risikoen i det enkelte
-tilfellet. Departementet understreker samtidig at
-tiltaket ikke bygger på en presumpsjon om at det
-alltid er til barnets beste å bli værende i Norge.
-Det må vurderes konkret.
-Departementet har etter dette kommet til at en
-bestemmelse om utreiseforbud, som foreslått og
-med de rettssikkerhetsgarantier som følger av
-regelverket for øvrig ikke er i strid med forbudet
-mot diskriminering i likestillings- og diskrimineringsloven, EMK og Grunnloven.
-
-6.4.3 EØS-rettslige forpliktelser
-Et vedtak om utreiseforbud utgjør en restriksjon
-på retten til fri personbevegelighet etter EØSavtalen artikkel 28 og på retten til utreise i direktivets artikkel 4. Forslaget om et utreiseforbud må
-derfor vurderes i lys av prinsippet om fri bevegelighet i EØS-retten. For at en restriksjon i bevegelsesfriheten skal være forenlig med EØS-retten,
-må den ha et legitimt formål og oppfylle kravene
-til proporsjonalitet, herunder at tiltaket er nødvendig og egnet. Som påpekt i punkt 6.1.4 kan
-hensynet til «barnets beste» være et slikt legitimt
-formål, og departementet vurderer at regler som
-har til formål å beskytte barn mot skadelige utenlandsopphold anses å ivareta et legitimt formål
-etter EØS-retten.
-Det sentrale vurderingstemaet er om et
-utreiseforbud er egnet til å oppnå et mål om å
-beskytte barn mot skadelige utenlandsopphold,
-og at bestemmelsen ikke går lenger enn nødvendig for å nå dette målet. Etter departementets vurdering er et utreiseforbud egnet til å oppnå målet.
-Når et vedtak om utreiseforbud treffes, skal politiet etter forslaget varsles så snart som mulig, slik
-at det kan nektes å utstede, eller eventuelt tilbakekalle, pass til barnet. Dette bidrar til å forhindre at
-barnet føres ut av landet til forhold som kan medføre alvorlig omsorgssvikt. Tiltaket gir norske
-myndigheter adgang til å gripe inn før skaden
-oppstår, og har en klar forebyggende effekt.
-Det er presisert i barnevernsloven § 1-5 andre
-ledd at barnevernstiltak ikke skal være mer inngripende enn nødvendig. Etter forslaget stilles det
-strenge krav for å kunne treffe vedtak om utreiseforbud. Slik bestemmelsen er foreslått utformet
-kan vedtak om utreiseforbud bare benyttes i alvorlige situasjoner der det ikke finnes andre egnede
-tiltak. Videre skal et utreiseforbud være tidsbegrenset og ikke overstige det som er nødvendig
-for å forhindre den konkrete faren for barnet. Det
-er også adgang til prøving og opphevelse av et
-vedtak om utreiseforbud hvis forholdene i saken
-endrer seg. Hvorvidt barnet kan bli utsatt for forhold som kan lede til utreiseforbud, skal vurderes
-konkret i hver enkelt sak. Det må være konkrete
-holdepunkter i saken som tilsier at utenlandsoppholdet vil medføre alvorlig skade for barnet.
-Det er ikke tilstrekkelig at barnet skal reise til et
-land med en lavere levestandard eller dårligere
-helsetilbud. Bestemmelsen åpner også for at
-barnevernstjenesten kan gi unntak fra utreiseforbudet for enkeltreiser som ikke innebærer noen
-fare for barnet, for eksempel en skoletur. Disse
-rettssikkerhetsgarantiene sørger for at tiltaket blir
-
-[Side 31]
-
-2024–2025
-
-31
-
-Prop. 159 L
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-nøye tilpasset den aktuelle situasjonen og ikke går
-lenger enn nødvendig.
-Det må også foretas en vurdering av hvorvidt
-det finnes alternative, mindre inngripende tiltak
-enn et utreiseforbud for å oppnå det samme formålet. Eksempler på slike tiltak er blant annet
-passnektelse og meldeplikt. Selv om disse i teorien kan bidra til å hindre at barn utsettes for
-skadelige utenlandsopphold, har de vesentlige
-begrensninger. Passnektelse og tilbakekall av
-pass er mindre inngripende enn et utreiseforbud,
-og retter seg direkte mot barnets mulighet til å
-forlate landet. Imidlertid gjelder dette tiltaket kun
-norske pass, og gir derfor ikke tilstrekkelig
-beskyttelse for barn med et annet lands statsborgerskap eller dobbelt statsborgerskap, som
-kan få utstedt pass fra en annen stat. Det er dessuten mulig å reise uten pass innenfor Schengenområdet. Meldeplikt for barnet eller foreldrene
-kan benyttes for å sikre regelmessig kontakt med
-myndighetene, men har begrenset effekt som
-konkret hindring mot utreise. En familie som
-planlegger å ta barnet med til utlandet for et
-skadelig opphold, kan gjennomføre dette mellom
-rapporteringstidspunktene. Meldeplikt forutsetter
-dessuten høy grad av etterlevelse, og har begrenset preventiv effekt i saker hvor det er risiko for at
-tiltaket bevisst omgås.
-Departementet har også vurdert om det er
-nødvendig at adgangen til å treffe utreiseforbud
-skal gjelde reiser innad i EØS-området, eller om
-det er tilstrekkelig at det kan ilegges utreiseforbud for reise fra Norge til et tredjeland. Departementet mener at det skal være adgang også til å
-ilegge utreiseforbud for reiser innad i EØS-området. Dersom bestemmelsen om utreiseforbud
-begrenses til bruk for reiser til tredjeland, mener
-departementet at det foreligger en reell fare for at
-EØS-land i enkelte tilfeller kan benyttes som
-såkalte transittland, hvor barnet først tas med til et
-EØS-land og deretter videre til et tredjeland. Et
-utreiseforbud som også gjelder for reiser innad i
-EØS er derfor etter departementets vurdering
-nødvendig for å ikke undergrave hensikten med
-forslaget. Dette vil sikre at hensynet til barnets
-sikkerhet ivaretas på en effektiv måte. I tillegg
-peker departementet på at et barn også kan bli
-utsatt for alvorlig omsorgssvikt i et annet EØSland, og risikoen er derfor ikke begrenset til
-tredjeland.
-Samlet sett er tiltaket, bestemmelsene om
-utreiseforbud, etter departementets vurdering forholdsmessig.
-Departementet har etter dette kommet til at
-bestemmelsene om utreiseforbud, som foreslått
-
-og med de rettssikkerhetsgarantier som følger av
-regelverket for øvrig, er forenlig med EØS-retten.
-
-6.4.4
-
-Utformingen av en ny regel om
-utreiseforbud
-
-6.4.4.1 Vedtak om utreiseforbud
-Departementet foreslår en ny bestemmelse i
-barnevernsloven som gir barneverns- og helsenemnda kompetanse til å treffe vedtak om utreiseforbud i tilfeller der et barn risikerer å bli utsatt
-for skadelig utenlandsopphold. I utvalgets lovforslag om utreiseforbud, se punkt 6.2, ble det foreslått at nemnda skulle kunne treffe vedtak om
-utreiseforbud dersom det er en nærliggende fare
-for at barnet i utlandet vil bli utsatt for forhold som
-medfører alvorlig fare for liv eller helse, eller forhold som nevnt i barnevernslovens bestemmelse
-om vedtak om omsorgsovertakelse, jf. § 5-1 bokstav a til d.
-Departementet er enig med vurderingene til
-utvalgets flertall om hvilke tilfeller som bør
-omfattes av bestemmelsen om utreiseforbud, med
-unntak av å ta fra barnet muligheten til grunnleggende utdanning, se departementets vurdering
-i punkt 6.4.1. Av pedagogiske grunner foreslår
-departementet likevel at det i bestemmelsen om
-utreiseforbud ikke henvises direkte til barnevernsloven § 5-1 om omsorgsovertakelse, men at
-vilkårene for å treffe et vedtak om utreiseforbud i
-stedet fremgår direkte av utreiseforbudsbestemmelsen. Etter departementets syn vil dette gjøre
-innholdet i bestemmelsen lettere tilgjengelig og
-enklere å bruke.
-Departementet foreslår derfor at lovbestemmelsen utformes slik at barneverns- og helsenemnda kan treffe vedtak om utreiseforbud dersom det er en nærliggende fare for at barnet vil bli
-utsatt for mishandling, alvorlig fare for barnets liv
-eller helse eller annen alvorlig omsorgssvikt i
-utlandet, se forslag til ny § 5-13.
-Et vedtak om utreiseforbud etter § 5-13 i lovforslaget vil innebære et betydelig inngrep i både
-barnets og foreldrenes rett til privat- og familieliv,
-samt deres bevegelsesfrihet. Departementet
-legger derfor til grunn at det må stilles strenge vilkår for å kunne treffe vedtak om utreiseforbud.
-Begrepet «mishandling» omfatter både
-handlinger og unnlatelser som medfører alvorlig
-fysisk eller psykisk skade på barnet, og som utgjør
-et alvorlig brudd på barnets behov for omsorg,
-trygghet og vern. Mishandling vil ofte forekomme
-over tid, men tidsforløp er ikke et absolutt vilkår
-for at handlingen skal omfattes av begrepet.
-
-[Side 32]
-
-32
-
-Prop. 159 L
-
-2024–2025
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-Begrepet «alvorlig fare for barnets liv eller
-helse» omfatter både barnets psykiske og fysiske
-helse. Alvorlig fare for helse kan for eksempel
-omfatte situasjoner der det er en nærliggende fare
-for at barnet ikke vil få nødvendig helsehjelp, og
-nærliggende fare for undertrykkelse eller konverteringsterapi på grunn av barnets seksuelle
-orientering eller kjønnsidentitet. Begrepet omfatter
-også straffbare handlinger som kan skade barnets
-helse, slik som vold, trusler, kjønnslemlestelse og
-mishandling i nære relasjoner. Alvorlig fare for
-barnets liv omfatter også tilfeller der det er fare
-for at barnet ikke vil få livsnødvendig helsehjelp,
-eller at barnet sendes til eller etterlates i et krigseller konfliktområde. Det må gjøres en konkret og
-individuell vurdering av forholdene i det landet
-saken gjelder. Det er ikke tilstrekkelig at landet
-har et dårligere utbygd helsevesen eller preges av
-generell uro, så lenge det ikke foreligger indikasjoner på at oppholdet vil medføre en reel og
-alvorlig fare for det aktuelle barnet. Forholdene
-barnet risikerer å bli utsatt for kan samlet sett
-utgjøre en alvorlig fare, selv om hvert enkelt forhold isolert sett ikke når opp til terskelen.
-Det er verken mulig eller hensiktsmessig fullt
-ut å definere i bestemmelsen hvilke tilfeller som
-omfattes av begrepet «annen alvorlig omsorgssvikt». Det sentrale vurderingstemaet er om
-barnet ved et opphold i utlandet risikerer å bli
-utsatt for en kvalifisert eller alvorlig svikt i barnets
-behov for omsorg. Dette innebærer at det vurderes at det vil være alvorlige mangler i ivaretakelsen av barnets grunnleggende behov.
-Enhver mangel vil derfor ikke være tilstrekkelig
-for at vilkårene skal anses oppfylt. I forarbeidene
-til forrige barnevernlov ble det presisert at ikke
-ethvert avvik fra vanlige normer eller situasjoner
-vil utgjøre en alvorlig mangel i lovens forstand –
-situasjonen må være forholdsvis klart uholdbar, jf.
-Ot.prp. nr. 44 (1991–92) s.110. Dette holdepunktet
-er videreført i dagens lov. Departementet legger
-til grunn at begrepet omfatter alvorlige straffbare
-handlinger som tvangsekteskap, kjønnslemlestelse, vold, seksuelle overgrep og menneskehandel. Begrepet omfatter også ulike former for
-alvorlige mangler ved den fysiske, psykiske og
-emosjonelle omsorgen for barnet. Hvorvidt det
-foreligger alvorlige mangler ved den praktiske
-eller emosjonelle omsorgen må vurderes konkret,
-blant annet med utgangspunkt i barnets alder og
-utviklingsnivå.
-Vilkåret «nærliggende fare» innebærer at det
-må foreligge en reell risiko for at barnet vil bli
-utsatt for slike forhold. Som hovedregel kreves det
-alminnelig sannsynlighetsovervekt. Departementet
-
-er enig med Bufdir i at det må foreligge konkrete
-og objektive holdepunkter som tilsier at det foreligger en «nærliggende fare». Det er derfor ikke
-tilstrekkelig med generelle forestillinger om landet, kulturen eller religionen som barnet og/eller
-familien har tilknytning til.
-Departementet foreslår videre at et vedtak om
-utreiseforbud «kan» treffes når vilkårene er til
-stede. Det skal derfor foretas en nødvendighetsvurdering av tiltaket, og mildeste inngreps prinsipp gjelder, jf. barnevernsloven § 1-5 andre ledd.
-Dette innebærer at mindre inngripende tiltak skal
-ha vært vurdert og ikke ansett tilstrekkelig til å
-ivareta barnets behov, for eksempel i form av
-hjelpetiltak i hjemmet.
-Et vedtak om utreiseforbud skal ikke ha
-lengre varighet enn nødvendig for å forhindre
-faren. Departementet foreslår at nemnda maksimalt kan vedta et utreiseforbud for seks måneder.
-Når et vedtak er truffet, er det avgjørende at
-barnevernstjenesten arbeider målrettet for å forbedre situasjonen for barnet og familien. Barnevernstjenesten har et ansvar for å følge med på
-både barnets og foreldrenes situasjon. Det skal
-foretas løpende vurderinger av hvorvidt tiltaket
-fortsatt er i tråd med barnets behov, eller om det
-er behov for ytterligere tiltak. Dette innebærer
-også at barnevernstjenesten må vurdere behovet
-for hjelpetiltak, for eksempel foreldreveiledning
-eller pålegg av hjelpetiltak, for å bidra til en positiv utvikling i barnets og familiens situasjon.
-Målet er å fjerne grunnlaget for utreiseforbudet
-og motvirke behovet for en eventuell forlengelse
-av vedtaket.
-Departementet foreslår at det gis adgang til å
-forlenge et vedtak om utreiseforbud. Når utløpet
-av et eksisterende vedtak nærmer seg, kan barnevernstjenesten – på bakgrunn av et nytt, konkret
-og oppdatert informasjonsgrunnlag – fremme en
-begjæring om forlengelse til barneverns- og helsenemnda. Etter departementets vurdering kan vedtaket fornyes i inntil seks måneder, forutsatt at vilkårene er oppfylt. Dette innebærer at nemnda må
-foreta en her og nå vurdering på tidspunktet for
-fornyelse. I slike tilfeller skal det opprinnelige
-vedtaket gjelde inntil nemnda har behandlet
-begjæringen, selv om den opprinnelige vedtaksperioden formelt er utløpt. Bestemmelsen skal
-sikre kontinuitet i beskyttelsen og hindre at formålet med utreiseforbudet undergraves som følge
-av nemndas saksbehandlingstid. Dersom det ikke
-er fremmet begjæring om forlengelse innen
-fristen, faller vedtaket bort. Vedtaket opphører
-uansett senest når barnet fyller 18 år, jf. § 1-2
-første ledd første punktum.
-
-[Side 33]
-
-2024–2025
-
-Prop. 159 L
-
-33
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-Sakens parter kan kreve nemndas vedtak om
-utreiseforbud og avgjørelse i sak om forlengelse
-av et slikt vedtak rettslig overprøvd, jf. § 14-25.
-Departementet foreslår at barnevernstjenesten
-gis hjemmel til å gjøre snevert unntak fra utreiseforbudet for en konkret reise dersom det er åpenbart at reisen ikke vil medføre fare for barnet.
-Kravet om at det må være «åpenbart» innebærer at
-det må foreligge høy grad av sikkerhet. Et eksempel kan være en skoletur hvor barnet vil være
-sammen med lærere og medelever under hele
-utenlandsoppholdet. Dette innebærer at de private
-partene i saken kan henvende seg direkte til
-barnevernstjenesten og be om unntak fra utreiseforbudet. Barnevernstjenestens avgjørelse i slike
-saker anses som et enkeltvedtak, og kan derfor
-påklages til statsforvalteren, jf. § 12-9.
-Departementet viser til forslag til ny bestemmelse i § 5-13 om vedtak om utreiseforbud.
-
-6.4.4.2
-
-Akuttvedtak om utreiseforbud
-
-Departementet foreslår også en ny bestemmelse i
-barnevernsloven som gir barnevernstjenestens
-leder, lederens stedfortreder og påtalemyndigheten kompetanse til å treffe vedtak om utreiseforbud i akuttsituasjoner.
-I likhet med andre akuttbestemmelser i barnevernsloven, skal akuttvedtak om utreiseforbud
-bare anvendes i saker hvor det haster å beskytte et
-barn og vedtaket må treffes straks. Etter departementets syn bør loven gi adgang til å treffe akuttvedtak om utreiseforbud der det foreligger en nærliggende fare for at barnet umiddelbart blir sendt
-eller tatt med ut av landet til forhold som nevnt i
-forslag til ny § 5-13 første ledd, se punkt 6.4.4.1.
-Et akuttvedtak om utreiseforbud innebærer i
-likhet med et vedtak om utreiseforbud etter § 5-13
-i lovforslaget et sterkt inngrep i både barns og foreldres rett til privat- og familieliv og bevegelsesfrihet, og utgjør et unntak fra barnevernslovens
-hovedregel om at tvangstiltak skal forberedes av
-barnevernstjenesten og behandles av barnevernsog helsenemnda. Departementet foreslår å ha
-med vilkåret «umiddelbart» for å understreke at
-barnets situasjon må være så alvorlig at det er
-nødvendig å gjennomføre vedtaket straks. Formålet med formuleringen er å tydeliggjøre at
-akuttbestemmelsen kun skal anvendes i særskilte
-situasjoner.
-Etter departementets syn bør det også komme
-klart fram av loven at et akuttvedtak om utreiseforbud straks etter vedtakelse skal oversendes til
-barneverns- og helsenemnda, på samme måte som
-ved andre akuttvedtak, jf. barnevernsloven § 14-22.
-
-Nemndlederen vurderer om vedtaket skal godkjennes. Som for andre akuttvedtak, foreslår
-departementet at nemndlederen pålegges en plikt
-til å avgjøre saken snarest, og om mulig innen 48
-timer etter at nemnda har mottatt den. Nemndlederen kan innhente ytterligere opplysninger når
-det er nødvendig for å ta stilling til godkjenningsspørsmålet. Nemndlederen skal gi en kort
-begrunnelse for avgjørelsen, jf. § 14-22 andre og
-tredje ledd.
-I likhet med akuttvedtak om omsorgsovertakelse, jf. § 4-2, foreslår departementet at et
-akuttvedtak om utreiseforbud skal følges opp med
-en begjæring til barneverns- og helsenemnda snarest, dersom det er behov for videre tiltak. Dette
-innebærer både en vurdering av om barnets situasjon kan ivaretas på annen måte enn gjennom et
-akuttvedtak om utreiseforbud, inntil saken kan
-undersøkes nærmere og eventuelt legges fram for
-nemnda på vanlig måte. I tillegg krever det en forholdsmessighetsvurdering av hvorvidt et akutt
-utreiseforbud er til barnets beste, og om mindre
-inngripende tiltak kan benyttes, jf. §§ 1-3 og 1-5
-andre ledd. Departementet foreslår at dersom en
-begjæring til nemnda ikke er framsatt innen seks
-uker, faller akuttvedtaket bort. Bestemmelsen tilsvarer § 4-2 tredje ledd om akuttvedtak om
-omsorgsovertakelse.
-Videre foreslås det at private parter kan
-påklage et akuttvedtak om utreiseforbud. Klagen
-framsettes direkte for nemnda, jf. § 14-23, og saksbehandlingsreglene i § 14-23 vil gjelde tilsvarende
-for akuttvedtak om utreiseforbud som for andre
-akuttvedtak. Videre kan private partene eller kommunen bringe nemndas vedtak inn for tingretten
-for rettslig prøving, jf. § 14-25.
-Etter gjeldende rett kan det treffes vedtak om
-akuttiltak for barn som oppholder seg i Norge og
-har vanlig bosted her jf. § 1-2 andre ledd. Det kan
-også treffes akuttiltak for barn som oppholder seg
-i Norge, men som har vanlig bosted i en annen
-stat, jf. § 1-2 fjerde ledd. Departementet foreslår at
-adgangen til å treffe akuttvedtak om utreiseforbud
-ikke skal gjelde for barn som oppholder seg i
-Norge, men som ikke har vanlig bosted her, jf.
-§ 1-2 fjerde ledd. Det anses som lite hensiktsmessig å treffe et så inngripende tiltak overfor
-barn som kun er på ferie eller gjennomreise i
-Norge. I tillegg vil en slik adgang være vanskelig å
-håndheve i praksis. Departementet foreslår derfor å endre lovteksten i § 1-2 fjerde ledd, slik at det
-uttrykkelig framgår at bestemmelsen om akuttvedtak om utreiseforbud ikke gjelder overfor barn
-som oppholder seg i Norge, men som har vanlig
-bosted i en annen stat.
-
-[Side 34]
-
-34
-
-2024–2025
-
-Prop. 159 L
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-Departementet viser til forslag til endringer i
-§ 1-2 fjerde ledd, ny bestemmelse i § 4-6 om akuttvedtak om utreiseforbud og forslag til endringer i
-§ 14-22 første ledd.
-
-6.4.4.3 Konsekvenser av et utreiseforbud
-Virkningen av et vedtak om utreiseforbud er at
-barnet ikke kan forlate Norge. Departementet
-foreslår derfor å presisere i § 5-6 første ledd andre
-punktum at forbudet mot å ta med barnet ut av
-Norge uten barnevernstjenestens samtykke også
-skal gjelde ved vedtak om utreiseforbud og akuttvedtak om utreiseforbud, eller når begjæring om
-slike tiltak er sendt barneverns- og helsenemnda.
-Innholdsmessig er § 5-6 første ledd en videreføring av barnevernloven av 1992 § 4-31. Det vises
-derfor overordnet til forarbeidene, jf. Prop. 143 L
-(2014–2015) om internasjonal barnebortføring.
-Et vedtak om utreiseforbud setter likevel ikke
-til side vedtak truffet av utlendingsmyndighetene
-som innebærer utreiseplikt, herunder vedtak om
-avslag på søknad om oppholdstillatelse eller vedtak om tilbakekall. Utreiseforbudet er derfor ikke
-til hinder for effektuering og utreise i tråd med
-vedtaket etter utlendingsloven, og vil heller ikke
-være til hinder for utreise dersom utlendingen
-ikke har lovlig opphold som følge av manglende
-eller utløpt oppholdstillatelse.
-6.4.4.4
-
-Bestemmelse om utlevering av
-opplysninger
-
-En barnevernssak starter som regel med en
-bekymringsmelding som barnevernstjenesten
-mottar. Med bekymringsmelding menes enhver
-henvendelse som uttrykker bekymring for et
-barn. For å kunne behandle en slik bekymringsmelding er barnevernstjenesten avhengig av et tilstrekkelig informasjonsgrunnlag om barnet og
-dets situasjon. Dette kan også omfatte taushetsbelagte opplysninger. Dette betyr at det i utgangspunktet ikke skal ilegges utreiseforbud overfor
-personer uten lovlig opphold eller uten oppholdstillatelse i Norge, og et eventuelt utreiseforbud overfor slike personer vil være uten realitet.
-Etter gjeldende rett har barnevernstjenesten
-og barneverns- og helsenemnda myndighet til å
-pålegge offentlige organer å utlevere taushetsbelagte opplysninger som er nødvendige for å
-vurdere, forberede og behandle de sakstypene
-som er angitt i § 13-4. Departementet mener at
-dette også skal gjelde for vedtak og akuttvedtak
-om utreiseforbud, og foreslår å endre lovteksten i
-§ 13-4 så den også viser til saker om utreiseforbud.
-
-6.4.4.5 Varslingsplikt for barnevernstjenesten
-Departementet foreslår en særlig varslingsplikt
-for barnevernstjenesten overfor politiet og utlendingsmyndighetene ved vedtak om utreiseforbud.
-Barnevernstjenesten skal så snart som mulig
-varsle politiet og/eller utlendingsmyndighetene
-når det treffes vedtak om utreiseforbud, og tilsvarende når et slikt vedtak oppheves.
-Formålet med varslingen er for det første å
-sikre at nødvendige tiltak kan iverksettes for å forhindre at barnet får utstedt reisedokumenter, eller
-for å tilbakekalle reisedokumenter som allerede
-er utstedt.
-For det andre vil et utreiseforbud etter barnevernsloven kunne danne grunnlag for en registrering i Schengen Information System (SIS). SIS er
-et digitalt register der myndighetene i Schengenlandene kan utveksle informasjon. Registering i
-SIS sikrer at barnet kan stanses ved forsøk på å
-krysse Schengen-yttergrense. Forutsetningen for
-en slik registrering er at vedtaket er begrunnet i
-de forhold som kreves etter politisamarbeidsforordningen artikkel 32 nr. 1 bokstav d. Vilkår for
-behandling av opplysninger om barn skal skje på
-de vilkår som framgår av lov 16. juli 1999 nr. 66 om
-Schengen informasjonssystem (SIS) § 8 første
-ledd nr. 1 (der politisamarbeidsforordningen
-artikkel 32 er nevnt).
-Når barnevernstjenesten har varslet politiet
-om at det er fattet et vedtak om utreiseforbud, er
-det politiets ansvar å vurdere hvorvidt vilkårene i
-politisamarbeidsforordningen er oppfylt før det
-eventuelt treffes beslutning om registrering i SIS.
-Det er følgelig ikke noen automatikk i at slike
-utreiseforbud registreres. Det er svært viktig at
-det er god informasjonsdeling innad i politiet for å
-sikre at de rette myndighetene får informasjon om
-utreiseforbudet, se også punkt 8.4.
-Varslingsplikten er avgjørende for å sikre at
-utreiseforbudet får reell gjennomslagskraft.
-Departementet foreslår at plikten lovfestes i
-barnevernsloven § 13-5 nytt sjette ledd.
-Departementet vurderer at det ikke er behov
-for endringer i regelverket om politiets registrering i SIS.
-6.4.4.6
-
-Andre forhold
-
-For at de nye reglene om utreiseforbudet skal
-være effektive foreslår departementet også andre
-endringer i barnevernsloven.
-Departementet foreslår at det innføres en klar
-bestemmelse som gir de private partene rett til å
-klage på akuttvedtak om utreiseforbud. Klage-
-
-[Side 35]
-
-2024–2025
-
-Prop. 159 L
-
-35
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-fristen bør være på tre uker etter de alminnelige
-reglene i forvaltningsloven, jf. forvaltningsloven
-§ 29. Klagen skal framsettes direkte for barneverns- og helsenemnda. Departementet foreslår at
-dette presiseres i barnevernsloven § 14-23 første
-ledd første punktum.
-
-Departementet foreslår også at loven tydelig
-viser at det er kommunen der barnet oppholder
-seg, som har ansvaret for å reise sak om utreiseforbud for barneverns- og helsenemnda. Departementet foreslår at dette lovfestes i barnevernsloven § 15-5 første ledd første punktum.
-
-[Side 36]
-
-36
-
-2024–2025
-
-Prop. 159 L
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-7 Straffansvar ved brudd på utreiseforbud
-7.1
-
-Gjeldende rett
-
-Departementet foreslår i punkt 6 en ny bestemmelse i barnevernsloven § 5-13 om at barnevernstjenesten kan vedta at et barn forbys å reise fra
-Norge dersom det er nærliggende fare for at
-barnet vil bli utsatt for mishandling, alvorlig fare
-for barnets liv eller helse eller annen alvorlig
-omsorgssvikt. Det er også foreslått en hjemmel til
-å treffe akuttvedtak i § 4-6. Brudd på slike utreiseforbud vil ikke i seg selv være straffbart uten en
-lovendring, verken etter barnevernsloven eller
-straffeloven.
-Brudd på enkelte vedtak etter barnevernsloven er straffbart etter straffeloven § 261 om
-omsorgsunndragelse. Bestemmelsen rammer den
-som tar en mindreårig ut av landet eller holder en
-mindreårig tilbake i utlandet i tilfeller hvor det er
-fattet vedtak om omsorgsovertakelse, flytteforbud
-eller institusjonsplassering etter barnevernloven
-§§ 4-8, 4-12, 4-24 eller 4-29, eller hvor det er sendt
-begjæring til fylkesnemnda om slike tiltak, eller
-der det er truffet akuttvedtak om dette.
-For sammenhengens skyld nevnes det at
-barneloven § 41 første ledd gir domstolen adgang
-til å fastsette forbud mot at barn reiser utenlands i
-tilfeller hvor det er fare for at barnet ikke returnerer til Norge. Brudd på slikt utreiseforbud kan
-være straffbart etter straffeloven § 261.
-
-7.2
-
-Utvalgets forslag
-
-Som omtalt i punkt 6.2, foreslår utvalget endringer
-i barnevernsloven som gir barnevernstjenesten
-hjemmel for å vedta forbud mot at et barn tas med
-eller sendes ut av landet når det er fare for skadelige utenlandsopphold (utreiseforbud).
-Utvalgets flertall mener at for å sikre at
-utreiseforbud etterleves, bør brudd på forbudet
-kunne straffes, se NOU 2024: 13 punkt 27.4.11
-side 347. Uten en trussel om straff for å bryte forbudet vil tiltaket kunne ha liten reell effekt, da det
-ikke vil være virkemidler for å håndheve det. En
-straffesanksjonering vil tydeliggjøre foreldrenes
-ansvar for barnet sitt og ansvar for å overholde
-
-utreiseforbudet. Det kan også ha en viss pedagogisk og allmennpreventiv betydning ved at foreldrene blir mer oppmerksomme på at ufrivillige
-utenlandsreiser kan ha skadelige virkninger for
-barnet.
-Utvalgets flertall foreslår at straffeloven § 261
-om omsorgsunndragelse utvides til også å omfatte
-situasjoner der det er truffet akuttvedtak eller vedtak om utreiseforbud, eller begjæring om utreiseforbud er sendt barneverns- og helsenemnda.
-Dette vil samsvare med straffansvaret for å ta med
-barnet ut av landet der er det er truffet eller er i
-ferd med å treffes tiltak etter barnevernsloven
-som gjør det ulovlig å ta med barnet ut av landet,
-jf. barnevernsloven § 5-6. Strafferammen for
-brudd på utreiseforbudet vil dermed være bot
-eller fengsel inntil to år.
-Utvalgets mindretall, utvalgsmedlem Rui,
-mener at det ikke er tilrådelig å innføre en hjemmel til å fastsette utreiseforbud slik foreslått av
-flertallet. Se NOU 2024: 13 punkt 27.4.15 side 349–
-351.
-
-7.3
-
-Høringsinstansenes syn
-
-Forslaget om å gjøre det straffbart å bryte et vedtak om utreiseforbud etter den nye hjemmelen i
-barnevernsloven støttes av Barne-, ungdoms- og
-familiedirektoratet (Bufdir), og Politidirektoratet.
-Departementet kan ikke se at det er noen
-høringsinstanser som har uttrykt at de er negative
-til forslaget.
-Utenriksdepartementet tar ikke klart stilling til
-om brudd på et utreiseforbud bør være straffbart.
-Høringsinstansen uttaler at det er svært begrenset hvilken bistand norske myndigheter kan yte
-på en annen stats territorium. Det må derfor, særlig i saker hvor det ikke er fastsatt noe internasjonalt samarbeid, forhindres at slike situasjoner
-oppstår. Utreiseforbud synes ifølge høringsinstansen å være et verktøy som kan forhindre skadelige utenlandsopphold. Høringsinstansen peker
-imidlertid på at en straffereaksjon ikke nødvendigvis vil hjelpe et barn som allerede befinner seg
-i utlandet.
-
-[Side 37]
-
-2024–2025
-
-Prop. 159 L
-
-37
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-Flere høringsinstanser uttaler at de støtter forslaget om å innføre en hjemmel for å ilegge
-utreiseforbud, se nærmere i punkt 6.3, uten å
-uttale seg særskilt om hvorvidt brudd på forbudet
-bør være straffbart.
-Enkelte høringsuttalelser til utvalgets forslag
-om en egen straffebestemmelse som rammer det
-å utsette barn for skadelige utenlandsopphold, har
-overføringsverdi til forslaget om å kriminalisere
-brudd på et utreiseforbud. Bufdir uttaler at et
-straffebud om skadelig utenlandsopphold kan
-virke forebyggende, og bidra til at foreldre blir
-bevisste de potensielle konsekvensene ved å
-sende barna på slike utenlandsopphold. Samtidig
-kan et straffebud fungere som et pressmiddel for
-å bringe barnet tilbake til Norge. Også Utenriksdepartementet uttrykker støtte til kriminalisering
-av det å utsette barn for skadelige utenlandsopphold. Departementet uttaler at det bør vurderes
-«straffbortfall» som et virkemiddel for å få foreldrene til å samarbeide om å få barnet tilbake til
-Norge, og at dette bør vurderes opp mot gjeldende bestemmelser om formildende omstendigheter i straffeloven § 78 bokstav b og f. Også Røde
-Kors fremhever at det er lite som kan gjøres for
-barn som befinner seg i utlandet, og at dette kan
-skape en vanskelig situasjon for barnet og hjelpeapparatet. Røde Kors tar derfor til orde for at
-straff kan bortfalle dersom en forelder bidrar til at
-barnet blir returnert til Norge. Dette vil gi et
-insentiv for foreldre til å bidra til en frivillig retur.
-
-7.4
-
-Departementets vurdering
-
-Departementet er enig med utvalget i at brudd på
-de foreslåtte reglene om utreiseforbud etter
-barnevernsloven skal være straffbart. Et utreiseforbud har til formål å verne barn mot å bli utsatt
-for skadelige utenlandsopphold, i tilfeller hvor det
-er nærliggende fare for at barnet blir utsatt for
-mishandling, alvorlig fare for barnets liv eller
-helse eller annen alvorlig omsorgssvikt. Brudd på
-et slikt forbud kan sette barns grunnleggende
-interesser i fare. Etter departementets syn er
-skadefølgeprinsippet som grunnvilkår for krimi-
-
-nalisering oppfylt, se Ot.prp. nr. 90 (2003–2004)
-punkt 7.5 side 88.
-Departementet mener at den allmennpreventive effekten ved en straffetrussel er nødvendig
-for å sikre at utreiseforbud etterleves, og at et slikt
-forbud ellers vil ha liten reell effekt. Brudd på
-andre vedtak etter barnevernsloven, herunder
-vedtak om omsorgsovertakelse og flytteforbud,
-rammes allerede av straffeloven § 261. Brudd på
-utreiseforbud bør ikke stå i noen svakere stilling
-enn slike vedtak. Som påpekt av Utenriksdepartementet i høringen er det svært vanskelig for
-norske myndigheter å yte bistand til personer
-som befinner seg i andre land. Et mulig straffansvar for brudd på utreiseforbud kan bidra til å
-hindre at slike situasjoner oppstår. Kriminaliseringen kan for øvrig også ha en normskapende
-effekt og bidra til å tydeliggjøre foreldrenes
-ansvar for å hindre at barn utsettes for skadelige
-utenlandsopphold.
-Departementet foreslår på denne bakgrunn at
-straffeloven § 261 utvides til å omfatte brudd på
-utreiseforbud etter barnevernsloven § 5-13, samt
-tilfeller hvor det er sendt begjæring om slike tiltak
-til barneverns- og helsenemnda etter § 14-9, eller
-er truffet akuttvedtak etter § 4-6. Strafferammen
-etter straffeloven § 261 første ledd er bot eller
-fengsel inntil 2 år.
-Når et utreiseforbud er brutt og barnet
-befinner seg i utlandet, vil det sentrale for norske
-myndigheter være å sørge for at barnet returnerer til Norge. Straffebestemmelsen bør praktiseres av myndighetene på en måte som motiverer
-foreldrene og andre til å medvirke til at barnet
-returnerer. Dette er i tråd med flere høringsuttalelser knyttet til utvalgets forslag om kriminalisering av skadelige utenlandsopphold, se nærmere i punkt 7.3. Hensynet gjør seg gjeldende tilsvarende ved brudd på et utreiseforbud. Etter
-departementets syn bør det ved reaksjonsfastsettelsen etter omstendighetene tillegges vesentlig betydning dersom lovbryteren har bidratt til en
-retur og dermed forebygget eller redusert skaderisikoen, jf. regelen om formildende omstendigheter i straffeloven § 78 bokstav b.
-
-[Side 38]
-
-38
-
-2024–2025
-
-Prop. 159 L
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-8 Nektelse og tilbakekall av pass og ID-kort
-8.1
-
-Gjeldende rett
-
-Norske borgere har etter passloven § 1 rett til
-pass når lovens vilkår er oppfylt, med mindre
-noen av unntaksbestemmelsene kommer til
-anvendelse.
-Det følger av passloven § 4 at det ikke kan utstedes pass til mindreårige uten samtykke fra den
-eller de som har foreldreansvaret. Dersom foreldreansvaret er felles, må begge foreldrene samtykke. Pass kan utstedes med bare en av foreldrenes samtykke der vedkommende etter barneloven har anledning til å ta barnet med ut av landet,
-se punkt 6.1.2. Dersom barnevernstjenesten har
-overtatt omsorgen for barnet etter barnevernsloven § 4-8 eller § 4-12, skal samtykke kun innhentes fra barnevernstjenesten.
-ID-kortloven § 4 har tilsvarende regler for
-utstedelse av nasjonale ID-kort med reiserett.
-Etter passloven § 4 tredje ledd kan pass i særlige tilfeller utstedes uten samtykke dersom det er
-fare for personens liv eller helse, eller det av
-andre grunner er åpenbart ubetenkelig. Som det
-fremgår av Prop. 126 L (2018-2019) punkt 3.5.3 er
-dette en snever unntakshjemmel. Fare for liv og
-helse som mulig grunnlag for passutstedelse uten
-samtykke fra den eller de som har foreldreansvaret, ble tilføyd ved lov 20. desember 2019 nr. 107.
-Tilføyelsen innebar ingen egentlig utvidelse av
-adgangen til å utstede pass uten samtykke, men
-tydeliggjorde at pass i slike tilfeller kan utstedes
-uten noen av foreldrenes samtykke, jf. Prop. 126 L
-(2018–2019) punkt 3.5.3. Bakgrunnen for endringen var at det de senere årene før endringen
-hadde vært en økende tendens til at barn ble
-etterlatt i utlandet mot sin vilje, og som følge av
-dette befant seg i situasjoner som innebar fare for
-liv eller helse. Det ble ikke funnet nødvendig med
-tilsvarende tilføyelse i ID-kortloven, da ID-kort
-kun utstedes ved pass- og ID-kontor i Norge.
-Passloven § 5 om passhindringer angir i hvilke
-tilfeller pass enten skal eller kan nektes utstedt.
-Bestemmelsens første ledd angir de absolutte
-nektelsesgrunnene, det vil si tilfeller hvor pass
-skal nektes utstedt. Pass skal nektes utstedt blant
-annet når utreiseforbud følger av tvisteloven
-
-§§ 33-11 eller lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) § 102 og når
-det foreligger en lovhjemlet beslutning av offentlig myndighet som innebærer at utreise vil være
-ulovlig, jf. passloven § 5 første ledd bokstav b og c.
-I hvilke tilfeller pass kan nektes etter en
-skjønnsmessig vurdering fremgår av andre og
-tredje ledd. Etter passloven § 5 tredje ledd bokstav g kan pass til barn nektes utstedt dersom det
-er grunn til å tro at barnet «vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan
-medføre fare for liv eller helse». Bestemmelsen er
-særlig utformet med sikte på å forebygge skadelige utenlandsopphold for barn, for eksempel at
-barn sendes på skoler i utlandet der de utsettes
-for vold eller overgrep, jf. Prop. 126 L (2018–2019)
-punkt 3.1. Etter ID-kortloven § 5 tredje ledd bokstav e kan også ID-kort med reiserett til barn
-nektes utstedt i slike tilfeller.
-Både passloven og ID-kortloven hjemler tilbakekall av henholdsvis pass og ID-kort i tilfeller
-der vilkårene for å nekte utstedelse er til stede, jf.
-passloven § 7 første ledd bokstav b og ID-kortloven § 8.
-Passloven § 12 andre ledd gir hjemmel til å
-fastsette nærmere regler i forskrift om gjennomføring av loven, herunder om passets form og innhold, hvem som kan få utlevert opplysninger fra
-passregisteret, og overgangsbestemmelser.
-Utenlandske borgere bosatt i Norge kan på
-nærmere vilkår gis reisebevis for flyktninger eller
-utlendingspass etter utlendingsloven § 64. Slike
-reisedokumenter kan nektes utstedt eller inndras
-dersom det foreligger forhold som gjør at det ikke
-ville blitt utstedt pass til norsk statsborger etter
-passloven § 5, jf. utlendingsforskriften §§ 12-1 og
-12-4 (reisebevis) og §§ 12-5 og 12-8 (utlendingspass).
-
-8.2
-
-Utvalgets forslag
-
-Utvalgets flertall foreslår å tilføye i passloven § 5
-første ledd bokstav b at pass skal nektes utstedt
-dersom det treffes vedtak om utreiseforbud etter
-forslaget til ny § 4-6 og ny § 5-12 i barneverns-
-
-[Side 39]
-
-2024–2025
-
-39
-
-Prop. 159 L
-
-Endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
-
-loven. Den likelydende bestemmelsen i ID-kortloven § 5 første ledd bokstav b foreslås endret tilsvarende. Forslaget innebærer at nektelse av pass
-og ID-kort med reiserett vil være obligatorisk i
-slike tilfeller, i motsetning til den gjeldende
-skjønnsmessige adgangen i passloven § 5 tredje
-ledd bokstav g og ID-kortloven § 5 tredje ledd
-bokstav e til å nekte pass utstedt i tilfeller av fare
-for skadelige utenlandsopphold.
-Utvalgets flertall foreslår samtidig å presisere i
-passloven § 5 femte ledd at det i særlige tilfeller
-kan utstedes pass med begrenset gyldighetsområde og gyldighetstid også til mindreårige som
-det er truffet utreiseforbud for etter barnevernsloven §§ 4-6 eller 5-12. Forslaget er ment å gjøre
-det mulig for barnet å delta på konkrete utenlandsreiser som ikke medfører noen fare, som
-skoleturer og lignende.
-Et samlet utvalg foreslår videre at det i passloven lovfestes en plikt for utenriksstasjonene til
-straks å underrette kommunens barnevernstjeneste om utstedelse av pass til mindreårige
-uten samtykke når utstedelsen er begrunnet i fare
-for barnets liv eller helse.
-Utvalget presiserer at utlendingsmyndighetene må varsles om vedtak om utreiseforbud
-dersom barnet er utenlandsk statsborger, slik at
-eventuelle reisedokumenter utstedt etter utlendingslovgivningen kan tilbakekalles. Utvalget
-peker for øvrig på at passmyndighetene i dag har
-underretningsplikt til barnevernstjenesten når
-pass til barn nektes utstedt eller tilbakekalles
-fordi det er grunn til å tro at barnet vil bli utsatt for
-straffbare forhold i utlandet eller forhold der som
-medfører fare for liv og helse. Blant annet av
-hensyn til et klart og enhetlig regelverk, mener
-utvalget at det bør innføres en tilsvarende underretningsplikt for utlendingsmyndighetene i utlendingsforskriften.
-I tillegg foreslår utvalget å tilføye en hjemmel i
-passloven § 12 andre ledd bokstav d til å gi
-nærmere bestemmelser om innholdet i vilkåret i
-§ 4 tredje ledd om at passutstedelse uten samtykke
-fra foreldre med foreldreansvar må være «åpenbart
-ubetenkelig». Med henvisning til at flere aktører
-har pekt på at det er uklart hva som ligger i vilkåret
-«fare for liv og helse» i passloven § 4 tredje ledd,
-foreslår utvalget at forskriftsbestemmelsen også
-bør åpne for forskriftsregulering av hva som ligger
-i betegnelsen «fare for liv og helse».
-Utvalget har vurdert om passloven § 5 tredje
-ledd bokstav g, som gir passmyndigheten en
-skjønnsmessig adgang til å nekte utstedelse dersom det er grunn til å tro at barnet vil bli utsatt for
-straffbare forhold i utlandet, burde oppheves der-
-
-som utreiseforbud innføres, men konkluderer
-med at det ikke bør gjøres.
-
-8.3
-
-Høringsinstansenes syn
-
-Kontoret for fri rettshjelp mener at kravet om samtykke til pass fra begge foreldre må lempes på i tilfeller av ufrivillig utenlandsopphold hvor begge
-foreldrene bor i Norge og en av dem vil at barna
-skal holdes i utlandet. Terskelen for å innvilge
-barn nødpass bør senkes, slik at hovedprioriteten
-blir å få barna det gjelder hjem til Norge. Kripos,
-Oslo politidistrikt og Politidirektoratet støtter
-utvalgets forslag i sin helhet, men har merknader
-til ulike deler av dem. Ingen andre høringsinstanser har uttalt seg særskilt om forslagene
-som gjelder passloven.
-Politidirektoratet viser til at forslagene kun i
-begrenset grad innebærer endret praksis, men vil
-bety klarere reguleringer på området og større
-grad av rettsikkerhet for barn i en utsatt posisjon.
-Forslaget om å innta en tydelig henvisning til
-utreiseforbud etter barnevernsloven i passloven
-§ 5 første ledd bokstav b anses som svært positivt.
-Passutstedelse vil dermed kunne nektes og tilbakekalles uten at det må foretas skjønnsmessige
-vurderinger og forholdsmessighetsvurdering
-etter § 5 fjerde ledd. Også Oslo politidistrikt tiltrer
-utvalgets syn på at det rettslige vernet til barn og
-unge først og fremst kan styrkes ved å sikre at
-myndighetene har egnende virkemidler til å forebygge og forhindre at reisen finner sted. Samtidig
-påpeker politidistriktet betydningen av at politiet
-varsles omgående dersom det fattes vedtak om
-utreiseforbud etter barnevernsloven §§ 4-6 og
-5-12, slik at vedtak om tilbakekall og ugyldiggjøring av reisedokumenter kan fattes. Politiet må
-varsles uavhengig av om barnet har gyldige reisedokumenter, slik at pass- og ID-kortmyndigheten
-er kjent med utreiseforbudet hvis det fremmes en
-søknad.
-Oslo politidistrikt sier seg videre enig med
-utvalget i at passloven § 5 tredje ledd bokstav g
-ikke bør endres. Politidistriktet påpeker at
-bestemmelsen har andre vilkår enn forslagene om
-nye hjemler for nektelse av reisedokument ved
-utreiseforbud, og at bestemmelsen nå er etablert
-som et viktig hjemmelsgrunnlag. Særlig i hastesaker, der pass- og ID-kortmyndighetene har tilstrekkelig informasjon, er politidistriktets oppfatning at anledningen til å fatte vedtak uten informasjon fra barnevernet bør være tilgjengelig.
-Til utvalgets forslag om endring av passloven
-§ 5 femte ledd, påpeker både Politidirektoratet og
+# Straffansvar ved brudd på utreiseforbud
+
+## Gjeldende rett
+
+Departementet foreslår i punkt 6 en ny bestemmelse i barnevernsloven § 5-13 om at barnevernstjenesten kan vedta at et barn forbys å reise fra Norge dersom det er nærliggende fare for at barnet vil bli utsatt for mishandling, alvorlig fare for barnets liv eller helse eller annen alvorlig omsorgssvikt. Det er også foreslått en hjemmel til å treffe akuttvedtak i § 4-6. Brudd på slike utreiseforbud vil ikke i seg selv være straffbart uten en lovendring, verken etter barnevernsloven eller straffeloven.
+
+Brudd på enkelte vedtak etter barnevernsloven er straffbart etter straffeloven § 261 om omsorgsunndragelse. Bestemmelsen rammer den som tar en mindreårig ut av landet eller holder en mindreårig tilbake i utlandet i tilfeller hvor det er fattet vedtak om omsorgsovertakelse, flytteforbud eller institusjonsplassering etter barnevernloven §§ 4-8, 4-12, 4-24 eller 4-29, eller hvor det er sendt begjæring til fylkesnemnda om slike tiltak, eller der det er truffet akuttvedtak om dette.
+
+For sammenhengens skyld nevnes det at barneloven § 41 første ledd gir domstolen adgang til å fastsette forbud mot at barn reiser utenlands i tilfeller hvor det er fare for at barnet ikke returnerer til Norge. Brudd på slikt utreiseforbud kan være straffbart etter straffeloven § 261.
+
+## Utvalgets forslag
+
+Som omtalt i punkt 6.2, foreslår utvalget endringer i barnevernsloven som gir barnevernstjenesten hjemmel for å vedta forbud mot at et barn tas med eller sendes ut av landet når det er fare for skadelige utenlandsopphold (utreiseforbud).
+
+Utvalgets flertall mener at for å sikre at utreiseforbud etterleves, bør brudd på forbudet kunne straffes, se NOU 2024: 13 punkt 27.4.11 side 347. Uten en trussel om straff for å bryte forbudet vil tiltaket kunne ha liten reell effekt, da det ikke vil være virkemidler for å håndheve det. En straffesanksjonering vil tydeliggjøre foreldrenes ansvar for barnet sitt og ansvar for å overholde utreiseforbudet. Det kan også ha en viss pedagogisk og allmennpreventiv betydning ved at foreldrene blir mer oppmerksomme på at ufrivillige utenlandsreiser kan ha skadelige virkninger for barnet.
+
+Utvalgets flertall foreslår at straffeloven § 261 om omsorgsunndragelse utvides til også å omfatte situasjoner der det er truffet akuttvedtak eller vedtak om utreiseforbud, eller begjæring om utreiseforbud er sendt barneverns- og helsenemnda. Dette vil samsvare med straffansvaret for å ta med barnet ut av landet der er det er truffet eller er i ferd med å treffes tiltak etter barnevernsloven som gjør det ulovlig å ta med barnet ut av landet, jf. barnevernsloven § 5-6. Strafferammen for brudd på utreiseforbudet vil dermed være bot eller fengsel inntil to år.
+
+Utvalgets mindretall, utvalgsmedlem Rui, mener at det ikke er tilrådelig å innføre en hjemmel til å fastsette utreiseforbud slik foreslått av flertallet. Se NOU 2024: 13 punkt 27.4.15 side 349–351.
+
+## Høringsinstansenes syn
+
+Forslaget om å gjøre det straffbart å bryte et vedtak om utreiseforbud etter den nye hjemmelen i barnevernsloven støttes av *Barne-, ungdoms- og familiedirektoratet (Bufdir)*, og *Politidirektoratet*. Departementet kan ikke se at det er noen høringsinstanser som har uttrykt at de er negative til forslaget.
+
+*Utenriksdepartementet* tar ikke klart stilling til om brudd på et utreiseforbud bør være straffbart. Høringsinstansen uttaler at det er svært begrenset hvilken bistand norske myndigheter kan yte på en annen stats territorium. Det må derfor, særlig i saker hvor det ikke er fastsatt noe internasjonalt samarbeid, forhindres at slike situasjoner oppstår. Utreiseforbud synes ifølge høringsinstansen å være et verktøy som kan forhindre skadelige utenlandsopphold. Høringsinstansen peker imidlertid på at en straffereaksjon ikke nødvendigvis vil hjelpe et barn som allerede befinner seg i utlandet.
+
+Flere høringsinstanser uttaler at de støtter forslaget om å innføre en hjemmel for å ilegge utreiseforbud, se nærmere i punkt 6.3, uten å uttale seg særskilt om hvorvidt brudd på forbudet bør være straffbart.
+
+Enkelte høringsuttalelser til utvalgets forslag om en egen straffebestemmelse som rammer det å utsette barn for skadelige utenlandsopphold, har overføringsverdi til forslaget om å kriminalisere brudd på et utreiseforbud. *Bufdir* uttaler at et straffebud om skadelig utenlandsopphold kan virke forebyggende, og bidra til at foreldre blir bevisste de potensielle konsekvensene ved å sende barna på slike utenlandsopphold. Samtidig kan et straffebud fungere som et pressmiddel for å bringe barnet tilbake til Norge. Også *Utenriksdepartementet* uttrykker støtte til kriminalisering av det å utsette barn for skadelige utenlandsopphold. Departementet uttaler at det bør vurderes «straffbortfall» som et virkemiddel for å få foreldrene til å samarbeide om å få barnet tilbake til Norge, og at dette bør vurderes opp mot gjeldende bestemmelser om formildende omstendigheter i straffeloven § 78 bokstav b og f. Også *Røde Kors* fremhever at det er lite som kan gjøres for barn som befinner seg i utlandet, og at dette kan skape en vanskelig situasjon for barnet og hjelpeapparatet. Røde Kors tar derfor til orde for at straff kan bortfalle dersom en forelder bidrar til at barnet blir returnert til Norge. Dette vil gi et insentiv for foreldre til å bidra til en frivillig retur.
+
+## Departementets vurdering
+
+Departementet er enig med utvalget i at brudd på de foreslåtte reglene om utreiseforbud etter barnevernsloven skal være straffbart. Et utreiseforbud har til formål å verne barn mot å bli utsatt for skadelige utenlandsopphold, i tilfeller hvor det er nærliggende fare for at barnet blir utsatt for mishandling, alvorlig fare for barnets liv eller helse eller annen alvorlig omsorgssvikt. Brudd på et slikt forbud kan sette barns grunnleggende interesser i fare. Etter departementets syn er skadefølgeprinsippet som grunnvilkår for kriminalisering oppfylt, se Ot.prp. nr. 90 (2003–2004) punkt 7.5 side 88.
+
+Departementet mener at den allmennpreventive effekten ved en straffetrussel er nødvendig for å sikre at utreiseforbud etterleves, og at et slikt forbud ellers vil ha liten reell effekt. Brudd på andre vedtak etter barnevernsloven, herunder vedtak om omsorgsovertakelse og flytteforbud, rammes allerede av straffeloven § 261. Brudd på utreiseforbud bør ikke stå i noen svakere stilling enn slike vedtak. Som påpekt av Utenriksdepartementet i høringen er det svært vanskelig for norske myndigheter å yte bistand til personer som befinner seg i andre land. Et mulig straffansvar for brudd på utreiseforbud kan bidra til å hindre at slike situasjoner oppstår. Kriminaliseringen kan for øvrig også ha en normskapende effekt og bidra til å tydeliggjøre foreldrenes ansvar for å hindre at barn utsettes for skadelige utenlandsopphold.
+
+Departementet foreslår på denne bakgrunn at straffeloven § 261 utvides til å omfatte brudd på utreiseforbud etter barnevernsloven § 5-13, samt tilfeller hvor det er sendt begjæring om slike tiltak til barneverns- og helsenemnda etter § 14-9, eller er truffet akuttvedtak etter § 4-6. Strafferammen etter straffeloven § 261 første ledd er bot eller fengsel inntil 2 år.
+
+Når et utreiseforbud er brutt og barnet befinner seg i utlandet, vil det sentrale for norske myndigheter være å sørge for at barnet returnerer til Norge. Straffebestemmelsen bør praktiseres av myndighetene på en måte som motiverer foreldrene og andre til å medvirke til at barnet returnerer. Dette er i tråd med flere høringsuttalelser knyttet til utvalgets forslag om kriminalisering av skadelige utenlandsopphold, se nærmere i punkt 7.3. Hensynet gjør seg gjeldende tilsvarende ved brudd på et utreiseforbud. Etter departementets syn bør det ved reaksjonsfastsettelsen etter omstendighetene tillegges vesentlig betydning dersom lovbryteren har bidratt til en retur og dermed forebygget eller redusert skaderisikoen, jf. regelen om formildende omstendigheter i straffeloven § 78 bokstav b.
+
+# Nektelse og tilbakekall av pass og ID-kort
+
+## Gjeldende rett
+
+Norske borgere har etter passloven § 1 rett til pass når lovens vilkår er oppfylt, med mindre noen av unntaksbestemmelsene kommer til anvendelse.
+
+Det følger av passloven § 4 at det ikke kan utstedes pass til mindreårige uten samtykke fra den eller de som har foreldreansvaret. Dersom foreldreansvaret er felles, må begge foreldrene samtykke. Pass kan utstedes med bare en av foreldrenes samtykke der vedkommende etter barneloven har anledning til å ta barnet med ut av landet, se punkt 6.1.2. Dersom barnevernstjenesten har overtatt omsorgen for barnet etter barnevernsloven § 4-8 eller § 4-12, skal samtykke kun innhentes fra barnevernstjenesten.
+
+ID-kortloven § 4 har tilsvarende regler for utstedelse av nasjonale ID-kort med reiserett.
+
+Etter passloven § 4 tredje ledd kan pass i særlige tilfeller utstedes uten samtykke dersom det er fare for personens liv eller helse, eller det av andre grunner er åpenbart ubetenkelig. Som det fremgår av Prop. 126 L (2018-2019) punkt 3.5.3 er dette en snever unntakshjemmel. Fare for liv og helse som mulig grunnlag for passutstedelse uten samtykke fra den eller de som har foreldreansvaret, ble tilføyd ved lov 20. desember 2019 nr. 107. Tilføyelsen innebar ingen egentlig utvidelse av adgangen til å utstede pass uten samtykke, men tydeliggjorde at pass i slike tilfeller kan utstedes uten noen av foreldrenes samtykke, jf. Prop. 126 L (2018–2019) punkt 3.5.3. Bakgrunnen for endringen var at det de senere årene før endringen hadde vært en økende tendens til at barn ble etterlatt i utlandet mot sin vilje, og som følge av dette befant seg i situasjoner som innebar fare for liv eller helse. Det ble ikke funnet nødvendig med tilsvarende tilføyelse i ID-kortloven, da ID-kort kun utstedes ved pass- og ID-kontor i Norge.
+
+Passloven § 5 om passhindringer angir i hvilke tilfeller pass enten skal eller kan nektes utstedt. Bestemmelsens første ledd angir de absolutte nektelsesgrunnene, det vil si tilfeller hvor pass skal nektes utstedt. Pass skal nektes utstedt blant annet når utreiseforbud følger av tvisteloven §§ 33-11 eller lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) § 102 og når det foreligger en lovhjemlet beslutning av offentlig myndighet som innebærer at utreise vil være ulovlig, jf. passloven § 5 første ledd bokstav b og c.
+
+I hvilke tilfeller pass kan nektes etter en skjønnsmessig vurdering fremgår av andre og tredje ledd. Etter passloven § 5 tredje ledd bokstav g kan pass til barn nektes utstedt dersom det er grunn til å tro at barnet «vil bli utsatt for straffbare forhold i utlandet eller forhold der som kan medføre fare for liv eller helse». Bestemmelsen er særlig utformet med sikte på å forebygge skadelige utenlandsopphold for barn, for eksempel at barn sendes på skoler i utlandet der de utsettes for vold eller overgrep, jf. Prop. 126 L (2018–2019) punkt 3.1. Etter ID-kortloven § 5 tredje ledd bokstav e kan også ID-kort med reiserett til barn nektes utstedt i slike tilfeller.
+
+Både passloven og ID-kortloven hjemler tilbakekall av henholdsvis pass og ID-kort i tilfeller der vilkårene for å nekte utstedelse er til stede, jf. passloven § 7 første ledd bokstav b og ID-kortloven § 8.
+
+Passloven § 12 andre ledd gir hjemmel til å fastsette nærmere regler i forskrift om gjennomføring av loven, herunder om passets form og innhold, hvem som kan få utlevert opplysninger fra passregisteret, og overgangsbestemmelser.
+
+Utenlandske borgere bosatt i Norge kan på nærmere vilkår gis reisebevis for flyktninger eller utlendingspass etter utlendingsloven § 64. Slike reisedokumenter kan nektes utstedt eller inndras dersom det foreligger forhold som gjør at det ikke ville blitt utstedt pass til norsk statsborger etter passloven § 5, jf. utlendingsforskriften §§ 12-1 og 12-4 (reisebevis) og §§ 12-5 og 12-8 (utlendingspass).
+
+## Utvalgets forslag
+
+Utvalgets flertall foreslår å tilføye i passloven § 5 første ledd bokstav b at pass skal nektes utstedt dersom det treffes vedtak om utreiseforbud etter forslaget til ny § 4-6 og ny § 5-12 i barnevernsloven. Den likelydende bestemmelsen i ID-kortloven § 5 første ledd bokstav b foreslås endret tilsvarende. Forslaget innebærer at nektelse av pass og ID-kort med reiserett vil være obligatorisk i slike tilfeller, i motsetning til den gjeldende skjønnsmessige adgangen i passloven § 5 tredje ledd bokstav g og ID-kortloven § 5 tredje ledd bokstav e til å nekte pass utstedt i tilfeller av fare for skadelige utenlandsopphold.
+
+Utvalgets flertall foreslår samtidig å presisere i passloven § 5 femte ledd at det i særlige tilfeller kan utstedes pass med begrenset gyldighetsområde og gyldighetstid også til mindreårige som det er truffet utreiseforbud for etter barnevernsloven §§ 4-6 eller 5-12. Forslaget er ment å gjøre det mulig for barnet å delta på konkrete utenlandsreiser som ikke medfører noen fare, som skoleturer og lignende.
+
+Et samlet utvalg foreslår videre at det i passloven lovfestes en plikt for utenriksstasjonene til straks å underrette kommunens barnevernstjeneste om utstedelse av pass til mindreårige uten samtykke når utstedelsen er begrunnet i fare for barnets liv eller helse.
+
+Utvalget presiserer at utlendingsmyndighetene må varsles om vedtak om utreiseforbud dersom barnet er utenlandsk statsborger, slik at eventuelle reisedokumenter utstedt etter utlendingslovgivningen kan tilbakekalles. Utvalget peker for øvrig på at passmyndighetene i dag har underretningsplikt til barnevernstjenesten når pass til barn nektes utstedt eller tilbakekalles fordi det er grunn til å tro at barnet vil bli utsatt for straffbare forhold i utlandet eller forhold der som medfører fare for liv og helse. Blant annet av hensyn til et klart og enhetlig regelverk, mener utvalget at det bør innføres en tilsvarende underretningsplikt for utlendingsmyndighetene i utlendingsforskriften.
+
+I tillegg foreslår utvalget å tilføye en hjemmel i passloven § 12 andre ledd bokstav d til å gi nærmere bestemmelser om innholdet i vilkåret i § 4 tredje ledd om at passutstedelse uten samtykke fra foreldre med foreldreansvar må være «åpenbart ubetenkelig». Med henvisning til at flere aktører har pekt på at det er uklart hva som ligger i vilkåret «fare for liv og helse» i passloven § 4 tredje ledd, foreslår utvalget at forskriftsbestemmelsen også bør åpne for forskriftsregulering av hva som ligger i betegnelsen «fare for liv og helse».
+
+Utvalget har vurdert om passloven § 5 tredje ledd bokstav g, som gir passmyndigheten en skjønnsmessig adgang til å nekte utstedelse dersom det er grunn til å tro at barnet vil bli utsatt for straffbare forhold i utlandet, burde oppheves dersom utreiseforbud innføres, men konkluderer med at det ikke bør gjøres.
+
+## Høringsinstansenes syn
+
+*Kontoret for fri rettshjelp* mener at kravet om samtykke til pass fra begge foreldre må lempes på i tilfeller av ufrivillig utenlandsopphold hvor begge foreldrene bor i Norge og en av dem vil at barna skal holdes i utlandet. Terskelen for å innvilge barn nødpass bør senkes, slik at hovedprioriteten blir å få barna det gjelder hjem til Norge. *Kripos, Oslo politidistrikt* og *Politidirektoratet* støtter utvalgets forslag i sin helhet, men har merknader til ulike deler av dem. Ingen andre høringsinstanser har uttalt seg særskilt om forslagene som gjelder passloven.
+
+*Politidirektoratet* viser til at forslagene kun i begrenset grad innebærer endret praksis, men vil bety klarere reguleringer på området og større grad av rettsikkerhet for barn i en utsatt posisjon. Forslaget om å innta en tydelig henvisning til utreiseforbud etter barnevernsloven i passloven § 5 første ledd bokstav b anses som svært positivt. Passutstedelse vil dermed kunne nektes og tilbakekalles uten at det må foretas skjønnsmessige vurderinger og forholdsmessighetsvurdering etter § 5 fjerde ledd. Også *Oslo politidistrikt* tiltrer utvalgets syn på at det rettslige vernet til barn og unge først og fremst kan styrkes ved å sikre at myndighetene har egnende virkemidler til å forebygge og forhindre at reisen finner sted. Samtidig påpeker politidistriktet betydningen av at politiet varsles omgående dersom det fattes vedtak om utreiseforbud etter barnevernsloven §§ 4-6 og 5-12, slik at vedtak om tilbakekall og ugyldiggjøring av reisedokumenter kan fattes. Politiet må varsles uavhengig av om barnet har gyldige reisedokumenter, slik at pass- og ID-kortmyndigheten er kjent med utreiseforbudet hvis det fremmes en søknad.
+
+*Oslo politidistrikt* sier seg videre enig med utvalget i at passloven § 5 tredje ledd bokstav g ikke bør endres. Politidistriktet påpeker at bestemmelsen har andre vilkår enn forslagene om nye hjemler for nektelse av reisedokument ved utreiseforbud, og at bestemmelsen nå er etablert som et viktig hjemmelsgrunnlag. Særlig i hastesaker, der pass- og ID-kortmyndighetene har tilstrekkelig informasjon, er politidistriktets oppfatning at anledningen til å fatte vedtak uten informasjon fra barnevernet bør være tilgjengelig.
+
+Til utvalgets forslag om endring av passloven § 5 femte ledd, påpeker både *Politidirektoratet* og *Oslo politidistrikt* at en adgang til å utstede pass med begrenset gyldighetsområde, ikke vil gi de sikkerhetsrammer som ligger til grunn for utvalgets forslag. Det er i dag ikke mulig å innføre begrensning i gyldighetsområde i passets maskinlesbare felter, slik at det vil variere om begrensningene fanges opp i blant annet grensekontroll. I praksis anvendes derfor heller ikke den allerede gjeldende adgangen etter § 5 femte ledd til å utstede pass med begrenset gyldighetsområde når det foreligger passhindring etter andre og tredje ledd.
+
+*Politidirektoratet*, *Oslo politidistrikt* og *Kripos* støtter utvalgets forslag om å endre passloven § 12 slik at bestemmelsen åpner for nærmere regulering i forskrift av vurderingen som må gjøres etter passloven § 4 tredje ledd. Disse høringsinstansene er også positive til utvalgets forslag om en tilføyelse i § 4 tredje ledd som pålegger norsk utenriksstasjon å underrette barnevernstjenesten dersom pass utstedes til mindreårige uten foreldrenes samtykke. Kripos påpeker at en slik passutstedelse skjer når hjemreise er nødvendig av hensyn til barnets liv eller helse, og at det må sees i sammenheng med kriminaliseringen av det å utsette barn for skadelige utenlandsopphold. Kripos mener det er gode grunner for at barnevernstjenesten bør undersøke forholdene rundt barnet etter hjemkomst, og ta rede på bakgrunnen for at det ble nødvendig å utstede pass til barnet uten samtykke fra foreldrene. Oslo politidistrikt legger til grunn at Nasjonal vedtakslinje, som er det nasjonale bistandsorganet i pass- og ID-saker for øvrige politidistrikt og alle norske utenriksstasjoner, vil være involvert i de tilfellene som omfattes av forslaget. Det påpekes også at politiet allerede plikter å melde fra om alvorlige bekymringer til barnevernet av eget initiativ etter barnevernsloven § 13-2 første ledd, men at en klar bestemmelse i passloven vil kunne bidra til å sikre at barn får nødvendig og rettidig bistand og oppfølging ved retur til Norge.
+
+## Departementets vurdering
+
+Departementet følger opp utvalgets forslag om å innta en henvisning til ny § 5-13 i barnevernsloven i passloven § 5 første ledd bokstav b og ID-kortloven § 5 første ledd bokstav b. Ilagt utreiseforbud etter barnevernsloven vil dermed som hovedregel være en absolutt hindring for utstedelse av pass og ID-kort, i likhet med utreiseforbud som følger av andre lover nevnt i § 5 første ledd bokstav b. Passnektelse er en naturlig følge av utreiseforbud fastsatt av annen offentlig myndighet som bidrar til å hindre at utreiseforbudet overtres.
+
+Dersom det foreligger en passhindring kan et allerede utstedt pass tilbakekalles med hjemmel i passloven § 7 første ledd bokstav b. For å sikre at passet tilbakekalles i tilfeller der det er vedtatt utreiseforbud, må barnevernstjenesten varsle politiet om vedtaket uten ugrunnet opphold. Dette foreslås presisert i barnevernsloven § 13-5 om barnevernets varslingsplikt, se nærmere om dette i punkt 6.4.4.5. Når barnevernstjenesten varsler om at det er fattet vedtak om utreiseforbud er det også politiets oppgave å vurdere om vedtaket skal registreres i Schengen Information System (SIS). Det er derfor viktig med god informasjonsflyt internt i politiet for å sikre at riktig myndighet får nødvendig informasjon for å vurdere hvilke tiltak som skal gjennomføres.
+
+Departementet bemerker at det er spesielt viktig at det etableres gode rutiner for informasjonsdeling i tilfeller der det er fattet akuttvedtak om utreiseforbud etter barnevernslovens nye § 4-6. Dette er saker av tidskritisk karakter, der det er fare for at barnet umiddelbart blir sendt eller tatt med på et skadelig utenlandsopphold, og politiet er avhengig av informasjon fra barnevernstjenesten og god informasjonsflyt internt for å kunne følge opp akuttvedtaket i tide.
+
+Endringene i passloven § 5 vil gjelde tilsvarende for utstedelse og inndragning av reisebevis for flyktninger og utlendingspass etter utlendingsloven § 64, jf. utlendingsforskriften § 12-1 første ledd bokstav a, § 12-4 tredje ledd bokstav a, § 12-5 femte ledd bokstav a og § 12-8. Endringene i passloven innebærer følgelig at også slike reisedokumenter kan nektes utstedt eller inndras som følge av et utreiseforbud. Dersom barnet er utenlandsk statsborger må derfor også utlendingsmyndighetene varsles, jf. forslaget til presisering i barnevernsloven § 13-5, slik at også eventuelle reisedokumenter utstedt etter utlendingslovgivningen kan tilbakekalles.
+
+Departementet bemerker at norske myndigheter ikke kan inndra pass utstedt av andre stater, og at norske myndigheter heller ikke vil få informasjon dersom slike dokumenter utstedes. Utreiseforbudet, og den etterfølgende nektelsen av utstedelse av pass, reisebevis for flyktninger eller utlendingspass, er derfor kun i begrenset grad til hinder for utreise for personer med dobbelt eller utenlandsk statsborgerskap med pass fra hjemlandet.
+
+Departementet er enig med *Politidirektoratet* og *Oslo politidistrikt* i at utvalgets forslag om å åpne for utstedelse av pass med begrenset gyldighetsområde og gyldighetstid for mindreårige som det er truffet utreiseforbud for etter barnevernsloven, ikke bør følges opp i sin helhet. Det vurderes som uheldig om passmyndigheten skal måtte foreta skjønnsmessige vurderinger av når det skal utstedes reisedokumenter til barn i tilfeller hvor det foreligger et utreiseforbud. Det mest tungtveiende argumentet mot en slik adgang er likevel at utstedelse av pass med begrenset gyldighetsområde, ikke vil gi tilstrekkelig sikkerhet for at den mindreårige ikke sendes på skadelige utenlandsopphold ved bruk av passet og i strid med utreiseforbudet. Som nevnt av både Politidirektoratet og Oslo politidistrikt er det per i dag ikke mulig å innføre begrensning i gyldighetsområdet i passets maskinlesbare felter, og det vil derfor variere om begrensningene fanges opp i for eksempel grensekontroll. Innføring og bruk av en slik mulighet vil følgelig kunne undergrave formålet med utreiseforbudet og passnektelse.
+
+Som redegjort for i punkt 6.4.4.1 foreslås det at barnevernstjenesten skal kunne gi tillatelse til konkrete enkeltreiser selv om det foreligger et utreiseforbud, jf. tredje ledd i forslaget til ny § 5-13 i barnevernsloven. Unntakshjemmelen er snever, og det er lagt til barnevernstjenesten å vurdere konkret om barnets sikkerhet vil være tilstrekkelig høy på reisen. I slike tilfeller foreslås det at passmyndigheten, etter anmodning fra barnevernstjenesten, skal kunne utstede et pass med kort gyldighetstid, slik at barnet kan gjennomføre den konkrete reisen. Gyldighetstiden skal kun settes til den tid som er nødvendig for å gjennomføre reisen, for så langt mulig å sikre seg mot at barnet ikke tas med på andre reiser enn den passet er utstedt for.
+
+Departementet foreslår at en hjemmel for utstedelse av pass med begrenset gyldighetstid til barn som er underlagt utreiseforbud etter barnevernsloven § 5-13 første ledd, tilføyes i nytt andre punktum i passloven § 5 femte ledd.
+
+Departementet følger opp forslaget om å lovfeste en plikt for utenriksstasjonene til å underrette kommunal barnevernstjeneste når pass utstedes til mindreårige uten samtykke fra foreldre fordi utstedelsen er begrunnet i fare for barnets liv eller helse, se forslaget til nytt annet punktum i passloven § 4 tredje ledd. Riktignok har utenriksstasjonene allerede en meldeplikt etter barnevernsloven § 13-2. Etter departementets syn kan det likevel tenkes situasjoner der det kan være tvil om meldeplikten i barnevernsloven § 13-2 utløses, for eksempel dersom den ene forelderen er i Norge og det er grunn til å tro at denne kan ivareta barnet. Dersom barnet har vært i en situasjon i utlandet hvor det er fare for barnets liv eller helse, bør barnevernstjenesten uansett varsles om returen ettersom barnevernstjenesten er nærmest til å vurdere behovet for videre undersøkelser eller oppfølging gjennom barnevernstiltak. En klar bestemmelse i passloven tydeliggjør og understreker dermed viktigheten av deling av opplysninger mellom utenriksstasjonen som passmyndighet og barnevernstjenesten, og vil bidra til å sikre at barn får nødvendig hjelp og oppfølging av barnevernet ved retur til Norge. Passloven § 4 gjelder tilsvarende for utstedelse av passérbrev for innreise til riket til barn under 18 år, jf. utlendingsforskriften § 12-9 andre ledd.
+
+Departementet foreslår også å følge opp forslaget om å tilføye en hjemmel i passloven § 12 andre ledd bokstav d til å gi nærmere bestemmelser i forskrift om innholdet i § 4 tredje ledd. Klargjøring i forskrift av hvilke momenter som kan vektlegges i vurderingen av om pass skal utstedes uten samtykke vil bidra til forutberegnelighet og til en ensartet praktisering av, både i relasjon til vilkåret «fare for personens liv eller helse» og vilkåret «åpenbart ubetenkelig».
+
+Det er ikke behov for en tilsvarende endring i forskriftshjemmelen i ID-kortloven § 14. ID-kortloven § 4 tredje ledd om utstedelse av pass til mindreårige uten samtykke, inneholder ikke alternativet «fare for personens liv eller helse», som er det primære med den foreslåtte forskriftshjemmelen i passloven. Behovet for en nærmere regulering i forskrift er derfor ikke det samme i ID-kortloven.
+
+Departementet er for øvrig enig med utvalget i at endringer i passloven § 5 tredje ledd bokstav g foreløpig ikke bør oppheves selv om utreiseforbud etter barnevernsloven som hovedregel gjøres til en absolutt passhindring. Det er, slik utvalget også påpeker, uheldig med delvis overlappende regler, men det synes likevel hensiktsmessig at de nye reglene om utreiseforbud og tilbakekall av reisedokumenter får virke en stund før det vurderes om det fortsatt er behov for den skjønnsmessige bestemmelsen i passloven § 5 tredje ledd bokstav g.
+
+# Økonomiske og administrative konsekvenser
+
+I NOU 2024: 13 viser utvalget til at forslaget om utreiseforbud i barnevernsloven vil være et nytt tiltak barnevernstjenesten kan anvende i saker hvor barn står i fare for skadelige utenlandsopphold. Utvalget viser også til at det må påregnes at tiltaket vil føre til noen flere saker for barneverns- og helsenemnda, og at det må påregnes at noen av sakene vil bringes inn for retten. Utvalget viser også til at det er vanskelig å anslå hvor mange saker det økte sakstilfanget kan dreie seg om, men antar at mange av sakene vil erstatte saker der barnevernstjenesten ellers ville fremmet saker om akuttvedtak om omsorgsovertakelse eller andre tiltak som er ment å forhindre utreise. På denne bakgrunn antar utvalget at et økt sakstilfang må antas å kunne dekkes innenfor gjeldende budsjettrammer.
+
+Barnevernstjenestens hovedoppgave er å sikre at barn og unge som lever under forhold som kan skade deres helse og utvikling, får nødvendig hjelp, omsorg og beskyttelse til rett tid. Forslaget til nye bestemmelser i barnevernsloven om utreiseforbud endrer ikke barnevernstjenestens grunnleggende ansvar for å forhindre og beskytte barn mot å bli utsatt for ulike former for alvorlig omsorgssvikt, og innebærer ikke en ny plikt for kommunene, men vil gi barnevernstjenesten et nytt virkemiddel for å beskytte barn mot å bli utsatt for alvorlig omsorgssvikt. Barne- og familiedepartementet legger til grunn at forslaget derfor ikke vil medføre økte utgifter for kommunene. Departementet ser samtidig at forslaget heller ikke vil innebære forenklinger eller endringer som vil gi økonomiske besparelser av betydning.
+
+Departementet vurderer at forslaget vil gjelde svært få saker, og legger derfor til grunn at det heller ikke vil ha vesentlige økonomiske og administrative konsekvenser av betydning for barneverns- og helsenemnda eller for domstolene.
+
+Utvalget peker på at endringene vil kunne gi noe økt ressursbruk i Bufdir, blant annet til oppdatering av rundskriv og retningslinjer, og økte utgifter til Kompetanseteamet mot negativ sosial kontroll og æresrelatert vold, som skal gi råd og veiledning. Barne- og familiedepartementet vurderer at disse økningene ikke vil bli vesentlige, og vil kunne ivaretas innenfor dagens bevilgning.
+
+På denne bakgrunnen legger Barne- og familiedepartementet til grunn at forslaget om utreiseforbud i barnevernsloven ikke vil ha nevneverdige økonomiske eller administrative konsekvenser.
+
+Gjennomføringen av endringene i pass- og ID-kortloven forventes ikke å ha nevneverdige økonomiske eller administrative konsekvenser. Endringene innebærer i liten grad nye oppgaver for politiet og påtalemyndigheten, men antall saker der pass nektes utstedt kan øke noe.
+
+I tillegg innebærer de foreslåtte endringene i straffeloven en utvidelse av politiets virkemidler for å hindre utreise der det er fare for at et barn sendes på skadelige utenlandsopphold. Det kan medføre en økning i denne type saker og utvidelse av politiets veilederoppgave. Politidirektoratet anslår at dette vil kreve ressurser tilsvarende én stilling totalt. Det innebærer ikke økonomiske og administrative kostnader av betydning for politidistriktene.
+
+Iverksettelsen av lovendringene vil til en viss grad medføre tilpasninger og tilrettelegging av politiets saksbehandlingsverktøy (BL), men det vurderes ikke å være av vesentlig ressursmessig betydning.
+
+Justis- og beredskapsdepartementet vurderer at tiltakene har begrensede økonomiske og administrative konsekvenser, og derfor kan håndteres innenfor de berørte virksomhetenes gjeldende budsjettrammer.
+
+# Merknader til de enkelte bestemmelsene
+
+## Til endringen i passloven
+
+Til § 4
+
+I *tredje ledd* er det føyd til et nytt *andre punktum* om at norske utenriksstasjoner skal underrette kommunens barnevernstjeneste når det utstedes pass til mindreårige uten samtykke fra den eller de som har foreldreansvaret fordi passutstedelsen er begrunnet i fare for barnets liv eller helse. Underretningsplikten skal sikre at barnevernstjenesten er forberedt og kan sørge for at barna det gjelder får nødvendig oppfølgning ved retur til Norge.
+
+I tilfeller der det er tvil om unntakshjemmelen i passloven § 4 tredje ledd kommer til anvendelse, skal utenriksstasjonen overføre saken til Nasjonal Vedtakslinje i politiet, jf. pass- og ID-kortforskriften § 1-3. Det følger av forskriftens § 1-3 andre ledd at det likevel alltid er utenriksstasjonen som har mottatt søknaden som skal stå som utstedende myndighet i passet. Også i tvilstilfellene er det derfor utenriksstasjonen som skal varsle kommunens barnevernstjeneste om utstedelsen av passet.
+
+Utenriksstasjonene har i tillegg allerede en meldeplikt etter barnevernsloven § 13-2. Det kan likevel tenkes situasjoner der det kan være tvil om meldeplikten i barnevernsloven § 13-2 utløses, for eksempel dersom den ene forelderen er i Norge og det er grunn til å tro at denne kan ivareta barnet. Dersom barnet har vært i en situasjon i utlandet hvor det er fare for barnets liv eller helse, bør barnevernstjenesten uansett varsles om returen ettersom barnevernstjenesten er nærmest til å vurdere behovet for videre undersøkelser eller oppfølging gjennom barnevernstiltak. En klar varslingsplikt for utenriksstasjonene i passloven § 4 tredje ledd vil tydeliggjøre at barnevernstjenesten skal varsles også i disse tilfellene. Samtidig bidrar varslingsplikten i passloven til å understreke viktigheten av deling av opplysninger mellom utenriksstasjonen som passmyndighet og barnevernstjenesten.
+
+Se de alminnelige merknadene i punkt 8.4.
+
+Til § 5
+
+I *første ledd bokstav b* er det tilføyd en henvisning til utreiseforbud etter barnevernsloven §§ 4-6 eller 5-13. Endringen innebærer at utreiseforbud etter barnevernsloven utgjør en absolutt passhindring etter passloven, med den følge at pass skal nektes utstedt. Dette er med på å sikre etterlevelse av utreiseforbudet.
+
+I *femte ledd andre punktum* er det tilføyd at passmyndigheten kan utstede ordinære pass med begrenset gyldighetstid til barn som er ilagt et utreiseforbud etter barnevernsloven § 5-13 første ledd. Utstedelsen kan bare skje etter anmodning fra barnevernsmyndigheten, og der barnevernstjenesten har gitt tillatelse etter barnevernsloven § 5-13 tredje ledd til at barnet reiser på en enkeltreise.
+
+Se de alminnelige merknadene i punkt 8.4.
+
+Til § 12
+
+*Andre ledd bokstav c* er endret til å angi at det kan gis forskrift om hva som kan vektlegges i vurderingen etter § 4 tredje ledd av om pass skal utstedes uten samtykke fra den eller de som har foreldreansvar. Ny *bokstav d* tilsvarer nåværende bokstav c. Se de alminnelige merknadene i punkt 8.4.
+
+## Til endringen i straffeloven
+
+Til § 261
+
+Endringen i § 261 *første ledd tredje punktum* innebærer at det er straffbart å ta en mindreårig ut av landet når det er fattet vedtak om utreiseforbud etter barnevernsloven § 5-13, eller et slikt tiltak er begjært. Bestemmelsen rammer også brudd på utreiseforbud i tilfeller hvor dette er besluttet i en akuttsituasjon etter barnevernsloven § 4-6. Se de alminnelige merknadene i punkt 7.4.
+
+## Til endringen i ID-kortloven
+
+Til § 5
+
+I *første ledd bokstav b* er det tilføyd en henvisning til utreiseforbud etter barnevernsloven §§ 4-6 eller 5-13. Endringen samsvarer med den tilsvarende endringen i passloven § 5 første ledd bokstav b, og tilføyes for å sikre etterlevelse av utreiseforbudet. Se de alminnelige merknadene i punkt 8.4.
+
+## Til endringene i barnevernsloven
+
+Til § 1-2 fjerde ledd
+
+I *fjerde ledd* presiseres det at det ikke kan treffes akuttvedtak om utreiseforbud etter ny § 4-6 for barn som befinner seg i Norge, men som har vanlig bosted i en annen stat. Se de alminnelige merknadene i punkt 6.4.4.2.
+
+Til § 4-6
+
+Bestemmelsen er ny og regulerer et nytt barnevernstiltak: akutt utreiseforbud. *Første ledd* gir adgang til å treffe akuttvedtak om at et barn ikke kan reise eller bli tatt med ut av landet. Grunnvilkåret for å treffe et slikt vedtak er at det foreligger en nærliggende fare for at barnet umiddelbart blir sendt eller tatt med ut av landet til forhold som nevnt i § 5-13. Vedtakskompetansen er lagt til barnevernstjenestens leder, lederens stedfortreder og påtalemyndigheten. Vilkåret om «nærliggende fare» sikter til at det må foreligge en konkret og reell risiko for fare. Det kreves alminnelig sannsynlighets overvekt. Vilkåret «umiddelbart» er ment å understreke at barnets situasjon må være så alvorlig at det er nødvendig å gjennomføre vedtaket straks.
+
+Når det gjelder hvilke forhold som omfattes av § 5-13, vises det til merknaden til denne bestemmelsen.
+
+Etter *andre ledd* skal et akuttvedtak om utreiseforbud følges opp med en begjæring til barneverns- og helsenemnda snarest, dersom det er behov for videre tiltak. Dette innebærer en vurdering av om barnets situasjon kan ivaretas på annen måte enn gjennom et akuttvedtak om utreiseforbud, inntil saken kan undersøkes nærmere og eventuelt legges fram for nemnda på vanlig måte. På samme måte som ved andre tiltak etter barnevernsloven krever det en forholdsmessighetsvurdering av hvorvidt et akutt utreiseforbud er til barnets beste, og om mindre inngripende tiltak kan benyttes, jf. §§ 1-3 og 1-5 andre ledd. Akuttvedtaket faller bort dersom en slik begjæring ikke er framsatt innen seks uker. Bestemmelsen tilsvarer § 4-2 tredje ledd om akuttvedtak om omsorgsovertakelse.
+
+Se de alminnelige merknadene i punkt 6.4.4.2.
+
+Til § 5-6
+
+Det foreslås et nytt *andre punktum*. Bestemmelsen presiserer at forbudet mot å ta med barnet ut av Norge uten barnevernstjenestens samtykke også gjelder ved vedtak etter §§ 4-6 og 5-13, eller når begjæring om slike tiltak er sendt barneverns- og helsenemnda. Se de alminnelige merknadene i punkt 6.4.4.3.
+
+Til § 5-13
+
+Bestemmelsen er ny og regulerer ett nytt barnevernstiltak: utreiseforbud.
+
+*Første ledd* åpner for at barneverns- og helsenemnda kan treffe vedtak om at et barn ikke kan forlate Norge når det er en nærliggende fare for at barnet i utlandet vil bli utsatt for mishandling, alvorlig fare for barnets liv eller helse eller annen alvorlig omsorgssvikt. Med «nærliggende fare» siktes det til at det må foreligge en konkret og reell risiko for at barnet i utlandet vil bli utsatt for slike forhold.
+
+Det første alternative vilkåret, «mishandling», innebærer alvorlige fysiske eller psykiske krenkelser mot barnet som kan ha pågått over tid. Med «alvorlig fare for barnets liv eller helse» siktes det til både fysisk og psykisk helse. Vilkåret er ment å omfavne situasjoner der barnet tas med eller sendes til områder preget av krig eller alvorlig uro, og hvor oppholdet kan medføre en konkret og alvorlig fare for barnets liv eller helse. Det omfatter også tilfeller der barnet ikke mottar livsnødvendig helsehjelp. Når det gjelder alternativet «annen alvorlig omsorgssvikt», er det den kvalifiserte eller alvorlige svikten i omsorgen som det er nærliggende fare for at barnet vil bli utsatt for i utlandet, som kan begrunne et utreiseforbud. Dette innebærer at det må foreligge en nærliggende fare for alvorlig svikt i ivaretakelsen av barnets grunnleggende behov. Enhver mangel vil derfor ikke være tilstrekkelig for at vilkårene skal anses oppfylt. At faren må være alvorlig innebærer at ikke enhver negativ konsekvens for barnet vil være tilstrekkelig. Forholdene barnet risikerer å bli utsatt for kan samlet sett utgjøre en alvorlig omsorgssvikt, selv om hvert enkelt forhold isolert sett ikke når opp til terskelen. På samme måte som ved andre tiltak etter barnevernsloven krever det en forholdsmessighetsvurdering av hvorvidt et utreiseforbud er til barnets beste, eller om mindre inngripende tiltak kan benyttes, jf. §§ 1-3 og 1-5 andre ledd.
+
+Etter *andre ledd* skal et vedtak om utreiseforbud ikke ha lengre varighet enn nødvendig for å forhindre faren etter første ledd. Den maksimale varigheten er seks måneder. Vedtaket kan fornyes for inntil seks måneder, forutsatt at vilkårene fremdeles er oppfylt. Nemnda må foreta en ny, konkret og oppdatert vurdering av barnets situasjon og behov på fornyelsestidspunktet. Hvis vedtaket ikke fornyes innen fristen, bortfaller det. Vedtaket opphører uansett senest når barnet fyller 18 år.
+
+Etter *tredje ledd* kan barnevernstjenesten gi tillatelse til enkeltreiser selv om det foreligger et vedtak om utreiseforbud, dersom det er åpenbart at reisen ikke medfører fare for barnet. Kravet om at det må være «åpenbart» innebærer at det må foreligge høy grad av sikkerhet. Et eksempel kan være en skoletur hvor barnet vil være sammen med lærere og medelever under hele utenlandsoppholdet.
+
+Det kan ikke ilegges utreiseforbud overfor barn uten lovlig opphold eller uten oppholdstillatelse i Norge, og et eventuelt utreiseforbud overfor slike personer vil være uten rettslig eller praktisk realitet.
+
+Se de alminnelige merknadene i punkt 6.4.4.1.
+
+Til § 13-4 første ledd
+
+*Første ledd bokstav g* og *m* gir barnevernstjenesten og barneverns- og helsenemnda hjemmel til å pålegge offentlige organer å utlevere taushetsbelagte opplysninger som er nødvendige for å vurdere, forberede og behandle saker om henholdsvis akuttvedtak om utreiseforbud etter ny § 4-6 og vedtak om utreiseforbud etter ny § 5-13. For tolkning av vilkårene vises det overordnet til forarbeidene til barnevernsloven, Prop. 133 L (2020–2021) punkt 25.1 (merknader til § 13-4). Se de alminnelige merknadene i punkt 6.4.4.4.
+
+Til § 13-5 sjette ledd
+
+Nytt *sjette ledd* pålegger barnevernstjenesten en plikt til å underrette politiet så snart som mulig om vedtak og akuttvedtak om utreiseforbud, jf. lovforslagene §§ 4-6 og 5-13. Etter andre punktum skal utlendingsmyndighetene varsles dersom barnet ikke er norsk statsborger. Underretningen skal sikre at barnets reisedokumenter tilbakekalles. Varslingen til politiet og/eller utlendingsmyndighetene skal derfor skje uten ugrunnet opphold. Se de alminnelige merknadene i punkt 6.4.4.5.
+
+Til § 14-22
+
+Etter *første ledd første punktum* skal et akuttvedtak om utreiseforbud straks etter vedtakelsen oversendes til barneverns- og helsenemda. Etter første ledd nåværende andre punktum, som blir tredje punktum, skal nemndleder avgjøre saken snarest. Se de alminnelige merknadene i punkt 6.4.4.2.
+
+Til § 14-23 første ledd første punktum
+
+I *første ledd første punktum* tilføyes § 4-6 om akuttvedtak om utreiseforbud, slik at de private partene også kan påklage slike akuttvedtak. Se de alminnelige merknadene i punkt 6.4.4.6.
+
+Til § 15-5 første ledd første punktum
+
+I *første ledd* presiseres at det er kommunen der barnet oppholder seg, som har ansvaret for å reise sak om utreiseforbud etter ny § 5-13 for barneverns- og helsenemnda. Se de alminnelig merknadene i punkt 6.4.4.6.
+
+Arbeids- og inkluderingsdepartementet
+
+tilrår:
+
+At Deres Majestet godkjenner og skriver under et framlagt forslag til proposisjon til Stortinget om endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.).
+
+**Vi HARALD,** Norges Konge,
+
+stadfester:
+
+Stortinget blir bedt om å gjøre vedtak til lov om endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.) i samsvar med et vedlagt forslag.
+
+Forslag
+
+til lov om endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
+
+I
+
+I lov 19. juni 1997 nr. 82 om pass gjøres følgende endringer:
+
+§ 4 tredje ledd nytt andre punktum skal lyde:
+
+*Norsk utenriksstasjon som er bemyndiget til å utstede pass skal straks underrette kommunens barnevernstjeneste om utstedelse av pass til mindreårige uten samtykke når utstedelsen er begrunnet i fare for barnets liv eller helse.*
+
+§ 5 første ledd bokstav b skal lyde:
+
+b\. når utreiseforbud følger av tvisteloven *§ 33-11, konkursloven* § 102 *eller barnevernsloven §§ 4-6 eller 5-13*;
+
+§ 5 femte ledd nytt andre punktum skal lyde:
+
+*Til personer som er underlagt utreiseforbud etter barnevernsloven § 5-13 første ledd kan det, etter anmodning fra barnevernstjenesten, utstedes pass med begrenset gyldighetstid når barnevernstjenesten har gitt tillatelse til en enkeltreise etter barnevernsloven § 5-13 tredje ledd.*
+
+§ 12 andre ledd bokstav c skal lyde:
+
+*c. hva som kan vektlegges i vurderingen etter § 4 tredje ledd av om pass skal utstedes uten samtykke fra den eller de som har foreldreansvar*
+
+Nåværende bokstav c blir ny bokstav d.
+
+II
+
+I lov 20. mai 2005 nr. 28 om straff skal
+
+§ 261 første ledd tredje punktum skal lyde:
+
+Tilsvarende gjelder der det er fattet vedtak om omsorgsovertakelse, flytteforbud*, utreiseforbud* eller institusjonsplassering etter barnevernsloven §§ 5-1, 4-3, *5-13*, 6-2 eller 6-6 eller der en begjæring om slike tiltak er sendt barneverns- og helsenemnda etter barnevernsloven § 14-9, eller der det i en akuttsituasjon er iverksatt midlertidig vedtak etter barnevernsloven §§ 4-2, 4-4 og 4-5 *eller er fattet akuttvedtak etter barnevernsloven § 4-6*.
+
+III
+
+I lov 5. juni 2015 nr. 39 om nasjonalt identitetskort skal
+
+§ 5 første ledd bokstav b lyde:
+
+b\. når utreiseforbud følger av tvisteloven *§ 33-11, konkursloven* § 102 *eller barnevernsloven §§ 4- 6 eller 5-13*;
+
+IV
+
+I lov 18. juni 2021 nr. 97 om barnevern gjøres følgende endringer:
+
+§ 1-2 fjerde ledd skal lyde:
+
+For barn som oppholder seg i Norge, men har sitt vanlige bosted i en annen stat, kan det treffes vedtak om hjelpetiltak etter kapittel 3, vedtak om akuttiltak etter kapittel 4 *med unntak av akuttvedtak om utreiseforbud etter § 4-6*, vedtak om frivillig opphold i barnevernsinstitusjon etter § 6-1, samt vedtak om plassering på institusjon etter § 6-6 når det er fare for menneskehandel.
+
+Ny § 4-6 skal lyde:
+
+*§ 4-6* Akuttvedtak om utreiseforbud
+
+*Barnevernstjenestens leder, lederens stedfortreder eller påtalemyndigheten kan treffe akuttvedtak om utreiseforbud dersom det er en nærliggende fare for at barnet umiddelbart blir sendt eller tatt med ut av landet til forhold som nevnt i § 5-13 første ledd.*
+
+*Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge opp akuttvedtaket med en begjæring om utreiseforbud til barneverns- og helsenemnda. Dersom slik begjæring ikke foreligger innen seks uker fra vedtakstidspunktet, faller akuttvedtaket bort.*
+
+Overskriften til kapittel 5 skal lyde:
+
+Kapittel 5. Omsorgsovertakelse, fratakelse av *foreldreansvar, adopsjon og utreiseforbud*
+
+§ 5-6 andre punktum skal lyde:
+
+Det er videre ulovlig å ta med seg barnet ut av Norge uten samtykke fra barnevernstjenesten når vedtak etter §§ *4-6*, 5-1*, 5-13,* 6-2 og 6-3 er truffet eller når begjæring om slike tiltak er sendt barneverns- og helsenemnda.
+
+Ny § 5-13 skal lyde:
+
+*§ 5-13* Vedtak om utreiseforbud
+
+*Barneverns- og helsenemnda kan treffe vedtak om at barnet ikke kan forlate Norge (utreiseforbud), dersom det er en nærliggende fare for at barnet i utlandet vil bli utsatt for mishandling, alvorlig fare for barnets liv eller helse eller annen alvorlig omsorgssvikt.*
+
+*Vedtaket skal ikke ha lengre varighet enn det som er nødvendig for å hindre at barnet blir utsatt for forhold som nevnt i første ledd, og kan ikke ha lengre varighet enn seks måneder. Barneverns- og helsenemnda kan, innen utløpet av vedtaksperioden, forlenge vedtaket med inntil seks måneder dersom vilkårene fremdeles er oppfylt.*
+
+*Barnevernstjenesten kan gi tillatelse til enkeltreiser selv om vedtak om utreiseforbud er truffet, dersom det er åpenbart at reisen ikke medfører fare for forhold som nevnt i første ledd.*
+
+§ 13-4 første ledd skal lyde:
+
+De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker om
+
+a\. vedtak om medisinsk undersøkelse og behandling, jf. § 3-7
+
+b\. vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. § 3-8
+
+c\. akuttvedtak om omsorgsovertakelse, jf. § 4-2
+
+d\. vedtak om midlertidig flytteforbud, jf. § 4-3
+
+e\. akuttvedtak om plassering i barnevernsinstitusjon, jf. § 4-4
+
+f\. akuttvedtak om plassering av barn i institusjon når det er fare for menneskehandel, jf. § 4-5
+
+*g. akuttvedtak om utreiseforbud, jf. § 4-6*
+
+h\. vedtak om omsorgsovertakelse, jf. § 5-1
+
+i\. oppheving av vedtak om omsorgsovertakelse, jf. § 5-7
+
+j\. vedtak om fratakelse av foreldreansvar, jf. § 5-8
+
+k\. vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. § 5-9
+
+l\. vedtak om adopsjon, jf. § 5-10
+
+*m. vedtak om utreiseforbud, jf. § 5-13*
+
+n\. vedtak om plassering i barnevernsinstitusjon uten samtykke, jf. § 6-2
+
+o\. vedtak om plassering i institusjon ved fare for menneskehandel, jf. § 6-6
+
+p\. vedtak om samvær, jf. §§ 7-2 og 7-3
+
+§ 13-5 sjette ledd skal lyde:
+
+*Barnevernstjenesten skal så snart som mulig varsle politiet om vedtak etter §§ 4-6 og 5-13 første ledd, og når vedtak etter disse bestemmelsene faller bort. Dersom barnet er utenlandsk statsborger, skal varsel også sendes til utlendingsmyndighetene.*
+
+Nåværende sjette ledd blir nytt syvende ledd.
+
+§ 14-22 første ledd nytt annet punktum skal lyde:
+
+*Akuttvedtak om utreiseforbud etter § 4-6 skal straks etter vedtakelse sendes til nemnda.*
+
+Nåværende annet og tredje punktum blir tredje og fjerde punktum.
+
+§ 14-23 første ledd første punktum skal lyde:
+
+De private partene kan påklage akuttvedtak etter § 4-2 første og annet ledd, *§§ 4-4, 4-5, 4-6 og* vedtak om midlertidig flytteforbud etter § 4-3.
+
+§ 15-5 første ledd første punktum skal lyde:
+
+Kommunen der barnet oppholder seg, har ansvaret for å reise sak for barneverns- og helsenemnda etter §§ 3-7, 3-8, 5-1*, 5-13,* 6-2 og 6-6.
+
+V
+
+Loven gjelder fra den tiden Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.

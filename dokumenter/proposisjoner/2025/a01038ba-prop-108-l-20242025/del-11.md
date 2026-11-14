@@ -1,845 +1,224 @@
-# Prop. 108 L (2024–2025), del 11 av 14 (side 115–124)
+# Prop. 108 L (2024–2025), del 11 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2025/a01038ba-prop-108-l-20242025.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-108-l-20242025/id3096361/
 - Original-PDF: https://www.regjeringen.no/contentassets/0e6c12314d5f421c901e35a08dae68b4/no/pdfs/prp202420250108000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 20 figurer, 47 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 115]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-munene å øke med i størrelsesorden 10 prosent
-de første årene etter endring i Pensjonsordningen
-for sykepleiere, og 2 prosent i Fellesordningen for
-kommuner og bedrifter. Denne økningen kommer
-i tillegg til økningen fra 2025 da ny AFP ble innført
-for personer med aldersgrense 70 år. Over tid vil
-nivået på premier og tilskudd reduseres.
-I dagens særalderspensjon er det en større
-andel av samlet pensjon som forhåndsfinansieres
-med premie. Premien beregnes ut fra en antagelse om en garantert rente på 2 prosent. Renteantagelsen kombinert med at mer av ytelsen
-finansieres tidlig gjør at pensjonspremier for
-dagens regler vil være noe lavere enn nye regler,
-til tross for at pensjonsforpliktelse totalt sett vurderes å være relativt lik.
-For kommuner og fylkeskommuner vil det nye
-regelverket i svært liten grad påvirke pensjonspremien og pensjonskostnaden for ordningen i
-Statens pensjonskasse fordi det kun er et fåtall
-lærere med særaldersgrense.
-
-14.3 Administrative konsekvenser
-Kompleksiteten i regelverket vil øke som følge av
-forslagene som legges fram i denne lovproposisjonen, og endringene vil kreve tilpasninger i pensjonsleverandørenes administrative systemer.
-Blant annet må IKT-systemene tilpasses endringene i regelverket. Det gjelder både kalkulatorene
-som benyttes til å gi den enkelte anslag på framtidig pensjonsutbetalinger, og systemene som faktisk beregner pensjonen når den skal betales ut.
-Kompleksiteten i systemene vil også øke som
-følge av at det skal gis to pensjonsytelser (tidligpensjon og særalderspåslag), at beregning av tjenestetid og pensjonsgrunnlag er ulikt det som gjelder for
-alder- etterlatte- og uførepensjon, samt at det på
-kort sikt må beregnes pensjoner både etter gjeldende og nye regler. Økt kompleksitet i regelverket vil også påvirke systemer som håndterer premieberegning, premieprognoseberegning og regnskapsberegninger. I tillegg vil tjenestepensjonsleverandørene måtte gjøre endringer i rutiner og opplæringsmateriell, samt utarbeide informasjon til
-kunder og medlemmer både digitalt og analogt.
-Departementet vurderer at de forenklingene i
-regelverket som foreslås, sammenlignet med lovforslagene som ble sendt på høring, bidrar til
-vesentlig enklere administrasjon.
-
-113
-
-14.4 Likestillingsmessige konsekvenser
-Både gjeldende regelverk og forslagene til nytt
-regelverk er kjønnsnøytralt. Beregningsreglene
-er like for begge kjønn, og kvinner og menn med
-samme opptjeningshistorikk får samme årlige
-pensjon. Forslagene innebærer ingen endringer i
-dette prinsippet. Forskjeller i yrkesaktivitet og
-lønn mellom kjønnene vil likevel kunne gi ulik
-pensjon, og forskjeller mellom kjønnene kan slå
-forskjellig ut med gjeldende regler og forslaget til
-nye regler.
-Det er ikke åpenbart hva som er gode likestillingsegenskaper ved en pensjonsordning. Enkelte
-vil mene at en pensjonsordning har gode likestillingsegenskaper dersom det gir likhet i resultater
-på tross av forskjeller i arbeidsdeltakelse, lønn,
-avgangsalder, uformelt omsorgsarbeid osv. Andre
-vil mene at et pensjonssystem har gode likestillingsegenskaper dersom det stimulerer til likedeling av arbeidsmarkedsdeltakelse, lik lønn, lik deltakelse i uformelt omsorgsarbeid mv.
-Selv om regelverket for å beregne pensjon er
-kjønnsnøytralt, er gjennomsnittlig utbetalt pensjon fra de offentlige tjenestepensjonsordningene
-høyere for menn enn for kvinner. I praksis gir
-altså et likestilt regelverk ikke lik pensjon. Dette
-skyldes primært faktorer utenfor pensjonssystemet, slik som forskjeller i lønnsnivå, tjenestetid,
-stillingsprosent og avgangsalder mv.
-Andelen kvinner blant ansatte i offentlig sektor
-med en særaldersgrense er høy. Når levealderen i
-befolkningen øker, vil den årlige pensjonen ved en
-gitt uttaksalder bli lavere. For personer med særaldersgrenser innebærer det i utgangspunktet et stadig lavere livsvarig pensjonsnivå med dagens
-regler. Særalderspåslag, kombinert med utsatt
-avgang i tråd med økte aldersgrenser, motvirker
-dette og vil bidra til å sikre gode pensjonsnivåer
-også for yngre årskull når levealdersjusteringen
-blir sterkere. Sett i sammenheng med den høyere
-andelen kvinner med særaldersgrenser, vil særalderspåslaget i større grad gi økt pensjon for kvinner enn for menn. Pensjonsordningen som foreslås
-innebærer også samlet sett en dreining fra tidligpensjonering til et livsvarig særalderspåslag. Dette
-er også generelt gunstigere for kvinner enn for
-menn, fordi kvinner lever lenger.
-
-[Side 116]
-
-114
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-15 Merknader til lovforslaget
-Endringene i lov om Statens pensjonskasse
-Til § 11
-
-Til § 20 a
-
-I et nytt tredje ledd blir det fastslått at for pensjonsgrunnlaget ved beregningen av ny tidligpensjon
-etter § 26 o, § 26 p og særalderspåslag etter § 26 r,
-kun skal ses hen til arbeidsinntekt som danner
-grunnlag for pensjonsgrunnlag etter § 11 første
-og andre ledd fra arbeidsforhold med særaldersgrense. Begrensningen gjelder ikke arbeidsinntekt før 1. januar 2025.
-Det vises til avsnitt 7.3 og 8.3.
-
-Dagens hjemmel for å kunne gi tidligpensjon for
-dem som er født i 1963 eller senere står i andre
-ledd. Regelen blir erstattet av nye regler i kapittel
-5 b. Dette gjør at bestemmelsen kan oppheves.
-Endringen må ses i sammenheng med
-endringsloven del V punkt 2, som innebærer at
-personer som ved ikrafttredelsen har alderspensjon etter § 20 a andre ledd, skal anses for å ha tidligpensjon etter § 26 n.
-Det vises til avsnitt 4.6.
-
-Til § 19
-
-Til § 26 b
-
-I første ledd andre punktum blir det fastslått at ved
-beregningen av tidligpensjon etter § 26 o, § 26 p
-og § 26 r, skal det kun ses hen til tjenestetid i stilling med særaldersgrense. I et nytt tredje punktum
-blir det fastslått at begrensningen i andre punktum ikke gjelder tjenestetid før 1. januar 2025.
-Nåværende andre punktum blir nytt fjerde punktum.
-Andre ledd gjelder avrundingsregler for tjenestetid som benyttes i pensjonsberegningen. Det
-blir fastslått i første punktum at tjenestetid som
-inngår i pensjonsberegningen for tidligpensjon for
-årskullene 1963 til 1969 som skal ha særskilt tidligpensjonsordning, altså personer omfattet av
-§ 26 n, skal avrundes til hele år ved å ta inn § 26 n
-i opplistingen av ytelser som skal ha en slik avrundingsregel.
-Tredje ledd gjelder også avrundingsregler for
-tjenestetid. Bestemmelsen gjelder alderspensjon
-etter kapittel 5 a for medlemmer født i 1963 eller
-senere. Opplistingen av ytelser som skal være
-omfattet av slike avrundingsregler, blir utvidet til
-å gjelde tidligpensjon og særalderspåslag etter
-kapittel 5 b, med unntak av tidligpensjon etter
-§ 26 n. Det skal skje avrunding som fastsatt i leddet både ved vurdering av kvalifikasjonskravene
-og ved beregningen av pensjonen.
-Det vises til kapittel 6, avsnitt 7.2, avsnitt 7.3,
-avsnitt 8.2 og avsnitt 8.3.
-
-I andre ledd første punktum framgår det at det gis
-pensjonsopptjening for tiden med midlertidig uførepensjon og uførepensjon etter kapittel 6. Endringen i § 31 innebærer at personer med særaldersgrense som er født i 1963 eller senere vil få
-uførepensjon fram til måneden etter fylte 67 år, og
-disse vil da få pensjonsopptjening til påslagspensjon på samme måte som personer uten særaldersgrense. Ved endringslovens ikrafttredelse,
-som er antatt å være 1. januar 2026, vil det imidlertid kunne være personer som allerede har fått uførepensjonen omregnet til en alderspensjon. Det
-foreslås i andre punktum at disse skal få pensjonsopptjening som om de mottok midlertidig uførepensjon eller uførepensjon. Dette sørger for likebehandling av personer som når særaldersgrensen før og etter lovens ikrafttredelse. Personer
-som har blitt syke før vedkommende nådde
-aldersgrensen, men hvor maksdato for sykepenger ble nådd etter at særaldersgrensen ble passert, slik at vedkommende fikk innvilget alderspensjon direkte, rommes av dette alternativet.
-Nåværende andre til fjerde punktum blir tredje
-til nytt femte punktum.
-Det vises til kapittel 5.
-Til § 26 c
-Tilføyelsen i tredje ledd nytt femte punktum slår
-fast at pensjonen ikke kan utbetales sammen med
-tidligpensjon etter kapittel 5 b eller tilsvarende tid-
-
-[Side 117]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-ligpensjon fra annen offentlig tjenestepensjonsordning. Dette må ses i sammenheng med at det
-er et vilkår for å få tidligpensjon etter kapittel 5 b
-at medlemmet ikke har ytelser etter kapittel 5 a
-eller tilsvarende pensjon fra annen offentlig tjenestepensjonsordning.
-Det vises til kapittel 6 og avsnitt 7.7.
-Til § 26 e
-I tredje ledd første punktum framgår at det gis pensjonsopptjening for tiden med midlertidig uførepensjon og uførepensjon etter kapittel 6. Endringen i § 31 innebærer at personer med særaldersgrense som er født i 1963 eller senere vil få
-uførepensjon fram til måneden etter fylte 67 år, og
-disse vil da få pensjonsopptjening til betinget tjenestepensjon på samme måte som personer uten
-særaldersgrense. Ved endringslovens ikrafttredelse, som er antatt å være 1. januar 2026, vil det
-imidlertid kunne være personer som allerede har
-fått uførepensjonen omregnet til en alderspensjon.
-Det foreslås i andre punktum at disse skal få pensjonsopptjening som om de mottok midlertidig
-uførepensjon eller uførepensjon. Dette sørger for
-likebehandling av personer som når særaldersgrensen før og etter lovens ikrafttredelse. Personer som har blitt syke før vedkommende nådde
-aldersgrensen, men hvor maksdato for sykepenger ble nådd etter at særaldersgrensen ble passert, slik at vedkommende fikk innvilget alderspensjon direkte, rommes av dette alternativet.
-Nåværende andre til fjerde punktum blir tredje
-til nytt femte punktum.
-Det vises til kapittel 5.
-Til § 26 f
-Endringen i første ledd fjerde punktum slår fast at
-betinget tjenestepensjon ikke kan utbetales samtidig med tidligpensjon etter kapittel 5 b eller tilsvarende tidligpensjon fra annen offentlig tjenestepensjonsordning. Bestemmelsen om at betinget
-tjenestepensjon ikke kan kombineres med tidligpensjon etter kapittel 5 b eller tilsvarende tidligpensjon fra annen offentlig tjenestepensjonsordning, må ses i sammenheng med at det er et vilkår
-for å få tidligpensjon etter kapittel 5 b at
-medlemmet ikke har ytelser etter kapittel 5 a eller
-tilsvarende pensjon fra annen offentlig tjenestepensjonsordning.
-Det vises til kapittel 6 og avsnitt 7.7.
-
-115
-
-Til § 26 h
-Det framgår av et nytt åttende ledd at alderspensjonen ikke kan utbetales samtidig med tidligpensjon
-etter kapittel 5 b eller tilsvarende tidligpensjon fra
-annen offentlig tjenestepensjonsordning. Dette
-må ses i sammenheng med at det er et vilkår for å
-få tidligpensjon etter kapittel 5 b at medlemmet
-ikke har ytelser etter kapittel 5 a eller tilsvarende
-pensjon fra annen offentlig tjenestepensjonsordning.
-Det vises til kapittel 6 og avsnitt 7.7.
-Til § 26 j
-Det framgår av et nytt femte ledd at overgangstillegget ikke kan utbetales samtidig med tidligpensjon etter kapittel 5 b eller tilsvarende tidligpensjon fra annen offentlig tjenestepensjonsordning.
-Dette må ses i sammenheng med at det er et vilkår for å få tidligpensjon etter kapittel 5 b at
-medlemmet ikke har ytelser etter kapittel 5 a eller
-tilsvarende pensjon fra annen offentlig tjenestepensjonsordning.
-Det vises til kapittel 6 og avsnitt 7.7.
-Til overskriften i kapittel 5 b
-Overskriften til nytt kapittel 5 b fastslår at det gjelder «Alderspensjon – tidligpensjon og særalderspåslag til personer med særaldersgrense».
-Virkeområdet ellers for kapittelet framgår av
-§ 26 m.
-Det vises til kapittel 2 og avsnitt 4.6.
-Til § 26 m
-§ 26 m er en ny bestemmelse som regulerer virkeområdet til kapittel 5 b. Det framgår at kapittelet
-gjelder alderspensjon til personer født i 1963 eller
-senere, og at det omfatter tidligpensjon og særalderspåslag til personer med lavere aldersgrense
-enn den alminnelige aldersgrensen etter lov om
-aldersgrenser for statsansatte m.fl. (særaldersgrense).
-Det vises til kapittel 2 og avsnitt 4.6.
-Til § 26 n
-§ 26 n er en ny bestemmelse som gjelder særskilt
-tidligpensjonsordning til personer i årskullene
-1963 til 1969. Personer som omfattes av bestemmelsen skal få videreført gjeldende tidligpensjonsordning. Nærmere bestemt omfatter den personer som er født i 1963 eller 1964 som har særal-
-
-[Side 118]
-
-116
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-dersgrense to år før alderen for ubetinget rett til
-alderspensjon fra folketrygden, personer født i
-perioden 1963 til 1966 som har særaldersgrense
-fire år før alderen for ubetinget rett til alderspensjon fra folketrygden, og personer som er født i
-perioden 1963 til 1969 som har særaldersgrense
-syv år før alderen for ubetinget rett til alderspensjon fra folketrygden.
-Det slås i første ledd fast at personer som er
-født i 1963 eller 1964, som har særaldersgrense to
-år før alderen for ubetinget rett til alderspensjon
-fra folketrygden, har rett til tidligpensjon når de
-fratrer stillingen ved eller etter fylte 65 år, eventuelt inntil tre år før 65 år, dersom vilkårene i fjerde
-ledd er oppfylt. Bestemmelsen innebærer at personene kan gå av med tidligpensjon ved gjeldende
-særaldersgrense (eventuelt inntil tre år før), uavhengig av eventuelle økninger i særaldersgrensen
-i tråd med økninger av alderen for ubetinget rett
-til alderspensjon fra folketrygden. Det framgår
-videre av første ledd at personer som er født 1963
-og 1964, og som har særaldersgrense to år før
-alderen for ubetinget rett til alderspensjon fra folketrygden, også har rett til tidligpensjon dersom
-de i løpet av de siste 10 årene har gått over fra en
-stilling med lavere aldersgrense til en stilling med
-høyere aldersgrense. Betingelsene for dette er at
-vedkommende har hatt lavere aldersgrense i
-minst 15 år, den lavere aldersgrensen er begrunnet i forhold som er omhandlet i lov 21. desember
-1956 nr. 1 om aldersgrenser for statsansatte m.fl.
-§ 2 første ledd andre punktum bokstav a, og vedkommende ville hatt rett til alderspensjon i den
-tidligere stillingen. Dette er en videreføring av
-§ 21 A, for personer med særaldergrense som er
-født i 1963 eller 1964.
-Det slås i andre ledd fast at personer som er
-født i perioden 1963 til 1966, som har særaldersgrense fire år før alderen for ubetinget rett til
-alderspensjon fra folketrygden, har rett til tidligpensjon når de fratrer stillingen ved eller etter
-fylte 63 år, eventuelt inntil tre år før 63 år, dersom
-vilkårene i fjerde ledd er oppfylt. Bestemmelsen
-innebærer at personene kan gå av med tidligpensjon ved gjeldende særaldersgrense (eventuelt
-inntil tre år før), uavhengig av eventuelle økninger
-i særaldersgrensen i tråd med økninger av alderen for ubetinget rett til alderspensjon fra folketrygden.
-Det slås i tredje ledd fast at personer som er født
-i perioden 1963 til 1969, som har særaldersgrense
-syv år før alderen for ubetinget rett til alderspensjon fra folketrygden, har rett til tidligpensjon når
-de fratrer stillingen ved eller etter fylte 60 år, eventuelt inntil tre år før 60 år, dersom vilkårene i fjerde
-
-ledd er oppfylt. Bestemmelsen innebærer at personene kan gå av med tidligpensjon ved gjeldende
-særaldersgrense (eventuelt inntil tre år før), uavhengig av eventuelle økninger i særaldersgrensen i
-tråd med økninger av alderen for ubetinget rett til
-alderspensjon fra folketrygden.
-Fjerde ledd slår fast at dersom et medlem fratrer tre år eller kortere tid før alderen nevnt i første til tredje ledd, har vedkommende rett til tidligpensjon dersom summen av tjenestetid og alder er
-minst 85 år. Dette er en videreføring av § 21 andre
-ledd, for personer med særaldersgrense som er
-født i 1963 og senere.
-Det framgår av femte ledd at det er et vilkår for
-rett til tidligpensjon etter denne paragrafen at
-medlemmet ikke mottar eller har mottatt særalderspåslag og ikke mottar avtalefestet pensjon,
-pensjon etter kapittel 5 a eller tilsvarende pensjon
-fra en annen offentlig tjenestepensjonsordning.
-I sjette ledd slås det fast at tidligpensjonen
-løper fra den første dagen i måneden etter at
-medlemmet ikke mottar lønn, og at bestemmelsene om utbetaling i § 26 første ledd andre og
-tredje punktum og § 26 andre ledd, for øvrig gjelder. Dette innebærer at følgende del av § 26 første
-ledd første setning ikke er gitt anvendelse: «[…]
-og etter § 23 første ledd fra den første dag i måneden etter fylte 67 år hvor det blir utbetalt alderspensjon fra folketrygden eller fra den første dag i
-måneden etter at medlemmet når aldersgrensen,
-dog tidligst fra den første dag i måneden etter
-fylte 65 år». Dette har sammenheng med at det
-etter gjeldende rett ikke er en adgang til å få alderspensjon ved særaldersgrensen som følge av en
-oppsatt rett. Stillingen må fratres ved eller etter
-særaldersgrensen (eventuelt inntil tre år før), jf.
-§ 20 a andre ledd, slik den lød før lovendringen.
-Syvende ledd slår fast at tidligpensjonen gis
-fram til medlemmet når alderen for ubetinget rett
-til alderspensjon fra folketrygden. Dette er en
-videreføring av gjeldende rett etter § 20 a andre
-ledd, som oppheves. Det framgår her at alderspensjonen ytes fram til og med måneden
-medlemmet fyller 67 år. Ved økning av alderen for
-ubetinget rett til alderspensjon fra folketrygden,
-vil sjette ledd innebære at det gis tidligpensjon
-lenger enn i dag. Syvende ledd må ses i sammenheng med § 26 u.
-Åttende ledd slår fast at tidligpensjonen beregnes etter bestemmelsene i § 22 første, andre,
-fjerde og femte ledd, § 25 og § 26 tredje ledd
-tredje og fjerde punktum, fjerde og femte ledd.
-Dette innebærer at gjeldende bestemmelser om
-beregning videreføres.
-Det vises til kapittel 6.
-
-[Side 119]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-Til § 26 o
-§ 26 o gjelder ny tidligpensjon til personer som
-har særaldersgrense fire år lavere enn alderen for
-ubetinget rett til uttak av alderspensjon fra folketrygden. Det framgår av første ledd første punktum
-at medlemmer født i 1967 eller senere som helt
-eller delvis har fratrådt en medlemspliktig stilling
-der særaldersgrensen er fire år lavere enn alderen
-for ubetinget rett til uttak av alderspensjon fra folketrygden, har rett til tidligpensjon. Vedkommende må i løpet av de siste 15 årene før særaldersgrensen, eventuelt før fratreden med rett til
-uttak av tidligpensjon, ha hatt medlemspliktig stilling med særaldersgrense i minst 10 år, jf. andre
-punktum. Dette innebærer at medlemmet kan ha
-fratrådt stillingen med særaldersgrense på et tidligere tidspunkt enn uttaket av tidligpensjon, og
-likevel oppfylle vilkårene. Dette innebærer også at
-den som ikke har 10 av de 15 siste årene i stilling
-med særaldersgrense ved særaldersgrensen, kan
-oppfylle kravet ved å fortsette å jobbe i stillingen
-etter særaldersgrensen.
-Det presiseres i tredje punktum at tid med midlertidig uførepensjon eller uførepensjon ikke regnes som tid i en medlemspliktig stilling. Ut over
-dette vil forhold som regnes som tjenestetid etter
-§ 20, i stilling med særaldersgrense, være likestilt
-med å ha medlemspliktig stilling.
-I fjerde punktum slås det fast at dersom vilkåret har vært oppfylt ved ett uttak, skal det anses
-som oppfylt også ved senere uttak. Dette kan
-være praktisk ved deluttak, dersom reststillingen
-er i en stilling uten særaldersgrense. Det ligger
-også administrative hensyn bak en slik regel, i
-form av at pensjonsleverandørene ikke trenger å
-kontrollere flere ganger om kravet om 10 av de 15
-siste årene i stilling med særaldersgrense er oppfylt.
-I andre ledd slås det fast at det er et vilkår for
-rett til tidligpensjon etter denne paragrafen at
-medlemmet ikke mottar eller har mottatt særalderspåslag og ikke mottar avtalefestet pensjon,
-pensjon etter kapittel 5 a eller tilsvarende pensjon
-fra en annen offentlig tjenestepensjonsordning.
-Dette må ses i sammenheng med endringene i
-§ 26 c, § 26 f, § 26 h og § 26 j.
-Tredje ledd innebærer en gradvis avvikling av
-85-årsregelen. Det slås fast at personer i årskullene 1967 til 1969 har rett til tidligpensjon før særaldersgrensen dersom summen av tjenestetid og
-alder er minst 85 år. Personer født i januar i 1967
-har rett til tidligpensjonen inntil tre år før særaldersgrensen. For hver måned medlemmets fødselsmåned er senere enn januar 1967, er første
-
-117
-
-mulige uttakstidspunkt for tidligpensjon én
-måned senere enn første mulig uttakstidspunkt
-for de som er født i januar i 1967. Personer født i
-1970 eller senere har rett til tidligpensjonen tidligst fra særaldersgrensen. For øvrig må bestemmelsen ses i sammenheng med § 26 u.
-I fjerde ledd heter det at full tidligpensjon
-utgjør 66 prosent av pensjonsgrunnlaget. Hva som
-utgjør pensjonsgrunnlaget, framgår av kapittel 3 i
-loven. Full tidligpensjon krever at medlemmet har
-minst 30 års samlet tjenestetid. Er tjenestetiden
-kortere enn 30 år, skal pensjonen avkortes forholdsmessig. Hva som er tjenestetid, framgår av
-kapittel 4 i loven. Det understrekes at tid som ufør
-fra stilling i særaldersgrense i denne sammenhengen vil regnes som tjenestetid, i motsetning til ved
-vurderingen av kvalifikasjonsvilkåret.
-Det framgår av femte ledd at dersom
-medlemmet har en medlemspliktig stilling etter
-uttak av tidligpensjon, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen. Det
-er tilstrekkelig at stillingen er medlemspliktig.
-Det er ikke et krav om at stillingen har en særaldersgrense. Dersom medlemmet mottar midlertidig uførepensjon, uførepensjon eller uføretrygd
-etter uttak av tidligpensjon, skal uttaksgraden
-maksimalt være 100 prosent med fratrekk for uføregraden. Den faste graden er avgjørende, ikke
-utbetalingsgraden. Dersom medlemmet både har
-en medlemspliktig stilling og mottar midlertidig
-uførepensjon, uførepensjon eller uføretrygd etter
-uttak av tidligpensjon, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen og
-uføregraden. Dersom uføregraden for den midlertidige uførepensjonen, uførepensjonen og uføretrygden er forskjellig, skal den høyeste uføregraden legges til grunn.
-Sjette ledd slår fast at ved endringer i forhold
-som nevnt i femte ledd, skal det fastsettes en ny
-uttaksgrad. Dersom uttaksgraden økes, skal det
-beregnes et nytt deluttak for økningen.
-Det vises til kapittel 7.
-Til § 26 p
-§ 26 p gjelder ny tidligpensjon til personer som
-har særaldersgrense syv år lavere enn alderen for
-ubetinget rett til uttak av alderspensjon fra folketrygden. Det framgår av første ledd at medlemmer
-som er født i 1970 eller senere som helt eller delvis har fratrådt en medlemspliktig stilling der særaldersgrensen er syv år lavere enn alderen for
-ubetinget rett til uttak av alderspensjon fra folke-
-
-[Side 120]
-
-118
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-trygden, har rett til tidligpensjon. Vedkommende
-må i løpet av de siste 15 årene før særaldersgrensen, eventuelt før fratreden med rett til uttak av
-tidligpensjon, ha hatt medlemspliktig stilling med
-særaldersgrense i minst 10 år. Dette innebærer at
-medlemmet kan ha fratrådt stillingen med særaldersgrense på et tidligere tidspunkt enn uttaket av
-tidligpensjon, og likevel oppfylle vilkårene. Dette
-innebærer også at den som ikke har 10 av de 15
-siste årene i stilling med særaldersgrense ved
-særaldersgrensen, kan oppfylle kravet ved å fortsette å jobbe i stillingen etter særaldersgrensen.
-Det presiseres i tredje punktum at tid med midlertidig uførepensjon eller uførepensjon ikke regnes som tid i medlemspliktig stilling. Ut over dette
-vil forhold som regnes som tjenestetid etter § 20 i
-stilling med særaldersgrense, være likestilt med å
-ha medlemspliktig stilling.
-I fjerde punktum slås det fast at dersom vilkåret har vært oppfylt ved ett uttak, skal det anses
-som oppfylt også ved senere uttak. Dette kan
-være praktisk ved deluttak, dersom reststillingen
-er i en stilling uten særaldersgrense. Det ligger
-også administrative hensyn bak en slik regel, i
-form av at pensjonsleverandørene ikke trenger å
-kontrollere flere ganger om kravet om 10 av de 15
-siste årene i stilling med særaldersgrense er oppfylt.
-I andre ledd slås det fast at det er et vilkår for
-uttak av tidligpensjon etter denne paragrafen at
-medlemmet ikke mottar eller har mottatt særalderspåslag og ikke mottar avtalefestet pensjon,
-pensjon etter kapittel 5 a eller tilsvarende pensjon
-fra en annen offentlig tjenestepensjonsordning.
-Dette må ses i sammenheng med endringene i
-§ 26 c, § 26 f, § 26 h og § 26 j.
-Tredje ledd innebærer en gradvis avvikling av
-85-årsregelen. Det slås fast at personer i årskullene 1970 til 1972 har rett til tidligpensjon før særaldersgrensen dersom summen av tjenestetid og
-alder er minst 85 år. Personer født i januar i 1970
-har rett til tidligpensjonen inntil tre år før særaldersgrensen. For hver måned medlemmets fødselsmåned er senere enn januar 1970, er første
-mulige uttakstidspunkt for tidligpensjon én
-måned senere enn tidspunktet for de som er født i
-januar i 1970. Personer født i 1973 eller senere har
-rett til tidligpensjonen tidligst fra særaldersgrensen. For øvrig må bestemmelsen ses i sammenheng med § 26 u.
-I fjerde ledd heter det at full tidligpensjon
-utgjør 66 prosent av pensjonsgrunnlaget. Hva som
-utgjør pensjonsgrunnlaget, framgår av kapittel 3 i
-loven. Full tidligpensjon krever at medlemmet har
-minst 30 års samlet tjenestetid. Er tjenestetiden
-
-kortere enn 30 år, skal pensjonen avkortes forholdsmessig. Hva som er tjenestetid, framgår av
-kapittel 4 i loven. Det understrekes at tid som ufør
-fra stilling i særaldersgrense i denne sammenhengen vil regnes som tjenestetid, i motsetning til ved
-vurderingen av kvalifikasjonsvilkåret.
-Det framgår av femte ledd at dersom
-medlemmet har en medlemspliktig stilling etter
-uttak av tidligpensjon, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen. Det
-er tilstrekkelig at stillingen er medlemspliktig.
-Det er ikke et krav om at stillingen har en særaldersgrense. Dersom medlemmet mottar midlertidig uførepensjon, uførepensjon eller uføretrygd
-etter uttak av tidligpensjon, skal uttaksgraden
-maksimalt være 100 prosent med fratrekk for uføregraden. Den faste graden er avgjørende, ikke
-utbetalingsgraden. Dersom medlemmet både har
-en medlemspliktig stilling og mottar midlertidig
-uførepensjon, uførepensjon eller uføretrygd etter
-uttak av tidligpensjon, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen og
-uføregraden. Dersom uføregraden for den midlertidige uførepensjonen, uførepensjonen og uføretrygden er forskjellig, skal den høyeste uføregraden legges til grunn.
-Sjette ledd slår fast at ved endringer i forhold
-som nevnt i femte ledd, skal det fastsettes en ny
-uttaksgrad. Dersom uttaksgraden økes, skal det
-beregnes et nytt deluttak for økningen.
-Det vises til kapittel 7.
-Til § 26 q
-§ 26 q gjelder reduksjon av tidligpensjon mot pensjonsgivende inntekt. Bestemmelsen gjelder ny
-tidligpensjon, altså tidligpensjon etter § 26 o og
-§ 26 p, jf. første ledd første punktum. Reduksjonsreglene som framgår av denne bestemmelsen, har
-ikke anvendelse for de eldste årskullene. For
-denne gruppen gjelder egne regler, se § 26 n.
-Det framgår også av første punktum at når
-uttaksgraden fastsettes, så skal det fastsettes en
-inntektsgrense. Inntektsgrensen per kalenderår
-er pensjonsgrunnlaget i medlemspliktig stilling
-etter uttak, tillagt 2,7 ganger folketrygdens grunnbeløp, jf. andre punktum. Det er ikke et krav om at
-stillingen har en særaldersgrense. Det er tilstrekkelig at stillingen er medlemspliktig. Dersom
-medlemmet er ufør, vil dette ikke påvirke inntektsgrensen, selv om det i medhold av § 26 o femte
-ledd og § 26 p femte ledd påvirker utbetalingsgraden.
-
-[Side 121]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-Det framgår av tredje punktum at inntektsgrensen skal fastsettes på nytt ved endring i pensjonsgrunnlaget i medlemspliktig stilling etter uttak. I
-fjerde punktum heter det at inntektsgrensen skal
-periodiseres i uttaksåret og opphørsåret, avhengig av hvor mange måneder av året det utbetales
-tidligpensjon. Femte punktum slår fast at ved
-endringer av inntektsgrensen underveis i et
-kalenderår, skal det tas hensyn til antallet måneder med hver inntektsgrense. Reglene innebærer
-at ved endringer i pensjonsgrunnlaget i medlemspliktig stilling underveis i et kalenderår, for
-eksempel som følge av at stillingsandelen etter
-uttak endres, skal det tas stilling til hva som er
-inntektsgrensen for hver del av året. I denne sammenhengen skal det skje en periodisering av inntektsgrensen. Reglene illustreres i det følgende
-med et eksempel, som forutsetter at pensjonsgrunnlaget i full stilling er det samme hele året,
-men hvor medlemmet endrer stillingsandel og
-dermed også uttaksgrad underveis i et år. Et medlem som tar ut tidligpensjon med en grad på 100
-prosent, og som mottar tidligpensjon fra og med 1.
-mars til og med 31. desember, vil dette året ha en
-inntektsgrense på 10/12 av 2,7 ganger grunnbeløpet, forutsatt at uttaksgraden i hele perioden fra 1.
-mars til 31. desember er 100 prosent. Årsaken til
-dette er at vedkommende kun mottar tidligpensjon i ti av årets tolv måneder. Dersom dette
-medlemmet skulle ha økt sin medlemspliktige stilling, med den konsekvensen at tidligpensjonsgraden fra og med 1. oktober er 40 prosent, vil nedgangen fra 100 prosent til 40 prosent regnes som
-opphør av tidligpensjon på 60 prosent. Derfor er
-periodisering aktuelt også her. Inntektsgrensen i
-perioden 1. oktober til 31. desember er i utgangspunktet pensjonsgrunnlaget i medlemspliktig stilling tillagt 2,7 ganger grunnbeløpet. Periodiseringen innebærer imidlertid at inntektsgrensen settes til 3/12 av dette beløpet, i perioden hvor
-uttaksgraden er 40 prosent. Deretter skal det fastsettes en inntektsgrense for hele kalenderåret, og
-det skal her tas hensyn til antall måneder med
-hver inntektsgrense. Personen har mottatt tidligpensjon med en uttaksgrad på 100 prosent i syv av
-årets tolv måneder, og med en uttaksgrad på 40
-prosent i tre av årets tolv måneder. Inntektsgrensen for det aktuelle året blir 7/12 av inntektsgrensen i perioden uttaksgraden er 100 prosent, pluss
-3/12 av inntektsgrensen i perioden uttaksgraden
-er 40 prosent.
-Det framgår av andre ledd at dersom medlemmets inntekt overstiger inntektsgrensen etter første ledd, skal pensjonen reduseres tilsvarende
-den delen av inntekten som overstiger inntekts-
-
-119
-
-grensen multiplisert med 66 prosent, justert med
-tjenestetidsbrøken for tidligpensjonen. Ved flere
-deluttak skal den laveste tjenestetidsbrøken legges til grunn for reduksjonen. Som inntekt regnes
-pensjonsgivende inntekt etter folketrygdloven § 315 og inntekt av samme art fra utlandet. Det skal
-gjøres unntak for inntekt fra en avsluttet aktivitet.
-Dersom tidligpensjonen er gradert på grunn av
-mottak av midlertidig uførepensjon eller uførepensjon, skal arbeidsavklaringspenger etter folketrygdloven kapittel 11 ikke medføre reduksjon av
-tidligpensjonen.
-Tredje ledd slår fast at medlemmet skal opplyse Statens pensjonskasse om forventet inntekt
-og om endringer i inntekten. Denne informasjonen vil danne grunnlag til utbetalingen fra pensjonsleverandøren. Har medlemmet fått utbetalt
-for lite eller for mye pensjon, skal det foretas et
-etteroppgjør. Er det utbetalt for lite pensjon, skal
-differansen etterbetales som et engangsbeløp. For
-mye utbetalt pensjon kan inndrives uten hensyn til
-skyld og kan avregnes ved å trekke i framtidige
-utbetalinger av uførepensjon og alderspensjon fra
-Pensjonskassen. Krav om tilbakekreving av for
-mye utbetalt pensjon er tvangsgrunnlag for
-utlegg.
-Fjerde ledd inneholder en forskriftshjemmel.
-Departementet kan gi forskrift om reduksjon av
-tidligpensjon, periodisering og etteroppgjør.
-Det vises til avsnitt 7.6.
-Til § 26 r
-§ 26 r gjelder særalderspåslag. Første ledd første
-punktum slår fast at medlemmer født i 1963 eller
-senere som har fratrådt medlemspliktig stilling
-med minst 10 prosent målt i forhold til full stilling,
-har rett til særalderspåslag. Bestemmelsen gjelder for personer i alle årskull fra og med 1963, og
-alle særaldersgrenser. Etter andre punktum er det
-et vilkår at vedkommende i løpet av de siste 15
-årene før særaldersgrensen, eller før fratreden
-med rett til uttak av særalderspåslag, har hatt en
-medlemspliktig stilling med særaldersgrense i
-minst 10 år. Dette innebærer at medlemmet kan
-ha fratrådt stillingen med særaldersgrense på et
-tidligere tidspunkt enn særaldersgrensen, og likevel oppfylle vilkårene. Dette innebærer også at
-den som ikke har 10 av de 15 siste årene i stilling
-med særaldersgrense ved særaldersgrensen, kan
-oppfylle kravet ved å fortsette å jobbe i stillingen
-etter særaldersgrensen.
-Det presiseres i tredje punktum at tid med midlertidig uførepensjon eller uførepensjon ikke regnes som tid i medlemspliktig stilling. Ut over dette
-
-[Side 122]
-
-120
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-vil forhold som regnes som tjenestetid etter § 20, i
-stilling med særaldersgrense, være likestilt som å
-ha medlemspliktig stilling.
-I fjerde punktum slås det fast at dersom vilkåret har vært oppfylt ved ett uttak, skal det anses
-som oppfylt også ved senere uttak. Dette kan
-være praktisk ved deluttak, dersom reststillingen
-er i en stilling uten særaldersgrense. Det ligger
-også administrative hensyn bak en slik regel, i
-form av at pensjonsleverandørene ikke trenger å
-kontrollere flere ganger om kravet om 10 av de 15
-siste årene i stilling med særaldersgrense er oppfylt.
-I femte punktum er det bestemt at vilkåret ikke
-gjelder for personer som har mottatt tidligpensjon
-etter dette kapittelet eller tilsvarende pensjon fra
-en annen offentlig tjenestepensjonsordning. Dette
-omfatter altså tidligpensjon etter § 26 n, § 26 o og
-§ 26 p, i tillegg til tidligpensjon fra andre offentlige
-tjenestepensjonsordninger. Sett i sammenheng
-med overgangsreglene innebærer dette at også
-personer som ved lovens ikrafttredelse mottok
-pensjon etter § 20 a andre ledd, anses å oppfylle
-inngangsvilkåret for særalderspåslag.
-Andre ledd fastslår at det er et vilkår for rett til
-særalderspåslag etter paragrafen at medlemmet
-ikke mottar tidligpensjon etter dette kapittelet, tilsvarende pensjon fra en annen offentlig tjenestepensjonsordning eller avtalefestet pensjon som en
-tidligpensjonsordning.
-Det følger av tredje ledd at særalderspåslaget
-skal beregnes som en prosentandel av pensjonsgrunnlaget. Hva som er pensjonsgrunnlaget,
-framgår av kapittel 3 i loven. Fullt særalderspåslag
-skal være 7,7 prosent for stillinger med særaldersgrense syv år lavere enn alderen for ubetinget rett
-til uttak av alderspensjon fra folketrygden, 6,5 prosent for stillinger med særaldersgrense fire år
-lavere enn alderen for ubetinget rett til uttak av
-alderspensjon fra folketrygden, og 5,8 prosent for
-stillinger med særaldersgrense to år lavere enn
-alderen for ubetinget rett til uttak av alderspensjon fra folketrygden. Det vises til § 26 t når det
-gjelder situasjoner med flere stillinger med ulik
-særaldersgrense. Fullt særalderspåslag krever at
-medlemmet har minst 30 års tjenestetid. Er tjenestetiden kortere enn 30 år, avkortes særalderspåslaget forholdsmessig. Hva som er tjenestetid,
-framgår av kapittel 4 i loven. Det understrekes at
-tid som ufør fra stilling i særaldersgrense i denne
-sammenhengen vil regnes som tjenestetid, i motsetning til ved vurderingen av kvalifikasjonskravet.
-Det framgår av fjerde ledd at dersom
-medlemmet har en medlemspliktig stilling etter
-
-uttak av særalderspåslag, skal uttaksgraden maksimalt settes til 100 prosent med fratrekk for stillingsandelen i den medlemspliktige stillingen. Det
-er tilstrekkelig at stillingen er medlemspliktig.
-Det er ikke et krav om at stillingen har en særaldersgrense. Dersom medlemmet mottar midlertidig uførepensjon, uførepensjon eller uføretrygd
-etter uttak av særalderspåslag, skal uttaksgraden
-maksimalt være 100 prosent med fratrekk for høyeste uføregrad etter uttaket. Den faste graden er
-avgjørende, ikke utbetalingsgraden. Dersom
-medlemmet både har en medlemspliktig stilling
-og mottar midlertidig uførepensjon, uførepensjon
-eller uføretrygd etter uttak av særalderspåslag,
-skal uttaksgraden maksimalt settes til 100 prosent
-med fratrekk for stillingsandelen i den medlemspliktige stillingen og høyeste uføregrad etter
-uttaket. Dersom medlemmet mottar særalderspåslag etter mottak av tidligpensjon, skal uttaksgraden maksimalt være 100 prosent fratrukket stillingsandelen i den medlemspliktige stillingen og
-høyeste uføregrad etter særaldersgrensen. Dersom uføregraden for midlertidig uførepensjon,
-uførepensjon og uføretrygd er forskjellig, skal den
-høyeste uføregraden legges til grunn.
-Ved endringer i forhold som nevnt i fjerde
-ledd, skal det ifølge femte ledd fastsettes en ny
-uttaksgrad, jf. femte ledd første punktum. Uttaksgraden skal likevel ikke endres ved økt stillingsandel i den medlemspliktige stillingen etter uttak,
-jf. andre punktum. Bortfall av uføreytelse, for
-eksempel som følge av at personen når øvre alder
-for ytelsen, vil heller ikke innebære at det skal settes en ny uttaksgrad av særalderspåslaget. Grunnen til dette er at høyeste uføregrad etter uttaket/
-etter særaldersgrensen ikke endres, selv om uføregraden senere reduseres til null. Dersom
-uttaksgraden økes, skal det beregnes et nytt
-deluttak for økningen, jf. tredje punktum.
-Særalderspåslaget utbetales tidligst fra tidspunktet medlemmet når laveste uttaksalder for
-alderspensjon fra folketrygden, jf. sjette ledd. For
-øvrig må bestemmelsen ses i sammenheng med
-§ 26 u.
-Det vises til kapittel 8.
-Til § 26 s
-§ 26 s gjelder livsvarig reduksjon av særalderspåslaget. Det framgår av første ledd første punktum at
-når uttaksgraden av særalderspåslaget fastsettes,
-så skal det fastsettes en inntektsgrense. Inntektsgrensen per kalenderår er pensjonsgrunnlaget i
-en medlemspliktig stilling etter uttak, tillagt folketrygdens grunnbeløp, jf. andre punktum. Det er
-
-[Side 123]
-
-2024–2025
-
-Prop. 108 L
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-ikke et krav om at stillingen har en særaldersgrense. Det er tilstrekkelig at stillingen er medlemspliktig. Dersom medlemmet er ufør, vil dette
-ikke påvirke inntektsgrensen, selv om det i medhold av § 26 r fjerde ledd påvirker uttaksgraden.
-Det framgår av tredje punktum at inntektsgrensen skal fastsettes på nytt ved endring i pensjonsgrunnlaget i en medlemspliktig stilling etter uttak.
-I fjerde punktum slås det fast at inntektsgrensen
-likevel ikke skal fastsettes på nytt ved økt pensjonsgrunnlag som følge av økt stillingsandel i
-den medlemspliktige stillingen etter uttaket. Det
-innebærer at ved en økning i pensjonsgrunnlaget
-etter uttak, skal dette føre til økt inntektsgrense
-kun dersom økningen i pensjonsgrunnlaget skyldes oppgang i lønn som ikke har sammenheng
-med økt stillingsandel. Dette må ses i sammenheng med § 26 r femte ledd andre punktum hvor
-det framgår at det ikke skal fastsettes en ny
-uttaksgrad ved økning i stillingsandelen i den
-medlemspliktige stillingen etter uttak, og i disse
-tilfellene vil det heller ikke bli fastsatt en ny inntektsgrense. I femte punktum heter det at inntektsgrensen skal periodiseres i uttaksåret avhengig av
-hvor mange måneder i året det utbetales særalderspåslag. Sjette punktum slår fast at ved
-endringer av inntektsgrensen underveis i et
-kalenderår, skal det tas hensyn til antallet måneder med hver inntektsgrense. Reglene innebærer
-at ved endringer i pensjonsgrunnlaget underveis i
-et kalenderår, skal det tas stilling til hva som er
-inntektsgrensen for hver del av året. I denne sammenhengen skal det skje en periodisering av inntektsgrensen. Reglene illustreres i det følgende
-med et eksempel, som forutsetter at pensjonsgrunnlaget i full stilling er det samme hele året,
-men hvor medlemmet endrer stillingsandel og
-dermed også uttaksgrad underveis i et år. Et medlem som tar ut særalderspåslag ut fra en grad på
-100 prosent, men som mottar særalderspåslag fra
-og med 1. mars til og med 31. desember, vil ha en
-inntektsgrense på 10/12 av folketrygdens grunnbeløp, forutsatt at uttaksgraden i hele perioden fra
-1. mars til 31. desember er 100 prosent. Årsaken
-til dette er at vedkommende kun mottar tidligpensjon ti av årets tolv måneder. Dersom dette
-medlemmet igjen begynner i medlemspliktig stilling, vil ikke dette påvirke uttaksgraden og derfor
-heller ikke inntektsgrensen.
-Dersom man snur på eksempelet, og forutsetter at medlemmet tar ut særalderspåslag med en
-uttaksgrad på 40 prosent, og mottar dette fra og
-med 1. mars til og med 31. desember, vil inntektsgrensen være 10/12 av pensjonsgrunnlaget, pluss
-folketrygdens grunnbeløp. Dersom medlemmet
-
-121
-
-skulle ha redusert sin medlemspliktige stilling, og
-dermed økt uttaksgraden av særalderspåslaget til
-100 prosent fra 1. oktober, skal det etter § 26 r
-femte ledd beregnes et nytt deluttak for økningen
-på 60 prosent. Inntektsgrensen i perioden 1. oktober til 31. desember er i utgangspunktet folketrygdens grunnbeløp. Periodiseringen innebærer
-imidlertid at inntektsgrensen settes til 3/12 av
-dette beløpet, i perioden hvor uttaksgraden er 100
-prosent. Deretter skal det fastsettes en inntektsgrense for hele kalenderåret, og det skal her tas
-hensyn til antall måneder med hver inntektsgrense. Personen har mottatt særalderspåslag
-med en uttaksgrad på 40 prosent i syv av årets tolv
-måneder, og med en uttaksgrad på 100 prosent i
-tre av årets tolv måneder. Inntektsgrensen for det
-aktuelle året blir 7/12 av inntektsgrensen i perioden uttaksgraden er 40 prosent, pluss 3/12 av inntektsgrensen i perioden uttaksgraden er 100 prosent.
-Det framgår av andre ledd første punktum at
-det livsvarige nivået på særalderspåslaget reduseres for hvert år medlemmet har inntekt over inntektsgrensen samtidig med mottak av særalderspåslaget. Det framgår av andre punktum at
-særalderspåslaget skal reduseres med en brøk
-hvor inntekten over inntektsgrensen er telleren
-og tre ganger pensjonsgrunnlaget for særalderspåslaget er nevneren.
-Inntekt over inntektsgrensen i et kalenderår,
-vil føre til at særalderspåslaget i påfølgende år og
-alle årene etter det, blir redusert. Reduksjonen får
-imidlertid ikke virkning i det året inntekten blir
-opptjent, men først fra året etter, jf. tredje punktum. Det skal dermed ikke skje noe etteroppgjør.
-Dersom en person har inntekt over inntektsgrensen flere år på rad, er det det reduserte nivået på
-særalderspåslaget som skal reduseres.
-Som inntekt regnes ifølge fjerde punktum pensjonsgivende inntekt etter folketrygdloven § 3-15
-og inntekt av samme art fra utlandet. Det framgår
-av folketrygdloven § 3-15 tredje ledd at pensjonsgivende inntekt fastsettes til og med det året et
-medlem av folketrygden fyller 75 år. Dette innebærer at særalderspåslag ikke skal reduseres ved
-inntekt over inntektsgrensen etter det året
-medlemmet fyller 75 år. Det skal gjøres unntak for
-inntekt fra en avsluttet aktivitet, jf. femte punktum.
-Dersom særalderspåslaget er gradert på grunn av
-mottak av midlertidig uførepensjon eller uførepensjon, skal arbeidsavklaringspenger etter folketrygdloven kapittel 11 ikke medføre reduksjon av
-særalderspåslaget, jf. sjette punktum.
-Det er i tredje ledd bestemt at ved uttak av særalderspåslag senere enn to år før medlemmet når
-
-[Side 124]
-
-122
-
-Prop. 108 L
-
-2024–2025
-
-Endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
-
-alderen for ubetinget rett til alderspensjon fra folketrygden, uten at det tidligere er mottatt tidligpensjon etter dette kapittelet, alderspensjon etter
-§ 20 a slik den lød før 1. januar 2026 (som er antatt
-ikrafttredelsestidspunkt), eller tilsvarende pensjon fra en annen offentlig tjenestepensjonsordning, reduseres også det livsvarige nivået på særalderspåslaget med 1/36 av ytelsen for hver
-måned det senere uttaket skjer. Denne regelen
-gjelder altså ikke de som har mottatt tidligpensjon. Det er det enkelte deluttaket som skal reduseres etter denne regelen. Dersom medlemmet
-tar ut gradert særalderspåslag tidligere enn to år
-før alderen for ubetinget rett til alderspensjon fra
-folketrygden, vil dette deluttaket ikke bli redusert
-etter regelen i tredje ledd. Dersom medlemmet
-øker uttaksgraden til 100 prosent for eksempel ett
-år før alderen for ubetinget rett til alderspensjon
-fra folketrygden, uten at det tidligere er mottatt
-tidligpensjon, vil det siste deluttaket/økningen bli
-redusert slik dette leddet gir en anvisning på.
-Fjerde ledd inneholder en forskriftshjemmel.
-Departementet kan gi forskrift om reduksjon av
-særalderspåslag og periodisering.
-Det vises til avsnitt 8.6.
-Til § 26 t
-§ 26 t er en bestemmelse som gjelder situasjonen
-med flere stillinger, enten etterfølgende eller samtidige, med ulike særaldersgrenser. Den gjelder
-både tidligpensjon og særalderspåslag, med unntak av tidligpensjon etter § 26 n, jf. tredje ledd.
-Første ledd fastslår at for medlemmer som har
-hatt flere etterfølgende stillinger med ulike særaldersgrenser, skal den siste særaldersgrensen legges til grunn. Ved overgang til stilling med en
-lavere aldersgrense, legges imidlertid den nye
-aldersgrensen til grunn for pensjonsberegningen
-etter loven her først etter tre års tjeneste i den nye
-stillingen, jf. henvisningen til § 44 ellevte ledd.
-I andre ledd heter det at for medlemmer som
-har samtidige stillinger med ulike særaldersgrenser, gis tidligpensjon og særalderspåslag med
-utgangspunkt i den laveste aldersgrensen, forutsatt at medlemmet har hatt en stilling med den
-særaldersgrensen som utløser retten til ytelsen i
-minst tre år før vedkommende når særaldersgrensen eller før fratreden med rett til uttak av ytelsen.
-Det vises til avsnitt 7.4 og 8.4.
-Til § 26 u
-§ 26 u er en bestemmelse om uttak av tidligpensjon og særalderspåslag, og om opphør og
-
-endringer. Bestemmelsen gjelder tidligpensjon
-etter § 26 o og § 26 p. For tidligpensjon etter
-§ 26 n gjelder egne regler, som framgår av den
-paragrafen.
-§ 26 u må ses i sammenheng med § 26 o tredje
-ledd, § 26 p tredje ledd og § 26 r sjette ledd.
-Det framgår av første ledd at tidligpensjon etter
-§ 26 o og tidligpensjon etter § 26 p utbetales tidligst fra og med måneden etter at meldingen om
-uttak blir gitt, men likevel tidligst fra måneden
-etter at retten til tidligpensjon inntreffer. På dette
-punkt må bestemmelses leses i sammenheng med
-§ 26 o tredje ledd, § 26 p tredje ledd. Tidligpensjonen skal utbetales til og med måneden
-medlemmet når alderen som gir ubetinget rett til
-uttak av alderspensjon fra folketrygden. Dersom
-et medlem som mottar tidligpensjon dør før vedkommende når alderen for ubetinget rett til
-alderspensjon fra folketrygden, opphører tidligpensjonen ved utgangen av måneden etter måneden medlemmet døde.
-For medlemmer som mottar tidligpensjon etter
-dette kapittelet, eller tilsvarende tidligpensjon fra
-annen en offentlig tjenestepensjonsordning, utbetales særalderspåslaget fra måneden etter siste
-utbetaling av tidligpensjon, jf. andre ledd. Særalderspåslaget utbetales ellers tidligst fra og med
-måneden etter at meldingen om uttak blir gitt,
-men likevel tidligst fra måneden etter at retten til
-særalderspåslag inntreffer. På dette punktet må
-bestemmelsen leses i sammenheng med § 26 r
-sjette ledd. Særalderspåslaget opphører ved utgangen av måneden etter måneden medlemmet døde.
-Endringer i tidligpensjon og særalderspåslag
-får virkning fra måneden etter at forholdet som
-førte til endringen inntraff , jf. tredje ledd. Dette
-kan være aktuelt ved endringer i uttaksgrad og
-inntektsgrense. Reduksjon av særalderspåslaget
-som følge av at inntektsgrensen er overskredet,
-får likevel virkning først fra året etter det året inntekten er opptjent, jf. § 26 s andre ledd tredje
-punktum.
-Det vises til avsnitt 7.5 og 8.5.
-Til § 31
-Andre ledd første punktum slår i dag fast at retten
-til midlertidig uførepensjon og uførepensjon faller
-bort fra og med måneden etter at medlemmet når
-aldersgrensen for stillingen, men senest fra måneden etter fylte 67 år. Det gjøres en tilføyelse i setningen, som innebærer at dette gjelder personer
-født til og med 1962. Andre ledd tredje punktum
-slår fast at retten til midlertidig uførepensjon og
-uførepensjon for personer født fra og med 1963
+# Forholdet til Grunnloven
+
+## Innledning og utgangspunkter
+
+Grunnloven § 97 lyder:
+
+«Ingen lov må gis tilbakevirkende kraft».
+
+Kjerneområdet for Grunnloven § 97 er vern mot lovgivning som knytter nye byrder eller andre ufordelaktige rettsvirkninger til handlinger, unnlatelser eller begivenheter som fant sted før lovendringen (egentlig tilbakevirkning). Som hovedregel er slik tilbakevirkning forbudt.
+
+Som motsetning til egentlig tilbakevirkning, står såkalt uegentlig tilbakevirkning, som innebærer at det med virkning framover blir grepet inn i rettsforhold som er oppstått før loven ble vedtatt. I disse sakene har lovgiver i utgangspunktet frihet, jf. blant annet bak Grunnloven § 75 bokstav a som slår fast at det hører til Stortinget å fastsette lovgivning, se også særskilt i denne saken Statens pensjonskasseloven § 43 og sykepleierpensjonsloven § 38 som begge tar et forbehold om at rettigheter og plikter etter lovene kan endres ved senere lov. Uegentlig tilbakevirkning er likevel ulovlig i de tilfellene tilbakevirkningen er «klart urimelig eller urettferdig», jf. Høyesteretts dom i sak HR-2016-389-A med videre henvisninger.
+
+Høyesterett har i Rt. 1996 s. 1415 (Borthen), som gjaldt spørsmålet om pensjonsrettigheter etter folketrygdloven har et vern etter Grunnloven § 97, oppstilt følgende momenter ved vurderingen av om tilbakevirkningen er klart urimelig eller urettferdig:
+
+«Inn i avveiningen vil blant annet komme hvilke rettigheter eller posisjoner inngrepet gjelder, hvilket grunnlag den enkelte eller en gruppe har for sine forventninger, om inngrepet er plutselig og betydelig og om fordelingen av byrdene rammer den enkelte eller en gruppe særlig hardt.»
+
+Det må gjøres en helhetsvurdering av momentene. Vurderingen av eventuell grunnlovsstrid må skje konkret for den saken gjelder. Det må likevel kunne tas hensyn til helheten i en lovregulering, og ikke ethvert urimelig utslag for den enkelte vil medføre grunnlovsstrid, jf. Rt. 2010 s. 143 (rederiskatt) avsnitt 155 og HR-2016-389-A (stortingspensjon) avsnitt 77.
+
+Departementet vurderer, blant annet på bakgrunn av innspill om grunnlovsvern i høringsrunden, at det særlig er tre forhold i det foreliggende lovforslaget som må vurderes opp mot Grunnloven § 97. For det første gjelder det avvikling av 85-årsregelen, som innebærer at muligheten til å gå av med pensjon inntil tre år før særaldersgrensen blir fjernet. For det andre gjelder det at personer født i 1965 og senere, og som har særaldersgrense 65 år, med de nye reglene ikke får rett til tidligpensjon. For det tredje gjelder det at også inntekt fra stilling som ikke er medlemspliktig skal føre til reduksjon av ny tidligpensjon.
+
+Departementet vurderer i det følgende de tre forholdene hver for seg.
+
+## Utfasing av 85-årsregelen
+
+Departementet vurderer først om det er i strid med Grunnloven § 97 at 85-årsregelen utfases og avvikles.
+
+Lovforslaget innebærer at personer, som er født i 1973 og senere, og som har aldersgrense 60 år/syv år før ubetinget rett til alderspensjon fra folketrygden, ikke skal ha rett til å gå av med tidligpensjon tre år før aldersgrensen. Det samme gjelder personer som er født i 1970 og senere, og som har aldersgrense 63 år/fire år før ubetinget rett til alderspensjon fra folketrygden. Disse personene har i 2025 åtte år igjen til aldersgrensen, og fem år igjen til de ville kunne ha gått av med 85-årsregelen etter gjeldende regler. De må altså vente i tre år lenger enn etter dagens regler før de får gå av med tidligpensjon, og de får tidligpensjon i en kortere periode enn de ville fått etter gjeldende regler. Det skjer en utfasing i årskullene henholdsvis 1970–1972 og 1967–1969. Det vises til nærmere omtale av forslaget i punkt 7.5.3
+
+Det er klart at lovendringen ikke innebærer at det knyttes nye byrder eller liknende til begivenheter som fant sted før lovendringen, altså er det klart ikke tale om egentlig tilbakevirkning. Vurderingstemaet er derfor om lovendringen er «klart urimelig eller urettferdig».
+
+Vurderingsmomenter er, som nevnt ovenfor, blant annet hvilke rettigheter eller posisjoner inngrepet gjelder, hvilket grunnlag den enkelte eller en gruppe har for sine forventninger, om inngrepet er plutselig og betydelig og om fordelingen av byrdene rammer den enkelte eller en gruppe særlig hardt.
+
+Lovendringen gjelder rettigheter til alderspensjon etter regelverket for offentlig tjenestepensjon, basert på egen opptjening. Slike rettigheter har generelt en særlig beskyttet stilling under Grunnloven § 97, jf. HR-2016-389-A (stortingspensjon) avsnitt 79 og følgende, med videre henvisninger, se for eksempel Rt. 1996 s. 1440 (Thunheim) hvor det framgår: «For de offentlig ansatte er pensjonsordningen så nær knyttet til arbeidsforholdet at det må ses som en del av arbeidsavtalen. Lønn og pensjon henger nøye sammen.» I forlengelsen av dette, som begrunnelse for at rettigheter etter regelverket for offentlig tjenestepensjon nyter et særlig sterkt vern, kan man se hen til at det er en sammenheng «mellom medlemmets lønn, innskudd og pensjonsutbetaling», jf. Rt. 2006 s. 262 (ektefellepensjonsdommen). Begge forholdene – at pensjon er en del av arbeidsforholdet, og at den enkelte arbeidstaker betaler pensjonsinnskudd – er omtalt av Høyesterett i HR-2016-389-A, avsnitt 85, slik: «Stortingrepresentantene \[som den saken gjaldt, departementets tilføyelse\] bidrar gjennom pensjonsinnskudd og arbeidsinnsats, og at motytelser er kombinasjonen av godtgjørelse og pensjonsrettigheter.» Typen rettighet saken her dreier seg om, tilsier at det skal mindre til å konstatere grunnlovsstrid, sammenlignet med hvis saken hadde omhandlet rettigheter med svakere grunnlovsvern.
+
+Inngrepet kan av den enkelte oppleves som betydelig på den måten at perioden hvor de berørte personene maksimalt kan motta tidligpensjon blir forkortet; fra ti til syv år (aldersgrense 60) og syv til fire år (aldersgrense 63 år). Personene må også jobbe tre år lenger enn de må etter gjeldende regelverk før de kan motta tidligpensjon.
+
+Samtidig kan ikke innstrammingen ses isolert. Denne gruppen får nå et nytt pensjonselement i form av et særalderspåslag til øvrig livsvarig pensjon, som kommer til utbetaling fra det tidspunkt tidligpensjonen opphører. Særalderspåslaget er en kompensasjon for at opptjeningen til påslagspensjon blir lavere hos de som har særaldersgrense og går av ved denne, sammenlignet med de som har alminnelig aldersgrense.
+
+Selv om retten til tidligpensjon fra offentlig tjenestepensjonsordning nyter et sterkt vern, taler det mot grunnlovsstrid at personene som lovforslaget gjelder, på dette tidspunktet ikke mottar tidligpensjon. Det innrettelseshensyn som ligger i at ytelsene allerede løper, noe som kan gi et særlig grunnlag for vern mot endringer, foreligger ikke.
+
+Videre vurderer departementet at gjeldende regler om tidligpensjon for personer med særaldersgrense ikke kan sies å ha skapt berettigede forventninger om at gjeldende tidligpensjonsordning skal stå uendret. Stortinget har i flere tiår gjentatte ganger pekt på behovet for å vurdere reglene på nytt, jf. NOU 2022: 7 side 291. Endringene som foreslås må ses i sammenheng med pensjonsreformen – et arbeid som har pågått siden 2001, og som fikk virkning fra 2011. Reformen omfatter alle deler av pensjonssystemet, både i og utenfor folketrygden. Bakgrunnen for reformen var at en økende andel eldre, og høyere gjennomsnittlige pensjoner, førte til en vesentlig økning i pensjonsutgiftene, samtidig som det i framtiden ville bli færre yrkesaktive til å betale for pensjonene. Reformen innebar blant annet at pensjon fra folketrygden kunne tas ut fleksibelt fra 62 år, men slik at uttaket er nøytralt, noe som innebærer at forventet samlet pensjon over perioden som pensjonist blir den samme, uavhengig av uttakstidspunkt. Ny alderspensjon, som innebærer at det tjenes opp pensjon til en pensjonsbeholdning på bakgrunn av pensjonsgivende inntekt/pensjonsgrunnlaget i alle yrkesaktive år, ble innført først i folketrygden, i form av inntektspensjon, jf. folketrygdloven kapittel 20. Deretter, etter avtale om tjenestepensjon for ansatte i offentlig sektor av 3. mars 2018, ble en ny alderspensjon innført i de offentlige tjenestepensjonsordningene, i form av påslagspensjon. Reformen gir insentiver til å stå lenger i arbeid. Innføringen av levealdersjusteringen av pensjonen innebærer i seg selv et tydelig signal om at det er en forventning om at man jobber lenger enn tidligere årskull. Årskullene som regelendringen som drøftes her gjelder, tjener opp inntektspensjon etter folketrygdloven kapittel 20 og påslagspensjon etter offentlig tjenestepensjonsregelverket. Disse pensjonsordningene innebærer at den enkelte lettere kan motvirke effekten av levealdersjusteringen ved å arbeide lenger.
+
+Gjeldende pensjonsregler for personer med særaldersgrense er ikke tilpasset påslagsmodellen. Personer som går av tidlig på grunn av særaldersgrense, vil komme dårligere ut enn personer som jobber lenger, på grunn av kortere opptjening i påslagsordningen. Dette er bakgrunnen for at partene i avtalen av 3. mars 2018 avtalte at «\[r\]egelverket for personer med særaldersgrenser som er født i 1963 eller senere må tilpasses påslagsmodellen» og at personer som 1. januar 2020 har mer enn ti år til særaldersgrensen «skal ha regler som sikrer pensjonsnivået og ikke innebærer økte kostnader sammenlignet med dagens regler».
+
+I avtale av 12. desember 2018 ble partene enige om midlertidige regler om alderspensjon til personer med særaldersgrense, i påvente av endelig avtale. Avtalen er bakgrunnen for Statens pensjonskasseloven § 20 a andre ledd og sykepleierpensjonsloven § 6 a andre ledd. Bestemmelsene utvider virkeområdet til kapitlene om den gamle bruttopensjonen, som i utgangspunktet bare omfatter medlemmer født i 1962 og tidligere, til medlemmer med særaldersgrense født i 1963 og senere. Samtalene om en langsiktig løsning for pensjonsreglene for personer med særaldersgrense startet i oktober 2019. Det ble ikke oppnådd enighet i 2019/2020, og endelig avtale – som dette lovforslaget bygger på – ble inngått 25. august 2023.
+
+Historikken i saken viser tydelig at personer med særaldersgrenser i lang tid – og i alle fall siden avtalen i 2018 – har fått tydelige signaler om at reglene vil bli endret, og at dette vil kunne innebære tilpasninger både til gunst og til ugunst sammenlignet med gjeldende rett. Det at reglene skal tilpasses påslagsmodellen, på den måten at de økonomiske ulempene ved kombinasjonen av gjeldende tidligpensjonsordning og påslagsmodellen skal avbøtes, samtidig som reglene ikke skal innebære økte kostnader sammenlignet med gjeldende regler, må nødvendigvis innebære noen innstramminger. Med avtalen 25. august 2023 ble det klart hva de konkrete løsningene kom til å bli. Departementet vurderer at det ikke har vært grunnlag for en forventning om at dagens ordning med tidligpensjon skal stå uendret. En berettiget forventning om framtidige regler er snarere knyttet til at pensjonsreglene på en eller annen måte tar hensyn til at noen personer har særaldersgrenser, noe pensjonsreglene fortsatt vil gjøre i og med at det etableres en ny tidligpensjonsordning, og at personer som har hatt særaldersgrense i tillegg vil få et særalderspåslag. Dette taler, etter departementets syn, mot at det foreligger grunnlovsstrid.
+
+Forbeholdene i Statens pensjonskasseloven § 43 og sykepleierpensjonsloven § 38, hvor det framgår at rettigheter og plikter etter lovene kan endres ved senere lov, har også en viss betydning. Et tilsvarende forbehold i folketrygdloven er av Høyesterett i Rt. 1996 s. 1415 (Borthen), i en uttalelse, som ikke var nødvendig for resultatet, omtalt slik: «Jeg mener også at folketrygdloven § 18-11 bør ha begrenset betydning ved en helhetsvurdering av om Grunnloven § 97 er overtrådt. \[…\] Selv om folketrygdloven § 18-11 ikke kan tas på ordet, er den likevel ikke uten interesse for grunnlovsvurderingen. Bestemmelsen bekrefter, og gir også et varsel om, den relativt vide adgang lovgiver må ha, ut fra den type hensyn som ligger bak Grunnloven § 75 bokstav a og d og som jeg har beskrevet, til uten hinder av Grunnloven § 97 å gjøre inngrep i trygderettigheter.» Departementet nevner dette for helhetens skyld, men understreker likevel, i tråd med premissene i uttalelsen, at det ikke har lagt nevneverdig vekt på dette forholdet.
+
+I mange av høringsinnspillene, spesielt fra privatpersoner, anføres det at det tar for kort tid mellom tidspunktet utfasingen av 85-årsregelen vedtas, og tidspunktet den får virkning. Det anføres at lovendringen ikke kan omfatte personer som ved vedtakelsen har mindre enn ti år igjen til de kunne gått av med tidligpensjon etter dagens regler. Departementet erkjenner at det i andre sammenhenger har blitt gitt en lengre periode mellom vedtakelsen av en innstramming og at den får virkning. Særlig nærliggende er det å se hen til aldersgrenseloven § 5 første ledd andre punktum. Bestemmelsen slår fast at den som ikke har over 10 år igjen til den gjeldende aldersgrensen ved aldersgrenselovens ikrafttredelse eller fra det tidspunktet det er fastsatt lavere aldersgrense enn den alminnelige, har rett til å fratre ved den gjeldende aldersgrensen. Bestemmelsen er ikke direkte anvendelig i vår sak, men gir uttrykk for et prinsipp som i noen sammenhenger tidligere har vært anvendt. Departementet mener likevel at de klare formuleringene i avtalen fra 2018 er avgjørende. Her framgår det at personer som 1. januar 2020 har ti eller færre år til særaldersgrense, skal sikres ordninger som gjør at de ikke kommer dårligere ut enn hvis dagens regler, inkludert 85-årsregelen, videreføres. Dette gir et tydelig signal om at 85-årsregelen ikke nødvendigvis vil videreføres for personer som kommer etter årskullene som omfattes av bestemmelsen. Dette taler mot at inngrepet er grunnlovsstridig, selv om utfasingen får virkning for personer som i 2025 har mindre enn ti år igjen til særaldersgrensen.
+
+Departementet finner ikke holdepunkter for at fordelingen av byrdene rammer den enkelte eller en gruppe særlig sterkt.
+
+Helhetsvurderingen til departementet blir som følger. Lovforslaget gjelder et rettsområde hvor grunnlovsvernet er sterkt. Inngrepet er isolert sett forholdsvis betydelig. Inngrepets styrke blir imidlertid mindre dersom det også ses hen til regelendringene totalt sett, hvor personer som lovforslaget omfatter også får noen fordeler de ikke har etter gjeldende rett, i form av særalderspåslag. Aller mest tungtveiende er det at lovforslaget ikke berører noen som allerede mottar pensjon, og at de som foreløpig ikke mottar en pensjon, i lang tid har blitt forespeilet at det vil skje lovendringer i pensjonsreglene. Det har siden 2018 vært grunn til å regne med at det vil skje innstramminger som berører personer som per 1. januar 2020 har flere enn ti år igjen til aldersgrensen.
+
+Departementet konkluder med at avviklingen av 85-årsregelen for personer med særaldersgrenser ikke er i strid med Grunnloven § 97.
+
+## Personer med aldersgrense 65 år, som er født i 1965 og senere, får ikke tidligpensjon
+
+Departementet vurderer deretter om det er i strid med Grunnloven § 97 at personer som er født i 1965 og senere, og som har aldersgrense 65 år/to år før ubetinget rett til alderspensjon fra folketrygden, ikke skal få tidligpensjon. Disse personene kunne, dersom gjeldende rett hadde blitt videreført, på visse vilkår fått tidligpensjon tre år før aldersgrensen, altså ved 62 år. Departementet bemerker at ingen av høringsinstansene har anført at lovforslaget på dette punktet er i strid med Grunnloven. Vurderingen gjøres av departementet på eget initiativ.
+
+Spørsmålet er om lovendringen er «klart urimelig eller urettferdig».
+
+Vurderingsmomenter er, som nevnt ovenfor, blant annet hvilke rettigheter eller posisjoner inngrepet gjelder, hvilket grunnlag den enkelte eller en gruppe har for sine forventninger, om inngrepet er plutselig og betydelig og om fordelingen av byrdene rammer den enkelte eller en gruppe særlig hardt.
+
+Lovendringen har sterke paralleller til forslaget om avvikling av 85-årsregelen. Momentene oppstilt av Høyesterett stiller seg relativt likt. Grunnlovsvernet er sterkt, gitt rettsområdet. Det gjelder imidlertid også i denne sammenhengen at personene som lovforslaget omfatter på dette tidspunktet ikke har rett på pensjon, og innrettelsesmomentet gjør seg ikke like sterkt gjeldende som dersom de hadde hatt pensjon. Betydningen er mindre, i og med at personene kan fratre stillingen ved samme alder, og ha krav på pensjon. Pensjonen vil imidlertid ikke lenger være tidligpensjon, men påslagspensjon og oppsatt bruttopensjon for tid før 2020, med et særalderspåslag, og eventuelt med AFP som tillegg, dersom vedkommende er ansatt hos en arbeidsgiver med AFP. Dette gjelder også dersom man går av før aldersgrensen, forutsatt at vilkårene for alle ytelsene er oppfylt.
+
+Også for denne lovendringen er sammenhengen med pensjonsreformen sentral, og også her er det klart at det i årevis har vært tydelig at pensjonsreglene vil endres. Det har ikke vært grunnlag for en berettiget forventning om at pensjonsreglene vil tilpasses til påslagsmodellen på en måte som er til gunst for de berørte, uten at det samtidig vil komme innstramminger, gitt premissene i avtalen fra 2018 om at de nye pensjonsreglene ikke skal innebære økte kostnader sammenlignet med dagens regler.
+
+Departementet vurderer på denne bakgrunn at lovforslaget ikke er i strid med Grunnloven § 97.
+
+## Nye regler om reduksjon av tidligpensjonen
+
+Departementet forstår høringssvaret fra LO Kommune, LO Stat, Unio og YS slik at organisasjonene mener at det kan være i strid med Grunnloven § 97 at også annen inntekt enn inntekt fra medlemspliktig stilling på visse vilkår vil føre til reduksjon av ny tidligpensjon. Etter gjeldende rett er det bare inntekt fra medlemspliktig stilling som fører til reduksjon av tidligpensjonen. Inntekt fra stilling som ikke er medlemspliktig, kommer i tillegg til eventuell full tidligpensjon. De foreslåtte reglene om reduksjon gjelder personer som skal ha ny tidligpensjon. De eldste av disse har i 2025 fem år igjen til særaldersgrensen. Det vises til nærmere omtale av forslagene i punkt 7.6.4.
+
+Spørsmålet er om dette innebærer «klart eller urettferdig» tilbakevirkning, sett hen til vurderingsmomentene som er nevnt ovenfor, altså, hvilke rettigheter eller posisjoner inngrepet gjelder, hvilket grunnlag den enkelte eller en gruppe har for sine forventninger, om inngrepet er plutselig og betydelig og om fordelingen av byrdene rammer den enkelte eller en gruppe særlig hardt.
+
+Flere av momentene som er nevnt i de forutgående punktene, stiller seg likt også for denne problemstillingen. Tidligpensjon etter offentlig tjenestepensjonsregelverket har et særskilt grunnlovsvern. Samtidig gjelder lovendringen personer som i 2025 ikke mottar tidligpensjon, og det innrettelseshensynet som ligger i at ytelsene allerede løper, foreligger heller ikke her. Det kommer til dette at personene fortsatt vil motta en inntektssikring, dersom de ikke har inntekt som overskrider fribeløpet. Fribeløpet for ny tidligpensjon foreslås nå dessuten, på bakgrunn av avtalen 13. januar 2025, økt fra 1 ganger grunnbeløp, slik foreslått i høringsnotatet, til 2,7 ganger grunnbeløpet. Dette gjør at inngrepets styrke framstår som liten.
+
+Departementet vurderer at personer som blir berørt av dette lovforslaget ikke har hatt sterkt grunnlag for en forventning om at reglene om reduksjon vil fortsette å gi mulighet for å ha inntekt fra privat sektor som, uavhengig av størrelsen på inntekten, ikke påvirker tidligpensjon fra offentlig tjenestepensjonsordning. En ulik behandling av inntekt fra medlemspliktig stilling og inntekt fra privat sektor, har ikke paralleller i pensjonsregelverket som gjelder personer født i 1963 og senere, for øvrig, for eksempel påslagsordningen i offentlig tjenestepensjon og ny alderspensjon fra folketrygden. I disse sammenhengene likestilles inntekt fra privat og offentlig sektor, riktignok slik at inntekt fra de to sektorene ikke fører til avkorting.
+
+Det ligger dessuten rimelighetshensyn bak å endre avkortingsreglene for tidligpensjon, i form av likebehandlingshensyn. Dagens regler om avkorting av bruttopensjon, som personene som i utgangspunktet tjener opp pensjon i påslagsordningen og inntektspensjon etter folketrygdloven kapittel 20 har fulgt, på grunnlag av midlertidige regler med utgangspunkt i avtalen fra desember 2018, ble gitt i en tid hvor det var mindre vanlig å skifte sektor på slutten av arbeidslivet. Dette har endret seg. Reglene er også fra en tid da inntekt fra privat sektor ikke nødvendigvis ga rett til pensjon, slik det gjør etter at lov om obligatorisk tjenestepensjon trådte i kraft i 2006. Reglene er bygget på den forutsetningen at pensjon erstatter lønn, ikke at lønn skal kunne mottas samtidig med uavkortet pensjon. Disse forholdene tilsier at det ikke lenger er grunnlag for å forskjellsbehandle inntekt fra offentlig og privat sektor, når det gjelder tidligpensjon.
+
+Etter dette vurderer departementet at personer med særaldersgrense ikke kan ha hatt en forventning om at reglene om reduksjon av tidligpensjon vil være uendret. En berettiget forventning må snarere være knyttet til at man får en inntektsbortfallskompensasjon når man går av ved særaldersgrensen, noe man vil gjøre med ny tidligpensjonsordning og særalderspåslag. Forventningen om at man vil beholde uredusert tidligpensjon til tross for inntekt fra privat sektor over 2,7 ganger grunnbeløpet, er etter departementets syn ikke berettiget.
+
+I helhetsvurderingen legger departementet avgjørende vekt på at inngrepets styrke er liten, at personer som blir berørt av lovforslaget ennå ikke har tidligpensjon, at de vil være sikret en ytelse som erstatter inntektsbortfallet, og at forventningen om at reglene om reduksjon skal være uendret også for personer som omfattes av ny pensjonsmodell, ikke kan ha vært sterk.
+
+Lovforslaget vurderes dermed å være i overensstemmelse med Grunnloven § 97.
+
+# Forholdet til Den europeiske menneskerettskonvensjonen (EMK)
+
+Pensjons- og trygderettigheter er vernet av Den europeiske menneskerettskonvensjon (EMK) tilleggsprotokoll 1 artikkel 1 (P1-1), gjennomført i norsk rett ved menneskerettsloven § 2 nr. 1. Det følger av artikkel 1 første ledd første punktum at enhver fysisk eller juridisk person har rett til å få nyte sin eiendom i fred. Ingen skal bli fratatt sin eiendom unntatt i det offentliges interesse og på de betingelser som er hjemlet ved lov og ved folkerettens alminnelige prinsipper, jf. andre punktum. I storkammeravgjørelsen fra Den europeiske menneskerettsdomstol (EMD) 13. desember 2016 *Béláné Nagy mot Ungarn* avsnitt 74, slo EMD fast at selv om det i utgangspunktet bare er eksisterende rettigheter som kan utgjøre eiendom i bestemmelsens forstand, så kan en berettiget forventning om å få et gode, under visse omstendigheter være vernet etter P1-1. Inngrep i eierens rettighetsutnyttelse, om dette ikke skal komme i strid med P1-1, må være i samsvar med loven og ikke være vilkårlig, det må forfølge et legitimt formål, og det må være forholdsmessig, jf. HR-2016-304-S avsnitt 43.
+
+Departementet vurderer at forslagene i dette høringsnotatet ikke vil være i strid med eiendomsvernet i EMK. Det vises til vurderingene over knyttet til Grunnloven § 97.
+
+# Forholdet til EØS-avtalen
+
+## Innledning
+
+I dette kapittelet omtales forholdet mellom de nasjonale reglene på den ene siden, og avtale om Det europeiske økonomiske samarbeidsområde (EØS-avtalen), herunder trygdeforordningen, på den andre siden. Det tas et forbehold om at EØS-retten er dynamisk og endres over tid, blant annet gjennom domstolenes fortolkning av regelverket. Framstillingen i det følgende vil derfor utelukkende kunne gi et øyeblikksbilde av samvirket mellom de nevnte instrumentene og trygdelovgivningen for øvrig. Bestemmelsene i EØS-avtalen og forordningene må i alle tilfelle tolkes autonomt og i tråd med tolkningslæren som gjelder for slike rettskilder. Det ville heller ikke være hensiktsmessig eller praktisk mulig at framstillingen gjøres uttømmende, ved å omtale alle tenkelige konstellasjoner og situasjoner. Framstillingen må derfor ikke leses som en uttømmende beskrivelse av kontaktflatene mellom de nasjonale reglene og de internasjonale instrumentene.
+
+Det presiseres at når det snakkes om tidligpensjon i dette kapittelet, menes tidligpensjon både etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse (Statens pensjonskasseloven) § 26 eller lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere (sykepleierpensjonsloven) § 11 n, og tidligpensjon etter Statens pensjonskasseloven § 26 o og § 26 p, med mindre noe annet framgår.
+
+## EØS-avtalen som ramme for trygdekoordinering
+
+Bestemmelsene i EØS-avtalens hoveddel gjelder, med visse modifikasjoner, som norsk lov, jf. lov 27. november 1992 nr. 109 om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde (EØS) m.v. (EØS-loven) § 1.
+
+Det følger av Statens pensjonskasseloven § 46 fjerde ledd og sykepleierpensjonsloven § 37 tredje ledd at bestemmelsene som er gitt i eller i medhold av lovene, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger blant annet av EØS-avtalens hoveddel.
+
+Bestemmelser i EØS-avtalens hoveddel med relevans for tidligpensjon og særalderspåslag etter Statens pensjonskasseloven og sykepleierpensjonsloven, er for det første artikkel 4 som slår fast at enhver forskjellsbehandling på grunnlag av nasjonalitet i utgangspunktet skal være forbudt innenfor EØS-avtalens virkeområde. For det andre er EØS-avtalen del III, Fri bevegelighet for personer, tjenester og kapital, relevant. Særlig sentral er retten til fri bevegelighet som framgår av artikkel 28 og 29, og tjenestefriheten som framgår av artikkel 36.
+
+Det er en nær forbindelse mellom de alminnelige reglene om fri bevegelighet i EØS-avtalens hoveddel på den ene siden, og europaparlaments- og rådsforordning (EF) nr. 883/2004 av 29. april 2004 om koordinering av trygdeordninger (trygdeforordningen) på den andre siden. Trygdeforordningen er en del av EØS-avtalen, se vedlegg VI nr. 1, og er inkorporert gjennom folketrygdloven § 1-3 a. Bestemmelsene i Statens pensjonskasseloven og sykepleierpensjonsloven skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelsene som følger av trygdeforordningen, jf. Statens pensjonskasseloven § 46 fjerde ledd og sykepleierpensjonsloven § 37 tredje ledd.
+
+Den nære forbindelsen mellom de alminnelige reglene om fri bevegelighet i EØS-avtalens hoveddel og trygdeforordningen, kommer til uttrykk for eksempel i EØS-avtalen artikkel 29, som slår fast at avtalepartene har forpliktelser med hensyn til å gjennomføre den frie bevegeligheten i samsvar med bestemmelsene i vedlegg VI. Den nære forbindelsen kommer også til uttrykk i trygdeforordningens fortale avsnitt 1, hvor det heter at «(r)eglene om koordinering av nasjonale trygdeordninger faller innenfor rammen av den frie bevegelighet for personer».
+
+Den nære forbindelsen gir seg utslag i at forordningen må tolkes i lys av de alminnelige reglene, og at forordningen kan måtte suppleres av dem. Departementet legger imidlertid til grunn at de fleste praktiske problemstillinger som kan oppstå når det gjelder tidligpensjon og særalderspåslag, i forbindelse med at EØS-borgere bor, oppholder seg og/eller arbeider i flere EØS-stater, er løst gjennom trygdeforordningen. Trygdeforordningen og regelverket for øvrig må likevel alltid tolkes i lys av de alminnelige reglene i EØS-avtalens hoveddel. Videre kan det ikke utelukkes at det nå eller i framtiden vil være situasjoner og typetilfeller hvor de alminnelige reglene i EØS-avtalens hoveddel vil måtte supplere trygdeforordningen når det gjelder tidligpensjon og særalderspåslag.
+
+## Trygdeforordningen
+
+### Klassifisering og relevante deler av trygdeforordningen
+
+Trygdeforordningen får anvendelse på all lovgivning om blant annet ytelser ved alderdom, jf. artikkel 3 nr. 1 bokstav d og ytelser ved tidligpensjonering, jf. artikkel 3 nr. 1 bokstav i.
+
+Ytelser etter Statens pensjonskasseloven og sykepleierpensjonsloven, altså herunder gjeldende tidligpensjon, har fram til nå blitt ansett som, og meldt inn etter trygdeforordningen artikkel 9 som, ytelser ved alderdom.
+
+Departementet har vurdert om ytelsene som nå foreslås innført, altså særalderspåslag og tidligpensjon etter Statens pensjonskasseloven kapittel 5 b eller sykepleierpensjonsloven kapittel 4 b, er ytelser ved alderdom, jf. 3 nr. 1 bokstav d, eller ytelser ved tidligpensjonering, jf. artikkel 3 nr. 1 bokstav i.
+
+Særalderspåslag utbetales tidligst fra laveste uttaksalder for alderspensjon fra folketrygden (i dag 62 år), eller når tidligpensjonen opphører. Departementet kan ikke se at det er holdepunkter for at særalderspåslag er noe annet enn en ytelse ved alderdom, i forordningens forstand, og legger til grunn at ytelsen faller inn under artikkel 3 nr. 1 bokstav d.
+
+Tidligpensjon gis fra den aldersgrensen som gjelder for stillingen – fra aldersgrensen som er fastsatt i medhold av aldersgrenseloven, som i dag kan være 60, 63 og 65 år. Tidligpensjonen gis altså før alderen for ubetinget rett til alderspensjon fra folketrygden, som i dag er 67 år. Tidligste mulige alder for uttak av alderspensjon fra folketrygden er i dag 62 år. Der aldersgrensen er 60 år, gis tidligpensjon også før tidligste mulige uttaksalder for alderspensjon fra folketrygden. Tidligpensjonen kan ikke kombineres med ordinær alderspensjon fra offentlig tjenestepensjonsordning. Spørsmålet er om denne tidligpensjonen er en ytelse ved tidligpensjonering.
+
+Ytelser ved tidligpensjonering er definert i artikkel 1 bokstav x som:
+
+«alle kontantytelser, bortsett fra ytelser ved arbeidsløshet eller førtidige ytelser ved alder, som fra en bestemt alder gis til arbeidstakere som har redusert, eller på permanent eller midlertidig basis innstilt, sin yrkesaktivitet, fram til tidspunktet da de har rett til alderspensjon eller førtidspensjon, og som ikke forutsetter at den berørte personen registreres som arbeidssøker i den kompetente stat. Med «førtidig ytelse ved alder» menes en ytelse som gis før vanlig pensjonsalder, og som enten utbetales også etter denne alder, eller erstattes med en annen ytelse ved alder».
+
+Det framgår av definisjonen at «førtidige ytelser ved alder» ikke regnes som tidligpensjonering, noe som tydeliggjør at det skal noe mer til enn at ytelsen gis før ordinær pensjonsalder.
+
+EU-domstolen har i C-517/16 Stefan Czerwiński (46 flg.) beskrevet forskjellen på ytelser ved alderdom – som altså også kan omfatte ytelser gitt før ordinær pensjonsalder – og ytelser ved tidligpensjonering. Ifølge domstolen har ytelser ved tidligpensjonering «a greater connection with the context of economic crisis, restructuring, redundancies and rationalisation». Kjennetegnet ved ytelser ved tidligpensjonering er, ifølge EU-domstolen, at ytelsen ivaretar arbeidsmarkedspolitiske hensyn, på den måten at det frigjør stillinger slik at yngre arbeidstakere kan slippe til, og følgelig også reduserer antallet permitterte arbeidstakere som mottar arbeidsledighetstrygd.
+
+Tidligpensjon og særalderspåslag gis på nærmere vilkår til personer som har aldersgrense lavere enn den alminnelige aldersgrensen etter lov om aldersgrenser for statsansatte m.fl. Lave aldersgrenser, og regler om tidligpensjon til de som har de lave aldersgrensene, skal ivareta hensynet til den enkelte arbeidstaker som har stått i en fysisk og/eller psykisk krevende jobb, og hensynet til at tjenesten blir utført forsvarlig, jf. aldersgrenseloven. Formålet er ikke å ivareta arbeidsmarkedspolitiske hensyn, slik EU-domstolen beskriver disse hensynene.
+
+På denne bakgrunn legger departementet til grunn at både tidligpensjon og særalderspåslag er ytelser ved alderdom. Det betyr at de relevante reglene for tidligpensjon og særalderspåslag framgår av trygdeforordningen avdeling I, avdeling II og avdeling III kapittel 5. Bestemmelsene i Statens pensjonskasseloven nytt kapittel 5 b og sykepleierpensjonsloven nytt kapittel 4 b må tolkes og anvendes i samsvar med de relevante bestemmelsene i trygdeforordningen.
+
+### Særordning for tjenestemenn
+
+Forordningen gjelder med visse modifikasjoner for medlemmer av særlige ordninger for tjenestemenn, jf. blant annet artikkel 60. Dette aktualiserer et spørsmål om Statens pensjonskasse og Pensjonsordningen for sykepleiere er særordninger for tjenestemenn, slik dette begrepet er definert i artikkel 1.
+
+Særordninger for tjenestemenn var tidligere ikke omfattet av trygdeforordningen, jf. den tidligere forordningen 1408/71 artikkel 4 nr. 4. Forordningen ble i 1998 utvidet med forordning 1606/98 til også å omfatte slike særordninger.
+
+Før 1998, da særlige ordninger for tjenestemenn var unntatt fra forordningens virkeområde, ble Pensjonsordningen for sykepleiere ikke ansett å være omfattet av unntaket i daværende 1408/71 artikkel 4 nr. 4, og har vært meldt inn av Norge som omfattet av trygdeforordningen både før og etter 1998. Departementet legger i tråd med dette til grunn at ordningen ikke er en særordning for tjenestemenn. Dette innebærer at forordningen skal anvendes uten modifikasjoner.
+
+Statens pensjonskasseloven var på sin side før utvidelsen i 1998 ikke ansett og ikke meldt inn som omfattet av trygdeforordningen, men ble det etter utvidelsen. Departementet legger etter dette til grunn at Statens pensjonskasse er en særordning for tjenestemenn i trygdeforordningens forstand. Dette innebærer at trygdeforordningen gjelder for tidligpensjon og særalderspåslag etter Statens pensjonskasseloven med visse modifikasjoner.
+
+### Lovvalg
+
+Lovvalgsreglenes formål er å koordinere EØS-statenes nasjonale bestemmelser om trygdedekning, for å forsøke å unngå at personer kommer i situasjoner der de enten står uten trygdedekning eller er trygdedekket i to stater samtidig med tilhørende avgiftsplikt til to trygdesystemer. Det er imidlertid grunn til å understreke at det faktum at en stat utpekes som lovvalgsstat, ikke er ensbetydende med at den aktuelle personen faktisk blir trygdedekket/medlem i en aktuell ordning i denne staten. Dette må vurderes etter de nasjonale reglene om trygdedekning/medlemskap, sammenholdt med EØS-retten, herunder likebehandlingsbestemmelsen i trygdeforordningen artikkel 4.
+
+Lovvalgsreglene innebærer som hovedregel at en person skal være underlagt lovgivningen i staten der han eller hun arbeider eller driver selvstendig virksomhet, jf. trygdeforordningen artikkel 11 nr. 3 bokstav a. En tjenestemann skal være undergitt lovgivningen i medlemsstaten som forvaltningen han/hun er ansatt i, er underlagt, jf. trygdeforordningen artikkel 11 nr. 3 bokstav b. Personer som verken arbeider eller er i selvstendig virksomhet, skal som hovedregel være underlagt lovgivningen i bostedsstaten, jf. trygdeforordningen artikkel 11 nr. 3 bokstav e.
+
+### Likebehandling
+
+De generelle reglene om likebehandling innebærer at det ikke er tillatt å forskjellsbehandle norske statsborgere og andre personer som er omfattet av trygdeforordningens regler, jf. trygdeforordningen artikkel 4. Som en forlengelse av dette krever artikkel 5 at en EØS-stat likestiller ytelser, inntekter, faktiske forhold eller hendelser i hele EØS.
+
+Statens pensjonskasseloven kapittel 5 b og sykepleierpensjonsloven kapittel 4 b inneholder ingen vilkår som knytter rettsvirkninger til status som norsk statsborger.
+
+Forbudet mot indirekte forskjellsbehandling og kravet til likebehandling av ytelser, inntekter, faktiske forhold eller hendelser fra andre EØS-stater vil, for tidligpensjon og særalderspåslag etter Statens pensjonskasseloven nytt kapittel 5 b og sykepleierpensjonsloven nytt kapittel 4 b, i utgangspunktet ha mindre betydning enn trygdeforordningen artikkel 6 om sammenlegging av tid og trygdeforordningen avdeling III kapittel 5. Det vises til omtale av sammenleggingsprinsippet nedenfor. Det må imidlertid vurderes konkret i den enkelte saken om artikkel 4 og 5 i seg selv kan være relevante.
+
+### Sammenlegging av tid
+
+Det er et vilkår for tidligpensjon etter Statens pensjonskasseloven § 26 o og § 26 p og særalderspåslag at en person i løpet av de siste 15 årene før særaldersgrensen, eller før fratreden med rett til uttak av ytelsen, har hatt medlemspliktig stilling med særaldersgrense i minst 10 år.
+
+Videre kan enkelte årskull gå av med tidligpensjon inntil tre år før særaldersgrensen forutsatt at summen av tjenestetid og alder er minst 85 år. Tjenestetid er i utgangspunktet tid arbeidstakeren har vært medlem av Statens pensjonskasse og den tiden det har blitt betalt innskudd til Pensjonsordningen for sykepleiere. I dette lovforslaget foreslås at tid fra 1. januar 2025 må være i en stilling med særaldersgrense, for å være relevant for tidligpensjon etter Statens pensjonskasseloven § 26 o og § 26 p og særalderspåslag.
+
+I tillegg stilles det krav til hvor lang periode et medlem må ha hatt stilling med en bestemt aldersgrense, for å kunne gå av med pensjon fra en stilling med en annen aldersgrense.
+
+Sammenleggingsreglene innebærer at opptjeningsperioder i andre stater som anvender trygdeforordningen i noen tilfeller skal legges sammen med opptjeningsperioder i Norge, for å fylle de ovennevnte kravene, jf. trygdeforordningen artikkel 6.
+
+Det framgår av trygdeforordningen artikkel 57 nr. 1 at det kan kreves at man har noe norsk tid med trygdedekning for å kunne legge den sammen med tid fra andre EØS-stater. Etter bestemmelsen er en stat ikke pålagt å gi ytelser på grunnlag av tid som er tilbakelagt etter egen lovgivning dersom denne samlet er kortere enn ett år og det ikke foreligger noen rett til ytelser dersom bare denne tiden medregnes.
+
+Trygdeforordningen artikkel 6, jf. artikkel 57, innebærer i utgangspunktet at relevant tid i andre EØS-stater skal legges sammen med tid i medlemspliktig stilling med særaldersgrense i Norge, såfremt tiden i medlemspliktig stilling med særaldersgrense i Norge er minst ett år. Det betyr at tidligpensjon etter Statens pensjonskasseloven § 26 o og § 26 p og særalderspåslag på nærmere vilkår vil kunne komme til utbetaling også der vedkommende har hatt stilling med særaldersgrense i Norge i en kortere periode enn 10 av de 15 siste årene. Det betyr videre at en person på nærmere vilkår vil kunne gå av med tidligpensjon før aldersgrensen selv om summen av tjenestetid og alder er lavere enn 85 år. Sammenlegging kan også være aktuelt ved vurderingen av om en person kan gå av med pensjon ved en bestemt aldersgrense.
+
+Artikkel 51 regulerer hvilken tid i andre EØS-stater det er aktuelt å legge sammen med. Det framgår av nr. 1 at «\[n\]år en medlemsstats lovgivning setter tilbakelagt trygdetid i et bestemt lønnet arbeid eller en bestemt selvstendig virksomhet eller i et yrke som har en særordning for personer som utfører lønnet arbeid eller driver selvstendig virksomhet, som et vilkår for å tilstå visse ytelser, skal den kompetente institusjon i den medlemsstaten ta hensyn til tid som er tilbakelagt etter andre medlemsstaters lovgivning bare dersom den er tilbakelagt under en tilsvarende ordning eller, i mangel av en slik ordning, i det samme yrket eller eventuelt i det samme lønnede arbeid eller den samme selvstendige virksomhet.» Det framgår videre at «\[d\]ersom den berørte personen på grunnlag av slik tilbakelagt trygdetid ikke oppfyller vilkårene for å motta ytelser etter en særordning, skal denne tiden medregnes ved tilståelse av ytelser etter den alminnelige ordningen \[…\]», jf. artikkel 51 nr. 1 andre ledd.
+
+Der norsk rett krever tid i stilling med særaldersgrense, legger departementet til grunn at artikkel 51 nr. 1 innebærer at tid i stilling i et annet EØS-land skal legges sammen med tid i medlemspliktig stilling med særaldersgrense i Norge, så lenge stillingen i den andre EØS-staten er en stilling som i Norge ville hatt særaldersgrense. Det er ikke et krav om at stillingen i den andre EØS-staten har en særaldersgrense. Der norsk rett krever tjenestetid, uavhengig er om tiden er i stilling med særaldersgrense, legger departementet til grunn at det skal ses hen til yrker som i Norge er medlemspliktige.
+
+Dersom personen på grunnlag av tilbakelagt tid som skissert ovenfor ikke oppfyller vilkårene for å motta tidligpensjon og særalderspåslag, skal tiden medregnes i folketrygden, jf. artikkel 51 nr. 1 andre ledd.
+
+Ettersom Statens pensjonskasse er en særordning for tjenestemenn, gjelder reglene om sammenlegging med de begrensningene som framgår av artikkel 60 nr. 2. Dette betyr at trygdeforordningen ikke innebærer en plikt til sammenlegging med relevant tid i andre EØS-stater, ved vurdering av tidskravene for tidligpensjon og særalderspåslag, ettersom nasjonal lovgivning ikke åpner for slik sammenlegging. Relevant tid i andre EØS-stater må imidlertid medregnes i folketrygden. En plikt til sammenlegging av tid kan dessuten følge av Nordisk overføringsavtale, for personer som omfattes av virkeområdet i denne avtalen.
+
+For Pensjonsordningen for sykepleiere skal det imidlertid skje sammenlegging slik det er skissert ovenfor.
+
+### Delpensjonsprinsippet
+
+Delpensjonsprinsippet, også omtalt som *pro rata*-prinsippet, kommer til anvendelse i forbindelse med tidligpensjon og særalderspåslag. Relevant tid fra ulike EØS-stater legges sammen for å avgjøre om det foreligger rett til en ytelse etter sykepleierpensjonsloven, eventuelt ved vurderingen av hvorvidt en person kan gå av før særaldersgrensen etter den såkalte 85-årsregelen, eller ved vurderingen av om en person kan gå av med pensjon ved en bestemt aldersgrense, men sammenleggingen innebærer ikke at ytelsens størrelse blir beregnet på bakgrunn av tid i andre EØS-stater. Ytelsene utbetales av hver av de involverte medlemsstatene i form av delpensjoner, utmålt etter hvor lang opptjening vedkommende har i hver enkelt stat.
+
+Trygdeforordningen artikkel 52 fastsetter hvordan pensjonen skal beregnes.
+
+Bestemmelsen innebærer at en person som oppfyller vilkårene for ytelsen etter nasjonal lovgivning, det vil si uten sammenlegging, skal ha rett til å motta det høyeste av de beløp som er beregnet etter enten nasjonal lovgivning, jf. artikkel 52 nr. 1 bokstav a, og *pro rata*-beregning etter artikkel 52 nr. 1 bokstav b. Dette framgår av artikkel 52 nr. 3.
+
+En *pro rata*-beregning etter artikkel 52 gjøres ved at det beregnes et teoretisk beløp lik den pensjonen vedkommende hadde fått, dersom all trygdetid i EØS-stater hadde vært tilbakelagt i vedkommende stat, jf. artikkel 52 nr. 1 bokstav b punkt (i). Den *pro rata*-beregnede ytelsen fastsettes deretter ved at det teoretiske beløpet multipliseres med en brøk der tilbakelagt trygdetid i vedkommende stat er teller, og summen av tilbakelagt trygdetid i EØS-stater er nevner, jf. artikkel 52 nr. 1 bokstav b punkt (ii).
+
+Dersom sammenlegging er nødvendig for å oppnå rett til ytelsen, skal ytelsen imidlertid utgangspunktet alltid gis som en *pro rata*-ytelse, jf. artikkel 52 nr. 1 bokstav a.
+
+Artikkel 52 nr. 4 åpner likevel for at Norge på visse, nærmere definerte vilkår, kan anvende nasjonale beregningsregler på alderspensjon. Dette har en sammenheng med at beregningsreglene i Statens pensjonskasseloven og sykepleierpensjonsloven gir anvisning på en *pro rata*-beregning, og beregningen gir derfor vanligvis det samme resultatet som beregning etter trygdeforordningen. Dette gjelder alle alderspensjoner, unntatt uføre- og gjenlevendepensjoner som går over til alderspensjon, jf. Norges oppføring i vedlegg VIII til trygdeforordningen, se EØS-avtalen vedlegg VI nr. 1, bokstav g.
+
+Som nevnt ovenfor, fritar trygdeforordningen artikkel 57 nr. 1 en stat fra å gi ytelser på grunnlag av trygdetid på under ett år, når dette ikke gir rett til ytelser etter statens nasjonale lovgivning. Slik trygdetid skal imidlertid tas med ved beregningen av det teoretiske beløpet i andre staters *pro rata*-beregninger, jf. trygdeforordningen artikkel 57 nr. 2. Artikkel 57 regulerer også den situasjonen at en person ikke har opptjent trygdetid på mer enn ett år i noen EØS-stater. Bestemmelsene i artikkel 57 skal sikre at trygdetid som vedkommende ellers ikke ville fått noe igjen for, blir medregnet.
+
+Artikkel 52 til 59 kommer til anvendelse også ved beregning av tidligpensjon og særalderspåslag etter Statens pensjonskasseloven, jf. artikkel 60. Det som er sagt ovenfor, er derfor i utgangspunktet også relevant også for disse ytelsene.
+
+### Krav til opphold i Norge og eksportabilitet
+
+Trygdeforordningens generelle regler om eksportabilitet innebærer blant annet at en ytelse ikke kan reduseres eller stanses bare fordi mottakeren er bosatt i en annen EØS-stat, med mindre forordningen selv gir regler om noe annet, jf. trygdeforordningen artikkel 7.
+
+Det er ingen særskilte krav til bosetting i Norge for å få eller beholde rett til tidligpensjon og særalderspåslag. På dette punkt er de nasjonale reglene i tråd med trygdeforordningen, og det er i denne sammenhengen ikke behov for å fravike bestemmelser i Statens pensjonskasseloven og sykepleierpensjonsloven på bakgrunn av trygdeforordningen.

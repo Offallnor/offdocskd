@@ -1,878 +1,232 @@
-# Prop. 87 L (2018–2019), del 8 av 15 (side 83–92)
+# Prop. 87 L (2018–2019), del 8 av 15
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2019/c108c43b-prop-87-l-20182019.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-87-l-20182019/id2641322/
 - Original-PDF: https://www.regjeringen.no/contentassets/6b1e8ae0a39e4519ac1f95311ab622be/no/pdfs/prp201820190087000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 tabeller, 38 figurer, 204 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 83]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-«Med utgangspunkt i avtalen og et rettslig vern
-av opptjente rettigheter mener vi det er problematisk om videre opptjening i ny pensjonsordning avskjærer ansatte med rettigheter som
-om de fratrer uten noen form for sikring. Det
-bør etter vårt syn etableres en garanti for opptjent pensjon i bruttoordningen som skal gjelde
-for alle som fratrer etter fylte 62 år, og som dermed står i stilling når de kan begynne å ta ut
-pensjon. Garantien skal sikre en samlet tjenestepensjon inkl. AFP/betinget tjenestepensjon
-minst på nivå med opptjent bruttopensjon
-beregnet med et krav til full opptjening på 30
-år.»
-KLP peker på at medlemmer som i ung alder ble
-innmeldt i bruttoordningen, som følge av at de for
-eksempel hadde sommerjobb, får beregnet sin
-oppsatte pensjon etter 40-deler, mens medlemmer
-som først ble innmeldt i pensjonsordningen etter
-endt skolegang, kan få sin pensjon beregnet etter
-en lavere nevner som gir høyere pensjon.
-Gabler forutsetter at nevner i oppsatt rett skal
-beregnes på vanlig måte, dvs. etter reglene i pensjonskasseloven § 23 andre ledd (maksimert til
-40). Gabler skriver:
-«Dersom denne forståelsen er riktig vil det
-kunne oppstå til dels store forskjeller mellom
-arbeidstakere som har like mye opptjening i
-offentlig sektor, ettersom nevner i den oppsatte
-rettigheten vil være bestemt av når man første
-gang ble meldt inn i en offentlig ordning.»
-[…]
-«En mulig løsning som kan hindre slike
-utslag er at nevner i oppsatt rett pr. 31.12.2019
-for medlemmer som på dette tidspunkt er
-aktive og som har avbrudd i opptjeningen før
-2020 beregnes etter «utetidsregelen». Etter
-hva Gabler kjenner til benyttes denne metoden
-av blant andre Oslo Pensjonsforsikring.»
-Gabler ber departementet presisere om bestemmelsen om nedgang i lønn i pensjonskasseloven
-§ 15 andre ledd skal gjelde for grunnlaget i den
-oppsatte rettigheten.
-Oslo Pensjonsforsikring (OPF) peker på at det i
-de offentlige tjenestepensjonsordningene er forskjellige måter å regne ut nevneren i tjenestetidsbrøken for oppsatte pensjoner. OPF bemerker at
-departementet ikke har omtalt disse forskjellene i
-høringsnotatet. OPF legger likevel til grunn at
-personer som har oppsatte rettigheter i dag, skal
-ha disse beregnet i henhold til det regelverket
-som i dag gjelder for disse rettighetene. De viser
-
-81
-
-til at det således også etter innføringen av ny
-påslagspensjon vil kunne være personer som får
-beregnet en oppsatt alderspensjon fra bruttopensjonen med 30-deler.
-OPF uttaler at de ser rimeligheten i departementets forslag om å basere gjennomsnittlig stillingsandel på de 30 årene med høyest stillingsandel. De mener likevel at det er grunn til å påpeke
-at den foreslåtte deltidsberegningen vil kunne gi
-mer kompliserte pensjonsberegninger enn hva tilfellet ville vært dersom man hadde lagt til grunn
-gjeldende beregningsregler for oppsatt pensjon.
-Også to privatpersoner peker på det de mener
-er uheldige utslag for personer med hull i opptjeningshistorikken og argumenterer for at OPFs
-praksis bør legges til grunn. En høringsuttalelse
-bemerker at forslaget i høringsnotatet om at opptjeningen i bruttoordningen skal beregnes som en
-oppsatt rett for mange vil innebære en lavere utbetalt pensjon fra bruttoordningen, sammenlignet
-med hva de ville ha fått for den tilsvarende opptjeningstiden ved en videreføring av gjeldende regelverk og med hva de har hatt grunn til å forvente.
-Det hevdes at det er nærliggende å reise spørsmål
-om dette kan være i strid med tilbakevirkningsforbudet i Grunnloven § 97. Denne privatpersonens
-syn er at forslaget i høringsnotatet, om å anvende
-regelen om oppsatt rett i SPK-loven § 23 annet
-ledd ved beregningen av aktive medlemmers allerede opptjente rettigheter fra bruttoordningen,
-innebærer «urettferdig og vilkårlig tilbakevirkning». Vedkommendes oppfatning er at praksis i tidligere store omlegginger av pensjonsordninger har vært at overgangsregler utformes ut
-fra en rimelighetsbetraktning slik at en med god
-margin går «klar av» Grunnlovens tilbakevirkningsforbud.
-SPK skriver at det ikke framgår av høringen at
-kravet til full tjenestetid skal følge dagens regler
-for oppsatt pensjon. For at det ikke skal være tvil,
-mener SPK at det bør framkomme at dagens
-regler skal gjelde.
-SPK forutsetter at reglene ved nedgang i lønn
-skal videreføres.
-
-11.3.3 Departementets vurdering og forslag
-Det har ikke kommet innvendinger mot at oppsatt
-pensjonsrett for tjenestetid før 2020 skal beregnes
-med utgangspunkt i 66 prosent av det pensjonsgrunnlaget medlemmet har 31. desember 2019 og
-at det er gjennomsnittlig stillingsandel i de 30
-årene før 2020 med høyest stillingsandel som skal
-inngå i pensjonsgrunnlaget. Departementet opprettholder derfor forslaget og foreslår at bestem-
-
-[Side 84]
-
-82
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-melsen om nedgang i lønn § 15 andre ledd også
-skal gjelde for pensjonsgrunnlaget for alderspensjon opptjent før 2020 for medlemmer født i 1963
-eller senere.
-Flere høringsinstanser har hatt merknader til
-hvordan kravet til full opptjening skal fastsettes
-for alderspensjon opptjent før 2020. Departementet viser til at det går klart fram av avtalen at de
-som har opptjening i bruttoordningen skal få en
-oppsatt pensjon fra denne ordningen når de starter å tjene opp pensjonsrettigheter i påslagsordningen. Det er ikke avtalt at det skal være særskilte regler for å beregne den oppsatte retten.
-Avtalepartene har vært klar over at kravet til full
-opptjening normalt øker med inntil ti år, fra 30 år
-til 40 år, når pensjonen beregnes som en oppsatt
-rett. At enkelte får et krav til full opptjening som er
-lavere enn 40 år, pga. dagens regler for å beregne
-oppsatte pensjoner, er ikke etter departementets
-vurdering et tilstrekkelig argument for at alle skal
-få gunstigere regler.
-Det eldste årskullet som får tjenestetid før
-2020 omgjort til en oppsatt pensjon, 1963-kullet,
-vil få 13 år med opptjening av påslagspensjon dersom de står i jobb fram til aldersgrensen og ti år
-dersom de står i jobb til 67 år. Departementet
-mener at det derfor ikke er urimelig at kravet til
-full opptjening for bruttopensjonen øker med inntil ti år, og mener at samlet nivå for bruttopensjon
-og påslagspensjon vil gi en pensjon på nivå med
-det den enkelte har hatt grunn til å forvente.
-Departementet viser til at privatpersoner i
-høringen har stilt spørsmål ved om forslaget kan
-være innenfor rammene i Grunnloven § 97, at
-lover ikke kan gis med tilbakevirkende kraft, spesielt for ansatte som ikke har hatt sammenhengende tjenestetid i offentlig sektor siden første
-gangs innmelding. Departementet ser at forslaget
-om at allerede opptjente rettigheter skal ivaretas
-som en oppsatt rett etter gjeldende regler vil
-kunne gi en annen pensjonsberegning enn det
-mange medlemmer ville ha fått dersom pensjonsordningene ikke ble lagt om. Departementet viser
-til at dette gjelder generelt for alle som er født i
-1963 eller senere, både som følge av at allerede
-opptjente rettigheter beregnes som en oppsatt
-rett, men i vel så stor grad av de grunnleggende
-omleggingene knyttet til at reglene for opptjening
-og uttak av pensjon endres. Departementet kan
-ikke se at forslaget om at allerede opptjente rettigheter skal beregnes som en oppsatt rett innebærer en urimelig tilbakevirkning, hverken generelt eller spesielt for gruppen som ikke har sam-
-
-2018–2019
-
-menhengende opptjening i offentlig sektor. Dersom omleggingen av pensjonsordningen skulle
-gjennomføres på en slik måte at pensjonsutbetalingene skulle være tilsvarende som det en kunne
-forvente dersom en ble videreført i dagens ordninger, måtte, etter departementets syn, langt
-flere årskull blitt videreført i dagens ordninger.
-Departementet viser til at omleggingen av ordningen anses som helt nødvendig for å sikre offentlig
-ansatte en god pensjonsordning tilpasset pensjonsreformen. Omleggingen vil også gjøre det
-lettere for offentlig ansatte å innrette seg slik at man
-ved å stå lenger i arbeid kan opprettholde gode
-pensjonsnivåer. Det vises også til at denne overgangsordningen gjelder generelt for private virksomheter som går fra å ha offentlig tjenestepensjonsordning for sine ansatte til privat tjenestepensjonsordning. Da regnes opptjente pensjonsrettigheter i den offentlige tjenestepensjonsordningen
-som oppsatte rettigheter.
-Når det gjelder arbeidstakerorganisasjonenes
-krav om en garanti for samlet pensjon, viser
-departementet til at det ikke står noe i avtalen om
-garanti for samlet tjenestepensjon. Slik departementet ser det, blir avtalens formulering om at de
-som skal tjene opp påslagspensjon beholder opptjeningen i bruttoordningen ivaretatt gjennom
-oppsatt pensjon for opptjeningstid før 2020.
-På prinsipielt grunnlag mener departementet
-at opptjening fra bruttoordningen før 2020 burde
-ha 40 år som krav til full tjenestetid, ettersom innføring av ny ordning muliggjør mer enn ti års opptjening av påslagspensjon. Dette ville sikret likebehandling av opptjeningstid i bruttoordningen.
-Departementet ser at dette vil være i strid med
-avtalen, som tydelig sier at opptjeningstid skal
-beregnes som en oppsatt pensjon. Departementet
-opprettholder derfor forslaget fra høringsnotatet
-om at opptjening før 2020 beregnes som en oppsatt pensjon etter ordinære regler for å fastsette
-tjenestetidsbrøken. Departementet foreslår på
-denne bakgrunnen at det presiseres i loven at kravet til full tjenestetid settes til den tjenestetiden
-medlemmet ville hatt fra den dagen vedkommende ble medlem av en offentlig tjenestepensjonsordning og fram til aldersgrensen, men at
-kravet ikke kan settes høyere enn 40 år og ikke
-lavere enn 30 år. Departementet foreslår videre at
-alderspensjonen avkortes forholdsmessig dersom man ikke har full opptjening.
-Se punkt 11.3.4 om utformingen av lovendringer.
-
-[Side 85]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-11.3.4 De enkelte lovforslagene
-11.3.4.1 Innledning
-I dette punktet foreslår departementet endringer i
-de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i 11.2.3 og punkt
-11.3.3. Endringer i lov om Statens pensjonskasse
-og lov om pensjonsordning for sykepleiere
-behandles i punktene 11.3.4.2 og 11.3.4.3.
-
-11.3.4.2 Lov om Statens pensjonskasse
-Bestemmelsen om beregning av oppsatt pensjon
-for tjenestetid før 2020 foreslås regulert i ny § 26
-h, første til fjerde ledd, som skal ivareta at pensjonen blir beregnet som en oppsatt rett på samme
-måte som etter § 23, men for tjenestetid og pensjonsgrunnlag per 31. desember 2019.
-I første ledd gis det bestemmelser om betingelsene for å motta en oppsatt pensjon for tjenestetid før 2020. Første ledd sier at medlemmer med
-tjenestetid før 2020 har rett til oppsatt alderspensjon dersom samlet tjenestetid er minst tre år. Når
-leddet presiserer at det er samlet tjenestetid som
-avgjør hvorvidt det gis rett til oppsatt pensjon,
-viser dette til at både tid før og etter 2020 inngår
-for å fastslå om treårskravet er oppfylt.
-I andre ledd går det fram hvilket pensjonsgrunnlag som skal benyttes for å beregne den
-oppsatte pensjonen. I første punktum går det fram
-at pensjonen skal beregnes av medlemmets pensjonsgrunnlag 31. desember 2019. Før pensjonsuttak skal pensjonsgrunnlaget reguleres årlig i samsvar med den generelle lønnsveksten. I andre
-punktum presiseres det at dersom medlemmet
-per 31. desember 2019 har lengre tjenestetid enn
-30 år, skal gjennomsnittlig stillingsandel beregnes
-med utgangspunkt i de 30 årene med høyest stillingsandel.
-Bestemmelsene om beregning av den oppsatte
-pensjonen går fram av tredje ledd. I bokstav a gis
-bestemmelser om hvordan pensjonen skal beregnes dersom medlemmet har full tjenestetid. Det
-presiseres at full tjenestetid er den tjenestetiden
-medlemmet ville hatt fra den dagen vedkommende ble medlem og fram til aldersgrensen, likevel ikke mer enn 40 år og ikke mindre enn 30 år.
-Ved full tjenestetid skal pensjonen utgjøre 66 prosent av pensjonsgrunnlaget. Bokstav b gir
-bestemmelser om hvordan pensjonen skal beregnes dersom medlemmet ikke har full tjenestetid.
-Det går fram at dersom medlemmet per 31.
-desember 2019 ikke har full tjenestetid, skal
-medlemmet ha en avkortet alderspensjon som
-utgjør en så stor andel av full pensjon som tjenes-
-
-83
-
-tetiden 31. desember 2019 utgjør av full tjenestetid.
-I fjerde ledd er det bestemmelser om barnetillegg til alderspensjonen for medlemmer som forsørger barn under 18 år. Det går fram at det skal
-ytes barnetillegg på 10 prosent av alderspensjonen for hvert barn. I andre punktum presiseres
-det at alderspensjon med barnetillegg likevel ikke
-kan overstige 90 prosent av pensjonsgrunnlaget
-etter levealdersjustering når pensjonen er beregnet etter full tjenestetid. Siste punktum har
-bestemmelser om hvordan begrensingen skal
-skje for dem som har kortere enn full tjenestetid.
-Det vises til lovforslaget, lov om Statens pensjonskasse § 26 h første til fjerde ledd.
-
-11.3.4.3 Lov om pensjonsordning for sykepleiere
-Pensjonsordningen for sykepleiere er regulert i
-lov 22. juni 1962 nr. 12. Regelverket er i store
-trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens
-pensjonskasse i punkt 11.3.4.2 gjøres i lov om pensjonsordning for sykepleiere, så langt de passer.
-Det vises til lovforslaget, lov om pensjonsordning for sykepleiere § 11 h første til fjerde ledd.
-
-11.4 Levealdersjustering og uttak av
-alderspensjon opptjent etter
-gjeldende regler
-11.4.1 Pensjonsavtalen og forslagene
-i høringsnotatet
-Etter gjeldende regler skjer levealdersjusteringen
-på uttakstidspunktet, men tidligst fra 67 år. For
-personer født fra og med 1963, som får anledning
-til å ta ut bruttopensjonen fleksibelt fra 62 år, skal
-bruttopensjonen levealdersjusteres på uttakstidspunktet. Departementet foreslo i høringsnotatet
-at bruttopensjonen for personer født fra og med
-1963 skal levealdersjusteres med justeringstall, og
-at justeringstallet på uttakstidspunktet legges til
-grunn. I avtalen heter det at årlig pensjon opptjent
-i bruttoordningen skal være høyere desto senere
-den tas ut etter 67 år. For å sikre dette, foreslo
-departementet at det ikke skal være noen nedre
-grense på justeringstallet som benyttes ved levealdersjustering av bruttopensjon for personer født
-fra og med 1963.
-Etter dagens regler må en fratre helt eller delvis fra medlemspliktig stilling for å kunne ta ut
-pensjon fra bruttoordningen. Uttaksgraden er
-knyttet til fratredelsesgraden; ved overgang til en
-
-[Side 86]
-
-84
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-60-prosentstilling kan en ta ut 40 prosent alderspensjon. For personer som er født fra og med
-1963, skal oppsatt bruttopensjon kunne tas ut fleksibelt fra 62 år, dvs. at det ikke lenger skal være et
-krav om å fratre stillingen for å kunne ta ut pensjon. Det må derfor bestemmes eksplisitt hvilken
-grad av fleksibilitet det skal være til å motta graderte ytelser og til å endre uttaksgrad.
-Departementet viste i høringsnotatet til at
-alderspensjon fra offentlig tjenestepensjon er et
-supplement til alderspensjon fra folketrygden og
-argumenterte for at behovet for fleksibilitet vil
-være godt ivaretatt dersom oppsatt bruttopensjon
-kan tas ut med samme fleksibilitet som folketrygden. Departementet foreslo at oppsatt bruttopensjon skal kunne tas ut med 20, 40, 50, 60, 80 eller
-100 prosent. Departementet foreslo videre at
-uttaksgraden kan endres én gang i året, med
-minst tolv måneders mellomrom, og at det ellers
-gis mulighet til å ta ut full pensjon og til å stanse
-uttaket. Departementet foreslo at ved fylte 75 år,
-skal uttaket alltid utgjøre fullt uttak. For medlemmer som mottar gradert uførepensjon, foreslo
-departementet at summen av uføregraden og graden av alderspensjon ikke kan overstige 100 prosent.
-Departementet la i høringsnotatet til grunn at
-det ikke skal stilles krav om at alderspensjon fra
-folketrygden må tas ut for å kunne ta ut oppsatt
-bruttopensjon. Dette tilsvarer det som gjelder i
-rammelovene for private tjenestepensjonsordninger.
-
-11.4.2 Høringsinstansenes syn
-Arbeidstakerorganisasjonene skriver at de er usikre på hvor mange som faktisk kommer til å
-benytte seg av den fleksibiliteten som foreslås i
-høringsnotatet.
-Oslo Pensjonsforsikring (OPF) viser til sine
-kommentarer til spørsmålet om gradering av og
-fleksibilitet for påslagspensjonen. OPF mener at
-det ikke bør være anledning til gradert uttak av
-oppsatt bruttopensjon, men at denne kun skal
-kunne tas ut fullt. De skriver at dette vil gjøre det
-lettere å beregne den foreløpige samordningen og
-samordningsoppgjøret ved ordinær samordning.
-OPF mener det heller ikke bør være anledning til
-å stanse uttaket etter dette er påbegynt.
-OPF støtter departementets forslag om levealdersjustering og skriver at det framstår som naturlig å levealdersjustere en alderspensjon som kan
-tas ut fleksibelt på uttakstidspunktet for ytelsen,
-selv om dette er før fylte 67 år. Videre ser OPF at
-det er gode grunner som taler for at det ikke skal
-
-2018–2019
-
-gjelde noen nedre grense for justeringstallet for
-personer født fra og med 1963, da dette vil understøtte arbeidslinjen.
-Gabler mener at muligheten for gradert uttak
-av oppsatt bruttopensjon bør begrenses.
-Arbeids- og velferdsdirektoratet viser til at det
-for å kunne beregne garantipensjonsbeholdning
-må fastsettes trygdetid etter folketrygdloven § 2010. Dette krever i en del tilfeller manuell saksbehandling. Direktoratet skriver at fastsetting og
-vedlikehold av trygdetid uten at det foreligger et
-krav om alderspensjon fra folketrygden vil gi merarbeid, og vil kreve systemutvikling og koordinering som ikke er nødvendig hvis oppsatt bruttopensjon må tas ut sammen med alderspensjon fra
-folketrygden. Arbeids- og velferdsdirektoratet
-mener det derfor bør vurderes om samordningsreglene som gjelder for tilfeller der det ikke foreligger søknad om alderspensjon fra folketrygden,
-kan utformes på en slik måte at det ikke er nødvendig å fastsette reell trygdetid.
-Arbeids- og velferdsdirektoratet påpeker at
-den foreslåtte regelen om automatisk utbetaling
-av oppsatt bruttopensjon ved 75 år, også vil kunne
-føre til at oppsatt bruttopensjon utbetales uten at
-det samtidig utbetales alderspensjon fra folketrygden. De viser til at alderspensjon fra folketrygden
-ikke utbetales automatisk.
-SPK viser til at det ikke foreslås at det skal stilles krav til uttak av alderspensjon etter samme
-grad for å kunne ta ut oppsatt bruttopensjon. SPK
-skriver:
-«Forskrift 1711 «Forskrift om vilkår for rett til
-ytelser etter lov om Statens pensjonskasse og
-etter enkelte andre lover når det foreligger rett
-til ytelser etter folketrygdloven» stiller som vilkår for å motta alderspensjon fra 67 år at det
-settes fram krav om uttak av alderspensjon i folketrygden etter minst samme uttaksgrad. SPK
-forutsetter at dette kravet også skal gjelde for
-oppsatt bruttopensjon. Dette bør presiseres.»
-
-11.4.3 Departementets vurdering og forslag
-Det har ikke kommet merknader til forslagene om
-at årlig pensjon fra en oppsatt bruttopensjon framkommer ved å dividere pensjonen på et justeringstall og at justeringstallene fastsettes ved å dividere
-folketrygdens delingstall på uttakstidspunktet på
-13,42. Departementet viser til at dette vil ivareta
-både levealdersjustering av alderspensjon opptjent før 2020 og at uttaksreglene er nøytralt utformet. Nøytrale uttaksregler er en forutsetning for
-at alderspensjonen fritt skal kunne kombineres
-
-[Side 87]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-med arbeidsinntekt uten at pensjonen avkortes.
-Departementet opprettholder derfor forslaget.
-I høringsnotatet foreslo departementet at oppsatt bruttopensjon kan tas ut fra fylte 62 år, helt
-eller gradert, og at man skal kunne endre grad og
-stanse pensjonen etter uttak. Departementet ser
-at gradert uttak av oppsatt bruttopensjon vil føre
-til særdeles kompliserte regler ettersom ytelsen
-skal samordnes med folketrygden med en forskuttert beregning før 67 år og med et oppgjør fra
-67 år. Dersom det åpnes for gradert uttak, med
-mulighet for stopp og endring av grad, vil det
-måtte foretas flere forskutterte samordningsberegninger med tilhørende reberegninger. Dette
-vil nødvendigvis bli svært komplisert.
-Departementet mener at behovet for fleksibilitet i uttak av pensjon er tilstrekkelig ivaretatt ved
-at alderspensjon fra folketrygden og påslagspensjon kan tas ut gradert. Departementet foreslår
-derfor at oppsatt bruttopensjon kan tas ut tidligst
-fra måneden etter fylte 62 år, men at den ikke kan
-tas ut gradert eller stanses.
-Arbeids- og velferdsdirektoratet har vist til at
-fastsetting og vedlikehold av trygdetid uten at det
-foreligger et krav om alderspensjon fra folketrygden vil gi merarbeid, og vil kreve systemutvikling
-og koordinering som ikke er nødvendig hvis oppsatt bruttopensjon må tas ut sammen med alderspensjon fra folketrygden. Departementet ser at
-forslaget i høringsnotatet vil være administrativt
-krevende. Ettersom bruttopensjonen skal samordnes med alderspensjon fra folketrygden, mener
-departementet at det kan være naturlig å knytte
-uttak av oppsatt bruttopensjon til uttak av alderspensjon fra folketrygden, men at det ikke bør stilles som krav at folketrygden tas ut med samme
-grad som den oppsatte bruttopensjonen. Departementet foreslår på denne bakgrunnen at alderspensjon fra folketrygden må være tatt ut, helt eller
-delvis, for at man skal kunne ta ut oppsatt bruttopensjon.
-Departementet viser til at personer som mottar uføretrygd med en uføregrad på 100 prosent,
-ikke har rett til å ta ut alderspensjon fra folketrygden, og etter forslaget da heller ikke vil ha rett til å
-ta ut oppsatt bruttopensjon før 67 år. Departementet viser til at disse mottar en fullverdig inntektssikring fram til 67 år og av den grunn ikke har
-behov for å ta ut alderspensjon tidlig. Gradert
-uføre vil imidlertid kunne ta ut ugradert bruttopensjon fra 62 år.
-Departementet viser til at årlig pensjon ikke
-øker ved utsatt uttak etter 75 år og at det på bakgrunn av dette foreslås i punkt 7.3.3 at påslagspensjon automatisk utbetales med 100 prosent fra og
-
-85
-
-med måneden etter fylte 75 år. Departementet
-foreslår at tilsvarende skal gjelde for oppsatt bruttopensjon, forutsatt uttak av folketrygden.
-I bruttoordningen gis det barnetillegg til alderspensjonen for dem som forsørger barn under 18
-år. Etter gjeldende regler, kommer barnetillegg
-tidligst til utbetaling fra 65 år, når AFP beregnes
-som en tjenestepensjon, for dem med ordinær
-aldersgrense. Departementet foreslår at det fortsatt skal gis barnetillegg til alderspensjon etter
-dagens regler. Det foreslås derfor at dette presiseres i bestemmelsene om alderspensjon opptjent
-før 2020, og at barnetillegg til den oppsatte bruttopensjonen tidligst utbetales fra måneden etter
-fylte 65 år.
-Departementet viser til at de som mottar særalderspensjon har barnetillegg knyttet til særalderspensjonen, se punkt 12.7.
-Departementet viser til at det i punkt 7.3.3
-foreslås at påslagspensjon opphører ved utgangen
-av måneden etter måneden medlemmet døde. Tilsvarende bestemmelser foreslås for betinget tjenestepensjon og overgangstillegg. I dagens bruttoordning er det bestemmelser om at pensjonen
-løper ytterligere én måned dersom avdøde etterlater seg ektefelle. Departementet mener at denne
-bestemmelsen også skal gjelde for pensjon opptjent i dagens ordning før 2020 for medlemmer
-født i 1963 eller senere og foreslår at dette presiseres i loven. Departementet viser videre til at det i
-dagens regelverk er bestemmelser om at det skal
-utbetales én måneds pensjon til ektefelle dersom
-medlemmet dør før pensjonen har begynt å løpe.
-Det foreslås ikke at tilsvarende bestemmelser skal
-gjelde for de nye ordningene, men departementet
-mener denne bestemmelsen også skal gjelde for
-pensjon opptjent i dagens ordning før 2020 for
-medlemmer født i 1963 eller senere. Departementet foreslår at det presiseres i loven at beløpet som
-da skal betales ut er én måneds pensjon av oppsatt
-bruttopensjon, og at det skal benyttes et justeringstall lik 1,000. Ettersom det ikke utbetales
-alderspensjon fra folketrygden etter dødsmåneden, utbetales bruttopensjonen usamordnet.
-Se punkt 11.4.4 om utformingen av lovforslag.
-
-11.4.4 De enkelte lovforslagene
-11.4.4.1 Innledning
-I dette punktet foreslår departementet endringer i
-de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i punkt 11.4.3.
-Endringer i lov om Statens pensjonskasse og lov
-
-[Side 88]
-
-86
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-om pensjonsordning for sykepleiere behandles i
-punktene 11.4.4.2 og 11.4.4.3.
-
-11.4.4.2 Lov om Statens pensjonskasse
-Bestemmelsen om levealdersjustering og uttak av
-oppsatt pensjon for tjenestetid før 2020 foreslås
-regulert i ny § 26 h femte til sjuende ledd.
-§ 26 h femte ledd gir bestemmelser om levealdersjustering av pensjonen. Det går fram at pensjonen skal levealdersjusteres ved hjelp av justeringstall fastsatt med utgangspunkt i delingstall
-fastsatt av Arbeids- og velferdsdirektoratet, jf. folketrygdloven §§ 20-12 og 20-13. Det presiseres at
-justeringstallet framkommer ved å dividere
-delingstallene med 13,42, og at det er justeringstallet ved uttak som skal legges til grunn.
-Sjette ledd gir bestemmelser om tidligste og
-seneste uttakstidspunkt for pensjonen samt vilkår
-for å få utbetalt pensjonen. Første og andre punktum sier at pensjonen tidligst kan tas ut fra og med
-måneden etter den måneden melding om uttak
-blir gitt, likevel tidligst fra og med måneden etter
-fylte 62 år. Dersom pensjonen ikke er tatt ut innen
-medlemmet fyller 75 år, skal pensjonen uansett
-utbetales fra og med måneden etter fylte 75 år. I
-tredje punktum går det fram at det er et vilkår for
-uttak, at medlemmet mottar alderspensjon fra folketrygden på uttakstidspunktet. Fjerde punktum
-presiserer at pensjonen ikke kan tas ut gradert
-eller stanses. Siste punktum inneholder et unntak
-fra hovedregelen om at pensjonen tidligst kan tas
-ut fra 62 år. Unntaket gjelder for barnetillegget
-som tidligst gis fra og med måneden etter fylte 65
-år.
-I forslaget til § 26 h sjuende ledd presiseres
-det at pensjonen kan kombineres med arbeidsinntekt uten at pensjonen blir avkortet.
-Det framgår av § 26 l første ledd at pensjonen
-opphører ved utgangen av måneden etter måneden medlemmet døde, men at pensjonen løper i
-ytterligere én måned dersom avdøde etterlater
-seg ektefelle. Det følger av forslaget til andre ledd
-at det skal utbetales én måneds pensjon etter § 26
-h, beregnet med et justeringstall lik 1,000, til gjenlevende ektefelle, dersom medlemmet dør uten at
-pensjon etter § 26 h har begynt å løpe eller hadde
-midlertidig uførepensjon eller uførepensjon ved
-dødsfallet, på samme måte som etter nåværende
-§ 26 andre ledd.
-Det vises til lovforslaget, lov om Statens pensjonskasse § 26 h, femte til sjuende ledd og § 26 l.
-
-2018–2019
-
-11.4.4.3 Lov om pensjonsordning for sykepleiere
-Pensjonsordningen for sykepleiere er regulert i
-lov 22. juni 1962 nr. 12. Regelverket er i store
-trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens
-pensjonskasse i punkt 11.4.4.2 gjøres i lov om pensjonsordning for sykepleiere.
-Det vises til lovforslaget, lov om pensjonsordning for sykepleiere § 11 h, femte til sjuende ledd
-og § 11 l.
-
-11.5 Samordning av oppsatt
-bruttopensjon og omregning ved
-endring i pensjonsgrad eller stans
-av pensjon
-11.5.1 Pensjonsavtalen og forslagene
-i høringsnotatet
-Samordning før 67 år
-I høringsnotatet foreslo departementet, i tråd med
-avtalen, at fleksibelt uttak av bruttopensjon skal
-gjennomføres ved at det skjer en foreløpig samordning dersom uttaket skjer før 67 år. Departementet foreslo at ved uttak av bruttopensjon før 67
-år, skal det fastsettes en foreløpig samordningsbeholdning. Departementet foreslo videre at den
-foreløpige samordningsbeholdningen fastsettes
-som den ordinære samordningsbeholdningen på
-uttakstidspunktet, tillagt folketrygdopptjening
-fram til 67 år med utgangspunkt i et pensjonsgrunnlag på 7,1 G, dvs. det som maksimalt kan tjenes opp i folketrygden fram til 67 år.
-Departementet foreslo videre at det foreløpige
-samordningsfradraget fastsettes ved å dividere
-den foreløpige samordningsbeholdningen med
-delingstallet fastsatt etter folketrygdloven § 20-13,
-og at det er delingstallet på uttakstidspunktet for
-bruttopensjonen som skal legges til grunn.
-Samordning fra og med 67 år
-I høringsnotatet foreslo departementet at ved
-uttak av bruttopensjon før 67 år skal årlig pensjon
-beregnes på nytt fra 67 år. Departementet foreslo
-at samordningsfradraget da skal fastsettes på bakgrunn av den ordinære samordningsbeholdningen. Departementet foreslo videre at dersom den
-ordinære samordningsbeholdningen er lavere
-enn den foreløpige beholdningen, skal årlig pensjon fra bruttoordningen økes.
-
-[Side 89]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-Departementet foreslo videre at førstegangsuttak av bruttopensjon fra og med 67 år skal samordnes med den ordinære samordningsbeholdningen.
-Departementet foreslo videre, i tråd med pensjonsavtalen, at det ikke skal samordnes med
-eventuell opptjening i folketrygden som skjer
-etter 67 år.
-Omregning ved endring i pensjonsgrad eller stans av
-pensjon
-Departementet foreslo i høringsnotatet at dersom
-pensjonsgraden økes før 67 år, skal det økte deluttaket beregnes som et nytt uttak etter ordinære
-regler. Dersom pensjonsgraden reduseres før 67
-år, skal årlig pensjon reberegnes ved å dividere
-med den opprinnelige uttaksgraden og multiplisere med den nye uttaksgraden.
-Departementet foreslo videre at dersom pensjonsgraden endres etter 67 år, skal pensjon under
-utbetaling omgjøres til en beholdning ved at den
-årlige pensjonen multipliseres med delingstallet
-på endringstidspunktet. Deretter skal det beregnes ny årlig pensjon ved å dividere med delingstallet på endringstidspunktet, multiplisert med ny
-uttaksgrad.
-
-11.5.2 Høringsinstansenes syn
-Mange av høringsinstansene uttaler seg samlet
-om samordning hhv. før og fra og med 67 år, samt
-omregning ved eventuell endring i pensjonsgrad
-eller stans av pensjon. Det virker også som om
-mange av høringsinstansene mener at hvordan
-samordningen skjer før 67 år påvirker synet på
-hvordan samordningen bør skje fra og med 67 år.
-Departementet gjengir derfor høringsinstansenes syn på samordning og reberegning av pensjon
-samlet.
-Arbeidstakerorganisasjonene skriver at det er
-grunn til å anta at mange av dem som vil benytte
-adgangen til tidlig uttak av pensjon, og faktisk fratre, er grupper som i dag i stor grad har benyttet
-AFP-ordningen. Organisasjonene skriver at
-mange av disse jobber i yrker og har et utdanningsnivå som statistisk har lavere forventet levealder enn gjennomsnittet, noe som vil kunne medføre at den livsvarige pensjonsytelsen ikke vil
-kompensere for streng samordning mellom uttak
-og 67 år.
-Arbeidstakerorganisasjonene skriver:
-«Departementet diskuterer hvordan potensiell
-inntekt etter pensjonsuttak skal behandles i
-
-87
-
-den foreløpige samordningen, og ender opp
-med å foreslå at det skal legges til grunn at alle
-har maksimal pensjonsgivende inntekt, 7,1 G,
-helt frem til 67 år. Dette fører at samordningsfradraget fra uttak til 67 år for de fleste blir relativt høyt, slik at utbetalt pensjon før 67 år blir
-relativt lav.»
-[…]
-«For de fleste vil det være lite sannsynlig at
-de vil få en kraftig inntektsvekst etter fylte 62
-år. Det er derfor grunn til å tro at det vil være
-svært få av de som før uttak har lavere inntekt
-enn 7,1 G faktisk vil få så høy pensjonsgivende
-inntekt som departementet foreslår å legge til
-grunn. Et alternativ kan være å bruke den faktiske inntekten den enkelte har like før uttak,
-eventuelt gjennomsnittet av de 3-5 siste årene
-før uttak. Et annet alternativ kan være å spørre
-den enkelte om hva de regner med å ha i inntekt, og legge dette til grunn.
-[…]
-Departementet foreslår at dersom faktisk
-inntekt fra uttak til 67 år har vært lavere enn det
-som ble lagt til grunn i den foreløpige samordningen, skal for lite utbetalt pensjon utbetales
-fra 67 år fordelt over forventet gjenstående
-levealder. En slik løsning vil favorisere personer som lever lenge. Personer som lever kortere enn forventet levealder vil ikke få utbetalt
-hele pensjonen som ble for lite utbetalt før 67
-år. De som har kort forventet levealder er langt
-på vei blant «taperne» etter pensjonsreformen.
-Den foreslåtte løsningen kan derfor sies å
-ytterligere bygge opp under en uheldig fordelingseffekt i pensjonssystemet.
-[…]
-Vi ber departementet gjøre en fornyet vurdering om det finnes andre løsninger som er
-mer treffsikre, f.eks. innrapportert årlig egenvurdert inntekt, legge til grunn siste års inntekt, evt. med et påslag som en sikkerhetsmargin e.l. Dette vil kunne gi en bedre profil, samtidig som forskjellene før og etter 67 år vil bli
-akseptable.»
-Arbeidstakerorganisasjonene viser videre til at det
-er avtalt at opptjening i folketrygden etter 67 år
-ikke skal være samordningspliktig. Departementet foreslår at opptjening i folketrygden det kalenderåret en fyller 67 år likevel skal være samordningspliktig. Organisasjonene mener dette ikke er
-i samsvar med avtalen. For å oppfylle avtalen
-mener de opptjening det året en fyller 66 år er det
-siste opptjeningsåret som skal tas med i samordningen. Organisasjonene legger til grunn at pen-
-
-[Side 90]
-
-88
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-sjonsgrunnlaget (som er fastsatt før 2020) reguleres med lønnsveksten fram til uttak.
-Arbeidstakerorganisasjonene skriver videre at
-hvordan pensjonen skal beregnes dersom en person ønsker å endre pensjonsuttaket er svært kortfattet beskrevet i høringsnotatet.
-Gabler mener at forslaget om å forskuttere
-maksimal folketrygdopptjening må revurderes.
-De viser til at departementets begrunnelse er at
-man ønsker å unngå en reduksjon av pensjonen
-fra 67 år. Gabler oppfatter dette som et svakt argument. Gabler mener at dersom man har samordnet for lite før 67 år, kan det heller gjøres et fradrag i pensjonen fra 67 år. Gabler betviler sterkt at
-eventuelle endringer i pensjonen fra 67 år vil bli
-sjokkartede med en slik framgangsmåte. Gabler
-skriver at et alternativt forslag er at man ved tidliguttak samordner med en fiktiv beholdning der
-framtidig opptjening i folketrygden forskutteres
-ved at man framskriver siste lignede pensjonsgivende inntekt fram til 67 år. Gabler skriver videre
-at å samordne med faktisk beholdning i folketrygden til enhver tid også er en mulighet, men at
-ulempen med denne framgangsmåten er at man
-må foreta mange samordningsberegninger.
-Hvis det er forskuttert for høy folketrygdopptjening før 67 år, mener Gabler at det som er samordnet for mye før 67 år, bør etterbetales fra 67 år
-som en engangsutbetaling, og ikke fordeles livsvarig ved hjelp av delingstallet.
-Gabler påpeker at den foreslåtte formelen for
-reberegning av pensjon ved 67 år er upresis og
-viser til at regelverket vil bli svært komplisert.
-Gabler skriver:
-«I tidsrommet før 67 år kan pensjonen ha vært
-tatt ut gradert. Uttaksgradene kan ha vært
-endret underveis, og pensjonen kan også ha
-vært stanset og restartet. Korreksjonen av fradraget og det livsvarige tillegget fra 67 år må
-derfor også ta høyde for dette. Det skal også tillegges at «fasiten» på personens folketrygdpensjon ved 67 år ikke foreligger før i det året
-personen fyller 69.
-[…]
-Det synes klart at den foreløpige samordningen kan gi svært kompliserte beregninger.
-Det vises til at det vil kunne være tilfeller der
-det tas ut flere tjenestepensjoner samtidig før
-67 år som ikke er omfattet av Overføringsavtalen. Disse vil kunne tas ut gradert, kanskje
-også i forskjellige grader, og tjenestepensjonene skal først samordnes innbyrdes etter
-samordningsloven § 7, hvoretter (de forelø-
-
-2018–2019
-
-pige) samordningsfradragene for folketrygden
-skal fordeles mellom tjenestepensjonene iht.
-vanskelig tilgjengelige forskrifter, hvor man
-altså legger til grunn forskuttert maksimal opptjening. Å finne ut hvor mye man har samordnet for mye før 67 år når man får «fasiten» fra
-folketrygden blir i slike saker ingen triviell regneøvelse. Fra et leverandørsynspunkt hadde
-det vært ønskelig med et enklere regelverk,
-eksempelvis med sjablongberegnede fradrag,
-men dette vil innebære at man gir slipp på noe
-av «millimeterrettferdighets»-prinsippet som i
-alle år har innhyllet samordningsregelverket.
-(Det skal tillegges at dette prinsippet har vært
-implementert på en måte som har gitt lite millimeterpresisjon, men til gjengjeld det antagelig
-mest kompliserte regelverk i norsk rett). Den
-foreslåtte løsning vil legge ytterligere et lag av
-komplikasjoner oppå et fra før bortimot ufremkommelig stillas av innviklede samordningsregler, som dessuten ikke vil bli avviklet før om
-bortimot hundre år.»
-Gabler forutsetter at det gis egne regler for samordning av oppsatt bruttopensjon opptjent i stilling med særaldersgrense.
-Også SPK peker på kompleksiteten rundt den
-forskutterte samordningen. De skriver:
-«Slik lovhjemmelen i § 24 c, andre ledd i samordningsloven, og høringsnotatet, er formulert
-rundt samordningen av oppsatt bruttopensjon
-før 67 år, ser vi utfordringer ved hvordan tjenestepensjonsordningene kan håndtere dette.
-Det legges opp til at vi skal beregne en
-beholdning der det er forskuttert opp til 7,1
-ganger grunnbeløpet frem til 67 år. Den «foreløpige beholdningen» er en beholdning tjenestepensjonsordningene må håndtere og
-beregne i tillegg til faktisk folketrygdbeholdning ved uttak. Denne vil også kunne avvike fra
-den ordinære folketrygdbeholdningen.
-I faktisk folketrygdbeholdning inngår inntekten som er kjent på uttakstidspunktet. Dette
-medfører at det kan bli lagt til en tilvekst i
-beholdningen inntil tre år etter uttak når inntekten blir kjent. Etter at det er foretatt en
-beregning ved fylte 67 år, kan derfor samordningen endre seg etter at tillegget er beregnet,
-som følge av at tilvekst er lagt til når faktisk inntekt er kjent. Det er ikke sagt noe i høringsnotatet om endringer i samordningsbeholdningen i slike tilfeller skal medføre endringer i
-beregningen av dette tillegget.»
-
-[Side 91]
-
-2018–2019
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-SPK viser til at omregning ved stans av pensjon
-eller endring i uttaksgrad vil trenge egne systemløsninger, og vil være svært komplisert å kommunisere til deres medlemmer. Det vil også kunne
-påvirke premien.
-LOP er imot forslaget i høringsnotatet om forskuttert samordning for dem som tar ut bruttopensjon før 67 år, og Forsvar offentlig pensjon skriver at de «motsetter seg at en ved foreløpig samordning av pensjon baserer seg på noe annet enn
-den folketrygden som rent faktisk også er opptjent ved uttak før 67 år.»
-Den Norske Aktuarforeningen skriver at departementets forslag i høringsnotatet kan få negativ
-effekt for personer som går av tidlig. De skriver at
-departementets forslag til regler for samordning
-av oppsatt bruttopensjon før 67 år vil medføre at
-medlemmer som dør tidlig, især dem som dør før
-67 år, ikke får utbetalt sin rettmessige andel av
-pensjonen.
-KLP uttaler at de har flere synspunkter på
-hvordan den foreløpige samordning og reberegning/etteroppgjør ved 67 år kan gjennomføres i
-praksis, og at de vil komme tilbake med merknader om dette når forskrift blir sendt på høring.
-KLP bemerker imidlertid noen punkter ved
-lovforslaget og uttaler blant annet:
-«KLP ser behovet for at det må foretas en foreløpig samordning ved uttak av oppsatt bruttopensjon før 67 år, men registrerer at det å forskuttere en folketrygdopptjening på 7,1 G for
-mange vil medføre en lavere utbetaling før 67
-år, enn om faktisk folketrygdopptjening hadde
-vært kjent.
-[…]
-Departementet foreslår at for lav utbetaling
-av oppsatt bruttopensjon før 67 år skal fordeles
-på fremtidige pensjonsutbetalinger fra og med
-67 år. KLP vil i stedet foreslå at det som er utbetalt for lite i bruttopensjon før 67 år, blir utbetalt
-som en engangssum. Dette vil være en administrativ forenkling, og vil dessuten sikre at
-etterbetalingen av for lite utbetalt pensjon kommer pensjonisten til gode så tidlig som mulig.»
-Arbeids- og velferdsdirektoratet forstår det slik at
-det er selve grunnlaget for samordningsbeholdningen det skal tas utgangspunkt i, og at den forskutterte opptjeningen skal tillegges den beregnede pensjonsbeholdningen som er beskrevet i
-samordningsloven § 24 a nr. 1 andre punktum, og
-som tilsvarer pensjonsbeholdningen etter folketrygdloven § 20-4. De viser til at dette i så fall
-
-89
-
-måtte utføres av Arbeids- og velferdsetaten, og vil
-kreve noe systemutvikling.
-OPF skriver at de ser at når det nå åpnes for
-fleksibelt uttak av oppsatt bruttopensjon, må det
-gjøres en eller annen form for samordning også
-før fylte 67 år. De uttaler at den foreslåtte løsningen i høringsnotatet framstår som en relativt
-enkel måte å gjøre den foreløpige samordningen
-på, noe som i utgangspunktet må sies å være velkomment i et pensjonsregime som ellers er alt
-annet enn enkelt. OPF skriver at det kan oppleves
-som urimelig for personer med relativt lav folketrygdopptjening at det legges til grunn en framtidig inntekt de aldri tidligere har hatt. OPF skriver
-at når det i tillegg kan være en større del av personer med lavere forventet levealder i denne gruppen, kan det hevdes at den foreslåtte samordningen slår for sterkt ut for denne gruppen pensjonsmottakere.
-For øvrig legger OPF til grunn at oppsatt bruttopensjon som tas ut fleksibelt forut før fylte 67 år,
-vil kunne bli samordnet med uføretrygd og/eller
-arbeidsavklaringspenger fra folketrygden, samt
-tjenestepensjon som ikke er omfattet av overføringsavtalen, på vanlig måte.
-OPF mener at en eventuell differanse mellom
-utbetalt pensjon og korrekt pensjon ved 67 år bør
-utbetales som et engangsbeløp. De skriver at
-dette ville vært forenklende, og det ville også forhindret negative effekter av at personer som har
-fått for lav pensjon i perioden forut for 67 år, dør
-før de når den forventede levealder som ligger i
-delingstallet ved fylte 67 år.
-OPF ser for øvrig grunn til å påpeke at pensjonsgivende inntekt først er kjent opptil to år
-etter det kalenderåret den har blitt opptjent. Dette
-betyr at det i prinsippet ikke kan gjøres en endelig
-samordningsberegning ved fylte 67 år, da det ikke
-vil være de endelige tallene som vil kunne benyttes på dette tidspunktet. OPF stiller spørsmål om
-det skal foretas en endelig samordning ut fra
-kjente tall ved fylte 67 år, eller om det igjen skal
-gjøres en foreløpig samordning som deretter justeres påfølgende år. OPF ber om departementets
-vurdering av dette spørsmålet.
-
-11.5.3 Departementets vurdering og forslag
-Departementet viser til at bruttoordningens
-logikk, for et gitt pensjonsgrunnlag, er at utbetalt
-tjenestepensjon blir høyere jo lavere folketrygden
-er. Det vil si at jo tidligere pensjonen tas ut og
-samordnes, jo høyere blir netto tjenestepensjon. I
-dag er dette løst ved at tjenestepensjonen tidligst
-kommer til utbetaling ved 67 år, uttak av tjeneste-
-
-[Side 92]
-
-90
-
-Prop. 87 L
-Endringer i lov om Statens pensjonskasse, samordningsloven og enkelte andre lover
-(ny tjenestepensjon for ansatte i offentlig sektor)
-
-pensjon er koblet til avgang fra medlemspliktig
-stilling og tjenestepensjonen samordnes som om
-folketrygden tas ut samtidig. Personer som har
-tatt ut folketrygden tidlig, får dermed ikke høyere
-netto tjenestepensjon som følge av at folketrygden
-er lav på grunn av tidliguttak.
-Når bruttopensjon kan tas ut fra 62 år og frikobles fra fratreden, må samordningsreglene
-utformes slik at tidliguttak ikke gir høyere samlet
-utbetaling. Reglene for samordning ved uttak før
-67 år må ta hensyn til at den enkelte kan fortsette
-å tjene opp alderspensjon fra folketrygden etter
-uttak av bruttopensjonen. I høringsnotatet foreslo
-departementet, i tråd med avtalen, at fleksibelt
-uttak av bruttopensjon gjennomføres ved at det
-skjer en foreløpig samordning dersom uttaket
-skjer før 67 år. Ved uttak av bruttopensjon før 67
-år, skal det fastsettes en foreløpig samordningsbeholdning. I høringsnotatet foreslo departementet
-at den foreløpige samordningsbeholdningen skal
-ta utgangspunkt i den ordinære samordningsbeholdningen tillagt maksimal folketrygdopptjening
-fra uttak og fram til 67 år.
-Flere av høringsinstansene har argumentert
-for at forskuttert samordning vil komplisere regelverket. Dersom bruttopensjonen først kom til
-utbetaling fra 67 år, ville dette gitt et enklere regelverk. Departementet viser til at det er avtalt at
-bruttopensjonen skal kunne tas ut fleksibelt, og at
-dette nødvendigvis må medføre noe kompleksitet.
-En forutsetning for fleksibelt uttak av bruttopensjon fra 62 år er at tidlig uttak ikke gir høyere samlet bruttopensjon. Dette betyr at regelverket må ta
-hensyn til opptjening etter uttak. En fordel med å
-forskuttere opptjening er at det begrenser hvor
-mye pensjonen må nedjusteres i etterkant for dem
-som fortsetter i jobb etter uttak. Departementet
-opprettholder forslaget om at det skal gjøres en
-foreløpig samordning ved uttak før 67 år, og at det
-skal forskutteres folketrygdopptjening i det foreløpige samordningsfradraget. Departementet
-viser til punkt 11.4.3 hvor det foreslås at oppsatt
-bruttopensjon ikke kan tas ut gradert eller stanses
-etter uttak. Dette reduserer kompleksiteten
-vesentlig sammenlignet med forslagene i
-høringsnotatet.
-Departementet ser at de fleste høringsinstansene mener at den foreløpige samordningen forskutterer for høy opptjening i folketrygden. Flere
-høringsinstanser, inkludert arbeidstakerorganisasjonene, har pekt på at å forskuttere maksimal
-opptjening i folketrygden vil kunne gi så lav pensjon i perioden før 67 år at det kan hindre en reell
-mulighet til tidligavgang. Høringsinstansene
-aksepterer at det skal forskutteres noe opptjening,
-
-2018–2019
-
-men de mener at nivået er for høyt. Det pekes
-også på at de som slutter tidlig kan ha lavere forventet levealder enn andre, og dermed ikke får tilbakebetalt sin rettmessige pensjon når denne fordeles over gjenstående levetid.
-I høringsnotatet viste departementet til at ved
-å forskuttere opptjening basert på en inntekt på
-7,1 G, ville en være sikret mot at pensjonen må
-settes ned fra 67 år på grunn av opptjening etter
-uttak. Departementet ser at dette hensynet kan ha
-blitt tillagt for stor vekt i høringsnotatet og støtter
-høringsuttalelsene om at pensjonsnivået før 67 år
-også er viktig.
-Departementet viser til at flere høringsinstanser har kommentert kompleksiteten som følger av
-forslaget i høringsnotatet, og vektlegger at hensyn
-til pensjonsnivået før 67 år ikke bør komplisere
-regelverket ytterligere. Departementet vil derfor
-ikke foreslå at forskuttert opptjening fastsettes
-individuelt, f.eks. ut fra den enkeltes tidligere inntekt. Spørsmålet er, etter departementets syn,
-hvilket nivå på den forskutterte inntekten som gir
-den beste avveiingen mellom å ivareta pensjonsnivået før 67 år for dem som faktisk går av før 67 år,
-og å unngå for stor nedgang i pensjon fra 67 år for
-dem som har tatt ut pensjonen tidlig, men har fortsatt i arbeid.
-Departementet mener en rimelig avveiing av
-disse hensynene tilsier at det skal forskutteres
-opptjening fra pensjonsuttak og fram til 67 år, men
-at slik opptjening skal baseres på en inntekt lavere
-enn 7,1 G.
-I høringsnotatet ble det foreslått at dersom
-den faktiske opptjeningen fra uttakstidspunktet til
-67 år var lavere enn den forskutterte opptjeningen, skulle dette korrigeres for i form av et påslag
-til årlig pensjon fra 67 år. Departementet viser til
-at flere av høringsinstansene har argumentert for
-at for lite utbetalt pensjon i perioden før 67 år bør
-betales ut som et engangsbeløp. Departementet
-ser at et engangsbeløp kan være administrativt
-enklere.
-Dersom det forskutteres opptjening i folketrygden basert på en lavere inntekt enn 7,1 G, vil
-det være tilfeller hvor det er betalt for høy bruttopensjon i perioden før 67 år, som da må kreves inn
-som et engangsbeløp. Departementet mener at
-nivået på den forskutterte inntekten derfor ikke
-kan settes for lav. Med en forskuttert årlig inntekt
-på 5 G, vil det engangsbeløpet som skal kreves inn
-maksimalt bli på rundt 40 000 kroner. Dette vil
-gjelde for personer som tar ut bruttopensjonen fra
-62 år og fortsetter i full stilling fram til 67 år, med
-et pensjonsgrunnlag på 7,1 G eller høyere. Et
-engangsbeløp i denne størrelsesorden anses der-
+# Overgangstillegg
+
+## Innledning og sammendrag
+
+Det går fram av pensjonsavtalen at årskullene 1963–1970 skal få et overgangstillegg. For 1963-kullet skal overgangstillegget utgjøre 0,15 G. For hvert påfølgende årskull etter 1963-kullet, skal tillegget trappes ned med 12,5 prosentpoeng. Tillegget skal gis i alderen fra 62 til 67 år til dem som fratrer fra medlemspliktig stilling før 67 år. For å få et fullt tillegg kreves det 40 års tjenestetid, og for å få et delvis tillegg kreves det minst 15 års tjenestetid. For personer med tjenestetid mellom 40 og 15 år gis tillegget forholdsmessig, og det skal justeres for gjennomsnittlig stillingsandel. Tillegget skal ikke levealdersjusteres eller avkortes mot arbeidsinntekt.
+
+I avsnitt 9.4 foreslås det at det skal kreves minst 15 års tjenestetid for å få rett til overgangstillegg. Det foreslås videre at en må fratre helt fra medlemspliktig stilling for å kunne motta overgangstillegg. Det foreslås at overgangstillegget skal utgjøre 0,15 G for 1963-kullet. Tillegget skal trappes ned med 12,5 prosentpoeng for hvert påfølgende årskull etter 1963-kullet. Det foreslås at ved tjenestetid mellom 40 og 15 år så skal det gis et forholdsmessig tillegg ved at fullt tillegg multipliseres med en brøk hvor tjenestetid er telleren og 40 år er nevneren. Overgangstillegget gis tidligst fra 62 år og utbetales fram til fylte 67 år, forutsatt at en ikke gjeninntrer i medlemspliktig stilling.
+
+## Pensjonsavtalen og forslagene i høringsnotatet
+
+### Betingelser for rett til overgangstillegg
+
+Det følger av avtalen at det kreves minst 15 års tjenestetid for å få rett på overgangstillegg. Videre kreves det at en fratrer helt fra medlemspliktig stilling.
+
+Departementet la i høringsnotatet til grunn at kravet om å fratre helt fra medlemspliktig stilling må innebære at overgangstillegg bare kan gis til personer som står i medlemspliktig stilling på uttakstidspunktet. Departementet foreslo i høringsnotatet at det skal være et vilkår for rett til overgangstillegg at medlemmet fratrer den medlemspliktige stillingen helt. Departementet foreslo videre at tillegget opphører ved gjeninntreden i medlemspliktig stilling og senest måneden etter at medlemmet fyller 67 år.
+
+### Beregning av overgangstillegg
+
+Det framgår av avtalen at det skal kreves 40 års tjenestetid for et fullt tillegg. For personer med tjenestetid mellom 40 og 15 år, beregnes tillegget forholdsmessig ved at fullt tillegg multipliseres med en brøk hvor tjenestetid er telleren og 40 år er nevneren. Tillegget justeres for gjennomsnittlig stillingsandel.
+
+Departementet foreslo i høringsnotatet at gjennomsnittlig stillingsandel skal beregnes med utgangspunkt i alle år som medlem av en offentlig tjenestepensjonsordning, men dersom samlet opptjeningstid er over 40 år, skal gjennomsnittlig stillingsandel beregnes med utgangspunkt i de 40 årene med høyest stillingsandel.
+
+Det framgår av avtalen at fullt tillegg utgjør 0,15 G for 1963-kullet. Tillegget skal trappes ned med 12,5 prosentpoeng for hvert påfølgende årskull etter 1963-kullet, slik at et fullt tillegg for 1964-kullet utgjør 87,5 prosent av 0,15 G, fullt tillegg for 1965-kullet utgjør 75 prosent av 0,15 G, osv. 1970-kullet blir det yngste årskullet som kan motta overgangstillegg, og et fullt tillegg for dette kullet utgjør 12,5 prosent av 0,15 G. Det gis ikke overgangstillegg for personer født fra og med 1971.
+
+Departementet foreslo i høringsnotatet at overgangstillegget ikke skal levealdersjusteres, og det skal ikke avkortes mot eventuell arbeidsinntekt.
+
+### Tidspunkt for uttak og opphør
+
+Departementet foreslo at overgangstillegget tidligst kan innvilges fra 62 år og at det utbetales fra og med måneden etter den måneden melding om uttak ble gitt. Departementet foreslo videre at overgangstillegget skal løpe ut måneden etter at et medlem fyller 67 år, forutsatt at en ikke gjeninntrer i medlemspliktig stilling. Dersom en gjeninntrer helt eller delvis i medlemspliktig stilling, faller overgangstillegget bort.
+
+## Høringsinstansenes syn
+
+### Betingelser for rett til overgangstillegg
+
+*Gabler* viser til at det kreves 15 års tjenestetid for å kvalifisere til overgangstillegg og spør om 15 år er en absolutt grense, eller om for eksempel 14 år og 6 måneder vil være tilstrekkelig.
+
+*KLP* legger til grunn at departementet mener man i vurderingen av om 15-årsvilkåret er oppfylt skal se på samlet medlemstid innenfor området for overføringsavtalen, og at det ikke er krav om at opptjeningen må ha skjedd i samme stilling. KLP ber departementet vurdere om ordlyden i lovutkastets § 6-7 første ledd bør tydeliggjøre at «minst 15 års tjenestetid» betyr samlet tjenestetid innenfor overføringsavtalens område.
+
+*OPF* støtter at overgangstillegget kun kan gis til personer som står i medlemspliktig stilling på uttakstidspunktet.
+
+Flere *leverandører* viser til at det i lovforslaget står at overgangstillegget opphører ved gjeninntreden i medlemspliktig stilling og ber departementet presisere hvorvidt dette gjelder samme stilling som pensjonisten opprinnelig fratrådte da tillegget kom til utbetaling eller enhver medlemspliktig stilling i en offentlig tjenestepensjonsordning, om overgangstillegget kan tas ut på nytt ved ny fratreden etter gjeninntreden i medlemspliktig stilling, og om det i så fall må framsettes en ny søknad.
+
+*Gabler* viser til at innmeldingsgrensen er fjernet i KS-området. De påpeker at innmelding i svært lav stillingsprosent kan medføre at tillegget faller bort slik lovforslaget er formulert, og at dette vil kunne oppleves som urimelig.
+
+### Beregning av overgangstillegg
+
+*Arbeidstakerorganisasjonene* viser til at det kreves 40 års tjenestetid for fullt tillegg og at det her er nødvendig med koordinering av samlet tjenestetid i offentlig tjenestepensjon. De viser videre til sine kommentarer til overføringsavtalen.
+
+### Tidspunkt for uttak og opphør
+
+*KLP* kan ikke se at departementet har tatt stilling til om overgangstillegget gjelder for medlemmer med aldersgrense 60 år som fratrer før 62 år. KLP ber departementet om å ta stilling til om overgangstillegget i så fall skal komme til utbetaling automatisk ved fylte 62 år.
+
+*SPK* uttaler at formuleringen om når tillegget skal utbetales fra, bør endres til «måneden etter sluttmelding er mottatt». Dersom dette ikke endres, vil medlemmet alltid få etterbetalt for perioden fra sluttmeldingen gjelder til de får startet pensjonen. SPK anser dette som administrativt lite hensiktsmessig, og opplyser at dersom dette ikke endres, må SPK opprettholde behovet for pensjonsmelding kun for dette tillegget.
+
+*Gabler* påpeker at det ikke går fram av lovforslaget hvilken ordning som skal utbetale overgangstillegget dersom en person har to stillinger som er tilknyttet hver sin pensjonsordning og fratre begge stillingene samtidig. Videre påpeker Gabler at det ikke framkommer om utbetalende ordning kan rette krav om refusjon mot tidligere ordninger som rettighetshaver har vært medlem av. Gabler mener det ikke er åpenbart hvordan kostnadene i så fall skal fordeles, og legger til grunn at disse spørsmålene kan løses innenfor rammene av overføringsavtalen.
+
+## Departementets vurdering og forslag
+
+Departementet foreslo, i tråd med pensjonsavtalen, at medlemmer født i årene 1963–1970, og som har minst 15 års tjenestetid, kan få et overgangstillegg. I tråd med avtalen, ble det foreslått at tillegg kan mottas ved fratreden fra medlemspliktig stilling mellom fylte 62 og 67 år og at tillegget opphører ved fylte 67 år.
+
+*Gabler* har stilt spørsmål om kravet om minst 15 års tjenestetid for å motta overgangstillegg er et absolutt krav. Departementet viser til reglene for å fastsette tjenestetid som er omtalt i punkt 7.3.3. Det foreslås der at tjenestetid skal avrundes til én desimal. Minstekravet på 15 års tjenestetid gjelder etter at tjenestetiden er avrundet.
+
+Departementet presiserer at det er samlet tjenestetid i medlemspliktig stilling som skal legges til grunn, både når det skal vurderes om kravet om minst 15 års tjenestetid er oppfylt og ved utmåling av ytelsen. Det er således ikke et krav at tjenestetiden er knyttet til en og samme stilling. Som *arbeidstakerorganisasjonene* påpeker, innebærer dette at det er behov for koordinering mellom ordninger for å beregne samlet tjenestetid i medlemspliktig stilling. Som *Gabler* påpeker, framkommer det ikke av lovforslaget hvilken ordning som skal utbetale overgangstillegg dersom en person samtidig fratrer stillinger tilknyttet ulike pensjonsordninger eller om utbetalende ordning kan rette refusjonskrav mot tidligere ordninger. Departementet viser til omtalen av overføringsavtalen, jf. avsnitt 5.3, og legger til grunn at eventuelle endringer i overføringsavtalen håndteres etter ordinære regler. Departementet legger til grunn at partene i overføringsavtalen finner hensiktsmessige løsninger for koordinering av tjenestetid mellom ordninger.
+
+I høringsnotatet foreslo departementet at overgangstillegg kan mottas fra og med måneden etter den måneden melding om uttak blir gitt. *SPK* peker på at denne formuleringen vil innebære at medlemmet vil få etterbetalt for perioden fra sluttmeldingen gjelder til de får startet pensjonen og at dette er lite hensiktsmessig. Departementets støtter SPKs syn og foreslår at tillegget kan mottas fra og med måneden etter den måneden medlemmet fratrer.
+
+Flere høringsinstanser spør om retten til overgangstillegg i situasjoner der en person gjeninntrer i medlemspliktig stilling, slik at overgangstillegget opphører, og deretter fratrer en medlemspliktig stilling på nytt. Departementet presiserer at overgangstillegget kan gis når et medlem fratrer stilling, også i tilfeller der det tidligere er gitt overgangstillegg som er stanset på grunn av gjeninntreden i medlemspliktig stilling.
+
+*Gabler* viser til at innmelding i svært lav stillingsprosent kan føre til at overgangstillegget faller bort og at dette kan oppleves som urimelig. Departementet viser til at det er et vilkår for rett til overgangstillegg at medlemmet fratrer helt fra den medlemspliktige stillingen. Et medlem som delvis fratrer stillingen har derfor ikke rett på overgangstillegg, uavhengig av hvor lav stillingsprosenten er etter delvis fratreden. Etter departementets syn, er det derfor ikke urimelig at overgangstillegget faller bort ved gjeninntreden i stilling med lav stillingsprosent.
+
+*KLP* spør om medlemmer med aldersgrense 60 år som fratrer før 62 år, er berettiget til overgangstillegg. Departementet viser til at overgangstillegget gis i alderen fra 62 til 67 år og at det er et vilkår at medlemmet fratrer en medlemspliktig stilling. Medlemmer som fratrer sin stilling før 62 år, fyller derfor ikke vilkårene for overgangstillegget. Videre viser departementet til avsnitt 12.7 der det foreslås, i tråd med avtalen av 12. desember 2018, at medlemmer som fratrer med særaldersgrense kan motta en særskilt særalderspensjon fram til 67 år. Medlemmer som fratrer en stilling med særaldersgrense har derfor ikke behov for overgangstillegg. Det presiseres i lovforslaget at medlemmer som mottar særalderspensjon ikke kan motta overgangstillegg.
+
+Departementet foreslår at medlemmer født i årene 1963–1970 som fratrer medlemspliktig stilling helt mellom 62 og 67 år, og som har minst 15 års samlet tjenestetid, kan motta overgangstillegg fra og med måneden etter den måneden medlemmet fratrer. Departementet foreslår videre at tillegget opphører ved gjeninntreden i medlemspliktig stilling og senest måneden etter fylte 67 år.
+
+Det har ikke kommet innvendinger mot forslaget i høringsnotatet om hvordan overgangstillegget skal beregnes. Departementet foreslår derfor at det skal kreves 40 års samlet tjenestetid for et fullt tillegg, og at tillegget beregnes forholdsmessig ved samlet tjenestetid mellom 15 og 40 år. Departementet foreslår videre at tillegget skal justeres for gjennomsnittlig stillingsandel for alle år som medlem av en offentlig tjenestepensjonsordning, og at ved flere enn 40 års opptjeningstid skal de 40 årene med høyest stillingsandel benyttes.
+
+Departementet foreslår at et fullt tillegg skal utgjøre 0,15 G for 1963-kullet, og at tillegget trappes ned med 12,5 prosentpoeng for hvert påfølgende årskull etter 1963-kullet.
+
+Departementet presiserer at overgangstillegget hverken skal levealdersjusteres eller avkortes mot arbeidsinntekt.
+
+Departementet viser til at det i punkt 7.3.3 og 8.4.2 foreslås at henholdsvis påslagspensjon og betinget tjenestepensjon opphører ved utgangen av måneden etter måneden medlemmet døde. Departementet foreslår at tilsvarende skal gjelde for overgangstillegget, men likevel ikke etter måneden etter at medlemmet ville fylt 67 år.
+
+Det har ikke kommet innvendinger mot forslaget om at overgangstillegget fra 1. mai hvert år skal reguleres i takt med grunnbeløpet. Departementet opprettholder derfor forslaget.
+
+Se avsnitt 9.5 om utformingen av lovendringer.
+
+## De enkelte lovforslagene
+
+### Innledning
+
+I dette punktet foreslår departementet endringer i de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i avsnitt 9.4. Endringer i lov om Statens pensjonskasse og lov om pensjonsordning for sykepleiere behandles i punktene 9.5.2 og 9.5.3.
+
+### Lov om Statens pensjonskasse
+
+Departementet foreslår at bestemmelsene om overgangstillegg for årskullene 1963–1970 gis i § 26 j. I første ledd gis det bestemmelser om vilkår for å motta overgangstillegg og utbetalingsperiode for tillegget. I første ledd første punktum går det fram at overgangstillegget gis til årskullene 1963–1970 som fratrer helt fra medlemspliktig stilling mellom fylte 62 og 67 år, og som har minst 15 års samlet tjenestetid. Det går videre fram at tillegget gis fra og med måneden etter den måneden medlemmet fratrer. I andre punktum går det fram at tillegget opphører ved gjeninntreden i medlemspliktig stilling, mens tredje punktum sier at tillegget kan mottas på nytt ved senere hel fratreden. Av fjerde punktum går det fram at tillegget opphører senest måneden etter at medlemmet fyller 67 år. Ved dødsfall før 67 år, opphører overgangstillegget ved utgangen av måneden etter måneden medlemmet døde, se forslaget i § 26 l første ledd.
+
+§ 26 j andre ledd har bestemmelser om hvordan overgangstillegget skal beregnes. I første punktum går det fram at et fullt overgangstillegg er 0,15 ganger folketrygdens grunnbeløp og ytes til medlemmer født i 1963. I andre punktum presiseres det at tillegget beregnes forholdsmessig for medlemmer med tjenestetid kortere enn 40 år og for gjennomsnittlig stillingsandel lavere enn 100 prosent. I siste punktum presiseres det at gjennomsnittlig stillingsandel skal beregnes med utgangspunkt i de 40 årene med høyest stillingsandel, dersom samlet tjenestetid er over 40 år.
+
+Det foreslås i tredje ledd bestemmelser om nedtrapping av overgangstillegget. Det går fram at 1964-kullet får 87,5 prosent av overgangstillegget som 1963-kullet får, 1965-kullet får 75 prosent osv. til 1970-kullet som får 12,5 prosent av tillegget. Det gis ikke overgangstillegg til personer født fra og med 1971.
+
+I § 26 j fjerde ledd presiseres det at overgangstillegget ikke skal levealdersjusteres eller avkortes mot arbeidsinntekt fra stilling som ikke er medlemspliktig og at tillegget ikke kan tas ut gradert.
+
+Det vises til lovforslaget, lov om Statens pensjonskasse § 26 j og § 26 l.
+
+### Lov om pensjonsordning for sykepleiere
+
+Pensjonsordningen for sykepleiere er regulert i lov 22. juni 1962 nr. 12. Regelverket er i store trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens pensjonskasse i punkt 9.5.2, gjøres i lov om pensjonsordning for sykepleiere.
+
+Det vises til lovforslaget, lov om pensjonsordning for sykepleiere § 11 j og § 11 l.
+
+# Tillegg til personer med opptjening før 2011 (2011-tillegg)
+
+## Innledning og sammendrag
+
+Det går fram av pensjonsavtalen at årskullene 1963–1967 skal få et tillegg til pensjonen dersom de har opptjening før 2011. Dette tillegget ble i høringsnotatet omtalt som «2011-tillegg». Tillegget skal utformes nøytralt, slik at årlig utbetaling blir lavere ved uttak før 67 år og høyere ved uttak etter 67 år. Tillegget skal utgjøre 1,5 prosent av pensjonsgrunnlaget for den oppsatte bruttopensjonen justert for forholdet mellom opptjeningstid før 2011 og til kravet til full opptjening. 1963-kullet skal få 100 prosent av et fullt tillegg og tillegget skal trappes ned med 20 prosentpoeng for hvert påfølgende årskull etter 1963-kullet. Tillegget skal kunne tas ut etter nøytrale uttaksregler fra 62 år. Tillegget skal ikke levealdersjusteres, men skal justeres for uttaksalder.
+
+I avsnitt 10.4 foreslås det at årskullene 1963–1967 gis et tillegg til alderspensjonen for tjenestetid før 2011. Det foreslås at tillegget skal utgjøre 1,5 prosent av pensjonsgrunnlaget for den oppsatte bruttopensjonen, se punkt 11.3.3, justert med forholdet mellom tjenestetid før 2011 og 30 år. Det foreslås at tillegget trappes ned med 20 prosentpoeng fra 1963-kullet slik at 1963-kullet får 100 prosent, 1964-kullet får 80 prosent, osv. Det foreslås at tillegget kommer til utbetaling samtidig med uttak av den oppsatte bruttopensjonen. Det foreslås at tillegget skal justeres for uttaksalder ved at tillegget multipliseres med delingstallet ved 67 år og divideres med delingstallet på uttakstidspunktet.
+
+## Pensjonsavtalen og forslagene i høringsnotatet
+
+### Beregning av 2011-tillegget
+
+Det går fram av pensjonsavtalen at årskullene 1963–1967 skal gis et tillegg til pensjonen for de som har opptjening før 2011. Tillegget skal utgjøre 1,5 prosent av pensjonsgrunnlaget for den oppsatte bruttopensjonen, justert med en brøk hvor opptjeningstid før 2011 er telleren og kravet til full opptjening er nevneren. Det framgår videre av avtalen at tillegget skal trappes ned med årskull slik at 1963-kullet får 100 prosent, 1964-kullet får 80 prosent, 1965-kullet får 60 prosent, 1966-kullet får 40 prosent og 1967-kullet får 20 prosent.
+
+Departementet foreslo i høringsnotatet at stillingsstørrelse etter 2011 ikke skal påvirke størrelsen på tillegget og foreslo at tillegget skal beregnes med utgangspunkt i gjennomsnittlig stillingsstørrelse før 2011. I høringsnotatet foreslo departementet videre at kravet til full opptjening skal settes lik det kravet den oppsatte bruttopensjonen er beregnet etter.
+
+### Uttak av 2011-tillegget
+
+Ifølge pensjonsavtalen skal tillegget utformes nøytralt, slik at årlig utbetaling blir lavere ved uttak før 67 år og høyere ved uttak etter 67 år. Tillegget skal ikke levealdersjusteres, men justeres for uttaksalder. Departementet foreslo i høringsnotatet at dette skal gjennomføres ved at tillegget multipliseres med en brøk hvor delingstallet ved 67 år er telleren og delingstallet på uttakstidspunktet er nevneren. Videre arbeid i medlemspliktig stilling skal fritt kunne kombineres med uttak av tillegget. Uttak kan også kombineres med annen inntekt.
+
+I høringsnotatet foreslo departementet at tillegget ikke skal kunne tas ut gradert. Det ble heller ikke foreslått regler for stans av tillegget. Departementet la til grunn at det ikke skal stilles krav om at folketrygdens alderspensjon er tatt ut for å kunne ta ut 2011-tillegget. Departementet foreslo videre at det skal innføres en regel om automatisk utbetaling av tillegget fra og med måneden etter fylte 75 år.
+
+### Regulering av 2011-tillegget
+
+Departementet foreslo at 2011-tillegg under utbetaling skal reguleres som alderspensjon i folketrygden. Dvs. at reguleringen skal skje årlig fra 1. mai i samsvar med lønnsveksten og deretter fratrekkes 0,75 prosent. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.
+
+## Høringsinstansenes syn
+
+### Beregning av tillegget
+
+*SPK* uttaler at beregningsreglene for 2011-tillegget er komplekse og gjelder kun for en relativt liten gruppe. De påpeker at slike spesialberegninger er administrativt kostbare da dette må tas hensyn til ved vedtak av pensjon, premieberegning og betjening.
+
+*Aktuarforeningen* tar ikke stilling til forslaget om at tillegget skal beregnes med utgangspunkt i gjennomsnittlig stillingsstørrelse før 2011, men påpeker viktigheten og utfordringene med å utveksle data for å beregne gjennomsnittlig stillingsstørrelse før 2011.
+
+*OPF* ser at det framstår som logisk at tillegget ikke bør påvirkes av stillingsstørrelse etter 2011, men påpeker at dette er kompliserende for beregningen av ytelsen da det fordrer utvikling av særskilt funksjonalitet i tjenestepensjonsleverandørenes systemløsninger. De mener også at dette er komplisert å kommunisere. Etter OPFs syn, ville det vært enklere å gi tillegget for all opptjeningstid fram til 2020, med gjennomsnittlig deltid per dette tidspunktet, og deretter trappe det ned med den årskullsspesifikke prosentandelen. OPF ber departementet vurdere muligheten for å beregne den gjennomsnittlige deltiden per 2020 i stedet for per 2011.
+
+*KLP* mener 2011-tillegget bør gjenspeile den opptjening man har før 2011, både med hensyn til opptjeningstid, deltid og pensjonsgrunnlag. KLP ber derfor departementet vurdere om 2011-tillegget bør beregnes av det pensjonsgrunnlag en har ved inngangen til 2011 (per 31.12.2010), og at dette pensjonsgrunnlaget reguleres opp til 31.12.2019 etter den alminnelige lønnsveksten (G-regulering). *Arbeidstakerorganisasjonene* støtter forslaget om at 2011-tillegget skal beregnes ut fra gjennomsnittlig stillingsstørrelse ved inngangen til 2011.
+
+*KLP* viser til at man ved fastsetting av stillingsstørrelse før 2011 vil få en del tilfeller der opptjent tid enten rundes opp eller ned. KLP mener at all opptjent tid skal brukes i beregningen av gjennomsnittlig stillingsstørrelse dersom tiden er rundet opp, men at det ses bort fra tid med lavest deltid som ikke er benyttet dersom tiden er rundet ned.
+
+*Gabler* ber departementet presisere hvordan deltid skal spille inn i beregningen. De stiller spørsmål ved om pensjonsgrunnlaget, som danner utgangspunkt for 2011-tillegget, skal beregnes som sluttlønn tilsvarende 100 prosent stilling, og deretter multipliseres med deltidsfaktoren pr. 31.12.2010, før pensjonsgivende tillegg legges til. *SPK* forstår det slik at tillegget skal beregnes ut fra pensjonsgrunnlaget omregnet til 100 prosent stilling på overgangstidspunktet, 1.1.2020, som så justeres med gjennomsnittlig deltid begrenset oppad til 100 prosent pr. 31.12.2010.
+
+*KLP* mener at slik lovforslaget er utformet, fører dette til en dobbeltavkorting for deltid, fordi pensjonsgrunnlaget allerede er deltidsavkortet. KLP legger derfor til grunn at departementet har ment at det er pensjonsgrunnlag i 100 prosent stilling som skal justeres hvis gjennomsnittlig stillingsstørrelse før 2011 er lavere enn 100 prosent og påpeker at dette bør presiseres i lovteksten.
+
+*KLP* mener det bør presiseres i lovteksten hva som menes med justering med forholdet mellom tjenestetid før 2011 og full tjenestetid.
+
+*Arbeidstakerorganisasjonene* mener at det skal benyttes et krav til full opptjening på 30 år når 2011-tillegget beregnes. De uttaler at deres klare forståelse under forhandlingene var at tillegget var basert på 30 år, slik at 30 år før 2011 gir et uavkortet tillegg.
+
+*SPK* antar at eventuell nedgang i lønn før 1.1.2020 skal tas hensyn til når pensjonsgrunnlaget fastsettes.
+
+### Uttak av tillegget
+
+*Gabler* mener at den innretningen som betaler ut 2011-tillegget må kunne kreve at tillegget tas ut samtidig med oppsatt bruttopensjon og den påslagspensjonen som denne innretningen utbetaler. *OPF* mener det er naturlig at det kreves uttak av bruttopensjonen fra tjenestepensjonsordningen siden 2011-tillegget er såpass tett knyttet til bruttopensjonen. *SPK* anbefaler at det stilles krav om samtidig uttak av 2011-tillegg og bruttopensjon. *KLP* forutsetter at det er et krav for å få 2011-tillegget at den oppsatte alderspensjonen fra bruttoordningen tas ut, og ber om at departementet tydeliggjør bestemmelsen dersom dette ikke er riktig. *Pensjonistforbundet og SAKO-organisasjonene* mener det virker unødvendig at noen skal ha behov for å ta ut 2011-tillegget på et annet tidspunkt enn ved uttakstidspunktet av den øvrige offentlige tjenestepensjonen, og foreslår at 2011-tillegget automatisk utbetales fullt ut fra og med første uttak av offentlig tjenestepensjon uavhengig av pensjonsgrad.
+
+*KLP* peker på at dersom uttak av 2011-tillegget forutsetter uttak av oppsatte alderspensjon fra bruttoordningen, reiser det noen problemstillinger da den oppsatte alderspensjonen både kan tas ut gradert og stanses, mens dette ikke er tilfellet for 2011-tillegget. KLP legger til grunn at det ikke har vært forutsetningen at man skal begrense fleksibelt uttak av alderspensjon selv om man tar ut 2011-tillegget. KLP ber departementet presisere om alderspensjonen må tas ut med 100 prosent grad for at 2011-tillegget skal komme til utbetaling, eller om det er tilstrekkelig med et gradert uttak, og om 2011-tillegget fortsatt skal utbetales dersom graden på alderspensjonen reduseres eller settes til null etter uttak.
+
+*Gabler* og *OPF* støtter forslaget om at 2011-tillegg ikke skal kunne tas ut gradert eller stanses. *KLP* påpeker at det går klart fram av ordlyden i § 6-6 at 2011-tillegget ikke skal kunne graderes, men at lovteksten bør tydeliggjøres slik at det også går klart fram at tillegget heller ikke kan stanses.
+
+*KLP* peker på at det i høringsnotatet ikke er omtalt hvilken ordning som skal utbetale 2011-tillegget. KLP forutsetter at den ordningen som skal utbetale den oppsatte bruttopensjonen, altså den ordningen en sist hadde medlemskap i ved inngangen til 2020, også skal utbetale 2011-tillegget.
+
+### Regulering av 2011-tillegget
+
+Ingen av høringsinstansene har hatt merknader til dette punktet.
+
+## Departementets vurdering og forslag
+
+Departementet foreslo, i tråd med pensjonsavtalen, at de i årskullene 1963–1967 som har opptjening før 2011 skal gis et tillegg til pensjonen. Det ble foreslått at 1963-kullet gis tillegget 100 prosent, og at tillegget trappes ned med 20 prosentpoeng for hvert påfølgende årskull. Det har ikke kommet innvendinger mot dette og departementet opprettholder forslagene.
+
+Departementet viser til at det er samlet tjenestetid i medlemspliktig stilling før 2011 som skal legges til grunn. Det er således ikke et krav at tjenestetiden er knyttet til en og samme stilling. Som for overgangstillegget, jf. avsnitt 9.4, innebærer dette at det er behov for koordinering mellom ordninger for å beregne samlet tjenestetid i medlemspliktig stilling. *KLP* peker på at det i høringsnotatet ikke er omtalt hvilken ordning som skal utbetale 2011-tillegget og forutsetter at den ordningen som skal utbetale den oppsatte bruttopensjonen også skal utbetale 2011-tillegget. Departementet viser til omtalen av overføringsavtalen, jf. avsnitt 5.3, og legger til grunn at eventuelle endringer i overføringsavtalen, som følge av innføring av overgangstillegg, skal håndteres etter ordinære regler. Departementet legger til grunn at partene i overføringsavtalen finner hensiktsmessige løsninger for koordinering av tjenestetid mellom ordninger.
+
+Flere høringsinstanser påpeker at beregningsreglene for 2011-tillegget er komplekse og administrativt krevende. Særlig pekes det på at det er kompliserende at beregningene skal ta utgangspunkt i gjennomsnittlig stillingsstørrelse før 2011. Det stilles også spørsmål om hvilket pensjonsgrunnlag som skal legges til grunn ved deltid. Departementet ser at det vil være administrativt enklere, særlig tatt hensyn til nødvendigheten av å utveksle informasjon mellom flere ordninger, dersom tillegget beregnes med utgangspunkt i pensjonsgrunnlaget for den oppsatte bruttopensjonen, uten særregler for å fastsette pensjonsgrunnlaget ved deltid.
+
+Departementet viser til punkt 11.3.3 hvor departementet foreslår at det presiseres at bestemmelsen om nedgang i lønn i § 15 også skal gjelde for pensjonsgrunnlaget for den oppsatte bruttopensjonen. Det går videre fram at departementet foreslår at dersom tjenestetiden før 2020 er lenger enn 30 år, skal gjennomsnittlig stillingsandel beregnes med utgangspunkt i de 30 årene med høyest stillingsandel. Departementet presiserer at det følger av departements forslag om å benytte pensjonsgrunnlaget til den oppsatte bruttopensjonen at disse bestemmelsene også vil gjelde for 2011-tillegget. Departementet foreslår derfor at tillegget skal utgjøre 1,5 prosent av pensjonsgrunnlaget for den oppsatte bruttopensjonen.
+
+I høringsnotatet la departementet til grunn at kravet til full opptjening settes lik kravet til full opptjening for den oppsatte bruttopensjonen. Departementet ser at formuleringen i avtalen om full opptjening ikke nødvendigvis må forstås slik. Videre viser departementet til at kravet til full opptjening for den oppsatte bruttopensjonen varierer med tidspunktet for første gangs innmelding i en offentlig tjenestepensjonsordning. Departement mener at kravet til full opptjening for 2011-tillegget bør være likt for alle og foreslår derfor at tillegget beregnes forholdsmessig dersom tjenestetid før 2011 er lavere enn 30 år.
+
+Det har ikke kommet innvendinger mot departementets forslag i høringsnotatet om nedtrapping av tillegget for årskullene 1963–1967, og departementet foreslår at tillegget trappes ned med årskull slik at 1963-kullet får 100 prosent, 1964-kullet får 80 prosent, 1965-kullet får 60 prosent, 1966-kullet får 40 prosent og 1967-kullet får 20 prosent.
+
+I høringsnotatet foreslo departementet at 2011-tillegget ikke skal kunne tas ut gradert eller stanses, noe som fikk støtte fra flere høringsinstanser. Flere høringsinstanser mener at det også bør kreves uttak av oppsatt bruttopensjon for å kunne ta ut 2011-tillegg. Departementet ser at dette vil være forenklende og ikke vil ha betydning for den enkeltes samlede utbetalinger av 2011-tillegg. Videre viser departementet til omtalen av uttak av oppsatt bruttopensjon i punkt 11.4.3, der det foreslås at oppsatt bruttopensjon ikke skal kunne tas ut gradert eller stanses. Det vil innebære at reglene for 2011-tillegget og oppsatt bruttopensjon er like på dette punktet. Departementet foreslår derfor at tillegget kommer til utbetaling ved uttak av oppsatt bruttopensjon og at det ikke kan graderes eller stanses.
+
+Departementet viser til at det i punkt 7.3.3 foreslås at påslagspensjon opphører ved utgangen av måneden etter måneden medlemmet døde. I dagens bruttoordning er det bestemmelser om at pensjonen løper ytterligere én måned dersom avdøde etterlater seg ektefelle. Departementet foreslår i punkt 11.4.3 at denne bestemmelsen også skal gjelde for pensjon opptjent i dagens ordning før 2020 for medlemmer født i 1963 eller senere. Departementet viser til at når 2011-tillegget skal betales ut sammen med oppsatt bruttopensjon, er det hensiktsmessig at disse ytelsen opphører fra samme tidspunkt. Departementet foreslår derfor at også 2011-tillegget skal løpe ytterligere én måned dersom avdøde etterlater seg ektefelle.
+
+Ingen høringsinstanser har hatt merknader til forslagene om at uttaksreglene for 2011-tillegget utformes nøytralt og at tillegget fritt kan kombineres med arbeidsinntekt uten at tillegget avkortes. Departementet foreslår derfor at tillegget ved uttak skal multipliseres med delingstallet ved 67 år og divideres med delingstallet på uttakstidspunktet og at det ikke skal avkortes mot arbeidsinntekt.
+
+Departementet legger til grunn at de høringsuttalelsene som gjelder regulering av påslagspensjon også gjelder for regulering av 2011-tillegget, jf. punkt 7.4.3.
+
+Departementet viser til at det foreslås at 2011-tillegget ikke skal kunne tas ut gradert, at uttaket ikke kan stanses og at det skal utbetales samtidig med den oppsatte bruttopensjonen. Videre foreslås det at tillegget skal utmåles som en prosentandel av pensjonsgrunnlaget for den oppsatte bruttopensjonen. Tillegget vil dermed følge reguleringen av den oppsatte bruttopensjonen og det er derfor ikke nødvendig med egne regler for regulering av tillegget.
+
+Se avsnitt 10.5 om utformingen av lovendringer.
+
+## De enkelte lovforslagene
+
+### Innledning
+
+I dette punktet foreslår departementet endringer i de lovfestede offentlige tjenestepensjonsordningene i tråd med forslagene i avsnitt 10.4. Endringer i lov om Statens pensjonskasse og lov om pensjonsordning for sykepleiere behandles i punktene 10.5.2 og 10.5.3.
+
+### Lov om Statens pensjonskasse
+
+Det foreslås at bestemmelser om et 2011-tillegg til årskullene 1963–1967 blir tatt inn i § 26 i. I første ledd gis det bestemmelser om hvem som gis tillegget og beregning av tillegget. I første ledd første punktum går det fram at tillegget gis til medlemmer født i årene 1963–1967, og som har opptjening før 2011 som gir rett til oppsatt alderspensjon etter § 26 h. I andre punktum gis det bestemmelser om størrelsen på et fullt tillegg. Det går fram at et fullt tillegg utgjør 1,5 prosent av pensjonsgrunnlaget for den oppsatte alderspensjonen. I tredje punktum gis det bestemmelser om hvordan tillegget skal beregnes for de som har kortere enn 30 års tjenestetid før 2011. Det presiseres at dersom tjenestetiden før 2011 er kortere enn 30 år, så skal tillegget beregnes forholdsmessig. Siste punktum gir bestemmelser om nedtrapping av tillegget. Det går fram at 1963-kullet får 100 prosent av tillegget, 1964-kullet får 80 prosent, 1965-kullet får 60 prosent, 1966-kullet får 40 prosent og 1967-kullet får 20 prosent av tillegget.
+
+§ 26 i andre ledd gir bestemmelser om utbetaling av tillegget og bestemmelser om hvordan tillegget skal justeres for utbetalingstidspunkt. I andre ledd første punktum går det fram at tillegget kommer til utbetaling ved uttak av oppsatt alderspensjon etter § 26 h. I andre punktum presiseres det at tillegget ikke kan graderes eller stanses. I siste punktum går det fram at tillegget ved uttak skal multipliseres med delingstallet ved 67 år og divideres med delingstallet på uttakstidspunktet.
+
+Det presiseres i § 26 i tredje ledd at tillegget kan kombineres med arbeidsinntekt uten at tillegget blir avkortet.
+
+Etter forslaget i § 26 l opphører 2011-tillegget ved utgangen av måneden etter måneden medlemmet døde, men ytterligere én måned dersom avdøde etterlater seg ektefelle.
+
+Det vises til lovforslaget, lov om Statens pensjonskasse § 26 i og § 26 l.
+
+### Lov om pensjonsordning for sykepleiere
+
+Pensjonsordningen for sykepleiere er regulert i lov 22. juni 1962 nr. 12. Regelverket er i store trekk sammenfallende med reglene i lov om Statens pensjonskasse. Departementet foreslår at tilsvarende bestemmelser som foreslått for Statens pensjonskasse i punkt 10.5.2, gjøres i lov om pensjonsordning for sykepleiere.
+
+Det vises til lovforslaget, lov om pensjonsordning for sykepleiere § 11 i og § 11 l.

@@ -1,1205 +1,254 @@
-# Meld. St. 30 (2015–2016), del 5 av 11 (side 52–61)
+# Meld. St. 30 (2015–2016), del 5 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2016/4fca33bf-meld-st-30-20152016.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-30-20152016/id2499847/
 - Original-PDF: https://www.regjeringen.no/contentassets/6676aece374348ee805e9fc5f60b6158/no/pdfs/stm201520160030000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 1 tabell, 3 figurer, 23 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra RTF-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 52]
+En annen viktig del av tilretteleggingen er innholdet i programmet eller opplæringen. Mange kommuner har ikke et tilstrekkelig utvalg av relevante tiltak for deltakerne. Det er noen steder en oppfatning at programmet eller opplæringen gjør at den enkelte ikke kan delta i arbeidslivet. Dette er ikke i tråd med loven. Ordinært arbeid kan allerede i dag legges inn som en del av innholdet i introduksjonsprogrammet. Den enkelte deltaker kan også ha deltidsjobb ved siden av introduksjonsprogrammet. Omfanget av opplæring i norsk og samfunnskunnskap skal kunne tilpasses deltakere som er i arbeid. Ved å ta i bruk de mulighetene for fleksibilitet som allerede ligger i regelverket, vil kommunene i praksis få større frihet til selv å tilpasse kvalifiseringen til innbyggerne i sin kommune, *jf. anmodningsvedtak 439:1 b) (2015–2016).*
 
-52
+I Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse* ble det varslet at regjeringen vil utrede endringer i introduksjonsloven for å øke bruken av muligheten til å forlenge programmet ut over to år, til inntil tre år. Det ble også varslet at det skal utredes særskilt tilrettelagt opplæring for personer med nedsatt funksjonsevne som deltar i opplæring i norsk og samfunnskunnskap.
 
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
+Kommuner har gjort en rekke erfaringer med ulike tiltak og metoder for å bedre tilretteleggingen i opplæringen i norsk og samfunnskunnskap og introduksjonsprogrammet til deltakernes individuelle behov. IMDi formidler disse erfaringene i sin direkte kontakt med kommunene og på sine nettsider.
 
-annet har fulgt grupper av innvandrere med flukt­
-bakgrunn over tid, tyder på at sysselsettingen,
-som for disse starter på et lavt nivå, vanligvis øker
-de første årene etter bosetting. Sysselsettingen
-flater så ut, og for noen grupper synker nivået
-også. Det gjelder særlig for menn med lav utdan­
-ning.
-Arbeidsledigheten blant innvandrere beveger
-seg i takt med den generelle arbeidsledigheten i
-landet. Den registrerte ledigheten for innvandrere
-gikk opp fra 6,9 prosent i november 2014 til 7,0
-prosent november 2015. For resten av befolknin­
-gen gikk den i samme periode opp fra 1,9 til 2,1
-prosent. Det har vært en vedvarende tendens til at
-innvandrere fra landområder hvor mange har
-fluktbakgrunn, i snitt har høyere ledighet enn
-andre. Innvandrere fra land i Afrika hadde en
-ledighetsprosent på 11,3, men andelen ledige fra
-Asia var 7,6 prosent. Flere innvandrere er verken i
-arbeid, utdanning eller opplæring. Det er en mye
-større andel i denne gruppen blant innvandrerne
-enn blant dem uten innvandrerbakgrunn.
-Hele befolkningen hadde i 2014 en medianinn­
-tekt etter skatt per forbruksenhet3 på nesten
-350 000 kroner. Innvandrerne hadde 77 prosent av
-dette nivået, men det var stor variasjon mellom
-ulike landgrupper. Lavest inntekt hadde mange
-innvandrergrupper fra Afrika og Asia, som Somalia
-med 50 prosent av medianen for Norge, Irak med
-60 prosent og Pakistan med 70 prosent. 9 prosent
-av alle innvandrere i aldersgruppen 20–66 år mot­
-tok økonomisk sosialhjelp i 2014, tre ganger så
-mange som blant dem uten innvandrerbakgrunn.
-Innvandrere har i snitt lavere inntekter enn
-hele befolkningen, og de er mer utsatt for lavinn­
-tekt. Særlig gjelder dette barnefamilier. Barn av
-innvandrede foreldre utgjør 51 prosent av alle
-barn i vedvarende lavinntekt for perioden 2011–
-2013. Uansett oppholdsgrunn øker inntekten mye
-med botid. Økningen er høyest for innvandrere
-med fluktbakgrunn, hvor inntekten i snitt mer enn
-tredobles fra de to første årene til personer med
-mer enn ti års botid. For arbeidsinnvandrere var
-inntekten 2,5 ganger større og for familieinnvan­
-drede dobbelt så stor etter ti års botid sammenlik­
-net med botid på null til to år. Selv etter mer enn ti
-års botid var flyktningenes inntekter bare halvpar3
+I Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse* sies det også at regjeringen vil legge til rette for å øke bruken av grunnskoleopplæring og videregående opplæring innenfor rammene av introduksjonsprogrammet.
 
-For å kunne sammenlikne inntektene for forskjellige typer
-husholdninger er det vanlig at man justerer hushold­
-ningsinntekten ved hjelp av såkalte forbruksvekter. For­
-bruksvektene skal ta hensyn til at at store husholdninger
-trenger høyere inntekt en mindre husholdninger for å ha
-tilsvarende levestandard, men også at store husholdninger
-vil ha stordriftsfordeler. Etter en slik vekting benyttes inn­
-tekt per forbruksenhet som statistisk måleenhet.
+Regjeringen vil endre innretningen på Jobbsjansen og prøve ut forsøk med utvidet programtid for deltakere i introduksjonsprogrammet innenfor rammene av Jobbsjansen. En mulighet til å forlenge programmet til inntil fire år vil særlig være aktuelt for deltakere med liten eller ingen skolebakgrunn og som derfor ikke kommer i arbeid eller utdanning innenfor rammen av introduksjonsprogrammet. Det kan også være aktuelt for deltakere som har startet i grunnskole eller videregående opplæring som en del av introduksjonsprogrammet, og som har behov for lenger programtid for å kunne fullføre den skolegangen de har startet.
 
-2015–2016
+1.  **Økt arbeidsretting**
 
-ten av arbeidsinnvandreres. Lavere yrkesdelta­
-kelse og høyere ledighet blant innvandrere fra
-land i Asia og Afrika er en viktig grunn til at flere i
-denne gruppen har vanskelige levekår, og i større
-grad er avhengig av offentlige stønader enn
-befolkningen for øvrig. Det er derfor en hovedut­
-fordring å øke yrkesdeltakelsen blant innvandrere
-fra land i Asia og Afrika, særlig blant kvinner.
+Introduksjonsprogrammet skal inneholde tiltak som forbereder til deltakelse i arbeidslivet. Dette kan for eksempel være språkpraksis på en arbeidsplass eller annen praksis i arbeidslivet. Arbeidstrening er et statlig arbeidsmarkedstiltak som forvaltes av Arbeids- og velferdsetaten. Bruken av dette tiltaket vurderes av det lokale NAV-kontoret. I tillegg har også noen kommuner ordninger med egne praksisplasser i arbeidslivet. Med begrepet praksis i arbeidslivet siktes det her både til tiltak i NAV og kommunens egne ordninger. Det er stor variasjon mellom kommunene i hvilken grad de organiserer eller legger til rette for arbeid eller praksis som en del av introduksjonsprogram eller opplæring i norsk. Få kommuner benytter også muligheten til å legge ordinært arbeid inn som en del av introduksjonsprogrammet.
 
-5.2
+Regjeringen vil bidra til at kommunene arbeidsretter introduksjonsordningen i større grad enn i dag. Regjeringen foreslår derfor å endre introduksjonsloven slik at kommuner alltid skal vurdere bruken av arbeids- og utdanningsrettede tiltak for den enkelte*, jf. anmodningsvedtak 439:1 d) (2015–2016)*. Forslag til endringer i regelverket sendes på høring.
 
-Behov for mer målrettet og effektiv
-kvalifisering
+1.  **Arbeids- og språktrening gjennom praktisk gårdsarbeid**
 
-Ordningene i introduksjonsloven er kommunens
-viktigste virkemiddel i arbeidet for at innvandrere
-med fluktbakgrunn kommer i jobb eller utdan­
-ning. Regjeringen vil videreføre hovedprinsippene
-i introduksjonsloven, men foreslår en rekke tiltak
-for mer målrettet og effektivt integreringsarbeid
-med bedre incentiver for å komme inn i arbeids­
-livet.
-Arbeids- og velferdsetaten skal samarbeide
-med kommunen om planlegging og gjennom­
-føring av introduksjonsprogram.4 Sammen skal de
-utarbeide en skriftlig samarbeidsavtale hvor det
-framgår hvilke oppgaver henholdsvis kommunen
-og Arbeids- og velferdsetaten har i programmet
-og for den enkelte deltaker. Arbeids- og velferds­
-etaten skal blant annet informere og veilede den
-enkelte deltaker om arbeids-, yrkes- og utdan­
-ningsmuligheter, kartlegge bistandsbehov og
-bistå i arbeidet med den individuelle planen for
-den enkelte. Arbeids- og velferdsetaten skal også
-vurdere egnede arbeidsmarkedstiltak i program­
-perioden når dette er hensiktsmessig for at en del­
-taker skal nå målet om inntektsgivende arbeid.
-For å få mer kunnskap om hvordan introduk­
-sjonsprogrammet og opplæringen i norsk og sam­
-funnskunnskap kan gjøres bedre, evalueres nå
-ordningene. Evalueringen skal blant annet se på
-hvilke virkemidler, organisering og arbeidsmeto­
-der som gir gode resultater i kommunens arbeid,
-og komme med forslag og anbefalinger som skal
-styrke og videreutvikle kvalifiseringen i årene
-framover. Den vil gi innsikt i hvordan kommunene
-er beredt til å ta imot flere asylsøkere og innvan­
-drere med fluktbakgrunn.5 Den vil også gi kunn­
-skap om deltakernes innflytelse på utformingen
-av eget program. Regjeringen vil etter dette vur­
-dere om det er behov for ytterligere endringer i
-regelverket.
-4
-5
+Egge geitegård i Gloppen kommune har siden i fjor høst tatt imot ungdommer fra Skei statlige mottak for mindreårige asylsøkere. Gården er en godkjent Inn på tunet-bedrift, og tiltaket er finansiert gjennom aktivitetsmidler fra UDI til barn og unge. Hver uke har gården tatt imot fem til seks ungdommer et par ganger i uka. Erfaringene har vært gode, og tilbudet er høyt verdsatt hos beboerne på mottaket. Det legges opp til varierte aktiviteter som gårdsarbeid og friluftsliv, fiske og turer. Ungdommene kan utvikle norskkunnskaper og lære praktiske ferdigheter. Inn på tunet er spesielt relevant for de ungdommene som har erfaring fra gårdsdrift og landbruk i hjemlandet. Det er motiverende for ungdommene med aktiviteter som de kjenner igjen og kan utvikle seg i.
 
-Rundskriv Q-27/2015
-Djuve og Sterri 2016
+I Østre Toten kommune har bondelaget tatt initiativ til å koble NAV og læringssenteret med Inn på tunet-gårder i kommunen. Dette kan være en døråpner for innvandrere etter bosetting og gi arbeidstrening og praksis. Det er flere eksempler rundt i landet på målrettet yrkesopplæring for å kvalifisere innvandrere til arbeid i landbruket, men også ferie- og fritidstilbud, familiedager og sommerleirer som kan gi økt livskvalitet og tilpassing til norske forhold.
 
-[Side 53]
+*Inn på tunet* er tilrettelagte og kvalitetssikrede velferdstjenester på gårdsbruk. Tjenestene skal gi mestring, utvikling og trivsel. Aktivitetene i tjenestetilbudene er knyttet opp til gården, livet og arbeidet der. Over halvparten av landets kommuner har ett eller flere Inn på tunet-tilbud. Tilbudene er hovedsakelig knyttet opp mot tjenesteområdene oppvekst og opplæring, arbeid og arbeidstrening samt helse og omsorg. Tjenestene er rettet mot alle aldersgrupper både barn, unge og voksne. Tiltaket er en del av regjeringens handlingsplan for *Inn på tunet* (2013–2017).
 
-2015–2016
+**Rammeslutt**
 
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
+Innholdet i og målsettingen for den enkeltes program bør i større grad enn i dag sees i sammenheng med det lokale arbeidsmarkedet og hvilke muligheter som finnes for å få jobb. For kommunene ligger det et uutnyttet potensiale i å kvalifisere innvandrere med fluktbakgrunn for å dekke behovet for arbeidskraft lokalt og regionalt. I mange kommuner er det i tillegg en rekke arbeidsoppgaver som ikke blir gjort av andre, for eksempel i pleie- og omsorgssektoren eller på kommunens felles uteområder. Slike oppgaver vil i mange tilfeller kunne egne seg for praksisplasser for deltakere i introduksjonsprogrammet, opplæring i norsk og samfunnskunnskap eller Jobbsjansen.
 
-53
+Regjeringen vil legge til rette for bedre samarbeid mellom kommunene og Arbeids- og velferdsetaten og sørge for at etaten i større grad enn i dag bruker sin arbeidsmarkedskompetanse i introduksjonsprogrammet. Det er viktig at lokale samarbeidsavtaler bidrar til at Arbeids- og velferdsetaten kommer tidligere inn med veiledning av deltakere i programmet og bistår kommunen i arbeidet med individuell plan. Bistanden kan på den måten i større grad tilpasses den enkeltes bistandsbehov.
 
-Boks 5.1 Introduksjonsloven
-Formålet med introduksjonsloven er å styrke
-nyankomne innvandreres mulighet for delta­
-kelse i yrkes- og samfunnslivet, og deres økono­
-miske selvstendighet. Loven omfatter to ulike
-ordninger, opplæring i norsk og samfunnskunn­
-skap og introduksjonsprogrammet. Ordningene
-har ulike målgrupper. Målgruppen for introduk­
-sjonsprogrammet er de som får asyl, er over­
-føringsflyktninger, får opphold av beskyttelses­
-lignende grunner etter søknad om asyl eller er
-familiegjenforente med disse gruppene. Opplæ­
-ring i norsk og samfunnskunnskap omfatter alle
-voksne innvandrere med en oppholdstillatelse
-som danner grunnlag for varig opphold, også
-arbeidsinnvandrere og familiegjenforente med
-norske eller nordiske borgere. Opplæring i
-norsk og samfunnskunnskap inngår som en vik­
-tig del av introduksjonsprogrammet. Felles for
-både opplæring i norsk og samfunnskunnskap
-og introduksjonsprogrammet, er at målgrup­
-pene er nyankomne innvandrere med en opp­
-holdstillatelse som danner grunnlag for varig
+Etatens innsats skal differensieres og tilpasses den enkeltes kompetanse, bistandsbehov og etterspørselen på arbeidsmarkedet. Dette skal blant annet føre til økt arbeidsretting og mer målrettet bruk av arbeidsmarkedstiltak i introduksjonsprogrammet*, jf. anmodningsvedtak 439:1 d) (2015–2016)*. Forslaget er presentert i revidert nasjonalbudsjett 2016, jf. Prop. 122 S (2015–2016) *Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2016*.
 
-5.2.1
+Det er behov for mer kunnskap om innvandreres veier til arbeid, også gjennom bruk av Arbeids- og velferdsetatens tiltak og tjenester. Regjeringen vil arbeide for å framskaffe bedre informasjon om ulike forløp og hva som er effektive virkemidler for å fremme overgang til arbeid blant innvandrere med fluktbakgrunn.
 
-Særlige utfordringer i introduksjons­
-programmet
+Det er også behov for i større grad enn i dag å yrkesrette opplæringen i norsk og samfunnskunnskap. Dette er også kommet som innspill fra KS. I en ny rapport fra Vox, Nasjonalt fagorgan for kompetansepolitikk,[^71] gis det anbefalinger til kommunene om hvordan de kan koble norskopplæring og praksis for at flest mulig skal få tilknytning til arbeidslivet. Rapporten inneholder også eksempeler på hvordan dette kan gjøres i praksis. Vox anbefaler at opplæringen og deltakelse i arbeidslivet sees i sammenheng. Norskopplæringen bør i større grad foregå ute på en arbeidsplass hvor opplæringen vil føles mer relevant for deltakerne. Det bør også være god sammenheng mellom den opplæringen som skjer i klasserommet og arbeidsoppgavene på praksisplassen. Videre bør klasseromsundervisningen i større grad arbeidsrettes ved valg av tema og materiell i undervisningen, og ordninger som gjør det mer attraktivt for arbeidsgivere å ta imot innvandrere i praksis bør prioriteres. Eksempler på ordninger som Vox trekker fram er fast kontaktperson i kommunen, lønnstilskudd, gode rutiner for kartlegging før utplassering i praksis og tett oppfølging av deltaker og arbeidsplass.
 
-Målsettingen for introduksjonsprogrammet er at
-70 prosent av deltakerne skal være i arbeid eller
-utdanning året etter avsluttet program. I snitt når
-de mannlige deltakerne og deltakerne mellom 20
-og 25 år denne målsettingen i dag. Det er for få
-kvinner som går over i arbeid eller utdanning etter
-avsluttet introduksjonsprogram. Det er også for
-store variasjoner mellom kommunene.
-Kommunene kan i stor grad selv påvirke resul­
-tatene gjennom måten de legger til rette integre­
-rings- og kvalifiseringsarbeidet.6 Programmet
-skal være tilpasset den enkelte deltaker. I mange
-kommuner er imidlertid både innhold og rammer
-for programmet standardisert. Kommunene plan­
-legger for at programmet skal vare i to år, uavhen­
-gig av den enkeltes bakgrunn og forutsetninger.
-Dette er ikke i tråd med introduksjonslovens for­
-utsetning som er at programmets lengde skal til­
-passes den enkeltes forutsetninger og behov.
+1.  **Arbeidsrettet språkopplæring i Lillehammer kommune**
 
-opphold i Norge. Det er en plikt og rett for den
-enkelte å delta.
-Kommunene har plikt til å tilby introduk­
-sjonsprogram og opplæring i norsk og sam­
-funnskunnskap til de som er i målgruppen.
-Kommunen kan selv tilby introduksjonspro­
-gram og opplæring, de kan samarbeide med
-andre kommuner i et interkommunalt samar­
-beid eller samarbeide med private aktører. Til­
-budet skal være individuelt tilrettelagt og utfor­
-met på bakgrunn av den enkeltes bakgrunn og
-opplæringsbehov. Kun personer som har behov
-for grunnleggende kvalifisering har i dag plikt til
-å delta. Kommunen skal i samråd med den
-enkelte utarbeide en individuell plan. Denne
-skal revideres jevnlig.
-En utfyllende beskrivelse av introduksjons­
-ordningen, opplæring i norsk og samfunnskunn­
-skap, læreplan i norsk og samfunnskunnskap for
-voksne innvandrere og tilskudd til opplæring i
-norsk og samfunnskunnskap samt deltakelse og
-resultater er gitt i vedlegg 2.
+Lillehammer kommune har de siste årene jobbet målrettet med utvikling av arbeidsrettede opplæringsløp. Lillehammer Læringssenter har vært en sentral aktør i arbeidet med å utvikle praksisbasert norskopplæring og arbeidsrettede kvalifiseringsløp, i tett samarbeid med Nav Oppland og en rekke kommunale og private arbeidsgivere. En viktig del av arbeidet med å tilby flere deltakere arbeidsrettede løp har vært endring av holdninger blant både personalet ved læringssenteret og deltakerne selv.
 
-Regelverket gir rammer for kommunenes
-arbeid, men det er allerede i dag fleksibilitet med
-hensyn til hva som kan være innholdet for den
-enkelte. Det varierer mellom kommunene i hvil­
-ken grad de utnytter denne fleksibiliteten.
-Å arbeidsrette programmet er utfordrende for
-mange kommuner. Tall fra SSB for 2014 viser at
-32 prosent av deltakerne hadde språkpraksis i
-løpet av året. 15 prosent fikk arbeidspraksis og 11
-prosent hadde inntektsgivende arbeid ved siden
-av deltakelse i introduksjonsprogrammet, mens
-16 prosent tok fag i grunnskolen.
-Det er utfordringer for kommunene knyttet til
-etablering av heldagstilbud, individuell tilpasning
-av program og tilstrekkelig tilgang på gode og
-relevante tiltak.7 Det er også utfordringer i sam­
-arbeidet mellom Arbeids- og velferdsetaten og
-kommunene i gjennomføringen av introduksjons­
-programmet.8 Arbeids- og velferdsetaten kommer
-ofte sent inn i programforløpet, og statlige
-arbeidsmarkedstiltak brukes i beskjeden grad.
-7
-
-6
-
-Lillegård og Seierstad 2013
-
-8
-
-Djuve og Kavli 2015
-Djuve, Kavli og Hagelund 2011, Rambau 2011
-
-[Side 54]
-
-54
-
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
-
-5.2.2
-
-Særlige utfordringer i opplæring i norsk
-og samfunnskunnskap
-
-Opplæring i norsk og samfunnskunnskap er et vik­
-tig tiltak i introduksjonsprogrammet. Opplæringen
-har imidlertid en større målgruppe enn innvan­
-drere med fluktbakgrunn. I tillegg til de som omfat­
-tes av introduksjonsordningen, har også familie­
-gjenforente med norske og nordiske borgere og
-arbeidsinnvandrere rett eller plikt til å delta i opp­
-læring i norsk og samfunnskunnskap. Flertallet
-oppnår den nasjonale målsettingen for språknivå på
-de avsluttende prøvene, men opplæringen bør i
-større grad skje i kombinasjon med praksis eller
-arbeid. Det er også her et stort potensiale for utvik­
-ling. Introduksjonsloven gir en ramme, men det er
-stor variasjon i kommunenes tilbud når det gjelder
-hvor intensiv og fleksibel opplæringen er.9 I tillegg
-er det stor variasjon med hensyn til i hvilken grad
-deltakerne går over i arbeid eller utdanning etter
-gjennomført opplæring.
-Kravene til norskferdigheter i arbeidslivet
-synes å øke. Fra både kommunalt og statlig hold
-stilles det i flere sektorer høyere krav til norsk­
-ferdigheter og krav til dokumentasjon av ferdig­
-heter på et visst nivå på avsluttende prøver i
-norsk. Dette kan føre til at det blir færre jobber
-som er aktuelle for nyankomne innvandrere.
-Lokalt kan det være krevende å samarbeide og
-koordinere tjenester. Dette gjelder både mellom
-voksenopplæringen og den instansen som har
-ansvaret for introduksjonsprogrammet, og i sam­
-ordningen av opplæring etter opplæringsloven og
-introduksjonsloven.
-
-5.3
-
-Melding til Stortinget
-«Fra utenforskap til ny sjanse»
-
-Regjeringen la i februar 2016 fram en melding til
-Stortinget, Meld. St. 16 (2015–2016) Fra utenfor­
-skap til ny sjanse – Samordnet innsats for voksnes
-læring. Denne meldingen presenterer en rekke til­
-tak som er relevante for at flere innvandrere får
-jobb eller utdanning.
-Det norske samfunnet og arbeidslivet kjenne­
-tegnes av høy yrkesdeltakelse og en befolkning
-med høy kompetanse. Likevel står en betydelig
-andel av befolkningen utenfor eller i fare for å falle
-utenfor arbeidslivet, og arbeidsledigheten er
-økende. Målgruppen for meldingen er voksne
-9
-
-http://www.vox.no/statistikk-og-analyse/publikasjoner/
-organisering-av-opplaringen-i-norsk-og-samfunnskunn­
-skap/
-
-2015–2016
-
-som har lite utdanning eller svake ferdigheter.
-Dette er en sammensatt gruppe. Det kan være
-unge voksne som hverken er i jobb eller i utdan­
-ning. Det kan være personer som har for lav
-utdanning, for svake grunnleggende ferdigheter
-og/eller norskferdigheter til å kunne oppfylle kra­
-vene i arbeidslivet. Det kan også være innvan­
-drere som ikke får godkjent den kompetansen de
-har med fra utlandet. Nyankomne innvandrere
-inngår som en av flere målgrupper i meldingen.
-En mer helhetlig politikk skal bidra til at flere skal
-få en kompetanse som gjør at de kan komme i sta­
-bilt arbeid og få en opplæring og kompetanse som
-arbeidslivet trenger.
-Meldingen omtaler hva som skal til for å moti­
-vere voksne for læring, og viser til en kunnskaps­
-status utviklet av OECD om tiltak rettet mot å
-bedre voksnes grunnleggende ferdigheter. Som
-kjennetegn på vellykkede tiltak for voksnes læring
-er individuell tilpasning både til den enkeltes kom­
-petansenivå og livssituasjon, tett oppfølging og
-mulighet til å vende tilbake ved behov for mer
-opplæring, opplæringstilbud også på andre steder
-enn i et klasserom og fleksibilitet i metoder. For
-noen kan nettbasert opplæring gi godt utbytte,
-mens det for andre er avgjørende med en mer per­
-sonlig oppfølging fra en lærer.
-Mange av utfordringene går på tvers av sektor­
-linjer. Meldingen legger til grunn at tjenestene i
-utdanningssektoren, arbeids- og velferdsetaten og
-på integreringsområdet må tilpasses individenes
-reelle behov for kompetanse og være fleksible og
-tilpasset voksnes liv. Regjeringen fremmer en
-rekke tiltak for bedre opplæring for voksne med
-svake grunnleggende ferdigheter og bedre mulig­
-heter for videregående opplæring.
-Regjeringen har i meldingen allerede fremmet
-tiltak for å bedre ordningene i introduksjonsloven.
-Det er foreslått tiltak for bedre å legge til rette for
-å ta mer ordinær utdanning som del av ordnin­
-gene, å øke arbeidsrettingen av introduksjonspro­
-grammet og å øke kompetansen blant lærerne og
-programrådgiverne. Det er også fremmet tiltak
-for å bedre den individuell tilretteleggingen, sær­
-lig for kvinner og personer med nedsatt funksjons­
-evne. Forsøk med å kombinere opplæring etter
-henholdsvis opplæringsloven og introduksjons­
-loven og en gjennomgang av disse lovverkene,
-skal bidra til bedre samordning mellom sekto­
-rene. Tiltakene skal samlet sett bidra til at del­
-takerne utnytter tiden i programmet og opplærin­
-gen bedre, og at programmet blir bedre tilpasset
-deltakernes kvalifiseringsbehov. Meldingen fore­
-slår også enkelte endringer i Arbeids- og vel­
-ferdsetatens opplæringstiltak.
-
-[Side 55]
-
-2015–2016
-
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
-
-Meld. St. 16 (2015–2016) Fra utenforskap til ny
-sjanse har et langsiktig perspektiv som utgangs­
-punkt. Denne meldingen om integreringspolitik­
-ken bygger videre på politikken i meldingen som
-ble lagt fram i februar, men er særlig rettet inn
-mot situasjonen med et høyere antall asylsøkere
-og innvandrere med fluktbakgrunn.
-
-5.4
-
-Tiltak for mer målrettet og effektiv
-kvalifisering
-
-Regjeringen vil videreutvikle integreringspolitik­
-ken slik at de som får opphold raskere kommer i
-arbeid eller utdanning, og kan bidra til verdiskap­
-ningen i landet. Dette krever stor innsats fra den
-enkelte, men også gode og fleksible ordninger.
-Regjeringen vil bygge videre på ordninger som
-virker. Introduksjonsprogrammet og opplærin­
-gen i norsk og samfunnskunnskap må bli mer
-effektive. En høyere andel av de som har deltatt,
-må gå over i arbeid eller utdanning og bli i
-arbeidslivet over tid.
-For personer som har en kompetanse som
-etterspørres i arbeidsmarkedet, kan tidlig og mål­
-rettet innsats fra Arbeids- og velferdsetaten, i
-kombinasjon med opplæring i norsk og samfunns­
-kunnskap, være aktuelt. Innvandrere som har
-med seg en fullført utdanning, som har fått
-avbrutt sin utdanning i hjemlandet eller som har
-studiekompetanse, vil ha andre behov enn de som
-har behov for grunnleggende kvalifisering.
-Norskkunnskaper er avgjørende for å kunne
-delta i arbeidslivet og hverdagslivet i det lokalsam­
-funnet den enkelte bor. Det er derfor viktig at opp­
-læringen kommer i gang så raskt som mulig. For
-å bidra til at flere personer skal komme raskere i
-gang med opplæringen, ble ansvaret for å ta initia­
-tivet til å sette i gang opplæring i norsk og sam­
-funnskunnskap overført til kommunen fra 1.
-januar 2016. Tidligere var det den enkelte som
-selv måtte ta initiativet ved å ta kontakt med kom­
-munen. Kommunens ansvar gjelder også for de
-som oppholder seg på asylmottak i påvente av
-bosetting i en kommune. I praksis innebærer
-dette at kommunene må drive målrettet informa­
-sjonsarbeid rettet mot nyankomne i personkret­
-sen for opplæring i norsk og samfunnskunnskap.
-Integrerings- og mangfoldsdirektoratet (IMDi)
-har utviklet informasjonsmateriell på en rekke
-språk som kan brukes i denne sammenhengen.
-Se nettsiden til IMDi, www.imdi.no.
-Regjeringen foreslår en rekke tiltak som
-sammen skal bidra til at flere innvandrere med
-fluktbakgrunn kommer i jobb eller utdanning. Til­
-
-55
-
-takene skal møte utfordringene i ordningene i dag
-og i en situasjon med flere deltakere. Tiltakene
-virker sammen, og mange av tiltakene bidrar til å
-løse flere utfordringer enn den de er omtalt under
-i punktene nedenfor. De viktigste grepene er styr­
-ket kartlegging av den enkeltes kompetanse, oppstart av kvalifiserende tiltak allerede i asylmottak,
-økt arbeidsretting og større fleksibilitet for kom­
-munene.
-5.4.1
-
-Tidlig kartlegging av kompetanse
-
-Regjeringen vil styrke arbeidet med å kartlegge
-den enkeltes kompetanse og setter i gang et sys­
-tem for kartlegging allerede mens den enkelte
-bor i asylmottak, jf. anmodningsvedtak 440:1
-(2015–2016). Dette er også spilt inn som et behov
-fra KS. Systemet for kartlegging av kompetanse
-har fram til nå ikke vært tilfredsstillende. Kartleg­
-gingen skal omfatte alle som har fått opphold eller
-som med stor sannsynlighet vil få opphold. Kart­
-leggingen skal foretas uavhengig av hvilket kom­
-petansenivå det er grunn til å anta at hun eller han
-har. En elektronisk løsning for selvregistrering av
-kompetanse er under utvikling. Personer som har
-behov for det, vil få assistanse i registreringen.
-Den kartlagte informasjonen skal følge med den
-enkelte i den videre kontakten med offentlige
-instanser, og informasjonen skal bidra til å sikre
-bedre kobling mellom bosetting, kvalifisering og
-arbeidsmarkedsbehov, jf. anmodningsvedtak 441:5
-(2015–2016). Informasjonen skal også kunne
-danne grunnlag for registerdata og statistikk.
-Å kartlegge den enkeltes komptetanse tidlig
-gjør det mulig i større grad å tilpasse, dimensjo­
-nere og prioritere det tilbudet innvandreren får. Til­
-bud kan tilpasses den enkeltes ressurser og behov.
-Det gjør det også mulig å starte kvalifiseringen tid­
-ligere, se kapittel 2.3 for mer om tilbud i mottak.
-Etter gjennomført kartlegging kan flere løp
-mot arbeid eller utdanning være aktuelle. Mange
-vil ha ønske om eller behov for karriereveiled­
-ning, se omtale nedenfor. For personer som har
-studiekompetanse eller høyere utdanning, kan
-godkjenning av medbrakt kompetanse fra hjem­
-landet eller opptak til høyere utdanning være en
-mulig vei. For personer som har en kompetanse
-fra hjemlandet som raskt kan anvendes i arbeids­
-livet, kan jobbsøking være en mulig vei, gjerne i
-kombinasjon med opplæring i norsk og sam­
-funnskunnskap og arbeidsrettet bistand. For
-andre som har rettigheter etter henholdsvis
-opplæringsloven eller introduksjonsloven kan
-grunnskole, videregående opplæring, introduk­
-sjonsprogrammet eller opplæring i norsk og sam­
-
-[Side 56]
-
-56
-
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
-
-funnskunnskap være aktuelle veier mot arbeid
-eller utdanning.
-Parallelt med at det elektroniske verktøyet
-utvikles, skal det utredes hvordan gjennomført
-kompetansekartlegging skal følges av tilbud om
-veiledning og kvalifiserende tiltak. Gjennomført
-kompetansekartlegging skal følges av tilbud om
-veiledning om kvalifisering, utdanning og arbeid
-som knyttes opp mot bosetting, arbeidslivsbehov
-og utdanningstilbud i ulike deler av landet.
-De fylkesvise karrieresentrene vil få et utvidet
-oppdrag om å gjennomføre veiledning for beboere
-i mottak basert på kartleggingen, jf. amodnings­
-vedtak 441:3 (2015–2016). Veiledningen kan
-inneholde informasjon om alt fra krav og fram­
-gangsmåte for å kunne jobbe i ulike yrker i Norge
-til framgangsmåte for godkjenning av medbrakt
-utdanning, tilbud om kompletterende utdanninger
-og muligheter for utdanning og arbeid. Veiled­
-ningen skal også følges opp med tilbud om rele­
-vante kvalifiserende tiltak. Forslaget er presentert
-i revidert nasjonalbudsjett 2016, jf. Prop. 122 S
-(2015–2016) Tilleggsbevilgninger og omprioriterin­
-ger i statsbudsjettet 2016.
-5.4.2
-
-Større fleksibilitet for kommunene
-
-Dagens regelverk gir kommunene et stort hand­
-lingsrom når det gjelder innhold og omfang av den
-enkeltes introduksjonsprogram og opplæring i
-norsk og samfunnskunnskap. I praksis opplever
-mange kommuner at det er vanskelig å bruke dette
-handlingsrommet. Tiltak for å øke kompetansen og
-spre erfaringer fra andre kommuner er viktig for at
-kommunene skal bli bedre til å utnytte den fleksibi­
-liteten som ligger i regelverket.
-Introduksjonsloven gir i dag kommuner og
-enkeltpersoner en rekke plikter og rettigheter.
-Forskriftene til loven gir utfyllende bestemmelser
-til det pedagogiske innholdet i ordningene og til
-organisatoriske forhold. Det er i dag ingen
-adgang til å gjøre unntak fra noen av bestemmel­
-sene i introduksjonsloven eller tilhørende forskrif­
-ter for å prøve ut nye pedagogiske, økonomiske
-eller organisatoriske løsninger. Det er viktig å
-legge til rette for utvikling, fleksibilitet og bedre
-samordning av ordningene i introduksjonsloven
-med annen utdanning, jf. anmodningsvedtak
-439:1 b) og 1 e) (2015–2016).
-Regjeringen foreslår derfor å innføre en for­
-søkshjemmel i introduksjonsloven. Forslaget
-innebærer at kommuner som søker om det kan få
-tillatelse til å sette i gang lokale forsøk av avgren­
-set varighet med unntak fra bestemmelser i lov
-eller forskrift. Hvilke bestemmelser i lov eller for­
-
-2015–2016
-
-skrift kommunene vil ønske å søke fritak fra, vil
-avhenge av innrettingen av det de ønsker å prøve
-ut. En rekke ulike forsøk kan være aktuelle, for
-eksempel felles opplæringssenter med grunn­
-skole, videregående opplæring og opplæring i
-norsk og samfunnskunnskap. Andre eksempler er
-unntak fra mål for opplæringen beskrevet i lære­
-planen. Et tredje eksempel er redusert introduk­
-sjonsstønad som incitament for å oppnå et visst
-språklig nivå raskt, og at stønaden så økes til 2G
-for den tiden som gjenstår av programmet. Forslag om å innføre en forsøkshjemmel har vært på
-høring.
-Fra 1. januar 2016 er introduksjonsloven
-endret ved at det er innført rett til permisjon fra
-programmet ved tilbud om ordinært arbeid. Per­
-misjonen kan innvilges for inntil ett år. Formålet
-med endringen er å gi større fleksibilitet i ordnin­
-gen og bidra til å styrke deltakernes mulighet for
-å komme i jobb. Oppfølging underveis i permisjo­
-nen og en trygghet om å kunne komme tilbake til
-programmet, vil bidra til at deltakerne i større
-grad enn i dag kan prøve seg i arbeidslivet når de
-er motivert for det, men ikke sikre på om de har
-tilstrekkelige kvalifikasjoner til å bli værende i
-arbeidslivet.
-Med det økte antallet innvandrere med flukt­
-bakgrunn som skal delta i opplæring i norsk og
-samfunnskunnskap, kan det bli en utfordring for
-kommunene å bygge ut kapasiteten i tilstrekkelig
-grad.10 For å bidra til økt tilgang på lærerkrefter i
-norskopplæringen og gjennom dette øke kapasitet
-i opplæringen, er det mulig å legge til rette for at
-lærerstudenter under utdanning kan undervise
-for å bidra til kommunenes tilbud om opplæring i
-norsk og samfunnskunnskap, jf. anmodningsved­
-tak 439:2 (2015–2016). Introduksjonsloven har
-vilkår om at den som skal undervise i norsk og
-samfunnskunnskap som hovedregel skal ha faglig
-og pedagogisk kompetanse. Dette innebærer at
-studenter ikke kan ha ansvar for opplæringen,
-men bidra i opplæringen i samarbeid med lærere
-som fyller kompetansekravet i loven. At lærerstu­
-denter deltar i undervisningen, må i slike tilfeller
-være på frivillig grunnlag. Ønsker et universitet
-eller en høyskole å legge opp lærerutdanningen
-slik at studentenes undervisning av innvandrere
-med fluktbakgrunn er en integrert del av studietil­
-budet, kan institusjonene gjøre dette på egen full­
-makt, så fremt krav i rammeplanen og andre for­
-skrifter fylles. Det vil i så fall være viktig å vurdere
-om praksisen er relevant, og om studentene vil
-kunne få god faglig veiledning.
-10
-
-Djuve og Sterri 2016
-
-[Side 57]
-
-2015–2016
-
-Meld. St. 30
-
-57
-
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
-
-5.4.3
-
-Endring av regler for permisjon
-
-Det er store forskjeller i kvinners og menns resul­
-tater når det gjelder overgang til arbeid eller utdan­
-ning etter deltakelse i kvalifisering. En av forklarin­
-gene på dette er at kvinnene tar ut omsorgspermi­
-sjon etter fødsel. Permisjon på fulltid fra introduk­
-sjonsprogrammet og opplæring i norsk og sam­
-funnskunnskap kan være til hinder for en jevn
-progresjon og redusere mulighetene for overgang
-til arbeid eller utdanning. Deltakere i introduk­
-sjonsprogram og opplæring i norsk og samfunns­
-kunnskap kan i dag få permisjon ved egen eller
-barns sykdom i inntil ett år. Etter fødsel og adop­
-sjon har foreldrene rett til omsorgspermisjon i til
-sammen 10 måneder. Programmet og opplærin­
-gen skal individuelt tilpasses den enkelte deltaker,
-også når det oppstår endringer i den enkeltes livs­
-situasjon som gjør at den enkelte ikke kan følge
-kvalifiseringen i det omfang som er nedfelt i den
-individuelle planen. Kommunene innvilger i dag
-permisjon på fulltid i for stor grad, framfor å tilret­
-telegge introduksjonsprogrammet og opplæring i
-norsk og samfunnskunnskap. Slik regelverket er i
-dag kan deltakere i introduksjonsprogram som har
-permisjon fra programmet følge opplæring i norsk
-og samfunnskunnskap i et redusert omfang.
-Denne muligheten er lite kjent og lite brukt.
-I Meld. St. 16 (2015–2016) Fra utenforskap til
-ny sjanse varslet regjeringen at man vil vurdere
-hvordan deltakere i introduksjonsprogram og opp­
-læring i norsk og samfunnskunnskap som har
-omsorgspermisjon, kan følges tettere opp for å
-motivere dem til å starte opp igjen i kvalifisering
-etter permisjon og på den måten unngå frafall fra
-ordningene. Regjeringen vil endre regelverket på
-dette punktet, og legge til rette for at deltakere i
-introduksjonsprogrammet og opplæring i norsk og
-samfunnskunnskap skal kunne få tilbud om opplæ­
-ring mens de er i permisjon. En del av vurderingen
-vil være krav til deltakeren om å delta i deler av
-programmet eller opplæringen i permisjonstiden,
-og krav til kommunen om å tilby slik kvalifisering.
-Forslag til endringer skal sendes på høring.
-Regler for fravær og permisjon er i dag bygget
-på reglene i arbeidslivet. Det er i dag ingen mulig­
-het for permisjon fra introduksjonsprogrammet
-ved utenlandsopphold, jf. anmodningsvedtak 439:9
-(2015–2016). Regjeringen vil vurdere behovet for
-å presisere dette i regelverket.
-5.4.4
-
-Individuell tilrettelegging
-
-Det er store variasjoner i nyankomne innvandre­
-res arbeidserfaring og utdanning. Individuell til­
-
-rettelegging er en forutsetning for et godt intro­
-duksjonsprogram og god opplæring i norsk og
-samfunnskunnskap. Kommunene må gi tilbud
-som er mer individuelt tilrettelagt enn det som
-gjøres i dag.
-En viktig del av den individuelle tilretteleggin­
-gen er programmets lengde. Introduksjonspro­
-grammet skal ikke være et toårig program for alle
-deltakere. Noen kan ha behov for et tre måneders
-program, mens andre vil trenge to år. Personer
-med svak eller ingen skolebakgrunn og ingen
-arbeidserfaring vil kunne trenge enda lengre tid.
-En annen viktig del av tilretteleggingen er inn­
-holdet i programmet eller opplæringen. Mange
-kommuner har ikke et tilstrekkelig utvalg av rele­
-vante tiltak for deltakerne. Det er noen steder en
-oppfatning at programmet eller opplæringen gjør
-at den enkelte ikke kan delta i arbeidslivet. Dette
-er ikke i tråd med loven. Ordinært arbeid kan alle­
-rede i dag legges inn som en del av innholdet i
-introduksjonsprogrammet. Den enkelte deltaker
-kan også ha deltidsjobb ved siden av introduk­
-sjonsprogrammet. Omfanget av opplæring i norsk
-og samfunnskunnskap skal kunne tilpasses delta­
-kere som er i arbeid. Ved å ta i bruk de mulig­
-hetene for fleksibilitet som allerede ligger i regel­
-verket, vil kommunene i praksis få større frihet til
-selv å tilpasse kvalifiseringen til innbyggerne i sin
-kommune, jf. anmodningsvedtak 439:1 b) (2015–
-2016).
-I Meld. St. 16 (2015–2016) Fra utenforskap til
-ny sjanse ble det varslet at regjeringen vil utrede
-endringer i introduksjonsloven for å øke bruken
-av muligheten til å forlenge programmet ut over to
-år, til inntil tre år. Det ble også varslet at det skal
-utredes særskilt tilrettelagt opplæring for perso­
-ner med nedsatt funksjonsevne som deltar i opp­
-læring i norsk og samfunnskunnskap.
-Kommuner har gjort en rekke erfaringer med
-ulike tiltak og metoder for å bedre tilretteleggin­
-gen i opplæringen i norsk og samfunnskunnskap
-og introduksjonsprogrammet til deltakernes indi­
-viduelle behov. IMDi formidler disse erfaringene i
-sin direkte kontakt med kommunene og på sine
-nettsider.
-I Meld. St. 16 (2015–2016) Fra utenforskap til
-ny sjanse sies det også at regjeringen vil legge til
-rette for å øke bruken av grunnskoleopplæring og
-videregående opplæring innenfor rammene av
-introduksjonsprogrammet.
-Regjeringen vil endre innretningen på Jobb­
-sjansen og prøve ut forsøk med utvidet program­
-tid for deltakere i introduksjonsprogrammet
-innenfor rammene av Jobbsjansen. En mulighet til
-å forlenge programmet til inntil fire år vil særlig
-
-[Side 58]
-
-58
-
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
-
-være aktuelt for deltakere med liten eller ingen
-skolebakgrunn og som derfor ikke kommer i
-arbeid eller utdanning innenfor rammen av intro­
-duksjonsprogrammet. Det kan også være aktuelt
-for deltakere som har startet i grunnskole eller
-videregående opplæring som en del av introduk­
-sjonsprogrammet, og som har behov for lenger
-programtid for å kunne fullføre den skolegangen
-de har startet.
-5.4.5
-
-Økt arbeidsretting
-
-Introduksjonsprogrammet skal inneholde tiltak
-som forbereder til deltakelse i arbeidslivet. Dette
-kan for eksempel være språkpraksis på en arbeids­
-plass eller annen praksis i arbeidslivet. Arbeidstre­
-ning er et statlig arbeidsmarkedstiltak som forval­
-tes av Arbeids- og velferdsetaten. Bruken av dette
-tiltaket vurderes av det lokale NAV-kontoret. I til­
-legg har også noen kommuner ordninger med
-egne praksisplasser i arbeidslivet. Med begrepet
-praksis i arbeidslivet siktes det her både til tiltak i
-NAV og kommunens egne ordninger. Det er stor
-variasjon mellom kommunene i hvilken grad de
-organiserer eller legger til rette for arbeid eller
-praksis som en del av introduksjonsprogram eller
-opplæring i norsk. Få kommuner benytter også
-muligheten til å legge ordinært arbeid inn som en
-del av introduksjonsprogrammet.
-
-2015–2016
-
-Regjeringen vil bidra til at kommunene
-arbeidsretter introduksjonsordningen i større
-grad enn i dag. Regjeringen foreslår derfor å
-endre introduksjonsloven slik at kommuner alltid
-skal vurdere bruken av arbeids- og utdanningsret­
-tede tiltak for den enkelte, jf. anmodningsvedtak
-439:1 d) (2015–2016). Forslag til endringer i
-regelverket sendes på høring.
-Innholdet i og målsettingen for den enkeltes
-program bør i større grad enn i dag sees i sam­
-menheng med det lokale arbeidsmarkedet og
-hvilke muligheter som finnes for å få jobb. For
-kommunene ligger det et uutnyttet potensiale i å
-kvalifisere innvandrere med fluktbakgrunn for å
-dekke behovet for arbeidskraft lokalt og regionalt.
-I mange kommuner er det i tillegg en rekke
-arbeidsoppgaver som ikke blir gjort av andre, for
-eksempel i pleie- og omsorgssektoren eller på
-kommunens felles uteområder. Slike oppgaver vil
-i mange tilfeller kunne egne seg for praksisplasser
-for deltakere i introduksjonsprogrammet, opp­
-læring i norsk og samfunnskunnskap eller Jobb­
-sjansen.
-Regjeringen vil legge til rette for bedre samar­
-beid mellom kommunene og Arbeids- og vel­
-ferdsetaten og sørge for at etaten i større grad enn
-i dag bruker sin arbeidsmarkedskompetanse i
-introduksjonsprogrammet. Det er viktig at lokale
-samarbeidsavtaler bidrar til at Arbeids- og vel-
-
-Boks 5.2 Arbeids- og språktrening gjennom praktisk gårdsarbeid
-Egge geitegård i Gloppen kommune har siden i
-fjor høst tatt imot ungdommer fra Skei statlige
-mottak for mindreårige asylsøkere. Gården er
-en godkjent Inn på tunet-bedrift, og tiltaket er
-finansiert gjennom aktivitetsmidler fra UDI til
-barn og unge. Hver uke har gården tatt imot fem
-til seks ungdommer et par ganger i uka. Erfaringene har vært gode, og tilbudet er høyt verdsatt
-hos beboerne på mottaket. Det legges opp til
-varierte
-aktiviteter
-som
-gårdsarbeid
-og friluftsliv, fiske og turer. Ungdommene kan
-utvikle norskkunnskaper og lære praktiske
-ferdigheter. Inn på tunet er spesielt relevant for
-de ungdommene som har erfaring fra gårdsdrift
-og landbruk i hjemlandet. Det er motiverende
-for ungdommene med aktiviteter som de kjenner igjen og kan utvikle seg i.
-I Østre Toten kommune har bondelaget tatt
-initiativ til å koble NAV og læringssenteret med
-Inn på tunet-gårder i kommunen. Dette kan
-
-være en døråpner for innvandrere etter boset­
-ting og gi arbeidstrening og praksis. Det er flere
-eksempler rundt i landet på målrettet yrkesopp­
-læring for å kvalifisere innvandrere til arbeid i
-landbruket, men også ferie- og fritidstilbud,
-familiedager og sommerleirer som kan gi økt
-livskvalitet og tilpassing til norske forhold.
-Inn på tunet er tilrettelagte og kvalitets­
-sikrede velferdstjenester på gårdsbruk. Tjenes­
-tene skal gi mestring, utvikling og trivsel. Aktivi­
-tetene i tjenestetilbudene er knyttet opp til går­
-den, livet og arbeidet der. Over halvparten av
-landets kommuner har ett eller flere Inn på
-tunet-tilbud. Tilbudene er hovedsakelig knyttet
-opp mot tjenesteområdene oppvekst og opplæ­
-ring, arbeid og arbeidstrening samt helse og
-omsorg. Tjenestene er rettet mot alle aldersgrupper både barn, unge og voksne. Tiltaket er
-en del av regjeringens handlingsplan for Inn på
-tunet (2013–2017).
-
-[Side 59]
-
-2015–2016
-
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
-
-ferdsetaten kommer tidligere inn med veiledning
-av deltakere i programmet og bistår kommunen i
-arbeidet med individuell plan. Bistanden kan på
-den måten i større grad tilpasses den enkeltes
-bistandsbehov.
-Etatens innsats skal differensieres og tilpasses
-den enkeltes kompetanse, bistandsbehov og etter­
-spørselen på arbeidsmarkedet. Dette skal blant
-annet føre til økt arbeidsretting og mer målrettet
-bruk av arbeidsmarkedstiltak i introduksjonspro­
-grammet, jf. anmodningsvedtak 439:1 d) (2015–
-2016). Forslaget er presentert i revidert nasjonal­
-budsjett 2016, jf. Prop. 122 S (2015–2016) Tilleggs­
-bevilgninger og omprioriteringer i statsbudsjettet
-2016.
-Det er behov for mer kunnskap om innvandre­
-res veier til arbeid, også gjennom bruk av
-Arbeids- og velferdsetatens tiltak og tjenester.
-Regjeringen vil arbeide for å framskaffe bedre
-informasjon om ulike forløp og hva som er effek­
-tive virkemidler for å fremme overgang til arbeid
-blant innvandrere med fluktbakgrunn.
-Det er også behov for i større grad enn i dag å
-yrkesrette opplæringen i norsk og samfunnskunn­
-skap. Dette er også kommet som innspill fra KS. I
-en ny rapport fra Vox, Nasjonalt fagorgan for kom­
-petansepolitikk,11 gis det anbefalinger til kommu­
-nene om hvordan de kan koble norskopplæring
-og praksis for at flest mulig skal få tilknytning til
-arbeidslivet. Rapporten inneholder også eksempe­
-ler på hvordan dette kan gjøres i praksis. Vox
-
-anbefaler at opplæringen og deltakelse i arbeids­
-livet sees i sammenheng. Norskopplæringen bør i
-større grad foregå ute på en arbeidsplass hvor
-opplæringen vil føles mer relevant for deltakerne.
-Det bør også være god sammenheng mellom den
-opplæringen som skjer i klasserommet og
-arbeidsoppgavene på praksisplassen. Videre bør
-klasseromsundervisningen i større grad arbeids­
-rettes ved valg av tema og materiell i undervisnin­
-gen, og ordninger som gjør det mer attraktivt for
-arbeidsgivere å ta imot innvandrere i praksis bør
-prioriteres. Eksempler på ordninger som Vox
-trekker fram er fast kontaktperson i kommunen,
-lønnstilskudd, gode rutiner for kartlegging før
-utplassering i praksis og tett oppfølging av delta­
-ker og arbeidsplass.
-Opplæring i bedrift blir vurdert som ett av de
-viktigste virkemidlene for at innvandrere skal
-komme i arbeid.12 Dette gjelder både språkprak­
-sis, arbeidspraksis, lærlingeplass og hospitering.
-Lønnstilskudd er et virkemiddel med god effekt
-på overgang til arbeid.13 Statistikk fra SSB14 viser
-at tiltak i introduksjonsprogrammet som har en
-nærhet til ordinært arbeidsliv, øker mulighetene
-for å komme i arbeid. Erfaringer fra Jobbsjansen15
-viser også at måloppnåelsen er høyere for delta­
-kere som har tett tilknytning til arbeidslivet. Kom­
-
-12
-13
-14
-
-11
-
-Gregersen og Sletten 2015
-
-59
-
-15
-
-Søholt, Tronstad og Vestby 2015
-Hardoy og Zhang 2010
-Blom og Enes 2015, Enes 2014
-Proba samfunnsanalyse 2015
-
-Boks 5.3 Arbeidsrettet språkopplæring i Lillehammer kommune
-Lillehammer kommune har de siste årene jobbet målrettet med utvikling av arbeidsrettede
-opplæringsløp. Lillehammer Læringssenter har
-vært en sentral aktør i arbeidet med å utvikle
-praksisbasert norskopplæring og arbeidsrettede
-kvalifiseringsløp, i tett samarbeid med Nav Oppland og en rekke kommunale og private arbeidsgivere. En viktig del av arbeidet med å tilby flere
-deltakere arbeidsrettede løp har vært endring av
-holdninger blant både personalet ved læringssenteret og deltakerne selv.
 Kommunen har jobbet systematisk med følgende tiltak:
-– Utvikle avtaler om praksisplasser med private og offentlige arbeidsgivere i regionen
 
-–
-–
-–
+- Utvikle avtaler om praksisplasser med private og offentlige arbeidsgivere i regionen
 
-Arbeidsrettet språkopplæring på arbeidseller praksisplass
-Ansettelse av fagpersoner som har en annen
-fagkompetanse enn undervisning, og med en
-annen arbeidsavtale enn lærere
-Lengre tid i kvalifiseringsprogrammet for de
-deltakerne som har behov for det
+- Arbeidsrettet språkopplæring på arbeids- eller praksisplass
 
-Norskopplæringen er nå organisert i arbeids­
-norsk for deltakere som går arbeidsrettede kva­
-lifiseringsløp, og i skolenorsk for deltakere som
-går utdanningsrettede løp. Seks av lærerne ved
-læringssenteret gir språkopplæring til elevene
-ute i bedrifter i 100 prosent av sin undervis­
-ningstid.
+- Ansettelse av fagpersoner som har en annen fagkompetanse enn undervisning, og med en annen arbeidsavtale enn lærere
 
-[Side 60]
+- Lengre tid i kvalifiseringsprogrammet for de deltakerne som har behov for det
 
-60
+Norskopplæringen er nå organisert i arbeidsnorsk for deltakere som går arbeidsrettede kvalifiseringsløp, og i skolenorsk for deltakere som går utdanningsrettede løp. Seks av lærerne ved læringssenteret gir språkopplæring til elevene ute i bedrifter i 100 prosent av sin undervisningstid.
 
-2015–2016
+**Rammeslutt**
 
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
+Opplæring i bedrift blir vurdert som ett av de viktigste virkemidlene for at innvandrere skal komme i arbeid.[^72] Dette gjelder både språkpraksis, arbeidspraksis, lærlingeplass og hospitering. Lønnstilskudd er et virkemiddel med god effekt på overgang til arbeid.[^73] Statistikk fra SSB[^74] viser at tiltak i introduksjonsprogrammet som har en nærhet til ordinært arbeidsliv, øker mulighetene for å komme i arbeid. Erfaringer fra Jobbsjansen[^75] viser også at måloppnåelsen er høyere for deltakere som har tett tilknytning til arbeidslivet. Kommunene må ta disse mulighetene i bruk i større grad enn i dag.
 
-munene må ta disse mulighetene i bruk i større
-grad enn i dag.
-Kommunen er også selv en arbeidsgiver med
-et bredt spekter av områder hvor den enkelte kan
-få praksis eller bidra med sin kompetanse. Her er
-det et uutnyttet potensiale. Flere kommuner har
-positive erfaringer med forpliktende avtaler i kom­
-munen om at hver sektor skal bidra med et visst
-antall praksisplasser. IMDi har samlet en rekke
-gode eksempler på arbeidsretting av introduk­
-sjonsprogrammet og på metoder som har fungert
-godt i kommunene. Spredning av slike gode
-eksempler er viktig for at kommunene kan lære av
-hverandre.
+Kommunen er også selv en arbeidsgiver med et bredt spekter av områder hvor den enkelte kan få praksis eller bidra med sin kompetanse. Her er det et uutnyttet potensiale. Flere kommuner har positive erfaringer med forpliktende avtaler i kommunen om at hver sektor skal bidra med et visst antall praksisplasser. IMDi har samlet en rekke gode eksempler på arbeidsretting av introduksjonsprogrammet og på metoder som har fungert godt i kommunene. Spredning av slike gode eksempler er viktig for at kommunene kan lære av hverandre.
 
-lære norsk raskere, få en opplæring som i større
-grad er rettet mot det yrket de skal utøve, og på
-den måten raskere kunne bruke sin kompetanse i
-arbeidslivet. Målgruppen er personer som har
-plikt og rett til å delta i opplæring i norsk og sam­
-funnskunnskap etter introduksjonsloven. Forsøk i
-kommunene gjennomføres med en del av bevilg­
-ningen til ordningen Kommunale utviklingsmidler
-(KUM). Vox følger opp tiltaket, og alle de fem pro­
-sjektene i 2015 har nådd målet om å etablere et
-eget norskopplæringstilbud for målgruppen. Del­
-takerne i prosjektene har hatt en svært rask pro­
-gresjon i norsk. Erfaringer i forsøkene har viktig
-overføringsverdi til andre kommuner.
+1.  **Raskere spor for innvandrere med etterspurt kompetanse**
 
-5.4.6
+Regjeringen ønsker at innvandrere med fluktbakgrunn som har relevant kompetanse og arbeidserfaring raskt får brukt sine ressurser i arbeidslivet. Regjeringen skal derfor etablere et raskere spor inn i arbeidsmarkedet for dem som har fått vedtak om opphold, og som har med seg en kompetanse som etterspørres i arbeidslivet. Arbeids- og velferdsetaten kan overfor en slik avgrenset målgruppe tilby tidlig formidling, informasjon, veiledning og eventuelt arbeidsmarkedstiltak og kombinasjoner av virkemidler som fremmer rask utplassering i arbeidslivet. Kartlegging av kompetanse og norskopplæring i asylmottak vil styrke grunnlaget for å sette i verk tidlig arbeidsrettet innsats etter bosetting*, jf. anmodningsvedtak 439:7, anmodningsvedtak 441:4 og anmodningsvedtak 441:6 (2015–2016).* Den arbeidsrettede innsatsen kan inngå som en del av introduksjonsprogrammet, og kan dersom det vurderes som hensiktsmessig også kombineres med opplæring i norsk og samfunnskunnskap eller andre kvalifiseringstiltak*, jf. anmodningsvedtak 439:1 c) (2015–2016)*.
 
-5.4.7
+Dersom oppholdstiden i mottak blir langvarig og det for øvrig anses som hensiktsmessig, kan etatens innsats settes i gang mens innvandrere med fluktbakgrunn bor i mottak, men etter vedtak om opphold. Regjeringen arbeider med å konkretisere hvordan et raskere spor skal etableres, blant annet gjennom en arbeidsgruppe som allerede er nedsatt med partene i arbeidslivet.
 
-Raskere spor for innvandrere med
-etterspurt kompetanse
+Som en del av handlingsplanen *Vi trenger innvandreres kompetanse* (2013–2016) gjennomføres i tillegget tiltak om bedre tilpasset norskopplæring for innvandrere med høyere utdanning. Formålet er at personer med høyere utdanning skal kunne lære norsk raskere, få en opplæring som i større grad er rettet mot det yrket de skal utøve, og på den måten raskere kunne bruke sin kompetanse i arbeidslivet. Målgruppen er personer som har plikt og rett til å delta i opplæring i norsk og samfunnskunnskap etter introduksjonsloven. Forsøk i kommunene gjennomføres med en del av bevilgningen til ordningen Kommunale utviklingsmidler (KUM). Vox følger opp tiltaket, og alle de fem prosjektene i 2015 har nådd målet om å etablere et eget norskopplæringstilbud for målgruppen. Deltakerne i prosjektene har hatt en svært rask progresjon i norsk. Erfaringer i forsøkene har viktig overføringsverdi til andre kommuner.
 
-Regjeringen ønsker at innvandrere med fluktbak­
-grunn som har relevant kompetanse og arbeidser­
-faring raskt får brukt sine ressurser i arbeidslivet.
-Regjeringen skal derfor etablere et raskere spor
-inn i arbeidsmarkedet for dem som har fått vedtak
-om opphold, og som har med seg en kompetanse
-som etterspørres i arbeidslivet. Arbeids- og
-velferdsetaten kan overfor en slik avgrenset mål­
-gruppe tilby tidlig formidling, informasjon, veiled­
-ning og eventuelt arbeidsmarkedstiltak og kombi­
-nasjoner av virkemidler som fremmer rask utplas­
-sering i arbeidslivet. Kartlegging av kompetanse
-og norskopplæring i asylmottak vil styrke grunn­
-laget for å sette i verk tidlig arbeidsrettet innsats
-etter bosetting, jf. anmodningsvedtak 439:7,
-anmodningsvedtak 441:4 og anmodningsvedtak
-441:6 (2015–2016). Den arbeidsrettede innsat­
-sen kan inngå som en del av introduksjonspro­
-grammet, og kan dersom det vurderes som hen­
-siktsmessig også kombineres med opplæring i
-norsk og samfunnskunnskap eller andre kvalifi­
-seringstiltak, jf. anmodningsvedtak 439:1 c)
-(2015–2016).
-Dersom oppholdstiden i mottak blir langvarig
-og det for øvrig anses som hensiktsmessig, kan
-etatens innsats settes i gang mens innvandrere
-med fluktbakgrunn bor i mottak, men etter vedtak
-om opphold. Regjeringen arbeider med å konkre­
-tisere hvordan et raskere spor skal etableres,
-blant annet gjennom en arbeidsgruppe som alle­
-rede er nedsatt med partene i arbeidslivet.
-Som en del av handlingsplanen Vi trenger inn­
-vandreres kompetanse (2013–2016) gjennomføres i
-tillegget tiltak om bedre tilpasset norskopplæring
-for innvandrere med høyere utdanning. Formålet
-er at personer med høyere utdanning skal kunne
+1.  **Økt bruk av nettbasert opplæring og språktrening**
 
-Økt bruk av nettbasert opplæring og
-språktrening
+Regjeringen vil øke bruken av nettbasert norskopplæring og språktrening for voksne, *jf. anmodningsvedtak 434:15, anmodningsvedtak 439:1 a) og 1 e) og anmodningsvedtak 441:6 (2015–2016).* Nettbasert opplæring gir gode muligheter for å tilrettelegge opplæringen til ulike behov og til å nå ut til flere enn ved opplæring i klasserom. Nettbasert opplæring kan være nyttig for personer som oppholder seg i asylmottak og venter på å bli bosatt i en kommune. Det kan også være et godt supplement til det kommunale norskopplæringstilbudet i kombinasjon med annen opplæring og veiledning, eller som språktrening. Nettbasert opplæring kan gjøre det mulig for personer som ikke kan møte til ordinær opplæring å lære norsk, for eksempel i forbindelse med omsorgspermisjon og arbeid.
 
-Regjeringen vil øke bruken av nettbasert
-norskopplæring og språktrening for voksne, jf.
-anmodningsvedtak 434:15, anmodningsvedtak
-439:1 a) og 1 e) og anmodningsvedtak 441:6
-(2015–2016). Nettbasert opplæring gir gode
-muligheter for å tilrettelegge opplæringen til ulike
-behov og til å nå ut til flere enn ved opplæring i
-klasserom. Nettbasert opplæring kan være nyttig
-for personer som oppholder seg i asylmottak og
-venter på å bli bosatt i en kommune. Det kan også
-være et godt supplement til det kommunale
-norskopplæringstilbudet i kombinasjon med
-annen opplæring og veiledning, eller som språk­
-trening. Nettbasert opplæring kan gjøre det mulig
-for personer som ikke kan møte til ordinær opplæ­
-ring å lære norsk, for eksempel i forbindelse med
-omsorgspermisjon og arbeid.
-Bruk av nettbasert opplæring i små kommu­
-ner med få deltakere, gjerne i samarbeid med
-større kommuner, vil kunne være særlig nyttig for
-deltakere med høyere utdanning. Nettbasert opp­
-læring kan også være et godt tilbud til personer
-som ikke har rett til gratis norskopplæring, for
-eksempel arbeidsinnvandrere fra EØS-området.
-Som med all annen opplæring, vil behovet for vei­
-ledning og støtte som tillegg til nettbasert opp­
-læring avhenge av forhold som deltakernes utdan­
-ningsbakgrunn, tidligere erfaringer med språklæ­
-ring, helsesituasjon, motivasjon og selvstendighet.
-Mange nettbaserte løsninger er utviklet av
-private firmaer og er avhengig av lisens. I tillegg
-finnes det flere gratis digitale ressurser for å
-lære norsk. NTNU har i samarbeid med Vox, og
-med støtte fra flere departementer, utviklet gra­
-tis tilgjengelige nettbaserte læringsressurser for
-opplæring i norsk, LearnNoW (Learn Norwegian
+Bruk av nettbasert opplæring i små kommuner med få deltakere, gjerne i samarbeid med større kommuner, vil kunne være særlig nyttig for deltakere med høyere utdanning. Nettbasert opplæring kan også være et godt tilbud til personer som ikke har rett til gratis norskopplæring, for eksempel arbeidsinnvandrere fra EØS-området. Som med all annen opplæring, vil behovet for veiledning og støtte som tillegg til nettbasert opplæring avhenge av forhold som deltakernes utdanningsbakgrunn, tidligere erfaringer med språklæring, helsesituasjon, motivasjon og selvstendighet.
 
-[Side 61]
+Mange nettbaserte løsninger er utviklet av private firmaer og er avhengig av lisens. I tillegg finnes det flere gratis digitale ressurser for å lære norsk. NTNU har i samarbeid med Vox, og med støtte fra flere departementer, utviklet gratis tilgjengelige nettbaserte læringsressurser for opplæring i norsk, LearnNoW (Learn Norwegian on the Web) og CALST (Computer-Assisted Listening and Speaking Tutor).
 
-2015–2016
+1.  **Nettbasert opplæring ved kommunale opplæringssentra**
 
-Meld. St. 30
-Fra mottak til arbeidsliv – en effektiv integreringspolitikk
+Johannes Læringssenter i Stavanger tilbyr nettbasert opplæring i kombinasjon med ordinær undervisning. Dette gjør det enklere å tilpasse opplæringen etter deltakernes nivå og livssituasjon, og fleksibiliteten i tilbudet fører til mindre fravær. Nettbaserte tilbud reduserer også utfordringer knyttet til ventelister og romkapasitet. Senteret har prøvd ut nettbasert opplæring i kombinasjon med ordinær opplæring for flere målgrupper, også for personer med liten eller ingen skolebakgrunn. Johannes Læringssenter har i 2016 sju lærere i full stilling som nettlærere. Avtale om nettlærernes leseplikt løses ved at veiledning av tre deltakere som jobber fem timer på nett per uke, tilsvarer én undervisningstime.
 
-Boks 5.4 Nettbasert opplæring ved
-kommunale opplæringssentra
-Johannes Læringssenter i Stavanger tilbyr
-nettbasert opplæring i kombinasjon med ordi­
-nær undervisning. Dette gjør det enklere å til­
-passe opplæringen etter deltakernes nivå og
-livssituasjon, og fleksibiliteten i tilbudet fører
-til mindre fravær. Nettbaserte tilbud reduse­
-rer også utfordringer knyttet til ventelister og
-romkapasitet. Senteret har prøvd ut nettbasert
-opplæring i kombinasjon med ordinær opp­
-læring for flere målgrupper, også for personer
-med liten eller ingen skolebakgrunn. Johan­
-nes Læringssenter har i 2016 sju lærere i full
-stilling som nettlærere. Avtale om nettlærer­
-nes leseplikt løses ved at veiledning av tre del­
-takere som jobber fem timer på nett per uke,
-tilsvarer én undervisningstime.
-For å stimulere til økt bruk av nettbasert
-norskopplæring som en del av kommunenes
-opplæringstilbud, har Vox siden 2010 samar­
-beidet med Johannes Læringssenter og
-Nygård skole i Bergen om å utvikle gode
-modeller for nettbasert opplæring. Vox har
-bevilget midler til Johannes Læringssenter
-som gir gratis veiledning til opplæringssteder
-som vil starte, eller som nettopp har startet,
-med nettbasert opplæring. Hensikten er å
-spre gode modeller for nettbasert norskopplæ­
-ring for voksne innvandrere. Så langt har 30
-opplæringssentre fått veiledning.
+For å stimulere til økt bruk av nettbasert norskopplæring som en del av kommunenes opplæringstilbud, har Vox siden 2010 samarbeidet med Johannes Læringssenter og Nygård skole i Bergen om å utvikle gode modeller for nettbasert opplæring. Vox har bevilget midler til Johannes Læringssenter som gir gratis veiledning til opplæringssteder som vil starte, eller som nettopp har startet, med nettbasert opplæring. Hensikten er å spre gode modeller for nettbasert norskopplæring for voksne innvandrere. Så langt har 30 opplæringssentre fått veiledning.
 
-on the Web) og CALST (Computer-Assisted
-Listening and Speaking Tutor).
-LearnNoW er et program for begynneropplæ­
-ring som er særlig lagt til rette for arbeidsinnvan­
-drere. Programmet har engelsk, polsk og spansk
-støttespråk og dekker de to nivåene for basisbru­
-kere i læreplanen i norsk for voksne innvandrere.
-LearnNoW hadde i underkant av 50 000 brukere i
-2015. CALST er et program for uttaletrening i
-norsk tilpasset ulike dialekter i Norge. NTNU
-utvikler nå LearnNoW med arabisk som støtte­
-språk. Videre har regjeringen bevilget midler til å
-oversette til ytterligere relevante språk og annen
-tilrettelegging, slik at flere av gruppene som nå
-kommer til landet kan ha utbytte av ressursene.
-Det arbeides med å gjøre tilbudet kjent og øke
-bruken av ressursene. Forslaget er presentert i
-revidert nasjonalbudsjett 2016, jf. Prop. 122 S
+**Rammeslutt**
 
-61
+LearnNoW er et program for begynneropplæring som er særlig lagt til rette for arbeidsinnvandrere. Programmet har engelsk, polsk og spansk støttespråk og dekker de to nivåene for basisbrukere i læreplanen i norsk for voksne innvandrere. LearnNoW hadde i underkant av 50 000 brukere i 2015. CALST er et program for uttaletrening i norsk tilpasset ulike dialekter i Norge. NTNU utvikler nå LearnNoW med arabisk som støttespråk. Videre har regjeringen bevilget midler til å oversette til ytterligere relevante språk og annen tilrettelegging, slik at flere av gruppene som nå kommer til landet kan ha utbytte av ressursene. Det arbeides med å gjøre tilbudet kjent og øke bruken av ressursene. Forslaget er presentert i revidert nasjonalbudsjett 2016, jf. Prop. 122 S (2015–2016) *Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2016*.
 
-(2015–2016) Tilleggsbevilgninger og omprioriterin­
-ger i statsbudsjettet 2016.
-Nettbaserte ressurser kan tas i bruk av ulike
-opplæringstilbydere, slik som kommuner, asyl­
-mottak, NAV, BKA-prosjekter og frivillige organi­
-sasjoner.
-Regjeringen vil fortsette å spre gode modeller
-for kommunal nettbasert norskopplæring og
-utvikle kunnskapsgrunnlaget om bruk, kvalitet og
-effekt av nettbasert opplæring. Det er bevilget
-midler til Vox for å videreutvikle opplegget «Train
-the trainers» som er kurs Vox holder for frivillige
-som gir norsktrening til innvandrere. Vox har
-også utviklet en nettside med ressurser de frivil­
-lige kan bruke i norsktreningen. Som en del av
-utvidelsen av dette opplegget skal det også gis tre­
-ning for frivillige i bruk av nettbasert opplæring
-for å inspirere frivillige til å bruke ressurser på
-nett.
-5.4.8
+Nettbaserte ressurser kan tas i bruk av ulike opplæringstilbydere, slik som kommuner, asylmottak, NAV, BKA-prosjekter og frivillige organisasjoner.
 
-Forsøk i kommunene – kommunale
-utviklingsmidler
+Regjeringen vil fortsette å spre gode modeller for kommunal nettbasert norskopplæring og utvikle kunnskapsgrunnlaget om bruk, kvalitet og effekt av nettbasert opplæring. Det er bevilget midler til Vox for å videreutvikle opplegget «Train the trainers» som er kurs Vox holder for frivillige som gir norsktrening til innvandrere. Vox har også utviklet en nettside med ressurser de frivillige kan bruke i norsktreningen. Som en del av utvidelsen av dette opplegget skal det også gis trening for frivillige i bruk av nettbasert opplæring for å inspirere frivillige til å bruke ressurser på nett.
 
-Det er mer enn 10 år siden introduksjonsloven
-trådte i kraft, og mange kommuner har over lang
-tid hatt stabilt gode resultater i ordningene ved at
-en høy andel deltakere går over i arbeid eller
-utdanning. Regjeringen har de siste årene bevilget
-midler til forsøk med utviklingstiltak i kommu­
-nene gjennom ordningen Kommunale utviklings­
-midler (KUM). Formålet er å øke kvaliteten og
-bedre resultatene i kommunenes integrerings­
-arbeid. Tilskuddsordningen skal bidra til å utvikle
-kunnskap og metoder. Erfaringene i forsøkene
-har stor overføringsverdi til andre kommuner.
-IMDi har gjennom flere år løftet fram suk­
-sesskriterier og gode grep, og de har på sine nettsider www.imdi.no samlet en rekke tips og gode
-eksempler for at kommunene skal lære av hver­
-andre. På nettsiden omtales for eksempel ulike
-måter å organisere arbeidet, metoder, arbeidsret­
-ting av tiltak, tips for lederforankring i kommunen
-og for mål- og resultatstyring av kommunenes
-arbeid. KS ønsker også å bidra til å forbedre innhold og resultater i introduksjonsordningen gjen­
-nom aktiv bruk av dokumenterte eksempler på
-hva som fungerer bra i dag.
-5.4.9
+1.  **Forsøk i kommunene – kommunale utviklingsmidler**
 
-Kompetanseheving
+Det er mer enn 10 år siden introduksjonsloven trådte i kraft, og mange kommuner har over lang tid hatt stabilt gode resultater i ordningene ved at en høy andel deltakere går over i arbeid eller utdanning. Regjeringen har de siste årene bevilget midler til forsøk med utviklingstiltak i kommunene gjennom ordningen Kommunale utviklingsmidler (KUM). Formålet er å øke kvaliteten og bedre resultatene i kommunenes integreringsarbeid. Tilskuddsordningen skal bidra til å utvikle kunnskap og metoder. Erfaringene i forsøkene har stor overføringsverdi til andre kommuner.
 
-Kommunenes arbeid med introduksjonsprogram­
-met og opplæring i norsk og samfunnskunnskap
-holder ulik kvalitet, og kommunene legger ikke
-alltid inn de tiltakene i den enkeltes program eller
-opplæring som statistisk sett ser ut til å ha best
+IMDi har gjennom flere år løftet fram suksesskriterier og gode grep, og de har på sine nettsider www.imdi.no samlet en rekke tips og gode eksempler for at kommunene skal lære av hverandre. På nettsiden omtales for eksempel ulike måter å organisere arbeidet, metoder, arbeidsretting av tiltak, tips for lederforankring i kommunen og for mål- og resultatstyring av kommunenes arbeid. KS ønsker også å bidra til å forbedre innhold og resultater i introduksjonsordningen gjennom aktiv bruk av dokumenterte eksempler på hva som fungerer bra i dag.
+
+1.  **Kompetanseheving**
+
+Kommunenes arbeid med introduksjonsprogrammet og opplæring i norsk og samfunnskunnskap holder ulik kvalitet, og kommunene legger ikke alltid inn de tiltakene i den enkeltes program eller opplæring som statistisk sett ser ut til å ha best effekt. Flere kommuner opplever at loven er vanskelig å praktisere blant annet fordi flere bestemmelser i loven forutsetter at kommunen må utøve skjønn. Dette kommer fram i en kunnskapsoppsummering fra Fafo[^76] og tilbakemeldinger fra kommunene til IMDi. Fylkesmennene har også i sitt tilsyn med kommunene funnet at de mangler kunnskap om regelverket. Kompetansen til de ansvarlige, det vil si programrådgivere i kommune eller veiledere i Arbeids- og velferdsetaten, lærere i voksenopplæringen og lederne på administrativt og politisk nivå i kommunen er avgjørende for at kommunenes arbeid er av høy kvalitet og resultatene er gode.
+
+I Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse* varslet regjeringen å innføre krav til faglig fordypning for lærere som underviser etter introduksjonsloven. Regjeringen styrket også mulighetene for kompetanseheving av lærere i 2016, blant annet gjennom å utvikle studieplaner for flere relevante studietilbud. Meldingen varslet også at det skal tilbys kompetansehevning til programrådgivere i introduksjonsprogrammet. IMDi har derfor fått i oppdrag å utvikle et helhetlig kompetansehevingsprogram for programrådgivere og andre relevante aktører.
+
+IMDi legger i sin kontakt med kommunene vekt på veiledning og formidling av gode eksempler *jf. anmodningsvedtak 439:6 (2015–2016).* Eksempler på tiltak som har som formål å bedre resultatoppnåelse i kommuner, er samarbeidsavtaler med kommunene, effektiviseringsnettverk i regi av KS, kompetansehevingstiltak, nettverkssamlinger og konferanser og formidling av forskningsbasert kunnskap. IMDi er også i gang med å utvikle et omfattende digitaliseringsprogram. En del av dette er utvikling av et nytt verktøy for statistikk om integrering på kommunenivå som ble lansert 1. februar 2016. Dette er tilgjengelig på deres nettside www.imdi.no. Dette verktøyet gjør viktige tall og informasjon lett tilgjengelig for kommunene og gjør det mulig med systematiske sammenlikninger mellom kommuner.
+
+Vox har ansvar for faglig og pedagogisk utvikling i norsk og samfunnskunnskap for voksne innvandrere og bidrar til å utvikle og spre gode undervisningsmetoder og læringsmateriell til bruk i opplæringen. Vox formidler kunnskap og veileder kommuner og andre samarbeidspartnere som arbeider med opplæring i norsk og samfunnskunnskap, og bidrar til kompetanseheving av lærere i opplæring i norsk og samfunnskunnskap. Mer informasjon finnes på Vox sin nettside www.vox.no.
+
+1.  **Bedre bruk og godkjenning av medbragt kompetanse**
+
+Mange innvandrere som bosetter seg i Norge har med seg utdanning og arbeidserfaring fra utlandet. Denne må benyttes bedre. Regjeringen arbeider kontinuerlig med å forenkle og forbedre godkjenningsordningene for utenlandske utdanninger og yrkeskvalifikasjoner. Dette er også kommet som innspill fra KS.
+
+Godkjenning av utdanninger og godkjenning av yrkeskvalifikasjoner inkluderer en rekke ordninger og involverte aktører. Utfordringer i systemet for å få godkjent medbrakt utdanning er omtalt i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse*. Der foreslår regjeringen en rekke tiltak som skal sørge for bedre og mer effektive godkjenningsordninger, *jf. anmodningsvedtak 440:2 (2015–2016).* Med disse tiltakene vil ansvaret for generell godkjenning av utenlandsk utdanning samles i ett kompetansemiljø, hos NOKUT (Nasjonalt organ for kvalitet i utdanningen). Den faglige saksbehandlingen av søknadene om godkjenning av lovregulerte yrker som krever autorisasjon vil fremdeles ligge hos de ulike etatene som har dette ansvaret i dag. Det er ikke krav om vurdering av NOKUT for å behandle disse søknadene. Regjeringen har også besluttet å etablere et felles informasjonspunkt og en felles nettportal for å levere søknader om yrkesautorisasjon.
+
+Regjeringen har ønsket et bedre kunnskapsgrunnlag om i hvilken grad innvandreres kompetanse blir brukt, *jf. anmodningsvedtak 441:8 (2015–2016).* På oppdrag for Justis- og beredskapsdepartementet har Fafo gjennomført en kunnskapsoppsummering for å samle og få oversikt over kunnskapen som finnes i dag om hva som gjør det vanskelig for innvandrere å komme inn og bli værende i arbeidslivet.[^77] Kunnskapsoppsummeringen tar for seg godkjenningsordninger for utenlandsk utdanning og diskriminerende barrierer i arbeidslivet.
+
+I tillegg skal det i 2016 settes i gang et forskningsprosjekt om veien fra gjennomført kompetansekartlegging i asylmottak og den videre gangen gjennom godkjenningssystemet, kvalifisering og utdanning og fram til arbeid.
+
+Kunnskapsdepartementet vil i 2016 gjennomføre analyser og oppsummeringer av tilgjengelig statistikk hos NOKUT og i utdanningssystemet for å få bedre kunnskap om hvilke effekter de økte ankomstene av asylsøkere får på godkjenningsordningene og etterspørsel etter høyere utdanning. Det er også viktig å følge denne statistikken over tid i og med at det er forventet at effektene vil øke etter hvert som innvandrere med fluktbakgrunn blir bosatt og kommer i gang med livet i Norge.
+
+Læring skjer på mange arenaer, og voksne kan tilegne seg kompetanse gjennom mange ulike aktiviteter som arbeid, etterutdanning, opplæring på arbeidsplassen, fritidsaktiviteter og annet. Realkompetanse er all den kompetansen som kommer i tillegg til den kompetansen som kan dokumenteres gjennom det formelle utdanningssystemet. Systemet for realkompetansevurdering er omtalt i Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse.*
+
+IMDi og NOKUT har i samarbeid med Utdanningsdirektoratet (Udir), Vox og Arbeids- og velferdsdirektoratet (AVdir) utviklet kompetansehevingstiltak om godkjenningsordninger for personer med utenlandsk utdanning. Målet er å øke kompetansen om godkjenning av utenlandsk utdanning for veiledere i førstelinjen. Dette har skjedd blant annet gjennom et e-læringsprogram[^78] og egne kurssamlinger i alle IMDi sine regioner.
+
+Det er de siste årene satt i verk en rekke tiltak for å bedre bruken av innvandreres medbrakte kompetanse, til dels som en videreføring av en handlingsplan lansert i 2013.[^79] IMDi forvalter en tilskuddsordning der virksomheter kan søke om støtte til mentor- og traineeordninger. Formålet med tilskuddsordningen er blant annet at personer med innvandrerbakgrunn kan få mulighet for innpass i arbeidslivet, karriereutvikling og bedre bruk av egen kompetanse, samt å styrke sine nettverk og få innsikt i nye arbeidsområder og virksomheter.
+
+Innvandrere i Norge som etablerer egne bedrifter, bidrar til verdiskapning i samfunnet. Regjeringen ønsker at det legges til rette for slik etablerervirksomhet. IMDi forvalter en tilskuddsordning, Tilskudd til etablereropplæring for innvandrere, hvor kommuner og fylkeskommuner kan søke støtte til å styrke og utvikle det ordinære tilbudet om etablereropplæring, slik at det kan legges bedre til rette for etablerervirksomhet for innvandrere. Som en del av denne ordningen gis det støtte til Norsk senter for flerkulturell verdiskapning for å videreutvikle sin virksomhet som et nasjonalt kompetansesenter for etablererveiledning for innvandrere.
+
+1.  **Karriereveiledning**
+
+Det kan være tidkrevende for voksne innvandrere å tilegne seg kunnskap om det norske samfunnet og forstå hvordan de kan bruke egen kompetanse for å komme inn på arbeidsmarkedet. Karriereveiledning er sentralt for at innvandrere med fluktbakgrunn skal få tatt i bruk den medbrakte kompetansen sin og få en stabil og varig tilknytning til arbeidslivet. Karriereveiledning gis av en rekke aktører: av programrådgivere i introduksjonsprogrammet, av lærere og rådgivere i voksenopplæringen, av veiledere ved lokale NAV-kontor og av de fylkesvise karrieresentrene.[^80] Karriereveiledning er råd om veien til og valg av utdanning og arbeid, men det er også en prosess der den enkelte blir mer bevisst sin egen kompetanse. Gjennom å gi innvandrere karriereveiledning tidlig kan de utnytte tiden bedre og bli bedre i stand til å ta mer informerte valg.
+
+De fylkesvise karrieresentrene vil få et utvidet oppdrag om å gjennomføre veiledning i mottak basert på kartlegging av kompetanse, *jf. amodningsvedtak 441:3 (2015–2016).* Veiledningen kan inneholde informasjon om alt fra krav og framgangsmåte for å kunne jobbe i ulike yrker i Norge, til framgangsmåte for godkjenning av medbrakt utdanning, tilbud om kompletterende utdanninger og muligheter for utdanning. Veiledningen skal også følges opp med tilbud om relevante kvalifiserende tiltak.
+
+Det offentlige utvalget som utreder hvordan karriereveiledningstilbudet kan styrkes, leverte sin hovedrapport i april 2016.[^81] Utvalget analyserer status og utfordringer i det samlede offentlige karriereveiledningstilbudet og foreslår tiltak med sikte på bedre tilgang til karriereveiledning for ulike målgrupper, styrket kvalitet i tjenestene og en mer effektiv ressursutnyttelse. Nyankomme innvandrere er en av målgruppene utvalget har sett særskilt på.
+
+1.  **Mer fleksibel bruk av dagens høyere utdanningssystem**
+
+Mange innvandrere med fluktbakgrunn som allerede har en utdanning, kan ha behov for mer utdanning for å kvalifisere seg til det norske arbeidsmarkedet. Dette gjelder særlig personer som har fått avbrutt sin påbegynte utdanning og personer som ikke får godkjent sin medbrakte utdanning for å arbeide i et gitt yrke. Det er behov for å bruke dagens utdanningssystem mer fleksibelt for å legge bedre til rette for å møte utdanningsbehovet til innvandrere med fluktbakgrunn, og for at de som har fått avbrutt sitt utdanningsløp skal få fortsette utdanningen sin i Norge, *jf.* *anmodningsvedtak 440:4 (2015–2016)*.
+
+Det kan ligge hindringer i lover og forskrifter som gjør tilgang til høyere utdanning for innvanderere med fluktbakgrunn vanskelig. Det kan imidlertid like gjerne være at praktiseringen av regelverket er for strengt når enkelte opplever systemet som rigid. I dag er variasjoner mellom institusjoner og fagområder stor. Kunnskapsdepartementet vil innhente informasjon om praksis i sektoren for å rydde unna både formelle hindringer og unødig streng praktisering. Departementet vil vurdere endringer i regelverket på bakgrunn av dette. Innvandrere som har studiekompetanse og fyller opptakskrav vil kunne søke ordinært opptak til høyere utdanning.
+
+Det er et problem for mange å dokumentere studiekompetanse. Den enkelte har selv ansvar for å dokumentere sine kvalifikasjoner etter beste evne. Der dette ikke er mulig, har Kunnskapsdepartementet gitt Samordna opptak anledning til å opprette et system med bakgrunnsdokument som beskrevet i Lisboakonvensjonen, supplert med annen tilgjengelig informasjon og en egenerklæring om at opplysningene som gis om tidligere utdanning og arbeidserfaring, er ekte og sannferdige. Denne ordningen legger bedre til rette for at innvandrere med fluktbakgrunn skal få muligheten til å bli vurdert for opptak til høyere utdanning også i tilfeller der de kan ha vanskelig for å dokumentere tidligere utdanning eller arbeidserfaring. Bruk av slikt bakgrunnsdokument innebærer kun en tilpasning til kravet om dokumentasjon av kvalifikasjoner. Alle søkere, også innvandrere med fluktbakgrunn, må oppfylle kravet om generell studiekompetanse og andre krav som følger av forskrift om opptak til høyere utdanning, før et universitet eller en høyskole gir søkere tilbud om studieplass.
+
+Hvor mange som vil søke opptak til høyere utdanning og innen hvilke fagområder, er det for tidlig å si noe om. Det sentrale er at universitets- og høgskolesektoren viser fleksibilitet i møte med innvandrere med fluktbakgrunn, samtidig som det sikres at studentene har tilstrekkelige forkunnskaper til å kunne mestre en høyere utdanning. Her er blant annet ferdigheter i norsk avgjørende.
+
+Enkelte lovregulerte yrker har definert krav til innhold og kompetansenivå for å få godkjenning til å utøve yrket i Norge. I dag må enkelte som har slik utdanning fra utlandet, og som ikke får autorisasjon eller godkjenning, gjennomgå en full ny utdanning i Norge fordi det ikke finnes kompletterende tilbud. Dette er lite effektivt både for den enkelte og for samfunnet. Regjeringen vil derfor etablere tilbud om kompletterende utdanning, i første rekke for lærere og sykepleiere. Formålet med dette tilbudet er at innvandrere skal kunne få et utdanningstilbud som er tilpasset det de kan fra før, og dermed raskere kunne komme opp på et kompetansenivå som gjør dem kvalifisert til å utøve disse yrkene i Norge. På bakgrunn av erfaringene med kompletterende utdanning for sykepleiere og lærere, vil Kunnskapsdepartementet vurdere å utvidet tilbudet til også å gjelde andre utdanninger rettet mot yrker som er lovregulert i Norge.
+
+I forbindelse med at det kom mange innvandrere med fluktbakgrunn til Norge høsten 2015, har flere universiteter og høgskoler startet en såkalt akademisk dugnad. Det er etablert tilpassede utdanningstilbud, arrangert informasjonsmøter og fått i stand mentorordninger slik at innvandrere med fluktbakgrunn som studerer i Norge lettere kan bli en del av studiemiljøene. I tillegg er det gjennomført tiltak rettet mot forskere slik at de kan fortsette sin akademiske karriere i Norge. For å forenkle informasjonstilgangen både for innvandrerne selv og for relevante aktører, har Universitets- og høgskolerådet (UHR) fått en koordinerende rolle. Det er etablert en felles nettside for et nettverk av institusjoner.
+
+1.  **Styrket samarbeid med private og offentlige arbeidsgivere**
+
+Regjeringen vil gjøre det lettere for private og offentlige arbeidsgivere å samarbeide med kommunene om tiltak som forbereder deltakere i grunnleggende kvalifisering for deltakelse i arbeidslivet*, jf. anmodningsvedtak 441:7 og anmodningsvedtak 440:3 (2015–2016)*. Samarbeid med private og offentlige arbeidsgivere lokalt og regionalt kan gi kommunene muligheter til å innrette både opplæring i norsk og samfunnskunnskap, introduksjonsprogrammet og Jobbsjansen til det lokale behovet for arbeidskraft og kompetanse. For private og offentlige arbeidsgivere ligger det et uutnyttet potensiale i å bidra til å kvalifisere innvandrere for å dekke eget behov for arbeidskraft. Nærhet og kjennskap til arbeidslivet lokalt og regionalt er en forutsetning for et slikt samarbeid. Kommunene må legge til rette for at arbeidsgivere kan bidra. Dette forutsetter forutsigbarhet, trygghet, tett kontakt, lav grad av byråkrati og at kommunen formidler rett kandidat til rett praksisplass. Kommunene skal også samarbeide med Arbeids- og velferdsetaten som kan bidra med kompetanse om arbeidsmarkedet, kontakt med arbeidsgivere og som kan tilby bistand med formidling og rekruttering ved behov.
+
+1.  **Internasjonale Drammen**
+
+Internasjonale Drammen er et samarbeidsprosjekt mellom næringslivet, det offentlige og frivillig sektor. Initiativet kommer fra næringslivet selv og Næringsforeningen i Drammensregionen drifter prosjektet. Målet er at flere hundre bedrifter skal rekruttere utradisjonelt. Bedriftslederne skal være aktive medspillere. Prosjektlederen skal først og fremst jobbe i næringslivet, men også være et viktig bindeledd mot Arbeids- og velferdsetaten, kommunen og andre aktører. At næringslivet er drivkraften bak gjør at det ligger en garanti for at bedriftenes behov, krav og kultur er sentrale momenter i rekrutteringsprosessen. Bedriftene som blir «deltagere» i prosjektet skal få relevant informasjon og kunnskap til å se alle innbyggerne som potensielle medarbeidere, bli inspirert til å tenke utradisjonelt og til å oppdage at forskjellighet i staben er en berikelse for miljøet og en verdi for bedriften. Internasjonale Drammen ble lansert i februar 2016, og har som mål at 500 bedrifter i Drammensregionen velger å ansette 1 000 personer med innvandrerbakgrunn innen 2020, at Drammen skal være et romsligere samfunn med et mer inkluderende arbeidsliv og at Drammen utvikler en langsiktig og bærekraftig integreringsstruktur.
+
+**Rammeslutt**
+
+Kommunen er også selv en stor arbeidsgiver og bør forplikte alle egne tjenesteområder til å tilby praksis for deltakere i introduksjonsprogrammet og opplæring i norsk og samfunnskunnskap. Erfaringer fra både IMDi og Vox viser at det er viktig med tett og tilpasset oppfølging av, og bistand til, både deltakere og arbeidsgiver. Deltakere må få den opplæring de trenger, og arbeidsgiverne må få tilstrekkelig oppfølging slik at de kan tilby deltakerne et best mulig opplegg.
+
+Flere kommuner har allerede i dag gode erfaringer med samarbeid med store næringsaktører lokalt. Regjeringen vil støtte opp under næringslivets rolle i integreringsarbeidet. Forslag til hvordan det best kan legges til rette for dette vil bli drøftet i samarbeidet med partene i arbeidslivet.
+
+IMDi skal spre de gode erfaringene fra eksisterende samarbeid med aktører i næringslivet og enkeltkommuner. IMDi skal være et bindeledd mellom kommunene og næringsaktører. De skal legge til rette for at næringsaktører som ønsker å bidra med praksisplasser eller andre tilbud som er aktuelle for deltakere i introduksjonsprogram eller opplæring i norsk og samfunnskunnskap, lett kan komme i kontakt med aktuelle kommuner.
+
+1.  **Samarbeid gjennom Arbeidslivs- og pensjonspolitisk råd**
+
+Arbeidslivs- og pensjonspolitisk råd ble opprettet i 2004 som et samarbeidsforum mellom regjeringen ved arbeidsministeren og de åtte største hovedorganisasjonene i arbeidslivet. Rådet skal ha dialog om sentrale utfordringer i arbeidslivs- og pensjonspolitikken. I 2016 ble det nedsatt en egen arbeidsgruppe under rådet som skal vurdere tiltak for å få innvandrere med fluktbakgrunn raskere i arbeid. Gruppen ble nedsatt blant annet på bakgrunn av initiativ fra partene i arbeidslivet selv, og som en oppfølging av anmodningsvedtak i Stortinget, *jf. anmodningsvedtak 440:3, anmodningsvedtak 441:1 og anmodningsvedtak 441:2 (2015–2016).*
+
+Vilkår og regler i arbeidslivet blir i stor grad bestemt av partene og myndighetene. Det er derfor viktig at partene deltar i vurderingene av hvilken rolle arbeidslivet kan ha, generelle rammebetingelser og behovet for endringer som kan bidra til at innvandrere med fluktbakgrunn kommer raskere i arbeid.
+
+Samarbeidet tar utgangspunkt i at tiltakene som utvikles først og fremst skal bygge videre på eksisterende tiltak og ordninger, og at det bør brukes universelle virkemidler som potensielt kan gjelde for alle som står utenfor arbeidslivet. Arbeidsgruppen vil vurdere hvordan arbeidslivet i større grad kan legge til rette for å gi flere muligheter i arbeidsmarkedet. Gruppen vil se nærmere på muligheter for de innvandrerne som har med seg en kompetanse som er etterspurt i arbeidslivet. Det vil blant annet bli vurdert hvilke virkemidler eller kombinasjoner av virkemidler som mest effektivt kan bidra til en raskere overgang til arbeid og selvforsørgelse. Det kan for eksempel skje gjennom å senke terskelen inn i arbeidslivet ved å redusere arbeidsgivers risiko og kostnader. I den forbindelse vil det være særlig aktuelt å vurdere å øke bruken av lønnstilskudd. Lønnstilskudd er et arbeidsmarkedstiltak som kan tilpasses ulike grupper av arbeidssøkere, og som allerede er et prioritert tiltak innenfor arbeidsmarkedspolitikken. Også andre tiltak og kombinasjoner av tiltak, som for eksempel norskopplæring kombinert med arbeidstrening, vil være aktuelle.
+
+Saken skal behandles i Arbeidslivs- og pensjonspolitisk råd våren 2016.
+
+1.  **Grunnleggende kvalifisering for flere grupper**
+
+Regjeringen vil øke sysselsettingen blant innvandrere som er uten tilknytning til arbeidslivet, som ikke er omfattet av andre ordninger eller som trenger tilrettelagte opplæringsløp. Regjeringen vil videreføre ordningen Jobbsjansen, men endre innretningen. Flere grupper skal få styrkede kvalifikasjoner for å delta i arbeidslivet, bedre ferdigheter i norsk og bedre innsikt i norsk samfunnsliv slik at de får grunnlag for en varig tilknytning til arbeidslivet, overgang til utdanning og økonomisk selvhjulpenhet, *jf. anmodningsvedtak 441:6 og anmodningsvedtak 441:10 (2015–2016).*
+
+Selv om det er gjennomført flere studier av Ny sjanse og Jobbsjansen, er det likevel behov for en helhetlig evaluering av ordningen. Formålet med en slik evaluering bør blant annet være å vurdere hvordan innsatsen for innvandrere som står langt fra arbeidsmarkedet og som ikke er omfattet av andre ordninger, bør innrettes i tiden framover.
+
+Unge mellom 18 og 25 år, sosialhjelpsmottakere og mottakere av overgangsstønad har fram til nå vært målgrupper for Jobbsjansen. Dette er grupper som bør kunne omfattes av andre ordninger for eksempel i utdanningssystemet eller i arbeids- og velferdsforvaltningen, og de skal derfor ikke lenger få tilbud om kvalifisering gjennom Jobbsjansen.
+
+Regjeringen ønsker i den endrede innrettingen å dele ordningen i tre deler med tre ulike målgrupper.
+
+1.  **Jobbsjansen for hjemmeværende kvinner**
+
+Regjeringen vil fortsatt prioritere hjemmeværende kvinner som har innvandret og som ikke mottar sosialhjelp som en av målgruppene i Jobbsjansen. Det er viktig å videreføre arbeidet med å få flere kvinner i denne gruppen i arbeid eller utdanning. Systematikken i Jobbsjansen med individuell tilrettelegging og tett oppfølging har vist seg som et vellykket grep for å få til nettopp dette. Manglende tilknytning til arbeidslivet er den viktigste årsaken til fattigdom, og derfor ble Jobbsjansen styrket som en del av regjeringens strategi mot barnefattigdom.
+
+1.  **Jobbsjansen**
+
+Jobbsjansen er utarbeidet etter modell av introduksjonsordningen, og er en videreføring av forsøksordningen Ny Sjanse som startet opp i 2005. Formålet med ordningen er å øke sysselsettingen blant innvandrere som er uten tilknytning til arbeidslivet, og som ikke er omfattet av andre ordninger. Tilskudd til forsøk i kommunene bevilges i statsbudsjettet, og ordningen forvaltes av IMDi. I budsjettet for 2016 er det bevilget 97 millioner kroner til ordningen. En del av bevilgningen skal brukes til dokumentasjon av metoder. Tilskuddet til ordningen har blitt mer enn tredoblet siden 2012, og i 2016 ble ordningen styrket med 10 millioner kroner som en del av regjeringens strategi mot barnefattigdom.<sup>1</sup> Prioriterte målgrupper er hjemmeværende kvinner og familiegjenforente kvinner til norske og nordiske statsborgere i lavinntektsfamilier.
+
+Av de 542 deltakerne som avsluttet i 2014, gikk 55 prosent over til arbeid eller utdanning. Dette er 5 prosent under den nasjonale målsettingen for ordningen. Deltakere som hadde mentor/fadder på arbeidsplassen, praksis i ordinær virksomhet og opplæring for å få godkjent utdanning hadde høyere måloppnåelse enn andre. Det samme gjelder deltakere i prosjekter med fokus på tidlig utplassering og tett oppfølging og med god ledelsesforankring.
+
+En samfunnsøkonomisk analyse utført av Proba<sup>2</sup> viste at Ny sjanse var samfunnsøkonomisk lønnsomt. I tillegg er det en rekke positive faktorer som ikke umiddelbart lar seg måle, for eksempel at foreldres yrkesaktivitet påvirker barnas fremtidige yrkesaktivitet. IMDi har også utgitt en rekke rapporter om metoder i og resultatene av Ny sjanse. Erfaringer fra Ny sjanse og Jobbsjansen har viktig overføringsverdi til kommunenes arbeid med introduksjonsprogrammet og annet kvalifiseringsarbeid i regi av arbeids- og velferdsforvaltningen.
+
+<sup>1</sup> Strategi *Barn som lever i fattigdom (2015–2017)*
+
+<sup>2</sup> Proba samfunnsanalyse 2012 a
+
+**Rammeslutt**
+
+1.  **Særskilte opplæringstiltak for ungdom**
+
+Regjeringen har foreslått å endre opplæringsloven slik at kommuner og fylkeskommuner kan tilby mer grunnskoleopplæring til ungdom som har behov for det. Formålet er blant annet at de som har kort botid i Norge og som har rett til videregående opplæring, men som ikke har det faglige grunnlaget som er nødvendig, skal kunne få bedre forutsetninger for å fullføre videregående opplæring. Dette vil kunne motvirke frafall i videregående opplæring. En slik modell er prøvd ut ved Thor Heyerdahl videregående skole i Larvik med gode resultater, jf. boks 7.2. Ålesund har også en tilsvarende modell, jf. boks 5.7.
+
+Regjeringen vil åpne for at kommunene kan søke om midler for å legge til rette for slike tilbud om mer grunnskoleopplæring for ungdom som har behov for det.
+
+1.  **Klasse 11 i Ålesund kommune**
+
+I 2010/2011 startet Ålesund kommune prosjektet «Klasse 11»». Målgruppen har vært innvandrere med fluktbakgrunn, barn av arbeidsinnvandrere og andre minoritetsspråklige elever i grunnskolealder. Bakgrunnen var at enkelte elever begynner i videregående skole uten å ha en realistisk mulighet for å kunne gjennomføre et løp, de videregående skolene i region var lite forberedte på disse elevenes spesielle utfordringer, og at det derfor kunne være behov for et spesialdesignet skoleforberedende tiltak. Målsetting var å finne en løsning på hvordan man kan tette kunnskapshullene mange minoritetsspråklige elever har, slik at de kan oppnå en fullverdig grunnskoleeksamen. Et ekstra skoleår med målsetning om at elevene skulle opp til en «5-fags-eksamen» etter intensivopplæring i norsk, matematikk, engelsk, naturfag og samfunnsfag ble opprettet.
+
+Etter 3 år med «Klasse 11»», ser kommunen at minoritetsspråklige elever som skal lykkes i videregående opplæring har behov for en kvalitetssikret opplæring. Erfaringene fra prosjektet viser at det er nødvendig med tett og god faglige oppfølging i henhold til grundig forberedte realistiske mål. Noen av resultatene fra prosjektet har vært:
+
+- Elevenes resultater er blitt gradvis bedre for hvert prosjektår.
+
+- Kommunen har fått satt søkelyset på denne elevgruppen både internt i kommunen og i fylkeskommunen/ de involverte videregående skolene.
+
+- De har lært mye om kommunikasjon med disse elevene og deres foresatte, ikke minst at det er viktig å begynne tidlig med dialog om hva som skal skje etter 10.klasse.
+
+- Det er tungt å få andre myndighetsnivå inn i et lokalt prosjekt, selv om prosjektet gjelder elever i en aldersgruppe som andre har ansvar for.
+
+**Rammeslutt**
+
+1.  **Lengre programtid for deltakere i introduksjonsprogrammet**
+
+Regjeringen vil prøve ut forsøk med utvidet programtid for deltakere i introduksjonsprogrammet som har behov for det for å komme i arbeid eller utdanning innenfor rammene av Jobbsjansen. Slik vil det bli flere muligheter for individuell tilrettelegging. I dag følger det av introduksjonsloven at programmet skal vare så lenge den enkelte har behov for det, inntil to år. Når særlige grunner taler for det kan programmet vare inntil tre år. En mulighet til å forlenge programmet til inntil fire år vil særlig være aktuelt for deltakere med liten eller ingen skolebakgrunn og som derfor ikke kommer i arbeid eller utdanning innenfor rammen av introduksjonsprogrammet. Det kan også være aktuelt for deltakere som har startet i grunnskole eller videregående opplæring som en del av introduksjonsprogrammet, og som har behov for lenger programtid for å kunne fullføre den skolegangen de har startet. Kommunene kan søke om prosjektmidler for å ta deltakere i introduksjonsprogram som trenger utvidet programtid i inntil 4 år, direkte over i Jobbsjansen.
+
+1.  **Generelle ordninger for kvalifisering til og deltakelse i arbeidslivet**
+
+Introduksjonsprogrammet og opplæring i norsk og samfunnskunnskap er særskilte kvalifiseringsordninger for nyankomne innvandrere. Det finnes i tillegg en rekke generelle ordninger og tiltak som innvandrere har tilgang til på lik linje med andre innbyggere.
+
+Det norske samfunnet og arbeidslivet kjennetegnes av høy yrkesdeltakelse og en befolkning med høy kompetanse. Likevel står en betydelig andel av befolkningen utenfor eller i fare for å falle utenfor arbeidslivet, og arbeidsledigheten øker. Det er viktig at arbeidsstyrken har en kompetanse som bidrar til nødvendig omstillingsevne. Det økte antallet innvandrere med fluktbakgrunn innebærer større etterspørsel etter opplæring og effektive ordninger tilpasset målgruppen.
+
+I Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse* er det allerede fremmet en rekke tiltak som til sammen skal skape bedre tilgang til opplæring for voksne og et bedre grunnlag for samarbeid mellom utdannings-, integrerings- og arbeidsmarkedsmyndighetene.
+
+1.  **Grunnskole og videregående opplæring for voksne**
+
+Mange voksne har behov for mer opplæring eller utdanning for å få en stabil tilknytning til arbeidslivet. Rett til grunnskoleopplæring for voksne ble innført i 2002 for å gi ny mulighet til voksne som ikke har fullført obligatorisk skolegang, som ikke har fått fullt utbytte av skolen eller som av andre grunner har behov for slik opplæring. Retten omfatter voksne som har lovlig opphold i landet, som er over opplæringspliktig alder, og som ikke har rett til videregående opplæring for ungdom.
+
+Rett til videregående opplæring for voksne ble innført i 2000. Retten inntrer fra det året den voksne fyller 25 år og gjelder personer som har lovlig opphold, og som tidligere ikke har fullført videregående opplæring. En stor andel av de som avlegger fag- og svenneprøve hvert år, er voksne. At voksne har gode muligheter til å ta fag- og yrkesopplæring, er viktig for at arbeidslivet skal få dekket sine kompetansebehov.
+
+Både grunnskoleopplæring og videregående opplæring for voksne skal tilpasses den enkeltes behov. Dette innebærer tilpasning både til den faglige kompetansen og til tidspunkt for opplæring, tempo, fjernundervisning med mer. Som en del av tilpasningen av opplæringstilbudet, kan voksne med et annet morsmål enn norsk og samisk ha rett til særskilt språkopplæring, herunder morsmålsopplæring og tospråklig opplæring, dersom dette er nødvendig for at de skal få et forsvarlig utbytte av opplæringen. Det finnes en egen stipendordning i Statens lånekasse for utdanning for flyktninger som tar grunnskoleopplæring eller videregående opplæring.
+
+Deltakere i grunnskoleopplæring og videregående opplæring for voksne har rett til å få vurdert sin realkompetanse. Realkompetanse er kompetanse som er ervervet gjennom formell opplæring, arbeid og deltakelse på andre samfunnsarenaer.
+
+Fullført og bestått videregående opplæring er et viktig grunnlag for videre utdanning eller jobb. I Norge er det et betydelig antall voksne som ikke har gjennomført videregående opplæring. I aldersgruppen 25–66 år er det om lag 560 000 personer som har grunnskole som høyeste fullførte utdanning. Dette tilsvarer en andel på 20 prosent av befolkningen i denne aldersgruppen. I tillegg er det noen få, rundt 11 000 personer, i aldersgruppen 25–66 år som ikke har noen utdanning. Dette er i all hovedsak innvandrere.

@@ -1,1023 +1,616 @@
-# Prop. 61 LS (2019–2020), del 7 av 9 (side 72–82)
+# Prop. 61 LS (2019–2020), del 7 av 10
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/proposisjoner/2020/391c5311-prop-61-ls-20192020.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/prop.-61-ls-20192020/id2696084/
 - Original-PDF: https://www.regjeringen.no/contentassets/915047f040474498831a618eec52239f/no/pdfs/prp201920200061000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 110 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 72]
+37\) «montert permanent» festet med bolter, eller fastmontert effektivt på annen måte, slik at den ikke kan fjernes uten bruk av verktøy eller utstyr, i et fundament eller et alternativt festepunkt med det formål å sørge for at motoren brukes på ett enkelt sted i en bygning, en konstruksjon, et anlegg eller en installasjon,
 
-70
+38\) «snøscooter» en motordrevet maskin som er beregnet på terrengkjøring, hovedsakelig på snø, som drives av belter som er i kontakt med snøen, og styres ved hjelp av ski som er i kontakt med snøen, og som har en største egenvekt i driftsferdig stand på 454 kg (herunder standardutstyr, kjølevæske, smøremidler, drivstoff og verktøy, men uten tilleggsutstyr og føreren),
 
-Prop. 61 LS
+39\) «terrenggående kjøretøy» eller «ATV» et motorisert kjøretøy som drives fram av en motor og hovedsakelig er beregnet på kjøring på flater uten dekke på fire eller flere hjul med lavt dekktrykk, og som er konstruert med et sadelsete bare til føreren eller konstruert med et sadelsete til føreren og et sete til høyst én passasjer, samt et styre til styring,
 
-2019–2020
+40\) «side-ved-side-kjøretøy» eller «UTV» et motordrevet, førerbetjent kjøretøy uten ledd som hovedsakelig er beregnet på kjøring på flater uten dekke på fire eller flere hjul, med en minste egenvekt i driftsferdig stand på 300 kg (herunder standardutstyr, kjølevæske, smøremidler, drivstoff og verktøy, men uten tilleggsutstyr og føreren) og med en høyeste konstruksjonshastighet på 25 km/t eller mer; et slikt kjøretøy er også konstruert for transport av passasjerer og/eller gods og/eller for å trekke og skyve utstyr, det styres med en annen styreinnretning enn et styre, er konstruert for fritids- eller nyttebruk og har plass til høyst seks personer, herunder føreren, som sitter ved siden av hverandre på ett eller flere seter som ikke er sadelseter,
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+41\) «jernbanekjøretøy» en ikke-veigående mobil maskin som utelukkende brukes på jernbanespor,
 
-4.
+42\) «lokomotiv» et jernbanekjøretøy som er konstruert for enten direkte gjennom egne hjul eller indirekte gjennom hjulene på andre jernbanekjøretøyer å gi framdriftskraft til egen framdrift og framdrift av andre jernbanekjøretøyer som er konstruert for transport av gods, passasjerer og annet utstyr, men som selv ikke er konstruert for eller beregnet på å transportere gods eller passasjerer, unntatt de personene som fører det,
 
-5.
+43\) «skinnegående motorvogn» et jernbanekjøretøy som er konstruert for enten direkte gjennom egne hjul eller indirekte gjennom hjulene på andre jernbanekjøretøyer å gi framdriftskraft til egen framdrift, og som er særlig konstruert for transport av gods eller passasjerer, eller både gods og passasjerer, og ikke er et lokomotiv,
 
-6.
+44\) «vedlikeholdskjøretøy til jernbanedrift» et jernbanekjøretøy som ikke er en skinnegående motorvogn eller et lokomotiv, og som omfatter, men ikke er begrenset til et jernbanekjøretøy som er særlig konstruert for å utføre vedlikehold eller byggearbeid eller løfteoperasjoner i forbindelse med sporet eller annen jernbaneinfrastruktur,
 
-7.
+45\) «mobil kran» en selvdrevet utliggerkran som kan kjøre på vei eller i terrenget, eller begge deler, og som holdes stabil gjennom tyngdekraften og beveger seg ved hjelp av dekk, belter eller andre mobile innretninger,
 
-8.
+46\) «snøfreser» en selvdrevet maskin som utelukkende er konstruert for snørydding fra flater med fast dekke ved å samle opp en mengde snø og slynge den med stor kraft ut av et rør,
 
-9.
+47\) «gjøre tilgjengelig på markedet» enhver levering av en motor eller en ikke-veigående mobil maskin for distribusjon eller bruk på unionsmarkedet i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,
 
-representativ for motortypen eller eventuelt for
-den representative motoren i motorfamilien
-som skal godkjennes, kombinerer en rekke av
-de mest ufordelaktige egenskapene med hensyn til det ytelsesnivået som kreves. Virtuelle
-prøvingsmetoder kan brukes som hjelp til å
-treffe beslutning under utvelgingsprosessen.
-De prøvingssyklusene som skal brukes ved
-prøvingene for EU-typegodkjenning, er angitt i
-vedlegg IV. Prøvingssyklusene som skal brukes for hver motortype som omfattes av EUtypegodkjenningen, skal angis i opplysningsdokumentet.
-En motor som er representativ for motortypen
-eller eventuelt for den representative motoren
-i motorfamilien, eller en motor som er utvalgt i
-samsvar med nr. 3 annet ledd, skal prøves på
-et dynamometer ved hjelp av den gjeldende
-stasjonære prøvingssyklusen for motorer i
-ikke-veigående mobile maskiner som er angitt
-i tabell IV-1 til IV-10 i vedlegg IV. Produsenten
-kan velge å utføre prøvingen ved hjelp av
-prøvingsmetoden med enkeltfaser eller med
-ramper. Unntatt i tilfellene nevnt i nr. 7 og 8
-trenger en motor med variabelt turtall i en
-bestemt kategori som brukes til drift med konstant turtall i samme kategori, ikke prøves ved
-hjelp av den gjeldende stasjonære prøvingssyklusen for konstant turtall.
-Dersom en motor med konstant turtall har en
-turtallsregulator som kan stilles inn på et alternativt turtall, skal kravene i nr. 5 være oppfylt
-for hvert gjeldende konstante turtall, og turtallene som gjelder for hver motortype, skal
-angis i opplysningsdokumentet.
-For en motor i kategori IWP som er beregnet
-på drift med både variabelt turtall og konstant
-turtall, skal kravene i nr. 5 være oppfylt for
-hver enkelt gjeldende stasjonære prøvingssyklus, og hver stasjonære prøvingssyklus der
-disse kravene er oppfylt, skal angis i opplysningsdokumentet.
-For en motor i kategori IWP som er beregnet
-på bruk i stedet for en motor i kategori IWA i
-samsvar med artikkel 4 nr. 2, skal kravene i nr.
-5 i denne artikkel være oppfylt for hver gjeldende stasjonære prøvingssyklus angitt i
-tabell IV-5 og IV-6 i vedlegg IV, og hver stasjonære prøvingssyklus der disse kravene er oppfylt, skal angis i opplysningsdokumentet.
-Bortsett fra motorer som er typegodkjent i
-henhold til artikkel 34 nr. 5 og 6, skal motorer
-med variabelt turtall i kategori NRE med en
-nettoeffekt på minst 19 kW, men høyst 560 kW,
-i tillegg til å oppfylle kravene i nr. 5 i denne
+48\) «bringe i omsetning» første gang en motor eller en ikke-veigående mobil maskin gjøres tilgjengelig på unionsmarkedet,
 
-artikkel også prøves på et dynamometer ved
-hjelp av den variable prøvingssyklusen som er
-angitt i tabell IV-11 i vedlegg IV.
-10. Motorer i underkategori NRS-v-2b og NRS-v-3
-med et høyeste turtall på 3 400 o/min eller
-lavere, skal i tillegg til å oppfylle kravene i nr. 5
-også prøves på et dynamometer ved hjelp av
-den variable prøvingssyklusen som er angitt i
-tabell IV-12 i vedlegg IV.
-11. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som
-utfyller denne forordning ved å fastsette nærmere tekniske spesifikasjoner og egenskaper
-for stasjonære og variable prøvingssykluser
-nevnt i denne artikkel, herunder den tilsvarende metoden for å fastsette innstillinger for
-motorens belastning og turtall. Disse delegerte rettsaktene skal vedtas innen 31. desember 2016.
-12. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter et felles format for
-prøvingsrapporten som kreves for EU-typegodkjenning. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016
-etter framgangsmåten med forskriftskomité
-nevnt i artikkel 56 nr. 2.
-Artikkel 25
-Gjennomføring av målinger og prøvinger for
-EU-typegodkjenning
-1. De endelige prøvingsresultatene for eksosutslipp fra motorer som er omfattet av denne forordning, skal beregnes ved å anvende alle de
-følgende på laboratorieprøvingsresultatene:
-a) Utslippene av veivhusgasser dersom dette
-kreves i henhold til nr. 3, og dersom de ikke
-allerede inngår i laboratoriemålingen.
-b) Alle nødvendige justeringsfaktorer dersom
-dette kreves i henhold til nr. 3, og dersom
-motoren har et regenereringssystem for
-etterbehandling av eksos.
-c) Forringelsesfaktorer for utslippsperiodene
-som er angitt i vedlegg V, for alle motorer.
-2. Prøvingen av en motortype eller motorfamilie
-for å avgjøre om den overholder utslippsgrensene som er fastsatt i denne forordning, skal
-utføres ved å bruke følgende referansedrivstoffer eller drivstoffkombinasjoner etter hva
-som er relevant:
-a) Diesel.
-b) Bensin.
-c) Bensin/olje-blanding for totaktsmotorer
-med elektrisk tenning.
-d) naturgass/biometan.
+49\) «produsent» enhver fysisk eller juridisk person som er ansvarlig overfor godkjenningsmyndigheten for alle aspekter ved motorens EU-typegodkjenning eller tillatelser og for å sikre produksjonssamsvar for motoren, og som også er ansvarlig for markedstilsyn når det gjelder de produserte motorene, uavhengig av om de er direkte involvert i alle etapper av utformingen og konstruksjonen av motoren som er omfattet av EU-typegodkjenningsprosessen,
 
-[Side 73]
+50\) «produsentens representant» eller «representanten» enhver fysisk eller juridisk person etablert i Unionen som produsenten har behørig utpekt ved skriftlig fullmakt til å representere denne på områder som gjelder godkjenningsmyndigheten eller markedstilsynsmyndigheten, og til å opptre på dennes vegne på de områdene som omfattes av denne forordning,
 
-2019–2020
+51\) «importør» enhver fysisk eller juridisk person etablert i Unionen som bringer en motor fra en tredjestat i omsetning, uavhengig av om motoren allerede er montert i en ikke-veigående mobil maskin,
 
-Prop. 61 LS
+52\) «distributør» enhver fysisk eller juridisk person i forsyningskjeden, utenom produsenten eller importøren, som gjør en motor tilgjengelig på markedet,
 
-71
+53\) «markedsdeltaker» produsenten, produsentens representant, importøren eller distribu-tøren,
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+54\) «produsent av originalt utstyr» eller «OEM-produsent» enhver fysisk eller juridisk person som produserer ikke-veigående mobile maskiner,
 
-e) Flytende petroleumsgass (LPG).
-f) Etanol.
-Motortypen eller motorfamilien skal dessuten overholde grensene for eksosutslipp som
-er fastsatt i denne forordning for alle andre
-spesifiserte drivstoffer, drivstoffblandinger
-eller drivstoffemulsjoner som en produsent har
-tatt med i en søknad om EU-typegodkjenning,
-og som er beskrevet i opplysningsmappen.
-3. Ved målinger og prøvinger skal de tekniske
-kravene være oppfylt med hensyn til
-a) apparater og framgangsmåter for å utføre
-prøvinger,
-b) apparater og framgangsmåter for å måle
-utslipp og ta prøver,
-c) metoder for å vurdere og beregne data,
-d) metoder for å fastsette forringelsesfaktorer,
-e) for motorer i kategori NRE, NRG, IWP,
-IWA, RLR, NRS, NRSh, SMB og ATS som
-overholder utslippsgrensene i trinn V angitt
-i vedlegg II:
-i) metoder for å ta hensyn til utslipp av
-veivhusgasser,
-ii) metoder for å bestemme og ta hensyn til
-kontinuerlig regenerering eller uregelmessig regenerering av systemer for
-etterbehandling av eksos,
-f) for elektronisk styrte motorer i kategori
-NRE, NRG, IWP, IWA, RLL og RLR som
-overholder utslippsgrensene i trinn V angitt
-i vedlegg II, og som bruker elektronisk styring til å bestemme både mengde og tidspunkt for innsprøyting av drivstoff eller
-bruker elektronisk styring til å aktivere,
-deaktivere eller tilpasse utslippskontrollsystemet som brukes til å redusere NOx:
-i) utslippskontrollstrategier,
-herunder
-dokumentasjonen som kreves for å
-godtgjøre disse strategiene,
-ii) NOx-kontrolltiltak, herunder metoden
-som brukes til å godtgjøre disse kontrolltiltakene,
-iii) området som er knyttet til den relevante
-stasjonære prøvingssyklusen for motorer i ikke-veigående mobile maskiner,
-der det kontrolleres hvor mye utslippene kan overskride utslippsgrensene
-angitt i vedlegg II,
-iv) den tekniske instansens valg av ytterligere målepunkter innenfor kontrollområdet under utslippsprøvingen i
-prøvingsbenk.
-4. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som
-utfyller denne forordning ved å fastsette
+55\) «godkjenningsmyndighet» den myndigheten i en medlemsstat som medlemsstaten har opprettet eller utpekt og meldt til Kommisjonen, og som er vedkommende myndighet med hensyn til
 
-a) metoden for å tilpasse laboratorieprøvingsresultatene for utslipp slik at de omfatter
-forringelsesfaktorene nevnt i nr. 1 bokstav
-c),
-b) de tekniske egenskapene for referansedrivstoffene som er nevnt i nr. 2, og eventuelt
-kravene til beskrivelse av andre spesifiserte
-drivstoffer, drivstoffblandinger eller drivstoffemulsjoner som er beskrevet i opplysningsmappen,
-c) de detaljerte tekniske kravene og egenskapene for målingene og prøvingene som
-er nevnt i nr. 3,
-d) metoden som brukes til å måle partikkelantall, idet det tas hensyn til spesifikasjonene
-som er angitt i endringsserie 06 til UN-ECEreglement nr. 49,
-e) detaljerte tekniske krav til prøving av dobbeltdrivstoffmotorer eller enkeltdrivstoffmotorer som bruker gassformig drivstoff,
-som nevnt i vedlegg II.
-Disse delegerte rettsaktene skal vedtas
-innen 31. desember 2016.
-Artikkel 26
-Tiltak for produksjonssamsvar
-1. En godkjenningsmyndighet som har gitt en EUtypegodkjenning, skal for denne EU-typegodkjenningen treffe de nødvendige tiltakene for å
-kontrollere, om nødvendig i samarbeid med
-godkjenningsmyndighetene i de andre medlemsstatene, at det er tatt nødvendige forholdsregler for å sikre at motorene i produksjon vil
-være i samsvar med den godkjente typen med
-hensyn til kravene i denne forordning.
-2. En godkjenningsmyndighet som har gitt en
-EU-typegodkjenning, skal for denne EU-typegodkjenningen treffe de nødvendige tiltakene
-for å kontrollere at samsvarserklæringer
-utstedt av produsenten er i samsvar med artikkel 31.
-3. En godkjenningsmyndighet som har gitt en
-EU-typegodkjenning, skal for denne EU-typegodkjenningen treffe de nødvendige tiltakene
-for å kontrollere, om nødvendig i samarbeid
-med godkjenningsmyndighetene i de andre
-medlemsstatene, at forholdsreglene nevnt i nr.
-1 i denne artikkel fortsatt er tilstrekkelige, slik
-at motorer i produksjon fortsatt er i samsvar
-med den godkjente typen, og at samsvarserklæringene dersom det er relevant, fortsatt
-er i samsvar med artikkel 31.
-4. For å kontrollere at en motor er i samsvar med
-den godkjente typen, kan godkjenningsmyn-
+a\) alle sider ved EU-typegodkjenning av en motortype eller en motorfamilie,
 
-[Side 74]
+b\) godkjenningsprosessen,
 
-72
+c\) å utstede og eventuelt tilbakekalle eller nekte EU-typegodkjenning og utstede EU-typegodkjenningsdokumenter,
 
-Prop. 61 LS
+d\) å fungere som kontaktpunkt for godkjenningsmyndighetene i andre medlemsstater,
 
-2019–2020
+e\) å utpeke de tekniske instansene og
 
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
+f\) å sikre at produsenten oppfyller forpliktelsene sine med hensyn til produksjonssamsvar,
 
-digheten som har gitt EU-typegodkjenningen,
-utføre de kontrollene eller prøvingene som
-kreves for EU-typegodkjenning, på prøver tatt
-i produsentens lokaler, herunder i produsentens produksjonslokaler.
-5. Dersom en godkjenningsmyndighet som har
-gitt en EU-typegodkjenning, konstaterer at forholdsreglene nevnt i nr. 1 ikke er truffet, at de
-avviker vesentlig fra de avtalte forholdsreglene
-som er nevnt i nr. 1, at de ikke lenger anvendes
-eller at de ikke lenger anses å være tilstrekkelige, selv om produksjonen fortsetter, skal den
-enten treffe de nødvendige tiltakene for å sikre
-at framgangsmåten for produksjonssamsvar
-følges korrekt, eller tilbakekalle EU-typegodkjenningen.
-6. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som
-utfyller denne forordning ved å fastsette detaljerte tiltak som skal treffes, og framgangsmåter som skal følges av godkjenningsmyndighetene for å sikre at motorene i produksjon
-er i samsvar med den godkjente typen. Disse
-delegerte rettsaktene skal vedtas innen 31.
-desember 2016.
-Kapittel VI
-Endringer av og gyldighet for EU-typegodkjenninger
-Artikkel 27
+56\) «teknisk instans» en organisasjon eller et organ som en medlemsstats godkjenningsmyndighet har utpekt som prøvingslaboratorium for å utføre prøvinger, eller som samsvarsvurderingsorgan for å utføre førstegangsvurdering og andre prøvinger eller inspeksjoner på vegne av godkjenningsmyndigheten, eller myndigheten selv når den utfører disse funksjonene,
+
+57\) «markedstilsyn» virksomhet som utøves og tiltak som treffes av nasjonale myndigheter for å sikre at motorer som gjøres tilgjengelige på markedet, overholder de relevante delene av Unionens harmoniseringsregelverk,
+
+58\) «markedstilsynsmyndighet» en myndighet i en medlemsstat som har ansvar for å utføre markedstilsyn på medlemsstatens territorium,
+
+59\) «nasjonal myndighet» en godkjenningsmyndighet eller enhver annen myndighet som deltar i og har ansvar for markedstilsyn, grensekontroll eller omsetning i en medlemsstat med hensyn til motorer som skal monteres i ikke-veigående mobile maskiner eller ikke-veigående mobile maskiner der det er montert motorer,
+
+60\) «sluttbruker» enhver fysisk eller juridisk person, utenom produsenten, OEM-produsenten, importøren eller distributøren, som har ansvar for drift av motoren som er montert i en ikke-veigående mobil maskin,
+
+61\) «utslippskontrollstrategi» et element eller en gruppe konstruksjonselementer som er innarbeidet i den generelle konstruksjonen av en motor eller en ikke-veigående mobil maskin der en motor er montert, og som brukes til å begrense utslippene,
+
+62\) «utslippskontrollsystem» alle innretninger, systemer eller konstruksjonselementer som begrenser eller reduserer utslipp,
+
+63\) «alternativ kontrollstrategi» en utslippskontrollstrategi som reduserer utslippskontrollsystemets effektivitet under omgivelses- eller driftsforhold for motoren som forekommer ved normal drift av maskinen eller utenom prøvingsmetodene for EU-typegodkjenning,
+
+64\) «elektronisk styreenhet» en motors elektroniske innretning som er en del av utslippskontrollsystemet og bruker data fra motorens følere til å styre motorens parametrer,
+
+65\) «resirkulering av eksos» eller «EGR» en teknisk innretning som er en del av utslippskontrollsystemet og reduserer utslipp ved å tilbakeføre eksosen som avgis fra et eller flere forbrenningskamre, til motoren der den blandes med tilførselsluft før eller under forbrenning, unntatt dersom det brukes ventilinnstilling for å øke mengden gjenværende eksos i forbrenningskammeret eller -kamrene som blandes med tilførselsluft før eller under forbrenning,
+
+66\) «system for etterbehandling eksos» en katalysator, et partikkelfilter, et deNOx-system, et kombinert deNOx-partikkelfilter eller enhver annen utslippsreduserende innretning, unntatt resirkulering av eksos og turboladere, som er en del av utslippskontrollsystemet, men som er montert etter motorens eksoskanaler,
+
+67\) «ulovlig inngrep» deaktivering, justering eller modifisering av utslippskontrollsystemet, herunder all programvare eller andre elementer for logisk styring av et slikt system, hvis virkning, tilsiktet eller ikke, er at motorens utslippsytelse blir dårligere,
+
+68\) «prøvingssyklus» en sekvens av prøvingspunkter som hvert er definert med et bestemt turtall og dreiemoment som motoren skal overholde ved prøving i stasjonær eller variabel driftstilstand,
+
+69\) «stasjonær prøvingssyklus» en prøvingssyklus der motorturtall og dreiemoment holdes på et avgrenset sett av nominelt konstante verdier. Stasjonære prøvinger utføres enten i prøvingssykluser med enkeltfaser eller med ramper,
+
+70\) «variabel prøvingssyklus» en prøvingssyklus med en sekvens av normaliserte turtalls- og dreiemomentverdier som varierer fra sekund til sekund,
+
+71\) «veivhus» rom i eller utenfor en motor som er forbundet med bunnpannen ved interne eller eksterne rør som gasser og damper kan slippe ut gjennom,
+
+72\) «regenerering» en hendelse der utslippsnivåene endres når ytelsen for systemet for etterbehandling av eksos gjenopprettes ved konstruksjon, og som kan klassifiseres som kontinuerlig regenerering eller uregelmessig (periodisk) regenerering,
+
+73\) «utslippsperiode» eller «EDP» antall timer eller, dersom det er relevant, avstanden som brukes til å bestemme forringelsesfaktorene,
+
+74\) «forringelsesfaktorer» den serien faktorer som angir forholdet mellom utslipp ved begynnelsen og slutten av utslippsperioden,
+
+75\) «virtuell prøving» datasimuleringer, herunder beregninger, som foretas for å dokumentere en motors ytelsesnivå som en hjelp i beslutningsprosessen uten at det er nødvendig å bruke en fysisk motor.
+
+Artikkel 4
+
+Motorkategorier
+
+1\. I denne forordning får følgende motorkategorier, inndelt i underkategoriene angitt i vedlegg I, anvendelse:
+
+1\) «Kategori NRE»:
+
+a\) Motorer til ikke-veigående mobile maskiner som er beregnet på og egnet til å forflytte seg eller bli forflyttet, på vei eller på annen måte, som ikke er utelukket i henhold til artikkel 2 nr. 2, og som ikke inngår i en annen kategori angitt i punkt 2–10 i dette nummer.
+
+b\) Motorer med en referanseeffekt som er mindre enn 560 kW, og som brukes i stedet for trinn V-motorer i kategori IWP, IWA, RLL eller RLR.
+
+2\) «Kategori NRG»: Motorer med en referanseeffekt som er større enn 560 kW, og som utelukkende skal brukes i aggregater. Andre aggregatmotorer som ikke har disse egenskapene, inngår i kategori NRE eller NRS, avhengig av egenskapene deres.
+
+3\) «Kategori NRSh»: Motorer med elektrisk tenning til håndholdte maskiner med en referanseeffekt som er mindre enn 19 kW, og som utelukkende skal brukes i håndholdte maskiner.
+
+4\) «Kategori NRS»: Motorer med elektrisk tenning med en referanseeffekt som er mindre enn 56 kW, og som ikke inngår i kategorien NRSh.
+
+5\) «Kategori IWP»:
+
+a\) Motorer som utelukkende skal brukes i fartøyer for fart på innlands vannveier, til direkte eller indirekte framdrift, eller som er beregnet på direkte eller indirekte framdrift av slike fartøy, med en referanseeffekt på minst 19 kW.
+
+b\) Motorer som brukes i stedet for motorer i kategori IWA, forutsatt at de er i samsvar med artikkel 24 nr. 8.
+
+6\) «Kategori IWA»: Hjelpemotorer som utelukkende skal brukes i fartøyer for fart på innlands vannveier, og som har en referanseeffekt på minst 19 kW.
+
+7\) «Kategori RLL»: Motorer som utelukkende skal brukes i lokomotiver, til framdrift av lokomotiver eller beregnet på framdrift av lokomotiver.
+
+8\) «Kategori RLR»:
+
+a\) Motorer som utelukkende skal brukes i skinnegående motorvogner, til framdrift av slike vogner eller beregnet på framdrift av slike vogner.
+
+b\) Motorer som brukes i stedet for trinn V-motorer i kategori RLL.
+
+9\) «Kategori SMB»: Motorer med elektrisk tenning som utelukkende skal brukes i snøscootere. Andre motorer til snøscootere enn motorer med elektrisk tenning inngår i kategori NRE.
+
+10\) «Kategori ATS»: Motorer med elektrisk tenning som utelukkende skal brukes i ATV-er eller UTV-er. Andre motorer til ATV-er og UTV-er enn motorer med elektrisk tenning inngår i kategori NRE.
+
+2\. En motor med variabelt turtall i en bestemt kategori kan brukes i stedet for en motor med konstant turtall i samme kategori.
+
+Motorer med variabelt turtall i kategori IWP som brukes til drift med konstant turtall, skal dessuten være i samsvar med artikkel 24 nr. 7 eller artikkel 24 nr. 8, avhengig av hva som er relevant.
+
+3\. Motorer til vedlikeholdskjøretøyer til jernbanedrift og hjelpemotorer til skinnegående motorvogner og lokomotiver inngår i kategori NRE eller NRS, avhengig av deres egenskaper.
+
+Kapittel II
+
+Alminnelige forpliktelser
+
+Artikkel 5
+
+Medlemsstatenes forpliktelser
+
+1\. Medlemsstatene skal opprette eller utpeke godkjennings- og markedstilsynsmyndigheter i samsvar med denne forordning.
+
+2\. Medlemsstatene skal underrette Kommisjonen om at de har opprettet og utpekt godkjennings- og markedstilsynsmyndighetene nevnt i nr. 1, herunder myndighetenes navn, postadresse og e-postadresse og ansvarsområde. Kommisjonen skal offentliggjøre en liste over og nærmere opplysninger om godkjenningsmyndighetene på sitt nettsted.
+
+3\. Medlemsstatene skal bare tillate omsetning av
+
+a\) motorer som er omfattet av en gyldig EU-typegodkjenning som er gitt i samsvar med denne forordning, uavhengig av om de allerede er montert i ikke-veigående mobile maskiner, og
+
+b\) ikke-veigående mobile maskiner der det er montert motorer som nevnt i bokstav a).
+
+4\. Medlemsstatene skal ikke forby, begrense eller hindre omsetning av
+
+a\) motorer på grunn av aspekter ved konstruksjonen og funksjonen som omfattes av denne forordning, dersom disse motorene oppfyller kravene i forordningen,
+
+b\) ikke-veigående mobile maskiner på grunn av utslipp av forurensende gasser og partikler fra motorer som er montert i slike maskiner, dersom disse motorene omfattes av denne forordnings virkeområde og oppfyller kravene i forordningen.
+
+5\. Medlemsstatene skal organisere og utføre markedstilsyn og kontroll av motorer på markedet i samsvar med kapittel III i forordning (EF) nr. 765/2008.
+
+Artikkel 6
+
+Godkjenningsmyndighetenes forpliktelser
+
+1\. Godkjenningsmyndighetene skal sikre at produsenter som søker om EU-typegodkjenning, oppfyller kravene i denne forordning.
+
+2\. Godkjenningsmyndighetene skal gi EU-typegodkjenning bare til motortyper eller motorfamilier som oppfyller kravene i denne forordning.
+
+3\. Godkjenningsmyndighetene skal gjennom IMI offentliggjøre et register over alle motortyper og motorfamilier som har fått tildelt, forlenget eller tilbakekalt en EU-typegodkjenning, eller som har fått en søknad om EU-typegodkjenning avvist.
+
+Registeret skal inneholde minst følgende opplysninger:
+
+a\) Produsentens navn og adresse og selskapets navn, dersom det er forskjellig fra produsentens navn.
+
+b\) Firma eller varemerke(r) tilhørende produsenten, etter hva som er relevant.
+
+c\) Betegnelse på motortypene som omfattes av EU-typegodkjenning av motortypen, eller, dersom det er relevant, av EU-typegodkjenning av motorfamilien.
+
+d\) Motorkategori.
+
+e\) EU-typegodkjenningsnummeret, herunder nummeret på eventuelle utvidelser.
+
+f\) Dato for tildeling, utvidelse, nektelse eller tilbakekalling av EU-typegodkjenningen.
+
+g\) Innholdet i avsnittene «Generelle opplysninger om motoren» og «Endelig utslippsresultat» i prøvingsrapporten som er nevnt i artikkel 24 nr. 12.
+
+Artikkel 7
+
+Markedstilsynsmyndighetenes forpliktelser
+
+1\. Markedstilsynsmyndighetene skal foreta dokumentkontroll og eventuelt fysisk kontroll og laboratoriekontroll av motorer i tilstrekkelig omfang og på grunnlag av passende prøver. I den forbindelse skal de ta hensyn til gjeldende prinsipper for risikovurdering, klager og annen relevant informasjon.
+
+2\. Markedstilsynsmyndighetene kan kreve at markedsdeltakerne gjør slik dokumentasjon og slike opplysninger tilgjengelige i den grad det anses nødvendig for at myndighetene skal kunne utføre sin virksomhet.
+
+Artikkel 8
+
+Produsentenes alminnelige forpliktelser
+
+1\. Produsentene skal sikre at motorene deres, når de bringes i omsetning, er produsert og godkjent i samsvar med denne forordning.
+
+2\. Dersom produsentene endrer en motor som er omfattet av EU-typegodkjenning, på en slik måte at den deretter tilhører en annen kategori eller underkategori, har de ansvar for å sikre at motoren oppfyller kravene som gjelder for nevnte kategori eller underkategori.
+
+Dersom en juridisk person endrer en motor på en slik måte at den ikke lenger overholder utslippsgrensene som gjelder for motorens kategori eller underkategori, anses nevnte person å være ansvarlig for å sikre at disse utslippsgrensene igjen overholdes.
+
+3\. Produsentene er ansvarlige overfor godkjenningsmyndigheten for alle deler av EU-typegodkjenningsprosessen og for å sikre produksjonssamsvar, uavhengig av om de er direkte involvert i alle etapper av framstillingen av en motor eller ikke.
+
+4\. Produsentene skal sørge for at det er innført framgangsmåter for å sikre at serieproduksjon fortsatt er i samsvar med den godkjente typen, og for å overvåke utslipp fra motorer i bruk i samsvar med artikkel 19.
+
+I samsvar med kapittel VI skal det tas hensyn til endringer i en motortypes utforming eller egenskaper og endringer i de kravene som en motortype er erklært å være i samsvar med.
+
+5\. I tillegg til den lovfestede merkingen nevnt i artikkel 32 skal produsentene angi sitt navn, firma eller registrerte varemerke og sin kontaktadresse i Unionen på motorene som de har produsert og bringer i omsetning, eller, dersom dette ikke er mulig, i et dokument som følger med motoren.
+
+6\. På grunngitt anmodning skal produsentene gi OEM-produsenten en gjenpart av den lovfestede merkingen nevnt i artikkel 15 nr. 4.
+
+7\. Produsentene skal så lenge de har ansvar for en motor, sikre at lagrings- eller transportforholdene ikke setter motorens samsvar med dette kapittel og kapittel III i fare.
+
+8\. Produsentene skal kunne stille EU-typegodkjenningsdokumentet med vedlegg som nevnt i artikkel 23 nr. 1 og, dersom det er relevant, en kopi av samsvarserklæringen nevnt i artikkel 31 til rådighet for godkjenningsmyndighetene i et tidsrom på ti år etter at en motor er brakt i omsetning.
+
+9\. Produsentene skal på grunngitt anmodning og via godkjenningsmyndigheten gi nasjonale myndigheter en kopi av EU-typegodkjenningsdokumentet for en motor. Denne kopien skal være skrevet på et språk som lett kan forstås av den anmodende nasjonale myndighet.
+
+10\. Med sikte på EU-typegodkjenning av motorer skal produsenter som er etablert utenfor Unionen, utpeke én representant som er etablert i Unionen, til å representere seg overfor godkjenningsmyndigheten.
+
+11\. Med sikte på markedstilsyn skal produsenter som er etablert utenfor Unionen, utpeke én representant som er etablert i Unionen, som kan være representanten nevnt i nr. 10.
+
+Artikkel 9
+
+Produsentenes forpliktelser med hensyn til motorer som ikke oppfyller kravene
+
+1\. En produsent som har grunn til å tro eller anser at en av motorene som bringes i omsetning, ikke er i samsvar med denne forordning, skal umiddelbart foreta en undersøkelse av mistanken om manglende samsvar og hvor utbredt det kan antas å være.
+
+På grunnlag av resultatene av undersøkelsen skal produsenten treffe korrigerende tiltak for å sikre at motorer i produksjon bringes i samsvar med den godkjente motortypen eller motorfamilien i rett tid.
+
+Produsenten skal umiddelbart underrette godkjenningsmyndigheten som har gitt EU-typegodkjenningen, om undersøkelsen og gi nærmere opplysninger, særlig om det manglende samsvaret og om eventuelle korrigerende tiltak som er truffet.
+
+2\. Uten hensyn til nr. 1 er en produsent ikke forpliktet til å treffe korrigerende tiltak med hensyn til en motor som ikke er i samsvar med denne forordning som følge av endringer som er foretatt etter at den er brakt i omsetning, og som ikke er blitt godkjent av produsenten.
+
+Artikkel 10
+
+Forpliktelser for produsentenes representanter med ansvar for markedstilsyn
+
+Produsentenes representanter med ansvar for markedstilsyn skal minst utføre følgende oppgaver, som skal være angitt i den skriftlige fullmakten fra produsenten:
+
+a\) Sikre at EU-typegodkjenningsdokumentet med vedlegg som nevnt i artikkel 23 nr. 1 og, dersom det er relevant, en kopi av samsvarserklæringen nevnt i artikkel 31 kan stilles til rådighet for godkjenningsmyndighetene i et tidsrom på ti år etter at en motor er brakt i omsetning.
+
+b\) På grunngitt anmodning gi godkjenningsmyndigheten alle opplysninger og all dokumentasjon som er nødvendig for å dokumentere produksjonssamsvar for en motor.
+
+c\) Samarbeide med godkjennings- og markedstilsynsmyndighetene på deres anmodning når det gjelder tiltak som treffes i henhold til fullmakten.
+
+Artikkel 11
+
+Importørenes alminnelige forpliktelser
+
+1\. Importørene skal bringe i omsetning bare motorer som har fått EU-typegodkjenning.
+
+2\. Før en EU-typegodkjent motor bringes i omsetning, skal importørene sikre at
+
+a\) EU-typegodkjenningsdokumentet med vedlegg som nevnt i artikkel 23 nr. 1 er tilgjengelig,
+
+b\) motoren har den lovfestede merkingen som nevnt i artikkel 32,
+
+c\) motoren er i samsvar med artikkel 8 nr. 5.
+
+3\. I et tidsrom på ti år etter at motoren er brakt i omsetning, skal importørene dersom det er relevant, kunne stille en kopi av samsvarserklæringen nevnt i artikkel 31 til rådighet for godkjennings- og markedstilsynsmyndighetene, og skal sikre at EU-typegodkjenningsdokumentet med vedlegg som nevnt i artikkel 23 nr. 1 på anmodning kan stilles til rådighet for disse myndighetene.
+
+4\. Importørene skal angi sitt navn, firma eller registrerte varemerke og sin kontaktadresse på motoren eller, dersom dette ikke er mulig, i et dokument som følger med motoren.
+
+5\. Importørene skal sikre at motoren følges av opplysningene og instruksene som er nevnt i artikkel 43.
+
+6\. Importørene skal så lenge de har ansvar for en motor, sikre at lagrings- eller transportforholdene ikke setter motorens samsvar med dette kapittel eller kapittel III i fare.
+
+7\. Importørene skal på grunngitt anmodning gi en anmodende nasjonal myndighet alle opplysninger og all dokumentasjon som er nødvendig for å dokumentere produksjonssamsvar for en motor. Opplysningene og dokumentasjonen skal være skrevet på et språk som lett kan forstås av den anmodende nasjonale myndighet.
+
+Artikkel 12
+
+Importørenes forpliktelser med hensyn til motorer som ikke oppfyller kravene
+
+1\. En importør som har grunn til å tro eller anser at en motor ikke er i samsvar med denne forordning, særlig at den ikke svarer til EU-typegodkjenningen, skal ikke bringe motoren i omsetning før den er brakt i samsvar med denne forordning.
+
+Importøren skal uten unødig opphold underrette produsenten, markedstilsynsmyndighetene og godkjenningsmyndigheten som har gitt EU-typegodkjenningen, om dette.
+
+2\. En importør som har grunn til å tro eller anser at en motor som er brakt i omsetning, ikke er i samsvar med denne forordning, skal umiddelbart foreta en undersøkelse av det mistenkte manglende samsvaret og hvor utbredt det kan antas å være.
+
+På grunnlag av resultatene av undersøkelsen skal importøren treffe korrigerende tiltak og underrette produsenten om dette, for å sikre at motorer i produksjon bringes i samsvar med den godkjente motortypen eller motorfamilien i rett tid.
+
+Artikkel 13
+
+Distributørenes alminnelige forpliktelser
+
+1\. Når distributørene gjør en motor tilgjengelig på markedet, skal de utvise behørig aktsomhet med hensyn til kravene i denne forordning.
+
+2\. Før de gjør en motor tilgjengelig på markedet, skal distributørene kontrollere at
+
+a\) produsenten har overholdt artikkel 8 nr. 5,
+
+b\) importøren, dersom det er relevant, har overholdt artikkel 11 nr. 2 og 4,
+
+c\) motoren har den lovfestede merkingen som nevnt i artikkel 32,
+
+d\) opplysningene og instruksene som er nevnt i artikkel 43, er tilgjengelige på et språk som lett kan forstås av OEM-produsenten.
+
+3\. Importørene skal så lenge de har ansvar for en motor, sikre at lagrings- eller transportforholdene ikke setter motorens samsvar med dette kapittel eller kapittel III i fare.
+
+4\. Distributørene skal på grunngitt anmodning sikre at produsenten gir den anmodende nasjonale myndighet dokumentasjonen som er angitt i artikkel 8 nr. 8, eller at importøren gir den anmodende nasjonale myndighet dokumentasjonen som er angitt i artikkel 11 nr. 3.
+
+Artikkel 14
+
+Distributørenes forpliktelser med hensyn til motorer som ikke oppfyller kravene
+
+1\. En distributør som har grunn til å tro eller anser at en motor ikke er i samsvar med denne forordning, skal ikke gjøre motoren tilgjengelig på markedet før den er brakt i samsvar med denne forordning.
+
+2\. En distributør som har grunn til å tro eller anser at en motor som vedkommende har gjort tilgjengelig på markedet, ikke er i samsvar med denne forordning, skal underrette produsenten eller produsentens representant for å sikre at de nødvendige korrigerende tiltakene for å bringe motorene i produksjon i samsvar med den godkjente motortypen eller motorfamilien treffes i samsvar med artikkel 9 eller 12.
+
+Artikkel 15
+
+Forpliktelser for produsenter av originalt utstyr med hensyn til montering av motorer
+
+1\. OEM-produsenter skal montere EU-typegodkjente motorer i ikke-veigående mobile maskiner i samsvar med produsentens anvisninger i henhold til artikkel 43 nr. 2 og på en måte som ikke har ugunstig virkning på motorens ytelse med hensyn til utslipp av forurensende gasser og partikler.
+
+2\. Dersom en OEM-produsent ikke følger anvisningene nevnt i nr. 1 i denne artikkel eller endrer en motor i forbindelse med monteringen i ikke-veigående mobile maskiner på en måte som har ugunstig virkning på motorens ytelse med hensyn til forurensende gasser og partikler, skal nevnte OEM-produsent anses som produsent ved anvendelsen av denne forordning, og er særlig underlagt forpliktelsene fastsatt i artikkel 8 og 9.
+
+3\. OEM-produsenter kan montere EU-typegodkjente motorer i ikke-veigående mobile maskiner bare dersom de utelukkende skal brukes som fastsatt i artikkel 4.
+
+4\. Dersom motorens lovfestede merking nevnt i artikkel 32 ikke er synlig uten at deler fjernes, skal OEM-produsenten på et synlig sted på den ikke-veigående mobile maskinen påføre en dublett av merkingen som er nevnt i nevnte artikkel og i den relevante gjennomføringsrettsakten, levert av produsenten.
+
+5\. Dersom en ikke-veigående mobil maskin der det er montert en overgangsmotor, er brakt i omsetning i samsvar med artikkel 58 nr. 5, skal OEM-produsentene angi produksjonsdatoen for den ikke-veigående mobile maskinen som en del av merkingen på maskinen.
+
+6\. Dersom en produsent leverer en motor atskilt fra systemet for etterbehandling av eksos til en OEM-produsent i samsvar med artikkel 34 nr. 3, skal OEM-produsenten, dersom det er relevant, gi produsenten opplysninger om montering av motoren og systemet for etterbehandling av eksos.
+
+Artikkel 16
+
+Anvendelse av produsentenes forpliktelser på importører og distributører
+
+En importør eller distributør som gjør en motor tilgjengelig på markedet i eget navn eller under eget varemerke, eller som endrer en slik motor på en måte som kan påvirke motorens samsvar med gjeldende krav, skal anses som produsent ved anvendelsen av denne forordning, og er særlig underlagt forpliktelsene fastsatt i artikkel 8 og 9.
+
+Artikkel 17
+
+Meldingsplikt for markedsdeltakere og OEM-produsenter
+
+Markedsdeltakere og OEM-produsenter skal på anmodning og i et tidsrom på fem år etter at en motor er brakt i omsetning, underrette godkjennings- og markedstilsynsmyndighetene om følgende:
+
+a\) Alle markedsdeltakere som har levert en motor til dem.
+
+b\) Alle markedsdeltakere eller OEM-produsenter dersom de kan identifiseres, som de har levert en motor til.
+
+Kapittel III
+
+Grunnleggende krav
+
+Artikkel 18
+
+Krav til eksosutslipp ved EU-typegodkjenning
+
+1\. Produsentene skal sikre at motortyper og motorfamilier er konstruert, bygd og montert slik at de oppfyller kravene fastsatt i kapittel II og i dette kapittel.
+
+2\. Motortyper og motorfamilier skal fra tidspunktet da motorene angitt i vedlegg III bringes i omsetning, ikke overskride grenseverdiene for eksosutslipp som kalles trinn V og er angitt i vedlegg II.
+
+Dersom en motorfamilie i samsvar med parametrene som definerer motorfamilien fastsatt i den relevante gjennomføringsrettsakten, omfatter mer enn ett effektområde, skal den representative motoren (for EU-typegodkjenningsformål) og alle motortyper i samme familie (for produksjonssamsvarsformål) med hensyn til de gjeldende effektområdene
+
+a\) overholde de strengeste utslippsgrenseverdiene,
+
+b\) prøves ved hjelp av prøvingssykluser som tilsvarer de strengeste utslippsgrenseverdiene,
+
+c\) omfattes av de tidligste gjeldende datoene for EU-typegodkjenning og omsetning som er angitt i vedlegg III.
+
+3\. Eksosutslippene fra motortyper og motorfamilier skal måles på grunnlag av prøvingssyklusene angitt i artikkel 24 og i samsvar med artikkel 25.
+
+4\. Motortyper og motorfamilier skal være konstruert og utstyrt med utslippskontrollstrategier på en slik måte at det hindrer ulovlige inngrep i størst mulig grad. Det er forbudt å bruke alternative kontrollstrategier.
+
+5\. Kommisjonen skal vedta gjennomføringsrettsakter som fastsetter nærmere opplysninger om parametrene som brukes til å definere motortyper og motorfamilier, herunder deres driftstilstander, og tekniske opplysninger med sikte på å hindre ulovlige inngrep som nevnt i nr. 4 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
+
+Artikkel 19
+
+Overvåking av utslipp fra motorer i bruk
+
+1\. Utslippene av forurensende gasser fra motorer som tilhører de motortypene eller motorfamiliene i utslippstrinn V som er typegodkjent i samsvar med denne forordning, skal overvåkes ved å prøve motorer i bruk som er montert i ikke-veigående mobile maskiner og brukes i normale driftssykluser. Produsenten har ansvaret for å utføre denne prøvingen i samsvar med godkjenningsmyndighetens krav til motorer som har blitt riktig vedlikeholdt, i samsvar med bestemmelsene om valg av motorer, prøvingsmetoder og rapportering av resultater for de forskjellige motorkategoriene.
+
+Kommisjonen skal gjennomføre forsøksprogrammer med sikte på å utvikle egnede prøvingsmetoder for de motorkategoriene og underkategoriene som det ikke finnes slike prøvingsmetoder for.
+
+Kommisjonen skal gjennomføre overvåkingsprogrammer for hver motorkategori for å fastslå i hvilken grad utslippene som måles i prøvingssyklusen, tilsvarer utslippene som måles ved faktisk drift. Programmene og resultatene av disse skal hvert år framlegges for medlemsstatene og deretter gjøres tilgjengelige for allmennheten.
+
+2\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 for å utfylle denne forordning med nærmere bestemmelser med hensyn til utvelging av motorer, prøvingsmetoder og rapportering av resultatene nevnt i nr. 1 i denne artikkel. Disse delegerte rettsaktene skal vedtas innen 31. desember 2016.
+
+Kapittel IV
+
+Framgangsmåter for EU-typegodkjenning
+
+Artikkel 20
+
+Søknad om EU-typegodkjenning
+
+1\. Produsentene skal for hver motortype eller motorfamilie inngi en egen søknad om EU-typegodkjenning til godkjenningsmyndigheten i en medlemsstat, og hver søknad skal følges av opplysningsmappen nevnt i artikkel 21. Bare én søknad skal inngis for en bestemt motortype, eller motorfamilie dersom det er relevant, og den skal inngis til bare én godkjenningsmyndighet.
+
+2\. Produsentene skal gjøre tilgjengelig for den tekniske instans som er ansvarlig for å utføre EU-typegodkjenningsprøvingene, en motor som er i samsvar med egenskapene til motortypen eller, for en motorfamilie, med egenskapene til den representative motoren som er beskrevet i opplysningsmappen nevnt i artikkel 21.
+
+3\. Dersom godkjenningsmyndigheten ved søknad om EU-typegodkjenning av en motorfamilie anser at den innsendte søknaden med hensyn til den utvalgte representative motoren nevnt i nr. 2 i denne artikkel ikke fullt ut er representativ for den motorfamilien som er beskrevet i opplysningsmappen nevnt i artikkel 21, skal produsentene stille til rådighet en alternativ og eventuelt ytterligere en representativ motor som godkjenningsmyndigheten anser er representativ for motorfamilien.
+
+4\. Produsentene skal innen en måned etter produksjonsstart for den godkjente motortypen eller motorfamilien framlegge den opprinnelige planen for overvåking av motorer i bruk til godkjenningsmyndigheten som har gitt EU-typegodkjenning for denne motortypen eller eventuelt motorfamilien.
+
+Artikkel 21
+
+Opplysningsmappe
+
+1\. Søkeren skal framlegge en opplysningsmappe for godkjenningsmyndigheten som inneholder følgende:
+
+a\) Et opplysningsdokument, herunder en liste over referansedrivstoffer og, på produsentens anmodning, alle andre spesifiserte drivstoffer, drivstoffblandinger eller drivstoffemulsjoner som er nevnt i artikkel 25 nr. 2 og beskrevet i samsvar med de delegerte rettsaktene nevnt i artikkel 25 nr. 4 («opplysningsdokumentet»).
+
+b\) Alle relevante data, tegninger, fotografier og andre opplysninger om motortypen eller eventuelt den representative motoren.
+
+c\) Eventuelle tilleggsopplysninger som godkjenningsmyndigheten har bedt om i forbindelse med framgangsmåten for søknaden om EU-typegodkjenning.
+
+2\. Opplysningsmappen kan leveres på papir eller i et elektronisk format som er godkjent av den tekniske instansen og godkjenningsmyndigheten.
+
+3\. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter maler for opplysningsdokumentet og opplysningsmappen. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
+
+Kapittel V
+
+Gjennomføring av framgangsmåter for EU-typegodkjenning
+
+Artikkel 22
+
 Alminnelige bestemmelser
-1. Produsenten skal omgående underrette godkjenningsmyndigheten som har gitt EU-typegodkjenningen, om eventuelle endringer i de
-opplysningene som er registrert i opplysningspakken.
+
+1\. Godkjenningsmyndigheten som mottar søknaden, skal gi EU-typegodkjenning til alle motortyper eller motorfamilier som er i samsvar med både
+
+a\) opplysningene i opplysningsmappen, og
+
+b\) kravene i denne forordning, særlig tiltakene for produksjonssamsvar nevnt i artikkel 26.
+
+2\. Dersom en motor oppfyller kravene fastsatt i denne forordning, skal godkjenningsmyndighetene ikke pålegge andre krav til EU-typegodkjenning med hensyn til eksosutslipp for ikke-veigående mobile maskiner der en slik motor er montert.
+
+3\. Etter datoene for EU-typegodkjenning av motorer som er angitt i vedlegg III for hver motorunderkategori, skal godkjenningsmyndighetene ikke gi EU-typegodkjenning for en motortype eller motorfamilie som ikke oppfyller kravene fastsatt i denne forordning.
+
+4\. EU-typegodkjenningsdokumenter skal nummereres i samsvar med et harmonisert system som skal fastsettes av Kommisjonen.
+
+5\. Gjennom IMI skal godkjenningsmyndigheten
+
+a\) gjøre tilgjengelig for godkjenningsmyndighetene i de andre medlemsstatene en liste over de EU-typegodkjenningene som den har gitt, eller eventuelt forlenget, innen én måned etter at det tilsvarende EU-typegodkjenningsdokumentet er utstedt,
+
+b\) omgående gjøre tilgjengelig for godkjenningsmyndighetene i de andre medlemsstatene en liste over de EU-typegodkjenningene som den har nektet å gi eller har tilbakekalt, sammen med en begrunnelse for beslutningen,
+
+c\) innen én måned etter å ha mottatt en anmodning fra godkjenningsmyndigheten i en annen medlemsstat oversende nevnte godkjenningsmyndighet en kopi av EU-typegodkjenningsdokumentet for motortypen eller motorfamilien, dersom dette finnes, sammen med opplysningspakken nevnt i nr. 6 for hver motortype eller motorfamilie som den har gitt eller nektet å gi EU-typegodkjenning, eller som den har tilbakekalt EU-typegodkjenningen for.
+
+6\. Godkjenningsmyndigheten skal sette sammen en opplysningspakke som består av opplysningsmappen sammen med prøvingsrapporten og alle andre dokumenter som den tekniske instansen eller godkjenningsmyndigheten har lagt ved opplysningsmappen når den har utført sine oppgaver («opplysningspakken»).
+
+Opplysningspakken skal ha en innholdsfortegnelse som viser innholdet i den, der alle sider er nummerert eller merket på annen måte, slik at hver enkelt side og formatet for hvert enkelt dokument lett kan identifiseres, med sikte på å vise trinnene i forvaltningen av EU-typegodkjenningen, særlig datoene for revisjoner og ajourføringer.
+
+Godkjenningsmyndigheten skal sikre at opplysningene som ligger i opplysningspakken, er tilgjengelige i et tidsrom på minst 25 år etter at gyldighetstiden til den aktuelle EU-typegodkjenningen er utløpt.
+
+7\. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter
+
+a\) metoden for fastsettelse av det harmoniserte nummereringssystemet nevnt i nr. 4,
+
+b\) malene og datastrukturen for utveksling av opplysninger nevnt i nr. 5.
+
+Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
+
+Artikkel 23
+
+Særlige bestemmelser om EU-typegodkjenningsdokumentet
+
+1\. EU-typegodkjenningsdokumentet skal inneholde følgende vedlegg:
+
+a\) Opplysningspakken.
+
+b\) Dersom det er relevant, navn på og underskriftsprøver for personer som har tillatelse til å undertegne samsvarserklæringer som nevnt i artikkel 31, samt opplysninger om deres stilling i selskapet.
+
+2\. Kommisjonen skal fastsette en mal for EU-typegodkjenningsdokumentet.
+
+3\. For hver motortype eller motorfamilie som er godkjent, skal godkjenningsmyndigheten
+
+a\) fylle ut alle relevante rubrikker i EU-typegodkjenningsdokumentet og legge ved prøvingsrapporten,
+
+b\) utarbeide innholdsfortegnelsen for opplysningspakken,
+
+c\) umiddelbart utstede det ferdig utfylte typegodkjenningsdokumentet med vedlegg til søkeren.
+
+4\. Dersom en EU-typegodkjenning i samsvar med artikkel 35 er underlagt begrensninger med hensyn til gyldighet, eller dersom motortypen eller motorfamilien er unntatt fra visse krav i denne forordning, skal disse begrensningene eller unntakene angis i EU-typegodkjenningsdokumentet.
+
+5\. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter malen for EU-typegodkjenningsdokumentet nevnt i nr. 2 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
+
+Artikkel 24
+
+Prøvinger som kreves for EU-typegodkjenning
+
+1\. Utpekte tekniske instanser skal ved egnet prøving påvise at de tekniske kravene som er fastsatt i denne forordning, er oppfylt. Måle- og prøvingsmetodene og det bestemte utstyret og verktøyet som kreves for å utføre disse prøvingene, skal være som fastsatt i artikkel 25.
+
+2\. Produsenten skal stille til rådighet for godkjenningsmyndigheten det antallet motorer som kreves i henhold til de relevante delegerte rettsaktene for å gjennomføre de nødvendige prøvingene.
+
+3\. De nødvendige prøvingene skal utføres på motorer som er representative for motortypen eller eventuelt for den representative motoren i motorfamilien som skal godkjennes.
+
+Uten hensyn til første ledd kan produsenten etter avtale med godkjenningsmyndigheten velge en motor som selv om den ikke er representativ for motortypen eller eventuelt for den representative motoren i motorfamilien som skal godkjennes, kombinerer en rekke av de mest ufordelaktige egenskapene med hensyn til det ytelsesnivået som kreves. Virtuelle prøvingsmetoder kan brukes som hjelp til å treffe beslutning under utvelgingsprosessen.
+
+4\. De prøvingssyklusene som skal brukes ved prøvingene for EU-typegodkjenning, er angitt i vedlegg IV. Prøvingssyklusene som skal brukes for hver motortype som omfattes av EU-typegodkjenningen, skal angis i opplysningsdokumentet.
+
+5\. En motor som er representativ for motortypen eller eventuelt for den representative motoren i motorfamilien, eller en motor som er utvalgt i samsvar med nr. 3 annet ledd, skal prøves på et dynamometer ved hjelp av den gjeldende stasjonære prøvingssyklusen for motorer i ikke-veigående mobile maskiner som er angitt i tabell IV-1 til IV-10 i vedlegg IV. Produsenten kan velge å utføre prøvingen ved hjelp av prøvingsmetoden med enkeltfaser eller med ramper. Unntatt i tilfellene nevnt i nr. 7 og 8 trenger en motor med variabelt turtall i en bestemt kategori som brukes til drift med konstant turtall i samme kategori, ikke prøves ved hjelp av den gjeldende stasjonære prøvingssyklusen for konstant turtall.
+
+6\. Dersom en motor med konstant turtall har en turtallsregulator som kan stilles inn på et alternativt turtall, skal kravene i nr. 5 være oppfylt for hvert gjeldende konstante turtall, og turtallene som gjelder for hver motortype, skal angis i opplysningsdokumentet.
+
+7\. For en motor i kategori IWP som er beregnet på drift med både variabelt turtall og konstant turtall, skal kravene i nr. 5 være oppfylt for hver enkelt gjeldende stasjonære prøvingssyklus, og hver stasjonære prøvingssyklus der disse kravene er oppfylt, skal angis i opplysningsdokumentet.
+
+8\. For en motor i kategori IWP som er beregnet på bruk i stedet for en motor i kategori IWA i samsvar med artikkel 4 nr. 2, skal kravene i nr. 5 i denne artikkel være oppfylt for hver gjeldende stasjonære prøvingssyklus angitt i tabell IV-5 og IV-6 i vedlegg IV, og hver stasjonære prøvingssyklus der disse kravene er oppfylt, skal angis i opplysningsdokumentet.
+
+9\. Bortsett fra motorer som er typegodkjent i henhold til artikkel 34 nr. 5 og 6, skal motorer med variabelt turtall i kategori NRE med en nettoeffekt på minst 19 kW, men høyst 560 kW, i tillegg til å oppfylle kravene i nr. 5 i denne artikkel også prøves på et dynamometer ved hjelp av den variable prøvingssyklusen som er angitt i tabell IV-11 i vedlegg IV.
+
+10\. Motorer i underkategori NRS-v-2b og NRS-v-3 med et høyeste turtall på 3 400 o/min eller lavere, skal i tillegg til å oppfylle kravene i nr. 5 også prøves på et dynamometer ved hjelp av den variable prøvingssyklusen som er angitt i tabell IV-12 i vedlegg IV.
+
+11\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som utfyller denne forordning ved å fastsette nærmere tekniske spesifikasjoner og egenskaper for stasjonære og variable prøvingssykluser nevnt i denne artikkel, herunder den tilsvarende metoden for å fastsette innstillinger for motorens belastning og turtall. Disse delegerte rettsaktene skal vedtas innen 31. desember 2016.
+
+12\. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter et felles format for prøvingsrapporten som kreves for EU-typegodkjenning. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
+
+Artikkel 25
+
+Gjennomføring av målinger og prøvinger for EU-typegodkjenning
+
+1\. De endelige prøvingsresultatene for eksosutslipp fra motorer som er omfattet av denne forordning, skal beregnes ved å anvende alle de følgende på laboratorieprøvingsresultatene:
+
+a\) Utslippene av veivhusgasser dersom dette kreves i henhold til nr. 3, og dersom de ikke allerede inngår i laboratoriemålingen.
+
+b\) Alle nødvendige justeringsfaktorer dersom dette kreves i henhold til nr. 3, og dersom motoren har et regenereringssystem for etterbehandling av eksos.
+
+c\) Forringelsesfaktorer for utslippsperiodene som er angitt i vedlegg V, for alle motorer.
+
+2\. Prøvingen av en motortype eller motorfamilie for å avgjøre om den overholder utslippsgrensene som er fastsatt i denne forordning, skal utføres ved å bruke følgende referansedrivstoffer eller drivstoffkombinasjoner etter hva som er relevant:
+
+a\) Diesel.
+
+b\) Bensin.
+
+c\) Bensin/olje-blanding for totaktsmotorer med elektrisk tenning.
+
+d\) naturgass/biometan.
+
+e\) Flytende petroleumsgass (LPG).
+
+f\) Etanol.
+
+Motortypen eller motorfamilien skal dessuten overholde grensene for eksosutslipp som er fastsatt i denne forordning for alle andre spesifiserte drivstoffer, drivstoffblandinger eller drivstoffemulsjoner som en produsent har tatt med i en søknad om EU-typegodkjenning, og som er beskrevet i opplysningsmappen.
+
+3\. Ved målinger og prøvinger skal de tekniske kravene være oppfylt med hensyn til
+
+a\) apparater og framgangsmåter for å utføre prøvinger,
+
+b\) apparater og framgangsmåter for å måle utslipp og ta prøver,
+
+c\) metoder for å vurdere og beregne data,
+
+d\) metoder for å fastsette forringelsesfaktorer,
+
+e\) for motorer i kategori NRE, NRG, IWP, IWA, RLR, NRS, NRSh, SMB og ATS som overholder utslippsgrensene i trinn V angitt i vedlegg II:
+
+i\) metoder for å ta hensyn til utslipp av veivhusgasser,
+
+ii\) metoder for å bestemme og ta hensyn til kontinuerlig regenerering eller uregelmessig regenerering av systemer for etterbehandling av eksos,
+
+f\) for elektronisk styrte motorer i kategori NRE, NRG, IWP, IWA, RLL og RLR som overholder utslippsgrensene i trinn V angitt i vedlegg II, og som bruker elektronisk styring til å bestemme både mengde og tidspunkt for innsprøyting av drivstoff eller bruker elektronisk styring til å aktivere, deaktivere eller tilpasse utslippskontrollsystemet som brukes til å redusere NO<sub>x</sub>:
+
+i\) utslippskontrollstrategier, herunder dokumentasjonen som kreves for å godtgjøre disse strategiene,
+
+ii\) NO<sub>x</sub>-kontrolltiltak, herunder metoden som brukes til å godtgjøre disse kontrolltiltakene,
+
+iii\) området som er knyttet til den relevante stasjonære prøvingssyklusen for motorer i ikke-veigående mobile maskiner, der det kontrolleres hvor mye utslippene kan overskride utslippsgrensene angitt i vedlegg II,
+
+iv\) den tekniske instansens valg av ytterligere målepunkter innenfor kontrollområdet under utslippsprøvingen i prøvingsbenk.
+
+4\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som utfyller denne forordning ved å fastsette
+
+a\) metoden for å tilpasse laboratorieprøvingsresultatene for utslipp slik at de omfatter forringelsesfaktorene nevnt i nr. 1 bokstav c),
+
+b\) de tekniske egenskapene for referansedrivstoffene som er nevnt i nr. 2, og eventuelt kravene til beskrivelse av andre spesifiserte drivstoffer, drivstoffblandinger eller drivstoffemulsjoner som er beskrevet i opplysningsmappen,
+
+c\) de detaljerte tekniske kravene og egenskapene for målingene og prøvingene som er nevnt i nr. 3,
+
+d\) metoden som brukes til å måle partikkelantall, idet det tas hensyn til spesifikasjonene som er angitt i endringsserie 06 til UN-ECE-reglement nr. 49,
+
+e\) detaljerte tekniske krav til prøving av dobbeltdrivstoffmotorer eller enkeltdrivstoffmotorer som bruker gassformig drivstoff, som nevnt i vedlegg II.
+
+Disse delegerte rettsaktene skal vedtas innen 31. desember 2016.
+
+Artikkel 26
+
+Tiltak for produksjonssamsvar
+
+1\. En godkjenningsmyndighet som har gitt en EU-typegodkjenning, skal for denne EU-typegodkjenningen treffe de nødvendige tiltakene for å kontrollere, om nødvendig i samarbeid med godkjenningsmyndighetene i de andre medlemsstatene, at det er tatt nødvendige forholdsregler for å sikre at motorene i produksjon vil være i samsvar med den godkjente typen med hensyn til kravene i denne forordning.
+
+2\. En godkjenningsmyndighet som har gitt en EU-typegodkjenning, skal for denne EU-typegodkjenningen treffe de nødvendige tiltakene for å kontrollere at samsvarserklæringer utstedt av produsenten er i samsvar med artikkel 31.
+
+3\. En godkjenningsmyndighet som har gitt en EU-typegodkjenning, skal for denne EU-typegodkjenningen treffe de nødvendige tiltakene for å kontrollere, om nødvendig i samarbeid med godkjenningsmyndighetene i de andre medlemsstatene, at forholdsreglene nevnt i nr. 1 i denne artikkel fortsatt er tilstrekkelige, slik at motorer i produksjon fortsatt er i samsvar med den godkjente typen, og at samsvarserklæringene dersom det er relevant, fortsatt er i samsvar med artikkel 31.
+
+4\. For å kontrollere at en motor er i samsvar med den godkjente typen, kan godkjenningsmyndigheten som har gitt EU-typegodkjenningen, utføre de kontrollene eller prøvingene som kreves for EU-typegodkjenning, på prøver tatt i produsentens lokaler, herunder i produsentens produksjonslokaler.
+
+5\. Dersom en godkjenningsmyndighet som har gitt en EU-typegodkjenning, konstaterer at forholdsreglene nevnt i nr. 1 ikke er truffet, at de avviker vesentlig fra de avtalte forholdsreglene som er nevnt i nr. 1, at de ikke lenger anvendes eller at de ikke lenger anses å være tilstrekkelige, selv om produksjonen fortsetter, skal den enten treffe de nødvendige tiltakene for å sikre at framgangsmåten for produksjonssamsvar følges korrekt, eller tilbakekalle EU-typegodkjenningen.
+
+6\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som utfyller denne forordning ved å fastsette detaljerte tiltak som skal treffes, og framgangsmåter som skal følges av godkjenningsmyndighetene for å sikre at motorene i produksjon er i samsvar med den godkjente typen. Disse delegerte rettsaktene skal vedtas innen 31. desember 2016.
+
+Kapittel VI
+
+Endringer av og gyldighet for EU-typegodkjenninger
+
+Artikkel 27
+
+Alminnelige bestemmelser
+
+1\. Produsenten skal omgående underrette godkjenningsmyndigheten som har gitt EU-typegodkjenningen, om eventuelle endringer i de opplysningene som er registrert i opplysningspakken.
+
 Ved en slik endring skal nevnte godkjenningsmyndighet avgjøre hvilken av framgangsmåtene fastsatt i artikkel 28 som skal følges.
-Om nødvendig kan godkjenningsmyndigheten etter samråd med produsenten beslutte
-at ny EU-typegodkjenning skal gis.
-2. En søknad om endring av en EU-typegodkjenning skal inngis bare til den godkjenningsmyndigheten som har gitt den opprinnelige EUtypegodkjenningen.
-3. Dersom godkjenningsmyndigheten finner at
-det er nødvendig å gjenta inspeksjoner eller
-prøvinger for å gjøre en endring, skal den
-underrette produsenten om dette.
-Framgangsmåtene fastsatt i artikkel 28 får
-anvendelse bare dersom godkjenningsmyndigheten på bakgrunn av disse inspeksjonene
 
-eller prøvingene konkluderer med at kravene
-til EU-typegodkjenning fortsatt er oppfylt.
-Artikkel 28
-Revisjon og utvidelse av EU-typegodkjenninger
-1. Dersom opplysninger som er registrert i opplysningspakken, er endret, uten at det kreves
-at inspeksjoner eller prøvinger gjentas, kalles
-en slik endring en «revisjon».
-Ved en slik revisjon skal godkjenningsmyndigheten uten unødig forsinkelse revidere de
-relevante sidene i opplysningspakken i nødvendig grad, og skal på hver side merke tydelig
-hvilken type endring det gjelder, og den skal
-også angi revisjonsdato og tilføye en revidert
-innholdsfortegnelse for opplysningspakken.
-En konsolidert, ajourført versjon av opplysningspakken, sammen med en detaljert beskrivelse av endringene, skal anses å oppfylle
-kravet i dette nummer.
-2. En endring som nevnt i nr. 1 kalles «utvidelse»
-dersom opplysningene som er registrert i opplysningspakken, er endret og et av følgende
-skjer:
-a) Det kreves ytterligere inspeksjoner eller
-prøvinger.
-b) Opplysninger i EU-typegodkjenningsdokumentet, med unntak av vedleggene, er
-endret.
-c) Et nytt krav som er fastsatt i denne forordning eller i en delegert rettsakt eller en
-gjennomføringsrettsakt vedtatt i henhold til
-denne forordning, får anvendelse på den
-godkjente motortypen eller motorfamilien.
-Ved en utvidelse skal godkjenningsmyndigheten opprette et ajourført EU-typegodkjenningsdokument med et utvidelsesnummer
-som skal økes i samsvar med antallet påfølgende utvidelser som er gitt tidligere. EU-typegodkjenningsdokumentet skal klart vise årsaken til utvidelsen samt datoen for utvidelsen.
-3. Dersom sider i informasjonspakken endres
-eller en konsolidert, ajourført versjon utstedes, skal innholdsfortegnelsen for opplysningspakken som følger typegodkjenningsdokumentet, endres og vise datoen for siste
-utvidelse eller revisjon, eller datoen for siste
-konsolidering av den ajourførte versjonen.
-4. Det kreves ingen endring av EU-typegodkjenningen av en motortype eller motorfamilie dersom et nytt krav nevnt i nr. 2 bokstav c) fra en
-teknisk synsvinkel er irrelevant for motortypen eller motorfamilien med hensyn til
-utslippsytelsen.
-
-[Side 75]
-
-2019–2020
-
-Prop. 61 LS
-
-73
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-Artikkel 29
-Utstedelse av og underretning om endringer
-1. Ved en revisjon av en EU-typegodkjenning
-skal godkjenningsmyndigheten uten unødig
-forsinkelse utstede til søkeren de reviderte
-dokumentene eller den konsoliderte, ajourførte versjonen, etter hva som er relevant, herunder den reviderte innholdsfortegnelsen for
-opplysningspakken som nevnt i artikkel 28
-nr. 1 annet ledd.
-2. Ved en utvidelse av en EU-typegodkjenning
-skal godkjenningsmyndigheten uten unødig
-forsinkelse utstede til søkeren det ajourførte
-EU-typegodkjenningsdokumentet nevnt i
-artikkel 28 nr. 2 annet ledd, herunder vedleggene til dette, og innholdsfortegnelsen for
-opplysningspakken.
-3. Godkjenningsmyndigheten skal ved hjelp av
-IMI underrette godkjenningsmyndighetene i
-de andre medlemsstatene om alle endringer i
-EU-typegodkjenninger i samsvar med artikkel
-22 nr. 5.
-Artikkel 30
-
-rende EU-typegodkjenningen, om denne
-avviklingen.
-Innen én måned etter at den har mottatt
-denne underretningen, skal godkjenningsmyndigheten som har gitt EU-typegodkjenningen
-av motortypen eller motorfamilien, underrette
-godkjenningsmyndighetene i de andre medlemsstatene om dette.
-5. Dersom en EU-typegodkjenning av en motortype eller eventuelt en motorfamilie blir ugyldig, skal produsenten uten at det berører nr. 4,
-underrette godkjenningsmyndigheten som
-har gitt den tilsvarende EU-typegodkjenningen, om dette.
-I slike tilfeller skal godkjenningsmyndigheten som har gitt EU-typegodkjenningen, omgående meddele alle relevante opplysninger til
-godkjenningsmyndighetene i de andre medlemsstatene.
-Meddelelsen skal særlig angi produksjonsdatoen og understellsnummeret for den sist
-produserte motoren.
-6. Meldingskravene som er nevnt i nr. 4 og 5,
-skal anses å være oppfylt dersom de relevante
-opplysningene er lastet opp til IMI.
-
-EU-typegodkjenningens gyldighet
-1. EU-typegodkjenninger skal utstedes for et
-ubegrenset tidsrom.
-2. En EU-typegodkjenning av en motor blir ugyldig i følgende tilfeller:
-a) Dersom nye krav som får anvendelse på
-den godkjente motortypen eller eventuelt
-på motorfamilien, blir obligatoriske for å
-bringe den i omsetning, og det ikke er
-mulig å utvide eller revidere EU-typegodkjenningen tilsvarende.
-b) Dersom produksjonen av den godkjente
-motortypen eller motorfamilien avvikles
-permanent og frivillig.
-c) Dersom EU-typegodkjenningens gyldighet
-utløper som følge av en begrensning i samsvar med artikkel 35 nr. 3.
-d) Dersom EU-typegodkjenningen er tilbakekalt i samsvar med artikkel 26 nr. 5, artikkel
-39 nr. 1 eller artikkel 40 nr. 3.
-3. Dersom vilkårene for en EU-typegodkjennings
-gyldighet ikke lenger er oppfylt for bare én
-motortype i en motorfamilie, blir EU-typegodkjenningen av vedkommende motorfamilie
-ugyldig bare for denne motortypen.
-4. Dersom produksjonen av en motortype eller
-eventuelt en motorfamilie avvikles permanent, skal produsenten underrette godkjenningsmyndigheten som har gitt den tilsva-
-
-Kapittel VII
-Samsvarserklæring og merking
-Artikkel 31
-Samsvarserklæring
-1. Produsenten skal i egenskap av å være innehaver av en EU-typegodkjenning for en motortype eller motorfamilie avgi en samsvarserklæring («samsvarserklæring») som skal følge
-motorer som er brakt i omsetning, på grunnlag av
-a) et unntak nevnt i artikkel 34 nr. 2, 4, 5, 6, 7
-eller 8 eller artikkel 35 nr. 4, eller
-b) en overgangsbestemmelse nevnt i artikkel
-58 nr. 9, 10 eller 11.
-Samsvarserklæringen skal angi særtrekk
-og begrensninger som gjelder for motoren,
-skal leveres gratis sammen med motoren og
-skal eventuelt følge den ikke-veigående mobile
-maskinen der motoren er montert. Leveringen
-skal ikke gjøres avhengig av en uttrykkelig anmodning eller av framlegging av tilleggsopplysninger for produsenten. Samsvarserklæringen
-kan også leveres i form av en sikker elektronisk fil.
-I et tidsrom på ti år etter motorens produksjonsdato skal produsenten på anmodning fra
-sluttbrukeren utstede en gjenpart av samsvars-
-
-[Side 76]
-
-74
-
-Prop. 61 LS
-
-2019–2020
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-2.
-
-3.
-
-4.
-
-5.
-
-erklæringen mot betaling av et beløp som ikke
-er større enn kostnaden ved å utstede den.
-Ordet «gjenpart» skal være klart synlig på enhver gjenpart av samsvarserklæringen.
-Samsvarserklæringen skal utarbeides på minst
-ett av de offisielle språkene i Unionens institusjoner.
-En medlemsstat kan be produsenten om at
-samsvarserklæringen oversettes til eget eller
-egne offisielle språk.
-Den eller de personene som har fullmakt til å
-undertegne samsvarserklæringer, skal tilhøre
-produsentens organisasjon, og skal ha behørig
-fullmakt fra ledelsen i organisasjonen til fullt ut
-å binde produsenten rettslig med hensyn til
-ansvar for motorens utforming og konstruksjon eller produksjonssamsvar.
-Samsvarserklæringen skal fylles ut i sin helhet, og skal ikke inneholde noen begrensninger med hensyn til bruken av motoren utover
-det som er fastsatt i denne forordning.
-Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter malen for samsvarserklæringen, herunder elementer som gjør det
-mulig å hindre forfalskning og kontrollere den
-sikre elektroniske filen. For dette formål skal
-sikkerhetselementene som brukes for å
-beskytte samsvarserklæringen, fastsettes i
-gjennomføringsrettsaktene. Disse gjennomføringsrettsaktene skal vedtas innen 31.
-desember 2016 etter framgangsmåten med
-forskriftskomité nevnt i artikkel 56 nr. 2.
-
-Artikkel 32
-Lovfestet merking av motorer
-1. Produsenten skal sette en merking på hver
-enkelt motor som er produsert i samsvar med
-den godkjente typen («lovfestet merking»).
-2. For følgende motorer skal den lovfestede
-merkingen inneholde tilleggsopplysninger
-om at motoren er omfattet av det relevante
-unntaket eller den relevante overgangsbestemmelsen:
-a) Motorer beregnet på eksport til tredjestater nevnt i artikkel 34 nr. 1 som er produsert i eller utenfor Unionen og deretter
-montert i ikke-veigående mobile maskiner i
-Unionen.
-b) Motorer som bringes i omsetning i samsvar
-med artikkel 34 nr. 2, 5, 6 eller 8.
-c) Motorer som midlertidig bringes i omsetning i samsvar med artikkel 34 nr. 4.
-d) Overgangsmotorer som bringes i omsetning i samsvar med artikkel 58 nr. 5.
-
-e) Reservemotorer som bringes i omsetning i
-samsvar med artikkel 34 nr. 7 eller artikkel
-58 nr. 10 eller 11.
-3. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter malen for den lovfestede
-merkingen, herunder obligatoriske grunnleggende opplysninger som kreves når motoren
-forlater produksjonslinjen, de obligatoriske
-grunnleggende opplysningene som kreves før
-motoren bringes i omsetning, og eventuelle tilleggsopplysninger nevnt i nr. 2 i denne artikkel. Disse gjennomføringsrettsaktene skal
-vedtas innen 31. desember 2016 etter framgangsmåten med forskriftskomité nevnt i
-artikkel 56 nr. 2.
-Artikkel 33
-Midlertidig merking av motorer
-1. Produsenten skal sette en midlertidig merking
-på hver enkelt motor som er produsert i samsvar med den godkjente typen, og som bringes
-i omsetning på grunnlag av artikkel 34 nr. 3.
-2. En motor som ennå ikke er i samsvar med den
-godkjente typen, og som leveres til produsenten av motoren, skal bare være påført en
-midlertidig merking.
-3. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter malen for den midlertidige
-merkingen nevnt i nr. 1 og 2 i denne artikkel,
-herunder de obligatoriske grunnleggende opplysningene som skal angis på merkingen. Disse
-gjennomføringsrettsaktene skal vedtas innen
-31. desember 2016 etter framgangsmåten med
-forskriftskomité nevnt i artikkel 56 nr. 2.
-Kapittel VIII
-Unntak
-Artikkel 34
-Generelle unntak
-1. Unntatt med hensyn til artikkel 32 nr. 2 bokstav a) omfattes motorer som er beregnet på
-eksport til tredjestater, ikke av denne forordning.
-2. Unntatt med hensyn til artikkel 32 nr. 2 bokstav b) omfattes motorer som er beregnet på å
-brukes av de væpnede styrker, ikke av denne
-forordning.
-Ved anvendelsen av dette nummer anses
-brannvesen, sivilforsvar og instanser som er
-ansvarlige for å ivareta offentlig orden og medisinske nødtjenester, ikke som en del av de væpnede styrker.
-
-[Side 77]
-
-2019–2020
-
-Prop. 61 LS
-
-75
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-3. Uten at det berører artikkel 32, og med samtykke fra OEM-produsenten kan en produsent
-levere en motor som er atskilt fra systemet for
-etterbehandling av eksos, til denne OEM-produsenten.
-4. Uten hensyn til artikkel 5 nr. 3 skal medlemsstatene tillate at motorer som ikke er EU-typegodkjent i samsvar med denne forordning,
-midlertidig bringes i omsetning med sikte på
-prøving i felt.
-5. Uten hensyn til artikkel 18 nr. 2 og artikkel 22
-nr. 3 skal medlemsstatene gi EU-typegodkjenning og tillate omsetning av motorer som overholder utslippsgrenseverdiene for forurensende gasser og partikler for spesialmotorer
-fastsatt i vedlegg VI, forutsatt at motorene er
-beregnet på montering i ikke-veigående
-mobile maskiner som skal brukes i eksplosjonsfarlige omgivelser, som definert i artikkel
-2 nr. 5 i europaparlaments- og rådsdirektiv
-2014/34/EU21.
-6. Uten hensyn til artikkel 18 nr. 2 og artikkel 22
-nr. 3 kan medlemsstatene på anmodning gi
-EU-typegodkjenning og tillate omsetning av
-motorer som overholder utslippsgrenseverdiene for forurensende gasser og partikler for
-spesialmotorer fastsatt i vedlegg VI, forutsatt
-at motorene er beregnet på montering i ikkeveigående mobile maskiner som brukes utelukkende til utsetting og ombordtaking av livbåter som drives av en nasjonal redningstjeneste.
-7. Uten hensyn til artikkel 5 nr. 3 og artikkel 18
-nr. 2 kan medlemsstatene for motorer i kategori RLL eller RLR som er brakt i omsetning
-på unionsmarkedet senest 31. desember 2011,
-tillate at reservemotorer bringes i omsetning
-dersom godkjenningsmyndigheten etter nærmere undersøkelse anerkjenner og konkluderer med at montering av en motor som overholder de gjeldende utslippsgrensene fastsatt i
-tabell II-7 og II-8 i vedlegg II, vil medføre betydelige tekniske vanskeligheter. I slike tilfeller
-skal reservemotorene enten overholde de
-utslippsgrensene som de måtte ha overholdt
-for å bli brakt i omsetning på unionsmarkedet
-31. desember 2011, eller overholde strengere
-utslippsgrenser.
-For motorer i kategori RLL og RLR som er
-brakt i omsetning på unionsmarkedet etter 31.
-21
-
-Europaparlaments- og rådsdirektiv 2014/34/EU av
-26. februar 2014 om harmonisering av medlemsstatenes
-lovgivning om utstyr og sikringssystemer til bruk i eksplosjonsfarlige omgivelser (EUT L 96 av 29.3.2014, s. 309).
-
-desember 2011, kan medlemsstatene tillate at
-reservemotorer bringes i omsetning dersom
-de overholder de utslippsgrensene som de motorene som skal skiftes ut, måtte overholde da
-de opprinnelig ble brakt i omsetning på unionsmarkedet.
-8. For motorer i kategori RLL eller RLR kan medlemsstatene tillate at motorer bringes i omsetning dersom de overholder de senest gjeldende utslippsgrensene som er fastsatt i det
-relevante regelverket som gjaldt 5. oktober
-2016, forutsatt at
-a) disse motorene er en del av et langt framskredent prosjekt 6. oktober 2016, som definert i direktiv 2008/57/EF, og
-b) bruken av motorer som overholder de gjeldende utslippsgrensene fastsatt i tabell II-7
-og II-8 i vedlegg II, vil medføre uforholdsmessig store kostnader.
-Innen 17. september 2017 skal hver medlemsstat oversende Kommisjonen en liste over
-alle slike prosjekter.
-9. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 for
-å utfylle denne forordning med nærmere tekniske spesifikasjoner og vilkår for hvordan
-a) en produsent kan levere en motor som er
-atskilt fra systemet for etterbehandling av
-eksos, til en OEM-produsent som nevnt i
-nr. 3,
-b) motorer som ikke er EU-typegodkjent i
-samsvar med denne forordning, som nevnt
-i nr. 4, midlertidig kan bringes i omsetning
-med sikte på prøving i felt,
-c) motorer som overholder utslippsgrenseverdiene for forurensende gasser og partikler for spesialmotorer fastsatt i vedlegg
-VI, som nevnt i nr. 5 og 6, kan få EU-typegodkjenning og tillatelse til å bringes i
-omsetning.
-Disse delegerte rettsaktene skal vedtas
-innen 31. desember 2016.
-Artikkel 35
-Unntak for ny teknologi eller nye prinsipper
-1. En produsent kan søke om EU-typegodkjenning av en motortype eller motorfamilie som
-omfatter ny teknologi eller nye prinsipper, og
-som er uforenlig med ett eller flere av kravene
-i denne forordning som følge av denne nye
-teknologien eller disse nye prinsippene.
-2. Godkjenningsmyndigheten skal gi EU-typegodkjenningen nevnt i nr. 1 dersom alle følgende vilkår er oppfylt:
-
-[Side 78]
-
-76
-
-Prop. 61 LS
-
-2019–2020
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-3.
-
-4.
-
-5.
-
-6.
-
-a) Søknaden angir årsakene til at den nye teknologien eller de nye prinsippene gjør
-motortypen eller motorfamilien uforenlig
-med ett eller flere av kravene i denne forordning.
-b) Søknaden beskriver de miljømessige følgene av den nye teknologien eller de nye
-prinsippene og hvilke tiltak som er truffet
-for å sikre minst samme nivå av miljøvern
-som fastsatt i de kravene i denne forordning
-som det søkes om unntak fra.
-c) Det framlegges prøvingsbeskrivelser og
-prøvingsresultater som beviser at vilkåret i
-bokstav b) er oppfylt.
-Tildeling av EU-typegodkjenningen nevnt i
-nr. 1 forutsetter tillatelse fra Kommisjonen.
-I tillatelsen fra Kommisjonen skal det eventuelt angis hvorvidt den er underlagt begrensninger.
-Tillatelsen skal gis ved en gjennomføringsrettsakt.
-I påvente av beslutningen om tillatelse fra
-Kommisjonen i henhold til nr. 3 kan godkjenningsmyndigheten utstede en foreløpig EUtypegodkjenning som skal være gyldig
-a) bare på nevnte medlemsstats territorium,
-b) bare for en motortype eller motorfamilie
-som omfattes av unntaket som det søkes
-om, og
-c) i minst 36 måneder.
-Dersom det utstedes en foreløpig EU-typegodkjenning, skal godkjenningsmyndigheten
-omgående underrette Kommisjonen og de
-andre medlemsstatene om dette ved hjelp av
-dokumentasjon som inneholder opplysningene
-nevnt i nr. 2.
-Det skal framgå tydelig av overskriften i
-EU-typegodkjenningsdokumentet og overskriften i den tilsvarende samsvarserklæringen
-at en slik foreløpig EU-typegodkjenning er
-foreløpig og har begrenset geografisk gyldighet.
-Dersom en godkjenningsmyndighet beslutter
-å godta en foreløpig EU-typegodkjenning
-nevnt i nr. 4 på dens territorium, skal den
-underrette den berørte godkjenningsmyndigheten og Kommisjonen skriftlig om dette.
-Dersom Kommisjonen beslutter ikke å gi tillatelsen nevnt i nr. 3, skal godkjenningsmyndigheten umiddelbart underrette innehaveren av den foreløpige EU-typegodkjenningen
-nevnt i nr. 4 om at den foreløpige EU-typegodkjenningen vil bli trukket tilbake seks måneder etter den datoen da Kommisjonen nektet
-tillatelse.
-
-Uten hensyn til Kommisjonens beslutning
-om ikke å gi tillatelsen nevnt i nr. 3 kan motorer
-som er produsert i samsvar med den foreløpige
-EU-typegodkjenningen før gyldigheten utløper,
-bringes i omsetning i enhver medlemsstat der
-godkjenningsmyndigheten har godtatt den
-foreløpige EU-typegodkjenningen.
-7. Kravene som er nevnt i nr. 4 annet ledd og i
-nr. 5, skal anses å være oppfylt dersom de relevante opplysningene er lastet opp til IMI.
-8. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter tillatelsen nevnt i nr. 3 i
-denne artikkel. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i
-artikkel 56 nr. 2.
-9. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter de harmoniserte malene
-for EU-typegodkjenningsdokumentet og samsvarserklæringen nevnt i nr. 4 i denne artikkel,
-herunder de obligatoriske grunnleggende
-opplysningene. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember 2016
-etter framgangsmåten med forskriftskomité
-nevnt i artikkel 56 nr. 2.
-Artikkel 36
-Etterfølgende tilpasning av delegerte rettsakter
-og gjennomføringsrettsakter
-1. Dersom Kommisjonen tillater at det gis unntak
-i henhold til artikkel 35, skal den umiddelbart
-treffe nødvendige tiltak for å tilpasse de relevante delegerte rettsaktene eller gjennomføringsrettsaktene til den tekniske utvikling.
-Dersom unntaket som innvilges i henhold til
-artikkel 35, gjelder et forhold som det er fastsatt
-regler for i et UN-ECE-reglement, skal Kommisjonen foreslå en endring i dette reglementet
-etter den aktuelle framgangsmåten i henhold til
-den reviderte overenskomsten av 1958.
-2. Så snart de relevante delegerte rettsaktene
-eller gjennomføringsrettsaktene som er nevnt
-i nr. 1, er endret, skal Kommisjonen oppheve
-eventuelle begrensninger som ble pålagt ved
-beslutningen om å tillate unntaket.
-Dersom tiltakene som er nødvendige for å
-tilpasse de delegerte rettsaktene eller gjennomføringsrettsaktene, ikke er truffet, kan
-Kommisjonen på anmodning fra den medlemsstaten som har gitt den foreløpige EU-typegodkjenningen, tillate at denne medlemsstaten utvider den, ved en beslutning truffet i form av en
-gjennomføringsrettsakt vedtatt etter framgangsmåten med undersøkelseskomité nevnt i
-artikkel 56 nr. 2.
-
-[Side 79]
-
-2019–2020
-
-Prop. 61 LS
-
-77
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-Kapittel IX
-Produksjonsrapportering og -kontroll
-Artikkel 37
-Produsentenes forpliktelser med hensyn til
-produksjonsrapportering
-1. Produsenten skal framlegge for godkjenningsmyndigheten som har gitt EU-typegodkjenningen, en liste over antall motorer for hver
-motortype og motorunderkategori som er produsert i samsvar med denne forordning og i
-samsvar med EU-typegodkjenningen siden
-siste produksjonsrapport ble framlagt, eller
-siden kravene i denne forordning første gang
-fikk anvendelse.
-Denne listen skal framlegges
-a) innen 45 dager etter utgangen av hvert
-kalenderår,
-b) umiddelbart etter hver av datoene for
-omsetning av motorer nevnt i vedlegg III og
-c) innen enhver annen dato som godkjenningsmyndigheten kan fastsette.
-2. Listen nevnt i nr. 1 skal angi hvordan identifikasjonsnumrene henger sammen med de tilsvarende motortypene og eventuelt motorfamiliene, og med EU-typegodkjenningsnumrene dersom denne sammenhengen ikke
-framgår av motorkodesystemet.
-3. Listen nevnt i nr. 1 skal klart angi alle tilfeller
-der produsenten slutter å produsere en godkjent motortype eller motorfamilie.
-4. Produsenten skal oppbevare en kopi av listen
-nevnt i nr. 1 i et tidsrom på minst 20 år etter at
-gyldighetstiden til den aktuelle EU-typegodkjenningen er utløpt.
-5. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter formatet for listen nevnt i
-nr. 1 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas innen 31. desember
-2016 etter framgangsmåten med forskriftskomité nevnt i artikkel 56 nr. 2.
-Artikkel 38
-Kontrolltiltak
-1. Godkjenningsmyndigheten i en medlemsstat
-som har gitt en EU-typegodkjenning, skal, eventuelt i samarbeid med godkjenningsmyndighetene i de andre medlemsstatene, treffe de tiltakene som er nødvendige for å sikre at identifikasjonsnumrene for EU-typegodkjenning tildeles og brukes riktig av produsentene, før den
-typegodkjente motoren bringes i omsetning
-eller gjøres tilgjengelig på markedet.
-
-2. Det kan foretas ytterligere kontroll av identifikasjonsnumrene i forbindelse med kontrollen
-av produksjonssamsvar fastsatt i artikkel 26.
-3. Med hensyn til kontrollen av identifikasjonsnumrene skal produsenten eller produsentens
-representant på anmodning omgående framlegge for den ansvarlige godkjenningsmyndigheten de nødvendige opplysningene om produsentens kjøpere sammen med identifikasjonsnumrene til motorene som oppgis å være
-produsert i samsvar med artikkel 37. Dersom
-motorene er gjort tilgjengelige for en OEMprodusent, kreves det ingen ytterligere opplysninger fra produsenten.
-4. Dersom produsenten på anmodning fra godkjenningsmyndigheten ikke kan godtgjøre at
-de lovfestede kravene til merking er oppfylt,
-kan godkjenningsmyndigheten tilbakekalle EUtypegodkjenningen for den tilsvarende motortypen eller motorfamilien. Godkjenningsmyndighetene skal innen én måned underrette
-hverandre om alle EU-typegodkjenninger som
-er tilbakekalt, og om årsakene til denne tilbakekallingen, i samsvar med artikkel 22 nr. 5.
-Kapittel X
-Beskyttelsesklausuler
-Artikkel 39
-Motorer som ikke er i samsvar med den
-godkjente typen
-1. Dersom motorer som er påført lovfestet merking og eventuelt følges av en samsvarserklæring, ikke er i samsvar med den godkjente
-motortypen eller motorfamilien, skal godkjenningsmyndigheten som har gitt EU-typegodkjenningen, treffe de nødvendige tiltakene for
-å sikre at motorene i produksjon bringes i
-samsvar med den godkjente motortypen eller
-motorfamilien. Slike tiltak kan omfatte tilbakekalling av EU-typegodkjenningen dersom de
-korrigerende tiltakene som produsenten har
-truffet, er utilstrekkelige.
-Den relevante godkjenningsmyndigheten
-skal underrette godkjenningsmyndighetene i de
-andre medlemsstatene om tiltakene som treffes.
-2. Med hensyn til nr. 1 skal avvik fra opplysningene i EU-typegodkjenningsdokumentet eller i
-opplysningspakken anses å utgjøre manglende
-samsvar med den godkjente motortypen eller
-motorfamilien dersom disse avvikene ikke er
-godkjent i samsvar med kapittel IV.
-3. Dersom en godkjenningsmyndighet konstaterer at motorer som har en samsvarserklæring,
-
-[Side 80]
-
-78
-
-Prop. 61 LS
-
-2019–2020
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-dersom det er relevant, eller som er påført et
-typegodkjenningsmerke utstedt i en annen
-medlemsstat, ikke er i samsvar med den godkjente motortypen eller motorfamilien, kan
-den be om at godkjenningsmyndigheten som
-har gitt EU-typegodkjenningen, kontrollerer at
-motorene i produksjon fortsatt er i samsvar
-med den godkjente motortypen eller motorfamilien. Når godkjenningsmyndigheten som
-har gitt EU-typegodkjenningen, mottar en slik
-anmodning, skal den snarest mulig og senest
-innen tre måneder etter at anmodningen blir
-framsatt, treffe tiltakene nevnt i nr. 1.
-4. Godkjenningsmyndighetene skal innen én
-måned underrette hverandre om alle EU-typegodkjenninger som er tilbakekalt, og om
-årsakene til denne tilbakekallingen, i samsvar
-med artikkel 22 nr. 5.
-5. Dersom godkjenningsmyndigheten som har
-gitt EU-typegodkjenningen, bestrider at det
-foreligger mangel på samsvar som den er
-underrettet om, skal de berørte medlemsstatene forsøke å bilegge tvisten.
-Godkjenningsmyndigheten skal holde
-Kommisjonen underrettet om dette, og Kommisjonen skal om nødvendig få i stand passende samråd for å komme fram til en løsning.
-Artikkel 40
-Tilbakekalling av motorer
-1. Dersom en produsent som er tildelt en EU-typegodkjenning, er forpliktet i henhold til artikkel
-20 nr. 1 i forordning (EF) nr. 765/2008 til å tilbakekalle motorer som er brakt i omsetning, uansett om de er montert i ikke-veigående mobile
-maskiner eller ikke, på grunnlag av at motorene
-utgjør en alvorlig risiko med hensyn til vern av
-miljøet og menneskers helse, skal produsenten
-a) umiddelbart underrette godkjenningsmyndigheten som har gitt EU-typegodkjenningen, og
-b) foreslå egnede tiltak for denne godkjenningsmyndigheten for å håndtere den
-alvorlige risikoen.
-2. Godkjenningsmyndigheten skal omgående
-underrette godkjenningsmyndighetene i de
-andre medlemsstatene og Kommisjonen om
-de foreslåtte løsningene.
-Godkjenningsmyndighetene skal sikre at
-løsningene iverksettes effektivt i deres respektive medlemsstater.
-3. Dersom en godkjenningsmyndighet mener at
-løsningene er utilstrekkelige eller ikke er gjennomført raskt nok, skal den omgående under-
-
-rette godkjenningsmyndigheten som har gitt
-EU-typegodkjenningen, om dette.
-Dersom produsenten ikke deretter foreslår
-og iverksetter effektive korrigerende tiltak,
-skal godkjenningsmyndigheten som har gitt
-EU-typegodkjenningen, treffe alle nødvendige
-beskyttelsestiltak, herunder tilbakekalling av
-EU-typegodkjenningen.
-Ved tilbakekalling av EU-typegodkjenningen skal godkjenningsmyndigheten innen en
-måned etter denne tilbakekallingen underrette
-produsenten, godkjenningsmyndighetene i de
-andre medlemsstatene og Kommisjonen ved
-rekommandert brev eller på tilsvarende elektronisk måte.
-Artikkel 41
-Underretning om beslutninger og klageadgang
-1. Beslutninger av følgende type eller for følgende formål skal angi begrunnelsen som de
-bygger på:
-a) Beslutninger som treffes i henhold til
-denne forordning.
-b) Beslutninger om å nekte eller trekke tilbake EU-typegodkjenning.
-c) Beslutninger om å kreve at en motor tilbakekalles fra markedet.
-d) Beslutninger om å forby, begrense eller
-hindre omsetningen av en motor.
-e) Beslutninger om å forby, begrense eller hindre omsetning av ikke-veigående mobile
-maskiner der en motor som er omfattet av
-denne forordnings virkeområde, er montert.
-2. Godkjenningsmyndigheten skal underrette
-den berørte part om
-a) alle beslutninger som er nevnt i nr. 1,
-b) hvilken klageadgang som er tilgjengelig for
-vedkommende i henhold til gjeldende lovgivning i den berørte medlemsstat, og
-hvilke frister som gjelder for denne klageadgangen.
-Kapittel XI
-Internasjonale regler og framlegging av tekniske
-opplysninger
-Artikkel 42
-Godkjenning av likeverdige motortypegodkjenninger
-1. Unionen kan innenfor rammen av multilaterale
-eller bilaterale avtaler mellom Unionen og
-tredjestater anerkjenne vilkårene for og
-bestemmelsene om EU-typegodkjenning av
-
-[Side 81]
-
-2019–2020
-
-Prop. 61 LS
-
-79
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-motorer fastsatt ved denne forordning som
-likeverdige med framgangsmåtene fastsatt i
-internasjonale regler eller tredjestaters regler.
-2. Typegodkjenning som er gitt, og lovfestet merking som er i samsvar med UN-ECE-reglementer eller endringer av disse, og som Unionen har stemt for, eller som Unionen har tiltrådt, som angitt i den delegerte rettsakt nevnt
-i nr. 4 bokstav a), skal anerkjennes som likeverdig med EU-typegodkjenning som er gitt
-og lovfestet merking som kreves i samsvar
-med denne forordning.
-3. EU-typegodkjenning som er gitt på grunnlag
-av unionsrettsaktene oppført i den delegerte
-rettsakten nevnt i nr. 4 bokstav b), skal anerkjennes som likeverdig med EU-typegodkjenninger som er gitt i samsvar med denne forordning.
-4. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som
-utfyller denne forordning ved å fastsette
-a) listen over UN-ECE-reglementer eller
-endringer av disse, herunder alle krav
-angitt i disse som gjelder anvendelsen av
-dem, som Unionen har stemt for, eller som
-Unionen har tiltrådt, og som får anvendelse
-på EU-typegodkjenning av motortyper og
-motorfamilier som skal monteres i ikke-veigående mobile maskiner,
-b) listen over unionsrettsakter som det gis
-EU-typegodkjenning i henhold til, herunder alle krav angitt i disse som gjelder
-anvendelsen av dem.
-Disse delegerte rettsaktene skal vedtas
-innen 31. desember 2016.
-Artikkel 43
-Opplysninger og veiledning beregnet på produsenter av originalt utstyr og sluttbrukere
-1. En produsent skal ikke gi OEM-produsenter
-eller sluttbrukere teknisk informasjon om opplysningene som er fastsatt i denne forordning,
-som avviker fra opplysningene som godkjenningsmyndigheten har godkjent.
-2. Produsenten skal stille alle relevante opplysninger og veiledning som er nødvendig for riktig montering av en motor i ikke-veigående
-mobile maskiner, til rådighet for OEM-produsenter, herunder en beskrivelse av eventuelle
-særlige vilkår eller begrensninger for montering eller bruk av motoren.
-3. Produsenten skal stille alle relevante opplysninger og nødvendig veiledning som er beregnet på sluttbrukeren, til rådighet for OEM-pro-
-
-dusenter, herunder en beskrivelse av eventuelle særlige vilkår eller begrensninger for
-bruk av motoren.
-4. Produsentene skal gjøre verdien av karbondioksidutslippene (CO2) som bestemmes ved
-EU-typegodkjenningen, tilgjengelig for OEMprodusenter, og skal pålegge OEM-produsentene å oversende disse opplysningene
-sammen med opplysninger om prøvingsforholdene til sluttbrukeren av de ikke-veigående
-mobile maskinene der motoren skal monteres.
-5. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 55 som
-utfyller denne forordning ved å fastsette nærmere bestemmelser om opplysningene og veiledningen som er nevnt i nr. 2, 3 og 4 i denne
-artikkel. Disse delegerte rettsaktene skal vedtas innen 31. desember 2016.
-Artikkel 44
-Utveksling av data og opplysninger via IMI
-1. Utveksling av data og opplysninger i forbindelse med EU-typegodkjenning mellom nasjonale myndigheter eller mellom nasjonale
-myndigheter og Kommisjonen, innenfor rammen av denne forordning skal foregå i elektronisk format via IMI.
-2. Alle relevante opplysninger om EU-typegodkjenning som gis i samsvar med denne forordning, skal samles inn sentralt og gjøres tilgjengelig for nasjonale myndigheter og Kommisjonen via IMI.
-3. Kommisjonen skal sikre at IMI også
-a) gjør det mulig å utveksle data og opplysninger mellom produsenter eller tekniske
-instanser på den ene side og nasjonale
-myndigheter eller Kommisjonen på den
-annen side,
-b) gir offentlig tilgang til visse data og opplysninger om resultatene av typegodkjenning
-og resultatene av overvåkingen av motorer
-i bruk,
-c) dersom det er relevant og teknisk og økonomisk mulig, og etter avtale med de
-berørte medlemsstatene, tilbyr funksjoner
-for automatisk overføring av data mellom
-eksisterende nasjonale databaser og IMI.
-4. Bruken av IMI som nevnt i nr. 3 er frivillig.
-5. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter detaljerte tekniske krav
-og framgangsmåter som er nødvendige for å
-kople IMI sammen med eksisterende nasjonale databaser nevnt i nr. 3 bokstav c) i denne
-artikkel. Disse gjennomføringsrettsaktene
-
-[Side 82]
-
-80
-
-Prop. 61 LS
-
-2019–2020
-
-Endringer i arbeidsmiljøloven og allmenngjøringsloven mv. (håndheving av innleie- og likebehandlingsreglene og Arbeidstilsynets
-krav om opplysninger mv.) og samtykke til godkjenning av EØS-komiteens beslutning nr. 39/2020 om innlemmelse i EØS-avtalen
-av forordning (EU) 2016/1628
-
-skal vedtas innen 31. desember 2016 etter
-framgangsmåten med forskriftskomité nevnt i
-artikkel 56 nr. 2.
-Kapittel XII
-Utpeking av og underretning om tekniske
-instanser
-
-6.
-
-Artikkel 45
-Krav som gjelder tekniske instanser
-1. En teknisk instans skal utpekes av en godkjenningsmyndighet i samsvar med artikkel 47, og
-skal oppfylle kravene fastsatt i nr. 2–9 i denne
-artikkel.
-2. En teknisk instans skal opprettes i henhold til
-en medlemsstats nasjonale lovgivning, og skal
-være et rettssubjekt.
-3. Den tekniske instansen skal være en tredjemann som er uavhengig av prosessen med å
-konstruere, produsere, levere eller vedlikeholde motorene den vurderer.
-Et organ som tilhører en sammenslutning
-av foretak eller en yrkessammenslutning som
-representerer foretak som deltar i konstruksjon, produksjon, levering, montering, installering, bruk eller vedlikehold av motorer som
-organet vurderer, prøver eller inspiserer, kan
-anses å oppfylle kravene i første ledd, forutsatt
-at det er godtgjort at organet er uavhengig, og
-at det ikke foreligger interessekonflikter.
-4. Den tekniske instansen, herunder dens øverste ledelse og det personalet som er ansvarlig
-for å utføre de virksomhetskategoriene som
-den tekniske instansen er utpekt til i samsvar
-med artikkel 47 nr. 1, skal ikke være konstruktør, produsent, leverandør eller montør av eller
-den som vedlikeholder de motorene som den
-vurderer, og skal ikke representere parter
-som deltar i denne virksomheten. Denne
-begrensningen utelukker ikke bruk av vurderte motorer nevnt i nr. 3 i denne artikkel
-som er nødvendige for driften av den tekniske
-instansen, eller bruk av slike motorer for personlige formål.
-Den tekniske instansen skal sikre at dens
-datterforetaks eller underleverandørs virksomhet ikke påvirker dens fortrolighet, objektivitet
-eller upartiskhet i forbindelse med de virksomhetskategoriene som den er utpekt til.
-5. Den tekniske instansen skal utføre de virksomhetskategoriene som den er utpekt til,
-med den høyeste grad av faglig integritet og
-ha de nødvendige tekniske kvalifikasjoner på
-det aktuelle området, og dens personale skal
-
-7.
-
-8.
-
-9.
-
-ikke være utsatt for noen form for press eller
-påvirkning, særlig av økonomisk art, som vil
-kunne påvirke dens avgjørelser eller resultatene av dens vurderingsvirksomhet, særlig
-press eller påvirkning som kommer fra personer eller grupper av personer som er berørt av
-resultatene av denne virksomheten.
-Den tekniske instansen skal godtgjøre overfor
-dens utpekende godkjenningsmyndighet at den
-er i stand til å utføre alle virksomhetskategorier
-som den søker om å bli utpekt til i samsvar med
-artikkel 47 nr. 1, ved å sikre at den har
-a) personale med relevante ferdigheter og
-konkrete tekniske kunnskaper og yrkesrettet opplæring samt tilstrekkelig og relevant
-erfaring til å utføre oppgaven,
-b) beskrivelser av framgangsmåtene som er
-relevante for de virksomhetskategoriene
-som den søker om å bli utpekt til, for dermed å sikre åpenhet rundt og reproduserbarhet for disse framgangsmåtene,
-c) framgangsmåter for utøvelsen av de virksomhetskategoriene som den søker om å
-bli utpekt til, som tar behørig hensyn til
-hvor kompleks den aktuelle motorens teknologi er, og hvorvidt motoren er masseeller serieprodusert, og
-d) midlene som er nødvendige for på en hensiktsmessig måte å utføre de oppgavene
-som er knyttet til de virksomhetskategoriene som den søker om å bli utpekt til, og at
-den har tilgang til alt nødvendig utstyr eller
-nødvendige anlegg.
-Den tekniske instansen, herunder dens øverste ledelse og vurderingspersonalet, skal være
-upartisk og skal ikke delta i virksomhet som
-kan være i strid med deres uavhengighet eller
-integritet i forbindelse med de virksomhetskategoriene som den tekniske instansen er
-utpekt til.
-Den tekniske instansen skal tegne ansvarsforsikring som omfatter virksomheten, med
-mindre medlemsstaten påtar seg erstatningsansvaret i henhold til nasjonal lovgivning, eller
-medlemsstaten selv er direkte ansvarlig for
-vurderingen.
-Den tekniske instansens personale har taushetsplikt med hensyn til alle opplysninger de
-får kjennskap til når de utfører sine oppgaver i
-henhold til denne forordning eller internrettslige bestemmelser som gjennomfører den.
-Den tekniske instansens personale er ikke
-bundet av forpliktelsen nevnt i første ledd når
-det gjelder utveksling av opplysninger med den
-utpekende godkjenningsmyndigheten, eller
+Om nødvendig kan godkjenningsmyndigheten etter samråd med produsenten beslutte at ny EU-typegodkjenning skal gis.
