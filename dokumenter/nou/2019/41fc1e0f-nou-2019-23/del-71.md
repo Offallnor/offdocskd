@@ -1,2003 +1,406 @@
-# NOU 2019: 23, del 71 av 71 (side 797–814)
+# NOU 2019: 23, del 71 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 797]
-
-NOU 2019: 23
-Ny opplæringslov
-
-juss og politikk (s. 75–96). Oslo: Universitetsforlaget
-Wendelborg, C. (2019). Mobbing og arbeidsro i skolen: Analyse av Elevundersøkelsen skoleåret
-2018/19. NTNU: Rapport 2019
-Wendelborg, C., Caspersen, J., Mordal, S., Ljusberg, A.-L., Valenta, M. & Bunar, N. (2018).
-Lek, læring og ikke-pedagogikk for alle. Nasjonal evaluering av skolefritidsordningen i Norge.
-NTNU: Rapport 2018
-Wilhelm, M. (1987). Norsk skolerett. Oslo: Universitetsforlaget
-Østfold fylkeskommune. (2017). Østfoldkontrakten
-– for flere læreplasser. Hentet fra https://
-www.ostfoldfk.no/opplaring/opplaring-i-bedrift/larebedrift/ostfoldkontrakten/
-Innspill til utvalget
-Innspill som Opplæringslovutvalget har fått i perioden 2017–2019 finnes på forsiden til Opplæringslovutvalgets nettsted og under fanene referansegruppen og innspill fra andre. Se https://
-www.opplaringslovutvalget.no/
-Referansegruppen
-Barneombudet. Barneombudets anbefalinger til
-opplæringslovutvalget – desember 2017
-Barneombudet. Innspill til opplæringslovutvalget –
-referansegruppemøte 6.3.2018
-Barneombudet. Barneombudets svar på forespørsel
-om behovet for regelstyring
-Barneombudet. Tilpasset opplæring og spesialundervisning – innspill til opplæringslovutvalget
-Barneombudet. Fra lov til virkelighet – bedre hjelp
-til elevene som trenger det mest
-Barneombudet. Innspill til tekstutkast om utfordringer med regelstyringen og prinsipper for regelstyring
-Barneombudet & Trygg Trafikk. Behov for å revidere Utdanningsdirektoratets rundskriv om
-skyss
-Elevorganisasjonen. Opplæringslova. Elevorganisasjonens erfaringer
-Elevorganisasjonen. Det er et demokratisk problem
-at elevene ikke kjenner sine rettigheter
-Foreldreutvalget for grunnopplæringen (FUG).
-Innspill til opplæringslovutvalget
-Foreldreutvalget for grunnopplæringen (FUG).
-Innspill til opplæringslovutvalget fra Foreldreutvalget for grunnopplæringen (FUG)
-Foreldreutvalget for grunnopplæringen (FUG).
-Forenklet lovverk og direkte kobling
-
-795
-
-Kilder og litteratur
-
-Foreldreutvalget for grunnopplæringen (FUG).
-Innspill til tekstutkast om regelstyring
-Foreldreutvalget for grunnopplæringen (FUG).
-Minstetid til opplæring og tilpasset opplæring og
-spesialundervisning
-Foreldreutvalget for grunnopplæringen (FUG).
-SFO og samarbeid med foreldrene
-KS. Utfordringer ved dagens regelstyring og gode
-prinsipper for regelstyring
-KS. Kommentarer til åtte spørsmål fra opplæringslovutvalget
-KS. Minstetid til opplæring
-KS. Opplæringslovutvalget. Kommentarer til tekstutkast om utfordringer med regelstyring av
-grunnopplæringen
-Norsk Lektorlag. Innspill til opplæringslovutvalget
-Norsk Lektorlag. Økte elevrettigheter gir mindre
-tid til undervisning
-Norsk Lektorlag. Innspill fra Norsk Lektorlag til
-opplæringsutvalget om minstetid til opplæring
-Norsk Lektorlag. Innspill til opplæringsutvalget fra
-Norsk Lektorlag om tilpasset opplæring og spesialundervisning
-Sametinget. E-post 31.05.2019 om Utvidelse av retten til opplæring på samisk
-Sametinget. Tre hovedutfordringer med dagens regelstyring av grunnopplæringen fra et samisk
-perspektiv
-Skolelederforbundet. Innspill fra Skolelederforbundet
-Skolelederforbundet. Forespørsel til referansegruppen om behovet for regelstyring i opplæringssektoren
-Skolelederforbundet. Innspill om hovedutfordringer
-Skolelederforbundet. Innspill om åremålsstillinger
-Skolenes landsforbund. Innspill til Opplæringslovutvalget fra Skolenes landsforbund.
-Skolenes landsforbund. Kommentarer til tekstutkastet «Utfordringer ved regelstyringen av
-grunnopplæringen» fra Skolenes landsforbund
-Utdanningsforbundet. Innspill til tekstutkast om
-utfordringer med regelstyringen av grunnopplæringen
-Utdanningsforbundet. Bakgrunnsnotat om minstetid til opplæring: Innspill fra Utdanningsforbundet
-Utdanningsforbundet. Bakgrunnsnotat om tilpasset opplæring og spesialundervisning: Innspill
-fra Utdanningsforbundet
-Utdanningsforbundet. Utfordringer med dagens regelstyring – innspill fra Utdanningsforbundet
-Utdanningsforbundet. Utfordringer med dagens regelverk og behovet for styring. Tilbakemelding til
-opplæringslovutvalget
-
-[Side 798]
-
-796
-
-Kilder og litteratur
-
-NOU 2019: 23
-Ny opplæringslov
-
-Utdanningsforbundet. Kapittel 9 A kan utfordre
-lærernes rettssikkerhet
-Utdanningsforbundet. Brev til Opplæringslovutvalget. Manglende rett til utdanning for innsatte i
-fengslene og for enslige mindreårige med avslag
-på søknad om opphold
-Utdanningsforbundet.
-Opplæringslovutvalgets
-sjekkliste om regelstyring – innspill fra Utdanningsforbundet
-Utdanningsforbundet. Tilpasset opplæring og spesialundervisning utfordringer og behov for regelverksendringer
-Utdanningsforbundet. Utfordringer i dagens regelverk innenfor fag- og yrkesopplæringen
-Andre
-Abelia. Forum for Friskoler. Opplæringsloven og
-internasjonale skoler godkjent under § 2-12
-Aksjon skolebibliotek. Behov for skjerpet lovgivning for skolebibliotek
-Aksjon skolebibliotek. Innspillsdokument til opplæringslovutvalget
-Byggenæringens landsforening. Innspill til utvalget vedrørende visse forhold for yrkesfag
-Datatilsynet. Barnas personvern er viktig
-Den Franske Skolen i Oslo. Innspill til Opplæringslovutvalget fra Den Franske Skolen i Oslo
-Elev- og lærlingombudet i Vest-Agder fylkeskommune. Opplæringslova – ti på topp og ti på
-bunn
-Faglig råd for elektrofag. Uttalelse til opplæringslovutvalget
-Fagpolitisk utvalg i Østlandssamarbeidet. Innspill
-fra fagpolitisk utvalg i østlandssamarbeidet til
-opplæringslovutvalget
-Fleksibel utdanning Norge. Innspill fra Fleksibel
-utdanning Norge til Opplæringslovsutvalget
-Forandringsfabrikken. Til Opplæringslovutvalget
-fra Forandringsfabrikken Kunnskapssenter
-Foreldrenettverket mot mobbing. Innspill/ høring
-om opplæringsloven
-Friskolenes Kontaktforum & Friskoleforum. Notat til opplæringslovutvalget fra friskoleorganisasjonene, 3. juli 2018.
-Funksjonshemmedes Fellesorganisasjon (FFO).
-Innspill til Opplæringslovutvalget
-Fylkesmannen i Rogaland. Om ansvaret for opplæring – barn i institusjonar etter barnevernlova
-Fylkesmannen i Rogaland. Oppmoding om å vurdere plikt for skolar til å utarbeide individuell
-plan
-Fylkesmannen i Sogn og Fjordane. Korleis støtte
-opp om utvikling og læring?
-
-Fylkesmannen i Vestfold og Telemark. Opplæringslovutvalget: Innspill om skoleskyss
-Isaac Norge. Isaac Norge sine innspill til ny opplæringslov
-Joron Pihl. Forslag til styrking av skolebibliotek i
-Opplæringsloven fra Joron Pihl
-Jostein Alberti-Espenes. Innspill til opplæringslov,
-kap 9A
-Kjartan Espeland. Innspill vedr. Opplæringslovens
-kapittel 9A, og hvordan den bør endres
-Kjersti E. Heitun Jørgensen. Ny opplæringslov
-Kommunaldirektør Dagfinn Cock (Lørenskog
-kommune), rådgiver Gustav Weiberg-Aurdal
-(KS) og spesialrådgiver Jorun Sandsmark
-(KS). Vi trenger en opplæringslov for en inkluderende og innovativ framtidsskole
-Landsorganisasjonen i Norge (LO). Er det regler i
-loven som er uhensiktsmessige eller som det ikke
-er behov for? I tilfelle, hvilke?
-Leder og tidligere ledere av FUG. Bekymring over
-Foreldreutvalget
-for
-grunnopplæringens
-(FUGs) utvikling over tid
-Lykkelige barn. Hva er utfordringene med dagens
-regelverk?
-Melby-Lervåg, Monica. Spesialundervisning og tilpasset opplæring: hva fungerer og hva er problematisk i lovverket?
-Nasjonalt senter for flerkulturell opplæring
-(NAFO). Innspill til utvalget angående opplæringslovens §§ 2.-8 og 3.-12. Særskilt språkopplæring for elever fra språklige minoriteter
-Nasjonalt senter for flerkulturell opplæring. Like
-muligheter for alle? 8. oktober 2019
-Nettverket for medvirkning i opplæringen (NEMIO). Innspill til opplæringslovutvalget om innhold i ny opplæringslov
-NHO-fellesskapet. Innspill til Opplæringslovutvalget
-Nina Fjelde. Opplæringslovutvalget bør se på inntak til videregående skole
-Noregs Mållag. Ei ny opplæringslov må sikre nynorskelevane
-Noregs Mållag. Fråsegn frå Noregs Mållag sitt
-landsmøte
-Noregs Mållag. Synspunkt frå Norges Mållag om
-lovarbeidet vinteren 2018
-Norges Døveforbund. Norges Døveforbunds innspill til ny opplæringslov
-Norges Døveforbund. Opplæring i og på tegnspråk
-– hørselshemmede i grunnskolen
-Norsk Industri. Innspill til Opplæringslovutvalget
-Norsk Målungdom. Ei ny opplæringslov med betre
-språkpolitikk
-Norske Kveners Forbund. Rett til opplæring i
-kvensk og i finsk
-
-[Side 799]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Nydalen videregående skole. Nydalen Videregående skoles innspill til ny opplæringslov
-Nynorsk kultursentrum. Innspel til arbeidet med
-ny opplæringslov
-Odd Ivar Strandkleiv & Sven Oscar Lindbäck. Forslag til endring av bestemmelsene om spesialundervisning m.m.
-Dr. Tony Burner. Forslag til endring i opplæringslova
-Rolf B. Fasting & Nils Breilid (OsloMet). KD-Opplæringslovutvalget
-Redd Barna. Redd barnas innspill til Opplæringslovutvalget
-Rennesøy Mållag. Innspel til arbeidet med reglar
-knytte til målformer i grunnskulen
-Samarbeidsrådet for yrkesopplæring (SRY). SRYs
-besvarelse – Opplæringslovutvalget
-Senter for flerspråklige barn og unge (FBU). Innspill til utvalget ang opplæringsloven § 2-8 og 312, Særskilt språkopplæring for elever fra språklige minoriteter
-Skogestad, I.V. Digg læring – vår tanke om heilskapleg digital undervisning for alle
-
-797
-
-Kilder og litteratur
-
-Språkrådet. Innspel frå Språkrådet om innføring av
-språklege rettar etter mønster frå mållova i ny
-opplæringslov
-Språkrådet. Innspel frå Språkrådet til arbeidet med
-gjennomgang og vurdering av regelverket i
-grunnopplæringa
-Tove Glomset, Norges Døveforbund. Opplæring i
-og på tegnspråk – hørselshemmede i grunnskolen
-Tromsø kommune. Det var dette med de hattene
-da…
-Utdanningsavdelingen i Vestfold fylkeskommune.
-Til opplæringsloven § 15-8 om samarbeid med
-kommunale tjenester
-Utdanningsdirektoratet. Innspill til tekstutkast om
-utfordringer med regelstyring av grunnopplæringen
-Øivind Nordahl. Grunnlovfestet ytringsfrihet og
-opplæring ifm. opplevde krenkelser
-Øystein Stette. Kort innspill om en gruppe elever
-som bør sikres bedre rettigheter
-
-[Side 800]
-
-798
-
-NOU 2019: 23
-
-Vedlegg 1
-
-Ny opplæringslov
-
-Vedlegg 1
-
-Lovspeil – fra dagens lov til lovforslaget
-«–» betyr det at det aktuelle forholdet ikke er foreslått regulert i forslaget til ny opplæringslov. Det
-kan for eksempel være fordi det er overflødig å
-regulere forholdet eller fordi det foreslås at
-reglene flyttes til forskrift.
+*Første avsnitt* fastsetter at elever i videregående opplæring skal ha opplæring både i bokmål og nynorsk. Departementet avgjør omfanget av og innholdet i opplæringen og på hvilke trinn opplæringen skal gis, jf. forslaget § 1-4. Departementet fastsetter også hvordan denne opplæringen skal vurderes og dokumenteres, jf. forslaget § 6-4 andre avsnitt.
 
-Oversikten speiler bestemmelsene i dagens opplæringslov og forslaget til ny opplæringslov med
-hensyn til hvilke forhold de enkelte reglene gjelder.
-Speilingen sier for øvrig ingenting om innholdsmessige likheter eller forskjeller mellom dagens
-lov og forslaget til ny opplæringslov. Når det står
-Opplæringsloven av 1998
+Forskriftshjemmelen åpner blant annet for at departementet kan fastsette i forskrift at elever som får opplæring i samisk, kan fritas fra opplæring i ett av de norske skriftspråkene.
 
-Forslag til ny opplæringslov
+*Andre avsnitt* innebærer at elevene for eksempel kan ha nynorsk som skriftspråk i sine skriftlige arbeider, selv om fylkeskommunen med hjemmel i forslaget § 13-4 andre avsnitt har vedtatt at hovedmålet ved skolen er bokmål.
 
-Kapittel 1. Formål, verkeområde og tilpassa opplæring m.m.
-§ 1-1
+Hvilke læremidler som er omfattet av valgfriheten, er regulert i forslaget § 13-5 andre og tredje avsnitt, men likevel slik at elevene også kan velge om læremidlene i norsk skal være på bokmål eller nynorsk.
 
-§ 1-2
+Til § 7-2 Opplæring i samisk i den vidaregåande opplæringa
 
-§ 1-2 første til tredje avsnitt
+Bestemmelsen erstatter dagens lov §§ 6-1 og 6-3 og er omtalt i kapittel 33.
 
-§ 1-1 andre avsnitt
+Bestemmelsen gjelder bare for elever, og ikke for lærlinger som får opplæring i bedrift.
 
-§ 1-2 fjerde avsnitt
+*Første avsnitt* gjelder bare for samiske elever. Samiske elever har rett til opplæring i ett av de samiske språkene som er angitt i bestemmelsen.
 
-§ 22-3 andre avsnitt
+At man «kan» skrives inn i samemanntallet betyr at det ikke er et krav at verken eleven eller foreldrene faktisk er registrert i samemanntallet. Det er nok at eleven tilfredsstiller kravet til å kunne bli registrert i manntallet, eller at foreldrene kan registreres. Med «barna» menes både biologiske og adopterte barn.
 
-§ 1-3
+*Andre avsnitt* gjelder for alle elever som har hatt samiskopplæring i grunnskolen. Det er ikke stilt krav om hvor lenge opplæringen har vart, eller om innholdet i opplæringen i grunnskolen, for eksempel om eleven har hatt samisk som første- eller andrespråk. Elevene har ikke rett til å velge et annet samisk språk i videregående opplæring enn det samiske språket de hadde opplæring i i grunnskolen.
 
-§ 10-1
+*Tredje avsnitt* åpner for at skoler som ikke har lærere som kan gi opplæring i samisk, kan tilby elevene opplæring på en annen måte, for eksempel i form av språksamlinger eller hospitering på en annen skole. Flere opplæringsformer kan kombineres. Fylkeskommunen må samarbeide med eleven om hvilket tilbud som gis, jf. forslaget § 2-2 første avsnitt andre setning. Denne formen for opplæring er et unntak fra reglene om gruppeinndeling i forslaget § 13-2.
 
-§ 1-4
+Opplæringen kan også gis i form av fjernundervisning, se forslaget § 13-3. Eksempel på når det kan være «nødvendig» å tilby eleven deler av opplæringen i et samiskspråklig miljø, er der eleven ikke får praktisert språket utenom samisktimene. Årsaken kan være at eleven ikke har språkstøtte i hjemmet, på skolen eller i andre deler av nærmiljøet.
 
-§ 10-2 tredje avsnitt
+Hvor store deler av samiskopplæringen det eventuelt er nødvendig å gi i et samiskspråklig miljø, må bero på en konkret vurdering av om den opplæringen eleven får gir eleven et grunnlag for å nå kompetansemålene i læreplanen eller ikke.
 
-§ 1-5
+Eksempel på «samiskspråkleg miljø» kan være skoler som gir opplæring på samisk og språksamlinger hvor både lærerne og elevene snakker samisk utenom samisktimene.
 
-§ 23-3
+Til § 7-3 Opplæring i og på norsk teiknspråk i den vidaregåande opplæringa
 
-§ 1-6
+Bestemmelsen erstatter dagens lov § 3-9 og er omtalt i kapittel 34.3.
 
-§ 1-4 første avsnitt
+*Første avsnitt* slår fast at retten til å få videregående opplæring i og på norsk tegnspråk, forutsetter at eleven selv har en hørselshemming. Hva som er en hørselshemming, er en medisinskfaglig vurdering. Det er likevel normalt sett ikke nødvendig å innhente dokumentasjon. Det stilles ikke krav til graden av hørselshemming, og i vurderingen bør det legges stor vekt på om eleven selv mener at han eller hun er hørselshemmet.
 
-Kapittel 2. Grunnskolen
-§ 2-1 første avsnitt
+Elever som oppfyller vilkåret, har rett til å velge mellom å få opplæring i og på norsk tegnspråk på en videregående skole som har et tilrettelagt tilbud for tegnspråklige elever, eller å få videregående opplæring på norsk tegnspråk ved hjelp av tolk ved en ordinær videregående skole.
 
-§§ 3-1 første avsnitt og 3-2 første avsnitt
+*Andre avsnitt* viderefører at retten til opplæring i og på norsk tegnspråk er begrenset til de utdanningsprogrammene som tilbys på skoler med tilrettelagte tilbud for tegnspråklige elever. Deler av opplæringen kan likevel gjennomføres med tolk.
 
-§ 2-1 andre avsnitt første og andre setning
+§ 7-4 Opplæring i punktskrift i den vidaregåande opplæringa
 
-§ 3-1 andre avsnitt
+Bestemmelsen viderefører deler av dagens lov § 3-10 og er omtalt i kapittel 34.4.
 
-§ 2-1 andre avsnitt tredje og fjerde setning
+Vilkåret for å få rett til opplæring i punktskrift er at eleven er blind eller sterkt svaksynt. Om eleven er blind eller sterkt svaksynt er en medisinskfaglig vurdering. Det er likevel normalt sett ikke nødvendig å innhente dokumentasjon. Om eleven har behov for opplæring i punktskrift, må vurderes ut fra både medisinskfaglig og skolefaglig kunnskap og erfaring. Dessuten har det betydning hva eleven selv mener, og elevens beste skal være et grunnleggende hensyn, jf. forslaget §§ 2-1 og 2-2 første avsnitt.
 
-§ 3-2 andre avsnitt
+Elever med vedtak etter § 7-4 kan samtidig ha rett til opplæring i bruk av tekniske hjelpemidler og opplæring i mobilitet etter forslaget § 10-11.
 
-§ 2-1 andre avsnitt femte setning
+§ 7-5 Særskild språkopplæring i den vidaregåande opplæringa
 
-§ 3-2 tredje avsnitt
+Bestemmelsen viderefører dagens lov § 3-12 første til fjerde avsnitt og er omtalt i kapittel 35.
 
-§ 2-1 tredje avsnitt første setning
+*Første avsnitt* viderefører dagens § 3-12 første avsnitt første setning. Bestemmelsen slår fast at elever som har et annet morsmål enn norsk eller samisk, og som ikke behersker norsk godt nok til å følge opplæringen i skolen, har rett til særskilt språkopplæring.
 
-§§ 3-1 første avsnitt og 3-2 første avsnitt første
-setning
+Særskilt språkopplæring for minoritetsspråklige elever i grunnskolen skal alltid omfatte forsterket opplæring i norsk. Forsterket opplæring i norsk kan gis enten etter læreplanen i grunnleggende norsk for språklige minoriteter, læreplanen i norsk for språklige minoriteter med kort botid i Norge eller i form av tilpasning innenfor den ordinære læreplanen i norsk.
 
-§ 2-1 tredje avsnitt andre til fjerde setning
+Ifølge bestemmelsen vil elever med svært begrensede ferdigheter i norsk – i tillegg til forsterket opplæring i norsk – ha rett til morsmålsopplæring og tospråklig opplæring i fag i en overgangsperiode. Det er et vilkår at elevene trenger slik opplæring. Dette vil gjelde elever som nylig har ankommet Norge, og andre minoritetselever som har så svake ferdigheter i norsk at de ikke kan følge opplæringen på skolen. Eventuell videre opplæring i morsmålet, etter at elevene er i stand til å følge opplæringen på skolen, er foreldrenes ansvar.
 
-§ 3-4
+Målsettingen med bestemmelsen om særskilt språkopplæring er å lære eleven å bruke norsk som redskapsspråk så raskt som mulig. Når eleven kan norsk godt nok til å følge den vanlige opplæringen, opphører rettighetene etter bestemmelsen.
 
-§ 2-1 fjerde avsnitt første setning
+For hørselshemmede elever som har et utenlandsk tegnspråk som morsmål, for eksempel engelsk tegnspråk, vil retten til særskilt språkopplæring innebære at de har rett til norsk tegnspråk til de kan norsk tegnspråk godt nok – forutsatt at de benytter seg av retten til opplæring på norsk tegnspråk.
 
-§§ 3-1 første avsnitt og 3-2 første avsnitt første
-setning
+*Andre avsnitt* fastsetter at elever som får særskilt språkopplæring, skal få vurdert sine ferdigheter i norsk underveis i opplæringsløpet. Vurderingen skal sikre at de elevene som får særskilt språkopplæring, får realisert overgangen til den vanlige opplæringen når ferdighetene tilsier det. Hvor lang tid det må gå mellom hver vurdering, må avgjøres konkret i hvert enkelt tilfelle.
 
-§ 2-1 fjerde avsnitt andre setning
+*Tredje avsnitt* fastsetter at når fylkeskommunen ikke har lærere som kan gi morsmålsopplæring og tospråklig opplæring i fag, kan fylkeskommunen legge til rette for opplæring på en annen måte, for eksempel intensivundervisning. Det følger av § 13-3 at opplæringen kan gjennomføres som fjernundervisning, på visse vilkår.
 
-§ 3-2 tredje avsnitt
+*Fjerde avsnitt* fastsetter at morsmålsopplæring kan legges til en annen skole enn den skolen eleven går på. Forsterket opplæring i norsk og tospråklig opplæring i fag skal gis på den skolen eleven går på.
 
-§ 2-1 femte avsnitt
+§ 7-6 Innføringsopplæring for elevar i den vidaregåande opplæringa som har budd kort tid i Noreg
 
-§ 3-7
+Bestemmelsen viderefører dagens lov § 3-12 femte avsnitt og er omtalt i kapittel 35.
 
-§ 2-2 første avsnitt
+*Første avsnitt* gjør det klart at fylkeskommunen kan organisere opplæringen for minoritetsspråklige elever som har bodd kort tid i Norge, i egne klasser, i egne grupper eller på egne skoler. Kommunen har ikke plikt til å gi innføringsopplæring, men kan selv vurdere å sette dette i gang. Elevene har følgelig ikke rett til å få opplæringen organisert i egne klasser, i egne grupper eller på egne skoler. Formålet med den særskilte organiseringen av opplæringen er å lære elevene norsk så raskt som mulig.
 
-§ 1-4
+Fylkeskommunen må selv vurdere om eleven har bodd så kort tid i Norge at han eller hun vil kunne ha behov for innføringsopplæring. Fylkeskommunen må også vurdere om innføringsopplæring vil være til det beste for eleven, jf. forslag til § 2-1. I denne vurderingen vil hensynet til integrering være et moment som taler for at elever som har bodd i Norge en tid allerede, får opplæring i en vanlig klasse.
 
-§ 2-2 andre avsnitt første setning
+Formuleringen «heile eller delar av opplæringa» gjelder både innføringsklasser, innføringsgrupper og innføringsskoler.
 
-§ 1-4
+Innføringsopplæring kan vare i inntil to år. Særlig elever som har behov for alfabetisering, og elever som kommer til Norge sent i skoleløpet, kan ha nytte av å få opplæringen organisert i egne klasser, i egne grupper eller på egne skoler.
 
-§ 2-2 andre avsnitt andre setning
+En avgjørelse om at en elev skal få innføringsopplæring etter bestemmelsen, må fastsettes i et enkeltvedtak. Eleven har ikke plikt til å motta innføringsopplæring. Det er presisert i loven at eleven må samtykke i at fylkeskommunen fatter vedtak om innføringsopplæring. Dersom en elev ikke vil gå i en egen klasse, i egen gruppe eller på en egen skole, skal eleven få tilbud om særskilt språkopplæring innenfor rammene av § 7-5.
 
-–
+*Andre avsnitt* slår fast at et vedtak om innføringsopplæring bare kan fattes for ett år om gangen. Fylkeskommunen må deretter gjøre en ny vurdering og eventuelt fatte et nytt enkeltvedtak.
 
-§ 2-2 tredje avsnitt
+I den perioden eleven skal få innføringsopplæring, kan det gjøres unntak fra kompetansemål i læreplanverket. Unntak kan bare gjøres når det er nødvendig for å ivareta elevens behov. Det må vurderes konkret for den enkelte elev om, og i så fall i hvilket omfang, det skal gjøres unntak fra læreplanverket. Unntak kan gjelde både fag- og timefordelingen og kompetansemålene. Elevene vil sannsynligvis ha svært ulike opplæringsbehov, avhengig av den opplæringen de har fått i hjemlandet og de språklige utfordringene de har.
 
-§ 13-1 første avsnitt
+Kapittel 8 Opplæring i bedrift
 
-[Side 801]
+Til § 8-1 Verkeområdet for kapittelet
 
-NOU 2019: 23
-Ny opplæringslov
+Bestemmelsen er ny og er omtalt i kapittel 29.4.1.
 
-Opplæringsloven av 1998
+*Første avsnitt* slår fast at reglene i kapitlet gjelder for opplæring i bedrift. Reglene gjelder bare for dem som har inngått kontrakt om opplæring i bedrift, og gjelder derfor ikke elever som er utplassert i bedrift, for eksempel gjennom faget yrkesfaglig fordypning.
 
-Forslag til ny opplæringslov
+*Andre avsnitt* første setning er ny. Bestemmelsen må ses i sammenheng med første avsnitt. Alle som får videregående opplæring i bedrift etter godkjent kontrakt, omfattes av lovens benevnelse «lærling». Andre setning viderefører dagens lov § 4-1 andre avsnitt. Tredje setning presiserer at reglene i lovens kapittel 8 ikke kommer til anvendelse når elever får opplæring i bedrift.
 
-§ 2-2 fjerde avsnitt første og andre setning
+Til § 8-2 Inngåing og endring av kontrakt om opplæring
 
-§ 13-1 andre avsnitt
+Bestemmelsen erstatter dagens lov § 4-5 og er omtalt i kapittel 29.4.2.1.
 
-§ 2-2 fjerde avsnitt tredje setning
+*Første avsnitt* slår fast at det skal inngås skriftlig kontrakt om opplæring mellom lærlingen og lærebedriften, eventuelt med alle lærebedriftene dersom det er flere bedrifter som samarbeider om opplæringen for lærlingen. Videre følger det av bestemmelsen at kontrakten om opplæring må godkjennes av fylkeskommunen for å være gyldig. I «skal» ligger det også en plikt for fylkeskommunen til å godkjenne kontrakter som oppfyller lovens krav. I tillegg til kravene som følger av tredje avsnitt i bestemmelsen, må kontrakten være inngått med en godkjent lærebedrift og for øvrig samsvare med eventuelle regler gitt i forskrift med hjemmel i siste avsnitt. Tredje setning omfatter alle typer endringer i kontrakten om opplæring. Dersom lærlingen og lærebedriften er enige om å si opp kontrakten, kan likevel kontrakten sies opp uten samtykke fra fylkeskommunen, jf. § 8-3 første avsnitt.
 
-–
+Første setning i *andre avsnitt* sier at læreforholdet ikke anses for å være påbegynt så lenge det ikke er inngått kontrakt etter bestemmelsens første avsnitt. Andre setning sier at læreforholdet skal anses for å være oppstartet selv om fylkeskommunen ikke har godkjent kontrakten, forutsatt at det er søkt om godkjenning.
 
-§ 2-2 femte avsnitt
+*Tredje avsnitt* angir minstekrav til hva kontrakten om opplæringen skal inneholde. Det skal stå i kontrakten om lærlingen skal gå opp til fag- eller svenneprøve eller annen avsluttende prøve ved læreforholdets slutt. Dersom lærlingen ikke skal følge fagets læreplaner fullt ut, skal det også gå fram av kontrakten hvilke kompetansemål som skal gjelde for læreforholdet. Dersom fylkeskommunen skal ha ansvaret for deler av opplæringen, eller dersom det er flere bedrifter som samarbeider om opplæringen for en lærling, skal det gå fram av kontrakten hvem som har ansvaret for hva. Dersom det er flere bedrifter som samarbeider om opplæringen til en lærling, skal det inngås en arbeidsavtale mellom lærlingen og den enkelte bedrift (se § 8-4 andre avsnitt) mens det bare skal inngås én kontrakt om opplæring.
 
-–
+*Fjerde avsnitt* gir departementet hjemmel til å gi forskrift om kontraktens form og innhold, for eksempel kan det fastsettes standardformularer. Departementet kan også gi forskriftsbestemmelser om endringer i kontrakten. Eksempelvis kan det gis nærmere regler om avbrudd i kontrakten om opplæring, for eksempel grunnet permisjon.
 
-§ 2-3 første og andre avsnitt
+Til § 8-3 Heving og oppseiing av kontrakt om opplæring
 
-–
+Bestemmelsen erstatter dagens lov § 4-6 og er omtalt i kapittel 29.4.2.1.
 
-§ 2-3 tredje avsnitt første og andre setning
+*Første avsnitt* slår fast at lærlingen og lærebedriften kan bli enige om å si opp kontrakten om opplæring. Bestemmelsen må ses i sammenheng med § 8-4. Normalt vil det gjelde regler om oppsigelsesfrist for arbeidsforholdet. Fylkeskommunen skal informeres før en kontrakt om opplæring blir sagt opp. Fylkeskommunen har ingen godkjenningsrolle og kan ikke nekte partene å si opp kontrakten.
 
-§ 1-4
+*Andre avsnitt* første setning åpner for at kontrakten om opplæring kan heves etter ønske fra lærlingen. Det stilles ikke krav om en begrunnelse fra lærlingens side. Fylkeskommunen skal fatte enkeltvedtak om heving. Andre setning slår fast at kontrakten om opplæring kan heves dersom det foreligger vesentlige brudd på vilkårene i arbeidsavtalen fra lærlingens eller lærebedriftens side. Bestemmelsen oppstiller ikke et skyldkrav, men må ses i sammenheng med § 8-4. Særlig relevant i denne sammenheng er arbeidsmiljølovens regler om oppsigelse. Kontrakten om opplæring kan også heves dersom en av partene ikke er i stand til å fortsette ut kontrakttiden. Dette kan for eksempel gjelde dersom lærebedriften går konkurs eller driften av andre årsaker legges ned.
 
-§ 2-3 tredje avsnitt tredje setning
+*Tredje avsnitt* pålegger lærebedriften en plikt til å skrive ut en attest for læreforholdet. Plikten gjelder uavhengig av årsaken til at læreforholdet ble avsluttet. Attesten skal omfatte den gjennomførte delen av kontraktstiden og attestere den gjennomførte delen av opplæringen.
 
-§ 3-3 andre avsnitt tredje setning
+Til § 8-4 Lærlingane sine rettar og plikter som arbeidstakarar. Tilhøvet til arbeidsmiljøloven
 
-§ 2-3 fjerde avsnitt første setning
+Bestemmelsen erstatter dagens lov §§ 4-2 og 4-5 tredje avsnitt og er omtalt i kapittel 29.4.1 og 29.4.2.
 
-§ 2-2 andre avsnitt første setning
+*Første avsnitt* slår fast at lærlinger er omfattet av reglene i arbeidsmiljøloven, yrkesskadeforsikringsloven og andre lover som gir regler om arbeidstakere. Også rettigheter og plikter som er fastsatt i forskrift med hjemmel i relevante lover, gjelder for lærlinger.
 
-§ 2-3 fjerde avsnitt andre og tredje setning
+*Andre avsnitt* første setning må ses i sammenheng med første avsnitt. Det følger av arbeidsmiljøloven § 14-5 at det skal inngås arbeidsavtale i alle arbeidsforhold og at slik avtale skal foreligge senest en måned etter at arbeidsforholdet startet. Dersom to eller flere bedrifter samarbeider om opplæringen for en lærling, skal lærlingen inngå arbeidsavtale med hver enkelt lærebedrift. Andre setning innebærer at arbeidsmiljølovens regler om stillingsvern ikke gjelder for læreforhold.
 
-–
+Det følger av *tredje avsnitt* at arbeidsmiljølovens regler om prøvetid som utgangspunkt ikke gjelder for lærlinger. Arbeidsmiljølovens regler om prøvetid gjelder bare for lærlinger som er over 21 år, og som har inngått en kontrakt om opplæring som forutsetter at all programfagsopplæring gis i bedrift.
 
-§ 2-3 femte avsnitt
+*Fjerde avsnitt* presiserer at arbeidsforholdet og læreforholdet avsluttes samtidig, uavhengig av årsaken til at arbeidsforholdet ble avsluttet.
 
-–
+*Femte avsnitt* regulerer tilfeller der det er inngått en ordinær arbeidsavtale mellom lærlingen og lærebedriften som ikke gjelder læreforholdet. Dette vil eksempelvis gjelde når arbeidsavtalen ble inngått før partene inngikk kontrakt om opplæring, noe som vil være tilfellet for kandidater til fagbrev på jobb. Femte avsnitt vil også gjelde der en lærling i tillegg til læreforholdet har inngått en ordinær arbeidsavtale om deltidsansettelse, eksempelvis om helgejobb eller sommerjobb.
 
-§ 2-3 a første avsnitt
+Til § 8-5 Godkjenning av lærebedrifter
 
-–
+Bestemmelsen erstatter deler av § 4-3 i dagens lov og er omtalt i kapittel 29.4.3.
 
-§ 2-3 a andre til fjerde avsnitt
+*Første avsnitt l*egger til grunn at bedrifter som oppfyller lovens krav til lærebedrifter, skal få godkjenning fra fylkeskommunen.
 
-§ 13-7 tredje og fjerde avsnitt
+*Andre avsnitt* slår fast at det skal foreligge en faglig vurdering fra yrkesopplæringsnemnda før fylkeskommunen kan fatte vedtak om godkjenning av lærebedrift. Nemndas vurdering skal si noe om hvorvidt bedriften er egnet som lærebedrift, jf. § 8-6. Nemndas vurdering skal ha stor, men ikke avgjørende betydning for utfallet i saken.
 
-§ 2-3 a femte avsnitt
+*Tredje avsnitt* gir departementet hjemmel til å gi nærmere regler i forskrift om krav til lærebedrifter, om godkjenningen av lærebedrifter og om fordelingen av ansvaret mellom samarbeidende bedrifter.
 
-§ 2-6
+Til § 8-6 Krav til lærebedrifter
 
-§ 2-3 a sjette avsnitt
+Bestemmelsen erstatter deler av § 4-3 i dagens lov og er omtalt i kapittel 29.4.3.
 
-–
+*Første avsnitt* viderefører dagens lov § 4-3 tredje avsnitt første setning. Det er ikke et vilkår for godkjenning at bedriften kan gi opplæring som fullt ut dekker aktuelle læreplaner for fag. Bedriften kan være lærebedrift sammen med én eller flere andre bedrifter, eller fylkeskommunen kan stå ansvarlig for de resterende målene. Hvorvidt en lærebedrift kan stå alene om opplæringen for en lærling, vil også måtte vurderes ved godkjenningen av kontrakten om opplæring, jf. § 8-2.
 
-§ 2-4 første avsnitt
+*Andre avsnitt* viderefører dagens lov § 4-3 tredje avsnitt sjette og sjuende setning. Det er ikke fastsatt krav til utdanning for faglig leder i bedriften. Faglig leder kan være kvalifisert på bakgrunn av utdanning eller lang, allsidig og relevant praksis. Instruktør og faglig leder kan være samme person. Kravene til faglig leder og instruktør gjelder for hver enkelt lærebedrift. Dersom to eller flere lærebedrifter samarbeider om opplæringen for en lærling, gjelder kravet for alle bedriftene som inngår i samarbeidet.
 
-§ 13-7 første og andre avsnitt
+Til § 8-7 Rekruttering av lærebedrifter og formidling til læreplass
 
-§ 2-4 andre og tredje avsnitt
+Bestemmelsen er ny og er omtalt i kapittel 29.4.4.
 
-–
+*Første avsnitt* slår fast at fylkeskommunen skal arbeide for at alle kvalifiserte søkere som ønsker det, skal få bedriftsdelen av opplæringen i bedrift. Fylkeskommunen skal søke å finne læreplass til alle kvalifiserte søkere, uavhengig av om de har fått opplæring på grunnlag av en lovfestet rett, og om det eventuelt var som ungdomsrett eller voksenrett til videregående opplæring. Bestemmelsen må ses i sammenheng med § 6-3, som sier at tilgangen på læreplasser skal ha stor betydning for dimensjoneringen av opplæringstilbudet.
 
-§ 2-4 fjerde avsnitt første setning
+*Andre avsnitt* legger ingen føringer for hvordan formidlingen skal foregå, og stiller ingen minimumskrav til innsatsen.
 
-§ 13-7 andre avsnitt
+*Tredje avsnitt* gir departementet hjemmel til å gi regler i forskrift om formidling til læreplass. Bestemmelsen må ses i sammenheng med § 6-1 siste avsnitt som gir departementet hjemmel til å gi forskrift om inntak til videregående opplæring.
 
-§ 2-4 fjerde avsnitt andre setning
+Til § 8-8 Tilskot til lærebedrifter
 
-–
+Bestemmelsen erstatter § 4-4 femte avsnitt i dagens lov og er omtalt i kapittel 29.4.4.3.
 
-§ 2-5 første avsnitt første og andre setning
+*Første avsnitt* slår fast at fylkeskommunen har en plikt til å utbetale tilskudd til lærebedrifter som har inngått kontrakt om opplæring med én eller flere lærlinger.
 
-§ 13-4 andre avsnitt
+*Andre avsnitt* gir departementet hjemmel til å gi forskrift om lærlingtilskuddet.
 
-§ 2-5 første avsnitt tredje setning
+Til § 8-9 Oppfølging av lærebedrifter og tap av godkjenning
 
-§ 4-1 andre avsnitt andre setning
+Bestemmelsen erstatter dagens lov § 4-8 og er omtalt i kapittel 29.4.3.4.
 
-§ 2-5 andre avsnitt
+I *første avsnitt* er det slått fast at fylkeskommunen skal veilede og følge opp lærebedrifter. Bestemmelsen må ses i sammenheng med internkontrollkravet i kommuneloven § 25-1. Fylkeskommunens ansvar etter bestemmelsen skal være egnet til å bekrefte god tilstand og/eller avdekke og forebygge manglende etterlevelse av kontrakten om opplæring og aktuelt regelverk i opplæringsloven med forskrifter.
 
-–
+*Andre avsnitt* slår fast at lærebedriften kan miste godkjenningen dersom fylkeskommunens oppfølging viser at lærebedriften ikke oppfyller kravene i loven. Videre følger det av bestemmelsen at yrkesopplæringsnemnda skal gi en faglig vurdering av om lærebedriften oppfyller kravene til godkjenningen, og at nemndas vurdering skal tillegges stor vekt ved avgjørelsen.
 
-§ 2-5 tredje avsnitt første og andre setning
+Det følger av *tredje avsnitt* at en godkjenning som lærebedrift automatisk bortfaller 24 måneder etter at den siste kontrakten om opplæring ble avsluttet, jf. §§ 8-3 og 8-4.
 
-§ 4-1 andre avsnitt
+*Fjerde avsnitt* gir departementet hjemmel til å gi forskrift om tap av godkjenning som lærebedrift.
 
-§ 2-5 tredje avsnitt tredje setning
+Til § 8-10 Lærebedriftene sitt ansvar for opplæringa
 
-–
+Bestemmelsen erstatter dagens lov § 4-4 og er omtalt i kapittel 29.4.3.
 
-§ 2-5 fjerde avsnitt
+*Første avsnitt* pålegger lærebedriften å planlegge virksomheten og produksjonen på en måte som legger til rette for at lærlingen får opplæring i samsvar med kontrakten om opplæring. Dersom to eller flere bedrifter samarbeider om opplæringen for en lærling, må bedriftene ha en plan for samarbeidet og samordne virksomhetene på en måte som sikrer at lærlingen får opplæring i samsvar med kontrakten om opplæring. Tilsvarende gjelder der fylkeskommunen har ansvaret for deler av opplæringen for en lærling.
 
-§ 4-1 tredje avsnitt
+Lærebedriftens ansvar etter *andre avsnitt* går noe lengre enn arbeidsmiljølovens krav når lærebedriftene får et ansvar for å skape et godt læringsmiljø. Andre setning innebærer at både opplæringsdelen og verdiskapingsdelen av læreforholdet skal foregå innenfor det som er den normale arbeidstiden for ansatte i bedriften.
 
-§ 2-5 femte avsnitt
+*Tredje avsnitt* pålegger lærebedriften en meldeplikt dersom bedriften ikke lenger kan oppfylle kravene til lærebedrifter, jf. § 8-6. Dette vil for eksempel gjelde der bedriften av ulike årsaker legges ned eller dersom det skjer omfattende endringer i produksjonen.
 
-§ 4-1 fjerde avsnitt
+Til § 8-11 Krav til internkontroll i lærebedrifter
 
-§ 2-5 sjette avsnitt
+Bestemmelsen erstatter dagens lov § 4-7 og er omtalt i kapittel 29.4.3.
 
-§ 4-1 første avsnitt
+*Første avsnitt* presiserer at det er lærebedriften som har det overordnede ansvaret for at bedriften oppfyller kravene i opplæringsloven med tilhørende forskrifter. Bedriften avgjør selv hvordan arbeidstakernes representanter involveres i internkontrollarbeidet.
 
-§ 2-5 sjuende avsnitt
+*Andre avsnitt* pålegger lærebedriften en plikt til å gi fylkeskommunen informasjon om opplæringen den gir. Bestemmelsen innebærer også blant annet en plikt til å bidra med statistiske opplysninger.
 
-–
+Kapittel 9 Skyss, bustad og oppfølgingsteneste
 
-§ 2-6
+Til § 9-1 Skyss til og frå skolen for elevar i den vidaregåande opplæringa
 
-§§ 4-4 og 1-4
+Bestemmelsen viderefører dagens lov § 7-2 første avsnitt og er omtalt i kapittel 30.
 
-§ 2-7
+*Første avsnitt* viderefører retten til skyss eller full skyssgodtgjørelse på grunn av lang skolevei. Avstanden mellom skolen og hjemmet skal måles fra inngangsdøren der eleven bor til inngangsdøren på skolen. Oppmålingen skal foretas langs alminnelig farbar vei. Elevene har vanligvis ikke rett til skyss fra døren hjemme, men fra en oppsamlingsplass som ligger i rimelig avstand fra hjemmet. Hva som er rimelig avstand, må avgjøres etter en konkret vurdering, der man blant annet skal legge vekt på trafikkforholdene. Naturlig nok kan det ikke kreves at elevene går like langt som skyssgrensen, som er seks kilometer.
 
-§§ 4-3 og 1-4
+Det følger av bestemmelsen at fylkeskommunen kan velge å organisere gratis skoleskyss eller overlate til eleven å ordne skoleskyssen selv mot full skyssgodtgjørelse. I de tilfellene fylkeskommunen overlater til eleven å ordne skyssen selv, må fylkeskommunen dekke utgiftene eleven eller elevens foreldre faktisk har i forbindelse med skoleskyssen. Også i de tilfellene eleven må gå på en skole i et annet fylke for å få oppfylt retten til videregående opplæring, skal hjemfylket sørge for skyss eller full skyssgodtgjørelse.
 
-§ 2-8 første til tredje avsnitt
+Skyssen til og fra skolen må organiseres slik at eleven får en akseptabel reisetid. Det er den totale tiden eleven bruker fra han eller hun drar hjemmefra, til opplæringen starter, og fra opplæringen er slutt, til eleven er hjemme om ettermiddagen, som utgjør den samlede reisetiden. I vurderingen av hva som er akseptabel reisetid, må gangtid, tid med transportmidler og hensynet til effektiv og rasjonell organisering av skyssen ses i sammenheng.
 
-§ 4-6
+*Første avsnitt andre setning presiserer* at elever som har to foreldrehjem, har rett til skyss eller full skyssgodtgjørelse fra begge hjemmene så framt skoleveien er lengre enn seks kilometer til begge hjemmene. Retten gjelder både når eleven har delt bosted, og når det foreligger en avtale eller rettslig avgjørelse om fast samværsordning. Retten til skyss for elever som reiser til skolen fra to foreldrehjem, gjelder bare når eleven har fast, planlagt og regelmessig opphold i de to hjemmene.
 
-§ 2-8 fjerde avsnitt
+*Andre avsnitt* viderefører regelen om retten til gratis båttransport. Vilkåret for å få rett til båttransport er at eleven «treng» slik transport, det vil si at naturlig farbar vei til skolen inkluderer transport over vann. Retten gjelder uavhengig av skoleveiens lengde. Når skoleveien er mer enn seks kilometer, følger retten til gratis skyss av første avsnitt. For å få rett til skyss i tillegg til båttransport, må elevene ha en skolevei som inklusiv strekningen med båt, er lengre enn seks kilometer.
 
-–
+For å få rett til skyss etter *tredje avsnitt* er det er ikke tilstrekkelig at eleven har nedsatt funksjonsevne, skade eller sykdom. I tillegg er det et vilkår for skyssretten at funksjonsnedsettelsen, skaden eller sykdommen forårsaker at eleven har behov for skyss. Rettighetene etter fjerde avsnitt gjelder elever som trenger skyss på grunn av både fysisk og psykisk funksjonsnedsettelse.
 
-§ 2-8 femte avsnitt
+*Fjerde avsnitt* åpner for at elevene kan få rabatt på offentlig transport i stedet for gratis skyss. Rabattordningen må gjelde både på dagtid og på kveldstid, alle sju dager i uken.
 
-§ 4-7
+Ansvaret for å oppfylle retten til skyss går fram av § 22-7 i lovforslaget.
 
-799
+§ 9-2 Reisefølgje for og tilsyn med elevar i den vidaregåande opplæringa
 
-Vedlegg 1
+Bestemmelsen viderefører dagens lov § 7-4 og er omtalt i kapittel 30.
 
-§ 2-9. (Oppheva med lov 9 juni 2017 nr. 38.)
-§ 2-10. (Oppheva med lov 9 juni 2017 nr. 38.)
-§ 2-11
+Det er ikke det vanlige at elevene trenger reisefølge og tilsyn, og dette må vurderes for hver enkelt elev.
 
-§ 3-2 fjerde og femte avsnitt
+Retten til reisefølge etter *første avsnitt* er i hovedsak forbeholdt elever med nedsatt funksjonsevne som må ha følge for at de skal kunne benytte seg av skysstilbudet de har rett til. Fylkeskommunen skal sørge for nødvendig reisefølge og dekke skysskostnadene og andre utgifter knyttet til reisefølget.
 
-§ 2-12 første avsnitt
+Tilsynsplikten i videregående opplæring etter *andre avsnitt* er vesentlig mindre enn den tilsvarende plikten for å føre tilsyn med elever i grunnskolen på grunn av elevenes alder. Plikten omfatter *bare* elever som, på grunn av funksjonsnedsettelse, ikke kan klare seg alene i ventetiden.
 
-§ 20-1 første avsnitt første, andre og fjerde setning
+Til § 9-3 Hjelp med å skaffe bustad for elevar i den vidaregåande opplæringa
 
-[Side 802]
+Bestemmelsen viderefører dagens lov § 7-2 tredje avsnitt og er omtalt i kapittel 30.
 
-800
+Fylkeskommunen skal hjelpe elevene med å skaffe dem et sted å bo dersom de velger innlosjering på grunn av lang eller vanskelig skolevei. Elevene må betale selv, men kan få lån og stipend, jf. lov om utdanningsstøtte. Det følger av bestemmelsen at fylkeskommunen skal bygge elevhjem hvis det ikke er mulig å skaffe elevene et sted å bo innenfor en avstand med mulighet for daglig skyss til skolen. Det skal mye til for at fylkeskommunen må bygge elevhjem.
 
-Vedlegg 1
+Fylkeskommunens plikt til å hjelpe elevene med å skaffe et sted å bo eller bygge elevhjem gjelder bare de søkerne som fylkeskommunen har ansvaret for etter forslaget § 22-2. Det vil si at hjemfylket har plikt etter bestemmelsen også når elevene får plass på en videregående skole i et annet fylke. Dette gjelder likevel ikke ved inntak til landslinjer. I slike tilfeller har vertsfylket ansvaret.
 
-NOU 2019: 23
-Ny opplæringslov
+Til § 9-4 Oppfølgingsteneste for ungdom som ikkje er i vidaregåande opplæring eller arbeid
 
-Opplæringsloven av 1998
+Bestemmelsen er en videreføring av dagens lov § 3-6 og er omtalt i kapittel 42.7.
 
-Forslag til ny opplæringslov
+*Første avsnitt* *første setnin*g slår fast at fylkeskommunen skal ha en oppfølgingstjeneste. Det stilles ikke krav til hvordan oppgaven organiseres.
 
-§ 2-12 andre og tredje avsnitt
+*Første avsnitt andre setning* sier hvem oppfølgingstjenesten skal rettes mot, og hva oppfølgingen skal gå ut på. De som har rett til videregående opplæring etter § 6-1, og som ikke er i opplæring, omfatter de som ikke har søkt eller tatt imot elev- eller læreplass, og de som avbryter opplæringen. I *tredje setning* er det fastsatt en øvre aldersgrense for hvem som er omfattet av oppfølgingstjenesten. Fylkeskommunen kan velge å også følge opp dem som er over 21 år. Ettersom oppfølgingstjenesten gjelder for dem som har ungdomsrett til videregående opplæring, er det i praksis en nedre aldersgrense for hvem som er omfattet. Aldersgrensen vil normalt være 16 år.
 
-§ 20-2
+*Andre avsnitt* gir departementet hjemmel til å gi forskriftsregler om hva som skal være de konkrete oppgaven til oppfølgingstjenesten. Første avsnitt andre og tredje setning utgjør rammene for hvilke oppgaver som kan pålegges oppfølgingstjenesten i forskrift.
 
-§ 2-12 fjerde avsnitt
+Fjerde delen – fellesreglar for grunnskoleopplæringa og den vidaregåande opplæringa
 
-§ 20-3
+Kapittel 10 Universell opplæring og individuell tilrettelegging
 
-§ 2-12 femte avsnitt
+Til § 10-1 Universell opplæring
 
-§ 20-1 første avsnitt tredje setning
+*Første avsnitt* er i hovedsak en videreføring av dagens lov § 1-3 og er omtalt i kapittel 31.
 
-§ 2-13
+Dagens betegnelse «tilpasset opplæring» er erstattet med betegnelsen «universell opplæring». At opplæringen skal være universell, innebærer at opplæringen – innenfor et fellesskap – skal tilrettelegges på en slik måte at den så langt det er mulig, skaper et tilfredsstillende opplæringstilbud for alle.
 
-§ 20-5
+Betegnelsen «universell» tydeliggjør og signaliserer at skolen skal gi en opplæring som retter seg mot alle elever. Med universell opplæring menes en faglig, metodisk og sosial tilpasning av opplæringen slik at elevene får realisert sitt potensial i så stor utstrekning som mulig innenfor fellesskapet, og med minst mulig behov for egne ordninger for enkeltelever. Skolen må ta høyde for at elevene har forskjellige evner, forutsetninger og behov. Det innebærer blant annet at skolen må jobbe aktivt for å få med alle elevene i klassen, både sosialt og faglig, og ha strategier for å få alle elever med. Dersom det ikke er mulig å gjennomføre den universelle opplæringen på en slik måte at eleven får tilfredsstillende utbytte av opplæringen, har eleven rett til individuelt tilrettelagt opplæring etter § 10-3.
 
-§ 2-14
+Til § 10-2 Plikt til å sikre tilfredsstillande utbytte av opplæringa (aktivitetsplikt)
 
-§§ 4-5, 10-11 og 1-4
+Bestemmelsen er i hovedsak en videreføring og sammenstilling av innholdet i dagens lov §§ 1-3, 1-4, 5-4 første avsnitt andre og tredje setning. Bestemmelsen er omtalt i kapittel 31.
 
-§ 2-15
+Bestemmelsen inneholder plikter som er ledd i et handlingsforløp som går ut på at kommunen og fylkeskommunen skal sørge for at (1) lærerne følger med på og vurderer elevenes utbytte av opplæringen, at (2) lærerne melder fra til rektor når en elev ikke har tilfredsstillende utbytte av opplæringen, og at (3) skolen følger opp ved å vurdere og iverksette tiltak innenfor den universelle opplæringen før eleven eventuelt henvises til PP-tjenesten eller får vedtak om fysisk tilrettelegging eller vedtak om personlig assistanse.
 
-§ 3-5
+*Tredje avsnitt* *første setning* erstatter delvis innholdet i dagens § 1-4 første setning. Etter bestemmelsen skal elever som trenger det, raskt få forsterket innsats i form av målrettet opplæring, slik at forventet progresjon kan bli nådd. Hensikten med forsterket innsats er at elever som trenger det, skal få nødvendig hjelp så raskt som mulig for å forhindre at utfordringer får utvikle seg og bli mer alvorlige. Plikten gjelder overfor elever på alle trinn og gjelder all opplæring. Forsterket innsats kan blant annet dreie seg om fordypning og konsentrasjon, alternativ organisering og bruk av ulike læremidler, og kan vare i en kortere eller lengre periode. Elevene som får forsterket innsats, skal ikke ha unntak fra kompetansemålene i læreplanverket, men skal settes i stand til å følge den alminnelige progresjonen i opplæringen. Bestemmelsen gir skolen en plikt, men ikke en korresponderende rett for elevene. Dette betyr blant annet at det ikke skal fattes enkeltvedtak før skolen gir forsterket innsats.
 
-§ 2-16
+*Tredje avsnitt andre setning* er en videreføring av dagens § 1-4 andre setning og gir skolen mulighet til å gi forsterket innsats i små grupper eller som eneundervisning dersom det er nødvendig for elevenes utbytte av opplæringen. Bestemmelsen er et unntak fra regelen i § 13-2 om inndeling av elever i klasser og grupper. Eneundervisning kan bare skje i et begrenset omfang og kun dersom det er til elevens beste.
 
-–
+Dersom en elev ikke får tilfredsstillende utbytte av opplæringen til tross for forsterket innsats, vil eleven ha rett til individuelt tilrettelagt opplæring etter § 10-3.
 
-Kapittel 3. Vidaregåande opplæring
-§ 3-1 første avsnitt første og andre setning
+«Skolen» er brukt som pliktsubjekt i *andre avsnitt andre setning* og *fjerde avsnitt* fordi oppfyllelsen av pliktene naturlig skjer på skolenivå. Skolen er ikke et eget rettssubjekt, og det er kommunen eller fylkeskommunen som har ansvaret for oppfyllelsen, jf. § 22-1 andre avsnitt andre setning og § 22-2 fjerde avsnitt.
 
-§ 6-1 første avsnitt første og andre setning
+Til § 10-3 Individuelt tilrettelagd opplæring
 
-§ 3-1 første avsnitt tredje setning
+Bestemmelsen er en delvis videreføring av dagens lov § 5-1 og er omtalt i kapittel 31.
 
-§ 6-1 andre avsnitt tredje setning
+Dagens betegnelse «spesialundervisning» er erstattet med betegnelsen «individuelt tilrettelagd opplæring».
 
-§ 3-1 første avsnitt fjerde setning
+Det følger av bestemmelsen at elevene har rett til individuelt tilrettelagt opplæring dersom utbyttet av den universelle opplæringen ikke er «tilfredsstillande». Spørsmålet om utbyttet er tilfredsstillende, beror på en konkret faglig-pedagogisk vurdering av elevenes utbytte av opplæringen.
 
-–
+PP-tjenesten skal alltid gi en sakkyndig vurdering før kommunen eller fylkeskommunen fatter vedtak om individuelt tilrettelagt opplæring, jf. § 10-4.
 
-§ 3-1 andre avsnitt
+For elever som har et visst utbytte av den vanlige opplæringen, kan det i noen tilfeller være nok å få individuelt tilrettelagt opplæring i noen timer i uken eller for en kort periode. For elever som har svært lite utbytte av den vanlige opplæringen, eller som ikke har utbytte i det hele tatt, må hele opplæringen legges særskilt til rette.
 
-–
+Elever som har forutsetninger for å lære raskere og mer enn gjennomsnittet, har ikke rett til individuelt tilrettelagt opplæring. Kommunen og fylkeskommunen skal tilrettelegge den universelle opplæringen slik at den skaper et tilfredsstillende opplæringstilbud for alle, inkludert elever med stort potensial for læring. Elever i grunnskolen med stort læringspotensial og som lærer raskere enn gjennomsnittet kan for øvrig fritas helt eller delvis fra opplæringsplikten dersom hensynet til eleven tilsier det, se forslaget § 3-2 tredje avsnitt.
 
-§ 3-1 tredje avsnitt
+Elever som har vedtak etter bestemmelsen om individuelt tilrettelagt opplæring, kan samtidig ha rettigheter etter andre bestemmelser i lovforslaget. Det kan blant annet være rett til praktisk tilrettelegging, fysisk tilrettelegging, opplæring i og på norsk tegnspråk, opplæring i punktskrift, opplæring i mobilitet og særskilt språkopplæring dersom vilkårene for det er til stede.
 
-§ 6-1 tredje avsnitt første setning
+Til § 10-4 Vedtak om individuelt tilrettelagd opplæring
 
-§ 3-1 fjerde avsnitt
+Bestemmelsen viderefører deler av dagens lov §§ 5-3, 5-4 og 5-5 og er omtalt i kapittel 31.
 
-§ 6-5 første avsnitt
+*Første avsnitt* er en videreføring av dagens § 5-3 første avsnitt. Den sakkyndige vurderingen fra den pedagogisk-psykologiske tjenesten er bare rådgivende. Tjenesten har ikke myndighet til å fatte bindende vedtak.
 
-§ 3-1 femte avsnitt
+*Andre avsnitt første og andre setning* er en videreføring av dagens § 5-3 fjerde avsnitt. Etter bestemmelsen har kommunen og fylkeskommunen en særskilt begrunnelsesplikt dersom de fraviker tilrådningen i den sakkyndige vurderingen.
 
-§ 6-5 andre avsnitt
+*Andre avsnitt tredje setning* viderefører i hovedsak og klargjør innholdet dagens § 5-5 første avsnitt første setning. Etter bestemmelsen kan det i vedtak om individuelt tilrettelagt opplæring gjøres unntak fra innholdet i opplæringen, det vil si at det blant annet kan gjøres unntak fra kompetansemålene i læreplanene, men bare hvis det er begrunnet i elevens behov og i faglig-pedagogiske vurderinger. Det kan også gjøres unntak fra reglene om organiseringen av opplæringen.
 
-§ 3-1 sjette avsnitt første setning
+*Tredje avsnitt* viderefører dagens § 5-4 andre avsnitt første setning og tredje avsnitt. Om det er foreldrene eller eleven som må samtykke, følger av barneloven § 32, som sier at barn som har fylt 15 år, selv avgjør spørsmål om valg av utdanning. Regelen innebærer at ungdom som er fylt 15 år, selv må samtykke før det blir utarbeidet en sakkyndig vurdering, og før det fattes vedtak om individuelt tilrettelagt opplæring. Foreldrenes samtykke er i slike tilfeller ikke nødvendig, og foreldrene har heller ingen myndighet i denne sammenhengen. Når eleven er yngre enn 15 år, er det foreldrene som gir samtykke, men de har plikt til å ta barnet med på råd etter barneloven § 31. Se også § 2-1 første avsnitt i lovutkastet om elevens rett til å medvirke. Den pedagogisk-psykologiske tjenesten plikter å rådføre seg med foreldrene og eleven i arbeidet med å utforme tilbudet om individuelt tilrettelagt opplæring. En tilsvarende plikt har kommunen og fylkeskommunen i oppfølgingen av den individuelt tilrettelagte opplæringen.
 
-§ 6-1 andre avsnitt andre setning
+Til § 10-5 Kva den sakkunnige vurderinga skal innehalde
 
-§ 3-1 sjette avsnitt andre setning
+Bestemmelsen viderefører delvis dagens § 5-3 andre avsnitt og er omtalt i kapittel 31.
 
-–
+Bestemmelsen fastsetter et minimum av hva den sakkyndige vurderingen fra den pedagogisk-psykologiske tjenesten (PP-tjenesten) skal inneholde av opplysninger og vurderinger.
 
-§ 3-1 sjuende avsnitt
+Etter bestemmelsen skal PP-tjenesten blant annet alltid utrede hvilke tiltak som kan gi eleven tilfredsstillende utbytte av opplæringen. Det innebærer at det er universell opplæring som skal være hovedløsningen, jf. § 10-1. PP-tjenesten skal ta stilling til om, og i så fall hvordan, den universelle opplæringen kan tilrettelegges slik at den kan gi eleven et tilfredsstillende opplæringstilbud. PP-tjenesten skal også alltid ta stilling til om eleven trenger individuelt tilrettelagt opplæring, jf. § 10-4 første avsnitt andre setning.
 
-–
+Hvor omfattende en sakkyndig vurdering skal være, må for øvrig vurderes i det enkelte tilfellet. Dersom eleven for eksempel har behov for hjelp eller støtte fra en særskilt kompetanse, skal dette framgå i den sakkyndige vurderingen fra PP-tjenesten.
 
-§ 3-1 åttende avsnitt
+Til § 10-6 Krav om kompetanse for å gi individuelt tilrettelagd opplæring
 
-§ 6-1 fjerde avsnitt
+At det kan gjøres unntak fra kravene om relevant kompetanse i faget det undervises i, er en videreføring av dagens lov § 5-5 tredje avsnitt. For øvrig er bestemmelsen ny og er omtalt i kapittel 31.
 
-§ 3-1 niende avsnitt
+*Første avsnitt* presiserer hovedregelen om at det er de samme formelle kravene til lærerkompetanse for å gi individuelt tilrettelagt opplæring som for å gi annen opplæring.
 
-§ 6-7
+Etter *andre avsnitt* kan det gjøres unntak fra hovedregelen i første avsnitt. Ifølge bestemmelsen kan det gjøres unntak *både* fra kravene som gjelder for å kunne ansettes i lærerstilling, og fra kravene om at en lærer må ha relevant kompetanse i faget han eller hun underviser i. Det er et vilkår at unntaket vil gi eleven bedre individuelt tilrettelagt opplæring. Personen som skal gi individuelt tilrettelagt opplæring, må ha en universitets- eller høyskoleutdanning. Denne utdanningen må gjøre personen særlig og mer egnet til å ivareta elevens behov enn en lærer.
 
-§ 3-1 tiende avsnitt
+Det må være en utdanning av et visst omfang og på et visst faglig nivå. Det stilles ikke krav til antall studiepoeng eller grad, men en kortvarig utdanning vil sjelden kunne gjøre personen særlig og mer egnet enn en lærer. Det kan være at en elev har behov for å få individuelt tilrettelagt opplæring gitt av for eksempel en audiopedagog, logoped, psykolog eller barnevernspedagog.
 
-§ 6-1 tredje avsnitt tredje og fjerde setning
+Til § 10-7 Individuell opplæringsplan
 
-§ 3-1 ellevte avsnitt
+Bestemmelsen er en videreføring av dagens lov § 5-5 første avsnitt andre setning og er omtalt i kapittel 31.
 
-§ 6-6
+Selv om det står «skolen», er det kommunen eller fylkeskommunen som er ansvarlig for at elever som får individuelt tilrettelagt opplæring, får en individuell opplæringsplan (ofte forkortet til IOP). Skolen er ikke et eget rettssubjekt, og det er kommunen som har ansvaret for oppfyllelsen, jf. § 22-1 andre avsnitt andre setning og § 22-2 fjerde avsnitt.
 
-§ 3-1 tolvte avsnitt
+Den individuelle opplæringsplanen skal ta utgangspunkt i overordnet del av læreplanverket og læreplanen i de ulike fagene så langt det passer. Den individuelle opplæringsplanen må samordnes med planen for klassen slik at den individuelt tilrettelagte opplæringen ses i sammenheng med den opplæringen eleven får totalt.
 
-§ 6-9
+En individuell opplæringsplan skal bygge på det som er fastsatt i enkeltvedtaket om individuelt tilrettelagt opplæring, og skal være et arbeidsverktøy for lærerne. Den individuelle opplæringsplanen trenger ikke nødvendigvis å være et omfattende dokument. Hensikten med planen er å utvikle kortfattede og praktiske planer til hjelp i planlegging, gjennomføring og evaluering av opplæringen.
 
-§ 3-2 første avsnitt
+Den individuelle opplæringsplanen kan ikke fastsette noe som ikke er innenfor rammene av enkeltvedtaket om individuelt tilrettelagt opplæring. Dersom det for eksempel ikke går fram av enkeltvedtaket at eleven skal ha unntak fra læreplanverket, kan ikke dette fastsettes i den individuelle opplæringsplanen.
 
-§ 1-4
+Til § 10-8 Årleg evaluering av eleven sitt utbytte av den individuelt tilrettelagde opplæringa
 
-§ 3-2 andre avsnitt
+Bestemmelsen er en videreføring av dagens lov § 5-5 andre avsnitt og er omtalt i kapittel 31.
 
-§ 13-1 første avsnitt
+Skolen skal hvert år gi en oversikt over hvilken opplæring eleven har fått, og i tillegg gi en vurdering av elevens utvikling. Elevens utvikling skal vurderes ut fra målene som er satt i elevens individuelle opplæringsplan.
 
-§ 3-2 tredje avsnitt første og andre setning
+I tillegg til den årlige evalueringen har elevene rett til individuell vurdering, det vil si både underveisvurdering og sluttvurdering.
 
-§ 13-1 andre avsnitt
+«Skolen» er brukt som pliktsubjekt i bestemmelsen fordi oppfyllelsen naturlig skjer på skolenivå. Skolen er ikke et eget rettssubjekt, og det er kommunen og fylkeskommunen som har ansvaret for oppfyllelsen, jf. § 22-1 andre avsnitt andre setning og § 22-2 fjerde avsnitt.
 
-§ 3-2 tredje avsnitt tredje setning
+Til § 10-9 Personleg assistanse
 
-–
+Bestemmelsen er en delvis videreføring av dagens lov § 5-1 og er omtalt i kapittel 31.
 
-§ 3-2 fjerde avsnitt
+Med personlig assistanse menes praktisk hjelp og bistand fra en person (assistent) som kan følge med og hjelpe eleven i skolehverdagen. Assistansen kan variere både i omfang og oppgaver, og kan for eksempel være hjelp i forbindelse med av- og påkledning, måltider, medisinering, toalettbesøk, sosiale aktiviteter i friminuttet, forflytning, bæring av sekk og hjelp til å følge med i opplæringen. Personlig assistanse kan gis av personer som ikke er ansatt i lærerstilling.
 
-–
+En elev kan i tillegg ha rett til personlig assistanse etter helse- og omsorgstjenesteloven.
 
-§ 3-3 første avsnitt
+De vanlige saksbehandlingsreglene i forvaltningsloven skal følges når det skal fattes vedtak om personlig assistanse. Det stilles ikke krav om at det skal foreligge en sakkyndig utredning fra PP-tjenesten før kommunen eller fylkeskommunen skal fatte vedtak om personlig assistanse. Siden saken ifølge forvaltningsloven skal være «så godt opplyst som mulig før vedtak treffes», vil det i noen tilfeller være nødvendig med en vurdering fra PP-tjenesten eller andre sakkyndige.
 
-§§ 6-2 første avsnitt og 1-4
+Til § 10-10 Fysisk tilrettelegging og tekniske hjelpemiddel
 
-§ 3-3 andre avsnitt
+Bestemmelsen er en delvis videreføring av dagens lov § 5-1 og er omtalt i kapittel 31.
 
-§ 6-2 andre avsnitt
+Bestemmelsen innebærer at elever som har behov for tilrettelegging av arbeidsplassen eller klasserommet for å få tilfredsstillende utbytte av opplæringen, har rett til fysisk tilrettelegging. Slik tilrettelegging kan blant annet omfatte tekniske hjelpemidler, inventar, teknisk utstyr og programvare og nødvendig hjelp for at eleven skal kunne bruke utstyret.
 
-§ 3-3 tredje avsnitt første og andre setning
+Kommunen og fylkeskommunen har ansvaret for å stille til rådighet de hjelpemidlene og det utstyret som er nødvendig for at elevene skal få et tilfredsstillende utbytte av opplæringen. Det må skilles mellom pedagogiske hjelpemidler, som kommunen og fylkeskommune har ansvaret for, og tekniske hjelpemidler, som NAV Hjelpemiddelsentralen kan være ansvarlig for. Kommunen og fylkeskommunen vil uansett ha et restansvar når noe ikke blir dekket av NAV og hjelpemiddelet er nødvendig for at eleven skal få tilfredsstillende utbytte av opplæringen.
 
-§ 6-2 tredje avsnitt første setning
+Elever kan også ha rett til fysisk tilrettelegging etter § 11-7 tredje avsnitt første setning.
 
-§ 3-3 tredje avsnitt tredje setning
+Til § 10-11 Opplæring i bruk av tekniske hjelpemiddel og i mobilitet
 
-§ 1-4
+Bestemmelsen viderefører deler av dagens lov §§ 2-14 og 3-10 og er omtalt i kapittel 34.4.
 
-§ 3-3 fjerde avsnitt første setning
+Vilkåret for å få rett til opplæring i bruk av tekniske hjelpemidler og opplæring i mobilitet er at eleven er blind eller sterkt svaksynt. Om eleven har behov for opplæring i bruk av tekniske hjelpemidler og opplæring i mobilitet, må vurderes ut fra både medisinskfaglig og skolefaglig kunnskap og erfaring. Dessuten har det betydning hva eleven og foreldrene mener, og elevens beste skal være et grunnleggende hensyn, jf. § 2-1.
 
-§ 6-2 tredje avsnitt andre setning
+Skolens område skal i denne sammenheng tolkes i vid forstand. Med «aktivitetar i regi av skolen» menes det at aktivitetene må ha en sammenheng med skolens virksomhet.
 
-§ 3-3 fjerde avsnitt andre setning
+Elever med vedtak etter § 10-11 kan samtidig ha rett til opplæring i punktskrift etter §§ 4-5 og 7-4.
 
-§ 6-2 fjerde avsnitt
+Til § 10-12 Pedagogisk-psykologisk teneste
 
-§ 3-3 femte avsnitt første setning
+Bestemmelsen erstatter dagens lov § 5-6 og er omtalt i kapittel 31.5.8.
 
-§ 6-2 tredje avsnitt tredje setning
+*Første avsnitt* er en videreføring av dagens § 5-6 første avsnitt. Kravet om at det skal være en egen tjeneste, vil si at kommunen og fylkeskommunen ikke kan basere seg bare på å kjøpe tjenester utenfra. Kravene til den sakkyndige vurderingen slik de er fastsatt i § 10-5, betyr at loven stiller krav til kvaliteten på det arbeidet den pedagogisk-psykologiske tjenesten (PP-tjenesten) har ansvaret for å få gjort. Indirekte stiller dette også krav til hvordan tjenesten er organisert.
 
-[Side 803]
+Hvis PP-tjenesten ikke har nok fagkompetanse i en sak, må det innhentes kompetanse utenfra, for eksempel fra statlig spesialpedagogisk tjeneste (Statped), private sakkyndige eller andre kommunale tjenester som for eksempel kommunehelsetjenesten.
 
-NOU 2019: 23
-Ny opplæringslov
+Selv om PP-tjenesten organisatorisk og økonomisk hører inn under kommunen, vil ikke det si at kommunen eller fylkeskommunen kan instruere om hva de sakkyndige vurderingene skal gå ut på. Tjenesten har plikt til å sørge for at de sakkyndige vurderingene blir tatt på et best mulig faglig grunnlag.
 
-Opplæringsloven av 1998
+Etter kommuneloven § 17-1 kan to eller flere kommuner utføre felles oppgaver gjennom et interkommunalt samarbeid. Det innebærer at kommuner kan ha en felles pedagogisk-psykologisk tjeneste.
 
-Forslag til ny opplæringslov
+*Andre avsnitt* fører delvis videre det som i dag følger av § 5-6 andre avsnitt første setning. PP-tjenesten skal samarbeide med skolene og hjelpe til med tilrettelegging av opplæringen for alle elever, ikke bare elever med særskilte behov. Bestemmelsen innebærer blant annet at PP-tjenesten skal hjelpe skolene i det forebyggende arbeidet slik at skolene kan komme i forkant av eventuelle problemer.
 
-§ 3-3 femte avsnitt andre setning
+*Tredje avsnitt første setning* viderefører dagens lov § 5-6 andre avsnitt andre setning. Etter lovforslaget kreves sakkyndig vurdering bare før det fattes vedtak om individuelt tilrettelagt opplæring etter § 10-3 og om ekstra opplæringstid etter § 6-5.
 
-–
+*Tredje avsnitt andre setning* erstatter dagens lov § 5-6 andre avsnitt tredje setning. Forskriftskompetansen er avgrenset til at departementet kan gi forskrift om at den pedagogisk-psykologiske tjenesten skal utarbeide sakkyndige vurderinger i andre tilfeller enn de som er nevnt i loven. Departementet har følgelig ikke hjemmel til å gi forskrift om krav til kompetansen i og organiseringen av PP-tjenesten.
 
-§ 3-3 sjette avsnitt
+Kapittel 11 Skolemiljøet til elevane
 
-–
+Til § 11-1 Verkeområde for kapittelet
 
-§ 3-4 første avsnitt
+Bestemmelsen viderefører i hovedsak dagens lov § 9 A-1 med språklige endringer. Bestemmelsen er omtalt i kapittel 36.4.2.
 
-§§ 6-2 fjerde avsnitt, 6-4 andre avsnitt og 1-4
-
-§ 3-4 andre avsnitt første setning
-
-§ 2-2 andre avsnitt første setning
-
-§ 3-4 andre avsnitt andre og tredje setning
-
-–
-
-§ 3-4 tredje avsnitt
-
-–
-
-§ 3-4 a
-
-§ 21-3
-
-§ 3-5
-
-§ 21-2
-
-§ 3-6 første avsnitt første og andre setning
-
-§ 9-4 første avsnitt
-
-§ 3-6 første avsnitt tredje setning
-
-–
-
-§ 3-6 andre avsnitt
-
-§ 9-4 andre avsnitt
-
-§ 3-7. (Oppheva med lov 9 juni 2017 nr. 38.)
-§ 3-8. (Oppheva med lov 9 juni 2017 nr. 38.)
-§ 3-9
-
-§§ 7-3 og 1-4
-
-§ 3-10
-
-§§ 7-4, 10-11 og 1-4
-
-§ 3-11
-
-§ 20-1 andre avsnitt
-
-§ 3-12 første til tredje avsnitt
-
-§ 7-5
-
-§ 3-12 fjerde avsnitt
-
-–
-
-§ 3-12 femte avsnitt
-
-§ 7-6
-
-§ 3-13
-
-–
-
-Kapittel 4. Vidaregåande opplæring i bedrift
-§ 4-1 første avsnitt
-
-–
-
-§ 4-1 andre avsnitt
-
-§ 8-1 andre avsnitt andre setning
-
-§ 4-1 tredje avsnitt
-
-§ 6-2 fjerde avsnitt
-
-§ 4-2 første avsnitt
-
-–
-
-§ 4-2 andre avsnitt første setning
-
-§ 8-4 første avsnitt
-
-§ 4-2 andre avsnitt andre setning
-
-§ 8-4 andre avsnitt andre setning
-
-§ 4-2 tredje avsnitt første setning
-
-§ 8-4 fjerde avsnitt
-
-§ 4-2 tredje avsnitt andre setning
-
-–
-
-§ 4-2 fjerde og femte avsnitt
-
-–
-
-§ 4-3 første avsnitt første setning
-
-§ 8-5 første avsnitt
-
-§ 4-3 første avsnitt andre setning
-
-–
-
-§ 4-3 første avsnitt tredje og fjerde setning
-
-§ 8-5 andre avsnitt
-
-§ 4-3 andre avsnitt
-
-–
-
-§ 4-3 tredje avsnitt første og andre setning
-
-§ 8-6 første avsnitt
-
-801
-
-Vedlegg 1
-
-[Side 804]
-
-802
-
-Vedlegg 1
-
-NOU 2019: 23
-Ny opplæringslov
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-§ 4-3 tredje avsnitt tredje til femte setning
-
-–
-
-§ 4-3 tredje avsnitt sjette og syvende setning
-
-§ 8-6 andre avsnitt
-
-§ 4-3 fjerde avsnitt
-
-§ 8-5 tredje avsnitt
-
-§ 4-4 første avsnitt første setning
-
-§ 8-10 første avsnitt
-
-§ 4-4 første avsnitt andre og tredje setning
-
-–
-
-§ 4-4 første avsnitt fjerde setning
-
-§ 8-10 første avsnitt
-
-§ 4-4 andre avsnitt
-
-§ 8-10 andre avsnitt
-
-§ 4-4 tredje avsnitt
-
-–
-
-§ 4-4 fjerde avsnitt
-
-§ 8-10 tredje avsnitt
-
-§ 4-4 femte avsnitt
-
-§ 8-8
-
-§ 4-5 første og andre avsnitt
-
-§ 8-2
-
-§ 4-5 tredje avsnitt
-
-§ 8-4 tredje avsnitt
-
-§ 4-5 fjerde avsnitt
-
-–
-
-§ 4-6 første avsnitt
-
-§ 8-2 første avsnitt tredje setning
-
-§ 4-6 andre avsnitt første setning
-
-§ 8-3 første avsnitt
-
-§ 4-6 andre avsnitt andre setning
-
-–
-
-§ 4-6 tredje og fjerde avsnitt
-
-§ 8-3
-
-§ 4-6 femte til åttende avsnitt
-
-–
-
-§ 4-7
-
-§ 8-11
-
-§ 4-8 første avsnitt første setning
-
-–
-
-§ 4-8 første avsnitt andre setning
-
-§ 8-9
-
-§ 4-8 andre avsnitt
-
-§§ 8-5 andre avsnitt og 8-9 andre avsnitt
-
-§ 4-8 tredje avsnitt
-
-§ 6-4 andre avsnitt første og andre setning
-
-§ 4-8 fjerde avsnitt
-
-§ 21-2 andre setning
-
-§ 4-8 femte avsnitt
-
-–
-
-Kapittel 4A. Opplæring spesielt organisert for
-vaksne
-§ 4A-1 første avsnitt første setning
-
-§ 17-1
-
-§ 4A-1 første avsnitt andre setning
-
-§ 18-1 første avsnitt andre setning
-
-§ 4A-1 første avsnitt tredje setning
-
-§ 18-1 andre avsnitt, § 18-3 andre avsnitt og § 18-10
-andre avsnitt
-
-§ 4A-1 andre avsnitt
-
-§ 22-8
-
-§ 4A-1 tredje avsnitt
-
-§ 17-6
-
-§ 4A-1 fjerde avsnitt
-
-§ 17-7 første avsnitt
-
-§ 4A-2 første avsnitt
-
-§ 18-3 andre avsnitt bokstavene a, b og c
-
-§ 4A-2 andre avsnitt
-
-–
-
-[Side 805]
-
-NOU 2019: 23
-Ny opplæringslov
-
-803
-
-Vedlegg 1
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-§ 4A-2 tredje avsnitt
-
-§ 18-3 andre avsnitt bokstavene a, b og c
-
-§ 4A-3 første avsnitt første og andre setning
-
-§ 17-2 første avsnitt
-
-§ 4A-3 første avsnitt tredje setning
-
-§ 18-1 andre avsnitt, § 18-3 tredje avsnitt og § 18-10
-andre avsnitt
-
-§ 4A-3 første avsnitt fjerde setning
-
-§ 18-10 andre avsnitt
-
-§ 4A-3 første avsnitt femte setning
-
-§ 17-2 fjerde avsnitt
-
-§ 4A-3 andre avsnitt
-
-§ 17-3 tredje avsnitt
-
-§ 4A-3 tredje avsnitt
-
-–
-
-§ 4A-3 fjerde avsnitt
-
-§ 17-6
-
-§ 4A-3 femte og sjette avsnitt
-
-§ 17-5
-
-§ 4A-3 sjuende avsnitt
-
-§ 17-4
-
-§ 4A-3 åttende avsnitt
-
-§ 17-7 andre avsnitt
-
-§ 4A-4 første avsnitt
-
-§§ 22-1 til 22-6
-
-§ 4A-4 andre avsnitt
-
-§ 18-10 tredje avsnitt
-
-§ 4A-4 tredje avsnitt
-
-§ 18-1 tredje avsnitt første setning
-
-§ 4A-4 fjerde avsnitt
-
-§ 18-6 første avsnitt
-
-§ 4A-4 femte avsnitt
-
-§ 18-1 tredje avsnitt andre setning
-
-§ 4A-5 første avsnitt
-
-§ 18-4
-
-§ 4A-5 andre avsnitt
-
-–
-
-§ 4A-6
-
-§ 18-1 første avsnitt
-
-§ 4A-7 første og andre avsnitt
-
-§§ 19-1 og 19-2
-
-§ 4A-7 tredje avsnitt
-
-§ 19-3
-
-§ 4A-7 fjerde avsnitt
-
-§ 22-7
-
-§ 4A-8
-
-–
-
-§ 4A-9 første avsnitt første setning
-
-§ 18-9 første avsnitt
-
-§ 4A-9 første avsnitt andre setning
-
-–
-
-§ 4A-9 andre og tredje avsnitt
-
-§ 18-9 andre og tredje avsnitt
-
-§ 4A-10
-
-§§ 23-1 og 23-2
-
-§ 4A-11
-
-§ 23-3
-
-§ 4A-12
-
-§ 18-3 første avsnitt
-
-§ 4A-13
-
-–
-
-Kapittel 5. Spesialundervisning
-§ 5-1
-
-§§ 10-3, 10-9,10-10 og 1-4
-
-§ 5-2. (Oppheva med lov 30 juni 2000 nr. 63.)
-§ 5-3 første avsnitt
-
-§ 10-4 første avsnitt
-
-§ 5-3 andre avsnitt
-
-§ 10-5
-
-[Side 806]
-
-804
-
-Vedlegg 1
-
-NOU 2019: 23
-Ny opplæringslov
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-§ 5-3 tredje avsnitt
-
-–
-
-§ 5-3 fjerde avsnitt
-
-§ 10-4 andre avsnitt
-
-§ 5-4 første avsnitt
-
-§ 10-2 første og andre avsnitt
-
-§ 5-4 andre og tredje avsnitt
-
-§ 10-4 tredje avsnitt
-
-§ 5-5 første avsnitt første setning
-
-10-4 andre avsnitt tredje setning
-
-§ 5-5 første avsnitt andre og tredje setning
-
-§ 10-7
-
-§ 5-5 første avsnitt fjerde setning
-
-–
-
-§ 5-5 andre avsnitt
-
-§ 10-8
-
-§ 5-5 tredje avsnitt
-
-§ 10-6 andre avsnitt
-
-§ 5-6
-
-§ 10-12
-
-§ 5-7 (Oppheva med lov 17 juni 2016 nr. 65.)
-§ 5-8
-
-–
-
-§ 5-9
-
-–
-
-Kapittel 6. Samisk opplæring
-§ 6-1
-
-§§ 4-2 første avsnitt og 7-2 første avsnitt
-
-§ 6-2
-
-§ 4-2
-
-§ 6-3
-
-§ 7-2
-
-§ 6-4
-
-§ 1-4 fjerde avsnitt
-
-Kapittel 7. Skyss og innlosjering
-§ 7-1 første og andre avsnitt
-
-§ 5-1 første, andre og tredje avsnitt
-
-§ 7-1 tredje avsnitt
-
-–
-
-§ 7-1 fjerde og femte avsnitt
-
-§ 5-3
-
-§ 7-2 første avsnitt
-
-§ 9-1 første, andre og fjerde avsnitt
-
-§ 7-2 andre avsnitt
-
-–
-
-§ 7-2 tredje avsnitt
-
-§ 9-3
-
-§ 7-3
-
-§§ 5-1 fjerde avsnitt og 9-1 tredje avsnitt
-
-§ 7-4
-
-§§ 5-2 og 9-2
-
-§ 7-5 (Oppheva med lov 30 juni 2000 nr. 63.)
-§ 7-6 (Oppheva med lov 17 juni 2016 nr. 65.)
-Kapittel 8. Organisering av undervisninga
-§ 8-1 første avsnitt første og andre setning
-
-§ 3-6
-
-§ 8-1 første avsnitt tredje setning, andre og tredje
-avsnitt
-
-–
-
-§ 8-2
-
-§ 13-2
-
-§ 8-3
-
-–
-
-§ 8-4 (Oppheva med lov 27 juni 2003 nr. 69.)
-
-[Side 807]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-Kapittel 9. Leiing, funksjonar, utstyr og læremiddel
-i skolen
-§ 9-1 første avsnitt
-
-§ 15-1
-
-§ 9-1 andre avsnitt første til tredje setning
-
-§ 15-1
-
-§ 9-1 andre avsnitt fjerde setning
-
-–
-
-§ 9-1 tredje avsnitt
-
-–
-
-§ 9-2 første avsnitt
-
-§§ 14-1 og 14-2
-
-§ 9-2 andre avsnitt
-
-§ 13-6
-
-§ 9-3
-
-–
-
-§ 9-4
-
-§ 13-5
-
-§ 9-5
-
-–
-
-§ 9-6
-
-–
-
-§ 9-7
-
-§§ 12-4 og 18-8
-
-Kapittel 9 A. Elevane sitt skolemiljø
-§ 9 A-1
-
-§ 11-1
-
-§ 9 A-2
-
-§ 11-2
-
-§ 9 A-3
-
-§ 11-3
-
-§ 9 A-4
-
-§§ 11-4, 2-1 og 2-2
-
-§ 9 A-5
-
-§ 11-5
-
-§ 9 A-6
-
-§§ 11-6, 2-1 og 2-2
-
-§ 9 A-7
-
-§ 11-7
-
-§ 9 A-8
-
-§ 2-4
-
-§ 9 A-9
-
-§ 2-6
-
-§ 9 A-10
-
-§ 2-5
-
-§ 9 A-11
-
-§ 12-2
-
-§ 9 A-12
-
-§ 12-3
-
-§ 9 A-13
-
-§ 11-8
-
-§ 9 A-14
-
-§ 11-9
-
-§ 9 A-15 første avsnitt
-
-–
-
-§ 9 A-15 andre avsnitt
-
-§ 11-10
-
-§ 9 A-16
-
-–
-
-Kapittel 10. Personalet i skolen m.m.
-§ 10-1
-
-§ 15-2
-
-§ 10-2 første og andre avsnitt
-
-§ 15-3 første og tredje avsnitt
-
-§ 10-2 tredje avsnitt første setning
-
-§ 15-2 andre avsnitt
-
-§ 10-2 tredje avsnitt andre setning
-
-§ 24-2 tredje avsnitt
-
-805
-
-Vedlegg 1
-
-[Side 808]
-
-806
-
-Vedlegg 1
-
-NOU 2019: 23
-Ny opplæringslov
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-§ 10-2 fjerde avsnitt
-
-§ 15-3 andre avsnitt
-
-§ 10-3
-
-–
-
-§ 10-4
-
-–
-
-§ 10-5
-
-–
-
-§ 10-6
-
-§ 15-2 andre avsnitt
-
-§ 10-6a
-
-§ 15-2 andre avsnitt
-
-§ 10-7
-
-–
-
-§ 10-8
-
-§ 15-6
-
-§ 10-9
-
-§ 15-7
-
-§ 10-10
-
-–
-
-§ 10-11
-
-§ 15-4
-
-Kapittel 11. Organ for brukarmedverknad i skolen
-§ 11-1
-
-§ 2-4
-
-§ 11-1a
-
-–
-
-§ 11-2
-
-§ 2-4
-
-§ 11-3 (Oppheva med lov 27 juni 2003 nr. 69.)
-§ 11-4
-
-§ 2-4
-
-§ 11-5
-
-§ 2-4
-
-§ 11-5a
-
-–
-
-§ 11-6
-
-§ 2-4
-
-§ 11-7
-
-–
-
-§ 11-8
-
-–
-
-§ 11-9
-
-–
-
-§ 11-10
-
-–
-
-Kapittel 12. Organ knytte til fagopplæring i bedrift
-§ 12-1
-
-–
-
-§ 12-2
-
-–
-
-§ 12-3 første avsnitt
-
-§ 6-8
-
-§ 12-3 andre til sjuende avsnitt
-
-–
-
-§ 12-4
-
-–
-
-§ 12-5
-
-–
-
-§ 12-6
-
-–
-
-§ 12-7
-
-–
-
-Kapittel 13. Ansvaret til kommunen, fylkeskommunen og staten
-§ 13-1 første og andre avsnitt
-
-§ 22-1
-
-[Side 809]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-§ 13-1 tredje avsnitt første setning
-
-–
-
-§ 13-1 tredje avsnitt andre og tredje setning
-
-§ 22-3 første og tredje avsnitt
-
-§ 13-1 fjerde avsnitt
-
-§ 22-9 andre avsnitt
-
-§ 13-2
-
-§ 22-4
-
-§ 13-2 a
-
-§ 22-6
-
-§ 13-3 første til fjerde avsnitt første setning
-
-§ 22-2
-
-§ 13-3 fjerde avsnitt andre setning
-
-§ 6-3 andre avsnitt
-
-§ 13-3 femte avsnitt første setning
-
-§ 6-3 første avsnitt
-
-§ 13-3 femte avsnitt andre setning
-
-–
-
-§ 13-3 sjette avsnitt
-
-§ 22-3 første og tredje avsnitt
-
-§ 13-3 a
-
-§ 22-5
-
-§ 13-3b
-
-§ 22-10
-
-§ 13-3c
-
-–
-
-§ 13-3d
-
-§ 2-3
-
-§ 13-4
-
-§ 22-7
-
-§ 13-5
-
-§ 5-6
-
-§ 13-6
-
-–
-
-§ 13-7
-
-§ 5-5
-
-§ 13-7a
-
-§ 5-4
-
-§ 13-7 b
-
-–
-
-§ 13-8
-
-§ 22-2 sjette avsnitt
-
-§ 13-9
-
-–
-
-§ 13-10 første avsnitt
-
-–
-
-§ 13-10 andre avsnitt første setning
-
-–
-
-§ 13-10 andre avsnitt andre til fjerde setning
-
-§ 22-9 første, tredje og fjerde avsnitt
-
-Kapittel 14. Tilsyn m.m.
-§ 14-1
-
-§ 23-2
-
-§ 14-2
-
-–
-
-§ 14-3
-
-§ 20-7
-
-§ 14-4
-
-§ 16-5
-
-Kapittel 15. Bruk av forvaltningslova. Opplysningsplikt m.m.
-§ 15-1 første avsnitt
-
-–
-
-§ 15-1 andre avsnitt
-
-§ 20-4
-
-§ 15-1 tredje avsnitt
-
-–
-
-§ 15-2
-
-§ 23-1
-
-807
-
-Vedlegg 1
-
-[Side 810]
-
-808
-
-Vedlegg 1
-
-NOU 2019: 23
-Ny opplæringslov
-
-Opplæringsloven av 1998
-
-Forslag til ny opplæringslov
-
-§ 15-3
-
-§ 16-2
-
-§ 15-4
-
-§ 16-1
-
-§ 15-5
-
-–
-
-§ 15-6
-
-§ 16-3
-
-§ 15-7
-
-§ 23-4
-
-§ 15-8
-
-–
-
-§ 15-9
-
-§ 16-4
-
-Kapittel 16. Iverksetjing og overgangsreglar.
-Endringar i andre lover
-§ 16-1
-
-§ 24-1
-
-§ 16-2
-
-§ 24-2
-
-[Side 811]
-
-NOU 2019: 23
-Ny opplæringslov
-
-809
-
-Vedlegg 2
-
-Vedlegg 2
-
-Sjekkliste for lov- og forskriftsarbeid på
-opplæringsområdet
-
-Boks 2.1 Om sjekklisten
-annet kommuneloven §§ 2-1 og 2-2, utredDette er en sjekkliste for arbeidet med lov- og
-ningsinstruksen og Lovteknikk og lovforbereforskriftsendringer på opplæringsområdet.
-delse. For mer utfyllende redegjørelse av de
-Sjekklisten inneholder sentrale spørsmål som
-sentrale vurderingene ved regelstyring på oppmå vurderes på ulike trinn i regelverksarbeidet.
-læringsområdet, se kapittel 12 i NOU-en.
-Sjekklisten er et supplement til generelle regler
-og føringer for regelstyring som følger av blant
-
-Trinn 1: Skal det innføres regler?
-
-Trinn 3: Skal reglene være i lov eller i forskrift?
-
-1. Er problemet som regelen skal løse eller forhindre, utbredt eller alvorlig, eller er tiltaket
-som regelen pålegger, avgjørende for å nå formålet med grunnopplæringen?
-2. Vil en rettslig regulering føre til ønsket handling eller tilstand?
-3. Er rettslig regulering den beste måten å oppnå
-formålet?
-4. Er det er viktig at det aktuelle forholdet er likt
-regulert i hele landet?
-5. Er det nødvendig med egne regler utover
-generelle regler i andre lover?
-
-1. Inneholder regelen en sentral plikt eller rettighet?
-2. Gjelder regelen et tema hvor det er stort politisk engasjement eller politisk uenighet?
-3. Er regelen generell og overordnet eller spesifikk og detaljert?
-4. Vil en oppdeling mellom lov og forskrift gjøre
-regelverket unødvendig fragmentarisk?
-5. Vet man hovedlinjene i hva som skal reguleres
-i forskrift?
-
-Trinn 2: Hvordan skal reglene utformes?
-
-1. Kan oppfyllelsen av reglene overprøves, f.eks.
-gjennom klage eller tilsyn?
-2. Er det god nok tid før reglene trer i kraft til at
-alle aktørene kan gjøre seg kjent med reglene
-og integrere dem i sin virksomhet?
-3. Er det vurdert hvilke informasjons- og implementeringstiltak som må til for at reglene skal
-etterleves?
-4. Har alle aktørene gode nok rammebetingelser
-til å kunne etterleve reglene?
-5. Er det laget en plan for evaluering av reglene?
-
-1. Kan reglene utformes generelt og overordnet?
-2. Er det tilstrekkelig å regulere målet eller resultatet?
-3. Har man tilstrekkelig kunnskap til å stille krav
-om en bestemt framgangsmåte, organisering
-eller kompetanse?
-4. Er det stor risiko for at generelle regler ikke
-vil ivareta behovene til barn, unge og voksne
-på sentrale områder?
-5. Kan reglene utformes skjønnsmessig, og hva
-skal i så fall være grunnlaget for de skjønnsmessige vurderingene reglene legger opp til?
-6. Pålegges plikter og krav den som kan og bør
-stilles til ansvar for oppfyllelsen?
-
-Trinn 4: Hvordan skal reglene håndheves og implementeres?
-
-[Side 812]
-
-810
-
-Vedlegg 2
-
-NOU 2019: 23
-Ny opplæringslov
-
-Kommentarer til trinnene
-
-Trinn 3
-
-Trinn 1
-
-Når det er besluttet at det skal innføres regler og
-det er besluttet hva slags regler som skal innføres,
-må man ta stilling til om reglene skal plasseres i
-lov eller i forskrift. Spørsmålene i listen gir et
-utgangspunkt for vurderingene som må gjøres.
-Det må vurderes om reglene er overordnede, sentrale eller av andre grunner bør løftes til Stortinget, og dermed hører hjemme på lovs nivå, eller
-om reglene er mer spesifikke og detaljerte, og
-dermed hører bedre hjemme i forskrift. Det må
-også tas hensyn til at regelverket ikke bør bli
-unødvendig fragmentarisk. Se nærmere om vurderingene i kapittel 12.7 i NOU-en.
-
-Før det lages nye regler eller gjøres regelendringer, må det først vurderes om det er nødvendig. Dersom ikke alle spørsmålene i listen kan
-besvares bekreftende, bør man som hovedregel
-ikke innføre nye regler. Det må både vurderes om
-det er nødvendig for staten å gripe inn og om
-regler er riktig virkemiddel. Det må også vurderes om det er nødvendig med egne regler i tillegg
-til regler i generelle lover som kommuneloven og
-forvaltningsloven. Se nærmere om vurderingene i
-kapittel 12.2 i NOU-en.
-Trinn 2
-Når det er besluttet at det skal innføres regler, må
-det vurderes hvordan reglene skal utformes.
-Spørsmålene i listen gir et utgangspunkt for vurderingene som må gjøres. Det skal alltid vurderes
-om det er tilstrekkelig med overordnet, generell
-og eventuelt skjønnsmessig regulering som gir
-kommunen handlingsrom, samtidig som det alltid
-må vurderes hvor detaljerte reglene må være for å
-ivareta hensynet til barn, unge og voksne på sentrale områder. Se nærmere om vurderingene i
-kapittel 12.3 til 12.6 i NOU-en.
-
-Trinn 4
-Når det er besluttet at det skal innføres regler,
-hvordan reglene skal utformes og hvor reglene
-skal plasseres, må det vurderes hva som skal til
-for at formålet med reglene oppnås. Spørsmålene i
-listen gir et utgangspunkt for vurderingene som
-må gjøres. Det skal alltid vurderes om og hvordan
-reglene skal kunne håndheves og hva slags implementeringstiltak som er nødvendig. I tillegg må
-det lages en plan for evaluering av reglene. Se
-nærmere om vurderingene i kapittel 12.8 og 55 i
-NOU-en.
-
-[Side 813]
-
-Norges offentlige utredninger
-2019
-
-Norges offentlige utredninger
-2018
-
-Seriens redaksjon:
-
-Departementenes sikkerhets- og serviceorganisasjon
-Teknisk redaksjon
-
-Arbeids- og sosialdepartementet:
-NOU 2018: 6 Varsling – verdier og vern
-NOU 2018: 8 Grunnlaget for inntektsoppgjørene 2018
-Barne- og likestillingsdepartementet:
-NOU 2018: 18 Trygge rammer for fosterhjem
-
-1.
-
-Overtakelsestilbud (frivillig og pliktig tilbud)
-Finansdepartementet
-
-13. Når krisen inntreffer
-Justis- og beredskapsdepartementet
-
-2.
-
-Fremtidige kompetansebehov II
-Kunnskapsdepartementet
-
-14. Tvangsbegrensningsloven
-Helse- og omsorgsdepartementet
-
-3.
-
-Nye sjanser – bedre læring
-Kunnskapsdepartementet
-
-15. Skatterådgiveres opplysningsplikt og taushetsplikt
-Finansdepartementet
-
-4.
-
-Organisering av norsk naturskadeforsikring
-Justis- og beredskapsdepartementet
-
-16. Skattlegging av vannkraftverk
-Finansdepartementet
-
-5.
-
-Ny forvaltningslov
-Justis- og beredskapsdepartementet
-
-17. Domstolstruktur
-Justis- og beredskapsdepartementet
-
-6.
-
-Grunnlaget for inntektsoppgjørene 2019
-Arbeids- og sosialdepartementet
-
-18. Skattlegging av havbruksvirksomhet
-Finansdepartementet
-
-7.
-
-Arbeid og inntektssikring
-Arbeids- og sosialdepartementet
-
-19. Jenterom, gutterom og mulighetsrom
-Kulturdepartementet
-
-8. 	Særavgiftene på sjokolade- og sukkervarer og
-alkoholfrie drikkevarer
-Finansdepartementet
-9.
-
-Fra kalveskinn til datasjø
-Kulturdepartementet
-
-20. En styrket familietjeneste
-Barne- og familiedepartementet
-21. Framtidens fiskerikontroll
-Nærings- og fiskeridepartementet
-
-10. Åpenhet i grenseland
-Helse- og omsorgsdepartementet
-
-22.	Fra statussymbol til allemannseie
-– norsk luftfart i forandring
-Samferdselsdepartementet
-
-11. Enklere merverdiavgift med én sats
-Finansdepartementet
-
-23. Ny opplæringslov
-Kunnskapsdepartementet
-
-12. Lærekraftig utvikling
-Kunnskapsdepartementet
-
-Finansdepartementet:
-NOU 2018: 1 Markeder for finansielle ­instrumenter
-NOU 2018: 3 Krisehåndtering i forsikrings- og
-pensjonssektoren
-NOU 2018: 7 Ny lov om offisiell statistikk og
-Statistisk sentralbyrå
-NOU 2018: 9 Regnskapsførerloven
-NOU 2018: 10 Nye prospektregler
-NOU 2018: 12 Energiaksjer i Statens pensjonsfond
-utland
-NOU 2018: 17 Klimarisiko og norsk økonomi
-Helse- og omsorgsdepartementet:
-NOU 2018: 16 Det viktigste først
-
-Justis- og beredskapsdepartementet:
-NOU 2018: 14 IKT-sikkerhet i alle ledd
-Kunnskapsdepartementet:
-NOU 2018: 2 Fremtidige kompetansebehov I
-NOU 2018: 13 Voksne i grunnskole- og videregående
-opplæring
-NOU 2018: 15 Kvalifisert, forberedt og motivert
-Landbruks- og matdepartementet:
-NOU 2018: 11 Ny fjellov
-Nærings- og fiskeridepartementet:
-NOU 2018: 5 Kapital i omstillingens tid
-Samferdselsdepartementet:
-NOU 2018: 4 Sjøveien videre
-
-[Side 814]
-
-NOU
-
-Bestilling av publikasjoner
-
-Publikasjonene er også tilgjengelige på
-www.regjeringen.no
-Omslagsillustrasjon: Melkeveien Design
-Trykk: 07 Media AS – 12/2019
-
-NOU 2019: 23
-
-Departementenes sikkerhets- og serviceorganisasjon
-www.publikasjoner.dep.no
-Telefon: 22 24 00 00
-
-ED
-
-79
-
-MIL
-JØ
-
-Ny opplæringslov
-
-RI
-KE
-
-07
-
-M
-
-RKET TRY
-K
-ME
-
-IA – 2041
-
-03
-
-Norges offentlige utredninger
-
-Ny opplæringslov
-
-2019: 23
+Bestemmelsen beskriver virkeområdet for hele kapittel 11. Ordlyden slår fast at reglene i kapittel 11 gjelder for skolen, leksehjelpordninger eller skolefritidsordninger. «Skoler» omfatter både grunnskoler og videregående skoler som er omfattet av loven, se forslaget til § 1-1. Kapitlet gjelder skolefritidsordninger og leksehjelpordninger som er opprettet etter opplæringsloven. Det er regulert i friskolelova hvilke av reglene om skolemiljø som gjelder i friskoler og tilbud om leksehjelp opprettet etter friskolelova. Skolefritidsordninger er ikke regulert i friskolelova.

@@ -1,936 +1,436 @@
-# NOU 2019: 23, del 52 av 71 (side 587–596)
+# NOU 2019: 23, del 52 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 587]
-
-NOU 2019: 23
-Ny opplæringslov
-
-585
-
-Kapittel 45
-
-Kapittel 45
-
-Grunnskoleopplæring og videregående opplæring for voksne
-
-Figur 45.1
-
-45.1 Innledning
-Dette kapitlet handler om grunnopplæring for
-voksne elever. Grunnopplæring er en fellesbetegnelse for grunnskoleopplæring og videregående
-opplæring.
-Med voksne elever siktes det her til personer
-som i dag har rett til opplæring etter opplæringsloven kapittel 4A. Når det gjelder grunnskoleopplæring, regnes man som voksen elev når man er
-over grunnskolepliktig alder, som normalt vil si 16
-år. I videregående opplæring regnes man i dag
-som voksen elev når man er over 25 år. Voksnes
-rett til grunnskoleopplæring og videregående
-opplæring omtales ofte som en voksenrett. Til
-sammenligning omtales den ordinære retten til
-videregående opplæring som en ungdomsrett. I
-dette kapitlet er disse uttrykkene brukt.
-I dagens § 4A-1 andre avsnitt er det fastsatt at
-kommuner og fylkeskommuner kan tilby ungdom
-som har rett til videregående opplæring etter ungdomsretten, mer grunnskoleopplæring dersom de
-trenger det. Denne bestemmelsen er omtalt i
-kapittel 24.4.2.
-
-45.2 Dagens regler
-Generelt
-I dagens opplæringslov står det i kapittel 4A
-hvilke regler som gjelder for grunnskoleopplæring og videregående opplæring for voksne elever.
-De reglene som bare gjelder for grunnopplæring
-for voksne, er skrevet i full tekst, mens det er henvist til reglene som gjelder for ordinær grunnopplæring, og som også gjelder for voksne elever.
-
-Rett til grunnskoleopplæring for voksne
-Det følger av opplæringsloven § 4A-1 første avsnitt
-at voksne som «treng» grunnskoleopplæring, har
-rett til slik opplæring. Videre er det vilkår om at
-man er over grunnskolepliktig alder, ikke har rett
-til videregående opplæring etter § 3-1 (ungdomsrett) og har lovlig opphold i Norge.
-Hva som er over grunnskolepliktig alder, er
-avhengig av når den enkelte begynner på skolen.
-Opplæringsloven åpner for både tidlig og utsatt
-skolestart på visse vilkår. Opplæringsplikten varer
-fra skolestart til den enkelte har avsluttet det
-10. skoleåret, som vanligvis er det året personen
-fyller 16 år.
-Det er bare voksne som ikke har ungdomsrett
-til videregående opplæring, som kan ha rett til
-grunnskoleopplæring som voksne. Ungdomsretten til videregående opplæring er omtalt i kapittel
-24. Kravet til lovlig opphold er det samme som for
-ungdommers rett til videregående opplæring etter
-§ 3-1. Dette kravet er omtalt i kapittel 25.
-Det fjerde og avgjørende vilkåret for å ha rett
-til grunnskoleopplæring etter § 4A-1, er at søkeren trenger grunnskoleopplæring. I forarbeidene
-til loven er det utdypet at det kan være ulike årsaker til at den voksne har behov for grunnskoleopplæring.1 Det vises til at den voksne kan ha
-behov for fornyet grunnskoleopplæring på grunn
-av sykdom eller skade, fordi grunnskoleopplæringen har vært mangelfull, eller fordi den voksne av
-andre grunner har behov for mer opplæring. I vurderingen av om den voksne har behov for grunnskoleopplæring, skal det legges vekt på søkerens
-1
-
-Ot.prp. nr. 44 (1999–2000), merknad til § 4A-1.
-
-[Side 588]
-
-586
-
-NOU 2019: 23
-
-Kapittel 45
-
-Ny opplæringslov
-
-egne vurdering. Egen vurdering av opplæringsbehovet kan likevel ikke uten videre være avgjørende for om vedkommende har krav på opplæring. Søkerens vurdering av eget behov må ses i
-sammenheng med opplæringstilbudet vedkommende har fått tidligere, og om søkeren objektivt
-sett har et reelt behov.
-I Ot.prp. nr. 44 (1999–2000) i merknaden til
-§ 4A-1 står det følgende:
-Personar som har fått eit likeverdig opplæringstilbod, vil i mange tilfelle ikkje ha behov
-for ytterlegare grunnskoleopplæring. Somme
-vil likevel ha eit slikt behov, og dermed ha rett
-til grunnskoleopplæring. Dersom den tidlegare opplæringa ikkje inkluderte dei fag ein i
-dag treng for å få vitnemål for fullført grunnskoleopplæring for vaksne, vil ein kunne ha
-behov for, og dermed rett til, opplæring så
-langt behovet rekk.
-Behovet til personer med utenlandsk bakgrunn
-og utdanning må vurderes etter de behovene vedkommende har etter dagens norske forhold. Her
-vurderes likeverdigheten av den opplæring søkeren har mottatt, opp mot Læreplanverket for
-Kunnskapsløftet.2
-Det følger av opplæringsloven § 4A-1 første
-avsnitt andre setning at retten til opplæring «til
-vanleg» omfatter de fagene man trenger for å få
-vitnemål for fullført grunnskoleopplæring for
-voksne. Kunnskapsdepartementet har lagt til
-grunn at denne ordlyden uttrykker en yttergrense
-for hvilke fag som skal inngå i opplæringen – i den
-forstand at man normalt ikke vil ha krav på opplæring i fag som musikk og kroppsøving mv.3
-Kunnskapsdepartementet har i en tolkningsuttalelse fra 2011 lagt til grunn at behovet for opplæring ikke trenger å være knyttet til hele fag, men
-at voksne også har rett til opplæring dersom de
-har behov for opplæring i deler av fag eller i de
-fem grunnleggende ferdighetene som inngår i
-gjeldende læreplanverk. Én av de grunnleggende
-ferdighetene er digitale ferdigheter. Departementet har uttalt følgende om rett til grunnskoleopplæring på grunn av behov knyttet til digitale
-ferdigheter:
-
-i kompetansemålene for de digitale ferdighetene i læreplanene for de fem fagene som
-voksne må ha sluttvurdering i for å få vitnemål,
-men likevel tilpasset den voksnes behov.4
-Det følger av opplæringsloven § 4A-1 tredje avsnitt
-at «opplæringa og undervisningsmateriellet er
-gratis». Det følger av forarbeidene at det ordinære
-gratisprinsippet i grunnskolen også gjelder for
-voksne, og at det ikke er ment et annet innhold
-selv om formuleringen er annerledes.
-Rett til spesialundervisning på grunnskolens
-område
-Retten til spesialundervisning for voksne på
-grunnskolens område er regulert i opplæringsloven § 4A-2. I første avsnitt er det fastsatt at voksne
-som ikke har eller kan få tilfredsstillende utbytte
-av det ordinære opplæringstilbudet for voksne,
-har rett til spesialundervisning. Denne formuleringen er lik som for retten til spesialundervisning
-for barn og unge i opplæringsloven § 5-1. Reglene
-om spesialundervisning i opplæringsloven kapittel 5 gjelder tilsvarende for voksne, utenom kravet
-i § 5-1 andre avsnitt siste setning om at den som
-får spesialundervisning, skal ha det samme totaltimetallet som andre elever. Årsaken til at denne
-ikke gjelder for voksne elever, er at det ikke er
-fastsatt timetall for grunnskoleopplæring for
-voksne. Spesialundervisning for barn og unge er
-omtalt i kapittel 31.
-I tillegg til den ordinære retten til spesialundervisning har voksne som har særlige behov for
-opplæring for å kunne utvikle eller holde ved like
-grunnleggende ferdigheter, rett til slik opplæring.
-Dette følger av § 4A-2 andre avsnitt. Bestemmelsen er en videreføring av den rettigheten som
-fulgte av voksenopplæringsloven av 1976 § 5
-andre avsnitt, slik denne ble tolket av Høyesterett
-i Malviksaken.5
-Voksenopplæringsloven § 5 andre avsnitt lød
-slik:
-Voksne som etter sakkyndig vurdering har
-særlig behov for spesialundervisning på
-grunnskolens område, har rett til opplæring.
-Denne skal være likeverdig med den opplæring som gis etter lov om grunnskolen. Departementet kan gi nærmere regler.
-
-Departementet forstår […] loven slik at voksne
-med rett til grunnskoleopplæring etter § 4A-1
-kan kreve opplæring i digitale ferdigheter når
-behovet er knyttet til dette, med utgangspunkt
-4
-2
-3
-
-Utdanningsdirektoratet, rundskriv Udir-3-2012, punkt 2.1.4.
-Kunnskapsdepartementet, brev datert 16. september 2011.
-
-5
-
-Tolkningsuttalelsen er sitert i Utdanningsdirektoratets
-rundskriv Udir 3-2012, punkt 2.1.4.
-Ot.prp. nr. 46 (1997–98). Rt. 1993 s. 811.
-
-[Side 589]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Når det gjelder elevgrupper med sterkt behov
-for vedlikeholdsopplæring i grunnleggende
-ferdigheter, kan det etter høyesterettsdommen
-synes som om de ikke har krav på ytterligere
-opplæring når de allerede har fått ni års grunnskoleopplæring tilpasset deres særlige behov.
-Rettens premisser er imidlertid ikke helt klare
-på dette punktet, og uttalelser i så vel juridisk
-teori som i lovforarbeidene trekker i retning av
-at også disse elevene var ment omfattet av vol.
-§ 5 annet ledd. Også St.meld. nr. 35 (1990–91)
-synes å legge til grunn at elever med behov for
-vedlikeholdsopplæring vil kunne ha rett til
-dette i medhold av voksenopplæringsloven § 5
-annet ledd (se særlig s. 6). Fortsatt er det imidlertid uklart hvilket omfang og hvilken varighet en slik rettighet til fortsatt opplæring på
-grunnskolens område skal ha. Det er imidlertid på det rene at en del personer faktisk vil ha
-behov for slik opplæring livet ut, noe som har
-vært understreket av departementet og Stortinget i flere sammenhenger. Mye tyder også
-på at reglene har vært praktisert uten tidsbegrensning for dem som er i en slik situasjon, f.
-eks. voksne med psykisk utviklingshemning.7
-
-I Malviksaken uttalte Høyesterett følgende om
-tolkningen av voksenopplæringsloven § 5 andre
-avsnitt:
-Det fremgår av Innst. O. nr. 4 (1982–83) at det
-er den opplæringsrett grunnskoleloven gir alle
-elever i samsvar med evner og forutsetninger,
-som etter likhetsprinsippet skal tilflyte voksne
-som har manglet et slikt undervisningstilbud.
-[…] Jeg finner etter dette at A bare har krav på
-videre opplæring etter voksenopplæringsloven
-§ 5 annet ledd dersom det undervisningstilbud
-hun alt har fått, ikke er likeverdig med minstekravet på vanlig grunnskoleopplæring.
-I Utdanningsdirektoratets rundskriv er det lagt til
-grunn at den voksne må oppfylle vilkårene for retten til grunnskoleopplæring i § 4A-1 første avsnitt
-for å kunne ha rett til spesialundervisning etter
-§ 4A-2. For at den voksne skal ha rett til spesialundervisning etter § 4A-2 andre avsnitt, må følgende
-tre vilkår være oppfylt:
-1. Behovet må være knyttet til grunnleggende
-ferdigheter.
-2. Behovet må gjelde opplæring for å vedlikeholde eller utvikle grunnleggende ferdigheter.
-3. Den voksne må ha et særlig behov.
-I forarbeidene står det at «[g]runnleggjande
-dugleik er i denne samanhengen meint å dekkje
-ADL-trening (opplæring i daglege gjeremål),
-grunnleggjande kommunikasjonsdugleik, grunnleggjande lese- og skrivedugleik, motorisk trening
-og liknande».6 Ferdighetene som det vises til i
-opplæringsloven § 4A-2 andre avsnitt er altså en
-sammenblanding av ferdigheter som er grunnleggende ferdigheter i Læreplanverket for Kunnskapsløftet, og andre ferdigheter.
-I Utdanningsdirektoratets rundskriv er det
-presisert at dersom hensikten med tilbudet er
-behandling, aktivisering, rehabilitering, opptrening, tilsyn mv., vil det falle utenfor § 4A-2 andre
-avsnitt. I rundskrivet er det skissert noen kriterier
-som må være oppfylt for at en aktivitet skal regnes
-som opplæring. Det er blant annet lagt til grunn at
-aktiviteten må ha et pedagogisk siktemål, at den
-må være knyttet til opplæring i fag og gis gjennom
-opplæring i fag, stå under skoleeiers ledelse og
-ansvar og gjennomføres innenfor rammene i
-enkeltvedtaket om spesialundervisning.
-I NOU 1995: 18 ble vedlikeholdsopplæring i
-grunnleggende ferdigheter og forståelsen av Malviksaken omtalt slik:
-
-I den påfølgende lovproposisjonen står det at:
-«Departementet forstår utvalet slik at rett til livslangt tilbod ikkje skal vere noka normalordning
-etter lova, og berre vil vere aktuell i svært få tilfelle».8
-I et brev fra 2013 har Utdanningsdirektoratet
-svart Blindeforbundet på et spørsmål om mobilitetstrening etter opplæringsloven § 4A-2 andre
-avsnitt. Spørsmålet gjaldt om mobilitetstrening for
-studenter var å regne som grunnskoleopplæring,
-som dermed skulle finansieres av kommunen.
-Direktoratet svarte at en person som har fullført
-grunnskoleopplæring, kan ha rett til grunnskoleopplæring for voksne, hvis vedkommende trenger
-det. Videre la direktoratet til grunn at mobilitetstrening kan være å anse som grunnskoleopplæring og at det også kan tenkes gitt som spesialundervisning. Direktoratet understreket at mobilitetstrening som en del av grunnskoleopplæringen, skal gis på den skolen eller det opplæringsstedet som tilbyr grunnskoleopplæring til voksne,
-og ikke på et universitet eller en høyskole.9
-I Utdanningsdirektoratets rundskriv står det
-følgende om voksne som trenger grunnskoleopplæring for å holde ved like eller utvikle grunnleg7
-8
-
-6
-
-Ot.prp. nr. 46 (1997–98), merknad til § 5-2.
-
-587
-
-Kapittel 45
-
-9
-
-NOU 1995: 18, s. 132.
-Ot.prp. nr. 46 (1997–98), kap. 8.4.6.
-Utdanningsdirektoratet, brev datert 21. februar 2013.
-
-[Side 590]
-
-588
-
-NOU 2019: 23
-
-Kapittel 45
-
-Ny opplæringslov
-
-gende ferdigheter på grunn av sykdom eller
-skade:
-Voksne som trenger grunnskoleopplæring for
-å holde ved like eller utvikle grunnleggende
-ferdigheter på grunn av sykdom eller skade,
-må vurderes særskilt. I disse tilfellene må
-§§ 4A-1 og 4A-2 andre ledd ses i sammenheng.
-I noen tilfeller kan det være slik at voksne som
-har fullført grunnskoleopplæring eller tilsvarende opplæring, likevel vil ha rett til mer
-grunnskoleopplæring. I disse tilfellene skal
-ikke kommunen vurdere søkerens behov ut fra
-om den voksne har fått et likeverdig opplæringstilbud, men ut fra om sykdommen eller
-skaden gjør at den voksne trenger mer grunnskoleopplæring.
-Opplæringen den voksne har mottatt tidligere, kan godt ha vært likeverdig. Det som må
-vurderes, er om den voksne trenger grunnskoleopplæring. Dette vil gjelde for voksne som er
-utsatt for en ulykke og derfor trenger opplæring for å holde ved like eller utvikle grunnleggende ferdigheter for å fungere i hverdagslivet.
-Det samme vil gjelde for voksne psykisk
-utviklingshemmede som på grunn av sin
-utviklingshemming trenger opplæring for å
-holde ved like eller utvikle grunnleggende
-ferdigheter.10
-Rett til videregående opplæring for voksne
-Det følger av opplæringsloven § 4A-3 at de som
-har fullført grunnskolen, men som ikke har fullført videregående opplæring, har rett til videregående opplæring fra det året de fyller 25 år. De som
-har fullført videregående opplæring i et annet
-land, men ikke får godkjent opplæringen som studiekompetanse eller yrkeskompetanse i Norge,
-har også rett til videregående opplæring for
-voksne. For å få rett til videregående opplæring i
-Norge er det også et vilkår at den den voksne har
-lovlig opphold i landet. Vilkårene for retten til
-videregående opplæring for voksne er ikke utdypet i forarbeidene til loven, men de er omtalt i et
-rundskriv fra Utdanningsdirektoratet.11
-Vilkåret om at den voksne må ha fullført
-grunnskolen, betyr at den voksne må oppfylle vilkårene for inntak til videregående opplæring som
-er fastsatt i forskrift til opplæringsloven § 6-13.
-Den voksne må enten ha vitnemål fra grunnskolen, være skrevet ut av grunnskolen på grunnlag
-
-av fritak, ha gjennomgått allmenn grunnopplæring i utlandet i minst ni år eller ha realkompetanse som tilsvarer fullført norsk grunnskoleopplæring for voksne. En utenlandsk søker som har
-gjennomgått grunnskole i sitt hjemland uten å ha
-hatt engelsk som fag, anses ikke å ha fullført opplæring «tilsvarende» norsk grunnskole. Dette forhindrer ikke at vedkommende tas inn på bakgrunn av realkompetanse dersom vedkommende
-har tilstrekkelig kompetanse i engelsk.12
-Det andre vilkåret er at den voksne ikke har
-fullført videregående opplæring. Hva som ligger i
-begrepet «fullført vidaregåande opplæring» må
-avgjøres på bakgrunn av en totalvurdering av hvor
-mye opplæring den voksne faktisk har mottatt.
-Opplæring kan være fullført uten å være bestått
-ved at den enkelte har «brukt opp» antallet år med
-opplæring vedkommende har krav på, uten å ha
-grunnlag for vitnemål.
-Elever som har avbrutt den videregående opplæringen, har ikke fullført. Etter dagens regler
-kan fylkeskommunen som tommelfingerregel
-legge til grunn at den som har vært elev ved en
-skole per 1. november, trolig har brukt opp retten
-sin til det aktuelle opplæringsåret.13 Dersom en
-voksen tidligere har begynt på en videregående
-opplæring og ikke fullført, må fylkeskommunen
-vurdere konkret hvilket tilbud den voksne skal gis
-for å få enten studiekompetanse eller yrkeskompetanse.
-Inntaket av voksne med og uten rett til videregående opplæring er regulert i forskrift til opplæringsloven kapittel 6. Ifølge forskriften § 6-45
-tredje avsnitt skal den voksne «til vanleg få tilbod
-om opplæring i samsvar med den sluttkompetanse dei ønskjer». I rundskriv fra Utdanningsdirektoratet er det presisert at dette imidlertid
-ikke kan forstås som en absolutt rett til å få opplæring innenfor ønsket utdanningsprogram. Det
-vises til at dersom man hadde tolket retten som en
-absolutt rett til ønsket sluttkompetanse, ville det
-kunne få store økonomiske og praktiske konsekvenser, for eksempel lange ventelister, noe som
-er i strid med loven. I rundskrivet legges det til
-grunn at fylkeskommunen må utvise skjønn når
-den gir tilbud om opplæring til voksne med slik
-rett. Den voksnes ønsker må vektlegges i vurderingen av hvilket tilbud som gis, men muligheten
-til å kunne oppnå den ønskede sluttkompetansen
-blant annet på bakgrunn av realkompetansen må
-også spille inn. Det vises videre til at fylkeskom12
-
-10
-
-Utdanningsdirektoratet, rundskriv Udir 3-2012, punkt 2.1.4.
-11
-Utdanningsdirektoratet, rundskriv Udir 2-2008, punkt 2.
-
-13
-
-Utdanningsdirektoratet, rundskriv Udir 2-2008, punkt 2.
-Se nærmere omtale i kap. 24.2.2, under Nærmere om bruk
-av retten til videregående opplæring.
-
-[Side 591]
-
-NOU 2019: 23
-Ny opplæringslov
-
-munen ikke plikter å tilby samtlige programfag i
-videregående opplæring, men at voksnes rett til
-videregående opplæring imidlertid ikke er
-begrenset til de seks fagene som gir generell studiekompetanse etter «23/5-regelen», jf. § 2-1 (1) i
-forskrift om opptak til høyere utdanning.14
-Opplæringsloven § 13-3 femte avsnitt om fylkeskommunens plikt til å planlegge og bygge ut
-det videregående opplæringstilbudet gjelder også
-for opplæring særskilt organisert for voksne.
-Denne plikten er omtalt i kapittel 24.4.10.
-Det er ikke fastsatt noen tidsramme eller noe
-antall timer eller år for voksnes rett til videregående opplæring. Det er likevel klart at retten til
-videregående opplæring for voksne ikke er ubegrenset. I rundskriv fra Utdanningsdirektoratet er
-det omtalt momenter som begrenser retten, eller
-som kan føre til at retten faller bort.15
-Opplæringsloven regulerer ikke uttrykkelig
-voksne som får opplæring i bedrift, eller voksne
-som får opplæring i ordinære videregående skoler. Det er likevel lagt til grunn at en voksen som
-får opplæring i bedrift, har de samme rettighetene
-og pliktene som ungdom som får opplæring i
-bedrift, og at voksne som blir tatt inn til ordinær
-videregående opplæring, altså videregående opplæring for ungdom, har de samme rettighetene og
-pliktene som ungdom som får videregående opplæring.16
-Opplæringsloven § 4A-3 sjuende avsnitt handler om rett til påbygging til generell studiekompetanse for dem som etter 2014 har fullført og
-bestått fag- og yrkesopplæring som en del av ungdomsretten til videregående opplæring, eller
-innen utgangen av det året de fyller 24 år.
-Det følger av opplæringsloven § 4A-3 fjerde
-avsnitt at opplæringen i offentlige videregående
-skoler og i lærebedrifter er gratis. Det er presisert
-at fylkeskommunen har ansvaret for å holde
-voksne som får videregående opplæring, med
-nødvendige trykte og digitale læremidler og digitalt utstyr, og at voksne elever ikke kan pålegges å
-dekke noen deler av utgiftene til opplæringen
-utover det som følger av forskrift. Videre er det
-presisert at fylkeskommunen kan pålegge voksne
-å holde seg med annet individuelt utstyr som opplæringen vanligvis gjør det nødvendig å ha. Departementet kan gi nærmere forskrifter. Det er ikke
-fastsatt regler om dette i forskrift.
-14
-
-Utdanningsdirektoratet, rundskriv Udir 2-2008 punkt 9.
-Utdanningsdirektoratet, rundskriv Udir-2-2008 punkt 9.
-16
-Utdanningsdirektoratet, rundskriv Udir 3-2012 punkt 6.
-
-589
-
-Kapittel 45
-
-Rett til realkompetansevurdering
-Det følger av opplæringsloven § 4A-3 femte avsnitt
-at voksne som har rett til videregående opplæring,
-har rett til vurdering av realkompetansen sin og til
-kompetansebevis. Videre har voksne uten rett til
-videregående opplæring, rett til realkompetansevurdering dersom de er henvist fra kommunen
-eller NAV. I forskrift til opplæringsloven §§ 6-46
-og 6-47 er det fastsatt nærmere regler om realkompetansevurdering ved inntak til videregående
-opplæring som voksen, og i § 4-13 er det fastsatt
-regler om realkompetansevurdering som sluttvurdering.
-For voksne med rett til grunnskoleopplæring
-er det ikke fastsatt i opplæringsloven at de har rett
-til realkompetansevurdering. Det følger av § 4-13
-at kommunen har ansvaret for realkompetansevurdering i grunnskolen. Bestemmelsen gjelder
-realkompetansevurdering som sluttvurdering.
-Utdanningsdirektoratet har lagt til grunn at denne
-bestemmelsen i kombinasjon med opplæringsloven § 4A-1 innebærer at kommunen skal foreta en
-realkompetansevurdering av voksne i forbindelse
-med kartleggingen av hvilken grunnskoleopplæring den voksne skal få. I rundskrivet er det også
-omtalt at realkompetansevurdering kan brukes
-som et redskap for å avgjøre hvilken opplæring
-den voksne har behov for i et fag.17
-Utdanningsdirektoratet har utarbeidet nasjonale retningslinjer for realkompetansevurdering i
-grunnskolen og i videregående opplæring.18
-Direktoratet viser til at retten til realkompetansevurdering må ses i sammenheng med den voksnes rett til rådgivning etter § 4A-8, hvor det skal
-kartlegges hvilken opplæring den voksne har
-behov for.
-Videregående opplæring for voksne uten rett
-Det følger av opplæringsloven § 13-3 tredje avsnitt
-at fylkeskommunen også skal ha et tilbud om
-videregående opplæring til voksne uten rett til slik
-opplæring. Hvilket tilbud voksne uten rett skal
-gis, er opp til fylkeskommunens vurdering.
-Dersom voksne uten rett til videregående opplæring tas inn til slik opplæring, har de rett til å
-fullføre opplæringsløpet. Dette følger av opplæringsloven § 4A-3 andre avsnitt.
-17
-
-15
-
-18
-
-Utdanningsdirektoratet, rundskriv Udir 3-2012 punkt 4.3
-og 4.4.
-Utdanningsdirektoratet, 2014i. Utdanningsdirektoratet, 2014j.
-
-[Side 592]
-
-590
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-Andre måter å oppnå studie- og yrkeskompetanse
-på enn gjennom videregående opplæring i Norge
-I dag kan voksne oppnå studie- og yrkeskompetanse på flere måter som ikke innebærer at de må
-gjennomføre videregående opplæring. For det første kan man ta fag i videregående opplæring som
-privatist. Det er fylkeskommunen som har ansvaret for å gjennomføre privatisteksamen, se kapittel
-46.5.
-Voksne som fyller 23 år eller mer det året de
-skal søke om opptak til høyere utdanning, kan få
-generell studiekompetanse på grunnlag av 23/5regelen. For å få generell studiekompetanse med
-23/5-regelen må den voksne oppfylle tre vilkår:
-(1) fylle 23 år eller mer det året vedkommende
-søker om opptak, (2) dokumentere fullført og
-bestått i alle de seks studiekompetansefagene og
-(3) dokumentere minst fem års arbeidspraksis
-eller utdanning.
-Voksne kan også oppnå yrkeskompetanse uten
-opplæring i skole og bedrift gjennom praksiskandidatordningen. Ordningen innebærer at voksne
-som kan dokumentere lang og allsidig praksis i et
-fag, kan gå opp til fag- eller svenneprøve. Praksiskandidatene må ha bestått en egen eksamen
-før de melder seg opp til fag- eller svenneprøven.
-Praksiskandidatordningen er omtalt i kapittel
-46.6.
-I opplæringsloven § 3-4 a er det etablert en
-ordning for godkjenning av utenlandsk fag- eller
-yrkesopplæring som er sidestilt med norsk fageller svennebrev eller vitnemål. Ordningen ble
-innført i 2016. Det er NOKUT som er godkjenningsmyndighet. Denne ordningen er omtalt i
-kapittel 46.7.
-Faglig innhold og vurdering
-Det følger av opplæringsloven § 4A-6 at læreplanverket gjelder «med dei tilpassingar som følgjer av
-dette kapitlet». De eneste tilpasningene som er
-fastsatt i kapittel 4A i opplæringsloven, er at den
-voksne bare skal ha den opplæringen han eller
-hun trenger. Det betyr at dersom den voksne på
-bakgrunn av realkompetansevurdering eller ut fra
-eget ønske bare skal ha opplæring i deler av et
-fag, er det bare den aktuelle delen av læreplanen
-som skal legges til grunn for opplæringen.
-I forskrift til opplæringsloven § 1-2 er det fastsatt at Læreplanverket for Kunnskapsløftet skal
-brukes for grunnskoleopplæring for voksne så
-langt det passer. Videre følger det av denne
-bestemmelsen at opplæringen skal tilpasses
-voksne og være egnet til å føre fram til vitnemål
-
-etter §§ 4-31 flg. Det følger av forskrift til opplæringsloven § 4-33 at det bare er utvalgte fag fra
-den ordinære grunnskoleopplæringen som inngår
-grunnskoleopplæring for voksne.
-Det følger av opplæringsloven § 4A-4 tredje
-avsnitt at kommunen og fylkeskommunen har
-ansvaret for at voksne får dokumentert opplæringen de har gjennomført. I bestemmelsens femte
-avsnitt er departementet gitt hjemmel til å gi nærmere forskrifter om vurdering, klage på vurdering, eksamen og dokumentasjon. Slik forskrift er
-fastsatt i kapittel 4 og 5 i forskrift til opplæringsloven.
-Krav om at opplæringen skal tilpasses den voksne
-Det følger av opplæringsloven § 4A-1 og § 4A-3 at
-grunnskoleopplæringen og den videregående
-opplæringen skal tilpasses behovet til den voksne.
-Av lovens forarbeider og Utdanningsdirektoratets
-rundskriv framgår det at tilpasningen består av
-følgende elementer: (1) faglig tilpasning ved at
-opplæringen skal bygge videre på eller komplettere den voksnes realkompetanse, (2) organiseringen skal tilpasses den voksnes livssituasjon og
-(3) opplæringen skal tilpasses ved at det skal tas
-hensyn til eventuelle individuelle behov den
-voksne har. Den første formen for tilpasning er
-omtalt over i forbindelse med retten til grunnskoleopplæring og videregående opplæring.
-At organiseringen av opplæringen skal tilpasses den voksnes behov, innebærer for det første at
-grunnopplæringen for voksne skal organiseres
-som et eget tilbud til voksne, og ikke i samme
-grupper som barn og ungdom.19 Opplæringstilbudet skal dessuten tilpasses de voksnes livssituasjon. Eksempler på tilpasninger er at undervisningens lengde og tidspunkt kan tilpasses for å gi
-voksne mulighet til å kombinere opplæringen
-med arbeid eller omsorgsoppgaver.20 Opplæringsloven inneholder heller ikke de samme begrensningene for organiseringen av opplæringen for
-voksne som for barn og unge, som krav til nærskole, regler om gruppeinndeling og gruppestørrelse mv. Kommunen står dermed friere når det
-gjelder organiseringen av opplæringen for
-voksne. Det følger av opplæringsloven § 4A-4
-andre avsnitt at kommunen kan bruke studiefor-
-
-19
-20
-
-Ot.prp. nr. 44 (1999–2000). Utdanningsdirektoratet, rundskriv Udir 2-2008 punkt 7.
-Ot.prp. nr. 44 (1999–2000). Utdanningsdirektoratet, rundskriv Udir 2-2008 punkt 9. Utdanningsdirektoratet, rundskriv Udir 3-2012 punkt 4.
-
-[Side 593]
-
-NOU 2019: 23
-Ny opplæringslov
-
-bund, godkjente nettskoler og andre for å oppfylle
-plikten til å gi opplæring til voksne.
-At opplæringen skal tilpasses, innebærer også
-at det må tas hensyn til eventuelle individuelle
-behov den enkelte voksne har. Hva slags tilpasning som er aktuell, må vurderes konkret. I forarbeidene til loven er opplæring i samisk, særskilt
-språkopplæring, tegnspråkopplæring og opplæring i punktskrift nevnt som eksempler på aktuelle
-tiltak når det gjelder grunnskoleopplæring for
-voksne.21 Forarbeidene har ikke tatt stilling til
-hvilke tilrettelegginger som er aktuelle på videregående nivå, men lovkravet om at opplæringen
-skal tilpasses den voksnes behov, gjelder også for
-videregående opplæring.
-Kunnskapsdepartementet har lagt til grunn at
-retten til tilpasset grunnskoleopplæring for
-voksne går lenger i individuell tilpasning enn retten til videregående opplæring for voksne.22
-Utdanningsdirektoratet har i en tolkning fra 2013
-lagt til grunn at voksne i videregående opplæring
-har rett til tilrettelegging, men ikke en særskilt
-rett til punkskriftsopplæring.23 I juridisk litteratur
-er det lagt til grunn at opplæringsloven § 3-9 om
-tegnspråkopplæring også gjelder for voksne som
-får opplæring etter kapittel 4A.24
-I Utdanningsdirektoratets rundskriv er det
-lagt til grunn at voksne som får grunnskoleopplæring, har rett til særskilt språkopplæring. Det er
-også lagt til grunn at voksne samer som får grunnskoleopplæring, har rett til opplæring i og på
-samisk. For begge tilfellene er det lagt til grunn at
-voksne har slike rettigheter i den grad dette er
-nødvendig for at den voksne kan få en forsvarlig
-opplæring.25
-Utdanningsdirektoratet har lagt til grunn at
-voksne i videregående opplæring bare har rett til
-den norskopplæringen som inngår i det utdanningsprogrammet de følger. I direktoratets rundskriv er det vist til at problemer med norskferdigheter for eksempel kan avhjelpes ved deltakelse på introduksjonsprogram. Det er lagt til
-grunn at det heller ikke gjelder en rett til opplæring på samisk for voksne i videregående opplæring. Det er derimot lagt til grunn at voksne samer
-har rett til opplæring i samisk, selv om opplæringsloven § 6-3 ikke gjelder for voksne.26
-21
-
-I Ot.prp. nr. 44 (1999–2000), kap. 2.1.
-Utdannings- og forskningsdepartementet, 2000.
-23
-Utdanningsdirektoratet, brev datert 21. februar 2013.
-24
-Helgeland, 2018, s. 99.
-25
-Utdanningsdirektoratet, rundskriv Udir 3-2012, punkt 4.6.
-22
-
-591
-
-Kapittel 45
-
-Som omtalt over har voksne som får grunnskoleopplæring, rett til spesialundervisning.
-Voksne som får videregående opplæring, har derimot ikke rett til spesialundervisning.
-Det følger av opplæringsloven § 4A-13 første
-avsnitt at voksne som helt eller delvis mangler
-funksjonell tale og har behov for alternativ og supplerende kommunikasjon, skal få bruke egnede
-kommunikasjonsformer og nødvendige kommunikasjonsmidler i opplæringen. Bestemmelsen er en
-presisering av at opplæringen skal tilpasses den
-voksnes behov. I § 4A-13 andre avsnitt er det fastsatt at retten til spesialundervisning for voksne
-inkluderer nødvendig opplæring i å bruke alternativ og supplerende kommunikasjon. Dette avsnittet gjelder bare for voksne som får grunnskoleopplæring, ettersom voksne som får videregående
-opplæring, ikke har rett til spesialundervisning.27
-Kompetansekrav til undervisningspersonalet
-I opplæringsloven § 4A-5 er det fastsatt at tilsettingsreglene for undervisningspersonalet gjelder
-for opplæring særlig organisert for voksne, men
-at departementet kan fastsette i forskrift at det
-likevel kan tilsettes personer som ikke oppfyller
-kompetansekravene. I forskrift til opplæringsloven § 14-1 er det fastsatt at det til opplæringen av
-voksne kan tilsettes personer uten formell pedagogisk kompetanse under forutsetning av at vedkommende har vesentlig erfaring med og er
-egnet til opplæring av voksne. Bakgrunnen for
-unntaksmuligheten var at det ved innføringen av
-bestemmelsen var mange uten formell kompetanse som hadde lang erfaring med å undervise
-voksne. Departementet mente at slik erfaring i
-mange tilfeller kunne gi fullgod kompetanse, og at
-det var viktig å beholde disse ressursene i opplæringen for voksne.28
-Det følger av opplæringsloven § 4A-5 andre
-avsnitt at kompetansekravene for undervisningspersonalet ikke gjelder for opplæring av voksne
-med særlige behov for å kunne utvikle eller vedlikeholde grunnleggende ferdigheter. Opplæringen
-skal etter loven likevel skje under faglig og pedagogisk veiledning og ansvar.
-Kravene om å ha relevant kompetanse i undervisningsfaget i opplæringsloven § 10-2 gjelder
-ikke ved opplæring særlig organisert for voksne.
-26
-27
-28
-
-Utdanningsdirektoratet, rundskriv Udir 2-2008, punkt 12
-og 13.
-Prop. 84 L (2011–2012), kap. 9.1 og merknad til § 4A-13.
-Ot.prp. nr. 44 (1999–2000), kap. 2.4.4.
-
-[Side 594]
-
-592
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-Krav til læringsmiljø, regler om bortvisning og
-forbud mot ansiktsdekkende plagg
-Opplæringsloven kapittel 9 A om skolemiljø gjelder ikke for voksne. I rundskriv fra Utdanningsdirektoratet29 er det presisert at kommunen likevel
-har et ansvar for de voksnes fysiske og psykososiale miljø, blant annet med henvisning til opplæringslovens formålsparagraf og diskrimineringsog tilgjengelighetsloven.30
-Det følger av § 4A-4 fjerde avsnitt at kommunen skal legge til rette for at voksne som får
-grunnskoleopplæring eller videregående opplæring, får mulighet til å ta aktivt del i arbeidet med å
-fremme et godt læringsmiljø og utdanningstilbud.
-I rundskriv fra Utdanningsdirektoratet er det lagt
-til grunn at det må være et generelt krav om at
-lokalene som brukes til opplæring av voksne, må
-være egnet til formålet.31
-I opplæringsloven § 4A-9 første avsnitt er det
-fastsatt at voksne deltakere kan bortvises fra
-resten av det kurset de er tatt inn på, dersom deltakeren har hatt enn oppførsel som i alvorlig grad
-går ut over orden og arbeidsro på skolen eller deltakeren har forsømt pliktene sine. I forbindelse
-med et vedtak om bortvisning, kan fylkeskommunen vedta at den voksne skal miste retten til videregående opplæring.
-Forbudet mot ansiktsdekkende plagg i opplæringsloven § 9-7, gjelder også for grunnopplæring
-særskilt organisert for voksne. Dette forbudet er
-omtalt i kapittel 37.5.
-Voksne som får videregående opplæring, har
-ikke rett til rådgivning etter opplæringsloven. I
-rundskriv har Utdanningsdirektoratet presisert at
-de imidlertid har rett til veiledning fra fylkeskommunen etter den generelle veiledningsplikten i
-forvaltningsloven.32
-Skyss, losji, reisefølge og tilsyn
-Opplæringsloven § 4A-7 inneholder regler om
-skyss, losji, reisefølge og tilsyn for voksne som får
-grunnskoleopplæring. Voksne som ikke har fullført grunnskoleopplæring og som får slik opplæring etter kapittel 4A, har rett til gratis skyss når
-de bor mer enn fire kilometer fra skolen. Voksne
-som på grunn av funksjonsnedsettelse, sykdom
-eller skade har behov for skyss, har rett til gratis
-29
-
-Utdanningsdirektoratet, rundskriv Udir 3-2012, punkt 3.4.
-Denne loven er nå erstattet av likestillings- og diskrimineringsloven.
-31
-Utdanningsdirektoratet, rundskriv Udir-3-2012, punkt 3.2.
-32
-Utdanningsdirektoratet, rundskriv Udir 2-2008, punkt 15.
-30
-
-skyss uavhengig av reiselengden. Bestemmelsen
-om reisefølge og tilsyn i opplæringsloven § 7-4
-gjelder tilsvarende for voksne.
-Når daglig skyss ikke er forsvarlig, skal kommunen innlosjere den voksne. Når det er nødvendig, gjelder § 7-1 fjerde avsnitt om tilsyn tilsvarende. Ansvarsbestemmelsen om tilsyn i § 13-4
-gjelder også tilsvarende for de pliktene som følger
-av § 4A-7.
-Voksne som får videregående opplæring, har
-ikke rett til skyss eller innlosjering. Voksne som
-tas inn i ordinære videregående skoler for ungdom, har likevel de samme rettighetene som ungdom i videregående opplæring, inkludert rett til
-skyss mv.
-
-45.3 Kunnskapsgrunnlaget
-45.3.1 Historikk
-Allerede i 1976 kom loven om voksenopplæring,
-som skulle gi voksne muligheter til å utvikle og
-oppdatere kompetansen sin. Over tid har voksne
-fått bedre muligheter til opplæring.
-Rett til grunnskoleopplæring for voksne ble
-innført fra august 2002 for å gi ny mulighet til
-voksne som ikke har fullført obligatorisk skolegang, som ikke har fått forsvarlig og tilstrekkelig
-grunnskoleopplæring, eller som av andre grunner
-har behov for slik opplæring.
-Rett til videregående opplæring for voksne ble
-innført fra august 2000 for å gi mulighet for flere
-voksne uten videregående opplæring til å skaffe
-seg slik opplæring. Fram til august 2008 gjaldt retten til videregående opplæring bare for dem som
-var født før 1978. I 2008 ble retten utvidet til å
-gjelde voksne fra og med det året de fyller 25 år. I
-august 2017 ble det innført rett til videregående
-opplæring for dem som har fullført videregående
-opplæring i et annet land, men som ikke får opplæringen godkjent som studiekompetanse eller
-yrkeskompetanse i Norge.
-
-45.3.2 Rapporter og undersøkelser
-Antallet voksne elever i grunnskoleopplæringen
-I 2002, da retten til grunnskoleopplæring for
-voksne ble innført, var det 3 686 deltakere i ordinær grunnskoleopplæring for voksne, som omfatter deltakerne som ikke hadde vedtak om spesialundervisning. I perioden fra 2003 til 2010 var det
-årlig rundt 4 000 voksne som fikk slik opplæring.
-Fra skoleåret 2009–2010 til skoleåret 2018–2019
-har antallet deltakere i ordinær grunnskoleopplæ-
-
-[Side 595]
-
-NOU 2019: 23
-Ny opplæringslov
-
-ring økt fra 4 100 til 10 260 deltakere. Økningen
-skyldes at det har blitt langt flere minoritetsspråklige deltakere. Andelen minoritetsspråklige var
-om lag tre av fire i skoleåret 2008–2009, mens det
-i skoleåret 2018–2019 nær sagt bare er minoritetsspråklige i grunnskoleopplæringen for voksne.
-Hovedvekten av grunnskoleopplæringen for
-voksne foregår på et voksenopplæringssenter.33
-Når det gjelder antallet deltakere med vedtak
-om spesialundervisningen, er det en avtakende
-tendens. I skoleåret 2018–2019 var det om lag 3
-300 deltakere i spesialundervisningen, og det er
-over 2 000 færre enn det var i 2008–2009, og over
-3 500 færre enn i 2002–2003. Antallet årstimer
-med spesialundervisning har hatt en tilsvarende
-nedgang. Andelen minoritetsspråklige er økende
-også blant de voksne som mottar spesialundervisning, men i mindre grad enn blant de voksne som
-får ordinær grunnskoleopplæring.34
-En ekspertgruppe for spesialpedagogikk
-mener at den markante reduksjonen både i antallet timer og i personer som får spesialundervisning, kan indikere at mange voksne i dag ikke får
-oppfylt rettighetene de har etter § 4A-2. En årsak
-kan ifølge ekspertgruppen være manglende kunnskap om regelverket kombinert med mangel på
-spesialpedagogisk kompetanse tilpasset voksne i
-kommunene.35
-Antallet voksne elever i videregående opplæring
-mv.
-Det er i dag om lag 500 000 personer i aldersgruppen mellom 25 og 60 år som ikke har vitnemål,
-fagbrev eller svennebrev fra videregående opplæring. Innvandrere utgjør nå en betraktelig større
-andel av befolkningen som er uten videregående
-opplæring, enn tilfellet var på 1990-tallet. Med innvandrere menes her personer som er født i utlandet av to utenlandske foreldre. Mens innvandrere
-sto for 4 prosent av voksenbefolkningen uten videregående opplæring i 1990, utgjorde denne gruppen 29 prosent i 2017.36
-I løpet av året 2018–2019 var det nærmere 16
-100 voksne deltakere i videregående skoler eller
-på voksenopplæringssentre. Dette var en økning i
-antallet deltakere på nesten 2 200 personer fra
-året før. Veksten i antallet deltakere er størst for
-helse- og oppvekstfag og studieforberedende
-
-utdanningsprogrammer, mens den prosentvise
-økningen er størst for teknikk og industriell produksjon og restaurant- og matfag. 80 prosent av
-deltakerne deltar i opplæring spesielt organisert
-for voksne.37
-Det publiseres ikke nasjonal statistikk som
-viser hvor mange som søker fylkeskommunene
-om å få ta videregående opplæring som voksen.
-En spørreundersøkelse hos fylkeskommunen
-viser at det i perioden 30. september 2017 til 1.
-oktober 2018 var 22 500 voksne som søkte videregående opplæring. De innrapporterte tallene viser
-at 70 prosent av de voksne søkerne har rett til
-videregående opplæring etter opplæringsloven,
-mens 30 prosent av søkerne ikke har en slik rett.
-Andelen søkere uten rett varierer betydelig mellom fylkeskommunene. Bare én fylkeskommune
-oppgir at de ikke har søkere uten rett, og én
-annen fylkeskommune oppgir at 62 prosent av
-søkerne var uten rett til videregående opplæring.
-Svarene fra fylkeskommunene viser at 86 prosent
-av de voksne som fikk tilbud om videregående
-opplæring, hadde rett etter opplæringsloven, og at
-14 prosent ikke hadde en slik rett.38
-I skoleåret 2016–2017 ble det gjennomført
-realkompetansevurdering av 2 prosent av de
-voksne deltakerne i grunnskolen. I 2016 ble det
-gjennomført realkompetansevurdering av 3 085
-voksne i videregående opplæring. Dette utgjorde
-om lag 10 prosent av deltakerne i videregående
-opplæring. Prosentandelen var relativt lik årene
-før.39
-Stortingsmelding om utenforskap
-I Meld. St. 16 (2015–2016) Fra utenforskap til ny
-sjanse – Samordnet innsats for voksnes læring var
-det flere forslag for å forbedre grunnopplæringen
-for voksne. Ett av forslagene var å sette i gang forsøk med modulstrukturert opplæring på nivået
-under videregående opplæring og i utvalgte lærefag innenfor yrkesfaglige utdanningsprogram. I
-2016 ga Kunnskapsdepartementet i oppdrag til
-Utdanningsdirektoratet og Kompetanse Norge å
-gjennomføre slike forsøk. Forsøket var fastsatt til
-å gå over tre år. Modulforsøkene for opplæring av
-voksne på videregående nivå har senere blitt utvidet. Modulene skal kunne brukes på tvers av fag,
-og skal være et virkemiddel for å sikre et tverrsek-
-
-33
-
-37
-
-34
-
-38
-
-Kompetanse Norge, Statistikkbanken.
-Utdanningsdirektoratet, Grunnskolens Informasjonssystem
-(GSI).
-35
-Rognhaug et al., 2014.
-36
-Statistisk sentralbyrå, 2018e.
-
-593
-
-Kapittel 45
-
-39
-
-Utdanningsdirektoratet, 2019t.
-NOU 2018: 15, kap. 9.8.1.
-Kompetanse Norge, Statistikkbanken. Totalantallet deltagere er oppgitt i kalenderår, mens antall realkompetansevurderinger er oppgitt i skoleår.
-
-[Side 596]
-
-594
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-torielt samarbeid, et godt samarbeid med lokalt
-arbeidsliv og bidra til en mer effektiv opplæring
-for voksne. Modulstrukturert opplæring skal også
-gjøre det enklere å kombinere grunnskoleopplæring, videregående opplæring, introduksjonsprogrammet og arbeidsrettede tiltak i NAV.40
-I stortingsmeldingen gikk regjeringen inn for
-å oppheve unntaksbestemmelsen i forskrift til
-opplæringsloven som åpner for at det kan ansettes
-lærere uten formell pedagogisk kompetanse til
-opplæring av voksne. Stortingsmeldingen inneholdt også forslag om flere lovendringer, som nå
-er gjennomført. Dette gjelder for eksempel utvidelse av ungdomsretten til videregående opplæring for å få en direkte overgang til voksenretten,
-innføring av rett til videregående opplæring for
-voksne som har gjennomført videregående opplæring i utlandet og som ikke får denne godkjent i
-Norge, etablering av en ordning med fagbrev på
-jobb som en alternativ vei til fag- og svennebrev
-og etablering en nasjonal godkjenningsordning
-for utenlandsk fagopplæring.
-NOU om finansiering av livsopphold
-I NOU 2018: 13 Voksne i grunnskole- og videregående opplæring – Finansiering av livsopphold viser
-Livsoppholdsutvalget til at nesten 600 000 voksne i
-alderen 25–66 år mangler fullført videregående
-opplæring, og at det årlig er nesten 15 000 personer som runder 25 år uten yrkes- eller studiekompetanse. Videre peker utvalget på at en stadig
-økende andel av personer uten videregående opplæring er uten lønnet arbeid, og at det over tid har
-blitt flere uføretrygdede. Utvalget peker på at den
-generelle samfunnsutviklingen med økt digitalisering og mer omfattende krav til formell utdanning
-tilsier at sammenhengen mellom utdanning og
-sysselsetting vil bli sterkere i årene som kommer.
-Livsoppholdsutvalget mener at dagens grunnopplæringstilbud for voksne framstår som mangelfullt og for lite fleksibelt. Utvalget viser til at
-manglende tilbud i nærområdet og mangel på
-læreplasser for voksne kan være en utfordring.
-Spesielt utfordrende har det ifølge utvalget vært å
-få tatt grunnopplæring som en del av introduksjonsordningen, men utvalget viser til at det her
-har skjedd en oppmyking av regelverket. Livsoppholdsutvalget har fått kartlagt kommunenes og
-fylkeskommunenes samlede kostnader knyttet til
-opplæringstilbud for voksne.
-40
-
-Kunnskapsdepartementet, Oppdragsbrev 12-16. Kunnskapsdepartementet, Oppdragsbrev 02-19. Kunnskapsdepartementet, brev datert juni 2006.
-
-NOU om kunnskapsgrunnlag om struktur og
-innhold i videregående opplæring
-I NOU 2018: 15 Kvalifisert, forberedt og motivert –
-Et kunnskapsgrunnlag om struktur og innhold i
-videregående opplæring (Liedutvalget) omtales
-styrker og svakheter med den videregående opplæringen for voksne. Blant styrkene som Liedutvalget trekker fram, er voksnes rett til å fullføre
-det løpet som de har begynt, at retten er knyttet til
-sluttkompetanse, at tilbudet skal baseres på en
-realkompetansevurdering, og at det stilles de
-samme kravene til fagprøver og eksamener til
-voksne som til ungdom. Blant svakhetene som
-utvalget trekker fram, er at deltakere i videregående opplæring særskilt organisert for voksne
-ikke har rett til rådgivning og spesialundervisning. Utvalget viser til at det varierer om det informeres tilstrekkelig om den retten voksne har til
-opplæring, og at fullført videregående opplæring i
-tillegg er et uklart begrep, noe som kan gjøre det
-vanskelig å vurdere hva den voksne faktisk har
-rett til.
-Innføringen av voksnes rett til videregående
-opplæring fra 2000 har ikke ført til den økte etterspørselen etter opplæring som man forventet da
-den ble innført. Liedutvalget mener dette kan forklares både med at det er vanskelig for den
-enkelte å finne fram til hvilke rettigheter man har
-som voksen, og med at tilbudet i for liten grad tar
-hensyn til den voksnes livssituasjon og behov. En
-annen utfordring utvalget peker på, er at det ikke
-finnes et nasjonalt system som sikrer god nok
-norskopplæring slik at den voksne er i stand til å
-gjennomføre videregående opplæring. Utvalget
-viser i denne sammenheng til økende innvandring
-og at innvandrere med svake norskferdigheter
-utgjør en del av dem som tar videregående opplæring som voksne.
-Liedutvalget peker også på at man i dag har et
-stadig større behov for å fornye, oppdatere og
-utvide sin kompetanse som voksen i arbeidslivet.
-Utvalget mener at rettighetene voksne har, ikke
-fanger opp at behovet for kompetanse er annerledes nå enn den gangen rettighetene ble utviklet.
-Tilsyn med reglene om grunnopplæring for voksne
-I 2018 ble det gjennomført 13 tilsyn med voksnes
-rett til grunnskoleopplæring og videregående
-opplæring. Det ble funnet regelbrudd i alle tilsynene. Fylkesmannens tilsyn avdekket at flere
-kommuner ikke gir nødvendig veiledning eller
-vurderer om søker har rett til grunnskoleopplæring for voksne. Videre var det et funn at mange
+## Skolefritidsordning
+
+### Dagens regler
+
+Opplæringsloven
+
+I opplæringsloven § 13-7 er det regler om skolefritidsordning (SFO). Bestemmelsen er slik:
+
+Kommunen skal ha eit tilbod om skolefritidsordning før og etter skoletid for 1.–4. årstrinn, og for barn med særskilte behov på 1.–7. årstrinn.
+
+Skolefritidsordninga skal leggje til rette for leik, kultur- og fritidsaktivitetar med utgangspunkt i alder, funksjonsnivå og interesser hos barna. Skolefritidsordninga skal gi barna omsorg og tilsyn. Funksjonshemma barn skal givast gode utviklingsvilkår. Areala, både ute og inne, skal vere eigna for formålet.
+
+Skolefritidsordninga skal ha vedtekter om
+
+a\. eigarforhold
+
+b\. kven som er opptaksmyndigheit
+
+c\. opptakskriterium
+
+d\. opptaksperiode og oppseiing av skolefritidsplassen
+
+e\. foreldrebetaling​
+
+f\. leike- og opphaldsareal
+
+g\. dagleg opphaldstid og årleg opningstid
+
+h\. bemanning og leiing
+
+Når skolefritidsordninga er knytt til skolar, skal rektor​ til vanleg vere leiar. Departementet kan gjere unntak frå kravet.
+
+Kommunen kan krevje utgiftene til skolefritidsordninga dekte gjennom eigenbetaling frå foreldra.
+
+For krav om politiattest gjeld reglane i § 10-9.
+
+Kommunen kan nytte andre til å oppfylle plikta til å ha eit tilbod om skolefritidsordning, dersom dei elles oppfyller vilkåra i denne paragrafen. Kommunen fører tilsyn med private skolefritidsordningar.
+
+Departementet kan gi nærmare forskrifter om skolefritidsordninga.
+
+Det er ikke gitt forskrifter om SFO etter opplæringsloven § 13-7 siste avsnitt.
+
+SFO er ikke en del av grunnskoleopplæringen og skal være et frivillig tilbud. Følgende av opplæringslovens regler gjelder for skolefritidsordningen: kapittel 9 A om elevenes skolemiljø, § 10-9 om politiattest, § 9-7 om forbud mot ansiktsdekkende plagg og § 13-5 om plikt til å samarbeide med barnehagen om overgangen til skolen. Enkelte av reglene om skyss gjelder også for elever i skolefritidsordningen.
+
+Kommunens plikt til å ha SFO er begrenset til skoleåret. Det er ingen plikt for kommunene til å ha en slik ordning i skoleferiene. Det er ikke krav om at det skal være en skolefritidsordning på hver skole. Opplæringsloven gir ikke elevene rett til plass i SFO. Det er ikke noe krav om antall plasser.[^1227] Kommunen kan velge å benytte andre til å oppfylle plikten til å gi tilbud om SFO. Kommunen skal føre tilsyn med private skolefritidsordninger.
+
+I opplæringsloven § 13-7 femte avsnitt er det fastsatt at kommunen kan kreve utgiftene til SFO dekket gjennom foreldrebetaling.
+
+Utdanningsdirektoratet har laget en nettressurs om kvalitetsutvikling i skolefritidsordningen. Nettressursen inneholder blant annet en beskrivelse av faktorer for kvalitetsutvikling i SFO, en veiledning for å lage kommunale planer for kvalitetsutvikling og flere eksempler fra kommuner og skoler.[^1228]
+
+Andre lover
+
+I kommuneloven § 15-1 er det fastsatt regler for beregning av selvkost. Reglene kommer til anvendelse i tilfeller hvor det i en særlov er fastsatt at betalingen fra brukere ikke skal overstige kostnadene ved tjenesten. Hensikten med kommuneloven § 15-1 er å regulere metoden for hvordan samlet selvkost skal beregnes. Reglene vil ikke sikre at gebyrene i den enkelte sak er fastsatt slik at det er rimelig samsvar mellom gebyret og kostnadene ved å yte tjenesten til den enkelte bruker. Dersom det skal stilles nærmere krav om dokumentasjon eller gebyrutmåling i den enkelte sak, om fordelingen av samlet selvkost mellom de ulike brukerne eller lignende, må dette gjøres i den enkelte særlov.
+
+Det følger av kommuneloven § 5-4 at kommunestyret kan delegere myndighet til å treffe vedtak til andre rettssubjekter i saker som gjelder lovpålagte oppgaver, så langt lovgivningen åpner for det. For andre saker kan kommunestyret delegere myndighet til å treffe vedtak til andre rettssubjekter hvis saken ikke har prinsipiell betydning. Begrensningen i § 5-4 gjelder myndigheten til å treffe vedtak og er ikke til hinder for at kommunen benytter private til å utføre oppgaver.[^1229]
+
+I kommuneloven § 25-1 er det krav om at kommuner skal ha internkontroll for å sikre at lover og forskrifter følges. Internkontrollen skal være systematisk og tilpasses virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Internkontrollansvaret gjelder ikke for aktiviteter som utføres av private aktører. I kommunens plikt til å ha internkontroll ligger det imidlertid en plikt til å følge opp private aktører som har som oppdrag å utføre oppgaver som er pålagt kommunene i lov. For slike oppgaver vil kommunen alltid ha ansvaret for at innbyggerne får de tjenestene de har krav på, uansett om kommunen utfører oppgaven selv eller gjennom private. Kommunen kan sette bort utføringen av oppgaven, men ikke ansvaret for den. Kommunen må dermed finne en måte å sikre og følge med på at innbyggerne får det de har krav på. Dette kan gjøres på ulike måter. Det kan for eksempel inngå visse rutiner for oppfølging i avtalen kommunen har med en privat aktør. Uansett vil det måtte inngå i kommunens internkontroll, etter ordinær risikovurdering, å ha rutiner, prosedyrer også videre for å sikre kommunens kontroll med at innbyggerne får det de har krav på, selv om en privat aktører utfører oppgaven.[^1230]
+
+### Kunnskapsgrunnlaget
+
+Historikk
+
+Fra 1950 til 1980-tallet var det såkalte fritidshjem i Norge. Mot slutten av 1980-årene ble disse erstattet av skolefritidsordninger. Det ble opprettet en statlig tilskuddsordning i 1991 og lovregler om skolefritidsordningen ble innført med opplæringsloven av 1998. Kommunene fikk statlig tilskudd til drift av skolefritidsordninger fram til 2003 da tilskuddet ble innlemmet i rammetilskuddet til kommunen. Tilskuddet dekket ikke alle utgiftene med skolefritidsordningen, og opplæringsloven har hele tiden åpnet for foreldrebetaling for å dekke de resterende utgiftene.
+
+De siste årene har det vært flere anmodningsvedtak og representantforslag om SFO. Disse har blant annet handlet om behov for nasjonal evaluering av SFO og lovfesting av rett til plass i SFO.
+
+I budsjettforslaget for 2019 har regjeringen foreslått å bevilge 58,2 millioner kroner for å innføre inntektsgradert foreldrebetaling i SFO fra høsten 2020. Bevilgingen skal sikre at foreldrebetalingen for et heltidstilbud i SFO på 1.–2. trinn maksimalt skal utgjøre 6 prosent av den samlede person- og kapitalinntekten til husholdningen. Regjeringen foreslår også å bevilge 21 millioner kroner til gratis SFO for elever på 5.–7. trinn med særskilte behov fra høsten 2020.[^1231]
+
+Rapporter og undersøkelser
+
+Deltakelse i skolefritidsordninger
+
+Skoleåret 2018–2019 gikk om lag 61 prosent av elevene på 1.–4. trinn i SFO.[^1232]
+
+Det er store forskjeller på hva foreldrene må betale for skolefritidsordningen rundt om i landet. Den månedlige foreldrebetalingen uten moderasjon eller tillegg for mat er i gjennomsnitt 2 470 kroner for en elev som er 20 uketimer i SFO.[^1233] Informasjon som SSB har innhentet, viser at den gjennomsnittlige månedsprisen for en fulltidsplass i SFO økte med 16 prosent fra 2009 til 2013. Fra 2013 til januar 2017 var økningen på 14,6 prosent.[^1234]
+
+Forsøk og evalueringer
+
+NTNU Samfunnsforskning har i 2018 evaluert skolefritidsordningen på oppdrag fra Utdanningsdirektoratet.[^1235] Et hovedfunn i evalueringen er at manglende føringer fra sentralt hold gjør at det er store variasjoner i SFO-tilbudene. Innholdet i og organiseringen av SFO varierer fra kommune til kommune, fra SFO til SFO og fra trinn til trinn. Enkelte steder har man klare pedagogiske planer for SFO og fyller ordningen med godt innhold for barna, mens andre steder er SFO mer preget av å være en oppbevaringsplass for barna, der de får tilsyn. Hvilke aktiviteter som tilbys, varierer i svært stor grad. Evalueringen viser at de fleste foreldrene mener at barnet deres trives i SFO, men foreldre til barn med særskilte behov vurderer SFO mer negativt enn andre foreldre. Andelen SFO-ansatte med fagbrev som barne- og ungdomsarbeider, har økt kraftig fra 2002 (fra litt over 15 prosent til 27 prosent). Evalueringen viser også at det er store forskjeller i hvor mye foreldrene betaler for SFO-plass.
+
+I budsjettforliket for statsbudsjettet for 2017 ble det bevilget 20 millioner kroner til forsøk med gratis barnehage og SFO med helårseffekten 23,75 millioner kroner i 2018. Kunnskapsdepartementet har gitt Utdanningsdirektoratet i oppdrag å lyse ut og gjennomføre forsøket med start fra skoleåret 2018–2019.
+
+Innspill til utvalget
+
+Referansegruppen
+
+Foreldreutvalget for grunnopplæringen (FUG) ønsker at det utarbeides en ny lovregulering som sikrer at SFO-tilbudet har en minstestandard når det gjelder areal, bemanning, åpningstider, betaling og innhold. FUG sitt inntrykk at det er stor ulikhet når det gjelder kvaliteten på tilbudet, og mener det er behov for tydeligere signaler om en standard.[^1236]
+
+KS har gitt innspill om at kravet om at SFO til vanlig skal ledes av en rektor når den er i tilknytning til en skole, bør strykes. KS viser til veilederen om statlig styring av kommuner og fylkeskommuner[^1237], som sier at det ikke bør stilles krav til funksjoner. KS har også spurt om bruken av begrepet «vedtekter» i stedet for «forskrift» er bevisst.[^1238]
+
+Skolenes landsforbund har gitt innspill om at de aller fleste skolefritidsordninger har en egen SFO-leder, og at de ønsker en lovfesting av at SFO skal ha en egen leder i tillegg til rektor, og at SFO-lederen skal ha pedagogisk utdanning.[^1239]
+
+Andre
+
+Friskolenes Kontaktforum har gitt innspill om at SFO for barn i friskoler er et lovtomt område. Ifølge kontaktforumet er det mange som tror at § 13-7 også gjelder friskolers SFO. Friskoleorganisasjonene mener at de friskolene som driver SFO, bør få støtte på linje med kommunal SFO, og at dette bør reguleres i friskolelova. Eventuelt at det også tas inn i § 13-7 at kommunen som forvaltningsorgan har plikt til økonomisk likebehandling av kommunale og friskolers SFO-plasser.
+
+### Utvalgets vurdering
+
+Behovet for nasjonale regler
+
+Skolefritidsordninger (SFO) er ikke en del av grunnopplæringen, og det er i dag ikke krav om skolefritidsplass til alle elever. Kommunen har stor frihet med hensyn til utformingen og omfanget av skolefritidsordninger. Når reglene er så pass lite forpliktende, kan det settes spørsmålstegn ved om det i det hele tatt er nødvendig med et rettslig krav om skolefritidsordninger.
+
+Kommunen kan ha økonomiske grunner til å ha SFO da dette vil legge til rette for at foreldrene i kommunen kan arbeide og dermed bidra til skatteinntekter for kommunen. Krav fra foreldre og lokaldemokratiet vil trolig gjøre at skolefritidsordningene ikke uten videre ville bli lagt ned selv om det nasjonale kravet om SFO ble fjernet. På den annen side er det i dag etablert SFO i hele landet, og det er derfor lite inngripende å videreføre kravet.
+
+Utvalget foreslår å videreføre kravet til kommunene om å ha SFO-tilbud.
+
+Utvalget mener det ligger utenfor mandatet til utvalget å foreslå regler om SFO i friskolelova, jf. innspillet fra Friskolenes Kontaktforum som er omtalt i kapittel 42.2.2.
+
+Om det bør innføres rett til SFO
+
+Ett spørsmål er om det skal innføres en rett til SFO, eventuelt om kommunen skal få plikt til å tilby plass til alle elevene på 1.–4. trinn og til barn med særskilte behov på 1.–7. trinn. Et argument for å innføre en rett til SFO er at det i praksis ikke vil medføre store endringer fra dagens praksis. Etter hva utvalget er kjent med, tilbyr de fleste kommuner plass i SFO til alle som ønsker det.
+
+En fordel med en rettighet vil være at elevene ikke kan miste plassen på grunn av manglende betaling. I den grad dette forekommer ofte i dag, vil i så fall innføring av en rettighet innebære økte kostnader. Dersom det samtidig skal innføres krav om at det må være et SFO-tilbud på hver skole, vil det innebære en ytterligere økning i kostnadene. Økte kostnader for SFO vil kunne gi økt foreldrebetaling dersom det fortsatt skal være et selvkostprinsipp for dekning av utgifter til SFO.
+
+SFO er ikke en del av opplæringen, og det er i liten grad regulert hva innholdet i SFO skal være. En rett til SFO-plass vil dermed ikke være avgjørende for å oppnå formålet med opplæringen, oppnå likhet uavhengig av bosted eller ivareta særlige behov. Utvalget er heller ikke kjent med at det er barn og unge som i dag ikke får tilbud om SFO-plass. Etter utvalgets vurdering er det ikke nødvendig med en individuell rett til SFO. Se mer om prinsipper for bruk av individuelle rettigheter i kapittel 12.3.
+
+Se mer om forholdet mellom en eventuell rett til SFO og kravene til SFO nedenfor.
+
+Moderasjonsordninger for foreldrebetaling
+
+Et spørsmål som har vært drøftet politisk den senere tiden, er om det bør innføres moderasjonsordninger for foreldrebetaling av SFO. Det står i mandatet til utvalget at utvalgets forslag ikke skal medføre vesentlige kostnader. Ettersom moderasjonsordninger for foreldrebetaling av SFO vil medføre vesentlige kostnader, har ikke utvalget utredet dette.
+
+Det vises for øvrig til at regjeringen har foreslått at det skal innføres inntektsgradert foreldrebetaling i SFO fra høsten 2020 (omtalt i kapittel 42.2.2).
+
+Selvkostprinsippet som begrensning for foreldrebetaling
+
+I dag er det fastsatt i loven at kommunen kan kreve utgiftene til skolefritidsordningen dekket gjennom egenbetaling fra foreldrene. Bestemmelsen innebærer at kommunen ikke kan ta mer betalt av foreldrene enn hva det koster å ha et skolefritidstilbud. Det er ikke klart om loven sikter til et selvkostprinsipp på individnivå eller på virksomhetsnivå. I forarbeidene til loven er det i begrunnelsen for å bare ha en regel om selvkost, og ikke innføre en maksimalpris, vist til at det kan være flere grunner til at det er ulik foreldrebetaling mellom kommuner, blant annet at noen kommuner tilbyr friplasser og søskenmoderasjon.[^1240] Denne argumentasjonen kan tyde på at regelen om selvkost er ment å være på virksomhetsnivå, slik at kommunen kan ha en høyere ordinær pris enn kostnadene for én plass for å finansiere redusert pris for noen.
+
+Utvalget foreslår å videreføre at kommunene kan kreve kostnaden til SFO dekket gjennom foreldrebetaling. Utvalget bruker uttrykket kostnader i stedet for utgifter i samsvar med kommunelovens regler om selvkost. Utvalget legger til grunn at det skal være et selvkostprinsipp på virksomhetsnivå. Kommunen kan dermed ikke ha totale inntekter gjennom foreldrebetalingen som overstiger kommunens totale kostnader for SFO-tilbudet. Det er ikke et krav om at foreldrebetalingen for den enkelte plass ikke kan overstige kostnaden for den aktuelle plassen. Kommunen kan dermed ha en ordinærpris som overstiger gjennomsnittskostnaden for en plass, for å kunne gi redusert pris til for eksempel søsken eller familier med lav inntekt.
+
+Hvordan selvkost skal beregnes, er fastsatt i kommuneloven § 15-1. Denne bestemmelsen vil gjelde for beregning av selvkost for SFO.
+
+Krav til SFO-tilbudet
+
+Utvalget foreslår i hovedsak å videreføre dagens regler om SFO (se omtale av regler som ikke videreføres, nedenfor). Utvalget foreslår at det gjøres enkelte språklige endringer og presiseringer.
+
+Utvalget har vurdert om det bør innføres ytterligere krav til SFO som krav til bemanning, åpningstid mv., jf. innspillet fra FUG.
+
+Utvalget mener prinsipielt at det ikke bør innføres detaljerte krav til kommunens virksomhet med mindre det er gode grunner til det. Se mer om utvalgets vurderinger om når det bør brukes nasjonale regler, i kapittel 12.2.
+
+Et argument for å innføre ytterligere krav er blant annet at undersøkelser viser at det er stor variasjon i SFO-tilbudene (se kapittel 42.2.2). Etter utvalgets vurdering er det lite hensiktsmessig å ha detaljerte regler om SFO dersom det fortsatt skal være opp til den enkelte kommune å avgjøre hvilket omfang et SFO-tilbud skal ha. Dersom man innfører strenge regler til SFO-tilbudet, uten samtidig å innføre en rett til SFO-plass, kan det være en risiko for at dette fører til at kommunene bygger ned SFO-tilbudet fordi det blir for kostbart å ha et tilbud i samsvar med loven til alle barn på de laveste trinnene. Dersom det innføres detaljerte regler, som for eksempel krav til bemanning og pedagogisk innhold, uten at SFO samtidig gjøres til en del av den obligatoriske opplæringen, kan dette dessuten føre til store forskjeller.
+
+Utvalget mener det kan ha utilsiktede konsekvenser å stramme inn reglene om SFO når dette er et tilbud utenfor skolen, som barna verken har rett eller plikt til å delta i. Dersom reglene skal strammes inn, bør det heller gjøres en helhetlig vurdering av hva SFO skal være, og av om dagens SFO skal erstattes av en heldagsskole.
+
+Utvalget har ikke vurdert om heldagsskole er hensiktsmessig, da dette vil kreve en egen utredning. Utvalgets poeng er at en mellomløsning, med detaljerte krav til et frivillig tilbud, er en lite hensiktsmessig måte å styre kommunene på.
+
+For å oppnå større likhet mellom skolefritidstilbudene bør man vurdere andre virkemidler, som for eksempel veiledninger med gode eksempler.
+
+Krav til daglig leder
+
+I dag er det krav om at rektor skal være daglig leder for SFO dersom ordningen ligger i tilknytning til en skole. KS har gitt innspill om at dette kravet ikke bør videreføres i ny lov med henvisning til at det ikke bør stilles funksjonskrav. Skolenes landsforbund ønsker derimot en lovfesting av at SFO skal ha en egen leder i tillegg til rektor, og at SFO-lederen skal ha pedagogisk utdanning.
+
+Etter utvalgets vurdering er det ikke nødvendig å kreve at rektor skal være daglig leder av SFO så lenge kravet uansett ikke gjelder når SFO ikke ligger i tilknytning til skolen. En mulighet kan være å ha en regulering lignende den i Danmark,[^1241] som innebærer at en eventuell daglig leder i SFO skal være underlagt rektor ved skolen. Hensikten vil i så fall være å sikre at hensynet til formålene i skolen skal være avgjørende ved en eventuell motstrid med andre hensyn for SFO. Etter utvalgets vurdering er det ikke nødvendig med en slik regulering, da kommunene må kunne forventes å ha en lederstruktur som gjør dem i stand til å løse de oppgavene de er satt til å forvalte.
+
+Etter utvalgets vurdering bør det heller ikke innføres krav om en egen daglig leder med pedagogisk utdanning i SFO. Så lenge SFO ikke er en del av opplæringen og det heller ikke stilles krav til innholdet i SFO, er det ingen tungtveiende grunner som kan forsvare en så sterk inngripen i kommunens handlingsrom som slike funksjons- og kompetansekrav innebærer.
+
+Krav til at arealene skal være egnet for formålet
+
+I dagens § 13-7 er det krav om at arealene, både ute og inne, skal være egnet til formålet. Utvalget foreslår ikke å videreføre kravet om «tenlege grunnskolar» i dagens § 9-5 for ordinære grunnskoler. Begrunnelsen er at egnede skolelokaler er en forutsetning for å kunne oppfylle en rekke av elevenes rettigheter, blant annet at det fysiske miljøet skal fremme elevenes helse, trivsel og læring (se kapittel 43.6). Forskrift om miljørettet helsevern i barnehager og skoler gjelder også for skolefritidsordninger når de drives som en integrert del av skolevirksomheten.[^1242] Kravene til skolemiljø i opplæringsloven gjelder for skolefritidsordninger uavhengig av hvordan de er organisert eller hvor de er lokalisert. Utvalget mener derfor at kravet om egnede arealer er overflødig også når det gjelder skolefritidsordningen.
+
+Kommunale forskrifter om skolefritidsordningen
+
+Det følger av opplæringsloven § 13-7 tredje avsnitt at kommunen skal fastsette vedtekter om opptakskriterier, foreldrebetaling mv. Regler om de forholdene som er opplistet i tredje avsnitt, har stor betydning for fordelingen av et fellesgode som skolefritidigsordningen er. Utvalget foreslår at kravet videreføres, men presiserer i loven at slike regler må fastsettes i forskrift.[^1243] Forskriften må fastsettes i samsvar med reglene i forvaltningsloven kapittel VII.
+
+Reglene i opplæringsloven om skolefritidsordning innebærer at kommunene i stor grad bestemmer hvordan tilbudet skal være. For å sikre likebehandling og forutberegnlighet for elever og foreldre, bør sentrale sider ved skolefritidsordningen dermed reguleres i kommunale forskrifter.
+
+Ett av punktene som skal reguleres i den kommunale forskriften, er oppsigelse av plass i skolefritidsordninger. Ettersom barna ikke har *rett* til plass i skolefritidsordningen, kan en kontrakt om slik plass sies opp på grunnlag av foreldrenes manglende betaling. Utvalget vil likevel understreke at vanlige konktraktsrettslige regler gjelder og at det bare er ved *vesentlig* kontraktbrudd at kontrakten kan heves. Dessuten skiller kontrakter om plass i skolefritidsordninger seg fra andre konktrakter ved at barnets beste må være et grunnleggende hensyn i kommunenes håndtering av eventuelle kontraktsbrudd både for spørsmålet om oppsigelse av kontrakten og heving. Det innebærer at terskelen for oppsigelse eller heving av kontrakter om SFO-plass må ligge høyere enn i andre kontraktsforhold. Se om barnets beste i kapittel 18.
+
+Adgangen til å benytte private til å oppfylle plikten
+
+Dagens lov åpner for at kommunen kan benytte andre rettssubjekter til å oppfylle plikten til å tilby SFO. Dersom kommunen skal kunne delegere vedtaksmyndighet til andre rettssubjekter, må lovgivningen åpne for det.[^1244] Utvalget antar at det kan være aktuelt at private skolefritidsordninger fatter vedtak, for eksempel om inntak. Utvalget foreslår derfor at det videreføres i loven at kommunen kan benytte private til å oppfylle plikten til å ha et SFO-tilbud.
+
+Utvalgets forslag innebærer en endring ved at det vises til private og ikke andre rettssubjekter. Utvalget antar at det ikke er aktuelt at kommunen benytter statlige aktører til å oppfylle plikten. Interkommunalt samarbeid er regulert i kommuneloven, og opplæringsloven trenger ikke egne regler om dette. Utvalget mener derfor det er tilstrekkelig å fastsette at kommunen kan benytte private til å oppfylle plikten om å ha et SFO-tilbud.
+
+I dag er det også krav om at kommunen skal føre tilsyn med private skolefritidsordninger som kommunen bruker til å oppfylle plikten. Utvalget mener dette kravet er unødvendig. Selv om kommunen benytter private til å oppfylle plikten, er det kommunen som har ansvaret for at reglene i opplæringsloven følges. I kommunens plikt til å ha internkontroll i kommuneloven § 25-1 ligger det en plikt til å følge opp private aktører som har som oppdrag å utføre oppgaver som er pålagt kommunene i lov. For slike oppgaver vil kommunen alltid ha ansvaret for at innbyggerne får de tjenestene de har krav på, uansett om kommunen utfører oppgaven selv eller gjennom private (se kapittel 42.2.1). Dette kan gjøre på ulike måter, for eksempel gjennom å føre tilsyn med de private aktørene.
+
+Utvalget foreslår at særregelen om tilsyn med private skolefritidsordninger ikke videreføres.
+
+Fordeling av regler mellom lov og forskrift
+
+Utvalget har vurdert om noen av reglene om SFO skal flyttes fra lov til forskrift. For eksempel kan det være aktuelt å flytte bestemmelsen om hva det skal fattes kommunale forskrifter om, til forskrift ettersom denne er relativt detaljert. På den annen side kan en deling av reglene mellom lov og forskrift gjøre regelverket fragmentarisk og mindre oversiktlig.
+
+Utvalget mener at reglene om SFO bør framgå samlet av loven. Hjemmelen for departementet til å gi forskriftsregler om SFO er ikke tatt i bruk. Utvalget foreslår at forskriftshjemmelen ikke videreføres i ny lov.
+
+Hvilke av reglene i loven som skal gjelde for skolefritidsordningen
+
+Utvalget foreslår å videreføre at reglene om skolemiljø, skyss på grunnlag av nedsatt funksjonsevne, skade eller sykdom, politiattest, overgang fra barnehage og ansiktsdekkende plagg skal gjelde for SFO. At de gjelder for SFO, står i forslagene til de aktuelle reglene. I tillegg vil forslaget til § 1-3 om forsvarlig virksomhet også gjelde for SFO. Dessuten er flere av reglene i den sjuende delen av lovforslaget også relevante for SFO, som reglene om forsøk og tilsyn.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- å i hovedsak videreføre regelen om skolefritidsordningen med språklige endringer, se forslag til § 5-5
+
+- å ikke videreføre kravet om at rektor skal være daglig leder når skolefritidsordningen er knyttet til en skole
+
+- å ikke videreføre særregelen om at kommunen må ha tilsyn med private skolefritidsordninger
+
+- å ikke videreføre forskriftshjemmelen om skolefritidsordningen
+
+## Leksehjelp
+
+### Dagens regler
+
+I opplæringsloven § 13-7a er det krav om at kommunen skal ha et tilbud om leksehjelp i grunnskolen og at tilbudet skal være gratis for elevene. Det står i loven at elevene skal ha rett til å delta på leksehjelptilbudet, men at det skal være frivillig om de ønsker å delta. Videre er det vist til at kravene om politiattest i § 10-9 gjelder. Loven inneholder også en hjemmel til å gi nærmere forskrifter om leksehjelptilbudet.
+
+I forskrift til opplæringsloven § 1A-1 er det utfyllende regler om leksehjelp. Bestemmelsen er slik:
+
+Kommunen skal tilby leksehjelp, jf. opplæringsloven § 13-7a, med til saman åtte timar kvar veke til elevar i grunnskolen. Dei åtte timane fordelast fritt på årstrinna slik kommunen avgjer. Formålet med leksehjelpa er å gi eleven støtte til læringsarbeidet, kjensle av meistring og gode rammer for sjølvstendig arbeid. Leksehjelpa skal og medverke til å utjamne sosial ulikskap i opplæringa.
+
+Leksehjelpa er ikkje ein del av opplæringa til eleven, men skal sjåast i samanheng med opplæringa. Leksehjelpa skal gi eleven hjelp med skolearbeidet.
+
+Kommunen er ansvarleg for leksehjelpa og vel korleis leksehjelpa skal organiserast.
+
+Kommunen pliktar å informere foreldra om retten til leksehjelp og tilbodet som gis.
+
+Kommunen plikter å sørgje for forsvarleg tilsyn med elevane i leksehjelpa. Gruppa må ikkje vere større enn det som er trygt og pedagogisk forsvarleg.
+
+Leksehjelpa skal vere gratis for eleven. Dersom leksehjelpa blir organisert som ein del av skolefritidsordninga, kan kommunen ikkje ta betalt for den tida eleven mottek leksehjelp etter denne føresegna. Dette gjeld og for elevar som ikkje deltek i skolefritidsordninga elles.
+
+Det følger av forarbeidene til opplæringsloven at det med *leksehjelp* er ment både lekser i tradisjonell forstand og hjelp til skolearbeid ellers. Leksehjelp skal tilbys uavhengig av om skolene gir lekser i tradisjonell forstand. Leksehjelp er ikke en del av den obligatoriske grunnskoleopplæringen. Elevene har ikke en individuell rett til å få leksehjelp. Ifølge forarbeidene gir plikten til å tilby leksehjelp stort rom for fleksibilitet når det gjelder både tidspunkt, lengde og klassetrinn. Ifølge forarbeidene står kommunen fritt til å fordele de åtte timene med leksehjelp på de ulike trinnene.[^1245]
+
+Følgende av opplæringslovens regler gjelder for leksehjelpordningen: kapittel 9 A om elevenes skolemiljø, § 10-9 om politiattest og § 9-7 om forbud mot ansiktsdekkende plagg.
+
+### Kunnskapsgrunnlaget
+
+Historikk
+
+Stortinget vedtok våren 2010 lovforslaget fra regjeringen om å lovfeste plikt til å tilby leksehjelp på 1.–4. trinn med virkning fra 1. august 2010. Det fantes tilbud om leksehjelp før dette, men det var frivillige ordninger i kommunene.
+
+Bakgrunnen for kravet om leksehjelp var St.meld. nr. 31 (2007–2008) *Kvalitet i skolen*, hvor blant annet betydningen av leksehjelp ble framhevet. Meldingen viste til at økt læring, bedre trivsel og helse for alle elever er viktige målsettinger i skolen, slik at skolen kan bidra til å utjevne sosiale forskjeller. Et tilbud om leksehjelp skulle ifølge meldingen bidra til å styrke skolens rolle som verktøy for sosial utjevning.
+
+Fra 1. august 2014 ble reglene om leksehjelp endret slik at leksehjelpen fritt kan fordeles på 1.–10. trinn. Endringen skulle gi kommunene fleksibilitet og handlefrihet til selv å bestemme hvordan leksehjelpen skal innrettes ut fra lokale forhold og vurderinger.
+
+Rapporter og undersøkelser
+
+Deltakelse i leksehjelpsordninger
+
+Skoleåret 2018–2019 deltok 113 531 elever på 1.–10. trinn på leksehjelpordninger etter opplæringsloven § 13-7a og friskolelova § 7-1e. Det vil si at om lag 17,8 prosent av elevene deltok på slike tilbud. Det var flest elever som deltok på 5. og 6. trinn.[^1246]
+
+Barnetilsynsundersøkelsen som Statistisk sentralbyrå gjennomførte høsten 2010, viste at barn fra lavinntektsfamilier, barn med lavutdannede foreldre og noen grupper barn med innvandrede mødre deltok på leksehjelptilbud i større grad enn andre.[^1247]
+
+Evaluering av leksehjelpordningen
+
+To år etter at kravet om leksehjelpordningen ble innført, undersøkte NOVA på oppdrag fra Utdanningsdirektoratet hvilke erfaringer foreldre, skoleledere og skoleeiere hadde med ordningen. Rapporten trakk fram følgende funn:
+
+- Mange kritiske innspill til forslaget om å innføre leksehjelp
+
+- Kommuner og skoler strakk seg langt for å innføre ordningen
+
+- Store variasjoner i utforming av leksehjelptilbudet
+
+- Mange skoleledere og skoleeiere er kritiske til nytten av leksehjelpen på første trinn
+
+- Barn av innvandrere bruker ordningen mer enn andre
+
+- Foreldre er delt i synet på leksehjelptilbudet
+
+- Noe bedre resultatutvikling over tid på de skolene som økte omfanget av leksehjelp i forbindelse med reformen
+
+- Noe større sosiale forskjeller i skoleresultater over tid på de skolene som økte omfanget av leksehjelp i forbindelse med reformen.[^1248]
+
+Forsøk med leksehjelp
+
+Bærum kommune gjennomførte et forsøk med leksehjelp fra skoleåret 2015–2016 til skoleåret 2017–2018. Forsøket gikk ut på å erstatte åtte timer leksehjelp med assistent med seks timer leksehjelp med lærer. I tillegg ble leksehjelpen flyttet fra 1.– 4. trinn til 5.–7. trinn.[^1249] Rådmannen evaluerte forsøket ved å få innspill fra elevrådene og samarbeidsutvalgene ved skolene. Elever og foreldre svarte at de opplever innholdet i og organiseringen av leksehjelpen som svært god. De tilskrev dette i stor grad at det er lærere som gjennomfører leksehjelpen. Elevene og foreldrene er særlig fornøyd når tilbudet gjennomføres av lærere på trinnet. Foreldrene mener det er viktig at den som gir leksehjelpen, har god kjennskap til elevenes ståsted og innholdet i undervisningen for øvrig, slik at elevene får nødvendig og riktig hjelp.[^1250]
+
+Innspill til utvalget
+
+KS mener opplæringsloven § 13-7a bør omformuleres til en ren pliktregel. KS mener også at det bør strykes at det er frivillig for elevene å delta på leksehjelpen, og viser til at dette ikke står noen andre steder i loven der elever er gitt en rett eller kommunen en plikt.[^1251]
+
+Skolenes landsforbund mener at leksehjelp bør gis av pedagoger og at forskriften bør si noe om hvordan leksehjelpen skal innrettes.[^1252]
+
+### Utvalgets vurdering
+
+Behovet for nasjonale regler om leksehjelp
+
+Leksehjelp har til formål å bidra til sosial utjevning. I tillegg kan leksehjelp ha betydning for elevenes læring. Reglene om leksehjelp er relativt nye, og det finnes ikke så mye forskning på effekten av leksehjelp. Den undersøkelsen som foreligger, viser en sammenheng mellom høy grad av deltakelse i leksehjelp og positiv utvikling i resultater på nasjonale prøver over tid. Ifølge forskerne er resultatene i alle fall ikke uforenlige med en hypotese om at leksehjelpreformen kan ha hatt noen positive virkninger på elevenes læring.
+
+Derimot viser ikke undersøkelsen at leksehjelp bidrar til sosial utjevning. Tvert imot viser undersøkelsen økte sosiale forskjeller på skoler som innførte leksehjelp i forbindelse med innføringen av kravet. Forskerne peker på at noe av årsaken til at leksehjelp hadde denne effekten, var at tilbudet rettes mot alle elever, og at de ressurssterke elevene har best utbytte av tilbudet.[^1253]
+
+Utvalget mener det fortsatt bør være nasjonale krav om leksehjelp i ny lov, ikke minst fordi dagens regler, med seneste endring i 2017, har fått virke i så pass kort tid. Leksehjelpordningen bør evalueres når reglene har virket en stund, slik at man få mer kunnskap om hvilke virkninger ordningen har på sosiale forskjeller. Dersom det viser seg, slik undersøkelsen fra 2013 indikerer, at leksehjelp bidrar til økte sosiale forskjeller, bør det vurderes om ordningen skal endres eller ikke lenger være lovpålagt.
+
+Utforming av reglene om leksehjelp
+
+I dagens lov er reglene om leksehjelp formulert som en «rett» for elevene. Formuleringen kan gi inntrykk av at alle elever på alle trinn har rett til leksehjelp. Innholdet i reglene er derimot at kommunen står fritt til å fordele timene til leksehjelp mellom trinnene. Det ligger også innenfor den kommunale handlefriheten å rette leksehjelpen inn mot noen elevgrupper.[^1254] Kommunens plikt til å ha et leksehjelptilbud gir med andre ord ikke en individuell rett for alle elever til å delta. Det har heller ikke vært praktisert noen klageadgang for avgjørelser om leksehjelp.
+
+Utvalget mener at kommunen fortsatt bør ha stor frihet til å innrette leksehjelptilbudet ut fra lokale behov. Utvalget foreslår derfor at regelen om leksehjelp utformes som en overordnet plikt for kommunen og ikke som en rettighet for elevene. Se mer om forskjellen på plikter og individuelle rettigheter i kapittel 12.3.
+
+Utvalget foreslår at det ikke lenger skal stå i loven at det er frivillig for elevene å delta på leksehjelptilbudet, da dette er en unødvendig presisering. Utvalget foreslår for øvrig enkelte språklige endringer.
+
+Behovet for å fastsette hvor mange timer leksehjelp kommunene skal tilby
+
+I forskrift til opplæringsloven § 13-7a er det fastsatt at kommunen skal tilby åtte timer med leksehjelp. Utvalget mener det er unødvendig med en slik detaljstyring av kommunene. Kravet bidrar heller ikke til likhet mellom kommunene, da kommunene uansett står fritt til å bestemme hvor mange elever som skal få tilbud om leksehjelp, og på hvilket trinn. Dersom timetallskravet tas bort, kan det være en risiko for at kommunene vil tilby færre timer ettersom det kan være en måte å spare penger på. På den annen side er ikke nødvendigvis antall timer et godt mål på om det er et godt leksehjelptilbud. Forsøket i Bærum kommune (se kapittel 42.3.2) viser at elevene og foreldrene er godt fornøyd med leksehjelp med færre timer, men med lærere i stedet for assistenter.
+
+Utvalget mener kommunene ut fra lokale behov bør kunne bestemme hvordan leksehjelpen skal organiseres, hvor mange timer leksehjelp som skal tilbys og hvilke trinn og elever leksehjelpen skal rettes mot.
+
+Behovet for forskriftsregler om leksehjelp
+
+I dag er reglene om leksehjelp fordelt mellom opplæringsloven § 13-7a og forskrift til opplæringsloven § 1A-1. Forskriftsreglene om at leksehjelpen er gratis, og at kommunen er ansvarlig for organiseringen, er overflødige, da dette allerede følger av loven. Utvalget foreslår derimot at presiseringene om at leksehjelpen også skal være gratis når den blir organisert som en del av skolefritidsordningen, og at leksehjelpen ikke er en del av opplæringen, tas inn i loven i en noe forenklet form.
+
+Utvalget foreslår at reglene i forskriften om formålet med leksehjelpen ikke videreføres, da dette ikke er en rettslig forpliktelse. Å fastsette regler om at formålet blant annet er sosial utjevning er heller ikke så heldig, da undersøkelsen som foreligger så langt, viser at tiltaket ikke har denne effekten. En mulighet kan være å fastsette krav om at leksehjelpen skal innrettes på en måte som gjør at den bidrar til sosial utjevning. Dette kan i så fall bety at kommunene bare må tilby leksehjelp til enkelte elevgrupper. Det kan være krevende å finne fram til kriterier for utvelgelse som er objektive og saklige. Det er dessuten ikke sikkert at en slik innretning vil bidra til sosial utjevning. Utvalget foreslår derfor at det ikke innføres et slikt krav.
+
+Utvalget foreslår at det skal videreføres i den nye loven at reglene om skolemiljø, inkludert retten til å ha det trygt og godt, skal gjelde for leksehjelpen (se kapittel 36). Utvalget mener derfor at det ikke er nødvendig å videreføre kravet i dagens forskrift om forsvarlig tilsyn og om at leksehjelpen skal være trygg. Ettersom leksehjelpen ikke er en del av opplæringen og kommunen står fritt til å fordele leksehjelpen på de ulike trinnene, bør det etter utvalgets vurdering heller ikke stilles krav om gruppestørrelse. Utvalget viser i denne sammenheng til forslaget om et generelt forsvarlighetskrav, som også vil gjelde for leksehjelpen (se kapittel 15).
+
+Utvalget mener det ikke er nødvendig å videreføre forskriftsregelen om at kommunen skal informere foreldrene om leksehjelptilbudet, da utvalget foreslår en generell plikt for kommunen til å gi elever og foreldre informasjon som de har bruk for. Foreldrene har åpenbart bruk for få informasjon om hvilket leksehjelptilbud det er på skolen. Se om informasjonsplikten i kapittel 43.2.
+
+Ettersom utvalget foreslår at reglene om leksehjelp i forskriften flyttes til loven eller ikke videreføres, er det ikke lenger behov for en forskriftshjemmel om leksehjelp. Utvalget mener det heller ikke bør fastsettes mer detaljerte regler i forskrift i framtiden. Det bør være en overordnet regulering av leksehjelpen, da dette ikke er en del av opplæringen og dermed heller ikke kan være avgjørende for å nå målene for grunnopplæringen. Se mer om utvalgets vurderinger om når og hvordan lov bør brukes som styringsvirkemiddel, i kapittel 12.
+
+Hvilke regler som skal gjelde for leksehjelpordningen
+
+Utvalget foreslår å videreføre at reglene om skolemiljø, politiattest og ansiktsdekkende plagg skal gjelde for leksehjelpordningen. At de gjelder for leksehjelpordningen, står i forslagene til de aktuelle reglene. I tillegg vil forslaget til § 1-3 om forsvarlig virksomhet også gjelde for leksehjelpordningen. Dessuten er flere av reglene i den sjuende delen av lovforslaget også relevant for leksehjelpordningen, som reglene om forsøk og tilsyn.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- å videreføre reglene i loven om leksehjelp med språklige endringer. De delene av dagens bestemmelse som er rettslig overflødig, videreføres ikke. Se forslag til § 5-4
+
+- å ikke videreføre hjemmelen til å gi forskrifter om leksehjelp. Sentrale regler flyttes til loven, mens de øvrige delene av forskriftsreguleringen ikke videreføres
+
+- å ikke videreføre kravet om at kommunen må tilby åtte timer med leksehjelp
+
+## Bibliotek
+
+### Dagens regler
+
+Opplæringsloven og forskrift til opplæringsloven
+
+I opplæringsloven § 9-2 andre avsnitt er det fastsatt at «\[e\]levane skal ha tilgang til skolebibliotek. Departementet kan gi nærmare forskrifter.»
+
+I forskrift til opplæringsloven § 21-1 er det gitt utfyllende regler om skolebibliotek. Bestemmelsen er slik:
+
+Skolen skal ha skolebibliotek med mindre tilgangen til skolebibliotek er sikra gjennom samarbeid med andre bibliotek. Bibliotek som ikkje ligg i skolen sine lokale, skal vere tilgjengeleg for elevane i skoletida, slik at biblioteket kan brukast aktivt i opplæringa på skolen. Biblioteket skal vere særskilt tilrettelagt for skolen.
+
+Det er ifølge forskriften mulig å ivareta plikten til å ha skolebibliotek gjennom et samarbeid med andre bibliotek.
+
+Andre lover
+
+I folkebibliotekloven § 1 første avsnitt er det fastsatt følgende:
+
+Folkebibliotekene skal ha til oppgave å fremme opplysning, utdanning og annen kulturell virksomhet, gjennom aktiv formidling og ved å stille bøker og andre medier gratis til disposisjon for alle som bor i landet.
+
+Alle kommuner skal ha et folkebibliotek, men det er åpnet for at for eksempel flere kommuner driver biblioteket sammen, jf. § 4. Folkebibliotekene skal i sine tilbud til barn og voksne legge vekt på kvalitet, allsidighet og aktualitet, jf. § 1 tredje avsnitt.
+
+### Kunnskapsgrunnlaget
+
+Historikk
+
+Kravet om skolebibliotek er videreført fra tidligere lov om grunnskoler og lov om videregående opplæring. Med opplæringsloven av 1998 gikk man bort fra at det skulle være et absolutt krav om at skolebiblioteket i grunnskolen skal være lokalisert på skolen. Kravet om skolebibliotek kan i dag både i grunnskolen og i videregående skole oppfylles enten gjennom et eget bibliotek på skolen eller gjennom et samarbeid med et annet bibliotek. Kravet om skolebibliotek i opplæringsloven har ikke blitt endret siden loven trådte i kraft.
+
+Rapporter og undersøkelser
+
+Spørsmål til Skole-Norge
+
+Våren 2018 inneholdt spørreundersøkelsen til Skole-Norge spørsmål om skolebibliotek.[^1255] Undersøkelsen viste at cirka ni av ti skoler, både videregående skoler og grunnskoler, har et skolebibliotek. Skolebibliotek er mindre utbredt på ungdomsskoler enn på barneskoler og mindre utbredt på de minste skolene, sammenlignet med de mellomstore og store skolene. Mangel på plass trekkes fram som den viktigste årsaken til at skoler ikke har skolebibliotek.
+
+Program for skolebibliotekutvikling
+
+I perioden 2009–2013 ble satsingen *Program for skolebibliotekutvikling* gjennomført. Satsingen skulle utvikle og styrke skolebiblioteket i grunnskolen. Universitetet i Agder utformet og gjennomførte programmet. NIFU har evaluert programmet.[^1256] Program for skolebibliotekutvikling omfattet 173 av 2 957 grunnskoler i Norge. Evalueringen viste at deltakerne i hovedsak var fornøyde og mente at programdeltakelsen hadde ført til varig endring i arbeidet. Skolene som satte seg klare resultatmål og bygde opp arbeidet rundt en enhetlig og tydelig idé, var de som i størst grad oppnådde varige effekter av å delta i programmet. Særlig førte deltakelsen til endringer i skolebiblioteket som arena for å fremme leselyst og å styrke elevenes leseferdighet. Skolene som deltok over to år, så størst endring.
+
+Måloppnåelsen på nasjonalt nivå var derimot lav. Målet om at halvparten av skolebibliotekarene skal ha utdanning innen skolebibliotek, ble ikke nådd. 29–32 prosent av dem som er biblioteksansvarlige i grunnskolen, hadde en eller annen form for bibliotekfaglig utdanning i 2013. Evalueringen viste videre at det ikke hadde vært en økning fra 2009–2013 i antallet kommuner og skoler som aktivt tok i bruk skolebiblioteket i opplæringen. I evalueringen pekes det på svakheter i den nasjonale styringen som medvirkende årsak til lav måloppnåelse på nasjonalt nivå. Det vises til at kunnskap og kultur er atskilt ved at Kunnskapsdepartementet har ansvar for skolebiblioteket, mens Kulturdepartementet har ansvaret for biblioteksektoren. Det vises også til at lovendringer har svekket graden av forpliktelse og at skolebibliotek ikke er prioritert på nasjonalt nivå.
+
+Nasjonal bibliotekstrategi 2015–2018 og arbeidet med Nasjonal bibliotekstrategi 2020–2023
+
+I Nasjonal bibliotekstrategi 2015–2018[^1257] framheves bibliotekenes viktige rolle for å stimulere til leselyst og styrke alle barn og unges leseferdigheter:
+
+Både folkebibliotekene og skolen har en viktig rolle for å styrke leselyst og leseferdigheter blant barn og unge. Det lokale samarbeidet vil samtidig være svært viktig for at tilbudet skal nå ut til alle.
+
+Kulturdepartementet har satt i gang arbeidet med Nasjonal bibliotekstrategi for perioden 2020–2023.[^1258] Det skal utarbeides en nasjonal strategi som beskriver utviklingen av en framtidsrettet biblioteksektor, der folkebibliotek, skolebibliotek og universitets- og høyskolebibliotek ses i sammenheng.
+
+Tilskudd for å styrke skolebibliotekenes arbeid med lesestimulering
+
+Etter utlysning tildelte Utdanningsdirektoratet i 2018 tilskudd til skolebibliotekenes arbeid med lesestimulering. Ifølge utlysningen var hensikten med tilskuddsordningen å bidra til utviklingen av skolebibliotek og styrke arbeidet med lesestimulering:
+
+Tilskuddene skal bidra til at skolebibliotekene
+
+- blir en arena for leseglede for alle elevgrupper og i alle fag
+
+- brukes i opplæringen, og bidrar til å nå målene i Kunnskapsløftet
+
+- legger til rette for lesing og vurdering av trykte og digitale tekster og sammensatte tekster
+
+- er en integrert og varig del av skolens pedagogiske virksomhet
+
+- er en inkluderende arena, som tar hensyn til barn og unges ulike forutsetninger og behov
+
+- er innovative og fremtidsrettede
+
+I tillegg var det et ønske å øke lærernes kompetanse i pedagogisk bruk av skolebiblioteket og å styrke samarbeidet mellom skolebibliotekene og folkebibliotekene.[^1259]
+
+Innspill til utvalget
+
+Referansegruppen
+
+KS har i innspill til utvalget stilt spørsmål om hva skolebibliotek er, og vist til blant annet ny teknologi. KS har også gitt uttrykk for at regelen om bibliotek bør utformes som en plikt for kommunene og ikke en rettighet for elevene.[^1260]
+
+Andre
+
+Aksjon skolebibliotek har gitt flere innspill til utvalget. Aksjon skolebibliotek mener at reguleringen av skolebibliotek bør styrkes. De ønsker blant annet krav om at skolebibliotekene har kvalifisert bibliotekfaglig kompetanse, at skolebiblioteket er åpent og bemannet i skolens åpningstid, og at skolebiblioteket ligger i egnede lokaler på skolen eller i rimelig avstand til skolen. De mener videre at skolebibliotek er et verktøy for læring, og at lesing er nøkkelen til læring og kunnskap.[^1261]
+
+Også privatpersoner har sendt innspill til utvalget med forslag om styrking av skolebibliotek i opplæringsloven.
+
+### Utvalgets vurdering
+
+Undersøkelser viser at aktiv bruk av skolebibliotek kan være positivt for elevenes leseferdigheter. Dette støttes av at den nye læreplanen i norsk har kompetansemål som også omhandler bruk av bibliotek etter 2., 4. og 7. trinn.[^1262]
+
+Å framheve bibliotekets betydning for elevene kan begrunnes ut fra mange perspektiver. Bruk av bibliotek kan bidra til å gi elevene historisk og kulturell innsikt og bidra til å utvikle kritisk sans i dagens kunnskapssamfunn. Med et bredt utvalg litterære tekster kan kompetente bibliotekansatte i større grad enn enkeltlærere finne fram til tilpasset litteratur som kan stimulere til leselyst hos den enkelte elev.
+
+I tillegg er personvern, overvåkning og elektroniske spor sentrale problemstillinger som barn og unge må kjenne til og kunne håndtere. I en hverdag der internett i stor grad brukes som informasjonssentral for barn og unge, er det behov for flere innganger og arenaer til å lære om kildekritikk og god bruk av digital teknologi. Bibliotekansatte kan spille en sentral rolle for å gjøre elever til mer bevisste og ansvarlige digitale brukere.
+
+Uavhengig av om tilbudet finnes på skolen eller i nærmiljøet, mener utvalget det er viktig å sikre elevers mulighet til å benytte seg av bibliotek i skoletiden. Krav om et tilgjengelig bibliotek i elevenes skoletid kan også bidra til at blant annet de skolene som ikke har eget bibliotek på skolen, bruker biblioteket i lokalsamfunnet i gjennomføringen av elevenes opplæring.
+
+Bibliotekenes bruksområde og plass i lokalsamfunnet har vært i stor endring de siste ti årene. Fra å være rene utlånssentraler av bøker, med begrenset åpningstid, har bibliotekene blitt mer tilpasset lokalsamfunnets behov og ønsker. Blant annet tilbyr meråpne bibliotek sine brukere å låse seg inn og benytte seg av bibliotekets lokaler og tilbud utenom ordinære åpningstider. Mange bibliotek bærer i tillegg preg av å være omfattende aktivitetssentre for brukere i alle aldre. Hyllemeterne med utlånslitteratur er supplert med utlån og framvisning av film og musikk, internett-tilgang, aviskroker, lekerom, spillområder, scener for kulturelle arrangementer med mer. Felles for tilbudene er at de i all hovedsak er gratis og åpne for alle som ønsker det. Mange bibliotek er også samlokalisert med eller nært tilknyttet andre kulturelle tilbud, som kinoer og kulturhus. Bibliotekene kan med dette bidra til å fremme inkludering og samhold på tvers av alder, kjønn og sosiale og økonomiske forhold.
+
+Bibliotekene har også blitt et verktøy i arbeidet med god integrering. Tilgangen til gratis internett, med hjelp fra nøytrale bibliotekarer, pekes på som et viktig tilbud for mange innvandrere. Biblioteket representerer i tillegg noe trygt for innvandrerforeldre. Foreldre tør å la sønner og døtre være på biblioteket – enten det er for å gjøre lekser, bruke PC-en, låne bøker eller lese aviser. Dette gjør at bibliotekene også kan være en viktig fritidsarena for barn og unge utenom skolen.[^1263]
+
+Et krav om tilgjengelig bibliotek i skoletiden vil kunne sikre at skolene sørger for at elevene får tilgang til tjenestene der og da, men også at barn og unge blir klar over tilbudet som ellers er tilgjengelig for dem i lokalsamfunnet, i et livsløpsperspektiv.
+
+Utvalget mener at kravet om tilgjengelig bibliotek i skoletiden bør videreføres i ny opplæringslov, men at det ikke fastsettes en plikt til å bruke biblioteket i opplæringen. I dagens forskrift slås det fast at biblioteket skal være tilrettelagt for skolen. Utvalget foreslår at kommunens plikt til å sørge for at biblioteket er tilrettelagt for bruk i opplæringen, tydeliggjøres i loven. Det stilles utover dette ikke krav til innholdet i biblioteket, bemanning eller egne lokaler. Bakgrunnen er det store mangfoldet av skoler når det gjelder både størrelse, antall trinn og beliggenhet. De store forskjellene er også grunnen til at utvalget ikke bruker begrepet «skolebibliotek», men overlater til kommunen å finne den beste måten å legge til rette for at elevene har tilgang til et bibliotek i skoletiden.
+
+Utvalget foreslår at loven skal inneholde en egen bestemmelse om at elevene skal ha tilgang til bibliotek. Den formuleres som en plikt for kommunen til å «sørgje for», ikke som en rett for elevene. Bestemmelsen er ikke forstått eller praktisert som en rettighet i dag heller. Ved at bestemmelsen formuleres som en plikt for kommunen til å sørge for tilgang til et bibliotek, er det rimelig at kommunen også legger til rette for at elevene har en aktiv bruk av biblioteket. Ved å regulere en plikt for kommunen til å sørge for at elevene har tilgang til et bibliotek gir man også oppmerksomhet til biblioteket som en ressurs for elever og lærere.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- at kravet om bibliotek videreføres med språklige endringer. Forskriftshjemmelen videreføres ikke, men innholdet i forskriftsbestemmelsen tas inn i loven. Se forslag til § 13-6.

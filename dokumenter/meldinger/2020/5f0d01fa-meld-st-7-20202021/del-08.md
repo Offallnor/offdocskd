@@ -1,1647 +1,639 @@
-# Meld. St. 7 (2020–2021), del 8 av 10 (side 89–101)
+# Meld. St. 7 (2020–2021), del 8 av 14
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/meldinger/2020/5f0d01fa-meld-st-7-20202021.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/meld.-st.-7-20202021/id2779627/
 - Original-PDF: https://www.regjeringen.no/contentassets/3e623f4c93b04cbcadc289224d06de84/no/pdfs/stm202020210007000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 24 tabeller, 16 figurer, 706 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 89]
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-ter på lik linje med aktører i utdanningssektoren i
-kunnskapsallianser og sektorallianser, men også
-innenfor nye initiativ som Europeiske universiteter
-og sentre for fremragende yrkesutdanning.
-Praksismobilitet er et for lite brukt virkemiddel også i Erasmus+. Utveksling i form av praksisopphold i utlandet kan ha en tilleggsverdi utover
-verdien av praksiserfaringen i seg selv. Studentene får oppleve en annen arbeidskultur og får
-kjennskap til normene og verdiene, både de formelle og de uformelle, som regulerer arbeidslivet
-i et annet land. I et stadig mer internasjonalt
-nærings- og samfunnsliv der kravene om interkulturelle og internasjonale perspektiver øker, vil det
-å ha hatt praksis i utlandet kunne gi merverdi i
-form av internasjonal kunnskap og kontakter.
-Norske studenter bør benytte seg mer av dette, på
-samme måte som norske bedrifter bør ta imot
-flere praksisstudenter fra andre land.
-Legge til rette for deltakelse for ungdom
-Ved en eventuell deltakelse i Erasmus+ vil
-undomsdelen legge til rette for at sivilsamfunnsorganisasjoner, kommuner og fylkeskommuner får
-styrket sitt arbeid for ungdom. Programmet skal
-tilby en mulighet for internasjonal mobilitet og
-samarbeid som er inkluderende og med lav terskel. Regjeringen venter at et slikt arbeid vil være
-viktig for de ungdommene som deltar, og ha positive effekter for dem på kort og lang sikt.
-Økt engasjement og nye deltakere
-Norsk deltakelse i Erasmus+ 2021–2027 vil være
-en stor prioritering for regjeringen på politikkområdene utdanning, opplæring, ungdom og idrett.
-Selv om det nye programmet i hovedsak baserer
-seg på det som gjelder i dag, vil det være noe
-enklere og mer inkluderende. Dette vil medføre at
-enda flere studenter, elever, ungdommer, ansatte
-og andre aktører kan delta.
-Erasmus+ har et bredt nedslagsfelt med effekter utover områdene til Kunnskapsdepartementet,
-Barne- og familiedepartementet og Kulturdepartementet. Aktører på områder som internasjonalt
-samarbeid, utviklingssamarbeid, integrering og
-lokal og regional utvikling, næringsliv og frivilling
-sektor bør eventuelt involvere seg sterkt i Erasmus+. For kommuner og fylkeskommuner kan et
-økt budsjett for Erasmus+ gi økte muligheter til å
-involvere seg både som skoleeiere og som ansvarlig for å utvikle regional kompetanse- og næringspolitikk.
-
-87
-
-Bedre utnyttelse av kontingent for Erasmus+
-Om lag 10 prosent av kontingenten til Erasmus+
-fordeles sentralt i Europakommisjonen gjennom
-konkurranse. For å stimulere norske aktører til å
-søke denne typen midler deler Diku ut prosjektetableringsstøtte som potensielle søkere kan bruke
-til søknadsskriving, reiser og møter i forbindelse
-med at de utarbeider søknaden. Erfaringer tilsier
-at denne støtten har vært positiv, til tross for at
-støtten på langt nær er på nivå med tilsvarende
-støtteordninger under Horisont 2020. Regjeringen
-vil vurdere nivået på prosjektetableringsstøtten20 i
-Erasmus+ i kommende statsbudsjetteter.
-Økt budsjett i Erasmus+ vil ved eventuell deltakelse medføre økt aktivitet og mer arbeid for
-Diku. Økte budsjetter vil blant annet føre til mer
-søknadsbehandling, veiledning, økonomiforvaltning, revisjon, kontroll og oppfølging av prosjekter. Det vil også bli mer arbeid med informasjon,
-kommunikasjon og resultatformidling og mer
-arbeid for å utvikle kunnskap og for å dokumentere resultater fra deltakelse i ny programperiode.
-Regjeringen vil vurdere å kompensere nasjonalkontoreene for dette merarbeidet.
-
-6.3.1 Vurderinger og tiltak
-– Regjeringen foreslår at Norge deltar i EUs program for utdanning, opplæring ungdom og
-idrett (Erasmus+) 2021-2027, men vil ta endelig
-avgjørelse om dette når EUs langtidsbudsjett
-er vedtatt.
-– Regjeringen vil, ved en endelig beslutning om
-deltakelse i Erasmus+ fra 2021, legge frem en
-samtykkeproposisjon for Stortinget om deltakelse i Erasmus+ med sikte på innlemmelse i
-EØS-avtalen senest i juli 2021. Regjeringen vil
-komme tilbake til de budsjettmessige konsekvensene i de årlige statsbudsjettene.
-– Regjeringen vil, ved en endelig beslutning om
-deltakelse i Erasmus+ fra 2021, i kommende
-statsbudsjetter vurdere behovet for økte administrasjonsmidler til Direktoratet for internasjonalisering og kvalitetsutvikling i høyere
-utdanning (Diku) og til Barne-, ungdoms- og
-familiedirektoratet (Bufdir) for å håndtere økt
-budsjett og aktivitet for Erasmus+.
-– Regjeringen vil, ved en endelig beslutning om
-deltakelse i Erasmus+ fra 2021, i kommende
-statsbudsjetter vurdere behovet for eventuelle
-20
-
-Om Erasmus+ prosjektetableringsstøtte (PES): https://
-diku.no/programmer/erasmus-prosjektetableringsstoettepes-sentraliserte-tiltak.
-
-[Side 90]
-
-88
-
-–
-
-21
-
-Meld. St. 7
-En verden av muligheter
-
-stimuleringsmidler for å øke deltakelsen i Erasmus+ og behovet for forsterkningsmidler21 for
-å øke effekten av norsk deltakelse i programmet.
-Ved en endelig beslutning om deltakelse i Erasmus+ fra 2021, vil regjeringen utarbeide en ny
-strategi for hele programperioden 2021–2027,
-basert på endelig vedtatt program.
-
-Egne midler som kan forsterke effekten av deltakelse i
-Erasmus+-programmet i Norge.
-
-–
-
-–
-
-2020–2021
-
-Med forbehold om fremtidig deltakelse i nevnte
-programmer forventer regjeringen større grad
-av synergier mellom ulike mobilitetsprogrammer og andre internasjonale programmer som
-Horisont Europa, Nordplus, EØS-midlenes
-utdanningsprogrammer, NOTED, UTFORSK
-og INPART.
-Ved en endelig beslutning om norsk deltakelse
-i Erasmus+ forventer regjeringen god deltakelse fra universiteter, høyskoler og andre relevante aktører.
-
-[Side 91]
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-89
-
-7 Internasjonale gradsstudenter som kommer til Norge
-Siden årtusenskiftet har det blitt mange flere som
-kommer til Norge for å studere. Veksten skyldes
-til dels eksterne forhold, som flere internasjonale
-studenter globalt og flere deltakere i EUs utdanningsprogrammer. Den kommer imidlertid også
-som følge av norske politiske prioriteringer og
-som følge av satsinger og tiltak ved norske utdanningsinstitusjoner, som flere engelskspråklige tilbud, flere og mer omfattende institusjonelle samarbeid med utenlandske institusjoner og fravær av
-studieavgifter.1 I første utgave av OECDs Indicators of Talent Attractiveness kommer Norge svært
-godt ut på indikatorene for hvor attraktiv Norge er
-for internasjonale studenter. Norge på andreplass
-– etter Sveits, men foran Tyskland og Finland.2
-Noe av det som trekker opp for Norges del, er
-engelskspråklige kurs, fravær av studieavgifter og
-det at studentvisum gir anledning til å jobbe deltid
-ved siden av studiene. Som hovedregel har imidlertid ikke utenlandske studenter adgang til norsk
-studiefinansiering.
-En undersøkelse blant internasjonale studenter i Norge i 2019 har gitt ytterligere kunnskap om
-hvilke motiver studenter har for å velge Norge.
-For gradsstudentene trer høy utdanningskvalitet
-frem som den viktigste faktoren. Nest mest vektlagt er oppfatningen av Norge som et fredelig og
-trygt samfunn. En fjerdedel av studentene pekte
-på muligheter til å arbeide i Norge etter at man er
-ferdig med utdanning.3
-Norsk politikk har lagt særlig vekt på utveksling gjennom institusjonelt samarbeid. Det å tiltrekke seg helgradsstudenter har ikke vært prioritert, med unntak av i forbindelse med fellesgrader, som er i grenselandet mellom delgrads- og
-helgradsmobilitet. Kvoteordningen, som nå er
-avviklet, omfattet stipender for å ta helgradsstudier i Norge, men det politiske motivet bak ordningen var bistand og kapasitetsbygging i sør heller enn å trekke studenter til norske institusjoner.
-Fra 2020 kommer det også midler til helgradsmobilitet gjennom NORPART. Andelen internasjo-
-
-nale gradsstudenter av alle registrerte studenter i
-Norge har de siste ti årene gått litt opp og ned
-mellom 3 og 4 prosent.
-Norge har tradisjonelt hatt en relativt stor
-andel av sine studenter på gradsstudier i utlandet,
-og fortsatt drar forholdsvis mange norske studenter utenlands for å studere til en hel grad – oppunder sju prosent av den totale studentmassen. Til
-sammenligning er gjennomsnittet i EU omtrent
-halvparten og i OECD-området en fjerdedel av
-dette.4 Selv om det kommer flere til Norge for å ta
-en grad enn før, utgjør disse studentene altså fortsatt bare omtrent halvparten så mange som de
-norske gradsstudentene utenlands. Dette skiller
-oss fra mange andre europeiske land, for eksempel Tyskland, Frankrike, Spania, Italia, Nederland,
-Østerrike, Danmark og fremfor alt Storbritannia,
-som tiltrekker seg flere gradsstudenter enn de
-sender reiser ut.5
-Flere av landene som Norge har kunnskapssamarbeid med, legger betydelig mer vekt på å tiltrekke seg studenter fra utlandet enn å sende
-egne studenter ut. Det gjelder blant andre Finland, Nederland, Frankrike, Storbritannia, Canada
-og Russland. Også i land som Kina og India, som
-til nå i overveiende grad har sendt ut studenter, er
-det økende oppmerksomhet rettet mot inngående
-studentmobilitet. For mange er det å tiltrekke seg
-gradsstudenter del av en større strategi for å tiltrekke seg høyt kvalifisert arbeidskraft.6
-
-7.1
-
-Fra et kunnskapspolitisk ståsted utgjør de innreisende gradsstudentene en verdifull ressurs for å
-gjøre studiemiljøene i Norge mer internasjonale.
-De kan bidra til at Norge når målet om at alle norske studenter skal ta del i et læringsmiljø som
-også omfatter utenlandske studenter. Sammenlig4
-
-1
-2
-3
-
-Wiers-Jenssen (2018).
-OECD (2019).
-Diku (2019g).
-
-Verdien av innkommende
-gradsstudenter
-
-5
-6
-
-OECD (2018), s. 230.
-DAAD (2019), s. 21; Europakommisjonen/EACEA/Eurydice (2018), kapittel 7.
-Europakommisjonen (2019b).
-
-[Side 92]
-
-90
-
-Meld. St. 7
-En verden av muligheter
-
-net med innkommende utvekslingsstudenter vil
-internasjonale helgradsstudenter kunne bidra
-enda mer til internasjonalisering av studiemiljøet,
-siden de oppholder seg lenger i Norge. Det er til
-fordel både for institusjonene, for fagmiljøene og
-for det store flertallet av norske studenter som
-ikke drar utenlands i løpet av studiene.
-Analyser og undersøkelser tyder imidlertid på
-at internasjonale studenter i dette perspektivet er
-en underutnyttet ressurs.7 Norske institusjoner
-har kommet langt i å tilrettelegge for og motta
-internasjonale studenter. Det er likevel fortsatt
-slik at norske og internasjonale studenter i mange
-tilfeller har begrenset kontakt, og at det internasjonale læringsmiljøet ikke utnyttes fullt ut. Det er
-derfor viktig at institusjonene arbeider målrettet
-for å styrke samhandlingen og kontakten mellom
-internasjonale og norske studenter.
-Dersom gradsstudentene blir og jobber i
-Norge etter at de har avlagt en grad, utgjør de et
-positivt bidrag til norsk økonomi og arbeidsliv.
-Sammenlignet med andre arbeidsinnvandrere er
-disse bedre rustet, etter å allerede ha tilbrakt
-minst to år i landet. Mange vil også ha lært seg en
-del norsk, selv om de fleste har hatt engelsk som
-studiespråk, og vil lettere kunne fungere i et
-norsk arbeidsliv enn dem som aldri har vært i landet før. Denne potensielle verdien av internasjonale studenter som har avlagt en grad, har imidlertid kommet i bakgrunnen av andre hensyn.
-Det å unngå at mennesker med høy utdanning
-slår seg ned utenfor hjemlandet sitt for godt
-(såkalt hjerneflukt), har historisk vært et viktig
-politisk motiv for Norge.8 På dette området er det
-imidlertid stor forskjell mellom hvordan Norge
-forholder seg til henholdsvis kunnskapspolitisk
-prioriterte samarbeidsland og utviklingsland i det
-globale sør.9 En nasjonal politikk for rekruttering
-av studenter kan ta hensyn til slike forskjeller. En
-mer strategisk og helhetlig tilnærming til rekruttering av internasjonale studenter må baseres på
-en bevisst balansering av kunnskaps- og kompetansepolitiske interesser med bistands- og migrasjonspolitiske mål.
-
-7
-8
-
-9
-
-Diku (2019g).
-Se blant annet St.meld. nr. 18 (2007–2008) Arbeidsinnvandring, kapittel 14, og St.meld. nr. 13 (2008–2009) Klima, konflikt og kapital. Norsk utviklingspolitikk i et endret handlingsrom, kapittel 3.4.
-Brekke (2006).
-
-2020–2021
-
-7.1.1 Vurderinger og tiltak
-– Regjeringen vil at institusjonene styrker arbeidet med å skape et internasjonalt læringsmiljø
-der det legges best mulig til rette for samhandling mellom norske og utenlandske studenter i
-både faglige og utenomfaglige sammenhenger.
-
-7.2
-
-Nasjonal politikk for å trekke
-studenter til Norge
-
-Norge viser åpenhet for internasjonale gradsstudenter gjennom at Norge tilbyr engelskspråklige
-mastergrader og har et system for full statlig finansiering av utdanning til alle – inkludert studenter
-fra utenfor EU/EFTA-landene. Internasjonale fellesgrader er dessuten en politisk prioritering som
-innebærer det å få internasjonale studenter til
-gradsstudier, selv om fellesgrader også dreier seg
-om semestermobilitet mellom de involverte institusjonene.10
-Det har imidlertid ikke til nå vært utformet
-nasjonale mål eller strategier for internasjonale
-gradsstudenter i Norge. For å oppnå en mer helhetlig nasjonal politikk for rekruttering av internasjonale gradsstudenter, er det viktig med en god
-balanse mellom ulike politikkområder, og i rekrutteringen av internasjonale studenter må det formidles tydelige og enhetlige signaler.
-
-7.2.1
-
-Retur og videre opphold i Norge
-
-Studenter fra EU/EFTA-området som følger
-undervisningen hos en godkjent utdanningsinstitusjon i Norge har oppholdsrett11 og trenger ikke
-søke om oppholdstillatelse i Norge. De må imidlertid registrere seg hos utlendingsmyndighetene
-hvis de skal studere i Norge i mer enn tre måneder. I tillegg må de ha sykeforsikring og tilstrekkelige midler til å dekke sitt underhold.
-Studenter fra land utenfor EU/EFTA-området
-må søke om oppholdstillatelse for studenter. Slik
-oppholdstillatelse som student innvilges under
-«en klar forutsetning om at søkeren skal forlate
-Norge ved tillatelsens utløp». 12 Utlendingsmyndighetene skal vurdere søkerens «returforutsetninger», og i denne vurderingen skal «både individu10
-
-11
-12
-
-Hovedtanken bak EUs Erasmus Mundus-program var å
-skape attraktive engelskspråklige mastergrader for å tiltrekke seg studenter fra resten av verden.
-Utlendingsdirektoratet (2011).
-Utlendingsdirektoratet (2010)
-
-[Side 93]
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-elle forhold ved søkeren og generelle forhold i
-søkerens hjemland være av betydning».
-Forutsetningen om at søkeren skal forlate
-Norge når tillatelsen utløper, er imidlertid ikke
-absolutt. Siden 2001 er regelverket liberalisert i
-flere omganger, og de som avlegger en grad, kan
-under visse forutsetninger søke om å få bli i
-Norge i tolv måneder for å finne arbeid eller starte
-opp egen virksomhet.13 Til sammenligning gir
-Tyskland de internasjonale studentene som har
-avlagt grad i landet, tre år til å finne arbeid eller
-starte opp egen virksomhet.
-Tyskland, som i likhet med Norge ikke tar
-skolepenger fra internasjonale studenter, har som
-mål å tiltrekke seg flere gode studenter fra hele
-verden, og å få dem til å bli og jobbe i landet etter
-studiene.14 Det er del av Tysklands strategi for å
-forbli en av de mest innovative og konkurransedyktige kunnskapsøkonomiene i verden.
-Mange av de internasjonale gradsstudentene
-som kommer til Norge, vurderer eller har et
-ønske om å bli værende i Norge og arbeide etter
-endt utdanning, og andelen har økt de siste årene.
-I en undersøkelse fra Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning
-(Diku) blant internasjonale studenter i 2019 oppga
-så mange som 70 prosent av gradsstudentene at
-de ønsket dette, mot 62 prosent i 2016.15
-
-7.2.2 De rette søkerne?
-Tallmessig er tilgangen på internasjonale gradsstudenter som søker seg til Norge, god.16 Men et
-stort antall søkere er ikke uten videre et uttrykk
-for at institusjonene klarer å tiltrekke seg de studentene de helst vil ha. Det at det norske arbeidet
-med å tiltrekke seg studenter ikke er strategisk
-innrettet, kan bidra til at institusjonene ikke får de
-studentene de helst ønsker, og at tilgangen på
-internasjonale studenter i liten grad følger nasjonale geografiske prioriteringer eller er relevant
-med tanke på hvilken kompetanse Norge har
-mest behov for. Dikus undersøkelse blant de norske universitetene og høyskolene viser at et stort
-antall søkere ikke nødvendigvis oppfattes som et
-13
-
-Ifølge EUs student- og forskerdirektiv fra 2016 skal studenter ha rett til å bli i minst ni måneder etter at de har avlagt
-eksamen, for å få seg jobb eller etablere en virksomhet.
-14
-DAAD (2019).
-15
-Diku (2019g).
-16
-«Mange utenlandske studenter kommer også til Norge for
-å ta en hel grad. Sammenlignet med andre land har norske
-universiteter og høyskoler stor pågang fra utenlandske
-søkere, særlig til mastergradsutdanninger som undervises
-på engelsk» (Meld. St. 16 (2016–2017) Kultur for kvalitet i
-høyere utdanning, s. 65).
-
-91
-
-gode av institusjonene. Institusjonene savner
-bedre søkere og flere søkere fra de landene de
-har mest faglig samarbeid med, ikke minst fra
-EU/EFTA-området.17 Strategiske grep på institusjonsnivå og klare nasjonale signaler kan gi en felles retning på arbeidet.
-Det kan være flere grunner til at Norge til nå
-har lagt mindre vekt på rekruttering av internasjonale gradsstudenter enn land i våre omgivelser.18
-Det at Norge ikke har studieavgifter, kan være ett
-element, den sterke økonomiske situasjonen et
-annet. I Sverige, der antallet studenter fra utenfor
-Europa falt kraftig etter at landet innførte studieavgifter i 2011, har både utdanningsmyndighetene og
-institusjonene selv sett det som nødvendig å sette
-inn ressurser og ha en mer aktiv politikk for å forsøke å gjenopprette antallet internasjonale studenter, eksempelvis gjennom økt markedsføring og stipendprogrammer. Imidlertid er det noen land,
-blant annet Tyskland, som ikke har studieavgifter,
-og som samtidig har en aktiv politikk for å tiltrekke
-seg internasjonale gradsstudenter.19
-Samarbeid mellom utdanningsinstitusjoner og
-tiltak for økt studentutveksling har utgjort kjernen i norsk internasjonaliseringspolitikk de siste
-ti årene. Det å tiltrekke seg gradsstudenter har i
-liten grad vært en politisk prioritering. Andre
-lands mer aktive politikk på området fører til økt
-konkurranse om internasjonale gradsstudenter.
-Norge bør innta en tydeligere posisjon for å være
-rustet til å rekruttere de mest attraktive internasjonale studentene.
-
-7.2.3
-
-Rekruttering med tanke på Norges
-kompetansebehov
-Nesten halvparten av EU-landene prioriterer både
-det å tiltrekke seg internasjonale studenter, særlig
-gradsstudenter, og det å få dem til å bli etter at de
-har avlagt en grad.20 En mer bevisst rekrutteringspolitikk må utformes for å møte behov på
-tvers av sektorer og vurdere og rangere flere hensyn: kunnskapspolitiske (tiltrekke seg de beste
-studentene, eller de fra våre prioriterte samarbeidsland), arbeids- og næringspolitiske (innovative studenter, innenfor visse fagområder, fra land
-som norsk næringsliv har mye samarbeid og handel med), innvandringspolitiske (unngå at oppholdstillatelse som student blir utnyttet for andre
-formål, fremme ønsket og hindre uønsket arbeids17
-18
-19
-20
-
-SIU (2018a).
-British Council (2019), Europakommisjonen (2019b).
-DAAD (2019).
-Europakommisjonen (2019b).
-
-[Side 94]
-
-92
-
-Meld. St. 7
-En verden av muligheter
-
-innvandring), bistandspolitiske (tiltrekke seg studenter og utdanne dem, kapasitetsbygging, unngå
-hjerneflukt) og utenrikspolitiske (nettverk og
-diplomatiske forbindelser i nåværende og fremtidige samarbeidsland).
-Ideen om en mer aktiv politikk på området er
-lansert tidligere. I regjeringens strategi for
-eksport og internasjonalisering fra 201721 argumenteres det for at studentmobilitet, både innkommende og utgående, bør bli sett på som en
-langsiktig investering i det å videreutvikle Norge
-som kunnskapsnasjon. I strategien vises det til en
-global kamp om «dei kloke hovuda» og om å
-rekruttere «dei mest talentfulle studentane» i verden. Dels ses rekrutteringen her i sammenheng
-med langtidsplanen for forskning og utdanning22
-og ambisjonene om å bygge verdensledende fagmiljøer. Dels er tanken om forsterket rekruttering
-knyttet til å styrke Norges omdømme og å øke
-landets attraktivitet for utenlandske investeringer
-og bedrifter. Strategien er utgitt av Nærings- og
-fiskeridepartementet men underskrevet av seks
-ministre – for henholdsvis næring, fiskeri, utenriks, olje og energi, miljø og klima, og kunnskap.
-Det å rekruttere talentfulle studenter til Norge og
-å tilrettelegge for at de kan jobbe i landet under og
-særlig etter utdanningen, er viktige tiltak med
-tanke på Norges kompetansebehov.
-
-7.2.4 Vurderinger og tiltak
-– Regjeringen vil ha en tydeligere og mer strategisk nasjonal politikk for hvilke internasjonale
-gradsstudenter Norge skal tiltrekke seg, og vil
-derfor opprette en arbeidsgruppe som skal vurdere en mer bevisst politikk overfor utenlandske gradsstudenter ved norske institusjoner.
-Politikken skal bygge på overordnede kunnskaps-, nærings-, innvandrings-, bistands- og
-sikkerhetspolitiske føringer og rammer.
-Utmeislingen av en slik politikk skal skje med
-tanke på nasjonale kompetansebehov hvor
-også aktører utenfor universiteter og høyskoler skal delta, som Nærings- og fiskeridepartementet, Landbruks- og matdepartementet,
-Arbeids- og sosialdepartementet, Kommunalog moderniseringsdepartementet, Justis og
-beredskapsdepartementet, Forsvarsdepartementet, Utenriksdepartementet og partene i
-arbeidslivet. Utredningen skal bygge på de
-overordnede nasjonale prioriteringene som går
-21
-22
-
-Nærings- og fiskeridepartementet (2017).
-Meld. St. 4 (2018–2019) Langtidsplan for forskning og høyere
-utdanning 2019–2028.
-
-–
-
-2020–2021
-
-frem av langtidsplanen for forskning og utdanning (jf. Meld. St. 4 (2018–2019)) og av strategien for eksport og internasjonalisering (jf.
-Nærings- og fiskeridepartementet 2017).
-Regjeringen vil at mulighetene for å søke jobb
-eller starte opp egen virksomhet i Norge i ett år
-etter at man har avlagt en grad, gjøres mer synlig i arbeidet for å tiltrekke seg studenter.
-Regjeringen oppfordrer Diku og utdanningsinstitusjonene til å informere internasjonale
-gradsstudenter om denne muligheten.
-
-7.3
-
-Antall, opprinnelse og studiested
-
-I 2015 kom det fire ganger så mange studenter
-med utenlandsk statsborgerskap i Norge som i
-2000. En del av disse kom hit opprinnelig av andre
-grunner enn studier, for eksempel for å jobbe,
-som flyktninger eller sammen med utenlandske
-foreldre. Om man ser bort fra disse, har det likevel vært en kraftig vekst. I stedet for tall for utenlandske statsborgere brukes det her tall for det
-OECD kaller internasjonale gradsstudenter, som er
-de studentene som man antar har kommet til
-Norge med det formålet å studere til en grad. Delgradsstudenter og utenlandske gradsstudenter
-som har kommet til Norge av andre grunner enn
-studier, holdes altså utenfor.
-Etter noe nedgang fra 2015 til 2017 økte tallet
-på internasjonale gradsstudenter i Norge igjen i
-2018 og 2019 til drøyt 12 300. Figur 7.1. viser de
-landene som det kommer flest fra.23
-Også antallet russiske gradsstudenter har gått
-ned, og er mer enn halvert de siste fem årene. En
-av grunnene til dette er avviklingen av kvoteordningen for studenter fra utviklingsland, land på
-Vest-Balkan, i Øst-Europa og i Sentral-Asia, som
-frem til 2015 omfattet omtrent 150 russiske studenter; i 2018 var det færre enn 20 som fortsatt
-var inne i ordningen.24 Land i Afrika hadde i 2018
-drøyt 900 gradsstudenter i Norge, noe som er like
-mange som ti år tidligere. Det viser at kvoteordningen hadde begrenset betydning for å trekke
-studenter fra afrikanske land til Norge.
-Tabell 7.1 viser antallet internasjonale gradsstudenter ved norske universiteter og høyskoler.
-Universitetet i Oslo og Norges teknisk-naturvitenskapelige universitet (NTNU) mottar klart flest,
-henholdsvis 1 844 og 2 093.
-Flest studenter kommer det (per 2019) fra
-Kina og Sverige, fulgt av Tyskland og Danmark. I
-23
-24
-
-Diku (2020b).
-Diku (2018).
-
-[Side 95]
-
-2020–2021
-
-93
-
-Meld. St. 7
-En verden av muligheter
-
-1 400
-1 200
-1 000
-800
-600
-400
-200
-0
-2013
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-Kina
-
-Nepal
-
-Sverige
-
-Tyskland
-
-India
-
-Iran
-
-Danmark
-
-Syria
-
-2019
-
-Figur 7.1 Internasjonale gradsstudenter i Norge 2013–2018. De åtte største senderlandene per 2019
-Tallene omfatter studenter som har videregående utdanning fra utlandet eller utenlandsk landbakgrunn i SSB eller utenlandsk
-statsborgerskap. Utvekslingsstudenter og studenter som har bodd i Norge i mer enn fem år på telletidspunktet, er holdt utenfor.
-Kilde: Statistisk sentralbyrå, utdanningsstatistikk.
-
-2015 var det klart flest svensker, men i årene etter
-sank antallet. Nedgangen sammenfaller med en
-parallell reduksjon i arbeidsinnvandring fra Sve-
-
-rige. Det skyldes blant annet at arbeidsledigheten
-gikk ned i Sverige i perioden.
-
-Tabell 7.1 Internasjonale gradsstudenter i Norge, per institusjon 2013–19 og andel av registrerte studenter 2019
-
-2013
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-Internasj.
-2019 i %
-av antall
-
-Kunsthøgskolen i Oslo
-
-93
-
-106
-
-123
-
-125
-
-136
-
-146
-
-150
-
-26 %
-
-Norges musikkhøgskole
-
-104
-
-102
-
-117
-
-114
-
-124
-
-125
-
-124
-
-16 %
-
-Arkitektur- og designhøgskolen i
-Oslo
-
-78
+# Innkommende utvekslingsstudenter
 
-80
+## Flere studenter ut, flere studenter inn
 
-114
+Gjennom Bologna-prosessen har Norge forpliktet seg til at innen 2020 skal 20 prosent av studentene ha et studie- eller praksisopphold i utlandet. På sikt ønsker altså regjeringen at dette skal gjelde ikke bare 20, men 50 prosent av studentene. Målet som er satt i Bologna-prosessen, gjelder utreisende studenter; det er ikke satt et tilsvarende mål for andelen innkommende studenter verken på europeisk nivå eller i Norge. Selv om det ikke er satt et mål for antallet innkommende studenter, er grunntanken bak studentutveksling at det skal være tilnærmet balanse i antallet inn- og utreisende studenter, derav betegnelsen «utveksling». Det vil si at det ligger som et utgangspunkt at antallet inn- og utreisende studenter ved en institusjon bør være av noenlunde samme størrelsesorden. I det internasjonale samarbeidet ligger det altså til grunn en tanke om gjensidighet. Når regjeringen nå setter et mål om at 50 prosent av norske studenter skal ha et studieopphold i utlandet i løpet av studietiden, må Norge i et gjensidighetsperspektiv også være beredt på å ta imot flere utenlandske utvekslingsstudenter.
 
-116
+Det er likevel et faktum at studentstrømmene i Europa i større grad går fra øst mot vest enn omvendt, og i Bologna-prosessen har landene blitt enige om å jobbe for å oppnå en bedre geografisk balanse i studentmobiliteten.[^103] I dag ser man tendenser til at noen land i Europa blir klare mottakerland; det vil si at de mottar svært mange flere studenter enn de sender ut. Dette gjelder særlig Storbritannia, Danmark og Nederland. Andre land blir rene utsendelsesland som mottar få studenter, men sender ut mange. Dette gjelder særlig landene på Balkan, som Moldova, Kroatia og Albania, i tillegg til Aserbajdsjan og Andorra.[^104] I denne sammenhengen hører Norge til landene som sender ut betydelig flere studenter enn de tar imot. Det er verdt å merke seg at i disse tallene er også gradsstudentene medregnet, altså studentene som tar hele graden sin i et annet land. For Norges del skyldes ubalansen i disse tallene at det reiser mange flere norske gradsstudenter ut enn det kommer internasjonale gradsstudenter til Norge, ca. 16 000 ut mot ca. 12 300 inn.[^105]
 
-118
+Ser man kun på utvekslingsstudenter og ikke tar med de som tar en hel grad, er bildet motsatt. Ifølge tallene i *Tilstandsrapporten for høyere utdanning 2020* var det ca. 7 400 norske utvekslingsstudenter i utlandet. Antallet innreisende utvekslingsstudenter til Norge var på sin side drøyt 8 700.[^106] Det var altså en klar overvekt av innreisende utvekslingsstudenter til Norge i 2019.
 
-105
+Innreisende utvekslingsstudenter til Norge, 2010–19. Antall
 
-97
+11J1xt2
 
-13 %
+|        |  2010 |  2011 |  2012 |  2013 |  2014 |  2015 |  2016 |  2017 |  2018 |  2019 |
+|--------|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|
+| Antall | 5 711 | 5 906 | 6 375 | 6 583 | 6 935 | 7 666 | 8 478 | 8 683 | 8 950 | 8 767 |
 
-MF vitenskapelig høyskole for
-teologi, religion og samfunn
+Studenter som er på utveksling under en individbasert avtale, er ikke medregnet.
 
-66
+Norsk senter for forskningsdata.
 
-57
+Mange land har en aktiv politikk for å tiltrekke seg utenlandske studenter, og bruker kampanjer, dedikerte nettsteder, utenrikstjenesten og studenter som tidligere har vært utvekslingsstudenter i landet, men nå har reist hjem, for å øke antallet innreisende studenter.[^107] Enkelte av kampanjene retter seg mest mot innreisende gradsstudenter, men for eksempel Tysklands kampanje «Study in Germany – land of ideas» har også delgradsstudenter som målgruppe. Også Nederland har hatt en klar strategi for å tiltrekke seg flere internasjonale studenter gjennom kampanjene «Make it in the Netherlands» og «Study in Holland», og Sverige har det samme gjennom nettstedet «Study in Sweden» og aktiv bruk av *Svenska institutet* [^108].
 
-209
+Innreisende utvekslingsstudenter til Norge i perioden 2016–2019 etter type avtale.
 
-225
+05J1xt2
 
-228
+| Utvekslingsavtale  |  2016 |  2017 |  2018 |  2019 |
+|--------------------|------:|------:|------:|------:|
+| Erasmus+           | 5 977 | 6 392 | 6 658 | 6 724 |
+| Bilaterale avtaler | 1 433 | 1 473 | 1 610 | 1 486 |
+| Nordplus           |   238 |   254 |   262 |   204 |
+| Andre avtaler      |   830 |   564 |   420 |   353 |
+| Sum                | 8 478 | 8 683 | 8 950 | 8 767 |
 
-189
+Merk: Studenter som er på utveksling under en individbasert avtale, er ikke medregnet.
 
-154
+Norsk senter for forskningsdata.
 
-12 %
+\[:figur:fig5-1.jpg\]
 
-Samisk høgskole
+Forholdet mellom innreisende og utreisende studenter ved norske universiteter og høyskoler
 
-26
+Merknad: Institusjoner der antall innreisende og/eller utreisende er 3 eller lavere er holdt utenom pga personvernhensyn.
 
-30
+Et mål om at 50 prosent av norske studenter skal ha et utvekslingsopphold i utlandet, aktualiserer spørsmålet om balanse i antallet inn- og utreisende studenter. Dersom 50 prosent av norske studenter skal reise ut, vil det å tiltrekke seg flere internasjonale studenter bli viktig for å få en tilnærmet balanse i utvekslingen. Flere aktører som har gitt innspill til stortingsmeldingen, viser til viktigheten av gjensidighet i studentutvekslingen, og de spør nettopp om hvilke konsekvenser en slik økning i antallet utreisende studenter vil kunne få for institusjonene, særlig økonomisk, dersom ikke antallet innkommende studenter øker tilsvarende. Universitets- og høgskolerådet (UHR) skriver for eksempel i sitt innspill at et mål om at halvparten av studentene skal reise ut, bør følges opp med et mål om å ta imot like mange studenter til Norge.[^109]
 
-34
+Gjensidighet og balanse i studentutvekslingen er også en sentral del av institusjonelle partnerskap og et viktig element i internasjonale samarbeidsprogrammer som UTFORSK.[^110] En foreløpig rapport om studentmobilitet mellom Norge og Panorama-landene, viser at man gjennom UTFORSK-programmet samlet sett har klart å oppnå meget god balanse i mobiliteten mellom Norge og Panorama-landene selv om det er forskjeller mellom landene.[^111] Dette viser at man gjennom programmer som UTFORSK kan lykkes godt med balanse i studentmobiliteten.
 
-37
+Med et mål om å sende 50 prosent av norske studenter på et opphold i utlandet i løpet av studietiden, må norske høyere utdanningsinstitusjoner være klare til å ta imot og arbeide aktivt for å tiltrekke seg innreisende utvekslingsstudenter. Mange norske institusjoner jobber godt med å tiltrekke seg utenlandske utvekslingsstudenter, men det er store forskjeller mellom institusjonene, og enkelte institusjoner har ingen innreisende utvekslingsstudenter.
 
-39
+Selv om institusjonene jobber målrettet også med å tiltrekke seg utvekslingsstudenter, er fullstendig balanse i studentmobiliteten vanskelig å se for seg, og få land har derfor satt mål for antallet innreisende utvekslingsstudenter. Regjeringen ønsker heller ikke å sette et mål for antallet innreisende utvekslingsstudenter til Norge, men vil at norske høyere utdanningsinstitusjoner fortsatt jobber målrettet for å tiltrekke seg slike studenter.
 
-30
+### Vurderinger og tiltak
 
-19
+- Regjeringen vil at norske høyere utdanningsinstitusjoner fortsatt skal jobbe målrettet for å tiltrekke seg flere internasjonale utvekslingsstudenter, både gjennom sine samarbeidsavtaler med utenlandske universiteter og gjennom programmer som Erasmus+ (ved deltakelse i programmet i perioden 2021–2027), Nordplus, UTFORSK og Dikus kvalitetsprogrammer.
 
-11 %
+## Faktorer studenter oppgir for valg av Norge som studieland
 
-Andre høgskoler1
+Det er ulike grunner til at utenlandske studenter velger Norge som studieland. Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku) gjennomfører jevnlig en spørreundersøkelse blant internasjonale studenter i Norge om deres grunner for å velge Norge som studieland, og deres forventninger til og erfaringer med å studere i Norge.[^112] Rapporten fra 2016 viser at engelskspråklige studieprogrammer er den viktigste faktoren for at utenlandske studenter velger Norge som studieland, fulgt av nasjonale kvaliteter som norsk natur og uberørt landskap.[^113] Undersøkelsen viser også at det er flere studenter som velger Norge som studieland på grunn av kvaliteter ved norsk utdanning, enn det er som velger det på grunn av nasjonale kvaliteter som norsk natur. Samtidig viser undersøkelsen at kombinasjonen av disse faktorene er svært viktig. Dette er interessante og viktige funn med tanke på hvilke elementer universitetene og høyskolene bør legge vekt på i arbeidet med å rekruttere studenter. Undersøkelsen omfatter både grads- og utvekslingsstudenter, men utvekslingsstudentene utgjorde over 60 prosent av respondentene.
 
-273
+I undersøkelsen for 2019 var kun 43 prosent av respondentene utvekslingsstudenter, men resultatene er i stor grad de samme som i tidligere undersøkelser: Kvaliteten på utdanningen og engelskspråklige studieprogrammer, i tillegg til norsk natur, oppgis som de største motivasjonsfaktorene for å studere i Norge, sammen med det at Norge er et trygt og fredfullt land.[^114] I undersøkelsen fra 2019 rangeres norsk natur enda høyere som motivasjonsfaktor for utvekslingsstudenter enn kvalitet i utdanningen. Når det gjelder hva som bestemmer valg av institusjon, svarer 73 prosent av utvekslingsstudentene at det er viktig at den norske institusjonen har en institusjonell avtale med hjemmeinstitusjonen, fulgt av muligheten for å studere et spesielt fag og kvaliteten på utdanningen.
 
-329
+Innreisende utvekslingsstudenter 2010–2019. 10 største senderland per 2019. Rangert etter høyeste antall 2019
 
-286
+11J1xt2
 
-243
+|               |  2010 |  2011 |  2012 |  2013 |  2014 |  2015 |  2016 |  2017 |  2018 |  2019 |
+|---------------|------:|------:|------:|------:|------:|------:|------:|------:|------:|------:|
+| Tyskland      |   954 | 1 018 | 1 122 | 1 163 | 1 239 | 1 410 | 1 538 | 1 678 | 1 685 | 1 837 |
+| Frankrike     |   607 |   724 |   774 |   758 |   846 |   896 | 1 071 | 1 161 | 1 243 | 1 185 |
+| Nederland     |   291 |   279 |   316 |   312 |   319 |   471 |   558 |   624 |   667 |   689 |
+| Italia        |   261 |   286 |   250 |   285 |   320 |   367 |   427 |   443 |   573 |   586 |
+| Spania        |   427 |   500 |   545 |   579 |   520 |   482 |   573 |   586 |   613 |   580 |
+| Belgia        |   107 |    97 |   145 |   137 |   152 |   193 |   227 |   270 |   238 |   259 |
+| USA           |   189 |   215 |   197 |   186 |   174 |   229 |   296 |   315 |   304 |   258 |
+| Danmark       |   120 |   131 |   145 |   172 |   240 |   245 |   252 |   302 |   279 |   242 |
+| Storbritannia |   116 |    96 |   171 |   152 |   153 |   152 |   209 |   215 |   235 |   229 |
+| Østerrike     |   148 |   158 |   147 |   177 |   157 |   208 |   202 |   229 |   212 |   219 |
+| Andre         | 2 491 | 2 402 | 2 563 | 2 662 | 2 815 | 3 013 | 3 125 | 2 860 | 2 901 | 2 683 |
+| Total         | 5 711 | 5 906 | 6 375 | 6 583 | 6 935 | 7 666 | 8 478 | 8 683 | 8 950 | 8 767 |
 
-276
+Tabellen viser totalt antall innreisende utvekslingsstudenter på årsbasis, med unntak av individbaserte avtaler og programmer på forskerutdanning.
 
-303
+Norsk senter for forskningsdata.
 
-392
+I begge undersøkelsene oppgir studentene at internett er deres viktigste kilde til informasjon om Norge som studieland, fulgt av institusjonenes egne hjemmesider og faglig og administrativt ansatte ved hjemmeinstitusjonen. I undersøkelsen fra 2019 oppgir utvekslingsstudentene også andre studenter som en viktig kilde til informasjon. Nettsiden *Study in Norway* er i mye større grad en kilde til informasjon for gradsstudenter enn for utvekslingsstudenter. Det er naturlig ettersom denne nettsiden i stor grad omfatter informasjon om hele engelskspråklige studieprogrammer ved norske institusjoner, men i liten grad har informasjon om engelskspråklige kurs og utvekslingsmuligheter i Norge. Et felles nettsted med informasjon om utvekslingsmuligheter i Norge finnes ikke, ettersom dette i stor grad er opp til institusjonene selv.
 
-9%
+### Vurderinger og tiltak
 
-Norges miljø- og biovitenskapelige
-universitet
+- Regjeringen vil vurdere om Diku bør få en tydeligere rolle i å samordne og forvalte informasjon til innreisende utvekslingsstudenter for å gjøre informasjonen bedre og lettere tilgjengelig for disse studentene. I forbindelse med dette vil det også kunne være aktuelt å gi Diku i oppdrag å gi råd om rekrutteringstiltak rettet mot denne gruppen.
 
-698
+## Internasjonale utvekslingsstudenter i det norske studiemiljøet
 
-703
+Meld. St. 16 (2016–2017) *Kultur for kvalitet i høyere utdanning* satte som mål at studentene i norsk høyere utdanning bør være i et læringsmiljø som også omfatter utenlandske studenter. Selv om utvekslingen fra Norge øker betydelig fremover, vil dette målet bare kunne nås dersom de norske studentene som ikke har mulighet til å reise ut, møter og samhandler med internasjonale studenter i sin studiehverdag i Norge.
 
-668
+Norske studenter som har et studieopphold i utlandet i løpet av studietiden, bringer med seg internasjonal erfaring til hjemmeinstitusjonen og også erfaring med andre måter å undervise og lære på fra sitt opphold ved en utenlandsk institusjon. Utenlandske studenter ved norske institusjoner vil kunne bidra med noe av det samme til norske institusjoner ved at de bringer med seg andre måter å lære på, ved at de stiller spørsmål ved måten det undervises på ved norske institusjoner, og ved at de bringer med seg andre faglige og sosiale perspektiver. Slik bidrar internasjonale studenter med nye perspektiver og internasjonal kompetanse og erfaring til norske institusjoner. Internasjonale utvekslingsstudenter er en ressurs for norske høyere utdanningsinstitusjoner, og deres erfaring og kompetanse kan i enda større grad benyttes i internasjonaliseringen av norske institusjoner og norske studenter.
 
-634
+Studier fra både Norge og andre land viser imidlertid at det ikke er tilstrekkelig bare å motta studenter fra utlandet for å skape et virkelig internasjonalt læringsmiljø der hjemlige og internasjonale studenter møtes faglig og sosialt.[^115] Det skyldes flere forhold, men blant de viktigste i norsk sammenheng er språk og boligpolitikk.
 
-536
+Internasjonale studenter kan med noen få unntak ikke ha norsk som undervisningsspråk, og engelskspråklige tilbud er derfor en forutsetning for at de skal komme til Norge. Det er imidlertid en utfordring at norske og utenlandske studenter i mange tilfeller følger atskilte studietilbud; undersøkelser tyder på at norske studenter i mange tilfeller velger bort engelskspråklige tilbud der det er mulig. Dette er et funn blant annet i EUROMA-prosjektet, hvor det kommer frem at det tilbys parallelle studieprogrammer med både en integrert femårig mastergrad på norsk og en 3+2 variant der masterdelen foregår på engelsk. Ekspertpanelene i prosjektet mente dette kunne bidra til å segregere norske og utenlandske studenter.[^116] Undersøkelser rettet mot internasjonale studenter i Norge nyanserer bildet av atskilte studieløp noe. Dikus rapport *International Students in Norway. Contributors to Quality in Higher Education,* viser at utenlandske studenter i gjennomsnitt oppgir at mellom 40 og 50 prosent av medstudentene i studieprogrammet eller kurset er norske.[^117] Tallene er omtrent like for utvekslingsstudenter og gradsstudenter.[^118] Den mest vellykkede innkommende studentmobiliteten, med tanke på samhandling, er den der innreisende studenter tar de samme emnene som norske studenter. Når studieprogrammene har et bestemt semester avsatt til enten et utenlandsopphold eller et internasjonalt semester med undervisning på engelsk for de norske studentene, kan det være enklere å inkludere de internasjonale utvekslingsstudentene, siden de norske og de internasjonale studentene da kan ta de samme emnene. Men også i tilfeller der de nasjonale og de internasjonale studentene følger det samme studietilbudet, ser vi at det er en utfordring å sikre god samhandling og å etablere et fellesskap både faglig og sosialt mellom de norske og de internasjonale studentene. Dette kommer tydelig frem i Studiebarometeret fra 2017 som viser at samhandlingen mellom norske og utenlandske studenter er for svak.[^119] For å oppnå de ønskede effektene, må institusjonene jobbe systematisk for å sørge for bedre interaksjon og samhandling mellom norske og utenlandske studenter på en rekke områder.
 
-513
+Svak faglig og sosial samhandling er ikke nødvendigvis noe problem for de internasjonale studentene. Disse studentene møter mennesker fra hele verden når de er i Norge, og opplever således internasjonale impulser og kan tilegne seg interkulturell kompetanse. For norske institusjoner og for studenter som ikke reiser ut, er dette imidlertid en dårlig utnyttelse av den ressursen internasjonale studenter representerer.
 
-458
+### Vurderinger og tiltak
 
-8%
+- Regjeringen forventer at institusjonene blir flinkere til å utnytte ressursen de internasjonale studentene representerer med tanke på å skape en internasjonal dimensjon ved norske universiteter og høyskoler. Blant annet bør institusjonene legge bedre til rette for samhandling mellom norske og internasjonale studenter.
 
-1 793
+## Boliger for utenlandske utvekslingsstudenter
 
-1 829
+Utenlandske studenter som kommer til Norge, har ved de aller fleste studentsamskipnader fortrinnsrett på studentbolig. Dette er nokså naturlig, siden det vil være vanskelig for utenlandske studenter å skulle finne bolig på det private markedet. Innreisende utvekslingsstudenter som kommer til Norge i ett semester, kommer ofte til Norge for å studere i høstsemesteret, og de benytter dermed studentboligen bare i høstsemesteret. Norske studenter drar på sin side ofte på utveksling i vårsemesteret. Et resultat av dette er at mange studentboliger står tomme i vårsemesteret (såkalt «tomgang»), siden det er vanskelig for studentsamskipnadene å få leid ut studentboliger bare for vårsemesteret. Dette er økonomisk utfordrende for samskipnadene og dårlig ressursutnyttelse. Norske studenter som ønsker å reise på utveksling, oppgir frykt for at de skal miste studentboligen sin i tiden de er ute som ett av hindrene for å reise ut. Disse studentene kan etter visse regler leie ut studentboligen sin i perioden de er på utveksling. Her ligger det et uutnyttet handlingsrom for å samordne reglene og prosessene knyttet til studentboliger for henholdsvis utreisende norske studenter og innreisende utenlandske utvekslingsstudenter. Institusjonene og studentsamskipnadene må i fellesskap legge til rette for god samordning av disse prosessene. Studenter som ønsker å reise ut, må få god informasjon om mulighetene som finnes for å fremleie sine studentboliger, og institusjonene og samskipnadene må i fellesskap legge til rette for og gjøre det så enkelt som mulig å fremleie studentboliger.
 
-1 903
-
-1 900
-
-1 871
-
-1 910
-
-1 844
-
-7%
-
-Universitetet i Stavanger
-
-669
-
-711
-
-750
-
-742
-
-836
-
-809
-
-786
-
-7%
-
-Norges handelshøyskole
-
-456
-
-231
-
-200
-
-198
-
-205
-
-205
-
-238
-
-7%
-
-Universitetet i Bergen
-
-823
-
-854
-
-890
-
-878
-
-941
-
-955
-
-1 058
-
-6%
-
-1 045
-
-1 111
-
-1 164
-
-950
-
-1 005
-
-956
-
-915
-
-6%
-
-Universitetet i Oslo
-
-Universitetet i Tromsø – Norges
-arktiske universitet
-
-[Side 96]
-
-94
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-Tabell 7.1 Internasjonale gradsstudenter i Norge, per institusjon 2013–19 og andel av registrerte studenter 2019
-
-2013
-
-2014
-
-2015
-
-2016
-
-2017
-
-2018
-
-2019
-
-Internasj.
-2019 i %
-av antall
-
-883
-
-876
-
-865
-
-829
-
-923
-
-992
-
-1018
-
-5%
-
-2 175
-
-2 474
-
-1 877
-
-1 990
-
-1 968
-
-1 982
-
-2 093
-
-5%
-
-Nord universitet
-
-547
-
-494
-
-571
-
-695
-
-639
-
-524
-
-434
-
-4%
-
-Universitetet i Sørøst-Norge
-
-527
-
-587
-
-649
-
-680
-
-703
-
-607
-
-626
-
-3%
-
-Høgskolen i Molde, vitenskapelig
-høgskole i logistikk
-
-64
-
-98
-
-101
-
-87
-
-101
-
-127
-
-81
-
-3%
-
-Universitetet i Agder
-
-261
-
-251
-
-284
-
-280
-
-254
-
-329
-
-349
-
-3%
-
-OsloMet – storbyuniversitetet
-
-525
-
-607
-
-538
-
-509
-
-465
-
-478
-
-545
-
-3%
-
-Politihøgskolen
-
-2
-
-6
-
-6
-
-3
-
-19
-
-40
-
-65
-
-2%
-
-Høgskolen i Østfold
-
-83
-
-96
-
-69
-
-119
-
-90
-
-123
-
-129
-
-2%
-
-Høgskulen i Volda
-
-64
-
-66
-
-71
-
-64
-
-69
-
-77
-
-73
-
-2%
-
-VID vitenskapelige høgskole
-
-85
-
-89
-
-96
-
-77
-
-69
-
-72
-
-78
-
-2%
-
-Høgskolen i Innlandet
-
-162
-
-196
-
-234
-
-250
-
-261
-
-219
-
-223
-
-2%
-
-NLA Høgskolen
-
-14
-
-13
-
-25
-
-24
-
-42
-
-41
-
-39
-
-1%
-
-Norges idrettshøgskole
-
-20
-
-34
-
-25
-
-20
-
-25
-
-21
-
-14
-
-1%
-
-Dronning Mauds Minne Høgskole
-for barnehagelærerutdanning
-
-5
-
-5
-
-9
-
-8
-
-3
-
-6
-
-18
-
-1%
-
-Høyskolen Kristiania
-
-72
-
-96
-
-99
-
-103
-
-72
-
-80
-
-108
-
-1%
-
-Høgskulen på Vestlandet
-
-216
-
-207
-
-275
-
-266
-
-189
-
-159
-
-168
-
-1%
-
-Bjørknes Høyskole AS
-
-10
-
-3
-
-9
-
-8
-
-5
-
-7
-
-9
-
-0%
-
-Forsvarets høgskole
-
-7
-
-7
-
-10
-
-5
-
-4
-
-5
-
-1
-
-0%
-
-Handelshøyskolen BI
-Norges teknisk-naturvitenskapelige universitet
-
-Sum
-
-11 846 12 348 12 271 12 179 12 216 12 135 12 306
-
-Tallene omfatter studenter som har videregående utdanning fra utlandet eller utenlandsk landbakgrunn i SSB eller utenlandsk
-statsborgerskap. Utvekslingsstudenter og studenter som har bodd i Norge i mer enn fem år på telletidspunktet, er holdt utenfor.
-Tabellen inkluderer institusjoner som er i drift 2019, eller som har lagt ned etter 2013. Institusjoner som ila 2013–2019 er slått
-sammen med andre institusjoner eller har byttet navn vil ligge under nåværende(2019) institusjonsstruktur/navn.
-1
-Inneholder institusjoner som er lagt ned i perioden.
-Kilde: Statistisk sentralbyrå, utdanningsstatistikk
-
-De spesialiserte institusjonene har relativt sett
-flest internasjonale studenter: Kunsthøgskolen i
-Oslo, Norges musikkhøgskole og Arkitektur- og
-designhøgskolen i Oslo har henholdsvis 26, 16 og
-13 prosent, mens MF vitenskapelig høyskole og
-Samisk høgskole har i overkant av 10 prosent.
-Lavest andel internasjonale gradsstudenter,
-med under 2 prosent, er det på de statlige og de private høyskolene (Høgskulen på Vestlandet, Høyskolen Kristiania, Dronning Mauds Minne Høgskole, Norges idrettshøgskole og NLA Høgskolen).
-
-7.4
-
-Mer strategisk arbeid for å trekke
-utenlandske gradsstudenter til
-Norge
-
-I Kirke- utdannings- og forskningskomiteens
-behandling av statsbudsjettet for 2016 ba flertallet
-regjeringen om å «igangsette et arbeid med å etablere en egen strategi for hvordan Norge kan tiltrekke seg dyktige utenlandske gradsstudenter på
-masternivå».25 Rapporten som Kunnskapsdepartementet bestilte fra Senter for internasjonalise-
-
-[Side 97]
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-ring av utdanning (SIU), nå Diku,26 var et resultat
-av dette vedtaket, og regjeringen vil at arbeidet
-med en mer tydelig politikk på området tas videre.
-Internasjonale gradsstudenter bør rekrutteres av akademiske hensyn, slik som behovet for å
-ta opp gode studenter og behovet for å internasjonalisere studiene. Samtidig bør behovene til norsk
-arbeids- og næringsliv tas med i diskusjoner om
-hva som skal være formålet med å tiltrekke seg
-internasjonale gradsstudenter. Det gjelder hvordan man strategisk bør innrette ordningene for
-innkommende gradsstudenter, med tanke på både
-selve studietiden og tiden etterpå. Studier fra
-andre land viser at utenlandske studenter lønner
-seg samfunnsøkonomisk, også når man ser bort
-fra eventuelle studieavgifter. Det henger først og
-fremst sammen med at mange av disse studentene deltar i arbeidslivet under og etter studiene.
-
-7.4.1 Geografiske prioriteringer
-Det er et viktig skille mellom studenter fra innenfor og utenfor EU/EFTA-området. Rent praktisk
-er det i dag mye enklere for studenter fra EU-/
-EFTA-land enn for andre studenter å komme til
-Norge for ta en hel grad. Studenter fra andre land
-står overfor mer omfattende krav med hensyn til
-visum og oppholdstillatelse, noe som for dem gjør
-veien fra søknad til oppmøte lengre, mer usikker
-og mer kostbar, enn for studentene fra EU-/
-EFTA-området. Likevel kommer i dag 66 prosent
-av de internasjonale gradsstudentene fra land
-utenfor dette området.27 En del av institusjonene
-ønsker som omtalt ovenfor å tiltrekke seg flere
-europeiske studenter.
-Regjeringen vil at mastergradsstudenter fra
-EU/EFTA-land utgjør en større andel av de internasjonale gradsstudentene i Norge. Dette vil være
-i tråd med mange av innspillene fra sektoren til
-denne meldingen, og det vil kunne bidra til at flere
-blir og jobber i Norge etter avlagt grad, fordi det
-er praktisk enklere for personer fra EU/EFTAområdet både å studere og jobbe i Norge. En
-større vekt på Europa kan styrke både universitets- og høyskolesektoren og Norges internasjo25
-
-Innst. 12 S (2015–2016) Innstilling fra kirke-, utdannings- og
-forskningskomiteen om bevilgninger på statsbudsjettet for
-2016, kapitler under Kunnskapsdepartementet og Kulturdepartementet samt forskningskapitler under Nærings- og fiskeridepartementet og Landbruks- og matdepartementet (rammeområde 16), s. 71. Flertallet besto av medlemmene fra
-Arbeiderpartiet, Kristelig Folkeparti, Senterpartiet og Venstre.
-26
-SIU (2018a).
-27
-Diku (2019d). Beregnet ut fra tallene i tabell V2.37.
-
-95
-
-nale nettverk og posisjon i viktige samarbeidsland, og det kan bidra til felles europeiske mål om
-sirkulasjon av arbeidskraft.
-Det er imidlertid ikke et mål at mobiliteten av
-gradsstudenter til Norge skal begrenses til
-Europa og EU/EFTA-landene. Det å rekruttere
-faglig sterke studenter fra våre prioriterte samarbeidsland utenom Europa er et viktig tiltak for å
-realisere målene om internasjonalt kunnskapssamarbeid som er uttrykt for eksempel i Panorama-strategien.28 I innspillene gir flere institusjoner uttrykk for at de ønsker å rekruttere flere
-gradsstudenter fra samarbeidsland utenfor
-Europa.
-En viktig årsak til at KUF-komiteen ba regjeringen om å utarbeide en strategi for rekruttering,
-var nedleggingen av kvoteordningen og oppstarten av NORPART. Endringen medførte en omprioritering fra at det ble gitt stipender for helgradsstudier, til at det ble gitt støtte for innkommende
-delgradsstudenter som del av et institusjonelt
-samarbeid. Fra 2020 bevilges det igjen penger til
-at studenter fra det globale sør kan ta gradsstudier, denne gangen gjennom NORPART. Også
-dette tiltaket svarer til et ønske betydelige deler av
-sektoren har uttrykt etter at kvoteordningen ble
-avviklet. Flere institusjoner og fagmiljøer er opptatt av at gradsstudenter fra enkelte utviklingsland
-i det globale sør er et viktig element i arbeidet
-deres for å internasjonalisere studiene.
-
-7.4.2
-
-Internasjonal andel i
-forskerutdanningene
-I 2018 hadde 42 prosent av de som avla doktorgrad i Norge, utenlandsk statsborgerskap.29 Dette
-er ny rekord, og det viser hvor viktig det er med
-utenlandsk rekruttering til norsk akademia. Samtidig har det vært diskusjoner om hvorvidt andelen utenlandske ph.d.-studenter og doktorander
-kan bli for høy, særlig innenfor noen fagområder.
-Høyest er andelen innenfor matematiske, naturvitenskapelige og teknologiske fag (MNT-fag), der
-utlendinger sto for omtrent to av tre avlagte doktorgrader i årene 2016–2018.
-Regjeringen mener at det ikke skal settes noe
-nasjonalt tak på andelen utenlandske doktorander,
-og at det fortsatt må være opp til institusjonene å
-vurdere hvem de ansetter, i tråd med de lover og
-regler som gjelder, for eksempel for ansettelser
-innen EU/EFTA.
-28
-29
-
-Kunnskapsdepartementet (2015).
-NIFU (2019a).
-
-[Side 98]
-
-96
-
-Meld. St. 7
-En verden av muligheter
-
-7.4.3 Kunnskapsgrunnlag og rekruttering
-En mer målrettet rekrutteringsstrategi må utvikles og løpende oppdateres på grunnlag av kunnskap. Hva skjer med internasjonale gradsstudenter etter at de har avlagt eksamen? Hvor mange
-reiser hjem eller til andre land, hvor mange blir i
-Norge, og hvor mange av disse siste bidrar i norsk
-arbeids- og næringsliv?30 Internasjonale studenter
-er en ressurs i norsk høyere utdanning, men de
-bidrar også i andre deler av samfunnet.31 Det
-behøves mer kunnskap om hva de betyr for norsk
-økonomi og arbeidsliv og for Norges internasjonale relasjoner.
-7.4.4
-–
-
-–
-
-Vurderinger og tiltak
-
-Regjeringen ønsker at en større andel av helgradsstudentene til Norge kommer fra EU/
-EFTA-området og fra Norges prioriterte samarbeidsland utenfor Europa. Videre bør institusjonene bruke mulighetene som ligger i samarbeidsprogram med det globale sør, for å styrke
-mobilitet og samarbeid med utviklingsland i
-det globale sør på mastergradnivå.
-Regjeringen vil vurdere å gjennomføre en sosioøkonomisk analyse av hva internasjonale
-gradsstudenter betyr for norsk økonomi,
-arbeidsliv og samfunn, både under og etter studiene. Analysen vil også omfatte utenlandske
-studenters betydning for norsk høyere utdanning, inkludert hvilken betydning de har for
-internasjonalisering hjemme. Det er videre
-naturlig å vurdere om en slik analyse skal gjøres på jevnlig basis og også omfatte utenlandske ph.d.-studenter.
-
-7.5
-
-Velkommen til Norge
-
-En fersk studie fra British Council av elleve europeiske land viser at jo bedre det legges til rette for
-internasjonale studenter (vurdert gjennom enkle
-rutiner for studentvisum, muligheter for arbeid
-etter studiene og stipender) desto mer øker studentstrømmen til landet.32 Nasjonal politikk både
-for rekruttering og for å få studenter til å bli etter
-30
-
-NIFU er i gang med et forskningsprosjekt som ser på dette,
-se
-https://www.nifu.no/projects/international-studentmobility-drivers-patterns-and-impacts-mobility/.
-31
-Jf. referanser i kapittel 3 til slike analyser gjort i andre europeiske land.
-32
-British Council (2019). De 11 inkluderte landene i studien
-er Frankrike, Tyskland, Hellas, Nederland, Russland, Storbritannia, Bulgaria, Polen, Irland, Italia og Spania.
-
-2020–2021
-
-avlagt grad påvirker altså i stor grad hvor mange
-som kommer, og hvor mange som blir.33
-
-7.5.1 Krav om oppholdstillatelse
-Studenter fra land utenfor EU/EFTA-området må
-søke om oppholdstillatelse for studenter dersom
-de skal ta utdanning i Norge i mer enn tre måneder.34 Søkeren må være tatt opp til et fulltidsstudium ved en godkjent norsk utdanningsinstitusjon. For å få fornyet oppholdstillatelsen må studenten kunne vise til «tilfredsstillende studieprogresjon». Behandlingsgebyret for søknaden om
-oppholdstillatelse til studenter var i 2019 på
-5 300 kroner, og i statsbudsjettet for 2020 ble den
-redusert med 400 kroner. Studenten må betale
-behandlingsgebyret på nytt ved hver årlige fornyelse av oppholdstillatelsen, og dersom han eller
-hun skal søke om oppholdstillatelse til nyutdannede for å søke arbeid som faglært etter å ha
-avlagt gradseksamen. For å fylle krav om oppholdstillatelse må studenten også være sikret
-bolig, noe som de fleste får dekket gjennom boliggarantien ved utdanningsinstitusjonene. Flere
-institusjoner viser i innspillene til at de opplever
-behandlingsgebyret som et hinder for rekruttering.
-Studenter fra land utenfor EU/EFTA-området
-må også innfri underholdskravet. Det innebærer
-at de må ha nok midler til å dekke levekostnader i
-den tiden oppholdstillatelsen skal gjelde. I studieåret 2019/2020 er kravet på 121 000 kroner – det
-samme som den basisstøtten norske studenter får.
-Regjeringen legger ikke opp til å endre dette.
-En annen side ved oppholdstillatelsen er selve
-behandlingstiden, som forlenger prosessen fra
-opptak til oppstart på studiet for studenter fra land
-utenfor EU/EFTA-området. Lang behandlingstid
-kan skape problemer for studentene, eller det kan
-føre til at de faller fra allerede under behandlingsperioden fordi de underveis i denne får bekreftet
-at de kan studere i et annet land. Et samlet opptak
-av internasjonale studenter som søker mastergradsstudier i Norge, kan forkorte behandlingstiden for søknader om studieplass. Dette omtales
-nærmere nedenfor. For å utnytte dette fullt ut er
-det viktig at også søknadsprosessen knyttet til
-oppholdstillatelse er effektiv, slik at ikke institusjonene mister gode søkere til andre land i
-behandlingstiden.
-Som følge av krav om oppholdstillatelse og
-fordi det ofte tar lang tid for de potensielle studen33
-34
-
-European Commission (2019b).
-Utlendingsdirektoratet (2010)
-
-[Side 99]
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-tene å oppfylle vilkårene og få søknaden behandlet, mister institusjonene gode søkere og studenter fra land utenfor EU/EFTA-området. Norge må
-være minst like gode som land Norge konkurrerer med, til å tiltrekke oss internasjonale gradsstudenter.
-Internasjonale gradsstudenter som har kommet til Norge fra et land utenfor EU/EFTA-området, kan under visse forutsetninger reise på
-utveksling fra Norge til et tredjeland uten at det
-påvirker oppholdstillatelsen deres. Gitt at hoveddelen av utdanningen tas i Norge, skal ikke litt
-ferie i hjemlandet og utveksling til et annet land
-enn Norge skape problemer for oppholdstillatelsen.
-
-7.5.2
-
-Felles mastergradsopptak for
-internasjonale studenter
-
-Institusjonene bruker i dag mye tid på å verifisere
-og godkjenne vitnemål fra utlandet. Det krever
-spisskompetanse og god kjennskap til en del av de
-landene som søkerne kommer fra, i tillegg til
-språkkunnskap. Regjeringen vil at det etableres et
-felles opptak for internasjonale mastergradsstudenter der vurderingene av grunnlaget for å bli
-tatt opp i norsk høyere utdanning gjøres samlet og
-kun én gang per søker. Mange av institusjonene
-bekrefter i innspillene sine at dette vil kunne frigjøre ressurser ved institusjonene slik at de kan
-bruke mer tid på å tiltrekke seg de studentene de
-ønsker, eller jobbe mer med andre typer studentmobilitet. Et felles mastergradsopptak for internasjonale studenter vil også gjøre det lettere å markedsføre norsk høyere utdanning – for eksempel
-gjennom felles søknadsfrist. Videre vil det data- og
-statistikkgrunnlaget et slikt opptak gir, kunne gi
-oss mer kunnskap om internasjonale studenter i
-Norge, om søkere og om interessen for norsk
-høyere utdanning internasjonalt.
-Regjeringen viser til at det er etablert et samarbeidsprosjekt mellom Direktoratet for IKT og
-fellestjenester i høyere utdanning og forskning
-(Unit) og høyere utdanningsinstitusjoner med
-ambisjoner om et felles masteropptak for alle studenter. Regjeringen vil arbeide med å få på plass
-et felles opptak av utenlandske masterstudenter
-starter opp så snart som mulig. Arbeidet må koordineres med Diku med tanke på informasjon, markedsføring og datainnhenting overfor utenlandske studenter. Nasjonalt organ for kvalitet i utdanningen (NOKUT) må involveres med tanke på
-deres rolle knyttet til å vurdere utenlandske høyere utdanningers nivå og ekthet, samt NOKUTs
-
-97
-
-ansvar for å vedlikeholde GSU-listen (generell studiekompetanse for utenlandske søkere).
-
-7.5.3 Bruk av norsk og bruk av engelsk
-Som en liten språknasjon må Norge tilby kurs og
-grader på engelsk for å kunne trekke til seg internasjonale studenter i særlig antall. Dette har også
-vært en politisk prioritering i flere tiår, og ved
-institusjonene finnes det i dag et bredt engelskspråklig fagtilbud som omfatter mer enn tre hundre engelskspråklige mastergrader (på den andre
-siden tilbys det bare et titalls engelskspråklige
-grader på bachelornivå). Som omtalt i kapittel 5
-ønsker ikke regjeringen å øke den samlede bruken av engelsk som undervisningsspråk i norsk
-høyere utdanning, men regjeringen ønsker at universitetene og høyskolene skal et bevisst forhold
-til valg av undervisningsspråk. Selv om internasjonale studenter ikke kan forventes å mestre norsk
-som undervisningsspråk, og engelskspråklige tilbud derfor er en forutsetning for å tiltrekke seg
-gradsstudenter, bør institusjonene tilby og oppfordre til norskopplæring. Dersom internasjonale
-studenter mangler norskkunnskaper, blir det vanskeligere med integrering i det akademiske miljøet på campus under studiene, og ikke minst i det
-norske arbeidslivet etter at de har avlagt eksamen.
-7.5.4 Vurderinger og tiltak
-– Regjeringen vil at arbeidet med å få på plass et
-felles mastergradsopptak av internasjonale studenter kommer i gang så snart som mulig.
-
-7.6
-
-Profilering av Norge som
-kunnskapsnasjon
-
-Diku har et overordnet ansvar for å profilere
-norsk utdanning i utlandet, mens institusjonene
-selv har ansvaret for å rekruttere internasjonale
-studenter. Gjennom nettstedet Study in Norway35
-gir Diku og institusjonene informasjon om
-engelskspråklige studier. Strategisk markedsføring rettet mot internasjonale mastergradsstudenter har til nå vært lavt prioritert, men kan trappes
-opp som del av en tydeligere politikk for å tiltrekke seg studenter i tråd med geografiske og
-andre prioriteringer.
-Til forskjell fra Norge har våre naboland Finland, Sverige og Danmark politiske føringer for
-hvordan landet skal profileres som kunnskapsna35
-
-www.studyinnorway.no
-
-[Side 100]
-
-98
-
-sjon. I Finland inngår målene i arbeidet med
-rekruttering i en nasjonal strategi som dekker
-flere politikkområder og departementer. Rekruttering av «talent» blir der knyttet til vekst, internasjonalisering og innovasjon i det finske arbeidsmarkedet. Også i Sverige inngår rekrutteringsarbeidet i profileringen av Sverige som kunnskapsnasjon.
-
-7.6.1 Overordnede mål og prioriteringer
-Flere av nabolandene våre har endret hva de har
-vektlagt i sitt nasjonale profileringsarbeid, i takt
-med de siste årenes internasjonale utvikling.
-Regjeringen støtter institusjonene som i innspillene sine etterlyser en mer overordnet profilering
-av Norge som utdanningsnasjon fordi dette vil
-kunne gi nasjonal drahjelp til deres eget arbeid for
-å tiltrekke seg internasjonale studenter. De overordnede mål og prioriteringer for de kommende
-årene bør gjennomgås, og det må avklares i hvilken grad internasjonale gradsstudenter skal prioriteres i det nasjonale profileringsarbeidet. Noen
-overordnede føringer finnes allerede, i regjeringens strategi for eksport og internasjonalisering
-(2017)36 og i langtidsplanen for forskning og høyere utdanning (2018)37.
-
-36
-37
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-Nærings- og fiskeridepartementet (2017).
-Meld. St. 4 (2018–2019) Langtidsplan for forskning og høyere
-utdanning 2019–2028.
-
-7.6.2 Nasjonalt alumninettverk
-Det kan være hensiktsmessig å etablere et nasjonalt alumninettverk for internasjonale studenter,
-med tanke Norges omdømme som kunnskapsnasjon, Norges internasjonale kontaktnettverk og
-arbeidet med å etablere praksisplasser utenlands.
-Det finnes allerede noen slike nettverk ved de
-enkelte institusjonene. I Norge er det allerede
-Noralumni, en plattform for alumninettverk i regi
-av Forskningsrådet og Innovasjon Norge. I dag
-finnes det slike Noralumni-nettverk for Kina og
-Japan. En del andre land har etablert alumninettverk, ofte knyttet til nasjonale stipendordninger.
-7.6.3
-–
-
-–
-
-Vurderinger og tiltak
-
-Regjeringen vil at det etableres en arbeidsgruppe som består av Kunnskapsdepartementet (sekretariat), andre relevante departementer og nasjonale aktører som Diku, Forskningsrådet og Innovasjon Norge, samt institusjonene. Gruppen skal få ansvar for å foreslå overordnede mål og prioriteringer for profileringen
-av Norge som kunnskapsnasjon i utlandet, i
-tråd med gjeldende overordnede politiske
-føringer.
-Regjeringen vil utrede nytten av å etablere et
-nasjonalt alumninettverk for internasjonale studenter. Dette innebærer blant annet å kartlegge eksisterende alumniarbeid på institusjonene og vurdere om det å etablere et nasjonalt
-nettverk kan styrke arbeidet med å profilere
-Norge som kunnskapsnasjon og arbeidet med
-å etablere praksisplasser i utlandet.
-
-[Side 101]
-
-2020–2021
-
-Meld. St. 7
-En verden av muligheter
-
-99
-
-8 Norske helgradsstudenter i utlandet
-Norske studenter som tar en hel grad i utlandet,
-er en viktig del av norsk utdanningspolitikk. De er
-også viktige for norsk arbeidsliv, i og med at de
-supplerer arbeidstakere som har tatt utdanning
-ved en norsk institusjon, både ved at de har særegen kompetanse, og ved at de tilfører arbeidsmarkedet nødvendig arbeidskraft på spesifikke områder. At Norge har en del helgradsstudenter i utlandet, er også viktig for at Norge skal kunne nå
-målene som er satt når det gjelder internasjonal
-studentmobilitet. Rundt seks prosent av de norske
-studentene tar en hel grad i utlandet, og de fleste
-av disse vil til fulle oppleve de positive effektene
-som studentmobilitet har på det personlige plan,
-som for eksempel personlig utvikling, dannelse og
-språkkunnskaper. I Norge er det derfor etablert
-en utdanningsstøtteordning som er svært god for
-norske studenter som tar en hel grad utenlands,
-spesielt sammenlignet med utdanningsstøtten i
-sammenlignbare land. Utdanningsstøtten er også
-godt tilrettelagt for å være et virkemiddel for å
-utøve ønsket politikk, som økt internasjonal mobilitet blant norske studenter, økte språkkunnskaper, interkulturell kompetanse og landkunnskap.
-
-8.1
-
-Hva er verdien av norske
-helgradsstudenter i utlandet?
-
-Kapittel 3 omhandler de positive effektene av
-internasjonal studentmobilitet og målene Norge
-har satt seg når det gjelder slik mobilitet. Når det
-gjelder norske helgradsstudenter i utlandet, er det
-særlig positive effekter for studentene selv og for
-samfunnet generelt som er mest relevant. De positive effektene for universitetene og høyskolene vil
-i mindre grad komme som følge av at norske studenter tar en hel grad i utlandet, i og med at norske utdanningsinstitusjoner i liten grad blir involvert i denne formen for studentmobilitet, sammenlignet med hvor involvert de blir i forbindelse
-med studentutveksling.
-Når det gjelder positive effekter for studenten
-selv, er derimot potensialet større ved denne formen for utenlandsopphold enn ved et opphold
-som varer et semester eller kortere. Dette gjelder
-
-spesielt effekter som personlig utvikling, dannelse
-og generelle ferdigheter, i tillegg til interkulturell
-kompetanse og språkkunnskaper. Disse effektene
-vil stort sett bli sterkere jo lengre utenlandsoppholdet varer. Studentene kan også oppleve positive effekter i form av faglig læringsutbytte og
-motivasjon, men dette vil i større grad være
-avhengig av den individuelle utdanningsinstitusjonen og kvaliteten på undervisningen og det faglige miljøet der. Videre kan det å ha tatt en hel
-grad i utlandet gjøre studenten mer attraktiv på
-arbeidsmarkedet. Dessuten er det enkelte av de
-norske helgradsstudentene i utlandet som tar
-med seg relevant arbeidserfaring fra studielandet.
-Dette er nærmere omtalt i kapittel 3.
-Dette siste momentet er en side ved helgradsmobilitet som kan gi positive effekter for samfunnet generelt. Helgradsstudentene vil ha landkunnskap, det vil si kunnskap om landet de studerer i,
-og de vil ha nettverk, relasjoner og en tilknytning
-til landet som kan være verdifull for både norsk
-samfunn og norsk arbeids- og næringsliv. Norske
-studenter med en hel grad fra utlandet vil videre
-kunne tilføre norsk arbeids- og næringsliv
-etterspurt kompetanse og innovasjonsevne. I
-noen tilfeller vil også deler av norsk næringsliv ha
-behov for flere utdannede personer innenfor et
-spesifikt område/yrke enn det eksisterer studieplasser for dette faget i Norge. Studenter som da
-har tatt en hel grad i utlandet, og som vender tilbake til det norske arbeidsmarkedet, vil bidra til å
-dekke dette behovet.
-
-8.2
-8.2.1
-
-Oversikt med tall fra Lånekassen
-
-Hvor mange norske studenter tar en
-hel grad i utlandet?
-I tabell 8.1 er det en oversikt over hvor mange studenter som hvert år har tatt en hel grad i utlandet
-i perioden 2010/2011 til 2019/2020. I denne tiårsperioden har det årlige antallet som har tatt en
-slik grad, økt med ni prosent. Mellom 15 000 og
-17 500 studenter har årlig tatt en hel grad i utlandet de siste fem årene. Økningen kom i den første
-delen av tiårsperioden, mens det siden toppåret
+### Vurderinger og tiltak
+
+- Regjeringen vil be samskipnadene legge til rette for mer fleksible leiekontrakter for studentboliger for å utnytte ressursene bedre med tanke på utreisende og innreisende utvekslingsstudenter. Her bør man se på muligheten for fremleie av studentboliger for norske studenter som er på utveksling i utlandet, også for å lette boligsituasjonen for innreisende utvekslingsstudenter.
+
+- Regjeringen vil be institusjonene og studentsamskipnadene avklare de økonomiske virkningene av at studentboliger blir stående tomme i enkelte semestre som følge av at utvekslingsstudenter kommer og drar igjen (såkalt «tomgang»), og vil oppfordre institusjonene og studentsamskipnadene til å etablere avtaler som regulerer dette.
+
+## Studietilbud på engelsk
+
+Et stort og variert tilbud av engelskspråklige emner på både bachelor- og masternivået er en av de viktigste faktorene og forutsetningene for å tiltrekke seg utenlandske studenter. Det har vært en klar økning i antall engelskspråklige tilbud ved de statlige institusjonene de siste ti årene. Engelskspråklige emner er også et viktig element i å tilby norske studenter som ikke reiser ut, en internasjonal dimensjon i utdanningen gjennom at de for eksempel kan følge undervisning på engelsk i ett semester sammen med internasjonale studenter.
+
+Ifølge *Tilstandsrapport for høyere utdanning 2020* var prosentandelen fremmedspråklige utdanningstilbud av det totale fagtilbudet i 2019 på 25,8 prosent i statlig sektor, en økning fra omtrent 13,6 prosent i 2009.[^120] Det var imidlertid store variasjoner mellom institusjonene, mellom fagmiljøene og innad på institusjonene. Enkelte institusjoner hadde ingen fremmedspråklige studietilbud, mens andre hadde godt over 30 prosent og helt opp i 60 prosent. De private institusjonene hadde til sammenligning et gjennomsnitt på 14,6 prosent fremmedspråklige utdanningstilbud av det totale fagtilbudet i 2019, og de hadde heller ikke hatt den samme utviklingen som de statlige institusjonene, ettersom det tilsvarende tallet for 2009 var 13,3 prosent.[^121]
+
+Flere av institusjonene erkjenner i sine innspillsbrev at de har for få engelskspråklige emner, særlig på bachelornivået, og viser til at de må ha et mer omfattende emnetilbud på engelsk for å tiltrekke seg flere utenlandske studenter. Samtidig påpeker de at det kan være en utfordring for de ansatte å undervise på engelsk, og at det kan være utfordrende å få aksept for engelskspråklige emner både blant de faglig ansatte og blant norske studenter. De viser også til at det kan være vanskelig å planlegge hvilke emner som skal undervises på engelsk, siden antallet innkommende studenter varierer fra semester til semester, og at det er en krevende oppgave å finne en balanse mellom antallet engelskspråklige og antallet norskspråklige emner. De påpeker at det å utvikle og vedlikeholde en variert fagportefølje på engelsk er kostbart, og at det ofte er en ekstrakostnad for fagmiljøene.
+
+I universitets- og høyskoleloven § 1-7 heter det at universiteter og høyskoler har ansvar for vedlikehold og videreutvikling av norsk fagspråk.[^122] Språkrådet er i sitt innspill til meldingen bekymret over at det ikke er en større bevissthet i sektoren om valg av undervisningsspråk, og mener det er viktig med forutsigbarhet for studentene når det gjelder undervisningsspråk. Etter deres oppfatning kan det se ut til at «hensynet til at innkommende studenter skal kunne følge med på undervisningen, er viktigere enn hensynet til at norskspråklige studenter skal kunne beherske et norsk fagspråk når de går ut i arbeidslivet».[^123] Språkrådet foreslår at innkommende studenter bør få tilbud om undervisning i norsk kultur og språk selv om de kommer for bare ett semester, og videre at man må ha en plan for hvilke emner som skal undervises på engelsk, og hvilke som skal undervises på norsk, slik at man unngår adhocavgjørelser om undervisningsspråk. Språkrådet mener det kun er slik institusjonene kan oppfylle kravet i universitets- og høyskoleloven om å vedlikeholde og videreutvikle norsk fagspråk. Universitets- og høyskolerådet sier på sin side at det vil være umulig å nå et mål om flere innreisende studenter uten at institusjonene har et bredt tilbud av engelskspråklige emner, og mener at språkdebatten i sektoren må ta høyde for dette.
+
+Å få til en balanse i antall emner som undervises på henholdsvis engelsk og norsk, og å balansere hensynet og behovene til de innreisende og de norske studentene, er essensielt. Institusjonene må i sine språkstrategier være bevisste i denne balansegangen, og ha en strategisk tilnærming til hvilke emner som skal undervises på norsk, og hvilke som skal undervises på engelsk. Institusjonenes ansvar for norsk fagspråk er behandlet mer utførlig i Kulturdepartementets språkmelding.[^124]
+
+### Vurderinger og tiltak
+
+- Regjeringen forventer at institusjonene fortsatt jobber for å tilby tilstrekkelig antall engelskspråklige studietilbud til at de kan tiltrekke seg utenlandske studenter.
+
+- Regjeringen forventer at det er en hensiktsmessig balanse mellom andelen emner som undervises på henholdsvis engelsk og norsk, og at institusjonene avklarer i god tid før semesterstart hvilke emner som undervises på engelsk, og hvilke som undervises på norsk.
+
+- Regjeringen forventer at universiteter og høyskoler er bevisst og følger opp ansvaret de har for å vedlikeholde og videreutvikle norsk som fagspråk.
+
+## Praksis for utenlandske studenter innenfor profesjonsutdanningene.
+
+For flere av profesjonsutdanningene er praksis en obligatorisk del av utdanningen. Den obligatoriske praksisen er definert i rammeplanene for de enkelte utdanningene; den skal være veiledet og kvalitetssikret, og den er en fullt ut integrert del av utdanningen. Institusjonene har ansvar for å finne praksisplasser til studentene i samarbeid med arbeids- og næringslivet. (Se også kapittel 4). Praksisplasser er et «knapphetsgode» i Norge, og det er utfordrende for institusjonene å skaffe nok praksisplasser til ordinære studenter i Norge, særlig innenfor helsefagene. For å avhjelpe dette, sender en del norske institusjoner sine studenter på praksisopphold i utlandet.
+
+Når norske universiteter og høyskoler etablerer avtaler med utenlandske institusjoner om å sende sine studenter for å ta praksis i utlandet, er det en forventning om gjensidighet i praksisavtalene – det vil si at de utenlandske institusjonene forventer å kunne sende sine studenter til norske institusjoner for å ta praksis ved for eksempel norske helseinstitusjoner, skoler, barnehager eller lignende. Dette understrekes også i flere av innspillene til meldingen. Enkelte institusjoner, slik som Dronning Mauds Minne Høgskole for barnehagelærerutdanningen (DMMH), viser til at praksis for innkommende studenter fungerer bra. DMMH har en vellykket ordning hvor utenlandske studenter har 35 dagers praksis i en norsk barnehage.[^125] Se også boks 4.6. Likevel påpeker flere av institusjonene i sine innspill at det er utfordrende å finne praksisplasser for utenlandske studenter i Norge. Institusjoner som Lovisenberg diakonale høgskole, Høgskolen i Østfold og Norges teknisk-naturvitenskapelige universitet (NTNU) viser til at det kan være vanskelig skaffe praksisplasser for utenlandske studenter, og da særlig knyttet til at studentene må mestre norsk for eksempel for å delta i pasientbehandling. At norske institusjoner har begrensede muligheter til å ta imot innreisende studenter på praksis, gjør det krevende for dem å motivere samarbeidspartnere i utlandet til å ta imot norske studenter. Denne mangelen på gjensidighet kan føre til at det blir vanskelig å få til gode avtaler om praksis med utenlandske institusjoner. For at norske høyere utdanningsinstitusjoner og praksisinstitusjoner skal kunne opprettholde et godt samarbeid med utenlandske praksisinstitusjoner, er det viktig at det legges til rette for at de norske institusjonene også har kapasitet til å ta imot utenlandske studenter i praksis.
+
+### Vurderinger og tiltak
+
+- Regjeringen vil at institusjonene, når de samarbeider med utenlandske institusjoner om praksisperioder i utlandet, så langt det lar seg gjøre, arbeider for også å tilby praksisplasser for utenlandske studenter i Norge. De sentrale aktørene i arbeids- og næringslivet må være behjelpelige med å legge til rette for dette.
+
+## Statistikk
+
+Antall innreisende utvekslingsstudenter per institusjon 2010-2019 og andel av registrerte studenter 2019.
+
+12J1xt2
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th style="text-align: right;">2010</th>
+<th style="text-align: right;">2011</th>
+<th style="text-align: right;">2012</th>
+<th style="text-align: right;">2013</th>
+<th style="text-align: right;">2014</th>
+<th style="text-align: right;">2015</th>
+<th style="text-align: right;">2016</th>
+<th style="text-align: right;">2017</th>
+<th style="text-align: right;">2018</th>
+<th style="text-align: right;">2019</th>
+<th style="text-align: right;">Innreisende<br />
+2019 som<br />
+andel av<br />
+reg. stud.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Norges handelshøyskole</td>
+<td style="text-align: right;">282</td>
+<td style="text-align: right;">280</td>
+<td style="text-align: right;">296</td>
+<td style="text-align: right;">316</td>
+<td style="text-align: right;">330</td>
+<td style="text-align: right;">331</td>
+<td style="text-align: right;">368</td>
+<td style="text-align: right;">416</td>
+<td style="text-align: right;">456</td>
+<td style="text-align: right;">447</td>
+<td style="text-align: right;">12,9 %</td>
+</tr>
+<tr>
+<td>Bergen Arkitekthøgskole</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">10,7 %</td>
+</tr>
+<tr>
+<td>Arkitektur- og designhøgskolen i Oslo</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">9,0 %</td>
+</tr>
+<tr>
+<td>Universitetet i Bergen</td>
+<td style="text-align: right;">699</td>
+<td style="text-align: right;">715</td>
+<td style="text-align: right;">806</td>
+<td style="text-align: right;">942</td>
+<td style="text-align: right;">923</td>
+<td style="text-align: right;">1 061</td>
+<td style="text-align: right;">1 178</td>
+<td style="text-align: right;">1 221</td>
+<td style="text-align: right;">1 274</td>
+<td style="text-align: right;">1 211</td>
+<td style="text-align: right;">6,8 %</td>
+</tr>
+<tr>
+<td>Norges idrettshøgskole</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">5,2 %</td>
+</tr>
+<tr>
+<td>Universitetet i Oslo</td>
+<td style="text-align: right;">993</td>
+<td style="text-align: right;">966</td>
+<td style="text-align: right;">1 079</td>
+<td style="text-align: right;">1 144</td>
+<td style="text-align: right;">1 198</td>
+<td style="text-align: right;">1 267</td>
+<td style="text-align: right;">1 408</td>
+<td style="text-align: right;">1 413</td>
+<td style="text-align: right;">1 401</td>
+<td style="text-align: right;">1 390</td>
+<td style="text-align: right;">5,2 %</td>
+</tr>
+<tr>
+<td>Norges musikkhøgskole</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">4,5 %</td>
+</tr>
+<tr>
+<td>Norges teknisk-naturvitenskapelige universitet</td>
+<td style="text-align: right;">1 122</td>
+<td style="text-align: right;">1 161</td>
+<td style="text-align: right;">1 294</td>
+<td style="text-align: right;">1 346</td>
+<td style="text-align: right;">1 420</td>
+<td style="text-align: right;">1 577</td>
+<td style="text-align: right;">1 654</td>
+<td style="text-align: right;">1 531</td>
+<td style="text-align: right;">1 741</td>
+<td style="text-align: right;">1 750</td>
+<td style="text-align: right;">4,5 %</td>
+</tr>
+<tr>
+<td>Norges miljø- og biovitenskapelige universitet</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">122</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">138</td>
+<td style="text-align: right;">145</td>
+<td style="text-align: right;">192</td>
+<td style="text-align: right;">287</td>
+<td style="text-align: right;">249</td>
+<td style="text-align: right;">230</td>
+<td style="text-align: right;">4,1 %</td>
+</tr>
+<tr>
+<td>Høgskolen i Molde, vitenskapelig høgskole i logistikk</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">3,5 %</td>
+</tr>
+<tr>
+<td>Handelshøyskolen BI</td>
+<td style="text-align: right;">451</td>
+<td style="text-align: right;">509</td>
+<td style="text-align: right;">489</td>
+<td style="text-align: right;">453</td>
+<td style="text-align: right;">513</td>
+<td style="text-align: right;">579</td>
+<td style="text-align: right;">676</td>
+<td style="text-align: right;">691</td>
+<td style="text-align: right;">703</td>
+<td style="text-align: right;">678</td>
+<td style="text-align: right;">3,5 %</td>
+</tr>
+<tr>
+<td>Høgskulen i Volda</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">134</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">128</td>
+<td style="text-align: right;">3,2 %</td>
+</tr>
+<tr>
+<td>Universitetet i Agder</td>
+<td style="text-align: right;">207</td>
+<td style="text-align: right;">228</td>
+<td style="text-align: right;">239</td>
+<td style="text-align: right;">246</td>
+<td style="text-align: right;">277</td>
+<td style="text-align: right;">296</td>
+<td style="text-align: right;">317</td>
+<td style="text-align: right;">307</td>
+<td style="text-align: right;">384</td>
+<td style="text-align: right;">365</td>
+<td style="text-align: right;">3,2 %</td>
+</tr>
+<tr>
+<td>Kunsthøgskolen i Oslo</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">3,2 %</td>
+</tr>
+<tr>
+<td>Universitetet i Tromsø – Norges arktiske universitet</td>
+<td style="text-align: right;">366</td>
+<td style="text-align: right;">372</td>
+<td style="text-align: right;">403</td>
+<td style="text-align: right;">393</td>
+<td style="text-align: right;">428</td>
+<td style="text-align: right;">436</td>
+<td style="text-align: right;">451</td>
+<td style="text-align: right;">443</td>
+<td style="text-align: right;">536</td>
+<td style="text-align: right;">511</td>
+<td style="text-align: right;">3,1 %</td>
+</tr>
+<tr>
+<td>Universitetet i Stavanger</td>
+<td style="text-align: right;">162</td>
+<td style="text-align: right;">186</td>
+<td style="text-align: right;">196</td>
+<td style="text-align: right;">169</td>
+<td style="text-align: right;">215</td>
+<td style="text-align: right;">273</td>
+<td style="text-align: right;">322</td>
+<td style="text-align: right;">341</td>
+<td style="text-align: right;">306</td>
+<td style="text-align: right;">299</td>
+<td style="text-align: right;">2,8 %</td>
+</tr>
+<tr>
+<td>Universitetet i Sørøst-Norge</td>
+<td style="text-align: right;">253</td>
+<td style="text-align: right;">235</td>
+<td style="text-align: right;">274</td>
+<td style="text-align: right;">299</td>
+<td style="text-align: right;">326</td>
+<td style="text-align: right;">334</td>
+<td style="text-align: right;">382</td>
+<td style="text-align: right;">418</td>
+<td style="text-align: right;">410</td>
+<td style="text-align: right;">385</td>
+<td style="text-align: right;">2,5 %</td>
+</tr>
+<tr>
+<td>Dronning Mauds Minne Høgskole for barnehagelærerutdanning</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">2,2 %</td>
+</tr>
+<tr>
+<td>Høgskolen i Innlandet</td>
+<td style="text-align: right;">132</td>
+<td style="text-align: right;">146</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">166</td>
+<td style="text-align: right;">178</td>
+<td style="text-align: right;">238</td>
+<td style="text-align: right;">248</td>
+<td style="text-align: right;">234</td>
+<td style="text-align: right;">234</td>
+<td style="text-align: right;">1,8 %</td>
+</tr>
+<tr>
+<td>Høgskulen på Vestlandet</td>
+<td style="text-align: right;">187</td>
+<td style="text-align: right;">173</td>
+<td style="text-align: right;">173</td>
+<td style="text-align: right;">149</td>
+<td style="text-align: right;">173</td>
+<td style="text-align: right;">228</td>
+<td style="text-align: right;">218</td>
+<td style="text-align: right;">269</td>
+<td style="text-align: right;">244</td>
+<td style="text-align: right;">258</td>
+<td style="text-align: right;">1,8 %</td>
+</tr>
+<tr>
+<td>Samisk høgskole</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">1,8 %</td>
+</tr>
+<tr>
+<td>OsloMet – storbyuniversitetet</td>
+<td style="text-align: right;">299</td>
+<td style="text-align: right;">286</td>
+<td style="text-align: right;">278</td>
+<td style="text-align: right;">236</td>
+<td style="text-align: right;">223</td>
+<td style="text-align: right;">263</td>
+<td style="text-align: right;">324</td>
+<td style="text-align: right;">306</td>
+<td style="text-align: right;">325</td>
+<td style="text-align: right;">296</td>
+<td style="text-align: right;">1,6 %</td>
+</tr>
+<tr>
+<td>Nord universitet</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">127</td>
+<td style="text-align: right;">156</td>
+<td style="text-align: right;">146</td>
+<td style="text-align: right;">156</td>
+<td style="text-align: right;">153</td>
+<td style="text-align: right;">150</td>
+<td style="text-align: right;">150</td>
+<td style="text-align: right;">153</td>
+<td style="text-align: right;">1,5 %</td>
+</tr>
+<tr>
+<td>Høgskolen i Østfold</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">110</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">1,0 %</td>
+</tr>
+<tr>
+<td>NLA Høgskolen</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">0,7 %</td>
+</tr>
+<tr>
+<td>VID vitenskapelige høgskole</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">0,6 %</td>
+</tr>
+<tr>
+<td>MF vitenskapelig høyskole for teologi, religion og samfunn</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">0,5 %</td>
+</tr>
+<tr>
+<td>Høyskolen Kristiania</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0,0 %</td>
+</tr>
+<tr>
+<td>Barratt Due Musikkinstitutt</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,0 %</td>
+</tr>
+<tr>
+<td>Lovisenberg diakonale høgskole</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">0,0 %</td>
+</tr>
+<tr>
+<td>Sum</td>
+<td style="text-align: right;">5 711</td>
+<td style="text-align: right;">5 906</td>
+<td style="text-align: right;">6 375</td>
+<td style="text-align: right;">6 583</td>
+<td style="text-align: right;">6 935</td>
+<td style="text-align: right;">7 666</td>
+<td style="text-align: right;">8 478</td>
+<td style="text-align: right;">8 683</td>
+<td style="text-align: right;">8 950</td>
+<td style="text-align: right;">8 767</td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+
+Studenter på utveksling under individbaserte avtaler eller gjennom programmer på forskerutdanning er unntatt.
+
+Norsk senter for forskningsdata

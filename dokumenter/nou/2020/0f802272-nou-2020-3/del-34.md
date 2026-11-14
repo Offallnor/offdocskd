@@ -1,897 +1,380 @@
-# NOU 2020: 3, del 34 av 42 (side 373–382)
+# NOU 2020: 3, del 34 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 373]
+# Studentsamskipnadsloven og -forskrift
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+\[:figur:fig36-1.jpg\]
 
-universiteter og høyskoler «å sørge for åpenhet
-om resultater fra forskning eller faglig eller kunstnerisk utviklingsarbeid». Bestemmelsen må ses i
-sammenheng med institusjonens ansvar etter første avsnitt, og forslaget til § 1-1 bokstav a og § 2-1
-bokstav d som pålegger universiteter og høyskoler et generelt formidlingsansvar. Universiteter og høyskoler er ikke gjennom bestemmelsen
-pålagt et direkte ansvar for offentliggjøring.
-Bestemmelsen gir heller ikke institusjonen en
-selvstendig rett til å gripe inn i forskerens rådighet over sine resultater og bestemme at disse skal
-offentliggjøres på et bestemt tidspunkt eller på en
-bestemt måte. Såfremt det nedfelles i arbeidsavtalene vil likevel institusjonene kunne pålegge de
-faglig ansatte som hovedregel å publisere i åpent
-tilgjengelige kanaler.
-Andre setning gir forskeren en «rett» til å
-offentliggjøre sine forskningsresultater. Institusjonen eller oppdragsgiver kan ikke hindre offentliggjøring med mindre noe annet er avtalt i samsvar
-med denne bestemmelsen. Forskeren skal «sørge
-for at slik offentliggjøring skjer». I bestemmelsen
-ligger det ikke en produksjonsplikt for forskeren,
-og institusjonen kan ikke pålegge forskeren å
-offentliggjøre resultater på et bestemt tidspunkt
-eller med en bestemt hyppighet. Hvis institusjonen som arbeidsgiver mener at en forsker ikke
-oppfyller rimelige forventninger om offentliggjøring av forskningsresultater, må dette vurderes
-som et spørsmål om forskeren oppfyller sin
-forskningsplikt etter arbeidsavtalen. Forskeren
-skal stille det relevante forskningsgrunnlag til
-rådighet i overensstemmelse med god skikk på
-vedkommende område. Det stilles ikke krav til at
-forskningsgrunnlaget blir offentliggjort, men at
-det gjøres tilgjengelig ved etterspørsel. Begrepet
-«forskningsgrunnlag» vil omfatte for eksempel
-statistiske grunnlagsdata eller fysisk materiale.
-«Forskningsgrunnlag» omfatter i denne sammenheng også relevant grunnlagsmateriale for faglig
-eller kunstnerisk utviklingsarbeid. Hva som er å
-anse som det «relevante» forskningsgrunnlag vil
-variere med hva som er god skikk for vedkommende fagområde. I tvilstilfelle vil formålet med å
-stille det til rådighet, da særlig etterprøvbarheten,
-være avgjørende.
-Etter tredje setning kan «styret gi sitt samtykke til utsatt offentliggjøring». Institusjonens
-ledelse kan ikke ensidig pålegge forskeren å
-utsette offentliggjøring, utsettelsen må være
-basert på en avtale mellom institusjonen og forskeren. Det kreves samtykke fra «styret» for å
-utsette offentliggjøringen. «Styret» er enten styret
-selv eller andre ved institusjonen dersom styret
+## Utvalgets forslag
 
-371
+Utvalget foreslår følgende:
 
-Kapittel 39
+- En ny bestemmelse i universitets- og høyskoleloven som presiserer utdanningsinstitusjonenes plikt til å være tilknyttet en studentsamskipnad, samt ansvarsfordelingen mellom utdanningsinstitusjoner og studentsamskipnader.
 
-har delegert sin avgjørelsesmyndighet. Styret kan
-gi sitt samtykke til utsatt offentliggjøring «når
-legitime hensyn tilsier det». Utsettelsen må således ha et særlig grunnlag og det må i hvert enkelt
-tilfelle være et reelt behov for utsettelsen. Eksempelvis kan utsatt offentliggjøring skje der dette er
-nødvendig for å beskytte patentrettslige eller konkurransemessige interesser, eller av hensyn til
-løpende forskningsarbeid. Det er styret i samråd
-med forskeren som i hvert enkelt tilfelle må vurdere nødvendigheten av og behovet for utsatt
-offentliggjøring.
-Fjerde setning fastsetter at begrensninger i
-retten til å offentliggjøre må være tidsavgrenset.
-Hvor langt frem i tid det kan avtales eller fastsettes en begrensning uten at det er i strid med
-bestemmelsen, må vurderes konkret i hvert
-enkelt tilfelle. Utgangspunktet er at offentliggjøring skal finne sted når begrunnelsen eller formålet med utsettelsen ikke lenger er til stede.
-«Avtale» henspiller på avtaler mellom institusjonen og forskeren, mens å «fastsette» henspiller
-på blant annet styrets myndighet til å beslutte
-utsettelse. Styret kan ikke fastsette utsettelse i
-strid med den ansattes rett til selvbestemmelse
-over tidspunktet for offentliggjøring. Med begrepet «følger av lov eller i medhold av lov», tenkes
-det eksempelvis på regler om taushetsplikt og
-vern av forsvarshemmeligheter.
-§ 2-5. Egenbetaling
-Statlige universiteter og høyskoler kan ikke
-kreve betaling fra studenter for ordinære utdanninger som fører frem til en grad eller yrkesutdanning. Departementet kan i særskilte tilfeller, etter
-søknad, godkjenne unntak fra denne bestemmelsen.
-Departementet kan gi forskrift om universiteter og høyskolers adgang til å ta betaling fra studenter og om adgang til å kreve inn andre utgifter
-knyttet til studiene.
-Merknad:
-Første ledd: Bestemmelsen viderefører gratisprinsippet for studier som fører frem til en grad
-eller yrkesutdanning ved statlige universiteter og
-høyskoler. Dette ble lovfestet i universitets- og
-høyskoleloven i 2005, jf. Innst. O. nr. 48 (2004–
-2005), jf. Ot.prp. nr. 79 (2003–2004). Statlige universiteter og høyskoler kan ikke ta egenbetaling
-fra studentene dersom det ikke er gitt særskilt
-adgang til det fra departementet. Regelen omfatter ikke visse utgifter, som for eksempel læremidler eller at studentene kan pålegges å ha
+- Dagens § 14 i studentsamskipnadsforskriften, der samarbeid mellom utdanningsinstitusjonene og studentsamskipnadene er regulert, flyttes til studentsamskipnadsloven.
 
-[Side 374]
+- Det settes ned en arbeidsgruppe som gjennomgår og avklarer spørsmålet om hvilke ansvarsområder som tilligger henholdsvis utdanningsinstitusjon og studentsamskipnad, eller er en offentlig oppgave. Utvalget mener også at det er behov for en utredning av hvem utdanningsinstitusjonene skal kunne tilby fri stasjon til.
 
-372
+## Gjeldende rett
 
-Kapittel 39
+### Innledning
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Studentsamskipnadene er egne rettssubjekter, jf. studentsamskipnadsloven § 2 første ledd. De har til oppgave å sørge for et velferdstilbud til studenter, jf. § 3 første ledd. Tilbudet er spesielt tilpasset studentene og deres studiesituasjon.
 
-egen bærbar datamaskin. Bestemmelsen er ikke
-til hinder for at institusjonene inngår avtaler om
-utgiftsdekning seg imellom, for eksempel når
-studenter tar deler av utdanningen ved en annen
-institusjon.
-Andre ledd: Bestemmelsen gir departementet
-hjemmel til å fastsette utfyllende regler til første
-og andre ledd.
-§ 2-6. Grader og yrkesutdanninger
-Kongen bestemmer hvilke grader og yrkesutdanninger en institusjon kan gi, den tid det
-enkelte studium skal kunne gjennomføres på, og
-hvilken tittel graden eller yrkesutdanningen gir
-rett til.
-Departementet kan gi forskrift om et nasjonalt
-kvalifikasjonsrammeverk og om institusjonenes
-adgang til å gi grader og yrkesutdanninger i samarbeid med andre institusjoner.
-Departementet kan gi forskrift om krav til
-høyere grad og om omfang av selvstendig arbeid i
-høyere grad.
-Departementet kan gi forskrift om nasjonale
-rammeplaner for enkelte utdanninger.
-Departementet kan gi forskrift om at det skal
-avholdes obligatoriske nasjonale deleksamener i
-enkelte fag eller emner, og om resultatet skal
-føres på vitnemålet.
-Departementet kan gi forskrift om at bestemte
-emner inntil 20 studiepoeng skal inngå i en grad.
-Merknad:
-Bestemmelsen er en videreføring av universitetsog høyskoleloven § 3-2 første til fjerde ledd.
-Første ledd fastslår at Kongen bestemmer
-hvilke grader og yrkesutdanninger en institusjon
-kan gi, den tid det enkelte studium skal gjennomføres på, og hvilken tittel graden eller yrkesutdanningen gir rett til. Formuleringen «Kongen
-bestemmer» innebærer at regjeringen kan delegere myndigheten til departementet. Kunnskapsdepartementet har fastsatt gjeldende forskrift
-16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid
-ved universiteter og høyskoler, (gradsforskriften)
-med hjemmel i denne bestemmelsen. Å fastsette
-hvilke grader institusjonen kan gi er et viktig
-virkemiddel for nasjonal styring av utdanningen. I
-gradsforskriften har departementet lagt flere sentrale utdanninger, som master i rettsvitenskap,
-psykologi og medisin, til bestemte universiteter.
-Utdanningene som er regulert i gradsforskriften
-kan ikke tilbys av andre institusjoner enn de
-gradsforskriften nevner.
+Studentsamskipnadenes virksomhet er regulert i studentsamskipnadsloven[^721], forskrift om studentsamskipnader[^722], universitets- og høyskoleloven[^723], fagskoleloven[^724] og forskrift om tilskudd til studentboliger.[^725] Studentsamskipnadene er knyttet til utdanningsinstitusjonene og er underlagt krav og rammebetingelser fra kommunene hvor de er lokalisert.
 
-Bestemmelsen gir blant annet myndighet til
-Kongen til å fastsette rammer for normert studietid, altså hvor lang tid utdanningen skal ta. Normert studietid vil være et viktig uttrykk for det
-faglige nivået i studiet. I både gradsforskriften og
-forskrift 1. desember 2005 nr. 1392 om krav til
-mastergrader (mastergradforskriften) er kravene
-til innholdet i graden knyttet sammen med den
-tiden det tar å oppnå graden. Lovforslaget § 8-1 gir
-rammen for ett studieår. Det vil normalt ha en
-varighet på ti måneder, og på fulltid være normert
-til å ha et omfang på 60 studiepoeng.
-Krav om godkjenning av hvilken tittel graden
-eller yrkesutdanningen skal gi, vil være viktig for
-å unngå misvisende titler, eller at det finnes sammenfallende titler på ulike utdanninger, noe som
-igjen kan skape forvirring om hvilken kompetanse kandidaten har.
-Andre ledd gir departementet hjemmel til å
-fastsette et nasjonalt kvalifikasjonsrammeverk, jf.
-forskrift om Nasjonal kvalifikasjonsrammeverk for
-livslang læring og henvisningen til Det europeiske
-kvalifikasjonsrammeverket for livslang læring av
-8. november 2017 nr. 1846 (forskrift om Nasjonalt
-kvalifikasjonsrammeverk). Forskriften regulerer
-nivåer, læringsutbyttebeskrivelser og innplassering av kvalifikasjoner, og skal sikre at norsk
-utdanning i nivå og omfang samsvarer med tilsvarende europeisk utdanning.
-Tredje ledd gir hjemmel for departementet til å
-fastsette krav om nivåer i høyere grad, se mastergradforskriften.
-Fjerde ledd gir departementet hjemmel til å fastsette nasjonale rammeplaner for enkelte utdanninger. En rammeplan er en betegnelse på sentralt
-fastsatte krav til oppbygning, nivå og læringsutbytte
-i en enkelt utdanning. En rammeplan skal sikre at
-det er felles krav til like utdanninger som gis av
-ulike institusjoner, og ivareta kvalitet og likt innhold
-i definerte utdanninger. Institusjonene har selv
-ansvar for å fastsette studieplan for utdanningen, jf.
-lovforslaget § 15-2 tredje ledd, undervisningsterminer, innholdet i undervisningen og pensum.
-Femte ledd fastsetter at departementet kan
-bestemme at det skal gis nasjonale deleksamener
-i enkelte fag eller emner. Dersom departementet
-bestemmer det, er disse eksamenene obligatoriske for de institusjonene som gir den utdanningen som er omfattet. En nasjonal deleksamen skal
-gis samtidig uansett studiested.
-Slike nasjonale deleksamener er et viktig
-virkemiddel for å sikre at de felles fastsatte kvalitetsmålene for utdanningene oppnås. De kan
-videre gi nyttig informasjon om studentenes
-kunnskapsnivå og gi fagmiljøene mulighet til å
+Studentsamskipnadsordningen er et særnorsk fenomen. Studentsamskipnadene ble etablert for å ta seg av studenters velferdsbehov ved det enkelte lærested. Stortinget vedtok den første loven om studentsamskipnaden i Oslo 17. juni 1939. Frem til 2019 har en rekke samskipnader kommet til, og enkelte er etter hvert slått sammen som følge av Strukturreformen i universitets- og høyskolesektoren.[^726] Per i dag er det 14 studentsamskipnader totalt.
 
-[Side 375]
+Studentsamskipnadsordningen fyller en viktig funksjon ved å sikre studenter tilgang på velferdstjenester der markedet ikke kan eller vil levere de særskilte tjenestene studenter har behov for som følge av sin livssituasjon. Studentsamskipnadene leverer også tjenester som et supplement til det offentlige tjenestetilbudet, slik som eksamensmestringskurs og lignende.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Studentsamskipnadene er organisert som særlovsselskaper. Studentsamskipnadene har likheter med både forvaltningsorganer, statsforetak, aksjeselskaper og stiftelser. Det er staten gjennom Kunnskapsdepartementet som etablerer og sørger for grunnfinansieringen. Staten har imidlertid ikke rett til overskuddet. Flere elementer ved virksomhetsformen minner om aksjeselskaper, for eksempel det som gjelder styrets ansvar. I studentsamskipnadsloven er det henvist til flere bestemmelser i aksjeloven. Selv om studentsamskipnadene ikke er en del av forvaltningen, har de en nær tilknytning til statlig virksomhet, og på visse områder kommer forvaltningsloven og offentlighetsloven til anvendelse. Et viktig trekk ved virksomhetsformen er at den er brukerstyrt. Det vil si at studentene har en sentral rolle i styringen. Den øverste myndigheten i studentsamskipnadene er et styre der flertallet består av studenter, hvis de ønsker det.[^727]
 
-sammenligne seg med tilsvarende fagmiljøer ved
-andre institusjoner. Dette kan igjen gi miljøene
-grunnlag for utvikling og bidra til økt tillit til
-utdanningene i samfunnet. En nasjonal deleksamen kan gjelde hele eller deler av et fag, men ikke
-hele studietilbudet. Det vil være viktig at fagmiljøene har innflytelse på utvikling og gjennomføring av de nasjonale deleksamenene.
-Departementet kan bestemme at eksamensresultatet for den nasjonale deleksamenen skal
-føres på vitnemålet.
-Sjette ledd gir departementet hjemmel til å fastsette at enkelte emner skal inngå i en utdanning.
-Historisk har denne bestemmelsen blitt brukt for
-å fastsette at examen philosophicum (ex.phil) og
-examen facultatum (ex.fak) skal inngå i studier på
-lavere grad.
-§ 2-7. Beskyttelse av universiteters og høyskolers
-egennavn
-Departementet skal fastsette egennavn for
-statlige universiteter og høyskoler. Private universiteter og høyskoler fastsetter egennavnet sitt
-selv. Universiteters og høyskolers egennavn skal
-beskrive hvilken institusjonskategori institusjonen tilhører og skal registreres i Enhetsregisteret.
-Bruken av betegnelsene høyskole, vitenskapelig høyskole og universitet er beskyttet. Bare en
-institusjon som er akkreditert som vitenskapelig
-høyskole eller universitet kan benytte slik betegnelse. Betegnelsen høyskole kan bare benyttes av
-institusjoner som er akkreditert som høyskole
-eller som er akkreditert for å tilby enkeltstudier
-etter denne loven. Departementet bestemmer
-hvilke betegnelser institusjonene skal benytte på
-andre språk.
-Departementet kan etter søknad gi dispensasjon for etablerte sammensatte betegnelser som
-ikke er egnet til å forveksles med betegnelsene
-nevnt i andre ledd.
-Betegnelsen universitetssykehus kan bare
-benyttes av virksomhet som er godkjent som universitetssykehus etter nærmere regler fastsatt
-med hjemmel i spesialisthelsetjenesteloven.
-Den som forsettlig eller uaktsomt bruker en
-beskyttet institusjonsbetegnelse, kan ilegges overtredelsesgebyr av departementet. Foretak kan
-ilegges slikt overtredelsesgebyr selv om ingen
-enkeltperson har utvist skyld som beskrevet i første punktum. Departementet kan gi forskrift om
-utstedelse av, størrelse på, forfall av, klage på,
-overprøving og lemping av overtredelsesgebyret.
-Med mindre klagen gis oppsettende virkning, er
-vedtak om overtredelsesgebyr tvangsgrunnlag for
-utlegg.
+### Samfunnsoppdrag
 
-373
+Studentsamskipnadenes samfunnsoppdrag er å ta seg av studentenes velferdsbehov ved de enkelte lærestedene, jf. studentsamskipnadsloven § 3 første ledd. Samfunnsoppdraget skal løses ved at studentsamskipnadene skal tilby studentene velferdstjenester. All virksomhet i studentsamskipnaden skal i hovedsak være rettet mot studenter. Hvilke typer virksomhet som dekkes av begrepet «studentvelferdstjenester», er uttømmende definert i forskrift om studentsamskipnader § 8. Studentsamskipnadene har anledning til å tilby tjenester til andre enn studenter, men i begrenset omfang. Noen studentsamskipnader lar ikke-studenter benytte ledig kapasitet ved studentsamskipnadenes tjenester og får slik et større kundegrunnlag. Dette kan gi inntekter som kan komme studentvelferden til gode.[^728]
 
-Kapittel 39
+Studentsamskipnadene står i utgangspunktet fritt til å velge hvilke studentvelferdstjenester de ønsker å tilby, og i hvilket omfang. Denne friheten til å innrette tjenestetilbudet må likevel forstås i lys av et prinsipp om at studentenes behov i utgangspunktet skal dekkes gjennom markedet og de ordinære, offentlige velferdstjenestene til befolkningen.
 
-Merknad:
-Første ledd gir Kunnskapsdepartementet myndighet til å fastsette navn for de statlige universitetene og høyskolene. Departementet har hatt
-denne myndigheten siden 2012 selv om det i gjeldende lovbestemmelse1 er Kongen som fastsetter
-navnet for statlige universiteter og høyskoler. Private institusjoner fastsetter selv sitt egennavn.
-Institusjonenes egennavn skal reflektere den kategorien institusjonen tilhører.
-Bestemmelsen viderefører kravet om at alle
-universiteter og høyskoler skal registreres i
-Enhetsregisteret. Enhetsregisteret samordner
-grunndata om næringsliv og offentlig sektor. Det
-ni-sifrede organiseringsnummeret identifiserer
-enhetene og gjør det lettere for myndighetene å
-samarbeide om utveksling av opplysninger.
-Andre ledd presiserer at betegnelsene universitet, vitenskapelig høyskole og høyskole er rettslig
-beskyttet og at det er forbudt å bruke slik betegnelse eller å gi et misvisende inntrykk av å ha en
-slik betegnelse. Departementet kan forby bruk av
-institusjonsbetegnelse eller navn som gir inntrykk
-av å ha en slik akkreditering som nevnt i lovbestemmelsen, eller som er egnet til å forveksles
-med betegnelse som høyskole, vitenskapelig høyskole eller universitet. Som eksempler på betegnelser som omfattes av bestemmelsen, kan nevnes «høyere utdanning», «grader» og «studiepoeng» i markedsføring og i generell informasjon
-fra institusjonen. Andre betegnelser som gir inntrykk av akademiske ambisjoner, som «institutt»
-og «akademi», er i utgangspunktet ikke skjermet,
-men departementet kan ved enkeltvedtak forby
-bruk av institusjonsbetegnelser eller navn som
-uriktig gir inntrykk av å ha godkjenning etter
-loven eller er egnet til å forveksles med beskyttet
-betegnelse. Videre følger det av dette leddet at
-departementet bestemmer hvilke betegnelser
-institusjonene skal benytte på andre språk.
-Bestemmelsen gjelder oversettelser av de beskyttede kategorinavnene høyskole, vitenskapelig
-høyskole og universitet, og gjelder ikke oversettelser av institusjonenes navn.
-Tredje ledd fastsetter at departementet etter
-søknad kan gi dispensasjon for etablerte sammensatte betegnelser som ikke er egnet til å forveksles med betegnelsene nevnt i andre ledd. Denne
-unntakshjemmelen tar sikte på etablerte institusjoner som Folkeuniversitetet og Kvinneuniversitetet. Disse er kjent i kraft av sin egenart, og vil
-1
+Studentsamskipnadenes tilbud skal sikre studentene tilgang til velferdstjenester når tjenestene som tilbys i markedet, enten er for dyre eller ikke finnes, eller når det eksisterende tilbudet ikke passer studentenes behov når det gjelder mengde, kvalitet eller geografisk plassering.[^729]
 
-Universitets- og høyskoleloven § 7-2 første ledd.
+### Styre
 
-[Side 376]
+Hver studentsamskipnad skal ha et styre som øverste myndighet, og det er styrets oppgave å sørge for at studentsamskipnaden blir forvaltet tilfredsstillende, jf. studentsamskipnadsloven § 6. Styret skal ha representanter fra studentene, utdanningsinstitusjonen og de ansatte. Studentene kan velge å ha flertall i styret, jf. studentsamskipnadsloven § 6 andre ledd. Det skal være størst mulig åpenhet rundt styrets arbeid, jf. § 6 syvende ledd.
 
-374
+Styret skal ha minst fem medlemmer og ikke flere enn ni medlemmer. Styremedlemmene tjenestegjør normalt i to år og kan gjenvelges etter endt periode, jf. forskrift om studentsamskipnader § 2. Det er studentene som fatter vedtak om styrets sammensetning og størrelse.
 
-Kapittel 39
+Studentene velger sine styremedlemmer gjennom sitt studentorgan eller ved urnevalg i tilfeller der studentorgan ikke er opprettet, jf. forskrift om studentsamskipnader § 3. Ansatte i studentsamskipnadene har rett til å kreve representasjon i styret etter aksjeselskapsloven[^730] § 6-4, det vil si når de har flere enn tretti ansatte og ikke har en bedriftsforsamling. Der studentsamskipnadene har mindre enn 30 ansatte har studentene rett til å velge ett styremedlem blant de ansatte, jf. forskrift om studentsamskipnader § 4. Utdanningsinstitusjonene som er knyttet til studentsamskipnadene oppnevner minst ett medlem til styret. I de tilfellene der flere utdanningsinstitusjoner er tilknyttet en studentsamskipnad må det avtales lokalt hvordan styremedlemmer skal fordeles, jf. forskrift om studentsamskipnader § 5.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+I dag har samtlige styrer i studentsamskipnader studentflertall. Det er studentorganene ved de enkelte institusjonene som velger studentene som skal sitte i styret i studentsamskipnaden. Der det er flere utdanningsinstitusjoner under én og samme studentsamskipnad, er det ofte opprettet et velferdsting som velger styrerepresentantene. Velferdstinget er en interesseorganisasjon og et studentpolitisk organ. Velferdstingets oppgave er å gi studentene som er tilknyttet en studentsamskipnad en felles stemme når det gjelder studentvelferd. Studentorganene velger studentrepresentantene til styret og styrelederen. Studentorganene har dermed muligheten til å velge flertallet av styremedlemmene, inklusiv lederen. Studentorganene ved institusjonene kan også tilbakekalle styremedlemmer. Et slikt vedtak krever to tredjedels flertall.
 
-ikke kunne forveksles med institusjoner som er
-regulert av loven.
-Fjerde ledd fastsetter at det bare er virksomhet
-som er godkjent som universitetssykehus etter
-nærmere regler med hjemmel i spesialisthelsetjenesteloven § 4-1 som kan bruke betegnelsen
-universitetssykehus. Det er Helse- og omsorgsdepartementet som kan gi forskrift om krav til
-godkjenning av virksomheter og helsetjenester
-når hensyn til tjenestetilbudets kvalitet, pasientsikkerhet, samfunnssikkerhet eller beredskap tilsier det. Helse- og omsorgsdepartementet kan
-også tilbakekalle godkjenning som universitetssykehus hvis virksomheten ikke fyller kravene
-som er satt i forskrift.
-Femte ledd hjemler departementets myndighet til å ilegge overtredelsesgebyr til de som forsettlig eller uaktsomt bruker en beskyttet
-institusjonsbetegnelse i strid med bestemmelsen. Foretak kan ilegges slikt overtredelsesgebyr selv om ingen enkeltperson har utvist skyld
-som beskrevet i bestemmelsens første punktum.
-Bestemmelsen hjemler også departementet
-mulighet til å gi forskrift om nærmere regler om
-dette, se forskrift 13. oktober 2017 nr. 1616 om
-overtredelsesgebyr etter universitets- og høyskoleloven og fagskoleloven, som gir regel om
-utmåling i § 2: «Overtredelsesgebyret skal utmåles i hvert enkelt tilfelle. Overtredelsesgebyret
-kan ikke overstige fem ganger folketrygdens
-grunnbeløp (G)».
-§ 2-8. Titler
-En institusjon som har rett til å gi doktorgrad
-eller tilsvarende, kan på de samme fagområder tildele graden æresdoktor (doctor honoris causa)
-for betydningsfull vitenskapelig eller kunstnerisk
-innsats, eller fremragende arbeid til gavn for vitenskapen eller kunsten.
-Departementet kan, ved forskrift eller enkeltvedtak, forby bruk av titler som uriktig gir inntrykk av å være av samme karakter som titler som
-er beskyttet etter første ledd, eller § 2-6 første
-ledd, eller som på en misvisende måte er egnet til
-å forveksles med disse.
-Den som forsettlig eller uaktsomt tildeler eller
-bruker en tittel, alene eller som en del av en annen
-tittel, uten å ha rett til dette etter første ledd eller i
-strid med forbud gitt i medhold av andre ledd, kan
-ilegges overtredelsesgebyr av departementet.
-Foretak kan ilegges slikt overtredelsesgebyr selv
-om ingen enkeltperson har utvist skyld som
-beskrevet i første punktum. Departementet kan gi
-forskrift om utstedelse av, størrelse på, forfall av,
-klage på, overprøving av og lemping av overtredel-
+### Departementets rolle
 
-sesgebyret. Med mindre klagen gis oppsettende
-virkning, er vedtak om overtredelsesgebyr tvangsgrunnlag for utlegg.
-Merknad:
-Bestemmelsen viderefører universitets- og høyskoleloven § 3-2 femte til syvende ledd.
-Første ledd gir alle institusjoner som har rett til
-å tildele doktorgrad en tilsvarende rett til å tildele
-graden æresdoktor på de samme fagområdene.
-Det er satt som vilkår for å kunne tildele en æresdoktorgrad at den som mottar den har prestert
-noe som kan karakteriseres som fremragende
-eller betydningsfullt.
-Andre ledd gir departementet hjemmel til å
-forby bruk av bestemte titler, dersom titlene gir
-inntrykk av å være titler som er beskyttet etter
-§ 2-6 første ledd eller første ledd i denne bestemmelsen. Dette kan gjelde både doktorgradstitler
-og titler på master- eller bachelornivå. Bestemmelsen gir mulighet for departementet til å gripe
-inn mot falske titler og titler som nesten er identiske med andre kjente titler, men som ikke viser
-tilbake til en konkret utdanning. Bruk av falske titler kan være et problem, og titlene kan være mer
-eller mindre lette å avsløre.
-Tredje ledd gir departementet hjemmel til å
-ilegge et overtredelsesgebyr til den som uriktig
-bruker en beskyttet tittel, eller bruker en tittel
-som på misvisende måte er egnet til å forveksles
-med en beskyttet tittel. Foretak kan også ilegges
-slikt overtredelsesgebyr. Samfunnet har et behov
-for å beskytte seg mot at noen gir seg ut for å ha
-en akademisk tittel som ikke samsvarer med
-deres utdanning og kunnskaper. Ulike brukergrupper, som for eksempel studenter og arbeidsgivere, skal kunne ha tillit til at den som bruker en
-akademisk tittel har kunnskapene som den aktuelle tittelen skal gi.
-Mulighet til å sanksjonere slik adferd ved å
-ilegge overtredelsesgebyr kan gjøres både overfor en institusjon som tildeler slike titler og overfor de personene som utgir seg for å ha en tittel
-som ikke finnes, som de ikke har rett til å bruke,
-eller som en institusjon mangler akkreditering for
-å tilby. Departementet må først fastsette at den
-aktuelle tittelen er uriktig eller at personen det
-gjelder ikke har en utdanning som samsvarer med
-den tittelen han gir seg ut for å ha.
-Et eventuelt gebyr vil bli ilagt etter at departementet har truffet vedtak i saken. Saken skal
-følge forvaltningslovens saksbehandlingsregler.
-Hvis departementet vurderer saken slik at grad
-eller tittel brukes eller tildeles i strid med loven,
+Departementet beslutter om studentsamskipnader skal opprettes, legges ned, deles eller slås sammen, jf. studentsamskipnadsloven § 2 tredje ledd. Beslutningene skal bygge på en samlet vurdering, og departementet bør innhente uttalelser fra de berørte partene før beslutningene tas.[^731] Videre har departementet et ansvar for tilsyn med studentsamskipnadene, jf. studentsamskipnadsloven § 14. Tilsynet foregår på et overordnet nivå, hvor tilsynsmyndigheten ser på hvordan studentsamskipnadene bruker de offentlige midlene de mottar, og om de utfører sine lovpålagte oppgaver. Fra og med 1. september 2018 er ansvaret for å gjennomføre tilsyn med studentsamskipnadene delegert fra departementet til Nasjonalt organ for kvalitet i utdanningen (NOKUT).
 
-[Side 377]
+### Tilknytningen til utdanningsinstitusjonene
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Det følger av studentsamskipnadsloven § 4 at alle utdanningsinstitusjoner som universitets- og høyskoleloven gjelder for, skal være tilknyttet en studentsamskipnad. Det er utdanningsinstitusjonen som har det overordnede ansvaret for studentenes læringsmiljø, jf. universitets- og høyskoleloven § 4-3 første ledd. Institusjonen skal stille egnede lokaler til rådighet for studentsamskipnadenes virksomhet ved institusjonen og kreve inn semesteravgift fra studentene, jf. studentsamskipnadsloven § 5 og § 10 femte ledd. Avgiften går i sin helhet til studentsamskipnaden, og det er studentsamskipnadens styre som beslutter hva den skal brukes til.
 
-vil departementet sende en anmodning til overtreder om at bruken må opphøre. Normalt vil det
-da gis en frist på en til tre måneder for å rette opp
-forholdet, og det angis normalt at anmodningen
-er å anse som et forhåndsvarsel, jf. forvaltningsloven § 16. Forskrift 22. november 2018 nr. 1774
-om overtredelsesgebyr § 2 angir at gebyret ikke
-kan overstige fem ganger folketrygdens grunnbeløp (G).
-Det er tilstrekkelig at en person har vært uaktsom for at vedkommende skal kunne ilegges overtredelsesgebyr. For et foretak er det ingen tilsvarende skyldkrav. Et foretak kan ilegges overtredelsesgebyr selv om ingen enkeltpersoner har
-utvist forsett eller uaktsomhet.
-§ 2-9. Forsøk
-Departementet kan, etter søknad fra styret, gi
-tillatelse til at det kan gjøres avvik fra loven og forskriftene til loven i forbindelse med tidsavgrensede pedagogiske eller organisatoriske forsøk.
-Merknad:
-Bestemmelsen gjelder de tilfeller der en institusjon har behov for å teste ut tiltak som ikke er
-hjemlet i loven. Dette kan gjelde organisatoriske,
-pedagogiske eller rettslige tiltak. Styret ved institusjonen må søke departementet om tillatelse til å
-gjøre avvik fra loven. En slik tillatelse skal være
-tidsbegrenset. Institusjonen bør gjøre en evaluering av tiltaket etter avsluttet forsøk, men det er
-ikke satt krav i loven om dette.
-Kapittel 3 Organisering og ledelse ved statlige
-institusjoner
-§ 3-1. Styrets ansvar
-Styret er det øverste organet ved institusjonen. Alle beslutninger ved institusjonen truffet av
-andre enn styret, treffes etter delegasjon fra styret og på styrets ansvar. Styret kan delegere sin
-avgjørelsesmyndighet til andre ved institusjonen
-i den utstrekning det ikke følger av denne loven
-at styret selv skal ta avgjørelsen, eller det er
-andre særlige begrensninger i adgangen til å
-delegere.
-Styret har ansvar for at virksomheten holder
-høy kvalitet, og for at institusjonen drives effektivt
-og i overensstemmelse med de rammer og mål
-som gis av overordnet myndighet.
-Styremedlemmene er uavhengige i utførelsen
-av sine verv.
-Departementet kan gi skriftlig instruks til styret når instruksjonsmyndigheten ikke er avskåret,
-jf. § 2-4 fjerde ledd.
+Etter forskrift om studentsamskipnader § 14 tredje ledd er ledelsen i henholdsvis utdanningsinstitusjonen og studentsamskipnaden pålagt å ha faste møter for å ivareta samarbeidet seg imellom. Det følger av § 14 andre ledd at studentsamskipnaden og utdanningsinstitusjonen skal fastsette nærmere regler om samarbeidet og ansvarsfordelingen mellom utdanningsinstitusjonen og studentsamskipnaden. Nærmere krav om hva de konkret skal samarbeide om, og hvem som skal ha ansvar for hva, er ikke regulert.
 
-375
+#### Særlig om plikten til å stille fri stasjon
 
-Kapittel 39
+Et viktig element i samarbeidet mellom utdanningsinstitusjonene og studentsamskipnadene om studentenes velferd er ordningen med fri stasjon. Uttrykket «fri stasjon» betyr lokaler med basisutstyr som utdanningsinstitusjonen vederlagsfritt skal stille til disposisjon for studentsamskipnadenes studentvelferdsvirksomhet, for eksempel til kantinedrift.[^732] Etter studentsamskipnadsloven § 5 tredje ledd har utdanningsinstitusjonen *plikt* til å stille fri stasjon, mens forskrift om studentsamskipnader §§ 11 og 12 angir momenter for å fastsette omfanget av ytelsen. Det er krav til at lokalene skal være av en slik art og størrelse at de står i rimelig forhold til antallet studenter og det omfang av tjenester studentsamskipnaden har overfor studentene ved institusjonen. Videre skal det være en hensiktsmessig geografisk nærhet mellom fri stasjon-lokalene og utdanningsvirksomheten, jf. forskrift om studentsamskipnadene § 12 første ledd. Der det er utfordrende å angi hvor stor del av lokalene som kan benyttes til studentvelferd, skal man estimere andelen ved å se hen til hvor stor andel av inntektene fra salg og tjenester som kommer fra andre brukere enn studentene.
 
-Merknad:
-Bestemmelsen bygger på dagens lov § 9-1, men
-med enkelte justeringer. Selv om statlige institusjoner er statlige forvaltningsorganer, har de særskilte fullmakter. Lovforslaget § 3-1 regulerer styrets ansvar, mens forslaget til § 3-2 regulerer styrets oppgaver.
-Første ledd har nærmere regler om delegasjon.
-Hver statlige utdanningsinstitusjon er ett organ,
-selv om de har flere enheter. Dermed står en overfor det som kalles intern delegasjon. Dersom
-utkastet til ny forvaltningslov, jf. NOU 2019: 5, blir
-vedtatt, vil en del regler om delegasjon inntas i forvaltningsloven, jf. utkastet til ny forvaltningslov
-§§ 23–25. Det er ikke nødvendig å ta inn bestemmelser om delegasjon i ny universitets- og høyskolelov. Også uten særlig hjemmel ville styret
-kunne delegere oppgaver. På samme måte som i
-dagens lov, mener utvalget at det er mest ryddig
-at delegasjonsadgangen fremgår av loven. Utvalget har foreslått å fjerne de fleste av sperrene mot
-delegasjon som fremgår av gjeldende lov, jf.
-uttrykket «styret selv». Styret vil derfor ha stor frihet til å avgjøre hvilke saker det selv skal ta stilling til, og hvilke oppgaver som skal legges til
-andre organer eller personer ved institusjonen. På
-samme måte som etter dagens lov stiller ikke
-bestemmelsen opp formkrav for delegasjon, og
-ofte vil tildeling av myndighet skje underforstått
-ved opprettelse av organ eller gjennom stillingsinstruks. Styret kan når som helst trekke tilbake
-en avgjørelse om delegasjon. Styret kan også gi
-instruks om hvordan den delegerte myndigheten
-skal utøves.
-Andre ledd er en videreføring av dagens lov
-§ 9-1 første ledd andre setning, men den er forenklet og noe justert. Styret skal sikre at institusjonen holder høy kvalitet, både i forskning,
-undervisning og administrativt. Videre skal institusjonen holde seg innenfor de rammene som er
-satt av overordnet myndighet, og den skal drives
-effektivt. Bestemmelsen beskriver mål, og ikke
-rettslige krav, til institusjonens virksomhet. De
-rettslige kravene er først og fremst knesatt gjennom andre bestemmelser i loven, eller gjennom
-andre lover eller forskrifter som setter rettslige
-normer for institusjonens virksomhet.
-Tredje ledd er ny i forhold til dagens lov, som
-ikke inneholder en uttrykkelig bestemmelse om
-at styremedlemmene er uavhengige. Også etter
-gjeldende lov må eventuell statlig styring skje
-overfor institusjonens styre, og ikke enkeltmedlemmer. Målet med bestemmelsen er å fremheve
-at styremedlemmene har et selvstendig ansvar for
+I praksis er det opp til den enkelte utdanningsinstitusjon og studentsamskipnad å komme til enighet om omfanget av fri stasjon, men partene er pålagt å inngå skriftlige avtaler om fri stasjon, jf. forskrift om studentsamskipnader § 13. Det er ofte store variasjoner i omfanget og arten av ytelsene.
 
-[Side 378]
+### Studentvelferdstjenestene
 
-376
+#### Studentboliger
 
-Kapittel 39
+Studentboliger tilbys av samtlige studentsamskipnader, og er det desidert største virksomhetsområdet for studentsamskipnadene målt i omsetning og varige driftsmidler. Som ledd i nasjonal eller lokal studentpolitikk bygges studentboliger som hovedregel med offentlige tilskudd og husbanklån. Det hender også at studentsamskipnadene får andre økonomiske fordeler, som skattefritak og tomter i gave eller til «gavepris» fra kommunene.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Utdanningsinstitusjonene har ofte interesser i boligvirksomheten til studentsamskipnadene. Ofte ønsker de for eksempel å kunne tilby en form for boliggaranti til utenlandske studenter for å forenkle rekrutteringen av dem. Dette løses gjerne ved at studentsamskipnaden på stedet prioriterer nyankomne utenlandske studenter ved tildeling av boliger, mot at utdanningsinstitusjonen stiller ulike former for økonomiske garantier til studentsamskipnaden. Rapporten som gjennomgikk tilskuddordningen for studentboliger viste derimot at svært få institusjoner stiller med ulike former for økonomiske garantier til samskipnaden, noe som resulterer i et estimert tap for studentsamskipnadene på 37 millioner kroner per år grunnet tomgang.[^733] Selv om dette er et eksempel på at studentsamskipnadene aktivt bidrar til å oppnå et mål satt av utdanningsinstitusjonene, kan det gi et bilde av utfordringer knyttet til samarbeidet mellom institusjonene og studentsamskipnadene.
 
-å fatte avgjørelser ut fra hva som er institusjonens
-beste.
-Fjerde ledd er ny i forhold til dagens lov og slår
-fast at instrukser må gis skriftlig. Departementet
-må derfor forholde seg til styret som representant
-for institusjonen, dersom det skal gi instrukser, jf.
-utkastet § 2-4. Dagens lov setter ikke opp et formkrav, men utkastet foreslår at eventuelle instrukser skal være skriftlige. Instruksjoner kan gis i
-brevs form i enkeltsaker, eller de kan inngå som
-en del av større dokument, for eksempel tildelingsbrev.
-§ 3-2. Styrets oppgaver
-Styret skal fastsette strategi og budsjett for
-institusjonens virksomhet.
-Styret skal sørge for at institusjonens regnskap er i samsvar med lover, forskrifter og eventuelle retningslinjer.
-Styret selv skal fastsette instruks for rektor og
-føre tilsyn med rektors daglige ledelse av virksomheten.
-Styret selv skal fastsette virksomhetens
-interne organisering. Ansatte og studenter må
-høres i beslutninger om endringer av organisering.
-Merknad:
-Bestemmelsen er i hovedsak en videreføring av
-dagens lov § 9-2, men er forenklet.
-Første ledd fastsetter styrets ansvar for strategier og budsjett. Dette er to hovedoppgaver for et
-styre og er derfor fremhevet i loven.
-Annet ledd fremhever styrets ansvar for regnskapet. Her vil en rekke føringer følge av reguleringer utenfor universitets- og høyskoleloven,
-blant annet regelverket for økonomistyring i staten, statlige regnskapsstandarder og retningslinjer fra departementet.
-Tredje ledd viderefører dagens lov § 9-2 tredje
-ledd, men er forenklet. Bestemmelsen slår fast at
-styret skal fastsette instruks for rektor, mens gjeldende lov bruker uttrykket «daglige ledelse».
-Uansett kan styret også etter bestemmelsen her
-fastsette instruks for andre, men dette er ikke lovpålagt. En viktig del av styrets arbeid er å føre tilsyn med rektor.
-Fjerde ledd er en direkte videreføring av
-dagens § 9-2 fjerde ledd. Tidligere inneholdt lovgivningen nærmere krav til organiseringer med
-avdelinger (fakultet) og grunnenhet (institutt).
-Gjeldende lov inneholder ingen føringer, og utvalget foreslår å videreføre denne friheten til intern
-organisering. Mange institusjoner vil ha fakulteter
+#### Kantine
 
-og institutter, men dette er ikke påkrevet etter
-loven, og institusjonene kan for eksempel opprette sentre direkte underlagt styret. Ansvaret for
-å organisere institusjonen er lagt til «styret selv».
-Dette innebærer et delegasjonsforbud, og styret
-kan ikke legge organiseringen til andre organer
-eller personer. Delegasjonsforbudet betyr imidlertid ikke at alle mulige spørsmål om organisering
-besluttes av styret. Som etter dagens lov er det
-bare hovedtrekkene som må besluttes av styret,
-slik som oppretting og nedleggelse av avdelinger
-og grunnenheter. På samme måte som etter
-dagens lov har styret et ansvar for å sikre at studenter og de ansatte blir hørt, men loven setter
-ikke nærmere krav til hvordan dette skal skje.
-§ 3-3. Styrets sammensetning
-Styret skal ha elleve medlemmer og bestå av
-a) fire medlemmer valgt blant ansatte i undervisnings- og forskerstilling
-b) ett medlem valgt blant de teknisk og administrativt ansatte
-c) to medlemmer valgt blant studentene og
-d) fire eksterne medlemmer.
-Departementet og styret oppnevner to av de
-eksterne styremedlemmene hver.
-Departementet utpeker ett av de eksterne
-styremedlemmene til å være styrets leder.
-Departementet og styret oppnevner ett varamedlem hver. Styret selv skal fastsette regler om
-varamedlemmer for de valgte styremedlemmene.
-Styret selv kan fastsette en annen styresammensetning enn fastsatt i første ledd. Ansatte i
-undervisnings- og forskerstilling, teknisk og administrativt ansatte, studenter og eksterne skal være
-tilfredsstillende representert i styret. Ingen av
-disse gruppene skal ha flertall alene.
-Styreleder og styremedlemmer har krav på en
-rimelig godtgjørelse for vervet. Godtgjørelsen
-fastsettes av departementet.
-Departementet kan i særlige tilfeller fastsette
-en annen styresammensetning eller styreordning
-enn beskrevet i denne loven.
-Merknad:
-Første ledd innebærer at styret har elleve medlemmer og beskriver styrets sammensetning. Fordelingen mellom de ulike gruppene er den samme
-som i gjeldende § 9-3 første ledd.
-Andre ledd gir både departementet og styret
-myndighet til å oppnevne to eksterne styremedlemmer hver.
-Tredje ledd innebærer at departementet utpeker styrets leder blant de eksterne medlemmene.
+Flertallet av studentsamskipnadene driver kantine. For flere av dem er det utfordrende å drive kantinevirksomheten lønnsomt, noe som i minst ett tilfelle har ført til at en studentsamskipnad har lagt ned virksomheten og overlatt til andre å drifte kantine.[^734] Fem av 14 samskipnader rapporterte underskudd på kantinedrift i 2017.
 
-[Side 379]
+#### Barnehager
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Studentsamskipnader med barnehager som kan tilby andre barnehagetjenester enn det som finnes ellers i markedet, er fortsatt et ettertraktet alternativ for studentene. Dette gjelder spesielt de største studentsamskipnadene, som kan tilby tjenester som kvelds- og nattpass, tidvis også pass av barn i helgen, pass av syke barn og «eksamensgaranti» for studenter med barn.
 
-Departementet bestemmer selv om det vil utpeke
-styreleder blant de medlemmene departementet
-selv oppnevner eller blant styremedlemmene styret oppnevner. Bestemmelsen innebærer at institusjonene ikke kan ha valgt rektor som styres
-leder, og er en endring av dagens rettstilstand, jf.
-dagens lov §§ 10-1 og 10-2.
-Fjerde ledd regulerer oppnevning av varamedlemmer, og må ses i sammenheng med første
-ledd. Departementet oppnevner ett varamedlem
-for de to eksterne styremedlemmene det oppnevner. Styret oppnevner også ett varamedlem for de
-to eksterne styremedlemmene det oppnevner.
-Det innebærer at styret vil ha to eksterne varamedlemmer, som er vara for hver sin gruppe av
-styremedlemmer. Styret fastsetter regler for
-varamedlemmer for de valgte styremedlemmene, og loven har ingen begrensninger på hvor
-mange varamedlemmer det skal være for de
-valgte medlemmene.
-Femte ledd gir styret selv myndighet til å fastsette en annen styresammensetning enn lovens
-normalordning, som er en videreføring av
-dagens lov § 9-3 tredje ledd. Dermed får institusjonene et handlingsrom, som typisk vil være
-aktuelt ved sammenslåinger, men som også kan
-brukes i andre situasjoner. Bestemmelsen slår
-fast at styret uansett skal ha en tilfredsstillende
-representasjon av alle grupper ved institusjonen,
-og at ingen grupper skal ha flertall alene. Dette
-er en videreføring av dagens lov § 9-3 tredje ledd.
-Det foreslås en generell bestemmelse om at alle
-styrets avgjørelser treffes med simpelt flertall, jf.
-§ 3-10.
-Sjette ledd gir styret krav på en rimelig godtgjørelse fastsatt av departementet. Det er ikke
-nærmere spesifisert hvilke momenter departementet skal eller bør ta i betraktning ved fastsettelse av godtgjørelsen. Dette blir følgelig opp til
-departementets skjønn, og viderefører dagens lov
-§ 9-3 femte ledd.
-Syvende ledd innebærer at departementet kan
-skreddersy styreordning og sammensetning i de
-tilfellene det er behov for det. Bestemmelsen viderefører dagens lov § 9-3 sjette ledd. Departementets myndighet til skreddersøm er videre enn styrets ved at det også kan fastsette en annen styreordning, noe som typisk kan være aktuelt i forbindelse ved sammenslåinger. Bestemmelsen setter
-opp en terskel for når departementet bør bruke
-myndigheten, ved at ordlyden viser til «særlige tilfeller». Først og fremst er dette et signal om at
-endret styresammensetning krever en særskilt
-begrunnelse, og at ordningen bare benyttes unntaksvis.
+#### Studenthelsetjeneste
 
-377
+Noen studentsamskipnader har egne studenthelsetjenester, mens andre har valgt å inngå avtaler med kommunehelsetjenesten slik at studentene får refundert konsultasjonsutgifter. Det finnes også eksempler på at kommunen og studentsamskipnaden har inngått avtale om oppgjør seg imellom. Det er imidlertid svært ulik praksis fra studentsamskipnad til studentsamskipnad, og noen tilbyr verken helsetjenester eller refusjonsordninger for utgifter til kommunal helsehjelp. Tilbudet avhenger av hvor store studentsamskipnadene er, hvor god økonomi de har, og hvilke prioriteringer de gjør.
 
-Kapittel 39
+Studentsamskipnadenes prioritering av helse
 
-§ 3-4. Valg og oppnevning av styret
-Eksterne styremedlemmer, styremedlemmer
-som er ansatt ved institusjonen, og varamedlemmer for disse, oppnevnes og velges for fire år.
-Valg av styremedlemmer blant ansatte i undervisnings- og forskerstilling og valg av styremedlemmer blant ansatte i teknisk- og administrativ
-stilling gjøres hver for seg.
-Hvis de midlertidig ansatte i undervisnings- og
-forskerstilling utgjør mer enn 25 prosent av de
-ansatte i undervisnings- og forskerstilling ved
-institusjonen, skal denne gruppen velge ett av
-styremedlemmene fra de ansatte i undervisningsog forskerstilling. Det skal foretas særskilt valg
-for denne gruppen. Slikt styremedlem velges for
-ett år.
-Styremedlemmer fra studentgruppen, og varamedlemmer for disse, velges for ett år.
-Departementet kan i særlige tilfeller forlenge
-styrets funksjonsperiode og styremedlemmenes
-tjenestetid.
-Ingen kan gjenvelges som styremedlem hvis
-vedkommende har fungert sammenhengende i
-vervet i åtte år ved begynnelsen av den nye valgperioden.
-Kravene i likestillings- og diskrimineringsloven om representasjon av begge kjønn skal
-være oppfylt innen den enkelte valg- og oppnevningskrets.
-Styret selv skal fastsette nærmere regler om
-valgene.
-Merknad:
-Bestemmelsen bygger på dagens lov § 9-4, men
-er forenklet og presisert. Dessuten reflekterer
-den at både departementet og styret oppnevner
-de eksterne styremedlemmene. Det er ulike
-valg- og oppnevningsperioder for styremedlemmer og -varamedlemmer valgt av studentene og
-øvrige styremedlemmer.
-Første ledd første setning fastsetter at styreperioden for eksterne styremedlemmer og
-ansatte ved institusjonen, og deres varamedlemmer, er fire år. Første ledd andre setning bestemmer, slik som etter gjeldende lov, at det skal være
-særskilt valg for de to hovedgruppene av ansatte
-ved institusjonene. Hvor mange som skal velges
-fra disse to gruppene av ansatte følger av § 3-3
-første ledd.
-Andre ledd viderefører dagens lov § 9-4 andre
-ledd. Midlertidig ansatte i forsknings- og undervisningsstilling skal velge ett styremedlem hvis de
-utgjør mer enn 25 prosent av de ansatte i slike stil-
+Helse er høyt prioritert blant studentsamskipnadene, og da særlig studentenes psykiske helse. Tre ganger de siste åtte årene har studentsamskipnadene utført Studentenes helse- og trivselsundersøkelse (SHoT). Undersøkelsen har avdekket at mange studenter sliter psykisk. Disse bør få tilbud om hjelp. Dette er i utgangspunktet det offentliges ansvar, men studentsamskipnadene kan spille en rolle ved å ha et tilbud som ellers ikke er tilgjengelig for studentene. Studentsamskipnaden i Oslo klassifiserer sitt tilbud innenfor psykisk helsevern som et gratis lavterskeltilbud til studenter med lettere psykiske helseplager. Tilbudet skal også bistå studentene gjennom fastlegeordningen eller med henvisning til spesialisthelsetjenesten. Studentene skal få et tilbud som er tilpasset deres behov.
 
-[Side 380]
+\[Boks slutt\]
 
-378
+Alle studentsamskipnadene har en form for rådgivnings-, sosionom- eller sosialrådgivningstjeneste, som gir råd, veiledning og praktisk hjelp om forhold som er studentrelaterte. De kan for eksempel tilby «ta ordet»-kurs, hjelp mot eksamensangst og kurs i studiemestring. Rådgivningen er ikke en del av studenthelsetjenesten eller det kommunale helsetilbudet, og heller ikke en del av utdanningsinstitusjonens faglige tilrettelegging og oppfølging av studenten. Studentsamskipnadenes tilbud er et supplement, som fanger opp behov de etablerte tilbudene ikke dekker. De ulike behovene har allikevel ofte sammenheng og går over i hverandre, slik at studentene kan bli henvist fra én tjeneste til en annen.
 
-Kapittel 39
+#### Trening
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Universiteter og høyskoler har ofte studentidrettslag som tilbyr organisert trening i for eksempel ballidrett, kampsport og danseklubber. Disse drives som ordinære idrettslag/-foreninger. Studentidrettslagene er i hovedsak tuftet på frivillighet og mottar noen steder økonomisk driftsstøtte og bistand til administrativt arbeid fra studentsamskipnaden.
 
-linger. Hvis de midlertidig ansatte utgjør mindre
-enn 25 prosent, kan styret ved institusjonen likevel bestemme at de skal være representert i styret, jf. § 3-3 femte ledd. Valgperioden for denne
-typen midlertidig ansatte er ett år siden tilsettingsforholdet er tidsbegrenset. Dette utelukker ikke
-gjenvalg med mindre en når opp til den absolutte
-begrensninger i § 3-4 femte ledd. Som etter gjeldende lov skal det foretas særskilt valg for denne
-gruppen.
-Tredje ledd viderefører dagens lov § 9-4 tredje
-ledd. Valgperioden for styremedlemmer valgt av
-studentene er på ett år, og det skal foretas særskilt
-valg. På samme måte som for midlertidig ansatte
-kan studentrepresentanter gjenvelges. På samme
-måte som etter gjeldende lov stiller ikke loven opp
-nærmere krav om valgordning, og dette må derfor hver enkelt institusjon vedta, jf. § 3-4 syvende
-ledd.
-Fjerde ledd viderefører dagens lov § 9-4 femte
-ledd. Departementet kan forlenge styrets funksjonsperiode og tjenestetid. Dette vil typisk være
-aktuelt ved sammenslåinger. På samme måte
-som at det må være «særlige tilfeller» for at
-departementet skal fastsette annen styresammensetning eller –ordning, jf. § 3-3 syvende ledd,
-må det være «særlige tilfeller» for at departementet kan endre styrets funksjonsperiode og tjenestetid. Det er imidlertid lagt til grunn at departementet som overordnet myndighet og med
-grunnlag i departementets alminnelige instruksjonsmyndighet, kan forlenge styreperioden og
-styremedlemmenes tjenestetid, jf. Ot.prp. nr. 71
-(2008–2009) s. 27 og Innst. O. nr. 78 (2008–2009).
-Bestemmelsen her klargjør dette og gir forutberegnelighet.
-Femte ledd viderefører dagens lov § 9-4 åttende
-ledd. Loven setter dermed en maksimal tjenestetid på åtte år for å sikre en fornyelse blant styremedlemmene. I praksis er dette særlig aktuelt for
-eksterne styremedlemmer og de som er valgt
-blant de ansatte. Den tidligere styreperioden må
-være «sammenhengende» slik at et medlem kan
-sitte mer enn åtte år gjennom ulike perioder. Tid
-som varamedlem teller ikke med. Begrensningen
-er knyttet til institusjonen, slik at eksterne styremedlemmer kan sitte mer enn åtte år sammenhengende, men ved forskjellige institusjoner.
-Sjette ledd viderefører dagens lov § 9-4 niende
-ledd. Henvisningen til den konkrete bestemmelsen i likestilling- og diskrimineringsloven er tatt
-ut slik at universitets- og høyskoleloven ikke må
-endres hvis likestilling- og diskrimineringsloven
-endres. Likestilling- og diskrimineringsloven
-§ 28 har regler om kjønnsbalanse i offentlige
+I tillegg har åtte av studentsamskipnadene et tilbud om trening i egne treningssentre. Tilbudene varierer. Noen studentsamskipnader driver i egen regi, mens andre subsidierer studentenes bruk av eksterne treningssentre. Studentsamskipnadenes satsing på treningssentre øker i omfang. Det er eksempler som tyder på at studentsamskipnader bruker midler fra driftsoverskuddet til å investere i nye treningssentre.[^735] Det har de siste årene blitt bygd flere treningssentre som ligner sentrene som ellers tilbys i det private markedet. Denne tjenesten blir i stor grad benyttet også av andre enn studenter, ved at sentrene er åpne for ikke-studenter mot en høyere medlemsavgift. Studentsamskipnaden i Agder og Stavanger har for eksempel i sin rapportering til Database for statistikk og høgre utdanning (DBH) i 2017 opplyst om at henholdsvis 62 prosent og 51,7 prosent av omsetningen ved deres treningssentervirksomhet kom fra andre enn studenter.
 
-utvalg mv. Denne fastsetter minstekrav for representasjon av kjønn ut fra utvalget som helhet.
-Siden styremedlemmene ved institusjonene velges eller utpekes gruppevis, er det nødvendig
-med en særregel i universitets- og høyskoleloven. Direkte gjelder lovbestemmelsen bare styret for institusjonen, men den vil få tilsvarende
-anvendelse på andre kollektive organ ved institusjonen, for eksempel styrer ved fakulteter eller
-institutter.
-Syvende ledd gir styret selv myndighet til å fastsette nærmere regler om valgene. Lovens regler
-om valg er såpass åpne at alle institusjoner vil
-måtte ha et mer detaljert valgreglement. Ut over
-mer tekniske regler vil institusjonen også kunne
-ha regler om valgbarhet, for eksempel hvor høy
-stillingsprosent deltidsansatte må ha for å kunne
-stemme og være valgbare. Gjeldende lov § 9-5 om
-plikt til å ta imot og utføre tillitsverv er ikke videreført, og det er heller ikke gjeldende § 9-4
-syvende ledd om at styret kan bestemme at visse
-stillinger ikke er valgbare til institusjonens styre.
-Siden disse to bestemmelsene er tatt ut av loven,
-er det opp til styret å vurdere eventuell regulering
-av slike forhold.
-§ 3-5. Rektor
-Rektor står for den daglige ledelse av virksomheten. Rektor skal holde styret orientert om institusjonens virksomhet og resultatutvikling.
-Styret ansetter rektor, med mindre rektor velges etter bestemmelsene i tredje til sjette ledd og
-§ 3-6.
-Styret selv kan bestemme at rektor skal velges. Både institusjonens ansatte og eksterne kandidater er valgbare som rektor. Styret selv kan
-fastsette nærmere regler om nominasjon av
-eksterne kandidater, og om kandidatenes kvalifikasjoner.
-Valgperioden er normalt fire år. Ingen kan gjenvelges som rektor hvis vedkommende vil ha fungert i dette vervet i et sammenhengende tidsrom på
-åtte år ved den nye valgperiodens begynnelse.
-Den som blir valgt som rektor, ansettes i en
-åremålsstilling og får permisjon fra sin ordinære
-stilling hvis vedkommende allerede er fast ansatt
-ved institusjonen.
-Styret fastsetter nærmere regler om valget.
-Merknad:
-På samme måte som etter dagens lov kan rektor
-rekrutteres på to måter, enten etter valg eller ved
-ansettelse. Bestemmelsen første ledd regulerer
-ansatt rektor, mens andre til sjette ledd gjelder
+Det har vært satt søkelys på studentsamskipnadenes treningstilbud til andre enn studenter på grunn av regelverket om offentlig støtte, som forbyr kryssubsidiering mellom konkurranseutsatt og ikke konkurranseutsatt virksomhet. Problemstillingen ble illustrert gjennom den såkalte SiB-saken fra 2003, som ble lukket av EFTAs overvåkningsorgan i 2009[^736] etter at ny lov og forskrift om studentsamskipnader kom på plass. Det ble anført at Studentsamskipnaden i Bergen (SiB) drev med kommersiell virksomhet og kryssubsidiering ettersom medlemskap på SiBs treningssenter ble tilbudt andre enn studenter, til en høyere pris. Den nye loven og forskriften skulle hindre kryssubsidiering, og ordningen var dermed i tråd med EØS-regelverket.
 
-[Side 381]
+#### Bokhandel
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Der studentsamskipnadene driver bokhandel ligger denne normalt i utdanningsinstitusjonens lokaler. Bokhandlene spesialiserer seg på studielitteratur, samtidig som de i varierende grad tilbyr et ordinært bokhandelssortiment.
 
-valgt rektor. De to alternativene – valgt og ansatt
-rektor – er likestilte.
-Første ledd slår fast at rektor er daglig leder for
-virksomheten. Nytt i forhold til gjeldende lov er at
-rektors rolle er den samme uavhengig av om vedkommende er valgt eller ansatt.
-Andre ledd legger ansvaret for å ansette rektor
-til styret og bygger på gjeldende § 10-1 første
-ledd. Bestemmelsen er forenklet ved at flere av
-detaljene i gjeldende lov ikke er videreført. Dermed får styret større frihet i hvordan de vil legge
-opp rekrutteringsprosessen. Ansatt rektor har
-samme åremålsperiode som valgt rektor på fire år,
-med mulighet for fornyelse én gang, jf. utkastet til
-§ 11-6 første ledd bokstav a.
-Tredje ledd første setning gir styret myndighet
-til å bestemme at rektor skal velges. Den bygger
-på dagens § 10-2 første ledd, men bestemmelsen
-er forenklet ved at flere av detaljene i gjeldende
-lov ikke er videreført. Beslutning om at rektor
-skal velges treffes med simpelt flertall, jf. utkastet
-til § 3-10. Et vedtak om valgt rektor gjelder, inntil
-styret fastsetter en annen ordning.
-Tredje ledd annen setning fastsetter at både
-institusjonens ansatte og eksterne kandidater er
-valgbare som rektor, slik som etter gjeldende lov.
-Tredje ledd tredje setning gir styret kompetanse
-til å gi regler om nominasjon av eksterne kandidater, slik som etter gjeldende lov. Det er nytt, men
-ikke en endring av gjeldende rett, at bestemmelsen uttrykkelig slår fast at styret kan gi regler om
-kvalifikasjoner til eksterne kandidater. Styret kan
-for eksempel kreve førstestillingskompetanse.
-Fjerde ledd viderefører dagens lov § 10-2
-andre ledd. Valgperioden er normalt på fire år,
-hvilket samsvarer med valgperioden for styremedlemmer valgt av de fast ansatte ved institusjonen og eksterne styremedlemmer. En annen
-valgperiode enn fire år vil særlig være aktuelt om
-tidligere rektor går av før utløpet av perioden. Da
-kan den nye rektorperioden både settes kortere
-og lenger enn fire år. På samme måte som for
-styremedlemmer setter loven en grense for
-nyvalg om vedkommende har fungert for en
-sammenhengende periode på åtte år som rektor
-ved begynnelsen av den nye valgperiode. Hvis en
-rektor har sittet tre pluss fire år på grunn av justert valgperiode, vil vedkommende kunne sitte
-en ny periode på fire år.
-Femte ledd bygger delvis på dagens lov § 10-2
-tredje ledd. Hvis den som institusjonen velger
-som rektor ikke allerede har et tilsettingsforhold,
-går vedkommende inn i en åremålsstilling, på
-samme måte som etter gjeldende § 10-2 tredje
-ledd. Nytt i forhold til tidligere er at valgt rektor –
+### Finansiering og bruk av overskudd
 
-379
+Studentsamskipnadene finansieres av offentlig tilskudd, semesteravgift fra studentene og salg av tjenester (velferdstjenester) til studenter og ikke-studenter.[^737] Av de totale driftsinntektene til studentsamskipnadene i 2017 utgjør offentlig tilskudd om lag 1,1 mrd. kroner (27,5 prosent), salgsinntekter 930,3 mill. kroner (22,5 prosent), leieinntekter fra studentboliger 1769,7 mill. kroner (42,9 prosent) og andre driftsinntekter 296,5 mill. kroner (7,2 prosent).[^738] Av offentlig tilskudd utgjør semesteravgiften 260,2 mill. kroner og driftstilskuddet fra Kunnskapsdepartementet utgjør 91,1 mill. kroner. Studentsamskipnadene kan også motta tilskudd fra vertskommunen og andre offentlige organer. Offentlige tilskudd består av fristasjonsytelser (199,5 mill. kroner), semesteravgift, driftstilskudd (139,2 mill. kroner), utsatt inntekt- studentboliger (127,8 mill. kroner) og andre offentlige tilskudd (407,2 mill. kroner). I tillegg til ulike former for tilskudd, mottar mange studentsamskipnader ulike former for skattefritak og andre økonomiske fordeler som lavere tomtepriser.
 
-Kapittel 39
+Landets 14 studentsamskipnader hadde i 2017 driftsinntekter på drøyt 4,1 mrd. kroner til sammen. Driftskostnadene var totalt på vel 3,6 mrd. kroner. Studentsamskipnadene hadde totalt en årlig resultatgrad[^739] på cirka 12 prosent, og har de siste fem årene ligget på omkring ti prosent.
 
-som allerede er ansatt ved institusjonen – får permisjon fra stilling og ansettes i en midlertidig stilling som rektor. Dette følger av at rektorrollen er
-annerledes når en valgt rektor ikke er styreleder.
-Sjette ledd viderefører dagens lov § 10-2 femte
-ledd og gir styret myndighet til å gi nærmere
-regler om valget. Samtidig er handlingsrommet til
-styret videre enn etter dagens lov, siden bestemmelsen her har færre krav enn gjeldende lov.
-§ 3-6. Valg av rektor
-Hvis styret har bestemt at rektor skal velges,
-skal stemmene når de telles opp vektes slik at
-stemmene til de ansatte vektes 75 prosent og
-stemmene til studentene vektes 25 prosent.
-Merknad:
-Bestemmelsen er ny. Den slår fast at hvis styret har
-bestemt at rektor skal velges, skal stemmene når de
-telles opp vektes slik at stemmene til de ansatte vektes 75 prosent og stemmene til studentene vektes
-25 prosent. Etter gjeldende lov vektes stemmene
-etter en fordelingsnøkkel som innebærer at når
-stemmene telles opp, teller ansatte i undervisningsog forskerstilling vesentlig mer enn stemmene til
-teknisk- og administrativt ansatte og studenter.
-§ 3-7. Styrets saksbehandling
-Styrelederen skal i samråd med rektor sørge
-for behandling av aktuelle saker som hører inn
-under styret.
-Styreleder, det enkelte styremedlem og rektor
-kan kreve at styret behandler bestemte saker.
-Styrebehandling varsles på hensiktsmessig
-måte og med nødvendig frist.
-Rektor forbereder saker som skal behandles
-av styret i samråd med styrets leder. Rektor legger sakene frem for styret. En sak skal forberedes
-og fremlegges slik at styret har et tilfredsstillende
-behandlingsgrunnlag.
-Styret skal behandle saker i møte, med mindre
-styrets leder finner at saken kan forelegges skriftlig eller behandles på annen betryggende måte.
-Styremedlemmene og rektor kan kreve møtebehandling.
-Styret skal sørge for størst mulig grad av åpenhet om arbeidet sitt. Styrets møter skal holdes for
-åpne dører. Styret kan bestemme at møtene skal
-holdes for lukkede dører, eller at bestemte saker
-skal behandles for lukkede dører. Behandling av
-spørsmål om lukking av dørene skjer for lukkede
-dører.
-Styrebehandlingen ledes av styrelederen. Hvis
-styrelederen ikke kan delta, velger styret ett av de
+Salgsinntekter består av inntekter fra tjenestetilbudene, som er foreldrebetaling i barnehage, treningsavgifter, salgsinntekter fra bokhandel, salgsinntekter fra kantiner og catering og øvrige salgsinntekter. Andre driftsinntekter er egenandel for helsetjenester, fellestjenester og driftsstøtte, og øvrige driftsinntekter. Salgsinntektene utgjør 72,5 prosent av de totale inntektene til studentsamskipnadene.[^740] Den kommersielle delen av virksomheten (salg til andre enn studenter) til studentsamskipnadene utgjør til sammen 13,6 prosent.[^741]
 
-[Side 382]
+Overskuddet kan ikke tas ut av virksomheten, og går inn i studentsamskipnadenes egenkapital. Når overskuddet ikke benyttes til å redusere prisene på tjenestene i den løpende driften, vil det kunne gå til større investeringer. Dette kan for eksempel være utbygging av nye treningssentre, slik som studentsamskipnaden i Trondheim, Ålesund og Gjøvik rapporterte om i 2018.[^742]
 
-380
+## Utvalgets vurderinger
 
-Kapittel 39
+### Innledning
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Mandatet til universitets- og høyskolelovutvalget åpner for at utvalget kan foreslå endringer i studentsamskipnadsloven og forskrift om studentsamskipnader. Utvalget står etter mandatet også fritt til å vurdere om studentsamskipnadsloven skal tas inn i en ny lov om universiteter og høyskoler.
 
-andre styremedlemmene til å lede styrebehandlingen.
-Rektor har rett til å delta i behandlingen av
-saker og til å uttale seg. Styret kan, hvis det er
-nødvendig for forsvarlig saksbehandling i styret,
-bestemme at rektor ikke skal delta i behandlingen
-av den enkelte sak.
-Styret kan kreve at rektor gir styret en nærmere redegjørelse om bestemte saker. Slik redegjørelse kan også kreves av det enkelte styremedlem.
-Merknad:
-Reglene om styrets saksbehandling bygger delvis
-på § 9-6 i dagens lov, men inneholder en del justeringer og forenklinger. Bestemmelsen her har
-ikke regler om møteplikt, jf. gjeldende § 9-6 tredje
-ledd eller stemmeplikt, jf. gjeldende § 9-6 fjerde
-ledd. Institusjonene kan imidlertid selv velge å ha
-denne typen regler, jf. § 3-8.
-Første ledd slår fast at rektor i samråd med
-styreleder har ansvaret for å legge frem saker for
-styret. Rektor forbereder sakene, og vil ha kjennskap til enkelthetene ved institusjon, mens styreleder har et overordnet blikk gjennom sin rolle
-som leder av institusjonens øverste organ.
-Andre ledd bygger på dagens lov § 9-6 annet
-ledd annen setning, men med litt andre ordvalg.
-Bestemmelsen presiserer at alle i styret kan be
-om at styret behandler en sak. Dersom de øvrige
-styremedlemmene ikke ønsker å behandle saken,
-kan de avgjøre det når de fastsetter dagsorden.
-Tredje ledd bygger på tilsvarende bestemmelser i selskapslovgivningen. Bestemmelsen balanserer behov for å få styrebehandlet saker mot styrets behov for tilstrekkelig med tid til å kunne
-sette seg inn i dem for å foreta en forsvarlig
-behandling.
-Fjerde ledd er en delvis videreføring av § 10-1
-tredje ledd i dagens lov. Rektor og styreleder må i
-samråd finne frem til hvilke saker som skal legges
-frem for styret, jf. første ledd. Ansvaret for å legge
-frem sakene er lagt til rektor. Dagens lov sier ikke
-uttrykkelig at styret skal ha et tilfredsstillende
-behandlingsgrunnlag, selv om et slikt krav følger
-av ulovfestete forvaltningsrettslige prinsipper. I
-loven her er kravet foreslått lovfestet.
-Femte ledd viderefører § 9-6 første ledd i gjeldende lov. Et «møte» i lovens forstand er en samling av styret i samme rom, hvor enkelte styremedlemmer eventuelt deltar ved informasjonsteknologiske løsninger. Bestemmelsen her gir
-også mulighet for skriftlig saksbehandling eller at
-saken behandles på annen betryggende måte.
+Utvalget har fått innspill fra NOKUT om at det er behov for en helhetlig gjennomgang av regelverket om studentsamskipnadene. NOKUT viser blant annet til at flere av studentsamskipnadene over årene har utviklet seg til å bli store markedsaktører, og at ordningen slik sett har fjernet seg noe fra det opprinnelige mandatet studentsamskipnadene hadde, nemlig å dekke studentenes velferdsbehov der markedet ikke gjorde det. Utvalget er enig i at det kan være behov for en bredere gjennomgang av studentsamskipnadsloven med tilhørende forskrift.
 
-Dette kan eksempel være et virtuelt møte hvor
-alle medlemmene sitter hver for seg. Myndigheten til å avgjøre behandlingsform er lagt til styrets leder, men medlemmene kan kreve møtebehandling.
-Sjette ledd samler og viderefører bestemmelsene i gjeldende lov om at det skal være størst
-mulig grad av åpenhet om arbeidet til styret.
-Utgangspunktet er at styrets møter holdes for
-åpne dører. Styret kan bestemme at dørene skal
-lukkes, og styret må selv ta stilling til hvilke grunner som tilsier behandling for lukkede dører. I
-enkelte saker vil lukkede dører være påkrevd av
-hensyn til lovpålagt taushetsplikt.
-Syvende ledd viderefører dagens lov § 9-6
-syvende ledd. Selv om styrelederen er ekstern,
-har loven ikke et krav om at et av de eksterne
-styremedlemmene skal lede styrebehandlingen
-hvis styrelederen har forfall. Det er opp til styret å
-ta stilling til hvem som skal lede styrebehandlingen hvis styrelederen har forfall.
-Åttende ledd viderefører § 9-6 femte ledd i gjeldende lov. Rektor har rett til å delta i styremøtene
-og uttale seg. Rektor kan unntaksvis utelukkes fra
-å delta i enkeltsaker, og vurderingstemaet er foreslått knesatt i loven gjennom hensynet til «forsvarlig saksbehandling». Det kan tenkes tilfeller hvor
-det er uheldig at rektor deltar, selv om det er sjelden. For eksempel kan dette være aktuelt ved
-varslingssaker mot rektor eller spørsmål om oppsigelse eller avskjed av rektor.
-Niende ledd er nytt. Både styret som kollegium, og det enkelte styremedlem, kan kreve at
-rektor gir en redegjørelse om bestemte saker. Styret er institusjonens øverste organ, men har ikke
-selv mulighet til å utrede enkeltsaker. Derfor
-fremgår det tydelig av bestemmelsen at styret kan
-be om en redegjørelse, uten at det nødvendigvis
-innebærer at styret vil fatte et vedtak.
-§ 3-8. Styreinstruks
-Styret selv skal fastsette en styreinstruks som
-gir nærmere regler om styrets arbeid og saksbehandling.
-Instruksen skal blant annet inneholde regler
-om hvilke saker som skal styrebehandles, og rektors arbeidsoppgaver og plikter overfor styret.
-Instruksen skal også inneholde regler for innkalling og møtebehandling.
-Merknad:
-Bestemmelsen er ny. En styreinstruks kan gi mer
-eller mindre detaljerte regler om styrets arbeid,
-innenfor de rammene som følger av loven. Siden
+Utvalget har begrenset seg til å vurdere grenseflatene mellom universitets- og høyskoleloven og studentsamskipnadsloven med forskrift, og har særlig sett på reguleringen av det delte ansvaret for studentvelferden.
+
+Utvalget mener, slik situasjonen er i dag, at det ikke er noen grunn til å slå sammen de to lovene. Ettersom fagskoler også har en rett til å knytte seg til en studentsamskipnad, jf. studentsamskipnadsloven § 1, mener utvalget det er mest hensiktsmessig å fastholde dagens ordning med separate lover.
+
+### Studentsamskipnadene og utdanningsinstitusjonene
+
+#### Ansvaret for studentenes læringsmiljø og studentvelferd
+
+Et godt læringsmiljø og gode og tilrettelagte studentvelferdstilbud er viktige rammebetingelser for at studentene skal lykkes i høyere utdanning. Læringsmiljøet har betydning for studentenes fysiske og psykiske helse, og et godt læringsmiljø kan bidra til å redusere frafallet i høyere utdanning.
+
+Både studentsamskipnadene og utdanningsinstitusjonene har et lovpålagt ansvar for studentenes velferd. Det rettslige grunnlaget for samarbeid er uttrykt i forskrift om studentsamskipnader § 14. Utdanningsinstitusjonenes ansvar for studentenes velferd er nedfelt i universitets- og høyskoleloven § 4-3 om læringsmiljø. Studentsamskipnadenes oppgave er å ta seg av studentenes velferdsbehov ved de enkelte lærestedene ved å tilby tjenester til studentene, jf. lov om studentsamskipnader § 3. Reglene om utdanningsinstitusjonenes samarbeid med og innflytelse over studentsamskipnadene finnes i studentsamskipnadsloven med tilhørende forskrift. I merknaden til forskrift om studentsamskipnader § 8 er det gitt følgende beskrivelse: «Studentvelferdstjenestene skal være en del av det helhetlige læringsmiljøet for studenten, og skal støtte opp om de faglige kravene som blir stilt til studentene\[….\]».[^743]
+
+Man må se bestemmelsene i de to lovene i sammenheng for å få et helhetlig bilde av ansvar, rettigheter og plikter for institusjon, studentsamskipnad og student.
+
+Det delte ansvaret mellom utdanningsinstitusjoner og studentsamskipnader krever et godt samarbeid mellom de to aktørene. Utvalget har merket seg at samarbeidet tidvis synes å være krevende, og at det delte ansvaret for studentvelferden og studentenes læringsmiljø kan være utfordrende i praksis. Det er ingen skarpe grenser mellom hva som faller inn under «studentenes læringsmiljø», som er utdanningsinstitusjonene ansvar, og hva som er «studentvelferdstjenester», som er studentsamskipnadenes ansvar. I noen tilfeller er ansvarsfordelingen helt klar. Utdanningsinstitusjoner tilbyr ikke boliger, de driver ikke barnehager, og de driver heller ikke med helsetjenester. Dette driver studentsamskipnadene med. Men utdanningsinstitusjonene vil ha selvstendig ansvar når det gjelder studentenes fysiske arbeidsmiljø, og for faglig tilrettelegging slik at studentene ikke opplever for stort psykisk press under studiet. Noen ansvarsområder kan være sammenfallende. For eksempel vil studentsamskipnader kunne ha et ansvar i sosiale tiltak som fadderuke eller andre typer trivselstiltak i løpet av studieåret, og de kan tilby tjenester som gjelder psykososialt læringsmiljø med videre. Når det gjelder helsespørsmål, både fysiske og psykiske, vil det offentlige også tilby supplerende tjenester.
+
+SHoT 2018 – Studentenes helse- og trivselsundersøkelse – viser at hver fjerde student oppgir å ha alvorlige psykiske plager.[^744] Det faktum, at det er flere tilbydere av enkelte velferdstjenester til studentene og flere instanser som deler ansvaret, kan føre til at en student opplever at hans eller hennes behov ikke fanges opp hos noen. Det er viktig at institusjon og studentsamskipnad har gode avtaler for å fordele ansvar og finne de beste løsningene slik at målet om et godt læringsmiljø og gode velferdstilbud blir nådd, og at de også samarbeider med offentlige instanser lokalt.
+
+Utvalget vil understreke hvor viktig det er at ansvarsfordelingen mellom utdanningsinstitusjonen og studentsamskipnadene er tydelig uttrykt i regelverket. Utvalget mener imidlertid at det i dagens lovgivning ikke kan være noen tvil om at det er en slik ansvarsfordeling.
+
+Utvalget har fått innspill fra Samskipnadsrådet[^745] om at det å tydeliggjøre ansvarsområder kan bidra til et enklere regelverk og et bedre samarbeid om oppgavene. Med den tiden utvalget har hatt til rådighet har ikke utvalget hatt mulighet til å gjennomgå dette eller foreslå endringer i lov. Utvalget foreslår derfor at det settes ned en arbeidsgruppe der både utdanningsinstitusjoner, studentsamskipnad, studenter og representanter fra lokale myndigheter og helsemyndighetene er representert, og at arbeidsgruppen gjennomgår og avklarer spørsmålet om hvilke ansvarsområder som tilligger henholdsvis utdanningsinstitusjon eller studentsamskipnad eller er en offentlig oppgave. En helhetlig gjennomgang kan medføre at ansvarsfordelingen blir klarere, og dette kan igjen komme studentene til gode i form av bedre og mer målrettede tjenester.
+
+#### Bedre samarbeid
+
+Utvalget har fått innspill fra Samskipnadsrådet om at samarbeidet mellom studentsamskipnadene og utdanningsinstitusjonene ikke alltid fungerer optimalt. Studentsamskipnaden opplever enkelte steder at utdanningsinstitusjonen ikke tar plikten om samarbeid alvorlig nok, og ikke er tilstrekkelig oppmerksom på studentsamskipnaden som samarbeidspartner. Enkelte steder opplever også studentsamskipnaden at utdanningsinstitusjonen har en annen forståelse av hva som ligger i plikten til å gi fri stasjon enn det studentsamskipnaden har. Samskipnadsrådet har gitt innspill om at utdanninginstitusjonenes ansvar og plikter i studentsamskipnadsloven med forskrift bør tydeliggjøres og forankres også i universitets- og høyskoleloven, eventuelt med henvisning til studentsamskipnadsloven.
+
+Utvalget mener at dagens regelverk sier tydelig at det foreligger en plikt til samarbeid mellom utdanningsinstitusjonene og studentsamskipnadene. Det følger av forskrift om studentsamskipnaden § 14 tredje ledd at det skal avtales faste møter mellom ledelsen ved utdanningsinstitusjonen og ledelsen ved studentsamskipnaden. Hensikten er at samarbeidet skal ivaretas på best mulig måte.
+
+Utvalget mener at det kan være vanskelig å få til en detaljert lovfesting av hvordan samarbeidet mellom studentsamskipnader og universiteter og høyskoler skal foregå. Det er også uvisst i hvilken grad lov og forskrift er egnet som virkemiddel for å bedre samarbeidet på det enkelte studiestedet. Studentsamskipnadenes samfunnsoppdrag og utdanningsinstitusjonenes autonomi tilsier at det er nødvendig med en fleksibel lovtekst som ikke setter for stramme rammer rundt studentsamskipnadens og utdanningsinstitusjonens virksomhet. Hva utdanningsinstitusjonene og studentsamskipnadene skal samarbeide om, vil variere fra studiested til studiested og etter hvilke behov som oppstår over tid. Hva slags forum og samarbeidsorganer som benyttes, bør det derfor være opp til studentsamskipnadene og utdanningsinstitusjonene å avtale. Utvalget ser likevel at det kan være nødvendig å tydeliggjøre kravet om at ledelsen i virksomhetene møtes regelmessig for å diskutere de forhold som angår samarbeidet om studentvelferden og læringsmiljøet. Utvalget mener en måte å oppnå dette på er at bestemmelsen i forskrift om studentsamskipnader § 14 blir flyttet opp i lov om studentsamskipnader.
+
+#### Bør ansvaret for studentvelferden reguleres i én lov?
+
+Utvalget har fått innspill fra Samskipnadsrådet om at noen av bestemmelsene om utdanningsinstitusjonenes ansvar som i dag finnes i studentsamskipnadsloven, bør flyttes til universitets- og høyskoleloven. Dette gjelder blant annet utdanningsinstitusjonenes ansvar for studentvelferd etter § 5 i studentsamskipnadsloven, og plikten til å være tilknyttet en studentsamskipnad etter § 4 i studentsamskipnadsloven. Samskipnadsrådet begrunner synet sitt med at plikter som pålegges virksomheten, så langt som mulig bør reguleres i den loven som gjelder virksomheten, og at regulering i universitets- og høyskoleloven vil bidra til en bevisstgjøring av utdanningsinstitusjonenes ansvar.
+
+Utvalget peker på at utdanningsinstitusjonene har den samme plikten uavhengig av om den er nedfelt i universitets- og høyskoleloven eller i studentsamskipnadsloven.
+
+For å tydeliggjøre at utdanningsinstitusjonene har en plikt til å være tilknyttet studentsamskipnadene foreslår utvalget likevel at dette presiseres i universitets- og høyskoleloven. I tillegg presiseres det at utdanningsinstitusjonen har ansvar for læringsmiljøet, og studentsamskipnadene for studentvelferden.
+
+#### Plikten til fri stasjon
+
+Utdanningsinstitusjonene har en plikt til å yte fri stasjon til studentsamskipnadene. Utvalget har fått innspill fra Samskipnadsrådet om at plikten til fri stasjon ikke er regulert godt nok, og at det enkelte steder oppstår uenighet mellom utdanningsinstitusjonene og studentsamskipnadene om hvor langt plikten strekker seg.
+
+Utvalget mener dagens regulering av plikten til å yte fri stasjon er tilfredsstillende. Forskrift om studentsamskipnader §§ 11 og 12 inneholder presiseringer av hva fri stasjon er, og hvordan det skal brukes. Utdanningsinstitusjonene har plikt til å stille egnede lokaler til rådighet for studentsamskipnadenes velferdsvirksomhet. Videre er det regulert hvordan andelen av lokalene som skal benyttes til studentvelferd skal estimeres og hvordan verdien av ytelsen skal fastsettes. Tilskudd som skal subsidiere andre ting enn studentenes bruk av tjenestene, faller utenfor beregningen. Utvalget mener det vil være lite formålstjenlig å ha en mer detaljert regulering av hva plikten til fri stasjon innebærer, ettersom både lokalene og studentenes behov vil variere ved de ulike utdanningsinstitusjonene.
+
+Ordlyden i forskrift om studentsamskipnader § 11 første ledd siste punktum har også vært en kilde til konflikt. Bestemmelsen lyder:
+
+Det kan etter avtale med studentsamskipnaden stilles egnede lokaler til rådighet til studentrettede tiltak som drives i regi av andre enn studentsamskipnaden, dersom det kommer studentvelferden på stedet til gode.
+
+NTNU ønsket for eksempel å åpne for at såkalte foodtrucks kunne få innpass på campus, uten å betale leie i testperioden. Studentsamskipnaden på stedet innvendte at en slik praksis ikke ville komme studentene på stedet til gode og ikke ville være i tråd med forskrift om studentsamskipnader § 11 første ledd siste punktum.[^746]
+
+Ut fra en tolkning av ordlyden i bestemmelsen kan det hevdes at studentsamskipnaden har en form for vetorett mot at utdanningsinstitusjonen gir studentsamskipnadens konkurrenter adgang til campus med mindre studentsamskipnaden går med på en avtale om dette. En slik forståelse av ordlyden kommer til uttrykk gjennom en oppfatning av at studentsamskipnadene har en form for «matmonopol» på campus, noe som blant annet ble diskutert i forbindelse med at Velferdstinget i Gjøvik, Ålesund og Trondheim behandlet saken på NTNU.
+
+Utvalget viser til at da lovbestemmelsen om utdanningsinstitusjonenes adgang til å tilby fri stasjon til andre enn studentsamskipnadene ble foreslått videreført,[^747] var en innvending fra noen høringsinstanser at det ville skape konkurranse mellom aktører som konkurrerer på ulike vilkår. De ulike vilkårene er knyttet til studentsamskipnadenes begrensning i adgangen til å drive kommersiell virksomhet.[^748] Departementet mente det skulle
+
+\[…\] være adgang for utdanningsinstitusjonene til å yte fri stasjon til andre enn studentsamskipnadene, men kun til virksomheter som kompletterer det totale studentvelferdstilbudet og dermed ikke til virksomhet som er i direkte konkurranse med samskipnadens virksomhet.[^749]
+
+Begrensningen medfører i en viss grad at samskipnadene i realiteten får et monopol på sine tilbud, men den formelle begrensningen gjelder kun adgang til fri stasjon. Utdanningsinstitusjonene har adgang til å tilby lokaler til andre aktører på campus mot at det betales leie etter markedspris. Slik sett er det åpent for andre tilbydere å komme med konkurrerende tilbud på campus, men de økonomiske forutsetningene reduseres noe ved at samskipnadenes konkurrenter må betale leie for lokalene.
+
+Regelverket kan imidlertid ikke forstås slik at studentsamskipnadene har vetorett når det gjelder hvilke andre aktører som kan tilbys fri stasjon.
+
+Utvalget mener det er behov for en grundigere utredning av hvem utdanningsinstitusjonene skal kunne tilby fri stasjon til. Det er ikke åpenbart hvilke tilbud som bør regnes som komplementerende eller konkurrerende, eller om begrensninger i muligheten til å tilby fri stasjon til konkurrerende virksomheter er nødvendige for å sikre studentvelferden. Det må utredes om det er et reelt behov for å begrense adgangen til å tilby fri stasjon til andre enn studentsamskipnadene, sett i lys av de spesielle vilkårene studentsamskipnadene opererer under.
+
+Samskipnadsrådet har også uttrykt et ønske om å tydeliggjøre utdanningsinstitusjonens plikt til fri stasjon, jf. § 5 i studentsamskipnadsloven, ved at bestemmelsen forankres i universitets- og høyskoleloven. Utvalget mener dette ikke er en hensiktsmessig løsning. Det er studentsamskipnadsloven som regulerer studentsamskipnadenes oppgave med å ta seg av studentenes velferdsbehov. For at studentsamskipnadene skal kunne tilby relevante velferdstjenester til studentene, har utdanningsinstitusjonene blitt pålagt en plikt til å stille egnede lokaler til rådighet for dette. Dersom plikten til å stille egnede lokaler til rådighet for studentsamskipnadene flyttes til universitets- og høyskoleloven, mener utvalget regelverket vil bli mer fragmentert, fordi denne plikten da ikke lenger blir lest i sammenheng med hva studentsamskipnadenes formål med lokalene er. Videre mener utvalget at det skal spesielle grunner til for å ha en dobbeltregulering av bestemmelsen, og at slike grunner ikke foreligger her. Utvalget foreslår derfor å videreføre plikten til fri stasjon i studentsamskipnadsloven.
+
+### Samfunnsoppdraget og endringer
+
+Studentsamskipnadene ble etablert for å ta seg av studenters velferdsbehov ved det enkelte lærested. Studentsamskipnadsordningen fyller en viktig funksjon ved å sikre studenter tilgang på velferdstjenester der markedet ikke kan eller vil levere de særskilte tjenestene studenter har behov for som følge av sin livssituasjon.
+
+Studentvelferd har ingen egen definisjon, men i Ot.prp. nr. 56 (1995–96) er det uttalt at «\[…\] en overordnet målsetting for studentvelferden er at den er tilpasset studentenes behov og bidrar til høy studiekvalitet, god studieeffektivitet og høy gjennomføringsgrad.» Bakgrunnen for at det ikke ble gitt en definisjon av begrepet studentvelferd var at bestemmelsene skulle være fleksible med tanke på samfunnsmessige behov og endringer over tid.[^750]
+
+Utgangspunktet er at studentenes behov skal dekkes gjennom markedet og de ordinære offentlige tilbudene. Der tjenestene som tilbys i markedet eller fra det offentlige, er for dyre eller tilbudet av andre grunner ikke dekker studentenes behov, skal studentsamskipnadene tilby supplerende tjenester. Utvalget mener det på bakgrunn av innspill fra NOKUT kan settes spørsmålstegn ved om det ved enkelte læresteder er slik at studentsamskipnadene fortsatt fungerer som et supplement der tjenestene ellers ikke er gode nok, eller om de driver virksomhet som kunne vært dekket av markedet og det offentliges tilbud alene. Dette gjelder særlig for de største byene, som Oslo og Bergen, hvor markedet ellers har et vidt tilbud av velferdstjenester som kommer studentene til gode. Studentsamskipnadene har utviklet og utvidet sitt tjenestetilbud over tid, og enkelte samskipnader kan i dag kalles store markedsaktører. Studentsamskipnaden SiO kunne for eksempel for 2017 rapportere om rundt 1,2 mrd. i omsetning og over 1,1 mrd. i egenkapital.[^751]
+
+Denne utviklingen har ført til endringer både i studentsamskipnadsloven og forskriften. For eksempel er det lagt til et femte ledd i § 8 i forskrift om studentsamskipnader[^752] som sier:
+
+Det er styrets ansvar å vurdere omfanget av kommersiell aktivitet og om slik aktivitet kan føre til at fokus på studentenes velferd forsvinner, samt vurdere økonomisk risiko for studentsamskipnaden. Styret skal i vurderingen måle omfanget av tjenester til andre enn studenter opp mot studentsamskipnadens omsetning og kostnad ved å drive tjenesten.
+
+Videre er det i forskrift om studentsamskipnader § 8 tredje ledd presisert at når studentsamskipnadene tilbyr sine tjenester til andre enn studentene, faller tjenestene utenfor studentvelferdsbegrepet. Disse tjenestene skal ytes til ordinær pris, uten offentlige tilskudd, og aktivitetene skal holdes regnskapsmessig adskilt.
+
+Utvalget mener at selv om det er gjort endringer i lov og forskrift for å fange opp og begrense den økende kommersielle virksomheten flere av studentsamskipnadene driver med, kan det være behov for en mer fullstendig gjennomgang av studentsamskipnadsloven med forskrift, også sett ut fra størrelsen på de statlige tilskuddene studentsamskipnadene mottar. Samfunnsutviklingen har over tid gitt et ganske annet marked og behov enn det som var tilfellet da studentsamskipnadene i sin tid ble opprettet. En bred gjennomgang av ordningen med studentsamskipnader vil kunne avdekke om utviklingen er hensiktsmessig.
+
+# Ikrafttredelse, overgangsregler og forslag til endringer i andre lover og i forskrifter
+
+\[:figur:fig37-1.jpg\]
+
+## Ikrafttredelse
+
+Utvalget har ikke vurdert når den nye loven for universiteter og høyskoler bør tre i kraft. Utvalget foreslår at loven trer i kraft fra det tidspunktet Kongen bestemmer.
+
+## Overgangsregler
+
+Utvalget har ikke vurdert behovet for overgangsregler. Utvalget foreslår at Kongen kan gi nærmere overgangsbestemmelser.
+
+## Forslag til endringer i andre lover og forskrifter
+
+### Forslag til endringer i studentsamskipnadsloven
+
+#### Lovforslag
+
+Utvalget foreslår ny § 5A i lov om studentsamskipnader, som skal lyde:
+
+*§ 5A* Plikt til å samarbeide
+
+Studentsamskipnad og tilknyttede utdanningsinstitusjoner skal samarbeide om velferdstilbud og læringsmiljø, på en slik måte at partene har hovedansvar for sine områder slik de følger av studentsamskipnadsloven med forskrift og lov om universiteter og høyskoler.
+
+Studentsamskipnaden og de tilknyttede utdanningsinstitusjonene fastsetter nærmere regler om ansvarsfordelingen mellom de tilknyttede utdanningsinstitusjoner og studentsamskipnaden.
+
+For å ivareta samarbeidet på best mulig måte skal det avtales regelmessige møter mellom ledelsene for utdanningsinstitusjonene og studentsamskipnaden.
+
+#### Merknad til lovforslaget
+
+Bestemmelsen lovfester plikten til samarbeid mellom studentsamskipnadene og utdanningsinstitusjonene. Plikten var tidligere regulert i forskrift. Hva utdanningsinstitusjonene og studentsamskipnadene skal samarbeide om, vil variere fra studiested til studiested, og etter hvilke behov som oppstår over tid. Hva slags forum og samarbeidsorganer som benyttes bør derfor være opp til studentsamskipnadene og utdanningsinstitusjonene å avtale. Det er et krav at ledelsen i virksomhetene møtes regelmessig for å diskutere de forhold som angår samarbeidet om studentvelferden og læringsmiljøet.
+
+### Forslag til endringer i ny tolkelov
+
+Det ligger utenfor utvalgets mandat å foreslå endringer i andre lover enn universitets- og høyskoleloven og studentsamskipnadsloven. I den grad departementet følger opp utvalgets forslag, anbefaler utvalget at følgende endring tas inn i forslag til ny tolkelov:
+
+*§ x-x.* Bevilling som statsautorisert translatør
+
+Departementet gir bevilling som statsautorisert translatør etter søknad. Bevilling gis til person som er myndig etter norsk lov og som har bestått statsautorisasjonsprøven.
+
+Bevillingen gir rett til å bruke tittelen statsautorisert translatør. Tittelen skal ikke brukes om oversetting på andre språk enn de språk bevillingen gjelder for. Departementet kan gi forskrift om statsautorisasjonsordningen og om godkjenning av yrkeskvalifikasjoner, jf. yrkeskvalifikasjonsloven.
+
+Tittelen statsautorisert translatør kan bare benyttes av den som er gitt bevilling i henhold til denne bestemmelsen.
+
+Den som i strid med bestemmelsen forsettlig eller uaktsomt bruker slik tittel, alene eller som del av tittel, kan straffes med bøter.
+
+### Forslag til endringer i mastergradsforskriften
+
+Utvalget foreslår følgende endringer i mastergradsforskriften[^753] (endringer i kursiv):
+
+*§ 4.* Krav til mastergrad av 300 studiepoengs omfang
+
+Graden master oppnås på grunnlag av mastergradseksamen av 300 studiepoengs (5 års) omfang, inkludert selvstendig arbeid i henhold til § 6. *Opprettelse av slik grad må begrunnes særskilt. Institusjonen skal vurdere om integrert mastergrad er nødvendig av faglige hensyn, eller om tilsvarende læringsutbytte kan oppnås gjennom mastergrad etter §§ 3 eller 5.*
+
+Unntatt fra denne bestemmelsen er arkitektutdanningen ved Arkitektur- og designhøgskolen i Oslo som skal være 330 studiepoeng (5 ½ års) omfang.
+
+### Forslag til endringer i skikkethetsforskriften
+
+Utvalget foreslår følgende endringer i skikkethetsforskriften[^754] (endringer i kursiv):
+
+*§ 1.* Utestenging etter skikkethetsvurdering
+
+Skikkethetsvurdering etter lov om universiteter og høyskoler § 10-1 skal foregå ved følgende utdanninger:
+
+1.  barnehage- og førskolelærerutdanning
+
+<!-- -->
+
+6.  Pedagogiske utdanninger som tilfredsstiller kravene til å bli tilsatt i undervisningsstilling i grunn- eller videregående skole, jf. kapittel 14 i forskrift 23. juni 2006 nr. 724 til opplæringslova
+
+7.  audiograf (audiolog),
+
+8.  barnevernspedagog,
+
+9.  bioingeniør,
+
+10. ergoterapeut,
+
+11. farmasøyt (inkludert reseptar),
+
+12. fysioterapeut,
+
+13. jordmor,
+
+14. klinisk ernæringsfysiolog,
+
+15. lege,
+
+16. optiker,
+
+17. ortopediingeniør,
+
+18. psykolog,
+
+19. radiograf,
+
+20. sosionom,
+
+21. sykepleier,
+
+22. tannlege,
+
+23. tannpleier,
+
+24. tanntekniker,
+
+25. vernepleier,
+
+26. paramedicutdanning
+
+27. profesjonsutdanningen i teologi
+
+28. trafikklærerutdanning
+
+29. logopedutdanning
+
+30. utdanninger i spesialpedagogikk
+
+31. tolkeutdanningene i tegnspråk.
+
+*I tillegg skal det foretas skikkethetsvurderinger i etter- og videreutdanninger som bygger på utdanningene som er nevnt over.*
+
+*Institusjonen kan søke departementet om å inkludere andre utdanninger som fører til yrker som har tilsvarende omsorgsansvar for mennesker i en særlig sårbar situasjon.*
+
+*Ny § x.* Vurderingskriterier[^755]
+
+*En student er uskikket i utdanningene som nevnt i § x*[^756] *hvis ett eller flere av følgende kriterier er oppfylt på en måte som utgjør en mulig fare for liv, fysisk eller psykisk helse, rettigheter eller sikkerhet til de pasienter, brukere, barnehagebarn, elever, eller andre studenten vil komme i kontakt med under praksisstudiene eller under fremtidig yrkesutøvelse, er ikke skikket for yrket:*
+
+*a) studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for de mennesker studenten vil møte i sitt arbeid.*
+
+*b) studenten viser manglende vilje eller evne til å samarbeide og til å etablere tillitsforhold og kommunisere med mennesker studenten vil møte i sitt arbeid.*
+
+*c) studenten misbruker rusmidler eller tilegner seg medikamenter på ulovlig vis.*
+
+*d) studenten har problemer av en slik art at studenten fungerer svært dårlig i forhold til sine omgivelser.*
+
+*e) studenten viser truende eller krenkende adferd i studiesituasjonen eller overfor de mennesker studenten vil møte i sitt arbeid.*
+
+*f) studenten viser for liten grad av selvinnsikt i forbindelse med oppgaver i studiet og kommende yrkesrolle.*
+
+*g) studenten viser uaktsomhet og uansvarlighet som kan medføre risiko for skade på pasienter, brukere, barnehagebarn, elever eller andre.*
+
+*h) studenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med veiledning.*
+
+*i) studenten er ikke i stand til å utføre de yrkesmessige handlinger praksis krever.*
+
+*For utdanningene som er nevnt i § x*[^757] *nr. 1, 2, 24 og 26 er studenten også uskikket hvis ett eller flere av følgende kriterier er oppfylt:*
+
+*a) studenten viser manglende vilje eller evne til å lede læringsprosesser for barn, unge og voksne i samsvar med mål og retningslinjer for barnehagens og skolens virksomhet.*
+
+*b) studenten unnlater å ta ansvar som rollemodell for barn, unge og voksne i samsvar med mål og retningslinjer for barnehagens og skolens virksomhet.*
+
+*c) studenten viser manglende vilje eller evne til å ha oversikt over hva som foregår i en barnegruppe eller klasse og ut fra denne oversikten skape et miljø som tar hensyn til barn, unge og voksnes sikkerhet og deres psykiske og fysiske helse.*
+
+*For utdanningene som nevnt i § x*[^758] *nr. 23 er studenten også uskikket hvis ett eller flere av følgende kriterier er oppfylt:*
+
+*a) studenten unnlater å ta ansvar som rollemodell for barn og unge.*
+
+*b) studenten viser manglende vilje eller evne til å skape et miljø som tar hensyn til barns, unges og voksnes sikkerhet og deres psykiske og fysiske helse.*
+
+*Ny § x.*[^759] Følger av at dokumentasjon ikke blir lagt frem
+
+*Hvis studenten etter oppfordring ikke legger frem relevant dokumentasjon i en sak som gjelder om studenten er skikket for et yrke, kan det få betydning for utfallet av saken.*
+
+### Forslag til endringer i forskrift om studentsamskipnader
+
+Utvalget foreslår at gjeldende § 14 i forskrift om studentsamskipnader[^760] tas ut av forskriften, jf. omtale i punkt 36.3.2.2 og punkt 37.3.1.
+
+### Opphevelse av eldre lover
+
+Utvalget foreslår at lov 1. april 2005 nr. 15 om universiteter og høyskoler oppheves fra det tidspunktet ny lov om universiteter og høyskoler trer i kraft.

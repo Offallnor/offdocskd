@@ -1,927 +1,348 @@
-# NOU 2019: 23, del 41 av 71 (side 464–473)
+# NOU 2019: 23, del 41 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 464]
-
-462
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-loven § 2 fjerde avsnitt. Når det gjelder tilsyn med
-kommunepliktene, følger det av kommuneloven
-§ 30-5 at kommunen kan utøve partsrettigheter.
-Dette er en særregel som avviker fra de ordinære
-reglene i forvaltningsloven.
-Et spørsmål som enkelte opplever som uklart i
-håndhevingssaker, er om andre elever enn den
-som har meldt inn saken, skal regnes som part i
-saken. Utvalget mener dette må vurderes konkret
-fra sak til sak. Etter utvalgets oppfatning er det
-ikke nok at en annen elev er utpekt som den som
-har krenket den som har meldt inn saken. Det
-avgjørende er om vedtaket kan ha vesentlige faktiske virkninger for en annen elev. Flere partsrettigheter gjelder før vedtaket fattes, og det må derfor vurderes ut fra saksforberedelsen om et mulig
-vedtak vil kunne få vesentlige faktiske virkninger
-for en annen elev. I vurderingen av om virkningen
-er vesentlig, er det etter utvalgets vurdering relevant å ta hensyn til at barn og unge er mer sårbare
-enn voksne, og at det er obligatorisk for elevene å
-gå på skolen eller i hvert fall nødvendig for å
-kunne få oppfylt en grunnleggende rettighet. En
-virkning som ikke anses å være vesentlig overfor
-en voksen, kan dermed være vesentlig overfor
-barn og unge.
-Dersom tiltaket er at en annen elev enn den
-som har meldt saken, må bytte klasse eller skole,
-er det åpenbart at også den andre eleven er part i
-saken, i og med at vedtaket «retter seg mot» vedkommende. Dersom vedtaket gjelder kontakten
-og samhandlingen mellom to elever og det indirekte begrenser en tredje elevs bevegelser eller
-omgangskrets, kan den tredje eleven også være
-part dersom begrensningen har vesentlige faktiske virkninger for denne eleven. Dersom det er
-generelle skolemiljøtiltak som til en viss grad
-berører alle elevene på skolen eller i klassen, eller
-en større gruppe elever, vil det normalt ikke være
-tale om virkninger av en slik karakter at de andre
-elevene regnes som parter i saken.
-Enkelte kommuner mener det er uheldig at
-kommuner ikke er part i håndhevingssaker. Utvalget vil i denne sammenheng vise til at normalordningen i forvaltningsloven er at offentlige organer,
-som kommuner, ikke har partsrettigheter på
-områder som de selv har ansvaret for. Kommuner
-har partsrettigheter i tilsynssaker etter kommuneloven, men tilsynssakene skiller seg i vesentlig
-grad fra håndhevingssakene. Fylkesmannen gjennomfører tilsyn med kommunene på eget initiativ,
-mens håndhevingssakene utløses av at en elev
-melder fra om at han eller hun ikke har det trygt
-og godt på skolen. Formålet med håndhevingsordningen er å hjelpe eleven, ikke å kontrollere
-
-kommunen. Håndhevingssakene har større likhet
-med klagesaker der fylkesmannen overprøver
-kommunale vedtak, for eksempel vedtak om
-skyss. Kommunen har ikke partsrettigheter i
-slike saker.
-Et spørsmål som oppleves som uklart, er om
-lærere og andre ansatte skal regnes som part i
-håndhevingssaker. Flere mener det er problematisk for de ansattes rettssikkerhet dersom de ikke
-har partsrettigheter, særlig i saker hvor en ansatt
-utpekes som krenker.
-Om en lærer skal regnes som part i en håndhevingssak, må vurderes konkret. I likhet med
-det som er lagt til grunn for andre elever, vil en
-lærer være part hvis vedtaket retter seg mot læreren eller har vesentlige virkninger for læreren.
-Dersom vedtaket innebærer at en sak må følges
-opp på enn annen måte enn det som er lærerens
-faglige vurdering, vil dette normalt ikke være en
-type virkning som gir partsrettigheter for læreren.
-Det samme gjelder virkninger som berører skolen
-eller de ansatte generelt. Dersom vedtaket, eller
-et mulig vedtak, innebærer vesentlige endringer i
-hvilke arbeidsoppgaver en bestemt lærer kan ha,
-må læreren anses som part i saken. Et annet
-spørsmål er om fylkesmannen i det hele tatt bør
-fatte slike vedtak. Se om fylkesmannens vedtak
-nedenfor.
-Utvalget mener at det ikke er behov for egne
-regler om partsrettigheter for elever og ansatte i
-håndhevingssaker, da dette reguleres av de generelle reglene i forvaltningsloven, og at den nærmere presiseringen av disse i saker om skolemiljø
-best skjer gjennom praksis. Utvalget ser heller
-ikke at det er grunnlag for å innføre særregler om
-partsrettigheter for kommuner i håndhevingssaker. Se for øvrig omtale av forhåndsvarsel og klagerett nedenfor.
-Sivilombudsmannen har behandlet en sak om
-partsinnsyn for en lærer i en sak om en elevs psykososiale skolemiljø.49 Sivilombudsmannen tok
-ikke stilling til om læreren var å regne som part i
-den konkrete saken, men konkluderte med at hun
-var så berørt av saken at, uavhengig av om hun
-var for part å regne, måtte ha visse partsrettigheter. Ombudsmannen kom til at «partsrettigheter i
-form av rett til dokumentinnsyn og rett til å bli
-hørt […] kunne forankres i ulovfestede prinsipper
-om krav til forsvarlig saksbehandling og å opptre i
-samsvar med god forvaltningsskikk». Utvalget
-legger ut fra dette til grunn at fylkesmannen ut fra
-kravene til god forvaltningsskikk og kravet til forsvarlig saksbehandling, inkludert kravet om at
-49
-
-SOM-2018-496.
-
-[Side 465]
-
-NOU 2019: 23
-Ny opplæringslov
-
-saken skal være så godt opplyst som mulig, unntaksvis kan ha plikt til å la andre enn partene i
-saken få innsyn og mulighet til å uttale seg i
-saken.
-Forhåndsvarsel i håndhevingssaker
-Flere kommuner gir uttrykk for at det er problematisk at de ikke får forhåndsvarsel, særlig i saker
-hvor det fattes vedtak om konkrete tiltak som skal
-gjennomføres på en skole.50 I noen tilfeller opplever kommuner og skoler at tiltakene som vedtas,
-ikke lar seg gjennomføre eller har negative konsekvenser som ikke er belyst i vedtaket.
-Det følger av forvaltningsloven § 16 at den
-som er part i saken, skal få forhåndsvarsel før det
-fattes vedtak, og gis mulighet til å uttale seg innen
-en nærmere angitt frist. Hensikten med forhåndsvarslet er at den vedtaket gjelder, skal ha mulighet
-til å imøtegå framstillingen av saken. Forvaltningslovutvalget har drøftet om varslingsplikten
-skal utvides, men konkluderte med å videreføre
-dagens regel om at det bare er parten som har
-krav på å bli varslet.51
-Ettersom kommunen ikke er part i håndhevingssaker, har den heller ikke krav på forhåndsvarsel. En mulighet kan være å fastsette særregler
-i opplæringsloven om at kommunen skal få forhåndsvarsel i slike saker. Prinsipielt mener utvalget at det skal være en høy terskel for å fravike
-forvaltningsloven og andre sektorovergripende
-lover. Kommunen er dessuten en profesjonell
-aktør, i motsetning til eleven som har meldt saken.
-Et krav om forhåndsvarsel vil føre til at sakene tar
-lengre tid – noe som ikke bidrar til målsetningen
-om en raskere ordning.52
-Utvalget mener det ikke er nødvendig med
-særregler i opplæringsloven om forhåndsvarsel til
-kommuner. Utvalget vil likevel understreke at kravet i forvaltningsloven § 17 om at saken skal være
-så godt opplyst som mulig, betyr at den aktuelle
-kommunen og skolen må involveres i saken. Jo
-mer konkrete vedtak fylkesmannen skal fatte,
-desto bedre må saken være opplyst. I mange tilfeller vil den beste måten å opplyse saken på være å
-gi et forhåndsvarsel til kommunen med mulighet
-til å uttale seg. På denne måten får fylkesmannen
-et bedre grunnlag for å vurdere om det tiltaket
-50
-
-Dette synspunktet kom bl.a. fram på en erfaringskonferanse om skolemiljøsaker som KS arrangerte 26. april
-2019.
-51
-NOU 2019: 5, kap. 22.2.4.
-52
-Se om målet med håndhevingsordningen i Prop. 57 L
-(2016–2017), kap. 6.5.1.
-
-463
-
-Kapittel 36
-
-den vil vedta, er egnet. Forhåndsvarsel kan også
-være et godt verktøy for å avdekke mulige negative konsekvenser for andre elever, som eventuelt
-også kan føre til at andre elever må regnes som
-part i saken.
-I vurderingen av om kommunen skal gis et forhåndsvarsel, må det også tas hensyn til hvor tidssensitiv saken er. Det er viktig at saksbehandlingen ikke forsinkes mer enn nødvendig. Fylkesmannen kan også gjennomføre en eventuell varsling til kommuner på en enklere og mer tidseffektiv måte enn det forvaltningsloven legger opp til.
-For eksempel kan kommunen bare få deler av det
-foreløpige vedtaket, for eksempel hvilke tiltak
-som skal vedtas, varslingen kan skje muntlig, eller
-det kan være kortere frist. Samtidig er det viktig
-at kommunen får en reell mulighet til å gi innspill
-dersom dette er nødvendig for å opplyse saken
-godt nok. Utvalget gjør også oppmerksom på at
-dersom fylkesmannen mottar opplysninger som
-eleven har innsynsrett i som part, skal opplysningene forelegges eleven til uttalelse, jf. forvaltningsloven § 17 andre avsnitt.
-Fylkesmannens vedtak i håndhevingssaker
-Ettersom håndhevingsordningen er en særordning, kan det oppstå tvil om avgjørelsene etter
-denne ordningen er å regne som enkeltvedtak.
-Utvalget foreslår derfor at det fortsatt presiseres i
-opplæringsloven at avgjørelsen til fylkesmannen
-er et enkeltvedtak. Utvalget understreker at avgjørelsen er å regne som et enkeltvedtak overfor
-eleven som har meldt saken, og eventuelt andre
-private personer som avgjørelsen retter seg mot.
-Utvalget foreslår å ta ut presiseringen om at avgjørelsen kan påklages etter reglene i forvaltningsloven, da dette følger av at avgjørelsen er et enkeltvedtak. Spørsmålet om klagerett for kommuner er
-behandlet nedenfor.
-Dersom fylkesmannen i vurderingen av en
-håndhevingssak kommer til at skolen ikke har
-oppfylt aktivitetsplikten, kan fylkesmannen etter
-opplæringsloven § 9 A-6 fjerde avsnitt vedta hva
-skolen skal gjøre for at eleven skal få et trygt og
-godt skolemiljø. Det er lagt til grunn at vedtaket
-skal rettes mot kommunen, men at det som regel
-vil kreve aktivitet på skolenivå. Fylkesmannen kan
-i vedtaket enten stille krav om at kommunen finner en løsning på saken som sikrer at eleven får et
-trygt og godt skolemiljø, eller fylkesmannen kan
-selv vedta hvilke tiltak som skal settes inn.53
-53
-
-Prop. 57 L (2016–2017), merknad til § 9 A-6 fjerde ledd.
-
-[Side 466]
-
-464
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-Kunnskapsgrunnlaget viser at det varierer fra
-fylkesmannsembete til fylkesmannsembete hvor
-detaljerte vedtak som fattes i skolemiljøsakene.54
-Barneombudet mener det er positivt at fylkesmennene fatter konkrete vedtak ettersom det kan
-være med på å skape hurtig endring for eleven.55
-Kommuner og skoler opplever det derimot som
-problematisk at fylkesmannen og Utdanningsdirektoratet kan fatte vedtak om spesifikke tiltak
-som skolen må iverksette, selv om skolen og kommunen mener at tiltakene er uhensiktsmessige
-eller kan ha negativ innvirkning på andre elever.
-Utvalget ser at det kan være fordeler og ulemper ved at fylkesmannen og Utdanningsdirektoratet gjør vedtak om spesifikke tiltak. En fordel er at
-eleven raskt kan få hjelp, og at eleven ikke blir en
-«kasteball» mellom de ulike forvaltningsorganene. En ulempe er at fylkesmannen og Utdanningsdirektoratet er lenger fra elevene og skolehverdagen, noe som gir en risiko for at tiltakene
-ikke er egnede eller har utilsiktede konsekvenser.
-Dersom statlige myndigheter griper inn med
-svært spesifikke tiltak, kan det også bidra til at
-kommunen føler mindre ansvar for den videre
-oppfølgingen.
-Utvalget mener fylkesmennene som hovedregel bør pålegge kommunen å selv finne en løsning
-som gir eleven et trygt og godt skolemiljø. Fylkesmannens vedtak vil da bli et pålegg om retting,
-mens det overlates til kommunen å finne egnede
-tiltak. Fordelen er at kommunene, og i forlengelsen skolene, er nærmere elevene. De har dermed
-bedre forutsetninger til å gjøre en helhetlig vurdering av skolemiljøet og finne fram til tiltak som
-kan gjennomføres i praksis, og som ikke får uheldige virkninger for andre elever. En annen fordel
-med denne framgangsmåten kan være at kommunene i større grad tar ansvaret for den videre oppfølgingen av eleven og skolemiljøet. Med dagens
-ordning må først fylkesmannen utrede saken og
-vedta tiltak, og deretter må kommunen finne ut
-hvordan tiltaket kan gjennomføres i praksis. Dersom kommunen selv skal finne fram til egnende
-tiltak, kan dette slås sammen i én prosess. Det
-trenger derfor ikke nødvendigvis å ta lengre tid å
-pålegge kommunen å finne fram til egnede tiltak.
-Samtidig viser erfaringen med den tidligere
-klageordningen i saker om psykososialt skolemiljø at det er en risiko for at sakene går fram og
-tilbake mellom forvaltningsorganene, eller at
-sakene drar unødig ut i tid. Dette er uheldig for
-
-elevene. Utvalget mener derfor at fylkesmannen
-fortsatt skal kunne vedta hva skolen skal gjøre i to
-tilfeller.
-Fylkesmannen skal for det første kunne vedta
-tiltak dersom det er grunn til å tro at kommunen
-ikke vil oppfylle pålegget om retting. Det avgjørende spørsmålet vil da være i hvilken grad fylkesmannen har tillit til at kommunen vil følge opp
-pålegget om retting på en rask og god måte. Dersom fylkesmannen mener det er risiko for at
-saken drar ut i tid, kan fylkesmannen selv vedta
-hvilke tiltak som skal gjennomføres. Det samme
-gjelder dersom det er risiko for at tiltakene som
-kommunen setter inn, ikke vil være egnede. Kommunens håndtering av saken fram til vedtakstidspunktet vil kunne gi fylkesmannen en oppfatning
-av i hvilken grad den kan ha tillit til den videre
-oppfølgingen fra kommunen.
-Fylkesmannen skal dessuten kunne vedta
-hvilke tiltak som skal gjennomføres dersom det vil
-forsinke saken unødig å bare pålegge kommunen
-å rette forholdet. Dette kan være tilfellet i saker
-hvor det er åpenbart hvilke tiltak som bør gjennomføres, og det dermed bare blir en formalitet å
-overlate til kommunen å finne fram til egnet tiltak.
-
-54
-
-56
-
-Se bl.a. rapport fra Barneombudet og FOU-prosjekt om
-håndhevingsordningen som omtalt i kap. 36.3.2.
-55
-Barneombudet, 2018a.
-
-Saksbehandlingstid
-Evalueringen av kapittel 9 A og det øvrige kunnskapsgrunnlaget viser at en av de største utfordringene med håndhevingsordningen er at det er
-for lang saksbehandlingstid hos fylkesmennene.
-Kunnskapsdepartementet har utredet om det bør
-fastsettes frister for saksbehandlingstid.56 I forslaget til statsbudsjettet for 2020 har Kunnskapsdepartementet orientert Stortinget om at det vil
-instruere fylkesmennene om at en første tilbakemelding til den som melder saken, og en plan for
-videre saksgang skal være klart i løpet av maksimalt fem virkedager. Den samme fristen vil gjelde
-for å avgjøre om saken skal avvises.
-Det følger av forvaltningsloven § 11 a at forvaltningsorganer skal forberede og avgjøre saker
-uten ugrunnet opphold, og denne gjelder for fylkesmennenes behandling. Utvalget mener det
-prinsipielt bør være minst mulig særregulering av
-forhold som er regulert i forvaltningsloven eller
-andre sektorovergripende lover.
-Kunnskapsdepartementet er nærmest til å vurdere om det skal gis instrukser til fylkesmennene
-om saksbehandlingstid. Utvalget antar at saksbeStortingets anmodningsvedtak nr. 671 i behandlingen av
-Prop. 57 L (2016–2017) og oppdragsbrev nr. 25–17 fra
-Kunnskapsdepartementet til Utdanningsdirektoratet.
-
-[Side 467]
-
-NOU 2019: 23
-Ny opplæringslov
-
-handlingstiden til fylkesmennene i stor grad skyldes deres ressurssituasjon og øvrige oppgaver.
-Kunnskapsdepartementet er også nærmest til å
-vurdere om fylkesmennene trenger mer ressurser
-for å kunne få til en raskere saksbehandling, eller
-om oppgaveporteføljen kan endres.
-Det vises for øvrig til at utvalgets forslag om å
-innføre en terskel for når fylkesmannen skal vedta
-tiltak, og presiseringen av at fylkesmannen ikke
-alltid må vurdere alle delplikter (omtalt ovenfor),
-kan gjøre håndhevingsordningen noe mindre ressurskrevende for fylkesmennene.
-
-465
-
-Kapittel 36
-
-tilstrekkelig handlingsrom til følge opp saken
-innenfor styringsretten og arbeidsmiljøloven.
-En problemstilling som har vært nevnt, er at
-det kan være en utfordring at vedtakene i skolemiljøsakene skal bygge på elevens subjektive opplevelse, mens tiltak mot en ansatt etter arbeidsmiljøloven må ha et objektivt grunnlag. Utvalget viser
-til det som er omtalt om vektlegging av elevens
-subjektive opplevelse, i kapittel 36.4.6. Det er en
-objektiv vurdering av saken som skal ligge til
-grunn for valg av tiltak, også i skolemiljøsaker.
-Klagerett for kommuner
-
-Forholdet til arbeidsmiljøloven
-Kunnskapsgrunnlaget viser at forholdet mellom
-opplæringsloven og arbeidsmiljøloven oppleves
-som problematisk.57 Spørsmålet aktualiseres i
-saker hvor vedtaket i skolemiljøsakene går ut over
-den ansattes rettigheter etter arbeidsmiljøloven.
-Kommuner og rektorer har et ansvar både
-overfor elevene og overfor de ansatte i skolen.
-Elevene har rettigheter etter opplæringsloven,
-mens de ansatte har rettigheter etter arbeidsmiljøloven. Utvalget har forståelse for at det kan være
-utfordrende å håndtere de to regelsettene i skolemiljøsaker.
-Forholdet mellom opplæringsloven og
-arbeidsmiljøloven er ikke omtalt i forarbeidene til
-kapittel 9 A. Utvalget legger til grunn at det ikke
-har vært meningen å gjøre unntak fra reglene i
-arbeidsmiljøloven. Kommunen, og i forlengelsen
-rektor, kan gjennom sin styringsrett gripe inn i
-den enkelte lærers arbeidsforhold, men det er
-også grenser for hva en arbeidsgiver kan styre
-overfor en ansatt.
-Det er kommunen som arbeidsgiver, som er
-ansvarlig for å etterleve reglene i arbeidsmiljøloven. Utdanningsdirektoratet og fylkesmennene
-har ikke plikter etter arbeidsmiljøloven og heller
-ingen styringsrett overfor de ansatte i skolen.
-Dersom statlige myndigheter fatter vedtak som
-innebærer at kommunen må iverksette tiltak som
-de ikke har et lovlig grunnlag for, må kommunen
-enten bryte arbeidsmiljøloven eller la være å oppfylle skolemiljøvedtaket. Statlige myndigheter bør
-derfor være varsomme med å fatte vedtak som
-innebærer at det må gjennomføres spesifikke tiltak overfor en lærer. Det er ikke statlige myndigheters oppgave å vurdere hvor langt styringsretten til kommunen går. Statlige myndigheter må
-derfor utforme vedtakene slik at kommunen får et
-57
-
-Se bl.a. rapport fra Barneombudet og FOU-prosjekt om
-håndhevingsordningen omtalt i kap. 36.3.2.
-
-Det følger av evalueringen av kapittel 9 A at
-mange kommuner mener det vil styrke håndhevingsordningen dersom kommunene får klagerett.
-Det følger av forvaltningsloven § 28 at parter
-og andre med rettslig klageinteresse har rett til å
-klage på et vedtak til et overordnet forvaltningsorgan. Det er presisert i opplæringsloven § 9 A-6
-femte avsnitt at kommunen ikke har klagerett.
-Forvaltningslovutvalget foreslår å videreføre
-at andre med rettslig klageinteresse kan påklage
-et vedtak, men går bort fra betegnelsen «rettslig
-klageinteresse». I stedet uttrykkes dette som klagerett for «andre som i vesentlig grad berøres av
-vedtaket».58 Det er private personer og sammenslutninger som kan ha rettslig klageinteresse. I
-likhet med det som er omtalt over når det gjelder
-partsrettigheter, har ikke offentlige organer rettslig klageinteresse på områder som de selv har
-ansvaret for. Forvaltningslovutvalget har vurdert
-om det skal være en generell klagerett for forvaltningsorganer, men kommet fram til at det ikke
-bør være det. I begrunnelsen er det blant annet
-vist til at en alminnelig regel om klagerett for
-offentlige organer kan føre til en mindre heldig
-prioritering av mulige klagesaker og skape usikkerhet for privatpersoner som er tilgodesett ved
-vedtaket.59
-I forarbeidene til dagens kapittel 9 A er klagerett for kommunen drøftet.60 Det er vist til at likebehandling kan være et argument for klagerett for
-kommunen, men at målet om rask saksbehandling og det asymmetriske forholdet mellom kommunen og den enkelte eleven tilsier at det ikke
-skal være en slik klagerett. Det er videre vist til at
-kommuner etter tvisteloven § 1-4 a kan gå til søks58
-59
-60
-
-NOU 2019: 5, kap. 24.8.3 og lovforslaget § 53 første avsnitt
-bokstav b.
-NOU 2019: 5, kap. 24.8.5.
-Prop. 57 L (2016–2017), kap. 6.5.6.
-
-[Side 468]
-
-466
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-mål mot staten om gyldigheten av et statlig organs
-vedtak, blant annet i håndhevingssaker om skolemiljø. I evalueringen av kapittel 9 A gir kommuner
-uttrykk for at denne ordningen ikke er en erstatning for en klagerett, da det er høy terskel for å
-saksøke staten.
-Etter utvalgets oppfatning kan det være gode
-grunner til at kommuner skal ha mulighet til å
-klage på vedtak i håndhevingssakene. Særlig kan
-dette være en sikkerhetsmekanisme dersom fylkesmannen vedtar tiltak som ikke er gjennomførbare, eller som har utilsiktede konsekvenser.
-Utvalget er enig i at adgangen til å saksøke staten
-i slike saker ikke vil ha samme funksjon.
-Det er likevel en risiko for at klagerett til kommuner fører til at saker drar ut i tid. Det kan også
-være en risiko for at det blir større oppmerksomhet fra kommunens side om å «vinne saken» enn å
-hjelpe eleven. På den annen side er det liten
-grunn til å tro at kommunene vil påklage saker
-med mindre vedtaket oppleves som åpenbart uriktig. Erfaringen fra tilsynssaker på opplæringsområdet er at kommuner sjelden klager på fylkesmannens vedtak.
-Utvalget er usikker på om en klagerett for
-kommuner vil få negative konsekvenser for elevene. Utvalget foreslår derfor ikke at det innføres
-en slik klagerett nå. Det kan være mindre risiko
-for elevene dersom det innføres en klagerett til
-kommunene etter at de nye reglene har virket en
-stund. Dersom det skal innføres en klagerett for
-kommunene, bør det innføres regler som ivaretar
-elevenes interesser i klagesaksbehandlingen. For
-eksempel bør det vurderes om det ikke skal
-kunne gis oppsettende virkning, og om en eventuell omgjøring av fylkesmannens vedtak ikke skal
-kunne frata elevene et gode.61
-Utvalget understreker at Utdanningsdirektoratet eller Kunnskapsdepartementet kan omgjøre
-fylkesmannens vedtak etter omgjøringsreglene i
-forvaltningsloven § 35. I enkelte tilfeller kan dermed fylkesmannens beslutning vis-à-vis en kommune omgjøres selv om kommunen ikke har klagerett.
-Utvalget foreslår at det tas ut av lovteksten at
-kommuner ikke har klagerett. Presiseringen er
-unødvendig gitt at utgangspunktet i forvaltningsloven er at kommuner ikke har klagerett.
-
-61
-
-Se eksempler på regler som ivaretar elevene i opplæringsloven § 15-7.
-
-36.4.9 Taushetsplikt og innsyn
-Innledning
-Kunnskapsgrunnlaget viser at mange synes det er
-utfordrende å håndtere taushetsplikt og innsynsrett i håndhevingssaker. Utvalget har forståelse
-for at praktiseringen av disse reglene kan være
-vanskelig, og at dette også gjelder i skolemiljøsakene.
-Opplysninger som er underlagt taushetsplikt,
-er unntatt fra den ordinære innsynsretten etter
-offentleglova. Utvalget legger dermed til grunn at
-den ordinære innsynsretten ikke er så vanskelig å
-praktisere i skolemiljøsaker. I det følgende drøftes
-partsinnsyn etter forvaltningsloven og innsyn i
-opplysninger om seg selv etter personopplysningsloven når det gjelder skolemiljøsaker.
-Partsinnsyn etter forvaltningsloven
-Forvaltningslovens regler om partsinnsyn gjelder
-for skolens, kommunens, fylkesmannens og
-Utdanningsdirektoratets behandling av skolemiljøsaker. Det følger av forvaltningsloven § 18 at en
-part i saken som hovedregel har rett til å gjøre seg
-kjent med sakens dokumenter.
-Slik utvalget forstår det, oppleves det som
-utfordrende å ta stilling til hvilke opplysninger
-den som melder saken, skal få om andre elever og
-om ansatte i skolen. Det har også vært nevnt for
-utvalget at man i noen tilfeller unngår å gjøre
-andre elever enn den som har meldt saken, til part
-fordi det gir en innsynsrett som oppleves problematisk.
-Utvalget vil derfor peke på at partens rett til
-innsyn ikke er uten unntak. I §§ 18 a til 18 d og 19
-er det fastsatt flere unntak fra retten til partsinnsyn. Det følger av § 19 første avsnitt bokstav d at
-en part ikke har krav på å gjøre seg kjent med
-opplysninger som det av hensyn til hans helse
-eller hans forhold til personer som står ham nær,
-må anses utilrådelig at han får kjennskap til. I
-slike tilfeller skal opplysningene på anmodning
-likevel gjøres kjent for en representant for parten
-når ikke særlige grunner taler mot det. Det følger
-av § 19 andre avsnitt at en part heller ikke har
-krav på innsyn i en annen persons helseforhold
-eller andre forhold som av særlige grunner ikke
-bør meddeles videre med mindre det er av vesentlig betydning for parten. Det er også flere andre
-unntak fra innsynsretten. Utvalget gjør likevel
-oppmerksom på at det følger av § 18 andre avsnitt
-at forvaltningsorganet skal vurdere å gi helt eller
-delvis innsyn selv om det er adgang til å gjøre unn-
-
-[Side 469]
-
-NOU 2019: 23
-Ny opplæringslov
-
-tak fra innsyn, og at innsyn bør gis dersom hensynet til parten veier tyngre enn behovet for unntak.
-De generelle reglene om innsyn og unntak fra
-innsyn er utformet for å ivareta ulike hensyn.
-Etter utvalgets vurdering er disse reglene dekkende også for skolemiljøsaker. Kommunene må
-sikre seg god nok kunnskap om de generelle
-reglene i forvaltningsloven og må ved behov
-hjelpe skolene med å anvende reglene i skolemiljøsaker. Fylkesmennene trenger også god kunnskap om disse reglene i sin behandling av håndhevingssakene. Kunnskapsdepartementet og Utdanningsdirektoratet kan vurdere om det bør utarbeides nasjonale veiledninger om anvendelsen av
-reglene om partsinnsyn i skolemiljøsaker.
-Utvalget understreker for ordens skyld at et
-forvaltningsorgan ikke kan unnlate å gjøre en person til part for å unngå at vedkommende får rett til
-partsinnsyn. Om en person har partsrettigheter
-etter forvaltningsloven, følger av om vedtaket,
-eller et mulig vedtak, retter seg mot vedkommende eller har vesentlige virkninger for vedkommende. Se nærmere omtale av hvem som er part i
-en sak, i kapittel 36.4.8. Forvaltningsorganer bør
-heller ikke unnlate å opplyse saken for å unngå
-innsyn som kan oppleves problematisk. Forvaltningsorganene må heller, som nevnt, gjøre seg
-godt kjent med hvilke regler som gjelder, og om
-nødvendig benytte de unntakene som forvaltningslovens regler åpner for.
-Innsyn i opplysninger om en selv etter personopplysningsloven
-Etter innføringen av nytt kapittel 9 A i opplæringsloven er det også stilt spørsmål om hvordan
-reglene om innsyn etter personopplysningsloven
-skal forstås og anvendes i slike saker. Det har særlig vært reist spørsmål om den som pekes ut som
-krenker, har rett til innsyn i opplysningene om seg
-selv.
-Det følger av artikkel 15 i EUs personvernforordning (GDPR) at enkeltpersoner som lagrede
-opplysninger kan knyttes til (den registrerte), har
-rett til informasjon og innsyn. Hovedregelen er at
-den registrerte skal ha rett til å få den behandlingsansvarliges bekreftelse på om personopplysninger om vedkommende behandles, og innsyn i
-personopplysningene. Videre skal den registrerte
-få nærmere fastsatt informasjon om opplysningene, som for eksempel formålet med behandlingen, hvor opplysningene stammer fra, med videre.
-I personopplysningsloven § 16 er det fastsatt
-flere unntak fra retten til informasjon og innsyn
-etter artikkel 15. For eksempel har den regis-
-
-467
-
-Kapittel 36
-
-trerte ikke rett til informasjon om eller innsyn i
-opplysninger som det må anses utilrådelig at den
-registrerte får kjennskap til av hensyn til vedkommendes helse eller forholdet til personer som står
-vedkommende nær. Slike opplysninger kan på
-anmodning likevel gjøres kjent for en representant for den registrerte når ikke særlige grunner
-taler mot det. Det er også unntak fra retten til innsyn og informasjon for opplysninger som er
-underlagt taushetsplikt, eller dersom det vil være i
-strid med åpenbare og grunnleggende private
-eller offentlige interesser å informere om opplysningene.
-I likhet med det som er omtalt for partsinnsyn,
-er det viktig at kommunene har tilstrekkelig kompetanse om reglene og bistår skolene i vanskelige
-spørsmål. Videre må fylkesmennene ha god kunnskap om reglene. I personvernforordningen artikkel 40 er det lagt opp til at sammenslutninger og
-organer som representerer behandlingsansvarlige eller databehandlere, kan utarbeide atferdsnormer som skal bidra til riktig anvendelse av forordningen. Det er Datatilsynet som kan godkjenne slike normer. For å lette behandlingen for
-skolene kan en sammenslutning av kommuner for
-eksempel utarbeide atferdsnormer for anvendelse
-av reglene om registrertes rett til innsyn og informasjon i skolemiljøsaker.
-Personopplysningsloven og atferdsnormer er
-nærmere omtalt i kapittel 7.6 og kapittel 32.5.2.
-
-36.4.10 Ansattes ytringsfrihet og
-rettssikkerhet
-Ansattes ytringsfrihet
-En problemstilling som er reist, og som har fått
-stor oppmerksomhet i media etter innføringen av
-kapittel 9 A, er hvordan reglene forholder seg til
-de ansattes ytringsfrihet. Forholdet mellom
-reglene om skolemiljø og de ansattes ytringsfrihet
-er ikke omtalt i forarbeidene til opplæringsloven.
-Ytringsfriheten er en grunnleggende menneskerettighet, nedfelt i Grunnloven § 100. Grunnloven § 100 første avsnitt slår fast: «Ytringsfrihed
-bør finne sted.» Ordet «bør» er ikke ment oppfordrende, det er en plikt til å respektere ytringsfriheten. Det framgår klart av den likestilte
-nynorskteksten: «Ytringsfridom skal det vere.»
-Ytringsfriheten omfatter retten til å ha egne
-meninger og frihet til å motta og meddele tanker
-og opplysninger. I utgangspunktet gjelder ytringsfriheten uavhengig av hva den enkelte ønsker å
-ytre seg om og uavhengig av innhold, tid, form og
-medium.
-
-[Side 470]
-
-468
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-Grensene for ytringsfriheten følger direkte av
-en tolkning av Grunnloven.62 Det følger av første
-avsnitt at ytringsfriheten kan innskrenkes gjennom
-lov dersom begrunnelsen lar seg forsvare opp mot
-ytringsfrihetens begrunnelser (sannhetssøken,
-demokrati og individets frie meningsdannelse). I
-bestemmelsens andre avsnitt er det gitt et forsterket vern til politiske ytringer og da særlig kritiske
-ytringer rettet mot offentlig virksomhet. Det kan
-bare settes begrensninger for slike ytringer dersom det er «særlig tungtveiende hensyn» som gjør
-det forsvarlig å begrense ytringsfriheten holdt opp
-imot «ytringsfrihetens begrunnelser».
-Retten til å kunne ytre seg fritt er også beskyttet i den europeiske menneskerettighetskonvensjonen (EMK) artikkel 10 og i FNs konvensjon
-om sivile og politiske rettigheter (SP) artikkel 19.
-De to konvensjonene gjelder som norsk lov og går
-foran annen norsk lov ved motstrid, jf. menneskerettsloven § 3 (se også kapittel 7.3.3).
-En overordnet begrensning av ytringsrommet
-som gjelder enhver, og selvsagt også lærere, er
-forbudet mot hatefulle ytringer i straffeloven
-§ 185. Av bestemmelsen framgår det at diskriminerende og hatefulle ytringer kan straffes. I hatefulle og diskriminerende ytringer ligger det «å
-true eller forhåne noen, eller fremme hat, forfølgelse eller ringeakt overfor noen på grunn av
-deres a) hudfarge eller nasjonale eller etniske
-opprinnelse, b) religion eller livssyn, c) homofile
-orientering, eller d) nedsatte funksjonsevne».
-Også den som «i andres nærvær forsettlig eller
-grovt uaktsomt fremsetter en slik ytring overfor
-en som rammes av denne», begår en straffbar
-handling. Forbudet i likestillings- og diskrimineringsloven § 13 mot trakassering på grunn av
-kjønn, nedsatt funksjonsevne, seksuell orientering
-med videre omfatter også ytringer. Slike inngrep i
-ytringsfriheten er utvilsomt tillatt etter Grunnloven § 100 og disse begrensningene gjelder selvsagt i skolesamfunnet så vel som i samfunnet for
-øvrig.63
-Spørsmålet i det følgende er om ansattes
-ytringsfrihet kan innskrenkes ytterligere enn slike
-generelle begrensninger. Ansattes ytringsfrihet er
-verken særskilt regulert i Grunnloven eller i de
-nevnte konvensjonene. Rollen som arbeidstaker
-medfører likevel visse særlige begrensninger av
-friheten til å ytre seg. Det kan være lovfestede
-eller avtalefestede begrensninger, som for eksempel taushetsplikt. Den ulovfestede lojalitetsplikten
-som gjelder i arbeidsforhold, kan også begrense
-
-ytringsfriheten.64 Lojalitetsplikten innebærer at
-ansatte har en plikt til å opptre lojalt overfor den
-virksomheten de arbeider i. Dette betyr imidlertid
-ikke at arbeidsgiveren har adgang til – ut fra sin
-egen lojalitetsforventing – å regulere eller sanksjonere ytringer som ansatte framsetter på sine
-egne vegne. I den nærmere fastleggingen av grensene for ytringsfriheten har det betydning hva
-slags ansettelsesforhold og hva slags oppgaver
-den ansatte har.
-I St.meld. nr. 26 (2003–2004) kapittel 4.11, forarbeidet til dagens § 100 i Grunnloven, er det
-redegjort generelt for ansattes ytringsfrihet. I
-kapittel 4.11.1 gis det uttrykk for at det som
-utgangspunkt bare bør være ytringer som påviselig skader eller kan skade arbeidsgiverens interesser på en unødig måte, som må anses som illojale.
-I noen tilfeller vil heller ikke dette være tilstrekkelig til å begrense den ansattes ytringsfrihet. Dersom hensynene bak ytringsfriheten veier tyngre,
-vil en ytring fra en ansatt kunne være vernet også
-når arbeidsgiverens interesser kan bli skadelidende. Avveiningen mellom den ansattes ytringsfrihet på den ene siden og lojalitetsplikten på den
-andre må være konkret. Det er i utgangspunktet
-arbeidsgiveren som må bevise at ytringen påfører
-eller kan påføre virksomheten skade. Hensynene
-bak lojalitetsplikten må i det konkrete tilfellet
-veies mot hensynene bak ytringsfriheten, i tråd
-med Grunnloven § 100. Ved avveiningen må det
-tas hensyn til at ytringsfriheten er en menneskerett, beskyttet av Grunnloven, EMK og SP, mens
-lojalitetsplikten er et ulovfestet prinsipp, som skal
-ivareta arbeidsgiverens interesser. Dette betyr at
-det er eventuelle begrensninger i ytringsfriheten
-som må begrunnes. Begrunnelsen må være relevant og tilstrekkelig i den enkelte sak, og begrensningene må være forholdsmessige. Generelt sett
-skal det relativt mye til før lojalitetshensynet tilsier begrensninger i ytringsfriheten.65
-Retningslinjene beskrevet i St.meld. nr. 26
-(2003–2004), gir utgangspunkter for vurderingen
-av ytringsfriheten. I den konkrete vurderingen av
-om det kan gripes inn overfor en ansatts ytringer,
-skal det legges vekt på ytringens innhold, ytringens form, identifikasjonsfaren (altså om den
-ansattes ytringer kan identifiseres med arbeidsgiver), forholdet til den ansattes funksjon, tidspunktet for ytringen, om den ansatte har forsøkt å
-bruke interne kanaler først og hva formålet med
-ytringen er.66 Ytringsfriheten til lærere og andre
-64
-
-62
-
-NOU 2009: 14, kap. 25.4.2.1.
-63
-NOU 2009: 14, kap. 25.4.2.1.
-
-65
-66
-
-SOM-2017-3278. SOM-2018-4777. LH-2016-164451.
-SOM-2018-4777.
-Kap. 4.11.1.
-
-[Side 471]
-
-NOU 2019: 23
-Ny opplæringslov
-
-ansatte i skolen drøftes ikke konkret, men det
-vises til at det kan gjelde visse grenser som en
-«følge av stillingens særlige karakter» med henvisning til Rt. 1982 s. 1729 (Lektordommen), som
-gjaldt rasistiske uttalelser fra en lærer. I lektordommen gis det generelle rettslige utgangspunkter for vurderingen av grensene for læreres
-ytringsfrihet etter den da gjeldende Grunnloven
-§ 100 som altså fortsatt er retningsgivende. Høyesterett slo fast at det «på grunn av tjenestens særlige art» må oppstilles «visse grenser» for hvordan
-lærere kan uttale seg i offentligheten. Dersom en
-lærer uttaler seg slik at det «må anses klart utilbørlig» vil det kunne få betydning for vurderingen
-av lærerens «skikkethet for lærergjerningen».
-Høyesterett uttalte videre:
-Det vil særlig kunne være tilfellet hvis
-uttalelsene har en slik form, et slikt innhold
-eller slike premisser at de er egnet til å bryte
-ned det omdømme og den tillit som det er nødvendig at en lærer har. For så vidt er dette etter
-min mening et spesielt krav som må stilles til
-lærere. Men det kan måtte stilles spesielle krav
-i denne retning også til andre som arbeider i
-offentlig eller privat tjeneste, nettopp som følge
-av tjenestens særlige karakter.
-Dette spesielle kravet til lærere innebærer at
-arbeidsgiver kan reagere mot læreres ytringer i
-videre utstrekning enn overfor en del andre
-yrkesgrupper, som en konsekvens av stillingens
-karakter.67
-Etter utvalgets oppfatning er det klart at
-ansatte ikke kan forbys enhver ytring som oppleves som krenkende for enkeltelever. Det avgjørende er om arbeidsgivers interesse blir skadelidende. Dersom ytringen fører til at den ansatte
-ikke lenger kan benyttes til undervisning, vil dette
-være skadelig for arbeidsgivers interesse.68 Hvor
-grensen går, må vurderes konkret ut fra en tolkning av Grunnloven § 100 tredje avsnitt. I denne
-konkrete vurderingen kan det utledes noen
-momenter fra vurderingene i lektordommen og
-St.meld. nr. 26 (2003–2004).
-Det er en videre adgang til å reagere arbeidsrettslig overfor ytringer som lærere framsetter i
-forbindelse med utøvelsen av lærergjerningen på
-skolen, i klasserommet og overfor elevene, enn
-det er til å reagere overfor ytringer fremsatt i det
-67
-
-Se også forarbeidet til Grunnloven § 100 i St.meld. nr. 26
-(2003–2004), s. 103. Det er redegjort generelt for ansattes
-ytringsfrihet i St.meld. nr. 26 (2003–2004), kap. 4.11.
-68
-Se LH-2016-164451.
-
-469
-
-Kapittel 36
-
-offentlige rom. Det er altså snevrere grenser for
-lærerens ytringsrom i skolen og særlig i undervisningssituasjonen, enn det er i det offentlige rom.
-Det er også forskjell på om ytringene i det offentlige rom omhandler forhold ved skolen eller ikke.
-Dersom ytringene gjelder skolepolitiske forhold,
-for eksempel at læreren kritiserer driften av skolen, står ytringsfrihetens begrunnelse særlig
-sterkt. Det er en svært høy terskel for å gripe inn
-overfor ytringer av generell art, særlig dersom
-kritikken er framsatt også internt. Men dersom
-det som ledd i kritikken overfor skolen eller skoledriften, framsettes negative karakteristikker av
-elever eller gis opplysninger om elevene, og særlig dersom det er tale om lett identifiserbare
-enkeltelever, er det videre adgang for arbeidsgiver til å reagere. Særlig gjelder det dersom karakteristikken eller opplysningene ikke er nødvendige for kritikken som framføres. Den nærmere
-avveiningen må gjøres konkret.
-Dersom ytringene må vurderes som krenkende
-overfor enkeltelever vil det være en vid adgang til
-å reagere overfor læreren. Utvalget vil før øvrig
-vise til det som er sagt i kapittel 36.4.4. Det er en
-objektiv terskel for hvilke ytringer og handlinger
-som er krenkende, og som det dermed er krav om
-at skolen ikke skal godta (nulltoleranse). Den
-enkelte elevs subjektive opplevelse av å bli krenket utløser alltid en plikt til å undersøke saken og
-sette inn tiltak. Men tiltaket trenger ikke å være å
-forby eller forhindre slike ytringer eller
-handlinger, dersom det etter en helhetlig vurdering ikke er grunn til det. Tiltaket kan da handle
-om dialog mellom læreren og de berørte elevene,
-forventningsavklaringer og hjelp til å forstå og
-håndtere situasjonene som oppstår. Selv om det
-ikke er grunnlag for å begrense en lærers ytringer, bør det settes inn tiltak slik at læreren forstår
-hvordan ytringene oppleves for elevene, og får veiledning om hvordan man bør opptre overfor elevene for å fremme helse, trivsel og læring.
-Ansattes rettssikkerhet
-Kunnskapsgrunnlaget viser at mange lærere
-mener at deres rettssikkerhet har blitt svekket
-med innføringen av de nye reglene om skolemiljø.
-Utvalget har ikke grunnlag for å vurdere om
-lærernes rettssikkerhet faktisk er svekket. Slik
-utvalget forstår det, handler bekymringene særlig
-om tre forhold: vektleggingen av elevens subjektive opplevelse, kravet om varsling til kommunen
-og lærerens rolle i håndhevingsordningen. Utvalget foreslår flere endringer og presiseringer som
-kan gjøre at disse utfordringene blir mindre.
-
-[Side 472]
-
-470
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-Utvalget foreslår at det presiseres i loven at skolen skal undersøke saken og deretter sette inn tiltak dersom en elev sier fra om at han eller hun ikke
-har det trygt og godt på skolen. Videre foreslår
-utvalget at det presiseres i loven at valg av tiltak
-skal bygge på en konkret og faglig vurdering. Det
-blir dermed tydeligere at vurderingen av hvilke tiltak som bør settes inn, skal bero på en undersøkelse av saken, der elevens opplevelse står sentralt,
-men hvor også andre sider av saken opplyses. Se
-mer om disse forslagene i kapittel 36.4.6.
-Utvalget foreslår også at det tas inn i lovteksten
-at rektor ikke trenger å varsle videre til kommunen
-dersom rektor får melding om at en lærer har krenket en elev, men meldingen er åpenbart grunnløs.
-Utvalget vil for øvrig understreke at det at en sak
-varsles til kommunen, ikke betyr at innholdet i
-varslet legges til grunn som en fullstendig beskrivelse av den faktiske situasjonen. Saken skal undersøkes, og det er denne undersøkelsen og faglige
-vurderinger som skal ligge til grunn for tiltaket. Se
-mer om varsling til kommunen i kapittel 36.4.7.
-Utvalget foreslår også en terskel for når fylkesmannen kan vedta hva skolen skal gjøre. Det vil dermed være mindre risiko for at fylkesmannen vedtar
-tiltak som har en direkte virkning for lærerens
-arbeidssituasjon. Når kommunene skal følge opp
-fylkesmannens pålegg om retting, må de ivareta
-både elevenes rettigheter etter opplæringsloven og
-lærerens rettigheter som arbeidstaker. Se om forholdet til arbeidsmiljølovens regler i kapittel 36.4.8.
-Utvalget foreslår ingen særregler om partsrettigheter med videre, men har i kapittel 36.4.8 forsøkt å klargjøre hvilke krav som gjelder for opplysning av saken, involvering av berørte og retten
-til innsyn.
-Utvalget mener at disse forslagene og klargjøringene samlet sett vil ivareta hensynet til de
-ansattes rettssikkerhet. Det vil fortsatt være slik
-at skolen alltid skal undersøke saken og sette inn
-tiltak når en elev sier fra om at han eller hun ikke
-har det trygt og godt på skolen, og det skal fortsatt være strenge regler om varsling dersom en
-elev sier fra om krenkelse fra en lærer. Utvalget
-har forståelse for at dette kan oppleves ubehagelig
-for en lærer, men hensynet til elevene må veie
-tyngst. For å unngå situasjoner der elevenes opplevelser bagatelliseres, og for å kunne ivareta elevenes rett til et trygt og godt skolemiljø, er disse
-kravene etter utvalgets oppfatning nødvendige.
-
-36.4.11 Det fysiske miljøet
-Reglene om det fysiske skolemiljøet i § 9 A-7 ble
-ikke endret ved revisjonen av opplæringsloven
-
-kapittel 9 A i 2017. I forarbeidene ble det vist til at
-reglene om det fysiske skolemiljøet vil bli gjennomgått som en oppfølging av Meld. St. 19 (2014–2015)
-Folkehelsemeldingen. På bakgrunn av denne stortingsmeldingen har det vært gjennomført et interdepartementalt utredningsarbeid om det fysiske
-miljøet i barnehager og skoler. Arbeidet har resultert i forslag om endringer i forskrift om miljørettet
-helsevern i barnehager og skoler. I høringen er det
-også foreslått endringer i opplæringsloven § 9 A-7.69
-På bakgrunn av at det er igangsatt arbeid med
-å endre reglene om det fysiske skolemiljøet, har
-utvalget valgt å ikke vurdere behovet for
-endringer i disse reglene utover språklige
-endringer. Reguleringen av det fysiske miljøet fordrer dessuten en tverrfaglig kompetanse som
-utvalget ikke besitter. Selv om utvalget ikke har
-vurdert reguleringen av det fysiske skolemiljøet,
-vil utvalget understreke at det er viktig at Kunnskapsdepartementet sammen med andre relevante departement fullfører arbeidet som er
-igangsatt på dette området. Gjennomgang av den
-rettslige styringen av det fysiske miljøet i norske
-skoler har lenge vært utsatt, og det er viktig for
-elevenes helse og velvære at det gjøres en grundig gjennomgang av disse reglene.
-
-36.4.12 Elevenes deltakelse i arbeidet med
-skolemiljøet
-Opplæringsloven § 9 A-8 inneholder regler om
-elevenes deltakelse i skolens arbeid med skolemiljøet. Utvalget foreslår at det tas inn en generell
-bestemmelse i ny opplæringslov om at elevene
-skal få delta i skoledemokratiet. I utvalgets forslag
-§ 2-4 er arbeidet med skolemiljøet tatt inn som et
-eksempel på et område der elevene skal få mulighet til å medvirke. Utvalget foreslår på denne bakgrunn at § 9 A-8 ikke videreføres.
-Se omtale av forslaget om en generell bestemmelse om elevenes rett til å delta i skoledemokratiet i kapittel 19.
-36.4.13 Informasjonsplikt og rett til å uttale
-seg
-Opplæringsloven § 9 A-9 inneholder regler om
-skolens informasjonsplikt og om elevers og foreldres rett til å uttale seg gjennom ulike rådsorganer. I utvalgets forslag § 2-6 er skolemiljøet tatt inn
-som et eksempel på et tema som elevene og foreldrene skal få informasjon om. Utvalgets forslag
-§ 2-4 handler om den kollektive medvirkningen,
-69
-
-Helse- og omsorgsdepartementet, 2019.
-
-[Side 473]
-
-NOU 2019: 23
-Ny opplæringslov
-
-og også her er skolemiljø et eksempel i lovteksten. Utvalget foreslår på denne bakgrunn at § 9
-A-9 ikke videreføres.
-Se omtale av forslaget om generelle bestemmelser om informasjonsplikt i kapittel 43.2 og om
-rett til å uttale seg i kapittel 19.
-
-36.4.14 Tvangsmulkt, overtredelsesgebyr og
-oppreisning
-Generelt
-I NOU 2015: 2 ble det foreslått at det skulle innføres en mulighet for overtredelsesgebyr og tvangsmulkt i skolemiljøsaker, og at det ble innført en
-oppreisningsordning for slike saker. Kunnskapsdepartementet foreslo derimot bare at det ble innført en mulighet for å ilegge tvangsmulkt.70
-I dagens lov er det hjemmel for å gi kommunene pålegg om hva de skal gjøre og ilegge tvangsmulkt i håndhevingssaker om det psykososiale skolemiljøet. Opplæringsloven gir ikke hjemmel for
-andre administrative reaksjoner eller sanksjoner og
-inneholder heller ikke regler om oppreisning.
-Enkelte av organisasjonene i utvalgets referansegruppe71 etterlyser flere administrative reaksjoner i opplæringsloven. I det følgende drøfter utvalget kort tvangsmulkt, overtredelsesgebyr og oppreisning i skolemiljøsaker. Se utvalgets generelle
-vurdering av behovet for reaksjoner i kapittel
-12.8.2 og kapittel 53.
-Tvangsmulkt
-Opplæringsloven § 9 A-13 gir fylkesmannen
-adgang til å ilegge kommuner tvangsmulkt dersom vedtak etter håndhevingsordningen ikke er
-fulgt opp. Kunnskapsdepartementet kan gi forskrift om hva slags tvangsmulkt som kan benyttes, og hvor stor mulkten skal være. Denne forskriftshjemmelen er ikke brukt.
-Per 31. desember 2018 var det bare ett fylkesmannsembete som hadde benyttet tvangsmulkt
-som virkemiddel i én sak. Barneombudet uttrykker bekymring for at terskelen er for høy.72 Evalueringen viser også at fylkesmennene synes
-reglene om tvangsmulkt er krevende å anvende.73
-At tvangsmulkt i liten grad har vært brukt
-siden det ble innført, kan tyde på at det ikke er
-
-behov for dette virkemiddelet. På den annen side
-kan årsaken også være at fylkesmennene er usikre på hvordan og i hvilke tilfeller tvangsmulkt
-bør brukes. Adgangen til å ilegge tvangsmulkt
-kan også ha virket forebyggende.
-Utvalget foreslår å videreføre adgangen til å
-ilegge tvangsmulkt ved manglende oppfyllelse av
-vedtak i håndhevingssaker om psykososialt skolemiljø.
-Utvalget har ikke grunnlag for å ta stilling til om
-terskelen for å bruke tvangsmulkt har vært for høy.
-På generelt grunnlag vil utvalget understreke at
-tvangsmulkt ikke er ment som en straff, men som
-et virkemiddel for å framtvinge oppfyllelsen av de
-statlige myndighetenes vedtak i skolemiljøsaker.
-Dersom kommunene oppfyller vedtakene, noe
-utvalget antar at er hovedregelen, er det ikke
-grunnlag for å ilegge tvangsmulkt. Det er i slike
-saker ikke av betydning hvor alvorlig saken er.
-Utvalget vil videre understreke at tvangsmulkt først
-og fremst kan være et egnet virkemiddel dersom
-en kommune ikke ønsker å etterkomme det statlige vedtaket. Dersom manglende oppfyllelse derimot skyldes manglende evner, er tvangsmulkt ikke
-så egnet. Samtidig vil det ofte være en nær sammenheng mellom vilje og evne. For eksempel vil
-kommunens vilje ha betydning for hvor mye ressurser som settes inn, og hvilken kompetanse som
-skaffes.
-Utvalget mener det bør fastsettes forskrift om
-type tvangsmulkt, for eksempel om bruk av
-løpende mulkt og engangsmulkt, og om mulktens
-størrelse. Forskriftsregulering vil lette fylkesmannens behandling av slike saker, og vil dessuten
-bidra til likebehandling og forutsigbarhet. Utvalget oppfordrer derfor Kunnskapsdepartementet
-til å ta i bruk forskriftshjemmelen for tvangsmulkt. Likebehandling kan eventuelt også oppnås
-ved at det utarbeides en instruks for fylkesmennenes anvendelse av tvangsmulkt.
-Utvalget mener det fortsatt bør stå i loven at
-avgjørelser om tvangsmulkt skal behandles etter
-reglene om enkeltvedtak i forvaltningsloven. Dersom dette ikke særreguleres, vil de nevnte
-reglene ikke komme til anvendelse ettersom
-reglene om enkeltvedtak gjelder avgjørelser som
-retter seg mot private personer.74 Kommunen har
-ikke klagerett etter de generelle reglene i forvalt74
-
-70
-
-Prop. 57 L (2016–2017), kap. 7.
-Barneombudet, Foreldreutvalget for grunnopplæringen
-(FUG) og Norsk Lektorlag.
-72
-Barneombudet, 2018a.
-73
-Deloitte, 2019.
-71
-
-471
-
-Kapittel 36
-
-Jf. forvaltningsloven § 2 bokstav a og b. Etter forvaltningsloven § 2 fjerde avsnitt kan et forvaltningsorgan likestilles
-med privat rettssubjekt dersom organet har samme
-interesse eller stilling i saken som private parter kan ha.
-Dette gjelder f.eks. ved ekspropriasjon av eiendom. Unntaket gjelder ikke ved saker om tvangsmulkt som er rettet
-mot kommunen som ansvarlig for grunnopplæringen.
+# Opplæring i kvensk, finsk, norsk tegnspråk og punktskrift
+
+\[:figur:figX-X.jpg\]
+
+ 
+
+## Innledning
+
+Dette kapitlet handler om opplæring i kvensk eller finsk, som i dag er regulert i opplæringsloven § 2-7. Kapitlet handler også om opplæring i og på norsk tegnspråk i grunnskolen og i videregående opplæring, som i dag er regulert i opplæringsloven §§ 2-6 og 3-9.
+
+I tillegg handler kapitlet om opplæring i punktskrift, bruk av tekniske hjelpemidler og mobilitet i grunnskolen og videregående opplæring, som i dag er regulert i opplæringsloven §§ 2-14 og 3-10.
+
+Dagens rett til opplæring i inntil to år ekstra for elever som har rett til opplæring i og på tegnspråk eller opplæring i punktskrift er omhandlet i kapittel 25.4.2.
+
+## Opplæring i kvensk eller finsk
+
+### Dagens regler
+
+Grunnloven og Norges folkerettslige forpliktelser
+
+Kvener/norskfinner er på linje med jøder, rom, romanifolk/tatere og skogfinner anerkjent som nasjonale minoriteter i Norge. FNs konvensjon om sivile og politiske rettigheter, artikkel 27, er en sentral bestemmelse om det internasjonale vernet av minoriteter. De som tilhører en minoritet, skal ha rett til å dyrke sin kultur og bruke sitt språk. FNs konvensjon om barns rettigheter har en tilsvarende bestemmelse i artikkel 30 om barn som tilhører en språklig minoritet. Dette gjelder som norsk lov.
+
+Norge har også ratifisert Europarådets rammekonvensjon om beskyttelse av nasjonale minoriteter. Staten har med det forpliktet seg til å legge forholdene til rette for at nasjonale minoriteter skal kunne bevare og videreutvikle sin egenart, sitt språk og sin kultur.
+
+Opplæringsloven og forskrift til opplæringsloven
+
+Opplæringsloven § 2-7 handler om opplæring i kvensk eller finsk for elever med kvensk eller norskfinsk bakgrunn. Når minst tre elever ved grunnskoler i Troms og Finnmark krever det, har elever med denne bakgrunnen rett til opplæring i kvensk eller finsk. Det er ikke et krav om at de tre elevene må gå på samme trinn. Elevene har rett til å få opplæringen i kvensk eller finsk i egen undervisningsgruppe, men skal ellers gå i vanlig klasse sammen med de andre elevene.
+
+Det er presisert i § 2-7 at omfanget av opplæringen i tid og innholdet i opplæringen fastsettes i forskrift etter opplæringsloven §§ 2-2 og 2-3.
+
+Retten til opplæring på nærskolen, jf. opplæringsloven § 8-1, gjelder også for finskopplæringen. Når opplæringen ikke kan gis av egnet undervisningspersonale ved skolen, har elevene rett til alternativ form for opplæring, for eksempel fjernundervisning, intensivundervisning eller leirskoleopphold. Dette følger av forskrift til opplæringsloven § 7-1.
+
+### Kunnskapsgrunnlaget
+
+Rapporter og undersøkelser
+
+*Målrettet plan 2017–2021 – videre innsats for kvensk språk*[^945] gir en oversikt over det som hittil er gjort for å styrke kvensk språk. På bakgrunn av tiltak som er foreslått i planen, har Stortinget nylig vedtatt endringer i opplæringsloven § 2-7. Endringene trådte i kraft 1. august 2019, se for øvrig Prop. 88 L (2018–2019).
+
+Innspill til utvalget
+
+Språkrådet mener at opplæringsloven ikke bør gjøre det vanskelig å bruke kvensk i norsk skole, og tilrår at retten til å få opplæring for kvenske og norskfinske elever ikke skal begrenses til Troms og Finnmark, men skal gjelde i hele landet. Språkrådet er skeptiske til å koble retten til nasjonal minoritetsspråkopplæring til etnisitet. Rådet vektlegger at når elever eller foreldre ønsker denne opplæringen, er det ut fra et selvidentifiseringsprinsipp. Språkrådet mener også at retten til opplæring i kvensk eller finsk skal være individuell, og at skolen bør få en plikt til å informere om retten til å få opplæring i kvensk og finsk. De tilrår at retten til kvensk eller finsk i videregående skole også forankres i opplæringsloven.[^946]
+
+### Utvalgets vurdering
+
+Stortinget har nylig vedtatt endringer i opplæringsloven § 2-7. Formålet med endringen var blant annet å tydeliggjøre at elevene har rett til å velge opplæring i kvensk. Når det gjelder innspillet fra Språkrådet om at retten til opplæring ikke bør knyttes til etnisitet, viser utvalget til Prop. 88 L (2018–2019), hvor det framgår:
+
+Fylkesmennene i Troms og Finnmark har opplyst at ein i praksis ikkje krev dokumentasjon av bakgrunnen til elevane for at dei skal få opplæring i kvensk eller finsk. Dei kjenner heller ikkje til at skolar eller skoleeigarar har vurdert å nekte elevar opplæring i kvensk eller finsk som følgje av manglande kvensk/norskfinsk bakgrunn.[^947]
+
+Språkrådet foreslår også å utvide retten til å gjelde elever i hele landet og til å gjelde elever i videregående skole. Dette er ikke et tiltak i *Målrettet plan 2017–2021 – videre innsats for kvensk språk*.[^948] Utvalget mener uansett at en eventuell utvidelse av rettighetene bør utredes nærmere, noe utvalget ikke har hatt kapasitet til å gjøre.
+
+Når det gjelder Språkrådets forslag om å gi skolen en plikt til å opplyse om retten til opplæring i kvensk og finsk, viser utvalget til § 2-6 i lovforslaget.
+
+Utvalget mener at det er unødvendig å presisere i bestemmelsen at departementet kan gi forskrift om omfanget av og innholdet i opplæringen, se kapittel 16.4. For å gjøre regelverket mindre fragmentert foreslår utvalget at adgangen til opplæring på annen måte, lovfestet. Utvalget foreslår derfor ikke at forskriftshjemmelen videreføres.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- å videreføre retten til opplæring i kvensk og finsk for elever med kvensk eller norskfinsk bakgrunn, se forslag til § 4-3
+
+- språklige og strukturelle endringer
+
+## Opplæring i og på norsk tegnspråk
+
+### Dagens regler
+
+Grunnloven og Norges folkerettslige forpliktelser
+
+I Grunnloven § 109 står det at barn har rett til å motta grunnleggende opplæring, og at opplæringen skal ivareta den enkeltes evner og behov. Statens myndigheter skal sikre adgang til videregående opplæring og like muligheter til høyere utdannelse på grunnlag av kvalifikasjoner. Ifølge Grunnloven § 104 har barn rett til å bli hørt i spørsmål som gjelder dem selv, og deres mening skal tillegges vekt i overensstemmelse med deres alder og utvikling. Se nærmere omtale av Grunnloven i kapittel 7.2.
+
+FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne artikkel 21 bokstav e, forplikter partene til å anerkjenne og fremme bruken av tegnspråk. Etter konvensjonens artikkel 24 om utdanning forplikter partene seg til å sikre et inkluderende utdanningssystem gjennom blant annet å treffe hensiktsmessige tiltak, inkludert
+
+- å legge til rette for innlæring av tegnspråk og fremme av døvesamfunnets språklige identitet (3b)
+
+- å sikre at undervisningen av blinde, døve og døvblinde personer, og især barn, finner sted på de språk og i de kommunikasjonsformer og med de kommunikasjonsmidler som er best tilpasset den enkelte, og i et miljø som gir størst mulig faglig og sosial utvikling (3c)
+
+Opplæringsloven og forskrift til opplæringsloven
+
+Rett til opplæring i og på norsk tegnspråk
+
+I § 2-6 om tegnspråkopplæring i grunnskolen framgår det at elever som har tegnspråk som førstespråk, eller som etter sakkyndig vurdering har behov for slik opplæring, har rett til grunnskoleopplæring i og på tegnspråk. Med «tegnspråk» siktes det til språket norsk tegnspråk. Bestemmelsens andre avsnitt åpner for at tegnspråkopplæringen kan gis på et annet sted enn nærskolen. Dette betyr at retten til å gå på nærskolen etter § 8-1 ikke gjelder for elever som vil ha oppfylt rettighetene sine etter § 2-6.
+
+I § 3-9 om tegnspråkopplæring i videregående opplæring framgår det at ungdom som har rett til videregående opplæring, og som har tegnspråk som førstespråk, eller som etter sakkyndig vurdering har behov for slik opplæring, har rett til å velge videregående opplæring i og på tegnspråk på skoler som har slike tilrettelagte opplæringstilbud, eller rett til å velge å bruke tolk i ordinære videregående skoler. Med tilrettelagte opplæringstilbud menes ordinære fylkeskommunale videregående skoler som har tilrettelagte opplæringstilbud for hørselshemmede, også kalt knutepunktskoler. Elever med rett til opplæring i og på tegnspråk har rett til to ekstra år med videregående opplæring dersom de trenger det, jf. opplæringsloven § 3-1 femte avsnitt.
+
+Før kommunen fatter enkeltvedtak om opplæring i og på norsk tegnspråk, må det foreligge en sakkyndig vurdering fra PP-tjenesten. Dette gjelder både for elever som har norsk tegnspråk som førstespråk, og for elever som kan ha behov for tegnspråkopplæring. Den sakkyndige vurderingen skal ikke ta stilling til elevens språkvalg og språklige identitet.[^949]
+
+Opplæring i og på norsk tegnspråk kan inngå som del av et vedtak om spesialundervisning etter opplæringsloven § 5-1. I disse tilfellene følger tegnspråkopplæringen rammene som er gitt i kapittel 5 om spesialundervisning. Elever som har vedtak om tegnspråkopplæring etter §§ 2-6 og 3-9, kan samtidig ha vedtak om spesialundervisning.
+
+Når det gjelder opplæring spesielt organisert for voksne etter opplæringsloven kapittel 4A, se kapittel 45.
+
+Departementet har fastsatt egne læreplaner for elever som får opplæring etter § 2-6, og elever på skoler med tilrettelagte opplæringstilbud etter § 3-9 andre avsnitt. Det er læreplanene i norsk tegnspråk, norsk for hørselshemmede (erstatter læreplanen i norsk), engelsk for hørselshemmede (erstatter læreplanen i engelsk) og drama og rytmikk (erstatter lærerplanen i musikk i grunnskolen), jf. forskrift til opplæringsloven § 1-1 første avsnitt bokstav d og § 1-3 første avsnitt bokstav a.[^950]
+
+Elever som får opplæring i norsk tegnspråk etter opplæringsloven §§ 2-6 og 3-9, har rett til fritak fra opplæring i norsk sidemål, jf. § 1-11 i forskrift til opplæringsloven.
+
+Kommunene kan velge å tilby norsk tegnspråk som ett av de fremmedspråkene de tilbyr etter forskrift til opplæringsloven §§ 1-8 og 1-10.
+
+Elever i grunnskolen
+
+Elever som har vedtak om opplæring i og på norsk tegnspråk etter § 2-6, skal følge læreplanene for hørselshemmede og fag- og timefordelingen for elever med tegnspråk som førstespråk. De som følger fag- og timefordelingen for elever med tegnspråk som førstespråk, har 967 timer mer enn elever som følger ordinær fag- og timefordeling. De ekstra timene er forbeholdt fagene norsk for hørselshemmede og norsk tegnspråk, og er spredt på 1.–10. trinn.[^951] Dersom en elev bare ønsker opplæring *i* norsk tegnspråk eller ønsker opplæring i og på norsk tegnspråk, men samtidig å følge alle ordinære læreplaner, kan eleven ha rett til dette gjennom vedtak om spesialundervisning, jf. § 5-1. Dette utløser imidlertid ikke rett til utvidet timetall.
+
+Etter forskrift til opplæringsloven § 1-9 andre avsnitt og læreplanverket kan elever som får opplæring etter læreplanen i norsk tegnspråk, søke fritak fra kravet om opplæring i fremmedspråk/fordypning. Timene skal da i stedet brukes til forsterket opplæring i engelsk, norsk eller norsk tegnspråk.
+
+Elever i videregående opplæring
+
+Etter forskrift til opplæringsloven § 1-10 andre avsnitt er elever med opplæring i norsk tegnspråk etter lovens § 3-9 fritatt fra krav om opplæring i fremmedspråk. Timene skal benyttes til opplæring i norsk for hørselshemmede og norsk tegnspråk.
+
+Forskrift til opplæringsloven § 19-5 inneholder regler om fylkeskommunens ansvar for utgifter til opphold og særskilt tilrettelagt botilbud for elever ved fylkeskommunale knutepunktskoler for hørselshemmede. Fylkeskommunen der eleven har hjemstedsadresse har det økonomiske ansvaret for utgifter til kost og losji samt nødvendige sosialpedagogiske tiltak.
+
+Det er også særskilte regler om inntak til videregående opplæring for elever med vedtak etter § 3-9.
+
+### Kunnskapsgrunnlaget
+
+Historikk
+
+Rettsutviklingen
+
+Den tidligere forskrift til grunnskoleloven § 2-4 nr. 1 og nr. 4 regulerte retten til opplæring i og på tegnspråk for elever i skolen og barn under opplæringspliktig alder. Vilkåret for opplæring i og på tegnspråk i skolen var at dette var elevens førstespråk. I NOU 1995: 18 foreslo utvalget å videreføre bestemmelsen. I Ot.prp. nr. 46 (1997–98) foreslo departementet å lovfeste bestemmelsen i opplæringsloven. Forslaget ble vedtatt og trådte i kraft 17. juli 1999.
+
+I Ot.prp. nr. 78 (1998–99) ble det foreslått at også hørselshemmede elever i videregående opplæring skulle få rett til tegnspråkopplæring. Forslaget ble vedtatt med virkning fra 1. august 2000.
+
+I Ot.prp. nr. 40 (2007–2008) ble det fremmet forslag om å utvide retten til tegnspråkopplæring i grunnskolen, blant annet for å få den til å harmonisere bedre med reguleringen i videregående opplæring. I høringsforslaget viste departementet til at det, på bakgrunn av et konkret og reelt behov hos eleven, kan være grunnlag for å gi en elev rett til opplæring i og på tegnspråk uten at dette er førstespråket til eleven. Departementet trakk spesielt fram hørselshemmede elever med cochleaimplantat.[^952] Denne endringen trådte i kraft 1. august 2008.
+
+I Prop. 103 L (2015–2016) ble det foreslått å flytte bestemmelsen om tegnspråkopplæring for barn under opplæringspliktig alder fra opplæringsloven til barnehageloven. Det ble i proposisjonen presisert at formålet med tegnspråkopplæringen ikke lenger var som beskrevet i Ot.prp. nr. 46 (1997–98): «å bidra til at døve og hørselshemmede barn er like språklig rustet til å starte skolen som andre barn». Vilkårene for ny rett til tegnspråkopplæring ble gjort tilsvarende som i skolen. I tillegg ble det presisert at tilbudet om tegnspråkopplæring så langt som mulig skal utformes i samarbeid med barnet og barnets foreldre, og at det skal legges stor vekt på deres syn. I merknaden til dagens § 19 h i barnehageloven presiseres det at førstespråkvalget er overlatt til barna og foreldrene, og at barn uten tegnspråk som førstespråk kan ha rett til tegnspråkopplæring dersom en sakkyndig vurdering viser at barnet har et reelt behov for slik opplæring.
+
+Organiseringen av opplæringen i og på norsk tegnspråk
+
+Historisk sett har en stor del av opplæringen i og på norsk tegnspråk vært organisert i egne skoler. I NOU 2009: 18 *Rett til læring* ble både norsk tegnspråk og de statlige grunnskolene for hørselshemmede omtalt. Utredningen viste en markant nedgang i antall heltidselever ved de statlige grunnskolene for hørselshemmede. Nedgangen skyldtes blant annet at flere og flere foreldre valgte lokal barnehage og ønsket at barna deres skulle fortsette på nærskolen.[^953] Utredningen ble fulgt opp i Meld. St. 18 (2010–2011) *Læring og fellesskap*. Her ble det blant annet foreslått omfattende endringer av det statlige spesialpedagogiske støttesystemet (Statped) gjennom å samle all kompetanse i én landsdekkende organisasjon, samt å avvikle tre av fire statlige hørselsgrunnskoler. Stortinget vedtok omstillingen i Innst. 405 S (2010–2011). Det siste statlige grunnskoletilbudet til barn og unge med hørselshemming, A. C. Møller skole, ble overført til Trondheim kommune med virkning fra 1. juli 2017.[^954]
+
+Statped har har flyttet sin innsats på tegnspråkfeltet fra å tilby egne heltids skoletilbud og internatdrift til å levere tjenester til kommuner. Etter omorganiseringen, har Statped fremdeles tegnspråk som et av sine største fagområder. Statped tilbyr blant annet elever som får opplæring i og på norsk tegnspråk etter opplæringsloven §§ 2-6 og 5-1, tilbud om deltidsopplæring i og på norsk tegnspråk samt fjernundervisning.[^955]
+
+Rapporter og undersøkelser
+
+Statistikk
+
+Ifølge Norges Døveforbund er det anslagsvis 16 500 brukere av norsk tegnspråk. Av dem er om lag 5 000 døve.[^956]
+
+Skoleåret 2018–2019 var det 264 elever i grunnskolen som hadde opplæring i og på tegnspråk etter § 2-6.[^957] Det finnes ingen tilsvarende oversikt over hvor mange elever som har tegnspråkopplæring etter § 3-9 eller som del av opplæringen etter vedtak om spesialundervisning etter § 5-1.
+
+Kunnskapsoversikter
+
+På oppdrag av Utdanningsdirektoratet utarbeidet forskere ved NTNU Samfunnsforskning i samarbeid med ansatte i Statped i 2015 rapporten *Kunnskapsoversikt over forskningsfunn om læring hos barn og unge med hørselshemming*. I rapporten framgår det at forskningen om hvordan barn og unge med store og små hørselstap har det på skolen og i barnehagen, tegner et bilde av at hørselshemmede barn og unge jevnt over strever mer i skolen enn det som i rapporten omtales som «vanlige» elever. I rapporten vises det til viktigheten av organisering, holdninger og praktisk tilrettelegging – og det pekes på at tidspress, misforståelser om døvhet og mangel på administrativ støtte virker hemmende for de fleste offentlige skoleprogrammer som tilbyr inkluderende læringsopplevelser. Samtidig viser gjennomgangen at det er gode erfaringer med individuell tilpasning ved at metode og tilrettelegging må vurderes helt spesifikt med tanke på den enkelte elev og elevens klassesituasjon.[^958]
+
+Rapporten *Hørselshemmede barns og unges opplæringsmessige og sosiale vilkår i barnehage og skole – Kunnskapsoversikt over nyere nordisk forskning* fra 2018 er utarbeidet av Patrick Kermit ved NTNU Samfunnsforskning. Rapporten er bestilt og finansiert av Hørselshemmedes Landsforbund og presenterer en oversikt over nyere norsk, dansk og svensk forskning om situasjonen til hørselshemmede barn og unge i barnehage og skole. Kermit finner at så å si alle studiene, på tross av sine ulike utgangspunkt og fokus, underbygger forholdene som Barneombudets rapport *Uten mål og mening?* (se omtale i kapittel 31.4.2) trekker fram når det gjelder elever med nedsatt funksjonsevnes faglige situasjon, deres mulighet til sosial deltakelse og deres adgang til brukermedvirkning. I rapporten framgår det blant annet at det er et fravær av forskningsresultater som indikerer at barn og unge med hørselshemming opplever å bli spurt eller involvert når det gjelder hva slags rettighetsoppfyllelse de skal ha, eller hva inkludering innebærer for deres del.[^959]
+
+Utredning fra Utdanningsdirektoratet
+
+I behandlingen av representantforslag 72 S (2015–2016) om å styrke norsk tegnspråk og tegnspråk i skolen svarte statsråd Torbjørn Røe Isaksen i skriftlig svar til Stortinget at han er kjent med at opplæringsloven § 2-6 ikke er godt nok tilpasset dagens døve og hørselshemmede elever, og at det er behov for å gjennomgå bestemmelsen. Videre står det at det vil bli vurdert om det skal åpnes for at elever som velger opplæring etter § 2-6, ikke må følge alle de fire læreplanene for døve og hørselshemmede.
+
+I Innst. 321 S (2015–2016) går komiteen inn for at det i forbindelse med gjennomgangen av opplæringsloven § 2-6 også bør vurderes om andre grupper elever som har særskilt behov for det, skal få rett til opplæring i tegnspråk.
+
+Kunnskapsdepartementet ga i 2017 Utdanningsdirektoratet i oppdrag å innhente kunnskapsgrunnlag og, på bakgrunn av dette, vurdere endringer og tiltak for å styrke tilgangen på tegnspråkopplæring i barnehagen og grunnopplæringen.[^960]
+
+I Utdanningsdirektoratets svar av april 2018[^961] foreslås det blant annet
+
+- å gi elever som får opplæring etter §§ 2-6 og 3-9 rett til opplæring i to førstespråk, på lik linje med samiske hørende og hørselshemmede elever
+
+- å gjøre læreplanene for hørselshemmede valgfrie
+
+- å gi hørende elever i nære relasjoner (barn og søsken) med personer som bruker tegnspråk som førstespråk, rett til opplæring i tegnspråk
+
+- å gjøre endringer i opplæringsloven slik at det åpnes for å gjennomføre opplæring i tegnspråk som fjernundervisning
+
+- å vurdere å fjerne kravet til sakkyndig vurdering for elever som ønsker opplæring *i* tegnspråk, men beholde kravet for elever som ønsker opplæring *på* tegnspråk
+
+Uttalelser fra Sivilombudsmannen
+
+Sivilombudsmannen har de siste årene kommet med flere uttalelser om tegnspråkopplæring i skolen. Blant annet har det vært spørsmål om forholdet mellom rettighetene, vilkårene, omfanget og organiseringen av tegnspråkopplæringen etter §§ 5-1 og 2-6 i tilfeller der eleven har vedtak etter begge bestemmelsene.[^962]
+
+Sivilombudsmannen har også behandlet saker der det har vært uenigheter om hvem som skal beslutte hvilket førstespråk eleven har. I en uttalelse fra 2017 uttaler Sivilombudsmannen følgende om språkvalg: «Forvaltningen må respektere foreldrenes valg av om barn skal ha tegnspråk som førstespråk. Fylkesmannen kan verken overprøve foreldrenes språkvalg, eller kommunens vedtak om rett til grunnskoleopplæring på tegnspråk, når Fylkesmannen vurderer om skolen har fulgt opp barnets tegnspråkrettigheter.»[^963]
+
+Innspill til utvalget
+
+Utvalget har møtt eller fått innspill fra Språkrådet, Norges Døveforbund og Nydalen videregående skole.
+
+Språkrådet og Norges Døveforbund tilrår blant annet at retten til opplæring i norsk tegnspråk ikke automatisk skal føre til at eleven utelukkende må følge alle læreplanene som er utviklet for hørselshemmede. De mener også at alle døve og hørselshemmede barn bør ha rett til å få undervisning i og på tegnspråk i et tegnspråklig miljø, at alle døve og hørselshemmede barn bør ha rett til å få to førstespråk, og at hørende barn av døve og hørselshemmede foreldre gis tilgang til opplæring i tegnspråk.
+
+Språkrådet og Norges Døveforbund ønsker også å avvikle kravet om sakkyndig vurdering, ettersom de mener de sakkyndige vurderingene i dag kan være uklare eller mangelfulle. I tillegg mener de at det er unaturlig at en sakkyndig instans skal ha myndighet til å beslutte det de mener i realiteten er et språkvalg.[^964]
+
+Nydalen videregående skole mener blant annet at elever som ønsker opplæring i og på norsk tegnspråk i videregående skole, må få skoleplass på en knutepunktskole. Nydalen videregående skole mener også at elever som får undervisning i og på norsk tegnspråk, skal følge læreplanene i norsk tegnspråk og norsk for hørselshemmede da læreplanene tar hensyn til tospråkligheten, og at elevene sikres at opplæringen finner sted i et tegnspråkmiljø.[^965]
+
+### Utvalgets vurdering
+
+Bør det være større fleksibilitet i retten til opplæring i og på norsk tegnspråk?
+
+Situasjonen for elever som får opplæring i og på norsk tegnspråk, har endret seg betydelig de siste tjue årene, og det er et ønske om mer fleksibilitet i tilgangen til opplæring i og på norsk tegnspråk. Flere og flere foreldre velger lokal barnehage, og ønsker at barna deres skal fortsette på den lokale skolen så framt de får et tilfredsstillende og tilrettelagt tilbud der.[^966] De statlige heltids skoletilbudene er avviklet, og det er nå en kommunal oppgave å tilby opplæring i og på norsk tegnspråk og skape lokale tegnspråkmiljø. Statpeds innsats handler i all hovedsak om å bistå kommunene i dette arbeidet.
+
+Norsk tegnspråk er et fullt utviklet språk med egne grammatiske regler og egen setningsoppbygging, på lik linje med for eksempel norsk og engelsk. Slik regelverket er utformet i dag, har elever mulighet til å få opplæring i og på norsk tegnspråk etter ulike paragrafer, med ulikt innhold og ulike vilkår:
+
+- Elevene kan få hele opplæringen i og på norsk tegnspråk etter opplæringsloven §§ 2-6 og 3-9. Elevene følger læreplanene for hørselshemmede og ordinære læreplaner i de øvrige fagene. Retten for grunnskoleelever til å gå på den nærmeste skolen etter § 8-1 gjelder ikke, og kommunen kan dermed beslutte at eleven må gå på en annen grunnskole.
+
+- Elevene kan få opplæring i og på norsk tegnspråk som del av et vedtak om spesialundervisning etter opplæringsloven § 5-1. Opplæringen skal tilpasses den enkeltes behov. Det er ingen rett til ekstra timer eller rett og plikt til å følge de tegnspråklige læreplanene. Elevene i grunnskolen har rett til å gå på den nærmeste skolen etter opplæringsloven § 8-1.
+
+Utvalget mener det er uheldig dersom elever med hørselshemming som ønsker opplæring i norsk tegnspråk, men ønsker å ha resten av opplæringen sammen med resten av klassen, må gå veien om spesialundervisning for å få en inkluderende og tilstrekkelig tilpasset opplæring. På bakgrunn av dette foreslår utvalget at grunnskoleelever med hørselshemming får anledning til å velge opplæring i faget norsk tegnspråk etter læreplanen for norsk tegnspråk med ekstra timeressurs samtidig som de følger ordinære læreplaner i alle andre fag. Dette vil kunne ha konsekvenser for fag- og timefordelingen. Kommunen bør ha anledning til å beslutte at opplæringen i norsk tegnspråk kan gis ved en annen skole. Utvalgets forslag om at det bør åpnes for at opplæringen gjennomføres som fjernundervisning kan også være relevant i denne sammenheng, se kapittel 28.
+
+Selv om en elev etter forslaget kan velge tegnspråkopplæring kun etter læreplanen i norsk tegnspråk, er det ingenting i veien for at kommunen kan gi elevene tilbud om også å følge enkelte av de andre læreplanene for hørselshemmede. Dette er imidlertid ikke en rett eleven vil ha etter forslaget.
+
+Etter dagens § 3-9 har elever i videregående opplæring kun rett til å følge læreplanene for hørselshemmede på egne videregående skoler. Dette betyr at elever som velger å ta videregående opplæring i ordinære videregående skoler, og som bruker tolk, ikke har rett til opplæring i norsk tegnspråk.
+
+I tråd med at utvalget foreslår at grunnskoleelever med hørselshemming skal få anledning til å velge opplæring i faget norsk tegnspråk, mener utvalget at det også bør vurderes om elever med hørselshemming som går i ordinære videregående skoler, og som bruker tolk, bør få anledning til å kunne velge å få opplæring i faget norsk tegnspråk. Det er uklart hva de økonomiske og administrative konsekvensene av en slik utvidelse vil være. Utvalget foreslår derfor at departementet utreder dette nærmere før en slik endring eventuelt foreslås.
+
+Bør det være krav om sakkyndig vurdering?
+
+I dag er det krav om sakkyndig vurdering før det fattes enkeltvedtak om tegnspråkopplæring etter §§ 2-6 og 3-9. Det er den pedagogisk-psykologiske tjenesten (PP-tjenesten) som har ansvaret for å utarbeide denne vurderingen. Det framgår av forvaltningsloven § 17 at kommunen må påse at saker er så godt opplyst som mulig før vedtak treffes, se omtale i kapittel 23.4.3 om formålet med utredningsplikten i forvaltningsloven § 17. Utvalget foreslår derfor at kravet om sakkyndig vurdering ikke videreføres.
+
+I dag er det krav om sakkyndig vurdering også knyttet til inntak til videregående skole for elever som har rett til opplæring i eller på tegnspråk, jf. forskrift til opplæringsloven § 6-17. Departementet bør vurdere om et slikt krav er hensiktsmessig.
+
+Elever som får opplæring i og på norsk tegnspråk som del av retten til individuelt tilrettelagt opplæring, vil både i grunnskolen og videregående opplæring være omfattet av det generelle kravet om sakkyndig vurdering, som følger av retten til individuelt tilrettelagt opplæring. Se kapittel 31.5.
+
+Om det er foreldrene eller eleven som velger om eleven skal ha opplæring i og på norsk tegnspråk følger av barnelova § 32, som sier at barn som har fylt 15 år, selv avgjør spørsmål om valg av utdanning. Elever med rett til opplæring i og på samisk og elever med rett til opplæring i kvensk og finsk velger selv om de vil ha slik opplæring fra 8. trinn. Utvalget mener det er gode grunner til å ha samme regler for elever med rett til opplæring i og på norsk tegnspråk. Dette er både av hensyn til barnas selvbestemmelse, men også av hensyn til kommunens planlegging av opplæringen som skal gis. Utvalget oppdaget denne problemstillingen for sent til å vurdere eventuelle konsekvenser ved å foreslå at også elever med rett til opplæring i og på tegnspråk selv skal velge slik opplæring fra 8. trinn, og ber departementet vurdere dette nærmere. Utvalget viser i denne sammenheng til at Barnelovutvalget har fått i oppdrag å foreta en samlet gjennomgang av aldersgrenser og barnets rett til medvirkning, selvbestemmelse og til å bli hørt etter både barnelova og andre lover hvor dette er sentralt for å sikre barnets rettigheter.
+
+Vilkår for rett til tegnspråkopplæring
+
+I dagens §§ 2-6 og 3-9 gjelder retten til tegnspråkopplæring barn og unge som har tegnspråk som førstespråk eller som etter sakkyndig vurdering har behov for slik opplæring. Utvalget foreslår at det ikke skal være krav til sakkyndig vurdering (se ovenfor). Utvalget mener at det ikke vil være tilstrekkelig at barn og unge med tegnspråk som førstespråk, får rett til tegnspråkopplæring. Et slikt vilkår kan for eksempel utelukke barn og unge som er funksjonelt hørende fordi de har cochleaimplantat. Hva som er førstespråket kan dessuten være vanskelig å avgjøre.
+
+Utvalget foreslår at retten til tegnspråkopplæring skal gjelde barn og unge med hørselshemming. De som har tegnspråk som førstespråk, er omfattet av forslaget. I tillegg vil barn og unge som har en hørselshemming, men som ikke har tegnspråk som førstespråk, være omfattet. Hva som er en hørselshemming, er en medisinskfaglig vurdering. Det er likevel normalt sett ikke nødvendig å innhente dokumentasjon. Det stilles ikke krav til graden av hørselshemming, og i vurderingen bør det legges stor vekt på om foreldrene eller eleven mener at eleven er hørselshemmet.
+
+Bør retten til opplæring i og på norsk tegnspråk utvides?
+
+Elever som er i nær relasjon med personer med tegnspråk som førstespråk, er av flere foreslått som en ny målgruppe for å få opplæring i norsk tegnspråk i skolen. Også i NOU 1995: 18 er det bemerket at tegnspråkopplæring kan være ønskelig også for hørende barn av hørselshemmede foreldre, uten at dette ble fulgt opp videre. Utvalget er kjent med at departementet også er opptatt av denne målgruppen.[^967]
+
+Utvalget ser gode grunner til at også elever som har tegnspråklige personer i sin nærmeste familie, bør få tilgang på opplæring i norsk tegnspråk. Det er imidlertid krevende å anslå økonomiske og administrative konsekvenser av en slik utvidelse. Det er blant annet krevende å lage en treffende avgrensning av målgruppen samt å avgjøre når eksempelvis en forelder eller et søsken har tegnspråk som *førstespråk*.
+
+I tillegg vil et slikt forslag innebære at elever med tegnspråklige familiemedlemmer vil kunne oppleve en ekstra belastning knyttet til lengre skoledager og mulige fritak fra fag som vil få konsekvenser for videre valgmuligheter i utdanningsløpet. Utvalget foreslår at departementet vurderer mulige konsekvenser for elevene, samt utreder økonomiske og administrative konsekvenser, dersom også elever som har tegnspråkbrukere i nære relasjoner skal få rett til opplæring i og på norsk tegnspråk
+
+Det er ifølge Utdanningsdirektoratet og Språkrådet utfordrende å finne lærere med tilstrekkelig kompetanse i norsk tegnspråk. En utvidelse av målgruppen kan føre til at det prioriteres å bygge opp kompetanse i norsk tegnspråk, noe som vil være positivt for alle elever som ønsker tegnspråkopplæring. Samtidig kan en utvidelse føre til at tegnspråkressursene som i dag finnes i kommunene, blir spredt på enda flere skoler og klasser, også der behovene kanskje ikke er størst.
+
+Utvalget foreslår på bakgrunn av dette at det bare er elever som selv har en hørselshemming og som ønsker opplæring i og på norsk tegnspråk, som har rett til opplæring i og på norsk tegnspråk.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- å videreføre retten til opplæring i og på norsk tegnspråk, med endret vilkår for slik opplæring, se forslag til §§ 4-4 og 7-3
+
+- at grunnskoleelever med hørselshemming får rett til å velge opplæring i norsk tegnspråk etter læreplanen for norsk tegnspråk, med ekstra timeressurs. Elevene følger ordinære læreplaner i alle andre fag
+
+- at departementet utreder om også elever med hørselshemming som går i ordinære videregående skoler, og som bruker tolk, bør få anledning til å kunne velge å få opplæring i faget norsk tegnspråk
+
+- at kravet om sakkyndig vurdering fra PP-tjenesten før det fattes vedtak om opplæring i og på norsk tegnspråk, ikke videreføres
+
+- språklige endringer
+
+## Opplæring i punktskrift, tekniske hjelpemidler og mobilitet
+
+### Dagens regler
+
+Grunnloven og Norges folkerettslige forpliktelser
+
+Se kapittel 34.3.1 om Grunnloven §§ 109 og 104 og nærmere omtale av Grunnloven i kapittel 7.2.
+
+FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne artikkel 24 omhandler utdanning. Etter denne artikkelen forplikter partene seg til å sikre et inkluderende utdanningssystem, gjennom blant annet å treffe hensiktsmessige tiltak, herunder:
+
+- å legge til rette for innlæring av punktskrift, alternativ skrift, alternative og supplerende kommunikasjonsformer, -midler og -formater, orienterings- og mobilitetsferdigheter, samt legge til rette for likemannsarbeid og mentorvirksomhet (3a)
+
+- å sikre at undervisningen av blinde, døve og døvblinde personer, og især barn, finner sted på de språk og i de kommunikasjonsformer og med de kommunikasjonsmidler som er best tilpasset den enkelte, og i et miljø som gir størst mulig faglig og sosial utvikling (3c)
+
+Opplæringsloven og forskrift til opplæringsloven
+
+Sterkt svaksynte og blinde elever har rett til nødvendig opplæring i punktskrift og opplæring i bruk av nødvendige tekniske hjelpemidler. De har også rett til nødvendig opplæring i å ta seg fram på skolen, til og fra skolen og i hjemmemiljøet, jf. opplæringsloven §§ 2-14 og 3-10. Før det blir gjort vedtak om slik opplæring, skal det foreligge en sakkyndig vurdering.
+
+Elever som får opplæring etter §§ 2-14 og 3-10, har i likhet med alle andre elever også rett til spesialundervisning etter lovens kapittel 5.
+
+Elevene kan også ha rett til to ekstra år med videregående opplæring dersom de trenger det, jf. § 3-1 femte avsnitt. De to årene kommer i tillegg til de ekstra timene eleven får.
+
+Elever med vedtak etter §§ 2-14 og 3-10 har rett til å få opplæring i punktskrift, bruk av nødvendige tekniske hjelpemidler og opplæring i å ta seg fram på skolen, til og fra skolen og i hjemmemiljøet, som et tillegg til det ordinære timetallet. I grunnskolen har elevene rett til inntil 1 525 tilleggstimer, og i videregående opplæring har elevene rett til inntil 456 tilleggstimer, jf. forskrift til opplæringsloven § 1-1 første avsnitt bokstav f og § 1-3 første avsnitt bokstav b.
+
+Andre lover
+
+Likestillings- og diskrimineringsloven § 21 inneholder en regel om rett til individuell tilrettelegging for elever og studenter. Retten til tilrettelegging gjelder både undervisningen, lærestedet, læremidler og eksamen. Ifølge § 17 i samme lov har alle offentlige og private virksomheter rettet mot allmennheten plikt til universell utforming av virksomhetens alminnelige funksjoner.
+
+Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, inkludert informasjons- og kommunikasjonsteknologi (IKT), slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse.
+
+Forskrift om miljørettet helsevern i barnehager og skoler mv. har som formål å bidra til at miljøet i skoler fremmer helse, trivsel, gode sosiale og miljømessige forhold samt forebygger sykdom og skade. Forskriften inneholder også en bestemmelse i § 9 andre avsnitt som pålegger skolen å ivareta behovet til barn og unge med nedsatt funksjonsevne. Bestemmelsen gjelder for skolens lokaler og uteområde.
+
+### Kunnskapsgrunnlaget
+
+Historikk
+
+Fram til avviklingen av de statlige spesialskolene i 1992, fikk mange blinde og sterkt svaksynte elever opplæring på egne statlige blindeskoler. Før bestemmelsen om punktskriftopplæring kom inn i opplæringsloven i 2000, var all tilrettelegging av opplæringen til elever med synshemming regulert gjennom retten til spesialundervisning.
+
+I tilknyting til behandlingen av Innst. O. nr. 70 (1997–98) vedtok Stortinget at regjeringen skulle legge fram en «sak om lovfestet rett til opplæring i punktskrift». Under behandlingen av Innst. O. nr. 92 (1998–99) gjorde Stortinget videre vedtak om at regjeringen skulle legge fram «en melding basert på en vurdering av organiseringen og økonomien forbundet med en rettighetsfestet adgang til opplæring i punktskrift for svaksynte og blinde som tillegg til ordinær undervisning for blinde og svaksynte. Opplæringen skal foregå enten i punktskriftmiljø eller integrert i den ordinære skole etter elevenes eget ønske».
+
+Departementet foreslår i Ot.prp. nr. 44 (1999–2000) at retten til opplæring i punktskrift plasseres i «dei alminnelege kapitla for grunnskole og vidaregåande opplæring». Departementet viser videre til at mens elever med opplæring i tegnspråk har stort faglig utbytte av å få opplæringen i et tegnspråklig miljø, vil elever med punktskrift som skriftspråk ikke ha det samme faglige utbyttet av å få opplæringen i et «punktskriftlig» miljø.
+
+Rapporter og undersøkelser
+
+Statistikk
+
+I forbindelse med arbeidet med Ot.prp. 44 (1999–2000), fikk Huseby kompetansesenter i oppdrag å kartlegge status for blinde og sterkt svaksynte elever. I utredningen av 1. november 1999 opplyser Huseby kompetansesenter at det i hvert årskull i skolen gjennomsnittlig er 8–10 barn som er blinde eller sterkt svaksynte. Videre er det cirka 40–50 svaksynte elever og 70–80 multihandikappede elever, der ulike grader av synshemming er en av diagnosene. Alle punktskriftelever i grunnskolen får opplæring på nærskolen, og hver for seg er de vanligvis den eneste punktskrifteleven i klassen og på skolen.
+
+Norges Blindeforbund skriver på sine nettsider at det er om lag 1 400 synshemmede personer mellom 0 og 20 år. De fleste former for nedsatt syn blant barn i Norge er medfødt.[^968] Ifølge tall fra Grunnskolens Informasjonssystem har om lag 70 elever i grunnskolen årlig hatt vedtak etter § 2-14 siden registreringen av dette ble innført skoleåret 2014–2015.[^969] Det er ikke tilgjengelig statistikk over hvor mange elever som får opplæring i punktskrift, tekniske hjelpemidler eller mobilitetsopplæring etter §§ 3-10 eller 5-1.
+
+Kunnskapsoversikt over forskningsfunn om læring hos barn og unge med synshemming
+
+På oppdrag fra Utdanningsdirektoratet sammenstilte forskere fra NTNU Samfunnsforskning i 2015 en gjennomgang av forskningslitteratur knyttet til førskolebarn og elever med synshemming. En gjennomgående konklusjon er at det er nødvendig med tilrettelegging for at elever med synshemming skal få fullt utbytte både av det læringsmessige og det sosiale livet på skolen. Det er av stor betydning at eleven har oversikt over skoleområdet, og at antallet forflytninger i løpet av skoledagen er begrenset. Videre peker forskerne på at det må tas høyde for at elevene trenger mer tid enn sine seende klassevenner på en rekke områder, uten at litteraturen peker på områder som kan prioriteres vekk. Nok tid pekes også på som kritisk, ikke minst for elever som bruker både visuell skrift og punktskrift. Det er også en utfordring å kunne legge til rette for at synshemmede elever kan ha nytte av undervisning som gjør bruk av visuelle læremidler, som for eksempel det tilfanget som finnes av pedagogisk programvare i mange ulike fag.[^970]
+
+Kort om punktskrift, tekniske hjelpemidler og mobilitetsopplæring i skolen
+
+I Utdanningsdirektoratets veileder om ferdigheter og teknikker som blinde og sterkt svaksynte elever kan ha behov for å lære for å kunne delta i opplæringen på skolen og i aktiviteter i nærmiljøet, framgår det at punktskrift brukes av personer som er blinde, og personer som har så nedsatt synsfunksjon at de ikke kan lese visuell skrift på en funksjonell måte. Punktskrift brukes verden over og er tilpasset ulike skriftspråk. Temaer innen punktskriftopplæring er romforståelse og taktile ferdigheter, taktil avkoding og lesing og skriving av punktskrift. [^971]
+
+Tekniske hjelpemidler som er vanlige for elever som er blinde og sterkt svaksynte, omfatter blant annet mobilitetsstokk, punktskriftmaskin, klokke med taktil markering eller tale, måleredskaper med taktil markering eller auditiv tilbakemelding, og GPS med tale. I skolesammenheng er datamaskin med tilleggskomponenter som skjermleser-program, leselist, punktskriver og skanner vanlige hjelpemidler for blinde.
+
+Mobilitetsopplæringen skal utvikle blinde og sterkt svaksynte elevers evne til å orientere seg i omgivelsene. Målet er at elevene skal kunne ta seg fram fra ett sted til et annet på en mest mulig selvstendig, effektiv og trygg måte. Opplæring i mobilitet handler i hovedsak om at eleven lærer ulike mobilitetsruter, orientere seg og lære teknikker til økt selvstendighet og sikkerhet. Det kan for eksempel være å lære veien mellom klasserommet og gymsalen og veien til og fra skolen. I veilederen er det omtalt at elevens foreldre gjerne kan delta i noe av opplæringen. Foreldrene kan da få trygghet for at elevens sikkerhet er ivaretatt, og de kan motivere eleven til å bruke mobilitetsferdighetene i aktiviteter som foregår utenom skoletiden.[^972]
+
+Statped har syn som et av sine særskilte fagområder. Statped tilbyr utredning, rådgivning, veiledning og kurs. Statped har også et strakstilbud ved nyoppdagede, alvorlige synsvansker. Statped tilrettelegger også lærebøker for elever med synsnedsettelse. Grunnskoler og videregående skoler kan bestille lærebøker i punktskrift på papir eller som e-bok til leselist. Statped og Norsk lyd- og blindeskriftbibliotek (NLB) samarbeider om å distribuere tilrettelagte skolelydbøker med både lyd og tekst, og som også er tilrettelagt for synshemmede.[^973]
+
+Aktiviteter i dagliglivet (ADL)
+
+Noen elever kan trenge hjelp til på- og avkledning, hjelp i forbindelse med mat, toalettbesøk og annen trening i dagliglivets gjøremål. Dette kalles ADL-trening. Mange av gjøremålene er viktig hjelp og læring som elevene vil kunne ha rett til med hjemmel i flere lovverk.
+
+ADL-trening vil være utenfor det som vanligvis legges i begrepet opplæring slik det framgår av læreplanverket. Elever med individuell opplæringsplan kan trenge ADL-trening for å nå fastsatte mål. Denne ADL-treningen kan dermed regnes som opplæring i opplæringslovens forstand, selv om aktiviteten kan regnes som helse- og omsorgstiltak i andre sammenhenger. ADL-treningen vil da være en del av elevens spesialundervisning etter opplæringsloven og ADL-treningen skal framgå av elevens enkeltvedtak.[^974]
+
+I Innst. 12 S (2015–2016) ber flertallet i kirke-, utdannings- og forskningskomiteen om at det utredes «hvordan retten til opplæring i dagliglivets aktiviteter (ADL) for svaksynte og blinde elever best ivaretas uten å gå ut over ordinær undervisning».[^975]
+
+### Utvalgets vurdering
+
+Utvalget mener det er gode grunner for å ha egne bestemmelser som regulerer den særskilte opplæringen elever som er blinde og sterkt svaksynte har rett på, og som utløser rett til ekstra timetall. Utvalget foreslår derfor at rettighetene etter dagens §§ 2-14 og 3-10 videreføres.
+
+Utvalget mener det er uklart hva som ligger i formuleringen i dagens §§ 2-14 og 3-10 om at elevene har rett til «å ta seg fram \[…\] i heimemiljøet». Det er ingen definisjon av innholdet i forskrift til opplæringsloven, forarbeidene, relevant juridisk teori eller i veiledningsmateriell. Utvalget foreslår å endre *å ta seg fram i heimemiljøet* til *nødvendig opplæring i mobilitet*. Formålet er at blinde og sterkt svaktsynte skal kunne finne fram på skolen, komme seg til og fra skolen og delta i i aktiviteter i regi av skolen. Endringen er ikke ment å endre innholdet i dagens bestemmelser.
+
+Med «opplæring i mobilitet» menes i denne sammenheng opplæring som gjør at elevene lærer seg ulike mobilitetsruter, lærer å orientere seg og lærer teknikker som fører til økt selvstendighet og sikkerhet.
+
+Utvalget mener retten til opplæring i punktskrift bør plasseres i kapitlene om valg av skriftspråk og særskilte språkrettigheter. Når det gjelder retten til opplæring i bruk av tekniske hjelpemidler og opplæring i mobilitet, foreslås dette som en egen bestemmelse i kapittel 10 om universell opplæring og individuell tilrettelegging.
+
+Rett til opplæring i aktiviteter i dagliglivet (ADL) følger ikke av dagens §§ 2-14 eller 3-10. Utvalget mener det er hensiktsmessig at elever med behov for ADL-trening, fortsatt får dette gjennom et vedtak om individuelt tilrettelagt opplæring. For det første er det sannsynlig at mange elever, også elever som ikke er blinde og sterkt svaksynte, har behov for ADL-trening i skolen. Videre vil hva som ligger i den enkeltes ADL-trening, sannsynligvis variere betydelig. Dette taler for at det gjøres en individuell vurdering etter kriteriene gitt i bestemmelsene om individuelt tilrettelagt opplæring.
+
+Etter dagens regler er det krav om sakkyndig vurdering før det fattes enkeltvedtak om opplæring i punktskrift, om opplæring i bruk av tekniske hjelpemidler og om opplæring i mobilitet. Utvalget mener krav om sakkyndig vurdering er overflødig. Dersom det skulle være tvil om eleven er blind eller sterkt svaksynt og har behov for slik opplæring, følger det av den generelle utredningsplikten i forvaltningsloven at kommunen skal utrede saken.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- å videreføre retten til opplæring i punktskrift, se forslag til §§ 4-5 og 7-4
+
+- å videreføre retten til opplæring i bruk av tekniske hjelpemidler og i mobilitet for blinde og sterkt svaksynte, se forslag til § 10-11
+
+- at kravet om sakkyndig vurdering fra PP-tjenesten ikke videreføres før det skal fattes vedtak om opplæring i punktskrift og vedtak om opplæring i bruk av tekniske hjelpemidler og i mobilitet
+
+- språklige endringer

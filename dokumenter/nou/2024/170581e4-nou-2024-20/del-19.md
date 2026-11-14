@@ -1,1151 +1,208 @@
-# NOU 2024: 20, del 19 av 24 (side 221–232)
+# NOU 2024: 20, del 19 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/170581e4-nou-2024-20.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-20/id3073644/
 - Original-PDF: https://www.regjeringen.no/contentassets/c252947398de4fb0aea9349f011eb410/no/pdfs/nou202420240020000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 30 figurer, 170 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 221]
+# Utvalgets anbefalinger
 
-NOU 2024: 20
-Det digitale (i) livet
+## Balansert, trygg og sunn skjermbruk
 
-direktoratet har også et ansvar for en nasjonal faglig retningslinje for helsestasjon, skolehelsetjeneste og helsestasjon for ungdom.12 I retningslinjene omtaler de samspill mellom foreldre og
-barn og gir råd om at foreldre bør lage enkle
-regler og innarbeide gode vaner for skjermbruk.
-I 2022 ble det vedtatt av regjeringen at nettstedet ung.no skal være statens primære kanal for
-digital informasjon, dialog og digitale tjenester for
-ungdom. Ung.no skal samle informasjon fra ulike
-fagområder og formidle den på ungdommenes
-premisser. Nettstedet driftes av Bufdir, men er en
-del av DigiUng-samarbeidet, som har flere titalls
-deltagere innenfor statlig, kommunal, frivillig og
-privat sektor og fra akademia.
-I tillegg til at offentlige myndigheter gir råd og
-veiledning, gir frivillige organisasjoner som
-Barnevakten og Redd Barna veiledning til foreldre og dem som jobber med barn om skjermbruk.
-Utdanningsdirektoratets hjemmesider er det
-naturlige stedet å oppsøke for ansatte, ledere og
-eiere i barnehager og skoler som ser etter informasjon og støtte. Utvalget mener derfor at det er
-fornuftig å fortsette å bruke Utdanningsdirektoratet til å informere og legge til rette for profesjonsutviklingen i skole- og barnehagefeltet.
-Selv om myndighetene og andre tilbyr informasjon og veiledning, etterspørres det mer informasjon og tydeligere råd for å heve den digitale
-kompetansen i befolkningen. Skjermbrukutvalgets ekspertgruppe av ungdom mener at en
-hovedutfordring er at barn og unge, foreldre,
-lærere, IKT-ansatte på skolen og myndighetene
-ikke får nok digital opplæring. Også i klasseromsbesøkene utvalget har gjennomført, var det flere
-barn og unge som ga uttrykk for at de ønsker mer
-informasjon, særlig om hvorfor mange ender opp
-med å bruke mer tid enn man ønsker på plattformene. Medietilsynets ungdomsnettverk har
-utarbeidet krav til en trygg digital oppvekst, der
-kompetanse om og blant barn og unge er det
-første kravet.13
-Det er bare omtrent én av ti foreldre i Medietilsynets Foreldre og medier-undersøkelse fra
-2022 som opplever at de ikke har tilstrekkelig
-informasjon til å veilede barnet om nettbruk, men
-undersøkelsen viser at flere foreldre opplever å
-gradvis miste opplevelsen av å ha nok informasjon
-til å veilede barna i nettbruk etter som barna blir
-eldre. I EU Kids Online-undersøkelsen fra 2018
-oppgir foreldrene at de har et stort behov for
-12
-13
+Digitalisering og ny teknologi gir fantastiske muligheter, også for barn og unge. De har konstant tilgang til enorme mengder informasjon og inspirasjon fra ulike kilder, musikk og underholdning fra hele verden, og kan kommunisere med hvem som helst, når og hvor som helst. Verden åpnes opp, på godt og vondt.
 
-Helsedirektoratet (2017b)
-Medietilsynet mfl. (2024)
+Utvalgets mandat har vært å vurdere det eksisterende kunnskapsgrunnlaget om hvordan barn og unges skjermbruk i barnehagen, skolen og fritiden, påvirker deres helse, livskvalitet, læring og oppvekst. Når vi dykker ned i forskningen som kan belyse dette, blir det tydelig at en skjerm ikke bare er en skjerm. I tillegg til tidsbruken og egenskaper ved det digitale grensesnittet i seg selv, er det viktig å se på hvordan skjermene brukes, hva de brukes til og hvem de brukes sammen med.
 
-219
+Vi vil minne om at selv om utvalgets mandat er bredt, er barn og unges oppvekst påvirket av mye som ikke dekkes av skjermbrukutvalgets mandat. Barn og unge er ulike individer med ulik sårbarhet som lever i ulike familier, går på ulike skoler og har ulike sosiale fellesskap. Dessuten går teknologiutviklingen fort, og forskningen henger etter. I spørsmålet om hvordan skjermbruk påvirker barnas helse, livskvalitet, læring og oppvekst, kan vi ikke gi et svar med to streker under. Årsaksforholdene er komplekse. I denne utredningen har vi derfor belyst positive og negative sider ved skjermbruk, og identifisert problemområder som det er grunn til å ta tak i. Mange av utfordringene vi ser, går på tvers av kapittelinndelingen i utredningen, og derfor har vi samlet vurderinger av tiltak i et eget kapittel.
 
-Kapittel 17
+Når utvalget har vurdert tiltak har vi sett etter løsninger som beholder de positive sidene ved skjermbruk, og begrenser de negative. Utvalgets mål er å bidra til at skjermbruken er trygg og helsefremmende, ved å være godt balansert opp mot andre behov og aktiviteter som er sentrale for en god oppvekst og et godt liv. Dette er også i tråd med tilbakemeldingene fra skjermbrukutvalgets ekspertgruppe av ungdom, som ønsker en skjermhverdag der alle barn og unge kan oppleve tilrettelegging, kunnskap, trygghet, frihet, samarbeid og kreativitet. De ønsker også at det skal være trygt å være på digitale plattformer. Ungdommene ber om råd og regulering og et større engasjement fra foreldre, men de ønsker ikke løsninger som kun stenger dem ute fra de digitale plattformene uten at de lærer noe om hvordan de kan bruke skjermer på en trygg og sunn måte.
 
-informasjon og råd om barns digitale hverdag. Av
-foreldrene oppgir 91 prosent at de gjerne vil få
-informasjon og råd fra barnets skole. Videre vil 86
-prosent gjerne få informasjon og råd fra nasjonale
-eller lokale myndigheter, noe som er hele 31
-prosentpoeng høyere enn andelen som opplever
-at de får dette. Det er 76 prosent av foreldrene
-som gjerne vil få informasjon og råd fra velferdsorganisasjoner for barn eller veldedige organisasjoner.
-Myndighetene gir råd om skjermbruk via
-ulike nettsteder og fra ulike etater, men rådene
-samsvarer ikke alltid med hverandre. Det er
-naturlig ettersom rådene kan ha ulikt faglig
-utgangspunkt, men det kan likevel være forvirrende for dem som skal bruke informasjonen.
-Utvalget mener at myndighetene bør være mer
-samstemte i sine vurderinger av, og råd om, barn
-og unges skjermbruk. Utvalget anbefaler Barneog familiedepartementet og Medietilsynet, som er
-koordinerende myndigheter for trygg digital oppvekst, å ta dette med seg inn i sitt arbeid. DigiUngsamarbeidet er også naturlig å benytte for å samle
-og samstemme råd og informasjon til barn og
-unge om skjermbruk.
-Det er viktig at kunnskapsgrunnlaget og
-rådene rettet mot befolkningen når ut til dem som
-trenger dem. Kunnskapen må gjøres lett tilgjengelig, den må være enkel å vurdere og forstå, og den
-må være nyttig og anvendelig. Utvalget har derfor
-vurdert på hvilke måter myndighetene kan nå
-bedre ut med informasjon og kunnskap om positive og negative sider ved skjermbruk. Blant
-annet er det vurdert om råd og informasjon om
-skjermbruk bør samles ett sted, hos ett myndighetsorgan. En slik samlet nettressurs, som samler
-all informasjon og veiledning om barn og unges
-skjermbruk ett sted, er også et av forslagene til
-skjermbrukutvalgets ekspertgruppe av ungdom.
-Utvalget er enig med ekspertgruppen i at informasjon bør være lett tilgjengelig og samstemt.
-Regjeringen har allerede besluttet at foreldrehverdag.no skal videreutvikles for å styrke foreldrenes digitale kompetanse, og at ung.no og
-unges digitale kompetanse skal styrkes gjennom
-DigiUng-samarbeidet. Disse nettsidene har tydelige målgrupper, noe som gjør budskapet lettere å
-tilpasse. Det er også mindre ressurskrevende og
-mer effektivt å bygge videre på disse prosjektene.
-Grupper som jobber med barn, blant annet
-helsesykepleiere, gir også tilbakemelding til
-utvalget om at det er behov for mer kunnskap og
-bedre veiledning. Helsesykepleierne har en svært
-viktig rolle i å nå ut med helseinformasjon om
-skjermbruk. Hele 98 prosent av alle barn i Norge
+Balansert, trygg og sunn skjermbruk gjelder også i barnehagen og i skolen. Disse institusjonene skal gjøre barna rustet og godt forberedt til å møte dagens og morgendagens samfunn. Skjermbrukutvalgets ekspertgruppe av ungdom ønsker en variert skolehverdag der digital teknologi brukes kreativt og til læring ved at de får skape innhold, spille og simulere.
 
-[Side 222]
+Mandatet ber utvalget foreslå tiltak eller gi råd om barn og unges skjermbruk i barnehagen, skolen og på fritiden der utvalget avdekker at særlige utfordringer er tilstrekkelig godt dokumentert. I de neste kapitlene legger utvalget fram råd om skjermbruk i ulike aldersgrupper, og til barn og unge selv. Et hovedbudskap er at det er viktig å finne den gode balansen. Vi vet samtidig at mange, både lærere, foreldre og barn og unge strever med å finne denne balansen alene, og det skal vi ta på alvor. Vi ønsker ikke å legge alt ansvaret på dem. I dette kapittelet vurderer vi derfor om noen av de kollektive utfordringene trenger kollektive løsninger. Utvalget har blant annet vurdert tiltak for å regulere plattformene som tilbyr dataspill og sosiale medier, og om statlige myndigheter bør ta et større ansvar for å blant annet sikre trygge enheter i skolen.
 
-220
+Barn og unge er forskjellige, men har de samme rettighetene. Når utvalget har vurdert tiltakene, har vi tatt utgangspunkt i barns rettigheter etter barnekonvensjonen[^1172] og generell kommentar nr. 25 om barns rettigheter relatert til det digitale miljøet fra FNs komite for barns rettigheter.[^1173] Tiltakene i dette kapittelet berører særlig retten til ytringsfrihet, deltakelse og innflytelse, tilgang til informasjon, rett til utdanning, rett til best mulig helseomsorg, og særlige rettigheter for barn og unge med funksjonsnedsettelser. I tillegg går mange av tiltakene inn på respekten for foreldrenes rett og plikt til å gi veiledning i samsvar med barnets utvikling etter konvensjonen.
 
-NOU 2024: 20
+For å sikre en mest mulig balansert, trygg og sunn skjermbruk må arbeidet være koordinert og sammenhengende. Tiltakene og rådene som utvalget legger frem, må sees i sammenheng og må også sees i lys av andre prosesser. Utvalget legger ikke frem en uttømmende liste over allerede gjennomførte eller igangsatte tiltak på området. De mest sentrale prosessene er omtalt i en rekke stortingsmeldinger og strategier som er lagt frem de siste årene. Disse er omtalt i kapittel 2 om utvalgets arbeid.
 
-Kapittel 17
+## Alderstilpassede og trygge sosiale medier og dataspill
 
-Det digitale (i) livet
+Kunnskapsgrunnlaget vi har, viser positive sider ved sosiale medier og dataspill for barn og unge, men også en del negative sider. En grunnleggende utfordring er at sosiale medieplattformer og andre tjenester på nett designes for å holde mest mulig på brukernes tid og oppmerksomhet. Noen av mekanismene plattformene bruker kalles derfor avhengighetsskapende, for eksempel autoavspilling og evig skrolling. Anbefalingsalgoritmer som fører ned i såkalte *kaninhull* kan føre til at barn og unge bli eksponert for stadig mer ekstremt innhold innenfor et tema. Mange unge føler også at de alltid må være tilgjengelige på sosiale medier, noe som kan gå utover søvn. For lite søvn kan igjen påvirke både psykisk og fysisk helse, og det kan påvirke læring.
 
-er i kontakt med helsestasjonen det første leveåret
-og regelmessig frem til skolestart.14 Videre når
-helsesykepleierne ut til mange barn og unge gjennom skolehelsetjenesten. Derfor når de også
-mange som ellers kan være vanskelige å nå.
-Helsestasjonene er også det første stedet hvor
-myndighetene har mulighet til å nå ut med forebyggende helseinformasjon. Helsedirektoratet
-har et ansvar for en nasjonal faglig retningslinje
-for helsestasjon, skolehelsetjeneste og helsestasjon for ungdom.15 Men skjermbruk er i liten
-grad omtalt. Vi vil påpeke at den kunnskapen som
-denne utredningen legger frem, kan være relevant for retningslinjene til helsestasjonene og kan
-benyttes som utgangspunkt dersom Helsedirektoratet skal utforme egne norske råd om skjermbruk til ulike aldersgrupper.
+Barn og unge har i mindre grad kognitive ferdigheter til å håndtere forstyrrelsene og de avhengighetsskapende mekanismene i digital teknologi på en god måte. En av de største utfordringene som trekkes frem av barn og unge som utvalget har snakket med, er hvordan teknologien påvirker konsentrasjonsevnen, og at det er vanskelig å legge fra seg skjermen.
 
-17.4.5 Utvalgets anbefalinger
+Kunnskapsgrunnlaget viser en sammenheng mellom bruk av sosiale medier og negativ kroppsoppfatning og symptomer på spiseforstyrrelse. Sosiale medier kan betegnes som et «høyrisikomiljø» som forsterker både muligheten for sammenligning, og inntrykket av at enkelte kroppsidealer er mer attraktive enn andre. Egenskapene ved sosiale medier kan bidra til at man bruker mer tid enn man ønsker, forsterke sosial sammenligning og opplevelser av stress, øke risikoen for å bli eksponert for skadelig innhold, og øke alvorlighetsgraden og omfanget av mobbing.
+
+Vi trenger flere og bedre studier for å vite mer om sammenhengene, men det er indikasjoner på at sosiale medier kan være en av flere mulige relevante faktorer for å forstå økningen i psykiske plager hos ungdom. Det er sannsynligvis stor individuell variasjon i hvilken grad ungdom blir påvirket av sosiale medier. Studier viser for eksempel at sammenhengen mellom tid brukt på sosiale medier og psykiske plager er sterkere for jenter i overgangen til tenårene. Det er også mulig at ungdom fra familier med lavere sosioøkonomisk status er mer utsatt for negative effekter av sosiale medier, men det trengs mer forskning for å forstå dette bedre.
+
+Sosiale medier har også positive sider. I dag bruker de aller fleste sosiale medier, og disse plattformene kan dermed være en måte å knytte og opprettholde nære relasjoner på som kan gi sosial støtte og støtte identitetsutvikling. Videre kan sosiale medier gi tilgang til informasjon og profesjonell hjelp.
+
+Dataspill er først og fremst en viktig kilde til underholdning, mestring og fellesskap. Men for noen kan dataspilling bli problematisk. Noen spill har egenskaper som gjør dem særlig avhengighetsskapende og kan medføre ukritisk tids- og pengebruk. Pengebruk og pengespill-lignende elementer i spillene kan bli et problem for unge brukere. Egne valutaer i spillene kan også gjøre det vanskelig å holde oversikt over pengebruken.
+
+Mobilspill er tilgjengelige hele døgnet og overalt, og de har ofte sterke innslag av «pay to win»-mekanismer og belønningssystemer som skal holde brukeren på mobilen. Kombinasjonen av individuell sårbarhet, manipulerende spillegenskaper og lite oppfølging fra foreldre eller andre voksne øker risikoen for at unge utvikler problematisk spilling og dataspillavhengighet.
+
+På de fleste store sosiale medier og dataspillplattformer finnes det foreldrekontroll som kan gjøre brukeropplevelsen for barn og unge tryggere, men det er bare om lag halvparten av foreldrene som benytter seg av disse mulighetene. Det krever kunnskap og tid å sette seg inn i slike løsninger og innstillinger. Det har ikke alle familier. Selv om foreldrene har hovedansvaret for sine barn, også for å beskytte dem på nett, må myndighetene bidra og støtte foreldrene. For at barn og unge skal ha en balansert, sunn og trygg skjermbruk, må sosiale medier og dataspill være tryggere og bedre alderstilpasset. Da er det avgjørende at disse plattformene reguleres og ansvarliggjøres. I denne delen går vi derfor gjennom tiltak for å regulere plattformene og bruken av dem i større grad.
+
+Digital Services Act (DSA)
+
+Digital Services Act (DSA) – forordningen om digitale tjenester – trådte i kraft i EU i november 2022. DSA vil gjelde for Norge når forordningen innlemmes i EØS-avtalen. DSA er del av en pakke fra EU som skal sikre et tryggere digitalt rom. Reguleringen tar sikte på å gi større demokratisk kontroll og tilsyn med plattformene, og redusere risiko for manipulasjon og ulovlig innhold.<sup>1</sup> Pliktene i DSA er differensiert etter type tjeneste og plattformenes størrelse. Noen av de mest relevante kravene etter DSA for skjermbrukutvalgets arbeid er:<sup>2</sup>
+
+- Alle tjenester som er rettet mot barn eller primært brukes av barn, skal ha avtalevilkår som er lette å forstå for mindreårige.
+
+- Plattformer som barn har tilgang til skal innføre tiltak for å sikre barns personvern, trygghet og sikkerhet når de bruker tjenesten, for eksempel ved at det høyeste nivået av personvern, trygghet og sikkerhet settes som standard for mindreårige brukere.
+
+- Plattformer skal ikke vise annonser som er basert på profilering, jf. artikkel 4.4 GDPR, når de er rimelig klar over at brukeren er mindreårig. Dette skal ikke forplikte tilbydere til å behandle mer personopplysninger for å vurdere brukerens alder.
+
+- De aller største plattformene og søkemotorene, med mer enn 45 millioner månedlige brukere, må hvert år identifisere potensielle risikoer ved tjenesten deres og vise at de reduserer risikoen på en effektiv og proporsjonal måte. Hvis ikke kan de risikere bøter opp mot 6 prosent av deres årlige omsetning.
+
+- Forbud mot manipulerende design. Det betyr at tilbyderne ikke har lov til å manipulere brukerne til å gjøre valg i strid med egne interesser.
+
+- De største plattformene må dele data med myndigheter og forskere.
+
+- Alle plattformer skal ha systemer for at brukerne kan varsle om innhold som er ulovlig eller bryter med avtalevilkårene.
+
+- Nasjonale myndigheter kan pålegge plattformene å fjerne ulovlig innhold.
+
+- Brukerne har rett til å klage hvis plattformen fjerner innhold eller en konto, og få klagen behandlet av en uavhengig klageinstans.
+
+<sup>1</sup> Regjeringen.no (2022)
+
+<sup>2</sup> EUR-Lex (2022), forenklet oppsummering av DSA gjort av skjermbrukutvalget
+
+\[Boks slutt\]
+
+### Aldersgrenser bør settes ut fra hensynet til barn og unge
+
+I dag setter tjenestene aldersgrenser i egne brukervilkår, hovedsakelig ut fra personvernhensyn fordi de ikke kan samle inn personopplysninger om personer under 13 år, jf. personopplysningslovens regler om samtykke. Tjenestene har for øvrig ingen forpliktelse til å alderstilpasse innholdet. Selskapene gjør ikke nok for å stenge ute brukere som er under 13 år, og ofte er det bare å oppgi en annen alder, så kan de sosiale mediene fritt brukes.
+
+Mange har vært bekymret for hva tidlig tilgang til sosiale medier kan gjøre med barnas psykiske helse, og om de store sosiale medieplattformene bruker avhengighetsskapende design for at barna skal bruke mest mulig tid, noe som går ut over andre viktige ting i livet. Dette har ført til en offentlig debatt om at sosiale medier bør ha en myndighetsbestemt aldersgrense. Regjeringen har nylig besluttet å sende et forslag på høring om å øke aldersgrensen fra 13 til 15 år for når barn kan samtykke til at «informasjonssamfunnstjenester», som inkluderer sosiale medier, kan samle inn personopplysninger om dem.[^1174] Regjeringen tar også sikte på å lovregulere en absolutt aldersgrense for sosiale medier og jobber videre med hvordan dette kan gjøres.
+
+Utvalget har forståelse for at regjeringen ønsker å gjøre noe med aldersgrensene. Kunnskapsgrunnlaget viser indikasjoner på at sosiale medier kan være en av flere mulige relevante faktorer for å forstå økningen i psykiske plager hos ungdom. Mange barn og unge er ikke modne nok til å håndtere alt innholdet som er tilgjengelig via sosiale medier, og er sårbare for en del av egenskapene ved dem som gjør at man bruker mye tid. FNs komite for barns rettigheter oppfordrer partene i barnekonvensjonen til å beskytte barn mot skadelig og upålitelig innhold på nett. En aldersgrense som håndheves ved verifisering, vil gi høy grad av beskyttelse. Med en lik aldersgrense som alle må følge unngår man at foreldre vurderer dette forskjellig, og at noen unge faller utenfor det digitale sosiale rommet.
+
+Halvparten av alle norske niåringer bruker sosiale medier, ifølge Medietilsynets undersøkelser. Det innebærer at en stor andel av norske barn har tilgang til innhold som er ment for eldre brukere. I tillegg til innhold og funksjonalitet som ikke er alderstilpasset, kan barna utsettes for annen risiko blant annet ved å bli utsatt for manipulerende eller avhengighetsskapende design eller at de kan komme i kontakt med fremmede som ikke vil dem vel. Derfor er det etter utvalgets syn behov for å sette reelle aldersgrenser i sosiale medier, som er satt ut fra hensynet til barn og unge.
+
+Behovet for aldersgrenser er ett spørsmål, men et annet er hvem som bør sette disse aldersgrensene og hvordan det skal gjøres. Utvalget ser flere problematiske sider med en *myndighetsbestemt* aldersgrense for *alle* (eller mange) sosiale medier. Barn og unge har ikke bare rett til beskyttelse, de har også informasjons- og ytringsfrihet.[^1175] Jo høyere en lik aldersgrense for alle sosiale medier settes, desto større risiko er det for at den går ut over muligheten til å delta digitalt for en gruppe som allerede har mindre demokratisk tilgang enn andre ved at de ikke har stemmerett. Mange unge engasjerer seg derfor i foreninger og frivillige organisasjoner for å bruke sin stemme. I hvor stor grad det vil begrense ytrings- og organisasjonsfrihet i praksis vil komme an på hvor høyt aldersgrensen settes og hvor mange medier eller plattformer aldersgrensen treffer. Det kan være særlig problematisk å begrense tilgangen for barn med funksjonsnedsettelser i lys av retten til et fullverdig liv under forhold som sikrer barnets aktive deltagelse i samfunnet.[^1176] Sosiale medier brukes til alt fra kjøp og salg av brukte klær og utstyr, til å holde seg orientert om det som skjer i nærmiljøet, og til å diskutere hobbyer og interesser med likesinnede. Personvernkommisjonen beskriver det slik: «For de fleste forbrukere i Norge er det så godt som umulig å ikke ha noen form for tilstedeværelse i sosiale medier uten at man melder seg ut av samfunnet.»[^1177]
+
+Utvalget vil understreke at de ulike sosiale mediene fungerer forskjellig, har ulikt innhold og har ulike egenskaper. I dag inkluderer også de aller fleste medier sosiale elementer, uten at de nødvendigvis er det vi tenker på som *sosiale medier*. Dersom aldersgrensen skal være lik for alle, vil det bli krevende å definere hvilke tjenester som skal falle inn under definisjonen *sosialt medium*. Utvalget mener at hvis en aldersgrense skal fungere etter hensikten, må den tilpasses den enkelte tjenesten. Det er vanskelig å tenke seg at myndighetene skal bruke ressurser på å sette differensierte aldersgrenser for alle sosiale medier som barn og unge bruker. Nye apper og tjenester blir tilgjengelig hver dag.
+
+Utvalget mener at EU-forordningen om digitale tjenester (DSA) har en klok tilnærming ved å legge ansvaret over på de veldig store online plattformene, såkalte «VLOPs». De må både vurdere risikoen i egne tjenester og iverksette skadereduserende tiltak. Myndighetene fører tilsyn og har hjemmel til å sanksjonere dersom selskapene ikke tar ansvaret. Dette ligner også på reguleringen av annet medieinnhold i Norge i dag. Etter at bildeprogramloven ble endret i 2023 er det nå filmdistributørene selv som setter aldersgrenser for kinofilmer.[^1178] Dataspillbransjen har lenge satt aldersgrenser for sine spill, i samarbeid med europeiske mediemyndigheter gjennom PEGI-systemet.[^1179] Systemene for aldersgrenser i dataspill og kinofilm pålegger bransjen selv å sette aldersgrenser, og grensene settes for hver enkelt film og hvert enkelt spill. Det er også verdt å påpeke at disse systemene ikke innebærer absolutte grenser, men at de åpner for foreldrenes skjønn. For eksempel kan en 13-åring slippe inn på en kinofilm som har 15-årsgrense, i følge med en voksen.
+
+Utvalget mener at det ikke bør settes en *myndighetsbestemt* aldersgrense for alle sosiale medier. Utvalget vil oppfordre regjeringen til å ha en mer balansert og nyansert tilnærming. Aldersgrenser må ta hensyn til medienes forskjellige egenskaper, funksjonalitet og innhold. Alle plattformer bør derfor selv sette aldersgrenser for sine tjenester, ut fra en vurdering av innhold og egenskaper ved tjenesten, og ikke bare ut fra kravene etter personvernforordningen (GDPR) som i dag. Myndighetene må føre effektivt tilsyn, med mulighet for sanksjoner, med at aldersgrensene er satt på riktig nivå og at plattformene tilbyr alderstilpassede tjenester. I tillegg kan det vurderes om myndighetene skal utarbeide retningslinjer som plattformene kan basere aldersgrensene sine på. Det bør vurderes om dette systemet kan gjennomføres innenfor rammene av DSA, som pålegger veldig store plattformer en årlig vurdering av potensielle risikoer ved tjenesten deres, og at de reduserer risikoen på en effektiv og proporsjonal måte.
+
+Et tredje spørsmål er hvordan aldersgrensen skal verifiseres. Skjermbrukutvalgets ekspertgruppe av ungdom støtter ikke en strengt verifisert aldersgrense. De mener at man ikke bør sperre alle ute, men at man i stedet må gjøre noe med det som er skadelig, og gi barn og unge opplæring i trygg bruk. Det er også ofte slik at ungdom finner en vei rundt aldersgrenser og en nasjonal aldersgrense vil trolig enkelt kunne omgås. Det er ikke et argument mot aldersgrenser i seg selv, men det vil gjøre tiltaket mindre effektivt. En aldersgrense kan også ha noen utilsiktede negative konsekvenser. Ekspertgruppen av ungdom peker på at hvis barn og unge opplever noe ubehagelig på sosiale medier de egentlig ikke skulle vært på, kan det heve terskelen for å oppsøke trygge voksenpersoner for å få hjelp.
+
+Verifisering med elektronisk ID for å delta i sosiale medier har i seg selv noen prinsipielt betenkelige sider. Det kan blant annet gjøre det vanskeligere å være anonym, noe som kan heve terskelen for å delta i offentlig debatt eller for å ta kontakt med digitale hjelpetjenester. Imidlertid er en løsning for å verifisere alder også den eneste måten å sikre reell alderstilpasning på, og det kan finnes tekniske måter å løse de uheldige sidene på. Utvalget besitter ikke juridisk og teknisk kompetanse til å vurdere konsekvensene ved ulike verifiseringsløsninger. Utvalget støtter regjeringens arbeid med å utrede hvordan man kan sikre reell aldersverifisering på plattformene. I arbeidet med å utrede løsninger for verifisering er det sentralt å sikre at barn og unges rettigheter ivaretas. Retten til personvern, deltakelse, og beskyttelse må sikres.
+
+### Sosiale medier og dataspill må reguleres
+
+Et mål for utvalget er som nevnt at barn og unge skal ha tilgang til alderstilpassede og trygge plattformer på nett. For å oppnå det bør myndighetene tilstrebe å beholde de positive sidene ved sosiale medier og dataspill, og begrense de negative. Selv om noe kan løses med aldersgrenser som er satt ut fra hensynet til barn og unge, vil ikke det løse alt. Uavhengig av aldergrenser er det også behov for målrettede tiltak rettet mot de problematiske egenskapene i sosiale medier og dataspill.
+
+Som tidligere omtalt vil EU-forordningen for digitale tjenester (DSA) bli sentral for å beskytte barn og unge på plattformene, se boks 17.1. Foreløpig er ikke DSA implementert i norsk rett, selv om forordningen trådte i kraft i EU i november 2022. Utvalget vil oppfordre myndighetene til å høyt prioritere arbeidet med å gjennomføre DSA i norsk rett, og at beskyttelse av barn og unge mot skadelig innhold og skadelig design prioriteres høyt i oppfølgingen av DSA. Det må også legges til rette for effektiv håndheving.
+
+Utvalget har pekt på at det finnes egenskaper og designvalg i sosiale medier som kan gjøre at barn og unge bruker mer tid enn de ønsker på plattformene. Trolig vil ikke designvalg som gir en uendelig strøm av innhold, inkludert evig skrolling og autoavspilling, dekkes av det DSA omtaler som «dark patterns», men vurdering av slike mekanismer er trolig relevant i risikovurderingen som tjenestene pålegges. Utvalget mener at det er behov for å regulere slike mekanismer for «avhengighetsskapende design» tydeligere, og særlig i plattformer som brukes av barn og unge. Barn og unge har i mindre grad utviklet kognitive ferdigheter til å håndtere forstyrrelsene og de avhengighetsskapende mekanismene i digital teknologi på en god måte. Norske myndigheter bør bidra i det internasjonale arbeidet på dette området.
+
+Utvalget har pekt på at anbefalingsalgoritmer kan ta barn og unge ned i såkalte *kaninhull* der innhold blir mer og mer ekstremt, og at det kan bidra til at sosiale medier blir et høyrisikomiljø for noen barn og unge. Barn og unge er ikke bare mottakere av innhold. Noen ganger er de også skapere av innhold som kan være skadelig for andre. Det kan være enkelt å mene at ungdom som skader seg selv, ikke bør se selvskadingsinnhold. Samtidig kan innhold som tar opp temaet selvskading også være helseinformasjon og råd om hjelpetilbud, som bør være tilgjengelig. Sosiale medier kan også bidra til at ungdom kommer i kontakt med andre som sliter med det samme som dem. Det kan forsterke problemer, men det kan også være til hjelp og støtte. Hvordan innhold skal reguleres og modereres på plattformene, er et juridisk komplekst tema som må vurderes opp mot ytringsfriheten, og som utvalget ikke har kompetanse til å vurdere fullt ut. Men utvalget vil peke på at kravene i DSA om at de store plattformene og søkemotorene skal vurdere risikoen i sine systemer og iverksette tiltak, også vil dekke denne tematikken.
+
+Ifølge regjeringens dataspillstrategi *Tid for spill* skal regjeringen arbeide for streng regulering av lootbokser i forbrukerregelverket og i lys av EUs arbeid på området. Regjeringen vil også styrke kunnskap og veiledning om lootbokser og mikrotransaksjoner i dataspill, og inkludere forbrukerproblemer med lootbokser og andre problematiske aspekter ved markedsføring og kjøp i dataspill. Utvalget støtter dette arbeidet, og mener at norske myndigheter bør være en pådriver for internasjonal og effektiv regulering av pengespill-lignende elementer i dataspill.
+
+Sosiale medier og dataspillplattformer gir muligheter for foreldrekontroll som kan gjøre brukeropplevelsen for barn og unge tryggere, men det er ikke alle foreldre som benytter seg av disse mulighetene. Det krever kunnskap og tid å sette seg inn i slike løsninger og innstillinger, noe ikke alle foreldre har. Utvalget mener derfor at det er et viktig krav i DSA at plattformer som barn har tilgang til, bør innføre tiltak for å ivareta barns personvern, trygghet og sikkerhet når de bruker tjenesten. Et eksempel er at det høyeste nivået av personvern, trygghet og sikkerhet settes som standard for brukere under 18 år. Utvalget mener også at plattformene i større grad må gjøre mulighetene for foreldrekontroll lett tilgjengelige og enkle å bruke og forstå.
+
+### Utvalgets anbefalinger
+
+- Utvalget vil oppfordre myndighetene til å høyt prioritere arbeidet med å gjennomføre EU-forordningen om digitale tjenester (DSA) i norsk rett, og at beskyttelse av barn og unge mot skadelig innhold og skadelig design, og effektiv håndheving, prioriteres høyt i oppfølgingen av lovverket.
+
+- Norske myndigheter bør være en pådriver for internasjonal og effektiv regulering av avhengighetsskapende egenskaper ved sosiale medier og pengespill-lignende elementer i dataspill.
+
+- Utvalget støtter ikke en myndighetsbestemt aldersgrense for alle sosiale medier. Plattformene bør sette aldersgrenser for sine tjenester, ut fra en vurdering av innholdet og funksjoner i tjenesten. Myndighetene bør føre effektivt tilsyn, med mulighet for sanksjoner, med at tjenestene overholder aldersgrensene og tilbyr alderstilpassede tjenester.
+
+- Plattformene bør sette grunninnstillinger på det høyeste trygghetsnivået, og innstillinger for foreldrekontroll bør være lett tilgjengelige og enkle å forstå.
+
+- Utvalget støtter regjeringens arbeid med å utrede hvordan man kan sikre trygg og reell aldersverifisering på plattformene. I dette arbeidet er det sentralt å sikre at barn og unges rettigheter ivaretas. Rettighetene til personvern, deltagelse, og beskyttelse må balanseres.
+
+- Plattformene må ha større åpenhet og dele data med myndigheter og forskere. Det er viktig for å få mer kunnskap om hvordan egenskaper i plattformene faktisk fungerer, og hvilke konsekvenser det har for brukerne. Dette er særlig viktig for tjenester som også brukes av barn og unge.
+
+## Balanse og trygge digitale miljøer i barnehage og skole
+
+Barnehagebarn og elever har rett på en trygg digital hverdag. I utvalgets arbeid har det blitt tydelig at det er store forskjeller mellom kommunene, både i hvordan og hvor mye digitale løsninger brukes, og i lærernes profesjonsfaglige digitale kompetanse. Ulike barnehage- og skoleeiere har også ulik kompetanse og ressurser, noe som viser seg i ulik digital infrastruktur for å håndtere personvern, sikkerhet og innholdsbegrensninger. Det er krevende for den enkelte kommune å sette seg inn i lisensavtaler for digitale ressurser og vurdere om de oppfyller kravene til universell utforming, personvern og sikkerhet. Alle barn har rett til å delta på lik linje i utdanning. Det er allerede krav til universell utforming i læremidler i skolen, men en rapport fra Tilsynet for universell utforming av IKT viser at de ikke etterleves, og at skolene mangler systemer og kompetanse til å ta i bruk teknologi på en inkluderende måte.
+
+Flere av organisasjonene i referansegruppen til utvalget peker på at kommuner og fylkeskommuner har ulikt handlingsrom, både i økonomi og kompetanse, til å jobbe med den digitale infrastrukturen. Norsk Lektorlag ser blant annet at det har ført til for stor variasjon i kvaliteten i digital infrastruktur på ulike skoler. Også Utdanningsforbundet, Barneombudet og Unge funksjonshemmede ser utfordringer med dagens praksis, for eksempel at mange i skolesektoren mangler kompetanse om personvern, informasjonssikkerhet og universell utforming. Utvalgets ekspertgruppe av ungdom ser det som en hovedutfordring at det er store forskjeller mellom digital infrastruktur på skolene, noe som kan føre til ulikhet i undervisning og kompetanse – både faglig og digital.
+
+### Balansert og begrenset skjermbruk i barnehagen
+
+Utvalget erfarer at diskusjonen om skjermbruk i barnehagen ofte handler om bruk av nettbrett, datamaskin eller andre former for passiv skjermbruk. Utvalget ønsker å understreke at bruken av teknologi i barnehagen ofte er noe annet eller noe mer enn det vi ofte tenker på som skjermbruk. Det kan for eksempel være bruk av roboter som skal komme seg gjennom en fysisk løype, perleoppskrifter på et nettbrett, eller en prosjektor som viser en eventyrverden samtidig som det leses høyt fra en bok. Denne nyanseringen mener utvalget er viktig å ha med når man diskuterer skjermbruk i barnehagen.
+
+Uavhengig av hvilket digitalt verktøy som brukes, mener utvalget at digital teknologi i barnehagen alltid skal brukes sammen med ansatte og ha en pedagogisk intensjon. Dette er i tråd med føringene i rammeplanen. Barnehager rapporterer at bruken er begrenset, og at når digital teknologi først brukes er det som oftest som del av en aktivitet og sjelden som avlastning for personale. Det er likevel en økning av bruk av skjerm som avlastning. Utvalget understreker at slik bruk ikke skal forekomme. Barnehageeier er ansvarlig for at det er nok ansatte til å gi barna et godt pedagogisk tilbud. Utvalget mener det er viktig å ha en god dialog med foreldrene om hvordan digital teknologi brukes i barnehagen.
+
+Forskning finner ingen fordeler med skjermbruk for de aller yngste barnas utvikling. Bruk av digitale skjermer kan også øke risikoen for nærsynthet blant yngre barn. Skjermbruk i aldersgruppen null til to år bør derfor være svært begrenset. Når barn mellom to og fem år skal bruke en skjerm, bør skjermbruken være alderstilpasset og sammen med voksne. Disse anbefalingene, og utvalgets anbefaling om å unngå skjermer under måltider, er også relevante for barnehagen.
+
+### Trygg og inkluderende digital infrastruktur i skolen
+
+I likhet med flere av organisasjonene i referansegruppen mener utvalget at det ikke er hensiktsmessig ressursbruk at den enkelte kommunen må utvikle egne digitale løsninger, slik tilfellet er i dag. Det gir for store forskjeller i tilbudet til elevene. Barn og unge har rett til å delta på like vilkår. I tillegg har de rett til beskyttelse av personvern og beskyttelse mot skadelig innhold. Utvalget mener derfor at staten bør ta ansvar for flere aspekter av den digitale infrastrukturen, blant annet å oppfylle kravene til at de digitale løsningene er universelt utformet, og at personvernet til elevene ivaretas på skolens enheter og verktøyene som brukes. Det innebærer også at staten bør bistå kommunene med å utvikle filtre som blant annet sikrer en reklamefri skole, unngår forstyrrelser og sperrer tilgang til skadelig innhold. Foreldrekontroll på digitale enheter som sendes hjem med elever på barneskolen, er også en viktig funksjon. Bruk av kunstig intelligens stiller nye krav til løsninger i skolen, og disse må også tas tak i sentralt.
+
+Fordelene med at staten tar et større ansvar for digital infrastruktur og universell utforming er at tilbudet til elevene blir mindre avhengig av økonomi og kompetanse i hver kommune. Det kan også frigjøre midler til å kjøpe andre læremidler og ressurser. Slik kan skolene, lærerne, elevene og foreldrene også være sikrere på at de digitale enhetene og verktøyene elevene bruker, er trygge, inkluderende og kvalitetssikret.
+
+Det at staten skal ta en større rolle, må imidlertid ikke gå på bekostning av den lokale handlefriheten. Skoleeier er ansvarlig for elevene og ansatte på sine skoler og må ha nødvendig kompetanse på digitalisering for å ivareta dette ansvaret. Innholdsbegrensninger og foreldrekontroll må heller ikke bli en hvilepute. Denne typen løsninger vil aldri være hundre prosent effektive og det vil alltid være mulig å komme rundt digitale sperrer. I tillegg har mange elever egne enheter hjemme som de bruker på fritiden. Derfor er det viktig å jobbe med digital dømmekraft gjennom hele opplæringsløpet.
+
+I 2023 kom Kunnskapsdepartementet med *Strategi for digital kompetanse og infrastruktur i barnehage og skole,* som skal vare til 2030. Med denne strategien ønsker regjeringen å gi kommunene og fylkeskommunene tydeligere støtte i møte med nye teknologier, digitale verktøy i opplæringen og det økende presset på barn og unges personvern. Strategien er skrevet sammen med kommunesektorens organisasjon (KS). KS, Skolelederforbundet, Utdanningsforbundet og Foreldreutvalget i grunnopplæringen har deltatt i utvalgets referansegruppe, og mener at utvalgets arbeid bør sees i sammenheng med strategien. Utvalget mener at digitaliseringsstrategien inneholder gode tiltak som treffer de største utfordringene i det digitale skolemiljøet i dag. Derfor er det viktig at strategien følges opp så raskt som mulig, og at det settes av nok ressurser til å følge opp punktene.
+
+I arbeidet til utvalget har det også kommet inn forslag om at staten bør regulere hvilke digitale enheter som skal brukes i skolen, på hvilket trinn ulike typer enheter bør innføres, hva slags teknisk utstyr elevene bør ha tilgang til, og om enhetene kan sendes med hjem. En fordel med å regulere dette sentralt er at skillene mellom elever i ulike kommuner blir mindre. Ekspertgruppen av ungdom ønsker at det skal være likt for alle elever i Norge, og mener at barn i småskoletrinnene ikke trenger sin egen enhet som blir med hjem. På den andre siden vil dette være i strid med sentrale prinsipper som lærerens metodefrihet og kommunens selvråderett. En slik liste over utstyr skolene skal tilby (eller ikke tilby) blir fort utdatert når nye løsninger og enheter kommer på markedet. Det kan også være konkurransevridende. Et viktig poeng for utvalget er at begrensninger i hvilket utstyr som kan tas med hjem, kan føre til større sosial ulikhet mellom dem som kommer fra familier som har råd til eget digitalt utstyr, og dem som ikke gjør det. Innspillet fra Redd Barna peker på at begrensninger i tilgang til nett og IKT-utstyr er barrierer for å kunne delta i det digitale samfunnet. Flere av skole- og lærerorganisasjonene, slik som KS og Utdanningsforbundet, er imot disse forslagene med begrunnelse i lokal handlefrihet og lærerens metodefrihet. Utvalget støtter lærernes metodefrihet og mener at skolene og kommunene må kunne ta de valgene som passer best i deres tilfelle. Utvalget vil derfor ikke forslå sentrale regler for digitale enheter i skolene.
+
+Et mindre inngripende tiltak er at staten støtter skoleeiere med veiledning om infrastruktur. Tilgang til gode støttetjenester vil gjøre det lettere for skoleeierne, skolelederne og den enkelte læreren å gjøre gode valg for seg og sine elever. Alle organisasjonene i referansegruppen er positive til at staten tar mer ansvar for veiledning. Foreldreutvalget i barnehagen minner om at det også må gjelde for barnehagen. Det at staten skal ta en større veiledningsrolle, er allerede besluttet i regjeringens strategi for digital kompetanse og infrastruktur i barnehagen og skolen. Utdanningsdirektoratet har fått et oppdrag der de skal se på hvordan man best kan etablere en eller flere felles støttetjenester for ivaretagelse av personvern, informasjonssikkerhet og universell utforming i digitale læremidler og læringsressurser. Dette mener utvalget er et viktig oppdrag som bør prioriteres høyt fremover.
+
+Måltider kan være en viktig sosial arena i barnehager og skole. Noen skoler og skolefritidsordninger viser film eller nyheter for barn på storskjerm under matpauser. Flere av organisasjonene i referansegruppen til utvalget uttrykker bekymring for skjermbruk under måltider i skolen. Skjermbruk under måltider er ikke i tråd med veileder for helse og miljø i barnehager, skolen og skolefritidsordninger. Utvalget mener skoler bør begrense denne praksisen slik at måltidene blir en sosial arena for barna.
+
+### En skole med balanse i læremidler, hvor lærerens metodefrihet står sterkt
+
+Skolen har et stort og omfattende oppdrag med å danne og utdanne elevene slik at de skal mestre livet sitt og delta i samfunnet. Elevenes alder og modenhet er avgjørende i valg om når og hvordan digital teknologi skal inngå i opplæringen.
+
+Elevene skal oppleve en variert skolehverdag, og digital teknologi er en viktig del. Digital teknologi kan støtte læring og motivasjon, gjøre det mulig å tilpasse undervisningen til hver elevs faglige nivå, og inkludere flere elever i undervisningen. Men digital teknologi har også noen egenskaper som kan virke negativt på elevens læring og motivasjon. Mye informasjon i form av lyder, bilder, videoer og tekst kan distrahere elevene, spesielt de yngste. Det er også kognitivt utfordrende å holde fokus når man må skifte mellom ulike faner, og skrolling kan gjøre det vanskelig å orientere seg og få oversikt. Det er flere forstyrrelser på digitale enheter som kan hindre elevens konsentrasjon, og det stiller store krav til elevens selvregulering. Barn og unge har også i mindre grad kognitive ferdigheter til å håndtere forstyrrelsene og de avhengighetsskapende mekanismene i digital teknologi på en god måte. Mangel på universell utforming av digitale ressurser kan også stå i veien for likeverdig deltagelse for elever med funksjonsnedsettelser. To av de største utfordringene som trekkes frem av ungdommene som utvalget har snakket med, er hvordan teknologien påvirker konsentrasjonsevnen, og at det er vanskelig å legge fra seg skjermen. Utvalget mener at bruken av teknologi må ta hensyn til at barn og unge ikke er ferdig utviklet kognitivt. Dette gjelder også i skoler og barnehager.
+
+Kunnskapsgrunnlaget tyder på at for mye bruk av digitale skjermer kan øke risikoen for nærsynthet blant yngre barn. Langvarig og ensidig bruk av digitale skjermer kan også gi hodepine og muskel- og skjelettplager. Dette er også et moment som barn og unge utvalget har snakket med fremhever. Flere sier at de har vondt i hodet i løpet av en skoledag og at de opplever at skolen legger for lite vekt på fysisk helse i forbindelse med skjermbruk. Det er gjerne ikke lagt til rette for god ergonomi, og de har ofte for lave pulter og ikke tilgang på stor skjerm, tastatur eller mus. Derfor mener utvalget at man i større grad bør vektlegge de ergonomiske forholdene ved bruk av digitalt utstyr både hjemme og i skolen.
+
+Skolen har som resten av samfunnet vært gjennom store endringer som følge av digitalisering de siste 10–20 årene. Utvalget ønsker å bidra til en mer opplyst og mindre polarisert diskusjon om skjermbruk i skolen. Utvalget vil understreke at skjermbruk som del av skolens pedagogiske arbeid er noe annet enn elevenes fritidsbruk. Dette er også noe Utdanningsforbundet, KS og Skolelederforbundet i referansegruppen påpeker i sine innspill til utvalget. Det at barn og unge bruker skjerm mer på fritiden, er etter utvalgets vurdering ikke et argument *i seg selv* for å redusere skolebruken. Deler av digitaliseringen av skolen har nok vært preget av både teknologioptimisme og av prøving og feiling, og ikke alle beslutninger har vært like veloverveide eller forankret i forskning. Utvalget mener samfunnsdebatten den siste tiden om skjermbruk i skolen har vært både nødvendig og sunn. At lærere og elever nå har blitt mer vant til og tryggere i å bruke de digitale teknologiene er et godt utgangspunkt for en mer målrettet, pedagogisk, didaktisk og kritisk bruk som gir bedre balanse.
+
+Flere av skole- og lærerorganisasjonene i utvalgets referansegruppe er skeptiske til tiltak som regulerer hvilken type læremidler skolene skal ha. Staten legger vanligvis ikke føringer for valg av læremidler på andre områder. Utvalgets ekspertgruppe av ungdom er bekymret for at strengere krav i læreplanverket i bruken av ulike læremiddel vil gjøre undervisningen mindre gjennomtenkt og mindre variert, og dermed kunne gå utover motivasjon hos elevene.
+
+Utvalget har stor tillit til læreres og skolelederes vurderinger med tanke på å balansere bruk av digital teknologi i skolen. Prinsippet om lærerens metodefrihet skal og bør stå sterkt i norsk skole. Det er læreren som kjenner sine elever best, og som er best kvalifisert til å bestemme hvordan undervisningen skal legges opp i sine fag. Derfor er det viktig å støtte lærerne, og gjøre dem i stand til å ta gode profesjonsfaglige valg i sine digitale klasserom. For å ha metodefrihet må lærerne også ha reell frihet til å velge læremidler. I mange skoler er ikke det tilfellet i dag. Lærerens mulighet til å kunne velge det læremidlet som passer den pedagogiske konteksten best, enten det er analogt eller digitalt, er viktig for elevens læringsutbytte. Derfor mener utvalget at staten og skoleeier bør sikre ressurser for både analoge og digitale læremidler av høy kvalitet som kan styrke læring, kreativitet og motivasjon.
+
+Tiltak for å styrke lesing i skolen
+
+I mandatet er det spesifisert at utvalget skal se spesielt på om, og eventuelt hvordan, skjermbruk påvirker leseferdigheter og evnen til dybdelesing. Bakgrunnen er at leseferdighetene går drastisk ned hos norske elever i både nasjonale og internasjonale undersøkelser, og at norske elever rapporterer om lav leseglede og mindre lesing på fritiden. Videre analyser av resultatene fra undersøkelsene PISA og PIRLS viser at økt skjermbruk i skolen kan forklare en del av nedgangen i leseferdigheter, på samme måte som virkninger av pandemien også er en del av forklaringen. Utvalget mener at forskningsfunnene om lesing er tilstrekkelig tydelige på at lesing av lengre sammenhengende tekster er viktig for å utvikle gode leseferdigheter, men også for å utvikle kognitive ferdigheter som kritisk tenkning, og å stå i oppgaver som krever konsentrasjon og oppmerksomhet over tid. Utvalget kan derfor anbefale at mer av lesingen i skolen bør foregå med trykte bøker. Anbefalingen må balanseres opp mot hensynet til elever som trenger spesiell tilrettelegging, for eksempel barn og unge med dysleksi.
+
+Utvalget har fått forslag om å innføre langlesing i trykte bøker som nytt fag. Å ha langlesing som et eget fag vil kunne sikre at lesing av lengre tekster på papir prioriteres i skolen. Andre muligheter er å endre læreplanene i fag ved å innføre krav om langlesing og lesing på papir, eller å utforme egne kompetansemål knyttet til langlesing i trykte bøker i fag der lesing av tekst er en hovedkomponent. En annen løsning kunne vært et krav om bruk av trykte lærebøker i alle fag der lesing av tekst utgjør en hovedkomponent.
+
+Alle disse løsningene vil kreve endringer i læreplanverket. Langlesing som nytt fag vil også kreve endringer i fag- og timefordeling. Det er ikke nødvendigvis skolens eller barnehagens ansvar å kompensere for at barn og unge leser mindre på fritiden. Unge funksjonshemmede minner om at rett balanse mellom skjerm og papir ikke er det samme for alle elever. De mener at det viktigste er at elevene får den tilretteleggingen de trenger for å få leseglede og lesetrening.
+
+Skolebibliotekene spiller en viktig rolle i å bidra til skolens arbeid med å styrke elevenes leseferdigheter, evne til å lese lengre tekster, og med å stimulere til leselyst. Å gi alle barn og unge lik tilgang til gode leseopplevelser kan også være viktig med tanke på sosial utjevning. Regjeringens leselyststrategi *Sammen om lesing*, ble lagt frem i mai i år. Strategien legger blant annet kunnskapsgrunnlaget om lesing i skjermbrukutvalgets temanotat fra desember 2023 til grunn for sine tiltak. Tiltakene i strategien handler om leseopplæring, tilgang til variert litteratur og formidling av variert litteratur. Regjeringen skal gjennom strategien etablere en nasjonal satsing for å styrke kvaliteten på leseopplæringen i skolen og for å bidra til god litteraturformidling i SFO og barnehagen. Strategien prioriterer å satse på skolebibliotekene og gi barnehagebarn bedre tilgang på bøker. Strategien bygger videre på, og vil styrke arbeidet med, fagfornyelsen, slik at det fulle potensialet i de nye læreplanene kan utløses.
+
+Tiltakene i leselyststrategien adresserer de fleste av utvalgets diskuterte tiltak om lesing, og utvalget støtter tiltakene i strategien. For eksempel skal regjeringen gi tilskudd til kommunene til innkjøp av trykte bøker for å skape en bedre balanse mellom skjerm og bok i skolen. Utvalget vil minne om at hvis målet er god balanse er det ikke bare trykte læremidler som må sikres, skolene må også ha gode digitale læremidler. Elevene trenger også trening i å utvikle gode lesestrategier på tvers av medier, teksttyper og formål med lesingen.
+
+### Utvalgets anbefalinger
+
 Anbefalinger til myndighetene
-–
 
-–
-–
-–
+- Utvalget støtter tiltakene i regjeringens *Strategi for digital kompetanse og infrastruktur i barnehage og skole*. Strategien bør følges opp så raskt som mulig og det bør gis nok ressurser til å følge opp tiltakspunktene.
 
-–
+- Staten bør vurdere om dagens nivå på det totale tilskuddet til læremidler i skolen, er tilstrekkelig til å gi elevene et variert tilbud og læreren reell metodefrihet til å velge mellom analoge og digitale læremidler.
 
-Det bør være krav om at studentene skal
-utvikle profesjonsfaglig digital kompetanse i
-alle lærerutdanningene. Lærerutdanningene
-bør legge vekt på profesjonsfaglig digital kompetanse fremfor bruk av spesifikke digitale
-verktøy.
-Det bør utarbeides et rammeverk for profesjonsfaglig digital kompetanse i barnehagen.
-Norge bør fortsette å delta i internasjonale
-undersøkelser som måler digitale ferdigheter
-Utvalget støtter at regjeringen vil vurdere innretningen på digitale ferdigheter som grunnleggende ferdighet i læreplanen, for å tydeliggjøre hva som inngår i den digitale kompetansen elevene skal utvikle.
-Myndighetene bør ha samstemte råd om barn
-og unges skjermbruk, rettet mot ulike grupper.
-Utvalget støtter arbeidet i DigiUng-samarbeidet og regjeringens satsing på ung.no og
-foreldrehverdag.no.
+- Utvalget støtter tiltakene i regjeringens leselyststrategi *Sammen om lesing,* inkludert tiltakene som skal styrke leseopplæringen i skolen, styrke skolebibliotek og skape bedre balanse mellom skjerm og trykte bøker i skolen. Utvalget støtter også tiltaket om å opprette en ny tilskuddsordning for å bidra til økt samarbeid mellom barnehager og folkebibliotek til at barnehagebarn for bedre tilgang til bøker.
 
 Anbefalinger til skoler og barnehager, og deres eiere
-–
 
-–
+- Sørg for god balanse mellom digitale teknologier og trykte bøker i skole og barnehage. Trykte bøker er særlig viktig når elevene skal forholde seg til mye tekst.
 
-14
-15
+- Sett av tilstrekkelig tid til å lese lengre sammenhengende tekster i skolen og til høytlesning i barnehagen.
 
-Ha felles rutiner og strategier for å utvikle
-elevenes mest grunnleggende digitale kompetanse slik at denne kommer på plass tidlig i
-skoleløpet.
-Arbeid for at ansatte i barnehagene og skolene
-får styrket sin profesjonsfaglige digitale
-kompetanse.
-Helsedirektoratet (2017a)
-Helsedirektoratet (2023)
+- Begrens digitale distraksjoner i skoletiden og hjelp elevene til å regulere skjermbruk.
 
-–
-–
+- Unngå skjermbruk under måltidene.
 
-Inkluder alle ansatte når det legges planer for
-digital kompetanseheving, ikke bare lærerne.
-Bidra til at foreldrene til skoleelever har tilstrekkelig digital kompetanse til å følge opp
-barnas digitale skolehverdag, og at foreldre til
-barnehagebarn er informert om barnehagens
-digitale praksis.
+- Vær opptatt av elevens ergonomi ved bruk av digitale enheter og verktøy, for eksempel sittestilling, skjermstørrelse og tilgang på tastatur og mus.
 
-17.5 Nyansert kunnskap og helhetlig
-politikkutvikling
-Gjennom arbeidet til utvalget har det blitt tydelig
-at det er behov for mer forskning, og mer nyansert forskning, om skjermbruk og barn og unge.
-Dette er også påpekt av andre tilgrensende arbeider, som vi har omtalt i kapittel 2. Medieskadelighetsutvalget slo blant annet fast at det er for liten
-kunnskap om hva slags nettbruk som skader barn
-og unge, og på hvilken måte, og at det er et stort
-behov for videre undersøkelser og forskning på
-dette. De anbefalte derfor at det utlyses midler og
-ressurser til å utvikle og opprette et nasjonalt
-kunnskapssenter for barn og unges mediebruk.
-Ifølge regjeringens strategi for trygg digital
-oppvekst fra 2021, Rett på nett, er det et mål for
-regjeringen å legge til rette for forskning om barn
-og unges hverdag, og at forskningen skal være
-balansert og ta utgangspunkt i både nytte og
-risiko som barn og unge møter digitalt. Handlingsplanen for trygg digital oppvekst som ble lagt
-frem i oktober 2024, bygger videre på strategien.
-Et tiltak som omtales i handlingsplanen er at
-Medietilsynet har igangsatt et prosjekt for å
-utvikle metoder for å få bedre innsikt i hva slags
-medieinnhold som når barn og unge gjennom
-algoritmestyrte tjenester, for å kunne innrette tiltaksarbeid og tilsyn mer presist, og bidra til
-beskyttelse mot skadelig innhold.
-Regjeringens strategi for digital infrastruktur i
-skolen og barnehagen setter blant annet et mål
-om at den digitale praksisen i skolen og skolens
-bruk av digitale løsninger og medier er kunnskapsbasert.16 Videre har regjeringen og KS en
-ambisjon om at arbeidet med kunnskapsutvikling
-er helhetlig, langsiktig, forutsigbart finansiert og
-koordinert mellom alle relevante aktører. Strategien peker på at et koordinert forskningsprogram
-kan gi bedre og mer systematisk kunnskap om
-sammenhengen mellom disse innsatsområdene
-og være grunnlag for politikkutforming og lokale
-beslutninger om anskaffelser, planlegging og
-bruk av digitale løsninger og infrastruktur. Utdan16
+- Ta ansvar for å veilede foreldre i bruk av digitale løsninger som eleven bruker i skolearbeidet.
 
-Kunnskapsdepartementet (2023)
+- Sørg for at digitale enheter har mulighet for foreldrekontroll hvis de yngste skolebarna skal ha den med seg hjem.
 
-[Side 223]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-ningsdirektoratet har derfor nylig etablert et
-forskningsprogram som skal gi bedre og mer
-systematisk kunnskap om digitalisering og digital
-kompetanse i barnehagen og skolen.
-Utvalget har ikke vurdert hvordan myndighetene konkret skal bidra til at det forskes mer på
-barn og unges skjermbruk. Strategien for trygg
-digital oppvekst Rett på nett (2021) inneholder et
-mål om å legge til rette for balansert forskning om
-barn og unges hverdag, og utvalget forutsetter at
-målet følges av tilstrekkelige ressurser og egnede
-tiltak. I denne delen vurderer utvalget kunnskapshull og hvordan man kan sikre pålitelig vitenskapelig kunnskap om konsekvenser av skjermbruk og utvikle god forskningsdesign på området.
-
-17.5.1 Mer nyansert forskning om barn og
-unges bruk av digitale medier
-Skjermbrukutvalget er ifølge mandatet bedt om å
-utrede hvordan barn og unges skjermbruk i barnehage, skole og fritid påvirker helse, livskvalitet,
-læring og oppvekst. I arbeidet er det blitt klart at
-det meste av tilgjengelig forskning ikke er gjort på
-en måte som gjør det mulig å svare på spørsmålet
-om skjermbruk påvirker helse, livskvalitet, læring
-og oppvekst. Ordet «påvirker» innebærer en
-antagelse om at skjermbruk er en årsaksfaktor. Å
-påvise en enkelt årsaksfaktor krever at man har et
-design med gjentatte målinger og der andre mulige
-påvirkninger holdes mest mulig stabilt. Slike
-«eksperimentelle» design er det få eksempler på i
-forskningslitteraturen om skjermbruk, og slike studier er også vanskelige å gjennomføre. Det vanligste er såkalte tverrsnittsdata, der barn og unge
-eller deres foreldre blir spurt om hvor mye tid de
-har brukt på ulike skjermaktiviteter, og i hvor stor
-grad de har opplevd ulike psykiske helseplager,
-nedsatt konsentrasjon, dårlig søvn eller lignende.
-Selvrapportering er ofte ikke nøyaktig, og slike studier gir også bare et øyeblikksbilde av skjermbruk
-og helse på det aktuelle tidspunktet.
-Enkelte studier har brukt design der man har
-bedt forsøkspersonene om å slutte å bruke for
-eksempel Facebook en periode, for å undersøke
-om det medfører endringer i helsetilstanden. Et
-slikt design kontrollerer for individuelle faktorer,
-men tar for eksempel ikke høyde for andre hendelser som skjer underveis, og som også kan
-påvirke forsøkspersonens helsetilstand. Videre vil
-disse studiene ofte bare inkludere dem som er
-motivert for å slutte å bruke sosiale medier, noe
-som kan gi et skjevt bilde av eventuelle effekter.
-Ingen studier vil gi helt klare svar, og derfor må
-man kombinere ulike forskningsdesign.
-
-221
-
-Kapittel 17
-
-En annen utfordring med forskningen på
-skjermbruk er at eksponeringen, det å bruke eller
-se på en skjerm, har endret seg mye de siste
-tiårene. Og den teknologiske utviklingen går
-raskt. Forskningen vil derfor alltid henge etter, og
-i kunnskapsoppsummeringer som ser på alle relevante studier over en tidsperiode, vil studiene ofte
-være utført relativt langt tilbake i tid.
-Innledningsvis i kapittelet har vi beskrevet at
-det ofte gir liten mening å kun se på skjermtid,
-men ettersom tid er enklest å måle, er det ofte det
-forskning på skjermbruk har sett på. Det er også
-relevant å undersøke hva barn og unge gjør, hvem
-de gjør det sammen med, hvilket innhold de ser
-på, hvilket tidspunkt på dagen de bruker skjermene, og hva skjermbruken går på bekostning av.
-Slike kontekstvariabler vil gjøre forskningen mer
-presis og gjøre det mulig å svare på hvordan
-skjermbruk påvirker barn og unges helse, livskvalitet, læring og oppvekst.
-Kontekst er ikke minst viktig innenfor
-forskning på skole og barnehage. Her består mye
-av forskningen på digitale teknologier av kasusstudier som dokumenterer erfaringer og viser til
-potensialet for læring og motivasjon i ulike digitale teknologier. Det kommer ikke nødvendigvis
-klart frem hva som menes med læring i de ulike
-studiene. I mange av studiene som kunnskapsgrunnlaget for digitale teknologier i skolen er
-basert på, er læring også målt uten kontrollgruppe og basert på selvrapportering. Dermed
-blir det vanskelig å si om det påståtte potensialet
-faktisk er reelt. Det trengs mer kunnskap om
-hvordan digital teknologi inngår i pedagogiske og
-didaktiske sammenhenger i skolen, fremfor å
-bare undersøke teknologiens potensiale. Vi trenger
-også mer kvantitativ forskning med design som
-gjør det mulig å trekke slutninger om effekten av
-digital teknologi på læring. I digitaliseringsstrategien for barnehage og skole fremheves blant
-annet at det er behov for mer kunnskap om effekten av digitale teknologier på elevenes konsentrasjon om det faglige arbeidet. Forskning på digitalisering i skolen bør også inkludere tverrvitenskapelig samarbeid mellom skoleforskning
-og andre vitenskapelige disipliner som for eksempel psykologi og kognisjonsvitenskap.
-For barnehagefeltet er det behov for større innslag av tverrvitenskapelig forskning der forskere
-med ekspertise på barns utvikling og behov samarbeider med forskere innen barnehagepedagogikk i å utvikle forskningsdesign som tillater en å
-måle hvordan aktiviteter med ulike materialer og
-teknologier støtter opp under barns utvikling og
-behov.
-
-[Side 224]
-
-222
-
-Kapittel 17
-
-NOU 2024: 20
-Det digitale (i) livet
-
-I temakapitlene i utredningen finnes det nærmere beskrivelser av kunnskapshull og konkrete
-områder der det er behov for mer forskning.
-
-17.5.2 Strukturert, helhetlig og kontinuerlig
-arbeid med spørsmål knyttet til
-digitalisering av samfunnet
-Utvalgets mandat berører mange sektorovergripende problemstillinger som det er vanskelig å
-løse i siloer. Som også Medieskadelighetsutvalget
-og Bufdirs langtidsplan for forskning og evaluering (2023–2026) har pekt på, er det behov for
-koordinering og langsiktighet.
-Teknologiutviklingen går raskt – og stadig
-raskere. Teknologi gjennomsyrer også samfunnet, og teknologiske endringer kan ha enorm
-betydning både for samfunnet og for den enkelte.
-Selv om utvalget vil berømme regjeringen for å
-sette ned et utvalg med et bredt og sektorovergripende mandat, er det vanskelig å løse et så bredt
-mandat innenfor de rammene et NOU-utvalg gir.
-Parallelt med utvalgets arbeid har statlige myndigheter gjort flere grep rettet mot barn og unges
-skjermbruk. Regjeringen har innført mobilrestriksjoner i skolene og har varslet at det skal innføres
-en myndighetsbestemt aldersgrense i sosiale
-medier. Stortingsmeldingen En mer praktisk skole
-har også tatt for seg digitalisering og legger til
-grunn et føre-var-prinsipp for digital utvikling i
-skolen. Utvalget forstår at politikkutviklingen på
-området ikke kan vente på utvalget. Men det illustrerer at når utviklingen går så raskt og er så
-gjennomgripende i samfunnet, er det noen ganger
-viktig å kunne handle raskere. Utvalget vil derfor
-peke på at et NOU-utvalg som skal arbeide i halvannet år, kanskje ikke er den mest hensiktsmessige måten å sikre kunnskapsbaserte beslutninger om digitalisering av samfunnet.
-Utvalget mener at i det videre arbeidet med
-disse spørsmålene bør man vurdere å etablere en
-mer varig struktur som kan arbeide kontinuerlig
-med et oppdatert kunnskapsgrunnlag. En slik
-struktur bør ha mandat til å følge med på teknologiutviklingen som berører barn og unge, men
-også resten av befolkningen. Det bør både være
-ressurser til å kartlegge forskning og utarbeide
-råd og veiledning til myndighetene. Det må også
-legges til rette for reell medvirkning fra barn og
-unge. Et slikt organ bør kanskje også få ansvar for
-å utarbeide og oppdatere råd til befolkningen. Et
-eksempel, og et organ som eventuelt kan bygges
-videre på, er Teknologirådet. Teknologirådet er et
-uavhengig rådgivende organ for teknologivurdering. Hittil har rådet i liten grad berørt temaer
-
-som spesifikt treffer barn og unge, eller som tar
-for seg helseeffekter av bruk av digital teknologi.
-Utvalget vil også trekke frem at når utviklingen går så raskt og beslutninger ofte må tas på
-bakgrunn av et føre-var-prinsipp, er det sentralt å
-samtidig legge til rette for evaluering og følgeforskning når nye tiltak iverksettes, når dette er
-mulig og hensiktsmessig. Både prosessen med å
-innføre tiltak og effekten av tiltak kan være aktuelt
-å evaluere.
-
-17.5.3 Utvalgets anbefalinger
-– Utvalget anbefaler at tiltak som innebærer
-større endringer i regulering eller rammer for
-barn og unges skjermbruk, for eksempel
-mobilrestriksjoner i skolen, vitenskapelig evalueres.
-– Det er behov for kontinuerlig og nyansert
-forskning på skjermbruk og barn og unge. Det
-er særlig behov for:
-– flere og bedre studier og med ulike design,
-som kan belyse og påvise årsaksforhold.
-– studier av intervensjoner og tiltak rettet
-mot barn og unge.
-– relevant forskning som er informert av barn
-og unges perspektiv (brukermedvirkning).
-– kunnskap om hvordan digital teknologi inngår i pedagogiske og didaktiske sammenhenger i skolen og barnehagen, fremfor å
-undersøke teknologiens potensiale.
-– tverrvitenskapelig forskning som gjør det
-mulig å måle hvordan aktiviteter med ulike
-materialer og teknologier støtter opp under
-barns utvikling og behov.
-– kvantitativ forskning med design som gjør
-det mulig å trekke slutninger om effekten av
-ulike modaliteter og grensesnitt (trykte og
-digitale) på ulike aspekter ved læring, for
-eksempel konsentrasjon og utholdenhet.
-– tverrvitenskapelig og flermetodologisk
-forskning på sammenhenger mellom
-læring og bruk av ulike typer læremidler,
-både analoge og digitale, over lengre tid.
-– kunnskap om hvordan ulike trykte og digitale læremidler har endret seg over tid.
-– kunnskap om pedagogiske muligheter og
-utfordringer knyttet til kunstig intelligens,
-og betydningen for barn og unges ferdigheter (blant annet i skriving).
-– Utvalget støtter Utdanningsdirektoratets forskningsprogram om digitalisering i barnehage
-og skole.
-– Utvalget støtter Medietilsynets forprosjekt for
-å se på hvordan analyser av algoritmestyrte
-
-[Side 225]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-–
-
-plattformer kan gjøres for å gi bedre innsikt i
-hva slags innhold barn og unge eksponeres for
-i sosiale medier.
-Utvalget anbefaler regjeringen å utrede om det
-bør etableres en varig struktur som følger teknologiutviklingen, kartlegger forskning, evaluerer tiltak og veileder myndighetene og befolkningen i bruk av teknologi.
-
-17.6 Økonomiske og administrative
-konsekvenser
-I avsnitt 17.2 går utvalget gjennom tiltak for regulering av plattformene. Utvalget oppfordrer myndighetene til å høyt prioritere arbeidet med å gjennomføre EU-forordningen om digitale tjenester
-(DSA) i norsk rett, og at beskyttelse av barn og
-unge mot skadelig innhold og skadelig design
-prioriteres høyt i oppfølgingen av DSA. Videre
-anbefaler utvalget regjeringen å være en pådriver
-for internasjonal og effektiv regulering av avhengighetsskapende mekanismer i sosiale medier og
-pengespill-lignende elementer i dataspill. De økonomiske, juridiske og administrative konsekvensene av dette arbeidet vil bero på hvordan dette
-følges opp i regjeringen, og hvilket ambisjonsnivå
-regjeringen legger seg på, men arbeidet kan i
-utgangspunktet realiseres innenfor dagens økonomiske og administrative rammer.
-Utvalget anbefaler videre at det ikke settes en
-myndighetsbestemt aldersgrense for sosiale
-medier. Slik utvalget vurderer det, må en eventuell aldersgrense tilpasses den enkelte tjeneste,
-som i så fall hadde gitt vesentlige administrative
-og økonomiske konsekvenser for myndighetene.
-Å legge ansvaret for å sette aldersgrenser på tjenestene selv vil derimot ikke øke de økonomiske
-og administrative kostnadene vesentlig for myndighetene. Det vil kreve ressurser til tilsyn, men
-dette kan trolig gjennomføres innenfor gjeldende
-rammer og muligens innenfor kravene som uansett vil pålegges myndighetene etter gjennomføring av DSA i norsk rett.
-
-223
-
-Kapittel 17
-
-I avsnitt 17.3 går utvalget gjennom tiltak for å
-sikre at digitale løsninger i barnehage og skole er
-trygge og inkluderende, og at det er god balanse
-mellom blant annet skjerm og bok. Utvalget ber
-myndighetene vurdere om dagens tilskudd til
-læremidler i skolen er tilstrekkelig for å sikre tilgang til både digitale og trykte læremidler. De
-økonomiske konsekvensene vil avhenge av prioriteringer i regjeringen og hvilket ambisjonsnivå
-regjeringen legger seg på for å sikre tilskudd til
-læremidler.
-I avsnitt 17.4 har utvalget foreslått å prioritere
-kompetanseheving for at ansatte i barnehagen og
-skolen skal styrke sin digitale kompetanse. Det
-finnes allerede omfattende ordninger for etter- og
-videreutdanning av lærere og barnehagelærere
-som staten finansierer, og utvalget mener at lærernes profesjonsfaglige digitale kompetanse kan
-styrkes innenfor de eksisterende rammene. Utvalget har videre pekt på at barnehager og skoler må
-arbeide for at alle ansatte inkluderes når det legges
-planer for å styrke den digitale kompetansen, ikke
-bare lærerne. Dette kan gjøres i regi av barnehage- og skoleeiere, eller det kan opprettes egne
-utdanningstilbud for eksempel i fagskolene. Det
-siste vil i så fall ha økonomiske konsekvenser for
-staten eller kommunene, avhengig av hvordan
-utdanningstilbudet innrettes.
-I avsnitt 17.5 peker utvalget på at det kan være
-hensiktsmessig å etablere en mer varig struktur
-som har mandat til å følge med på teknologiutviklingen som berører barn og unge og resten av
-befolkningen. Dette kan ha vesentlige økonomiske
-og administrative konsekvenser for det offentlige.
-Utvalget vil derfor ikke konkret anbefale at en slik
-struktur etableres, men mener regjeringen bør
-vurdere behovet. Utvalget peker på at å utvide
-mandatet til det allerede etablerte Teknologirådet
-eventuelt kan redusere ressursbruken.
-For øvrig kan utvalgets foreslåtte tiltak i
-utgangspunktet realiseres innenfor gjeldende
-budsjettrammer i tråd med mandatet.
-
-[Side 226]
-
-224
-
-NOU 2024: 20
-
-Kapittel 18
-
-Det digitale (i) livet
-
-Kapittel 18
-
-Utvalgets råd om skjermbruk i ulike aldersgrupper
-
-Figur 18.1
-
-18.1 Innledning
-Barn og unge trenger blant annet nok søvn, fysisk
-aktivitet, tid til avkobling og sosiale fellesskap for
-å leve et sunt liv og utvikle seg. Skjermbruk er i
-dag en integrert del av hverdagen i de fleste familier og for de fleste barn og unge. Men skjermbruk kan også fortrenge eller forstyrre andre viktige aktiviteter. Flere av organisasjonene i referansegruppen til utvalget har etterspurt klarere
-råd og mer kunnskap om skjermbruk hos barn og
-unge. Derfor vil utvalget basert på kunnskapsgrunnlaget vi har, gi noen råd om skjermbruk i
-ulike aldersgrupper.
-Rådene handler først og fremst om skjermbruk som ikke skjer i en pedagogisk kontekst, og
-de er rettet mot foreldre og andre voksne som
-skal hjelpe barn og unge til en balansert, sunn og
-trygg skjermbruk. Vi har presisert hvilke av
-rådene som også kan være relevante for lærere i
-skolen og barnehagen og annet pedagogisk personale.
-I skjermbrukutvalgets arbeid har vi vært i kontakt med mange barn og unge som også etterspør
-klarere råd og mer kunnskap om hvordan skjermbruk påvirker dem. I neste kapittel kommer vi
-derfor også med råd om skjermbruk som er rettet
-direkte til barn og unge. Skjermbrukutvalgets
-ekspertgruppe av ungdom har gitt innspill til
-utformingen av rådene.
-Utvalget vil understreke at punktene her er
-ment som råd, ikke påbud eller forbud. Barn og
-unge er forskjellige, og familier er forskjellige.
-
-Barn som har funksjonsnedsettelser, eller som av
-andre grunner ikke har tilgang til det fysiske
-sosiale livet, kan ha andre behov. For eksempel
-kan barn med symptomer på nevroutviklingsforstyrrelser som ADHD og autismespekterforstyrrelser ha en tendens til mer omfattende
-skjermbruk enn andre barn. Disse barna kan
-også ha særlige vansker med å begrense egen
-skjermbruk og vil derfor ha behov for mer støtte
-fra foreldre, lærere og andre voksne for å regulere
-skjermbruken. Barn og unge som for eksempel
-har dysleksi, kan trenge spesiell tilrettelegging,
-og rådene knyttet til lesing må derfor balanseres
-opp mot dette.
-Dette er også noe av bakgrunnen for at
-utvalget ikke har ønsket å angi hvor mye tid et
-barn eller en ungdom bør bruke på skjerm i løpet
-av en dag. Slike råd tar ikke hensyn til individuelle
-forskjeller eller at familier er ulike. De tar heller
-ikke hensyn til innholdet på skjermen eller konteksten rundt skjermbruken. Det er for eksempel
-stor forskjell på skjermbruk i skolen og på fritiden, forutsatt at de digitale enhetene brukes i tråd
-med den pedagogiske intensjonen. Nyansene i
-hva som kan gi barn og unge en balansert, sunn
-og trygg skjermbruk, vil lett overskygges av en
-spesifikk tidsbegrensning. Slik utvalget ser det,
-gir heller ikke den kunnskapen vi har, grunnlag
-for å sette spesifikke grenser for skjermtid. Det
-viktigste prinsippet for å regulere barn og unges
-skjermtid (når de er over to år) er å sikre at
-skjermbruken inngår i en dag som gir tilstrekkelig tid til søvn, måltider, lek, skolearbeid, fysisk
-
-[Side 227]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-aktivitet og sosialt samvær med venner og familie.
-Hva som er en god balanse, vil variere gjennom
-oppveksten, og rådene i dette kapittelet er derfor
-tilpasset ulike aldersgrupper. Rådene kan lastes
-ned i utskriftsformat på skjermbrukutvalget.no.
-
-18.2 De yngste barna (null til to og to
-til fem år)
-I de første fem leveårene er hjernen i rask utvikling og særlig sensitiv for påvirkning. Barn under
-to år synes ofte skjermer er spennende. De yngste
-har liten evne til å konsentrere seg om flere ting
-om gangen og kan lett bli distrahert og overveldet
-hvis en TV eller annen skjerm med aktivt innhold
-står på i bakgrunnen. Forskningen finner ikke
-belegg for at skjermbruk kan være positivt for
-utviklingen til de yngste barna, og vi vet at barn
-lærer best fra erfaringer i samspill med trygge
-voksne. Det er derfor viktig å sterkt begrense
-skjermbruk i aldersgruppen fra null til to år.
-Barnehjernen er avhengig av å bli brukt for å
-utvikle seg, og barn utvikler seg i samspill med
-omsorgspersoner og miljøet rundt seg. For at et
-barn skal utvikle seg emosjonelt, kognitivt og
-sosialt, er det avhengig av at omsorgspersoner er
-oppmerksomme og responderer på barnets signaler. Derfor har vi også tatt med råd til voksne om å
-begrense sin egen skjermbruk når de er sammen
-med barn.
-For alle barn, og særlig for de yngste, er det
-viktig å balansere skjermbruk med aktiviteter
-som fremmer utvikling og læring. Barn er ikke i
-stand til å regulere egen skjermbruk, og de
-trenger hjelp av foreldre og andre voksne til å
-begrense og tilpasse bruken til alder og modenhet. Skjermbruk må ikke gå på bekostning av
-søvn, fysisk aktivitet, lek og sosialt samspill med
-andre barn og voksne. Forskningen finner også
-at skjermtid kan være forbundet med nærsynthet.
-I alderen to til fem år er det anbefalt å sove i
-opptil 14 timer. Barna er også ofte i barnehagen i
-sju til åtte timer i løpet av hverdagen. Det gir ikke
-mye tid til skjermbruk. Vi gir derfor råd om at
-skjermbruken for barn mellom to og fem år ikke
-bør utgjøre en vesentlig del av barnets våkne fritid.
-Forskningen viser en sammenheng mellom
-mye skjermbruk om kvelden og om natten og forsinket innsovning og dårligere søvnkvalitet for
-barn. Barna i denne alderen bør derfor ikke se på
-skjermer før leggetid. Å spise foran en skjerm kan
-påvirke barns matvaner og kan gå på bekostning
-
-225
-
-Kapittel 18
-
-av de sosiale sidene ved måltider. Derfor er rådet
-vårt at man unngår skjermer under måltider, både
-hjemme og i barnehagen (og i skolefritidsordningen og på skolen for femåringer som har begynt
-på skolen).
-Kunnskapsgrunnlaget tyder på at når barna
-over to år får se på skjerm, kan det være gunstig
-for deres psykiske helse og utvikling, og for
-språkutviklingen, at foreldrene ser på sammen
-med dem. Det barna ser og gjør på skjermer bør
-være tilpasset alder og utviklingstrinn da
-skjermer som kombinerer tekst, bilder og lyd kan
-overbelaste deres kognitive ressurser.
-
-18.2.1 Råd om skjermbruk for barn under to år
-– Skjermbruk er sannsynligvis ikke positivt for
-barns utvikling de to første leveårene og bør
-derfor være svært begrenset.
-– Voksne bør begrense sin egen skjermbruk når
-de er sammen med barn, og redusere varslinger på egne enheter. TV og andre store
-skjermer bør ikke stå på i bakgrunnen der små
-barn oppholder seg.
-18.2.2 Råd om skjermbruk for barn mellom
-to og fem år
-– Skjermbruk må balanseres med aktiviteter
-som fremmer utvikling og læring, og må ikke
-gå på bekostning av søvn, måltider, lek, fysisk
-aktivitet og sosialt samvær med andre barn og
-voksne.
-– Skjermbruk bør ikke utgjøre en vesentlig del
-av barnets våkne fritid. Det barna ser og gjør på
-skjerm bør være tilpasset deres alder og
-utviklingstrinn, og bør helst skje sammen med
-voksne.
-– Voksne bør begrense sin egen skjermbruk når
-de er sammen med barn, og redusere varslinger på egne enheter. TV og andre store
-skjermer bør ikke stå på i bakgrunnen der barn
-oppholder seg.
-– Barn bør unngå bruk av skjerm før leggetid, og
-de bør ikke ha tilgang til digitale enheter når de
-skal sove.
-– Unngå skjerm under måltider hjemme, i barnehagen, på skolen og i skolefritidsordningen.
-
-18.3 Barn mellom seks og tolv år
-I perioden mellom seks og tolv år oppstår noen av
-de vanskeligste dilemmaene for familiene. Barna
-blir mer selvstendige, og mange foreldre er usikre
-
-[Side 228]
-
-226
-
-Kapittel 18
-
-NOU 2024: 20
-Det digitale (i) livet
-
-på når barna skal få ulike digitale enheter, og når
-de bør ha tilgang til ulikt innhold. Vi vet at de
-fleste norske barn får sin egen mobiltelefon i
-denne perioden, og mange begynner å bruke
-sosiale medier.
-For alle barn er det viktig med god balanse
-mellom ulike aktiviteter. Barnas skjermbruk må
-inngå i en dag som gir tilstrekkelig tid til søvn,
-måltider, lek, skolearbeid, fysisk aktivitet og
-sosialt samvær med venner og familie. Selv om
-barna blir mer selvstendige i denne alderen, er
-det stor variasjon i hvilken grad barna klarer å
-styre egen tid, og voksne må derfor hjelpe til med
-å regulere skjermbruken.
-Det barna ser og gjør på skjermer, bør være tilpasset deres alder og utviklingstrinn. Foreldre bør
-bruke innstillinger for foreldrekontroll og redusere varslinger på enhetene som barna bruker, for
-å unngå distraksjoner og stress. Dette er særlig
-viktig for yngre barn, som har begrenset kognitiv
-kapasitet til å gjøre flere ting samtidig. De fleste
-av de store sosiale medieplattformene har 13-års
-aldersgrense i sine brukervilkår. Innholdet og
-funksjonaliteten er i liten grad tilpasset barn og
-unge. Barna kan bli utsatt for manipulerende eller
-avhengighetsskapende design eller skadelig innhold, og de kan komme i kontakt med fremmede
-som ikke vil dem vel. Derfor bør anbefalte aldersgrenser for digitale tjenester og dataspill følges.
-I dataspill ser vi at lite oppfølging fra foreldre
-eller andre voksne, kombinert med individuell
-sårbarhet og manipulerende spillegenskaper, kan
-øke risikoen for at unge utvikler problematisk spilling og dataspillavhengighet. Foreldrene bør
-engasjere seg og vise interesse for hva barna gjør,
-og hvem de møter på digitale plattformer. For at
-de unge skal etterleve skjermregler, bør de få
-være med på å lage regler for skjermbruk i familien. Foreldre bør også samarbeide om å utarbeide felles regler for skjermbruk på fritiden, og
-skolen og foreldre bør ta ansvar for at dette blir et
-tema på foreldremøter. Voksne bør også være
-gode forbilder og begrense sin egen skjermbruk
-når de er sammen med barn.
-Måltider er naturlige sosiale samlingspunkter
-for familier i en hektisk hverdag. Skjermbruk
-under måltider påvirker kommunikasjonen, og
-det begrenser foreldrenes mulighet til å innarbeide gode måltidsrutiner. Skjermbrukutvalget er også kjent med at det flere steder
-vises film eller nyheter på skjerm under matpauser i skolen og i skolefritidsordningen. Utvalget
-mener skoler bør begrense denne praksisen. For
-å sikre en sunn balanse og beholde måltider som
-en sosial arena gir vi også råd om å ha noen
-
-skjermfrie soner hjemme, for eksempel under
-måltidene.
-Når det gjelder søvn, viser forskning en klar
-sammenheng mellom skjermbruk om kvelden og
-om natten og forsinket innsovning og dårligere
-søvnkvalitet for barn og unge. Mange unge som
-bruker sosiale medier, opplever stress fordi de
-føler de må være konstant tilgjengelige, og noen
-opplever at for mye skjermbruk gjør dem mentalt
-eller fysisk slitne, og at det kan gå ut over andre
-aktiviteter de ønsker å bruke tid på, deriblant
-søvn. Utvalget mener det er viktig å redusere
-bruken av digitale skjermer før leggetid og om
-natten for å sikre god fysisk og psykisk helse for
-barn og unge. Ideelt sett bør digitale enheter
-plasseres utenfor soverommet, men for mange vil
-det være upraktisk og vanskelig å gjennomføre.
-Utvalget vil derfor anbefale å redusere varslinger
-og unngå å bruke mobilen når man skal sove.
-Å gjøre flere aktiviteter på en skjerm samtidig
-og stadig skifte fokus, ser ut til å være spesielt
-utfordrende for barn og unge. I tillegg kan det å
-være på flere digitale medier samtidig, såkalt
-mediemultitasking, føre til en overfladisk læringsstrategi som kan redusere læringen eller gjøre at
-barnet bruker lengre tid på å tilegne seg kunnskapen. Skal barnet lese en lengre informasjonstekst, viser forskning at leseforståelsen er bedre
-på papir. Derfor er rådet vårt at man hjelper barn
-og unge til å konsentrere seg om én ting på
-skjermen og én skjerm om gangen, og at barn og
-unge leser på papir når de skal konsentrere seg
-om en lengre tekst. Dette gjelder også i skolen.
-
-18.3.1 Råd om skjermbruk for barn mellom
-seks og tolv år
-–
-
-–
-–
-–
-
-–
-
-Skjermbruk må inngå i en dag som gir nok tid
-til søvn, måltider, lek, skolearbeid, fysisk
-aktivitet, og sosialt samvær med venner og
-familie.
-Det bør være skjermfrie soner i barnas liv både
-på skolen og hjemme, for eksempel i forbindelse
-med søvn, måltider og felles aktiviteter.
-Foreldre, ansatte i skolen og andre voksne bør
-hjelpe barna til å oppnå en god balanse mellom
-skjermbruk og annen aktivitet.
-Foreldre bør engasjere seg og kjenne til hva
-barna gjør, og hvem de møter på digitale plattformer. Det barna ser og gjør på skjermer, bør
-være tilpasset alder og utviklingstrinn.
-Foreldre bør bruke innstillinger for foreldrekontroll og redusere varslinger på enhetene
-som barna bruker. Aldersgrenser for digitale
-tjenester og dataspill bør i hovedsak følges.
-
-[Side 229]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-–
-
-–
-–
-–
-–
-–
-
-–
-
-Foreldresamarbeid i regi av skolen eller FAU
-bør brukes til å utarbeide felles regler for
-skjermbruk på fritiden og etablere «skjermvettregler» om hvordan man skal oppføre seg
-på nett.
-Foreldre bør engasjere seg i barnets digitale
-skolehverdag og sette seg inn i barnets digitale
-skoleenheter og digitale læringsressurser.
-Barn bør unngå å bruke skjerm før leggetid og
-de bør ikke ha tilgang til digitale enheter når de
-skal sove.
-Voksne bør være gode forbilder, og bør blant
-annet begrense sin egen skjermbruk når de er
-sammen med barn.
-Foreldre bør la barna få være med på å lage
-regler for skjermbruk, og forklare barna hvorfor det er viktig med balanse i hverdagen.
-Barn bør få hjelp til å konsentrere seg om én
-ting på skjermen og én skjerm om gangen.
-Dette gjelder også på skolen. Langlesing gjøres
-best på papir, og skjermer bør legges bort hvis
-barna skal konsentrere seg om en lengre tekst.
-Skjermbruk under måltider hjemme, på skolen
-og i skolefritidsordningen bør unngås.
-
-18.4 Unge mellom 13 og 19 år
-I tenårene får barna gradvis større evne til selvregulering og mer ansvar og selvstendighet. Men
-det er fortsatt viktig å veilede og støtte ungdommene slik at de finner en balanse mellom skjermbruk og søvn, skolearbeid, fysisk aktivitet og tid til
-å være sammen med venner og familie. I dataspill
-ser vi at lite oppfølging fra foreldre eller andre
-voksne, kombinert med individuell sårbarhet og
-manipulerende spillegenskaper, kan øke risikoen
-for at unge utvikler problematisk spilling og dataspillavhengighet. Foreldrene bør fortsatt engasjere seg og vise interesse for hva barna gjør, og
-hvem de møter på digitale plattformer.
-De fleste sosiale medier har 13-årsgrense, og
-mange i denne aldersgruppen bruker mye tid på
-disse plattformene. Unge bruker sosiale medier
-fordi det er morsomt, engasjerende, lærerikt og
-sosialt. Sosiale medier er en naturlig del av mange
-ungdommers liv og en viktig sosial arena. Men
-fordi sosiale medier er en så viktig sosial arena,
-kan det også være stressende å alltid være tilgjengelig. Algoritmer og mekanismer som evig
-skrolling og autoavspilling oppmuntrer til å tilbringe mest mulig tid på sosiale medier. Det fører
-til at barn og ungdom strever med å regulere sin
-egen tidsbruk, og mange ungdommer rapporterer
-at de kjenner seg avhengige, og at bruken går ut
-
-227
-
-Kapittel 18
-
-over andre viktige ting i livet, deriblant søvn.
-Dette har utvalget fått tydelige tilbakemeldinger
-om av skjermbrukutvalgets ekspertgruppe av
-ungdom og gjennom klasseromsbesøk. Ungdom i
-denne alderen trenger derfor fortsatt støtte av
-voksne til å regulere skjermbruken sin. For de
-yngste tenåringene anbefaler vi fortsatt å bruke
-foreldrekontroll og å redusere varslingene på
-enhetene de bruker. Dette kan bidra til å gi
-mindre stress og forstyrrelser. Ungdom kan også
-oppleve at deres digitale interesser som dataspill
-ikke blir tatt på alvor. Derfor er det viktig å være
-engasjert og snakke med ungdommene om hva
-de gjør på digitale plattformer.
-Vi oppfordrer også voksne som er sammen
-med ungdom, til å være gode forbilder når det
-gjelder egen skjermbruk. For å bidra til gode
-skjermvaner og balanse i hverdagen bør det være
-skjermfrie soner i ungdommenes liv både på
-skolen og hjemme, for eksempel i forbindelse
-med søvn, familiemåltider og felles aktiviteter.
-Måltider er naturlige sosiale samlingspunkter for
-familier i en hektisk hverdag. Skjermbruk under
-måltider påvirker kommunikasjonen, og det
-begrenser foreldrenes mulighet til å innarbeide
-gode måltidsrutiner for ungdommene.
-Når det gjelder søvn, viser forskningen en klar
-sammenheng mellom høy skjermbruk om kvelden
-og om natten og forsinket innsovning og dårligere
-søvnkvalitet for barn og unge. Mange unge som
-bruker sosiale medier, opplever stress fordi de
-føler de må være konstant tilgjengelige, og noen
-opplever at for mye skjermbruk gjør dem mentalt
-eller fysisk slitne, og at det kan gå ut over andre
-aktiviteter de ønsker å bruke tid på, inkludert søvn.
-Utvalget mener det er viktig å redusere bruk av
-digitale skjermer før leggetid og om natten for å
-sikre god fysisk og psykisk helse for de unge. Ideelt sett bør digitale enheter ligge utenfor soverommet, men for mange vil det være vanskelig å
-gjennomføre. Utvalget vil derfor anbefale tenåringer å redusere varslinger og unngå å bruke
-mobilen når de skal sove hvis de har mobilen på
-soverommet.
-Å gjøre flere aktiviteter på en skjerm samtidig
-og stadig skifte fokus, ser ut til å være spesielt
-utfordrende for barn og unge. I tillegg kan det å
-være på flere digitale medier samtidig, såkalt
-mediemultitasking, føre til en overfladisk læringsstrategi som kan redusere læringen eller gjøre at
-man bruker lengre tid på å tilegne seg kunnskapen. Når man skal lese en lengre informasjonstekst, viser forskning at leseforståelsen er bedre
-på papir. Derfor er rådet vårt at man veileder unge
-til å konsentrere seg om én ting på skjermen og
-
-[Side 230]
-
-228
-
-Kapittel 18
-
-NOU 2024: 20
-Det digitale (i) livet
-
-én skjerm om gangen, og at tenåringene leser på
-papir når de skal konsentrere seg om en lengre
-tekst. Dette gjelder også på skolen.
-
-18.4.1 Råd om skjermbruk for unge mellom
-13 og 19 år
-– Skjermbruk må inngå i et godt balansert liv,
-med tilstrekkelig tid til søvn, måltider, skolearbeid, fysisk aktivitet, og tid til å være sammen
-med venner og familie.
-– Det bør være skjermfrie soner i ungdommens
-liv både på skolen og hjemme, for eksempel i
-forbindelse med søvn, måltider og felles aktiviteter.
-– Voksne bør være gode forbilder og sørge for at
-ungdommene får gode vaner for skjermbruk i
-familien, med venner og på skolen.
-– Voksne bør gi støtte og bidra til at unge får den
-kunnskapen de trenger til å regulere egen
-skjermbruk.
-– Foreldre bør la ungdommene få være med på å
-lage regler for skjermbruk, og forklare ungdommene hvorfor det er viktig med balanse i
-hverdagen.
-
-–
-
-–
-
-–
-–
-
-–
-
-–
-
-Aldersgrensene for apper og tjenester bør i
-hovedsak følges. Voksne bør veilede ungdommene, slik at det de gjør på skjerm, er tilpasset
-deres alder og utviklingstrinn.
-Foreldre og andre voksne bør engasjere seg og
-snakke med de unge om hva de gjør på digitale
-plattformer. Innstillinger for foreldrekontroll
-bør brukes for de yngste ungdommene. Varslinger bør reduseres.
-Foreldre og andre voksne bør være gode rollemodeller og bidra til kunnskap om hvordan
-man oppfører seg på nett.
-Foreldre bør engasjere seg i barnets digitale
-skolehverdag og sette seg inn i ungdommens
-digitale skoleenheter og digitale læringsressurser.
-Foreldre, ansatte i skolen og andre voksne bør
-veilede unge i å drive med kun én skjermaktivitet om gangen når de trenger å konsentrere seg. Langlesing gjøres best på papir,
-og skjermer bør legges bort hvis ungdommen
-skal konsentrere seg om en lengre tekst.
-Foreldresamarbeid i regi av skolen eller FAU
-bør brukes til å etablere «skjermvettregler» om
-hvordan man oppfører seg på nett.
-
-[Side 231]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-229
-
-Kapittel 19
-
-Kapittel 19
-
-Råd om skjermbruk til dere som er barn og unge
-
-Figur 19.1
-
-19.1 Innledning
-Skjermbrukutvalget har fått i oppgave å hjelpe
-regjeringen med å forstå hvordan barn og unges
-bruk av skjerm i barnehage, skole og hjemme
-kan påvirke deres helse, hvordan de har det,
-hvordan de lærer og hvordan de vokser opp.
-Utvalget har møttes i halvannet år for å lage
-denne rapporten sammen. Gjennom arbeidet har
-vi sett på forskning og undersøkelser, og snakket
-med blant annet forskere, lærere, foreldre og
-organisasjoner. Vi har også snakket med flere
-barn og unge, og vi har satt ned vår egen ekspertgruppe av ungdom som har gitt oss innspill og
-råd i arbeidet.
-Det vi hører fra mange barn og unge er at det
-ofte er vanskelig å konsentrere seg når de
-bruker skjerm. De synes også at det er vanskelig
-å slutte å bruke skjermen og de føler seg avhengige. Mange barn og ungdommer sier at de
-bruker mer tid på skjermen enn de egentlig vil,
-og at det går utover andre viktige ting, som søvn
-og læring. De ønsker derfor å vite mer om hva
-som er bra og hva som er dårlig med skjermbruk. De vil ha gode råd som kan gjøre det
-lettere å ta gode valg om hvordan man best kan
-bruke skjerm. Derfor har vi laget råd til barn og
-unge, basert på det vi vet fra kunnskapen vi har
-samlet sammen.
-Selv om det finnes mye forskning, er det fortsatt mye vi ikke vet om skjermbruk og hvordan
-den påvirker barn og unge. Utviklingen går så
-raskt og derfor henger forskningen etter. Vi har
-
-for eksempel ganske mye forskning om å se på TV
-og bruke Facebook, men vi vet mindre om hvordan det er å bruke smarttelefoner og TikTok.
-Men, fra annen forskning vet vi mye om hva barn
-og unge trenger for å ha en god oppvekst og god
-helse.
-Vi kan ikke si nøyaktig hvor mye tid som er
-bra eller ikke å bruke på skjerm. Men vi vet at det
-er bra for utvikling, læring, trivsel og helse å gjøre
-ulike aktiviteter i løpet av en dag. Rådene våre er
-derfor ment som tips for å få en god balanse i
-hverdagen.
-I forrige kapittel la vi også fram råd til foreldre og andre voksne, som skal hjelpe og veilede barn og unge med å bruke skjerm på en
-balansert, sunn og trygg måte. Rådene til de
-voksne handler også om sin egen bruk når de er
-sammen med barn. Disse rådene kan barn og
-foreldre gjerne lese sammen, og bruke til å
-snakke om felles skjermregler i familien. Rådene
-kan lastes ned i utskriftsformat på skjermbrukutvalget.no.
-Selv om vi gir råd til barn, ungdom og voksne,
-mener vi at myndighetene og de som lager spill og
-sosiale medier må ta et større ansvar. For å lese
-alle anbefalingene våre, se sammendraget i kapittel 1 eller utvalgets anbefalinger i kapittel 17.
-
-19.2 Råd til deg mellom 6 og 12 år
-For å være frisk og glad trenger du nok søvn, lek,
-bevegelse, mat og tid med venner og familie. Der-
-
-[Side 232]
-
-230
-
-NOU 2024: 20
-
-Kapittel 19
-
-Det digitale (i) livet
-
-for er det viktig at du har en god balanse mellom
-ulike aktiviteter i løpet av dagen. Vi kan ikke si
-akkurat hvor mye tid du skal bruke på skjerm
-hver dag, fordi det er forskjellig for alle. Det viktigste er at du har nok tid til å gjøre forskjellige
-ting i løpet av en dag.
-Selv om du får lov til mer alene jo eldre du blir,
-trenger du fortsatt hjelp fra voksne til å passe på at
-du gjør forskjellige ting, og at du bruker mobilen
-og andre skjermer på en god måte. Det du ser og
-gjør på skjermen bør passe til alderen din. Derfor
-er det lurt å følge aldersgrensene for spill og
-sosiale medier.
-Foreldrene dine kan sette opp mobilen og nettbrettet ditt slik at du ikke får for mange varslinger
-i løpet av dagen. Mange varslinger kan være
-stressende og kan gjøre at du bruker for mye tid
-på skjermen. Dette gjelder hele familien, så bli
-gjerne med å lage felles regler med de du bor
-sammen med. Det er også fint med felles regler i
-klassen, så man slipper å føle seg utenfor.
-Våre råd til deg som er mellom 6 og 12 år er:
-–
-
-–
-–
-
-–
-–
-
-–
-–
-
-–
-
-–
-–
-
-Gjør mange forskjellige ting i løpet av dagen.
-Husk at du trenger å bevege deg, du trenger å
-sove, leke, spise og gjøre ting sammen med
-venner og familie.
-Hvis du skal bruke skjerm, ta også pauser. Hvil
-øynene og strekk på kroppen.
-Nettbrett, mobil og TV kan være gøy og underholdende, men skjermene kan også stjele tiden
-din fordi det kan være vanskelig å stoppe. Få
-hjelp av foreldrene dine til å sette på innstillinger som gjør at du ikke bruker mer tid
-enn du hadde tenkt.
-Bli med på å lage familieregler om skjermbruk.
-Fortell foreldrene dine om hva du gjør på
-skjermen, og si ifra til voksne hvis du ser eller
-opplever noe som skremmer deg eller som du
-synes er ekkelt.
-Følg aldersgrensene på apper og spill.
-Prøv å holde deg til én ting om gangen på
-skjermen, og én skjerm om gangen. Da blir
-det enklere å følge med, og du blir mindre
-sliten.
-Ikke spis foran en skjerm. Det er bedre å
-snakke med de man er sammen med, og uten
-skjerm er det lettere å konsentrere seg om
-maten og kjenne når man er mett.
-Les på papir og legg vekk skjermene når du
-skal konsentrere deg om å lese noe langt.
-Ikke bruk skjermer rett før du skal legge deg.
-Det kan gjøre det vanskeligere å sovne og kan
-gjøre at du sover dårligere.
-
-19.3 Råd til deg mellom 13 og 19 år
-Skjermbruk er en stor del av hverdagen for de
-fleste ungdommer. Men skjermbruk kan også ta
-tid fra andre viktige ting. Du trenger nok søvn,
-fysisk aktivitet, tid til skolearbeid, og tid med
-venner og familie for å være sunn, lære og utvikle
-deg.
-Som tenåring får du mer frihet og ansvar, også
-når det kommer til det digitale i livet. Men det er
-fortsatt viktig at du får og tar imot hjelp fra voksne
-til å finne en balanse mellom tid på skjerm og
-andre viktige aktiviteter i livet.
-Sosiale medier kan være morsomme, lærerike
-og en viktig sosial møteplass. Men det kan også
-være stressende å alltid være pålogget og tilgjengelig. Varsler, algoritmer og egenskaper som
-evig skrolling og autoavspilling gjør at man ofte
-bruker mer tid enn man vil på sosiale medier.
-Å gjøre flere ting samtidig er vanskelig for alle
-mennesker. Å bruke flere digitale medier samtidig gir dårligere læring og konsentrasjon. Hvis du
-skal lese en lang tekst, viser forskning at det er
-bedre å lese den på papir. Mobilen bør også
-legges bort.
-Forskning viser at mye skjermbruk på kvelden
-kan gjøre det vanskeligere å sovne, og at man kan
-få dårligere søvn. Derfor er det viktig å være
-mindre på skjerm før leggetid og om natten. Helst
-bør mobilen din ligge utenfor soverommet, men
-hvis det er vanskelig så bør du i det minste skru
-av varslingene på kvelden og på natta.
-Våre råd til deg som er mellom 13 og 19 år er:
-–
-–
-–
-–
-
-–
-–
-
-Skjermbruk må inngå i et godt balansert liv,
-med nok søvn, tid med venner og familie og
-fysisk aktivitet.
-Når du bruker skjerm – ta pauser. Hvil øynene
-og strekk på kroppen.
-Reduser varslinger, følg aldersgrenser og
-benytt deg av sikkerhetsinnstillinger i appene
-og spillene du bruker.
-Tenk på at plattformer og apper som styres av
-algoritmer kan påvirke hva du gjør, hva du ser
-og hvordan du har det. Du kan endre innstillinger for å påvirke hvilket innhold du ser,
-og du kan slutte å følge profiler som påvirker
-deg negativt.
-Si i fra til en voksen hvis du opplever noe
-skremmende eller ubehagelig på nett.
-Sørg for å ha skjermfrie soner i hverdagen
-både på skolen og hjemme, for eksempel
-knyttet til søvn, måltider og felles aktiviteter
-med venner eller familie.
+- Ansatte i skolen og i barnehagen bør være bevisste på at egen skjermbruk kan virke forstyrrende for lek og læring, og bør begrense bruken av mobiltelefon og andre digitale enheter når de er sammen med barna.

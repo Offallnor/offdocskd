@@ -1,975 +1,176 @@
-# NOU 2020: 3, del 20 av 42 (side 219–229)
+# NOU 2020: 3, del 20 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 219]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-«Uredelig opptreden» vil være andre tilfeller
-enn bruk av falskt vitnemål hvor en student opptrer på en klanderverdig måte for å oppnå en
-urettmessig fordel. Et eksempel på uredelig opptreden er bruk av falsk legitimasjon for å skaffe
-seg adgang til en eksamen. Et annet eksempel
-kan være å få en annen student til å føre ens eget
-navn i fremmøteprotokollen for et kurs med obligatorisk fremmøte.
-For at et vitnemål skal være falskt eller forfalsket, må det enten ha vært uriktig fra starten av
-eller ha blitt endret senere. Et vitnemål som viser
-feil karakter fordi opprinnelig karakter er endret
-uten at det vises på vitnemålet, er ikke et falskt
-dokument. Dette kan være tilfellet hvis en karakter har blitt endret til skade for studenten i forbindelse med at studenten har klaget over den opprinnelige karakteren. Det opprinnelige vitnemålet
-er imidlertid ikke lenger et gyldig vitnemål. Dersom innehaveren bruker det opprinnelige vitnemålet i søknader til universiteter og høyskoler, og
-er klar over at vitnemålet viser feil karakter, vil det
-være «uredelig opptreden».8
-Etter universitets- og høyskoleloven § 4-7
-første ledd må studenten ha «skaffet seg adgang
-til å gå opp til vedkommende eksamen eller prøve,
-eller til å delta i vedkommende kurs». Dette innebærer at dersom en student har skaffet seg
-adgang til et studieprogram ved å bruke falske
-dokumenter, kan alle eksamenene studenten har
-tatt, bli annullert. Hvis studenten har brukt falske
-dokumenter for å skaffe seg adgang til en konkret
-eksamen, vil denne eksamenen bli annullert. Dersom denne eksamenen er et adgangsvilkår for å
-kunne gå opp til andre eksamener, vil også disse
-kunne annulleres.
-Det følger av universitets- og høyskoleloven
-§ 4-7 andre ledd at «godskriving eller godkjenning
-av utdanning eller fritak for eksamen eller prøve»
-også kan annulleres hvis en student har oppnådd
-dette ved bruk av falskt vitnemål eller annen form
-for uredelig opptreden. Dette innebærer at institusjonene kan annullere hele utdanninger og grader
-hvis studenter har brukt falskt vitnemål eller på
-annen måte opptrådt uredelig.
-
-22.3.2 Fusk
-Det følger av universitets- og høyskoleloven § 4-7
-første ledd bokstav b at eksamen, prøve eller godkjenning av kurs kan annulleres «hvis kandidaten
-forsettlig har forsøkt å fuske eller forsettlig eller
-grovt uaktsomt har fusket i forbindelse med gjen-
-
-nomføring av, eller forut for endelig sensur av,
-vedkommende eksamen eller prøve, eller under
-gjennomføring av vedkommende kurs.»
-«Fusk» omfatter de tilfellene hvor en student
-har overtrådt handlingsplikter som følger av
-regelverket ved en institusjon, slik som brudd på
-eksamensreglementet.9 Etter ordlyden er det ikke
-noe krav om uredelig eller uhederlig adferd.10 Det
-skal derfor ikke tolkes inn et subjektivt element i
-fuskebegrepet, men handlinger som åpenbart
-ikke er egnet til å gi kandidaten noen fordel ved
-eksamen faller utenfor.11 Et privat brev uten faglig
-innhold som er gjenglemt i eksamenslokalet vil
-for eksempel falle utenfor bestemmelsen.
-Eksempler på fusketilfeller kan være å ha med
-en jukselapp til eksamenslokalet, gjemme papirer
-på toalettet, bruke andres oppgaver, bruke ulovlige hjelpemidler eller oppgi fiktive kilder. Ulovlige hjelpemidler kan være kalkulator og andre
-digitale hjelpemidler som ikke er tillatt, eller
-andre bøker enn det som er angitt som lovlige
-hjelpemidler.
-Med ny teknologi er det kommet mange nye
-måter å fuske på. I dag er det for eksempel vanlig at studentene må levere fra seg smartklokker
-og telefoner før eksamen starter, fordi disse kan
-brukes til å lagre informasjon på og til å kommunisere med.
-Et annet eksempel på fusk er at studenten ikke
-oppgir kilden til sitat. Uavhengig av om dette er
-gjort bevisst eller ubevisst, anses det som plagiat.
-Manglende kildehenvisning må likevel ha et visst
-omfang for å være «fusk» i lovens forstand.
-Det følger av universitets- og høyskoleloven
-§ 4-7 første ledd bokstav b at fuskingen må gjøres
-«i forbindelse med gjennomføring av» eksamen
-for at den skal få konsekvenser. Dette innebærer
-at fuskingen også kan finne sted før eksamensoppgaven er delt ut. Det følger av rettspraksis at eksamen er i gang idét kontroll av medbrakte hjelpemidler begynner.12 Departementet har lagt til
-grunn at de hjelpemidlene en student legger på
-pulten for kontroll, er de hjelpemidlene studenten
-akter å ha tilgjengelige under eksamen.13 I tillegg
-kan fuskingen skje «forut for endelig sensur».
-Dette innebærer at fuskingen også kan finne sted
-etter at eksamen er avlagt, men før endelig sen-
-
-9
-10
-11
-12
-13
-
-8
-
-Rundskriv F-14/09, kommentar til § 10-1 første ledd.
-
-217
-
-Kapittel 22
-
-Rt. 2015 s. 995.
-Rt. 2015 s. 995.
-Rt. 2015 s. 995.
-Rt. 2015 s. 995.
-Prop. 59 L (2013–2014) Endringer i universitets- og høyskoleloven punkt. 4.2.4.
-
-[Side 220]
-
-218
-
-Kapittel 22
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sur, for eksempel ved at eksamensbesvarelsen blir
-manipulert etter at den er levert.
-Det legges til grunn en meget streng aktsomhetsplikt for studentene ved eksamen.14 De
-fleste institusjonene har et eget eksamensreglement som pålegger studentene å sette seg inn i
-reglene som gjelder for den enkelte eksamen,
-inkludert hvilke hjelpemidler det er tillatt å
-bruke under eksamen.15 Studentene har blant
-annet ansvar for å forsikre seg om at de bare har
-lovlige hjelpemidler liggende på pulten når
-hjelpemiddelkontrollen skal begynne. Til gjengjeld har institusjonene en plikt til å gi studentene informasjon om hvilke hjelpemidler det er
-tillatt å bruke på eksamen.16
-Både forsettlig og grovt uaktsomt fusk kan
-sanksjoneres, jf. universitets- og høyskoleloven
-§ 4-7 første ledd bokstav b. Den nedre grensen for
-fusk er dermed grov uaktsomhet. Forsett foreligger for det første når studenten fusker med
-hensikt.17 Videre foreligger forsett når studenten
-fusker med bevissthet om at handlingen sikkert
-eller mest sannsynlig er fusk, eller når studenten
-holder det for mulig at handlingen er fusk, og velger å handle selv om det skulle være tilfellet.18
-Kravet om grov uaktsomhet innebærer at det må
-foreligge en kvalifisert klanderverdig opptreden
-som gir grunn til sterke bebreidelser for mangel
-på aktsomhet.19
-Forsøk på fusk kan derimot bare sanksjoneres når det er gjort forsettlig, jf. universitets- og
-høyskoleloven § 4-7 første ledd bokstav b. Det
-følger av forarbeidene at kravet er fullbyrdelsesforsett.20 Dette innebærer at det stilles krav om
-at studenten må ha hatt forsett om å fullbyrde
-handlingen. Et forsøk på fusk kan for eksempel
-være at en student plasserer ulovlige hjelpemidler med sikte på at disse skal være tilgjengelige under eksamen, men dette blir oppdaget før
-eksamen begynner.21
-
-14
-
-Prop. 59 L (2013–2014) punkt. 4.2.4.
-Som eksempel: OsloMet. Retningslinjer ved behandling av
-fusk/forsøk på fusk til eksamen ved OsloMet punkt 2
-https://student.oslomet.no/retningslinjer-fusk-eksamen
-hentet 17.1.2020.
-16
-OsloMet. Retningslinjer ved behandling av fusk/forsøk på
-fusk til eksamen ved OsloMet punkt 2.
-17
-Lov 20. mai 2005 om straff (straffeloven) § 22 første ledd
-bokstav a.
-18
-Straffeloven § 22 første ledd bokstav b og c.
-19
-Jf. straffeloven § 23; Rt. 2015 s. 995.
-20
-Ot.prp. nr. 40 (2001–2002) Om lov om endringer i lov 12.
-mai 1995 nr. 22 om universiteter og høgskoler og lov 2. juli
-1999 nr. 64 om helsepersonell s. 76.
-21
-Ot.prp. nr. 40 (2001–2002) s. 54.
-15
-
-22.3.3 Annullering
-Det er «styret selv eller institusjonens klagenemnd» som kan treffe vedtak om annullering, jf.
-universitets- og høyskoleloven § 4-7 første ledd.
-Departementet eller særskilt klageorgan er klageinstans, jf. universitets- og høyskoleloven § 4-7
-tredje ledd. Annullering innebærer at resultatet
-nulles ut, og studenten stilles som om vedkommende ikke hadde gått opp til eksamen eller tatt
-kurset.22
-I tillegg til å annullere eksamen og kurs har
-institusjonen anledning til å annullere «prøve». En
-«prøve» er et innlevert arbeid eller utført praksis
-som inngår som et tellende element i det aktuelle
-utdanningsprogrammet, eller som er et obligatorisk vilkår for å delta i dette.
-Bestemmelsen gjelder handlinger gjort av
-«kandidaten». Dette innebærer at bestemmelsen
-gjelder for både studenter og ph.d.-kandidater.
-Bestemmelsen gjelder dermed også for opptak til
-doktorgradsprogrammet og godkjenning av ulike
-typer prøving eller praksis i den forbindelse. For
-nærmere redegjørelse om ph.d.-kandidater, se
-kapittel 25.
-Å annullere en godkjenning av kurs er aktuelt
-hvis kurset er obligatorisk eller gir en annen form
-for eksamens- eller prøverelatert uttelling. Annullering innebærer at studenten ikke får godskrevet
-kurset.
-Annullering som reaksjonsform kan bare
-benyttes overfor en student som prøver å oppnå
-en fordel ved å fuske. Både studenten selv og
-andre studenter som forsettlig medvirker til fusk,
-kan straffes med utestenging etter universitets- og
-høyskoleloven § 4-8 tredje ledd.
-Det følger av § 4-7 første og andre ledd at en
-eksamen «kan» annulleres. Styret selv eller institusjonens klagenemnd er tillagt et forvaltningsskjønn, og må foreta en konkret helhetsvurdering
-av om en eksamen skal annulleres hvis vilkårene
-for annullering er oppfylt. Den aktuelle eksamenen blir derfor ikke automatisk annullert. Eksamener og prøver hvor det er konstatert at studenter har fusket vil normalt bli annullert. I enkelte
-tilfeller vil likevel forholdets art og omfang kunne
-tilsi at eksamensresultatet blir stående selv om det
-er påvist forhold som medfører at en eksamen i
-utgangspunktet kunne annulleres.23
-Et vedtak om annullering er tvangsgrunnlag,
-jf. universitets- og høyskoleloven § 4-7 femte
-22
-23
-
-NOU 1993: 24 Lov om universiteter og høgskoler. Lov og rett i
-Norgesnett s. 190.
-Ot.prp. nr. 85 (1993–94) Om lov om høgre utdanning s. 80.
-
-[Side 221]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-ledd.24 Institusjonen kan ved behov få bistand av
-namsmannen til inndrivelse. Tvangsinndrivelsen
-kan også omfatte eventuelle kopier eller attesterte
-utskrifter.
-Det følger av bestemmelsens sjette ledd at
-hvis vitnemålet kan danne grunnlag for autorisasjon for yrkesutøving, typisk innenfor helsefag,
-har institusjonen plikt til å gi melding om annullering til vedkommende myndighet.
-Institusjonens klagenemnd kan også vedta å
-utestenge studenten fra institusjonen og frata vedkommende retten til å gå opp til eksamen ved
-institusjoner som er omfattet av universitets- og
-høyskoleloven i inntil ett år, jf. universitets og
-høyskoleloven § 4-8 tredje ledd.
-Et vedtak om å annullere eksamen er begrenset til den eksamenen eller prøven som det irregulære forholdet knytter seg til. Det er ikke adgang
-til å annullere andre eksamener på grunn av mistanke, eller av preventive grunner.
-Adgangen til annullering foreldes ikke, jf. universitets- og høyskoleloven § 4-7 fjerde ledd. Dette
-innebærer at en utdanning potensielt kan annulleres flere år etter at studenten er ferdig med
-utdanningen, for eksempel dersom vedkommende brukte falskt vitnemål for å komme inn på
-utdanningen.
-
-22.3.4 Medvirkning til fusk
-Medvirkning til fusk reguleres av universitets- og
-høyskoleloven § 4-8 tredje ledd. Det følger av
-bestemmelsen at en kandidat som forsettlig har
-medvirket til handlingene beskrevet i universitetsog høyskoleloven § 4-7 første og andre ledd, kan
-utestenges fra institusjonen. I tillegg kan den som
-har medvirket, fratas retten til å gå opp til eksamen ved institusjoner som er omfattet av universitets- og høyskoleloven i inntil ett år. Det er altså
-ikke anledning til å annullere eksamener for den
-som har medvirket.25 Med «kandidat» menes
-både studenter og ph.d.-kandidater. Se nærmere
-omtale i kapittel 25.
-Denne bestemmelsen skiller seg fra bestemmelsene i universitets- og høyskoleloven § 4-8 første og andre ledd, som hovedsakelig er begrunnet
-i beskyttelseshensyn. Medvirkning til fusk regnes
-som et grovt tillitsbrudd, og sanksjoneres ut fra
-allmennpreventive hensyn.
-For at en kandidat skal få en slik straff, må
-vedkommende ha medvirket «forsettlig». Medvirkeren må dermed med hensikt ha medvirket til
-
-fusk.26 Det foreligger også forsett dersom medvirkeren har medvirket til fusk med bevissthet om
-at handlingen sikkert eller mest sannsynlig er
-medvirkning til fusk, eller dersom medvirkeren
-holder det for mulig at handlingen er medvirkning
-til fusk, og velger å handle selv om det skulle være
-tilfellet.27 Den nedre grensen for medvirkning til
-fusk er forsett, og grensen er dermed høyere enn
-ved fusk, hvor den nedre grensen er grov uaktsomhet.
-Bakgrunnen for at det stilles krav om forsettlig medvirkning er at det ved forsøk på fusk kan
-være vanskelig å vurdere om det foreligger
-skyld. Bestemmelsen er ment å ramme for
-eksempel tilfeller der en student har lånt bort en
-oppgave i den hensikt å hjelpe en annen student
-til å levere en plagiert oppgave. Medvirkning kan
-også være at en student har lånt bort besvarelsen
-sin til en medstudent som kopierer besvarelsen,
-uten at studenten som lånte bort oppgaven,
-ønsket å medvirke til fusk. Det siste tilfellet vil
-ikke være medvirkning til fusk som rammes av
-bestemmelsen, fordi medvirkeren ikke handlet
-med forsett.
-En sak fra Sverige handlet om at en student
-stilte til eksamen, og fikk svarene lest opp av en
-medvirker via en mikrofon i et smykke og en øreplugg i øret.28 Medvirkning kan også være at en
-student ved avleggelsen av en eksamen gir seg ut
-for å være en annen eksamenskandidat, for
-eksempel ved å vise falsk identifikasjon eller logge
-seg på med studentens brukeridentitet, hvis det
-dreier seg om en elektronisk eksamen. Denne
-problemstillingen kan bli mer aktuell når flere
-eksamener er nettbaserte. I dette tilfellet kan
-medvirkeren bli utestengt og fratatt retten til å gå
-opp til eksamen. Studenten selv kan bli utestengt,
-få sin eksamen annullert og bli fratatt retten til å
-gå opp til eksamen.
-Ettårsfristen for tap av retten til å gå opp til
-eksamen regnes fra vedtak er truffet. Det er med
-andre ord tale om tap av mulighet til å avlegge
-eksamen i inntil to semestre.29
-
-22.3.5 Klanderverdig oppførsel
-22.3.5.1 Innledning
-Institusjonene kan på visse vilkår bortvise eller
-utestenge en student, jf. universitets- og høyskole26
-27
-
-24
-25
-
-Ot.prp. nr. 85 (1993–94) s. 80.
-Ot.prp. nr. 85 (1993–94) s. 80.
-
-219
-
-Kapittel 22
-
-28
-29
-
-Straffeloven § 22 første ledd bokstav a.
-Straffeloven § 22 første ledd bokstav b og c.
-Norrköpings tingsrätt. Dom meddelad den 17. januari 2019.
-Ot.prp. nr. 85 (1993–94) s. 70.
-
-[Side 222]
-
-220
-
-Kapittel 22
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-loven § 4-8. Da universitetsloven av 1995 ble vedtatt, kom bortvisning inn som en ny reaksjonsform.30 Bortvisning er ment å være et mildere og
-mer nyansert virkemiddel enn utestenging.31 Utestenging fører til full utestenging fra hele institusjonen, mens en bortvisning kan gjelde for nærmere bestemte områder ved institusjonen.
-I kraft av den private eiendomsretten har institusjonene rett til å bortvise studenter ved enkelthendelser på universitetsområdet. Det kan for
-eksempel være snakk om hærverk eller plagsom,
-truende eller skadelig adferd mot medstudenter
-eller andre. I tillegg følger det av straffeprosessloven32 § 176 at enhver kan foreta en pågripelse
-dersom de tar en mistenkt på fersk gjerning, men
-at den pågrepne straks skal overgis til politiet.33En institusjon kan derfor holde igjen en student som mistenkes for å ha gjort noe straffbart
-og tas på fersk gjerning, frem til politiet kommer.
-Institusjonene kan også etablere vakthold som
-skal beskytte personer eller eiendom.34
-Handlinger som er gjort i nødverge og nødrett, vil
-alltid være lovlige.35 Privat eiendomsrett, straffeprosessloven § 176, nødrett og nødverge er rettslige grunnlag institusjonene kan benytte for å
-bortvise en person i en enkeltsituasjon. Disse
-grunnlagene kan imidlertid ikke hjemle mer inngripende midler, for eksempel det å bortvise en
-student i en lengre periode. Myndighetene må ha
-hjemmel i lov for å beslutte mer inngripende tiltak
-overfor studentene. Det følger av legalitetsprinsippet.36 Dersom en institusjon mener det er nødvendig å bortvise en student i en kortere eller
-lengre periode, må institusjonen anvende universitets- og høyskoleloven § 4-8.
-
-22.3.5.2 Grovt forstyrrende opptreden
-Det følger av universitets- og høyskoleloven § 4-8
-første ledd at en student som tross skriftlig advarsel gjentatte ganger opptrer på en måte som vir30
-
-Lov 12. mai 1995 nr. 22 om universiteter og høgskoler (universitetsloven).
-31
-Ot.prp. nr. 85 (1993–94) s. 69.
-32
-Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker
-(straffeprosessloven).
-33
-Straffeprosessloven § 176:
-Når det er fare ved opphold, kan politimann foreta pågripelse
-uten beslutning av retten eller av påtalemyndigheten. Det
-samme gjelder enhver annen dersom den mistenkte treffes
-eller forfølges på fersk gjerning eller ferske spor.
-Den som uten å høre til politiet har foretatt en pågripelse, skal
-straks overgi den pågrepne til politiet.
-34
-Lov 4. august 1995 nr. 53 om politiet (politiloven) § 26.
-35
-Straffeloven §§ 17 og 18.
-36
-Kongeriket Norges Grunnlov 17. mai 1814 § 113.
-
-ker grovt forstyrrende for medstudenters arbeid
-eller for virksomheten ved institusjonen, kan
-bortvises fra institusjonen i inntil ett år.
-Oppførselen må være «grovt forstyrrende for
-medstudenters arbeid eller for virksomheten ved
-institusjonen». I dette ligger at det må foreligge en
-kvalifisert form for avvikende adferd som påvirker
-læringsmiljøet og det psykososiale miljøet. Det
-kan dreie seg om aggressiv eller plagsom opptreden som ødelegger arbeidsmiljøet for medstudenter og ansatte.37
-Oppførselen må videre ha skjedd «gjentatte
-ganger». Studenten må altså ha utvist grovt klanderverdig opptreden mer enn én gang for at
-bestemmelsen skal få anvendelse. På den annen
-side holder det at slik opptreden har funnet sted
-to ganger for at vilkåret anses oppfylt.
-Det er et vilkår at studenten må ha mottatt en
-skriftlig advarsel før studenten kan bortvises.
-Styret kan delegere myndighet til å gi advarselen
-til andre ved institusjonen. Advarselen må opplyse
-om at bortvisning eller utestenging vil kunne bli
-aktuelt hvis studenten fortsetter med den forstyrrende adferden.
-Studenten kan bortvises fra «nærmere
-bestemte områder ved institusjonen». Bortvisningen er begrenset til de områdene hvor den
-klanderverdige oppførselen har forekommet.
-Eksempler på områder kan være bestemte forelesninger, laboratorieundervisning, lesesalene,
-undervisningen i sin alminnelighet eller fellesområder.
-En student som er bortvist, har fortsatt rett til
-å gå opp til eksamen. Bortvisningen kan imidlertid gjelde obligatorisk undervisning som er et vilkår for å gå opp til eksamen. Slik bortvisning vil
-ha den praktiske betydning at studenten mister
-retten til å ta eksamen. En student som oppfører
-seg på en slik måte at det forstyrrer eksamensavviklingen kan alltid vises bort fra eksamenslokalet, men dette er ikke bortvisning etter universitets- og høyskoleloven § 4-8.38
-Bortvisning kan få den samme praktiske
-konsekvensen som utestenging fordi bortvisningen kan føre til at det er praktisk umulig for
-studenten å fortsette studier uten adgang til de
-aktuelle områdene, for eksempel sykehus eller
-laboratorier.39 I vurderingen av om bortvisning
-skal iverksettes må slike forhold tas hensyn til.
-Institusjonen har mulighet til først å iverksette et
-begrenset bortvisningsvedtak, for deretter å
-37
-38
-39
-
-Ot.prp. nr. 85 (1993–94) merknad til § 42.
-Ot.prp. nr. 85 (1993–94) s. 69.
-Ot.prp. nr. 85 (1993–94) s. 69.
-
-[Side 223]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-ilegge en mer omfattende bortvisning dersom det
-første vedtaket ikke har hatt ønsket effekt.
-Etter § 4-8 første ledd siste setning har institusjonen anledning til å utestenge en student hvis
-studenten ikke respekterer bortvisningsvedtaket,
-og har fått ny skriftlig advarsel. Utestenging bør
-imidlertid være siste utvei og skal ikke benyttes
-før studenten har fått en ny skriftlig advarsel som
-opplyser om at utestenging kan bli følgen dersom
-han eller hun ikke retter seg etter bortvisningsvedtaket.
-I tillegg kan institusjonen frata studenten retten til å gå opp til eksamen dersom studenten ikke
-respekterer bortvisningsvedtaket og har fått en ny
-advarsel, jf. universitets- og høyskoleloven § 4-8
-første ledd. At studenten blir fratatt retten til å gå
-opp til eksamen, innebærer at studenten heller
-ikke kan gå opp til eksamen ved en annen institusjon i utestengingstiden.40
-Det er styret eller institusjonens klagenemd
-som treffer vedtak om bortvisning eller utestenging. Det følger av bestemmelsen at institusjonen
-«kan» bortvise eller utestenge. Institusjonen må
-vurdere alvoret i den aktuelle handlingen og
-avpasse graden og varigheten av vedtaket etter
-forholdet. Hensikten med bestemmelsen er å
-beskytte medstudenter og ansatte, ikke å ilegge
-studenten en straff. Vedtaket bør ikke være mer
-omfattende enn nødvendig for å ivareta dette hensynet. Hensynet til medstudenter og ansatte må
-veies opp mot den belastning et vedtak utgjør for
-studenten.
-
-22.3.5.3 Utestenging fra studier med klinisk
-undervisning og praksisstudier
-En student som grovt klanderverdig har opptrådt
-på en slik måte at det er skapt fare for liv eller
-helse for en nærmere definert persongruppe, gjør
-seg skyldig i grove brudd på taushetsplikten eller
-opptrer grovt usømmelig overfor bestemte persongrupper, kan utestenges fra studier med klinisk undervisning og praksisstudier, jf. universitets- og høyskoleloven § 4-8 andre ledd. Bestemmelsen har blitt kritisert.41
-Etter denne bestemmelsen kan institusjonen
-utestenge en student i tre ulike situasjoner. For
-det første kan en student utestenges dersom vedkommende har opptrådt «på en slik måte at det er
-skapt fare for liv eller helse for pasienter, brukere,
-barnehagebarn, elever eller andre som studenten
-40
-41
-
-Ot.prp. nr. 85 (1993–94) s. 70.
-Taraldrud, Karen Eg. Skikkethetsvurdering i høyere utdanning. Lov og rett 10/2016 (volum 55) s. 624–639.
-
-221
-
-Kapittel 22
-
-har å gjøre med som del i klinisk undervisning
-eller praksisstudier.» For det andre kan en student
-utestenges dersom vedkommende «gjør seg skyldig i grove brudd på taushetsplikt.» Den siste situasjonen er der en student gjør seg skyldig i «grovt
-usømmelig opptreden» overfor pasienter, brukere, barnehagebarn, elever eller andre som studenten har å gjøre med som del i klinisk undervisning eller praksisstudier.
-Bestemmelsen omfatter tilfeller som er så
-grove at institusjonen skal kunne reagere med en
-fullstendig utestenging fra studiet for et tidsrom
-som er tilpasset handlingens grovhet. Det forutsettes at det i vurderingen tas tilbørlig hensyn til
-om det gjelder et enkeltstående forhold som kan
-tilskrives helt spesielle omstendigheter, eller om
-det gjelder graverende opptreden som avspeiler
-alvorlig svikt i dømmekraft eller ansvarsfølelse.42
-Hensikten bak bestemmelsen er å sikre at pasienter, klienter, barnehagebarn og elever som kommer i kontakt med studenter i praktisk opplæring,
-har samme vern mot overtredelser som de har i
-kontakt med profesjonelle yrkesutøvere.
-Institusjonen har også anledning til å frata studenten retten til å gå opp til eksamen ved alle institusjoner som er omfattet av universitets- og høyskoleloven i studier med klinisk undervisning og
-praksisstudier, jf. § 4-8 andre ledd.
-Etter § 4-8 andre ledd siste setning skal institusjonen informere Helsedirektoratet om utestengingen. Plikten gjelder bare utestenging av
-studenter som følger utdanninger som kan utløse
-rett til autorisasjon etter helsepersonelloven43
-§ 48 første ledd.
-
-22.3.6 Vedtak, RUST og advokatkostnader
-Et vedtak om bortvisning eller utestenging kan
-treffes enten av styret selv eller av institusjonens
-klagenemnd. Vedtak om bortvisning eller utestenging treffes med minst to tredjedels flertall. Det er
-departementet eller et særskilt klageorgan oppnevnt av departementet, jf. universitets- og høyskoleloven § 5-1, som er klageinstans.
-Vedtak om bortvisning og utestenging skal
-registreres i RUST (Register for utestengte studenter), jf. universitets- og høyskoleloven § 4-12
-andre ledd. Formålet med RUST er å hindre at en
-student eller søker som har mistet rettigheter som
-følge av et vedtak, for eksempel om utestenging,
-42
-43
-
-Ot.prp. nr. 85 (1993–94) s. 69.
-Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven).
-
-[Side 224]
-
-222
-
-Kapittel 22
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-får slike rettigheter ved en annen institusjon, jf.
-RUST-forskriften44 § 2.
-Studentens rett til å få utgifter til advokat dekket av institusjonen er omtalt i kapittel 24.
-I tillegg til disse bestemmelsene har universitets- og høyskoleloven to bestemmelser om utestenging i §§ 4-9 og 4-10. Disse gjelder utestenging på grunn av straffbare forhold og utestenging fordi studenten er vurdert som uskikket til
-yrket, og er nærmere omtalt i kapittel 23.
-
-22.4 Utvalgets vurderinger
-22.4.1 Annullering av eksamen eller prøve
-Utvalget understreker at reglene om sanksjoner
-ved fusk og bruk av falske papirer er viktige for å
-sikre at samfunnet har tillit til systemet for høyere
-utdanning. Reglene er med på å underbygge og
-verifisere at prøver og eksamener er riktige, og at
-de faktisk gjenspeiler en students kompetanse.
-Samfunnet skal kunne stole på at eksamener og
-prøver er avlagt uten at studenten har fusket.
-Reglene om sanksjonsmuligheter ved fusk
-skal virke preventivt og reparerende. Studentene
-har en plikt til å sette seg inn i reglene, og institusjonene skal sørge for at studentene får informasjon om reglene. Bestemmelsene bør derfor være
-utformet på en måte som setter studentene i stand
-til å vite hva som blir ansett som fusk eller utilbørlig adferd.
-Reaksjonsformen etter dagens § 4-7 er å annullere eksamener eller prøver der en student har
-fusket. Utvalget mener dette er en forholdsmessig
-reaksjon ettersom det er fare for at prøver og
-eksamener som studenten har fusket under gjennomføringen av, ikke gjenspeiler studentens
-reelle ferdigheter. Samfunnet skal kunne stole på
-at beståtte eksamener er gjennomført uten at
-studenten har fusket. Utvalget foreslår derfor å
-videreføre bestemmelsen om fusk, men med
-enkelte justeringer.
-Slik bestemmelsen er utformet i dag fremstår
-den som vanskelig tilgjengelig fordi alle reaksjonsformene ved fusk ikke finnes i samme
-bestemmelse. Utvalget foreslår derfor enkelte
-strukturelle endringer i lovteksten, som ikke innebærer realitetsendringer. Utvalget foreslår for det
-første å samle reglene om fusk og bruk av falske
-dokumenter under studiet i én bestemmelse.
-Reglene om reaksjonsmulighetene ved å medvirke til fusk, og at fusk også kan føre til ute44
-
-Forskrift 27. juni 2016 nr. 820 om register for utestengte
-studenter – RUST.
-
-stenging og muligheten til å frata retten til eksamen, foreslås flyttet fra gjeldende § 4-8 til en ny
-bestemmelse om falskt vitnemål og fusk ved eksamen, prøve eller godkjenning av kurs. I tillegg
-foreslår utvalget enkelte endringer i bestemmelsens ordlyd. Disse er bare ment som språklige forenklinger.
-Utvalget foreslår også å endre ordlyden i
-bestemmelsen fra «kandidat» til «student.» At
-«kandidat» og «student» brukes om hverandre
-bidrar til at det er uklart hvem bestemmelsen gjelder for. Da ordlyden i sin tid ble endret fra «student» til «kandidat», var det for å få frem at
-bestemmelsene også gjaldt ph.d.-kandidater.45
-Utvalget mener derimot at dette ikke kommer
-klart frem, særlig fordi enkelte bestemmelser har
-ordet «student» i seg, selv om ph.d.-kandidater
-også skal være omfattet. Utvalget foreslår en egen
-bestemmelse for ph.d.-kandidater som presiserer
-hvilke bestemmelser som gjelder for dem, se
-kapittel 25.
-Erfaringer viser at ulike tilfeller av fusk er av
-svært ulik karakter, og utvalget mener det bør
-være rom for mer varierte og tilpassede sanksjoner. Slik bestemmelsen er utformet i dag har institusjonene anledning til å utestenge studenter i
-inntil ett år. I praksis innebærer dette at studentene vil bli utestengt i enten ett semester eller ett
-år. Det er etter utvalgets mening vanskelig å gjenspeile de ulike tilfellene av fusk og grovheten i
-disse i sanksjonene. Realiteten er også at det å bli
-utestengt i ett semester i praksis ofte innebærer å
-bli utestengt i ett år fordi studenten ikke kan
-starte på igjen etter ett semester på grunn av obligatoriske emner og forkunnskapskrav. Utvalget
-foreslår å innføre en regel om at utestenging kan
-gjøres i inntil to år, slik at de ulike gradene av fusk
-bedre kan gjenspeiles i sanksjonen. Dersom en
-student for eksempel fusker flere ganger, vil institusjonen ha anledning til å utestenge vedkommende i to år.
-Utvalget foreslår også å legge til i bestemmelsen om fusk og falskt vitnemål at bruk av falske
-vitnemål under studiet skal politianmeldes av
-institusjonen. Institusjonene har allerede en tilsvarende plikt til å anmelde dersom en søker bruker
-falskt vitnemål ved opptak.
-Videre foreslår utvalget å skille ut reglene om
-vedtaksmyndighet, klageinstans og dekning av
-utgifter til advokatbistand i egne bestemmelser.
-Felles bestemmelser om dette vil etter forslaget
-45
-
-Ot.prp. nr. 71 (2008–2009) Om lov om endringer i lov 1.
-april 2005 nr. 15 om universiteter og høyskoler s. 23.
-
-[Side 225]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-gjelde i alle tilfellene hvor loven har gitt institusjonene en sanksjonsmulighet.
-
-22.4.2 Falskt vitnemål ved opptak
-I dagens lov står bestemmelsene om bruk av
-falskt vitnemål ved opptak i § 3-7 sjette til åttende
-ledd. Utvalget mener at reguleringen av sanksjoner ved bruk av falskt vitnemål flere ulike steder i
-loven bidrar til en uoversiktlig lov. Bestemmelser
-som gir institusjonene anledning til å pålegge studentene en sanksjon bør være lett tilgjengelig for
-studentene, særlig fordi studentene har en plikt til
-å kjenne til bestemmelsene og sette seg inn i dem.
-Utvalget foreslår derfor å flytte bestemmelsene om bruk av falskt vitnemål ved opptak inn i
-en ny egen bestemmelse, og plassere den
-sammen med de andre bestemmelsene som regulerer sanksjoner. Lovforslaget inneholder også
-noen språklige justeringer som ikke innebærer
-materielle endringer. Utvalget foreslår et nytt
-kapittel i universitets- og høyskoleloven som vil
-hete «Sanksjoner ved uønsket adferd». Alle
-bestemmelsene som gir institusjonene en sanksjonsmulighet overfor studentene, vil bli plassert i
-dette kapittelet. Hensikten er å gjøre loven mer
-brukervennlig.
-22.4.3 Utestenging og bortvisning
-Utvalget har mottatt en rekke innspill fra institusjonene om at dagens bestemmelser er tungvinte
-å praktisere, og at det oppstår mange situasjoner
-hvor dagens § 4-8 i universitets- og høyskoleloven
-er vanskelig å anvende. I mange av tilfellene hvor
-det er behov for å vise bort en person umiddelbart, er det ikke alltid nødvendig å tilkalle politiet.
-Det kan for eksempel gjelde mer akutte situasjoner med rus eller utagerende adferd, eller der personen bare forstyrrer medstudenter. Institusjonen
-har med hjemmel i den private eiendomsretten
-anledning til å gripe inn i slike akutte situasjoner
-og be den det gjelder om å forlate området. I tillegg har institusjonen anledning til å holde igjen
-en student med makt, men uten å skade vedkommende, frem til politiet kommer, se punkt 22.3.5.1.
-Vilkårene for bortvisning og utestenging av en
-student er strenge ved at det kreves gjentatte
-handlinger og skriftlige advarsler før styret eller
-klagenemnda kan treffe vedtak om bortvisning
-eller utestenging. Et vedtak om bortvisning eller
-utestenging i en lengre periode er svært inngripende overfor studenten, og saksbehandlingsreglene er derfor strenge. Formålet med bestemmelsen etter første ledd er å beskytte medstuden-
-
-223
-
-Kapittel 22
-
-ter og ansatte fra grovt forstyrrende og aggressiv
-opptreden, mens formålet med andre ledd er å
-beskytte en særskilt gruppe mennesker som studenten har kontakt med i klinisk undervisning
-eller praksisopplæring. Utvalget foreslår derfor å
-videreføre bestemmelsen, med enkelte justeringer.
-For det første foreslår utvalget å dele bestemmelsen opp i to bestemmelser, slik at én bestemmelse gjelder forstyrrende og grovt forstyrrende
-opptreden og en annen bestemmelse gjelder grovt
-klanderverdig opptreden. Bakgrunnen for forslaget er at utvalget mener dagens bestemmelse
-er uoversiktlig. Videre foreslår utvalget å formulere bestemmelsene noe annerledes, uten at dette
-innebærer en realitetsendring. Formålet er å gjøre
-bestemmelsene lettere å forstå og mer brukervennlige.
-I den nye bestemmelsen om grovt forstyrrende opptreden foreslår utvalget å presisere i
-ordlyden at institusjonen kan bortvise en student
-dersom opptredenen fortsetter etter at studenten
-har fått en advarsel. Det er dermed tilstrekkelig
-med én ny handling som kan karakteriseres som
-grovt forstyrrende, for at studenten skal kunne
-bortvises. Slik bestemmelsen er utformet i § 4-8
-første ledd er det usikkert om dette kan tolkes
-direkte ut fra bestemmelsen, ettersom ordlyden
-tilsier at det også etter advarselen må være flere
-hendelser. Utvalget mener det ikke skal kreves at
-det har skjedd flere hendelser etter at advarsel er
-gitt, før vedtak om bortvisning kan treffes. Utvalget foreslår derfor å presisere i bestemmelsen at
-«bortvisning kan vedtas for inntil ett år hvis studenten opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid eller for virksomheten ved institusjonen ellers, og opptredenen fortsetter tross skriftlig advarsel fra styret».
-Erfaring viser at det ofte er psykiske problemer som ligger bak oppførsel som rammes av
-dagens § 4-8. Utvalget understreker at institusjonen i slike situasjoner bør henvise studenten til
-aktuelle helsetilbud ved studentsamskipnaden.
-Utvalget har også fått innspill om at bestemmelsen passer dårlig for tilfeller av uønsket
-adferd som er mindre alvorlig, men som likevel
-krever at institusjonen griper inn av hensyn til
-undervisningen, andre studenter og ansatte. Det
-kan være studenter som snakker sammen eller
-som avbryter undervisningen på annen måte,
-eventuelt gjentatte ganger, eller som ønsker å
-trakassere en foreleser. Utvalget mener at slik
-oppførsel faller utenfor det som bestemmelsen er
-ment å ramme. Utvalget foreslår derfor å innføre
-et nytt første ledd i bestemmelsen som omhand-
-
-[Side 226]
-
-224
-
-Kapittel 22
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-ler denne typen adferd. Utvalget mener, basert
-på tilbakemeldingene utvalget har mottatt, at det
-er gode grunner til å presisere i loven at institusjonene har anledning til å bortvise en student
-eller annen person dersom personen opptrer på
-en måte som er forstyrrende for andre studenter
-og for undervisningssituasjonen. Utvalget vil
-imidlertid understreke at i mange slike tilfeller
-vil privat eiendomsrett være en tilstrekkelig
-hjemmel for bortvisning. Ettersom studentene
-har en rett til utdanningen de er tatt opp på og
-universiteter er offentlige steder, bør den forstyrrende adferden passere en viss terskel før den
-fører til bortvisning. Lovbestemmelsen er tatt inn
-for å presisere at institusjonen har et handlingsrom for umiddelbare tiltak mot adferd som i
-alvorlighetsgrad er mildere enn tilfellene dagens
-bestemmelse i § 4-8 er ment å ramme. Utvalget
-understreker også at ved bortvisning over en lengre periode er gjeldende § 4-8 første ledd rett
-hjemmel. Det vil være de som underviser eller
-de som har ansvaret for områder der studentene
-driver med selvstudium som har myndighet til å
-bortvise etter bestemmelsen. En beslutning om å
-bortvise på grunn av forstyrrende adferd vil ikke
-være å anse som et enkeltvedtak, og vil derfor
-ikke utløse klagerett. Utvalget viser til at slik
-bortvisning er så lite inngripende overfor studenten at det ikke er naturlig å si at den er bestemmende for studentens rettigheter og plikter, jf.
-forvaltningsloven § 2. Dessuten passer forvaltningslovens saksbehandlingsregler dårlig i slike
-saker. Bestemmelsene i forvaltningsloven om
-forhåndsvarsel eller retten til å klage vil være
-vanskelige å praktisere. Utvalget legger til grunn
-at det må trekkes en nedre grense for hvilke inngrep som er å regne for enkeltvedtak etter forvaltningsloven. I forbindelse med bortvisning fra
-undervisningen i skolen er det i juridisk teori
-lagt til grunn at bortvisning for mindre enn én
-dag ikke er enkeltvedtak.46
-
-22.4.4 Vedtaksmyndighet og klageinstans
-Etter gjeldende universitets- og høyskolelov §§ 4-8
-og 4-10 skal vedtak treffes med minst to tredjedels
-flertall. Den ulovfestede hovedregelen i forvaltningsretten er at simpelt flertall er tilstrekkelig for
-å treffe et vedtak.
-Utvalget mener at et krav om kvalifisert flertall
-bør ha en særskilt begrunnelse. Et vedtak om å
-utestenge en student er en streng reaksjon over46
-
-Helgeland, Geir. Opplæringslova. Lovkommentar. 3. utgave.
-Oslo: Universitetsforlaget, 2018 s. 236–237.
-
-for studenten. Dette kan tale for at det bør kreves
-to tredjedels flertall. På den annen side stilles det
-ikke krav om to tredjedels flertall når det treffes
-vedtak om annullering eller om å utestenge en
-student fra praksis som følge av anmerkninger på
-politiattesten, jf. universitets- og høyskoleloven
-§§ 4-7 og 4-9. Disse sanksjonene er mildere enn
-full utestenging, men kan ofte føre til samme eller
-lignende konsekvenser som full utestenging. Utestenging fra praksis fører for eksempel til at studenten ikke kan få vitnemål, ettersom praksisdelen av studiet ikke vil være bestått, jf. opptaksforskriften § 6-7.
-Utvalget understreker at det er de materielle
-vilkårene i bestemmelsene som skal sikre forutsigbarhet for studentene og bidra til mindre vilkårlige vedtak, ikke saksbehandlingsbestemmelser om kvalifisert flertall. Utvalget mener derfor
-at det ikke er gode grunner for å beholde kravet
-om to tredjedels flertall for vedtak etter universitets- og høyskoleloven §§ 4-8 og 4-10. Utvalget
-foreslår at kravet om to tredjedels flertall ikke blir
-videreført i den nye bestemmelsen om vedtaksmyndighet og klageinstans.
-Etter universitets- og høyskoleloven § 4-8
-tredje ledd er det bare «institusjonens klagenemnd» som kan vedta å utestenge studenter og
-frata dem retten til å gå opp til eksamen når de har
-fusket eller medvirket til dette. Selv om det ved
-mange institusjoner vil være mest praktisk at
-klagenemnda treffer slike vedtak, ser ikke utvalget gode grunner til at ikke «styret selv» også kan
-vedta dette, når styret har vedtaksmyndighet etter
-alle de andre bestemmelsene hvor en sanksjon
-kan ilegges. At det bare er institusjonens klagenemd som kan treffe akkurat disse vedtakene blir
-derfor ikke foreslått videreført.
-
-22.4.5 Tap av rett til å gå opp til eksamen
-Utvalget mener reguleringen av muligheten til å
-frata en student retten til å gå opp til eksamen er
-uklar, fordi den står under bestemmelsen om utestenging i § 4-8 tredje ledd. Det er særlig uklart
-om dette er en separat sanksjon, eller om det å bli
-utestengt alltid fører til at studenten taper retten
-til å gå opp til eksamen ved institusjonen studenten er utestengt fra.
-Tidligere forarbeider har presisert at utestenging ikke innebærer tap av retten til å gå opp
-til eksamen etter universitets- og høyskoleloven
-§ 4-8.47 Ut fra dette er tap av retten til å gå opp til
-eksamen en separat sanksjon, adskilt fra utesten47
-
-NOU 1993: 24 s. 174–175; Ot.prp. nr. 85 (1993–94) s. 69.
-
-[Side 227]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-ging. Å bli utestengt etter denne bestemmelsen
-fører dermed ikke til at studenten også taper retten til å ta eksamen ved institusjonen vedkommende er tatt opp til.
-I tidligere forarbeider er det også presisert at
-det å frata en student retten til å gå opp til eksamen «skal hindre at en student som er utvist fra
-en institusjon under loven, kan gå opp til eksamen
-ved en annen institusjon i utestengingstiden».48
-Dette ble presisert i forbindelse med innføringen
-av muligheten for å frata studenter retten til å gå
-opp til eksamen ved fusk og medvirkning til fusk.
-Det ble derimot ikke sagt i den forbindelse at det å
-bli utestengt fører til at studenten taper retten til å
-ta eksamen ved sin egen institusjon, og presiseringen i forarbeidene gjelder bare retten til å ta
-eksamen ved en annen institusjon.
-Uttalelsene i forarbeidene om at utestenging
-ikke innebærer tap av retten til å gå opp til eksamen, og at denne sanksjonen fører til at studenten
-ikke kan gå opp til eksamen ved en annen institusjon, fremstår for utvalget som uklare. Dersom
-dette tolkes direkte, innebærer det at sanksjonen
-fører til utestenging og tap av retten til å gå opp til
-eksamen ved andre institusjoner, men ikke ved
-ens egen. Utvalget mener det må være klart at
-bestemmelsen ikke kan tolkes slik, og at studenten også fratas retten til å ta eksamen ved sin egen
-institusjon.
-Ordlyden i dagens bestemmelse, som er «fratas retten til å gå opp til eksamen ved institusjoner
-under denne lov», innebærer klart at studenten
-også fratas retten til å ta eksamen ved sin egen
-institusjon. Det er også sagt i tidligere forarbeider
-at det å bli utestengt og fratatt retten til å gå opp til
-eksamen innebærer at «vedkommende student
-kan utestenges fra samtlige institusjoner og kan
-miste retten til å gå opp til samtlige eksamener
-under universitets- og høyskoleloven i utestengingsperioden».49
-I forarbeidene er det presisert at «utestenging» etter universitets- og høyskoleloven § 4-8
-ikke innebærer at studenten mister retten til å ta
-eksamen. Utvalget mener at dette må bety at det
-bare er på dette grunnlaget at utestenging ikke
-fører til tap av retten til å ta eksamen.
-På bakgrunn av dette fremstår det å utestenge
-en student og det å frata en student retten til å ta
-eksamen som to separate sanksjoner, i hvert fall
-etter universitets- og høyskoleloven § 4-8. Tolkningen av bestemmelsen er at begge sanksjonene
-48
-49
-
-Ot.prp. nr. 85 (1993–94) s. 70.
-Ot.prp. nr. 83 (2007–2008) Om lov om endring i lov 1. april
-2005 nr. 15 om universiteter og høyskoler s. 30.
-
-225
-
-Kapittel 22
-
-må ilegges for at studenten skal fratas retten til å
-ta eksamen.
-Formålet med bestemmelsen etter første ledd
-er å beskytte medstudenter og ansatte fra grovt
-forstyrrende og aggressiv opptreden, mens formålet med bestemmelsen etter andre ledd er å
-beskytte en særskilt gruppe mennesker som
-studenten har kontakt med i klinisk undervisning
-eller praksisopplæring.50 Vedtak om å frata en
-student retten til å gå opp til eksamen kan bare
-treffes i tilfeller hvor institusjonen anser det som
-nødvendig for å oppnå formålet.
-Sanksjonen etter universitets- og høyskoleloven §§ 4-9 og 4-10 er derimot bare utestenging.
-Derfor kan det fremstå som uklart om utestenging etter disse bestemmelsene også innebærer
-at studenten taper retten til å ta eksamen ved sin
-egen institusjon. Utvalget mener at dette må presiseres, se kapittel 23. Utvalget mener at dersom en
-student blir utestengt som følge av en skikkethetsvurdering, så tilsier det at studenten også bør bli
-fratatt retten til å gå opp til eksamen ved tilsvarende studier, også ved andre institusjoner. Det er
-formålstjenlig at en student som er vurdert som
-uskikket, ikke kan ta eksamen ved tilsvarende studier ved andre institusjoner. Formålet med RUST
-er å hindre at en student eller søker som har mistet rettigheter som følge av et vedtak, for eksempel om utestenging, får slike rettigheter ved en
-annen institusjon. Forslaget om å presisere i lovteksten at studenten også taper retten til å gå opp
-til eksamen ved tilsvarende studier bidrar også til
-dette formålet. På bakgrunn av dette foreslår
-utvalget å føye til at en student som er utestengt, i
-tillegg kan fratas retten til å ta eksamen ved tilsvarende studier i skikkethetssakene.
-Politiattestsakene skiller seg fra de andre
-sakene ved at studenten bare blir utestengt fra
-praksis og klinisk undervisning, og ikke fra hele
-studiet. Utvalget foreslår derfor å endre begrepsbruken i bestemmelsen fra «utestenge» til «utelukke» siden studenten kun blir utestengt fra
-deler av et studium. Utvalget foreslår ikke å innføre «tap av retten til å gå opp til eksamen» som en
-sanksjon i politiattestsakene.
-Det legges også til i bestemmelsene at studenten kan utestenges, og i tillegg fratas retten til å gå
-opp til eksamen. Bakgrunnen for dette forslaget
-er å tydeliggjøre at det er to separate sanksjoner,
-og at utestenging ikke nødvendigvis fører til at
-studenten blir fratatt retten til å ta eksamen. Derimot kan ikke studenten fratas retten til å ta eksa50
-
-Ot.prp. nr. 83 (2007–2008) s. 21.
-
-[Side 228]
-
-226
-
-Kapittel 22
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-men uten at studenten også blir utestengt eller
-bortvist.
-Utvalget vil påpeke at en student som er utestengt og fratatt retten til å gå opp til eksamen
-
-fortsatt kan dra til et annet land og ta utdanningen
-vedkommende er utestengt fra, der. Studenten vil
-også kunne få støtte fra Lånekassen til å ta denne
-utdanningen i et annet land.
-
-[Side 229]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-227
-
-Kapittel 23
-
-Kapittel 23
-
-Politiattest og skikkethet
-
-Figur 23.1
-hetssaker etter oppfordring fra institusjonen,
-kan det få betydning for utfallet i skikkethetsvurderingen.
-
-23.1 Utvalgets forslag
-Utvalget foreslår følgende:
-• Første og andre ledd i dagens § 4-9 slås
-sammen, for å tydeliggjøre at det er to ulike
-grunnlag for å innhente politiattest fra studentene; der studenten kan komme i kontakt med
-mindreårige, og der de kan komme i kontakt
-med andre sårbare grupper i profesjonsutdanninger.
-• Ordlyden i dagens § 4-9 første ledd endres slik
-at politiattest kan kreves «ved opptak og underveis i studiet».
-• Ordlyden i dagens § 4-9 fjerde ledd endres fra
-«utestenges» til «utelukkes», for å presisere at
-utelukkelse er en midlertidig reaksjon inntil
-det foreligger rettskraftig dom eller saken henlegges.
-• Dagens § 4-10 første ledd endres slik at departementet får hjemmel til å fastsette hvilke
-utdanninger som er omfattet av skikkethetsvurdering, og til å fastsette regler om saksbehandlingen i skikkethetssaker.
-• Skikkethetsforskriften § 2 og § 12 flyttes til universitets- og høyskoleloven, slik at kriteriene
-for skikkethetsvurdering er sammenfattet i én
-lovbestemmelse.
-• Krav om skikkethetsvurdering innføres for
-etter- og videreutdanninger som er knyttet til
-grunnutdanningene listet opp i § 1 i skikkethetsforskriften.
-• Institusjonene gis adgang til å søke departementet om at utdanninger inkluderes i § 1 i
-skikkethetsforskriften.
-• En ny bestemmelse om at hvis studenten ikke
-fremlegger relevant dokumentasjon i skikket-
-
-23.2 Gjeldende rett
-23.2.1 Politiattest
-Hjemmelsgrunnlaget for å kreve politiattest fra
-studenter er universitets- og høyskoleloven § 4-9.1
-Bestemmelsen sier for det første at det kan kreves
-politiattest av studentene i studier der de kan
-komme i kontakt med mindreårige. I tillegg gjelder regler om politiattest for yrkesutøving tilsvarende for studenter som deltar i praksis eller klinisk undervisning. Loven har dermed to ulike
-grunnlag for å kunne kreve politiattest av studentene.
-23.2.1.1 Studier hvor studentene kan komme i
-kontakt med mindreårige
-I enkelte utdanninger kan studentene gjennom
-praksisstudier eller som del av klinisk undervisning komme i kontakt med mindreårige. I forbindelse med opptak eller underveis i disse studiene
-kan det kreves at studentene legger frem politiattest som nevnt i politiregisterloven2 § 39 første
-ledd.
-Ifølge politiregisterloven § 39 kan det utstedes
-politiattest for personer som skal ha omsorg for,
-1
-2
-
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven).
-Lov 28. mai 2010 nr. 16 om behandling av opplysninger i
-politiet og påtalemyndigheten (politiregisterloven).
+## Sensur
+
+### Gjeldende rett
+
+Gode ordninger for sensur er nødvendig for en uhildet og rettferdig karaktersetting og dermed for studentenes rettssikkerhet. Det er viktig at sensuren organiseres på en måte som bidrar til å sikre utdanningskvaliteten, og som inngir tillit både hos studentene og overfor potensielle arbeidsgivere eller utdanningsinstitusjoner. Det er også viktig med åpenhet og innsyn i sensurordningen.
+
+#### Sensorveiledning
+
+I Prop. 64 L (2017–2018) foreslo departementet å lovfeste et krav om sensorveiledning til eksamen.[^349] Det følger derfor av universitets- og høyskoleloven § 3-9 andre ledd siste punktum at det skal utarbeides skriftlig sensorveiledning til alle eksamener. Dette kravet er absolutt og gjelder uavhengig av om det er en skriftlig eller muntlig skoleeksamen, hjemmeeksamen, prosjekt, individuell eksamen eller gruppeeksamen.
+
+I departementets omtale av «eksamen» er definisjonen i NOU 1993: 24 lagt til grunn:
+
+med eksamen regnes i denne forbindelse alle enkeltprestasjoner i form av prøver, oppgaver og avhandlinger m.m. som er tellende og føres på vitnemålet, eller som inngår som en del av slike eksamener \[…\].
+
+Universitets- og høyskoleloven § 3-9 andre ledd siste punktum fastsetter ikke de nærmere krav til innholdet i sensorveiledningen, men den må være egnet til å ivareta hovedhensynet ved veiledningen, som er å sikre en så ensartet vurdering av eksamensoppgavene som mulig. Sensorveiledninger må kunne ha ulik innretning og ulikt omfang avhengig av de enkelte fagenes tradisjoner og egenart. Sensorveiledningen skal være tilpasset det arbeidet studenten skal prøves i. Det er institusjonen som har ansvaret for at det utarbeides sensorveiledning.
+
+Departementet viste i lovproposisjonen til at sensorveiledningen kan utarbeides til hver enkelt eksamen, eller gjelde for en gruppe av emner eller eksamener hvis dette er mest hensiktsmessig. En sensorveiledning kan være et dokument som angir generelle retningslinjer for hvordan besvarelser skal vurderes, eller den kan helt eller delvis inneholde såkalte rettenøkler, fasiter eller mønsterbesvarelser. Departementet understreket at det ikke er hensiktsmessig at lovteksten beskriver et spesifikt og begrenset minimumskrav til sensorveiledningen, ettersom kravet om sensorveiledning gjelder alle typer eksamener, med alle de variasjoner dette innebærer. Det må derfor være opp til den enkelte institusjon å vurdere hva som er mest hensiktsmessig å inkludere i sensorveiledningen.
+
+Selv om sensorveiledninger er utarbeidet for å hjelpe sensorene, følger det av universitets- og høyskoleloven § 5-3 tredje ledd at sensorveiledninger også skal gjøres tilgjengelig for studentene etter at sensuren foreligger. Med dette menes at studentene skal ha mulighet til å se veiledningen, men det er ikke krav om at den publiseres på nett eller offentliggjøres på andre måter. I lovproposisjonen viste departementet til at det for eksempel må anses som tilstrekkelig å la studentene lese veiledningen på studiekontoret eller lignende. Dette er spesielt aktuelt i tilfeller der eksamensoppgavene gjenbrukes i løpet av kort tid. Det kan være hensiktsmessig at sensorveiledningen offentliggjøres når den angir generelle retningslinjer for hvordan besvarelser skal vurderes, men det kan være uheldig å gjøre den offentlig hvis den inneholder rettenøkler eller fasiter som kan komme til å bli gjenbrukt ved en senere eksamen. Det er uansett opp til utdanningsinstitusjonene å vurdere hvordan sensorveiledningen skal gjøres tilgjengelig.
+
+#### Gjennomføring av sensur
+
+Universitetsloven av 1995 § 50 inneholdt et krav om at det alltid skulle være to sensorer, hvorav minst én ekstern. Bestemmelsen ble opphevet ved lov 28. juni 2002 nr. 62. Studentenes rettssikkerhet måtte i vesentlig grad vike for behovet for mindre ressurskrevende vurderingsformer. For å ivareta studentenes rettssikkerhet i en viss grad og sikre uavhengig kvalitetskontroll av det enkelte studium, ble det riktignok innført et krav om ekstern evaluering av vurderingsordningene, som fremgår av dagens universitets- og høyskolelov § 3-9 første ledd. Det er opp til den enkelte institusjon å bestemme hvordan den eksterne deltakelsen i vurderingen skal gjennomføres. Dette kan skje ved:
+
+En ekstern deltakelse i den enkelte vurdering eller ved ekstern evaluering av vurderingsordningene. \[…\] Systemet med ekstern evaluering av vurderingene eller vurderingsordningene skal også ivareta studentenes rettsikkerhet ved å sikre like og upartisk bedømmelse av studentene.[^350]
+
+Det følger av universitets- og høyskoleloven § 3-9 andre ledd at det er styret som oppnevner sensor ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering når resultatet inngår på vitnemålet eller innregnes i karakteren for det aktuelle studiet. Ved bedømmelse av et selvstendig arbeid i høyere grad skal det være minst to sensorer, hvorav minst én ekstern. For lavere grad er det ikke krav om to sensorer eller ekstern sensor. Ved klage er det derimot krav om to sensorer, hvorav minst én skal være ekstern. Dette gjelder uavhengig av utdanningsnivået.
+
+Det fremgår av forarbeidene at sensors vurdering av typisk ekspressive prøver[^351], i motsetning til rene matematiske besvarelser, kan inneholde mye skjønn.[^352] Det er derfor ikke usannsynlig at én sensor kan komme til et annet resultat enn en annen sensor. Forarbeidene viser til at når flere er sammen om sensuren, reduseres sjansen for at enkelte besvarelser får en lite representativ karakter. Når sensorer regelmessig sensurerer i fellesskap og det varierer hvem en sensor har som «med-sensor», vil det utvikle seg en «sensorkultur» for hva som er gode og mindre gode måter å løse oppgavene på. Dette medvirker til en likere og mer rettferdig vurdering av eksamensprestasjonene.
+
+Departementet viste i Prop. 64 L (2017–2018) til følgende:
+
+\[S\]elv om det ikke lenger er et krav i loven om to sensorer ved sensurering av eksamen i lavere grad, er det ingen hindringer i lovverket for at dette gjeninnføres av utdanningsinstitusjonene hvis dagens sensurordning oppfattes som lite tilfredsstillende. Det er heller ingen hindringer i lovverket for å la eksamensbesvarelsen vurderes av eksterne sensorer. Utdanningsinstitusjonene står med andre ord ganske fritt til å gjeninnføre en del av det som høringsinstansene har pekt på som problematisk ved dagens lovbestemmelser om eksamen og sensur.
+
+##### Karakterskala
+
+Det følger av universitets- og høyskoleloven § 3-9 sjette ledd at «vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått/ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått».
+
+Bestemmelsen kom inn i loven i 1995, og med dette ble det innført en felles nasjonal karakterskala som skulle korrespondere med tilsvarende karakterskalaer ved utenlandske institusjoner. Tanken var å gjøre resultatene fra norske utdanningsinstitusjoner mer kompatible med høyere utdanning i andre land. Karaktertrinnene A-F tilsvarer trinnene som benyttes i ECTS-systemet, som er et system for å sammenligne vekt og karakter på kurs på universitets- og høyskolenivå på tvers av land og institusjoner.
+
+I merknadene til bestemmelsen Ot.prp. nr. 79 (2003–2004) side 83 uttalte departementet følgende:
+
+To prinsipper må ligge til grunn ved anvendelsen av karakterskalaen. Det første er at karaktersettingen i det enkelte tilfelle skal ta utgangspunkt i den verbale beskrivelsen som er gitt av de enkelte nivåene. Det andre er at i utgangspunktet skal den enkelte student vurderes opp mot hele skalaen, uansett studium og nivå. Disse prinsippene innebærer at det ikke på forhånd er definert en fast karakterfordeling som hvert enkelt kull eller hver enkelt studieenhet skal presses inn i. Departementet antar imidlertid at for større populasjoner og over tid vil en få en karakterfordeling som i det vesentlige tilsvarer den bestemte fordeling ECTS benytter. Dette innebærer at det ikke vil være nødvendig å benytte ECTS som et middel for å oversette det norske karaktersystemet.
+
+##### Sensurfrist
+
+Eksamenssensur skal foreligge tre uker etter at eksamen er gjennomført, jf. universitets- og høyskoleloven § 3-9 fjerde ledd. Departementet har i flere uttalelser tolket bestemmelsen slik at det dreier seg om tre kalenderuker, og det skal ikke gjøres fradrag for eventuelle helligdager eller andre fridager i dette tidsrommet.
+
+##### Begrunnelse for karakterfastsettelsen
+
+Fastsettelse av karakter er et enkeltvedtak. Hovedregelen er at enkeltvedtak skal grunngis, og begrunnelsen skal gis samtidig med at vedtaket treffes, jf. forvaltningsloven § 24. Dette gjelder bare så langt ikke annet fremgår av særlov. Gjeldende regler i universitets- og høyskoleloven avviker fra forvaltningslovens hovedregel ved at begrunnelsesplikt først inntrer når studenten ber om det.
+
+En student kan i henhold til universitets- og høyskoleloven § 5-3 første ledd første punktum kreve å få begrunnelse for karakterfastsettingen for sin egen prestasjon ved eksamen.
+
+I begrunnelsen for karaktervurderingen skal det redegjøres både for de generelle retningslinjene som er lagt til grunn for vurderingen og for den konkrete vurderingen av studentens besvarelse når det gjelder blant annet innhold og form. Det er utdanningsinstitusjonen som avgjør om sensorene skal gi begrunnelsen skriftlig eller muntlig. Men lovbestemmelsen er ikke til hinder for at utdanningsinstitusjonene delegerer til sensorene å avgjøre om det skal være skriftlig eller muntlige begrunnelse.
+
+En del utdanningsinstitusjoner har innført en ordning med automatisk begrunnelse for eksamenskarakteren. Studenten mottar da karakter og begrunnelse for karakterfastsettingen samtidig. Det er opp til den enkelte utdanningsinstitusjon å vurdere om det skal gis en slik automatisk begrunnelse. Normalt skal begrunnelsen gis innen to uker etter at studenten har bedt om det.
+
+### Utvalgets vurderinger
+
+#### Innledning
+
+Utvalget viser til at det ikke kan gis pålegg eller instrukser om «læreinnholdet i undervisningen og innholdet i forskningen eller i det kunstneriske og faglige utviklingsarbeidet», jf. universitets- og høyskoleloven § 1-5 tredje ledd bokstav a. Dette innebærer at verken regjeringen, departementet eller andre kan legge føringer for hva det skal forskes på eller hvordan forskningen skal utføres. Bestemmelsen skal sikre at universiteter og høyskoler, som sentrale forskningsleverandører til samfunnet, er objektive og uavhengige av politisk styring i undervisning, forskning og faglig og kunstnerisk utviklingsarbeid.
+
+#### Sensorveiledning
+
+Kravet om sensorveiledning har vært gjeldende siden 2018, men ble ved enkelte institusjoner praktisert før lovfestingen. Utvalget mener det er for tidlig å si noe om hvilken effekt kravet om å utarbeide sensorveiledning har fått for sensureringen, og om kravet har ført til større likhet mellom sensorenes vurderinger. Målet med sensorveiledning er at like oppgaver vurderes likt, ved at sensorer legger de samme retningslinjene til grunn for vurderingen og gjør vurderingen opp mot det fastsatte læringsutbyttet for emnet og studieprogrammet. Det vil likevel ikke være noen garanti for at sensorene vurderer besvarelser likt. Uten noen form for kontroll av at sensorene faktisk følger sensorveiledningene, kan tiltaket få mindre effekt enn det som er tiltenkt. Sensorene vil for eksempel fortsatt kunne gå utenfor sensorveiledningene, og vekte vurderingsmomentene annerledes enn forutsatt.
+
+Utvalget mener imidlertid at sensorveiledningene gjør kvaliteten på eksamen bedre, fordi de bidrar til bedre kvalitetssikring av det fastsatte læringsutbyttet og trolig bedre samsensur. Veiledningen er også et pedagogisk verktøy for studentene. Dette gjelder spesielt sensorveiledninger som inneholder eksempler på beste praksis. Utvalget foreslår derfor å videreføre kravet til sensorveiledning i loven.
+
+Utvalget viser også til at departementet, som omtalt under gjeldende rett punkt 21.5.1, har sett det som tilstrekkelig for å møte kravet om tilgjengeliggjøring av sensorveiledningen, at studentene kan få lese sensorveiledningen på et studiekontor hvis den ikke publiseres offentlig.
+
+#### Gjennomføring av sensur – innledning
+
+Etter innføringen av Kvalitetsreformen i 2003 er det ikke lenger et krav i loven ved sensurering av eksamener på lavere grads studier at to sensorer skal sensurere hver eksamen, eller at minst én av dem skal være ekstern. For at kvaliteten på sensureringen skal opprettholdes, er det viktig at det er et godt samsvar i vurdering og karaktersetting innenfor gruppen av sensorer.
+
+Utvalget viser i denne sammenheng til en vitenskapelig artikkel, «*Lavt sensorsamsvar – kan det bedres?*», som peker på dette misforholdet.[^353] Artikkelen viser at samsvaret er lavest ved såkalte ekspressive prøver – besvarelser som ikke kan klassifiseres som riktige eller gale, det vil si blant annet essay, rapporter, avhandlinger, konserter og kunstverk. I artikkelen vises det til at:
+
+\[…\] tiltroen til at eksamensbesvarelser kan vurderes og karaktersettes nøyaktig og likt ikke har noen sterk basis i de empiriske studier som foreligger. Denne tiltroen holdes likevel ved like, som antydet av Price (2005), fordi det er for ubehagelig å ta innover seg at holdbarheten i våre sensurordninger er svak. Studenter flest ser også ut til å beholde tiltroen til sensureringen, selv når de kjenner til at sensorene vektlegger ulikt (Crook, Gross & Dymott, 2006). Bloxham (2009) viser til de vanligste årsakene til dårlig sensorsamsvar:
+
+Komplekse læringsresultater kan ikke reduseres til noe som er enkelt å vurdere endimensjonalt og liketil. Samsvaret er størst når vurderingen gjelder enkle forhold og dårligere når det er mer sentrale – og viktigere – aspekter som vurderes. Men selv på de enkle forholdene kan det være stor variasjon. Selv i de tilfellene hvor kriteriene for vurdering er gjort eksplisitte, risikerer studentene at ulike sensorer vurderer deres arbeider ulikt.
+
+Vurderingen må i stor grad baseres på faglig skjønn, og skjønnet utvikles over tid som ett aspekt av sosialiseringen inn i fag-, disiplin- og profesjonskonteksten, og utgjør de individuelle «locally constructed and tacit standards» (ibid., s. 212) som legges til grunn ved vurderingen. Sensorene betrakter seg etter hvert som eksperter i sensurering. Deres vurdering blir mer intuitiv enn systematisk og bevisst, og noen studier tyder på at erfarne sensorer ikke er mer konsistente i sine vurderinger enn mer uerfarne, bl.a. fordi de legger mindre vekt på vedtatte vurderingskriterier, -prosedyrer og andre støttetiltak i sensureringen. De baserer seg på sitt eget skjønn.
+
+Artikkelen viser til at kombinasjonen av intuitiv og subjektiv vurdering, mangelfull profesjonalitet i vurderingen, og mangel på anledninger til å kalibrere eget skjønn mot andres svekker sensorsamsvaret ved typisk ekspressive prøver.
+
+Formulering av læringsmål og læringskriterier er i dag vanlig. Disse tjener både til å styre studenters læring og til å gi grunnlag for vurdering. Å definere og klargjøre vurderingskriterier, er likevel noe annet enn å bruke dem likt i praksis. Utvalget mener en mulighet for å styrke lik praktisering kan være å gjeninnføre kravet om to sensorer, se punkt 21.5.2.3.2.
+
+Artikkelen viser videre til at selv om det er uklart hvor stor betydning opplæring av sensorer og andre sensureringstiltak har, er det relativt bred enighet om at «kollektivitet er viktig. Lærere/sensorer må samtale om vurderingen når den foregår; på den måten kan det utvikles en felles forståelse og felles praksis. Studentene bør også innlemmes i vurderingspraksis og samtalene om læringsmål og kriterier». I artikkelen *«Om vurdering av essaybesvarelser i høyere utdanning – en studie av vurderer-reliabilitet»,* blir det vist til at besvarelser der det i utgangspunktet var stort avvik mellom sensorene, også vil bli vurdert ulikt av nye sensorer:
+
+Dette kan indikere at man ved å øke antall sensorer, i noen tilfeller kan beskytte studenten mot urimelige konsekvenser av den lave reliabiliteten, men i seg selv behøver ikke dette nødvendigvis å føre til noe «riktigere» eller «sannere» bedømming av studentens besvarelser. Det vi på den annen side kan sikre ved å øke antall sensorer, er at negative konsekvenser for studentene når det gjelder innbyrdes rangering vil reduseres. I praksis vil bruk av flere sensorer være sammenlignbar med sensureringer der man \[…\] benytter moderatorer for å minimalisere uheldige konsekvenser ved opprinnelig lav reliabilitet. Det er imidlertid ikke mulig å si på forhånd hvilke besvarelser som vil vise seg å være lette eller vanskelige å bedømme. Med så store avvik mellom sensorene som vi har vist her, kan det være at man må spørre seg om det er særtrekk ved besvarelsene som gjør dem spesielt vanskelige å vurdere.[^354]
+
+Artikkelforfatteren mener det kan se ut som om «sensorene forkaster ideen om å legge til grunn definerte kriterier siden det ikke synes å gi noen mening å anvende dem når det ikke er noen referanser til standarder». Forfatteren konkluderer med at de karakterene studentene fikk, «viste seg å være vel så avhengig av hvem som vurderte oppgavene som av kvaliteten på selve besvarelsen».
+
+Et tiltak som muligens kan bidra til å redusere forskjeller ved sensurering som omtalt over, er å innføre en grovere karakterskala. Utvalget drøfter dette tiltaket i punktet nedenfor.
+
+##### Karakterskala
+
+Professor Christian Jørgensen ved Universitetet i Bergen har i et innspill til utvalget foreslått å innføre en tretrinns karakterskala av typen «utmerket/bestått/ikke bestått». Han skriver blant annet følgende:
+
+Ved sensur er det ofte lett å gjenkjenne karakterene A, E og F mens skillet mellom B/C/D er mye vanskeligere å gjenkjenne presist. De fleste studentene skal ha en av disse mellomkarakterene, og typisk kan de være gode på noen faglige elementer og streve med andre. \[…\] En bokstavkarakter basert på flere vurderingselementer øker arbeidsmengden ved sensur. Ved flere vurderingselementer må hvert element vurderes med fin oppløsning fordi det er en eller annen form for sum som bestemmer samlet karakter. Selv en liten forskjell på ett vurderingselement kan være det som krysser grensen mellom to bokstavkarakterer til slutt. Arbeidsmengden for å sette en rettferdig bokstavkarakter går opp. \[…\] Det eneste tillatte alternativet i Norge i dag er «bestått/ikke bestått». Etter samtaler med mange undervisere hører jeg at de bekymrer seg for at studentene da vil krysse der gjerdet er lavest og legge nær minimal innsats i faget.»[^355]
+
+Videre argumenterer Jørgensen slik:
+
+En grov karakterskala kan dreie undervisers arbeidsinnsats fra finmåling for repeterbar karaktersetting til tilbakemelding studentene kan utvikle seg på. Med en tretrinns skala gjenstår de to enkleste grensene: å gjenkjenne de aller flinkeste og de som ikke skal bestå emnet. Det blir dermed færre karaktergrenser, færre som er i en uklar sone som kan utløse klage, og enklere å avgjøre klagene. Muligheten for det øverste karakternivået gir studentene motivasjon til å stå på. \[…\] Fordi størsteparten får «bestått» vil studentenes stress og angst antagelig gå ned. \[…\] Med formativ vurdering og tilbakemelding skapes en indre motivasjon for faget heller enn en ytre motivasjon for karakteren, med positiv effekt på innsats og læring.
+
+Utvalget viser til at en tretrinns karakterskala ikke harmonerer med Bolognaprosessen og den etterfølgende innføringen av A–F-karakterskalaen. På den andre siden skiller Norges A–F-skala seg fra skalaen i andre land. For eksempel har både USA og Storbritannia en karakterskala som går fra A til D og så til F uten et trinn E imellom. Ugraderte karakterskalaer var i bruk ved enkelte utdanningsinstitusjoner før innføringen av Kvalitetsreformen. Blant annet var graderingen «bestått med laud / bestått / ikke bestått» brukt ved Universitetet i Oslo. Tretrinnskalaen er også vanlig ved de eldste universitetene i Sverige.
+
+Utdanningsinstitusjonene har også i det siste tatt til orde for å gå bort fra A–F- karakterskalaen i et forsøk på å senke karakterpresset ved enkelte studier. I dag er det ikke mulig å benytte andre karakterskalaer enn A–F eller bestått/ikke-bestått. Universitetet i Oslo og Universitetet i Bergen har vedtatt å bruke bestått/ikke-bestått i stedet for A–F ved enkelte innledende emner ved de juridiske fakultetene, nettopp som et tiltak for å dempe karakterpresset og begrense gjentak av eksamen.[^356]
+
+Eksamen må være egnet til å gi sensorene et grunnlag til å prøve studentenes læringsutbytte. Som omtalt over, har forskning og innspill til utvalget pekt på at karaktersettingen på eksamen kan være vilkårlig og personavhengig. Utvalget mener problemet kan avhjelpes ved at det innføres en mulighet til å benytte seg av en mindre detaljert karakterskala, i tillegg til at det blir krav om to sensorer, se punkt 21.5.2.3.2. Utvalget er enig i at muligheten for å nå det øverste karakternivået vil gi studentene motivasjon til å stå på. En underveisvurdering vil kunne gi studentene en pekepinn om hva de bør forbedre, enten for å komme helt til topps eller for å bestå faget. Utvalget foreslår derfor at det i tillegg til A–F-karakterskalaen og bestått/ikke-bestått innføres en mulighet for å benytte en tretrinns karakterskala med utmerket/bestått/ikke-bestått.
+
+##### Krav om to sensorer ved eksamen
+
+Utvalget mener at å gjeninnføre kravet om to sensorer ved gjennomføring og vurdering av eksamen kan bedre studentenes rettsikkerhet ved sensur. Krav om to sensorer innebærer av alle skriftlige eksamener hvor det brukes en gradert karakterskala utover bestått/ikke-bestått, vurderes av to sensorer som sammen fastsetter eksamenskarakteren basert på studentens prestasjon. Det er også krav om to sensorer ved selvstendig arbeid i forbindelse med både lavere og høyere grad uavhengig av vurderingsuttrykket, samt ved bedømmelse av muntlig eller utøvende eksamen, eller vurderinger av praksisstudier. Minst én av sensorene skal være ekstern. Når studentene blir vurdert av to sensorer, kan de føle seg tryggere på at karakteren er veloverveid og riktig.
+
+Krav om to sensorer ved eksamen vil medføre økte kostnader sammenlignet med dagens ordning med én sensor. Å engasjere en ekstra sensor medfører også mer administrasjon i forbindelse med sensuren. Som nevnt foreslår utvalget også at minst én av sensorene skal være ekstern. Selv om dette kravet trolig vil medføre noe mer administrativt arbeid og økte kostnader for utdanningsinstitusjonen, mener utvalget at et krav om ekstern sensor i større grad enn i dag vil sikre likebehandling av studentene og objektivitet i vurderingen, særlig ved mindre studieretninger der interne sensorer kjenner studentene fra før. Krav om to sensorer hvorav minst én er ekstern, vil særlig bedre studentenes rettssikkerhet der det ikke er mulighet til å klage på eksamensresultatet fordi prestasjonen ikke er etterprøvbar. Dette kan for eksempel være tilfellet ved en muntlig eksamen.
+
+##### Filming av muntlig og utøvende eksamen
+
+Etter gjeldende rett kan ikke bedømmelsen av en muntlig prestasjon eller vurderingen av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve, påklages, jf. universitets- og høyskoleloven § 5-3 femte ledd. Det er vilkåret «etter sin art ikke lar seg etterprøve» som avgjør om muntlig eller utøvende eksamen kan påklages. Det er institusjonene som tar stilling til hvordan muntlig eksamen legges opp og gjennomføres. Hvis en muntlig eksamen er filmet, kan den være etterprøvbar. Departementet har vist til følgende:
+
+\[D\]ersom det er tatt videoopptak av en muntlig eksamen vil videoopptaket i seg selv ikke automatisk begrunne at det er klageadgang, fordi et videoopptak alene ikke nødvendigvis er tilstrekkelig til at eksamenen er etterprøvbar. Hvorvidt eksamen med bruk av videopptak vil kunne etterprøves på en måte som er tilfredsstillende, må vurderes av den enkelte utdanningsinstitusjon. Departementet vil i denne sammenhengen også peke på at bruk av videoopptak reiser spørsmål knyttet til personvern, for eksempel spørsmål om tilgang, lagring, hvem som eier opptaket og sletting av persondata, herunder at studenten vil måtte gi et reelt samtykke til videoopptak.[^357]
+
+Flertallet i utdannings- og forskningskomiteen på Stortinget har uttalt følgende:
+
+\[M\]untlig eksamen bør filmes i de tilfellene kandidaten selv ønsker dette, slik at kandidaten får et bedre utgangspunkt ved en eventuell klage. Flertallet ber derfor regjeringen i sammenheng med den varslede gjennomgangen av universitets- og høyskoleloven vurdere om en ordning med videoopptak av muntlig eksamen kan la seg gjennomføre.[^358]
+
+Utvalget har gitt Deloitte Legal i oppdrag å vurdere filming av muntlig og utøvende eksamen ved universiteter og høyskoler, og forholdet til personvernregelverket, studenter og utdanningsinstitusjonen. Vurderingen fra Deloitte Legal finnes i elektronisk vedlegg 2 til utredningen.
+
+Deloitte Legal anbefaler ikke å innføre en plikt for institusjonene til å tilby filming av muntlig eller utøvende eksamen i tilfeller der studenten ønsker det. Deloitte Legal viser til at tiltaket vil medføre betydelige kostnader og ha negative konsekvenser for personvern og arbeidsrettslige forhold. Deloitte Legal vurderer det slik at alternative tiltak, for eksempel krav om to sensorer ved muntlig eller utøvende eksamen, er bedre egnet til å ivareta studentens interesser totalt sett. Deloitte Legal skriver følgende i sin oppsummering:
+
+Filming av tradisjonell muntlig eksamen vil trolig gi studentene best rettssikkerhet ved at eksamensprestasjonen blir etterprøvbar og kandidatene får adgang til å klage på lik linje med andre etterprøvbare eksamensformer. Samtidig påpekes det av utdanningsinstitusjoner vi har intervjuet at tiltaket kan skape en tøffere eksamenssituasjon. Vår vurdering viser at tiltaket vil kunne etablere et inngrep i både kandidats og sensors personvern. Sammenlignet med skriftlig eksamen hvor partene forblir anonyme, er muntlig eller utøvende eksamen en mer direkte personlig vurdering ved at både kandidat og sensor kan identifiseres.
+
+Filming kan oppleves som et kontrolltiltak for sensor, og gi arbeidstakere en følelse av at tilliten til profesjonen og den enkelte ansatte er svekket. Innføring av tiltaket er ressurs- og kostnadsdrivende, og krever betydelige økonomiske investeringer sammenlignet med andre alternative modeller. Man vil være avhengig av at hver institusjon har tilstrekkelig med midler for å gjennomføre tiltaket.
+
+Vår anbefaling er derfor å gjeninnføre et krav om at muntlig eksamen skal avholdes med to sensorer (modell I, se punkt 3.1). Til tross for at dette tiltaket er kostnad- og ressurskrevende, er det etter vår vurdering det som er best egnet til å ivareta studenters rettssikkerhet uten at det samtidig oppstår en rekke andre utfordrende rettslige problemstillinger og forhold. Tiltaket vil trolig kunne øke objektivitet i bedømmelsen av kandidatens prestasjon og i større grad sikre likebehandling av kandidatene. Det antas derfor at det vil kunne føre til færre formelle klager. Dette tiltaket fremstår som klart mindre inngripende enn filming hva gjelder både kandidaters og sensorers rett til personvern.
+
+Deloitte Legal har i sin utredning vurdert fem alternative tiltak til filming: plikt til å avholde eksamen med minst to sensorer, krav til detaljert sensorveiledning, obligatorisk begrunnelse av karakterfastsettingen, obligatorisk tilstedeværelse av studentrepresentant, og studenters adgang til å forsvare egen prestasjon. Ingen av de alternative tiltakene vil sikre etterprøvbarhet ved muntlig og utøvende eksamen, men tiltakene kan bidra til å bedre studentenes rettssikkerhet.
+
+Utvalget slutter seg til hovedkonklusjonen i rapporten til Deloitte Legal om ikke å innføre plikt til å tilrettelegge for filming av muntlig eller utøvende eksamen. Når det gjelder Deloitte Legals alternative forslag om at en studentrepresentant skal være til stede under eksaminasjonen, mener utvalget at det i følge gjeldende universitets- og høyskolelov § 3-9 tredje ledd første punktum («den muntlige del av eksamener og prøver skal være offentlig med mindre hensynet til gjennomføringen av eksamenen eller prøven tilsier noe annet») er fullt mulig at en studentrepresentant, eller andre, overværer en muntlig vurdering.
+
+Tilstedeværelse av en studentrepresentant ved muntlig eksamen vil kunne skape en objektiv ramme rundt eksamensgjennomføringen og bidra til at studentene føler seg tryggere og får økt tillit til den etterfølgende sensuren. Tiltaket vil innebære noen kostnader for utdanningsinstitusjonene, som må sørge for nødvendig opplæring i representantens rolle i tillegg til godtgjørelse for medgått tid og arbeid. Utvalget viser imidlertid til punkt 21.5.2.3.2, der utvalget foreslår å innføre et krav om to sensorer ved alle eksamener. Utvalget mener tilstedeværelse av en studentrepresentant i tillegg til dette vil være lite hensiktsmessig bruk av ressurser, samtidig som det i praksis vil være svært utfordrende for de studenttillitsvalgte i kull med mange studenter. Et krav om to fagsensorer er etter utvalgets vurdering alt i alt bedre egnet til å sikre riktig karakterfastsetting for studenter som går opp til muntlig eller utøvende eksamen.
+
+*Utvalgsmedlem Bergstrøm* legger til i en merknad at selv om det i dag bare er mulig å gi klageadgang til studenter som eksamineres med muntlig eller utøvende eksamen, i tilfeller der eksamenen er etterprøvbar, er det likevel viktig at arbeidet med problemstillingen fortsetter. Klagemulighet og etterprøvbarhet ivaretar studentenes rettssikkerhet på en bedre måte. Dette gjelder særlig for de gruppene som har fått innvilget tilpasset eksamen på grunn av sykdom eller andre behov og som ender opp med å måtte benytte seg av muntlig vurderingsform. Det at det i realiteten ikke er mulig å klage på karakteren etter en muntlig vurderingsform, skaper et skille, og etter Bergstrøms vurdering inviterer det ikke til å øke variasjonen og tilpasningen av vurderingsformer. Studentene bør ha anledning til å klage på alle enkeltvedtak, og for å sikre at dette er en reell mulighet, anbefaler Bergstrøm at departementet fortsetter å se på muligheter for å gjøre endringer i dagens ordninger på grunnlag av kunnskapen som foreligger i rapporten til Deloitte Legal og teknologisk utvikling i samfunnet.
+
+##### Sensurfrist
+
+Nord universitet har i innspill til utvalget vist til at treukersfristen for å klage på sensur har blitt tolket strengt, og at det ikke er anledning til å forlenge fristen for å kompensere for «røde» dager, ferie eller lignende.[^359] Utvalget er kjent med at flere institusjoner støtter innspillet.
+
+Det følger av universitets- og høyskoleloven § 3-9 fjerde ledd at eksamenssensuren skal foreligge tre uker etter at eksamen er gjennomført. Utvalget viser til at dagens bestemmelse ikke tar hensyn til helligdager og andre fridager ved fristberegningen. Når man regner tre uker uten fratrekk for hellig- og fridager, får sensorene betraktelig kortere frist for å ferdigstille arbeidet. I mange tilfeller innebærer dette at sensorer må jobbe på helligdager og fridager, særlig når fristen går over en høytid. For å sikre bedre arbeidsforhold for sensorer mener utvalget at sensurfristen bør endres til 15 virkedager.
+
+Det er viktig at fristen overholdes, siden en overtredelse av fristen kan medføre ulemper for studentene. Utvalget foreslår å videreføre bestemmelsen om at styret kan gjøre unntak fra sensurfristen for enkelteksamener, og at de i midlertidig forskrift kan fastsette en lengre frist når det ikke er mulig å skaffe nok kvalifiserte sensorer. Utvalget presiserer imidlertid at dette er en unntaksbestemmelse. Hvis styret vedtar en slik forskrift, skal den være *midlertidig*. Unntak fra sensurfristen skal kun gjelde for den aktuelle eksamenen og kan ikke brukes flere ganger.
+
+##### Begrunnelse for karakterfastsettelsen
+
+Det følger av universitets- og høyskoleloven § 5-3 første ledd første punktum at studenten har «rett til begrunnelse» for karakterfastsettingen. Som omtalt under gjeldende rett punkt 21.5.1.2.3, skiller dette seg fra hovedregelen i forvaltningsloven § 24 om at enkeltvedtak skal begrunnes samtidig med at vedtaket treffes. Plikten til å gi begrunnelse etter universitets- og høgskoleloven inntrer først når studenten ber om det.
+
+Retten til å kreve begrunnelse for sine eksamensprestasjoner må ses i sammenheng med klageadgangen. Begrunnelsesretten må også ses i sammenheng med institusjonens ansvar for studentenes læring, fordi begrunnelsen vil kunne være en viktig del av veiledningen for studenter som ikke oppnår de forventede resultater til eksamen. En grundig begrunnelse med tilstrekkelig veiledning som gjør studenten i stand til å se sine prestasjoner i lys av målene institusjonen har satt for besvarelsen, vil kunne være oppklarende. I noen tilfeller vil slik veiledning kunne bidra til at studenten ikke klager på en karakter vedkommende i utgangspunktet vurderte å klage på.
+
+Det har vært diskutert om studenten skal få en begrunnelse automatisk, uavhengig av hvorvidt studenten har bedt om dette. Utvalget mener at et krav om en slik automatisk obligatorisk begrunnelse kan bedre studentenes rettsikkerhet på flere måter. Det er ikke alltid studenten benytter retten vedkommende har etter dagens regelverk til å be om begrunnelse. En begrunnelse dokumenterer til en viss grad sensureringen og kan øke tilliten til sensuren. En plikt til begrunnelse av alle vedtak om karakter kan også dempe behovet for å klage på karakteren fordi begrunnelsen kan skape større forståelse for den karakteren som er gitt. Forvaltningslovens plikt til å begrunne enkeltvedtaket er med på å sikre og synliggjøre at den som treffer vedtaket har vurdert saken korrekt. Begrunnelsen kan også øke den enkeltes forståelse for vedtakets innhold.
+
+På den annen side vil et krav om obligatorisk begrunnelse føre til at det brukes tid og ressurser på å utforme begrunnelse også i tilfeller der studenten ikke ser det som nødvendig å be om karakterbegrunnelse. Flertallet, bestående av alle medlemmer bortsett fra Bergstrøm, mener dette ikke er riktig prioritering av ressurser. Særlig ved eksamener med mange kandidater er det en risiko for at sensor må utarbeide så mange begrunnelser at disse i praksis blir en uselvstendig rutinemessig reproduksjon. Flertallet mener at for eksempel en gjennomgang i plenum kan ha like god læringseffekt som en skriftlig begrunnelse. Flertallet i utvalget foreslår derfor å videreføre dagens ordning ved at det først er når studenten ber om det at sensor skal begrunne karakteren.
+
+Utvalget mener også at det fortsatt skal være opp til den enkelte utdanningsinstitusjon å bestemme om sensoren skal gi muntlig eller skriftlig begrunnelse. Dette valget kan delegeres til sensorene. I tillegg foreslår utvalget at begrunnelsen for karakterfastsettelsen *skal* foreligge innen to uker etter at studenten har bedt om dette. Dette er en skjerping av kravene til sensor da gjeldende lovbestemmelse kun sier at karakterbegrunnelsen *normalt skal* foreligge innen to uker.
+
+Mindretallet i utvalget, bestående av *utvalgsmedlem Bergstrøm*, ønsker å underbygge prinsippet om formativ vurdering også ved avsluttende eksamen. Forskning på tilbakemeldinger har vist at formativ vurdering fører både til økt læring og til motivasjon hos studentene.[^360] Mindretallet ønsker å argumentere for rettssikkerheten til studentene og tilliten til karakterfastsettelsene både i arbeidslivet og blant studentene, og mener det er på høy tid at alle studenter får en begrunnelse for karakteren de mottar. Mindretallet mener at økt tillit til karakterfastsettelsen vil kunne bidra til å senke antallet klager og i sum være ressursbesparende for sektoren. Det finnes en rekke ulike måter å gjennomføre en obligatorisk tilbakemelding på, enten det er muntlig, skriftlig, digitalt eller i plenum ved eksamensoppgaver som har ett korrekt svar. Med nye digitale eksamensverktøy vil det åpne seg nye muligheter for å gi denne tilbakemeldingen på en enkel måte.

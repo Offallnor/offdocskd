@@ -1,1199 +1,236 @@
-# NOU 2019: 23, del 31 av 71 (side 354–365)
+# NOU 2019: 23, del 31 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 354]
-
-352
-
-NOU 2019: 23
-
-Kapittel 31
-
-–
-–
-
-–
-–
-–
-–
-–
-
-Ny opplæringslov
-
-Organiseringen av spesialundervisningen
-fører til en manglende tilhørighet i et felleskap
-med andre barn og unge.
-PP-tjenesten bruker mest tid på å utarbeide
-sakkyndige vurderinger og for lite tid på kompetanseutvikling og organisasjonsutvikling
-(systemrettet arbeid).
-PP-tjenesten og Statped har for stor avstand til
-den daglige praksisen i skolen.
-Forventingene til elever med behov for særskilt tilrettelegging er for lave.
-Det er langt flere elever som har behov for
-hjelp og støtte, enn de elevene som mottar spesialundervisning.
-Tilbudet om spesialundervisning realiserer
-ikke alltid læringspotensialet til elevene.
-Flere elever som mottar spesialundervisning,
-trives dårligere, har mer negativ atferd, har
-svakere relasjoner til medelever, lavere motivasjon og dårligere progresjon enn elever som
-ikke mottar spesialundervisning.
-
-For øvrig peker ekspertgruppen på at det er svært
-mange som får spesialundervisning, og at langt
-flere gutter enn jenter får slik undervisning. Til
-tross for betydelig politisk satsing på tilpasset opplæring i skolen, øker andelen elever som får spesialundervisning. I dag er det dobbelt så mange
-elever som får spesialundervisning, som for tretti
-år siden. I skoleåret 2018–2019 hadde 7,8 prosent
-av elevene vedtak om spesialundervisning. Toppåret var 2011–2012 da 8,6 prosent av elevene
-hadde vedtak om spesialundervisning.
-Ekspertgruppen foreslår en omfattende
-reform. Forslaget innebærer at ressurser og kompetanse skal flyttes tett på skolene, og at rettighetene til spesialundervisning endres. Målet er raskere og bedre hjelp til flere.
-Ekspertgruppen foreslår at det etableres et
-«helhetlig system» med disse hovedprinsippene:
-– Alle barn og unge med behov for særskilt tilrettelegging i skolen skal få nødvendig hjelp og
-støtte der de er.
-– Hjelpen skal iverksettes tidlig, den skal være
-tilpasset den enkelte og foregå innenfor inkluderende fellesskap.
-– Alle barn og unge med behov for særskilt tilrettelegging i skolen skal møte lærere med relevant og formell pedagogisk kompetanse.
-Den pedagogiske veiledningstjenesten skal organiseres slik at den er nærmest mulig skolene. For
-å ivareta prinsippene foreslår ekspertgruppen at
-det etableres et eget pedagogisk støttesystem for
-barn og unge og ansatte i skolen.
-
-Ekspertgruppen har drøftet hva inkludering
-er, og hva det handler om. Ifølge ekspertgruppen
-er en vanlig misforståelse at inkludering handler
-om at alle elever alltid skal befinne seg i samme
-rom og undervises av samme lærer. Ekspertgruppen poengterer at muligheten til å oppleve mestring sammen med andre er sentral når det gjelder
-inkludering som prinsipp.
-Ekspertgruppen peker på at bruken av assistenter sannsynligvis er en viktig årsak til at tilbudet om spesialundervisning ikke realiserer
-læringspotensialet til elevene. I tillegg mener
-ekspertgruppen at bruken av assistenter ofte har
-sosialt ekskluderende konsekvenser.28 Ekspertgruppen uttaler følgende:
-Egelund og Tetler (2009) viser at kvalifikasjonene til lærerne er helt avgjørende for resultatene av spesialundervisningen. Dette er i samsvar med annen internasjonal forskning, som
-viser at læreren har størst betydning for elevenes læring (Hattie, 2009). Mange assistenter
-har et omfattende ansvar for gjennom føring av
-undervisningen i skolefag. Forskning viser at
-en slik nedprioritering av kompetanse i spesialundervisningen bidrar til at læringsutbyttet for
-elevene blir dårligere enn det kunne ha vært
-om den pedagogiske og spesialpedagogiske
-kompetansen hadde vært på et høyt nivå
-(Haustätter & Nordahl, 2013).
-Ekspertgruppen foreslår ytterligere at det etableres en registrering av utdanningsdata på individnivå fra barnehage og ut videregående opplæring
-i SSB. Begrunnelsen for dette forslaget er blant
-annet at individdata vil kunne bidra til at overgangene i utdanningssystemet kan bli mindre utfordrende for det enkelte barn. Ekspertgruppen skriver at ved å anvende disse opplysningene vil barn
-og unge sikres kontinuitet i det pedagogiske tilbudet. Ekspertgruppen er kjent med at tilsvarende
-individopplysninger tidligere er foreslått, men
-avslått blant annet med bakgrunn i personopplysningsloven. Likevel finner ekspertgruppen det
-nødvendig å påpeke at slike opplysninger er viktige for at barn og unge så tidlig som mulig, skal få
-den hjelpen og støtten de trenger.
-Fagrapport fra Barneombudet om spesialundervisning
-Barneombudet har gjennomført et prosjekt om
-spesialundervisning i grunnskolen. Ombudet
-28
-
-Nordahl et al. 2018, s. 128 og 215.
-
-[Side 355]
-
-NOU 2019: 23
-Ny opplæringslov
-
-publiserte funnene og sine anbefalinger i en
-fagrapport våren 201729. Barneombudet uttaler:
-I dette prosjektet har vi sett at verken elevenes
-– eller spesialundervisningens potensiale blir
-utnyttet fullt ut. Dette skyldes ikke at spesialundervisning i seg selv ikke nytter – men at spesialundervisningen som gis ikke er god nok.
-Både forskning og praksis har vist at mulighetene for å gi elevene et godt læringsutbytte er
-større i spesialundervisningen enn i den ordinære undervisningen. Dette forutsetter imidlertid at undervisningen gis av lærere med riktig kompetanse, at man har høye forventninger
-til eleven og at innhold og organisering er tilrettelagt elevens behov.
-
-–
-
-–
-–
-
-353
-
-Kapittel 31
-
-Kunnskapsdepartementet må sikre at skoleeier har tilstrekkelig kunnskap om opplæringsloven, forvaltningsloven, barnekonvensjonen
-og CRPD.
-Kunnskapsdepartementet må etablere sanksjoner overfor skoleeiere som ikke etterlever
-regelverket.
-Det må lages en egen bestemmelse i opplæringsloven om at barn skal høres i PP-tjenestens sakkyndige arbeid, når kommunen fatter
-vedtak, i skolens arbeid med individuell opplæringsplan og i gjennomføring og evaluering av
-spesialundervisningen.
-
-Undersøkelse av spesialundervisning i grunnskolen
-
-Barneombudet sier også at elevene forteller at det
-er lite eller ingen medvirkning i vurdering for
-læring. Barneombudet er derfor usikker på om
-elever med rett til spesialundervisning, får underveisvurdering og veiledning i samsvar med den
-individuelle opplæringsplanen som er utarbeidet
-for dem.
-I rapporten kommer Barneombudet med flere
-anbefalinger, blant annet disse:
-– Opplæringsloven må endres, slik at elever med
-spesialundervisning sikres rett til opplæring av
-fagperson med godkjent utdanning og kompetanse i faget/undervisningsoppgaven. Unntaksbestemmelsen i opplæringsloven § 5-5 må
-kun brukes i særskilte tilfeller og dersom det
-er til barnets beste. Unntak skal gjøres som
-eget enkeltvedtak.
-– For å sikre elevene et forsvarlig utbytte av spesialundervisningen må Kunnskapsdepartementet utvikle en felles nasjonal standard for
-planlegging, gjennomføring og evaluering av
-opplæringen.
-– Kunnskapsdepartementet må innføre kompetansekrav og bemanningsnorm for PP-tjenesten.
-– Kunnskapsdepartementet må sikre kvaliteten
-på PP-tjenestens sakkyndighetsarbeid ved å
-utarbeide en forskrift som tydeliggjør kravene
-til sakkyndige vurderinger.
-– Kunnskapsdepartementet må gi PP-tjenesten
-en tydeligere rolle i oppfølgingen av elevens
-spesialundervisning.
-– Kunnskapsdepartementet må ta inn prinsippene om ikke-diskriminering og barnets beste
-i opplæringslovens kapittel 5.
-
-Riksrevisjonen gjennomførte i 2010 en undersøkelse av spesialundervisningen i grunnskolen.30
-Datainnsamlingen ble gjennomført i perioden
-februar–november 2010. Undersøkelsen viser
-omfattende svakheter i etterlevelsen av saksbehandlingsreglene knyttet til spesialundervisningstilbudet. Etter Riksrevisjonens vurdering innebærer dette en betydelig risiko for at retten til et
-likeverdig opplæringstilbud for elever med særskilte behov ikke oppfylles.
-Undersøkelsen viser videre blant annet at
-internkontrollen i kommunene på opplæringsområdet gjennom etablering av forsvarlig system er
-mangelfull. Undersøkelsen viser også vesentlige
-avvik fra forventningen om tre måneders saksbehandlingstid for utarbeidelse av sakkyndig vurdering i PP-tjenesten.
-Kontroll- og konstitusjonskomiteen bemerker
-i Innst. 390 S (2010–2011) blant annet følgende:
-– Komiteen viser til at retten til spesialundervisning kvalitetssikres gjennom fire dokumenter;
-sakkyndig vurdering hvor en vurderer elevens
-læringsutbytte, enkeltvedtak som fastslår hva
-eleven har rett til, individuell opplæringsplan
-som fastsetter mål og oppfølgingstiltak og
-halvårsrapporter med evaluering. Til sammen
-fungerer disse dokumentene som et system for
-vurdering og oppfølging av elever med behov
-for spesialundervisning.
-– Komiteen vil videre presisere behovet for å
-sikre at sakkyndig vurdering foreligger raskest
-mulig, og mener departementet bør vurdere
-forslag om lovfesting av maksimal behandlingstid. Komiteen finner det kritikkverdig at
-saksbehandlingstiden for sakkyndig vurdering
-er for lang, samt at det foreligger vesentlige
-mangler ved mange enkeltvedtak og individu-
-
-29
-
-30
-
-Barneombudet, 2017.
-
-Dokument 3:7 (2010–2011).
-
-[Side 356]
-
-354
-
-NOU 2019: 23
-
-Kapittel 31
-
-Ny opplæringslov
-
-elle opplæringsplaner. Komiteen finner det
-videre kritikkverdig at rapporteringen ikke har
-vært god nok.
-I rapporten31 peker Riksrevisjonen også på at
-bruk av assistenter i skolen har økt:
-I 2009 fikk 50 prosent av elevene med spesialundervisning tildelt timer med assistent. Dette
-er en økning på 6,5 prosentpoeng fra 2002.
-Figur 8 viser at andelen spesialundervisningselever som får undervisning med assistent over
-270 timer, har økt og ligger på 30 prosent i
-2009. Andelen elever med spesialundervisning
-som får tildelt 1–75 timer med assistent, har
-blitt noe redusert i perioden fra 2002 til 2009.
-Det har vært en økning av elever som får
-undervisning i små grupper. GSI-tallene viser
-ikke om økningen i assistentbruk skyldes at
-det er flere assistenter til stede i undervisningen sammen med læreren, eller om assistentene driver undervisningen alene. Ett fylkesmannsembete uttaler i intervju at de opplever
-en økning i antall klagesaker knyttet til bruk av
-assistenter i stedet for pedagoger i spesialundervisningen.
-Tall fra Grunnskolens Informasjonssystem (GSI)
-Antallet elever som får spesialundervisning
-Tall fra Grunnskolens Informasjonssystem (GSI)
-viser at 49 755 elever i grunnskolen har enkeltvedtak om spesialundervisning skoleåret 2018–2019,
-noe som utgjør 7,8 prosent av elevene. Andelen
-med spesialundervisning øker utover i grunnskolen, fra 3,7 prosent på 1. trinn til 10,6 prosent på
-10. trinn. Det er langt flere gutter enn jenter som
-får spesialundervisning. På 10. trinn får 13,4 prosent av guttene spesialundervisning.
-Det er betydelig færre elever som får spesialundervisning i videregående enn det er på 10.
-trinn i grunnskolen. Totalt 4 900 elever fikk spesialundervisning i videregående opplæring skoleåret 2017–2018, noe som tilsvarer 2,6 prosent av
-elevene.32
-Ekspertgruppen for barn og unge med behov
-for særskilt tilrettelegging peker i sin rapport på
-at spesialundervisning ikke ser ut til å være et
-
-midlertidig tilbud. Mye tyder på at dersom en elev
-har fått et vedtak om spesialundervisning, så mottar eleven tilbudet resten av årene i grunnskolen.33
-Tall fra GSI viser at det er en nedgang i antallet
-elever som mottar spesialundervisning i lite
-omfang, og at det er en økning i antallet elever
-som mottar spesialundervisning i stort omfang. I
-perioden 2008 til 2018 er det totalt sett en økning i
-antallet timer som blir gitt til spesialundervisning.
-Ifølge rapporten fra Ekspertgruppen for barn
-og unge med behov for særskilt tilrettelegging
-varierer andelen elever som mottar spesialundervisning, fra skole til skole, mellom kommuner og
-mellom landsdeler. Figur 31.2 viser oversikt over
-andel spesialundervisning i de ti største kommunene i skoleåret 2017–2018.34 Tallene viser at det
-er store regionale forskjeller mellom de ti største
-kommunene i Norge når det gjelder antallet
-elever som mottar spesialundervisning.
-Antallet timer med assistent i spesialundervisningen
-Tall fra GSI viser at det er stor økning i assistenttimer. Av de 49 755 elevene som hadde enkeltvedtak om spesialundervisning i grunnskolen skoleåret 2018–2019, fikk 48 077 vedtak om spesialundervisning med undervisningspersonale (lærere).
-23 158 elever fikk timer med assistent. GSI har
-data som viser utviklingen av timer til spesialundervisning med assistent og timer til spesialundervisning med lærere fra skoleåret 2009–2010 til
-skoleåret 2018–2019.35 Dataene viser at bruk av
-assistenter har gått betydelig opp, mens antallet
-lærertimer har hatt en svak økning, se grafen
-nedenfor.
-Utvalget har kontaktet Utdanningsdirektoratet
-for å få belyst utviklingen av antallet lærertimer
-og assistenttimer til spesialundervisning, se figur
-31.3. Direktoratet uttaler at GSI har noen begrensninger når tallene skal tolkes. Hvordan tallene i
-første omgang kan forstås, kan gi feil inntrykk av
-hvordan organiseringen av spesialundervisningen
-er i praksis.36 Nedenfor er noen eksempler fra
-Utdanningsdirektoratet:
-33
-34
-35
-
-31
-
-Dokument nr. 3:7 (2010–2011).
-32
-Utdanningsdirektoratet, 2018l.
-
-36
-
-Nordahl et al. 2018, s. 97.
-Nordahl et al. 2018, s 108.
-Utdanningsdirektoratet, Grunnskolens Informasjonssystem
-(GSI).
-Utdanningsdirektoratet, e-post datert 15. januar 2019.
-
-[Side 357]
-
-355
-
-NOU 2019: 23
-Ny opplæringslov
-
-I GSI vil da timer til assistent i spesialundervisningen øke i forhold til bruk av lærer i spesialundervisningen. Samtidig blir selve opplæringen gitt av en lærer og skolen oppnår målet
-om mer inkluderende spesialundervisning.
-
-Eksempel 1:
-Et år gir en skole tre elever spesialundervisning i en egen gruppe med en lærer. Neste skoleår velger skolen å gi all spesialundervisning
-til disse i hver deres ordinære klasse. Lærerne
-i de ordinære klassene tar videre ansvar for
-opplæringen både for disse elevene og for
-resten av klassen. De får imidlertid assistenter
-inn i de ordinære klassene, men det er lærere
-som har ansvar for opplæringen til disse elevene.
-
-Storby
-
-Kapittel 31
-
-Eksempel 2:
-Tre elever ved skolen tas ut av klassen og får
-opplæring alene med hver sin assistent.
-I GSI vil ikke registreringen bli så ulik
-eksempelet over, men det er stor forskjell på
-hvordan assistenten brukes.
-
-Sum elever som får spesial
-undervisning etter enkeltvedtak
-
-Sum elever ved skolen i alt
-
-Andel spesialundervisning
+## Utvalgets vurdering
 
-1 523
+### Regelverkets oppbygning og struktur
 
-15 248
+#### Innplassering i loven og bruk av fellesbenevnelser
 
-10,0 %
+Fag- og yrkesopplæringen har lange tradisjoner i Norge. Denne opplæringen er i dag en integrert del av den videregående opplæringen. Om lag halvparten av elevene som startet i videregående opplæring skoleåret 2017–2018, startet på et yrkesfaglig utdanningsprogram.[^712] Fag- og yrkesopplæringen er dermed en sentral del av den videregående opplæringen.
 
-Stavanger
-Tromsø
+For den delen av fag- og yrkesopplæringen som gis i skole, er det ingen grunn til at det skal gjelde andre regler enn for øvrig videregående opplæring. Utvalget foreslår derfor å videreføre dagens regler, som innebærer at det er ett sett med regler for all opplæring som gis i skole.
 
-795
+Fagopplæringen karakteriseres av at læreplanen forutsetter læretid i bedrift. Denne delen av opplæringen skiller seg vesentlig fra den øvrige videregående opplæringen. Utvalget foreslår derfor at den videregående opplæringen i bedrift fremdeles skal reguleres i et eget kapittel i loven. Det særegne ved fagopplæringen er at forholdet også reguleres av arbeidslivets regler. Ett spørsmål er om det er hensiktsmessig med særregulering i opplæringsloven, eller om arbeidslivets regler bør gjelde fullt ut.
 
-8 477
+Dagens reguleringsteknikk der alle opplæringsordningene og kandidattypene nevnes i relevante bestemmelser, gjør loven vanskeligere å lese og bidrar til en mer uoversiktlig lov. Utvalget erfarer at det hersker en god del forvirring om hva som ligger i de ulike opplæringsordningene og kandidattypene. Det er krevende å sette seg inn i terminologi og ordninger.
 
-9,4 %
+Utvalget mener dette gir grunn til å vurdere begrepsbruken nærmere. For opplæring i skole er det bare brukt ett begrep, «elev». Det er gjenkjennbart for leseren og gir en oversiktlig regulering. Selv om alle kalles «elever», er det ulike regler som gjelder for ulike elever i ulike situasjoner. For eksempel kan en elev ha krav på spesialundervisning, jf. dagens § 5-1.
 
-Drammen
+Det er gode argumenter for at det bør være den samme tilnærmingen for opplæring i bedrift. Utvalget foreslår at loven benytter «lærling» som fellesbenevnelse for alle som får fagopplæring i bedrift. Dette er den klart mest brukte ordningen i dag, og er godt kjent.[^713]
 
-665
+Utvalget har ikke vurdert innholdet i eller behovet for de ulike opplæringsordningene, og legger til grunn at ordningene fortsatt kan eksistere, og at disse i så fall bør reguleres i forskrift til opplæringsloven. Utvalget foreslår derfor at det i loven inntas en hjemmel for departementet til å gi forskrift om hvilke tilbud som kan gis, og omfanget av den videregående opplæringen i bedrift. Forskriftshjemmelen kan benyttes til å regulere særordninger. Eksempelvis mener utvalget at § 4-6 andre avsnitt siste setning i dagens lov om bortfall av kontrakt om fagbrev på jobb, er en særregulering som er best egnet i forskrift. Utvalget mener at en vid forskriftshjemmel kan være hensiktsmessig for å sikre at det fremdeles kan være flere ulike opplæringsordninger. Samtidig understreker utvalget at trepartssamarbeidet vil gi en riktig og naturlig avgrensning av hjemmelens rekkevidde.
 
-7 933
+I forskriftsgjennomgangen som vil følge en ny opplæringslov, bør departementet vurdere om det fortsatt er behov for alle de ulike ordningene og benevnelsene. Det bør være en god grunn til at man velger andre benevnelser enn lovens, som vil være «lærling». Utvalget viser i denne sammenheng til at kunnskapsgrunnlaget gir særlig grunn til å se på lærekandidatordningen.
 
-8,4 %
+Etter utvalgets vurdering er det sterke argumenter for ikke å bruke benevnelsen «lærekandidat». Det ligger i selve uttrykket at det er tale om en person som av ulike årsaker ikke kan nå alle kompetansemålene i lærefaget. Utvalget viser til at det til sammenligning er slik at alle ungdommer i studieforberedende løp omtales som «elever», uavhengig av om man har spesialundervisning eller ikke, og uavhengig av om man skal ha opplæringsmål som avviker fra læreplanen i faget. Etter utvalgets vurdering er det like lite akseptabelt å bruke «lærekandidat» som det ville vært å bruke termen «spesialelev». Dersom det er nødvendig å skille på sluttkompetansen, er det en løsning å bruke ulike betegnelser på den.
 
-Trondheim
+Utvalget har som nevnt ikke vurdert innholdet i eller behovet for de ulike opplæringsordningene. Utvalget bemerker at det fremdeles bør være adgang til å inngå kontrakt om opplæring med andre mål enn fag- og svenneprøve som sluttvurdering. Utvalgets forslag til regulering utelukker ikke at det kan inngås slike kontrakter. Utvalget forutsetter for øvrig at det kan gis nærmere regler om innholdet i kontrakten i forskrift.
 
-1 568
+Dagens regler bruker ulike betegnelser for de kontraktene som inngås om fagopplæring. Utvalget mener det er grunn til å forenkle regelverket også på dette punktet. Utvalget foreslår at det bare brukes én benevnelse på de kontraktene som inngås om fagopplæring. Etter utvalgets vurdering kan det i mange tilfeller være tilstrekkelig å vise til «kontrakt», men foreslår at dette utvides til «kontrakt om opplæring» der det er nødvendig å tydeliggjøre at det ikke er snakk om arbeidsavtalen.
 
-20 272
+Det er i dag også ulike navn på prøvene og på den dokumentasjonen man får utskrevet innenfor fagopplæringen. Utvalget har i kapittel 16 foreslått en generell bestemmelse om vurdering i videregående opplæring, som inkluderer en hjemmel til å fastsette forskrifter om prøver og dokumentasjon. Etter utvalgets vurdering er det ingen grunn til at opplæringsloven skal ha mer detaljerte regler om de ulike prøvene og de ulike formene for dokumentasjon innenfor fagopplæringen. I noen tilfeller vil det likevel være behov for å vise til de prøvene som avlegges, og den dokumentasjonen som skal utstedes. Utvalget foreslår at loven benytter «prøve» og «dokumentasjon» som fellesbenevnelse for hele fag- og yrkesopplæringen. Det vil etter utvalgets vurdering være tilstrekkelig at de nærmere grensedragningene og ulike variasjonene framgår av forskrift.
 
-7,7 %
+#### Særlig om lærekandidatordningen
 
-Oslo
+Som det går fram av drøftingen ovenfor, mener utvalget at det er gode grunner for at departementet vurderer behovet for lærekandidatordningen og eventuelt om det bør brukes andre benevnelser. I denne sammenhengen vil utvalget også oppfordre departementet til å vurdere regelverket i lys av FN-konvensjonen om rettigheter til mennesker med nedsatt funksjonsevne (CRPD). Det finnes i dag en tilskuddsordning for bedrifter som tar inn lærlinger, praksisbrevkandidater og lærekandidater med særskilte behov eller svake norskferdigheter og kort botid, men det er i dag kun lærekandidatene som har rett til spesialundervisning innenfor fag- og yrkesopplæringen. Etter CRPD art. 24 skal partene blant annet sikre «et inkluderende utdanningssystem på alle nivåer», «at mennesker med nedsatt funksjonsevne ikke stenges ute fra det allmenne utdanningssystemet på grunn av nedsatt funksjonsevne», og «at mennesker med nedsatt funksjonsevne får tilgang til inkluderende, god og gratis grunnutdanning og videregående opplæring i sitt lokalsamfunn, på lik linje med andre». På denne bakgrunn mener utvalget at det er grunn for departementet til å vurdere om regelverket bør endres på bakgrunn av konvensjonen.
 
-4 887
+#### Arbeidslivets regler
 
-63 904
+Generelt
 
-7,6 %
+Lærlinger er arbeidstakere i lærebedriften, og utvalget mener derfor det bør være gode grunner dersom opplæringsloven skal ha regler som gjelder parallelt med arbeidslivets regler. Særlig relevant for et lærlingforhold er arbeidsmiljøloven og yrkesskadeforsikringsloven. Begge lovene har som formål å sikre arbeidstakere og regulere forhold mellom arbeidstaker og arbeidsgiver. Etter utvalgets vurdering bør opplæringsloven som hovedregel ikke ha regler som er i konflikt med, kommer i tillegg til eller er til erstatning for arbeidslivets alminnelige regler.
 
-Fredrikstad
+Etter utvalgets vurdering bør opplæringsloven som hovedregel ikke ha regler som berører arbeidsforholdet mellom lærlingen og lærebedriften. Dette bør som utgangspunkt reguleres av arbeidslivets regler. Det er derimot naturlig og nødvendig at opplæringsloven har regler som berører forholdet mellom lærling og fylkeskommune og mellom lærebedrift og fylkeskommune.
 
-691
+Forbud mot plagg som helt eller delvis dekker ansikt
 
-9 299
+Forbudet mot bruk av klesplagg som helt eller delvis dekker ansiktet, gjelder i dag også for lærlinger som får opplæring i bedrift, jf. § 9-7 andre avsnitt. I motsetning til hva som er tilfellet for elever, gir ikke opplæringsloven hjemmel for reaksjoner overfor lærlinger ved brudd på forbudet. For lærlinger som bryter forbudet, vil det derfor kun være aktuelt med arbeidsrettslige reaksjoner. Dersom den nye opplæringsloven skal gi fylkeskommunen hjemmel til å ilegge reaksjoner overfor lærlinger, er det bare heving av kontrakten om opplæring som kan være en aktuell reaksjon. Øvrige reaksjoner vil være knyttet til arbeidsforholdet mellom lærlingen og lærebedriften, og må følge av arbeidsrettslige regler.
 
-7,4 %
+Etter utvalgets vurdering vil heving av kontrakten om opplæring være en uforholdsmessig reaksjon sammenlignet med reaksjoner som kan fastsettes for elever. Dette taler imot at forbudet mot ansiktsdekkende plagg skal gjelde for lærlinger. Videre er det klart at det langt på vei ligger innenfor arbeidsgivers styringsrett å gi regler om blant annet bekledning på arbeidsplassen. Etter utvalgets vurdering bør det være opp til den enkelte lærebedrift å vurdere om det er forhold ved arbeidsplassen og virket som lærebedrift som gir saklig grunn til å ha et forbud mot bruk av plagg som helt eller delvis dekker ansiktet. Utvalget foreslår derfor at forbudet mot bruk av plagg som helt eller delvis dekker ansiktet, ikke videreføres for lærlinger.
 
-Kristiansand
+Tilpasning og tilrettelegging av opplæringen
 
-720
+Etter dagens regler har lærekandidater rett til spesialundervisning. Utvalget mener det er grunn til å vurdere om denne retten kan ivaretas av likestillings- og diskrimineringsloven. Det gjelder særlig kapittel 3 om universell og individuell tilrettelegging. I kapitlet stilles det krav til universell utforming (§§ 17 og 18), og individuell tilrettelegging for elever (§ 21) og arbeidstakere (§ 22). I sum gir disse bestemmelsene et godt rettighetsvern for lærlinger i bedrifter.
 
-10 742
+Da kravet om individuell tilrettelegging ble tatt inn i den dagjeldende diskriminerings- og tilgjengelighetsloven, ble det lagt til grunn at forslaget ikke gikk like langt i å slå fast rettigheter som spesialundervisning etter opplæringsloven, fordi opplæringsloven ikke har begrensninger i form av et rimelighetskrav og en uforholdsmessighetsvurdering. Denne forskjellen har nok lite om noe å si i praksis. Dagens lærekandidatordning innebærer særskilt tilrettelagt opplæring, men det er ingen rett til å bli lærekandidat. Lærekandidaten har heller ingen rett til spesialundervisning i verdiskapingsdelen av læreforholdet. Hvordan tilrettelegging av arbeidsplassen skal være for personer med funksjonsnedsettelse, må være en viktig del av den generelle dialogen mellom arbeidsgiverorganisasjonene og utdanningsmyndighetene. For å få bedrifter til å ta imot lærlinger med funksjonsnedsettelser er det nødvendig med gode støtteordninger. Dersom det ikke finnes læreplass, vil opplæringen gis i skole, og da får disse elevene den samme retten til individuelt tilrettelagt opplæring som andre elever. Med andre ord har fylkeskommunene lite å spare på ikke å legge til rette for gode ordninger i samarbeid med lærebedriftene.
 
-6,7 %
+Utvalget forutsetter at lærlinger med behov for individuell tilrettelegging vil få det selv om ordningen gis et annet navn. Utvalget viser til tilskuddsordningen for lærlinger med særskilte behov mv. og forutsetter at fylkeskommunene vil benytte denne og andre ordninger for å søke å gi opplæring i bedrift også for ungdom med behov for tilrettelegging på arbeidsplassen. Utvalget mener derfor at det ikke er hensiktsmessig å videreføre retten til spesialundervisning for lærekandidater i den nye loven.
 
-Bergen
+### Lærlingenes rettigheter og plikter
 
-1 682
-
-28 986
-
-5,8 %
-
-Sandnes
-
-579
-
-9 982
-
-5,8 %
-
-Bærum
-
-862
-
-16 184
-
-5,3 %
-
-Figur 31.2 Spesialundervisning i storbyene
-Kilde: Nordahl et al. 2018, s. 108.
-
-12000 000
-10000 000
-8000 000
-6000 000
-4000 000
-2000 000
-2009 –10
-
-2010 –11
-
-2011 –12
-
-2012 –13
-
-Lærertimer til spesialundervisning
-
-2013 –14
-
-2014 –15
-
-2015 –16
-
-2016 –17
-
-2017 –18
-
-Assistenttimer til spesialundervisning
-
-Figur 31.3 Antallet timer med spesialundervisning med lærer og med assistent
-Kilde: Utdanningsdirektoratet, e-post til Opplæringslovutvalget datert 18. november 2019.
-
-2018 –19
-
-[Side 358]
-
-356
-
-NOU 2019: 23
-
-Kapittel 31
-
-Ny opplæringslov
-
-Også i SØF-rapport nr. 04/16 tas begrensninger i
-tolkning av tallene fra GSI opp:
-I den offentlige diskusjonen blir høy assistentbruk sett på som en indikasjon på at kvaliteten
-av spesialundervisningen er lav. Internasjonal
-forskning gir noe støtte til dette synspunktet:
-Elever eksponert for assistent har i gjennomsnitt dårligere læringsutbytte enn tilnærmet
-like elever i det ordinære tilbudet, og en tror
-dette skyldes en kombinasjon av lært hjelpeløshet, stigmatisering og isolasjonseffekter. Flere
-av rektorene uttrykker imidlertid at de finner
-den offentlige diskusjonen om assistentbruk
-unyansert. De påpeker at assistentene har
-svært ulik kompetanse, og at mange utfører en
-rekke viktige oppgaver for en svært heterogen
-elevgruppe. Behovet for en bedre informert og
-mer presis offentlig diskusjon understrekes
-sterkt. Flere påpeker i denne forbindelse at de
-finner den del av GSI-statistikken som omhandler assistenter tilnærmet verdiløs.37
-
-elevene spesialundervisning. Antallet elever i fast
-avdeling for spesialundervisning har vært relativt
-stabilt de siste fem årene.
-Finansieringsordninger for spesialundervisningen
-Innledning
-Utvalget ønsket å se på hvordan kommunene tildeler ressurser til spesialundervisning til skolene
-og få en vurdering av om finansieringsordningen
-kan ha betydning for antallet vedtak og omfanget
-av spesialundervisningen. KS har, etter forespørsel fra utvalget, gitt følgende beskrivelse av
-hvordan kommunene tildeler ressurser til skolene: Det store bildet er et system satt sammen av
-grunntildeling, hodetildeling, sosioøkonomiske/
-sosiokulturelle faktorer og erfaringstall.38
-Ekspertgruppen for barn og unge med særskilt tilrettelegging beskriver også denne praksisen:
-Det er vanlig at kommunene tildeler økonomiske midler i en pott til skolen og at det er opp
-til rektor å disponere midlene til sin skole. Tilbakemeldingene fra kommunene er derfor at
-de får færre midler til tilpasset opplæring jo
-flere elever med enkeltvedtak de har.39
-
-Antallet elever som får spesialundervisning utenfor
-klassen
-Mange barn og unge som har behov for et spesialpedagogisk tilbud, opplever at dette går på bekostning av deres deltakelse i klassefelleskapet. Siden
-2013–2014 har andelen elever som hovedsakelig
-får spesialundervisningen utenfor den ordinære
-klassen gått betydelig ned. I 2013–2014 fikk 72
-prosent av elevene hovedsakelig spesialundervisning utenfor den ordinære klassen, mens i 2017–
-2018 har andelen gått ned til 60 prosent.
-Skolestørrelse påvirker organiseringen av spesialundervisningen. Jo større en skole er, jo større
-andel av elevene får spesialundervisning utenfor
-den ordinære klassen. Samtidig er det flere som
-får spesialundervisning alene på små skoler, enn
-på store skoler. Det kan for eksempel være
-enklere å organisere elever i grupper når det er
-flere elever med spesialundervisning på samme
-skole. Tilgjengelige ressurser vil også kunne
-påvirke hvordan spesialundervisning organiseres.
-92 prosent av elevene som får spesialundervisning, har tilknytning til en ordinær klasse. De
-øvrige 8 prosentene er tilknyttet en fast avdeling
-for spesialundervisning. Ofte er dette elever med
-omfattende behov for spesialundervisning. I
-2017–2018 hadde 353 skoler faste avdelinger for
-spesialundervisning og til sammen 4 000 elever
-var tilknyttet disse. På 56 av disse skolene får alle
-
-Hvordan kommunene tildeler ressurser til
-grunnskolene
-I SØF-rapport nr. 04/16 Spesialundervisning i storbyene var oppdraget å se på spesialundervisning
-fra skoleeiers perspektiv og vurdere mulighetene
-for å påvirke omfanget. I undersøkelsen er det sett
-på spesialundervisning i fire byer: Bergen, Kristiansand, Stavanger og Trondheim.40
-Rapporten viser at alle de fire kommunene har
-rammefinansiering av sine skoler, det vil si at økonomiske midler overføres til skolene i henhold til
-en fordelingsnøkkel uten at det er bestemt i detalj
-hva midlene skal brukes til. Tildelingen av økonomiske midler bygger også på levekårsjusteringer.
-Det er store forskjeller mellom kommunene når
-det gjelder hvilke kriterier de har for tildeling, og
-det er forskjell på summene som settes av for levekårsjustering. Alle kommunene har en målsetting
-om at færre elever skal trenge spesialundervisning.
-
-38
-39
-
-37
-
-Iversen et al. 2016.
-
-40
-
-KS, e-post datert 16. november 2018.
-Nordahl et al. 2018.
-Iversen et al. 2016.
-
-[Side 359]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Modellene som brukes i de fire kommunene
-har en del felles kjennetegn.
-Hovedideen illustreres i SØF-rapporten på følgende måte:
-Tildeling = Grunnressurs + Elevsats * Antall
-elever + Levekårsressurs + tildeling til elever
-med svært omfattende behov + andre tildelinger41
-Midlene til spesialundervisning fordeles gjennom
-både en sats per elev multiplisert med antallet
-elever, levekårsressursen og tildelingen til elever
-med svært omfattende behov. Den delen av tildelingen som følger av levekårsressursen, reflekterer at skoler har ulike behov for spesialundervisning og annen tilrettelegging. For situasjoner som
-oppstår, og som ikke har med levekår å gjøre, har
-alle byene en tildeling for elever med svært omfattende behov.
-Hvordan fylkeskommunene tildeler ressurser til de
-videregående skolene
-For ressurstildeling til videregående skoler benytter de fleste fylkeskommuner følgende modell42:
-Total tildeling: Grunntilskudd + elevsats per
-utdanningsprogram * antall elever + andre kriterier + tildelinger utenfor modellen
-Grunntilskuddet er ment som et tilskudd til små
-skoler. Størrelsen på grunntilskuddet kan variere
-fra fylke til fylke.
-Elevsatsen vil utgjøre den største delen av tildelingen. Denne delen vil være avhengig av utdanningsprogrammene og antallet elever.
-Under andre kriterier ligger mange ulike faktorer. Dette vil kunne utløse tildeling til skoler
-som har elever med lave grunnskolepoeng, kompensasjon for store avstander og spredt bosetning, lærernes alder og lønnsnivå og behov for
-ressurser til spesialundervisning.
-Tildelinger utenfor modellen inneholder komponenter som ikke fanges opp av de foregående
-kategoriene. Dette kan være prosjekter eller
-andre skolespesifikke ressursbehov.
-Tildelingen til spesialundervisningen beregnes på forskjellige måter. Ressursene kan fordeles
-på bakgrunn av inntakspoeng eller tildelingen
-
-beregnes på bakgrunn av saksbehandling. Det
-kan også brukes kombinasjoner av disse beregningene. Noen fylkeskommuner baserer tildelingen på framskrivninger av fjorårets budsjett, men
-mye av midlene som brukes til spesialundervisning, ligger innenfor skolenes ordinære tildeling.
-Målet er at omfordeling av midler skjer etter kriterier som er objektive, og at tildelingen i så liten
-grad som mulig kan påvirkes av skolene.
-
-31.4.3 Regelverket i andre land
-Danmark
-I Danmark finnes det to typer tiltak for elever som
-ikke har tilfredsstillende utbytte av opplæringen:
-(1) spesialundervisning og (2) supplerende
-undervisning og faglig støtte.43
-Spesialundervisning, som forutsetter en pedagogisk-psykologisk utredning fra Pædagogiskpsykologisk rådgivning, skal bare gis til elever
-som har behov for hjelp og støtte i ni timer i uken
-eller mer. Dette følger av Danmarks lov om folkeskolen kapitel 2 § 3 Stk. 2. Spesialundervisning gis
-nesten utelukkende i spesialklasser eller spesialskoler. I 2017 var det i Danmark 9 288 elever i specialskoler, og 2 754 elever i dagbehandlingscentre
-mv.44 Totalt utgjør det 2,15 prosent av elevene.
-Elever som har behov for mindre hjelp enn ni
-timer i uken, skal gis supplerende undervisning
-og annen faglig støtte. Det er ikke krav til sakkyndig vurdering for supplerende undervisning. Supplerende undervisning og faglig støtte kan være
-rettet mot enkeltelever, grupper av elever eller
-klasser. Det er ledelsen ved skolen som beslutter
-om slik støtte skal gis, og foreldre kan ikke klage.
-Det er ingen sentral rapportering om elever som
-får supplerende undervisning og faglig støtte. Det
-ble gjort en datainnsamling i 13 kommuner i 2015,
-og 10,8 prosent av elevene hadde da slik støtte.
-Det har gitt større fleksibilitet at tiltak kan settes inn mot klasser eller grupper, men skoleledere
-har problemer med å prioritere ressurser til støttetiltak. Lærere opplever at ressurssituasjonen er
-uoversiktelig og de føler ikke at de har tilstrekkelige ressurser til å ivareta elevene. At færre elever
-får sakkyndig uttalelse, som følge av ny lovgivning, har medvirket til at lærere selv definerer og
-omtaler elever som «inkluderingselever». 45
-43
-
-41
-
-Iversen et al. 2016, s. 48.
-42
-Iversen & Nyhus, 2018, s. 4.
-
-357
-
-Kapittel 31
-
-44
-45
-
-Nordahl et al. 2018, s. 192.
-Danmarks statistikk, statistikkbanken.
-Nordahl et al. 2018, s. 192.
-
-[Side 360]
-
-358
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-Sverige
-
-Finland
-
-I Sverige er målet at alle elever skal oppleve tilhørighet i et inkluderende miljø. Ifølge skollagen fra
-2010 skal skolen gi hjelp og støtte til elever som
-trenger det. Støttevirksomheten kan beskrives i
-tre steg:
-– For det første skal den ordinære virksomheten
-tilrettelegges slik at eleven kan få undervisning
-på sitt nivå.
-– For det andre skal eleven støttes ved hjelp av
-ekstra tilpasninger («extra anpassningar»).46
-– For det tredje skal eleven gis særskilt støtte
-som medfører innsatser som ikke kan ordnes i
-den ordinære undervisningen (särskilt stöd).47
-
-I Finland deles støtteundervisning inn i tre nivåer:
-«allmänt, intensifierat och särskilt stöd».50 Allmenn støtte kan gis av de ordinære lærerne eller
-av spesiallærere. Den allmenne støtten krever
-ikke kartlegging eller formelle vedtak.
-Ifølge Finlands lag om grundläggande utbildning, skal elever som har behov for kortvarig
-støtte, få «stödundervisning». Elever som har
-behov for regelmessig støtte eller ulike former for
-støtte samtidig, skal gis støtteundervisning i form
-av «intensifierat stöd» (intensivert støtte). Elever
-kan også gis «särskilt stöd» (særskilt støtte) som
-består av «specialundervisning». Elever som har
-problemer med innlæring eller skolegang, har rett
-til spesialundervisning på deltid ved siden av den
-øvrige undervisningen.
-Den intensiverte støtten er en mer kontinuerlig, omfattende og individuell støtte. Beslutningen
-om at eleven skal få intensivert støtte gjøres på
-bakgrunn av en pedagogisk bedømmelse, og støtten skal gis i henhold til en plan.
-Hvis den intensiverte støtten ikke er tilstrekkelig for at eleven skal klare skolearbeidet, kan
-det gis særskilt støtte. Da må det fattes et formelt
-vedtak på grunnlag av en pedagogisk vurdering.
-Eleven skal ha en individuell plan. Av planen skal
-det framgå hvordan den generelle opplæringen og
-støtten skal organiseres for eleven. Den særskilte
-støtten kan omfatte både spesialundervisning og
-annen støtte.
-Alle skoler har tilgang til en psykolog og spesiallærer som utarbeider den pedagogiske vurderingen. Store skoler har sin egen psykolog og spesiallærer, og mindre skoler har ressurspersonene
-på deling.
-Ifølge Statistikcentralens utbildingsstatistik
-fikk 9,7 prosent av elevene i grunnskolen intensivert støtte høsten 2017. 7,7 prosent av elevene
-fikk særskilt støtte.51 Av elevene som fikk særskilt
-støtte, fikk 20,7 prosent støtten i den allmenne
-undervisningen, 41,9 prosent fikk støtten delvis i
-den allmenne undervisningen, mens 37,4 prosent
-fikk sin opplæring helt eller delvis i spesialklasser
-eller spesialskoler. 52
-
-I tillegg skal elever i «lågstadiet» i grunnskolen,
-spesialskolen og sameskolen som behøver tidlig
-støtte (tidig stödinsats), få det ut fra elevens
-behov, jf. skollagen kap. 3 §§ 4, 4 a – b.
-Elever med store og vedvarende behov kan få
-særskilt støtte. Slik støtte skal i første omgang gis
-til eleven i den elevgruppen den tilhører. Undervisningen kan gis som eneundervisning eller i en
-særskilt gruppe når det er behov for det. Rektor
-kan beslutte at støtten skal gis utenom ordinær
-undervisningstid. Rektor skal sørge for at det blir
-gjort en utredning og deretter må det utarbeides
-et handlingsprogram. Dersom skolen mener at
-leger eller psykologer skal delta i utredningsarbeidet, må foreldrene gi samtykke. Foreldre kan
-klage på innholdet i handlingsplanen, og de kan
-også klage hvis rektor beslutter at eleven ikke
-skal ha særskilt støtte. Det finnes ikke noen virksomhet som PP-tjenesten i Sverige. Skolen kan
-bruke de fagpersonene de ønsker til utredningen
-som skal gjøres.
-I skoleåret 2012–2013 hadde 13,9 prosent av
-elevene særskilt støtte og handlingsplan. Etter at
-det i skoleåret 2016–2017 ble innført at elever
-som trenger det, skal få ekstra tilpasning, sank
-andelen av elevene som får særskilt støtte til 5,0
-prosent.48
-Ifølge skollagen kan elever som har nedsatt
-funksjonsevne gå i «grundsärskolan» eller «gymnasiesärskolan» etter at de er utredet og har fått
-en diagnose. Døve eller hørselsskadde elever og
-elever med store språkvansker kan gå i spesialskoler etter kartlegging.49
-
-49
-46
-
-Skollag kap. 3 § 5.
-47
-Skollag kap. 3 §§ 6-12
-48
-Nordahl et al. 2018.
-
-50
-51
-52
-
-Skollag kap. 7 § 6
-Utbildningsstyrelsen, 2014, kap. 7.1.
-Statistikcentralen, 2018a.
-Statistikcentralen, 2018b.
-
-[Side 361]
-
-NOU 2019: 23
-Ny opplæringslov
-
-31.4.4 Innspill til utvalget
-Referansegruppen
-Barneombudet har i innspill53 til utvalget pekt på
-følgende problemer når det gjelder tilpasset opplæring og spesialundervisning:
-– mangel på kompetanse hos personalet
-– utstrakt bruk av ufaglærte og assistenter
-– uklare krav til tilpasset opplæring
-– mangelfull etterlevelse av reglene
-Barneombudet uttaler at de nevnte forholdene
-fører til at spesialundervisningen har dårlig kvalitet, og at Ekspertgruppen for barn og unge med
-behov for særskilt tilrettelegging mener det
-samme. Barneombudet uttaler videre:
-Tilpasset opplæring må forstås som et prinsipp
-som gjelder all opplæring, der ordinær opplæring, intensivopplæring og spesialundervisning sees i sammenheng og brukes fleksibelt.
-Et helhetlig og tilpasset opplæringstilbud forutsetter at PP-tjenestens mandat utvides, slik at
-de også får et ansvar for å støtte skolen i arbeidet med å tilpasse ordinær undervisning.
-Barneombudet skisserer en plikt til å følge med,
-undersøke tilretteleggingsbehov, sette inn tiltak
-og til slutt evaluere. Elevene må få medvirke i henhold til barnekonvensjonen. Barneombudet
-mener også at intensivopplæring bør gjelde alle
-trinn og alle fag.
-Barneombudet mener at følgende forutsetninger må være på plass for å gi en mer helhetlig tilpasset opplæring:
-– Den ordinære opplæringen må bli bedre, med
-tydeligere krav til tidlig innsats og tilpasset
-opplæring.
-– Det må settes tydeligere krav til hvordan spesialundervisningen skal planlegges, gjennomføres og evalueres.
-– PP-tjenesten må styrkes, og komme tettere på
-elevene og skolen. Tjenesten må få en tydeligere rolle i å følge opp elevenes utbytte av spesialundervisningen.
-– Elevene må sikres en rett til undervisning av
-lærere med god kompetanse.
-Barneombudet foreslår at PP-tjenestens mandat
-utvides til også å omfatte tilpasset opplæring og
-intensivopplæring, og at det bør vurderes en norm
-for bemanning og krav til kompetanse.
-
-Barneombudet mener at den nye opplæringsloven må sikre at elever får lærere med riktig
-kompetanse. Ombudet anser dette som et av de
-viktigste virkemidlene for at elever som strever,
-skal få god nok hjelp. Barneombudet viser også til
-merknadene fra FNs barnekomité i 2018, der de
-anbefaler at Norge i større grad sørger for at
-elever får opplæring og individuell støtte av spesialiserte lærere i en inkluderende opplæring. Etter
-Barneombudets erfaring fører regelen i opplæringsloven § 10-11 til at assistenter i praksis får
-mye ansvar for å gjennomføre undervisningen,
-ofte uten opplæring og veiledning. Barneombudet
-mener at bruken av personale uten undervisningskompetanse må begrenses betraktelig, og
-det må framkomme klart av loven at personale
-uten undervisningskompetanse ikke skal ha
-ansvaret for å planlegge eller gjennomføre undervisningen, men kun hjelpe til.
-Barneombudet mener også at loven må utformes på en pedagogisk og oversiktlig måte. Loven
-kan med fordel være mindre detaljert på noen
-områder, men på området tilpasset opplæring og
-spesialundervisning er det nødvendig med mer
-utfyllende regler.
-Foreldreutvalget
-for
-grunnopplæringen
-(FUG) ønsker et tydeligere lovverk når det gjelder rett til logoped. Videre ønsker FUG at spesialundervisning fortsatt skal være en lovfestet rett.54
-Foreldreutvalget mener dessuten at dagens spesialundervisning bør bli bedre, og at det bør unngås
-at spesialundervisning blir synonymt med segregering. FUG er enig i at for mange elever får spesialundervisning i dag, men mener likevel at spesialundervisning ikke bør utelukkes for elever
-som har høyt læringspotensial.
-KS mener at man i størst mulig grad bør
-unngå å lage særregler om saksbehandlingen,
-fordi de generelle reglene i forvaltningsloven bør
-følges.55 KS ønsker også en klargjøring av om det
-bare er PP-tjenesten som kan utarbeide en
-sakkyndig vurdering, eller om også andre kan
-utrede sakene.
-Skolelederforbundet er opptatt av opplæringsbegrepet og forholdet mellom tilpasset opplæring
-og spesialundervisning.56 Skolelederforbundet
-mener at klageadgang på individnivå er viktig å
-opprettholde, «men at det må tydeliggjøres hva
-den individuelle rettigheten innebærer på det
-enkelte området. Svært ofte er det snakk om ressurser». Forbundet peker på at regelverket på
-54
-55
-
-53
-
-Barneombudet, innspill til utvalget.
-
-359
-
-Kapittel 31
-
-56
-
-FUG, innspill til utvalget.
-KS, innspill til utvalget.
-Skolelederforbundet, innspill til utvalget.
-
-[Side 362]
-
-360
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-opplæringsområdet regulerer viktige rettigheter
-for barn, unge og voksne.
-Sametinget sier i innspill til utvalget at samiske
-elever med særskilte behov utgjør den mest sårbare samiske elevgruppen som opplæringslovens
-bestemmelser omfatter. Sametinget mener at for
-at disse elevene skal sikres forsvarlige sakkyndige
-vurderinger etter opplæringsloven § 5-3 og tilfredsstillende tilrettelagt opplæring, må PP-tjenestens vurderinger ta hensyn til barnas språklige og
-kulturelle bakgrunn.
-Sametinget uttaler videre at en styrking av
-samiskspråklig og kulturell kompetanse ofte er
-praktisk umulig å få til i alle kommuner. Det må
-finnes en faglig sterk instans med kompetanse i
-samisk språk og kultur som kan gi bistand til førstelinjetjenestene. Sametinget legger til at regelverket må tilpasses slik at dette er synliggjort og
-tydelig.57
-Utdanningsforbundet peker på følgende problemstillinger:58
-– Tilsyn viser at økonomiske hensyn vektlegges
-når det fattes vedtak om spesialundervisning.
-Utdanningsforbundet ønsker en presisering av
-kommunens plikt til å sørge for tilstrekkelige
-ressurser for at skolen skal oppfylle kravene i
-loven og forskriftene.
-– Alle kommuner skal ha en PP-tjeneste, og tjenesten har store og sentrale oppgaver, men det
-er ikke regulert krav til kapasitet eller kompetanse.
-– Problemstillinger knyttet til tilpasset opplæring, spesialundervisning og regelverksetterlevelse tydeliggjør behovet for skolefaglig kompetanse i kommuneadministrasjonen. Utdanningsforbundet mener at dette kravet kan styrkes i regelverket.
-– Muligheten for å gjøre unntak fra kompetansekravet for lærere som gir spesialundervisning,
-gir et uheldig signal, og kompetansekravet bør
-innskjerpes.
-– Det store rettsanvendelsesskjønnet som ligger
-i kriteriet «tilfredsstillende utbytte» gjør det
-krevende å anvende regelverket. Ulikhetene i
-andelen elever som mottar spesialundervisning er større enn det som lar seg forklare med
-naturlig variasjon i antallet elever med spesielle
-behov. Gir «tilfredsstillende utbytte» som kriterium for rett til spesialundervisning et for stort
-skjønnsmessig handlingsrom og kan dette gå
-på bekostning av tilbudet til elevene? Utdan-
-
-ningsforbundet mener uttrykket «tilfredsstillende utbytte» ikke er godt nok klargjort.
-I tillegg mener Utdanningsforbundet at elevenes
-rett til spesialundervisning må videreføres.
-Andre
-Forum for fylkesutdanningssjefer har i møte med
-utvalget59 gitt innspill om at det kan være vanskelig å avgjøre hva som er opplæring og hva som er
-helsehjelp eller behandling. I forlengelsen er det
-et spørsmål om hvem som har ansvaret, ettersom
-fylkeskommunen har ansvaret for opplæringen og
-kommunen for tjenester innenfor helse og barnevern. Fylkesutdanningssjefene ga også uttrykk
-for at skolene ikke har de ressursene de trenger
-til å ivareta elever med store helsemessig utfordringer. Videre ga Forum for fylkesutdanningssjefer disse innspillene:
-– Elevene har gjerne en og to som hjelper seg
-resten av døgnet, men ikke når de er på skolen.
-– Elevene vil være tjent med en klargjøring av
-hvem som har ansvaret for å yte helsemessige
-tjenester når elevene er på skolen.
-– I mange tilfeller er det behov for koordinert
-innsats for å ivareta den enkelte ungdom. Ofte
-lages det ikke individuell plan eller planen blir
-ikke fulgt opp.
-– Uklare ansvarsforhold fører til at slike saker
-ofte ender med å handle om penger og ressurstildeling. Dersom ansvarsforholdene tydeliggjøres, kan alle innenfor rammene arbeide for
-å gjøre det som er til det beste for den enkelte
-ungdom.
-Forumet ber utvalget vurdere om disse utfordringene og uklarhetene kan reduseres.
-Friskolenes Kontaktforum og Kristne Friskolers Forbund ønsker at elever som flytter mellom
-skoler, og som har vedtak om spesialundervisning, ikke skal miste spesialundervisningen mens
-de venter på nytt vedtak. Dette gjelder enten skolene er friskoler, kommunale eller fylkeskommunale.60
-Fylkesmannen i Rogaland foreslår i innspill til
-utvalget en utvidelse av plikten til å utarbeide individuell plan.61 Fylkesmannen ønsker at skolen
-skal ha plikt etter opplæringsloven til å utarbeide
-en individuell plan for elever som trenger langva59
-60
-
-57
-58
-
-Sametinget, innspill til utvalget.
-Utdanningsforbundet, innspill til utvalget.
-
-61
-
-Forum for fylkesutdanningssjefer, innspill til utvalget.
-Friskolenes Kontaktforum og Kristne Friskolers Forbund,
-innspill til utvalget.
-Fylkesmannen i Rogaland, innspill til utvalget.
-
-[Side 363]
-
-NOU 2019: 23
-Ny opplæringslov
-
-rige og koordinerte tjenester, og at andre aktører
-skal ha plikt til å delta.
-Foreningen Lykkelige barn skriver i et innspill
-til utvalget62 at familier med barn med høyt potensial for læring opplever at regelverket er uklart og
-noen ganger til hinder for god oppfølging av deres
-barn. Foreningen ønsker at det skal komme tydeligere fram at alle elever, også de med høyt potensial for læring, skal få tilpasset opplæring.
-Foreningen ønsker også en klargjøring av PP-tjenestens ansvar for elever som har høyt potensial
-for læring.
-Professor Monica Melby-Lervåg, UiO, Institutt
-for spesialpedagogikk, har skrevet et innlegg til
-utvalgets hjemmeside om spesialundervisning og
-tilpasset opplæring.63 Melby-Lervåg mener det er
-skapt et uriktig bilde av at spesialundervisning
-ikke virker. Tvert imot viser undersøkelser at spesialundervisningen kan ha god effekt når den
-gjennomføres på en god måte, sier hun. MelbyLervåg mener at lovverket er godt, og at problemet er hvordan opplæringen gis og den varierende kompetansen til dem som underviser. Hun
-mener det skal være krav om spesialpedagogisk
-kompetanse for dem som gir spesialundervisning.
-Melby-Lervåg mener at tilpasset opplæring er
-et godt prinsipp, men det krever ressurser og
-kompetanse som skolen i varierende grad har.
-Det samme gjelder prinsippet om tidlig innsats på
-1. til 4. trinn.
-Når det gjelder PP-tjenesten, peker Monica
-Melby-Lervåg på at tjenesten har høy kompetanse, men at den ikke er dimensjonert for de
-store oppgavene den har. Hun foreslår en bemanningsnorm basert på elevtall.
-Monica Melby-Lervåg peker på fire faktorer
-som bidrar til at dagens situasjon ikke er tilfredsstillende:
-1. Det er lite om lærevansker i lærerutdanningene.
-2. Spesialpedagoger arbeider langt unna barna
-fordi de ikke er kvalifisert til lærerstillinger.
-3. PP-tjenesten har for mange oppgaver i forhold
-til bemanning.
-4. Spesialundervisning blir ikke tatt alvorlig fordi
-det har spredt seg en myte om at det ikke har
-effekt.
-Melby-Lervåg poengterer at disse faktorene i
-hovedsak må løses utenfor lovverket.
-Redd Barna uttrykker bekymring for at mange
-skoler ikke oppfyller plikten til å gi tilpasset opp62
-63
-
-Lykkelige barn, innspill til utvalget.
-Melby- Lervåg, innspill til utvalget.
-
-361
-
-Kapittel 31
-
-læring.64 Organisasjonen ønsker at plikten skal
-konkretiseres slik at det blir tydeligere krav til
-innhold og kvalitet. Redd Barna mener også at det
-bør vurderes om noe kan rettighetsfestes. Redd
-Barna viser til barnekonvensjonens artikkel 23
-tredje avsnitt om barn med funksjonsnedsettelse
-og anbefaler at opplæringslovens § 9 A-7 videreføres med tilføyelser som gir ytterligere rettigheter
-for elever som trenger en arbeidsplasssom er tilpasset deres behov. Organisasjonen ønsker at
-opplæringsloven skal sikre elever med nedsatt
-funksjonsevne bedre rettsvern, bedre tilrettelegging og en mer inkluderende skolehverdag på sin
-nærskole.
-Redd Barna ønsker å styrke elevens rett til
-spesialundervisning og de ønsker at barnets rett
-til medvirkning i utformingen av spesialundervisningen skal skjerpes. De mener at det er behov
-for nasjonale retningslinjer for hvordan spesialundervisning skal planlegges, gjennomføres og evalueres. De peker også på at mange elever mottar
-spesialundervisning fra ufaglærte, og ønsker at
-opplæringsloven skal sikre barnets rett til å få
-opplæring av en fagperson med godkjent utdanning. Redd Barna ønsker også en lovpålagt
-logopedtjeneste.
-I et møte utvalget hadde med Samisk spesialpedagogisk tjeneste, ble det uttrykt bekymring for
-mangelen på læremidler, kartleggingsressurser,
-samiskspråklige lærere med spesialpedagogisk
-kompetanse og mangel på samisk kompetanse i
-PP-tjenesten.
-Utvalget har hatt flere møter med representanter for Unge funksjonshemmede, som har delt
-sine erfaringer med dagens regelverk og kommet
-med forslag til forbedringer. Unge funksjonshemmede legger vekt på at deres medlemmer har
-svært ulike utfordringer og behov. Organisasjonen har forslag til en annen ordning for spesialundervisning enn dagens ordning, med to typer vedtak: ett for spesielt omfattende behov og ett for
-mer generelle lavterskeltiltak. Unge funksjonshemmede er også opptatt av å sikre overgangene
-mellom skoleslagene for elever med behov for tilrettelegging.
-Utvalget har også hatt flere møter med Funksjonshemmedes fellesorganisasjon (FFO). FFOs
-medlemsorganisasjoner framhever at elever har
-bedre utbytte av opplæring i et læringsfellesskap
-enn i eneundervisning, selv om segregert undervisning kan være best for noen elever. Elever og
-foreldre opplever at spesialundervisningen gis
-som et «pakkeforløp», og ønsker at spesialunder64
-
-Redd Barna, innspill til utvalget.
-
-[Side 364]
-
-362
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-gen og derfor har behov for ytterligere tilrettelegging. Undersøkelser viser at det er flere utfordringer med dagens tilbud til barn og unge med
-behov for slik tilrettelegging i skolen. Utfordringene er beskrevet og drøftet i en rekke rapporter,
-meldinger til Stortinget og NOU-er. Det er bred
-enighet65om at
-– mye av spesialundervisningen blir gitt av personer som ikke oppfyller opplæringslovens
-krav til faglig og pedagogisk kompetanse
-– spesialundervisning virker sosialt stigmatiserende for mange barn
-– mange barn får hjelp for sent
-– PP-tjenesten utfører oppgaver som er knyttet til
-kompetanse- og organisasjonsutvikling, kun i
-begrenset omfang
-
-Figur 31.4 Utvalgsleder Jon Christian Fløysvik
-Nordrum i møte med Unge funksjonshemmede og
-FFO
-Foto: Opplæringslovutvalget
-
-visningen skal være tilpasset den enkelte eleven.
-Det er ønskelig med kortere saksbehandlingstid,
-og det kan være mulig med en forenkling av saksbehandlingen. FFO mener at tidlig innsats og
-intensivopplæring må gjelde for alle trinn. Videre
-at det må gjennomføres en vurdering av tiltakene
-og læringsresultatene for elever som får spesialundervisning oftere enn én gang i året. FFO
-mener også at plikten til å gi tilpasset opplæring
-må tydeliggjøres.
-
-31.5 Utvalgets vurdering
-31.5.1 Innledning
-Ifølge utvalgets mandat skal «utvalget ta hensyn
-til at opplæringsloven skal hjemle og beskytte
-elevers rettigheter og behov». Utvalget skal ifølge
-mandatet også særlig vurdere hvilke forhold som
-bør reguleres gjennom å gi rettigheter på individnivå med tilhørende klageordninger.
-Retten til spesialundervisning er en sentral rettighet i opplæringsloven, og rettigheten er ment å
-være et sikkerhetsnett for elever som ikke får tilfredsstillende utbytte av den tilpassede opplærin-
-
-Det er grunn til å tro at disse problemene ikke
-nødvendigvis eller utelukkende skyldes regelverket, men hvordan regelverket implementeres og
-praktiseres.66 For at spesialundervisning skal ha
-god effekt, må tiltak settes i verk raskt, og tilbudet
-bør bygge på forskningsbasert kunnskap om hva
-som gir best læring for elevene.67
-Utvalget har vurdert om lovendringer kan
-bidra til å løse problemene med dagens tilbud til
-elever med behov for individuell tilrettelegging.
-Utvalget har drøftet flere spørsmål, blant annet:
-Hvordan kan reglene endres, og hva kan man
-oppnå med en eventuell endring?
-
-31.5.2 Rettssikkerheten må ivaretas for alle
-elever
-Kommunene har i dag full frihet til å styrke den tilpassede opplæringen slik at behovet for spesialundervisning blir minst mulig. Allikevel viser tall fra
-GSI at mange kommuner har et vedvarende høyt
-antall elever som mottar spesialundervisning. På
-bakgrunn av de utfordringene som er avdekket,68
-mener utvalget at kommunen i større grad enn i
-dag må praktisere en inkluderende opplæring ut
-fra det elevmangfoldet skolene til enhver tid har.
-Det vil trolig alltid finnes elever som vil ha behov
-for tilpasninger av undervisningen, der individuell
-tilrettelegging er nødvendig for at disse elevene
-skal få et tilfredsstillende opplæringstilbud.69 Det
-vil blant annet gjelde elever med langvarige og
-omfattende behov for individuell tilrettelegging.
-65
-66
-67
-68
-69
-
-Nordahl et al. 2018.
-Melby-Lervåg, innspill til utvalget.
-Melby-Lervåg, innspill til utvalget.
-Nordahl et al. 2018.
-NOU 2019: 3, kap. 13.5.
-
-[Side 365]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Ekspertgruppen for spesialpedagogikk, etablert
-av Kunnskapsdepartementet i 2012, påpeker i sin
-rapport at enkelte elever har så sammensatte og
-komplekse utfordringer at de ikke kan avhjelpes
-innenfor rammene av tilpasset opplæring.70 Etter
-utvalgets vurdering må derfor elever som skolen,
-av ulike grunner, ikke greier å gi tilfredsstillende
-utbytte av den tilpassede opplæringen, ha rett til
-individuelt tilrettelagt opplæring. Utvalget foreslår
-derfor at dagens rett til spesialundervisning videreføres, men med omarbeidelser når det gjelder
-terminologi og hva retten skal inneholde.
-At elevene har en rett, innebærer at kommunen er rettslig forpliktet til å oppfylle retten. Kommunen kan ikke unnlate å oppfylle rettigheten
-med den begrunnelsen at det ikke er avsatt penger til formålet. En rett til individuelt tilrettelagt
-opplæring innebærer også at den enkelte har rett
-til å klage på opplæringstilbudet og få saken overprøvd av en klageinstans. I siste instans kan rettigheten håndheves ved domstolene. En slik rettighet innebærer dermed økt rettssikkerhet for den
-enkelte.
-
-31.5.3 Alternative modeller for lovregulering
-På bakgrunn av utfordringene som Ekspertgruppen for barn og unge med behov for særskilt tilrettelegging peker på i sin rapport, se kapittel
-31.4.2, og innspill utvalget har fått, blant annet i
-møter med ulike organisasjoner, mener utvalget at
-det er behov for å endre dagens regelverk. Utvalget antar at noen av problemene kan avhjelpes
-med regelendringer. Utvalget foreslår endringer i
-dagens regelverk blant annet når det gjelder hva
-elever som har behov for særskilt tilrettelegging,
-skal ha rett til, og saksbehandlingsreglene knyttet
-til dette.
-Målet med forslagene er at elevene skal
-– få nødvendig hjelp så tidlig som mulig
-– få hjelp av personale med relevant faglig og
-pedagogisk kompetanse
-– være og føle seg inkludert i et fellesskap
-Utvalget ønsker også
-– å styrke elevens individuelle medvirkning
-– å forenkle saksgangen
-– at skolen skal få mer støtte og veiledning fra
-PP-tjenesten
-Forslagene til regelendringer er utarbeidet med
-forutsetningen i utvalgets mandat om at forslaget
-til ny opplæringslov ikke skal innebære vesentlige
-70
-
-Rognhaug et al. 2014.
-
-363
-
-Kapittel 31
-
-merkostnader for staten eller kommunalforvaltningen.
-Utvalget har vurdert hvordan reglene om tilpasset opplæring og spesialundervisning bør innrettes, ut fra disse tre alternativene:
-– Dele opp dagens rett til spesialundervisning i
-separate rettigheter, ved å skille mellom rett til
-individuelt tilrettelagt opplæring på den ene
-siden og rett til personlig assistanse og individuell fysisk tilrettelegging på den andre siden.
-– Differensiere opplæringstilbudet avhengig av
-graden av tilrettelegging.
-– Endre retten til individuelt tilrettelagt opplæring (spesialundervisning) slik at den bare gjelder når det er aktuelt med avvik fra læreplanverket.
-De tre alternative modellene er beskrevet nedenfor. Modellene må ses i sammenheng med hvilke
-andre lovendringer som kan gjøres. Elementer fra
-de ulike modellene kan også kombineres.
-
-31.5.3.1 Modell 1: skille mellom individuelt
-tilrettelagt opplæring på den ene siden og
-personlig assistanse og fysisk
-tilrettelegging på den andre siden
-Mange elever vil ha behov for individuell tilrettelegging, men av ulik karakter. Noen elever har
-behov for individuelt tilrettelagt opplæring i ett
-eller flere fag eller for å nå målene i den generelle
-delen av læreplanverket. Andre elever har kun
-behov for personlig assistanse og praktisk hjelp i
-skolehverdagen. Det kan for eksempel være
-elever med nedsatt funksjonsevne som har behov
-for hjelp av en assistent som følger eleven gjennom skoledagen eller deler av den. Enkelte elever
-har kun behov for fysisk tilrettelegging på skolen,
-for eksempel tilpasning av arbeidsplassen,
-teleslynge i klasserommet eller ulike teknologiske
-løsninger. I noen tilfeller er det aktuelt med en
-kombinasjon av disse formene for tilrettelegging.
-Etter dagens regelverk kan et vedtak om spesialundervisning etter opplæringsloven § 5-1 omfatte
-både pedagogisk tilrettelegging av opplæringen,
-personlig assistanse i skolehverdagen og fysisk
-tilrettelegging.
-En modell for lovregulering kan være å skille
-mellom rett til individuelt tilrettelagt opplæring på
-den ene siden og rett til personlig assistanse og
-individuell fysisk tilrettelegging i skolen på den
-andre siden. Tiltak som innebærer personlig
-assistanse og fysisk tilrettelegging, dreier seg
-ikke om opplæringen i fag eller for å nå mål i den
-overordnede delen av læreplanverket, og det vil
+#### Om stillingsvern og heving av kontrakt om opplæring
+
+Generelt om forholdet mellom opplæringsloven og arbeidsmiljøloven
+
+Det følger av dagens § 4-2 andre avsnitt andre setning at dersom lærekontrakten og arbeidskontrakten er inngått mellom de samme partene, kan ikke arbeidskontrakten sies opp med mindre lærekontrakten heves etter opplæringsloven § 4-6. Bestemmelsen innebærer at arbeidsmiljølovens ordinære regler om stillingsvern ikke kommer til anvendelse i slike tilfeller.
+
+Utvalget bemerker at lovens forarbeider gir tvil om hvorvidt lovgivers intensjon har vært å sette arbeidsmiljølovens regler om stillingsvern til side, og å skille i oppsigelsesvernet mellom lærlinger som har lærekontrakt direkte med lærebedriften, og dem som har inngått kontrakt med et opplæringskontor. Utvalget viser i denne sammenheng til redegjørelsen for aktuelle forarbeider, gitt i lagmannsrettsdommen LF-2009-137181.
+
+Etter utvalgets forslag vil ikke opplæringskontorer lenger kunne godkjennes som lærebedrifter, se kapittel 29.4.3.2. Dette innebærer at alle kontrakter om opplæring skal inngås med lærebedriften, og at kontrakten om opplæring og arbeidskontrakten inngås mellom de samme partene. Denne problemstillingen vil dermed ikke gjøre seg gjeldende framover.
+
+Når utvalget prinsipielt mener at læreforholdet først og fremst skal reguleres av arbeidslivets regler, tilsier dette som utgangspunkt at arbeidsmiljølovens regler om stillingsvern bør gjelde for både arbeidsavtalen og kontrakten om opplæring. Utvalget erkjenner imidlertid at heving av kontrakten om opplæring har sider som er knyttet til den enkeltes rettigheter etter opplæringsloven. Fordi heving må anses å innebære tap av rettigheter, bør det fattes enkeltvedtak, noe som blant annet innebærer at kandidaten har klagerett. Etter utvalgets vurdering er dette hensyn som taler for at heving ikke bør overlates til arbeidsrettslige regler, men fremdeles reguleres i opplæringsloven. Utvalget mener dessuten at fylkeskommunen fremdeles bør fatte vedtak i saken. Etter utvalgets vurdering er det vanskelig å se i hvilke tilfeller dagens regler åpner for heving, men arbeidsforholdet ikke kan avsluttes etter de ordinære stillingsvernsreglene i arbeidsmiljøloven. Etter utvalgets vurdering bør ikke arbeidsavtalen kunne sies opp uten at kontrakten om opplæring kan heves. Utvalget foreslår derfor at opplæringsloven fullt ut skal regulere opphør av både arbeidsavtalen og lærekontrakten.
+
+Særlig om oppsigelsesvern for lærlinger over 21 år
+
+Hovedregelen er at arbeidsmiljølovens regler om prøvetid og oppsigelse ikke gjelder for lærlinger og lærekandidater. I stedet er det opplæringslovens regler om heving av lærekontrakter og opplæringskontrakter som er avgjørende for når arbeidsavtalen kan sies opp. Fra denne hovedregelen er det i dagens opplæringslov § 4-5 tredje avsnitt gjort unntak for lærlinger og praksisbrevkandidater som er over 21 år, og som inngår lærekontrakt eller opplæringskontrakt med full opplæring i bedrift. For disse lærlingene og praksisbrevkandidatene er det fastsatt at det skal avtales prøvetid på seks måneder, og at kontrakten kan sies opp innenfor prøvetiden etter arbeidsmiljølovens regler. Videre er det fastsatt at dette gjelder uavhengig av om det faktisk er avtalt prøvetid eller ikke.
+
+Etter utvalgets vurdering er hensikten med dagens § 4-5 tredje avsnitt at lærlinger og praksisbrevkandidater over 21 år ikke skal ha samme beskyttelse mot å miste læreplassen som dem under 21 år, og at de kan sies opp etter arbeidsmiljølovens alminnelige regler innenfor en periode på seks måneder. Utvalget mener det er rimelig at lærlinger med ungdomsrett skal ha et sterkere vern, og foreslår at regelen videreføres. Utvalget foreslår imidlertid en omformulering hvor dette kommer tydeligere fram. Etter forslaget vil det ikke lenger være noe krav om prøvetid, men oppsigelsesreglene for prøvetid vil gjelde for de første seks månedene av læreforholdet.
+
+Etter dagens regler gjelder bestemmelsen om prøvetid kun for lærlinger og praksisbrevkandidater over 21 år. Utvalget bemerker at «full opplæring i bedrift» henviser til at man får all programfagsopplæringen i bedrift, såkalt 0 + 4-løp. Hensynet til både bedriftens virksomhet og opplæringen til lærlingen tilsier at det bør være regler om prøvetid i disse tilfellene. Utvalget er ikke kjent med at slike løp er utbredt for lærekandidater. Det er uansett vanskelig å se tungtveiende grunner for at lærekandidater ikke skal være omfattet av bestemmelsen.
+
+I dagens § 4-5 tredje avsnitt er de særlige reglene om oppsigelse omtalt som at «læreforholdet» kan sies opp etter reglene i arbeidsmiljøloven uavhengig av hevingsreglene i opplæringsloven. Etter utvalgets vurdering er denne formuleringen upresis. Det er arbeidsavtalen som sies opp etter reglene i arbeidsmiljøloven. Poenget er at reglene om heving av kontrakter om opplæring i opplæringsloven ikke er til hinder for at arbeidsavtalen kan sies opp etter reglene i arbeidsmiljøloven, når det gjelder lærlinger og praksisbrevkandidater over 21 år. Kontrakten om opplæring vil i slike tilfeller også falle bort. Utvalget foreslår å klargjøre dette i lovteksten.
+
+Heving etter ønske fra lærlingen
+
+Etter dagens regler er en av hevingsgrunnene at lærlingen sier ifra at det vil være en «urimeleg ulempe» å fortsette ut kontraktstiden, jf. § 4-6 tredje avsnitt bokstav c. Bestemmelsen er en videreføring fra den tidligere fagopplæringsloven § 16. I forarbeidene til denne bestemmelsen står det at «\[p\]unkt 3 dekker først og fremst heving av velferdsgrunner, for eksempel at lærlingen av private grunner må søke seg over i annet arbeid, at flytting av bedriften gjør det til en urimelig belastning å følge med til det nye sted osv».[^714]
+
+Fagopplæringsloven § 16 var basert på forslaget i NOU 1978: 30 *Om lærlinglov*. Utvalget foreslo en noe mer konkret bestemmelse. Om heving var det blant annet foreslått at et av vilkårene skulle være at «lærlingen av velferdsgrunner må flytte til et annet sted og dette i vesentlig grad vanskeliggjør lærlingens fortsettelse av læreforholdet». Det går fram av Ot.prp. nr. 6 (1979–80) at departementet valgte en mer «generell utforming», men departementet sier ingen ting om at det med dette ønsket en annen terskel.
+
+Etter utvalgets vurdering er det naturlig å tolke forarbeidene i retning av at det er tenkt en form for terskel for når læreforholdet kan heves etter ønske fra lærlingen, men det gis få holdepunkter for hvor terskelen ligger, utover at det siktes til «velferdsgrunner». Utvalget stiller spørsmål ved om det er hensiktsmessig å oppstille en terskel for når ønsket fra lærlingen selv vil være godkjent som hevingsgrunn. Dersom lærlingen har velferdsmessige årsaker som tilsier at det blir vanskelig å fortsette læreforholdet, vil det være rimelig å anta at læreforholdet vil kunne heves med grunnlag i et av lovens øvrige alternativer. Først og fremst vil slike tilfeller trolig løses ved at lærlingen og lærebedriften blir enige om å si opp læreforholdet og avslutte arbeidsavtalen. Etter utvalgets vurdering vil det uansett trolig være få velferdsmessige tilfeller som vil dekkes av «urimelig ulempe for lærlingen», men som ikke også dekkes av «ute av stand til å halde fram i læreforholdet», jf. bokstav b. Endelig mener utvalget at det kan synes unødvendig å ha en terskel, all den tid et avslag på heving på dette grunnlaget kan føre til at forholdet istedenfor blir hevet etter bokstav a på et senere tidspunkt. Utvalget vil derfor foreslå at det ikke skal være en terskel for heving av kontrakten om opplæring der det er etter ønske fra lærlingen.
+
+Saksbehandlingen ved heving
+
+I dagens § 4-6 tredje avsnitt står det at lærekontrakter og opplæringskontrakter kan heves etter «samtykke» fra fylkeskommunen i tilfeller der partene ikke er enige om heving. Ordlyden gir inntrykk av at den ene parten kan heve kontrakten med samtykke fra fylkeskommunen, mens paragrafens fjerde, femte og sjette avsnitt synes å forutsette at det er fylkeskommunen som vedtar heving. For å oppnå bedre sammenheng foreslår utvalget å klargjøre i loven at det er fylkeskommunen som vedtar heving i slike tilfeller. Ved at fylkeskommunen skal vedta heving, vil rettssikkerhetsgarantier som gjelder for forvaltningsvedtak, komme til anvendelse.
+
+Dersom lærebedriften krever heving, følger det av dagens regler at lærlingen skal få anledning til å forklare seg muntlig for den som skal fatte vedtaket, før det fattes vedtak i saken, jf. § 4-6 femte avsnitt. Etter utvalgets vurdering er det lite hensiktsmessig å særregulere saksbehandling ved heving av kontrakter om opplæring. Vedtak om heving er enkeltvedtak og forvaltningslovens saksbehandlingsregler kommer til anvendelse. Forvaltningsloven gir ingen ubetinget rett til å uttale seg muntlig og direkte overfor den eller dem som skal fatte vedtaket.[^715] Etter utvalgets vurdering er det ikke argumenter som taler for at det skal være andre regler for lærlinger enn for elever, og at lærlinger skal ha en sterkere rett enn hva som følger av forvaltningslovens alminnelige regler. Utvalget foreslår derfor at opplæringsloven ikke gir regler om saksbehandlingen ved hevingssaker. Det betyr at forvaltningslovens alminnelige saksbehandlingsregler vil gjelde fullt ut også for hevingssaker. Prinsippet om barnets beste og retten til å ytre seg følger av Grunnloven § 104 og barnekonvensjonen.
+
+I dagens § 4-6 fjerde avsnitt første setning er det fastsatt at fylkeskommunen avgjør når læreforholdet skal ta slutt, i de tilfellene fylkeskommunen vedtar heving. Etter utvalgets vurdering er dette en unødig regulering. Dersom fylkeskommunen kan vedta at en kontrakt skal heves, vil det ligge innenfor denne vedtaksmyndigheten å beslutte fra hvilket tidspunkt effekten av hevingen skal inntre. Utvalget foreslår at dagens § 4-6 fjerde avsnitt første setning ikke videreføres.
+
+#### Tilgang til PP-tjenesten
+
+Dagens § 4-2 fjerde avsnitt sier at «lærlingar, praksibrevkandidatar og lærekandidatar skal ha same tilgang på pedagogisk-psykologisk teneste som elevar i vidaregåande skole». Bortsett fra regler om spesialundervisning er det ikke fastsatt regler for hvilken tilgang elever i videregående opplæring skal ha til pedagogisk-psykologisk tjeneste (PP-tjenesten).
+
+Etter utvalgets vurdering framstår det som uklart hva retten etter dagens § 4-2 fjerde avsnitt innebærer. Med utgangspunkt i bestemmelsens forarbeider er det nærliggende å legge til grunn at departementet ved innføringen mente å gi lærlinger en tilgang til PP-tjenesten, men ikke en rett til spesialundervisning eller ande sosialpedagogiske tiltak.[^716] Det er ikke klargjort i forarbeider eller etterfølgende tolkninger hva som reelt sett ligger i lærlingenes tilgang til PP-tjenesten. Etter utvalgets oppfatning er hensikten med bestemmelsen å sikre at lærlinger får sakkyndig vurdering fra PP-tjenesten når dette er påkrevd, på lik linje med elever i skolen. Lærlinger og praksisbrevkandidater har i dag ikke rett til spesialundervisning, men det finnes andre regler som forutsetter sakkyndig vurdering fra PP-tjenesten. For eksempel er det i forskrift til opplæringsloven § 3-44a fastsatt at lærlinger på visse vilkår kan få fritak fra krav til fellesfag dersom det foreligger en sakkyndig vurdering.
+
+Utvalget har i forslag til § 10-12 videreført reguleringen i dagens lov § 5-6 som sier at PP-tjenesten skal sørge for at det blir utarbeidet sakkyndige vurderinger i alle tilfeller der det er påkrevd etter lov eller forskrift. Etter dette mener utvalget at lærlinger vil ha rett til å få vurdering fra PP-tjenesten selv om de ikke har en lovfestet rett til tilgang på PP-tjenesten. Utvalget foreslår derfor at bestemmelsen ikke videreføres.
+
+### Lærebedrifter
+
+#### Krav om godkjenning
+
+Utvalget mener det fremdeles må være krav om godkjenning for å kunne gi opplæring til lærlinger. Etter dagens regler skal fylkeskommunen godkjenne opplæringskontor, opplæringsringer og lærebedrifter, herunder hver enkelt bedrift som inngår i et samarbeid i form av et opplæringskontor eller en opplæringsring. Fylkeskommunen skal også godkjenne den enkelte lærekontrakten. Etter utvalgets vurdering framstår en slik tredobbel godkjenning som unødvendig for å sikre kvalitet i fagopplæringen og at mottakerne av opplæringen får oppfylt sine rettigheter.
+
+Utvalget mener kravet om godkjenning av den enkelte lærebedriften og den enkelte kontrakten om opplæring bør videreføres. Dersom flere bedrifter samarbeider om opplæring, bør det som i dag være krav om at det framgår av kontrakten hvem som er ansvarlig for de ulike delene av opplæringen etter den fastsatte læreplanen eller den individuelt fastsatte opplæringsplanen. Det bør derfor være mulig at fylkeskommunen ved godkjenning av lærebedrifter er tydelig på om bedriften er godkjent for å gi opplæring etter læreplanen i sin helhet, eller kun for opplæring i deler av den. Ved godkjenning av lærekontrakter må det oppgitte opplæringsansvaret til lærebedriften vurderes i lys av den godkjenningen bedriften har fått som lærebedrift. Etter dette mener utvalget at det vil være unødvendig å forhåndsgodkjenne bedriftssamarbeid. Dersom det likevel er ønskelig å åpne opp for nærmere regulering av godkjenningen av lærebedrifter, er dette ivaretatt ved at forskriftshjemmelen om nærmere godkjenningsregler videreføres i forslaget.
+
+Etter dagens regler er det en forutsetning for godkjenning at lærebedriften er faglig vurdert av yrkesopplæringsnemnda (y-nemnda). Det står i § 4-3 første avsnitt siste setning at fylkeskommunen skal legge avgjørende vekt på y-nemndas vurdering før det fattes vedtak i saker om godkjenning av lærebedrift. Utvalget foreslår i hovedsak å videreføre bestemmelsen, men foreslår at y-nemndas vurdering ikke skal tillegges avgjørende, men stor vekt. Se nærmere redegjørelse i kapittel 29.4.5.4.
+
+#### Særlig om opplæringskontor
+
+Etter dagens regler kan opplæringskontorer godkjennes som lærebedrift, og reglene for lærebedrifter gjelder fullt ut. Ettersom opplæringskontorene godkjennes som lærebedrift, tilsier lovens ordlyd at lærebedriftenes plikter i utgangspunktet ligger til opplæringskontorene. Ifølge Ot.prp. nr. 41 (2006–2007) skal ikke de underliggende bedriftene regnes som lærebedrifter når de samarbeider gjennom et opplæringskontor, men som medlemsbedrifter i opplæringskontorene.
+
+Det er ikke gitt at alle reglene om lærebedriftens rettigheter og plikter også passer for opplæringskontorer. Eksempelvis kan det spørres om opplæringskontoret kan oppfylle en plikt til å tilrettelegge produksjonen og opplæringen slik at lærlingen kan nå kompetansemålene i læreplanene. Tilsvarende er det uklart i hvilken grad opplæringskontoret kan skape et godt arbeids- og læringsmiljø for den enkelte. Gitt lovens ordlyd og uttalelsene i forarbeidene om at de underliggende bedriftene ikke er lærebedrifter, er det tvilsomt om disse pliktene også kan sies å påligge enkeltbedriftene der opplæringen faktisk foregår.
+
+Kunnskapsgrunnlaget viser at opplæringskontorene over tid har fått en sentral rolle i fag- og yrkesopplæringen, og at dette i stor grad framstår som en ønsket utvikling. Utvalget anerkjenner at opplæringskontorene har en viktig rolle, men ser samtidig at opplæringskontorene på mange måter kan ses på som et bransjeorgan som er finansiert av, og skal yte service til medlemsbedriftene sine. På denne bakgrunn kan ikke utvalget se at det er behov for å regulere opplæringskontorer i opplæringsloven. Utvalget understreker at det ikke er noe til hinder for at godkjente lærebedrifter kan kjøpe ulike former for bistand fra opplæringskontorer, for eksempel administrativ hjelp, så lenge dette ikke er i strid med loven. For eksempel kan man ikke sette ut til andre plikten til å inngå lærekontrakt og til å ha en faglig leder/instruktør.
+
+#### Krav til lærebedriften
+
+Kravet til internkontroll er i dag regulert i opplæringsloven § 4-7. I paragrafens overskrift benyttes begrepet «internkontroll», mens det i lovteksten står at lærebedriftene skal ha «intern kvalitetssikring, slik at lærlingen, praksisbrevkandidaten, lærekandidaten eller kandidaten for fagbrev på jobb får opplæring i samsvar med lova her og forskrifta til denne». Utvalget mener at dagens ordlyd kan gi tvil om det siktes til to ulike krav, eller om det bare benyttes ulike begreper om hverandre. Forarbeidene gir heller ikke svar på spørsmålet. Utvalget foreslår å tydeliggjøre at det er tale om ett krav, og foreslår å bruke begrepet «internkontroll» både i overskriften og i lovteksten.
+
+I dagens § 4-7 om internkontroll i den enkelte lærebedriften står det følgende: «Ein eller fleire representantar for arbeidstakarane skal saman med den eller dei faglege leiarane jamleg sjå til at lærebedrifta følgjer pliktene etter opplæringslova med forskrift», jf. paragrafens første avsnitt andre setning. Utvalget mener det unødig å regulere hvem i lærebedriften som skal gjennomføre internkontroll. Det er lærebedriften som sådan som er godkjent, og som er ansvarlig for å oppfylle kravene i loven og å gi lærlinger den opplæringen de skal ha i tråd med kontrakten. Så lenge lærebedriften har tilfredsstillende internkontroll, har det etter utvalgets vurdering liten betydning hvem i lærebedriften som sørger for dette. Utvalget foreslår derfor ikke å videreføre kravet om at internkontrollen skal gjennomføres av den faglige lederen i samarbeid med representanter for arbeidstakerne. For å sikre arbeidstakers involvering foreslår utvalget å ta inn i loven at representanter for arbeidstakerne skal få ta del i arbeidet med internkontroll. Etter utvalgets vurdering vil en slik regulering samsvare med alminnelig praksis på arbeidsplasser, og reguleringen vil dessuten harmonere med hvordan involvering i skolen er foreslått regulert i loven.
+
+I dagens § 4-4 står det følgende: «Lærebedrifta pliktar å leggje til rette produksjonen og opplæringa slik at lærlingen, praksisbrevkandidaten, lærekandidaten og kandidaten for fagbrev på jobb kan nå måla i den fastsette læreplanen», og at «\[l\]ærebedrifta skal utvikle ein intern plan for opplæringa, for å sikre at lærlingen, praksisbrevkandidaten, lærekandidaten eller kandidaten for fagbrev på jobb får ei opplæring som tilfredsstiller krava i læreplanen, eventuelt den individuelle opplæringsplanen.» Utvalget foreslår at det i stedet for å vise til mål og krav i læreplanen fastsettes at opplæringen skal være i samsvar med kontrakten om opplæring, ettersom det ikke er gitt at lærebedriften skal stå for hele opplæringen. Av kontrakten vil det framgå hvilke kompetansemål opplæringen i den aktuelle lærebedriften skal dekke.
+
+#### Tap av godkjenning
+
+I dagens § 4-8 første avsnitt andre setning står det følgende: «I samband med godkjenning av lærebedrifter skal fylkeskommunen rettleie og følgje opp bedriftene, i tillegg til å kontrollere at den enkelte bedrifta fyller krava for å få godkjenning». Etter utvalgets vurdering er denne ordlyden uklar. Det er uklart om plikten til å veilede, følge opp og kontrollere lærebedriftene bare gjelder forut for godkjenning, eller om fylkeskommunen skal veilede, følge opp og kontrollere lærebedriftene også etter at de er godkjent.
+
+Utvalget foreslår å tydeliggjøre at fylkeskommunen har plikt til å veilede og kontrollere at godkjente lærebedrifter oppfyller kravene i loven, en forståelse som er i tråd med forarbeidene til gjeldende lov. Det vises her til Ot.prp. nr. 41 (2006–2007), hvor det kommer tydeligere fram at fylkeskommunen er ment å ha plikt til å ha en viss oppfølging med at godkjente lærebedrifter oppfyller kravene i opplæringsloven. En forståelse om at fylkeskommunen har et ansvar for å følge opp og kontrollere at godkjente lærebedrifter følger kravene i loven, samsvarer også best med reglene i forskrift til opplæringsloven § 11-5 om at fylkeskommunen kan trekke tilbake godkjenning dersom en lærebedrift ikke lenger oppfyller kravene i loven. Denne forståelsen synes dessuten best å harmonere med den forståelsen Riksrevisjonen la til grunn i sin undersøkelse av fagopplæring i bedrift,[^717] hvor en av konklusjonene var at fylkeskommunene hadde for dårlig oppfølging av lærebedriftene.
+
+Utvalget foreslår å ikke videreføre kravet om «å følgje opp», da dette ikke anses å ha selvstendig betydning utover plikten til å veilede og kontrollere. Dersom fylkeskommunens oppfølging av godkjente lærebedrifter viser at lærebedriftene ikke oppfyller kravene i loven, skal fylkeskommunen etter dagens regler vurdere om den skal trekke lærebedriftens godkjenning tilbake. I dag er reglene om tilbaketrekking av godkjenning fastsatt i forskrift til opplæringsloven § 11-5. Etter utvalgets vurdering hører disse reglene naturlig sammen med reglene om fylkeskommunens oppfølging.
+
+Utvalget foreslår derfor å flytte bestemmelsen om tap av godkjenning fra forskriften og til opplæringsloven.
+
+### Fylkeskommunens ansvar og oppgaver
+
+#### Formidling til læreplass
+
+Selv om det ikke framgår direkte av loven, mener utvalget det er klart at fylkeskommunen etter dagens regler har ansvaret for formidling til læreplass. Regelverket sier imidlertid ikke noe om hva som konkret ligger i ansvaret, eller hvor langt ansvaret strekker seg. Etter utvalgets vurdering er det ikke hensiktsmessig å regulere dette uttømmende, eksempelvis gjennom konkrete aktivitetsplikter.
+
+Det er vanskelig å peke på hvilke konkrete handlinger som faktisk vil føre til at flere får læreplass. Det vil trolig være store variasjoner i hva som fungerer, både mellom fylker og i hvert enkelt tilfelle. En regulering av aktivitetsplikter kan medføre at fylkeskommunene ikke tar i bruk de beste virkemidlene som faktisk vil ha effekt. Utvalget mener dessuten at regelverket ikke bør benyttes til å regulere rene forventninger.
+
+Innspill til utvalget kan tyde på et behov for en klar regulering av ansvaret for formidling til læreplass og for å rekruttere nye lærebedrifter. Etter utvalgets vurdering kan det være hensiktsmessig med en tydeligere regulering i lov. Dersom ansvaret for formidling til læreplass skal gå fram av loven, mener utvalget at det også kan være hensiktsmessig å presisere at dette ansvaret innebærer et ansvar for å skaffe læreplasser.
+
+Etter dagens regler har fylkeskommunen kun ansvar for formidling for søkere med ungdomsrett til videregående opplæring. Gitt at fylkeskommunen har ansvaret for videregående opplæring i sin helhet, mener utvalget det vil være hensiktsmessig at fylkeskommunen har ansvaret for å formidle også voksne og søkere uten rett. Fylkeskommunen bør som utgangspunkt ikke behøve å skille mellom søkere med og uten rett, men heller ha et helhetlig ansvar for gjennomføring.
+
+Det kan riktig nok stilles spørsmål ved rimeligheten av at voksne eller søkere uten rett prioriteres likt som søkere med ungdomsrett. På den andre siden er det klart at det uansett er bedriften som selv avgjør hvem den ønsker å gi læreplass. I dag er det ulike satser for lærlingtilskudd for dem med og dem uten rett til videregående opplæring. Utvalget mener at dette i seg selv kan bidra til at søkere med ungdomsrett stiller sterkest. Dersom en utvidelse av fylkeskommunens ansvar for formidling vil føre til at færre med ungdomsrett får læreplass, mener utvalget at dette som utgangspunkt burde søkes løst gjennom andre virkemidler enn lov. Lærlingtilskuddet anses å være det viktigste offentlige virkemiddelet for å få virksomheter til å ta inn lærlinger,[^718] og vil trolig være det mest egnede virkemiddelet.
+
+Det følger av dagens § 4-6 sjuende avsnitt at fylkeskommunen i nærmere angitte tilfeller skal forsøke å skaffe ny læreplass til en lærling, praksisbrevkandidat eller lærekandidat. Utvalget foreslår å tydeliggjøre i loven at fylkeskommunen har ansvar for formidling, og mener at det er unødvendig å videreføre en særskilt regulering av formidling for dem som trenger ny læreplass som følge av forhold ved den tidligere lærebedriften.
+
+#### Plikt til å tilby praksisbrev
+
+Opplæringsloven skisserer fire ulike opplæringsordninger for fag- og yrkesopplæringen, men det er kun én av disse loven pålegger fylkeskommunene å tilby, nemlig praksisbrevordningen. Etter utvalgets vurdering er en lovfestet plikt til å gi et konkret tilbud inngripende i fylkeskommunens selvstyre og mulighet til å se de ulike tjenestene i sammenheng. Særlig inngripende er det at oppfyllelse av plikten forutsetter læreplass, det vil si at fylkeskommunen selv ikke har alle nødvendige virkemidler for å oppfylle plikten. Plikten er utformet på en måte som gir stor grad av fleksibilitet og reguleringsformen harmonerer derfor godt med retningslinjene i veilederen om statlig styring av kommuner og fylkeskommuner[^719]. Utvalget kan likevel ikke se at det er forhold ved praksisbrevordningen som tilsier at det er behov for å regulere en særskilt plikt til å gi tilbud om den.
+
+Utvalget har ikke vurdert de ulike opplæringsordningene. Selv om den lovfestede plikten til å tilby praksisbrev fjernes, kan praksisbrevordningen fremdeles eksistere som en alternativ opplæringsordning og reguleres i forskrift til opplæringsloven. I så fall vil det være opp til den enkelte fylkeskommune å vurdere om den vil gi tilbud om slik opplæring.
+
+#### Tilskudd til lærebedrifter
+
+I dagens § 4-4 femte avsnitt står det at «\[l\]ærebedrifter får tilskot til opplæringa frå fylkeskommunen etter forskrifter gitt av departementet». Utvalget mener bestemmelsen er formulert slik at den verken er en klar rettslig forpliktelse eller gir en klar forskriftshjemmel. Utvalget foreslår å formulere bestemmelsen som en plikt for fylkeskommunen til å gi tilskudd til opplæring i lærebedrifter og en hjemmel for departementet til å fastsette regler om tilskuddet i forskrift.
+
+### Diverse
+
+#### Vg3 i skole
+
+Utvalgets kunnskapsgrunnlag peker i retning av et behov for å vurdere tilbudet om Vg3 i skole, herunder om det er ønskelig å tilby Vg3 i skole, hvordan innretningen på skoleopplæringen bør være, og om ett år i så fall er tilstrekkelig for å oppnå samme kompetanse som man vil oppnå med en læreplass i bedrift. Dette er primært en vurdering av *innholdet i* den opplæringen som gis. Gitt utvalgets mandat og det faktum at Liedutvalget[^720] arbeider parallelt med mandat til å se på nettopp innholdet i den videregående opplæringen, har Opplæringslovutvalget ikke sett det som naturlig å vurdere tilbudet om Vg3 i skole. Utvalget forutsetter likevel at retten til Vg3 i skole vil bestå, ettersom dette tilbudet er en forutsetning for at elever som ikke får læreplass, skal kunne få oppfylt sin rett til videregående opplæring.
+
+Utvalget påpeker at kunnskapsgrunnlaget antyder at en av utfordringene med Vg3 i skole er at tilbudet og kompetansen det gir, i enkelte fag betraktes som annenrangs. Slik utvalget ser det, har dette en nær sammenheng med de utfordringer som er relatert til fag- og svenneprøven. Dersom fag- og svennebrev vektes ulikt avhengig av fagarbeiderens opplæringsbakgrunn, tyder dette på at det ikke er tilstrekkelig tiltro til at fag- og svenneprøven er egnet til å vurdere kandidatenes kompetanse. Dette er i så fall en alvorlig utfordring. Gjennomføringen av fag- og svenneprøve kan variere stort i dag, både når det gjelder omfanget, og når det gjelder den praktiske gjennomføringen av prøven. Utvalget oppfordrer departementet til å vurdere om det er grunn til å endre reglene om gjennomføring av fag- og svenneprøve, inkludert om det er grunn til å gi sterkere nasjonale føringer for hvordan prøvene skal gjennomføres.
+
+#### Rett til læreplass
+
+Spørsmålet om rett til læreplass er en problemstilling som kommer opp med jevne mellomrom. En lovfestet rett til læreplass har blitt vurdert flere ganger tidligere, blant annet av Karlsenutvalget i 2008[^721] og i en juridisk betenkning fra professor emeritus Henning Jakhelln i 2011[^722]. Karlsenutvalget konkluderte med at en lovfestet rett til læreplass vanskelig lar seg gjennomføre. Utvalget viste særlig til at dette vil være en «uakseptabel overstyring av bedrifters frihet». Også Jakhelln konkluderer med at en lovfestet rett til læreplass, inkludert en plikt til å framskaffe læreplass, vil være inngripende og vanskelig å gjennomføre.
+
+Det er lett å forstå ønsket om å sikre alle som ønsker det, og som er kvalifisert, mulighet til å gjennomføre yrkesfaglig opplæring i bedrift. Etter utvalgets vurdering er det imidlertid vanskelig å se for seg en lovfestet rett. En rett til læreplass krever at en annen part, i praksis ofte en privat part, har en plikt til å innfri retten.
+
+Utvalget mener at regelverket ikke bør kunne pålegge bedrifter en slik plikt. For det første vil det oppfattes som en urimelig inngripende og uhensiktsmessig overstyring av bedrifters frihet. For det andre vil det være krevende å avgjøre hvilke bedrifter som kan være i stand til å gi opplæring, og hvilke bedrifter som skal pålegges å ta inn lærlinger. Utvalget mener også det er grunn til å stille spørsmål ved om kvaliteten på opplæringen og arbeidsmiljøet for øvrig kan bli akseptabel hos en bedrift som blir pålagt å ta inn en lærling de ikke ønsker.
+
+Siden det er fylkeskommunen som dimensjonerer det videregående opplæringstilbudet, ville det vært naturlig å pålegge fylkeskommunen et overordnet ansvar for at den enkeltes rett til læreplass blir oppfylt. I praksis ville det vært et ansvar for å rekruttere lærebedrifter, formidle søkere til læreplass og ved behov selv etablere læreplasser for kvalifiserte søkere som ikke får tilbud om læreplass. Etter utvalgets vurdering vil det være svært ressurskrevende og lite hensiktsmessig å etablere virksomheter hvis hovedformål er å være lærebedrift.
+
+Etter utvalgets vurdering er det ikke gjennomførbart med en lovfestet rett til læreplass. Utvalget vil likevel understreke viktigheten av at kvalifiserte søkere som ikke får tilbud om læreplass, får rett til å fullføre opplæringsløpet.
+
+Som det går fram av kapittel 29.4.5.1, mener utvalget at retten til alternativ Vg3 i skole må bestå. Utvalget mener også at fag- og svenneprøven må ha et innhold og omfang som sikrer legitimitet, slik at fag- eller svennebrevets verdi ikke svekkes av at kandidaten har gjennomført bedriftsdelen av opplæringen i skole. Utvalget vil også understreke at fylkeskommunene etter forslaget skal ha en tydeligere plikt til å formidle søkere til læreplass og til å ta hensyn til læreplassituasjonen ved dimensjoneringen av opplæringstilbudet, se kapittel 29.4.4.1 og 24.4.10. Dette er grep som tar sikte på å bidra til at flere kvalifiserte søkere får læreplass.
+
+#### Tilgang på rådgivning
+
+Utvalget foreslår å innføre plikt for fylkeskommunen til å sørge for at lærlinger skal ha tilgang på rådgivning om utdannings- og yrkesvalg og rådgivning om sosiale og personlige forhold. Se kapittel 42.6.3.
+
+#### Yrkesopplæringsnemndene
+
+Parallelt med utvalgets arbeid har det skjedd endringer i reguleringen av yrkesopplæringsnemndene (y-nemndene). Opplæringsloven § 12-3 andre avsnitt fikk med virkning fra 1. august 2019 en ny tredje setning som lyder slik: «Alle organisasjonar som er representerte i organ for samarbeid om fag- og yrkesopplæringa jf. § 12-1, har rett til å vere representerte i nemnda.» Det går fram av lovens forarbeider at hensikten med endringen var å legge til rette for bred representasjon i nemndene, noe som samsvarer med regionreformens mål om større fylkeskommuner med et utvidet ansvar.[^723] Utvalget registrerer at lovgiver med dette nylig har uttrykt behov for og ønske om å regulere y-nemndenes eksistens og sammensetning, og har derfor valgt å ikke gå inn i dette spørsmålet.
+
+Utvalget foreslår å videreføre reguleringen av y-nemndene. Når det gjelder krav til sammensetning, foreslår utvalget å klargjøre at det ikke kun vil være dagens samarbeidsråd (SRY) som er relevant. Dette for å åpne for bred partsrepresentasjon også dersom myndighetene skulle beslutte å organisere partssamarbeidet på en annen måte i framtiden.
+
+I dagens § 4-8 andre avsnitt er det fastsatt at fylkeskommunen alltid skal legge fram saker om godkjenning av lærebedrifter, tap av godkjenninger og kvalitetssystemet for fag- og yrkesopplæringen for yrkesopplæringsnemnda. Utvalget mener det ikke er nødvendig å regulere framleggelse av saker om «kvalitetssystemet for fag- og yrkesopplæringa». Dette kravet er unødvendig ettersom fylkeskommunen uansett skal legge fram alle saker som har betydning for fag- og yrkesopplæringen for y-nemnda.
+
+Etter dagens regler skal fylkeskommunen legge «avgjørende vekt» på y-nemndas faglige vurdering. Etter utvalgets vurdering er det neppe ment at y-nemnda faktisk skal avgjøre sakene. En slik forståelse er i alle tilfeller ikke hensiktsmessig. Det er fylkeskommunen som har det overordnede ansvaret for videregående opplæring. Utvalget mener derfor at det bør ligge til fylkeskommunen å avgjøre sakene. Utvalget foreslår derfor å regulere at y-nemndas råd ikke skal tillegges avgjørende, men stor vekt.
+
+Vurderingen av hva som er «stor vekt» vil være en skjønnsmessig vurdering. Vurderingen vil bero på allmenne vurderinger og må vurderes i lys av blant annet hvilke andre hensyn som har blitt tatt i betraktning. Om y-nemndas vurdering er tillagt stor nok vekt, bør etter utvalgets vurdering kunne overprøves fullt ut av domstolene og tilsynsmyndighetene.
+
+### Mindre endringer og språklige justeringer
+
+Prøvenemndene
+
+Det følger av dagens § 4-8 siste avsnitt at fylkeskommunene skal ha prøvenemnder for alle fag det er prøvekandidater i. De fylkeskommunale prøvenemndene har ansvaret for utformingen av fag- og svenneprøven, se forskrift til opplæringsloven §§ 3-52 og 3-53.
+
+Utvalget vil videreføre ordningen med fylkeskommunale prøvenemnder, men mener det er naturlig at nemndene reguleres i forskrift til opplæringsloven. Dette samsvarer med systematikken i reguleringen av individuell vurdering for elever i videregående opplæring. Etter forslaget vil prøvenemnder omfattes av hjemmelen til å gi forskrift om individuell vurdering, som er foreslått inntatt i forslaget § 6-4 andre avsnitt. Se for øvrig omtale i kapittel 16.4.
+
+Om læreforholdets start
+
+Dagens § 4-5 andre avsnitt første og andre setning lyder slik: «For å bli gyldig må kontrakten godkjennast av fylkeskommunen. Lærekontrakten og opplæringskontrakten får verknad frå den tida arbeidsforholdet tek til.»
+
+Utvalget mener at bestemmelsen er uklar, og vil derfor foreslå å presisere at kontrakter om opplæring gjelder fra da opplæringen begynner, dersom læreforholdet begynner før kontrakten om opplæring blir godkjent. Dette innebærer at den opplæringen den enkelte får i perioden mellom læreforholdets begynnelse og fram til kontrakten er godkjent, skal regnes som opplæring etter opplæringsloven.
+
+Utvalget foreslår også å presisere i loven at kontrakten om opplæring må inngås *før* læreforholdet begynner. Presiseringen er i tråd med forarbeidene, hvor det framkommer at lærekontrakter for lærlinger over 21 år skal inngås senest en måned etter at læreforholdet begynte, og at dette er et unntak fra hovedregelen om at det skal inngås lærekontrakt «når læreforholdet tek til».[^724]
+
+Utvalget foreslår dessuten å fjerne reguleringen i dagens § 4-5 fjerde avsnitt om at det ikke er nødvendig med samtykke fra verge når det blir skrevet lærekontrakt og opplæringskontrakt. Denne reguleringen anses å være overflødig da det følger av barnelova § 32 at barn som har fylt 15 år, selv avgjør spørsmål om valg av utdanning. Inngåelse av kontrakt om opplæring innebærer valg om opplæring i bedrift, og vil dermed etter barnelova være innenfor det den som har fylt 15 år, kan ta stilling til selv. Det følger også av vergemålsloven § 10 at en mindreårig som har fylt 15 år, selv kan inngå en arbeidsavtale.
+
+Eiendomsrett til produktet fra fagprøve, svenneprøve, praksisbrevprøve og kompetanseprøve
+
+I dagens § 4-4 tredje avsnitt er det fastsatt at det er lærebedriften som får eiendomsrett til produktet fra fagprøver, svenneprøver, praksisbrevprøver eller kompetanseprøver, med mindre prøven blir avholdt på en skole, og skolen dekker materialutgiftene. Utvalget mener at en slik fordeling som utgangspunkt kan utledes av den alminnelige eiendomsretten. Det kan likevel ikke utelukkes at det vil oppstå tvilstilfeller i praksis. Utvalget viser i denne sammenheng til at det er tale om et stort antall prøver årlig, med variasjoner i blant annet bruk av prøvestasjoner og samarbeid mellom bedrifter. Utvalget mener derfor at regelverket bør være mer detaljert. Etter utvalgets vurdering er dette regler som er egnet for forskriftsregulering.
+
+Utvalget mener derfor det vil være tilstrekkelig med en generell hjemmel til å gi forskrift om sluttvurderinger. I kapittel 16 foreslår utvalget en generell hjemmel til å gi forskrift om individuell vurdering i videregående opplæring. Denne bestemmelsen gir også hjemmel til å gi forskrift om fagprøven, herunder en eventuell klargjøring av eiendomsretten til prøveproduktet.

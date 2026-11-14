@@ -1,997 +1,258 @@
-# NOU 2019: 23, del 36 av 71 (side 408–419)
+# NOU 2019: 23, del 36 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 408]
-
-406
-
-Kapittel 32
-
-NOU 2019: 23
-Ny opplæringslov
-
-ut fra den rettslige forpliktelsen. Dette henger
-igjen sammen med hvor klart den rettslige forpliktelsen er formulert, og særlig om formålet med en
-eventuell behandling av personopplysninger kommer klart fram.
-Et særlig spørsmål er i hvilken grad det kan
-brukes kunstig intelligens i digital læringsanalyse.
-Etter utvalgets vurdering er det vanskelig å se for
-seg at en digital læringsanalyse med maskinlære
-vil være forutsigbar for elever og foreldre, med
-mindre denne er klart avgrenset. Bruk av maskinlære eller andre former for kunstig intelligens vil
-også kreve at det er sporbart hvilke analyser som
-gjøres og hvordan disse blir brukt. Ved bruk av
-digital læringsanalyse der alle operasjoner er programmert på forhånd, kan kravet om forutsigbarhet og åpenhet være lettere å oppfylle. Men også
-slike verktøy kan bestå av kompliserte beslutningstrær som gjør prosessen lite forutsigbar og
-åpen.70
-Atferdsnormer
-Personvernforordningen artikkel 40 oppfordrer til
-at det utarbeides atferdsnormer spesifikt for en
-bransje. Atferdsnormene skal gi konkrete regler
-og retningslinjer for hvordan virksomhetene skal
-innrette seg for å etterleve kravene i personvernforordningen. Slike normer kan dermed bidra til
-at personvernforordningen i større grad etterleves, og dessuten forenkle virksomhetenes arbeid
-med innkjøp og bruk av ulike digitale løsninger.
-Funnene fra Datatilsynets kontroll, samt at
-bruken av digitale verktøy i skolen er relativt ny,
-tilsier etter utvalgets vurdering at det bør utarbeides atferdsnormer på opplæringsområdet. Det er
-sammenslutninger av kommuner, eller organer
-som representerer disse, som etter forordningen
-kan utarbeide slike normer. Utvalget antar likevel
-at Utdanningsdirektoratet kan være en ressurs for
-kommunene i et slikt arbeid.
-For kommuner som behandlingsansvarlige,
-kan det være aktuelt med atferdsnormer når det
-gjelder digital læringsanalyse. Det kan for eksempel utarbeides generelle normer for innkjøp og
-bruk av verktøy for digital læringsanalyse, eller
-det kan utarbeides normer for ett bestemt verktøy.
-Videre kan forlag og andre databehandlere utarbeide normer for å etterleve kravene i personvernforordningen som gjelder for dem. Dette kan for
-eksempel være normer om innebygd personvern.
-
-70
-
-Lignende spørsmål kan oppstå også på andre felter. Se for
-eksempel Vestby & Vestby, 2019.
-
-Det følger av fortalen til personvernforordningen at behandlingsansvarlige og databehandlere
-bør rådføre seg med relevante berørte parter og
-ta hensyn til deres synspunkter ved utarbeidelsen
-av atferdsnormer. Den registrerte er framhevet
-som en relevant berørt part. På opplæringsområdet vil det være elevene som ofte er de registrerte,
-altså dem opplysningene gjelder. Utvalget vil derfor understreke at det er viktig at databehandlere
-og kommuner hører elever i utarbeidelsen av normer for opplæringsområdet. Foreldrene bør også
-involveres.
-Muligheter og utfordringer ved bruk av digital
-læringsanalyse
-Smarte, digitale læremidler kan analysere elevers
-arbeidsvaner og gi oppgaver med tilpasset vanskelighetsgrad til den enkelte elev. Basert på datainnsamling om elevenes mestringsnivå, tidsbruk og
-utvikling kan det lages læringsløp som tar eleven
-gjennom de ulike delene av læreplanen. Læringsprogrammet Knewton, som er i bruk i norske skoler, kan samle inn så mye som 5 til 10 millioner
-datapunkter om hver elev per dag. Når disse dataene tas i bruk sammen med informasjon om elevenes privatliv og fritidsinteresser, kan dette gi
-mulighet til individuelt tilpasset undervisning og å
-forutse hvordan en elev vil kunne klare seg framover.71
-Ved bruk av smarte, digitale læremidler vil alle
-svar og responser en elev gir, tas vare på og analyseres av et dataprogram, som danner utgangspunktet for det neste lærestoffet eleven får. Om
-eleven sliter, vil programmet foreslå støtte og forklaringer. Når eleven viser tilstrekkelig mestring
-av et fagstoff, blir eleven sendt videre til neste
-trinn i den faglige utviklingen. På den annen side
-er det gjerne de enkle og tilgjengelige datasporene som analyseres, og det kan være mange sammensatte og meningsfylte indikatorer for kvalitet
-og progresjon som ikke fanges opp i den digitale
-læringsanalysen.
-Ved at elevenes progresjon måles kontinuerlig
-ved hjelp av datainnsamling og analyse, vil læreren få tilgang til informasjon som i dag hentes inn
-ved hjelp av individuelle vurderinger og nasjonale
-prøver. Ved å følge elevenes progresjon i sanntid
-får læreren løpende informasjon om hvilke
-læringsmetoder og ressurser som fungerer best.
-Dette kan bidra til at læreren i større grad kan
-legge opp undervisningen på den måten som passer aller best for sin klasse og sine elever.72
-71
-
-Datatilsynet & Teknologirådet, 2017.
-
-[Side 409]
-
-NOU 2019: 23
-Ny opplæringslov
-
-På den annen side kan bruk av smarte, digitale
-læringsverktøy gjøre at læreren har mindre styring med hvilken opplæring elevene får, og hvilke
-slutninger som trekkes fra elevens prestasjoner.
-Det kan være risiko for at leverandører av IKTsystemer får større innflytelse på premissene for
-elevens opplæring enn læreren. Ettersom leverandørene av IKT-systemer ikke har den samme
-kompetansen som lærere har, kan det bety at
-læringsverktøyene presenterer lærestoff eller
-trekker slutninger om elevene som ikke er basert
-på faglig-pedagogisk kunnskap og erfaring.
-Det er viktig at digitale verktøy, og bruk av
-digital læringsanalyse, blir hjelpemidler for læreren og ikke kommer til erstatning for læreren. For
-at slike verktøy skal være et hjelpemiddel for læreren og ikke en erstatning, må læreren ha god
-kjennskap til systemet og hvordan det fungerer.
-Utviklingen av digitale verktøy til bruk i opplæringen, bør bygge på faglig-pedagogisk erfaring
-og kompetanse, noe som igjen stiller krav til kommunen som innkjøper av slike verktøy. Dessuten
-må lærere og rektorer som skal bruke de digitale
-verktøyene, ha tilstrekkelig kompetanse for å få
-en effektiv og god utnyttelse av teknologien og for
-å kunne overprøve framstillinger, analyser og valg
-ut fra et faglig ståsted.
-Med økt bruk av digitale verktøy og digital
-læringsanalyse øker muligheten for lagring og
-spredning av data om elevene. Innsamling, deling
-og bruk av omfattende data om en elev øker faren
-for brudd på personvernlovgivningen og misbruk
-av data fra tredjepart. Å ivareta informasjonssikkerhet og personvern blir en stadig viktigere oppgave for kommuner.73
-Bruk av digital læringsanalyse har også noen
-etiske aspekter. Bruk av datasystemer gjør det
-mulig å lagre mange opplysninger om elevene og
-å bruke opplysningene i elevenes opplæring. Opplysningene kan legge til rette for bedre tilpasning
-av opplæringen til den enkelte elev, men samtidig
-kan det åpne for å bruke opplysninger på en måte
-som etisk sett er problematisk. For selv om det er
-mulig å finne sammenhenger mellom ulike opplysninger om eleven og elevens læring, er det ikke
-nødvendigvis verken etisk eller pedagogisk forsvarlig å bruke opplysningen i tilpasningen til den
-enkelte elev. Dersom akkumulerte data viser en
-eller annen sammenheng mellom læring og sosial
-bakgrunn, betyr det ikke at dette bør gjenspeiles i
-opplæringen. Hver elev er et individ, og skolene
-bør være varsomme med å kategorisere elevene.
-72
-73
-
-Datatilsynet & Teknologirådet, 2017.
-Kunnskapsdepartementet, 2017b.
-
-407
-
-Kapittel 32
-
-Elevene skal ha like muligheter uavhengig av
-kjønn, etnisitet, ulik bakgrunn mv.
-Avanserte former for læringsanalyse kan
-utfordre retten til privatliv og personvern fordi
-registreringen av opplysninger om hvem barna er
-(var og blir), hva de gjør, hva de kan, hvem de
-samarbeider med (og ikke), kan bli altomfattende.
-I tillegg visker avanserte former for læringsanalyse ut skillet mellom skole og fritid fordi alle aktiviteter kan være viktige i et læringsanalyseperspektiv.
-Digital læringsanalyse er relativt nytt og dermed også omdiskutert – spesielt når det gjelder
-personvern og etiske spørsmål. Mer avanserte
-former for digital læringsanalyse er i liten grad tilgjengelige for den enkelte skole og lærer per i
-dag. Det gjelder omfattende systemer hvor for
-eksempel informasjon om elevenes bakgrunn og
-deres nåværende aktivitet sammenstilles for å
-kunne gi indikasjoner på hvordan eleven vil lykkes i videre skolegang og studier. Etter all sannsynlighet vil læringsanalyse tas stadig mer i bruk i
-årene framover. Det blir derfor viktig å ha et
-bevisst forhold til personvern og hvordan skolen
-kan bruke disse verktøyene til å forbedre elevenes læring.
-Hvilke behandlinger som konkret er lovlig, og
-hvordan man skal gå fram for å oppfylle kravene i
-personopplysningsloven kan være en krevende
-vurdering for kommunene å ta stilling til siden
-personopplysningsloven, inkludert personvernforordningen, er omfattende og skjønnsmessig.
-Behov for en utredning om bruk av digital læringsanalyse i skolen
-Utvalget ser at bruken av digital læringsanalyse
-kan ha dyptgående konsekvenser for skolen. Det
-er klart at teknologien åpner for helt nye muligheter, som det er vanskelig å overskue rekkevidden
-av. Spørsmålet om bruken av digital læringsanalyse går langt utenfor det utvalget har i mandat å
-vurdere og å ta stilling til. Det utvalget må ta stilling til, er om den rettslige reguleringen av spørsmålene er tilstrekkelig.
-Dagens regulering består i hovedsak av ulike
-krav til forsvarlighet i opplæringsloven og reglene
-i personopplysningsloven. Trolig er dette tilstrekkelige rammer på lovnivået. Det er imidlertid
-behov for å se samlet på bruken av digital læringsanalyse og i den forbindelse også behovet for å gi
-atferdsnormer for bruken av slike innen grunnopplæringen. Det er klart at en slik samlet vurdering krever et omfattende arbeid.
-
-[Side 410]
-
-408
-
-Kapittel 32
-
-NOU 2019: 23
-Ny opplæringslov
-
-Utvalget har ikke sett det som mulig å gjennomføre en slik utredning innenfor rammene som
-utvalget er gitt. Utvalget er heller ikke godt sammensatt for å vurdere disse spørsmålene i full
-bredde. Det er blant annet behov for teknologisk
-spisskompetanse for å gi et godt grunnlag for vurderingene. Utvalget ser at spørsmålene rundt
-bruk av teknologi og særlig digital læringsanalyse
-er svært viktige, og at de bør vurderes samlet så
-snart som mulig. Situasjonen i dag framstår som
-uoversiktlig og mer preget av tilbydernes tilbud
-enn vurderinger av hva grunnopplæringen og
-elevene er tjent med.
-
-På denne bakgrunn anbefaler utvalget at det
-nedsettes et offentlig utvalg med mandat om å se
-særskilt på bruk av digital læringsanalyse i skolen. Utvalget bør vurdere teknologiske og pedagogiske så vel som normative og etiske spørsmål
-ved bruk av digital læringsanalyse.
-
-32.5.5 Utvalgets forslag
-Utvalget foreslår
-– at regjeringen setter ned et offentlig utvalg
-som skal vurdere bruk av digital læringsanalyse i skolen
-
-[Side 411]
-
-NOU 2019: 23
-Ny opplæringslov
-
-409
-
-Kapittel 33
-
-Kapittel 33
-
-Opplæring i og på de samiske språkene
-
-Figur 33.1
-
-33.1 Innledning
-Statlige myndigheter har ansvaret for å sikre at
-hensynet til samer som urfolk blir ivaretatt. Dette
-betyr at staten skal verne om eksistensen og identiteten til samene og legge til rette for at deres kultur, identitet og egenart kan videreutvikles. Aktiv
-og utvidet bruk av samiske språk er et viktig element i den videre utviklingen av samisk kultur. I
-arbeidet med å vitalisere og bevare samiske språk
-må det tas hensyn til behovet for tiltak både i og
-utenfor de tradisjonelle samiske bosettingsområdene. Her er opplæringsloven et sentralt virkemiddel.
-I dette kapitlet vurderer utvalget flere realitetsendringer, men også om det er behov for presiseringer og språklige endringer for å sikre at loven
-blir forstått bedre.
-Samiskopplæring i grunnopplæring for voksne
-er behandlet i kapittel 45, mens dagens § 6-4 i opplæringsloven om innholdet i opplæringen er
-behandlet i kapittel 16.
-
-33.2 Dagens regler
-33.2.1 Grunnloven og Norges folkerettslige
-forpliktelser
-Grunnloven § 108 lyder på bokmål: «Det påligger
-statens myndigheter å legge forholdene til rette
-for at den samiske folkegruppe kan sikre og
-utvikle sitt språk, sin kultur og sitt samfunnsliv.»
-På nynorsk lyder den: «Dei statlege styresmaktene skal leggje til rette for at den samiske folkegruppa kan tryggje og utvikle samisk språk, kultur og samfunnsliv.»
-
-Gjennom vedtakelsen av en egen grunnlovsbestemmelse har norske myndigheter fastsatt en
-rettslig, politisk og moralsk forpliktelse til å tilrettelegge forholdene slik at samene selv skal kunne
-sikre og påvirke utviklingen til det samiske samfunnet. I NOU 1984: 18 Om samenes rettsstilling
-ble det vist til at det er et mål å gjøre deltakelse i
-det samiske kulturfellesskap mest mulig likeverdig med deltakelse i majoritetskulturen. Det ble
-samtidig pekt på at dette ikke kan oppnås uten
-særskilte tiltak av ulik art overfor den samiske
-befolkningen.1
-I praksis betyr det at statlige myndigheter er
-forpliktet til aktivt å legge til rette for samenes kulturutøvelse. Myndighetene skal legge forholdene
-til rette på ulike områder som har betydning for
-samisk språk, kultur og samfunnsliv. Dette gjelder
-både sikring av det som finnes i dag, og videreutvikling for framtiden. Plikten er gjennomført og
-konkretisert blant annet gjennom sameloven, i
-særlovgivningen og i budsjettvedtak.
-Flere internasjonale konvensjoner omfatter
-forpliktelser overfor den samiske befolkningen,
-særlig relevant er FNs konvensjon om sivile og
-politiske rettigheter artikkel 27 og ILO-konvensjon nr. 169 om urfolk og stammefolk i selvstendige stater. I barnekonvensjonen artikkel 30 er
-det fastsatt at barn som tilhører en urbefolkning,
-ikke skal «nektes retten til sammen med andre
-medlemmer av sin gruppe å leve i pakt med sin
-kultur, bekjenne seg til og utøve sin religion, eller
-bruke sitt eget språk».
-Hvilke språklige rettigheter samene har etter
-folkeretten, ble utredet i NOU 2016: 18 Hjertesprå1
-
-Se bl.a. s. 383.
-
-[Side 412]
-
-410
-
-NOU 2019: 23
-
-Kapittel 33
-
-Ny opplæringslov
-
-ket. Her ble det understreket at de folkerettslige
-bestemmelsene som har relevans for samenes
-språklige rettigheter i Norge, er av så vel kollektiv
-som individuell natur. Dels har det samiske folket
-en kollektiv rett til å forvalte – eller bestemme
-over – det samiske språket. I tillegg har samiske
-individer rett til å lære seg språket sitt og å bruke
-det – både i muntlig og i skriftlig form. Retten til å
-lære seg det samiske språket beskrives slik i NOU
-2016: 18:
-I henhold til ØSK2 art. 12.1 har alle rett til
-utdanning. ØSK-komitéen har utdypet at utdanning skal være tilpasset til og respektere
-urfolks spesifikke kulturelle bakgrunn, og tilbys i eller på urfolkets eget språk. Komitéen
-har betonet at atskilte utdanningssystemer for
-grupper ikke utgjør diskriminering mot majoritetsbefolkningen. I henhold til ØSK art. 29.3
-skal barns utdanning ha som mål å utvikle
-deres kulturelle og språklige identitet. CRCC3
-har slått fast at undervisning på urfolksbarns
-eget språk er helt fundamentalt for å virkeliggjøre denne retten, og at stater derfor har en
-positiv forpliktelse til å tilby utdanning på et
-slikt språk. CRCC har videre uttalt at lærere
-som underviser urfolksbarn, i størst mulig
-utstrekning skal rekrutteres innenfor det aktuelle urfolket, og at stater skal fremme at slike
-lærere finnes tilgjengelig. UNDRIP4 art. 14.3
-forplikter stater til å gjennomføre effektive tiltak, når det er mulig, slik at urfolksindivider, og
-særlig barn, har tilgang til utdanning på sitt
-eget språk. ILO 1695 art. 28.1 inneholder en liknende bestemmelse, og anfører at urfolksbarn,
-når det er mulig, har rett til å lære seg å lese og
-skrive på sitt eget språk. I henhold til ECRML6
-art. 8 forplikter stater seg, i områder der minoritets- og regionalspråk brukes, å tilby undervisning i og på slikt språk, helt eller i hvert fall
-i store deler av områdene. Forpliktelsen inkluderer voksenundervisning. Denne plikten er
-imidlertid betinget av at elevgrunnlaget er
-stort nok. Dessuten er det, hvis det mangler
-kompetanse når det gjelder å tilby undervis2
-
-3
-4
-5
-6
-
-De forente nasjoners internasjonale konvensjon 16. desember 1966 om økonomiske, sosiale og kulturelle rettigheter.
-Opplæringslovutvalgets merknad.
-FNs Komité for barns rettigheter. Opplæringslovutvalgets
-merknad.
-FNs Urfolksdeklarasjon. Opplæringslovutvalgets merknad.
-ILO-konvensjon nr. 169 Om urbefolkninger og stammefolk
-i selvstendige stater. Opplæringslovutvalgets merknad.
-Den europeiske pakten om regions- og minoritetsspråk.
-Opplæringslovutvalgets merknad.
-
-ning i og på minoritetsspråket, tilstrekkelig at
-slik undervisning fremmes og/eller oppmuntres. I andre deler av landet forplikter stater seg
-til å tillate, oppmuntre til eller tilby undervisning i eller på minoritetsspråket, noe som igjen
-er betinget av at elevgrunnlaget motiverer for
-slik undervisning.7
-
-33.2.2 Opplæringsloven og forskrift til
-opplæringsloven
-Opplæringsloven kapittel 6 regulerer retten til
-samiskopplæring i både grunnskolen og videregående skole. I § 6-1 defineres tre sentrale begreper,
-«same», «samisk» og «samisk distrikt».
-Opplæringsloven §§ 6-2 og 6-3 handler om
-samiskopplæring i henholdsvis grunnskolen og
-videregående opplæring. Samiske elever har en
-individuell rett til opplæring i samisk i grunnskolen og i videregående skole, uansett hvor de bor i
-landet. I grunnskolen har alle elever som bor i
-samiske distrikt, både samer og ikke-samer, rett
-til opplæring både i og på samisk. Utenfor
-samiske distrikt er det bare samer som har rett til
-opplæring i samisk, men både samiske og ikkesamiske elever, som utgjør minst ti i en kommune,
-har rett til grunnskoleopplæring i og på samisk, så
-lenge det er minst seks elever igjen i gruppen.
-Ingen elever i videregående opplæring har
-individuell rett til opplæring på samisk. Departementet kan gi forskrifter om at visse skoler skal
-tilby opplæring i eller på samisk eller i særskilte
-samiske fag i den videregående opplæringen.
-Denne forskriftshjemmelen er ikke brukt.
-Med rett til opplæring i samisk menes rett til
-opplæring i faget samisk i ett av de samiske språkene som første- eller andrespråk. Med rett til
-opplæring i og på samisk menes rett til opplæring
-på samisk også i andre fag enn samisk, i tråd med
-det samiske læreplanverket.
-Elever som får opplæring i samisk som førsteeller andrespråk, er fritatt fra kravet om opplæring
-i fremmedspråk og skriftlig sidemål. Dette følger
-av forskrift til opplæringsloven §§ 1-9 til 1-11.
-Elevene avgjør selv om de vil ha opplæring i og
-på samisk fra og med 8. trinn, jf. § 6-2 sjette
-avsnitt.
-Kommunen kan vedta å legge opplæringen på
-samisk til én eller flere grunnskoler i kommunen,
-jf. § 6-2 tredje avsnitt. Elever som bare har opplæring i samisk, har rett til slik opplæring på nærskolen, jf. opplæringsloven § 8-1.
-7
-
-Kap. 5. Utredningen er skrevet av professor Mattias Åhren
-(Universitet i Tromsø).
-
-[Side 413]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Kapittel 7 i forskrift til opplæringsloven handler om alternative opplæringsformer i samisk og
-finsk. Dersom opplæringen ikke kan bli gitt av
-egnet opplæringspersonale ved skolen, har elever
-med rett til opplæring i samisk rett til alternative
-opplæringsformer. Det kan være fjernundervisning, intensivundervisning eller leirskoleopphold. Hva slags opplæring som skal gis, må vurderes av kommunen i samråd med foreldrene. Kapittel 7 gjelder utenfor samisk distrikt, jf. opplæringsloven § 6-2 femte avsnitt.
-Staten kan drive grunnskoler og videregående
-skoler i særlige tilfeller. Dette følger av opplæringsloven §§ 13-1 og 13-3. Staten driver i dag tre
-videregående skoler, hvorav to samiske videregående skoler i Finnmark.
-
-33.2.3 Andre lover
-Samelovens formål er å «legge forholdene til rette
-for at den samiske folkegruppen i Norge kan sikre
-og utvikle sitt språk, sin kultur og sitt samfunnsliv», jf. § 1-1. Sameloven § 1-5 slår fast at samisk og
-norsk er likeverdige språk. De skal være likestilte
-etter bestemmelsene i samelovens kapittel 3 om
-samisk språk.
-Det gjelder særlige regler for samisk språk i
-samiske forvaltningsområder. Hvilke kommuner
-som inngår i det samiske forvaltningsområdet, er
-fastsatt i forskrift om forvaltningsområdet for
-samisk språk. Her er det fastsatt at kommunene
-Karasjok, Kautokeino, Nesseby, Porsanger, Tana,
-Kåfjord, Lavangen, Hattfjelldal, Tysfjord, Røros,
-Røyrvik og Snåsa, inngår i det samiske forvaltningsområdet. For disse tolv kommunene gjelder
-det strengere krav til tilrettelegging for bruk av
-samisk, se blant annet sameloven § 3-3.
-Lover og forskrifter av særlig interesse for
-hele eller deler av den samiske befolkningen skal
-oversettes til samisk. Dette følger av sameloven
-§ 3-2. Det er ikke nødvendig at de aktuelle lovene
-eller forskriftene gjelder utelukkende for samer,
-men det må foreligge en spesiell tilknytning til
-den samiske befolkningen. Det er videre presisert
-at «bestemmelsen som utgangspunkt må gjelde
-lover og forskrifter som i større grad enn andre
-har spesiell interesse for den samiske befolkningen, og da først og fremst regler som spesielt gjelder samisk kultur- og samfunnsliv».8
-Sameloven § 3-8 slår fast at «[e]nhver har rett
-til opplæring i samisk». I andre avsnitt er det presisert at opplæringsloven gjelder for opplæring i
-og på samisk. Bestemmelsen retter seg derfor
-
-mot dem som på grunn av alder, bosted mv. ikke
-omfattes av annet regelverk som i praksis gir rett
-til opplæring i samisk.
-
-33.3 Kunnskapsgrunnlaget
-33.3.1 Historikk
-Gjennom lang tid var den offisielle norske politikken at det samiske språket og den samiske kulturen skulle bort. Formålet med dagens politikk er
-ikke å gi samene en særstilling, men å rette opp
-de negative virkningene av den tidligere fornorskingspolitikken, oppnå reell likebehandling og
-motvirke diskriminering.9
-I NOU 1995: 18 Ny lovgivning om opplæring er
-det gitt en historisk oversikt over utviklingen i
-samiskopplæringen, og det vises til denne. I utredningen ble situasjonen oppsummert slik:
-Dagens utfordring og muligheter er å gjøre
-skolen til en faktor for forsterking av samisk
-kultur, bl.a. ved å fylle de formelle rammene
-med et innhold som reelt bidrar til å forsterke
-og videreutvikle samisk identitet, språk og kultur.10
-
-33.3.2 Rapporter og utredninger
-Meldinger
-Etter den forrige gjennomgangen av regelverket
-for grunnopplæringen i NOU 1995: 18 er det lagt
-fram flere meldinger på det samepolitiske området, fra både Sametinget og ulike regjeringer. I
-denne sammenheng er det relevant å trekke fram
-Sametingets plenumsmelding om opplæring og
-utdanning, som ble behandlet i 2012. Meldingen
-presenterer Sametingets overordnede politikk på
-opplæringsområdet: Sametinget ser et stort behov
-for at samiske elevers rettigheter etter folkeretten
-synliggjøres.11
-I St.meld. nr. 28 (2007–2008) Samepolitikken
-er det lagt til grunn at utfordringene for samisk
-språk og kultur må løses gjennom en styrking av
-det offentliges ansvar og rolle overfor samiske
-brukere innenfor viktige velferdsområder som
-helse, omsorg og utdanning. Bevaring og styrking
-av samiske språk blir også trukket fram i Meld. St.
-18 (2017–2018) Sametingets virksomhet 2017:
-9
-10
-
-8
-
-Ot.prp. nr. 60 (1989–90), s. 46.
-
-411
-
-Kapittel 33
-
-11
-
-NOU 2016: 18, kap. 4. Utredningen er skrevet av historiker
-Wenke Brenna. St.meld. nr. 55 (2000–2001), kap. 2.
-Kap. 33.2.
-Sametinget, 2011.
-
-[Side 414]
-
-412
-
-Kapittel 33
-
-NOU 2019: 23
-Ny opplæringslov
-
-«Bevaring og styrking av samiske språk er av stor
-betydning for å verne og utvikle samisk kultur og
-samfunnsliv. Retten til å kunne bruke samisk i
-møte med det offentlige og rett til opplæring i og
-på samisk, er viktige rettigheter for samene som
-folk.»12
-Også i Meld. St. 12 (2011–2012) Stat og kommune – styring og samspel påpekes det at staten
-som en konsekvens av internasjonale avtaler og
-nasjonale regler har et særlig ansvar for å ivareta
-hensynet til samer og nasjonale minoriteter. Samtidig legges det til grunn at kommunene på eget
-initiativ også vil følge opp nasjonale regler og de
-internasjonale menneskerettskonvensjonene som
-Norge har forpliktet seg til å følge opp.13
-Av Meld. St. 31 (2018–2019) Samisk språk, kultur og samfunnsliv framgår det at mangelen på
-samiskspråklige ansatte er den største utfordringen for å styrke og utvikle samisk språk og identitet i barnehage og skole.14
-Utredninger
-Den første delutredningen fra Samerettsutvalget,
-NOU 1984: 18, dannet grunnlaget for sameloven,
-opprettelsen av Sametinget og den såkalte sameparagrafen i Grunnloven § 108. Utvalgets arbeid
-berørte ikke opplæring spesielt, men enkelte av
-utvalgets funn har betydning også for opplæring.
-Blant utvalgets funn var at kommunenes etterlevelse av de lovpålagte forpliktelsene er svært varierende, også innenfor de samiske forvaltningsområdene. Enkelte kommuner har klart å møte befolkningens behov for tjenester på samiske språk, mens
-man i andre kommuner i liten grad har klart dette.
-Samisk språkutvalg, NOU 2016: 18, ble oppnevnt med oppdrag om å utrede lovverk, tiltak og
-ordninger for de samiske språkene. Vitalisering
-og styrking av de samiske språkene sto sentralt i
-utvalgets arbeid. Utvalget påpekte at god språkopplæring på skolen er et sentralt virkemiddel for
-å støtte opp om språkutviklingen hos samiskspråklige barn og å sikre samiske norskspråklige
-barns rett til å lære eget morsmål. Opplæring i og
-på samisk er derfor viet relativt mye oppmerksomhet i utredningen.
-Samisk språkutvalg peker på manglende oppfyllelse av retten til opplæring i og på samisk som
-en av hovedutfordringene innenfor grunnopplæringen. Årsakene til dette er sammensatt. Det
-handler om både tilgang til lærere med riktig
-
-kompetanse, manglende økonomiske ressurser
-og et regelverk som ikke er tilpasset de reelle
-utfordringene. I tillegg mener språkutvalget at det
-mangler et enhetlig og koordinert system hvor
-skoleeiere kan hente veiledning og støtte i arbeidet med samiskundervisningen. Utvalget har i
-sine vurderinger og forslag til tiltak vært særlig
-opptatt av det som oppleves som utfordringer ved
-å få oppfylt retten til opplæring i og på samisk.
-Samisk språkutvalg foreslår en rekke tiltak på
-grunnopplæringsområdet, hvor flere forutsetter
-endringer i opplæringsloven.15
-Hvor mange får opplæring i og på samisk?
-Skoleåret 2018–2019 fikk 833 elever i grunnskolen all undervisning på samisk. 892 elever har
-nordsamisk som førstespråk, og 1276 elever har
-nordsamisk som andrespråk. 26 elever har sørsamisk som førstespråk, 85 som andrespråk. 34
-elever har lulesamisk som førstespråk, 81 som
-andrespråk.
-Skoleåret 2018–2019 har 205 elever i videregående skole samisk som førstespråk. Av disse har
-200 nordsamisk og 5 sørsamisk. 273 elever i videregående skole har samisk som andrespråk,
-hvorav 14 lulesamisk, 248 nordsamisk og 11 sørsamisk.16
-
-33.3.3 Regelverk i andre land
+### Skolen skal følge med, melde fra og følge opp
+
+Ekspertgruppen for barn og unge med behov for særskilt tilrettelegging peker på at det i dag tar for lang tid for elever å få nødvendig hjelp. Dette til tross for at det følger av opplæringsloven at
+
+- opplæringen til enhver tid skal tilpasses elevens behov, jf. §§ 1-3 og 1-4
+
+- læreren skal vurdere om en elev trenger spesialundervisning, og melde fra til rektor når en elev har slike behov (meldeplikt), jf. § 5-4 første avsnitt andre setning
+
+- skolen skal ha vurdert og eventuelt prøvd ut tiltak (utprøvingsplikt) innenfor det ordinære opplæringstilbudet med sikte på å gi eleven tilfredsstillende utbytte før det blir utarbeidet en sakkyndig vurdering, jf. § 5-4 første avsnitt tredje setning
+
+Lærernes meldeplikt til rektor etter opplæringsloven § 5-4 første avsnitt andre setning har stor betydning for å sikre at elevene får oppfylt rettighetene sine. Meldeplikten gjelder gjennom hele opplæringsløpet i grunnskolen og videregående opplæring og krever en løpende vurdering av den enkelte elev. At lærerne har plikt til løpende å vurdere den enkelte elev følger dessuten av forskrift til opplæringsloven § 3-11. Ifølge bestemmelsen har læreren, som ledd i underveisvurderingen i fag, plikt til å vurdere om eleven har tilfredsstillende utbytte av opplæringen.
+
+Formålet med bestemmelsen i § 5-4 første avsnitt tredje setning om at skolen skal ha vurdert og eventuelt prøvd ut tiltak, er å sikre at skolen skal gjøre en grundig vurdering av om elevene kan få tilfredsstillende utbytte av det ordinære opplæringstilbudet, før en elev eventuelt blir henvist til PP-tjenesten. I forarbeidene til loven[^826] står det at plikten til å prøve ut tiltak ikke gjelder de tilfellene hvor det er klart at elevens behov ikke kan løses innenfor rammene av ordinær opplæring. Utprøvingsplikten må ses i sammenheng med plikten til å gi alle elever tilpasset opplæring etter §§ 1-3 og 1-4 og PP-tjenestens plikt etter § 5-3 til å ta standpunkt til om elevens lave læringsutbytte kan avhjelpes innenfor den ordinære opplæringen.
+
+Barneombudet har gitt innspill om at skolens plikter bør presiseres, og at det er viktig å sette pliktene i sammenheng og utdype hva det innebærer. Ombudet mener at det bør fastsettes i loven at skolen har plikt til å
+
+- følge med
+
+- undersøke
+
+- sette inn nødvendige tiltak
+
+- la eleven medvirke
+
+Til dette vil utvalget bemerke at elevenes rett til vurdering underveis etter forskrift til opplæringsloven kapittel 3, lærerens plikt til å vurdere om eleven har tilfredsstillende utbytte av opplæringen etter forskriftens § 3-11, og lærernes plikt til å vurdere om en elev trenger spesialundervisning etter opplæringsloven § 5-4, også kan beskrives som en plikt for lærene til å følge med på elevens læringsutbytte og undersøke om eleven har behov for tilrettelegging. For å vurdere om eleven har tilfredsstillende utbytte må læreren nødvendigvis følge med og undersøke elevens behov. Det er det samme, men uttrykt på forskjellige måter.
+
+Plikten til å sette inn nødvendig tiltak følger av reglene om til tilpasset opplæring, jf. opplæringsloven §§ 1-3 og 1-4, og regelen om at skolen skal prøve ut tiltak innenfor det ordinære opplæringstilbudet, jf. § 5-4 første avsnitt tredje setning.
+
+Plikten til å la eleven medvirke og elevens rett til dette følger av § 5-4 tredje avsnitt og barnelova § 31. Utvalget foreslå at elevens rett til å medvirke blir utrykkelig uttalt i den innledende delen i ny opplæringslov, se kapittel 31.5.6 nedenfor.
+
+Utvalget foreslår bare mindre endringer i reglene om vurderingsplikten, meldeplikten, utprøvingsplikten mv. Utvalget ønsker ikke mer detaljregulering av lærernes eller skolens plikter enn det som følger av dagens lov. Utvalget foreslår at de nevnte pliktene klargjøres og settes i sammenheng i forslaget til ny opplæringslov, inkludert plikten til å gi forsterket innsats, se forslaget § 10-2. Forsterket innsats er omtalt ovenfor i kapittel 31.5.4.2.
+
+De gjeldende pliktene kan etter utvalgets oppfatning presenteres og uttrykkes tydeligere enn i dagens lov. Lovforslaget inneholder derfor plikter som er ledd i et handlingsforløp som går ut på at kommunen skal sørge for at lærerne skal (1) følge med på og vurdere elevenes utbytte av opplæringen (2) melde fra til rektor når det er tvil om at eleven har tilfredsstillende utbytte av opplæringen og (3) følge opp ved å vurdere og sette i verk tiltak innenfor den universelle opplæringen før eleven eventuelt henvises til PP-tjenesten eller får vedtak om fysisk tilrettelegging eller personlig assistanse.
+
+Plikten til å følge med på og vurdere elevenes utvikling er ment å være en klargjøring av dagens plikt til underveisvurdering og plikten til å vurdere om en elev trenger spesialundervisning. Underveisvurdering innebærer en løpende vurdering av elevenes arbeid og kompetanse, og har som formål å fremme læring, utvikle kompetanse og gi grunnlag for hvordan skolen bør utforme den universelle opplæringen. Detaljerte regler om underveisvurdering skal etter utvalgets forslag fortsatt reguleres i forskrift til loven.
+
+Dagens meldeplikt og plikt til å vurdere og eventuelt prøve ut tiltak innenfor det ordinære opplæringstilbudet er i dagens § 5-4 første avsnitt direkte knyttet til «om ein elev treng spesialundervisning». Utvalget har vurdert om forslag til ny lov bør inneholde en meldeplikt som inntrer uten at det er grunn til tro at eleven trenger individuelt tilrettelagt opplæring.
+
+Utvalget mener at vurderingstemaet for å vurdere og sette i verk tiltak bør være om eleven står i fare for ikke å få, eller ikke får, tilfredsstillende utbytte av opplæringen. Utvalget foreslår derfor en lovbestemmelse som uttrykkelig sier at dersom det er tvil om en elev får et tilfredsstillende utbytte av opplæringen, skal kommunen sørge for at lærerne melder fra til rektor. Videre mener utvalget at loven fortsatt bør inneholde en regel om at skolen skal vurdere og sette i verk tiltak innenfor den universelle opplæringen, se forslag til § 10-2. Dette er en videreføring av dagens plikt for skolen til å vurdere og prøve ut tiltak innenfor det universelle opplæringstilbudet, men forslaget går noe lenger enn dagens utprøvingsplikt. Etter dagens lov skal skolen «eventuelt» prøve ut tiltak, og utvalget foreslår at forbeholdet fjernes i ny opplæringslov. Forslaget innebærer at skolen så raskt som mulig skal vurdere og sette i verk tiltak, og at tiltakene skal fortsette til det ikke er behov for dem eller helt fram til det eventuelt er fattet vedtak om individuell tilrettelegging. Egnede tiltak kan for eksempel være at elevene får nye læremidler, at skolen varierer organiseringen av og intensiteten i opplæringen, at rektor setter inn ekstra ressurser, at lærerne får veiledning fra andre fagpersoner til å legge opplæringen bedre til rette og at eleven får forsterket innsats. PP-tjenesten kan bidra både i undersøkelsesfasen og i tiltaksfasen, se kapittel 31.5.8. Tiltakene kan føre til at det ikke er nødvendig med vedtak om individuelt tilrettelagt opplæring. Informasjonen fra denne fasen kan eventuelt danne grunnlag for en sakkyndig vurdering og enkeltvedtak om individuelt tilrettelagt opplæring.
+
+I tillegg til rett og plikt til underveisvurdering foreslår utvalget at loven fortsatt skal inneholde en plikt for kommunen til å gi en årlig vurdering av den individuelt tilrettelagte opplæringen, jf. dagens opplæringslov § 5-5 andre avsnitt og forslag til § 10-8. Bestemmelsen innebærer at kommunen skal evaluere om den individuelt tilrettelagte opplæringen gir læringsresultater. En evaluering av opplæringen vil være viktig for å få kunnskap om hvor egnet de igangsatte tiltakene er for å nå målene som er satt i den individuelle opplæringsplanen. Evalueringen kan gi grunnlag for å justere tiltakene som gis, eller beslutte at eleven ikke lenger har behov for individuelt tilrettelagt opplæring.
+
+### Elevenes rett til medvirkning styrkes
+
+I Barneombudets rapport *Uten mål og mening?* kommer det fram at elever med særskilte behov ikke blir hørt i saker om sine utfordringer i skolen. Utvalget foreslår at barns rett til medvirkning skal stå i en egen paragraf i lovens innledende del, se forslag til § 2-2 og omtale av forslaget i kapittel 19. Regelen om barns rett til å bli hørt i spørsmål som gjelder dem selv, og regelen om at deres mening skal tillegges vekt, gjelder i alle spørsmål som gjelder barn, inkludert universell opplæring og alle former for individuell tilrettelegging.
+
+### Individuelt tilrettelagt opplæring skal gis av kvalifisert personale
+
+Etter dagens regelverk gjelder som hovedregel de samme formelle kravene til lærerkompetanse for spesialundervisning som for tilpasset opplæring. Det betyr at den som skal gi spesialundervisning, må oppfylle kompetansekravene i opplæringsloven for å kunne ansettes i undervisningsstilling og for å kunne gi opplæring i fag, se kapittel 38. Hovedregelen er at personer uten relevant og faglig kompetanse – det vil si lærerutdanning eller universitets- og høyskoleutdanning og praktisk-pedagogisk utdanning (PPU) – ikke kan ansettes i undervisningsstilling.
+
+Statistikk fra Utdanningsdirektoratet[^827] viser en stor økning i antallet timer med assistent i spesialundervisningen. Med assistenter menes personale som ikke er ansatt i lærerstilling. Assistenter er ikke en ensartet gruppe når det gjelder kompetanse. Betegnelsen «assistent» brukes som regel om ufaglærte uten formell bakgrunn og faglærte med for eksempel barne- og ungdomsarbeiderutdanning. Personer med høyere utdanning som ikke har lærerutdanning eller universitets- og høyskoleutdanning inklusive pedagogisk utdanning, er også omfattet av betegnelsen fordi disse personene ikke oppfyller kompetansekravene for å kunne ansettes i lærerstilling.
+
+Statistikken fra Utdanningsdirekoratet og Riksrevisjonens rapport fra 2011 om spesialundervisningen i grunnskolen[^828] viser at bruk av assistenter i spesialundervisningen har økt betydelig siden 2002 og fram til i dag. Mangel på kompetanse i skolen er et av hovedfunnene i Barneombudets rapport *Uten mål og mening?* og omfatter både bruk av ufaglærte, bruk av pedagoger uten god nok kompetanse til å undervise i det aktuelle faget og mangel på spesialpedagogisk kompetanse.
+
+Dagens opplæringslov er ikke er til hinder for at personer som ikke er ansatt i lærerstilling – under visse forutsetninger – kan bistå lærerne i gjennomføringen av opplæringen, både tilpasset opplæring og spesialundervisning. Etter dagens regelverk kan personer som ikke er ansatt i lærerstilling, «hjelpe til i opplæringa» under visse forutsetninger, men de kan ikke ha ansvaret for opplæringen, jf. opplæringsloven § 10-11.
+
+I tillegg til å «hjelpe til i opplæringa», kan personer som ikke er ansatt i lærerstilling, brukes til å ivareta enkeltelevers behov for praktisk hjelp (personlig assistanse) og avlaste lærerne med å bidra til å skape et godt læringsmiljø i klassen eller i gruppen.
+
+I og med at bruken av assistenttimer i spesialundervisningen har økt betydelig, og at bruken av assistenter sannsynligvis er en viktig årsak til at spesialundervisning ikke realiserer læringspotensialet til elevene, har utvalget vurdert om loven bør åpne for at assistenter kan «hjelpe til i opplæringa», slik loven gjør i dag.
+
+Regelen i § 10-11 som ble innført i 2013, se kapittel 31.4.1, ser ikke ut til å ha hatt den virkningen som var tiltenkt: å redusere bruken av assistenter i spesialundervisningen. Det er grunn til å tro at assistenter som er ansatt for å gi elever praktisk hjelp og støtte i skolehverdagen, også brukes til å utføre opplæring i strid med forutsetningene i opplæringsloven § 10-11. Det kan også være at unntakshjemmelen i § 5-5 tredje avsnitt blir brukt som hjemmel for å benytte assistenter i opplæringen selv om reglene ikke gir hjemmel til å bruke andre enn lærere i spesialundervisningen. Utvalget antar at det ligger en økonomisk motivasjon bak den omfattende assistentbruken i skolen fordi assistentbruk i spesialundervisningen koster mindre for kommunen enn bruk av lærere.
+
+Utvalget mener at loven fortsatt bør åpne for at assistenter, det vil si personer som ikke er ansatt i lærerstilling, kan brukes til å hjelpe til i opplæringen. Se kapittel 39.4.3. Å hjelpe til i opplæringen innebærer i denne sammenheng at assistenten gir opplæring til elever. Utvalget foreslår å endre ordlyden i dagens bestemmelse slik at det står klart i loven at det bare er lærere som kan ha ansvaret for opplæringen. Se omtale av og begrunnelse for forslaget i kapittel 39.4.1.
+
+Det er i dag ikke et eksplisitt krav om at en lærer må være til stede sammen med eleven når en elev gis opplæring av en assistent. For å forhindre at elever tas med ut av klasserommet og gis opplæring av en assistent uten at en lærer er til stede, foreslår utvalget å lovfeste at en lærer som hovedregel må være til stede sammen med eleven når eleven får opplæring. Det innebærer at personer som ikke er lærere, kan hjelpe elever som får individuelt tilrettelagt opplæring, kun når en lærer er til stede. Forslaget innebærer en innstramming av dagens adgang til å bruke assistenter til å gi opplæring. Se omtale av forslaget i kapittel 39.4.1.
+
+Assistenter kan også brukes til å gi elever praktisk hjelp gjennom skoledagen, ha omsorg for enkeltelever, hjelpe læreren med praktiske oppgaver, inspisere i skolegården eller utføre administrative og tekniske oppgaver i skolen. Andre yrkesgrupper enn lærere kan utføre oppgaver i skolen utenfor opplæringen, og forslaget om at en lærer må være til stede, er ikke ment å endre noe omkring ulike yrkesgrupper som utfører oppgaver i skolen som ikke er opplæring.
+
+Rett til praktisk hjelp fra en assistent kan være omfattet av vedtaket om individuelt tilrettelagt opplæring. Eleven kan i tillegg ha rett til brukerstyrt personlig assistanse (BPA) etter helse- og omsorgslovgivningen. Se kapittel 31.3.4 om grensen mellom spesialundervisning og helse- og omsorgstjenester. I Helsedirektoratets veileder om barn og unge med habiliteringsbehov er det forklart at både en assistent som er ansatt i skolen, og en brukerstyrt personlig assistent kan ha oppfølgingsoppgaver mens eleven er på skolen. Videre står det at kommunen avgjør hvilke tjenester som skal tilbys den enkelte bruker, og om de skal gis i form av BPA. Praktisk bistand fra en assistent mens eleven er på skolen, kan med andre ord gis etter både helse- og omsorgslovgivningen og etter reglene om individuell tilrettelegging i opplæringsloven.
+
+Utvalget mener at unntaksbestemmelsen i dagens § 5-5 tredje avsnitt om at det i et vedtak om spesialundervisning kan gjøres unntak fra kravene om kompetanse i faget det skal undervises i, bør videreføres i ny lov. Begrunnelsen for unntaksbestemmelsen er at det i noen tilfeller er viktigere med en annen kompetanse som er mer tilpasset elevens behov, enn den kompetansen som følger av de vanlige kompetansekravene. Det kan være at en elev har behov for en særskilt spesialpedagogisk kompetanse, for eksempel en lærer som er spesialpedagog, audiopedagog eller logoped. Regelen er ment å sikre elever rett til lærer med en særskilt kompetanse, og at unntaket må begrunnes ut fra faglige og pedagogiske årsaker. Utvalget mener at vilkårene for å bruke unntaksbestemmelsen bør tydeliggjøres i loven. Det skal komme klart fram i loven at unntaket bare gjelder bruk av personer som har en kompetanse som i større grad kan ivareta elevens særlige behov, enn en person som oppfyller de ordinære kompetansekravene for å kunne undervise i faget.
+
+Utvalget mener at loven også bør åpne for at personer med høy og relevant kompetanse, men som ikke har lærerutdanning, i særlige tilfeller skal kunne gi individuelt tilrettelagt opplæring og ha ansvaret for slik opplæring på lik linje med lærere. Utvalget foreslår å fastsette i loven at de alminnelige kompetansekravene kan fravikes i et vedtak om individuelt tilrettelagt opplæring dersom en konkret vurdering av eleven og opplæringen som skal gis, taler for det. Unntak skal bare gjelde for personer som har universitets- eller høgskoleutdanning, og som har en kompetanse som i større grad kan ivareta elevens behov, enn en person som oppfyller de ordinære kompetansekravene. Unntaket åpner for at for eksempel en psykolog, barnevernspedagog eller spesialpedagog med relevant kompetanse, men som ikke har lærerutdanning, kan ha ansvaret for å planlegge, gjennomføre og følge opp undervisningen når det er begrunnet med elevens behov. Spesialpedagog er for øvrig ikke en beskyttet tittel, og det må derfor vurderes i hvert enkelt tilfelle om spesialpedagogen har den kompetansen eleven har behov for. Spesialpedagogikk kan innebære ulike fordypninger innenfor emner som audiopedagogikk, kommunikasjon, logopedi, spesifikke lærevansker, sosiale og emosjonelle vansker, synspedagogikk, utviklingshemning og alternativ og supplerende kommunikasjon (ASK).[^829] Behovet for den særskilte kompetansen må komme eksplisitt fram i den sakkyndige vurderingen fra PP-tjenesten.
+
+### Pedagogisk- psykologisk tjeneste skal hjelpe skolen i arbeidet med å legge opplæringen bedre til rette for elevene
+
 Innledning
-I Sverige har samene status som en nasjonal minoritet, på lik linje med jøder, finner, tornedalinger
-og romani. I Finland er samene anerkjent som et
-urfolk.17 Verken Sverige eller Finland har ratifisert ILO-konvensjon nr. 169 om urfolk og stammefolk i selvstendige stater.
-Sverige
-Alle nasjonale minoriteter i Sverige har rett til å få
-utvikle sitt eget språk, inkludert å få opplæring i
-språket. Av skollagen § 7 i kapittel 10 går det fram
-at en elev som tilhører en nasjonal minoritet, skal
-tilbys morsmålsundervisning. Skolen har plikt til
-å tilby slik opplæring dersom det er minst én elev
-som ønsker slik opplæring. Plikten gjelder så
-framt det finnes egnede lærerressurser.18
-15
 
-12
+Alle kommuner skal ifølge opplæringsloven ha en pedagogisk-psykologisk tjeneste (PP-tjeneste), se kapittel 31.2.3. Utvalget mener at loven fortsatt bør inneholde et krav om at kommunene skal ha en slik tjeneste. Utvalget foreslår å utvide tjenestens ansvarsområde når det gjelder ansvaret for å hjelpe skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling, se nedenfor i dette kapitlet. I tillegg foreslår utvalget at kravet om sakkyndig vurdering ikke skal videreføres i forbindelse med vedtak om
 
-Kap. 2.2.
-13
-Kap. 2.3.
-14
-Kap. 4.2.
+- opplæring i og på tegnspråk, se kapittel 34.3
 
-16
-17
-18
+- punktskriftopplæring, se kapittel 34.4
 
-NOU 2016: 18.
-Meld. St. 31 (2018–2019), kap. 4.1.2.
-Finlands grundlag, § 17.
-Skolverket, 2019c.
+- fritak fra opplæringsplikten, se kapittel 23.4.3
 
-[Side 415]
+- tidlig og utsatt skolestart, se kapittel 23.4.4
 
-NOU 2019: 23
-Ny opplæringslov
+Utvalget foreslår også at det ikke skal være krav om sakkyndig vurdering før det fattes vedtak om personlig assistanse og fysisk tilrettelegging, se kapittel 31.5.3.4 og 31.5.4.3.
 
-Sverige har sameskoler for 1. til 6. trinn i
-grunnskolen, jf. kapittel 13 i skollagen. Her skjer
-opplæringen vekselvis på samisk og svensk.
-Målet er at elevene skal bli funksjonelt tospråklige. Fra og med 7. trinn går elevene i ordinær
-grunnskole, hvor de vil kunne fortsette med
-samisk som morsmålsundervisning eller som
-fremmedspråk.
-Også Sverige har forvaltningsområder for
-samiske språk. Bosted innenfor eller utenfor forvaltningsområdet har ingen betydning for elevens
-rett til samiskopplæring, men i praksis vil det
-være større muligheter for å få samiskopplæring
-som en del av eller i tillegg til den ordinære undervisningen innenfor forvaltningsområdet.19 I videregående opplæring har elever som har gode forkunnskaper, rett til morsmålsundervisning i
-samisk, jf. § 19 i kapittel 15 i skollagen.
-Finland
-I Finland er retten til opplæring i og på samisk differensiert ut fra bosted. Nærmere bestemt er det
-avgjørende om man bor innenfor eller utenfor det
-samiske «hembygdsområdet», som er definert i
-den finske loven om Sametinget. Det framgår av
-lag om grundläggande utbildning § 10 andre
-avsnitt at elever som bor innenfor «hembygdsområdet», og som behersker samisk, i hovedsak skal
-undervises på samisk. Kommunene i samenes
-hembygdsområde får statstilskudd tilsvarende
-nær 100 prosent av kostnadene med å gi opplæring i og på samisk, jf. lag om finansiering av
-undervisnings- och kulturverksamhet § 45. Den
-statlige finansieringen av samiskopplæring er mer
-beskjeden utenfor «hembygdsområdet». I disse
-områdene er det bare elever med samisk bakgrunn som har rett til samiskopplæring. Retten
-gjelder opplæring i samisk som morsmål eller
-fremmedspråk som del av den ordinære grunnskoleopplæringen.
-Samisk kan være undervisningsspråk i finsk
-videregående opplæring, i både studieforberedende og yrkesfaglige retninger, men det finnes
-ingen forpliktelse til å tilby slik opplæring.20
+Forslaget innebærer at loven stiller krav om sakkyndig vurdering kun før kommunen og fylkeskommunen skal fatte vedtak om individuelt tilrettelagt opplæring og før fylkeskommunen skal fatte vedtak om å gi elever med rett til individuelt tilrettelagt opplæring ekstra opplæringstid, se forslag til § 10-4 første avsnitt og § 6-5 andre avsnitt andre setning.
 
-19
+Utvalget foreslår i tillegg hjemmel for departementet til å gi forskrift om at den pedagogisk-psykologiske tjenesten skal utarbeide sakkyndige vurderinger også i andre tilfeller.
 
-Arbeidsgruppe om læremidler i samiskopplæringen, 2015,
-s. 33.
-20 Arbeidsgruppe om læremidler i samiskopplæringen, 2015,
-s. 28.
+Krav om at alle kommuner skal ha en PP-tjeneste
 
-413
+Ifølge utvalgets prinsipper bør organiseringen av kommunens oppgaver normalt ikke reguleres i lov. Utvalget mener at loven likevel fortsatt bør inneholde et krav om at kommunene skal ha en PP-tjeneste, fordi tjenesten har en viktig funksjon når det gjelder å hjelpe skolene med å tilrettelegge opplæringen for elever med ulike behov og å bistå skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling når skolen har behov for dette.
 
-Kapittel 33
+Behovet for en faglig kompetent og uavhengig tjeneste som kan bistå skolen med kompetanse det ikke kan forventes at skolen kan ha selv, strekker seg langt tilbake i tid. Organiseringen av tjenesten og hvilke oppgaver og hvilken kompetanse tjenesten skal ha, har endret seg over tid. Dette henger i stor grad sammen med samfunnsutviklingen generelt, og spesielt synet på inkludering.
 
-33.3.4 Innspill til utvalget
-Sametinget
-Sametinget har i skriftlig innspill til utvalget gitt
-uttrykk for at opplæringsloven ikke oppleves som
-et optimalt styringsverktøy for samiske rettigheter. Det er også et generelt ønske om at samiske
-rettigheter i større grad anerkjennes og lovfestes.
-Sametinget har pekt på følgende tre hovedutfordringer med dagens regelstyring av grunnopplæringen sett fra et samisk perspektiv:
-– for lav kjennskap til regelverket
-– for lav etterlevelse av regelverket
-– regelverket sikrer ikke i tilstrekkelig grad
-samiske barns rettigheter gjennom krav om
-språklig og kulturell kompetanse hos faginstanser
-Mer konkret har Sametinget bedt om at reguleringen av opplæring i og på samisk bør framkomme
-gjennomgående i regelverket, ikke i et eget kapittel som i dag. Sametinget har også bedt om en
-styrking av samiske elevers rettigheter:
-– retten til opplæring på samisk utenfor samiske
-forvaltningsområder bør gjelde uavhengig av
-hvor mange elever i kommunen som ønsker
-slik opplæring
-– retten til samiske læremidler bør lovfestes
-– regulering av skoleeiers plikt til å sikre kvalitet
-ved fjernundervisning
-– regulering av samisk som et av de obligatoriske fagene i grunnskolen
-– lovfestet krav om at PPT skal ha samisk språkog kulturkompetanse i virksomheten
-For øvrig har Sametinget gitt uttrykk for at Sametingets melding om opplæring og utdanning, som
-ble behandlet av Sametingets plenum i 2014 viser
-totaliteten av Sametingets vurderinger av regulering av rettigheter og plikter knyttet til opplæring.
-Mange av Sametingets forslag til endringer sammenfaller med tiltak foreslått av Samisk språkutvalg i NOU 2016: 18, se kapittel 33.3.2.
-I møter med utvalget har Sametinget blant
-annet pekt på at
-– selv om det er utfordringer med å gi opplæring
-i og på samisk, er ikke løsningen å frata
-samiske barn denne retten. I stedet bør man
-finne fram til hvordan man ut fra forutsetningen lokalt, kan oppfylle rettigheten best mulig
-for den enkelte eleven
-– regelverket må sikre at elever som får opplæring via fjernundervisning, får god samiskopplæring
+Etableringen av en tverrfaglig pedagogisk-psykologisk tjeneste er et resultat av enhetsskoletanken som kan føres tilbake til 1890-årene. Den første lovreguleringen på området kom med en bestemmelse om skolepsykologtjenesten i folkeskoleloven av 1955. Tjenestens utvikling fram mot slutten av 60-årene var i stor grad preget av at tjenesten skulle kartlegge hvilke elever som burde overføres til spesialskoler. Denne måten å organisere elevene på ble mot slutten av 60-tallet sterkt kritisert, spesielt av PP-tjenestens egne fagfolk. I 1976 ble spesialskoleloven avviklet, og krav om at hver kommune skal ha en PP-tjeneste, ble lovfestet i en egen paragraf i grunnskoleloven.[^830]
 
-[Side 416]
+Smith-utvalget foreslo i sin utredning av 1995[^831] å lovfeste at PP-tjenesten skal ha ansvar for å utarbeide sakkyndig vurdering der loven krever det. Samtidig pekte utvalget på at det ofte vil være naturlig at kommunene også gir PP-tjenesten andre oppgaver i tilknytning til planlegging og gjennomføring av undervisning for barn, unge og voksne med særlige behov. På bakgrunn av dette, foreslo Smith-utvalget at PP-tjenesten gis et særlig ansvar for blant annet det spesialpedagogiske utviklingsarbeidet i kommunen.[^832] I Ot.prp. nr. 46 (1997–98) foreslår departementet at også PP-tjenestens ansvar for kompetanseutvikling og organisasjonsutvikling skal lovfestes. I merknaden til bestemmelsen framgår det at endringen er gjort for å tydeliggjøre at PP-tjenesten, i tillegg til å ha ansvar for arbeidet med å skrive sakkyndig vurdering, også skal ha ansvar for å bistå skolen i arbeidet med å legge opplæringen til rette for elever med særskilte behov.[^833] I 2016 ble PP-tjenestens mandat tilsvarende utvidet og klargjort i barnehageloven.
 
-414
+Faget spesialpedagogikk har vært gjennom betydelige endringer når det gjelder forståelse og tilnærmingsmåter. I korte trekk går dette ut på å i større grad bygge ned hindringer for læring i læringsmiljøet framfor å fokusere på den enkelte elevs særtrekk og utfordringer.[^834] I løpet av de siste tiårene har det i økende grad blitt lagt vekt på at det barn opplever som problematisk i møte med skolen, må ses i lys av måten skolesystemet møter variasjonen i barns læreforutsetninger på.[^835]
 
-NOU 2019: 23
+Som følge av dette, har det ikke bare fra politisk hold, men også fra PP-tjenesten selv og kommuner kommet til uttrykk et klart ønske om at PP-tjenesten skal jobbe mer med kompetanse- og organisasjonsutvikling. Bakgrunnen for dette er blant annet mange henvisninger til PP-tjenesten og ønske om at skolen i større grad skal være i stand til å tilrettelegge opplæringen for elever med ulike behov, uten å gå veien om sakkyndig vurdering og spesialundervisning.[^836]
 
-Kapittel 33
+Selv om det i utgangspunktet er generelt høy kompetanse i dagens PP-tjeneste,[^837] har flere statlige tiltak de senere årene blitt gjennomført med mål om å bidra til kompetanseutvikling og endring av arbeidsmåter i PP-tjenesten. Programmet *Samtak* ble gjennomført i 2000–2003, og *Strategi for etter- og videreutvikling for PP-tjenesten* (SEVU PPT) ble gjennomført i 2014–2018. I sluttrapporten fra evalueringen av SEVU PPT konkluderer forskerne med at strategien langt på vei har bidratt til å dreie oppmerksomheten mot kompetanseutvikling og organisasjonsutvikling. Kompetansen innenfor denne typen arbeidsoppgaver oppgis som høyere blant dem som deltok i videreutdanningstilbudene, enn blant dem som ikke deltok.[^838] I tillegg har Utdanningsdirektoratet utformet veiledende kvalitetskriterier for PP-tjenesten, for å hjelpe kommuner til å utvikle PP-tjenesten.[^839]
 
-Ny opplæringslov
+I forarbeidene til dagens bestemmelse om PP-tjenesten blir tjenestens faglige uavhengighet understreket. Det framgår tydelig at kommunen ikke kan instruere om hva de faglig-pedagogiske vurderingene skal gå ut på, selv om PP-tjenesten er underlagt kommunen organisatorisk og økonomisk.[^840]
 
-Figur 33.2 Sametinget
-Foto: Opplæringsutvalget
+PP-tjenestens betydningsfulle rolle som uavhengig, faglig kompetent instans blir framhevet i høringsinnspillene til rapporten fra Ekspertgruppen for barn og unge med behov for særskilt tilrettelegging. Flere høringsinstanser er bekymret for at ekspertgruppens forslag om endring av det spesialpedagogiske støttesystemet, vil føre til at PP-tjenesten svekkes, til fordel for et pedagogisk støttesystem på hver skole. Disse høringsinstansene, blant annet Fylkesmannen i Nordland og Ski kommune, løfter særlig fram at PP-tjenesten har et «utenforblikk» og er en nøytral part. Faglig råd for PP-tjenesten skriver i sitt høringsinnspill at det vil være vanskelig å opprettholde legitimitet som veileder om en skal veilede i det systemet en selv er en del av. Fylkesmannen i Oslo og Akershus og Fylkesmannen i Sogn og Fjordane, peker på at PP-tjenestens faglige og økonomiske uavhengighet bidrar til å styrke elevenes rettssikkerhet. I tillegg peker blant annet Fylkesmannen i Sogn og Fjordane på at små kommuner vanskelig vil kunne ha tilstrekkelig kompetanse, og vil være avhengige av gode interkommunale samarbeid. Mange høringsinstanser mener videre at ekspertgruppens beskrivelse av PP-tjenesten er mangelfull og utdatert. Flere peker på at beskrivelsen passer for tidligere praksis, men at PP-tjenesten har gjennomgått store endringer. PP-tjenesten oppleves nå som mer tilgjengelig og med mer kompetanse om hvordan de kan møte skolenes behov.[^841]
 
-–
-–
+Opplæringslovutvalget merker seg at det i flere rapporter framgår at det er ulike utfordringer knyttet til arbeidet PP-tjenesten i dag gjør, se kapittel 31.4.2. Utvalget finner det vanskelig å forutse virkningene av å avvikle kravet om å ha en PP-tjenesten i opplæringsloven. PP-tjenesten har ansvar for å hjelpe skolen i vurderingen og konkretiseringen av hva den enkelte elev trenger for å få et tilfredsstillende, likeverdig og inkluderende opplæringstilbud, og tjenesten er derfor et sikkerhetsnett både for elever og for skolen. PP-tjenestens faglige kompetanse og tjenestens rolle som uavhengig sakkyndig instans, kan være avgjørende for at elevene får den tilretteleggingen de har krav på, og at skolene får den støtten de har behov for, i en kompleks og ofte økonomisk utfordrende skolehverdag.
 
-det bør reguleres krav om parallellutgaver for
-samiske læremidler tilsvarende det som gjelder for bokmål og nynorsk (§ 9-4)
-det er en svakhet ved loven i dag at ikke
-samiske elever som lærer samisk i grunnskolen mister denne retten i videregående opplæring
+PP-tjenesten skal gi råd til skolene om hvordan opplæringen kan organiseres og gjennomføres
 
-Sametinget mener at det er viktig å se realismen i
-realiseringen av rettighetene som er forankret i
-loven, men at det også er viktig å ikke la den manglende ressurstilgangen per i dag, styre bestemmelser som skal virke i mange år framover.21
+En forutsetning for at en elev skal få hjelp raskt, kan være at skolen får veiledning fra den pedagogisk- psykologiske tjenesten om hvordan skolen kan legge opplæringen bedre til rette for elevene. Etter opplæringsloven § 5-6 skal PP-tjenesten «hjelpe skolen i arbeidet med kompetanseutvikling og organisasjonsutvikling for å leggje opplæringa betre til rette for elevar med særlege behov». Oppgavene som er knyttet til kompetanse- og organisasjonsutvikling, har ofte blitt betegnet som systemrettet arbeid.
 
-gang på samiske læremidler, manglende samiskspråklige verktøy for kartlegging av elevenes særlige behov og manglende regulering av fjernundervisning. Utvalget oppfordres til å gjennomgå rettighetene og pliktene, inkludert statens
-plikter. Barneombudet mener også at reglene om
-samisk, blant annet kapittel 6 og kapittel 7 i forskriften, kan samordnes i loven, men slik at rettighetene til elever med ulike behov også samordnes.22
-Utdanningsforbundet
+Målgruppen for PP-tjenestens arbeid med kompetanseutvikling og organisasjonsutvikling er ifølge § 5-6 elever med «særlege behov». Utvalget mener at PP-tjenestens mandat bør utvides slik at tjenestens arbeid ikke bare skal rette seg mot elever med «særlege behov», men mot alle elever.
 
-Barneombudet har framhevet fem områder som
-utvalget bør se særskilt på. Blant disse er opplæringstilbudet til og sikringen av rettighetene til
-samiske barn. Ombudet peker på at det er liten til-
+I kvalitetskriterier utviklet av Utdanningsdirektoratet, står det at PP-tjenesten skal arbeide forebyggende slik at skolene kan komme i forkant av problemer.[^842] Det er imidlertid ikke lovfestet at PP-tjenestens arbeid med å hjelpe skolene med organisasjonsutvikling og kompetanseutvikling skal rette seg mot alle elever.
 
-Utdanningsforbundet har oppfordret utvalget til å
-vurdere om dagens lov er tydelig nok til å sikre
-samiske barn og elevers rett til opplæring i og på
-samisk. I tråd med forslagene til tiltak i NOU
-2016: 18, oppfordrer Utdanningsforbundet utvalget til å se på minstekravet for rett til opplæring på
-samisk utenfor samiske forvaltningsområder og
+Utvalget mener at tjenesten bør ha ansvar for å hjelpe skolen med å legge opplæringen bedre til rette overfor alle elever, ikke bare elever med særlige behov. Dette kan bidra til at færre elever trenger individuelt tilrettelagt opplæring, at de som trenger det, får raskere og riktigere hjelp, og at opplæringstilbudet til den enkelte elev blir bedre. Utvalget foreslår at PP-tjenesten, når det er behov for det, skal ha plikt til å gi råd til skolene om hvordan opplæringen kan organiseres og gjennomføres. Det betyr blant annet at PP-tjenesten skal gi råd og hjelp til skolen når det gjelder tilrettelegging av forsterket innsats til elever som ikke har de læringsresultatene som er forventet. Informasjonen fra denne fasen kan eventuelt danne grunnlag for en sakkyndig vurdering og for enkeltvedtak om individuelt tilrettelagt opplæring. Forslaget innebærer at PP-tjenesten også skal gi råd og veiledning når det gjelder opplæringen for elever som har høyt potensial for læring.
 
-21
+### Saksbehandlingsreglene forenkles
 
-22
+Opplæringsloven inneholder særlige krav til saksbehandlingen i forbindelse med vedtak om spesialundervisning. Opplæringsloven har følgelig et unntak fra de alminnelige reglene i forvaltningsloven om utredningsplikt. Unntaket i opplæringsloven går ut på at det kreves en sakkyndig vurdering før det fattes vedtak om spesialundervisning, og at vurderingen skal utføres av pedagogisk-psykologisk tjeneste (PP-tjenesten). Loven stiller også krav om hva den sakkyndige vurderingen skal inneholde. KS har gitt innspill til utvalget om hvilken kompetanse kommunen trenger for å utrede saken i tråd med forvaltningslovens regler, organiseringen av en slik kompetanse og at dette hører inn under kommunens organiseringsfrihet.
 
-Barneombudet
+Utvalget foreslår at opplæringsloven fortsatt bør inneholde krav om sakkyndig vurdering fra PP-tjenesten før det fattes vedtak om individuelt tilrettelagt opplæring.
 
-Sametinget, innspill til utvalget.
+De vanlige saksbehandlingsreglene om utredningsplikt i forvaltningsloven bør imidlertid være tilstrekkelige når kommunen skal fatte vedtak om personlig assistanse og fysisk tilrettelegging. Det vil si at det ikke stilles krav om at det skal foreligge en sakkyndig utredning fra PP-tjenesten når kommunen skal fatte vedtak om praktisk eller fysisk tilrettelegging. Siden saken, ifølge forvaltningsloven, skal være «så godt opplyst som mulig før vedtak treffes», kan det hende at det i noen tilfeller vil være nødvendig med en vurdering fra PP-tjenesten. Dersom kommunen trenger råd og veiledning i forbindelse med vedtak om praktisk eller fysisk tilrettelegging, kan det i noen tilfeller være mer relevant å få bistand fra for eksempel en ergoterapeut, audiopedagog og fysioterapeut. Med en slik løsning kan PP-tjenesten frigjøre tid fra å skrive sakkyndige vurderinger til å jobbe forebyggende ved å hjelpe skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling og gi råd til skolene om løsninger og tiltak innenfor den universelle opplæringen.
 
-Barneombudet, innspill til utvalget.
+Det følger av dagens § 5-3 tredje avsnitt at departementet kan gi nærmere forskrifter om den sakkyndige vurderingen fra pedagogisk-psykologisk tjeneste. Forskriftshjemmelen har ikke blitt brukt. Etter utvalgets vurdering er det ikke behov for å gi ytterligere regler i forskrift når loven inneholder en detaljert oppramsing av kravene til den sakkyndige vurderingen. Kravene foreslås i hovedsak videreført i forslag til § 10-5. Oppramsingen er ikke uttømmende, men inneholder et minstekrav til hva den sakkyndige vurderingen skal inneholde. Utvalget mener derfor at forskriftshjemmelen er overflødig, og foreslår at den ikke videreføres.
 
-[Side 417]
+### Dobbeltreguleringer fjernes
 
-NOU 2019: 23
-Ny opplæringslov
+Utvalget foreslår også at dagens lovbestemmelser om opplæring av elever med behov for alternativ og supplerende kommunikasjon (ASK) ikke videreføres i ny lov fordi innholdet i bestemmelsene følger av forslag til nye bestemmelser om universell opplæring, individuelt tilrettelagt opplæring, fysisk tilrettelegging og personlig assistanse. For eksempel vil elever som ikke får tilfredsstillende utbytte av den universelle opplæringen, ha rett til individuelt tilrettelagt opplæring, uansett årsak.
 
-på tiltak for å styrke kvaliteten på fjernundervisningen. Også samiske barn med lærevansker må
-sikres rett til spesialpedagogisk hjelp på sitt
-samiske språk: lulesamisk, sørsamisk eller nordsamisk. Utdanningsforbundet oppfordrer også
-utvalget til å vurdere en styrket regulering for å
-sikre opplæringen til samiske barn, unge og
-voksne med særskilte behov.23
-Andre
-Utvalget har i møter med elever, ansatte og kommuner stilt spørsmål om det er særskilte utfordringer når man skal gi opplæring i eller på
-samisk. Flere har erfart at kommuner og skoler
-utenfor forvaltningsområdet for samisk språk har
-for lav kjennskap til både samisk kultur og regelverket om samiskopplæring, noe som i praksis
-har ført til at unge voksne har lært seg samisk på
-eget initiativ etter fullført videregående opplæring. Store utfordringer med både læremidler,
-kartleggingsressurser og lærerressurser trekkes
-fram av mange. Fjernundervisning oppleves som
-et greit alternativ der stedlig undervisning ikke er
-mulig, men denne undervisningsformen forutsetter at teknikken fungerer og god timeplanlegging
-på skolen slik at elevene ikke går glipp av for mye
-opplæring i andre fag. Sistnevnte kan føre til at
-elever slutter med samisk. Flere av dem utvalget
-har møtt, mener at hospitering er et godt og nødvendig supplement til fjernundervisning. Elevene
-erfarer at stadig flere ikke norske elever ønsker å
-lære samisk i stedet for nynorsk. Som en av elevene sa: «Alle som har lyst, bør få lov å lære seg
-samisk.»
-Redd Barna viser til FNs barnekomités avsluttende merknad til Norge fra 2018: «Enforce the
-right of all Sami children of school age to Samilanguage education and ensure that the new Education act significantly strengthens their rights,
-regardless of their residency status.» Redd Barna
-viser også til at samiske barn i Norge har liten tilgang på læremidler på samisk.
+Etter dagenes regelverk skal det ikke fattes enkeltvedtak etter bestemmelsene om ASK, men enkeltvedtak om bruk av og opplæring i ASK kan fattes etter opplæringsloven § 5-1 eller etter § 9 A-7 tredje avnsitt om tilrettelegging av arbeidsplassen, som kan omfatte fysisk tilrettelegging for ASK. Hvis ASK er en del av tilpasset opplæring, skal det ikke fattes enkeltvedtak. Dagens bestemmelser om ASK innebærer følgelig en dobbeltregulering, og det er presisert i lovens forarbeider at innholdet i bestemmelsene om ASK følger av reglene om tilpasset oppæring og spesialundervisning.[^843]
 
-33.4 Utvalgets vurdering
-33.4.1 Innledning
-Utvalget mener at staten som en konsekvens av
-internasjonale konvensjoner og nasjonale regler,
-inkludert Grunnloven § 108, har et særlig ansvar
-for å ivareta hensynet til samene. Bevaring og
+Ifølge utvalgets prinsipper for regelstyring skal dobbeltregulering normalt unngås. Med dobbeltregulering forstås regler som i innhold er de samme som andre regler innad i loven eller regler i annet regelverk. Dobbeltregulering har en rekke ulemper: I tillegg til at lovens tekstmengde øker, kan det legge grunnlag for uønskede antitetiske tolkninger når det gjelder elevgrupper og områder som ikke er nevnt.
 
-styrking av de samiske språkene er av stor betydning for å verne om og utvikle samisk kultur og
-samfunnsliv. Utvalget mener at skolen har en
-avgjørende rolle for å sikre viktige rettigheter for
-samene, og mener derfor at retten til opplæring i
-og på samisk bør videreføres i den nye loven. I tillegg til at det er behov for å klargjøre gjeldende
-bestemmelser om rett til opplæring i og på
-samisk, har utvalget vurdert enkelte styrkinger av
-rettighetene. Videre har utvalget vurdert noen
-regeltekniske endringer, for eksempel om gjeldende oppdeling mellom lov og forskrift er hensiktsmessig.
-I rettsteorien har det vært diskutert om man
-kan differensiere samiske språk i ulike dialekter,
-eller om forskjellene er så store at det er snakk
-om ulike samiske språk.24 I Norge blir det gitt
-opplæring i og på nordsamisk, lulesamisk og sørsamisk, som alle tre har sitt eget standardiserte
-skriftspråk og eget alfabet. Selv om nordsamisk er
-det klart mest talte og utviklede språket, er det
-ikke rettslig grunnlag for å forskjellsbehandle de
-tre samiske språkene. På UNESCOs liste over
-truede språk er de tre nevnte samiske språkene
-klassifisert som truede språk, hvor sørsamisk og
-lulesamisk er ansett som alvorlig truet. Utvalget
-legger til grunn at Norge har tre offisielle og likeverdige samiske språk: sør-, lule-, og nordsamisk.
-Utvalget bruker uttrykket «de samiske språkene»
-i utredningen for å synliggjøre det språklige
-mangfoldet.
-God språkopplæring i grunnopplæringen er
-viktig både for å støtte opp om språkutviklingen
-hos samiskspråklige barn og for å sikre samiske
-norskspråklige personers rett til å lære eget morsmål. Det er derfor viktig at skolene har gode opplæringsmodeller for samiskopplæringen. Store
-deler av den samiske befolkningen bor utenfor
-forvaltningsområdet for samisk språk. Befolkningsutviklingen viser at mange samer flytter fra
-tradisjonelle samiske områder til større tettsteder
-og byer. Det er viktig å sikre at også elever utenfor forvaltningsområdet, og da særlig samiske
-elever, som ønsker opplæring i samisk som førsteeller andrespråk, får en kvalitativt god opplæring.
-Utvalget legger til grunn at manglende tilgang på
-lærere og andre personer med samisk språkkompetanse gjennomgående er en utfordring for å
-kunne gi god samiskopplæring til alle samiske
-elever.
+Opplæring av personer med behov for ASK er et komplekst og forholdsvis nytt fagfelt, der behovet for bevisstgjøring og informasjon kan være stort. Utdanningsdirektoratet har utviklet en egen veileder om ASK i skolen,[^844] der blant annet pedagogisk og fysisk tilrettelegging for elever med behov for ASK er omtalt. Statlig spesialpedagogisk tjeneste (Statped) har ASK som særlig ansvarsområde og bidrar på ulike måter til å kartlegge og utvikle tiltak for elever som trenger ASK.
 
-24
-23
+### Reaksjoner ved lovbrudd
 
-Utdanningsforbundet, innspill til utvalget.
+Utvalget ønsker ikke å innføre ytterligere reaksjoner ved brudd på reglene om individuelt tilrettelagt opplæring, personlig assistanse og fysisk tilrettelegging enn dagens adgang til å gi pålegg, se utredningens kapittel 53 om reaksjoner ved brudd på opplæringsloven.
 
-415
+## Utvalgets forslag
 
-Kapittel 33
+Utvalget foreslår
 
-Smith, 2006, s. 332-333. Skogvang & Funderud, 2009, s.
-167.
+- at (1) *universell opplæring*, (2) *forsterket innsats* og (3) *individuelt tilrettelagt opplæring* innføres som nye betegnelser, se forslag til §§ 10-1, 10-2 tredje avsnitt og 10-3
 
-[Side 418]
+- at forsterket innsats skal gjelde all opplæring og ikke begrenses til lesing, skriving og regning
 
-416
+- at forsterket innsats skal gjelde for elever på alle trinn, og at den kan vare i en kort periode og i lengre perioder
 
-Kapittel 33
+- å videreføre at elever kan ha eneundervisning i en kort periode som en del av den forsterkede innsatsen uten at det er gitt samtykke om dette
 
-NOU 2019: 23
-Ny opplæringslov
+- at *personlig assistanse* og *fysisk tilrettelegging* – som i dag kan inngå i spesialundervisning – skilles ut som egne rettigheter, se forslag til §§ 10-9 og 10-10
 
-33.4.2 Rett til opplæring i de samiske
-språkene
-Rett til opplæring i ett av de tre samiske språkene
-I tråd med dagens regler legger utvalget til grunn
-at retten til opplæring gjelder ett av de tre samiske
-språkene. Fra enkelte hold har det blitt argumentert med at elever kan ha språklig tilknytning til
-mer enn ett av de samiske språkene, og at retten til
-opplæring i samisk derfor ikke bør avgrenses til ett
-samisk språk. Utvalget ser at en avgrensning av retten til ett språk kan svekke muligheten for at flere
-tar i bruk ulike samiske språk. På den annen side
-kan ikke utvalget se at samiske elever stilles i en
-vesentlig annen posisjon enn øvrige elever som har
-tilknytning til mer enn ett språk. Opplæring i
-samisk som første- eller andrespråk innebærer et
-økt timetall totalt sett, samtidig som tiden til undervisning i øvrige fag reduseres. Etter utvalgets vurdering vil rett til opplæring i to eller flere samiske
-språk være vanskelig å gjennomføre, både for
-eleven og for kommunen. Utvalget mener det er
-riktig å prioritere en kvalitativt god opplæring og
-trygge rammer for opplæring i ett samisk språk
-som første- eller andrespråk, og utvalget foreslår
-derfor ikke endringer her. Utvalget legger til grunn
-at eleven eller foreldrene avgjør hvilket av språkene det skal gis opplæring i.
-Bør retten til opplæring i samisk i videregående
-opplæring utvides?
-I videregående opplæring er det bare samiske
-elever som har rett til opplæring i samisk. Utvalget mener det er uheldig at retten til opplæring i
-samisk i videregående opplæring ikke samsvarer
-med retten til slik opplæring i grunnskolen, se
-opplæringsloven § 6-2 første og andre avsnitt og
-§ 6-3 første avsnitt. Dette betyr at en ikke-samisk
-elev som har fått opplæring i samisk i grunnskolen, ikke vil ha rett til å fortsette opplæringen i
-videregående opplæring. Dette er uheldig både
-for den enkelte elev, som kan miste muligheten til
-å fortsette med faget, og for bevaringen og utviklingen av de samiske språkene som sådan. Utvalget vil også peke på at bortfall av tilbud om opplæring i de samiske språkene som første- og
-andrespråk i videregående opplæring, også har
-betydning for kravene til opplæring i både sidemål
-og fremmedspråk, jf. forskrift til opplæringsloven
-§§ 1-10 og 1-11.
-Utvalget mener at det er rimelig at en elev som
-har fått opplæring i eller på samisk som førsteeller andrespråk i grunnskolen, sikres mulighet til
-å fortsette med samiskopplæring i videregående
+- at skolens plikt til å følge med, melde fra og følge opp, inkludert plikten til å gi forsterket innsats, skal klargjøres og settes i en sammenheng i en egen bestemmelse, se forslag til § 10-2
 
-opplæring. Dette vil sikre den enkelte elev et helhetlig opplæringsløp, men også bidra til bevaringen og utviklingen av samiske språk som sådan.
-Der eleven av ulike grunner ikke ønsker å fortsette med samiskopplæringen i videregående opplæring, ber utvalget om at departementet vurderer om det er rimelig å åpne for fritak for vurdering med karakter i skriftlig sidemål.
-Opplæring i samisk i forvaltningsområdet for samisk
-språk
-Utvalget mener at kommunene i forvaltningsområdet for samisk språk fortsatt skal ha myndighet
-til å fastsette at alle elever i grunnskolen skal ha
-opplæring i samisk. Kompetanse i samisk kan
-være et viktig tiltak for å sikre kommunikasjon og
-forståelse mellom elevene i disse kommunene.
-Kommunen kan ikke pålegge elevene opplæring i
-samisk som andre- eller førstespråk, men pålegget kan omfatte opplæring etter lokale læreplaner
-med undervisningstid som kommer i tillegg til
-fag- og timefordelingen. Utvalget foreslår derfor
-at opplæringsloven § 6-2 fjerde avsnitt videreføres.
+- å videreføre dagens saksbehandlingsregler om krav til sakkyndig vurdering før det fattes vedtak om individuelt tilrettelagt opplæring, se forslag til §§ 10-4 og 10-5
 
-33.4.3 Rett til opplæring på de samiske
-språkene
-Bør retten til opplæring på samisk i egen gruppe i
-grunnskolen endres?
-I NOU 2016: 18 foreslår Samisk språkutvalg å
-redusere dagens minstekrav for retten til opplæring på samisk utenfor samisk forvaltningsområde, og at kravet reduseres fra ti til tre elever i
-kommunen. Forslaget begrunnes slik:
-Utvalget mener det er en svakhet ved regelverket at samiske barns rettigheter til å få opplæring på samisk er avhengig av at et visst antall
-andre barn i kommunen også krever slik opplæring. Det er også svært uheldig at barn som
-har startet denne opplæringen kan miste tilbudet dersom de blir færre enn seks i gruppen.
-Dette skjer eksempelvis ved at andre elever
-flytter, eller blir ferdige med grunnskolen.
-Utvalgets oppfatning er at en minimumsgrense
-på ti elever er en vanskelig målsetning, særlig i
-de sør- og lulesamiske områdene og i nordsamiske områder utenfor Indre Finnmark. Det
-bør være en forpliktelse for skoleeier å etablere
-samiskklasser, også ved et lavere antall enn ti
-elever.25
-25
+- å videreføre dagens regel om individuell opplæringsplan og årlig evaluering av den individuelt tilrettelagte opplæringen, se forslag til §§ 10-7 og 10-8
 
-Kap. 10.4.
+- at dagens lovbestemmelser om opplæring av elever med behov for alternativ og supplerende kommunikasjon (ASK) ikke videreføres
 
-[Side 419]
+- at kravet om at hver kommune og fylkeskommune skal ha en PP-tjeneste videreføres, se forslag til § 10-12
 
-NOU 2019: 23
-Ny opplæringslov
+- at PP-tjenestens mandat utvides slik at tjenestens arbeid ikke bare skal rette seg mot elever med «særlege behov», men mot alle elever
 
-Også Sametinget har i skriftlig innspill til utvalget
-gitt uttrykk for at minstekravet på ti elever i kommunen er uheldig.
-Utvalget ser at det kan være prinsipielt betenkelig at en elevs rettighet er avhengig av at det er
-andre elever i kommunen som ønsker å benytte
-seg av den samme rettigheten. På den annen side
-ser utvalget at det er både pedagogiske og praktiske hensyn som kan tilsi et minstekrav til antallet elever for å opprette et opplæringstilbud. Det
-kan være utfordrende for kommunen å gjennomføre kvalitativt god opplæring for et lavt antall
-elever. Videre mener utvalget at en individuell rett
-til opplæring på samisk eller et lavt minstekrav til
-antallet elever, kan komme i konflikt med elevens
-behov for sosial tilhørighet. Utvalget foreslår derfor å videreføre dagens minstekrav på ti elever i
-opplæringsloven § 6-2 andre avsnitt for å utløse
-rett til opplæring på samisk utenfor forvaltningsområdet for samisk språk. For øvrig foreslår utvalget at gjeldende § 6-2 første avsnitt videreføres.
-Bør retten til opplæring på samisk i grunnskolen
-utvides med noen fag?
-Sametinget har oppfordret utvalget til å vurdere
-mellomløsninger dersom det er hensynet til praktisk gjennomføring og muligheten for regelverksoppfyllelse som er årsaken til at retten til opplæring i og på samisk begrenses. Sametinget peker
-blant annet på at det er utfordringer med å gi opplæring på samisk utenfor forvaltningsområdet, og
-at det ikke er ønskelig at elever får store deler av
-opplæringen som eneundervisning. Eksempelvis
-vil en rett til opplæring på samisk i noen få fag
-være bedre enn å ikke ha rett til slik opplæring på
-samisk i det hele tatt.
-Utvalget ser flere fordeler med en slik differensiert tilnærming hvor elevene gis opplæring på
-samisk i noen fag i tillegg til opplæringen i
-samisk. Elevene vil da kunne tilhøre en ordinær
-klasse, men få opplæring på samisk i noen fag i
-egen gruppe. Selv om disse elevene vil ha sin sosiale tilhørighet i en ordinær klasse, mener utvalget
-at retten bør begrenses til der det er minst tre
-elever i en kommune som ønsker opplæring på
-samisk. Utvalget mener videre at retten i første
-omgang bør begrenses til samiske elever, og at
-disse gis rett til opplæring på samisk i to fag.
-Utvalget foreslår at departementet kan gi forskrift
-om hvilke fag dette er. Slik utvalget ser det, er det
-viktig at forskriften åpner for en viss fleksibilitet
-lokalt. Etter forslaget vil kommunen bare ha plikt
-til å tilby denne ordningen der det ikke er grunnlag for egne grupper etter gjeldende § 6-2 andre
+- at det ikke skal være krav om sakkyndig vurdering fra PP-tjenesten for å få tiltak om personlig assistanse eller fysisk tilrettelegging
 
-417
+- å presisere i loven at det bare er personer som er ansatt i lærerstilling, som kan ha gi individuelt tilrettelagt opplæring, se forslag til § 10-6 første avsnitt
 
-Kapittel 33
+- å innføre en bestemmelse om at personer med høy og relevant kompetanse, men som ikke er lærere, på visse vilkår skal kunne gi individuelt tilrettelagt opplæring, se forslag til 10-6 andre avsnitt
 
-avsnitt. Utvalget mener også at kommunen, på lik
-linje som for øvrig samiskopplæring, skal kunne
-vedta å legge opplæringen til en eller flere skoler i
-kommunen.
-Utvalget ønsker ikke å innføre nye rettigheter
-eller plikter som ikke kan innfris av kommunen
-fra ikrafttredelsestidspunktet. Det er enighet om
-at tilgangen på kvalifisert undervisningspersonale
-er en utfordring. Slik utvalget ser det, er det derfor nødvendig at det gjennomføres tiltak for å få
-flere lærerressurser før denne endringen kan tre i
-kraft. For å bidra til fortsatt satsing på rekruttering av samisklærere, foreslår utvalget at en utvidelse av retten til opplæring på samisk i to ekstra
-fag tas inn i loven nå, men at regelen først trer i
-kraft noe fram i tid.
-Plikt for enkeltskoler til å tilby opplæring i eller på de
-samiske språkene
-Etter opplæringsloven § 6-3 andre avsnitt kan
-departementet «gi forskrifter om at visse skolar
-skal tilby opplæring i eller på samisk eller i særskilde samiske fag i den vidaregåande opplæringa
-innanfor visse kurs eller for visse grupper».
-Denne forskriftshjemmelen har aldri vært tatt i
-bruk.
-I NOU 2016: 18 foreslås det at denne forskriftshjemmelen tas i bruk for å gjøre samiskspråklige
-tilbud i videregående opplæring mer tilgjengelig.
-Opplæringslovutvalget har forståelse for intensjonen bak forslaget, men ser samtidig at en bruk av
-hjemmelen vil være inngripende for fylkeskommunene. Det er den enkelte fylkeskommune som
-er ansvarlig for videregående opplæring i eget
-fylke, inkludert hvor mange skoler man skal ha og
-hvilke utdanningsprogrammer og programområder den enkelte skole skal tilby. Av hensyn til det
-lokale selvstyret mener utvalget at det ikke er
-hensiktsmessig at staten skal kunne pålegge en
-fylkeskommune å tilby samiskopplæring eller
-annen opplæring ved en bestemt skole. Utvalget
-mener at formålet med bestemmelsen kan oppnås
-gjennom avtaler og tilskuddsordninger, jf. blant
-annet gjeldende landslinjeordning. Utvalget foreslår derfor at forskriftshjemmelen i opplæringsloven § 6-3 andre avsnitt ikke videreføres.
+- å innføre en bestemmelse om at en lærer som hovedregel må være til stede dersom personer som ikke er ansatt i lærerstilling (assistenter), skal hjelpe til i opplæringen, se kapittel 39 og forslag til § 15-4
 
-33.4.4 Elevenes avgjørelsesmyndighet
-Opplæringsloven § 6-2 sjette avsnitt slår fast at
-elever selv velger om de vil ha opplæring i og på
-samisk, fra 8. trinn. Fram til 8. trinn vil det være
-foreldrene i kraft av foreldreretten, som velger på
-vegne av barnet. Sametinget har i møte med utval-
+- språklige forenklinger og at reglene struktureres på en annen måte enn i dag
+
+# Opplæringsspråk, skriftspråk, læremidler og digital læringsanalyse
+
+\[:figur:figX-X.jpg\]
+
+ 
+
+## Innledning
+
+Dette kapitlet handler om krav til den muntlige og skriftlige opplæringen, inkludert målformer i læremidler, i både grunnskolen og den videregående opplæringen. Dette er i dag regulert i opplæringsloven §§ 2-5 og 9-4.
+
+Bokmål og nynorsk er likeverdige målformer, jf. mållova § 1. I forslag til ny språklov foreslår Kulturdepartementet å gå bort fra uttrykket «målform» og erstatte dette med benevnelsene «språk» eller «skriftspråk» om bokmål og nynorsk.[^845] Utvalget er enig i at «skriftspråk» i noen sammenhenger er bedre enn «målform», og foreslår at begge benevnelsene brukes i den nye loven.
+
+Bestemmelsene om utstyr og om statens plikt til å sørge for læremidler, jf. opplæringsloven §§ 9-3 og 5-9, behandles også i dette kapitlet. I tillegg handler kapitlet om digital læringsanalyse. Forbudet mot reklame i læremidler, jf. opplæringsloven § 9-6, er omhandlet i kapittel 43.7.
+
+## Opplæringsspråkene
+
+### Dagens regler
+
+Opplæringsspråket i grunnskolen og den videregående opplæringen i Norge er norsk og samisk. Dette går ikke eksplisitt fram av opplæringsloven, men det står for eksempel følgende i § 2-5 om målformer i grunnskolen:
+
+I den munnlege opplæringa avgjer elevane og undervisningspersonalet sjølve kva for talemål dei vil bruke. Undervisningspersonalet og skoleleiinga skal likevel i størst mogleg grad ta omsyn til talemålet til elevane i ordval og uttrykksmåtar.
+
+Med talemål menes den dialekten den enkelte snakker. Kunnskapsdepartementet har videre presisert:
+
+Det er naturlig å kunne ha en forventning om at undervisningsspråket i grunnopplæringen i Norge er norsk. Dette tilsier at det burde vært klargjort i loven dersom man skulle stå fritt til å undervise på annet språk. Læreplaner og eksamener er for øvrig på norsk. At undervisningsspråket i Norge er norsk eller samisk kan dessuten også utledes av for eksempel opplæringsloven § 3-12, som sier at elever i videregående opplæring med annet morsmål enn norsk eller samisk, har rett til særskilt norskopplæring til de har tilstrekkelig norskkunnskaper til å følge den vanlige opplæringen i skolen.[^846]
+
+I friskolelova § 2-1 fjerde avsnitt er det fastsatt at undervisningsspråket skal være norsk eller samisk, men at dette kravet ikke gjelder ved internasjonale skoler.
+
+### Kunnskapsgrunnlaget
+
+Rapporter og undersøkelser
+
+Språkrådets framtidsutvalg peker på at
+
+alle elever i Norge \[bør\] tilegne seg gode engelskkunnskaper i løpet av skolegangen. \[…\] Samtidig må alle elever i Norge tilegne seg norsk språk. I rent engelskspråklige skoleløp tar man bort elevens mulighet til å få opplæring i det samfunnsbærende språket i Norge. Det vil være svært uheldig om vi utdanner elevgrupper som har kunnskapshull i norsk språk. Engelskspråklig grunnutdanning strider mot hovedprinsippene i den språkpolitikken Stortinget har vedtatt, og slik utdanning må derfor ikke bli noe mer enn et unntaksfenomen. Norsk språks status som opplæringsspråk i grunnopplæringen bør derfor fastsettes i relevant lovverk.
+
+Språkrådets framtidsutvalg foreslår at norsk får lovfestet status som opplæringsspråk i offentlig grunnopplæring, og at elever med norsk som opplæringsspråk får rett til opplæring på og i norsk gjennom hele skoleløpet.[^847]
+
+Hordaland fylkeskommune har gjennomført forsøk med engelsk som undervisningsspråk i noen fag ved en videregående skole. Det var frivillig for elevene å delta i forsøket, og de kunne også ombestemme seg underveis. Forsøket er ikke evaluert.
+
+Oslo kommune har fått innvilget forsøk med International Baccalaureate (IB) i grunnskolen ved to skoler, jf. opplæringsloven § 1-5. Forsøket innebærer at det gis opplæring etter IB-læreplaner, og at undervisningsspråket er engelsk i de fleste fag. Forsøket startet skoleåret 2016–2017, skal etter planen vare i fire år og omfatter trinnene 1–10 og Vg1.
+
+Innspill til utvalget
+
+Nynorsk kultursentrum mener at opplæringsloven trenger en generell språkpolitisk formålsparagraf: «Opplæringa skal vere med på å sikre norsk, med skriftspråka bokmål og nynorsk, som samfunnsberande språk, gjere elevane trygge i eige skriftspråk og gi dei kunnskap om, kjennskap til og innsikt i det språklege mangfaldet i Noreg.»[^848]
+
+### Utvalgets vurdering
+
+Utvalget mener at opplæringsspråket i grunnskolen og den videregående opplæringen fortsatt bør være norsk eller samisk og at dette bør framgå eksplisitt av den nye loven. Dette er i tråd med forslaget fra Språkrådets framtidsutvalg, se kapittel 32.2.2. Utvalget viser også til at hovedmålet for språkpolitikken er å sikre bruken av et velfungerende norsk språk på alle samfunnsområder.[^849] Strategien er at domenetap for norsk språk – både bokmål og nynorsk – skal motvirkes. Når det gjelder opplæring i og på samisk, viser utvalget til kapittel 33.
+
+I tildelingsbrevet for 2019 til universiteter og høyskoler har forskningsministeren bedt institusjonene om å følge særlig med på utviklingen av det norske fagspråket og å sette inn tiltak dersom det er nødvendig. Utvalget viser her til innspillet fra Nynorsk kultursentrum, men vil også peke på at det er viktig at de videregående skolene ruster elevene – særlig elevene på de studieforberedende utdanningsprogrammene – til å bruke eget språk slik at de senere kan skrive gode tekster som studenter ved universiteter og høyskoler. Dette fordrer blant annet at den videregående opplæringen legges opp slik at elevene tilegner seg kompetanse til å uttrykke seg abstrakt på norsk innenfor de aller fleste fag.
+
+Utvalget er kjent med at det har blitt gjennomført forsøk, og at det fortsatt pågår forsøk med engelsk som undervisningsspråk. Disse forsøkene er ikke evaluert. Utvalget ber om at departementet vurderer om det er hensiktsmessig å åpne for andre opplæringsspråk enn norsk og samisk, for eksempel i noen fag, i lys av blant annet resultatene fra disse forsøkene. Utvalget mener uansett at det bør åpnes for at departementet etter søknad fra kommuner kan gi en skole tidsavgrenset fritak fra kravet til opplæringsspråk.
+
+Flere fylkeskommuner tilbyr International Baccalaureate (IB), hvor opplæringsspråket er engelsk. Dette tilbudet er ikke en del av tilbudsstrukturen, og derfor ikke et tilbud som gis etter opplæringsloven. Kravet om norsk eller samisk som opplæringsspråk, berører derfor ikke disse tilbudene.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- at det presiseres i den nye loven at opplæringsspråket er norsk eller samisk, se forslag til § 13-4 første avsnitt første setning
+
+- å åpne for at departementet etter søknad fra kommunen eller fylkeskommunen kan gi en skole tidsavgrenset fritak fra kravet til opplæringsspråk, se forslag til § 13-4 første avsnitt andre setning

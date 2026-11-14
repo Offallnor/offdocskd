@@ -1,929 +1,332 @@
-# NOU 2019: 23, del 39 av 71 (side 444–453)
+# NOU 2019: 23, del 39 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 444]
-
-442
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-Dersom en elev, forelder eller et råd eller
-utvalg på skolen ber om tiltak vedrørende det
-fysiske miljøet, skal skolen snarest mulig
-behandle saken etter reglene om enkeltvedtak i
-forvaltningsloven. Om skolen ikke tar stilling til
-saken innen rimelig tid, kan saken likevel påklages som om det var gjort et enkeltvedtak. Fylkesmannen er klageinstans.
-
-kososialt skolemiljø. Bevisreglene framgår av
-bestemmelsens andre avsnitt:
-
-Elevdeltakelse i arbeid med skolemiljø
-
-Denne måten å regulere bevisvurderingen på kalles gjerne delt bevisbyrde.
-
-I § 9 A-8 er det fastsatt at elever skal få delta i planleggingen og gjennomføringen av arbeidet med et
-trygt og godt skolemiljø. Paragrafen inneholder
-også regler om deltakelse i råd og utvalg. Det ble
-bare gjennomført språklige endringer i denne
-bestemmelsen ved revisjonen av kapitlet om skolemiljø i 2017.
-Informasjonsplikt og rett til å uttale seg
-Det følger av § 9 A-9 at skolen skal informere elevene og foreldrene om rettighetene i kapittel 9 A
-om skolemiljø, inkludert om muligheten til å
-melde en sak til fylkesmannen. Paragrafen inneholder også regler om informasjon til råd og
-utvalg. Kravet om informasjon til elever og foreldre ble innført i 2017, mens resten av paragrafen
-var en videreføring fra tidligere.
-Straffansvar
-I § 9 A-14 er det fastsatt at den som bryter plikten
-til å følge med, gripe inn og varsle etter § 9 A-4 første og andre avsnitt og § 9 A-5, kan straffes med
-bøter, fengsel opp til 3 måneder eller begge deler.
-Videre kan rektor straffes på samme måte ved
-brudd på plikten til å undersøke saken og sette
-inn tiltak etter § 9 A-4 tredje og fjerde avsnitt. Det
-personlige straffansvaret gjelder bare ved forsettlige eller grovt uaktsomme brudd på regelverket
-og bare ved gjentatte eller alvorlige lovbrudd.
-Endringen i 2017 innebar et mer kvalifisert skyldkrav for personstraff enn tidligere.
-Dersom § 9 A-4 første til fjerde avsnitt eller § 9
-A-5 er brutt av noen som handler på vegne av skolen, kan skoleeieren straffes, jf. straffeloven § 27
-om foretaksstraff.
-Erstatningsansvar og bevisbyrde
-Det følger av opplæringsloven § 9 A-15 at reglene i
-skadeserstatningsloven gjelder for saker om psy-
-
-«Dersom det i saker etter første ledd ligg føre
-tilhøve som gir grunn til å tru at skoleeigaren
-ikkje har følgt reglane i eller i medhald av kapittel 9 A om psykososialt skolemiljø, skal dette
-leggjast til grunn med mindre skoleeigaren
-gjer noko anna truleg.»
-
-Forskriftshjemmel
-I § 9 A-16 er det en hjemmel for departementet til
-å fastsette forskrift om krav til skolemiljøet. Med
-hjemmel i denne bestemmelsen er det fastsatt
-regler om trygghet for elevene i § 12-1 i forskrift
-til opplæringsloven. Forskriftsreglene handler om
-forsvarlig tilsyn, tilsyn med svømming og bading i
-grunnskolen og trafikktrygghet.
-
-36.2.2 Andre lover
-Det finnes flere andre regelverk som stiller krav
-til skolemiljøet. Her omtales bare kort de mest
-sentrale regelverkene.
-Forskrift om miljørettet helsevern i barnehager og skoler mv. har bestemmelser som handler
-om både det fysiske og det psykososiale skolemiljøet, og som til dels overlapper reglene i opplæringsloven. Reglene i forskriften skal bidra til at
-miljøet i skoler fremmer helse, trivsel og gode
-sosiale og miljømessige forhold samt forebygger
-sykdom og skade.5
-Likestillings- og diskrimineringsloven kapittel
-3 inneholder regler om universell utforming og
-individuell tilrettelegging som har betydning for
-det fysiske skolemiljøet. Plan- og bygningsloven
-inneholder også regler som har betydning for det
-fysiske miljøet i skoler.
-Skadeserstatningsloven og praktiseringen av
-denne har også betydning for hvilke krav som stilles til skolenes arbeid med skolemiljøet. I 2012 ble
-Kristiansand kommune dømt i Høyesterett til å
-betale en tidligere elev over 900 000 kroner i
-erstatning på grunn av mobbing.6 I ettertid har
-det vært flere saker hvor kommuner har blitt
-dømt til å betale erstatning på grunn av mobbing i
-skolen.
-5
-6
-
-Helsedirektoratet, veileder IS-2073.
-Rt. 2012 s. 146.
-
-[Side 445]
-
-NOU 2019: 23
-Ny opplæringslov
-
-36.3 Kunnskapsgrunnlaget
-36.3.1 Historikk
-Kapitlet om skolemiljø ble i sin helhet endret i
-2017, og de nye reglene trådte i kraft 1. august
-2017. Det ble gjort omfattende endringer i reglene
-om det psykososiale skolemiljøet. Den viktigste
-endringen var at det ble innført aktivitetskrav og
-krav om aktivitetsplan, som erstatter den tidligere
-ordningen med enkeltvedtak. Det ble også innført
-en ny håndhevingsordning og adgang til å ilegge
-tvangsmulkt ved brudd på aktivitetsplikten. I tillegg ble det innført krav om nulltoleranse for
-mobbing og andre krenkelser og krav om dokumentasjon. Reglene om ordensreglement og
-bortvisning ble flyttet til kapitlet om skolemiljø, og
-adgangen til å frata ungdommer retten til videregående opplæring ble fjernet. Reglene om det
-fysiske skolemiljøet ble videreført uendret, men
-fikk nytt paragrafnummer. Revisjonen av kapitlet
-om skolemiljø var en oppfølging av NOU 2015: 2.
-
-36.3.2 Rapporter og undersøkelser
-Elevundersøkelsen
-Elevundersøkelsen er en årlig undersøkelse der
-elever får si sin mening om læring og trivsel i skolen. I 2018 svarte 6,1 prosent av elevene, noe som
-tilsvarer 27 300 elever, at de blir mobbet to til tre
-ganger i måneden eller oftere. Dette er en reduksjon på 0,5 prosentpoeng fra 2017.
-Det var 4,6 prosent av elevene som svarte at de
-blir mobbet av andre elever to til tre ganger i
-måneden eller oftere. De fleste elevene sier at de
-blir kalt stygge ting og ertet på en sårende måte,
-holdt utenfor og baksnakket, mens en noe mindre
-andel opplever fysisk mobbing.
-Det var 1,6 prosent av elevene som svarte at de
-har blitt mobbet av voksne på skolen to til tre ganger i måneden eller oftere. Det er flest elever som
-blir mobbet av elever i gruppen eller klassen, og
-dernest av andre elever på skolen. Mesteparten av
-mobbingen foregår i skolegården, i klasserommet
-og i korridoren. 37,1 prosent av elevene svarer at
-ingen voksne på skolen visste om mobbingen,
-mens 16,1 prosent svarer at skolen visste om mobbingen, men ikke gjorde noe.
-Det er 1,9 prosent av elevene som svarer at de
-blir mobbet digitalt to til tre ganger i måneden
-eller oftere. I underkant av 50 prosent av elevene
-som blir mobbet digitalt, opplever også tradisjonell mobbing.7
-
-443
-
-Kapittel 36
-
-Spørreundersøkelse til skoler og kommuner
-På oppdrag fra Utdanningsdirektoratet gjennomfører NIFU to årlige spørringer mot skolesektoren. Høsten 2017 var kompetanse og informasjon
-om skolemiljø ett av temaene i spørreundersøkelsen.
-Kommuners og skolelederes syn på ansattes
-kompetanse og kunnskap om psykososialt skolemiljø, regelverket knyttet til skolemiljø og arbeid
-mot mobbing viser stor grad av tilfredshet.
-Over 9 av 10 benytter Utdanningsdirektoratets
-nettsider som kilde til informasjon om regelverket
-rundt arbeidet med skolemiljø. Blant skoleledere
-gir også en stor andel uttrykk for at de får informasjon om dette fra kommunen. På spørsmålet
-om hvor de foretrekker å få denne type informasjonen fra, finner NIFU også at omtrent 9 av 10
-foretrekker å få informasjonen fra Utdanningsdirektoratets nettsider.
-Videre viser undersøkelsen at 65 prosent
-mener at deres skole eller skoler i stor eller svært
-stor grad har etablert samarbeidsnettverk med
-andre lokale etater og tjenester i kommunen for å
-ivareta elevenes rett til et godt psykososialt skolemiljø.8
-Saker om skolemiljø meldt til fylkesmannen
-Ifølge tall rapportert fra fylkesmennene til Utdanningsdirektoratet ble det skoleåret 2017–2018
-meldt til sammen 1 416 saker til de ulike fylkesmannsembetene rundt om i landet. Første halvdel
-av skoleåret 2018–2019 ble det meldt 653 saker.
-Av de 1 402 sakene som ble behandlet ferdig
-skoleåret 2017–2018, konkluderte fylkesmennene
-med at aktivitetsplikten var brutt i 791 av sakene. I
-182 av sakene kom fylkesmennene fram til at aktivitetsplikten var oppfylt. 97 saker ble avvist av forskjellige årsaker, mens det i 136 saker ble gitt veiledning framfor å avvise saken fordi det var under
-én uke siden saken var tatt opp med rektor. 196
-saker ble trukket.
-Av sakene meldt høsten 2018 ble det konkludert med at aktivitetsplikten var brutt i 134 av de
-329 sakene som var ferdig behandlet innen 31.
-desember 2018. Aktivitetsplikten var oppfylt i 35
-saker. 44 saker ble avvist, mens 82 saker ble trukket. I 34 saker ble det gitt veiledning framfor å
-avvise saken.9
-7
-8
-9
-
-Wendelborg, 2019.
-Waagene et al., 2017.
-Utdanningsdirektoratet, 2019i.
-
-[Side 446]
-
-444
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-I intervjuer som Deloitte gjorde med utvalgte
-fylkesmannsembeter i forbindelse med evalueringen av nytt kapittel 9 A i opplæringsloven, framgår
-det at det i all hovedsak er saker som gjelder
-elever i grunnskolen som meldes til fylkesmannen.10 For eksempel opplyses det at kun fem prosent av sakene med vedtak hos Fylkesmannen i
-Oslo og Akershus skoleåret 2017–2018 gjaldt
-elever i videregående skole.
-Sammenlignet med tidligere § 9a-3, hvor fylkesmannen behandlet klagesaker på enkeltvedtak, har håndhevingsordningen medført en stor
-økning i mengden skolemiljøsaker behandlet hos
-fylkesmennene. Samtidig er antallet saker etter
-gammel og ny ordning ikke direkte sammenlignbart, da vilkåret for å melde en sak etter håndhevingsordningen ikke er det samme som vilkåret
-for å kunne påklage et enkeltvedtak etter den
-gamle ordningen.
-Vurdering fra Barneombudet
-Våren 2018 gikk Barneombudet gjennom alle
-sakene om skolemiljø som var meldt til fylkesmennene. På det tidspunktet hadde loven vært i
-kraft i underkant av ett år. Barneombudet presenterte sine vurderinger i en rapport til fylkesmennene.11
-Hovedinntrykket til Barneombudet var at
-saksbehandlingen har blitt enklere, raskere og
-tryggere – for noen elever. Barneombudet gjorde
-flere positive funn. Barneombudet mente at fylkesmennene legger elevens opplevelse til grunn
-når de vurderer om retten til et trygt og godt skolemiljø er oppfylt, og at flere embeter er tydelige
-dersom de mener skolen har bagatellisert elevens
-opplevelse av skolemiljøet. Barneombudets vurdering er at de fleste fylkesmennene er opptatt av
-elevens rett til å bli hørt og viser til at mange
-embeter hører eleven selv, og vektlegger det
-eleven forteller, i sine begrunnelser. Videre viser
-Barneombudet til at flere fylkesmenn kommer
-raskt i gang med saksbehandlingen.
-Barneombudet mener videre det er positivt at
-flere fylkesmenn fastsetter hvilke tiltak skolen
-skal iverksette for at eleven skal få et trygt og godt
-skolemiljø. Barneombudet viser til at noen fylkesmenn er svært konkrete i det de vedtar at skolen
-skal gjøre og at dette kan være med på å skape
-hurtig endring for eleven.
-Barneombudet mener det også er flere utfordringer. Én av utfordringene Barneombudet
-10
-11
-
-Deloitte, 2019.
-Barneombudet, 2018a.
-
-peker på, er at mange fylkesmenn ikke foretar en
-reell vurdering av barnets beste, men kun viser til
-lovbestemmelsen om barnets beste. Videre
-mener Barneombudet det er en utfordring at det
-er store forskjeller i hvordan fylkesmennene vurderer om aktivitetsplikten er oppfylt. Barneombudet mener det er uheldig at noen av embetene kun
-vurderer enkelte av delpliktene. Videre mener
-Barneombudet at det er for store forskjeller i hvor
-konkrete tiltak fylkesmennene vedtar at skolen
-må gjøre, og at fylkesmennene håndterer saker
-med særskilt sårbare elever ulikt. Barneombudet
-peker også på at det er for stor variasjon i saksbehandlingstiden til fylkesmennene, og at lang saksbehandlingstid kan være skadelig for eleven.
-Undersøkelse fra KS
-KS gjennomførte i 2018 en spørreundersøkelse
-blant alle kommuner om håndhevingsordningen
-for saker om skolemiljø.12 Av de 159 kommunene
-og fylkeskommunene som svarte på undersøkelsen, svarte 68 prosent at kommunenivået alltid er
-involvert i fylkesmannens saksbehandling. Samtidig er det flere kommuner som problematiserer
-de tilfellene hvor kommunenivået ikke blir involvert eller ikke blir involvert på en god måte.
-Vel 80 prosent av de 159 opplever fylkesmannens vedtak som relevante og gjennomførbare.
-Flere opplever det som problematisk at skoler og
-kommuner får kort tid på å svare fylkesmannen,
-mens fylkesmannens saksbehandling kan ta flere
-måneder.
-På den ene siden framhever kommunene at
-aktivitetsplikten gir et bedre samarbeid. På den
-andre siden pekes det på at konfliktnivået i
-enkelte saker øker fordi fylkesmannen ikke i tilstrekkelig grad ivaretar kommunenes mulighet til
-å legge fram sitt syn på saken.
-Undersøkelse fra Utdanningsforbundet
-Respons Analyse har på oppdrag fra Utdanningsforbundet gjort en undersøkelse blant forbundets
-tillitsvalgte og skoleledere om de nye reglene om
-skolemiljø. Om lag 70 prosent av de tillitsvalgte
-svarte at de opplever at lærerne ved skolen i ganske stor eller stor grad har tilstrekkelig kunnskap
-om regelverket om skolemiljø og nesten 90 prosent av skolelederne svarte at de selv i ganske
-stor grad eller stor grad har tilstrekkelig kunnskap om regelverket.
-12
-
-KS, 2018a.
-
-[Side 447]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Omtrent halvparten av de tillitsvalgte og over
-halvparten av skolelederne mener at regelverket i
-stor eller ganske stor grad har ført til merarbeid.
-De fleste av dem som gir en vurdering av håndhevingsordningen, svarer at den fungerer verken
-godt eller dårlig, og det er omtrent like mange
-som svarer at ordningen fungerer godt som dårlig. Både de tillitsvalgte og skolelederne er i
-hovedsak enige i at kapittel 9 A i større grad enn
-tidligere har bidratt til å sikre elevers rett til et
-trygt psykososialt miljø.
-Undersøkelsen viser at over halvparten av de
-spurte mener at lærernes rettssikkerhet har blitt
-svekket med de nye reglene om skolemiljø.13
-Evaluering av nytt kapittel 9 A i opplæringsloven
-Deloitte har gjennomført en evaluering av det nye
-kapitlet om skolemiljø i opplæringsloven.14
-Reglene trådte i kraft i august 2017. Evalueringen
-ble gjennomført i perioden fra februar 2018 til mai
-2019. Som grunnlag for evalueringen er det innhentet både kvantitative og kvalitative data. Evalueringen besto av tre hovedtemaer: implementering, konsekvenser og informasjon og kommunikasjon. I det følgende redegjøres det for de viktigste funnene, særlig når det gjelder konsekvensene
-av lovendringen.
-Evalueringen viser at implementeringen av
-kapittel 9 A i opplæringsloven er en prosess som
-fremdeles pågår, og at det blant kommuner og på
-skoler fremdeles er til dels ulike forståelser av
-regelverket og dermed også ulik praksis i håndhevingen av lovbestemmelsene. Også for fylkesmennene, og deres forvaltning av håndhevingsordningen, er implementeringen en pågående prosess,
-der det fremdeles er utfordringer knyttet til ulik
-praksis mellom embetene.
-Deloitte konkluderer med at sentrale målsettinger med lovendringen likevel synes å være
-langt på vei oppnådd, og at det har skjedd tydelige
-endringer i skolenes praksis som følge av lovendringen. Et gjennomgående funn er at det utarbeides flere aktivitetsplaner enn det tidligere ble fattet enkeltvedtak, noe som ifølge Deloitte indikerer
-at skolene sørger for en systematisk oppfølging av
-langt flere situasjoner der elever ikke har det trygt
-og godt, enn de gjorde tidligere. Skolene rapporterer også i stor grad at de tar raskere tak i saker
-nå enn før.
-Videre viser evalueringen at håndhevingsordningen har blitt tatt i bruk i utstrakt grad og bidrar
-13
-14
-
-Respons Analyse, 2018.
-Deloitte, 2019.
-
-445
-
-Kapittel 36
-
-til at flere elever enn før får prøvd sin sak for et
-høyere forvaltningsnivå. Evalueringen viser også
-at håndhevingsordningen har en viktig funksjon
-ved å korrigere praksis hos kommuner og skoler,
-og at den bidrar til læring og bedre implementering av lovverket på skolene.
-Det er stor variasjon i saksbehandlingstiden
-hos fylkesmennene, og saksbehandlingstiden er
-til dels svært lang. Dette betyr ifølge Deloitte at
-selv om måloppnåelsen på skolenivå synes å være
-god når det gjelder målet om raskere handling,
-har man i varierende grad lyktes med å nå dette
-målet når en sak blir meldt videre til neste forvaltningsnivå. Utdanningsdirektoratet har så langt
-mottatt få klager på saker som er behandlet hos
-fylkesmannen.
-Når det gjelder aktivitetsplikten, konkluderer
-Deloitte med at målet om en raskere og enklere
-ordning langt på vei synes å være nådd eller er på
-vei til å bli nådd. Det blir pekt på flere positive
-endringer som følge av aktivitetsplikten, blant
-annet raskere handling på skolen, mer systematisk oppfølging og håndtering av et bredere sakskompleks enn tidligere, i tillegg til et mer systematisk forebyggende arbeid. Flere kommuner og
-skoler er bekymret for om terskelen for hva som
-regnes som en skolemiljøsak, har blitt for lav, og
-viser til at skolene har fått ansvar for et sakskompleks som til dels oppleves som svært krevende å
-håndtere.
-Lovendringen oppleves å ha medført økte krav
-til dokumentasjon på skolene, og skolene rapporterer om at det er arbeidskrevende å følge opp
-aktivitetsplikten. Samtidig hersker det også til
-dels stor usikkerhet rundt hva som kreves for å
-overholde dokumentasjonsplikten, og praksis
-varierer både mellom og innenfor skoler og kommuner.
-Skolene viser til at lovendringen har bidratt til
-at de er mer opptatt av å høre eleven og legge vekt
-på elevens oppfatning, både når det gjelder om
-eleven har det trygt og godt, og når det utarbeides
-aktivitetsplaner og tiltak. Skolene overprøver
-sjeldnere elevens opplevelse av å ha blitt krenket.
-Imidlertid vises det også til situasjoner der kravet
-om å vektlegge elevens subjektive opplevelse kan
-få uheldige følger, som situasjoner der det er flere
-involverte og svært ulike oppfatninger av hva som
-har skjedd. I slike situasjoner opplever enkelte at
-eleven som meldte saken, i for stor grad får definisjonsmakten.
-Det blir også vist til at den subjektive opplevelsen medfører at skoler bruker mye tid på å følge
-opp saker som skolen selv ikke ville definert som
-en sak, for eksempel knyttet til vanlige irettesettel-
-
-[Side 448]
-
-446
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-ser eller uenigheter i vurderingssituasjoner. Det
-at mye tid og ressurser benyttes til å følge opp
-mindre saker og konflikter, på bakgrunn av at
-eleven eller elevens foreldre krever handling fra
-skolen, kan potensielt medføre at mindre oppmerksomhet og ressurser rettes mot andre områder og temaer som kunne trengt mer oppmerksomhet. At aktivitetsplan og tiltak må opprettholdes fram til eleven sier at han eller hun opplever å
-ha det trygt og godt, kan også unntaksvis medføre
-at noen saker blir såkalte «evighetssaker» der
-aktivitetsplanen opprettholdes mot skolens ønske.
-Enkelte setter spørsmålstegn ved om terskelen
-for å kunne avslutte en sak er for høy.
-Selv om det er stor oppslutning om at opplæringsloven bør inneholde en bestemmelse om
-skjerpet aktivitetsplikt, settes det også spørsmålstegn ved om de ansattes rettssikkerhet i tilstrekkelig grad ivaretas når det er elevens subjektive
-opplevelse som skal vektlegges i disse sakene.
-Det oppleves av mange kommuner og skoler at
-det kan være krevende å balansere hensynene i
-både opplæringsloven og arbeidsmiljøloven.
-Videre oppleves det som problematisk at lærere
-eller andre ansatte ved skolen som beskyldes for å
-krenke en elev, ikke i tilstrekkelig grad får mulighet til å uttale seg og komme med sin versjon av
-saken. I tillegg opplever skoler og kommuner at
-regelverket i noen tilfeller brukes som et pressmiddel mot skolene, ved at elever eller foreldre
-har truet en ansatt eller skolen om å melde en sak
-etter den skjerpede aktivitetsplikten. Det blir blant
-annet vist til vurderingssituasjoner der dette har
-forekommet. Til tross for disse utfordringene
-pekes det også gjennomgående på at den skjerpede aktivitetsplikten er både viktig og riktig.
-At mange elever og foreldre benytter seg av
-håndhevingsordningen, kan ifølge Deloitte i seg
-selv tyde på at ordningen oppleves som enkel og
-brukervennlig for elever og foreldre, i tråd med
-intensjonen i lovverket. Samtidig viser resultatene
-fra spørreundersøkelsen at foreldre har delte erfaringer med om fylkesmannens involvering bidrar
-til å bedre situasjonen for barnet. Til dels lang
-saksbehandlingstid hos fylkesmennene strider
-også mot intensjonen om en raskere ordning og
-kan ifølge Deloitte kanskje være en av årsakene til
-at foreldre i ulik grad opplever at håndhevingsordningen bidrar til å bedre situasjonen.
-Flere kommuner og skoler opplever at fylkesmannen ofte ensidig belyser saken fra elevens og
-foreldrenes perspektiv, og gir uttrykk for at fylkesmannen i mange sammenhenger framstår som
-«foreldrenes advokat». Det oppleves i en del saker
-som at skolens og kommunens faglige vurderin-
-
-ger blir underkjent, og at andre involverte ikke
-blir hørt. Det er også noen skoler som ikke sender over all relevant dokumentasjon til fylkesmannen fordi det vil kunne gi andre elever partsrettigheter og rett til innsyn. En slik praksis kan føre til
-at sakene ikke blir tilstrekkelig opplyst.
-Evalueringen av kapittel 9 A viser at det ikke
-er tydelig nok hvem som skal ha partsrettigheter i
-håndhevingssakene, noe som har bidratt til å
-skape usikkerhet om ordningen blant involverte
-aktører. Mange av de intervjuede aktørene setter
-spørsmålstegn ved om de som beskyldes for å ha
-krenket en elev, bør ha partsrettigheter etter forvaltningsloven, med rett både til innsyn og til å
-uttale seg.
-Evalueringen viser at kommuner involveres i
-svært ulik grad på tvers av sakstype og fylkesmannsembeter i håndhevingssakene. Det er kommunen som er ansvarlig for at skolene følger lov
-og forskrift, og som kan ilegges tvangsmulkt dersom skolen ikke følger påleggene fra fylkesmannen. Det oppleves derfor som problematisk fra
-kommuner at de i en del tilfeller ikke har blitt
-involvert i sakene før vedtak er fattet.
-Kommuner og skoler opplever det også som
-problematisk at fylkesmannen og Utdanningsdirektoratet kan fatte vedtak om spesifikke tiltak
-som skolen må iverksette, selv om skolen og kommunen mener at tiltakene er uhensiktsmessige
-eller kan ha negativ innvirkning på andre elever.
-Mange kommuner og skoler opplever at det vil
-styrke håndhevingsordningen dersom kommunen får innsyns- og uttalerett og eventuelt klagerett.
-FOU-prosjekt om håndhevingsordningen for skolemiljøsaker
-KS har initiert et FOU-prosjekt om håndhevingsordningen for skolemiljøsaker. FOU-prosjektet vil
-bli ferdigstilt etter at utvalget leverer sin utredning. Teksten i dette avsnittet er basert på foreløpige vurderinger fra forskerne.
-Målet for forskningsprosjektet er todelt: for
-det første å innhente kunnskap om samhandlingen mellom fylkesmennene og kommunene, for
-det andre å kartlegge hvem eller hva tiltakene i
-vedtakene i håndhevingssaker er rettet mot. FOUprosjektet er en kvalitativ undersøkelse, basert på
-dokumentanalyse og intervjuer. Det er kjent at
-mye av kommunikasjonen i håndhevingssakene
-går direkte mellom fylkesmennene og rektor. KS
-ønsket å problematisere dette i og med at det i
-henhold til opplæringsloven kapittel 13 er kommu-
-
-[Side 449]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Boks 36.1 Oppsummering fra Evaluering
-av nytt kapittel 9 A i opplæringsloven
-Evalueringen viser at nytt kapittel 9 A langt på
-vei virker i samsvar med intensjonen. Samlet
-sett er det vår vurdering at utviklingen går i
-retning av at skolene handler raskere og riktigere i situasjoner der elever ikke har det trygt
-og godt på skolen, og at elevens subjektive
-oppfattelse av en sak blir vektlagt i større grad
-enn tidligere. Håndhevingsordningen vurderes også å være både enklere og mer brukervennlig enn tidligere ordninger, samt tryggere
-med hensyn til eleven som melder en sak og
-denne elevens foreldre. Håndhevingsordningen er imidlertid fremdeles et stykke unna å
-oppfylle intensjonen om en raskere ordning. I
-tillegg er det skoleeiere og skoler som fortsatt
-har en vei å gå for å implementere lovkravene,
-og det er derfor viktig å opprettholde fokuset
-på tematikken og på kontinuerlig læring og
-forbedring for å sikre at intensjonene og
-målene med lovendringen innfris.
-Kilde: Deloitte, 2019.
-
-nen som er ansvarlig for elevenes rett til et godt
-og trygt skolemiljø. Et sentralt spørsmål for forskerne er hvilke konsekvenser slik direkte kommunikasjon kan ha for kommunenivåets mulighet
-til å ivareta ansvaret for elevene og alle som arbeider på skolen, og hvilken rolle kommunenivået får
-dersom de utelates fra kommunikasjonen i håndhevingssakene.
-FOU-prosjektet viser at samhandlingen mellom fylkesmann, skole og kommuner er bedret
-siden den nye håndhevingsordningen trådte i
-kraft – dette mye takket være endringer det første
-året i rutiner, opplæring og kompetansebygging.
-Rektorer i grunnskolen opplever de største utfordringene med dagens håndhevingsordning, mens
-rektorer ved videregående skoler opplever færre
-utfordringer og saker. Hovedutfordringene består
-i opplevelsen av ikke å bli hørt, korte tidsfrister og
-en noe manglende opplevelse av støtte og veiledning. Disse reflekteres også i behov for endringer
-fra kommunenes side.
-Når det gjelder problemstillingen knyttet til
-hvem fylkesmannen kommuniserer med, beskriver rektorene at de opplever støtte og stor mobilisering fra kommunen når en sak meldes inn for
-håndhevingsordningen. Noen kommuner er vel-
-
-447
-
-Kapittel 36
-
-dig involvert, mens andre kommuner er mer distanserte. Fylkesmannsembetene er klare på at
-sakene der kommunenivået er koblet på, hjelper
-skolen og setter inn riktig kompetanse, er de
-sakene som går best.
-Analysen av embetenes saksbehandling viser
-noe forskjellig praksis på tross av egenutviklede
-rutiner basert på samme sentrale veileder for
-saksbehandlingen og felles opplæring. Analysen
-av de ti siste dokumentene fra alle ti fylkesmannsembeter viser også noe forskjell i saksbehandlingstiden, antallet dokumenter og aktivitetsnivået
-i sakene. Kapasitet og saksbehandlingspraksis
-fører til noen av utfordringene.
-Noen fylkesmannsembeter er tydelige på at
-kun foreldre og elever er parter i saken, og at
-kommune og skole ikke er parter, da de ikke har
-klagerett. Synet på andre parter er ellers ganske
-likt for rektorene og embetene. Ansatte som oppfattes som krenkende skal ivaretas av arbeidsgiveren og deres syn skal formidles gjennom skolens
-dokumentasjon. Ansatte, andre elever og deres
-foreldre kan alle bli parter eller bli gjort til parter
-der deres rettigheter blir påvirket av tiltak. Samtidig kan personer som blir omtalt i sakene, ha rettigheter i personvernlovgivningen.
-Forskernes vurdering er at skolemiljøsakene i
-håndhevingsordningen ofte bærer preg av konflikt og parter som har gått i skyttergravene.
-Disse konfliktene har reell risiko for å drukne
-elevens opplevelse av skolemiljøet. Dokumentasjon kan i noen tilfeller gå foran det å møte elevens opplevelse direkte og få en dialog om situasjon og tiltak. Fylkesmannsembetene har noe forskjellige syn på tiltak på individnivå, klassenivå og
-skolenivå. Analysen av de siste 109 sakene fra landets fylkesmannsembeter viser dette, samt at formen på og detaljeringen av tiltak varierer mye fra
-embete til embete.
-Håndhevingsordningen er for enkeltelever.
-Dette innebærer at utfordringer med klassemiljø
-eller skolemiljø må behandles gjennom en enkelt
-elevs opplevelse av utrygghet eller dårlig miljø.
-Lovverket i dag oppleves som sammensatt og
-komplekst, og dermed blir det vanskelig for rektorer å balansere alle hensyn i sitt arbeid (hensynet
-til eleven og hensynet til alle de andre elevene og
-til de ansatte). Noen rektorer opplever det vanskelig med tiltak fra fylkesmannen som medfører
-regulering av alle barn på klasse- eller skolenivå,
-da dette kan gi uante konsekvenser. Andre rektorer mener at det er positivt med tiltak på klasseog skolenivå, da dette ofte medfører større diskusjoner om temaene i saken og kan gi kompetanse-
-
-[Side 450]
-
-448
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-bygging langt utover de faktiske tiltakene fra fylkesmannen.
-Undersøkelse om regelverksetterlevelse
-i grunnskolen
-OsloMet har på oppdrag fra utvalget gjennomført
-en undersøkelse om regelverksetterlevelse i
-grunnskolen.15 I prosjektet så forskerne spesielt
-på spesialundervisning og skolemiljø, der individuelle rettigheter er gitt til elevene samtidig som
-saksområdene representerer områder der rommet for skjønnsutøvelse er relativt stort.
-Undersøkelsen viser at skolelederne og de
-kommunale lederne er positive til innføringen av
-aktivitetsplikten og omtaler det som en god endring av regelverket. De opplever imidlertid oppfølging av kapittel 9 A-sakene samlet sett som krevende, og knytter dette spesielt til dilemmaer
-rundt hensynet til elevenes subjektive opplevelse
-opp mot de kollektive hensynene i skolehverdagens kompleksitet. Lærerne er også opptatt av
-dette dilemmaet. Lærerne uttrykker at
-endringene i skolemiljøreglene har gitt et økt
-dokumentasjonskrav som har både fordeler og
-ulemper.
-Skolelederne framhever at det er vanskelige
-for skoleledelsen å håndtere saker som blir meldt
-direkte til fylkesmannsembetet, og hvor skolen og
-rektor ikke er part. Flere skoleledere setter spørsmålstegn ved at fylkesmannsembetene kan
-pålegge skolen tiltak uten at de kjenner skolens
-syn i saken, muligheter for iverksetting av tiltak
-eller andre rammeforutsetninger.
-
-regelverket. Tilsynene viser også at rektorene
-ikke følger godt nok opp at skolen gjennomfører
-tiltak i tråd med aktivitetsplanene.
-I tilsynene er det også avdekket at skolene
-ikke evaluerer det forebyggende arbeidet, og at
-mange rektorer ikke sikrer godt nok at elevene
-får ta del i planleggingen og gjennomføringen av
-arbeidet for et trygt og godt skolemiljø.
-
-36.3.3 Innspill til utvalget
-Referansegruppen
-
-I 2018 gjennomførte fylkesmennene 19 tilsyn med
-skolemiljø. Tilsynene viser at rektorene ikke sikrer at alle som jobber på skolen, varsler til rektor
-dersom de får mistanke om eller kjennskap til at
-en elev ikke har et trygt og godt skolemiljø.
-Videre sikrer ikke rektorene godt nok at alle som
-jobber på skolen, følger med på om elevene har et
-trygt og godt skolemiljø, og at de følger spesielt
-godt med på elever som kan være særskilt sårbare. Rektorene er heller ikke flinke nok til å sikre
-at alle som jobber på skolen griper inn mot krenkelser som utestengning, isolering, baksnakking,
-mobbing, vold, diskriminering og trakassering
-dersom det er mulig.
-Tilsynet viser at skolene i mange tilfeller ikke
-lager en skriftlig plan som oppfyller kravene i
-
-Utdanningsforbundet har gitt innspill om at det er
-utfordringer knyttet til at krenkelsesbegrepet er
-både subjektivt og vagt. Slik loven er utformet, er
-det elevens opplevelse som er avgjørende for om
-eleven har et trygt og godt skolemiljø. Fordelen
-med dette er ifølge forbundet at skolen må ta elevens opplevelse på alvor og ikke kan unnlate å
-følge opp gjennom å forsøke å overprøve elevens
-opplevelse. På den annen side erfarer Utdanningsforbundet gjennom enkeltsaker at elever og foreldre mener at eleven er krenket i tilfeller der
-læreren mener bare å ha satt en grense for eleven
-eller har kommet med kritikk som læreren mener
-eleven bør tåle, og som er en del av det å dannes
-som menneske.
-Utdanningsforbundet mener det ikke automatisk kan legges til grunn at en krenkelse faktisk
-har funnet sted når det varsles om en opplevelse
-av å være krenket. Saken må undersøkes nærmere, og regelverket må ivareta rettssikkerheten
-for den som blir anklaget for å ha krenket. Videre
-mener Utdanningsforbundet at utfordringene forsterkes ved at krenkelsesbegrepet og den subjektive opplevelsen ligger til grunn for rektors plikt
-til å varsle til kommunen. Forbundet setter spørsmålstegn ved om det er hensiktsmessig at rektor i
-alle saker skal varsle der det foreligger en «mistanke» om at en ansatt krenker en elev. Utdanningsforbundet etterlyser mer rom for skjønn i
-slike saker, og mener Opplæringslovutvalget bør
-vurdere en regulering som gir rektor større handlingsrom til å vurdere når det er nødvendig å
-varsle, og når saker kan løses på skolenivå.
-Videre har Utdanningsforbundet gitt innspill
-om at Opplæringslovutvalget bør drøfte lærerens
-rettslige status i håndhevingssaker og forholdet til
-arbeidsmiljøloven.16
-Barneombudet viser til at det i revisjonen av
-kapittel 9 A i opplæringsloven i 2017 ikke ble gjort
-endringer i reglene om det fysiske skolemiljøet.
-
-15
-
-16
-
-Tilsyn i 2018
-
-Mausethagen, et al., 2019.
-
-Utdanningsforbundet, innspill til utvalget.
-
-[Side 451]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Barneombudet mener Opplæringslovutvalget bør
-se på om det er behov for en tydeligere regulering
-av innholdet i retten til et trygt og godt fysisk skolemiljø og hvordan klage- eller håndhevingsordningen for dette bør være. Barneombudet mener
-også at reglene om det fysiske skolemiljøet bør
-ses i sammenheng med reguleringen av universell
-utforming og at det bør vurderes om retten til
-individuell tilrettelegging bør gjelde mer enn
-arbeidsplassen.
-Barneombudet mener kravene til systematisk
-arbeid med helse, miljø og sikkerhet i § 9 A-3 bør
-presiseres. Ombudet viser til tilsvarende bestemmelser i andre lover hvor det er gitt svært detaljerte krav om internkontroll.17
-Skolens landsforbund har gitt innspill om at
-lærlingers opplæringsmiljø bør være omfattet av
-reglene i kapittel 9 A i opplæringsloven. Skolenes
-landsforbund mener det er bedre at lærlinger har
-et dobbelt vern gjennom opplæringsloven og
-arbeidsmiljøloven, enn at de faller mellom.
-Skolenes landsforbund mener at retten til kontradiksjon blir borte når lærere og andre ansatte
-ikke regnes som part i håndhevingssaker om skolemiljø. Forbundet foreslår at det tas inn i opplæringsloven at involverte skal høres, og at det tas
-inn en henvisning til forvaltningsloven.18
-Skolelederforbundet viser til at det selvsagt er
-bra og riktig med fokus på skolemiljøet og lovfesting av elevens rett til et trygt og godt skolemiljø,
-men mener det nå brukes altfor mye tid på byråkrati og dokumentasjon.
-Andre
-Fagpolitisk utvalg i Østlandssamarbeidet oppfordrer Opplæringslovutvalget til å se nærmere på
-utfordringene for skolen og lærere ved at lovverket bygger på subjektive opplevelser, uten å
-svekke paragrafens intensjon om å lovfeste elevers rett til et trygt og godt skolemiljø.
-Nettverket for medvirkning i opplæringen og
-Redd Barna har gitt innspill om at de ønsker at de
-nye reglene om skolemiljø videreføres i ny opplæringslov.
-Funksjonshemmedes
-Fellesorganisasjon
-mener opplæringsloven § 9 A-7 om det fysiske
-skolemiljøet må endres slik at den gir hjemmel for
-den enkelte elev til å få rett til et fysisk skolemiljø
-som ivaretar de individuelle behovene for elever
-med utfordringer.
-17
-18
-
-Barneombudet, innspill til utvalget.
-Skolenes landsforbund, innspill til utvalget.
-
-449
-
-Kapittel 36
-
-Lykkelige barn mener endringene i opplæringsloven kapittel 9 A i 2017 synes å ha ført til at
-evnerike barns rettssikkerhet er blitt svekket.
-Lykkelige barn mener det etter de tidligere
-reglene var en mulighet for å påklage manglende
-tilpasning av undervisningen når avviket var blitt
-så stort at det førte til at eleven ikke fikk oppfylt
-sitt krav på et godt psykososialt læringsmiljø. Lykkelige barn mener det er uklart om reglene er
-endret når det gjelder mangelfullt psykososialt
-læringsmiljø av andre årsaker enn mobbing og
-krenkende atferd.
-Forandringsfabrikken har sendt utvalget innspill som bygger på erfaringer og råd fra undersøkelser blant circa 6 000 skoleelever. Et innspill
-som går igjen til flere av temaene i opplæringsloven, inkludert reglene om skolemiljø, er at det bør
-komme tydeligere fram i loven at alle barn skal bli
-hørt og at deres meninger skal bli vektlagt.
-
-36.4 Utvalgets vurdering
-36.4.1 Innledning
-Reglene om det psykososiale skolemiljøet i opplæringsloven kapittel 9 A ble revidert i 2017. De nye
-reglene er basert på en offentlig utredning19 om
-skolemiljø og omfattende høringsrunder. Det har
-vært bevilget midler til den nye håndhevingsordningen og det har vært gjennomført et betydelig
-implementeringsarbeid fra både statlig og kommunalt hold.
-De nye reglene om det psykososiale skolemiljøet har nylig blitt evaluert. Både evalueringen og
-andre undersøkelser er gjort etter at reglene kun
-har virket i kort tid.
-At reglene bygger på et betydelig kunnskapsgrunnlag, at det er gjort et betydelig implementeringsarbeid og at reglene bare har virket i kort tid,
-tilsier at det bør være en høy terskel for å gjøre
-omfattende endringer av reglene om psykososialt
-skolemiljø. Med dette generelle utgangspunktet
-har utvalget vurdert reglene om skolemiljø i lys av
-det kunnskapsgrunnlaget som foreligger (se
-kapittel 36.3).
-36.4.2 Virkeområdet for reglene om
-skolemiljø
-Utvalget foreslår at dagens virkeområde for
-reglene om skolemiljø videreføres. Dette innebærer at reglene skal gjelde for elever i grunnsko19
-
-NOU 2015: 2.
-
-[Side 452]
-
-450
-
-Kapittel 36
-
-NOU 2019: 23
-Ny opplæringslov
-
-len og i videregående opplæring og for leksehjelp
-og skolefritidsordninger.
-I evalueringen av reglene om skolemiljø peker
-Deloitte på at skolene har et stort ansvar ved at de
-også har ansvar for det som skjer utenfor skolen.
-Utvalget vil understreke at skolens aktivitetsplikt
-gjelder på skoleområdet eller der undervisning
-eller aktiviteter knyttet til skolen, skolefritidsordningen eller leksehjelpen foregår. De ansatte i
-skolen har ingen plikt til å følge med på at elevene
-har det trygt og godt utenfor skolens område, for
-eksempel på skoleveien, og har ikke samme
-mulighet eller plikt til å gripe inn der. Plikten til å
-sette inn tiltak når elever ikke har det trygt og
-godt på skolen, gjelder derimot uavhengig av hva
-årsaken er. Dersom forhold utenfor skolen, for
-eksempel på skoleveien, gjør at en elev ikke opplever at det er trygt og godt å være på skolen, har
-skolen en plikt til å hjelpe eleven. På grunn av skoleveiens særstilling og nære tilknytning til skolegangen må skolen dessuten i større grad også
-kunne forventes å sette inn tiltak på selve skoleveien, for eksempel tilsyn på bestemte plasser.
-Denne forståelsen er i samsvar med det som er
-lagt til grunn i forarbeidene til dagens lov.20
-Hva som er virkeområdet for kapitlet, har
-betydning for forståelsen av de øvrige reglene om
-skolemiljø. Utvalget har flere steder i forslaget til
-ny lovtekst brukt formuleringen «trygt og godt»
-uten å knytte den til «skolemiljø» eller «på skolen». Det er ikke meningen å endre innholdet i
-reglene, men å sløyfe informasjon som er overflødig fordi det følger av virkeområdet til kapitlet og
-loven.
-Skolenes landsforbund har gitt innspill om at
-reglene om skolemiljø også bør gjelde for lærlinger. Reglene om skolemiljø gjelder i dag for ungdommer som tar yrkesfaglig utdanning når opplæringen skjer i skole. Utvalget mener det ikke er
-hensiktsmessig at reglene også skal gjelde når
-ungdommene får opplæring i en lærebedrift.
-Lærebedriften er en arbeidsplass som er underlagt egne regler om miljø gjennom arbeidsmiljøloven. Det vil være krevende for bedriftene å forholde seg til to sett med regler, og det er heller
-ikke naturlig at fylkesmannen har en håndhevingsrolle direkte overfor bedriftene. Det er fylkeskommunen som er ansvarlig for den opplæringen ungdommene får i lærebedrift, og som godkjenner lærebedriftene og følger opp lærlingene.
-Utvalget foreslår at lærlinger skal få tilgang til til
-rådgivning om sosiale og personlige forhold, se
-kapittel 42.6. Gjennom rådgivningen kan lærlin20
-
-Prop. 57 L (2016–2017) kap. 8.2.4 og kap. 5.5.2.5.
-
-gene komme i dialog med fylkeskommunen og få
-hjelp dersom det er utfordringer på arbeidsplassen. Utvalget foreslår dessuten å videreføre
-dagens krav om at lærebedriftene skal skape et
-godt «arbeids- og læringsmiljø» se forslaget til § 8-10.
-Dette kravet går noe lengre enn arbeidsmiljøloven, som bare stiller krav til arbeidsmiljø.
-
-36.4.3 Rett til et trygt og godt skolemiljø
-Alle elever har etter dagens regelverk rett til et
-trygt og godt skolemiljø som fremmer helse, trivsel og læring. Det er trolig ikke mulig å oppnå at
-alle elever opplever å ha det trygt og godt til
-enhver tid. Det kan derfor settes spørsmålstegn
-ved om dette bør utformes som en rettighet. På
-den annen side er et trygt og godt skolemiljø
-avgjørende for elevenes mulighet til å få den opplæringen de har rett til.
-Utvalget foreslår at retten til et trygt og godt
-skolemiljø som fremmer helse, trivsel og læring
-videreføres i ny opplæringslov. Hvilke plikter
-kommunen har for å oppfylle retten til et trygt og
-godt skolemiljø, er nærmere regulert i bestemmelsene om aktivitetsplikt. Se omtale av når aktivitetsplikten er oppfylt i kapittel 36.4.6.
-Elever som utvalget har snakket med, har fortalt om at de noen ganger ikke får god nok tid til å
-spise på skolen. Utvalget vil derfor understreke at
-mat og måltider i skolen har stor betydning for
-elevenes helse, trivsel og læring, og at det er viktig at skolene har gode rutiner for dette. Helsedirektoratet har utarbeidet en retningslinje for mat
-og måltider i skolen21 som kan være et nyttig
-verktøy for skolene.
-Utvalget kan ikke se at rettssikkerheten til
-evnerike barn har blitt innskrenket med
-endringene som ble gjort i 2017, slik foreningen
-Lykkelige barn mener. Elevene har fortsatt rett til
-et godt psykososialt skolemiljø, i og med at de har
-rett til å ha det trygt og godt på skolen. Det er
-ikke nok at en elev ikke blir krenket.
-36.4.4 Skolen skal ikke godta krenkelser
-(nulltoleranse)
-Det følger av § 9 A-3 første avsnitt at skolen skal
-ha nulltoleranse for krenkelser som mobbing,
-vold, diskriminering og trakassering. Bestemmelsen innebærer at mobbing og andre krenkelser
-ikke skal godtas. Skolen kan dermed ikke forholde seg passiv dersom elevene blir utsatt for
-krenkelser. At mobbing og andre krenkelser ikke
-21
-
-Helsedirektoratet, 2015.
-
-[Side 453]
-
-NOU 2019: 23
-Ny opplæringslov
-
-skal godtas, støttes opp av at ansatte i skolen er
-pålagt en aktivitetsplikt i tilfeller hvor elevene ikke
-har det trygt og godt.
-Et spørsmål er hva slags handlinger og ytringer som regnes som krenkelser, og som det skal
-være nulltoleranse for. Det er lagt til grunn at
-mobbing, vold med videre er eksempler, og at § 9
-A-3 ikke gir en uttømmende oppramsing av alle
-typer krenkelser som omfattes. Videre er det lagt
-til grunn at betegnelsen «krenkelse» skal tolkes
-vidt, men at det ikke er slik at enhver kritisk
-ytring er eller uenighet mellom elevene er ment å
-omfattes.22 At betegnelsen «krenkelse» har et
-uklart innhold og tillegges ulik betydning i ulike
-sammenhenger, kan tale for at denne betegnelsen
-ikke bør brukes i den rettslige reguleringen. På
-den annen side er betegnelsen innarbeidet i opplæringssektoren, og det er dessuten vanskelig å
-finne en mer presis betegnelse som omfatter de
-handlingene og ytringene som er ment å rammes.
-Utvalget foreslår at innholdet i kravet om nulltoleranse for krenkelser videreføres, men foreslår
-at dette formuleres som et krav om at skolen ikke
-skal godta krenkelser. Uttrykket «nulltoleranse»
-er beholdt i overskriften fordi dette utrykket er
-innarbeidet i opplæringssektoren og er egnet til å
-gi en overordnet beskrivelse av hva bestemmelsen handler om. Betegnelsen «krenkelse» må forstås i lys av både elevenes rett til å ha det trygt og
-godt på skolen og skolens samfunnsmandat. Skolene skal sørge for at elevene får den opplæringen
-og danningen de trenger for å fungere i samfunnet, og det er også en del av skolens samfunnsmandat å lære elevene å tenke kritisk og kunne
-akseptere og respektere ulike meninger og overbevisninger. Elever kan bli irettesatt av lærere
-eller oppleve uenighet med lærere eller andre
-elever uten at dette vil være en krenkelse. Utvalget mener oppramsingen av enkelte typer krenkelser, som mobbing og vold, er egnet til å vise en
-viss terskel selv om oppramsingen ikke er uttømmende.
-Krenkelsesbegrepet i kravet om at skolen ikke
-skal godta krenkelser er objektivt i den forstand at
-det må bero på en helhetlig vurdering om noe er en
-krenkelse, ikke bare den enkelte elevs opplevelse.
-Det vil likevel ikke nødvendigvis være en lik terskel
-for alle elever. For eksempel kan elevenes alder ha
-betydning for hvilke handlinger og ytringer som
-anses å være krenkende. Det er altså ikke nødvendigvis nulltoleranse for enhver handling eller ytring
-som den enkelte elev opplever som krenkende.
-Utvalget understreker likevel at den enkeltes sub-
-
-jektive opplevelse av å bli krenket alltid utløser en
-aktivitetsplikt. Så selv om det ikke har skjedd en
-krenkelse objektivt sett, har skolen plikt til å sette
-inn tiltak som kan bidra til at eleven får det trygt og
-godt. I slike tilfeller kan tiltaket handle om å veilede
-elevene om hvordan man bør opptre, og hvordan
-handlinger og ytringer kan oppleves. Tiltaket kan
-også handle om å hjelpe eleven til å håndtere situasjoner som oppleves som krenkende. Se mer om
-aktivitetsplikten i kapittel 36.4.6.
-For at kravet om at skolen ikke skal godta krenkelser skal ha ønsket effekt, er det avgjørende at
-rektor og de ansatte på skolen drøfter hva som faller innenfor og utenfor betegnelsen «krenkelse».
-Det er viktig å høre hva elevene mener, og det kan
-også være nyttig å involvere foreldrene. I tillegg til
-at det kan gi nyttige innspill om hva som skal regnes som krenkelser, kan god involvering av elever
-og foreldre både være oppdragende og bidra til å
-avklare forventninger til skolen.
-Utvalget understreker at det ikke skal være en
-høy terskel for hva som anses som krenkelser
-overfor elever. Barn og unge er mer sårbare enn
-voksne, og når de er på skolen, er de i en situasjon
-som de er pålagt å være i, eller som er nødvendig
-for at de skal kunne få den opplæringen de har
-rett til.
-
-36.4.5 Forebyggende arbeid
-Det følger av § 9 A-3 andre avsnitt at skolen skal
-arbeide kontinuerlig og systematisk med skolemiljøet. I kommuneloven § 25-1 er det tatt inn en
-mer detaljert internkontrollbestemmelse enn i
-den tidligere kommuneloven. Det er forutsatt at
-det skal gjøres en særlovsgjennomgang hvor hensikten er at den nye internkontrollbestemmelsen i
-kommuneloven skal erstatte internkontrollbestemmelsene i de ulike særlovene.23
-Utvalget foreslår på denne bakgrunn at kravet
-om systematisk arbeid i § 9 A-3 ikke videreføres i
-ny opplæringslov. Se mer om internkontrollbestemmelsen i kommuneloven og vurderingen av
-behovet for særregulering i opplæringsloven i
-kapittel 49.
-Dagens § 9 A-3 andre avsnitt er ikke bare et
-krav om internkontroll. Bestemmelsen innebærer også et krav om forebyggende arbeid.
-Utvalget foreslår at det videreføres et krav om
-kontinuerlig forebyggende arbeid, men at dette
-kravet ikke knyttes til krav til system eller internkontroll. At skolene arbeider forebyggende, er
-23
-
-22
-
-Prop. 57 L (2016–2017), merknad til § 9 A-3.
-
-451
-
-Kapittel 36
-
-Prop. 46 L (2017–2018), kap. 23. Kommunal- og moderniseringsdepartementet, 2019c.
+## Digital læringsanalyse
+
+### Om digital læringsanalyse
+
+Bruk av digital teknologi blir stadig mer utbredt i opplæringssammenheng, og en ny generasjon digitale læremidler er allerede i bruk i skolen. Ny teknologi kan åpne for høy grad av individualisering av undervisningen ettersom smarte digitale læremidler kan gi læreren en inngående analyse av elevenes ferdigheter og prestasjoner. Læremidlene samler data fra elevenes arbeid, analyserer dem for læreren og presenterer dem på en lettfattelig måte. Å bruke digitale læremidler for å samle inn og analysere data der målsettingen er å forstå og forbedre elevers læring, kalles ofte *digital læringsanalyse*.
+
+Utdanningsdirektoratet definerer læringsanalyse som «registrering, innsamling, analyse og rapportering av data om elever i en kontekst, der målsettingen er å forstå og forbedre læringsprosessen og det sosiale miljøet der læring foregår».[^892] Når Datatilsynet bruker uttrykket, sikter det til de uttalte ambisjonene om at læringsanalyse skal gjøre det mulig å forutsi eller framskrive en elevs læringsforløp over tid og være et verktøy for analyse av hele eleven, både faglig, sosialt, relasjoner, og så videre. Med andre ord en avansert form for læringsanalyse.[^893]
+
+Et eksempel på digital læringsanalyse er det norskutviklede matteprogrammet «Kikora». Kikora tilbyr nivådifferensierte oppgaver som gir elevene fortløpende tilbakemelding og hint dersom de regner feil underveis. Læreren får detaljert informasjon om hvordan hver enkelt elev ligger an, og hvor eleven står fast. Informasjonen kan brukes til å tilpasse undervisningen til hver enkelt elev.[^894]
+
+Kunstig intelligens er en betegnelse som brukes om dataprogrammer som lærer å løse et problem ut fra eksempler. Nesten all bruk av kunstig intelligens forutsetter store mengder data for at systemet skal kunne lære og ta intelligente avgjørelser. Maskinlæring er en spesialisering innen kunstig intelligens hvor man bruker statistiske metoder for å la datamaskiner finne mønstre i store datamengder. Man sier at maskinen «lærer» i stedet for å bli programmert. Innenfor opplæringssektoren kan kunstig intelligens brukes til å tilpasse undervisningen til hver enkelt elev. Jo mer data systemet får om eleven, og jo mer eleven utvikler seg, jo smartere blir systemet. Dermed kan man se hvilke preferanser hver enkelt elev har, og hvilke læringsformer som egner seg for eleven.
+
+I dag bruker elever og lærere digitale læringsressurser, datamaskiner, nettbrett, mobiltelefoner, læringsplattformer og digitale samarbeidsverktøy i opplæringen, og læringsaktiviteten genererer store mengder data. Datasporene kan analyseres og brukes på mange måter og på ulike nivåer i utdanningssektoren. Bruken av elektroniske og nettbaserte tjenester i skolene vil med stor sannsynlighet øke i årene som kommer, og noen av disse tjenestene vil i økende grad tilby læringsanalyse som kartlegger og sammenstiller informasjon om elevenes aktivitet på detaljnivå. Økt bruk av digitale læremidler i undervisningen som inkluderer behandling av personopplysninger, reiser blant annet spørsmål som gjelder elevenes personvern.
+
+\[:figur:figX-X.jpg\]
+
+Tegning fra tidlig på nittenhundretallet av skolen i år 2000
+
+WIKIMEDIA COMMONS. Jean Marc Cote eller Villemard
+
+### Dagens regler
+
+Grunnloven § 102 og den europeiske menneskerettskonvensjonen (EMK) artikkel 8
+
+Grunnloven § 102 og den europeiske menneskerettskonvensjon artikkel 8 regulerer retten til privatliv.
+
+Grunnloven § 102 lyder (bokmål):
+
+Enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin kommunikasjon. Husransakelse må ikke finne sted, unntatt i kriminelle tilfeller.
+
+Statens myndigheter skal sikre et vern om den personlige integritet.
+
+Grunnloven § 102 lyder (nynorsk):
+
+Alle har rett til respekt for privatlivet og familielivet sitt, for heimen sin og kommunikasjonen sin. Det må ikkje utførast husransakingar, så nær som i kriminelle tilfelle.
+
+Dei statlege styresmaktene skal sikre eit vern om den personlege integriteten.
+
+Bestemmelsen kom inn i Grunnloven som ledd i grunnlovsreformen i 2014. Komiteen ga i Innst. 186 S (2013–2014), uttrykk for at bestemmelsen «skal leses som at systematisk innhenting, oppbevaring og bruk av opplysninger om andres personlige forhold bare kan finne sted i henhold til lov, benyttes i henhold til lov eller informert samtykke og slettes når formålet ikke lenger er til stede».[^895]
+
+Grunnloven § 102 gir ikke anvisning på om adgangen til eller vilkår for å gjøre inngrep i retten til privatliv. Høyesterett har imidlertid lagt til grunn at det kan gjøres inngrep i retten etter Grunnloven § 102 dersom tiltaket har en tilstrekkelig hjemmel, forfølger et legitimt formål og er forholdsmessig, jf. Rt. 2014 side 1105 avsnitt 28 og Rt. 2015 side 93 avsnitt 60. Ved siden av Grunnloven § 102 må også legalitetsprinsippet, jf. Grunnloven § 113, tas i betraktning. Det følger av Grunnloven § 113 at «\[m\]yndighetenes inngrep overfor den enkelte må ha grunnlag i lov».
+
+Grunnloven § 102 har klare likhetstrekk med EMK artikkel 8 og må tolkes i lys av denne, jf. Rt. 2015 side 93 avsnitt 57. I Prop. 56 L (2017–2018) kapittel 6.4 er det lagt til grunn at det ikke er holdepunkter for at Grunnloven § 102 stiller strengere krav til rettsgrunnlaget for behandling av personopplysninger enn EMK artikkel 8.
+
+EMK artikkel 8 lyder (i norsk oversettelse):
+
+1\. Enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin korrespondanse.
+
+2\. Det skal ikke skje noe inngrep av offentlig myndighet i utøvelsen av denne rettighet unntatt når dette er i samsvar med loven og er nødvendig i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, offentlige trygghet eller landets økonomiske velferd, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, eller for å beskytte andres rettigheter og friheter.
+
+Personopplysningsloven
+
+Innledning
+
+Regler om behandling av personopplysninger er fastsatt i personopplysningsloven. Personopplysningsloven gjennomfører EUs forordning om personvern (også omtalt som PVF og GDPR)[^896], og forordningen er tatt inn i personopplysningsloven i sin helhet. I loven er det gjort enkelte nasjonale tilpasninger, som forordningen åpner for. De nasjonale reglene er tatt inn i kapittel 1 til 9. I henvisningen til reglene om personvern er det nedenfor derfor vist både til paragrafer i loven og til artikler i forordningen.
+
+Hva og hvem personopplysningsloven gjelder for
+
+Personopplysningsloven gjelder ved helt eller delvis automatisert behandling av personopplysninger og ved ikke-automatisert behandling av personopplysninger som inngår i eller skal inngå i et register. Loven gjelder ikke ved behandling av personopplysninger som utføres av en fysisk person som ledd i rent personlige eller familiemessige aktiviteter. Dette følger av personopplysningsloven § 2 og personvernforordningen artikkel 2.
+
+Personopplysninger er enhver opplysning om en identifisert person eller en person som direkte eller indirekte kan identifiseres. Behandling er enhver operasjon eller rekke av operasjoner som gjøres med personopplysninger, for eksempel innsamling, registrering, lagring, bruk og utlevering. Register er enhver strukturert samling av personopplysninger som er tilgjengelig etter særlige kriterier, enten samlingen er plassert sentralt, er desentralisert eller er spredt på et funksjonelt eller geografisk grunnlag. Definisjonene følger av personvernforordningen artikkel 4 nr. 1, 2 og 6. I artikkel 4 er det flere eksempler enn dem som er tatt med her.
+
+Personvernforordningen skiller mellom «behandlingsansvarlig» og «databehandler». Det er den behandlingsansvarlige som har det overordnede ansvaret for å behandle personopplysninger i tråd med regelverket, men databehandleren har også selvstendige plikter etter personvernforordningen. Behandlingsansvarlig er en fysisk eller juridisk person, en offentlig myndighet, en institusjon eller ethvert annet organ som alene eller sammen med andre bestemmer formålet med behandlingen av personopplysninger og hvilke midler som skal benyttes. En databehandler er en fysisk eller juridisk person, offentlig myndighet, institusjon eller ethvert annet organ som behandler personopplysninger på vegne av den behandlingsansvarlige. Definisjonene følger av artikkel 4 nr. 7 og 8.
+
+Personvernprinsippene
+
+Personvernforordningen inneholder både rettigheter og plikter knyttet til behandling av personopplysninger. Reglene bygger på noen grunnleggende prinsipper for behandling av personopplysninger, som er beskrevet i personvernforordningen artikkel 5 nr. 1 og 2. Alle som behandler personopplysninger, må opptre i samsvar med disse prinsippene. Prinsippene gir på ulike måter uttrykk for at behandlingen av personopplysninger skal skje på en måte som i størst mulig grad sikrer forutsigbarhet og forholdsmessighet for enkeltmennesket. Nedenfor (bokstav a til og med g) er en kort gjennomgang av de grunnleggende prinsippene for behandling av personopplysninger.
+
+*a. Behandling av personopplysninger må være lovlig, må skje rettferdig og skal være åpen (lovlighet, rettferdighet og åpenhet).*
+
+At behandlingen av personopplysninger må være lovlig, innebærer først og fremst at det må finnes et rettslig grunnlag for en planlagt behandling av personopplysninger. Personvernforordningen artikkel 6 inneholder en liste over rettslige grunnlag, og minst ett av disse må være oppfylt for at behandlingen skal være lovlig. At behandlingen av personopplysninger må skje rettferdig betyr at den skal gjøres med respekt for de registrertes interesser og rimelige forventninger. Behandlingen skal være forståelig for de registrerte og ikke foregå på skjulte eller manipulerende måter. Plikten til å behandle personopplysninger på en åpen måte, innebærer at virksomheten må gi kort og forståelig informasjon om hvordan de behandler personopplysningene.
+
+*b. Personopplysninger skal kun behandles for spesifikke, uttrykkelige, angitte og legitime formål* (*formålsbegrensning*).
+
+Det betyr at ethvert formål med behandling av personopplysninger skal identifiseres og beskrives presist. Alle formål skal være forklart på en måte som gjør at alle berørte har samme forståelse av hva personopplysningene skal brukes til. At formålet skal være legitimt, innebærer at det i tillegg til å ha et rettslig grunnlag også skal være i samsvar med øvrige etiske og rettslige samfunnsnormer. Personopplysninger kan ikke gjenbrukes til formål som er uforenlig med det opprinnelige formålet.
+
+*c. Mengden innsamlede personopplysninger skal begrenses til det som er nødvendig for å realisere formålet med innsamlingen* (*dataminimering*).
+
+*d. Personopplysninger som behandles, skal være korrekte. Opplysningene skal også oppdateres hvis det er nødvendig* (*riktighet*).
+
+*e. Personopplysninger skal lagres slik at de slettes eller anonymiseres når de ikke lenger er nødvendige for formålet de ble innhentet for* (*lagringsbegrensning*).
+
+*f. Personopplysninger skal behandles slik at opplysningenes integritet og konfidensialitet beskyttes* (*integritet og konfidensialitet*).
+
+Dette betyr at den behandlingsansvarlige må sørge for å iverksette tiltak mot utilsiktet og ulovlig ødeleggelse, tap og endringer av personopplysninger.
+
+*g. Den behandlingsansvarlige har ansvar for å opptre i samsvar med reglene for behandling av personopplysninger* (*ansvar*).
+
+Det er ikke nok å bare ha ansvar – den behandlingsansvarlige må vise at vedkommende tar ansvar. Det betyr at den behandlingsansvarlige må kunne dokumentere at den har gjennomført tiltak for å etterleve personvernforordningen.
+
+Rettsgrunnlag for å kunne behandle personopplysninger
+
+Kravet i personvernforordningen artikkel 5 nr. 1 a) om at behandlingen skal være lovlig, innebærer først og fremst at behandlingen av personopplysninger må ha et rettslig grunnlag for å være lov (behandlingsgrunnlag). De lovlige behandlingsgrunnlagene er listet opp i forordningen artikkel 6 nr. 1. Noe forenklet er det følgende alternative behandlingsgrunnlag:
+
+a\. samtykke
+
+b\. nødvendig for å oppfylle en avtale
+
+c\. nødvendig for å oppfylle en rettslig plikt
+
+d\. nødvendig for å beskytte vitale interesser
+
+e\. nødvendig for å utføre en oppgave i allmennhetens interesse eller utøve offentlig myndighet
+
+f\. nødvendig for å ivareta legitime interesser – interesseavveining
+
+Det mest relevante rettslige grunnlaget for å kunne behandle elevers personopplysninger, er bokstav c og e i personvernforordningen artikkel 6. Begge disse behandlingsgrunnlagene krever igjen et rettslig grunnlag i unionsretten eller i nasjonal rett, jf. artikkel 6 nr. 3. Dette rettslige grunnlaget omtales i forarbeidene til personopplysingsloven som «supplerende rettsgrunnlag».[^897] Når opplæringsloven med forskrifter pålegger kommuner oppgaver som gjør det nødvendig å behandle personopplysninger, kan både bokstav c om oppfyllelse av rettslig plikt og bokstav e om utøvelse av offentlig myndighet være aktuelle behandlingsgrunnlag.
+
+Ifølge personvernforordningen artikkel 6 nr. 1 bokstav c er behandlingen av personopplysninger lovlig i den grad «behandlingen er nødvendig for å oppfylle en rettslig forpliktelse som påhviler den behandlingsansvarlige». Det følger av artikkel 6 nr. 3 at den rettslige forpliktelsen må være fastsatt i unionsretten eller i nasjonal rett.
+
+Den rettslige forpliktelsen må være klart formulert. Det må være klart at det er en plikt, altså at det ikke foreligger valgfrihet. Dessuten må det være fastsatt hva som er formålet med behandlingen. Det er ikke nødvendig at rettsgrunnlaget uttrykkelig regulerer behandling av personopplysninger. Det er lagt til grunn i forarbeidene til personopplysningsloven at det er tilstrekkelig at rettsgrunnlaget pålegger den behandlingsansvarlige en rettslig forpliktelse som det er nødvendig å behandle personopplysninger for å oppfylle.[^898]
+
+Behandling av personopplysninger er bare lovlig etter personvernforordningen artikkel 6 nr. 1 bokstav c i den grad behandlingen er «nødvendig» for å oppfylle en rettslig forpliktelse som påhviler den behandlingsansvarlige. Hva som ligger i betegnelsen «nødvendig», framgår ikke direkte av forordningens bestemmelser eller fortale. Hva som ligger i kravet til nødvendighet, er i liten utstrekning omtalt i forarbeidene til personopplysningsloven. Derimot omtales kravet i Prop. 59 L (2017–2018) om endringer i utlendingsloven i tilknytning til artikkel 6 nr. 1 bokstav e om utøvelse av offentlig myndighet. Etter utvalgets vurdering er omtalen relevant også for nødvendighetsvurderingen etter artikkel 6 nr. 1 bokstav c. I lovproposisjonen står følgende:
+
+Hva som ligger i begrepet «nødvendig» fremgår ikke direkte av forordningens bestemmelser eller fortale, men etter en naturlig språklig forståelse avskjærer den vilkårlig behandling som ikke har relevans for saken. Etter departementets syn innebærer kravet blant annet at det ikke skal innhentes eller på annen måte behandles flere opplysninger enn det som trengs for formålene. Opplysningene skal ha saklig sammenheng med formålet eller formålene som søkes oppnådd ved behandlingen. Det er ikke tilstrekkelig at opplysningene kan være nyttige. Opplysningene må enten alene, eller sett i sammenheng med andre opplysninger, ha betydning i arbeidet eller for å utøve myndighet.
+
+Nødvendighetskriteriet må imidlertid ikke forstås så snevert som at det er et vilkår at opplysningene faktisk får betydning i den konkrete saken, eller er avgjørende for myndighetsutøvelsen. I mange tilfeller vil det være vanskelig å ta stilling til om en opplysning er nødvendig før den er vurdert. Ofte vil også enkeltopplysninger som i seg selv ikke har relevans, etter en helhetsvurdering kunne få betydning.
+
+Nødvendighetskravet får ikke bare betydning i vurderingen av hvilke opplysninger som kan innhentes eller på annen måte behandles, men også i vurderingen av hvilken behandlingsaktivitet utlendingsmyndighetene kan foreta seg. Eksempelvis kan *innhenting* av en opplysning være nødvendig for et gitt formål, men ikke utlevering.[^899]
+
+Det følger av personvernforordningen artikkel 6 nr. 2 og 3 at det er adgang for medlemsstatene til å gi utfyllende nasjonale regler om behandling på grunnlag av en rettslig forpliktelse etter nasjonal rett. Justis- og beredskapsdepartementet forstår forordningen slik at den åpner for at det i tilknytning til rettslige forpliktelser som gir grunnlag for behandling av personopplysninger, kan gis eller opprettholdes nasjonale særregler som regulerer behandlingen. Justis- og beredskapsdepartementet har lagt til grunn at det i alle fall er adgang til å gi regler som presiserer når opplysninger kan behandles, hvilke opplysninger som kan behandles, og hvordan opplysningene kan behandles. Justis- og beredskapsdepartementet har videre lagt til grunn at det som utgangspunkt synes å være adgang til å gi regler som presiserer de skjønnsmessige generelle prinsippene i artikkel 5 nr. 1, noe som særlig er aktuelt for prinsippet om formålsbegrensning, dataminimering, riktighet, lagringsbegrensning og integritet og konfidensialitet. Artikkel 6 nr. 2 og 3 anses derimot ikke å åpne for nasjonale regler som fastsetter lempeligere krav til behandlingen enn det som ville fulgt av en tolkning av forordningens generelle regler. Slike regler må ha grunnlag i bestemmelser som åpner for unntak i nasjonal rett, for eksempel artikkel 23 og 89 nr. 2 og 3 om den registrertes rettigheter.[^900]
+
+Behandling av personopplysninger for andre formål enn det de var innhentet for
+
+Prinsippet om formålsbegrensning i personvernforordningen artikkel 5 nr. 1 bokstav b fastsetter at personopplysninger skal «samles inn for spesifikke, uttrykkelig angitte og berettigede formål og ikke viderebehandles på en måte som er uforenlig med disse formålene». Forordningen artikkel 6 nr. 4 inneholder nærmere bestemmelser om behandling av personopplysninger for andre formål enn det de var innhentet for. Det følger av denne bestemmelsen at viderebehandling for nye, forenlige formål er tillatt uten et eget rettsgrunnlag for viderebehandlingen. Artikkel 6 nr. 4 inneholder en ikke-uttømmende liste av momenter som den behandlingsansvarlige skal ta i betraktning i vurderingen av forenlighet.
+
+Dersom det nye formålet ikke er forenlig med innsamlingsformålet, må viderebehandlingen ha grunnlag i lov eller samtykke. At viderebehandlingen må ha grunnlag i lov eller samtykke, innebærer at lovgrunnlaget eller samtykket må være knyttet til selve viderebehandlingen for uforenlige formål.
+
+Særlige kategorier av personopplysninger
+
+Utgangspunktet i forordningen artikkel 9 er at det er forbudt å behandle særlige kategorier av personopplysninger. Opplysningskategoriene dette gjelder, er personopplysninger om rasemessig eller etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning eller fagforeningsmedlemskap, samt behandling av genetiske opplysninger og biometriske opplysninger med det formål å entydig identifisere en fysisk person, helseopplysninger eller opplysninger om en fysisk persons seksuelle forhold eller seksuelle orientering. Disse opplysningskategoriene omtales ofte som sensitive personopplysninger.
+
+Det finnes imidlertid unntak fra forbudet mot å behandle særskilte kategorier av personopplysninger. Forordningens system er at det må foreligge et særskilt grunnlag i tillegg til behandlingsgrunnlaget for å behandle denne typen opplysninger. I forordningen artikkel 9 nr. 2 er det en liste over alternative særskilte grunnlag. Ett av de særskilte grunnlagene er at «behandlingen er nødvendig av hensyn til viktige allmenne interesser, på grunnlag av unionsretten eller medlemsstatenes nasjonale rett som skal stå i et rimelig forhold til det mål som søkes oppnådd, være forenlig med det grunnleggende innholdet i retten til vern av personopplysninger og sikre egnede og særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser», jf. artikkel 9 nr. 2 bokstav g.
+
+I tillegg til at behandlingen av særlige kategorier av opplysninger må ha hjemmel i lov, stiller artikkel 9 nr. 2 bokstav g også krav om at det i unionsretten eller i nasjonal rett sikres egnede og særlige tiltak for å verne den registrertes rettigheter og interesser. Justis- og beredskapsdepartementet legger til grunn at én mulig form for tiltak er spesifiserende regler om behandlingen, for eksempel om hvilke personopplysninger som kan samles inn for et gitt formål, hvor opplysningene skal hentes fra, hvordan de skal lagres, nøyaktig hvor lenge de kan lagres, og hvem personopplysningene kan utleveres til. En annen måte er å fastsette mer generelle regler, som for eksempel krav om at personopplysninger skal pseudonymiseres så langt formålet med behandlingen kan nås på den måten.[^901]
+
+Bestemmelser som åpner for behandling av særlige kategorier av personopplysninger, kan fastsettes både i særlovgivning og i den generelle personopplysningslovgivningen. Det følger av personopplysningsloven § 7 at Datatilsynet i særlige tilfeller kan gi tillatelse til å behandle særlige kategorier av personopplysninger dersom behandlingen er nødvendig av hensyn til viktige allmenne interesser.
+
+Behandling av barns personopplysninger
+
+Utgangspunktet i personvernforordningen er at barn og voksne har samme rettigheter i forbindelse med behandling av personopplysninger. Forordningen inneholder enkelte spredte artikler og fortalepunkter om behandling av barns personopplysninger, men gir ingen samlet enhetlig regulering av temaet. For eksempel er det i artikkel 6 nr. 1 bokstav f fastsatt at det skal tas særlig hensyn til om den registrerte er et barn, ved fastleggelsen av om vilkårene i dette behandlingsgrunnlaget er oppfylt.
+
+Forordningen inneholder ingen definisjon av hvem som skal regnes som barn i forordningens forstand. Justis- og beredskapsdepartementet antar at en person ikke lenger er et barn i forordningens forstand når vedkommende har fylt 18 år.[^902]
+
+Profilering
+
+Forordningen artikkel 22 har regler om automatiserte individuelle avgjørelser, herunder profilering. Det følger av fortalen at «profilering» består av enhver form for automatisert behandling av personopplysninger der målet er å vurdere personlige aspekter ved en fysisk person, særlig for å analysere eller forutsi aspekter knyttet til den registrertes arbeidsprestasjoner, økonomiske situasjon, helse, personlige preferanser eller interesser, pålitelighet eller atferd, plassering eller bevegelser, når dette har rettsvirkning for eller på lignende måte i betydelig grad påvirker vedkommende.
+
+Det følger av artikkel 22 nr. 1 at «den registrerte skal ha rett til ikke å være gjenstand for en avgjørelse som utelukkende er basert på automatisert behandling, herunder profilering, som har rettsvirkning for eller på tilsvarende måte i betydelig grad påvirker vedkommende». I artikkel 22 nr. 2 er det fastsatt at nr. 1 ikke får anvendelse i visse tilfeller. Blant annet åpner artikkel 22 nr. 2 for automatiserte individuelle avgjørelser dersom avgjørelsen er tillatt i nasjonal rett og det også er fastsatt egnede tiltak for å verne den registrertes rettigheter, friheter og berettigede interesser.
+
+Innebygd personvern
+
+Innebygd personvern er et sentralt krav i personvernforordningen og betyr at det tas hensyn til personvern i alle utviklingsfaser av et system eller en løsning. Plikten til å sørge for innebygd personvern følger av personvernforordningen artikkel 25 nr. 1. Det følger av denne bestemmelsen at den behandlingsansvarlige skal gjennomføre egnede tekniske og organisatoriske tiltak «både på tidspunktet for fastsettelse av midlene som skal brukes i forbindelse med behandlingen, og på tidspunktet for selve behandlingen». Kravet om tiltak allerede fra tidspunktet for fastsettelse av midlene som skal benyttes, innebærer at det ved utvikling av løsninger for behandling av personopplysninger må bygges inn personverntiltak fra begynnelsen av. Pseudonymisering og dataminimering er nevnt som eksempler på tiltak.
+
+Personvern som standardinnstilling innebærer at den behandlingsansvarlige skal gjennomføre egnede tekniske og organisatoriske tiltak for å sikre at det «som standard» bare behandles personopplysninger som er nødvendige for hvert spesifikke formål. Forpliktelsen gjelder mengden personopplysninger, omfanget av behandlingen, lagringstiden og tilgjengeligheten av personopplysningene. Det er særlig nevnt i artikkel 25 nr. 2 at tiltakene skal sikre at personopplysninger som standard ikke gjøres tilgjengelige for et ubegrenset antall personer uten den registrertes medvirkning.
+
+Atferdsnormer
+
+Personvernforordningen kapittel IV avsnitt 5 inneholder regler for atferdsnormer (tidligere kalt bransjenormer). Med atferdsnorm menes et regelsett som er utarbeidet spesifikt for en bransje, og som skal gi konkrete regler og retningslinjer for hvordan virksomhetene skal innrette seg for å etterleve kravene i personvernforordningen.
+
+Artikkel 40 i personvernforordningen oppfordrer til at «det utarbeides atferdsnormer». Ifølge artikkelen skal normene bidra til riktig bruk av forordningen i de forskjellige behandlingssektorene. Atferdsnormer kan være et aktuelt verktøy for å bidra til at reglene i personopplysningsloven blir etterlevd. I artikkel 40 nr. 2 bokstav a til k er det listet opp en rekke eksempler på hva slike normer kan dreie seg om. Normene kan være svært omfattende, eller de kan regulere en smal behandlingsform eller bruk av en spesiell type teknologi. Atferdsnormene kan for eksempel gjelde hvordan man innhenter samtykke fra barn og foreldre, eller kjøp og bruk av en type digitale verktøy for behandling av personopplysninger.
+
+Personvernforordningen legger opp til en godkjenningsordning av atferdsnormer. Datatilsynet er godkjenningsmyndighet i Norge.
+
+I juni 2019 vedtok EDPB (European Data Protection Board) retningslinjer for atferdsnormer, og Datatilsynet har utarbeidet en veileder for hvordan man kan gå fram for å lage en atferdsnorm.[^903]
+
+Atferdsnormene skal etter personvernforordningen artikkel 40 nr. 4 inneholde mekanismer som gjør det mulig for et kontrollorgan å utføre obligatorisk tilsyn med at atferdsnormene overholdes av behandlingsansvarlige og databehandlere som har sluttet seg til dem. I Norge er det Datatilsynet som kan akkreditere slike kontrollorganer. Organets kontrollvirksomhet vil være begrenset til dem som frivillig har sluttet seg til normene og ordningen. Forordningen pålegger ingen behandlingsansvarlige eller databehandlere noen plikt til å slutte seg til atferdsnormer eller kontrollordninger.
+
+Datatilsynets kompetanse til å vedta pålegg eller sanksjoner er bare knyttet til overtredelser av forordningens regler, jf. artikkel 58 nr. 2 og 83 nr. 1 og nr. 4 til 6. Datatilsynet kan ikke vedta pålegg eller sanksjoner direkte for brudd på atferdsnormer. I flere bestemmelser er det imidlertid fastsatt at overholdelse av godkjente atferdsnormer kan brukes som en faktor for å påvise at forpliktelsene etter forordningen overholdes, se for eksempel artikkel 24 nr. 3 om den behandlingsansvarliges plikter, artikkel 28 nr. 5 jf. 1 og 4 om krav til databehandlere og artikkel 32 nr. 3 jf. 1 om sikkerhet ved behandlingen. Videre følger det av artikkel 83 nr. 2 bokstav j at det skal tas hensyn til overholdelse av godkjente atferdsnormer ved avgjørelsen av om det skal ilegges overtredelsesgebyr, og gebyrets størrelse.
+
+Opplæringsloven og forskrifter til opplæringsloven
+
+Opplæringsloven og forskrifter til opplæringsloven inneholder flere rettslige forpliktelser som gjør det nødvendig å behandle personopplysninger. Innholdet i de rettslige forpliktelsene i opplæringsloven har dermed betydning for om kravet til behandlingsgrunnlag i personvernforordningen artikkel 5 bokstav c er oppfylt. Det er i all hovedsak kommunen som er ansvarlig for oppfyllelsen av de rettslige forpliktelsene i opplæringsloven med forskrifter, og som i de fleste tilfeller vil være behandlingsansvarlige.
+
+Når det gjelder digital læringsanalyse, er reglene i dagens opplæringslov om tilpasset opplæring og spesialundervisning særlig relevante, se nærmere om disse reglene og utvalgets forslag til regler om universell opplæring og individuelt tilrettelagt opplæring i kapittel 31. Reglene om individuell vurdering i forskrift til opplæringsloven kapittel 3 er også relevante.
+
+### Kunnskapsgrunnlaget
+
+Tildelingsbrevet til Utdanningsdirektoratet 2019
+
+I tildelingsbrevet for 2019 fra Kunnskapsdepartementet til Utdanningsdirektoratet skal et av målene for Utdanningsdirektoratet være at kommunene utnytter de mulighetene digitaliseringen gir i læringsarbeidet og administrative prosesser. Utdanningsdirektoratet har fått i oppdrag å, i samarbeid med Kunnskapsdepartementet, videreutvikle kunnskapsgrunnlaget om digitalisering i opplæringen, slik at aktørene i utdanningssektoren kan ta informerte valg om pedagogisk bruk av teknologi og om hvordan teknologi kan bidra til effektivisering og høyere kvalitet på opplæringen.[^904]
+
+Etiske retningslinjer for kunstig intelligens
+
+I april 2018 undertegnet 25 land, deriblant Norge som eneste ikke-EU-land, en samarbeidserklæring om en europeisk tilnærming til kunstig intelligens. I april i 2019 lanserte Europakommisjonen etiske retningslinjer for kunstig intelligens, og retningslinjene er nå i en fase hvor de testes ut. Retningslinjene inneholder blant annet sju bud for trygg kunstig intelligens.[^905] Regjeringen vil utarbeide en strategi for kunstig intelligens som skal være ferdig i løpet av 2019. Strategien skal blant annet handle om etiske retningslinjer, temaer knyttet til personvern og IKT-sikkerhet.[^906]
+
+Kartlegging av digitale læremidler og læringsplattformer i utdanningssektoren
+
+På oppdrag fra Direktoratet for forvaltning og ikt (Difi) kartla Rambøll i 2017 bruk av digitale læremidler og læringsplattformer i utdanningssektoren.[^907]
+
+Kartleggingen viser at skolene benytter et betydelig antall digitale læremidler. Kartleggingen viser videre at gratis tilgjengelige læremidler slik som Kahoot! og NRK skole dominerer i grunnskolen. Det er henholdsvis 74 og 68 prosent av skolene som oppgir å bruke disse læringsmidlene. I videregående opplæring er det GeoGebra og NDLA som blir brukt mest. Det er 90 prosent av skolene som oppgir at de bruker disse læringsmidlene.
+
+Leverandørene av digitale læremidler er en sammensetning av større forlag, mindre og mellomstore læringsteknologiselskaper og offentlige virksomheter. I tillegg er det enkelte større internasjonale teknologiselskaper, som Microsoft, Google, Apple og Adobe, som er viktige leverandører av digitale læremidler til utdanningssektoren. Forlagene og teknologiselskapene har flere produkter de tilbyr til skolene, mens læringsteknologiselskapene i større grad har spesialiserte produkter.
+
+De fleste skolene oppgir også at de bruker digitale læringsplattformer. Av grunnskolene er det itslearning som er mest brukt, i underkant av 50 prosent av skolene oppgir at de bruker denne læringsplattformen. Andre læringsplattformer som mange bruker, er Showbie og Fronter. Av de videregående skolene er det flest, i underkant av 70 prosent, som oppgir at de bruker Office 365 som læringsplattform.
+
+Kartleggingen viser at det i hovedsak er kommunen, og da gjennom skolesjefen eller IT-ansvarlig, som er ansvarlig for innkjøp av læringsplattformer i grunnskoler og i videregående skoler. Rektor og IT-ansvarlig på skolene ble også til dels angitt som innkjøpsansvarlige.
+
+Rapport fra Senter for IKT i utdanningen
+
+I en rapport fra 2015 konkluderer daværende Senter for IKT i utdanningen (nå fusjonert med Utdanningsdirektoratet) med at uten at spørsmålene nedenfor er tilfredsstillende besvart, er det sannsynlig at anvendelsen av læringsanalyse både vil være lovstridig, og at kommunene ikke greier å ivareta det mest sentrale personvernprinsippet: at den som personopplysningene gjelder, skal sikres kontroll med og medbestemmelse over bruken av egne opplysninger.[^908] Noen av spørsmålene som ble stilt, var disse:
+
+- Hvordan skal skoleeier sørge for at personopplysningene bare anvendes til læring og ikke til andre formål, for eksempel til å kontrollere elever eller lærere?
+
+- Hvor går grensen mellom opplysninger som er relevante for læring, og opplysninger som ikke er det, men som det likevel kan være interessant å registrere og analysere?
+
+- Hvor lenge kan kommunene og eventuelle eksterne system- eller tjenesteleverandører lagre registrerte opplysninger, og når slutter opplysningene å være relevante for det videre læringsarbeidet?
+
+- Hvordan skal kommunene sørge for at elevenes rett til innsyn i, retting eller sletting av egne opplysninger ivaretas?
+
+Tilsyn med personvern og informasjonssikkerhet i barnehage- og skolesektoren
+
+I 2013 og 2014 så Datatilsynet på bruk og lagring av personopplysninger i skoler og barnehager.[^909] Gjennom møter med aktører i skolesektoren og kontroller ved en rekke barnehager, grunnskoler og videregående skoler kartla Datatilsynet flyten av opplysninger om elevene i skolen. Datatilsynet gjennomførte tilsyn på elleve grunnskoler, på fire videregående skoler og i fem barnehager.
+
+Datatilsynet viser i samlerapporten fra denne undersøkelsen til at de fleste skoler bruker digitale læringsplattformer (LMS – Learning Management System), som åpner for kontinuerlig logging av elevens aktivitet, for eksempel når på døgnet eleven leverer oppgaver, hvor lang tid eleven bruker på oppgaveløsning, logg av kommunikasjon med lærer og andre elever, samt hvilke fag eleven har jobbet aktivt med i leksearbeidet. Videre viser Datatilsynet til at mange skoler også benytter seg av andre digitale og nettbaserte læringsressurser, som i ulik grad registrerer elevenes aktiviteter. De skoleadministrative systemene registrerer blant annet fravær og karakterer, og noen skoler bruker digitale verktøy til å kartlegge og registrere uønsket atferd.
+
+Tilsynet viser at skolene som det ble ført tilsyn med, har likeartede utfordringer. I rapporten omtaler Datatilsynet noen hovedutfordringer knyttet til personvern i skole- og barnehagesektoren og kommer med forslag til måter å møte disse utfordringene på. Blant utfordringene som omtales, er uklarhet om hva personopplysninger er, mangelfull internkontroll, mangelfull informasjonssikkerhet, uoversiktlig informasjonsflyt og uklare ansvarsforhold.
+
+Ett av funnene i tilsynene er at det er leverandørene av digitale systemer som setter standarden for personvern. I rapporten viser Datatilsynet til at det er stor variasjon i økonomi, kunnskap og tilgjengelige ressurser hos barnehage- og skoleeiere, og at dette påvirker kapasiteten til å ivareta personvernet på systemnivå. Erfaringen viser at store kommuner har kunnskap og kapasitet nok til å sette krav til produkter de kjøper, samt til å gjøre tilpasninger av systemer og bruk, slik at produktet oppfyller kravene til personvern og informasjonssikkerhet. Det samme gjelder kommuner som går sammen om å tilby IKT-tjenester til sine innbyggere. Mindre aktører vil i mange tilfeller kjøpe IKT-produkter som hyllevare og bruke det etter beste evne, uten nødvendigvis å ha et bevisst forhold til personvern. En lokal systemadministrator i en mindre kommune kan typisk være en engasjert lærer uten formell bakgrunn eller praksis innen IKT og sikkerhet. Ofte er det opp til barnehagen eller skolen selv å endre innstillingene i systemet. For eksempel kan den som har administratortilgang, bestemme om og hva foreldrene skal ha tilgang til i læringsplattformen til sitt barn. I andre tilfeller finnes det ingen eller begrensede muligheter for skolen eller barnehagen til selv å endre innstillinger tilpasset deres behov. I praksis betyr dette at leverandører av IKT-systemer har stor innflytelse på premissene for hvordan barnehagene og skolene behandler personopplysninger.
+
+I rapporten ga Datatilsynet flere råd for bedre personvern i skoler og barnehager. Det var blant annet råd om å lage rutiner for internkontroll og risikovurderinger, forhandle fram gode databehandleravtaler, stille krav til leverandører, bruke sterk autentisering ved behov, begrense overvåking og gi god informasjon. Rapporten inneholder også en sjekkliste for skole- og barnehageeiere.
+
+Innspill til utvalget
+
+Datatilsynet har gitt innspill til utvalget i form av et blogginnlegg.[^910] Datatilsynet er opptatt av at det er essensielt for personvernet å ha mulighet til å opprettholde og skille mellom de ulike rollene man har i ulike sammenhenger, som rollen som elev, venn, sønn eller datter mv.
+
+Datatilsynet understreker at personvern og digitalisering ikke er motpoler, og viser til at digitalisering på mange måter bedrer informasjonssikkerhet og personvern. Samtidig peker tilsynet på at bruk av digital læringsanalyse utfordrer personvernet. For å bruke digital læringsanalyse til å skreddersy opplæringen for den enkelte elev er det nødvendig å innhente, lagre og analysere store mengder detaljerte opplysninger om elevens atferd på og utenfor skolen. Opplysningene gjelder ikke bare resultater på prøver. Det kan dreie seg om alle digitale spor som eleven etterlater seg ved bruk av digitale hjelpemidler som for eksempel ferdige og halvferdige arbeider og produksjoner, metadata om arbeid (når, hvor, hvordan, hvor lang tid osv.), kommunikasjon med lærer og andre elever eller filming og lydopptak på skolen og hjemme.
+
+Datatilsynet mener det er behov for en ny opplæringslov som setter grenser for hvor langt inn i privatsfæren til elevene de digitale verktøyene skal gå. Hvis ny opplæringslov kommer på plass uten at det tas stilling til hvilken retning norsk skole skal ta på dette området, så legger utvalget, i ifølge Datatilsynet, beslutningen i teknologiselskapenes hender.
+
+Utdanningsetaten i Oslo kommune har gitt innspill til utvalget i møtet med sekretariatet. Oslo kommune gjennomfører et forsknings- og utviklingsprosjekt (FoU-prosjekt) om aktivitetsdata for vurdering og tilpasning (AVT-prosjektet). Prosjektet har som mandat å utvikle felles infrastruktur og et rammeverk for læringsanalyse. Prosjektet er etter anbefaling fra Datatilsynet i gang med å gjennomføre en personvernkonsekvensutredning (DPIA). Prosjektet opplever at det er ønskelig med et mer eksplisitt hjemmelsgrunnlag. Videre mener Utdanningsetaten i Oslo kommune at det ved utarbeidelsen av ny opplæringslov bør gis noen føringer for hva som ligger i nødvendighetskriteriet i artikkel 6 nr. 1 bokstav c som sier at behandlingen av personopplysninger er lovlig dersom «behandlingen er nødvendig for å oppfylle en rettslig forpliktelse som påhviler den behandlingsansvarlige».
+
+Utvalget har også fått et innspill om digital teknologi i skolen fra Knappskog skole.[^911] Skolen er opptatt av at det er pedagogikken som er det viktigste og at de digitale enhetene og verktøyene setter rammene for hva de kan gjøre. Skolen synes at det er viktig å til enhver tid bruke verktøyene og metodene som er mest hensiktsmessige, og prøver derfor å bruke IKT bare der det gir mer læring og motivasjon. Målet for digitaliseringen på Knappskog skole er å få mer motiverte elever, elever som mestrer mer og som dermed lærer mer.
+
+### Utvalgets vurdering
+
+Innledning
+
+Utvalget har drøftet det rettslige grunnlaget for at skolen skal kunne behandle personopplysninger i forbindelse med digital læringsanalyse, se framstillingen nedenfor. Noe av hensikten er å gi kommunene et bedre grunnlag for å vurdere om det er tilstrekkelig rettslig grunnlag i det enkelte tilfelle. Utvalget har ikke som mål å ta stilling til hvilke digitale læremidler som er lovlig å bruke, hvilke konkrete behandlingsaktiviteter som er lov eller hvilke konkrete personopplysninger som kan behandles. Atferdsnormer og muligheter og utfordringer ved bruk av digital læringsanalyse er også omtalt.
+
+Kommunens ansvar
+
+Når kommunen bruker digitale læremidler, er det den enkelte kommune som er behandlingsansvarlig, og som skal sørge for at kravene i personopplysningsloven oppfylles. Det innebærer for det første at kommunen må sørge for at det finnes et behandlingsgrunnlag. Dessuten må behandlingen være i samsvar med prinsippene for behandling av personopplysninger og de øvrige kravene i personopplysningsloven, inkludert personvernforordningen.
+
+Kommunen har plikt til å ha oversikt over hvilke personopplysninger som samles inn om elevene. For mange av de digitale verktøyene som brukes i skolen, vil det være tilbyderen av verktøyet som er mottaker av elevopplysningene verktøyet samler inn. Hvis tilbyderen av det digitale verktøyet lagrer opplysninger om elevene, skal det alltid etableres en databehandleravtale mellom kommunen og tilbyderen. Kommunen skal vite hvilke opplysninger som lagres, hvorfor de lagres, hvem som skal ha tilgang til opplysningene og hvor lenge de skal lagres.[^912] Kommunen må også sørge for å bruke systemer og tjenester som har innebygd personvern, jf. personvernforordningen artikkel 25. Kravet bør inkluderes når kommunen inngår avtaler med leverandører.
+
+Behandlingsgrunnlag for å kunne bruke digital læringsanalyse
+
+Digital læringsanalyse baserer seg i stor grad på informasjon om enkeltpersoner som kommunene registrerer og elektroniske spor som elever etterlater seg ved bruk av digitale verktøy og ressurser. Spørsmålet er hvor langt kommunene kan gå i å behandle slike opplysninger uten at det kommer i konflikt med elevenes rett til personvern.
+
+Personopplysninger kan bare behandles dersom det er et behandlingsgrunnlag etter personvernforordningen artikkel 6 nr. 1. Et behandlingsgrunnlag kan være at behandlingen er nødvendig for å utøve offentlig myndighet eller oppfylle en rettslig forpliktelse.
+
+Hovedhensikten med å benytte digital læringsanalyse i opplæringen, er at læreren skal kunne legge opp undervisningen på den måten som passer best for sin klasse og sine elever og å skaffe grunnlag for å gi individuell vurdering. Dette er kjerneoppgaver i den opplæringen som kommuner er pålagt å gi, og som barn, unge og voksne har rett til etter opplæringsloven.
+
+Etter utvalgets vurdering er aktuelle grunnlag for behandling, personvernforordningen artikkel 6 nr. 1 bokstav c om at behandlingen er nødvendig for å oppfylle en rettslig forpliktelse som påhviler den behandlingsansavarlige, eller artikkel 6 nr. 1 bokstav e om at behandlingen er nødvendig for å utøve offentlig myndighet som den behandlingsansvarlige er pålagt. I begge tilfeller kreves det et rettslig grunnlag i form av en plikt eller en oppgave om utøvelse av offentlig myndighet (supplerende rettsgrunnlag).
+
+Kommunens plikt til å sørge for universell opplæring (tilpasset opplæring i dagens lov), gi forsterket innsats (intensiv opplæring i dagens lov) og å gi individuelt tilrettelagt opplæring (spesialundervisning i dagens lov) er eksempler på mulige rettslige grunnlag for behandling av personopplysninger ved bruk av digital læringsanalyse. Det samme er reglene om individuell vurdering i forskrift til opplæringsloven kapitlene 3 og 4. Utvalget har ikke som mål å i gi en uttømmende oversikt over hva slags behandling som vil være lovlig ut fra de ulike rettslige forpliktelsene i opplæringsloven med tilhørende forskrift. Dette må kommunen som behandlingsansvarlig, vurdere i det enkelte tilfelle. I det følgende drøfter utvalget noen sentrale momenter i denne vurderingen med utgangspunkt i plikten til å gi universell opplæring, se kapittel 31.5.4.2.
+
+Personvernforordningen artikkel 6 nr. 1 bokstav c og e innebærer at behandlingen er lovlig så langt det er nødvendig for å oppfylle en rettslig forpliktelse eller utøve offentlig myndighet. Spørsmålet er dermed hva slags behandling av personopplysninger som er nødvendig for eksempel for å kunne gi universell opplæring eller individuelt tilrettelagt opplæring. Nødvendighetskravet betyr at det i hvert fall ikke er tillatt med vilkårlig behandling som ikke er relevant for elevens opplæring. Det er derimot ikke et bokstavelig nødvendighetskrav i den forstand at behandlingen må være absolutt påkrevd for å kunne oppfylle den rettslige forpliktelsen. I Prop. 59 L (2017–2018) er det lagt til grunn at opplysningene skal ha saklig sammenheng med formålet eller formålene som søkes oppnådd ved behandlingen, at det ikke er tilstrekkelig at opplysningene kan være nyttige, men at det heller ikke er et vilkår at opplysningene faktisk får betydning i den konkrete saken.[^913]
+
+Utvalget mener det ikke kan legges til grunn at det må være nødvendig å bruke et digitalt verktøy, for at kravet om nødvendighet skal være oppfylt. Nødvendighetskriteriet i personvernforordningen gjelder typer behandling, altså typer opplysninger og behandlingsaktiviteter, ikke typer verktøy. I praksis vil alle forpliktelsene i dagens opplæringslov kunne oppfylles ved analoge metoder ettersom forpliktelsene ble vedtatt før digital teknologi ble tatt i bruk i særlig grad. Det er likevel klart at nødvendighetskravet ikke kan forstås som at det må være nødvendig å bruke et digitalt verktøy. Dette understøttes av at forordningen heller ikke stiller krav om et eksplisitt hjemmelsgrunnlag for behandling av personopplysninger.
+
+Det er altså selve behandlingen av personopplysningene som må være nødvendig. Dette innebærer for det første at de typer opplysninger som inngår i behandlingen, må være saklige for formålet. For det andre må behandlingsaktivitetene være saklige for formålet. Eksempler på behandlingsaktiviteter er innsamling, registrering og sammenstilling av personopplysninger.
+
+Formålet med behandling av personopplysninger i forbindelse med kravet om universell opplæring er å kunne gi et tilfredsstillende utbytte av opplæringen for flest mulig uten individuell tilrettelegging. Det innebærer at skolen må jobbe aktivt for å få med alle elevene i klassen og ta hensyn til behovene elevene har. Hvilke typer opplysninger som er saklige og som kan ha betydning for opplæringen, må ses i sammenheng med hva som ut fra en faglig-pedagogisk vurdering vil være saklige opplysninger i en analog læringsanalyse. Dersom det er opplysninger som en lærer, med utgangspunkt i pedagogisk kunnskap og erfaring, ville vektlagt i opplæringen, vil det også være opplysninger som kan inngå i en digital læringsanalyse. For eksempel vil elevens kompetanse i det enkelte fag eller i grunnleggende ferdigheter være opplysninger som det er saklig å behandle for å gi tilfredsstillende utbytte av opplæringen. Derimot vil for eksempel opplysninger om elevens bosted eller foreldrenes økonomi ikke være saklige for formålet med opplæringen. Hvor grensen går, må være en konkret vurdering. Hvilke opplysninger som er saklige, vil avhenge av hva som til enhver tid anses å være faglig-pedagogisk forsvarlige metoder for å kunne tilpasse opplæringen.
+
+For å kunne gjennomføre digital læringsanalyse må opplysningene om den enkelte elev samles inn og brukes. Et spørsmål er hvordan opplysningene skal kunne brukes. Også her må utgangspunktet være hva som ut fra en faglig-pedagogisk vurdering vil være saklig bruk av opplysningene for å nå formålet med den rettslige forpliktelsen. Det vil for eksempel helt klart være saklig å bruke opplysninger om en elevs lesehastighet til å kunne planlegge og gjennomføre leseopplæringen best mulig. Det kan også være saklig å bruke opplysninger om en elevs kompetanse i ett fag for å kunne tilpasse opplæringen i et annet fag, men det er ikke sikkert at dette vil være saklig i alle tilfeller.
+
+Et annet spørsmål er i hvilken grad plikten til å sørge for tilfredsstillende utbytte og andre aktuelle rettslige forpliktelser gjør det nødvendig å lagre opplysningene. Det klare utgangspunktet i personvernforordningen er at opplysningen bare kan lagres så lenge det er nødvendig. Hvor lenge som er nødvendig, vil avhenge av formålet med den rettslige forpliktelsen og hvor lenge opplysningen kan få betydning for oppfyllelsen av forpliktelsen. Det vil for eksempel være saklig å lagre opplysninger som har betydning for individuell vurdering av eleven fram til slik vurdering er gitt, klagefristen er utløpt og en eventuell klage er behandlet.
+
+Personvernforordningen innebærer også krav om forutsigbarhet for den opplysningen gjelder. I vurderingen av om og i hvilken grad en rettslig forpliktelse gir grunnlag for behandling av personopplysninger, må det dermed også vurderes hvilke behandlinger som vil være forutsigbare for elevene og deres foreldre. Spørsmålet er hvilke behandlingsaktiviteter det er grunn til å forvente ut fra den rettslige forpliktelsen. Dette henger igjen sammen med hvor klart den rettslige forpliktelsen er formulert, og særlig om formålet med en eventuell behandling av personopplysninger kommer klart fram.
+
+Et særlig spørsmål er i hvilken grad det kan brukes kunstig intelligens i digital læringsanalyse. Etter utvalgets vurdering er det vanskelig å se for seg at en digital læringsanalyse med maskinlære vil være forutsigbar for elever og foreldre, med mindre denne er klart avgrenset. Bruk av maskinlære eller andre former for kunstig intelligens vil også kreve at det er sporbart hvilke analyser som gjøres og hvordan disse blir brukt. Ved bruk av digital læringsanalyse der alle operasjoner er programmert på forhånd, kan kravet om forutsigbarhet og åpenhet være lettere å oppfylle. Men også slike verktøy kan bestå av kompliserte beslutningstrær som gjør prosessen lite forutsigbar og åpen.[^914]
+
+Atferdsnormer
+
+Personvernforordningen artikkel 40 oppfordrer til at det utarbeides atferdsnormer spesifikt for en bransje. Atferdsnormene skal gi konkrete regler og retningslinjer for hvordan virksomhetene skal innrette seg for å etterleve kravene i personvernforordningen. Slike normer kan dermed bidra til at personvernforordningen i større grad etterleves, og dessuten forenkle virksomhetenes arbeid med innkjøp og bruk av ulike digitale løsninger.
+
+Funnene fra Datatilsynets kontroll, samt at bruken av digitale verktøy i skolen er relativt ny, tilsier etter utvalgets vurdering at det bør utarbeides atferdsnormer på opplæringsområdet. Det er sammenslutninger av kommuner, eller organer som representerer disse, som etter forordningen kan utarbeide slike normer. Utvalget antar likevel at Utdanningsdirektoratet kan være en ressurs for kommunene i et slikt arbeid.
+
+For kommuner som behandlingsansvarlige, kan det være aktuelt med atferdsnormer når det gjelder digital læringsanalyse. Det kan for eksempel utarbeides generelle normer for innkjøp og bruk av verktøy for digital læringsanalyse, eller det kan utarbeides normer for ett bestemt verktøy. Videre kan forlag og andre databehandlere utarbeide normer for å etterleve kravene i personvernforordningen som gjelder for dem. Dette kan for eksempel være normer om innebygd personvern.
+
+Det følger av fortalen til personvernforordningen at behandlingsansvarlige og databehandlere bør rådføre seg med relevante berørte parter og ta hensyn til deres synspunkter ved utarbeidelsen av atferdsnormer. Den registrerte er framhevet som en relevant berørt part. På opplæringsområdet vil det være elevene som ofte er de registrerte, altså dem opplysningene gjelder. Utvalget vil derfor understreke at det er viktig at databehandlere og kommuner hører elever i utarbeidelsen av normer for opplæringsområdet. Foreldrene bør også involveres.
+
+Muligheter og utfordringer ved bruk av digital læringsanalyse
+
+Smarte, digitale læremidler kan analysere elevers arbeidsvaner og gi oppgaver med tilpasset vanskelighetsgrad til den enkelte elev. Basert på datainnsamling om elevenes mestringsnivå, tidsbruk og utvikling kan det lages læringsløp som tar eleven gjennom de ulike delene av læreplanen. Læringsprogrammet Knewton, som er i bruk i norske skoler, kan samle inn så mye som 5 til 10 millioner datapunkter om hver elev per dag. Når disse dataene tas i bruk sammen med informasjon om elevenes privatliv og fritidsinteresser, kan dette gi mulighet til individuelt tilpasset undervisning og å forutse hvordan en elev vil kunne klare seg framover.[^915]
+
+Ved bruk av smarte, digitale læremidler vil alle svar og responser en elev gir, tas vare på og analyseres av et dataprogram, som danner utgangspunktet for det neste lærestoffet eleven får. Om eleven sliter, vil programmet foreslå støtte og forklaringer. Når eleven viser tilstrekkelig mestring av et fagstoff, blir eleven sendt videre til neste trinn i den faglige utviklingen. På den annen side er det gjerne de enkle og tilgjengelige datasporene som analyseres, og det kan være mange sammensatte og meningsfylte indikatorer for kvalitet og progresjon som ikke fanges opp i den digitale læringsanalysen.
+
+Ved at elevenes progresjon måles kontinuerlig ved hjelp av datainnsamling og analyse, vil læreren få tilgang til informasjon som i dag hentes inn ved hjelp av individuelle vurderinger og nasjonale prøver. Ved å følge elevenes progresjon i sanntid får læreren løpende informasjon om hvilke læringsmetoder og ressurser som fungerer best. Dette kan bidra til at læreren i større grad kan legge opp undervisningen på den måten som passer aller best for sin klasse og sine elever.[^916]
+
+På den annen side kan bruk av smarte, digitale læringsverktøy gjøre at læreren har mindre styring med hvilken opplæring elevene får, og hvilke slutninger som trekkes fra elevens prestasjoner. Det kan være risiko for at leverandører av IKT-systemer får større innflytelse på premissene for elevens opplæring enn læreren. Ettersom leverandørene av IKT-systemer ikke har den samme kompetansen som lærere har, kan det bety at læringsverktøyene presenterer lærestoff eller trekker slutninger om elevene som ikke er basert på faglig-pedagogisk kunnskap og erfaring.
+
+Det er viktig at digitale verktøy, og bruk av digital læringsanalyse, blir hjelpemidler for læreren og ikke kommer til erstatning for læreren. For at slike verktøy skal være et hjelpemiddel for læreren og ikke en erstatning, må læreren ha god kjennskap til systemet og hvordan det fungerer.
+
+Utviklingen av digitale verktøy til bruk i opplæringen, bør bygge på faglig-pedagogisk erfaring og kompetanse, noe som igjen stiller krav til kommunen som innkjøper av slike verktøy. Dessuten må lærere og rektorer som skal bruke de digitale verktøyene, ha tilstrekkelig kompetanse for å få en effektiv og god utnyttelse av teknologien og for å kunne overprøve framstillinger, analyser og valg ut fra et faglig ståsted.
+
+Med økt bruk av digitale verktøy og digital læringsanalyse øker muligheten for lagring og spredning av data om elevene. Innsamling, deling og bruk av omfattende data om en elev øker faren for brudd på personvernlovgivningen og misbruk av data fra tredjepart. Å ivareta informasjonssikkerhet og personvern blir en stadig viktigere oppgave for kommuner.[^917]
+
+Bruk av digital læringsanalyse har også noen etiske aspekter. Bruk av datasystemer gjør det mulig å lagre mange opplysninger om elevene og å bruke opplysningene i elevenes opplæring. Opplysningene kan legge til rette for bedre tilpasning av opplæringen til den enkelte elev, men samtidig kan det åpne for å bruke opplysninger på en måte som etisk sett er problematisk. For selv om det er mulig å finne sammenhenger mellom ulike opplysninger om eleven og elevens læring, er det ikke nødvendigvis verken etisk eller pedagogisk forsvarlig å bruke opplysningen i tilpasningen til den enkelte elev. Dersom akkumulerte data viser en eller annen sammenheng mellom læring og sosial bakgrunn, betyr det ikke at dette bør gjenspeiles i opplæringen. Hver elev er et individ, og skolene bør være varsomme med å kategorisere elevene. Elevene skal ha like muligheter uavhengig av kjønn, etnisitet, ulik bakgrunn mv.
+
+Avanserte former for læringsanalyse kan utfordre retten til privatliv og personvern fordi registreringen av opplysninger om hvem barna er (var og blir), hva de gjør, hva de kan, hvem de samarbeider med (og ikke), kan bli altomfattende. I tillegg visker avanserte former for læringsanalyse ut skillet mellom skole og fritid fordi alle aktiviteter kan være viktige i et læringsanalyseperspektiv.
+
+Digital læringsanalyse er relativt nytt og dermed også omdiskutert – spesielt når det gjelder personvern og etiske spørsmål. Mer avanserte former for digital læringsanalyse er i liten grad tilgjengelige for den enkelte skole og lærer per i dag. Det gjelder omfattende systemer hvor for eksempel informasjon om elevenes bakgrunn og deres nåværende aktivitet sammenstilles for å kunne gi indikasjoner på hvordan eleven vil lykkes i videre skolegang og studier. Etter all sannsynlighet vil læringsanalyse tas stadig mer i bruk i årene framover. Det blir derfor viktig å ha et bevisst forhold til personvern og hvordan skolen kan bruke disse verktøyene til å forbedre elevenes læring.
+
+Hvilke behandlinger som konkret er lovlig, og hvordan man skal gå fram for å oppfylle kravene i personopplysningsloven kan være en krevende vurdering for kommunene å ta stilling til siden personopplysningsloven, inkludert personvernforordningen, er omfattende og skjønnsmessig.
+
+Behov for en utredning om bruk av digital læringsanalyse i skolen
+
+Utvalget ser at bruken av digital læringsanalyse kan ha dyptgående konsekvenser for skolen. Det er klart at teknologien åpner for helt nye muligheter, som det er vanskelig å overskue rekkevidden av. Spørsmålet om bruken av digital læringsanalyse går langt utenfor det utvalget har i mandat å vurdere og å ta stilling til. Det utvalget må ta stilling til, er om den rettslige reguleringen av spørsmålene er tilstrekkelig.
+
+Dagens regulering består i hovedsak av ulike krav til forsvarlighet i opplæringsloven og reglene i personopplysningsloven. Trolig er dette tilstrekkelige rammer på lovnivået. Det er imidlertid behov for å se samlet på bruken av digital læringsanalyse og i den forbindelse også behovet for å gi atferdsnormer for bruken av slike innen grunnopplæringen. Det er klart at en slik samlet vurdering krever et omfattende arbeid.
+
+Utvalget har ikke sett det som mulig å gjennomføre en slik utredning innenfor rammene som utvalget er gitt. Utvalget er heller ikke godt sammensatt for å vurdere disse spørsmålene i full bredde. Det er blant annet behov for teknologisk spisskompetanse for å gi et godt grunnlag for vurderingene. Utvalget ser at spørsmålene rundt bruk av teknologi og særlig digital læringsanalyse er svært viktige, og at de bør vurderes samlet så snart som mulig. Situasjonen i dag framstår som uoversiktlig og mer preget av tilbydernes tilbud enn vurderinger av hva grunnopplæringen og elevene er tjent med.
+
+På denne bakgrunn anbefaler utvalget at det nedsettes et offentlig utvalg med mandat om å se særskilt på bruk av digital læringsanalyse i skolen. Utvalget bør vurdere teknologiske og pedagogiske så vel som normative og etiske spørsmål ved bruk av digital læringsanalyse.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- at regjeringen setter ned et offentlig utvalg som skal vurdere bruk av digital læringsanalyse i skolen

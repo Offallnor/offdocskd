@@ -1,905 +1,270 @@
-# NOU 2019: 23, del 53 av 71 (side 597–606)
+# NOU 2019: 23, del 53 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 597]
-
-NOU 2019: 23
-Ny opplæringslov
-
-kommuner ikke fatter skriftlig vedtak, eller fatter
-vedtak som ikke ivaretar kravene i regelverket. I
-de tilfellene kommunen fatter enkeltvedtak, viser
-fylkesmannens tilsyn at flere kommuner ikke sørger for at enkeltvedtakene gir grunnlag for et opplæringstilbud som er tilpasset den voksnes behov.
-Tilsynet avdekket også at det er flere søkere som
-har rett til grunnskoleopplæring, som ikke får
-kartlagt om de har behov for særskilt språkopplæring eller spesialundervisning.41
-
-45.3.3 Innspill til utvalget
-Referansegruppen
-Flere i referansegruppen har gitt innspill til
-reglene om grunnskoleopplæring og videregående opplæring for voksne.
-Skolelederforbundet mener at bestemmelsene
-om voksnes rett til opplæring på grunnskolens
-område bør spesifiseres og konkretiseres, slik at
-det er klare grenseganger for hva som skal være
-innholdet i opplæringen, og hva som er helserelaterte aktiviteter.42
-Barneombudet peker på at det er uklart hvilke
-regler i opplæringsloven som gjelder for voksne,
-og hva voksne har rett til. Barneombudet er særlig opptatt av ungdom mellom 16 og 18 år som har
-rett til grunnskoleopplæring for voksne.43
-Utdanningsforbundet mener voksne må ha
-rett til formelt kvalifiserte lærere på lik linje med
-barn og unge, og ønsker derfor å fjerne unntaksbestemmelsen i forskrift til opplæringsloven som
-gir mulighet til å ansette lærere uten godkjent
-utdanning i voksenopplæringen. Utdanningsforbundet mener unntaksbestemmelsen gir kommunene mulighet til å ansette ukvalifiserte i undervisningsstillinger av økonomiske årsaker, og at
-den signaliserer at formell pedagogisk kompetanse ikke verdsettes i voksenopplæringen.
-Utdanningsforbundet mener også at adgangen til
-å fravike kompetansekrav ved spesialundervisning for voksne bør fjernes i ny lov.44
-Utdanningsforbundet mener en lovfesting av
-kontaktlærer for voksne som mottar undervisning
-etter introduksjonsloven og opplæringsloven, er
-et nødvendig grep for å sikre at alle elever, også
-voksne, får god og hensiktsmessig oppfølging.
-Forbundet mener dessuten at det er viktig å få på
-plass et styrket, lovfestet rådgivningstilbud for
-41
-
-Utdanningsdirektoratet, 2019j.
-Skolelederforbundet, innspill til utvalget.
-43
-Barneombudet, innspill til utvalget.
-44
-Utdanningsforbundet, innspill til utvalget.
-42
-
-595
-
-Kapittel 45
-
-voksne, som er på lik linje med rettighetene til
-barn og unge. Forbundet mener at den gruppen
-som får opplæring etter kapittel 4A i opplæringsloven, ofte trenger grundig og tilrettelagt hjelp av
-personer som kjenner dem og kan gi råd for
-videre utdanning og arbeid, og at de også i stor
-grad trenger rådgivning rundt sosiale spørsmål.
-Mangel på informasjon om mangfoldet av utdanningstilbud for voksne og svak kunnskap om
-behov og rettigheter er ifølge Utdanningsforbundet viktige årsaker til at mange voksne ikke får
-den opplæringen de trenger og har krav på.
-Utdanningsforbundet peker også på at uten en
-lovfestet rett til utdanning- og yrkesrådgivning, er
-det også grunn til å tro at kommuner vegrer seg
-for å dekke kostnader til reise og følge til karrieresentrene, som i de fleste fylker ligger langt unna
-den enkelte voksenopplæringen.
-Andre
-Utvalget har mottatt flere innspill om grunnopplæring for voksne, både skriftlig og i møter. Blant
-annet har Østlandssamarbeidets fagpolitiske
-utvalg for opplæring, kompetanse og verdiskaping
-gitt innspill om at utvalget bør se nærmere på
-voksnes rett til rådgivning og særskilt språkopplæring.45
-I møter har utvalget blant annet fått innspill om
-at det er uklart hvilke rettigheter og plikter de
-voksne har ettersom opplæringsloven er skrevet
-med barn og unge for øye. Videre oppleves det
-som uklart hva som ligger i retten til grunnopplæring for voksne, ettersom det ikke er en tidsramme slik som for barn og unge. Det oppleves
-også som uklart hva som ligger i kravet i opplæringsloven §§ 4A-1 og 4A-3 om at opplæringen
-skal «tilpassast behovet til den enkelte».
-Flere har gitt innspill om at det er viktig med
-en fleksibel opplæringsordning for voksne, men at
-det kanskje er for stor frihet for kommunene i
-dag. Når det ikke er noen rammer for omfanget av
-opplæringen, blir det store ulikheter. Det oppleves
-særlig å være store ulikheter i hvor mye grunnskoleopplæring kommunene gir til voksne. I noen
-kommuner er grunnskoleopplæring et toårig løp,
-mens det i andre kommuner er mer individuelt tilpasset og gjerne mer grunnskoleopplæring.
-Én hovedutfordring som flere har pekt på, er
-at det er uklare grenser mellom opplæring og
-andre tjenesteområder. Flere mener det er behov
-for samordning mellom grunnskole og andre tje45
-
-Fagpolitisk utvalg i Østlandssamarbeidet, innspill til utvalget.
-
-[Side 598]
-
-596
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-nester og at samordningen i større grad bør gjøres nasjonalt. Retten til grunnskoleopplæring oppleves som veldig omfattende og sterk, noe som
-fører til at voksne skyves fra andre tjenesteområder over i grunnskoleopplæringen, også dersom
-et grunnskoletilbud ikke er det de egentlig trenger. Utvalget har også mottatt innspill om at en del
-av deltakerne i grunnskoleopplæring for voksne
-trolig har andre motiver enn opplæring. Motivene
-kan i noen tilfeller være sosialisering. Men flere
-har også erfaring med at motivet ser ut til å være
-knyttet til at det er unntak fra inntektskrav i forbindelse med oppholdstillatelse og gjenforening
-for deltakere i voksenopplæringen.
-Flere mener det er et behov for et tydeligere
-skille mellom opplæring og behandling, rehabilitering, sosialisering mv. Dagens § 4A-2 andre
-avsnitt og slik denne er tolket i rundskriv mv. oppleves å være svært vid, og grensene til andre tiltak
-er uklare. Flere har tatt til orde for at regelverket
-bør legge tydeligere rammer for at det skal dreie
-seg om opplæring, og at det bør avgrenses tydeligere mot andre aktiviteter og mot ferdigheter som
-ikke inngår i Læreplanverket for Kunnskapsløftet.
-En utfordring som flere har trukket fram, er at
-det er en stor utfordring at deltakere kommer inn
-i videregående opplæring for voksne uten å kunne
-norsk, og at de voksne heller ikke har rett til særskilt språkopplæring. Flere mener at det bør innføres krav til norskferdigheter for å begynne i
-videregående opplæring da voksne som ikke har
-tilstrekkelige norskferdigheter, har dårlige forutsetninger for å kunne fullføre og bestå videregående opplæring. Enkelte har også pekt på at det
-bør vurderes om det er nødvendig å ha engelsk
-for å ha «fullført grunnskolen» og dermed få rett
-til videregående opplæring, særlig ved inntak til
-yrkesfag. Det er i denne sammenheng vist til at
-det i en del yrker vil være nyttig med andre fremmedspråk enn engelsk.
-Utvalget har fått innspill om at det ikke er
-rasjonelt at voksne har rett til ønsket sluttkompetanse mens ungdommer bare har rett til ett av tre
-alternative utdanningsprogram. Flere mener at
-fylkeskommunen bør få et større handlingsrom til
-å dimensjonere det videregående tilbudet for
-voksne ut fra regionale behov og til å organisere
-opplæringen for voksne på en ressurseffektiv
-måte. Samtidig er fylkeskommunene opptatt av at
-opplæringen skal være motiverende for de
-voksne. Flere understreker også at de voksne er
-en differensiert gruppe, og at det er viktig at
-voksne har gode muligheter til å få restopplæring
-og å formalisere sin kompetanse.
-
-Det oppleves også som en ulempe at voksne
-ikke har rett til rådgivning. Det har vært en stor
-økning av antallet voksne søkere til videregående
-opplæring, og langt flere av søkerne er minoritetsspråklige. Mange av dagens søkere mangler
-grunnleggende innføring i det norske systemet og
-har større behov for veiledning til å velge utdanningstilbud. At de voksne ikke har rett til veiledning, oppleves ikke som en hensiktsmessig eller
-ressursbesparende begrensning.
-Flere har gitt innspill om at det ikke bør være
-unntak fra kompetansekravene for undervisningspersonalet i grunnopplæringen for voksne. Utvalget har også mottatt innspill om at det er uheldig
-at kravet om politiattest ikke gjelder for dem som
-underviser for voksne, særlig med tanke på at det
-er en del voksne i grunnopplæringen som har
-funksjonsnedsettelser, traumer eller på annen
-måte er i en sårbar situasjon.
-
-45.4 Utvalgets vurdering
-45.4.1 Innledning
-Reglene om grunnopplæring for voksne er mer
-fleksible og gir større handlingsrom for kommuner enn reglene om grunnopplæring for barn og
-unge. Voksne har færre spesifikke rettigheter enn
-barn og unge, samtidig som regelverket legger
-opp til et mer individuelt tilpasset opplæringsløp.
-En av hovedutfordringene med reglene om
-grunnopplæring for voksne, er at det er uklart hva
-som gjelder. Selve lovteksten er knapp, og man
-må gå til forarbeider, rundskriv og tolkningsuttalelser for å finne fram til hva som gjelder. Utvalget foreslår å klargjøre hva som gjelder ved at
-flere av de tolkningene som er lagt til grunn i forarbeider og rundskriv, tas inn i loven.
-En annen hovedutfordring er at samfunnet har
-endret seg og at brukergruppen, kanskje særlig
-for grunnskoleopplæringen, er en annen nå enn
-da dagens regler ble vedtatt. Utvalget har derfor
-vurdert hvordan reglene bør være ut fra dagens
-målgruppe og de erfaringene som kommunene
-har med voksenopplæringen.
-Utvalget foreslår enkelte utvidelser av de voksnes rettigheter og andre innholdsmessige
-endringer i reglene om grunnopplæring for
-voksne. Utvalgets oppgave har vært å vurdere
-regelstyringen av grunnopplæringen. Utvalget
-har ikke hatt kapasitet til å vurdere behovet for
-større omlegginger og endringer av grunnopplæringen for voksne. Slik endringer vil gjerne også
-ha en kostnadsside som går ut over begrensingen
-i utvalgets mandat om at forslaget ikke skal ha
-
-[Side 599]
-
-NOU 2019: 23
-Ny opplæringslov
-
-vesentlige økonomiske konsekvenser. Det er
-andre pågående utvalgsarbeid, som Liedutvalget
-(se blant annet kapitel 45.3.2), som er nærmere til
-å vurdere behovet for større endringer av grunnopplæringen for voksne, inkludert større utvidelser av rettighetene.
-
-45.4.2 Plasseringen av reglene om voksne
-i loven
-Utvalget foreslår at alle reglene som gjelder
-voksne, tas inn i femte del i lovforslaget. De
-reglene som bare gjelder for voksne, skrives fullt
-ut. På områder hvor det er de samme reglene som
-for barn og unge som skal gjelde, henvises det til
-relevante regler i de andre delene i loven. Hvert
-tema får sin egen paragraf hvor det framgår hva
-reglene som det henvises til, handler om. På
-områder hvor reglene for voksne i noen grad skiller seg fra reglene for barn og unge, skrives
-bestemmelsene fullt ut i femte del. På denne
-måten gir den femte delen en fullstendig oversikt
-over hvilke regler som gjelder for voksne, selv om
-man må slå opp i andre deler i loven for å se innholdet i reglene.
-For øvrig gjelder sjuende del i lovforslaget om
-sluttbestemmelser også for grunnopplæringen for
-voksne. Denne delen retter seg mot kommuner,
-fylkeskommuner og statlige myndigheter og
-handler ikke om de voksnes rettigheter.
-
-45.4.3 Rett til grunnskoleopplæring
-45.4.3.1 Generelt om retten til
-grunnskoleopplæring for voksne
-Utvalget foreslår å videreføre at voksne som trenger grunnskoleopplæring, skal ha rett til slik opplæring dersom den voksne er over opplæringspliktig alder og ikke har rett til videregående opplæring som ungdom.
-Hovedvilkåret for retten til grunnskoleopplæring for voksne er at den voksne trenger slik opplæring. Hva som ligger i dette vilkåret, framgår i
-dag av lovens forarbeider og Utdanningsdirektoratets rundskriv Udir 3-2012. Utvalget foreslår at
-en del av presiseringene i forarbeidene og rundskrivet tas inn i loven for å gi en tydeligere regel
-om rett til grunnskoleopplæring for voksne.
-Utvalget foreslår at det klargjøres i loven at
-behovet for grunnskoleopplæring kan være knyttet til fag, deler av fag eller grunnleggende ferdigheter. Med grunnleggende ferdigheter siktes det
-til de fem grunnleggende ferdighetene i Læreplanverket for Kunnskapsløftet: lesing, regning,
-
-597
-
-Kapittel 45
-
-skriving, muntlige ferdigheter og digitale ferdigheter. Utvalget foreslår videre at det klargjøres i
-loven at det i vurderingen av om voksne trenger
-grunnskoleopplæring, skal tas hensyn til tidligere
-opplæring den voksne har fått, og behov for fornyet opplæring. Videre foreslår utvalget at det tas
-inn i loven at det skal legges vekt på hva den
-voksne selv mener han eller hun har behov for.
-Utvalget understreker at det ikke skal være en
-høy terskel for å ha rett til grunnskoleopplæring
-for voksne.
-
-45.4.3.2 Rett til grunnskoleopplæring på grunnlag
-av manglende eller mangelfull
-grunnskoleopplæring
-En hovedgruppe av dem som trenger grunnskoleopplæring, er voksne som ikke tidligere har fått
-grunnskoleopplæring, eller som har fått mangelfull opplæring. De som ikke tidligere har fått
-grunnskoleopplæring, vil typisk være voksne som
-ikke har vokst opp i Norge. Men det kan også
-være voksne som har vokst opp i Norge, men som
-ikke har fått en fullstendig eller godt nok tilpasset
-grunnskoleopplæring.
-I vurderingen av om den voksne tidligere har
-fått grunnskoleopplæring, skal det tas utgangspunkt i hvor mange år med grunnskoleopplæring
-den voksne tidligere har fått. I tillegg er kvaliteten
-på opplæringen relevant. Det må vurderes om
-grunnskoleopplæringen var forsvarlig og tilstrekkelig ut fra regelverket på det tidspunktet opplæringen ble gitt. Personer med grunnskoleopplæring fra andre land må bedømmes ut fra de behovene for opplæring de har etter norske forhold.
-I noen tilfeller kan den voksne ha behov for
-grunnskoleopplæring selv om den tidligere
-grunnskoleopplæringen var tilstrekkelig og forsvarlig på det tidspunktet den ble gitt. Dersom
-den tidligere opplæringen ikke inkluderte de
-fagene man i dag trenger for å få vitnemål for fullført grunnskoleopplæring for voksne, kan den
-voksne ha behov for, og dermed rett til, opplæring
-så langt behovet rekker.
-I andre tilfeller vil man normalt ikke ha rett til
-grunnskoleopplæring dersom man allerede har
-fått slik opplæring og opplæringen var forsvarlig
-og tilstrekkelig på det tidspunktet den ble gitt. Se
-likevel om rett til fornyet grunnskoleopplæring
-under.
-45.4.3.3 Rett til fornyet grunnskoleopplæring
-I forarbeidene til dagens lov er det lagt til grunn at
-voksne i noen tilfeller kan ha behov for og dermed
-
-[Side 600]
-
-598
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-rett til fornyet grunnskoleopplæring på grunn av
-sykdom eller skade, eller fordi den voksne av
-andre grunner har behov for mer opplæring. Som
-det går fram av redegjørelsen for dagens regler, er
-det ikke utdypet i forarbeidene eller i etterfølgende tolkninger hvilke andre grunner som kan
-gi rett til fornyet grunnskoleopplæring
-Utvalget mener det er behov for å klargjøre i
-hvilke tilfeller voksne har rett til fornyet grunnskoleopplæring. Etter utvalgets vurdering bør
-voksne bare ha rett til fornyet grunnskoleopplæring dersom de på grunn av skade eller sykdom
-trenger fornyet opplæring. Behovet må være knyttet til opplæring i fag, deler av fag eller grunnleggende ferdigheter. Se mer om opplæring i grunnleggende ferdigheter og grensegangen mot andre
-tjenester og tiltak nedenfor.
-De som har rett til fornyet opplæring på grunn
-av skade eller sykdom, vil ofte ha behov for individuelt tilrettelagt opplæring46. Individuelt tilrettelagt opplæring for å utvikle eller holde ved like
-grunnleggende ferdigheter er omtalt nedenfor.
-Individuelt tilrettelagt opplæring for øvrig er
-omtalt i kapittel 31.5.4.3.
-
-45.4.3.4 Rett til grunnskoleopplæring for å utvikle
-eller holde vedlike grunnleggende
-ferdigheter
-I dag er det lagt til grunn at behovet for grunnskoleopplæring og dermed retten til grunnskoleopplæring etter dagens § 4A-1 kan være knyttet til de
-grunnleggende ferdighetene som inngår Læreplanverket for Kunnskapsløftet (lesing, skriving,
-regning, digitale ferdigheter og muntlige ferdigheter). Utvalget foreslår at denne forståelsen tydeliggjøres i lovteksten i ny opplæringslov.
-I dagens § 4A-2 andre avsnitt er det fastsatt at
-voksne med særlige behov for opplæring for å
-kunne utvikle eller holde ved like grunnleggende
-ferdigheter, har rett til slik opplæring. Ferdighetene som det vises til i § 4A-2 andre avsnitt, er
-en sammenblanding av de grunnleggende ferdighetene i Læreplanverket for Kunnskapsløftet og
-andre grunnleggende ferdigheter, som for eksempel trening i aktiviteter i dagliglivet (ADL-trening). Samtidig er det understreket i Utdanningsdirektoratets rundskriv at vilkåret etter § 4A-1 må
-være oppfylt for at den voksne skal kunne ha rett
-etter § 4A-2 andre avsnitt. Det er dermed først dersom den voksne trenger opplæring i fag, deler av
-fag eller de grunnleggende ferdighetene i Lære-
-
-planverket for Kunnskapsløftet, at den voksne kan
-få rett til opplæring i andre grunnleggende ferdigheter.
-I praksis oppleves grensene for retten til opplæring i grunnleggende ferdigheter som uklare,
-noe som gir rom for en svært vid forståelse. Utvalget har fått innspill om at oppgaver som kunne og
-burde vært løst med andre tiltak og gjennom
-andre tjenester, i noen tilfeller ender opp som
-grunnskoleopplæring etter kapittel 4A.
-Etter utvalgets vurdering er det behov for å
-klargjøre i hvilken tilfeller voksne har rett til opplæring i grunnleggende ferdigheter, og hvilke
-grunnleggende ferdigheter som skal være omfattet. Overordnet handler dette om hva grunnskoleopplæring skal være, og hva som bør løses gjennom andre tiltak og tjenester.
-Dagens § 4A-2 andre avsnitt var en videreføring fra den tidligere voksenopplæringsloven § 5
-slik denne ble tolket av Høyesterett i Malviksaken47. Bestemmelsen kom inn i opplæringsloven
-før Kunnskapsløftet og dermed før innføringen av
-de fem grunnleggende ferdighetene i grunnopplæringen. Etter utvalgets vurdering bør retten til
-grunnskoleopplæring forbeholdes tilfeller hvor
-den voksne har behov for å utvikle eller holde vedlike grunnleggende ferdigheter som inngår i
-Læreplanverket for Kunnskapsløftet. Det er disse
-ferdighetene som inngår i grunnskoleopplæringen, og som lærere har den beste kompetansen til
-å gi opplæring i. Opplæring i andre ferdigheter,
-som ADL-trening og mobilitetstrening, er ikke
-lærere og grunnskoleopplæringen for voksne
-nærmest til å ha ansvaret for.
-Voksne i grunnskoleopplæringen har i dag, i
-likhet med barn og unge, rett til spesialundervisning dersom de ikke har eller kan få tilfredsstillende utbytte av den ordinære opplæringen.
-Voksne i grunnskoleopplæring kan dermed i dag
-få ADL-trening gjennom de ordinære reglene om
-spesialundervisning dersom den voksne har
-behov for slik trening for å få tilfredsstillende
-utbytte av opplæringen. Det samme gjelder mobilitetstrening48 og trening av andre ferdigheter
-som den voksne trenger for å få tilfredsstillende
-utbytte av opplæringen. Voksne kan dermed få
-trening i andre ferdigheter enn ferdighetene i
-Læreplanverket for Kunnskapsløftet som en del av
-opplæringen, men bare dersom det er nødvendig
-for å gi den voksne tilfredsstillende utbytte av opp47
-48
-
-46
-
-Tilsvarende det som i dag heter spesialundervisning, se
-kap. 31.5.4.3.
-
-Rt. 1993 s. 811.
-For barn og unge er det i dagens opplæringslov §§ 2-14 og
-3-10 egne regler om blant annet mobilitetstrening for
-blinde og svaksynte elever.
-
-[Side 601]
-
-NOU 2019: 23
-Ny opplæringslov
-
-læringen. Dersom den voksnes behov for trening i
-andre ferdigheter ikke er knyttet til muligheten
-for tilfredsstillende utbytte av opplæringen, men
-til for eksempel arbeidet i en bedrift for varig tilrettelagt arbeid, vil dette falle utenfor grunnskoleopplæringens område. Et behov for å utvikle eller
-holde vedlike andre grunnleggende ferdigheter
-enn ferdighetene i Læreplanverket for Kunnskapsløftet gir etter utvalgets forslag ikke i seg
-selv rett til grunnskoleopplæring.
-Utvalget foreslår på denne bakgrunn at opplæringsloven § 4A-2 andre avsnitt ikke videreføres i
-ny opplæringslov. Utvalget mener at de presiseringene som foreslås i vilkåret for retten til grunnskoleopplæring, sammen med den ordinære retten til individuelt tilrettelagt opplæring på grunnskolens område (omtalt i kapittel 31.5.4.3), er dekkende for de oppgavene som bør løses gjennom
-grunnskoleopplæring for voksne.
-
-45.4.3.5 Skille mellom opplæring og andre tiltak
-og tjenester
-Flere har gitt innspill til utvalget om at skillet mellom grunnskoleopplæring for voksne og andre tiltak og tjenester er uklart. Utvalget mener skillet
-blir tydeligere med den klargjøringen som foreslås ovenfor når det gjelder hva som utløser rett til
-grunnskoleopplæring og i hvilke tilfeller voksne
-kan få trening i andre ferdigheter enn dem som
-inngår i Læreplanverket for Kunnskapsløftet, som
-en del av grunnskoleopplæringen.
-I noen tilfeller kan det likevel fortsatt være
-uklare grenseganger. Et eksempel som utvalget
-har fått presentert, er tilfeller der voksne etter trafikkskade har behov for å lære å snakke på nytt.
-Muntlige ferdigheter er en del av grunnskoleopplæringen, og voksne som har behov for opplæring
-i denne ferdigheten på grunn av sykdom eller
-skade, vil ha rett til grunnskoleopplæring. Dette
-følger av dagens regler og av den presiseringen
-som utvalget foreslår ovenfor. I opplæringen i
-muntlige ferdigheter kan det være aktuelt å bruke
-logopedi, men grunnskoleopplæring skal ikke
-være logopedisk behandling. Tilsvarende problemstillinger vil det også være ved skader og
-sykdommer som går utover de andre grunnleggende ferdighetene etter Læreplanverket for
-Kunnskapsløftet.
-Etter utvalgets vurdering er det i slike tilfeller
-vanskelig å definere hva som er grunnskoleopplæring, og hva som er helsetiltak eller andre tjenester. Det bør gjøres en helhetlig vurdering i det
-enkelte tilfelle. For at en aktivitet skal regnes som
-opplæring, må den ha et pedagogisk siktemål, den
-
-599
-
-Kapittel 45
-
-må være knyttet til fag, deler av fag eller grunnleggende ferdigheter og stå under kommunens
-ledelse og ansvar. Dersom opplæringen må gis
-som individuelt tilrettelagt opplæring, må opplæringen dessuten gjennomføres innenfor rammene
-i enkeltvedtaket om dette.
-Selv om vilkårene for grunnskoleopplæring er
-oppfylt, kan omstendigheter ved den praktiske
-gjennomføringen tilsi at tjenesten den enkelte skal
-få, ikke er grunnskoleopplæring. For eksempel vil
-voksne som etter skade og sykdom har behov for
-fornyet opplæring i grunnleggende ferdigheter
-etter Læreplanverket for Kunnskapsløftet, ofte ha
-et mer akutt behov for opptrening av disse ferdighetene enn det som kan oppfylles gjennom grunnskoleopplæringen. Det er lagt til grunn at voksne
-med rett til grunnskoleopplæring skal gis et slikt
-tilbud innen rimelig tid.49 Samtidig er det understreket at kommunen må ha rimelig tid til å planlegge, legge til rette og iverksette tilbudet, og at
-søkeren må akseptere at det kan ta en viss tid før
-et tilbud blir etablert.50 Opptrening og rehabilitering etter skade som gjennomføres av helsepersonale på behandlingsinstitusjoner, vil ikke være
-grunnskoleopplæring.
-
-45.4.3.6 Særlig om opplæring i digitale ferdigheter
-Et særlig spørsmål er om voksne som tidligere
-har fått grunnskoleopplæring, har rett til fornyet
-grunnskoleopplæring dersom de trenger opplæring i digitale ferdigheter. Kunnskapsdepartementet har lagt til grunn at voksne med rett til grunnskoleopplæring kan kreve opplæring i digitale
-ferdigheter når behovet er knyttet til dette, med
-utgangspunkt i kompetansemålene for de digitale
-ferdighetene i læreplanene for de fem fagene som
-voksne må ha sluttvurdering i for å få vitnemål.51
-Uttalelsen tar ikke stilling til om behovet for opplæring i digitale ferdigheter i seg selv gir rett til
-grunnskoleopplæring.
-Etter utvalgets vurdering må spørsmålet vurderes ut fra de kriteriene som er lagt til grunn i
-kapittel 45.4.3.1 til kapittel 45.4.3.3. Dersom den
-voksne tidligere har fått en grunnskoleopplæring
-som var forsvarlig og tilstrekkelig på det tidspunktet den ble gitt, og den voksne heller ikke trenger
-opplæring for å få rett til vitnemål, har den voksne
-ikke rett til grunnskoleopplæring. At samfunnet
-endrer seg, og at kompetansen og ferdighetene
-49
-50
-51
-
-Utdanningsdirektoratet, rundskriv Udir 3-2012, punkt 5.1.
-Ot.prp. nr. 44 (1999–2000), merknad til § 4A-1.
-Tolkningsuttalelsen er sitert i Utdanningsdirektoratet,
-rundskriv Udir 3-2012, punkt 2.1.4.
-
-[Side 602]
-
-600
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-som inngår i grunnskoleopplæringen, endres som
-følge av dette, bør etter utvalgets vurdering ikke
-gi rett til fornyet grunnskoleopplæring.
-Et annet spørsmål er om det generelt bør være
-bedre muligheter til å fornye kompetansen sin
-gjennom livet. I et samfunnsøkonomisk perspektiv vil dette trolig være lønnsomt. Spørsmålet er i
-så fall om dette skal være en del av grunnopplæringen, eller om dette er tjenester som arbeidsgiver og NAV kan tilby. Uansett har ikke utvalget
-grunnlag for eller mandat til å foreslå noen generell og evigvarende rett til fornyet kompetanse. Se
-også omtale av behov for fornyet kompetanse på
-videregående nivå i kapittel 45.4.4.3.
-Utvalget har ikke gjennomført noen kartlegging av dagens opplæringstilbud til voksne, men
-utvalget er ikke gjort kjent med at grunnskoleopplæringen i dag brukes til å gi voksne med fullført
-grunnskoleopplæring opplæring i digitale ferdigheter alene.
-
-45.4.3.7 Hvor mye grunnskoleopplæring den
-voksne skal ha rett til (i tid)
-Et spørsmål som flere har stilt, er hvor lenge
-grunnskoleopplæringen varer. Spørsmålet er særlig aktuelt for voksne som får opplæring i grunnleggende ferdigheter. Utvalget har fått tilbakemelding om at det i dag er store variasjoner i omfanget av kommunenes tilbud. Årsaken til dette er at
-det ikke er fastsatte tidsrammer for opplæringen
-slik som for barn og unge. Grunnskoleopplæring
-for voksne skal bygge på den kompetansen den
-voksne har, slik at den voksne skal få den opplæringen han eller hun trenger. I tillegg skal opplæringen tilpasses den voksnes livssituasjon, og kan
-være komprimert eller gå over lengre tid enn det
-som er ordningen for barn og unge.
-Etter utvalgets vurdering er det ikke hensiktsmessig å fastsette regler om hvor lenge grunnskoleopplæringen for voksne skal vare. Utvalget
-mener at Kunnskapsdepartementet i stedet bør
-vurdere om det bør lages et veiledende rammeverk for å bidra til større likhet i tilbudene mellom
-kommunene. Kommunene, organisasjoner og
-andre kan inviteres til å bidra i utarbeidelsen av et
-slikt rammeverk.
-Retten til grunnskoleopplæring gjelder i
-utgangspunktet så lenge vilkåret for retten er oppfylt. Forslagene ovenfor om vilkårene for rett til
-grunnskoleopplæring og grensegangen mot
-andre tiltak og tjenester vil dermed ha betydning
-for hvor lenge retten til grunnskoleopplæring
-varer. Utvalget understreker at det normalt ikke
-
-skal være en livslang rett til grunnskoleopplæring.52
-
-45.4.3.8 Grunnskoleopplæring til dem som ikke
-har rett til slik opplæring
-I kapittel 4A i dagens lov er noen av reglene formulert slik at de bare gjelder for dem som har rett
-til grunnskoleopplæring særskilt organisert for
-voksne. Loven åpner for at kommunen og fylkeskommunen kan gi grunnskoleopplæring særskilt
-organisert for voksne, også til dem uten rett til
-slik opplæring. Utvalget foreslår i kapittel 24.4.2 at
-ungdommer som benytter seg av tilbud om mer
-grunnskoleopplæring, skal få de samme rettighetene som dem som har rett til grunnskoleopplæring særskilt organisert for voksne.
-Utvalget foreslår språklige endringer i reglene
-om grunnskoleopplæring særskilt organisert for
-voksne for å få fram at reglene gjelder for alle som
-får slik opplæring, uavhengig av om de har rett til
-slik opplæring eller ikke.
-
-45.4.4 Rett til videregående opplæring for
-voksne
-45.4.4.1 Generelt om retten til videregående
-opplæring for voksne
-Utvalget foreslår at retten til videregående opplæring for voksne videreføres. Dette kapitlet handler
-om hva som skal være vilkårene for retten til videregående opplæring for voksne, hva den voksne
-skal ha rett til, og om retten skal utvides til å
-omfatte voksne som ikke har rett til videregående
-opplæring i dag.
-Reglene om inntak av voksne til videregående
-opplæring er regulert i forskrift til opplæringsloven. Utvalget foreslår at hjemmelen til å gi forskrift om inntak videreføres.
-
-45.4.4.2 Vilkår om fullført grunnskoleopplæring
-Ulike måter å fullføre grunnskoleopplæring på
-Ett av vilkårene for at voksne skal ha rett til videregående opplæring i dag, er at de har fullført
-grunnskoleopplæring. Den voksne kan ha fullført
-enten grunnskoleopplæring i Norge eller tilsvarende opplæring fra andre land. Den voksne kan
-også få en realkompetansevurdering som viser at
-vedkommendes realkompetanse er likeverdig
-52
-
-Dette er også lagt til grunn i Ot.prp. nr. 46 (1997–98), kap.
-8.4.6.
-
-[Side 603]
-
-NOU 2019: 23
-Ny opplæringslov
-
-med kompetansen som oppnås gjennom norsk
-grunnskoleopplæring. Voksne kan også fullføre
-grunnskoleopplæring ved å avlegge privatisteksamen i de fem fagene som inngår i grunnskoleopplæringen for voksne. Realkompetanse må tilsvare
-minst karakter 2 for at den skal legges til grunn.
-Det er derimot ikke karakterkrav verken for privatisteksamen eller ved gjennomføring av grunnskoleopplæring for voksne.
-Rett til videregående opplæring på grunnlag av
-privatisteksamen
-En problemstilling som enkelte har tatt opp, er at
-det kan være uheldig at personer uten grunnskoleopplæring får rett til videregående opplæring
-bare ved å gå opp til privatisteksamen. Bakgrunnen for å velge denne framgangsmåten kan være å
-komme raskt i gang med videregående opplæring. I noen tilfeller brukes denne framgangsmåten for å omgå kravet om fullført grunnskoleopplæring uten at man egentlig har noe grunnlag for
-å avlegge privatisteksamen. I praksis er det nok at
-den enkelte møter opp på eksamen.
-Ett alternativ kan være å ta bort muligheten til
-å fullføre grunnskolen som privatist. Ulempen
-med dette alternativet er at det vil fjerne en rask
-og effektiv mulighet for voksne som ønsker og
-klarer å tilegne seg nødvendig kompetanse på
-egen hånd. Det kan kanskje særlig være aktuelt
-for personer med opplæring fra andre land som
-ikke regnes som tilsvarende med norsk grunnskoleopplæring.
-Et annet alternativ er å kreve karakter 2 på privatisteksamen i likhet med det som gjelder for
-realkompetansevurdering som sluttvurdering.
-Fordelen er at det da fortsatt åpnes for at voksne
-kan velge privatistordning framfor opplæring,
-samtidig som det forhindrer at ordningen utnyttes
-for å slippe grunnskoleopplæring. Et argument
-mot karakterkrav for privatisteksamen er at det
-ikke gjelder et slikt krav for dem som gjennomfører grunnskoleopplæring, verken for barn eller
-voksne. På den annen side er det kommunen som
-er ansvarlig for å gi barn, unge og voksne en forsvarlig grunnskoleopplæring. Å gi rett til videregående opplæring til dem som har gjennomført
-slik opplæring, selv om de ikke oppnår karakter 2
-i alle fag, er derfor mindre problematisk enn å gi
-rett til videregående opplæring på grunnlag av en
-privatisteksamen som ikke står til karakteren 2
-eller bedre.
-Utvalget foreslår at det innføres krav om
-karakteren 2 eller bedre for å få rett til videregående opplæring på grunnlag av privatisteksamen.
-
-601
-
-Kapittel 45
-
-Dersom en voksen ikke oppnår karakteren 2 eller
-bedre på en privatisteksamen, skal den voksne
-fortsatt ha retten til grunnskoleopplæring i
-behold. Den voksne vil dermed ikke miste muligheten til å kvalifisere seg for videregående opplæring gjennom grunnskoleopplæring.
-Utvalget foreslår at krav om karakteren 2 eller
-bedre på privatisteksamen reguleres i forskrift.
-Hjemmelen til å gi forskrift om inntak anses å
-være dekkende.
-Vilkår om kompetanse i engelsk for å få rett til
-videregående opplæring
-En problemstilling som flere har tatt opp, er at det
-ikke er hensiktsmessig å ha et absolutt krav om at
-den voksne må ha hatt engelsk, for at opplæringen fra hjemlandet skal regnes som tilsvarende
-norsk grunnskoleopplæring. I denne sammenheng er det vist til at andre språk, som for eksempel den voksnes morsmål, kan være vel så nyttig i
-enkelte yrker.
-Problemstillingen handler om hva som skal
-være det faglige innholdet i grunnskoleopplæringen, og hvilken kompetanse den voksne dermed
-bør ha for å kunne starte i videregående opplæring. Etter utvalgets vurdering ligger det utenfor
-mandatet å ta stilling til det faglige innholdet i
-grunnopplæringen. Utvalget har derfor heller
-ikke vurdert om dagens krav om engelsk i grunnskoleopplæring fra andre land er hensiktsmessig.
-Flere har også gitt innspill om at det ikke gir
-mening at det stilles krav om engelsk, men ikke
-norsk. Utvalget vil peke på at dersom det skal
-være krav om at norsk må inngå i grunnskoleopplæringen, kan ingen få rett til videregående opplæring på grunnlag av grunnskoleopplæring i andre
-land.
-
-45.4.4.3 Utvidelse av retten til videregående
-opplæring
-Begrensninger i dagens regelverk
-Ett av vilkårene for rett til videregående opplæring for voksne i dag er at den videregående opplæringen ikke allerede er fullført. Å fullføre videregående opplæring handler om hvor mye opplæring man har mottatt, ikke hvilken sluttkompetanse man har fått. Man kan derfor ha fullført
-videregående opplæring uten å ha bestått og fått
-studie- eller yrkeskompetanse. Årsaken kan være
-at man har strøket eller ikke har fått karakter i ett
-eller flere fag. Mange fylkeskommuner strekker
-seg langt for å gi opplæring også til dem som har
-
-[Side 604]
-
-602
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-brukt opp retten til videregående opplæring, men
-ikke alle får et opplæringstilbud.
-Dersom en ungdom gjennomfører de årene
-med opplæring han eller hun har krav på, normalt
-tre år, har ikke vedkommende rett til videregående opplæring som voksen, heller ikke dersom
-opplæringen ikke førte til studie- eller yrkeskompetanse. Dersom ungdommen derimot avbrøt
-videregående opplæring før 1. november i Vg3,53
-har vedkommende rett til videregående opplæring som voksen. Slik dagens regelverk er, kan
-det derfor lønne seg å droppe ut av videregående
-opplæring som ungdom dersom man ikke er sikker på at man klarer å bestå i alle fag og dermed
-oppnå studie- eller yrkeskompetanse.
-Etter utvalgets vurdering er dagens regelverk
-lite hensiktsmessig. Grunntanken bak alle nasjonale og fylkesvise tiltak for å bedre gjennomføringen i videregående opplæring er at videregående
-opplæring anses å være nyttig både for den
-enkelte og for samfunnet som helhet. Dagens ordning innebærer at en del bruker opp retten til
-videregående opplæring uten at det ender i en
-sluttkompetanse som kommer den enkelte og
-samfunnet til gode. Å utvide retten til videregående opplæring vil riktig nok gi økte kostnader for
-fylkeskommunen. Dersom man derimot ser hen
-til den enkeltes muligheter for videre utdanning
-og arbeid og de samfunnsøkonomiske konsekvensene av dette på litt lengre sikt, vil slike endringer
-være lønnsomme i et helhetsperspektiv.
-Nedenfor drøftes mulige utvidelser av retten
-til videregående opplæring som voksen.
-Rett til videregående opplæring for dem som har
-brukt opp ungdomsretten
-Én mulighet er å innføre en rett til videregående
-opplæring for alle voksne som har fullført videregående opplæring som ungdom, men som ikke
-har oppnådd studiekompetanse, yrkeskompetanse eller annen planlagt sluttkompetanse. De
-som tidligere har fullført med slik kompetanse, vil
-ikke få rett til videregående opplæring med en slik
-utvidelse. De som ikke tidligere har fullført videregående opplæring som ungdom, har allerede
-rett til videregående opplæring som voksen og
-berøres ikke av en slik utvidelse.
-Praksisbrevordningen innebærer to år videregående opplæring. Ordningen er ment for dem
-
-som er skoleleie, og som derfor ønsker å ta en
-mindre omfattende og mer praksisnær opplæring.
-Det er lagt til grunn at disse kandidatene skal ha
-rett til å fullføre opplæringen til fag- eller svennebrev på et senere tidspunkt. Det er verken i loven
-eller forarbeidene tatt stilling til om praksisbrevkandidatene vil ha rett til videregående opplæring
-når de fyller 25 år. Utvalget legger til grunn at de
-som har gått opp til praksisbrevprøven som ungdom, vil ha rett til videregående opplæring som
-voksne etter dagens regelverk, ettersom de ikke
-har fullført de årene med opplæring de har rett til.
-Praksisbrevkandidater berøres derfor ikke av en
-utvidelse av retten for dem som har «brukt opp»
-ungdomsretten.
-De som gjennom ungdomsretten har oppnådd
-en planlagt sluttkompetanse54 som ikke gir studieeller yrkeskompetanse, får ikke en ny rett til videregående opplæring med en slik utvidelse. Både
-innenfor studieforberedende og yrkesfaglige
-utdanningsprogram kan man velge å gå for en
-kompetanse som ikke gir studie- eller yrkeskompetanse. Dette forutsetter sakkyndig vurdering og
-en individuell opplæringsplan med kompetansemål som avviker fra Læreplanverket for Kunnskapsløftet. I yrkesfag som forutsetter læretid i
-bedrift, er det lærekandidatordningen som skal
-brukes i slike tilfeller.
-Utvalget mener det må legges til grunn at ordningen med annen planlagt sluttkompetanse bare
-skal benyttes for dem som ikke har forutsetninger
-for å oppnå studie- eller yrkeskompetanse, heller
-ikke med de tilrettelegginger og utvidelser som
-loven gir rett til. Det er dermed heller ikke noen
-grunn til å gi denne gruppen en ny rett til videregående opplæring som voksne.
-Voksenretten til videregående opplæring gjelder etter dagens regelverk fra det året man fyller
-25 år. Dersom det innføres en rett til videregående
-opplæring for dem som har fullført videregående
-opplæring som ungdom, men som ikke har oppnådd studiekompetanse, yrkeskompetanse eller
-annen planlagt sluttkompetanse, bør samtidig
-aldersgrensen for voksenretten senkes. Etter
-dagens regelverk, kan man ha brukt opp ungdomsretten til opplæring når man er 19 år. Det er
-da urimelig hvis den enkelte må vente til fylte 25
-år til man får en voksenrett til videregående opplæring.
-54
-
-53
-
-Se redegjørelse for dagens regler om bruk av retten til
-videregående opplæring i kap. 24.2.2.
-
-Det siktes her til det som i dag omtales som «grunnkompetanse» i opplæringsloven § 3-3. Se mer om begrepsbruken i
-kap. 24.4.11.
-
-[Side 605]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Rett for alle til å få studiekompetanse eller yrkeskompetanse
-En annen mulig utvidelse av retten til videregående opplæring er å gi alle rett til studie- eller
-yrkeskompetanse. Utfordringen med en slik utvidelse er at det i en del tilfeller vil innebære en
-evigvarende rett, som kan være utfordrende for
-fylkeskommunen å håndtere. Det kan for eksempel være voksne som ikke har forutsetninger for å
-fullføre og bestå, eller voksne som ikke selv legger ned den innsatsen det er rimelig å forvente.
-Det er også uklart om det er et behov for en
-rett for alle til å få studie- eller yrkeskompetanse.
-Dersom voksne som tidligere har brukt opp den
-tidsbegrensede ungdomsretten, får rett til videregående opplæring som voksne i tråd med alternativet over, bør alle voksne ha gode muligheter til å
-kunne oppnå studie- eller yrkeskompetanse.
-De som kan ha særlig nytte av en rett til å få
-studie- eller yrkeskompetanse, er de som har fullført videregående opplæring særskilt organisert
-for voksne, men som ikke har oppnådd studieeller yrkeskompetanse fordi de ikke har bestått
-alle deler av opplæringen. Statistikken om videregående opplæring for voksne er delt inn i antallet
-som består, og antallet som avbryter, og inneholder ikke oversikt over antallet som ikke består.
-Voksenretten er ikke tidsbegrenset slik som ungdomsretten, og inntrykket er at fylkeskommunene strekker seg langt for at de voksne skal
-kunne fullføre og bestå opplæringen. Utvalget
-antar derfor at det ikke er en stor praktisk problemstilling at voksne fullfører voksenretten til
-videregående opplæring uten å bestå.
-Det kan dermed synes som at de som har voksenrett til videregående opplæring, har en god
-nok rett i dag. Opplæringen skal tilpasses den
-voksnes kompetanse, livssituasjon og eventuelle
-særlige behov. Det er heller ingen tidsbegrensning for denne retten slik som for ungdom, og det
-skal dermed mer til for å «bruke opp» voksenretten. Dersom den voksne likevel ikke består alle
-fag, er det kanskje ikke urimelig å kreve at den
-voksne tar opp faget som privatist. Det finnes
-dessuten også andre måter å få studie- og yrkeskompetanse på for voksne, som praksiskandidatordningen og 23/5-regelen.
-
-603
-
-Kapittel 45
-
-kan ha behov for et nytt fagbrev på grunn av
-endringer i arbeidsmarkedet.55 For å imøtekomme denne utfordringen kan et aktuelt tiltak
-være å gi rett til videregående opplæring også til
-de som allerede har studie- eller yrkeskompetanse.
-En utfordring vil være å begrense en slik rett
-til dem om trenger fornyet kompetanse ut fra krav
-i arbeidslivet. På den annen side vil det trolig være
-liten risiko for «misbruk» av en rett til videregående opplæring. Det er uansett et spørsmål om
-det er rimelig at felleskapets midler skal brukes til
-et slikt tiltak. Som nevnt ovenfor, finnes det dessuten også andre måter voksne kan få studie- og
-yrkeskompetanse på enn gjennom opplæring,
-som praksiskandidatordningen og 23/5-regelen.
-En annen måte å møte behovet for fornyet
-kompetanse på er å legge om ordningen med
-videregående opplæring slik at det blir et mer
-åpent tilbud slik som høyere utdanning. Det kan
-for eksempel legges til rette for at den enkelte kan
-benytte seg av et tilbud om videregående opplæring enten ved å finansiere det selv eller med
-finansiering fra Lånekassen, arbeidsgiver eller
-NAV. Slike endringer vil innebære omlegginger av
-det videregående opplæringstilbudet i Norge.
-Samlet vurdering
-Utvalget mener det er gode grunner til å utvide
-retten til videregående opplæring for voksne. Det
-er særlig uheldig at ungdommer i dag kan «bruke
-opp» den tidsbegrensende ungdomsretten uten å
-oppnå studiekompetanse, yrkeskompetanse eller
-annen planlagt sluttkompetanse. Utvalget foreslår
-derfor at de som har «brukt opp» ungdomsretten
-uten å oppnå slik kompetanse, får rett til videregående opplæring særskilt organisert for voksne.
-Utvalget foreslår samtidig at den nedre aldersgrensen for voksenretten til videregående opplæring fjernes, slik at man ikke risikerer å måtte
-vente for å kunne fortsette eller ta opp videregående opplæring. Det innebærer at voksne ned til
-19 år kan få rett til videregående opplæring som
-voksne.56 Voksenretten innebærer færre rettigheter enn ungdomsretten, men voksenopplæringen
-er samtidig mer fleksibel og tilpasset den enkeltes
-kompetanse. Utvalget mener det er hensiktsmessig at denne gruppen går over i voksenretten, da
-
-Fornyet rett til videregående opplæring
-
-55
-
-I NOU 2018: 15 (Liedutvalget) pekes det på at
-man i dag har et stadig større behov for å fornye,
-oppdatere og utvide sin kompetanse som voksen i
-arbeidslivet. Det vises til at personer for eksempel
-
-56
-
-NOU 2018: 15.
-Dersom man begynner på skolen det året man fyller 6 år,
-vil man fylle 19 år det året man er ferdig med tre års videregående opplæring. Dersom man begynner ett år tidligere
-på skolen, kan man ha «brukt opp» ungdomsretten det året
-man fyller 18 år.
-
-[Side 606]
-
-604
-
-Kapittel 45
-
-NOU 2019: 23
-Ny opplæringslov
-
-denne er mer egnet til å «tette hullene» i kompetansen til den enkelte. Dessuten er det ikke urimelig at man må gå over på en ordning med noen
-færre individuelle rettigheter når man har brukt
-opp ungdomsretten til videregående opplæring.
-Fylkeskommunen kan likevel velge å tilby den
-enkelte å ta ut retten i ordinær videregående opplæring for ungdom, med de rettighetene som gjelder for denne opplæringen.
-Det er flere grunner til at utvalget ikke går inn
-for å gi alle rett til å bestå videregående opplæring. For det første vil det være utfordrende for
-fylkeskommunene å håndtere en slik ubegrenset
-rett, og det vil være vanskelig å finne fram til rimelige begrensninger. For det andre er det vanskelig
-å se at det er behov for en slik utvidelse. Utfordringen i dag er at ungdomsretten er tidsbegrenset.
-Dersom de som «bruker opp» denne retten, får ny
-rett til videregående opplæring for voksne, vil de
-ha gode muligheter til å oppnå studie- eller yrkeskompetanse. Det samme gjelder dem som etter
-dagens regelverk har rett til videregående opplæring for voksne. Voksenretten er ikke tidsbegrenset, og det skal dermed mer til for å «bruke opp»
-denne retten. Dersom en person ikke møter opp,
-ikke tar imot tilbud, eller ikke har forutsetninger
-for å bestå faget, er det ikke urimelig at fylkeskommunens plikt opphører.
-Utvalget går heller ikke inn for å utvide retten
-til videregående opplæring slik at de som allerede
-har studie- eller yrkeskompetanse, får rett til å få
-en ny kompetanse. Dette vil være en vesentlig
-utvidelse, som det ligger utenfor utvalgets mandat
-å vurdere. Ettersom Liedutvalget blant annet har
-fått i mandat å vurdere «om dagens modell for
-videregående opplæring tilfredsstiller arbeidslivets og samfunnets behov for kompetanse», er
-Liedutvalget nærmere til å vurdere behovet for en
-slik utvidelse.
-
-45.4.4.4 Særskilt språkopplæring og organisering
-av opplæringen
-En utfordring som flere har spilt inn til utvalget, er
-at en del voksne som begynner i videregående
-opplæring, ikke har de nødvendige norskferdighetene til å kunne fullføre og bestå. Opplevelsen er at en del av dem som tas inn til videregående opplæring i dag, er dømt til å mislykkes.
-Mange fylkeskommuner tilbyr både ungdommer
-og voksne norskopplæring før de begynner den
-videregående opplæringen, men det er ikke alltid
-søkeren ønsker å vente med å starte på videregående opplæring.
-
-Ett mulig tiltak er å gi voksne i videregående
-opplæring rett til særskilt språkopplæring slik
-som barn og unge har. Rett til særskilt språkopplæring innebærer rett til særskilt norskopplæring
-og ved behov også morsmålsopplæring og
-tospråklig opplæring i fag. Innføringen av en slik
-rettighet vil gripe inn i fylkeskommunens handlingsrom og vil kanskje heller ikke passe så godt
-for voksne ettersom opplæringen er organisert ut
-fra den voksnes livssituasjon og realkompetanse,
-og ikke i et fast løp slik som for barn og unge.
-Opplæringen for voksne kan derfor gå over både
-lengre og kortere tid enn opplæringen for barn og
-unge. Voksne har heller ikke det samme behovet
-til å følge en bestemt gruppe, da det ikke er
-aldersbestemte grupper, og de voksnes livssituasjon kan variere. Det er derfor mindre grunn til at
-norskopplæringen må skje parallelt med den
-øvrige opplæringen, og dermed også mindre
-behov for morsmålsopplæring og tospråklig opplæring i fag. Utvalget mener derfor at det ikke er
-nødvendig å innføre rett til særskilt språkopplæring for voksne i videregående opplæring. Se også
-kapittel 45.4.12.
-I dag har fylkeskommunen stor frihet i hvordan opplæringstilbudet for voksne skal organiseres. Samtidig er det krav om at opplæringen tilpasses den voksnes behov. Utvalget er kjent med at
-fylkeskommunens handlingsrom er forstått og
-praktisert ulikt. Enkelte fylkeskommuner organiserer opplæringen slik at voksne med svake
-norskopplæring, får deler av norskopplæringen
-før de går over på opplæring i andre fag. På denne
-måten gis de voksne bedre forutsetninger for å
-klare den øvrige opplæringen, og det er mer effektivt for fylkeskommunene enn å drive norskopplæring parallelt med opplæring i øvrige fag. Andre
-fylkeskommuner praktiserer det slik at den
-voksne får tilbud om norskopplæring, som det er
-frivillig å motta. Dersom den voksne ikke tar imot
-slik opplæring, får den voksne norskopplæring
-som ett av flere fag i den videregående opplæringen.
-Etter utvalgets vurdering bør fylkeskommunen ha frihet til å organisere opplæringstilbudet
-for voksne på den måten som er mest hensiktsmessig ut fra hensynet til den voksne og hensynet
-til effektiv organisering. I en del tilfeller vil det trolig være mest effektivt å legge en del av norskopplæringen først i opplæringsløpet og deretter gå
-over på opplæring i andre fag. Utvalget mener fylkeskommunen bør ha frihet til å organisere opplæringen på denne måten. Utvalget understreker
-likevel at det er viktig at opplæringen organiseres
-på en måte som er motiverende for de voksne
+## Musikk- og kulturskoletilbud
+
+### Dagens regler
+
+Ifølge opplæringsloven § 13-6 skal kommunen ha et musikk- og kulturskoletilbud, enten alene eller i samarbeid med andre kommuner. I Innst. O nr. 95 (1996–97) har Kirke-, utdannings- og forskningskomiteen vist til at det er et ønske å legge til rette for utvikling av kulturskoler på andre områder enn musikk, men ikke på bekostning av musikk. Regelen inneholder ingen andre krav til innholdet i tilbudet eller krav om et bestemt antall plasser, og regelen gir ingen individuelle rettigheter. Det er kommunene selv som bestemmer innholdet og omfanget av kulturskoletilbudet. Kravet om politiattest i opplæringsloven § 10-9 gjelder for musikk- og kulturskoletilbud.
+
+### Kunnskapsgrunnlaget
+
+Kravet om musikk- og kulturskole ble innført i 1997. Regelen kom inn som et forslag fra den daværende kirke- utdannings- og forskningskomiteen.[^1264]
+
+Stortinget har i anmodningsvedtak nr. 897 av 13. juni 2017 bedt regjeringen «legge fram en egen stortingsmelding om en styrket kulturskole for framtiden». I Prop. 1 S (2017–2018) for Kunnskapsdepartementet framgår det at departementet mener det er behov for et bedre kunnskapsgrunnlag i forkant av et arbeid med en egen melding om kulturskole.
+
+NTNU og Telemarksforskning har på oppdrag fra Utdanningsdirektoratet utarbeidet et kunnskapsgrunnlag om kulturskolene i Norge. Hovedfunnene er at kulturskolene er preget av variasjon, at det er stor variasjon i kostnadene for å gå på kulturskole og at kulturskoler står i spenningsfeltet mellom å være et bredde- og et spesialiseringstilbud. Forskerne peker også på at ansvaret for kulturskolene på en måte faller mellom to stoler (og to departement). Forskerne viser til at kulturskolen lett blir glemt mellom de mange komplekse og krevende oppgavene som Kunnskapsdepartementet har ansvaret for. Samtidig fører plasseringen i Kunnskapsdepartementet til at andre relevante departement, fortrinnsvis Kulturdepartementet, heller ikke kan eller vil ta ansvar for kulturskolen. Videre viser forskerne til at en informant fra Kulturrådet og andre informanter opplever mangel på et overordnet, koordinerende ledd for kulturskolefeltet.[^1265]
+
+I NOU 2013: 4 foreslo Kulturutredningsutvalget å flytte bestemmelsen om kulturskole til kulturlova. Utvalget mente at kulturskolens kjerneoppgaver som lokalt ressurssenter for kunstfaglig grunnutdanning og fordypning, opplevelse og formidling vil styrkes av en organisatorisk plassering i kultursektoren.[^1266]
+
+En ekspertgruppe for kunst og kultur i opplæringen oppnevnt av Kulturdepartementet og Kunnskapsdepartementet var ikke enig i forslaget om flytte bestemmelsen om kulturskole ut av opplæringsloven. Ekspertgruppen mente at det tvert i mot er viktig å styrke kulturskolene som skole, og utvikle gode synergier og samarbeid mellom opplæringstilbudene, og at ansvaret for å utvikle gode kulturskoler er utdanningspolitikk.[^1267]
+
+Opplæringslovutvalget har ikke mottatt noen innspill til reglene om musikk- og kulturskoletilbud.
+
+### Utvalgets vurdering
+
+Musikk- og kulturskoletilbudet i kommunen er ikke en del av grunnopplæringen etter opplæringsloven. Dagens opplæringslov inneholder ingen rettslige forpliktelser utover at det skal være et tilbud om musikk- og kulturskole.
+
+Kulturlova har som formål å fastsette det ansvaret offentlige myndigheter har for kulturvirksomhet. Ansvaret omfatter blant å legge til rette for at alle kan få mulighet til å delta i kulturaktiviteter.
+
+Musikk- og kulturskoletilbud angår den samfunnssektoren som kulturlova regulerer. Et argument for å flytte reglene om musikk- og kulturskoletilbud til kulturlova er, slik Kulturutredningsutvalget peker på, at det kan bidra til en styrking av kulturskolens kjerneoppgaver. Et motargument kan være at kravet i dagens opplæringslov er at tilbudet skal være organisert «i tilknytning til skoleverket». På den annen side er det i dag også et krav om at musikk- og kulturskoletilbudet skal være organisert i tilknytning til «kulturlivet elles».
+
+Et annet argument for å beholde reglene i opplæringsloven kan være at noen lærere er ansatt både i grunnskolen og i musikk- og kulturskolen. På den annen side vil ikke valg av lov være avgjørende for om lærere kan ha slike kombinerte stillinger.
+
+Utvalget har ikke grunnlag for å være uenig i Kulturutredningsutvalgets forslag om å flytte reglene om kulturskole fra opplæringsloven til kulturlova. Evalueringen av kulturskolen fra NTNU og Telemarksforskning gir også argumenter for å flytte reglene om kulturskole til en lov som forvaltes av Kulturdepartementet. Utvalget mener dessuten at dette er den beste løsningen rent lovteknisk når man ser på formålet med henholdsvis opplæringsloven og kulturlova. En forutsetning for en eventuell flytting er at kravet om å ha et kulturskoletilbud videreføres.
+
+Utvalget går ikke nærmere inn i hva som bør være innholdet i reglene om kulturskole, da dette bør vurderes i forbindelse med en eventuell flytting til kulturlova på bakgrunn av evalueringen av kulturskoler i Norge og den kommende stortingsmeldingen om en styrket kulturskole for framtiden.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- at bestemmelsen om musikk- og kulturskoletilbud flyttes fra opplæringsloven til kulturlova
+
+## Rådgivning
+
+### Dagens regler
+
+I opplæringsloven § 9-2 første avsnitt er det fastsatt at «\[e\]levane har rett til nødvendig rådgiving om utdanning, yrkestilbod og yrkesval og om sosiale spørsmål. Departementet gir nærmare forskrifter». Retten til rådgivning gjelder både for elever i grunnskolen og for elever i videregående opplæring.
+
+I forskrift til opplæringsloven kapittel 22 er det fastsatt utfyllende bestemmelser om rådgivning. Forskriften inneholder en generell bestemmelse om retten til rådgivning (§ 22-1) hvor det blant annet presiseres at elever har rett til både sosialpedagogisk rådgivning og utdannings- og yrkesrådgivning. Rådgivningen kan være både individuell og gruppevis og elevens behov og ønske skal være avgjørende for hvilken av formene som blir tatt i bruk.
+
+Forskriften inneholder én bestemmelse om sosialpedagogisk rådgivning (§ 22-2) og én bestemmelse om utdannings- og yrkesrådgivning (§ 22-3). I tillegg er det en bestemmelse om ansvar (§ 22-4), hvor det er fastsatt at skoleeieren er ansvarlig for å oppfylle elevenes rett til rådgivning, og at ansvaret innebærer at rådgivning skal utføres av personale med relevant kompetanse for de to områdene som retten til rådgivning gjelder. Det er opp til skoleeieren å vurdere hva som er relevant kompetanse. Utdanningsdirektoratet har utviklet anbefalte kompetansekrav og veiledende kompetansekriterier for personale som skal utføre rådgivningsoppgaver i skolen.[^1268]
+
+Det følger av opplæringsloven § 8-2 andre avsnitt at kontaktlæreren skal ha et særlig ansvar for blant annet sosialpedagogiske gjøremål som gjelder klassen eller basisgruppen og de elevene som er der. I juridisk teori er det lagt til grunn at bestemmelsen innebærer at kontaktlæreren er pålagt er særlig ansvar for den sosialpedagogiske rådgivningen.[^1269]
+
+Det er ikke definert i forskrift til opplæringsloven hva som menes med «sosialpedagogisk rådgivning», men det er fastsatt at formålet med slik rådgivning er å «medverke til at den enkelte eleven finn seg til rette i opplæringa og hjelpe eleven med personlege, sosiale og emosjonelle vanskar som kan ha noko å seie for opplæringa og for eleven sine sosiale forhold på skolen». Utdannings- og yrkesrådgivning har som formål å «bevisstgjere og støtte eleven i val av utdanning og yrke og utvikle kompetansen til den enkelte til å planleggje utdanning og yrke i eit langsiktig læringsperspektiv».
+
+I tillegg til lov- og forskriftsregler om rådgivning er rådgivningsfunksjonen regulert i tariffavtale. SFS 2213 *Arbeidstid skole* inneholder bestemmelser om tidsressurs for lærere som utfører sosialpedagogisk rådgivning på ungdomstrinnet, og for lærere som utfører rådgivning i videregående opplæring og bestemmelser om godtgjøring av rådgiverfunksjonen. Avtalen inneholder ikke bestemmelser om rådgiverfunksjon på barnetrinnet.
+
+ILO-konvensjonen nr. 142 inneholder bestemmelser om blant annet yrkesrådgivning. Se omtale av denne i kapittel 7.3.4.
+
+### Kunnskapsgrunnlaget
+
+Historikk
+
+Rådgivning ble innført i grunnskolen i 1959 og i videregående opplæring i 1969.[^1270] Bestemmelsen om rådgivning i opplæringsloven har ikke vært endret siden loven trådte i kraft i 1998. Forskriftsreglene om rådgivning ble endret i 2009. Det var ingen endring av gjeldende rett, men en presisering og tydeliggjøring av reglene. Bakgrunnen for endringen var at OECDs landrapport av 2002 påpekte at elevens rett til rådgivning var vag og uklar.[^1271]
+
+Rapporter og undersøkelser
+
+Elevundersøkelsen
+
+I Elevundersøkelsen har elever i videregående opplæring blitt spurt om hvor fornøyd de er med rådgivningen om valg av utdanning og yrke på ungdomsskolen. Svarene viser at elevene er ganske fornøyd med rådgivningen. Fra skoleåret 2014–2015 til skoleåret 2018–2019 har gjennomsnittsresultatet ligget på 3,4 og 3,5 av 5.
+
+Spørsmål til Skole-Norge
+
+Høsten 2017 inneholdt spørreundersøkelsen til Skole-Norge spørsmål til skoleeiere og skoleledere om organiseringen og kompetansen i sosialpedagogisk rådgivning i grunnskolen og videregående opplæring.[^1272] Skoleledere på videregående skoler, 1–10-skoler og ungdomsskoler oppgir at den sosialpedagogiske rådgivningen i stor grad enten er organisert gjennom en rådgiver som er ansvarlig for både sosialpedagogisk rådgivning og utdannings- og yrkesveiledning, eller at dette ansvaret er delt mellom to personer. På barnetrinnet oppgir nesten 90 prosent av skolelederne at de har en annen organisering av den sosialpedagogiske rådgivningen ved skolen, og over halvparten oppgir at skolen ikke har noen årsverk knyttet til sosialpedagogisk rådgivning.
+
+Over halvparten av lederne på videregående skoler og på 1–10-skoler mener at ressursen til sosialpedagogisk rådgivning er tilstrekkelig, mens over halvparten av lederne på barneskoler og ungdomsskoler svarer at den ikke er tilstrekkelig. Grunnskolelederne i de største kommunene opplever i noe større grad enn grunnskolelederne i de mindre kommunene at ressursen til den sosialpedagogiske rådgivningen er for knapp i forhold til behovet.
+
+På ungdomsskolene og barneskolene mener et stort flertall av skolelederne at sosialpedagogisk rådgivning bør være atskilt fra karriereveiledning, mens det er større usikkerhet rundt dette spørsmålet blant ledere på 1–10-skolene og på de videregående skolene.
+
+Over halvparten av lederne ved barneskolene mener at sosialpedagogisk rådgivning ikke i det hele tatt eller i liten grad er integrert i skolens planverk. Ved 1–10-skolene, ungdomsskolene og de videregående skolene svarer godt over halvparten av lederne at rådgivningen inngår i skolens planverk.
+
+Skoleledere ved de videregående skolene og ungdomsskolene har en mer positiv oppfatning av skolens samarbeid med relevante eksterne tjenester i arbeidet med sosialpedagogisk rådgivning enn skoleledere ved 1–10-skolene og barneskolene har. 21 prosent av skolelederne ved barneskolene oppgir at de ikke i det hele tatt eller i liten grad opplever at skolen har et godt samarbeid med relevante eksterne aktører.
+
+Fylkeskommunene svarer i større grad enn kommunene at de har iverksatt tiltak for å heve de sosialpedagogiske rådgivernes kompetanse. I kommunene svarer over halvparten at de ansatte i liten eller i noen grad har tilstrekkelig kompetanse på sosialpedagogisk rådgivning, mens i fylkeskommunene svarer 80 prosent at de ansatte i stor eller svært stor grad har tilstrekkelig kompetanse.
+
+Skoleledere ved barneskolene og kommunene ble stilt spørsmål spesifikt om sosialpedagogisk rådgivning på barnetrinnet. Det framkommer at 30 prosent av lederne i barneskolen mener at elevenes rett til rådgivning ikke ivaretas, og at det normalt er kontaktlæreren som er ansvarlig for sosialpedagogisk rådgivning. Få kommuner og skoleledere mener at det er gode nok systemer for oppfølging av sosialpedagogisk arbeid på barnetrinnet. Mellom 80 og 85 prosent svarer at skoleeieren ikke i det hele tatt, i liten grad eller bare i noen grad har gode nok systemer.
+
+Evaluering av rådgivningen i skolen
+
+På oppdrag fra Utdanningsdirektoratet evaluerte SINTEF yrkes- og utdanningsrådgivningen og den sosialpedagogisk rådgivningen i perioden 2009 til 2010. Sluttrapporten fra SINTEF[^1273] viste at mange kommuner har tatt grep og innført nye arbeidsformer og organisasjonsformer som har hevet kvaliteten på rådgivningstjenesten. Andre steder finner forskerne at elever opplever møtet med rådgivning i skolen likt som det elevene gjorde på 1970-tallet. Ifølge rapporten oppleves presiseringen av reglene om rådgivning i skolen som ble gjort i 2009, som et framskritt. Forskernes inntrykk er at de fleste opplever det som en støtte i arbeidet at reglene forklarer mer detaljert hva god rådgivning skal være, og at rettighetene til elevene har blitt tydeligere.
+
+Rådgiverressursen oppleves ifølge rapporten som for liten til å møte de økte forventingene til tjenesten. Arbeidsoppgavene blir stadig større og mer krevende, samtidig som ressursen har vært uendret i svært lang tid. Å finne tid til gode rådgivningstiltak oppleves som en utfordring, fordi det så lett kommer i konflikt med den retten elevene har til timer med opplæring i fag.
+
+De fleste informantene mener at rådgivning bør være en oppgave for skolen, organisert og forankret på den enkelte skolen. Ifølge rapporten er tett samarbeid mellom sosialpedagogisk rådgivning og utdannings- og yrkesrådgivning en forutsetning for å lykkes med rådgivningen i skolen. Det blir ikke sett på som et godt alternativ å flytte rådgivningen ut av skolen, selv om noen av informantene mener at dette kunne styrke det faglige grunnlaget for rådgivningen.
+
+Prosjekt om rådgivning i barneskolen
+
+På oppdrag fra Utdanningsdirektoratet gjennomførte SINTEF i samarbeid med NTNU Samfunnsforskning og IRIS et prosjekt om rådgivning i barneskolen i tidsrommet fra vinteren 2017 til våren 2018.[^1274] Målsettingen for prosjektet var å bidra til å øke kunnskapen om hvordan rådgivning oppfattes og operasjonaliseres på barneskolen, og hvordan elevers rett til rådgivning ivaretas. Informantene forsto spontant «rådgiving» som utdannings- og yrkesrådgivning, og noe som ikke var relevant for barnetrinnet. Likevel fant forskerne at mange gjør aktiviteter som kan falle inn under utdannings- og yrkesrådgivning, selv om det ikke defineres som dette.
+
+I rapporten vises det til at informantene i prosjektet mener veiledning i sosialpedagogiske spørsmål, og det å lære barna mestringsstrategier, er en god investering for framtiden. Informantene har en forståelse av den sosialpedagogiske rådgivningen som er tett knyttet til livsmestringsbegrepet, og livsmestring oppleves som svært relevant og nødvendig også i barneskolen.
+
+NOU 2016: 7 Karriereveiledning for individ og samfunn
+
+Rapporten *OECD Skills Strategy – Action report – Norway* ble lagt fram høsten 2014. En av OECDs hovedanbefalinger i rapporten er å utvikle «et helhetlig system for livslang karriereveiledning» for å sikre bedre tilgang til og kvalitet på karriereveiledningen i Norge, og dermed kunne utnytte arbeidskraften bedre. I 2015 ble det nedsatt et offentlig utvalg blant annet for å følge opp OECDs påpekninger om at Norge ikke har et helhetlig system for veiledning av befolkningen.
+
+I NOU 2016: 7 *Karriereveiledning for individ og samfunn* anbefaler Karriereveiledningsutvalget følgende for karriereveiledning i grunnopplæringen:
+
+- at rådgivningsfunksjonene deles
+
+- at utdannings- og yrkesrådgivning omtales, også i lovverket, som karriereveiledning, og at den som utøver dette, bør ha tittelen karriereveileder
+
+- at karriereveileder opprettes som egen stillingskategori
+
+- at det utvikles kompetansekrav til stillingen som åpner for at flere yrkesgrupper med karrierefaglig kompetanse kan fylle stillingen
+
+- at rådgivningen/karriereveiledningen beholdes i skolen og at rådgivningsfunksjonen beholdes som en stilling i skolen
+
+- at det fastsettes kompetansekrav til karriereveiledere i grunnopplæringen, uansett utdanningsbakgrunn
+
+- at det innføres krav om karrierefaglig utdanning med 30 studiepoeng for lærer i faget utdanningsvalg
+
+- at lærlinger får rett til rådgivning på linje med elever
+
+- at det legges større vekt på kjønnsperspektivet og flerkulturelle perspektiver i karriereundervisning og karriereveiledning
+
+- at dersom man ikke oppretter en egen stilling som karriereveileder i grunnopplæringen, må ressursen til utdannings- og yrkesrådgivningen i grunnopplæringen som et minimum dobles
+
+Karriereveiledningsutvalget har også forslag som gjelder karrierevalg som valgfag, innholdet i lærerutdanningen, videreutdanning og nettbasert karriereveiledningstjeneste. Disse forslagene er mindre relevant for Opplæringslovutvalget ettersom de ikke gjelder regler som virkemidler eller ligger utenfor utvalgets mandat.
+
+Innspill til utvalget
+
+KS har satt spørsmålstegn ved om det bør være en individuell rett til rådgivning med tilhørende klagerett etter forvaltningsloven, eller om bestemmelsen kan utformes som en plikt for kommunen.[^1275]
+
+### Utvalgets vurdering
+
+Behovet for nasjonale regler om rådgivning
+
+Det første spørsmålet er om det er nødvendig med nasjonale regler om rådgivning. Rådgivning er ikke en del av grunnopplæringen. Rådgivning er likevel viktig for at elevene skal finne seg til rette på skolen og gjøre gode utdannings- og yrkesvalg og dermed kunne nyttiggjøre seg opplæringen. Utvalget mener derfor det bør stilles krav om rådgivning også i ny opplæringslov.
+
+Bør det være en rett til rådgivning?
+
+I dagens opplæringslov og i forskriften til loven er reglene om rådgivning utformet som en rett for elevene. Forarbeidene gir ingen holdepunkter for at hensikten har vært å gi en individuell rettighet til rådgivning i den forstand at elevene kan gå til klageinstansen og kreve rettigheten oppfylt. Reglene er heller ikke forstått eller praktisert slik.
+
+Utvalget mener at jo viktigere tiltaket er for å oppnå formålet med opplæringen, oppnå likhet uavhengig av bosted eller for å ivareta særlige behov, desto større grunn er det til å gi individuelle rettigheter. Å forbeholde individuelle rettigheter til slike tilfeller handler både om å redusere eventuelle negative effekter av rettighetsfesting, som tidsbruk og mindre mulighet til helhetlig behandling, og om å styrke regelverkets gjennomslagskraft på de områdene som er aller viktigst. Se mer om prinsipper for bruk av individuelle rettigheter i kapittel 12.3. Etter utvalgets vurdering er det ikke nødvendig med en individuell rett til rådgivning.
+
+Skolen må aktivt vurdere hva slags rådgivning elevene trenger
+
+I dagens regelverk gjelder kravet «nødvendig» rådgivning. I juridisk litteratur er det lagt til grunn at «\[i\] og med at eleven skal ha den rådgivningen som er nødvendig, må skolen aktivt vurdere hva slags rådgivning den enkelte elev har behov for og gi denne direkte til den eleven det gjelder».[^1276] Denne tolkningen underbygges ved en dom fra Sarpsborg tingrett[^1277] som gjaldt mangelfull utdanningsrådgivning.
+
+Det er også andre krav i dag som gjør at skolene aktivt må gi råd om både utdannings- og yrkesvalg og sosialpedagogiske forhold. For eksempel vil aktivitetsplikten i dagens kapittel 9 A innebære at ansatte i skolen må følge opp og hjelpe en elev dersom de har mistanke om at eleven ikke har det trygt og godt på skolen. Andre eksempler er de tverrfaglige temaene om livsmestring og folkehelse i de nye læreplanene og faget utdanningsvalg på ungdomstrinnet. At det er andre krav som gjør at skolene aktivt må gi råd om utdannings- og yrkesvalg og sosialpedagogiske forhold, kan tilsi at det kanskje ikke er nødvendig å kreve at skolene aktivt vurderer hvilken rådgivning elevene trenger. På den annen side vil et slikt krav da heller ikke være særlig inngripende. Utvalget foreslår at reglene utformes som en plikt for kommunene til å sørge for at elevene får *nødvendig* rådgivning, og at det legges til grunn at kravet innebærer at skolene aktivt må vurdere behovet for rådgivning og ta initiativ til å gi elevene den rådgivningen de har behov for.
+
+Tilgang til rådgivning på hver skole og mulighet til å få individuell rådgivning
+
+I dag følger det av forskriften § 22-1 at rådgivning skal være tilgjengelig for elevene ved den enkelte skole. Utvalget foreslår at elevene skal få rådgivning på den skolen de går på. At elevene skal få rådgivning på den skolen de går på, innebærer ingen krav om hvordan kommunene organiserer denne oppgaven utover at tilbudet må være tilgjengelig på den enkelte skole.
+
+Det følger av forskriften § 22-1 at rådgivningen kan være både individuell og gruppevis, og at formen skal avgjøres ut fra elevens ønske og behov. Utvalget foreslår at det lovfestes at eleven skal få rådgivningen individuelt dersom eleven trenger det. Rådgivningen kan ellers være gruppevis.
+
+Én eller to bestemmelser om rådgivning
+
+Spørreundersøkelsen til Skole-Norge viser at et stort flertall av skolelederne på ungdomsskolene og barneskolene mener at sosialpedagogisk rådgivning bør være atskilt fra karriereveiledning, mens det er større usikkerhet rundt dette spørsmålet på 1–10-skolene og på de videregående skolene. Undersøkelsen fra SINTEF viser derimot at tett samarbeid mellom sosialpedagogisk rådgivning og utdannings- og yrkesrådgivning er en forutsetning for å lykkes med rådgivningen. Karriereveiledningsutvalget anbefaler at rådgivningen deles for å øke kvaliteten på og profesjonaliseringen av karriereveiledning i grunnopplæringen.
+
+Etter Opplæringslovutvalgets vurdering bør det være opp til kommunene hvordan de vil løse rådgivningsoppgaven, og det bør ikke stilles krav om at de to formene for rådgivning løses i sammenheng.
+
+En ulempe med å regulere de to rådgivningsformene i samme bestemmelse kan være at de ikke forstås som selvstendige krav. SINTEFs prosjekt om rådgivning i skolen viste at mange spontant forsto «rådgiving» som utdannings- og yrkesrådgivning, og noe som ikke var relevant for barnetrinnet. Videre viser svarene på spørsmålene til Skole-Norge svakheter ved den sosialpedagogiske rådgivningen på barnetrinnet, som manglende ressurser og at den er lite integrert i skolens planverk. Det er uvisst om disse forholdene har en sammenheng, men det kan kanskje bidra til å øke bevisstheten og gi bedre etterlevelse av kravet om sosialpedagogisk rådgivning dersom dette reguleres i en egen bestemmelse.
+
+Utvalget foreslår at utdannings- og yrkesrådgivning og sosialpedagogisk rådgivning reguleres i hver sin bestemmelse.
+
+Rådgivning om sosiale og personlige forhold
+
+Hva elevene skal få rådgivning om
+
+I dag er det krav om sosialpedagogisk rådgivning. Det er ikke utdypet i loven hva som menes med dette, men det står i forskriften at formålet er å hjelpe eleven med sosiale, personlige og emosjonelle problemer (se kapittel 42.6.1).
+
+Etter utvalgets vurdering er ikke «sosialpedagogisk rådgivning» et godt begrep da det kan være vanskelig å forstå hva som menes. Utvalget mener lovteksten bør utformes som en plikt til å sørge for nødvendig rådgivning om sosiale og personlige forhold. Språklig sett vil disse uttrykkene omfatte de fleste tenkelige problemer, inkludert problemer hjemme, følelsesmessige problemer, psykiske problemer og spørsmål om prevensjon, seksualitet med videre. Etter utvalgets vurdering vil elevene være tjent med at rådgivningstilbudet gjelder et vidt omfang av problemer og spørsmål. Et argument mot et vidt omfang er at det kan være vanskelig for skolene, og at ulike problemer krever ulik kompetanse. På den annen side innebærer ikke en rådgivningsplikt at skolene må løse alle problemer alene. Rådgivning innebærer å gi informasjon, veiledning, oppfølging og eventuelt hjelp til elevene.[^1278]
+
+Et annet spørsmål er om det er nødvendig å begrense rådgivningen til forhold som har betydning for opplæringen og elevens forhold på skolen, slik som i dagens § 22-2 i forskrift til opplæringsloven. Barn og ungdom oppholder seg store deler av dagen på skolen. For elevene vil det dermed være hensiktsmessig om skolen kan være inngangsporten til all hjelp og rådgivning som barn og unge trenger. Utvalget mener det heller ikke er urimelig å pålegge skolene en plikt til å gi råd om forhold som ikke gjelder opplæringen eller skolesituasjonen. Skolens oppgave er uansett å hjelpe elevene så langt den kan innenfor sitt virkeområde. Dersom en elev trenger hjelp som går utover det som skolen har kompetanse eller forutsetninger for å gi, vil rådgivningsplikten innebære å hjelpe eleven videre til andre instanser. Det kan være gjennom å gi informasjon eller å videreformidle kontakt.
+
+Sammenheng med andre tjenester og andre deler av regelverket
+
+Mange av forholdene som elevene ønsker råd om, som psykiske problemer, pubertet mv., er av helsemessig karakter. Ettersom kommunen har ansvaret for både skolehelsetjenesten og grunnskoleopplæringen, vil kommunen ha flere ressurser å spille på. Det bør være opp til kommunen om og hvordan de bruker skolehelsetjenesten i rådgivningen til elevene. På videregående nivå kan det også være nyttig å se rådgivning i sammenheng med skolehelsetjenesten. Dette fordrer i så fall et samarbeid mellom fylkeskommunen og kommunen.
+
+Rådgivning om sosiale og personlige forhold må også ses i sammenheng med reglene om skolemiljø. Elevene har rett til et trygt og godt skolemiljø som fremmer helse, trivsel og læring, og de ansatte i skolen har en aktivitetsplikt som skal bidra til å oppfylle denne retten. I forarbeidene til loven er det understreket at aktivitetsplikten gjelder selv om det er forhold utenfor skolen som er årsaken til at elevene ikke har det trygt og godt på skolen. Det er vist til at skolen har begrensede muligheter til å følge med utenfor skolen, men at skolen også i slike tilfeller skal ta tak i saken og søke etter alle egnede måter å hjelpe eleven på. Videre er det vist til at i noen tilfeller vil et egnet tiltak være å involvere andre kommunale instanser, i tillegg til de tiltakene skolen setter inn på sin arena.[^1279] For at rådgivning skal ha en selvstendig betydning, bør terskelen for rådgivning være lavere enn terskelen for når aktivitetsplikten etter kapittel 9 A inntrer, og rådgivningen bør favne flere forhold enn dem som har betydning for om elevene har det trygt og godt på skolen.
+
+Gjennom overordnet del av læreplanverket og fagfornyelsen blir folkehelse og livsmestring tatt inn som tverrfaglige temaer i skolen. Opplæring i disse temaene kan være et grunnlag og en integrert del av tilbudet om kollektiv rådgivning om sosiale og personlige forhold.
+
+Elevenes behov og hva slags kompetanse som trengs i skolen
+
+Psykiske helseplager er et økende problem blant unge.[^1280] Elevene som utvalget har snakket med, er særlig opptatt av å ha noen å prate med som har kompetanse innenfor psykisk helse.
+
+Etter utvalgets vurdering kan et godt tilbud om rådgivning om sosiale og personlige problemer være egnet til å møte elevenes behov. Hva slags kompetanse som trengs, vil variere på den enkelte skole, blant annet ut fra om og i hvilken grad skolen kan nyttiggjøre seg skolehelsetjenesten. Det er viktig at den eller de som skal gi råd til elevene har relasjonell kompetanse og kompetanse om typiske utfordringer hos barn og unge. Men det vil ikke nødvendigvis kreves spisskompetanse innenfor psykisk helse for å kunne gi elevene gode råd. Poenget må være å identifisere når eleven trenger hjelp utover det skolen kan tilby, og å vite hvilken instans som da er den rette. Utvalget mener det ikke bør stilles spesifikke kompetansekrav, men at det bør overlates til kommunen å finne ut hvilken kompetanse skolene må ha for å gi et godt rådgivningstilbud til elevene.
+
+Rådgivning fra andre enn sine lærere
+
+Elevene utvalget har snakket med, er opptatt av å kunne få råd fra andre enn lærerne sine. Elevene ønsker ikke nødvendigvis at de som skal vurdere dem i fag og som har jevnlige samtaler med foreldrene deres, skal vite private ting om dem.
+
+Spørreundersøkelsen til Skole-Norge høsten 2017 viser at det normalt er kontaktlærer som er ansvarlig for sosialpedagogisk rådgivning på barnetrinnet. Dersom det skal innføres krav om at elevene skal kunne få råd fra andre enn lærerne sine, vil skolene måtte organisere rådgivningen på en annen måte. På den annen side kan det settes spørsmålstegn ved om rådgivningsplikten faktisk er oppfylt i grunnskolen i dag. I videregående skoler vil det ikke bli samme behov for endringer ettersom rådgivningstilbudet der som regel er organisert gjennom en egen rådgiver.
+
+Et argument mot å stille krav om at elevene skal kunne få råd fra andre enn lærerne sine, er at dette vil være å gripe inn i måten skolen organiserer virksomheten på. På den annen side vil det fortsatt være betydelig frihet i organiseringen.
+
+Utvalget er opptatt av å ivareta elevenes behov for å kunne få rådgivning fra andre enn dem som skal vurdere deres faglige prestasjoner. Utvalget foreslår derfor at det stilles krav om at elever skal kunne få rådgivning fra andre enn lærerne sine dersom de ønsker det. Kontaktlæreren skal fortsatt ha en sentral rolle i rådgivningen til elevene (se kapittel 38.4.5). Kravet innebærer bare at elevene skal ha mulighet til å søke råd hos andre enn lærerne sine dersom de ønsker det. Skolen må derfor ha tilbud om rådgivning *i tillegg* til den rådgivningen som gis gjennom kontaktlærerfunksjonen.
+
+God tilgang på rådgivning
+
+Elevene utvalget har snakket med, mener elevene bør ha god tilgang til råd og hjelp, helst hver dag. Begrunnelsen er at elevene kan ha akutte problemer, eller at man kanskje akkurat den dagen har motet til å prate med noen.
+
+Når det gjelder elevenes ønske om å ha tilgang på råd og hjelp hver dag, er det vanskelig å finne gode løsninger. Et krav om å bruke en visst antall årsverk til rådgivning vil slå svært ulikt ut på små og store skoler. Et forholdskrav (en ressursnorm) vil ta hensyn til skolestørrelse, men det vil ikke ta hensyn til det faktiske behovet for rådgivningsressurser. Begge typene regulering vil dessuten gripe sterkt inn i kommunenes handlingsrom. Utvalget mener det prinsipielt er uheldig å styre skolene gjennom krav til ressurser, da det gir kommunene lite handlingsrom til å organisere virksomheten ut fra lokale forhold og elevenes behov.
+
+Utvalget foreslår i stedet at det stilles krav om at elevene skal ha god tilgang på rådgivning. Et krav om *god* tilgang er et skjønnsmessig krav, og innebærer ikke krav om en bestemt frekvens eller ressurs. Om det er behov for at elevene har tilgang til rådgivning hver dag eller et visst antall dager hver uke, må vurderes konkret. Poenget er at skolene skal ha et rådgivningstilbud som dekker elevenes behov for rådgivning.
+
+Rådgivningstilbudet på den enkelte skole kan bestå av ulike elementer som samlet sett skal dekke elevenes behov for rådgivning om sosiale og personlige forhold. Kontaktlæreren skal fortsatt ha en sentral rolle i den daglige oppfølgingene av elevene (se kapittel 38.4.5). Opplæringen i de tverrfaglige temaene folkehelse og livsmestring kan være en del av tilbudet om kollektiv rådgivning om sosiale og personlige forhold. I tillegg skal elevene kunne få individuell rådgivning ved behov. Rådgivning gjennom digitale ressurser kan være et supplement til rådgivning som elevene får av lærere eller rådgivere som er fysisk til stede på skolen.
+
+Det er elevene som er nærmest til å vite hva som skal til for å dekke deres behov, og det er derfor viktig at elevene høres i arbeidet med å planlegge og organisere rådgivningstilbudet. Se om elevenes medvirkning i kapittel 19.
+
+Utdannings- og yrkesrådgivning
+
+Etter utvalgets vurdering er det ikke behov for yrkesrådgivning på barnetrinnet. Det virker heller ikke så hensiktsmessig med rådgivning om valg av videregående opplæring og videre utdanning for barn under 13 år. Det elevene på barnetrinnet derimot kan ha behov for, er rådgivning om valg av fag på ungdomstrinnet. Hvilke valg elevene gjør på ungdomsskolen når det gjelder fremmedspråk, får betydning for valgmulighetene deres i videregående opplæring. Søknader om dispensasjon fra vitnemålskravene i videregående opplæring viser at mange elever i dag får for dårlig veiledning før de velger fag på ungdomstrinnet. Utvalget foreslår at det ikke skal være krav om yrkesrådgivning på barnetrinnet, og at rådgivningen om utdanningsvalg knyttes til de valgene elevene gjør ved overgangen fra barnetrinnet til ungdomstrinnet.
+
+Karriereveiledningsutvalget foreslår at navnet endres fra utdannings- og yrkesrådgivning til karriereveiledning, blant annet fordi det mener at dette vil tydeliggjøre hva som er formålet med rådgivningen, og gi et klarere skille mot sosialpedagogisk rådgivning. Etter Opplæringslovutvalgets vurdering er ikke «karriereveiledning» et godt begrep for den rådgivningen som foregår i skolen. Rådgivningen handler i stor grad om valg innenfor og mellom utdanninger. Selv om mange av valgene har betydning for hva slags arbeid man senere kvalifiserer for, kan det også være andre hensyn som er relevante. Utrykket «karriereveiledning» kan dessuten virke fremmed for ungdom som skal søke seg til videregående opplæring. Forslaget om å dele dagens bestemmelse om rådgivning i to bestemmelser vil bidra til å gjøre skillet mellom utdannings- og yrkesrådgivning og rådgivning om sosiale og personlige forhold tydeligere. Utvalget foreslår at det i ny opplæringslov fortsatt brukes uttrykket «utdannings- og yrkesrådgivning».
+
+Karriereveiledningsutvalget foreslår også at det innføres kompetansekrav, en egen stillingskategori og en minimumsressurs for utdannings- og yrkesrådgivning. Kompetansekrav og ressurskrav er en sterk inngripen i det kommunale selvstyret. Slike tiltak vil dessuten innebære økte kostnader for kommunene. Opplæringslovutvalget mener det ikke er gode nok grunner til å innføre slike krav. Om utdannings- og yrkesrådgiver skal være en egen stillingskategori, er et spørsmål som hører hjemme mellom arbeidslivspartene på opplæringsområdet.
+
+Karriereveiledningsutvalget foreslår også enkelte tiltak som handler om innholdet i rådgivningen, som vektlegging av kjønnsperspektivet og flerkulturelle perspektiver. Utvalget mener at det ikke bør innføres krav til innholdet i rådgivningen. Dersom det er ønskelig med vektlegging av bestemte perspektiver, bør andre virkemidler benyttes.
+
+Tilgang på rådgivning ved opplæring i bedrift
+
+I dag gjelder rådgivningsplikten i opplæringsloven overfor elever. Karriereveiledningsutvalget[^1281] har foreslått at rådgivningsplikten utvides til å omfatte lærlinger, lærekandidater og praksisbrevkandidater. Det samme ble også foreslått av Utvalget for fag- og yrkesopplæringen.[^1282]
+
+Det er etablert en tilskuddsordning for fylkesvise karrieresentre som Kompetanse Norge forvalter. Målgruppen til slike kompetansesentre er voksne over 19 år. Noen av fylkene har valgt å også tilby karriereveiledning til lærlinger under 19 år[^1283], men dette er ikke dekket av tilskuddet. Ingen av sentrene dekker i dag alle innbyggere over 19 år i sitt fylke, og de er veldig forskjellig innrettet. Det er besluttet at dette tilskuddet skal overføres til fylkeskommunens rammebevilgning fra januar 2020. I den forbindelse har Kunnskapsdepartementet foreslått å lovfeste en plikt for fylkeskommunene til å sørge for et karriereveiledningstilbud som er åpent for hele befolkningen som er bosatt i fylket.[^1284]
+
+De som går på yrkesfaglig utdanningsprogram, regnes som elever når de får opplæring i skole. Spørsmålet er dermed om rådgivningsplikten skal omfatte disse ungdommene også den tiden de får opplæring i bedrift. Med den ordinære 2+2-modellen vil ungdommene først gå to år i skole og deretter være to år i lærebedrift. Men det finnes også andre modeller hvor ungdommene har en større del av opplæringen i bedrift, eller hvor bedriftsdelen er fordelt annerledes. I noen tilfeller er det nettopp et poeng med mer og tidligere praktisk opplæring i bedrift. Om en ungdom er i skole eller bedrift, er dermed ikke alltid knyttet til hvor langt i opplæringsløpet ungdommen har kommet.
+
+Lærlinger[^1285] har valgt en yrkesfaglig retning. Etter utvalgets vurdering kan lærlinger likevel ha et behov for rådgivning om utdannings- og yrkesvalg. For eksempel kan de underveis i løpet miste motivasjon eller oppdage at den retningen de har valgt, ikke passer for dem. De kan også trenge veiledning om hvilke jobbmuligheter utdanningen gir dem, og hvordan de kan øke sine muligheter for å få jobb etter endt utdanning. Lærlinger kan også ha behov for rådgivning om sosiale og personlige forhold. Overgangen fra skole til bedrift kan være vanskelig. Det stilles andre krav, man er gjerne yngre enn de andre ansatte, og miljøet er annerledes enn på skolen. Rådgivning kan i slike tilfeller være nyttig for at den enkelte skal finne sin plass og trives, noen som er viktig for å lykkes med opplæringen.
+
+En utfordring med rådgivning til lærlinger er at de får opplæringen ute i lærebedrifter. En aktiv og oppsøkende rådgivning som rettes mot den enkelte lærling der han eller hun er, vil være svært ressurskrevende og lite praktisk. Et alternativ er at disse ungdommene får tilgang på rådgivning enten på en skole eller andre steder i fylkeskommunen. For eksempel kan fylkeskommunen bruke fylkets karrieresenter til å gi den yrkesmessige delen av rådgivningen dersom dette er hensiktsmessig.
+
+Et annet alternativ kan være å pålegge lærebedriftene å gi lærlingen nødvendig rådgivning. I praksis er det nok en del lærebedrifter som gir kandidatene råd om både yrkesvalg og sosiale spørsmål. Fordelen med å legge rådgivningsplikten på lærebedriften, er at det er der kandidaten er. På den annen side vil ikke lærebedriftene nødvendigvis ha kompetanse til å gi nødvendig rådgivning. Det kan særlig være utfordrende for lærebedriftene å gi rådgivning om muligheter for omvalg og påbygg. Lærebedriftene har som oftest heller ikke samme kompetanse som fylkeskommunen når det gjelder sosiale og personlige problemer blant unge voksne.
+
+Utvalget mener at man kan ha like stort behov for rådgivning når man får opplæring i bedrift, som når man får opplæring i skole, og at rådgivningsplikten bør utvides til å omfatte lærlinger. Utvalget foreslår at plikten legges på fylkeskommunen. For at det skal være praktisk gjennomførbart, mener utvalget at det ikke bør stilles krav om en aktiv og oppsøkende rådgivning til disse ungdommene på deres opplæringssted. Det er likevel klart at lærlingene må ha tilstrekkelig informasjon om rådgivningstilbudet til at de kan benytte seg av dette ved behov.
+
+Forskriftshjemmel og føringer for forskriftsregler om rådgivning
+
+I dag er det overordnende regler om rådgivning i opplæringsloven og mer detaljerte regler i forskrift til opplæringsloven. Lovbestemmelsen er svært knapp og gir lite informasjon om hva plikten til å gi rådgivning innebærer. For å få informasjon om hva bestemmelsen betyr, må man gå til forskriften.
+
+Etter utvalgets vurdering bør sentrale elementer i rådgivningsplikten framgå direkte av loven. På denne måten vil loven gi mer informasjon til brukerne, og den vil utgjøre en tydeligere ramme for fullmakten til å gi nærmere regler i forskrift. Utvalget foreslår at det reguleres i loven at det skal gis rådgivning om sosiale og personlige forhold, til erstatning for forskriftsreguleringen om at «\[f\]ormålet med den sosialpedagogiske rådgivinga er å medverke til at den enkelte eleven finn seg til rette i opplæringa og hjelpe eleven med personlege, sosiale og emosjonelle vanskar». Når det gjelder utdannings- og yrkesrådgivning, mener utvalget at det er tilstrekkelig klart hva som menes ut fra navnet. I dag står det at formålet med slik rådgivning er «å bevisstgjere og støtte eleven i val av utdanning og yrke og utvikle kompetansen til den enkelte til å planleggje utdanning og yrke i eit langsiktig læringsperspektiv». Utvalget mener at denne reguleringen er unødvendig og ikke bør videreføres. Utvalget mener at forskriftsreglene om at begge typer rådgivning kan være kollektiv eller individuell, og at formen skal avgjøres ut fra elevenes ønsker og behov, er overflødig ettersom utvalget foreslår at det tas inn i loven at rådgivningen skal være individuell dersom elevene trenger det.
+
+Forskrift til opplæringsloven inneholder i dag regler om ansvar, som etter utvalgets vurdering rettslig sett er overflødige ettersom ansvaret reguleres i loven (se kapittel 48). Forskriften inneholder også krav om at rådgivningen skal uføres av personale med relevant kompetanse. Denne regelen er etter utvalget vurdering også overflødig ettersom det i opplæringsloven er et generelt krav om at kommuner må sørge for å ha riktig og nødvendig kompetanse (se kapittel 38.4.1).
+
+Ettersom utvalget foreslår at sentrale elementer flyttes fra forskriften til loven, er det mindre grunn til å beholde forskriftshjemmelen. Et argument for å beholde mulighetene til å gi mer detaljerte regler i forskriften, er at disse forskriftsreglene er forholdsvis nye (2009), at de ble innført som en oppfølging av kritikk fra OECD, og at aktørene i sektoren var positive til detaljeringsgraden. På den annen side vil hensynet til klarhet som OECD var opptatt av, kunne ivaretas gjennom en tydeligere og mer utfyllende lovbestemmelse og eventuelt veiledning. Utvalget foreslår at forskriftshjemmelen videreføres, men oppfordrer Kunnskapsdepartementet til å vurdere om det er nødvendig med mer detaljerte regler enn det som nå foreslås i loven. Dersom det er ønskelig å forklare eller utdype hva lovkravet innebærer, kan en mulighet være veiledning eller annen regelverksinformasjon.
+
+### Utvalgets forslag
+
+Utvalget foreslår
+
+- å videreføre plikten for kommuner og fylkeskommuner til å gi elevene nødvendig rådgivning om sosiale og personlige forhold på hver skole. Det lovfestes at elevene skal ha god tilgang på slik rådgivning og at elevene skal kunne få råd fra endre enn lærerne sine. Se forslag til § 14-2
+
+- å videreføre plikten for kommuner og fylkeskommuner til å gi nødvendig rådgivning om utdannings- og yrkesvalg til eleven på 8.–10. trinn og i videregående opplæring. På barnetrinnet skal kommunen ha plikt til å gi elevene rådgivning om valg av fag på 8.–10 trinn. Se forslag til § 14-1
+
+- å innføre plikt for fylkeskommunen til å sørge for at lærlinger skal ha tilgang til rådgivning om utdannings- og yrkesvalg og rådgivning om sosiale og personlige forhold, se forslag til § 14-1 tredje avsnitt og § 14-2 andre avsnitt
+
+- å videreføre hjemmelen til å gi forskrift om rådgivning, se forslag til § 14-1 siste avsnitt og § 14-2 siste avsnitt
+
+- språklige endringer

@@ -1,989 +1,236 @@
-# NOU 2024: 20, del 18 av 24 (side 211–220)
+# NOU 2024: 20, del 18 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/170581e4-nou-2024-20.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-20/id3073644/
 - Original-PDF: https://www.regjeringen.no/contentassets/c252947398de4fb0aea9349f011eb410/no/pdfs/nou202420240020000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 30 figurer, 170 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 211]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-kinofilmer.7 Dataspillbransjen har lenge satt
-aldersgrenser for sine spill, i samarbeid med europeiske mediemyndigheter gjennom PEGIsystemet.8 Systemene for aldersgrenser i dataspill
-og kinofilm pålegger bransjen selv å sette aldersgrenser, og grensene settes for hver enkelt film og
-hvert enkelt spill. Det er også verdt å påpeke at
-disse systemene ikke innebærer absolutte grenser, men at de åpner for foreldrenes skjønn. For
-eksempel kan en 13-åring slippe inn på en kinofilm som har 15-årsgrense, i følge med en voksen.
-Utvalget mener at det ikke bør settes en myndighetsbestemt aldersgrense for alle sosiale medier.
-Utvalget vil oppfordre regjeringen til å ha en mer
-balansert og nyansert tilnærming. Aldersgrenser
-må ta hensyn til medienes forskjellige egenskaper, funksjonalitet og innhold. Alle plattformer
-bør derfor selv sette aldersgrenser for sine tjenester, ut fra en vurdering av innhold og egenskaper
-ved tjenesten, og ikke bare ut fra kravene etter
-personvernforordningen (GDPR) som i dag. Myndighetene må føre effektivt tilsyn, med mulighet
-for sanksjoner, med at aldersgrensene er satt på
-riktig nivå og at plattformene tilbyr alderstilpassede tjenester. I tillegg kan det vurderes om
-myndighetene skal utarbeide retningslinjer som
-plattformene kan basere aldersgrensene sine på.
-Det bør vurderes om dette systemet kan gjennomføres innenfor rammene av DSA, som pålegger
-veldig store plattformer en årlig vurdering av
-potensielle risikoer ved tjenesten deres, og at de
-reduserer risikoen på en effektiv og proporsjonal
-måte.
-Et tredje spørsmål er hvordan aldersgrensen
-skal verifiseres. Skjermbrukutvalgets ekspertgruppe av ungdom støtter ikke en strengt verifisert aldersgrense. De mener at man ikke bør
-sperre alle ute, men at man i stedet må gjøre noe
-med det som er skadelig, og gi barn og unge opplæring i trygg bruk. Det er også ofte slik at ungdom finner en vei rundt aldersgrenser og en
-nasjonal aldersgrense vil trolig enkelt kunne
-omgås. Det er ikke et argument mot aldersgrenser i seg selv, men det vil gjøre tiltaket mindre
-effektivt. En aldersgrense kan også ha noen utilsiktede negative konsekvenser. Ekspertgruppen
-av ungdom peker på at hvis barn og unge opplever noe ubehagelig på sosiale medier de egentlig ikke skulle vært på, kan det heve terskelen for
-å oppsøke trygge voksenpersoner for å få hjelp.
-Verifisering med elektronisk ID for å delta i
-sosiale medier har i seg selv noen prinsipielt
-7
-8
-
-Prop. 66 LS (2023-2024)
-PEGI (2024)
-
-209
-
-Kapittel 17
-
-betenkelige sider. Det kan blant annet gjøre det
-vanskeligere å være anonym, noe som kan heve
-terskelen for å delta i offentlig debatt eller for å ta
-kontakt med digitale hjelpetjenester. Imidlertid er
-en løsning for å verifisere alder også den eneste
-måten å sikre reell alderstilpasning på, og det kan
-finnes tekniske måter å løse de uheldige sidene
-på. Utvalget besitter ikke juridisk og teknisk
-kompetanse til å vurdere konsekvensene ved
-ulike verifiseringsløsninger. Utvalget støtter regjeringens arbeid med å utrede hvordan man kan
-sikre reell aldersverifisering på plattformene. I
-arbeidet med å utrede løsninger for verifisering er
-det sentralt å sikre at barn og unges rettigheter
-ivaretas. Retten til personvern, deltakelse, og
-beskyttelse må sikres.
-
-17.2.2 Sosiale medier og dataspill må
-reguleres
-Et mål for utvalget er som nevnt at barn og unge
-skal ha tilgang til alderstilpassede og trygge
-plattformer på nett. For å oppnå det bør myndighetene tilstrebe å beholde de positive sidene ved
-sosiale medier og dataspill, og begrense de negative. Selv om noe kan løses med aldersgrenser
-som er satt ut fra hensynet til barn og unge, vil
-ikke det løse alt. Uavhengig av aldergrenser er
-det også behov for målrettede tiltak rettet mot de
-problematiske egenskapene i sosiale medier og
-dataspill.
-Som tidligere omtalt vil EU-forordningen for
-digitale tjenester (DSA) bli sentral for å beskytte
-barn og unge på plattformene, se boks 17.1. Foreløpig er ikke DSA implementert i norsk rett, selv
-om forordningen trådte i kraft i EU i november
-2022. Utvalget vil oppfordre myndighetene til å
-høyt prioritere arbeidet med å gjennomføre DSA i
-norsk rett, og at beskyttelse av barn og unge mot
-skadelig innhold og skadelig design prioriteres
-høyt i oppfølgingen av DSA. Det må også legges
-til rette for effektiv håndheving.
-Utvalget har pekt på at det finnes egenskaper
-og designvalg i sosiale medier som kan gjøre at
-barn og unge bruker mer tid enn de ønsker på
-plattformene. Trolig vil ikke designvalg som gir
-en uendelig strøm av innhold, inkludert evig
-skrolling og autoavspilling, dekkes av det DSA
-omtaler som «dark patterns», men vurdering av
-slike mekanismer er trolig relevant i risikovurderingen som tjenestene pålegges. Utvalget mener
-at det er behov for å regulere slike mekanismer
-for «avhengighetsskapende design» tydeligere,
-og særlig i plattformer som brukes av barn og
-unge. Barn og unge har i mindre grad utviklet
-
-[Side 212]
-
-210
-
-Kapittel 17
-
-NOU 2024: 20
-Det digitale (i) livet
-
-kognitive ferdigheter til å håndtere forstyrrelsene og de avhengighetsskapende mekanismene
-i digital teknologi på en god måte. Norske
-myndigheter bør bidra i det internasjonale arbeidet på dette området.
-Utvalget har pekt på at anbefalingsalgoritmer
-kan ta barn og unge ned i såkalte kaninhull der
-innhold blir mer og mer ekstremt, og at det kan
-bidra til at sosiale medier blir et høyrisikomiljø for
-noen barn og unge. Barn og unge er ikke bare
-mottakere av innhold. Noen ganger er de også
-skapere av innhold som kan være skadelig for
-andre. Det kan være enkelt å mene at ungdom
-som skader seg selv, ikke bør se selvskadingsinnhold. Samtidig kan innhold som tar opp temaet
-selvskading også være helseinformasjon og råd
-om hjelpetilbud, som bør være tilgjengelig.
-Sosiale medier kan også bidra til at ungdom
-kommer i kontakt med andre som sliter med det
-samme som dem. Det kan forsterke problemer,
-men det kan også være til hjelp og støtte. Hvordan
-innhold skal reguleres og modereres på plattformene, er et juridisk komplekst tema som må
-vurderes opp mot ytringsfriheten, og som utvalget
-ikke har kompetanse til å vurdere fullt ut. Men
-utvalget vil peke på at kravene i DSA om at de
-store plattformene og søkemotorene skal vurdere
-risikoen i sine systemer og iverksette tiltak, også
-vil dekke denne tematikken.
-Ifølge regjeringens dataspillstrategi Tid for
-spill skal regjeringen arbeide for streng regulering av lootbokser i forbrukerregelverket og i lys
-av EUs arbeid på området. Regjeringen vil også
-styrke kunnskap og veiledning om lootbokser og
-mikrotransaksjoner i dataspill, og inkludere forbrukerproblemer med lootbokser og andre problematiske aspekter ved markedsføring og kjøp i
-dataspill. Utvalget støtter dette arbeidet, og mener
-at norske myndigheter bør være en pådriver for
-internasjonal og effektiv regulering av pengespilllignende elementer i dataspill.
-Sosiale medier og dataspillplattformer gir
-muligheter for foreldrekontroll som kan gjøre
-brukeropplevelsen for barn og unge tryggere,
-men det er ikke alle foreldre som benytter seg
-av disse mulighetene. Det krever kunnskap og
-tid å sette seg inn i slike løsninger og innstillinger, noe ikke alle foreldre har. Utvalget mener
-derfor at det er et viktig krav i DSA at plattformer som barn har tilgang til, bør innføre tiltak for å ivareta barns personvern, trygghet og
-sikkerhet når de bruker tjenesten. Et eksempel
-er at det høyeste nivået av personvern, trygghet
-og sikkerhet settes som standard for brukere
-under 18 år. Utvalget mener også at platt-
-
-formene i større grad må gjøre mulighetene for
-foreldrekontroll lett tilgjengelige og enkle å
-bruke og forstå.
-
-17.2.3 Utvalgets anbefalinger
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
-Utvalget vil oppfordre myndighetene til å høyt
-prioritere arbeidet med å gjennomføre EU-forordningen om digitale tjenester (DSA) i norsk
-rett, og at beskyttelse av barn og unge mot
-skadelig innhold og skadelig design, og effektiv håndheving, prioriteres høyt i oppfølgingen
-av lovverket.
-Norske myndigheter bør være en pådriver for
-internasjonal og effektiv regulering av
-avhengighetsskapende egenskaper ved sosiale
-medier og pengespill-lignende elementer i
-dataspill.
-Utvalget støtter ikke en myndighetsbestemt
-aldersgrense for alle sosiale medier. Plattformene bør sette aldersgrenser for sine tjenester, ut fra en vurdering av innholdet og
-funksjoner i tjenesten. Myndighetene bør føre
-effektivt tilsyn, med mulighet for sanksjoner,
-med at tjenestene overholder aldersgrensene
-og tilbyr alderstilpassede tjenester.
-Plattformene bør sette grunninnstillinger på
-det høyeste trygghetsnivået, og innstillinger
-for foreldrekontroll bør være lett tilgjengelige
-og enkle å forstå.
-Utvalget støtter regjeringens arbeid med å
-utrede hvordan man kan sikre trygg og reell
-aldersverifisering på plattformene. I dette
-arbeidet er det sentralt å sikre at barn og unges
-rettigheter ivaretas. Rettighetene til personvern, deltagelse, og beskyttelse må balanseres.
-Plattformene må ha større åpenhet og dele
-data med myndigheter og forskere. Det er viktig for å få mer kunnskap om hvordan egenskaper i plattformene faktisk fungerer, og
-hvilke konsekvenser det har for brukerne.
-Dette er særlig viktig for tjenester som også
-brukes av barn og unge.
-
-17.3 Balanse og trygge digitale miljøer
-i barnehage og skole
-Barnehagebarn og elever har rett på en trygg
-digital hverdag. I utvalgets arbeid har det blitt
-tydelig at det er store forskjeller mellom kommunene, både i hvordan og hvor mye digitale løsninger brukes, og i lærernes profesjonsfaglige
-digitale kompetanse. Ulike barnehage- og skoleeiere har også ulik kompetanse og ressurser, noe
-
-[Side 213]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-som viser seg i ulik digital infrastruktur for å
-håndtere personvern, sikkerhet og innholdsbegrensninger. Det er krevende for den enkelte
-kommune å sette seg inn i lisensavtaler for digitale ressurser og vurdere om de oppfyller kravene
-til universell utforming, personvern og sikkerhet.
-Alle barn har rett til å delta på lik linje i utdanning.
-Det er allerede krav til universell utforming i læremidler i skolen, men en rapport fra Tilsynet for
-universell utforming av IKT viser at de ikke etterleves, og at skolene mangler systemer og kompetanse til å ta i bruk teknologi på en inkluderende
-måte.
-Flere av organisasjonene i referansegruppen til
-utvalget peker på at kommuner og fylkeskommuner har ulikt handlingsrom, både i økonomi og kompetanse, til å jobbe med den digitale
-infrastrukturen. Norsk Lektorlag ser blant annet at
-det har ført til for stor variasjon i kvaliteten i digital
-infrastruktur på ulike skoler. Også Utdanningsforbundet, Barneombudet og Unge funksjonshemmede ser utfordringer med dagens praksis,
-for eksempel at mange i skolesektoren mangler
-kompetanse om personvern, informasjonssikkerhet og universell utforming. Utvalgets ekspertgruppe av ungdom ser det som en hovedutfordring at det er store forskjeller mellom digital
-infrastruktur på skolene, noe som kan føre til ulikhet i undervisning og kompetanse – både faglig og
-digital.
-
-17.3.1 Balansert og begrenset skjermbruk
-i barnehagen
-Utvalget erfarer at diskusjonen om skjermbruk i
-barnehagen ofte handler om bruk av nettbrett,
-datamaskin eller andre former for passiv skjermbruk. Utvalget ønsker å understreke at bruken av
-teknologi i barnehagen ofte er noe annet eller noe
-mer enn det vi ofte tenker på som skjermbruk.
-Det kan for eksempel være bruk av roboter som
-skal komme seg gjennom en fysisk løype, perleoppskrifter på et nettbrett, eller en prosjektor som
-viser en eventyrverden samtidig som det leses
-høyt fra en bok. Denne nyanseringen mener utvalget er viktig å ha med når man diskuterer skjermbruk i barnehagen.
-Uavhengig av hvilket digitalt verktøy som
-brukes, mener utvalget at digital teknologi i
-barnehagen alltid skal brukes sammen med
-ansatte og ha en pedagogisk intensjon. Dette er i
-tråd med føringene i rammeplanen. Barnehager
-rapporterer at bruken er begrenset, og at når digital teknologi først brukes er det som oftest som
-del av en aktivitet og sjelden som avlastning for
-
-211
-
-Kapittel 17
-
-personale. Det er likevel en økning av bruk av
-skjerm som avlastning. Utvalget understreker at
-slik bruk ikke skal forekomme. Barnehageeier er
-ansvarlig for at det er nok ansatte til å gi barna et
-godt pedagogisk tilbud. Utvalget mener det er viktig å ha en god dialog med foreldrene om hvordan
-digital teknologi brukes i barnehagen.
-Forskning finner ingen fordeler med skjermbruk for de aller yngste barnas utvikling. Bruk av
-digitale skjermer kan også øke risikoen for nærsynthet blant yngre barn. Skjermbruk i aldersgruppen null til to år bør derfor være svært
-begrenset. Når barn mellom to og fem år skal
-bruke en skjerm, bør skjermbruken være alderstilpasset og sammen med voksne. Disse anbefalingene, og utvalgets anbefaling om å unngå
-skjermer under måltider, er også relevante for
-barnehagen.
-
-17.3.2 Trygg og inkluderende digital
-infrastruktur i skolen
-I likhet med flere av organisasjonene i referansegruppen mener utvalget at det ikke er hensiktsmessig ressursbruk at den enkelte kommunen må
-utvikle egne digitale løsninger, slik tilfellet er i dag.
-Det gir for store forskjeller i tilbudet til elevene.
-Barn og unge har rett til å delta på like vilkår. I tillegg har de rett til beskyttelse av personvern og
-beskyttelse mot skadelig innhold. Utvalget mener
-derfor at staten bør ta ansvar for flere aspekter av
-den digitale infrastrukturen, blant annet å oppfylle
-kravene til at de digitale løsningene er universelt
-utformet, og at personvernet til elevene ivaretas på
-skolens enheter og verktøyene som brukes. Det
-innebærer også at staten bør bistå kommunene
-med å utvikle filtre som blant annet sikrer en reklamefri skole, unngår forstyrrelser og sperrer tilgang
-til skadelig innhold. Foreldrekontroll på digitale
-enheter som sendes hjem med elever på barneskolen, er også en viktig funksjon. Bruk av kunstig
-intelligens stiller nye krav til løsninger i skolen, og
-disse må også tas tak i sentralt.
-Fordelene med at staten tar et større ansvar
-for digital infrastruktur og universell utforming er
-at tilbudet til elevene blir mindre avhengig av økonomi og kompetanse i hver kommune. Det kan
-også frigjøre midler til å kjøpe andre læremidler
-og ressurser. Slik kan skolene, lærerne, elevene
-og foreldrene også være sikrere på at de digitale
-enhetene og verktøyene elevene bruker, er
-trygge, inkluderende og kvalitetssikret.
-Det at staten skal ta en større rolle, må imidlertid ikke gå på bekostning av den lokale handlefriheten. Skoleeier er ansvarlig for elevene og
-
-[Side 214]
-
-212
-
-Kapittel 17
-
-NOU 2024: 20
-Det digitale (i) livet
-
-ansatte på sine skoler og må ha nødvendig kompetanse på digitalisering for å ivareta dette ansvaret.
-Innholdsbegrensninger og foreldrekontroll må
-heller ikke bli en hvilepute. Denne typen løsninger vil aldri være hundre prosent effektive og
-det vil alltid være mulig å komme rundt digitale
-sperrer. I tillegg har mange elever egne enheter
-hjemme som de bruker på fritiden. Derfor er det
-viktig å jobbe med digital dømmekraft gjennom
-hele opplæringsløpet.
-I 2023 kom Kunnskapsdepartementet med
-Strategi for digital kompetanse og infrastruktur i
-barnehage og skole, som skal vare til 2030. Med
-denne strategien ønsker regjeringen å gi kommunene og fylkeskommunene tydeligere støtte i
-møte med nye teknologier, digitale verktøy i opplæringen og det økende presset på barn og unges
-personvern. Strategien er skrevet sammen med
-kommunesektorens organisasjon (KS). KS, Skolelederforbundet, Utdanningsforbundet og Foreldreutvalget i grunnopplæringen har deltatt i
-utvalgets referansegruppe, og mener at utvalgets
-arbeid bør sees i sammenheng med strategien.
-Utvalget mener at digitaliseringsstrategien inneholder gode tiltak som treffer de største utfordringene i det digitale skolemiljøet i dag. Derfor er
-det viktig at strategien følges opp så raskt som
-mulig, og at det settes av nok ressurser til å følge
-opp punktene.
-I arbeidet til utvalget har det også kommet
-inn forslag om at staten bør regulere hvilke digitale enheter som skal brukes i skolen, på hvilket
-trinn ulike typer enheter bør innføres, hva slags
-teknisk utstyr elevene bør ha tilgang til, og om
-enhetene kan sendes med hjem. En fordel med å
-regulere dette sentralt er at skillene mellom
-elever i ulike kommuner blir mindre. Ekspertgruppen av ungdom ønsker at det skal være likt
-for alle elever i Norge, og mener at barn i småskoletrinnene ikke trenger sin egen enhet som
-blir med hjem. På den andre siden vil dette være
-i strid med sentrale prinsipper som lærerens
-metodefrihet og kommunens selvråderett. En
-slik liste over utstyr skolene skal tilby (eller ikke
-tilby) blir fort utdatert når nye løsninger og
-enheter kommer på markedet. Det kan også
-være konkurransevridende. Et viktig poeng for
-utvalget er at begrensninger i hvilket utstyr som
-kan tas med hjem, kan føre til større sosial ulikhet mellom dem som kommer fra familier som
-har råd til eget digitalt utstyr, og dem som ikke
-gjør det. Innspillet fra Redd Barna peker på at
-begrensninger i tilgang til nett og IKT-utstyr er
-barrierer for å kunne delta i det digitale samfunnet. Flere av skole- og lærerorganisasjonene,
-
-slik som KS og Utdanningsforbundet, er imot
-disse forslagene med begrunnelse i lokal handlefrihet og lærerens metodefrihet. Utvalget støtter
-lærernes metodefrihet og mener at skolene og
-kommunene må kunne ta de valgene som passer
-best i deres tilfelle. Utvalget vil derfor ikke forslå
-sentrale regler for digitale enheter i skolene.
-Et mindre inngripende tiltak er at staten støtter
-skoleeiere med veiledning om infrastruktur. Tilgang til gode støttetjenester vil gjøre det lettere
-for skoleeierne, skolelederne og den enkelte læreren å gjøre gode valg for seg og sine elever. Alle
-organisasjonene i referansegruppen er positive til
-at staten tar mer ansvar for veiledning. Foreldreutvalget i barnehagen minner om at det også må
-gjelde for barnehagen. Det at staten skal ta en
-større veiledningsrolle, er allerede besluttet i
-regjeringens strategi for digital kompetanse og
-infrastruktur i barnehagen og skolen. Utdanningsdirektoratet har fått et oppdrag der de skal se på
-hvordan man best kan etablere en eller flere felles
-støttetjenester for ivaretagelse av personvern,
-informasjonssikkerhet og universell utforming i
-digitale læremidler og læringsressurser. Dette
-mener utvalget er et viktig oppdrag som bør prioriteres høyt fremover.
-Måltider kan være en viktig sosial arena i
-barnehager og skole. Noen skoler og skolefritidsordninger viser film eller nyheter for barn på storskjerm under matpauser. Flere av organisasjonene i referansegruppen til utvalget uttrykker
-bekymring for skjermbruk under måltider i
-skolen. Skjermbruk under måltider er ikke i tråd
-med veileder for helse og miljø i barnehager,
-skolen og skolefritidsordninger. Utvalget mener
-skoler bør begrense denne praksisen slik at måltidene blir en sosial arena for barna.
-
-17.3.3 En skole med balanse i læremidler, hvor
-lærerens metodefrihet står sterkt
-Skolen har et stort og omfattende oppdrag med å
-danne og utdanne elevene slik at de skal mestre
-livet sitt og delta i samfunnet. Elevenes alder og
-modenhet er avgjørende i valg om når og hvordan
-digital teknologi skal inngå i opplæringen.
-Elevene skal oppleve en variert skolehverdag, og digital teknologi er en viktig del. Digital
-teknologi kan støtte læring og motivasjon, gjøre
-det mulig å tilpasse undervisningen til hver elevs
-faglige nivå, og inkludere flere elever i undervisningen. Men digital teknologi har også noen
-egenskaper som kan virke negativt på elevens
-læring og motivasjon. Mye informasjon i form av
-lyder, bilder, videoer og tekst kan distrahere
-
-[Side 215]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-elevene, spesielt de yngste. Det er også kognitivt
-utfordrende å holde fokus når man må skifte
-mellom ulike faner, og skrolling kan gjøre det
-vanskelig å orientere seg og få oversikt. Det er
-flere forstyrrelser på digitale enheter som kan
-hindre elevens konsentrasjon, og det stiller store
-krav til elevens selvregulering. Barn og unge har
-også i mindre grad kognitive ferdigheter til å
-håndtere forstyrrelsene og de avhengighetsskapende mekanismene i digital teknologi på en
-god måte. Mangel på universell utforming av
-digitale ressurser kan også stå i veien for likeverdig deltagelse for elever med funksjonsnedsettelser. To av de største utfordringene som
-trekkes frem av ungdommene som utvalget har
-snakket med, er hvordan teknologien påvirker
-konsentrasjonsevnen, og at det er vanskelig å
-legge fra seg skjermen. Utvalget mener at
-bruken av teknologi må ta hensyn til at barn og
-unge ikke er ferdig utviklet kognitivt. Dette
-gjelder også i skoler og barnehager.
-Kunnskapsgrunnlaget tyder på at for mye bruk
-av digitale skjermer kan øke risikoen for nærsynthet blant yngre barn. Langvarig og ensidig bruk av
-digitale skjermer kan også gi hodepine og muskelog skjelettplager. Dette er også et moment som
-barn og unge utvalget har snakket med fremhever.
-Flere sier at de har vondt i hodet i løpet av en
-skoledag og at de opplever at skolen legger for lite
-vekt på fysisk helse i forbindelse med skjermbruk.
-Det er gjerne ikke lagt til rette for god ergonomi,
-og de har ofte for lave pulter og ikke tilgang på stor
-skjerm, tastatur eller mus. Derfor mener utvalget
-at man i større grad bør vektlegge de ergonomiske
-forholdene ved bruk av digitalt utstyr både
-hjemme og i skolen.
-Skolen har som resten av samfunnet vært
-gjennom store endringer som følge av digitalisering de siste 10–20 årene. Utvalget ønsker å bidra
-til en mer opplyst og mindre polarisert diskusjon
-om skjermbruk i skolen. Utvalget vil understreke
-at skjermbruk som del av skolens pedagogiske
-arbeid er noe annet enn elevenes fritidsbruk.
-Dette er også noe Utdanningsforbundet, KS og
-Skolelederforbundet i referansegruppen påpeker
-i sine innspill til utvalget. Det at barn og unge bruker skjerm mer på fritiden, er etter utvalgets vurdering ikke et argument i seg selv for å redusere
-skolebruken. Deler av digitaliseringen av skolen
-har nok vært preget av både teknologioptimisme
-og av prøving og feiling, og ikke alle beslutninger
-har vært like veloverveide eller forankret i
-forskning. Utvalget mener samfunnsdebatten den
-siste tiden om skjermbruk i skolen har vært både
-nødvendig og sunn. At lærere og elever nå har
-
-213
-
-Kapittel 17
-
-blitt mer vant til og tryggere i å bruke de digitale
-teknologiene er et godt utgangspunkt for en mer
-målrettet, pedagogisk, didaktisk og kritisk bruk
-som gir bedre balanse.
-Flere av skole- og lærerorganisasjonene i
-utvalgets referansegruppe er skeptiske til tiltak
-som regulerer hvilken type læremidler skolene
-skal ha. Staten legger vanligvis ikke føringer for
-valg av læremidler på andre områder. Utvalgets
-ekspertgruppe av ungdom er bekymret for at
-strengere krav i læreplanverket i bruken av ulike
-læremiddel vil gjøre undervisningen mindre
-gjennomtenkt og mindre variert, og dermed
-kunne gå utover motivasjon hos elevene.
-Utvalget har stor tillit til læreres og skolelederes vurderinger med tanke på å balansere bruk
-av digital teknologi i skolen. Prinsippet om lærerens metodefrihet skal og bør stå sterkt i norsk
-skole. Det er læreren som kjenner sine elever best,
-og som er best kvalifisert til å bestemme hvordan
-undervisningen skal legges opp i sine fag. Derfor
-er det viktig å støtte lærerne, og gjøre dem i stand
-til å ta gode profesjonsfaglige valg i sine digitale
-klasserom. For å ha metodefrihet må lærerne også
-ha reell frihet til å velge læremidler. I mange skoler
-er ikke det tilfellet i dag. Lærerens mulighet til å
-kunne velge det læremidlet som passer den pedagogiske konteksten best, enten det er analogt eller
-digitalt, er viktig for elevens læringsutbytte. Derfor
-mener utvalget at staten og skoleeier bør sikre
-ressurser for både analoge og digitale læremidler
-av høy kvalitet som kan styrke læring, kreativitet
-og motivasjon.
-Tiltak for å styrke lesing i skolen
-I mandatet er det spesifisert at utvalget skal se
-spesielt på om, og eventuelt hvordan, skjermbruk påvirker leseferdigheter og evnen til dybdelesing. Bakgrunnen er at leseferdighetene går
-drastisk ned hos norske elever i både nasjonale
-og internasjonale undersøkelser, og at norske
-elever rapporterer om lav leseglede og mindre
-lesing på fritiden. Videre analyser av resultatene
-fra undersøkelsene PISA og PIRLS viser at økt
-skjermbruk i skolen kan forklare en del av nedgangen i leseferdigheter, på samme måte som
-virkninger av pandemien også er en del av forklaringen. Utvalget mener at forskningsfunnene
-om lesing er tilstrekkelig tydelige på at lesing av
-lengre sammenhengende tekster er viktig for å
-utvikle gode leseferdigheter, men også for å
-utvikle kognitive ferdigheter som kritisk tenkning, og å stå i oppgaver som krever konsentrasjon og oppmerksomhet over tid. Utvalget kan
-
-[Side 216]
-
-214
-
-Kapittel 17
-
-NOU 2024: 20
-Det digitale (i) livet
-
-derfor anbefale at mer av lesingen i skolen bør
-foregå med trykte bøker. Anbefalingen må balanseres opp mot hensynet til elever som trenger
-spesiell tilrettelegging, for eksempel barn og
-unge med dysleksi.
-Utvalget har fått forslag om å innføre langlesing i trykte bøker som nytt fag. Å ha langlesing
-som et eget fag vil kunne sikre at lesing av lengre
-tekster på papir prioriteres i skolen. Andre muligheter er å endre læreplanene i fag ved å innføre
-krav om langlesing og lesing på papir, eller å
-utforme egne kompetansemål knyttet til langlesing i trykte bøker i fag der lesing av tekst er en
-hovedkomponent. En annen løsning kunne vært
-et krav om bruk av trykte lærebøker i alle fag der
-lesing av tekst utgjør en hovedkomponent.
-Alle disse løsningene vil kreve endringer i
-læreplanverket. Langlesing som nytt fag vil også
-kreve endringer i fag- og timefordeling. Det er
-ikke nødvendigvis skolens eller barnehagens
-ansvar å kompensere for at barn og unge leser
-mindre på fritiden. Unge funksjonshemmede
-minner om at rett balanse mellom skjerm og papir
-ikke er det samme for alle elever. De mener at det
-viktigste er at elevene får den tilretteleggingen de
-trenger for å få leseglede og lesetrening.
-Skolebibliotekene spiller en viktig rolle i å
-bidra til skolens arbeid med å styrke elevenes
-leseferdigheter, evne til å lese lengre tekster, og
-med å stimulere til leselyst. Å gi alle barn og unge
-lik tilgang til gode leseopplevelser kan også være
-viktig med tanke på sosial utjevning. Regjeringens
-leselyststrategi Sammen om lesing, ble lagt frem i
-mai i år. Strategien legger blant annet kunnskapsgrunnlaget om lesing i skjermbrukutvalgets
-temanotat fra desember 2023 til grunn for sine tiltak. Tiltakene i strategien handler om leseopplæring, tilgang til variert litteratur og formidling av
-variert litteratur. Regjeringen skal gjennom strategien etablere en nasjonal satsing for å styrke kvaliteten på leseopplæringen i skolen og for å bidra til
-god litteraturformidling i SFO og barnehagen.
-Strategien prioriterer å satse på skolebibliotekene
-og gi barnehagebarn bedre tilgang på bøker. Strategien bygger videre på, og vil styrke arbeidet
-med, fagfornyelsen, slik at det fulle potensialet i
-de nye læreplanene kan utløses.
-Tiltakene i leselyststrategien adresserer de
-fleste av utvalgets diskuterte tiltak om lesing, og
-utvalget støtter tiltakene i strategien. For eksempel skal regjeringen gi tilskudd til kommunene til
-innkjøp av trykte bøker for å skape en bedre
-balanse mellom skjerm og bok i skolen. Utvalget
-vil minne om at hvis målet er god balanse er det
-ikke bare trykte læremidler som må sikres,
-
-skolene må også ha gode digitale læremidler.
-Elevene trenger også trening i å utvikle gode lesestrategier på tvers av medier, teksttyper og formål
-med lesingen.
-
-17.3.4 Utvalgets anbefalinger
-Anbefalinger til myndighetene
-–
-
-–
-
-–
-
-Utvalget støtter tiltakene i regjeringens Strategi for digital kompetanse og infrastruktur i
-barnehage og skole. Strategien bør følges opp så
-raskt som mulig og det bør gis nok ressurser til
-å følge opp tiltakspunktene.
-Staten bør vurdere om dagens nivå på det
-totale tilskuddet til læremidler i skolen, er tilstrekkelig til å gi elevene et variert tilbud og
-læreren reell metodefrihet til å velge mellom
-analoge og digitale læremidler.
-Utvalget støtter tiltakene i regjeringens leselyststrategi Sammen om lesing, inkludert tiltakene som skal styrke leseopplæringen i
-skolen, styrke skolebibliotek og skape bedre
-balanse mellom skjerm og trykte bøker i
-skolen. Utvalget støtter også tiltaket om å opprette en ny tilskuddsordning for å bidra til økt
-samarbeid mellom barnehager og folkebibliotek til at barnehagebarn for bedre tilgang til
-bøker.
-
-Anbefalinger til skoler og barnehager, og deres eiere
-–
-
-–
-–
-–
-–
-
-–
-–
-–
-
-Sørg for god balanse mellom digitale teknologier og trykte bøker i skole og barnehage.
-Trykte bøker er særlig viktig når elevene skal
-forholde seg til mye tekst.
-Sett av tilstrekkelig tid til å lese lengre sammenhengende tekster i skolen og til høytlesning i barnehagen.
-Begrens digitale distraksjoner i skoletiden og
-hjelp elevene til å regulere skjermbruk.
-Unngå skjermbruk under måltidene.
-Vær opptatt av elevens ergonomi ved bruk av
-digitale enheter og verktøy, for eksempel sittestilling, skjermstørrelse og tilgang på tastatur
-og mus.
-Ta ansvar for å veilede foreldre i bruk av digitale løsninger som eleven bruker i skolearbeidet.
-Sørg for at digitale enheter har mulighet for foreldrekontroll hvis de yngste skolebarna skal ha
-den med seg hjem.
-Ansatte i skolen og i barnehagen bør være
-bevisste på at egen skjermbruk kan virke forstyrrende for lek og læring, og bør begrense
-
-[Side 217]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-bruken av mobiltelefon og andre digitale
-enheter når de er sammen med barna.
-
-17.4 Bedre digital kompetanse
-Skjermbrukutvalgets ekspertgruppe av ungdom
-har pekt på at for lav digital kompetanse er et
-hovedproblem – både hos barn og unge selv, foreldre, lærere og IKT-ansvarlige på skolene, og hos
-myndighetene. Også Elevorganisasjonen mener
-at mange lærere har for lav digital kompetanse i
-skolen i dag. De aller fleste organisasjonene i referansegruppen peker på at å heve den profesjonsfaglig digitale kompetansen hos lærerne, og øke
-den digitale kompetansen hos elevene og andre
-ansatte i skolen, er svært viktig for å bruke digitale teknologier på en best mulig måte.
-I hovedsak er det måten den digitale teknologien brukes på, som avgjør hvordan den bidrar til
-elevenes læring. Å utnytte potensialet i digitale
-enheter og læremidler i skolen krever noe nytt av
-skolen, lærerne, elevene og undervisningen. Det
-samme gjør de nye læreplanene som krever en
-mer aktiv og utforskende elevrolle. I dag er det
-store kompetanseforskjeller mellom lærere, og de
-har ulike muligheter til å velge og tilpasse læremidler etter den pedagogiske praksisen. Disse forskjellene vil kunne gi utslag i kvaliteten på opplæringen og bruken av skjerm. En rekke faktorer
-må spille sammen for å legge til rette for elevens
-læring med digital teknologi.
-På fritiden vil det også være forskjeller i
-kompetanse til de voksne som barn har rundt seg
-og i hvilken grad de kan bidra med veiledning og
-støtte. Som vi belyste i kapittel 6 om digitale
-dilemmaer i familiene, er det forskjeller i hvordan
-foreldre regulerer og engasjerer seg i barnas
-skjermbruk.
-For at barn og unge skal få mer balansert,
-sunn og trygg skjermbruk, trengs det et løft i den
-digitale kompetansen til hele laget rundt barnet,
-og hos barn og unge selv. I det følgende går
-utvalget gjennom tiltak som kan bidra til dette.
-
-17.4.1 En tydelig beskrivelse av elevenes
-digitale kompetanse i skolen
-For at skolen skal gjøre elevene godt rustet til å
-møte dagens og fremtidens samfunn, må de få
-digital kompetanse gjennom skolen. Skolen er
-den eneste arenaen hvor alle barn og unge er.
-Det gjør også skolens opplæring i digital kompetanse til en viktig arena for sosial utjevning. Digitale ferdigheter er en av fem grunnleggende
-
-215
-
-Kapittel 17
-
-ferdigheter i skolen, sammen med regning,
-lesing, skriving og muntlige ferdigheter. Men
-digitale ferdigheter befinner seg på et annet nivå
-enn de andre grunnleggende ferdighetene, ettersom elevene både leser, skriver, regner og uttrykker seg muntlig gjennom digital teknologi. Som
-kunnskapsgrunnlaget viser, er digital kompetanse godt og detaljert beskrevet gjennom læreplanene i fag. Innholdet i digitale ferdigheter kan
-imidlertid oppleves som komplekst og uoversiktlig.
-Nyere forskning fra evaluering av nye læreplaner viser at det er store variasjoner i elevenes
-digitale kompetanse, og at elevene mister mye
-undervisningstid fordi de trenger bistand i enkle
-oppgaver som å finne igjen dokumenter og lagre i
-rett mappe. Samtidig har mange elever svært
-avansert digital kompetanse, noe trolig fra fritidsbruk. Også lærere har variert grad av digital
-kompetanse og dermed ulik mulighet til å følge
-opp elevene.
-Flere av lærerorganisasjonene uttrykker at de
-digitale ferdighetene er for utydelig beskrevet i
-læreplanverket. I motsetning til de andre grunnleggende ferdighetene har ikke digitale ferdigheter et «hjemmefag» og måles heller ikke i nasjonale prøver. Dette gjør at det varierer hvilket
-ansvar lærere opplever at de har for å utvikle
-elevens digitale kompetanse. Dette kan skape
-usikkerhet for elever, lærere og foreldre.
-I utvalgets arbeid har det dukket opp flere forslag til tiltak for å forbedre elevenes digitale
-kompetanse. Ett av dem har vært å opprette et
-nytt teknologifag i skolen. Et slikt fag kan gi bedre
-mulighet til å jobbe tverrfaglig og praktisk med
-teknologi og å gjøre digital kompetanse mer konkret i opplæringen. I mange europeiske land er
-teknologi et eget fag. Utvalgets ekspertgruppe av
-ungdom er positive til et teknologifag. De mener
-at det ikke trenger å være et stort fag eller et fast
-fag på hvert trinn. Det største hinderet for å foreslå et nytt fag i skolen er stofftrengsel. Hvis noe
-nytt skal inn, må noe ut. Hvilket fag skulle i så fall
-fått færre timer? Utvalgets ekspertgruppe av ungdom ønsker ikke at et slikt fag skal gå på bekostning av andre «småfag» som ofte er praktiske og
-som de liker godt. Et eget teknologifag vil kreve at
-læreplanen revideres, og at det utdannes lærere til
-å undervise i faget. Et eget fag kan dessuten føre
-til mer silotenkning rundt digital kompetanse, i
-motsetning til intensjonen om kompetansen er
-viktig i de fleste fag. Skole- og lærerorganisasjonene og KS er stort sett samstemte i at et eget
-teknologifag ikke er en god ide, særlig med tanke
-på at den gjeldende læreplanen er ny, og at det tar
-
-[Side 218]
-
-216
-
-Kapittel 17
-
-NOU 2024: 20
-Det digitale (i) livet
-
-tid å innføre endringer. Utvalget mener derfor at
-dette ikke er riktig tidspunkt for å foreslå et eget
-teknologifag i skolen, men at det kan vurderes på
-lengre sikt, for eksempel i forbindelse med neste
-revisjon av læreplanen. Et teknologifag bør i så fall
-være et praktisk fag, og ikke gå på bekostning av
-elevenes utvikling av digital kompetanse i de
-andre fagene.
-Et annet alternativ er å endre læreplanen slik
-at ett fag har et særskilt ansvar for den grunnleggende opplæringen i digitale ferdigheter, slik
-som tilfellet er for de andre grunnleggende ferdighetene. Slik kan man sikre at elever i begynneropplæringen får grunnleggende opplæring i digitale ferdigheter. Forslaget kan også bidra til å
-gjøre opplæringen mer effektiv ved at ikke alle
-lærere må undervise elevene i grunnleggende
-funksjonalitet som å lagre digitalt arbeid og finne
-det igjen. En utfordring vil være å bestemme
-hvilket fag som skal få ansvaret for digitale ferdigheter. Det er tydeligere hvor i opplæringen de fire
-andre ferdighetene hører hjemme. Selv begynneropplæringen i digitale ferdigheter spenner fra
-digital dømmekraft til å lage animasjonsfilm og å
-bruke regneark. Også her er det relevant å huske
-på at skolen nettopp har fått nye læreplaner, og at
-de trenger tid på å etablere seg.
-En annen mulig løsning er å fjerne digitale
-ferdigheter fra de grunnleggende ferdighetene og
-ivareta digital kompetanse gjennom tydelige
-kompetansemål i fagene. Dette kan gjøre det
-enklere å få oversikt over hva slags digital kompetanse elevene skal utvikle gjennom arbeidet med
-de ulike fagene. Hvis læreplanverket legger vekt
-på digital kompetanse fremfor digitale ferdigheter,
-kan det bli tydeligere at digitale ferdigheter skiller
-seg fra de fire andre grunnleggende ferdighetene,
-og det kan bli lettere å formidle hva kompetansen
-består av. Dette forutsetter imidlertid endringer i
-læreplanverket, og som tidligere nevnt er skoleog lærerorganisasjonene skeptiske til slike
-endringer kort tid etter at de nye læreplanene er
-innført. Å fjerne digitale ferdigheter som grunnleggende ferdighet kan også føre til at det digitale
-nedprioriteres i fagene, i en tid der digitalisering
-stadig blir en større del av hverdagen og i yrker
-som barn- og unge utdannes til.
-Utvalget har ikke endelig konkludert om hvordan digital kompetanse best ivaretas i opplæringen, men ser et behov for at det tydeliggjøres
-hva slags digital kompetanse elevene skal utvikle
-gjennom skoleløpet. I stortingsmeldingen En mer
-praktisk skole som kom like før utvalget leverte sin
-rapport, sier regjeringen at en del av arbeidet med
-å utrede hvordan skolen skal dekke behovene for
-
-digitale ferdigheter, vil være å vurdere innretningen på digitale ferdigheter som en av de
-grunnleggende ferdighetene. Utvalget mener
-dette er et viktig arbeid, og at det bør involvere
-mange ulike aktører fra utdanningssektoren,
-arbeidslivet og elevene selv. Utvalget ønsker å
-understreke at eventuelle endringer i hvordan
-digitale ferdigheter er innrettet, ikke må føre til at
-arbeidet med elevenes digitale kompetanse blir
-nedprioritert i skolen. Utvikling av denne kompetansen er viktigere enn noensinne.
-Det har blitt satset stort på digitalisering i
-norsk skole, men vi vet for lite om elevene
-utvikler den digitale kompetansen læreplanverket
-legger opp til. Når elevenes digitale ferdigheter
-ikke måles, har vi heller ikke informasjon om
-hvilket nivå de er på, eller hvilken progresjon de
-har. Det kan gjøre det vanskeligere for lærere å
-legge til rette for at elevene får en god opplæring.
-Også nasjonale og lokale myndigheter trenger
-informasjon om hvordan det går med elevenes
-læring for å kunne ta nødvendige grep, som å
-justere læreplanen. Utvalget har derfor vurdert
-forslag om å utvikle prøver som måler elevenes
-utvikling i digitale ferdigheter, som i lesing og
-regning. Om digitale ferdigheter testes, kan det
-gjøre at lærere og elever blir mer bevisst helheten i digitale ferdigheter og at de blir bedre
-integrert i opplæringen. Flere i referansegruppen
-er generelt skeptiske til mer testing i skolen. Det
-er ikke nødvendigvis slik at mer testing fører til
-bedre kompetanse. Utvalgets ekspertgruppe av
-ungdom mener at å legge inn enda flere vurderinger vil skape motstand hos elever, og at det
-kan skape enda mer stress og press hos elevene.
-Hvis digitale ferdigheter skal måles, er de mer
-positive til at det testes gjennom nasjonale prøver
-eller internasjonale undersøkelser, enn gjennom
-prøver og vurderinger i for eksempel et teknologifag. Norsk Lektorlag er i utgangspunktet positive til testing, med forbehold om gode definisjoner hvis det skal testes. Ettersom den digitale
-ferdigheten er så kompleks og består av så
-mange ulike elementer, vil det være vanskelig å
-utvikle gode tester som måler mer enn enkle
-ferdigheter. Det viktige er hvordan det digitale
-inngår i kompetansen i et fag, ikke det digitale
-aspektet i seg selv. Utvalget har derfor konkludert med å ikke foreslå innføring av nye tester
-som måler digitale ferdigheter. Men utvalget
-mener det er viktig at Norge fortsetter å delta i
-internasjonale undersøkelser, for eksempel
-ICILS, for å ha et best mulig grunnlag for å
-vurdere elevenes utvikling på området og gjøre
-eventuelle endringer i opplæringen.
-
-[Side 219]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-17.4.2 Lærere med styrket profesjonsfaglig
-digital kompetanse
-Lærere i barnehagen og skolen skal både utvikle
-og vedlikeholde sin egen digitale kompetanse og
-støtte barn og unge i å utvikle digital kompetanse,
-slik at de blir trygge og ansvarlige teknologibrukere. Læreren må ha profesjonsfaglig digital
-kompetanse for å utnytte potensialet i digital
-teknologi. Profesjonsfaglig digital kompetanse er
-også nødvendig for å vurdere når det er bedre å
-bruke digitale verktøy enn analoge verktøy, og
-motsatt. Alle skole- og lærerorganisasjonene i
-referansegruppen mener at det er nødvendig å
-styrke den profesjonsfaglige digitale kompetanse
-hos lærerne. Skolelederforbundet mener i tillegg
-at lederutdanningene må inneholde mer om digital kompetanse. Ansvaret for at lærerne har nødvendig profesjonsfaglig digital kompetanse og at
-lærerne har gode digitale og analoge alternativer
-å velge mellom, ligger på eiere og ledere i barnehage og skole. Utvalget ønsker derfor å understreke at det ikke er riktig å skylde på læreren
-dersom digital teknologi ikke brukes på en god
-nok måte i opplæringen.
-Et forslag til tiltak for å øke lærerstandens profesjonsfaglige digitale kompetanse på lang sikt er
-å stille krav til opplæringen i profesjonsfaglig digital kompetanse for alle lærerutdanninger. Dette
-forslaget støttes av utvalgets ekspertgruppe av
-ungdom og av flertallet i referansegruppen, inkludert KS og lærerorganisasjonene. Både enkelte i
-referansegruppen og andre har gitt innspill til
-utvalget som peker på at nyutdannede lærere ikke
-er godt nok forberedt på den digitale teknologien
-som brukes i skolen. Et slikt krav til opplæring vil
-kunne sikre at alle nyutdannede lærere har den
-nødvendige profesjonsfaglige digitale kompetansen, uavhengig av hvilken type lærerutdanning de
-har gjennomført, og ved hvilken institusjon de har
-fått den. Det er viktig å unngå å bli for opptatt av
-konkrete verktøy, da slik kompetanse fort blir
-utdatert og i tillegg kan være vanskelig å overføre
-til andre typer verktøy som er i bruk på skolene
-de nyutdannede lærerne skal jobbe ved. Hva som
-er nødvendig profesjonsfaglig digital kompetanse
-påvirkes av samfunnsendringer og teknologiutvikling, og det er viktig å holde beskrivelsene på
-et overordnet nivå.
-Et annet tiltak som kan bidra til å heve den profesjonsfaglige digitale kompetansen til lærerne
-som allerede arbeider i barnehager og skoler, er at
-statlige myndigheter kommer med en oppfordring
-til barnehage- og skoleeierne om å prioritere profesjonsfaglig digital kompetanse når de god-
-
-217
-
-Kapittel 17
-
-kjenner videreutdanninger. Det er imidlertid
-begrenset hvor mange lærere kommunene og
-fylkeskommunene kan ha i videreutdanning til
-enhver tid, blant annet med tanke på å skaffe
-vikarer. Utvalget mener barnehage- og skoleeiere
-selv må vurdere hva slags kompetanse de har
-behov for. Utvalget ønsker derfor ikke å si at
-videreutdanning for lærernes profesjonsfaglige
-digitale kompetanse er viktigere enn andre videreutdanninger. Hvis flere søker på studier i
-profesjonsfaglig digital kompetanse, er det dessuten nødvendig at det er nok tilgjengelige studieplasser, og at staten finansierer disse videreutdanningene.
-Barnehagen og barnehageansatte skal følge
-føringene i rammeplanen. Føringene om digital
-praksis er nå ganske åpent formulert. Utvalget har
-sett på et forslag om å definere digital praksis og
-digitale verktøy tydeligere i rammeplanen. Dette er
-flere i referansegruppen kritiske til. Mer detaljerte
-definisjoner vil innskrenke barnehagelærerens
-metodefrihet og vil være krevende å holde oppdatert. Utdanningsforbundet mener at barnehageansatte må ta utgangspunkt i den barnegruppen de
-har, og at rammeplanen må åpne for at innholdet og
-arbeidsmåtene må kunne vektlegges ulikt. Skolelederforbundet mener at føringene i rammeplanen
-er gode nok til å balansere digital teknologi mot
-andre aktiviteter i barnehagen.
-Føringene for digital praksis i rammeplanen
-for barnehager innebærer at barnehageansatte
-skal få utviklet sin profesjonsfaglige digitale
-kompetanse. Det finnes ikke et eget rammeverk
-for profesjonsfaglig digital kompetanse i barnehagen. Derfor lener barnehagen og barnehageutdanningene seg på rammeverket som er utviklet
-for skolen. Men barnehagen og skolen skal være
-ulike på mange områder, og derfor trenger
-barnehageansatte en profesjonsfaglig digital
-kompetanse som er tilpasset barnehagens oppdrag og barnehagebarns alder og modenhet.
-Utvalget mener at det bør utvikles et eget rammeverk for profesjonsfaglig digital kompetanse for
-barnehagelærere, tilsvarende rammeverket for
-lærere i skolen.
-Det er ikke bare lærere i skolen og barnehagen som trenger digital kompetanse. Det
-gjelder også andre ansatte som møter barnehagebarna og elevene, slik som miljøarbeidere, barnehageassistenter, SFO-ansatte og helsesykepleiere.
-Et mulig tiltak for å sikre at hele laget rundt barnehagebarna og skoleelevene har god nok digital
-kompetanse, er å gi kompetansehevingstilbud til
-alle som jobber med barn i skolen og barnehagen,
-for eksempel gjennom flere fagskoletilbud. Fagfor-
-
-[Side 220]
-
-218
-
-Kapittel 17
-
-NOU 2024: 20
-Det digitale (i) livet
-
-bundet mener det er enklere å opprette fagskoletilbud enn studieplasser i universitets- og høyskolesektoren. Slike tilbud vil imidlertid koste penger
-og må finansieres enten av staten eller av barnehage- og skoleeiere.
-
-17.4.3 Et bedre samarbeid mellom skolen og
-hjemmet, og foreldre med kompetanse
-til å støtte og veilede barna
-Digitaliseringen av skolen har skjedd fort, spesielt
-som følge av koronapandemien. Pandemien
-gjorde at også de yngre elevene hadde mer digital
-undervisning, og at en-til-en-dekning av digitale
-enheter spredte seg raskt. Blant barna på 1. til 4.
-trinn har 85 prosent nå tilgang til sin egen digitale
-enhet, som de ofte tar med seg hjem. Denne innføringen og bruken av digitale løsninger på spesielt barneskolen er flere foreldre skeptiske til i innspillene sine til utvalget. De trekker blant annet
-frem at det er problematisk at det mangler filtre
-og innholds- og tidsbegrensinger. Undersøkelser
-viser at foreldre oppgir å få mer informasjon om
-erstatningsansvar og personvern enn om pedagogiske vurderinger og opplæring i de digitale løsningene i skolen. Det tyder på at det er flere foreldre som ikke opplever å ha fått nødvendig informasjon om skjermbruk i skolen.
-Foreldreutvalget
-for
-grunnopplæringen
-(FUG) mener at skolen må sørge for at foreldre
-får god informasjon om skolens digitale praksis
-og bakgrunnen for valgene som er tatt. FUG
-mener videre at tilgang på informasjonen samt tilrettelegging av arenaer hvor foreldre kan delta, si
-sin mening og påvirke, er en forutsetning for den
-nødvendige og lovpålagte foreldremedvirkningen
-i barnas opplæring.
-Mange foreldre opplever at de er frakoblet
-barnas skolearbeid, og at de ikke har den digitale
-kompetansen som kreves for å bruke skolens digitale løsninger. Foreldrenes digitale kompetanse
-henger sammen med sosioøkonomiske forhold,
-og manglende opplæring kan føre til at sosiale forskjeller forsterkes. Det er særlig de foreldrene
-som selv rapporterer at de har lave digitale ferdigheter, som opplever at det er lite samarbeid med
-skolene om bruk av digital teknologi. Utvalget
-mener derfor at myndighetene må ta et større
-ansvar for å sørge for at foreldre har god nok digital kompetanse til å følge med i sine barns digitale
-skolehverdag. Det innebærer også at skolene bør
-ta oppgaven med å veilede foreldre på alvor. Det å
-formidle bedre hvordan skjermene brukes på en
-pedagogisk og læringsfremmende måte, kan forhåpentligvis dempe mye av den offentlige bekym-
-
-ringen og den enkelte forelderens bekymring.
-Dette er spesielt viktig på barneskoletrinnene hvis
-enheter sendes med hjem. I barneskolen står foreldrene ofte i dilemmaer mellom regulering av
-skjermbruk og innføring av skjermer til skolebruk. Det trengs et tett samarbeid og god informasjon slik at foreldrene ikke opplever at skolen
-«legger sten til byrden». God informasjon til foreldrene er ikke minst viktig for at barna skal få
-støtte og veiledning fra foreldrene sine. Foreldrene trenger nok kunnskap til å bruke enhetene
-og forstå programvaren som skolen bruker. Foreldrene trenger også å vite hva de skal forvente av
-skolens filtre, og kjenne til hvilke muligheter for
-foreldrekontroll og lignende som finnes. Et tettere
-samarbeid med foreldregruppen kan også gjøre
-lærerne mer bevisst på deres bruk av digitale ressurser, og om de eventuelt bør gjøre justeringer.
-Å lære foreldre opp i andre digitale medier som
-barna bruker, slik som sosiale medier og dataspill,
-er utenfor skolens mandat. Utvalget mener likevel
-at skolene kan bidra til at foreldremøtene blir en
-arena for foreldresamarbeid om skjermregler, også
-på fritiden. Med tanke på at skjermbruk på fritiden
-kan påvirke søvn og sosial trivsel, vil gode rammer
-på fritiden også kunne ha god innvirkning på
-skolen. Informasjon til foreldre om hvordan og
-hvorfor elevene bruker digitale ressurser i skolen,
-vil også kunne gi økt forståelse for skolens bruk og
-hvilken digital kompetanse elevene utvikler. Foreldrene bør også ta initiativ til å sette seg inn i og
-engasjere seg i elevens digitale skolehverdag og
-bruke FAU-arenaen til foreldresamarbeid om
-skjermvett og skjermbruk.
-
-17.4.4 Informasjon og samstemte råd fra
-myndighetene
-Myndighetene gir råd og veiledning om barn og
-unges skjermbruk, men informasjonen er spredt
-på flere ulike nettsider og mellom ulike myndighetsorgan. Barne-, ungdoms- og familiedirektoratet (Bufdir) gir råd særlig rettet mot foreldre
-gjennom foreldrehverdag.no.9 Medietilsynet, som
-har ansvar for barn og medier og er koordinerende myndighet på direktoratsnivå for trygg digital oppvekst, har råd og veiledning om skjermbruk rettet mot både foreldre og barn og unge
-selv.10 Helsedirektoratet har utarbeidet nasjonale
-faglige råd for fysisk aktivitet for barn og unge,
-som også inneholder råd om skjermtid.11 Helse9
-10
-11
-
-Barne-, ungdoms- og familiedirektoratet (2024)
-Medietilsynet (2024a)
-Helsedirektoratet (2019)
+# Digital kompetanse i skolen
+
+## Innledning
+
+Å utnytte potensialet i digitale enheter og læremidler i skolen krever noe nytt av skolen, lærerne og undervisningen. I samfunnsdebatten er det mye usikkerhet rundt hva som egentlig ligger i læreplanene om digitale ferdigheter, og hva det vil si at digitale ferdigheter er en av de grunnleggende ferdighetene i skolen. I dette kapittelet går vi gjennom hva som forventes av elevenes digitale ferdigheter, og hvilke krav som stilles til lærernes digitale kompetanse i det digitale klasserommet. Vi ser også på hva slags digital kompetanse andre voksne som er del av laget rundt eleven, trenger for å kunne støtte barn og unge i deres digitale hverdag.
+
+## Elevenes digitale ferdigheter
+
+I 2006, i samme tidsperiode som det ble vanligere å bruke skjermer i skolen, ble digitale ferdigheter innført som grunnleggende ferdigheter i læreplanen, som vist i kapittel 14. Læreplanens krav til elevens utvikling av digitale ferdigheter har blitt brukt som begrunnelse for at elever må ha hver sin digitale enhet i skolen.
+
+### Digitale ferdigheter som grunnleggende ferdighet
+
+Digitale ferdigheter er definert som grunnleggende ferdighet i læreplanverket og er dermed et viktig redskap for elevenes læring. Rammeverk for grunnleggende ferdigheter definerer digitale ferdigheter slik:[^1102]
+
+Digitale ferdigheter vil si å innhente og behandle informasjon, være kreativ og skapende med digitale ressurser, og å kommunisere og samhandle med andre i digitale omgivelser. Det innebærer å kunne bruke digitale ressurser hensiktsmessig og forsvarlig for å løse praktiske oppgaver. Digitale ferdigheter innebærer også å utvikle digital dømmekraft ved å tilegne seg kunnskap og gode strategier for nettbruk.
+
+Digitale ferdigheter er en viktig forutsetning for videre læring og for aktiv deltakelse i et arbeidsliv og et samfunn i stadig endring. Den digitale utviklingen har endret mange av premissene for lesing, skriving, regning og muntlige uttrykksformer. Derfor er digitale ferdigheter en naturlig del av grunnlaget for læringsarbeid både i og på tvers av faglige emner. Dette gir muligheter for nye og endrede læringsprosesser og arbeidsmetoder, men stiller også økte krav til dømmekraft.
+
+Digitale ferdigheter består av fem ferdighetsområder som skal utvikles gjennom skoleløpet. De fem ferdighetsområdene er: bruke og forstå, finne og behandle, produsere og bearbeide, kommunisere og samhandle, og utøve digital dømmekraft. Det skal være progresjon i hvordan den digitale ferdigheten kommer til uttrykk i det enkelte fagets mål for elever på ulike trinn.
+
+Samfunnsfag kan være et eksempel for å illustrere hvordan elevene skal utvikle digitale ferdigheter innenfor fagene.[^1103] I læreplanen i samfunnsfag står det at elevene etter 2. trinn skal kunne ha en samtale om muligheter og utfordringer ved digital samhandling. Etter 10. trinn skal elevene i samfunnsfaget kunne utforske og reflektere rundt problemstillinger knyttet til egne digitale spor og sletting av disse, samt verne om egen og andres rett til privatliv, personvern og opphavsrett. Videre skal elevene kunne utforske plattformer for digital samhandling og reflektere over hvordan digital deltagelse og samhandling påvirker formen og innholdet på samfunnsdebatten. Vi finner en tilsvarende progresjon i beskrivelsen av digitale ferdigheter i læreplanene i de fleste skolefagene. I læreplanen i norskfaget står det for eksempel at digitale verktøy skal brukes i lese- og skriveopplæringen på lavere trinn, og etter hvert skal elevene bruke og kritisk vurdere digitale kilder og vurdere hvordan digitale medier påvirker og endrer språk og kommunikasjon.[^1104]
+
+### Digitale ferdigheter er sammensatt
+
+Digitale ferdigheter beskrives nærmere i læreplanene i de enkelte fagene. Hver læreplan inneholder en generell beskrivelse av hva digitale ferdigheter innebærer i det spesifikke faget. I beskrivelsen av digitale ferdigheter i musikkfaget står det for eksempel at digitale ferdigheter er:[^1105]
+
+å kunne bruke musikkteknologi til å utøve, lage og oppleve musikk. Dette innebærer å bruke digitale verktøy kreativt til å gjøre opptak, bearbeide og manipulere lyd og bruke programmering i skapende arbeid. Digitale ferdigheter er også å utøve digital dømmekraft. Det innebærer å følge regler for opphavsrett i møte med egen og andres musikk og utvise nettetikk i samhandling med andre.
+
+Hva som er digitale ferdigheter, og hva som er faglig kompetanse i et gitt fag, henger tett sammen og lar seg vanskelig skille fra hverandre.
+
+I internasjonal forskning på elever og digitalisering brukes gjerne begrepene digital kompetanse eller digital *literacy*, mens begrepet digitale ferdigheter ofte handler mer om å bruke digitale verktøy.[^1106] Digitale ferdigheter i det norske læreplanverket inkluderer at eleven skal gjøre enkle informasjonssøk på internett, programmere musikk, være kildekritisk, skape multimodale tekster, bruke digitale ressurser til å kommunisere på andre språk, bruke graftegner til å løse matematiske problemer, og mye mer. Begrepet *grunnleggende digitale ferdigheter* kan dermed virke misvisende når vi ser på hvordan det kommer til uttrykk som del av kompetansen i skolefagene da det kan være svært avansert kompetanse vi snakker om. I læreplanens overordnede del står det:[^1107]
+
+Kompetanse er å kunne tilegne seg og anvende kunnskaper og ferdigheter til å mestre utfordringer og løse oppgaver i kjente og ukjente sammenhenger og situasjoner. Kompetanse innebærer forståelse og evne til refleksjon og kritisk tenkning.
+
+Også de andre grunnleggende ferdighetene innebærer kompleks kompetanse, som omtalt i kapittel 15 om det digitale klasserommet, men det kan virke som det er enda vanskeligere å kommunisere hva digitale ferdigheter består av. I samfunnsdebatten hører man både argumenter som at elever ikke trenger å lære digitale ferdigheter i skolen siden de lærer seg dette på fritiden, og argumenter om at elevene mangler digitale ferdigheter hvis de ikke mestrer vanlige verktøy som regneark og fillagring.
+
+Et eksempel på at digitale ferdigheter er komplekse er *digitalt medborgerskap*. Beskrivelsen av digitale ferdigheter i samfunnsfag gir faget et særlig ansvar for at elevene utvikler digitalt medborgerskap.[^1108] Læreplanen forklarer ikke nærmere hva digitalt medborgerskap er, men Utdanningsdirektoratet har i ettertid definert det slik:[^1109]
+
+Digitalt medborgerskap er aktiv og ansvarlig deltakelse i et digitalisert samfunnsliv, lokalt, nasjonalt eller globalt. Dette innebærer å utvikle digitale ferdigheter, samt å tilegne seg kunnskap om rollen sosiale medier og kunstig intelligens har fra et demokratiperspektiv, og påvirkning de har på individ og samfunn.
+
+Å utvikle nødvendig kompetanse til å være en aktiv og ansvarlig deltager i et digitalisert samfunnsliv, henger tett sammen med formålet med skolen som helhet: å utvikle kunnskap, ferdigheter og holdninger for å mestre livene sine og delta i samfunnet.[^1110] Når beskrivelsene av digitale ferdigheter er så komplekse, kan det være utfordrende for skolen, elevene og foreldre å forstå hva ferdighetene handler om, og hvorfor det er viktig å arbeide med dem på alle nivåer i skolen.
+
+### Digitale ferdigheter mangler et skolefag med særlig ansvar for opplæringen
+
+Digitale ferdigheter er den eneste av de fem grunnleggende ferdighetene som ikke har et skolefag med særlig ansvar for opplæring i ferdigheten. Det kan skyldes at den digitale ferdigheten består av mange typer ferdigheter, inkludert å lese, skrive, regne og uttrykke seg muntlig med bruk av digital teknologi. Det kan være vanskelig å begrunne at ett spesifikt fag skal ha ansvaret for opplæringen i digitale ferdigheter når ferdighetene favner så bredt. På den andre siden kan det føre til at ingen faglærere føler et særlig ansvar for å gi denne opplæringen, og at alle tenker at det er noen andres oppgave. I tillegg kan lærerne være usikre på hvilken opplæring elevene har fått i de andre fagene, og hva de har behov for.
+
+I en spørreundersøkelse fra 2022 svarer lærere og ledere i grunnskolen på spørsmål om erfaring med digitalisering i skolen.[^1111] Mer enn halvparten av lærerne er i varierende grad enige i at de legger til rette for undervisning som hjelper elever å forstå hvordan digital utvikling påvirker deltagelse i demokratiske prosesser. Lærere på mellomtrinnet og ungdomstrinnet, og spesielt samfunnsfaglærere, er mer tilbøyelige til å være enige i dette enn dem som underviser på lavere trinn. Det samme gjelder påstanden om de lærer elevene om hvordan digital utvikling kan skape sosiale forskjeller i samfunnet. Lærerne opplever i ulik grad ansvar for å lære elevene om kritisk bruk av kilder, personopplysninger og å oppføre seg ansvarlig og respektfullt når de bruker ulike digitale medier. Lærere i samfunnsfag, engelsk, og kristendom, religion, livssyn og etikk (KRLE) er mer enige i at de legger til rette for dette, enn lærere i andre fag. Lærere i disse fagene er også noe mer enige i at de legger til rette for at elevene skal regulere bruken av digitale medier også på fritiden og lære hvordan digital teknologi påvirker barn og unges utvikling av egen identitet. Oppsummert viser undersøkelsen at lærere i fag som samfunnsfag legger stor vekt på kilder og sosiale aspekter ved bruk av digitale medier, mens matematikklærere tar spesielt ansvar for undervisning i programmering og algoritmisk tenkning. Lærere på mellomtrinnet er generelt mer enig i at de legger til rette for at elevene kan lære om disse områdene enn lærere på andre trinn.
+
+I EDUCATE-undersøkelsen 2024 finner forskerne at selv på 10. trinn og vg3 ble det gitt opplæring i grunnleggende aspekter ved digital kompetanse i alle sju fag studien omfatter.[^1112]
+
+I en spørreundersøkelse fra 2022 rapporterer skoleledere i grunnskolen at det har vært jobbet mye med å lære elevene om bruk av digitale ressurser (80 prosent) og kritisk bruk av kilder (89 prosent), samt dannelse og respektfull oppførsel på nett og i digitale medier (86 prosent).[^1113] Det har vært satset mindre på temaer som selvregulering av teknologibruk (48 prosent), digitaliseringens påvirkningskraft (44 prosent), algoritmisk tenkning (44 prosent), betydningen av programmering for faglig forståelse (44 prosent) og hvordan digital teknologi kan føre til ulikheter i samfunnet (38 prosent).
+
+Innspill fra utvalgets referansegruppe om elevens digitale ferdigheter
+
+Flere av lærer- og skoleorganisasjonene i referansegruppen mener at digitale ferdigheter som en av de grunnleggende ferdighetene er noe uklart definert. *Utdanningsforbundet* mener at det er behov for å tydeliggjøre hva digitale ferdigheter handler om. *Norsk Lektorlag* mener at digitale ferdigheter som en av de grunnleggende ferdighetene ikke har et tydelig nok innhold, mangler tildeling av ansvar og mangler tydelig kvalitetssikring. *Kommunesektorens organisasjon (KS)* mener at arbeidet må styrkes.
+
+*Fagforbundet* mener at alle barn som går i barnehage, SFO og skole må få digital kompetanse, så de blir inkludert i det digitale samfunnet de vokser opp i.
+
+*Foreldreutvalget for grunnopplæringen* mener at arbeidet med å utvikle god dømmekraft hos våre barn og unge er essensielt, og at opplæringen i de digitale ferdighetene bør rette seg enda mer mot dannelse og dømmekraft.
+
+\[Boks slutt\]
+
+### Utvikling av elevenes digitale ferdigheter
+
+Kunnskapsgjennomganger viser at forskning er mer opptatt av å undersøke betydningen bruk av digitale læremidler og læringsressurser kan ha for elevers læring og motivasjon, enn utvikling av elevenes digitale ferdigheter enn hvordan de utvikler elevers digitale ferdigheter.[^1114] Unntaket er ferdighetsområdet *digital dømmekraft*, som ofte inngår i studier om digital mobbing. Andre studier undersøker om elever klarer å tolke og vurdere kvaliteten til informasjon på internett. Digitale ferdigheter innenfor viktige temaer fra læreplanene i fag er ikke et tema i forskningslitteraturen. For eksempel finnes det lite forskning på om elever kan bruke programmering til å beregne sannsynlighet, som er et mål i matematikkfaget, eller om de kan skape digitale produkter i musikk og kunst og håndverk.
+
+Nasjonale prøver kartlegger elevenes ferdigheter i lesing, engelsk og regning. Det finnes ingen tilsvarende nasjonal undersøkelse som måler utviklingen av elevenes digitale ferdigheter.[^1115] The International Computer and Information Literacy Study (ICILS) er en av de største internasjonale undersøkelsene av digital kompetanse hos skoleelever.[^1116] Undersøkelsen har vært gjennomført tre ganger, i 2013, 2018 og 2023, med elever i ungdomsskolen. Norge deltok i 2013 og igjen i 2023, da sammen med 34 andre land. De første resultatene publiseres i november 2024.[^1117] Det er grunn til å anta at resultatene har endret seg mye på de siste ti årene, blant annet på grunn av utbredelsen av digitale enheter, koronapandemien og innføring av nye læreplaner. I ICILS 2013 presterte norske elever godt over det internasjonale gjennomsnittet på den digitale prøven og var blant de høyt presterende landene i undersøkelsen.[^1118] Elevene rapporterte den gang om begrenset IKT-bruk i fagene: Kun 8 prosent brukte datamaskin daglig på skolen, mens 52 prosent brukte datamaskin ukentlig på skolen. Jentene skåret signifikant bedre enn guttene på prøven, og elevenes sosioøkonomiske bakgrunn hadde betydning for elevenes prestasjoner. For 2018 og 2023 inneholder ICILS også en modul om algoritmisk tenkning og programmering. Danmark var blant landene som deltok i ICILS 2018. Resultatene viste at danske elevers digitale kompetanse ble signifikant bedre fra 2013, og danske elever var blant de høyest presterende.[^1119] I algoritmisk tenkning skåret danske og sørkoreanske elever best blant deltagerlandene. Som nevnt i kapittel 15 er algoritmisk tenkning og programmering nytt i læreplanene fra 2020, og ICILS-resultatene fra 2023 vil være første gang vi får en måling av norske elevers nivå på dette området.[^1120]
+
+I Elevundersøkelsen kan skolene velge om de ønsker at elevene skal svare på spørsmål om digitale ferdigheter. Tre av fire elever svarer at de lærer å være kritiske til informasjon de finner på internett og at de lærer seg å tenke over hvordan de bruker informasjon fra internett i mange, de fleste eller alle fag.[^1121] Skolen skal bidra til at elevene utvikler kritisk og vitenskapelig tenkning.[^1122] Kritisk tenkning omfatter blant annet evnen til å evaluere påliteligheten, reflektere over informasjon, konseptualisere den, bruke, analysere og sammenstille den samt vurdere informasjonen.[^1123] Dette kan gjøres både med og uten digital teknologi, men man bruker stadig oftere digitale ressurser i arbeidet med å innhente og bearbeide informasjon. I læreplanverket har beskrivelsene av elevens digitale ferdigheter i ulike fag ofte nær sammenheng med aspekter av kritisk tenkning, slik som kildekritikk, søkestrategier, målinger og analyse av data.[^1124]
+
+I PISA-undersøkelsen 2018 skårer norske 15-åringer lavere enn gjennomsnittet i OECD-land på å gjenkjenne subjektiv eller villedende informasjon på internett og på å skille fakta fra meninger på nett.[^1125] Både i Norge og i andre land er det elever med lavere sosioøkonomisk bakgrunn som har størst vansker med å vurdere en kildes troverdighet. En kvalitativ undersøkelse med norske elever på 8. trinn viser at elevene har grunnleggende kunnskap om kildeevaluering, men at de har en lite strategisk tilnærming når de søker etter og velger ut informasjon på internett til bruk i skoleoppgaver.[^1126] Undersøkelsen konkluderer med at elevene har en lang vei å gå for å tilegne seg effektive og strategiske digitale leseferdigheter. Et flertall av lærere på videregående skole mente at elevene manglet tilstrekkelig digital kompetanse til å håndtere skolestengingen under koronapandemien.[^1127] Imidlertid oppfattet de fleste lærerne at elevene forbedret sin digitale kompetanse mens skolene var stengt. Blant grunnskolelærerne varierte oppfatningene om elevenes digitale ferdigheter under skolestengingen.[^1128] Det er verdt å merke seg at disse oppfatningene i stor grad dreier seg om tekniske ferdigheter med tanke på hjemmeundervisning, som å logge seg på digitale møter, finne lærestoff og oppgaver og levere besvarelser. Dette sier dermed lite om helheten i elevenes digitale ferdigheter slik de er beskrevet i læreplanverket.
+
+I en ny norsk studie av digital kompetanse hos elever på 10. trinn og vg3 finner forskerne at det er store forskjeller mellom elevene når det gjelder digitale ferdigheter.[^1129] Til tross for at elevene har vært elever i en skole der digitale ferdigheter har vært definert som grunnleggende ferdighet i hele skoleløpet deres, mangler mange elever helt grunnleggende kompetanse, som for eksempel å vite hvordan man navngir, lagrer og gjenfinner dokumenter. Det betyr at lærerne bruker mye av undervisningstiden i fagene på å hjelpe elevene med slike ting. Men studien viser også at mange elever har avansert kompetanse innenfor visse områder, som å bruke programmer og applikasjoner, lage multimodale produkter, programmere og bruke kunstig intelligens. De samme elevene kan både mangle grunnleggende digitale ferdigheter på noen områder og ha avansert kompetanse på andre.
+
+Innspill til utvalget fra barn og unge om skjerm og digital kompetanse i skolen
+
+På spørsmål om hva som er negativt med skjermbruken i skoledagen, nevner de fleste barn og unge først og fremst tekniske forhold, særlig å måtte logge inn overalt, huske passordene sine, streve med dårlig internett-tilgang og glemme laderen.
+
+«Mye logge inn her og der. Driver alt for mye på med det.» (jente, 6. trinn)
+
+På spørsmål om hvor flinke lærerne er digitalt, snakker de fleste om hvor flinke lærerne er teknisk, fremfor om de bruker det digitale på en god måte i det pedagogiske opplegget. Gjennom samtalene fikk utvalget inntrykk av at det digitale mest brukes som et verktøy til skriving, informasjonssøking og oppgaver. Det ble også påpekt at når læreren mangler digital kompetanse, kan det ta av tid som skulle gått til andre ting i undervisningen.
+
+Flere av utfordringene som blir trukket frem av utvalgets ekspertgruppe av ungdom, handler om for lav digital kompetanse i skolen. En av hovedutfordringene de stemte frem, er at lærerne, skolen, foreldrene og elevene selv har for lav digital kompetanse.
+
+Andre hovedutfordringer er at det er store forskjeller i digital infrastruktur på skolene, og at skolen legger for lite vekt på fysisk helse i forbindelse med skjermbruk. Det er gjerne ikke lagt til rette for god ergonomi, og de har ofte for lave pulter og ikke tilgang på stor skjerm, tastatur eller mus. Flere peker også på problemer med hodepine.
+
+De fleste barn og unge som utvalget har snakket med, forteller at de opplever å ikke ha lært mye om digitale ferdigheter utover kildekritikk i skolen. De kan blant annet tenke seg å få mer informasjon om ergonomi ved skjermbruk og hvordan de kan unngå distraksjoner når de er på skjermen. I tillegg ønsker de å lære mer om teknologiforståelse, konsekvenser av skjermbruk, nettvett og sosiale medier.
+
+\[Boks slutt\]
+
+## Lærerens profesjonsfaglige digitale kompetanse
+
+Den digitale kompetansen som læreren behøver for å kunne utføre arbeidet sitt, kalles lærerens profesjonsfaglige digitale kompetanse (PfDK). Lærerens profesjonsfaglige digitale kompetanse kan også sies å ha et dobbelt formål: Læreren skal både ha digital kompetanse til selv å bruke digitale ressurser i sitt pedagogiske og didaktiske arbeid, og bidra til at elevene utvikler *sin* digitale kompetanse.[^1130]
+
+Kompetansen lærerne trenger, er beskrevet i rammeverket for lærerens PfDK.[^1131] Rammeverket består av overordnede beskrivelser av sju kompetanseområder samt utdypninger i form av kunnskaper, ferdigheter og generelle kompetanser læreren behøver innenfor hvert område, se figur 16.2. Rammeverket er utviklet av Utdanningsdirektoratet i samarbeid med norske lærerutdanninger og eksterne eksperter.
+
+Rammeverk for lærerens profesjonsfaglig digital kompetanse
+
+Synstolkning: Figur som viser modellen for rammeverk for lærerens profesjonsfaglige kompetanse (PfDK). Modellen ser ut som et tannhjul med 7 deler. I midten står det Lærerens PfDK. De ulike delene er: Fag og grunnleggende ferdigheter, Skolen i samfunnet, Etikk, Pedagogikk og fagdidaktikk, Ledelse av læringsprosesser, Samhandling og kommunikasjon, Endring og utvikling. De ulike delene henger sammen.
+
+Kilde: Kelentrić mfl. (2024)
+
+Lærerens profesjonsfaglige digitale kompetanse handler om å forstå hvordan den digitale utviklingen påvirker innholdet i fagene, og hvordan digital teknologi kan støtte lærerens undervisning og elevenes læring.[^1132] Det innebærer at læreren skal kjenne til ulike digitale teknologier og hvordan de kan påvirke og utfordre læring og undervisning. I tillegg må læreren forstå hvordan elevene bruker digitale teknologier i sin hverdag, og hvilken påvirkning teknologien har på barn og unges oppvekst. Profesjonsfaglig digital kompetanse innebærer også å kjenne til det gjeldende regelverket og relevante etiske problemstillinger og å bidra til å skape et digitalt læringsmiljø som er trygt og godt for alle. Digitalt kompetente lærere kan integrere teknologi i sin undervisning slik at de utnytter læringspotensialet i digitale læremidler og læringsressurser.
+
+Lærere og skoleledere mener at lærernes digitale kompetanse er god
+
+Det stilles altså store krav til lærerens digitale kompetanse. Lærere skal forstå både de digitale teknologiene, hvilke muligheter og utfordringer de gir for opplæringen, og hvordan elevene bruker teknologi på og utenfor skolen.
+
+I Spørsmål til Skole-Norge høsten 2023 oppgir 83 prosent av skoleledere i grunnskoler og 88 prosent av skoleledere i videregående skole at lærere med mellom to og ti års erfaring har høy eller svært høy profesjonsfaglig digital kompetanse.[^1133] I en undersøkelse fra 2022 ble lærere i grunnskoler og videregående skoler bedt om å vurdere sin egen digitale kompetanse.[^1134] Seks av ti lærere vurderte sin digitale kompetanse som middels, og tre av ti vurderte den som høy, mens om lag en av ti lærere vurderte sin digitale kompetanse som lav. Lærere som oppfatter sin egen kompetanse som lav, er også dem som er mest uenige at de får god støtte og opplæring. Disse lærerne er også mer negative til digitaliseringen i grunnopplæringen. Lærere som vurderer egen digital kompetanse som høy, rapporterer i større grad at de selv tar initiativ til å styrke sin kompetanse. Lærere rapporterer at de har et stort behov for støtte i digitaliseringsarbeidet uavhengig av hvordan de vurderer sitt kompetansenivå. Det gjelder både teknisk støtte, pedagogisk og didaktisk støtte, og støtte fra ledelse og kollegaer.
+
+En undersøkelse om koronahåndteringen viser imidlertid at omtrent halvparten av lærerne i videregående skoler opplevde at de hadde for dårlig digital kompetanse til å håndtere overgangen til hjemmeskole.[^1135] Det er også store forskjeller mellom lærernes digitale kompetanse. I den siste TALIS-undersøkelsen blant norske lærere svarer sju av ti at de har et stort eller noe behov for faglig utvikling innenfor bruk av digital teknologi i undervisningen, to av ti svarer at de har lite behov, og mindre enn en av ti svarer at de ikke har noe behov.[^1136]
+
+GrunDig-prosjektet, som gikk gjennom forskning om digitalisering i grunnopplæringen, fant at forskningen på læreres profesjonsfaglige digitale kompetanse i stor grad bygger på individuell selvrapportering fra lærere.[^1137]
+
+Mange skoleeiere mangler planer for kompetanseheving av lærernes PfDK
+
+I Spørsmål til Skole-Norge høsten 2023 svarer om lag halvparten (53 prosent) av skoleeiere i grunnskolen at kommunen ikke har en plan for systematisk kompetanseheving i profesjonsfaglig digital kompetanse.[^1138] Videre er det store forskjeller mellom kommuner etter sentralitet: 73 prosent av skoleeiere i de mest sentrale kommunene svarer at kommunen har en plan for systematisk kompetanseheving, mens den tilsvarende andelen i de minst sentrale kommunene er 29 prosent.[^1139] Fem av åtte fylkeskommunale skoleeiere i undersøkelsen er enige i påstanden om at fylkeskommunen har en plan for systematisk kompetanseheving.[^1140] Blant skoleledere er det 54 prosent på grunnskolen og 48 prosent på den videregående skolen som er uenige i påstanden om at de har en plan for systematisk kompetanseheving av PfDK hos personalet. Her er det betydelige forskjeller mellom små og store kommuner: 72 prosent av skolelederne i små kommuner er uenige i denne påstanden, mens den tilsvarende andelen i større kommuner er 49 prosent.[^1141] Kvalitative intervjuer gjennomført i koronastudien ga inntrykk av at skolene i liten grad hadde satset strategisk på å utvikle lærernes digitale kompetanse før nedstengingen.[^1142] Lærere selv rapporterer at det er veldig viktig at skolene har gode støttestrukturer for at de skal utvikle sin digitale kompetanse.[^1143]
+
+Innspill fra utvalgets referansegruppe om lærerens profesjonsfaglige digitale kompetanse
+
+Alle lærer- og skoleorganisasjonene mener at profesjonsfaglig digital kompetanse er avgjørende.
+
+*Utdanningsforbundet* mener at store kompetanseforskjeller mellom lærerne samt ulike muligheter til å velge og tilpasse læremidler etter den pedagogiske konteksten vil kunne gi utslag i kvaliteten på opplæringen og skjermbruken. Det er kun kombinasjonen av gode lærere og god teknologi som kan føre til de resultatene vi ønsker. De mener at lærerne er i god stand til å ta disse beslutningene lokalt når de har en solid basiskompetanse.
+
+*Skolenes landsforbund* vektlegger å jobbe for lærernes autonomi i sin digitale strategi. Når lærerne oppnår en profesjonsfaglig digitale kompetanse, vil de velge verktøy etter kompetansemålene uten å bli begrenset av økonomi eller strukturelle utfordringer. Det viktigste for Skolenes landsforbund er at de ansatte styrker sin profesjonsfaglige digitale kompetanse.
+
+*Skolelederforbundet* mener at profesjonsfaglig digital kompetanse er avgjørende, og at det lokale handlingsrommet for pedagogisk utvikling og pedagogiske valg må bevares. *Kommunesektorens organisasjon (KS)* mener at kompetanse er avgjørende for å få til en god digital praksis i skole og oppvekst. I tillegg mener KS at kommunens selvstyre og autonomi, samt den enkelte lærers profesjonsutøvelse er viktig.
+
+*Helsesykepleierne NSF* mener at digital kompetanse hos lærere og barnehagelærere også må omfatte kunnskap om hvordan bruk av digitale flater påvirker barnehjernen og den normale utviklingen fysisk, psykisk og sosialt hos barn i skole- og barnehagealder.
+
+*Elevorganisasjonen* mener at mange lærere har for lav digital kompetanse i dag.
+
+*Fagforbundet* mener at hele laget rundt eleven må inkluderes i den digitale skolehverdagen. Derfor må også andre ansatte enn lærere inkluderes i skoleeiers kompetanseplaner.
+
+\[Boks slutt\]
+
+### Profesjonsfaglig digital kompetanse i lærerutdanningen
+
+Flere studier har vist at arbeidet med å utvikle PfDK ikke er prioritert høyt nok i norsk lærerutdanning.[^1144] En undersøkelse blant ansatte ved fem lærerutdanninger i 2019 viser at det er stor variasjon i hvordan lærerutdannere arbeider med ulike områder fra PfDK-rammeverket.[^1145] Lærerutdannere i pedagogikk og elevkunnskap og samfunnsfag oppgir at de arbeider mer med PfDK enn gjennomsnittet, mens lærerutdannere fra KRLE og realfag oppgir at de arbeider mindre med PfDK enn de andre faggruppene.
+
+I en undersøkelse fra 2014 svarer nyutdannede lærere at lærerutdanningenes opplæring i bruk av IKT i undervisningssammenheng ikke hadde vært særlig god.»[^1146] De mente også at det var lite samsvar mellom lærerutdanningen og kravene som stilles til bruk av IKT i undervisningen. Det er verdt å merke seg at det er ti år siden, og mye kan ha forandret seg siden da. Vi har likevel valgt å ta den med da vi ikke har oppdaterte tall på hvordan nyutdannede lærere selv vurderer utdanningen sin på området. I Spørsmål til Skole-Norge høsten 2023 svarte imidlertid 74 prosent av skoleledere i grunnskolen og 77 prosent av skoleledere i den videregående skolen at nyutdannede lærere har høy eller svært høy profesjonsfaglig digital kompetanse.[^1147] Med nyutdannede lærere menes i dette tilfellet lærere med mindre enn to års erfaring.
+
+Rammeplanene for grunnskolelærerutdanningene slår fast at studentene ved endt utdanning skal ha profesjonsfaglig digital kompetanse.[^1148] Det finnes egne rammeplaner for hver av de elleve lærerutdanningene, men en ekspertgruppe har nylig foreslått for regjeringen å utvikle én felles rammeplan som skal være mer overordnet og gi mer frihet til institusjonene.[^1149] På nivået under rammeplanene finner vi nasjonale retningslinjer for lærerutdanningene, utarbeidet av Universitets- og høgskolerådet.[^1150] De nasjonale retningslinjene for grunnskolelærerutdanningene ble revidert i 2024 og inneholder føringer om at profesjonsfaglig digital kompetanse skal ivaretas i alle fag, se boks 16.4. Retningslinjene for de andre lærerutdanningene gir ikke like tydelige føringer om digital kompetanse, for eksempel yrkesfaglærerutdanningen og lærerutdanning for praktisk-estetiske fag.[^1151] Årsaken kan være at det har gått lengre tid siden disse ble revidert.
+
+Den enkelte lærerutdanningsinstitusjonen utvikler egne planer og kursbeskrivelser for innholdet i utdanningen. En nylig publisert doktorgradsavhandling om hvordan profesjonsfaglig digital kompetanse kommer til uttrykk i grunnskolelærerutdanningen for 5.-10. trinn ved seks ulike lærerutdanningsinstitusjoner finner at det legges mer vekt på å bruke digitale verktøy enn på digital dømmekraft, etikk og bevissthet om hvordan fag og metoder endres med digitalisering.[^1152] Studien viser også at tilbudet varierer mellom de ulike lærerutdanningene.
+
+Profesjonsfaglig digital kompetanse i grunnskolelærerutdanningene
+
+I retningslinjer for grunnskolelærerutdanningene for både 1. til 7. trinn og 5. til 10. trinn finner vi denne formuleringen om temaer som skal inngå i alle fag:
+
+Profesjonsfaglig digital kompetanse (PfDK): Utdanningen skal legge til rette for at studentene får utviklet sin egen PfDK og hvordan denne kompetansen kan bidra kollektivt til skolens faglige utvikling. Studentene må trenes i hvordan digitale verktøy kan fremme læring, egne seg til skapende og utforskende aktiviteter og hvordan man tilrettelegger for fremtidens digitale hverdag. Institusjonene oppfordres til konkret undervisning der studentene forstår bruken av ulike digitale verktøy og kan overføre denne kunnskapen når de møter nye digitale løsninger og verktøy. Her kan dataspill, samhandlingsverktøy, kunstig intelligens, programmering, videobaserte læringsformer og simulering være innganger institusjonene kan benytte seg av. Utdanningen skal fremme studentenes digitale dømmekraft gjennom hele studieløpet. Studentene skal forstå og kritisk vurdere teknologiens påvirkning på egen profesjon og kunne lære elevene å tenke kritisk om det de ser, leser og publiserer på nett.
+
+Kilde: Universitets- og høgskolerådet (2024a, 2024b)
+
+\[Boks slutt\]
+
+### Etter- og videreutdanningstilbud i profesjonsfaglig digitale kompetanse
+
+Videreutdanning er utdanning som gir studiepoeng fra en høyere utdanningsinstitusjon (UH), mens etterutdanning er kompetanseheving uten studiepoeng. Etterutdanning kan leveres av ulike tilbydere, for eksempel skoleeiere, UH-institusjoner eller kommersielle aktører. Satsingen Kompetanse for kvalitet (KFK) har eksistert siden 2009 og går ut på at kommunene får et statlig tilskudd for å sende lærere på videreutdanning. Siden 2018 har videreutdanning i profesjonsfaglig digital kompetanse for lærere vært et tilbud i KFK. I studieåret 2024–2025 fikk totalt 5920 lærere tilbud om plass på et studietilbud i KFK.[^1153] Av disse har under 3 prosent (n = 165) fått tilbud om videreutdanning i profesjonsfaglig digital kompetanse, og noen flere (n = 199) har fått tilbud om videreutdanning i programmering. Den største søkningen til videreutdanning er innen spesialpedagogikk, der 1243 lærere har fått tilbud om å delta, og deretter innen skolefagene norsk, matematikk og engelsk. Dette kan skyldes at det er nye krav til kompetanse for å undervise i disse fagene.[^1154]
+
+Desentralisert ordning for kompetanseutvikling i grunnskole og videregående skole er en statlig ordning som skal bidra til at alle skoleeiere gjennomfører kompetansetiltak i samarbeid med universitet og høyskoler. Ifølge et temanotat fra OsloMet er det behov for å styrke lærernes medvirkning i ordningen.[^1155] Det er vanskelig å tallfeste hvor mange lærere som får etterutdanning i profesjonsfaglig digital kompetanse, blant annet fordi etterutdanning kan være alt fra noen timers kurs fra en leverandør til systematisk kompetanseheving av lærerkollegiet i samarbeid med universiteter og høyskoler. I 2023 svarte 56 prosent av skoleeierne at de tilbyr kurs og foredrag om ny teknologi i opplæringen.[^1156] Vi vet for lite om omfanget og formen til å kunne si noe om kvaliteten på etterutdanningen i profesjonsfaglig digital kompetanse.
+
+## Digital kompetanse for andre ansatte i skolen
+
+Det er lett å fokusere på elever og lærere når vi snakker om skolen. Elevene skal utvikle sin digitale kompetanse og bli medborgere i det digitale samfunnet, og læreren må ha den profesjonsfaglige digitale kompetansen for å støtte og veilede elevene i deres læring. Men det er også andre ansatte i skolen som spiller en viktig rolle i å hjelpe elevene med å utvikle sin kompetanse og mestre hverdagen, som for eksempel ansatte i skolefritidsordningen (SFO), miljøarbeidere og helsesykepleiere.
+
+Mange av de yngste skolebarna tilbringer flere timer hver dag i SFO. I rammeplanen for SFO står det at digitale ressurser skal brukes på «en hensiktsmessig og forsvarlig måte og slik at det kan stimulere barn til utforskende, kreativ og skapende samhandling».[^1157] I tillegg har SFO-ansatte ansvar for å ivareta barnas sikkerhet og trygghet på nett og sikre at regler for personvern følges. Dette krever at de ansatte har den digitale kompetansen som skal til for å veilede barna i deres utforsking og samtidig sørge for at de er trygge. Miljøarbeidere i skolen har en viktig rolle i å støtte elevenes trivsel og utvikling. De er synlige i skolemiljøet og tilgjengelige for både elever og ansatte. Miljøarbeidere jobber med å tilrettelegge for et godt psykososialt miljø gjennom å organisere aktiviteter og snakke med og støtte elever. De er ofte involvert i forebyggende arbeid mot mobbing, rusmisbruk og konflikter.[^1158] Helsesykepleiere er ikke ansatte i skolen, men i helsetjenesten. De har taushetsplikt, kontor på skolen og tilbyr en «åpen dør» for elever som trenger noen å snakke med.[^1159]
+
+SFO-ansatte, miljøarbeidere, helsesykepleiere og andre ansatte i skolen har en viktig rolle som veiledere og rådgivere for barn og unge. De er i posisjon til å være rollemodeller for barna, uten å være forelder eller lærer. Det kan gi dem et forhold til eleven som er «friere» enn foreldres og læreres, og som kan gjøre at barn og unge synes det er lettere å henvende seg til dem hvis de opplever noe ubehagelig på nett.
+
+## Digital kompetanse for skoleledere og skoleeiere
+
+Elevenes læring og læringsutbytte skjer i sammenheng med lærerens praksis. Lærerens praksis er igjen avhengig av lærerens egen kompetanse og rammefaktorer for undervisningen. Disse rammefaktorene er det i stor grad skolelederne og skoleeierne som har ansvaret for. Figur 16.3 illustrerer den digitale kompetansen som Utdanningsdirektoratet mener skoleledere og skoleeiere har behov for.[^1160] Utvalget behandlet mange av disse områdene i kapittel 14 om digitalisering av skolen. Der viste vi at det er store variasjoner mellom kommuner i Skole-Norge, og at mange skoleeiere og skoleledere mener det er utfordrende å oppfylle krav til blant annet bestillingskompetanse, personvern og informasjonssikkerhet. I tillegg til ansvaret for å sørge for sin egen digitale kompetanse har skoleleder og skoleeier ansvar for at lærere og andre ansatte i skolen har den digitale kompetansen de trenger for å utføre arbeidet sitt.[^1161] Det innebærer å sørge for kompetanseutvikling i tråd med kravene i læreplanverket og å stille med nødvendige ressurser.
+
+Skoleleders og skoleeiers digitale kompetanse
+
+Synstolkning: Figur som viser Utdanningsdirektoratets modell for skoleleders og skoleeiers digitale kompetanse. I midten av figuren står det skoleleders og skoleeiers digitale kompetanse og har sju armer ut med ulike dimensjoner. Kompetansen består av følgende sju dimensjoner: 1) bestillerkompetanse, 2) informasjons- og dataforståelse, 3) personvern og etikk, 4) tekniske ferdigheter, 5) holdninger, forståelse for mulighetsrom og endring, 6) informasjonssikkerhet, og 7) kommunikasjon og samarbeid
+
+Kilde: Utdanningsdirektoratet (2024b)
+
+En studie av læreres opplevelse av barrierer for å bruke digitale ressurser i undervisningen blant skoler som innførte en-til-en-dekning av digitale enheter, viser at lærerne har ulik opplevelse av støtte fra skoleeier og profesjonsfellesskapet basert på erfaring.[^1162] Kommunen hvor lærerne var ansatt hadde nylig blitt sammenslått av tre kommuner, hvorav en av de gamle kommunene hadde satset systematisk på ledelse og pedagogisk utviklingsarbeid med digitale enheter over tid, mens de to andre kommunene hadde mindre erfaring. Fordi det allerede var igangsatt følgeforskning på satsingen, ble sammenslåingen et slags naturlig eksperiment. Forskerne fant at lærerne fra skoler som lenge hadde vært med i satsingen, i større grad opplevde at de fikk støtte fra skoleeieren, og opplevde at samarbeidet med kollegaer var bedre. Studien indikerer at det i løpet av de to første årene av implementeringen av en-til-en-dekning hadde utviklet seg et sterkere samarbeidsorientert profesjonelt fellesskap for bruk av digitale ressurser i undervisningen på skolene som var med tidlig, enn på skolene som ble med senere.
+
+## Foreldres digitale kompetanse
+
+Foreldres digitale kompetanse kan påvirke hvor godt de klarer å hjelpe barna sine med skolearbeidet i digitale løsninger.[^1163] I en undersøkelse for FUG i 2022 svarer tre av fire foreldre at de har gode digitale ferdigheter.[^1164] Likevel oppgir over halvparten at de i liten grad kan følge med på og støtte barnet sitt når hen arbeider på skolens digitale enhet. Foreldre opplever at det blir vanskeligere å hjelpe barna jo eldre de blir. Mangel på digitale ferdigheter kan utgjøre en ekstra barriere for enkelte familier. Foreldres digitale kompetanse henger sammen med utdanningsnivået deres.[^1165] En betydelig del av innvandrerfamilier har lav digital kompetanse, og særlig de som er nyankomne til landet.[^1166] Enkelte av disse vil ha utfordringer med å bruke enkle digitale verktøy.
+
+I foreldreundersøkelsen for FUG oppgir sju av ti foreldre at de at de opplever at det er lite samarbeid med skolen om det digitale læringsarbeidet.[^1167] Opplevelsen av lite samarbeid med skolene om digital teknologi gjelder særlig de foreldrene som selv rapporterer at de har dårlige digitale ferdigheter. Foreldre mener de får lite opplæring i å bruke digitale løsninger. Halvparten av foreldrene svarer at de ikke har fått noe opplæring. Blant dem som har fått opplæring av skolen, handler opplæringen mest om hvordan elevene og foreldre skal logge seg inn, og om hvilke plattformer som skolen bruker. Færre enn én av ti har fått opplæring i e-bøker eller i verktøy som barnet trenger for å følge undervisningen, sånn som spesialpedagogiske verktøy. Informasjonen foreldre får fra skolen, handler oftest om erstatning, ansvar ved skader og sikkerhet på skolens digitale enheter. En del foreldre melder også at de får informasjon om hvordan skolen håndterer personvern og nettsikkerhet. Rundt en av fire foreldre sier at de får informasjon om hvordan digital opplæring på skolen foregår.
+
+## Innspill til utvalget
+
+Utover innspill fra referansegruppen, og innspill fra barn og unge (se egne bokser), har utvalget mottatt innspill fra enkeltpersoner og organisasjoner på utvalgets nettside og i utvalgsmøter. Mange av disse innspillene handler om skjermbruk i skolen. En del trekker frem at vektleggingen av «skjerm» er lite hensiktsmessig, og at man heller bør se på hva teknologien tilfører. Digital kompetanse trekkes frem som noe som er viktig, og som elevene må utvikle gjennom skolen. Enkelte trekker frem at dagens læreplanverk ikke er den beste måten å gjøre dette på, men at digital kompetanse eller teknologi burde være et eget fag i skolen. Det har også kommet inn innspill om å fjerne digitale ferdigheter som grunnleggende ferdighet og erstatte det med et eget teknologifag i skolen. Blant annet sier forfatter og medieviter, *Maja Lunde*, i sitt innspill at hun ønsker et slikt fag.[^1168] Hvis digitale ferdigheter som grunnleggende ferdighet skal ersattes med noe, foreslår Lunde sosiale ferdigheter. På den andre siden er det flere som advarer mot å skille digital kompetanse ut i eget fag, da dette kan føre til at lærere i andre fag vil føle mindre ansvar for å undervise i dette og heller overlate det til læreren i teknologifag. *IKT-Norge* minner i sitt innspill om at skolen skal ruste elevene til å håndtere den verden de lever i. De mener at digitale ferdigheter gjerne kan suppleres med et eget teknologifag, der elevene bygger kompetanse om hensiktsmessig bruk av digitale verktøy og å bli gode digitale borgere.[^1169]
+
+I forlengelse av et klasseromsbesøk, snakket utvalget i etterkant med tre lærere og skoleleder på barneskolen. Lærerne opplever at elever med god struktur klarer å ha det ryddig og oversiktlig på datamaskinen eller nettbrettet, mens elevene som er mer ustrukturerte mangler en god mappestruktur og har oppe mange faner samtidig. Ofte er det de høyt presterende elevene som er strukturerte, og som ikke så lett blir distraherte av alle andre ting de kan gjøre på enheten sin, sammenlignet med elever som presterer lavere.
+
+*Foreningen for kunnskaps- og teknologivirksomheter i NHO, Abelia,* sier i sitt innspill at digitale ferdigheter og en digital omstilling av samfunnet er en forutsetning for å møte de store nasjonale og globale samfunnsutfordringene vi står ovenfor.[^1170] I tillegg har dagens norske bedrifter et stort og økende behov for digital kompetanse. Dermed mener Abelia at utviklingen av de digitale ferdighetene i befolkningen er viktig for å sikre et sterkt og konkurransedyktig norsk næringsliv.
+
+## Kunnskapshull
+
+Kunnskapsgrunnlaget om hva slags digital kompetanse elevene faktisk har, er relativt svakt. Vi har noe data fra internasjonale undersøkelser som PISA og TIMSS, men disse måler først og fremst andre ferdigheter, og kun digitale ferdigheter der det testes i sammenheng med de andre ferdighetene, slik som kildekritikk i lesing. Det finnes en stor internasjonal undersøkelse av elevers digitale kompetanse, ICILS, men vi har ikke resultater for norske elever etter 2013. Det finnes også tall fra Elevundersøkelsen og ulike mobbeundersøkelser som handler om tema relatert til elevenes digitale dømmekraft, for eksempel kildekritikk og digital mobbing. Digital dømmekraft er kun en av fem dimensjoner som utgjør digitale ferdigheter i læreplanverket. Vi vet dermed for lite om norske elevers digitale ferdigheter til å konkludere om hvordan den digitale teknologiens inntog i skolen påvirker elevenes digitale kompetanse. Vi vet heller ikke i hvilken grad elevene utvikler digital kompetanse i tråd med føringene i læreplanen. Utvalget ser frem til at resultatene fra ICILS 2023 publiseres senere i november.
+
+Utdanningsdirektoratets rammeverk for lærerens profesjonsfaglige digitale kompetanse (PfDK) beskriver en kompleks og omfattende kompetanse. I det gjennomgåtte kunnskapsgrunnlaget finner vi ikke at denne kompetansen er målt blant norske lærere. Kunnskapsgrunnlaget om norske læreres PfDK er i hovedsak basert på selvrapportering fra lærere eller svar fra skoleledere og skoleeiere på ulike spørreundersøkelser.[^1171] Vi vet ikke nok om i hvilken grad de som har svart, kjenner til hvor omfattende den profesjonsfaglige digitale kompetansen faktisk er. Det er behov for mer kunnskap om hva slags digital kompetanse lærerne har, og kunnskap som ikke bare er basert på selvrapportering.
+
+## Oppsummering
+
+Digitale ferdigheter som en av de fem grunnleggende ferdighetene, slik det fremstår i læreplanverket, er omfattende og komplekst. Digitale ferdigheter er ikke på samme nivå som de andre grunnleggende ferdighetene, da elevene både leser, skriver, regner og uttrykker seg muntlig med bruk av digital teknologi. En beskrivelse av skolens arbeid med digitale ferdigheter er integrert i de enkelte læreplanene i fag, og beskriver hvordan man skal forstå denne ferdigheten i det enkelte faget. Begrepet «grunnleggende digitale ferdigheter» kan være vanskelig å forstå fordi det også omfatter avansert kompetanse, som for eksempel å produsere musikk og programmere sannsynlighet.
+
+Digitale ferdigheter har ikke et fag med særskilt ansvar for den grunnleggende opplæringen av elevene, slik de andre grunnleggende ferdighetene har. Elevenes utvikling i digitale ferdigheter måles heller ikke i nasjonale prøver, og vi har lite informasjon om norske elevers nivå i digitale ferdigheter. Det varierer hvilket ansvar faglærere i grunnskolen opplever for å utvikle elevenes digitale kompetanse. Elevenes digitale dømmekraft, for eksempel kildevurdering, søkekompetanse og digital mobbing er de delene av elevenes digitale kompetanse som vi vet mest om og som vektlegges av lærere i mange fag. Vi vet mindre om elevenes evne til å anvende sin digitale kompetanse i læringssituasjoner og hverdagslivet.
+
+Det stilles høye krav til lærernes profesjonsfaglige digitale kompetanse. De fleste lærere mener de har god profesjonsfaglig digital kompetanse, men et flertall svarer også at de har et stort eller et visst behov for kompetanseheving i bruk av digital teknologi i undervisningen. Halvparten av lærerne sier at de ikke hadde god nok digital kompetanse til å håndtere overgangen til digital undervisning under koronapandemien. Lærere ønsker seg kompetanseheving når nytt innhold, som programmering, tas inn i læreplanverket, og når ny teknologi, som generativ kunstig intelligens, blir mer utbredt. Det er store forskjeller mellom lærerutdanningene i hvordan de arbeider med å utvikle lærerstudentenes profesjonsfaglig digitale kompetanse.
+
+Skoleeieren har ansvaret for at lærere og andre ansatte i skolen har den nødvendige kompetansen, men mange skoleeiere mangler planer for å styrke lærernes profesjonsfaglige digitale kompetanse. Kompetanse hos andre ansatte i skolen, for eksempel SFO-ansatte og miljøarbeidere, er i liten grad omtalt i styringsdokumenter om digital kompetanse.
+
+Mange foreldre mangler også nødvendig digital kompetanse til å følge opp barnet sitt gjennom skolens digitale løsninger. Foreldre får også lite opplæring i de løsningene skolen benytter. Foreldres digitale kompetanse henger ofte sammen med deres sosioøkonomiske status og utdanningsnivå.
+
+## Utvalgets vurdering
+
+Skolen er det eneste stedet der vi som samfunn når alle barn og unge. Utvalget mener derfor at det er i skolen at barn og unge må utvikle den grunnleggende og nødvendige digitale kompetansen for å mestre livet, både i og utenfor skolen. Skolen skal bidra til at barn og unge utvikler den nødvendige kompetansen til å være trygge, ansvarlige og aktive deltagere i den digitale verden i dag og i fremtiden. De må derfor få mulighet til å utvikle digital kompetanse, digital dannelse og digital dømmekraft.
+
+Gjennomgangen i dette kapittelet viser at den digitale kompetansen elevene skal utvikle, er godt og relativt detaljert beskrevet i læreplanverket. Det er likevel ikke lett å få en samlet oversikt over hva denne kompetansen inneholder, ettersom beskrivelsene befinner seg på ulike steder i læreverket. Det er gode grunner til at det er slik, ettersom alle fag har ansvar for at eleven utvikler digitale ferdigheter som er relevante i det aktuelle faget. Men tilbakemeldingene til utvalget tyder på at det er vanskelig å forstå hva slags digital kompetanse elevene skal utvikle i skolen. Når den digitale ferdigheten er såpass kompleks, kan det være utfordrende for skolen, elevene og foreldrene å forstå hva ferdigheten handler om, og hvorfor den er viktig. Utvalget ønsker å understreke at eventuelle endringer i hvordan digitale ferdigheter er innrettet, ikke må føre til at arbeidet med elevenes digitale kompetanse blir nedprioritert i skolen. Utvikling av denne kompetansen er viktigere enn noensinne.
+
+Når elevenes digitale ferdigheter ikke måles, har vi heller ikke informasjon om hvilket nivå elevene er på, og hvilken progresjon de har. Det kan gjøre det vanskelig for lærerne å tilrettelegge en god opplæring for elevene. Vi trenger å vite mer om hvordan det står til med elevenes digitale ferdigheter, for å kunne ta nødvendige grep, som å justere læreplanene. Samtidig er utvalget opptatt av å lytte til barn og unge som sier at de allerede opplever at det er for mye testing i skolen.
+
+Lærere har en travel hverdag, og digitaliseringen endrer innholdet i mange av fagene raskere enn innholdet i læreplanene oppdateres. Lærerne har et stort ansvar, både for å utvikle sin egen digitale kompetanse og for å hjelpe elevene med å utvikle digital kompetanse. Lærerne ønsker kompetanseheving innenfor digitalisering, og det er skoleeiernes ansvar å tilrettelegge for dette. Støtte fra skoleeieren og skoleledelsen har stor betydning for hvordan lærerne utøver sin profesjonsfaglige digitale kompetanse. Lærerutdanningene skal sikre at nye lærere i skolen har god og oppdatert kompetanse til å møte dagens og morgendagens elever. Utvalget har fått innspill om at nyutdannede lærere ikke er godt nok forberedt til å undervise i det digitale klasserommet.
+
+Utvalget mener skolen og lærerne har mer enn nok med å løse oppdraget de allerede har, med mindre ressursene økes betraktelig. Men det er noen grep som vil bidra til å styrke laget rundt eleven uten å øke bemanningen. Profesjonsfaglig digital kompetanse for lærere er tydelig definert fra utdanningsmyndigheter og i forskningslitteraturen, men det mangler en klar definisjon av digital kompetanse for andre voksne som møter barn og unge i deres skolehverdag, som miljøarbeidere og ansatte i skolefritidsordningen og skolehelsetjenesten. Derfor vil utvalget anbefale at nasjonale og lokale myndigheter også inkluderer andre ansatte enn lærere når det legges planer for å heve den digitale kompetansen.
+
+I dag trenger alle et visst nivå av digital kompetanse for å fungere i hverdagen, enten det er å sjekke nettbanken, betale skatt eller å «treffe» barnebarna som er på en annen kant av landet eller verden. Når det offentlige introduserer nye digitale tjenester, så får vi som innbyggere gjerne god tid til å omstille oss og veiledning i hvordan vi skal forholde oss til disse endringene. Det er mye som tyder på at det ikke har vært tilfellet når skolen har blitt digitalisert. Mange foreldre opplever at de er frakoblet barnas skolearbeid, og at de ikke har den digitale kompetansen som kreves for å bruke skolens digitale løsninger. Foreldrenes digitale kompetanse henger ofte sammen med deres sosioøkonomiske status, og manglende opplæring kan gjøre at sosiale forskjeller forsterkes. Særlig de foreldrene som selv rapporterer at de har lave digitale ferdigheter, opplever at det er lite samarbeid med skolene om bruk av digital teknologi. Utvalget mener derfor at skoleeier må ta et større ansvar for at foreldre har tilstrekkelig digital kompetanse til å følge med i sine barns digitale skolehverdag.

@@ -1,890 +1,278 @@
-# NOU 2020: 3, del 31 av 42 (side 337–347)
+# NOU 2020: 3, del 31 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 337]
+# Mastergradsforskriften
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+\[:figur:fig32-1.jpg\]
 
-34.7 Register for sanksjonerte søkere og
-studenter
-34.7.1 Gjeldende rett
-Hjemmelen for Register for utestengte studenter
-(RUST) i universitets- og høyskoleloven § 4-12
-ble tilføyd ved lov 20. juni 2014 nr. 55. RUST gjør
-det mulig å formidle blant annet vedtak om utestenging trygt og effektivt. Betegnelsen «utestenging» i denne bestemmelsen omfatter både
-vedtak om opptakskarantene etter universitetsog høyskoleloven § 3-7 åttende ledd og vedtak
-om utestenging etter §§ 4-8 første til tredje ledd
-og 4-10 tredje ledd. RUST er en database som
-skal kommunisere med institusjonenes datasystemer, i all hovedsak Felles studentsystem.
-Vedtak om utestenging som de aktuelle institusjonene, Samordna opptak og NOKUT skal informeres om, registreres lokalt ved institusjonen der
-vedtaket fattes. Informasjonen videreformidles via
-Felles studentsystem til de aktuelle institusjonene, Samordna opptak og NOKUT når det er
-relevant. Studenten eller søkeren informeres også
-om registreringen. Vedtaket slettes automatisk fra
-institusjonene som har registrert eller mottatt
-informasjonen når utestengingsperioden er utløpt.
-Hensikten med informasjonsutvekslingen
-gjennom registeret er å opplyse institusjonene
-om vedtak vedrørende opptakskarantene,
-eksamenskarantene og utestenging som har
-virkning utover institusjonen vedtaket er fattet
-ved. Dette vil hindre at studenter får opptak til,
-eller tar eksamen ved, andre institusjoner når det
-foreligger et sanksjonsvedtak. Informasjonsutvekslingen er også begrunnet i at studentene
-ikke skal kunne benytte seg av falske dokumenter ved andre institusjoner.
-Det er bare informasjon om vedtak som får
-konsekvenser ved andre utdanningsinstitusjoner,
-som skal overføres til RUST. Tilgangen til informasjonen i RUST begrenses ved at informasjonen
-bare videreformidles via Felles studentsystem til
-institusjoner, Samordna opptak og NOKUT når
-denne informasjonen er relevant og nødvendig for
-deres virksomhet. Dette vil gjelde institusjoner
-den aktuelle personen søker om opptak til, eller i
-tilfeller der vedkommende er student ved en
-utdanning som det gjelder et utestengingsvedtak
-for. Informasjonen til Samordna opptak og
-NOKUT om eventuelle utestengingsvedtak bidrar
-til at det blir mulig å avvise en søknad om opptak
-til høyere utdanning eller godkjenning av utenlandsk utdanning fra en person med et
-utestengingsvedtak på seg.
+## Utvalgets forslag
 
-335
-
-Kapittel 34
-
-34.7.2 Utvalgets vurderinger
-Unit har gitt innspill til utvalget vedrørende universitets- og høyskoleloven § 4-12.27 Unit viser til
-at informasjonen i registeret ikke bare er begrenset til utestengte studenter. Det inneholder også
-informasjon om studenter som har fått et vedtak
-om eksamenskarantene, eller er funnet uskikket
-til et yrke. Videre inneholder registeret informasjon om søkere som har fått opptakskarantene.
-Navnet på registeret, Register for utestengte studenter er derfor ikke dekkende for den informasjonen registeret inneholder, og Unit opplever at
-mange misforstår hva registeret brukes til, på
-grunn av ordet «utestengte». Unit foreslår derfor
-å endre navnet på registeret til Register for sanksjonerte søkere og studenter.
-Det følger blant annet av universitets- og høyskoleloven § 4-12 andre ledd at institusjonen skal
-registrere informasjon i registeret om vedtak
-etter § 3-7 åttende ledd, § 4-8 første til tredje ledd
-og § 4-10 tredje ledd, som får konsekvenser for
-opptak til studier og rett til å gå opp til eksamen
-ved andre institusjoner. «Når vedtakets periode
-er utløpt, skal informasjonen om vedtaket slettes
-fra registeret».
-Dette er bare delvis korrekt, siden universiteter og høyskoler ikke registrerer informasjon
-om vedtak direkte i registeret, men i sitt studieadministrative system. Deretter blir informasjonen overført til registeret. Det foreslås derfor
-å endre ordlyden i andre ledd første punktum.
-Det går frem av universitets- og høyskoleloven § 4-12 andre ledd andre punktum at «[n]år
-vedtakets periode er utløpt, skal informasjonen
-om vedtaket slettes fra registeret». Unit har spilt
-inn til utvalget at det er behov for å presisere at
-vedtaket også skal slettes fra institusjonens
-studieadministrative system. Utvalget er enig i
-Units innspill om å endre ordlyden i universitetsog høyskoleloven § 4-12 og foreslår at bestemmelsen endres slik det er foreslått i innspillet.
-Dette vil bringe bestemmelsen mer i tråd med
-praksis. Når det gjelder navnet på registeret,
-foreslår utvalget at dette i henhold til Units innspill endres til Register for sanksjonerte søkere
-og studenter.
-
-27
-
-Se innspill fra Unit om digitalisering https://www.universitetsoghoyskolelovutvalget.no/files/2019/10/Unit-Innspillom-digitalisering-1.docx.
-
-[Side 338]
-
-336
-
-Kapittel 34
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-34.8 Rapportering av individdata til
-database for statistikk om høyere
-utdanning
-34.8.1 Gjeldende rett
-Universitets- og høyskoleloven § 7-8 regulerer
-rapportering og behandling av personopplysninger i «en database for statistikk om høyere
-utdanning».
-Database for statistikk om høgre utdanning
-(DBH) er en nasjonal database for statistikk om
-blant annet studenter, utdanning, forskning, personale og økonomien ved universiteter og høyskoler i Norge. Databasen ble etablert på initiativ
-fra Kunnskapsdepartementet for å samle og gjøre
-tilgjengelig data om høyere utdanning og forskningssektoren i Norge. Forvaltningen og driften
-av databasen er lagt til Norsk senter for
-forskningsdata (NSD), som er en forskningsinstitusjon som arkiverer, tilrettelegger og formidler data til forskningsmiljøer i Norge og internasjonalt. Formålet med DBH er å legge til rette for
-statistikk, utredning og forskning og for departementets forvaltning og styring av høyere utdanning. Personopplysningene skal bare brukes i den
-utstrekning det er nødvendig for å oppnå dette
-formålet, og behandlingen er ellers underlagt
-øvrige begrensninger etter personvernregelverket som til enhver tid gjelder. Data og statistikk fra DBH er en del av grunnlaget for Kunnskapsdepartementets forvaltning og styring av
-universiteter og høyskoler. Bestemmelsen i universitets- og høyskoleloven § 7-8 ble tilføyd ved
-lov 15. juni 2018 nr. 43.
-Det er Kunnskapsdepartementet som er
-behandlingsansvarlig for individdataene som samles inn i DBH, mens NSD er databehandler. I henhold til databehandleravtalen skal NSD, på vegne
-av Kunnskapsdepartementet, samle inn personopplysninger fra universiteter og høyskoler. Avtalen sier også at NSD på visse vilkår kan utlevere
-personopplysninger til mottakere som har lovlig
-behandlingsgrunnlag. Data fra DBH samordnes
-og utleveres i dag blant annet til Helsedirektoratet, NOKUT, Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU), Lånekassen, Direktoratet for internasjonalisering og
-kvalitetsutvikling (Diku) og Statistisk sentralbyrå
-(SSB). Hver av disse organene blir behandlingsansvarlig for personopplysningene de mottar.
-Selv om personopplysninger samles inn i
-DBH, benyttes alltid tall på aggregert nivå ved
-publisering i DBH eller i departementets publikasjoner og som grunnlag for styringen av sektoren.
-
-34.8.2 Utvalgets vurderinger
-Utvalget ser ikke behov for å gjøre materielle
-endringer og foreslår å videreføre bestemmelsen i universitets- og høyskoleloven § 7-8 som
-den er.
-
-34.9 Rapportering til database for
-vitenskapelig publisering
-34.9.1 Gjeldende rett
-Bestemmelsen i universitets- og høyskoleloven
-§ 7-7 om rapportering til database for vitenskapelig publisering, Cristin28, ble tilføyd ved lov
-22. juni 2012 nr. 55. Cristin er et system for registrering ring av forskningspublikasjoner på nasjonalt nivå. Da systemet ble utviklet, var hovedformålet å gjøre informasjon om forskning tilgjengelig for alle, men spesielt for forskningsmiljøene.
-En slik sammenstilling av informasjon om forskning ville ha en verdi i seg selv, samtidig som
-sammenstillingen også kunne øke det samfunnsmessige utbyttet av investeringene i forskning.
-Bestemmelsen gjelder universiteter og høyskoler, regionale helseforetak og institutter som
-mottar offentlig resultatbasert finansiering av
-forskning basert på bruk av indikatorer for vitenskapelig publisering. Formålet med rapporteringsplikten er å sikre kvaliteten på data til Cristin.
-Det avgjørende for rapporteringsplikten er derfor
-ikke institusjonstype, men at institusjonen «mottar
-offentlig resultatbasert finansiering av forskning
-basert på bruk av indikatorer for vitenskapelig
-publisering». Bestemmelsen gjelder også for
-helseforetak og andre institusjoner som inngår i
-det nasjonale systemet for måling av forskningsaktivitet i de regionale helseforetakene. Det vil si,
-at også underliggende foretak og institusjoner
-som inngår i de regionale helseforetakenes resultatfinansierte forskningsvirksomhet, er omfattet.
-Universitets- og høyskoleloven § 7-7 gir departementet hjemmel til å gi pålegg til institusjoner
-om å rapportere navn og fødselsnummer for forfattere av vitenskapelige publikasjoner ved institusjonen til en nasjonal database. Fødselsnummer
-er påbudt som identifikasjonsgrunnlag for forfattere av vitenskapelige publikasjoner som skal
-registreres i dette registeret. Dette skal gjøre det
-28
-
-Cristin (en forkortelse for Current Research Information
-System in Norway) er datasystemet og organisasjonen for
-det nasjonale registeret over forskningspublikasjoner og
-forskningsresultater i Norge. Systemet er et rapporteringssystem for forskningspublikasjoner, forskerkataloger, prosjekter, forskningsenheter og årsrapportering.
-
-[Side 339]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-mulig å foreta maskinell sammenstilling av opplysninger i databasen.29 Bakgrunnen for at lovhjemmelen var nødvendig var at enkelte forskere motsatte seg å utlevere fødselsnummer. I tredje ledd
-nest siste punktum er det fastsatt at fødselsnumrene bare skal være tilgjengelig for behandlingsansvarlig, databehandler og den som er
-registrert.
-
-34.9.2 Utvalgets vurderinger
-Utvalget har mottatt innspill fra Unit om rapportering til Cristin.
-Unit har i innspill til utvalget vist til at da
-bestemmelsen i § 7-7 ble vedtatt, var krav om lovhjemmel for bruk av fødsel- og personnummer
-som sikker identifikator av de registrerte, og det
-er dette som er beskrevet som bestemmelsens
-formål. Etter det gjeldende personvernregelverket er ikke dette lenger påkrevd, og behandlingen dekkes av personopplysningsloven § 12.
-Slik bestemmelsen lyder i dag, kan det virke som
-Cristin bare skal inneholde informasjon knyttet til
-forskning hvor aktørene mottar offentlig resultatbasert finansiering. Imidlertid er også andre prosjekter registrert i systemet, men det har vært
-usikkerhet om hvorvidt bestemmelsen hjemler
-dette.
-For å ivareta Cristins overordnede formål om å
-gi forskningen økt samfunnsmessig verdi ved å se
-forskningen i flere sektorer i sammenheng,
-mener Unit det bør komme tydeligere frem at
-også andre forskningsprosjekter enn de med
-resultatbasert finansiering kan registreres i
-systemet. Ifølge forarbeidene til bestemmelsen er
-det ikke noe i veien for dette, men det er Units
-oppfatning at dette formålet bør komme tydelig til
-uttrykk i bestemmelsen. I tillegg er det flere institusjoner som ønsker å kunne benytte seg av ulike
-sammenstillinger av data for analyseformål, blant
-annet referansemåling. Dette er på siden av hva
-dataene i Cristin blir samlet inn for, og det kan
-derfor være behov for å beskrive formålene nærmere, slik at lovbestemmelsen om Cristin dekker
-dagens behov. Unit har også foreslått å endre
-navnet på bestemmelsen slik at det fremgår at det
-ikke bare er vitenskapelige publiseringer som kan
-registreres i systemet.
-Utvalget har vurdert innspillene fra Unit knyttet til universitets- og høyskoleloven § 7-7 og foreslår å videreføre bestemmelsen med visse språk29
-
-Se Prop. 67 L (2011–2012) Endring i universitets- og høyskoleloven (rapportering til database for vitenskapelig publisering) s. 3 punkt 2.2.
-
-337
-
-Kapittel 34
-
-lige endringer. Units forslag er delvis hensynstatt,
-men det er utvalgets oppfatning at departementet
-må se nærmere på de personvernmessige konsekvensene før man gjør materielle endringer i lovbestemmelsen.
-
-34.10 Muligheter for digitalisering
-34.10.1 Innspill fra Unit
-I forbindelse med arbeidet med forslag til ny universitets- og høyskolelov ba utvalget Direktoratet
-for IKT og fellestjenester i høyere utdanning og
-forskning (Unit) om innspill.30 I bestillingen ba
-utvalget Unit om å knytte innspillene til mulighetene for digitalisering innenfor alle deler av sektoren, som for eksempel utdanning, forskning,
-studieadministrasjon og ledelse. Enkelte av innspillene til lovendringsforslag er behandlet tidligere i kapittelet.
-I innspillene sine til utvalget presiserer Unit at
-det er viktig at digitalisering og datadeling ikke
-griper mer inn i personvernet og rettssikkerheten
-til de registrerte enn nødvendig. På enkelte områder er det nødvendig at universitets- og høyskoleloven inneholder bestemmelser som supplerer
-personvernforordningen, for eksempel for å sikre
-rettslig grunnlag for å behandle personopplysninger når institusjonene utøver offentlig myndighet.
-Videre viser de til at det også er hensiktsmessig at
-universitets- og høyskoleloven inneholder bestemmelser som klart definerer formålet med å dele og
-behandle personopplysninger. Dette er områder
-hvor personvernforordningen åpner for supplerende bestemmelser i særlover, i dette tilfellet universitets- og høyskoleloven.
-Unit viser også til at datadeling er en viktig forutsetning for å oppnå en effektiv digitalisering.
-Kun-én-gang-prinsippet slår fast at borgere bare
-skal trenge å avgi informasjon til det offentlige én
-gang.
-34.10.2 Utvalgets vurderinger
-Utvalget mener at datadeling er effektivt for brukere, og i tillegg kan man spare administrative
-ressurser ved å dele data rett fra kilden til mottakeren. Ansatte trenger for eksempel ikke å lete
-frem data og overlevere dataene i papirform til
-borgeren, som så leverer dem til en annen myndighet i papirform eller som ustrukturerte data,
-30
-
-Se innspill fra Unit om digitalisering https://www.universitetsoghoyskolelovutvalget.no/files/2019/10/Unit-Innspillom-digitalisering-1.docx
-
-[Side 340]
-
-338
-
-Kapittel 34
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-slik det blant annet var tradisjon for med vitnemål
-før Vitnemålsportalen ble opprettet.
-I dag deles data mellom Unit og andre aktører
-i sektoren, for eksempel NOKUT og Lånekassen.
-I tillegg deler utdanningsinstitusjonene selv data
-med ulike aktører. Unit har vist til at skal man lykkes med å skape brukervennlige tjenestekjeder,
-må data deles i større grad enn det som er tilfellet
-i dag, og det er mange utfordringer forbundet
-med å operasjonalisere datadelingen. Noen av
-utfordringene er usikkerhet rundt hva som er tillatt etter gjeldende regelverk. Units vurdering er
-
-at det er behov for mer datadeling, og at dette kan
-løses ved at Unit gis myndighet til å opprette tjenester for datadeling.
-Utvalget har vurdert innspillene fra Unit.
-Utvalget deler Units syn på at det er behov for å
-dele data i større utstrekning enn i dag, og at
-loven bør legge til rette for slik deling av data.
-Utvalget mener imidlertid at forslaget om å gi
-Unit myndighet til å opprette tjenester for datadeling, må utredes nærmere før det kan lovfestes,
-og oppfordrer departementet til å vurdere dette i
-det kommende lovarbeidet.
-
-[Side 341]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-339
-
-Kapittel 35
-
-Kapittel 35
-
-Diverse bestemmelser i universitets- og høyskoleloven
-
-Figur 35.1
-
-35.1 Beskyttelse av universiteters og
-høyskolers egennavn
-35.1.1 Utvalgets forslag
 Utvalget foreslår følgende:
-• Dagens § 7-2 om beskyttelse av universiteter
-og høyskolers egennavn videreføres.
-Utvalget anbefaler følgende:
-• Departementet bør vurdere om loven skal stille
-krav om at bare institusjoner som har oppnådd
-institusjonsakkreditering som «høyskole» kan
-kalle seg det.
 
-35.1.2 Gjeldende rett
-Det følger av universitets- og høyskoleloven § 7-2
-første ledd at Kongen «fastsetter navn for statlige
-universiteter og høyskoler»1. Denne oppgaven ble
-delegert til departementet i 20122. Bestemmelsen
-er i det vesentlige en videreføring av privathøyskoleloven § 10c og delvis universitetsloven av
-1995 § 1 nr. 2 siste punktum.3 Private institusjoner
-fastsetter selv sitt egennavn. I 2005-loven ble
-betegnelsene «universitet», «vitenskapelig høyskole» og «høyskole» rettslig beskyttet ved at det
-ble forbudt å gi misvisende inntrykk i markedsføringen av at institusjonen er akkreditert.4
-1
-2
-3
+- Forskrift om mastergrad (mastergradsforskriften)[^615] endres, slik at det gjøres tydelig at opprettelse av femårige integrerte mastergrader må begrunnes særlig i det enkelte tilfellet.
 
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven).
-Ved kgl. res. 3. februar 2012 nr. 126 om Delegering av
-Kongens myndighet etter universitets- og høyskoleloven § 7-2.
-Lov 11. juli 1986 nr. 53 om private høyskoler (privathøyskoleloven) og lov 12. mai 1995 nr. 22 om universiteter og
-høgskoler (universitetsloven).
+- Behovet for å endre omfanget av krav til faglig fordypning i mastergradsforskriften utredes.
 
-Det følger av universitets- og høyskoleloven
-§ 7-2 andre ledd at bare en institusjon som er akkreditert som vitenskapelig høyskole eller universitet, kan benytte slik betegnelse. Betegnelsen
-«høyskole» kan bare benyttes av institusjoner som
-er akkreditert som høyskole eller som er akkreditert for å tilby enkeltstudier etter universitets- og
-høyskoleloven. I forarbeidene5 til loven viser
-departementet til følgende:
-Det i dag er flere institusjoner uten akkreditering fra NOKUT som benytter høyskolebetegnelsen aktivt, bl.a. i sin markedsføring. Dette
-kan være villedende for studenter som tror de
-søker seg til en institusjon som har akkrediterte tilbud innenfor høyere utdanning.
-Det følger av § 7-2 andre ledd siste punktum at institusjoner som ikke har akkreditering etter universitets- og høyskoleloven, ikke kan benytte seg av
-markedsføring som gir uriktig inntrykk av at de har
-slik akkreditering. Som eksempler på villedende
-markedsføring som rammes av bestemmelsen,
-nevnes i forarbeidene «bruk av ord og uttrykk som
-‘høyere utdanning’, ‘grader’ og ‘studiepoeng’ i
-markedsføringen og i generell informasjon».6
-Andre betegnelser som gir inntrykk av akademiske ambisjoner, som «institutt» og «akademi»,
-er i utgangspunktet ikke beskyttet, men departe4
-5
-6
+## Gjeldende rett
 
-Nytt siste punktum i andre ledd ble tilføyd ved lov 20. juni
-2014 nr. 55 om endringer universitets- og høyskoleloven.
-Ot.prp. nr. 79 (2003–2004) Om lov om universiteter og høyskoler punkt 8.2.4 Departementets vurdering.
-Prop. 59 L (2013–2014) Endringer i universitets- og høyskoleloven kapittel 10 Merknader til bestemmelsene.
+I universitets- og høyskoleloven § 3-2 første ledd tredje punktum står det at «\[d\]epartementet kan gi forskrift om krav til høyere grad og om omfang av selvstendig arbeid i høyere grad». Mastergradsforskriften er fastsatt med hjemmel i bestemmelsen. I forskriften er tre ulike mastergrader regulert i §§ 3 til 5.
 
-[Side 342]
+Mastergradsforskriften § 3 regulerer toårige mastergrader som bygger på en treårig bachelorgrad eller cand.mag. grad eller lignende. Denne mastergraden har erstattet de tidligere hovedfagene, som bygde på en cand.mag. grad.[^616] I forskriften er det fastsatt hvilke krav som skal stilles til en mastergrad av 120 studiepoengs omfang (2 år). Graden skal bygge på enten bachelorgrad, cand.mag. grad, annen grad eller yrkesutdanning av minimum tre års omfang eller annen type utdanning som er godkjent som faglig jevngod med disse tre gradene eller utdanningsløpene. I tillegg kreves det at kandidaten har en fordypning i fag, emne eller emnegruppe av minimum 80 studiepoengs omfang innenfor fagområdet for mastergraden, eller en integrert yrkesrettet utdanning av minimum 120 studiepoengs omfang innenfor fagområdet for mastergraden. Det stilles også krav om at kandidaten må gjøre et selvstendig arbeid av 60 eller 30 studiepoengs omfang, jf. forskriften § 6.
 
-340
+Mastergradsforskriften § 5 gir hjemmel for en erfaringsbasert mastergrad av 90 eller 120 studiepoengs omfang. Også her stilles det krav om et selvstendig arbeid i henhold til forskriften § 6. I tillegg skal mastergraden bygge på ulike nærmere definerte studieløp, nevnt i § 5. For erfaringsbaserte mastergrader kreves det også minimum to års yrkeserfaring.
 
-Kapittel 35
+Mastergradsforskriften § 4 regulerer integrerte mastergrader, det vil si mastergrader av 300 studiepoengsomfang (fem år). I en integrert master kreves det at kandidaten gjør et selvstendig arbeid av minst 20 studiepoengs omfang, jf. forskriften § 6. En integrert mastergrad innebærer at kandidaten må følge hele det femårige løpet før vedkommende oppnår en grad. Graden skiller seg ved dette fra de to andre mastergradene, som begge bygger på en lavere grad eller et annet avsluttet utdanningsløp. Medisinutdanning og juristutdanning er eksempler på integrerte mastergrader.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Bakgrunn for mastergradsforskriften
 
-mentet kan ved forskrift eller enkeltvedtak forby
-bruk av institusjonsbetegnelser eller navn som
-uriktig gir inntrykk av at en institusjon har godkjenning etter loven, og betegnelser eller navn
-som er egnet til å forveksles med en beskyttet
-betegnelse, jf. § 7-2 tredje ledd.
-I henhold til § 7-2 fjerde ledd kan departementet etter søknad gi dispensasjon for etablerte sammensatte betegnelser som ikke er egnet til å forveksles med betegnelsene nevnt i andre ledd.
-Denne unntakshjemmelen tar sikte på etablerte
-institusjoner som Folkeuniversitetet og Kvinneuniversitetet, som er kjent i kraft av sin egenart,
-og som ikke vil kunne forveksles med institusjoner under loven. Videre følger det av dette leddet at departementet bestemmer hvilke betegnelser institusjonene skal benytte på andre språk.
-Bestemmelsen gjelder oversettelser av de beskyttede kategorinavnene «høyskole», «vitenskapelig
-høyskole» og «universitet» og gjelder for øvrig
-ikke oversettelser av institusjonenes navn.7
-Det følger av universitets- og høyskoleloven
-§ 7-2 femte ledd at betegnelsen «universitetssykehus» bare kan benyttes av virksomheter som er
-godkjent som universitetssykehus etter nærmere
-regler fastsatt med hjemmel i spesialisthelsetjenesteloven § 4-1.
-Til slutt går det frem av bestemmelsens sjette
-ledd at den som forsettlig eller uaktsomt bruker
-en vernet institusjonsbetegnelse i strid med
-bestemmelsen, «kan ilegges overtredelsesgebyr
-av departementet. Foretak kan ilegges slikt overtredelsesgebyr selv om ingen enkeltperson har
-utvist skyld som beskrevet i første punktum.»
-Departementet kan gi nærmere regler om dette i
-forskrift. Hjemmelen til å ilegge overtredelsesgebyr er en kan-regel, men departementet viste i forarbeidene8 til at fordi de hensyn som ligger bak
-beskyttelsen av institusjonsbetegnelser anses som
-viktige og bør vernes, må terskelen for å ilegge
-overtredelsesgebyr ligge lavt, hvis det ikke nytter
-å anmode om at bruken opphører.
-Alle institusjoner som tilbyr norsk høyere
-utdanning, er underlagt universitets- og høyskoleloven, som regulerer institusjonenes virksomhet
-og hvilke krav de må oppfylle for å få akkreditert
-studieprogrammer og institusjoner. Regelverket
-åpner for at private også kan søke om institusjonsakkreditering som høyskole, vitenskapelig høyskole eller universitet med de samme faglige kravene til kvalitet som de statlige. I 2017 studerte 16
-7
-8
+I 1999 ble Bologna-prosessen for høyere utdanning etablert. I dag omfatter avtalen 48 europeiske land, EU-kommisjonen og alle sentrale europeiske organisasjoner for høyere utdanning. Reformene i høyere utdanningssystemer skal gjøre det lettere å bevege seg over landegrensene, og å samarbeide om de store og viktige spørsmålene for europeisk høyere utdanning. Prosessen har ført til store strukturelle endringer innenfor europeisk høyere utdanning, og i 2010 ble det europeiske området for høyere utdanning (European Higher Education Area EHEA) etablert. Det ligger ingen juridiske dokumenter til grunn for prosessen som førte til vedtakene. Vedtakene er fattet gjennom kommunikéer fra ministermøtene hvert tredje år og anses som forpliktende, slik at det enkelte land og den enkelte minister ansees forpliktet til å følge opp vedtakene i sitt land.
 
-prosent av de registrerte studentene i høyere
-utdanning ved private institusjoner med statstilskudd og 84 prosent ved statlige institusjoner.
-Nasjonalt organ for kvalitet i utdanningen
-(NOKUT) skal akkreditere institusjoner og studietilbud og føre tilsyn med institusjonenes kvalitetsarbeid og med at institusjoner og eksisterende
-studietilbud fyller gjeldende standarder og kriterier for akkreditering. Utdanningstilbud som ikke
-er akkreditert som høyere utdanning, faller utenfor universitets- og høyskoleloven9.
-I dag er reglene slik at en institusjon som tilbyr ett eller flere akkrediterte studier, kan kalle
-seg høyskole. Det er ikke noe krav om at selve
-institusjonen skal være akkreditert. Det finnes
-således to hovedtyper private høyskoler, de med
-akkrediterte studietilbud men uten institusjonsakkreditering, og de som er institusjonsakkreditert som høyskole eller vitenskapelig høyskole.
-En vesentlig forskjell mellom en høyskole med
-akkrediterte studietilbud og en høyskole som har
-institusjonsakkreditering, er at den institusjonsakkrediterte høyskolen har faglige fullmakter til
-selv å etablere nye studietilbud på bachelornivå
-innenfor alle fagområder, jf. universitets- og høyskoleloven § 3-3, men må søke NOKUT om å etablere studietilbud på master- og doktorgradsnivå.
-Innenfor de fagområdene hvor de har rett til å tildele doktorgrad, kan de opprette studietilbud på
-bachelor- og masternivå. Høyskoler uten institusjonsakkreditering må søke NOKUT om akkreditering hvis de ønsker å opprette nye studietilbud.
-Universiteter på sin side kan opprette studietilbud
-på alle nivå uten å søke NOKUT om akkreditering.
-Mens kravene til akkreditering av studietilbud
-er direkte knyttet til det enkelte studietilbudet og
-det tilhørende fagmiljøet, er kravene til institusjonsakkreditering knyttet til institusjonen som
-sådan. I tillegg til å oppfylle kravene for akkreditering av studietilbud må institusjoner som søker om
-institusjonsakkreditering oppfylle generelle krav
-uavhengig av institusjonstype, og spesielle krav
-som gjelder for akkreditering som henholdsvis
-høyskole, vitenskapelig høyskole eller universitet.
-NOKUT behandler søknader om institusjonsakkreditering. De generelle kravene for institusjonsakkreditering er fastsatt i studiekvalitetsforskriften § 3-5, og innebærer blant annet at institusjonens «primærvirksomhet skal være høyere
-9
+Ett av punktene i Bologna-prosessen omhandler gradsstruktur. Ministrene har gjennom en rekke kommunikéer vedtatt å etablere en gradsstruktur bestående av tre hovednivåer, «first, second and third cycle», normalt referert til som bachelor-, master- og ph.d.-programmer. De strukturelle elementene i Bologna-prosessen, slik som innføring av ny gradsstruktur, ble i all hovedsak gjort gjennom Kvalitetsreformen. I St.meld. nr. 27 (2000–2001) *Gjør din plikt – krev din rett* fremgår det at den nye gradsstrukturen, som skulle bestå av en treårig lavere bachelorgrad og en toårig høyere grad kalt master, skulle innføres for de fleste utdanninger. Enkelte profesjonsutdanninger skulle beholde sine enhetlige studieløp på fem år. Stortinget sluttet seg i Innst. S. nr. 337 (2000–2001) til departementets forslag til ny gradsstruktur, og vedtok en gradsstruktur «der det vert innført ein lågare grad på tre år og ein høgare grad på to år, og der den organiserte forskerutdanninga skal vere som i dag med ein tidslengd på tre år». Samtidig sluttet Stortinget seg til vurderingen av at enkelte profesjonsutdanninger skulle vurderes særskilt, og ba departementet komme tilbake til Stortinget på dette punktet.
 
-Ot.prp. nr. 79 (2003–2004) merknad til § 7-2 fjerde ledd.
-Prop. 81 L (2015–2016) Endringer i universitets- og høyskoleloven (NOKUTs tilsyn, nasjonal vitnemålsportal mv.) s. 47.
+Alle Bologna-landene har jobbet for å innføre denne gradsstrukturen. Med noen få unntak som gjelder profesjonsutdanninger innen medisin, odontologi og veterinærmedisin, er gradsstrukturen innført fullt ut i de aller fleste land.
 
-Oversikt over akkrediterte institusjoner og de med bare
-akkrediterte studietilbud finner her: NOKUT. Akkrediterte
-institusjonar
-https://www.nokut.no/databaser-og-fakta/
-akkrediterte-institusjonar/ hentet 6.12.2019.
+Regjeringen la frem en egen stortingsmelding om unntak fra den nye gradsstrukturen, der den foreslo at noen utdanninger fortsatt skulle være integrerte løp.<sup>1</sup> Stortinget sluttet seg med noen få unntak til departementets vurdering.<sup>2</sup> Stortinget vedtok så hvilke utdanninger som skulle kunne fortsette som helhetlige integrerte utdanninger som enten førte frem til graden master eller én av gradsbetegnelsene fra det tidligere gradssystemet, slik som cand.med., cand.psychol., cand.jur med flere. Norge er i dag et av landene i Europa med flest lange, integrerte mastergrader. I dag følger cirka 17 prosent av norske studenter et slikt utdanningsløp.
 
-[Side 343]
+<sup>1</sup> St.meld. nr. 11 (2001–2002) *Kvalitetsreformen – Om vurdering av enkelte unntak fra ny gradsstruktur i høyere utdanning.*
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+<sup>2</sup> Jf. Innst. S. nr. 188 (2001–2002). *Innstilling fra kirke-, utdannings- og forskningskomiteen om Kvalitetsreformen. Om vurdering av enkelte unntak fra ny gradsstruktur i høyere utdanning.*
 
-utdanning, forskning eller kunstnerisk utviklingsarbeid, faglig utviklingsarbeid og formidling», og at institusjonens organisering og infrastruktur skal være tilpasset virksomheten.
-NOKUT skal også gjøre en helhetlig vurdering av
-om institusjonens organisering, kvalitetsarbeid og
-resultater er tilstrekkelige til at institusjonen kan
-bære fullmaktene som institusjonsakkrediteringen gir.
-I tillegg til kravene i studiekvalitetsforskriften
-er det enkelte krav til akkreditering av institusjoner i studietilsynsforskriften § 3-1. Forskriften stiller krav om at institusjonens forskning og faglige
-utviklingsarbeid skal utføres i samspill med utdanningsvirksomheten, og videre at institusjonen skal
-ha et «jevnlig opptak av studenter og et tilfredsstillende antall kandidater som fullfører til normert
-tid». Institusjonen skal ha en «relevant kompetanseprofil», og den samlede kompetansen skal
-være på et nivå med sammenlignbare institusjoner i samme institusjonskategori.10
-Det følger av universitets- og høyskoleloven
-§ 1-2 andre ledd at det er Kongen som avgjør hvilken kategori den enkelte institusjon tilhører på
-grunnlag av en akkreditering fra NOKUT. Hvis
-NOKUT treffer vedtak om institusjonsakkreditering som høyskole, vitenskapelig høyskole eller
-universitet, må den aktuelle institusjonen derfor i
-etterkant søke departementet om å bli plassert i
-den aktuelle institusjonskategorien den er akkreditert for. Departementet vil på bakgrunn av søknaden forberede en sak for Kongen i statsråd som
-treffer den endelige beslutningen ved kongelig
-resolusjon.
-Kunnskapsdepartementet sendte i 2019 på
-høring et forslag om at høyskoler må ha institusjonsakkreditering for å få statstilskudd. Forslaget
-gikk ut på at de som ikke har institusjonsakkreditering heller ikke kan få statstilskudd.11 I lovproposisjonen la departementet vekt på at kravet om
-institusjonsakkreditering er et objektivt kriterium
-som tar hensyn til ønsket om likebehandling av
-private og statlige institusjoner.12 Alle de statlige
-institusjonene under Kunnskapsdepartementet er
-i dag institusjonsakkrediterte som enten høy-
+\[Boks slutt\]
 
-341
+## Utvalgets vurderinger
 
-Kapittel 35
+De siste årene har flere utdanninger blitt endret fra å være tre- eller fireårige til å bli femårige integrerte mastergrader. Dette kan skyldes ønsker og prioriteringer hos institusjonene, men også krav fra politisk hold. I 2017 ble for eksempel en ny, femårig integrert grunnskolelærerutdanning opprettet. Begrunnelsen for å opprette utdanningen som en integrert master var dels å øke kompetansen hos fremtidige lærere, dels å bygge en ny struktur i lærerutdanningen der pedagogikk og didaktikk er integrert i hele det faglige løpet. Et annet mål var å heve statusen til lærerutdanningen.
 
-skole, vitenskapelig høyskole eller universitet.
-Bakgrunnen for departementets forslag var en
-rapport fra en ekspertgruppe som hadde vurdert
-dette nærmere.13
-Denne ekspertgruppen hadde blitt satt ned
-blant annet etter ønske fra de private høyskolene.
-Flere av de private høyskolene har selv vært
-sterke pådrivere for at staten skal stille like
-strenge kvalitetskrav og ha de samme forventningene om robusthet til dem som til de statlige
-institusjonene. Flere av de private høyskolene har
-også startet sammenslåingsprosesser nettopp
-med forventning om at kravet om institusjonsakkreditering innføres.
-Det ble i lovproposisjonen på side 8 blant
-annet vist til følgende:
-I likhet med ekspertgruppen, mener departementet at det bør stilles høye kvalitetskrav til
-de private institusjonene som mottar statlige tilskudd. For å styrke og sikre kvaliteten ved
-disse institusjonene, og stimulere til en struktur med færre og sterkere institusjoner også i
-den private delen av sektoren, mener departementet at det som hovedregel bør være institusjoner med akkreditering som høyskole, vitenskapelig høyskole eller universitet som kan
-motta statstilskudd. Departementets forslag til
-endringer i tilskuddsordningen for private høyskoler skal dermed bidra til å styrke kvaliteten
-i høyere utdanning.
-I 2019 ble universitets- og høyskoleloven § 8-3 første ledd endret, slik at institusjonsakkreditering
-nå er et vilkår for statstilskudd for private høyskoler.14 Institusjonsakkreditering gir derimot
-ikke rett til statstilskudd.
+Strukturreformen og de siste årenes utvikling i universitets- og høyskolesektoren har ført til færre og større institusjoner. Flere universiteter enn før har faglige fullmakter til å selv å opprette studieprogrammer på alle nivåer. Utviklingen viser at institusjonene i økende grad tilbyr integrerte mastergrader, og at Bologna-prosessens avtaler om grader, der hovedregelen er en bachelor (tre år) som bygger opp under en toårig mastergrad, taper terreng. Et resultat av Strukturreformen kan bli at flere studieprogrammer ikke følger hovedmodellen med treårig bachelor og toårig master.
 
-35.1.3 Utvalgets vurderinger
-Det kan argumenteres for at bare institusjoner
-som har høyere utdanning, faglig utviklingsarbeid, formidling og forskning eller kunstnerisk
-utviklingsarbeid som primærvirksomhet, bør
-kunne kalle seg høyskole. Et institusjonslandskap
-innenfor den private delen av universitets- og høy-
+To eksempler på integrerte mastergrader opprettet ved utdanningsinstitusjonene er Universitetet i Agders integrerte femårige masterprogram i barnevern, som startet opp høsten 2019, og Universitetet i Oslos integrerte femårige utdanning i informatikk. Oversikten over integrerte mastergrader i Database for statistikk om høgre utdanning (DBH) viser at det er mange integrerte utdanninger i teknologi ved NTNU, i by- og regionplanlegging ved NMBU, med videre.[^617]
 
-10
+Utvalget vurderer utviklingen, der hovedprinsippet om at mastergrad (to år) skal bygge på bachelorgrad eller lignende (tre år) stadig fravikes, som utfordrende. Det er flere grunner til dette. For det første vil utvalget peke på at en femårig integrert utdanning ikke har noen avstigningsmulighet underveis. Studenter som ikke fullfører en integrert mastergrad får ingen formell kompetanse. De har heller ingen mulighet til å gjøre omvalg etter for eksempel tre år hvis de har valgt feil og ønsker å bytte studium. Studentene kan riktignok søke om at fag de allerede har tatt, blir innpasset i en annen utdanning slik at de får fritak for fagene der, men det er ingen automatikk at de får et slikt fritak. Dette kan føre til at flere dropper helt ut av studiene. I tillegg vil en student som avbryter et integrert mastergradløp etter tre år, heller ikke ha noen fordel ved opptak til andre studier, fordi vedkommende må søke om opptak på grunnlag av karakterene fra videregående skole.
 
-Forskrift 7. februar 2017 nr. 137 om tilsyn med utdanningskvaliteten i høyere utdanning (studietilsynsforskriften).
-11
-Regjeringen. Høring Forslag til endringer i universitets- og
-høyskoleloven Vilkår for statstilskudd til privat høyere
-utdanning https://www.regjeringen.no/no/dokumenter/
-forslag-til-endringer-i-universitets--og-hoyskoleloven-vilkarfor-statstilskudd-til-privat-hoyere-utdanning/id2630439/
-hentet 18.1.2020.
-12
-Prop. 9 L (2019–2020) Endringer i universitets- og høyskoleloven (vilkår for statstilskudd til private høyskoler).
+For det andre mener utvalget at utviklingen i retning av flere integrerte femårige utdanninger er uheldig fordi det skaper mindre fleksibilitet i studieløpene. Studentene må studere i fem år før de oppnår en formell kompetanse. Dette binder opp flere studenter i lange studier. Særlig er dette uheldig for utdanninger samfunnet har stort behov for. Når flere studenter bruker to år ekstra på studier medfører det at det blir færre ferdige kandidater i jobb. Dette gjelder særlig for velferdsstatens yrker.[^618] I mange av disse yrkene er en treårig utdanning tilstrekkelig til at man kan gjøre en god jobb, for eksempel som ingeniør eller som sykepleier. En situasjon der studentene må ta utdanningen som en integrert master, medfører at mange kommer i jobb senere enn det som er nødvendig eller hensiktsmessig.
 
-13
+For det tredje avviker de integrerte mastergradsstudiene fra den europeiske normen for oppbygging av studier. Utvalget ser at utviklingen ikke er i tråd med intensjonene bak innføringen av den nye gradsstrukturen i 2003 eller med internasjonale forpliktelser. Integrerte mastere bryter med kravene i Bologna-prosessen, og flertallet av de integrerte masterne som er opprettet er heller ikke en del av de utdanningene som Stortinget vedtok skulle kunne tilbys som integrerte mastergrader i 2003.[^619] Begrunnelsen for den nye gradsstrukturen på både europeisk og nasjonalt nivå var å oppnå effektivitet i studieløpene og å gjøre systemet mer fleksibelt for studentene ved at de kan ta en lavere grad innenfor ett fagområde for så å ha mulighet til å ta en mastergrad innenfor et annet fagområde.
 
-14
+Samtidig ser utvalget at det er viktig for institusjonenes autonomi at de selv i stor grad skal kunne bestemme over sitt eget utdanningstilbud og utvikle studier og studieløp som møter samfunnets behov. Autonomien omfatter også at institusjonene selv skal kunne avgjøre hvilke grader de skal tilby, og hvilken varighet studiene skal ha. Det er en viss konkurranse mellom institusjonene om å tiltrekke seg studenter, og det kan være viktig for dem å legge til rette for attraktive utdanninger som studentene etterspør.
 
-Grimstvedt, Liv Reidun m.fl. Med kvalitet som kriterium.
-Gjennomgang av tilskuddsordningen for private høyskoler.
-Rapport til Kunnskapsdepartementet fra en ekspertgruppe. Avgitt 2. juni 2017. Hentet fra https://www.regjeringen.no/contentassets/
-4533eac6022147ac8809096d543a4e62/med-kvalitet-somkriterium_nett.pdf.
-Jf. Lovvedtak 14 (2019–2020) av 6. desember 2019 som
-følge av Innst. 76 L (2019–2020), jf. Prop. 9 L (2019–2020).
+Kravet til fordypning innenfor fagfelt kan være en grunn til å opprette integrerte mastere fordi disse gir mer kvalifiserte kandidater. Det var for eksempel et av argumentene bak opprettelsen av femårige integrerte masterutdanninger for lærere.
 
-[Side 344]
+Viktige hensyn når institusjonene utvikler nye utdanninger må være at studentene får jobb etter studiene, og at det er en viss fleksibilitet i fagsammensetningen. Enkelte integrerte mastere, som jus og psykologi, har i dag mange søkere. Det er vanskelig å komme inn på disse studiene, og utdanningen gir høy status. Dette er imidlertid utdanninger der femårige løp har vært normalen hele tiden, og det er ikke gitt at det er den integrerte innretningen som medfører at de er så attraktive.
 
-342
+Utvalget har vurdert de ulike hensynene opp mot hverandre og mener hensynet til at studentene skal kunne oppnå en grad etter tre år, som de så kan bygge videre på, er viktig. Det er uheldig å tvinge stadig flere gjennom femårige integrerte mastergrader. 3+2-modellen åpner for at kandidater som har gjennomført en bachelorgrad, kan komme ut i arbeid tidligere enn ved integrerte femårige løp, og på den måten får arbeidslivet raskere tilgang til kompetanse. Etter utvalgets syn er det en bedre og mer fleksibel løsning at institusjonene tilbyr treårige bachelorgrader, som kandidatene kan bygge videre på.
 
-Kapittel 35
+Etter utvalgets vurdering vil dagens hovedmodell i gradsstrukturen ikke være til hinder for at universiteter og høyskoler bygger opp studieprogrammene på en måte som sikrer fleksible overganger fra fullført bachelor til master. Det bør være fullt mulig å legge opp til at studenter tas opp til hele det femårige løpet med én gang, det vil si at man er sikret plass for hele mastergraden ved opptak, men at studieløpet er lagt opp slik at man etter tre år har oppfylt læringsutbyttebeskrivelsen for bachelornivået og kan få en bachelorgrad man kan bruke videre, hvis man ønsker å hoppe av studieprogrammet etter tre år.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+I gradsforskriften er det definert hvilke grader en institusjon kan gi, inkludert blant annet «master normert studietid 5 år» uten ytterligere begrensninger.[^620] I gjeldende mastergradforskrift er det heller ingen anvisning på at 3+2-modellen er å foretrekke. Utvalget antar at det er vanskelig å helt stoppe utviklingen med opprettelse av integrerte mastergrader innenfor nye fagområder. Utvalget mener at å legge inn et vilkår om at det ved opprettelse av en integrert mastergrad skal foretas en faglig vurdering av behovet for å opprette graden som et femårig integrert løp, vil kunne tvinge institusjonene til å vurdere hva som er den beste løsningen totalt sett. Utvalget foreslår derfor å endre mastergradforskriften slik at det blir tydelig at opprettelse av femårige integrerte mastergrader må begrunnes særskilt. Institusjonene skal selv foreta denne vurderingen.
 
-skolesektoren med færre og mer faglig solide
-institusjoner er også i tråd med målene i Strukturmeldingen15. Det bør i rammeverket for høyere
-utdanning stilles like krav og forventninger til kvalitet ved de statlige og de private høyskolene. Private høyskoler har også gitt klart uttrykk for at de
-ønsker større likebehandling med statlige institusjoner.
-Å sette institusjonsakkreditering som vilkår
-for at en institusjon skal kunne kalle seg høyskole, vil etter utvalgets vurdering gi insentiver
-til konsolidering innenfor den private delen av
-universitets- og høyskolesektoren. Mindre institusjoner vil kunne ha fordeler av å slå seg
-sammen til faglig sterkere virksomheter, dette
-viste også departementet til i ovennevnte lovproposisjon. En slik konsolidering vil kunne fremme
-mer tverrfaglig samarbeid, bedre læringsmiljø,
-og bidra til mer effektiv ressursutnyttelse og økt
-profesjonalitet innenfor administrativ støtte og
-forvaltning. Utvalget mener derfor at et krav om
-institusjonsakkreditering for å kunne kalle seg
-«høyskole» vil bidra til å sikre gode og solide studietilbud ved private høyskoler. Det er heller
-ingen god grunn til at Kunnskapsdepartementet
-skal stille lavere krav til private enn til statlige
-høyere utdanningsinstitusjoner. De statlige høyere utdanningsinstitusjonene under Kunnskapsdepartementet er som nevnt, alle institusjonsakkrediterte. Departementet la i lovproposisjonen også vekt på at institusjonsakkreditering
-som kriterium, vil bidra til likebehandling av private og statlige institusjoner.
-Utvalget ønsker ikke i denne omgang å endre
-loven, men anbefaler at departementet i forbindelse med oppfølgingen av utredningen vurderer
-om loven bør stille krav om at det bare er de institusjoner som har oppnådd institusjonsakkreditering som kan kalle seg høyskole, slik det er krav
-om institusjonsakkreditering som vitenskapelig
-høyskole eller universitet for å kunne kalle seg
-vitenskapelig høyskole eller universitet.
-Bestemmelsen foreslås videreført, men med
-den endring at det er departementet, og ikke
-Kongen, som fastsetter egennavnet for statlige
-universiteter og høyskoler. Som nevnt under gjeldende rett har departementet hatt denne myndigheten siden 2012.
+Utvalget har mottatt innspill fra Næringslivets hovedorganisasjon og Universitets- og høgskolerådet, som begge mener at mastergradsforskriftens krav til faglig fordypning på bachelornivå innenfor mastergradens fagområde (minst 80 studiepoeng) er for rigid. De mener at selv om det kan være gode grunner for et slikt krav, kan det også stå i veien for at kandidater med variert og flerfaglig bakgrunn tas opp til en mastergrad, eller det kan hindre utvikling av slike mastergrader. Næringslivets hovedorganisasjon og Universitets- og høgskolerådet mener at dette strenge kravet kan føre til at det i stedet utvikles integrerte femårige løp som åpner for slike kombinasjoner, som vil mangle den fleksibiliteten en bachelor- og mastergrad kan gi for både studenter og institusjoner. Kravet kan også hindre rekruttering av studenter med internasjonal bakgrunn som kan mangle denne faglige fordypningen.
 
-35.2 Bevilling som statsautorisert
-translatør
-35.2.1 Utvalgets forslag
+Utvalget mener at forslaget fra Næringslivets hovedorganisasjon og Universitets- og høgskolerådet er godt begrunnet, og at det kan være behov for å endre omfanget av kravet til faglig fordypning i mastergradsforskriften. Samtidig mener utvalget at en endring uten en forutgående utredning av både behov og konsekvenser kan være prematur. Utvalget vil derfor foreslå at forslaget utredes videre enten av departementet eller av Universitets- og høgskolerådet, slik at ulemper og fordeler belyses grundig.
+
+Utvalget viser til forslag til endring i mastergradsforskriften i punkt 37.3.3.
+
+# Private universiteter og høyskoler – økonomisk tilsyn med mer
+
+\[:figur:fig33-1.jpg\]
+
+## Utvalgets forslag
+
 Utvalget foreslår følgende:
-• Dagens § 7-3 om beskyttelse av tittelen
-«statsautorisert translatør» og tildeling av
-bevilling som translatør videreføres ikke i universitets- og høyskoleloven.
-Utvalget anbefaler følgende:
-• Regler om beskyttelse av tittelen «statsautorisert translatør» og tildeling av bevilling som
-translatør hjemles i ny tolkelov. Utvalget viser
-til forslaget til tolkelov som regjeringen sendte
-på høring våren 2019.16
 
-35.2.2 Gjeldende rett
-Det følger av universitets- og høyskoleloven § 7-3
-at departementet kan gi bevilling som statsautorisert translatør og kan gi forskrifter om vilkårene
-for slik bevilling, jf. første ledd. Dette er en videreføring av universitetsloven 1995 § 57a. Bestemmelsen i § 57a ble tilføyd ved lov 25. juni 1999
-nr. 48 fordi det var nødvendig med en hjemmel i
-lov for å kunne beskytte tittelen «statsautorisert
-translatør». Departementet valgte i mangel av en
-annen egnet lov å legge bestemmelsen inn i universitets- og høyskoleloven. Bevilling som statsautorisert translatør har blitt gitt av Kunnskapsdepartementet (tidl. Kirke-, utdannings- og forskningsdepartementet) siden 1962.
-Det følger av forskrift om bevilling som
-statsautorisert translatør at man må ha minimum
-tre års høyere utdanning for å kunne ta translatøreksamen. Det stilles i dag ikke noe krav til hva
-slags fagsammensetning man må ha for å kunne
-ta translatøreksamen, men kandidatene prøves i
-oversettelse norsk–fremmedspråk og/eller fremmedspråk–norsk. De som består prøven, kan
-bruke tittelen «statsautorisert translatør» og får
-således bevilling for den språkkombinasjonen/de
-språkkombinasjonene de har avlagt prøve i.
-Det følger videre av universitets- og høyskoleloven § 7-3 at tittelen «statsautorisert translatør»
-bare kan benyttes av den som er gitt bevilling i
-henhold til bestemmelsen. Etter bestemmelsens
-andre ledd kan den som i strid med bestemmel16
+- Gjeldende rett videreføres.
 
-15
+  De private høyskolene
 
-Meld. St. 18 (2014–2015) Konsentrasjon for kvalitet.
+Institusjonslandskapet
 
-Regjeringen. Høring Forslag til lov om offentlige organers
-ansvar for bruk av tolk mv. (tolkeloven) https://www.regjeringen.no/no/dokumenter/horing/id2626660/
-hentet
-16.1.2020.
+Det er per desember 2019 ni institusjonsakkrediterte private høyskoler i Norge.
 
-[Side 345]
+Vitenskapelige høyskoler:
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+- MF vitenskapelig høyskole for teologi, religion og samfunn
 
-343
+- Handelshøyskolen BI
 
-Kapittel 35
+- VID vitenskapelige høgskole
 
-Boks 35.1 Forholdet til yrkeskvalifikasjonsdirektivet og yrkeskvalifikasjonsloven
-eller den som har fått delegert reguleringsmynDet følger av yrkeskvalifikasjonsdirektivet at et
-yrke er å anse som regulert når det er satt kvalidighet, som avgjør hvilke kvalifikasjonskrav
-fikasjonskrav til utøvelsen av yrket, direkte eller
-man skal oppfylle for å kunne utøve yrket. Det er
-indirekte. Det regnes også som et regulert yrke
-fagdepartementet som er ansvarlig for innholdet
-dersom bruken av yrkestittelen er begrenset til
-i reguleringen. På Kunnskapsdepartementets
-innehavere av en gitt yrkeskvalifikasjon, jf.
-område er de lovregulerte yrkene som er omfatdirektivet artikkel 3 første ledd bokstav a.
-tet av loven, lærer i grunnopplæringen, yrkesYrkeskvalifikasjonsloven1 trådte i kraft
-faglærer, pedagogisk leder i barnehage, styrer i
-1. januar 2018. Loven gjennomfører i Norge EUs
-barnehage og statsautorisert translatør. Det er
-Norges handelshøyskole som er godkjenningsyrkeskvalifikasjonsdirektiv 2005/36/EF om
-godkjenning av yrkeskvalifikasjoner (yrkeskvalimyndighet for utenlandsk translatørutdanning.
-fikasjonsdirektivet). Loven gjelder for omtrent
-Yrkesutøveren skal ha de språkkunnskaper i
-nitti yrker, og den er i all hovedsak en fullnorsk som er nødvendige for å utøve det lovmaktslov.
-regulerte yrket. For utenlandske translatørers
-Direktivet stiller ingen krav om hvilke yrker
-vedkommende betyr dette at de må ha norsk i
-som skal være regulert i Norge, men dersom et
-fagkretsen for å få godkjent utdanningen som
-yrke er regulert og yrket er omfattet av direkstatsautorisert translatør i Norge. Dette følger
-også av forskrift om statsautorisert translatør.
-tivet, må fagdepartementet forholde seg til de
-saksbehandlingsreglene som følger av direk1
-Lov 16. juni 2017 nr. 69 om godkjenning av yrkeskvalifikativet. Det vil si at det er fagdepartementet selv,
-sjoner (yrkeskvalifikasjonsloven).
+Høyskoler:
 
-sen i første ledd forsettlig eller uaktsomt bruker
-slik tittel, alene eller som del av en tittel, straffes
-med bøter.
-Det er gitt to forskrifter som regulerer statsautorisert translatør, én fastsatt av Kunnskapsdepartementet og en fastsatt av Norges handelshøyskole.17 I forskrift om bevilling som statsautorisert translatør, som Kunnskapsdepartementet
-har fastsatt, står det i § 2 første ledd at bevilling
-gis på grunnlag av bestått translatøreksamen fra
-Norges handelshøyskole. I § 2 andre ledd står det
-at bevilling også kan gis på grunnlag av tilsvarende kompetanse fra utlandet i henhold til gjeldende internasjonale avtaler.
-Norges handelshøyskoles forskrift, som gjelder translatøreksamen, fastsetter i § 3 et krav om
-at kandidaten må ha minimum treårig dokumentert høyere utdanning på universitets- eller høyskolenivå for å kunne få adgang til autorisasjonsprøven. Dette gjelder både for norske og utenlandske studenter.
-Det at man må bestå en autorisasjonsprøve for
-å få bevilling, og at man må oppfylle krav for å
-17
+- Ansgar Teologiske Høgskole
 
-Forskrift 1. desember 2005 nr. 1391 om bevilling som
-statsautorisert translatør og forskrift 16. juni 1999 nr. 4892
-for autorisasjonsprøve for å bli statsautorisert translatør
-(translatøreksamen) ved Norges Handelshøyskole (forskrift om translatøreksamen, NHH).
+- Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 
-kunne ta denne prøven, resulterte i at yrket i 2017
-ble vurdert å være regulert. Dette innebærer at
-bestemmelsene i yrkeskvalifikasjonsloven skal
-brukes ved yrkesgodkjenning av utenlandsk
-utdanning.
+- Fjellhaug Internasjonale Høgskole
 
-35.2.3 Utvalgets vurderinger
-Utvalget viser til at hjemmelen for departementet
-til å gi bevilling som statsautorisert translatør som
-nevnt under gjeldende rett kom inn i universitetsog høyskoleloven § 7-3 først og fremst etter et
-ønske om å beskytte tittelen «statsautorisert
-translatør».
-Utvalget viser til at flere ulike regelverk stiller
-krav om at dokumenter skal være oversatt av en
-translatør, enten statsautorisert, autorisert, godkjent eller edsvoren. Seks departementer18 har
-informert Kunnskapsdepartementet om at de har
-regelverk som stiller krav om at dokumenter skal
-være bekreftet eller oversatt av en autorisert
-translatør, og at translatøren skal være autorisert
-av norsk myndighet. I tillegg stilles det ofte krav
-18
+- Høyskolen Kristiania
 
-Finansdepartementet, Justis- og beredskapsdepartementet, Helse- og omsorgsdepartementet, Kommunal- og
-moderniseringsdepartementet, Nærings- og fiskeridepartementet og Samferdselsdepartementet.
+- Lovisenberg diakonale høgskole
 
-[Side 346]
+- NLA Høgskolen
 
-344
+Åtte private høyskoler uten institusjonsakkreditering mottok statstilskudd i 2019. I tillegg er det ni private utdanningsinstitusjoner med akkrediterte studietilbud på høyskolenivå som ikke mottar statstilskudd for disse. Den videre omtalen av private høyskoler i denne boksen omfatter institusjonene som mottar statstilskudd.
 
-Kapittel 35
+Studenter
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Det var cirka 42 000 studenter ved private høyskoler i høstsemesteret 2019, tilsvarende 16 prosent av studentene i sektoren. Det er stor forskjell i antall studenter ved disse institusjonene. Cirka 80 prosent av studentene går ved de tre største institusjonene BI, Høyskolen Kristiania og VID. Ti av institusjonene som mottar statstilskudd, har under 1000 studenter hver.
 
-om at et dokument skal være oversatt og tilgjengelig på forskjellige språk, selv om det ikke er stilt
-krav til hvem som skal oversette det.
-Utvalget har vurdert om den delen av universitets- og høyskoleloven § 7-3 som gjelder tildeling
-av bevilling som translatør, og kravene til
-translatøryrket som fremgår av forskriftene, bør
-videreføres. Hvis lovbestemmelsen ikke videreføres, verken i universitets- og høyskoleloven eller
-i annen lov, forsvinner hjemmelen for at departementet kan gi bevilling som translatør. Utvalget
-mener at bevilling som statsautorisert translatør
-fortsatt bør være lov- og forskriftshjemlet. Dette
-vil opprettholde kravet om at man må ha bestått
-en autorisasjonsprøve for å oppnå bevilling. Det er
-imidlertid ikke slik at hjemmelen til å gi bevilling
-må ligge i universitets- og høyskoleloven. Loven
-regulerer primært andre forhold enn å gi bevilling
-for å utøve enkeltyrker. Etter utvalgets vurdering
-bør bevillingsmyndigheten til translatøryrket
-fremgå i den nye tolkeloven. Utvalget viser til forslaget til tolkelov som regjeringen sendte på
-høring våren 2019.19
-Utvalget kan heller ikke se at bestemmelsen
-om å beskytte tittelen «statsautorisert translatør»
-må fremgå av universitets- og høyskoleloven. Til
-orientering så fremgår andre beskyttede titler på
-Kunnskapsdepartementets område av forskrift
-om grader og beskyttet tittel20 § 53. For å samle
-bestemmelsene om translatøryrket, foreslår utvalget at bestemmelsen om beskyttet tittel også flyttes til ny tolkelov.
-Det ligger utenfor utvalgets mandat å foreslå
-endringer i andre lover enn universitets- og høyskoleloven og studentsamskipnadsloven. I den
-grad departementet følger opp utvalgets forslag,
-anbefaler utvalget at de nevnte endringer tas inn i
-ny tolkelov.
+Kandidater
 
-35.3 Ansatte i vitenskapelig samling
-35.3.1 Utvalgets forslag
-Utvalget foreslår følgende:
-• Dagens § 7-4 om ansatte i vitenskapelig samling videreføres ikke. Tilsvarende bestemmelse kan eventuelt tas inn i arbeidsavtalen
-mellom institusjonen og den ansatte.
-19
+I 2018 uteksaminerte private høyskoler ca. 7500 kandidater fra vitnemålsgivende utdanninger, tilsvarende 14 prosent av kandidatene dette året. Over halvparten av disse kandidatene tok utdanning innenfor økonomisk-administrative fag. På dette feltet er over 40 prosent av kandidatene i Norge utdannet ved private institusjoner, særlig ved Handelshøyskolen BI. Teologi er et lite fagområde nasjonalt, men et område hvor de private høyskolene har en dominerende posisjon. Cirka 80 prosent av kandidatene innenfor dette fagområdet er utdannet ved private institusjoner. Også innenfor diverse kunstfag har de private institusjonene en relativt stor andel av kandidatene, med cirka 30 prosent til sammen for visuell kunst, scenekunst, foto og utøvende musikkutdanning. I flere av utdanningene til velferdsstatens yrker, som sykepleier, vernepleier, sosionom og barnehagelærer, ligger de privates andel av kandidatene på cirka 15 prosent. Innenfor realfag og teknologi er de private høyskolenes rolle beskjeden.
 
-Regjeringen. Høring Forslag til lov om offentlige organers
-ansvar for bruk av tolk mv. (tolkeloven).
-20
-Forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler (forskrift om grader og beskyttede titler).
+Ansatte
 
-35.3.2 Gjeldende rett
-Det følger av universitets- og høyskoleloven § 7-4
-at ansatte ved vitenskapelig samling ikke uten
-samtykke fra styret må holde egne samlinger av
-samme eller liknende art. Det er heller ikke tillatt for ansatte å drive handel eller bytte med
-saker som hører til slik samling for egen regning.
-Begrunnelsen for bestemmelsen er at private
-og offentlige samlinger ikke skal blandes
-sammen, og at ikke ansatte skal berike seg på
-samlinger som er i offentlig eie. Det fremgår av
-forarbeidene at bestemmelsen er en videreføring
-fra universitetsloven av 1995.21
-35.3.3 Utvalgets vurderinger
-Utvalget mener at det også i dag er behov for
-begrensninger for ansatte ved vitenskapelige samlinger knyttet til private samlinger. Det kan oppstå
-interessekonflikter, og utenforstående kan
-komme i tvil om den ansatte representerer seg
-selv eller institusjonen. Imidlertid kan denne
-typen regulering tas inn i arbeidsavtalen mellom
-institusjonen og de aktuelle ansatte. I tråd med
-målsettingen til utvalget om å forenkle regelverket, bør den nye loven unngå å regulere forhold som bare gjelder et fåtall ansatte og hvor
-samme resultat kan oppnås på annen måte gjennom arbeidsrettslige mekanismer.
+Ansatte ved private høyskoler utførte i 2019 cirka 2400 årsverk. Dette tilsvarer cirka seks prosent av det samlede antallet årsverk utført av ansatte i universitets- og høyskolesektoren.
 
-35.4 Grunnlagsmateriale for
-almanakker
-35.4.1 Utvalgets forslag
-Utvalget foreslår følgende:
-• Dagens lov § 7-5, som pålegger Universitetet
-i Oslo å utarbeide det astronomiske grunnlagsmaterialet som trengs for utgivelse av
-almanakker og kalender i Norge, videreføres
-ikke.
-35.4.2 Gjeldende rett
-Det følger av universitets- og høyskoleloven § 7-5
-at Universitetet i Oslo skal utarbeide det astronomiske grunnlagsmaterialet som trengs for utgivelse av almanakker og kalendre i Norge. Bestemmelsen har over tid vært videreført som gjeldende
-21
+Forskning
 
-Ot.prp. nr. 79 (2003–2004) merknad til universitets- og høyskoleloven § 7-4.
+Faglig ansatte ved de private høyskolene står for 4,5 prosent av den vitenskapelige publiseringen i sektoren målt som antall publiseringspoeng. Enkelte av de private institusjonene er blant de mest publiserende i universitets- og høyskolesektoren per forsker. Innenfor økonomisk-administrative fag og teologi spiller de private institusjonene en viktig nasjonal rolle i doktorgradsutdanningen.
 
-[Side 347]
+Økonomiske forhold
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+I 2019 mottok private høyskoler cirka 1,6 milliarder kroner i tilskudd fra staten. Det er et stort spenn mellom de private institusjonene når det gjelder størrelsen på studieavgiftene. Gjennomsnittlig studie- og eksamensavgift per registrerte student ved hver institusjon varierte i 2018 fra cirka 4000 kroner til over 80 000 kroner.
 
-rett, jf. Ot.prp. nr. 79 (2003–2004). I Ot.prp. nr. 62
-(1988–89) Lov om universiteter og vitenskapelige
-høgskoler (universitetsloven), side 52, er den
-omtalt slik:
-Paragrafen er en videreføring av en gammel
-bestemmelse fra den tiden da universitetet i
-Oslo var eneste kompetente instans her i landet til å utføre de astronomiske beregninger
-som danner grunnlaget for slike opplysninger
-som gjengis i almanakker og kalendre.
-Bestemmelsen ble endret i 1987 slik at universitetet enerett til å kontrollere og utgi kalendere ble opphevet. Man antar at det fortsatt er
-behov for at astronomiske kalendariske data
-foreligger fra en norsk faginstans og har da av
-tradisjonelle grunner lagt denne til Universitetet i Oslo.
-I Ot.prp. nr. 85 (1993–94) Om lov om høgre utdanning, side 82, er bestemmelsen omtalt slik:
-Dette er samme bestemmelse som i § 71 i
-dagens lov. Universitetet i Oslo hadde inntil
-1987 lovfestet enerett til å kontrollere og utgi
-kalendre i Norge. Eneretten stammet fra den
-tiden da universitetet var eneste kompetente
-instans her i landet til å utføre de beregninger
-som danner grunnlaget for kalenderdata. Hensikten var å sikre at det ikke skulle kunne gis ut
-opplysninger som var uriktige. Departementet
-antar at det fortsatt er behov for en bestemmelse som sikrer at astronomiske kalendariske data foreligger fra en norsk faginstans
-og foreslår at det også i den nye loven fastsettes
-en plikt for Universitetet i Oslo til å utarbeide
-disse data.
+NOKUT: https://www.nokut.no/databaser-og-fakta/akkrediterte-institusjonar/ hentet 6.12.19, NSD: Database for statistikk om høgre utdanning (DBH), Diku: Tilstandsrapport for høyere utdanning 2019.
 
-35.4.3 Utvalgets vurderinger
-Utvalget legger til grunn at det i dag er flere,
-både nasjonalt og internasjonalt, som kan tilby
-det nødvendige grunnlagsmaterialet for utgivelse av almanakker og kalendre. Utvalget ser
-derfor ingen grunn til at Universitetet i Oslo skal
-være påbudt dette ved lov, og mener at bestemmelsen ikke bør videreføres. Dette vil ikke være
-til hinder for at Universitetet i Oslo selv kommer
-til at det ønsker å utarbeide grunnlagsmaterialet
-for almanakker og kalendre, men det vil altså
-være opp til universitetet å bestemme og prioritere dette selv.
+\[Boks slutt\]
 
-345
+## Gjeldende rett
 
-Kapittel 35
+### Organisasjonsform
 
-35.5 Forbud mot bruk av klesplagg som
-helt eller delvis dekker ansiktet
-35.5.1 Utvalgets forslag
-Et flertall i utvalget foreslår følgende:
-• Bestemmelsen om forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet ved
-universiteter og høyskoler videreføres.
-Et mindretall i utvalget foreslår følgende:
-• Bestemmelsen om forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet ved
-universiteter og høyskoler videreføres ikke.
+Alle private universiteter og høyskoler skal være organisert som et aksjeselskap etter aksjeloven eller som en stiftelse etter stiftelsesloven, jf. universitets- og høyskoleloven § 8-1 første ledd.[^621] Et sentralt hensyn bak kravet til organisasjonsform er behovet for en enhetlig regulering av den administrative og økonomiske driften til virksomheter som tilbyr NOKUT-akkreditert utdanning.[^622] Organisering som enten aksjeselskap eller stiftelse er ment å legge til rette for «åpenhet om virksomheten, kontroll med økonomien og gode muligheter for etterprøving av for eksempel transaksjoner med nærstående, fusjoner mv.»[^623] Forarbeidene fremhever også aksjelovens bestemmelser om skriftlighet ved konserninterne transaksjoner, styreredegjørelser for avtaler eller transaksjoner med aksjeeiere eller styremedlemmer som et godt utgangspunkt for departementets kontroll og tilsyn med virksomhetene.[^624] Tilsvarende regler følger også av stiftelsesloven. Samtidig presiserer forarbeidene at adgangen til å tilby høyere utdanning som aksjeselskap eller stiftelse gir en viss grad av valgfrihet for private tilbydere ved at de kan velge mellom en eiermodell og en selveiende modell. Både aksjeloven og stiftelsesloven stiller krav til virksomhetens styre, som suppleres av bestemmelsene i universitets- og høyskoleloven § 8-1.
 
-35.5.2 Gjeldende rett
-Universitets- og høyskoleloven § 7-9 forbyr bruk
-av klesplagg som helt eller delvis dekker ansiktet,
-ved universiteter og høyskoler. Bestemmelsen
-gjelder ved alle institusjoner som faller inn under
-loven, og derfor også ved private institusjoner. Et
-tilsvarende forbud gjelder i barnehager, i grunnopplæringen, på fagskoler, på folkehøyskoler og i
-introduksjonsprogram og opplæring etter introduksjonsloven.22 Bakgrunnen for forbudet går
-frem av forarbeidene: Når ansatte, elever eller studenter bruker ansiktsdekkende plagg i undervisningen, kan det hindre god samhandling og kommunikasjon.23 Samtidig viste regjeringen i lovproposisjonen til at et forbud mot nikab og burka var
-et særlig viktig prinsipielt spørsmål fordi det griper inn i religionsfriheten og privatlivet til den
-enkelte. Regjeringen mente derfor at temaet
-burde løftes fra lokalt nivå og drøftes og avgjøres
-av vårt øverste folkevalgte organ.24
-Universitets- og høyskoleloven § 7-9 første
-ledd slår fast at studenter og ansatte ikke skal
-bruke klesplagg som helt eller delvis dekker
-ansiktet «i forbindelse med undervisningen eller
-tilsvarende, inkludert på turer, ekspedisjoner og
-lignende i tilknytning til utdanningsinstitusjonens
-undervisning». Forbudet gjelder også ved muntlig
-og skriftlig eksamen, og det gjelder når studenter
-er i praksis. Forbudet gjelder ikke i situasjoner
-22
+### Statstilskudd
 
-23
+Private universiteter og høyskoler som tilfredsstiller kravene i universitets- og høyskoleloven, kan etter søknad få statstilskudd til dekning av driftskostnader for utdanninger som er akkreditert av Nasjonalt organ for kvalitet i utdanningen (NOKUT), jf. universitets- og høyskoleloven § 8-3 første ledd. Det er med andre ord en forutsetning for å motta tilskudd at institusjonen er akkreditert som privat universitet eller høyskole eller har et studietilbud som er akkreditert av NOKUT.
 
-24
+Flere private høyskoler mottar i dag statlig tilskudd. For 2019 er det på Kunnskapsdepartementets budsjett bevilget tilskudd på til sammen 1,6 milliard kroner til private høyskoler. Det kommer i tillegg til tilskudd eller inntekter de private høyskolene mottar fra andre. Statstilskuddet skal bidra til at de private høyskolene tilbyr studentene utdanning av høy kvalitet, i tråd med akkrediteringen, formålene i universitets- og høyskoleloven, sektormålene og samfunnsmandatet for øvrig. Til forskjell fra de statlige høyere utdanningsinstitusjonene kan de private høyskolene ta betaling av studentene for ordinære gradsstudier. Flere private høyskoler får tilskudd over statsbudsjettet som skal bidra til at betalingen fra studentene ikke blir svært høy.
 
-Lov 4. juli 2003 nr. 80 om introduksjonsordning og
-norskopplæring for nyankomne innvandrere (introduksjonsloven).
-Prop. 51 L (2017–2018) Endringar i opplæringslova mv. (forbod mot bruk av ansiktsdekkjande plagg i barnehagar og
-undervisningssituasjonar) punkt 3. Lovforslaget ble vedtatt
-av Stortinget, jf. Innst. 351 L (2017–2018) Innstilling fra
-utdannings- og forskningskomiteen om Endringar i opplæringslova mv. (forbod mot bruk av ansiktsdekkjande plagg i
-barnehagar og undervisningssituasjonar).
-Prop. 51 L (2017–2018) punkt 9.1.
+Alle private institusjoner skal benytte statstilskudd og egenbetaling fra studentene til den akkrediterte utdanningen og innenfor lovens formål, jf. universitets- og høyskoleloven § 8-3 andre ledd. Formålet er blant annet «å sikre at tilskudd blir benyttet til det formålet de er bevilget til»[^625]. Videre fremgår det at dette gjelder på «generelt grunnlag, og innebærer at alle former for disposisjoner er omfattet.» [^626]
+
+Private universiteter og høyskoler som mottar statstilskudd, skal la tilskudd og egenbetaling komme studentene til gode, jf. universitets- og høyskoleloven § 8-3 tredje ledd. I 2013 satte Kunnskapsdepartementet ned et ekspertutvalg for å klargjøre regelverket for bruk av statlige tilskudd og egenbetaling fra studenter ved private høyskoler og fagskoler. Utvalget vurderer «til gode»-kravet i loven, og sier:
+
+Det overordnede kravet for bruk av både statlig tilskudd og egenbetaling, er at midlene skal komme studentene til gode. En naturlig tolkning av bestemmelsen er at statlige midler og egenbetaling skal brukes til formål som står i universitets- og høyskoleloven for å gi studentene et godt og kvalifisert tilbud. Det er eksplisitt uttrykt i lovteksten at virksomheter som mottar statlig tilskudd, ikke kan ta utbytte fra virksomheten. Ut over dette, er det ikke fastsatt eksplisitte rammer for hva som er disponeringer som kommer studentene til gode. Hvilke disponeringer som anses å komme studentene til gode, er dermed i stor grad et skjønnsmessig spørsmål.[^627]
+
+Reglene om de private høyskolene ble tydeliggjort i 2017, jf. Innst. 225 L (2016–2017), jf. Prop. 44 L (2016–2017).[^628]
+
+Private universiteter og høyskoler som mottar statstilskudd, kan ikke foreta utdelinger. Det er anledning til å se høyskolens virksomhet som helhet over tid og overføre overskudd fra ett år til et annet, men på en slik måte at tilskudd kommer studentene til gode, jf. egenbetalingsforskriften[^629] § 4-2.
+
+Kravet om at midlene skal komme studentene til gode, innebærer at de skal brukes i drift som regulert i universitets- og høyskoleloven § 8-3 andre ledd, og at det gjelder et utdelingsforbud, jf. tredje ledd. Kravet vil også være et selvstendig vilkår og tolkningsmoment for vurdering av ulike disponeringer, jf. Prop. 44 L (2016–2017).
+
+Videre presiserer forarbeidene at utdeling fra aksjeselskaper regnes som «enhver overføring av verdier som direkte eller indirekte kommer aksjeeieren til gode».[^630] For stiftelser innebærer utdelingsforbudet i universitets- og høyskoleloven § 8-3 tredje ledd at en stiftelse som mottar tilskudd ikke kan dele ut stiftelsens midler, selv om dette er fastsatt i vedtektene, jf. stiftelsesloven § 19. Utdelingsforbudet gjelder for hele rettssubjektet og inkluderer alle former for overføring av verdier til eieren eller eierens nærstående, også konsernbidrag.
+
+### Handel med nærstående
+
+Private universiteter og høyskoler kan ikke overfor nærstående gjennomføre avtaler eller på annen måte overføre midler på vilkår som avviker fra det som ville vært fastsatt mellom uavhengige parter, jf. universitets- og høyskoleloven § 8-4 første ledd. Det er et grunnleggende prinsipp at transaksjoner med nærstående skal skje på markedsmessige vilkår, og kravet gjelder generelt for alle disposisjoner som innebærer overføring av verdier.
+
+Handel med nærstående er kjøp av varer eller tjenester, eller andre overføringer mellom selskaper kontrollert av samme eier, eller av personer som karakteriseres som nærstående etter for eksempel aksjeloven og stiftelsesloven.[^631] Det sentrale hensynet bak reguleringen av handel med nærstående er å forhindre at verdier overføres til eieren eller eierens nærstående i den hensikt å omgå en regulering eller lignende. Som følge av en slik risiko er det fastsatt særlige dokumentasjonskrav for slike transaksjoner, jf. universitets- og høyskoleloven § 8-4 andre ledd. Det er partene som foretar transaksjonen som står nærmest til å redegjøre for premissene for prissettingen og andre forhold som vil være av betydning for vurderingen av om vilkårene avviker fra det som ville vært fastsatt mellom uavhengige parter, jf. Prop. 44 L (2016–2017).
+
+I tillegg til det generelle dokumentasjonskravet har departementet rett til innsyn i dokumentasjon av avtalen hos de nærstående partene som transaksjonen er gjennomført med, jf. universitets- og høyskoleloven § 8-4 tredje ledd. Dette er virksomheter som i utgangspunktet ikke er underlagt universitets- og høyskoleloven. Innsynsretten er begrunnet i behovet for å kunne føre effektivt tilsyn med de private virksomhetene.[^632] Departementet kan også fastsette forskrift om avtaler med nærstående, jf. universitets- og høyskoleloven § 8-4 fjerde ledd. Departementet har gjort dette i forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv.[^633], se § 5.
+
+### Regulering av opparbeidede verdier
+
+#### Overføring av positivt årsresultat
+
+Private høyskoler kan overføre et positivt årsresultat til året etter. Dette tilsvarer statlige universiteter og høyskolers fullmakter, som blant annet gir unntak fra bruttoprinsippet i staten, altså nettobudsjettering. Det er likevel en begrensning ved at tilskudd og egenbetalinger skal overføres på en slik måte at de kommer studentene til gode, jf. egenbetalingsforskriften § 4-1.
+
+#### Salg, omdanning, fusjon og fisjon
+
+Private universiteter og høyskoler skal melde fra til departementet dersom de skal omstrukturere driften ved fusjon, fisjon, omdanning eller salg, jf. universitets- og høyskoleloven § 8-6 andre ledd. Dette reduserer ikke departementets myndighet til å føre etterfølgende kontroll med at tilskudd og egenbetaling er disponert i tråd med regelverket i forbindelse med omstruktureringen.[^634] Departementet har fastsatt bestemmelser om dette i forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv.
+
+Ved et salg av en virksomhet vil egenkapitalen, både innskutt og opptjent, normalt være et direkte eller indirekte element i prisen. Eieren oppnår likevel en mulig gevinst når eiendomsretten overdras til kjøperen. I Prop. 44 L (2016–2017) er det lagt til grunn at så fremt et salg av virksomhet skjer mellom to uavhengige parter, eller til markedsmessige vilkår mellom nærstående parter, innebærer ikke selve salget uttak av midler fra virksomheten. Det er videre presisert at slike prosesser kan innebære en risiko for at noen omgår kravene til bruk av tilskudd og egenbetaling. Risikoen ved fisjon kan være at verdier som stammer fra tilskudd og egenbetaling overføres til et annet selskap i forbindelse med delingen. I lys av reguleringen av hva tilskuddsmidler kan brukes til, vil en slik verdioverføring være ulovlig. Den kan i praksis likevel være vanskelig å avdekke.
+
+#### Avvikling
+
+På samme måte som ved salg, omdanning, fusjon og fisjon skal private universiteter og høyskoler gi særskilt melding til departementet ved avvikling, jf. universitets- og høyskoleloven § 8-6 andre ledd. Departementet har fastsatt regler om avvikling av akkreditert virksomhet i forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv.
+
+Avvikling reguleres av aksjeloven og stiftelsesloven. Ved en avvikling av driften vil normalt de gjenværende midlene tilfalle eierne som likvidasjonsutbytte. Avvikling kan på denne måten innebære en potensiell risiko for en omgåelse av utdelingsforbudet for private høyskoler som ikke blir fanget opp av aksjeloven og stiftelsesloven, jf. Prop. 44 L (2016–2017) side 37. Departementet viser i proposisjonen til at utdelingsforbudet gjelder generelt, inkludert ved avvikling. Det er en logisk konsekvens av kravene til bruk av tilskudd og egenbetaling, og bestemmelsene om avvikling er dermed ment som en presisering av utdelingsforbudet. Videre er det lagt vekt på behovet for å unngå insentiver til å legge ned virksomhet for å realisere gevinst.
+
+Som følge av dette er det i proposisjonen lagt til grunn at ved avvikling av private universiteter og høyskoler som mottar tilskudd, og som er organisert som aksjeselskaper, er det bare andelen av likvidasjonsutbyttet tilsvarende innskutt kapital som kan tilfalle eierne. Avvikling av private høyskoler organisert som stiftelser skal følge reglene i stiftelsesloven.
+
+### Krav til regnskapsmessig skille
+
+I universitets- og høyskoleloven § 8-7 andre ledd stilles det krav om at institusjonene «skal ha et økonomisk skille mellom de akkrediterte delene av virksomheten og de ikke-akkrediterte delene av virksomheten». Videre følger det av bestemmelsen at regnskapene skal kunne dokumentere at institusjonene opprettholder et slikt skille.
+
+Kravet gjelder alle private universiteter og høyskoler, uavhengig av om de mottar statlig tilskudd. At den akkrediterte virksomheten drives alene i eget rettssubjekt, tilfredsstiller kravet om økonomisk skille. Dersom den private institusjonen driver annen virksomhet enn akkreditert utdanning i samme rettssubjekt, kreves det imidlertid at den har et regnskapsmessig skille som er egnet til å dokumentere at annen virksomhet holdes økonomisk adskilt. Et krav til regnskapsmessig skille innebærer at det løpende skal føres separate regnskap for de ulike delene av virksomheten etter ordinære regnskapsprinsipper.[^635]
+
+Formålet med kravet om et økonomisk skille er å bidra til å sikre at tilskudd og egenbetaling benyttes til den akkrediterte utdanningen, og ikke tilflyter annen virksomhet som drives i samme rettssubjekt.[^636] For institusjoner som mottar tilskudd, vises det også til at et slikt økonomisk skille er nødvendig for å forhindre ulovlig kryss-subsidiering etter EØS-regelverket om offentlig støtte.[^637]
+
+Videre er det lagt til grunn at et økonomisk skille mellom akkreditert og ikke-akkreditert virksomhet er nødvendig for å kunne føre tilsyn med at kravet om disponering av tilskudd og egenbetaling blir oppfylt. Tilskuddet og egenbetalingen skal ikke tilflyte annen virksomhet som drives i samme rettssubjekt, ettersom dette ikke er forenlig med forutsetningen om at midlene skal brukes til angitte formål. Det følger av forarbeidene at hva som må anses som akkreditert virksomhet, sammenfaller med skillet mellom hvilke aktiviteter tilskudd og egenbetaling kan benyttes til etter universitets- og høyskoleloven § 8-3 andre ledd.[^638]
+
+Departementet har med hjemmel i universitets- og høyskoleloven § 8-7 fjerde ledd gitt videre regler om regnskapsmessig skille i forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv. § 2.
+
+### Tilsyn
+
+Universitets- og høyskoleloven § 8-5 første ledd fastsetter at det er departementet som er tilsynsmyndighet for private universiteter og høyskoler. Dette omfatter både private institusjoner som mottar statlig tilskudd, og private institusjoner som ikke mottar statlig tilskudd. Oppgaven som tilsynsmyndighet kan delegeres til et underliggende organ. Oppgaven med å føre tilsyn etter bestemmelsen ble delegert til NOKUT i supplerende tildelingsbrev 24. august 2018.[^639]
+
+Tilsynshjemmelen er angitt generelt, og et tilsyn vil kunne omfatte en rekke sider av institusjonens økonomiske, administrative og driftsmessige forhold. Tilsynene er derfor ikke utelukkende knyttet til oppfølging av tilskudd og studentenes egenbetaling. I forarbeidene er det imidlertid presisert at tilsyn etter denne bestemmelsen må avgrenses mot NOKUTs tilsyn med institusjonenes utdanningskvalitet.[^640]
+
+Tilsynene har til formål å kontrollere at de private institusjonene følger regelverket. Slike vurderinger krever et tilstrekkelig informasjonsgrunnlag. Det er i forarbeidene lagt vekt på at kravene som stilles til de private institusjonene, bør innrettes på en måte som er effektiv for både virksomhetene selv og for tilsynsmyndigheten.[^641] Dette innebærer blant annet at rapporteringskrav og krav til regnskap ikke skal overstige det som er nødvendig for at tilsynsmyndigheten skal kunne vurdere om midlene er benyttet i tråd med kravene. Ved et tilsyn vil det imidlertid være behov for ytterligere dokumentasjon og opplysning av ulike forhold. Private institusjoner er derfor pliktig til å bistå under tilsynet. De må for eksempel fremskaffe nødvendig dokumentasjon og gi adgang til lokaler, jf. universitets- og høyskoleloven § 8-5 andre ledd.
+
+Nedenfor er ulike reaksjoner ved brudd på krav i lov eller forskrift omtalt.
+
+### Pålegg om retting
+
+Universitets- og høyskoleloven § 8-8 gir departementet hjemmel til å pålegge retting hvis en privat høyskole ikke har overholdt krav fastsatt i eller i medhold av loven.
+
+Av forarbeidene går det frem at et pålegg om retting i utgangspunktet bør være tilsynsmyndighetens første reaksjon dersom det avdekkes lovbrudd.[^642] Forarbeidene stadfester likevel at i særlige tilfeller kan visse reaksjoner benyttes uten at det er gitt pålegg om retting. Dette kan omfatte tilfeller der forholdet som er i strid med regelverket, tilsier at «retting ikke vil være et hensiktsmessig virkemiddel, av hensyn til studentene eller for å beskytte statens midler».[^643] Videre går det frem at tilsynsmyndigheten bør legge til grunn et proporsjonalitetsprinsipp ved valg av reaksjoner. Dette innebærer at reaksjonen må stå i forhold til lovbruddet.
+
+En frist for oppfyllelse skal inngå i pålegget om retting. Utgangspunktet er at denne fristen skal gi institusjonen tilstrekkelig tid til å kunne oppfylle pålegget, og fristen må fastsettes på grunnlag av en konkret vurdering.
+
+Det fremgår av forarbeidene at hjemmelen til å pålegge retting er «et nødvendig og hensiktsmessig, men ikke tilstrekkelig, virkemiddel for å sikre at regelverket etterleves».[^644] Ikke å etterkomme et pålegg om retting vil dermed kunne gi grunnlag for ytterligere reaksjoner.
+
+### Krav om tilbakebetaling av statstilskudd
+
+I universitets- og høyskoleloven § 8-9 er krav om tilbakebetaling av statstilskudd regulert. Bestemmelsen gir departementet hjemmel til å kreve tilskuddet tilbake dersom «statstilskudd disponeres i strid med bestemmelser gitt i eller i medhold av loven eller grunnlaget for tilskuddet». Bakgrunnen for bestemmelsen var et ønske om å lovfeste et tilsvarende krav om tilbakebetaling som fremgår av tilskuddsbrevet som alle institusjoner med statlig tilskudd mottar.[^645] Reaksjoner som er knyttet til ulovlig disponering av statstilskudd vil da fremkomme i et mest mulig helhetlig regelverk.
+
+Bestemmelsen sier videre at vedtak om tilbakebetaling av statstilskudd er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 første ledd bokstav e.[^646]
+
+### Tvangsmulkt
+
+Muligheten for å ilegge tvangsmulkt fremgår av universitets- og høyskoleloven § 8-10 første ledd. Bestemmelsen slår fast at departementet kan ilegge tvangsmulkt for å sikre at et pålegg gitt med hjemmel i § 8-8 blir etterlevd. Tvangsmulkten skal fastsettes som «løpende dagsmulkt fra utløpet av fristen som er satt i pålegget, og inntil forholdet er rettet».
+
+Det er en forutsetning at det er gitt et pålegg, og at fristen for å etterkomme pålegget ikke er overholdt.[^647]
+
+Et vedtak om tvangsmulkt vil være et enkeltvedtak etter forvaltningsloven, jf. forvaltningsloven § 2 tredje ledd om «bruk av særlige tvangsmidler for å få gjennomført et vedtak», og vedtaket skal rette seg mot den som er gitt pålegget om retting, jf. universitets- og høyskoleloven § 8-8.
+
+### Overtredelsesgebyr
+
+Adgangen til å ilegge overtredelsesgebyr følger av universitets- og høyskoleloven § 8-11. I Prop. 44 L (2016–2017) er overtredelsesgebyr definert som «et pengebeløp som skal betales til det offentlige på grunn av brudd på reguleringer i eller i medhold av loven».[^648] Et vedtak om å ilegge overtredelsesgebyr vil være et enkeltvedtak etter forvaltningsloven, jf. § 2 første ledd bokstav b.
+
+Overtredelsesgebyret skal ilegges den som lovens krav retter seg mot i det konkrete tilfellet. Av forarbeidene går det frem at dersom en akkreditert institusjon skal ilegges overtredelsesgebyr, skal «foretak» forstås som aksjeselskapet eller stiftelsen som har akkrediteringen.[^649] Ettersom enkeltpersoner ikke kan ilegges overtredelsesgebyr etter universitets- og høyskoleloven § 8-11, er det ikke tatt inn krav til skyld i bestemmelsen. Det står: «Overtredelsesgebyr kan ilegges foretak​ selv om ingen enkeltperson har utvist skyld». Dette innebærer at institusjonen kan bli ilagt overtredelsesgebyr ved brudd på regler i eller i medhold av loven, selv om det ikke er påvist uaktsomhet eller forsett hos eieren eller ansatte. Reglene i forvaltningsloven gjelder ved ileggelse av overtredelsesgebyr.[^650]
+
+Ifølge universitets- og høyskoleloven § 8-11 andre ledd skal størrelsen på overtredelsesgebyret «fastsettes i hvert enkelt tilfelle». I henhold til Prop. 44 L (2016–2017) kan størrelsen på gebyret ta hensyn til blant annet
+
+\[…\]overtredelsens art, omfang, virkning for studentene, om overtredelsen skyldes et ønske om å vanskeliggjøre departementets tilsynsvirksomhet, oppnådde fordeler, om overtredelsen utelukkende skyldes forhold utenfor foretakets kontroll, foretakets økonomiske evne med videre.[^651]
+
+Det legges til grunn at utmåling av gebyret skal være proporsjonal med overtredelsen.
+
+I henhold til universitets- og høyskoleloven § 8-11 andre ledd andre punktum vil et endelig vedtak om overtredelsesgebyr være tvangsgrunnlag for utlegg.
+
+Bestemmelsen gir i tredje ledd hjemmel til å gi forskrift om overtredelsesgebyr og ileggelse av dette. Departementet har fastsatt maksimumsbeløp for overtredelsesgebyr i forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv. § 10.
+
+### Tilbaketrekking av akkreditering
+
+I henhold til universitets- og høyskoleloven § 8-12 har departementet anledning til å trekke tilbake akkreditering av institusjon eller studietilbud. Ifølge Prop. 44 L (2016–2017) påvirker ikke dette NOKUTs adgang til å trekke tilbake akkreditering på faglig grunnlag, jf. universitets- og høyskoleloven § 3-1 fjerde ledd.[^652]
+
+Vilkåret for at akkrediteringen skal kunne trekkes tilbake, er at tilsynsmyndigheten avdekker «alvorlige forhold» i strid med universitets- og høyskoleloven eller bestemmelser gitt i medhold av loven. I Prop. 44 L (2016–2017) er det nevnt at dette kan være «tilfelle der overtredelsene er så grove at hensynet til studentene, statens midler eller tilliten til institusjonen gjør det uforsvarlig å la tilbyderen fortsette som akkreditert institusjon».[^653] I tillegg til at det må være snakk om «alvorlige forhold» for å kunne tilbaketrekke akkreditering, er det et vilkår at det er gitt pålegg om retting, og at fristen for å etterkomme pålegget ikke er holdt, jf. universitets- og høyskoleloven § 8-8.
+
+Virkningen ved tilbaketrekking av akkreditering er blant annet at den vedtaket retter seg mot, ikke lenger vil kunne tilby høyere utdanning. Dette inkluderer å tildele vitnemål, bruke titler eller betegnelser som er beskyttet​ i universitets- og høyskoleloven, med videre. En institusjon som mister akkreditering på bakgrunn av universitets- og høyskoleloven § 8-12, må eventuelt søke NOKUT om ny akkreditering.
+
+Departementet har med hjemmel i bestemmelsen gitt nærmere regler om saksbehandlingen ved tilbaketrekking av akkreditering, jf. forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv. § 11.
+
+## Utvalgets vurderinger
+
+Private høyskoler har lenge vært en integrert del av det samlede norske utdanningstilbudet, og det stilles de samme faglige kravene til de private som til de statlige utdanningsinstitusjonene i samme institusjonskategori. Det er foreløpig ingen private universiteter.
+
+De private høyskolene kan være et viktig alternativ til de statlige utdanningstilbudene og utfyller disse på flere områder. De private høyskolene bidrar til institusjonelt mangfold, og gir studentene større valgfrihet og flere alternative studietilbud. Flere av de private høyskolene har viktige helse-, omsorgs- og lærerutdanninger, og utdanner kandidater samfunnet har stort behov for. Private høyskoler driver med utdanning og forskning på områder der de er med på å utvikle fagfelt som også finnes ved statlige universiteter og høyskoler. For at studentene og institusjonene skal ha like rammevilkår, er det behov for regler som gjelder både statlige og private institusjoner. Dette er viktig for eksempel for å sikre akademisk frihet, for studentenes rettigheter og plikter og for at forskningen og utdanningen ved private universiteter og høyskoler skal møte de samme kvalitetskriteriene som ved statlige institusjoner.
+
+Universiteter og høyskolers rett til å utforme sitt eget faglige og verdimessige grunnlag er lovfestet i universitets- og høyskoleloven § 1-5 andre ledd, en bestemmelse utvalget foreslår å videreføre, se kapittel 15. Enkelte av de private høyskolene har sin virksomhet basert på alternativ pedagogikk eller et religiøst verdigrunnlag. Uavhengig av verdigrunnlag er alle høyskoler og universiteter pliktig til å hindre diskriminering og fremme likestilling i tråd med kravene i likestillings- og diskrimineringsloven.
+
+Fra 1. januar 2020 er universitets- og høyskoleloven endret slik at det som hovedregel skal være et vilkår at en privat høyskole er institusjonsakkreditert for at den skal kunne få statstilskudd, jf. § 8-3.[^654] For øvrig mener utvalget at de særlige bestemmelsene i universitets- og høyskoleloven kapittel åtte, som gjelder for private universiteter og høyskoler er hensiktsmessige. Utvalget anbefaler derfor at disse videreføres.

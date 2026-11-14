@@ -1,965 +1,502 @@
-# NOU 2020: 3, del 25 av 42 (side 273–283)
+# NOU 2020: 3, del 25 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 273]
+# Klage på andre vedtak enn eksamen
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+\[:figur:fig26-1.jpg\]
 
-gruppen ansatte i undervisnings- og forskerstillinger, mens 37 prosent var teknisk-administrativt
-ansatte.8 Det forholdsmessige antallet mellom
-ulike stillingskategorier utgjør i realiteten en form
-for vekting.
-Utvalgets mindretall, bestående av medlemmene Bragdø-Ellenes, Hessen og Riekeles viser til at
-de ansatte i undervisnings- og forskerstillinger
-har et særlig ansvar for å fremme den akademiske
-frihet og utøve institusjonenes kjernevirksomhet
-gjennom forskning og kunstnerisk utviklingsarbeid, undervisning og formidling. En hovedbegrunnelse for valg av rektor er nettopp at en
-slik ordning bygger opp under institusjonenes
-lange tradisjon for å ivareta autonomi gjennom
-lojalitet nedover, samt å fremme akademias
-hovedformål. Rektor representerer i vid forstand
-det vitenskapelige kollegiet ved institusjonen. Det
-bør også komme til uttrykk ved at ansatte i undervisnings- og forskerstillingers vurderinger av
-hvem som bør velges som øverste leder av et universitet eller en høyskole, tillegges størst vekt.
-Gjeldende regler om vekting av stemmer ved
-rektorvalg bør derfor videreføres.
+## Utvalgets forslag
 
-27.5.2.4 En ansatt rektor kan avsettes i tråd med
-vilkårene i statsansatteloven
-Uavhengig av om rektor er ansatt eller valgt, kan
-det oppstå situasjoner der styret mener at rektor
-ikke kan ha posisjonen lenger. For eksempel kan
-rektor være ute av stand til å gjenoppta arbeidet
-på grunn av sykdom, ikke lenger ha de kvalifikasjonene som er nødvendige for stillingen, ha vist
-seg uskikket for stillingen eller ha krenket sine
-tjenesteplikter. Når rektor er ansatt, reguleres
-slike tilfeller og andre arbeidsrettslige reaksjoner
-av statsansatteloven.9 Hvis rektor er valgt, men
-ikke er ansatt ved institusjonen og derfor ansettes
-i en åremålsstilling, gjelder statsansatteloven på
-samme måte. Hvis rektor er valgt av og blant de
-ansatte ved institusjonen, får i praksis vedkommende permisjon fra sin ordinære stilling, og
-8
-
-9
-
-Basert på ansattstatistikk fra NSD/Database for statistikk
-om høgre utdanning (DBH). Vi har lagt til grunn at stillingsgruppen undervisnings- og forskerstillinger i valgsammenheng omfatter gruppen «undervisnings-, forskningsog formidlingsstillinger» i DBH, samt faglige lederstillinger
-(rektor, prorektor, dekan, instituttleder, studieleder og
-undervisningsleder). Teknisk og administrativt ansatte
-omfatter øvrige stillingsgrupper i DBH (administrative stillinger minus de faglige lederstillingene, drifts- og vedlikeholdsstillinger, støttestillinger for undervisning, forskning
-og formidling, samt andre stillinger).
-Lov 16. juni 2017 nr. 67 om statens ansatte mv. (statsansatteloven).
-
-271
-
-Kapittel 27
-
-ansettes i en midlertidig stilling som rektor. Fra
-denne midlertidige stillingen kan rektoren, selv
-om vedkommende er valgt, sies opp eller få andre
-arbeidsrettslige reaksjoner i tråd med statsansatteloven.
-Utvalgets mindretall, bestående av medlemmene Hessen og Søvig, viser til at i en styrings- og
-ledelsesmodell med valgt rektor som styrets leder
-har rektor sin legitimitet fra de ansatte og studentene som har valgt vedkommende. Om rektor
-ikke lenger har tillit, vil det vise seg ved at han
-eller hun ikke blir gjenvalgt. I perioden mellom
-valg har velgerne ingen mekanismer for å
-uttrykke sin eventuelle mistillit. I ordningen med
-ekstern styreleder og valgt rektor kan det likevel
-oppstå situasjoner hvor det er behov for å avsette
-rektor. Bakgrunnen for slike situasjoner kan være
-forskjellig fra saklig uenighet mellom rektor og
-styret til direkte klanderverdig opptreden fra rektor, slik at avskjed er rettmessig. Om rektor har
-opptrådt slik at vilkårene for avskjed er oppfylt for
-den stillingen som vedkommende har som ordinær ansatt ved institusjonen, vil rektorvervet også
-bortfalle siden rektor da ikke lenger er valgbar. I
-en situasjon der styret og rektor er uenige om
-veien videre for institusjonen, mener dette
-mindretallet at en det vil være bedre å innføre en
-ordning med mistillit. Om styret ikke lenger har
-tillit til rektor, må styret sørge for nyvalg. Hvis valget skulle vise at sittende rektor får fornyet tillit,
-må styret vurdere konsekvensene av dette. Hva
-som skal være terskelen for å fremme og vedta et
-forslag om mistillit, er det opp til styret å avgjøre.
-
-27.5.2.5 Oppnevning av eksterne styremedlemmer
-Utvalget legger til grunn at departementet i kraft
-av sitt ansvar for høyere utdanning og forskning,
-har en legitim interesse i å oppnevne eksterne
-styremedlemmer. Utvalgets flertall, ved lederen
-Aune og medlemmene Bergstrøm, Bragdø-Ellenes,
-Hessen, Jørgensen, Mælen og Søvig, viser til at institusjonenes autonomi tilsier at de selv oppnevner
-to av de eksterne styremedlemmer. Forslaget må
-ses i sammenheng med at utvalgets flertall foreslår at rektor ikke kan være styreleder, noe som
-isolert sett svekker institusjonenes autonomi. Ved
-at institusjonenes styre får utnevne to av de
-eksterne styremedlemmene, blir institusjonenes
-oppfatning av hvem som er best egnet til posisjonen, avgjørende, og ikke bare et forslag, slik det
-er i dag. Flertallet mener derfor at ved de statlige
-institusjonene, bør styret selv oppnevne to
-eksterne styremedlemmer og ett varamedlem,
-mens departementet også oppnevner to eksterne
-
-[Side 274]
-
-272
-
-Kapittel 27
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-styremedlemmer og ett varamedlem. Henholdsvis
-styret og departementet må sørge for kjønnsbalanse blant de styremedlemmene de oppnevner.
-I og med at de skal oppnevne ett varamedlem
-hver, kan det føre til at begge varamedlemmene
-har samme kjønn. Som for øvrige institusjoner
-mener flertallet at både Kunsthøgskolen i Oslo og
-Samisk høgskole selv bør oppnevne to av de
-eksterne styremedlemmene. For Samisk høgskole innebærer dette at Sametinget ikke skal
-oppnevne to styremedlemmer og ett varamedlem,
-men at Samisk høgskole bør innhente forslag fra
-Sametinget før høyskolen oppnevner styremedlemmer.
-Utvalgets mindretall, bestående av medlemmene Dahl Andersen, Riekeles og Steinveg mener at
-departementet bør oppnevne alle de eksterne
-medlemmene. Dette vil gi best forutsetninger for
-at de eksterne styremedlemmenes kompetanse
-og bakgrunn kan ses samlet. Dette mindretallet
-forutsetter at oppnevningen skjer på bakgrunn av
-innspill fra institusjonenes styrer og skjer i dialog
-med institusjonenes ledelser.
-For øvrig har utvalget merket seg at Sametinget ønsker at Sametingets myndighet utvides til
-også å omfatte oppnevning av ett styremedlem og
-ett varamedlem for Universitetet i Tromsø – Norges arktiske universitet og Nord universitet, fordi
-disse institusjonene har et særlig ansvar for utdanning og forskning på norsk side av Sápmi. Utvalget har forståelse for dette. Flertallet, lederen
-Aune og medlemmene Bergstrøm, Bragdø-Ellenes,
-Hessen, Jørgensen, Mælen og Søvig, mener imidlertid at institusjonene selv bør oppnevne to av de
-eksterne styremedlemmene. Mindretallet, medlemmene Dahl Andersen, Riekeles og Steinveg,
-mener at de eksterne styremedlemmene bør oppnevnes av departementet. Utvalget har vurdert
-om Sametinget bør få oppnevne styremedlemmer
-på bekostning av departementet, men mener det
-er viktig at departementet oppnevner styremedlemmer. Utvalget har også vurdert om styrene for
-disse institusjonene bør ha flere eksterne medlemmer, men har kommet til at hensynet til effektive og beslutningsdyktige styrer tilsier at styret
-som et utgangspunkt ikke bør ha flere enn elleve
-medlemmer.
-Utvalget mener at institusjonene bør foreslå
-eksterne styremedlemmer for departementet, i
-tråd med dagens regler. Utvalget understreker at
-departementet oppnevner styremedlemmer på
-fritt grunnlag, men mener det er viktig at departementet vurderer forslagene fra institusjonene
-og gjennomfører oppnevningen i dialog med
-institusjonens ledelse. Utvalget går ikke inn for å
-
-videreføre at Norsk kulturråd skal fremme forslag til eksterne styremedlemmer ved kunsthøyskolene.
-
-27.5.3 Den øvrig ledelsen ved institusjonene
-I tråd med utgangspunktet om at institusjonene
-bør ha stor frihet og stort ansvar, mener utvalget
-det må være opp til institusjonene selv å
-bestemme hvordan styringen og ledelsen for
-øvrig bør organiseres. Dette innebærer at styret
-må ta stilling til om det skal være én eller flere
-prorektorer, hvilke funksjoner eventuelle prorektorer skal ha og om prorektorer skal velges eller
-ansettes. Hvis prorektorer skal ansettes, bør det
-fortsatt være mulig å ansette prorektor på åremål.
-Det samme gjelder hvilke øvrige lederstillinger
-det skal være, hvilke direktører institusjonen skal
-ha, hva deres oppgaver og ansvar i så fall skal
-være, med videre. Det bør også være opp til styret
-å ta stilling til hvordan grunnenheter og
-avdelinger skal organiseres og styres, for eksempel om det skal opprettes fakulteter og institutter
-og om det skal være styrer eller kollegiale råd
-som kommer med råd til ledelsen. Hvis ledere av
-grunnenheter og avdelinger skal ansettes midlertidig må det være hjemmel til dette.
-
-27.5.4 Regler om styrets arbeid
-Utvalget mener at loven bør ha noen overordnede
-bestemmelser for å sikre forutberegnelighet, men
-for øvrig bør styret selv i hovedsak fastsette regler
-for sitt eget arbeid.
-Erfaringsmessig treffer styret i dag de fleste
-avgjørelsene med alminnelig flertall, mens noen
-avgjørelser skal treffes med to tredjedels flertall,
-for eksempel avgjørelser om bortvisning eller utestenging, jf. universitets- og høyskoleloven § 4-8.
-Utvalget mener at alle styrets avgjørelser bør treffes med alminnelig flertall. Avgjørelser som er
-inngripende for den de gjelder, for eksempel vedtak om bortvisning eller utestenging, bør også
-treffes med alminnelig flertall. For å sikre rettssikkerheten til den vedtaket retter seg mot, mener
-utvalget at loven bør presisere nærmere de materielle vilkårene for når en student kan bortvises
-eller utestenges, heller enn å kreve kvalifisert flertall. Se punkt 22.4.4 om dette.
-I dag fastsetter loven at det ved både statlige
-og private institusjoner skal være størst mulig
-grad av åpenhet om styrets arbeid, jf. universitetsog høyskoleloven §§ 8-1 tredje ledd og 9-2 sjette
-ledd. Ved statlige universiteter og høyskoler er
-utgangspunktet at styrets møter skal holdes for
-
-[Side 275]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-åpne dører. Styret kan vedta at møtene skal holdes
-for lukkede dører, eller at bestemte saker skal
-behandles for lukkede dører. Vi mener det er sentralt at universiteter og høyskoler har stor grad av
-åpenhet og sørger for god informasjon om virksomheten. Utvalget viser også til at offentleglova
-gjelder for statlige universiteter og høyskoler, og
-for private høyskoler når de treffer enkeltvedtak
-eller utferdiger forskrift, jf. offentleglova § 2.10
-Dette bidrar til åpenhet. For øvrig bør institusjonene sørge for åpenhet ved aktivt å informere om
-virksomheten og gjøre papirer til styremøter lett
-tilgjengelig for offentligheten, forutsatt at de ikke
-er unntatt offentlighet, jf. offentleglova.
-Utvalget viser til at utviklingen i stor grad har
-gått i retning av at styremøter overføres (strømmes) på internett. Utvalget viser til at studenter,
-ansatte og media i enkelte tilfeller er til stede på
-styremøter. Utvalget mener det er positivt med
-oppmerksomhet om arbeidet til styrene. Men,
-hvis slik tilstedeværelse gjør at styremedlemmer
-vegrer seg for å gi uttrykk for tvil eller motforestillinger, kan det også hindre fri, åpen og tillitsfull
-diskusjon og meningsutveksling. Det kan også
-føre til at viktige diskusjoner om kontroversielle
-spørsmål flyttes til andre fora. Åpne møter kan
-altså motvirke godt styrearbeid. Utvalget mener
-likevel at bestemmelsene om at det bør være
-størst mulig grad av åpenhet om styrets arbeid,
-bør videreføres. Styrene må selv sørge for en
-arbeidskultur der de fritt kan diskutere kontroversielle saker. Utvalget mener også at dagens
-bestemmelse om at styret kan bestemme at møter
-eller bestemte saker behandles for lukkede dører
-bør videreføres. Utvalget viser videre til at dersom
-styremøter blir forstyrret av tilhørere, kan styret
-bestemme at møtet skal holdes for lukkede dører.
-Utvalget viser for øvrig til bestemmelsene i offentleglova, som sørger for at allmennheten kan be
-om innsyn i for eksempel saksfremlegg og styreprotokoller ved de statlige institusjonene. Utvalget
-viser i denne sammenheng særlig til forskrift til
-offentleglova § 8, som slår fast at unntaket i
-offentleglova § 14 første ledd for organinterne
-dokumenter ikke gjelder for blant annet dokumenter fra administrasjonene til en kollegial enhet
-ved universiteter og høyskoler, og dokumenter
-som blir utvekslet mellom fakulteter ved universiteter og høyskoler.11
-
-10
-
-Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i
-offentleg verksemd (offentleglova).
-11
-Forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta).
-
-273
-
-Kapittel 27
-
-Utvalget foreslår å regulere styringen og ledelsen av statlige universiteter og høyskoler i et nytt
-kapittel i universitets- og høyskoleloven som kalles «Organisering og ledelse ved statlige institusjoner». Kapittelet vil erstatte dagens kapittel 9
-«Styret» og kapittel 10 «Rektor. Administrerende
-direktør». Vi foreslår relativt omfattende
-endringer i kapitlets struktur og bestemmelsenes
-ordlyd. Dette er ment å gjøre reglene mer oversiktlige og lette å finne frem i. Forslaget bygger på
-dagens universitets- og høyskolelov, men også
-bestemmelser i andre lover som regulerer virksomheter som har et styre, for eksempel stiftelsesloven, aksjeloven og helseforetaksloven.
-Dagens universitets- og høyskolelov inneholder ingen bestemmelser om styremedlemmenes uavhengighet, noe som vel særlig er aktuelt
-overfor departementet eller dem som har valgt
-styremedlemmene. Utvalget mener at det er
-behov for å klargjøre at styremedlemmene er uavhengige i utførelsen av sitt verv og skal treffe sine
-avgjørelser ut fra hva de mener er best for den
-institusjonen som de er satt til å styre.
-Dagens lov inneholder heller ingen bestemmelser om hvordan departementet kan gi
-instruks til styret. Utvalget mener at institusjonene som del av forvaltningen selvsagt kan gis
-instrukser, med unntak for de områdene hvor
-instruksjonsmyndigheten er avskåret i lov eller i
-medhold av lov. Instrukser må imidlertid gis til
-styret som det øverste organet, og kan ikke gis til
-enkeltpersoner. Slik er det også i dag. Utvalget
-mener at instrukser bør være skriftlige for å sikre
-åpenhet og etterprøvbarhet. En slik regel kan
-også bidra til at institusjoner ikke opplever å bli
-mer styrt enn det som er tilfellet. Skriftlighetskravet vil være særlig viktig når Stortinget eventuelt skal avgjøre statsrådens konstitusjonelle
-ansvar. Skriftlige instrukser kan enten gis i enkeltsaker eller som en del av den mer overordnede
-styringen.
-Det kan oppstå uenighet i styret om en avgjørelse er rettslig gyldig. Det er i dag praktisk vanskelig å få en kontroll av at et vedtak truffet av
-institusjonens styre ikke er i strid med rettsregler.
-Utvalgets flertall mener derfor at loven bør åpne
-for at tre eller flere styremedlemmer kan kreve
-lovlighetskontroll av et styrevedtak. En lovlighetskontroll innebærer ikke en overprøving av vurderinger som ikke er rent rettslige, for eksempel
-mer strategiske vurderinger eller beslutninger.
-Utvalgets flertall, bestående av utvalgsleder
-Aune og medlemmene Bergstrøm, Bragdø-Ellenes,
-Dahl Andersen, Jørgensen, Mælen, Riekeles og
-Steinveg foreslår at et krav om lovlighetskontroll
-
-[Side 276]
-
-274
-
-Kapittel 27
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-må fremmes av tre eller flere styremedlemmer, og
-at det bør være departementet som foretar kontrollen. Et krav om at minimum tre styremedlemmer fremmer et slikt krav om lovlighetskontroll
-skal sikre at behovet er reelt og ikke misbrukes.
-Utvalgets mindretall, medlemmene Hessen og
-Søvig, mener at det ikke er et behov for lovlighetskontroll av vedtak fattet ved institusjonene. Fra tid
-til annen vil styret være i tvil om de rettslige rammene. Da må styret søke råd, enten innad på insti-
-
-tusjonen eller ved ekstern ekspertise. En lovlighetskontroll fra departementet kan virke som en
-god løsning på en uavklart situasjon, men ofte vil
-også departementet være i tvil om den eksakte
-grensen for hva som lovlig. En ordning med lovlighetskontroll lar departementets vurdering
-være avgjørende. Disse medlemmene mener at
-det vil være bedre i samsvar med målsettingen om
-å sikre institusjonenes autonomi at styrets avgjørelse ikke kan overprøves av departementet.
-
-[Side 277]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-275
-
-Kapittel 28
-
-Kapittel 28
-
-Ansettelser
-
-Figur 28.1
-
-28.1 Utvalgets forslag
 Utvalget foreslår følgende:
-• Et nytt lovkapittel som samler alle bestemmelser om ansettelser.
-• Kapittelet får ny struktur, som følger strukturen i statsansatteloven.
-• Bestemmelsen om ansettelsesprosedyrer
-endres, slik at institusjonen ved ansettelse i
-undervisnings- og forskerstilling skal gjennomføre intervju, prøveforelesninger eller andre
-prøver med søkeren, med mindre det er åpenbart unødvendig.
-• Det skal ikke være adgang til å gi ansettelse for
-mer enn én periode som postdoktor.
-• Forøvrig videreføres dagens regler.
-Et flertall i utvalget foreslår følgende:
-• Adgangen til å ansette administrerende direktør på åremål videreføres ikke, jf. kapittel 27.
-Et mindretall i utvalget foreslår følgende:
-• Adgangen til å ansette administrerende direktør på åremål videreføres, jf. kapittel 27.
-
-Universitets- og høyskoleloven kapittel 11 gjelder
-bare for de statlige institusjonene. I tillegg er det
-tre sentrale forskrifter, som er hjemlet i statsansatteloven, med betydning for ansettelser i sektoren:
-• Forskrift om ansettelse og opprykk i undervisnings- og forskerstillinger2
-• Forskrift om ansettelse på innstegsvilkår3
-• Forskrift om ansettelsesvilkår for stillinger
-som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat4
-
-28.2.2 Universitets- og høyskoleloven
-kapittel 6 om ansettelse
-28.2.2.1 Generelt
-Det følger av universitets- og høyskoleloven § 6-1
-at arbeidsmiljøloven og statsansatteloven gjelder
-ved ansettelser ved institusjoner som er regulert
-av universitets- og høyskoleloven, men at
-reglene om ansettelser i universitets- og høyskoleloven er særregler som går foran de generelle reglene i arbeidsmiljøloven og statsansatte-
-
-Utvalget anbefaler følgende:
-• En arbeidsgruppe med medlemmer fra sektoren
-utreder hvordan ansettelsesprosessen ved universiteter og høyskoler kan gjøres raskere.
-
-1
-
-28.2 Gjeldende rett
-
-3
-
-28.2.1 Innledning
-Reglene i universitets- og høyskoleloven kapittel 6
-gjelder for både private og statlige institusjoner.1
-
-2
-
-4
-
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven).
-Forskrift 9. februar 2006 nr. 129 om ansettelse og opprykk i
-undervisnings- og forskerstillinger (forskrift om ansettelser og opprykk).
-Forskrift 24. mars 2015 nr. 341 om ansettelse på innstegsvilkår.
-Forskrift 31. januar 2006 nr. 102 om ansettelsesvilkår for
-stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat (forskrift om ansettelsesvilkår,
-vit. stillinger).
-
-[Side 278]
-
-276
-
-Kapittel 28
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-loven (lex specialis).5 Reglene suppleres av forvaltningsloven, som også gjelder for ansettelser i
-offentlig sektor.6
-
-28.2.2.2 Likestilling
-Universiteter og høyskoler skal arbeide aktivt,
-målrettet og planmessig for likestilling mellom
-kjønnene innenfor samtlige kategorier av stillinger
-ved institusjonen, jf. universitets- og høyskoleloven
-§ 6-2. Bestemmelsen ble tatt inn i loven for å fremheve institusjonens forpliktelse til å arbeide for å
-øke kvinneandelen i vitenskapelige stillinger.7
-Bestemmelsen fremhever institusjonenes plikt
-til å sørge for likestilling mellom kjønnene innenfor alle stillingskategorier. Samme plikt følger av
-likestillings- og diskrimineringsloven.8
-
-28.2.2.3 Utlysning og ansettelse i undervisningsog forskerstillinger
-Universitets- og høyskoleloven har i § 6-3 egne
-saksbehandlingsregler for utlysning og ansettelse i undervisnings- og forskerstillinger. Disse
-reglene fraviker reglene i arbeidsmiljøloven og
-statsansatteloven. Det er den sterke vektleggingen av faglig bedømmelse for vitenskapelige stillinger som er bakgrunnen for særreglene.9 Det å
-ha en særskilt bestemmelse om ansettelsesprosessen sikrer en lik ansettelsesprosess for statlige
-og private universiteter og høyskoler, der både
-faglige kvalifikasjoner og personlig egnethet vektlegges. Like regler for private og statlige universiteter og høyskoler er viktig for å sikre like konkurransevilkår og en felles standard for kvalifikasjonsvurdering i sektoren. Uten felles regler om
-utlysning og ansettelse i undervisnings- og forskerstillinger, ville arbeidsmiljøloven vært eneste felles rettslige grunnlag for alle institusjonstyper,
-mens statsansattelovens regler ville ha kommet i
-tillegg til arbeidsmiljølovens regler for de statlige
-universitetene og høyskolene.
-Ansettelsesprosessen for de vitenskapelige stillingene bygger på utgangspunktet om institusjonenes faglige frihet, og prinsippet om forskningens
-
-autonomi for den enkelte søker. For andre typer
-stillinger inneholder ikke universitets- og høyskoleloven særregler, bortsett fra likestillingskravet som
-gjelder for alle kategorier. Dessuten kan åremål
-også brukes for andre stillingskategorier.
-Det er styret som foretar ansettelser i undervisnings- og forskerstillinger. Styret kan delegere
-ansettelseskompetansen til et underordnet organ
-eller til ett eller flere ansettelsesutvalg.10 Selv om
-styret har adgang til å delegere ansettelsesmyndigheten, er det en forutsetning at styret ivaretar
-det overordnede ansvaret for faglige prioriteringer og dimensjonering av fagområder.11
-Styret selv fastsetter hvordan ansettelsesutvalget skal være sammensatt, men studentene skal
-være representert i ansettelsesorganet, med mindre styret enstemmig bestemmer noe annet.12 Det
-er opp til hver enkelt institusjon å fastsette nærmere regler for ansettelsesorganet i personalreglementet, inkludert regler om oppnevning og virke.
-Ansettelsesorganet utlyser undervisnings- og
-forskerstillingene.13 Hvis det ene kjønnet er klart
-underrepresentert i den aktuelle stillingskategorien på vedkommende fagområde, skal dette
-kjønn oppfordres til å søke.14 Dette er en påminnelse om at institusjonen skal arbeide for likestilling allerede ved utlysningen av stillingene.
-Det er mulig å foreta ansettelser i undervisnings- og forskerstillinger kan foretas uten at styret kunngjør det på forhånd, når særlige grunner
-taler for det.15 Denne ansettelsesformen betegnes
-som «kalling» og kan ikke brukes hvis mer enn ett
-medlem av styret motsetter seg det. I forarbeidene er likestillingshensynet fremhevet som en
-«særlig grunn». I forarbeidsmerknaden til universitets- og høyskoleloven § 11-1 tredje og fjerde
-ledd står det: «Styret bør […] vurdere om kallelse
-kan benyttes for å rekruttere kvalifiserte kvinner
-fra sektoren, forskningsinstitusjonene, næringsliv
-og forvaltning.»16
-10
-11
-
-12
-5
-
-6
-7
-8
-9
-
-Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) og lov 16. juni 2017 nr. 67
-om statens ansatte mv. (statsansatteloven).
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
-Ot.prp. nr. 79 (2003–2004) Om lov om universiteter og høyskoler punkt. 7.2.
-Lov 16. juni 2017 nr. 51 om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven).
-NOU 1993: 24 Lov om universiteter og høgskoler punkt 2.7.1.
-
-13
-14
-15
-
-16
-
-Universitets- og høyskoleloven § 6-3 første ledd, første setning.
-Ot.prp. nr. 40 (2001–2002) Om lov om endringer i lov 12.
-mai 1995 nr. 22 om universiteter og høgskoler og lov 2. juli
-1999 nr. 64 om helsepersonell punkt 12.1.8.
-Universitets- og høyskoleloven § 6-3 første ledd, andre setning.
-Universitets- og høyskoleloven § 6-3 andre ledd, første setning.
-Universitets- og høyskoleloven § 6-3 andre ledd andre setning.
-Universitets- og høyskoleloven § 6-3 (4). Bestemmelsen var
-i en periode hjemlet i forskrift 11. november 1983 nr. 1608
-til lov om statens tjenestemenn, men ble tatt inn i universitets- og høyskoleloven slik at vurderingen ikke skulle være
-avhengig av tjenestemannsloven.
-Ot.prp. nr. 79 (2003–2004) merknad til § 11-1.
-
-[Side 279]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Når noen ansettes i undervisnings- og forskerstillinger, skal det skje på grunnlag av en innstilling, som er gitt etter en sakkyndig bedømmelse
-ut fra stillingsbeskrivelsen i utlysning og
-betenkning.17 Bestemmelsen sier eksplisitt at
-begge kjønn skal være representert blant de
-sakkyndige. Ansettelsesorganet kan i tillegg
-avgjøre at det skal gjennomføres intervju, prøveforelesning eller andre prøver.18
-Vitenskapelige stillinger kan være veldig spesialiserte. Dette er begrunnelsen for å foreta den
-sakkyndige vurderingen. De sakkyndige skriver en
-innstilling basert på sin faglige bedømmelse. Ansettelsesorganet har ansvar for å kontrollere at den
-sakkyndige bedømmelsen er forsvarlig. Organet
-kan ikke overprøve den faglige vurderingen, men
-må påse at de kvalifikasjoner søker har oppgitt er i
-overensstemmelse med kriteriene i stillingsbeskrivelsen og praksis for vektlegging av kvalifikasjonskrav. Ansettelsesorganet kan ikke begrense
-bedømmelsen til de forhold som er vurdert av de
-sakkyndige, men må foreta en helhetlig vurdering,
-herunder også vurdere personlig egnethet.19
-Annen relevant erfaring av betydning for stillingen
-kan også vektlegges når det er presisert i utlysningen hvilke forhold som vil bli tillagt vekt.
-I særskilte tilfeller kan kravet om sakkyndig
-bedømmelse fravikes ved ansettelse for undervisnings- og forskerstillinger som ikke er førstestillinger eller professorstillinger.20 Unntak fra sakkyndig bedømmelse kan bare gjøres etter en konkret
-vurdering i hvert enkelt tilfelle, og det kan ikke gjøres unntak hvis det medfører at den vitenskapelige
-forankringen ved institusjonen svekkes.21
-I stillinger hvor det stilles krav om pedagogiske kvalifikasjoner, skal det vurderes særskilt
-om søkeren oppfyller dette kvalifikasjonskravet.22
-Styret gir nærmere regler for bedømmelsen, i tillegg til at kriterier for ansettelse og opprykk er
-fastsatt i forskrift.23 Det alminnelige utgangspunktet vil være krav om gjennomført pedagogisk
-basisopplæring.24 Kravet om pedagogiske kvalifikasjoner er en påminnelse om at det må gjøres en
-17
-
-Universitets- og høyskoleloven § 6-3 tredje ledd.
-Universitets- og høyskoleloven § 6-3 tredje ledd andre setning.
-19
-Jf. Ot.prp. nr. 85 (1993–94) Om lov om høgre utdanning s.
-60.
-20
-Universitets- og høyskoleloven § 6-3 tredje ledd tredje setning.
-21
-Ot.prp. nr. 40 (2001–2002) punkt 12.1.8.
-22 Universitets- og høyskoleloven § 6-3 tredje ledd sjette setning.
-23
-Forskrift om ansettelser og opprykk.
-24
-Ot.prp. nr. 85 (1993–94) s. 60.
-18
-
-277
-
-Kapittel 28
-
-grundig vurdering av om søkerne har de pedagogiske kvalifikasjonene stillingen krever.25 Å ha
-praktisk kompetanse som underviser kan være tilstrekkelig til å oppfylle kravene. Bestemmelsens
-ordlyd åpner for at det som ledd i ansettelsesprosessen «kan» holdes prøveforelesninger med mer.
-I praksis kan en grunn til å velge bort prøveforelesning for eksempel være at kandidaten tidligere
-har søkt på stillingen og alt har holdt prøveforelesning, er kjent som foredragsholder, eller har
-undervist ved institusjonen tidligere.
-Det skal legges vekt på likestillingshensyn ved
-ansettelse, jf. universitets- og høyskolelovens § 6-3
-femte ledd. Bestemmelsen hjemler en plikt til
-moderat kjønnskvotering, det vil si at man under
-ellers like vilkår kan legge avgjørende vekt på
-kjønn hvis det ene kjønn er underrepresentert.
-Vilkårene i likestillings- og diskrimineringsloven
-§ 11, jf. § 6 må være oppfylt. Bestemmelsen åpner
-for lovlig forskjellsbehandling der særbehandlingen er egnet til å fremme likestillings- og diskrimineringslovens formål. Det må være et rimelig
-forhold mellom formålet man ønsker å oppnå, og
-hvor inngripende særbehandlingen er for den
-eller dem som stilles dårligere. Det er videre et
-krav om at særbehandlingen opphører når formålet med forskjellsbehandlingen er oppnådd.
-Det siste vil være tilfelle når det er kjønnsbalanse
-på det aktuelle stillingsnivået.
-Universitetene og høyskolene har stor frihet til
-å selv bestemme prosessen ved ansettelser. Det
-har sammenheng med institusjonenes autonomi
-og den særlige organisasjonsstrukturen institusjonene har med kollegiale styringsorganer og valgte
-ledere, samt kvalitetssikringshensynene som gjør
-seg gjeldende ved ansettelser i undervisnings- og
-forskerstillinger.26
-
-28.2.2.4 Ansettelse på åremål
-Åremålsstillinger er tidsavgrensede stillinger. Formålet er å sikre at man får ansatt mennesker i
-utdanningsstillinger som gjennom disse stillingene skal kunne kvalifisere seg til undervisningsog forskerstillinger. I tillegg brukes ansettelse på
-åremål i lederstillinger der man ønsker at lederfunksjonen skal rotere etter et gitt antall år. Behovet for å ansette på åremål i lederstillinger er
-begrunnet med at oppgavene krever særlig evne
-til nyorientering på et område hvor faglig fornyelse er nødvendig. Åremålsperiodene kan variere
-fra fire til tolv år for de ulike stillingene.
-25
-26
-
-Universitets- og høyskoleloven § 6-3 tredje ledd.
-Ot.prp. nr. 85 (1993–94) s. 61.
-
-[Side 280]
-
-278
-
-Kapittel 28
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Universitets- og høyskoleloven § 6-4 (1) bokstav a-k gir en uttømmende opplisting av hvilke
-stillinger åremål kan benyttes for. Ansettelse på
-åremål kan benyttes for:
-a. rektor
-b. administrerende direktør
-c. prorektor
-d. leder for avdeling og grunnenhet
-e. studentombud
-f. postdoktorstillinger
-g. stipendiater
-h. vitenskapelige assistenter
-i. spesialistkandidater
-j. undervisnings- og forskerstillinger når skapende eller utøvende kunstnerisk kompetanse
-inngår som et vesentlig element i kompetansekravet
-k. stilling på innstegsvilkår
-
-28.2.2.5 Midlertidig ansettelse i undervisnings- og
-forskerstillinger
-Hovedregelen er fast ansettelse i ordinære kombinerte undervisnings- og forskerstillinger, men
-universitets- og høyskoleloven åpner for midlertidige ansettelser i visse tilfeller.
-En søker kan ansettes midlertidig i en undervisnings- og forskerstilling hvis det ved utlysning
-av en fast stilling ikke har meldt seg en søker som
-etter ansettelsesmyndighetens vurdering er klart
-kvalifisert for fast ansettelse, og det ved ny kunngjøring ikke er sannsynlig at en kvalifisert søker
-vil melde seg, jf. universitets- og høyskolelovens
-§ 6-5 første ledd. Vilkårene for slik midlertidig
-ansettelse er at muligheten for tidsbegrenset
-ansettelse er nevnt i kunngjøringen, og at søkeren
-etter ansettelsesmyndighetens vurdering har forutsetninger for å skaffe seg de nødvendige kvalifikasjonene i løpet av ansettelsesperioden.27
-Ansettelsesmyndigheten fastsetter ansettelsesperioden, som ikke må være lengre enn tre år,
-jf. § 6-5 (1) andre avsnitt. Hvis ansettelsesmyndigheten innen utløpet av denne perioden ikke har
-fått gjennomført en forsvarlig vurdering av den
-ansattes kvalifikasjoner, kan perioden forlenges
-med seks måneder. Forutsetningen da er at forlengelsen er nødvendig for å få gjennomført en
-forsvarlig vurdering og at den ansatte har levert
-inn arbeider med sikte på vurdering for fast ansettelse. Perioden kan ikke forlenges utover dette, og
-det kan ikke skje en ny, tidsbegrenset ansettelse.
-Når ansettelsesperioden utløper, har den
-ansatte rett til å bli vurdert for fast ansettelse før
-27
-
-Universitets- og høyskoleloven § 6-5 (1) andre ledd.
-
-stillingen kunngjøres på ny. Hvis arbeidstakeren
-ikke blir vurdert som kvalifisert, må vedkommende fratre uten oppsigelse. Dette gjelder selv
-om ansettelsestiden har vart i mer enn tre år. Når
-ansettelsesperioden beregnes, skal ikke permisjoner den ansatte har krav på etter lov eller tariffavtale medregnes. Bestemmelsen er et unntak fra
-treårsregelen i statsansatteloven.
-Bakgrunnen for at personer kan ansettes
-midlertidig i tre år i undervisnings- og forskerstillinger, er at det skal være et rekrutterings- og
-kompetansebyggende virkemiddel.28 Dersom det
-mangler kvalifiserte søkere, er det et ønske at de
-som rekrutteres, skal kunne kvalifisere seg i løpet
-av tre år. For undervisnings- og forskerstillinger
-vil en søker også kunne ansettes midlertidig i en
-lavere stilling i påvente av at noen kvalifiserte melder seg. Forutsetningen er at det «på grunn av
-undervisningssituasjonen er helt nødvendig å
-foreta ansettelse», og at den ansatte oppfyller
-kompetansekravene i den lavere stillingen.
-Ved de statlige universitetene og høyskolene
-er det særregler om midlertidig ansettelse i noen
-typer vikariater. En vikar for en arbeidstaker som
-har permisjon for å være valgt eller åremålsansatt
-leder skal fratre stillingen uten oppsigelse når stillingens faste innehaver gjeninntrer, selv om vikariatet har vart i mer enn tre år. Bakgrunnen for
-dette unntaket fra treårsregelen er at åremålsstillingene ofte varer i fire år, og at det ville medført
-en lite heldig praksis hvis vikarene skulle få fast
-ansettelse før åremålsperioden slutter. Hvis et
-vikariat har vart i mer enn tre år, skal vikaren om
-mulig tilbys en annen passende stilling i virksomheten. Vikaren har fortrinnsrett på samme vilkår
-som etter statsansatteloven §§ 19 og 24. Fortrinnsrett til ansettelse i staten for vikarer ved statlige
-universiteter og høyskoler inntrer ved fratreden
-og varer inntil to år etter fratreden.29
-
-28.2.2.6 Særregler for visse typer bistillinger
-Institusjonene kan ansette midlertidig i inntil 20
-prosent av en undervisnings- og forskerstilling, jf.
-universitets- og høyskoleloven § 6-6. I universitetsog høyskolesektoren omtales disse bistillingene
-ofte som «professor II», «førsteamanuensis II»
-28
-29
-
-Ot.prp. nr. 79 (2005–2006) Om lov om endring i lov 1. april
-2005 nr. 15 om universiteter og høyskoler punkt 4.4.1.
-Universitets- og høyskoleloven § 6-5 fjerde ledd. Tidligere
-var regelen i § 6-5 fjerde ledd regulert i forskrift til tjenestemannsloven. Ryssdal-utvalget foreslo i NOU 2003: 25 Ny lov
-om universiteter og høyskoler å lovfeste adgangen til midlertidige ansettelser i undervisnings- og forskerstillinger i universitets- og høyskoleloven.
-
-[Side 281]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-eller «toerstilling». Forarbeidene viser til at institusjonene må ha adgang til å ansette medarbeidere midlertidig i bistillinger for å kunne sikre
-faglig utveksling med andre institusjoner og for å
-kunne knytte til seg kompetanse fra nærings- og
-arbeidsliv. I bistillinger kan de ansette personer på
-åremål fra to til seks år.
-
-28.2.2.7 Enerett til bruk av visse stillingstitler
-Begrunnelsen for å beskytte stillingstitler er at
-offentligheten skal kunne ha tillit til at innehaverne
-av slike titler har den vitenskapelige kompetansen
-som kreves.
-Stillingsbetegnelsen professor kan bare benyttes om stillinger på høyeste vitenskapelige eller
-kunstneriske nivå ved universiteter og høyskoler
-som har akkreditering som institusjon eller for
-enkeltstudier.30 Betegnelsen professor viser både
-til stillinger der det kreves vitenskapelig/kunstnerisk kompetanse på høyeste nivå, og til personer
-som er ansatt i en undervisnings- og forskerstilling og etter kompetansebedømming er vurdert å ha professorkompetanse. Departementet
-kan også bestemme at andre titler på undervisnings- og forskerstillinger skal gis tilsvarende
-beskyttelse som professor, men så langt er det
-ikke gitt forskrifter om det.
-Såfremt NOKUT bekrefter at en annen institusjon, som ikke kommer inn under universitets- og
-høyskoleloven, tilbyr høyere utdanning og utfører
-forskning eller kunstnerisk utviklingsarbeid på tilsvarende nivå innenfor ett eller flere fagfelt, kan
-departementet bestemme at professortittelen og
-annen beskyttet tittel kan benyttes også ved slik
-institusjon. Dette er aktuelt for instituttsektoren.
-Kvalifikasjonene skal i det vesentlige bedømmes
-på samme måte som ved institusjoner som går inn
-under universitets- og høyskoleloven.31
-
-28.2.3 Universitets- og høyskoleloven
-kapittel 11 om ansettelsesforhold
-28.2.3.1 Særskilte ansettelsesbestemmelser for
-statlige universiteter og høyskoler
-Kapittel 11 gjelder bare ansettelsesforhold ved
-statlige universiteter og høyskoler. Ansettelsesforhold ved private universiteter og høyskoler
-reguleres av arbeidsmiljøloven.
-
-30
-
-Universitets- og høyskoleloven § 6-7 (1). Bestemmelsen
-viderefører universitetsloven 1995 §§ 57, 58 og 59.
-31
-Universitets- og høyskoleloven § 6-7 (2).
-
-279
-
-Kapittel 28
-
-Styret ved statlige universiteter og høyskoler
-kan ansette avdelingsledere og en administrativ
-leder dersom styret vedtar å opprette slike stillinger. Videre kan styret fastsette at avdelingsleder
-skal ansette leder for grunnenhet, hvis denne skal
-ansettes, jf. § 11-1 første og andre ledd. I forarbeidene til § 11-1 står det at styret har adgang til å
-delegere alle typer ansettelser, utenom ansettelser
-av rektor og ansettelser uten foregående kunngjøring i hovedstilling. Forarbeidene understreker
-at styret har det strategiske ansvaret for rekrutterings- og ansettelsespolitikken ved institusjonene,
-men den konkrete utvelgelsen og ansettelsen kan
-likevel delegeres. I utgangspunktet bør styret
-benytte muligheten til å delegere og bare ansette
-selv, i tilfeller der styret mener ansettelsen er viktig strategisk.32
-Ansettelse av prorektor, leder for avdeling og
-grunnenhet og administrerende direktør skal skje
-på grunnlag av en innstilling fra et innstillingsutvalg. Styret selv fastsetter innstillingsutvalgets
-sammensetning og nærmere regler om innstilling
-med mer. Studentene skal være representert i innstillingsutvalget hvis ikke styret enstemmig
-bestemmer noe annet.
-Styret selv kan foreta ansettelse i stilling som
-prorektor eller leder for avdeling og grunnenhet
-uten forutgående kunngjøring når særlige grunner taler for det. Det er her tenkt på tilfeller der en
-utlysningsprosess kan gjøre at man mister den
-best kvalifiserte søkeren. Muligheten til å tilby en
-ettertraktet kandidat stillingen direkte, vil øke
-sjansen for å få en høyt kvalifisert kandidat. Det er
-viktig at styret legger vekt på å ivareta likestillingshensyn der ansettelse skjer uten forutgående
-kunngjøring.
-Ansettelse i teknisk eller administrativ stilling
-skal skje i ansettelsesråd oppnevnt etter reglene i
-statsansatteloven. Ansettelse i annen administrativ
-lederstilling enn nevnt i § 11-1 tredje ledd skjer på
-grunnlag av en innstilling fra rektor, eller fra administrerende direktør dersom rektor er valgt, hvis
-styret ansetter.
-
-28.2.3.2 Avskjed, oppsigelse, suspensjon eller
-ordensstraff
-Ansettelsesorganet selv avgjør saker etter statsansatteloven § 30 første ledd om avskjed, oppsigelse, suspensjon eller ordensstraff, jf. universitets- og høyskoleloven § 11-3 første ledd.
-Hvem som behandler en klage over et vedtak
-om de nevnte forholdene, avhenger av hvem som
-32
-
-Ot.prp. nr. 79 (2003–2004) merknad til § 11-1.
-
-[Side 282]
-
-280
-
-Kapittel 28
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-har truffet vedtaket. Hvis styret har fattet vedtaket, er departementet klageorgan. Dersom
-beslutningen er truffet på lavere nivå, er det styret
-som er klageinstans. Regelen presiserer hvem
-som er klageorgan, og supplerer forvaltningslovens regler om klage over enkeltvedtak.
-
-28.2.4 Forskrifter til universitets- og
-høyskoleloven som regulerer
-ansettelse
-28.2.4.1 Forskrift om ansettelse på innstegsvilkår
-Forskrift om ansettelse på innstegsvilkår er fastsatt av Kunnskapsdepartementet med hjemmel i
-universitets- og høyskoleloven § 6-4 første ledd
-bokstav k. Formålet med forskriften er å legge til
-rette for rekruttering ved at institusjonene kan
-ansette en person på åremål for å kvalifisere vedkommende til fast ansettelse i en undervisningseller forskerstilling. Det er satt krav til ansettelsesforholdets innhold og til oppfølging fra institusjonen. Institusjonene kan ansette personer på
-åremål i postdoktorstillinger for å kvalifisere
-dem til kombinerte førsteamanuensis- eller professorstillinger, eller på åremål i førsteamanuensisstillinger for å kvalifisere dem til professorstillinger.
-28.2.4.2 Forskrift om ansettelsesvilkår for stillinger
-som postdoktor, stipendiat, vitenskapelig
-assistent og spesialistkandidat
-Forskrift om ansettelsesvilkår for stillinger som
-postdoktor, stipendiat, vitenskapelig assistent og
-spesialistkandidat er fastsatt av Kunnskapsdepartementet med hjemmel i universitets- og høyskoleloven § 6-4 fjerde ledd.
-Forskriften angir minimumskrav om hva som
-skal til for å bli ansatt i de ulike stillingene, hva
-som skal gjøres i åremålsperioden og hvor lang
-perioden er. Den enkelte institusjon kan i tillegg gi
-nærmere regler for å supplere forskriften.
-28.2.4.3 Forskrift om ansettelse og opprykk i
-undervisnings- og forskerstillinger
-Forskrift om ansettelse og opprykk i undervisnings- og forskerstillinger33 er fastsatt av Kunnskapsdepartementet med hjemmel i universitetsog høyskoleloven § 6-3 sjette ledd.
-Forskriften angir kriterier for å bli ansatt i
-undervisnings- og forskerstillinger under lov om
-33
-
-Forskrift om ansettelser og opprykk.
-
-universiteter og høyskoler og kriterier for opprykk fra én stilling til en annen. Forskriften angir
-også at institusjonene kan fastsette tilleggskrav
-for den enkelte stillingstypen.
-Forskriften regulerer kompetansekrav til stillinger som professor, dosent, førsteamanuensis,
-førstelektor, høyskolelektor eller universitetslektor, og høyskolelærer.
-
-28.3 Forholdet til statsansatteloven,
-arbeidsmiljøloven m.fl.
-Det vises til fremstillingen ovenfor om regelverket om arbeidsrettslige forhold. Å forstå konteksten er en forutsetning for å kunne ta stilling
-til om det er behov for å regulere visse deler av
-de arbeidsrettslige forholdene i universitets- og
-høyskoleloven. Arbeidsmiljøloven gjelder for alle
-arbeidsforhold i Norge. I tillegg gjelder statsansattelovens bestemmelser for ansatte i staten.
-Universitets- og høyskoleloven utfyller altså
-disse lovene. Statlige universitet og høyskoler
-må dessuten følge reglene i forvaltningsloven
-med forskrift. Reglene i likestillings- og diskrimineringsloven gjelder for både statlige og private
-virksomheter.
-
-28.3.1 Ansettelse
-For de statlige institusjonene suppleres statsansatteloven med regelverket i universitets- og
-høyskoleloven. Ansettelsesmyndigheten legges
-som hovedregel til et kollegialt organ med representanter fra arbeidsgiver og ansatte. Dette kan
-være et ansettelsesråd eller et styre. Ansettelsesprosessen er en behandling i to trinn. Først skrives en innstilling om hvem som bør ansettes, og
-deretter avgjør ansettelsesmyndigheten hvem
-som ansettes. Innstillingen gis av nærmeste
-leder.
-Ved ansettelser i staten gjelder kvalifikasjonsprinsippet, jf. statsansatteloven § 3, mens kvalifikasjonsprinsippet ikke er uttrykt i arbeidsmiljøloven. Nettopp av den grunn er det vesentlig at
-kvalifikasjonskravene for undervisnings- og forskerstillinger er regulert i universitets- og høyskoleloven når kravet er at den best kvalifiserte skal
-ansettes. Universitets- og høyskoleloven sikrer på
-den måten at kvalifikasjonsprinsippet gjelder for
-disse stillingene uavhengig av om det er snakk om
-en statlig eller en privat universitet eller høyskole.
-Forvaltningsloven regulerer saksbehandlingen
-ved ansettelse, og i tillegg gjelder reglene i offentlighetsloven.
-
-[Side 283]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-28.3.2 Oppsigelse
-Universitets- og høyskoleloven har ingen egne
-bestemmelser om oppsigelse, bortsett fra § 11-3
-som regulerer hvem som fatter avgjørelsen, og
-hvem som er klageinstans for vedtakene. Oppsigelse ved universiteter og høyskoler vil derfor
-reguleres av statsansatteloven eller arbeidsmiljøloven, avhengig av om det er en statlig eller en
-privat institusjon.
-Felles for regelverkene er at oppsigelser kan
-foretas på grunn av den ansattes forhold eller på
-grunn av virksomhetens forhold. Lovgiveren har i
-stor grad forsøkt å harmonisere statsansatteloven
-med arbeidsmiljøloven, men når det gjelder oppsigelse på grunn av virksomhetens forhold skal
-meningsinnholdet forstås tilpasset statens særpreg.34 Ordlyden «virksomhetens forhold» i statsansatteloven § 19 er etter forarbeidene ment å
-dekke kutt i bevilgninger, bortfall av oppgaver
-som følge av omstillinger og effektivisering, opphør av eksternt finansierte stillinger og at ansatte
-ikke ønsker å følge med ved flytting av arbeidsplassen.35
-28.3.3 Forskrift til statsansatteloven
-Forskrift til lov om statens ansatte mv.36 er gitt av
-Kommunal- og moderniseringsdepartementet med
-hjemmel i statsansatteloven. Forskriften gjelder
-for ansatte i staten, med unntak av forelesere,
-hjelpelærere, øvingslærere, timelærere og
-praksisveiledere i mindre enn 37,5 prosent av full
-stilling, eksamenssensorer og eksamensinspektører37.
-I universitets- og høyskolesektoren er det en
-stor andel arbeidstakere som ansettes for å utføre
-eksternt finansierte oppdrag. Forskriften åpner
-for en forenklet ansettelsesprosess ved ansettelse
-av arbeidstakere i staten som skal utføre oppdrag
-som er eksternt finansierte, jf. § 3. Forutsetningen
-for å benytte en forenklet ansettelsesprosess er at
-det foreligger et lovlig grunnlag for midlertidig
-ansettelse etter statsansatteloven § 9. Når det foreligger grunnlag for midlertidig ansettelse, og det
-er snakk om et eksternt finansiert oppdrag, kan
-man gjøre unntak fra ansettelsesreglene i statsansatteloven § 3 til § 7.38
-
-28.3.4 Likestillings- og diskrimineringsloven
-Likestillings- og diskrimineringsloven gjelder på
-alle samfunnsområder, jf. § 2, og dermed også
-for statlige og private høyskoler. Loven er ufravikelig, jf. § 4. Regler om universell utforming og
-tilrettelegging er praktisk viktige i universitetsog høyskolesektoren. Loven pålegger alle virksomheter å arbeide systematisk for likestilling.
-Virksomhetene har også plikt til å redegjøre for
-status for likestillingsarbeidet.39 Dette regelsettet gjør at det ikke er nødvendig å regulere
-disse reglene særskilt i universitets- og høyskoleloven.
-Utdanningsinstitusjoner som tilbyr opplæring
-med grunnlag i lov, skal sikre at læremidlene og
-undervisningen bygger på formålet med likestillingsloven.40
-
-28.4 Underdal-rapporten
-Underdal-rapporten om stillingsstrukturen ved
-universiteter og høyskoler41 ble overlevert til
-regjeringen i mai 2018. Underdal-utvalget hadde
-som mandat å vurdere den norske stillingsstrukturen og det norske karrieresystemet for å se
-hvilke behov og muligheter for endringer som
-foreligger. De skulle vurdere om dagens stillingsstruktur i tilstrekkelig grad ivaretar det
-spekteret av oppgaver som universiteter og høyskoler har ansvar for. De drøftet blant annet om
-stillingsstrukturen legger godt nok til rette for
-karriereveier som gjør det attraktivt, både for
-norske og utenlandske statusborgere, å søke seg
-til norske universiteter og høyskoler. Videre
-drøftet de hvordan stillingsstrukturen kan bidra
-til å stimulere den enkelte medarbeider til å
-38
-
-39
-40
-
-34
-
-Prop. 94 L (2016–2017) Lov om statens ansatte mv. (statsansatteloven) punkt 15.4.1.1.
-35
-Prop. 94 L (2016–2017) punkt 15.4.1.1.
-36
-Forskrift 21. juni 2017 nr. 838 til lov om statens ansatte mv.
-37
-Forskrift til lov om statens ansatte mv. § 2 (1) e).
-
-281
-
-Kapittel 28
-
-41
-
-Statsansatteloven § 3 handler om kvalifikasjonsprinsippet,
-§ 4 handler om utlysning, § 5 handler om innstilling, mens
-§ 7 sier at unntak fra § 3 til § 6 kan gis for statsansatte som
-ansettes, og embetsmenn som utnevnes for inntil seks
-måneder, jf. § 7 (1). Det er en mulighet for å utneve i inntil
-tolv måneder i tilfeller der personalreglementet tillater unntak fra reglene i § 3 til § 6, jf. § 7 (2). Loven åpner også for at
-det i personalreglementet kan gjøres unntak fra reglene i
-§ 5 og § 6 ved ansettelsesforhold med kortere arbeidstid
-enn 15 timer per uke, jf. statsansatteloven § 7 (3) b).
-Likestillings- og diskrimineringsloven § 26 a.
-Likestillings- og diskrimineringsloven § 27.
-Underdal, Arild m.fl. Stillingsstruktur ved universiteter og
-høyskoler. Rapport fra ekspertgruppe nedsatt av Kunnskapsdepartementet. Oslo, 9. mai 2018. Hentet fra https://
-www.regjeringen.no/contentassets/462ebb8a0c444fe2add926eaf6885bde/utvalgsrapport-stillingsstruktur-veduniversiteter-og-hoyskoler.pdf.
+
+- Loven presiserer at flere institusjoner kan samarbeide om en lokal klagenemnd.
+
+- Loven presiserer at institusjonens styre ikke kan instruere eller overprøve klagenemnda i enkeltsaker.
+
+- Strengere regler om inhabilitet ved klagebehandling i lokal klagenemnd.
+
+- Regelen om forholdet til forvaltningsloven videreføres og forenkles.
+
+- Dagens regler om klageorganer videreføres for øvrig.
+
+## Gjeldende rett
+
+### Forvaltningsloven
+
+Statlige utdanningsinstitusjoner er underlagt forvaltningsloven fordi de er forvaltningsorganer. For private utdanningsinstitusjoner gjelder forvaltningsloven i saker hvor det treffer «enkeltvedtak eller utferdiger forskrift», jf. forvaltningsloven § 1. Etter forvaltningsloven er det klagerett på enkeltvedtak og saksbehandlingsregler som må følges under klagebehandlingen. Dette gjelder som utgangspunkt også ved klage på enkeltvedtak som er truffet med hjemmel i universitets- og høyskoleloven.
+
+Hensynene bak å ha en klageordning for forvaltningsvedtak ble sammenfattet slik i Forvaltningskomiteens (1958) innstilling:[^484]
+
+Klageretten har til formål å sikre riktige vedtak og trygge den enkeltes rett. Den er et ledd i forvaltningens egne interne kontroll med sine avgjørelser.
+
+Oversikt over forvaltningslovens regler om klagebehandling
+
+Utgangspunktet for saksbehandling av enkeltvedtak med hjemmel i universitets- og høyskoleloven er reglene i forvaltningsloven. Forvaltningslovens regler om behandling av klager på enkeltvedtak gjelder forvaltningsorganer, for eksempel universiteter og høyskoler. Private høyere utdanningsinstitusjoner regnes som forvaltningsorganer når de treffer enkeltvedtak eller utferdiger forskrifter. Forvaltningsloven er en alminnelig lov, og regler i særlovgivning i for eksempel universitets- og høyskoleloven vil gå foran forvaltningsloven ved motstrid med regler i forvaltningsloven.
+
+En *klageordning* gir en part rett til å kreve en ny behandling av saken. Med unntak av klage til kommunale klagenemnder (jf. forvaltningsloven § 28 andre ledd), avgjøres klager av et annet forvaltningsorgan (klageinstansen) enn det som traff det opprinnelige vedtaket (underinstansen). Klageinstansen kan vanligvis overprøve alle sider av saken, medregnet forvaltningsskjønnet. Hvis klagen tas til følge, kan klageinstansen treffe et nytt realitetsvedtak.<sup>1</sup>
+
+Et forvaltningsvedtak kan bli bragt inn for *domstolene* til overprøving. Domstolskontrollen omfatter som hovedregel bare rettsanvendelsen og det faktiske grunnlaget for avgjørelsen, ikke forvaltningsskjønnet. Det finnes flere unntak, blant annet i universitets og høyskoleloven § 4-11 tredje ledd. Domstolene treffer som hovedregel ikke ny realitetsavgjørelse dersom vedtaket er ugyldig.<sup>2</sup>
+
+Et forvaltningsvedtak kan også bringes inn for *Sivilombudsmannen*. Ombudsmannen har ingen plikt til å behandle klagen og kan ikke selv endre vedtaket eller instruere forvaltningen om å gjøre det, men må nøye seg med *«å uttale sin mening»,* jf. sivilombudsmannsloven § 10 første ledd.<sup>3</sup> Vanligvis vil forvaltningen likevel rette seg etter Sivilombudsmannens syn.
+
+Enkeltvedtak kan påklages av en part eller en annen med rettslig klageinteresse (forvaltningsloven § 28). En klage fremsatt innenfor klagefristen på tre uker (§ 29), av noen som har rett til å klage, innebærer at forvaltningen må behandle saken på nytt, jf. § 29. Vedtaket i klagesaken kan normalt ikke påklages videre (forvaltningsloven § 28 tredje ledd).
+
+Klagen skal sendes til det forvaltningsorgan som har truffet vedtaket (underinstansen). Underinstansen skal forberede saken ved å foreta de undersøkelser som klagen gir grunn til, og varsle eventuelle motparter, jf. § 33 andre og tredje ledd. I underinstansen kan saken få tre mulige utfall: Dersom vilkårene for å behandle klagen ikke er oppfylt, skal saken avvises. Dersom underinstansen finner klagen begrunnet, kan den oppheve eller endre vedtaket. Dersom underinstansen fastholder sitt syn, skal sakens dokumenter oversendes til klageinstansen for avgjørelse.
+
+For klagesaksbehandlingen gjelder saksbehandlingsreglene i § 34, som suppleres av reglene for førsteinstansbehandlingen. Dersom klageinstansen finner at vilkårene for å behandle klagen ikke er oppfylt, skal den avvise saken. Tar klageinstansen saken under realitetsbehandling, kan den prøve alle sider av saken. Den skal ta hensyn til eventuelle nye omstendigheter som kan få betydning for utfallet.
+
+Klageinstansen skal enten treffe nytt vedtak i saken eller oppheve vedtaket og sende saken tilbake til underinstansen til helt eller delvis ny behandling.
+
+Klageordningens hovedformål er å sikre riktige avgjørelser. Etter forvaltningsloven kan klageinstansen prøve «alle sider av saken», jf. § 34. Det innebærer at klageinstansen kan overprøve alle rettslige og faktiske forhold som knytter seg til avgjørelsen – både rettsanvendelsen, bevisvurderingen, saksbehandlingen og underinstansens utøving av forvaltningsskjønn. Klageinstansen har altså videre kompetanse enn en domstol vanligvis har, som også kan prøve faktum, bevisvurdering, saksbehandling og tolkning, men som gjør en begrenset prøving av forvaltningsskjønnet. Overprøvingen i forvaltningen skal for det første sikre rettsriktige avgjørelser. En klageordning gir forvaltningen mulighet til å rette opp eventuelle feil i det rettslige eller faktiske grunnlaget for avgjørelser. Også forvaltningsskjønnet kan overprøves, for eksempel hvis klageinstansen har en annen vurdering av hvor hensiktsmessighet et vedtak er, eller hvis et vedtak ikke ivaretar lovens formål på best mulig måte. På den måten kan en klageordning styrke tilliten til offentlig forvaltning. På den annen side kan klageordningen gi et effektivitetstap i de tilfellene hvor vedtaket blir stadfestet, både gjennom kostnadene ved klagebehandlingen og ved den forsinkelsen som behandlingen innebærer. Utgangspunktet er imidlertid at førsteinstansens vedtak iverksettes uten hensyn til eventuell klage.
+
+Klagefristen på tre uker, jf. forvaltningsloven § 29, begynner å løpe når underretning om vedtaket er kommet frem til parten. For den som ikke får underretning om vedtaket, regnes fristen fra hun eller han fikk eller burde ha skaffet seg kjennskap til vedtaket, men den utløper da senest tre måneder fra vedtaket ble truffet hvis det er tale om et løyve eller annet vedtak som går ut på å gi noen en rettighet. Blir vedtaket kunngjort offentlig, løper det for alle en tre ukers frist fra kunngjøringstidspunktet. Klagefristen kan på visse vilkår forlenges i inntil ett år fra vedtaket ble truffet, se forvaltningsloven § 31. Klagen er fremsatt i rett tid hvis den er postlagt innen klagefristens utløp (§ 30).
+
+<sup>1</sup> Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kap VI.
+
+<sup>2</sup> Rt. 2001 s. 995 og Rt. 2009 s. 170.
+
+<sup>3</sup> Lov 22. juni 1962 nr. 8 om Stortingets ombudsmann for forvaltningen (sivilombudsmannsloven).
+
+\[Boks slutt\]
+
+### Regulering av enkeltvedtak
+
+I universitets- og høyskoleloven § 7-6 er det uttrykkelig nevnt at en del typer vedtak skal regnes som enkeltvedtak etter forvaltningsloven. Det gjelder for eksempel avgjørelser om tilrettelegging, rett til utsatt eksamen, godskriving (jf. godskrivingsforskriften)[^485] [^486], utestenging og bortvisning. Bestemmelsen i § 7-6 klargjør at alle vedtakstypene som er nevnt her regnes som enkeltvedtak, uten at en konkret vurdering av kriteriene i forvaltningsloven § 2 bokstavene a og b, er nødvendig. Dette medfører at rettigheter og plikter som følger av at en beslutning regnes som et enkeltvedtak, utløses, blant annet retten til å klage etter forvaltningsloven §§ 28 flg.
+
+Bestemmelsen skal ikke tolkes uttømmende. Det kan derfor være andre typer vedtak som også skal regnes som enkeltvedtak. For noen vedtakstyper er det fastsatt egne klageregler i universitets- og høyskoleloven som supplerer eller erstatter klagereglene i forvaltningsloven, for eksempel §§ 4-7 til 4-10. For andre typer enkeltvedtak er det ikke fastsatt særregler om klagebehandling. I godskrivingsforskriften er det ikke fastsatt egne regler om klage. I rundskrivet som følger forskriften er det imidlertid presisert at vedtak om godskriving er enkeltvedtak og at reglene om klagebehandling i forvaltningsloven gjelder.
+
+Hovedregelen etter forvaltningsloven er at klager skal behandles av overordnet organ, det vil si på forvaltningsnivået over det nivået som traff enkeltvedtaket i første instans. Forvaltningsloven er utformet primært med tanke på en hierarkisk organisering, men de siste tiårene er det opprettet en rekke mer eller mindre uavhengige forvaltningsorganer, som ikke passer like godt inn i det tradisjonelle forvaltningshierarkiet. Dette gjelder også for universitets- og høyskolesektoren.
+
+Vedtak etter universitets- og høyskoleloven kan overprøves etter en rekke forskjellige klageregler, og av flere forskjellige klageinstanser. I boks 26.3 har utvalget laget en oversikt over hvem som har myndighet til å behandle saker i første og andre instans etter gjeldende lov.
+
+Klageorganer
+
+Utvalget har identifisert følgende klageorganer som kan behandle klager over enkeltvedtak i universitets- og høyskolesektoren:
+
+- institusjonens klagenemnd (lokal klagenemnd)
+
+- universitet- eller høyskolestyret
+
+- klagesensorkommisjon
+
+- felles klagenemnd (og en nasjonal klagenemnd for fagskoleutdanning med lignende saksfelt)
+
+- nasjonal klagenemnd for opptakssaker
+
+- Kunnskapsdepartementet
+
+- klagenemnd for vedtak truffet av NOKUT i saker om høyere utdanning
+
+Kunnskapsdepartementet eller andre er klageinstans for vedtak om tildeling av midler truffet av Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku), jf. lovforslaget § 12-2.
+
+\[Boks slutt\]
+
+### Særregler om klage og klagebehandling
+
+#### Innledning
+
+I universitets- og høyskoleloven er det flere regelsett som skal sikre at saksbehandlingen er tilpasset sakstypene i universitets- og høyskolesektoren. Særreglene er begrunnet med at enkelte klagesaker krever en annen tilnærming og behandling enn andre klagesaker. Dette gjelder for eksempel klage på eksamen. For å sikre en betryggende prosess og materielt riktige vedtak, er det viktig at de som behandler klagene, har kunnskap om saksfeltet.
+
+Hovedregelen etter forvaltningsloven er at klager skal behandles av overordnet forvaltningsorgan. Som nevnt over fravikes denne hovedregelen stadig oftere, og de siste tiårene er det opprettet mange klagenemnder. Stadig færre saker klagebehandles av det overordnet forvaltningsorganet, og etter universitets- og høyskoleloven er klageinstansen i svært mange tilfeller en nemnd, se boks 26.2.
+
+Universitets- og høyskoleloven § 5-1 gir regler om egne klagenemnder på institusjonene som skal behandle klager på enkeltvedtak. I tillegg gir § 5-1 syvende ledd departementet hjemmel til å opprette særskilte nasjonale klageorganer, som skal behandle klager over enkeltvedtak innenfor bestemte områder og over avgjørelser etter offentleglova. I dag er det to slike nemnder, nasjonal klagenemnda, som behandler klager på enkeltvedtak om opptak til grunnutdanninger ved universiteter og høyskoler, og felles klagenemnd, som behandler klager over institusjonenes vedtak etter universitets- og høyskoleloven §§ 4-7 til 4-10 og klager over vedtak etter offentleglova. For tvungen avslutning av doktorgrad kan det opprettes en egen klagenemnd for det enkelte tilfelle, jf. universitets- og høyskoleloven §§ 4-13 og 5-1 syvende ledd. Universitets- og høyskoleloven § 5-1 syvende ledd viser til forskningsetikkloven § 8 andre ledd, som omtaler vitenskapelig uredelighet.[^487] Styret ved institusjonen er klageorgan i klager på for eksempel formelle feil ved eksamen, jf. universitets- og høyskoleloven § 5-2, dersom styret ikke har bestemt at disse sakene skal gå til institusjonens klagenemnd, se §§ 5-1 og 5-2 femte ledd.
+
+Regelen om en såkalt blind sensur i universitets- og høyskoleloven § 5-3 fjerde ledd fjerde punktum innebærer at en klage skal behandles uten at eksamenskarakter, tidligere vurderinger eller begrunnelse fra klageren legges ved klagen, se punkt 21.6. At klageorganet er ukjent med utfallet i første instans er en modell vi verken finner i forvaltningsloven eller i annen særlovgivning.
+
+#### Organiseringen av klagebehandlingen internt på institusjonen
+
+Tidligere var organisasjonsstrukturen på universiteter og høyskoler lovfestet ved at det var gitt en egen hjemmel for avdelingsorganisering. I NOU 1993: 24 skriver lovutvalget på side 68:
+
+Utvalget har sett det som viktig å lovfeste et minimum av organisasjonsstruktur ved institusjonene under denne lov. Det er derfor foreslått et påbud om at det skal være to nivåer ved alle institusjoner, institusjonsnivå og avdelingsnivå.[^488]
+
+Ved de minste institusjonene ble det gitt mulighet til å gi unntak fra en slik organisering. Nivåinndelingen skulle blant annet sikre en reell to-instansbehandling av vedtak. Universitetsloven fra 1995[^489] hjemlet i kapittel 3 egne regler om avdelinger og avdelingers oppgaver.
+
+Gjennom Kvalitetsreformen ble alle institusjonene gitt særskilte fullmakter. Styret fikk fullmakt til selv å bestemme egen intern organisering, og etter en lovendring i 2002 ble reglene om avdelingsorganisering tatt ut av universitetsloven, jf. lovvedtak 26. juni 2002 nr. 62, der det da gjeldende kapittel 3 ble opphevet. Det ble vedtatt en ny hjemmel i § 4 fjerde ledd om at styret selv skulle fastsette virksomhetens organisering på alle nivåer, og en ny § 5 om delegasjon. I § 5 fjerde ledd het det: «Styret avgjør klage over vedtak​ truffet av andre som har fått delegert myndighet etter § 5 nr. 2, i den utstrekning dette ikke er delegert til styrets klagenemnd, jf. § 24 nr. 1. Tilsvarende avgjør avdelingen klage over vedtak​ truffet av grunnenhet.» Styrets klagenemnd avgjorde saker på vegne av styret og kunne derfor ikke behandle klager over vedtak truffet av styret. Slike klager ble behandlet av departementet. I Ot.prp. nr. 79 (2003–2004) side 43 heter det:
+
+Etter universitets- og høgskoleloven gjelder forvaltningsloven for de statlige institusjonenes virksomhet. Det er for disse institusjonene etablert ett særegent forvaltningssystem med hjemmel for behandling av enkeltvedtak i to instanser innen ett og samme forvaltningsorgan, jf. § 5 nr. 4 i universitets- og høgskoleloven. Styret kan behandle klage over vedtak truffet av andre som har fått delegert myndighet, i den utstrekning klagebehandlingen ikke er delegert til egen klagenemnd oppnevnt av styret. Tilsvarende avgjør avdeling/fakultet klage over vedtak truffet at grunnenhet/institutt. Dette systemet innebærer at departementet, som overordnet forvaltningsmyndighet, er klageinstans der styret fatter vedtak som første instans.[^490]
+
+Forutsetningen om at det er etablert et særskilt forvaltningssystem med reell to-instansbehandling innenfor samme forvaltningsorgan er videreført i gjeldende lov. I universitets- og høyskoleloven § 9-1 andre ledd første punktum står det at alle beslutninger som treffes ved institusjonen, treffes etter delegasjon fra styret. Loven § 9-2 fjerde ledd slår fast at styret selv fastsetter organiseringen på alle nivåer. Hvilke nivåer dette er går ikke frem av loven, men ordlyden indikerer at det fremdeles kan være ulike nivåer i organisasjonen. Den tidligere lovens klare påbud om at det skulle være et minimum av organisasjonsstruktur, er imidlertid fjernet.
+
+Forslaget om en egen klagenemnd ble fremmet i NOU 2003: 25 *Ny lov om universiteter og høyskoler* (Ryssdal-utvalget). Her ble det foreslått at alle institusjoner skulle ha en klagenemnd, og at de skulle behandle klager over enkeltvedtak, også når styret hadde fattet vedtak i første instans. Utvalget skrev på side 151:
+
+Dette innebærer at det etableres en klagenemnd som avgjør alle klager over vedtak fattet ved institusjonen, også vedtak fattet av styret. Dette innebærer videre at det ikke vil være slik at klagenemnden opererer på vegne av styret, men behandler alle saker med endelig virkning.
+
+Begrunnelsen var å unngå at departementet var klageinstans for institusjonenes enkeltvedtak, og å tydeliggjøre «et skille mellom institusjonenes forvaltning og departementets rolle som overordnet politisk myndighet». Departementet fulgte opp Ryssdal-utvalgets forslag i Ot.prp. nr. 79 (2003–2004). Departementet foreslo å lovfeste at alle institusjoner skulle ha en klagenemnd som skulle behandle klager over enkeltvedtak og eventuelt andre saker som gjaldt studenter. I samme proposisjon sier departementet at ordningen kunne synliggjøre styrets rolle som overordnet og strategisk organ. I høringen forut for vedtaket om ny lov i 2005 foreslo Justisdepartementet at det også ble gitt en hjemmel for departementet til å oppnevne en felles nasjonal klagenemnd som kunne behandle klager over de enkeltvedtakene som tidligere hadde blitt avgjort av departementet. Det ble i høringsrunden pekt på at å overlate til institusjonene selv å avgjøre klager på vedtak om for eksempel utestenging kunne svekke studentenes rettssikkerhet, og at det ville være bedre å overlate dette til en felles, nasjonal klagenemnd.
+
+Kunnskapsdepartementet fulgte opp dette og foreslo en hjemmel for å kunne oppnevne felles nasjonale klagenemnder, jf. universitets- og høyskoleloven § 5-1 syvende ledd.
+
+Ordningen med institusjonens klagenemnd har fungert siden 2005.
+
+#### Nærmere om institusjonens klagenemnd
+
+Universitets- og høyskoleloven § 5-1 første ledd fastslår at alle institusjonene skal ha en klagenemnd. Videre angir bestemmelsen klagenemndas myndighet: Institusjonens klagenemnd skal «behandle klager over enkeltvedtak og, etter styrets bestemmelse, andre klagesaker for kandidatene».
+
+Ordlyden i § 5-1 første ledd sier at klagenemnda skal behandle «\[…\] andre klagesaker for kandidatene». En naturlig forståelse av å «behandle klagesaker» er at det vil si å behandle en sak etter at det har kommet inn en klage, altså å behandle saken som andre instans. Klagenemnda behandler imidlertid saker etter §§ 4-7 til 4-10 i førsteinstans. Et annet eksempel der klagenemnda fatter et enkeltvedtak som førsteinstans er når den fatter vedtak om utestenging på grunn av brudd på forbudet mot bruk av plagg som helt eller delvis dekker ansiktet, jf. § 7-9. Lovteksten tar derfor også sikte på saker som styret har gitt klagenemnda myndighet til å avgjøre som første instans.
+
+Styret har hjemmel til å fastsette at klagenemnda skal være førsteinstans i noen klagesaker, jf. § 5-1 første ledd. I §§ 4-7 til 4-10 om fusk, bortvisning og utestenging er det hjemlet at styret ved institusjonen kan bestemme at klagenemnda skal behandle disse sakene, jf. § 4-7 første ledd første punktum, § 4-8 første ledd andre punktum, § 4-10 tredje ledd første punktum og § 7-9 andre ledd fjerde punktum. For politiattestsaker, jf. § 4-9, er det lovfestet at det skal være institusjonens klagenemnd som skal avgjøre «om studenten skal nektes retten til å delta i klinisk undervisning eller praksisstudier» i første instans, jf. § 4-9 femte ledd.
+
+Sammensetningen av nemnda er regulert i universitets- og høyskoleloven § 5-1 andre ledd. Nemnda skal ha fem medlemmer med personlige varamedlemmer. Lederen og varamedlemmet for leder skal fylle de lovbestemte kravene for lagdommere, og kan ikke være ansatt ved institusjonen. To medlemmer skal være studenter. Lengden på valgperioden er ikke lovfestet. Bestemmelsen slår fast at representanter for institusjonens eier eller medlem av institusjonens styret ikke kan være medlem av klagenemnda.
+
+Et eksempel på en lokal klagenemnd er Den sentrale klagenemnd ved Universitetet i Oslo (UiO). Nemndas årsmelding for 2017 gir et innblikk i oppgavene (fra innledningen):
+
+Klagenemndas virksomhet er hjemlet i universitets- og høyskoleloven § 5-1. I tillegg gjelder forvaltningsloven for nemndas saksbehandling.
+
+Klagenemnda behandler klager over enkeltvedtak som er fattet ved Universitetet i Oslo. Klagenemnda behandler også klager over formelle feil ved eksamen. Klagenemndas vedtak i klagesaker kan ikke påklages videre.
+
+I tillegg behandler og treffer klagenemnda vedtak i noen sakstyper som første instans. Det gjelder saker om mistanke om fusk etter universitets- og høyskoleloven §§ 4-7 og 4-8, andre saker om bortvisning og utestengning etter §§ 4-8, 4-9 og 4-10 samt saker om forfalskning av søknadspapirer i forbindelse med opptak (§ 3-7 åttende ledd). Klagenemndas vedtak i disse sakene kan påklages til Felles klagenemnd, som er den nasjonale klagenemnda for nærmere bestemte vedtak fattet ved universiteter og høyskoler.
+
+Klagenemnda er vedtaksfør med leder og to andre medlemmer eller deres varamedlemmer til stede.
+
+Oversikten over hva klagenemnda ved UiO har behandlet viser at den behandler flest saker som gjelder mistanke om fusk eller forsøk på fusk. Andre saker gjelder klager over formelle feil ved eksamen, avslag på opptak, tap av studierett, godkjenning av utdanning, forfalskning og politiattester.
+
+#### Klage over eksamen, jf. Universitets- og høyskoleloven §§ 5-2 og 5-3.
+
+Universitets- og høyskoleloven §§ 5-2 og 5-3 handler om klage ved eksamen. Disse reglene behandles sammen med reglene om eksamen i punkt 21.6. Reglene om sensurfrist og frist for klagebehandling ved klage på eksamen er også behandlet sammen med reglene om eksamen i punkt 21.6.
+
+#### Klage på tildelingsvedtak
+
+Direktoratet for internasjonalisering og kvalitetsutvikling (Diku) forvalter ulike finansieringsordninger med sikte på å styrke internasjonaliseringen av norsk utdanning og kompetanseoppbygging ved utenlandske utdanningsinstitusjoner. Oppdragsgivere for Diku er blant andre Kunnskapsdepartementet, Utenriksdepartementet og NORAD. Diku fatter vedtak om tildeling av midler. Selve vedtaket om tildeling fattes av et programstyre i Diku. Programstyrene er satt sammen for å ha den nødvendige kompetansen til å behandle søknadene og fatte vedtak. Det fremgår av Prop. 81 L (2015–2016)[^491] at
+
+I vurderingene av søknadene blir det utøvet en stor grad av spesialisert skjønn som det vil være vanskelig og arbeidskrevende å overprøve \[…\]. En overprøving av skjønnsvurderingen vil derfor kreve at klageinstansen gjennomgår alle de øvrige kvalifiserende søknadene. Dette vurderes som vanskelig gjennomførbart i praksis og urimelig arbeidskrevende.
+
+I følge universitets- og høyskoleloven § 5-4 andre ledd kan enkeltvedtak om tildeling av midler som forvaltningsorganet fatter påklages til det organet som delegerte vedtaksmyndigheten. Det følger av universitets- og høyskoleloven § 5-4 andre ledd andre punktum at klageorganet har begrenset kompetanse til å overprøve førsteinstansens faglige skjønn.
+
+#### Egne regler for klagebehandling ved vitenskapelig uredelighet – graden philosophiae doctor
+
+Universitets- og høyskoleloven § 4-13 første ledd regulerer tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet etter forskningsetikkloven § 8 andre ledd. I forskningsetikkloven § 8 andre ledd står det: «\[m\]ed vitenskapelig uredelighet menes forfalskning, fabrikkering, plagiering og andre alvorlige brudd på anerkjente forskningsetiske normer \[…\]». I slike tilfeller er det departementet eller et særskilt klageorgan oppnevnt av departementet som skal behandle klager, jf. universitets- og høyskoleloven § 4-13 første ledd andre punktum. I følge Prop. 59 L (2013–2014) er slike saker annerledes enn saker som gjelder kandidater som ikke har oppfylt doktorgradsavtalen, og derfor trenger man et eget system for klagebehandling.[^492] Institusjonene har ikke mange slike saker i året, og hensynet til å opparbeide god kompetanse på området, og til likebehandling av sakene, tilsier at klagebehandlingen bør legges til et nasjonalt klageorgan.
+
+Saker som gjelder tvungen avslutning fordi kandidaten ikke har oppfylt doktorgradsavtalen skal behandles som andre typer enkeltvedtak. Det er opp til institusjonen selv å vurdere hva tvungen avslutning av doktorgraden vil innebære.[^493] Klageinstans vil være institusjonens klagenemnd, jf. § 4-13 fjerde ledd.
+
+#### Personalsaker – universitets- og høyskoleloven § 11-3. Saker om partsinnsyn.
+
+Departementet er klageinstans i personalsaker, jf. universitets- og høyskoleloven § 11-3, men bare i de sakene der vedtaket i saken er truffet av styret ved institusjonen som førsteinstans. Departementet er også klageinstans i saker om partsinnsyn etter forvaltningsloven.
+
+####  Ileggelse av overtredelsesgebyr
+
+I saker om ileggelse av overtredelsesgebyr etter universitets- og høyskoleloven kapittel 8 og etter § 7-2, er Kongen i statsråd klageinstans, det vil si når regjeringen samles hos Kongen og gjør formelle vedtak. Vedtak om å ilegge et slikt gebyr er det departementet som treffer, og klageinstansen følger av forvaltningsloven § 28 første ledd, det er det nærmeste overordnede organ, som i dette tilfellet er Kongen i statsråd.
+
+####  Nasjonale klagenemnder
+
+##### Klagenemnda for opptakssaker (nasjonal klagenemnd)
+
+Med hjemmel i universitets- og høyskoleloven § 3-7 andre ledd har departementet fastsatt forskrift om klagebehandling av opptakssaker.[^494] Forskriften inneholder også regler om nasjonal klagenemnd for opptak gjennom Samordna opptak, se kapittel 8. Samordna opptak er organisert som en del av Unit – Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (Unit).
+
+Den nasjonale klagenemnda behandler klager om opptak til høyere utdanning i den nasjonale opptaksmodellen for grunnutdanninger ved universiteter og høyskoler.
+
+Etter opptaksforskriften § 8-1 andre ledd er opptaksklagenemndas myndighet negativt avgrenset. Nemnda behandler ikke klager på lokale opptak. Enkeltvedtak om lokalt opptak klagebehandles på den aktuelle institusjonen. Videre behandler opptaksklagenemnda ikke klager over vedtak om opptak på grunnlag av realkompetanse, opptak etter at det er innvilget dispensasjon fra enkelte av kravene om generell studiekompetanse eller klager på vurderinger av spesielle opptakskrav som omfatter ferdigheter eller opptaksprøver fastsatt av institusjonen. Klager på slike vedtak behandles i lokale klagenemnder.
+
+Sammensetningen av den nasjonale klagenemnda er regulert i § 8-2 i forskriften. Nemnda har syv medlemmer oppnevnt av Kunnskapsdepartementet. Disse velges normalt for to år av gangen. Sekretariatet til den nasjonale klagenemnda for opptak er plassert hos Samordna opptak.
+
+##### Felles klagenemnd
+
+Departementet kan etablere felles nasjonale klagenemnder for særlige typer vedtak, jf. universitets- og høyskoleloven § 5-1 syvende ledd. Med hjemmel i denne har departementet fastsatt forskrift om felles klagenemnd for behandling av klagesaker etter lov om universiteter og høyskoler §§ 3-7 åttende ledd og 4-7 til 4-10.[^495]
+
+Ved opprettelsen av felles klagenemnd vurderte departementet om det skulle opprettes én klagenemnd for hver sakstype i §§ 4-7 til 4-10, eller om det var mest hensiktsmessig å ha én felles nemnd som behandlet alle klagene. Sammenfattet kalles disse sakene «studentsaker». Departementet la avgjørende vekt på at det var viktig å lage en ensartet praksis for behandling av slike saker for alle institusjoner som loven gjaldt for. Ved å ha en sentral klagenemnd kunne man oppnå en mer betryggende, profesjonell og ikke minst ensartet klagebehandling. Klageorganet kunne også opparbeide seg bedre kompetanse på saksfeltet, noe som ble vurdert å styrke rettssikkerheten til studentene.
+
+De sakene som skulle behandles i felles klagenemnd var de sakene der konsekvensene ville være annullering, bortvisning eller utestenging. Disse sanksjonene er de kraftigste virkemidlene en institusjon har for å påvirke en students adferd, og de har inngripende konsekvenser.
+
+Felles klagenemnd behandler også klager over universiteter og høyskolers avgjørelser etter offentleglova. Frem til 2014 var Kunnskapsdepartementet klageinstans i disse sakene. Kunnskapsdepartementet er fortsatt klageinstans i saker om partsinnsyn etter forvaltningsloven. I Prop. 59 L (2013–2014) går det frem at departementet mener det ikke er hensiktsmessig at departementet er klageinstans i denne typen saker. Departementet la til grunn at en sammensatt nemnd, slik felles klagenemnd er, kunne behandle sakene med et bredt perspektiv, fordi felles klagenemnd, etter departementets vurdering, har «en slik sammensetning og kompetanse at den vil være godt egnet til å behandle klager etter offentleglova».[^496]
+
+Klagenemndas oppnevning og sammensetning går frem av § 2 i forskriften om felles klagenemnd etter universitets- og høyskoleloven. Departementet oppnevner de syv medlemmene. Tre av medlemmene skal ha varamedlemmer ifølge en liste. Det stilles kompetansekrav til medlemmene. Lederen og nestlederen må være jurister og «fylle de lovbestemte krav til lagdommere». Dette innebærer at de må ha mastergrad i rettsvitenskap eller tilsvarende, og være 25 år eller eldre. De tre medlemmene skal ha kjennskap til studieadministrativt arbeid ved institusjonene. Alle disse fem medlemmene blir oppnevnt for fire år av gangen. I tillegg har klagenemnda to studentmedlemmer, som også skal ha varamedlemmer ifølge en liste, og som blir oppnevnt for to år av gangen. Sekretariatet til felles klagenemnd er plassert hos Unit.[^497]
+
+Fra 2001 til 2014 var det en egen nemnd som behandlet klager i saker om politiattest i førsteinstans. Denne nemnda ble avviklet 1. januar 2015. Slike saker behandles nå av institusjonens klagenemnd i førsteinstans, og klageinstansen er felles klagenemnd. I Prop. 59 L (2013–2014) går det frem at politiattestnemnda ble nedlagt fordi den ble vurdert som lite effektiv. Departementet anså også at å legge beslutningsmyndigheten til den enkelte institusjonen var mer i tråd med reglene om institusjonens faglige autonomi. Departementet så heller ingen god begrunnelse for å ha et særskilt saksbehandlingssystem for politiattester.
+
+##### Klagenemnd for NOKUT
+
+Etter kvalitetsutviklingsforskriften § 7-1 oppnevner departementet en klagenemnd som avgjør klager over vedtak truffet av Nasjonalt organ for kvalitet i utdanningen (NOKUT).[^498] NOKUTs klagenemnd for høyere utdanning skal ha seks medlemmer, og to av disse skal være studenter. Klagenemnda behandler klager over vedtak om generell godkjenning av høyere utenlandsk utdanning og vedtak om akkreditering.
+
+Etter universitets- og høyskoleloven § 3-4 har NOKUTs klagenemnd myndighet til å behandle klager over søknader om generell godkjenning av utenlandsk utdanning eller norsk utdanning som ikke går inn under universitets- og høyskoleloven. Omfanget av overprøvingen er begrenset til en legalitetsprøving ved at NOKUTs klagenemnd ikke kan overprøve NOKUTs vurdering av den avlagte utdanningens omfang og nivå, jf. universitets- og høyskoleloven § 3-4 siste punktum. Det er også begrensninger i hvem som kan påklage slike vedtak. Mens forvaltningsloven har regler om at parter og andre med rettslig klageinteresse kan påklage enkeltvedtak, er det i disse sakene bare «den som et vedtak direkte gjelder for», som kan påklage vedtaket.[^499] Se mer om dette i punkt 29.3.
+
+Også vedtak om akkreditering kan påklages til NOKUTs klagenemnd, jf. studiekvalitetsforskriften § 1-9 første ledd bokstav a.[^500] På samme måte som ved klage over godkjenning, er personkretsen som kan klage snevret inn sammenlignet med hovedregelen i forvaltningsloven § 28, jf. studiekvalitetsforskriften § 1-9 første ledd bokstav b. NOKUTs klagenemnd kan ikke overprøve NOKUTs faglige vurdering av de faktiske forholdene, jf. studiekvalitetsforskriften § 1-9 første ledd bokstav c.
+
+## Erfaringer med reglene
+
+### Rundskriv om klage
+
+I rundskriv F-05-06 ga departementet en veiledning om reglene om klagebehandling etter universitets- og høyskoleloven. Dette rundskrivet er ikke revidert, og fremstår i dag som ikke oppdatert.
+
+Rundskrivet inneholder grunnleggende regler og informasjon om klagebehandling ved institusjonene. Det informerer blant annet om krav til habilitet og særlige saksbehandlingsregler for noen typer enkeltvedtak som følger av universitets- og høyskoleloven. Rundskrivet redegjør for kravet til to tredjedels flertall i saker som gjelder utestenging, bortvisning og manglende skikkethet, jf. universitets- og høyskoleloven §§ 4-7 til 4-10. Kravet er strengere enn kravet til simpelt flertall som følger av alminnelig forvaltningsrett. Sakene gjelder vedtak om sanksjoner mot studentene. I tillegg er blant annet de særlige reglene om domstolsprøving og dekning av advokatutgifter omhandlet.
+
+### Klagenemnd for saker om opptak
+
+Klagenemnda for opptakssaker hadde i 2018 totalt 74 saker til behandling ifølge en oppsummering av aktiviteten fra 2018 som er oversendt til Kunnskapsdepartementet:[^501]
+
+Etter opptaket 2018 behandlet Nasjonal klagenemnd totalt 74 saker. Av disse ble 67 vedtak opprettholdt, noe som utgjør 90,5 % av det totale antallet. 7 vedtak ble opphevet.
+
+29 av 74 saker var fra søkere som hadde søkt særskilt vurdering, noe som utgjør 39,2 % av det totale antall klager \[…\] Ingen av disse fikk medhold. 13 av 74 saker var fra søkere med utenlandsk utdanning, noe som utgjør 17,6 % av det totale antall klager. Tre av disse fikk medhold.
+
+### Felles klagenemnd
+
+Felles klagenemnd har de siste årene hatt en betydelig økning i antall saker. I løpet av 2018 traff nemnda vedtak i 107 saker etter universitets- og høyskoleloven §§ 4-7 til 4-10. Dette var en økning på 35 prosent sammenlignet med 2017.
+
+Årsmelding for felles klagenemnd for 2017 viser at nemnda dette året traff vedtak i følgende saker etter universitets- og høyskoleloven: [^502]
+
+- 68 saker om fusk etter universitets- og høyskoleloven § 4-7 første ledd bokstav b eller 4-8 tredje ledd,
+
+- Fire saker om uredelig opptreden etter universitets- og høyskoleloven § 4-7 første ledd bokstav a eller 4-8 tredje ledd første punktum,
+
+- Fem saker om merknader på politiattest etter universitets- og høyskoleloven § 4-9 og
+
+- Tre saker om skikkethet etter universitets- og høyskoleloven § 4-10, og saker om advokatsalær.
+
+I tillegg behandlet nemnda 64 klager over avslag på innsyn etter offentleglova.
+
+Fra årsmeldingen er det hentet følgende omtale av virksomheten til felles klagenemnd:
+
+For saker som er behandlet etter uhl. var stadfestelsesprosenten (vedtak ble stående) 79 prosent i 2017. Til sammenligning var stadfestelsesprosenten 89 i 2016, og 92 i 2015. I syv av sakene etter universitetets- og høyskoleloven ble underinstansens vedtak opphevet i sin helhet. Dette utgjør en opphevelsesprosent (vedtak ble opphevet) på 9 %. Til sammenligning var opphevelsesprosenten 10 % i 2016, og 3 % i 2015.
+
+Én av sakene, hvor underinstansens vedtak ble opphevet, gjaldt en student som var utestengt fra praksis på lærerstudiet som følge av merknad på politiattesten. Felles klagenemnd fant, i motsetning til underinstansen, at vilkårene for å utestenge klageren ikke forelå, og klageren fikk derfor delta i praksisopplæringen. En annen sak gjaldt vurdering av skikkethet på sykepleierstudiet. Institusjonen hadde ikke tilbudt studenten utvidet veiledning, fordi de mente det var åpenbart at utvidet veiledning ikke var egnet til å hjelpe studenten. Dette var ikke nemnda enig i.
+
+De fem øvrige sakene hvor Felles klagenemnd opphevet underinstansens vedtak i sin helhet gjaldt alle fusk på eksamen. I tre av disse sakene fant nemnda at studentene hadde vært i aktsom rettsvillfarelse. I én sak opphevet nemnda vedtaket som følge av saksbehandlingsfeil. I den siste saken fant ikke nemnda at det forelå tilstrekkelige bevismessige holdepunkter for at studenten hadde fusket.
+
+I ni saker vedtok Felles klagenemnd å sette ned reaksjonen vedtatt av underinstansen. For fem av disse sakene var årsaken til omgjøringen for lang saksbehandlingstid. I én sak ble tidspunktet for utestengelsesperioden endret, og det ble vist til at hovedregelen er at vedtak skal iverksettes umiddelbart. Nemnda fant videre grunnlag for å omgjøre en reaksjon hvor utestengelsesperioden berørte tre semestre, slik at klager i praksis kun ble utestengt i to semestre. I en annen sak ble utestengelsesperioden satt ned fra to til ett semester da nemnda fant at det forelå formildende omstendigheter.
+
+Felles klagenemnd endret også utestengelsesperioden i en skikkethetssak, fra fem til tre år. Det ble vist til at en utestengelse for en periode på fem år kun bør vedtas i de mest alvorlige tilfellene.
+
+### Særlige vurderinger ved bruk av nemnder i NOU 2019: 5
+
+I NOU 2019: 5 Ny forvaltningslov diskuterer forvaltningslovutvalget bruk av nemnder i offentlig forvaltning. Dette er også blitt gjort av direktoratet for forvaltning og IKT (Difi) i flere utredninger, blant annet i en undersøkelse om statlige klagenemnder.[^503]
+
+Forvaltningslovutvalget har sett spesielt på fast organiserte nemnder som utøver offentlig myndighet, og særlig klagenemnder. Forvaltningslovutvalget skriver: «Den enkelte nemndas rolle og oppgave vil kunne gi argumenter for at det bør gjelde spesielle regler om organisering og saksbehandling.» Forvaltningslovutvalget har vurdert både hvordan nemndene bør organiseres og hvilke særskilte saksbehandlingsregler som bør gjelde for nemndene. Det peker også på særlige grunner for å opprette klagenemnder, så som demokratihensyn, hensynet til interesse- og brukerrepresentasjon, spesiell fagkunnskap og avlastning av administrasjon i ordinær klagebehandling med mer. I tillegg viser forvaltningslovutvalget til motargumentene om at nemnder kan gjøre det vanskelig å gjennomføre en overordnet konstitusjonelt ansvarlig styring, og at det kan svekke det politiske ansvaret for avgjørelser som kan bero på politiske verdivalg.
+
+Forvaltningslovsutvalget viser i sin gjennomgang over nemnder også til universiteter og høyskolers klagenemnder og reglene i universitets- og høyskoleloven § 5-1.
+
+Videre diskuterer forvaltningslovutvalget om det er behov for særregler for saksbehandling i nemnder.[^504] Utvalget peker på at det for nemnder kan oppstå særlige saksbehandlingsspørsmål som ikke gjør seg gjeldende for hierarkiske organer, for eksempel om krav til vedtaksførhet og antall stemmer for å treffe vedtak, om føring av møteprotokoll, om hvorvidt det er nødvendig at nemnda treffe avgjørelse i møter, og om hvorvidt saksbehandlingen skal ha et større innslag av mer muntlighet. Disse diskusjonene og vurderingene kan ha overføringsverdi for nemndene i universitets- og høyskolesektoren.
+
+Forvaltningslovutvalget konkluderer med at det av og til kan være upraktisk å måtte kalle inn hele nemnda til møte, og at nemnda bør ha anledning til å treffe kurante vedtak ved sirkulasjon av saksdokumenter, uten at dette bør være en generell regel. Forvaltningslovutvalget mener også at det skal føres møteprotokoll, siden dette er et viktig redskap for å kunne etterprøve nemndas virksomhet. Videre mener det at alt som forberedes av sekretariatet må være skriftlig, selv om ikke er nødvendig å ha en generell regel om dette. Når det gjelder partsrepresentasjon og muntlig deltakelse i nemndas møter, skriver forvaltningslovutvalget på side 486: «Hvis avgjørelsen vil være særlig inngripende, er det et argument for å la parten møte og forklare seg for nemnda». En del av de sakene som behandles av institusjonenes klagenemnder kan ha et utfall som er særlig inngripende for studentene, så som utestenging, bortvisning og annullering, jf. gjeldende lov §§ 4-7 til 4-10.
+
+Forvaltningslovutvalget drøfter også regler om avgjørelse av inhabilitetsspørsmål i nemnder. Forvaltningslovutvalget foreslår at hovedregelen om at enhver tar stilling til spørsmål om egen inhabilitet så snart det er relevant, også skal gjelde for nemnder.
+
+Forvaltningslovsutvalget foreslår videre på side 490 i utredningen at kollegiale organers votering skal protokolleres med henvisning til de bestemmelser som det har blitt drøftet og votert over, jf. forvaltningslovutkastet § 30 andre ledd.
+
+## Utvalgets vurderinger
+
+### Innledning
+
+Universiteter og høyskoler treffer en lang rekke enkeltvedtak av forskjellig karakter. Virkningene av de ulike vedtakene er også svært varierte, fra for eksempel at man ikke får godkjent tidligere utdanning, til at man blir utestengt fra institusjonen. Konsekvensene av uriktige vedtak kan bli store. Det er viktig at det finnes gode systemer som sikrer at det treffes forsvarlige avgjørelser i første instans, men også mekanismer som gjør det mulig å rette opp eventuelle feil, og som kan ivareta dem som mener seg utsatt for uriktige vedtak. Det er vanligvis en skjevhet i styrkeforholdet mellom en enkeltperson og en institusjon som et universitet eller en høyskole, siden institusjonen har en stor administrasjon, mye kunnskap og gjerne bedre økonomiske ressurser. At feil kan rettes er det viktigste hensynet i vurderingen av hva som er et godt system for håndtering av klager.
+
+### Et enklere system for klagebehandling?
+
+Utvalget har vurdert de ulike klageordningene i universitets- og høyskolesystemet, med tanke på om det er mulig å ha et enklere og mer enhetlig system for klagebehandlingen. Oversikten over de ulike vedtaks- og klageordningene, som vist i boks 26.3, viser at systemet kan fremstå som komplisert. Det er mange former for vedtak, og mange former for vedtaksbehandling. Det er også mange ulike nemnder. Regler om behandlingen av vedtak er plassert på ulike steder i loven, noe som også bidrar til at det er vanskelig å få oversikt.
+
+Oversikt over vedtak og behandling av klager
+
+03N1xx2
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Sakstype og hjemmel for vedtak i gjeldende lov</th>
+<th>Saksbehandling og klage</th>
+<th>Hjemmel for vedtak i lovforslaget</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Enkeltvedtak etter § 7-6 andre ledd</td>
+<td><p>Førsteinstans er styret.</p>
+<p>Klageinstans er institusjonen ved institusjonens klagenemnd.</p></td>
+<td>§ 1-3</td>
+</tr>
+<tr>
+<td>Vedtak i studentsaker §§ 4-7 til 4-10 (fusk, falskt vitnemål, forstyrrende adferd, anmerkning på politiattest, skikkethet, annullering, utestenging, bortvisning)</td>
+<td><p>Førsteinstans er institusjonens klagenemnd eller styret selv.</p>
+<p>Klageinstans er felles klagenemnd.</p></td>
+<td>Kapittel 10</td>
+</tr>
+<tr>
+<td>Vedtak om bortvisning på grunn av brudd på forbud mot ansiktsdekkende plagg § 7-9</td>
+<td><p>Førsteinstans er rektor eller den rektor bemyndiger.</p>
+<p>Klageinstans er institusjonens klagenemnd.</p></td>
+<td>§ 10-9</td>
+</tr>
+<tr>
+<td>Vedtak om utestenging på grunn av ikke overholdt bortvisning § 4-8 første ledd andre punktum</td>
+<td><p>Førsteinstans er styret selv eller institusjonens klagenemnd.</p>
+<p>Klageinstans er felles klagenemnd.</p></td>
+<td>§ 10-4</td>
+</tr>
+<tr>
+<td>Formelle feil ved eksamen § 5-2</td>
+<td><p>Førsteinstans er institusjonen.</p>
+<p>Klageinstans er institusjonens klagenemnd/styret selv.</p></td>
+<td>§ 8-8</td>
+</tr>
+<tr>
+<td>Vedtak om tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet § 4-13 første ledd jf. forskningsetikkloven § 8 andre ledd<sup>1</sup></td>
+<td><p>Førsteinstans er institusjonen.</p>
+<p>Klageinstans er Kunnskapsdepartementet eller klagenemnd opprettet av Kunnskapsdepartementet.</p></td>
+<td>§ 10-7</td>
+</tr>
+<tr>
+<td>Vedtak om tvungen avslutning på andre grunnlag § 4-13 andre ledd</td>
+<td><p>Førsteinstans er institusjonen.</p>
+<p>Klageinstans er institusjonens klagenemnd.</p></td>
+<td>§ 10-7</td>
+</tr>
+<tr>
+<td>Vedtak i personalsaker (avskjed, oppsigelse, suspensjon, ordenstraff), forvaltningsloven § 2 andre ledd og § 3 andre ledd og universitets- og høyskoleloven § 11-3</td>
+<td><p>Førsteinstans er enten institusjonen, en ansettelsesnemnd eller styret selv.</p>
+<p>Klageinstans er styret selv eller Kunnskapsdepartementet, avhengig av hvem som har truffet vedtak i førsteinstans.</p></td>
+<td>§ 11-10</td>
+</tr>
+<tr>
+<td>Vedtak i valgsaker (lokalt regulert) § 9-4</td>
+<td><p>Førsteinstans er valgstyret.</p>
+<p>Klageinstans er styret selv.</p></td>
+<td>§ 3-4</td>
+</tr>
+<tr>
+<td>Vedtak i sensursaker §§ 3-9 og 5-3</td>
+<td><p>Førsteinstans er institusjonen ved sensor</p>
+<p>Klageinstans er egen Klagesensurkommisjon.</p></td>
+<td>§§ 8-6, 8-7 og 8-10</td>
+</tr>
+<tr>
+<td>Vedtak etter bedømmelse av muntlig prestasjon og vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve §§ 3-9 og 5-3</td>
+<td>Bare klagerett på faglig vurdering hvis prestasjonen etter sin art lar seg etterprøve. Klagerett på formelle feil.</td>
+<td>§§ 8-6 og 8-10</td>
+</tr>
+<tr>
+<td>Innsyn etter forvaltningsloven (partsinnsyn), forvaltningsloven § 21 (klage over avslag på krav om å få gjøre seg kjent med et dokument).</td>
+<td><p>Førsteinstans er institusjonen.</p>
+<p>Klageinstans er Kunnskapsdepartementet.</p></td>
+<td><p>Forvaltningsloven</p>
+<p>§ 21</p></td>
+</tr>
+<tr>
+<td>Innsyn etter offentleglova<sup>2</sup>, jf. universitets- og høyskoleloven § 5-1 syvende ledd</td>
+<td><p>Førsteinstans er institusjonen.</p>
+<p>Klageinstans er felles klagenemnd.</p></td>
+<td>§ 12-1</td>
+</tr>
+<tr>
+<td>Vedtak om opptak, jf. § 3-7 andre ledd og opptaksforskriften kapittel 8<sup>3</sup></td>
+<td><p>Førsteinstans er Samordna opptak.</p>
+<p>Klageinstans er nasjonal klagenemnd for opptakssaker.</p></td>
+<td>§ 6-5</td>
+</tr>
+<tr>
+<td>Vedtak om opptak på grunnlag av realkompetanse eller dispensasjon fra regelen om generell studiekompetanse eller opptaksprøve, § 3-6 andre ledd jf. opptaksforskriften § 8-1 andre ledd</td>
+<td>Førsteinstans er institusjonen. Klageinstans er institusjonens klagenemnd.</td>
+<td>§ 6-4 og opptaksforskriften</td>
+</tr>
+<tr>
+<td>Pålegg om retting, tvangsmulkt, overtredelsesgebyr med mer overfor private institusjoner §§ 8-8 – 8-11</td>
+<td><p>Førsteinstans er departementet.</p>
+<p>Klageinstans er Kongen.</p></td>
+<td>§§ 5-6 – 5-9</td>
+</tr>
+<tr>
+<td>Vedtak om ileggelse av overtredelsesgebyr for forsettlig eller uaktsomt bruk av en vernet institusjonsbetegnelse, § 7-2</td>
+<td><p>Førsteinstans er departementet.</p>
+<p>Klageinstans er Kongen.</p></td>
+<td>§ 2-7</td>
+</tr>
+<tr>
+<td>Vedtak i saker om høyere utdanning etter § 2-1 sjette ledd</td>
+<td><p>Førsteinstans er NOKUT.</p>
+<p>Klageinstans er klagenemnd for høyere utdanning</p></td>
+<td>§§ 15-1 og 15-3</td>
+</tr>
+<tr>
+<td>Vedtak om tildeling av midler § 5-4</td>
+<td><p>Førsteinstans er Diku.</p>
+<p>Klageinstans er Utenriksdepartementet, Kunnskapsdepartementet eller andre.</p></td>
+<td>§ 12-2</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Lov 28. april 2017 nr. 23 om organisering av forskningsetisk arbeid (forskningsetikkloven).
+
+<sup>2</sup> Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova).
+
+<sup>3</sup> Forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning (opptaksforskriften).
+
+\[Boks slutt\]
+
+Utvalget har ikke fått noen innspill om at reglene om enkeltvedtak eller reglene om klage er vanskelige, uforståelige eller uheldige, med unntak av flere innspill om å reversere ordningen med blind sensur ved klage på karakter. Utvalget ser at de ulike reglene, både de som gjelder saksbehandling og de som gjelder klagebehandling og klageordning, er utviklet og regelfestet for at saksbehandlingen skal være best mulig, og for at klageordningene skal være tilpasset de forskjellige vedtakstypene. En klage på en eksamenskarakter skiller seg for eksempel fra en klage over utestenging. At reglene for behandling er forskjellige for ulike sakstyper, er hensiktsmessig fordi det er ulike vurderingstemaer. Særreglene er gitt for å styrke klageinstansens kompetanse, effektivisere saksbehandlingen og ivareta rettssikkerheten for klageren på beste mulig måte.
+
+Utvalget har vurdert om det er mulig å harmonisere reglene slik at behovet for et enklest mulig system balanserer bedre mot behovet for særreguleringer. Slik utvalget vurderer det, er det ikke mulig å få til en felles mal for alle klager over alle typer enkeltvedtak ved høyere utdanningsinstitusjoner. Vi har derfor kommet til at reguleringen av klagebehandling bør videreføres. Utvalget foreslår enkelte endringer i bestemmelsen om klagenemnder, (dagens § 5-1), habilitetsregler og bestemmelsen om enkeltvedtak (dagens § 7-6 andre ledd). For noen av vedtakstypene foreslås det ingen endringer i reguleringen. Dette gjelder klage over avbrutt forskerutdanning (dagens § 4-13 første ledd), klage på enkeltvedtak om tildeling av midler (dagens § 5-4) og klage over vedtak fattet av Samordna opptak. Utvalget foreslår heller ingen endringer i behandlingen av saker etter dagens §§ 4-7 til 4-10. Disse bestemmelsene er vurdert og behandlet sammen med de beslektede problemstillingene knyttet til sakstypene, se kapitlene 22 og 23.
+
+### Institusjonens klagenemnd eller styrebehandling av klager?
+
+I dagens lov er institusjonen pålagt å ha en egen klagenemnd, jf. universitets- og høyskoleloven § 5-1 første ledd. Klagenemnda skal behandle klager over enkeltvedtak og andre klagesaker, hvis styret bestemmer det. I dagens lov er det valgfritt om det er styret eller institusjonens egen klagenemnd som skal treffe vedtak i saker om annullering (§ 4-7), utestenging og bortvisning (§ 4-8), utestenging (§ 4-9 og § 4-10), ansiktsdekkende plagg (§7-9) og behandle klage over vedtak om formelle feil ved eksamen (§ 5-2).
+
+Utvalget har vurdert om det vil være hensiktsmessig å overlate klagebehandlingen til styret for institusjonen. I så fall vil det ikke være behov for en egen klagenemnd. Styrets oppgaver er svært varierte, og kompetansen i styret skal samsvare med de oppgavene et styre har. Utvalget legger vekt på de fleste institusjonene i dag er store, med en relativt stor administrasjon og tilgang til juridisk kompetanse. Dette gjør at ordningen med en intern inndeling i nivåer, der enkeltvedtak treffes av avdeling, institutt eller administrasjonen og eventuell klagebehandling gjøres av styret, etter utvalgets mening kan fungere godt.
+
+Utvalget finner likevel at det kan være fordeler med å ha egne klagenemnder. I motsetning til et styre skal et klageorgan ta stilling til et bestemt vurderingstema, som juks, skikkethet med mer. Medlemmene i en nemnd besitter i større grad den spesialkompetansen som er påkrevd for å treffe et materielt riktig vedtak, og er bedre rustet til å ha en effektiv saksbehandling. Utvalget legger også vekt på at styret fortrinnsvis bør behandler saker av strategisk og overordnet betydning, jf. formuleringen i universitets- og høyskoleloven § 9-2 første ledd.
+
+Dessuten er det fremdeles enkelte høyskoler som er små, og som har en relativt liten administrasjon. For disse institusjonene kan en reell to-instansbehandling der styret er klageinstans, være vanskeligere å få til. Eksempler på uheldige forhold kan for det første være der saksbehandlere er involvert i sakene på flere stadier i saksbehandlingen. Utvalget er kjent med eksempler på saker der de administrative ressursene ikke er tilstrekkelige til å sikre at det ikke er de samme personene som forbereder eller treffer vedtak i saken i første og andre instans. Et annet eksempel er at medlemmer av styret kan ha nære relasjoner til ansatte som er involvert i beslutningen i første instans. Det kan derfor ikke utelukkes at en slik intern behandling i noen tilfeller vil gå på bekostning av en reell to-instansbehandling.
+
+Ut fra en vurdering av styrets oppgaver, kompetanse og sammensetning, og klagenemndenes stilling, kompetanse og organisering, mener utvalget at det bør være en klagenemnd tilknyttet den enkelte institusjonen som behandler klager over enkeltvedtak. Også hensynet til å ha like systemer på alle institusjoner uavhengig av størrelse tilsier en slik løsning. Utvalget legger vekt på at en klagenemnd vil være oppnevnt og sammensatt for å kunne foreta gode vurderinger i klagesaker.
+
+Utvalget anbefaler at ordningen med en lokal klagenemnd videreføres, men vil foreslå å lovfeste at styret ikke kan instruere klagenemnda i enkeltsaker, se punkt 26.4.4. En slik lovfesting vil synliggjøre en tilstrekkelig avstand mellom styret og klagenemnda. Videre foreslår utvalget å lovfeste strengere regler om habilitet for klagebehandlingen. Dette er viktig for å sikre tillit til at vedtak er truffet etter en uhildet vurdering. En uhildet vurdering kan sikres ved at det lovfestes egne regler om habilitet, slik det er gjort for forberedelse og avgjørelse av saker i kommunale klagenemnder.
+
+I tillegg mener utvalget at forslaget om regler om stemmegivning, protokollføring med videre for klagenemndene er fornuftige. Dette er forhold som forvaltningslovutvalget ser som viktige å regulere hvis klagesaker skal behandles av egne nemnder, og det har foreslått regler om dette i ny forvaltningslov. Utvalget antar at det ligger noe frem i tid å få vedtatt en ny forvaltningslov, men tidsperspektivet her er usikkert. Utvalget foreslår derfor at departementet vurderer om regler som gjelder forhold ved nemnder ved universiteter og høyskoler skal tas inn i ny universitets- og høyskolelov, dersom det neste år er klart at tilsvarende regler i ny forvaltningslov først vil komme senere.
+
+### Institusjonens klagenemnd og reell to-instansbehandling av klager
+
+Bruk av nemnder som behandler klager på vedtak som er truffet i første instans, er utbredt i statsforvaltningen. Utvalget viser til NOU 2019: 5, der forvaltningslovutvalget foretar en grundig diskusjon av om klagenemnder kan bli hovedmodellen ved behandlingen av klager, men konkluderer med
+
+\[…\] at normalordningen i statsforvaltningen fortsatt bør være at en klage skal gå til nærmest overordnete forvaltningsorgan. \[…\] Klagereglene bør utformes og praktiseres med sikte på å sikre en reell to-instansbehandling når klageinstansen er nærmest overordnete organ.[^505]
+
+Forvaltningslovutvalgets konklusjon følger etter en forutgående drøftelse av nemndenes plass i forvaltningen. Forvaltningslovutvalget viser til at klagesakene i dag i stor grad er løftet ut av departementene og lagt til direktorater eller andre underordnede organer ved delegering, eller til særskilte klagenemnder ved lovendring.[^506]
+
+Forvaltningslovutvalget er også oppmerksom på at særlovgivningen på en del områder i statsforvaltningen har opprettet særskilte nemnder som klageinstans.[^507] På mange områder er det opprettet egne klagenemnder som utelukkende eller i hovedsak har til oppgave å avgjøre klagesaker. Begrunnelsen varierer, og ofte er det flere grunner til denne praksisen. Det kan være et ønske om å sikre en faginnsikt som et overordnet forvaltningsorgan ikke har, eller en større uavhengighet for klageinstansen, med avstand til de ordinære forvaltningsorganene.
+
+Dette utvalget viser til at dagens organisering av intern klagebehandling på universiteter og høyskoler legger til rette for en reell to-instansbehandling ved å skape avstand mellom den delen av institusjonen som treffer vedtaket i første instans, og den delen av institusjonen som kan behandle saken i klagerunden (lokal klagenemnd ved institusjonen), samtidig som at institusjonens autonomi er sikret. Utvalget mener denne organiseringen gir tilstrekkelig avstand mellom institusjonens klagenemnd og styret. Klagenemnda er sammensatt for å kunne gjøre en grundig og riktig saksbehandling. Nemnda består av fem representanter, der lederen må fylle de lovbestemte kravene for lagdommere, og lederen kan ikke være ansatt ved institusjonen. I tillegg skal to av medlemmene være studenter, og ingen av medlemmene i nemnda kan være representanter for institusjonens eier eller medlem av institusjonens styre. Der flere institusjoner samarbeider om en lokal klagenemnd kan ingen av institusjonens eventuelle eiere eller styremedlemmer være representert i nemnda. Klagenemndas medlemmer er oppnevnt av styret. Vi finner en sammenlignbar ordning i kommunene, hvor det kommunale selvstyret tilsier at klagebehandling i saker der kommunen har autonomi, ikke skjer i statsforvaltningen, men i klagenemnder som er en del av kommunen som forvaltningsorgan. Også der finnes det regler som skaper avstand til dem som traff den påklagede avgjørelsen, blant annet regler om sammensetning og strengere krav til habilitet enn det som følger av forvaltningsloven.
+
+Tilstrekkelig avstand mellom klagenemnda og styret, som er øverste ansvarlige organ for det påklagede vedtaket, jf. universitets- og høyskoleloven § 9-1, er også viktig for tilliten til lokal klagenemnd ved institusjonen.
+
+Forholdet mellom styrets og klagenemndas kompetanse og spørsmålet om det skjer en reell prøving i to instanser, er problematisert av Jan Fridthjof Bernt.[^508] Bernt har påpekt at ordningen med institusjonens klagenemnd snur opp ned på kompetanseforholdet mellom styret og klagenemnda, ved at nemnda er et klageorgan for vedtak truffet etter delegasjon fra styret. Han mener at dette er en amputering av styrets overordnede styringsmyndighet og ansvar for all virksomhet ved institusjonen, jf. dagens universitets- og høyskolelov §§ 8-2 og 9-1 første og andre ledd.
+
+I Difi-rapporten 2012:7 «Uavhengig eller bare uavklart. Organisering av statlig myndighetsutøvelse» legger Eivind Smith til grunn at klagenemndene ved universiteter og høyskoler er en del av institusjonene.[^509] I rapporten er instruksjonsadgangen for styrene kommentert slik:
+
+Klagenemnder ved universiteter og høyskoler må regnes som en del av vedkommende institusjoner på en slik måte at hovedreglene om avvik fra forvaltningshierarkiet kommer også nemndene til gode (jfr. loven § 5-1).
+
+Omgjøringsadgangen er kommentert slik:
+
+Når det gjelder muligheten for klage til departementet, kommer forvaltningslovens hovedregel om klagerett i bare ett nivå, til hjelp (hva som gjelder når hovedreglene åpner for ny klage, for eksempel ved avvisning av saken, må antagelig regnes som uklart).
+
+En presisering i loven om at styret ikke skal ha innflytelse over utfallet i enkeltsaker som behandles i klagenemnda, er en innsnevring av styrets ansvarsområde slik det er formulert i dagens § 9-1: «Alle beslutninger ved institusjonen truffet av andre enn styret, treffes etter delegasjon fra styret og på styrets ansvar.». Utvalget har vurdert i hvilken grad styret ved institusjonen skal ha adgang til å omgjøre eller overprøve vedtak som institusjonens klagenemnd har truffet. At styret er institusjonens øverste organ og etter formuleringen i § 9-1 har ansvar for alle beslutninger som er truffet ved institusjonen, tilsier at styret også bør ha adgang til å overprøve vedtak som den lokale klagenemnda treffer ut fra autonomihensyn. På den annen side tilsier rettssikkerhetshensyn overfor den private parten og hensynet til en reell to-instansbehandling ved institusjonen, at styrets instruksjonsmyndighet i enkeltsaker som klagenemnda behandler, bør avskjæres.
+
+Utvalget peker på at medlemmene av et universitetsstyre som er demokratisk valgte representanter for de ansatte, skal sikre autonomi og faglig uavhengighet for universitetet eller høyskolen. Et slikt selvstyre er det lang tradisjon for i akademia. Når utvalget likevel mener det er hensiktsmessig at styret har et begrenset ansvar for sakene klagenemnda avgjør, er det fordi en reell to-instansbehandling er viktig for studentenes rettssikkerhet. Klagenemnda avgjør særlig klagesaker om formelle feil ved eksamen, opptak til mastergrader, oppmelding til eksamen etter frist, fjerde eksamensforsøk og særordning/tilrettelegging til eksamen. Klagesaken bør sees med nye øyne og av nemndsmedlemmer uten sterk tilknytning til institusjonen, som er den ene «parten» i saken. Utvalget mener dessuten at det er ønskelig, både ut fra styrets sammensetning og oppgaver, at institusjonens styre arbeider på et mer strategisk nivå og derfor ikke behandler enkeltsaker av typen som avgjøres av klagenemnda. Ved å la klageinstansen være en del av universitetet og ikke la klagene gå til departementet eller en statlig klagenemnd, sikres institusjonen autonomi. Institusjonene beholder på den måten et helhetlig ansvar for sakene, og må besitte den juridiske kompetansen til å behandle sakene ved institusjonen.
+
+Omfanget av styrets ansvar for klagenemndas virksomhet bestemmes av innskrenkningen i innflytelse. Selv om styret ikke kan instruere om utfallet av enkeltavgjørelser styret ikke skal kunne påvirke, vil det fortsatt ha innflytelse over klagenemnda, fordi styret oppnevner medlemmene i klagenemnda, tildeler økonomiske ressurser og kan gi generelle instrukser, som blant annet kan omfatte saksbehandling, skjønnsutøvelse og lovtolkning. Feil som skyldes klagenemnda, for eksempel for sen saksbehandling (som ikke skyldes «systemsvikt») eller grove feil ved skjønnsutøvelsen («myndighetsmisbruk»), vil universitetet som forvaltningsorgan hefte for, men uten at styret kan pålegges ansvar.
+
+Utvalget foreslår derfor at det tas inn en bestemmelse om at lokal klagenemnd ikke skal kunne instrueres av styret i enkeltsaker eller at styret skal kunne overprøve klagenemndas vedtak. For å tydeliggjøre konsekvensene for styrets ansvar, foreslår utvalget at dagens bestemmelse i universitets- og høyskoleloven § 9-1 andre ledd omformuleres til å lyde: «Alle beslutninger ved institusjonen truffet av andre enn styret, treffes etter delegasjon fra styret og på styrets ansvar, så langt ikke annet følger av bestemmelser i denne loven», se lovforslag § 3-1.
+
+For å styrke en reell to-instansbehandling ved institusjonene, foreslår utvalget også at reglene om habilitet blir skjerpet, og at det lovfestes at de som har vært med på å forberede eller treffe vedtaket i første instans, ikke skal kunne delta i forberedelse av saken for klagenemnda eller i behandlingen av saken i klagenemnda. På denne måten mener utvalget at man sikrer en større avstand mellom førsteinstansbehandlingen av avgjørelsen og klageinstansavgjørelsen. Dersom en leder er inhabil i behandlingen av saken vil inhabiliteten også gjøre en direkte underordnet saksbehandler bli inhabil, såkalt avledet inhabilitet. Selve vurderingen av om en tjenestemann er habil følger av hovedregelen i forvaltningsloven § 6.
+
+### Mer bruk av nasjonale eller regionale klagenemnder
+
+Utvalget har vurdert om det er behov for å samordne klagebehandlingen for flere institusjoner og erstatte de institusjonelle klagenemndene med enkelte nasjonale eller regionale klagenemnder som kan behandle alle enkeltvedtakene som i dag klagebehandles av institusjonenes klagenemnder. Dette vil omfatte klager på enkeltvedtak om lokalt opptak, generell godkjenning etter gjeldende § 3-4, godkjenning og faglig godkjenning etter § 3-5, rett til ny eksamen etter § 3-9 syvende ledd, rett til å gå opp til eksamen etter § 3-10, rett til utsatt eksamen etter § 4-5, vedtak om tilrettelegging § 4-13, ansettelser etter § 11-13 og eventuelt andre enkeltvedtak som ikke er regulert spesielt, slik som reglene om klage på eksamen etter dagens §§ 5-2 og 5-3.
+
+Hensynet til at organet opparbeider seg mer og dypere kunnskap på de aktuelle saksfeltene, taler for et system med én klageinstans som behandler mange lignende klagesaker for flere institusjoner. Dette kan legge til rette for mer ensartet praksis. Flere institusjoner kan sette sammen én klagenemnd som behandler saker fra de samme institusjonene. Å oppnevne nemnder på tvers av institusjonene kan også gi færre problemer med habilitet i klagesaksbehandlingen. Nemndene kan da ha medlemmer fra forskjellige institusjoner, som kanskje vil reflektere ulike former for erfaring på en bedre måte enn i dag.
+
+Hensyn til autonomi taler imidlertid for at hver enkelt institusjon selv avgjør om den skal ha en egen klagenemnd eller om den ønsker å samarbeide med andre institusjoner om en felles klagenemnd. For store institusjoner med mange klagesaker kan det være lite å hente på slikt samarbeid, mens det derimot kan innebære besparelser og kompetansedeling for mindre institusjoner. Utvalget ser at det i mange tilfeller kan være hensiktsmessig at flere institusjoner kan velge å gå sammen om å oppnevne en felles, lokal klagenemnd.
+
+Hvordan sammensetning og oppnevning av medlemmene i en slik felles klagenemnd skal foregå må løses av de samarbeidende institusjonene. Styrene må i fellesskap komme frem til regler om hvordan nemnda skal settes sammen, og bestemme hvem som skal oppnevnes. De lovbestemte reglene i andre og tredje ledd i bestemmelsen gjelder også for slike nemnder. I tilfeller der institusjoner går sammen om å etablere klagenemnd i fellesskap er det naturlig at det også lages regler om sekretariat og saksforberedelse.
+
+Utvalget foreslår å endre betegnelsen på institusjonens klagenemd til «lokal klagenemnd ved institusjonen». Dette skal synliggjøre at flere institusjoner kan samarbeide om å ha en lokal klagenemnd som behandler klagesaker knyttet til de samme institusjonene.
+
+### Forholdet til forvaltningsloven
+
+Statlige universiteter og høyskoler er forvaltningsorganer, og private universiteter og høyskoler regnes også som forvaltningsorganer når de treffer enkeltvedtak eller utferdiger forskrifter, jf. forvaltningsloven § 1 tredje punktum. I dagens universitets- og høyskolelov lister § 7-6 opp avgjørelser som skal regnes som enkeltvedtak. Denne opplistingen har vært ansett som særlig viktig for private institusjoner, siden det klart uttrykkes at en del typer vedtak er enkeltvedtak. Samtidig er ikke opplistingen over vedtak uttømmende. Dette kan bidra til å gjøre brukerne usikre på om andre avgjørelser skal regnes som enkeltvedtak eller ikke.
+
+Utvalget mener at det er tilstrekkelig å lovfeste i en egen bestemmelse at forvaltningslovens regler om enkeltvedtak gjelder, slik hovedregelen er i dag, og at listen over hvilke typer enkeltvedtak som er omfattet, bør sløyfes. Dette vil medføre at institusjonene selv må vurdere hva slags vedtak de treffer, og om disse skal regnes som enkeltvedtak ifølge forvaltningsloven. Utvalget er oppmerksom på at det rent lovteknisk ikke er nødvendig å lovfeste regelen om at forvaltningsloven skal følges ved behandling av saker i forvaltningen, siden dette uansett følger av forvaltningsloven. Utvalgets vurdering er likevel at det er fornuftig av pedagogiske grunner å slå dette fast i lovteksten.
+
+Utvalget anbefaler at departementet gjennomgår de ulike formene for enkeltvedtak som universitets- og høyskoleloven regulerer, og at en vurdering av hva som er enkeltvedtak og hva som helt klart ikke er det, kommuniseres til sektoren gjennom et rundskriv. Et slikt informasjonsskriv kan virke klargjørende og forhindre fremtidige feiltolkninger. Rundskrivet kan korrigeres og suppleres dersom det senere er behov for det. Utvalget er oppmerksom på at et slikt rundskriv ikke går foran forvaltningslovens regler, men mener at det kan bidra til å avklare og synliggjøre relevante argumenter for om avgjørelser er enkeltvedtak eller ikke.

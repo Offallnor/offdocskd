@@ -1,992 +1,212 @@
-# NOU 2020: 3, del 11 av 42 (side 120–133)
+# NOU 2020: 3, del 11 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 120]
+# Oppgaver
 
-118
+\[:figur:fig12-1.jpg\]
 
-Kapittel 12
+## Utvalgets forslag
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-om å sende studenter til utlandet på områder der
-Norge hadde liten kapasitet. I 1980- og 1990-årene
-var man mer opptatt av den økte språk- og kulturforståelsen som utenlandsstudier gir.
-Etter hvert har oppmerksomheten blitt rettet
-mot kvalitet og relevans som grunnleggende kriterier for internasjonaliseringen av høyere utdanning. Dette er slått fast som tydelige prinsipper i
-St.meld. nr. 14 (2008–2009) Internasjonalisering
-av utdanning. Stortingsmeldingen kom med klare
-forventninger til institusjonene om større strategisk oppmerksomhet på internasjonalisering. Universiteter og høyskoler fikk beskjed om å konsentrere institusjonsavtalene om færre, men kvalitativt bedre aktører. Ifølge stortingsmeldingen er
-kortere utvekslingsopphold positivt, fordi studentene da bringer med seg impulser hjem som også
-andre studenter kan ha glede av. Det er flere utenlandske studenter som kommer på utvekslingsopphold til Norge, enn det er norske studenter
-som drar på utveksling til utlandet. Dette forholdet er noe av bakteppet for den kommende stortingsmeldingen om mobilitet.
-Den hittil siste stortingsmeldingen om forskning, Meld. St. 18 (2012–2013) Lange linjer, tok
-opp internasjonalisering av forskning. Stortingsmeldingen slo fast at høy grad av internasjonalisering i forskningen er positivt, men at internasjonaliseringsarbeidet bør bli mer målrettet.
-Stortingsmeldingen fremhevet EUs rammeprogrammer som en viktig arena for internasjonalisering av norsk forskning, blant annet fordi det
-er krav om internasjonalt samarbeid i prosjektene, noe som kan bidra til utvikling av ideer og
-ny kunnskap.
-Oversikt over publiseringsutviklingen viser at
-bare 17 prosent av artikler med norske forfattere
-hadde utenlandsk medforfatter i 1981, mens tilsvarende andel i 2016 var 66 prosent. Internasjonalt publiseringssamarbeid har lenge vært normen i matematiske, naturvitenskapelige, teknologiske og medisinske fag, og omfanget har økt
-betydelig også i humaniora. Norge er likevel et
-lite land også i denne sammenhengen, med godt
-under en prosent av verdens vitenskapelige publisering.
-Å delta i nasjonale og internasjonale nettverk
-og prosjekter for forskning og faglig og kunstnerisk utviklingsarbeid er viktig for å få nye impulser og perspektiver og tilgang til nye metoder.
-Norske ansatte i universitets- og høyskolesektoren bør samarbeide med sine fremste kollegaer i
-verden der de har faglige forutsetninger for det,
-både for å bli bedre og for å øke bruken av
-forskningsresultater fra andre land.
-
-Begge de tidligere nevnte stortingsmeldingene vektlegger kvalitet og relevans i det internasjonale samarbeidet. Dette er fortsatt gjeldende
-politikk når det gjelder internasjonalisering. Utvalget mener at internasjonalisering av forskning,
-faglig og kunstnerisk utviklingsarbeid og høyere
-utdanning kan være både et mål i seg selv og et
-virkemiddel. Impulser fra internasjonalt samarbeid kan ha en egenverdi for den enkelte ansatte
-og student. Samtidig bør samarbeidet føre til høyere kvalitet og styrket relevans i den faglige aktiviteten. Innenfor de fleste fagfelt er det vanskelig å
-se for seg at norske forskere vil kunne bli fremragende uten å delta i internasjonalt samarbeid.
-De store samfunnsutfordringene er internasjonale
-i sin natur. Hvis man samarbeider internasjonalt
-om forskning, faglig og kunstnerisk utviklingsarbeid og høyere utdanning for å møte disse utfordringene, vil også løsningene bli mer relevante. I
-dagens universitets- og høyskolelov er ikke internasjonalisering fremhevet spesielt, annet enn at
-§ 1-3 bokstav h inneholder en forventning om at
-universiteter og høyskoler skal samarbeide med
-tilsvarende institusjoner i andre land. Utvalget
-mener det vil være hensiktsmessig å koble forventningene om samarbeid til de strategiske
-målene for internasjonalisering, slik at det skal
-bidra til kvalitet og relevans i den faglige virksomheten.
-
-12.3.10 Effektiv ressursbruk og eksterne
-ressurser
-Den gjeldende universitets- og høyskoleloven slår
-fast i § 1-3 bokstav c at universiteter og høyskoler
-skal forvalte tilførte ressurser effektivt og aktivt
-søke tilføring av eksterne ressurser. Etter utvalgets vurdering er ikke effektiv ressursbruk en
-oppgave på linje med de andre som er lovfestet i
-paragrafen om institusjonenes virksomhet. Utvalget forstår det mer som en grunnleggende forutsetning for driften av virksomheten.
-Tilføring av eksterne ressurser er avgjørende for at universiteter og høyskoler skal realisere sine formål. For eksempel kanaliserer både
-Forskningsrådet og EU betydelige midler
-gjennom forskningsprogrammer med mål om å
-møte de store samfunnsutfordringene. Universiteter og høyskoler må delta i konkurransen om
-disse og andre eksterne midler. Utvalget mener
-det er unødvendig å lovfeste at institusjonene
-skal søke om eksterne midler. Fagmiljøene har
-egeninteresse av å hente inn ekstern finansiering for å kunne realisere sine ambisjoner og nå
-sine mål.
-
-[Side 121]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Utvalget foreslår at kravet om at universiteter
-og høyskoler skal forvalte tilførte ressurser effektivt og aktivt søke tilføring av eksterne ressurser,
-tas ut av loven, siden dette oppfattes som unødvendig. Utvalget vil presisere at vi med dette forslaget ikke mener å redusere kravet til institusjonene på disse punktene. Det er et generelt krav til
-alle aktører som mottar statlige midler, at de skal
-
-119
-
-Kapittel 12
-
-bruke dem effektivt, jf. regelverk for økonomistyring i staten.19 Det er styrets ansvar å sørge for
-at tilførte ressurser forvaltes effektivt.
-19
-
-Regjeringen. Regelverk for økonomistyring i staten https://
-www.regjeringen.no/no/tema/okonomi-og-budsjett/statligokonomistyring/reglement-for-okonomistyring-i-staten/
-id438887/ hentet 16.1.2020.
-
-[Side 122]
-
-120
-
-NOU 2020: 3
-
-Kapittel 13
-
-Ny lov om universiteter og høyskoler
-
-Kapittel 13
-
-Museer og nasjonale fellesoppgaver
-
-Figur 13.1
-
-13.1 Utvalgets forslag
 Utvalget foreslår følgende:
-• Bestemmelsen i dagens § 1-4 første ledd om at
-universiteter og høyskoler har et særlig ansvar
-for grunnforskning og forskerutdanning innenfor de områdene der de tildeler doktorgrad
-videreføres ikke.
-• Bestemmelsen i dagens § 1-4 andre ledd om
-enkelte institusjoners særskilte nasjonale
-ansvar for å bygge opp, drive og vedlikeholde
-museer med vitenskapelig samlinger og publikumsutstillinger videreføres.
-• Bestemmelsen i § 1-4 tredje ledd om at departementet kan gi enkelte institusjoner et særskilt nasjonalt ansvar for forskning eller undervisning på bestemte fagområder videreføres
-ikke.
-• Bestemmelsen i dagens § 1-4 fjerde ledd om at
-departementet i samråd med en institusjon kan
-legge driften av en nasjonal fellesoppgave til
-institusjonen, uten at institusjonens egne styringsorganer har ansvaret for den faglige virksomheten videreføres, men med den justering
-at bestemmelsen ikke begrenses til «nasjonale» oppgaver.
 
-Oslo, Universitetet i Tromsø – Norges arktiske
-universitet, Norges teknisk-naturvitenskapelige
-universitet og Universitetet i Stavanger har et særskilt nasjonalt ansvar for å bygge opp, drive og
-vedlikeholde museer med vitenskapelige samlinger og publikumsutstillinger. Departementet kan
-gi nærmere forskrift om samarbeid og arbeidsdeling mellom universitetene på dette området.
-Departementet kan gi enkelte institusjoner et
-særskilt nasjonalt ansvar for forskning eller undervisning på bestemte fagområder, jf. universitetsog høyskoleloven § 1-4 tredje ledd. Departementet kan også gi enkelte institusjoner et særskilt
-nasjonalt ansvar for å bygge opp, drive og vedlikeholde forskningsbiblioteker, kunnskapsbanker og
-databaser samt museer med vitenskapelige samlinger og publikumsutstillinger innenfor særskilte fagområder.
-Universitets- og høyskoleloven § 1-4 fjerde
-ledd sier videre at departementet i samråd med en
-institusjon kan legge driften av en nasjonal fellesoppgave til institusjonen, uten at institusjonens
-egne styringsorganer har ansvaret for den faglige
-virksomheten.
+- En ny bestemmelse om universiteter og høyskolers oppgaver.
 
-13.3 Utvalgets vurderinger
-13.2 Gjeldende rett
-Det følger av universitets- og høyskoleloven § 1-4
-første ledd at universiteter og høyskoler har et særlig ansvar for grunnforskning og forskerutdanning
-innenfor områdene der de tildeler doktorgrad.
-Universitets- og høyskoleloven § 1-4 andre
-ledd sier at Universitetet i Bergen, Universitetet i
+- Ny bestemmelse om institusjonenes oppgaver kalles «Institusjonenes oppgaver», som er mer presist enn «Institusjonenes virksomhet» i dagens universitets- og høyskolelov § 1-3.
 
-Utvalget mener at bestemmelsen om at universiteter og høyskoler har et særlig ansvar for grunnforskning og forskerutdanning innenfor områdene der de tildeler doktorgrad, ikke kan ha særlig betydning i seg selv. Det er heller institusjonenes ambisjoner og strategier, og andre deler av
-regelverket, som i praksis påvirker hvilke områder institusjonene driver grunnforskning og for-
+- Bestemmelsen om effektiv ressursbruk og tilførsel av eksterne ressurser i dagens universitets- og høyskolelov § 1-3 bokstav c videreføres ikke.
 
-[Side 123]
+- At universiteter og høyskoler skal bidra til livslang læring, i tillegg til etter- og videreutdanning, inkluderes i bestemmelsen om oppgaver.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+- Plikten til å samarbeide med andre aktører gjøres generell, ved at ingen samarbeidsaktører er nevnt særskilt i loven.
 
-skerutdanning innenfor. For eksempel har forskrift om tilsyn med utdanningskvaliteten i høyere
-utdanning (studietilsynsforskriften)1 regler om
-akkreditering av studietilbud, inkludert doktorgrad. For alle utdanninger er det krav om at fagmiljøet skal drive forskning eller kunstnerisk
-utviklingsarbeid og faglig utviklingsarbeid, jf. studietilsynsforskriften § 2-3 femte ledd. Fagmiljøet
-skal kunne vise til dokumenterte resultater med
-en kvalitet og et omfang som er tilfredsstillende
-for studietilbudets innhold og nivå.
-Utvalgets vurdering er at institusjonenes
-grunnforskning og forskerutdanning følger av
-institusjonenes egne strategier og prioriteringer,
-og av regelverket for akkreditering av doktorgrader. Utvalget anser derfor at universitets- og høyskoleloven § 1-4 første ledd er unødvendig, og at
-bestemmelsen i tråd med målsettingen om å forenkle regelverket ikke bør videreføres i ny lov.
-Utvalget legger til grunn at dette ikke vil ha betydning for ansvaret institusjonene faktisk har for
-grunnforskning, jf. forslag til § 2-1.
-Universitetene i Oslo, Bergen, Tromsø og
-Trondheim har over lang tid bygd opp vitenskapelige museer. Arkeologisk museum i Stavanger ble
-innlemmet i Universitetet i Stavanger fra 1. januar
-2009. Universitets- og høyskoleloven § 1-4 andre
-ledd ble senere samme år endret for at den også
-skulle nevne Universitetet i Stavanger som ett av
-universitetene med ansvar for museum. Utvalget
-mener at universitets- og høyskolelovens bestemmelse om museene ikke er en forutsetning for
-institusjonenes satsing på museer; for eksempel
-har Universitetet i Agder naturmuseum og botanisk hage.
-Til tross for at universitets- og høyskoleloven
-§ 1-4 andre ledd kan sies å ha liten rettslig betydning som forutsetning for at det drives forskningsbasert museumsvirksomhet, mener utvalget likevel at bestemmelsen i § 1-4 andre ledd skal videreføres. Ivaretakelse og oppbygging av og forsking
-på natur- og kulturhistoriske samlinger er av
-nasjonal og internasjonal verdi, og formidling til
-allmenheten av samlingene og forskningsresultater er viktig. Utvalget viser dessuten til at universitetsmuseene har særskilte oppgaver etter kulturminneloven2 med tilhørende forskrifter. Vi mener
-derfor at det er gode grunner til å videreføre § 1-4
-andre ledd.
+- Å skille tydeligere enn i dagens lov mellom universiteter og høyskolers formål og deres oppgaver.
 
-1
-2
+- Øvrig innhold i dagens universitets- og høyskolelov § 1-3 videreføres.
 
-Forskrift 7. februar 2017 nr. 137 om tilsyn med utdanningskvaliteten i høyere utdanning (studietilsynsforskriften).
-Lov 9. juni 1978 nr. 50 om kulturminner (kulturminneloven).
+## Gjeldende rett
 
-121
+Formålsparagrafen i universitets- og høyskoleloven § 1-1 suppleres av § 1-3 om utdanningsinstitusjonenes virksomhet. § 1-3 angir arbeidsmåter og oppgaver som utdanningsinstitusjonene skal følge for å fremme lovens formål i § 1-1. Bestemmelsen om lovens formål og institusjonenes virksomhet angir samlet sett det overordnede samfunnsoppdraget universiteter og høyskoler har.
 
-Kapittel 13
+Ifølge universitets- og høyskoleloven § 1-3 skal universiteter og høyskoler fremme lovens formål ved å
 
-Utvalget mener det er unødvendig at loven
-har en bestemmelse om at departementet kan gi
-institusjoner særskilt nasjonalt ansvar, jf. universitets- og høyskoleloven § 1-4 tredje ledd. Tatt i
-betraktning at statlige universiteter og høyskoler
-skal være forvaltningsorganer, kan departementet uansett gi enkeltinstitusjoner et særlig ansvar
-gjennom andre styringsvirkemidler, for eksempel styringsdialog eller tildelinger over statsbudsjettet. Vi viser til at politikken for og styringen
-av universitets- og høyskolesektoren har lagt
-stor vekt på frivillig samarbeid, arbeidsdeling og
-konsentrasjon. Det har vært et mål at institusjonene selv skal komme frem til hensiktsmessige
-løsninger.3 Dette henger også sammen med
-utgangspunktet om institusjonenes autonomi der
-de selv skal beslutte hvilke satsingsområder de
-skal prioritere. Vi peker i denne sammenhengen
-på at Samisk høgskole har et spesielt og særlig
-ansvar overfor det samiske og samisk språklige.
-Samisk høgskole skal være en allsamisk høyskole, som også har ansvar for det samiske og
-samisk språklige i Sápmi. Samisk høgskole er
-således en særegen høyere utdanningsinstitusjon som departementet kan tildele et særlig
-ansvar gjennom ulike styringsvirkemidler som
-for eksempel styringsdialog eller tildelinger over
-statsbudsjettet.
-Departementet bør ikke gi private universiteter og høyskoler slikt ansvar uten at det er del av
-finansieringen over statsbudsjettet. Hvis det
-skulle være aktuelt å styre private universiteter og
-høyskoler på en slik måte, bør det altså gjøres
-med finansiering som styringsvirkemiddel. Vi
-foreslår derfor at universitets- og høyskoleloven
-§ 1-4 tredje ledd ikke videreføres.
-Utvalget viser til at det er en rekke eksempler
-på at departementet har etablert fellesfunksjoner
-for universitets- og høyskolesektoren, og organisert disse etter bestemmelsen i universitets- og
-høyskoleloven § 1-4 fjerde ledd. For eksempel var
-BIBSYS og Samordna opptak i tillegg til Artsdatabanken organisert etter denne bestemmelsen.
-Artsdatabanken bidrar til kunnskap om naturmangfold, og er nå omorganisert til et forvaltningsorgan under Klima- og miljødepartementet. I
-dag er det ikke noen virksomheter som er organisert etter § 1-4 fjerde ledd. Utvalget mener imidlertid at det kan tenkes situasjoner der det er hensiktsmessig med slik organisering, for eksempel i
-oppstartsfasen for en ny og liten virksomhet. Av
-den grunn anbefaler utvalget at bestemmelsen i
-3
+1.  tilby høyere utdanning som er basert på det fremste innen forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskap,
 
-Jf. blant annet Meld. St. 18 (2014–2015) Konsentrasjon for
-kvalitet.
+<!-- -->
 
-[Side 124]
+6.  utføre forskning og faglig og kunstnerisk utviklingsarbeid,
 
-122
+7.  forvalte tilførte ressurser effektivt og aktivt søke tilføring av eksterne ressurser,
 
-Kapittel 13
+8.  bidra til å spre og formidle resultater fra forskning og faglig og kunstnerisk utviklingsarbeid,
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+9.  bidra til innovasjon og verdiskapning basert på resultater fra forskning og faglig og kunstnerisk utviklingsarbeid,
 
-universitets- og høyskoleloven § 1-4 fjerde ledd
-videreføres i ny lov. For å ta høyde for de praktiske behovene som kan oppstå, bør bestemmel-
+10. legge til rette for at institusjonenes ansatte og studenter kan delta i samfunnsdebatten.
 
-sen ikke begrenses til nasjonale fellesoppgaver,
-men omtale oppgaver generelt.
+11. bidra til at norsk høyere utdanning og forskning følger den internasjonale forskningsfronten og utviklingen av høyere utdanningstilbud,
 
-[Side 125]
+12. samarbeide med andre universiteter og høyskoler og tilsvarende institusjoner i andre land, lokalt og regionalt samfunns- og arbeidsliv, offentlig forvaltning og internasjonale organisasjoner og
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+13. tilby etter- og videreutdanning innenfor institusjonens virkeområde.
 
-123
+Hvordan institusjonene skal arbeide konkret for å fremme målene vil blant annet avhenge av ressurser, finansiering, størrelse og institusjonens profil.[^153] At utdanningsinstitusjonene skal arbeide for å fremme lovens formål ved å tilby høyere utdanning som er basert på det fremste innen forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskap innebærer ikke at institusjonene skal være de fremste på ethvert område, men at de skal være faglig oppdatert og formidle kunnskap i fag så langt det er naturlig. For å kunne tilby utdanning basert på det fremste innenfor forskning og faglig og kunstnerisk utviklingsarbeid må institusjonene ha fagmiljøer for de fagretninger som tilbys.[^154]
 
-Kapittel 14
+Utdanningsinstitusjonene skal effektivt forvalte tilførte ressurser og aktivt søke tilføring av eksterne ressurser. Kravet kan hevdes å være selvsagt, og er en lovfesting av forventninger til hvordan universiteter og høyskoler driftes.
 
-Kapittel 14
+Utdanningsinstitusjonene skal bidra til å spre og formidle resultater fra forskning, faglig og kunstnerisk utviklingsarbeid.
 
-Norsk som fagspråk
+Det er en forventning at institusjonene oppmuntrer studenter og ansatte til å delta i debatt om samfunnsspørsmål og virksomheten til utdanningsinstitusjonene. Utdanningsinstitusjonene kan ikke legge restriksjoner på deltakelse i den offentlige debatten.
 
-Figur 14.1
+For at universiteter og høyskoler skal kunne tilby utdanning og utføre forskning på høyt internasjonalt nivå i henhold til § 1-3 bokstav g, må institusjonene sørge for å delta i den internasjonale forskningsfronten, og følge utviklingen av utdanning internasjonalt. Samarbeid og nettverksbygging er en viktig komponent i arbeidet med å utvikle utdanningstilbud, og som en del av forskning. Utdanningsinstitusjonene skal derfor samarbeide med andre universiteter og høyskoler, både nasjonalt og internasjonalt og med lokalt og regionalt samfunns- og arbeidsliv, offentlig forvaltning og internasjonale organisasjoner, jf. § 1-3 bokstav h.
 
-14.1 Utvalgets forslag
+Utdanningsinstitusjonene skal tilby videre- og etterutdanning innenfor egne virkeområder, jf. § 1-3 bokstav i. Institusjonene har et ansvar for å bidra til at tilegnelse av kunnskap er en kontinuerlig prosess, som ikke kan anses som avsluttet når en grad avlegges. Det er ikke et krav at institusjonene selv har slike tilbud, det er åpent for at de kan samarbeide med andre tilbydere. Utdanningsinstitusjonene har likevel et samfunnsmessig ansvar får at tilbudene finnes, og må der det et nødvendig ta initiativ til disse selv.[^155]
+
+## Utvalgets vurderinger
+
+### Innledning
+
+Bestemmelsen om institusjonenes virksomhet bør gjenspeile universitets- og høyskolesektorens kjerneoppgaver. Tredelingen av institusjonenes kjerneoppgaver i utdanning, forskning, faglig og kunstnerisk utviklingsarbeid og formidling brukes i mange land, selv om det kan variere fra land til land om høyskolene har et forskningsoppdrag. Bak disse tre virksomhetsområdene skjuler det seg sammensatte og til dels gjensidig avhengige oppgaver. Overordnet har disse oppgavene ligget fast lenge, selv om innholdet i og utførelsen av dem har endret seg over tid. Hva som ligger i formidlingsoppgaven er det vanskelig å oppsummere med få ord. Bestemmelsens formulering av de ulike elementene i formidlingsoppgaven bør være i tråd med måten vi forstår formidling på i dag. I tillegg til tradisjonell formidling av faglig innsikt bør oppgaven også romme samfunnskontakt i vid forstand, for eksempel deltakelse i offentlige debatter, utvalgsarbeid og øvrig meningsdannende arbeid der det er naturlig. Vi kan ikke forvente at alle i like stor grad deltar i denne typen utadrettet arbeid, men generelt må det være et mål at kunnskap og innsikt kommer samfunnet til gode også på denne måten. Utvalget ser formidling som en del av samfunnskontrakten for universitets- og høyskolesektoren. Dette utdypes nærmere under punkt 12.3.6 om formidlingsbegrepet.
+
+### Høyt internasjonalt nivå
+
+Universiteter og høyskoler må strebe etter høy kvalitet i både utdanning og forskning. Denne forventningen er uttrykt på litt forskjellige måter i henholdsvis § 1-1 og § 1-3 i dagens universitets- og høyskolelov. I henhold til § 1-1 skal institusjonene tilby utdanning og utføre forskning og kunstnerisk utviklingsarbeid på høyt internasjonalt nivå. Ifølge § 1-3 skal utdanningen bygge på det fremste innenfor forskning, faglig og kunstnerisk utviklingsarbeid og erfaringskunnskap. Videre følger det av § 1-3 bokstav g at universiteter og høyskoler skal bidra til at norsk forskning og høyere utdanning følger den internasjonale forskningsfronten og utviklingen av høyere utdanningstilbud.
+
+Hvis vi tar utgangspunkt i en vanlig forståelse av ordlyden, synes ikke utvalget det er opplagt hva som ligger i «høyt internasjonalt nivå» i alle fag og innenfor alle deler av virksomheten. Utvalget oppfatter uttrykket mer som en ambisjon om at alle, og særlig de som ikke er på dette nivået, skal strekke seg. Innenfor forskning er de fleste fagområder internasjonale i sin natur. Forskerne samarbeider og publiserer gjerne i internasjonale nettverk. I mange fag, særlig innenfor medisin og naturvitenskap, er det utviklet indikatorer for vurdering av kvaliteten i forskningen, blant annet basert på vitenskapelig publisering.
+
+I mer nasjonalt orienterte fag, som språk, litteratur, jus og historie, er det imidlertid mindre åpenbart hva som er høyt internasjonalt nivå. Det er viktig at forskning på temaer og fagfelt der forskerne primært skriver om norske forhold for et norsk publikum, ikke nedvurderes fordi resultatene ikke er publisert internasjonalt. Uavhengig av om publiseringen i hovedsak skjer nasjonalt eller internasjonalt, er det viktig at fagmiljøene bidrar til å bevare og videreutvikle norsk som fagspråk.
+
+En arbeidsgruppe oppnevnt av Nasjonalt råd for kunstnerisk utviklingsarbeid, Universitets- og høgskolerådet, leverte en rapport i 2015[^156], hvor det heter følgende om kunstnerisk utviklingsarbeid i Norge i en internasjonal sammenheng: «Kunstnerisk utviklingsarbeid i Norge tar utgangspunkt i kunstnerens særlige erfaring og refleksjon, og er slik i overensstemmelse med den internasjonale kategorien «research in the arts». Høyt kunstnerisk nivå er et sentralt krav til kunstnerisk utviklingsarbeid i Norge.» Videre redegjøres det, med henvisning til disse formuleringene fra Central Saint Martins College of Art and Design i London, for kunst som et fagområde som kommuniserer i en fagfellekontekst:
+
+- Art and design practices are intellectual pursuits in their own right not requiring translation to other terms in order to have sense and coherence
+
+- Art and design works embody «meaning» through their interior symbolic languages and syntax (formal organisation)
+
+- Art and design works embody «meaning» through their discursive relationship to other works in their field and their corresponding cultural positions
+
+- Art and design works can be read by those trained in the subject in the same way that, for example, mathematicians read mathematics or philosophers read philosophy.[^157]
+
+Innenfor utdanning er det foreløpig ikke etablert tilsvarende internasjonale kvalitetsstandarder som i forskning samt faglig og kunstnerisk utviklingsarbeid. Det finnes lignende hierarkier som er basert på institusjoners renommé, og som forsterkes av de ulike universitetsrangeringene som har blitt utbredt de siste 15–20 årene. Disse bygger ofte på diskutable kriterier, og de er neppe et godt sammenligningsgrunnlag for de fleste høyere utdanningsinstitusjoner.[^158] Det finnes også jevnlige undersøkelser av studenttilfredshet på både nasjonalt (Studiebarometeret[^159]) og europeisk nivå (Eurostudent[^160]). Disse er basert på studentenes subjektive opplevelse, som kan være preget av ulikt forventningsnivå ved forskjellige studier og i forskjellige land.
+
+I løpet av de siste par tiårene har de aller fleste land vi vanligvis sammenligner oss med, opprettet kvalitetssikrings- og akkrediteringsorganer tilsvarende NOKUT. Disse organene undersøker om det finnes kvalitetssikringssystemer knyttet til utdanningene. I tillegg sikrer organene at det er en faglig minstestandard ved akkreditering eller reakkreditering av studier. NOKUT har i samarbeid med søsterorganer i Sverige og Nederland gjort forsøk med å vurdere kvaliteten i utvalgte masterstudier innenfor samme fagområder på tvers av landene.[^161] England har innført et tilsvarende evalueringssystem på utdanningssiden som på forskningssiden. Det heter Teaching Excellence Framework (TEF). Alt i alt er sammenligningsgrunnlaget per i dag noe begrenset på utdanningssiden.
+
+Utvalget ser at det kan være utfordrende å fastslå hva som er «høyt internasjonalt nivå» i mange fag. Likevel mener utvalget at formuleringen «høyt internasjonalt nivå» gir et riktig signal om nivået og kvaliteten vi ønsker på norsk forskning og høyere utdanning. Utvalget anbefaler derfor å la denne formuleringen bli stående i loven, og at den skal gjelde for både forskning og utdanning.
+
+### Arbeidsrelevante utdanninger og dimensjonering
+
+Universiteter og høyskoler må utdanne nok kandidater med relevant kompetanse og relevante kvalifikasjoner. Dimensjoneringen av høyere utdanning, det vil si hvor mange studenter som tas opp til studier, har blitt løst på ulike måter over tid. Frem til omkring år 2000 var det stor vekt på sentral dimensjonering av studieplasser. Innenfor de fleste utdanninger må institusjonene først og fremst forholde seg til studentenes etterspørsel på den ene siden, og til arbeids- og samfunnslivets behov på den andre. I praksis er det i stor grad søkningen som avgjør dimensjoneringen.[^162] Det er likevel stadig innslag av sentral dimensjonering, blant annet gjennom kandidatmåltall for visse helsefaglige og pedagogiske utdanninger, nye studieplasser med faglig øremerking og forskriftsregulering av hvilke institusjoner som kan tildele hvilke grader. Myndighetene blir stadig mer opptatt av både å treffe riktig på antall kandidater av ulike slag, jf. kompetansebehovsutvalget[^163], og å gi kandidatene en mest mulig relevant utdanning, jf. den kommende stortingsmeldingen om arbeidslivsrelevans.
+
+Mange studenter, særlig i profesjonsutdanningene, har i dag praksis som en integrert del av studieløpet. Innenfor de klassiske disiplinstudiene, for eksempel i humaniora, samfunnsvitenskap og naturvitenskap, er det stadig slik at de fleste studentene ikke har formalisert kontakt med arbeids- og samfunnslivet under studiene. Utvalget viser til at Kunnskapsdepartementet har pålagt institusjonene å opprette råd for samarbeid med arbeidslivet (RSA). Dette skal være fora der representanter for arbeidstakere og -givere møter «sin» utdanningsinstitusjon for å drøfte spørsmål om blant annet utdanningsbehov og -tilbud i regionen. RSA er en formalisert arena som kan bidra til å styrke institusjonenes dialog og samarbeid med omgivelsene.
+
+Mye tyder på at norsk høyere utdanning har god arbeidslivrelevans. Hvis en institusjon søker NOKUT om akkreditering av et nytt studietilbud, må institusjonen godtgjøre at det finnes et arbeidsmarked for kandidatene. NOKUT akkrediterer riktignok bare et mindretall av tilbudene innenfor høyere utdanning, men institusjonene som har rett til selv å akkreditere hele eller deler av studietilbudet sitt, må også forholde seg til dette kravet. De jevnlige kandidatundersøkelsene viser at de aller fleste som uteksamineres fra universiteter og høyskoler, får relevant jobb forholdsvis raskt. En nylig gjennomført undersøkelse blant arbeidsgivere viser at de jevnt over er fornøyde med nyutdannede kandidater fra norske universiteter og høyskoler.[^164]
+
+Utvalget mener likevel at studienes arbeidslivstilknytning kan bli enda bedre. Det er viktig at utdanningsinstitusjonene jobber for å utvikle studietilbud som er tilpasset arbeidslivets behov, og som forbereder studentene godt på virkeligheten som møter dem etter endt studium. Ikke minst gjelder dette de tradisjonelle korte profesjonsutdanningene. Særlig innenfor helse- og sosialfagene har det de siste årene vært en vektforskyvning fra praksisnær kunnskap til akademiske meritter. Utdanningene er styrket med mer forskningskompetent undervisningspersonell. Det har vært betydelig vekst i forskningsaktiviteten. Samtidig kan det stilles spørsmål ved om man i for stor grad taper den kunnskapsutviklingen som foregår i praksisfeltet av syne. Det er et konstant dilemma å ta stilling til hvilken type kunnskap og hvilke kvalifikasjoner som skal vektlegges i fag hvor den praktiske kunnskapen er sentral. Bakgrunnen til de som underviser og innretningen på den forskningen som bedrives vil ha betydning for relevansen av utdanningene.
+
+Verdsettingen av det praksisnære er ivaretatt gjennom dagens universitets- og høyskolelov § 1-3 bokstav a, som stiller krav om at utdanninger skal baseres på blant annet det fremste innenfor erfaringskunnskap. Utvalget spør seg likevel om det å gi arbeids- og samfunnsrelevant utdanning burde uttrykkes eksplisitt i loven. Utvalget ser at det kan være argumenter for dette, blant annet for å sikre at de korte profesjonsrettede utdanningene er tett på praksisfeltet de skal forsyne med kompetente kandidater. Det er imidlertid en risiko for at en slik tilnærming vil sette disiplinstudier som ikke er like tydelig yrkesrettet, under press. Studier i humaniora, men også samfunnsfag, blir i offentlig debatt ofte trukket frem som lite matnyttige. Noen tar også til orde for at slike studier bør nedskaleres, med henvisning til manglende arbeidslivsrelevans.[^165] Et krav i loven om arbeidsrelevante utdanninger vil kunne bidra til dette presset. Det vil etter utvalgets vurdering være uheldig. Utvalget har derfor konkludert med at det ikke er hensiktsmessig å foreslå en slik eksplisitt formulering i lovteksten.
+
+### Kvalitet, tilgjengelighet og regional forankring
+
+God geografisk tilgjengelighet av studietilbud er viktig. Selv om systemet for høyere utdanning legger til rette for at alle kan studere nærmest hvor som helst i Norge, velger mange å studere i regionen de kommer fra. Selv institusjoner som beskriver seg som internasjonalt orienterte forskningsuniversiteter, for eksempel Universitetet i Bergen og Universitetet i Oslo, rekrutterer en stor del av studentmassen fra egen landsdel. Og når studentene etter hvert ender opp med en grad, går en stor del ut i det regionale arbeidsmarkedet. I tillegg begynner mange å studere når de er voksne og kanskje allerede er etablert med familie og barn, og dette forsterker stedbundetheten. Institusjonene må også treffe denne gruppen for å bidra til at regionene får nok høyt utdannet arbeidskraft, jf. behovet for en mangfoldig sektor.[^166]
+
+Hensynene til tilgjengelighet og kvalitet kan delvis stå i motsetning til hverandre. Strukturreformen dreide seg om institusjonsstrukturen, ikke om studiestedsstrukturen. Det er likevel klart at det finnes studiesteder der man kan stille spørsmål ved kvaliteten. Det gjelder både antall ansatte og undervisere, deres kompetanse og studentgrunnlaget. Det er ikke gitt at alle studiesteder må opprettholdes for at institusjonene samlet kan nå ut til alle i landet som ønsker og er kvalifisert for å ta høyere utdanning. Nett- og/eller samlingsbaserte studietilbud har hittil stort sett vært et supplement til ordinære campusbaserte tilbud, men ved hjelp av stadig bedre teknologiske løsninger kan de kanskje bli en erstatning. Den teknologiske utviklingen gjør også at den tradisjonelle studenten er mindre på campus enn før. Hensyn til kritisk masse og størrelse på fagmiljøet kan ivaretas ved utveksling av personale, fysisk eller digitalt, uten å legge ned studiesteder. Den fysiske utvekslingen har imidlertid ulemper, som mer reising med derav følgende klimakonsekvenser, og lite effektiv tidsbruk.
+
+Universiteter og høyskoler har stor frihet til selv å fastsette studietilbudet i samsvar med regionens kompetansebehov. Det ligger imidlertid enkelte begrensninger på institusjonenes autonomi, blant annet i gradsforskriften. Hvis vi tar utgangspunkt i at den jevne studiesøker er opptatt av å studere nær hjemstedet, kan det som følge av reguleringene i gradsforskriften oppstå et misforhold mellom regional tilgjengelighet av visse studietilbud og regionens kompetansebehov.[^167] Bakgrunnen for reguleringene er blant annet fordeling av nasjonalt ansvar for sentrale utdanninger. Innenfor den friheten universiteter og høyskoler har, gitt de begrensningene som ligger i gradsforskriften og kandidatmåltall, mener utvalget at det er institusjonene selv som best kan vurdere hvordan de skal oppfylle regionenes kompetansebehov gjennom kvalitativt gode og godt tilgjengelige studietilbud. Utvalget mener at det er en del av institusjonenes samfunnsmandat å foreta slike vurderinger. Institusjonene bør blant annet vurdere de mulighetene ny teknologi tilbyr når det gjelder å gjøre høyere utdanning av god kvalitet mer tilgjengelig i både tid og rom.
+
+### Livslang læring
+
+Dagens universitets- og høyskolelov § 1-3 bokstav i pålegger universiteter og høyskoler en plikt til å tilby etter- og videreutdanning innenfor institusjonens virkeområde. Gjennom regjeringens kompetansereform og i NOU 2019: 12 *Lærekraftig utvikling* (Markussen-utvalget) uttrykker myndighetene store forventninger til at også universiteter og høyskoler skal bidra til å oppgradere arbeidsstokken gjennom hele yrkeskarrieren. Det vil si at de ikke bare først og fremst skal tilby bachelor- og masterutdanninger. Lovutvalget deler Markussen-utvalgets syn på at livslang læring er viktigere enn før, blant annet på grunn av teknologisk omstillingstakt og fordi vi må stå i jobb lenger. Samtidig må dette gjennomføres på en måte som hindrer at universiteter og høyskoler begynner å konkurrere om å tilby korte, skreddersydde kurs i et kommersielt marked. Det er viktig at sektoren selv får styre hvordan de skal ivareta tilbud om livslang læring.
+
+Når dagens etter- og videreutdanningstilbud ved mange institusjoner fremstår som underutviklet, handler det vel så mye om rammebetingelser og prioriteringer for virksomheten, på både tilbuds- og etterspørselssiden. Dette foreslår Markussen-utvalget tiltak for å bøte på. Den kommende stortingsmeldingen om Kompetansereformen vil også se på hindre og insentiver for at universitetene og høyskolene skal utvikle og oppskalere etter- og videreutdanningstilbud. Andre bestemmelser i universitets- og høyskoleloven enn formålsparagrafen kan også være relevante for etter- og videreutdanning, blant annet avgrensningen av gratisprinsippet. Se kapittel 18 om gratisprinsippet.
+
+Innenfor etterutdanning, det vil si den delen av etter- og videreutdanning universiteter og høyskoler kan ta seg betalt for, konkurrerer institusjonene med diverse kommersielle tilbydere. Hvor tungt institusjonene skal gå inn i dette markedet, er et strategisk valg. Det ligger innenfor institusjonenes autonomi å gjøre slike vurderinger. Utvalget vil foreslå å supplere etter- og videreutdanning i lovteksten med begrepet livslang læring. Livslang læring formidler bedre enn etter- og videreutdanning hva dette faktisk handler om – å lære hele livet. Det vil også være i tråd med Markussen-utvalgets tilrådninger, som mener at utdanning er utdanning uavhengig av når i livsløpet den tas.[^168]
+
+### Formidlingsbegrepet
+
+Tradisjonelt har formidling blitt betraktet som en enveis aktivitet. Ansatte ved universiteter og høyskoler sprer gjennom ulike kanaler innsikt og resultater fra egen forskning, faglig og kunstnerisk utviklingsarbeid til det omliggende samfunnet. Kunnskapsspredning, både for å popularisere fagene for et bredere publikum og for å opplyse samfunnsdebatten, er stadig en viktig del av formidlingsoppdraget. Formidling rommer imidlertid langt mer, ikke minst samarbeid og dialog med omverdenen. Det bygger på en forståelse av kunnskapsproduksjon som en ikke-lineær prosess. I møtet med ulike aktører i samfunnet, som bedrifter, organisasjoner og offentlige etater, vil de ansatte kunne få ideer og impulser til nye forskningsspørsmål eller utdanningsprogrammer. Kort sagt vil kontakten med samfunnet kunne gi den faglige virksomheten nye retninger og bidra til å styrke kvaliteten og relevansen i både forskning og utdanning. Betydningen av flerveis kommunikasjon med aktører utenfor universitets- og høyskolesektoren må etter utvalgets vurdering gå frem av måten formidlingsoppdraget formuleres på i loven. Paragrafen om institusjonenes virksomhet må med andre ord favne både den tradisjonelle formidlingsaktiviteten og den mangfoldige dialogen universiteter og høyskoler skal føre med samfunnet.
+
+### Mangfoldig samarbeid
+
+Universiteter og høyskoler samarbeider med et bredt spekter av aktører i samfunnet. Samarbeidet omfatter et mangfold av aktiviteter. Dette er dokumentert i en spørreundersøkelse blant faglig ansatte i sektoren.[^169] Det store flertallet av de ansatte er aktive i formidling, kunnskapsoverføring og samarbeid med omverdenen. De faglig ansatte er viktige knutepunkter i det nasjonale kunnskapsnettverket.
+
+Samarbeid med næringslivet er viktig både nasjonalt og regionalt for å gi norske bedrifter tilgang på høy kompetanse og relevant forsknings- og utviklingsarbeid (FoU). Ofte speiler den faglige profilen i de mer teknologisk orienterte fagmiljøene ved universiteter og høyskoler strukturen i det regionale næringslivet. Det er et mangeartet samarbeid som inkluderer felles FoU-prosjekter, doktorgradsutdanning, gaveprofessorater, praksisplasser for studenter, studentoppgaver, kompetanseheving for ansatte i bedriftene og kommersialiseringsaktiviteter. Universiteter og høyskoler samarbeider med andre ord med næringslivet ikke bare om forskning, faglig og kunstnerisk utviklingsarbeid, men også om utdanning og innovasjon.[^170]
+
+Universitets- og høyskoleloven § 1-3 bokstav h nevner en rekke aktører i inn- og utland som universiteter og høyskoler skal samarbeide med. Denne listen er ikke uttømmende. Forskningsinstitutter er for eksempel ikke nevnt, selv om de er viktige samarbeidspartnere for universiteter og høyskoler. Et eksempel på det er det tette forholdet mellom NTNU og SINTEF i Trondheim, som til dels deler både lokaler og personale. Mange universiteter og høyskoler er dessuten eiere eller medeiere i forskningsinstitutter. Det gjelder for eksempel NORCE, som eies av institusjoner fra Kristiansand i sør til Tromsø i nord. Strategisk samarbeid med forskningsinstitutter er viktig, blant annet for å posisjonere seg til de industri- eller samfunnsorienterte delene av EUs rammeprogram for forskning. Her bidrar nemlig instituttenes anvendte profil til å styrke søknadene. Å spille på bredden i forskningsmiljøene øker sjansen for gjennomslag.
+
+Det finnes også andre samarbeidspartnere for universiteter og høyskoler som dagens lov ikke nevner, blant annet ideelle organisasjoner, kunst- og kulturinstitusjoner og skoler. Det vil også kunne variere både mellom institusjoner og over tid hvilke aktører som er de viktigste eksterne samarbeidspartnerne. For ikke å utelukke relevante samarbeidspartnere vil det etter utvalgets mening være mest hensiktsmessig å ikke nevne noen aktører eksplisitt. Utvalget foreslår derfor en generell formulering om at universiteter og høyskoler skal samarbeide med relevante eksterne aktører for å styrke virksomhetens kvalitet og relevans.
+
+### Innovasjon
+
+Universiteter og høyskoler skal bidra til innovasjon og verdiskaping basert på resultater fra den faglige virksomheten, jf. universitets- og høyskoleloven § 1-3 bokstav e. Innovasjon kan betraktes først og fremst som et økonomisk begrep. Det betegner introduksjon av nye eller forbedrede produkter eller tjenester i et marked med formål om å skape økonomisk gevinst. Denne forståelsen av innovasjon er mest relevant for det private næringslivet. I videre forstand kan imidlertid innovasjonsbegrepet omfatte også offentlig sektor og det som kalles sosial innovasjon. I offentlig sektor vil innovasjon handle om å forbedre eller utvide tjenestetilbudet til befolkningen ved å ta i bruk ny teknologi, nye prosesser eller nye organisasjonsformer. Sosial innovasjon omfatter utvikling av nye løsninger på ulike samfunnsproblemer, gjerne knyttet til miljømessig eller sosial bærekraft. Denne typen innovasjon innebærer ofte endringer på systemnivå som fører til positiv utvikling i samfunnet. Det er ofte ideelle, ikke-kommersielle organisasjoner som driver den frem. Verken innovasjon i offentlig sektor eller sosial innovasjon har i utgangspunktet økonomisk gevinst som mål, men det vil ofte være samfunnsøkonomisk lønnsomt.
+
+Utvalget mener det bør legges et bredt innovasjonsbegrep til grunn for forståelsen av denne oppgaven i universitets- og høyskoleloven. Universiteter og høyskoler skal bidra til innovasjon i mer snever økonomisk forstand, men utvikling og kommersialisering av produkter og tjenester i et marked er relevant bare for en mindre del av fagmiljøene ved institusjonene. Et bredt innovasjonsbegrep som også favner innovasjon i offentlig sektor og sosial innovasjon, vil kunne være relevant for den faglige aktiviteten i en langt større del av virksomheten.
+
+### Internasjonalisering
+
+Flere studenter tar hele eller deler av utdanningen utenfor hjemlandet, og mer av forskning, faglig og kunstnerisk utviklingsarbeid foregår i internasjonale nettverk. Drivkrefter bak utviklingen er høyere etterspørsel etter og større investeringer i høyere utdanning og forskning globalt, reduserte transport- og kommunikasjonskostnader og et økende internasjonalt arbeidsmarked for høyt kvalifisert arbeidskraft.
+
+I Norge har tilnærmingen til internasjonalisering i høyere utdanning blitt stadig mer strategisk. Frem til 1970-årene handlet internasjonalisering om å sende studenter til utlandet på områder der Norge hadde liten kapasitet. I 1980- og 1990-årene var man mer opptatt av den økte språk- og kulturforståelsen som utenlandsstudier gir.
+
+Etter hvert har oppmerksomheten blitt rettet mot kvalitet og relevans som grunnleggende kriterier for internasjonaliseringen av høyere utdanning. Dette er slått fast som tydelige prinsipper i St.meld. nr. 14 (2008–2009) *Internasjonalisering av utdanning*. Stortingsmeldingen kom med klare forventninger til institusjonene om større strategisk oppmerksomhet på internasjonalisering. Universiteter og høyskoler fikk beskjed om å konsentrere institusjonsavtalene om færre, men kvalitativt bedre aktører. Ifølge stortingsmeldingen er kortere utvekslingsopphold positivt, fordi studentene da bringer med seg impulser hjem som også andre studenter kan ha glede av. Det er flere utenlandske studenter som kommer på utvekslingsopphold til Norge, enn det er norske studenter som drar på utveksling til utlandet. Dette forholdet er noe av bakteppet for den kommende stortingsmeldingen om mobilitet.
+
+Den hittil siste stortingsmeldingen om forskning, Meld. St. 18 (2012–2013) *Lange linjer*, tok opp internasjonalisering av forskning. Stortingsmeldingen slo fast at høy grad av internasjonalisering i forskningen er positivt, men at internasjonaliseringsarbeidet bør bli mer målrettet. Stortingsmeldingen fremhevet EUs rammeprogrammer som en viktig arena for internasjonalisering av norsk forskning, blant annet fordi det er krav om internasjonalt samarbeid i prosjektene, noe som kan bidra til utvikling av ideer og ny kunnskap.
+
+Oversikt over publiseringsutviklingen viser at bare 17 prosent av artikler med norske forfattere hadde utenlandsk medforfatter i 1981, mens tilsvarende andel i 2016 var 66 prosent. Internasjonalt publiseringssamarbeid har lenge vært normen i matematiske, naturvitenskapelige, teknologiske og medisinske fag, og omfanget har økt betydelig også i humaniora. Norge er likevel et lite land også i denne sammenhengen, med godt under en prosent av verdens vitenskapelige publisering.
+
+Å delta i nasjonale og internasjonale nettverk og prosjekter for forskning og faglig og kunstnerisk utviklingsarbeid er viktig for å få nye impulser og perspektiver og tilgang til nye metoder. Norske ansatte i universitets- og høyskolesektoren bør samarbeide med sine fremste kollegaer i verden der de har faglige forutsetninger for det, både for å bli bedre og for å øke bruken av forskningsresultater fra andre land.
+
+Begge de tidligere nevnte stortingsmeldingene vektlegger kvalitet og relevans i det internasjonale samarbeidet. Dette er fortsatt gjeldende politikk når det gjelder internasjonalisering. Utvalget mener at internasjonalisering av forskning, faglig og kunstnerisk utviklingsarbeid og høyere utdanning kan være både et mål i seg selv og et virkemiddel. Impulser fra internasjonalt samarbeid kan ha en egenverdi for den enkelte ansatte og student. Samtidig bør samarbeidet føre til høyere kvalitet og styrket relevans i den faglige aktiviteten. Innenfor de fleste fagfelt er det vanskelig å se for seg at norske forskere vil kunne bli fremragende uten å delta i internasjonalt samarbeid. De store samfunnsutfordringene er internasjonale i sin natur. Hvis man samarbeider internasjonalt om forskning, faglig og kunstnerisk utviklingsarbeid og høyere utdanning for å møte disse utfordringene, vil også løsningene bli mer relevante. I dagens universitets- og høyskolelov er ikke internasjonalisering fremhevet spesielt, annet enn at § 1-3 bokstav h inneholder en forventning om at universiteter og høyskoler skal samarbeide med tilsvarende institusjoner i andre land. Utvalget mener det vil være hensiktsmessig å koble forventningene om samarbeid til de strategiske målene for internasjonalisering, slik at det skal bidra til kvalitet og relevans i den faglige virksomheten.
+
+### Effektiv ressursbruk og eksterne ressurser
+
+Den gjeldende universitets- og høyskoleloven slår fast i § 1-3 bokstav c at universiteter og høyskoler skal forvalte tilførte ressurser effektivt og aktivt søke tilføring av eksterne ressurser. Etter utvalgets vurdering er ikke effektiv ressursbruk en oppgave på linje med de andre som er lovfestet i paragrafen om institusjonenes virksomhet. Utvalget forstår det mer som en grunnleggende forutsetning for driften av virksomheten.
+
+Tilføring av eksterne ressurser er avgjørende for at universiteter og høyskoler skal realisere sine formål. For eksempel kanaliserer både Forskningsrådet og EU betydelige midler gjennom forskningsprogrammer med mål om å møte de store samfunnsutfordringene. Universiteter og høyskoler må delta i konkurransen om disse og andre eksterne midler. Utvalget mener det er unødvendig å lovfeste at institusjonene skal søke om eksterne midler. Fagmiljøene har egeninteresse av å hente inn ekstern finansiering for å kunne realisere sine ambisjoner og nå sine mål.
+
+Utvalget foreslår at kravet om at universiteter og høyskoler skal forvalte tilførte ressurser effektivt og aktivt søke tilføring av eksterne ressurser, tas ut av loven, siden dette oppfattes som unødvendig. Utvalget vil presisere at vi med dette forslaget ikke mener å redusere kravet til institusjonene på disse punktene. Det er et generelt krav til alle aktører som mottar statlige midler, at de skal bruke dem effektivt, jf. regelverk for økonomistyring i staten.[^171] Det er styrets ansvar å sørge for at tilførte ressurser forvaltes effektivt.
+
+# Museer og nasjonale fellesoppgaver
+
+\[:figur:fig13-1.jpg\]
+
+## Utvalgets forslag
+
 Utvalget foreslår følgende:
-• Dagens ordning med en egen lovbestemmelse
-om ansvar for utvikling og vedlikehold av
-norsk fagspråk videreføres.
-• En rett til å få eksamensoppgavene på den målformen studentene ønsker lovfestes.
 
-14.2 Gjeldende rett
-Universitets- og høyskoleloven § 1-7 pålegger
-alle universiteter og høyskoler et ansvar for å
-vedlikeholde og utvikle norsk fagspråk. Universiteter og høyskoler skal utarbeide individuelt tilpassede språkstrategier og bidra til at det blir
-utviklet termer både på bokmål og nynorsk,
-blant annet ved å sørge for at det utarbeides oppdaterte termlister med parallell terminologi.1
-Institusjonene har også ansvar for å vise at vedlikehold og utvikling av norsk fagspråk er en forpliktende del av undervisningen, og for å medvirke til at det blir utviklet norskspråklige læremidler for høyere utdanning. Institusjonene skal
-også drive formidling på norsk. Ansvaret for å
-utvikle og vedlikeholde norsk fagspråk skal ikke
-være ikke til hinder for at institusjonene bruker
-og utvikler fremmedspråklig kompetanse, for
-eksempel engelsk.
-Universitets- og høyskolerådet har en «språkpolitisk plattform», der rådet anbefaler at den
-enkelte institusjon utarbeider en språkstrategi.2
+- Bestemmelsen i dagens § 1-4 første ledd om at universiteter og høyskoler har et særlig ansvar for grunnforskning og forskerutdanning innenfor de områdene der de tildeler doktorgrad videreføres ikke.
 
-Denne må være utformet slik at den ivaretar og
-fremmer bruk av norsk språk, likevel slik at
-engelsk eller annet internasjonalt språk kan brukes der det er hensiktsmessig. Alle institusjonene
-har nå utviklet sine egne språkpolitiske retningslinjer.
-Tidligere lov om universiteter og høgskoler
-(1995)3 hadde en bestemmelse om at undervisningsspråket til vanlig skulle være norsk. Denne
-bestemmelsen ble tatt ut ved en revisjon av loven i
-2002.4 Begrunnelsen var at institusjonene som et
-ledd i internasjonalisering av utdanning og forskning skulle kunne bygge opp et bredere tilbud på
-et fremmedspråk, fortrinnsvis på engelsk. Samtidig ble det også understreket at det fremdeles
-ville være en viktig oppgave å bevare og videreutvikle norsk som fagspråk.
-Da dagens universitets- og høyskolelov ble
-vedtatt i 2005 ble det ikke lovfestet noe krav om
-norsk som fagspråk. Spørsmålet ble tatt opp i
-St.meld. nr. 35 (2007–2008) Mål og Meining. Ein
-heilskapleg norsk språkpolitikk. I Ot.prp. nr. 71
-(2008–2009) ble det å utvikle og holde levende et
-fullstendig vitenskapelig fagspråk på norsk holdt
-frem som en språkpolitisk utfordring. Utdanningsog forskningssektoren ble pekt på som strategisk
-viktig for å beholde norsk som fagspråk. I 2009 ble
+- Bestemmelsen i dagens § 1-4 andre ledd om enkelte institusjoners særskilte nasjonale ansvar for å bygge opp, drive og vedlikeholde museer med vitenskapelig samlinger og publikumsutstillinger videreføres.
 
-2
+- Bestemmelsen i § 1-4 tredje ledd om at departementet kan gi enkelte institusjoner et særskilt nasjonalt ansvar for forskning eller undervisning på bestemte fagområder videreføres ikke.
 
-3
-4
+- Bestemmelsen i dagens § 1-4 fjerde ledd om at departementet i samråd med en institusjon kan legge driften av en nasjonal fellesoppgave til institusjonen, uten at institusjonens egne styringsorganer har ansvaret for den faglige virksomheten videreføres, men med den justering at bestemmelsen ikke begrenses til «nasjonale» oppgaver.
 
-1
+## Gjeldende rett
 
-Se Ot.prp. nr. 71 (2008–2009) Om lov om endringer i lov 1.
-april 2005 nr. 15 om universiteter og høyskoler s. 19–20.
+Det følger av universitets- og høyskoleloven § 1-4 første ledd at universiteter og høyskoler har et særlig ansvar for grunnforskning og forskerutdanning innenfor områdene der de tildeler doktorgrad.
 
-Universitets- og høgskolerådet (UHR). Språkpolitisk plattform
-https://www.uhr.no/ressurser/sprakpolitisk-plattform hentet 16.1.2020.
-Lov 12. mai 1995 nr. 22 om universiteter og høgskoler (universitetsloven).
-Jf. Ot.prp. nr. 40 (2001–2002) ) Om lov om endringer i lov
-12. mai 1995 nr. 22 om universiteter og høgskoler og lov
-2. juli 1999 nr. 64 om helsepersonell.
+Universitets- og høyskoleloven § 1-4 andre ledd sier at Universitetet i Bergen, Universitetet i Oslo, Universitetet i Tromsø – Norges arktiske universitet, Norges teknisk-naturvitenskapelige universitet og Universitetet i Stavanger har et særskilt nasjonalt ansvar for å bygge opp, drive og vedlikeholde museer med vitenskapelige samlinger og publikumsutstillinger. Departementet kan gi nærmere forskrift om samarbeid og arbeidsdeling mellom universitetene på dette området.
 
-[Side 126]
+Departementet kan gi enkelte institusjoner et særskilt nasjonalt ansvar for forskning eller undervisning på bestemte fagområder, jf. universitets- og høyskoleloven § 1-4 tredje ledd. Departementet kan også gi enkelte institusjoner et særskilt nasjonalt ansvar for å bygge opp, drive og vedlikeholde forskningsbiblioteker, kunnskapsbanker og databaser samt museer med vitenskapelige samlinger og publikumsutstillinger innenfor særskilte fagområder.
 
-124
+Universitets- og høyskoleloven § 1-4 fjerde ledd sier videre at departementet i samråd med en institusjon kan legge driften av en nasjonal fellesoppgave til institusjonen, uten at institusjonens egne styringsorganer har ansvaret for den faglige virksomheten.
 
-NOU 2020: 3
+## Utvalgets vurderinger
 
-Kapittel 14
+Utvalget mener at bestemmelsen om at universiteter og høyskoler har et særlig ansvar for grunnforskning og forskerutdanning innenfor områdene der de tildeler doktorgrad, ikke kan ha særlig betydning i seg selv. Det er heller institusjonenes ambisjoner og strategier, og andre deler av regelverket, som i praksis påvirker hvilke områder institusjonene driver grunnforskning og forskerutdanning innenfor. For eksempel har forskrift om tilsyn med utdanningskvaliteten i høyere utdanning (studietilsynsforskriften)[^172] regler om akkreditering av studietilbud, inkludert doktorgrad. For alle utdanninger er det krav om at fagmiljøet skal drive forskning eller kunstnerisk utviklingsarbeid og faglig utviklingsarbeid, jf. studietilsynsforskriften § 2-3 femte ledd. Fagmiljøet skal kunne vise til dokumenterte resultater med en kvalitet og et omfang som er tilfredsstillende for studietilbudets innhold og nivå.
 
-Ny lov om universiteter og høyskoler
+Utvalgets vurdering er at institusjonenes grunnforskning og forskerutdanning følger av institusjonenes egne strategier og prioriteringer, og av regelverket for akkreditering av doktorgrader. Utvalget anser derfor at universitets- og høyskoleloven § 1-4 første ledd er unødvendig, og at bestemmelsen i tråd med målsettingen om å forenkle regelverket ikke bør videreføres i ny lov. Utvalget legger til grunn at dette ikke vil ha betydning for ansvaret institusjonene faktisk har for grunnforskning, jf. forslag til § 2-1.
 
-det derfor på nytt vedtatt å lovfeste ansvaret for
-språkutviklingen.5
-Samisk høgskole er en utdannings- og
-forskningsinstitusjon som rekrutterer studenter
-og ansatte fra hele Sápmi6. Samisk høgskole skal
-ivareta samiske språk i utdanning, forskning, formidling og administrasjon. Styret for høyskolen
-har i sin strategi pekt på at den innenfor sine
-rammer skal bidra til styrking og utvikling av det
-samiske samfunnet. Dette gjelder både næringer,
-språk og kultur. Samisk høgskole skal være
-ledende i Sápmi med hensyn til å utvikle solide
-samiskspråklige og samiske studier fra nybegynnernivå til doktorgradsnivå.
+Universitetene i Oslo, Bergen, Tromsø og Trondheim har over lang tid bygd opp vitenskapelige museer. Arkeologisk museum i Stavanger ble innlemmet i Universitetet i Stavanger fra 1. januar 2009. Universitets- og høyskoleloven § 1-4 andre ledd ble senere samme år endret for at den også skulle nevne Universitetet i Stavanger som ett av universitetene med ansvar for museum. Utvalget mener at universitets- og høyskolelovens bestemmelse om museene ikke er en forutsetning for institusjonenes satsing på museer; for eksempel har Universitetet i Agder naturmuseum og botanisk hage.
 
-14.3 Innspill fra Språkrådet og Noregs
-mållag
-Utvalget har mottatt innspill om språk fra Språkrådet og Noregs mållag.7 Språkrådet foreslår at
-lovbestemmelsen om norsk fagspråk endres.
-Språkrådet mener at
-[…] dagens lovbestemmelse om at universiteter og høgskoler har et ansvar for å vedlikeholde og videreutvikle norsk fagspråk, har hatt
-liten virkning, til tross for at forarbeidene
-uttrykkelig presiserer hva dette ansvaret innebærer. I løpet av de ti årene som er gått siden
-bestemmelsen ble innført, har bruken av
-engelsk i høyere utdanning og forskning fortsatt å øke. Derfor kan det være nødvendig å
-konkretisere meningsinnholdet i lovbestemmelsen og løfte den inn i formålsbestemmelsen
-(nåværende § 1-1) og bestemmelsen om institusjonenes virksomhet (nåværende § 1-3).
-Språkrådet anbefaler at lovutvalget vurderer å ta
-inn i lovteksten følgende punkter fra forarbeidene
-til nåværende § 1-7:
-– utforme lokale språkpolitiske retningslinjer
-– gjøre det tydelig at norsk fagspråk er en forpliktende del av undervisningen
-– medvirke til å utvikle norskspråklige læremidler for høyere utdanning
+Til tross for at universitets- og høyskoleloven § 1-4 andre ledd kan sies å ha liten rettslig betydning som forutsetning for at det drives forskningsbasert museumsvirksomhet, mener utvalget likevel at bestemmelsen i § 1-4 andre ledd skal videreføres. Ivaretakelse og oppbygging av og forsking på natur- og kulturhistoriske samlinger er av nasjonal og internasjonal verdi, og formidling til allmenheten av samlingene og forskningsresultater er viktig. Utvalget viser dessuten til at universitetsmuseene har særskilte oppgaver etter kulturminneloven[^173] med tilhørende forskrifter. Vi mener derfor at det er gode grunner til å videreføre § 1-4 andre ledd.
 
-5
+Utvalget mener det er unødvendig at loven har en bestemmelse om at departementet kan gi institusjoner særskilt nasjonalt ansvar, jf. universitets- og høyskoleloven § 1-4 tredje ledd. Tatt i betraktning at statlige universiteter og høyskoler skal være forvaltningsorganer, kan departementet uansett gi enkeltinstitusjoner et særlig ansvar gjennom andre styringsvirkemidler, for eksempel styringsdialog eller tildelinger over statsbudsjettet. Vi viser til at politikken for og styringen av universitets- og høyskolesektoren har lagt stor vekt på frivillig samarbeid, arbeidsdeling og konsentrasjon. Det har vært et mål at institusjonene selv skal komme frem til hensiktsmessige løsninger.[^174] Dette henger også sammen med utgangspunktet om institusjonenes autonomi der de selv skal beslutte hvilke satsingsområder de skal prioritere. Vi peker i denne sammenhengen på at Samisk høgskole har et spesielt og særlig ansvar overfor det samiske og samisk språklige. Samisk høgskole skal være en allsamisk høyskole, som også har ansvar for det samiske og samisk språklige i Sápmi. Samisk høgskole er således en særegen høyere utdanningsinstitusjon som departementet kan tildele et særlig ansvar gjennom ulike styringsvirkemidler som for eksempel styringsdialog eller tildelinger over statsbudsjettet.
 
-6
-7
+Departementet bør ikke gi private universiteter og høyskoler slikt ansvar uten at det er del av finansieringen over statsbudsjettet. Hvis det skulle være aktuelt å styre private universiteter og høyskoler på en slik måte, bør det altså gjøres med finansiering som styringsvirkemiddel. Vi foreslår derfor at universitets- og høyskoleloven § 1-4 tredje ledd ikke videreføres.
 
-Se Kgl. res 19. juni 2009 nr. 676 om Ikraftsetting av lov 19.
-juni 2009 nr. 96 om endringer i lov 1. april 2005 nr. 15 om
-universiteter og høyskoler.
-Sápmi er den tradisjonelle betegnelsen på samenes historiske bosetningsområde.
-Se innspill fra Språkrådet og Noregs mållag https://
-www.universitetsoghoyskolelovutvalget.no/innspill/mottatte-innspill/
-
-–
-
-bidra til at det blir utviklet nye fagtermer på
-norsk, både bokmål og nynorsk
-
-Videre foreslår Språkrådet at formuleringen
-«bidrar til å sikre norsk fagspråk på begge målformer» tas inn i lovens formålsbestemmelse, og at
-følgende formulering tas inn som nytt bokstavpunkt i bestemmelsen om institusjonenes virksomhet: «sørge for at norsk fagspråk på både bokmål
-og nynorsk blir utviklet, brukt og gjort tilgjengelig».
-Språkrådet begrunner forslaget sitt slik:
-Endringene Språkrådet foreslår, er en utdyping
-av meningsinnholdet i den nåværende bestemmelsen. Dersom endringene tas inn, vil systematisk språkarbeid bli et tema i overordnede
-strategier og styringsdokumenter. Endringene
-vil også kunne føre til en økt bevissthet om
-ansvaret for norsk fagspråk, og det vil komme
-tydeligere fram hvilke konkrete tiltak som kan
-gjennomføres for å oppfylle lovkravet.
-Språkrådet foreslår i tillegg at utvalget tydeliggjør
-merknaden til bestemmelsen.
-Noregs mållag er samstemt med Språkrådet
-om at det er viktig å skjerpe bestemmelsen om
-ansvar for norsk fagspråk. Mållaget ber om at hensynet til at Norge har to offisielle språk blir tillagt
-vekt. Mållaget skriver:
-Noregs Mållag meiner difor at formålsparagrafen må sikra norsk fagspråk på både bokmål og
-nynorsk. Den nye lova må slå klårt fast at høgare
-utdanning har ansvar for å ta vare på og vidareutvikla norsk fagspråk på begge målformer, og
-staten må setja i verk straffetiltak mot dei som
-saboterer gjennomføringa av denne lova.
-Noregs mållag skriver følgende om studentrettigheter og målform:
-Det er viktig å hegna om retten til å få eksamen
-på eige språk. I dag er dette sikra i ei forskrift
-til mållova og i nokre av eksamensforskriftene
-til einskilde UH-institusjonar. I dag er ikkje private høgskular omfatta av denne retten, det bør
-dei bli, og den nye lova må slå denne retten
-klårare fast. Høgare utdanningsinstitusjonar
-som ikkje gjev nynorskstudentane eksamen på
-nynorsk, skal møta sanksjonar.
-Om ein skal sikra norsk fagspråk, må studentane få rett på undervisning på norsk til og
-med bachelor, og dei må gjevast ein rett til å
-skriva bachelor- og masteroppgåver på norsk. I
-
-[Side 127]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-fag der lærebøker eller undervisning er på
-engelsk, skal det finnast norskspråkleg støttemateriell.»
-Språkrådet og Noregs mållag ber om at det innføres systemer for å belønne bruk av norsk som
-fagspråk.
-Noregs mållag kommenterer også studentsamskipnadsloven.8 Mållaget påpeker at studentsamskipnadene ikke er pålagt å tilrettelegge for
-bruk av begge målformer, gjennom eksempelvis
-tospråklige brosjyrer, skjemaer og så videre. Mållaget krever derfor
-[…] at lov om studentsamskipnader blir endra,
-slik at studentsamskipnadene lyt følgja mållova
-og blir rekna som nasjonale statsorgan. Alternativt må studentane sine språkrettar løysast
-gjennom andre vedtak som sikrar like gode
-språklege vilkår som mållova ville ha gjeve dei.
-
-14.4 Utvalgets vurderinger
-Utvalget mener at kravet om at høyere utdanningsinstitusjoner skal ha et særskilt og lovhjemlet ansvar for norsk som fagspråk, bør videreføres.
-Utvalget ser at det å bevare norsk som fagspråk
-og bidra til at fagspråket videreutvikles og brukes
-er en viktig oppgave for universiteter og høyskoler. Utvalget deler Språkrådets og Noregs mållags
-betraktning om at norsk som fagspråk er under
-press. Det å ha en levende norsk terminologi og
-levende norske faguttrykk er svært viktig på de
-fleste områder i samfunnet, blant annet for å
-kunne trekke forskning inn i norsk, offentlig
-debatt. Utvalget er enig i at kunnskap som tilegnes på en utdanningsinstitusjon vil spres og brukes også i andre sektorer. For å kunne kommunisere godt med elever, brukere, klienter, pasienter
-og så videre, må man ha et godt og dekkende ordforråd som alle som bruker norsk som daglig tale
-kan forstå. Dersom de som forsker og underviser
-ved universiteter og høyskoler, i stor grad går
-over til for eksempel engelske ord og uttrykk i
-medisin- og sykepleierutdanningen, vil det kunne
-påvirke hvordan helsepersonell kommuniserer
-med pasienter, noe som igjen kan føre til avstand
-og fremmedgjøring mellom behandlere og de som
-blir behandlet. Det samme gjelder på andre fagområder. Uten et godt utviklet og levende norsk
-fagspråk står dessuten deler av samfunnsdebatten
-8
-
-Lov 14. desember 2007 nr. 116 om studentsamskipnader
-(studentsamskipnadsloven).
-
-125
-
-Kapittel 14
-
-i fare for å forvitre. Det er derfor viktig at institusjonene som tilbyr høyere utdanning, legger til
-rette for og deltar aktivt i å utvikle norske faguttrykk og norsk terminologi som igjen kan brukes
-i andre deler av samfunnet. I et innlegg i Aftenposten 25. november 2019 viser Språkrådets direktør
-Åse Wetås til en undersøkelse der det blant annet
-vises at tre av fire studenter velger å skrive på
-norsk på eksamen, men en tredjedel av dem som
-brukte norsk i de undersøkte besvarelsene, hadde
-mange engelske faguttrykk i tekstene sine.9
-Ansvaret for å finne frem til relevante norske
-faguttrykk hvilte på studentene.
-Utvalget har merket seg Språkrådets forslag
-om at det tas inn bestemmelser om ansvar for fagspråk både i bestemmelsen om formål og i
-bestemmelsen om virkeområde, og at bestemmelsen blir presisert ved at punkter fra forarbeidene
-til gjeldende § 1-7 tas inn i loven.
-Utvalget ser at dette kan bidra til å tydeliggjøre
-og understreke ansvaret for norsk som fagspråk.
-Etter en vurdering av hva som er en hensiktsmessig struktur i loven, mener utvalget at bestemmelsen om fagspråk er best tjent med å stå for seg
-selv. Utvalget foreslår derfor å videreføre dagens
-ordning med å ha en bestemmelse om språk i en
-egen bestemmelse. Når det gjelder forslaget om å
-lovfeste enkelte av punktene fra forarbeidene til
-gjeldende § 1-7 ser utvalget det ikke som ønskelig
-å lage en så detaljert lovbestemmelse. Punktene
-som Språkrådet foreslår å ta inn i selve lovbestemmelsen, er tiltak eller virkemidler for å oppnå at
-norsk som fagspråk vinner terreng. Hvilke tiltak
-eller virkemidler som er nødvendige, kan variere
-over tid, og det er derfor utvalgets oppfatning at
-det er bedre at disse er nevnt i merknaden til
-bestemmelsen, ikke i selve lovteksten. Merknadene kan videreføres, og på den måten vil de fremdeles tjene som veileder i tolkningsspørsmål.
-Noregs mållag ønsker at det lovfestes at vedlikehold og videreutvikling av språket skal skje på
-begge målformer. Utvalget mener at denne formuleringen kan bidra til å presisere at vi har to offisielle, likestilte målformer i Norge. Utvalget ønsker
-likevel ikke at dette kravet lovfestes, fordi det kan
-tolkes som at det skal være et krav om at alt skriftlig materiale skal publiseres, eller tilgjengeliggjøres på andre måter, på begge målformer. Det
-må imidlertid være et ansvar for sektoren at
-begge målformer blir brukt. Utvalget foreslår at
-9
-
-Kristiansen, Marita. Språklige utfordringer i høyere utdanning. En undersøkelse av språkbruk i eksamensbesvarelser på
-bachelornivå. Hentet fra https://www.sprakradet.no/globalassets/vi-og-vart/rapporter-og-undersokelser/sprak-ieksamensbesvarelser_endelig.pdf.
-
-[Side 128]
-
-126
-
-Kapittel 14
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-institusjonene selv vurderer hvordan dette ansvaret best kan fordeles. Dette ansvaret kan presiseres i merknaden til bestemmelsen.
-Utvalget mener at det er hensiktsmessig å ta
-inn en bestemmelse om alle studenters rett til å få
-eksamensoppgavene på den målformen de ønsker
-(bokmål eller nynorsk ved norske eksamensoppgaver). Mållova10 gjelder ikke for private institusjoner. Det gjør heller ikke forskrift om målform i
-eksamensoppgåver.11 Studenter ved private insti10
-
-Lov 11. april 1980 nr. 5 om målbruk i offentleg teneste (mållova).
-11
-Forskrift 7. juli 1987 nr. 4148 om målform i eksamensoppgåver.
-
-tusjoner har derfor i dag ikke rett til å avlegge
-eksamen på enten bokmål eller nynorsk. Utvalget
-ønsker å endre dette og foreslår at en slik rett tas
-inn som et nytt andre ledd i bestemmelsen om
-språk.
-Utvalget foreslår å endre ordlyden i bestemmelsen. I stedet for at universiteter og høyskoler
-skal ha ansvar for «vedlikehold og videreutvikling
-av» norsk fagspråk foreslår utvalget at institusjonene skal ha ansvar for å «vedlikeholde og videreutvikle» norsk fagspråk. Endringen er i tråd med
-klarspråk-prinsipper og innebærer ingen innholdsmessig endring.
-
-[Side 129]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-127
-
-Kapittel 15
-
-Kapittel 15
-
-Akademisk frihet
-
-Figur 15.1
-
-15.1 Utvalgets forslag
-Utvalget foreslår følgende:
-• Å presisere i paragrafens første ledd at institusjonene også har ansvar for å verne om de
-ansattes utøvelse av den akademiske friheten.
-• Å videreføre øvrig innhold i dagens bestemmelse § 1-5 om faglig frihet og ansvar.
-
-15.2 Gjeldende rett
-Den akademiske friheten knyttet til universitetene
-og høyskolenes rett til selvbestemmelse i faglige
-spørsmål ble lovfestet i lov om universiteter og
-vitenskapelige høgskoler1 i 1989. Prinsippet om
-individuell akademisk frihet var tidligere å anse
-som ulovfestet rett. Underdalutvalget foreslo at
-individuell akademisk frihet for ansatte i undervisnings- og forskerstillinger skulle lovfestes.2 Dette
-ble fulgt opp av departementet. En lovfesting
-skulle klargjøre hva retten til akademisk frihet
-innebar, og tydeliggjøre roller og plikter for aktører på alle nivåer og slik styrke virksomheten ved
-universitetene og høyskolene.3
-Som en følge av dette ble individuell akademisk frihet lovfestet i universitets- og høyskoleloven § 1-5, som har denne ordlyden:
-
-1
-2
-3
-
-Lov 16. juni 1989 nr. 77 om universiteter og vitenskapelige
-høgskoler (universitetsloven).
-NOU 2006: 19 Akademisk frihet – Individuelle rettigheter og
-institusjonelle styringsbehov.
-Ot.prp. nr. 67 (2006–2007) Om lov om endring i lov 1. april
-2005 nr. 15 om universiteter og høyskoler punkt 5.3.1.
-
-(1) Universiteter og høyskoler skal fremme
-og verne akademisk frihet. Institusjonene har
-et ansvar for å sikre at undervisning, forskning
-og faglig og kunstnerisk utviklingsarbeid holder et høyt faglig nivå, og utøves i overensstemmelse med anerkjente vitenskapelige, kunstfaglige, pedagogiske og etiske prinsipper.
-(2) Universiteter og høyskoler har ellers
-rett til å utforme sitt eget faglige og verdimessige grunnlag innenfor de rammer som er fastsatt i eller i medhold av lov.
-(3) Universiteter og høyskoler kan ikke gis
-pålegg eller instrukser om
-a) læreinnholdet i undervisningen og innholdet i forskningen eller i det kunstneriske og
-faglige utviklingsarbeidet
-b) individuelle ansettelser eller utnevnelser.
-(4) Den som gir undervisning ved institusjon under denne lov har et selvstendig faglig
-ansvar for innhold og opplegg av denne innenfor de rammer som institusjonen fastsetter
-eller som følger av lov eller i medhold av lov.
-(5) Den som er ansatt i stilling hvor forskning eller faglig eller kunstnerisk utviklingsarbeid inngår i arbeidsoppgavene, har rett til å
-velge emne og metode for sin forskning eller sitt
-utviklingsarbeid innenfor de rammer som følger
-av ansettelsesforholdet eller særskilt avtale.
-(6) Universiteter og høyskoler skal sørge
-for åpenhet om resultater fra forskning eller
-faglig eller kunstnerisk utviklingsarbeid. Den
-som er ansatt i stilling som nevnt i femte ledd
-har rett til å offentliggjøre sine resultater og
-skal sørge for at slik offentliggjøring skjer. Det
-relevante forskningsgrunnlaget skal stilles til
-rådighet i overensstemmelse med god skikk på
-
-[Side 130]
-
-128
-
-NOU 2020: 3
-
-Kapittel 15
-
-Ny lov om universiteter og høyskoler
-
-vedkommende fagområde. Styret kan samtykke til utsatt offentliggjøring når legitime
-hensyn tilsier det. Det kan ikke avtales eller
-fastsettes varige begrensninger i retten til å
-offentliggjøre resultater utover det som følger
-av lov eller i medhold av lov.
-En lovfesting av institusjonenes plikt til å fremme
-og verne om den akademiske friheten skal styrke
-lovens formål om å legge til rette for at utdanningsinstitusjonene kan tilby utdanning og utføre
-forskning, og faglig og kunstnerisk utviklingsarbeid på høyt internasjonalt nivå.4 Når første ledd
-leses i sammenheng med femte ledd innebærer
-bestemmelsen en begrensning i arbeidsgivers rett
-til å instruere ansatte i faglige spørsmål.5 Underdalutvalget la til grunn at akademisk frihet på individnivå var nødvendig for at institusjonene skulle
-kunne utføre dette samfunnsoppdraget.6
-Den akademiske friheten innebærer at utdanningsinstitusjonene kan utforme sitt eget faglige
-og verdimessige grunnlag, innenfor rammer som
-følger av lov, og rammene som settes av plikten til
-å verne den akademiske friheten. Prinsippet om
-individuell akademisk frihet gjelder også for institusjonene som har et alternativt verdimessig eller
-faglig grunnlag. For den enkelte ansatte ved disse
-institusjonene kan det imidlertid være noen
-begrensninger i den akademiske friheten, for
-eksempel verdibegrunnede rammer for undervisningen. Begrensningene må være legitime og
-tydelig formidlet før ansettelse hvis den skal
-begrense den ansattes akademiske frihet.7
-Universiteter og høyskoler har en faglig autonomi, noe som innebærer at det ikke kan gis
-pålegg eller instrukser om læreinnholdet i undervisning og forskning. Dette er avgjørende for
-utdanningsinstitusjonenes faglige uavhengighet
-og for å sikre den akademiske friheten for den
-enkelte ansatte. Det kan heller ikke gis pålegg
-eller instrukser om individuelle ansettelser eller
-utnevnelser fra institusjonens eier eller overordnet myndighet. Bestemmelsen må ses opp mot
-lovbestemmelser og regelverk som regulerer særskilte prosedyrer for ansettelser, for eksempel i
-forsker- og undervisningsstillinger.8
-Den som underviser ved en institusjon under
-loven, har et selvstendig faglig ansvar for innhold
-4
-5
-6
-7
-8
-
-Ot.prp. nr. 67 (2006–2007) punkt 5.3.2.
-Ot.prp. nr. 67 (2006–2007) merknad til § 1-5.
-NOU 2006: 19 Akademisk frihet – Individuelle rettigheter og
-institusjonelle styringsbehov punkt. 6.2.2.
-Ot.prp. nr. 67 (2006–2007) merknad til § 1-5.
-Ot.prp. nr. 67 (2006–2007) punkt 7.3.
-
-og opplegg i undervisningen innenfor rammene
-som institusjonen fastsetter. Dette utgjør kjernen i
-den individuelle akademiske friheten. Undervisningen må imidlertid være egnet til å lede frem til
-den aktuelle eksamenen eller graden. Studieplanen kan også sette begrensninger for valgfriheten rundt undervisningen. Underviserne har
-uansett frihet når det gjelder fremstilling av materiale og synspunkter. Fagets kjerneinnhold vil
-være satt av den faglige ledelsen, men undervisere har et spillerom når det gjelder både fremstilling, perspektiver som fremheves, og det rent
-kildemessige, så lenge temaene i studieplanen blir
-ivaretatt.9 Videre kan undervisningsfriheten
-begrenses av lov eller i medhold av lov, for eksempel av nasjonale rammeplaner gitt av departementet, jf. universitets- og høyskoleloven § 3-3 nr. 2.
-Ansatte med arbeidsoppgaver hvor det inngår
-forskning, eller faglig eller kunstnerisk utviklingsarbeid, har rett til å velge emne og metode for sin
-forskning eller sitt utviklingsarbeid innenfor rammene som følger av ansettelsesforholdet eller særskilt avtale, jf. femte ledd i § 1-5. Retten til selv å
-velge metode for forskning er kjernen i den akademiske friheten på individnivå. Når den ansatte
-opptrer innenfor rammene av ansettelsesforholdet
-og særskilte avtaler, har vedkommende rett til å
-utføre sine forskningsoppgaver og sitt utviklingsarbeid uten inngrep fra avtaleparter eller oppdragsgivere. Bestemmelsen gjelder også for
-ansatte i kombinerte stillinger.10
-Ansatte i stillinger hvor forskning, faglig eller
-kunstnerisk utviklingsarbeid inngår i arbeidsoppgavene, har en lovfestet rett til å offentliggjøre
-resultatene sine, jf. § 1-5 sjette ledd. Offentliggjøringen skal oppfylle kravet om at forskningsresultater og metode skal kunne kritiseres.
-Offentliggjøring anses som en del av arbeidsforpliktelsen til ansatte i stilling med forskning eller
-utviklingsarbeid. Det relevante forskningsgrunnlaget må stilles til rådighet i tråd med god skikk på
-vedkommende fagområde.11 Lovfesting av retten
-til offentliggjøring skal være et vern mot sensur.
-Styret kan samtykke til utsatt offentliggjøring
-når legitime hensyn tilsier det, jf. sjette ledd fjerde
-setning. For eksempel kan styret gi slikt samtykke for å beskytte legitime patentrettslige eller
-konkurransemessige interesser eller for å ta hensyn til løpende forskningsarbeid. Styret i denne
-sammenhengen er enten styret selv, eller noen
-9
-10
-11
-
-Bernt, Jan Fridthjof. Universitets- og høyskoleloven av 2005 –
-med kommentarer. 2. utg. Bergen: Fagbokforlaget, 2016.
-Ot.prp. nr. 67 (2006–2007) punkt 8.3.
-Ot.prp. nr. 67 (2006–2007) punkt 9.1.
-
-[Side 131]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-129
-
-Kapittel 15
-
-Tabell 15.1 Frihet som formell rett til selvstyre og frihet som reelt handlingsrom
-Formell rett til selvstyre
-
-Reelt handlingsrom
-
-For institusjonen
-
-Ivaretatt gjennom universitets- og høyskolelovens § 1-5 første til tredje ledd
-
-Avhenger av ressurstilgang, styringspraksis og andre forhold som ikke er
-regulert i loven
-
-For individet
-
-Ivaretatt gjennom universitets- og høyskolelovens § 1-5 fjerde til sjette ledd
-
-Avhenger av blant annet ressurstilgang
-og styringspraksis
-
-styret har delegert sin avgjørelsesmyndighet til.
-En slik avgjørelse kan ikke fattes uten forskerens
-samtykke.12 Det kan ikke avtales eller fastsettes
-varige begrensninger i retten til å offentliggjøre
-resultater utover det som følger av lov eller i medhold av lov. Unntak kan eksempelvis gjøres der
-det foreligger regler om taushetsplikt, eller der
-det er behov for å verne forsvarshemmeligheter.
-
-15.3 Utvalgets vurderinger
-15.3.1 Underdalutvalget
-Bestemmelsen i universitets- og høyskoleloven
-§ 1-5 om institusjonenes akademiske frihet kom
-inn første gang i lov om universiteter og vitenskapelige høgskoler fra 1989. Dagens bestemmelse er et resultat av Underdalutvalgets utredning fra 2006 med tilhørende forslag om å lovfeste
-den til da ulovfestede beskyttelsen av akademisk
-frihet for den enkelte faglig ansatte.13 I sin NOU
-drøfter Underdalutvalget begrepet akademisk frihet, dets begrunnelse og dets legitime begrensninger, og utvalget drøfter utfordringer som kan
-sette den individuelle akademiske friheten under
-press. Utredningen tar også opp skjæringsflaten
-mellom styringsbehov, både statlige og institusjonelle, og den akademiske friheten til enkelte
-ansatte. Underdalutvalget får frem nyanser i
-betydningen av akademisk frihet for den ansattes
-forskjellige roller som forsker, underviser og formidler. Underdalutvalget legger til grunn at kjernen i akademisk frihet er som følger:
-
-Utvalget deler Underdalutvalgets forståelse av
-begrepet akademisk frihet, og utvalgets resonnementer og vurderinger. Lovutvalget vil imidlertid
-drøfte enkelte mulige utfordringer for den akademiske friheten som enten har blitt tydeligere eller
-har kommet til etter at Underdalutvalget leverte
-sin NOU. Det gjelder polarisert debattklima i samfunnet, undergraving av demokratiet i noen land,
-og åpen forskning. I tillegg har vi noen refleksjoner om forholdet mellom den vedvarende høye
-midlertidigheten i faglige stillinger og akademisk
-frihet og noen refleksjoner om studentenes akademiske frihet.
-
-15.3.2 Forholdet mellom den enkelte ansatte
-og institusjonen
-Etter lovfestingen av den individuelle akademiske friheten med virkning fra og med 2008 er
-både institusjonens og den enkelte faglige ansattes formelle rett til faglig selvstyre ivaretatt i universitets- og høyskoleloven. Det reelle handlingsrommet vil være avhengig av rammebetingelser som ressurstilgang og styringspraksis, se tabell 15.1.15
-Underdalutvalget fant at det først og fremst var
-mangel på midler som kunne innskrenke den
-enkelte forskers mulighet til å forfølge egne
-forskningsspørsmål:
-Så langt utvalgets informasjon rekker, synes
-overstyring som innebærer krav om at en forsker eller lærer skal gå på akkord med egne
-faglige vurderinger, eller ikke kunne offentliggjøre resultater av eget faglig arbeid, ikke
-å være noe stort problem ved norske universiteter og høyskoler. Uformelt press kan ta
-mange former og er langt vanskeligere å kartlegge. Det vi tr ygt kan si er at for de fleste forskere utgjør rammebetingelser som innsnevrer mulighetene til å forfølge egne ideer eller
-
-[…] the freedom to conduct research, teach,
-speak, and publish, subject to the norms and
-standards of scholarly inquiry, without interference or penalty, wherever the search for truth
-and understanding may lead.14
-12
-
-Ot.prp. nr. 67 (2006–2007) punkt 9.1.
-NOU 2006: 19.
-14
-Fra Global Colloquium of University Presidents (2005),
-sitert i NOU 2006: 19 s. 12.
-13
-
-15
-
-Tabellen er en oppdatering av tabell 2.1 i NOU 2006: 19 s.
-13.
-
-[Side 132]
-
-130
-
-NOU 2020: 3
-
-Kapittel 15
-
-Ny lov om universiteter og høyskoler
-
-drive aktiv forskning innenfor eget fagområde – i første rekke knapphet på forskningsmidler og tid – et betydelig større problem. I
-noen tilfeller kan slike begrensninger stille en
-forskers faglige integritet på prøve, eksempelvis ved å friste til uforsvarlige forenklinger
-av opplegget for en bestemt undersøkelse.
-Knapphet på forskningsmidler og tid virker
-likevel primært ved å kanalisere forskningsinnsats i retning av prioriterte områder
-og ved å innskrenke aktivitetsmulighetene
-for en forsker innenfor ikke-prioriterte områder.16
-Underdalutvalget konkluderer videre med at det
-ikke er entydig hvordan endringer i styring og
-finansiering virker inn på den individuelle akademiske friheten:
-Det skyldes at noen tiltak – spesielt de som
-kommer til uttrykk i spesifikke prioriteringer
-eller generelle insentivsystemer – innskrenker
-mulighetsrommet for noen, men utvider det for
-andre. Flertydigheten bunner også i at effektene av viktige reformer – blant annet i organisering, styring og ledelse av universiteter og
-høyskoler – i høy grad avhenger av hvilken
-utforming de gis lokalt og av den praksis de
-genererer.17
-Dette utvalget har ikke grunnlag for å si at
-rammebetingelsene er vesentlig annerledes i
-dag sammenlignet med situasjonen da Underdalutvalget la frem sin NOU. På makronivå fremstår finansieringsbildet stabilt, jf. boks 15.1. Om
-lag tre fjerdedeler av de samlede inntektene i
-universitets- og høyskolesektoren kommer stadig fra den direkte bevilgningen over statsbudsjettet. Andelene fra Norges forskningsråd
-og EU er de samme som i 2007. Tallene viser
-samtidig at systemet for forskning og utviklingsarbeid (FoU) er i vekst. Det har blitt både flere
-forskere og mer forskningsmidler. Midlene til
-den frie forskningen gjennom Norges forskningsråd har økt mer enn rådets samlede bevilgninger. Samtidig har tematiske prioriteringer
-blitt enda tydeligere, blant annet gjennom innføringen av langtidsplanen for forskning og
-høyere utdanning.
-I perioden siden Underdalutvalget har sektoren snarere blitt mindre avhengig av ekstern
-finansiering for å utføre forskning. Andelen FoU
-16
-17
-
-NOU 2006: 19 s. 25.
-NOU 2006: 19 s. 33.
-
-finansiert over grunnbevilgningen er høyere enn
-i 2007, og andelen næringslivsfinansiering er
-halvert i denne perioden. Dette bildet vil imidlertid kunne variere mye både mellom fagområder
-og mellom institusjoner. På fagområder der den
-eksterne finansieringen ved enkelte institusjoner
-utgjør halvparten eller mer av FoU-ressursene,
-for eksempel innenfor realfag og teknologi, kan
-ressursknapphet bli en alvorlig begrensning for
-de forskerne som ikke når opp i konkurransen
-om eksterne midler. Økt oppmerksomhet på
-vitenskapelig publisering i kombinasjon med
-bortfall av særavtalen om lønns- og arbeidsvilkår,
-har ført til mer skjevfordeling av FoU-tid. Mange
-institusjonsstyrer prioriterer i større grad enn
-tidligere å sette av ressurser sentralt til ulike satsinger og satsingsområder. Slike satsinger vil
-kunne utvide mulighetene for noen faglig ansatte
-og innskrenke dem for andre. Selv om noen tendenser har blitt tydeligere, mener lovutvalget
-derfor at Underdalutvalgets konklusjon fra 2006
-om at lokal praksis har stor betydning for hvordan endringer i finansiering og styring ved universiteter og høyskoler virker inn på den individuelle akademiske friheten, fortsatt er dekkende.
-
-15.3.3 Undergraving av demokratiet
-Universiteter og høyskoler er, i likhet med et
-uavhengig rettsvesen og frie medier, viktige
-bærebjelker i vårt demokratiske samfunn. Akademia fungerer best som kritisk korrektiv til
-myndighetene og andre maktbaser i samfunnet
-når friheten i faglige spørsmål er ivaretatt og blir
-respektert. Fra land som ligger relativt nær
-Norge, og som også er blant våre allierte, er det
-flere ferske eksempler på at både enkeltakademikere, fagområder og akademiske institusjoner
-utsettes for sanksjoner fra styresmaktene. I flere
-øst-europeiske land, blant annet Polen, Tsjekkia
-og Russland, er kjønnsstudier under press, blant
-annet finansielt, fordi fagområdet oppfattes å
-utfordre verdiene makthaverne står for. Lengst
-har det gått i Ungarn, som høsten 2018 la ned
-alle studieprogrammene i kjønnsstudier med den
-begrunnelsen at kjønnsstudier er en ideologi og
-ikke en vitenskap.18 Ungarske myndigheter har
-også tvunget det private Central European University (CEU) til å flytte store deler av virksom18
-
-Independent. Hungarian Prime Minister Viktor Orban bans
-gender studies programmes https://www.independent.co.uk/news/world/europe/hungary-bans-gender-studies-programmes-viktor-orban-central-european-universitybudapest-a8599796.html hentet 16.1.2020.
-
-[Side 133]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-131
-
-Kapittel 15
-
-Boks 15.1 Utviklingen i rammebetingelser ved universiteter og høyskoler
-Noen makrotall som kan belyse utviklingen i
-– Små driftsmidler øremerket til forskning
-rammebetingelser ved universiteter og høysko(Småforsk-midler)
-ble
-innført
-etter
-forskningsmeldingen i 20051. Øremerkingen
-ler siden Underdalutvalgets NOU ble lagt frem:
-ble fjernet for cirka ti år siden. Utvalget er
-– Andelen grunnbevilgning, det vil si den
-ikke kjent med at det har vært noen store
-direkte tildelingen fra Kunnskapsdepartesystematiske spørreundersøkelser i sektoren
-mentet, av totale inntekter var 74 prosent i
-om forskningsvilkårene de siste ti årene.
-2007 og 76 prosent i 2018. Andelen inntekter
-fra Norges forskningsråd og EU var hen– Bevilgninger til frittstående prosjekter i
-Forskningsrådet har vokst med 123 prosent
-holdsvis syv prosent og en prosent av de
-siden 2007. Dette er betydelig mer enn vektotale inntektene begge år. Andelen resultatbaserte midler innenfor grunnbevilgningen
-sten både i Forskningsrådets samlede bevilgninger og i bevilgningene til programmer.
-lå begge årene på i overkant 30 prosent. Med
-Andelen innvilgede søknader til frittstående
-andre ord har finansieringsmønsteret for sekprosjekter har gått litt opp, men er stadig fortoren vært stabilt i perioden, selv om det kan
-holdsvis lav. Langtidsplanen for forskning og
-være større endringer på enkelte institusjohøyere utdanning har vært førende for prioriner eller innenfor enkelte fagområder.
-– Andel FoU finansiert over grunnbevilgninteringer innenfor programmene etter at den
-ble lansert i 2014. Prosjektene i Forskningsgen har økt fra 63 prosent i 2007 til 70 prosent
-rådet har i gjennomsnitt blitt større i omfang,
-i 2017. Andelen FoU finansiert av næringsog det har blitt litt flere prosjekter.
-livet har falt fra drøye fire prosent til drøye to
-prosent i samme periode.
-– Den tidligere særavtalen om lønns- og
-– Antall ansatte i undervisnings- og forskerstilarbeidsvilkår ved universiteter og høyskoler
-bortfalt fra 1. august 2007. Det har ført til
-linger har økt med 30 prosent siden 2007.
-økende skjevfordeling av forskningstid ut fra
-Andelen førsteamanuenser og professorer i
-oppnådde resultater.
-disse stillingene har økt fra 49 prosent i 2007
-til 56 prosent i 2018. Det har med andre ord
-– Insentiver i finansieringssystemet videreblitt flere som konkurrerer om forskningsføres i stor grad i intern ressursfordeling ved
-midlene.
-institusjonene, i noen tilfeller ned på individ– Veksten i grunnbevilgningen har i stor grad
-nivå.
-kommet i form av bundne midler, i hovedsak
-1
-St.meld. nr. 20 (2004–2005) Vilje til forskning.
-øremerket til studieplasser og rekrutteringsstillinger. Avsetningene i sektoren har i gjenKilder: Forskningsrådet, Prosjektbanken; NIFU, FoU-statinomsnitt ligget rundt ti prosent som andel av
-stikkbanken; Tilstandsrapporter for høyere utdanning.
-statstilskuddet de siste årene, men variasjonen er stor mellom institusjonene.
-
-heten ut av landet.19 CEU er tungt finansiert av
-den ungarsk-amerikanske finansmannen og filantropen George Soros, som er kritisk til den sittende regjeringen i Ungarn. I Tyrkia fikk tusenvis av ansatte ved universiteter og høyskoler
-sparken etter kuppforsøket sommeren 2016 fordi
-det ble påstått at de var illojale mot makthaverne.20
-19
-
-The Guardian. The Central European University is the
-latest victim of the Trump era https://www.theguardian.com/commentisfree/2018/dec/04/central-europeanuniversity-latest-victim-trump-era hentet 16.1.2020.
-
-Retten til frihet i faglige spørsmål både for
-institusjonene og for den enkelte faglig ansatte er
-beskyttet i gjeldende universitets- og høyskolelov.
-Utvalget vil videreføre lovfestingen av akademisk
-frihet i forslaget til ny lov. Dette er en formell
-garanti for den akademiske friheten, men i gitte
-situasjoner er det likevel ingen reell beskyttelse.
-Folkevalgte regjeringer kan, som vi har sett,
-bevege seg i autoritær retning og legge føringer
-20
-
-Forskerforum. Frykter at Tyrkias akademia raseres
-https://www.forskerforum.no/de-onsker-en-islamsk-statda-ma-de-destruere-den-vi-har/ hentet 16.1.2020.
+Utvalget viser til at det er en rekke eksempler på at departementet har etablert fellesfunksjoner for universitets- og høyskolesektoren, og organisert disse etter bestemmelsen i universitets- og høyskoleloven § 1-4 fjerde ledd. For eksempel var BIBSYS og Samordna opptak i tillegg til Artsdatabanken organisert etter denne bestemmelsen. Artsdatabanken bidrar til kunnskap om naturmangfold, og er nå omorganisert til et forvaltningsorgan under Klima- og miljødepartementet. I dag er det ikke noen virksomheter som er organisert etter § 1-4 fjerde ledd. Utvalget mener imidlertid at det kan tenkes situasjoner der det er hensiktsmessig med slik organisering, for eksempel i oppstartsfasen for en ny og liten virksomhet. Av den grunn anbefaler utvalget at bestemmelsen i universitets- og høyskoleloven § 1-4 fjerde ledd videreføres i ny lov. For å ta høyde for de praktiske behovene som kan oppstå, bør bestemmelsen ikke begrenses til nasjonale fellesoppgaver, men omtale oppgaver generelt.

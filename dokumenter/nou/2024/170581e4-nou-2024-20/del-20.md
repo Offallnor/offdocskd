@@ -1,1199 +1,184 @@
-# NOU 2024: 20, del 20 av 24 (side 233–243)
+# NOU 2024: 20, del 20 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/170581e4-nou-2024-20.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-20/id3073644/
 - Original-PDF: https://www.regjeringen.no/contentassets/c252947398de4fb0aea9349f011eb410/no/pdfs/nou202420240020000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 30 figurer, 170 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 233]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-–
-–
-
-–
-
-–
-–
-
-–
-
-Bli med på å lage felles regler om skjermbruk i
-familien.
-Snakk med venner og klassen om felles regler
-og forventninger, for eksempel om å ikke
-sende hverandre meldinger etter et bestemt
-klokkeslett, eller å ikke forvente svar med en
-gang.
-Hvis du skal lære deg noe skikkelig, som når
-du skal øve til en prøve, er det lurt å ikke være
-på mobilen eller andre skjermer samtidig. Det
-tar lengre tid og du lærer mindre.
-Les på papir og legg vekk skjermene når du
-skal konsentrere deg om å lese en lengre tekst.
-Arbeid aktivt for å styrke dine digitale ferdigheter og digitale dømmekraft. Bruk gjerne
-offentlige nettressurser som ung.no og
-dubestemmer.no.
-Unngå bruk av skjerm før leggetid. Helst bør
-du ikke ha mobilen eller andre skjermer tilgjengelig når du skal sove. Men hvis du har
-mobilen med deg, husk å skru av varslinger.
-
-19.4 Hovedfunn i rapporten
-Barn og unge opplever mange gleder og positive
-sider ved sosiale medier og digitale spill. Mediene
-utgjør en vesentlig del av barn og unges sosiale
-liv, og de er i dag en viktig arena for å få og opprettholde vennskap. Sosiale medier kan være en
-kilde til underholdning, informasjon og inspirasjon, og en måte å holde kontakt med familie,
-venner og kjente. Dataspill er også blitt en viktig
-sosial arena. Selv om noen utvikler problemer, er
-dataspill først og fremst en viktig kilde til underholdning, mestring og fellesskap for barn og
-unge.
-Samtidig har de digitale plattformene noen
-negative sider. De største utfordringene vi har
-funnet i denne rapporten er:
-Å bruke skjermer kan gjøre det vanskeligere å sovne og
-gi dårligere søvn
-God søvn er veldig viktig for å lære og ha det bra
-både fysisk og psykisk. Å bruke skjermer på
-kvelden og natten kan gjøre det vanskeligere å
-sovne og kan gi dårligere søvn for barn og unge.
-Mange unge sier at de syntes det er vanskelig å
-legge bort mobilen om kvelden. De føler også på
-et press om å være tilgjengelige, noe som kan
-påvirke søvnen deres.
-
-231
-
-Kapittel 19
-
-Egenskaper ved sosiale medier kan føre til dårligere
-psykisk helse
-Sosiale medier kan være en av flere grunner til at
-flere ungdommer, og spesielt flere jenter, sliter
-psykisk. Vi ser at det er en sammenheng mellom
-bruk av sosiale medier og dårlig kroppsbilde og
-spiseforstyrrelser. Sosiale medier kan være et
-«høyrisikomiljø» som gjør det lettere å sammenligne seg med andre, og tro at noen kroppstyper
-er bedre enn andre. Sosiale medier kan også gjøre
-at barn og unge bruker mer tid enn de vil, føler
-mer stress, ser skadelig innhold og at mobbing
-blir verre.
-Det er sannsynligvis stor forskjell på hvordan
-ungdom blir påvirket av sosiale medier. Studier
-viser at jenter blir mer påvirket enn gutter og at
-ungdom fra familier med lavere inntekt kan være
-mer utsatt for negative effekter. Vi trenger flere
-og bedre forskningsstudier for å forstå bedre
-hvordan sosiale medier kan henge sammen med
-psykisk helse.
-Skjermbruk kan utfordre barn og unges konsentrasjon
-og læring
-Det er lett å bli distrahert av skjerm og vanskelig
-å ikke bruke mer tid enn man ønsker på skjerm,
-særlig når hjernen ikke er ferdig utviklet. To store
-utfordringer som barn og unge vi har snakket
-med nevner, er problemer med konsentrasjon og
-vanskeligheter med å legge bort skjermen. Måten
-dataspill og sosiale medier er laget på kan gjøre
-dem ekstra vanskelig å legge fra seg, for eksempel fordi autoavspilling og evig skrolling gir en
-uendelig strøm av innhold.
-Elever skal ha en variert skolehverdag og digital teknologi er en viktig del av dette. Digital teknologi kan hjelpe med læring og motivasjon, og
-lage undervisning som passer for hver elev. Men
-digital teknologi har også negative sider. Å ha
-mange ting på skjermen samtidig, som lyd, bilder,
-videoer og tekst kan distrahere, spesielt de yngste
-elevene.
-Å gjøre flere ting på en skjerm samtidig og
-hele tiden skifte fokus er også vanskelig. Å være
-på flere medier samtidig, for eksempel å bruke
-datamaskin og mobil, kan forstyrre læring. Det er
-også mer krevende å lese lange og vanskelige
-tekster på skjerm enn på papir.
-
-[Side 234]
-
-232
-
-NOU 2024: 20
-
-Kapittel 20
-
-Det digitale (i) livet
-
-Kapittel 20
-
-English summary
-
-Figur 20.1
-
-20.1 Introduction and background
-The Government appointed the Screen Use Committee to strengthen the evidence base on how children’s and adolescents’ screen use in kindergarten,
-school and leisure time affects their health, quality
-of life, learning, and upbringing. In areas where the
-committee identifies that particular challenges are
-sufficiently documented, the committee was tasked
-with providing input on policy development and
-advise on the need for measures.
-Most Norwegian children and adolescents
-enjoy a good quality of life. They thrive in school,
-at home, and with friends and are optimistic about
-the future. Nevertheless, some trends are pointing in the wrong direction. More young people are
-reporting poor mental health, in particular young
-girls. In schools, it is concerning that studies indicate a decline in skills such as reading, mathematics, science and understanding of democracy.
-In private and public discussions, many of the
-negative trends are being linked to children’s and
-adolescents’ increasing use of digital technology.
-The mandate of the Screen Use Committee highlights that the increase in screen use became even
-more pronounced during the COVID-19 pandemic, raising concerns about the impact on children’s health and quality of life.
-The Committee appreciates that it has been
-given a broad mandate which allows it to examine
-children’s and adolescents’ screen use in context.
-However, the Committee also emphasises that our
-understanding of children’s and adolescents’
-
-health, upbringing and well-being cannot be limited to screen use and engagement in digital arenas. Their lives also encompass a range of other
-arenas and aspects, alongside broader societal
-trends, all of which are of considerable significance.
-Moreover, a screen is not just a screen. In our
-work, the Committee has sought to bring nuance
-to the broader concept of screen use. How technology is used, what it is used for, when it is used,
-and with whom it is used is often just as important
-as the amount of time spent and the characteristics of the screens themselves. In some contexts,
-we have also included other forms of digital technology in the report, particularly in the chapters
-on kindergartens and schools.
-In kindergartens, digital technology is used
-for a variety of purposes and does not necessarily
-involve a screen. For example, some kindergartens use robots for play and exploration and
-smartphones to play music or audiobooks. Tablets
-are used to find instructions for beading and drawing or to create picture books that result in an analogue activity, even if the activity began with a
-screen. In schools, pupils’ and apprentices’ formative development and education are intended to
-enable them to navigate life and participate in
-working life and society. They are children when
-they enter the school system and formally adults,
-with the right to vote and the right to live independent lives, by the time they complete upper
-secondary education. The use of digital technology cannot be isolated from other factors that
-
-[Side 235]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-influence what and how pupils learn. A nuanced
-approach is therefore required when discussing
-screen use in kindergartens and schools.
-In their leisure time, children’s and adolescents’ digital lives are also intertwined with their
-analogue lives, and screen use must therefore be
-understood in a broader context. All our children
-and adolescents are unique individuals, and the
-Committee has been tasked with considering
-which children are particularly vulnerable, and
-which children may particularly benefit from various types of screen use. Children and adolescents
-are different but they have the same rights. The
-rights and best interests of the child have been
-central to the Committee’s work. Children’s rights
-to privacy, participation, freedom of expression
-and information, and protection from harmful content must be balanced when assessing measures
-that affect children’s and adolescents’ screen use.
-Today, screens are an integrated part of everyday life in most families, and children and adolescents are influenced by their parents’ screen use.
-Therefore, the Committee has chosen to include
-parental screen use as a topic, where relevant.
-Recently, the Government launched a Digitalisation Strategy with the stated goal of making
-Norway the most digitalised country in the world
-by 2030. For such an ambitious goal to be realistic,
-the population must trust that the desired
-development is safe, not least for our children and
-adolescents. We need digital competence and a
-broad, knowledge-based, nuanced and balanced
-debate about how digital life is affecting us and
-our children. The Screen Use Committee hopes
-that this report can contribute to such a debate.
-This is why the Committee’s most important contribution is a broad and comprehensive evidence
-base on how screen use can affect children’s
-health, quality of life, learning and upbringing.
-
-20.2 Ensuring balanced, safe and
-healthy screen use
-20.2.1 Screen use in leisure time
-In the first five years of life, the brain is developing
-rapidly and is particularly sensitive to influences.
-Research has found no evidence to suggest that
-screen use can have positive effects on the
-development of young children. Therefore, the
-Screen Use Committee believes it is important to
-strictly limit screen use for children under two
-years of age.
-For all children—and particularly for the
-youngest children—it is important to balance
-
-233
-
-Kapittel 20
-
-screen use with activities that promote development and learning. Children are not able to regulate their screen use and are dependent on parents and other adults to limit and quality assure
-such use. Evidence suggests that when children
-between the ages of two and five are exposed to
-screens, it may be beneficial for their mental
-health, development, and language acquisition
-that their parents use it together with them. In
-addition, the content should be age-appropriate.
-Although many parents worry about the consequences of screen use for their youngest children, research indicates that the biggest conflicts
-and dilemmas arise when children are of primary
-school age. This is a period when children
-become more independent as they often receive
-their own digital devices from school, and many
-receive their first mobile phone and access to
-social media.
-Almost all nine to eleven-year-old Norwegian
-children have their own mobile phone. At this age,
-many begin using social media daily and the vast
-majority play video games. As children mature
-into adolescence, they gradually develop self-regulation skills, along with increased responsibility
-and independence. However, it is still important to
-guide and support adolescents to ensure that
-screen use is balanced with sleep, schoolwork,
-physical activity, and spending time with friends
-and family.
-Children and adolescents experience many
-joys and positive aspects of social media and digital games. These digital media play a crucial role
-in children’s and adolescents’ social lives and are
-important arenas for making and maintaining
-friendships. Social media can be a source of entertainment, information, and inspiration, as well as
-an arena for keeping in touch with family, friends
-and acquaintances. Video games have also
-become an important social arena. Although some
-develop problems, video games are mainly an
-important source of entertainment, mastery and
-community for children and adolescents.
-However, there are also negative aspects associated with digital platforms. Scientific studies, as
-well as the Screen Use Committee’s conversations with children and adolecents, show that
-many feel that they spend more time on screens
-than they intended. Because social media is such
-an important social arena that is available 24
-hours a day, it can be hard to disengage. In addition to the social aspect, this relates to the characteristics of the technology. Whether it is a mobile
-phone, a website, a video game or a social media
-platform, the interface, characteristics and design
-
-[Side 236]
-
-234
-
-Kapittel 20
-
-NOU 2024: 20
-Det digitale (i) livet
-
-choices of the technology can influence the
-manner and extent of digital technology usage.
-Some of the characteristics of the platforms can
-be described as manipulative or addictive and
-may lead to spending more time or making different choices than intended.
-Algorithms within the social media platforms
-make them relevant and interesting to those who
-use them. At the same time, the recommendation
-algorithms can have adverse consequences by
-exposing children and adolescents to increasingly
-more extreme content related to a specific topic.
-In video games, the use of money and gambling
-elements can become a problem for young users.
-For example, mobile games that are available
-everywhere and around the clock, often involve
-addictive features and reward systems designed
-to encourage prolonged use. The combination of
-individual vulnerability, manipulative game
-characteristics and inadequate supervision by parents and other adults increases the risk of adolescents developing problem gaming and video game
-addiction.
-Most social media and video games offer
-parental control options that can ensure a safer
-user experience for children and adolescents, but
-only around half of Norwegian parents utilise
-these features. On social media, there are no
-effective age limits and existing restrictions can
-easily be bypassed . The content and functionality
-of the platforms have been inadequately regulated. Major legislative work has now been carried
-out in the EU to fill this legal void, and further
-efforts are underway both in the EU and nationally to impose stricter regulations on these platforms. The most significant measure at the EU
-level is the Digital Services Act (DSA), which
-imposes stricter requirements for the protection
-of children and risk assessment in proprietary
-platforms, and prohibits manipulative design. The
-DSA has not yet been implemented into Norwegian law. Work is also underway at the European
-level to enable effective and secure online verification of age, to better ensure that the age limits are
-followed to a greater extent.
-
-20.2.2 Screen use in kindergartens
-and schools
-Kindergarteners and pupils in schools have the
-right to a safe digital life. In kindergartens screen
-use is very limited, and when digital technology is
-used, it is usually as part of an activity and rarely
-as a relief for staff members. In line with the
-Framework Plan for Kindergartens, the Commit-
-
-tee believes that digital tools in kindergartens
-should always be used together with staff members and with educational intent. In general, the
-use of digital technology in kindergartens is a
-matter of appropriate use. Kindergarten staff
-members should be free to make good educational choices about the use of digital technology
-in line with the instructions of the Framework
-Plan. However, research has not found evidence
-of positive aspects of screen use for the development of the youngest children, and we know that
-children learn best from experiences in interaction with caring adults. Therefore, the Screen Use
-Committee believes it is important to strictly limit
-screen use for children under two years of age,
-including in kindergartens.
-In schools, the vast majority of pupils have
-access to their own digital devices for school use.
-Most schools use both digital and analogue teaching aids. In the course of the Committee’s work, it
-has become clear that there are major differences
-between the municipalities, both in how and to
-what extent digital technologies are used in
-schools, as well as the level of professional digital
-competence possessed by teachers in kindergartens and schools. The introduction of digital
-devices in schools also creates challenges for the
-cooperation between school and parents. Many
-parents find that they have little control over the
-devices their children bring home from school,
-and that it is difficult to follow up on their children’s schoolwork.
-The effect of screen use on learning is a key
-aspect of the Committee’s mandate. There is no
-basis for claiming that a specific tool produces
-better learning outcomes. Nevertheless, the existing evidence base indicates that digital technology
-can provide teachers with new opportunities in
-their instruction. Digital technology also provides
-opportunities for differentiated instruction and
-special adaptation without the pupil feeling stigmatised. This potential is not always realised and
-not all pupils have a genuine opportunity to participate on equal terms. Some studies also find that
-pupils with their own digital devices work more
-alone.
-The new curricula and the digital classroom
-impose significant demands on pupils, requiring
-them to take a more active role in their own learning. Pupils are no longer expected simply to read
-a chapter and complete the associated exercises.
-They must independently gather knowledge, navigate various teaching aids, sort the information,
-and present it in diverse ways that often combine
-digital, oral, written, and creative skills and forms
-
-[Side 237]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-of expression. It is challenging to engage in multiple activities on a screen simultaneously while
-continuously shifting focus. This is particularly
-challenging for younger children and may
-adversely impact concentration. Children and adolescents have also highlighted that screens can be
-challenging for concentration in their feedback to
-the Committee. It is important that teachers are
-aware of the high cognitive demands placed on
-pupils in today’s schools and that the characteristics of digital interfaces may adversely impact concentration and learning.
-The Committee believes that the recent public
-debate on screens in schools has been both necessary and sound. The fact that teachers and
-pupils are now more accustomed to and confident
-in the use of digital technologies is a good starting point for a more purposeful, educational,
-didactic, and critical use that strikes a good
-balance between digital and analogue teaching
-aids in schools.
-Many factors determine pupils’ learning, and
-most important is the role of the teacher. The
-Committee has great confidence in teachers’ and
-school leaders’ judgements when balancing the
-use of digital technology in schools. Teachers’
-methodological freedom should still be a fundamental principle in Norwegian schools. Teachers
-know their pupils best and are the most qualified
-to choose how the instruction should be organised. Therefore, it is important to support teachers in schools and kindergartens and enable them
-to make good, knowledge-based choices.
-
-20.2.3 Main challenges
-Our comprehensive evidens base is strong in
-some areas and weaker in others. The Committee
-finds that the biggest challenges related to screen
-use among children and adolescents are as follows:
-Screen use can disrupt sleep
-Sleeping well is an important prerequisite for
-learning and good mental and physical health. For
-young children, sleep is essential for normal
-development. Screen use in the evening and at
-night is associated with bedtime delay and poorer
-quality of sleep for children and adolescents.
-Children and adolescents have clearly expressed
-that they find it difficult to put away their mobile
-phones in the evening. Many adolescents also
-experience peer pressure to be available at all
-times, which may affect their sleep.
-
-235
-
-Kapittel 20
-
-Social media characteristics may contribute to poorer
-mental health
-There is a link between social media use and
-negative body image and symptoms of eating disorders. Social media can be characterised as a
-high-risk environment that reinforces the possibility of comparison and the impression that certain idealised body images are more attractive
-than others. The characteristics of social media
-can contribute to spending more time than one
-wants, amplify social comparison and experiences
-of stress, increase the risk of being exposed to
-harmful content, and increase the severity and
-extent of bullying.
-We need more and better studies to gain a
-deeper understanding of the correlations, but
-there are indications that use of social media may
-be one of several possible relevant factors in
-understanding the rise in mental health issues
-among adolescents. There is likely considerable
-individual variation in the extent to which adolescents are influenced by social media. For example, studies show that the correlation between
-time spent on social media and mental health
-issues is more pronounced among girls during the
-transition to puberty. It is also possible that adolescents from families with lower socio-economic
-status are more exposed to the adverse effects of
-social media, though further research is required
-to better understand this dynamic.
-Screen use can disrupt children’s and adolescents’
-concentration and learning
-Pupils should experience a varied school day,
-where digital technology plays an important role.
-Digital technology used for educational purposes
-can support learning and motivation, provide
-opportunities to differentiate instruction to the
-pupil’s academic level and include more pupils in
-the instruction. Nonetheless, digital technology
-has some characteristics that can adversely
-impact pupils’ learning and motivation. An abundance of information in the form of audio,
-imagery, video and text can distract pupils, especially the youngest ones. It is also cognitively challenging to stay focused when shifting between
-tabs, and scrolling can make it difficult to orient
-oneself and gain an overview.
-Children and adolescents are less capable of
-handling the disruptive and addictive nature of
-digital technology as their cognitive skills are not
-yet fully developed. The children and adolescents
-with whom the Committee has spoken mention,
-
-[Side 238]
-
-236
-
-Kapittel 20
-
-NOU 2024: 20
-Det digitale (i) livet
-
-in particular, challenges with their ability to concentrate and that it is difficult to put the screen
-away. The evidence base shows that it is challenging for children and adolescents to make choices
-where they have to consider longer-term consequences. Doing multiple activities on a screen at
-the same time, and constantly shifting focus, is
-particularly challenging for children and adolescents. In addition, media multitasking can interfere with learning. It is also more demanding to
-read longer and more complex texts on screen
-than on paper.
-
-20.3 The Committee’s assessments
-Among other things, children and adolescents
-need enough sleep, physical activity, time for
-relaxation and social interaction in order to live
-healthy and safe lives and develop normally. The
-use of technology must also take account of the
-fact that children and adolescents are not fully
-cognitively developed. Although all children and
-adolescents are affected differently by the digital
-technology in their lives, there are some aspects
-of screen use that we are concerned about, and
-these can be understood in context:
-A teenager who is already experiencing difficulties, and who is having trouble sleeping, scrolls
-on her mobile phone in bed. She is unable to put it
-down and does not get the sleep she needs. She
-might arrive at school tired. She is easily distracted, and the digital devices provide a quick
-escape to activities unrelated to her tasks. Perhaps she feels somewhat excluded in the class,
-both academically and socially. At the same time,
-social media is there all the time to show her
-others who are more popular, prettier and more
-successful than her. Algorithms can lead her
-down rabbit holes that, instead of helping her,
-convince her that something is wrong with her.
-Let us imagine a different scenario: The same
-teenager puts her mobile phone away at bedtime.
-She lies in bed with thoughts swirling around in
-her head, and she feels that she has no one to talk
-to about her painful thoughts. Perhaps she stays
-home the next day but manages to send a few
-messages and receives support from friends.
-Through social media, she finds others who are
-experiencing similar difficulties. Not all of the content she finds is helpful, but the algorithms are
-designed to show a variety of sources and content
-on different topics. They do not lead her down a
-rabbit hole of more extreme content. Instead, perhaps they elevate content from trusted sources.
-
-Some of the content she encounters thus provides
-her with information about good quality and safe
-healthcare, as well as other support resources.
-This is an attempt to illustrate that it is not
-necessarily the technology per se that causes the
-problems, but rather that the technology can
-have characteristics that can facilitate and amplify
-inherent problems. To gain a comprehensive
-overview of how the screen serves as a social
-arena in the lives of children and adolescents, we
-need to take seriously the many positive aspects
-of social media and video games. Adolescents do
-not spend time on these platforms merely
-because they are manipulated by technology
-companies or because of peer pressure. However,
-we must address the negative aspects of screen
-use to ensure that the positive aspects of utilising
-digital technology and participating in digital
-spaces are not lost.
-
-20.3.1 The Committee’s recommendations
-We must all take responsibility to help ensure that
-children’s and adolescents’ screen use is balanced, safe and healthy. The Committee wants to
-give responsibility and knowledge to the entire
-team around the child, as well as to children and
-adolescents themselves. Therefore, we make the
-following recommendations:
-The authorities must help ensure that digital
-platforms are safe to use, both at home and at
-school. The authorities must therefore establish
-frameworks for effectively supervising and holding accountable the digital platforms and the companies that own them. There is currently no evidence to suggest that the authorities should
-decide how many hours of screen time children
-and adolescents should spend, nor at which age
-they should be allowed to use social media.
-The platforms must provide safer and better
-services. They should set age limits for their
-services based on content and functionality, and
-adapt their services according to age. To achieve
-this, international cooperation is crucial. Efforts
-to implement the Digital Services Act into Norwegian law must be accelerated, and Norway should
-engage in relevant EU efforts.
-All adults, especially parents, need to be more
-involved in the digital aspects of children's and
-adolescents' lives. They must request and be
-receptive to knowledge so that they can regulate
-children’s screen use, guide adolescents and be
-good role models.
-Schools and kindergartens must adapt screen
-use according to age, maturity, and educational
-
-[Side 239]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-purpose. Teachers in kindergartens and schools
-must continue to be responsible for choosing
-what is best for their kindergarteners and pupils.
-The authorities and school owners are responsible
-for ensuring that teachers in schools have sufficient financial and practical opportunities to
-choose between digital and analogue teaching
-aids.
-The entire team around the child needs a digital competence boost. The authorities, school
-owners and kindergarten owners must ensure that
-all staff members in kindergartens and schools
-have sufficient professional digital competence.
-Schools and kindergartens must also improve
-communication with parents regarding digital
-choices. We encourage schools to help ensure
-that parents have sufficient digital competence to
-monitor their children’s digital school life.
-Children and adolescents must be provided
-with the opportunities to develop the digital competence they need, along with genuine opportunities for participation and involvement, while
-also receiving the necessary protection and support on digital platforms. According to maturity
-and age, and on age-appropriate platforms, children and adolescents should be given the opportunity to take responsibility for their own screen
-use. They should also contribute to developing
-screen rules at home, in the classroom and
-among friends.
-Last but not least: None of this is possible without knowledge. We need more research, and
-more nuanced research, on children and adolescents’ use of digital media. Knowledge should be
-communicated effectively, and the authorities
-should provide consistent advice to the population. Technological development is advancing rapidly—and increasingly faster. Digital technology
-also permeates society at large, and technological
-changes can have an enormous impact at both the
-societal and individual levels. Therefore, structured, comprehensive, and continuous efforts are
-required to address issues related to the digitalisation of society.
-Our recommendations to authorities, kindergartens and schools are as follows:
-
-•
-
-•
-
-•
-
-•
-
-•
-
-The Committee urges the authorities to prioritise the implementation of the EU Digital
-Services Act (DSA) into Norwegian law,
-emphasising the importance of protecting
-children and adolescents from harmful content
-
-and design, as well as ensuring effective
-enforcement in the follow-up of the legislation.
-Norwegian authorities should incite international and effective regulation of the addictive
-characteristics of social media and gambling
-elements in video games.
-The Committee does not support a government-imposed age limit for all social media.
-Platforms should set age limits for their services, based on an assessment of the content
-and functionality of the service. The authorities
-should effectively monitor compliance with age
-limits and age-appropriate services, with the
-possibility of penalties for non-compliance.
-The default settings of the platforms should be
-set to the highest safety level, and parental control settings should be easily accessible and
-easy to comprehend.
-The Committee supports the Government’s
-efforts to investigate how to ensure safe and
-genuine age verification on the platforms.
-Ensuring that the rights of children and adolescents are safeguarded is key to this endeavour.
-Children's rights to privacy, participation, and
-protection must be balanced.
-The platforms need to be more transparent and
-share data with authorities and researchers.
-This is important in order to gain more knowledge of how the characteristics of the platforms
-actually function and their implications for
-users. This is particularly important for services that are also used by children and adolescents.
-
-Balance and safe digital environments in kindergartens and schools
-Recommendations to the authorities
-
-•
-
-•
-
-Age-appropriate and safe social media and
-video games
-
-•
-
-237
-
-Kapittel 20
-
-•
-
-The Committee supports the measures in the
-Government’s Strategy for digital competence
-and infrastructure in kindergartens and schools.
-The strategy should be followed up as quickly
-as possible and sufficient resources should be
-allocated to follow up the action points.
-The Government should consider whether the
-current level of the total grant for teaching aids
-in schools is sufficient to offer pupils a varied
-education and teachers genuine methodological freedom to choose between analogue and
-digital teaching aids.
-The Committee supports the Government’s
-reading strategy Sammen om lesing [Together
-for Reading] and measures to enhance reading
-instruction in schools, to strengthen school
-libraries and to strike a better balance between
-
-[Side 240]
-
-238
-
-NOU 2024: 20
-
-Kapittel 20
-
-Det digitale (i) livet
-
-screens and printed books in schools. The
-Committee also supports the initiative to establish a new grant scheme to help increase
-cooperation between kindergartens and public
-libraries so that kindergarteners have better
-access to printed books.
-Recommendations for schools, kindergartens, and
-their owners
-
-•
-
-•
-•
-•
-•
-•
-•
-•
-
-Ensure a good balance between digital technologies and printed books in schools and kindergartens. Printed books are particularly important when pupils are required to engage with
-substantial amounts of text.
-Set aside sufficient time to read longer continuous texts in schools and for reading aloud
-in kindergartens.
-Minimise digital distractions during school
-hours and help pupils regulate screen use.
-Avoid screen use during meals.
-Consider the pupils’ ergonomics when using
-digital devices and tools, such as posture,
-screen size and access to keyboard and mouse.
-Take responsibility for guiding parents in the
-use of digital solutions that pupils use in their
-schoolwork.
-Ensure that digital devices have parental controls if the youngest pupils will be taking them
-home.
-Staff members in schools and kindergartens
-should be aware that their own screen use can
-interfere with play and learning, and that they
-should limit the use of mobile phones and
-other digital devices when they interact with
-the children.
-
-Better digital competence
-Recommendations to the authorities
-
-•
-
-•
-•
-•
-
-There should be a requirement teacher students to develop professional digital competence in all teacher training programmes.
-Teacher training programmes should emphasise professional digital competence rather
-than the use of specific digital tools.
-A framework for professional digital competence in kindergartens should be developed.
-Norway should continue to participate in international studies that measure digital skills.
-The Committee supports the Government’s
-intention to evaluate the framework for digital
-skills as basic skills in the curriculum, to clarify
-what should be included in pupils’ digital competence education.
-
-•
-
-The authorities should provide consistent guidance on children, adolescents and screen use,
-directed at various groups. The Committee
-supports the work of the DigiUng collaboration
-and the Government’s investment in ung.no
-and foreldrehverdag.no.
-
-Recommendations for schools, kindergartens, and
-their owners
-
-•
-
-•
-•
-•
-
-Establish common routines and strategies for
-developing pupils’ basic digital competence,
-ensuring that these are in place early in their
-schooling.
-Work to ensure that staff members in kindergartens and schools strengthen their professional digital competence.
-Include all staff members—not just teachers—
-when making plans for digital competence
-development.
-Help to ensure that parents of pupils have sufficient digital competence to monitor their
-children’s digital school day and that parents of
-kindergarteners are informed about the
-kindergarten’s digital practices.
-
-Nuanced knowledge and comprehensive policy
-development
-
-•
-
-•
-
-The Committee recommends that measures
-involving major changes to regulation or frameworks for children’s and adolescents’ screen
-use, such as mobile phone restrictions in
-schools, be subject to scientific evaluation.
-There is a need for continuous and nuanced
-research on screen use and children and adolescents. There is a particular need for:
-• more and better studies with different
-designs that can elucidate and demonstrate
-causal relationships;
-• studies of interventions and measures
-aimed at children and adolescents;
-• relevant research that is informed by children’s and adolescents’ perspectives (user
-involvement);
-• knowledge of how digital technology is
-incorporated into educational and didactic
-contexts in schools and kindergartens,
-rather than investigating the potential of
-the technology;
-• more interdisciplinary research that
-makes it possible to measure how activities with different materials and technologies support children’s development
-and needs;
-
-[Side 241]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-more quantitative research with designs
-that make it possible to draw conclusions
-on the effect of different modalities and
-interfaces (print and digital) on different
-aspects of learning, such as concentration
-and endurance;
-• interdisciplinary
-and
-multimethod
-research on the correlations between
-learning and the use of different types of
-teaching aids, both analogue and digital,
-over a longer period of time;
-• knowledge of how different printed and digital teaching aids have changed over time;
-and
-• knowledge of educational opportunities
-and challenges related to artificial intelligence, and the significance thereof for
-children’s and adolescents’ skills (including
-writing skills).
-The Committee supports the Norwegian
-Directorate for Education and Training’s
-research programme on digitalisation in
-kindergartens and schools.
-The Committee supports the Norwegian
-Media Authority’s pilot project aimed at exploring how analyses of algorithm-driven platforms
-can be conducted to gain better insight into the
-types of content children and adolescents are
-exposed to on social media.
-The Committee recommends that the Government investigate whether a permanent structure should be established that monitors technology development, maps research, evaluates
-measures and guides the authorities and the
-population in the use of technology.
-
-•
-
-•
-
-•
-
-•
-
-Advice on screen use for children under the age
-of two
-
-•
-•
-•
-
-Screen use is unlikely to be positive for a child’s
-development during the first two years of life
-and should therefore be strictly limited.
-Adults should limit their own screen use when
-interacting with children and reduce notifications on their own devices.
-Televisions and other large screens should not
-be left on in the background where small
-children are present.
-
-Advice on screen use for children ages two to five
-
-•
-
-•
-
-•
-
-•
-•
-
-20.3.2 The Committee’s advice on screen use
-in different age groups
-Based on the comprehensive evidence base, the
-Committee has prepared advice that can contribute to balanced, safe and healthy screen use.
-What this means in practice will vary throughout
-childhood and adolescence and the Committee
-has therefore prepared specific advice on screen
-use in different age groups.
-The Screen Use Committee’s advice mainly
-relates to screen use that does not take place in an
-educational context. The advice is mainly aimed at
-parents and other adults who can help ensure that
-children’s and adolescents’ screen use is balanced, safe and healthy. The advice may also be relevant to teachers in schools and kindergartens and
-other educational staff members, in which case
-this is specified.
-
-239
-
-Kapittel 20
-
-Screen use needs to be balanced with activities
-that promote development and learning, and
-must not be at the expense of sleep, meals,
-play, physical activity and socialising with other
-children and adults.
-Screen use should not constiute a significant
-part of children's waking leisure time. What
-children see and do on screens should be
-appropriate for their age and stage of development and should preferably take place in the
-company of adults.
-All adults should limit their own screen use
-when they are around children and reduce
-notifications on their own devices. Televisions
-and other large screens should not be left on in
-the background where small children are
-present.
-Children should avoid using screens before
-bedtime, and they should not have access to
-digital devices when they are going to sleep.
-Avoid screens during meals at home, at kindergarten, in school, and the out-of-school-hours
-care.
-
-Advice on screen use for children ages 6 to 12
-
-•
-
-•
-
-•
-•
-
-Screen use must be part of a day that allows
-enough time for sleep, meals, play, schoolwork,
-physical activity and socialising with friends
-and family.
-There should be screen-free zones in children’s lives both at school and at home, for
-example related to sleep, meals and shared
-activities.
-Parents, school staff members and other adults
-should help children achieve a good balance
-between screen use and other activities.
-Parents should be involved in and aware of what
-their children are doing and who they interact
-with on digital platforms. What children see and
-
-[Side 242]
-
-240
-
-NOU 2024: 20
-
-Kapittel 20
-
-•
-
-•
-
-•
-
-•
-•
-•
-
-•
-
-•
-
-Det digitale (i) livet
-
-do on screens should be appropriate for their
-age and stage of development.
-Parents should use parental control settings
-and reduce notifications on the devices their
-children use. Age limits for digital services and
-video games should generally be observed.
-Parental cooperation organised by the school
-or the Parents’ Working Committee should be
-used to prepare common rules for screen use
-during leisure time and to establish ‘smart
-screen time rules’ for online behaviour.
-Parents should be involved in their child’s digital school life and familiarise themselves with
-their digital school devices and digital learning
-resources.
-Children should avoid using screens before
-bedtime and should not have access to digital
-devices when they are going to sleep.
-Adults should be good role models and should,
-among other things, limit their own screen use
-when they interact with children.
-Parents should include their children in creating family house rules for screen use and
-explain to them why balance is important in
-everyday life.
-Children should be supported in concentrating
-on a single task and using only one screen at a
-time. This also applies at school. Reading longer texts is best done on paper and screens
-should be put away when children are focusing
-on a longer text.
-Screen use during meals at home, at school
-and at the out-of-school-hours care (SFO)
-should be avoided.
-
-Advice on screen use for adolescents ages 13 to 19
-
-•
-
-•
-•
-•
-•
-•
-
-Screen use needs to be part of a well-balanced
-life, with sufficient time for sleep, meals,
-schoolwork, physical activity, and time spent
-with friends and family.
-There should be screen-free zones in teens
-lives both at school and at home, for example
-related to sleep, meals and shared activities.
-Adults should be good role models and ensure
-that teenagers develop good screen use habits
-in the family, with friends and at school.
-Adults should provide support and contribute
-to teenagers gaining the knowledge they need
-to regulate their own screen use.
-Parents should include their teens in creating
-family house rules for screen use and explain to
-them why balance is important in everyday life.
-The age limits for apps and services should be
-observed. Adults should guide teenagers so
-
-•
-
-•
-•
-
-•
-
-•
-
-that their screen time activities are appropriate
-for their age and stage of development.
-Parents and other adults should be involved in
-and talk to teens about what they do on digital
-platforms. Parental control settings should be
-enabled for the youngest teenagers and these
-settings should reduce notifications on everyone’s devices.
-Parents and other adults should be good role
-models and contribute to knowledge about
-online behaviour.
-Parents should be involved in their teenager’s
-digital school life and familiarise themselves
-with their digital school devices and digital
-learning resources.
-Parents, school staff members and other
-adults should guide teens to engage with only
-one screen activity at a time when they need to
-concentrate. Reading longer texts is best done
-on paper and screens should be put away
-when adolescents are focusing on a longer
-text.
-Parental cooperation organised by the school
-or the Parents’ Working Committee should be
-used to establish ‘smart screen time rules’ for
-online behaviour.
-
-20.3.3 Advice on screen use to children and
-adolescents
-Advice to those between the ages of 6 and 12:
-
-•
-
-•
-•
-
-•
-•
-
-•
-•
-
-Engage in a variety of activities during the day.
-Remember that you need to use your body, get
-enough sleep, eat, and do things together with
-your friends and family.
-If you are going to use a screen, remember to
-take breaks. Give your eyes a rest and stretch
-your body.
-Tablets, mobile phones, and TVs can be fun
-and entertaining, but screens can also be
-designed to keep you engaged, making it difficult to stop. Get help from your parents to
-adjust the settings to prevent you from spending more time than you intended.
-Participate in creating the family house rules
-for screen use.
-Talk to your parents about what you are doing
-on the screen, and tell adults about it if you see
-or experience something that frightens you or
-that you find unpleasant.
-Follow the age limits on apps and games.
-During screen time, try to stick to one thing—
-and one screen—at a time. This makes it easier
-to focus and reduces fatigue.
-
-[Side 243]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-•
-
-•
-•
-
-Do not eat in front of the screen. It is better to
-talk to the people around you and without a
-screen it is easier to concentrate on your food
-and recognise when you are full.
-Read on paper and put the screens away when
-you need to concentrate on longer reading.
-Avoid screens right before bedtime. Screens
-can make it harder to fall asleep and can reduce
-the quality of sleep.
-
-Advice to those between the ages of 13 and 19:
-
-•
-•
-•
-•
-
-•
-
-Screen use needs to be part of a well-balanced
-life, with enough sleep, time with friends and
-family and physical activity.
-When using a screen – remember to take
-breaks. Give your eyes a rest and stretch your
-body.
-Reduce notifications, follow the age limits, and
-use the security settings in the apps and games
-you use.
-Keep in mind that algorithm-driven platforms
-and apps can influence what you do, what you
-see and how you feel. You can change your
-settings to influence what content you are
-exposed to, and you can unfollow profiles that
-affects you negatively.
-Tell an adult if you experience something
-frightening or unpleasant online.
-
-•
-
-•
-•
-
-•
-
-•
-•
-
-•
-
-241
-
-Kapittel 20
-
-Make sure to have screen-free zones in everyday life both at school and at home, for example, related to sleep, meals and shared activities with friends or family.
-Participate in creating family house rules for
-screen use.
-Talk to your friends and classmates about
-common rules and expectations, such as not
-messaging each other after a certain time or
-not expecting an immediate reply.
-If you are going to learn something properly,
-such as practising for a test, it is a good idea to
-put away your mobile phone or other screens
-while studying. Studying while using screens
-takes longer and you learn less.
-Read on paper and put screens away when you
-need to concentrate on reading a longer text.
-Be proactive in strengthening your digital
-skills and digital literacy. Make use of public
-online resources such as ung.no and
-dubestemmer.no.
-Avoid using screens before bedtime. Preferably, your mobile phone and other screens
-should not be accessible when you are going to
-sleep. However, if you need to keep your
-mobile phone nearby, be sure to turn off notifications.
+## Bedre digital kompetanse
+
+Skjermbrukutvalgets ekspertgruppe av ungdom har pekt på at for lav digital kompetanse er et hovedproblem – både hos barn og unge selv, foreldre, lærere og IKT-ansvarlige på skolene, og hos myndighetene. Også Elevorganisasjonen mener at mange lærere har for lav digital kompetanse i skolen i dag. De aller fleste organisasjonene i referansegruppen peker på at å heve den profesjonsfaglig digitale kompetansen hos lærerne, og øke den digitale kompetansen hos elevene og andre ansatte i skolen, er svært viktig for å bruke digitale teknologier på en best mulig måte.
+
+I hovedsak er det måten den digitale teknologien brukes på, som avgjør hvordan den bidrar til elevenes læring. Å utnytte potensialet i digitale enheter og læremidler i skolen krever noe nytt av skolen, lærerne, elevene og undervisningen. Det samme gjør de nye læreplanene som krever en mer aktiv og utforskende elevrolle. I dag er det store kompetanseforskjeller mellom lærere, og de har ulike muligheter til å velge og tilpasse læremidler etter den pedagogiske praksisen. Disse forskjellene vil kunne gi utslag i kvaliteten på opplæringen og bruken av skjerm. En rekke faktorer må spille sammen for å legge til rette for elevens læring med digital teknologi.
+
+På fritiden vil det også være forskjeller i kompetanse til de voksne som barn har rundt seg og i hvilken grad de kan bidra med veiledning og støtte. Som vi belyste i kapittel 6 om digitale dilemmaer i familiene, er det forskjeller i hvordan foreldre regulerer og engasjerer seg i barnas skjermbruk.
+
+For at barn og unge skal få mer balansert, sunn og trygg skjermbruk, trengs det et løft i den digitale kompetansen til hele laget rundt barnet, og hos barn og unge selv. I det følgende går utvalget gjennom tiltak som kan bidra til dette.
+
+### En tydelig beskrivelse av elevenes digitale kompetanse i skolen
+
+For at skolen skal gjøre elevene godt rustet til å møte dagens og fremtidens samfunn, må de få digital kompetanse gjennom skolen. Skolen er den eneste arenaen hvor alle barn og unge er. Det gjør også skolens opplæring i digital kompetanse til en viktig arena for sosial utjevning. Digitale ferdigheter er en av fem grunnleggende ferdigheter i skolen, sammen med regning, lesing, skriving og muntlige ferdigheter. Men digitale ferdigheter befinner seg på et annet nivå enn de andre grunnleggende ferdighetene, ettersom elevene både leser, skriver, regner og uttrykker seg muntlig gjennom digital teknologi. Som kunnskapsgrunnlaget viser, er digital kompetanse godt og detaljert beskrevet gjennom læreplanene i fag. Innholdet i digitale ferdigheter kan imidlertid oppleves som komplekst og uoversiktlig.
+
+Nyere forskning fra evaluering av nye læreplaner viser at det er store variasjoner i elevenes digitale kompetanse, og at elevene mister mye undervisningstid fordi de trenger bistand i enkle oppgaver som å finne igjen dokumenter og lagre i rett mappe. Samtidig har mange elever svært avansert digital kompetanse, noe trolig fra fritidsbruk. Også lærere har variert grad av digital kompetanse og dermed ulik mulighet til å følge opp elevene.
+
+Flere av lærerorganisasjonene uttrykker at de digitale ferdighetene er for utydelig beskrevet i læreplanverket. I motsetning til de andre grunnleggende ferdighetene har ikke digitale ferdigheter et «hjemmefag» og måles heller ikke i nasjonale prøver. Dette gjør at det varierer hvilket ansvar lærere opplever at de har for å utvikle elevens digitale kompetanse. Dette kan skape usikkerhet for elever, lærere og foreldre.
+
+I utvalgets arbeid har det dukket opp flere forslag til tiltak for å forbedre elevenes digitale kompetanse. Ett av dem har vært å opprette et nytt teknologifag i skolen. Et slikt fag kan gi bedre mulighet til å jobbe tverrfaglig og praktisk med teknologi og å gjøre digital kompetanse mer konkret i opplæringen. I mange europeiske land er teknologi et eget fag. Utvalgets ekspertgruppe av ungdom er positive til et teknologifag. De mener at det ikke trenger å være et stort fag eller et fast fag på hvert trinn. Det største hinderet for å foreslå et nytt fag i skolen er stofftrengsel. Hvis noe nytt skal inn, må noe ut. Hvilket fag skulle i så fall fått færre timer? Utvalgets ekspertgruppe av ungdom ønsker ikke at et slikt fag skal gå på bekostning av andre «småfag» som ofte er praktiske og som de liker godt. Et eget teknologifag vil kreve at læreplanen revideres, og at det utdannes lærere til å undervise i faget. Et eget fag kan dessuten føre til mer silotenkning rundt digital kompetanse, i motsetning til intensjonen om kompetansen er viktig i de fleste fag. Skole- og lærerorganisasjonene og KS er stort sett samstemte i at et eget teknologifag ikke er en god ide, særlig med tanke på at den gjeldende læreplanen er ny, og at det tar tid å innføre endringer. Utvalget mener derfor at dette ikke er riktig tidspunkt for å foreslå et eget teknologifag i skolen, men at det kan vurderes på lengre sikt, for eksempel i forbindelse med neste revisjon av læreplanen. Et teknologifag bør i så fall være et praktisk fag, og ikke gå på bekostning av elevenes utvikling av digital kompetanse i de andre fagene.
+
+Et annet alternativ er å endre læreplanen slik at ett fag har et særskilt ansvar for den grunnleggende opplæringen i digitale ferdigheter, slik som tilfellet er for de andre grunnleggende ferdighetene. Slik kan man sikre at elever i begynneropplæringen får grunnleggende opplæring i digitale ferdigheter. Forslaget kan også bidra til å gjøre opplæringen mer effektiv ved at ikke alle lærere må undervise elevene i grunnleggende funksjonalitet som å lagre digitalt arbeid og finne det igjen. En utfordring vil være å bestemme hvilket fag som skal få ansvaret for digitale ferdigheter. Det er tydeligere hvor i opplæringen de fire andre ferdighetene hører hjemme. Selv begynneropplæringen i digitale ferdigheter spenner fra digital dømmekraft til å lage animasjonsfilm og å bruke regneark. Også her er det relevant å huske på at skolen nettopp har fått nye læreplaner, og at de trenger tid på å etablere seg.
+
+En annen mulig løsning er å fjerne digitale ferdigheter fra de grunnleggende ferdighetene og ivareta digital kompetanse gjennom tydelige kompetansemål i fagene. Dette kan gjøre det enklere å få oversikt over hva slags digital kompetanse elevene skal utvikle gjennom arbeidet med de ulike fagene. Hvis læreplanverket legger vekt på digital kompetanse fremfor digitale ferdigheter, kan det bli tydeligere at digitale ferdigheter skiller seg fra de fire andre grunnleggende ferdighetene, og det kan bli lettere å formidle hva kompetansen består av. Dette forutsetter imidlertid endringer i læreplanverket, og som tidligere nevnt er skole- og lærerorganisasjonene skeptiske til slike endringer kort tid etter at de nye læreplanene er innført. Å fjerne digitale ferdigheter som grunnleggende ferdighet kan også føre til at det digitale nedprioriteres i fagene, i en tid der digitalisering stadig blir en større del av hverdagen og i yrker som barn- og unge utdannes til.
+
+Utvalget har ikke endelig konkludert om hvordan digital kompetanse best ivaretas i opplæringen, men ser et behov for at det tydeliggjøres hva slags digital kompetanse elevene skal utvikle gjennom skoleløpet. I stortingsmeldingen *En mer praktisk skole* som kom like før utvalget leverte sin rapport, sier regjeringen at en del av arbeidet med å utrede hvordan skolen skal dekke behovene for digitale ferdigheter, vil være å vurdere innretningen på digitale ferdigheter som en av de grunnleggende ferdighetene. Utvalget mener dette er et viktig arbeid, og at det bør involvere mange ulike aktører fra utdanningssektoren, arbeidslivet og elevene selv. Utvalget ønsker å understreke at eventuelle endringer i hvordan digitale ferdigheter er innrettet, ikke må føre til at arbeidet med elevenes digitale kompetanse blir nedprioritert i skolen. Utvikling av denne kompetansen er viktigere enn noensinne.
+
+Det har blitt satset stort på digitalisering i norsk skole, men vi vet for lite om elevene utvikler den digitale kompetansen læreplanverket legger opp til. Når elevenes digitale ferdigheter ikke måles, har vi heller ikke informasjon om hvilket nivå de er på, eller hvilken progresjon de har. Det kan gjøre det vanskeligere for lærere å legge til rette for at elevene får en god opplæring. Også nasjonale og lokale myndigheter trenger informasjon om hvordan det går med elevenes læring for å kunne ta nødvendige grep, som å justere læreplanen. Utvalget har derfor vurdert forslag om å utvikle prøver som måler elevenes utvikling i digitale ferdigheter, som i lesing og regning. Om digitale ferdigheter testes, kan det gjøre at lærere og elever blir mer bevisst helheten i digitale ferdigheter og at de blir bedre integrert i opplæringen. Flere i referansegruppen er generelt skeptiske til mer testing i skolen. Det er ikke nødvendigvis slik at mer testing fører til bedre kompetanse. Utvalgets ekspertgruppe av ungdom mener at å legge inn enda flere vurderinger vil skape motstand hos elever, og at det kan skape enda mer stress og press hos elevene. Hvis digitale ferdigheter skal måles, er de mer positive til at det testes gjennom nasjonale prøver eller internasjonale undersøkelser, enn gjennom prøver og vurderinger i for eksempel et teknologifag. Norsk Lektorlag er i utgangspunktet positive til testing, med forbehold om gode definisjoner hvis det skal testes. Ettersom den digitale ferdigheten er så kompleks og består av så mange ulike elementer, vil det være vanskelig å utvikle gode tester som måler mer enn enkle ferdigheter. Det viktige er hvordan det digitale inngår i kompetansen i et fag, ikke det digitale aspektet i seg selv. Utvalget har derfor konkludert med å ikke foreslå innføring av nye tester som måler digitale ferdigheter. Men utvalget mener det er viktig at Norge fortsetter å delta i internasjonale undersøkelser, for eksempel ICILS, for å ha et best mulig grunnlag for å vurdere elevenes utvikling på området og gjøre eventuelle endringer i opplæringen.
+
+### Lærere med styrket profesjonsfaglig digital kompetanse
+
+Lærere i barnehagen og skolen skal både utvikle og vedlikeholde sin egen digitale kompetanse og støtte barn og unge i å utvikle digital kompetanse, slik at de blir trygge og ansvarlige teknologibrukere. Læreren må ha profesjonsfaglig digital kompetanse for å utnytte potensialet i digital teknologi. Profesjonsfaglig digital kompetanse er også nødvendig for å vurdere når det er bedre å bruke digitale verktøy enn analoge verktøy, og motsatt. Alle skole- og lærerorganisasjonene i referansegruppen mener at det er nødvendig å styrke den profesjonsfaglige digitale kompetanse hos lærerne. Skolelederforbundet mener i tillegg at lederutdanningene må inneholde mer om digital kompetanse. Ansvaret for at lærerne har nødvendig profesjonsfaglig digital kompetanse og at lærerne har gode digitale og analoge alternativer å velge mellom, ligger på eiere og ledere i barnehage og skole. Utvalget ønsker derfor å understreke at det ikke er riktig å skylde på læreren dersom digital teknologi ikke brukes på en god nok måte i opplæringen.
+
+Et forslag til tiltak for å øke lærerstandens profesjonsfaglige digitale kompetanse på lang sikt er å stille krav til opplæringen i profesjonsfaglig digital kompetanse for alle lærerutdanninger. Dette forslaget støttes av utvalgets ekspertgruppe av ungdom og av flertallet i referansegruppen, inkludert KS og lærerorganisasjonene. Både enkelte i referansegruppen og andre har gitt innspill til utvalget som peker på at nyutdannede lærere ikke er godt nok forberedt på den digitale teknologien som brukes i skolen. Et slikt krav til opplæring vil kunne sikre at alle nyutdannede lærere har den nødvendige profesjonsfaglige digitale kompetansen, uavhengig av hvilken type lærerutdanning de har gjennomført, og ved hvilken institusjon de har fått den. Det er viktig å unngå å bli for opptatt av konkrete verktøy, da slik kompetanse fort blir utdatert og i tillegg kan være vanskelig å overføre til andre typer verktøy som er i bruk på skolene de nyutdannede lærerne skal jobbe ved. Hva som er nødvendig profesjonsfaglig digital kompetanse påvirkes av samfunnsendringer og teknologiutvikling, og det er viktig å holde beskrivelsene på et overordnet nivå.
+
+Et annet tiltak som kan bidra til å heve den profesjonsfaglige digitale kompetansen til lærerne som allerede arbeider i barnehager og skoler, er at statlige myndigheter kommer med en oppfordring til barnehage- og skoleeierne om å prioritere profesjonsfaglig digital kompetanse når de godkjenner videreutdanninger. Det er imidlertid begrenset hvor mange lærere kommunene og fylkeskommunene kan ha i videreutdanning til enhver tid, blant annet med tanke på å skaffe vikarer. Utvalget mener barnehage- og skoleeiere selv må vurdere hva slags kompetanse de har behov for. Utvalget ønsker derfor ikke å si at videreutdanning for lærernes profesjonsfaglige digitale kompetanse er viktigere enn andre videreutdanninger. Hvis flere søker på studier i profesjonsfaglig digital kompetanse, er det dessuten nødvendig at det er nok tilgjengelige studieplasser, og at staten finansierer disse videreutdanningene.
+
+Barnehagen og barnehageansatte skal følge føringene i rammeplanen. Føringene om digital praksis er nå ganske åpent formulert. Utvalget har sett på et forslag om å definere digital praksis og digitale verktøy tydeligere i rammeplanen. Dette er flere i referansegruppen kritiske til. Mer detaljerte definisjoner vil innskrenke barnehagelærerens metodefrihet og vil være krevende å holde oppdatert. Utdanningsforbundet mener at barnehageansatte må ta utgangspunkt i den barnegruppen de har, og at rammeplanen må åpne for at innholdet og arbeidsmåtene må kunne vektlegges ulikt. Skolelederforbundet mener at føringene i rammeplanen er gode nok til å balansere digital teknologi mot andre aktiviteter i barnehagen.
+
+Føringene for digital praksis i rammeplanen for barnehager innebærer at barnehageansatte skal få utviklet sin profesjonsfaglige digitale kompetanse. Det finnes ikke et eget rammeverk for profesjonsfaglig digital kompetanse i barnehagen. Derfor lener barnehagen og barnehageutdanningene seg på rammeverket som er utviklet for skolen. Men barnehagen og skolen skal være ulike på mange områder, og derfor trenger barnehageansatte en profesjonsfaglig digital kompetanse som er tilpasset barnehagens oppdrag og barnehagebarns alder og modenhet. Utvalget mener at det bør utvikles et eget rammeverk for profesjonsfaglig digital kompetanse for barnehagelærere, tilsvarende rammeverket for lærere i skolen.
+
+Det er ikke bare lærere i skolen og barnehagen som trenger digital kompetanse. Det gjelder også andre ansatte som møter barnehagebarna og elevene, slik som miljøarbeidere, barnehageassistenter, SFO-ansatte og helsesykepleiere. Et mulig tiltak for å sikre at hele laget rundt barnehagebarna og skoleelevene har god nok digital kompetanse, er å gi kompetansehevingstilbud til alle som jobber med barn i skolen og barnehagen, for eksempel gjennom flere fagskoletilbud. Fagforbundet mener det er enklere å opprette fagskoletilbud enn studieplasser i universitets- og høyskolesektoren. Slike tilbud vil imidlertid koste penger og må finansieres enten av staten eller av barnehage- og skoleeiere.
+
+### Et bedre samarbeid mellom skolen og hjemmet, og foreldre med kompetanse til å støtte og veilede barna
+
+Digitaliseringen av skolen har skjedd fort, spesielt som følge av koronapandemien. Pandemien gjorde at også de yngre elevene hadde mer digital undervisning, og at en-til-en-dekning av digitale enheter spredte seg raskt. Blant barna på 1. til 4. trinn har 85 prosent nå tilgang til sin egen digitale enhet, som de ofte tar med seg hjem. Denne innføringen og bruken av digitale løsninger på spesielt barneskolen er flere foreldre skeptiske til i innspillene sine til utvalget. De trekker blant annet frem at det er problematisk at det mangler filtre og innholds- og tidsbegrensinger. Undersøkelser viser at foreldre oppgir å få mer informasjon om erstatningsansvar og personvern enn om pedagogiske vurderinger og opplæring i de digitale løsningene i skolen. Det tyder på at det er flere foreldre som ikke opplever å ha fått nødvendig informasjon om skjermbruk i skolen.
+
+Foreldreutvalget for grunnopplæringen (FUG) mener at skolen må sørge for at foreldre får god informasjon om skolens digitale praksis og bakgrunnen for valgene som er tatt. FUG mener videre at tilgang på informasjonen samt tilrettelegging av arenaer hvor foreldre kan delta, si sin mening og påvirke, er en forutsetning for den nødvendige og lovpålagte foreldremedvirkningen i barnas opplæring.
+
+Mange foreldre opplever at de er frakoblet barnas skolearbeid, og at de ikke har den digitale kompetansen som kreves for å bruke skolens digitale løsninger. Foreldrenes digitale kompetanse henger sammen med sosioøkonomiske forhold, og manglende opplæring kan føre til at sosiale forskjeller forsterkes. Det er særlig de foreldrene som selv rapporterer at de har lave digitale ferdigheter, som opplever at det er lite samarbeid med skolene om bruk av digital teknologi. Utvalget mener derfor at myndighetene må ta et større ansvar for å sørge for at foreldre har god nok digital kompetanse til å følge med i sine barns digitale skolehverdag. Det innebærer også at skolene bør ta oppgaven med å veilede foreldre på alvor. Det å formidle bedre hvordan skjermene brukes på en pedagogisk og læringsfremmende måte, kan forhåpentligvis dempe mye av den offentlige bekymringen og den enkelte forelderens bekymring. Dette er spesielt viktig på barneskoletrinnene hvis enheter sendes med hjem. I barneskolen står foreldrene ofte i dilemmaer mellom regulering av skjermbruk og innføring av skjermer til skolebruk. Det trengs et tett samarbeid og god informasjon slik at foreldrene ikke opplever at skolen «legger sten til byrden». God informasjon til foreldrene er ikke minst viktig for at barna skal få støtte og veiledning fra foreldrene sine. Foreldrene trenger nok kunnskap til å bruke enhetene og forstå programvaren som skolen bruker. Foreldrene trenger også å vite hva de skal forvente av skolens filtre, og kjenne til hvilke muligheter for foreldrekontroll og lignende som finnes. Et tettere samarbeid med foreldregruppen kan også gjøre lærerne mer bevisst på deres bruk av digitale ressurser, og om de eventuelt bør gjøre justeringer.
+
+Å lære foreldre opp i andre digitale medier som barna bruker, slik som sosiale medier og dataspill, er utenfor skolens mandat. Utvalget mener likevel at skolene kan bidra til at foreldremøtene blir en arena for foreldresamarbeid om skjermregler, også på fritiden. Med tanke på at skjermbruk på fritiden kan påvirke søvn og sosial trivsel, vil gode rammer på fritiden også kunne ha god innvirkning på skolen. Informasjon til foreldre om hvordan og hvorfor elevene bruker digitale ressurser i skolen, vil også kunne gi økt forståelse for skolens bruk og hvilken digital kompetanse elevene utvikler. Foreldrene bør også ta initiativ til å sette seg inn i og engasjere seg i elevens digitale skolehverdag og bruke FAU-arenaen til foreldresamarbeid om skjermvett og skjermbruk.
+
+### Informasjon og samstemte råd fra myndighetene
+
+Myndighetene gir råd og veiledning om barn og unges skjermbruk, men informasjonen er spredt på flere ulike nettsider og mellom ulike myndighetsorgan. Barne-, ungdoms- og familiedirektoratet (Bufdir) gir råd særlig rettet mot foreldre gjennom foreldrehverdag.no.[^1180] Medietilsynet, som har ansvar for barn og medier og er koordinerende myndighet på direktoratsnivå for trygg digital oppvekst, har råd og veiledning om skjermbruk rettet mot både foreldre og barn og unge selv.[^1181] Helsedirektoratet har utarbeidet nasjonale faglige råd for fysisk aktivitet for barn og unge, som også inneholder råd om skjermtid.[^1182] Helsedirektoratet har også et ansvar for en nasjonal faglig retningslinje for helsestasjon, skolehelsetjeneste og helsestasjon for ungdom.[^1183] I retningslinjene omtaler de samspill mellom foreldre og barn og gir råd om at foreldre bør lage enkle regler og innarbeide gode vaner for skjermbruk.
+
+I 2022 ble det vedtatt av regjeringen at nettstedet ung.no skal være statens primære kanal for digital informasjon, dialog og digitale tjenester for ungdom. Ung.no skal samle informasjon fra ulike fagområder og formidle den på ungdommenes premisser. Nettstedet driftes av Bufdir, men er en del av DigiUng-samarbeidet, som har flere titalls deltagere innenfor statlig, kommunal, frivillig og privat sektor og fra akademia.
+
+I tillegg til at offentlige myndigheter gir råd og veiledning, gir frivillige organisasjoner som Barnevakten og Redd Barna veiledning til foreldre og dem som jobber med barn om skjermbruk.
+
+Utdanningsdirektoratets hjemmesider er det naturlige stedet å oppsøke for ansatte, ledere og eiere i barnehager og skoler som ser etter informasjon og støtte. Utvalget mener derfor at det er fornuftig å fortsette å bruke Utdanningsdirektoratet til å informere og legge til rette for profesjonsutviklingen i skole- og barnehagefeltet.
+
+Selv om myndighetene og andre tilbyr informasjon og veiledning, etterspørres det mer informasjon og tydeligere råd for å heve den digitale kompetansen i befolkningen. Skjermbrukutvalgets ekspertgruppe av ungdom mener at en hovedutfordring er at barn og unge, foreldre, lærere, IKT-ansatte på skolen og myndighetene ikke får nok digital opplæring. Også i klasseromsbesøkene utvalget har gjennomført, var det flere barn og unge som ga uttrykk for at de ønsker mer informasjon, særlig om hvorfor mange ender opp med å bruke mer tid enn man ønsker på plattformene. Medietilsynets ungdomsnettverk har utarbeidet krav til en trygg digital oppvekst, der kompetanse om og blant barn og unge er det første kravet.[^1184]
+
+Det er bare omtrent én av ti foreldre i Medietilsynets Foreldre og medier-undersøkelse fra 2022 som opplever at de *ikke* har tilstrekkelig informasjon til å veilede barnet om nettbruk, men undersøkelsen viser at flere foreldre opplever å gradvis miste opplevelsen av å ha nok informasjon til å veilede barna i nettbruk etter som barna blir eldre. I EU Kids Online-undersøkelsen fra 2018 oppgir foreldrene at de har et stort behov for informasjon og råd om barns digitale hverdag. Av foreldrene oppgir 91 prosent at de gjerne vil få informasjon og råd fra barnets skole. Videre vil 86 prosent gjerne få informasjon og råd fra nasjonale eller lokale myndigheter, noe som er hele 31 prosentpoeng høyere enn andelen som opplever at de får dette. Det er 76 prosent av foreldrene som gjerne vil få informasjon og råd fra velferdsorganisasjoner for barn eller veldedige organisasjoner.
+
+Myndighetene gir råd om skjermbruk via ulike nettsteder og fra ulike etater, men rådene samsvarer ikke alltid med hverandre. Det er naturlig ettersom rådene kan ha ulikt faglig utgangspunkt, men det kan likevel være forvirrende for dem som skal bruke informasjonen. Utvalget mener at myndighetene bør være mer samstemte i sine vurderinger av, og råd om, barn og unges skjermbruk. Utvalget anbefaler Barne- og familiedepartementet og Medietilsynet, som er koordinerende myndigheter for trygg digital oppvekst, å ta dette med seg inn i sitt arbeid. DigiUng-samarbeidet er også naturlig å benytte for å samle og samstemme råd og informasjon til barn og unge om skjermbruk.
+
+Det er viktig at kunnskapsgrunnlaget og rådene rettet mot befolkningen når ut til dem som trenger dem. Kunnskapen må gjøres lett tilgjengelig, den må være enkel å vurdere og forstå, og den må være nyttig og anvendelig. Utvalget har derfor vurdert på hvilke måter myndighetene kan nå bedre ut med informasjon og kunnskap om positive og negative sider ved skjermbruk. Blant annet er det vurdert om råd og informasjon om skjermbruk bør samles ett sted, hos ett myndighetsorgan. En slik samlet nettressurs, som samler all informasjon og veiledning om barn og unges skjermbruk ett sted, er også et av forslagene til skjermbrukutvalgets ekspertgruppe av ungdom. Utvalget er enig med ekspertgruppen i at informasjon bør være lett tilgjengelig og samstemt. Regjeringen har allerede besluttet at foreldrehverdag.no skal videreutvikles for å styrke foreldrenes digitale kompetanse, og at ung.no og unges digitale kompetanse skal styrkes gjennom DigiUng-samarbeidet. Disse nettsidene har tydelige målgrupper, noe som gjør budskapet lettere å tilpasse. Det er også mindre ressurskrevende og mer effektivt å bygge videre på disse prosjektene.
+
+Grupper som jobber med barn, blant annet helsesykepleiere, gir også tilbakemelding til utvalget om at det er behov for mer kunnskap og bedre veiledning. Helsesykepleierne har en svært viktig rolle i å nå ut med helseinformasjon om skjermbruk. Hele 98 prosent av alle barn i Norge er i kontakt med helsestasjonen det første leveåret og regelmessig frem til skolestart.[^1185] Videre når helsesykepleierne ut til mange barn og unge gjennom skolehelsetjenesten. Derfor når de også mange som ellers kan være vanskelige å nå. Helsestasjonene er også det første stedet hvor myndighetene har mulighet til å nå ut med forebyggende helseinformasjon. Helsedirektoratet har et ansvar for en nasjonal faglig retningslinje for helsestasjon, skolehelsetjeneste og helsestasjon for ungdom.[^1186] Men skjermbruk er i liten grad omtalt. Vi vil påpeke at den kunnskapen som denne utredningen legger frem, kan være relevant for retningslinjene til helsestasjonene og kan benyttes som utgangspunkt dersom Helsedirektoratet skal utforme egne norske råd om skjermbruk til ulike aldersgrupper.
+
+### Utvalgets anbefalinger
+
+Anbefalinger til myndighetene
+
+- Det bør være krav om at studentene skal utvikle profesjonsfaglig digital kompetanse i alle lærerutdanningene. Lærerutdanningene bør legge vekt på profesjonsfaglig digital kompetanse fremfor bruk av spesifikke digitale verktøy.
+
+- Det bør utarbeides et rammeverk for profesjonsfaglig digital kompetanse i barnehagen.
+
+- Norge bør fortsette å delta i internasjonale undersøkelser som måler digitale ferdigheter
+
+- Utvalget støtter at regjeringen vil vurdere innretningen på digitale ferdigheter som grunnleggende ferdighet i læreplanen, for å tydeliggjøre hva som inngår i den digitale kompetansen elevene skal utvikle.
+
+- Myndighetene bør ha samstemte råd om barn og unges skjermbruk, rettet mot ulike grupper. Utvalget støtter arbeidet i DigiUng-samarbeidet og regjeringens satsing på ung.no og foreldrehverdag.no.
+
+Anbefalinger til skoler og barnehager, og deres eiere
+
+- Ha felles rutiner og strategier for å utvikle elevenes mest grunnleggende digitale kompetanse slik at denne kommer på plass tidlig i skoleløpet.
+
+- Arbeid for at ansatte i barnehagene og skolene får styrket sin profesjonsfaglige digitale kompetanse.
+
+- Inkluder alle ansatte når det legges planer for digital kompetanseheving, ikke bare lærerne.
+
+- Bidra til at foreldrene til skoleelever har tilstrekkelig digital kompetanse til å følge opp barnas digitale skolehverdag, og at foreldre til barnehagebarn er informert om barnehagens digitale praksis.
+
+## Nyansert kunnskap og helhetlig politikkutvikling
+
+Gjennom arbeidet til utvalget har det blitt tydelig at det er behov for mer forskning, og mer nyansert forskning, om skjermbruk og barn og unge. Dette er også påpekt av andre tilgrensende arbeider, som vi har omtalt i kapittel 2. Medieskadelighetsutvalget slo blant annet fast at det er for liten kunnskap om hva slags nettbruk som skader barn og unge, og på hvilken måte, og at det er et stort behov for videre undersøkelser og forskning på dette. De anbefalte derfor at det utlyses midler og ressurser til å utvikle og opprette et nasjonalt kunnskapssenter for barn og unges mediebruk.
+
+Ifølge regjeringens strategi for trygg digital oppvekst fra 2021, *Rett på nett*, er det et mål for regjeringen å legge til rette for forskning om barn og unges hverdag, og at forskningen skal være balansert og ta utgangspunkt i både nytte og risiko som barn og unge møter digitalt. Handlingsplanen for trygg digital oppvekst som ble lagt frem i oktober 2024, bygger videre på strategien. Et tiltak som omtales i handlingsplanen er at Medietilsynet har igangsatt et prosjekt for å utvikle metoder for å få bedre innsikt i hva slags medieinnhold som når barn og unge gjennom algoritmestyrte tjenester, for å kunne innrette tiltaksarbeid og tilsyn mer presist, og bidra til beskyttelse mot skadelig innhold.
+
+Regjeringens strategi for digital infrastruktur i skolen og barnehagen setter blant annet et mål om at den digitale praksisen i skolen og skolens bruk av digitale løsninger og medier er kunnskapsbasert.[^1187] Videre har regjeringen og KS en ambisjon om at arbeidet med kunnskapsutvikling er helhetlig, langsiktig, forutsigbart finansiert og koordinert mellom alle relevante aktører. Strategien peker på at et koordinert forskningsprogram kan gi bedre og mer systematisk kunnskap om sammenhengen mellom disse innsatsområdene og være grunnlag for politikkutforming og lokale beslutninger om anskaffelser, planlegging og bruk av digitale løsninger og infrastruktur. Utdanningsdirektoratet har derfor nylig etablert et forskningsprogram som skal gi bedre og mer systematisk kunnskap om digitalisering og digital kompetanse i barnehagen og skolen.
+
+Utvalget har ikke vurdert hvordan myndighetene konkret skal bidra til at det forskes mer på barn og unges skjermbruk. Strategien for trygg digital oppvekst *Rett på nett* (2021) inneholder et mål om å legge til rette for balansert forskning om barn og unges hverdag, og utvalget forutsetter at målet følges av tilstrekkelige ressurser og egnede tiltak. I denne delen vurderer utvalget kunnskapshull og hvordan man kan sikre pålitelig vitenskapelig kunnskap om konsekvenser av skjermbruk og utvikle god forskningsdesign på området.
+
+### Mer nyansert forskning om barn og unges bruk av digitale medier
+
+Skjermbrukutvalget er ifølge mandatet bedt om å utrede hvordan barn og unges skjermbruk i barnehage, skole og fritid *påvirker* helse, livskvalitet, læring og oppvekst. I arbeidet er det blitt klart at det meste av tilgjengelig forskning ikke er gjort på en måte som gjør det mulig å svare på spørsmålet om skjermbruk påvirker helse, livskvalitet, læring og oppvekst. Ordet «påvirker» innebærer en antagelse om at skjermbruk er en årsaksfaktor. Å påvise en enkelt årsaksfaktor krever at man har et design med gjentatte målinger og der andre mulige påvirkninger holdes mest mulig stabilt. Slike «eksperimentelle» design er det få eksempler på i forskningslitteraturen om skjermbruk, og slike studier er også vanskelige å gjennomføre. Det vanligste er såkalte tverrsnittsdata, der barn og unge eller deres foreldre blir spurt om hvor mye tid de har brukt på ulike skjermaktiviteter, og i hvor stor grad de har opplevd ulike psykiske helseplager, nedsatt konsentrasjon, dårlig søvn eller lignende. Selvrapportering er ofte ikke nøyaktig, og slike studier gir også bare et øyeblikksbilde av skjermbruk og helse på det aktuelle tidspunktet.
+
+Enkelte studier har brukt design der man har bedt forsøkspersonene om å slutte å bruke for eksempel Facebook en periode, for å undersøke om det medfører endringer i helsetilstanden. Et slikt design kontrollerer for individuelle faktorer, men tar for eksempel ikke høyde for andre hendelser som skjer underveis, og som også kan påvirke forsøkspersonens helsetilstand. Videre vil disse studiene ofte bare inkludere dem som er motivert for å slutte å bruke sosiale medier, noe som kan gi et skjevt bilde av eventuelle effekter. Ingen studier vil gi helt klare svar, og derfor må man kombinere ulike forskningsdesign.
+
+En annen utfordring med forskningen på skjermbruk er at eksponeringen, det å bruke eller se på en skjerm, har endret seg mye de siste tiårene. Og den teknologiske utviklingen går raskt. Forskningen vil derfor alltid henge etter, og i kunnskapsoppsummeringer som ser på alle relevante studier over en tidsperiode, vil studiene ofte være utført relativt langt tilbake i tid.
+
+Innledningsvis i kapittelet har vi beskrevet at det ofte gir liten mening å kun se på skjermtid, men ettersom tid er enklest å måle, er det ofte det forskning på skjermbruk har sett på. Det er også relevant å undersøke hva barn og unge gjør, hvem de gjør det sammen med, hvilket innhold de ser på, hvilket tidspunkt på dagen de bruker skjermene, og hva skjermbruken går på bekostning av. Slike kontekstvariabler vil gjøre forskningen mer presis og gjøre det mulig å svare på hvordan skjermbruk påvirker barn og unges helse, livskvalitet, læring og oppvekst.
+
+Kontekst er ikke minst viktig innenfor forskning på skole og barnehage. Her består mye av forskningen på digitale teknologier av kasusstudier som dokumenterer erfaringer og viser til potensialet for læring og motivasjon i ulike digitale teknologier. Det kommer ikke nødvendigvis klart frem hva som menes med læring i de ulike studiene. I mange av studiene som kunnskapsgrunnlaget for digitale teknologier i skolen er basert på, er læring også målt uten kontrollgruppe og basert på selvrapportering. Dermed blir det vanskelig å si om det påståtte potensialet faktisk er reelt. Det trengs mer kunnskap om hvordan digital teknologi inngår i pedagogiske og didaktiske sammenhenger i skolen, fremfor å bare undersøke teknologiens potensiale. Vi trenger også mer kvantitativ forskning med design som gjør det mulig å trekke slutninger om effekten av digital teknologi på læring. I digitaliseringsstrategien for barnehage og skole fremheves blant annet at det er behov for mer kunnskap om effekten av digitale teknologier på elevenes konsentrasjon om det faglige arbeidet. Forskning på digitalisering i skolen bør også inkludere tverrvitenskapelig samarbeid mellom skoleforskning og andre vitenskapelige disipliner som for eksempel psykologi og kognisjonsvitenskap.
+
+For barnehagefeltet er det behov for større innslag av tverrvitenskapelig forskning der forskere med ekspertise på barns utvikling og behov samarbeider med forskere innen barnehagepedagogikk i å utvikle forskningsdesign som tillater en å måle hvordan aktiviteter med ulike materialer og teknologier støtter opp under barns utvikling og behov.
+
+I temakapitlene i utredningen finnes det nærmere beskrivelser av kunnskapshull og konkrete områder der det er behov for mer forskning.
+
+### Strukturert, helhetlig og kontinuerlig arbeid med spørsmål knyttet til digitalisering av samfunnet
+
+Utvalgets mandat berører mange sektorovergripende problemstillinger som det er vanskelig å løse i siloer. Som også Medieskadelighetsutvalget og Bufdirs langtidsplan for forskning og evaluering (2023–2026) har pekt på, er det behov for koordinering og langsiktighet.
+
+Teknologiutviklingen går raskt – og stadig raskere. Teknologi gjennomsyrer også samfunnet, og teknologiske endringer kan ha enorm betydning både for samfunnet og for den enkelte. Selv om utvalget vil berømme regjeringen for å sette ned et utvalg med et bredt og sektorovergripende mandat, er det vanskelig å løse et så bredt mandat innenfor de rammene et NOU-utvalg gir. Parallelt med utvalgets arbeid har statlige myndigheter gjort flere grep rettet mot barn og unges skjermbruk. Regjeringen har innført mobilrestriksjoner i skolene og har varslet at det skal innføres en myndighetsbestemt aldersgrense i sosiale medier. Stortingsmeldingen *En mer praktisk skole* har også tatt for seg digitalisering og legger til grunn et føre-var-prinsipp for digital utvikling i skolen. Utvalget forstår at politikkutviklingen på området ikke kan vente på utvalget. Men det illustrerer at når utviklingen går så raskt og er så gjennomgripende i samfunnet, er det noen ganger viktig å kunne handle raskere. Utvalget vil derfor peke på at et NOU-utvalg som skal arbeide i halvannet år, kanskje ikke er den mest hensiktsmessige måten å sikre kunnskapsbaserte beslutninger om digitalisering av samfunnet.
+
+Utvalget mener at i det videre arbeidet med disse spørsmålene bør man vurdere å etablere en mer varig struktur som kan arbeide kontinuerlig med et oppdatert kunnskapsgrunnlag. En slik struktur bør ha mandat til å følge med på teknologiutviklingen som berører barn og unge, men også resten av befolkningen. Det bør både være ressurser til å kartlegge forskning og utarbeide råd og veiledning til myndighetene. Det må også legges til rette for reell medvirkning fra barn og unge. Et slikt organ bør kanskje også få ansvar for å utarbeide og oppdatere råd til befolkningen. Et eksempel, og et organ som eventuelt kan bygges videre på, er Teknologirådet. Teknologirådet er et uavhengig rådgivende organ for teknologivurdering. Hittil har rådet i liten grad berørt temaer som spesifikt treffer barn og unge, eller som tar for seg helseeffekter av bruk av digital teknologi.
+
+Utvalget vil også trekke frem at når utviklingen går så raskt og beslutninger ofte må tas på bakgrunn av et føre-var-prinsipp, er det sentralt å samtidig legge til rette for evaluering og følgeforskning når nye tiltak iverksettes, når dette er mulig og hensiktsmessig. Både prosessen med å innføre tiltak og effekten av tiltak kan være aktuelt å evaluere.
+
+### Utvalgets anbefalinger
+
+- Utvalget anbefaler at tiltak som innebærer større endringer i regulering eller rammer for barn og unges skjermbruk, for eksempel mobilrestriksjoner i skolen, vitenskapelig evalueres.
+
+- Det er behov for kontinuerlig og nyansert forskning på skjermbruk og barn og unge. Det er særlig behov for:
+
+  - flere og bedre studier og med ulike design, som kan belyse og påvise årsaksforhold.
+
+  - studier av intervensjoner og tiltak rettet mot barn og unge.
+
+  - relevant forskning som er informert av barn og unges perspektiv (brukermedvirkning).
+
+  - kunnskap om hvordan digital teknologi inngår i pedagogiske og didaktiske sammenhenger i skolen og barnehagen, fremfor å undersøke teknologiens potensiale.
+
+  - tverrvitenskapelig forskning som gjør det mulig å måle hvordan aktiviteter med ulike materialer og teknologier støtter opp under barns utvikling og behov.
+
+  - kvantitativ forskning med design som gjør det mulig å trekke slutninger om effekten av ulike modaliteter og grensesnitt (trykte og digitale) på ulike aspekter ved læring, for eksempel konsentrasjon og utholdenhet.
+
+  - tverrvitenskapelig og flermetodologisk forskning på sammenhenger mellom læring og bruk av ulike typer læremidler, både analoge og digitale, over lengre tid.
+
+  - kunnskap om hvordan ulike trykte og digitale læremidler har endret seg over tid.
+
+  - kunnskap om pedagogiske muligheter og utfordringer knyttet til kunstig intelligens, og betydningen for barn og unges ferdigheter (blant annet i skriving).
+
+- Utvalget støtter Utdanningsdirektoratets forskningsprogram om digitalisering i barnehage og skole.
+
+- Utvalget støtter Medietilsynets forprosjekt for å se på hvordan analyser av algoritmestyrte plattformer kan gjøres for å gi bedre innsikt i hva slags innhold barn og unge eksponeres for i sosiale medier.
+
+- Utvalget anbefaler regjeringen å utrede om det bør etableres en varig struktur som følger teknologiutviklingen, kartlegger forskning, evaluerer tiltak og veileder myndighetene og befolkningen i bruk av teknologi.
+
+## Økonomiske og administrative konsekvenser
+
+I avsnitt 17.2 går utvalget gjennom tiltak for regulering av plattformene. Utvalget oppfordrer myndighetene til å høyt prioritere arbeidet med å gjennomføre EU-forordningen om digitale tjenester (DSA) i norsk rett, og at beskyttelse av barn og unge mot skadelig innhold og skadelig design prioriteres høyt i oppfølgingen av DSA. Videre anbefaler utvalget regjeringen å være en pådriver for internasjonal og effektiv regulering av avhengighetsskapende mekanismer i sosiale medier og pengespill-lignende elementer i dataspill. De økonomiske, juridiske og administrative konsekvensene av dette arbeidet vil bero på hvordan dette følges opp i regjeringen, og hvilket ambisjonsnivå regjeringen legger seg på, men arbeidet kan i utgangspunktet realiseres innenfor dagens økonomiske og administrative rammer.
+
+Utvalget anbefaler videre at det ikke settes en myndighetsbestemt aldersgrense for sosiale medier. Slik utvalget vurderer det, må en eventuell aldersgrense tilpasses den enkelte tjeneste, som i så fall hadde gitt vesentlige administrative og økonomiske konsekvenser for myndighetene. Å legge ansvaret for å sette aldersgrenser på tjenestene selv vil derimot ikke øke de økonomiske og administrative kostnadene vesentlig for myndighetene. Det vil kreve ressurser til tilsyn, men dette kan trolig gjennomføres innenfor gjeldende rammer og muligens innenfor kravene som uansett vil pålegges myndighetene etter gjennomføring av DSA i norsk rett.
+
+I avsnitt 17.3 går utvalget gjennom tiltak for å sikre at digitale løsninger i barnehage og skole er trygge og inkluderende, og at det er god balanse mellom blant annet skjerm og bok. Utvalget ber myndighetene vurdere om dagens tilskudd til læremidler i skolen er tilstrekkelig for å sikre tilgang til både digitale og trykte læremidler. De økonomiske konsekvensene vil avhenge av prioriteringer i regjeringen og hvilket ambisjonsnivå regjeringen legger seg på for å sikre tilskudd til læremidler.
+
+I avsnitt 17.4 har utvalget foreslått å prioritere kompetanseheving for at ansatte i barnehagen og skolen skal styrke sin digitale kompetanse. Det finnes allerede omfattende ordninger for etter- og videreutdanning av lærere og barnehagelærere som staten finansierer, og utvalget mener at lærernes profesjonsfaglige digitale kompetanse kan styrkes innenfor de eksisterende rammene. Utvalget har videre pekt på at barnehager og skoler må arbeide for at alle ansatte inkluderes når det legges planer for å styrke den digitale kompetansen, ikke bare lærerne. Dette kan gjøres i regi av barnehage- og skoleeiere, eller det kan opprettes egne utdanningstilbud for eksempel i fagskolene. Det siste vil i så fall ha økonomiske konsekvenser for staten eller kommunene, avhengig av hvordan utdanningstilbudet innrettes.
+
+I avsnitt 17.5 peker utvalget på at det kan være hensiktsmessig å etablere en mer varig struktur som har mandat til å følge med på teknologiutviklingen som berører barn og unge og resten av befolkningen. Dette kan ha vesentlige økonomiske og administrative konsekvenser for det offentlige. Utvalget vil derfor ikke konkret anbefale at en slik struktur etableres, men mener regjeringen bør vurdere behovet. Utvalget peker på at å utvide mandatet til det allerede etablerte Teknologirådet eventuelt kan redusere ressursbruken.
+
+For øvrig kan utvalgets foreslåtte tiltak i utgangspunktet realiseres innenfor gjeldende budsjettrammer i tråd med mandatet.

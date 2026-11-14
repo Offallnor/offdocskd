@@ -1,884 +1,336 @@
-# NOU 2019: 23, del 32 av 71 (side 366–375)
+# NOU 2019: 23, del 32 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 366]
-
-364
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-som regel ikke være nødvendig med en sakkyndig vurdering fra PP-tjenesten for å vurdere hvilke
-tiltak som skal settes i verk. Slik tilrettelegging
-bør derfor ikke omfattes av regler om individuelt
-tilrettelagt opplæring. Personlig assistanse kan
-dessuten gis av personer som ikke er ansatt i
-undervisningsstilling.
-Innvilgelse av søknad om personlig assistanse
-eller fysisk tilrettelegging kan skje uten at det er
-særskilte krav om sakkyndig vurdering fra PP-tjenesten. Det innebærer at det er forvaltningslovens
-alminnelige bestemmelser om utredningsplikt i
-forvaltningsloven § 17 som gjelder. Dersom kommunen trenger råd og veiledning i forbindelse
-med praktisk eller fysisk tilrettelegging, kan det i
-noen tilfeller være mer relevant å få bistand fra for
-eksempel en ergoterapeut, synspedagog, audiopedagog eller fysioterapeut. Med en slik løsning kan
-PP-tjenesten frigjøre tid fra å skrive sakkyndige
-vurderinger til å jobbe forebyggende ved å hjelpe
-skolene i arbeidet med kompetanseutvikling og
-organisasjonsutvikling og gi råd til skolene. Slik
-kan også færre elever få behov for individuell tilrettelegging. Dersom en elev eller foreldrene
-søker om individuelt tilrettelagt opplæring, vil
-eleven ha rett til å få en sakkyndig vurdering før
-kommunen fatter vedtak.
-For å sikre at elever som har behov for personlig assistanse, skal få dette, blant annet å få nødvendig hjelp til praktiske gjøremål, bør elevene ha
-en rett til dette. Retten bør være uavhengig av om
-vilkårene for å få rett til individuelt tilrettelagt opplæring er oppfylt. Assistansen kan for eksempel
-være hjelp i forbindelse med av- og påkledning,
-måltider, deltakelse i sosiale aktiviteter i friminutter, toalettbesøk, bæring av sekk og forflytning.
-Slike dagligdagse aktiviteter kan kreve mye krefter for enkelte elever. Assistenten bør være en ressurs som skal avlaste eleven, slik at eleven får
-overskudd til å konsentrere seg om det faglige på
-skolen. Elever som har behov for ADL-trening,
-det vil si oppøving i dagliglivets gjøremål, bør
-imidlertid fortsatt ha en rett til dette som en del av
-den individuelt tilrettelagte opplæringen.
-Elever som ikke får tilfredsstillende utbytte av
-skolens opplæring, bør ha rett til pedagogiske tiltak i form av individuelt tilrettelagt opplæring for å
-nå kompetansemålene i ett eller flere fag eller
-målene i den overordnede delen av læreplanverket. Innholdet i, organiseringen og omfanget av
-individuelt tilrettelagt opplæring vil variere ut fra
-skolens opplæring, elevens behov og kommunens
-resurser. Klare, objektive kriterier når det gjelder
-hvem som skal ha rett til tilrettelegging, innholdet
-i undervisningen og omfanget av den i det enkelte
-
-tilfelle, vil det derfor ikke være realistisk å lovfeste. Avgjørelsen av disse spørsmålene vil måtte
-bero på en faglig-pedagogisk vurdering. Vurderingen av om eleven har rett til individuelt tilrettelagt
-opplæring, bør bygge på en sakkyndig vurdering
-og være knyttet til både skolens evne og mulighet
-til å tilpasse opplæringen og til de løsningene
-eleven har behov for.
-Fordelen med en slik løsning er at det blir et
-klarere skille enn i dag mellom hva som er opplæring (pedagogisk tilrettelegging), og hva som ikke
-er det (personlig assistanse og fysisk tilrettelegging). Løsningen kan også føre til at PP-tjenesten
-sparer ressurser fordi det nødvendigvis ikke blir
-behov for sakkyndig vurdering i like mange tilfeller som i dag. Dersom kompetansekrav for undervisningspersonale kun skal gjelde for opplæringen, vil det kunne bli lettere å oppfylle disse kravene fordi andre personer enn dem som oppfyller
-kompetansekravene, kan ansettes for å utføre oppgaver som dreier seg om personlig assistanse.
-Ulempen er at det er usikkert i hvor stor grad
-løsningen vil føre til mindre ressursbruk fra PPtjenesten til sakkyndige vurderinger, fordi det
-mest sannsynlig vil være noen elever som har rett
-til en kombinasjon av tilbud om individuelt tilrettelagt opplæring, personlig assistanse og fysisk tilrettelegging. I slike tilfeller må PP-tjenesten uansett utarbeide en sakkyndig vurdering om elevens
-behov for individuelt tilrettelagt opplæring. Ifølge
-GSI har nesten 1 700 elever i 2018–2019 vedtak
-om spesialundervisning uten at de har fått tildelt
-timer med undervisningspersonale. Dette tallet
-har vært relativt stabilt over flere år. Tall fra GSI
-for 2010–2011 viser at 486 elever hadde enkeltvedtak om spesialundervisning uten timer, for
-eksempel vedtak om utstyr.71 Tallene viser at det
-er sannsynlig at PP-tjenesten vil kunne bruke noe
-mindre tid til å utarbeide sakkyndige vurderinger
-dersom det ikke stilles krav om slik vurdering i
-saker om personlig assistanse, individuelt tilrettelagt arbeidsplass og utstyr i opplæringen.
-
-31.5.3.2 Modell 2: differensiere opplæringstilbudet
-avhengig av graden av tilrettelegging
-En annen løsning er å skille mellom (1) elever
-som kan følge opplæringen uten individuell tilrettelegging, (2) elever som har behov for tilrettelegging i en begrenset periode, men ikke avvik fra
-læreplanen og (3) elever som har varige eller
-omfattende behov, eller som har behov for avvik
-71
-
-Utdanningsdirektoratet, Grunnskolens Informasjonssystem
-(GSI).
-
-[Side 367]
-
-NOU 2019: 23
-Ny opplæringslov
-
-fra kompetansemålene i læreplanverket. Modellen
-innebærer at elever som har varige eller omfattende behov, og elever som har behov for avvik fra
-kompetansemålene i læreplanverket, skal ha rett
-til individuell tilrettelegging av opplæringen og
-rett til en sakkyndig vurdering fra PP-tjenesten.
-Løsningen innebærer høyere terskel når det
-gjelder hvem som har rett til spesialundervisning,
-enn etter dagens regel i opplæringsloven § 5-1
-fordi vilkåret for å få spesialundervisning etter
-dagens lov er knyttet til om eleven får «tilfredsstillande utbytte av det ordinære opplæringstilbodet», ikke til om eleven har varige eller omfattende behov eller behov for avvik fra kompetansemålene. Modellen forutsetter at det må redegjøres
-for hva «varige eller omfattende behov» skal innebære.
-Modellen innebærer videre at kommunen skal
-ha plikt til å gi intensiv opplæring til elever som
-trenger tilrettelegging i en begrenset periode. Slik
-opplæring skal gis inntil forventet progresjon blir
-nådd. Det skal, som i dag, være mulig å gi undervisning i små grupper eller som eneundervisning,
-dersom det er nødvendig for å øke elevens utbytte
-av opplæringen. Dette skal i så fall kun skje i et
-begrenset omfang.
-Modellen åpner ikke for at elever som får
-intensiv opplæring, skal ha avvik fra kompetansemålene i læreplanverket. Dersom en elev har
-behov for avvik fra kompetansemålene, skal
-eleven ha rett til individuell tilrettelegging av opplæringen (spesialundervisning). Kravet om intensiv opplæring gir skolen plikt til å gi slik opplæring, men plikten korresponderer ikke med en tilsvarende rettighet for elevene. Dette betyr at
-elever som får intensiv opplæring, ikke skal ha
-enkeltvedtak, og eleven har ikke rett til å klage på
-avgjørelsen eller innholdet i opplæringen. Kommunen skal oppfylle plikten, men en slik regel gir
-skolen et profesjonelt handlingsrom. Uavhengig
-av klageadgang kan elever og foreldre be staten
-om å føre tilsyn med at kommunen følger regelverket. Tilsynsmyndigheten må vurdere slike
-anmodninger ut fra en risiko- og sårbarhetsanalyse, og det vil være opp til tilsynsmyndigheten
-om de skal føre tilsyn i slike tilfeller. Loven bør
-imidlertid inneholde en rett for eleven eller foreldrene til å kreve en sakkyndig vurdering dersom
-de mener at eleven har varige eller omfattende
-behov. Et vilkår om at eleven må ha varige eller
-omfattende behov eller behov for avvik fra kompetansemålene i læreplanverket for å få rett til individuell tilrettelegging av opplæringen, innebærer en
-begrensning av hvem som har rett til spesialundervisning etter dagens regler. Samtidig gir det
-
-365
-
-Kapittel 31
-
-en ytterligere plikt for kommunen til å gi intensiv
-opplæring når det er nødvendig.
-Fordelen med løsningen er at den vil kunne frigjøre tid for PP-tjenesten fordi færre elever vil ha
-rett til spesialundervisning. PP-tjenesten kan dermed bruke mer tid til å utføre oppgaver som er
-knyttet til kompetanse- og organisasjonsutvikling
-overfor skolene. Problemet med ventetid for å få
-sakkyndig vurdering for dem som trenger det, vil
-også kunne reduseres.
-En ulempe med en slik løsning kan være at
-skjerpede krav til intensiv opplæring, kan føre til
-at elevene blir mer sårbare for eventuelle innsparingstiltak i kommunen. Ettersom en ny terskel
-for rett til spesialundervisning må bli innarbeidet
-og akseptert, vil det kanskje ta noe tid før det blir
-en reduksjon i antallet sakkyndige vurderinger av
-noe omfang. I innspill til utvalget fraråder Barneombudet vilkår som krever at elever skal ha varig
-og omfattende tilretteleggingsbehov. Ombudet
-uttaler at et slikt forslag er «mer problematisk enn
-dagens utbyttevurdering, for den fremmer et kategorisk perspektiv, der vurderingstemaene først og
-fremst er forhold ved eleven og ikke mangler i
-opplæringstilbudet. Vi frykter at dette i praksis vil
-bli en vurdering av barnets diagnose».
-Forslaget kan innebære økonomiske og administrative konsekvenser for kommunene dersom
-det må flere lærerressurser til for å oppfylle plikten til å gi intensiv opplæring. På den annen side
-kan et slikt forslag føre til at det blir mindre behov
-for individuell tilrettelegging av opplæringen (spesialundervisning). Dermed kan forslaget frigjøre
-ressurser fra individuell tilrettelegging til styrking
-av intensiv opplæringen.
-
-31.5.3.3 Modell 3: kun elever som har behov for
-avvik fra læreplanverket, skal ha rett til
-individuelt tilrettelagt opplæring
-Man kan også tenke seg en løsning som går ut på
-at det kun er elever som har behov for avvik fra
-læreplanen fordi de ikke har forutsetninger for å
-nå alle målene, som skal ha rett til individuelt tilrettelagt opplæring (spesialundervisning).
-Løsningen innebærer en omfattende begrensning av hvem som har rett til individuelt tilrettelagt opplæring sammenlignet med dagens regel
-om spesialundervisning i opplæringsloven § 5-1.
-De elevene som har behov for avvik fra innholdet i
-læreplanen, vil ha rett til spesialundervisning. Alle
-de andre elevene vil få tilpasset opplæring.
-En fordel med en slik løsning er at flere elever
-vil bli inkludert i tilpasset opplæring. Løsningen
-vil kunne frigjøre ressurser og gjøre det mulig
-
-[Side 368]
-
-366
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-med flere fleksible løsninger innen tilpasset opplæring. En annen fordel kan være at målgruppen
-for spesialundervisning blir tydeligere definert
-enn i dag, men det må fortsatt gjøres en individuell vurdering av om eleven har «behov» for avvik
-fra læreplanen. Flere av høringsinstansene for
-Ekspertgruppen for barn og unge med særskilt
-behov foreslår denne modellen fordi de mener
-ordlyden «tilfredsstillande utbytte» i opplæringsloven § 5-1 er for vag. En tredje fordel er at løsningen vil kunne frigjøre skolens tid som brukes til å
-skrive enkeltvedtak og individuelle opplæringsplaner, og det vil kunne frigjøre tid for PP-tjenesten,
-som kan brukes til veiledning overfor skolene.
-Ulempen med løsningen er at mange elever vil
-miste retten til spesialundervisning de har i dag,
-hvis skolen ikke klarer å gi dem tilfredsstillende
-utbytte innenfor den tilpassede opplæringen. Skolen må likevel bruke tid på å utrede og følge opp
-en stor gruppe elever som ikke lenger vil ha rett
-til spesialundervisning, noe som forutsetter at
-skolen har nødvendig kompetanse og kapasitet til
-å gjennomføre dette. Elever som trenger ekstra
-mye organisatorisk hjelp til å nå alle kompetansemålene, vil ikke lenger ha en individuell rett til
-denne hjelpen. Slik hjelp skal det tilrettelegges for
-innenfor tilpasset opplæring. Løsningen vil ekskludere elever som er kognitivt sterke, men som
-har andre utfordringer. Løsningen vil dessuten
-kunne føre til at skolen eller foreldrene, bevisst
-eller ubevisst, senker forventningene til elever
-som trenger omfattende tiltak innenfor tilpasset
-opplæring, slik at disse elevene får avvik fra læreplanen og dermed rett til spesialundervisning.
-
-31.5.3.4 Forslag til ny modell for lovregulering
-Utvalget mener at modell 3, som innebærer at kriteriet om avvik fra læreplanverket er avgjørende
-for om en elev skal ha rett til spesialundervisning,
-i for liten grad ivaretar elevens interesser. Løsningen fører til en for omfattende begrensning av
-hvem som har rett til spesialundervisning, og
-utvalget velger derfor ikke en slik modell.
-Utvalget foreslår at retten til spesialundervisning etter dagens opplæringslov deles opp i tre
-rettigheter: (1) rett til individuelt tilrettelagt opplæring, (2) rett til personlig assistanse og (3) rett
-til fysisk tilrettelegging. Forslaget innebærer at
-personlig assistanse og fysisk tilrettelegging skilles ut som egne rettigheter og at det ikke skal
-være krav om sakkyndig vurdering fra PP-tjenesten for å få tiltak om personlig assistanse eller
-fysisk tilrettelegging, se modell 1 ovenfor.
-
-Universell opplæring
-
-Individuelt
-tilrettelagt opplæring
-
-Personlig
-assistanse
-
-Fysisk
-tilrettelegging
-
-Figur 31.5 Forslag til ny modell
-Kilde: Opplæringslovutvalget
-
-Forslaget til ny modell er skissert i figur 31.5.
-
-31.5.4 Nye betegnelser og innholdet i disse
-31.5.4.1 Innledning
-Utvalget mener at betegnelsene «tilpasset opplæring» og «spesialundervisning» ikke er gode og
-treffsikre nok til at de bør videreføres i ny lov.
-Utvalget foreslår derfor å innføre nye betegnelser
-for å beskrive innholdet på en mer hensiktsmessig måte
-Hvordan tilpasset opplæring forstås, har variert over tid, og pendelen har svingt fra inkludering, via individualisering til et mer felleskapsrettet innhold, se kapittel 31.4.1. Med tanke på det
-som nå synes å prege innholdet i og forståelsen av
-tilpasset opplæring, mener utvalget at det er hensiktsmessig å endre betegnelsen. Videre har
-utvalget sett hen til at uttrykket «spesialundervisning» oppleves som stigmatiserende og kan bidra
-til ekskludering. Det faktum at betegnelsen ikke
-bare er ord, men at den også utgjør rammen for
-innholdet den skal fylles med, gjør at utvalget ikke
-viderefører betegnelsen spesialundervisning i forslaget til ny lov.
-Tilpasset opplæring kan betegnes som universell opplæring eller universelt utformet opplæring
-og spesialundervisning kan bedre beskrives som
-individuelt tilrettelagt opplæring. En slik terminologi har en klar parallell til reglene i likestillingsog diskrimineringsloven om universell utforming
-
-[Side 369]
-
-NOU 2019: 23
-Ny opplæringslov
-
-og individuell tilrettelegging av fysiske forhold og
-tjenestetilbud.
-Utvalget foreslår at
-– universell opplæring innføres som ny betegnelse for tilpasset opplæring
-– individuelt tilrettelagt opplæring innføres som
-ny betegnelse for spesialundervisning
-Ved å endre betegnelsene som nevnt ovenfor, får
-man samme ordpar som i likestillings- og diskrimineringsloven: universell og individuell.
-Utvalget foreslår også at forsterket innsats innføres som ny betegnelse, og at slik opplæring delvis skal erstatte innholdet i dagens bestemmelse i
-opplæringsloven § 1-4 om intensiv opplæring, se
-nedenfor i kapittel 31.5.4.2.
-
-31.5.4.2 Universell opplæring
-God opplæring i et læringsfellesskap
-Betegnelsen tilpasset opplæring kan etter sin ordlyd oppfattes som særskilt eller individuell tilrettelegging av opplæringen, mens den i utdanningspolitikken er ment å bety at opplæringen – innenfor
-et fellesskap – skal tilrettelegges på en slik måte at
-den så langt mulig skaper et tilfredsstillende opplæringstilbud for alle. Tilpasset opplæring har gjennom tidene vært tillagt ulikt innhold. Som nevnt i
-kapittel 31.4.1, har innholdet i tilpasset opplæring
-de siste 15 årene hatt læringsfellesskapet i fokus.
-Den individuelle tilpasningen er tonet ned til fordel
-for fellesskapet. Målet er å bedre kvaliteten på
-undervisningen. God tilpasset opplæring er variert
-undervisning som gjør at så mange elever som
-mulig får tilfredsstillende utbytte av opplæringen.
-Prinsippene om en inkluderende skole og tilpasset opplæring er sentrale i norsk utdanningspolitikk. Begge ideene harmonerer med tankegangen som bygger på likhetsprinsippet, der skolen er definert som arena for alle. Prinsippet om
-tilpasset opplæring innebærer at alle elever i
-størst mulig grad skal inkluderes i den ordinære
-opplæringen.72 Dersom det ikke er mulig å gjennomføre ordinær opplæring på en slik måte at
-eleven har tilfredsstillende utbytte av opplæringen, har eleven rett til individuell tilrettelegging
-av opplæringen, kalt «spesialundervisning» i
-dagens opplæringslov. Intensjonen er at den tilpassede opplæringen skal være best mulig, slik at
-behovet for individuell tilrettelegging blir minst
-mulig. Forutsetningen for en likeverdig, tilpasset
-opplæring for flest mulig, og individuell tilretteleg-
-
-ging for de få, er at den opplæringen som gis, er
-tilgjengelig for den enkelte, med hensyn til både
-bygninger, læremateriell, metoder og organisering, og at dette er tilrettelagt på en slik måte at
-det skaper et godt læringsmiljø for alle.73
-Tilpasset opplæring kan ha en smal og en vid
-tilnærming. Den smale tilnærmingen er knyttet til
-oppfatningen av at tilpasning likestilles med konkrete tiltak, metoder og bestemte måter å organisere opplæringen på. Den vide tilnærmingen innebærer en pedagogisk plattform som preger hele
-skolens virksomhet. Den smale tilnærmingen
-innebærer ofte tiltak overfor enkelte elever, og
-den vide tilnærmingen krever en overordnet strategi for skolens virksomhet og retter seg dermed
-mot alle elever.74 Tilpasset opplæring er ikke en
-statisk betegnelse og innebærer ikke én bestemt
-måte å gi opplæring på. Læreplanverket inneholder føringer for læring som er relevante for tilpasset opplæring, blant annet medvirkning, variasjon og inkludering.
-Tilpasset opplæring i vid forstand kan betegnes som universell utforming av opplæringen, og
-utvalget foreslår derfor å endre betegnelsen tilpasset opplæring til universell opplæring. At opplæringen skal være universell betyr at skolen skal
-gjennomføre opplæringen på en slik måte at den
-gir et tilfredsstillende opplæringstilbud for elevene, så langt det lar seg gjøre, uten behov for individuell tilrettelegging av opplæringen. Forslaget
-innebærer harmonisering av betegnelser i lovgivningen og ingen endring av rettstilstanden.
-Gjennom betegnelsen universell opplæring
-kan man få en annen inngangsport når man skal
-tenke på elevene og opplæringen innenfor et fellesskap. Ved å bruke denne betegnelsen tydeliggjøres utgangspunktet om at det er det mangfoldige fellesskapet av elever som er mottakere av
-opplæringen. Terminologien harmonerer etter
-utvalgets vurdering godt med at tilpasset opplæring i dag forstås som opplæring innenfor et
-læringsfellesskap, og signaliserer at skolen skal gi
-en opplæring som skal rette seg mot alle elever.
-Betegnelsen universell utforming var opprinnelig brukt i forbindelse med utformingen av
-fysiske forhold, men brukes i dag på de fleste
-samfunnsområder. På utdanningsområdet er
-betegnelsen brukt i en veiledningsbrosjyre fra
-2008 om universell utforming og individuell tilrettelegging i høyere utdanning og knyttes til den
-pedagogiske delen av opplæringen.75
-73
-74
-
-72
-
-Meld. St. 21 (2016–2017).
-
-367
-
-Kapittel 31
-
-75
-
-Utdanningsdirektoratet, 2007b.
-Brandt, 2010.
-Universell, 2008.
-
-[Side 370]
-
-368
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-Boks 31.1 Et eksempel fra Halsen ungdomsskole i Stjørdal kommune
-er at så mange elever som mulig, skal få hjelp og
-Halsen ungdomsskole ligger i Stjørdal komstøtte i det ordinære opplæringstilbudet
-mune i Trøndelag. Ett av kommunens satsingssammen med de andre elevene i klassen, etterområder for oppvekstområdet er å skape et mer
-som det gir best mulighet for faglig og sosial
-inkluderende læringsløp og utviklingsmiljø.
-utvikling for de aller fleste elevene. For lærerne
-Kommunen har spesielt vektlagt et felles verdikan dette oppleves som utfordrende, ettersom
-grunnlag, opplevelsen av likeverd og mestring
-det stiller større krav til dem når det gjelder å få
-for elevene, og læring innenfor et inkluderende
-til en god nok tilpasning for hver enkelt elev i
-fellesskap. Det arbeides systematisk og målretklassefellesskap preget av stor diversitet. Samtitet for å sikre tidlig innsats og tverrfaglig samardig er nettopp dette mangfoldet verdifullt, med
-beid.
-tanke på å skape et inkluderende læringsmiljø.
-På Halsen ungdomsskole har ledelsen og
-Halsen ungdomsskole har vært opptatt av å
-lærerne vært opptatt av at elevene skal få muligjobbe med flere tema parallelt for å styrke det
-het til å oppleve mestring ut fra sine faglige, perinkluderende læringsmiljøet. Som eksempler
-sonlige og sosiale forutsetninger, og at elevene
-kan nevnes psykisk helse og livsmestring, kjenskal få utfordringer å strekke seg etter. I og med
-netegn ved det gode læringsmiljøet, sunt og
-at færre elever nå har vedtak om spesialundergodt skolemåltid i trivelig kantine, og lese- og
-visning, har det blitt mulig å øke ressursene skoskriveopplæring ved bruk av iPad. Skolen har
-len bruker til å styrke opplæringen for alle elevogså opprettet et lavterskel tverrfaglig ressurene innenfor ordinær undervisning. Ressurser
-steam på skolen som kan gi råd og innspill til
-som tidligere var knyttet til enkeltelever i enkeltlærerne på system- og individnivå. I samråd med
-vedtak om spesialundervisning, brukes i større
-PP-tjenesten tilrås ikke spesialundervisning i så
-grad til å styrke elevenes læring innenfor klassestor grad fordi organisering, innhold og tilrettefellesskapet. Skolen har prioritert å bruke
-legging innenfor det ordinære tilbudet skal gi et
-lærerressurser til å sette inn to lærere i klassen
-minst like godt tilbud til elevene.
-eller til å dele klassen i heterogene grupper i
-For å skape trygghet for at elevenes behov
-noen timer i sentrale fag. Dette krever at
-blir ivaretatt, har skolen lagt vekt på at forellærerne samarbeider godt. Denne måten å orgadrene underveis har vært informert om omorganisere opplæringen på gir større muligheter for
-niseringen. Ved flere anledninger er ordningen
-tilpasset opplæring innenfor klassefellesskapet.
-diskutert i elevrådet, i Samarbeidsutvalget, i
-Andelen som mottar spesialundervisning på
-Foreldrenes arbeidsutvalg og på foreldremøter.
-skolen er gått ned fra ca. 18 prosent skoleåret
-God dialog mellom skolen og hver enkelt forel2014–2015 til ca. 6 prosent skoleåret 2019–2020.
-der og elev er viktig for å få til god tilpasset oppOmleggingen har vært testet ut skoleåret 2018–
-læring for elevene.
-2019 og 2019–2020, og skolen jobber kontinuerlig med å finne gode måter å organisere opplæKilde: E-post fra Halsen ungdomsskole til Opplæringslovutringen på.
-valget 05.11.2019
-Elevene går glipp av mye når de tas ut av
-klasserommet. Målet til Halsen ungdomsskole
-
-Den grunnleggende ideen bak universell
-utforming er å utforme samfunnet slik at så
-mange som mulig kan delta aktivt uavhengig av
-funksjonsevne. Målet er at universelt utformede
-løsninger skal kunne brukes av alle, slik at spesialløsninger unngås. Prinsippet anvendes ved
-utvikling av produkter, tjenester, bygg, IKT, infrastruktur mv.
-
-I FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne, artikkel 2, defineres universell utforming slik:
-Med «universell utforming» menes utforming
-av produkter, omgivelser, programmer og tjenester på en slik måte at de kan brukes av alle
-mennesker, i så stor utstrekning som mulig,
-uten behov for tilpassing og en spesiell utforming. «Universell utforming» skal ikke ute-
-
-[Side 371]
-
-NOU 2019: 23
-Ny opplæringslov
-
-lukke hjelpemidler for bestemte grupper av
-mennesker med nedsatt funksjonsevne når det
-er behov for det.
-Målet med universell utforming er å nå så mange
-som mulig. I prinsippene for universell utforming
-ligger en erkjennelse av at ikke alle alltid kan nås,
-og derfor benyttes ordet «hovedløsningen» i likestillings- og diskrimineringsloven § 17. På utdanningsområdet innebærer denne erkjennelsen at
-der det er behov for et annet opplegg enn det
-læreren kan gi gjennom universell opplæring, gis
-individuelt tilrettelagt opplæring.
-Med universell opplæring menes en faglig,
-metodisk og sosial tilpasning av opplæringen slik
-at elevene får realisert sitt potensial i så stor
-utstrekning som mulig innenfor fellesskapet, og
-med minst mulige behov for egne ordninger for
-enkeltelever. Skolen må kunne ta høyde for at
-elevene har forskjellige evner, forutsetninger og
-behov. Det innebærer blant annet at skolen må
-jobbe aktivt for å få med alle elevene i klassen,
-både sosialt og faglig, og ha strategier for å få alle
-elever med. Undervisningsopplegget må være
-slik at elevene nås og utfordres.
-Bruk av digitale verktøy i opplæringen gir nye
-muligheter til å gi universelt utformet opplæring.
-Digitale læremidler åpner for nye undervisningsformer og arbeidsmåter, og elevene kan delta i
-nye læringsfellesskap og samarbeide og dele
-kunnskap på nye måter. Tilgangen til interaktive
-oppgaver gir gode muligheter til å nivådifferensiere opplæringen når det er hensiktsmessig, og å
-la elever repetere før de går i gang med nye
-temaer.
-I betegnelsen universell opplæring legger
-utvalget at opplæringen – så langt det er mulig –
-skal favne alle elevene i et fellesskap. Skolen som
-virksomhet skal med andre ord legge til rette for
-og bidra til at alle elevene lærer og utvikler sitt
-læringspotensial gjennom deltakelse i et læringsfellesskap. Det motsatte vil være en skole som
-fokuserer på tiltak overfor enkeltelever. Universell utforming av opplæringen dreier seg om å ta
-hensyn til elevenes evner og potensial for læring,
-der målet er deltakelse for alle elever i et fellesskap i størst mulig utstrekning. Spesialløsninger
-for den enkelte skal følgelig unngås, men skal gis
-når den universelle opplæringen er utilstrekkelig.
-Universell utforming av opplæringen og
-læringsmiljøet handler i utgangspunktet om at det
-er utdanningssystemet som i størst mulig grad må
-tilpasses elevene, og ikke elevene som må tilpasse
-seg utdanningssystemet. Med universell opplæ-
-
-369
-
-Kapittel 31
-
-ring menes at opplæringen skal være god nok for
-alle – så langt det lar seg gjøre.
-Plikten til universell utforming er ikke begrenset til å gjelde lærerens undervisning i klasserommet, men den må ligge til grunn for strategier og
-valg som tas i forbindelse med opplæringen. For
-eksempel må kommunen sørge for at innkjøpene
-og metodevalgene som tas i skolene, er i samsvar
-med kravet om universell utforming av opplæringen. Opplæringen vil ikke være universell hvis
-man i fellesundervisningen velger å bruke materiell eller metoder som ikke gir utbytte av opplæringen for flest mulig elever, eller som ekskluderer
-elever fra å delta i opplæringen. Krav om universell utforming av nye og eksisterende nettløsninger og digitale læremidler følger av forskrift om
-universell utforming av IKT-løsninger.
-Kravet om universell utforming av de fysiske
-forholdene og av løsninger for IKT og utvalgets
-forslag om at universell utforming skal gjelde for
-opplæringen generelt, vil kunne bidra til en helhetlig tenkning når det gjelder god læring i et
-inkluderende læringsmiljø.
-Forsterket innsats til elever som ikke oppnår forventede læringsresultater
-For å nå målet om at elevene skal nås og utfordres
-i så stor utstrekning som mulig, må opplæringen
-preges av fleksibilitet. Utvalget mener at elever
-som ikke oppnår forventede læringsresultater, må
-få forsterket opplæring, og at slik opplæring skal
-gis innenfor den universelle opplæringen. Det
-innebærer at elever som trenger det, raskt får
-egnet opplæring slik at de oppnår forventede
-læringsresultater. Dette vil kunne forhindre at
-utfordringer får utvikle seg og bli mer alvorlige.
-Utvalget foreslår at forsterket innsats innføres som
-ny betegnelse, og at slik innsats delvis skal
-erstatte innholdet i dagens bestemmelse om tidlig
-innsats og intensiv opplæring i opplæringsloven
-§ 1-4.
-Etter opplæringsloven § 1-4 skal kommunen
-sørge for å gi elever på 1. til 4. trinn som står i fare
-for å bli hengende etter, målrettet og intensiv opplæring innenfor lesing, skriving og regning. Utvalget mener at betegnelsen «intensiv opplæring»
-ikke bør brukes, blant annet fordi opplæringen på
-dette nivået ikke nødvendigvis må være intensiv,
-selv om den kan være kortvarig. Forsterket innsats kan blant annet dreie seg om fordypning og
-konsentrasjon, alternativ organisering og bruk av
-ulike læremidler, og kan vare i en kort eller lengre
-periode. Hensikten med forsterket innsats er at
-veien til hjelp skal bli kortere, med andre ord at
-
-[Side 372]
-
-370
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-hjelpen skal komme så raskt som mulig. Dersom
-en elev til tross for forsterket innsats, ikke får tilfredsstillende utbytte av opplæringen, vil eleven
-ha rett til individuelt tilrettelagt opplæring.
-Utvalget foreslår at kommunen skal ha plikt til
-å gi elever som har behov for det, forsterket innsats, i form av konsentrert og målrettet opplæring
-slik at forventet progresjon kan bli nådd. Forslaget er ment å gi skolen et profesjonelt handlingsrom. Det skal være mulig å gi undervisning i små
-grupper eller som eneundervisning, dersom det
-er nødvendig for elevens utbytte av opplæringen.
-Eneundervisning skal i så fall kun skje i et begrenset omfang. Det er vesentlig at tiltak settes i gang
-med en gang skolen oppdager at en elev står i fare
-for å bli hengende etter. Forsterket innsats kan for
-eksempel innebære styrket intensitet i opplæringen overfor elever som har behov for å øve på
-lesefarten.
-Forsterket innsats avgrenses mot individuell
-tilrettelagt opplæring ved at forsterket innsats
-ikke skal være en individuell rettighet, og at tiltaket ikke krever sakkyndig vurdering eller annen
-omfattende saksbehandling. Dette samsvarer med
-dagens bestemmelse om tidlig innsats og intensiv
-opplæring. Kommunens plikt til å gi forsterket
-opplæring korresponder følgelig ikke med en tilsvarende rettighet for elevene. Det betyr at elever
-som får forsterket opplæring, ikke skal ha enkeltvedtak, og eleven har ikke rett til å klage på avgjørelsen eller innholdet i opplæringen. Eleven og
-foreldrene vil uansett ha rett til å kreve en sakkyndig vurdering dersom de mener at eleven har
-behov for individuelt tilrettelagt opplæring.
-Undersøkelser viser at andelen med spesialundervisning øker utover i grunnskolen, og at andelen er størst på 10. trinn. Mange elever kan, av
-ulike grunner, ha behov for tett oppfølging i kortere eller lengre perioder uavhengig av hvilket
-trinn de er på. Utvalget mener derfor at forsterket
-innsats ikke bør være forbeholdt elever på de
-laveste trinnene, men at skolen bør ha plikt til å gi
-forsterket opplæring til elever på alle trinn. Utvalget foreslår videre at forsterket innsats ikke skal
-begrenses til lesing, skriving og regning, men
-gjelde all opplæring.
-Utvalget mener at det ikke bør åpnes for at
-elever som får forsterket opplæring, skal ha avvik
-fra kompetansemålene i læreplanverket. Dersom
-en elev har behov for avvik fra kompetansemålene, vil eleven ha rett til individuelt tilrettelagt
-opplæring.
-Fordelen med løsningen som foreslås, er at
-den vil kunne frigjøre tid for PP-tjenesten ved at
-færre kan få behov for individuelt tilrettelagt opp-
-
-læring, og følgelig at tjenesten får mer tid til å
-hjelpe skolen i arbeidet med kompetanseutvikling
-og organisasjonsutvikling. Problemet med ventetid for å få sakkyndig vurdering for dem som trenger det, vil også kunne reduseres.
-Utvalget foreslår samtidig at PP-tjenesten får
-en uttrykkelig plikt til å gi råd til skolene om hvordan forsterket innsats kan organiseres og gjennomføres, se kapittel 31.5.8 om PP-tjenesten.
-
-31.5.4.3 Individuell tilrettelegging
-Retten til spesialundervisning etter dagens
-opplæringslov deles opp i tre rettigheter
-Spesialundervisning er etter utvalgets mening en
-upresis og utdatert betegnelse. Uttrykket gir inntrykk av at det kun omfatter undervisning, og at
-den undervisningen som gis, er spesiell. Dette
-harmonerer dårlig med virkeligheten. Betegnelsen omfatter ikke bare undervisning, men også
-fysisk tilrettelegging som bruk av utstyr og læremidler, og personlig assistanse. Undervisningen
-som gis, kan være alt fra å tilrettelegge enkelte
-deler av undervisningen til å gi omfattende pedagogisk støtte. Det kan også innebære at eleven
-skal ha unntak fra ett eller flere av kompetansemålene i læreplanverket. Utvalget viser til kunnskapsgrunnlaget og de nevnte utfordringene med
-at spesialundervisning oppleves som og virker
-både faglig og sosialt stigmatiserende. Uttrykket
-spesialundervisning kan gi unødvendige assosiasjoner om at noen ikke er «normale», og derfor
-trenger noe spesielt.
-Utvalget foreslår derfor at betegnelsen «spesialundervisning» endres til individuelt tilrettelagt
-opplæring. Utvalget viser til at likestillings- og diskrimineringsloven § 21 inneholder en regel om
-rett til individuell tilrettelegging for elever og studenter. Retten til tilrettelegging gjelder både
-undervisningen, lærestedet, læremidler og eksamen. I forarbeidene til bestemmelsen, Prop. 81 L
-(2016–2017) s. 327, er det slått fast at bestemmelsen ikke gir rettigheter utover det som følger av
-opplæringsloven, men overlapper disse reglene.
-Etter dagens regel i opplæringsloven § 5-1 har
-en elev rett til spesialundervisning når eleven ikke
-har «tilfredsstillande utbytte» av opplæringen. Det
-kan være mange grunner til at en elev ikke har tilfredsstillende utbytte av opplæringen. Det kan
-blant annet være pedagogiske årsaker som hvordan opplæringen er tilrettelagt, at de fysiske forholdene på skolen ikke er godt nok tilrettelagt, og
-at eleven ikke klarer å utføre dagligdagse gjøremål eller holde konsentrasjonen oppe og følge
-
-[Side 373]
-
-NOU 2019: 23
-Ny opplæringslov
-
-med i undervisningen. At elever ikke har tilfredsstillende utbytte av opplæringen, kan med andre
-ord avhjelpes med pedagogisk tilrettelegging,
-fysisk tilrettelegging eller praktisk hjelp i skolehverdagen. Det kan også være nødvendig med en
-kombinasjon av disse. Alle disse omstendighetene
-kan etter dagens regler utløse rett til spesialundervisning. Ligger årsaken i fysiske eller psykososiale forhold, vil også tiltak etter opplæringsloven
-kapittel 9 A være aktuelt.
-Utvalget foreslår å dele opp rettighetene som i
-dag følger av § 5-1 om spesialundervisning, i tre
-ulike bestemmelser: (1) rett til individuelt tilrettelagt opplæring, (2) rett til personlig assistanse og
-(3) rett til fysisk tilrettelegging.
-Forslaget innebærer at innholdet i retten til
-individuelt tilrettelagt opplæring ikke favner like
-vidt som innholdet i dagens regler om spesialundervisning. Det som ikke er opplæring (undervisning), og som ikke nødvendigvis må utføres av
-lærere, skal falle utenfor: Det vil si at personlig
-assistanse, som hjelp i forbindelse med påkledning, toalettbesøk, måltider, medisinering etc., og
-fysisk tilrettelegging ikke skal regnes som individuelt tilrettelagt opplæring. Dette er for å unngå
-sammenblanding av personlig assistanse, fysisk
-tilrettelegging og tilrettelegging av selve opplæringen. Forslaget innebærer at det ikke skal være
-krav om sakkyndig vurdering fra PP-tjenesten for
-å få tiltak om personlig assistanse eller fysisk tilrettelegging.
-Rett til individuelt tilrettelagt opplæring
-Elever som ikke har tilfredsstillende utbytte av
-den universelle opplæringen, skal etter utvalgets
-forslag ha rett til pedagogiske tiltak i form av individuelt tilrettelagt opplæring for å nå kompetansemålene i ett eller flere fag eller målene i den overordnede delen av læreplanverket. Innholdet i,
-organiseringen av og omfanget av individuelt tilrettelagt opplæring vil nødvendigvis variere ut fra
-skolens evne og mulighet til å gi universell opplæring og hvilke løsninger som er nødvendige for
-den enkelte elev. Klare, objektive kriterier når det
-gjelder hvem som skal ha rett til tilrettelegging,
-innholdet i opplæringen og omfanget av den i det
-enkelte tilfelle, vil det derfor ikke være realistisk å
-lovfeste i detalj. Avgjørelsen av disse spørsmålene
-vil måtte bero på en faglig-pedagogisk vurdering.
-Rett til personlig assistanse
-Utvalget foreslår at elever som har behov for praktisk hjelp for å få utbytte av opplæringen, skal ha
-
-371
-
-Kapittel 31
-
-en individuell rett til personlig assistanse. Med
-praktisk hjelp menes bistand fra en person (assistent) som kan følge med og hjelpe eleven i skolehverdagen. Assistansen kan variere både i omfang
-og oppgaver, og kan for eksempel være hjelp i forbindelse med av- og påkledning, måltider, toalettbesøk, sosiale aktiviteter i friminuttet, bæring av
-sekk og forflytning. Slike dagligdagse aktiviteter
-kan kreve mye krefter for enkelte elever. Assistenten bør være en ressurs som skal avlaste eleven
-slik at eleven får overskudd til å konsentrere seg
-om det faglige på skolen. En elev kan i tillegg ha
-rett til personlig assistanse etter helse- og
-omsorgstjenesteloven, se Utdanningsdirektoratets tolkningsuttalelse fra 2017.76
-De vanlige saksbehandlingsreglene i forvaltningsloven skal følges når det skal fattes vedtak
-om personlig assistanse. Det vil si at det ikke stilles krav om at det skal foreligge en sakkyndig
-utredning fra PP-tjenesten før kommunen skal
-fatte vedtak om fysisk tilrettelegging og individuell personlig assistanse. Siden saken, ifølge forvaltningsloven, skal være «så godt opplyst som
-mulig før vedtak treffes», vil det i noen tilfeller
-kunne være nødvendig med en vurdering fra PPtjenesten.
-Rett til fysisk tilrettelegging
-Utvalget foreslår at elever som har behov for
-fysisk tilrettelegging av læringsmiljøet for å få
-utbytte av opplæringen, skal ha en individuell rett
-til slik tilrettelegging. Med fysisk tilrettelegging
-menes tilrettelegging av arbeidsplassen eller klasserommet. Det kan også være at eleven har behov
-for materielle ressurser, som ulike hjelpemidler
-som for eksempel teleslynge. Kommunen skal,
-både etter dagens lov77 og etter utvalgets forslag, i
-hovedsak dekke hjelpemidler som er nødvendig
-for å motta opplæring for å gjøre skolearbeidet.
-Skolehjelpemidler kan også dekkes av NAV etter
-folketrygdloven § 10-7 første avsnitt bokstav a.
-Når et hjelpemiddel ikke blir dekket av NAV, og
-hjelpemiddelet er nødvendig for at eleven skal få
-forsvarlig utbytte av opplæringen, har kommunen
-et restansvar. Læremidler er for øvrig ikke omfattet av folketrygdlovens regler, og må stilles til
-rådighet av kommunen.
-På samme måte som for vedtak om personlig
-assistanse, foreslår utvalget at de vanlige saksbehandlingsreglene i forvaltningsloven skal følges
-når det skal fattes vedtak om fysisk tilrettelegging.
-76
-77
-
-Utdanningsdirektoratet, 2017g.
-Utdanningsdirektoratet, 2014e.
-
-[Side 374]
-
-372
-
-NOU 2019: 23
-
-Kapittel 31
-
-Ny opplæringslov
-
-Boks 31.2 God opplæring for elever som har behov for individuell tilrettelegging
-sjonsnivået hennes som liten, så sa de at Maren
-Hva gjør vi med Maren?
-skal gå for karakterer i alle fag. Da tenkte jeg
-Sitat fra spesialpedagogen:
-at det er galskap, det må vi få te»
-«Grunnpilarene i opplegget rundt Maren
-handler jo om et veldig intensivt og godt samarMaren følger kompetansemålene i læreplanen
-beid, både mellom meg som spesialpedagog og
-så langt det er mulig. Det faglige innholdet tilde ulike faglærerne og kontaktlæreren. Det
-passes slik at hun blir utfordret, men slik at hun
-handler ikke minst om samarbeid med heimen,
-kan klare oppgavene og oppleve mestring.
-særlig fra barnehagen av, så var det kjempevikUndervisningen foregår i fellesskap med de
-tig, at vi gikk for de samme måla, at vi jobba
-andre elevene i klassen så langt dette er forsvarmed Maren på ganske mye samme måter. For
-lig og mulig. De voksne har høye forventninger
-eksempel når vi skulle lære inn om det var ord
-til at hun kan lære. Det settes ikke noen
-eller leikeferdigheter.»
-begrensninger basert på Marens diagnose og
-holdningen er at alt er mulig. Lærerne og skolen
-Maren får medvirke i planlegging, gjennomføer opptatt av Marens utbytte av opplæringen. De
-ring og evaluering av opplæringen. Det vil si at
-valgene som tas er gjort ut fra en vurdering av
-hun er med på å bestemme om hun vil ha underhva som er hennes beste. Det er opplæringen
-visningen i eller utenfor klasserommet. Hun delsom tilpasses eleven, ikke eleven som må tiltar også når læringsaktivitetene blir evaluert.
-passe seg opplæringen.
-Skolen er opptatt av et godt hjem – skoleGjennom både faglige og praktiske/sosiale
-samarbeid og legger til rette for dette gjennom
-aktiviteter jobber skolen for en inkluderende
-blant annet beskjedbøker, e-poster og hyppige
-skole og et inkluderende læringsmiljø i klassen.
-møter. Foreldrenes kompetanse anerkjennes, og
-Medelever lærer inkludering i praksis og ser at
-de deltar aktivt i samarbeidet for å utforme et
-dette har positive effekter for dem selv også.
-godt undervisningstilbud for Maren.
-Maren deltar i klassefellesskapet og i meningsOpplæringen gis av lærere med høy kompefylte sosiale aktiviteter som samtidig ivaretar
-tanse. Samarbeidet preges av stort engasjement
-hennes behov. Skolen ser først og fremst Maren
-og vilje til å finne gode løsninger som gjør at alle
-som en person som tilhører deres elevgruppe,
-elever har mulighet til å utnytte sitt potensial for
-deretter vurderer de hva som i hennes tilfelle
-læring. Lærerne og skolen ønsker veiledning,
-hindrer læring. Kontaktlæreren har også ansvar
-og samarbeider med alle instanser som er nødfor Maren, noe som innebærer et ansvar for at
-vendig for at læringsutbyttet skal bli best mulig.
-Maren skal være en naturlig del av klassen.
-Skolen sørger for stabile lærekrefter og at overDette er viktige faktorer som gjør at Maren har
-ganger planlegges nøye. Elevene som er mest
-et klassemiljø som ivaretar henne og hvor hun
-«sårbare» prioriteres ved sykdom i personalet.
-har venner.
-Sitat fra faglærer:
-«Når Maren skulle begynne i ungdomstrinnet,
-så sa jo hab.tjenesten, etter å ha beskrivi funk-
-
-Elever vil ha rett til fysisk tilrettelegging også
-etter likestillings- og diskrimineringsloven § 21.
-Retten til fysisk tilrettelegging etter opplæringsloven går noe lenger i å slå fast rettigheter enn likestillings- og diskrimineringsloven, i og med at opplæringsloven ikke har begrensninger om at kravet
-ikke skal innebære en uforholdsmessig byrde.
-Likestillings- og diskrimineringsloven § 21 gir
-
-Teksten er skrevet med utgangspunkt i Barneombudets film
-«Hva gjør vi med Maren?«
-
-Kilde: Barneombudet, 2017. E-post fra Barneombudet til
-Opplæringslovutvalget 14.10.2019
-
-dessuten en særrett til elever «med funksjonsnedsettelse». Opplæringsloven § 9 A-7 gir derimot en
-allmenn rett, da «alle» elever har rett til en
-arbeidsplass som er tilpasset deres behov. Utvalgets forslag innebærer, som i dag, at bestemmelsene om fysisk tilrettelegging etter opplæringsloven og etter likestillings- og diskrimineringsloven
-overlapper hverandre til en viss grad.
-
-[Side 375]
-
-NOU 2019: 23
-Ny opplæringslov
-
-31.5.5 Skolen skal følge med, melde fra og
-følge opp
-Ekspertgruppen for barn og unge med behov for
-særskilt tilrettelegging peker på at det i dag tar for
-lang tid for elever å få nødvendig hjelp. Dette til
-tross for at det følger av opplæringsloven at
-– opplæringen til enhver tid skal tilpasses elevens behov, jf. §§ 1-3 og 1-4
-– læreren skal vurdere om en elev trenger spesialundervisning, og melde fra til rektor når en
-elev har slike behov (meldeplikt), jf. § 5-4 første
-avsnitt andre setning
-– skolen skal ha vurdert og eventuelt prøvd ut tiltak (utprøvingsplikt) innenfor det ordinære
-opplæringstilbudet med sikte på å gi eleven tilfredsstillende utbytte før det blir utarbeidet en
-sakkyndig vurdering, jf. § 5-4 første avsnitt
-tredje setning
-Lærernes meldeplikt til rektor etter opplæringsloven § 5-4 første avsnitt andre setning har stor
-betydning for å sikre at elevene får oppfylt rettighetene sine. Meldeplikten gjelder gjennom hele
-opplæringsløpet i grunnskolen og videregående
-opplæring og krever en løpende vurdering av den
-enkelte elev. At lærerne har plikt til løpende å vurdere den enkelte elev følger dessuten av forskrift
-til opplæringsloven § 3-11. Ifølge bestemmelsen
-har læreren, som ledd i underveisvurderingen i
-fag, plikt til å vurdere om eleven har tilfredsstillende utbytte av opplæringen.
-Formålet med bestemmelsen i § 5-4 første
-avsnitt tredje setning om at skolen skal ha vurdert
-og eventuelt prøvd ut tiltak, er å sikre at skolen
-skal gjøre en grundig vurdering av om elevene
-kan få tilfredsstillende utbytte av det ordinære
-opplæringstilbudet, før en elev eventuelt blir henvist til PP-tjenesten. I forarbeidene til loven78 står
-det at plikten til å prøve ut tiltak ikke gjelder de tilfellene hvor det er klart at elevens behov ikke kan
-løses innenfor rammene av ordinær opplæring.
-Utprøvingsplikten må ses i sammenheng med
-plikten til å gi alle elever tilpasset opplæring etter
-§§ 1-3 og 1-4 og PP-tjenestens plikt etter § 5-3 til å
-ta standpunkt til om elevens lave læringsutbytte
-kan avhjelpes innenfor den ordinære opplæringen.
-Barneombudet har gitt innspill om at skolens
-plikter bør presiseres, og at det er viktig å sette
-pliktene i sammenheng og utdype hva det innebærer. Ombudet mener at det bør fastsettes i
-loven at skolen har plikt til å
-78
-
-Prop. 129 L (2012–2013), merknad til § 5-4.
-
-–
-–
-–
-–
-
-373
-
-Kapittel 31
-
-følge med
-undersøke
-sette inn nødvendige tiltak
-la eleven medvirke
-
-Til dette vil utvalget bemerke at elevenes rett til
-vurdering underveis etter forskrift til opplæringsloven kapittel 3, lærerens plikt til å vurdere om
-eleven har tilfredsstillende utbytte av opplæringen
-etter forskriftens § 3-11, og lærernes plikt til å vurdere om en elev trenger spesialundervisning etter
-opplæringsloven § 5-4, også kan beskrives som en
-plikt for lærene til å følge med på elevens læringsutbytte og undersøke om eleven har behov for tilrettelegging. For å vurdere om eleven har tilfredsstillende utbytte må læreren nødvendigvis følge
-med og undersøke elevens behov. Det er det
-samme, men uttrykt på forskjellige måter.
-Plikten til å sette inn nødvendig tiltak følger av
-reglene om til tilpasset opplæring, jf. opplæringsloven §§ 1-3 og 1-4, og regelen om at skolen skal
-prøve ut tiltak innenfor det ordinære opplæringstilbudet, jf. § 5-4 første avsnitt tredje setning.
-Plikten til å la eleven medvirke og elevens rett
-til dette følger av § 5-4 tredje avsnitt og barnelova
-§ 31. Utvalget foreslå at elevens rett til å medvirke
-blir utrykkelig uttalt i den innledende delen i ny
-opplæringslov, se kapittel 31.5.6 nedenfor.
-Utvalget foreslår bare mindre endringer i
-reglene om vurderingsplikten, meldeplikten,
-utprøvingsplikten mv. Utvalget ønsker ikke mer
-detaljregulering av lærernes eller skolens plikter
-enn det som følger av dagens lov. Utvalget foreslår
-at de nevnte pliktene klargjøres og settes i sammenheng i forslaget til ny opplæringslov, inkludert plikten til å gi forsterket innsats, se forslaget
-§ 10-2. Forsterket innsats er omtalt ovenfor i kapittel 31.5.4.2.
-De gjeldende pliktene kan etter utvalgets oppfatning presenteres og uttrykkes tydeligere enn i
-dagens lov. Lovforslaget inneholder derfor plikter
-som er ledd i et handlingsforløp som går ut på at
-kommunen skal sørge for at lærerne skal (1) følge
-med på og vurdere elevenes utbytte av opplæringen (2) melde fra til rektor når det er tvil om at
-eleven har tilfredsstillende utbytte av opplæringen
-og (3) følge opp ved å vurdere og sette i verk tiltak
-innenfor den universelle opplæringen før eleven
-eventuelt henvises til PP-tjenesten eller får vedtak
-om fysisk tilrettelegging eller personlig assistanse.
-Plikten til å følge med på og vurdere elevenes
-utvikling er ment å være en klargjøring av dagens
-plikt til underveisvurdering og plikten til å vurdere om en elev trenger spesialundervisning.
+## Utvalgets forslag
+
+Utvalget foreslår
+
+- at loven benytter «lærling» og «kontrakt om opplæring» som fellesbenevnelser for alle som får fagopplæring i bedrift, og for kontrakter om fagopplæring, se forslag til §§ 8-1 og 8-2
+
+- at «prøve» og «dokumentasjon» skal brukes som fellesbenevnelser for sluttvurderinger i fag- og yrkesopplæringen
+
+- ikke endringer i dagens ulike opplæringsordninger, men oppfordrer departementet til å vurdere om det er behov for alle de ulike ordningene og benevnelsene
+
+- at departementet revurderer lærekandidatbegrepet og om regelverket for opplæring i bedrift ivaretar rettigheter for alle mennesker med nedsatt funksjonsevne
+
+- å innføre plikt for fylkeskommunen til å sørge for at lærlinger skal ha tilgang på rådgivning om utdannings- og yrkesvalg og rådgivning om sosiale og personlige forhold (se omtale i kapittel 42.6.3 og forslag til § 14-1 tredje avsnitt og § 14-2 andre avsnitt)
+
+- at forbudet mot bruk av plagg som helt eller delvis dekker ansiktet, ikke videreføres for lærlinger, se forslag til § 12-4
+
+- at retten til spesialundervisning for lærekandidater ikke videreføres
+
+- at opplæringsloven fullt ut skal regulere opphør av både arbeidsavtale og lærekontrakt, se forslag til § 8-4 andre avsnitt
+
+- at regelen om prøvetid også skal gjelde for lærekandidater som er over 21 år og har inngått avtale om full opplæring i bedrift, se forslag til § 8-4 tredje avsnitt
+
+- at det ikke skal være en terskel for heving av kontrakten om opplæring etter ønske fra lærlingen, se forslag til § 8-3 andre avsnitt
+
+- at opplæringsloven ikke skal gi saksbehandlingsregler for hevingssaker, herunder at det ikke reguleres en rett til å uttale seg før det fattes vedtak om heving
+
+- å ikke videreføre en særskilt rett til tilgang til PP-tjenesten for lærlinger, se for øvrig § 10-12
+
+- å videreføre krav om godkjenning av lærebedrifter, men at det ikke skal være krav om godkjenning av bedriftssamarbeid, se forslag til §§ 8-5 og 8-6
+
+- at opplæringskontor ikke reguleres i opplæringsloven, og dermed heller ikke kan godkjennes som lærebedrift
+
+- at kravet om at internkontrollen skal gjennomføres av den faglige lederen i samarbeid med representanter for arbeidstakerne, erstattes av et krav om at representanter for arbeidstakerne skal få ta del i arbeidet med internkontroll, se forslag til § 8-11
+
+- å tydeliggjøre at fylkeskommunen har plikt til å veilede og kontrollere at godkjente lærebedrifter oppfyller kravene i loven, se forslag til § 8-9
+
+- at reglene om tap av godkjenning som lærebedrift flyttes fra forskriften og til opplæringsloven, se forslag til § 8-9
+
+- at fylkeskommunenes ansvar for formidling kommer tydeligere fram av loven, og at ansvaret utvides til å omfatte alle kvalifiserte søkere, se forslag til § 8-7
+
+- at plikten til å tilby praksisbrevopplæring ikke videreføres
+
+- å videreføre en regulering av y-nemndene, men å endre loven slik at y-nemndas råd skal tillegges stor, ikke avgjørende, vekt. Se forslag til §§ 6-8, 8-5 og 8-9
+
+- språklige justeringer
+
+# Skyss, reisefølge og losji
+
+\[:figur:figX-X.jpg\]
+
+ 
+
+## Innledning
+
+Dette kapitlet handler om
+
+- rett til skyss mellom hjemmet og skolen for elever i grunnskolen og i videregående opplæring
+
+- rett til reisefølge og tilsyn i forbindelse med skyss
+
+- tilfeller der eleven må bo et annet sted enn hjemmet fordi daglig skyss ikke er forsvarlig (losji)
+
+Rett til skyss for voksne som får grunnskoleopplæring, er omtalt i kapittel 45.4.23.
+
+Retten til skyss er en integrert del av retten til gratis skolegang. Mange elever i grunnskolen og i videregående opplæring er avhengige av skyss for å komme seg til og fra det stedet de får opplæring. Hovedformålet med reglene om skyss er å sørge for lik rett og plikt til opplæring i samsvar med prinsippet om gratis skolegang.
+
+## Dagens regler
+
+Skyss mellom hjemmet og skolen
+
+Innledning
+
+Ifølge opplæringsloven kapittel 7 har elever i grunnskolen og videregående opplæring rett til gratis skyss mellom hjemmet og skolen når visse vilkår er oppfylt. Lærlinger, praksisbrevkandidater og lærekandidater har ikke rett til skyss.
+
+Rett til skyss på grunn av skoleveiens lengde
+
+Retten til gratis skyss er først og fremst knyttet til lengden på skoleveien: 2 km for elever på 1. trinn, 4 km for elever på 2. til 10. trinn og 6 km for elever i videregående skole. I tillegg har elever som trenger transport med båt, rett til slik transport gratis. Dette følger av opplæringsloven §§ 7-1 og 7-2. Det er presisert i lovens forarbeider at lengden på skoleveien skal regnes fra dør til dør «etter farande veg».[^725] Retten til skyss gjelder mellom hjemmet og skolen, men ifølge forarbeider må det kunne kreves at eleven går «ein rimeleg distanse» til en oppsamlingsplass.[^726]
+
+For elever i videregående opplæring kan fylkeskommunen velge om eleven skal tilbys gratis skyss som fylkeskommunen organiserer, eller om eleven skal få dekket skyssen med full skyssgodtgjørelse, men må ordne den praktiske gjennomføringen selv, jf. opplæringsloven § 7-2 første avsnitt. I forskrift til opplæringsloven § 10-2 er det gitt detaljerte bestemmelser om hva full skyssgodtgjørelse innebærer. Ved full skyssgodtgjørelse skal fylkeskommunen dekke alle utgifter som er nødvendige for transport av eleven til og fra skolen. Det gjelder også drosjeutgifter når dette er nødvendig. Rettighetene gjelder både faste og variable utgifter, noe som vil være aktuelt ved bruk av egen bil.
+
+Departementet kan gi forskrift om at skyssbehovet til elever i videregående opplæring kan dekkes på andre måter, jf. opplæringsloven § 7-2 første avsnitt tredje setning. Forskrift til opplæringsloven § 10-3 åpner for at elevene kan få rabatt på offentlig transport i stedet for gratis skyss. Rabattordningen må gjelde både dagtid og kveldstid, alle sju dager i uken.
+
+Rett til skyss for elever med nedsatt funksjonsevne
+
+Elever med behov for skyss på grunn av nedsatt funksjonsevne eller midlertidig skade eller sykdom har rett til gratis skyss uavhengig av hvor lang skoleveien er, jf. opplæringsloven § 7-3. Det er ikke tilstrekkelig at eleven har nedsatt funksjonsevne, midlertidig skade eller sykdom. I tillegg er det et vilkår at den nedsatte funksjonsevnen, skaden eller sykdommen gjør at eleven har behov for skyss.
+
+Fleksibel og brukervennlig skyssordning i Oslo kommune
+
+Elever som trenger skyss på grunn av nedsatt funksjonsevne, skade eller sykdom, har ifølge opplæringsloven rett til gratis skyss til og fra skolen og skolefritidsordningen. Elever som benytter skyss hjem fra skolen har ikke rett til å ta med seg en venn hjem i drosjen. Barn og foreldre opplever at dette gjør at barn med nedsatt funksjonsevne går glipp av det sosiale livet andre barn har.
+
+Oslo kommune har satt i gang en prøveordning med vennetur for elever som reiser alene i bilen eller som reiser alene med ledsager. Ordningen går ut på at en elev skal kunne ta med en venn eller et søsken hjem i drosjen etter skoletid. Eleven kan bare ta med én venn per gang. Det er et krav at vennen eller søskenet går på samme skole.
+
+Bestilling av vennetur skjer ved at foreldrene til eleven som ønsker å ta med en venn hjem, registrerer eleven for vennetransport. Foresatte kan innhente samtykke fra opptil fem venners foresatte ved bruk av samtykkeskjema som skal leveres til skolen. Skolen gir drosjeselskapet beskjed om at eleven kan ta med venner i drosje og hvilke venner som er registrert.
+
+Det er bare det barnet det er gitt melding om, som kan bli med på transporten, og barna kan bare bli kjørt til hjemmeadressen til barnet med nedsatt funksjonsevne. Det er ingen begrensning når det gjelder hvor mange venneturer en elev kan ha i løpet av et skoleår.
+
+Elever med nedsatt funksjonsevne har gjennom ordningen med vennetur fått større mulighet til å ha et sosialt liv etter skoletid. I arbeidet med å få til ordningen har det vist seg at det er mange hensyn å ta, men det har også vist seg at det er mulig å få til en god ordning.
+
+Oslo kommune 2019.
+
+\[Boks slutt\]
+
+Rett til skyss på grunn av særlig farlig eller vanskelig skolevei
+
+Elever i grunnskolen har også rett til gratis skyss når skoleveien er «særleg farleg eller vanskeleg», jf. opplæringsloven § 7-1 første avsnitt andre setning. Faren ved å ferdes på skoleveien må være utenom det vanlige for at veien skal kunne karakteriseres som «særleg farleg eller vanskeleg». I vurderingen skal alle relevante hensyn kartlegges, og det kreves både en trafikkfaglig vurdering (farevurdering) og en vurdering av elevens forutsetninger. Relevante hensyn kan være fartsgrense, trafikktetthet, om det finnes fortau eller gangvei, klimatiske forhold og ulykkesstatistikk. Også barnets forutsetninger for å ta seg forsvarlig fram i det aktuelle trafikkbildet må vurderes.[^727] Retten til skyss på grunn av særlig farlig eller vanskelig skolevei gjelder uavhengig av hvor lang skoleveien er.
+
+Det følger av forvaltningsloven § 17 at kommunen har utredningsplikt og skal sørge for at saken er så godt opplyst som mulig, før vedtak treffes. For eksempel kan kommunen måtte hente inn trafikkfaglig hjelp for å få saken tilstrekkelig opplyst.
+
+Skyss for elever som reiser fra to foreldrehjem
+
+Verken opplæringsloven eller lovens forarbeider omtaler retten til skyss for elever som reiser til skolen fra to foreldrehjem, enten på grunn av at barnet bor fast hos dem begge, eller på grunn av samværsavtale. Denne problemstillingen var sannsynligvis ikke tenkt på da dagens lovregler om skyss ble vedtatt.
+
+Ifølge barnelova § 36 har foreldre som ikke bor sammen, mulighet til å avtale at barnet skal bo hos en av dem, eller at barnet skal bo fast hos dem begge. At barnet bor fast hos begge foreldrene, omtales også som «delt bosted», men denne betegnelsen benyttes ikke i barnelova. At barnet bor fast hos begge foreldrene, innebærer ikke nødvendigvis at barnet bor like mye hos hver, men foreldrene har samme avgjørelsesmyndighet i store spørsmål i dagliglivet, for eksempel flytting innenlands. Foreldre kan også avtale en ordning med fast bosted hos den ene av foreldrene og samvær med den andre. Barnet kan tilbringe omtrent like mye tid hos hver av foreldrene også i de tilfellene det avtales samvær. Det avgjørende skillet mellom hvem barnet bor fast hos, og samvær, refererer altså ikke bare til hvordan barnets tid er delt mellom foreldrene, men også til hvordan avgjørelsesmyndigheten er fordelt mellom dem.
+
+Kunnskapsdepartementet har lagt til grunn at barnet kan ha rett til skyss til og fra skolen fra begge hjemmene når foreldrene ikke bor sammen.[^728] Hver av strekningene skal vurderes selvstendig. Retten til skyss gjelder også dersom en av foreldrene bor utenfor kommunegrensen eller fylkesgrensen der skolen ligger. Retten er ikke avhengig av om barnet bor fast hos dem begge, eller om det foreligger en samværsavtale. Hvordan tiden er fordelt mellom foreldrene, har ikke betydning for retten til skyss, men barnet har ikke rett til skyss i forbindelse med samvær i form av besøk. Barnets opphold hos hver av foreldrene må derfor være en fast, planlagt og regelmessig ordning, ikke improviserte enkeltstående besøk.[^729]
+
+Sivilombudsmannen har uttalt følgende:
+
+Dersom vilkårene i opplæringslova § 7-1 er oppfylt, har elever i grunnskolen rett til gratis skoleskyss, uavhengig av om de har ett eller to foreldrehjem. Det er et krav om at skysstilbudet skal være forsvarlig, noe som innebærer blant annet at eleven skal ha en akseptabel reisetid. Vurderingen av hva som er akseptabelt og forsvarlig bygger på en avveining mellom individuelle hensyn til eleven, og forhold knyttet til denne på den ene siden, og en effektiv og rasjonell organisering av skoleskyssen på den andre siden. Samfunnsøkonomiske hensyn er også relevante. Avveiningene skal skje etter de samme kriteriene uavhengig av antall hjem eleven måtte ha.
+
+Lokale retningslinjer for hva som anses som maksimal akseptabel reisetid for elever i ulike aldre, må gjelde uten tanke på om det er snakk om transport mellom skole og folkeregistrert adresse, eller til og fra bostedsadressen.[^730]
+
+Opplæringsloven er for øvrig tolket slik at et barn i grunnskolealder ikke kan være elev ved to grunnskoler selv om barnet har to hjem.[^731]
+
+Skyss til og fra skolefritidsordningen og leksehjelptilbud
+
+Elevene har som hovedregel ikke rett til skyss mellom hjemmet og skolefritidsordningen (SFO).
+
+Unntak fra hovedregelen gjelder for elever med nedsatt funksjonsevne, midlertidig skade eller sykdom som har behov for skyss. Disse elevene har rett til skyss mellom hjemmet og SFO, jf. opplæringsloven § 7-3 andre avsnitt. Retten er knyttet til åpningstiden for SFO og gjelder skyss til SFO før skoletid og hjem fra SFO om ettermiddagen. Retten omfatter ikke skyss til og fra SFO i skoleferiene.
+
+Elever som benytter tilbud om leksehjelp, har ikke rett til skyss til og fra leksehjelptilbudet.
+
+Reisefølge og tilsyn i forbindelse med skyss til og fra skolen
+
+Elever i grunnskolen og videregående opplæring som har rett til skyss, har rett til nødvendig reisefølge og tilsyn, eller begge deler. Dette følger av opplæringsloven § 7-4.
+
+Retten til reisefølge gjelder elever som må ha reisefølge for å kunne benytte seg av skoleskyssen, i hovedsak elever med nedsatt funksjonsevne.
+
+Retten til tilsyn gjelder først og fremst når elevene på grunn av skoleskyssen må vente på skoleområdet før og etter skoletid.[^732] I slike tilfeller må kommunen eller fylkeskommunen sørge for det tilsynet som er nødvendig. Hva som er nødvendig, vil være avhengig av elevens alder og evne til å klare seg selv. En elev kan ha rett til tilsyn når bytte av skyssmiddel bringer eleven i særlig farlige situasjoner, for eksempel på en stor og travel busstasjon. I videregående opplæring vil tilsyn bare være aktuelt for elever som på grunn av nedsatt funksjonsevne ikke kan klare å være alene i ventetiden.[^733]
+
+Retten til reisefølge og tilsyn gjelder også for elever med nedsatt funksjonsevne, midlertidig skade eller sykdom som får skyss til og fra SFO, jf. § 7-3 siste setning.
+
+Losji
+
+Losji for elever i grunnskolen
+
+Dersom daglig skyss ikke er forsvarlig, skal kommunen sørge for at grunnskoleelever innlosjeres, jf. opplæringsloven § 7-1 fjerde avsnitt første setning. Reglene om losji setter dermed en grense for i hvilke tilfeller en elev i grunnskolen har rett til skyss.
+
+Fordi barn har plikt til grunnskoleopplæring, har elever i grunnskolen plikt til å bo et annet sted enn i hjemmet når det er uforsvarlig med daglig skyss til og fra hjemmet. Plikten står ikke uttrykkelig i dagens opplæringslov, men framgår av forarbeidene til loven.[^734] Når det er klart at daglig skyss ikke er forsvarlig, skal kommunen gjøre vedtak om innlosjering uavhengig av om foreldrene har krevd innlosjering. Innlosjering kan i slike tilfeller vedtas mot foreldrenes vilje.
+
+Om skyss er forsvarlig, avgjøres av kommunen etter en konkret vurdering. Vurderingen skal være knyttet til den aktuelle eleven. Det skal blant annet legges vekt på elevens alder, eventuell nedsatt funksjonsevne, reisetid og sikkerhet på reisen. I vurderingen kan kommunen også legge vekt på om daglig skyss fører til uvanlig store kostnader eller vanskeligheter for kommunen. Dette følger av § 7-1 fjerde avsnitt andre setning.
+
+Hvis kommunen er i tvil om daglig skyss er forsvarlig, skal foreldrene avgjøre om eleven skal skysses eller innlosjeres, jf. § 7-1 fjerde avsnitt tredje setning.
+
+Losji for elever i videregående opplæring
+
+Elever i videregående opplæring har ikke rett til gratis losji slik som elever i grunnskolen. Fylkeskommunen skal likevel hjelpe eleven med å skaffe et sted å bo dersom eleven velger innlosjering på grunn av lang eller vanskelig skolevei. Dette følger av § 7-2 tredje avsnitt, som også pålegger fylkeskommunen å bygge elevboliger dersom det ikke er mulig å skaffe bolig på annen måte. Fylkeskommunen har ikke plikt til å dekke elevens utgifter til innlosjeringen.[^735]
+
+Elevene i videregående opplæring kan ikke pålegges å la seg innlosjere nærmere skolen, slik elever i grunnskolen kan. Elever i videregående opplæring kan derfor selv velge mellom skyss og innlosjering borte fra hjemmet. Opplæringsloven inneholder for øvrig ingen øvre grense for retten til skyss for elever i videregående opplæring, slik som for elever i grunnskolen. jf. at elever i grunnskolen har rett til skyss kun når daglig skyss er forsvarlig.
+
+Ansvaret for skyss, reisefølge og tilsyn
+
+Ansvaret er fordelt mellom fylkeskommunen og kommunen
+
+Ansvaret for skyss til og fra skolen, reisefølge og tilsyn er fordelt mellom fylkeskommunen og kommunen, jf. opplæringsloven § 13-4. Fylkeskommunen har ansvaret for å oppfylle de fleste skyssrettighetene. Den som har ansvaret for å oppfylle retten til skyss, har ansvaret for å fatte enkeltvedtak i tråd med reglene i forvaltningsloven.
+
+Fylkeskommunens ansvar
+
+Fylkeskommunen har ansvaret for å oppfylle retten til skyss på grunn av skoleveiens lengde for elever både i grunnskolen og i videregående opplæring. Fylkeskommunen skal også oppfylle retten til skyss for elever med nedsatt funksjonsevne, midlertidig skade eller sykdom og retten til nødvendig båtskyss. Kommunen skal dekke vanlig persontakst for grunnskoleelever og betaler refusjon til fylkeskommunen for dette.
+
+Fylkeskommunen har i tillegg ansvaret for å oppfylle retten til reisefølge og tilsyn for elever i videregående opplæring.
+
+Kommunens ansvar
+
+Kommunen har ansvaret for å oppfylle retten til skyss på grunn av særlig farlig eller vanskelig skolevei. Så lenge rettighetene blir oppfylt, kan kommunen la elevene bruke skyssruter som fylkeskommunen allerede har etablert. Kommunen skal i slike tilfeller dekke vanlig persontakst.
+
+Kommunen skal også oppfylle retten til reisefølge og tilsyn for grunnskoleelever. Kommunen må dekke alle kostnader knyttet til tilsynet eller reisefølget, for eksempel lønn og reiseutgifter for den som følger eleven.
+
+Skysstilbudet må være forsvarlig
+
+Den som har ansvaret for skysstilbudet etter opplæringsloven § 13-4, har også ansvaret for at tilbudet er forsvarlig. Dette framgår av forarbeidene til loven:
+
+Når fylkeskommunen har ansvaret for skyssen, må fylkeskommunen sørgje for at skyssen er forsvarleg heilt frå skolen og fram til heimen. Departementet viser i denne samanhengen til kommentaren til § 7-1 første leddet i lovutkastet, der det heiter at fylkeskommunen i vurderinga av rimeleg gangavstand til skyssmiddel blant anna skal leggje vekt på alderen til eleven, på trafikktryggleik og på kor framkommeleg vegen er.[^736]
+
+Sivilombudsmannen har uttalt seg om forsvarlighetsvurderingen:
+
+For å kunne foreta en kvalifisert avveining av de ulike hensynene i forsvarlighetsvurderingen, blir det av avgjørende betydning å kartlegge den enkelte elevs forutsetninger og behov, og de transportalternativer som foreligger.[^737]
+
+At skysstilbudet skal være forsvarlig, innebærer også at trygghetsstandardene som gjelder for offentlig transport må følges. Det betyr blant annet at en skolebuss eller drosje ikke kan ta med flere elever enn bussen eller drosjen er godkjent for.
+
+Hvordan skoleskyssen skal organiseres
+
+Det går ikke fram av loven hvordan skoleskyssen skal organiseres, annet enn at fylkeskommunen skal organisere skoleskyssen i samråd med kommunen, jf. opplæringsloven § 13-4 andre avsnitt. Ifølge lovens forarbeider innebærer dette at kommunen skal vurdere organiseringen av skoleskyssen når timeplanen og skoleruta skal fastsettes. Departementet har myndighet til å gi rettslig bindende pålegg dersom kommunen er uenige om organiseringen.
+
+Adgang til å stille vilkår om egenbetaling av skyss ved innvilgelse av søknad om skolebytte
+
+Kommunen har som hovedregel ikke adgang til å stille vilkår om at eleven eller foreldrene skal betale for skyss dersom eleven får innvilget skolegang på en annen skole enn den eleven tilhører etter opplæringsloven § 8-1 tredje avsnitt. Etter en konkret vurdering med utgangspunkt i grunnlaget for søknaden om skolebytte kan kommunen likevel gjøre unntak fra denne hovedregelen. Det er ikke adgang til å stille vilkår om egenbetaling av skoleskyss i saker hvor skolebyttets begrunnelse er å sikre retten til opplæring, for eksempel for å hindre mobbing eller sikre retten til et godt skolemiljø eller bedre tilpasset opplæring. Hvis grunnen til søknaden om skolebytte er å beholde kontakt med venner og å lette praktiske forhold for foreldrene, kan det være lov å stille vilkår om egenbetaling for å godta søknad om skolebytte.[^738]
+
+## Kunnskapsgrunnlaget
+
+### Rapporter og undersøkelser
+
+Hvor mange som har fått skyss
+
+Tall fra Statistisk sentralbyrå (SSB) viser at omtrent 140 000 grunnskoleelever og 97 000 elever i videregående skole hadde rett til skoleskyss i 2017.[^739] Ifølge NOU 1995: 18 var det i 1992 det 102 153 grunnskoleelever mellom 7 og 15 år som fikk skoleskyss.[^740] Utredningen inneholder ikke tall om skyss til og fra videregående opplæring etter § 3 i den tidligere velferdsloven.
+
+Rett til skyss til og fra SFO for elever med nedsatt funksjonsevne, midlertidig skade eller sykdom ble innført 1. august 2010. Lovendringen var et tiltak for å inkludere barn med nedsatt funksjonsevne i SFO.
+
+Utviklingen i kostnadene til skyss
+
+Senter for økonomisk forskning AS (SØF) har på oppdrag fra KS vurdert kostnader ved skoleskyss i perioden 2007–2013. Rapporten viser at det i fylkeskommunene samlet sett har vært en moderat kostnadsøkning når det gjelder skoleskyss, i denne perioden.[^741] Det kan se ut som om kommunene tar en litt større andel av den samlede regningen enn for noen år siden. Skolestrukturen har noen konsekvenser for kostnadene, men dette varierer veldig fra sak til sak, basert på elevtall, beliggenhet, rutetilbud og om det opprettes friskoler. Andre drivere som SØF har undersøkt, er nye valgfag på ungdomstrinnet, delt bosted, SFO og leksehjelp, flyktninger og asylsøkere, uten at disse ser ut til å ha påvirket kostnadene i særlig grad. Det gjør derimot mangel på konkurranse på transportområdet og økte kostnader innen transportområdet. I rapporten er det presisert at det er flere mulige feilkilder i de fylkeskommunale tallene som må tas i betraktning når man tolker resultatene, og det er flere fylkeskommuner som rapporterer om kostnadsvekst.
+
+Hvor mange elever som har vært innlosjert
+
+I NOU 1995: 18 ble det antatt at 60–70 elever i Finnmark var innlosjert (to kommunale og tre statlige ordninger). Utredningen har ikke tall på innlosjering i andre fylker. I St.meld. nr. 28 (1998–99) la departementet til grunn at 117 elever i grunnskolen var innlosjert i internat eller på annen måte hele eller deler av skoleåret 1997–1998.[^742] Av disse var 36 ved Sameskolen i Midt-Norge og Sameskolen i Troms. I meldingen ble det videre lagt til grunn at tallet på elever som er innlosjert hele eller deler av skoleåret, er redusert med om lag 50 prosent de siste fem årene siden skoleåret 1997–1998.
+
+Sameskolen i Troms, som er en regional skole for nordre Nordland og Troms, har fortsatt internat. Det samme har Sameskolen for Midt-Norge. Skolene mottar statstilskudd til driften og har mellom 15 og 20 elever. I Oslo er det i dag to internatskoler for elever i grunnskolen. Den ene av disse er Sedsvoll ungdomsskole. Sedsvoll skole gir tilbud til elever som har sosiale/emosjonelle vansker. Utvalget har ikke funnet informasjon som viser om innlosjering i grunnskolen fortsatt praktiseres utover dette. Når det gjelder de statlige ordningene i Finnmark som det vises til i NOU 1995: 18, er ikke disse lenger i drift.
+
+Antallet barn med to foreldrehjem
+
+Forskningen viser at stadig flere foreldre avtaler at barnet skal bo fast hos dem begge (delt bosted). SSB gjennomførte i 2012 en undersøkelse om bosted og samvær etter samlivsbrudd. Undersøkelsen fulgte opp tilsvarende undersøkelser i 2002 og 2004. Funnene viser at andelen barn i alderen 0 til 17 år med delt bosted har økt fra 8 prosent i 2002 til 25 prosent i 2012.[^743]
+
+Klager på vedtak om skyss
+
+Fylkesmannen er klageinstans for vedtak om skyss i grunnskolen. Tall fra Utdanningsdirektoratet viser at embetene mottok henholdsvis 211, 292 og 387 klagesaker i 2006, 2011 og 2016. Det vil si at det har vært en gradvis økning i antallet klagesaker.[^744] I 2016 ble det ikke gitt medhold i 291 saker, 72 fikk helt eller delvis medhold, mens 24 saker ble avvist. Fylkesmennene har ikke ført tilsyn med reglene om skyss de siste årene.[^745]
+
+### Innspill til utvalget
+
+KS har gitt innspill til utvalget om at det bør ryddes i bestemmelsene om skyss for elever som benytter tilbud om skolefritidsordning og leksehjelp. KS begrunner dette med at dersom målsettingen er sosial utjevning, henger det ikke sammen med at elever ikke har rett til skyss etter SFO.[^746] Videre mener KS at det ikke er nødvendig at det står i loven at foreldrene i tvilstilfeller skal avgjøre om eleven skal skysses eller innlosjeres, fordi dette er en del av en forsvarlig saksutredning. På den annen side mener KS at innlosjeringsbestemmelsen i opplæringsloven § 7-1 fjerde avsnitt er uklar. KS spør om det er foreldrene eller kommunen som avgjør om skyssen er forsvarlig, og videre: «Kan kommunen si den er uforsvarlig, men foreldrene likevel avgjøre at eleven skal skysses?» Ytterligere sier KS at forskriftshjemmelen i § 7-1 tredje avsnitt om at «\[d\]epartementet gir nærmare forskrifter om tryggleiken til elevane under skoleskyssen», ikke bør videreføres.
+
+Barneombudet har i samarbeid med Trygg Trafikk gitt innspill om at det blant annet er behov for å klargjøre hvem som har ansvaret for elevenes sikkerhet på skoleveien, og hvem som har rett til skyss på grunn av særlig farlig skolevei.[^747] Barneombudet og Trygg Trafikk peker på at vurderingen av hva som er særlig farlig vei krever både en trafikkfaglig vurdering (farevurdering) og en barnefaglig vurdering (følelsen av trygghet), og at vurderingen av den enkelte elevs forutsetninger ofte mangler. I innspillet stilles det også spørsmål ved hva som er grensen for forsvarlig delegering av myndighet til å gjøre vedtak om skyss.
+
+## Utvalgets vurdering
+
+### Skyss mellom hjemmet og skolen
+
+Etter utvalgets prinsipper for regelstyring, skal regler brukes når det er viktig med like muligheter uavhengig av hvor man bor. Retten til skyss er avgjørende for at mange elever skal ha mulighet til å gjennomføre plikten til grunnskoleopplæring og benytte seg av retten til slik opplæring og videregående opplæring. Etter utvalgets vurdering bør derfor retten til skyss til og fra skolen på bakgrunn av antallet kilometer mellom hjemmet og skolen videreføres i ny opplæringslov. Rett til båttransport for elever som trenger slik transport, og rett til skyss for elever som har behov for skyss på grunn av nedsatt funksjonsevne eller midlertidig skade eller sykdom, bør også videreføres.
+
+Loven bør, som i dag, også inneholde en supplerende regel for elever i grunnskolen om rett til skyss på grunn av «særleg farleg eller vanskeleg skoleveg». I loven bør det presiseres at kommunen skal legge vekt på barnets alder i vurderingen av om skoleveien er særlig farlig eller vanskelig.
+
+Selv om det ikke går uttrykkelig fram av loven, kan en elev etter dagens regler ha rett til skoleskyss fra to hjem dersom eleven har fast, planlagt og regelmessig opphold i to foreldrehjem, se kapittel 30.2. Retten gjelder ikke besøk utenom avtalt eller rettslig fastsatt deling av tiden hos hver av foreldrene. Når eleven har fast bosted to steder, ofte kalt delt bosted, er hovedregelen at eleven har rett til skyss til begge hjem dersom avstanden er mer enn 2 eller 4 kilometer, avhengig av hvilket trinn eleven går på. Denne retten gjelder også om det ene hjemmet ligger i en annen kommune eller et annet fylke enn skolen der eleven går. Utvalget mener at retten til skyss for elever som reiser til skolen fra to foreldrehjem, bør videreføres i ny opplæringslov. Retten til skoleskyss gjelder både når barnet har delt bosted, og når det foreligger avtale eller rettslig avgjørelse om fast samværsordning.
+
+### Skyss til og fra skolefritidsordningen (SFO) og leksehjelptilbud
+
+KS har bedt utvalget vurdere om elever bør ha rett til skyss også når de benytter tilbud om skolefritidsordning (SFO) og leksehjelp. Utvalget anbefaler at dagens regler videreføres, fordi det vil ha vesentlige økonomiske og administrative konsekvenser dersom det skal innføres rett til skyss for elever som benytter SFO og leksehjelp.
+
+Utvalget foreslår å videreføre dagens regler om rett til skyss til og fra SFO for elever med nedsatt funksjonsevne, midlertidig skade eller sykdom som har tilbud om plass i SFO, og som har behov for skyss.
+
+### Reisefølge og tilsyn i forbindelse med skyss til og fra skolen
+
+Reisefølge og tilsyn kan være nødvendig for at enkelte elever skal kunne bruke skysstilbudet de har rett til. Reisefølge og tilsyn kan følgelig være en forutsetning for at retten til skyss og dermed retten til opplæring skal være reell. Utvalget foreslår derfor at dagens regler om reisefølge og tilsyn for elever som får skoleskyss, videreføres.
+
+### Losji
+
+Elever i grunnskolen
+
+Når det er klart at daglig skyss for en elev i grunnskolen ikke er forsvarlig, skal kommunen etter dagens regler fatte vedtak om at eleven skal bo et annet sted enn i hjemmet (innlosjering), uavhengig av om foreldrene har krevd det, se kapittel 30.2.
+
+Utvalget foreslår å videreføre denne regelen. Samtidig mener utvalget at foreldre selv bør kunne velge å sørge for skyss for sitt barn, selv om daglig skyss ikke vil være forsvarlig. Det er ikke klart om foreldrene har dette valget etter dagens regler. Utvalget mener at kommunen fortsatt skal ha plikt til å tilby barnet et annet sted å bo, men at foreldrene skal kunne velge om de heller ønsker å organisere og dekke utgiftene til skyssen selv.
+
+Utvalget har ikke funnet tall for hvor mange elever i grunnskolen som i dag er innlosjert. Antakelig er det svært få. Kanskje har dagens regler om innlosjering utspilt sin rolle. En plikt for eleven til å bo et annet sted enn hjemmet er et ytterliggående tiltak overfor eleven og foreldrene. Er det en reell eller akseptert ordning å innlosjere elever i grunnskolen, særlig de yngste, hvis skoleskyss ikke er forsvarlig? Hva er i så fall alternativet? Bør foreldrene flytte eller selv sørge for at barnet kommer på skolen dersom skyss ut fra en konkret helhetsvurdering ikke er forsvarlig?
+
+Når barn har rett og plikt til grunnskoleopplæring, er det rimelig at det finnes et alternativ til skyss dersom eleven ikke har rett til skyss fordi det ikke er trygt, eller fordi det er for kostbart å skysse eleven. Utvalget mener derfor det er gode grunner til å videreføre reglene om kommunens plikt til å tilby losji som et alternativ til skyss. Innlosjering brukes nesten ikke i dag, og utvalget antar at det sjelden vil være aktuelt å måtte innlosjere elever. Dersom kommunen er *i tvil* om skyss er forsvarlig, bør foreldrene – som i dag – kunne velge om eleven skal innlosjeres eller skysses.
+
+Elever i videregående opplæring
+
+Utvalget foreslår at dagens regler om losji for elever i videregående opplæring videreføres. Det betyr at fylkeskommunen skal hjelpe eleven med å skaffe et sted å bo, dersom eleven eller foreldrene velger innlosjering på grunn av lang eller vanskelig skolevei. Dersom det ikke er mulig å skaffe bolig på annen måte, skal fylkeskommunen bygge elevboliger. Fylkeskommunen har ikke plikt til å dekke elevens utgifter til innlosjeringen.
+
+### Rekkevidden av retten til skyss
+
+Kravet i dagens § 7-1 fjerde avsnitt om at daglig skyss for elever i grunnskolen skal være forsvarlig, innebærer en øvre grense for hvor langt den enkeltes rett til skyss rekker. Hvis daglig skyss ikke vil være forsvarlig, har eleven ikke rett til skyss, men til å bo et annet sted enn i hjemmet (losji), se kapittel 30.2. Det er den som har ansvaret for å oppfylle retten til skyss, som skal fatte vedtak om skyss og følgelig også vurdere om det vil være forsvarlig å skysse eleven. Fylkeskommunen har ansvaret for å oppfylle retten til skyss når skoleveien er mer enn to kilometer (for elever på 1. trinn) eller fire kilometer (for elever på 2. til 10. trinn). Utvalget legger til grunn at det kun er når skoleveien er mer enn to eller fire kilometer, at det kan være aktuelt å vurdere om det vil være forsvarlig å skysse eleven. Det er derfor fylkeskommunen som skal vurdere om skyss vil være forsvarlig i disse tilfellene. Loven inneholder momenter for hva fylkeskommunen skal og kan legge vekt på i vurderingen av om skyss er forsvarlig. Det skal legges vekt på individuelle forhold, og det kan også legges vekt på samfunnsøkonomiske hensyn. Tilsvarende regel finnes ikke for elever i videregående opplæring.
+
+Vurderingen av om skyssen er forsvarlig er den samme uavhengig av om eleven har ett eller to hjem. For elever som har to hjem, vil det trolig aldri være aktuelt med losji når daglig skyss til ett av hjemmene ikke er forsvarlig. Det vil da være mer nærliggende at foreldrene selv sørger for skyss for barnet, eventuelt at de finner en ny løsning for samvær med barnet eller hvor barnet skal bo fast.
+
+At skyss må være forsvarlig, innebærer blant annet at reisetiden må være akseptabel. Opplæringsloven inneholder i dag ikke regler om hva som normalt vil være akseptabel reise- og ventetid for elever i ulike aldre. Vurderingen må være individuell. Fylkeskommunen må derfor kartlegge den enkelte elevs forutsetninger og behov og hvilke transportalternativer som finnes. Dersom eleven har delt bosted og det ene hjemmet ligger slik til at reisetiden ikke er akseptabel, og daglig skyss til dette hjemmet derfor ikke ville være forsvarlig, vil eleven ikke ha rett til gratis skyss til og fra dette hjemmet. Da må foreldrene selv enten revurdere barnets bosituasjon eller selv dekke skysskostnadene mellom skolen og dette hjemmet.
+
+Behovet for å vurdere de samfunnsøkonomiske hensynene knyttet til skyss vil være større når eleven har to hjem enn når eleven har ett hjem. Hvis ett av hjemmene ligger langt unna skolen, finnes det kanskje ikke et aktuelt kollektivtransporttilbud mellom skolen og hjemmet, eller det vurderes som uforsvarlig å bruke kollektivtransport på grunn av barnets alder, barnets funksjonsnivå, reisetid eller trygghet. Kostnadene til skyss vil da ofte bli høye for fylkeskommunen. I en sak Fylkesmannen i Oslo og Akershus (nå Fylkesmannen i Oslo og Viken) hadde til behandling i 2015, der eleven ikke fikk innvilget skyss, ble kostnadene til skoleskyss med drosje for en elev beregnet til i overkant av 480 000 kroner per år. Avstanden fra ett av hjemmene til skolen var da 50 kilometer, og det var enighet om at det ikke var forsvarlig å bruke kollektivtransport.[^748]
+
+I lys av økningen i antallet elever som har delt bosted, har utvalget vurdert om elever fortsatt skal ha den samme retten til skoleskyss til og fra begge hjemmene, eller om foreldrene må ta større ansvar, for eksempel ved at retten til skyss begrenses til kollektivtransport. Det som taler imot en innstramming, er at dette for noen vil begrense avtalefriheten barnelova legger opp til når det gjelder samvær og delt bosted.
+
+For elever som har to hjem, kan det i stedet for dagens forsvarlighetsvurdering eventuelt fastsettes en konkret ytre grense for rett til skyss fra det hjemmet som ikke sogner til skolen eleven går på.
+
+*Ett alternativ* kan være å fastsette en øvre avstandsgrense, en øvre grense for reisetid for ulike aldersgrupper eller en kombinasjon av disse. Dette kan sikre likebehandling. På den annen side bør det være foreldrene som avgjør hvor langt de er villige til å la barnet reise for at det skal komme på skolen.
+
+*Et annet alternativ* kan være å fastsette en øvre kostnadsgrense, og at foreldrene betaler merkostnadene. Hva er det rimelig at det offentlige betaler av skyssutgifter når foreldrene ikke bor sammen? Det vil i så fall melde seg et spørsmål om samme beløpsgrense skal gjelde for elever som har ett hjem, eller om det er grunner til at rekkevidden for retten til skyss bør være lengre i de tilfellene eleven har ett hjem.
+
+*Et tredje alternativ* er at retten til skyss bare skal gjelde innenfor kommunen eller fylket som skolen ligger i. Foreldrene må da selv betale og organisere skyss fram til kommunegrensen dersom det ene foreldrehjemmet ligger utenfor kommunen eller fylket der skolen ligger. Dette ligner på ordningen med rett til skyss for elever i friskoler der retten til skyss kun gjelder innenfor kommunegrensen eller fylkesgrensen der barnet bor, jf. friskolelova § 3-7 første avsnitt. Det kan også tenkes en løsning der eleven har rett til skyss både innenfor og utenfor kommune- eller fylkesgrensen dersom eleven tar offentlig transport.
+
+Alle de tre alternativene kan innebære en begrensning av retten til skyss for elever i grunnskolen sammenlignet med dagens ordning. Etter dagens regel skal det vurderes konkret om skyss er forsvarlig. Utvalget mener at dagens rett til skyss ikke bør innskrenkes, og foreslår derfor å videreføre forsvarlighetskravet som grensen for når elever har rett til skyss.
+
+Et alternativ til at barn skal ha rett til skyss fra to hjem, er at barn kan få rett til skoleplass ved to skoler. Etter utvalgets vurdering kan en slik løsning være uheldig for barnet når det gjelder kontinuitet i opplæringen og den sosiale tilhørigheten, selv om barnet også vil ha noen fordeler med kortere reisevei. En slik løsning vil også kunne føre til uklare ansvarsforhold og ikke minst være svært krevende for skolene og lærere å håndtere. Det vil blant annet være behov for samordning av fag- og timefordelingen, gjennomføringen av opplæringen, vurderingen i hvert enkelt fag og skole–hjem-samarbeidet. Utvalget foreslår derfor at loven, som i dag, ikke skal åpne for at elever skal ha rett til skoleplass ved to skoler når barnet har to hjem.
+
+Det er i dag ikke fastsatt en ytre grense for retten til skyss for elever i videregående opplæring, og utvalget foreslår å videreføre dagens regler for rett til skyss for disse elevene.
+
+## Utvalgets forslag
+
+Utvalget foreslår
+
+- å videreføre retten til skyss til og fra skolen for elever i grunnskolen og i videregående opplæring på bakgrunn av (1) antallet kilometer mellom hjemmet og skolen, (2) nedsatt funksjonsevne og (3) behov for båttransport, se forslag til §§ 5-1 første, tredje og fjerde avsnitt og 9-1 første og andre avsnitt
+
+- å videreføre retten til skyss for elever i grunnskolen på grunn av særlig farlig eller vanskelig skolevei, se forslag til § 5-1 andre avsnitt
+
+- å videreføre dagens regler om rett til reisefølge og tilsyn i ventetiden før og etter opplæringen, se forslag til §§ 5-2 og 9-2
+
+- å videreføre regelen om at skysstilbudet må være forsvarlig som grense for når en elev i grunnskolen har rett til skyss, se forslag til § 5-3 første avsnitt
+
+- å ikke videreføre hjemmelen til å gi forskrift om elevenes trygghet under skoleskyssen
+
+- å videreføre retten til losji for grunnskoleelever når daglig skyss ikke er forsvarlig og regelen om at kommunen skal føre tilsyn med grunnskoleelever som er innlosjerte, se forslag til § 5-3 første og fjerde avsnitt
+
+- å videreføre dagens regel om at foreldrene kan velge om eleven skal skysses eller innlosjeres hvis kommunen er i tvil om daglig skyss er forsvarlig, se forslag til § 5-3 andre avsnitt
+
+- å presisere i loven at det ikke skal være en plikt for elever i grunnskolen å innlosjeres hvis reiseveien ikke er forsvarlig. Foreldrene kan i slike tilfeller velge å sørge for skyss for barnet selv, se forslag til § 5-3 tredje avsnitt
+
+- å videreføre dagens regler om at fylkeskommunen skal hjelpe elever i videregående opplæring med å skaffe losji hvis de velger innlosjering på grunn av lang eller vanskelig skolevei, se forslag til § 9-3
+
+- språklige forenklinger
+
+# Universell opplæring og individuell tilrettelegging
+
+\[:figur:figX-X.jpg\]
+
+ 
+
+## Innledning
+
+Dette kapitlet handler om dagens bestemmelser om tilpasset opplæring og spesialundervisning og forslag til ny regulering av disse temaene, inkludert ny terminologi. Regulering av spesialundervisning for voksne som har rett til grunnskoleopplæring, er behandlet i kapittel 45.

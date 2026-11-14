@@ -1,941 +1,186 @@
-# NOU 2019: 23, del 45 av 71 (side 507–518)
+# NOU 2019: 23, del 45 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 507]
-
-NOU 2019: 23
-Ny opplæringslov
-
-dene til bestemmelsen er det sitert fra høringsbrevet:
-Eieren kjenner skolen og de utfordringer lederen vil møte, og eieren er den som blir ansvarlig for resultatene av lederens arbeid. Det er
-også eieren som i forbindelse med ansettelsen
-må vurdere om søkeren oppfyller de kompetansekravene som stilles. Valg av leder er et av
-de viktigste virkemidlene skolens eier rår over
-for å ivareta sitt generelle ansvar for kvaliteten
-i skolen.32
-Formelle kompetansekrav til funksjoner eller stillinger griper normalt sterkt inn i det kommunale
-selvstyret, og slike krav kan i verste fall hindre
-kommunene i å tilsette den søkeren de finner best
-kvalifisert. Utvalget foreslår derfor ikke at det
-gjeninnføres formelle krav til hvilken utdanning
-en rektor skal ha.
-Spørsmålet blir da om de lovfestede kravene til
-realkompetanse skal videreføres. Da de formelle
-kompetansekravene til rektor ble opphevet, var
-mange svært skeptiske til dette. I lys av høringen
-erkjente departementet at det ikke var nok at
-ledelsen ved skolen som sådan hadde pedagogisk
-kompetanse, men at også rektor måtte ha denne
-kompetansen. Utvalget foreslår derfor at gjeldende krav til rektors pedagogiske realkompetanse videreføres.
-Etter utvalgets vurdering er det uklart hva
-som menes med kravet om «nødvendige leiareigenskapar». Dette er også noe som vanskelig kan
-måles. Utvalget legger til grunn at kommunene
-ikke vil tilsette en rektor som de mener ikke er
-kompetent til å lede den aktuelle skolen. Utvalget
-foreslår derfor at dette kravet ikke videreføres.
-Det som da vil skille rektor fra andre daglige
-ledere / virksomhetsledere i kommunen, er at
-rektoren har pedagogisk kompetanse, og at denne
-realkompetansen er dokumenterbar.
-Etter utvalgets syn er det unødvendig å regulere eksplisitt i loven at rektor har plikt til å organisere skolen i samsvar med for eksempel formålet med opplæringen eller læreplanverket, jf. opplæringsloven § 2-3 fjerde avsnitt og § 3-4 andre
-avsnitt. Det samme gjelder presiseringen av
-lærernes plikter i de samme bestemmelsene. I og
-med at det er kommunene som har det juridiske,
-økonomiske og administrative ansvaret for opplæringen, bør rektor og lærerne ikke være pliktsubjekter i loven. Utvalget viser videre til at utvalget
-foreslår å lovfeste at opplæringen skal være i sam32
-
-Ot.prp. nr. 67 (2002–2003), kap. 4.2.
-
-505
-
-Kapittel 38
-
-svar med læreplanverket mv., se forslag til § 3-3 og
-§ 6-4, og et forsvarlighetskrav, se forslag til § 1-3.
-
-38.4.3 Krav til tilsetting
-Skal det stilles konkrete kompetansekrav for
-tilsetting?
-Opplæringsloven § 10-1 fastsetter at den som skal
-tilsettes i en undervisningsstilling, skal ha relevant faglig og pedagogisk kompetanse. Konkrete
-kompetansekrav er fastsatt i forskrift til opplæringsloven kapittel 14. Å stille krav om at kommunen bare kan ansette personer med en bestemt
-kompetanse i visse stillinger, griper sterkt inn i
-det kommunale selvstyret. KS har gitt innspill om
-at kommunen bør vurdere og avgjøre hva som er
-relevant faglig og pedagogisk kompetanse, og at
-hjemmelen til å fastsette kompetansekrav i forskrift ikke bør videreføres. Ifølge veilederen om
-statlig styring av kommuner og fylkeskommuner
-bør slike kompetansekrav bare innføres dersom
-nasjonale hensyn som hensynet til rettssikkerhet,
-likhet og likeverd, liv og helse og effektiv og samordnet bruk av offentlige ressurser mv. tilsier det.
-Ettersom kommunene har ansvaret for grunnopplæringen, bør det i utgangspunktet være unødvendig at staten regulerer hvilken kompetanse de
-ansatte skal ha, fordi kommunen har en egeninteresse i å ha kvalifisert personale. På den annen
-side er det i dag en andel av dem som underviser,
-som ikke oppfyller kompetansekravene for tilsetting, og det er variasjon mellom kommuner og
-skoler. Kommunene kan dessuten ha økonomiske
-motiver for å ansette personer som ikke oppfyller
-kompetansekravene, fordi det kan gi lavere lønnsutgifter. Det tilsier at området bør reguleres.
-Dessuten er kompetansen til undervisningspersonalet ansett å være viktig for elevens opplæring.
-Målet om å sikre en god og likeverdig opplæring
-for alle elever taler derfor også for å videreføre
-kompetansekravene for tilsetting av undervisningspersonale. Utvalget foreslår at kompetansekravene for tilsetting videreføres med noen språklige endringer.
-Om tilsetting av snart ferdigutdannede lærerstudenter
-Utdanningsforbundet har tidligere problematisert om kommunen kan tilsette lærerstudenter
-som snart er ferdigutdannet, men som ikke har
-fått vitnemål på tilsettingstidspunktet. Ifølge KS er
-det vanlig praksis å vurdere snart ferdigutdannede lærerstudenter på lik linje med andre søkere
-
-[Side 508]
-
-506
-
-Kapittel 38
-
-NOU 2019: 23
-Ny opplæringslov
-
-som oppfyller kompetansekravene. Det stilles da
-vilkår om at søkeren må dokumentere bestått
-utdanning innen tidspunktet for tiltredelse. Utvalget mener det er urimelig dersom snart ferdigutdannede lærerstudenter ikke kan vurderes for stillinger med oppstart 1. august. Det presiseres derfor i loven at kompetansekravet gjelder på tiltredelsestidspunktet.
-Om midlertidig tilsetting av lærere som ikke
-oppfyller kompetansekravene
-Opplæringsloven § 10-6 åpner for midlertidig tilsetting av lærere dersom det ikke er søkere som
-oppfyller kompetansekravene. Tilsettingen kan
-maksimalt vare til 31. juli. Videre åpner opplæringsloven § 10-6a for tilsetting på vilkår, forutsatt
-at det ikke er andre søkere som oppfyller kompetansekravene, og at den som tilsettes, har påbegynt en relevant utdanning. Når lengden på tilsettingen skal avtales, skal det tas hensyn til «omfanget av stillinga, lengda på utdanninga og kor tilgjengeleg utdanningstilbodet er».
-Foreldreutvalget for grunnopplæringen mener
-at skoleeiers mulighet for å fravike kravet til kompetanse i undervisningsfag bør fjernes, mens KS
-ønsker at både §§ 10-6 og 10-6a videreføres. Norsk
-Lektorlag mener at det bør tydeliggjøres at disse
-bestemmelsene skal brukes så lite som mulig.
-Kapittel 38.3.2 viser at det er mangel på kvalifiserte lærere. For at elevene likevel skal få undervisning, mener utvalget at det er nødvendig å åpne
-for midlertidige tilsettinger. Alternativet er at det
-ikke kan gis opplæring, eller at kvalifiserte lærere
-får ansvaret for å undervise flere enn det som er
-pedagogisk forsvarlig. Utvalget mener derfor at
-det fortsatt må åpnes for midlertidige tilsettinger
-av undervisningspersonale.
-Utdanningsforbundet foreslår at det presiseres
-i loven at midlertidig tilsetting av søkere som ikke
-oppfyller kompetansekravene, forutsetter offentlig utlysning. Utvalget er enig i at det normalt må
-kreves at stillingen har vært lyst ut offentlig, se
-kapittel 38.4.6 .
-Om tilsetting av lærere på vilkår om fullført utdanning
-Når det gjelder tilsetting på vilkår, ber Utdanningsforbundet utvalget vurdere om det er behov
-for en generell åpning, eller om regelverket, som
-tidligere, bør begrenses til undervisningsstillinger hvor det er særlige rekrutteringsutfordringer.
-Opplæringsloven § 10-6a trådte i kraft 1. januar
-2014. Utvalget er ikke kjent med hvordan bestem-
-
-melsen praktiseres, men har merket seg at
-bestemmelsen ifølge Prop. 84 L (2011–2012) ble
-vedtatt som følge av at det «enkelte stader har
-utvikla seg ein praksis med tilsetjing på vilkår, og
-da også i andre tilfelle enn det som er regulert i
-§ 14-5 i forskrifta. Departementet meiner at det
-kan vere behov for ei slik føresegn også i andre
-delar av grunnopplæringa».33 Utvalget antar at
-rekrutteringsutfordringene vil kunne variere over
-tid og mellom kommuner. Det vil derfor være
-utfordrende å peke ut enkelte typer undervisningsstillinger. Utvalget foreslår derfor ikke at tilsetting på vilkår begrenses til undervisningsstillinger som har særlige rekrutteringsutfordringer.
-Utdanningsforbundet viser til at arbeidsgiver
-og arbeidstaker i opplæringsloven § 10-6a har fått
-adgang til å avtale hvor lenge en tilsetting på vilkår skal vare, og at partene i prinsippet kan avtale
-at ordningen skal gjelde i 10 år. Forbundet ber
-utvalget vurdere å lovfeste en øvre grense for hvor
-lenge en slik tilsetting kan vare, og begrunner
-dette med at bestemmelsen kan blokkere for at
-lærere får tilsetting i skolen. I Prop. 84 L (2011–
-2012) står det følgende:
-Departementet ser ikkje nokon grunn til å setje
-ei nedre grense for kva som kan vurderast som
-påbegynt utdanning. Det må vere skoleeigaren
-sitt ansvar å sørgje for at slik tilsetjing berre
-skjer der søkjaren faktisk er i gang med ei
-utdanning som, når fullførd, vil kunne oppfylle
-kravet til å kunne bli tilsett i undervisningsstilling.34
-Utvalget er enig med Utdanningsforbundet i at det
-er uheldig dersom det avtales en lengre periode
-med tilsetting på vilkår enn det er behov for. På
-den annen side vil en maksimal lengde på for
-eksempel fem år i praksis kunne føre til at kommunen ikke vurderer det reelle behovet. Utvalget
-har derfor kommet til at kommunen er nærmest
-til å vurdere hvilken lengde det er behov for.
-Utvalget foreslår at opplæringsloven § 10-6 og
-§ 10-6a videreføres, men slik at både midlertidig
-tilsetting og tilsetting på vilkår omhandles i en fellesbestemmelse om tilsetting som lærer.
-Om nasjonal godkjenningsordning for lærere
-Norsk Lektorlag mener at en sertifiseringsordning bør utredes og vurderes, fordi en slik ordning kan bidra til å forplikte kommunene i større
-33
-34
-
-Kap. 4.4.
-Kap. 4.4.
-
-[Side 509]
-
-NOU 2019: 23
-Ny opplæringslov
-
-grad når det gjelder etter- og videreutdanning.
-Utdanningsforbundet har spilt inn at det bør innføres en nasjonal godkjenningsordning for å vurdere om lærere oppfyller kompetansekravene, og
-begrunner dette med at det er en utfordring at
-dette avgjøres lokalt. Utvalget er kjent med at det
-har vært visse utfordringer med å få til en riktig
-praksis lokalt, det vil si en praksis som er i samsvar med forskrift til opplæringsloven kapittel 14.
-Dette har blant annet medført at lærere som er
-vurdert som kvalifisert i én kommune, ikke blir
-vurdert som kvalifisert når de søker jobb i en
-annen kommune. Det har også vært visse utfordringer i forbindelse med opptak til videreutdanning for lærere.
-Utvalget mener det ikke er hensiktsmessig å
-innføre en sertifiseringsordning for lærere og rektorer, se kapittel 12.4.2. Dersom en slik ordning
-skal innføres, vil dette uansett kreve en utredning
-som vil bli for omfattende for dette utvalget. En
-slik ordning vil dessuten ha vesentlige økonomiske og administrative konsekvenser.
-Når det gjelder utfordringen som Utdanningsforbundet peker på, kan dette løses ved at regelverket klargjøres fra nasjonalt hold. Utvalget ber
-derfor departementet vurdere om det er behov for
-å gjøre kravene i forskriften klarere, eventuelt gi
-bedre veileding om hvordan kravene skal forstås.
-
-38.4.4 Krav til kompetanse i undervisningsfag
-Skal krav til kompetanse i undervisningsfag
-reguleres nasjonalt?
-I opplæringsloven § 10-2 er det krav om at de som
-skal undervise, må ha relevant kompetanse i
-fagene de underviser i. Med hjemmel i bestemmelsens andre avsnitt er det i forskrift til opplæringsloven kapittel 14 fastsatt konkrete kompetansekrav for å undervise i bestemte fag og på
-bestemte trinn. Utvalget legger til grunn at det er
-ønskelig at lærerne har formell kompetanse i de
-fagene de skal undervise i, og begrenser derfor
-vurderingen til om og eventuelt hvordan dette bør
-reguleres.
-KS mener at kravene i forskriften om relevant
-kompetanse i undervisningsfag er altfor detaljerte
-og gir for lite handlingsrom for arbeidsgiveren,
-mens Norsk Lektorlag mener at kravene bør spesifiseres i alle fag og for alle trinn.
-Det griper sterkt inn i det kommunale selvstyret å ha nasjonale regler for hva slags kompetanse de ansatte i kommunen skal ha for å gjøre
-bestemte oppgaver. Det er likevel slik at en andel
-lærere ikke har formell kompetanse i fagene de
-
-507
-
-Kapittel 38
-
-underviser i. Andelen varierer mellom fag. Kommunen kan ha økonomiske insentiver til å benytte
-ansatte uten formell kompetanse i undervisningsfaget og til å ikke legge til rette for kompetanseutvikling som sikrer at de ansatte får formell kompetanse i fagene de underviser i.
-Om muligheten for dispensasjon fra kravet
-Med virkning fra 1. august 2015 ble kravene om
-kompetanse i undervisningsfag utvidet til å gjelde
-alle lærere og ikke bare dem som ble tilsatt etter
-at kravet opprinnelig ble innført i 2014. Etter
-anmodningsvedtak fra Stortinget ble det fra 1.
-februar 2017 tatt inn en tilføyelse i § 10-2 tredje
-avsnitt om at «den som har fullført allmennlærarutdanninga, og den som før 1. januar 2014 oppfylte
-krava for tilsetjing i undervisningsstilling», har
-dispensasjon fra forskriftskravene om kompetanse i undervisningsfag fram til 1. august 2025.
-Utdanningsforbundet har gitt innspill til utvalget om at det opprinnelige unntaket om at kravet
-ikke gjelder dem som ble ansatt før 2014, bør tas
-inn igjen i loven. Forbundet mener at man nå er i
-en situasjon med lærermangel, og at utvidelsen av
-kravet har ført til at det står lærere med godkjent
-utdanning i kø for å ta videreutdanning, mens
-undervisningen ivaretas av stadig flere ukvalifiserte.
-I mange sammenhenger blir utvidelsen som
-ble gjort i 2015, omtalt som at kompetansekravene
-ble gitt «tilbakevirkende kraft» med henvisning til
-forbudet mot å gi regler tilbakevirkende kraft i
-Grunnloven § 97. Utvalget mener det ikke er
-snakk om noen tilbakevirkende kraft i Grunnlovens forstand. Noe av grunnen til at det oppleves
-slik, kan være at kravene er utformet som krav til
-den enkelte lærer. Lærere som alltid har undervist i et fag, kan dermed oppleve å bli «avskiltet».
-Det framgår likevel klart i Prop. 82 L (2014–2015)
-at kravet om kompetanse i undervisningsfag er en
-regel rettet mot kommunen om hvilke fag den
-enkelte lærer kan undervise i. Kravet innebærer
-ingen plikt for den enkelte lærer til å ta videreutdanning og heller ingen plikt om å avslutte
-arbeidsforholdet. Utvalget foreslår derfor å omformulere kravet slik at det blir en plikt for kommunen og ikke et krav til læreren. Dette vil samsvare
-bedre med det rettslige innholdet i reglene.
-Utvalget konstaterer at kommunene er tilført
-betydelige midler for å heve lærernes kompetanse
-og at det fra kravet ble innført har vært en betydelig kompetanseheving. På denne bakgrunn mener
-utvalget det kan argumenteres for at det er unødvendig å fastsette en «frist» for gjennomføring av
-
-[Side 510]
-
-508
-
-Kapittel 38
-
-NOU 2019: 23
-Ny opplæringslov
-
-kompetansehevingstiltakene i lovverket. Det kan
-likevel gi gale signaler og svekke arbeidet med
-kompetanseheving, om det ikke er en frist overhodet for gjennomføringen av kompetansetiltakene.
-Utvalget har derfor falt ned på at det bør være en
-overgangsperiode og ikke et tidsubegrenset unntak. Utvalget har valgt å sette fristen noe lenger
-fram i tid enn i gjeldende lov. Det er grunn til å tro
-at lærerne kan oppnå den nødvendige kompetansen innen 1. august 2028. Det er mange grunner
-til at alt bør gjøres for at overgangen skal skje
-gjennom frivillige kompetansehevende tiltak. En
-side er den belastningen enkeltlærere som har
-undervist lojalt og kompetent gjennom mange år,
-kan oppleve ved at arbeidsoppgavene kan bli
-vesentlig endret. En annen side er prosesskostnadene det vil innebære å bruke tvang for å gjennomføre kompetanseheving og endring av
-arbeidsoppgaver. Betingelsene for heving av kompetanse er naturlig nok best dersom alle parter er
-enige i hvordan hevingen skal skje. Innen 1.
-august 2028 bør alle kommuner og lærere klare å
-finne fram til gode løsninger.
-Utvalget foreslår at fristen utvides med tre år
-og at den fastsettes som en overgangsbestemmelse, ikke en dispensasjonsordning.
-Opplæringsloven § 10-2 fjerde avsnitt inneholder en adgang for kommunen til å fravike kravene om kompetanse i undervisningsfag i tilfeller
-der skolen ikke har nok kvalifisert undervisningspersonale i faget. Utvalget kan ikke se at det er
-noen grunn til å stramme inn på kommunens
-handlingsrom på dette området, og foreslår at
-denne unntaksmuligheten videreføres i ny opplæringslov.
-
-38.4.6 Valg mellom søkere og krav om
-utlysning
-Skal kvalifikasjonsprinsippet lovfestes?
-Opplæringsloven § 10-5 lovfester et alminnelig forvaltningsrettslig prinsipp om at den best kvalifiserte søkeren skal velges ved tilsetting i en offentlig stilling. Dette kvalifikasjonsprinsippet er
-utviklet og stadfestet gjennom rettspraksis, forvaltningspraksis, ombudsmannspraksis og juridisk teori. KS mener at det er unødvendig å presisere kvalifikasjonsprinsippet i ny opplæringslov.
-Da opplæringsloven § 10-5 ble foreslått, ble det
-lagt til grunn at det var behov for å klargjøre at
-personlig egnethet er et relevant kriterium, og at
-kommunene kan bruke intervju i tilsettingsprosessen.35 Kvalifikasjonsprinsippet er også lovfestet i statsansatteloven § 3. I forarbeidene til denne
-bestemmelsen er det presisert at dette er en lovfesting av ulovfestet rett, og at Kommunal- og
-moderniseringsdepartementet mener at lovfestingen vil kunne bidra til å styrke den enkeltes rettssikkerhet.36 Utvalget har merket seg denne vurderingen, men mener at det ikke er naturlig å lovfeste kvalifiseringsprinsippet særskilt for skolevirksomheten, som kun er én av flere virksomheter i en kommune. Utvalget legger videre til grunn
-at det nå bør være godt kjent at det ikke gjelder et
-ansiennitetsprinsipp ved tilsettinger i skolen, og at
-det nå ofte også brukes intervju ved tilsetting av
-lærere. I tillegg er prinsippet inntatt i en avtale
-mellom partene i kommunal sektor, jf. § 2 i hovedtariffavtalen.37 Utvalget foreslår derfor at opplæringsloven § 10-5 ikke videreføres.
-Krav om at stillinger utlyses offentlig
-
-38.4.5 Krav om kontaktlærer
-Utvalget mener at staten bør være tilbakeholden
-med å pålegge kommunene å ha bestemte stillinger eller funksjoner. På den annen side er kravet
-om kontaktlærer (tidligere klassestyrer) en innarbeidet ordning som vurderes som lite inngripende. Dette er oppgaver som uansett må utføres,
-og utvalget mener at det er en stor fordel at både
-elever og foreldre har en fast person de kan henvende seg til på skolen.
-Utvalget foreslår at kravet om kontaktlærer i
-opplæringsloven § 8-2 andre avsnitt videreføres
-med noen språklige endringer.
-
-KS mener at opplæringsloven § 10-4 om offentlig
-utlysning av stillinger er overflødig, mens Utdanningsforbundet mener at man bør vurdere å ta
-bort unntaket fra kravet om offentlig utlysning for
-kortere tilsettinger enn seks måneder.
-Ledige statlige stillinger skal lyses ut eksternt,
-jf. statsansatteloven § 4, men det framgår ikke
-uttrykkelig av regelverket at det samme gjelder
-for ledige stillinger i kommunen. Likevel er dette
-den klare hovedregelen, ifølge blant andre Sivilombudsmannen.38 Sivilombudsmannen begrunner dette slik i en av sakene sine:
-35
-36
-37
-38
-
-Ot.prp. nr. 46 (1997–98), kap. 18.4.4.
-Prop. 94 L (2016–2017), kap. 9.4.1.
-KS, 2018b.
-Dok. nr. 4 (2008–2009).
-
-[Side 511]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Hovedregelen om ekstern utlysing av offentlige stillinger bygger på det ulovfestede kvalifikasjonsprinsippet. Prinsippet forutsetter at
-offentlige stillinger blir kunngjort på en slik
-måte at det blir allment kjent at stillingen er
-ledig, slik at aktuelle kandidater får en oppfordring til å søke eller melde sin interesse. Utlysingen skal bidra til at tilsettingssaken blir så
-godt opplyst som mulig, for å sikre at den som
-samlet sett er best kvalifisert, kan bli tilsatt.
-Også likhetshensyn tilsier at forvaltningen skal
-gi alle interesserte kandidater de samme
-muligheter til å konkurrere om stillingen.
-Utlysningen skal også gjøre vilkårene som skal
-være bestemmende ved tilsettingen kjent.
-Manglende utlysing vil lett kunne skape mistanke om at det kan ligge usaklige hensyn til
-grunn for å tilby stillingen til en bestemt person. Dette gjør seg særlig gjeldende ved
-ledende og ettertraktede stillinger.39
-Videre har mange offentlige arbeidsgivere interne
-retningslinjer hvor kravet til intern utlysning er
-presisert.
-Det kan virke noe forvirrende at bare undervisnings- og rektorstillinger er omtalt i § 10-4,
-mens for eksempel mellomlederstillinger i skolen
-og stillinger ved skolefritidsordningen, leksehjelpen og PP-tjenesten ikke er nevnt. Disse stillingene vil da være omfattet av det ulovfestede kvalifikasjonsprinsippet hvor det som hovedregel også
-kreves offentlig utlysning.
-Sivilombudsmannen har uttalt at det finnes
-unntak fra hovedregelen om offentlig utlysning
-utover de tilfellene som følger av lov og tariffbestemmelser:
-Hvorvidt det unntaksvis kan anses saklig å la
-være å lyse ut en ledig stilling, må vurderes
-konkret i det enkelte tilfelle. Sentrale momenter ved vurderingen vil være stillingens karakter og varighet, eventuelt tilsettingens varighet, om behovet for tilsetting i den aktuelle stillingen er akutt, og om den som er påtenkt til
-stillingen har konkurrert om samme eller tilsvarende stilling etter ekstern utlysing tidligere. Hvor sterkt hensynene som ligger bak
-hovedregelen om ekstern utlysing, gjør seg
-gjeldende, teller også. Derfor skal det mer til
-for at ekstern utlysing kan unnlates desto mer
-ettertraktet eller høyere stillingen er.40
-39
-40
-
-SOM-2017-1614.
-SOM-2016-2418.
-
-509
-
-Kapittel 38
-
-Spørsmålet blir etter dette om det skal lovfestes et
-krav om offentlig utlysning av undervisningsstillinger, rektorstillinger og eventuelt andre stillinger i ny lov, og om det skal gis unntak for midlertidige stillinger av kortere varighet.
-Utvalget mener at det ikke er behov for å presisere i særlovgivningen at lærerstillinger og rektorstillinger skal lyses ut offentlig, eller å ha særregler om unntak for kortere vikariater eller engasjementer. Dette vil slik utvalget ser det, også harmonere bedre med annet regelverk som kommunene forvalter, for eksempel barnehageloven og
-barnevernloven.
-Når det gjelder midlertidig tilsetting i lærerstilling av personer som ikke oppfyller kompetansekravene, og tilsetting på vilkår, jf. forslaget
-§ 15-2 andre avsnitt, legger utvalget til grunn at
-dette først er aktuelt når arbeidsgiver har forsøkt
-å få tak i kvalifiserte søkere, blant annet gjennom
-offentlig utlysning. Også ved midlertidige tilsettinger bør stillingen ha vært lyst ut offentlig, men
-her bør det kunne gjøres unntak ved for eksempel
-akutt behov for vikar.
-Utvalget foreslår at kravet om offentlig utlysning i § 10-4 i opplæringsloven ikke videreføres.
-
-38.4.7 Særlig om undervisningspersonalet
-ved leirskoler
-I opplæringsloven § 10-3 første setning er det fastsatt at undervisningspersonalet ved leirskoler
-med fast pedagogisk bemanning skal være tilsatt i
-den kommunen leirskolen ligger i. Verken kommuner eller fylkeskommuner er forpliktet til å
-drive leirskoler. Leirskoler kan enten være kommunale eller private, og det er i tillegg fri etableringsrett. KS mener at detaljer rundt tilsettingen
-ikke bør reguleres i opplæringsloven, og viser til
-at leirskolene er organisert svært ulikt.
-Utvalget mener at det er urimelig at vertskommunene gjennom opplæringsloven pålegges å tilsette fast undervisningspersonale ved private leirskoler eller leirskoler som en kommune etablerer
-i en annen kommune. Dette synes særlig urimelig
-når leirskolene står fritt til å tilsette det personalet
-som er best egnet, og det uansett er elevenes
-hjemkommune som har ansvaret for at opplæringen ved leirskoleopphold eller andre skoleturer er
-i samsvar med regelverket. Utvalget foreslår derfor å ikke videreføre kravet i § 10-3 om at undervisningspersonalet ved leirskoler med fast pedagogisk bemanning skal være tilsatt i den kommunen leirskolen ligger i.
-Departementet kan gi forskrifter om kompetansekrav for personalet ved faste leirskolesteder,
-
-[Side 512]
-
-510
-
-Kapittel 38
-
-NOU 2019: 23
-Ny opplæringslov
-
-jf. opplæringsloven § 10-3 andre setning. Det er
-ikke gitt forskriftsbestemmelser om kompetansekrav for personale ved leirskoler. KS mener at
-kompetansekrav ved leirskoler ikke bør reguleres
-i opplæringsloven. Utvalget kan ikke se at det per i
-dag er aktuelt å fastsette slike krav i en forskrift.
-Utvalget foreslår derfor at forskriftshjemmelen i
-§ 10-3 ikke videreføres.
-
-38.4.8 Tariffavtaler om lønns- og
-arbeidsvilkår
-Opplæringsloven § 10-10 åpner for at staten kan
-inngå tariffavtaler om lærernes lønns- og arbeidsvilkår som er bindende for kommuner. Det er
-også presisert i bestemmelsen at lønns- og
-arbeidsvilkår for lærerne blir fastsatt i tariffavtaler.
-KS spør om opplæringsloven § 10-10 om tariffavtaler om lønns- og arbeidsvilkår er nødvendig.
-KS viser til at arbeidstvistloven omfatter lærerne
-på lik linje med andre arbeidstakere.
-Utvalget mener at det verken er nødvendig
-eller ønskelig at denne bestemmelsen videreføres
-i ny lov. Ordningen er nå slik at kommunene er
-tariffpart ved forhandlinger med arbeidstakerorganisasjoner om lønns- og arbeidsvilkår for undervisningspersonale i de grunnskoler og videregående skoler der kommuner eller fylkeskommuner
-er eier. Kommunene har ansvaret for mange ulike
-yrkesgrupper og velferdsområder og bør normalt
-være tariffpart ved forhandlinger med arbeidstakerorganisasjoner som representerer egne
-ansatte. Dersom staten igjen ønsker å inngå tariffavtaler om lærernes lønns- og arbeidsvilkår som
-er bindende for kommunene, bør saken forelegges Stortinget i form av et lovforslag. Utvalget
-foreslår derfor at opplæringsloven § 10-10 ikke
-videreføres.
-
-38.5 Utvalgets forslag
-Utvalget foreslår
-– å videreføre kravet om kompetanseutvikling,
-men ikke kravet om et system for kompetanseutvikling, se forslag til § 15-6
-– at opplæringen i skolen fortsatt skal ledes av
-rektorer, og at det generelle kravet om forsvarlig ledelse videreføres, se forslag til § 15-1
-– at adgangen til unntak fra rektorkravet ikke
-videreføres
-– at adgangen til å tilsette rektorer på åremål
-ikke videreføres
-– å videreføre kompetansekravene for tilsetting,
-se forslag til § 15-2 første avsnitt. Det presiseres at kompetansekravet gjelder på tiltredelsestidspunktet.
-– å videreføre adgangen til midlertidig tilsetting
-og tilsetting på vilkår, se forslag til § 15-2 andre
-avsnitt
-– å videreføre kravene om kompetanse i undervisningsfag, men slik at det gjøres tydeligere at
-kravet er rettet mot kommunen, se forslag til
-§ 15-3. Overgangsordningen for enkelte lærere
-videreføres, men slik at overgangsordningen
-forlenges med tre år, se forslag til § 24-2 tredje
-avsnitt.
-– å videreføre kravet om kontaktlærer, se forslag
-til § 13-2 femte avsnitt
-– at kvalifikasjonsprinsippet, kravet om offentlig
-utlysning og tariffavtaler ikke lovfestes
-– at krav om kommunal tilsetting av undervisningspersonale ved leirskoler med fast pedagogisk bemanning ikke videreføres. Det samme
-gjelder departementets hjemmel til å gi forskrifter om kompetansekrav for personalet ved
-leirskoler
-– språklige endringer
-
-[Side 513]
-
-NOU 2019: 23
-Ny opplæringslov
-
-511
-
-Kapittel 39
-
-Kapittel 39
-
-Faglig ansvar for opplæringen og bruk av assistenter og vikarer
-
-Figur 39.1
-
-39.1 Innledning
-Dette kapitlet handler om hvem som kan gjøre
-hva i skolen når det gjelder selve opplæringssituasjonen. Kapitlet handler om hva som er lærerens
-rolle, hva personer som ikke er lærere, kan gjøre,
-og bruk av vikarer.
-Med «lærere» menes personer som er tilsatt i
-lærerstilling i samsvar med kompetansekravene i
-opplæringsloven. Det vil si at vedkommende
-enten oppfyller kompetansekravene for en lærerstilling eller er tilsatt midlertidig eller på vilkår i
-en slik stilling fordi det ikke fantes kvalifiserte
-søkere. Personer som ikke er tilsatt i lærerstilling,
-omtales her som «assistenter». Dette kan være
-personer som er ufaglærte, eller personer som
-har annen kompetanse enn lærerkompetanse,
-som for eksempel miljøarbeidere eller barne- og
-ungdomsarbeidere.
-Behovet for å stille krav om andre yrkesgrupper i skolen er vurdert i kapittel 40.
-
-39.2 Dagens regler
-Det følger av opplæringsloven § 10-11 at personer
-som ikke er tilsatt i undervisningsstilling, kan
-hjelpe til i opplæringen dersom de får nødvendig
-rådgivning. Hjelpen må skje på en slik måte og i et
-slikt omfang at elevene får forsvarlig utbytte av
-opplæringen. Videre følger det av bestemmelsen
-at personalet som ikke er tilsatt i undervisningsstilling, ikke skal ha ansvaret for opplæringen.
-Hva som er nødvendig veiledning, vil variere
-ut fra vedkommendes utdanningsbakgrunn og
-arbeidserfaring og hvilke oppgaver den ansatte
-
-uten formell lærerkompetanse skal ivareta. Det er
-en forutsetning at arbeidet med å hjelpe til i opplæringen utføres under ansvar av undervisningspersonale. Hva som er forsvarlig utbytte, må
-avgjøres etter en konkret og skjønnsmessig vurdering.1
-
-39.3 Kunnskapsgrunnlaget
-I skoleåret 2018–2019 ble 4,6 prosent av undervisningstimene i grunnskolen gitt av lærere som
-ikke oppfyller kompetansekravene for tilsetting.2
-Innenfor spesialundervisning er det en stor
-utfordring at det er assistenter som gir store deler
-av opplæringen. Bruken av assistenter er ansett
-som en viktig årsak til at tilbudet om spesialundervisning ikke realiserer læringspotensialet til elevene. Se mer om bruk av assistenter i spesialundervisningen i kapittel 31.4.2.
-NIFU har spurt lærere i videregående skoler
-om deres oppfatning av skolens vikarpraksis. De
-fleste (77 prosent) har svart at skolen som oftest
-forsøker å skaffe vikarer til timer der læreren er
-fraværende. Det framgår ikke av undersøkelsen
-om vikarene som settes inn, er lærere. NIFU
-omtaler noen ulike vikarordninger. Én ordning
-går ut på at et visst antall vikartimer inngår i stillingen til alle skolens lærere. En annen ordning
-går ut på at lærere som ikke når 100 prosent i
-fagene sine, må fylle opp med vikartimer. En
-tredje ordning som omtales, er at det settes av en
-1
-2
-
-Prop. 129 L (2012–2013), merknad til § 10-11.
-Utdanningsdirektoratet, 2018h.
-
-[Side 514]
-
-512
-
-Kapittel 39
-
-NOU 2019: 23
-Ny opplæringslov
-
-39.4 Utvalgets vurdering
-
-også det er rimelig å stille krav om at opplæringen
-forberedes og følges opp av en lærer.
-Utvalget foreslår at det lovfestes et krav om at
-opplæringen må forberedes og følges opp av en
-lærer. Med «lærer» mener alle som er tilsatt i en
-lærerstilling i samsvar med kompetansekravene,
-inkludert etter unntakene om midlertidig tilsetting og tilsetting på vilkår.
-Utvalget legger til grunn at det skal være stor
-faglig frihet i hva som skal regnes som forberedelser og oppfølging. Hensikten er ikke å legge føringer for hvordan opplæringen forberedes og følges
-opp, men å oppnå intensjonen med kompetansekravene – at elevene får en pedagogisk forsvarlig
-opplæring.
-
-39.4.1 Hvilke oppgaver som bare kan utføres
-av en lærer
-
-En lærer må som hovedregel være til stede
-i undervisningssituasjonen
-
-Opplæringen må forberedes og følges opp av en
-lærer
-
-Om hovedregelen
-
-sum til vikarer som brukes til dette formålet til
-«kassen er tom».3
-Det er ikke gjort en tilsvarende kartlegging i
-grunnskolen. I Spørsmål til Skole-Norge høsten
-2010 var det spørsmål om lærerfravær og vikarbruk. Undersøkelsen viste at halvparten av fraværstimene ble dekket av vikar med godkjent
-utdanning på barneskolene, mot 70 prosent på
-ungdomsskolene. I Oslo og Akershus ble halvparten av fraværstimene dekket av vikar uten godkjent utdanning, mot snaut 30 prosent i resten av
-landet.4
-
-Det følger av opplæringsloven § 10-11 at personer
-som ikke er ansatt i en lærerstilling5, ikke skal ha
-ansvaret for opplæringen. Dermed kan det legges
-til grunn at det i dag bare er personer som er
-ansatt i en lærerstilling, som kan ha ansvaret for
-opplæringen. Det er etter utvalgets oppfatning
-klart at det handler om et faglig ansvar og ikke et
-juridisk, økonomisk og administrativt ansvar, som
-det er kommunen som har. Det er derimot uklart
-hvilke konkrete oppgaver som ligger til det faglige
-ansvaret for opplæringen.
-Hensikten med kompetansekravene for tilsetting i en lærerstilling er å sikre at de som gir opplæringen, har tilstrekkelig kompetanse til å utføre
-oppgaven. Etter utvalgets vurdering oppnår man
-ikke hensikten med kompetansekravene hvis det
-ikke samtidig stilles krav om at visse oppgaver
-bare kan utføres av personer som oppfyller kompetansekravene. Utvalget foreslår derfor å regulere hvilke oppgaver i skolen som må utføres av
-en lærer.
-Utvalget mener at opplæringen må forberedes
-av en lærer, ettersom det er lærere som har den
-kompetansen som er nødvendig for å lage et godt
-opplegg for opplæringen. Utvalget mener videre
-at opplæringen må følges opp av en lærer, ettersom dette gir best forutsetninger for vurdering og
-for universell opplæring, forsterket innsats og
-individuelt tilrettelagt opplæring (se kapittel 31).
-Flesteparten i utvalgets referansegruppe mener
-3
-4
-5
-
-Sjaastad, et al., 2016.
-Vibe, 2010.
-Dagens lov bruker uttrykket «undervisningsstilling».
-
-En problemstilling som ofte går igjen, er om det
-skal være lov å gjennomføre opplæring uten at en
-lærer er til stede, såkalte «lærerløse timer». Elevorganisasjonen er blant dem som har tatt opp
-denne problemstillingen med utvalget. Undersøkelser tyder på at fravær blant lærere og bruk av
-assistenter som vikarer, er en større utfordring i
-grunnskolen enn i videregående opplæring. Å
-gjennomføre opplæringen uten en lærer til stede,
-kan være en måte å spare penger på. Dersom de
-«lærerløse timene» er økonomisk motivert, er
-dette uheldig. På den annen siden kan det også
-være gode grunner til å gjennomføre opplæringen
-selv om læreren ikke er til stede.
-Utvalget mener at den klare hovedregelen bør
-være at en lærer er til stede sammen med elevene
-i undervisningssituasjonen, og foreslår at dette
-lovfestes i ny opplæringslov. Hovedregelen skal
-forstås strengere enn at dette er en normalordning som kommuner står fritt til å avvike fra så
-lenge det ikke skjer så ofte. Hovedregelen er ment
-som et strengt krav. Det skal alltid være en lærer
-til stede med mindre det er en god begrunnelse
-for at opplæringen gjennomføres uten en lærer til
-stede. Økonomiske hensyn kan ikke begrunne et
-unntak fra hovedregelen.
-Hovedregelen om tilstedeværelse er ikke til
-hinder for at andre enn lærere hjelper til i opplæringen, men læreren må da også være til stede.
-Dersom elever skal gis opplæring utenfor klasserommet, innebærer kravet at en lærer også må
-være med. Det vil dermed ikke lenger være tillatt
-at elever med rett til individuelt tilrettelagt opplæring, tilsvarende dagens spesialundervisning, får
-
-[Side 515]
-
-NOU 2019: 23
-Ny opplæringslov
-
-store deler av opplæringen sin av assistenter. Se
-også kapittel 31.5.7.
-Betydningen for muligheten til å gi opplæring
-utenfor skolen og klassen (såkalt alternativ opplæringsarena) er omtalt i kapittel 26.5. Adgangen til
-å gi opplæring gjennom fjernundervisning der
-læreren ikke er til stede fysisk samme sted som
-eleven, er omtalt i kapittel 28.
-Forslaget om en hovedregel om tilstedeværelse er ikke til hinder for at det kan avtales studiearbeid for en enkeltelev etter forskrift til opplæringsloven § 3-47.
-Nedenfor omtaler utvalget enkelte typetilfeller
-hvor det kan være god grunn til at opplæringen
-bør kunne gjennomføres uten at en lærer er til
-stede. Det er ikke ment å være en uttømmende
-oversikt over unntak, men den viser hva slags terskel utvalget legger til grunn.
-Utvalget understreker at kommunen i alle tilfeller er ansvarlig for at opplæringen er forsvarlig.
-Opplæringen kan dermed bare gis uten at lærer
-er til stede dersom dette er forsvarlig. I vurderingene av hva som er forsvarlig, vil elevenes alder
-og modenhet ha betydning. I tillegg er det relevant hvor lang tid det er snakk om, og hvilken
-risiko det er for elevenes læring og trygghet. Se
-omtale av krav til forsvarlighet i kapittel 15.
-Selvstendig studiearbeid og opplæring i enkelte fag og
-temaer
-Noen fag er av en art som tilsier at en del av opplæringen må gjennomføres uten at elevenes lærere
-er til stede. Dette gjelder for eksempel yrkesfaglig
-fordypning i videregående opplæring, der elevene
-får opplæring i bedrift. Et annet eksempel er
-utdanningsvalg i grunnskolen der det å prøve
-ulike videregående tilbud er et sentralt element i
-opplæringen. I tillegg kan det være mer begrensede aktiviteter innenfor et tema, som for eksempel at elevene samler inn blomster eller lignende
-fra nærområdet eller låner bøker på biblioteket.
-Det vil trolig ikke være praktisk gjennomførbart
-at læreren da alltid er til stede sammen med den
-enkelte elev.
-I noen tilfeller kan selvstendig arbeid på skolen6 ut fra en faglig-pedagogisk vurdering være en
-hensiktsmessig måte å gjennomføre opplæringen
-på. I slike tilfeller er det kanskje ikke nødvendig at
-en lærer hele tiden er til stede. Samtidig bør en
-lærer være tilgjengelig for spørsmål og annen veiledning for at slike aktiviteter skal skille seg fra
-6
-
-Dette må ikke blandes med avtalt studiearbeid for en enkeltelev, jf. forskrift til opplæringsloven § 3-47.
-
-513
-
-Kapittel 39
-
-lekser. En parallell kan være forberedelser til
-eksamen, som etter forskrift til opplæringsloven
-§ 1-4 regnes som opplæring. Ved forberedelser til
-eksamen er det krav om at elevene skal ha tilgang
-til veiledning fra en lærer, men ikke nødvendigvis
-sin faglærer.7
-Fravær blant lærerne
-I noen tilfeller kan det være fravær blant lærerne
-som er årsaken til at opplæringen må gjennomføres med assistenter eller uten at det settes inn
-vikarer. Dette er uheldig for elevenes læring. Samtidig kan det være urimelig å kreve at skolene alltid har lærere til å dekke opp fravær, og det kan bli
-store praktiske utfordringer med å ta igjen timene
-som faller bort. På den andre siden er det gode
-grunner for å ikke ha vide unntaksmuligheter,
-ettersom det kan være en økonomisk besparelse å
-benytte assistenter eller ikke sette inn vikarer i
-det hele tatt.
-Utvalget mener at hovedregelen om tilstedeværelse ikke skal være til hinder for at opplæringen gjennomføres uten lærer i tilfeller hvor lærerens fravær er akutt og uforutsigbart og det ikke
-kan dekkes av en forsvarlig vikarordning. Unntaket gjelder bare så lenge fraværet er akutt. Dersom det ved en skole oppstår uforutsigbart fravær, må kommunen sørge for å finne forsvarlige
-vikarløsninger. Selv om skolens vikarordning ikke
-opprinnelig tok høyde for et slikt fravær, vil det
-ikke være greit å bruke assistenter eller ha lærerløse timer over lang tid. Se omtale av krav til forsvarlig vikarordning i kapittel 39.4.2.
-Individuelt tilrettelagt opplæring
-Utvalget foreslår at personer med høy og relevant
-kompetanse, men som ikke har lærerutdanning, i
-særlige tilfeller skal kunne gi individuelt tilrettelagt opplæring og ha ansvaret for slik opplæring
-på lik linje med lærere. Denne særregelen er
-omtalt i kapittel 31.5.7.
-
-39.4.2 Krav til forsvarlig vikarordning
-Bruk av assistenter som vikarer, eller at det ikke
-settes inn vikarer, er problemstillinger som ofte
-går igjen. Det er variasjoner i omfanget av fraværet hos de ansatte i skolene, og det finnes ulike
-vikarordninger. Undersøkelser tyder på at fravær
-og bruk av assistenter som vikarer, er en større
-7
-
-Utdanningsdirektoratet, 2019s.
-
-[Side 516]
-
-514
-
-Kapittel 39
-
-NOU 2019: 23
-Ny opplæringslov
-
-utfordring i grunnskolen enn i videregående opplæring (se kapittel 39.3).
-Dagens lov regulerer ikke vikarbruk i skolen.
-Flere av reglene i dagens lov forutsetter at kommunene har forsvarlige vikarordninger, og det er
-lagt til grunn at de må ha et system for en forsvarlig vikardekning ved ulike typer fravær.8
-Utvalget omtaler i kapittel 39.4.1 at det kan
-utgjøre et unntak fra hovedregelen om at en lærer
-må være til stede sammen med elevene i opplæringssituasjonen, dersom lærerens fravær er akutt
-og uforutsigbart. Dersom skolene ikke tar høyde
-for normalt fravær, vil alt fravær i praksis være
-akutt og uforutsigbart. Utvalget mener derfor at
-det også må være en forutsetning at skolen har en
-forsvarlig vikarordning. En forsvarlig vikarordning vil si at skolene har tilgang til nok lærerressurser til å dekke opp vanlig fravær. Utvalget minner om at det med lærer menes personer som er
-tilsatt i lærerstilling, og at personer som ikke oppfyller kompetansekravene, kan tilsettes midlertidig dersom det ikke er søkere som oppfyller kravene.
-At vikarordningen må dekke vanlig fravær,
-betyr at kommunen må ta utgangspunkt i tidligere
-års fravær og annen kunnskap og erfaring som
-kan si noe om hvor mye fravær som kan forventes. Det er opp til den enkelte kommune om de vil
-benytte lærere ved skolen som vikarer, enten i
-egne stillinger eller i prosentandeler av lærerstillingene, eller ha egne vikarpooler eller lignende.
-Et spørsmål er om det er nødvendig å lovfeste
-et krav om forsvarlig vikarordning, eller om dette
-uansett følger av andre regler, for eksempel
-dagens § 10-8 om at kommunen har ansvar for å
-ha rett og nødvendig kompetanse i virksomheten,
-eller kravet om internkontroll i kommuneloven
-§ 25-1. Det kan også argumenteres for at et krav
-om forsvarlig vikarordning er en forutsetning for
-å kunne oppfylle utvalgets forslag om krav til forsvarlig opplæring (se kapittel 15). Utvalget mener
-det bør lovfestes et krav om forsvarlig vikarordning i den nye opplæringsloven. Et krav om forsvarlig vikarordning er viktig for å nå intensjonen
-med hovedregelen om lærers tilstedeværelse, og
-det har stor betydning for elevenes muligheter til
-å få et forsvarlig utbytte av opplæringen. Det er
-derfor viktig at det er klart at et slikt krav gjelder,
-og at dette ikke bare følger forutsetningsvis av
-andre regler.
-
-39.4.3 Bruk av assistenter i opplæringen
-I dagens lov er det fastsatt at assistenter kan
-hjelpe til i opplæringen dersom de får nødvendig
-rådgivning av en lærer og hjelpen foregår i et
-omfang og på en måte som gjør at elevene får forsvarlig utbytte av opplæringen. Det følger også av
-dagens lov at assistenter ikke kan ha ansvaret for
-opplæringen.
-Utvalget mener at assistenter fortsatt skal
-kunne hjelpe til i opplæringen. Assistenter kan
-hjelpe til med praktiske og sosiale utfordringer og
-i selve opplæringen. Hvilke oppgaver og ansvar en
-assisten kan ha, vil begrenses av utvalgets forslag
-om at en lærer må forberede, følge opp og som
-hovedregel være til stede under opplæringen. Det
-vil dermed være læreren som har det faglige
-ansvaret for opplæringen. Assistenten kan bare
-hjelpe til i opplæringssituasjonen dersom læreren
-er til stede. Kravet om tilstedeværelse i opplæringssituasjonen er ikke til hinder for at assistenter kan hjelpe til med andre oppgaver enn selve
-opplæringen uten at en lærer er til stede. For
-eksempel kan assistenter følge elever til helsesøster eller lignende.
-Utvalget foreslår at det videreføres i den nye
-opplæringsloven at assistenter skal kunne hjelpe
-til i opplæringen. KS har gitt innspill om at det er
-unødvendig å regulere at andre enn undervisningspersonalet ikke kan ha ansvar for opplæringen.9 Utvalget er enig i at dette er unødvendig,
-særlig ettersom utvalget foreslår en tydeligere
-regulering av hvilke oppgaver som bare kan utføres av en lærer (se kapittel 39.4.1).
-Utvalget foreslår å ikke videreføre kravet om
-at assistenten skal få rådgivning og at det er en
-forutsetning at elevene får forsvarlig utbytte.
-Utvalgets forslag om å tydeliggjøre hvilke oppgaver bare en lærer kan gjøre, vil gjøre at læreren
-i praksis kan ta et større faglig ansvar for opplæringen. At assistentene får nødvendig veiledning
-og at opplæringen er egnet til å gi elevene et forsvarlig utbytte, er sentrale oppgaver i utøvelsen av
-det profesjonelle ansvaret en lærer har. Utvalget
-mener det er unødvendig å lovfeste dette. Utvalget mener at forslaget om hvilke oppgaver bare
-lærere kan gjøre, og et generelt krav om at opplæringen skal være forsvarlig (se kapittel 15), gir tilstrekkelig rammer for bruken av assistenter i opplæringen.
-
-8
-
-9
-
-Dokument nr. 15:1213 (2010–2011).
-
-KS, innspill til utvalget.
-
-[Side 517]
-
-NOU 2019: 23
-Ny opplæringslov
-
-39.5 Utvalgets forslag
-Utvalget foreslår
-– å presisere at det bare er lærere som kan ha det
-faglige ansvaret for opplæringen, se forslag til
-§ 15-4 første setning
-– å innføre krav om at opplæringen må forberedes og følges opp av en lærer, se forslag til § 154 andre setning
-
-–
-
-–
-–
-
-515
-
-Kapittel 39
-
-å innføre krav om at en lærer som hovedregel
-må være til stede sammen med elevene i opplæringssituasjonen, se forslag til § 15-4 andre
-setning
-å innføre krav om forsvarlig vikarordning, se
-forslag til § 15-5
-å videreføre at assistenter skal kunne hjelpe til
-i opplæringen. Kravet om veiledning av assistentene mv. videreføres ikke. Se forslag til § 154 siste setning
-
-[Side 518]
-
-516
-
-NOU 2019: 23
-
-Kapittel 40
-
-Ny opplæringslov
-
-Kapittel 40
-
-Flerfaglig kompetanse og helsesykepleier
-
-Figur 40.1
-
-40.1 Innledning
-Dette kapitlet handler om personalet med annen
-kompetanse enn lærerkompetanse i skolen og
-særlig om helsesykepleiere. Generelle krav til
-kompetanse og krav til ledelse og lærere er omtalt
-i kapittel 38.
-
-40.2 Flerfaglig kompetanse i skolen
-40.2.1 Dagens regler
-Det følger av opplæringsloven § 10-8 at kommuner har ansvaret for at det er riktig og nødvendig
-kompetanse i virksomhetene (se kapittel 38.4.1).
-Opplæringsloven med forskrifter inneholder krav
-til spesifikk kompetanse hos undervisningspersonalet og rektor. Det er for øvrig ingen krav om at
-det er personer med en annen spesifikk kompetanse i skolen.
-
-40.2.2 Kunnskapsgrunnlaget
-Rapporter og undersøkelser
-Stortingsmelding om tid til læring
-I Meld. St. 19 (2009–2010) var det en uttalt målsetting for regjeringen å legge til rette for at mer av
-lærernes tid frigjøres til undervisning. I Stortingets behandling av meldingen understreket kirke-,
-utdannings- og forskningskomiteen behovet for å
-trekke inn andre yrkesgrupper i skolen for å ivareta noen av oppgavene som lærerne i dag gjør.
-
-Et lag rundt eleven
-På bakgrunn av Meld. St. 19 (2009–2010) satte
-Utdanningsdirektoratet i gang et forskningsprosjekt om flerfaglig kompetanse i skolen. Underveis endret prosjektet offisielt navn fra Et lag
-rundt læreren til Et lag rundt eleven.
-Som en del av prosjektet, laget Arbeidsforskningsinstituttet en kunnskapsoversikt om bruk
-av ulike yrkesgrupper i skolen.1 Ifølge kunnskapsoversikten peker den norske forskningen og
-erfaringen fra skolesektoren i retning av at bedre
-bruk av flerfaglig kompetanse i skolen kan bidra
-positivt under gitte forutsetninger.
-Forskningsgjennomgangen viser at sosialarbeidere, under gitte forutsetninger, synes å ha en
-signifikant positiv effekt på elevenes faglige resultater og sosiale mestring. Generelt synes det å
-være en positiv sammenheng mellom helseprofesjonenes utbredelse i skolene og en rekke
-utfallsmål, som blant annet fravær. Arbeidsforskningsinstituttet viser også til forskning som viser
-at helsefaglig personale kan hjelpe lærere til å
-integrere elever med læringsproblemer mer
-effektivt.
-I den andre delen av prosjektet presenterte og
-drøftet forskerne fra Arbeidsforskningsinstituttet
-hvordan flerfaglig kompetanse i skolen kan benyttes på best mulig måte.2 Rapporten skulle danne
-grunnlag for framtidige effektstudier, ved at det
-ble identifisert flere modeller for bruk av flerfaglig kompetanse i skolen.
-1
-2
-
-Borg et al., 2014.
-Borg et al., 2015.
+### Håndhevingsordningen
+
+Generelt om håndhevingsordningen
+
+Evalueringen og det øvrige kunnskapsgrunnlaget viser at håndhevingsordning har gjort det enklere for elever å få overprøvd sin sak. Det er også enkelte utfordringer med håndhevingsordningen, som lang saksbehandlingstid hos fylkesmennene og ulik håndtering av sakene. Flere av utfordringene handler mer om praktiseringen av ordningen enn om selve regelverket. Samlet sett mener utvalget at innføringen av håndhevingsordningen har vært positiv for elevene.
+
+Utvalget foreslår å videreføre håndhevingsordningen for skolemiljøsaker. Nedenfor drøfter utvalget enkelte problemstillinger i lys av kunnskapsgrunnlaget. Utvalgets drøftinger tar i all hovedsak utgangspunkt i fylkesmennenes behandling av håndhevingsakene, men vurderingene og forslagene gjelder også Utdanningsdirektoratets behandling av klager i håndhevingssakene.
+
+Avvisning av saker
+
+Det følger av § 9 A-6 andre avsnitt at fylkesmannen skal avvise saken hvis saken ikke har vært tatt opp med rektor eller det er under en uke siden saken ble tatt opp. Det er lagt til grunn at en uke betyr fem arbeidsdager.[^1033] Utvalget foreslår at dette videreføres. Det er viktig at elevene har enkel tilgang til å få hjelp hos fylkesmannen, men det er lite hensiktsmessig at elevene skal kunne gå direkte til fylkesmannen uten at saken er tatt opp med rektor.
+
+Kunnskapsgrunnlaget viser at det er enkelte misforståelser om dette avvisningsgrunnlaget. Utvalget vil derfor understreke at kravet ikke skal forstås som en frist verken til å sette inn tiltak, lage plan eller ordne opp i saken. I mange saker er det behov for undersøkelser og vurderinger som tar mer tid enn fem dager, og tiltakene vil ofte måtte virke over tid før eleven får det trygt og godt. At saken skal være tatt opp med rektor, handler om å legge til rette for at saken skal løses på skolenivå. Rektor og skolen får en sjanse til å komme i dialog med eleven og foreldrene. Dersom eleven og foreldrene gjennom denne dialogen får tillit til at skolen vil håndtere saken på en god måte, vil eleven eller foreldrene ikke ha behov for å melde saken til fylkesmannen. Rektors oppgave blir dermed å gjøre eleven og foreldrene trygge på at saken tas på alvor og vil bli fulgt opp raskt og godt. Dersom eleven eller foreldrene ikke får tillit til skolens oppfølging gjennom denne dialogen, er trolig alle involverte tjent med at saken behandles av fylkesmannen. Da får eleven mulighet til å få hjelp dersom skolen ikke har hatt eller har en god nok oppfølging av eleven og skolemiljøet. Dersom skolens oppfølging er slik man med rimelighet kan forvente, vil fylkesmannens behandling vise dette.
+
+Etter dagens regelverk er det et krav at saken skal være tatt opp med rektor. Kunnskapsgrunnlaget viser at det varierer i hvilken grad kommunen involveres i håndhevingssaker. Ettersom det er kommunen som er juridisk, økonomisk og administrativ ansvarlig overfor elevene, kan det argumenteres for at saken bør være tatt opp med kommunen. På den annen side forholder elever og foreldre seg til skolen, og det er viktig at håndhevingsordningen er lett tilgjengelig for dem. Utvalget mener hensynet til elevene må veie tyngst, og foreslår å videreføre at saken må ha vært tatt opp med rektor. Kommunen kan, som arbeidsgiver, lage rutiner for å sikre at rektor involverer dem i slike saker.
+
+Det følger av § 9 A-6 andre avsnitt at fylkesmannen også skal avvise saker som ikke gjelder skolemiljøet på skolen der eleven går når saken blir meldt til fylkesmannen. Det er lagt til grunn at ordlyden «skolen der eleven går» også omfatter skolen der eleven skulle gått dersom eleven av ulike årsaker ikke kan eller vil møte på skolen, og tilfeller der eleven midlertidig og som et kortvarig tiltak har byttet skole for å være i et tryggere miljø enn nærskolen.[^1034] Utvalget foreslår at dette avvisningsgrunnlaget også videreføres. Hensikten med håndhevingsordningen er å hjelpe elevene, og da må meldingen gjelde en situasjon som fortsatt er aktuell. Melding om saker fra tidligere skoler kan gi grunnlag for at fylkesmannen velger å gjennomføre tilsyn. Videre kan saker som ligger tilbake i tid, gi grunnlag for erstatning eller rettferdsvederlag fra staten.[^1035]
+
+Det følger også av § 9 A-6 andre avsnitt at fylkesmannen skal avvise sakene i de ovennevnte tilfellene med mindre særlige grunner gjør det urimelig. Utvalget foreslår at denne regelen videreføres med språklige endringer. Sivilombudsmannen har lagt til grunn at bestemmelsen må forstås slik at det skal vurderes om det foreligger særlige grunner til å realitetsbehandle en klage også når saken gjelder miljøet ved en annen skole enn den skolen eleven går på når saken blir meldt til fylkesmannen, og ikke bare dersom saken ikke har vært tatt opp med rektor en uke før saken meldes.[^1036] Utvalget er enig i denne forståelsen.
+
+Utvalget mener det er hensiktsmessig å ha en slik sikkerhetsventil i regelverket, slik at saker som er svært alvorlig og tidssensitive kan tas til behandling selv om vilkårene for avvisning er oppfylt. Utvalget understreker likevel at det skal være en viss terskel for å ta sakene til behandling når vilkårene for avvisning er oppfylt.
+
+Fylkesmennenes rapportering til Utdanningsdirektoratet viser at fylkesmennene i noen tilfeller gir veiledning til elever og foreldre framfor å avvise saken i tilfeller hvor vilkårene for å ta saken til behandling ikke er oppfylt. Utvalget antar at fylkesmennene har en slik praksis fordi det oppleves brutalt å avvise en sak der en elev ikke har det trygt og godt. Utvalget har forståelse for dette. Praksisen er likevel uheldig, og bør endres. Avvisningen er et enkeltvedtak som kan påklages. Dersom fylkesmennene veileder elever og foreldre til å ta opp saken med skolen i stedet for å avvise saken, fratas eleven og foreldrene denne klagemuligheten. Det kan også bidra til å skape uriktige forventninger til håndhevingsordningen og uklar forståelse av rollene.
+
+Det bør heller ikke være en praksis der fylkesmannen venter en uke for så å ta saken til behandling. Hensikten med avvisningsgrunnlaget er, som nevnt, å legge til rette for at saken kan løses på skolenivå. Da må skolene få en sjanse til å skape tillit omkring oppfølgingen til skolen uten at staten går inn i saken. Dersom vilkårene for å ta saken til behandling ikke er oppfylt, skal fylkesmennene avvise saken med mindre det er særlige grunner til å behandle saken (se over). Framfor å unnlate å fatte avvisningsvedtak for å skåne elever og foreldre, bør fylkesmennene heller vurdere om vedtakene kan utformes annerledes. Fylkesmennene kan også gi veiledning i tillegg til avvisningsvedtaket.
+
+Hva fylkesmannen skal vurdere
+
+Det følger av § 9 A-6 andre avsnitt at fylkesmannen skal avgjøre om aktivitetsplikten er oppfylt. FOU-prosjektet om håndhevingsordningen viser at fylkesmennene som regel vurderer alle delpliktene. Barneombudet mener det er uheldig dersom fylkesmannen ikke vurderer alle delpliktene.[^1037] Forarbeidene til opplæringsloven sier ikke tydelig om det er meningen at fylkesmannen alltid skal vurdere alle delpliktene, men det kan kanskje forstås slik ettersom det er lagt til grunn at fylkesmannen må vurdere hva som ut fra en faglig standard er rimelig å forvente av skolen «på ethvert tidspunkt i saksforløpet».[^1038]
+
+Etter utvalgets vurdering bør det ikke være slik at fylkesmannen alltid må vurdere alle delpliktene. Håndhevingsordningen skal være et sikkerhetsnett som kan fange opp de sakene skolen selv ikke klarer å løse raskt og riktig, og målet er at ordningen skal være enklere, raskere og tryggere enn den tidligere ordningen.[^1039] Årsaken til at fylkesmannen skal vurdere om plikten er oppfylt, og ikke om elevenes rett til et trygt og godt skolemiljø er oppfylt, er at fylkesmannen ikke kan overprøve om en elev har det trygt og godt. Slik utvalget ser det, er likevel det primære målet med ordningen å hjelpe elever i den situasjonen de er i, ikke å kontrollere om skolen har etterlevd regelverket. Dersom målet er å kontrollere kommunens etterlevelse av regelverket, er tilsyn det riktige virkemiddelet.
+
+Utvalget har forståelse for at elever og foreldre ønsker en vurdering av alt skolen har gjort i saken. Samtidig vil en fullstendig gjennomgang av alle delpliktene i alle saker føre til at sakene tar lengre tid uten at det alltid gir et bedre grunnlag for å hjelpe eleven. Det kan også føre til at oppmerksomheten rettes mot hva skolen burde ha gjort eller har gjort feil, i stedet for at saken handler om å finne gode tiltak. Det er selvsagt viktig at kommuner og skoler gis et godt grunnlag til å lære av håndhevingssakene, og da kan en fullstendig gjennomgang være best, men dette bør ikke gå på bekostning av målet om å hjelpe den enkelte eleven raskt. Utvalget peker på at fylkesmannen også kan vurdere å åpne et bredere tilsyn med skolens oppfyllelse av aktivitetsplikten på bakgrunn av én eller flere håndhevingssaker. Fylkesmannen kan også gi veiledning til kommuner og skoler.
+
+Utvalget foreslår at det presiseres i loven at fylkesmannen skal vurdere om aktivitetsplikten er oppfylt, *for å bidra til at eleven får det trygt og godt på skolen*. Hensikten er å tydeliggjøre at formålet med ordningen er å hjelpe eleven framover, ikke å kontrollere etterlevelsen av reglene. Med utgangspunkt i dette formålet må fylkesmannen vurdere hvilke delplikter som skal vurderes i den enkelte sak. For at håndhevingsordningen skal kunne gi eleven hjelp raskt, er det viktigste at fylkesmannen tar tak i saken der den står når den meldes til fylkesmannen. Hvis alle er enige om at det er behov for tiltak, men det er uenighet om hva tiltaket skal være, så holder det at fylkesmannen vurderer hva skolen har gjort for å finne fram til riktig tiltak og hvilke tiltak skolen har gjennomført. Dersom saken derimot er slik at elever og foreldre opplever å ikke bli hørt eller tatt på alvor, kan det være relevant for fylkesmannen å vurdere hva skolen har gjort for å følge med og undersøke saken videre.
+
+Fylkesmannens utredning av saken
+
+Det følger av opplæringsloven § 9 A-6 tredje avsnitt andre og tredje setning at fylkesmannen skal sørge for at involverte elever blir hørt, og at elevens beste skal være et grunnleggende hensyn i skolens arbeid. Utvalget foreslår at det tas inn en generell bestemmelse i ny opplæringslov om elevens rett til å bli hørt og hensynet til elevens beste. Utvalget foreslår derfor at § 9 A-6 tredje avsnitt andre og tredje setning ikke videreføres.
+
+Se omtale av forslaget om en generell bestemmelse om elevens rett til å bli hørt og hensynet til elevens beste i kapittel 18 og 19.
+
+Kunnskapsgrunnlaget viser at det oppleves som en utfordring at fylkesmannen hører barnet som melder saken, mens andre sider av saken ikke blir så godt opplyst. Det oppleves særlig utfordrende dersom andre elever eller lærere har andre oppfatninger av situasjonen.
+
+Utvalget mener det er positivt at de nye reglene om skolemiljø har ført til at elevene i større grad enn tidligere blir hørt og tatt hensyn til. Det er viktig at elever som ikke har det trygt og godt på skolen, tas på alvor. Det er eleven selv som vet best hvorfor han eller hun ikke har det det trygt og godt, og eleven har gjerne også synspunkter på hva som skal til for at det skal bli bedre.
+
+Utvalget vil likevel understreke at det som regel ikke er tilstrekkelig for fylkesmannen å bare høre den eleven som har meldt saken. Fylkesmannen må i hvert fall høre alle elevene som saken gjelder (se om partsrettigheter nedenfor). Fylkesmannen må dessuten sørge for at saken er så godt opplyst som mulig før vedtak treffes, jf. forvaltningsloven § 17. Det kan derfor være nødvendig å innhente informasjon fra andre elever, fra foreldre og fra ansatte på skolen og i kommunen. Hvem som må høres, og hvor grundig saken må utredes, må vurderes konkret. Utvalget minner om at valg av tiltak skal baseres på undersøkelsen av saken og ikke bare på den enkelte elevens opplevelse (se kapittel 36.4.6). I hvilken grad det er behov for å innhente informasjon fra andre elever, kommer også an på hva slags vedtak som er aktuelt, og om dette berører andre barn.
+
+FOU-prosjektet om håndhevingsordningen[^1040] viser at høring av andre barn og lærere som regel skjer gjennom skolens opplysning av saken. Etter utvalgets oppfatning kan dette være en egnet måte å få opplyst saken på i noen tilfeller. Men dersom fylkesmannens vedtak berører andre elever eller ansatte direkte, bør også de høres direkte. Se mer om fylkesmannens vedtak nedenfor.
+
+Partsrettigheter i håndhevingssaker
+
+Evalueringen av kapittel 9 A og det øvrige kunnskapsgrunnlaget viser at det oppleves uklart hvem som har partsrettigheter i håndhevingssaker om skolemiljø. Nedenfor redegjør utvalget kort for reglene om partsrettigheter og drøfter disse opp imot håndhevingsordningen.
+
+Når fylkesmannen behandler en melding etter håndhevingsordningen, gjelder forvaltningslovens regler om enkeltvedtak og partsrettigheter. Det følger av forvaltningsloven § 2 at en person som en avgjørelse retter seg mot, eller som saken ellers direkte gjelder, er part i saken. Part brukes som betegnelse i flere av reglene i forvaltningsloven for å angi hvem som har rettigheter under saksbehandlingen, eller for å angi rekkevidden av plikter som forvaltningsorganet har. Hvem som er part i saken, har blant annet betydning for retten til innsyn og retten til å klage (se mer om innsyn og klage nedenfor).
+
+Det er en relativt høy terskel for å gi partsstilling for den som indirekte og rent faktisk blir berørt av et vedtak. Det må dreie seg om vesentlige faktiske virkninger for vedkommende – normalt en alvorlig skade eller alvorlig ulempe av individuell karakter.[^1041]
+
+Et offentlig organ regnes ikke som part i en forvaltningssak selv om organets myndighetsområde eller allmenne interesser som det ivaretar, kan bli berørt av avgjørelsen. Det er bare dersom organets rettsstilling blir berørt på samme måte som et privat individ ville bli i en tilsvarende sak, for eksempel ved ekspropriasjon av arealer, at forvaltningsorganet regnes som part, jf. forvaltningsloven § 2 fjerde avsnitt. Når det gjelder tilsyn med kommunepliktene, følger det av kommuneloven § 30-5 at kommunen kan utøve partsrettigheter. Dette er en særregel som avviker fra de ordinære reglene i forvaltningsloven.
+
+Et spørsmål som enkelte opplever som uklart i håndhevingssaker, er om andre elever enn den som har meldt inn saken, skal regnes som part i saken. Utvalget mener dette må vurderes konkret fra sak til sak. Etter utvalgets oppfatning er det ikke nok at en annen elev er utpekt som den som har krenket den som har meldt inn saken. Det avgjørende er om vedtaket kan ha vesentlige faktiske virkninger for en annen elev. Flere partsrettigheter gjelder før vedtaket fattes, og det må derfor vurderes ut fra saksforberedelsen om et mulig vedtak vil kunne få vesentlige faktiske virkninger for en annen elev. I vurderingen av om virkningen er vesentlig, er det etter utvalgets vurdering relevant å ta hensyn til at barn og unge er mer sårbare enn voksne, og at det er obligatorisk for elevene å gå på skolen eller i hvert fall nødvendig for å kunne få oppfylt en grunnleggende rettighet. En virkning som ikke anses å være vesentlig overfor en voksen, kan dermed være vesentlig overfor barn og unge.
+
+Dersom tiltaket er at en annen elev enn den som har meldt saken, må bytte klasse eller skole, er det åpenbart at også den andre eleven er part i saken, i og med at vedtaket «retter seg mot» vedkommende. Dersom vedtaket gjelder kontakten og samhandlingen mellom to elever og det indirekte begrenser en tredje elevs bevegelser eller omgangskrets, kan den tredje eleven også være part dersom begrensningen har vesentlige faktiske virkninger for denne eleven. Dersom det er generelle skolemiljøtiltak som til en viss grad berører alle elevene på skolen eller i klassen, eller en større gruppe elever, vil det normalt ikke være tale om virkninger av en slik karakter at de andre elevene regnes som parter i saken.
+
+Enkelte kommuner mener det er uheldig at kommuner ikke er part i håndhevingssaker. Utvalget vil i denne sammenheng vise til at normalordningen i forvaltningsloven er at offentlige organer, som kommuner, ikke har partsrettigheter på områder som de selv har ansvaret for. Kommuner har partsrettigheter i tilsynssaker etter kommuneloven, men tilsynssakene skiller seg i vesentlig grad fra håndhevingssakene. Fylkesmannen gjennomfører tilsyn med kommunene på eget initiativ, mens håndhevingssakene utløses av at en elev melder fra om at han eller hun ikke har det trygt og godt på skolen. Formålet med håndhevingsordningen er å hjelpe eleven, ikke å kontrollere kommunen. Håndhevingssakene har større likhet med klagesaker der fylkesmannen overprøver kommunale vedtak, for eksempel vedtak om skyss. Kommunen har ikke partsrettigheter i slike saker.
+
+Et spørsmål som oppleves som uklart, er om lærere og andre ansatte skal regnes som part i håndhevingssaker. Flere mener det er problematisk for de ansattes rettssikkerhet dersom de ikke har partsrettigheter, særlig i saker hvor en ansatt utpekes som krenker.
+
+Om en lærer skal regnes som part i en håndhevingssak, må vurderes konkret. I likhet med det som er lagt til grunn for andre elever, vil en lærer være part hvis vedtaket retter seg mot læreren eller har vesentlige virkninger for læreren. Dersom vedtaket innebærer at en sak må følges opp på enn annen måte enn det som er lærerens faglige vurdering, vil dette normalt ikke være en type virkning som gir partsrettigheter for læreren. Det samme gjelder virkninger som berører skolen eller de ansatte generelt. Dersom vedtaket, eller et mulig vedtak, innebærer vesentlige endringer i hvilke arbeidsoppgaver en bestemt lærer kan ha, må læreren anses som part i saken. Et annet spørsmål er om fylkesmannen i det hele tatt bør fatte slike vedtak. Se om fylkesmannens vedtak nedenfor.
+
+Utvalget mener at det ikke er behov for egne regler om partsrettigheter for elever og ansatte i håndhevingssaker, da dette reguleres av de generelle reglene i forvaltningsloven, og at den nærmere presiseringen av disse i saker om skolemiljø best skjer gjennom praksis. Utvalget ser heller ikke at det er grunnlag for å innføre særregler om partsrettigheter for kommuner i håndhevingssaker. Se for øvrig omtale av forhåndsvarsel og klagerett nedenfor.
+
+Sivilombudsmannen har behandlet en sak om partsinnsyn for en lærer i en sak om en elevs psykososiale skolemiljø.[^1042] Sivilombudsmannen tok ikke stilling til om læreren var å regne som part i den konkrete saken, men konkluderte med at hun var så berørt av saken at, uavhengig av om hun var for part å regne, måtte ha visse partsrettigheter. Ombudsmannen kom til at «partsrettigheter i form av rett til dokumentinnsyn og rett til å bli hørt \[…\] kunne forankres i ulovfestede prinsipper om krav til forsvarlig saksbehandling og å opptre i samsvar med god forvaltningsskikk». Utvalget legger ut fra dette til grunn at fylkesmannen ut fra kravene til god forvaltningsskikk og kravet til forsvarlig saksbehandling, inkludert kravet om at saken skal være så godt opplyst som mulig, unntaksvis kan ha plikt til å la andre enn partene i saken få innsyn og mulighet til å uttale seg i saken.
+
+Forhåndsvarsel i håndhevingssaker
+
+Flere kommuner gir uttrykk for at det er problematisk at de ikke får forhåndsvarsel, særlig i saker hvor det fattes vedtak om konkrete tiltak som skal gjennomføres på en skole.[^1043] I noen tilfeller opplever kommuner og skoler at tiltakene som vedtas, ikke lar seg gjennomføre eller har negative konsekvenser som ikke er belyst i vedtaket.
+
+Det følger av forvaltningsloven § 16 at den som er part i saken, skal få forhåndsvarsel før det fattes vedtak, og gis mulighet til å uttale seg innen en nærmere angitt frist. Hensikten med forhåndsvarslet er at den vedtaket gjelder, skal ha mulighet til å imøtegå framstillingen av saken. Forvaltningslovutvalget har drøftet om varslingsplikten skal utvides, men konkluderte med å videreføre dagens regel om at det bare er parten som har krav på å bli varslet.[^1044]
+
+Ettersom kommunen ikke er part i håndhevingssaker, har den heller ikke krav på forhåndsvarsel. En mulighet kan være å fastsette særregler i opplæringsloven om at kommunen skal få forhåndsvarsel i slike saker. Prinsipielt mener utvalget at det skal være en høy terskel for å fravike forvaltningsloven og andre sektorovergripende lover. Kommunen er dessuten en profesjonell aktør, i motsetning til eleven som har meldt saken. Et krav om forhåndsvarsel vil føre til at sakene tar lengre tid – noe som ikke bidrar til målsetningen om en raskere ordning.[^1045]
+
+Utvalget mener det ikke er nødvendig med særregler i opplæringsloven om forhåndsvarsel til kommuner. Utvalget vil likevel understreke at kravet i forvaltningsloven § 17 om at saken skal være så godt opplyst som mulig, betyr at den aktuelle kommunen og skolen må involveres i saken. Jo mer konkrete vedtak fylkesmannen skal fatte, desto bedre må saken være opplyst. I mange tilfeller vil den beste måten å opplyse saken på være å gi et forhåndsvarsel til kommunen med mulighet til å uttale seg. På denne måten får fylkesmannen et bedre grunnlag for å vurdere om det tiltaket den vil vedta, er egnet. Forhåndsvarsel kan også være et godt verktøy for å avdekke mulige negative konsekvenser for andre elever, som eventuelt også kan føre til at andre elever må regnes som part i saken.
+
+I vurderingen av om kommunen skal gis et forhåndsvarsel, må det også tas hensyn til hvor tidssensitiv saken er. Det er viktig at saksbehandlingen ikke forsinkes mer enn nødvendig. Fylkesmannen kan også gjennomføre en eventuell varsling til kommuner på en enklere og mer tidseffektiv måte enn det forvaltningsloven legger opp til. For eksempel kan kommunen bare få deler av det foreløpige vedtaket, for eksempel hvilke tiltak som skal vedtas, varslingen kan skje muntlig, eller det kan være kortere frist. Samtidig er det viktig at kommunen får en reell mulighet til å gi innspill dersom dette er nødvendig for å opplyse saken godt nok. Utvalget gjør også oppmerksom på at dersom fylkesmannen mottar opplysninger som eleven har innsynsrett i som part, skal opplysningene forelegges eleven til uttalelse, jf. forvaltningsloven § 17 andre avsnitt.
+
+Fylkesmannens vedtak i håndhevingssaker
+
+Ettersom håndhevingsordningen er en særordning, kan det oppstå tvil om avgjørelsene etter denne ordningen er å regne som enkeltvedtak. Utvalget foreslår derfor at det fortsatt presiseres i opplæringsloven at avgjørelsen til fylkesmannen er et enkeltvedtak. Utvalget understreker at avgjørelsen er å regne som et enkeltvedtak overfor eleven som har meldt saken, og eventuelt andre private personer som avgjørelsen retter seg mot. Utvalget foreslår å ta ut presiseringen om at avgjørelsen kan påklages etter reglene i forvaltningsloven, da dette følger av at avgjørelsen er et enkeltvedtak. Spørsmålet om klagerett for kommuner er behandlet nedenfor.
+
+Dersom fylkesmannen i vurderingen av en håndhevingssak kommer til at skolen ikke har oppfylt aktivitetsplikten, kan fylkesmannen etter opplæringsloven § 9 A-6 fjerde avsnitt vedta hva skolen skal gjøre for at eleven skal få et trygt og godt skolemiljø. Det er lagt til grunn at vedtaket skal rettes mot kommunen, men at det som regel vil kreve aktivitet på skolenivå. Fylkesmannen kan i vedtaket enten stille krav om at kommunen finner en løsning på saken som sikrer at eleven får et trygt og godt skolemiljø, eller fylkesmannen kan selv vedta hvilke tiltak som skal settes inn.[^1046]
+
+Kunnskapsgrunnlaget viser at det varierer fra fylkesmannsembete til fylkesmannsembete hvor detaljerte vedtak som fattes i skolemiljøsakene.[^1047] Barneombudet mener det er positivt at fylkesmennene fatter konkrete vedtak ettersom det kan være med på å skape hurtig endring for eleven.[^1048] Kommuner og skoler opplever det derimot som problematisk at fylkesmannen og Utdanningsdirektoratet kan fatte vedtak om spesifikke tiltak som skolen må iverksette, selv om skolen og kommunen mener at tiltakene er uhensiktsmessige eller kan ha negativ innvirkning på andre elever.
+
+Utvalget ser at det kan være fordeler og ulemper ved at fylkesmannen og Utdanningsdirektoratet gjør vedtak om spesifikke tiltak. En fordel er at eleven raskt kan få hjelp, og at eleven ikke blir en «kasteball» mellom de ulike forvaltningsorganene. En ulempe er at fylkesmannen og Utdanningsdirektoratet er lenger fra elevene og skolehverdagen, noe som gir en risiko for at tiltakene ikke er egnede eller har utilsiktede konsekvenser. Dersom statlige myndigheter griper inn med svært spesifikke tiltak, kan det også bidra til at kommunen føler mindre ansvar for den videre oppfølgingen.
+
+Utvalget mener fylkesmennene som hovedregel bør pålegge kommunen å selv finne en løsning som gir eleven et trygt og godt skolemiljø. Fylkesmannens vedtak vil da bli et pålegg om retting, mens det overlates til kommunen å finne egnede tiltak. Fordelen er at kommunene, og i forlengelsen skolene, er nærmere elevene. De har dermed bedre forutsetninger til å gjøre en helhetlig vurdering av skolemiljøet og finne fram til tiltak som kan gjennomføres i praksis, og som ikke får uheldige virkninger for andre elever. En annen fordel med denne framgangsmåten kan være at kommunene i større grad tar ansvaret for den videre oppfølgingen av eleven og skolemiljøet. Med dagens ordning må først fylkesmannen utrede saken og vedta tiltak, og deretter må kommunen finne ut hvordan tiltaket kan gjennomføres i praksis. Dersom kommunen selv skal finne fram til egnende tiltak, kan dette slås sammen i én prosess. Det trenger derfor ikke nødvendigvis å ta lengre tid å pålegge kommunen å finne fram til egnede tiltak.
+
+Samtidig viser erfaringen med den tidligere klageordningen i saker om psykososialt skolemiljø at det er en risiko for at sakene går fram og tilbake mellom forvaltningsorganene, eller at sakene drar unødig ut i tid. Dette er uheldig for elevene. Utvalget mener derfor at fylkesmannen fortsatt skal kunne vedta hva skolen skal gjøre i to tilfeller.
+
+Fylkesmannen skal for det første kunne vedta tiltak dersom det er grunn til å tro at kommunen ikke vil oppfylle pålegget om retting. Det avgjørende spørsmålet vil da være i hvilken grad fylkesmannen har tillit til at kommunen vil følge opp pålegget om retting på en rask og god måte. Dersom fylkesmannen mener det er risiko for at saken drar ut i tid, kan fylkesmannen selv vedta hvilke tiltak som skal gjennomføres. Det samme gjelder dersom det er risiko for at tiltakene som kommunen setter inn, ikke vil være egnede. Kommunens håndtering av saken fram til vedtakstidspunktet vil kunne gi fylkesmannen en oppfatning av i hvilken grad den kan ha tillit til den videre oppfølgingen fra kommunen.
+
+Fylkesmannen skal dessuten kunne vedta hvilke tiltak som skal gjennomføres dersom det vil forsinke saken unødig å bare pålegge kommunen å rette forholdet. Dette kan være tilfellet i saker hvor det er åpenbart hvilke tiltak som bør gjennomføres, og det dermed bare blir en formalitet å overlate til kommunen å finne fram til egnet tiltak.
+
+Saksbehandlingstid
+
+Evalueringen av kapittel 9 A og det øvrige kunnskapsgrunnlaget viser at en av de største utfordringene med håndhevingsordningen er at det er for lang saksbehandlingstid hos fylkesmennene. Kunnskapsdepartementet har utredet om det bør fastsettes frister for saksbehandlingstid.[^1049] I forslaget til statsbudsjettet for 2020 har Kunnskapsdepartementet orientert Stortinget om at det vil instruere fylkesmennene om at en første tilbakemelding til den som melder saken, og en plan for videre saksgang skal være klart i løpet av maksimalt fem virkedager. Den samme fristen vil gjelde for å avgjøre om saken skal avvises.
+
+Det følger av forvaltningsloven § 11 a at forvaltningsorganer skal forberede og avgjøre saker uten ugrunnet opphold, og denne gjelder for fylkesmennenes behandling. Utvalget mener det prinsipielt bør være minst mulig særregulering av forhold som er regulert i forvaltningsloven eller andre sektorovergripende lover.
+
+Kunnskapsdepartementet er nærmest til å vurdere om det skal gis instrukser til fylkesmennene om saksbehandlingstid. Utvalget antar at saksbehandlingstiden til fylkesmennene i stor grad skyldes deres ressurssituasjon og øvrige oppgaver. Kunnskapsdepartementet er også nærmest til å vurdere om fylkesmennene trenger mer ressurser for å kunne få til en raskere saksbehandling, eller om oppgaveporteføljen kan endres.
+
+Det vises for øvrig til at utvalgets forslag om å innføre en terskel for når fylkesmannen skal vedta tiltak, og presiseringen av at fylkesmannen ikke alltid må vurdere alle delplikter (omtalt ovenfor), kan gjøre håndhevingsordningen noe mindre ressurskrevende for fylkesmennene.
+
+Forholdet til arbeidsmiljøloven
+
+Kunnskapsgrunnlaget viser at forholdet mellom opplæringsloven og arbeidsmiljøloven oppleves som problematisk.[^1050] Spørsmålet aktualiseres i saker hvor vedtaket i skolemiljøsakene går ut over den ansattes rettigheter etter arbeidsmiljøloven.
+
+Kommuner og rektorer har et ansvar både overfor elevene og overfor de ansatte i skolen. Elevene har rettigheter etter opplæringsloven, mens de ansatte har rettigheter etter arbeidsmiljøloven. Utvalget har forståelse for at det kan være utfordrende å håndtere de to regelsettene i skolemiljøsaker.
+
+Forholdet mellom opplæringsloven og arbeidsmiljøloven er ikke omtalt i forarbeidene til kapittel 9 A. Utvalget legger til grunn at det ikke har vært meningen å gjøre unntak fra reglene i arbeidsmiljøloven. Kommunen, og i forlengelsen rektor, kan gjennom sin styringsrett gripe inn i den enkelte lærers arbeidsforhold, men det er også grenser for hva en arbeidsgiver kan styre overfor en ansatt.
+
+Det er kommunen som arbeidsgiver, som er ansvarlig for å etterleve reglene i arbeidsmiljøloven. Utdanningsdirektoratet og fylkesmennene har ikke plikter etter arbeidsmiljøloven og heller ingen styringsrett overfor de ansatte i skolen. Dersom statlige myndigheter fatter vedtak som innebærer at kommunen må iverksette tiltak som de ikke har et lovlig grunnlag for, må kommunen enten bryte arbeidsmiljøloven eller la være å oppfylle skolemiljøvedtaket. Statlige myndigheter bør derfor være varsomme med å fatte vedtak som innebærer at det må gjennomføres spesifikke tiltak overfor en lærer. Det er ikke statlige myndigheters oppgave å vurdere hvor langt styringsretten til kommunen går. Statlige myndigheter må derfor utforme vedtakene slik at kommunen får et tilstrekkelig handlingsrom til følge opp saken innenfor styringsretten og arbeidsmiljøloven.
+
+En problemstilling som har vært nevnt, er at det kan være en utfordring at vedtakene i skolemiljøsakene skal bygge på elevens subjektive opplevelse, mens tiltak mot en ansatt etter arbeidsmiljøloven må ha et objektivt grunnlag. Utvalget viser til det som er omtalt om vektlegging av elevens subjektive opplevelse, i kapittel 36.4.6. Det er en objektiv vurdering av saken som skal ligge til grunn for valg av tiltak, også i skolemiljøsaker.
+
+Klagerett for kommuner
+
+Det følger av evalueringen av kapittel 9 A at mange kommuner mener det vil styrke håndhevingsordningen dersom kommunene får klagerett.
+
+Det følger av forvaltningsloven § 28 at parter og andre med rettslig klageinteresse har rett til å klage på et vedtak til et overordnet forvaltningsorgan. Det er presisert i opplæringsloven § 9 A-6 femte avsnitt at kommunen ikke har klagerett.
+
+Forvaltningslovutvalget foreslår å videreføre at andre med rettslig klageinteresse kan påklage et vedtak, men går bort fra betegnelsen «rettslig klageinteresse». I stedet uttrykkes dette som klagerett for «andre som i vesentlig grad berøres av vedtaket».[^1051] Det er private personer og sammenslutninger som kan ha rettslig klageinteresse. I likhet med det som er omtalt over når det gjelder partsrettigheter, har ikke offentlige organer rettslig klageinteresse på områder som de selv har ansvaret for. Forvaltningslovutvalget har vurdert om det skal være en generell klagerett for forvaltningsorganer, men kommet fram til at det ikke bør være det. I begrunnelsen er det blant annet vist til at en alminnelig regel om klagerett for offentlige organer kan føre til en mindre heldig prioritering av mulige klagesaker og skape usikkerhet for privatpersoner som er tilgodesett ved vedtaket.[^1052]
+
+I forarbeidene til dagens kapittel 9 A er klagerett for kommunen drøftet.[^1053] Det er vist til at likebehandling kan være et argument for klagerett for kommunen, men at målet om rask saksbehandling og det asymmetriske forholdet mellom kommunen og den enkelte eleven tilsier at det ikke skal være en slik klagerett. Det er videre vist til at kommuner etter tvisteloven § 1-4 a kan gå til søksmål mot staten om gyldigheten av et statlig organs vedtak, blant annet i håndhevingssaker om skolemiljø. I evalueringen av kapittel 9 A gir kommuner uttrykk for at denne ordningen ikke er en erstatning for en klagerett, da det er høy terskel for å saksøke staten.
+
+Etter utvalgets oppfatning kan det være gode grunner til at kommuner skal ha mulighet til å klage på vedtak i håndhevingssakene. Særlig kan dette være en sikkerhetsmekanisme dersom fylkesmannen vedtar tiltak som ikke er gjennomførbare, eller som har utilsiktede konsekvenser. Utvalget er enig i at adgangen til å saksøke staten i slike saker ikke vil ha samme funksjon.
+
+Det er likevel en risiko for at klagerett til kommuner fører til at saker drar ut i tid. Det kan også være en risiko for at det blir større oppmerksomhet fra kommunens side om å «vinne saken» enn å hjelpe eleven. På den annen side er det liten grunn til å tro at kommunene vil påklage saker med mindre vedtaket oppleves som åpenbart uriktig. Erfaringen fra tilsynssaker på opplæringsområdet er at kommuner sjelden klager på fylkesmannens vedtak.
+
+Utvalget er usikker på om en klagerett for kommuner vil få negative konsekvenser for elevene. Utvalget foreslår derfor ikke at det innføres en slik klagerett nå. Det kan være mindre risiko for elevene dersom det innføres en klagerett til kommunene etter at de nye reglene har virket en stund. Dersom det skal innføres en klagerett for kommunene, bør det innføres regler som ivaretar elevenes interesser i klagesaksbehandlingen. For eksempel bør det vurderes om det ikke skal kunne gis oppsettende virkning, og om en eventuell omgjøring av fylkesmannens vedtak ikke skal kunne frata elevene et gode.[^1054]
+
+Utvalget understreker at Utdanningsdirektoratet eller Kunnskapsdepartementet kan omgjøre fylkesmannens vedtak etter omgjøringsreglene i forvaltningsloven § 35. I enkelte tilfeller kan dermed fylkesmannens beslutning vis-à-vis en kommune omgjøres selv om kommunen ikke har klagerett.
+
+Utvalget foreslår at det tas ut av lovteksten at kommuner ikke har klagerett. Presiseringen er unødvendig gitt at utgangspunktet i forvaltningsloven er at kommuner ikke har klagerett.
+
+### Taushetsplikt og innsyn
+
+Innledning
+
+Kunnskapsgrunnlaget viser at mange synes det er utfordrende å håndtere taushetsplikt og innsynsrett i håndhevingssaker. Utvalget har forståelse for at praktiseringen av disse reglene kan være vanskelig, og at dette også gjelder i skolemiljøsakene.
+
+Opplysninger som er underlagt taushetsplikt, er unntatt fra den ordinære innsynsretten etter offentleglova. Utvalget legger dermed til grunn at den ordinære innsynsretten ikke er så vanskelig å praktisere i skolemiljøsaker. I det følgende drøftes partsinnsyn etter forvaltningsloven og innsyn i opplysninger om seg selv etter personopplysningsloven når det gjelder skolemiljøsaker.
+
+Partsinnsyn etter forvaltningsloven
+
+Forvaltningslovens regler om partsinnsyn gjelder for skolens, kommunens, fylkesmannens og Utdanningsdirektoratets behandling av skolemiljøsaker. Det følger av forvaltningsloven § 18 at en part i saken som hovedregel har rett til å gjøre seg kjent med sakens dokumenter.
+
+Slik utvalget forstår det, oppleves det som utfordrende å ta stilling til hvilke opplysninger den som melder saken, skal få om andre elever og om ansatte i skolen. Det har også vært nevnt for utvalget at man i noen tilfeller unngår å gjøre andre elever enn den som har meldt saken, til part fordi det gir en innsynsrett som oppleves problematisk.
+
+Utvalget vil derfor peke på at partens rett til innsyn ikke er uten unntak. I §§ 18 a til 18 d og 19 er det fastsatt flere unntak fra retten til partsinnsyn. Det følger av § 19 første avsnitt bokstav d at en part ikke har krav på å gjøre seg kjent med opplysninger som det av hensyn til hans helse eller hans forhold til personer som står ham nær, må anses utilrådelig at han får kjennskap til. I slike tilfeller skal opplysningene på anmodning likevel gjøres kjent for en representant for parten når ikke særlige grunner taler mot det. Det følger av § 19 andre avsnitt at en part heller ikke har krav på innsyn i en annen persons helseforhold eller andre forhold som av særlige grunner ikke bør meddeles videre med mindre det er av vesentlig betydning for parten. Det er også flere andre unntak fra innsynsretten. Utvalget gjør likevel oppmerksom på at det følger av § 18 andre avsnitt at forvaltningsorganet skal vurdere å gi helt eller delvis innsyn selv om det er adgang til å gjøre unntak fra innsyn, og at innsyn bør gis dersom hensynet til parten veier tyngre enn behovet for unntak.
+
+De generelle reglene om innsyn og unntak fra innsyn er utformet for å ivareta ulike hensyn. Etter utvalgets vurdering er disse reglene dekkende også for skolemiljøsaker. Kommunene må sikre seg god nok kunnskap om de generelle reglene i forvaltningsloven og må ved behov hjelpe skolene med å anvende reglene i skolemiljøsaker. Fylkesmennene trenger også god kunnskap om disse reglene i sin behandling av håndhevingssakene. Kunnskapsdepartementet og Utdanningsdirektoratet kan vurdere om det bør utarbeides nasjonale veiledninger om anvendelsen av reglene om partsinnsyn i skolemiljøsaker.
+
+Utvalget understreker for ordens skyld at et forvaltningsorgan ikke kan unnlate å gjøre en person til part for å unngå at vedkommende får rett til partsinnsyn. Om en person har partsrettigheter etter forvaltningsloven, følger av om vedtaket, eller et mulig vedtak, retter seg mot vedkommende eller har vesentlige virkninger for vedkommende. Se nærmere omtale av hvem som er part i en sak, i kapittel 36.4.8. Forvaltningsorganer bør heller ikke unnlate å opplyse saken for å unngå innsyn som kan oppleves problematisk. Forvaltningsorganene må heller, som nevnt, gjøre seg godt kjent med hvilke regler som gjelder, og om nødvendig benytte de unntakene som forvaltningslovens regler åpner for.
+
+Innsyn i opplysninger om en selv etter personopplysningsloven
+
+Etter innføringen av nytt kapittel 9 A i opplæringsloven er det også stilt spørsmål om hvordan reglene om innsyn etter personopplysningsloven skal forstås og anvendes i slike saker. Det har særlig vært reist spørsmål om den som pekes ut som krenker, har rett til innsyn i opplysningene om seg selv.
+
+Det følger av artikkel 15 i EUs personvernforordning (GDPR) at enkeltpersoner som lagrede opplysninger kan knyttes til (den registrerte), har rett til informasjon og innsyn. Hovedregelen er at den registrerte skal ha rett til å få den behandlingsansvarliges bekreftelse på om personopplysninger om vedkommende behandles, og innsyn i personopplysningene. Videre skal den registrerte få nærmere fastsatt informasjon om opplysningene, som for eksempel formålet med behandlingen, hvor opplysningene stammer fra, med videre.
+
+I personopplysningsloven § 16 er det fastsatt flere unntak fra retten til informasjon og innsyn etter artikkel 15. For eksempel har den registrerte ikke rett til informasjon om eller innsyn i opplysninger som det må anses utilrådelig at den registrerte får kjennskap til av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær. Slike opplysninger kan på anmodning likevel gjøres kjent for en representant for den registrerte når ikke særlige grunner taler mot det. Det er også unntak fra retten til innsyn og informasjon for opplysninger som er underlagt taushetsplikt, eller dersom det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om opplysningene.
+
+I likhet med det som er omtalt for partsinnsyn, er det viktig at kommunene har tilstrekkelig kompetanse om reglene og bistår skolene i vanskelige spørsmål. Videre må fylkesmennene ha god kunnskap om reglene. I personvernforordningen artikkel 40 er det lagt opp til at sammenslutninger og organer som representerer behandlingsansvarlige eller databehandlere, kan utarbeide atferdsnormer som skal bidra til riktig anvendelse av forordningen. Det er Datatilsynet som kan godkjenne slike normer. For å lette behandlingen for skolene kan en sammenslutning av kommuner for eksempel utarbeide atferdsnormer for anvendelse av reglene om registrertes rett til innsyn og informasjon i skolemiljøsaker.
+
+Personopplysningsloven og atferdsnormer er nærmere omtalt i kapittel 7.6 og kapittel 32.5.2.

@@ -1,884 +1,272 @@
-# NOU 2019: 23, del 35 av 71 (side 398–407)
+# NOU 2019: 23, del 35 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 398]
-
-396
-
-NOU 2019: 23
-
-Kapittel 32
-
-Ny opplæringslov
-
-ringssektoren kan kunstig intelligens brukes til å
-tilpasse undervisningen til hver enkelt elev. Jo
-mer data systemet får om eleven, og jo mer eleven
-utvikler seg, jo smartere blir systemet. Dermed
-kan man se hvilke preferanser hver enkelt elev
-har, og hvilke læringsformer som egner seg for
-eleven.
-I dag bruker elever og lærere digitale læringsressurser, datamaskiner, nettbrett, mobiltelefoner,
-læringsplattformer og digitale samarbeidsverktøy
-i opplæringen, og læringsaktiviteten genererer
-store mengder data. Datasporene kan analyseres
-og brukes på mange måter og på ulike nivåer i
-utdanningssektoren. Bruken av elektroniske og
-nettbaserte tjenester i skolene vil med stor sannsynlighet øke i årene som kommer, og noen av
-disse tjenestene vil i økende grad tilby læringsanalyse som kartlegger og sammenstiller informasjon om elevenes aktivitet på detaljnivå. Økt bruk
-av digitale læremidler i undervisningen som
-inkluderer behandling av personopplysninger, reiser blant annet spørsmål som gjelder elevenes
-personvern.
-
-32.5.2 Dagens regler
-Grunnloven § 102 og den europeiske menneskerettskonvensjonen (EMK) artikkel 8
-Grunnloven § 102 og den europeiske menneskerettskonvensjon artikkel 8 regulerer retten til privatliv.
-Grunnloven § 102 lyder (bokmål):
-Enhver har rett til respekt for sitt privatliv
-og familieliv, sitt hjem og sin kommunikasjon.
-Husransakelse må ikke finne sted, unntatt i kriminelle tilfeller.
-Statens myndigheter skal sikre et vern om
-den personlige integritet.
-Grunnloven § 102 lyder (nynorsk):
-Alle har rett til respekt for privatlivet og
-familielivet sitt, for heimen sin og kommunikasjonen sin. Det må ikkje utførast husransakingar, så nær som i kriminelle tilfelle.
-Dei statlege styresmaktene skal sikre eit
-vern om den personlege integriteten.
-Bestemmelsen kom inn i Grunnloven som ledd i
-grunnlovsreformen i 2014. Komiteen ga i Innst.
-186 S (2013–2014), uttrykk for at bestemmelsen
-«skal leses som at systematisk innhenting, oppbevaring og bruk av opplysninger om andres person-
-
-lige forhold bare kan finne sted i henhold til lov,
-benyttes i henhold til lov eller informert samtykke
-og slettes når formålet ikke lenger er til stede».51
-Grunnloven § 102 gir ikke anvisning på om
-adgangen til eller vilkår for å gjøre inngrep i retten
-til privatliv. Høyesterett har imidlertid lagt til
-grunn at det kan gjøres inngrep i retten etter
-Grunnloven § 102 dersom tiltaket har en tilstrekkelig hjemmel, forfølger et legitimt formål og er
-forholdsmessig, jf. Rt. 2014 side 1105 avsnitt 28 og
-Rt. 2015 side 93 avsnitt 60. Ved siden av Grunnloven § 102 må også legalitetsprinsippet, jf. Grunnloven § 113, tas i betraktning. Det følger av Grunnloven § 113 at «[m]yndighetenes inngrep overfor
-den enkelte må ha grunnlag i lov».
-Grunnloven § 102 har klare likhetstrekk med
-EMK artikkel 8 og må tolkes i lys av denne, jf. Rt.
-2015 side 93 avsnitt 57. I Prop. 56 L (2017–2018)
-kapittel 6.4 er det lagt til grunn at det ikke er holdepunkter for at Grunnloven § 102 stiller strengere krav til rettsgrunnlaget for behandling av
-personopplysninger enn EMK artikkel 8.
-EMK artikkel 8 lyder (i norsk oversettelse):
-1. Enhver har rett til respekt for sitt privatliv
-og familieliv, sitt hjem og sin korrespondanse.
-2. Det skal ikke skje noe inngrep av offentlig
-myndighet i utøvelsen av denne rettighet
-unntatt når dette er i samsvar med loven og
-er nødvendig i et demokratisk samfunn av
-hensyn til den nasjonale sikkerhet, offentlige trygghet eller landets økonomiske velferd, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, eller for
-å beskytte andres rettigheter og friheter.
-Personopplysningsloven
-Innledning
-Regler om behandling av personopplysninger er
-fastsatt i personopplysningsloven. Personopplysningsloven gjennomfører EUs forordning om personvern (også omtalt som PVF og GDPR)52, og
-forordningen er tatt inn i personopplysningsloven
-i sin helhet. I loven er det gjort enkelte nasjonale
-tilpasninger, som forordningen åpner for. De
-nasjonale reglene er tatt inn i kapittel 1 til 9. I henvisningen til reglene om personvern er det nedenfor derfor vist både til paragrafer i loven og til
-artikler i forordningen.
-
-51
-52
-
-Punkt 2.1.9, s. 27.
-EØS-avtalen vedlegg XI nr. 5e.
-
-[Side 399]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Hva og hvem personopplysningsloven gjelder for
-Personopplysningsloven gjelder ved helt eller delvis automatisert behandling av personopplysninger og ved ikke-automatisert behandling av personopplysninger som inngår i eller skal inngå i et
-register. Loven gjelder ikke ved behandling av
-personopplysninger som utføres av en fysisk person som ledd i rent personlige eller familiemessige aktiviteter. Dette følger av personopplysningsloven § 2 og personvernforordningen artikkel 2.
-Personopplysninger er enhver opplysning om
-en identifisert person eller en person som direkte
-eller indirekte kan identifiseres. Behandling er
-enhver operasjon eller rekke av operasjoner som
-gjøres med personopplysninger, for eksempel innsamling, registrering, lagring, bruk og utlevering.
-Register er enhver strukturert samling av personopplysninger som er tilgjengelig etter særlige kriterier, enten samlingen er plassert sentralt, er
-desentralisert eller er spredt på et funksjonelt
-eller geografisk grunnlag. Definisjonene følger av
-personvernforordningen artikkel 4 nr. 1, 2 og 6. I
-artikkel 4 er det flere eksempler enn dem som er
-tatt med her.
-Personvernforordningen skiller mellom «behandlingsansvarlig» og «databehandler». Det er den
-behandlingsansvarlige som har det overordnede
-ansvaret for å behandle personopplysninger i tråd
-med regelverket, men databehandleren har også
-selvstendige plikter etter personvernforordningen. Behandlingsansvarlig er en fysisk eller juridisk person, en offentlig myndighet, en institusjon
-eller ethvert annet organ som alene eller sammen
-med andre bestemmer formålet med behandlingen av personopplysninger og hvilke midler som
-skal benyttes. En databehandler er en fysisk eller
-juridisk person, offentlig myndighet, institusjon
-eller ethvert annet organ som behandler personopplysninger på vegne av den behandlingsansvarlige. Definisjonene følger av artikkel 4 nr. 7 og 8.
-Personvernprinsippene
-Personvernforordningen inneholder både rettigheter og plikter knyttet til behandling av personopplysninger. Reglene bygger på noen grunnleggende prinsipper for behandling av personopplysninger, som er beskrevet i personvernforordningen artikkel 5 nr. 1 og 2. Alle som behandler personopplysninger, må opptre i samsvar med disse
-prinsippene. Prinsippene gir på ulike måter
-uttrykk for at behandlingen av personopplysnin-
-
-397
-
-Kapittel 32
-
-ger skal skje på en måte som i størst mulig grad
-sikrer forutsigbarhet og forholdsmessighet for
-enkeltmennesket. Nedenfor (bokstav a til og med
-g) er en kort gjennomgang av de grunnleggende
-prinsippene for behandling av personopplysninger.
-a. Behandling av personopplysninger må være lovlig, må skje rettferdig og skal være åpen (lovlighet, rettferdighet og åpenhet).
-At behandlingen av personopplysninger må
-være lovlig, innebærer først og fremst at det
-må finnes et rettslig grunnlag for en planlagt
-behandling av personopplysninger. Personvernforordningen artikkel 6 inneholder en liste
-over rettslige grunnlag, og minst ett av disse
-må være oppfylt for at behandlingen skal være
-lovlig. At behandlingen av personopplysninger
-må skje rettferdig betyr at den skal gjøres med
-respekt for de registrertes interesser og rimelige forventninger. Behandlingen skal være forståelig for de registrerte og ikke foregå på
-skjulte eller manipulerende måter. Plikten til å
-behandle personopplysninger på en åpen måte,
-innebærer at virksomheten må gi kort og forståelig informasjon om hvordan de behandler
-personopplysningene.
-b. Personopplysninger skal kun behandles for spesifikke, uttrykkelige, angitte og legitime formål
-(formålsbegrensning).
-Det betyr at ethvert formål med behandling
-av personopplysninger skal identifiseres og beskrives presist. Alle formål skal være forklart
-på en måte som gjør at alle berørte har samme
-forståelse av hva personopplysningene skal
-brukes til. At formålet skal være legitimt, innebærer at det i tillegg til å ha et rettslig grunnlag
-også skal være i samsvar med øvrige etiske og
-rettslige samfunnsnormer. Personopplysninger kan ikke gjenbrukes til formål som er
-uforenlig med det opprinnelige formålet.
-c. Mengden innsamlede personopplysninger skal
-begrenses til det som er nødvendig for å realisere
-formålet med innsamlingen (dataminimering).
-d. Personopplysninger som behandles, skal være
-korrekte. Opplysningene skal også oppdateres
-hvis det er nødvendig (riktighet).
-e. Personopplysninger skal lagres slik at de slettes
-eller anonymiseres når de ikke lenger er nødvendige for formålet de ble innhentet for (lagringsbegrensning).
-f. Personopplysninger skal behandles slik at opplysningenes integritet og konfidensialitet beskyttes
-(integritet og konfidensialitet).
-Dette betyr at den behandlingsansvarlige
-må sørge for å iverksette tiltak mot utilsiktet og
-
-[Side 400]
-
-398
-
-Kapittel 32
-
-NOU 2019: 23
-Ny opplæringslov
-
-ulovlig ødeleggelse, tap og endringer av personopplysninger.
-g. Den behandlingsansvarlige har ansvar for å
-opptre i samsvar med reglene for behandling av
-personopplysninger (ansvar).
-Det er ikke nok å bare ha ansvar – den behandlingsansvarlige må vise at vedkommende
-tar ansvar. Det betyr at den behandlingsansvarlige må kunne dokumentere at den har gjennomført tiltak for å etterleve personvernforordningen.
-Rettsgrunnlag for å kunne behandle personopplysninger
-Kravet i personvernforordningen artikkel 5 nr. 1
-a) om at behandlingen skal være lovlig, innebærer
-først og fremst at behandlingen av personopplysninger må ha et rettslig grunnlag for å være lov
-(behandlingsgrunnlag). De lovlige behandlingsgrunnlagene er listet opp i forordningen artikkel 6
-nr. 1. Noe forenklet er det følgende alternative
-behandlingsgrunnlag:
-a. samtykke
-b. nødvendig for å oppfylle en avtale
-c. nødvendig for å oppfylle en rettslig plikt
-d. nødvendig for å beskytte vitale interesser
-e. nødvendig for å utføre en oppgave i allmennhetens interesse eller utøve offentlig myndighet
-f. nødvendig for å ivareta legitime interesser –
-interesseavveining
-
-nr. 3 at den rettslige forpliktelsen må være fastsatt
-i unionsretten eller i nasjonal rett.
-Den rettslige forpliktelsen må være klart formulert. Det må være klart at det er en plikt, altså
-at det ikke foreligger valgfrihet. Dessuten må det
-være fastsatt hva som er formålet med behandlingen. Det er ikke nødvendig at rettsgrunnlaget
-uttrykkelig regulerer behandling av personopplysninger. Det er lagt til grunn i forarbeidene til
-personopplysningsloven at det er tilstrekkelig at
-rettsgrunnlaget pålegger den behandlingsansvarlige en rettslig forpliktelse som det er nødvendig å
-behandle personopplysninger for å oppfylle.54
-Behandling av personopplysninger er bare lovlig etter personvernforordningen artikkel 6 nr. 1
-bokstav c i den grad behandlingen er «nødvendig»
-for å oppfylle en rettslig forpliktelse som påhviler
-den behandlingsansvarlige. Hva som ligger i
-betegnelsen «nødvendig», framgår ikke direkte av
-forordningens bestemmelser eller fortale. Hva
-som ligger i kravet til nødvendighet, er i liten
-utstrekning omtalt i forarbeidene til personopplysningsloven. Derimot omtales kravet i Prop. 59 L
-(2017–2018) om endringer i utlendingsloven i tilknytning til artikkel 6 nr. 1 bokstav e om utøvelse
-av offentlig myndighet. Etter utvalgets vurdering
-er omtalen relevant også for nødvendighetsvurderingen etter artikkel 6 nr. 1 bokstav c. I lovproposisjonen står følgende:
-Hva som ligger i begrepet «nødvendig» fremgår ikke direkte av forordningens bestemmelser eller fortale, men etter en naturlig språklig
-forståelse avskjærer den vilkårlig behandling
-som ikke har relevans for saken. Etter departementets syn innebærer kravet blant annet at
-det ikke skal innhentes eller på annen måte
-behandles flere opplysninger enn det som
-trengs for formålene. Opplysningene skal ha
-saklig sammenheng med formålet eller formålene som søkes oppnådd ved behandlingen.
-Det er ikke tilstrekkelig at opplysningene kan
-være nyttige. Opplysningene må enten alene,
-eller sett i sammenheng med andre opplysninger, ha betydning i arbeidet eller for å utøve
-myndighet.
-Nødvendighetskriteriet må imidlertid ikke
-forstås så snevert som at det er et vilkår at opplysningene faktisk får betydning i den konkrete
-saken, eller er avgjørende for myndighetsutøvelsen. I mange tilfeller vil det være vanskelig å
-ta stilling til om en opplysning er nødvendig før
-den er vurdert. Ofte vil også enkeltopplysnin-
-
-Det mest relevante rettslige grunnlaget for å
-kunne behandle elevers personopplysninger, er
-bokstav c og e i personvernforordningen artikkel
-6. Begge disse behandlingsgrunnlagene krever
-igjen et rettslig grunnlag i unionsretten eller i
-nasjonal rett, jf. artikkel 6 nr. 3. Dette rettslige
-grunnlaget omtales i forarbeidene til personopplysingsloven som «supplerende rettsgrunnlag».53
-Når opplæringsloven med forskrifter pålegger
-kommuner oppgaver som gjør det nødvendig å
-behandle personopplysninger, kan både bokstav c
-om oppfyllelse av rettslig plikt og bokstav e om
-utøvelse av offentlig myndighet være aktuelle
-behandlingsgrunnlag.
-Ifølge personvernforordningen artikkel 6 nr. 1
-bokstav c er behandlingen av personopplysninger
-lovlig i den grad «behandlingen er nødvendig for å
-oppfylle en rettslig forpliktelse som påhviler den
-behandlingsansvarlige». Det følger av artikkel 6
-53
-
-Prop. 56 LS (2017–2018), kap. 6.3.2.
-
-54
-
-Prop. 56 LS (2017–2018), kap. 6.3.2.
-
-[Side 401]
-
-NOU 2019: 23
-Ny opplæringslov
-
-ger som i seg selv ikke har relevans, etter en
-helhetsvurdering kunne få betydning.
-Nødvendighetskravet får ikke bare betydning i vurderingen av hvilke opplysninger som
-kan innhentes eller på annen måte behandles,
-men også i vurderingen av hvilken behandlingsaktivitet utlendingsmyndighetene kan
-foreta seg. Eksempelvis kan innhenting av en
-opplysning være nødvendig for et gitt formål,
-men ikke utlevering.55
-Det følger av personvernforordningen artikkel 6
-nr. 2 og 3 at det er adgang for medlemsstatene til å
-gi utfyllende nasjonale regler om behandling på
-grunnlag av en rettslig forpliktelse etter nasjonal
-rett. Justis- og beredskapsdepartementet forstår
-forordningen slik at den åpner for at det i tilknytning til rettslige forpliktelser som gir grunnlag for
-behandling av personopplysninger, kan gis eller
-opprettholdes nasjonale særregler som regulerer
-behandlingen. Justis- og beredskapsdepartementet har lagt til grunn at det i alle fall er adgang til å
-gi regler som presiserer når opplysninger kan
-behandles, hvilke opplysninger som kan behandles, og hvordan opplysningene kan behandles.
-Justis- og beredskapsdepartementet har videre
-lagt til grunn at det som utgangspunkt synes å
-være adgang til å gi regler som presiserer de
-skjønnsmessige generelle prinsippene i artikkel 5
-nr. 1, noe som særlig er aktuelt for prinsippet om
-formålsbegrensning, dataminimering, riktighet,
-lagringsbegrensning og integritet og konfidensialitet. Artikkel 6 nr. 2 og 3 anses derimot ikke å
-åpne for nasjonale regler som fastsetter lempeligere krav til behandlingen enn det som ville fulgt
-av en tolkning av forordningens generelle regler.
-Slike regler må ha grunnlag i bestemmelser som
-åpner for unntak i nasjonal rett, for eksempel
-artikkel 23 og 89 nr. 2 og 3 om den registrertes
-rettigheter.56
-Behandling av personopplysninger for andre formål
-enn det de var innhentet for
-Prinsippet om formålsbegrensning i personvernforordningen artikkel 5 nr. 1 bokstav b fastsetter
-at personopplysninger skal «samles inn for spesifikke, uttrykkelig angitte og berettigede formål og
-ikke viderebehandles på en måte som er uforenlig
-med disse formålene». Forordningen artikkel 6
-nr. 4 inneholder nærmere bestemmelser om
-behandling av personopplysninger for andre for55
-56
-
-Prop. 59 L (2017–2018) kap. 1.4.3.2.
-Prop. 56 LS (2017–2018) kap. 6.5.
-
-399
-
-Kapittel 32
-
-mål enn det de var innhentet for. Det følger av
-denne bestemmelsen at viderebehandling for nye,
-forenlige formål er tillatt uten et eget rettsgrunnlag for viderebehandlingen. Artikkel 6 nr. 4 inneholder en ikke-uttømmende liste av momenter
-som den behandlingsansvarlige skal ta i betraktning i vurderingen av forenlighet.
-Dersom det nye formålet ikke er forenlig med
-innsamlingsformålet, må viderebehandlingen ha
-grunnlag i lov eller samtykke. At viderebehandlingen må ha grunnlag i lov eller samtykke, innebærer at lovgrunnlaget eller samtykket må være
-knyttet til selve viderebehandlingen for uforenlige
-formål.
-Særlige kategorier av personopplysninger
-Utgangspunktet i forordningen artikkel 9 er at det
-er forbudt å behandle særlige kategorier av personopplysninger. Opplysningskategoriene dette
-gjelder, er personopplysninger om rasemessig
-eller etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning eller fagforeningsmedlemskap, samt behandling av genetiske opplysninger og biometriske opplysninger med det
-formål å entydig identifisere en fysisk person,
-helseopplysninger eller opplysninger om en fysisk
-persons seksuelle forhold eller seksuelle orientering. Disse opplysningskategoriene omtales ofte
-som sensitive personopplysninger.
-Det finnes imidlertid unntak fra forbudet mot å
-behandle særskilte kategorier av personopplysninger. Forordningens system er at det må foreligge et særskilt grunnlag i tillegg til behandlingsgrunnlaget for å behandle denne typen opplysninger. I forordningen artikkel 9 nr. 2 er det en liste
-over alternative særskilte grunnlag. Ett av de særskilte grunnlagene er at «behandlingen er nødvendig av hensyn til viktige allmenne interesser,
-på grunnlag av unionsretten eller medlemsstatenes nasjonale rett som skal stå i et rimelig forhold
-til det mål som søkes oppnådd, være forenlig med
-det grunnleggende innholdet i retten til vern av
-personopplysninger og sikre egnede og særlige
-tiltak for å verne den registrertes grunnleggende
-rettigheter og interesser», jf. artikkel 9 nr. 2 bokstav g.
-I tillegg til at behandlingen av særlige kategorier av opplysninger må ha hjemmel i lov, stiller
-artikkel 9 nr. 2 bokstav g også krav om at det i unionsretten eller i nasjonal rett sikres egnede og
-særlige tiltak for å verne den registrertes rettigheter og interesser. Justis- og beredskapsdepartementet legger til grunn at én mulig form for tiltak
-er spesifiserende regler om behandlingen, for
-
-[Side 402]
-
-400
-
-Kapittel 32
-
-NOU 2019: 23
-Ny opplæringslov
-
-eksempel om hvilke personopplysninger som kan
-samles inn for et gitt formål, hvor opplysningene
-skal hentes fra, hvordan de skal lagres, nøyaktig
-hvor lenge de kan lagres, og hvem personopplysningene kan utleveres til. En annen måte er å fastsette mer generelle regler, som for eksempel krav
-om at personopplysninger skal pseudonymiseres
-så langt formålet med behandlingen kan nås på
-den måten.57
-Bestemmelser som åpner for behandling av
-særlige kategorier av personopplysninger, kan
-fastsettes både i særlovgivning og i den generelle
-personopplysningslovgivningen. Det følger av personopplysningsloven § 7 at Datatilsynet i særlige
-tilfeller kan gi tillatelse til å behandle særlige kategorier av personopplysninger dersom behandlingen er nødvendig av hensyn til viktige allmenne
-interesser.
-Behandling av barns personopplysninger
-Utgangspunktet i personvernforordningen er at
-barn og voksne har samme rettigheter i forbindelse med behandling av personopplysninger.
-Forordningen inneholder enkelte spredte artikler
-og fortalepunkter om behandling av barns personopplysninger, men gir ingen samlet enhetlig regulering av temaet. For eksempel er det i artikkel 6
-nr. 1 bokstav f fastsatt at det skal tas særlig hensyn
-til om den registrerte er et barn, ved fastleggelsen
-av om vilkårene i dette behandlingsgrunnlaget er
-oppfylt.
-Forordningen inneholder ingen definisjon av
-hvem som skal regnes som barn i forordningens
-forstand. Justis- og beredskapsdepartementet
-antar at en person ikke lenger er et barn i forordningens forstand når vedkommende har fylt 18
-år.58
-Profilering
-Forordningen artikkel 22 har regler om automatiserte individuelle avgjørelser, herunder profilering. Det følger av fortalen at «profilering» består
-av enhver form for automatisert behandling av
-personopplysninger der målet er å vurdere personlige aspekter ved en fysisk person, særlig for å
-analysere eller forutsi aspekter knyttet til den
-registrertes arbeidsprestasjoner, økonomiske
-situasjon, helse, personlige preferanser eller
-interesser, pålitelighet eller atferd, plassering eller
-bevegelser, når dette har rettsvirkning for eller på
-57
-58
-
-Prop. 56 LS (2017–2018), kap. 7.1.3.
-Prop. 56 LS (2017–2018), kapittel 13.2.1.
-
-lignende måte i betydelig grad påvirker vedkommende.
-Det følger av artikkel 22 nr. 1 at «den registrerte skal ha rett til ikke å være gjenstand for en
-avgjørelse som utelukkende er basert på automatisert behandling, herunder profilering, som har
-rettsvirkning for eller på tilsvarende måte i betydelig grad påvirker vedkommende». I artikkel 22
-nr. 2 er det fastsatt at nr. 1 ikke får anvendelse i
-visse tilfeller. Blant annet åpner artikkel 22 nr. 2
-for automatiserte individuelle avgjørelser dersom
-avgjørelsen er tillatt i nasjonal rett og det også er
-fastsatt egnede tiltak for å verne den registrertes
-rettigheter, friheter og berettigede interesser.
-Innebygd personvern
-Innebygd personvern er et sentralt krav i personvernforordningen og betyr at det tas hensyn til
-personvern i alle utviklingsfaser av et system eller
-en løsning. Plikten til å sørge for innebygd personvern følger av personvernforordningen artikkel
-25 nr. 1. Det følger av denne bestemmelsen at den
-behandlingsansvarlige skal gjennomføre egnede
-tekniske og organisatoriske tiltak «både på tidspunktet for fastsettelse av midlene som skal brukes i forbindelse med behandlingen, og på tidspunktet for selve behandlingen». Kravet om tiltak
-allerede fra tidspunktet for fastsettelse av midlene
-som skal benyttes, innebærer at det ved utvikling
-av løsninger for behandling av personopplysninger må bygges inn personverntiltak fra begynnelsen av. Pseudonymisering og dataminimering er
-nevnt som eksempler på tiltak.
-Personvern som standardinnstilling innebærer at den behandlingsansvarlige skal gjennomføre egnede tekniske og organisatoriske tiltak for å sikre at det «som standard» bare behandles personopplysninger som er nødvendige for
-hvert spesifikke formål. Forpliktelsen gjelder
-mengden personopplysninger, omfanget av
-behandlingen, lagringstiden og tilgjengeligheten
-av personopplysningene. Det er særlig nevnt i
-artikkel 25 nr. 2 at tiltakene skal sikre at personopplysninger som standard ikke gjøres tilgjengelige for et ubegrenset antall personer uten den
-registrertes medvirkning.
-Atferdsnormer
-Personvernforordningen kapittel IV avsnitt 5 inneholder regler for atferdsnormer (tidligere kalt
-bransjenormer). Med atferdsnorm menes et
-regelsett som er utarbeidet spesifikt for en bransje, og som skal gi konkrete regler og retningslin-
-
-[Side 403]
-
-NOU 2019: 23
-Ny opplæringslov
-
-jer for hvordan virksomhetene skal innrette seg
-for å etterleve kravene i personvernforordningen.
-Artikkel 40 i personvernforordningen oppfordrer til at «det utarbeides atferdsnormer». Ifølge
-artikkelen skal normene bidra til riktig bruk av
-forordningen i de forskjellige behandlingssektorene. Atferdsnormer kan være et aktuelt verktøy
-for å bidra til at reglene i personopplysningsloven
-blir etterlevd. I artikkel 40 nr. 2 bokstav a til k er
-det listet opp en rekke eksempler på hva slike normer kan dreie seg om. Normene kan være svært
-omfattende, eller de kan regulere en smal behandlingsform eller bruk av en spesiell type teknologi.
-Atferdsnormene kan for eksempel gjelde hvordan
-man innhenter samtykke fra barn og foreldre,
-eller kjøp og bruk av en type digitale verktøy for
-behandling av personopplysninger.
-Personvernforordningen legger opp til en godkjenningsordning av atferdsnormer. Datatilsynet
-er godkjenningsmyndighet i Norge.
-I juni 2019 vedtok EDPB (European Data Protection Board) retningslinjer for atferdsnormer, og
-Datatilsynet har utarbeidet en veileder for hvordan
-man kan gå fram for å lage en atferdsnorm.59
-Atferdsnormene skal etter personvernforordningen artikkel 40 nr. 4 inneholde mekanismer
-som gjør det mulig for et kontrollorgan å utføre
-obligatorisk tilsyn med at atferdsnormene overholdes av behandlingsansvarlige og databehandlere
-som har sluttet seg til dem. I Norge er det Datatilsynet som kan akkreditere slike kontrollorganer.
-Organets kontrollvirksomhet vil være begrenset til
-dem som frivillig har sluttet seg til normene og ordningen. Forordningen pålegger ingen behandlingsansvarlige eller databehandlere noen plikt til å
-slutte seg til atferdsnormer eller kontrollordninger.
-Datatilsynets kompetanse til å vedta pålegg
-eller sanksjoner er bare knyttet til overtredelser
-av forordningens regler, jf. artikkel 58 nr. 2 og 83
-nr. 1 og nr. 4 til 6. Datatilsynet kan ikke vedta
-pålegg eller sanksjoner direkte for brudd på
-atferdsnormer. I flere bestemmelser er det imidlertid fastsatt at overholdelse av godkjente
-atferdsnormer kan brukes som en faktor for å
-påvise at forpliktelsene etter forordningen overholdes, se for eksempel artikkel 24 nr. 3 om den
-behandlingsansvarliges plikter, artikkel 28 nr. 5 jf.
-1 og 4 om krav til databehandlere og artikkel 32
-nr. 3 jf. 1 om sikkerhet ved behandlingen. Videre
-følger det av artikkel 83 nr. 2 bokstav j at det skal
-tas hensyn til overholdelse av godkjente
-atferdsnormer ved avgjørelsen av om det skal ilegges overtredelsesgebyr, og gebyrets størrelse.
-
-Opplæringsloven og forskrifter til opplæringsloven
-Opplæringsloven og forskrifter til opplæringsloven inneholder flere rettslige forpliktelser som
-gjør det nødvendig å behandle personopplysninger. Innholdet i de rettslige forpliktelsene i opplæringsloven har dermed betydning for om kravet til
-behandlingsgrunnlag i personvernforordningen
-artikkel 5 bokstav c er oppfylt. Det er i all hovedsak kommunen som er ansvarlig for oppfyllelsen
-av de rettslige forpliktelsene i opplæringsloven
-med forskrifter, og som i de fleste tilfeller vil være
-behandlingsansvarlige.
-Når det gjelder digital læringsanalyse, er
-reglene i dagens opplæringslov om tilpasset opplæring og spesialundervisning særlig relevante,
-se nærmere om disse reglene og utvalgets forslag
-til regler om universell opplæring og individuelt
-tilrettelagt opplæring i kapittel 31. Reglene om
-individuell vurdering i forskrift til opplæringsloven kapittel 3 er også relevante.
-
-32.5.3 Kunnskapsgrunnlaget
-Tildelingsbrevet til Utdanningsdirektoratet 2019
-I tildelingsbrevet for 2019 fra Kunnskapsdepartementet til Utdanningsdirektoratet skal et av
-målene for Utdanningsdirektoratet være at kommunene utnytter de mulighetene digitaliseringen
-gir i læringsarbeidet og administrative prosesser.
-Utdanningsdirektoratet har fått i oppdrag å, i samarbeid med Kunnskapsdepartementet, videreutvikle kunnskapsgrunnlaget om digitalisering i opplæringen, slik at aktørene i utdanningssektoren
-kan ta informerte valg om pedagogisk bruk av
-teknologi og om hvordan teknologi kan bidra til
-effektivisering og høyere kvalitet på opplæringen.60
-Etiske retningslinjer for kunstig intelligens
-I april 2018 undertegnet 25 land, deriblant Norge
-som eneste ikke-EU-land, en samarbeidserklæring om en europeisk tilnærming til kunstig intelligens. I april i 2019 lanserte Europakommisjonen
-etiske retningslinjer for kunstig intelligens, og retningslinjene er nå i en fase hvor de testes ut. Retningslinjene inneholder blant annet sju bud for
-trygg kunstig intelligens.61 Regjeringen vil utarbeide en strategi for kunstig intelligens som skal
-være ferdig i løpet av 2019. Strategien skal blant
-60
-
-59
-
-Datatilsynet (u.å), Korleis lage atferdsnorm.
-
-401
-
-Kapittel 32
-
-61
-
-Kunnskapsdepartementet, 2019a, pkt. 2, mål 5.
-European Commision, 2019.
-
-[Side 404]
-
-402
-
-Kapittel 32
-
-NOU 2019: 23
-Ny opplæringslov
-
-annet handle om etiske retningslinjer, temaer
-knyttet til personvern og IKT-sikkerhet.62
-Kartlegging av digitale læremidler og læringsplattformer i utdanningssektoren
-På oppdrag fra Direktoratet for forvaltning og ikt
-(Difi) kartla Rambøll i 2017 bruk av digitale læremidler og læringsplattformer i utdanningssektoren.63
-Kartleggingen viser at skolene benytter et
-betydelig antall digitale læremidler. Kartleggingen viser videre at gratis tilgjengelige læremidler
-slik som Kahoot! og NRK skole dominerer i
-grunnskolen. Det er henholdsvis 74 og 68 prosent
-av skolene som oppgir å bruke disse læringsmidlene. I videregående opplæring er det GeoGebra
-og NDLA som blir brukt mest. Det er 90 prosent
-av skolene som oppgir at de bruker disse læringsmidlene.
-Leverandørene av digitale læremidler er en
-sammensetning av større forlag, mindre og mellomstore læringsteknologiselskaper og offentlige
-virksomheter. I tillegg er det enkelte større internasjonale teknologiselskaper, som Microsoft,
-Google, Apple og Adobe, som er viktige leverandører av digitale læremidler til utdanningssektoren. Forlagene og teknologiselskapene har flere
-produkter de tilbyr til skolene, mens læringsteknologiselskapene i større grad har spesialiserte
-produkter.
-De fleste skolene oppgir også at de bruker
-digitale læringsplattformer. Av grunnskolene er
-det itslearning som er mest brukt, i underkant av
-50 prosent av skolene oppgir at de bruker denne
-læringsplattformen. Andre læringsplattformer
-som mange bruker, er Showbie og Fronter. Av de
-videregående skolene er det flest, i underkant av
-70 prosent, som oppgir at de bruker Office 365
-som læringsplattform.
-Kartleggingen viser at det i hovedsak er kommunen, og da gjennom skolesjefen eller IT-ansvarlig, som er ansvarlig for innkjøp av læringsplattformer i grunnskoler og i videregående skoler. Rektor og IT-ansvarlig på skolene ble også til dels
-angitt som innkjøpsansvarlige.
-
-lene nedenfor er tilfredsstillende besvart, er det
-sannsynlig at anvendelsen av læringsanalyse både
-vil være lovstridig, og at kommunene ikke greier å
-ivareta det mest sentrale personvernprinsippet: at
-den som personopplysningene gjelder, skal sikres
-kontroll med og medbestemmelse over bruken av
-egne opplysninger.64 Noen av spørsmålene som
-ble stilt, var disse:
-– Hvordan skal skoleeier sørge for at personopplysningene bare anvendes til læring og ikke til
-andre formål, for eksempel til å kontrollere
-elever eller lærere?
-– Hvor går grensen mellom opplysninger som er
-relevante for læring, og opplysninger som ikke
-er det, men som det likevel kan være interessant å registrere og analysere?
-– Hvor lenge kan kommunene og eventuelle
-eksterne system- eller tjenesteleverandører
-lagre registrerte opplysninger, og når slutter
-opplysningene å være relevante for det videre
-læringsarbeidet?
-– Hvordan skal kommunene sørge for at elevenes rett til innsyn i, retting eller sletting av egne
-opplysninger ivaretas?
-Tilsyn med personvern og informasjonssikkerhet i
-barnehage- og skolesektoren
-
-I en rapport fra 2015 konkluderer daværende Senter for IKT i utdanningen (nå fusjonert med
-Utdanningsdirektoratet) med at uten at spørsmå-
-
-I 2013 og 2014 så Datatilsynet på bruk og lagring
-av personopplysninger i skoler og barnehager.65
-Gjennom møter med aktører i skolesektoren og
-kontroller ved en rekke barnehager, grunnskoler
-og videregående skoler kartla Datatilsynet flyten
-av opplysninger om elevene i skolen. Datatilsynet
-gjennomførte tilsyn på elleve grunnskoler, på fire
-videregående skoler og i fem barnehager.
-Datatilsynet viser i samlerapporten fra denne
-undersøkelsen til at de fleste skoler bruker digitale læringsplattformer (LMS – Learning Management System), som åpner for kontinuerlig logging
-av elevens aktivitet, for eksempel når på døgnet
-eleven leverer oppgaver, hvor lang tid eleven bruker på oppgaveløsning, logg av kommunikasjon
-med lærer og andre elever, samt hvilke fag eleven
-har jobbet aktivt med i leksearbeidet. Videre viser
-Datatilsynet til at mange skoler også benytter seg
-av andre digitale og nettbaserte læringsressurser,
-som i ulik grad registrerer elevenes aktiviteter. De
-skoleadministrative systemene registrerer blant
-annet fravær og karakterer, og noen skoler bruker
-digitale verktøy til å kartlegge og registrere uønsket atferd.
-
-62
-
-64
-
-Rapport fra Senter for IKT i utdanningen
-
-63
-
-Kommunal- og moderniseringsdepartementet, 2019b.
-Rambøll, 2017.
-
-65
-
-Dahl, 2015.
-Datatilsynet, 2014.
-
-[Side 405]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Tilsynet viser at skolene som det ble ført tilsyn
-med, har likeartede utfordringer. I rapporten
-omtaler Datatilsynet noen hovedutfordringer
-knyttet til personvern i skole- og barnehagesektoren og kommer med forslag til måter å møte disse
-utfordringene på. Blant utfordringene som omtales, er uklarhet om hva personopplysninger er,
-mangelfull internkontroll, mangelfull informasjonssikkerhet, uoversiktlig informasjonsflyt og
-uklare ansvarsforhold.
-Ett av funnene i tilsynene er at det er leverandørene av digitale systemer som setter standarden for personvern. I rapporten viser Datatilsynet
-til at det er stor variasjon i økonomi, kunnskap og
-tilgjengelige ressurser hos barnehage- og skoleeiere, og at dette påvirker kapasiteten til å ivareta
-personvernet på systemnivå. Erfaringen viser at
-store kommuner har kunnskap og kapasitet nok
-til å sette krav til produkter de kjøper, samt til å
-gjøre tilpasninger av systemer og bruk, slik at produktet oppfyller kravene til personvern og informasjonssikkerhet. Det samme gjelder kommuner
-som går sammen om å tilby IKT-tjenester til sine
-innbyggere. Mindre aktører vil i mange tilfeller
-kjøpe IKT-produkter som hyllevare og bruke det
-etter beste evne, uten nødvendigvis å ha et bevisst
-forhold til personvern. En lokal systemadministrator i en mindre kommune kan typisk være en
-engasjert lærer uten formell bakgrunn eller praksis innen IKT og sikkerhet. Ofte er det opp til barnehagen eller skolen selv å endre innstillingene i
-systemet. For eksempel kan den som har administratortilgang, bestemme om og hva foreldrene
-skal ha tilgang til i læringsplattformen til sitt barn.
-I andre tilfeller finnes det ingen eller begrensede
-muligheter for skolen eller barnehagen til selv å
-endre innstillinger tilpasset deres behov. I praksis
-betyr dette at leverandører av IKT-systemer har
-stor innflytelse på premissene for hvordan barnehagene og skolene behandler personopplysninger.
-I rapporten ga Datatilsynet flere råd for bedre
-personvern i skoler og barnehager. Det var blant
-annet råd om å lage rutiner for internkontroll og
-risikovurderinger, forhandle fram gode databehandleravtaler, stille krav til leverandører, bruke
-sterk autentisering ved behov, begrense overvåking og gi god informasjon. Rapporten inneholder
-også en sjekkliste for skole- og barnehageeiere.
-Innspill til utvalget
-Datatilsynet har gitt innspill til utvalget i form av
-et blogginnlegg.66 Datatilsynet er opptatt av at det
-er essensielt for personvernet å ha mulighet til å
-
-403
-
-Kapittel 32
-
-opprettholde og skille mellom de ulike rollene
-man har i ulike sammenhenger, som rollen som
-elev, venn, sønn eller datter mv.
-Datatilsynet understreker at personvern og
-digitalisering ikke er motpoler, og viser til at digitalisering på mange måter bedrer informasjonssikkerhet og personvern. Samtidig peker tilsynet
-på at bruk av digital læringsanalyse utfordrer personvernet. For å bruke digital læringsanalyse til å
-skreddersy opplæringen for den enkelte elev er
-det nødvendig å innhente, lagre og analysere
-store mengder detaljerte opplysninger om elevens atferd på og utenfor skolen. Opplysningene
-gjelder ikke bare resultater på prøver. Det kan
-dreie seg om alle digitale spor som eleven etterlater seg ved bruk av digitale hjelpemidler som for
-eksempel ferdige og halvferdige arbeider og produksjoner, metadata om arbeid (når, hvor, hvordan, hvor lang tid osv.), kommunikasjon med
-lærer og andre elever eller filming og lydopptak
-på skolen og hjemme.
-Datatilsynet mener det er behov for en ny opplæringslov som setter grenser for hvor langt inn i
-privatsfæren til elevene de digitale verktøyene
-skal gå. Hvis ny opplæringslov kommer på plass
-uten at det tas stilling til hvilken retning norsk
-skole skal ta på dette området, så legger utvalget, i
-ifølge Datatilsynet, beslutningen i teknologiselskapenes hender.
-Utdanningsetaten i Oslo kommune har gitt
-innspill til utvalget i møtet med sekretariatet. Oslo
-kommune gjennomfører et forsknings- og utviklingsprosjekt (FoU-prosjekt) om aktivitetsdata for
-vurdering og tilpasning (AVT-prosjektet). Prosjektet har som mandat å utvikle felles infrastruktur
-og et rammeverk for læringsanalyse. Prosjektet er
-etter anbefaling fra Datatilsynet i gang med å gjennomføre en personvernkonsekvensutredning
-(DPIA). Prosjektet opplever at det er ønskelig
-med et mer eksplisitt hjemmelsgrunnlag. Videre
-mener Utdanningsetaten i Oslo kommune at det
-ved utarbeidelsen av ny opplæringslov bør gis
-noen føringer for hva som ligger i nødvendighetskriteriet i artikkel 6 nr. 1 bokstav c som sier at
-behandlingen av personopplysninger er lovlig dersom «behandlingen er nødvendig for å oppfylle en
-rettslig forpliktelse som påhviler den behandlingsansvarlige».
-Utvalget har også fått et innspill om digital teknologi i skolen fra Knappskog skole.67 Skolen er
-opptatt av at det er pedagogikken som er det viktigste og at de digitale enhetene og verktøyene
-66
-67
-
-Datatilsynet, innspill til utvalget.
-Skogestad, innspill til utvalget.
-
-[Side 406]
-
-404
-
-Kapittel 32
-
-NOU 2019: 23
-Ny opplæringslov
-
-setter rammene for hva de kan gjøre. Skolen
-synes at det er viktig å til enhver tid bruke verktøyene og metodene som er mest hensiktsmessige, og prøver derfor å bruke IKT bare der det
-gir mer læring og motivasjon. Målet for digitaliseringen på Knappskog skole er å få mer motiverte
-elever, elever som mestrer mer og som dermed
-lærer mer.
-
-32.5.4 Utvalgets vurdering
-Innledning
-Utvalget har drøftet det rettslige grunnlaget for at
-skolen skal kunne behandle personopplysninger i
-forbindelse med digital læringsanalyse, se framstillingen nedenfor. Noe av hensikten er å gi kommunene et bedre grunnlag for å vurdere om det er
-tilstrekkelig rettslig grunnlag i det enkelte tilfelle.
-Utvalget har ikke som mål å ta stilling til hvilke
-digitale læremidler som er lovlig å bruke, hvilke
-konkrete behandlingsaktiviteter som er lov eller
-hvilke konkrete personopplysninger som kan
-behandles. Atferdsnormer og muligheter og utfordringer ved bruk av digital læringsanalyse er også
-omtalt.
-Kommunens ansvar
-Når kommunen bruker digitale læremidler, er det
-den enkelte kommune som er behandlingsansvarlig, og som skal sørge for at kravene i personopplysningsloven oppfylles. Det innebærer for det første at kommunen må sørge for at det finnes et
-behandlingsgrunnlag. Dessuten må behandlingen
-være i samsvar med prinsippene for behandling av
-personopplysninger og de øvrige kravene i personopplysningsloven, inkludert personvernforordningen.
-Kommunen har plikt til å ha oversikt over
-hvilke personopplysninger som samles inn om
-elevene. For mange av de digitale verktøyene som
-brukes i skolen, vil det være tilbyderen av verktøyet som er mottaker av elevopplysningene verktøyet samler inn. Hvis tilbyderen av det digitale
-verktøyet lagrer opplysninger om elevene, skal
-det alltid etableres en databehandleravtale mellom kommunen og tilbyderen. Kommunen skal
-vite hvilke opplysninger som lagres, hvorfor de
-lagres, hvem som skal ha tilgang til opplysningene og hvor lenge de skal lagres.68 Kommunen
-må også sørge for å bruke systemer og tjenester
-som har innebygd personvern, jf. personvernfor68
-
-Teknologirådet og Datatilsynet, 2015.
-
-ordningen artikkel 25. Kravet bør inkluderes når
-kommunen inngår avtaler med leverandører.
-Behandlingsgrunnlag for å kunne bruke digital
-læringsanalyse
-Digital læringsanalyse baserer seg i stor grad på
-informasjon om enkeltpersoner som kommunene
-registrerer og elektroniske spor som elever etterlater seg ved bruk av digitale verktøy og ressurser. Spørsmålet er hvor langt kommunene kan gå i
-å behandle slike opplysninger uten at det kommer
-i konflikt med elevenes rett til personvern.
-Personopplysninger kan bare behandles dersom det er et behandlingsgrunnlag etter personvernforordningen artikkel 6 nr. 1. Et behandlingsgrunnlag kan være at behandlingen er nødvendig
-for å utøve offentlig myndighet eller oppfylle en
-rettslig forpliktelse.
-Hovedhensikten med å benytte digital læringsanalyse i opplæringen, er at læreren skal kunne
-legge opp undervisningen på den måten som passer best for sin klasse og sine elever og å skaffe
-grunnlag for å gi individuell vurdering. Dette er
-kjerneoppgaver i den opplæringen som kommuner er pålagt å gi, og som barn, unge og voksne
-har rett til etter opplæringsloven.
-Etter utvalgets vurdering er aktuelle grunnlag
-for behandling, personvernforordningen artikkel
-6 nr. 1 bokstav c om at behandlingen er nødvendig
-for å oppfylle en rettslig forpliktelse som påhviler
-den behandlingsansavarlige, eller artikkel 6 nr. 1
-bokstav e om at behandlingen er nødvendig for å
-utøve offentlig myndighet som den behandlingsansvarlige er pålagt. I begge tilfeller kreves det et
-rettslig grunnlag i form av en plikt eller en oppgave om utøvelse av offentlig myndighet (supplerende rettsgrunnlag).
-Kommunens plikt til å sørge for universell opplæring (tilpasset opplæring i dagens lov), gi forsterket innsats (intensiv opplæring i dagens lov)
-og å gi individuelt tilrettelagt opplæring (spesialundervisning i dagens lov) er eksempler på
-mulige rettslige grunnlag for behandling av personopplysninger ved bruk av digital læringsanalyse. Det samme er reglene om individuell vurdering i forskrift til opplæringsloven kapitlene 3 og
-4. Utvalget har ikke som mål å i gi en uttømmende
-oversikt over hva slags behandling som vil være
-lovlig ut fra de ulike rettslige forpliktelsene i opplæringsloven med tilhørende forskrift. Dette må
-kommunen som behandlingsansvarlig, vurdere i
-det enkelte tilfelle. I det følgende drøfter utvalget
-noen sentrale momenter i denne vurderingen med
-
-[Side 407]
-
-NOU 2019: 23
-Ny opplæringslov
-
-utgangspunkt i plikten til å gi universell opplæring, se kapittel 31.5.4.2.
-Personvernforordningen artikkel 6 nr. 1 bokstav c og e innebærer at behandlingen er lovlig så
-langt det er nødvendig for å oppfylle en rettslig
-forpliktelse eller utøve offentlig myndighet. Spørsmålet er dermed hva slags behandling av personopplysninger som er nødvendig for eksempel for å
-kunne gi universell opplæring eller individuelt tilrettelagt opplæring. Nødvendighetskravet betyr at
-det i hvert fall ikke er tillatt med vilkårlig behandling som ikke er relevant for elevens opplæring.
-Det er derimot ikke et bokstavelig nødvendighetskrav i den forstand at behandlingen må være
-absolutt påkrevd for å kunne oppfylle den rettslige
-forpliktelsen. I Prop. 59 L (2017–2018) er det lagt
-til grunn at opplysningene skal ha saklig sammenheng med formålet eller formålene som søkes
-oppnådd ved behandlingen, at det ikke er tilstrekkelig at opplysningene kan være nyttige, men at
-det heller ikke er et vilkår at opplysningene faktisk får betydning i den konkrete saken.69
-Utvalget mener det ikke kan legges til grunn
-at det må være nødvendig å bruke et digitalt verktøy, for at kravet om nødvendighet skal være oppfylt. Nødvendighetskriteriet i personvernforordningen gjelder typer behandling, altså typer opplysninger og behandlingsaktiviteter, ikke typer
-verktøy. I praksis vil alle forpliktelsene i dagens
-opplæringslov kunne oppfylles ved analoge metoder ettersom forpliktelsene ble vedtatt før digital
-teknologi ble tatt i bruk i særlig grad. Det er likevel klart at nødvendighetskravet ikke kan forstås
-som at det må være nødvendig å bruke et digitalt
-verktøy. Dette understøttes av at forordningen
-heller ikke stiller krav om et eksplisitt hjemmelsgrunnlag for behandling av personopplysninger.
-Det er altså selve behandlingen av personopplysningene som må være nødvendig. Dette innebærer for det første at de typer opplysninger som
-inngår i behandlingen, må være saklige for formålet. For det andre må behandlingsaktivitetene
-være saklige for formålet. Eksempler på behandlingsaktiviteter er innsamling, registrering og
-sammenstilling av personopplysninger.
-Formålet med behandling av personopplysninger i forbindelse med kravet om universell opplæring er å kunne gi et tilfredsstillende utbytte av
-opplæringen for flest mulig uten individuell tilrettelegging. Det innebærer at skolen må jobbe
-aktivt for å få med alle elevene i klassen og ta hensyn til behovene elevene har. Hvilke typer opplysninger som er saklige og som kan ha betydning
-69
-
-Kap. 4.1.3.2.
-
-405
-
-Kapittel 32
-
-for opplæringen, må ses i sammenheng med hva
-som ut fra en faglig-pedagogisk vurdering vil være
-saklige opplysninger i en analog læringsanalyse.
-Dersom det er opplysninger som en lærer, med
-utgangspunkt i pedagogisk kunnskap og erfaring,
-ville vektlagt i opplæringen, vil det også være opplysninger som kan inngå i en digital læringsanalyse. For eksempel vil elevens kompetanse i det
-enkelte fag eller i grunnleggende ferdigheter
-være opplysninger som det er saklig å behandle
-for å gi tilfredsstillende utbytte av opplæringen.
-Derimot vil for eksempel opplysninger om elevens
-bosted eller foreldrenes økonomi ikke være saklige for formålet med opplæringen. Hvor grensen
-går, må være en konkret vurdering. Hvilke opplysninger som er saklige, vil avhenge av hva som til
-enhver tid anses å være faglig-pedagogisk forsvarlige metoder for å kunne tilpasse opplæringen.
-For å kunne gjennomføre digital læringsanalyse må opplysningene om den enkelte elev samles inn og brukes. Et spørsmål er hvordan opplysningene skal kunne brukes. Også her må utgangspunktet være hva som ut fra en faglig-pedagogisk
-vurdering vil være saklig bruk av opplysningene
-for å nå formålet med den rettslige forpliktelsen.
-Det vil for eksempel helt klart være saklig å bruke
-opplysninger om en elevs lesehastighet til å
-kunne planlegge og gjennomføre leseopplæringen
-best mulig. Det kan også være saklig å bruke opplysninger om en elevs kompetanse i ett fag for å
-kunne tilpasse opplæringen i et annet fag, men det
-er ikke sikkert at dette vil være saklig i alle tilfeller.
-Et annet spørsmål er i hvilken grad plikten til å
-sørge for tilfredsstillende utbytte og andre aktuelle rettslige forpliktelser gjør det nødvendig å
-lagre opplysningene. Det klare utgangspunktet i
-personvernforordningen er at opplysningen bare
-kan lagres så lenge det er nødvendig. Hvor lenge
-som er nødvendig, vil avhenge av formålet med
-den rettslige forpliktelsen og hvor lenge opplysningen kan få betydning for oppfyllelsen av forpliktelsen. Det vil for eksempel være saklig å lagre
-opplysninger som har betydning for individuell
-vurdering av eleven fram til slik vurdering er gitt,
-klagefristen er utløpt og en eventuell klage er
-behandlet.
-Personvernforordningen innebærer også krav
-om forutsigbarhet for den opplysningen gjelder. I
-vurderingen av om og i hvilken grad en rettslig
-forpliktelse gir grunnlag for behandling av personopplysninger, må det dermed også vurderes
-hvilke behandlinger som vil være forutsigbare for
-elevene og deres foreldre. Spørsmålet er hvilke
-behandlingsaktiviteter det er grunn til å forvente
+## Utvalgets vurdering
+
+### Innledning
+
+Ifølge utvalgets mandat skal «utvalget ta hensyn til at opplæringsloven skal hjemle og beskytte elevers rettigheter og behov». Utvalget skal ifølge mandatet også særlig vurdere hvilke forhold som bør reguleres gjennom å gi rettigheter på individnivå med tilhørende klageordninger.
+
+Retten til spesialundervisning er en sentral rettighet i opplæringsloven, og rettigheten er ment å være et sikkerhetsnett for elever som ikke får tilfredsstillende utbytte av den tilpassede opplæringen og derfor har behov for ytterligere tilrettelegging. Undersøkelser viser at det er flere utfordringer med dagens tilbud til barn og unge med behov for slik tilrettelegging i skolen. Utfordringene er beskrevet og drøftet i en rekke rapporter, meldinger til Stortinget og NOU-er. Det er bred enighet[^813]om at
+
+- mye av spesialundervisningen blir gitt av personer som ikke oppfyller opplæringslovens krav til faglig og pedagogisk kompetanse
+
+- spesialundervisning virker sosialt stigmatiserende for mange barn
+
+- mange barn får hjelp for sent
+
+- PP-tjenesten utfører oppgaver som er knyttet til kompetanse- og organisasjonsutvikling, kun i begrenset omfang
+
+Det er grunn til å tro at disse problemene ikke nødvendigvis eller utelukkende skyldes regelverket, men hvordan regelverket implementeres og praktiseres.[^814] For at spesialundervisning skal ha god effekt, må tiltak settes i verk raskt, og tilbudet bør bygge på forskningsbasert kunnskap om hva som gir best læring for elevene.[^815]
+
+Utvalget har vurdert om lovendringer kan bidra til å løse problemene med dagens tilbud til elever med behov for individuell tilrettelegging. Utvalget har drøftet flere spørsmål, blant annet: Hvordan kan reglene endres, og hva kan man oppnå med en eventuell endring?
+
+### Rettssikkerheten må ivaretas for alle elever
+
+Kommunene har i dag full frihet til å styrke den tilpassede opplæringen slik at behovet for spesialundervisning blir minst mulig. Allikevel viser tall fra GSI at mange kommuner har et vedvarende høyt antall elever som mottar spesialundervisning. På bakgrunn av de utfordringene som er avdekket,[^816] mener utvalget at kommunen i større grad enn i dag må praktisere en inkluderende opplæring ut fra det elevmangfoldet skolene til enhver tid har. Det vil trolig alltid finnes elever som vil ha behov for tilpasninger av undervisningen, der individuell tilrettelegging er nødvendig for at disse elevene skal få et tilfredsstillende opplæringstilbud.[^817] Det vil blant annet gjelde elever med langvarige og omfattende behov for individuell tilrettelegging. Ekspertgruppen for spesialpedagogikk, etablert av Kunnskapsdepartementet i 2012, påpeker i sin rapport at enkelte elever har så sammensatte og komplekse utfordringer at de ikke kan avhjelpes innenfor rammene av tilpasset opplæring.[^818] Etter utvalgets vurdering må derfor elever som skolen, av ulike grunner, ikke greier å gi tilfredsstillende utbytte av den tilpassede opplæringen, ha rett til individuelt tilrettelagt opplæring. Utvalget foreslår derfor at dagens rett til spesialundervisning videreføres, men med omarbeidelser når det gjelder terminologi og hva retten skal inneholde.
+
+At elevene har en rett, innebærer at kommunen er rettslig forpliktet til å oppfylle retten. Kommunen kan ikke unnlate å oppfylle rettigheten med den begrunnelsen at det ikke er avsatt penger til formålet. En rett til individuelt tilrettelagt opplæring innebærer også at den enkelte har rett til å klage på opplæringstilbudet og få saken overprøvd av en klageinstans. I siste instans kan rettigheten håndheves ved domstolene. En slik rettighet innebærer dermed økt rettssikkerhet for den enkelte.
+
+### Alternative modeller for lovregulering
+
+På bakgrunn av utfordringene som Ekspertgruppen for barn og unge med behov for særskilt tilrettelegging peker på i sin rapport, se kapittel 31.4.2, og innspill utvalget har fått, blant annet i møter med ulike organisasjoner, mener utvalget at det er behov for å endre dagens regelverk. Utvalget antar at noen av problemene kan avhjelpes med regelendringer. Utvalget foreslår endringer i dagens regelverk blant annet når det gjelder hva elever som har behov for særskilt tilrettelegging, skal ha rett til, og saksbehandlingsreglene knyttet til dette.
+
+Målet med forslagene er at elevene skal
+
+- få nødvendig hjelp så tidlig som mulig
+
+- få hjelp av personale med relevant faglig og pedagogisk kompetanse
+
+- være og føle seg inkludert i et fellesskap
+
+Utvalget ønsker også
+
+- å styrke elevens individuelle medvirkning
+
+- å forenkle saksgangen
+
+- at skolen skal få mer støtte og veiledning fra PP-tjenesten
+
+Forslagene til regelendringer er utarbeidet med forutsetningen i utvalgets mandat om at forslaget til ny opplæringslov ikke skal innebære vesentlige merkostnader for staten eller kommunalforvaltningen.
+
+Utvalget har vurdert hvordan reglene om tilpasset opplæring og spesialundervisning bør innrettes, ut fra disse tre alternativene:
+
+- Dele opp dagens rett til spesialundervisning i separate rettigheter, ved å skille mellom rett til individuelt tilrettelagt opplæring på den ene siden og rett til personlig assistanse og individuell fysisk tilrettelegging på den andre siden.
+
+- Differensiere opplæringstilbudet avhengig av graden av tilrettelegging.
+
+- Endre retten til individuelt tilrettelagt opplæring (spesialundervisning) slik at den bare gjelder når det er aktuelt med avvik fra læreplanverket.
+
+De tre alternative modellene er beskrevet nedenfor. Modellene må ses i sammenheng med hvilke andre lovendringer som kan gjøres. Elementer fra de ulike modellene kan også kombineres.
+
+#### Modell 1: skille mellom individuelt tilrettelagt opplæring på den ene siden og personlig assistanse og fysisk tilrettelegging på den andre siden
+
+Mange elever vil ha behov for individuell tilrettelegging, men av ulik karakter. Noen elever har behov for individuelt tilrettelagt opplæring i ett eller flere fag eller for å nå målene i den generelle delen av læreplanverket. Andre elever har kun behov for personlig assistanse og praktisk hjelp i skolehverdagen. Det kan for eksempel være elever med nedsatt funksjonsevne som har behov for hjelp av en assistent som følger eleven gjennom skoledagen eller deler av den. Enkelte elever har kun behov for fysisk tilrettelegging på skolen, for eksempel tilpasning av arbeidsplassen, teleslynge i klasserommet eller ulike teknologiske løsninger. I noen tilfeller er det aktuelt med en kombinasjon av disse formene for tilrettelegging. Etter dagens regelverk kan et vedtak om spesialundervisning etter opplæringsloven § 5-1 omfatte både pedagogisk tilrettelegging av opplæringen, personlig assistanse i skolehverdagen og fysisk tilrettelegging.
+
+En modell for lovregulering kan være å skille mellom rett til individuelt tilrettelagt opplæring på den ene siden og rett til personlig assistanse og individuell fysisk tilrettelegging i skolen på den andre siden. Tiltak som innebærer personlig assistanse og fysisk tilrettelegging, dreier seg ikke om opplæringen i fag eller for å nå mål i den overordnede delen av læreplanverket, og det vil som regel ikke være nødvendig med en sakkyndig vurdering fra PP-tjenesten for å vurdere hvilke tiltak som skal settes i verk. Slik tilrettelegging bør derfor ikke omfattes av regler om individuelt tilrettelagt opplæring. Personlig assistanse kan dessuten gis av personer som ikke er ansatt i undervisningsstilling.
+
+Innvilgelse av søknad om personlig assistanse eller fysisk tilrettelegging kan skje uten at det er særskilte krav om sakkyndig vurdering fra PP-tjenesten. Det innebærer at det er forvaltningslovens alminnelige bestemmelser om utredningsplikt i forvaltningsloven § 17 som gjelder. Dersom kommunen trenger råd og veiledning i forbindelse med praktisk eller fysisk tilrettelegging, kan det i noen tilfeller være mer relevant å få bistand fra for eksempel en ergoterapeut, synspedagog, audiopedagog eller fysioterapeut. Med en slik løsning kan PP-tjenesten frigjøre tid fra å skrive sakkyndige vurderinger til å jobbe forebyggende ved å hjelpe skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling og gi råd til skolene. Slik kan også færre elever få behov for individuell tilrettelegging. Dersom en elev eller foreldrene søker om individuelt tilrettelagt opplæring, vil eleven ha rett til å få en sakkyndig vurdering før kommunen fatter vedtak.
+
+For å sikre at elever som har behov for personlig assistanse, skal få dette, blant annet å få nødvendig hjelp til praktiske gjøremål, bør elevene ha en rett til dette. Retten bør være uavhengig av om vilkårene for å få rett til individuelt tilrettelagt opplæring er oppfylt. Assistansen kan for eksempel være hjelp i forbindelse med av- og påkledning, måltider, deltakelse i sosiale aktiviteter i friminutter, toalettbesøk, bæring av sekk og forflytning. Slike dagligdagse aktiviteter kan kreve mye krefter for enkelte elever. Assistenten bør være en ressurs som skal avlaste eleven, slik at eleven får overskudd til å konsentrere seg om det faglige på skolen. Elever som har behov for ADL-trening, det vil si oppøving i dagliglivets gjøremål, bør imidlertid fortsatt ha en rett til dette som en del av den individuelt tilrettelagte opplæringen.
+
+Elever som ikke får tilfredsstillende utbytte av skolens opplæring, bør ha rett til pedagogiske tiltak i form av individuelt tilrettelagt opplæring for å nå kompetansemålene i ett eller flere fag eller målene i den overordnede delen av læreplanverket. Innholdet i, organiseringen og omfanget av individuelt tilrettelagt opplæring vil variere ut fra skolens opplæring, elevens behov og kommunens resurser. Klare, objektive kriterier når det gjelder hvem som skal ha rett til tilrettelegging, innholdet i undervisningen og omfanget av den i det enkelte tilfelle, vil det derfor ikke være realistisk å lovfeste. Avgjørelsen av disse spørsmålene vil måtte bero på en faglig-pedagogisk vurdering. Vurderingen av om eleven har rett til individuelt tilrettelagt opplæring, bør bygge på en sakkyndig vurdering og være knyttet til både skolens evne og mulighet til å tilpasse opplæringen og til de løsningene eleven har behov for.
+
+Fordelen med en slik løsning er at det blir et klarere skille enn i dag mellom hva som er opplæring (pedagogisk tilrettelegging), og hva som ikke er det (personlig assistanse og fysisk tilrettelegging). Løsningen kan også føre til at PP-tjenesten sparer ressurser fordi det nødvendigvis ikke blir behov for sakkyndig vurdering i like mange tilfeller som i dag. Dersom kompetansekrav for undervisningspersonale kun skal gjelde for opplæringen, vil det kunne bli lettere å oppfylle disse kravene fordi andre personer enn dem som oppfyller kompetansekravene, kan ansettes for å utføre oppgaver som dreier seg om personlig assistanse.
+
+Ulempen er at det er usikkert i hvor stor grad løsningen vil føre til mindre ressursbruk fra PP-tjenesten til sakkyndige vurderinger, fordi det mest sannsynlig vil være noen elever som har rett til en kombinasjon av tilbud om individuelt tilrettelagt opplæring, personlig assistanse og fysisk tilrettelegging. I slike tilfeller må PP-tjenesten uansett utarbeide en sakkyndig vurdering om elevens behov for individuelt tilrettelagt opplæring. Ifølge GSI har nesten 1 700 elever i 2018–2019 vedtak om spesialundervisning uten at de har fått tildelt timer med undervisningspersonale. Dette tallet har vært relativt stabilt over flere år. Tall fra GSI for 2010–2011 viser at 486 elever hadde enkeltvedtak om spesialundervisning uten timer, for eksempel vedtak om utstyr.[^819] Tallene viser at det er sannsynlig at PP-tjenesten vil kunne bruke noe mindre tid til å utarbeide sakkyndige vurderinger dersom det ikke stilles krav om slik vurdering i saker om personlig assistanse, individuelt tilrettelagt arbeidsplass og utstyr i opplæringen.
+
+#### Modell 2: differensiere opplæringstilbudet avhengig av graden av tilrettelegging
+
+En annen løsning er å skille mellom (1) elever som kan følge opplæringen uten individuell tilrettelegging, (2) elever som har behov for tilrettelegging i en begrenset periode, men ikke avvik fra læreplanen og (3) elever som har varige eller omfattende behov, eller som har behov for avvik fra kompetansemålene i læreplanverket. Modellen innebærer at elever som har varige eller omfattende behov, og elever som har behov for avvik fra kompetansemålene i læreplanverket, skal ha rett til individuell tilrettelegging av opplæringen og rett til en sakkyndig vurdering fra PP-tjenesten.
+
+Løsningen innebærer *høyere terskel* når det gjelder hvem som har rett til spesialundervisning, enn etter dagens regel i opplæringsloven § 5-1 fordi vilkåret for å få spesialundervisning etter dagens lov er knyttet til om eleven får «tilfredsstillande utbytte av det ordinære opplæringstilbodet», ikke til om eleven har varige eller omfattende behov eller behov for avvik fra kompetansemålene. Modellen forutsetter at det må redegjøres for hva «varige eller omfattende behov» skal innebære.
+
+Modellen innebærer videre at kommunen skal ha plikt til å gi intensiv opplæring til elever som trenger tilrettelegging i en begrenset periode. Slik opplæring skal gis inntil forventet progresjon blir nådd. Det skal, som i dag, være mulig å gi undervisning i små grupper eller som eneundervisning, dersom det er nødvendig for å øke elevens utbytte av opplæringen. Dette skal i så fall kun skje i et begrenset omfang.
+
+Modellen åpner ikke for at elever som får intensiv opplæring, skal ha avvik fra kompetansemålene i læreplanverket. Dersom en elev har behov for avvik fra kompetansemålene, skal eleven ha rett til individuell tilrettelegging av opplæringen (spesialundervisning). Kravet om intensiv opplæring gir skolen plikt til å gi slik opplæring, men plikten korresponderer ikke med en tilsvarende rettighet for elevene. Dette betyr at elever som får intensiv opplæring, ikke skal ha enkeltvedtak, og eleven har ikke rett til å klage på avgjørelsen eller innholdet i opplæringen. Kommunen skal oppfylle plikten, men en slik regel gir skolen et profesjonelt handlingsrom. Uavhengig av klageadgang kan elever og foreldre be staten om å føre tilsyn med at kommunen følger regelverket. Tilsynsmyndigheten må vurdere slike anmodninger ut fra en risiko- og sårbarhetsanalyse, og det vil være opp til tilsynsmyndigheten om de skal føre tilsyn i slike tilfeller. Loven bør imidlertid inneholde en rett for eleven eller foreldrene til å kreve en sakkyndig vurdering dersom de mener at eleven har varige eller omfattende behov. Et vilkår om at eleven må ha varige eller omfattende behov eller behov for avvik fra kompetansemålene i læreplanverket for å få rett til individuell tilrettelegging av opplæringen, innebærer en begrensning av hvem som har rett til spesialundervisning etter dagens regler. Samtidig gir det en ytterligere plikt for kommunen til å gi intensiv opplæring når det er nødvendig.
+
+Fordelen med løsningen er at den vil kunne frigjøre tid for PP-tjenesten fordi færre elever vil ha rett til spesialundervisning. PP-tjenesten kan dermed bruke mer tid til å utføre oppgaver som er knyttet til kompetanse- og organisasjonsutvikling overfor skolene. Problemet med ventetid for å få sakkyndig vurdering for dem som trenger det, vil også kunne reduseres.
+
+En ulempe med en slik løsning kan være at skjerpede krav til intensiv opplæring, kan føre til at elevene blir mer sårbare for eventuelle innsparingstiltak i kommunen. Ettersom en ny terskel for rett til spesialundervisning må bli innarbeidet og akseptert, vil det kanskje ta noe tid før det blir en reduksjon i antallet sakkyndige vurderinger av noe omfang. I innspill til utvalget fraråder Barneombudet vilkår som krever at elever skal ha varig og omfattende tilretteleggingsbehov. Ombudet uttaler at et slikt forslag er «mer problematisk enn dagens utbyttevurdering, for den fremmer et kategorisk perspektiv, der vurderingstemaene først og fremst er forhold ved eleven og ikke mangler i opplæringstilbudet. Vi frykter at dette i praksis vil bli en vurdering av barnets diagnose».
+
+Forslaget kan innebære økonomiske og administrative konsekvenser for kommunene dersom det må flere lærerressurser til for å oppfylle plikten til å gi intensiv opplæring. På den annen side kan et slikt forslag føre til at det blir mindre behov for individuell tilrettelegging av opplæringen (spesialundervisning). Dermed kan forslaget frigjøre ressurser fra individuell tilrettelegging til styrking av intensiv opplæringen.
+
+#### Modell 3: kun elever som har behov for avvik fra læreplanverket, skal ha rett til individuelt tilrettelagt opplæring
+
+Man kan også tenke seg en løsning som går ut på at det kun er elever som har behov for avvik fra læreplanen fordi de ikke har forutsetninger for å nå alle målene, som skal ha rett til individuelt tilrettelagt opplæring (spesialundervisning).
+
+Løsningen innebærer en omfattende begrensning av hvem som har rett til individuelt tilrettelagt opplæring sammenlignet med dagens regel om spesialundervisning i opplæringsloven § 5-1. De elevene som har behov for avvik fra innholdet i læreplanen, vil ha rett til spesialundervisning. Alle de andre elevene vil få tilpasset opplæring.
+
+En fordel med en slik løsning er at flere elever vil bli inkludert i tilpasset opplæring. Løsningen vil kunne frigjøre ressurser og gjøre det mulig med flere fleksible løsninger innen tilpasset opplæring. En annen fordel kan være at målgruppen for spesialundervisning blir tydeligere definert enn i dag, men det må fortsatt gjøres en individuell vurdering av om eleven har «behov» for avvik fra læreplanen. Flere av høringsinstansene for Ekspertgruppen for barn og unge med særskilt behov foreslår denne modellen fordi de mener ordlyden «tilfredsstillande utbytte» i opplæringsloven § 5-1 er for vag. En tredje fordel er at løsningen vil kunne frigjøre skolens tid som brukes til å skrive enkeltvedtak og individuelle opplæringsplaner, og det vil kunne frigjøre tid for PP-tjenesten, som kan brukes til veiledning overfor skolene.
+
+Ulempen med løsningen er at mange elever vil miste retten til spesialundervisning de har i dag, hvis skolen ikke klarer å gi dem tilfredsstillende utbytte innenfor den tilpassede opplæringen. Skolen må likevel bruke tid på å utrede og følge opp en stor gruppe elever som ikke lenger vil ha rett til spesialundervisning, noe som forutsetter at skolen har nødvendig kompetanse og kapasitet til å gjennomføre dette. Elever som trenger ekstra mye organisatorisk hjelp til å nå alle kompetansemålene, vil ikke lenger ha en individuell rett til denne hjelpen. Slik hjelp skal det tilrettelegges for innenfor tilpasset opplæring. Løsningen vil ekskludere elever som er kognitivt sterke, men som har andre utfordringer. Løsningen vil dessuten kunne føre til at skolen eller foreldrene, bevisst eller ubevisst, senker forventningene til elever som trenger omfattende tiltak innenfor tilpasset opplæring, slik at disse elevene får avvik fra læreplanen og dermed rett til spesialundervisning.
+
+#### Forslag til ny modell for lovregulering
+
+Utvalget mener at modell 3, som innebærer at kriteriet om avvik fra læreplanverket er avgjørende for om en elev skal ha rett til spesialundervisning, i for liten grad ivaretar elevens interesser. Løsningen fører til en for omfattende begrensning av hvem som har rett til spesialundervisning, og utvalget velger derfor ikke en slik modell.
+
+Utvalget foreslår at retten til spesialundervisning etter dagens opplæringslov deles opp i tre rettigheter: (1) rett til individuelt tilrettelagt opplæring, (2) rett til personlig assistanse og (3) rett til fysisk tilrettelegging. Forslaget innebærer at personlig assistanse og fysisk tilrettelegging skilles ut som egne rettigheter og at det ikke skal være krav om sakkyndig vurdering fra PP-tjenesten for å få tiltak om personlig assistanse eller fysisk tilrettelegging, se modell 1 ovenfor.
+
+Forslaget til ny modell er skissert i figur 31.5.
+
+\[:figur:figX-X.jpg\]
+
+Forslag til ny modell
+
+Opplæringslovutvalget
+
+### Nye betegnelser og innholdet i disse
+
+#### Innledning
+
+Utvalget mener at betegnelsene «tilpasset opplæring» og «spesialundervisning» ikke er gode og treffsikre nok til at de bør videreføres i ny lov. Utvalget foreslår derfor å innføre nye betegnelser for å beskrive innholdet på en mer hensiktsmessig måte
+
+Hvordan tilpasset opplæring forstås, har variert over tid, og pendelen har svingt fra inkludering, via individualisering til et mer felleskapsrettet innhold, se kapittel 31.4.1. Med tanke på det som nå synes å prege innholdet i og forståelsen av tilpasset opplæring, mener utvalget at det er hensiktsmessig å endre betegnelsen. Videre har utvalget sett hen til at uttrykket «spesialundervisning» oppleves som stigmatiserende og kan bidra til ekskludering. Det faktum at betegnelsen ikke bare er ord, men at den også utgjør rammen for innholdet den skal fylles med, gjør at utvalget ikke viderefører betegnelsen spesialundervisning i forslaget til ny lov.
+
+Tilpasset opplæring kan betegnes som *universell opplæring* eller universelt utformet opplæring og spesialundervisning kan bedre beskrives som *individuelt tilrettelagt opplæring*. En slik terminologi har en klar parallell til reglene i likestillings- og diskrimineringsloven om universell utforming og individuell tilrettelegging av fysiske forhold og tjenestetilbud.
+
+Utvalget foreslår at
+
+- *universell opplæring* innføres som ny betegnelse for tilpasset opplæring
+
+- *individuelt tilrettelagt opplæring* innføres som ny betegnelse for spesialundervisning
+
+Ved å endre betegnelsene som nevnt ovenfor, får man samme ordpar som i likestillings- og diskrimineringsloven: universell og individuell.
+
+Utvalget foreslår også at *forsterket innsats* innføres som ny betegnelse, og at slik opplæring delvis skal erstatte innholdet i dagens bestemmelse i opplæringsloven § 1-4 om intensiv opplæring, se nedenfor i kapittel 31.5.4.2.
+
+#### Universell opplæring
+
+God opplæring i et læringsfellesskap
+
+Betegnelsen tilpasset opplæring kan etter sin ordlyd oppfattes som særskilt eller individuell tilrettelegging av opplæringen, mens den i utdanningspolitikken er ment å bety at opplæringen – innenfor et fellesskap – skal tilrettelegges på en slik måte at den så langt mulig skaper et tilfredsstillende opplæringstilbud for alle. Tilpasset opplæring har gjennom tidene vært tillagt ulikt innhold. Som nevnt i kapittel 31.4.1, har innholdet i tilpasset opplæring de siste 15 årene hatt læringsfellesskapet i fokus. Den individuelle tilpasningen er tonet ned til fordel for fellesskapet. Målet er å bedre kvaliteten på undervisningen. God tilpasset opplæring er variert undervisning som gjør at så mange elever som mulig får tilfredsstillende utbytte av opplæringen.
+
+Prinsippene om en inkluderende skole og tilpasset opplæring er sentrale i norsk utdanningspolitikk. Begge ideene harmonerer med tankegangen som bygger på likhetsprinsippet, der skolen er definert som arena for alle. Prinsippet om tilpasset opplæring innebærer at alle elever i størst mulig grad skal inkluderes i den ordinære opplæringen.[^820] Dersom det ikke er mulig å gjennomføre ordinær opplæring på en slik måte at eleven har tilfredsstillende utbytte av opplæringen, har eleven rett til individuell tilrettelegging av opplæringen, kalt «spesialundervisning» i dagens opplæringslov. Intensjonen er at den tilpassede opplæringen skal være best mulig, slik at behovet for individuell tilrettelegging blir minst mulig. Forutsetningen for en likeverdig, tilpasset opplæring for flest mulig, og individuell tilrettelegging for de få, er at den opplæringen som gis, er tilgjengelig for den enkelte, med hensyn til både bygninger, læremateriell, metoder og organisering, og at dette er tilrettelagt på en slik måte at det skaper et godt læringsmiljø for alle.[^821]
+
+Tilpasset opplæring kan ha en smal og en vid tilnærming. Den smale tilnærmingen er knyttet til oppfatningen av at tilpasning likestilles med konkrete tiltak, metoder og bestemte måter å organisere opplæringen på. Den vide tilnærmingen innebærer en pedagogisk plattform som preger hele skolens virksomhet. Den smale tilnærmingen innebærer ofte tiltak overfor enkelte elever, og den vide tilnærmingen krever en overordnet strategi for skolens virksomhet og retter seg dermed mot alle elever.[^822] Tilpasset opplæring er ikke en statisk betegnelse og innebærer ikke én bestemt måte å gi opplæring på. Læreplanverket inneholder føringer for læring som er relevante for tilpasset opplæring, blant annet medvirkning, variasjon og inkludering.
+
+Tilpasset opplæring i vid forstand kan betegnes som universell utforming av opplæringen, og utvalget foreslår derfor å endre betegnelsen tilpasset opplæring til *universell opplæring*. At opplæringen skal være universell betyr at skolen skal gjennomføre opplæringen på en slik måte at den gir et tilfredsstillende opplæringstilbud for elevene, så langt det lar seg gjøre, uten behov for individuell tilrettelegging av opplæringen. Forslaget innebærer harmonisering av betegnelser i lovgivningen og ingen endring av rettstilstanden.
+
+Gjennom betegnelsen universell opplæring kan man få en annen inngangsport når man skal tenke på elevene og opplæringen innenfor et fellesskap. Ved å bruke denne betegnelsen tydeliggjøres utgangspunktet om at det er det mangfoldige fellesskapet av elever som er mottakere av opplæringen. Terminologien harmonerer etter utvalgets vurdering godt med at tilpasset opplæring i dag forstås som opplæring innenfor et læringsfellesskap, og signaliserer at skolen skal gi en opplæring som skal rette seg mot alle elever.
+
+Betegnelsen universell utforming var opprinnelig brukt i forbindelse med utformingen av fysiske forhold, men brukes i dag på de fleste samfunnsområder. På utdanningsområdet er betegnelsen brukt i en veiledningsbrosjyre fra 2008 om universell utforming og individuell tilrettelegging i høyere utdanning og knyttes til den pedagogiske delen av opplæringen.[^823]
+
+Den grunnleggende ideen bak universell utforming er å utforme samfunnet slik at så mange som mulig kan delta aktivt uavhengig av funksjonsevne. Målet er at universelt utformede løsninger skal kunne brukes av alle, slik at spesialløsninger unngås. Prinsippet anvendes ved utvikling av produkter, tjenester, bygg, IKT, infrastruktur mv.
+
+I FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne, artikkel 2, defineres universell utforming slik:
+
+Med «universell utforming» menes utforming av produkter, omgivelser, programmer og tjenester på en slik måte at de kan brukes av alle mennesker, i så stor utstrekning som mulig, uten behov for tilpassing og en spesiell utforming. «Universell utforming» skal ikke utelukke hjelpemidler for bestemte grupper av mennesker med nedsatt funksjonsevne når det er behov for det.
+
+Målet med universell utforming er å nå så mange som mulig. I prinsippene for universell utforming ligger en erkjennelse av at ikke alle alltid kan nås, og derfor benyttes ordet «hovedløsningen» i likestillings- og diskrimineringsloven § 17. På utdanningsområdet innebærer denne erkjennelsen at der det er behov for et annet opplegg enn det læreren kan gi gjennom universell opplæring, gis individuelt tilrettelagt opplæring.
+
+Med universell opplæring menes en faglig, metodisk og sosial tilpasning av opplæringen slik at elevene får realisert sitt potensial i så stor utstrekning som mulig innenfor fellesskapet, og med minst mulige behov for egne ordninger for enkeltelever. Skolen må kunne ta høyde for at elevene har forskjellige evner, forutsetninger og behov. Det innebærer blant annet at skolen må jobbe aktivt for å få med alle elevene i klassen, både sosialt og faglig, og ha strategier for å få alle elever med. Undervisningsopplegget må være slik at elevene nås og utfordres.
+
+Bruk av digitale verktøy i opplæringen gir nye muligheter til å gi universelt utformet opplæring. Digitale læremidler åpner for nye undervisningsformer og arbeidsmåter, og elevene kan delta i nye læringsfellesskap og samarbeide og dele kunnskap på nye måter. Tilgangen til interaktive oppgaver gir gode muligheter til å nivådifferensiere opplæringen når det er hensiktsmessig, og å la elever repetere før de går i gang med nye temaer.
+
+I betegnelsen universell opplæring legger utvalget at opplæringen – så langt det er mulig – skal favne alle elevene i et fellesskap. Skolen som virksomhet skal med andre ord legge til rette for og bidra til at alle elevene lærer og utvikler sitt læringspotensial gjennom deltakelse i et læringsfellesskap. Det motsatte vil være en skole som fokuserer på tiltak overfor enkeltelever. Universell utforming av opplæringen dreier seg om å ta hensyn til elevenes evner og potensial for læring, der målet er deltakelse for alle elever i et fellesskap i størst mulig utstrekning. Spesialløsninger for den enkelte skal følgelig unngås, men skal gis når den universelle opplæringen er utilstrekkelig.
+
+Universell utforming av opplæringen og læringsmiljøet handler i utgangspunktet om at det er utdanningssystemet som i størst mulig grad må tilpasses elevene, og ikke elevene som må tilpasse seg utdanningssystemet. Med universell opplæring menes at opplæringen skal være god nok for alle – så langt det lar seg gjøre.
+
+Plikten til universell utforming er ikke begrenset til å gjelde lærerens undervisning i klasserommet, men den må ligge til grunn for strategier og valg som tas i forbindelse med opplæringen. For eksempel må kommunen sørge for at innkjøpene og metodevalgene som tas i skolene, er i samsvar med kravet om universell utforming av opplæringen. Opplæringen vil ikke være universell hvis man i fellesundervisningen velger å bruke materiell eller metoder som ikke gir utbytte av opplæringen for flest mulig elever, eller som ekskluderer elever fra å delta i opplæringen. Krav om universell utforming av nye og eksisterende nettløsninger og digitale læremidler følger av forskrift om universell utforming av IKT-løsninger.
+
+Kravet om universell utforming av de fysiske forholdene og av løsninger for IKT og utvalgets forslag om at universell utforming skal gjelde for opplæringen generelt, vil kunne bidra til en helhetlig tenkning når det gjelder god læring i et inkluderende læringsmiljø.
+
+Et eksempel fra Halsen ungdomsskole i Stjørdal kommune
+
+Halsen ungdomsskole ligger i Stjørdal kommune i Trøndelag. Ett av kommunens satsingsområder for oppvekstområdet er å skape et mer inkluderende læringsløp og utviklingsmiljø. Kommunen har spesielt vektlagt et felles verdigrunnlag, opplevelsen av likeverd og mestring for elevene, og læring innenfor et inkluderende fellesskap. Det arbeides systematisk og målrettet for å sikre tidlig innsats og tverrfaglig samarbeid.
+
+På Halsen ungdomsskole har ledelsen og lærerne vært opptatt av at elevene skal få mulighet til å oppleve mestring ut fra sine faglige, personlige og sosiale forutsetninger, og at elevene skal få utfordringer å strekke seg etter. I og med at færre elever nå har vedtak om spesialundervisning, har det blitt mulig å øke ressursene skolen bruker til å styrke opplæringen for alle elevene innenfor ordinær undervisning. Ressurser som tidligere var knyttet til enkeltelever i enkeltvedtak om spesialundervisning, brukes i større grad til å styrke elevenes læring innenfor klassefellesskapet. Skolen har prioritert å bruke lærerressurser til å sette inn to lærere i klassen eller til å dele klassen i heterogene grupper i noen timer i sentrale fag. Dette krever at lærerne samarbeider godt. Denne måten å organisere opplæringen på gir større muligheter for tilpasset opplæring innenfor klassefellesskapet. Andelen som mottar spesialundervisning på skolen er gått ned fra ca. 18 prosent skoleåret 2014–2015 til ca. 6 prosent skoleåret 2019–2020. Omleggingen har vært testet ut skoleåret 2018–2019 og 2019–2020, og skolen jobber kontinuerlig med å finne gode måter å organisere opplæringen på.
+
+Elevene går glipp av mye når de tas ut av klasserommet. Målet til Halsen ungdomsskole er at så mange elever som mulig, skal få hjelp og støtte i det ordinære opplæringstilbudet sammen med de andre elevene i klassen, ettersom det gir best mulighet for faglig og sosial utvikling for de aller fleste elevene. For lærerne kan dette oppleves som utfordrende, ettersom det stiller større krav til dem når det gjelder å få til en god nok tilpasning for hver enkelt elev i klassefellesskap preget av stor diversitet. Samtidig er nettopp dette mangfoldet verdifullt, med tanke på å skape et inkluderende læringsmiljø.
+
+Halsen ungdomsskole har vært opptatt av å jobbe med flere tema parallelt for å styrke det inkluderende læringsmiljøet. Som eksempler kan nevnes psykisk helse og livsmestring, kjennetegn ved det gode læringsmiljøet, sunt og godt skolemåltid i trivelig kantine, og lese- og skriveopplæring ved bruk av iPad. Skolen har også opprettet et lavterskel tverrfaglig ressursteam på skolen som kan gi råd og innspill til lærerne på system- og individnivå. I samråd med PP-tjenesten tilrås ikke spesialundervisning i så stor grad fordi organisering, innhold og tilrettelegging innenfor det ordinære tilbudet skal gi et minst like godt tilbud til elevene.
+
+For å skape trygghet for at elevenes behov blir ivaretatt, har skolen lagt vekt på at foreldrene underveis har vært informert om omorganiseringen. Ved flere anledninger er ordningen diskutert i elevrådet, i Samarbeidsutvalget, i Foreldrenes arbeidsutvalg og på foreldremøter. God dialog mellom skolen og hver enkelt forelder og elev er viktig for å få til god tilpasset opplæring for elevene.
+
+E-post fra Halsen ungdomsskole til Opplæringslovutvalget 05.11.2019
+
+\[Boks slutt\]
+
+Forsterket innsats til elever som ikke oppnår forventede læringsresultater
+
+For å nå målet om at elevene skal nås og utfordres i så stor utstrekning som mulig, må opplæringen preges av fleksibilitet. Utvalget mener at elever som ikke oppnår forventede læringsresultater, må få forsterket opplæring, og at slik opplæring skal gis innenfor den universelle opplæringen. Det innebærer at elever som trenger det, raskt får egnet opplæring slik at de oppnår forventede læringsresultater. Dette vil kunne forhindre at utfordringer får utvikle seg og bli mer alvorlige. Utvalget foreslår at *forsterket innsats* innføres som ny betegnelse, og at slik innsats delvis skal erstatte innholdet i dagens bestemmelse om tidlig innsats *og* intensiv opplæring i opplæringsloven § 1-4.
+
+Etter opplæringsloven § 1-4 skal kommunen sørge for å gi elever på 1. til 4. trinn som står i fare for å bli hengende etter, målrettet og intensiv opplæring innenfor lesing, skriving og regning. Utvalget mener at betegnelsen «intensiv opplæring» ikke bør brukes, blant annet fordi opplæringen på dette nivået ikke nødvendigvis må være intensiv, selv om den kan være kortvarig. Forsterket innsats kan blant annet dreie seg om fordypning og konsentrasjon, alternativ organisering og bruk av ulike læremidler, og kan vare i en kort eller lengre periode. Hensikten med forsterket innsats er at veien til hjelp skal bli kortere, med andre ord at hjelpen skal komme så raskt som mulig. Dersom en elev til tross for forsterket innsats, ikke får tilfredsstillende utbytte av opplæringen, vil eleven ha rett til individuelt tilrettelagt opplæring.
+
+Utvalget foreslår at kommunen skal ha plikt til å gi elever som har behov for det, forsterket innsats, i form av konsentrert og målrettet opplæring slik at forventet progresjon kan bli nådd. Forslaget er ment å gi skolen et profesjonelt handlingsrom. Det skal være mulig å gi undervisning i små grupper eller som eneundervisning, dersom det er nødvendig for elevens utbytte av opplæringen. Eneundervisning skal i så fall kun skje i et begrenset omfang. Det er vesentlig at tiltak settes i gang med en gang skolen oppdager at en elev står i fare for å bli hengende etter. Forsterket innsats kan for eksempel innebære styrket intensitet i opplæringen overfor elever som har behov for å øve på lesefarten.
+
+Forsterket innsats avgrenses mot individuell tilrettelagt opplæring ved at forsterket innsats ikke skal være en individuell rettighet, og at tiltaket ikke krever sakkyndig vurdering eller annen omfattende saksbehandling. Dette samsvarer med dagens bestemmelse om tidlig innsats og intensiv opplæring. Kommunens plikt til å gi forsterket opplæring korresponder følgelig ikke med en tilsvarende rettighet for elevene. Det betyr at elever som får forsterket opplæring, ikke skal ha enkeltvedtak, og eleven har ikke rett til å klage på avgjørelsen eller innholdet i opplæringen. Eleven og foreldrene vil uansett ha rett til å kreve en sakkyndig vurdering dersom de mener at eleven har behov for individuelt tilrettelagt opplæring.
+
+Undersøkelser viser at andelen med spesialundervisning øker utover i grunnskolen, og at andelen er størst på 10. trinn. Mange elever kan, av ulike grunner, ha behov for tett oppfølging i kortere eller lengre perioder uavhengig av hvilket trinn de er på. Utvalget mener derfor at forsterket innsats ikke bør være forbeholdt elever på de laveste trinnene, men at skolen bør ha plikt til å gi forsterket opplæring til elever på alle trinn. Utvalget foreslår videre at forsterket innsats ikke skal begrenses til lesing, skriving og regning, men gjelde all opplæring.
+
+Utvalget mener at det ikke bør åpnes for at elever som får forsterket opplæring, skal ha avvik fra kompetansemålene i læreplanverket. Dersom en elev har behov for avvik fra kompetansemålene, vil eleven ha rett til individuelt tilrettelagt opplæring.
+
+Fordelen med løsningen som foreslås, er at den vil kunne frigjøre tid for PP-tjenesten ved at færre kan få behov for individuelt tilrettelagt opplæring, og følgelig at tjenesten får mer tid til å hjelpe skolen i arbeidet med kompetanseutvikling og organisasjonsutvikling. Problemet med ventetid for å få sakkyndig vurdering for dem som trenger det, vil også kunne reduseres.
+
+Utvalget foreslår samtidig at PP-tjenesten får en uttrykkelig plikt til å gi råd til skolene om hvordan forsterket innsats kan organiseres og gjennomføres, se kapittel 31.5.8 om PP-tjenesten.
+
+#### Individuell tilrettelegging
+
+Retten til spesialundervisning etter dagens opplæringslov deles opp i tre rettigheter
+
+Spesialundervisning er etter utvalgets mening en upresis og utdatert betegnelse. Uttrykket gir inntrykk av at det kun omfatter undervisning, og at den undervisningen som gis, er spesiell. Dette harmonerer dårlig med virkeligheten. Betegnelsen omfatter ikke bare undervisning, men også fysisk tilrettelegging som bruk av utstyr og læremidler, og personlig assistanse. Undervisningen som gis, kan være alt fra å tilrettelegge enkelte deler av undervisningen til å gi omfattende pedagogisk støtte. Det kan også innebære at eleven skal ha unntak fra ett eller flere av kompetansemålene i læreplanverket. Utvalget viser til kunnskapsgrunnlaget og de nevnte utfordringene med at spesialundervisning oppleves som og virker både faglig og sosialt stigmatiserende. Uttrykket spesialundervisning kan gi unødvendige assosiasjoner om at noen ikke er «normale», og derfor trenger noe spesielt.
+
+Utvalget foreslår derfor at betegnelsen «spesialundervisning» endres til *individuelt tilrettelagt opplæring*. Utvalget viser til at likestillings- og diskrimineringsloven § 21 inneholder en regel om rett til individuell tilrettelegging for elever og studenter. Retten til tilrettelegging gjelder både undervisningen, lærestedet, læremidler og eksamen. I forarbeidene til bestemmelsen, Prop. 81 L (2016–2017) s. 327, er det slått fast at bestemmelsen ikke gir rettigheter utover det som følger av opplæringsloven, men overlapper disse reglene.
+
+Etter dagens regel i opplæringsloven § 5-1 har en elev rett til spesialundervisning når eleven ikke har «tilfredsstillande utbytte» av opplæringen. Det kan være mange grunner til at en elev ikke har tilfredsstillende utbytte av opplæringen. Det kan blant annet være pedagogiske årsaker som hvordan opplæringen er tilrettelagt, at de fysiske forholdene på skolen ikke er godt nok tilrettelagt, og at eleven ikke klarer å utføre dagligdagse gjøremål eller holde konsentrasjonen oppe og følge med i undervisningen. At elever ikke har tilfredsstillende utbytte av opplæringen, kan med andre ord avhjelpes med pedagogisk tilrettelegging, fysisk tilrettelegging eller praktisk hjelp i skolehverdagen. Det kan også være nødvendig med en kombinasjon av disse. Alle disse omstendighetene kan etter dagens regler utløse rett til spesialundervisning. Ligger årsaken i fysiske eller psykososiale forhold, vil også tiltak etter opplæringsloven kapittel 9 A være aktuelt.
+
+Utvalget foreslår å dele opp rettighetene som i dag følger av § 5-1 om spesialundervisning, i tre ulike bestemmelser: (1) rett til individuelt tilrettelagt opplæring, (2) rett til personlig assistanse og (3) rett til fysisk tilrettelegging.
+
+Forslaget innebærer at innholdet i retten til individuelt tilrettelagt opplæring ikke favner like vidt som innholdet i dagens regler om spesialundervisning. Det som ikke er opplæring (undervisning), og som ikke nødvendigvis må utføres av lærere, skal falle utenfor: Det vil si at personlig assistanse, som hjelp i forbindelse med påkledning, toalettbesøk, måltider, medisinering etc., og fysisk tilrettelegging ikke skal regnes som individuelt tilrettelagt opplæring. Dette er for å unngå sammenblanding av personlig assistanse, fysisk tilrettelegging og tilrettelegging av selve opplæringen. Forslaget innebærer at det ikke skal være krav om sakkyndig vurdering fra PP-tjenesten for å få tiltak om personlig assistanse eller fysisk tilrettelegging.
+
+Rett til individuelt tilrettelagt opplæring
+
+Elever som ikke har tilfredsstillende utbytte av den universelle opplæringen, skal etter utvalgets forslag ha rett til pedagogiske tiltak i form av individuelt tilrettelagt opplæring for å nå kompetansemålene i ett eller flere fag eller målene i den overordnede delen av læreplanverket. Innholdet i, organiseringen av og omfanget av individuelt tilrettelagt opplæring vil nødvendigvis variere ut fra skolens evne og mulighet til å gi universell opplæring og hvilke løsninger som er nødvendige for den enkelte elev. Klare, objektive kriterier når det gjelder hvem som skal ha rett til tilrettelegging, innholdet i opplæringen og omfanget av den i det enkelte tilfelle, vil det derfor ikke være realistisk å lovfeste i detalj. Avgjørelsen av disse spørsmålene vil måtte bero på en faglig-pedagogisk vurdering.
+
+God opplæring for elever som har behov for individuell tilrettelegging
+
+Hva gjør vi med Maren?
+
+Sitat fra spesialpedagogen:
+
+*«Grunnpilarene i opplegget rundt Maren handler jo om et veldig intensivt og godt samarbeid, både mellom meg som spesialpedagog og de ulike faglærerne og kontaktlæreren. Det handler ikke minst om samarbeid med heimen, særlig fra barnehagen av, så var det kjempeviktig, at vi gikk for de samme måla, at vi jobba med Maren på ganske mye samme måter. For eksempel når vi skulle lære inn om det var ord eller leikeferdigheter.»*
+
+Maren får medvirke i planlegging, gjennomføring og evaluering av opplæringen. Det vil si at hun er med på å bestemme om hun vil ha undervisningen i eller utenfor klasserommet. Hun deltar også når læringsaktivitetene blir evaluert.
+
+Skolen er opptatt av et godt hjem – skolesamarbeid og legger til rette for dette gjennom blant annet beskjedbøker, e-poster og hyppige møter. Foreldrenes kompetanse anerkjennes, og de deltar aktivt i samarbeidet for å utforme et godt undervisningstilbud for Maren.
+
+Opplæringen gis av lærere med høy kompetanse. Samarbeidet preges av stort engasjement og vilje til å finne gode løsninger som gjør at alle elever har mulighet til å utnytte sitt potensial for læring. Lærerne og skolen ønsker veiledning, og samarbeider med alle instanser som er nødvendig for at læringsutbyttet skal bli best mulig. Skolen sørger for stabile lærekrefter og at overganger planlegges nøye. Elevene som er mest «sårbare» prioriteres ved sykdom i personalet.
+
+Sitat fra faglærer:
+
+*«Når Maren skulle begynne i ungdomstrinnet, så sa jo hab.tjenesten, etter å ha beskrivi funksjonsnivået hennes som liten, så sa de at Maren skal gå for karakterer i alle fag. Da tenkte jeg at det er galskap, det må vi få te»*
+
+Maren følger kompetansemålene i læreplanen så langt det er mulig. Det faglige innholdet tilpasses slik at hun blir utfordret, men slik at hun kan klare oppgavene og oppleve mestring. Undervisningen foregår i fellesskap med de andre elevene i klassen så langt dette er forsvarlig og mulig. De voksne har høye forventninger til at hun kan lære. Det settes ikke noen begrensninger basert på Marens diagnose og holdningen er at alt er mulig. Lærerne og skolen er opptatt av Marens utbytte av opplæringen. De valgene som tas er gjort ut fra en vurdering av hva som er hennes beste. Det er opplæringen som tilpasses eleven, ikke eleven som må tilpasse seg opplæringen.
+
+Gjennom både faglige og praktiske/sosiale aktiviteter jobber skolen for en inkluderende skole og et inkluderende læringsmiljø i klassen. Medelever lærer inkludering i praksis og ser at dette har positive effekter for dem selv også. Maren deltar i klassefellesskapet og i meningsfylte sosiale aktiviteter som samtidig ivaretar hennes behov. Skolen ser først og fremst Maren som en person som tilhører deres elevgruppe, deretter vurderer de hva som i hennes tilfelle hindrer læring. Kontaktlæreren har også ansvar for Maren, noe som innebærer et ansvar for at Maren skal være en naturlig del av klassen. Dette er viktige faktorer som gjør at Maren har et klassemiljø som ivaretar henne og hvor hun har venner.
+
+Teksten er skrevet med utgangspunkt i Barneombudets film «Hva gjør vi med Maren?«
+
+Barneombudet, 2017. E-post fra Barneombudet til Opplæringslovutvalget 14.10.2019
+
+\[Boks slutt\]
+
+Rett til personlig assistanse
+
+Utvalget foreslår at elever som har behov for praktisk hjelp for å få utbytte av opplæringen, skal ha en individuell rett til personlig assistanse. Med praktisk hjelp menes bistand fra en person (assistent) som kan følge med og hjelpe eleven i skolehverdagen. Assistansen kan variere både i omfang og oppgaver, og kan for eksempel være hjelp i forbindelse med av- og påkledning, måltider, toalettbesøk, sosiale aktiviteter i friminuttet, bæring av sekk og forflytning. Slike dagligdagse aktiviteter kan kreve mye krefter for enkelte elever. Assistenten bør være en ressurs som skal avlaste eleven slik at eleven får overskudd til å konsentrere seg om det faglige på skolen. En elev kan i tillegg ha rett til personlig assistanse etter helse- og omsorgstjenesteloven, se Utdanningsdirektoratets tolkningsuttalelse fra 2017.[^824]
+
+De vanlige saksbehandlingsreglene i forvaltningsloven skal følges når det skal fattes vedtak om personlig assistanse. Det vil si at det ikke stilles krav om at det skal foreligge en sakkyndig utredning fra PP-tjenesten før kommunen skal fatte vedtak om fysisk tilrettelegging og individuell personlig assistanse. Siden saken, ifølge forvaltningsloven, skal være «så godt opplyst som mulig før vedtak treffes», vil det i noen tilfeller kunne være nødvendig med en vurdering fra PP-tjenesten.
+
+Rett til fysisk tilrettelegging
+
+Utvalget foreslår at elever som har behov for fysisk tilrettelegging av læringsmiljøet for å få utbytte av opplæringen, skal ha en individuell rett til slik tilrettelegging. Med fysisk tilrettelegging menes tilrettelegging av arbeidsplassen eller klasserommet. Det kan også være at eleven har behov for materielle ressurser, som ulike hjelpemidler som for eksempel teleslynge. Kommunen skal, både etter dagens lov[^825] og etter utvalgets forslag, i hovedsak dekke hjelpemidler som er nødvendig for å motta opplæring for å gjøre skolearbeidet. Skolehjelpemidler kan også dekkes av NAV etter folketrygdloven § 10-7 første avsnitt bokstav a. Når et hjelpemiddel ikke blir dekket av NAV, og hjelpemiddelet er nødvendig for at eleven skal få forsvarlig utbytte av opplæringen, har kommunen et restansvar. Læremidler er for øvrig ikke omfattet av folketrygdlovens regler, og må stilles til rådighet av kommunen.
+
+På samme måte som for vedtak om personlig assistanse, foreslår utvalget at de vanlige saksbehandlingsreglene i forvaltningsloven skal følges når det skal fattes vedtak om fysisk tilrettelegging.
+
+Elever vil ha rett til fysisk tilrettelegging også etter likestillings- og diskrimineringsloven § 21. Retten til fysisk tilrettelegging etter opplæringsloven går noe lenger i å slå fast rettigheter enn likestillings- og diskrimineringsloven, i og med at opplæringsloven ikke har begrensninger om at kravet ikke skal innebære en uforholdsmessig byrde. Likestillings- og diskrimineringsloven § 21 gir dessuten en særrett til elever «med funksjonsnedsettelse». Opplæringsloven § 9 A-7 gir derimot en allmenn rett, da «alle» elever har rett til en arbeidsplass som er tilpasset deres behov. Utvalgets forslag innebærer, som i dag, at bestemmelsene om fysisk tilrettelegging etter opplæringsloven og etter likestillings- og diskrimineringsloven overlapper hverandre til en viss grad.

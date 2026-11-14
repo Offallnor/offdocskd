@@ -1,1080 +1,304 @@
-# NOU 2019: 23, del 56 av 71 (side 629–640)
+# NOU 2019: 23, del 56 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 629]
+## Reklame i skolen
 
-NOU 2019: 23
-Ny opplæringslov
+### Dagens regler
 
-dette er en parallell til privatskolelovens
-bestemmelser om godkjenning av fagplaner
-som avviker fra læreplanen begrunnet i livssyn
-og alternativ pedagogikk.14
+Opplæringsloven
 
-og bestemmelsen kommer ikke til anvendelse når
-barnet bor eller oppholder seg i utlandet.
+Det er fastsatt følgende i opplæringsloven § 9-6:
 
-46.4.2 Kunnskapsgrunnlaget
-Omfang
-Antallet barn som får opplæring av egne foreldre,
-varier noe fra år til år, men er uansett lavt. 184
-barn har privat hjemmeundervisning per 1. oktober 2018. Antallet barn som mottok denne typen
-opplæring, var 301 per 1. oktober 1997, mens
-antallet var henholdsvis 86 i 1998 og 184 i 2007.10
-Rapporter og utredninger
-I NOU 1995: 18 Ny lovgivning om opplæring ble
-det lagt til grunn at prinsippet om likeverdig opplæringstilbud til alle, ivaretakelsen av et felles kultur-, verdi- og kunnskapsgrunnlag og hensynet til
-mobilitet og opptak til videre utdanning tilsier en
-høy grad av felles innhold og felles progresjon i
-opplæringen. Slike hensyn vil kunne ivaretas ved
-at opplæringen må følge læreplanene for offentlige skoler så lenge dette ikke støter mot Norges
-folkerettslige forpliktelser eller skolens tilskuddsgrunnlag for øvrig (f.eks. skoler som er godkjent
-som faglig-pedagogisk alternativ).11
-For å lette kommunens tilsyn og bidra til at
-elevene får forsvarlig opplæring i hjemmet, ble det
-i NOU 1995: 18 foreslått å lovfeste et krav til at fagfordeling, fagenes innhold, vurdering osv. må
-gjelde tilsvarende for grunnskoleopplæring i
-hjemmet. Andre bestemmelser som gjelder for
-skoler (krav til klassestørrelser, om kompetanse
-for personalet og om opplæringens omfang i tid
-mv.), mente utvalget derimot ville være lite praktiske for denne typen opplæring, og de ble ikke
-foreslått gjort gjeldende.12 Forslaget ble fulgt opp
-av regjeringen i Ot.prp. nr. 46 (1997–98)13 og av
-Stortinget. Kirke-, utdannings- og forskningskomiteen understreket at
-[…] kommunens tilsyn med privat opplæring
-må anerkjenne foreldrenes rett til å tilpasse
-undervisningen ut fra formålet med hjemmeundervisningen i de tilfellene livssynsmessige
-eller pedagogiske forhold ligger til grunn for
-ønsket om privat opplæring. Komiteen mener
+Skoleeigaren​ skal sørgje for at elevane ikkje blir utsette for reklame som er eigna til å skape kommersielt press, eller som i stor grad kan påverke holdningar, åtferd og verdiar,​ mellom anna på skolens område, i lærebøker og andre læremiddel som blir nytta i opplæringa. Departementet kan gi nærmare forskrifter.
 
-Andre land
-Situasjonen i Europa
-EU har publisert en rapport om privat hjemmeundervisning i Europa.15 Rapporten omfatter 38
-land. Analysen viser at privat grunnskoleopplæring i hjemmet etter anmodning fra familier er
-mulig i et flertall av landene. I mange land må foreldrene be om godkjenning fra staten eller lokale
-myndigheter. Krav til foreldrenes kvalifikasjoner,
-eller deres utdanningsnivå, er fastsatt i halvparten
-av landene. Nesten alle landene har en form for tilsyn, og flere av landene har krav om prøver.
-Danmark
-Danmark åpner for grunnskoleopplæring i hjemmet, og tilsyn gjennomføres av kommunen. En
-rapport fra Rambøll16 viser at omtrent 475 barn i
-Danmark mottok grunnskoleopplæring i hjemmet
-skoleåret 2016–2017.
-Finland
-Også i Finland foregår det grunnskoleopplæring i
-hjemmet, men også her er antallet lavt. Det er
-færre enn 400 barn i grunnskolealder i Finland
-som mottar denne formen for opplæring. I Finland
-fører kommunen tilsyn med at den obligatoriske
-læreplanen følges.
-Sverige
-I Sverige er det i utgangspunktet skoleplikt og
-derfor strenge vilkår for å drive hjemmeundervisning. Det stilles blant annet krav om «synnerliga
-skäl», det vil si eksepsjonelle grunner. Eksempler
-på eksepsjonelle grunner er helse og reiser med
-familien, mens religiøse eller filosofiske grunner
-ikke regnes som eksepsjonelle grunner. Det er
-kommunen som beslutter og har tilsyn med hjemmeundervisningen. Tillatelsen gis for et år av gangen.
-Praksisen er begrunnet slik:
+Forbudet mot reklame ble tatt inn i opplæringsloven i 2007. Det er ikke gitt regler i forskrift med hjemmel i lovbestemmelsen. Det framgår av forarbeidene til loven at bestemmelsen i praksis betyr at det ikke vil være tillatt med noen form for reklame som skolen mener vil kunne ha uheldig påvirkning på elevene, samtidig som den åpner for at reklame som ikke er skadelig, fremdeles kan benyttes. Videre er det pekt på at forbudet er fleksibelt ved at vurderingen av hva som er uønsket eller uheldig påvirkning, vil variere, avhengig av alder og modenhet hos elevene. Det understrekes i forarbeidene at det er skoleledere og lærere som er de nærmeste til å vurdere hva som faller inn i kategoriene som forbudet gjelder. Det er også understreket at forbudet ikke er ment å ramme bruk av internett, TV, aviser, blader mv. som ledd i undervisningen. Bedriftsbesøk og partnerskap mellom skole og lokalt arbeids- og næringsliv vil også falle utenfor forbudet.[^1334]
 
-10
+I 2009 ga Utdanningsdirektoratet ut en veileder om reklameforbudet i skolen.[^1335] Veilederen inneholder flere tolkninger og presiseringer om hvordan forbudet skal forstås. Blant annet er det presisert at «reklame» skal forstås i vid forstand, og at det omfatter både tradisjonelle og utradisjonelle reklameformer som kommersielle aktører kan ta i bruk med den hensikt å selge varer eller tjenester samt påvirke holdninger og verdier.
 
-Utdanningsdirektoratet, Grunnskolens Informasjonssystem (GSI).
-11
-Kap. 34.5.4.3.
-12
-Kap. 34.5.2.
-13
-Kap. 24.5.2.
+For å identifisere om en reklame er omfattet av forbudet, må man ifølge veilederen vurdere om reklamen er innenfor skolens ansvarsområde, og om reklamen er egnet til å skape kommersielt press eller i stor grad påvirke holdninger, verdier og atferd. Kommersielt press skal forstås som kjøpepress blant elevene. Når reklamens påvirkning på elevenes holdninger, verdier og atferd skal vurderes, kreves det at reklamen «i stor grad» påvirker. Dette betyr ifølge veilederen at det skal en god del til før kommuner er pliktig til å skjerme eleven for dette. Reklame som sier noe om hva som er attraktivt, eller hvordan jenter og gutter skal være, kle seg og oppføre seg er nevnt som eksempler på reklame som i stor grad kan påvirke holdninger, atferd og verdier. Ifølge veilederen er det relevant å ta pedagogiske og etiske hensyn og hensyn til elevens alder i den skjønnsmessige vurderingen av om en reklame omfattes av forbudet.
 
-627
+I veilederen er det eksempler på hva som er tillatt og forbudt reklame. Logoeksponering fra leverandør av melkeprodukter til skolens kantine er tillatt. Om plakater og lignende kan tillates, beror på hva slags produkt eller tjeneste det gjelder. Reklameplakater for brus og klesmerker er brukt som eksempler på reklame som rammes av forbudet. Videre står det at brosjyrer og invitasjoner av kommersiell art alltid er forbudt. Reklame for lokalt kulturliv og elevinitierte aktiviteter er derimot tillatt. Det er også enkelte arrangementer i skolen som inneholder reklame, som i praksis er akseptert, som for eksempel Tinestafetten.
 
-Kapittel 46
+Markedsføringsloven
 
-14
-15
-16
+Markedsføringsloven har regler om markedsføring overfor barn. Det følger av § 19 i denne loven at det skal vises særlig aktsomhet overfor barns påvirkelighet, manglende erfaring og naturlige godtroenhet når en handelspraksis rettes mot barn, eller for øvrig kan ses eller høres av barn. I vurderingen av om en handelspraksis er i strid med bestemmelsene i markedsføringsloven, skal det tas hensyn til alder, utvikling og andre forhold som gjør barn spesielt sårbare.
 
-Innst. O. nr. 70 (1997–98), kap. 3.11.
-EU, 2018.
-Rambøll, 2018.
+Med handelspraksis siktes det til markedsføring og reklame og andre handlinger mv. som er direkte knyttet til å fremme salg, selge eller levere en ytelse til forbrukerne, jf. § 5. *Markedsføring* er et videre begrep enn *reklame*, men begge deler handler om kommersielle aktører som fremmer salg, selger eller leverer varer til forbrukere.[^1336]
 
-[Side 630]
+Det følger av markedsføringsloven § 6 at urimelig handelspraksis er forbudt. En handelspraksis er urimelig dersom den strider mot god forretningsskikk overfor forbrukere​ og er egnet til vesentlig å endre forbrukernes økonomiske atferd slik at de treffer beslutninger de ellers ikke ville ha truffet. En handelspraksis er også alltid urimelig dersom den er villedende eller aggressiv.
 
-628
+Det står i § 20 at det i vurderingen av om en handelspraksis​ er urimelig, skal legges vekt på om handelspraksisen er særskilt rettet mot barn. Det skal også legges vekt på om handelspraksisen på grunn av art eller produkt er egnet til å påvirke barn, og om den næringsdrivende​ kan forventes å forutse barns særlige sårbarhet for praksisen. Det er forbudt å ta med i reklame direkte oppfordringer til barn om å kjøpe annonserte ytelser eller overtale foreldrene eller andre voksne til å kjøpe de annonserte ytelsene til dem.
 
-NOU 2019: 23
+Det følger av markedsføringsloven § 2 at markedsføring ikke må stride mot god markedsføringsskikk. Ved vurderingen legges det vekt på om markedsføringen krenker allmenne etikk- og moraloppfatninger, eller om det tas i bruk støtende virkemidler. Når det gjelder markedsføring overfor barn, skal det blant annet legges vekt på om markedsføringen oppfordrer til lovbrudd, farlig atferd eller brudd med vanlige sikkerhetsnormer, på om den spiller på sosial usikkerhet, dårlig samvittighet eller dårlig selvtillit, på om den bruker skremmende virkemidler eller er egnet til å skape frykt eller angst, og på om den bruker aggressive virkemidler som vold, seksualitet eller rusmidler.
 
-Kapittel 46
+Pliktene i markedsføringsloven retter seg mot næringsdrivende. Næringsdrivende er i § 5 definert som en fysisk eller juridisk person som utøver næringsvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne. Næringsvirksomheten trenger ikke å være profittbasert. Ideelle organisasjoners salg av produkter er å anse som næringsvirksomhet selv om inntektene går til det ideelle formålet. Grensen mellom frivillige organisasjoners innsamling av penger og salg av produkter kan være flytende, og det må foretas en konkret vurdering av om det er næringsvirksomhet.[^1337]
 
-Ny opplæringslov
+### Utvalgets vurdering
 
-Av gällande skolförfattningar framgår tydligt
-att undervisningen i skolan ska vara allsidig
-och saklig och därigenom utformas så att alla
-elever kan delta, oberoende av vilken religiös
-eller filosofisk uppfattning som eleven och elevens vårdnadshavare har. Mot denna bakgrund
-är det regeringens uppfattning att det i dag inte
-finns något behov av en bestämmelse i skollagen som ger utrymme för hemundervisning på
-grund av religiös eller filosofisk uppfattning
-hos familjen.17
-Forholdet til internasjonale konvensjoner er vurdert i proposisjon 2009/10:165.
-Det er kommunen, eventuelt en lege, som
-avgjør om det er tillatt med hjemmeundervisning i
-Sverige. Videre er det kommunen eller en privat
-skole som fører tilsyn med opplæringen.
+Behovet for forbud mot reklame i opplæringsloven
 
-46.4.3 Utvalgets vurdering
-Innledning
-Utvalget legger til grunn at det kan være mange
-årsaker til at foreldre ønsker å undervise sine
-egne barn. Det kan skyldes at familien ønsker
-mer tid sammen, eller at barna får opplæring etter
-en bestemt pedagogisk retning. Andre årsaker
-kan være misnøye med skolemiljøet eller at skoleveien er lang eller farlig. I de europeiske landene
-er det svært ulike rammer for grunnskoleopplæring i hjemmet, se kapittel 46.4.2. I et par land
-åpnes det ikke for grunnskoleopplæring i hjemmet, mens noen land krever bestemte grunner.
-Andre land igjen har kvalifikasjonskrav, og de
-aller fleste har ulike former for tilsyn med opplæringen. Videre stiller de aller fleste landene krav
-om at barna gjennomfører prøver.
-Utvalget foreslår i hovedsak at gjeldende
-bestemmelser om grunnskoleopplæring i hjemmet i opplæringsloven §§ 2-13 og 14-3 videreføres
-i den nye loven. I dette ligger det også at utvalget
-mener at denne formen for opplæring bør styres
-gjennom lov, eventuelt med hjemmel i lov. Utvalget mener at dette er nødvendig for å sikre at foreldre fortsatt kan velge å undervise sine egne
-barn, men også at det enkelte barn får en opplæring som holder en god nok kvalitet. Videre kan
-regelstyring bidra til forutberegnelighet for foreldre og likebehandling.
+Utvalget mener det er viktig at barn og unge ikke utsettes for kommersielt press eller annen utilbørlig påvirkning i skolen. Barn og unge er mer sårbare og vil ofte være mer lettpåvirkelige enn voksne. Barn og unge har dessuten en plikt til å delta i grunnskoleopplæringen og kan derfor ikke unngå den reklamen de eventuelt utsettes for der. Det samme gjelder for de som ønsker å benytte seg av retten til videregående opplæring.
 
-Opplæringen skal skje i hjemmet
-Utvalget legger til grunn at opplæringen hovedsakelig skal skje i barnets hjem, det vil si på folkeregistrert adresse, eller i nærområdet. Dette følger
-også av gjeldende bestemmelse, jf. «i heimen»,
-men utvalget erfarer at dette har vært noe ulikt
-praktisert, noe som også kan gjøre det vanskelig
-for kommunen å føre tilsyn med opplæringen.
-Utvalget er kjent med at enkelte foreldre
-ønsker å undervise egne barn i kortere perioder
-på grunn av for eksempel ferie og andre reiser
-utenom skolens ferier. Utvalget legger til grunn at
-grunnskoleopplæringen i hjemmet må gjennomføres i Norge, jf. virkeområdet til opplæringsloven.
-Tradisjonelt har reisevirksomhet vært en del
-av tateres/romanifolks levemåte. Det er usikkert
-hvor mange som i dag ønsker å reise med barn i
-perioder utover skolens ferier. Skolelederne som
-er intervjuet i arbeidet med NOU 2015: 7 Assimilering og motstand – Norsk politikk ovenfor taterne/
-romanifolket fra 1850 til i dag, melder i liten grad
-om søknader om fritak fra undervisning i forbindelse med reising. Noen skoler påpeker at det
-generelle fraværet spredt utover året er det største problemet, og ikke fravær i forbindelse med
-reising.18 Utdanningsdirektoratet opplyser at
-enkelte skoler har hatt en ordning der tater- og
-romaniforeldre har gitt barna hjemmeundervisning i de periodene de har vært ute og reist. Det
-har vært et tett samarbeid med skolen for å lage
-passende undervisningsopplegg. Direktoratet
-understreker at tilsyn er viktig for å sikre at barna
-får den opplæring de har rett til.19 Direktoratet
-opplyser ikke om hvordan kommunene har ført
-tilsyn med opplæringen i reiseperioden. Utvalget
-legger til grunn at det er frivillig for kommunene
-og skolene å bistå foreldre med å utarbeide denne
-typen undervisningsopplegg. Videre mener utvalget at eventuelle utfordringer knyttet til skolegang
-og nasjonale minoriteters reising bør løses ved
-andre virkemidler enn at foreldrene underviser
-sine egne barn i reiseperioden.
-Bør det stilles krav om forhåndsgodkjenning?
-Retten til grunnskoleopplæring er en grunnleggende rettighet som er beskyttet av Grunnloven
-og internasjonale konvensjoner. Utvalget mener at
-det for mange foreldre vil være krevende å sikre
-at opplæringen er i samsvar med læreplanene for
-fag, og at opplæringen ellers er forsvarlig. I forar18
+Reklame i skolen er en aktuell problemstilling i praksis, ikke minst i forbindelse med digitale læremidler. Skolene benytter et betydelig antall digitale læremidler, og det er de gratis tilgjengelige læremidlene som dominerer i grunnskolen.[^1338] Utvalget vet ikke om det er en utfordring med ulovlig reklame i slike læremidler, men antar at det er en særlig risiko for at læremidler som er gratis, kan være reklamefinansierte.
 
-17
+Selv om reklame i skolen bør unngås, mener utvalget det er relevant å vurdere om det er nødvendig å regulere dette særskilt i opplæringsloven. Barn har et særskilt vern i markedsføringsloven som gjelder generelt. Markedsføringsloven gjelder i likhet med opplæringsloven både kommersiell påvirkning og kommersielle aktørers påvirkning av holdninger mv. Markedsføringslovens regler om beskyttelse av barn ble vedtatt etter reklameforbudet i opplæringsloven. Verken opplæringsloven eller markedsføringsloven angir noen helt klar grense for hva som er tillatt og forbudt, og det er derfor vanskelig å vurdere om det er tilfeller som rammes av reklameforbudet i opplæringsloven, som ikke vil være forbudt etter markedsføringsloven. Forbrukertilsynet mener det har vært lovgivers hensikt å gå lenger i beskyttelsen av barn og unge mot reklame i opplæringsloven enn i de generelle reglene i markedsføringsloven, og var i høringen av veilederen om reklame i skolen kritisk til at det ble lagt til grunn en lavere terskel for hva som skal tillates enn det tilsynet mente var intensjonen i opplæringsloven.[^1339]
 
-Proposition 2009/10:165.
+Utvalget mener markedsføringslovens terskel om å være «egnet til vesentlig å endre forbrukernes økonomiske atferd» og opplæringslovens terskel om «kommersielt press» er relativt sammenfallende, særlig tatt i betraktning hvordan terskelen i opplæringsloven er beskrevet i veilederen fra Utdanningsdirektoratet. Videre er det grunn til å tro at reklame som «i stor grad» påvirker holdninger mv. etter opplæringsloven, også vil rammes av markedsføringslovens regler om god markedsføringsskikk.
 
-19
+Det som i størst grad skiller opplæringslovens regler fra markedsføringslovens regler, er hvem reglene retter seg mot. Markedsføringslovens regler gjelder for de næringsdrivende som reklamer for produktene, mens opplæringslovens regler retter seg mot kommuner som ansvarlige for skolevirksomheten.
 
-Kap. 6.5.2.2.
-Utdanningsdirektoratet, 2014d.
+Spørsmålet er dermed om det er nødvendig at kommuner pålegges en særlig plikt til å sikre at barn i skolen ikke utsettes for reklame som i de aller fleste tilfeller trolig vil være ulovlig etter markedsføringsloven. Kanskje er det tilstrekkelig at Forbrukertilsynet kan håndheve markedsføringslovens regler. Forbrukertilsynet er opptatt av reklame i skolen og sendte tidligere i år et orienteringsbrev til alle grunnskoler om reklame i skolen.[^1340]
 
-[Side 631]
+Et argument mot at kommuner skal ha en særskilt plikt til å verne elever mot ulovlig reklame i skolen, er at en slik plikt bør være unødvendig. Det må kunne forventes at kommunene som ansvarlige for grunnopplæringen, vil sørge for at barn og unge ikke utsettes for kjøpepress og utilbørlig påvirkning når de er på skolen. Det er heller ikke slik at kommuner er pålagt en slik plikt på andre områder hvor barn oppholder seg. For eksempel er det ikke tilsvarende særregler om reklame i barnehager eller barnevernsinstitusjoner.[^1341]
 
-NOU 2019: 23
-Ny opplæringslov
+Et mulig argument for en særregel om reklame i opplæringsloven, er at det kan gi et mer effektivt vern av elevene dersom kommunen kan stanse reklamen før den når barna i skolen. Forbrukertilsynet kan bare gripe inn overfor markedsføring som allerede er kommet ut. Samtidig er reklameforbudet i opplæringsloven svært skjønnsmessig og vanskelig å anvende i praksis. Det er stor risiko for at forbudet forstås ulikt av kommuner, fylkeskommuner og skoler. Kommunene er heller ingen profesjonelle aktører når det gjelder markedsføring og risikobildet er i dag mer krevende enn det var da reklameforbudet ble innført. Det er ikke bare snakk om plakater og brosjyrer, men ulike former for digital reklame. Vurderingene av hva som omfattes av forbudet, er dermed også mer komplisert. Kommunen har heller ingen virkemidler overfor markedsaktørene, og de har heller ikke nødvendigvis stor nok markedsmakt til å stanse reklamen på egen hånd.
 
-beidene til bestemmelsene er det lagt til grunn at
-«privat heimeopplæring kan tillatast, der kommunen er sikker på at foreldra kan gi ei opplæring
-som svarer til den opplæringa som blir gitt i skolen.»20 Utvalget mener at et krav om forhåndsgodkjenning av undervisningsopplegget vil kunne
-bidra til at foreldre ikke starter opp med grunnskoleopplæring i hjemmet der dette ikke er realistisk. Dersom foreldrene starter opp med grunnskoleopplæring i hjemmet og denne stanses av
-kommunen etter kort tid som følge av at opplæringen ikke har den nødvendige kvaliteten, kan dette
-være svært uheldig for barnet. Et krav om forhåndsgodkjenning etter søknad vil kunne bidra til
-at barnet sikres kontinuitet i opplæringen.
-Utvalget mener at det bør innføres krav om forhåndsgodkjenning av grunnskoleopplæring i hjemmet etter søknad, noe utvalget ikke mener vil
-være særlig byrdefylt for foreldrene. Foreldrene
-må uansett sette seg godt inn i læreplanene for fag
-og planlegge det nærmere undervisningsopplegget før oppstart, for eksempel progresjon, innhold
-og arbeidsmåter. Utvalget legger til grunn at foreldrene ikke skal måtte gi mer informasjon i søknaden enn at det sannsynliggjøres at grunnskoleopplæringen i hjemmet vil være i samsvar med
-minimumskravene i loven, se nedenfor. Utvalget
-ser for seg at søknaden inneholder en overordnet
-plan for opplæringen, inkludert informasjon om
-læremidler, læringsarenaer og kompetanse, både
-den formelle og den ikke-formelle. Videre må søknaden selvsagt gi informasjon om navn på barnet,
-hvem av foreldrene som skal undervise, når foreldrene ønsker at opplæringen skal starte, og
-anslått varighet.
-Et krav om forhåndsgodkjenning vil kunne
-legge til rette for en god dialog mellom foreldrene
-og kommunen om gjennomføringen av tilsynet,
-blant annet om hyppighet og tilsynsperson(er).
-Dersom bakgrunnen for ønsket om grunnskoleopplæring i hjemmet er at barnet ikke trives på
-skolen, vil også kontakten mellom familien og
-kommunen kunne føre til at barnet likevel velger
-å fortsette på skolen ved hjelp av tiltak initiert av
-kommunen, eventuelt at det startes en prosess
-der tilliten til skolen gjenopprettes.
-Utvalget legger til grunn at kommunene ikke
-vil få mange søknader omgrunnskoleopplæring i
-hjemmet (se kapittel 46.4.2), og utvalget mener at
-kommunene bør prioritere disse søknadene slik at
-saksbehandlingstiden ikke blir lang. Utvalget
-viser for øvrig til forvaltningsloven § 11 a, som
-fastsetter at forvaltningsorganet skal forberede og
+For at man skal oppnå et effektivt vern mot reklame for barn og unge i skolen, mener utvalget at det er nødvendig med et nasjonalt tilsyn som har tilstrekkelig kompetanse og tilstrekkelige virkemidler til å håndheve forbudet.
 
-avgjøre saken uten ugrunnet opphold. Utvalget
-mener også at departementet bør vurdere om det
-bør utarbeides en veileder som kommunene kan
-dra nytte av i saksbehandlingen.
-Utvalget mener at et nytt krav om forhåndsgodkjenning bør gjelde fra lovens ikrafttredelse.
-Det betyr at de familiene som allerede er i gang
-med grunnskoleopplæring i hjemmet, ikke trenger å søke om godkjenning, se forslag til § 24-2
-fjerde avsnitt.
-Hvilke krav bør det stilles til opplæringen?
-I opplæringsloven § 2-13 er det vist til fire bestemmelser i opplæringsloven som gjelder for grunnskoleopplæring i hjemmet. Henvisningsteknikken har bidratt til at det er noe uklart om også
-opplæringsloven § 1-6, hvor departementet gis
-hjemmel til å gi forskrifter om overordnede mål
-og prinsipper for opplæringen, gjelder for denne
-undervisningsformen.21 Utvalget legger til grunn
-at overordnet del av læreplanverket, som er fastsatt med hjemmel i § 1-6, kun delvis passer for
-grunnskoleopplæring i hjemmet. Utvalget mener
-at det er tilstrekkelig at formålet med opplæringen i dagens § 1-1 gjøres gjeldende for denne
-undervisningsformen.
-Kravet om tilpasset opplæring i opplæringsloven § 1-3 første avsnitt gjelder forgrunnskoleopplæring i hjemmet. Utvalget foreslår at det innføres
-en plikt til å sørge for universell opplæring, se
-kapittel 31.5. Siden plikten er knyttet opp mot individuelt tilrettelagt opplæring, som ikke bør gjelde
-for denne opplæringsformen, foreslår utvalget at
-det verken stilles krav om tilpasset opplæring eller
-universell opplæring, se for øvrig vurderingen i
-46.2.3. Utvalget foreslår å innta et forsvarlighetskrav i § 1-3 i den nye loven, og utvalget foreslår at dette kravet også skal gjelde tilsvarende for
-grunnskoleopplæring i hjemmet. Dette vil innebære at selv om det ikke gjelder konkrete krav til
-tilrettelegging eller oppfølging av barnet, vil det
-uansett gjelde et krav om forsvarlighet, se nærmere omtale av kravet i kapittel 15.
-Det tidligere kravet i opplæringsloven § 1-3
-andre avsnitt om særlig høy lærertetthet på 1. til
-4. trinn gjaldt for grunnskoleopplæring i hjemmet.
-I forarbeidene til bestemmelsene er det ikke kommentert hvorfor kravet ble gjort gjeldende.22
-Utvalget legger til grunn at dette var en inkurie.
-Uansett er § 1-3 andre avsnitt erstattet av ny § 1-4
-om tidlig innsats på 1. til 4. trinn fra 1. august
-21
+Utvalget foreslår derfor å ikke videreføre særreglene om reklame i opplæringsloven. Utvalget mener markedsføringslovens regler gir et tilsvarende vern som reglene i opplæringsloven, slik disse er forstått i Utdanningsdirektoratets veileder. Det er viktig at markedsføringslovens regler håndheves i skolene. Utvalget mener at Forbrukertilsynet bør ha en særlig oppmerksomhet mot reklame i skolen, ettersom barn og unge har et særskilt vern i markedsføringsloven.
 
-20
+Utvalget vil understreke at kommunene uansett vil ha en plikt til å verne elevene mot kjøpepress og utilbørlig påvirkning ettersom de skal sørge for at elevene får et trygt og godt skolemiljø. Opplæringen skal dessuten være i samsvar med overordnet del av læreplanverket, som uttrykker flere verdier som er uforenlig med å la elevene utsettes for kjøpepress og utilbørlig påvirkning.
 
-Ot.prp. nr. 46 (1997–98), kap. 24.5.2.
+Dersom Kunnskapsdepartementet ønsker å gå inn for å videreføre reklameforbudet i ny opplæringslov, bør innholdet i bestemmelsen tydeliggjøres slik at det legges til rette for lik praksis på skolene og for at staten kan håndheve reglene overfor kommunene. Videre bør det klargjøres om det er ment å være en strengere regel enn reglene i markedsføringsloven.
 
-629
+### Utvalgets forslag
 
-Kapittel 46
-
-22
-
-Helgeland, 2018, s. 73.
-Ot.prp. nr. 55 (2008–2009). Prop. 52 L (2017–2018).
-
-[Side 632]
-
-630
-
-Kapittel 46
-
-NOU 2019: 23
-Ny opplæringslov
-
-2018. Paragraf 1-4 er ikke gjort gjeldende for
-grunnskoleopplæring i hjemmet, og utvalget foreslår heller ikke at det nye kravet om «forsterka
-innsats» gjøres gjeldende. Utvalget viser også her
-til kapittel 31.
-Det framgår i § 2-13 at kravene til innholdet i
-opplæringen gjelder «så langt reglane ikkje kjem i
-strid med Noregs folkerettslege plikter». Utvalget
-legger til grunn at kunnskapsinnholdet i de ulike
-målene i læreplanene ikke er i strid med Norges
-folkerettslige forpliktelser, og det vil derfor være
-få foreldre som vil oppleve at gjeldende krav til
-innhold i opplæringen (læreplanene for fag) vil
-være i strid med egen religion eller eget livssyn.
-Utvalget mener derfor at det ikke er nødvendig å
-presisere i loven at kommunen må anerkjenne foreldrenes rett til å tilpasse undervisningen ut fra
-blant annet livssynsmessige forhold. Utvalget
-foreslår derfor at det fastsettes at opplæringen
-skal være i samsvar med læreplanverket med unntak av overordnet del av læreplanverket, men at
-det ikke stilles krav om at opplæringen ikke skal
-være forkynnende, eller særskilte krav til opplæringen om livssyn, se kapittel 43.3.
-Utvalget foreslår ikke andre endringer, for
-eksempel kvalifikasjonskrav eller rett og plikt til å
-avlegge grunnskoleeksamen eller nasjonale prøver. Utvalget foreslår ingen realitetsendringer når
-det gjelder tilsyn. Det kommunale tilsynet må,
-som i dag, være egnet til å avdekke om opplæringen er i samsvar med minimumskravene i loven.
-Det betyr at kravene til omfang og hyppighet vil
-variere.
-
-–
-–
-
-at kommunene fortsatt skal føre tilsyn med
-grunnskoleopplæring i hjemmet, se forslag til
-§ 20-7
-språklige endringer
-
-46.5 Privatister til eksamen
-46.5.1 Dagens regler
-Dagens §§ 2-3 og 3-4 i opplæringsloven gir departementet hjemmel til å gi forskrift om blant annet
-vurdering av privatister. Opplæringsloven forutsetter med dette at det kan være privatister både i
-grunnskolen og i videregående opplæring. Definisjonen av privatist er regulert i forskrift til opplæringsloven §§ 3-10 og 4-6. I forskriftsbestemmelsene defineres privatist som en som melder seg til
-en eksamen uten å ha fulgt opplæring i faget.
-Det er kommunen som har ansvaret for å gjennomføre privatisteksamen, jf. forskrift til opplæringsloven §§ 3-28 tredje avsnitt, 3-30, 4-21, 4-22 og
-4-23. Privatister har selv ansvaret for å melde seg
-opp til eksamen, og må betale prøveavgift for privatisteksamener, jf. forskriften §§ 3-27, 4-19 andre
-avsnitt og 4-20.
-Det er bare de som oppfyller lovens vilkår for
-grunnskoleopplæring for voksne, som har rett til å
-ta privatisteksamen i grunnskolen. Dette innebærer at elever i grunnskolen verken kan ta eksamen uten å ha fulgt opplæringen eller for å forbedre karakterer i fag. I videregående opplæring
-fastsetter læreplanen for det enkelte fag rammene
-for privatisteksamen, jf. forskriften § 3-10 andre
-avsnitt.
-
-Hvilket uttrykk bør brukes?
-I opplæringsloven benevnes grunnskoleopplæring i hjemmet noe ulikt. I opplæringsloven § 2-13
-brukes uttrykkene «privat opplæring i heimen»
-og «privat grunnskoleopplæring i heimen», mens
-uttrykket «heimeopplæring» og «opplæringa for
-barn og unge som ikkje går på skole» brukes i
-opplæringsloven § 14-3. Utvalget foreslår at man
-bruker uttrykket «grunnskoleopplæring i heimen» i den nye loven.
-
-46.4.4 Utvalgets forslag
 Utvalget foreslår
-– at det fortsatt åpnes for grunnskoleopplæring i
-hjemmet, men slik at det innføres krav om forhåndsgodkjenning og at opplæringen er forsvarlig, se forslag til § 20-5
 
-46.5.2 Utvalgets vurdering
-Det er mange som av ulike årsaker velger å dokumentere kompetansen sin gjennom privatisteksamener. Etter utvalgets vurdering er det uheldig at
-ordningen kun indirekte er regulert i loven, gjennom en forskriftshjemmel. Utvalget foreslår derfor å flytte definisjonen av privatist fra forskrift og
-inn i loven. Det foreslås ingen endringer i reglene
-om privatister. Utvalget foreslår å legge reguleringen i del seks som gjelder privat opplæring og
-godkjennings- og privatistordninger. Hensikten er
-å få fram at dette ikke er en opplæringsordning.
-Utvalget foreslår at departementet skal gi forskrift
-om individuell vurdering, klage på den individuelle vurderingen og dokumentasjon i §§ 3-3 og 6-4,
-se nærmere omtale i kapittel 16.4.2. Disse hjemmelen omfatter også privatister.
+- å ikke videreføre særreguleringen om reklame i ny opplæringslov
 
-[Side 633]
+## Leirskole
 
-NOU 2019: 23
-Ny opplæringslov
+### Dagens regler
 
-46.5.3 Utvalgets forslag
+Opplæringsloven § 13-7 b lyder slik:
+
+§ 13-7 b Plikt for kommunen til å tilby leirskoleopphald eller annan skoletur
+
+Kommunen skal som ein del av grunnskoleopplæringa tilby elevane leirskoleopphald eller annan skoletur med minst tre overnattingar.
+
+Lovbestemmelsen ble innført i 2019. Bestemmelsen kom inn i loven som en oppfølging av punktet i Granavolden-plattformen om at regjeringen vil «lovfeste retten til et leirskoleopphold i løpet av grunnskolen». I plattformen er det blant annet vist til at det er lang tradisjon for å ta med elever i grunnskolen på skoleturer med overnatting, og at skoleturene er viktige, sosialt og faglig.
+
+Ifølge forarbeidene til opplæringsloven viste tall fra 2016 at ca. 20 prosent av elevene ikke fikk dra på leirskole i løpet av grunnskolen. Kunnskapsdepartementet understreker at bestemmelsen er ment som en plikt for kommunene og ikke en individuell rettighet for den enkelte elev. Det er videre understreket at kommunene kan velge hva slags tur som skal gjennomføres, og at det ikke må være en tradisjonell leirskole. Det er krav om at det er tre overnattinger sammenhengende. I begrunnelsen er det blant annet vist til at det er krav om minst tre sammenhengende overnattinger for at kommunen skal få tilskudd etter gjeldende tilskuddsordning. Kunnskapsdepartementet mener at en plikt til å tilby leirskole eller annen skoletur som en del av grunnskoleopplæringen kan dempe presset på gratisprinsippet.[^1342]
+
+Det var 57 høringsinstanser som kommenterte forslaget i høringen. Kunnskapsdepartementet har oppsummert at de fleste høringsinstansene var positive til at det blir innført en plikt til å tilby leirskole eller annen skoletur, men at det var flere innspill til innholdet i plikten. KS og enkelte kommuner var blant dem som ikke støttet forslaget. KS mener lovforslaget er en svært inngripende detaljregulering og at dette strider mot regjeringens mål om å redusere statlig detaljstyring.
+
+Læreplanene i fag, som er forskrifter, inneholder kompetansemål som også er relevante for leirskole og tilsvarende turer. Mest aktuelt er kompetansemålet etter 7. trinn i kroppsøving om at elevene skal kunne planlegge og gjennomføre en overnattingstur.
+
+### Utvalgets vurdering
+
+Overgangen fra Reform 97 til Kunnskapsløftet i 2006 innebar en dreining fra å styre aktivitetene som skulle gjennomføres, til å styre målene for opplæringen. Hensikten var å gi et større lokalt og profesjonelt handlingsrom. Et av de sentrale elementene i Kunnskapsløftet er metodefrihet, som kort fortalt innebærer at staten ikke skal styre hvordan skolene skal gjennomføre opplæringen for å kunne nå de fastsatte målene. Begrunnelsen for metodefriheten er at det finnes et bredt utvalg læremidler og undervisningsmetoder, og at profesjonelle vurderinger lokalt gir best mulighet til å gi elevene tilpasset opplæring av høy kvalitet.
+
+Etter utvalgets vurdering er en plikt til å tilby leirskole eller annen skoletur en regulering av metoden for opplæringen, noe som strider med grunntanken i Kunnskapsløftet. Utvalget mener kompetansemålene i læreplanverket er tilstrekkelige, og at disse bør være styrende for hvordan opplæringen gjennomføres. I praksis vil det være vanskelig å gi opplæring i samsvar med de ovennevnte kompetansemålene i kroppsøving uten å gjennomføre en overnatting, men dette understreker i så fall bare at den foreslåtte plikten ikke er nødvendig. For eksempel er det ikke krav i opplæringsloven om at det må gjennomføres svømmeundervisning, selv om dette åpenbart er nødvendig for at elevene skal kunne oppnå kompetansemål knyttet til svømmeferdigheter.
+
+Et krav om å tilby leirskole eller annen skoletur er etter utvalgets vurdering en unødig detaljregulering av kommunene. Det er særlig inngripende at det er fastsatt et minstekrav til antall overnattinger. Departementet har begrunnet kravet med at tre overnattinger er minstekravet for å få tilskudd etter gjeldende tilskuddsordning. Etter utvalgets vurdering er ikke dette et vektig argument for å regulere antall overnattinger. Dersom man i stedet beholder tilskuddsordningen, vil kommunen ha økonomiske insentiver til å velge turer med minst tre overnattinger. Krav om antall overnattinger bør da ikke være nødvendig.
+
+Utvalget mener at en helhetlig og prinsipiell styring av kommunene tilsier at en plikt til å tilby leirskole eller annen skoletur, ikke bør videreføres i ny opplæringslov. Subsidiært mener utvalget at kravet om minst tre overnattinger, ikke bør videreføres.
+
+### Utvalgets forslag
+
 Utvalget foreslår
-– å flytte dagens definisjon av privatist fra forskrift til lov, se forslag til § 21-1
 
-46.6 Privatister til fag- og svenneprøve
-(praksiskandidater)
-46.6.1 Dagens regler
-Praksiskandidatordningen er regulert i opplæringsloven § 3-5. Det følger av bestemmelsen at
-det er mulig å gå opp til fag- eller svenneprøven
-uten å ha fulgt opplæring i faget, dersom man kan
-vise til allsidig praksis som er 25 prosent lengre
-enn den fastsatte læretiden i faget. Bestemmelsen
-åpner for at det i særlige tilfeller kan godkjennes
-kortere praksis.
-Bestemmelsen er en videreføring av § 20 første og tredje avsnitt i fagopplæringsloven av 1980.
-Bestemmelsen muliggjør fag- og svenneprøve på
-grunnlag av lang og allsidig praksis i et fag, altså
-uten at kandidaten har gått i videregående skole
-eller hatt læretid i en bedrift. Forarbeidene til
-fagopplæringsloven § 20 sier eksplisitt at bestemmelsen er en dokumentasjonsadgang, ikke en
-opplæringsbestemmelse.23
-46.6.2 Utvalgets vurdering
-Utvalget bemerker at praksiskandidatordningen
-er en dokumentasjonsordning, ikke en opplæringsordning. Benevnelsen «praksiskandidatordningen» kan gi assosiasjoner til et opplæringsløp.
-Etter utvalgets vurdering er det mer naturlig å se
-på ordningen som en form for privatistordning. I
-likhet med privatister, kan praksiskandidatene
-framstille seg til prøven uten å ha fulgt et opplæringsløp først. Selv om det er åpenbare forskjeller
-på en privatist til eksamen og en praksiskandidat,
-mener utvalget det vil harmonere bedre med den
-alminnelige språklige forståelsen å avvikle praksiskandidatbegrepet. Utvalget foreslår å videreføre ordningen, men foreslår at benevnelsen praksisbrevkandidat erstattes av «privatist til fag- og
-svenneprøve». Utvalget foreslår at departementet
-skal gi forskrift om individuell vurdering, klage på
-den individuelle vurderingen og dokumentasjon i
-§ 6-4, se nærmere omtale i kapittel 16.4.2. Denne
-hjemmelen omfatter også privatister til fag- og
-svenneprøve.
-23
+- å ikke videreføre plikten for kommunen til å tilby leirskole eller annen skoletur i ny opplæringslov
 
-Ot.prp. nr. 31 (1992–93).
+## Praksisplasser i skolen
 
-631
+### Dagens regler
 
-Kapittel 46
+Det er fastsatt følgende i opplæringsloven § 10-7:
 
-46.6.3 Utvalgets forslag
+Departementet kan i det enkelte tilfellet​ eller i forskrifter gi pålegg om at kommunar eller fylkeskommunar skal gi studentar frå universitet og høgskolar​ praksisopplæring og rettleiing i skolen, og om val av den som skal stå for praksisopplæringa.
+
+Praksisopplæring er en obligatorisk del av lærerutdanningen. Det er derfor nødvendig med praksisplasser for studenter i grunnskoler og videregående skoler. I forarbeidene til opplæringsloven har Kunnskapsdepartementet lagt til grunn at praksisplasser i de fleste tilfeller opprettes ved avtale mellom skolen og høyskole eller universitet, og at det i den forbindelse også avtales hvem av lærerne som skal ha ansvar for praksisopplæringen.[^1343]
+
+Praksisplasser var tidligere regulert i grunnskoleloven og lov om videregående opplæring. Begrunnelsen for at bestemmelsen ble videreført i opplæringsloven, var at praksistiden er en så sentral del av lærerutdanningen at gjennomføringen av ordningen bør få hjemmel i loven.[^1344]
+
+### Utvalgets vurdering
+
+Utvalget foreslår at opplæringsloven § 10-7 om praksisplasser ikke videreføres i ny opplæringslov. Praksisopplæring er en viktig del av lærerutdanningen, men dette betyr ikke at det er nødvendig med en hjemmel for å pålegge kommunene å tilby praksisplasser til lærerstudentene.
+
+Kommuner er folkevalgte organ på lokalt og regionalt nivå som har et betydelig samfunnsansvar. Etter utvalgets vurdering må det kunne forventes at kommuner bidrar til å utdanne lærere uten at dette er en oppgave som blir pålagt dem. Kommuner er dessuten de framtidige arbeidsgiverne for de fleste lærerstudentene, og de har dermed også en egeninteresse i at det utdannes flere lærere, og at lærerstudentene får en god opplæring. Utvalget er heller ikke kjent med at hjemmelen har vært brukt.
+
+Dersom Kunnskapsdepartementet likevel vil foreslå å videreføre bestemmelsen om praksisplasser, bør det i alle fall ikke videreføres at departementet skal ha adgang til å fastsette *hvem* i skolen som skal stå for opplæringen. Et slikt pålegg vil være et uforholdsmessig inngrep i kommunens og fylkeskommunens styringsrett overfor de ansatte.
+
+### Utvalgets forslag
+
 Utvalget foreslår
-– at «privatist til fag- og svenneprøve» erstatter
-benevnelsen «praksiskandidat», se forslag til
-§ 21-2
-– språklige endringer
 
-46.7 Godkjenning av utenlandsk
-fagopplæring
-46.7.1 Dagens regler
-De følger av opplæringsloven § 3-4 a at fag- eller
-yrkesopplæring fra et annet land kan godkjennes
-som «sidestilt» med et norsk fag- eller svennebrev
-hvis opplæringen har «same nivå og omfang som
-den norske vidaregåande opplæringa, og inneheld
-mange av dei vesentlege elementa i det aktuelle
-faget». I § 3-4 a siste avsnitt er departementet gitt
-hjemmel til å gi forskrift om vilkår for godkjenning, saksbehandling og klage. Godkjenningsordningen ble innført ved lovendring i 2016.
-46.7.2 Utvalgets vurdering
-Godkjenningsordningen for utenlandsk fag- og
-yrkesopplæring er ny og har gradvis blitt utvidet
-siden oppstarten i 2016. Utvalget er kjent med at
-Nasjonalt organ for kvalitet i utdanningen
-(NOKUT), som er godkjenningsmyndigheten
-etter ordningen, har utarbeidet en rapport med de
-første erfaringene med håndheving av ordningen.
-I rapporten vises det til flere utfordringer, og
-mulige løsninger for veien videre. Noen av alternativene vil være mulige å gjennomføre uten lovendring. Eksempelvis vises det til muligheten for
-å håndtere utfordringene gjennom en forskriftsregulering av ordningen.24
-Etter utvalgets vurdering er det for tidlig å si
-hva som vil være nødvendige og hensiktsmessige
-grep for en god praktisering av ordningen. Dette
-bør være opp til departementet, i samråd med
-NOKUT og partene i arbeidslivet, å vurdere.
-Utvalget vil derfor videreføre dagens regler, inkludert en vid forskriftshjemmel.
-46.7.3 Utvalgets forslag
+- å ikke videreføre regelen om praksisplasser i ny opplæringslov
+
+## Krav om å ha skolefaglig kompetanse i administrasjonen
+
+### Dagens regler
+
+Det står i opplæringsloven § 13-1 fjerde avsnitt at kommunen «skal ha skolefagleg kompetanse i kommuneadministrasjonen over skolenivået». Hensikten med kravet er å sikre at kommuneadministrasjonen har kompetanse i skolespørsmål.[^1345] I forarbeidene er det presisert at det er et krav om realkompetanse. Kravet omfatter både kunnskap om pedagogikk og kunnskap om regelverket for skolen. Ved innføringen ble det lagt til grunn at lovkravet skulle gi rom for skjønn, og det ble ikke lagt føringer for hvordan den enkelte kommune konkret skal sikre oppfyllelse av kravet. Det stilles ikke krav om en konkret utdanning.
+
+Utdanningsdirektoratet har gitt en tolkningsuttalelse om kravet.[^1346] Blant presiseringene er at den skolefaglige kompetansefunksjonen også kan ivareta andre opplæringsrelaterte funksjoner i kommunen.
+
+### Kunnskapsgrunnlaget
+
+Innspill til utvalget
+
+Utdanningsforbundet har spilt inn at det er betydelige forskjeller i hvordan de ulike kommunene tolker hva som ligger i kravet i dagens § 13-1 fjerde avsnitt, og at dette utfordrer likeverdigheten i utdanningen.[^1347] Mangelfull skolefaglig kompetanse i kommuneadministrasjonen har ifølge Utdanningsforbundet negativ påvirkning på systematisk utviklingsarbeid, koordinering, partssamarbeid, kvalitetsvurdering, kompetanseutvikling og regelverksetterlevelse. Utdanningsforbundet anbefaler utvalget å klargjøre bestemmelsen i tråd med dagens krav om forventninger til kommunen. I tillegg mener de at kravet bør styrkes når det gjelder regelverksetterlevelse på feltet tilpasset opplæring og spesialundervisning.[^1348]
+
+KS har på sin side gitt innspill om at det bør være mulig å se på helheten i kommunen. KS viser til punkt 4 og punk 7 i veilederen om statlig styring av kommuner og fylkeskommuner,[^1349] som sier at det ikke bør innføres pålegg om bestemte måter å løse en oppgave på, og at det ikke bør gis regler om at kommunen må ansette særskilt definert personell.[^1350]
+
+Regelverk på andre områder
+
+Barnevernloven
+
+Lovens § 2-1 handler om kommunens oppgaver. Bestemmelsens fjerde og femte avsnitt lyder:
+
+I hver kommune skal det være en administrasjon med en leder som har ansvar for oppgaver etter denne loven.
+
+Administrasjonen skal utføre det daglige løpende arbeid, herunder
+
+a\) gi råd og veiledning,
+
+b\) treffe vedtak i henhold til loven, eventuelt innstille til vedtak, jf. tredje ledd,
+
+c\) forberede saker for behandling i fylkesnemnda,
+
+d\) iverksette og følge opp tiltak.
+
+Loven har for øvrig ikke kompetansekrav til ansatte i kommuneadministrasjonen eller i barneverntjenesten. I lovens § 1-4 er det slått fast at barnevernet skal yte forsvarlige tjenester og tiltak. I forarbeidene til denne bestemmelsen er det slått fast at kravet til forsvarlighet også innebærer et krav om kompetent bemanning. Blant annet er det presisert at «\[p\]ersonellet er en avgjørende ressurs for å kunne yte forsvarlige tjenester. Kommunene må ha en bemanning, kompetanse og kvalifikasjoner som er tilstrekkelig for å ivareta sine oppgaver på en forsvarlig måte».[^1351]
+
+Helse- og omsorgstjenesteloven
+
+I andre avsnitt i § 3-2 er Kongen i statsråd gitt hjemmel til å gi forskrift med «nærmere bestemmelser om krav til innhold i tjenestene etter bestemmelsen her, herunder bestemmelser om kompetansekrav for ulike typer tjenester».
+
+Det går fram av lovens § 4-1 at tjenester som tilbys eller ytes etter loven, skal være forsvarlige. Videre sier bestemmelsen at kommunen skal tilrettelegge tjenestene slik at det sikres «tilstrekkelig fagkompetanse» i tjenesten. Kongen i statsråd kan med hjemmel i bestemmelsens siste avsnitt gi forskriftsbestemmelser om kommunens plikt til å sikre tilstrekkelig fagkompetanse.
+
+Det er per i dag ikke gitt forskriftsregler om kompetansekrav med hjemmel i § 3-2. Heller ikke forskriftshjemmelen i § 4-1 er tatt i bruk.
+
+Helsepersonelloven gjelder tilsvarende for dem som yter helse- og omsorgstjenester, jf. lovens § 2-1. Helsepersonell er underlagt ulike autorisasjons-, lisens- og godkjenningsordninger som innebærer kompetansekrav mv.
+
+### Utvalgets vurdering
+
+Både barnevernloven og helse- og omsorgstjenesteloven stiller kompetansekrav til tjenesten på ulike måter. Det er derimot bare for skolesektoren at det stilles krav om å ha en konkret type kompetanse i kommunens administrasjon. Dagens regulering for skolesektoren skiller seg dermed fra reguleringen av de andre sentrale tjenesteområdene i kommunen.
+
+Dagens krav om å ha skolefaglig kompetanse gir stort rom for lokalt skjønn. Det stilles ikke konkrete krav til nivå eller omfang av kompetansen. Det stilles heller ikke konkrete krav til stillingens størrelse eller innplassering i organisasjonen. Utvalget er kjent med at kravet mange steder i praksis oppfylles ved at en rektor i tillegg innehar funksjonen som skolefaglig kompetanse i kommunens administrasjon.
+
+Etter utvalgets vurdering kan det stilles spørsmål ved om det er nyttig og hensiktsmessig med et så vidt og skjønnsmessig kompetansekrav. Samtidig mener utvalget at det er både nødvendig og viktig at kommunene har kompetanse på skolefeltet. Utvalget vil stille de samme forventningene og kravene til alle kommuner uavhengig av størrelse. For mange kommuner vil det være naturlig å ha skolefaglig kompetanse i administrasjonen – uavhengig av hvilke krav loven stiller. For andre kommuner kan en fjerning av kravet derimot oppfattes som at skolefaglig kompetanse er mindre viktig sammenlignet med andre sentrale tjenesteområder hvor det stilles kompetansekrav i ulike former. Utvalget vil derfor videreføre dagens krav. Det legges til grunn at kommunene ønsker å yte gode tjenester, og at vurdering av kompetanse og ressurser er en sentral del av dette arbeidet. Utvalget mener at det derfor ikke er nødvendig å konkretisere kravet ytterligere. Etter utvalgets vurdering bør departementet likevel vurdere om det er hensiktsmessig å videreføre dette kravet i den nye loven.
+
+I dag gjelder kravet om skolefaglig kompetanse bare for kommunene. Etter utvalgets vurdering er behovet for denne typen kompetanse også nødvendig for fylkeskommunene. Per i dag har alle fylkeskommunene fylkesutdanningssjefer, det vil si at fylkeskommunene allerede oppfyller kravet om å ha skolefaglig kompetanse. Etter utvalgets vurdering er det likevel en verdi å signalisere at behovet for kompetanse er like sentralt i videregående opplæring som i grunnskolen. Utvalget foreslår derfor at kravet om å ha skolefaglig kompetanse i administrasjonen også skal gjelde for fylkeskommunene.
+
+### Utvalgets forslag
+
 Utvalget foreslår
-– å videreføre godkjenningsordningen for utenlandsk fagopplæring, se forslag til § 21-3
-24
-
-NOKUT, 2019.
-
-[Side 634]
-
-632
-
-NOU 2019: 23
-
-Kapittel 47
-
-Ny opplæringslov
-
-Kapittel 47
-
-Statlig oppnevnte råd, utvalg, klagenemnder og
-læreplangrupper
-
-Figur 47.1
-
-47.1 Innledning
-I opplæringsloven er det fastsatt en plikt for staten
-til å etablere flere organer som skal hjelpe departementet med å utføre sine oppgaver på en best
-mulig måte. Felles for disse organene er at de har
-en rådgivende rolle overfor staten. De rådgivende
-organene er
-– Foreldreutvalget for grunnopplæringen (FUG)
-– Samarbeidsrådet for yrkesopplæring (SRY)
-– faglige råd
-– læreplangrupper for fag med opplæring i
-bedrift
-Med unntak av FUG, som er regulert i opplæringsloven § 11-9, er de andre rådene og gruppene
-regulert i kapittel 12. Dette kapitlet handler også
-om klagenemnder for fag- og svenneprøver og
-plikten til å være medlem av enkelte organer, råd
-og nemnder. Andre nemnder som er regulert i
-kapittel 12, det vil si yrkesopplæringsnemnda og
-prøvenemnder, omtales i kapittel 29.
-
-47.2 Dagens regler
-47.2.1 Norges folkerettslige forpliktelser
-Norge har ratifisert konvensjon om yrkesrettleiing og yrkesopplæring som ledd i utviklingen av
-menneskelige ressurser – ILO-konvensjon nr. 142.
-I artikkel 5 i denne konvensjonen framkommer
-følgende:
-
-Politikk, retningslinjer og tiltak for yrkesrettleiing og yrkesopplæring skal utformes og gjennomføres i samarbeid med arbeidstakernes og
-arbeidsgivernes organisasjoner, og med andre
-interesserte organisasjoner når det høver og er
-i samsvar med nasjonal lov og praksis.
-
-47.2.2 Opplæringsloven og forskrift til
-opplæringsloven
-Foreldreutvalget for grunnopplæringen
-Foreldreutvalget for grunnopplæringen (FUG) er
-omhandlet i opplæringsloven § 11-9. Her er det
-fastsatt følgende:
-Kongen i statsråd nemner opp Foreldreutvalet
-for grunnopplæringa. Utvalet skal ha leiar,
-nestleiar og fem andre medlemmer. Funksjonstida er fire år. Departementet gir nærmare forskrifter om omfanget av og innhaldet i arbeidet
-til Foreldreutvalet.
-I forskrift til opplæringsloven § 20-2 er det presisert at FUG er et selvstendig rådgivende organ
-som omfatter grunnskolen og Vg1. Det er videre
-fastsatt at FUG skal arbeide for godt samarbeid
-mellom skole og hjem, og at utvalget skal ivareta
-foreldrenes interesser. Det er ingen lokale foreldreråd eller organisasjoner som er medlem av
-FUG.
-Foreldreutvalget for barnehagen (FUB) er
-ikke regulert i barnehageloven eller annet regelverk.
-
-[Side 635]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Samarbeidsrådet for yrkesopplæring (SRY)
-Ifølge opplæringsloven § 12-1 skal departementet
-oppnevne et organ for samarbeid om fag- og
-yrkesopplæringen. Dette organet, som har fått
-navnet Samarbeidsrådet for yrkesopplæring
-(SRY), skal gi departementet råd og ta initiativ for
-å fremme fag- og yrkesopplæringen. SRY skal ha
-representanter for både partene i arbeidslivet og
-departementet. Sammensetningen og oppgavene
-til SRY fastsettes av departementet.
-Faglige råd
-Departementet skal også oppnevne faglige råd for
-fag eller fagområder som kan ha læretid i bedrift.1
-Dette følger av opplæringsloven § 12-2. I bestemmelsen er det fastsatt at departementet «avgjer
-etter framlegg frå organet for samarbeid om fagog yrkesopplæringa kva for faglege råd som skal
-skipast, storleiken på råda, kva for fagleg felt det
-enkelte rådet skal dekkje og reglement for oppgåvene til råda».
-Læreplangrupper
-I opplæringsloven § 12-5 første avsnitt er det fastsatt at departementet skal oppnevne læreplangrupper i fag eller på arbeidsområder som
-har læretid i bedrift.2 Av andre avsnitt i bestemmelsen framgår det at departementet skal sørge
-for at både arbeidslivet og skolesiden får ta del i
-arbeidet med nye læreplanene.
-Departementet er ikke forpliktet til å oppnevne læreplangrupper for fag i grunnskolen eller
-for fag i videregående opplæring som ikke har
-opplæring i bedrift.
-Klagenemnder
-I opplæringsloven § 12-6 står det at departementet
-skal oppnevne klagenemnder som er klageinstans
-for klager på vedtak om ikke bestått fag- eller
-svenneprøve.3 Bestemmelsen omfatter ikke klage
-på fag- eller svenneprøven som er begrunnet med
-formelle feil eller andre ikke-faglige forhold, eller
-1
-
-2
-
-3
-
-Kunnskapsdepartementet har gitt Utdanningsdirektoratet
-myndighet til å oppnevne faglige råd, jf. brev datert
-08.11.2007.
-Kunnskapsdepartementet har gitt Utdanningsdirektoratet
-myndighet til å oppnevne læreplangrupper, jf. brev datert
-13.09.2013.
-Kunnskapsdepartementet har gitt Utdanningsdirektoratet
-myndighet til å oppnevne klagenemnder, jf. brev datert
-13.09.2013.
-
-633
-
-Kapittel 47
-
-klage på praksisbrevprøver eller kompetanseprøver (for lærekandidater). For slike klager er fylkestinget eller den fylkestinget bestemmer, klageinstans, jf. forskrift til opplæringsloven § 5-14.
-I opplæringsloven § 12-6 er det videre fastsatt
-krav til antallet medlemmer og kompetansen til
-klagenemnda samt at det faglige rådet skal gi innstilling før oppnevningen.
-I opplæringsloven § 3-4 første avsnitt er departementet gitt hjemmel til å gi forskrift om vurdering av elever, lærlinger, praksisbrevkandidater,
-lærekandidater, privatister og praksiskandidater
-og om klage på vurderingen, om eksamen, om
-fag- og svenneprøve, om praksisbrevprøve og om
-dokumentasjon. Slik forskrift er fastsatt i forskrift
-til opplæringsloven kapittel 5 om klage på vurdering. Her er det gitt bestemmelser om klagenemnder på en rekke områder.
-Plikt til å være medlem av organer, råd og nemnder
-I opplæringsloven § 12-7 er det fastsatt plikt til å
-stille som medlem i blant annet SRY, faglige råd
-og klagenemnder. Plikten omfatter ikke personer
-som har fylt 60 år. Videre kan medlemmer kreve
-seg fritatt for ny oppnevning i like lang tid som de
-har gjort sammenhengende tjeneste. Opplæringsloven inneholder ingen sanksjonsmidler overfor
-personer som nekter å stille som medlem. Det er
-frivillig deltakelse i FUG og i læreplangruppene.
-
-47.3 Kunnskapsgrunnlaget
-47.3.1 Rapporter og utredninger
-Partene i arbeidslivet har vært kritiske til den stadig minkende innflytelsen de opplever å ha på innholdet og strukturen i fag- og yrkesopplæringen. I
-2015 ble det på initiativ fra partene satt i gang et
-pilotprosjekt der partene skulle få større innflytelse på endringer i læreplanene på Vg3/opplæring i bedrift. I sitt nye mandat fikk de faglige
-rådene i 2017 gjennomslag for ønsket om å ha
-avgjørende innflytelse på det faglige innholdet i
-læreplanene på Vg3. Dette innebærer at myndighetene skal legge til rette for å iverksette forslag
-til endringer i læreplaner dersom de ikke er i strid
-med opplæringsloven eller forskriften, ikke har
-større økonomiske konsekvenser og ikke har
-vesentlige konsekvenser for innhold i eller struktur på Vg1 og Vg2. Partene har dermed fått gjennomslag for et viktig prinsipp for styringen av innholdet i opplæringen, selv om den formelle vedtaksmyndigheten fortsatt ligger hos myndighetene.4
-
-[Side 636]
-
-634
-
-Kapittel 47
-
-NOU 2019: 23
-Ny opplæringslov
-
-47.3.2 Regelverk på andre områder
-Her gis det en kort omtale av noen av rådene og
-nemndene på helse- og barnerettsområdet.
-Bioteknologirådet er et frittstående, rådgivende organ som er oppnevnt av regjeringen og
-hjemlet i genteknologiloven og i bioteknologiloven. Rådet har 15 medlemmer og 5 varamedlemmer. I tillegg innkalles observatører fra seks
-departementer til møtene. Sekretariatet har sju
-årsverk.5
-Blant de andre rådene på helseområdet er
-Nasjonalt råd for ernæring, Fagråd for sosial ulikhet i helse og Råd for et aldersvennlig Norge.
-Disse rådene er ikke lovpålagt.
-Det følger av adopsjonsloven § 42 at departementet oppnevner det faglig rådgivende utvalget
-for adopsjonssaker. Det faglig rådgivende utvalget
-for adopsjonssaker skal bistå adopsjonsmyndigheten i vurderingen av søknader om adopsjon av
-spedbarn etter adopsjonsloven § 14 og tildelinger
-av barn fra utlandet etter adopsjonsloven § 22.
-47.3.3 Regelverk i andre land
-Verken Sverige, Danmark eller Finland har et råd
-tilsvarende Foreldreutvalget for grunnopplæringen, det vil si et råd som ikke er basert på medlemskap. Rådene i disse landene er heller ikke
-regulert i lov eller forskrift. Föräldraalliansen Sverige er et riksforbund som har både foreldre og
-foreldreråd/foreldreforeninger på skoler som
-medlemmer. Folkeskoler i Danmark kan melde
-seg inn i Forældreorganisationen Skole og Forældre. Beslutningen om medlemskap tas av skolestyret. Förbundet Hem och Skola i Finland er en
-medlemsorganisasjon for svenskspråklige foreldreforeninger ved barnehager, grunnskoler og
-gymnaser.
-I Finland og Sverige er yrkesopplæringen i
-stor grad basert på opplæring i skole. I Norge har
-vi som kjent en kombinasjon av skole og opplæring i bedrift, mens i Danmark skjer det meste i
-arbeidslivet. I Danmark styres de mer enn 100
-yrkesutdanningene av hvert sitt faglige utvalg,
-som er sammensatt av arbeidsgivere og arbeidstakere. De faglige utvalgene bestemmer blant annet
-utdanningens varighet, struktur og kompetansemål. Rammene fylles ut lokalt av skolene i samarbeid med det lokale utdanningsutvalget for den
-enkelte utdanning.6
-
-47.3.4 Innspill til utvalget
-Referansegruppen
-Foreldreutvalget for grunnopplæringen (FUG)
-foreslår at det lovfestes en direkte kobling mellom
-FUG og foreldrerådets arbeidsutvalg (FAU). FUG
-viser til at kontakten i dag går gjennom rektor, og
-at dette er en utfordring i informasjonsarbeidet og
-for å kunne få tilbakemeldinger.7 Leder i FUG har,
-sammen med tre tidligere ledere i FUG, sendt en
-bekymringsmelding til utvalget. De mener at det
-er betimelig å stille spørsmål ved om FUG har den
-frihet og selvstendighet som ble vektlagt i Stortingets behandling på slutten av 1990-tallet, og om
-norske foreldres rettigheter nå kan ivaretas på en
-forsvarlig måte slik Stortinget ønsket og vedtok.8
-Utdanningsforbundet har gitt innspill om det
-nasjonale partssystemet, se kapittel 29.3.3.
-Andre
-SRY mener at de råd, nemnder, utvalg og grupper
-som er omtalt i kapittel 12 i opplæringsloven, er
-bærebjelkene i trepartssamarbeidet, og fortsatt
-må reguleres i opplæringsloven. Dersom trepartssamarbeidet ikke reguleres i opplæringsloven,
-mener rådet at det kan være fare for at samarbeidet forvitrer, eller at det oppstår strid om hvilke
-parter som er omfattet, og hvilke saker myndighetene må drøfte med partene. SRY mener videre at
-Norges tilslutning til ILO-konvensjon nr. 142 skal
-synliggjøres i opplæringsloven.9
-NHO-fellesskapet mener det er svært viktig at
-partsorganene i fag- og yrkesopplæringen er lovregulert. Det gir forankring og legitimitet, og det
-bidrar til at partene i arbeidslivet kan være med på
-å beslutte innholdet i lærefagene og påvirke den
-generelle forvaltningen og utviklingen av yrkesfagene, noe som de mener er nødvendig for å gi
-gode politiske prosesser. NHO-fellesskapet mener
-videre at lovhjemmelen for partsorganene også
-følger av ILO-konvensjonen nr. 142, som Norge
-har ratifisert.10
-Faglig råd for elektrofag frykter at flere av
-disse meget viktige samarbeidsarenaene i beste
-fall forringes hvis de fjernes fra regulering i lov og
-forskrift. I verste fall vil de bli fjernet og erstattet
-av ordninger hvor partssamarbeidet ikke er fungerende. Dette vil gå ut over den faglige kvaliteten
-7
-8
-
-4
-5
-6
-
-NOU 2018: 15, kap. 10.2.2.
-Bioteknologirådet, 2018.
-Børne- og Undervisningsministeriet, 2019c.
-
-9
-10
-
-FUG, 2018c.
-Leder av FUG, innspill til utvalget.
-Samarbeidsrådet for yrkesopplæring (SRY), innspill til
-utvalget.
-NHO-fellesskapet, innspill til utvalget.
-
-[Side 637]
-
-NOU 2019: 23
-Ny opplæringslov
-
-og gjennomføringen av opplæringen av fagarbeidere.11
-
-47.4 Utvalgets vurdering
-47.4.1 Innledning
-I opplæringsloven er departementet pålagt å oppnevne en rekke organer, råd og utvalg. Spørsmålet
-for utvalget er ikke om disse skal videreføres eller
-ikke, men om disse skal reguleres i regelverket,
-og i tilfelle hvordan. Dersom Stortinget vil forplikte regjeringen, kan dette være et argument for
-lovregulering. På den annen side vil det trolig
-være liten risiko for at regjeringen vil legge ned
-organer som er viktige for utviklingen av et
-område. Stortinget kan dessuten styre regjeringen gjennom budsjetter. Når det gjelder fag- og
-yrkesopplæringen, viser utvalget også til forpliktelsene i ILO-konvensjonen.
-47.4.2 Plikt til å ta imot verv i råd, utvalg eller
-nemnd
-Plikt til å påta seg verv i råd og nemnder for
-fagopplæring i bedrift er regulert i § 12-7. Lovpålagt plikt til å påta seg verv i et organ kan være en
-sterk inngripen i den enkeltes privatliv, og krever
-en særskilt begrunnelse, jf. Grunnloven § 102.
-For de statlige organene, rådene og nemndene, er § 12-7 i hovedsak en videreføring av lov
-om fagopplæring § 9. I NOU 1995: 18 Ny lovgivning om opplæring ble det anbefalt at plikten til å
-ta imot oppnevning som medlem av Rådet for
-fagopplæring, opplæringsrådene og statlige nemnder for lærlingvurdering (fag- og svenneprøver)
-fremdeles bør framgå av loven. Det ble vist til at
-det for disse ikke er generelle lovbestemmelser å
-falle tilbake på.12 Da bestemmelsen i 2004 ble
-endret til også å omfatte Samarbeidsrådet for
-yrkesopplæring (SRY) og de faglige rådene, kan
-ikke utvalget se at ble gitt en begrunnelse for
-hvorfor det var behov for å ha en plikt til å ta imot
-disse vervene.13
-Både domstolloven, valgloven og kommuneloven har regler om såkalte ombudsplikter. Ombudsplikten innebærer både en plikt til å stille til valg
-dersom man blir ført opp på en liste, og en plikt og
-rett til å ta på seg verv dersom man blir valgt, og til
-å fungere i vervet i perioden man er valgt for. Det
-er særlig tre hensyn som har begrunnet ombuds11
-
-Faglig råd for elektrofag, innspill til utvalget.
-Kap. 32.3.7.
-13
-Ot.prp. nr. 55 (2003–2004), kap. 2.
-
-635
-
-Kapittel 47
-
-plikten: samfunnsplikthensynet, demokratihensynet og rekrutteringshensynet.14
-Etter valgloven § 3-4 kan en person kreve seg
-fritatt fra valg til fylkesting og kommunestyre ved
-å avgi skriftlig erklæring om at vedkommende
-ikke ønsker å stille til valg på den aktuelle valglisten. I kommuneloven § 7-2 er det fastsatt at en person bare er valgbar og plikter å ta imot valg, hvis
-flere vilkår er oppfylt, blant annet at vedkommende har gitt skriftlig samtykke. I og med at det
-kreves samtykke i forkant, vil det ikke lenger foreligge en reell plikt etter kommuneloven.
-Både samfunnsplikthensynet og rekrutteringshensynet kan tilsi at opplæringsloven bør ha
-regler om plikt til å ta imot verv. På den annen
-side mener utvalget at dersom det er problematisk å rekruttere personer til SRY, de faglige
-rådene og prøve- og klagenemnder, bør man
-bruke andre virkemidler enn tvang. Det kan også
-stilles spørsmål ved om det er hensiktsmessig å
-oppnevne SRY og de faglige rådene dersom partene ikke ønsker å stille med medlemmer. Når det
-gjelder oppgavene til prøve- og klagenemndene
-som er omhandlet i kapittel 12, mener utvalget at
-disse medlemmenes oppgaver til en viss grad kan
-sammenlignes med dem som rekrutteres til læreplangruppene, de andre statlige klagenemndene,
-og dem som påtar seg å sensurere sentralt gitt
-eksamen. For de sistnevnte, er oppgaven frivillig.
-Det bør foreligge særlig tungtveiende hensyn
-for å pålegge privatpersoner en plikt til å påta seg
-verv. Utvalget mener at deltakelse i de organene
-som opplæringsloven nevner, ikke kan sies å være
-begrunnet i slike tungtveiende hensyn. Utvalget
-er heller ikke kjent med sammenlignbare bestemmelser i øvrig lovgivning. Statlige myndigheter
-bør heller ta i bruk andre virkemidler enn tvang
-for å sikre rekruttering. Utvalget foreslår derfor at
-plikten til å ta imot verv i råd, utvalg eller nemnd i
-§ 12-7 ikke videreføres i den nye loven.
-
-47.4.3 Møteplikt og rett til ulønnet permisjon
-Det følger av arbeidsmiljøloven § 12-13 at
-«[a]rbeidstaker har rett til permisjon fra arbeid i
-det omfang det er nødvendig for å oppfylle lovbestemt møteplikt i offentlige organer». Om det er
-snakk om en lovbestemt møteplikt, må avgjøres
-konkret ut fra hvilket offentlig organ det gjelder.
-Normalt vil det omfatte alle representanter og
-vararepresentanter til statlige, fylkeskommunale
-og kommunale verv, styrer, råd, nemnder og
-utvalg opprettet etter eller i medhold av lov.15
-
-12
-
-14
-
-NOU 2016: 4, kap. 12.3.1.
-
-[Side 638]
-
-636
-
-Kapittel 47
-
-NOU 2019: 23
-Ny opplæringslov
-
-Utvalget legger til grunn at det må foreligge en
-faktisk møteplikt (eller særlige regler for forfall).
-Retten til permisjon fra arbeid kan være et
-argument for å regelfeste utvalg, råd og nemnder.
-Utvalget legger til grunn at permisjon fra
-arbeidet ikke skaper utfordringer når det gjelder
-møter i SRY, og trolig heller ikke de faglige
-rådene. Her møter personer i kraft av sine stillinger eller verv, for eksempel i NHO, LO, Utdanningsforbundet, Elevorganisasjonen og KS.
-I Foreldreutvalget for grunnopplæringen
-(FUG) og Foreldreutvalget for barnehagen (FUB)
-er det ingen som møter i kraft av sine stillinger
-eller verv. I motsetning til FUG er ikke FUB lovregulert. Etter det utvalget kjenner til har det ikke
-vært utfordringer for medlemmer av verken FUG
-eller FUB med å få permisjon fra arbeidet for å
-skjøtte vervet.
-I klagenemndene etter § 12-6, som har tre medlemmer hver, møter representanter for arbeidsgiver, arbeidstaker og staten. Utdanningsdirektoratet har opplyst at de travleste nemndene har møter
-om lag én gang i måneden, mens de andre nemndene har møter langt sjeldnere. Ifølge Utdanningsdirektoratet gjennomføres møtene ofte per telefon
-eller Skype.16 Slik utvalget ser det, er det ikke
-behov for å regelfeste disse klagenemndene for å
-sikre at medlemmene kan skjøtte sine verv.
-Utvalget kan ikke se at det er behov for å
-regelfeste utvalg, råd og nemnder for å sikre medlemmene permisjon fra arbeidet.
-
-47.4.4 Foreldreutvalget for
-grunnopplæringen
-Foreldreutvalget for grunnopplæringen (FUG) er
-et viktig organ både for foreldrene, for foreldrerådene og for Kunnskapsdepartementet. FUG styres gjennom opplæringsloven § 11-9, forskrift til
-opplæringsloven § 20-2, budsjett og tildelingsbrev
-fra Kunnskapsdepartementet. Stortinget har tidligere lagt til grunn at FUG både er et rådgivende
-organ for departementet og en aktiv støtte for det
-lokale foreldrearbeidet og for enkeltforeldre.
-Videre understreket Stortinget betydningen av
-FUG som et uavhengig og selvstendig organ, og
-mente at FUG best kan ivareta disse funksjonene
-ved at sekretariatet til FUG organisatorisk blir
-skilt fra departementet som et eget forvaltningsorgan og at representanter til FUG oppnevnes av
-Kongen i statsråd.17
-15
-
-Compendia 24, u.å.
-Utdanningsdirektoratet, e-post datert 28. oktober 2019.
-17
-Innst. S. nr. 117 (1997–98), kap. 2.
-16
-
-Utvalget legger til grunn at budsjettet og tildelingsbrevet er mer styrende for aktiviteten i FUG
-enn loven og forskriften. Etter hva utvalget kjenner til, har heller ikke Foreldreutvalget for barnehagen (FUB) dårligere rammevilkår enn FUG
-som følge av at FUB ikke er regelstyrt. Utvalgene
-har blant annet felles tildelingsbrev, budsjett og
-sekretariat.
-Utvalget har derfor kommet til at det ikke er
-nødvendig å regulere FUG i den nye loven.
-FUG har foreslått for utvalget at det lovfestes
-en direkte kobling mellom FUG og foreldrerådets
-arbeidsutvalg (FAU). Siden utvalget ikke foreslår
-å videreføre dagens § 11-9, har ikke utvalget gått
-nærmere inn på dette forslaget.
-
-47.4.5 Samarbeidsrådet for
-yrkesopplæringen (SRY) og faglige råd
-Departementet oppnevner Samarbeidsrådet for
-yrkesopplæringen (SRY) og faglige råd, jf. opplæringsloven §§ 12-1 og 12-2.
-Utvalget har mottatt flere innspill, blant annet
-fra SRY, om at det er avgjørende at organene knyttet til fagopplæring i bedrift reguleres i den nye
-loven. Dette begrunnes blant annet med at det er
-fare for at samarbeidet forvitrer, eller at det oppstår strid om hvilke parter som er omfattet og
-hvilke saker myndighetene må drøfte med partene, dersom trepartssamarbeidet ikke reguleres i
-opplæringsloven.
-Utvalget er ikke enig i at det er avgjørende for
-trepartssamarbeidet at organene reguleres i den
-nye loven, men mener derimot at arbeidslivspartenes medvirkning er en forutsetning for at
-systemet for videregående opplæring i bedrift skal
-fungere etter sin hensikt. Det er først og fremst
-partene som kan motivere bedriftene til å motta
-lærlinger. Arbeidslivspartene har også i særlig
-grad kunnskap om arbeidslivets behov for yrkeskompetanse. Det er derfor viktig for statlige
-myndigheter å få innspill til endringer og lytte til
-partene når rammene for opplæringen skal fastsettes i lov og forskrift, inkludert læreplaner for
-fag og tilbudsstrukturen. Statlige utdanningsmyndigheter er dessuten forpliktet av ILO-konvensjonen art. 5 til å utforme og gjennomføre politikk, retningslinjer og tiltak for yrkesveiledning og
-yrkesopplæring i samarbeid med arbeidstakernes
-og arbeidsgivernes organisasjoner.
-Utvalget mener derfor at det ikke er nødvendig å regulere SRY og de faglige rådene i loven for
-å sikre dem gode rammevilkår. Slik utvalget ser
-det, er dette heller ikke et krav etter folkeretten.
-Mer styrende for SRY og de faglige rådene er tro-
-
-[Side 639]
-
-NOU 2019: 23
-Ny opplæringslov
-
-lig at de brukes med klokskap og at de ellers har
-gode rammevilkår, blant annet et kompetent
-sekretariat med tilstrekkelige ressurser. Utvalget
-foreslår derfor at opplæringsloven §§ 12-1 og 12-2
-ikke videreføres i den nye loven.
-Stortinget har påpekt at det «lett skapes uryddige forhold om et rådgivende organ hvor departementet selv deltar, gir råd til seg selv».18 Utvalget er enig i dette, og mener at det bør vurderes
-om det er hensiktsmessig at departementet fortsatt deltar som representant i SRY. Et alternativ er
-at departementet deltar i rådet som observatør
-med talerett.
-
-47.4.6 Læreplanarbeid
-Læreplanverket for Kunnskapsløftet, inkludert
-læreplaner for fag, er sentrale rammer for opplæringen, se kapittel 16. I opplæringsloven § 12-5 er
-det et krav om at departementet oppnevner læreplangrupper «i fag eller arbeidsområde som har
-læretid i bedrift». Disse gruppene skal hjelpe til i
-arbeidet med å fastsette innholdet i opplæringen.
-Det er også fastsatt at både arbeidslivet og skolesiden skal få ta del i arbeidet med nye læreplaner.
-Det er ikke lovfestede krav om læreplangrupper når det skal utarbeides andre læreplaner, for
-eksempel i norsk. Erfaring viser likevel at Utdanningsdirektoratet etablerer læreplangrupper når
-det skal utvikles nye læreplaner eller når læreplaner skal revideres.19
-Det er videre bestemt at de faglige rådene skal
-ha avgjørende innflytelse på det faglige innholdet i
-læreplaner på Vg3, og myndighetene skal legge
-særlig stor vekt på forslag fra de faglige rådene
-om endringer i tilbudsstrukturen på Vg3. For
-endringer på Vg3 skal de faglige rådene også
-kunne delta i flere deler av saksforberedelsen.20
-Det betyr, slik utvalget ser det, at departementet
-har gitt disse rådene større faglig innflytelse enn
-det som framgår av regelverket.
-Utvalget legger til grunn at det er innarbeidet
-praksis at statlige myndigheter oppnevner læreplangrupper – også der loven ikke krever det i dag.
-18
-
-NOU 1995: 18, kap. 32.3.6, hvor det vises til Innst. O. nr. 80
-1992–93, s. 16.
-19
-Utdanningsdirektoratet, 2018b.
-20
-Utdanningsdirektoratet, 2017e.
-
-637
-
-Kapittel 47
-
-Utvalget mener derfor at det er unødvendig å ha
-regler i loven om hvordan statsforvaltningen skal
-utarbeide læreplaner for fag. Utvalget foreslår derfor at opplæringsloven § 12-5 ikke videreføres.
-
-47.4.7 Klagenemnd for ikke bestått fag- og
-svenneprøve
-Utvalget mener at klagenemnd for ikke bestått
-fag- og svenneprøve ikke bør reguleres i den nye
-loven. Denne klagenemnda er i dag delvis regulert i opplæringsloven § 12-6 og delvis i forskrift til
-opplæringsloven kapittel 5 med hjemmel i opplæringsloven § 3-4 første avsnitt. Utvalget mener at
-dette fører til et unødvendig fragmentert regelverk. Det er også uheldig at én type klagenemnd
-er regulert i loven, mens de andre klagenemndene er regulert i forskrift.
-Utvalget foreslår ikke å videreføre § 12-6 i den
-nye loven. Departementets hjemmel til å gi forskrift om klage på vurdering, inkludert fag- og
-svenneprøve, er foreslått videreført i § 6-4. Utvalget legger til grunn at det fortsatt er hensiktsmessig og ønskelig at de faglige rådene foreslår hvem
-som bør være medlemmer av klagenemndene for
-ikke bestått fag- og svenneprøve. Utvalget vil også
-presisere at forslaget heller skal forstås slik at det
-er ønskelig med andre realitetsendringer, for
-eksempel en annen sammensetning av nemndene. Dette har ikke utvalget vurdert.
-
-47.5 Utvalgets forslag
+
+- å videreføre kravet om å ha skolefaglig kompetanse i administrasjonen, se forslag til § 22-9 andre avsnitt
+
+- at kravet om å ha skolefaglig kompetanse skal gjelde for både kommunen og fylkeskommunen
+
+## Forsøk
+
+### Dagens regler
+
+Opplæringsloven og forskrift til opplæringsloven
+
+Opplæringsloven § 1-5 gir Kunnskapsdepartementet mulighet til å innvilge forsøk:
+
+Departementet kan etter søknad frå kommunen eller fylkeskommunen gi løyve til at det blir gjort avvik frå lova og forskriftene etter lova i samband med tidsavgrensa pedagogiske eller organisatoriske forsøk.
+
+Bestemmelsen kom inn i loven i 1999, etter initiativ fra utdanningskomiteen i Stortinget, jf. Innst. O. nr. 70 (1997–98). Det framgår av innstillingen at formålet med bestemmelsen er å legge til rette for skoleutvikling og å gi kommuner mulighet til å prøve ut nye pedagogiske og organisatoriske løsninger. Ettersom bestemmelsen kom inn i loven uten ordinær proposisjon fra departementet, er det ingen forarbeider som gir ytterligere beskrivelser av bestemmelsen. Det er heller ikke forskrifter knyttet til bestemmelsen, noe det heller ikke er åpnet for.
+
+Bestemmelsen angir at forsøk kan innvilges «etter søknad frå kommunen eller fylkeskommunen». I praksis er bestemmelsen forstått som en hjemmel for både lokalt og sentralt initierte forsøk. Ved sentralt initierte forsøk inviteres kommuner til å delta i forsøk som er utviklet og evaluert sentralt. Bestemmelsen gir ikke hjemmel for å pålegge kommuner eller fylkeskommuner å delta i statlige utprøvinger eller lignende som krever unntak fra gjeldende regelverk.
+
+Etter sin ordlyd gjelder forsøkshjemmelen alle bestemmelsene i opplæringsloven og forskriftsbestemmelsene som er gitt med hjemmel i opplæringsloven. Det er ikke presisert hva som ligger i «pedagogisk eller organisatorisk». Det er heller ikke nærmere presisert hva som legges i kravet om at forsøket må være «tidsavgrensa».
+
+Utdanningsdirektoratet har fått delegert myndigheten til å vurdere søknader om forsøk. I direktoratets rundskriv 3-2013 er det gitt rammer for innvilgelse av forsøk med hjemmel i opplæringsloven § 1-5. Rundskrivet presiserer at hensikten med et forsøk må være å finne ut hva man selv og andre kan lære ved å prøve ut alternative ordninger på det aktuelle området. Det må videre være rimelig grunn til å anta at forsøket totalt sett vil kunne føre til en opplæring som er bedre for elevene. Videre presiseres det at det ikke vil bli innvilget forsøk som kan innebære inngrep i enkeltindividers grunnleggende rettigheter og plikter, eller som vil kunne stride mot Norges folkerettslige forpliktelser.[^1352]
+
+Rundskriv Udir-3-2013 lister opp flere krav til søknaden. Søknaden må angi hva som er målet med forsøket og hvilket avvik fra regelverket som er nødvendig. Det må også framgå at forsøket er drøftet med berørte grupper, som lærerorganisasjonene på skolen og skoleeiernivået, og hva disse aktørene mener om det. Det må også foreligge en plan for evaluering av forsøket.
+
+Bestemmelsen gir ingen rett til å få innvilget forsøk, jf. ordlyden «kan \[…\] gi løyve». I et fra det mindre til det mer-perspektiv kan det derfor oppstilles flere vilkår for godkjenning av et forsøk enn det som framgår av lovbestemmelsen.
+
+Andre lover
+
+Forsøksloven
+
+Forsøksloven gjelder for forsøk i statlig, fylkeskommunal og kommunal forvaltning. Loven er en permanent hjemmelslov for forsøk med regelverksavvik. Lovens § 1 angir positivt hvilke formål som skal fremmes gjennom forsøksvirksomheten. Loven skal blant annet utvikle funksjonelle og effektive organisasjons- og driftsformer i den offentlige forvaltning og hensiktsmessig oppgavefordeling mellom forvaltningsorganer og mellom forvaltningsnivåer. Målet er å forbedre den offentlige tjenesteyting overfor borgerne og oppnå best mulig ressursutnyttelse.
+
+I forsøkslovens § 4 finnes flere begrensninger i adgangen til å drive forsøk. Blant annet vil det ikke bli godkjent forsøk dersom det avviker fra kommunelovens grunnleggende bestemmelser om organisering av virksomheten i kommuner, forvaltningslovens saksbehandlingsregler og andre saksbehandlingsregler som er gitt av hensyn til enkeltpersoners rettssikkerhet.
+
+I forarbeidene til forsøksloven stilles det ytterligere vilkår. I merknadene til § 3 er det presisert at det i utgangspunktet ikke godkjennes forsøk for mer enn fire år, med mulighet for forlengelse med inntil to år. Videre skisserer forarbeidene flere vilkår tilsvarende vilkårene som finnes i Utdanningsdirektoratets rundskriv 3-2013. Blant annet er det en forutsetning at forsøksvirksomheten er forsvarlig og faglig vel underbygd. Videre må det gjøres rede for hvorfor og hvordan det omsøkte forsøksprosjektet vil være egnet til å oppnå det angitte formålet. Det bør videre konkretiseres på hvilke punkter forsøket bryter med lovfestede ordninger, og gis en omtale av hvordan prosjektet er tenkt evaluert. Hvilke krav som bør stilles, vil variere med prosjektets omfang og kompleksitet.[^1353]
+
+I rundskriv H-26/05 om forsøk i kommuner og fylkeskommuner er det presisert at evaluering av forsøk etter forsøksloven er helt vesentlig for å kunne vurdere i hvilken grad prosjektet har vært vellykket, og for å kunne bruke erfaringer fra forsøk til forvaltningsutvikling. Selv om det etter forsøksloven strengt tatt ikke er et krav om annet enn egenevaluering, tilrår departementet at det blir koblet på eksterne forskere for å vurdere erfaringene fra forsøket. Dette begrunnes med at det vil kunne gjøre det enklere å bruke erfaringene fra forsøket i videre lovutviklingsarbeid, og at evalueringen samtidig kan oppfattes som mer uhildet. Departementet åpner videre for å pålegge eksterne vurderinger som vilkår for å få godkjenning av større forsøk.[^1354]
+
+Enkelte forsøk i opplæringssammenheng vil kunne falle inn under forsøksloven. Eksempelvis hadde Båtsfjord kommune i 2003–2009 et forsøk etter forsøksloven om å drifte en videregående skole. Kjernen i forsøket var ønsket om å etablere et lokalt videregående skoletilbud i kommunen slik at ungdom ikke måtte flytte hjemmefra etter ungdomsskolen for å ta videregående opplæring andre steder i fylket.[^1355]
+
+Universitets- og høyskoleloven (UH-loven)
+
+Det framgår av § 1-2 fjerde avsnitt i universitets- og høyskoleloven at
+
+\[d\]epartementet kan, etter innstilling fra styret, vedta at det kan gjøres avvik fra loven og forskriftene til loven i forbindelse med tidsavgrensede pedagogiske eller organisatoriske forsøk.
+
+Bestemmelsen ble foreslått inntatt i den tidligere loven om universiteter og høyskoler etter anmodning fra Stortinget. Stortinget begrunnet vedtaket med at «det er ønskelig å gi de universitetene og høgskolene som ønsker det større frihet til å organisere seg selv og prøve ut nye styringsordninger».[^1356] Regelen ble deretter videreført i den gjeldende UH-loven § 1-2.
+
+Det framgår av lovens forarbeider at forsøkshjemmelen er «utarbeidet etter samme mal som hjemmelen i \[opplæringsloven\]». Forarbeidene presiserer at forsøkssøknader «må være godt forberedt, ha en klar begrunnelse for behovet for unntak fra loven, samt angi hvordan de hensyn som aktuelle lovbestemmelser ivaretar vil bli ivaretatt i forbindelse med forsøket».[^1357]
+
+Introduksjonsloven
+
+Introduksjonsloven fikk en egen bestemmelse om forsøksvirksomhet innført med virkning fra 1. januar 2017. Bestemmelsen i lovens § 27 lyder slik:
+
+Departementet kan etter søknad fra kommunen godkjenne unntak fra loven og forskriftene etter loven i forbindelse med tidsavgrensede pedagogiske eller organisatoriske forsøk.
+
+Det framgår av lovens forarbeider at formålet med en forsøksbestemmelser er å «legge til rette for utvikling og fleksibilitet i ordningene i loven» og å «gjøre det mulig å prøve ut ulike modeller og insitamenter for å nå formålet med introduksjonsloven». I tillegg er det en begrunnelse «å legge til rette for bedre samordning av ordningene i introduksjonsloven med annen opplæring, for eksempel \[opplæring etter opplæringslova\]».[^1358] Videre framgår det av forarbeidene at forutsetningene og rammene for å godkjenne forsøk skal være de samme som forsøk etter forsøksloven.
+
+### Kunnskapsgrunnlag
+
+Historikk
+
+Forsøksbestemmelsen kom inn i opplæringsloven i 1999 og har vært uendret siden dette.
+
+Lovregulering av forsøksvirksomhet i skolen har imidlertid vært til stede i andre former og innretninger tidligere. Skoleforsøksloven, som virket i perioden 1954 til 1985, ga i § 1 hjemmelsgrunnlag for forsøk i skolen:
+
+I grunnsskolar, framhaldsskolar, folkehøgskolar, realskolar, vidaregåande skolar, spesialskolar og lærarskolar skal det etter avgjerd av Kongen vera høve til, som forsøk, å gjera avvik frå reglane i vedkomande skolelover, når slike forsøk er pedagogisk vel underbygde, og når dei er av interesse for skolen.
+
+Samtidig med skoleforsøksloven ble Forsøksrådet for skoleverket opprettet. Forsøksrådet skulle hjelpe departementet «med råd, initiativ og tilsyn» vedrørende den videre utvikling av den norske skolen, jf. § 3 i skoleforsøksloven. Før forsøksvirksomhet ble igangsatt, skulle Forsøksrådet legge fram en plan for forsøket for departementet, der det også skulle framkomme om forsøket var initiert av Forsøksrådet eller av enkelte skoler. Forsøksrådet avga årlig melding til Stortinget.[^1359]
+
+Forsøksrådet ble lagt ned i 1984. Noen uavsluttede prosjekter ble overført til Grunnskolerådet og Rådet for videregående opplæring.[^1360]
+
+Rapporter og undersøkelser
+
+I St.meld. nr. 30 (2003–2004) *Kultur for læring* beskrives forsøksvirksomhet som en av flere måter å drive kvalitetsutvikling på:
+
+Mange skoler har et bevisst forhold til sterke og svake sider ved egen virksomhet. Dette danner grunnlag for målrettet arbeid med kvalitetsutvikling. Slike prosesser er ofte en konsekvens av at skolene har grepet de mulighetene som ligger i økt handlefrihet, utprøving av nye arbeids- og organiseringsformer og forsøksvirksomhet.[^1361]
+
+Ifølge Utdanningsdirektoratets årsrapport for 2015, opplever direktoratet økt interesse for å gjennomføre lokalt initierte forsøk. Imidlertid erfarer direktoratet at gjennomførte, evaluerte forsøk kun unntaksvis fører til endringer i regelverket. Dette mener direktoratet kan ha sammenheng med at de lokalt initierte forsøkene gjennomføres i for liten skala, eller at forsøket kun dekker et lokalt behov. Direktoratet anbefaler i årsrapporten at lokalt initierte forsøk gjennomføres i en større skala enn i dag, for eksempel ved at flere fylkeskommuner deltar i det samme forsøket.[^1362]
+
+### Utvalgets vurdering
+
+Da bestemmelsen om forsøk kom inn i loven, var komiteens begrunnelse å legge til rette for skoleutvikling og gi kommuner mulighet til å prøve ut nye pedagogiske og organisatoriske løsninger. Utvalget mener opplæringsloven fremdeles bør åpne for at forsøk kan tas i bruk som et utviklingsverktøy. Det er stor fleksibilitet i dagens regelverk, inklusiv læreplanverket, med hensyn til mulighetene for å ta i bruk og eventuelt gjennomføre en utprøving av ulike pedagogiske og organisatoriske løsninger. Likevel er det flere nylige eksempler på at forsøksordninger blir innført som ordinære ordninger. Eksempler på slike forsøk er valgfag i programmering og praksisbrevordningen. Praksisbrevordningen er fastsatt i opplæringsloven fra høsten 2016, mens programmering nå er ett av flere valgfag alle skoler kan velge å tilby elevene.
+
+Hensikten med forsøk er å etablere et erfaringsgrunnlag for å finne ut om nye eller alternative pedagogiske eller organisatoriske løsninger kan bidra til en opplæring som er bedre for elevene. Gode forsøk kan bidra til at nødvendig fornyelse og tilpasning av opplæringssektoren har base i erfaringer, ikke bare teori. Dette kan i sin tur føre til mer treffsikre regelverksendringer.
+
+Samtidig mener utvalget det er viktig at forsøksordningen ikke oppfattes og benyttes som en ordinær unntakshjemmel, eller får karakter av å være en dispensasjonsadgang. I enkelte tilfeller har forsøk blitt gjenstand for større politiske diskusjoner, da forsøksvirksomheten har blitt sett på som en måte å omgå gjeldende regelverk på for å få gjennomført partipolitikk.[^1363]
+
+Overordnet må målet med forsøksvirksomhet være å finne bedre løsninger for elevenes læring og/eller opplæringssituasjon, noe som igjen kan føre til endringer i regelverket. Det bør være klart at hjemmelen ikke kan benyttes bare med den begrunnelsen at de vanlige reglene ikke passer i den situasjonen man står overfor.
+
+Erfaringene etter 20 år med forsøkshjemmel i opplæringsloven viser imidlertid at svært få av de mange igangsatte lokalt initierte forsøkene faktisk fører til regelverksendringer. En mulig årsak til dette kan være at de gjennomførte forsøkene ikke har gitt tilstrekkelig grunnlag for å vurdere endringer. Dette kan skyldes at forsøkene har blitt gjennomført i for liten skala, at formålet med forsøket er for uklart, og/eller at forsøk gjennomføres og avsluttes uten å følges av en adekvat evaluering.
+
+Utvalget mener det som utgangspunkt bør være adgang til å bruke forsøk som et utviklingsverktøy for alle deler av grunnopplæringen. I tråd med gjeldende praksis bør det imidlertid ikke være adgang til å gjøre forsøk som innebærer avvik fra elevenes grunnleggende rettigheter. Dette er en absolutt avgrensning, og utvalget mener at dette derfor bør framgå direkte av lovbestemmelsen. Utvalget foreslår videre å tydeliggjøre at forsøkene skal være etisk forsvarlige.[^1364] Dette vilkåret vil følge av det overordnede forsvarlighetskravet utvalget har foreslått tatt inn i loven, se kapittel 15. Utvalget vil likevel foreslå å tydeliggjøre at det skal stilles de samme forskningsetiske kravene til forsøk etter opplæringsloven som til øvrig forskning.
+
+Fordi det blant annet kan være aktuelt med utprøvinger som innebærer å følge flere elevkull over en viss periode, mener utvalget det vil være krevende å oppstille en hensiktsmessig tidsramme for forsøk etter opplæringsloven. En stram begrensning, for eksempel tilsvarende rammene for forsøk etter forsøksloven, vil derfor være mindre egnet for forsøk etter opplæringsloven. Utvalget mener likevel at forsøksadgangen bør begrenses til tidsavgrensede forsøk. Hva som vil være hensiktsmessig varighet, må vurderes konkret. Det vil blant annet være relevant å se hen til hvilke unntak forsøket krever, og hva som er hensikten med forsøket.
+
+Utvalget mener et viktig premiss med forsøksvirksomhet er at det må være mulig å lære av gjennomførte forsøk. Utvalget foreslår på bakgrunn av dette å tydeliggjøre i lovteksten at forsøkene skal være godt faglig underbygd, og at forsøksvirksomheten skal evalueres og rapporteres.
+
+Utvalget mener videre at departementet bør ha en særskilt hjemmel for å kunne gjennomføre nasjonale forsøk. Disse forsøkene bør være underlagt de samme kravene som forsøk i regi av kommunen.
+
+### Utvalgets forslag
+
 Utvalget foreslår
-– å ikke videreføre plikten til å ta imot verv i råd,
-utvalg eller nemnd i den nye loven
-– at Foreldreutvalget for grunnopplæringen
-(FUG) ikke reguleres i den nye loven
-– at Samarbeidsrådet for yrkesopplæring (SRY)
-og de faglige rådene ikke reguleres i den nye
-loven
-– å ikke regulere læreplangrupper i den nye
-loven
-– å ikke regulere klagenemnd for ikke bestått
-fag- og svenneprøve i den nye loven
 
-[Side 640]
+- at adgangen til å godkjenne tidsavgrensede forsøk videreføres i den nye loven, se forslag til § 23-3
 
-638
+- at det presiseres i loven at det ikke kan godkjennes forsøk som svekker elevers grunnleggende rettigheter, at forsøk må være faglig underbygget med en systematisk tilnærming og at forsøket skal evalueres
 
-NOU 2019: 23
-
-Kapittel 48
-
-Ny opplæringslov
-
-Kapittel 48
-
-Ansvaret til kommunene, fylkeskommunene og staten
-
-Figur 48.1
-
-48.1 Innledning
-Dette kapitlet handler om ansvaret for grunnopplæringen, nærmere bestemt ansvarsdelingen mellom kommunen, fylkeskommunen og staten.
-Utvalgets mandat legger strenge føringer for
-behandlingen av nettopp ansvarsdelingen. Utvalget har derfor ikke foreslått noen endringer i
-hvem som har ansvaret for hva.
-Temaer som er regulert i dagens kapittel 13,
-men som ikke handler om ansvaret for opplæringen, behandles ikke i dette kapitlet. Se omtale av
-blant annet SFO, leksehjelp og musikk- og kulturskole i kapittel 42. Ulykkesforsikring, leirskole og
-krav om å ha skolefaglig kompetanse er omtalt i
-henholdsvis kapittel 43.4, 43.8 og 43.10. Samarbeid om overgang fra barnehage til skole og SFO
-er omtalt i kapittel 44.1, mens samarbeid med
-elevens foreldre er omtalt i kapittel 21.
-
-48.2 Dagens regler
-Kapittel 13 i dagens lov regulerer først og fremst
-kommunens og fylkeskommunens ansvar for opplæringen. Ansvaret er regulert som plikter for
-kommunen og fylkeskommunen.
-Utgangspunktet etter dagens regler er at kommunen har ansvaret for grunnskoleopplæring,
-mens ansvaret for videregående opplæring er lagt
-til fylkeskommunen. Loven regulerer enkelte
-avvik fra denne ansvarsdelingen. Blant annet har
-fylkeskommunen ansvaret for grunnskoleopplæring i fengsler, helseinstitusjoner og barneverninstitusjoner.
-
-Etter dagens regler har kommunen ansvaret
-
-for
-– å gi grunnskoleopplæring til innbyggere som
-har rett til slik opplæring, jf. § 13-1
-– å forsikre elevene, jf. § 13-3b
-– samarbeid med foreldre til elever i skolen, jf.
-§ 13-3d
-– skoleskyss av grunnskoleelever og voksne
-som har rett til skyss på grunn av særlig farlig
-eller vanskelig skolevei, inkl. retten til reisefølge og tilsyn, jf. § 13-4 første avsnitt første setning
-– samarbeid om overgang mellom barnehage og
-skole, jf. § 13-5 andre avsnitt
-– rett til påbygg, jf. § 3-1 ellevte avsnitt.
-I tillegg har kommunen etter § 4A-4 ansvaret for
-grunnskoleopplæring til voksne.
-Etter dagens regler har fylkeskommunen
-ansvaret for
-– å oppfylle retten til videregående opplæring, jf.
-§ 13-3
-– å oppfylle retten til grunnskole- og videregående opplæring i barnevernsinstitusjoner (jf.
-§ 13-2), i fengsler (jf. § 13-2 a) og i helseinstitusjoner (jf. § 13-3 a)
-– å forsikre elevene, jf. § 13-3b
-– samarbeid med foreldre til elever i skolen, jf.
-§ 13-3d
-– skoleskyss i alle tilfeller der kommunen ikke
-eksplisitt har ansvaret, jf. § 3-4
-I tillegg har fylkeskommunen etter § 4A-4 ansvaret for videregående opplæring til voksne.
-Loven angir unntak fra ansvarsdelingen i § 13-1
-tredje avsnitt og § 13-3 sjette avsnitt. Disse
+- språklige endringer

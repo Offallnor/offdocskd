@@ -1,960 +1,268 @@
-# NOU 2019: 23, del 58 av 71 (side 654–665)
+# NOU 2019: 23, del 58 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 654]
-
-652
-
-Kapittel 50
-
-NOU 2019: 23
-Ny opplæringslov
-
-være pliktsubjekt, og at personkretsen bør utvides
-til å omfatte alle som utfører tjenester og arbeid
-etter den nye loven, for eksempel ansatte i skolefritidsordningen, voksenopplæringen, PP-tjenesten og oppfølgingstjenesten. Det betyr at kommunen pålegges en plikt til å sørge for at alle som
-utfører tjenester eller arbeid etter den nye loven,
-gir opplysninger av eget tiltak til sosialtjenesten
-og helse- og omsorgstjenesten i kommunen der
-det kan være aktuelt med tiltak etter sosialtjenesteloven eller helse- og omsorgstjenesteloven.
-Dette innebærer blant annet at kommunen må
-sørge for at de ansatte har kunnskap om hvilke tiltak som kan være aktuelle etter disse lovene.
-Utvalget legger til grunn at opplysninger som gis
-av eget tiltak, fortsatt bare kan gis med samtykke
-fra eleven eller foreldrene.
-Bør opplysningsplikten inneholde en oppmerksomhetsplikt?
-Det følger av opplæringsloven § 15-4 første avsnitt
-andre setning at «[p]ersonalet skal vere på vakt
-overfor forhold som bør føre til tiltak frå sosialtenesta.» Utvalget mener i utgangspunktet at dette
-er en unødvendig presisering. Det følger forutsetningsvis av opplysningsplikten at personalet i sitt
-daglige arbeid må være oppmerksomme slik at de
-kan oppdage eventuelle forhold som kan utløse
-plikten til å gi opplysninger til sosialtjenesten og
-helse- og omsorgstjenesten i kommunen. Utvalget
-har likevel kommet til at oppmerksomhetsplikten
-bør videreføres, men ber departementet vurdere
-om det bør være en oppmerksomhetsplikt i
-bestemmelsene om opplysningsplikt i den nye
-loven når departementet vurderer meldeplikten til
-barneverntjenesten i forbindelse med den nye
-barnevernsloven, se kapittel 50.2.2.
-
-50.3.3 Utvalgets forslag
-Utvalget foreslår
-– at opplysningsplikten til sosialtjenesten utvides
-til også å omfatte helse- og omsorgstjenesten.
-Det foreslås også noen andre endringer, se forslag til § 16-1
-
-50.4 Pålegg til fylkeskommunen om
-å sørge for veiledning og
-kvalitetsutviklingstiltak
-50.4.1 Dagens regler
-I opplæringsloven § 13-3c er det fastsatt følgende:
-
-Fylkeskommunen skal etter oppdrag frå departementet rettleie om og medverke til kvalitetsutviklingstiltak som m.a. kan gi god samanheng mellom grunnskole og vidaregåande opplæring. Departementet kan gi nærmare
-forskrifter om desse oppgåvene.
-Bestemmelsen ble innført som en oppfølging av
-St.meld. nr. 12 (2006–2007) Regionale fortrinn –
-regional framtid. I meldingen ble det foreslått å
-overføre ulike oppgaver i nasjonalt kvalitetsvurderingssystem til fylkeskommunene. For å kunne
-pålegge fylkeskommunene nye oppgaver var det
-behov for hjemmel i lov. Verken ordlyden eller forarbeidene9 beskriver konkret hva slags oppgaver
-som kan pålegges fylkeskommunene etter denne
-bestemmelsen.
-Bestemmelsen trådte i kraft i 2010. Det er ikke
-fastsatt forskrifter med hjemmel i § 13-3c. Utvalget
-er heller ikke kjent med at det er gitt noen oppdrag eller pålegg med hjemmel i bestemmelsen.
-
-50.4.2 Utvalgets vurdering
-Utvalget mener at § 13-3c ikke er godt nok i samsvar med kommuneloven § 2-1 tredje avsnitt om at
-begrensninger i det kommunale selvstyret må ha
-hjemmel i lov. Bestemmelsen er så lite konkret at
-den ikke utgjør noen tydelig skranke for hvilke
-oppgaver som kan pålegges fylkeskommunen, og
-anvendelsen av bestemmelsen blir lite forutsigbar
-for fylkeskommunen. Utvalget viser her også til
-innspill fra Østlandssamarbeidet ved Fagpolitisk
-utvalg, som ber om at Opplæringsutvalget klargjør hva som ligger i denne bestemmelsen.10
-Regjeringen har i Meld. St. 6 (2018–2019)
-Oppgaver til nye regioner gitt en vurdering av
-hvilke oppgaver som kan overføres til fylkeskommunene. Her framgår det blant annet at regjeringen vil styrke den samlede kompetansepolitikken,
-og at fylkeskommunene skal ta et større strategisk ansvar for den regionale kompetansepolitikken med sikte på å bidra til økt sysselsetting og
-lavere arbeidsledighet. Fylkeskommunenes rolle
-vil blant annet være å kartlegge regionale kompetansebehov, formidle behov til tilbydere og tilrettelegge for etterspurte opplærings- og utdanningstiltak.11
-Oppfølgingen av meldingen aktualiserer behovet for å pålegge fylkeskommunen nye oppgaver
-9
-10
-11
-
-Ot.prp. nr. 10 (2008–2009).
-Fagpolitisk utvalg i Østlandssamarbeidet, innspill til utvalget.
-Meld. St. 6 (2018–2019).
-
-[Side 655]
-
-NOU 2019: 23
-Ny opplæringslov
-
-innenfor grunnopplæringen. Utvalget mener likevel at § 13-3c ikke bør videreføres. I stedet bør det
-foretas en gjennomgang av hvilke konkrete oppgaver som staten ønsker å pålegge fylkeskommunen i forbindelse med regionreformen. Deretter
-kan nødvendig forankring i lov sikres gjennom at
-forslag med tydelige lovhjemler fremmes for Stortinget.
-
-50.4.3 Utvalgets forslag
-Utvalget foreslår
-– at bestemmelsen om pålegg til fylkeskommunen om å gi veiledning og drive kvalitetsutvikling ikke videreføres i den nye loven
-
-50.5 Statlig råd og veiledning
-50.5.1 Dagens regler
-I opplæringsloven § 14-2 er det fastsatt følgende:
-Departementet gir råd og rettleiing i spørsmål
-som gjeld verksemder etter denne lova, og skal
-elles samarbeide med kommunar, fylkeskommunar og eigarar av private skolar for å sikre
-eit godt og likeverdig opplæringstilbod i samsvar med lov og forskrifter.
-Det går fram i Ot.prp. nr. 46 (1997–98) at regelen
-ikke er ment å fastsette konkrete plikter, men at
-innholdet i regelen må vurderes som et mål om å
-få i stand en best mulig samhandling mellom
-departementet og skoleeierne.12
-
-50.5.2 Utvalgets vurdering
-Det følger av forvaltningsloven § 11 at forvaltningsorganer har en alminnelig veiledningsplikt
-innenfor sitt saksområde. Dessuten gjelder det et
-ulovfestet forvaltningsrettslig prinsipp om god forvaltningsskikk, som blant annet innebærer at forvaltningen skal være åpen og serviceinnstilt.
-Etter utvalgets vurdering inneholder ikke opplæringsloven § 14-2 noen selvstendige plikter
-utover det som følger av alminnelige forvaltningsrettslige regler. Opplæringsloven § 14-2 er dermed en unødvendig dobbeltregulering. KS har
-også gitt innspill om at denne bestemmelsen er
-unødvendig.13
-
-50.5.3 Utvalgets forslag
-Utvalget foreslår
-– at bestemmelsen om statlig råd og veiledning
-ikke videreføres i ny opplæringslov
-
-50.6 Bruk av forvaltningsloven
-50.6.1 Dagens regler
-Opplæringsloven § 15-1 handler om bruk av forvaltningsloven. I første avsnitt i bestemmelsen er
-det det fastsatt følgende: «Forvaltningslova gjeld
-for verksemd som etter lova her blir driven av forvaltningsorgan, med dei særreglane som er fastsette i lova her.» Dette følger også av forvaltningsloven § 1. Paragraf 15-1 første avsnitt har ingen
-rettslig betydning, men er fastsatt i opplæringsloven av pedagogiske grunner.14
-I § 15-1 tredje avsnitt er det fastsatt følgende:
-Ved behandling av klagar på kommunale vedtak om skolebyte etter § 8-1 tredje avsnitt skal
-statleg klageinstans leggje vekt på omsynet til
-det kommunale sjølvstyret ved prøving av det
-frie skjønet.
-Dette er et unntak fra forvaltningsloven § 34
-andre avsnitt tredje setning, hvor det er fastsatt at
-den statlige klageinstansen skal legge «stor vekt»
-på det kommunale selvstyret ved denne typen
-avgjørelser. I høringen15 ble det lagt til grunn at
-«[d]epartementet mener det er enkelte sakstyper
-som ikke bør bli berørt av forslaget om å redusere
-klageinstansens adgang til å overprøve kommunens skjønnsutøvelse. Her sikter vi til sakstyper
-som gjelder grunnleggende velferdstjenester til
-private parter». Valget av nettopp § 8-1 tredje
-avsnitt i opplæringsloven er ikke nærmere
-begrunnet i lovproposisjonen.16
-
-50.6.2 Utvalgets vurdering
-Opplæringsloven § 15-1 første avsnitt foreslås ikke
-videreført i den nye loven. Utvalget mener at det
-ikke er ønskelig å presisere at forvaltningsloven,
-som er en sektorovergripende lov, også gjelder
-innenfor grunnopplæringen. Dette er en form for
-særregulering som normalt bør unngås.
-Utvalget foreslår i kapittel 51.5 at staten ikke
-lenger skal være klageinstans for enkeltvedtak om
-14
-
-12
-
-Kap. 26.4.
-13
-KS, innspill til utvalget.
-
-653
-
-Kapittel 50
-
-15
-16
-
-Ot.prp. nr. 46 (1997–98), kap. 29.4.
-Kommunal- og moderniseringsdepartementet, 2016b.
-Prop. 64 L (2016–2017).
-
-[Side 656]
-
-654
-
-NOU 2019: 23
-
-Kapittel 50
-
-Ny opplæringslov
-
-inntak til en annen skole enn nærskolen. Særregelen i opplæringsloven § 15-1 tredje avsnitt er derfor ikke lenger aktuell. Dersom departementet
-ikke er enig i forslaget fra utvalget om hvem som
-skal være klageinstans, mener utvalget at § 15-1
-tredje avsnitt uansett ikke bør videreføres. Utvalget mener at det ikke er behov for dette unntaket
-fra forvaltningsloven § 34 andre avsnitt tredje setning, og peker særlig på at det blir en uryddig ordning dersom det er ulike terskler for ulike vedtak
-etter den nye loven. Utvalget kan heller ikke se at
-det i forarbeidene til bestemmelsen er gitt en
-begrunnelse for at skolebytte etter opplæringsloven § 8-1 tredje avsnitt skal behandles annerledes
-enn andre avgjørelser etter opplæringsloven når
-det gjelder hvor stor vekt klageinstansen skal
-legge på det lokale selvstyret. Utvalget viser
-videre til at den statlige klageinstansen ikke må
-legge avgjørende vekt på det kommunale selvstyret, og at klageinstansen alltid skal overprøve
-avgjørelser som ikke er i samsvar med de alminnelige forvaltningsrettslige prinsippene. For
-eksempel skal avgjørelser ikke være åpenbart urimelige, og her vil barnets beste være et sentralt
-hensyn.
-Gjeldende andre avsnitt i bestemmelsen er
-omhandlet i kapittel 46.2.
-
-50.6.3 Utvalgets forslag
-Utvalget foreslår
-– at det ikke presiseres at forvaltningsloven gjelder, se likevel forslag til § 20-4
-
-50.7 Innhenting av opplysninger fra
-folkeregisteret
-50.7.1 Dagens regler
-Opplæringsloven § 15-9 handler om innhenting av
-opplysninger fra folkeregisteret. Her er det fastsatt følgende:
-Offentlege myndigheiter kan utan hinder av
-teieplikt innhente opplysningar frå Folkeregisteret når det er nødvendig for å utføre oppgåver
-etter denne lova. Departementet gir forskrift
-om kva for opplysningar som kan innhentast.
-Som følge av ny folkeregistreringslov må hjemmelen for utlevering av opplysninger fra folkeregiste-
-
-ret som er omfattet av taushetsplikt, stå i regelverket som gjelder for de ulike saksområdene.17
-Bestemmelsen ble innført med virkning fra 1.
-oktober 2018.
-Det framgår i Prop. 86 LS (2017–2018) til
-bestemmelsen at begrunnelsen for forskriftshjemmelen er som følger:
-Kunnskapsdepartementet ser det slik at det
-ikkje er ynskjeleg å gje ein generell heimel i
-lova som opnar for å hente inn opplysningar
-som er omfatta av teieplikta i folkeregisterloven. Det er likevel slik at kva for opplysningar
-som er naudsynte for å utføre oppgåver etter
-barnehageloven, opplæringslova eller friskolelova, kan endra seg over tid og på grunn av
-andre endringar i desse lovene og i dei tilhøyrande forskriftene. Kunnskapsdepartementet
-meiner difor det bør gå klart fram i forskrift kva
-for opplysningar som kan verte henta inn etter
-barnehageloven, opplæringslova og friskolelova.18
-Slik forskrift er gitt i forskrift til opplæringsloven
-§ 22A-1.
-
-50.7.2 Utvalgets vurdering
-Utvalget mener at offentlige myndigheter fortsatt
-skal kunne innhente opplysninger fra folkeregisteret uten hinder av taushetsplikten når det er nødvendig for å utføre oppgaver etter den nye loven.
-Videre mener utvalget at det fortsatt bør gå klart
-fram av regelverket hvilke opplysninger som kan
-innhentes fra folkeregisteret. Når det nye regelverket har virket over noen år, mener utvalget at
-departementet bør vurdere om det er hensiktsmessig å fastsette hva det kan innhentes opplysninger om i loven, i stedet for i forskrift. Regelverket om innhenting av opplysninger fra folkeregisteret vil da bli mindre fragmentert.
-50.7.3 Utvalgets forslag
-Utvalget foreslår
-– at hjemmelen for innhenting av opplysninger
-fra folkeregisteret videreføres, se forslag til
-§ 16-4
-17
-18
-
-Prop. 86 LS (2017–2018), kap. 13.1.
-Kap. 13.2.
-
-[Side 657]
-
-NOU 2019: 23
-Ny opplæringslov
-
-50.8 Tilskudd fra staten
-50.8.1 Dagens regler
-Opplæringsloven
-Opplæringsloven § 13-9 lyder: «Staten gir tilskot til
-å dekkje delar av utgiftene til kommunane og fylkeskommunane. Tilskotet blir normalt gitt som eit
-rammetilskot etter reglar gitt av departementet.»
-Andre lover
-Også i andre velferdslover er det fastsatt bestemmelser om tilskudd fra staten, for eksempel i
-helse- og omsorgstjenesteloven § 11-5, sosialtjenesteloven § 11 og barnevernloven § 9-7. Barnehageloven og fagskoleloven har derimot ikke tilsvarende bestemmelser om statlig tilskudd.
-I kommuneloven § 2-2 tredje avsnitt er det fastsatt følgende: «Innenfor rammene av nasjonal økonomisk politikk bør kommuner og fylkeskommuner ha frie inntekter som gir økonomisk handlingsrom.» Bestemmelsen innebærer en lovfesting av
-det såkalte finansieringsprinsippet. Prinsippet fastsetter det sentrale premisset for reell lokal handlefrihet, nemlig at staten bør bidra til at kommunene
-har et økonomisk handlingsrom. Bestemmelsen er
-ikke kun rettet mot lovpålagte oppgaver, men sikter
-til oppgaver i bredere forstand.19
-
-50.8.2 Utvalgets vurdering
-Utvalget mener at opplæringsloven § 13-9 ikke har
-noen selvstendig rettslig betydning. Det er fastsatt
-at tilskudd normalt skal gis i form av rammetilskudd, men bestemmelsen er ikke til hinder for at
-Stortinget bevilger øremerkede midler til særskilte formål. Dessuten er det såkalte finansieringsprinsippet fastsatt i kommuneloven § 2-2
-tredje avsnitt.
-Videre angir ikke opplæringsloven § 13-9 hvor
-stort rammetilskuddet skal være, kun at staten
-har en plikt til å dekke «delar» av kommunens
-utgifter. Utvalget viser også til at de andre utdanningslovene, hvor kommunene og fylkeskommunene pålegges plikter, ikke har en generell
-bestemmelse om plikt for staten til å gi tilskudd.
-50.8.3 Utvalgets forslag
-Utvalget foreslår
-– at bestemmelsen om tilskudd fra staten ikke
-videreføres
-19
-
-Prop. 46 L (2017–2018), merknad til § 2-2 tredje ledd.
-
-655
-
-Kapittel 50
-
-50.9 Oppfyllelse av enkeltvedtak som er
-kjent ugyldig
-50.9.1 Dagens regler
-Det er fastsatt følgende i opplæringsloven § 15-7:
-§ 15-7 Oppfylling av enkeltvedtak som er kjent
-ugyldig
-Ein kommune eller fylkeskommune må
-oppfylle eit vedtak frå eit statleg forvaltningsorgan som gir ein part rett til tenester etter lova
-her, sjølv om kommunen eller fylkeskommunen får vedtaket kjent ugyldig gjennom søksmål etter tvisteloven § 1-4 a. Vedtak kan i tilfelle som nemnt i første punktum berre gjerast
-om til skade for den private parten etter forvaltningsloven § 35 første ledd bokstav c dersom
-vedtaket er ugyldig fordi den private parten,
-eller nokon som handla på vegner av den private parten, forsettleg eller grovt aktlaust har
-gitt uriktige opplysningar eller halde tilbake
-opplysningar.
-Bestemmelsen kom inn i opplæringsloven i 2018
-som en følge av en endring i tvisteloven som ga
-kommunene adgang til å reise søksmål mot staten
-om gyldigheten av et statlig organs avgjørelser. I
-tvisteloven § 1-4 a første avsnitt er det ramset opp
-hvilke avgjørelser som er omfattet. Søksmålsadgangen gjelder for eksempel i tilfeller der et statlig
-organ pålegger kommunen plikter etter tilsyn.
-Opplæringsloven § 15-7 innebærer dermed at
-det er forbudt å gjøre om et vedtak som er kjent
-ugyldig gjennom søksmål etter tvisteloven § 1-4 a,
-til skade for en elev eller en voksen deltaker i
-grunnopplæringen som er tilgodesett av det statlige vedtaket. Tilsvarende omgjøringsforbud ble
-også tatt inn i andre velferdslover, som pasient- og
-brukerrettighetsloven
-og
-barnehageloven.
-Omgjøringsforbudet i opplæringsloven § 15-7 gjelder likevel ikke dersom den private parten hadde
-fått tilkjent en ytelse fordi han eller hun eller noen
-som har handlet på vegne av vedkommende, med
-forsett eller grov uaktsomhet har gitt feilaktige
-opplysninger.
-
-50.9.2 Utvalgets vurdering
-Det ligger utenfor utvalgets mandat å vurdere
-reglene i tvisteloven om at kommuner skal kunne
-reise sak mot staten om ugyldige vedtak. At et
-vedtak som tilgodeser en elev, ikke skal kunne
-omgjøres til ugunst for eleven på grunnlag av et
-slikt søksmål, er til elevens beste. Tilsvarende
-
-[Side 658]
-
-656
-
-NOU 2019: 23
-
-Kapittel 50
-
-Ny opplæringslov
-
-gjelder for voksne deltakere som er tilgodesett i
-vedtak fra statlige organer. Utvalget mener derfor
-det er gode grunner for omgjøringsforbudet i opplæringsloven § 15-7. Utvalget mener også det er
-rimelig at det likevel ikke er et omgjøringsforbud
-dersom årsaken til at vedtaket er ugyldig, er at
-eleven eller den voksne deltakeren med forsett
-eller grov uaktsomhet har gitt feilaktige opplysninger.
-KS har stilt spørsmål ved om denne bestemmelsen må stå i opplæringsloven og om det ikke
-allerede følger av andre lover.20 Omgjøringsforbudet i opplæringsloven § 15-7 er et unntak fra generelle forvaltningsrettslige regler om omgjøring av
-ugyldige enkeltvedtak. Tilsvarende unntak er tatt
-inn også i andre velferdslover, som barnehageloven § 19 j. Utvalget mener derfor det er lite hensiktsmessig å foreslå at unntaket som gjelder på
-opplæringsområdet, flyttes til tvisteloven. Den
-vurderingen kan eventuelt tas i forbindelse med
-en revisjon av tvisteloven.
-For ordens skyld bemerker utvalget at
-bestemmelsen ikke utelukker omgjøring på annet
-grunnlag. I forarbeidene til gjeldende opplæringslov § 15-7 står det følgende:
-Omgjeringskompetansen til forvaltninga blir
-elles ikkje endra ved den nye føresegna. I det
-ligg for det første at forvaltninga, etter ein dom
-for at eit vedtak er ugyldig etter eit søksmål
-etter tvistelova § 1-4 a, framleis vil kunne gjere
-om vedtaket etter dei andre føresegnene i forvaltningslova § 35, også § 35 siste ledd. For det
-andre, dersom kommunen ikkje bringer vedtaket inn for domstolen, gjeld dei alminnelege
-omgjeringsføresegnene fullt ut.21
-Tilsvarende vil gjelde etter utvalgets forslag til
-videreføring av bestemmelsen.
-
-50.9.3 Utvalgets forslag
-Utvalget foreslår
-– å videreføre regelen om oppfyllelsen av ugyldige vedtak i ny opplæringslov, se forslag til
-§ 23-4
-
-50.10 Deltakelse i evalueringer og
-informasjonsinnhenting
-50.10.1 Dagens regler
-Opplæringsloven § 14-4 gir departementet hjemmel til å gi forskrifter som pålegger kommuner,
-skoler, elever og lærlinger mv. å gi opplysninger
-og å delta i evalueringer om forhold som har
-betydning for evaluering av opplæringsvirksomheter som er omfattet av loven.
-Departementet har gitt slik forskrift i kapittel 2
-i forskrift til opplæringsloven. Dette kapitlet handler om blant annet skolebasert vurdering, nasjonale undersøkelser om læringsmiljøet til elever,
-lærlinger, praksisbrevkandidater og lærekandidater og ulike prøver, inkludert nasjonale prøver.
-50.10.2 Utvalgets vurdering
-Resultatstyring i grunnopplæringen er et stort og
-komplekst tema. Etter utvalgets vurdering ligger
-det utenfor mandatet å vurdere bruken av resultater i styrings- og kvalitetsutviklingsøyemed. Utvalget vil likevel uttrykke skepsis til forslaget i NOU
-2019: 3 Nye sjanser – bedre læring. Kjønnsforskjeller
-i skoleprestasjoner og utdanningsløp, hvor det anbefales å opprette et nasjonalt register for personentydige forløpsdata for barnehage og grunnopplæringen, som skal kunne kobles til data fra andre
-kilder, blant annet utdanningsregistre og dataregistre med opplysninger om arbeid, helse, trygd
-og familiebakgrunn.22
-Også den innsamlingen av opplysninger og
-rapporteringen fra tester og evalueringer som gjøres i dag, reiser flere personvernutfordringer. Det
-har i en del sammenhenger vært problematisert
-om behandlingsgrunnlaget i opplæringsloven
-med forskrifter er tilstrekkelig for behandlingen
-av slike opplysninger i det nasjonale kvalitetsvurderingssystemet. Utvalget har ikke vurdert om
-dagens lovhjemmel er dekkende for de evalueringene og de opplysningene som innhentes i dag,
-og viser særlig til at Stortinget på bakgrunn av
-representantforslag om tillitsreform i skolen har
-vedtatt følgende: «Stortinget ber regjeringen nedsette et utvalg der partene i skolesektoren er
-representert, for å gjennomgå Nasjonalt kvalitetsvurderingssystem i lys av fagfornyelsen og
-fremme forslag til endringer på egnet måte.»23
-Regjeringen har høsten 2019 informert Stortinget
-22
-
-20
-
-KS, innspill til utvalget.
-21
-Prop. 64 L (2016–2017), kap. 7.3.
-
-23
-
-Kap. 12.1.1.
-Dokument 8:194 S (2017–2018). Innst. 378 S (2017–2018),
-vedtak 886.
-
-[Side 659]
-
-NOU 2019: 23
-Ny opplæringslov
-
-om at den vil komme tilbake til Stortinget på
-egnet måte.24
-Med henvisning til vurderingen ovenfor foreslår utvalget at forskriftshjemmelen i opplæringsloven § 14-4 videreføres.
-24
-
-Prop. 1 S (2019–2020).
-
-657
-
-Kapittel 50
-
-50.10.3 Utvalgets forslag
-Utvalget foreslår
-– å videreføre bestemmelsen om informasjonsinnhenting og evaluering i den nye loven med
-noen språklige endringer, se forslag til § 16-5
-
-[Side 660]
-
-658
-
-Kapittel 51
-
-NOU 2019: 23
-Ny opplæringslov
-
-Kapittel 51
-
-Klageadgang og klageinstans
-
-Figur 51.1
-
-51.1 Innledning
-Dette kapitlet handler om hvordan opplæringsloven kan håndheves gjennom klage, og hvem som
-bør være klageinstans.
-Utvalget skal ifølge mandatet vurdere rettigheter på individnivå med tilhørende klageordninger
-og hvordan regelverket kan håndheves gjennom
-klage og tilsyn. Utvalget skal vurdere hvilke
-klage-, tilsyns- og reaksjonsregler som er nødvendige og hensiktsmessige, særlig med utgangspunkt i hvordan regelverket bør utformes for å
-kunne være et effektivt styringsvirkemiddel og for
-å sikre en effektiv håndheving av opplæringsloven. Regler om tilsyn er omtalt i kapittel 52, og
-regler om reaksjoner ved brudd på loven er omtalt
-i kapittel 53.
-Klageordningen, som følger av forvaltningsloven, gir en part mulighet til å få en ny behandling
-av saken. Klageordningens formål er å sikre riktige, formålstjenlige og rimelige avgjørelser som
-bygger på et forsvarlig rettslig og faktisk grunnlag. Klager over enkeltvedtak som er truffet av
-kommuner eller fylkeskommuner, blir som hovedregel behandlet av kommunestyret eller fylkestinget som klageinstans. Disse kan delegere oppgaven til formannskapet eller fylkesutvalget eller
-legge den til én eller flere særskilte klagenemnder
-som de oppnevner.
-I dag har opplæringsloven særregler om at
-departementet, i praksis fylkesmannen, er klageinstans for en rekke enkeltvedtak. Utvalget har
-vurdert om særreglene om at staten er klageinstans bør videreføres helt eller delvis, eller om forvaltningslovens alminnelige regler om klageinstans bør gjelde fullt ut.
-
-51.2 Dagens regler
-51.2.1 Forvaltningsloven
-Rett til å klage på enkeltvedtak
-Forvaltningsloven, som handler om behandlingsmåten i forvaltningssaker, er en av de generelle
-lovene som gjelder for opplæringssektoren, se
-kapittel 7.6. Forvaltningsloven inneholder blant
-annet regler om saksforberedelse ved enkeltvedtak og regler om retten til å klage på enkeltvedtak.
-Mens saksbehandlingsreglene har til formål å
-sikre en riktig avgjørelse fra først av, gir retten til
-å klage en etterfølgende rettsbeskyttelse ved at
-enkeltvedtaket kan oppheves eller endres. Klageretten har til formål å sikre at forvaltningen fatter
-riktige vedtak, og at den enkelte får rettighetene
-sine oppfylt. Den er også et ledd i forvaltningens
-egen interne kontroll med sine avgjørelser.
-Det følger av forvaltningsloven § 28 første
-avsnitt at den som er part eller har rettslig klageinteresse kan klage på vedtaket.
-Et enkeltvedtak er «en avgjørelse som treffes
-under utøving av offentlig myndighet» og som
-«som gjelder rettigheter eller plikter til en eller
-flere bestemte personer». Dette følger av forvaltningsloven § 2 første avsnitt bokstav a og b. En
-avgjørelse om en elevs rett til spesialundervisning
-er et eksempel på enkeltvedtak. Også tildeling av
-kommunale ytelser som man ikke har lovfestet
-rett til, kan kreve enkeltvedtak etter forvaltningsloven. For eksempel er kommunens avgjørelse
-om tildeling av plass i skolefritidsordningen et
-enkeltvedtak etter forvaltningsloven. Det er normalt kommunen som har myndighet til å fatte
-enkeltvedtak etter opplæringsloven. Myndigheten
-
-[Side 661]
-
-NOU 2019: 23
-Ny opplæringslov
-
-kan delegeres til rektor, eventuelt til en annen
-leder ved skolen.
-Hvem som har klagerett
-Hvem som har klagerett, følger av forvaltningsloven § 28 første avsnitt. Etter bestemmelsen kan
-«en part eller annen med rettslig klageinteresse»
-klage på et enkeltvedtak. Part i saken er en «person som en avgjørelse retter seg mot eller som
-saken ellers direkte gjelder», jf. forvaltningsloven
-§ 2 første avsnitt bokstav e. For enkeltvedtak etter
-opplæringsloven vil eleven som vedtaket gjelder,
-eller foreldrene til eleven være part i saken.
-Hvem som er klageinstans
-Hvem som er klageinstans for enkeltvedtak følger
-av forvaltningsloven § 28. Etter forvaltningsloven
-§ 28 første avsnitt kan enkeltvedtak påklages til
-«det forvaltningsorganet (klageinstansen) som er
-nærmest overordnet det forvaltningsorganet som
-har truffet vedtaket (underinstansen)». Klagen
-skal framsettes for det forvaltningsorgan som har
-truffet vedtaket (underinstansen), jf. forvaltningsloven § 32.
-For enkeltvedtak som er truffet av forvaltningsorgan opprettet etter kommuneloven, er klageinstansen «kommunestyret eller fylkestinget,
-eller etter disses bestemmelse, formannskapet
-eller fylkesutvalget eller en eller flere særskilte
-klagenemnder oppnevnt av kommunestyret eller
-fylkestinget». Dette følger av forvaltningsloven
-§ 28 andre avsnitt første setning.
-Etter forvaltningsloven er hver kommune og
-fylkeskommune regnet som ett organ. Når det er
-tale om intern klagerett i kommuner og fylkeskommuner, vil det derfor bli misvisende å fastsette at klageinstansen er «nærmest overordnet
-organ».1 I stedet er hovedspørsmålet om klage
-normalt skal gå til kommunestyret eller fylkestinget (eller formannskapet eller fylkesutvalget),
-eller om klager bør avgjøres av en klagenemnd
-opprettet av kommunestyret eller fylkestinget.
-For noen kommuner kan det være aktuelt å opprette flere kommunale klagenemnder som kan
-dekke ulike saksfelt.
-På enkelte områder er det opprettet egne statlige klagenemnder etter særlovgivningen. Opplæringsloven inneholder ikke regler om egen klagenemnd. De statlige klagenemndene har utelukkende eller i hovedsak til oppgave å avgjøre klagesaker. Begrunnelsen for å oppnevne egne klage1
-
-NOU 2019: 5, kap. 24.6.5.3.
-
-659
-
-Kapittel 51
-
-nemnder varierer. Det kan være et ønske om å
-sikre en faginnsikt som et overordnet forvaltningsorgan ikke vil ha, eller en større uavhengighet for klageinstansen med avstand til de ordinære forvaltningsorganene. En viktig begrunnelse for noen statlige klagenemnder er å avlaste
-eller spare overordnede organer for arbeid, enten
-på grunn av saksmengden eller fordi klagesakene
-kan reise spørsmål som det ordinære forvaltningsapparatet ikke har særlige forutsetninger for
-å vurdere.2 Når en klagenemnd erstatter et departement som klageinstans, er siktemålet ofte å rendyrke departementets funksjon som faglig sekretariat for den politiske ledelsen og regjeringen ved
-å ta bort behandlingen av enkeltsaker i departementet. De fleste statlige klagenemndene behandler bare vedtak truffet i medhold av den loven som
-klagenemnda er opprettet etter. Noen klagenemnder behandler saker etter flere forskjellige lover.
-
-51.2.2 Opplæringsloven og forskrift til
-opplæringsloven
-Klageadgang
-Opplæringsloven inneholder ikke regler om retten til å klage på enkeltvedtak eller regler om
-hvordan klager skal behandles. Det er de alminnelige reglene om klage i forvaltningsloven kapittel
-VI (§§ 28-36) som gjelder i disse tilfellene. Opplæringsloven § 9 A-7 siste avsnitt inneholder likevel
-en særregel om klageadgang. Etter bestemmelsen kan en elev eller forelder klage på en sak om
-det det fysiske skolemiljøet selv om skolen ikke
-har fattet enkeltvedtak i saken. Forutsetningen er
-at eleven eller forelderen har bedt skolen om å
-sette i gang tiltak for å rette på det fysiske miljøet
-og at skolen ikke innen rimelig tid har tatt stilling
-til saken.
-Også opplæringsloven § 9 A-6 første avsnitt
-inneholder en særregel som avviker fra normalordningen i forvaltningsloven. Regelen gjelder
-håndheving i saker om det psykososiale miljøet.
-Etter bestemmelsen kan elever og foreldre melde
-sin sak direkte til fylkesmannen, og de har rett til
-å få prøvd om skolen har oppfylt sin aktivitetsplikt.
-Saken må være tatt opp med rektor før den meldes til fylkesmannen. Eleven eller foreldrene som
-har meldt inn saken til fylkesmannen, kan klage
-på fylkesmannens vedtak hvis de ikke er fornøyd
-med vedtaket. Det følger av forvaltningsloven § 28
-at Utdanningsdirektoratet er klageinstans.
-2
-
-NOU 2019: 5.
-
-[Side 662]
-
-660
-
-NOU 2019: 23
-
-Kapittel 51
-
-Ny opplæringslov
-
-Hvem som er klageinstans
-Opplæringsloven inneholder særregler som gjør
-unntak fra forvaltningslovens regler om hvem
-som er klageinstans. Etter opplæringsloven skal
-klager på enkeltvedtak i grunnskolen som hovedregel behandles av departementet. Departementet er også klageinstans for enkelte typer vedtak i
-videregående opplæring.
-Opplæringsloven § 15-2 lyder slik:
-Departementet er klageinstans for enkeltvedtak i grunnskolen. For enkeltvedtak i personalsaker gjeld likevel reglane om klageinstans
-i § 28 i forvaltningslova.
-Departementet er klageinstans for enkeltvedtak om inntak og spesialundervisning i den
-vidaregåande opplæringa, enkeltvedtak om
-opplæring i inntil to år ekstra etter § 3-1 femte
-ledd, enkeltvedtak om særskild språkopplæring etter § 3-12 og enkeltvedtak om fysiske
-miljøforhold etter § 9 A-7.
-I samband med klage på inntak til vidaregåande opplæring kan departementet ikkje overprøve eit vedtak i fylkeskommunen om kva for
-utdanningsprogram på vidaregåande trinn 15
-eller programområde på vidaregåande trinn 2
-og 3, eller kva for skole ein søkjar skal takast
-inn på. For slike vedtak og for vedtak om inntak
-av gjesteelevar gjeld reglane om klageinstans i
-§ 28 i forvaltningslova. Departementet er klageinstans for enkeltvedtak om inntak til eit særskilt utdanningsprogram på vidaregåande trinn
-1 på grunnlag av sakkunnig vurdering.
-Unntaket i opplæringsloven § 15-2 går ut på at det
-er departementet, ikke forvaltningsorganet som
-følger av forvaltningsloven § 28, som er klageinstans for en rekke enkeltvedtak. Det gjelder
-1. alle enkeltvedtak som gjelder elever og voksne
-som får grunnskoleopplæring
-2. disse enkeltvedtakene som gjelder elever i
-videregående opplæring:
-– inntak til videregående opplæring
-– inntak til et særskilt utdanningsprogram på
-videregående trinn 1
-– spesialundervisning
-– særskilt språkopplæring
-– det fysiske skolemiljøet
-– opplæring i opp til to år ekstra
-For klage på vedtak om hvilket utdanningsprogram, programområde eller skole en søker skal
-tas inn på, og for klage på vedtak om inntak av
-gjesteelever, gjelder de vanlige reglene om klage-
-
-instans i § 28 i forvaltningsloven, jf. opplæringsloven § 15-2 tredje avsnitt. Det innebærer at det er
-fylkestinget eller særskilte klagenemnder oppnevnt av fylkestinget som er klageinstans i slike
-saker. I øvrige avgjørelser som gjelder inntak, er
-det derimot departementet som er klageinstans.
-Departementet har delegert sin myndighet
-etter opplæringsloven § 15-2 til Utdanningsdirektoratet i brev av 13.09.2013.3 Utdanningsdirektoratet har delegert sin myndighet videre til fylkesmannen i brev av 05.11.2013.4 Det innebærer at
-det i realiteten er fylkesmannen som er klageinstans for alle enkeltvedtak i grunnskolen og for de
-enkeltvedtakene i videregående opplæring som er
-nevnt ovenfor.
-For klager på vedtak om vurdering er det fastsatt egne regler i forskrift til opplæringsloven
-kapittel 5. Klageinstansen for vurdering av skriftlig eksamen er egne klagenemnder som er oppnevnt av fylkesmannen, jf. forskriftens § 5-9. For
-klage på standpunktkarakter og klage på karakter
-i orden og atferd er fylkesmannen klageinstans, jf.
-forskriftens §§ 5-12 og 5-13. For klage på bedømmingen av fag- og svenneprøve, praksisbrevprøve
-og kompetanseprøve i videregående opplæring er
-det en egen klagenemnd som er klageinstans, jf.
-forskriften § 5-14. I forskrift til opplæringsloven
-kapittel 3 og 4 er det også fastsatt at fylkesmannen
-er klageinstans for enkelte sakstyper, for eksempel for realkompetansevurdering etter § 4-13 og
-for særskilt tilrettelegging av eksamen etter §§ 332 og 4-25.
-
-51.2.3 Andre lover
-Staten (ofte ved fylkesmannen) er klageinstans på
-en rekke andre velferdsområder enn opplæringsområdet, blant annet etter barneverntjenesteloven, helse- og omsorgstjenesteloven og sosialtjenesteloven.
-
-51.3 Kunnskapsgrunnlaget
-51.3.1 Bakgrunnen for særreglene om
-klageinstans i dagens opplæringslov
-Reglene i opplæringsloven § 15-2 om unntak fra
-de alminnelige reglene om klageinstans i forvaltningsloven er i hovedsak en videreføring av tidligere regler om klageinstans i tidligere lov om
-grunnskolen og lov om videregående opplæring.
-Reglene er i tråd med forslagene fra Smithutval3
-4
-
-Kunnskapsdepartementet, brev datert 13. september 2013.
-Utdanningsdirektoratet, brev datert 5. november 2013.
-
-[Side 663]
-
-NOU 2019: 23
-Ny opplæringslov
-
-get, jf. NOU 1995: 18. Smithutvalgets arbeid med
-spørsmål om klageinstans skjedde innenfor rammene departementet ga i forbindelse med utvalgets mandat i brev 27. februar 1994:
-Departementet legger til grunn at det fortsatt
-bør være særregler om hvem som skal være
-klageinstans. Det går inn for at departementet
-skal være klageinstans i de tilfeller der en
-ønsker at det skal være statlig overprøving. Det
-vil da være departementet som avgjør om det
-selv skal behandle klagene, eller delegere
-kompetansen til lokale eller regionale statlige
-instanser.5
-I hovedsak foreslo Smithutvalget lovbestemmelser i tråd med disse rammene. Utvalget foreslo for
-øvrig å endre reglene om klageinstans i videregående opplæring ved at departementet skulle være
-klageinstans for vedtak om inntak til videregående opplæring og om spesialundervisning.
-Bakgrunnen for ønsket om at staten skal være
-klageinstans når det gjelder overprøving av kommunale vedtak, har utvalget forklart slik:
-Variasjonsbredden i kommunenes størrelse,
-organisering og kompetanse kan sies å være så
-stor at den enkelte elev ikke i tilstrekkelig grad
-er sikret en ensartet og kompetent behandling
-av klager knyttet til en pliktig opplæring ved en
-intern klagebehandling i kommunen. Det er
-bl.a. av denne grunn statlig overprøving av
-enkeltvedtak i grunnskolen.6
-Når det gjelder overprøving av fylkeskommunale
-vedtak, uttalte departementet i ovennevnte brev
-dette:
-Fylkeskommunene på sin side er organisasjoner med en størrelse, organisering og kompetanse som etter departementets vurderinger
-kan sikre ensartet, kompetent og saklig
-behandling av klager knyttet til den videregående opplæring. Det er bl.a. av denne grunn
-slik at klagebehandlingen i videregående opplæring som hovedregel foretas internt i fylkeskommunen.
-
-51.3.2 Antall klager og resultatet av
-fylkesmannens klagebehandling
-Fylkesmennene utarbeider årlig en oversikt til
-Utdanningsdirektoratet over de klagesakene de
-har behandlet.
-I oppsummeringen av årsrapportene fra fylkesmennene fra 20167 skriver Utdanningsdirektoratet følgende:
-I 2005 rapporterte fylkesmennene om 675 klager på spesialundervisning. Dette innebærer at
-i tidsrommet fra 2005 til 2016 er antall klager
-knyttet til spesialundervisning redusert med
-77 prosent. Vi har ingen forklaring på denne
-utviklingen, men mener dette bør ses nærmere
-på. Vi er bekymret for den store nedgangen i
-antall klager på vedtak om spesialundervisning. En så stor reduksjon i antall klager, uten
-at det er holdepunkter for at skolene/skoleeierne oppfyller elevenes rettigheter i større
-grad enn i 2005, gir grunn til å se nærmere på
-om dette er en rettssikkerhetsutfordring.
-Elever i grunnskolen og videregående opplæring
-har likelydende rettigheter når det gjelder krav til
-skolemiljøet og rett til spesialundervisning.
-Årsrapportene viser videre at det er store variasjoner i antall klager fra elever i henholdsvis grunnskolen og videregående opplæring.
-Rapporteringen fra 20118 bekrefter at det er en
-langt lavere andel elever og lærekandidater i videregående opplæring som klager til fylkesmannen.
-Fylkesmennene mottok dette året 113 klager på
-skolemiljøet i grunnskolen, mens det tilsvarende
-tallet i videregående opplæring var én. På spesialundervisningsområdet mottok fylkesmennene
-285 klager fra elever i grunnskolen, mens de kun
-mottok sju klager fra elever og lærekandidater i
-videregående opplæring.
-Det er også forskjeller mellom fylkene. Fylkesmannen i Aust- og Vest-Agder behandlet 5 klagesaker knyttet til psykososialt miljø i 2016, mens
-Nordland og Oslo og Akershus behandlet henholdsvis 14 og 43 klagesaker.
-I løpet av perioden 2010–2014 er det registrert
-en reduksjon i antall klager på standpunktkarakterer både i grunnskolen og i videregående opplæring. Det er også reduksjon i antall klager som er
-gitt medhold enten hos fylkesmennene eller hos
-fylkeskommunene.9 I Utdanningsdirektoratets
-7
-
-5
-6
-
-NOU 1995: 18, vedlegg 1.
-NOU 1995: 18, vedlegg 1.
-
-661
-
-Kapittel 51
-
-8
-9
-
-Utdanningsdirektoratet, 2017b.
-Utdanningsdirektoratet, 2012b.
-Utdanningsdirektoratet. 2015c.
-
-[Side 664]
-
-662
-
-NOU 2019: 23
-
-Kapittel 51
-
-Ny opplæringslov
-
-oppsummering av årsrapportene til fylkesmennene for 2016 står det følgende:
-Vi ser her at 43 prosent av klagene til fylkesmannen i grunnskolen gjelder standpunktkarakterer i fag. Fylkesmannen opphever i 75 prosent av disse sakene skolens vedtak og sender
-saken tilbake til skolen for ny behandling.
-Dette betyr at fylkesmannen i disse sakene
-konkluderer med at skolen ikke har fulgt gjeldende bestemmelser i forskrift til opplæringsloven for karakterfastsettelse. Til sammenligning ser vi i saker om skoleplassering og permisjoner at klager sjelden får medhold.
-
-51.3.3 Innspill til utvalget
-Utvalget har mottatt innspill fra Barneombudet
-om at det er behov for å gjennomgå reglene om
-hva det kan klages på etter opplæringsloven. Barneombudet mener at det er inkonsekvens i klageordningene, særlig når det gjelder klage på vedtak
-i videregående opplæring. Ombudet peker på at
-utvalget blant annet bør se på reglene om klage
-ved inntak til videregående opplæring i opplæringsloven § 15-2: Hva skal det kunne klages på,
-og til hvem? Hvilken klageinstans vil best kunne
-ivareta elevens rettssikkerhet? Barneombudet har
-også gitt innspill om at utvalget må se på om klagemekanismene er gode nok. Barneombudets
-fagrapport viser at vedtak om spesialundervisning
-ikke har blitt bedre.10
-Foreldreutvalget
-for
-grunnopplæringen
-(FUG) har også bedt utvalget om å vurdere klageordningen. FUG skriver at når foreldre opplever
-at deres barn ikke har en trygg og god skolehverdag eller ikke får en opplæring som gjør at de kan
-utnytte sitt potensial for læring, trenger de en klageordning som sikrer barnet. FUG ber om at
-utvalget vurderer om klageordningen i større
-grad kan sikre alle elevers rett til opplæring.11
-KS har bedt utvalget om å vurdere i hvilken
-grad det er nødvendig med egne saksbehandlingsregler i opplæringsloven ut over det som følger av forvaltningsloven. KS mener at forvaltningslovens regler om saksbehandling, enkeltvedtak, klager osv. må gjelde på opplæringslovens
-område.12
-
-10
-
-Barneombudet, innspill til utvalget.
-FUG, innspill til utvalget.
-12
-KS, innspill til utvalget.
-11
-
-51.4 Utvalgets vurdering
-51.4.1 Krav til saksbehandlingen
-Forvaltningsloven fastsetter grunnprinsippene for
-og krav til saksbehandlingen i forvaltningssaker,
-og lovens formål er å sikre den enkelte innbygger
-en trygg og grundig saksbehandling, forutsigbarhet og likebehandling fra det offentliges side. I
-særlovgivningen, slik som opplæringsloven, kan
-det gjøres unntak fra de generelle reglene i forvaltningsloven. Dersom det ikke er gitt regler om
-saksbehandlingen i særlovgivningen, er det forvaltningslovens regler om behandlingsmåten i forvaltningssaker som gjelder.
-I opplæringsloven § 15-2 er det gjort unntak
-fra forvaltningsloven når det gjelder hvem som er
-klageinstans, se kapittel 51.2.2 ovenfor. Ordningen i opplæringsloven går ut på at enkeltvedtak
-som gjelder elever i grunnskolen, som hovedregel
-skal kunne påklages til staten, og ikke til det forvaltningsorganet som er nærmest overordnet det
-forvaltningsorganet som har truffet vedtaket. Det
-samme gjelder for noen utvalgte enkeltvedtak i
-videregående opplæring: (1) inntak til videregående opplæring, (2) inntak til et særskilt utdanningsprogram, (3) spesialundervisning, (4) særskilt språkopplæring, (5) det fysiske skolemiljøet
-og (6) opplæring i inntil to år ekstra.
-Dagens særregler om klageinstans er i lovens
-forarbeider begrunnet med at «departementet
-skal være klageinstans i de tilfeller der en ønsker
-at det skal være statlig overprøving», se kapittel
-51.3.1 om bakgrunnen for disse reglene.
-51.4.2 Er det nødvendig at staten overprøver
-kommunale og fylkeskommunale
-vedtak etter opplæringsloven?
-I dag er staten klageinstans på alle enkeltvedtak
-som gjelder elever i grunnskolen, men kun på
-noen utvalgte enkeltvedtak som gjelder elever i
-videregående opplæring.
-Departementet vurderte det slik i 1994 at fylkeskommunene var mer kompetente enn kommunene til å være klageinstans. Et prinsipielt spørsmål er om kommunenes og fylkeskommunenes
-kompetanse er endret siden 1994, og om kommunene i dag har tilstrekkelig kompetanse og kapasitet til å avgjøre klager på enkeltvedtak etter opplæringsloven.
-I Norge er det i dag 422 kommuner, og det er
-store forskjeller kommunene imellom når det gjelder blant annet innbyggertall og størrelsen på fagmiljøer. Den formelle juridiske kompetansen vari-
-
-[Side 665]
-
-NOU 2019: 23
-Ny opplæringslov
-
-663
-
-Kapittel 51
-
-erer. I mindre kommuner er det for eksempel mindre utbredt å ha ansatte jurister som arbeider med
-spesialfelt. Dette betyr at forståelsen av og kjennskapen til loven også kan være ujevnt fordelt i de
-ulike nivåene i forvaltningen. Ifølge Juristforbundet var det i 2016 bare rundt 150 av landets 434
-kommuner, det vil si cirka 34 prosent av kommunene, som hadde ansatt egne jurister.13 En undersøkelse fra 2010 basert på tall fra KS viser at det
-bare var 13 ansatte med juridisk embetseksamen i
-de 131 kommunene med opptil 2 500 innbyggere.
-Selv blant de 103 kommunene med opptil 5 000
-innbyggere var det bare 25 ansatte med denne
-kompetansen.14 I Meld. St. 14 (2014–2015) er det
-pekt på at det er stor ulikhet i hvor gode og store
-kommunenes fagmiljøer er. I mange små kommuner vil tilfeldige svingninger i innbyggernes etterspørsel samt ustabilitet eller variasjoner i fagmiljøenes kompetanse kunne gi store konsekvenser for
-innbyggerne og kommunene.
-Utvalget mener at varierende faglig kompetanse i kommunene kan være en utfordring for
-rettssikkerheten og vurderingen av skjønnsspørsmål. I dag forutsettes det imidlertid at kommunene må sørge for å ha nødvendig kompetanse og
-kapasitet for å kunne utføre lovpålagte tjenester
-eller delta i interkommunalt samarbeid som kan
-avhjelpe eventuell manglende kompetanse i kommunen. I kommuneloven, som ble vedtatt 22. juni
-2018, er det dessuten tatt inn en ny og detaljert
-internkontrollbestemmelse i § 25-1, som i hovedsak kan erstatte internkontrollbestemmelser i
-særlovgivningen. Etter bestemmelsen skal kommunene ha et system som sikrer at lover og forskrifter følges.
-Regjeringen har gjennomført en kommunereform for å gjøre kommunene i stand til å gi gode
-velferdstjenester, utvikle sine lokalsamfunn og
-løse framtidens utfordringer. Dette er den største
-endringen i kommunestrukturen siden 1960-tallet.
-Reformen er basert på lokale prosesser, og 119
-kommuner blir 47 nye, og 1. januar 2020 har vi 356
-kommuner i Norge. Det vil gi flere større kommuner som kan gi bedre tjenester. Det vil allikevel
-fortsatt være mange små kommuner i Norge også
-etter 2020. Se mer om kommunereformen i kapittel 11.6.
-Utvalget mener at det er tvilsomt om det i dag
-er belegg for å påstå at fylkeskommunene er mer
-kompetente enn kommunene til å avgjøre klagesaker, slik departementet la til grunn i 1994, men
-det vil fortsatt kunne være varierende faglig kom-
-
-petanse i kommunene. Kommuner og fylkeskommuner bør uansett stå likt når det gjelder forventninger til å utføre lovpålagte tjenester og avgjøre
-klager på enkeltvedtak.
-En kommunal klageinstans kan gi større sikkerhet for lokale tilpasninger og for at lokale oppfatninger blir tatt i betraktning i klagesaken. Når
-vedtaket i en klagesak kan ha økonomiske konsekvenser for en kommune, vil det samsvare bedre
-med budsjettansvaret om avgjørelsen treffes av en
-kommunal klageinstans, men det kan også gjøre
-at klageinstansens avgjørelse blir påvirket av budsjettmessige hensyn i større utstrekning enn det
-er saklig grunn til.
-I vurderingen av om staten bør være klageinstans, kan man se hen til regelen om at når et statlig organ er klageinstans for vedtak truffet av en
-kommune eller fylkeskommune, skal klageinstansen legge stor vekt på hensynet til det kommunale
-selvstyret ved prøving av forvaltningsskjønnet.
-Dette følger av forvaltningsloven § 34 andre
-avsnitt. Regelen, som trådte i kraft 1. januar 2018,
-legger føringer for hvordan klageinstansen skal
-vekte hensynet til det kommunale selvstyret ved
-prøving av forvaltningsskjønnet. Regelen innebærer at klageinstansen skal legge stor vekt på
-det kommunale selvstyret i de tilfellene kommunen har et valg mellom flere ulike lovlige handlingsalternativer. Lovbundet skjønn er ikke omfattet av bestemmelsen. Prinsippet om kommunalt
-selvstyre er også forankret i Grunnloven § 49.
-Bakgrunnen for regelen i forvaltningsloven § 34
-er at regjeringen ønsket å styrke det kommunale
-selvstyret for at innbyggerne i større grad skal
-kunne påvirke samfunnsutviklingen og innretningen av tjenestetilbudet i sitt eget lokalsamfunn.15
-Også prinsippene for statlig styring av kommuner taler for at organer i kommunen er klageinstans.16 Det gjelder særlig prinsippet om kommunal egenkontroll, som går ut på at når kommunene er pålagt en oppgave i lov, har de ansvaret
-for å løse oppgaven i tråd med reglene som gjelder. Kommunene skal se til at oppgaven blir løst,
-og at reglene blir fulgt. Egenkontrollen er den
-samlede kontrollen kommunene utfører med
-egen virksomhet. Kravene i regelverket til formelle prosesser og skillet mellom de ulike rollene
-som aktørene har, innebærer at personer og organer ikke skal kontrollere eget arbeid. Egenkontrollen bidrar til å bygge opp under tilliten til kommunen, blant annet ved å forebygge og avdekke
-
-13
-
-15
-
-14
-
-Gangnes, 2018.
-Utdanningsdirektoratet, 2011.
-
-16
-
-Prop. 64 L (2016–2017).
-Kommunal- og moderniseringsdepartementet, 2016a.
+## Dagens regler
+
+Generelt
+
+I dagens opplæringslov står det i kapittel 4A hvilke regler som gjelder for grunnskoleopplæring og videregående opplæring for voksne elever. De reglene som bare gjelder for grunnopplæring for voksne, er skrevet i full tekst, mens det er henvist til reglene som gjelder for ordinær grunnopplæring, og som også gjelder for voksne elever.
+
+Rett til grunnskoleopplæring for voksne
+
+Det følger av opplæringsloven § 4A-1 første avsnitt at voksne som «treng» grunnskoleopplæring, har rett til slik opplæring. Videre er det vilkår om at man er over grunnskolepliktig alder, ikke har rett til videregående opplæring etter § 3-1 (ungdomsrett) og har lovlig opphold i Norge.
+
+Hva som er over grunnskolepliktig alder, er avhengig av når den enkelte begynner på skolen. Opplæringsloven åpner for både tidlig og utsatt skolestart på visse vilkår. Opplæringsplikten varer fra skolestart til den enkelte har avsluttet det 10. skoleåret, som vanligvis er det året personen fyller 16 år.
+
+Det er bare voksne som ikke har ungdomsrett til videregående opplæring, som kan ha rett til grunnskoleopplæring som voksne. Ungdomsretten til videregående opplæring er omtalt i kapittel 24. Kravet til lovlig opphold er det samme som for ungdommers rett til videregående opplæring etter § 3-1. Dette kravet er omtalt i kapittel 25.
+
+Det fjerde og avgjørende vilkåret for å ha rett til grunnskoleopplæring etter § 4A-1, er at søkeren trenger grunnskoleopplæring. I forarbeidene til loven er det utdypet at det kan være ulike årsaker til at den voksne har behov for grunnskoleopplæring.[^1381] Det vises til at den voksne kan ha behov for fornyet grunnskoleopplæring på grunn av sykdom eller skade, fordi grunnskoleopplæringen har vært mangelfull, eller fordi den voksne av andre grunner har behov for mer opplæring. I vurderingen av om den voksne har behov for grunnskoleopplæring, skal det legges vekt på søkerens egne vurdering. Egen vurdering av opplæringsbehovet kan likevel ikke uten videre være avgjørende for om vedkommende har krav på opplæring. Søkerens vurdering av eget behov må ses i sammenheng med opplæringstilbudet vedkommende har fått tidligere, og om søkeren objektivt sett har et reelt behov.
+
+I Ot.prp. nr. 44 (1999–2000) i merknaden til § 4A-1 står det følgende:
+
+Personar som har fått eit likeverdig opplæringstilbod, vil i mange tilfelle ikkje ha behov for ytterlegare grunnskoleopplæring. Somme vil likevel ha eit slikt behov, og dermed ha rett til grunnskoleopplæring. Dersom den tidlegare opplæringa ikkje inkluderte dei fag ein i dag treng for å få vitnemål for fullført grunnskoleopplæring for vaksne, vil ein kunne ha behov for, og dermed rett til, opplæring så langt behovet rekk.
+
+Behovet til personer med utenlandsk bakgrunn og utdanning må vurderes etter de behovene vedkommende har etter dagens norske forhold. Her vurderes likeverdigheten av den opplæring søkeren har mottatt, opp mot Læreplanverket for Kunnskapsløftet.[^1382]
+
+Det følger av opplæringsloven § 4A-1 første avsnitt andre setning at retten til opplæring «til vanleg» omfatter de fagene man trenger for å få vitnemål for fullført grunnskoleopplæring for voksne. Kunnskapsdepartementet har lagt til grunn at denne ordlyden uttrykker en yttergrense for hvilke fag som skal inngå i opplæringen – i den forstand at man normalt ikke vil ha krav på opplæring i fag som musikk og kroppsøving mv.[^1383]
+
+Kunnskapsdepartementet har i en tolkningsuttalelse fra 2011 lagt til grunn at behovet for opplæring ikke trenger å være knyttet til hele fag, men at voksne også har rett til opplæring dersom de har behov for opplæring i deler av fag eller i de fem grunnleggende ferdighetene som inngår i gjeldende læreplanverk. Én av de grunnleggende ferdighetene er digitale ferdigheter. Departementet har uttalt følgende om rett til grunnskoleopplæring på grunn av behov knyttet til digitale ferdigheter:
+
+Departementet forstår \[…\] loven slik at voksne med rett til grunnskoleopplæring etter § 4A-1 kan kreve opplæring i digitale ferdigheter når behovet er knyttet til dette, med utgangspunkt i kompetansemålene for de digitale ferdighetene i læreplanene for de fem fagene som voksne må ha sluttvurdering i for å få vitnemål, men likevel tilpasset den voksnes behov.[^1384]
+
+Det følger av opplæringsloven § 4A-1 tredje avsnitt at «opplæringa og undervisningsmateriellet er gratis». Det følger av forarbeidene at det ordinære gratisprinsippet i grunnskolen også gjelder for voksne, og at det ikke er ment et annet innhold selv om formuleringen er annerledes.
+
+Rett til spesialundervisning på grunnskolens område
+
+Retten til spesialundervisning for voksne på grunnskolens område er regulert i opplæringsloven § 4A-2. I første avsnitt er det fastsatt at voksne som ikke har eller kan få tilfredsstillende utbytte av det ordinære opplæringstilbudet for voksne, har rett til spesialundervisning. Denne formuleringen er lik som for retten til spesialundervisning for barn og unge i opplæringsloven § 5-1. Reglene om spesialundervisning i opplæringsloven kapittel 5 gjelder tilsvarende for voksne, utenom kravet i § 5-1 andre avsnitt siste setning om at den som får spesialundervisning, skal ha det samme totaltimetallet som andre elever. Årsaken til at denne ikke gjelder for voksne elever, er at det ikke er fastsatt timetall for grunnskoleopplæring for voksne. Spesialundervisning for barn og unge er omtalt i kapittel 31.
+
+I tillegg til den ordinære retten til spesialundervisning har voksne som har særlige behov for opplæring for å kunne utvikle eller holde ved like grunnleggende ferdigheter, rett til slik opplæring. Dette følger av § 4A-2 andre avsnitt. Bestemmelsen er en videreføring av den rettigheten som fulgte av voksenopplæringsloven av 1976 § 5 andre avsnitt, slik denne ble tolket av Høyesterett i Malviksaken.[^1385]
+
+Voksenopplæringsloven § 5 andre avsnitt lød slik:
+
+Voksne som etter sakkyndig vurdering har særlig behov for spesialundervisning på grunnskolens område, har rett til opplæring. Denne skal være likeverdig med den opplæring som gis etter lov om grunnskolen. Departementet kan gi nærmere regler.
+
+I Malviksaken uttalte Høyesterett følgende om tolkningen av voksenopplæringsloven § 5 andre avsnitt:
+
+Det fremgår av Innst. O. nr. 4 (1982–83) at det er den opplæringsrett grunnskoleloven gir alle elever i samsvar med evner og forutsetninger, som etter likhetsprinsippet skal tilflyte voksne som har manglet et slikt undervisningstilbud. \[…\] Jeg finner etter dette at A bare har krav på videre opplæring etter voksenopplæringsloven § 5 annet ledd dersom det undervisningstilbud hun alt har fått, ikke er likeverdig med minstekravet på vanlig grunnskoleopplæring.
+
+I Utdanningsdirektoratets rundskriv er det lagt til grunn at den voksne må oppfylle vilkårene for retten til grunnskoleopplæring i § 4A-1 første avsnitt for å kunne ha rett til spesialundervisning etter § 4A-2. For at den voksne skal ha rett til spesialundervisning etter § 4A-2 andre avsnitt, må følgende tre vilkår være oppfylt:
+
+1\. Behovet må være knyttet til *grunnleggende ferdigheter*.
+
+2\. Behovet må gjelde *opplæring* for å vedlikeholde eller utvikle grunnleggende ferdigheter.
+
+3\. Den voksne må ha et *særlig behov*.
+
+I forarbeidene står det at «\[g\]runnleggjande dugleik er i denne samanhengen meint å dekkje ADL-trening (opplæring i daglege gjeremål), grunnleggjande kommunikasjonsdugleik, grunnleggjande lese- og skrivedugleik, motorisk trening og liknande».[^1386] Ferdighetene som det vises til i opplæringsloven § 4A-2 andre avsnitt er altså en sammenblanding av ferdigheter som er grunnleggende ferdigheter i Læreplanverket for Kunnskapsløftet, og andre ferdigheter.
+
+I Utdanningsdirektoratets rundskriv er det presisert at dersom hensikten med tilbudet er behandling, aktivisering, rehabilitering, opptrening, tilsyn mv., vil det falle utenfor § 4A-2 andre avsnitt. I rundskrivet er det skissert noen kriterier som må være oppfylt for at en aktivitet skal regnes som opplæring. Det er blant annet lagt til grunn at aktiviteten må ha et pedagogisk siktemål, at den må være knyttet til opplæring i fag og gis gjennom opplæring i fag, stå under skoleeiers ledelse og ansvar og gjennomføres innenfor rammene i enkeltvedtaket om spesialundervisning.
+
+I NOU 1995: 18 ble vedlikeholdsopplæring i grunnleggende ferdigheter og forståelsen av Malviksaken omtalt slik:
+
+Når det gjelder elevgrupper med sterkt behov for vedlikeholdsopplæring i grunnleggende ferdigheter, kan det etter høyesterettsdommen synes som om de ikke har krav på ytterligere opplæring når de allerede har fått ni års grunnskoleopplæring tilpasset deres særlige behov. Rettens premisser er imidlertid ikke helt klare på dette punktet, og uttalelser i så vel juridisk teori som i lovforarbeidene trekker i retning av at også disse elevene var ment omfattet av vol. § 5 annet ledd. Også St.meld. nr. 35 (1990–91) synes å legge til grunn at elever med behov for vedlikeholdsopplæring vil kunne ha rett til dette i medhold av voksenopplæringsloven § 5 annet ledd (se særlig s. 6). Fortsatt er det imidlertid uklart hvilket omfang og hvilken varighet en slik rettighet til fortsatt opplæring på grunnskolens område skal ha. Det er imidlertid på det rene at en del personer faktisk vil ha behov for slik opplæring livet ut, noe som har vært understreket av departementet og Stortinget i flere sammenhenger. Mye tyder også på at reglene har vært praktisert uten tidsbegrensning for dem som er i en slik situasjon, f. eks. voksne med psykisk utviklingshemning.[^1387]
+
+I den påfølgende lovproposisjonen står det at: «Departementet forstår utvalet slik at rett til livslangt tilbod ikkje skal vere noka normalordning etter lova, og berre vil vere aktuell i svært få tilfelle».[^1388]
+
+I et brev fra 2013 har Utdanningsdirektoratet svart Blindeforbundet på et spørsmål om mobilitetstrening etter opplæringsloven § 4A-2 andre avsnitt. Spørsmålet gjaldt om mobilitetstrening for studenter var å regne som grunnskoleopplæring, som dermed skulle finansieres av kommunen. Direktoratet svarte at en person som har fullført grunnskoleopplæring, kan ha rett til grunnskoleopplæring for voksne, hvis vedkommende trenger det. Videre la direktoratet til grunn at mobilitetstrening kan være å anse som grunnskoleopplæring og at det også kan tenkes gitt som spesialundervisning. Direktoratet understreket at mobilitetstrening som en del av grunnskoleopplæringen, skal gis på den skolen eller det opplæringsstedet som tilbyr grunnskoleopplæring til voksne, og ikke på et universitet eller en høyskole.[^1389]
+
+I Utdanningsdirektoratets rundskriv står det følgende om voksne som trenger grunnskoleopplæring for å holde ved like eller utvikle grunnleggende ferdigheter på grunn av sykdom eller skade:
+
+Voksne som trenger grunnskoleopplæring for å holde ved like eller utvikle grunnleggende ferdigheter på grunn av sykdom eller skade, må vurderes særskilt. I disse tilfellene må §§ 4A-1 og 4A-2 andre ledd ses i sammenheng. I noen tilfeller kan det være slik at voksne som har fullført grunnskoleopplæring eller tilsvarende opplæring, likevel vil ha rett til mer grunnskoleopplæring. I disse tilfellene skal ikke kommunen vurdere søkerens behov ut fra om den voksne har fått et likeverdig opplæringstilbud, men ut fra om sykdommen eller skaden gjør at den voksne trenger mer grunnskoleopplæring.
+
+Opplæringen den voksne har mottatt tidligere, kan godt ha vært likeverdig. Det som må vurderes, er om den voksne trenger grunnskoleopplæring. Dette vil gjelde for voksne som er utsatt for en ulykke og derfor trenger opplæring for å holde ved like eller utvikle grunnleggende ferdigheter for å fungere i hverdagslivet. Det samme vil gjelde for voksne psykisk utviklingshemmede som på grunn av sin utviklingshemming trenger opplæring for å holde ved like eller utvikle grunnleggende ferdigheter.[^1390]
+
+Rett til videregående opplæring for voksne
+
+Det følger av opplæringsloven § 4A-3 at de som har fullført grunnskolen, men som ikke har fullført videregående opplæring, har rett til videregående opplæring fra det året de fyller 25 år. De som har fullført videregående opplæring i et annet land, men ikke får godkjent opplæringen som studiekompetanse eller yrkeskompetanse i Norge, har også rett til videregående opplæring for voksne. For å få rett til videregående opplæring i Norge er det også et vilkår at den den voksne har lovlig opphold i landet. Vilkårene for retten til videregående opplæring for voksne er ikke utdypet i forarbeidene til loven, men de er omtalt i et rundskriv fra Utdanningsdirektoratet.[^1391]
+
+Vilkåret om at den voksne må ha fullført grunnskolen, betyr at den voksne må oppfylle vilkårene for inntak til videregående opplæring som er fastsatt i forskrift til opplæringsloven § 6-13. Den voksne må enten ha vitnemål fra grunnskolen, være skrevet ut av grunnskolen på grunnlag av fritak, ha gjennomgått allmenn grunnopplæring i utlandet i minst ni år eller ha realkompetanse som tilsvarer fullført norsk grunnskoleopplæring for voksne. En utenlandsk søker som har gjennomgått grunnskole i sitt hjemland uten å ha hatt engelsk som fag, anses ikke å ha fullført opplæring «tilsvarende» norsk grunnskole. Dette forhindrer ikke at vedkommende tas inn på bakgrunn av realkompetanse dersom vedkommende har tilstrekkelig kompetanse i engelsk.[^1392]
+
+Det andre vilkåret er at den voksne ikke har fullført videregående opplæring. Hva som ligger i begrepet «fullført vidaregåande opplæring» må avgjøres på bakgrunn av en totalvurdering av hvor mye opplæring den voksne faktisk har mottatt. Opplæring kan være fullført uten å være bestått ved at den enkelte har «brukt opp» antallet år med opplæring vedkommende har krav på, uten å ha grunnlag for vitnemål.
+
+Elever som har avbrutt den videregående opplæringen, har ikke fullført. Etter dagens regler kan fylkeskommunen som tommelfingerregel legge til grunn at den som har vært elev ved en skole per 1. november, trolig har brukt opp retten sin til det aktuelle opplæringsåret.[^1393] Dersom en voksen tidligere har begynt på en videregående opplæring og ikke fullført, må fylkeskommunen vurdere konkret hvilket tilbud den voksne skal gis for å få enten studiekompetanse eller yrkeskompetanse.
+
+Inntaket av voksne med og uten rett til videregående opplæring er regulert i forskrift til opplæringsloven kapittel 6. Ifølge forskriften § 6-45 tredje avsnitt skal den voksne «til vanleg få tilbod om opplæring i samsvar med den sluttkompetanse dei ønskjer». I rundskriv fra Utdanningsdirektoratet er det presisert at dette imidlertid ikke kan forstås som en absolutt rett til å få opplæring innenfor ønsket utdanningsprogram. Det vises til at dersom man hadde tolket retten som en absolutt rett til ønsket sluttkompetanse, ville det kunne få store økonomiske og praktiske konsekvenser, for eksempel lange ventelister, noe som er i strid med loven. I rundskrivet legges det til grunn at fylkeskommunen må utvise skjønn når den gir tilbud om opplæring til voksne med slik rett. Den voksnes ønsker må vektlegges i vurderingen av hvilket tilbud som gis, men muligheten til å kunne oppnå den ønskede sluttkompetansen blant annet på bakgrunn av realkompetansen må også spille inn. Det vises videre til at fylkeskommunen ikke plikter å tilby samtlige programfag i videregående opplæring, men at voksnes rett til videregående opplæring imidlertid ikke er begrenset til de seks fagene som gir generell studiekompetanse etter «23/5-regelen», jf. § 2-1 (1) i forskrift om opptak til høyere utdanning.[^1394]
+
+Opplæringsloven § 13-3 femte avsnitt om fylkeskommunens plikt til å planlegge og bygge ut det videregående opplæringstilbudet gjelder også for opplæring særskilt organisert for voksne. Denne plikten er omtalt i kapittel 24.4.10.
+
+Det er ikke fastsatt noen tidsramme eller noe antall timer eller år for voksnes rett til videregående opplæring. Det er likevel klart at retten til videregående opplæring for voksne ikke er ubegrenset. I rundskriv fra Utdanningsdirektoratet er det omtalt momenter som begrenser retten, eller som kan føre til at retten faller bort.[^1395]
+
+Opplæringsloven regulerer ikke uttrykkelig voksne som får opplæring i bedrift, eller voksne som får opplæring i ordinære videregående skoler. Det er likevel lagt til grunn at en voksen som får opplæring i bedrift, har de samme rettighetene og pliktene som ungdom som får opplæring i bedrift, og at voksne som blir tatt inn til ordinær videregående opplæring, altså videregående opplæring for ungdom, har de samme rettighetene og pliktene som ungdom som får videregående opplæring.[^1396]
+
+Opplæringsloven § 4A-3 sjuende avsnitt handler om rett til påbygging til generell studiekompetanse for dem som etter 2014 har fullført og bestått fag- og yrkesopplæring som en del av ungdomsretten til videregående opplæring, eller innen utgangen av det året de fyller 24 år.
+
+Det følger av opplæringsloven § 4A-3 fjerde avsnitt at opplæringen i offentlige videregående skoler og i lærebedrifter er gratis. Det er presisert at fylkeskommunen​ har ansvaret for å holde voksne som får videregående opplæring, med nødvendige trykte og digitale læremidler og digitalt utstyr, og at voksne elever ikke kan pålegges å dekke noen deler av utgiftene til opplæringen utover det som følger av forskrift. Videre er det presisert at fylkeskommunen kan pålegge voksne å holde seg med annet individuelt utstyr som opplæringen vanligvis gjør det nødvendig å ha. Departementet kan gi nærmere forskrifter. Det er ikke fastsatt regler om dette i forskrift.
+
+Rett til realkompetansevurdering
+
+Det følger av opplæringsloven § 4A-3 femte avsnitt at voksne som har rett til videregående opplæring, har rett til vurdering av realkompetansen sin og til kompetansebevis. Videre har voksne uten rett til videregående opplæring, rett til realkompetansevurdering dersom de er henvist fra kommunen eller NAV. I forskrift til opplæringsloven §§ 6-46 og 6-47 er det fastsatt nærmere regler om realkompetansevurdering ved inntak til videregående opplæring som voksen, og i § 4-13 er det fastsatt regler om realkompetansevurdering som sluttvurdering.
+
+For voksne med rett til grunnskoleopplæring er det ikke fastsatt i opplæringsloven at de har rett til realkompetansevurdering. Det følger av § 4-13 at kommunen har ansvaret for realkompetansevurdering i grunnskolen. Bestemmelsen gjelder realkompetansevurdering som sluttvurdering. Utdanningsdirektoratet har lagt til grunn at denne bestemmelsen i kombinasjon med opplæringsloven § 4A-1 innebærer at kommunen skal foreta en realkompetansevurdering av voksne i forbindelse med kartleggingen av hvilken grunnskoleopplæring den voksne skal få. I rundskrivet er det også omtalt at realkompetansevurdering kan brukes som et redskap for å avgjøre hvilken opplæring den voksne har behov for i et fag.[^1397]
+
+Utdanningsdirektoratet har utarbeidet nasjonale retningslinjer for realkompetansevurdering i grunnskolen og i videregående opplæring.[^1398] Direktoratet viser til at retten til realkompetansevurdering må ses i sammenheng med den voksnes rett til rådgivning etter § 4A-8, hvor det skal kartlegges hvilken opplæring den voksne har behov for.
+
+Videregående opplæring for voksne uten rett
+
+Det følger av opplæringsloven § 13-3 tredje avsnitt at fylkeskommunen også skal ha et tilbud om videregående opplæring til voksne uten rett til slik opplæring. Hvilket tilbud voksne uten rett skal gis, er opp til fylkeskommunens vurdering.
+
+Dersom voksne uten rett til videregående opplæring tas inn til slik opplæring, har de rett til å fullføre opplæringsløpet. Dette følger av opplæringsloven § 4A-3 andre avsnitt.
+
+Andre måter å oppnå studie- og yrkeskompetanse på enn gjennom videregående opplæring i Norge
+
+I dag kan voksne oppnå studie- og yrkeskompetanse på flere måter som ikke innebærer at de må gjennomføre videregående opplæring. For det første kan man ta fag i videregående opplæring som privatist. Det er fylkeskommunen som har ansvaret for å gjennomføre privatisteksamen, se kapittel 46.5.
+
+Voksne som fyller 23 år eller mer det året de skal søke om opptak til høyere utdanning, kan få generell studiekompetanse på grunnlag av 23/5-regelen. For å få generell studiekompetanse med 23/5-regelen må den voksne oppfylle tre vilkår: (1) fylle 23 år eller mer det året vedkommende søker om opptak, (2) dokumentere fullført og bestått i alle de seks studiekompetansefagene og (3) dokumentere minst fem års arbeidspraksis eller utdanning.
+
+Voksne kan også oppnå yrkeskompetanse uten opplæring i skole og bedrift gjennom praksiskandidatordningen. Ordningen innebærer at voksne som kan dokumentere lang og allsidig praksis i et fag, kan gå opp til fag- eller svenneprøve. Praksiskandidatene må ha bestått en egen eksamen før de melder seg opp til fag- eller svenneprøven. Praksiskandidatordningen er omtalt i kapittel 46.6.
+
+I opplæringsloven § 3-4 a er det etablert en ordning for godkjenning av utenlandsk fag- eller yrkesopplæring som er sidestilt med norsk fag- eller svennebrev eller vitnemål. Ordningen ble innført i 2016. Det er NOKUT som er godkjenningsmyndighet. Denne ordningen er omtalt i kapittel 46.7.
+
+Faglig innhold og vurdering
+
+Det følger av opplæringsloven § 4A-6 at læreplanverket gjelder «med dei tilpassingar som følgjer av dette kapitlet». De eneste tilpasningene som er fastsatt i kapittel 4A i opplæringsloven, er at den voksne bare skal ha den opplæringen han eller hun trenger. Det betyr at dersom den voksne på bakgrunn av realkompetansevurdering eller ut fra eget ønske bare skal ha opplæring i deler av et fag, er det bare den aktuelle delen av læreplanen som skal legges til grunn for opplæringen.
+
+I forskrift til opplæringsloven § 1-2 er det fastsatt at Læreplanverket for Kunnskapsløftet skal brukes for grunnskoleopplæring for voksne så langt det passer. Videre følger det av denne bestemmelsen at opplæringen skal tilpasses voksne og være egnet til å føre fram til vitnemål etter §§ 4-31 flg. Det følger av forskrift til opplæringsloven § 4-33 at det bare er utvalgte fag fra den ordinære grunnskoleopplæringen som inngår grunnskoleopplæring for voksne.
+
+Det følger av opplæringsloven § 4A-4 tredje avsnitt at kommunen og fylkeskommunen har ansvaret for at voksne får dokumentert opplæringen de har gjennomført. I bestemmelsens femte avsnitt er departementet gitt hjemmel til å gi nærmere forskrifter om vurdering, klage på vurdering, eksamen og dokumentasjon. Slik forskrift er fastsatt i kapittel 4 og 5 i forskrift til opplæringsloven.
+
+Krav om at opplæringen skal tilpasses den voksne
+
+Det følger av opplæringsloven § 4A-1 og § 4A-3 at grunnskoleopplæringen og den videregående opplæringen skal tilpasses behovet til den voksne. Av lovens forarbeider og Utdanningsdirektoratets rundskriv framgår det at tilpasningen består av følgende elementer: (1) faglig tilpasning ved at opplæringen skal bygge videre på eller komplettere den voksnes realkompetanse, (2) organiseringen skal tilpasses den voksnes livssituasjon og (3) opplæringen skal tilpasses ved at det skal tas hensyn til eventuelle individuelle behov den voksne har. Den første formen for tilpasning er omtalt over i forbindelse med retten til grunnskoleopplæring og videregående opplæring.
+
+At organiseringen av opplæringen skal tilpasses den voksnes behov, innebærer for det første at grunnopplæringen for voksne skal organiseres som et eget tilbud til voksne, og ikke i samme grupper som barn og ungdom.[^1399] Opplæringstilbudet skal dessuten tilpasses de voksnes livssituasjon. Eksempler på tilpasninger er at undervisningens lengde og tidspunkt kan tilpasses for å gi voksne mulighet til å kombinere opplæringen med arbeid eller omsorgsoppgaver.[^1400] Opplæringsloven inneholder heller ikke de samme begrensningene for organiseringen av opplæringen for voksne som for barn og unge, som krav til nærskole, regler om gruppeinndeling og gruppestørrelse mv. Kommunen står dermed friere når det gjelder organiseringen av opplæringen for voksne. Det følger av opplæringsloven § 4A-4 andre avsnitt at kommunen kan bruke studieforbund, godkjente nettskoler og andre for å oppfylle plikten til å gi opplæring til voksne.
+
+At opplæringen skal tilpasses, innebærer også at det må tas hensyn til eventuelle individuelle behov den enkelte voksne har. Hva slags tilpasning som er aktuell, må vurderes konkret. I forarbeidene til loven er opplæring i samisk, særskilt språkopplæring, tegnspråkopplæring og opplæring i punktskrift nevnt som eksempler på aktuelle tiltak når det gjelder grunnskoleopplæring for voksne.[^1401] Forarbeidene har ikke tatt stilling til hvilke tilrettelegginger som er aktuelle på videregående nivå, men lovkravet om at opplæringen skal tilpasses den voksnes behov, gjelder også for videregående opplæring.
+
+Kunnskapsdepartementet har lagt til grunn at retten til tilpasset grunnskoleopplæring for voksne går lenger i individuell tilpasning enn retten til videregående opplæring for voksne.[^1402] Utdanningsdirektoratet har i en tolkning fra 2013 lagt til grunn at voksne i videregående opplæring har rett til tilrettelegging, men ikke en særskilt rett til punkskriftsopplæring.[^1403] I juridisk litteratur er det lagt til grunn at opplæringsloven § 3-9 om tegnspråkopplæring også gjelder for voksne som får opplæring etter kapittel 4A.[^1404]
+
+I Utdanningsdirektoratets rundskriv er det lagt til grunn at voksne som får grunnskoleopplæring, har rett til særskilt språkopplæring. Det er også lagt til grunn at voksne samer som får grunnskoleopplæring, har rett til opplæring i og på samisk. For begge tilfellene er det lagt til grunn at voksne har slike rettigheter i den grad dette er nødvendig for at den voksne kan få en forsvarlig opplæring.[^1405]
+
+Utdanningsdirektoratet har lagt til grunn at voksne i videregående opplæring bare har rett til den norskopplæringen som inngår i det utdanningsprogrammet de følger. I direktoratets rundskriv er det vist til at problemer med norskferdigheter for eksempel kan avhjelpes ved deltakelse på introduksjonsprogram. Det er lagt til grunn at det heller ikke gjelder en rett til opplæring *på* samisk for voksne i videregående opplæring. Det er derimot lagt til grunn at voksne samer har rett til opplæring *i* samisk, selv om opplæringsloven § 6-3 ikke gjelder for voksne.[^1406]
+
+Som omtalt over har voksne som får grunnskoleopplæring, rett til spesialundervisning. Voksne som får videregående opplæring, har derimot ikke rett til spesialundervisning.
+
+Det følger av opplæringsloven § 4A-13 første avsnitt at voksne som helt eller delvis mangler funksjonell tale og har behov for alternativ og supplerende kommunikasjon, skal få bruke egnede kommunikasjonsformer og nødvendige kommunikasjonsmidler i opplæringen. Bestemmelsen er en presisering av at opplæringen skal tilpasses den voksnes behov. I § 4A-13 andre avsnitt er det fastsatt at retten til spesialundervisning for voksne inkluderer nødvendig opplæring i å bruke alternativ og supplerende kommunikasjon. Dette avsnittet gjelder bare for voksne som får grunnskoleopplæring, ettersom voksne som får videregående opplæring, ikke har rett til spesialundervisning.[^1407]
+
+Kompetansekrav til undervisningspersonalet
+
+I opplæringsloven § 4A-5 er det fastsatt at tilsettingsreglene for undervisningspersonalet gjelder for opplæring særlig organisert for voksne, men at departementet kan fastsette i forskrift at det likevel kan tilsettes personer som ikke oppfyller kompetansekravene. I forskrift til opplæringsloven § 14-1 er det fastsatt at det til opplæringen av voksne kan tilsettes personer uten formell pedagogisk kompetanse under forutsetning av at vedkommende har vesentlig erfaring med og er egnet til opplæring av voksne. Bakgrunnen for unntaksmuligheten var at det ved innføringen av bestemmelsen var mange uten formell kompetanse som hadde lang erfaring med å undervise voksne. Departementet mente at slik erfaring i mange tilfeller kunne gi fullgod kompetanse, og at det var viktig å beholde disse ressursene i opplæringen for voksne.[^1408]
+
+Det følger av opplæringsloven § 4A-5 andre avsnitt at kompetansekravene for undervisningspersonalet ikke gjelder for opplæring av voksne med særlige behov for å kunne utvikle eller vedlikeholde grunnleggende ferdigheter. Opplæringen skal etter loven likevel skje under faglig og pedagogisk veiledning og ansvar.
+
+Kravene om å ha relevant kompetanse i undervisningsfaget i opplæringsloven § 10-2 gjelder ikke ved opplæring særlig organisert for voksne.
+
+Krav til læringsmiljø, regler om bortvisning og forbud mot ansiktsdekkende plagg
+
+Opplæringsloven kapittel 9 A om skolemiljø gjelder ikke for voksne. I rundskriv fra Utdanningsdirektoratet[^1409] er det presisert at kommunen likevel har et ansvar for de voksnes fysiske og psykososiale miljø, blant annet med henvisning til opplæringslovens formålsparagraf og diskriminerings- og tilgjengelighetsloven.[^1410]
+
+Det følger av § 4A-4 fjerde avsnitt at kommunen skal legge til rette for at voksne som får grunnskoleopplæring eller videregående opplæring, får mulighet til å ta aktivt del i arbeidet med å fremme et godt læringsmiljø og utdanningstilbud. I rundskriv fra Utdanningsdirektoratet er det lagt til grunn at det må være et generelt krav om at lokalene som brukes til opplæring av voksne, må være egnet til formålet.[^1411]
+
+I opplæringsloven § 4A-9 første avsnitt er det fastsatt at voksne deltakere kan bortvises fra resten av det kurset de er tatt inn på, dersom deltakeren har hatt enn oppførsel som i alvorlig grad går ut over orden og arbeidsro på skolen eller deltakeren har forsømt pliktene sine. I forbindelse med et vedtak om bortvisning, kan fylkeskommunen vedta at den voksne skal miste retten til videregående opplæring.
+
+Forbudet mot ansiktsdekkende plagg i opplæringsloven § 9-7, gjelder også for grunnopplæring særskilt organisert for voksne. Dette forbudet er omtalt i kapittel 37.5.
+
+Voksne som får videregående opplæring, har ikke rett til rådgivning etter opplæringsloven. I rundskriv har Utdanningsdirektoratet presisert at de imidlertid har rett til veiledning fra fylkeskommunen etter den generelle veiledningsplikten i forvaltningsloven.[^1412]
+
+Skyss, losji, reisefølge og tilsyn
+
+Opplæringsloven § 4A-7 inneholder regler om skyss, losji, reisefølge og tilsyn for voksne som får grunnskoleopplæring. Voksne som ikke har fullført grunnskoleopplæring og som får slik opplæring etter kapittel 4A, har rett til gratis skyss når de bor mer enn fire kilometer fra skolen. Voksne som på grunn av funksjonsnedsettelse, sykdom eller skade har behov for skyss, har rett til gratis skyss uavhengig av reiselengden. Bestemmelsen om reisefølge og tilsyn i opplæringsloven § 7-4 gjelder tilsvarende for voksne.
+
+Når daglig skyss ikke er forsvarlig, skal kommunen innlosjere den voksne. Når det er nødvendig, gjelder § 7-1 fjerde avsnitt om tilsyn tilsvarende. Ansvarsbestemmelsen om tilsyn i § 13-4 gjelder også tilsvarende for de pliktene som følger av § 4A-7.
+
+Voksne som får videregående opplæring, har ikke rett til skyss eller innlosjering. Voksne som tas inn i ordinære videregående skoler for ungdom, har likevel de samme rettighetene som ungdom i videregående opplæring, inkludert rett til skyss mv.
+
+## Kunnskapsgrunnlaget
+
+### Historikk
+
+Allerede i 1976 kom loven om voksenopplæring, som skulle gi voksne muligheter til å utvikle og oppdatere kompetansen sin. Over tid har voksne fått bedre muligheter til opplæring.
+
+Rett til grunnskoleopplæring for voksne ble innført fra august 2002 for å gi ny mulighet til voksne som ikke har fullført obligatorisk skolegang, som ikke har fått forsvarlig og tilstrekkelig grunnskoleopplæring, eller som av andre grunner har behov for slik opplæring.
+
+Rett til videregående opplæring for voksne ble innført fra august 2000 for å gi mulighet for flere voksne uten videregående opplæring til å skaffe seg slik opplæring. Fram til august 2008 gjaldt retten til videregående opplæring bare for dem som var født før 1978. I 2008 ble retten utvidet til å gjelde voksne fra og med det året de fyller 25 år. I august 2017 ble det innført rett til videregående opplæring for dem som har fullført videregående opplæring i et annet land, men som ikke får opplæringen godkjent som studiekompetanse eller yrkeskompetanse i Norge.
+
+### Rapporter og undersøkelser
+
+Antallet voksne elever i grunnskoleopplæringen
+
+I 2002, da retten til grunnskoleopplæring for voksne ble innført, var det 3 686 deltakere i ordinær grunnskoleopplæring for voksne, som omfatter deltakerne som ikke hadde vedtak om spesialundervisning. I perioden fra 2003 til 2010 var det årlig rundt 4 000 voksne som fikk slik opplæring. Fra skoleåret 2009–2010 til skoleåret 2018–2019 har antallet deltakere i ordinær grunnskoleopplæring økt fra 4 100 til 10 260 deltakere. Økningen skyldes at det har blitt langt flere minoritetsspråklige deltakere. Andelen minoritetsspråklige var om lag tre av fire i skoleåret 2008–2009, mens det i skoleåret 2018–2019 nær sagt bare er minoritetsspråklige i grunnskoleopplæringen for voksne. Hovedvekten av grunnskoleopplæringen for voksne foregår på et voksenopplæringssenter.[^1413]
+
+Når det gjelder antallet deltakere med vedtak om spesialundervisningen, er det en avtakende tendens. I skoleåret 2018–2019 var det om lag 3 300 deltakere i spesialundervisningen, og det er over 2 000 færre enn det var i 2008–2009, og over 3 500 færre enn i 2002–2003. Antallet årstimer med spesialundervisning har hatt en tilsvarende nedgang. Andelen minoritetsspråklige er økende også blant de voksne som mottar spesialundervisning, men i mindre grad enn blant de voksne som får ordinær grunnskoleopplæring.[^1414]
+
+En ekspertgruppe for spesialpedagogikk mener at den markante reduksjonen både i antallet timer og i personer som får spesialundervisning, kan indikere at mange voksne i dag ikke får oppfylt rettighetene de har etter § 4A-2. En årsak kan ifølge ekspertgruppen være manglende kunnskap om regelverket kombinert med mangel på spesialpedagogisk kompetanse tilpasset voksne i kommunene.[^1415]
+
+Antallet voksne elever i videregående opplæring mv.
+
+Det er i dag om lag 500 000 personer i aldersgruppen mellom 25 og 60 år som ikke har vitnemål, fagbrev eller svennebrev fra videregående opplæring. Innvandrere utgjør nå en betraktelig større andel av befolkningen som er uten videregående opplæring, enn tilfellet var på 1990-tallet. Med innvandrere menes her personer som er født i utlandet av to utenlandske foreldre. Mens innvandrere sto for 4 prosent av voksenbefolkningen uten videregående opplæring i 1990, utgjorde denne gruppen 29 prosent i 2017.[^1416]
+
+I løpet av året 2018–2019 var det nærmere 16 100 voksne deltakere i videregående skoler eller på voksenopplæringssentre. Dette var en økning i antallet deltakere på nesten 2 200 personer fra året før. Veksten i antallet deltakere er størst for helse- og oppvekstfag og studieforberedende utdanningsprogrammer, mens den prosentvise økningen er størst for teknikk og industriell produksjon og restaurant- og matfag. 80 prosent av deltakerne deltar i opplæring spesielt organisert for voksne.[^1417]
+
+Det publiseres ikke nasjonal statistikk som viser hvor mange som søker fylkeskommunene om å få ta videregående opplæring som voksen. En spørreundersøkelse hos fylkeskommunen viser at det i perioden 30. september 2017 til 1. oktober 2018 var 22 500 voksne som søkte videregående opplæring. De innrapporterte tallene viser at 70 prosent av de voksne søkerne har rett til videregående opplæring etter opplæringsloven, mens 30 prosent av søkerne ikke har en slik rett. Andelen søkere uten rett varierer betydelig mellom fylkeskommunene. Bare én fylkeskommune oppgir at de ikke har søkere uten rett, og én annen fylkeskommune oppgir at 62 prosent av søkerne var uten rett til videregående opplæring. Svarene fra fylkeskommunene viser at 86 prosent av de voksne som fikk tilbud om videregående opplæring, hadde rett etter opplæringsloven, og at 14 prosent ikke hadde en slik rett.[^1418]
+
+I skoleåret 2016–2017 ble det gjennomført realkompetansevurdering av 2 prosent av de voksne deltakerne i grunnskolen. I 2016 ble det gjennomført realkompetansevurdering av 3 085 voksne i videregående opplæring. Dette utgjorde om lag 10 prosent av deltakerne i videregående opplæring. Prosentandelen var relativt lik årene før.[^1419]
+
+Stortingsmelding om utenforskap
+
+I Meld. St. 16 (2015–2016) *Fra utenforskap til ny sjanse* – *Samordnet innsats for voksnes læring* var det flere forslag for å forbedre grunnopplæringen for voksne. Ett av forslagene var å sette i gang forsøk med modulstrukturert opplæring på nivået under videregående opplæring og i utvalgte lærefag innenfor yrkesfaglige utdanningsprogram. I 2016 ga Kunnskapsdepartementet i oppdrag til Utdanningsdirektoratet og Kompetanse Norge å gjennomføre slike forsøk. Forsøket var fastsatt til å gå over tre år. Modulforsøkene for opplæring av voksne på videregående nivå har senere blitt utvidet. Modulene skal kunne brukes på tvers av fag, og skal være et virkemiddel for å sikre et tverrsektorielt samarbeid, et godt samarbeid med lokalt arbeidsliv og bidra til en mer effektiv opplæring for voksne. Modulstrukturert opplæring skal også gjøre det enklere å kombinere grunnskoleopplæring, videregående opplæring, introduksjonsprogrammet og arbeidsrettede tiltak i NAV.[^1420]
+
+I stortingsmeldingen gikk regjeringen inn for å oppheve unntaksbestemmelsen i forskrift til opplæringsloven som åpner for at det kan ansettes lærere uten formell pedagogisk kompetanse til opplæring av voksne. Stortingsmeldingen inneholdt også forslag om flere lovendringer, som nå er gjennomført. Dette gjelder for eksempel utvidelse av ungdomsretten til videregående opplæring for å få en direkte overgang til voksenretten, innføring av rett til videregående opplæring for voksne som har gjennomført videregående opplæring i utlandet og som ikke får denne godkjent i Norge, etablering av en ordning med fagbrev på jobb som en alternativ vei til fag- og svennebrev og etablering en nasjonal godkjenningsordning for utenlandsk fagopplæring.
+
+NOU om finansiering av livsopphold
+
+I NOU 2018: 13 *Voksne i grunnskole- og videregående opplæring – Finansiering av livsopphold* viser Livsoppholdsutvalget til at nesten 600 000 voksne i alderen 25–66 år mangler fullført videregående opplæring, og at det årlig er nesten 15 000 personer som runder 25 år uten yrkes- eller studiekompetanse. Videre peker utvalget på at en stadig økende andel av personer uten videregående opplæring er uten lønnet arbeid, og at det over tid har blitt flere uføretrygdede. Utvalget peker på at den generelle samfunnsutviklingen med økt digitalisering og mer omfattende krav til formell utdanning tilsier at sammenhengen mellom utdanning og sysselsetting vil bli sterkere i årene som kommer.
+
+Livsoppholdsutvalget mener at dagens grunnopplæringstilbud for voksne framstår som mangelfullt og for lite fleksibelt. Utvalget viser til at manglende tilbud i nærområdet og mangel på læreplasser for voksne kan være en utfordring. Spesielt utfordrende har det ifølge utvalget vært å få tatt grunnopplæring som en del av introduksjonsordningen, men utvalget viser til at det her har skjedd en oppmyking av regelverket. Livsoppholdsutvalget har fått kartlagt kommunenes og fylkeskommunenes samlede kostnader knyttet til opplæringstilbud for voksne.
+
+NOU om kunnskapsgrunnlag om struktur og innhold i videregående opplæring
+
+I NOU 2018: 15 *Kvalifisert, forberedt og motivert – Et kunnskapsgrunnlag om struktur og innhold i videregående opplæring* (Liedutvalget) omtales styrker og svakheter med den videregående opplæringen for voksne. Blant styrkene som Liedutvalget trekker fram, er voksnes rett til å fullføre det løpet som de har begynt, at retten er knyttet til sluttkompetanse, at tilbudet skal baseres på en realkompetansevurdering, og at det stilles de samme kravene til fagprøver og eksamener til voksne som til ungdom. Blant svakhetene som utvalget trekker fram, er at deltakere i videregående opplæring særskilt organisert for voksne ikke har rett til rådgivning og spesialundervisning. Utvalget viser til at det varierer om det informeres tilstrekkelig om den retten voksne har til opplæring, og at fullført videregående opplæring i tillegg er et uklart begrep, noe som kan gjøre det vanskelig å vurdere hva den voksne faktisk har rett til.
+
+Innføringen av voksnes rett til videregående opplæring fra 2000 har ikke ført til den økte etterspørselen etter opplæring som man forventet da den ble innført. Liedutvalget mener dette kan forklares både med at det er vanskelig for den enkelte å finne fram til hvilke rettigheter man har som voksen, og med at tilbudet i for liten grad tar hensyn til den voksnes livssituasjon og behov. En annen utfordring utvalget peker på, er at det ikke finnes et nasjonalt system som sikrer god nok norskopplæring slik at den voksne er i stand til å gjennomføre videregående opplæring. Utvalget viser i denne sammenheng til økende innvandring og at innvandrere med svake norskferdigheter utgjør en del av dem som tar videregående opplæring som voksne.
+
+Liedutvalget peker også på at man i dag har et stadig større behov for å fornye, oppdatere og utvide sin kompetanse som voksen i arbeidslivet. Utvalget mener at rettighetene voksne har, ikke fanger opp at behovet for kompetanse er annerledes nå enn den gangen rettighetene ble utviklet.
+
+Tilsyn med reglene om grunnopplæring for voksne
+
+I 2018 ble det gjennomført 13 tilsyn med voksnes rett til grunnskoleopplæring og videregående opplæring. Det ble funnet regelbrudd i alle tilsynene. Fylkesmannens tilsyn avdekket at flere kommuner ikke gir nødvendig veiledning eller vurderer om søker har rett til grunnskoleopplæring for voksne. Videre var det et funn at mange kommuner ikke fatter skriftlig vedtak, eller fatter vedtak som ikke ivaretar kravene i regelverket. I de tilfellene kommunen fatter enkeltvedtak, viser fylkesmannens tilsyn at flere kommuner ikke sørger for at enkeltvedtakene gir grunnlag for et opplæringstilbud som er tilpasset den voksnes behov. Tilsynet avdekket også at det er flere søkere som har rett til grunnskoleopplæring, som ikke får kartlagt om de har behov for særskilt språkopplæring eller spesialundervisning.[^1421]
+
+### Innspill til utvalget
+
+Referansegruppen
+
+Flere i referansegruppen har gitt innspill til reglene om grunnskoleopplæring og videregående opplæring for voksne.
+
+Skolelederforbundet mener at bestemmelsene om voksnes rett til opplæring på grunnskolens område bør spesifiseres og konkretiseres, slik at det er klare grenseganger for hva som skal være innholdet i opplæringen, og hva som er helserelaterte aktiviteter.[^1422]
+
+Barneombudet peker på at det er uklart hvilke regler i opplæringsloven som gjelder for voksne, og hva voksne har rett til. Barneombudet er særlig opptatt av ungdom mellom 16 og 18 år som har rett til grunnskoleopplæring for voksne.[^1423]
+
+Utdanningsforbundet mener voksne må ha rett til formelt kvalifiserte lærere på lik linje med barn og unge, og ønsker derfor å fjerne unntaksbestemmelsen i forskrift til opplæringsloven som gir mulighet til å ansette lærere uten godkjent utdanning i voksenopplæringen. Utdanningsforbundet mener unntaksbestemmelsen gir kommunene mulighet til å ansette ukvalifiserte i undervisningsstillinger av økonomiske årsaker, og at den signaliserer at formell pedagogisk kompetanse ikke verdsettes i voksenopplæringen. Utdanningsforbundet mener også at adgangen til å fravike kompetansekrav ved spesialundervisning for voksne bør fjernes i ny lov.[^1424]
+
+Utdanningsforbundet mener en lovfesting av kontaktlærer for voksne som mottar undervisning etter introduksjonsloven og opplæringsloven, er et nødvendig grep for å sikre at alle elever, også voksne, får god og hensiktsmessig oppfølging. Forbundet mener dessuten at det er viktig å få på plass et styrket, lovfestet rådgivningstilbud for voksne, som er på lik linje med rettighetene til barn og unge. Forbundet mener at den gruppen som får opplæring etter kapittel 4A i opplæringsloven, ofte trenger grundig og tilrettelagt hjelp av personer som kjenner dem og kan gi råd for videre utdanning og arbeid, og at de også i stor grad trenger rådgivning rundt sosiale spørsmål. Mangel på informasjon om mangfoldet av utdanningstilbud for voksne og svak kunnskap om behov og rettigheter er ifølge Utdanningsforbundet viktige årsaker til at mange voksne ikke får den opplæringen de trenger og har krav på. Utdanningsforbundet peker også på at uten en lovfestet rett til utdanning- og yrkesrådgivning, er det også grunn til å tro at kommuner vegrer seg for å dekke kostnader til reise og følge til karrieresentrene, som i de fleste fylker ligger langt unna den enkelte voksenopplæringen.
+
+Andre
+
+Utvalget har mottatt flere innspill om grunnopplæring for voksne, både skriftlig og i møter. Blant annet har Østlandssamarbeidets fagpolitiske utvalg for opplæring, kompetanse og verdiskaping gitt innspill om at utvalget bør se nærmere på voksnes rett til rådgivning og særskilt språkopplæring.[^1425]
+
+I møter har utvalget blant annet fått innspill om at det er uklart hvilke rettigheter og plikter de voksne har ettersom opplæringsloven er skrevet med barn og unge for øye. Videre oppleves det som uklart hva som ligger i retten til grunnopplæring for voksne, ettersom det ikke er en tidsramme slik som for barn og unge. Det oppleves også som uklart hva som ligger i kravet i opplæringsloven §§ 4A-1 og 4A-3 om at opplæringen skal «tilpassast behovet til den enkelte».
+
+Flere har gitt innspill om at det er viktig med en fleksibel opplæringsordning for voksne, men at det kanskje er for stor frihet for kommunene i dag. Når det ikke er noen rammer for omfanget av opplæringen, blir det store ulikheter. Det oppleves særlig å være store ulikheter i hvor mye grunnskoleopplæring kommunene gir til voksne. I noen kommuner er grunnskoleopplæring et toårig løp, mens det i andre kommuner er mer individuelt tilpasset og gjerne mer grunnskoleopplæring.
+
+Én hovedutfordring som flere har pekt på, er at det er uklare grenser mellom opplæring og andre tjenesteområder. Flere mener det er behov for samordning mellom grunnskole og andre tjenester og at samordningen i større grad bør gjøres nasjonalt. Retten til grunnskoleopplæring oppleves som veldig omfattende og sterk, noe som fører til at voksne skyves fra andre tjenesteområder over i grunnskoleopplæringen, også dersom et grunnskoletilbud ikke er det de egentlig trenger. Utvalget har også mottatt innspill om at en del av deltakerne i grunnskoleopplæring for voksne trolig har andre motiver enn opplæring. Motivene kan i noen tilfeller være sosialisering. Men flere har også erfaring med at motivet ser ut til å være knyttet til at det er unntak fra inntektskrav i forbindelse med oppholdstillatelse og gjenforening for deltakere i voksenopplæringen.
+
+Flere mener det er et behov for et tydeligere skille mellom opplæring og behandling, rehabilitering, sosialisering mv. Dagens § 4A-2 andre avsnitt og slik denne er tolket i rundskriv mv. oppleves å være svært vid, og grensene til andre tiltak er uklare. Flere har tatt til orde for at regelverket bør legge tydeligere rammer for at det skal dreie seg om opplæring, og at det bør avgrenses tydeligere mot andre aktiviteter og mot ferdigheter som ikke inngår i Læreplanverket for Kunnskapsløftet.
+
+En utfordring som flere har trukket fram, er at det er en stor utfordring at deltakere kommer inn i videregående opplæring for voksne uten å kunne norsk, og at de voksne heller ikke har rett til særskilt språkopplæring. Flere mener at det bør innføres krav til norskferdigheter for å begynne i videregående opplæring da voksne som ikke har tilstrekkelige norskferdigheter, har dårlige forutsetninger for å kunne fullføre og bestå videregående opplæring. Enkelte har også pekt på at det bør vurderes om det er nødvendig å ha engelsk for å ha «fullført grunnskolen» og dermed få rett til videregående opplæring, særlig ved inntak til yrkesfag. Det er i denne sammenheng vist til at det i en del yrker vil være nyttig med andre fremmedspråk enn engelsk.
+
+Utvalget har fått innspill om at det ikke er rasjonelt at voksne har rett til ønsket sluttkompetanse mens ungdommer bare har rett til ett av tre alternative utdanningsprogram. Flere mener at fylkeskommunen bør få et større handlingsrom til å dimensjonere det videregående tilbudet for voksne ut fra regionale behov og til å organisere opplæringen for voksne på en ressurseffektiv måte. Samtidig er fylkeskommunene opptatt av at opplæringen skal være motiverende for de voksne. Flere understreker også at de voksne er en differensiert gruppe, og at det er viktig at voksne har gode muligheter til å få restopplæring og å formalisere sin kompetanse.
+
+Det oppleves også som en ulempe at voksne ikke har rett til rådgivning. Det har vært en stor økning av antallet voksne søkere til videregående opplæring, og langt flere av søkerne er minoritetsspråklige. Mange av dagens søkere mangler grunnleggende innføring i det norske systemet og har større behov for veiledning til å velge utdanningstilbud. At de voksne ikke har rett til veiledning, oppleves ikke som en hensiktsmessig eller ressursbesparende begrensning.
+
+Flere har gitt innspill om at det ikke bør være unntak fra kompetansekravene for undervisningspersonalet i grunnopplæringen for voksne. Utvalget har også mottatt innspill om at det er uheldig at kravet om politiattest ikke gjelder for dem som underviser for voksne, særlig med tanke på at det er en del voksne i grunnopplæringen som har funksjonsnedsettelser, traumer eller på annen måte er i en sårbar situasjon.
+
+## Utvalgets vurdering

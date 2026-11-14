@@ -1,870 +1,318 @@
-# NOU 2020: 3, del 38 av 42 (side 413–422)
+# NOU 2020: 3, del 38 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 413]
+*Første ledd* fastsetter at departementet kan pålegge alle private universiteter og høyskoler å rapportere om virksomheten. Hjemmelen omfatter både private institusjoner som mottar og ikke mottar tilskudd. Rapporteringspliktene gjelder årsregnskap og tilhørende dokumentasjon, student tall, studiepoengproduksjon eller andre relevante forhold om virksomheten. Bestemmelsen gir ikke hjemmel til å innhente rapportering om ansatte eller studenter på individnivå.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Andre ledd* fastsetter at private universiteter og høyskoler skal melde ifra til tilsynsmyndigheten dersom virksomheten skal gjennomføre en omstrukturering eller avvikle driften. Bestemmelsen fastsetter at institusjonene skal gi slik melding ved fusjon, fisjon, omdanning, salg og avvikling. Meldeplikten gjelder for de partene som er direkte involvert. Melding skal gis før en slik omstrukturering eller avvikling finner sted. Meldingen fratar ikke tilsynsmyndighet anledning til å føre kontroll med at tilskudd og egenbetaling er disponert i tråd med regelverket i forbindelse med omstruktureringen eller avviklingen.
 
-den kan påvise betydelige forskjeller mellom
-utdanningen det søkes godkjenning av, og utdanningen den sammenlignes med.
-Universiteter og høyskoler som er institusjonsakkrediterte avgjør selv søknader fra enkeltpersoner om en høyere utdanning fra utlandet er faglig
-jevngod med studier ved institusjonen. Godkjenning etter denne bestemmelsen gir rett til å bruke
-den tittelen som er fastsatt for studiet utdanningen
-er jevnført med.
-For vurdering av utenlandsk doktorgrad i
-andre tilfeller enn hvis en person søker på en
-utlyst stilling ved institusjonen, kan styret ved
-institusjonen bestemme at søkeren skal betale et
-vederlag som dekker institusjonens utgifter til
-vurderingen.
-Merknad:
-Første ledd er i hovedsak en videreføring av gjeldende rett. Ordningen med faglig godkjenning er
-først og fremst beregnet på dem som trenger en
-godkjenning av sin utenlandske høyere utdanning
-for å ta videre studier i Norge. I tillegg er det i
-praksis en del som trenger en faglig godkjenning
-for å kunne få relevant arbeid i Norge. Utdanningsinstitusjonen kan godkjenne den utenlandske høyere utdanningen som del av egne studier hvis den avlagte utdanningen tilsvarer det
-som er fastsatt for de aktuelle emnene ved den
-aktuelle institusjonen. En slik godkjenning gir
-uttelling i studiepoeng tilsvarende dette faglige
-nivået. Departementet kan pålegge institusjonene
-å samordne praksisen. Det er ingen sammenheng
-mellom tildeling av studiestøtte fra Lånekassen og
-godkjenning av utdanning i etterkant.
-Andre ledd bestemmer at når det gjelder vurdering av utenlandsk høyere utdanning tatt i en
-stat som har ratifisert Lisboakonvensjonen, skal
-utdanningsinstitusjonene også forholde seg til
-denne konvensjonen. Den gir studenter som har
-tatt høyere utdanning i et annet konvensjonsland,
-en sterkere rett til å få faglig godkjenning, fordi
-utdanningsinstitusjonen må vise til at det foreligger «betydelige forskjeller», hvis den ikke godkjenner utdanningen. Det at Norge har ratifisert
-Lisboakonvensjonen, med de forpliktelser som
-følger av den, medfører en inngripen i utdanningsinstitusjonenes autonomi. Lisboakonvensjonen
-må ses i sammenheng med bestemmelsene om
-godkjenning i universitets- og høyskoleloven, og
-derfor foreslås det nå en presisering av dette i lovforslaget.
-Tredje ledd viderefører bestemmelsen om faglig jevngodhetsvurdering. Det er kun akkrediterte
+*Tredje ledd* fastsetter at departementet kan gi forskrift om rapporteringsplikten i første ledd og meldeplikten i andre ledd. Forskriften kan blant annet fastsette nærmere krav til opplysninger som skal rapporteres, innenfor rammene av første ledd. Departementet kan også fastsette formkrav og frister, og regulere andre praktiske forhold rundt rapporterings- og meldeplikten.
 
-411
+*§ 5-5.* Regnskap og revisjon
 
-Kapittel 39
+Private universiteter og høyskoler er regnskapspliktige etter regnskapsloven § 1-2 og etter denne loven. Regnskapslovens unntak for små foretak i § 3-1 andre ledd, jf. § 1-6, gjelder ikke for private universiteter og høyskoler.
 
-institusjoner som kan foreta denne vurderingen.
-Selv om det i dag er stadig flere med internasjonale utdanningsgrader har vi i Norge fremdeles
-enkelte nasjonale og særegne akademiske titler,
-for eksempel siviløkonom og sivilingeniør, som
-personer med tilsvarende utenlandsk utdanning
-kan ønske å benytte seg av. Mange studenter som
-tar utdanning i utlandet, kan oppleve det som en
-trygghet å få en faglig jevngodhetsvurdering. For
-eksempel oppleves kravene til godkjenning for
-ansvarsrett for bedrifter etter plan- og bygningsloven for jobbsøkere, i praksis ofte som en regulering av ingeniør- og arkitektyrkene. Fordi det ikke
-finnes noen ordning for yrkesgodkjenning for
-disse, siden de formelt sett ikke er regulerte
-yrker, er det mange som har behov for en godkjenning av faglig jevngodhet etter universitetsog høyskoleloven. En slik godkjenning gir rett til å
-bruke den tittelen som er fastsatt for studiet det er
-jevnført med.
-Fjerde ledd viderefører gjeldende rett, og lar
-utdanningsinstitusjonene ta betalt for å vurdere
-utenlandske doktorgrader, så sant dette ikke er
-som del av en utlyst stilling ved institusjonen.
-Godkjenning av doktorgrader fordrer svært kostbare vurderinger, fordi det må nedsettes en
-sakkyndig komité som skal vurdere doktorgradsarbeidet.
-§ 9-3. Faglig godkjenning av utdanning tatt ved en
-institusjon som er regulert av denne loven
-Universiteter og høyskoler som tilbyr akkrediterte studier etter denne loven, skal godkjenne
-beståtte studier, emner, fag, eksamener eller prøver fra andre utdanningsinstitusjoner som er regulert av denne loven, i den grad de oppfyller de faglige kravene til en bestemt eksamen, et bestemt
-emne, en bestemt grad eller en bestemt utdanning
-ved institusjonen. Den godkjennende institusjonen bestemmer selv hvilken uttelling utdanningen
-skal gi i studiepoeng, og skal sikre at det ikke gis
-dobbel uttelling for samme faginnhold innenfor
-samme grad.
-Departementet kan gi forskrift om godkjenning, saksbehandling og klageadgang etter denne
-bestemmelsen.
-Merknad:
-Første ledd er en videreføring av gjeldende rett.
-Hensikten med bestemmelsen er å sikre at studenter som flytter mellom institusjoner som tilbyr
-akkrediterte studier etter universitets- og høyskoleloven, får rett til godkjenning av fag, emner,
-eksamener eller prøver i den nye graden. Denne
+Private universiteter og høyskoler skal ha et økonomisk skille mellom de akkrediterte delene av virksomheten og de ikke-akkrediterte delene av virksomheten. Regnskapene skal kunne dokumentere at institusjonen opprettholder et slikt skille mellom delene av virksomheten.
 
-[Side 414]
+Regnskapene for private universiteter og høyskoler skal revideres av en statsautorisert eller registrert revisor, jf. revisorloven § 3-1.
 
-412
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-bestemmelsen innebærer at den nye institusjonen
-plikter å godkjenne faginnhold fra andre institusjoner som tilbyr akkrediterte studier etter universitets- og høyskoleloven, så sant denne utdanningen oppfyller de faglige kravene som er fastsatt
-for en bestemt eksamen, grad eller utdanning ved
-den nye institusjonen. Hvis det er praktisk mulig,
-kan institusjoner også godkjenne deler av emner
-eller eksamener.
-Andre ledd viderefører forskriftsbestemmelsen.
-§ 9-4. Faglig godkjenning av dokumentert realkompetanse og norsk utdanning tatt ved en institusjon som ikke er regulert av denne loven
-Universiteter og høyskoler som tilbyr akkrediterte studier etter denne loven, kan godkjenne
-dokumentert realkompetanse eller utdanning fra
-norske utdanningsinstitusjoner som ikke er
-regulert av denne loven, som deler av egne studier. Godkjenningen er en faglig vurdering av
-om studenten har oppnådd et bestemt faglig
-nivå, det vil si et læringsutbytte tilsvarende det
-som er fastsatt for de aktuelle emnene. En slik
-godkjenning innebærer at det skal gis uttelling i
-studiepoeng tilsvarende dette faglige nivået.
-Departementet kan pålegge institusjonene å samordne praksisen sin.
-Universiteter og høyskoler som er institusjonsakkreditert etter denne loven, kan i særlige tilfeller selv avgjøre søknader fra enkeltpersoner om å
-godkjenne dokumentert realkompetanse som faglig jevngod med studier ved egen institusjon. Institusjonen kan i slike tilfeller kreve at søkeren
-avlegger en prøve eller tilleggsprøve, for å kontrollere de dokumenterte kunnskapene. Godkjenning etter denne bestemmelsen gir rett til å bruke
-den tittelen som er fastsatt for studiet det er jevnført med.
-Departementet kan gi forskrift om godkjenning, saksbehandling og klageadgang etter denne
-bestemmelsen.
-Merknad:
-Første ledd er en videreføring av gjeldende rett.
-Personer som har tatt utdanning ved en institusjon som ikke er regulert av denne loven, slik som
-fagskoleutdanning eller utdanning tatt ved en
-folkehøyskole, kan få denne utdanningen godkjent som en del av et studium ved et universitet
-eller høyskole. Godkjenningen innebærer en faglig vurdering av om studenten har oppnådd et
-bestemt faglig nivå, det vil si om læringsutbyttet
-tilsvarer det som er fastsatt for det aktuelle emnet.
-Godkjenningen innebærer at det gis uttelling i stu-
-
-diepoeng tilsvarende dette faglige nivået. Deler av
-en utdanning kan også godkjennes på grunnlag av
-realkompetanse. Det er opp til institusjonens egen
-faglige vurdering å gi en slik godkjenning. Institusjonen har ikke plikt til å godkjenne slike søknader.
-Andre ledd fastsetter at det kun er universiteter
-og høyskoler som har institusjonsakkreditering
-som i særlige tilfeller kan avgjøre søknader om å
-godkjenne dokumentert realkompetanse som faglig jevngod med studier ved egen institusjon. Institusjonen kan i slike tilfeller kreve at søker avlegger en prøve for å kontrollere de dokumenterte
-kunnskapene. En slik godkjenning gir rett til å
-bruke den tittelen som er fastsatt for studiet det er
-jevnført med. Dette er en videreføring av § 3-5
-fjerde ledd i dagens universitets- og høyskolelov.
-Tredje ledd viderefører departementets forskriftshjemmel.
-Kapittel 10 Sanksjoner ved uønsket adferd
-§ 10-1. Skikkethetsvurdering
-Skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetninger for å
-kunne utøve yrket. En student som oppfyller
-minst ett av kriteriene i forskrift skikkethetsvurdering i høyere utdanning ny § x «Vurderingskriterier» på en måte som utgjør en mulig fare for liv,
-fysisk eller psykisk helse, rettigheter eller sikkerhet til de pasienter, brukere, barnehagebarn,
-elever eller andre studenten kommer i kontakt
-med under praksisstudiene eller under fremtidig
-yrkesutøvelse, er ikke skikket for yrket.
-Institusjonen skal gjøre en løpende skikkethetsvurdering av alle studenter som er omfattet av
-kravet om skikkethetsvurdering, gjennom hele
-studiet.
-Hvis det er begrunnet tvil om en student er
-skikket, skal institusjonen åpne sak om skikkethetsvurdering.
-En student som ikke er skikket for yrket, kan
-utestenges fra studiet i inntil fem år. Studenten
-skal ikke utestenges for en lengre periode enn det
-som er nødvendig ut fra årsaken til at studenten er
-vurdert som uskikket.
-Vitnemål for fullført utdanning forutsetter at
-studenten er vurdert som skikket for yrket.
-Departementet kan gi forskrift om hvilke
-utdanninger som er omfattet av skikkethetsvurdering, og om saksbehandlingen i skikkethetssaker.
-Merknad:
-Første ledd fastslår formålet med skikkethetsvurdering: Den skal avdekke om en student har
-
-[Side 415]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-de nødvendige forutsetninger for å kunne utøve
-yrket vedkommende utdanner seg til. Hensikten
-er å sikre at pasienter, klienter, brukere, barnehagebarn, elever og andre blir tatt hånd om av en
-skikket person. I dagens skikkethetsforskrift §§ 3-5
-fremgår lister med kriterier som kan gjøre at en
-student anses uskikket for ulike utdanninger. Hvis
-ett av kriteriene er oppfylt, på en måte som utgjør
-en mulig fare for liv eller psykisk helse, rettigheter eller sikkerhet til de pasienter, brukere, barnehagebarn, elever, eller andre studenten kommer i
-kontakt med under praksisstudiene eller under
-fremtidig yrkesutøvelse, er vedkommende uskikket. Utvalget har foreslått å samle kriteriene i §§ 3-5
-i én bestemmelse i skikkethetsforskriften, se
-punkt 37.3.4. Dette forutsettes gjort innen ny lov
-trer i kraft. I lovforslaget §10-1 første ledd er det
-derfor vist til skikkethetsforskriften ny § x «Vurderingskriterier».
-Andre ledd viser til at alle studenter som er tatt
-opp til en utdanning som er listet opp i § 1 i skikkethetsforskriften er underlagt en løpende vurdering av om de er skikket. Underveis i studiet er
-ulike krav satt for å sikre at bare de studentene
-som oppfyller de faglige og personlige forutsetningene for å kunne fungere i yrket, får vitnemål.
-Tredje ledd slår fast at en sak om særskilt skikkethetsvurdering skal reises hvis det er «begrunnet tvil om en student er skikket». En skikkethetsvurdering som nevnt i andre ledd skal gjøres av
-alle studentene, mens den særskilte skikkethetshetsvurderingen etter tredje ledd bare gjøres av
-studenter hvor det er tvil om skikketheten. Er det
-tvil om skikketheten skal det opprettes en sak
-som skal gjennomføres etter en fastsatt prosess
-som er beskrevet i skikkethetsforskriften §§ 9 til
-12. Saken starter med at noen melder inn en tvilsmelding til institusjonen. Tvilsmeldingen blir
-behandlet av institusjonsansvarlig, som eventuelt
-sender saken til behandling i skikkethetsnemnda.
-Går saken videre, behandles den til slutt i styret
-eller ved institusjonens lokale klagenemnd.
-Muligheten til å vurdere en student som uskikket
-etter en særskilt skikkethetsvurdering benyttes
-som hovedregel bare når andre formelle og uformelle virkemidler underveis i studiet som skal
-sikre at bare studenter som oppfyller kravene får
-vitnemål, ikke har avhjulpet situasjonen. Hvilke
-kriterier som er relevante for vurderingen av
-skikkethet i de ulike utdanningene fremgår av
-skikkethetsforskriften.
-Fjerde ledd slår fast at en student som anses
-uskikket kan utestenges fra studiet. Bestemmelsen regulerer også utestengingsperiodens lengde.
-Dersom en student vurderes som uskikket, kan
-
-413
-
-Kapittel 39
-
-institusjonen utestenge vedkommende i inntil fem
-år. Institusjonen må foreta en konkret vurdering i
-hvert enkelt tilfelle av hvor lang periode studenten skal utestenges, med utgangspunkt i årsaken
-til uskikketheten. Utestengelse er en streng sanksjon, og perioden må derfor ikke settes lenger enn
-det som anses nødvendig.
-Femte ledd viser at skikkethet er en forutsetning for at studenten skal motta vitnemål for fullført utdanning.
-Sjette ledd gir departementet hjemmel til å gi
-forskrift om hvilke utdanninger som er omfattet av
-skikkethetsvurdering og om saksbehandlingen i
-skikkethetssaker. Slik forskrift er gitt ved forskrift
-30. juni 2006 nr. 859 om skikkethetsvurdering i
-høyere utdanning (skikkethetsforskriften).
-§ 10-2. Falskt vitnemål ved opptak
-Bruk av falske vitnemål eller andre falske
-dokumenter ved opptak til høyere utdanning er
-forbudt. Tilsvarende gjelder for dokumenter
-utstedt av falske institusjoner.
-Den som har søkt opptak etter kapittel 6 eller
-søkt godkjenning etter kapittel 9 i denne loven ved
-bruk av falskt vitnemål eller andre falske dokumenter eller dokumenter utstedt av falske institusjoner, vil få dokumentene inndratt og vil ikke gis
-opptak eller få godkjent utdanning i inntil ett år.
-Dersom en institusjon under denne loven,
-NOKUT eller Samordna opptak oppdager at en
-søker har levert falskt vitnemål eller andre falske
-dokumenter eller dokumenter utstedt av falske
-institusjoner, skal de anmelde forholdet til politiet.
-Departementet kan i forskrift gi utfyllende
-bestemmelser om hva som anses som falske vitnemål, falske dokumenter og dokumenter utstedt av
-falske institusjoner.
-Merknad:
-Første ledd fastslår at bruk av falske vitnemål eller
-andre falske dokumenter ved opptak er forbudt.
-Definisjonen av falskt vitnemål står i opptaksforskriften § 10-1. Vitnemålet er falskt både hvis innholdet har vært usant fra starten av, og dersom
-innholdet senere har blitt manipulert eller endret.
-«Falske dokumenter» viser til andre dokumenter
-enn vitnemålet, som danner grunnlag for opptak.
-Dette kan for eksempel være ulike vedlegg til
-vitnemålet. En falsk institusjon kan være en ikkeeksisterende institusjon, eller en institusjon som
-uriktig gir uttrykk for å være akkreditert etter
-loven.
-Andre ledd pålegger institusjonene en plikt til å
-inndra dokumentene hvis vilkårene er oppfylt. I
-
-[Side 416]
-
-414
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-tillegg skal det fastsettes en karantenetid. Lengden av karantenetiden fastsettes ut fra en vurdering av alvorlighetsgraden av opptredenen til vedkommende som har anvendt falske vitnemål eller
-falske dokumenter ved opptak, og omstendighetene ellers.
-Tredje ledd omhandler plikten til politianmeldelse. Oppdager institusjonen, NOKUT eller
-Samordna opptak at det er levert falskt vitnemål
-eller falske dokumenter, eller dokumenter
-utstedt fra en falsk institusjon, har de en plikt til å
-anmelde forholdet til politiet. Det følger av
-forvaltningsloven § 13b første ledd nr. 6 at taushetsplikten ikke er til hinder for å anmelde et
-slikt forhold.
-§ 10-3. Falskt vitnemål og fusk ved eksamen, prøve
-eller godkjenning av kurs
-Eksamen, prøve eller godkjenning av kurs kan
-annulleres hvis studenten
-a) ved hjelp av falskt vitnemål eller annen form
-for uredelig opptreden har skaffet seg adgang
-til å gå opp til vedkommende eksamen eller
-prøve, eller til å delta i vedkommende kurs,
-eller
-b) forsettlig har forsøkt å fuske eller forsettlig
-eller grovt uaktsomt har fusket i forbindelse
-med gjennomføring av, eller forut for endelig
-sensur av, vedkommende eksamen eller prøve,
-eller under gjennomføring av vedkommende
-kurs.
-Godskriving eller godkjenning av utdanning,
-eller fritak for eksamen eller prøve, kan annulleres hvis studenten har oppnådd dette ved hjelp av
-falskt vitnemål eller annen form for uredelig opptreden.
-En student som har opptrådt som beskrevet i
-denne bestemmelsen, kan, med mindre det er
-grunn til kun å annullere eksamen, prøven eller
-godkjenningen av kurs, utestenges fra institusjonen og fratas retten til å gå opp til eksamen ved
-institusjoner etter denne loven i inntil to år. En
-student som forsettlig har medvirket til opptreden
-som beskrevet i denne bestemmelsen, kan utestenges fra institusjonen og fratas retten til å gå
-opp til eksamen ved institusjoner etter denne
-loven i inntil to år.
-Adgangen til å annullere foreldes ikke.
-Etter avgjørelse om annullering skal studenten
-tilbakelevere eventuelt vitnemål eller karakterutskrift til institusjonen. Blir ikke vitnemålet eller
-karakterutskriften levert tilbake til institusjonen i
-rett tid, kan institusjonen kreve namsmannens
-hjelp til tilbakelevering i samsvar med reglene i
-tvangsfullbyrdelsesloven kapittel 13.
-
-Hvis vitnemålet kan danne grunnlag for autorisasjon for yrkesutøving, skal institusjonen gi melding om annulleringen til vedkommende myndighet.
-Dersom en institusjon etter denne loven,
-NOKUT eller Samordna opptak oppdager at en
-søker har levert falskt vitnemål eller andre falske
-dokumenter eller dokumenter utstedt av falske
-institusjoner, skal de anmelde forholdet til politiet.
-Merknad:
-Første ledd omhandler institusjonens adgang til å
-annullere en eksamen, prøve eller godkjente kurs.
-Det må foretas en konkret helhetsvurdering av om
-en eksamen eller prøve skal annulleres, hvis vilkårene er til stede. Forholdets art og omfang er
-momenter i vurderingen. Annullering av godkjente
-kurs er aktuelt hvis kurset er obligatorisk, eller gir
-eksamens- eller prøverelatert uttelling. Annullering
-innebærer at studenten ikke får godskrevet kurset.
-Etter bokstav a kan annullering vedtas hvis
-studenten ved hjelp av falskt vitnemål eller ved
-annen form for uredelig opptreden har skaffet seg
-adgang til å gå opp til eksamen eller prøve, eller til
-å delta på kurs. Et falskt vitnemål er et vitnemål
-som er uriktig fra starten av, eller som har blitt
-endret senere. Uredelig opptreden vil være andre
-tilfeller enn bruk av falskt vitnemål, hvor studenten har opptrådt på en klanderverdig måte for å
-oppnå en urettmessig fordel. Eksempler kan være
-at en student bruker falsk legitimasjon for å skaffe
-seg tilgang til eksamen, eller at en student får en
-annen student til å skrive sitt eget navn i en fremmøteprotokoll i et kurs hvor oppmøte er obligatorisk. Hvis studenten ved falskt vitnemål eller uredelig opptreden har skaffet seg adgang til en
-enkelt eksamen, prøve eller kurs er det disse som
-kan annulleres. Hvis en enkelt eksamen er
-adgangsvilkår for å gå opp til andre eksamener, vil
-også disse kunne annulleres. Dersom falskt vitnemål er brukt til å skaffe tilgang til et studieprogram, kan alle eksamener studenten har tatt
-under dette programmet annulleres.
-Etter bokstav b kan eksamen, prøve eller godkjenning av kurs annulleres hvis studenten forsettlig har forsøkt å fuske, eller forsettlig eller grovt
-uaktsomt har fusket i forbindelse med gjennomføring av, eller forut for, endelig sensur av eksamen
-eller prøve, eller under gjennomføring av kurs. Det
-er ikke krav til uredelig eller uhederlig adferd.
-Handlinger som åpenbart ikke er egnet til å gi studenten noen fordeler faller likevel utenfor. Fusk må
-gjøres i forbindelse med gjennomføring av eksamen. Fusk kan dermed finne sted før eksamen er
-
-[Side 417]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-delt ut, som når kontroll av hjelpemidler begynner.
-I tillegg kan fusk skje forut for endelig sensur.
-Dette gjelder for eksempel tilfeller der eksamen i
-etterkant av innlevering blir manipulert før endelig
-sensur foreligger.
-Den nedre grensen for fusk er grov uaktsomhet. Det må foreligge en kvalifisert klanderverdig
-opptreden som gir grunn til sterke bebreidelser
-for mangel på aktsomhet. Forsettlig fusk rammes
-også. Forsett foreligger for det første når studenten fusker med hensikt. Videre foreligger forsett
-når studenten fusker med bevissthet om at handlingen sikkert eller mest sannsynlig er fusk, eller
-når studenten holder det for mulig at handlingen
-er fusk, og velger å handle selv om det skulle
-være tilfellet. Forsøk på fusk kan derimot bare
-sanksjoneres når det er gjort forsettlig; uaktsomhet rammes ikke. Det følger av forarbeidene til
-dagens universitets- og høyskolelov av 2005 at
-kravet er fullbyrdelsesforsett. Dette innebærer at
-det stilles krav om at studenten må ha hatt forsett
-om å fullbyrde handlingen. Et forsøk på fusk kan
-for eksempel være at en student plasserer ulovlige
-hjelpemidler med sikte på at disse skal være tilgjengelige under eksamen, men dette blir oppdaget før eksamen begynner.
-Andre ledd omhandler annullering av eksamen
-eller prøve som er godskrevet eller godkjent. Godskriving eller godkjenning av eksamen, eller fritak
-for eksamen eller prøve kan annulleres hvis en
-student har oppnådd dette ved bruk av falskt vitnemål eller annen form for uredelig opptreden.
-Dette innebærer at institusjonen har adgang til å
-annullere hele utdanninger og grader.
-Tredje ledd åpner for at det kan vedtas ytterligere sanksjoner enn annullering. Det må vurderes konkret om bare annullering skal vedtas, eller
-om forholdet er av en slik art at institusjonen også
-skal vedta å utestenge studenten og frata vedkommende retten til å gå opp til eksamen.
-En student som forsettlig har medvirket til
-opptreden som beskrevet i denne bestemmelsen,
-kan utestenges eller fratas retten til å gå opp til
-eksamen. En student som har medvirket kan ikke
-sanksjoneres med annullering av sin eksamen.
-Den nedre grensen for medvirkning er forsett, og
-er dermed høyere enn ved fusk hvor også grov
-uaktsomhet rammes. Begrunnelsen for dette er at
-det er vanskelig å bevise at noen ved grov uaktsomhet har medvirket til en handling.
-Fjerde ledd slår fast at institusjonenes adgang
-til å annullere etter denne bestemmelsen ikke foreldes. Dette innebærer at annulleringen potensielt
-kan vedtas etter at en student er ferdig med utdanningen.
-
-415
-
-Kapittel 39
-
-Femte ledd fastslår at avgjørelse om annullering medfører at studentens vitnemål eller karakterutskrift inndras.
-Sjette ledd fastslår at institusjonene har en plikt
-til å gi melding om annulleringen til vedkommende myndighet dersom vitnemålet gir grunnlag for autorisasjon for yrkesutøving, for eksempel
-til Helsedirektoratet, som gir autorisasjon til helsepersonell.
-Syvende ledd pålegger en utdanningsinstitusjonen, NOKUT og Samordna opptak en plikt til å
-politianmelde hvis det oppdages bruk av falskt vitnemål, falske dokumenter eller dokumentasjon
-fra falsk institusjon. Plikten til politianmeldelse
-gjelder dermed ikke bare ved opptaket til studiet.
-§ 10-4. Forstyrrende opptreden
-En student kan bortvises med umiddelbar
-virkning hvis studenten forstyrrer undervisningen
-eller medstudenters arbeid.
-Hvis en student opptrer på en måte som virker
-grovt forstyrrende for medstudenters arbeid eller
-for virksomheten ved institusjonen ellers, og opptredenen fortsetter tross skriftlig advarsel fra
-styret, kan studenten bortvises fra nærmere
-bestemte områder ved institusjonen for inntil ett år.
-Hvis studenten etter skriftlig advarsel fra styret fortsatt ikke respekterer et vedtak om bortvisning, kan studenten utestenges fra studiet og fratas retten til å gå opp til eksamen ved institusjoner
-etter denne loven i inntil ett år.
-Merknad:
-Første ledd fastslår at en student som forstyrrer
-undervisningen eller medstudenters arbeid kan
-bortvises fra situasjonen med umiddelbar virkning. Det vil være den som underviser eller den
-som har ansvaret for områder der studentene driver med selvstudium som har myndighet til å
-bortvise etter bestemmelsen. Dersom den forstyrrende adferden opphører, kan studenten komme
-tilbake igjen. Bestemmelsen gir uttrykk for institusjonenes handlingsrom i kraft av eiendomsretten og eventuelle ordensregler ved institusjonen. En beslutning om å bortvise etter denne
-bestemmelsen er ikke et enkeltvedtak, og kan
-derfor ikke påklages.
-Hva som skal til for at adferden er forstyrrende nok til å medføre en umiddelbar bortvisning vil bero på en konkret vurdering av hvert
-enkelt tilfelle. Den som beslutter bortvisning må
-vurdere studentens rett til å delta i undervisningen, mot medstudentenes behov for ro. Adferden må være av en slik art at det ikke er andre
-
-[Side 418]
-
-416
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-mildere tiltak enn bortvisning, for eksempel en
-muntlig advarsel, som kan brukes for at undervisningen skal kunne fortsette uten forstyrrelser.
-Selv om umiddelbar bortvisning av studenten kan
-virke inngripende for den det gjelder, kreves det
-heller ikke mer av studenten enn at den forstyrrende adferden opphører, for at vedkommende
-skal få adgang til området igjen.
-Bestemmelsen må ikke forveksles med andre
-ledd, som regulerer grovere tilfeller av forstyrrende adferd, der institusjonen kan benytte sterkere reaksjonsmidler som bortvisning over lengre
-tid eller utestenging. Slike vedtak er enkeltvedtak
-og krever at bestemte saksbehandlingsregler
-følges.
-Andre ledd regulerer sanksjonsmulighetene
-når en student opptrer grovt forstyrrende. Grovt
-forstyrrende opptredenen krever en kvalifisert
-form for avvikende adferd som påvirker læringsmiljøet og det psykososiale miljøet. Det kan for
-eksempel dreie seg om aggressiv eller plagsom
-opptreden som ødelegger arbeidsmiljøet for medstudenter og ansatte. Hvis opptredenen fortsetter
-tross skriftlig advarsel fra styret kan studenten
-bortvises. Bortvisningen kan gjelde for en periode
-opp til ett år. Bortvisningen avgrenses til de områder hvor den grovt forstyrrende opptredenen har
-funnet sted. Hvis dette medfører at studenten for
-eksempel ikke kan delta på obligatorisk undervisning, må dette inntas i vurderingen av om bortvisning kan ilegges. Advarselen må opplyse om at
-bortvisning eller utestengelse kan bli aktuelt hvis
-studenten fortsetter med opptredenen.
-Tredje ledd regulerer fremgangsmåten, der et
-bortvisningsvedtak etter andre ledd ikke respekteres av studenten. Hvis vedtaket om bortvisning
-ikke respekteres, kan studenten utestenges og
-miste retten til å gå opp til eksamen i inntil ett år.
-Utestenging bør være siste utvei, og skal ikke
-iverksettes før studenten har fått en ny advarsel
-om at utestengelse kan bli konsekvensen hvis
-opptredenen fortsetter.
-§ 10-5. Grovt klanderverdig opptreden
-Hvis en student opptrer grovt klanderverdig,
-kan vedkommende utestenges fra studier med klinisk undervisning og praksisstudier, og fratas retten til å gå opp til eksamen i disse studiene, ved
-institusjoner etter denne loven i inntil tre år.
-Bestemmelsen omfatter situasjoner der studenten
-overfor pasienter, brukere, barnehagebarn, elever
-eller andre som studenten har å gjøre med som
-del i klinisk undervisning eller praksisstudier, har
-a) grovt klanderverdig opptrådt på en slik måte
-at det er skapt fare for liv eller helse
-
-b) gjort seg skyldig i grove brudd på taushetsplikt eller
-c) gjort seg skyldig i grovt usømmelig opptreden.
-Institusjonen skal informere Helsedirektoratet om utestenging etter denne bestemmelsen for
-studenter som følger utdanninger som kan utløse
-rett til autorisasjon etter helsepersonelloven § 48
-første ledd.
-Merknad:
-Første ledd redegjør for tre tilfeller hvor institusjonen kan utestenge studenten. Dette er tilfeller
-som er så grove at det skal kunne reageres umiddelbart med en fullstendig utestengelse. Hvor
-lenge studenten skal utestenges må tilpasses
-handlingens grovhet. I vurderingen må institusjonen ta hensyn til om det er en snakk om en enkeltstående hendelse som kan tilskrives helt bestemte
-omstendigheter, eller om det er tale om graverende opptreden som gjenspeiler en alvorlig svikt
-i dømmekraft og ansvarsfølelse.
-Andre ledd pålegger institusjonene en plikt, for
-tilfellene oppgitt i andre ledd, til å informere om at
-det er vedtatt utestenging av en student.
-§ 10-6. Krav om politiattest
-I studier der studenter kan komme i kontakt
-med mindreårige som del av klinisk undervisning
-eller praksisstudier, kan institusjonen kreve at studentene legger frem politiattest som nevnt i politiregisterloven § 39 første ledd, ved opptak til og
-underveis i studiet. I tillegg gjelder særlige regler
-om politiattest for bestemte typer yrkesutøving tilsvarende for studenter som deltar i praksisstudier
-eller klinisk undervisning.
-Institusjonen kan utelukke en student som er
-dømt, eller har vedtatt forelegg, for forhold som
-innebærer at vedkommende må anses som uskikket til å delta i arbeid med pasienter, brukere,
-barnehagebarn, elever eller andre, fra praksisstudier eller klinisk undervisning. Et vilkår for å
-utelukke studenten er at slik deltakelse må anses
-som uforsvarlig på grunn av kontakten studenten
-får med de nevnte gruppene i denne forbindelse.
-Institusjonen kan midlertidig utelukke en student som er siktet eller tiltalt for straffbart forhold
-som omtalt i politiregisterloven § 39 første ledd
-eller i politiattester i medhold av andre ledd, fra
-praksisstudier eller klinisk undervisning. Studenten kan utelukkes til rettskraftig dom foreligger
-eller saken er henlagt, hvis dette er nødvendig av
-hensyn til sikkerhet eller behandlingsmiljø for
-pasienter, brukere, barnehagebarn, elever eller
-
-[Side 419]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-andre som studenten vil komme i kontakt med i
-denne forbindelse.
-Departementet kan gi forskrift om saksbehandling ved utestenging grunnet straffbare
-forhold.
-Merknad:
-Første ledd redegjør for når politiattest kan kreves
-av en student. Det er hjemmel for å innhente politiattest etter første ledd både i situasjoner hvor
-studenten kan komme i kontakt med mindreårige,
-og når studenten kan komme i kontakt med andre
-sårbare grupper som er beskyttet gjennom profesjonslovgivningen. Det er tilstrekkelig at det er en
-mulighet for at studenten i forbindelse med praksisstudier eller klinisk undervisning kan komme i
-situasjoner hvor overgrep kan finne sted. Politiattest kan innhentes ved opptak og underveis i studiet. Noen ganger er det ikke tilstrekkelig at politiattest kun innhentes ved opptak, da det kan gå
-lang tid før studenten skal ut i praksis eller klinisk
-undervisning. Plikten til forsvarlig saksbehandling kan tale for at det er nødvendig med en mest
-mulig oppdatert politiattest. Supplerende regler
-om politiattest finnes i kapittel 6 i forskrift om opptak til høgre utdanning.
-Andre ledd innebærer at studenter som har
-merknad på en politiattest kan bli utelukket fra
-praksis eller klinisk undervisning. Bestemmelsen
-er en «kan»- regel og det må foretas en konkret
-vurdering av om studenten skal utelukkes. Vurderingen er skjønnsmessig og foretas av institusjonenes lokale klagenemd.
-Tredje ledd er også en «kan»-regel. Studenter
-som er siktet eller tiltalt kan utelukkes midlertidig
-inntil rettskraftig dom foreligger eller saken er
-henlagt. Hovedkonsekvensen av at studenten blir
-utestengt fra praksis eller klinisk undervisning, er
-at studenten ikke får vitnemål om fullført grad
-eller utdanning, jf. forskrift om opptak til høgre
-utdanning § 6-7.
-§ 10-7. Graden philosophiae doctor
-Institusjonen kan vedta tvungen avslutning av
-doktorgradsutdanning ved vitenskapelig uredelighet etter forskningsetikkloven § 8 andre ledd.
-Departementet eller særskilt klageorgan oppnevnt av departementet, jf. § 12-1 åttende ledd, er
-klageinstans for vedtak om tvungen avslutning
-etter dette leddet.
-Institusjonen kan også vedta tvungen avslutning av doktorgradsutdanningen når en kandidat i
-vesentlig grad ikke oppfyller sine forpliktelser
-etter doktorgradsavtalen. Lokal klagenemnd ved
-
-417
-
-Kapittel 39
-
-institusjonen er klageinstans for vedtak om tvungen avslutning etter dette leddet.
-Ved fusk på eksamen eller prøver underveis i
-doktorgradsutdanningen kan institusjonen vurdere om disse skal annulleres etter § 10-3 første
-og andre ledd, eller om forholdet er så alvorlig at
-det gir grunnlag for tvungen avslutning etter
-første og andre ledd i denne bestemmelsen.
-Klage over ikke godkjent doktorgradsavhandling skal behandles av lokal klagenemnd ved institusjonen.
-Styret kan fastsette forskrift for doktorgradsutdanningen, herunder regler om tvungen avslutning.
-Merknad:
-Første ledd omhandler tvungen avslutning av doktorgraden. Vedtak om tvungen avslutning av doktorgraden er en alvorlig sanksjon, som krever en
-svært grundig saksbehandling før vedtaket fattes.
-Hva tvungen avslutning innebærer kan variere fra
-institusjon til institusjon, etter hvordan doktorgradsutdanningen er organisert. Institusjonene
-må foreta en konkret vurdering av hva tvungen
-avslutning eventuelt skal innebære, utover at vedkommende mister sin plass i det organiserte studieopplegget.
-Andre ledd sier at institusjonen kan vedta tvungen avslutning av doktorgradsutdanningen når en
-ph.d.-kandidat i vesentlig grad ikke oppfyller sine
-forpliktelser etter doktorgradsavtalen. Dette er et
-separat grunnlag for vedtakelse av tvungen avslutning av doktorgraden. Doktorgradsavtalen er den
-avtalen som regulerer partenes rettigheter og plikter under doktorgradsutdanningen, med tilhørende dokumenter. Tilhørende dokumenter kan
-være for eksempel plan for opplæringsdelen og
-prosjektbeskrivelse med redegjørelse av finansiering og fremdrift. Tvungen avslutning på grunnlag
-av manglende oppfyllelse av doktorgradsavtalen
-forutsetter at kandidaten har fått veiledning om
-hvordan vedkommende ligger an i henhold til forpliktelsene som følger av doktorgradsavtalen.
-Tredje ledd gir institusjonene adgang til å vurdere om fusk som har forekommet ved eksamen
-eller prøver, men ikke på selve avhandlingen, skal
-annulleres etter bestemmelsen om annullering i
-§ 10-3, eller om forholdet er så alvorlig at det gir
-grunnlag for tvungen avslutning etter første og
-andre ledd. Institusjonen må selv vurdere om fusket er så alvorlig at det kan gi grunn til å gjennomføre en tvungen avslutning.
-Fjerde ledd omhandler klage. Klage over ikke
-godkjent doktoravhandling behandles av institu-
-
-[Side 420]
-
-418
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sjonenes klagenemd. Det er vedtaket om ikke å
-godkjenne avhandlingen for fremlegging av disputas som kan påklages. Klagenemden vurderer
-ikke selve avhandlingen, men de sakkyndiges innstilling om ikke å godkjenne avhandlingen, og
-kandidatens innsigelser. Oppheves vedtaket om
-ikke godkjent avhandling, sendes avhandlingen
-tilbake til første instans for ny vurdering.
-Femte ledd sier at det er institusjonenes styre
-som kan fastsette forskrift for doktorgradsutdanningen og regler for tvungen avslutning.
-Bestemmelsen gjelder uavhengig av om
-kandidaten har et ansettelsesforhold ved
-utdanningsinstitusjonen eller ikke. Er kandidaten ansatt ved utdanningsinstitusjonen, deles
-prosessen i to deler. Utdanningsinstitusjonen
-avklarer først hva konsekvensene av vitenskapelig uredelighet eller manglende oppfyllelse av
-doktorgradsavtalen under forskerutdanningen
-er. Deretter vurderer institusjonen hvilke konsekvenser handlingen skal få for kandidatens
-ansettelsesforhold.
-
-med undervisning eller tilsvarende, inkludert på
-turer, ekspedisjoner og lignende i tilknytning til
-utdanningsinstitusjonens undervisning. Forbudet
-gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, pedagogiske, lærings-, helseeller sikkerhetsmessige forhold.
-En student som tross skriftlig advarsel har
-brukt klesplagg som helt eller delvis dekker
-ansiktet i strid med første ledd, kan bortvises i
-inntil ett år. Hvis studenten til tross for skriftlig
-advarsel ikke etterkommer et vedtak om bortvisning, kan studenten utestenges fra utdanningen i
-inntil ett år. Vedtak om bortvisning kan treffes av
-rektor eller den rektor bemyndiger. Vedtak om
-utestenging treffes av styret selv eller lokal
-klagenemnd ved institusjonen. Vedtak om bortvisning eller utestenging kan påklages, jf. § 12-1.
-Dersom en ansatt opptrer i strid med forbudet
-i første ledd, skal den ansatte bes om å fjerne klesplagget. Gjentatte brudd på forbudet kan være
-grunnlag for oppsigelse.
-
-§ 10-8. Ph.d-kandidater med ansettelsesforhold
-Ph.d.-kandidater som har et ansettelsesforhold
-ved institusjonen, er unntatt fra reglene om
-bortvisning og utestenging etter dette kapittelet.
+Departementet kan gi forskrift om krav til regnskapet, dokumentasjon og revisjon.
 
 Merknad:
 
+Bestemmelsen viderefører gjeldende rett.
+
+*Første ledd* fastsetter at alle private universiteter og høyskoler skal føre regnskap i tråd med kravene i regnskapsloven og i tråd med kravene som fastsettes i eller i medhold av universitets- og høyskoleloven. Alle private universiteter og høyskoler skal drive virksomheten som aksjeselskap eller stiftelse. Krav til regnskap etter regnskapsloven er også fastsatt i aksjeloven og stiftelsesloven. Første ledd fastsetter videre at unntakene som er fastsatt i regnskapsloven for visse regnskapskrav for virksomheter som regnes som små foretak, ikke gjelder for private universiteter og høyskoler. Pliktene som unntas etter regnskapsloven § 3-1 er krav som bidrar til at departementet som tilsynsmyndighet kan ettergå kravene i universitets- og høyskoleloven og har tilstrekkelig sikkerhet for at regnskapene gir et rettvisende bilde når dette skal vurderes opp mot de andre reguleringene.
+
+*Andre ledd* fastsetter et krav om økonomisk skille mellom den NOKUT-akkrediterte virksomheten og annen virksomhet. Kravet gjelder både private høyskoler som mottar og ikke mottar statlig tilskudd. At den akkrediterte virksomheten drives alene i eget rettssubjekt tilfredsstiller kravet til økonomisk skille. Dersom den private institusjonen driver annen virksomhet enn akkreditert utdanning i samme rettssubjekt, må det være regnskapsmessige skiller som er egnet til å dokumentere at annen virksomhet holdes økonomisk adskilt. Et krav til regnskapsmessig skille innebærer at det løpende skal føres separate regnskap for de ulike delene av virksomheten etter ordinære regnskapsprinsipper, herunder fullt resultat- og balanseregnskap.
+
+*Tredje ledd* fastsetter at regnskapene til alle private universiteter og høyskoler skal revideres av statsautorisert eller godkjent revisor. Dette gjelder både private institusjoner som mottar og ikke mottar statlig tilskudd. Revisjonen skal omfatte kravene etter regnskapsloven og de særlige kravene etter universitets- og høyskoleloven. Departementet legger til grunn at revisor fastsetter en særskilt vesentlighetsgrense i sin revisjon av noten til årsregnskapet som dokumenterer regnskapsmessig skille, i samsvar med ISA 320. Vurderingen revisor gjør, skal gjenspeile formålet med revisjonen. Virksomheten må informere revisor om dette i forkant av revisjonen.
+
+*Fjerde ledd* fastsetter at departementet kan gi forskrift med nærmere bestemmelser om regnskapet og dokumentasjonsplikter i forbindelse med regnskapet. Dette kan blant annet innebære presiseringer av krav til dokumentasjon om økonomisk skille etter andre ledd, krav til hvordan dokumentasjonen skal utarbeides og presenteres, krav til oppbevaringstid, frister og andre praktiske forhold.
+
+*§ 5-6.* Pålegg om retting
+
+Hvis departementet avdekker brudd på bestemmelser gitt i eller i medhold av denne loven eller i grunnlaget for tilskuddet, kan departementet pålegge institusjonen å rette dette innen en gitt frist.
+
 Merknad:
-Bestemmelsen redegjør for adgangen til å gjøre
-unntak for sanksjonene utestenging og bortvisning for de ph.d.-kandidatene som har et ansettelsesforhold ved institusjonen. Bestemmelsen
-gjelder ikke ph.d.-kandidater med ansettelsesforhold utenfor institusjonen, eller de som ikke har
-et ansettelsesforhold. Det er bare der det foreligger særlig grunn til en annen behandling som
-følge av ansettelsesforholdet at det gjøres unntak
-fra reglene som ellers gjelder studenter. Utestenging av en ph.d.-kandidat som er ansatt ved institusjon innebærer i teorien at vedkommende suspenderes, og slike reaksjoner må gis i tråd med
-arbeidsrettslige vurderinger. Foreligger det forhold som kunne medført bortvising og utestenging hvis kandidaten ikke hadde vært ansatt ved
-institusjonen, har utdanningsinstitusjonen som
-arbeidsgiver ansvar for at ph.d.-kandidatens
-adferd får konsekvenser etter arbeidsrettslige
-regler.
-§ 10-9. Forbud mot bruk av klesplagg som helt eller
-delvis dekker ansiktet
-Studenter og ansatte skal ikke bruke klesplagg
-som helt eller delvis dekker ansiktet i forbindelse
 
-Bestemmelsen er en videreføring av gjeldende
-rett.
-Første ledd slår fast at det er forbudt å bruke
-klesplagg som helt eller delvis dekker ansiktet i
-forbindelse med undervisning ved universiteter
-og høyskoler. «Undervisning» inkluderer muntlig
-og skriftlig eksamen, turer, ekspedisjoner og liknende i tilknytning til undervisningen ved utdanningsinstitusjonen. Forbudet gjelder både for studenter og ansatte ved institusjonen. Forbudet gjelder ikke når bruken av plagg som dekker ansiktet
-er begrunnet i klimatiske, pedagogiske, læringsmessige, helsemessige eller sikkerhetsmessige
-forhold. Forbudet rammer for eksempel ikke klesplagg studenter eller ansatte bruker på grunn av
-kulde eller sterk sol, eller munnbind eller annet
-verneutstyr som brukes i undervisningen.
-Forbudet gjelder ikke i de tilfellene der studentene oppholder seg på institusjonsområdet
-uten å være i en undervisningssituasjon. Det er
-for eksempel lov å bruke plagg som helt eller delvis dekker ansiktet ved selvstudium, i kantinen og
-liknende, jf. Prop. 51 L (2017–2018).
-Andre ledd regulerer reaksjonene for brudd på
-første ledd. En student som på tross av skriftlig
-advarsel bruker klesplagg som helt eller delvis dekker ansiktet i strid med bestemmelsen, kan bortvises i inntil ett år. Hvis studenten på tross av skriftlig advarsel ikke retter seg etter vedtak om bortvising, kan studenten utestenges fra utdanningen i
-inntil ett år. Institusjonen bør gå i dialog med den
+Bestemmelsen viderefører gjeldende rett.
 
-[Side 421]
+Bestemmelsen gir departementet hjemmel til å pålegge private universiteter og høyskoler retting dersom det foreligger brudd på krav fastsatt i lov eller i medhold av lov. Et pålegg om retting bør i utgangspunktet være tilsynsmyndighetens første reaksjon dersom det avdekker lovbrudd, og tilsynsmyndigheten bør legge til grunn et proporsjonalitetsprinsipp ved valg av reaksjoner. I særlige tilfeller kan tilsynsmyndigheten bruke visse reaksjoner uten at det har gitt pålegg om retting. Dette kan være aktuelt for eksempel der forhold i strid med regelverket tilsier at retting ikke vil være et hensiktsmessig virkemiddel, av hensyn til studentene eller for å beskytte statens midler. Pålegg om retting er enkeltvedtak, jf. forvaltningsloven § 2 første ledd bokstav b. Et pålegg om retting skal inneholde en frist for oppfyllelse. Utgangspunktet er at denne fristen skal gi institusjonen tilstrekkelig tid til å kunne oppfylle pålegget innen fristen. Hva som er nok tid må avgjøres konkret i det enkelte tilfellet.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*§ 5-7.* Krav om tilbakebetaling av statstilskudd
 
-det gjelder før den treffer vedtak om bortvisning
-eller utestenging. Det er rektor eller den rektor gir
-fullmakt til, som treffer vedtak om bortvisning.
-Styret eller den lokale klagenemnden ved institusjonen kan treffe vedtak om utestenging. Både vedtak om bortvisning og vedtak om utestenging er
-enkeltvedtak, som kan påklages til den lokale
-klagenemden ved institusjonen eller til felles klagenemnd. Felles klagenemnd er en nasjonal klagenemnd som er opprettet av departementet.
-Tredje ledd slår fast at ansatte ved institusjonen
-som bryter forbudet mot å bruke plagg som dekker ansiktet, skal bes om å fjerne plagget. Den
-som ber den ansatte om å fjerne plaget kan for
-eksempel være den ansattes overordnede. Hvis en
-ansatt bryter forbudet flere ganger, kan dette
-være grunnlag for oppsigelse. Oppsigelse skjer i
-tråd med reglene for dette.
-§ 10-10. Vedtaksmyndighet og klageinstans
-Vedtak etter §§ 10-2 til 10-5 treffes av styret
-selv eller lokal klagenemd ved institusjonen, jf.
-§ 12-1.
-Vedtak om at en student ikke er skikket for
-yrket, jf. 10-1, treffes av styret selv eller lokal
-klagenemd ved institusjonen, jf. § 12-1, etter innstilling fra institusjonenes skikkethetsnemnd.
-Vedtak om å utelukke en student fra klinisk
-undervisning eller praksisstudier, jf. 10-6, treffes
-av lokal klagenemd ved institusjonen, etter
-uttalelse fra institusjonen.
-Departementet eller særskilt klageorgan oppnevnt av departementet, jf. § 12-1 åttende ledd, er
-klageinstans.
+Hvis statstilskudd disponeres i strid med bestemmelser gitt i eller i medhold av denne loven eller grunnlaget for tilskuddet, kan departementet kreve tilskuddet tilbakebetalt. Vedtak om tilbakebetaling av statstilskudd er tvangsgrunnlag for utlegg.
+
 Merknad:
-Bestemmelsen redegjør for vedtaksmyndighet og
-klageinstans for de ulike vedtakene om sanksjoner som kan treffes etter kapittel 10. Tidligere
-fremgikk vedtaksmyndighet og klageinstans av
-flere enkeltbestemmelser, men reglene er nå samlet. Det er tilstrekkelig med simpelt flertall for å
-treffe vedtak. Dette følger av den ulovfestede
-hovedregelen i forvaltningsretten.
-§ 10-11. Rett til å få dekket utgiftene til advokat
-Studenten har rett til å få dekket utgifter til
-bistand fra advokat eller annen talsperson når
-a) sak om bortvisning eller utestenging etter
-§§ 10-4 andre og tredje ledd eller § 10-5 er reist,
-eventuelt fra skriftlig advarsel etter § 10-4 andre
-ledd første ledd er gitt
-b) sak om utestenging etter § 10-3 tredje ledd er
-reist
 
-419
+Bestemmelsen viderefører gjeldende rett.
 
-Kapittel 39
+Bestemmelsen fastsetter at tilskudd som er brukt i strid med regelverket kan kreves tilbake av departementet. Formålet med bestemmelsen er at reaksjoner på ulovlig disponering av statstilskudd til høyskoler fremkommer i et mest mulig helhetlig regelverk. Et krav om tilbakebetaling er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 bokstav e.
 
-c) sak om utelukkelse fra klinisk undervisning
-eller praksisstudier etter § 10-6 er reist ved
-lokal klagenemnd ved institusjonen eller
-d) sak etter § 10-1 er reist i skikkethetsnemnda.
-Utgiftene dekkes av institusjonen, etter sats
-fastsatt etter salærforskriften. Vedtak om salærnedsettelse etter salærforskriften § 7 kan påklages
-til departementet eller særskilt klageorgan oppnevnt av departementet, jf. § 12-1 åttende ledd.
+*§ 5-8.* Tvangsmulkt
+
+For å sikre at pålegg som er gitt etter § 8-8 blir fulgt, kan departementet bestemme at den pålegget retter seg mot, skal betale en tvangsmulkt til staten. Tvangsmulkten fastsettes som løpende dagsmulkt fra utløpet av fristen som er satt i pålegget, og inntil forholdet er rettet.
+
+Departementet kan gi forskrift om utstedelse av, størrelse på, forfall av, klage på og lemping av tvangsmulkt.
+
 Merknad:
-Bestemmelsen regulerer studentenes rett til å få
-utgift til advokat dekket i saker om bortvisning, utestenging, skikkethet med videre. Bestemmelsen er
-en videreføring av gjeldende rett, men samler tidligere bestemmelser om dette, som var spredt i
-enkeltbestemmelser, i én bestemmelse. Det er
-institusjonen som skal ta stilling til salærets størrelse, etter satser fastsatt etter salærforskriften.
-Hvis institusjonen mener advokaten har brukt lengre tid enn hva som er rimelig og nødvendig, kan
-institusjonen sette salæret ned. Vedtaket om salærets størrelse er et enkeltvedtak som kan påklages.
-Studentenes rett til bistand fra advokat følger
-av den generelle bestemmelsen i forvaltningsloven § 12, og er ikke videreført i lovforslaget.
-§ 10-12. Domstolsprøving av vedtak om bortvisning
-eller utestenging
-Studentene kan bringe vedtak om bortvisning,
-utestenging og skikkethetsvurdering inn for
-prøving ved tingretten i den rettskrets institusjonens administrasjon har sitt hovedsete. Slikt søksmål må reises innen tre måneder etter at endelig
-vedtak foreligger. Retten kan prøve alle sider av
-vedtaket.
-Forliksmegling foretas ikke.
-Institusjonen dekker alle omkostninger ved
-søksmålet for tingretten, herunder salær til saksøkers advokat. Krav om dekning av saksomkostninger skal fremmes for institusjonen og behandles etter reglene i § 10-11.
+
+Bestemmelsen viderefører gjeldende rett.
+
+*Første ledd* fastslår at tilsynsmyndigheten kan ilegge tvangsmulkt for å sikre at et pålegg gitt med hjemmel i loven blir etterlevd. En forutsetning for bruk av tvangsmulkt er at det er gitt et pålegg, og at fristen for oppfyllelse er oversittet. Et vedtak om tvangsmulkt vil være et enkeltvedtak, jf. forvaltningsloven § 2 tredje ledd om «bruk av særlige tvangsmidler for å få gjennomført et vedtak». Vedtak om ileggelse av tvangsmulkt innebærer at et bestemt beløp skal betales for hver dag. Vedtaket skal rette seg mot den som er gitt pålegget om retting. Det er ikke fastsatt et maksimumsbeløp i bestemmelsen om tvangsmulkt. Beslutning om tvangsmulkt er tvangsgrunnlag for utlegg jf. tvangsfullbyrdelsesloven § 7-2 bokstav d.
+
+*Andre ledd* gir departementet hjemmel til å gi forskrift om tvangsmulkt. Departementet kan i forskrift fastsette nærmere retningslinjer om blant annet tvangsmulktens størrelse og angi momenter som kan vektlegges ved utmålingen. Departementet kan også fastsette regler om at tvangsmulkt kan lempes.
+
+*§ 5-9.* Overtredelsesgebyr
+
+Hvis en institusjon overtrer bestemmelser gitt i eller i medhold av denne loven, kan departementet ilegge institusjonen et overtredelsesgebyr. Overtredelsesgebyr kan ilegges foretak selv om ingen enkeltperson har utvist skyld.
+
+Institusjonen fastsetter størrelsen på overtredelsesgebyret i hvert enkelt tilfelle. Med mindre klagen gis oppsettende virkning, er vedtak om overtredelsesgebyr tvangsgrunnlag for utlegg.
+
+Departementet kan gi forskrift om utstedelse av, størrelse på, forfall av, klage på og lemping av overtredelsesgebyret.
+
 Merknad:
-Det er vedtak om bortvisning, utestenging og
-skikkethetsvurdering som kan bringes inn for
-prøving i retten. Når det gjelder vedtakene om
-skikkethetsvurdering er det i praksis konsekvensen utestengelse som prøves for retten.
-Etter fusjoneringen av flere institusjoner kan
-det forekomme at institusjonenes administrasjon
-har sete på flere steder. Bestemmelsen presiserer
-derfor at prøving skal skje i den rettskrets institu-
 
-[Side 422]
+Bestemmelsen viderefører gjeldende rett.
 
-420
+Overtredelsesgebyr er en administrativ sanksjon som er å regne som straff etter den europeiske menneskerettskonvensjon (EMK) art. 6. Det vil si at de prosessuelle garantier som følger av EMK ved straff, «criminal charge», gjelder ved ileggelse av overtredelsesgebyr. Det er i rettspraksis lagt til grunn at overtredelsesgebyr ikke utgjør straff etter Grunnloven § 96. Dette innebærer at departementet kan ilegge overtredelsesgebyr. Overtredelsesgebyr er et pengebeløp som skal betales til det offentlige på grunn av brudd på reguleringer i eller i medhold av loven. Ileggelse av overtredelsesgebyr er enkeltvedtak, jf. forvaltningsloven § 2 første ledd bokstav b.
 
-Kapittel 39
+*Første ledd* slår fast at en institusjon som bryter regler i eller i medhold av universitets- og høyskoleloven kan ilegges overtredelsesgebyr. Overtredelsesgebyret skal ilegges den som lovens krav retter seg mot i det konkrete tilfellet. Bestemmelsen gir ikke hjemmel til å ilegge enkeltpersoner overtredelsesgebyr, og det er derfor ikke krav til skyld i bestemmelsen. Gebyret kan ilegges institusjonen uten hensyn til eventuell skyld hos enkeltpersoner. Dette innebærer at en institusjon kan ilegges overtredelsesgebyr ved brudd på regler i eller i medhold av loven, selv om det ikke er påvist uaktsomhet eller forsett hos eier eller ansatte.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Andre ledd* fastsetter at overtredelsesgebyret skal utmåles i det enkelte tilfellet. Størrelsen på gebyret kan ta hensyn til blant annet overtredelsens art, omfang, virkning for studentene, om overtredelsen skyldes et ønske om å vanskeliggjøre departementets tilsynsvirksomhet, oppnådde fordeler, om overtredelsen utelukkende skyldes forhold utenfor institusjonens kontroll, institusjonens økonomiske evne med videre. Utmåling av gebyret bør være proporsjonal med overtredelsen. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2 bokstav e.
 
-sjonenes administrasjon har sitt hovedsete. Institusjonenes hovedsete fremgår av Brønnøysundregisteret.
-Ved behandling av saken i tingretten gjelder
-tilsvarende regler for fastsetting av salær til dekning av advokatutgifter som etter § 10-11. Også
-her skal institusjonen fastsette og dekke salæret,
-og vedtak om salærfastsettelse kan påklages.
-Kapittel 11 Ansettelser
-Felles merknad til kapittel 11
-Utvalget foreslår å videreføre bestemmelsene i
-dagens kapittel 6 og 11 om ansettelse i undervisnings- og forskerstillinger, men med enkelte justeringer i nytt kapittel 11. Det er laget en ny struktur tilnærmet statsansattelovens systematikk, der
-de ulike trinnene i en ansettelsesprosess er skilt
-ut i egne bestemmelser. Alle bestemmelser om
-arbeidsrettslige forhold er samlet i ett kapittel.
-Der enkeltbestemmelser kun gjelder for statlige
-institusjoner, er dette angitt i bestemmelsen.
-§ 11-1. Forholdet til arbeidsmiljøloven og statsansatteloven
-For ansettelsesforhold ved institusjoner etter
-denne loven gjelder de alminnelige reglene i
-arbeidsmiljøloven og statsansatteloven, med de
-særregler som følger av denne loven.
+*Tredje ledd* gir departementet hjemmel til å gi forskrift om overtredelsesgebyr og ileggelse av dette, se forskrift 13. oktober 2017 om overtredelsesgebyr etter universitets- og høyskoleloven og fagskoleloven. Maksimumsbeløp for det enkelte gebyret skal fremgå av forskrift. Departementet kan også i forskrift fastsette momenter som kan eller skal legges vekt på ved eventuell ileggelse av overtredelsesgebyret, og andre omstendigheter i forbindelse med overtredelsesgebyret.
+
+*§ 5-10.* Tilbaketrekking av akkreditering
+
+Hvis en institusjon ikke retter alvorlige forhold som er i strid med bestemmelser gitt i eller i medhold av denne loven, innen fristen etter § 5-6, kan departementet trekke akkrediteringen av institusjonen eller studietilbudet tilbake.
+
+Departementet kan gi forskrift om saksbehandling ved tilbaketrekking av akkreditering etter denne bestemmelsen.
+
 Merknad:
-Bestemmelsen viderefører dagens lov § 6-1.
-Søkere til stillinger og ansatte ved private universiteter og høyskoler er bare omfattet av reglene i
-arbeidsmiljøloven. For statlige universiteter og
-høyskoler gjelder i tillegg statsansattelovens
-bestemmelser. Særreglene i lovforslaget supplerer derfor de alminnelige reglene i arbeidsmiljøloven og statsansatteloven, og sikrer søkere til og
-ansatte ved alle utdanningsinstitusjoner like vilkår, uavhengig av eierform.
-Uten særreglene i lovforslaget ville det ha
-vært snevrere adgang til åremålsansettelser og
-midlertidig ansettelse ved de private institusjonene, sammenlignet med de offentlige. Det
-ville også vært ulike regler for ansettelse og oppsigelse. Felles regulering bidrar til mulighet for
-mobilitet mellom de private og de offentlige institusjonene i sektoren.
-§ 11-2. Utlysning av undervisnings- og forskerstillinger
-Ansettelsesorganet fastsetter selv kvalifikasjonskravene og sørger for utlysning av under-
 
-visnings- og forskerstillinger. Hvis det ene kjønnet
-er klart underrepresentert innen den aktuelle stillingskategorien på vedkommende fagområde,
-skal de som er av dette kjønnet spesielt inviteres
-til å søke.
+Bestemmelsen viderefører gjeldende rett.
+
+Bestemmelsen gir tilsynsmyndigheten anledning til å trekke tilbake akkreditering som universitet eller høyskole. Dette påvirker ikke NOKUTs adgang til å trekke tilbake akkreditering på annet grunnlag.
+
+*Første ledd* slår fast at tilsynsmyndigheten kan fatte vedtak om at akkrediteringen kan trekkes tilbake. Det vil bety at institusjonen vedtaket retter seg mot, ikke kan tilby høyere utdanning, inkludert tildele vitnemål, bruke titler eller betegnelser som er beskyttet i universitets- og høyskoleloven med videre. En institusjon som mister akkreditering på denne bakgrunn, vil eventuelt måtte søke NOKUT om ny akkreditering. Vilkåret for at akkrediteringen skal kunne trekkes tilbake av departementet som tilsynsmyndighet, er at det avdekkes alvorlige forhold i strid med universitets- og høyskoleloven eller bestemmelser gitt i medhold av loven. Dette kan være tilfelle der overtredelsene er så grove at hensynet til studentene, statens midler eller tilliten til institusjonen gjør det uforsvarlig å la tilbyderen fortsette som akkreditert institusjon. Det er et vilkår for tilbaketrekking av akkreditering etter denne bestemmelsen at det er gitt pålegg om retting og at fristen for etterlevelse er oversittet, jf. § 8-8.
+
+*Andre ledd* gir departementet hjemmel til å gi forskrift om saksbehandling ved tilbaketrekking av akkreditering etter første ledd.
+
+Kapittel 6 Opptak til høyere utdanning
+
+*§ 6-1.* Krav om generell studiekompetanse
+
+Opptakskravet til lavere grads studier ved universiteter og høyskoler er generell studiekompetanse. Generell studiekompetanse oppnås etter å ha fullført og bestått norsk videregående opplæring med de krav til fagsammensetning og timefordeling som departementet fastsetter.
+
+Den som er tatt opp som student ved en institusjon etter denne loven, har adgang til åpne studier ved de øvrige institusjonene, såfremt opptakskravet er generell studiekompetanse og søkeren ikke er tatt opp etter § 6-4 første og andre ledd.
+
 Merknad:
-Bestemmelsen viderefører dagens lov § 6-3 andre
-ledd, med noen endringer, uten at ansettelsesorganets reelle ansvar er søkt endret. Ansettelsesorganet kan ikke delegere ansvaret for å fastsette
-kvalifikasjonskravene til andre, jf. begrepet «selv»
-i bestemmelsen. Bestemmelsen gir hjemmel for, i
-stillingsutlysningen, å oppfordre medlemmer av
-det underrepresenterte kjønn til å søke.
-§ 11-3. Sakkyndig bedømming og innstilling i undervisnings- og forskerstillinger
-Ansettelse i undervisnings- og forskerstillinger
-skjer på grunnlag av innstilling. Innstilling skjer ut
-fra sakkyndig bedømming etter de kvalifikasjonskrav som er gitt i utlysningen. Det skal gjennomføres intervju, prøveforelesninger eller andre
-prøver, med mindre det er åpenbart unødvendig.
-Ansettelsesorganet kan i særskilte tilfeller
-bestemme at kravet om sakkyndig bedømming
-kan fravikes for undervisnings- og forskerstillinger som ikke er førstestillinger eller professorstillinger. I stillinger hvor det stilles krav om pedagogiske kvalifikasjoner, skal det foretas en særskilt
-vurdering av om søkerne oppfyller disse. Styret
-gir nærmere regler om bedømming.
-I sakkyndig komité skal begge kjønn være
-representert.
-Styret selv bestemmer hvem som skal innstille, og skal fastsette nærmere regler om innstilling med mer.
+
+*Første ledd* fastsetter at det formelle grunnlaget for opptak til lavere grads studier ved universiteter og høyskoler er generell studiekompetanse. Dette vil si at en søker må ha fullført og bestått norsk videregående opplæring med de kravene til fagsammensetning og timefordeling som departementet fastsetter. Fagsammensetning og timefordeling følger av opptaksforskriften § 2-1 første ledd. Opptaksforskriften inneholder opptakskrav og regler for rangering av søkere og oppdateres årlig av Kunnskapsdepartementet. Dette er en videreføring av gjeldende rett.
+
+Første ledd inneholder en språklig endring ved at det ikke lenger bruker ordet «grunnutdanning» slik gjeldende lovbestemmelse gjør. Det foreligger ingen materiell endring ved at det nå står «opptak til lavere grads studier». Med lavere grad menes en akademisk grad på nivå med bachelor eller tilsvarende, det vil si av omfang på minst tre år. Dette utgjør første syklus innen høyere utdanning. Etter bestått lavere grad kan man søke opptak til høyere grads studier.
+
+*Andre ledd* fastsetter at den som er tatt opp som student ved et universitet eller høyskole har adgang til delta i åpne studier ved de øvrige utdanningsinstitusjonene. Dette forutsetter at opptakskravet til studiet er generell studiekompetanse, og at søkeren ikke er tatt opp med hjemmel i § 6-4 første og andre ledd. En søker oppnår «nasjonal» generell studiekompetanse hvis hun eller han får godkjent generell studiekompetanse ved et universitet eller høyskole. Unntak fra kravet om generell studiekompetanse for enkelte fag eller studier etter universitets- og høyskoleloven, kan ikke gjøres gjeldende ved andre studier eller institusjoner enn der unntaket i sin tid ble innvilget. Dette er en videreføring av gjeldende rett.
+
+*§ 6-2.* Kvalifikasjoner som likestilles med generell studiekompetanse
+
+For søkere som ikke har generell studiekompetanse, kan departementet gi forskrift om at også annen utdanning eller kombinasjon av utdanning og yrkespraksis skal være generelt opptaksgrunnlag for søkere som har fylt 23 år i opptaksåret, og som kan dokumentere minst fem års fulltids arbeidserfaring og/eller utdanning. Krav til fagsammensetning og timefordeling gjelder også for disse.
+
+Søkere som har fullført høyere utdanning med et omfang på 60 studiepoeng eller fullført fagskoleutdanning med et omfang på 120 studiepoeng og som kan dokumentere norskkunnskaper i henhold til § 6-1 første ledd, får generell studiekompetanse hvis de ikke har oppnådd dette tidligere.
+
 Merknad:
-Bestemmelsen viderefører i hovedsak dagens lov
-§ 6-3 tredje ledd, med noen endringer. Begrepet
-«stillingsbeskrivelse» er endret til «kvalifikasjonskrav» for å tydeliggjøre den faglige rollen sakkyndig komité her har i ansettelsesprosessen. Videre
-er ordet «betenkning» utelatt fra lovteksten uten
-at dette er ment å endre praksis.
-Første ledd, første og andre setning beskriver
-beslutningsgrunnlaget som ansettelsesutvalget
-skal bygge vedtaket på. Det sentrale utgangspunktet for beslutningsgrunnlaget er en innstilling der ansettelsesutvalget vurderer den sakkyndige komitéens vurderinger i tillegg til andre relevante opplysninger. Et sentralt moment ved siden
+
+*Første ledd* fastsetter at også annen utdanning enn videregående opplæring, eller en kombinasjon av utdanning og yrkespraksis, kan være et generelt opptaksgrunnlag. Dette fremgikk tidligere kun av opptaksforskriften § 2-1 første ledd bokstav b, men forslås nå lovfestet. Etter denne bestemmelsen kan personer som ikke har bestått norsk videregående opplæring søke om opptak til høyere utdanning, gitt at de fastsatte kravene til fagsammensetning og timefordeling er oppfylt.
+
+Søkere som fyller 23 år i løpet av opptaksåret, og som kan dokumentere minimum fem års fulltids arbeidserfaring og/eller utdanning, får på bakgrunn av dette generelt opptaksgrunnlag, det vil si generell studiekompetanse. Omsorg for barn og militær førstegangstjeneste likestilles med arbeidserfaring. Likestilt med førstegangstjeneste er siviltjeneste. Siviltjeneste ble avskaffet i 2012, men søkere som har avtjent siviltjeneste før dette tidspunktet vil også på lik linje med førstegangstjeneste få uttelling ved opptak til høyere utdanning. Som utdanning gjelder bestått årstrinn i videregående opplæring, godkjent årskurs fra folkehøyskole og/eller eksamen fra utdanning søkeren har og som har vart i minst ett år. Også disse søkerne må oppfylle fagkravene og timefordelingsantallet som følger av opptaksforskriften § 2-1 første ledd. Denne bestemmelsen omtales ofte som 23/5-regelen og er en videreføring av gjeldende rett.
+
+*Andre ledd* fastsetter at søkere som er tatt opp til høyere utdanning på grunnlag av regler om unntak fra kravet om generell studiekompetanse, jf. kapittel 3 i opptaksforskriften, og som har bestått en slik utdanning av minst ett års omfang, (60 studiepoeng) eller har fullført fagskoleutdanning med et omfang på 120 studiepoeng (tilsvarende to studieår), får generell studiekompetanse hvis de ikke har oppnådd dette tidligere og de kan dokumentere norskkunnskaper i henhold til kravet som følger av § 6-1 første ledd. Andre ledd er en videreføring av bestemmelser som i dag fremgår av opptaksforskriften, men som nå foreslås lovfestet. For søkere som får generell studiekompetanse på bakgrunn av 120 studiepoeng fra en fagskole, representerer kravet om dokumenterte norskkunnskaper en skjerping av kravet i forhold til gjeldende rett.
+
+*§ 6-3.* Søkere med utdanning fra utlandet
+
+Søkere med treårig videregående utdanning fra de andre nordiske landene er kvalifiserte for opptak uten tilleggskrav i norsk når den videregående utdanningen gir generelt opptaksgrunnlag til universiteter og høyskoler i de respektive landene.
+
+Søkere som har utdanning fra land utenfor Norden må dokumentere bestått utdanning på nivå med norsk treårig videregående opplæring som gir generell studiekompetanse i henhold til GSU-listen. Disse søkere må dokumentere kunnskaper i norsk på minimum nivå med B2-prøven.
+
+Departementet kan fastsette forskrift om nærmere krav til norskkunnskaper.
+
+Merknad:
+
+*Første ledd* fastsetter at søkere som har bestått videregående utdanning fra et av de andre nordiske landene, er kvalifisert for opptak til høyere utdanning i Norge. Denne retten følger av Reykjavik-erklæringen som er en avtale som gjelder gjensidig godkjenning av utdanning. Norge, Danmark, Sverige, Finland, Island, Færøyene og Åland har undertegnet avtalen, og disse nordiske landene forplikter seg gjensidig til å gi utdanningssøkende som er bosatt i et av de andre landene adgang til sin offentlige høyere utdanning på samme eller likeverdige vilkår som søkere fra sitt eget land. Det vil si at en utdanningssøkende som er berettiget til å søke høyere utdanning i det land vedkommende er bosatt i, også er berettiget til å søke høyere utdanning i de andre landene. Partene forplikter seg videre til på beste måte å arbeide for at tilsvarende prinsipp anvendes på private, offentlig godkjente og finansierte høyere utdanningsinstitusjoner. Avtalen omfatter godkjenning av studieperioder og eksamener, og muligheten til å kombinere utdanning fra flere nordiske land.
+
+Det er ikke tilleggskrav om norsk når den videregående utdanningen gir generelt opptaksgrunnlag til universiteter og høyskoler i de respektive landene. I dag fremkommer dette av opptaksforskriften § 2-2 første ledd, men foreslås nå lovfestet.
+
+*Andre ledd* fastsetter at søkere som har utdanning fra land utenfor Norden, i tillegg til å dokumentere bestått utdanning på nivå med norsk treårig videregående opplæring som gir generell studiekompetanse i henhold til GSU-listen[^766], også må dokumentere kunnskaper i norsk på et nærmere definert nivå. Dette fremgår i dag av opptaksforskriften § 2-2 andre ledd.
+
+*Tredje ledd* hjemler departementets mulighet til å fastsette i forskrift de nærmere krav til norskkunnskaper. Dette er i dag gjort i opptaksforskriften § 2-2 andre ledd.
+
+*§ 6-4.* Unntak fra kravet om generell studiekompetanse
+
+Institusjonene kan gjøre unntak fra bestemmelsen om generell studiekompetanse i særskilte tilfeller hvor søkeren kan dokumentere at det på grunn av varig sykdom, funksjonsnedsettelse eller lignende har vært umulig å oppfylle kravet om generell studiekompetanse. Institusjonen kan gi slike søkere opptak til enkeltstudier dersom de har de nødvendige faglige forutsetninger for å kunne gjennomføre det aktuelle studiet.
+
+Institusjonene kan gi søkere som er 25 år eller eldre i opptaksåret, og som ikke har generell studiekompetanse, opptak til enkeltstudier dersom de på grunnlag av realkompetanse har de nødvendige kvalifikasjonene for det aktuelle studiet. Departementet kan gi forskrift om dokumentasjon, saksbehandling og eventuell samordning.
+
+Departementet kan i forskrift unnta enkelte studier eller fag fra kravet om generell studiekompetanse.
+
+Merknad:
+
+*Første ledd* omhandler institusjonenes hjemmel til å gjøre unntak fra bestemmelsen om generell studiekompetanse i særskilte tilfeller hvor søker kan dokumentere at det på grunn av varig sykdom, funksjonsnedsettelse eller lignende har vært umulig å oppfylle kravet om generell studiekompetanse. Det er ikke krav til alder og gjelder i motsetning til gjeldende rett også for søkere som er over 25 år. Hjemmelen til å gi dispensasjon følger i dag av universitets- og høyskoleloven § 3-6 tredje ledd, som viser til departementets mulighet til å gi nærmere forskrift om dette. De nærmere regler om dette følger av opptaksforskriften § 3-2, men er nå foreslått lovfestet.
+
+Det er to vilkår som må være oppfylt for at institusjonen skal kunne gi dispensasjon fra kravet om generell studiekompetanse. For det første må institusjonen vurdere om det foreligger varig sykdom, funksjonsnedsettelse eller lignende tilstand. Dette er et absolutt krav. For det andre må institusjonen vurdere om søkerens tilstand er av en slik karakter at det ikke har vært mulig for søkeren å oppfylle krav om generell studiekompetanse.
+
+Formålet med dispensasjonsadgangen er å hindre åpenbar urimelig behandling av enkeltsøkere. Institusjonene kan bare bruke bestemmelsen i tilfeller der helt spesielle hensyn gjør seg gjeldende. Akkurat som for opptak på grunnlag av realkompetanse i henhold til lovbestemmelsens andre ledd, må institusjonen gjøre en konkret vurdering av om studenten er kvalifisert for det studiet vedkommende søker om opptak til. Søkeren må godtgjøre at han eller hun har de nødvendige faglige forutsetningene for å gjennomføre det aktuelle studiet. Dokumentasjon kan for eksempel være attest fra lege, annet helsepersonell, pedagogisk-psykologisk tjeneste eller tilsvarende. Studenter som har fått opptak på dette grunnlaget har ikke adgang til åpne studier ved andre institusjoner i henhold til § 6-1 andre ledd.
+
+*Andre ledd* fastsetter at søkere som har fylt 25 år, kan tas opp til enkeltstudier dersom de har de nødvendige forkunnskaper til det aktuelle studiet, selv om de ikke tilfredsstiller kravene til generell studiekompetanse. Aldersgrensen skal forhindre at ungdom unnlater å fullføre videregående skole, samtidig som man sikrer at søkere som kan tas opp på grunnlag av realkompetanse, har relevant erfaring gjennom yrkespraksis, omsorgsarbeid og lignende. Universitetene og høyskolene må vurdere kvalifikasjonene opp mot det faget søkeren ønsker å studere. Søkeren må med andre ord ha de faglige forutsetningene for å kunne gjennomføre det aktuelle studiet. Det forutsettes at institusjonen vurderer søkerens totale realkompetanse. Med realkompetanse menes dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet, mens uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring. Studenter som har fått opptak på dette grunnlaget har ikke adgang til åpne studier ved andre institusjoner i henhold til § 6-1 andre ledd.
+
+*Tredje ledd* hjemler departementets mulighet til i forskrift å unnta enkelte studier eller fag fra kravet om generell studiekompetanse. Dette er gjort i opptaksforskriften §§ 3-3 til 3-10.
+
+*§ 6-5.* Forskrift om opptak
+
+Departementet kan gi forskrift om nasjonal samordning av opptak, om rangering av søkere og om klagebehandling.
+
+Departementet kan gi forskrift om spesielle opptakskrav når hensynet til gjennomføringen av studiet gjør dette nødvendig.
+
+Merknad:
+
+*Første ledd* i lovbestemmelsen gir hjemmel for at departementet kan gi forskrift om nasjonal samordning av opptak og rangering av opptaket til høyere utdanning. Dette er gjort i opptaksforskriften hvor reglene om rangering fremgår av kapittel 7. Bestemmelsene om rangering av søkere gjelder for opptak til lavere grads studier ved universiteter og høyskoler, inkludert det lokale opptaket. Søkere rangeres på bakgrunn av karaktersnittet fra videregående skole. I tillegg kan søkerne få tilleggspoeng for alder, annen utdanning, realfag og språk.
+
+Vedtak om opptak til høyere utdanning er et enkeltvedtak, og søkerne kan klage i henhold til forvaltningsloven § 28. Regler om klagebehandlingen ved opptak følger av opptaksforskriften kapittel 8. Hvis en søker mener at det er gjort en feil i forbindelse med behandlingen av søknaden, må søkeren klage så raskt som mulig og senest tre uker etter at vedkommende har fått vedtaket. Nasjonal klagenemnd behandler klager på enkeltvedtak som Samordna opptak gjør om opptak til grunnutdanninger ved universiteter og høyskoler. Den nasjonale klagenemnda behandler ikke klager på vedtak truffet i lokale opptak. Det gjør klagenemnda ved den enkelte utdanningsinstitusjonen. Den nasjonale klagenemnda behandler heller ikke klager på vedtak om opptak på grunnlag av realkompetanse, klager på opptak etter at det er innvilget dispensasjon fra enkelte av kravene om generell studiekompetanse, eller klager på vurderinger av spesielle opptakskrav som omfatter ferdigheter eller opptaksprøver fastsatt av institusjonen. Også slike klager er det klagenemnda ved den aktuelle utdanningsinstitusjonen som behandler. Vedtakene til Nasjonal klagenemnd er endelige, og kan ikke påklages.
+
+*Andre ledd* hjemler departementets mulighet til å fastsette spesielle opptakskrav i forskrift når hensynet til gjennomføringen av studiet gjør det nødvendig. Spesielle opptakskrav følger av kapittel 4 i opptaksforskriften og gjelder for opptak til alle lavere grads studier ved universiteter og høyskoler. Spesielle opptakskrav er fastsatt i tilfeller der studiet forutsetter særlige kunnskaper eller ferdigheter. Spesielle opptakskrav er også ment å være et virkemiddel for å sikre høyere inntakskvalitet på nye studenter.
+
+Lovforslaget § 2-9 viderefører bestemmelsen som gir institusjonene adgang til å søke departementet om å gjøre avvik fra loven og forskriftene til loven i forbindelse med tidsavgrensede pedagogiske eller organisatoriske forsøk. Utdanningsinstitusjoner som ønsker å innføre spesielle krav for opptak til lavere grad må søke Kunnskapsdepartementet. Gjeldende forsøksordninger som innebærer spesielle opptakskrav, går frem av opptaksforskriften kapittel 4, som fastsetter hvilke studier de gjelder for, og i hvilken tidsperiode.
+
+*§ 6-6.* Adgangsregulering
+
+Departementet kan gi forskrift om adgangsregulering når det er nødvendig etter en samlet vurdering av utdanningen i Norge. Når kapasitetshensyn krever det, kan styret regulere adgangen til det enkelte studiet eller deler av det, innenfor de rammene og målene som departementet angir.
+
+Merknad:
+
+Bestemmelsen hjemler departementets adgang til å fastsette adgangsregulering når det er nødvendig etter en samlet vurdering av utdanningen i landet. Slik adgangsregulering vil i praksis skje gjennom behandlingen av de årlige budsjettene, i form av bindende forutsetninger for budsjettildelingene til de enkelte institusjonene. Bestemmelsen gir departementet myndighet til å fastsette slike begrensninger også ved enkeltvedtak eller forskrift, utenfor eller uavhengig av budsjettbehandlingen. Den gir altså adgang for departementet til å regulere opptaket selv om institusjonen finner at den har kapasitet til å ta opp flere studenter ved vedkommende studium. Bestemmelsen gir departementet et sterkt styringsinstrument når det gjelder å påvirke sammensetningen av det samlede utdanningstilbudet som gis i landet, ved å gripe inn og sette begrensninger i opptaket på studier eller fag hvor man mener det er overkapasitet, eller som et virkemiddel til å få overført ressurser fra et studium eller fag til et annet.
+
+*§ 6-7.* Opptak til høyere grads studier
+
+Det skal være eget opptak til høyere grads studier. Styret ved institusjonen kan fastsette faglige minstekrav ved opptak til høyere grads studier.
+
+Merknad:
+
+Det skal være et eget opptak til høyere grads studier. Med «høyere grad» menes en akademisk grad på nivå tilsvarende mastergrad, som er andre syklus innen høyere utdanning og bygger på en lavere grad. Søknad om opptak til femårige integrerte mastergrader og profesjonsstudier gjøres på bakgrunn av generell studiekompetanse. To eksempler på slike studier er medisinstudiet og studiet i rettsvitenskap. Bestått høyere grad er som regel et krav for å bli tatt opp på doktorgradsprogrammer (tredje syklus i høyere utdanning).
+
+Utdanningsinstitusjonen kan fastsette både faglige minstekrav og spesielle krav ved opptak til høyere grads studier, med mindre departementet har fastsatt opptakskrav i forskrift, for eksempel i mastergradsforskriften eller i rammeplan. Faglige minstekrav for opptak kan være nødvendige ut fra hensynet til studiekvalitet og fornuftig ressursdisponering, også i situasjoner hvor det er fysisk mulig å ta imot flere studenter.
+
+Kapittel 7 Læringsmiljø og studentrepresentasjon
+
+*§ 7-1.* Læringsmiljø
+
+Alle studenter har rett til et godt og inkluderende læringsmiljø som fremmer helse, trivsel og læring. Et læringsmiljø er forholdene som virker inn på studentenes muligheter til å tilegne seg kunnskap, og som er av betydning for studentenes fysiske og psykososiale helse. I et helhetlig læringsmiljø inngår fysiske, tilrettelagte, digitale, organisatoriske, pedagogiske og psykososiale forhold.
+
+Styret har ansvaret for at læringsmiljøet på institusjonen er av høy kvalitet og gir studentene gode rammer for læring. Læringsmiljøet skal være fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, trivsel og læring.
+
+En student har rett til å varsle om kritikkverdige forhold ved institusjonen. Gjengjeldelse mot studenten som varsler er forbudt.
+
+Institusjonens arbeid med læringsmiljøet skal dokumenteres og inngå som en del av institusjonens interne system for kvalitetssikring etter § 15-3.
+
+Merknad:
+
+*Første ledd* fastsetter studentenes rett til et godt og inkluderende læringsmiljø. Læringsmiljøet skal fremme helse, trivsel og læring. For studentene er et godt læringsmiljø en forutsetning for god studiekvalitet. Betydningen av miljøets påvirkning på læring er avgjørende, og for eksempel kan selv lave nivåer av støy, uheldige psykososiale miljøer og dårlig organisering medføre studieavbrudd. Det er viktig med studentinvolvering og gode strukturer for studentdemokrati og studentenes eierskap til egen læring.
+
+*Andre ledd* fastslår at det er styret ved institusjonen som er ansvarlig for studentenes læringsmiljø. Læringsmiljøet skal være fullt ut forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, trivsel og læring. Hvorvidt læringsmiljøet er forsvarlig, må avgjøres konkret ut fra forholdene ved den enkelte institusjon. Generelt har utdanningsinstitusjonen ansvaret for å legge til rette for at den enkelte student skal ha de rette forutsetningene, både fysisk og psykososialt, for å tilegne seg den kunnskapen som forventes på studiet.
+
+*Tredje ledd* presiserer at en student har rett til å varsle om kritikkverdige forhold ved institusjonen. Bestemmelsen er basert på tilsvarende bestemmelse i arbeidsmiljøloven om arbeidstakernes vern. «Kritikkverdige forhold» er et vidt begrep. I kommentarutgaven til arbeidsmiljøloven er dette omtalt og det vises blant annet til at åpenbare kritikkverdige forhold er forhold som er straffbare, eller forhold som på annen måte er brudd på lovbestemmelser. Det kan også være forhold knyttet til miljøet, som ulike former for diskriminering eller trakassering. Forhold som studenten mener er kritikkverdige ut fra sin egen politiske eller etiske overbevisning, omfattes ikke av bestemmelsen.
+
+En student har rett til å varsle uten fare for gjengjeldelse. Studenter som varsler kan likevel bli utsatt for gjengjeldelse og lovforslaget sikrer nå at de er omfattet av regler for varsling og vern mot gjengjeldelse. Studentene som varsler skal ha samme vern som arbeidstakere har etter arbeidsmiljøloven § 2 A-2, og dette er også reflektert i lovbestemmelsen. Forbudet mot gjengjeldelse gjelder enhver ugunstig behandling som er en følge av, og reaksjon på, varsling. Formaliserte negative reaksjoner som følge av en ytring fra studenten vil også innebære et inngrep i den ytringsfriheten som er nedfelt i Grunnloven § 100 tredje ledd, jf. Ot.prp. nr. 84 (2005–2006) s. 21. Imidlertid utelukker ikke bestemmelsen i universitets- og høyskoleloven at institusjonen kommer med motytringer. Det må likevel trekkes en grense mot motargumenter og reaksjoner som har karakter av gjengjeldelse.
+
+*Fjerde ledd* fastsetter at institusjonens arbeid med læringsmiljøet skal dokumenteres og inngå som en del av institusjonens interne system for kvalitetssikring, jf. lovforslaget § 15-3. Det er NOKUT som har ansvaret for å føre tilsyn med at dette blir gjort, jf. lovforslaget § 14-2.
+
+*§ 7-2.* Forholdet til studentsamskipnadene
+
+Alle institusjoner som omfattes av denne loven skal være tilknyttet en studentsamskipnad, jf. studentsamskipnadsloven. Departementet avgjør hvilken studentsamskipnad den enkelte institusjon skal være tilknyttet.
+
+Styret ved utdanningsinstitusjonen skal samarbeide med studentsamskipnaden om å legge forholdene til rette for et godt læringsmiljø, og å bedre studentvelferden ved utdanningsinstitusjonen. Utdanningsinstitusjonen har hovedansvaret for læringsmiljøet og studentsamskipnaden har hovedansvaret for studentvelferden.
+
+Merknad:
+
+*Første ledd* fastsetter at alle institusjoner som omfattes av universitets- og høyskoleloven skal som hovedregel være tilknyttet en studentsamskipnad, jf. studentsamskipnadsloven § 4. Det er departementet som avgjør hvilken studentsamskipnad den enkelte institusjon skal være tilknyttet. Bestemmelsen innebærer en dobbeltregulering, ettersom plikt til å være tilknyttet en studentsamskipnad også fremgår av studentsamskipnadsloven. I utgangspunktet er det ønskelig å unngå slik dobbeltregulering, men i dette tilfellet anses det som hensiktsmessig for å understreke ansvaret for studentenes læringsmiljø og velferd generelt.
+
+*Andre ledd* er innført for å tydeliggjøre utdanningsinstitusjonenes samarbeid med studentsamskipnadene for studentenes læringsmiljø og studentvelferden. Omtalen av institusjonenes forhold til studentsamskipnadene er derfor blitt en egen bestemmelse, selv om det er en videreføring av gjeldende rett. Det skal samarbeides om et godt læringsmiljø og å bedre studentvelferden. For de fleste studenter er også forholdene i fritiden en viktig del av læringsmiljøet. Boligforhold, fritidstilbud og et sosialt nettverk er ikke bare viktige faktorer av rent trivselsmessig karakter, men også viktige rammebetingelser som kan ha stor betydning for studentens mulighet til å gjennomføre studiet på normert tid og med gode resultater. Bestemmelsen inneholder derfor en presisering om at studentsamskipnadene har til oppgave å ta seg av studentenes velferdsbehov, mens institusjonenes hovedoppgaver er å ivareta læringsmiljøet.
+
+*§ 7-3.* Universell utforming
+
+Universiteter og høyskoler skal sørge for at institusjonens alminnelige funksjoner er universelt utformet. Plikten til universell utforming omfatter institusjonens fysiske omgivelser, informasjon- og kommunikasjonsteknologien (IKT) og det digitale læringsmiljøet. Universell utforming innebærer at omgivelsene må utformes på en slik måte at de kan brukes av alle mennesker i så stor utstrekning som mulig uten særskilt tilpasning.
+
+Plikten til universell utforming gjelder ikke utforming som innebærer en uforholdsmessig byrde for institusjonen. Når institusjonen skal vurdere om utformingen innebærer en uforholdsmessig byrde, skal det særlig legges vekt på dens effekt for å bygge ned barrierene for studenter med funksjonsnedsettelse, de nødvendige kostnadene ved utformingen, institusjonens ressurser, sikkerhetsmessige hensyn og vernehensyn. Plikten anses oppfylt dersom institusjonen oppfyller krav til universell utforming i lover eller forskrifter.
+
+Universiteter og høyskoler skal ha handlingsplaner for universell utforming.
+
+Merknad:
+
+*Første ledd* fastsetter at universell utforming er det bærende prinsippet for utforming av læringsmiljø, og dette betyr å inkludere alle studenter i de ordinære løsningene så langt det lar seg gjøre. Det følger av likestillings- og diskrimineringsloven § 17 at både statlige og private virksomheter rettet mot allmennheten har plikt til universell utforming av virksomhetens alminnelige funksjoner. Plikten gjelder også for universiteter og høyskoler og det stilles det samme kravet om universell utforming til både statlige som private utdanningsinstitusjoner. Med universell utforming menes «utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, inkludert informasjons- og kommunikasjonsteknologi (IKT), slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse», jf. likestillings- og diskrimineringsloven § 17 andre ledd.
+
+*Andre ledd* fastsetter at plikten til universell utforming ikke gjelder hvis den innebærer en uforholdsmessig byrde for institusjonen. Institusjonene må foreta en skjønnsmessig vurdering av om utformingen medfører en uforholdsmessig byrde, og her skal de særlig legge vekt på tilretteleggingens effekt for å bygge ned barrierene for studenter med funksjonsnedsettelse, de nødvendige kostnadene ved tilretteleggingen, institusjonenes ressurser, sikkerhetsmessige hensyn og vernehensyn. Det presiseres i lovbestemmelsen at plikten til universell utforming anses oppfylt dersom institusjonen oppfyller krav til universell utforming i lov eller forskrift.
+
+*Tredje ledd* fastsetter at institusjonene skal ha handlingsplaner for universell utforming som en del av institusjonenes kvalitetssystemer.
+
+*§ 7-4.* Individuell tilrettelegging ved funksjonsnedsettelse og særskilte behov
+
+Studenter med funksjonsnedsettelse og studenter med andre særskilte behov har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter.
+
+Retten gjelder ikke tilrettelegging som innebærer en uforholdsmessig byrde for institusjonen. Når institusjonen skal vurdere om tilretteleggingen innebærer en uforholdsmessig byrde, skal det særlig legges vekt på dens effekt for å bygge ned barrierene for studenter med funksjonsnedsettelse og andre særskilte behov, de nødvendige kostnadene ved utformingen, institusjonens ressurser, sikkerhetsmessige hensyn og vernehensyn.
+
+Tilretteleggingen må ikke føre til en reduksjon av de faglige kravene som stilles i den enkelte utdanningen.
+
+Universiteter og høyskoler skal ha handlingsplaner for tilrettelegging for studenter med funksjonsnedsettelse og andre særskilte behov.
+
+Merknad:
+
+*Første ledd* gjelder individuell tilrettelegging ved funksjonsnedsettelse og andre særskilte behov. Det presiseres at individuell tilrettelegging ikke skal erstatte universell utforming, men være et supplement i tilfeller hvor den universelle utformingen ikke er mulig eller ikke dekker individuelle behov. Tilrettelegging følger også av FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (CRPD).
+
+FN-konvensjonen bruker følgende definisjon på funksjonsnedsettelse i artikkel 1:
+
+Mennesker med funksjonsnedsettelse er blant annet mennesker med langvarig fysisk, mental, intellektuell eller sensorisk funksjonsnedsettelse som i møte med ulike barrierer kan hindre dem i å delta fullt ut og på en effektiv måte i samfunnet, på lik linje med andre.
+
+Med funksjonsnedsettelse menes tap av eller skade på en kroppsdel eller i en av kroppens funksjoner, slik som mental, intellektuell eller sensorisk funksjonsnedsettelse. Funksjonsnedsettelse deles gjerne inn etter diagnosegrupper, som for eksempel utviklingshemming, cerebral parese eller ADHD. Psykiske lidelser, for eksempel depresjon eller bipolare lidelser, omfattes også av dette begrepet.
+
+Med særskilte behov menes fysiske, psykososiale eller læringsmessige utfordringer av midlertidig karakter, slik som for eksempel et benbrudd, behov for å amme eller omsorg for mindreårige barn.
+
+Lovbestemmelsen skal bidra til å sikre studenter med funksjonsnedsettelse og studenter med andre særskilte behov mulighet til å ta høyere utdanning på lik linje med andre studenter, og den skal bidra til å bygge ned samfunnsskapte funksjonshemmende barrierer og hindre at nye skapes. Forslaget viderefører institusjonenes plikt til å tilrettelegge for studenters utfordringer som er av midlertidig karakter, og til å tilrettelegge ved varig funksjonsnedsettelse.
+
+*Andre ledd* fastsetter at institusjonen ikke har plikt til å iverksette tiltak som medfører en uforholdsmessig byrde for institusjonen, jf. den likelydende begrensningen i likestillings- og diskrimineringsloven § 21 andre ledd. Det må vurderes skjønnsmessig om utformingen eller tilretteleggingen medfører en uforholdsmessig byrde for institusjonen. Når institusjonene skal vurdere om utformingen eller tilretteleggingen medfører en uforholdsmessig byrde, skal de særlig legge vekt på tilretteleggingens effekt for å bygge ned barrierene for studenter med funksjonsnedsettelse, de nødvendige kostnadene ved tilretteleggingen, institusjonenes ressurser, sikkerhetsmessige hensyn og vernehensyn. Det må foretas en vurdering/avveining av om tilretteleggingen innebærer en uforholdsmessig byrde for utdanningsinstitusjoner som veier tyngre enn behovet for tilretteleggingen for den enkelte student.
+
+Når institusjonen skal vurdere om det skal foretas en individuell tilrettelegging må de vurdere hvert enkelt tilfelle konkret, og i vurderingen må de blant annet ta hensyn til institusjonens muligheter for tilrettelegging, likebehandling og hvilken byrde studenten står overfor.
+
+Bestemmelsene om universell utforming og individuell tilrettelegging ved utdanningsinstitusjonene skal også gjelde fullt ut på Svalbard. Krav om tilrettelegging følger av FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne, som gjelder for hele det norske territoriet, og det inkluderer også Svalbard. Norge signerte konvensjonen i 2007 og ratifiserte den i 2013. Det betyr at Norge er forpliktet til å følge det som står i konvensjonen. Dette er en endring i forhold til gjeldende rett hvor studenter på fastlandet og studenter på Svalbard forskjellsbehandles.
+
+*Tredje ledd* fastsetter at tilretteleggingen ikke må føre til en reduksjon av de faglige kravene som stilles til utdanningen. Dette er en videreføring av gjeldende rett. Det handler først og fremst om at det ikke skal være fritak fra obligatoriske aktiviteter, og at tilretteleggingen ikke skal gå på bekostning av læringsutbytte. For eksempel kan ikke studenter med dyskalkuli fritas fra prøve i medikamentregning på sykepleierstudiet. En slik tilrettelegging vil således føre til at deler av studiet ikke blir bestått eller avlagt, noe som igjen fører til at man for eksempel ikke får autorisasjon på grunn av at vitnemålet ikke er komplett. Det er viktig at alle som fullfører og består en utdanning har oppnådd det fastsatte læringsutbyttet.
+
+*Fjerde ledd* fastsetter at institusjonene skal ha handlingsplaner for tilrettelegging for studenter med funksjonsnedsettelse og andre særskilte behov. Dette skal være en del av utdanningsinstitusjonenes kvalitetssystemer.
+
+*§ 7-5.* Tilrettelegging for gravide studenter og studenter med omsorg for barn
+
+En student som er gravid, har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før termin og seks uker etter fødsel. Barnets eventuelle andre forelder har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom fødsel og to uker etter fødsel. Institusjonen kan gi nærmere regler om utsatt eksamen. Bestemmelsene i arbeidsmiljøloven §§ 12-1 til 12-5 og § 12-7 gjelder så langt de passer.
+
+En student som får barn under studiene, har rett til permisjon fra studiene under svangerskap og til omsorg for barn. I permisjonsperioden har studenten fortsatt status som student ved institusjonen og har rett til å gjenoppta sine studier på tilsvarende nivå som før permisjonen. Universiteter og høyskoler skal legge til rette for at studenter som er i permisjon etter første ledd, kan gjenoppta sine studier så raskt som mulig etter endt permisjon.
+
+Merknad:
+
+*Første ledd* er en videreføring av gjeldende rett. En student har rett til utsatt eksamen ved fødsel. Rettighetene er forskjellige for mor og far, noe som skyldes deres ulike biologiske funksjon med graviditet, fødsel og barsel. Bestemmelsen tar utgangspunkt i arbeidsmiljøloven, slik at mor har rett til utsatt eksamen hvis eksamensdato er i perioden fra tre uker før termin til seks uker etter fødsel, se arbeidsmiljøloven § 12-4 og folketrygdloven § 14-9 sjette ledd. Når det gjelder rettigheter for den andre forelderen til å få utsatt eksamen, tar universitets- og høyskoleloven også her utgangspunkt i arbeidsmiljøloven, som gir denne personen rett til to uker fri etter fødsel, jf. arbeidsmiljøloven § 12-3 første ledd. Institusjonene står fritt til å gi den andre forelderen rett til lengre utsettelse, ettersom lovbestemmelsen kun angir en minimumsrettighet. Det følger av barneloven § 4a tredje ledd at regler i lov eller forskrift som gjelder for en far, også gjelder for medmor, men her er det valgt den kjønnsnøytrale betegnelse *forelder*.
+
+Arbeidsmiljøloven § 12-3 andre ledd gir rett til to uker permisjon i forbindelse med adopsjon og overtagelse av omsorg for barnet, men det er ofte tilfellet at adoptivforeldrene må være i adoptivbarnets land en lengre periode. Dette er ikke regulert særskilt i universitets- og høyskoleloven fordi det finnes mange ulike adopsjonsprosesser som det er vanskelig å ta høyde for i en lovtekst. Men rett til permisjon skal så langt det er mulig også gjelde i forbindelse med adopsjon.
+
+Studentens rett til utsatt eksamen gjelder uansett eksamensform. En student som ønsker utsatt eksamen, må varsle utdanningsinstitusjonen i god tid. Institusjonen kan i eget regelverk fastsette frist for når søknad om utsettelse må fremmes. Dersom det er flere studenter som har rett til utsatt eksamen av ulike årsaker, kan institusjonen samordne disse i én eksamen.
+
+Lovbestemmelsen angir som nevnt en minimumsrettighet for studentene, men institusjonen skal så langt det er mulig og rimelig også bidra til å legge studiesituasjonen til rette for studenter som har særskilte behov, jf. universitets- og høyskoleloven § 7-4. Dette innebærer at utdanningsinstitusjonene ved søknad om utsettelse av eksamen, ut over det § 7-5 gir hjemmel for, må vurdere om studenten kan gis utvidet utsettelse fordi det er mulig og rimelig sett hen til studentens særskilte behov.
+
+*Andre ledd* viderefører også gjeldende rett når det gjelder studenter som får barn under studiene og deres rett til permisjon fra studiene under svangerskap og til omsorg for barn. Det betyr at studenten under permisjonen opprettholder sin studentstatus med de rettigheter som følger etter universitets- og høyskoleloven og tilhørende forskrifter. Det følger også av forskrift om studentsamskipnader § 17 tredje ledd at studenter i fødselspermisjon kan velge om de vil betale semesteravgift og dermed benytte seg av studentsamskipnadens velferdstjenester under permisjonstiden. Studenter som ikke har behov for å benytte studentvelferdstjenestene under permisjonen kan velge ikke å betale semesteravgift. Bestemmelsen innebærer også at institusjonene skal legge forholdene til rette for studenter som er i permisjon, og må sikre at disse studentene får god informasjon og veiledning om gjenopptak av studier etter endt permisjon.
+
+*§ 7-6.* Studentombud
+
+Styret skal sørge for at alle studenter har tilgang til et studentombud.
+
+Studentombudet skal være en uavhengig bistandsperson og kan ikke instrueres i sitt virke.

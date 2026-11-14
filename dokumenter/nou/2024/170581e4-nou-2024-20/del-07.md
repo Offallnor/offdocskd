@@ -1,1177 +1,254 @@
-# NOU 2024: 20, del 7 av 24 (side 83–93)
+# NOU 2024: 20, del 7 av 27
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2024/170581e4-nou-2024-20.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2024-20/id3073644/
 - Original-PDF: https://www.regjeringen.no/contentassets/c252947398de4fb0aea9349f011eb410/no/pdfs/nou202420240020000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 2 tabeller, 30 figurer, 170 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 83]
-
-81
-
-NOU 2024: 20
-Det digitale (i) livet
-
-betyr å avvise de man er fysisk sammen med ved å
-være mer opptatt av det som skjer på mobilen.22
-Foreldres egen skjermbruk henger sammen
-med barn og unges skjermbruk, og foreldre er
-viktige rollemodeller for barna. Foreldre som selv
-bruker skjermen mye, vil ofte være bedre i stand
-til å hjelpe barna til å regulere bruk og innhold.23
-Foreldre som sjelden bruker skjerm, er mindre i
-stand til å hjelpe barna, og de er generelt mer
-restriktive til barnas skjermbruk. Foreldrenes
-bruk av skjermer kan også påvirke barns egen
-bruk gjennom modellæring.24 Barn og unge identifiserer seg med foreldrene sine og prøver å etterligne dem og tilegne seg de samme verdiene og
-normene. Studier har vist at når foreldrene til
-yngre barn reduserer sin skjermtid, kan det føre
-til mindre skjermtid hos barna.25
-
-6.5
-
-Digitale dilemmaer
-
-På den ene siden er det ofte foreldrene som
-skaffer barna digitale enheter og legger til rette
-for tilgangen deres. På den andre siden er det
-mange av dem som bekymrer seg og regulerer
-barnas bruk. Foreldre har en viktig rolle i å støtte
-barn og unge i å finne en balanse mellom digitale
-medier og livet ellers. Foreldre har ansvar for sine
-barn og forventes å beskytte dem mot risikoer.
-Men med tilgang til internett kan det oppstå en
-kløft mellom det som forventes at foreldrene bør
-gjøre, og det de har praktisk mulighet til.26 I
-denne delen vil vi se nærmere på dilemmaer som
-familiene kan stå overfor i forbindelse med barnas
-skjermbruk.
-
-6.5.1
-
-Skjermtid
-
-Hvor mye skjermtid barna skal ha, eller få lov til å
-ha, kan i seg selv være et dilemma for familiene.
-Når barna er små, er dette mindre komplisert å
-regulere, men etter hvert som barna blir eldre og
-mer selvstendige og får egne mobile enheter, blir
-det mer krevende. Men ikke alle foreldre mener
-at barnet bruker for mye tid foran en skjerm. I
-Medietilsynets undersøkelse fra 2024 er det tre av
-ti foreldre som svarer at de er enige i at barnet
-bruker for mye tid på sosiale medier, YouTube og
-
-dataspill, og det er tilsvarende som i undersøkelsen fra 2022.27
-Andelen foreldre som ofte er uenig med
-barnet sitt om bruken av tid på de ulike skjermaktivitetene, er høyest blant foreldre med barn i
-alderen ni til ti år, og videre synker andelen med
-alderen.28 Unntaket er bruken av sosiale medier,
-hvor andelen som ofte er uenig om tidsbruken, er
-på sitt høyeste når barnet er 13 til 14 år. Høyest er
-andelen som «ofte» er uenige om tidsbruken på
-dataspill. Når barnet er ni til ti år gammelt, er
-nesten tre av ti foreldre «ofte» uenige med barnet
-om tiden barnet bruker på dataspill. I Medietilsynets samtaler med ti familier bosatt i Oslo ser
-det ut til å være mer konflikt i familier der foreldrene bekymrer seg mye og forsøker å regulere
-skjermbruken strengere.29
-
-6.5.2
-
-27
-29
-
-Wikipedia (2024)
-23
-Livingstone & Byrne (2018)
-24 Livingstone & Byrne (2018)
-25
-Xu mfl. (2015)
-26
-Livingstone & Byrne (2018)
-
-Skjermbruk for de yngste barna
-
-Helsedirektoratet anbefaler at barn under to år ikke
-bruker digitale skjermer, og at barn mellom to og
-fem år ikke bruker skjerm mer enn én time per
-dag.30 Rådene er ikke basert på at skjermtid er
-skadelig i seg selv, men at den kan bli skadelig fordi
-skjermtiden kan gå på bekostning av andre aktiviteter som barna har behov for, særlig tiden barn er
-aktive gjennom lek og annen fysisk aktivitet.
-Medietilsynets undersøkelser viser at om lag
-halvparten av barna i alderen ett til fem år likevel
-ser på film, serier eller TV ukentlig eller oftere.31
-Samtidig er det om lag to av ti barn som aldri ser
-på skjerm. Som skjermbrukutvalget påpekte i
-temanotatet om konsekvenser av skjermbruk for
-de yngste barna, vet vi lite om hvor mye skjermtid
-norske barn har.32 For barn under ett år har vi for
-første gang fått noe innsikt om skjermbruken i
-Medietilsynets undersøkelse fra 2024.33 Undersøkelsen viser at 14 prosent av barna fikk tilgang
-alene til en digital enhet før de fylte ett år.
-Vi vet også lite om foreldres motivasjon for å la
-barna bruke skjerm og i hvilke kontekster de lar
-barn bruke skjerm. I en studie fra 2019 ble foreldre fra Norge, Japan og Portugal intervjuet om
-sine barn i alderen null til tre år og bruken av
-berøringsskjermer.34 Studien viser at foreldre i
-
-28
-22
-
-Kapittel 6
-
-30
-31
-32
-33
-34
-
-Medietilsynet (2024b)
-Medietilsynet (2022b)
-Medietilsynet (2023a)
-Helsedirektoratet (2022b)
-Medietilsynet (2022d)
-Skjermbrukutvalget (2023b)
-Medietilsynet (2024g)
-Dardanou mfl. (2020)
-
-[Side 84]
-
-82
-
-Kapittel 6
-
-NOU 2024: 20
-Det digitale (i) livet
-
-alle land har bekymringer rundt teknologien, men
-at de også ser positive sider. De norske foreldrene
-er minst bekymret, men om lag 50 prosent av foreldrene oppgir ulike bekymringer (mot 90 prosent
-av de japanske). Bekymringene handler om passivitet, avhengighet, sosial isolasjon og utvikling. Av
-positive sider trekker de fleste foreldrene frem
-underholdning, læring og at de kan være kreative.
-Men foreldre i alle tre land trekker også frem
-praktiske hensyn og fordeler for dem selv, som at
-teknologien kan være «effektive barnevakter».
-
-6.5.3 Smartklokker
-Andelen med tilgang til smartklokke er klart
-høyest i alderen fem til ti år, hvor rundt tre av ti
-har tilgang.35 I EU Kids Online-undersøkelsen
-oppgir 19 prosent av norske barn mellom 9 og 17
-år at foreldrene deres bruker GPS til å spore hvor
-de er.36 I Norge spurte forskerne også foreldre
-om i hvor stor grad de bruker GPS-sporing, og 22
-prosent av foreldrene svarte at de gjør dette. Det
-ser ut til at foreldre til yngre barn, og særlig
-gutter, gjør dette i større grad. Av barn mellom ni
-og tolv år opplever 28 prosent av guttene dette,
-versus 17 prosent av jentene. I aldersgruppen 13
-til 17 år er det 16 prosent av guttene, og 17 prosent av jentene som blir sporet av foreldrene.
-Barnas alder og kjønn ser dermed ut til å ha en
-sammenheng med om foreldrene bruker teknologi til å følge med på hvor de befinner seg.
-Det kan argumenteres for at firmaene som
-produserer smartklokker, først og fremst selger
-en følelse av trygghet.37 Men Forbrukerrådet
-avdekket i 2017 at smartklokker for barn manglet
-helt grunnleggende sikkerhets- og personverntiltak.38 Enkelte av produktene ga blant annet risiko
-for at fremmede kunne få tilgang til og ta kontroll
-over klokken og bruke den til å spore og avlytte
-barnet. I Medietilsynets intervjuer med ti norske
-familier er rundt halvparten av foreldrene positive
-til funksjoner og apper som gir oversikt over hvor
-barnet befinner seg.39 De argumenterer med at
-dette gir en trygghet for barnet. Flere av foreldrene har brukt slik overvåkningsteknologi,
-selv om de reflekterer rundt sin egen frie oppvekst og tenker at barn kan ha godt av å ikke alltid
-være tilgjengelige. Flere av foreldrene i intervjuene mener videre at det må være greit at for35
-
-Medietilsynet (2022b)
-Staksrud & Ólafsson (2019)
-37
-Iversen (2024)
-38
-Forbrukerrådet (2017)
-39
-Medietilsynet (2023a)
-
-eldre går gjennom søkehistorikken til barna eller
-bruker barnets mobil til å lytte på samtaler og
-vanskelige situasjoner barnet står i. Barna opplever det også som naturlig at foreldrene bruker
-ulike sporingsapper som forteller hvor de er til
-enhver tid. Både blant barn og foreldre ser det ut
-til å være lite bevissthet om barns rett til privatliv i
-det digitale, ifølge Medietilsynet.
-
-6.5.4 Mobiltelefon
-I aldersgruppen seks til tolv år er en av de store
-digitale milepælene at de fleste får sin første
-mobiltelefon.40 Det er en forholdsvis jevn fordeling fra sju til ti år, og over 70 prosent får sin
-første mobil i dette aldersspennet. Over ni av ti
-barn mellom ni og elleve år har sin egen mobil.
-Medietilsynets intervjuer med foreldre om
-digitale dilemmaer viser at det i første rekke er
-praktiske grunner til at barnet får egen mobil.41
-Men foreldrene ser også andre positive sider,
-blant annet at barna kan få nye ideer til nye aktiviteter og læring, og at de kan ha kontakt med
-venner og familie som bor langt unna. Barna selv
-legger vekt på at mobilen kan brukes til underholdning og sosiale aktiviteter. De problematiske
-sidene ved mobilbruk som både foreldre og barn
-trekker frem, er stygg språkbruk, dårlig oppførsel
-og mobbing via mobil og sosiale medier. Men i
-intervjuene nevner barna i langt mindre grad enn
-foreldrene at de har opplevd innhold på nett og i
-sosiale medier som skummelt eller ubehagelig,
-mens foreldrene nevner flere eksempler på at de
-mener det har skjedd. De fleste foreldrene er opptatt av at barna deres ikke skal skille seg ut fra de
-andre i klassen eller vennegjengen når det gjelder
-bruk av digitale medier. Enkelte hadde ønsket å
-vente med å gi barna mobil, men syntes det var
-vanskelig å holde igjen når «alle andre har»-argumentet ble brukt.
-I Medietilsynets intervjuer forteller både barn
-og foreldre at skolens digitale løsninger bidrar til
-mer konflikt, særlig i klassechatter.42 Foreldre
-opplever at skolen legger stein til byrden gjennom
-et ubevisst forhold til hvordan læringsverktøyene
-brukes. Nettbrett i skolen fratar foreldrene kontroll og mulighet til å regulere skjermbruken, som
-de mener bidrar til mer krangling i hjemmet. Vi
-kommer tilbake til skjermbruk i skolen og samarbeid og kommunikasjon mellom skolen og
-hjemmet i kapittel 14.
-
-36
-
-40
-41
-42
-
-Medietilsynet (2022a)
-Medietilsynet (2023a)
-Medietilsynet (2023a)
-
-[Side 85]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-6.5.5 Sosiale medier
-Halvparten av norske niåringer bruker sosiale
-medier.43 Det er til tross for at aldersgrensen i
-brukervilkårene til de fleste sosiale medier er 12
-eller 13 år. Se mer om aldersgrenser i kapittel 5
-om plattformenes rolle.
-Medietilsynets intervjuer med foreldre om
-digitale dilemmaer viser at foreldre ser ut til å forholde seg til aldersgrenser for sosiale medier på
-en annen måte enn en del andre aldersgrenser.44
-Familiene i undersøkelsen opplever at aldersgrenser i sosiale medier er forvirrende, og de
-brytes ofte. Årsaken til forvirring er trolig at det
-er uklart hva som er bakgrunnen for aldersgrensene. Frykten for at barnet skal havne utenfor
-sosialt, ser ut til å være en hovedmotivasjon for at
-mange foreldre tillater sosiale medier før barna
-har fylt 13 år.
-Medietilsynet skriver at intervjuene tyder på
-at mange foreldre tviler og vakler i egen foreldrepraksis.45 Ifølge tilsynet kjenner foreldrene på
-resignasjon og ambivalens fordi de opprinnelig
-har hatt en klar holdning, men har «gitt opp» etter
-press fra barnet. Mange har dårlig samvittighet og
-føler de går på akkord med egne prinsipper når de
-lar barnet oppgi feil alder og bryte aldersgrenser i
-sosiale medier. Andre foreldre mener at det å
-bryte aldersgrenser i sosiale medier er til barnets
-beste, og at sosialt utenforskap er en større risiko
-enn det barna eksponeres for på TikTok eller
-Snapchat.
-En del av forklaringen på at aldersgrensene
-blir et dilemma, kan være at sosiale normer
-påvirker foreldrene.46 De påvirkes av hva de opplever at andre foreldre gjør, godtar og forventer at
-de gjør. Hvis foreldrene tenker at andre barn får
-lov til å være med på sosiale medier, og at andre
-foreldre aksepterer eller tilrettelegger for det, kan
-de også godta det samme for egne barn, selv om
-de er skeptiske selv. Forskning viser at sosiale
-normer påvirker bruk av digitale medier i andre
-sammenhenger, for eksempel i forbindelse med
-hvor mye man velger å dele om seg selv på nett.47
-Sosiale medier er relativt nytt, og ut fra historien
-ser vi at når et nytt medium introduseres i samfunnet, danner normene for mediet seg gradvis,
-og forståelsen av hva som er akseptabelt, utvikler
-
-seg over tid.48 Frem til nå har det ikke blitt forsket
-på om og hvordan foreldrenes praksis for regulering av barn og unges mediebruk kan være
-påvirket av slike normdannelsesprosesser.
-
-6.5.6 Dataspill
-Dataspill omtales gjerne som den største fritidsinteressen blant ungdom i dag og er en viktig
-sosial arena for mange. Men engasjementet til foreldrene er lavere enn for andre fritidsinteresser.49
-Når det er snakk om tradisjonelle fritidsaktiviteter,
-som for eksempel fotball, korps og langrenn opplever 71 prosent av unge mellom 9 og 16 år at foreldrene deres viser mye eller ganske mye
-interesse. Til sammenligning er det kun 18 prosent som svarer at foreldrene deres viser interesse for dataspillingen.
-I det norske DigiGen-prosjektet forteller ungdommene om en generasjonskløft, der de synes
-det er vanskelig å få foreldrene til å bli engasjert
-og forstå det positive ved dataspilling.50 Samtalene i familien dreier seg mer om begrensninger
-i bruk enn felles engasjement. En fjerdedel av
-unge mellom 16 og 19 år oppgir at de minst noen
-ganger skulle ønske at foreldrene var mer interessert i spillingen deres.51 En noe høyere andel
-gutter enn jenter oppgir dette. Lignende funn
-kommer frem i undersøkelser av foreldrenes oppfatninger. En undersøkelse fra Blå Kors i 2023
-viser at 48 prosent av foreldre ikke er så interessert i spilling selv.52 Det er 56 prosent av foreldre
-som er delvis eller helt enig i at spilling først og
-fremst er et tidsfordriv.
-Når det gjelder de yngste barna virker det som
-om foreldrene er mer påkoblet. En undersøkelse
-fra Norsk filminstitutt tar for seg de yngste spillerne mellom fire til sju år.53 Barna spiller som
-oftest alene, hvor halvparten av foreldrene oppgir
-at de følger med. De yngste i denne aldersgruppen spiller en del sammen med foreldrene
-sine. Nesten alle foreldrene rapporterer om god
-oversikt over hva barna spiller. Når foreldre
-kjøper spill er de mest opptatt av kvalitet og at
-spillet er passende for barnets alder. Foreldre
-kjøper også spill med pedagogiske fordeler som
-kan bidra til barns læring og utvikling.
-48
-
-43
-
-Medietilsynet (2024d)
-44
-Medietilsynet (2023a)
-45
-Medietilsynet (2023a)
-46
-Medietilsynet (2023a)
-47
-Masur mfl. (2023)
-
-83
-
-Kapittel 6
-
-49
-50
-51
-52
-53
-
-Dahl & Bastiansen (2019)
-Medietilsynet (2019)
-Holmarsdottir mfl. (2024)
-Hjetland,Finserås & Skogen (2022)
-Ipsos (2023)
-inFuture på vegne av Norsk filminstitutt (2024)
-
-[Side 86]
-
-84
-
-Kapittel 6
-
-NOU 2024: 20
-Det digitale (i) livet
-
-6.5.7 Kommunikasjon og konflikter
-Ulike familier tar ulike valg for seg og sine barn,
-og regler kan være en kime til konflikt i familiene.
-En studie blant 11 til 14-åringer viser at barna opplever et misforhold mellom foreldrenes regler og
-foreldrenes egne begrunnelser for å bruke digitale medier.54 Misforholdet kan være med på å
-skape spenninger mellom barn og foreldre.
-Råd om skjermbruk og skjermtid er ment å
-beskytte barn mot negative sider ved skjermbruk,
-men de kan uforvarende ha ført til stigmatisering
-av en aktivitet som er integrert i mange familiers
-liv. Det kan igjen føre til stress og konflikter.55
-Mange foreldre kan føle på dårlig samvittighet
-fordi de lar barna bruke skjerm, eller hvor mye de
-lar barna bruke skjerm. En studie som har sett på
-hvordan dette kan påvirke relasjonene mellom foreldre og barn, viser at stresset som amerikanske
-foreldre føler rundt barnas skjermtid, kan føre til at
-de er mindre fornøyde med foreldre–barn-forholdet.56 Også norske foreldre kjenner på denne
-dårlige samvittigheten. Medietilsynet finner at foreldrenes ulike livssituasjoner og hektiske hverdag
-bidrar til at generelle råd fra myndigheter og ulike
-eksperter om at de må engasjere seg og følge med
-på barnas skjermbruk, ikke alltid passer inn i
-familielivet.57 Foreldrene kjenner på dårlig samvittighet for at de ikke lever opp til idealet om å
-«utforske nettet sammen med barna», spille med
-dem, sitte sammen og ha positive opplevelser på
-skjerm.
-En studie med intervjuer av barn mellom 13
-og 15 år har undersøkt hvilke holdninger ungdom
-har til foreldres ulike tilnærminger til regulering
-av skjermbruk.58 Ungdommene oppgir at de foretrekker at foreldrene har en aktiv tilnærming der
-de understøtter ungdommenes evner til selv å
-kunne håndtere utfordringer de møter på nett.
-Forskerne peker på at barns digitale kompetanse
-er høyere hvis foreldrene har høy utdanning og er
-positive til digital teknologi, har gjensidig forståelse, støtter og viser interesse for barnas digitale
-liv. Da opplever barna også at det er lettere å gå til
-foreldrene ved negative nettopplevelser. I familier
-med mer restriktive foreldre, som har strenge
-digitale grenser, eller forbud, ser forskerne at
-barna i mindre grad utvikler digital kompetanse,
-
-og at barna ikke deler negative erfaringer på nett
-med foreldrene.
-Blant foreldre med barn som er mellom 9 og
-17 år, oppgir 53 prosent av mødrene og 42 prosent
-av fedrene at de ofte eller svært ofte snakker med
-barna om hva de gjør på internett.59 Men det er
-bare to av ti av barna som er enig med foreldrene
-om at dette skjer like ofte. Av foreldrene sier 29
-prosent at de ofte eller svært ofte holder seg i nærheten når barnet bruker internett, mens kun 9
-prosent av barna svarer at foreldrene er ofte eller
-svært ofte i nærheten av dem når de er på nett.60
-Bare en av ti av barna i EU Kids Online-undersøkelsen oppgir at de har opplevd at foreldrene
-deltar i felles aktiviteter med dem på nett.
-
-6.5.8 Foreldredeling
-Til tross for at foreldre er bekymret for barns
-bruk av internett og digitale medier, og særlig
-hvordan barn deler informasjon om seg selv på
-nettet, deler mange foreldre bilder og informasjon
-om barna sine selv. Dette kalles ofte «sharenting»,
-eller «foreldredeling» på norsk. Ifølge Medietilsynets undersøkelser har halvparten av foreldrene delt bilder eller videoer av barnet sitt i
-sosiale medier det siste året.61 Foreldre til yngre
-barn deler hyppigere i sosiale medier enn foreldre
-til eldre barn. Halvparten av foreldrene som deler
-bilder, spør barna i forkant. Andelen varierer med
-barnets alder.
-Forskere fra EU Kids Online-nettverket har
-undersøkt denne praksisen, som kan fremstå som
-noe paradoksal.62 Forskerne var spesielt interessert i å undersøke om det var noen sammenheng
-mellom individuelle egenskaper (som demografi
-og digitale ferdigheter) og relasjonelle egenskaper (som foreldreregulering, bekymringer for
-barns personvern og kommunikasjon mellom
-foreldre og barn) og foreldrenes deling. Forskningen deres viser at foreldre med bedre digitale
-ferdigheter har en høyere sannsynlighet for å dele
-informasjon om barna sine i digitale medier. Foreldre som aktivt regulerer barn og unges bruk av
-digitale medier, og som er mer bekymret for
-barns personvern, har likevel høyere sannsynlighet for å dele informasjon om barna sine på nett.
-Et viktig funn fra denne undersøkelsen er at
-mange foreldre ikke ber barn om samtykke til å
-dele informasjon om dem på nett. Samlet sett ser
-
-54
-
-Kim & Davis (2017)
-Wolfers mfl. (2024)
-56
-Wolfers mfl. (2024)
-57
-Medietilsynet (2023a)
-58
-Edwards & Wang (2017)
-55
-
-59
-60
-61
-62
-
-Elvestad mfl. (2021)
-Elvestad mfl. (2021)
-Medietilsynet (2024c)
-Ní Bhroin mfl. (2022)
-
-[Side 87]
-
-85
-
-NOU 2024: 20
-Det digitale (i) livet
-
-Kapittel 6
-
-foreldre ut til å vurdere at de sosiale fordelene ved
-å dele informasjon om barna sine er viktigere enn
-de mulige risikoene det kan innebære.
-Forskning viser i tillegg at barn og unge kan
-være misfornøyde med foreldres deling. Misnøyen vokser i takt med alderen, og de er naturlig
-nok særlig negative når de opplever at foreldrene
-deler informasjon og bilder som de opplever som
-pinlige eller negative.63 En annen studie viser at
-de fleste barna som svarte på undersøkelsen,
-anser foreldredeling som pinlig og uten nytte.64
-Dette gjelder spesielt for ungdommer som oppfattet deling som noe som kunne påvirke hvordan
-
-de selv ville fremstille seg selv på nett, og som var
-mer opptatt av personvern enn foreldrene. En
-annen studie viser at barn generelt ser på denne
-praksisen som mer problematisk enn foreldrene.65
-
-63
-
-65
-
-64
-
-Lipu & Siibak (2019)
-Verswijvel mfl. (2019)
-
-6.6
-
-Råd og veiledning til foreldre
-
-Rundt halvparten av foreldrene i Medietilsynets
-undersøkelse mener at de har god nok informasjon til å veilede barnet om nettbruk.66 Det er
-bare omtrent én av ti som opplever at de ikke har
-66
-
-Hiniker mfl. (2016)
-Medietilsynet (2022a, 2024c)
-
-Boks 6.1 Innspill til utvalget fra barn og unge om skjermbruk i familien
-I utvalgets samtaler med barn og unge trekker
-Skjerm er også en årsak til konflikt i
-de aller fleste frem at de synes foreldrene
-hjemmet. Det å få tilgang til digitalt innhold eller
-bruker for mye tid på skjerm. De opplever at forenheter sees på som milepæler i livet, og det kan
-oppleves urettferdig hvis yngre søsken får det
-eldrene ikke alltid er gode rollemodeller, og at
-tidligere enn en selv. Barna krangler både med
-de ikke følger de samme skjermreglene selv
-søsken om hvem som skal bestemme hva de
-som barna må følge.
-skal se på TV, og med foreldre om skjermtid og
-hva de bruker skjermen til.
-«De er flinke og vet hvilken skjermtid vi barn
-trenger, men de er ikke flinke til å vite om
-egen skjermtid. De er for mye på det» (gutt,
-«Lillebror på 10 år skal få snap til jul, kanskje.
-4. trinn).
-Det er så urettferdig». (jente, 6.trinn)
-En av hovedutfordringene som er stemt frem av
-utvalgets ekspertgruppe av ungdom er at foreldre integrerer skjerm i barnas hverdag altfor
-tidlig. De snakker om «iPad-kids» som er foran
-skjermen alt for mye fra barnehagealder og som
-derfor ikke har lært seg folkeskikk.
-«Mindre skjerm til de små. Sosiale medier er
-ti ganger verre enn TV-serier da vi var små»
-(gutt, vg2)
-I tillegg opplever de at foreldrene ikke prater
-med barna sine om hvorfor skjermreglene er
-som de er, og at reglene er basert på voksnes
-(ofte manglende) kunnskap uten å inkludere
-barna. De opplever også at foreldrene ikke alltid
-klarer å balansere barnets rett på privatliv og
-grensesetting. Foreldrene har ikke så god oversikt over, eller viser ikke så stor interesse for,
-hva barna holder på med i det digitale i livet sitt.
-
-Flere av de eldre ungdommene opplever at foreldrene gjør skjermen til en syndebukk. Hvis de
-har vondt i ryggen eller i hodet, eller hvis de er
-slitne og trøtte, møter foreldre dem med kommentarer om at det er fordi de er for mye på
-skjerm. Ungdommene er enige i at det noen
-ganger kan stemme, men ikke alltid.
-Det som kommer tydelig frem er at de ønsker
-hjelp til å regulere og lage seg gode vaner. Spesielt de yngste synes det er vanskelig å regulere
-skjermtiden på egen hånd, og de etterspør foreldre som setter grenser, men som også inkluderer barna i beslutningene. Flere mener også at
-foreldrene bør samarbeide mer med andre foreldre, slik at barna får like regler. Flere av de
-yngre barna ønsker seg også at foreldrene setter
-regler for skjermtid på enhetene deres.
-«For å være dønn ærlig har jeg lyst på skjermtid. Jeg er alt for mye på det» (jente, 6. trinn)
-
-[Side 88]
-
-86
-
-NOU 2024: 20
-
-Kapittel 6
-
-Det digitale (i) livet
-
-nok informasjon til å veilede barnet om nettbruk.
-Undersøkelsen viser videre at flere foreldre opplever å gradvis miste opplevelsen av å ha nok
-informasjon til å veilede barna i nettbruk etter
-som barna blir eldre. I EU Kids Online-undersøkelsen fra 2018 oppga norske foreldre at de har
-et stort behov for informasjon og råd om barns
-digitale hverdag.67 I undersøkelsen svarte 91 prosent av foreldrene at de gjerne vil få informasjon
-og råd fra barnets skole. Det var 86 prosent som
-svarte at de gjerne vil få informasjon og råd fra
-nasjonale eller lokale myndigheter, noe som er
-hele 31 prosentpoeng høyere enn andelen som
-opplever at de får dette, mens 76 prosent av foreldrene ønsker å få informasjon og råd fra
-veldedige organisasjoner.
-Forskere peker på at selv om foreldre har
-hovedansvaret for sine barn, er det noen utfordringer med å gi foreldrene alt ansvaret for å
-beskytte barn på nett.68 For det første er foreldrene ofte ikke de første barna snakker med om
-sine bekymringer. For det andre utvikler teknologien seg raskt, og det er vanskelig for foreldre å
-henge med på alt de trenger å vite for å veilede
-barna sine på en god måte. For det tredje er det
-dessverre noen foreldre som ikke tar det ansvaret
-de har, og forsømmer barna sine.
-
-6.7
-
-–
-–
-–
-–
-–
-
-–
-
-–
-–
-–
-
-Boks 6.2 Råd til foreldre fra
-skjermbrukutvalgets
-ekspertgruppe av ungdom
-Søk kunnskap og hold deg oppdatert.
-Ha en åpen dialog med barna dine om
-skjermbruk. Vis interesse. Lag regler for
-skjermbruk sammen med barna.
-Ikke bruk «digital husarrest». Det lærer vi
-ikke noe av!
-Gi oss råd, men ikke overvåk oss. Ikke
-snok i meldinger og sosiale medier.
-Ikke gi tilgang for tidlig, og tilpass til alder.
-Et utgangspunkt kan være mobil fra 10 års
-alder og sosiale medier fra 13 år. Følg
-aldersgrensene som er satt.
-Snakk med andre foreldre, og lag felles
-regler for alle, slik at ingen må stå utenfor
-og barna ikke får tilgang for tidlig. Bruk
-FAU.
-Bruk foreldrekontroll på nettbrett og mobil
-for de yngste barna.
-Husk at algoritmene tilpasser – på godt og
-vondt. Vi har ikke samme opplevelse i
-sosiale medier som dere.
-Balanser din egen skjermbruk og vær et
-godt forbilde.
-
-Innspill til utvalget
-
-Utover innspill fra referansegruppen, og innspill
-fra barn og unge (se egne bokser), har utvalget
-mottatt innspill fra enkeltpersoner og organisasjoner på utvalgets nettside og i utvalgsmøter. Innspillene vi har fått via nettsidene, tar særlig opp
-skjermbruk i skolen som tema, og vi kommer tilbake til disse innspillene i andre kapitler. Noe er
-også relevant i dette kapittelet. Mange av foreldrene som har levert innspill, er kritiske til at
-barn får med seg ufiltrerte enheter hjem fra
-skolen når de selv prøver å holde igjen. De peker
-på at det også kan gjøre det vanskeligere å regulere skjermbruken hjemme. En mor skriver at
-hun er fortvilet over at foreldrene som utrykker
-bekymring for skjermbruken, ikke teller i møte
-med skolen eller andre som er mer liberale med
-skjermbruken.69 Hun skriver blant annet: «Barna
-våre har et helt liv med skjermbruk foran seg når
-de etterhvert blir voksne, mens årene med barndom burde bestå av klatring, fantasilek, og å
-
-dyrke hvert barns unike side.» Samtidig påpeker
-en annen mor at ikke alle foreldre er med i opprop, og at ikke alle foreldre frykter skjermen.70
-Hun argumenterer for at foreldre i større grad bør
-anerkjenne dagens ungdomskultur, som foregår
-på skjermer og på internett.
-Barnevakten peker i sitt innspill blant annet på
-at de får tilbakemelding fra barn over hele landet
-som reagerer på foreldrenes skjermbruk, og
-mener den er overdreven.71
-Forbrukerrådet har gitt innspill til utvalget om
-at selskapene er klar over at svært få forbrukere
-justerer innstillinger på grunn av manglende tid
-og kompetanse, og at grunninnstillinger derfor er
-et svært kraftfullt verktøy.72 Selv om noen av
-selskapene også har grunninnstillinger som er tilpasset barn og unge, er det mye man må velge
-selv, noe som stiller urimelige krav til foreldrene.
-
-67
-
-70
-
-68
-
-71
-
-Staksrud & Ólafsson (2019)
-Livingstone & Byrne (2018)
-69 Winsnes (2024)
-
-72
-
-Hagevold (2024)
-Stiftelsen Barnevakten (2024)
-Forbrukerrådet (2024b)
-
-[Side 89]
-
-NOU 2024: 20
-Det digitale (i) livet
-
-6.8
-
-Kunnskapshull
-
-Som utvalget påpekte i temanotatet om de yngste
-barna, er det betydelig mangel på kunnskap om
-skjermbruken til norske barn mellom null og fem
-år.73 Det gjelder også i nasjonale undersøkelser.
-Vi vet for lite om når, hvor mye og hvorfor de
-yngste barna bruker skjerm, og vi har ikke
-forskningsbaserte tall fra et nasjonalt representativt utvalg om de yngste barnas skjermbruk
-hjemme. For å få bedre innblikk hvordan skjermbruk og tilgang til digitale medier påvirker dynamikken i familielivet trengs det forskning som
-inkluderer både barn og unges perspektiv og foreldrenes perspektiv (multiinformant studier). På
-den måten kan man få et bredere og mer helhetlig
-kunnskapsgrunnlag, for eksempel rundt grensesetting og samspill. I tillegg trengs det mer kunnskap om hvordan foreldres egen skjermbruk, digitale holdninger og digitale kunnskap spiller inn på
-deres barn og unges skjermbruk, holdninger og
-kunnskap. For barn og unge i alle aldre er det
-behov for kontinuerlig og nyansert forskning om
-skjermbruk, noe utvalget kommer tilbake til i
-kapittel 17 om utvalgets anbefalinger.
-
-6.9
-
-Oppsummering
-
-Foreldre har ulike holdninger til skjermbruk og
-ulike bekymringer. Mange foreldre synes det er
-vanskelig å vite hvor mye skjermtid som er passende, i hvilken alder barna skal introduseres for
-forskjellig innhold og enheter, og hvordan man
-skal være tilgjengelige og trygge voksenpersoner
-i barn og unges digitale liv. Likevel tyder undersøkelser blant norske foreldre på at mange opplever at de har oversikten de trenger over barnas
-mediebruk, og at de mener de er i stand til å veilede barna sine. Dette er tydeligst hos dem med
-yngre barn. Selv om mange foreldre bekymrer
-seg for hvilke konsekvenser skjermbruken har for
-de yngste barna, kan de undersøkelsene vi har,
-tyde på at det er når barna er i barneskolealder, at
-de største konfliktene og dilemmaene oppstår. I
-denne perioden blir barna mer selvstendige. De
-får sine egne digitale enheter fra skolen, og
-mange får sin første mobiltelefon med tilgang til
-sosiale medier. Vi ser også en økende tendens
-over tid til at foreldre involverer seg mer i barnas
-bruk av sosiale medier, ved at de både har mer
-kunnskap om barnas bruk, og at de setter regler
-73
-
-Skjermbrukutvalget (2023b)
-
-87
-
-Kapittel 6
-
-og bruker funksjoner for foreldrekontroll i større
-grad.
-Dilemmaene familiene står overfor, handler i
-stor grad om i hvilken alder barn og unge skal få
-tilgang til ulike enheter eller innhold, og hvordan
-de skal balansere sosial inkludering og beskyttelse. De største konfliktene ser også ut til å
-handle om dette og om hvordan foreldrene skal
-vurdere og regulere barnas tidsbruk. Et annet
-dilemma er at foreldrenes behov for kontroll og
-ønske om beskyttelse kan komme i konflikt med
-barn og unges rett til privatliv og behov for utforsking, utvikling og løsrivelse fra foreldrene. Et
-eksempel er bruken av smartklokker til kommunikasjon og sporing av barnet.
-Barn og unge ønsker at foreldre skal ha en mer
-aktiv og engasjert tilnærming, i stedet for en
-restriktiv. Undersøkelser tyder på at mange barn
-og unge ikke går til trygge voksne når de opplever
-noe ubehagelig på nett. Foreldrene klarer ofte ikke
-å oppfylle idealet om den «engasjerte skjermforelderen» og kan få dårlig samvittighet på grunn av
-det. Skjermbrukutvalgets ekspertgruppe av ungdom etterlyser mer åpen dialog, også dersom det
-skjer noe ubehagelig på nett. De peker på at frykten for «digital husarrest» gjør at ungdom ikke sier
-fra til foreldrene hvis de ser noe som opprører
-dem.
-
-6.10 Utvalgets vurderinger
-Selv om teknologien er ny, er ikke det å være gode
-«skjermforeldre» noe helt nytt og annerledes. Foreldre bør være opptatt av å gi barn og unge en
-balansert og variert oppvekst med rom for alt det
-vi vet at barn trenger. Barn trenger blant annet
-gode relasjoner til sine foreldre og søsken, og de
-har behov for å bli sett og hørt. De trenger fysisk
-nærhet og sosialt samspill med familie og venner.
-De trenger å bruke kroppen, de trenger sunn mat,
-god og nok søvn og frihet til å utforske verden og
-lære.
-Mye av debatten om skjermtid og oppvekst
-handler først og fremst om skjermbruk og
-skjermtid, men det er ikke alltid presisert hva
-som legges i dette. Som vi kommer inn på i alle
-kapitlene i denne utredningen, er det viktig å være
-klar over at begreper som skjerm og skjermtid
-rommer mange nyanser. Barn er også forskjellige,
-og i forskjellige aldre er det behov for ulik grad av
-regulering. Etter hvert som ungdommene blir
-eldre, bør de få regulere mer selv, men foreldrene
-er avgjørende for veiledning og støtte gjennom
-hele oppveksten.
-
-[Side 90]
-
-88
-
-Kapittel 6
-
-NOU 2024: 20
-Det digitale (i) livet
-
-Utvalget har også tatt inn foreldrenes egen
-skjermbruk som tema i utredningen der det er
-relevant. I kapittel 11 går vi nærmere inn på hvordan foreldrenes bruk kan påvirke de yngste barna
-og deres tilknytning til foreldrene. Men også
-eldre barn kan påvirkes av voksnes skjermbruk.
-Som vi har sett i dette kapittelet kan barn og
-unges egen skjermbruk påvirkes av foreldrenes
-holdninger og regulering. I utvalgets samtaler
-med barn og unge trekker de aller fleste frem at
-de synes foreldrene bruker for mye tid på skjerm.
-De opplever at foreldrene ikke alltid er gode rollemodeller, og at de ikke følger de samme skjermreglene som barna må følge. Dette understøttes
-av organisasjonen Barnevakten i deres innspill til
-utvalgsarbeidet.
-Studier har vist at når foreldrene reduserer sin
-skjermtid, kan det føre til mindre skjermtid hos
-yngre barn. Utvalget mener at voksne må være
-gode rollemodeller ved å være bevisst på sin egen
-skjermbruk når de er sammen med barn og unge.
-For å sikre den gode balansen i skjermbruken
-kan det også være behov for at familiene lager
-felles skjermregler, og etablerer noen «skjermfrie
-soner» i hverdagen. Se kapittel 18 for utvalgets
-råd om skjermbruk i ulike aldre.
-Historisk ser vi at når et nytt medium introduseres i samfunnet, danner normene for mediet seg
-gradvis, og forståelsen av hva som er akseptabelt,
-utvikler seg over tid. Mye tyder på at foreldre i
-dag tar en mer aktiv rolle i å regulere barnas
-skjermbruk. Det kan ha å gjøre med at normer for
-skjermbruk har utviklet seg. Det kan også skyldes at det har vært mye debatt om skjerm og
-skjermtid de siste årene, og at foreldre har fått
-mer kunnskap om og blitt mer bevisst på mulig-
-
-hetene for regulering – både teknisk og på annet
-vis. Den nye foreldregenerasjonen har også i
-større grad vokst opp med lignende medier som
-det dagens unge bruker, for eksempel sosiale
-medier og dataspill. Men både kunnskap, evne og
-muligheter til å ta en aktiv rolle som forelder
-varierer trolig betydelig mellom sosiale grupper.
-Teknologien endrer seg også raskt, og foreldrene
-trenger å utvikle sin digitale kompetanse. Foreldreutvalget i barnehage formidler gjennom referansegruppen til utvalget at de syntes det er vanskelig, om ikke umulig, for foreldre i dag å orientere seg i råd og anbefalinger, og at de synes det
-er vanskelig å vite hvem de skal høre på. Utvalget
-mener derfor at det er behov for mer samstemte
-råd fra myndighetene, og god og tilgjengelig informasjon som kan hjelpe foreldre til å veilede
-barnas digitale liv. Utvalget mener også at skolen
-bør bidra til at «skjermvett» og felles regler for
-skjermbruk, også på fritiden, tas opp på møter i
-foreldregruppen.
-Utvalget mener at plattformene i større grad
-bør bruke de tryggeste grunninnstillingene for
-barn og unge, og at innstillingene for foreldrekontroll må være lett tilgjengelige og enkle å forstå.
-Selv om foreldre skal og bør ha hovedansvaret
-for sine barn, har også myndighetene en rekke
-plikter til å bidra til å beskytte barn etter barnekonvensjonen. Det gamle ordtaket «it takes a village to raise a child» gjelder fortsatt, og i utvalgets
-samlede anbefalinger i kapittel 17 vurderer vi
-hvordan myndighetene kan bidra til å støtte foreldre, blant annet ved å gjøre mer informasjon tilgjengelig og ved å ansvarliggjøre og regulere
-plattformene i større grad.
-
-[Side 91]
-
-89
-
-NOU 2024: 20
-Det digitale (i) livet
-
-Kapittel 7
-
-Kapittel 7
-
-Skjermen som sosial arena
-
-Figur 7.1
-
-7.1
-
-Innledning
-
-Barn og unge opplever mange gleder og positive
-sider ved sosiale medier og dataspill. En vesentlig
-del av barn og unges sosiale liv utspiller seg på
-skjermene, og de er i dag en viktig arena for å få
-og opprettholde vennskap. Sosiale medier gir
-underholdning, inspirasjon og kontakt med
-venner og kjente. Dataspill er underholdende og
-kan være en viktig arena for mestring og læring,
-og digitale spill er i stadig større grad også en
-sosial arena.
-Mange er bekymret for hva et mer digitalt
-sosialt liv betyr for barn og unge, og forskning på
-ungdoms bruk av sosiale medier og dataspill har i
-stor grad sett på negative effekter.1 Bekymringer
-som går igjen, er at barn er mindre sammen fysisk
-nå enn før, og at dette også gjør noe med deres
-sosiale ferdigheter, vennskap og sosiale interaksjoner. Mange er bekymret for at sosiale medier
-fører til at barn og unge sammenligner seg mer
-med andre og får et større behov for bekreftelse i
-form av likerklikk og kommentarer, og at dette
-kan føre med seg mer stress og kroppspress. Digital mobbing og hard språkbruk i spill kan også gi
-grunn til bekymring.
-I dette kapittelet ser vi på hva som kan være
-positive og negative sider med skjermen som
-sosial arena, inkludert hva barn og unge selv
-mener. Vi fokuserer særlig på to av de mest
-1
-
-Hjetland, Finserås & Skogen (2022); Schønning mfl. (2020)
-
-brukte sosiale skjermaktivitetene: sosiale medier
-og dataspill.
-Fordi temaet er skjermen som sosial arena,
-handler dette kapittelet hovedsakelig om eldre
-barn (over ti år), som er den gruppen som bruker
-sosiale digitale plattformer mest. Det digitale
-sosiale rommet gir muligheter for å ha kontakt
-med andre, både kjente og ukjente. Slik kontakt
-kan medføre risiko. Skjermbrukutvalget har ikke
-gått inn på helt klare skadelige sider ved digitale
-relasjoner, som vold og overgrep mot barn på nett
-eller for eksempel grooming, såkalt hevnporno,
-hacking eller identitetstyveri, ettersom strafferettslige problemstillinger ikke er en del av
-utvalgets mandat.
-
-7.2
-
-Barn og unges digitale sosiale liv
-
-I løpet av en helt vanlig hverdag er barn og unge
-fysisk sammen på skolen, på fritidsaktiviteter, og
-de møtes for å leke og være sammen fysisk. Men
-det er ikke et skarpt skille mellom digitale og
-fysiske aktiviteter, og det er heller ikke vanntette
-skott mellom relasjonene de har online og offline.
-De glir over i hverandre og utgjør til sammen
-hele deres sosiale liv. Dataspilling foregår for
-eksempel ikke bare digitalt, men er også en aktivitet som kan bringe ungdom fysisk sammen ved
-at venner spiller sammen, eller at skoler eller
-fritidsklubber arrangerer organisert spilling.
-Sosiale medier kan også være en arena for å finne
-fysiske kulturarrangementer og møtesteder, som
-
-[Side 92]
-
-90
-
-NOU 2024: 20
-
-Kapittel 7
-
-Det digitale (i) livet
-
-treningsgrupper, eller avtale hvor man skal samle
-venner og kjente.
-Flere studier viser at dataspill kan være en
-sosial arena der unge kan etablere vennskap og
-samles om felles interesser.2 Ut fra data fra intervjuer og digitale dagbøker fra barn og unge fra
-ulike europeiske land har prosjektet DigiGen vist
-at unge selv ser på dataspill som underholdning
-og en meningsfull fritidsaktivitet der de kan
-kommunisere, sosialisere, leke og lære.3 Ungdommene beskriver Discord, en online kommunikasjonskanal som ofte brukes i forbindelse med
-dataspill, som en digital lekeplass der man kan
-møte og spille med andre.
-Blant 9- til 18-åringer er det Fortnite, Roblox
-og Minecraft som er de mest spilte spillene, ifølge
-tall fra Medietilsynets undersøkelse Barn og
-
-medier 2024.4 Alle disse spillene gir mulighet til å
-chatte (stemme og tekst) med andre brukere.
-Også andre sosiale elementer er inkorporert i
-disse spillene, som muligheten til å påvirke innholdet eller legge ut eget innhold. I tillegg bruker
-mange unge digitale plattformer som YouTube,
-Twitch, TikTok og Instagram til å kommunisere
-med andre om dataspill.5 Blant ni- og tiåringer
-svarer 70 prosent av guttene og 43 prosent av
-jentene at dataspill er sosialt og gjør at de har kontakt med venner.6 Andelen synker med alderen, til
-62 prosent for gutter og 31 prosent for jenter på 17
-og 18 år.
-Fra 9 til 18 år øker andelen som bruker sosiale
-medier fra 53 til 96 prosent, ifølge tall fra Barn og
-medier 2024.7 YouTube, Snapchat og TikTok er
-
-2
-
-5
-
-3
-
-Domahidi mfl. (2014); Trepte mfl. (2012), sitert i Hjetland,Finserås & Skogen (2022)
-Rustad mfl. (2024)
-
-4
-6
-7
-
-Medietilsynet (2024c)
-Kultur- og likestillingsdepartementet (2023)
-Medietilsynet (2024c)
-Medietilsynet (2024c)
-
-Boks 7.1 KI-relasjoner
-Etter hvert som kunstig intelligens (KI) har
-sjonen som sterkere og dypere enn relasjonen
-utviklet seg, kan barn og unge også være sosiale
-til et menneske.
-med en datamaskin. Samtalebasert teknologi
-Deltagerne i studien har ulike forståelser av
-basert på prediktiv skriving gir mange mulighet
-vennskapet. Noen beskriver vennskapet som
-til å finne meningsfulle relasjoner med en prategjensidig, der de bryr seg om hverandre, viser
-interesse for hverandre og støtter hverandre ved
-robot (også kalt en chatbot). Slike prateroboter
-behov. Andre beskriver relasjonen som mer
-har blitt mer tilgjengelige og vil trolig bli enda
-rettet mot seg selv, der Replika alltid er interesmer tilgjengelige fremover. I 2023 introduserte
-for eksempel Snapchat samtaletjenesten «My
-sert i å snakke om det de vil. Noen forstår
-AI», som du kan ha en samtale med, som en
-Replika som et verktøy de kan bruke til selvstandardfunksjon.
-utvikling, for eksempel til å øve på sine sosiale
-En norsk studie har sett på hvordan 19
-ferdigheter. Hele verdenen til prateroboten
-voksne personer fra ulike land forstår og oppkretser rundt ditt liv, samtidig som Replika helst
-ønsker din oppmerksomhet hele dagen. Enkelte
-fatter sin egen vennskapsrelasjon med prateoppga at de dermed følte et visst ansvar overfor
-roboten Replika sammenlignet med vennskap
-prateroboten.
-med et menneske. De fleste i studien beskriver
-relasjonen med Replika som langvarig og som
-Forskerne konkluderer med at et KI-vennen relasjon de er emosjonelt investert i. Delskap kan ha noen fellestrekk med et vennskap
-tagerne i studien reflekterte også over at
-mellom mennesker. Likevel er det noen trekk
-Replika var kunstig, og at relasjonen dermed
-som skiller dem fra hverandre. En KI-relasjon
-skilte seg fra et vennskap med et menneske. De
-kan forstås som en ny form for personlig tilbeskriver relasjonen som en del av seg selv, som
-passet vennskap som kan bygges på en dyp
-et fantasivennskap eller et spill, og noen
-kontakt og samtale heller enn delte opplevelser.
-beskriver relasjonen som vennskap på et lavere
-I motsetning til partene i et vennskap mellom
-nivå og som et substitutt for menneskelig vennmennesker er KI alltid tilgjengelig.
-skap. Noen få av deltagerne beskriver KI-relaKilde: Brandtzaeg, Skjuve & Følstad (2022).
-
-[Side 93]
-
-91
-
-NOU 2024: 20
-Det digitale (i) livet
-
-de mest brukte plattformene, men bruken har
-gått noe ned siden 2022. På sosiale medier chatter
-de med venner, deler bilder og egne videoer,
-kommenterer på innlegg og mye annet.8 Barn og
-unge bruker sosiale medier til å holde kontakten
-med venner og familie som bor langt unna, og til å
-ha kontinuerlig kontakt med vennene sine gjennom dagen.9 Gjennom sosiale medier får ungdommer kontakt med andre med like interesser
-som dem selv, de får positiv oppmerksomhet fra
-andre10 og de kan få hjelp og støtte når de har det
-vanskelig.11
-Det ser ut til å være kjønnsforskjeller i hvordan skjermen brukes og oppleves som en sosial
-arena. Andelen jenter som svarer at de ville følt
-seg utenfor om de ikke var på de samme sosiale
-mediene som vennene sine, øker fra 33 prosent
-blant 9- og 10-åringene til 55 prosent blant 17- og
-18-åringene.12 For guttene ligger andelen rundt
-30 prosent for alle aldersgruppene. Dette kan tyde
-på at sosiale medier blir en viktigere sosial arena
-for jenter etter hvert som de blir eldre, mens dataspill fortsetter å være en viktig arena for gutter.
-En norsk studie viser at gutter spiller mer dataspill enn jenter, og at dette henger sammen med at
-gutter ikke anser sosiale medier som like sosialt
-relevant som dataspilling.13 En dansk studie av
-over 1500 barn og unge mellom 10 og 18 år viser
-at gutter i større grad bruker dataspill til sosialt
-samvær, mens jenter spiller mer individuelt.14
-Dette understøttes av en undersøkelse blant
-norske elever i videregående skole som finner at
-gutter som spiller, opplever å dra flere sosiale fordeler av dataspilling enn jenter som spiller.15
-Undersøkelsen viser at jenter ser ut til å ha både
-flere positive og flere negative erfaringer med
-sosiale medier enn gutter, og at jenter legger mer
-vekt på det som skjer i sosiale medier enn gutter
-gjør. Ifølge undersøkelsen holder 75 prosent av
-jentene kontakt med venner og familie som de
-ellers ikke møter i hverdagen, gjennom sosiale
-medier, sammenlignet med 57 prosent av guttene.
-Flere jenter enn gutter har også kontinuerlig kontakt med venner gjennom dagen, med 80 prosent
-blant jenter mot 66 prosent blant gutter, og jenter
-får mer positiv oppmerksomhet på sosiale medier
-
-Kapittel 7
-
-enn gutter, med 38 prosent mot 26 prosent. At
-jenter opplever mer positiv oppmerksomhet på
-sosiale medier, kan handle om sosial støtte. For
-eksempel viser en oversiktsartikkel at kvinner
-både gir og får mer sosial støtte på sosiale medier
-enn menn.16 Jenter er også mer aktive på sosiale
-medier i form av å kommentere eller reagere på
-innlegg ifølge tall fra Medietilsynets undersøkelse
-Barn og medier 2022.17
-For barn og unge kan det digitale være en
-arena for sosial inkludering. Sosiale medier kan gi
-muligheter til å møte andre likesinnede. For
-eksempel kan skeiv ungdom få kontakt med
-andre skeive og etablere et digitalt nettverk der de
-kan være seg selv i mangel av et slikt nettverk i
-sine fysiske omgivelser.18 Kvalitative studier har
-vist at sosiale medier er en arena der skeiv ungdom kan dele erfaringer knyttet til sin legning og
-dele mestringsstrategier og få støtte.19 Sosiale
-medier kan dermed være en trygg arena for å
-utforske temaer som seksualitet og kjønn.20
-Dataspill er en arena der mange kan delta på
-like vilkår og kan øve seg på å bli gode til å spille.
-For barn og unge med funksjonsnedsettelser kan
-dataspill være en arena for å oppleve inkludering.
-De kan utvikle meningsfulle relasjoner, få venner
-og utvikle sine sosiale ferdigheter i en spillkontekst sammen med andre (se tekstboks
-7.2).21 Men de kan også oppleve ekskludering
-ved for eksempel mangel på universell utforming.22 Jenter og gutter kan også oppleve ulike
-vilkår for å få tilgang til spill, både fordi jenter
-opplever mer hets og trakassering fra andre
-spillere (se avsnitt 7.6.5), og fordi mange av de
-store spillene som utvikles, retter seg mest mot
-gutter.
-
-7.3
-
-Digitale barrierer og kostnaden
-ved å ikke være med
-
-Å ikke være med på digitale sosiale plattformer
-kan ha en reell sosial kostnad. Ved å ikke være på
-de digitale sosiale mediene som de jevnaldrende
-deltar på, kan man falle utenfor sosialt. I en norsk
-undersøkelse oppgir en fjerdedel av unge i videregående skole at de faller utenfor dersom de ikke
-
-8
-
-Medietilsynet (2024c)
-Hjetland,Finserås & Skogen (2022)
-10
-Hjetland,Finserås & Skogen (2022)
-11
-Kysnes mfl. (2022)
-12
-Medietilsynet (2024c)
-13
-Leonhardt & Overå (2021)
-14
-Thorhauge & Gregersen (2019)
-15
-Hjetland,Finserås & Skogen (2022)
-9
-
-16
-17
-18
-19
-20
-21
-22
-
-Tifferet (2020)
-Medietilsynet (2022a)
-Berger mfl. (2022)
-Escobar-Viera mfl. (2018)
-Berger mfl. (2022).
-Cairns mfl. (2021)
-Kultur- og likestillingsdepartementet (2023)
+# Skjermen som sosial arena
+
+## Innledning
+
+Barn og unge opplever mange gleder og positive sider ved sosiale medier og dataspill. En vesentlig del av barn og unges sosiale liv utspiller seg på skjermene, og de er i dag en viktig arena for å få og opprettholde vennskap. Sosiale medier gir underholdning, inspirasjon og kontakt med venner og kjente. Dataspill er underholdende og kan være en viktig arena for mestring og læring, og digitale spill er i stadig større grad også en sosial arena.
+
+Mange er bekymret for hva et mer digitalt sosialt liv betyr for barn og unge, og forskning på ungdoms bruk av sosiale medier og dataspill har i stor grad sett på negative effekter.[^370] Bekymringer som går igjen, er at barn er mindre sammen fysisk nå enn før, og at dette også gjør noe med deres sosiale ferdigheter, vennskap og sosiale interaksjoner. Mange er bekymret for at sosiale medier fører til at barn og unge sammenligner seg mer med andre og får et større behov for bekreftelse i form av likerklikk og kommentarer, og at dette kan føre med seg mer stress og kroppspress. Digital mobbing og hard språkbruk i spill kan også gi grunn til bekymring.
+
+I dette kapittelet ser vi på hva som kan være positive og negative sider med skjermen som sosial arena, inkludert hva barn og unge selv mener. Vi fokuserer særlig på to av de mest brukte sosiale skjermaktivitetene: sosiale medier og dataspill.
+
+Fordi temaet er skjermen som sosial arena, handler dette kapittelet hovedsakelig om eldre barn (over ti år), som er den gruppen som bruker sosiale digitale plattformer mest. Det digitale sosiale rommet gir muligheter for å ha kontakt med andre, både kjente og ukjente. Slik kontakt kan medføre risiko. Skjermbrukutvalget har ikke gått inn på helt klare skadelige sider ved digitale relasjoner, som vold og overgrep mot barn på nett eller for eksempel grooming, såkalt hevnporno, hacking eller identitetstyveri, ettersom strafferettslige problemstillinger ikke er en del av utvalgets mandat.
+
+## Barn og unges digitale sosiale liv
+
+I løpet av en helt vanlig hverdag er barn og unge fysisk sammen på skolen, på fritidsaktiviteter, og de møtes for å leke og være sammen fysisk. Men det er ikke et skarpt skille mellom digitale og fysiske aktiviteter, og det er heller ikke vanntette skott mellom relasjonene de har online og offline. De glir over i hverandre og utgjør til sammen hele deres sosiale liv. Dataspilling foregår for eksempel ikke bare digitalt, men er også en aktivitet som kan bringe ungdom fysisk sammen ved at venner spiller sammen, eller at skoler eller fritidsklubber arrangerer organisert spilling. Sosiale medier kan også være en arena for å finne fysiske kulturarrangementer og møtesteder, som treningsgrupper, eller avtale hvor man skal samle venner og kjente.
+
+Flere studier viser at dataspill kan være en sosial arena der unge kan etablere vennskap og samles om felles interesser.[^371] Ut fra data fra intervjuer og digitale dagbøker fra barn og unge fra ulike europeiske land har prosjektet DigiGen vist at unge selv ser på dataspill som underholdning og en meningsfull fritidsaktivitet der de kan kommunisere, sosialisere, leke og lære.[^372] Ungdommene beskriver Discord, en online kommunikasjonskanal som ofte brukes i forbindelse med dataspill, som en digital lekeplass der man kan møte og spille med andre.
+
+Blant 9- til 18-åringer er det Fortnite, Roblox og Minecraft som er de mest spilte spillene, ifølge tall fra Medietilsynets undersøkelse Barn og medier 2024.[^373] Alle disse spillene gir mulighet til å chatte (stemme og tekst) med andre brukere. Også andre sosiale elementer er inkorporert i disse spillene, som muligheten til å påvirke innholdet eller legge ut eget innhold. I tillegg bruker mange unge digitale plattformer som YouTube, Twitch, TikTok og Instagram til å kommunisere med andre om dataspill.[^374] Blant ni- og tiåringer svarer 70 prosent av guttene og 43 prosent av jentene at dataspill er sosialt og gjør at de har kontakt med venner.[^375] Andelen synker med alderen, til 62 prosent for gutter og 31 prosent for jenter på 17 og 18 år.
+
+Fra 9 til 18 år øker andelen som bruker sosiale medier fra 53 til 96 prosent, ifølge tall fra Barn og medier 2024.[^376] YouTube, Snapchat og TikTok er de mest brukte plattformene, men bruken har gått noe ned siden 2022. På sosiale medier chatter de med venner, deler bilder og egne videoer, kommenterer på innlegg og mye annet.[^377] Barn og unge bruker sosiale medier til å holde kontakten med venner og familie som bor langt unna, og til å ha kontinuerlig kontakt med vennene sine gjennom dagen.[^378] Gjennom sosiale medier får ungdommer kontakt med andre med like interesser som dem selv, de får positiv oppmerksomhet fra andre[^379] og de kan få hjelp og støtte når de har det vanskelig.[^380]
+
+KI-relasjoner
+
+Etter hvert som kunstig intelligens (KI) har utviklet seg, kan barn og unge også være sosiale med en datamaskin. Samtalebasert teknologi basert på prediktiv skriving gir mange mulighet til å finne meningsfulle relasjoner med en praterobot (også kalt en chatbot). Slike prateroboter har blitt mer tilgjengelige og vil trolig bli enda mer tilgjengelige fremover. I 2023 introduserte for eksempel Snapchat samtaletjenesten «My AI», som du kan ha en samtale med, som en standardfunksjon.
+
+En norsk studie har sett på hvordan 19 voksne personer fra ulike land forstår og oppfatter sin egen vennskapsrelasjon med prateroboten Replika sammenlignet med vennskap med et menneske. De fleste i studien beskriver relasjonen med Replika som langvarig og som en relasjon de er emosjonelt investert i. Deltagerne i studien reflekterte også over at Replika var kunstig, og at relasjonen dermed skilte seg fra et vennskap med et menneske. De beskriver relasjonen som en del av seg selv, som et fantasivennskap eller et spill, og noen beskriver relasjonen som vennskap på et lavere nivå og som et substitutt for menneskelig vennskap. Noen få av deltagerne beskriver KI-relasjonen som sterkere og dypere enn relasjonen til et menneske.
+
+Deltagerne i studien har ulike forståelser av vennskapet. Noen beskriver vennskapet som gjensidig, der de bryr seg om hverandre, viser interesse for hverandre og støtter hverandre ved behov. Andre beskriver relasjonen som mer rettet mot seg selv, der Replika alltid er interessert i å snakke om det de vil. Noen forstår Replika som et verktøy de kan bruke til selvutvikling, for eksempel til å øve på sine sosiale ferdigheter. Hele verdenen til prateroboten kretser rundt ditt liv, samtidig som Replika helst ønsker din oppmerksomhet hele dagen. Enkelte oppga at de dermed følte et visst ansvar overfor prateroboten.
+
+Forskerne konkluderer med at et KI-vennskap kan ha noen fellestrekk med et vennskap mellom mennesker. Likevel er det noen trekk som skiller dem fra hverandre. En KI-relasjon kan forstås som en ny form for personlig tilpasset vennskap som kan bygges på en dyp kontakt og samtale heller enn delte opplevelser. I motsetning til partene i et vennskap mellom mennesker er KI alltid tilgjengelig.
+
+Kilde: Brandtzaeg, Skjuve & Følstad (2022).
+
+\[Boks slutt\]
+
+Det ser ut til å være kjønnsforskjeller i hvordan skjermen brukes og oppleves som en sosial arena. Andelen jenter som svarer at de ville følt seg utenfor om de ikke var på de samme sosiale mediene som vennene sine, øker fra 33 prosent blant 9- og 10-åringene til 55 prosent blant 17- og 18-åringene.[^381] For guttene ligger andelen rundt 30 prosent for alle aldersgruppene. Dette kan tyde på at sosiale medier blir en viktigere sosial arena for jenter etter hvert som de blir eldre, mens dataspill fortsetter å være en viktig arena for gutter. En norsk studie viser at gutter spiller mer dataspill enn jenter, og at dette henger sammen med at gutter ikke anser sosiale medier som like sosialt relevant som dataspilling.[^382] En dansk studie av over 1500 barn og unge mellom 10 og 18 år viser at gutter i større grad bruker dataspill til sosialt samvær, mens jenter spiller mer individuelt.[^383] Dette understøttes av en undersøkelse blant norske elever i videregående skole som finner at gutter som spiller, opplever å dra flere sosiale fordeler av dataspilling enn jenter som spiller.[^384] Undersøkelsen viser at jenter ser ut til å ha både flere positive og flere negative erfaringer med sosiale medier enn gutter, og at jenter legger mer vekt på det som skjer i sosiale medier enn gutter gjør. Ifølge undersøkelsen holder 75 prosent av jentene kontakt med venner og familie som de ellers ikke møter i hverdagen, gjennom sosiale medier, sammenlignet med 57 prosent av guttene. Flere jenter enn gutter har også kontinuerlig kontakt med venner gjennom dagen, med 80 prosent blant jenter mot 66 prosent blant gutter, og jenter får mer positiv oppmerksomhet på sosiale medier enn gutter, med 38 prosent mot 26 prosent. At jenter opplever mer positiv oppmerksomhet på sosiale medier, kan handle om sosial støtte. For eksempel viser en oversiktsartikkel at kvinner både gir og får mer sosial støtte på sosiale medier enn menn.[^385] Jenter er også mer aktive på sosiale medier i form av å kommentere eller reagere på innlegg ifølge tall fra Medietilsynets undersøkelse Barn og medier 2022.[^386]
+
+For barn og unge kan det digitale være en arena for sosial inkludering. Sosiale medier kan gi muligheter til å møte andre likesinnede. For eksempel kan skeiv ungdom få kontakt med andre skeive og etablere et digitalt nettverk der de kan være seg selv i mangel av et slikt nettverk i sine fysiske omgivelser.[^387] Kvalitative studier har vist at sosiale medier er en arena der skeiv ungdom kan dele erfaringer knyttet til sin legning og dele mestringsstrategier og få støtte.[^388] Sosiale medier kan dermed være en trygg arena for å utforske temaer som seksualitet og kjønn.[^389]
+
+Dataspill er en arena der mange kan delta på like vilkår og kan øve seg på å bli gode til å spille. For barn og unge med funksjonsnedsettelser kan dataspill være en arena for å oppleve inkludering. De kan utvikle meningsfulle relasjoner, få venner og utvikle sine sosiale ferdigheter i en spillkontekst sammen med andre (se tekstboks 7.2).[^390] Men de kan også oppleve ekskludering ved for eksempel mangel på universell utforming.[^391] Jenter og gutter kan også oppleve ulike vilkår for å få tilgang til spill, både fordi jenter opplever mer hets og trakassering fra andre spillere (se avsnitt 7.6.5), og fordi mange av de store spillene som utvikles, retter seg mest mot gutter.
+
+«Ibelin»
+
+Mats Steen ble født med en muskelsykdom som gjorde at både livskvaliteten og livsløpet hans ble sterkt redusert. Familiens store sorg var at han aldri skulle oppleve vennskap og kjærlighet og få opplevelsen av å sette fotavtrykk etter seg i andre menneskers liv. Men etter Mats’ bortgang som 25-åring dukket det overraskende opp mennesker fra hele Europa som Mats hadde utviklet dype vennskaps- og kjærlighetsforhold til, bare gjennom en skjerm.
+
+Historien og filmen om Mats «Ibelin» Steen har preget utvalgets arbeid på flere måter, særlig fordi utvalgsleder Robert Steen også er far til Mats. Det har gjort at utvalgslederen parallelt med arbeidet i skjermbrukutvalget har bidratt til å ferdigstille og promotere den kritikerroste dokumentarfilmen, som vant Amanda-prisen for beste norske film i 2024. Det er også en sterk personlig historie som er relevant for mange temaer i utvalgets arbeid. Særlig illustrerer den hvor viktig digitale muligheter kan være for barn og unge som ikke har de samme mulighetene som andre til å delta i det fysiske sosiale livet.
+
+\[Boks slutt\]
+
+## Digitale barrierer og kostnaden ved å ikke være med
+
+Å ikke være med på digitale sosiale plattformer kan ha en reell sosial kostnad. Ved å ikke være på de digitale sosiale mediene som de jevnaldrende deltar på, kan man falle utenfor sosialt. I en norsk undersøkelse oppgir en fjerdedel av unge i videregående skole at de faller utenfor dersom de ikke deltar på sosiale medier.[^392] I en rapport tilknyttet Elevundersøkelsen oppgir 71 prosent av jentene og 59 prosent av guttene at de hadde vært mer ensomme om de ikke hadde tilgang på sosiale medier.[^393] Hvilke spill barna spiller og får lov til å spille, kan være viktig for hvilke venner som tilbringer tid sammen.[^394] Å ikke få være med i det digitale sosiale livet, kan oppleves like ekskluderende og vanskelig som å ikke få være med på fest eller på fotballaget. Redd Barna har identifisert flere barrierer for å kunne delta digitalt.[^395] De peker på mangel på utstyr og nettilgang, men nevner også at barn og unge kan møte barrierer som mobbing og hatprat på nett, manglende foreldrestøtte, negativ sosial kontroll samt dårlige levekår og boforhold.
+
+Mangel på utstyr gjør det vanskelig for barn fra lavinntektsfamilier å delta på lik linje som andre barn i dataspill. For noen kan disse barrierene avhjelpes av tilgang på digitale enheter i skolen. For eksempel forteller en gutt i en undersøkelse gjennomført av Kantar på oppdrag fra Norsk filminstitutt (NFI) at iPad fra skolen er den eneste løsningen han har for å spille dataspill.[^396] I en undersøkelse som også inkluderte minoritetsungdom er det tydelig at kostnad begrenser hvilken mulighet barn fra lavinntektsfamilier har til å delta i dataspill.[^397] Som vi også kom inn på i kapittel 5 om plattformenes rolle, er mange dataspill dyre eller bygget opp slik at man får fordeler ved å kjøpe innhold inne i spillet, noe som også kan gjøre at barn fra lavinntektsfamilier ikke kan delta på lik linje med andre barn.
+
+Barn og unge med funksjonsnedsettelser møter barrierer i spill. Tilsynet for universell utforming (UU-tilsynet) har identifisert tre digitale barrierer i dataspill som utfordrer den universelle utformingen, og dermed deltagelsen til dem som har funksjonsnedsettelser.[^398] Dette er manglende eller redusert mulighet til å få tilbakemelding på grunn av en sensorisk funksjonsnedsettelse, å ikke kunne gjennomføre handlinger i spillet på grunn av en motorisk funksjonsnedsettelse, og å ikke forstå spillet på grunn av en kognitiv funksjonsnedsettelse. Slike barrierer kan skape en avstand mellom hva en spiller kan få til, og hva som er spillets krav. Resultatet er at de som har funksjonsnedsettelser kan få en dårligere spillopplevelse eller bli ekskludert fra en viktig sosial arena. Det er spillutviklerne selv som har ansvar for å sørge for universell utforming i spillene de lager. Flere av de store spillaktørene har kommet sterkere på banen, for eksempel ved å inkludere flere tilgjengelighetsfunksjoner.
+
+Innspill fra utvalgets referansegruppe om skjermen som sosial arena
+
+*Unge funksjonshemmede* påpeker at mange unge ikke får muligheten til å delta på ulike digitale flater og arenaer på grunn av manglende universell utforming. Disse barrierene kan også føre til at barn og unge med funksjonshemminger ikke har den samme tilgangen til informasjon. Dette kan være et demokratisk problem. I tillegg kan det være vanskelig å sosialisere seg og bli inkludert med jevnaldrende dersom de ikke har samme mulighet til å bruke ulike apper og delta på de digitale flatene som andre unge er på. Dette fører til at de faller utenfor og ikke får delta på samme linje som andre. Unge funksjonshemmede mener det er nødvendig å sikre at de ulike digitale plattformene er universelt utformet.
+
+\[Boks slutt\]
+
+## Å bruke sosiale medier og dataspill for mye
+
+Samtidig som sosiale medier og dataspilling er en sosial arena med mange positive sider for ungdom, er det flere som opplever at de bruker for mye tid på det, at det går på bekostning av andre og viktigere ting, og at de føler seg avhengige. For eksempel viser en undersøkelse blant elever i videregående skole at en av tre opplever seg selv som avhengig av sosiale medier.[^399] Medietilsynets undersøkelse Barn og medier 2024 viser at 37 prosent av barn og unge mellom 9 og 18 år synes at de bruker for mye tid på sosiale medier, og 28 prosent skulle ønske at de klarte å logge av sosiale medier oftere.[^400] For dataspilling er andelene lavere, der kun 15 prosent synes de bruker for mye tid på dataspilling. Noen barn og unge opplever at konsekvensene av for mye skjermbruk er at de blir mentalt eller fysisk slitne, og at de blir sittende og skrolle uten å få så mye ut av det.[^401] De opplever at det kan gå utover andre aktiviteter de ønsker å bruke tid på, slik som søvn, lek, fysisk aktivitet og kreativ utfoldelse.
+
+En vanlig bekymring er at skjermbruk erstatter fysiske møter og at dette i neste omgang medfører dårligere sosial kompetanse. Andelen på ungdomstrinnet som har vært sammen med venner minst to kvelder i uken, har sunket ifølge tall fra Ungdata 2019.[^402] Det gjelder både andelen som har vært sammen med venner hjemme hos noen (fra 75 prosent i 2011 til 59 prosent i 2018 blant gutter; nedgangen er noe større blant jenter, fra 74 prosent i 2011 til 53 prosent i 2018) og andelen som har vært sammen med venner ute (fra omtrent 40 prosent i 2011 til omtrent 30 prosent i 2018, for både gutter og jenter). Tall fra Ungdata 2024 viser at andelen ungdom i ungdomsskolealder som er sammen med venner minst to kvelder i uken, har gått ned fra 40 prosent blant gutter og 41 prosent blant jenter i 2010–2012 til 34 prosent for begge kjønn i 2023–2024.[^403] Fysiske møter skjer også gjennom organiserte fritidsaktiviteter. Andelen barn og unge som er med i en organisasjon, klubb eller et lag, og andelene som trener i et idrettslag eller annen organisert trening, har holdt seg relativt stabil de siste ti årene.[^404]
+
+En norsk studie fra 2023 viser at det er sammenheng mellom bruk av sosiale medier og opplevelse av ensomhet hos 10- til 12-åringer.[^405] Forskerne merker seg også at selv om det er vanlig å bruke sosiale medier i aldersgruppen, oppgir de i mindre grad enn eldre ungdommer å føle seg ensomme. Analysene viser dessuten at barn og unge som bruker mer tid på sosiale medier, også tilbringer mer fysisk tid sammen med venner. Dette understøttes av en studie blant barn og unge i Tronhdheim.[^406] Sammenhengen mellom digitale sosiale relasjoner og ensomhet ble i en oversiktsartikkel funnet å være svak,[^407] og man har heller ikke klare holdepunkt for å si noe om årsaksretningen.[^408] Samlet sett er det lite direkte evidens for at bruk av sosiale medier fortrenger samvær ansikt-til-ansikt.[^409]
+
+En annen bekymring er at omfattende bruk av sosiale medier går ut over barn og unges sosial kompetanse. Sosiale ferdigheter utvikles i interaksjon med foreldre, familie, venner og andre i det sosiale miljøet man vokser opp i. I dag utgjør sosiale medier en del av det sosiale miljøet barn og unge vokser opp i, men det er så langt uklart om det å bruke sosiale medier påvirker de sosiale ferdighetene. En studie blant 13 til 16 år gamle amerikanske ungdommer viser at de som i større grad bruker sosiale medier eller tekstmeldinger til å kommunisere med romantiske partnere, ett år senere har lavere sosial kompetanse, i form av dårligere evne til å håndtere konflikter og ta i mot kritikk, enn de som kommuniserer mer ansikt til ansikt og over telefon.[^410] Sammenhengen er spesielt sterk for gutter. En norsk studie fra 2024 undersøker om det er en sammenheng mellom å bruke sosiale medier, i form av å like og kommentere andres innlegg og å legge ut innhold selv, og ungdommers sosiale ferdigheter.[^411] Forskerne fulgte den samme gruppen ungdommer fra de var 10 til de var 18 år. Studien viser at mer aktivitet på sosiale medier ikke er relatert til fremtidige endringer i sosiale ferdigheter. Mer bruk av sosiale medier predikerer imidlertid reduserte sosiale ferdigheter blant ungdom som har mer sosial angst, men sammenhengen er svak.
+
+Den danske Sundhedsstyrelsen har oppsummert forskningsbasert kunnskap om sammenhenger mellom bruk av digitale medier, inkludert dataspill, og sosial trivsel og relasjoner.[^412] Gjennomgangen konkluderer med at det ikke er mulig å fastslå hvordan unges bruk av digitale medier påvirker deres sosiale fellesskaper, men at bruken kan ha både positive og negative konsekvenser. Den svenske Folkhälsomyndigheten har også undersøkt mulige sammenhenger mellom dataspill og sosiale relasjoner uten å finne klare resultater.[^413]
+
+### Alltid tilgjengelig: stress og press
+
+Det at ungdommer føler at de bruker for mye tid på sosiale medier og dataspill, kan henge sammen med egenskaper ved teknologien som vist i kapittel 5, men det kan også handle om det sosiale som skjer på nett. En kvalitativ studie av norske elever i videregående skole viser at en viktig motivasjon for å bruke sosiale medier, til tross for opplevde negative konsekvenser, er at det er en viktig sosial arena.[^414] I Medietilsynets undersøkelser svarer omtrent halvparten av jentene fra 13–14-årsalderen at de ville følt seg utenfor om de ikke var på de samme sosiale mediene som vennene sine.[^415] Av guttene svarer rundt en tredjedel at de ville følt seg utenfor. I tillegg til at det føles sosialt nødvendig å bruke sosiale medier, kan bruken knyttes til forventninger fra andre. I den kvalitative studien av elever i videregående skole beskrev deltagerne at det finnes uskrevne regler og normer for aktivitet på sosiale medier.[^416] For eksempel følte de på et press om å like og kommentere venners innlegg og å svare raskt på meldinger, og at det å ikke gjøre det kunne tolkes negativt av andre. I en spørreundersøkelse svarte 37 prosent av norske videregåendeelever at de føler at de må like eller kommentere det venner legger ut på sosiale medier.[^417] Det oppstår en gjensidig forventning om å hele tiden være tilgjengelig, som gjør at de ofte sjekker etter nye oppdateringer.[^418] Medietilsynet har vist at noen opplever det som en plikt å være digitalt synlig for vennene sine, for eksempel på Snapmap, som er en karttjeneste i Snapchat der man kan se hvor vennene befinner seg.[^419]
+
+En annen faktor som kan bidra til at man bruker mer tid enn man ønsker foran skjermen, er frykten for å gå glipp av noe (fear of missing out; FOMO). FOMO defineres som en følelse av at andre kan ha givende opplevelser som man ikke deltar i, og FOMO karakteriseres av et ønske om å hele tiden vite hva andre holder på med.[^420] Sosiale medier gir tilgang til informasjon om hva andre gjør, og hvem de er sammen med til enhver tid. De som er redde for å gå glipp av ting, kan være spesielt tilbøyelige til å bruke sosiale medier mye. Sosiale medier kan bli en «felle» ved at man må delta for å henge med sosialt, selv om man opplever bruken som negativ.[^421] Undersøkelser har imidlertid vist at de fleste ungdommer selv opplever bruken som positiv eller nøytral.[^422] I en undersøkelse av amerikansk ungdom mellom 13 og 17 år rapporterte 32 prosent at bruken var for det meste positiv, mens for 9 prosent var bruken for det meste negativ.[^423] Resten opplevde bruken som verken positiv eller negativ.
+
+I en dansk kunnskapsgjennomgang finner forskerne flere studier som ser på sammenhengen mellom bruken av digitale medier blant barn mellom 6 og 15 år og FOMO.[^424] Overordnet viser funn fra flere studier at barn og unges følelse av FOMO henger sammen med hvor mye tid de bruker på digitale medier, når både FOMO og bruk av digitale medier måles på samme tid.[^425] En dansk undersøkelse av 1800 skoleelever på 6. og 9. trinn viser at FOMO er særlig utbredt blant jenter på 9. trinn.[^426] FOMO kan også henge sammen med barn og unges psykiske helse og med søvn. Dette er nærmere beskrevet i kapittel 8 om sosiale medier og psykisk hele, og kapittel 10 om fysisk helse og søvn.
+
+### Digitalt stress
+
+FOMO og forventninger fra andre om å være aktiv på sosiale medier kan være en kilde til stress. Det finnes mange kilder til stress i hverdagen, og flere bekymrer seg for om barn og unges skjermbruk bidrar til økt stress. Digitalt stress henger ofte sammen med bruk av sosiale medier[^427] og kan blant annet forstås som en reaksjon på å føle seg overveldet av mange varsler, press om hele tiden å være tilgjengelig og andres forventninger og reaksjoner (se kapittel 8).[^428] Barneombudets ekspertgruppe av ungdom skriver i en rapport at innholdet i plattformene kan skape press og stress, noe som igjen kan påvirke psykisk helse.[^429] De beskriver stresset som kan komme når ungdom føler de må være tilgjengelige og svare raskt på meldinger. I en norsk undersøkelse blant ungdom i videregående skole oppgir 31 prosent at de noen ganger opplever sosiale medier som en stressfaktor, mens 16 prosent av jentene og 6 prosent av guttene oppgir at sosiale medier bidrar til betydelig stress.[^430] Analysene viser at den opplevde graden av FOMO henger sterkt sammen med nivået av opplevd stress.
+
+Stress og press blant ungdom er ikke nytt, og ungdommene i Barneombudets ekspertgruppe av ungdom ser på sosiale medier som noe som forsterker stresset og presset som allerede finnes. Likevel finner Ungdata-undersøkelsen at de færreste ungdommer opplever press i hverdagen gjennom sosiale medier.[^431] Kun 6 prosent opplever mye eller svært mye press om å ha mange følgere og likerklikk på sosiale medier, mens nesten sju av ti ikke opplever noe slikt press. Til sammenligning opplever 38 prosent mye eller svært mye press om å gjøre det bra på skolen, og kun 14 prosent opplever ikke skolepress. Dypere analyser av resultatene viser at sammenhengen mellom hvor mye press ungdom opplever, og problemer med å takle press er aller sterkest blant dem som bruker mye tid på sosiale medier.[^432] I en undersøkelse fra Folkehelseinstituttet oppgir 12 prosent av deltagerne (16 til 19 år) at sosiale medier er en stressfaktor for dem, mens omtrent to tredjedeler oppgir at sosiale medier ikke er en stressfaktor.[^433] I kapittel 8 beskrives det hvordan digitalt stress er knyttet til psykisk helse.
+
+Innspill til utvalget fra barn og unge om skjermen som sosial arena
+
+I utvalgets samtaler med barn og unge blir kommunikasjon med andre trukket frem som noe av det mest positive med skjermene. De forteller at de spiller sammen, snapper og facetimer, noe som gir en sterkere følelse av å være inkludert. Skjermen byr på underholdning, hjelper dem med å lære nye ting og brukes til praktiske gjøremål som alarmer og bussbilletter.
+
+«Kan være veldig sosial når jeg spiller.» (gutt, 4. trinn)
+
+På den andre siden opplever de aller fleste at de bruker mer tid foran skjermen enn de ønsker. I alle aldersgrupper blir TikTok og skrolling på uendelig algoritmestyrt innhold spesielt trukket frem som et problem. De opplever ikke å få så mye ut av det, men at det er vanskelig å legge det fra seg.
+
+«Tiden bare flyr når jeg er på TikTok.» (gutt, 6. trinn)
+
+«Skroller bare for å skrolle. Sjelden man sitter igjen med inntrykk av hva man har sett på.» (jente, vg2)
+
+«Tror det handler om at apper er designet for å holde oss der – vanskelig å slutte når det kommer nytt innhold kontinuerlig.» (gutt, vg2)
+
+De føler også at de må være tilgjengelige så å si hele tiden. Det kan skape stress og gå på bekostning av andre aktiviteter, som søvn og å øve til prøver. Selv om de bruker ulike innstillinger for å bruker mobilen mindre, synes de det fortsatt er vanskelig å holde seg unna. De nevner også at de føler at de må være oppdaterte på nye trender på TikTok og Instagram Reels, slik som populære danser og lydsnutter.
+
+«‘Ikke forstyrr’ og sånt hjelper ikke, den må være fysisk borte.» (gutt, vg2)
+
+\[Boks slutt\]
+
+## Egenskaper ved sosiale medier og dataspill som kan påvirke ungdommers sosiale liv
+
+Sosiale medier er mer enn en forlengelse av ungdoms sosiale liv offline, og egenskaper ved sosiale medier kan påvirke ungdommenes relasjoner.[^434] Det finnes en del forskjeller mellom kommunikasjon og relasjoner i det fysiske livet og på nett. For eksempel vil mye av kommunikasjonsinnholdet på sosiale medier bli værende tilgjengelig. Innhold er ofte synlig for et større publikum, og innhold er lett tilgjengelig og lett å dele, uavhengig av hvor man er. Sosiale medier legger også ofte til rette for at interaksjoner kan måles, som for eksempel antallet likerklikk eller rangering av vennskap basert på frekvens og varighet av kommunikasjon, for eksempel «snapstreak». Bilder og videoer er ofte en sentral del av kommunikasjonen. Vi vil i det følgende beskrive hvordan egenskaper ved sosiale medier kan bidra til negative interaksjoner på nett, som utestenging og mobbing, samt hvor utbredt slike opplevelser er blant norske ungdommer. Videre vil vi se på hvordan sosiale medier kan påvirke hvordan ungdommene posisjonerer seg sosialt, presenterer seg selv og sammenligner seg med andre.
+
+### Digital mobbing
+
+Dårlig oppførsel i det virkelige liv finner vi også igjen på nett, inklusiv mobbing. Mobbing er definert som «gjentatt negativ atferd fra ett eller flere individ rettet mot et individ som har vanskelig for å forsvare seg.»[^435] Mobbing kjennetegnes altså av at den negative oppførselen er bevisst, gjentagende og at det er en ubalanse i styrkeforholdet mellom utøver(e) og den som er utsatt. Forskningslitteraturen skiller ofte mellom tradisjonell og digital mobbing.[^436] Dette omtales også som mobbing offline og online. I likhet med tradisjonell mobbing kan digital mobbing være enten direkte, med åpne angrep på den som blir utsatt, eller indirekte og relasjonell, sånn som baksnakking og utestenging. Men digital mobbing har i tillegg noen særlige kjennetegn som skiller den fra tradisjonell mobbing.
+
+Det at man ikke kan se den personen man utsetter for negative handlinger, kan føre til mer problematisk atferd på nett enn ansikt til ansikt.[^437] Utøveren får ingen umiddelbare tilbakemeldinger fra andre og kan ikke se den emosjonelle reaksjonen til offeret. Om man blir mobbet anonymt på nett, kan mobberen være alt fra en fremmed til ens beste venn, og det kan forverre offerets følelse av frykt og håpløshet. På sosiale medier kan mobbingen også ha et stort publikum, som kan bli aktivt delaktig i mobbingen eller være passive tilskuere som ikke bryter inn. Noen tidlige studier har også vist at ungdommer sjeldnere sier ifra til voksne om mobbing på nett enn om tradisjonell mobbing.[^438] En enkelthendelse kan også bli gjentakende, for eksempel ved at et bilde spres mange ganger.[^439] Fordi det kan ta lang tid fra en melding sendes til den andre svarer, kan de som utsettes for plaging eller mobbing på nett ha bedre muligheter til å tenke gjennom hvordan de skal svare, noe som kan endre på ubalansen i makt som er et kjennetegn ved tradisjonell mobbing.
+
+Selv om mange opplever mobbing på nett, er det også sånn at de aller fleste barn og unge *ikke* mobber hverandre digitalt. Barn og unge bruker betraktelig mer tid foran skjermen, og skjermaktiviteten har gradvis endret seg fra TV-titting til mobilbruk, nettbrett, nettspill og sosiale medier.[^440] I samme periode har andelen unge som opplever digital mobbing, vært relativt konstant. Men som vi så i kapittel 3 har utviklingen vært negativ de siste årene, der tall fra Elevundersøkelsen 2023 viser at både tradisjonell og digital mobbing har økt.[^441] Andelen elever som opplever å bli mobbet digitalt, har gått opp hvert år fra 2020 på alle klassetrinn.[^442] I Elevundersøkelsen 2023 rapporterer 3,8 prosent at de mobbes digitalt.[^443] Det utgjør over 17 000 elever. Andelen på 7. til 9. trinn som oppgir at de har opplevd digital mobbing, er større blant jenter enn blant gutter. For de øvrige trinnene er det små kjønnsforskjeller, med unntak av 5. trinn hvor en større andel gutter rapporterer at de blir digitalt mobbet. Som med den tradisjonelle mobbingen reduseres andelen elever som blir mobbet digitalt, med alder, fra 5,8 prosent på 5. trinn til 1,3 prosent på vg3.[^444] Ungdata- og Barn og medier-undersøkelsen finner samme trend.[^445]
+
+Analyser av datamaterialet i Elevundersøkelsen 2023 viser at 55 prosent av de som mobbes digitalt også er utsatt for tradisjonell mobbing.[^446] En oversiktsartikkel som har sett på internasjonal forskning konkluderer med at digital mobbing og tradisjonell mobbing ofte synes å opptre samtidig, der de samme personene opplever både tradisjonell og digital mobbing.[^447] I motsetning til dette fant en studie av over 32 000 nordiske ungdommer lite overlapp mellom digital og tradisjonell mobbing, og forfatterne pekte på at det ser ut til å være to separate fenomen blant nordiske ungdommer.[^448]
+
+Mobbing kan ha store negative konsekvenser, både for den som blir mobbet og for den som mobber.[^449] Det å bli utsatt for mobbing henger sammen med både helseplager og sosiale vansker, og kan gi seg utslag i skolen gjennom mer fravær og dårligere skoleprestasjoner.[^450] Skadene av mobbingen varer også lenger enn selve mobbingen. Funn fra flere studier har vist at det å bli utsatt for både digital og tradisjonell mobbing er betydelig mer skadelig enn å bare bli utsatt for én av mobbeformene.[^451]
+
+Norske data fra EU Kids Online-undersøkelsen fra 2018, som inkluderte omtrent 1000 barn og unge mellom 9 og 17 år, viser at 25 prosent av unge har opplevd å bli utsatt for sårende og ekkel oppførsel fra andre på nett.[^452] I tillegg oppga 12 prosent at de hadde oppført seg på denne måten overfor andre barn. I aldersgruppen 15 til 17 år var det flere jenter enn gutter som oppgav å ha vært utsatt for sårende og ekkel oppførsel på nett, mens det var flere gutter enn jenter som oppgav å ha oppført seg slik mot andre. Yngre gutter var oftere vitne til aggresjon, mens jentene i større grad enn guttene oppga at de forsøkte å hjelpe andre. Av dem som ble utsatt for aggressiv oppførsel, var det også flere som hadde sett innhold som kan være skadelig, for eksempel innhold om selvmord og selvskading. Barna som var ofre, utøvere og tilskuere opplevde også i høyere grad emosjonelle utfordringer enn barna som ikke hadde samme erfaring med aggressiv oppførsel. Det er overlapp mellom de som oppga å være offer, og de som sa at de selv utøvde aggresjon. Det betyr at det ofte kan være den samme personen som er aggressiv, og som selv opplever aggresjon fra andre på nett.
+
+### Bildedeling
+
+Utover det som går under definisjonen av mobbing, kan ungdom ha ulike negative interaksjoner på nett som henger sammen med hvordan sosiale medier er utformet. Sosiale medier kan føre til oppførsel som er usannsynlig eller umulig offline.[^453] Et eksempel er at private bilder raskt kan spres til et stort nettverk. I en studie blant norske elever i videregående skole svarte 40 prosent at andre deler bilder eller videoer av dem mot deres vilje.[^454] Innholdet i det delte materialet ble ikke spesifisert. I Barn og medier 2024 svarte 19 prosent at noen hadde lagt ut bilder eller videoer av dem mot deres vilje i løpet av det siste året, og 16 prosent svarte at noe de selv hadde delt, ble delt videre mot deres vilje.[^455] Barn og unge selv er bekymret for såkalte «exposed-kontoer».[^456] Det er kontoer i sosiale medier der rykter, hets, sladder, bilder og videoer om enkeltpersoner deles av andre, ofte uten at den det gjelder, er klar over det.
+
+### Inkludering og ekskludering
+
+I en kvalitativ studie blant norske ungdommer beskrev deltagerne hvordan sosiale medier tydeliggjør sosiale relasjoner.[^457] De forklarte at man kan se hvem som er venner med hvem, hvem som er inkludert i noens private «story» og andre indikatorer på hvor gode venner man er. Dette er ikke nødvendigvis synlig på sosiale medier, men kommer frem i samvær med venner. På denne måten blir inkludering og ekskludering mer eksplisitt og tydelig på sosiale medier enn offline, der de sosiale forholdene og grupperingene ofte er mer uklare. Informasjon på sosiale medier kan også avsløre at venner har møtt hverandre uten at man selv har blitt invitert, noe som styrker opplevelsen av å bli sosialt utestengt.[^458] Data fra en rapport tilknyttet Elevundersøkelsen viser at 9 prosent ofte har opplevd at andre har planlagt ting på sosiale medier der de var en av få som ikke fikk vite noe, mens 42 prosent har opplevd det noen ganger.[^459] Videre har 9 prosent ofte blitt lei seg fordi de har sett via Snapmap at mange de kjenner, er samlet et sted uten at de selv har blitt invitert, mens 37 prosent har opplevd det noen ganger. Medietilsynets rapport om barn og unges mediebruk fra 2024 viser at 21 prosent har opplevd at noen stengte dem ute fra en gruppe på sosiale medier i løpet av det siste året.[^460] I Medietilsynets rapport fra 2022, *Barn og medier 2022*, kom det frem at 14 prosent av jentene og 11 prosent av guttene i alderen 9–10 år ofte opplever at vennene deres utestenger dem fra dataspilling. Andelen som opplever dette, blir mindre med alderen.
+
+### Hatefulle ytringer
+
+I en norsk undersøkelse fra 2022 gjennomført på oppdrag av Medietilsynet blir opplevelsene til unge i alderen 16 til 20 år med hatefulle ytringer på nett sammenlignet med opplevelsene til en gruppe på mellom 16 og 90 år som representerte den øvrige befolkningen.[^461] Av de unge oppgir 25 prosent at de selv har fått hatefulle kommentarer på nett det siste året. Det er seks ganger flere enn i den øvrige befolkningen. Videre har 12 prosent av de unge mottatt ytringer som omfattes av straffeloven, som vil si hatefulle ytringer rettet mot en persons etnisitet, religion, hudfarge, seksuelle legning eller nedsatte funksjonsevne. Det er i de sosiale mediene Snapchat og TikTok at de fleste får slike kommentarer, og kommentarene stammer ofte fra ukjente. Rundt hver tredje person som fikk hatefulle kommentarer, oppga også at kommentaren påvirker egen selvtillit negativt. Dobbelt så mange jenter som gutter oppgir at de blir påvirket på en negativ måte.
+
+Den vanligste metoden å håndtere hatkommentarer på, er å blokkere personen. Nesten tre av ti av de unge som har opplevd å få hatkommentarer, oppgir at de har gjort dette ifølge en spørreundersøkelse fra Medietilsynet.[^462] Noen oppgir at de har blitt mer forsiktige med å diskutere og dele meninger på nett, at de melder seg ut av grupper, eller at de sletter kontoen. En undersøkelse blant 11- til 17-åringer fra ti europeiske land viser at mellom 3 og 13 prosent har følt seg truffet av hatefulle ytringer. Sett opp mot tallene fra Medietilsynet kan det indikere at det er mer vanlig å oppleve hatefulle ytringer for eldre ungdommer og unge voksne, enn blant yngre tenåringer.[^463] Men tallene som er gjengitt her, kommer fra to ulike undersøkelser og kan ikke sammenlignes direkte. Ifølge en studie som kun så på de norske tallene fra den europeiske undersøkelsen, hadde 34 prosent sett hatefulle ytringer i løpet av det siste året, og eksponeringen for hatytringer økte med alderen, fra 7 prosent av 9- til 10-åringene til 55 prosent av 15- til 17-åringene.[^464]
+
+Nasjonale minoritetsgrupper kan være særlig utsatt for hets og aggressiv oppførsel på nett.[^465] En undersøkelse fra 2021 viser at mange unge samer opplever krenkelser på nett på bakgrunn av sin samiske identitet.[^466] Etniske og religiøse minoriteter kan være særlig utsatt, og Ytringsfrihetskommisjonen konkluderte med at det er et tydelig og bekymringsfullt trekk at sårbare minoriteter i samfunnet utsettes for betydelige mengder sjikane når de ytrer seg i offentligheten.[^467] For eksempel viste en analyse av innhold på sosiale medier i Norge at det var en økning i hatefulle og diskriminerende ytringer om muslimer fra perioden 2010–2015 til perioden 2016–2021.[^468] Men det meste av forskningen på rasisme på nett er gjennomført i USA,[^469] og det er lite kunnskap om opplevd rasisme og eksponering for hatefulle ytringer som retter seg mot etnisiteter og kulturer hos norske ungdommer. Forskning viser også at ungdom som bryter med normer for kjønn og identitet, har spesielt forhøyet risiko for å bli utsatt for mobbing på nett.[^470] I Medieskadelighetsutvalgets utredning fra 2021 ble det etterlyst mer forskning som undersøker barns erfaringer med hatefulle ytringer på nett.[^471]
+
+### Hets og trakassering i dataspill
+
+Samtidig som mange finner et fellesskap i dataspill og er sosiale sammen, utsettes og eksponeres flere for hets og trakassering. Negativ atferd i spill betegnes gjerne «toxicity». Begrepet omfatter ikke bare verbal hets, trakassering og hatefulle ytringer, men også ødeleggende atferd i spillet. Toxicity har i stor utstrekning blitt en del av kulturen i online dataspill.[^472] I regjeringens dataspillstrategi *Tid for spill* trekkes hets, sjikane og trakassering frem som en utfordring som kan påvirke dem som spiller, både mentalt og fysisk.[^473] En konsekvens kan være at unge slutter å spille, og dermed uteblir fra en viktig sosial arena. Hets og trakassering i spill har blitt sett i lys av en såkalt «online disinhibition effect». Effekten gjør at spillere blir mindre tilbakeholdne på nett, for eksempel fordi de er anonyme og ikke ser reaksjonen til den som utsettes for negativ atferd.[^474] En norsk studie har undersøkt erfaringer med seksuell trakassering i spill blant over 900 voksne spillere. Forskerne finner at skjellsord som retter seg mot kjønn, funksjonsnedsettelse og seksuell identitet, er utbredt.[^475] Seksuell trakassering og hets er særlig utbredt i skytespill. Spillere er delt i synet på om seksuell trakassering i dataspill er problematisk. Halvparten av de spurte i studien har reagert på ulike former for seksualisert språk, mens den andre halvparten ikke har reagert på slik språkbruk. Studien inneholdt også en kvalitativ del, der trakassering i spill forklares av enkelte spillere, som at spillverdenen er konstruert og atskilt fra den virkelige verden. Dermed er det egne normer, verdier og måter å være sammen på i spill som er annerledes enn i samfunnet ellers. Disse opplever at hvordan man oppfører seg i spillet, ikke får konsekvenser i livet utenom. Andre opplever at trakassering i spill får konsekvenser i livet ellers.
+
+Seksuell trakassering i spill kan bidra til at dataspilling forblir en aktivitet for guttene, fordi jenter frykter sanksjoner ved å delta.[^476] Kvinner forskjellsbehandles i spill. På den ene siden kan de få fordeler og ekstra oppmerksomhet, ofte omtalt som «white knighting». På den andre siden opplever mange kvinner også at ferdighetene deres stadig undervurderes.
+
+E-sport i valgfaget fysisk aktivitet og helse
+
+Skolen kan også være en arena for å påvirke spillkulturen blant ungdom. På Kleppestø ungdomsskole i Askøy kommune har ungdomsskoleelever fått arbeide med e-sport i valgfaget fysisk aktivitet og helse. Skolen har et dataspillrom med 15 kraftige datamaskiner som kan brukes i undervisningen. Valgfaget er en mulighet for elevene å fordype seg i e-sport, både som hobby og mulig karrierevei. I tillegg gir valgfaget muligheter til å jobbe for mindre hets, trakassering, stygg ordbruk og andre potensielle negative sider ved dataspill. Skoleåret 2023/2024 var første gang skolen brukte e-sport som utgangspunkt for valgfaget, og de har fokusert på tre hovedområder:
+
+Holdninger til jenter i dataspill
+
+Elevene har fått jenter på skolen til å svare på spørsmål om hvordan de opplever å være jenter som spiller dataspill, hvilke holdninger de møter, språkbruk og lignende. Ut fra dette har elevene laget holdningskampanjer for sosiale medier som skulle gi kunnskap om dette temaet, slik at elevene kan gå foran som gode rollemodeller.
+
+Kosthold og treningslære
+
+Elevene har jobbet med hva et godt kosthold er, og hvorfor det er viktig med et godt kosthold, laget kostholdsplaner og laget middag for familien med gode og sunne råvarer. Elevene har også jobbet med å lage et treningsopplegg tilpasset e-sportutøvere og sett på hvordan de beste trener.
+
+Gründer og jobbmuligheter innen e-sport
+
+Elevene har sett på hvordan det er mulig å leve av e-sport, ikke bare som utøver, men også i støtteapparatet rundt. Elevene har hatt et gründerprosjekt hvor de skulle videreutvikle et produkt til e-sport og lage en tominutters salgspitch til produktet.
+
+Kilde: Lærer Terje Pedersen ved Kleppestø ungdomsskole
+
+\[Boks slutt\]
+
+Mye hets i spill rettes mot skeive, og skjellsord som «homo» er utbredt.[^477] I et norsk forskningsprosjekt intervjuet forskerne skeive spillutviklere og spillere om deres opplevelser i spillverdenen.[^478] Informantene mener at skeiv representasjon i dataspill er viktig både for at skeive selv skal få uttrykke hvem de er, og for at samfunnet rundt skal bli mer tolerant og for å motvirke fordommer. Mange opplever at særlig spilling på nett er en fiendtlig arena som kan bidra til at flere lar være å spille. Selv om flere oppfatter at spillindustrien utvikler seg i en positiv retning der skeive i større grad kan føle seg inkluderte, mener informantene at spillindustrien kan bli enda bedre på skeiv representasjon, og mer nyansert representasjon av kjønn og seksualitet.
+
+Spillere med minoritetsbakgrunn kan også utsettes for negativ atferd i spill, og rasisme er utbredt. En studie av unge amerikanere med minoritetsbakgrunn viste for eksempel at de som brukte mer tid på online dataspill, ble mer eksponert for rasisme.[^479]
+
+### Selvpresentasjon og sosial posisjonering
+
+I en dansk kunnskapsgjennomgang viser både kvalitative og kvantitative studier at popularitet og sosial posisjonering er viktig for hvordan ungdom bruker sosiale medier.[^480] I ungdomstiden er mange særlig opptatt av sosial status og popularitet, og hvordan man blir oppfattet av sine jevnaldrende, blir ekstra viktig.[^481] Sosiale medier synliggjør sosial posisjon og sosiale relasjoner på en måte som ikke er mulig offline. Det kan gjøre brukerne mer opptatt av egen og andres popularitet.[^482] I en kvalitativ studie av norske ungdommer i videregående skole pekte ungdommene på at å presentere seg selv er en viktig motivasjon for å bruke sosiale medier.[^483] På den ene siden ga sosiale medier dem en mulighet til å fremstille seg selv på den måten man ønsker at andre skal se dem. På den andre siden syntes de det var vanskelig å ikke bry seg om likerklikk og kommentarer på sin egen selvpresentasjon, og de beskrev det som slitsomt å forholde seg til at antallet likerklikk, følgere, kommentarer og lignende sier noe om deres sosiale status. Bekymringer for hvordan man fremstår på nett, er en av flere komponenter av digitalt stress, altså stress som følge av å bruke sosiale medier.
+
+Tradisjonelt har kvinners utseende vært et viktigere signal om sosial status enn menns utseende.[^484] Bildedeling er en sentral del av de mest populære plattformene, der attraktive bilder og videoer genererer flere likerklikk, noe som gjør visuelle fremstillinger enda viktigere.[^485] Mange plattformer inneholder også verktøy for bilderedigering og tilrettelegger for eksempel for at brukerne kan forbedre eget utseende. Plattformer som i stor grad baserer seg på visuelt innhold, som Instagram, TikTok og Snapchat, er mest brukt av jenter.[^486] En dansk rapport viser at særlig jenter opplever press om å fremstå som perfekte på sosiale medier,[^487] og en norsk rapport viser at jenter har en sterkere tendens enn gutter til å redigere bilder eller fjerne bilder som ikke får nok likerklikk.[^488]
+
+Bruken av sosiale medier gjør også at de unge posisjonerer seg selv sosialt til flere og med større geografisk rekkevidde. Blant annet bruker unge digitale plattformer for å styrke sin sosiale posisjon ved å «gjøre seg kjent» for unge som går på andre skoler.[^489] Åpne profiler og tilgang på et ubegrenset antall potensielle «venner» gjør også at de unge brukerne kan forsterke sin popularitet gjennom å få tusenvis av følgere, og vanlige ungdommer kan på denne måten oppnå en slags kjendisstatus på sosiale medier.[^490] Samlet sett kan sosiale medier være en arena der selvpresentasjon og sosial posisjonering har andre vilkår enn offline, noe som kan understreke viktigheten av hvordan man fremstår i relasjon til andre.
+
+Selvpresentasjon og posisjonering har også betydning i dataspill. I noen dataspill kan spillere for eksempel tjene eller kjøpe såkalte skins, som forandrer på utseendet til spillfiguren eller gir fordeler i spillet.[^491] Prisen på skins og hvor tilgjengelige de er, varierer, og enkelte skins er derfor ansett som «bedre» enn andre. Spillfiguren og skins er viktige for spillernes digitale identitet, og de bruker skins som symboler på sosial status og økonomisk kapital. Spillere som har sjeldne eller dyre skins, får ekstra oppmerksomhet, mer respekt og flere venneforespørsler. Barn forteller at de ikke ønsker å bruke gratis skins, og at de kan få kommentarer om at de har dårlig råd dersom de bruker slike skins.
+
+Å sammenligne seg med andre
+
+Sosial sammenligning er menneskers tendens til å vurdere sine egne ferdigheter og egenskaper opp mot andres.[^492] For barn og unge kan det å sammenligne seg med andre være en motivasjonsfaktor for å bruke sosiale medier.[^493] Å sammenligne seg nedover betyr å sammenligne seg med noen som på en eller annen måte er dårligere enn en selv, mens å sammenligne seg oppover handler om å sammenligne seg med noen som anses å være bedre. Sammenligning oppover kan ha en inspirerende effekt, men hvis man stadig kommer dårlig ut av slike sammenligninger, kan det skape en feilaktig oppfatning av at man er dårligere enn andre. Sosial sammenligning blir vanligere i ungdomsårene,[^494] og bruk av sosiale medier er forbundet med mer sammenligning oppover, som igjen er knyttet til lavere livskvalitet og høyere nivå av depressive symptomer.[^495] (Se mer om sosiale medier og psykisk helse i kapittel 8).
+
+Flere egenskaper ved sosiale medier kan forsterke sosial sammenligning.[^496] På sosiale medier er det lett å få informasjon om sosial status ved å se på antall likerklikk, venner, kommentarer og lignende, og disse kan lett telles opp og sammenlignes. Sosiale medier gir også muligheten til å følge med på andres aktiviteter og popularitet uten at de får vite om det. Anbefalingsalgoritmene kan også forsterke sammenligning. Er man for eksempel interessert i treningsinnhold vil man få opp mye innhold fra treningsprofiler, som det er sannsynlig at man sammenligner seg med.[^497] Sosiale medier muliggjør også strategisk selvpresentasjon. Det betyr at man i stor grad kan vise frem sine beste sider og skjule sine mindre gode sider. Det fører til at det som legges ut på sosiale medier, og det man i neste omgang eksponeres for, i stor grad er idealiserte og ensidige fremstillinger av folks liv. Dermed er sosial sammenligning oppover trolig mer sannsynlig på sosiale medier enn ved møter ansikt til ansikt. I en undersøkelse blant norske elever i videregående skole svarte totalt 18 prosent at det andre legger ut på sosiale medier, gjør at de føler seg mindre fornøyd med seg selv og sitt eget liv.[^498] Det er store kjønnsforskjeller: Det gjelder for 27 prosent av jentene, men bare 6 prosent av guttene. Hvordan sosial sammenligning på sosiale medier er forbundet med dårligere psykisk helse beskrives nærmere i kapittel 8.
+
+Influensere: Kompis og kommersiell kanal
+
+*Influensere* har egne kanaler i sosiale medier, der de ofte blander personlige innlegg med kommersielle innlegg. Mange barn og unge følger influensere som promoterer produkter og tjenester rettet mot kropp og utseende. Selv om reklameinnhold skal merkes etter markedsføringsloven, kan det være krevende å forstå hva som er hva, særlig for barn og unge. Av barn og unge i alderen 9 til 18 år som følger youtubere, influensere eller tiktokere, oppgir 7 prosent at de har sendt penger til disse.<sup>1</sup> Den vanligste grunnen er at de liker personen eller innholdet personen lager. Det er langt vanligere for gutter å sende penger. Andelen som sender penger, blir også høyere med alderen.
+
+Noen kan danne såkalte parasosiale relasjoner til influensere eller andre kjendiser de følger tett. Parasosiale relasjoner er ikke gjensidige, men kan likevel gi en følelse av nærhet til andre. Relasjonen kan være en kilde til sosial tilknytning når man er isolert eller utestengt, og kan bidra til at man føler seg hørt og støttet i en vanskelig situasjon.<sup>2</sup> I en studie ble unge voksne bedt om å rangere parasosiale relasjoner og toveisrelasjoner etter nærhet, hvor responsive de var, og hvor effektivt de oppfylte emosjonelle behov. Deltagerne rangerte sterke toveisrelasjoner som best (nære venner), mens svake toveisrelasjoner (bekjentskaper) ble rangert som dårligere enn parasosiale relasjoner.<sup>3</sup>
+
+Det å følge influensere og ha parasosiale relasjoner kan også ha noen negative sider. En oversiktsartikkel viser at man blir påvirket til å etterligne influenseres risikoatferd (for eksempel alkoholbruk), at man tar til seg negative holdninger, eller at parasosiale forhold kan føre til misnøye med egen kropp som følge av sosial sammenligning.<sup>4</sup> Mange influensere som følges av norske ungdommer, lager mye innhold om utseende og kropp, og de er kommersielle aktører som promoterer produkter og reklamerer til følgerne sine.
+
+<sup>1</sup> Medietilsynet (2022a, 2024c)
+
+<sup>2</sup> Hoffner & Bond (2022)
+
+<sup>3</sup> Lotun mfl. (2024)
+
+<sup>4</sup> Hoffner & Bond (2022)
+
+\[Boks slutt\]
+
+## Innspill til utvalget
+
+Utover innspill fra referansegruppen, og innspill fra barn og unge (se egne bokser), har utvalget mottatt en rekke innspill fra enkeltpersoner og organisasjoner gjennom utvalgets nettside og i utvalgsmøter. I et av utvalgets møter ble representanter fra organisasjonene Hyperion og Ungdom og Fritid invitert for å holde innlegg om dataspill og datakultur.
+
+*Hyperion* er norsk forbund for fantastiske fritidsinteresser. De formidlet i utvalgsmøtet at dataspill og datakultur er viktig å snakke om ettersom dataspill er en av de største fritidsinteressene til barn og unge, og spesielt gutter. Hyperion ønsker en tilgjengelig, inkluderende og trygg dataspillkultur. Hovedutfordringene de ser er høye utstyrskostnader, utestengelse, kjønnsforskjeller, trakassering spesielt overfor jenter, overdreven bruk og overdreven negativ oppmerksomhet i samfunnet. Hyperion ønsker at foreldre skal være mer nysgjerrige og mindre dømmende, men påpeker at det samtidig er naturlig å sette grenser. De håper foreldre ser på dataspill og datakultur på lik linje med andre fritidsinteresser og viser tilsvarende engasjement.
+
+*Ungdom og Fritid* har satset stort på dataspill og datakultur de siste årene i sine fritidsklubber og ungdomshus. Formålet er både å utjevne økonomiske forskjeller fordi datautstyr er dyrt, og å lage møteplasser hvor ungdom kan drive med disse aktivitetene i trygge og sosiale rammer med engasjerte og trygge voksne. Barn og unge sier selv til Ungdom og Fritid at de ønsker seg møteplasser i nærmiljøet hvor de kan være sammen med venner, samtidig som trygge og forståelsesfulle voksne er til stede. Ungdom og Fritid håper at beslutningstakere fortsetter å støtte fritidsklubbene når det gjelder å tilrettelegge for at de kan være møteplasser for datakultur. Det ser de har stor betydning for mange unge.
+
+*Forbrukerrådet* har i sitt innspill på utvalgets nettside påpekt at unges skjermbruk ikke bør sees i et vakuum.[^499] Når det sosiale skjer på digitale flater, betyr det at barn og unge må være «til stede» digitalt for å ikke havne utenfor sosialt. Når stadig flere aktiviteter både på skolen og i fritiden flyttes over til digitale flater, blir den sosiale kostnaden ved å logge av høyere.
+
+Utvalget har hatt møte med *Sametinget*, som fremhever at samiske barn og unge kan være særlig utsatt for hets, diskriminering og ekskludering på nett. Samtidig påpeker de at digitaliseringen har store fordeler for kommunikasjonen mellom en samisk befolkning som er bosatt over hele landet og bor spredt.
+
+## Kunnskapshull
+
+Sosiale medier har noen egenskaper som muliggjør andre typer atferd enn det som er mulig offline, og det kan bidra til å endre den sosiale dynamikken. Forskningsartikler og rapporter har kartlagt en rekke positive og negative erfaringer med skjermen som sosial arena, men så langt er det lite etablert kunnskap om i hvilken grad og hvordan digital kommunikasjon eventuelt påvirker vennskap og sosiale nettverk. Hva som er «skjermer», «sosiale medier», og «dataspill», endrer seg raskt, og forskningen henger etter. Skjermen brukes også på ulike måter, av ulike ungdommer som er i ulike livsfaser og har ulike personlige egenskaper, styrker og sårbarheter. Ungdommene har ulike erfaringer med sosiale medier og dataspill, og de påvirkes forskjellig. Vi trenger en bedre forståelse av hvordan skjermer fungerer som en sosial arena for unge, og hvilke eventuelle konsekvenser det har for ungdommers liv. Der kan både kvantitativ og kvalitativ forskning bidra.
+
+Studiene vi har omtalt i dette kapittelet, er en blanding av studier som undersøker flere typer skjermbruk og ulike variabler på samme tid, og enkelte kvalitative studier, eksperimenter og oppfølgingsstudier. Det betyr at de fleste studiene ikke måler hva digital mediebruk fører til, men hva digital mediebruk kan henge sammen med. Altså stadfester ikke hoveddelen av studiene årsaksforhold, og det er behov for mer forskning på hvordan digital mediebruk påvirker barn og unges sosiale ferdigheter, sosiale relasjoner og stressnivå.
+
+## Oppsummering
+
+Gjennomgangen i dette kapittelet viser at sosiale medier og dataspill kan være en viktig kanal for å knytte og vedlikeholde sosiale relasjoner og motta sosial støtte. Gjennom sosiale medier og dataspill kan barn og unge ha kontakt med venner og familie og møte andre med samme interesser. Ungdom bruker også sosiale medier til å utveksle bilder, videoer og musikk, og for mange er sosiale medier en kilde til positiv oppmerksomhet. Jenter bruker sosiale medier mer enn guttene og ser ut til å ha flere både positive og negative erfaringer med sosiale medier enn gutter. Jentene tillegger også det som skjer der, mer vekt enn guttene.
+
+Det er lite som tyder på at barn og unge er mindre sosiale eller får dårligere sosiale evner selv om en del av det sosiale livet flyttes til en skjerm. De som allerede er sosiale ungdommer, er det både på nett og ellers i livet. For barn og unge med helseutfordringer eller funksjonsnedsettelser kan det sosiale digitale livet være en nødvendighet.
+
+Det finnes noen områder der skjermen som sosial arena har noen problematiske sider. Å bli ekskludert fra det digitale sosiale livet kan ha en reell sosial kostnad. Dataspill og sosiale medier har potensial til å være en positiv sosial og inkluderende arena, men det fungerer bare hvis alle har like muligheter til å delta. Noen barn og unge kan bli ekskludert på grunn av økonomiske barrierer. Andre, som skeive eller jenter i dataspill, opplever barrierer for deltagelse i form av hets og trakassering. Noen opplever også mobbing på de sosiale plattformene. Kombinasjonen av digital og tradisjonell mobbing kan være særlig skadelig.
+
+Mange ungdommer føler at de bruker for mye tid på sosiale medier. Det kan henge sammen med at sosiale medier har blitt en så viktig sosial arena. For eksempel ville mange følt seg utenfor dersom de ikke var på de samme plattformene som vennene sine. På denne måten kan sosiale medier for noen oppleves som en «felle», der man må være med for å ikke falle utenfor sosialt. Undersøkelser har imidlertid vist at de fleste ungdommer opplever bruken av sosiale medier som positiv eller nøytral.
+
+Sosiale medier har egenskaper som kan forsterke sosial sammenligning. Sosial sammenligning blir vanligere i ungdomsårene, og å bruke sosiale medier er forbundet med mer sammenligning oppover, som igjen er forbundet med lavere livskvalitet og høyere nivå av depressive symptomer (se mer i kapittel 8). Sosiale medier kan også bidra til å gjøre barn og unge mer bevisste på egen og andres popularitet, og for noen ungdommer oppleves dette som slitsomt å forholde seg til.
+
+## Utvalgets vurderinger
+
+Sosiale medier og dataspill er en naturlig del av mange barn og unges liv og en viktig sosial arena. I debatten om bruk av digitale sosiale plattformer snakkes det ofte om de negative sidene. Dette tas også opp av skjermbrukutvalgets ekspertgruppe av ungdom. De opplever at voksne ofte uttrykker stereotypier og har et negativt blikk på skjermen, noe som gjør det vanskelig å ha reflekterte og nyanserte samtaler med foreldrene om skjermbruk.
+
+Skal vi få et fullstendig bilde av hvordan skjermen fungerer som sosial arena i barn og unges liv, må vi ta på alvor de mange positive sidene som sosiale medier og dataspill kan ha. Ungdom bruker ikke tid på disse plattformene bare fordi de manipuleres av teknologiselskaper eller føler sosialt press. De finner også inspirasjon, opplever tilhørighet, dyrker vennskap og tilegner seg informasjon gjennom sosiale medier. For mange, særlig gutter, er de sosiale dataspillene en arena der de opprettholder vennskap og snakker om ting de er interessert i. Dette kan vi også kjenne igjen fra det fysiske livet: Gutter møtes for å spille brettspill eller fotball, og der får de også en arena til å åpne seg om andre ting. Jenter vektlegger oftere relasjonelle og sosiale aspekt og møtes bare for å prate. For noen sårbare grupper, slik som skeive og de med funksjonsnedsettelser, vil sosiale møteplasser på nett ha ekstra stor betydning. Dette er viktig å ha med når man vurderer å regulere digitale sosiale arenaer strengere.
+
+Fordi sosiale medier er en så viktig sosial arena og er tilgjengelig hele døgnet, kan det også virke stressende og gå ut over andre viktige ting i barn og unges liv. Avhengighetsskapende mekanismer i plattformene, kombinert med at det er en sosial forventning om å følge med og delta, fører til at mange strever med å regulere sin egen tidsbruk på sosiale medier. Dette har utvalget fått tydelige tilbakemeldinger om gjennom skjermbrukutvalgets ekspertgruppe av ungdom og fra klasseromsbesøk. Barn og unge som utvalget har snakket med, forteller at de ønsker seg mer kunnskap om fordeler og ulemper ved skjermbruk og bruk av sosiale medier. De ønsker å forstå bedre hvorfor skjermregler, råd og reguleringer er som de er, for dermed å kunne etterleve dem bedre. Utvalget støtter ekspertgruppen i dette. I tillegg til strengere regulering av plattformene som legger til rette for mer balansert, trygg og sunn skjermbruk, er det behov for tilgjengelig og oppdatert informasjon til barn og unge selv, til familiene og til laget rundt. Det er også behov for at ungdom sammen får diskutere og reflektere kritisk rundt de forventningene de har til seg selv og andre om deltagelse på sosiale medier. Se kapittel 18 og 19 for utvalgets råd om skjermbruk til ulike aldersgrupper.

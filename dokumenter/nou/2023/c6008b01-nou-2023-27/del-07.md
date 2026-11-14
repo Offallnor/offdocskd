@@ -1,836 +1,274 @@
-# NOU 2023: 27, del 7 av 13 (side 72–81)
+# NOU 2023: 27, del 7 av 13
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/c6008b01-nou-2023-27.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-27/id3013760/
 - Original-PDF: https://www.regjeringen.no/contentassets/85cc09d37f604868b31cd0da68aaa200/no/pdfs/nou202320230027000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 72]
+# Systematisk kvalitetsutvikling forutsetter relevant kompetanse på alle nivåer
 
-70
+Relevant kompetanse på alle nivåer er en nødvendig forutsetning for å få til et systematisk kvalitetsarbeid. I dette kapittelet redegjør utvalget først for hvordan kompetanse er viktig i kvalitetsutviklingsarbeidet. Deretter diskuterer utvalget hvilke kompetanser som er sentrale for aktørene i arbeidet med kvalitetsutvikling. Avslutningsvis redegjør utvalget for sine vurderinger og forslag når det gjelder kompetanse for kvalitetsutvikling.
 
-Kapittel 7
+## Relevant kompetanse på alle nivåer i et kvalitetsutviklings- system
 
-NOU 2023: 27
+Alle aktørene i utdanningssystemet har ulike roller og ansvar i kvalitetsutviklingsarbeidet, og kompetanse er viktig for at aktørene skal kunne oppfylle sine roller og ansvar og drive et godt kvalitetsutviklingsarbeid. Det er behov for kompetanse for å utvikle og etablere hensiktsmessige strukturer og prosesser for samarbeid og dialog, for å lede kvalitetsutviklingsarbeidet på alle nivåer, og for at aktørene alene eller sammen med andre ta i bruk kunnskapsgrunnlag på en relevant måte. I beskrivelsen av kvalitetsdialogene i kapittel 5 framgår det at det er viktig at de ulike aktørene kan møtes i dialoger hvor aktørene anerkjenner hverandres kompetanse og kan utvikle egen kompetanse.
 
-Et nytt system for kvalitetsutvikling
+Kompetansebegrepet blir på lik linje med kvalitet definert på ulike måter i styringsdokumenter, rammeverk og forskning. Kompetansebehovsutvalget understreker for eksempel at kompetanse kan være uformell, formell, individuell og kollektiv (NOU 2018: 2).
 
-ringsbasert kunnskap. Utdanningene skal også
-forberede studentene for kontinuerlig profesjonell
-utvikling, og å kvalifisere dem til å videreutvikle
-skolene som institusjoner for danning og læring i
-et demokratisk og et mangfoldig og flerkulturelt
-samfunn (Kunnskapsdepartementet, 2020).
-En viktig del av lærerutdanningene er å
-utvikle framtidige læreres kompetanse til å fortolke og vurdere kunnskap og informasjon om
-den faglig-pedagogiske praksisen og ta profesjonelle beslutninger. Denne kompetansen handler
-blant annet om å forstå sammenhengen mellom
-læreplanene og vurdering (Xu og Brown, 2016),
-og fortolke og ta i bruk kunnskap og informasjon
-om elevenes læring og skolemiljø for å tilpasse
-opplæringen (Pastore og Andrade, 2019). Det
-handler også om å håndtere formålene med vurdering i fag (Looney mfl., 2018).
-Imidlertid viser studier at det er svakheter i
-utviklingen av lærernes kompetanse i å fortolke
-og vurdere kunnskap og informasjon om praksisen i klasserommet, og å ta profesjonelle beslutninger basert på disse vurderingene (Datnow
-Hubbard, 2016; Sandvik, 2019). Særlig har det
-blitt pekt på lærerutdanningenes utfordringer
-med å sørge for at lærerstudentene utvikler tilstrekkelig vurderingskompetanse (NOKUT, 2020;
-Wiggen, 2022; Jenset, 2018).
-Eksamensgruppa og utvalget for fremtidens
-skole pekte også på at lærere ikke nødvendigvis
-får tilstrekkelig opplæring gjennom lærerutdanningene i hva som skal til for å sikre god kvalitet i
-vurderingen av elevenes sluttkompetanse (Eksamensgruppa, 2019; NOU 2015: 8). Studier viser at
-noen av utfordringene er knyttet til at lærerutdanningsinstitusjonene og praksisfeltet har ulike oppfatninger om hva som kjennetegner en god lærerutdanning, og at samarbeidet mellom de to aktørene har vært svakt (Munthe, 2020).
-Andre studier peker på at ulike oppfatninger
-og et uklart samarbeid kan føre til at studentene
-opplever motsetninger mellom det de erfarer og
-lærer på campus, og det de erfarer og lærer i
-praksisperiodene i skolene. Det kan også føre til
-at lærerstudentene ikke utvikler en grunnleggende vurderingskompetanse, fordi det ikke er en
-systematisk tilnærming til utviklingen av denne
-kompetansen innen de ulike fagene i lærerutdanningen (Fjørtoft og Sandvik, 2016).
-Tilskuddsordningen for lokal kompetanseutvikling
-Forskning har understreket betydningen av å
-knytte kompetanseutviklingstiltak i skolene tett til
-arbeidsplassen for å sikre relevans for det faglig-
+Ansatte med relevant faglig og pedagogisk kompetanse vil ha bedre forutsetninger for å kunne delta i kvalitetsutviklingsarbeidet i skolene og i profesjonsfellesskapet (NOU 2023: 1). Det skjer mye kompetanseutvikling i det daglige arbeidet gjennom at de som arbeider i skoler og kommuner stilles ovenfor utfordringer, og reflekterer over og vurderer sine praksiser. Dette omtales gjerne som profesjonalisering *innenfra* (Ekspertgruppen om lærerrollen, 2016; Emstad mfl., 2023). Utvalget for etter- og videreutdanning i barnehage og skole viser til at lærerledet utvikling i skolene framstår som en viktig suksessfaktor i kompetansesatsinger de senere årene, og at dette er med på å styrke profesjonaliseringen innenfra (NOU 2022: 13).
 
-pedagogiske arbeidet og for skoleledernes praksis. Det blir også sett på som vesentlig å etablere
-slike tiltak gjennom partnerskap med universiteter og høgskoler (Postholm, 2018).
-Dette har blitt fulgt opp og tatt inn som et
-skifte i nasjonale myndigheters styring og strategiske tenkning rundt kompetanseutvikling i skolene. Betydningen av nettverksstyring, lokal involvering, partnerskap, samarbeid og kunnskapsbasering har stått sterkt de siste årene (Fossestøl
-mfl., 2021).
-Tilskuddsordningen for lokal kompetanseutvikling i barnehage og grunnopplæring er ment å
-tilby kompetanseutviklingstiltak til lærere, skoleledere og øvrige ansatte i skolen. Ordningen bygger på partnerskap mellom skoleeier og universitet eller høgskole, regionale kompetansenettverk
-som gode arenaer for utvikling av partnerskap, og
-samarbeidsforum for prioritering av tiltak i lys av
-en langsiktig felles plan. Nasjonale myndigheter,
-gjennom statsforvalterne, har en aktiv rolle i
-arbeidet blant annet i samarbeidsforumene og
-som tilskuddsforvalter (Utdanningsdirektoratet,
-2023g).
-Ved å strukturere et tettere samarbeid mellom
-lærerutdanningsinstitusjonene, skoleeierne og
-praksisfeltet er målet å styrke kompetanseutviklingen og oppnå en mer målrettet og relevant tilnærming. Det skal også gjøre det mulig å vurdere
-kompetansebehovene grundig, planlegge effektive tiltak, og gjennomføre dem på en målrettet
-måte. Flere studier har vist at viktige forutsetninger for å lykkes med kompetanseutviklingstiltakene er at tiltakene er nøye tilpasset lokale behov i
-skolene, kommunene og fylkeskommunene. I
-partnerskapene er man også avhengig av å etablere en felles enighet om roller, rettigheter og
-ansvar for å utvikle solide relasjoner mellom aktørene i skolesektoren og aktørene i universitet- og
-høgskolesektoren. Likeverdighet mellom aktører
-blir ansett som en nødvendighet for et bærekraftig
-partnerskap (Lillejord og Børte, 2014; Smith,
-2016; Prøitz og Rye 2023).
-Evalueringene av tilskuddsordningen viser at
-aktørene samlet sett er positive til formålet med
-ordningen, og særlig framhever potensialet i partnerskapet mellom skoleeierne og universitets- og
-høgskolesektoren. Det blir imidlertid pekt på
-utfordringer når det gjelder forankringsprosesser,
-behovsanalyser og samarbeidet i partnerskapene.
-Særlig er de lokale aktørene bekymret for at det
-blir for mange standardiserte løsninger, og for at
-universitets- og høgskolemiljøer har manglende
-kompetanse og interesse i møtene med skolene
-og skoleeiernes utfordringer og behov. Det blir
+## Hvilke kompetanser er viktige i kvalitetsutviklingsarbeidet?
 
-[Side 73]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-også pekt på manglende medbestemmelse i ordningene, til tross for at dette er et krav, og at det er
-et sprik mellom skoleledernes og tillitsvalgtes
-opplevelse av medbestemmelse. Jo nærmere de
-tillitsvalgte i skolene man kommer, desto større er
-skepsisen til om ordningen er en god måte å drive
-kompetanseutvikling på (Fossestøl mfl., 2021).
-Forskere peker på at i arbeidet med lokal kompetanseutvikling, bør de nye samarbeidsformene
-mellom skolene og universitetene og høgskolene i
-Norge betraktes som omfattende organisasjonsutviklingsprosjekter som vil påvirke både universiteter, høgskoler, skoleeiere og skoler, og som vil
-stille nye krav til både lærerne og skolelederne i
-organisasjonene. Universitetene og høgskolene
-spiller en viktig rolle i å sikre at erfaringene fra
-partnerskapene styrker lærerutdanningenes kvalitet og relevans (Smith, 2016).
-Offentlig ph.d.-utdanning
-I rammeplanene for grunnskolelærerutdanningene framgår det at utdanningene skal bidra til kritisk refleksjon, samtidig som de skal kvalifisere for
-en profesjonsutøvelse som bygger på forskningsog erfaringsbasert kunnskap.
-Tradisjonelt har kunnskap i skolene vært erfaringsbasert, mens initiativer fra nasjonale myndigheter de siste ti årene har vektlagt å styrke den
-forskningsbaserte kunnskapen i skolesektoren.
-Forskningen har også tradisjonelt skjedd i miljøer
-utenfor skolene, og har ofte studert skolene som
-fenomen framfor hva som skjer i skolene, og med
-svak forankring i skolene (Prøitz og Aasen, 2017;
-Aasen og Rye, 2013).
-Det har i de senere årene vært satset på å
-knytte kompetanseutvikling i større grad til praksiser som virker i klasserommet og i skolene. I
-2014 ble offentlig sektor-ph.d. for lærere etablert,
-hvor ansatte i skolene kan ta en doktorgrad forankret i praksis. Formålet med offentlig ph.d.-ordningen er tredelt. Det er et samarbeidsprosjekt
-mellom en offentlig virksomhet, et universitet
-eller en høgskole og en ph.d.-kandidat. Ordningen
-skal bidra til forskerkompetanse i offentlig sektor,
-utvikle relevant forskning og bidra til samarbeid
-mellom praksisfeltet og akademia (Fekjær mfl.,
-2022; Mausethagen mfl., 2021). Prosjektet skal
-være relevant for virksomhetens ansvarsområde,
-og bygge kunnskap og kompetanse som er relevant og anvendbar for virksomheten (Forskningsrådet, 2023).
-Et trekk ved denne ordningen er også at i motsetning til å være kollektivt orientert, slik mange
-kompetanseutviklingstiltak har vært i Norge de
-
-71
-
-Kapittel 7
-
-senere årene, er dette et individorientert kompetansetiltak (Fekjær mfl., 2022).
-Forskere peker på at en offentlig ph.d.-ordning
-åpner for nye muligheter for skoleutvikling, ikke
-bare for lærere, men også for skoleledere og skoleeiere. Ordningen synes å fungere relativt bra i
-Norge. Samtidig er ordningen ny, og det er lite
-kunnskap om forskerkompetansen ph.d.-kandidatene utvikler og oppnår, og om kunnskapsutviklingen som skjer brukes i skoleutviklingsprosesser.
-Det er også noen utfordringer ved at det er mange
-og dels uklare forventninger og roller knyttet til
-ordningen, og til spørsmålet om hvordan kandidatene skal bruke sin nye kompetanse i praksis etter
-fullført grad (Fekjær mfl., 2022; Mausethagen
-mfl., 2021).
-Det er også lite kunnskap om hvilke stillinger
-og ansvarsoppgaver kandidatene får etter ph.d.studiet. De fleste med lærerbakgrunn som tar en
-doktorgrad, går inn i stillinger ved universiteter
-og høgskoler. Det er samtidig tydelig at det er et
-stort potensial for kompetanse- og kunnskapsutvikling i skolene når kompetanseutviklingen skjer
-hos kandidater som allerede er i skolene, gjennom at kompetansen de opparbeider seg spres
-blant kollegaer. Det er i dag et krav om at temaet
-for ph.d-en skal være praksisforankret, og mange
-velger å studere egen skole og praksis. Ordningen styrker også at det er lærerne som kan drive
-skoleutviklingsarbeidet. For at ordningen skal gi
-et reelt bidrag til å utvikle skolene, er man avhengig av at det skapes stillinger som sikrer at kompetansen kommer til nytte i skolene (Fekjær mfl.,
-2022).
-Utdanning og kompetanseutvikling hos skoleledere og
-skoleeiere
-Som en del av en økt profesjonalisering av aktørene i skolene, har det blitt satset mye på utdanning og kompetanseutvikling innen ledelse fra
-begynnelsen av 2000-tallet (Møller, 2016). Det er i
-dag flere utdannings- og videreutdanningstilbud
-rettet mot skolelederne.
-Utvalget for etter- og videreutdanning i barnehage og skole peker på at lederrollen i skolene
-stadig blir mer kompleks, og at skoleledernes
-kompetanse i kvalitetsutvikling blir utfordret i takt
-med dette. Utvalget viser til at det derfor også er
-viktig at skolelederne har gode muligheter for å
-utvikle kompetansen sin, blant annet i samarbeid
-med lederkollegaer og ved å ha gode kompetanseutviklingstilbud (NOU 2022: 13).
-Siden 2009 har nasjonale myndigheter finansiert den nasjonale rektorutdanningen, som er et
-
-[Side 74]
-
-72
-
-Kapittel 7
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-videreutdanningstilbud for skoleledere i grunnskolen og i den videregående opplæringen. En av
-hovedmålsettingene med utdanningen er å gi skolelederne kompetanse til å lede og kompetanse i
-skoleutvikling. Siden 2018 har nasjonale myndigheter også finansiert modulbaserte utdanninger
-for rektorer og andre skoleledere som har fullført
-rektorutdanningen. En av modulene som tilbys er
-ledelse av utviklings- og endringsarbeid (Aamodt
-mfl., 2019).
-Evalueringer av rektorutdanningen viser at de
-som har fullført utdanningen, opplever større
-trygghet i rollen som leder. Deltakerne rapporterer om at egen lederpraksis ikke lenger bare er
-basert på skjønn og erfaring, men også på teori og
-forskning. Dette opplever de gir økt trygghet og
-bidrar til endring i ledelsespraksis (Hybertsen
-mfl., 2014; Aamodt mfl., 2019).
-Selv om det er utfordrende å måle i hvilken
-grad utdanningen fører til nye ledelsespraksiser
-som igjen forbedrer elevenes læring (Aas mfl.,
-2021), er det gjennomført undersøkelser som
-tyder på at utdanningen indirekte har bidratt til å
-styrke kvaliteten på mange norske skoler.
-Skoleledere som har gjennomført rektorutdanningen, oppgir i høyere grad enn andre skoleledere at de har tilgang på kompetansen de trenger for å nyttiggjøre seg informasjonen fra prøver,
-undersøkelser, datakilder og verktøy på en god
-måte (Rambøll, 2023a).
-Det finnes i dag ikke et nasjonalt utviklet
-utdanningstilbud til skoleeier, slik den nasjonale
-rektorutdanningen er for skoleledere. En av målsettingene med den nasjonale rektorutdanningen
-er riktignok å koble skoleeiere til utdanningstilbudet. Det er blant annet vanlig at skoleeiere inviteres til å delta på noen av studiesamlingene. Evalueringene av rektorutdanningen viser imidlertid at
-utdanningen ikke har lykkes med å involvere skoleeierne etter intensjonen (Aamodt mfl., 2019).
-
-7.3
-
-Utvalgets vurderinger og forslag
-
-Utvalget mener at det er behov for ulike former
-for kompetanseutviklingstiltak for å sikre at elevene, lærerne, skolelederne og skoleeierne har et
-tilstrekkelig faglig grunnlag for å delta i og drive
-et systematisk kvalitetsutviklingsarbeid.
-Utvalget mener at en forutsetning for å delta i
-kvalitetsutviklingsarbeidet er at lærerne i skolene
-har den formelle kompetansen som er påkrevd til
-ansettelse og undervisning i fag. Selv om flere
-lærere har grunnutdanning og kompetanse i
-fagene de underviser i, mener utvalget at det
-
-fremdeles er for mange ansatte som underviser
-og vurderer i fag som mangler pedagogisk utdanning eller fordypning i undervisningsfagene.
-Utvalget mener at ansatte uten relevant faglig og
-pedagogisk kompetanse, vil ha svakere forutsetninger for å kunne delta i profesjonsfelleskapet og
-i kvalitetsutviklingsarbeidet i skolene.
-De ansatte i skolene og hos skoleeierne er den
-største ressursen en skole, kommune og fylkeskommune kan ha. Å videreutvikle relevant kompetanse innenfor flere områder hos de ansatte vil
-være avgjørende for at skolene, kommunene og
-fylkeskommunene skal få til kvalitetsutvikling.
-Lærerutdanningene
-Lærerutdanningene, universitetene og høgskolene har en avgjørende rolle i arbeidet med å kvalifisere og utvikle kompetanse til å drive kvalitetsutvikling blant lærere. Når det gjelder utviklingen av
-lærerstudenters vurderingskompetanse, legger
-utvalget vekt på viktigheten av å forstå sammenhengen mellom læreplan og vurdering, ulike vurderingsformer, og å fortolke og bruke informasjon om elevenes læring og skolemiljø for å tilpasse opplæringen, i tillegg til å håndtere de
-mange formålene med vurdering i skolen.
-I Norge har det vært satset på å utvikle lærernes vurderingskompetanse gjennom blant annet
-satsingen Vurdering for læring. Lærerutdanningene har en viktig rolle i å sikre at lærerstudentene har tilstrekkelig kompetanse i sluttvurdering,
-og til å delta og ta ansvar i kvalitetsvurderings- og
-kvalitetsutviklingsarbeidet i klasserommene og i
-profesjonsfellesskapet. Det har blitt pekt på lærerutdanningenes utfordringer med å sørge for at
-lærerstudentene utvikler tilstrekkelig vurderingskompetanse (Jenset, 2018; NOKUT, 2020; Wiggen, 2022). Utvalget mener det er svært viktig at
-lærerstudentene får utviklet sin kompetanse i
-sluttvurdering gjennom lærerutdanningen. Utvalget foreslår derfor at lærerutdanningene skal
-sikre at lærerstudentene utvikler kompetanse i
-kvalitetsutvikling, slik at de kan bidra aktivt i kvalitetsutviklingsarbeidet i skolene. Utvalget foreslår
-også at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i sluttvurdering.
-Forslagene må ses i sammenheng med det pågående arbeidet i ekspertgruppen som skal se på
-rammeplanstyringen
-av
-lærerutdanningene.
-Utvalget mener det er behov for å iverksette tiltak
-som sikrer en systematisk tilnærming til kompetanse innen kvalitetsutvikling i lærerutdanningene. Dette må komme tydelig til uttrykk gjen-
-
-[Side 75]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-nom omtale i rammeplanene for de ulike lærerutdanningene.
-Veiledning og støtte i standpunktkaraktersettingen
-I Norge utgjør standpunktkarakterene om lag 80
-prosent av karakterene på et vitnemål. Utvalget
-mener det er viktig å sikre en videreføring av og
-opprettholde den tilliten som lærerne har til å vurdere elevene ved avslutningen av opplæringen.
-For å videreføre og opprettholde tilliten til de vurderingene lærerne gjør, og dermed kvaliteten på
-informasjonen standpunktkarakterer gir, mener
-utvalget at det er et mål at bare lærere med kompetanse i faget skal kunne sette standpunkt- og
-eksamenskarakterer. Denne målsetningen må ses
-i sammenheng med behovet for at alle lærere har
-tilgang på strukturer for dialog og samarbeid i
-arbeidet med å sette standpunktkarakterer. Dette
-beskriver utvalget nærmere i kapittel 8. Utvalget
-erfarer at det i dag ikke er tilstrekkelig tilgang på
-lærere som oppfyller lovens krav til kompetanse
-ved alle skoler. Mange steder ville det derfor ikke
-vært mulig å gi alle elevene standpunktvurdering
-dersom ikke ansatte i undervisningsstillinger som
-mangler formell lærerkompetanse, også utfører
-denne oppgaven. Utvalget vurderer derfor at det
-ikke er realistisk å stille krav om at alle som fastsetter standpunktkarakterer skal tilfredsstille kravene til ansettelse og undervisning, men mener
-det er behov for tiltak for å bidra til at elevene får
-likeverdige standpunktvurderinger gjennom å
-sørge for at lærerstudentene utvikler kompetanse
-i sluttvurdering. Utvalgets flertall, ved utvalgsmedlemmene Aaslid, Eira, Furulund, Hansen,
-Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandvik
-og Botterli Udnæs, foreslår at nyutdannede nytilsatte1 lærere skal få veiledning i arbeidet med å
-sette standpunktkarakterer som en del av kvalitetssikringen av standspunktkaraktersettingen.
-Utvalgets flertall foreslår videre at ansatte i undervisningsstillinger som ikke oppfyller kravene til
-tilsetting eller undervisning, skal sette standpunktkarakterer sammen med lærere som oppfyller kravene for tilsetting og undervisning som en
-del av kvalitetssikringen av karaktersettingen.
-Disse forslagene må ses i sammenheng med forslaget om å utvikle varige strukturer for kvalitets1
-
-Begrepet nyutdannede nytilsatte brukes i tråd med «Veiledning av nyutdannede nytilsatte lærere i barnehage og
-skole». Veiledningen er signert av Kunnskapsdepartementet, KS, PBL, organisasjonene for friskolene, Utdanningsforbundet, Pedagogstudentene i Utdanningsforbundet,
-Norsk Lektorlag, Skolelederforbundet og UHR (Kunnskapsdepartementet, 2018).
-
-73
-
-Kapittel 7
-
-sikring av standpunktvurdering, som utvalget
-beskriver i kapittel 8.
-Utvalgets mindretall, ved utvalgsmedlemmene
-Arnason Bøe og Haugli, foreslår at nyutdannede
-nytilsatte lærere og ansatte som ikke oppfyller
-kravene til tilsetting eller undervisning, skal få veiledning i arbeidet med å sette standpunktkarakterer som en del av kvalitetssikringen av standpunktkaraktersettingen. Forskjellen mellom flertalls- og mindretallsforslaget er at ansatte som
-ikke oppfyller kravene til tilsetting eller undervisning i flertallsforslaget, skal sette standpunktkarakterer sammen med lærere som oppfyller kravene, mens mindretallsforslaget er at de skal få
-veiledning.
-Etter- og videreutdanningstilbud innenfor området
-kvalitetsutvikling i skolen
-Krav og forventninger til skolelederne om å drive
-og lede kvalitetsutviklingsprosessene i skolene,
-og til skoleeierne om å legge til rette for og støtte
-skolelederne i dette arbeidet, fordrer at aktørene
-har tilstrekkelig relevant kompetanse kvalitetsutvikling. Det er også behov for tilgang på etter- og
-videreutdanning og strukturer for erfaringsdeling
-for å kunne videreutvikle egen kompetanse på
-området. Dette gjelder for hvert enkelt av aktørnivåene, men også et samlet tilbud på tvers av aktørnivåene. Blant annet har utvalget pekt på at kompetanse om elevmedvirkning er avgjørende for å
-styrke elevmedvirkning i skolene. Også kompetanse i å kunne forebygge og arbeide systematisk
-for at alle elevene har et trygt og godt skolemiljø,
-er viktig i kvalitetsutviklingsarbeidet.
-Relevant og tilstrekkelig skolefaglig kompetanse hos skoleeiene er en forutsetning for å sikre
-et godt skoleeierskap, og få til arbeidet med å
-bedre kvaliteten i opplæringen. Utvalget mener at
-det er en styrke at kravet til skolefaglig kompetanse nå er innarbeidet og utvidet i den nye
-bestemmelsen om kvalitetsutvikling i skolen og
-også omfatter fylkeskommunene som skoleeiere.
-Utvalget mener også at det er positivt at kravene
-om skolefaglig kompetanse på skoleeiernivået i
-opplæringsloven er utvidet og satt tydeligere i
-sammenheng med kvalitetsutvikling i skolen. At
-kravet til skolefaglig kompetanse er satt sammen
-med kravet om kvalitetsutvikling i skolen, ser
-utvalget på som et grep som er med på å synliggjøre at også strukturkvaliteten er en viktig del av
-et bredt kunnskapsgrunnlag i kvalitetsutviklingsarbeidet.
-Når det gjelder hva som menes med skolefaglig kompetanse hos skoleeierne, vurderer utvalget
-
-[Side 76]
-
-74
-
-Kapittel 7
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-at en konkretisering i større grad vil kunne sikre
-at alle kommune- og fylkeskommuneadministrasjonene har de samme forutsetningene for å
-kunne støtte og følge opp skolene og de politiske
-skoleeierne i kvalitetsutviklingsarbeidet. En innvending vil være at det er opp til kommunene og
-fylkeskommunene å vurdere hvordan de organiserer sin egen drift og best utnytter sine ressurser
-og kompetanse for å levere gode tjenester.
-Flere studier har vist at vellykket kompetanseutvikling krever at tiltakene er nøye tilpasset
-lokale behov, og er organisert gjennom partnerskap mellom skoler, kommuner, fylkeskommuner
-og høyere utdanningsintitusjoner. Utvalget mener
-kompetanseutviklingen som skjer tett på arbeidsplassen, er viktig for å sikre relevans for det fagligpedagogiske kvalitetsutviklingsarbeidet i klasserommet og i profesjonsfellesskapet. Utvalget
-anser det som vesentlig å videreutvikle samarbeidet mellom skolene, lærerutdanningsinstitusjonene og andre aktører i utdanningssystemet for å
-styrke kompetanseutviklingen og oppnå en mer
-målrettet og relevant tilnærming.
-For å sikre relevant kompetanse i kvalitetsutviklingsarbeidet, foreslår utvalget å kartlegge
-og sikre ulike former for etter- og videreutdanningstilbud innenfor området Kvalitetsutvikling i
-skolen, slik at lærerne, andre ansatte i skolene,
-skolelederne og skoleeierne får et godt grunnlag
-for å drive og delta i kvalitetsutviklingsprosesser i
-skolene. Dette arbeidet bør ses i sammenheng
-med regjeringens oppfølging av utredningen fra
-utvalget for etter- og videreutdanning i barnehage
-og skole (NOU 2022: 13).
-Forskningsprogram
-Utvalget vurderer at det finnes begrenset tilgang
-til oppdatert forskning om kvalitetsutvikling i skolen. Forskningen innenfor området er preget av
-fragmenterte småskalastudier på ulike felt. Innenfor flere viktige temaer, for eksempel hvordan
-elevene blir involvert i arbeidet med kvalitetsutvikling, og hvordan ulike aktører og nivåer samarbeider i kvalitetsutviklingsarbeidet, finnes det lite
-forskningsbasert kunnskap.
-Utvalget påpeker at det er utfordringer i samarbeidet mellom utdanningsinstitusjonene og
-praksisfeltet i dag. Disse utfordringene kan føre til
-unødvendige motsetninger mellom teori og praksis for lærerstudentene.
-Utvalget mener det er for lite kunnskap om
-hvordan utdanningsinstitusjonene ivaretar kvalitetsutvikling som område i dag i utdanningene.
-Utvalget mener det er behov for blant annet mer
-
-kunnskap om hvordan lærerutdanningene fremmer relevant kompetanse for kvalitetsutvikling
-hos lærerne, også i praksisperiodene, for å kunne
-adressere disse utfordringene.
-Det har i de senere årene vært satset på å
-knytte etter- og videredanningstilbud i større grad
-til praksiser i klasserommet og skolene. Forskere
-har pekt på at en offentlig ph.d-ordning for ansatte
-i skolesektoren gir nye muligheter og har et stort
-potensial for kompetanse- og kunnskapsutvikling i
-skolen, gjennom at kompetanseutvikling skjer hos
-aktørene som allerede er ansatt i skolen. En slik
-ordning vil bidra med forskerkompetanse i offentlig sektor og utvikle relevant forskning, spesielt
-knyttet til den praksisnære og erfaringsbaserte
-kunnskapen (Fekjær mfl., 2022).
-Universitet- og høgskolemiljøene har flere sentrale roller i arbeidet med kvalitetsutvikling i skolen, gjennom å utvikle og formidle relevant kunnskap, og ved å være nære samarbeidspartnere for
-skolene og skoleeierne. Dette er blant annet gjennom partnerskap i den desentraliserte ordningen
-for kompetanseutvikling.
-Utvalget mener det er behov for å styrke
-dagens kunnskapsgrunnlag om kvalitetsutvikling
-i skolen for å få mer innsikt i dette arbeidet. Utvalget foreslår å opprette et forskningsprogram om
-kvalitetsutvikling i skolen som en del av Norges
-forskningsråds portefølje. Forskningsprogrammet skal bidra til å utvikle forskningsbasert kunnskap, samt bidra til utvikling og innovasjon.
-Forskningsprogrammet skal omfatte ordning for
-offentlig ph.d i skolesektoren, og bidra til kunnskap om kvalitetsutvikling som område i lærerutdanningene, gjennom stimulering av partnerskapsordninger og kombinerte stillinger i
-lærerutdanninger. Forskningsprogrammet skal
-også kartlegge forskningens rolle i kvalitetsutvikling som kunnskapsleverandør og som tjenesteleverandør.
-Introduksjonsår
-Utvalget har merket seg at utvalget for etter- og
-videreutdanning i barnehage og skole foreslår et
-nytt helhetlig system for kompetanse- og karriereutvikling i deres NOU 2022: 13 Med videre betydning. Et helhetlig system for kompetanse- og karriereutvikling i barnehage og skole. Et av forslagene
-er å innføre en rett til et introduksjonsår for alle
-nyutdannede lærere i barnehage og skole. Utvalgets flertall, ved utvalgsmedlemmene Aaslid, Eira,
-Furulund, Hansen, Olsen, Prøitz, Bakkebråten
-Rasen, Vikan Sandli og Botterli Udnæs, mener at
-det bør utvikles en egen støtte til utviklingen av
-
-[Side 77]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-profesjonsfellesskapet for lærere. Utvalgets flertall foreslår å støtte utvalget for etter- og videreutdanning i barnehage og skoles forslag i NOU
-2022: 13 om å innføre en rett til et introduksjonsår
-for alle nyutdannede lærere i skolen.
-Utvalgets forslag
-For relevant kompetanse på alle nivåer foreslår
-utvalget
-– at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i kvalitetsutvikling slik at de kan bidra aktivt i arbeidet i skolene
-– at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i sluttvurdering
-– å kartlegge og sikre ulike former for etter- og
-videreutdanningstilbud innenfor området kvalitetsutvikling i skolen, slik at lærerne, andre
-ansatte i skolene, skolelederne og skoleeierne
-får et godt grunnlag for å drive og delta i kvalitetsutviklingsprosesser i skolene. Dette bør
-ses i sammenheng med regjeringens oppfølging av utvalget for etter- og videreutdanning i
-barnehage og skole sin NOU 2022: 13.
-– et forskningsprogram om kvalitetsutvikling i
-skolen som del av Norges forskningsråds portefølje
-– Forskningsprogrammet skal bidra til å
-utvikle forskningsbasert kunnskap, samt å
-bidra til utvikling og innovasjon.
-– Forskningsprogrammet skal omfatte ordning for offentlig ph.d. i skolesektoren, og
-bidra til kunnskap om kvalitetsutvikling
-som område i lærerutdanningene gjennom
-
-75
-
-Kapittel 7
-
-stimulering av partnerskapsordninger og
-kombinerte stillinger i lærerutdanninger.
-– Forskningsprogrammet skal kartlegge
-forskningens rolle i kvalitetsutvikling i skolen som kunnskapsleverandør og som tjenesteleverandør.
-Utvalgets flertall, ved utvalgsmedlemmene Aaslid,
-Eira, Furulund, Hansen, Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandli og Botterli Udnæs, foreslår
-– at nyutdannede nytilsatte lærere skal få veiledning i arbeidet med å sette standpunktkarakterer som en del av kvalitetssikringen av standpunktkaraktersettingen
-– at ansatte i undervisningsstillinger som ikke
-oppfyller kravene til tilsetting eller undervisning, skal sette standpunktkarakterer sammen
-med lærere som oppfyller kravene for tilsetting
-og undervisning som en del av kvalitetssikringen av standpunktkaraktersettingen
-– å støtte utvalget for etter- og videreutdanning i
-barnehage og skoles forslag i NOU 2022: 13
-om å innføre en rett til et introduksjonsår for
-alle nyutdannede lærere i skolen
-Utvalgets mindretall, ved utvalgsmedlemmene
-Arnason Bøe og Haugli, foreslår
-– at nyutdannede nytilsatte lærere og ansatte
-som ikke oppfyller kravene til tilsetting eller
-undervisning, skal få veiledning i arbeidet med
-å sette standpunktkarakterer som en del av
-kvalitetssikringen av standpunktkaraktersettingen
-
-[Side 78]
-
-76
-
-Kapittel 8
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-Kapittel 8
-
-Systematisk kvalitetsutvikling forutsetter et bredt
-kunnskapsgrunnlag
-I dette kapittelet redegjør utvalget for hva utvalget
-legger i et bredt kunnskapsgrunnlag og hvilke
-kunnskaps- og informasjonskilder utvalget foreslår skal inngå i kvalitetsutviklingssystemet. Det
-brede kunnskapsgrunnlaget skal utgjøre fundamentet for kvalitetsdialogene mellom skolene og
-skoleeierne. Dette er nærmere omtalt i kapittel 5.
-
-8.1
-
-Et bredt kunnskapsgrunnlag i et
-kvalitetsutviklingssystem
-
-Skolens brede mandat skal ligge til grunn for
-arbeidet med kvalitetsutvikling i opplæringen på
-alle nivåer i skolesektoren. Det brede kunnskapsgrunnlaget må bestå av ulike former for kunnskaps- og informasjonskilder som samlet sett rammer inn hva kvalitet i opplæringen handler om.
-Det brede kunnskapsgrunnlaget må bestå av
-kvantitative og kvalitative kunnskaps- og informasjonskilder. Som utvalget beskriver i kapittel 3 blir
-dagens kvalitetsvurderingssystem kritisert for i
-hovedsak å inneholde kvantitative informasjonskilder. Utvalget mener det er behov for å videreutvikle
-flere kvalitative kilder (NOU 2023: 1). Elevenes,
-foreldrenes, lærernes, andre ansattes, skoleledernes og skoleeiernes erfaringsbaserte kunnskap må
-ha plass og legitimitet i kvalitetsutviklingsprosessene. Den erfaringsbaserte kunnskapen må ses i
-sammenheng med annen kunnskap og informasjon
-aktørene har om elevene, skolene, kommunene og
-fylkeskommunene.
-Et nytt kvalitetsutviklingssystem må være
-tydelig avgrenset. Dette gjelder særlig for kunnskaps- og informasjonskildene som nasjonale
-myndigheter utvikler for å støtte kvalitetsutviklingsarbeidet. Det er viktig at de ulike kunnskapsog informasjonskildene kan inngå som en integrert del av den ordinære skolehverdagen og ikke
-eksistere på siden av skolevirksomheten. Det må
-likevel ikke bli for mange eller for omfattende
-kunnskaps- og informasjonskilder, for eksempel
-
-prøver og undersøkelser som elevene og lærerne
-må gjennomføre.
-Flere elever enn tidligere opplever mer press
-relatert til skolen (NOU 2023: 1). Elevorganisasjonen og Redd Barna er blant organisasjonene som i
-innspill til utvalget peker på at det er et behov for å
-se på det samlede antallet prøver og undersøkelser i skolen, slik at det ikke totalt sett blir en for
-stor belastning for elevene.
-For at lærerne, skolelederne og skoleeierne
-skal kunne vurdere verktøyene nasjonale myndigheter tilbyr som relevante i kvalitetsutviklingsarbeidet, må de oppleve dem som tilstrekkelige for å
-oppfylle deres roller og ansvar. Verktøyene må ta
-utgangspunkt i aktørenes behov, og aktørene må
-være involvert i utviklingsarbeidet. Det gjelder
-særlig elevene og lærerne, siden det er dem som i
-størst grad skal gjennomføre prøvene og undersøkelsene og ta i bruk informasjonen. Det er også
-viktig å jevnlig evaluere om kunnskaps- og informasjonskildene oppleves som relevante for aktørenes kvalitetsutviklingsarbeid, slik at nytteverdien og relevansen til arbeidet opprettholdes.
-Kunnskaps- og informasjonskildene som
-nasjonale myndigheter tilbyr må holde høy kvalitet. De må også oppfylle kravene etter personvernlovgivningen og reglene om universell utforming.
-Utvalget foreslår et nytt kvalitetsutviklingssystem som tydelig prioriterer kvalitetsutviklingsprosessene. Kvalitetsutvikling skjer ikke når elevene
-gjennomfører prøver og undersøkelser eller når
-skolene tar i bruk andre verktøy. Det skjer heller
-ikke gjennom å fortolke og vurdere kunnskapen
-og informasjonen som lærerne eller skolene som
-helhet innhenter. Selve kvalitetsutviklingen skjer
-når elevene, lærerne, andre ansatte, skolelederne,
-skoleeierne og andre aktører tilknyttet skolene tar
-i bruk det brede kunnskapsgrunnlaget i ulike kvalitetsutviklingsprosesser.
-Forslagene i dette kapittelet må ses i nær sammenheng med utvalgets forslag om å gjennomføre
-
-[Side 79]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-jevnlige kvalitetsdialoger om kvalitetsutvikling
-mellom skoleeiere og skoler.
-
-8.2
-
-8.2.1
-
-Kunnskap og informasjon om
-elevenes skolemiljø i et
-kvalitetsutviklingssystem
-
-Hvorfor er kunnskap og informasjon
-om elevenes skolemiljø viktig i et
-kvalitetsutviklingssystem?
-Formålet med et nytt kvalitetsutviklingssystem
-skal være å sikre elevenes læring og trivsel. Elevenes trivsel er med andre ord en viktig dimensjon
-som det nye systemet må gi kunnskap og informasjon om.
-Elevenes skolemiljø har mye å si for elevenes,
-foreldrenes og de ansattes opplevelse av kvalitet i
-opplæringen, både faglig og sosialt (Lillejord mfl.,
-2014). Særlig har oppmerksomheten omkring
-elevenes psykososiale miljø økt (Eriksen og Lyng;
-2015). Elevene har siden kvalitetsvurderingssystemet ble opprettet, fått sterkere og tydeligere
-individuelle rettigheter knyttet til skolemiljøet.
-Skolene har også fått tydeligere plikter i arbeidet
-(Deloitte, 2019).
-Barn og unge bruker store deler av tiden sin
-på skolen. De har rett til et trygt og godt skolemiljø, og skolene skal arbeide kontinuerlig og
-forebyggende med elevenes skolemiljø, og utvikle
-fellesskap som fremmer helse, inkludering,
-læring og trivsel for alle elevene. Dette er prinsipper, rettigheter og plikter som blant annet ligger
-til grunn i opplæringsloven kapittel 12 om elevenes skolemiljø og i overordnet del av læreplanverket.
-Hvis en elev eller elevens foreldre mener at en
-skole ikke har gjort nok for at eleven har det trygt
-og godt på skolen, kan de melde saken til statsforvalteren gjennom håndhevingsordningen. I denne
-ordningen skal statsforvalteren følge opp om skolen har ivaretatt deres aktivitetsplikt, jf. opplæringsloven § 12-4. Aktivitetsplikten innebærer at
-skolen skal følge med, gripe inn, varsle, undersøke og sette inn tiltak dersom en elev ikke opplever å ha et trygt og godt skolemiljø (Innst. 442 L
-(2022–2023)). Forutsetningene for at foreldre kan
-melde saken til statsforvalteren er at de først har
-tatt opp saken med rektoren på skolen, og at det
-deretter har gått minst én uke. I 2022 ble over
-1600 saker om mulig brudd på aktivitetsplikten
-meldt til statsforvalteren (Utdanningsdirektoratet,
-2023d).
-I overordnet del framkommer det også at
-rause og støttende læringsmiljøer er grunnlaget
-
-77
-
-Kapittel 8
-
-for positive kulturer der skolene oppmuntrer elevene og legger til rette for elevenes faglige og sosiale utvikling. Det er tydelig nedfelt blant annet i
-opplæringslovens formålsparagraf § 1-3, opplæringslovens kapittel 10 og i overordnet del at elevmedvirkning skal prege skolens praksis. Elever
-skal medvirke og ta medansvar i læringsfellesskapet sammen med lærerne. De skal også, som en
-del av elevmedvirkningsarbeidet, lære hva demokrati og demokratiske verdier betyr i praksis.
-Elevenes skolemiljø skal være en del av kvalitetsutviklingsprosessene som skjer i skolene og
-hos skoleeierne, jf. opplæringsloven § 17-12. Skolene skal jevnlig vurdere i hvilken grad organiseringen, tilretteleggingen og gjennomføringen av
-opplæringen bidrar til å nå målene i læreplanverket. Skolene skal også sørge for at elevene og foreldrene får være med på å planlegge, gjennomføre
-og vurdere skolens virksomhet, blant annet i
-arbeidet med skolemiljøet og i kvalitetsutviklingsarbeidet, jf. opplæringsloven § 10-4. Kunnskapen
-som kommer fram gjennom kvalitetsutviklingsprosessene som elevene, foreldrene og skolene
-gjennomfører, skal bidra til å gjøre elevenes opplæring bedre. Det politiske nivået i kommunene
-og fylkeskommunene skal også minst én gang i
-året få informasjon om elevenes læringsmiljø,
-læringsresultater og gjennomføring. Den skolebaserte kvalitetsutviklingen er også sentral for skoleeiernes kvalitetsutviklingsarbeid (Innst. 442 L
-(2022–2023); Prop. 57 L (2022–2023)).
-I innspill til utvalget fra elever og organisasjoner som representerer barn og unge, blir også
-elevenes behov for å medvirke i egen opplæring
-bekreftet. Flere innspill framhever at elevene har
-et grunnleggende behov for å få rettighetene sine
-oppfylt og for å føle seg godt ivaretatt på skolen.
-Dette behovet går blant annet fram av innspill
-utvalget har fått fra Elevorganisasjonen, Barneombudet, Redd Barna, Forandringsfabrikken og
-Unge Funksjonshemmede. Videre viser de aller
-fleste av innspillene til hvor viktig det er at elevene
-blir sett og hørt av tilgjengelige lærere som legger
-til rette for og støtter opp under et trygt og godt
-læringsmiljø. Skolene må dessuten legge til rette
-for gode strukturer og rutiner for elevmedvirkning (NOU 2023: 1).
-Studier om læringsmiljøet for de yngste elevene tyder på at det som skjer i de første skoleårene, har langvarig effekt på elevenes læring.
-Det framheves at tidlig innsats for de yngste
-barna i stor grad handler om å utvikle trygghet
-(Lillejord mfl., 2018). De fleste elevene opplever
-skole- og læringsmiljøet sitt som godt. Likevel er
-det en økning i antallet elever som ikke trives på
-
-[Side 80]
-
-78
-
-Kapittel 8
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-skolen (Bakken, 2022; NOU 2023: 1). Forskning
-viser at det pågår mobbing og krenkende adferd
-selv i skoler som gjennomgående har et systematisk og langsiktig arbeid med læringsmiljøet.
-Denne adferden skjer på tross av at lærerne på
-disse skolene legger ned et intensivt arbeid.
-Adferden kan passere uoppdaget, siden de voksne
-kan ha det forskerne kaller for blinde flekker.
-Disse blinde flekkene er krenkelser som ikke blir
-fanget opp, anerkjent eller tatt ansvar for, selv i
-skoler som har en bred forståelse av krenkelsesbegrepet og en uttalt målsetting om og identifikasjon av nulltoleranseprinsippet (Eriksen og Lyng,
-2015).
-Forskere peker også på at et underutviklet fellesskap blant elever gir grunnlag for negative sosiale dynamikker, mobbing og krenkelser, også i
-klasser som ble oppfattet å ha et godt klassemiljø
-(Restad og Lyng, 2021). Ulike forståelser for mobbing spiller inn med tanke på hvordan skolene
-arbeider for å sikre trygge og gode skolemiljøer.
-Et nyere perspektiv på mobbing kalt fellesskapende didaktikk har i de senere årene fått mye
-oppmerksomhet. Her rettes oppmerksomheten
-mot fellesskapets sosiale prosesser, og det blir
-satt fokus på hvordan undervisningens mål, innhold og arbeidsformer kan bidra til at elevene opplever å være verdige deltakere i klassenes formelle og uformelle fellesskap. Forfatterne peker
-på at ansvaret for å ha gode praksiser må ligge
-hos de voksne i skolene. Et sentralt poeng er likevel at praksisen ikke er mulig å realisere uten at
-elevene er aktive deltakere som medvirker i sin
-egen opplæring (Restad og Sandsmark, 2021).
-Det er avgjørende at et kvalitetsutviklingssystem som har som formål å sikre elevenes læring
-og trivsel, gir elevene, foreldrene, lærerne, andre
-ansatte, skolelederne og skoleeierne relevant
-informasjon og støtte til arbeidet med elevenes
-skolemiljø. Selv om det er skoleeierne som er
-pliktsubjektene etter loven og som har myndigheten og det rettslige ansvaret for elevenes skolemiljø, er det primært i skolene og i samspillet mellom elevene og lærerne, at det daglige arbeidet
-med elevenes skolemiljø skjer. Dette er tydelig
-anerkjent i opplæringsloven. I opplæringsloven er
-det skolen som er subjekt i de fleste bestemmelsene om elevenes skolemiljø, også i bestemmelsen om skoledemokratiet, § 10-4. Det er derfor
-viktig at skolene og særlig elevene og lærerne,
-opplever at verktøyene som skal gi informasjon
-om elevenes skolemiljø, er nyttige.
-
-8.2.2
-
-Hva slags kunnskap og informasjon om
-elevenes skolemiljø er det behov for?
-Alle aktørene i skolesektoren – elevene, foreldrene, lærerne, andre ansatte, skolelederne, skoleeierne, nasjonale myndigheter og andre aktører
-– har behov for kvalitetssikret og oppdatert kunnskap og informasjon om hvordan elevene har det
-på skolen.
 Elever
-Elevene er hovedpersonene i skolene. I kraft av
-være barn og unge med rett til et særskilt vern,
-må elevenes egne erfaringer, opplevelser og
-meninger ha betydelig vekt i arbeidet med skolemiljøet. Som vist over skal elevene og foreldrene
-være involvert i arbeidet med skolemiljøet gjennom å få være med og planlegge, gjennomføre og
-vurdere virksomheten til skolen, jf. opplæringsloven § 10-4 om skoledemokratiet (Innst. 442 L
-(2022–2023)). For å kunne medvirke på systemnivå, har elevene og foreldrene behov for informasjon om hvordan skolemiljøet i klassen, på trinnet
-og på skolen for øvrig er.
-Innspill fra elever og organisasjoner som
-representerer barn og unge, peker på at elever
-har et grunnleggende behov for tilgjengelige
-lærere som bruker tid med dem som individer og
-som gruppe, og som viser omsorg og støtte (NOU
-2023: 1).
-Den nasjonale Elevundersøkelsen er i dag det
-verktøyet som skolene bruker mest for å vurdere
-hvordan elevene opplever skole- og læringsmiljøet
-sitt. I Elevundersøkelsen blir elevene stilt spørsmål om et bredt utvalg av temaer.
-Utvalget fikk gjennom en av innspillskonferansene innspill fra elever om at de ikke opplever at
-spørsmålene i dagens Elevundersøkelse treffer
-dem godt nok eller reflekterer deres spesifikke
-skolehverdag. Elevene er opptatt av at det er viktig å ha informasjon om mobbing. De mener likevel at man ikke kan spørre direkte om dette i en
-undersøkelse, ettersom mobbing er et vanskelig
-begrep å forstå. De mener i tillegg at tall ikke er
-det beste utgangspunktet for å følge opp hvordan
-elevene har det på skolen. Elevene understreket
-at det er viktig at elevene selv deltar i utarbeidelsen av eventuelle undersøkelser om skolemiljø.
-Kunnskapsgrunnlaget i delinnstillingen og
-andre innspill til utvalget viser at en undersøkelse
-som gir informasjon om elevenes skolemiljø, må
-være kortere enn dagens Elevundersøkelse, og ha
-et språk som er mer tilpasset elevene som skal
-gjennomføre den. Alle elevene må også kunne ha
 
-[Side 81]
+Elevene har førstehånds kompetanse i hvordan det er å være elev og medelev på egen skole. Det betyr at elevene som enkeltelever og som elevgruppe er sentrale aktører i kvalitetsutviklingsarbeidet på egen skole og i egen kommune eller fylkeskommune. Elevene har likevel ikke et ansvar for å utvikle kvaliteten i opplæringen.
 
-NOU 2023: 27
+Elevene har rett til å medvirke i kvalitetsutviklingsarbeidet i skolene, jf. opplæringsloven § 10-4 om skoledemokratiet. Skolene skal legge til rette for at alle elevene skal kunne ytre seg og delta i skoledemokratiet, uavhengig av alder, kjønn, etnisitet, funksjonsnivå og sosial bakgrunn. Skolene skal også hjelpe elevene i dette arbeidet og gi elevene og foreldrene den informasjonen de har behov for, blant annet om rettighetene og pliktene elevene har (Innst. 442 L (2022–2023)).
 
-Et nytt system for kvalitetsutvikling
+I forarbeidene til opplæringsloven står det at et godt skoledemokrati ikke blir til av seg selv. Elevene trenger opplæring i hvordan de kan delta i elevdemokratiet, og de trenger veiledning og støtte til dette (Prop. 57 L (2022–2023)).
 
-anledning til å delta og dermed bli inkludert som
-en del av kunnskapsgrunnlaget. Det betyr at en slik
-undersøkelse må oppfylle alle krav til nødvendige
-tilrettelegginger. Det er også et behov for at undersøkelsen er tilgjengelig på de tre samiske språkene, slik at alle samiske elever får deltatt på morsmålet sitt (NOU 2023: 1). I dag er heller ikke de
-yngste elevenes opplevelse av skolemiljøet deres
-en del av det nasjonale kunnskapsgrunnlag siden
-Elevundersøkelsen gjennomføres først for 5. trinn
-(NOU 2023: 1).
-Foreldre
-Forskere har pekt på at et godt samarbeid mellom
-skolen og hjemmet er en av faktorene som bidrar
-til å skape gode læringsmiljøer (Epstein, 2005;
-Hattie, 2008).
-Innspill til utvalget fra Regionalt kunnskapssenter for barn og unge Vest (RKBU Vest) peker
-på viktigheten av at foreldrene har kjennskap til
-elevenes rettigheter om å ha det trygt og godt på
-skolen. Senteret mener det er et behov for i større
-grad enn i dag, å tydeliggjøre at tilstanden og kvaliteten på skolenes arbeid med trygge og gode skolemiljøer skal være tema i foreldresamarbeidet.
-Foreldreutvalget for grunnopplæringen (FUG)
-peker i sitt innspill på at brukerundersøkelsene
-om foreldresamarbeid gir viktig informasjon til
-kvalitetsutviklingsarbeidet. Utvalget mener derfor
-at alle skolene bør gjennomføre en foreldreundersøkelse.
+I en gjennomgang av hvordan elevmedvirkning kan styrkes i tråd med det nye læreplanverket, blir det pekt på at det i dag eksisterer ulike forståelser av hva elevmedvirkning er og hvorfor det er viktig. En viktig faktor for å lykkes med elevmedvirkning i skolene er å styrke kompetansen og etablere en felles forståelse om hva elevmedvirkning innebærer blant elevene, lærerne, skolelederne og skoleierne. (Faannessen mfl., 2022).
 
-79
+I innspill til utvalget blir også behovet for å diskutere og komme fram til en omforent forståelse av hvordan elevmedvirkningen kan skje på egen skole, understreket. Involveringen av skoleeierne og å etablere dialoger om hva elevmedvirkning innebærer og hvordan elever kan medvirke i kvalitetsutviklingsarbeidet blir også framhevet.
 
-Kapittel 8
+Ungdomsrådene utvalget har fått innspill fra mener at elevene trenger å få mer hjelp og opplæring om medvirkning i skolen. Ungdomsrådene peker også på at det er mange elever som vil bidra i utviklingsarbeidet ved skolene, men at elevene er usikre på når og hvordan medvirkningen kan skje. Ungdomsrådene viser til at det er behov for at elever får konkret opplæring i når og hvordan elever skal medvirke. Se også boks 5.3.
 
-miljø, er den de får fra de daglige dialogene med
-elevene. Lærerne bruker i dette arbeidet også i
-stor grad vurderinger fra verktøy de utvikler selv
-(Arnesen mfl., 2019).
-Rambøll-undersøkelsen viser at lærere opplever at informasjonen fra Elevundersøkelsen om
-elevenes skolemiljø ikke er detaljert nok til at de
-kan følge opp funnene med egne elever (Rambøll,
-2023a). En intervjuundersøkelse bestilt av utvalget viser at lærerne blant annet opplever å få lite
-ny informasjon fra Elevundersøkelsen. Det er heller i stedet gjennom kjennskapen til elevene og
-relasjonene til dem at lærerne hadde oversikt over
-styrker og svakheter i læringsmiljøet (Svanæs
-mfl., 2022).
-I Rambøll-undersøkelsen oppgir 26 prosent av
-lærerne i grunnskolen at de bruker andre kilder
-enn innholdet i dagens kvalitetsvurderingssystem i
-arbeidet med å vurdere og bedre elevenes skolemiljø og læringsutbytte de siste tolv månedene.
-Eksempler lærere nevner er blant annet ikke-anonyme læringsmiljøundersøkelser (Rambøll, 2023a).
-I delinnstillingen peker utvalget på at det finnes
-flere ikke-anonyme undersøkelser utviklet av private aktører som skoler bruker for å kartlegge
-hvordan elevene opplever skolemiljøet. Noen kartlegger relasjonene elevene imellom, mens andre
-kartlegger relasjoner mellom elevene og de ansatte
-(NOU 2023: 1).
-Bruken av ikke-anonyme undersøkelser i
-arbeidet med elevenes skolemiljø reiser flere problemstillinger blant annet knyttet til elevenes personvern (Prop. 145 L (2020–2021)).
+Både Forandringsfabrikken og Elevorganisasjonen peker på behovet for å konkretisere og tydeliggjøre elevenes rolle og muligheter for medvirkning i kvalitetsutviklingsarbeidet i skolen. Elevorganisasjonen mener at for å kunne gjennomføre en god elevmedvirkning trenger elevene å vite hvordan og hvorfor.
 
 Lærere
-Samspillet og gode relasjoner mellom elevene og
-lærerne er viktige for elevenes utvikling. Arbeidet
-med å skape trygge og gode skolemiljøer foregår
-hovedsakelig i de daglige møtene mellom elevene
-og lærerne. Gjensidig tillit og positive relasjoner
-er avgjørende for at de voksne skal kunne oppdage om elever ikke har det trygt og godt, og for å
-kunne samtale med elevene om skolemiljøet
-deres. Samtaler med elevene er viktige i alle
-delene av det systematiske skolemiljøarbeidet.
-Forskere nasjonalt og internasjonalt peker på
-at lærerne har behov for konkret informasjon om
-elevene og deres kontekst og situasjon, for
-eksempel om hvordan elevene har det på skolen
-(Skedsmo, 2022).
-Flere av innspillene utvalget har fått viser at
-skolene i dag har et stort tilfang av informasjon.
-Det kommer også fram at den viktigste informasjonen lærerne bruker i kvalitetsutviklingsarbeidet og i arbeidet med elevenes skole- og lærings-
+
+Lærerne har det faglige ansvaret for elevenes opplæring (NOU 2023: 1) og er avgjørende for elevenes læringsmiljø og for at elevene lærer og utvikler seg i skolen (Overordnet del – verdier og prinsipper for grunnopplæringen). Lærerne er også sentrale aktører i kvalitetsutviklingsarbeidet i skolene som del av skolenes profesjonsfellesskap (Hovdenak, 2014). Lærerne og kompetansen de har er viktig for å lykkes med kvalitetsutviklingsarbeidet.
+
+Det er fastsatt egne kompetansekrav for de som skal ansettes i en lærerstilling i skolen, og egne krav om at ansatte som skal undervise, skal ha relevant kompetanse i fagene de skal undervise i, jf. opplæringsloven §§ 17-3 og 17-4 (Innst. 442 L (2022–2023)). Det finnes flere lærerutdanninger som kvalifiserer lærere for arbeid i skolen, blant annet grunnskolelærerutdanningene og de samiske grunnskolelærerutdanningene 1–7 og 5–10, lektorutdanning og praktisk-pedagogisk utdanning (PPU) (NOU 2022: 13).
+
+Til delinnstillingen fikk utvalget flere innspill om at en god grunnutdanning, et godt tilbud om etter- og videreutdanning og at det blir lagt praktisk og økonomisk til rette for at lærere og skoleledere får tilbud om kompetanseutvikling, er av stor betydning for å kunne få til et godt kvalitetsutviklingsarbeid i skolene (NOU 2023: 1).
+
+Det er store forskjeller når det kommer til lærernes kompetanse i skolene i dag (NOU 2023: 1). Det er mange elever som hver dag blir undervist av ansatte uten godkjent lærerutdanning eller kompetanse for å undervise, og lærerdekningen er ujevnt fordelt over landet (NOU 2022: 13).
+
+En forutsetning for å kunne ta i bruk et bredt kunnskapsgrunnlag i kvalitetsutviklingsarbeidet er at de ansatte i skolene har den formelle kompetansen som trengs for å endre og utvikle egen undervisning- og vurderingspraksis i fag. I denne sammenhengen er det en utfordring at det fortsatt er mange lærere som ikke har godkjent utdanning, og som ikke oppfyller kompetansekravene for å bli ansatt og for å undervise, både i grunnskolen og i den videregående opplæringen (NOU 2023: 1).
+
+Mangel på kvalifiserte lærere i skolene har vært gjenstand for både forskning og debatt det siste tiåret. Det er en stor utfordring for utdanningsmyndighetene, lærerutdanningene og skoleierne å rekruttere lærere og forhindre at nyutdannede lærere slutter i yrket (Nesje, 2014).
+
+Analyser fra den internasjonale undersøkelsen TIMSS 2015 viste at lærere med høy og relevant kompetanse bidrar til å utjevne prestasjonsforskjeller mellom elever med lav og høy sosio-økonomisk status (Bergem mfl., 2016). I nyere svensk og dansk forskning finner forskere en tydelig effekt av lærernes formelle kompetanse og lærererfaring på elevenes kompetanse (Johansson mfl., 2023; De Økonomiske Råd, 2022).
+
+Kompetanse hos lærere i kvalitetsutviklingsarbeidet handler om evnen til å se elevene, hva de trenger for å trives og utvikle seg faglig og sosialt, kunne legge til rette for god elevmedvirkning og lede og utvikle det faglig-pedagogiske arbeidet. Lærerne skal også etablere og opprettholde et godt samarbeid med foreldrene.
+
+Et prosjekt om elevmedvirkning viser at lærere samlet sett har en positiv holdning til elevmedvirkning. Det blir samtidig pekt på et behov for å gjøre en gjennomgående innsats for å utvikle kompetansen og innsikten i elevmedvirkning hos elevene, lærerne, skolelederne og skoleeierne (Faannessen mfl., 2022). I undersøkelsen Rambøll har gjennomført for utvalget oppgir lærerne særlig å ha behov for støtte og veiledning i hvordan de skal involvere elevene i tolking av resultater fra prøver og undersøkelser (Rambøll, 2023a).
+
+En forutsetning for å lykkes med elevmedvirkning er at elevene opplever et trygt og godt skolemiljø. Lærerne er viktige i arbeidet med å etablere og opprettholde gode relasjoner mellom elevene, og mellom elevene og lærerne (Faannessen mfl., 2022). I en undersøkelse av lærernes forståelse av egen kompetanse, trekker lærerne fram sosial kompetanse og deretter kompetanse i klasseledelse, som viktige for yrkesutøvelsen. Dette knytter forskerne til at lærerne anser oppgaver som oppfølgingen av de sosiale og relasjonelle sidene ved elevenes skolesituasjoner, men også samarbeidet og kontakten med foreldrene, som viktige for profesjonsutøvelsen (Christensen og Godø, 2021).
+
+I det faglig-pedagogiske arbeidet er kunnskap om vurdering en helt sentral kompetanse for lærerne. Lærerens vurderingskompetanse er nært knyttet til fagdidaktisk kompetanse, læreplanforståelse og klasseromserfaring. Å ha vurderingskompetanse handler om praksis og hvordan lærerne forstår og operasjonaliserer læreplaner og vurderingsforskrifter, hvordan de tolker hensikten med vurderingene, og hvordan disse tolkingene blir systemer og rutiner på en skole (Fjørtoft og Sandvik, 2016).
+
+Vurderingskompetanse er nødvendig for å kunne vurdere hva slags kompetanse elevene har og hvilket faglig nivå en elev befinner seg på. Det er også viktig for å kunne avgjøre hvilken støtte elevene trenger for videre læring, gi elevene vurderinger slik at den kommer seg videre i læringsarbeidet, og for å kunne igangsette nødvendige tiltak.
+
+Kapittel 3 i forskrift til opplæringsloven fastsetter at elevene har krav på å få vurderinger i fag som fremmer læring og bidrar til lærelyst underveis. Vurderingene skal gi elevene informasjon om egen kompetanse underveis og ved avslutningen av opplæringen i faget. Det er kompetansemålene som er grunnlaget for vurderingene i fag, og lærerne skal forstå kompetansemålene i lys av teksten om faget i læreplanen. I underveisvurderingen, som skjer før avslutningen av opplæringen, skal lærerne legge til rette for at elevene får delta i vurderingene av eget arbeid, og reflektere over egen læring og utvikling. Elevene skal forstå hva de skal lære og hva som er forventet av dem i faget. Elevene skal få vite hva de mestrer, og få tilbakemeldinger om hvordan de kan arbeide videre.
+
+Studier av vurderingspraksiser viser at blant skoler som har utviklet gode praksiser, kjennetegnes de ved at de tolker og anvender relevant informasjon om elevens læring og engasjerer elevene i vurderingsarbeidet. Disse skolene har også klare mål for opplæringen og gir konstruktive tilbakemeldinger som støtter læring. På den annen side opplever enkelte skoler utfordringer med å få dette til (Sandvik, 2019). Flere av innspillene til utvalget viser at lærere har behov for støtte, tid og rom til å gå inn i vurderingsarbeidet og fortolke resultater (NOU 2023: 1). Det samme behovet gjelder også for arbeidet med standpunktvurderingen. Forskere har pekt på at standpunktvurderingen i Norge kan betraktes som et anliggende for den enkelte læreren, den enkelte skolen og lærerens vurderingsstrategier. Studier har også pekt på betydningen av at det nettopp er lærerne som gjennomfører standpunktvurderingen for egne elever samtidig som disse studiene også viser at standpunktvurdering er et spenningsfylt og komplekst felt der det er behov for støtte, tid og samarbeid omkring det profesjonelle arbeidet med standpunktvurdering (Hovdhaugen mfl., 2018; Lundahl mfl., 2017; Tveit, 2014; Lødding mfl., 2016).
+
+Forskere har også pekt på at utvikling av vurderingskulturer i skolen bør rettes mot de faktiske utfordringene den enkelte læreren, skolelederne og skolen står overfor (Birenbaum, 2016). Mens noen skoler vil ha behov for å etablere ulike former for samarbeid om vurdering, vil andre ha behov for å utvikle vurderingspraksiser i fag. Uavhengig av behovet er det å ha en utforskende tilnærming til egen praksis identifisert som en nøkkelfaktor i skoler som lykkes med å utvikle vurderingskulturen (Postholm, 2018).
+
+Studier har vist at det vil styrke utviklingen av vurderingskulturer dersom satsingene blir knyttet til lærernes faglige kompetanse og undervisning i faget. Dagens læreplaner med kompetansemål i fag krever at lærerne har solid fagkompetanse og forstår vurdering ut fra fagenes egenart. Det krever også at lærerne behersker læreplananalyse og operasjonalisering i større grad enn i tidligere læreplaner (Sandvik, 2016). Flere programmer og tiltak i norsk skole knyttet til vurdering har hatt gode intensjoner, men vært for svakt koblet til skolefagene og læreplanene (Prøitz, 2013; Sandvik, 2019).
+
+I profesjonsfellesskapet arbeider lærerne sammen med skolelederne og deler kunnskap og erfaringer for å hjelpe hverandre med å videreutvikle undervisningspraksisen og dermed forbedre elevenes læring (Marzano mfl., 2016). Det er viktig at lærerne og skolelederne har kompetanse i å kunne kartlegge og fortolke kunnskapsgrunnlaget om lærernes og skolens praksis, og nyttiggjøre seg ulike funn og vurderinger for å videreutvikle kvaliteten på den faglig-pedagogiske praksisen (NOU 2022: 13). Rambøll-undersøkelsen viser at lærerne og skolelederne selv vurderer at de har tilstrekkelig kompetanse til å nyttiggjøre seg av informasjon fra prøver, verktøy og datakilder i kvalitetsutviklingsarbeidet. Samtidig opplever mange ikke å ha god kompetanse i å omsette abstrakte resultater (tall og prosent) til konkrete tiltak og bedre praksis (Rambøll, 2023a).
+
+I skolene blir digital teknologi tatt i bruk hver dag, og stadig flere lærere bruker digitale verktøy når de innhenter informasjon om elevenes ferdigheter og kompetanser. Ekspertgruppen for digital læringsanalyse peker på at bruk av læringsanalyse krever kompetanse innen kritisk vurdering, etikk og personvern og analysekompetanse (NOU 2023: 19). I undersøkelsen TALIS-2018 er digital teknologi det området der flest norske ungdomsskolelærere oppgir at de har behov for etter- og videreutdanning (Throndsen mfl., 2019). En undersøkelse Rambøll har utført for ekspertgruppen for digital læringsanalyse bekreftet også at de ansatte opplever utilstrekkelig digital kompetanse som et hinder for å utføre læringsanalyse i skolen (Rambøll, 2023b). Gode støttestrukturer i dette arbeidet er også avgjørende for at lærerne skal kunne utvikle kompetanse (Munthe mfl., 2022).
+
+I undersøkelsen Rambøll har gjennomført på vegne av utvalget oppgir majoriteten av lærerne at de har god analytisk kompetanse til å nyttiggjøre seg informasjon fra prøver, verktøy og datakilder på en god måte. Lærerne oppgir å hente støtte og veiledning i skolenes profesjonsfellesskap. De er i kvalitetsutviklingsarbeidet også avhengige av å ha en god prosesskvalitet i skolen. Lærerne oppgir at de har behov for mer støtte og veiledning i kvalitetsutviklingsarbeidet, blant annet knyttet til å drive med elevmedvirkning. I de kvalitative intervjuene forteller flere lærere og skoleledere at de analyserer resultatene, men at de ikke kommer videre med prosessen med å vurdere og bestemme tiltak for å forbedre kvaliteten. Dette kan henge sammen med opplevd relevans av resultatene, men det kan også handle om at skolene mangler en kultur for å arbeide konstruktivt i lærermøter med å gå fra analyse til tiltak (Rambøll, 2023a).
 
 Skoleledere
-Skolelederne har et overordnet ansvar for elevene
-på skolen. De skal lede, motivere og støtte lærerne
-i arbeidet, og samtidig fortolke, sammenstille, vurdere, informere og rapportere informasjon til foreldrene, andre skoleledere og til skoleeierne. Som
-vist i kapittel 6 er skoleledelse en forutsetning i
-kvalitetsutviklingsarbeid for at skolene skal være i
-stand til å omsette ny kunnskap og informasjon til
-et forbedret skolemiljø for elevene. Rambøllundersøkelsen viser at skolelederne har behov for
-informasjon om elevenes skolemiljø på et mer
-overordnet nivå enn det lærerne trenger (Rambøll, 2023a). Skolelederne legger i størst grad
-vekt på tilbakemeldinger fra elevene og lærerne
-når de vurderer skolenes arbeid, etterfulgt av tilbakemeldinger fra skoleeierne, foreldrene og støttefunksjoner som for eksempel PP-tjenesten
-(NOU 2023: 1). For arbeidet med skolemiljøet kan
-også informasjon fra andre som er i kontakt med
+
+Skolelederne har en viktig rolle i kvalitetsutviklingsarbeidet gjennom å lede lærernes arbeid med å legge til rette for at alle elevene trives og utvikler seg faglig og sosialt, og gjennom å ha ansvaret for å lede og utvikle profesjonsfellesskapet i skolene. Det er fastsatt i opplæringsloven § 17-2 at alle skoler skal ha en faglig, pedagogisk og administrativ forsvarlig ledelse, og at alle skoler skal ledes av en rektor som har pedagogisk kompetanse.
+
+Opplæringsloven viderefører ikke kravet i tidligere lov om at rektor også skulle ha ledelseskompetanse. Sammen med kravet om at rektor skal ha pedagogisk kompetanse, står det at rektor skal ta del i den daglige virksomheten og arbeide med å utvikle virksomheten. Det er ikke lovregulert hva slags pedagogisk kompetanse som er relevant eller tilstrekkelig for at rektor skal kunne utføre rollen sin og ansvaret sitt. I overordnet del framkommer det at skolelederne har ansvaret for å gi retning og tilrettelegge for elevenes og lærenes læring og utvikling. Skolelederne skal som ledere av profesjonsfellesskapet, lede det faglig-pedagogiske arbeidet, og lede slik at alle får brukt de sterke sidene sine, opplever mestring og utvikler seg. Overordnet del trekker fram at dette krever ledelsesfaglig legitimitet, god forståelse for utfordringer som lærerne og andre står overfor, tillit til prioriteringer av samarbeid og relasjoner for å bygge tillit i organisasjonen.
+
+Det er skoleeierne som skal sikre nødvendig og riktig kompetanse i skolene. Det er også klare forventninger til at skolelederne i skolene initierer og leder kompetanseutviklingen i de enkelte skolene, og av og til mellom skoler (NOU 2022: 13).
+
+For å skape en skole hvor elevmedvirkning og demokratiske prosesser er en naturlig del av elevens opplæring og hvor det blir lagt til rette for utforskende prosesser som skaper endring, blir det pekt på at skolelederne og skoleeierne må sette elevmedvirkning på agendaen og legge til rette for utvikling av kompetanse om elevmedvirkning for alle aktører i skolen (Dehlin og Jones, 2021; Faannessen mfl., 2022).
+
+Flere studier finner at skoleledernes kompetanse og kapasitet knyttet til vurderings- og utviklingsprosesser betyr mye for hvor godt skolene lykkes i å få til læringsfremmende praksiser og å utvikle skolene (Charteris og Smardon, 2022; Hargreaves og O’Connor, 2018; Hopfenbeck mfl., 2015). Studier viser også at skolenes ledelse er avgjørende for et godt læringsmiljø (Robinson mfl., 2008).
+
+Skolelederne har også behov for å forstå hvordan vurdering fungerer, hva formålet med vurderingssituasjonen er, hvordan avgjørelser tas på grunnlag av vurderinger og hvilke konsekvenser dette kan få for elevene og andre i skolen (Fjørtoft og Sandvik, 2016).
+
+En litteraturgjennomgang framhever skoleledernes betydning for kvaliteten på lærernes samarbeid og for lærerens kompetanse til å fortolke, vurdere og ta i bruk informasjon for å fremme elevers læring (Hoogland mfl., 2016). I en annen forskningssammenstilling om skolelederes bruk av elevresultater argumenterer forskerne for at elevresultater bør ses i et prosessperspektiv som tar hensyn til skolekonteksten, og at kompetansen i å bruke elevresultater må tilpasses formålet med bruken på ulike nivåer i skolen (Hornskov mfl., 2015).
+
+Skolelederne opplever å ha behov for kompetanse og kapasitet til å nyttiggjøre seg av informasjon for å arbeide med kvalitetsutvikling i skolene, og de opplever dilemmaer i arbeidet med å prioritere og planlegge skolenes arbeid på kort og lang sikt, og å definere hva som er gode resultater (NOU 2023: 1).
+
+Rambøll-undersøkelsen viser at 71 prosent av skolelederne opplever å ha tilgang til den kompetansen de trenger for å nyttiggjøre seg informasjonen fra dagens kvalitetsvurderingssystem. Skolelederne som har gjennomført rektorutdanningen oppgir i noe høyere grad at de er enige i dette. Skolelederne vurderer også egen kompetanse i å omsette informasjonen til konkrete tiltak som lavere enn egen kompetanse i å fortolke og vurdere informasjonen og skape gode prosesser rundt kvalitetsutviklingsarbeidet. De framhever samlet sett behov for mer kompetanse og støtte til å fortolke resultater, sette i gang tiltak og evaluere om arbeidet fører til mer systematisk arbeid med kvalitetsutvikling (Rambøll, 2023a).
+
+Skolelederne er viktige for å skape forståelse omkring hvordan informasjonen fra kvalitetsvurderinger kan tilrettelegges og gjøres nyttige i det faglig-pedagogiske kvalitetsutviklingsarbeidet og til bruk for styring (Ekspertgruppe om lærerrollen, 2016). Utvalget har i kapittel 5 beskrevet hvordan utviklingen av en kollektiv samarbeidskultur, og evnen til å tilrettelegge for medvirkning og samarbeid hvor det skapes gode dialoger om kvalitetsutviklingsarbeidet, er en forutsetning for å lykkes med kvalitetsutviklingsarbeidet over tid. I dette arbeidet er også skoleledernes kompetanse i å lede prosesser for kvalitetsutvikling viktig.
+
+I undersøkelsen TALIS-2018 svarer hver femte rektor for ungdomstrinnet at de har et stort behov for å bedre kompetansen sin i lokalt læreplanarbeid. Om lag like mange svarer at de har et stort behov for bedre kunnskap om å observere undervisningen, hvordan de kan fremme samarbeid mellom lærerne samt å kunne gi konstruktive tilbakemeldinger (Carlsten mfl., 2020).
+
+I en undersøkelse gjennomført for Skolelederforbundet oppgir mellomlederne at de innenfor et sett forhåndsdefinerte kompetansekategorier, har et stort behov for kompetanse om konflikttemaer, juridiske temaer og veiledning og gjennomføring av krevende personalsamtaler. Forskere peker på at dette er kjente temaer fra lederopplæring og lederutdanninger (Paulsen og Hjertø, 2021).
+
+Skoleeiere
+
+Tilstrekkelig og relevant kompetanse for kvalitetsutvikling hos skoleeierne er en viktig forutsetning for å lykkes med kvalitetsutviklingsarbeidet. Skoleeierne skal arbeide for å holde ved lag og heve kvaliteten i grunnskoleopplæringen og i den videregående opplæringen, jf. opplæringsloven § 17-12. Dette ansvaret innebærer blant annet at skoleeierne sørger for at skolene jevnlig vurderer i hvilke grad organiseringen, tilretteleggingen og gjennomføringen av opplæringen medvirker til å nå de målene som er fastsatt i læreplanverket.
+
+Opplæringsloven stiller krav om at det skal være skolefaglig kompetanse i kommune- og fylkeskommuneadministrasjonen (Innst. 442 L (2022–2023)). Det er ikke spesifisert nærmere i loven hva som ligger i skolefaglig kompetanse for skoleeierne. I forarbeidene blir kompetansen satt i sammenheng med evnen til å drive systematisk utviklingsarbeid, koordinering, partssamarbeid, kvalitetsvurdering, kompetanseutvikling og regelverksetterlevelse i skolen (Prop. 57 L (2022–2023)).
+
+Viktigheten av at skoleeierne har skolefaglig kompetanse i kvalitetsutviklingsarbeidet er synliggjort i opplæringsloven gjennom at kravet til skolefaglig kompetanse hos den administrative skoleeieren er flyttet inn i kvalitetsutviklingsbestemmelsen (§ 17-12). Kravet er også utvidet til å gjelde for fylkeskommuneadministrasjonen, som har ansvaret for den videregående opplæringen (Innst. 442 L (2022–2023)). Et slikt krav skal gjøre det tydelig hvilke forventninger nasjonale myndigheter har når det gjelder skoleeiernes plikter knyttet til kompetanse- og kvalitetsutvikling (Prop. 57 L (2022–2023)).
+
+Skoleeierne har en viktig rolle i kvalitetsutviklingsarbeidet gjennom å ha ansvaret for grunnopplæringen. De skal også legge til rette for og bidra med støtte til skolelederne i arbeidet med å utvikle kvalitet i opplæringen. Skoleeierne har blant annet behov for kompetanse til å innhente, fortolke og sammenstille kvalitativ og kvantitativ informasjon og for å kunne støtte skolelederne i arbeidet på den enkelte skolen (NOU 2023: 1).
+
+I Rambøll-undersøkelsen oppgir de aller fleste skoleeierne å ha kompetanse i å tilrettelegge for gode møteplasser for erfaringsdeling om kvalitetsutvikling mellom skolelederne på tvers av skoler. Skoleeierne vurderer likevel egen kompetanse i å omsette informasjon til konkrete tiltak for videreutvikling av kvaliteten i opplæringen som noe lavere enn egen kompetanse i å fortolke og vurdere informasjon, og å skape gode prosesser rundt arbeidet med denne (Rambøll, 2023a).
+
+Tillit og samarbeid mellom aktørene er et viktig prinsipp for kvalitetsutviklingssystemet. Forskere har pekt på at kompetanse er en viktig komponent i et tillitsbasert forhold (Tschannen-Moran, 2001). Forskerne viser også til at det er mye som er omfattet av skoleeiernes rolle og ansvar, og at skoleeierne må ha kompetanse innenfor mange områder som blant annet læreplan, vurdering, ledelse, rettsvitskap og utdanningspolitikk (Paulsen og Henriksen, 2017).
+
+Utvalget har mottatt flere innspill som peker på behovet for at det er nok ansatte med relevant faglig kompetanse hos skoleeierne blant annet for å kunne settes i stand til å følge med på og å følge opp skolene i kvalitetsutviklingsarbeidet. I dag har skoleeierne ulike forutsetninger for å lykkes med å støtte og følge opp skolene i tråd med ansvaret de har. Enkelte kommuner har store administrasjoner som kan støtte laget rundt rektorene, mens andre ikke har dette (NOU 2023: 1).
+
+Det er skoleeierne som er ansvarlige for at skolene har den nødvendige og riktige kompetansen de trenger for å drive kvalitetsutviklingsarbeid. Kommunene og fylkeskommunene skal, jf. opplæringsloven § 17-8, sørge for at de som er tilsatt i lærerstilling, rektor og andre ansatte i skolen får anledning til å utvikle seg faglig og pedagogisk slik at de kan være på høyden med utviklingen i skolen og samfunnet. Ekspertgruppen for skolebidrag fant at skoleeierne som lykkes i å drive et godt kvalitetsutviklingsarbeid, også prioriterte kompetanse- og profesjonsutvikling i skolen, slik at arbeidet i skolen var kunnskapsbasert (Ekspertgruppe for skolebidrag, 2020).
+
+Gode strukturer og prosesser er nødvendig for å utøve et godt kvalitetsutviklingsarbeid. Dette gjelder også for arbeidet med å sikre relevant og tilstrekkelig kompetanse i skolene. I kvalitetsdialogene vil informasjon om kompetansen til de ansatte i skolene og eventuelle kompetanseutviklingsbehov for å arbeide med kvalitetsutvikling, være aktuell informasjon å ta inn i dialogene. Dette vil kunne gi grunnlag for å vurdere behov og bedre målrette kompetanseutviklingen i skolene (NOU 2022: 13).
+
+Nasjonale myndigheter
+
+Nasjonale myndigheter har det overordnede ansvaret for å legge til rette for og se sammenheng mellom, tilbud om og etterspørsel etter kompetanseutvikling. Etter- og videreutdanning er et av flere virkemidler som nasjonale myndigheter bruker for å oppfylle nasjonale målsetninger, og til å utforme politikk innenfor kompetanseutviklingsfeltet. Krav i regelverket til bemanning og kompetanse er andre virkemidler. Disse virkemidlene er juridiske og har vært førende for utformingen av økonomiske og pedagogiske virkemidler for kompetanseutvikling (NOU 2022: 13).
+
+Statsforvalteren er et viktig bindeledd mellom kommunene, fylkeskommunene og øvrige nasjonale myndigheter, og fører tilsyn med kommunene og fylkeskommunene som skoleeiere. I tillegg forvalter også statsforvalterne tilskuddsordningen for lokal kompetanseutvikling i barnehage og grunnopplæringen.
+
+I en evaluering av tilsyn på blant annet opplæringsområdet i perioden 2014 til 2021, framgår det at statsforvalternes kompetanse må være god, spesielt med tanke på juridisk kompetanse kombinert med skolefaglig kompetanse, for at kommunene og fylkeskommunene skal oppleve tilsynet som relevant (Deloitte, 2022).
+
+Universitets- og høgskolesektorens rolle
+
+Universitets- og høgskolesektoren har ansvaret for å utdanne lærere. Gjennom forskning er de en kunnskapsleverandør til sektoren, samtidig som de også er tjenesteleverandør gjennom å utvikle og tilby ulike prøver og verktøy. Dette er roller som utfyller og overlapper hverandre, og som også kan komme i konflikt med hverandre.
+
+Lærerutdanningene
+
+Lærerutdanningsinstitusjoner har stor innvirkning på kvaliteten i opplæringen gjennom å kvalifisere studenter til læreryrket, og som tilbydere av etter- og videreutdanning for ansatte i skolene. Det er flere utdanningsløp i Norge som kvalifiserer til å bli lærer i tråd med kravene i forskrift til opplæringsloven. Til hver av lærerutdanningene er det utformet forskriftsfestede rammeplaner som blant annet beskriver hvilket læringsutbytte studentene skal ha etter fullført utdanning.
+
+Universiteter og høgskoler som tilbyr lærerutdanninger, skal legge til rette for at utdanningene og den enkelte lærerens videre praksis bygger på forsknings- og utviklingsarbeid og erfaringsbasert kunnskap. Utdanningene skal også forberede studentene for kontinuerlig profesjonell utvikling, og å kvalifisere dem til å videreutvikle skolene som institusjoner for danning og læring i et demokratisk og et mangfoldig og flerkulturelt samfunn (Kunnskapsdepartementet, 2020).
+
+En viktig del av lærerutdanningene er å utvikle framtidige læreres kompetanse til å fortolke og vurdere kunnskap og informasjon om den faglig-pedagogiske praksisen og ta profesjonelle beslutninger. Denne kompetansen handler blant annet om å forstå sammenhengen mellom læreplanene og vurdering (Xu og Brown, 2016), og fortolke og ta i bruk kunnskap og informasjon om elevenes læring og skolemiljø for å tilpasse opplæringen (Pastore og Andrade, 2019). Det handler også om å håndtere formålene med vurdering i fag (Looney mfl., 2018).
+
+Imidlertid viser studier at det er svakheter i utviklingen av lærernes kompetanse i å fortolke og vurdere kunnskap og informasjon om praksisen i klasserommet, og å ta profesjonelle beslutninger basert på disse vurderingene (Datnow Hubbard, 2016; Sandvik, 2019). Særlig har det blitt pekt på lærerutdanningenes utfordringer med å sørge for at lærerstudentene utvikler tilstrekkelig vurderingskompetanse (NOKUT, 2020; Wiggen, 2022; Jenset, 2018).
+
+Eksamensgruppa og utvalget for fremtidens skole pekte også på at lærere ikke nødvendigvis får tilstrekkelig opplæring gjennom lærerutdanningene i hva som skal til for å sikre god kvalitet i vurderingen av elevenes sluttkompetanse (Eksamensgruppa, 2019; NOU 2015: 8). Studier viser at noen av utfordringene er knyttet til at lærerutdanningsinstitusjonene og praksisfeltet har ulike oppfatninger om hva som kjennetegner en god lærerutdanning, og at samarbeidet mellom de to aktørene har vært svakt (Munthe, 2020).
+
+Andre studier peker på at ulike oppfatninger og et uklart samarbeid kan føre til at studentene opplever motsetninger mellom det de erfarer og lærer på campus, og det de erfarer og lærer i praksisperiodene i skolene. Det kan også føre til at lærerstudentene ikke utvikler en grunnleggende vurderingskompetanse, fordi det ikke er en systematisk tilnærming til utviklingen av denne kompetansen innen de ulike fagene i lærerutdanningen (Fjørtoft og Sandvik, 2016).
+
+Tilskuddsordningen for lokal kompetanseutvikling
+
+Forskning har understreket betydningen av å knytte kompetanseutviklingstiltak i skolene tett til arbeidsplassen for å sikre relevans for det faglig-pedagogiske arbeidet og for skoleledernes praksis. Det blir også sett på som vesentlig å etablere slike tiltak gjennom partnerskap med universiteter og høgskoler (Postholm, 2018).
+
+Dette har blitt fulgt opp og tatt inn som et skifte i nasjonale myndigheters styring og strategiske tenkning rundt kompetanseutvikling i skolene. Betydningen av nettverksstyring, lokal involvering, partnerskap, samarbeid og kunnskapsbasering har stått sterkt de siste årene (Fossestøl mfl., 2021).
+
+Tilskuddsordningen for lokal kompetanseutvikling i barnehage og grunnopplæring er ment å tilby kompetanseutviklingstiltak til lærere, skoleledere og øvrige ansatte i skolen. Ordningen bygger på partnerskap mellom skoleeier og universitet eller høgskole, regionale kompetansenettverk som gode arenaer for utvikling av partnerskap, og samarbeidsforum for prioritering av tiltak i lys av en langsiktig felles plan. Nasjonale myndigheter, gjennom statsforvalterne, har en aktiv rolle i arbeidet blant annet i samarbeidsforumene og som tilskuddsforvalter (Utdanningsdirektoratet, 2023g).
+
+Ved å strukturere et tettere samarbeid mellom lærerutdanningsinstitusjonene, skoleeierne og praksisfeltet er målet å styrke kompetanseutviklingen og oppnå en mer målrettet og relevant tilnærming. Det skal også gjøre det mulig å vurdere kompetansebehovene grundig, planlegge effektive tiltak, og gjennomføre dem på en målrettet måte. Flere studier har vist at viktige forutsetninger for å lykkes med kompetanseutviklingstiltakene er at tiltakene er nøye tilpasset lokale behov i skolene, kommunene og fylkeskommunene. I partnerskapene er man også avhengig av å etablere en felles enighet om roller, rettigheter og ansvar for å utvikle solide relasjoner mellom aktørene i skolesektoren og aktørene i universitet- og høgskolesektoren. Likeverdighet mellom aktører blir ansett som en nødvendighet for et bærekraftig partnerskap (Lillejord og Børte, 2014; Smith, 2016; Prøitz og Rye 2023).
+
+Evalueringene av tilskuddsordningen viser at aktørene samlet sett er positive til formålet med ordningen, og særlig framhever potensialet i partnerskapet mellom skoleeierne og universitets- og høgskolesektoren. Det blir imidlertid pekt på utfordringer når det gjelder forankringsprosesser, behovsanalyser og samarbeidet i partnerskapene. Særlig er de lokale aktørene bekymret for at det blir for mange standardiserte løsninger, og for at universitets- og høgskolemiljøer har manglende kompetanse og interesse i møtene med skolene og skoleeiernes utfordringer og behov. Det blir også pekt på manglende medbestemmelse i ordningene, til tross for at dette er et krav, og at det er et sprik mellom skoleledernes og tillitsvalgtes opplevelse av medbestemmelse. Jo nærmere de tillitsvalgte i skolene man kommer, desto større er skepsisen til om ordningen er en god måte å drive kompetanseutvikling på (Fossestøl mfl., 2021).
+
+Forskere peker på at i arbeidet med lokal kompetanseutvikling, bør de nye samarbeidsformene mellom skolene og universitetene og høgskolene i Norge betraktes som omfattende organisasjonsutviklingsprosjekter som vil påvirke både universiteter, høgskoler, skoleeiere og skoler, og som vil stille nye krav til både lærerne og skolelederne i organisasjonene. Universitetene og høgskolene spiller en viktig rolle i å sikre at erfaringene fra partnerskapene styrker lærerutdanningenes kvalitet og relevans (Smith, 2016).
+
+Offentlig ph.d.-utdanning
+
+I rammeplanene for grunnskolelærerutdanningene framgår det at utdanningene skal bidra til kritisk refleksjon, samtidig som de skal kvalifisere for en profesjonsutøvelse som bygger på forsknings- og erfaringsbasert kunnskap.
+
+Tradisjonelt har kunnskap i skolene vært erfaringsbasert, mens initiativer fra nasjonale myndigheter de siste ti årene har vektlagt å styrke den forskningsbaserte kunnskapen i skolesektoren. Forskningen har også tradisjonelt skjedd i miljøer utenfor skolene, og har ofte studert skolene som fenomen framfor hva som skjer i skolene, og med svak forankring i skolene (Prøitz og Aasen, 2017; Aasen og Rye, 2013).
+
+Det har i de senere årene vært satset på å knytte kompetanseutvikling i større grad til praksiser som virker i klasserommet og i skolene. I 2014 ble offentlig sektor-ph.d. for lærere etablert, hvor ansatte i skolene kan ta en doktorgrad forankret i praksis. Formålet med offentlig ph.d.-ordningen er tredelt. Det er et samarbeidsprosjekt mellom en offentlig virksomhet, et universitet eller en høgskole og en ph.d.-kandidat. Ordningen skal bidra til forskerkompetanse i offentlig sektor, utvikle relevant forskning og bidra til samarbeid mellom praksisfeltet og akademia (Fekjær mfl., 2022; Mausethagen mfl., 2021). Prosjektet skal være relevant for virksomhetens ansvarsområde, og bygge kunnskap og kompetanse som er relevant og anvendbar for virksomheten (Forskningsrådet, 2023).
+
+Et trekk ved denne ordningen er også at i motsetning til å være kollektivt orientert, slik mange kompetanseutviklingstiltak har vært i Norge de senere årene, er dette et individorientert kompetansetiltak (Fekjær mfl., 2022).
+
+Forskere peker på at en offentlig ph.d.-ordning åpner for nye muligheter for skoleutvikling, ikke bare for lærere, men også for skoleledere og skoleeiere. Ordningen synes å fungere relativt bra i Norge. Samtidig er ordningen ny, og det er lite kunnskap om forskerkompetansen ph.d.-kandidatene utvikler og oppnår, og om kunnskapsutviklingen som skjer brukes i skoleutviklingsprosesser. Det er også noen utfordringer ved at det er mange og dels uklare forventninger og roller knyttet til ordningen, og til spørsmålet om hvordan kandidatene skal bruke sin nye kompetanse i praksis etter fullført grad (Fekjær mfl., 2022; Mausethagen mfl., 2021).
+
+Det er også lite kunnskap om hvilke stillinger og ansvarsoppgaver kandidatene får etter ph.d.-studiet. De fleste med lærerbakgrunn som tar en doktorgrad, går inn i stillinger ved universiteter og høgskoler. Det er samtidig tydelig at det er et stort potensial for kompetanse- og kunnskapsutvikling i skolene når kompetanseutviklingen skjer hos kandidater som allerede er i skolene, gjennom at kompetansen de opparbeider seg spres blant kollegaer. Det er i dag et krav om at temaet for ph.d-en skal være praksisforankret, og mange velger å studere egen skole og praksis. Ordningen styrker også at det er lærerne som kan drive skoleutviklingsarbeidet. For at ordningen skal gi et reelt bidrag til å utvikle skolene, er man avhengig av at det skapes stillinger som sikrer at kompetansen kommer til nytte i skolene (Fekjær mfl., 2022).
+
+Utdanning og kompetanseutvikling hos skoleledere og skoleeiere
+
+Som en del av en økt profesjonalisering av aktørene i skolene, har det blitt satset mye på utdanning og kompetanseutvikling innen ledelse fra begynnelsen av 2000-tallet (Møller, 2016). Det er i dag flere utdannings- og videreutdanningstilbud rettet mot skolelederne.
+
+Utvalget for etter- og videreutdanning i barnehage og skole peker på at lederrollen i skolene stadig blir mer kompleks, og at skoleledernes kompetanse i kvalitetsutvikling blir utfordret i takt med dette. Utvalget viser til at det derfor også er viktig at skolelederne har gode muligheter for å utvikle kompetansen sin, blant annet i samarbeid med lederkollegaer og ved å ha gode kompetanseutviklingstilbud (NOU 2022: 13).
+
+Siden 2009 har nasjonale myndigheter finansiert den nasjonale rektorutdanningen, som er et videreutdanningstilbud for skoleledere i grunnskolen og i den videregående opplæringen. En av hovedmålsettingene med utdanningen er å gi skolelederne kompetanse til å lede og kompetanse i skoleutvikling. Siden 2018 har nasjonale myndigheter også finansiert modulbaserte utdanninger for rektorer og andre skoleledere som har fullført rektorutdanningen. En av modulene som tilbys er ledelse av utviklings- og endringsarbeid (Aamodt mfl., 2019).
+
+Evalueringer av rektorutdanningen viser at de som har fullført utdanningen, opplever større trygghet i rollen som leder. Deltakerne rapporterer om at egen lederpraksis ikke lenger bare er basert på skjønn og erfaring, men også på teori og forskning. Dette opplever de gir økt trygghet og bidrar til endring i ledelsespraksis (Hybertsen mfl., 2014; Aamodt mfl., 2019).
+
+Selv om det er utfordrende å måle i hvilken grad utdanningen fører til nye ledelsespraksiser som igjen forbedrer elevenes læring (Aas mfl., 2021), er det gjennomført undersøkelser som tyder på at utdanningen indirekte har bidratt til å styrke kvaliteten på mange norske skoler.
+
+Skoleledere som har gjennomført rektorutdanningen, oppgir i høyere grad enn andre skoleledere at de har tilgang på kompetansen de trenger for å nyttiggjøre seg informasjonen fra prøver, undersøkelser, datakilder og verktøy på en god måte (Rambøll, 2023a).
+
+Det finnes i dag ikke et nasjonalt utviklet utdanningstilbud til skoleeier, slik den nasjonale rektorutdanningen er for skoleledere. En av målsettingene med den nasjonale rektorutdanningen er riktignok å koble skoleeiere til utdanningstilbudet. Det er blant annet vanlig at skoleeiere inviteres til å delta på noen av studiesamlingene. Evalueringene av rektorutdanningen viser imidlertid at utdanningen ikke har lykkes med å involvere skoleeierne etter intensjonen (Aamodt mfl., 2019).
+
+## Utvalgets vurderinger og forslag
+
+Utvalget mener at det er behov for ulike former for kompetanseutviklingstiltak for å sikre at elevene, lærerne, skolelederne og skoleeierne har et tilstrekkelig faglig grunnlag for å delta i og drive et systematisk kvalitetsutviklingsarbeid.
+
+Utvalget mener at en forutsetning for å delta i kvalitetsutviklingsarbeidet er at lærerne i skolene har den formelle kompetansen som er påkrevd til ansettelse og undervisning i fag. Selv om flere lærere har grunnutdanning og kompetanse i fagene de underviser i, mener utvalget at det fremdeles er for mange ansatte som underviser og vurderer i fag som mangler pedagogisk utdanning eller fordypning i undervisningsfagene. Utvalget mener at ansatte uten relevant faglig og pedagogisk kompetanse, vil ha svakere forutsetninger for å kunne delta i profesjonsfelleskapet og i kvalitetsutviklingsarbeidet i skolene.
+
+De ansatte i skolene og hos skoleeierne er den største ressursen en skole, kommune og fylkeskommune kan ha. Å videreutvikle relevant kompetanse innenfor flere områder hos de ansatte vil være avgjørende for at skolene, kommunene og fylkeskommunene skal få til kvalitetsutvikling.
+
+Lærerutdanningene
+
+Lærerutdanningene, universitetene og høgskolene har en avgjørende rolle i arbeidet med å kvalifisere og utvikle kompetanse til å drive kvalitetsutvikling blant lærere. Når det gjelder utviklingen av lærerstudenters vurderingskompetanse, legger utvalget vekt på viktigheten av å forstå sammenhengen mellom læreplan og vurdering, ulike vurderingsformer, og å fortolke og bruke informasjon om elevenes læring og skolemiljø for å tilpasse opplæringen, i tillegg til å håndtere de mange formålene med vurdering i skolen.
+
+I Norge har det vært satset på å utvikle lærernes vurderingskompetanse gjennom blant annet satsingen *Vurdering for læring*. Lærerutdanningene har en viktig rolle i å sikre at lærerstudentene har tilstrekkelig kompetanse i sluttvurdering, og til å delta og ta ansvar i kvalitetsvurderings- og kvalitetsutviklingsarbeidet i klasserommene og i profesjonsfellesskapet. Det har blitt pekt på lærerutdanningenes utfordringer med å sørge for at lærerstudentene utvikler tilstrekkelig vurderingskompetanse (Jenset, 2018; NOKUT, 2020; Wiggen, 2022). Utvalget mener det er svært viktig at lærerstudentene får utviklet sin kompetanse i sluttvurdering gjennom lærerutdanningen. Utvalget foreslår derfor at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i kvalitetsutvikling, slik at de kan bidra aktivt i kvalitetsutviklingsarbeidet i skolene. Utvalget foreslår også at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i sluttvurdering. Forslagene må ses i sammenheng med det pågående arbeidet i ekspertgruppen som skal se på rammeplanstyringen av lærerutdanningene. Utvalget mener det er behov for å iverksette tiltak som sikrer en systematisk tilnærming til kompetanse innen kvalitetsutvikling i lærerutdanningene. Dette må komme tydelig til uttrykk gjennom omtale i rammeplanene for de ulike lærerutdanningene.
+
+Veiledning og støtte i standpunktkaraktersettingen
+
+I Norge utgjør standpunktkarakterene om lag 80 prosent av karakterene på et vitnemål. Utvalget mener det er viktig å sikre en videreføring av og opprettholde den tilliten som lærerne har til å vurdere elevene ved avslutningen av opplæringen. For å videreføre og opprettholde tilliten til de vurderingene lærerne gjør, og dermed kvaliteten på informasjonen standpunktkarakterer gir, mener utvalget at det er et mål at bare lærere med kompetanse i faget skal kunne sette standpunkt- og eksamenskarakterer. Denne målsetningen må ses i sammenheng med behovet for at alle lærere har tilgang på strukturer for dialog og samarbeid i arbeidet med å sette standpunktkarakterer. Dette beskriver utvalget nærmere i kapittel 8. Utvalget erfarer at det i dag ikke er tilstrekkelig tilgang på lærere som oppfyller lovens krav til kompetanse ved alle skoler. Mange steder ville det derfor ikke vært mulig å gi alle elevene standpunktvurdering dersom ikke ansatte i undervisningsstillinger som mangler formell lærerkompetanse, også utfører denne oppgaven. Utvalget vurderer derfor at det ikke er realistisk å stille krav om at alle som fastsetter standpunktkarakterer skal tilfredsstille kravene til ansettelse og undervisning, men mener det er behov for tiltak for å bidra til at elevene får likeverdige standpunktvurderinger gjennom å sørge for at lærerstudentene utvikler kompetanse i sluttvurdering. Utvalgets flertall, ved utvalgsmedlemmene Aaslid, Eira, Furulund, Hansen, Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandvik og Botterli Udnæs, foreslår at nyutdannede nytilsatte[^7] lærere skal få veiledning i arbeidet med å sette standpunktkarakterer som en del av kvalitetssikringen av standspunktkaraktersettingen. Utvalgets flertall foreslår videre at ansatte i undervisningsstillinger som ikke oppfyller kravene til tilsetting eller undervisning, skal sette standpunktkarakterer sammen med lærere som oppfyller kravene for tilsetting og undervisning som en del av kvalitetssikringen av karaktersettingen. Disse forslagene må ses i sammenheng med forslaget om å utvikle varige strukturer for kvalitetssikring av standpunktvurdering, som utvalget beskriver i kapittel 8.
+
+Utvalgets mindretall, ved utvalgsmedlemmene Arnason Bøe og Haugli, foreslår at nyutdannede nytilsatte lærere og ansatte som ikke oppfyller kravene til tilsetting eller undervisning, skal få veiledning i arbeidet med å sette standpunktkarakterer som en del av kvalitetssikringen av standpunktkaraktersettingen. Forskjellen mellom flertalls- og mindretallsforslaget er at ansatte som ikke oppfyller kravene til tilsetting eller undervisning i flertallsforslaget, skal sette standpunktkarakterer sammen med lærere som oppfyller kravene, mens mindretallsforslaget er at de skal få veiledning.
+
+Etter- og videreutdanningstilbud innenfor området kvalitetsutvikling i skolen
+
+Krav og forventninger til skolelederne om å drive og lede kvalitetsutviklingsprosessene i skolene, og til skoleeierne om å legge til rette for og støtte skolelederne i dette arbeidet, fordrer at aktørene har tilstrekkelig relevant kompetanse kvalitetsutvikling. Det er også behov for tilgang på etter- og videreutdanning og strukturer for erfaringsdeling for å kunne videreutvikle egen kompetanse på området. Dette gjelder for hvert enkelt av aktørnivåene, men også et samlet tilbud på tvers av aktørnivåene. Blant annet har utvalget pekt på at kompetanse om elevmedvirkning er avgjørende for å styrke elevmedvirkning i skolene. Også kompetanse i å kunne forebygge og arbeide systematisk for at alle elevene har et trygt og godt skolemiljø, er viktig i kvalitetsutviklingsarbeidet.
+
+Relevant og tilstrekkelig skolefaglig kompetanse hos skoleeiene er en forutsetning for å sikre et godt skoleeierskap, og få til arbeidet med å bedre kvaliteten i opplæringen. Utvalget mener at det er en styrke at kravet til skolefaglig kompetanse nå er innarbeidet og utvidet i den nye bestemmelsen om kvalitetsutvikling i skolen og også omfatter fylkeskommunene som skoleeiere. Utvalget mener også at det er positivt at kravene om skolefaglig kompetanse på skoleeiernivået i opplæringsloven er utvidet og satt tydeligere i sammenheng med kvalitetsutvikling i skolen. At kravet til skolefaglig kompetanse er satt sammen med kravet om kvalitetsutvikling i skolen, ser utvalget på som et grep som er med på å synliggjøre at også strukturkvaliteten er en viktig del av et bredt kunnskapsgrunnlag i kvalitetsutviklingsarbeidet.
+
+Når det gjelder hva som menes med skolefaglig kompetanse hos skoleeierne, vurderer utvalget at en konkretisering i større grad vil kunne sikre at alle kommune- og fylkeskommuneadministrasjonene har de samme forutsetningene for å kunne støtte og følge opp skolene og de politiske skoleeierne i kvalitetsutviklingsarbeidet. En innvending vil være at det er opp til kommunene og fylkeskommunene å vurdere hvordan de organiserer sin egen drift og best utnytter sine ressurser og kompetanse for å levere gode tjenester.
+
+Flere studier har vist at vellykket kompetanseutvikling krever at tiltakene er nøye tilpasset lokale behov, og er organisert gjennom partnerskap mellom skoler, kommuner, fylkeskommuner og høyere utdanningsintitusjoner. Utvalget mener kompetanseutviklingen som skjer tett på arbeidsplassen, er viktig for å sikre relevans for det faglig-pedagogiske kvalitetsutviklingsarbeidet i klasserommet og i profesjonsfellesskapet. Utvalget anser det som vesentlig å videreutvikle samarbeidet mellom skolene, lærerutdanningsinstitusjonene og andre aktører i utdanningssystemet for å styrke kompetanseutviklingen og oppnå en mer målrettet og relevant tilnærming.
+
+For å sikre relevant kompetanse i kvalitetsutviklingsarbeidet, foreslår utvalget å kartlegge og sikre ulike former for etter- og videreutdanningstilbud innenfor området *Kvalitetsutvikling i skolen,* slik at lærerne, andre ansatte i skolene, skolelederne og skoleeierne får et godt grunnlag for å drive og delta i kvalitetsutviklingsprosesser i skolene. Dette arbeidet bør ses i sammenheng med regjeringens oppfølging av utredningen fra utvalget for etter- og videreutdanning i barnehage og skole (NOU 2022: 13).
+
+Forskningsprogram
+
+Utvalget vurderer at det finnes begrenset tilgang til oppdatert forskning om kvalitetsutvikling i skolen. Forskningen innenfor området er preget av fragmenterte småskalastudier på ulike felt. Innenfor flere viktige temaer, for eksempel hvordan elevene blir involvert i arbeidet med kvalitetsutvikling, og hvordan ulike aktører og nivåer samarbeider i kvalitetsutviklingsarbeidet, finnes det lite forskningsbasert kunnskap.
+
+Utvalget påpeker at det er utfordringer i samarbeidet mellom utdanningsinstitusjonene og praksisfeltet i dag. Disse utfordringene kan føre til unødvendige motsetninger mellom teori og praksis for lærerstudentene.
+
+Utvalget mener det er for lite kunnskap om hvordan utdanningsinstitusjonene ivaretar kvalitetsutvikling som område i dag i utdanningene. Utvalget mener det er behov for blant annet mer kunnskap om hvordan lærerutdanningene fremmer relevant kompetanse for kvalitetsutvikling hos lærerne, også i praksisperiodene, for å kunne adressere disse utfordringene.
+
+Det har i de senere årene vært satset på å knytte etter- og videredanningstilbud i større grad til praksiser i klasserommet og skolene. Forskere har pekt på at en offentlig ph.d-ordning for ansatte i skolesektoren gir nye muligheter og har et stort potensial for kompetanse- og kunnskapsutvikling i skolen, gjennom at kompetanseutvikling skjer hos aktørene som allerede er ansatt i skolen. En slik ordning vil bidra med forskerkompetanse i offentlig sektor og utvikle relevant forskning, spesielt knyttet til den praksisnære og erfaringsbaserte kunnskapen (Fekjær mfl., 2022).
+
+Universitet- og høgskolemiljøene har flere sentrale roller i arbeidet med kvalitetsutvikling i skolen, gjennom å utvikle og formidle relevant kunnskap, og ved å være nære samarbeidspartnere for skolene og skoleeierne. Dette er blant annet gjennom partnerskap i den desentraliserte ordningen for kompetanseutvikling.
+
+Utvalget mener det er behov for å styrke dagens kunnskapsgrunnlag om kvalitetsutvikling i skolen for å få mer innsikt i dette arbeidet. Utvalget foreslår å opprette et forskningsprogram om kvalitetsutvikling i skolen som en del av Norges forskningsråds portefølje. Forskningsprogrammet skal bidra til å utvikle forskningsbasert kunnskap, samt bidra til utvikling og innovasjon. Forskningsprogrammet skal omfatte ordning for offentlig ph.d i skolesektoren, og bidra til kunnskap om kvalitetsutvikling som område i lærerutdanningene, gjennom stimulering av partnerskapsordninger og kombinerte stillinger i lærerutdanninger. Forskningsprogrammet skal også kartlegge forskningens rolle i kvalitetsutvikling som kunnskapsleverandør og som tjenesteleverandør.
+
+Introduksjonsår
+
+Utvalget har merket seg at utvalget for etter- og videreutdanning i barnehage og skole foreslår et nytt helhetlig system for kompetanse- og karriereutvikling i deres NOU 2022: 13 *Med videre betydning. Et helhetlig system for kompetanse- og karriereutvikling i barnehage og skole*. Et av forslagene er å innføre en rett til et introduksjonsår for alle nyutdannede lærere i barnehage og skole. Utvalgets flertall, ved utvalgsmedlemmene Aaslid, Eira, Furulund, Hansen, Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandli og Botterli Udnæs, mener at det bør utvikles en egen støtte til utviklingen av profesjonsfellesskapet for lærere. Utvalgets flertall foreslår å støtte utvalget for etter- og videreutdanning i barnehage og skoles forslag i NOU 2022: 13 om å innføre en rett til et introduksjonsår for alle nyutdannede lærere i skolen.
+
+Utvalgets forslag
+
+*For relevant kompetanse på alle nivåer* foreslår utvalget
+
+- at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i kvalitetsutvikling slik at de kan bidra aktivt i arbeidet i skolene
+
+- at lærerutdanningene skal sikre at lærerstudentene utvikler kompetanse i sluttvurdering
+
+- å kartlegge og sikre ulike former for etter- og videreutdanningstilbud innenfor området *kvalitetsutvikling i skolen*, slik at lærerne, andre ansatte i skolene, skolelederne og skoleeierne får et godt grunnlag for å drive og delta i kvalitetsutviklingsprosesser i skolene. Dette bør ses i sammenheng med regjeringens oppfølging av utvalget for etter- og videreutdanning i barnehage og skole sin NOU 2022: 13.
+
+- et forskningsprogram om kvalitetsutvikling i skolen som del av Norges forskningsråds portefølje
+
+  - Forskningsprogrammet skal bidra til å utvikle forskningsbasert kunnskap, samt å bidra til utvikling og innovasjon.
+
+  - Forskningsprogrammet skal omfatte ordning for offentlig ph.d. i skolesektoren, og bidra til kunnskap om kvalitetsutvikling som område i lærerutdanningene gjennom stimulering av partnerskapsordninger og kombinerte stillinger i lærerutdanninger.
+
+  - Forskningsprogrammet skal kartlegge forskningens rolle i kvalitetsutvikling i skolen som kunnskapsleverandør og som tjenesteleverandør.
+
+*Utvalgets flertall, ved utvalgsmedlemmene Aaslid*, *Eira*, *Furulund*, *Hansen*, *Olsen*, *Prøitz*, *Bakkebråten Rasen*, *Vikan Sandli* og *Botterli Udnæs*, foreslår
+
+- at nyutdannede nytilsatte lærere skal få veiledning i arbeidet med å sette standpunktkarakterer som en del av kvalitetssikringen av standpunktkaraktersettingen
+
+- at ansatte i undervisningsstillinger som ikke oppfyller kravene til tilsetting eller undervisning, skal sette standpunktkarakterer sammen med lærere som oppfyller kravene for tilsetting og undervisning som en del av kvalitetssikringen av standpunktkaraktersettingen
+
+- å støtte utvalget for etter- og videreutdanning i barnehage og skoles forslag i NOU 2022: 13 om å innføre en rett til et introduksjonsår for alle nyutdannede lærere i skolen
+
+*Utvalgets mindretall, ved utvalgsmedlemmene Arnason Bøe* og *Haugli,* foreslår
+
+- at nyutdannede nytilsatte lærere og ansatte som ikke oppfyller kravene til tilsetting eller undervisning, skal få veiledning i arbeidet med å sette standpunktkarakterer som en del av kvalitetssikringen av standpunktkaraktersettingen

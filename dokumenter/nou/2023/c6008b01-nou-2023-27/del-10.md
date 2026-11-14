@@ -1,854 +1,350 @@
-# NOU 2023: 27, del 10 av 13 (side 102–112)
+# NOU 2023: 27, del 10 av 13
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2023/c6008b01-nou-2023-27.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2023-27/id3013760/
 - Original-PDF: https://www.regjeringen.no/contentassets/85cc09d37f604868b31cd0da68aaa200/no/pdfs/nou202320230027000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 figurer. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 102]
+### Utvalgets vurderinger og forslag
 
-100
+For å oppnå formålet med kvalitetsutviklingssystemet er det nødvendig med verktøy som gir elever, foreldre, lærere, andre ansatte, skoleledere, skoleeiere og nasjonale myndigheter tilgang til kunnskap og informasjon som kan støtte dem i det kontinuerlige og systematiske arbeidet med elevenes læring.
 
-Kapittel 8
+Utvalget mener at innholdet i dagens kvalitetsvurderingssystem ikke i tilstrekkelig grad oppfyller aktørenes behov, og at flere av verktøyene derfor bør avvikles og erstattes. De nye verktøyene som utvalget foreslår skal i større grad støtte aktørene i deres arbeid med kvalitet i opplæringen, og må derfor være tilstrekkelig tilpasset de ulike aktørenes behov. De må også være avgrensede og nøye utvalgte.
 
-NOU 2023: 27
+Det er viktig at det finnes verktøy som gir kunnskap, informasjon og støtte til elevenes læring på alle nivåer. Dette betyr at det må finnes verktøy som kan støtte aktørene både i grunnskolen og i den videregående opplæringen, og på alle aktørnivåene, fra elevene til skoleeierne. Nasjonale myndigheter må også få informasjon til bruk på et overordnet nivå, og det må finnes informasjonskilder om elevene som får opplæring i og på samisk, som gir nyttig kunnskap til blant annet Sametinget.
 
-Et nytt system for kvalitetsutvikling
+Utvalget merker seg at lærerne er de aktørene som i minst grad opplever at flere av verktøyene i dagens system er relevante og nyttige. Kvalitetsutviklingssystemet skal støtte opp under samspillet mellom elever og lærere, og det er dermed særlig viktig å sørge for at lærerne har de verktøyene de trenger.
 
-Boks 8.2 Samarbeid for å sikre kvaliteten på standpunkt – Strinda videregående skole
-i Trondheim
-Her følger to eksempler på strukturer og prosesLærernes samlede standpunktvurdering i
-ser for å samarbeide om kvalitetssikring av standfaget ved avslutningen av opplæringen baserer
-punkt fra Strinda videregående skole i Trondseg på elevenes kompetanse vist på skriftlige og
-heim i fagene spansk Vg2 og naturfag Vg1.
-muntlige vurderinger, inkludert heldagsprøven,
-og samarbeidet med den eksterne læreren.
-Lærerne bruker ulike vurderingsmetoder for å
+Utvalget understreker at informasjonen som elevene, lærerne, skolelederne, skoleeierne og nasjonale myndigheter får gjennom utvalgets forslag til nye verktøy, må ses i sammenheng med andre informasjonskilder aktørene har. Det samlede kunnskapsgrunnlaget skal brukes i kvalitetsdialogene mellom skolene og skoleeierne, se kapittel 5.
+
+Prøver som gir informasjon om elever som trenger ekstra oppfølging
+
+Alle elever skal ha et likeverdig opplæringstilbud og få opplæring tilpasset sine behov. I alle skoler vil det være elever som har ulike forutsetninger og behov. Noen av disse forutsetningene og behovene mener utvalget det vil være urealistisk å forvente at lærerne klarer å fange opp på egenhånd. Utvalget mener det derfor er behov for å ha prøver som kan støtte skolene i arbeidet med å identifisere elever som har behov for ekstra oppfølging i skoleløpet. Slike verktøy kan, i kombinasjon med andre kunnskapskilder som for eksempel observasjoner i det faglig-pedagogiske arbeidet, elevsamtaler og et godt samarbeid mellom skolen og hjemmet, bidra til å fange opp elever som har behov for eksempel intensiv opplæring, en alternativ organisering og gjennomføring av opplæringen, henvisning til PP-tjenesten eller andre tiltak.
+
+Selv om det allerede finnes prøver med dette formålet i dagens kvalitetsvurderingssystem – frivillige kartleggingsprøver i lesing og regning for 1. trinn og obligatoriske kartleggingsprøver i lesing og regning for 3. trinn – mener utvalget det er flere utfordringer med disse prøvene. Blant annet blir formålet med dagens kartleggingsprøver forstått ulikt. Det kan ha konsekvenser for arbeidet med å fortolke, vurdere og følge opp informasjonen fra prøvene. I utvalgets kunnskapsgrunnlag framkommer det også at ikke alle lærerne opplever kartleggingsprøvene som like nyttige i kvalitetsutviklingsarbeidet. Dagens kartleggingsprøver gir mest informasjon om elevene som har behov for ekstra oppfølging. Det vil si om lag 20 prosent av elevene. Likevel skal alle elevene gjennomføre prøvene. Det blir også stilt spørsmål om det er hensiktsmessig at de aller yngste elevene gjennomfører digitale prøver, som i dag
+
+Utvalget har hatt flere diskusjoner knyttet til hvilke forslag som vil være mest relevante, og hvilke hensyn som skal veie tyngst når det gjelder å fange opp elever som trenger ekstra oppfølging.
+
+På den ene siden skal skolene raskt fange opp og følge opp alle elever som ikke har forventet utvikling. Kvalitetssikrede verktøy for dette formålet vil kunne bidra til å sikre elevenes rettigheter. Det vil bidra til at alle elever som har behov for det, får den oppfølgingen de har krav på og blir fulgt opp tidlig, før eventuelle problemer vokser seg større. Dette er noe skoleeierne har et overordnet ansvar for å sikre. I et slikt perspektiv er det naturlig å se for seg flere prøver på flere trinn, også på høyere trinn enn i dag, og i flere av de grunnleggende ferdighetene enn lesing og regning.
+
+På den andre siden er det flere begrensninger og utfordringer knyttet til å benytte standardiserte prøver for å fange opp elevenes ulike behov. Det vil blant annet være naturlige normalvariasjoner mellom barn som akkurat har startet på skolen, særlig med tanke på generell modenhet og hvor de er i sin utvikling ellers. Utvalget mener videre at det er avgjørende å unngå unødvendig testing og rapportering i skolen. Dette må blant annet ses i sammenheng med flere signaler om økt stress og press blant elever. Elever understreker i innspill til utvalget viktigheten av å ha lærere som ser dem, viser omsorg og har tid til å bygge trygge relasjoner. Elevene gir videre innspill om at kunnskap om elevene må basere seg på samspillet mellom elevene og lærerne. Utvalget har også diskutert ulike utfordringer med å ha prøver som skal gjennomføres digitalt.
+
+Utvalget har gjennom diskusjoner landet på at hensynet som må veie tyngst, er behovet for å fange opp og sikre at elevene som har behov for tilpasninger i opplæringen, slik at eventuelle tiltak kan settes inn så snart som mulig. Utvalget mener derfor at nasjonale myndigheter må tilby prøver som kan støtte lærerne med å fange opp elevene som kan ha behov for ekstra oppfølging. Utvalget foreslår å utvikle frivillige prøver i lesing og regning for 2. trinn, og å videreutvikle obligatoriske prøver i lesing og regning for 3. trinn i tråd med utvalgets vurderinger, slik at de i større grad bidrar til å treff behovene lærerne har i det faglig-pedagogiske arbeidet. Formålet med prøvene skal være å gi skolen informasjon om elever som trenger ekstra oppfølging i lesing og regning. Lesing og regning er grunnleggende ferdigheter som er nødvendige redskaper for elevenes læring og utvikling, og de grunnleggende ferdighetene står i klar relasjon til arbeidet med kompetansemålene i fagene (Rødnes og Gilje, 2018; Statistisk sentralbyrå, 2017; NOU 2020: 2; Overordnet del – verdier og prinsipper for grunnopplæringen). Som for dagens kartleggingsprøver, mener utvalget at de nye prøvene skal være et verktøy til bruk i det faglig-pedagogiske arbeidet i skolene, og ikke gi informasjon til nasjonale myndigheter. Utvalget mener videre det bør være mulig for lærerne å gjennomføre ulike kartlegginger når de ser behov, inkludert å gjenta dem ved behov. En slik mulighet forutsetter at det utvikles gode støtteressurser til å kunne gjøre dette på en hensiktsmessig måte.
+
+Utvalget mener det er viktig å sikre at prøvene er nyttig og relevante i kvalitetsutviklingsarbeidet, og foreslår regelmessig å evaluere bruken og nytten av prøvene, inkludert om det digitale formatet er hensiktsmessig for de yngste elevene.
+
+Utvalgets flertall, ved utvalgsmedlemmene Aaslid, Eira, Furulund, Haugli, Hansen, Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandvik og Botterli Udnæs, mener at det er viktig å forene hensynene som har kommet fram i kunnskapsgrunnlaget, og foreslår derfor å avvikle dagens frivillige kartleggingsprøver for 1. trinn.
+
+Et annet flertall, ved utvalgsmedlemmene Arnason Bøe, Eira, Furulund, Haugli, Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandvik, foreslår at det også bør utredes nærmere om det bør være prøver som kan avdekke hvilke elever som har behov for ekstra oppfølging på høyere trinn, som på mellomtrinnet, ungdomstrinnet og i videregående opplæring.
+
+Utvalgets forslag
+
+*For prøver som skal gi informasjon om elever som trenger ekstra oppfølging* foreslår utvalget
+
+- å utvikle frivillige prøver i lesing og regning for 2. trinn og videreutvikle obligatoriske prøver i lesing og regning for 3. trinn
+
+- at formålet med prøvene skal være å gi informasjon om elever som trenger ekstra oppfølging i lesing og regning
+
+- å evaluere regelmessig bruken og nytten av prøvene, inkludert om det digitale formatet er hensiktsmessig for de yngste elevene
+
+*Utvalgets medlemmer Aaslid*, *Eira*, *Furulund*, *Haugli*, *Hansen*, *Olsen*, *Prøitz*, *Bakkebråten Rasen* og *Vikan Sandvik* og *Botterli Udnæs* foreslår
+
+- å avvikle dagens frivillige kartleggingsprøver for 1. trinn
+
+*Utvalgets medlemmer Arnason Bøe*, *Eira*, *Furulund*, *Haugli*, *Olsen*, *Prøitz*, *Bakkebråten Rasen* og *Vikan Sandvik* foreslår
+
+- å utrede om det bør være prøver som kan avdekke hvilke elever som har behov for ekstra oppfølging på mellomtrinnet, ungdomstrinnet og i videregående opplæring
+
+Læringsstøttende prøver som gir informasjon om elevenes grunnleggende ferdigheter
+
+Utvalget ønsker å imøtekomme lærernes behov for at nasjonale verktøy som gir informasjon om elevenes læring, blir mer relevante for det faglig-pedagogiske arbeidet. Samtidig er utvalget opptatt av å sikre alle elevenes rett til et likeverdig opplæringstilbud og tilpasset opplæring. Dette krever at alle aktører, også skoleeierne og nasjonale myndigheter, får informasjon om elevenes læring i kvalitetsutviklingsarbeidet.
+
+Utvalget mener at det er flere utfordringer med dagens nasjonale prøver. Disse tilsier at utvalget ikke ønsker å videreføre prøvene i sin nåværende form. En hovedutfordring med dagens prøver er etter utvalgets vurdering, at de i for liten grad gir relevant informasjon og støtte til lærernes faglig-pedagogiske arbeid. Det er samtidig store variasjoner mellom lærerne med tanke på om de opplever prøvene som relevante. Dette kan henge sammen med hvordan det oppleves og forventes at prøvene blir brukt (se kapittel 3 og utvalgets delinnstilling NOU 2023: 1). Det kan også henge sammen med hvilke forutsetninger de ulike aktørene har for å ta i bruk prøvene og med informasjonen fra prøvene. Uavhengig av hva grunnen er, mener utvalget at det er for mange lærere som opplever at informasjonen fra dagens nasjonale prøver ikke er nyttig i kvalitetsutviklingsarbeidet. Utvalget mener derfor det er behov for å utvikle nye læringsstøttende prøver.
+
+Utvalgets diskusjoner om å utvikle nye læringsstøttende prøver i kvalitetsutviklingssystemet har hatt ulike innganger og dreid seg om ulike temaer. Utvalget har diskutert om det er behov for at nasjonale myndigheter utvikler slike prøver i det hele tatt, hvilke aktører som har behov for hvilken type informasjon, hvor mange prøver det bør være, hvilke trinn og hvilken tid på året elevene skal gjennomføre prøver, hvilke fag og eller ferdigheter prøvene skal dekke, om det er behov for å utvikle ulike prøvetyper eller deler av prøver for ulike aktørnivåer, og om alle elevene på et kull bør ta slike prøver hvert år. Utvalget har også diskutert flere overordnede problemstillinger, blant annet knyttet til prøvenes doble formål, offentliggjøring av informasjon fra prøvene og hvordan de bør inngå i det samlede kunnskapsgrunnlaget om elevene og skolene. Utvalget har diskutert disse problemstillingene nærmere i kapittel 3.
+
+I lys av kunnskapsgrunnlaget mener utvalget at det er viktig at det finnes prøver i kvalitetsutviklingssystemet som alle elevene skal gjennomføre, og at disse prøvene bidrar med relevant og kvalitetssikret informasjon om elevenes læring på noen utvalgte områder. Utvalget mener at prøver med høy testteoretisk kvalitet kan bidra til et felles kunnskapsgrunnlag om elevenes læring, sammen med andre informasjonskilder. Samtidig viser utvalgets kunnskapsgrunnlag at ulike aktørgrupper har behov for ulike former for informasjon for å kunne ta ansvaret sitt i kvalitetsutviklingsarbeidet i tråd med regelverket.
+
+Utvalget har i sine diskusjoner vurdert om det kan være aktuelt å gjennomføre prøver i form av utvalgsprøver heller enn at prøvene er for alle elevene på enkelte trinn, slik som i dagens system. Utvalgsprøver vil kunne gi informasjon til nasjonale myndigheter, og til de skolene som gjennomfører prøvene, samtidig som ikke alle skoler gjennomfører hvert år. Det kan gi tid til utviklingsarbeid på skolen. På den annen side vil ikke utvalgsprøver gi tilstrekkelig informasjon til skoleeiere i hele landet. Det er utvalgets vurdering at utvalgsprøver derfor ikke er tilstrekkelig for å ivareta behovet skoleeierne har.
+
+Utvalget har også diskutert ulike alternativer for hvilke trinn som skal ta prøvene. Et alternativ er å flytte tidspunktet for gjennomføringen fra 5., 8. og 9. trinn, slik det er i dag, til begynnelsen av 4., 7. og 9 trinn. Dette kan sikre et tydeligere eierskap til resultatene i profesjonsfellesskapet på småtrinnet og mellomtrinnet og gjøre det mulig å sette i verk tiltak der det er behov for det, men vil samtidig øke antallet prøver på barnetrinnet. Utvalget har også diskutert hvilke ferdigheter som bør inngå i obligatoriske prøver, og hvilke det bør være et frivillig tilbud om. Dette er noe utvalget også har diskutert i sammenheng med et tilbud om frivillige prøver i en ressurs- eller prøvebank.
+
+Utvalget har diskutert at utfordringen med at lærerne i mindre grad opplever prøvene som relevante enn det skolelederne og skoleeierne gjør, kan ha sammenheng med at prøvene skal gi nyttig informasjon til aktører med ulike roller og ansvar i dagens system for kvalitetsvurdering. Utvalget mener at det er både fordeler og ulemper med at en og samme prøve dekker flere formål, sammenlignet med å ha flere prøver og undersøkelser hvor hver av dem skal ivareta ett formål (se også kapittel 3). Utvalget har diskutert mulighetene for å dele opp prøven, slik at noen deler kan gi tilstrekkelig informasjon som skoleeierne og nasjonale myndigheter har behov for, mens andre deler kan ivareta lærerens og skolelederens behov. Utvalget ser imidlertid at det kan være en risiko for at prøver der det spesifikt legges vekt på informasjon til nasjonale myndigheter, kan ta oppmerksomheten vekk fra den utviklingsfunksjonen prøvene er tiltenkt.
+
+Utvalget anser også at det er en risiko for at prøver som har styring som eneste formål, kan bli oppfattet som prøver med store konsekvenser for skolene. Dette kan i sin tur føre til at skolene gjør uheldige tilpasninger. Utvalget er opptatt av å unngå økt prøvetrykk og unødvendig belastning på skolene. Fordelene med å ha bare én prøve er blant annet redusert belastning på skolene, og at man framskaffer et felles kunnskapsgrunnlag som kan brukes i kvalitetsdialogen på tvers av nivåer og aktører.
+
+I lys av kunnskapsgrunnlaget mener utvalget at det er behov for å avvikle dagens nasjonale prøver og utvikle nye læringsstøttende prøver. Utvalget mener at formålet med de nye prøvene skal være å gi informasjon om elevenes grunnleggende ferdigheter til bruk i det faglig-pedagogiske kvalitetsutviklingsarbeidet. Utvalgets flertall, ved utvalgsmedlemmene Arnason Bøe, Eira, Furulund, Hansen, Haugli, Olsen, Prøitz, Bakkebråten Rasen, Vikan Sandvik og Botterli Udnæs, foreslår at prøvene sekundært skal gi informasjon til skoleeierne og nasjonale myndigheter. Dette flertallet mener at det er viktig at også skoleeiere og nasjonale myndigheter får informasjon om elevenes læring, men at det i utviklingen av de nye prøvene først og fremst skal legges vekt på å imøtekomme lærernes og skolenes behov.
+
+Utvalget foreslår videre at det skal utredes hvordan prøvene skal gi mer relevant informasjon til lærerne og bidra til eierskap i profesjonsfellesskapet. Utvalget foreslår også å utrede hvilket tidspunkt på året prøvene bør gjennomføres, og hvilke trinn det skal være prøver på.
+
+Når det kommer til hvilke ferdigheter det skal være prøver i foreslår utvalgets flertall, ved utvalgsmedlemmer Arnason Bøe, Eira, Furulund, Hansen, Haugli, Olsen, Prøitz, Bakkebråten Rasen og Vikan Sandvik, at det skal være prøver i lesing, regning og skriving. Flertallet begrunner dette med at det er godt dokumentert at lesing og regning er ferdigheter som er avgjørende for læring i alle fag, og at det derfor er vesentlig å følge med på elevenes utvikling. Flertallet ønsker også at det skal utvikles læringsstøttende prøver i skriving, og begrunner dette med at skriving er en kritisk komponent for å tenke, utvikle kunnskap, formidle denne kunnskapen, delta i meningsfulle samtaler og bidra til offentlig ordskifte (Skar og Aasen, 2018).
+
+Utvalgets mindretall, ved utvalgsmedlemmene Aaslid og Botterli Udnæs, foreslår at det skal utredes hvilke ferdigheter og eventuelle fag det skal være læringsstøttende prøver i, og begrunner dette med at det er behov for en slik utredning i lys av at de nye læringsstøttende prøvene skal ha et tydeligere formål om å gi informasjon til bruk i det faglig-pedagogiske kvalitetsutviklingsarbeidet. Mindretallet begrunner dette med at lærerne også har etterlyst en sterkere kobling til kompetansemålene og andre ferdigheter som står sentralt i Kunnskapsløftet 2020 og Kunnskapsløftet 2020 samisk, utover de fem grunnleggende ferdighetene. Mindretallet peker på at en tettere kobling til kompetansemålene i læreplanverket også kan føre til at prøvene oppleves mer relevante for elevene.
+
+Prøvene må få et tydeligere utviklingsorientert fokus, og må i større grad enn dagens prøver gi umiddelbar og konkret tilbakemeldinger om elevenes læring. Utvalget vil også utrede hvordan informasjon kan presenteres slik at det ikke legger til rette for rangering av skoler i tråd med formålet med det nye kvalitetsutviklingssystemet.
+
+Utvalgets mindretall, ved utvalgsmedlemmene Aaslid og Botterli Udnæs, foreslår i tillegg å utrede hvordan offentliggjøring av informasjon fra prøvene kan begrenses, for å unngå uhensiktsmessig bruk av informasjonen fra prøvene.
+
+I lys av den siste tidens diskusjoner om hvor pålitelig resultatene fra de nasjonale prøvene er, mener utvalget at det også er viktig at nasjonale myndigheter er åpne om hvilke data- og kildekoder som ligger til grunn for analyser av prøver og prøvenes informasjon. Dette vil kunne bidra til en åpen diskusjon rundt målemetoder og kvaliteten på informasjonen som prøvene gir. Utvalget mener derfor at ansvarlige prøveutviklere må dokumentere hvordan de faglige kravene til utforming og oppfølging er i varetatt i utformingen av de nye prøvene.
+
+Utvalgets forslag
+
+*For læringsstøttende prøver i grunnleggende ferdigheter* foreslår utvalget
+
+- å avvikle dagens nasjonale prøver og å utvikle nye læringsstøttende prøver
+
+- at formålet med de nye prøvene skal være å gi informasjon om elevenes grunnleggende ferdigheter til bruk i det faglig-pedagogiske kvalitetsutviklingsarbeidet
+
+*Utvalgets medlemmer Arnason Bøe*, *Eira*, *Furulund*, *Hansen*, *Haugli*, *Olsen*, *Prøitz*, *Bakkebråten Rasen*, *Vikan Sandvik* og *Botterli Udnæs* foreslår
+
+- at prøvene sekundært skal gi informasjon til skoleeierne og nasjonale myndigheter
+
+*Utvalget* foreslår videre
+
+- at det stilles faglige krav til utforming og oppfølging av prøvene i tråd med prøvenes formål
+
+- at det skal dokumenteres hvordan de faglige kravene til utforming og oppfølging er ivaretatt
+
+- at det skal evalueres om de nye prøvene oppfyller formålet om å støtte faglig-pedagogisk kvalitetsutvikling
+
+- å utrede videre
+
+  - hvordan prøvene kan gi mer relevant informasjon til læreren og bidra til eierskap i profesjonsfellesskapet
+
+  - hvilket tidspunkt på året prøvene bør gjennomføres
+
+  - hvilke trinn det skal være prøver på
+
+  - hvordan informasjon kan presenteres slik at den ikke legger til rette for rangering av skoler i tråd med formålet med det nye kvalitetsutviklingssystemet
+
+*Utvalgets medlemmer Arnason Bøe*, *Eira*, *Furulund*, *Hansen*, *Haugli*, *Olsen*, *Prøitz*, *Bakkebråten Rasen* og *Vikan Sandvik* foreslår
+
+- at det skal være prøver i lesing, regning og skriving
+
+*Utvalgets medlemmer Aaslid* og *Botterli Udnæs* foreslår
+
+- å utrede hvilke ferdigheter og eller fag det skal være læringsstøttende prøver i
+
+- å utrede hvordan offentliggjøring av informasjon fra prøvene kan begrenses
+
+*Utvalgets medlemmer Aaslid*, *Hansen* og *Botterli Udnæs* foreslår
+
+- at de eksisterende nasjonale prøvene settes på pause eller gjennomføres sjeldnere mens nasjonale myndigheter utvikler de nye læringsstøttende prøvene
+
+Dissens
+
+Utvalgsmedlem Aaslid mener at forslaget om at de læringsstøttende prøvene sekundært skal gi styringsinformasjon, i praksis vil innebære det samme som å videreføre det doble formålet. Aaslid stiller seg ikke bak at framtidens læringsstøttende prøver skal ha et dobbelt formål, slik som nasjonale prøver har i dagens system. Det er godt dokumentert at det doble formålet har en rekke problematiske sider. Aaslid mener drøftingene om dobbelt formål i utredningen i for liten grad tar høyde for nasjonale og internasjonale erfaringer som viser at styringsaspektet ved standardiserte tester og hensynet til konkurranse og rangering lett kan få forrang over faglige og pedagogiske hensyn. Ikke minst har det vist seg svært vanskelig å utvikle prøvene som gode pedagogiske verktøy til bruk i klasserommet for lærere og elever så lenge prøvene også utformes for å gi aggregert, sammenlignbar styringsinformasjon på kommunalt, regionalt og nasjonalt nivå. Norge har over tid forsøkt å tilpasse de nasjonale prøvene for at de skal fungere bedre som pedagogiske verktøy for lærerne. Det er lite som tyder på at ytterligere forsøk med samme oppskrift vil gi vesentlig endret resultat.
+
+Utvalgsmedlem Aaslid anerkjenner behovet for relevant styringsinformasjon, men peker samtidig på at utvalgets kunnskapsgrunnlag viser behov for differensiert informasjon til ulike aktører heller enn et felles informasjonsgrunnlag samlet inn gjennom en og samme prøve. Utvalgsmedlemmet er opptatt av at kvalitetsutviklingen i skolen først og fremst realiseres i møtet mellom lærer og elev. Nye læringsstøttende prøver bør derfor bli utformet slik at de gir best mulig pedagogisk og faglig støtte til lærerne som står i klasserommet. På denne måten vil prøvene også bedre kunne støtte opp under elevens læring og trivsel, i tråd med formålet til det nye systemet. Dette vil også være i tråd med mandatet til utvalget om å videreutvikle kvalitetsvurderingssystemet til et system som legger mer vekt på faglig og pedagogisk kvalitetsutvikling og som ikke bidrar til detaljstyring og omfattende krav om rapportering og dokumentasjon.
+
+Ressurs- eller prøvebank
+
+Utvalget peker i kapittel 5 på at det i all hovedsak er i samspillet mellom elevene og lærerne at elevenes opplæring skjer. Som støtte til det faglig-pedagogiske arbeidet oppgir lærere å ha behov for informasjon som er egnet for å tilpasse undervisningen og fremme elevenes læring og trivsel. I utvalgets kunnskapsgrunnlag framkommer det at lærerne i mindre grad enn skolelederne og skoleeierne opplever at informasjonen fra dagens kvalitetsvurderingssystem treffer behovene de har for informasjon og støtte til kvalitetsutviklingsarbeidet.
+
+Informasjonskilder som lærerne vurderer som viktigst for det faglig-pedagogisk arbeidet, er prøver og undersøkelser de utvikler selv. Prøvene eller undersøkelsene er utviklet med tanke på å vurdere elevenes kompetanse sett i lys av kompetansemålene, læringsmålene og temaene de arbeidet med på skolen.
+
+Det er også ulike meninger om hva nasjonale myndigheter skal tilby av støtte til lærernes faglig-pedagogiske kvalitetsutviklingsarbeid i skolen, og i hvor stort omfang. Dette har også vært en gjennomgående problemstilling i utvalgets arbeid og diskusjoner. Statlige reformer og tiltak som handler om å gi støtte og hjelp og tilføre nødvendig kunnskap og ressurser, bli oppfattet som *myk* styring (Prøitz, 2021).
+
+På den ene siden peker flere på et behov for at nasjonale myndigheter tilbyr lærere støtte til det faglig-pedagogiske arbeidet i klasserommet gjennom kvalitetssikrede verktøy. Det har blant annet blitt pekt på behov for mer informasjon om elevenes læringsutbytte ved overganger i skolesystemet og underveis i skoleåret i den videregående opplæringen. Andre behov er verktøy for å følge med på hvordan elevenes læring utvikler seg over tid, hvordan elevens progresjon er og elevenes skolemiljø og trivsel. Dette kan være prøver i fag og støtte til arbeid med tverrfaglige tema og elevenes skolemiljø.
+
+Kunnskapsgrunnlaget viser at det i dag brukes en rekke andre prøver, undersøkelser og verktøy i skolen enn de skolene, skoleeierne og nasjonale myndigheter utvikler selv for å undersøke ferdigheter, fag og sosial fungering. Det er uklart hvor god kvalitet disse verktøyene har. Det er også et dilemma at skoler og skoleeiere må betale for flere av dem. Ved at nasjonale myndigheter tilbyr flere kvalitetssikrede verktøy som skolene og skoleeierne kan bruke i kvalitetsutviklingsarbeidet, og som i større grad enn dagens verktøy møter aktørenes behov, kan dette bidra til at aktørene får bedre alternativer enn de har i dag.
+
+Utvalget peker i kapittel 4 på at det er store forskjeller mellom de ulike skolene og skoleeierne i landet, og at det trengs verktøy som kan tas i bruk der det er behov, tilpasset skolene og skoleeiernes lokale forhold. Tilgang på flere kvalitetssikrede verktøy som i større grad kan brukes fleksibelt og ved behov, kan være et relevant tiltak i arbeidet med å sikre likeverdighet mellom elever, mellom skoler og mellom kommuner.
+
+På den andre siden bekrefter innspill og undersøkelser at mange lærere opplever å få tilstrekkelig informasjon om elevenes læring gjennom verktøy de utvikler selv og gjennom det daglige arbeidet og samspillet med elevene i klasserommet. Det er dermed uklart hvor stor nytte lærerne vil oppleve av å få tilgang til flere verktøy, uavhengig av hvor god kvalitet de holder. Det er et tydelig behov hos flertallet av aktørgruppene å ha tid, kapasitet og kompetanse til å fortolke, vurdere og sammenstille informasjonen fra dagens prøver, verktøy og datakilder og se informasjonen i sammenheng. Dette behovet opplever flere som større enn behovet for mer informasjon.
+
+I delinnstillingen og i kapittel 3 omtaler utvalget flere utfordringer knyttet til omfanget av støttemateriell nasjonale myndigheter utvikler. Dette handler blant annet om at støttemateriell kan oppfattes som *myk* styring og forventninger om å ta verktøyene i bruk. Dette kan igjen føre til at kvalitetsutviklingssystemer nasjonalt så vel som lokalt, vokser seg store, uten at det nødvendigvis har vært noen felles bevissthet knyttet til den totale mengden undersøkelser, prøver og verktøy som treffer elevene og lærerne.
+
+Det oppstår flere tydelige dilemmaer når disse hensynene skal forenes. Dersom nasjonale myndigheter utvikler flere verktøy som skal støtte lærerne i det faglig-pedagogiske arbeidet, vil dette på den ene siden kunne bidra til at aktørene får et større tilfang på informasjon og støtte fra kvalitetssikrede kilder til kvalitetsutviklingsarbeidet. På den andre siden kan dette bidra til at systemet blir større enn nødvendig og ønskelig. Det er også en utfordring at det er kostnadskrevende å utvikle verktøy av denne typen og sørge for at de holder like høy kvalitet over flere år. Det er ikke sikkert dette nødvendigvis er den mest hensiktsmessige ressursbruken dersom få velger å bruke dem.
+
+Utvalget er opptatt av at det er lærerne som har det daglige ansvaret for elevenes læring og trivsel, og som igjennom sin profesjon vet hvilken type informasjon det er behov for i kvalitetsutviklingsarbeidet. Utvalget mener samtidig at det er viktig at nasjonale myndigheter tilbyr lærerne støtte til å innhente informasjon om elevenes læring og trivsel til det faglig-pedagogiske arbeidet i form av kvalitetssikrede prøver eller verktøy. Noen av prøvene eller verktøyene må kunne brukes til å følge elevenes progresjon. Det er videre viktig at lærerne, skolelederne og skoleeierne i fellesskap i forbindelse med kvalitetsdialogene samarbeider om et utvalg prøver eller verktøy det kan være aktuelt å ta i bruk. Det er også naturlig at informasjonen fra prøver eller verktøy inngår i kvalitetsdialogen mellom lærere, skoleledere og skoleeiere (se kapittel 5).
+
+Utvalgets flertall, ved utvalgsmedlemmene Aaslid, Arnason Bøe, Eira, Furulund, Hansen, Haugli, Olsen, Prøitz, Vikan Sandvik og Botterli Udnæs, foreslår å utrede behovet for en ressursbank med nasjonalt kvalitetssikrede verktøy for å vurdere elevenes læring og trivsel.
+
+Utvalgets mindretall, ved utvalgsmedlem Bakkebråten Rasen, foreslår å utrede utformingen av en prøvebank med nasjonalt kvalitetssikrede prøver i fag.
+
+Både utvalgets flertall og mindretall foreslår at formålet med verktøyene og eller prøvene skal være å gi informasjon om elevenes læring som støtte til lærernes faglig-pedagogiske arbeid. Utvalget foreslår videre at informasjonen fra verktøyene eller prøvene kan inngå i lærernes arbeid med elevenes underveisvurdering. Utvalget foreslår at utviklingen av verktøyene eller prøvene må skje i samarbeid og dialog med elever, lærere, skoleledere, skoleeiere og partene i skolesektoren. I utviklingsarbeidet skal elevenes perspektiver tillegges vekt.
+
+Utvalgets mindretall, ved utvalgsmedlemmene Aaslid, Bakkebråten Rasen og Botterli Udnæs, foreslår at prøvene skal være frivillige for lærere å ta i bruk. Mindretallet begrunner dette med at det er viktig at de som skal bruke tiden sin på dette, også er dem som avgjør om det behov for informasjon fra prøvene, og dermed om prøvene skal brukes. Mindretallet understreker videre at skolene skal eie informasjonen fra prøvene selv.
+
+Utvalgets forslag
+
+*For ressurs- eller prøvebank* foreslår utvalget
+
+- at formålet med verktøyene eller prøvene skal være å gi informasjon om elevenes læring som støtte til lærernes faglig-pedagogiske arbeid
+
+- at informasjon fra verktøyene eller prøvene kan inngå i lærernes arbeid med elevenes underveisvurdering
+
+- at utviklingen av verktøyene eller prøvene må skje i samarbeid og dialog med elever, lærere, skoleledere, skoleeiere og partene i skolesektoren
+
+*Utvalgets medlemmer Aaslid*, *Arnason Bøe*, *Eira*, *Furulund*, *Hansen*, *Haugli*, *Olsen*, *Prøitz*, *Vikan Sandvik* og *Botterli Udnæs* foreslår
+
+- å utrede behovet for en ressursbank med nasjonalt kvalitetssikrede verktøy for å vurdere elevenes læring og trivsel
+
+*Utvalgets medlem Bakkebråten Rasen* foreslår
+
+- å utrede utformingen av en prøvebank med nasjonalt kvalitetssikrede prøver i fag
+
+*Utvalgets medlemmer Aaslid*, *Bakkebråten Rasen*, *Hansen* og *Botterli Udnæs* foreslår
+
+- at prøvene eller verktøyene skal være frivillig for lærere å ta i bruk, og at skolene skal eie informasjonen selv
+
+Informasjon gjennom internasjonale undersøkelser
+
+Norge har lang tradisjon for å delta i internasjonale undersøkelser. Formålet med undersøkelsene er å gi kunnskap om norsk skole sett i et internasjonalt perspektiv. Undersøkelsene skal også gi informasjon om utviklingen i elevenes prestasjoner i utvalgte fag og ferdigheter over tid på et nasjonalt nivå. Forskere benytter informasjonen fra undersøkelsene til å utvikle ny kunnskap om hvordan ulike forhold påvirker elevenes læring og trivsel. Videre bruker nasjonale myndigheter det samlede kunnskapsgrunnlaget de får fra undersøkelsene til blant annet politikkutvikling. Ettersom formålet med undersøkelsene er å gi informasjon til nasjonale myndigheter, gir undersøkelsene begrenset med informasjon som lærerne, skolelederne og skoleeierne kan bruke i kvalitetsutviklingsarbeidet (NOU 2023: 1).
+
+Utvalget har merket seg at enkelte av de internasjonale undersøkelsene Norge deltar i får mer oppmerksomhet enn andre. Utvalget har sett at medienes gjengivelse av resultatene noen ganger er unyansert. Utvalget har diskutert om undersøkelsene får en for stor plass i offentlige diskusjoner om kvaliteten i opplæringen. Utvalget har også diskutert i hvilken grad undersøkelsene samsvarer med de norske læreplanene, om noen av undersøkelsene gir overlappende informasjon om elevenes læring og skolemiljø, og hvilke kostnader som er forbundet med Norges deltakelse i disse undersøkelsene. PISA-undersøkelsen er mye debattert og undersøkelsens innvirkning på utdanningspolitikk er tematisert av mange forskere (se for eksempel Elstad og Sivesind, 2010; Meyer og Benavot, 2013; Pettersson mfl., 2017; Pons, 2017; Sellar og Lingard, 2014). Selv om enkelte av de internasjonale undersøkelsene er omdiskuterte, vurderes de likevel som nyttige fordi de gir informasjon om utviklingen i elevenes prestasjoner over tid og kunnskap om norsk skole relatert til andre lands utdanningssystemer. Undersøkelsene gir også grunnlag for et stort omfang forskning på viktige spørsmål som for eksempel hvilken betydning tidlig innsats, elevenes motivasjon og læringsmiljø har for elevenes læring (NOU 2023: 1; Olsen og Björnsson, 2018; Björnsson, 2022). De internasjonale undersøkelsene gir med dette viktig styringsinformasjon til nasjonale myndigheter.
+
+I forbindelse med etablering av et nytt kvalitetsutviklingssystem foreslår utvalget at nye internasjonale undersøkelser, inkludert tilvalg i disse, må vurderes i lys av kvalitetsutviklingssystemets formål, prinsipper og forutsetninger, og det totale omfanget og kostnadsbildet av systemet.
+
+Utvalgets flertall, ved utvalgsmedlemmene Arnason Bøe, Eira, Furulund, Haugli, Olsen, Prøitz, Bakkebråten Rasen og Vikan Sandvik, foreslår å videreføre Norges deltakelse i de internasjonale undersøkelsene. Formålet er primært å gi informasjon til nasjonale myndigheter. Flertallet mener at undersøkelsene ikke utgjør en stor belastning for skolene ettersom undersøkelsene er utvalgsundersøkelser som bare et utvalg elever gjennomføre med flere års mellomrom. Undersøkelsene bidrar også med relevant informasjon til nasjonale myndigheter.
+
+Utvalgets mindretall, ved utvalgsmedlemmene Aaslid, Hansen og Botterli Udnæs, mener at det er nødvendig å gjennomføre en kost-nytteanalyse av de internasjonale undersøkelsene og vurdere om det er overlappende temaer i undersøkelsene Norge deltar i. Mindretallet mener det bør gjøres en helhetlig vurdering av hvilken informasjon undersøkelsene gir, sett opp mot andre kunnskaps- og informasjonskilder, med mål om å unngå å hente inn samme type informasjon fra flere kilder. Vurderingen bør ifølge disse medlemmene, også se nærmere på i hvilken grad undersøkelsene gir nyttig kunnskap om elevenes læring og trivsel til nasjonale myndigheter eller om de fører til unødvendig tidsbruk for elever og lærere. Medlemmene mener det er viktig å se samlet på hva skoler og skoleeiere blir pålagt av undersøkelser som ikke direkte gir informasjon til lærernes faglig-pedagogiske arbeid.
+
+Utvalgets forslag
+
+*For internasjonale undersøkelser* foreslår utvalget
+
+- å vurdere tilvalg og nye internasjonale undersøkelser i lys av kvalitetsutviklingssystemets formål, prinsipper og forutsetninger og det totale omfanget og kostnadsbildet av systemet
+
+*Utvalgets medlemmer Arnason Bøe*, *Eira*, *Furulund*, *Haugli*, *Olsen*, *Prøitz*, *Bakkebråten Rasen* og *Vikan Sandvik* foreslår
+
+- å videreføre Norges deltakelse i de internasjonale undersøkelsene. Formålet er primært å gi informasjon til nasjonale myndigheter.
+
+*Utvalgets medlemmer Aaslid*, *Hansen* og *Botterli Udnæs* foreslår
+
+- å gjennomføre en kost-nytteanalyse av de internasjonale undersøkelsene og vurdere om det er overlappende temaer i undersøkelsene Norge deltar i, med det siktemålet om ikke å hente inn den samme typen informasjon fra flere kilder
+
+Standpunkt- og eksamenskarakterer
+
+Standpunkt- og eksamenskarakterene er viktige for elevene, og som informasjon til skolene, skoleeierne og nasjonale myndigheter (NOU 2023: 1). Utvalget mener at standpunkt- og eksamenskarakterer bidrar med viktig kunnskap om elevenes læringsutbytte i skolene. Dette gjelder spesielt i den videregående opplæringen hvor det er færre andre kilder til informasjon om elevenes læring.
+
+På lik linje med andre informasjonskilder om elevenes læring, mener utvalget at standpunkt- og eksamenskarakterer alene ikke gir informasjon om kvaliteten i opplæringen. Karakterene må ses i sammenheng med andre kunnskaps- og informasjonskilder. Utvalget mener samtidig at nytteverdien av karakterene som informasjonskilder i kvalitetsutviklingsarbeidet, avhenger av kvaliteten på karakterene og hvordan aktørene bruker informasjonen.
+
+Utvalget har merket seg at det er mange forventninger til utvalgets behandling av standpunkt og eksamen som sluttvurderingsordninger i utvalgets arbeid med hovedinnstillingen. I lys av utvalgets mandat og det pågående arbeidet med å følge opp Fullføringsreformen og Eksamensgruppas anbefalinger, har utvalget valgt å prioritere vurderinger som i første rekke handler om karakterenes funksjon i kvalitetsutviklingsarbeidet. Dette handler om at karakterene som informasjonskilder må ha høy kvalitet og oppfattes som legitime målinger av elevers læringsutbytte etter avsluttet opplæring. Utvalget har merket seg at arbeidet med å følge opp Fullføringsreformen og Eksamensgruppa tematiserer forhold som pålitelighet, gyldighet og rettferdighet i sluttvurderingsordningene. Det tar også for seg hvordan elevene kan involveres og medvirke når ordningene skal videreutvikles. Dette er perspektiver utvalget også er opptatt av. Utvalget vil understreke betydningen av at disse perspektivene blir fulgt opp i arbeidet med å videreutvikle sluttvurderingsordningene.
+
+Utvalget mener at sluttvurderingsordningene standpunkt og eksamen må være innrettet på måter som gjør det mulig å måle elevenes sluttkompetanser i tråd med innholdet i det gjeldende læreplanverket. I tillegg må vurderingene være likeverdige og rettferdige i den betydning at alle elevene må ha de samme mulighetene til å vise kompetansen sin. Ordningene for sluttvurdering må også være håndterbare med hensyn til den praktiske organiseringen og gjennomførbarheten. Videreutvikling av kvaliteten på sluttvurderingsordningene må ha profesjonens behov som utgangspunkt, fordi det er profesjonen selv som best vet hva som inngår i fagene og hva elevene har fått opplæring i.
+
+Utvalget mener at en rekke identifiserte og dokumenterte utfordringer knyttet til standpunkt og eksamen gjør at det er behov for endringer. Utvalget mener det er nødvendig å gjøre flere grep for sikre kvaliteten på standpunkt- og eksamenskarakterer som kunnskaps- og informasjonskilder i et systematisk og helhetlig kvalitetsutviklingsarbeid.
+
+Standpunktkarakterer
+
+I et notat om standpunktvurdering som Utdanningsdirektoratet har utviklet i samarbeid med direktoratets referansegruppe på vurderingsfeltet,[^11] blir det pekt på at tilliten som er gitt lærerprofesjonen og handlingsrommet til å se standpunktvurderingen i sammenheng med læreplaner i fag, elevenes opplæring og underveisvurderinger, er en styrke med dagens standpunktvurderingsordning (Utdanningsdirektoratet, 2023e).
+
+Det blir også framhevet flere forbedringspunkter. Noen av disse er å tydeliggjøre hva kvalitet i standpunktvurderingen kan handle om, tydeligere rammer for tolkningsfellesskap og å styrke kompetansen på standpunktvurdering. Direktoratet peker på at det er systematiske forskjeller i karakternivåene i ulike fag, og at det er flere klager på standpunktkarakterer i små fag som har få opplæringstimer. Dette gjelder spesielt praktiske og estetiske fag der lærerne i mindre grad har en formell kompetanse i fagene (Utdanningsdirektoratet, 2023e).
+
+En ny studie fra evalueringen av fagfornyelsen av de praktiske og estetiske fagene i det nye læreplanverket viser at disse fagene i liten grad er en del av utviklingssamtalene lærerne har med elevene og foreldrene deres gjennom opplæringen. Det er gjerne først i forbindelse med sluttsamtaler på ungdomstrinnet at elevene og lærerne diskuterer fagene og begrunnelsene for standpunktkarakterene (Borgen mfl., 2023).
+
+Studier av tiltak som er satt i gang for å utvikle kvaliteten på ulike typer karaktersettinger, har vist at lærerne opplever tilnærminger hvor de samarbeider med andre og bruker kriterier eller lignende som nyttig. Dette kan bidra til å avdekke ulike praksiser for karaktersetting mellom lærerne på den samme skolen, så vel som mellom lærere på ulike skoler (Skar og Hopfenbeck, 2021). En tilnærming kan være at lærerne på en skole eller lærere på tvers av skoler, diskuterer og forhandler seg fram til en felles forståelse av hvordan de skal bruke kriterier og standarder i karaktersettingene. Lærerne kan gjennom diskusjoner oppnå felles forståelse av hva en karakter uttrykker (Adie, 2022). En studie som har sett på hvordan aktørene bruker karakterene i det pedagogiske arbeidet viste at både lærerne og skolelederne i liten grad opplevde å bli fulgt opp av sin nærmeste leder når det gjelder standpunkt- og eksamensresultatet (Mausethagen mfl., 2018a).
+
+I kapittel 7 skriver utvalget om betydningen av at lærerstudentene utvikler kompetanse i sluttvurdering. I tillegg til kompetanse i sluttvurdering, mener utvalget det er viktig at lærerne også har tilgang på strukturer for samarbeid om standpunktvurdering. Skolene og skoleeierne må derfor legge til rette for praksiser som sikrer kvaliteten på standpunktkarakterene. Samarbeid og dialog mellom faglærere og skoleledere innad på egen skole, mellom skoler og på tvers av kommuner og fylkeskommuner er viktig for å sikre at alle elever får likeverdige og rettferdige standpunktkarakterer i fagene, uavhengig av hvilken skole de går på eller hvor de bor i landet. For å sikre et slikt samarbeid vurderer utvalget at det er behov for at alle lærere har tilgang til etablerte strukturer som kan gi støtte og veiledning i standpunktarbeidet på egen skole eller på tvers av skoler og kommuner og fylkeskommuner.
+
+Utvalget mener at det er viktig at alle lærerne har tilgang til slike strukturer, også der det bare er en eller svært få faglærere i et fag på skolen, i kommunen eller fylkeskommunen. Det må derfor legges til rette for samarbeid på tvers av skolene. Slik kan alle lærere få mulighet til å samarbeide med andre lærere i fagene de underviser i, selv om de befinner seg på andre skoler eller i andre kommuner eller fylkeskommuner. Tilsvarende mener utvalget at dette må gjelde for faglærere som har ansvar for fjernundervisning for en eller flere elever, for eksempel i og på samisk.
+
+Utvalget mener at slike strukturer kan ha ulike uttrykk og må ta utgangspunkt i praksiser som allerede er i skolene, og i behov lærerprofesjonen har. Utvalget er kjent med at flere skoler, kommuner og fylkeskommuner har lignende strukturer som brukes for dette formålet, eller som kan tas i bruk for å samarbeide om standpunktvurdering. Utvalget er opptatt av at kommunene og fylkeskommunene må få bruke sitt lokale handlingsrom til å utvikle strukturer ut ifra egne lokale behov og i samarbeid med profesjonen. Utvalget mener at det er skoleeiernes ansvar at alle lærerne i en kommune har tilgang til strukturer for kvalitetsutvikling og kvalitetssikring, enten på egen skole, innenfor kommunen eller andre type nettverk der det er hensiktsmessig. Utvalget mener at det er viktig at disse strukturene er veletablerte slik at de blir varige og integrerte deler av arbeidet med å sette standpunktkarakterer for alle lærere. Det er gjennom arbeid i profesjonsfellesskapet og strukturene for kvalitetssikring at kvaliteten på standpunktkarakterene kan sikres. På den måten kan informasjonen fra karakterene inngå som en pålitelig informasjonskilde i kvalitetsutviklingsarbeidet. Utvalget mener at informasjonen fra arbeidet med standpunktvurdering og standpunktkarakterer bør inngå i kvalitetsdialogene som er beskrevet i kapittel 5.
+
+Utvalget mener at nasjonale myndigheter også må tilby støtte og veiledning til kommunene og fylkeskommunene som har behov for faglig bistand i forbindelse med at de vil etablere eller videreutvikle allerede eksisterende strukturer.
+
+Samarbeid for å sikre kvaliteten på standpunkt – Strinda videregående skole i Trondheim
+
+Her følger to eksempler på strukturer og prosesser for å samarbeide om kvalitetssikring av standpunkt fra Strinda videregående skole i Trondheim i fagene spansk Vg2 og naturfag Vg1.
+
 Standpunktvurdering i spansk Vg2
-fastsette en standpunktkarakter som reflekterer
-Spansklærerne på skolen legger stor vekt på å ha
-den samlede kompetansen til hver elev.
-et grundig og systematisk arbeid med standpunktvurdering i faget. Vurderingsarbeidet strekStandpunktvurdering i naturfag Vg1
-ker seg fra februar til juni, og involverer ulike vurderingsmetoder og samarbeidsprosesser.
-Også i naturfag er samarbeidet mellom lærerne
-I denne perioden gjennomfører lærerne
-en viktig del av standpunktarbeidet og kvalitetsskriftlige og muntlige vurderinger av elevenes
-sikring av standpunktkarakterene.
-kompetanse i spansk. Vurderingssituasjonene
-I naturfag koordinerer lærerne vurderingsakbestår av ulike typer oppgaver, som skriving av
-tivitetene til elevene på en annen måte enn
-relevante tekster, oversettelser, muntlige presenlærerne i spanskfaget. For å skape et vurderingstasjoner og dialoger.
-fellesskap som strekker seg gjennom skoleåret,
-For å sikre en bred og rettferdig sluttvurdegjennomfører elevene temabaserte vurderinger
-ring i spansk, involverer spansklærerne også
-med felles vurderingsoppgaver. Elevene arbeider
-andre spansklærere på skolen som deltar i vurmed spesifikke emner i en bestemt periode og
-deringsprosessen. Disse lærerne har parallelle
-alle klassene har vurderinger som er knyttet til
-klasser som arbeider med de samme temaene
-emnet.
-med de samme vurderingsoppgavene, slik at de
-Kompetansemålene i læreplanene er grunnlaer kjent med hva som vurderes. Dette samarbeiget for vurdering, men fordi læreplanen er samdet gir lærerne muligheten til å se på elevenes
-mensatt og komplisert må lærerne arbeide
-prestasjoner fra forskjellige perspektiver. Det
-sammen for å ha en vurderingspraksis som samigjen bidrar til en mer objektiv vurdering av elevsvarer med regelverket. Dette gjør de blant annet
-enes kompetanse.
-gjennom å legge til rette for refleksjoner hvor
-De andre lærerne på skolen gir en uavhengig
-lærerne hjelper hverandre med å beskrive elevevurdering av elevenes prestasjoner. Dette er også
-nes kompetanse fra enkeltkompetanse til samlet
-verdifullt for å videreutvikle lærernes vurderingskompetanse. Dette innebærer å se på hvordan
-praksiser. Tilbakemeldingene fungerer også som
-elevene bruker kunnskapen sin og ferdighetene
-en kalibrering av egen vurdering.
-sine i en helhetlig sammenheng.
-I spansk gjennomfører elevene eksamensreleLærerne i naturfag framhever at sensorskovante heldagsprøver. Heldagsprøven gir elevene
-leringen i forbindelse med eksamen er god fordi
-muligheten til å forberede seg på den avsluttende
-den bidrar til at sensorene har felles forståelse
-eksamenen, samtidig som lærerne vurderer elevav vurderingskriteriene. Lærerne mener at en
-enes kompetanse på en annen måte enn gjennom
-lignende tilnærming er viktig for standpunktvurde ulike vurderingssituasjonene gjennom året.
-dering for å unngå store forskjeller i vurderingsEtter at heldagsprøvene er gjennomført, samarpraksis mellom lærere og klasser. De peker
-beider lærerne gjennom å evaluere eksempelbeogså på at fagnettverksdagene i fylket kan utnytsvarelser fra prøvene og diskuterer vurderingen
-tes til å koordinere vurderinger og minimere
-av de ulike oppgavene og hvordan de skal vektvariasjoner mellom skoler.
-legge kompetansen oppgavene måler i den samKilde: Strinda videregående skole, 2023
-lede standpunktvurderingen.
 
-[Side 103]
+Spansklærerne på skolen legger stor vekt på å ha et grundig og systematisk arbeid med standpunktvurdering i faget. Vurderingsarbeidet strekker seg fra februar til juni, og involverer ulike vurderingsmetoder og samarbeidsprosesser.
 
-NOU 2023: 27
+I denne perioden gjennomfører lærerne skriftlige og muntlige vurderinger av elevenes kompetanse i spansk. Vurderingssituasjonene består av ulike typer oppgaver, som skriving av relevante tekster, oversettelser, muntlige presentasjoner og dialoger.
 
-Et nytt system for kvalitetsutvikling
+For å sikre en bred og rettferdig sluttvurdering i spansk, involverer spansklærerne også andre spansklærere på skolen som deltar i vurderingsprosessen. Disse lærerne har parallelle klasser som arbeider med de samme temaene med de samme vurderingsoppgavene, slik at de er kjent med hva som vurderes. Dette samarbeidet gir lærerne muligheten til å se på elevenes prestasjoner fra forskjellige perspektiver. Det igjen bidrar til en mer objektiv vurdering av elevenes kompetanse.
+
+De andre lærerne på skolen gir en uavhengig vurdering av elevenes prestasjoner. Dette er også verdifullt for å videreutvikle lærernes vurderingspraksiser. Tilbakemeldingene fungerer også som en kalibrering av egen vurdering.
+
+I spansk gjennomfører elevene eksamensrelevante heldagsprøver. Heldagsprøven gir elevene muligheten til å forberede seg på den avsluttende eksamenen, samtidig som lærerne vurderer elevenes kompetanse på en annen måte enn gjennom de ulike vurderingssituasjonene gjennom året. Etter at heldagsprøvene er gjennomført, samarbeider lærerne gjennom å evaluere eksempelbesvarelser fra prøvene og diskuterer vurderingen av de ulike oppgavene og hvordan de skal vektlegge kompetansen oppgavene måler i den samlede standpunktvurderingen.
+
+Lærernes samlede standpunktvurdering i faget ved avslutningen av opplæringen baserer seg på elevenes kompetanse vist på skriftlige og muntlige vurderinger, inkludert heldagsprøven, og samarbeidet med den eksterne læreren. Lærerne bruker ulike vurderingsmetoder for å fastsette en standpunktkarakter som reflekterer den samlede kompetansen til hver elev.
+
+Standpunktvurdering i naturfag Vg1
+
+Også i naturfag er samarbeidet mellom lærerne en viktig del av standpunktarbeidet og kvalitetssikring av standpunktkarakterene.
+
+I naturfag koordinerer lærerne vurderingsaktivitetene til elevene på en annen måte enn lærerne i spanskfaget. For å skape et vurderingsfellesskap som strekker seg gjennom skoleåret, gjennomfører elevene temabaserte vurderinger med felles vurderingsoppgaver. Elevene arbeider med spesifikke emner i en bestemt periode og alle klassene har vurderinger som er knyttet til emnet.
+
+Kompetansemålene i læreplanene er grunnlaget for vurdering, men fordi læreplanen er sammensatt og komplisert må lærerne arbeide sammen for å ha en vurderingspraksis som samsvarer med regelverket. Dette gjør de blant annet gjennom å legge til rette for refleksjoner hvor lærerne hjelper hverandre med å beskrive elevenes kompetanse fra enkeltkompetanse til samlet kompetanse. Dette innebærer å se på hvordan elevene bruker kunnskapen sin og ferdighetene sine i en helhetlig sammenheng.
+
+Lærerne i naturfag framhever at sensorskoleringen i forbindelse med eksamen er god fordi den bidrar til at sensorene har felles forståelse av vurderingskriteriene. Lærerne mener at en lignende tilnærming er viktig for standpunktvurdering for å unngå store forskjeller i vurderingspraksis mellom lærere og klasser. De peker også på at fagnettverksdagene i fylket kan utnyttes til å koordinere vurderinger og minimere variasjoner mellom skoler.
+
+Kilde: Strinda videregående skole, 2023
+
+\[Boks slutt\]
 
 Eksamenskarakterer
-Eksamensgruppa beskriver viktige dimensjoner
-for kvaliteten på eksamen som gyldighet, pålitelighet, rettferdighet og håndterbarhet, og at dagens
-eksamen har utfordringer med alle disse dimensjonene. Eksamensgruppa viser også til at eksamen representerer en ekstern vurdering i et system som baserer seg i stort på faglærernes vurderinger. I delinnstillingen viser utvalget at sammenligning av standpunkt- og eksamenskarakterene
-kan være hensiktsmessig om man har tilstrekkelig innsikt i statistiske muligheter og begrensninger for små utvalg elever, men sammenligningen
-vil som regel gi mer meningsfull informasjon til
-større kommuner, fylker og nasjonalt nivå (Tveit
-og Olsen, 2018).
-Eksamensgruppas rapporter trekker også
-fram at eksamen påvirker hvordan man forstår og
-praktiserer læreplanene, og at forskning viser at
-eksamen kan ha tilbakevirkende effekter på opplæringen (Eksamensgruppa, 2019). Disse effektene kan være både tilsiktede og utilsiktede. Et
-eksempel på dette kommer fram i en undersøkelse av eksamens påvirkning på norskundervisningen. I undersøkelsen oppgir lærere at eksamen angir en fortolking og en retning for faget,
-samtidig som den også bidrar til at opplæringen
-blir mer ensidig (Gourvennec, 2023). Utvalget
-mener det er viktig at eksamensordningene ikke
-snevrer inn forståelsen av læreplanene i faget, og
-at det må legges betydelig vekt på å utvikle gode
-eksamener som er i tråd med gjeldende læreplanverk og i samarbeid med profesjonen.
-Sensorskolering i forbindelse med eksamen
-blir ofte trukket fram som et godt kompetansehevingstiltak for lærerne (Eksamensgruppa, 2019).
-Sensorskolering er også et populært tiltak med
-høy deltakelse (Utdanningsdirektoratet, 2023a).
-Utvalget deler dette synet, og understreker at en
-god sensorskolering er en sentral del av kvalitetssikringen av elevenes eksamenskarakterer. Utvalget mener det er behov for å forsterke sensorskolering for både sentralt og lokalt gitte eksamener
-for å heve kvaliteten på karakterene som settes,
-og for å bidra til å utvikle profesjonen.
-Som et tiltak for å heve kvaliteten på eksamenskarakterene mener utvalgets mindretall, ved
-utvalgsmedlemmene Aaslid, Eira, Hansen Bakkebråten Rasen og Botterli Udnæs, at det er nødvendig å se nærmere på rammebetingelsene til sensorene, som de vurderer som ikke tilstrekkelig gode
-i dag. Disse medlemmene foreslår at honoraret til
-sensorene må økes. De foreslår også at tiden til å
-vurdere hver besvarelse må utvides. De foreslår
 
-101
+Eksamensgruppa beskriver viktige dimensjoner for kvaliteten på eksamen som gyldighet, pålitelighet, rettferdighet og håndterbarhet, og at dagens eksamen har utfordringer med alle disse dimensjonene. Eksamensgruppa viser også til at eksamen representerer en ekstern vurdering i et system som baserer seg i stort på faglærernes vurderinger. I delinnstillingen viser utvalget at sammenligning av standpunkt- og eksamenskarakterene kan være hensiktsmessig om man har tilstrekkelig innsikt i statistiske muligheter og begrensninger for små utvalg elever, men sammenligningen vil som regel gi mer meningsfull informasjon til større kommuner, fylker og nasjonalt nivå (Tveit og Olsen, 2018).
 
-Kapittel 8
+Eksamensgruppas rapporter trekker også fram at eksamen påvirker hvordan man forstår og praktiserer læreplanene, og at forskning viser at eksamen kan ha tilbakevirkende effekter på opplæringen (Eksamensgruppa, 2019). Disse effektene kan være både tilsiktede og utilsiktede. Et eksempel på dette kommer fram i en undersøkelse av eksamens påvirkning på norskundervisningen. I undersøkelsen oppgir lærere at eksamen angir en fortolking og en retning for faget, samtidig som den også bidrar til at opplæringen blir mer ensidig (Gourvennec, 2023). Utvalget mener det er viktig at eksamensordningene ikke snevrer inn forståelsen av læreplanene i faget, og at det må legges betydelig vekt på å utvikle gode eksamener som er i tråd med gjeldende læreplanverk og i samarbeid med profesjonen.
 
-videre at det må settes et tak for hvor mange
-besvarelser en sensor kan vurdere per eksamenskode. Medlemmene foreslår også at lærerorganisasjonene skal kunne forhandle direkte med
-Kunnskapsdepartementet
-om
-satser
-for
-sensorhonorar og tid avsatt per besvarelse for
-sentralt gitt skriftlig eksamen.
-Utvalgets flertall, ved utvalgsmedlemmene
-Arnason Bøe, Eira, Furulund, Haugli, Olsen,
-Prøitz, Vikan Sandvik og Botterli Udnæs, mener
-det er godt dokumentert at eksamen påvirker opplæringen betydelig, og mer enn det som er ønskelig i grunnskolen. Dette flertallet mener oppmerksomheten eksamen får i grunnskolen, kan bidra
-til at forståelsen av læreplanen snevres inn og
-bidrar til målforskyvning. Elever som starter på
-ungdomsskolen oppfordres allerede fra 8. trinn til
-å begynne å tenke på eksamen (Mølstad mfl.,
-2021). Dette flertallet mener derfor det er grunn
-til bekymring for at oppmerksomheten som rettes
-mot eksamen er med på å fortrenge andre
-læringsaktiviteter som er viktige i ungdsomsskolen. I grunnskolen er det flere kilder til informasjon om elevenes læring, som gjør at informasjonen fra eksamenskarakterene ikke er like viktig
-som den er for videregående opplæring. I dag har
-alle ungdommer rett til videregående opplæring,
-og med den nye opplæringsloven er denne retten
-utvidet til å inkludere en rett til å fullføre (Innst.
-442 L (2022–2023)). I lys av dette mener utvalgets
-flertall at det kan stilles spørsmål ved om det er
-behov for eksamen i grunnskolen. Samtidig
-mener utvalgets flertall at det er viktig at det fortsatt finnes gyldig og pålitelig informasjon om elevenes læring ved avslutningen av grunnskolen.
-Dette flertallet mener at det kan ivaretas gjennom
-å sikre kvaliteten på standpunktkarakterene.
-Disse medlemmene foreslår derfor, under forutsetning av at det er etablert varige strukturer for
-kvalitetssikring av standpunktkaraktersettingen, å
-avvikle eksamen i grunnskolen.
-Flertallet mener videre at informasjonen fra
-eksamen i den videregående opplæringen har en
-annen betydning for den enkelte eleven og samfunnet. Generell studiekompetanse er hovedveien inn i høyere utdanning for de aller fleste, og
-foreslått videreført av opptaksutvalget (NOU
-2022: 17). Flertallet foreslår derfor ikke tilsvarende endring for eksamen i videregående opplæring.
-Utvalgets mindretall, ved utvalgsmedlemmene
-Aaslid og Bakkebråten Rasen, mener det er nødvendig å beholde eksamen i både grunnskolen og
-i den videregående opplæringen. Mindretallet
-mener eksamenskarakterene fra ungdomstrinnet
+Sensorskolering i forbindelse med eksamen blir ofte trukket fram som et godt kompetansehevingstiltak for lærerne (Eksamensgruppa, 2019). Sensorskolering er også et populært tiltak med høy deltakelse (Utdanningsdirektoratet, 2023a). Utvalget deler dette synet, og understreker at en god sensorskolering er en sentral del av kvalitetssikringen av elevenes eksamenskarakterer. Utvalget mener det er behov for å forsterke sensorskolering for både sentralt og lokalt gitte eksamener for å heve kvaliteten på karakterene som settes, og for å bidra til å utvikle profesjonen.
 
-[Side 104]
+Som et tiltak for å heve kvaliteten på eksamenskarakterene mener utvalgets mindretall, ved utvalgsmedlemmene Aaslid, Eira, Hansen Bakkebråten Rasen og Botterli Udnæs, at det er nødvendig å se nærmere på rammebetingelsene til sensorene, som de vurderer som ikke tilstrekkelig gode i dag. Disse medlemmene foreslår at honoraret til sensorene må økes. De foreslår også at tiden til å vurdere hver besvarelse må utvides. De foreslår videre at det må settes et tak for hvor mange besvarelser en sensor kan vurdere per eksamenskode. Medlemmene foreslår også at lærerorganisasjonene skal kunne forhandle direkte med Kunnskapsdepartementet om satser for sensorhonorar og tid avsatt per besvarelse for sentralt gitt skriftlig eksamen.
 
-102
+Utvalgets flertall, ved utvalgsmedlemmene Arnason Bøe, Eira, Furulund, Haugli, Olsen, Prøitz, Vikan Sandvik og Botterli Udnæs, mener det er godt dokumentert at eksamen påvirker opplæringen betydelig, og mer enn det som er ønskelig i grunnskolen. Dette flertallet mener oppmerksomheten eksamen får i grunnskolen, kan bidra til at forståelsen av læreplanen snevres inn og bidrar til målforskyvning. Elever som starter på ungdomsskolen oppfordres allerede fra 8. trinn til å begynne å tenke på eksamen (Mølstad mfl., 2021). Dette flertallet mener derfor det er grunn til bekymring for at oppmerksomheten som rettes mot eksamen er med på å fortrenge andre læringsaktiviteter som er viktige i ungdsomsskolen. I grunnskolen er det flere kilder til informasjon om elevenes læring, som gjør at informasjonen fra eksamenskarakterene ikke er like viktig som den er for videregående opplæring. I dag har alle ungdommer rett til videregående opplæring, og med den nye opplæringsloven er denne retten utvidet til å inkludere en rett til å fullføre (Innst. 442 L (2022–2023)). I lys av dette mener utvalgets flertall at det kan stilles spørsmål ved om det er behov for eksamen i grunnskolen. Samtidig mener utvalgets flertall at det er viktig at det fortsatt finnes gyldig og pålitelig informasjon om elevenes læring ved avslutningen av grunnskolen. Dette flertallet mener at det kan ivaretas gjennom å sikre kvaliteten på standpunktkarakterene. Disse medlemmene foreslår derfor, under forutsetning av at det er etablert varige strukturer for kvalitetssikring av standpunktkaraktersettingen, å avvikle eksamen i grunnskolen.
 
-Kapittel 8
+Flertallet mener videre at informasjonen fra eksamen i den videregående opplæringen har en annen betydning for den enkelte eleven og samfunnet. Generell studiekompetanse er hovedveien inn i høyere utdanning for de aller fleste, og foreslått videreført av opptaksutvalget (NOU 2022: 17). Flertallet foreslår derfor ikke tilsvarende endring for eksamen i videregående opplæring.
 
-NOU 2023: 27
+Utvalgets mindretall, ved utvalgsmedlemmene Aaslid og Bakkebråten Rasen, mener det er nødvendig å beholde eksamen i både grunnskolen og i den videregående opplæringen. Mindretallet mener eksamenskarakterene fra ungdomstrinnet fortsatt vil være viktige både for den enkelte eleven og for samfunnet, også når den nye opplæringsloven gir elevene rett til en videregående opplæring fram til de har fullført. Mindretallet begrunner dette med at eksamenskarakterene gir viktig informasjon om elevenes faglige nivåer, og de vil fortsatt brukes som grunnlag for opptak til ulike utdanningsprogrammer og skoler. Mindretallet peker også på at eksamen gir elevene muligheter til å vise kompetansen sin i flere vurderingsformer og til å bli vurdert av eksterne sensorer. Eksamen bidrar også til å skape et tolkningsfellesskap for lærerne om vurdering gjennom sensurarbeidet.
 
-Et nytt system for kvalitetsutvikling
+Utvalget ønsker å understreke betydningen av å prioritere arbeid med å videreutvikle eksamen i den videregående opplæringen for å utvikle og sikre kvaliteten på eksamenskarakterene, slik at de er gyldige og pålitelige uttrykk for elevenes kompetanse ved avslutningen av opplæringen i fagene. Utvalget understreker at denne videreutviklingen må skje i et tett samarbeid med profesjonen for å sikre at utviklingen skjer på faglige premisser slik de forstås av profesjonen.
 
-fortsatt vil være viktige både for den enkelte
-eleven og for samfunnet, også når den nye opplæringsloven gir elevene rett til en videregående
-opplæring fram til de har fullført. Mindretallet
-begrunner dette med at eksamenskarakterene gir
-viktig informasjon om elevenes faglige nivåer, og
-de vil fortsatt brukes som grunnlag for opptak til
-ulike utdanningsprogrammer og skoler. Mindretallet peker også på at eksamen gir elevene muligheter til å vise kompetansen sin i flere vurderingsformer og til å bli vurdert av eksterne sensorer.
-Eksamen bidrar også til å skape et tolkningsfellesskap for lærerne om vurdering gjennom sensurarbeidet.
-Utvalget ønsker å understreke betydningen av
-å prioritere arbeid med å videreutvikle eksamen i
-den videregående opplæringen for å utvikle og
-sikre kvaliteten på eksamenskarakterene, slik at
-de er gyldige og pålitelige uttrykk for elevenes
-kompetanse ved avslutningen av opplæringen i
-fagene. Utvalget understreker at denne videreutviklingen må skje i et tett samarbeid med profesjonen for å sikre at utviklingen skjer på faglige premisser slik de forstås av profesjonen.
-Utvalget er kjent med at det blant annet planlegges forsøksordninger med alternative eksamensformer. Utvalgets mindretall, ved utvalgsmedlem Botterli Udnæs, mener at det i etterkant
-av gjennomføring av forsøksordningene med
-alternative eksamensformer må legges fram forslag til endringer i eksamensordningen i den videregående
-opplæringen.
-Utvalgsmedlemmet
-begrunner dette med at selv om de aller fleste
-elevene trives i skolene, oppgir halvparten av
-respondentene i Ungdata 2022 at de ofte eller
-svært ofte blir stresset av skolearbeidet (Bakken,
-2022). I møter med og gjennom innspill til utvalget,
-peker elever på vurdering som et element som
-bidrar til stress. En studie fra Folkehelseinstituttet
-(FHI) viser at elever som strøk på eksamen det
-siste året på videregående, hadde en økt sannsynlighet for å oppsøke fastlege på grunn av psykiske
-plager, sammenlignet med de som bestod og fikk
-karakteren 2. Disse elevene hadde også en lavere
-sannsynlighet for å fullføre videregående skole
-eller ta høyere utdanning (Beck mfl., 2023).
-Utvalgsmedlemmet mener at kunnskapsgrunnlaget om eksamens påvirkning på undervisningen
-og elevenes trivsel og helse bør føre til konkrete
-endringer i eksamensordninger i den videregående opplæringen.
+Utvalget er kjent med at det blant annet planlegges forsøksordninger med alternative eksamensformer. Utvalgets mindretall, ved utvalgsmedlem Botterli Udnæs, mener at det i etterkant av gjennomføring av forsøksordningene med alternative eksamensformer må legges fram forslag til endringer i eksamensordningen i den videregående opplæringen. Utvalgsmedlemmet begrunner dette med at selv om de aller fleste elevene trives i skolene, oppgir halvparten av respondentene i Ungdata 2022 at de ofte eller svært ofte blir stresset av skolearbeidet (Bakken, 2022). I møter med og gjennom innspill til utvalget, peker elever på vurdering som et element som bidrar til stress. En studie fra Folkehelseinstituttet (FHI) viser at elever som strøk på eksamen det siste året på videregående, hadde en økt sannsynlighet for å oppsøke fastlege på grunn av psykiske plager, sammenlignet med de som bestod og fikk karakteren 2. Disse elevene hadde også en lavere sannsynlighet for å fullføre videregående skole eller ta høyere utdanning (Beck mfl., 2023). Utvalgsmedlemmet mener at kunnskapsgrunnlaget om eksamens påvirkning på undervisningen og elevenes trivsel og helse bør føre til konkrete endringer i eksamensordninger i den videregående opplæringen.
 
 Utvalgets forslag
-For standpunkt og eksamen foreslår utvalget
-– å utvikle varige strukturer for støtte til lærernes arbeid med standpunktvurdering
-– Formålet med strukturene skal være å
-sikre kvaliteten på standpunktkarakterene
-for den enkelte eleven og som informasjonskilde i kvalitetsutviklingsarbeidet.
-– Strukturene skal ta utgangspunkt i eksisterende praksiser, behov og rammevilkår.
-– Skoleeierne skal ha ansvaret for at lærerne
-har tilgang til strukturer for kvalitetsutvikling og kvalitetssikring av standpunktvurdering, og for å legge til rette for nettverk
-på tvers av skoler, kommuner og fylkeskommuner der det er behov for det.
-– at informasjon om standpunktkarakterene skal
-inngå i kvalitetsdialogene (se kapittel 5)
-– at informasjon om eksamenskarakterene i den
-videregående opplæringen skal inngå i kvalitetsdialogene (se kapittel 5)
-– at sensorskoleringen forsterkes, både for sentralt gitte og lokalt gitte eksamener
-Utvalgets medlemmer Arnason Bøe, Eira, Furulund, Hansen, Haugli, Olsen, Prøitz, Vikan Sandvik
-og Botterli Udnæs foreslår
-– at, forutsatt at det er etablert varige strukturer
-for lærernes arbeid med standpunktvurdering,
-å avvikle eksamen i grunnskolen
-Utvalgets medlemmer Aaslid og Bakkebråten Rasen
-foreslår
-– å beholde eksamen i grunnskolen
-Utvalgets medlemmer Aaslid, Eira, Hansen, Bakkebråten Rasen og Botterli Udnæs foreslår
-– at honoraret til sensorer økes, samt at tiden til
-å vurdere hver besvarelse utvides. Mindretallet
-foreslår også å sette et tak for hvor mange
-besvarelser en sensor kan vurdere per eksamenskode.
-– at lærerorganisasjonene får forhandlingsrett
-om satser for sensorhonorar og tid avsatt per
-besvarelse, og at lærerorganisasjonene forhandler direkte med Kunnskapsdepartementet
-om dette
-Utvalgets medlem Botterli Udnæs foreslår
-– at det i etterkant av gjennomføring av forsøksordningene med alternative eksamensformer,
-legges fram forslag til endringer i eksamensordningen i den videregående opplæringen
 
-[Side 105]
+*For standpunkt og eksamen* foreslår utvalget
 
-NOU 2023: 27
+- å utvikle varige strukturer for støtte til lærernes arbeid med standpunktvurdering
 
-Et nytt system for kvalitetsutvikling
+  - Formålet med strukturene skal være å sikre kvaliteten på standpunktkarakterene for den enkelte eleven og som informasjonskilde i kvalitetsutviklingsarbeidet.
 
-Mindretallet foreslår at sektororganisasjonene
-skal involveres i prosessen.
+  - Strukturene skal ta utgangspunkt i eksisterende praksiser, behov og rammevilkår.
+
+  - Skoleeierne skal ha ansvaret for at lærerne har tilgang til strukturer for kvalitetsutvikling og kvalitetssikring av standpunktvurdering, og for å legge til rette for nettverk på tvers av skoler, kommuner og fylkeskommuner der det er behov for det.
+
+- at informasjon om standpunktkarakterene skal inngå i kvalitetsdialogene (se kapittel 5)
+
+- at informasjon om eksamenskarakterene i den videregående opplæringen skal inngå i kvalitetsdialogene (se kapittel 5)
+
+- at sensorskoleringen forsterkes, både for sentralt gitte og lokalt gitte eksamener
+
+*Utvalgets medlemmer Arnason Bøe*, *Eira*, *Furulund*, *Hansen*, *Haugli*, *Olsen*, *Prøitz*, *Vikan Sandvik* og *Botterli Udnæs* foreslår
+
+- at, forutsatt at det er etablert varige strukturer for lærernes arbeid med standpunktvurdering, å avvikle eksamen i grunnskolen
+
+*Utvalgets medlemmer Aaslid* og *Bakkebråten Rasen* foreslår
+
+- å beholde eksamen i grunnskolen
+
+*Utvalgets medlemmer Aaslid*, *Eira*, *Hansen*, *Bakkebråten Rasen* og *Botterli Udnæs* foreslår
+
+- at honoraret til sensorer økes, samt at tiden til å vurdere hver besvarelse utvides. Mindretallet foreslår også å sette et tak for hvor mange besvarelser en sensor kan vurdere per eksamenskode.
+
+- at lærerorganisasjonene får forhandlingsrett om satser for sensorhonorar og tid avsatt per besvarelse, og at lærerorganisasjonene forhandler direkte med Kunnskapsdepartementet om dette
+
+*Utvalgets medlem Botterli Udnæs* foreslår
+
+- at det i etterkant av gjennomføring av forsøksordningene med alternative eksamensformer, legges fram forslag til endringer i eksamensordningen i den videregående opplæringen Mindretallet foreslår at sektororganisasjonene skal involveres i prosessen.
+
 Skolebidragsindikatorene
-Utvalget redegjør for skolebidragsindikatorene i
-delinnstillingen og viser til at det er flere videregående skoler enn grunnskoler som bruker indikatorene (NOU 2023: 1). Rambøll-undersøkelsen
-viser at lærere i svært liten grad bruker skolebidragsindikatorene. Flere skoleledere og skoleeiere oppgir at de bruker indikatorene i kvalitetsutviklingsarbeidet. Likevel oppgir bare et mindretall at indikatorene i stor grad oppleves som nyttige (Rambøll, 2023a).
-Utvalget har diskutert bruken og nytteverdien
-av skolebidragsindikatorene i et kvalitetsutviklingsperspektiv. Indikatorene er ment å gi indikasjoner på hva skolenes innsats har å si for elevenes resultater, og brukes i det lokale arbeidet i
-skolen (Utdanningsdirektoratet, 2022a). For å få
-en bedre forståelse av nytteverdien og utfordringer knyttet til skolebidragsindikatorene, har utvalget hatt besøk av professor Sølvi Lillejord og SSBforsker Lars Kirkebøen på et utvalgsmøte hvor de
-presenterte ulike perspektiver på skolebidragsindikatorene.
-Utvalgets mindretall, ved utvalgsmedlemmene
-Aaslid, Hansen, Bakkebråten Rasen og Botterli
-Udnæs foreslår å avvikle skolebidragsindikatorene i dagens form og ønsker at de ikke skal
-inngå som en del av det nye kvalitetsutviklingssystemet. Mindretallet mener det er en svakhet at
-skolebidragsindikatorene ikke gir informasjon til
-skolene om hva man kan gjøre for å forbedre opplæringen. Mindretallet mener at skolebidragsindikatorene i dagens form gir begrenset informasjon
-om skolenes fulle bidrag til elevenes ferdigheter,
-kunnskapsnivå og kompetanse, og er for snevert
-til å tolkes som et mål på skolekvalitet. Mindretallet viser til det nye kvalitetsutviklingssystemet i
-større grad skal bidra til å styrke samspillet mellom elever og lærere. Mindretallet mener videre
-at offentliggjøring av skolebidragsindikatorene,
-slik det har fungert til nå, bidrar til unødvendig
-oppmerksomhet på elevresultater og rangering.
+
+Utvalget redegjør for skolebidragsindikatorene i delinnstillingen og viser til at det er flere videregående skoler enn grunnskoler som bruker indikatorene (NOU 2023: 1). Rambøll-undersøkelsen viser at lærere i svært liten grad bruker skolebidragsindikatorene. Flere skoleledere og skoleeiere oppgir at de bruker indikatorene i kvalitetsutviklingsarbeidet. Likevel oppgir bare et mindretall at indikatorene *i stor grad* oppleves som nyttige (Rambøll, 2023a).
+
+Utvalget har diskutert bruken og nytteverdien av skolebidragsindikatorene i et kvalitetsutviklingsperspektiv. Indikatorene er ment å gi indikasjoner på hva skolenes innsats har å si for elevenes resultater, og brukes i det lokale arbeidet i skolen (Utdanningsdirektoratet, 2022a). For å få en bedre forståelse av nytteverdien og utfordringer knyttet til skolebidragsindikatorene, har utvalget hatt besøk av professor Sølvi Lillejord og SSB-forsker Lars Kirkebøen på et utvalgsmøte hvor de presenterte ulike perspektiver på skolebidragsindikatorene.
+
+Utvalgets mindretall, ved utvalgsmedlemmene Aaslid, Hansen, Bakkebråten Rasen og Botterli Udnæs foreslår å avvikle skolebidragsindikatorene i dagens form og ønsker at de ikke skal inngå som en del av det nye kvalitetsutviklingssystemet. Mindretallet mener det er en svakhet at skolebidragsindikatorene ikke gir informasjon til skolene om hva man kan gjøre for å forbedre opplæringen. Mindretallet mener at skolebidragsindikatorene i dagens form gir begrenset informasjon om skolenes fulle bidrag til elevenes ferdigheter, kunnskapsnivå og kompetanse, og er for snevert til å tolkes som et mål på skolekvalitet. Mindretallet viser til det nye kvalitetsutviklingssystemet i større grad skal bidra til å styrke samspillet mellom elever og lærere. Mindretallet mener videre at offentliggjøring av skolebidragsindikatorene, slik det har fungert til nå, bidrar til unødvendig oppmerksomhet på elevresultater og rangering.
+
 Utvalgets forslag
-For skolebidragsindikatorer foreslår utvalgets medlemmer Aaslid, Hansen, Bakkebråten Rasen og Botterli Udnæs
-– å avvikle skolebidragsindikatorene i dagens
-form og ikke inkludere dem som en del av det
-nye kvalitetsutviklingssystemet
 
-8.4
+*For skolebidragsindikatorer foreslår utvalgets medlemmer Aaslid*, *Hansen*, *Bakkebråten Rasen* og *Botterli Udnæs*
 
-8.4.1
-
-103
-
-Kapittel 8
-
-Kunnskap og informasjon om
-prosesser og strukturer i et
-kvalitetsutviklingssystem
-
-Hvorfor er det behov for kunnskap og
-informasjon om prosesser og
-strukturer i skolen?
-Som beskrevet i kapittel 2 mener utvalget at de tre
-kvalitetsområdene resultatkvalitet, prosesskvalitet
-og strukturkvalitet skal være likestilte i systemet
-for kvalitetsutvikling. Utvalget peker på at nyere
-tilnærminger forstår begrepet kvalitet som sammensatt av ulike elementer og dimensjoner som
-legger føringer og forutsetninger for arbeidet med
-kvalitet (Elken og Stensaker, 2018). En slik forståelse av kvalitet handler om å synliggjøre betingelsene som er med på å skape og påvirke kvalitetsutviklingsarbeidet. Dette innebærer blant annet at
-arbeidet med å vurdere og fortolke resultatkvaliteten må gjøres i lys av betingelsene. Denne forståelsen av kvalitet vektlegger aktørenes arbeid med
-kvalitet og er koblet til de organisatoriske og
-pedagogiske dimensjonene av kvalitet. Utvalget
-mener forståelsen balanserer vektleggingen av
-strukturell kvalitet, organisatorisk og prosessuell
-kvalitet og resultatkvalitet.
-Bestemmelsen om kvalitetsutvikling, opplæringsloven § 17-12, fastsetter at skolene skal vurdere i hvilken grad organiseringen, tilretteleggingen og gjennomføringen av opplæringen bidrar til
-å nå målene som er fastsatt i læreplanverket.
-Bestemmelsen innebærer at vurderinger av prosesskvalitet og strukturkvalitet er viktige deler av
-det lovpålagte kvalitetsutviklingsarbeidet. Det
-kommer også tydelig fram av forarbeidene til opplæringsloven at vurderingene skolene gjør knyttet
-til prosess- og strukturkvaliteten, er sentrale
-kunnskaps- og informasjonskilder også i skoleeiernes kvalitetsutviklingsarbeid (Prop. 57 L (2022–
-2023)).
-Selv om det er framgår i opplæringsloven at
-det er skolene som selv skal vurdere hvordan
-praksisen deres bidrar til elevenes læring, er det
-mange utenforliggende forhold som også påvirker
-organiseringen, tilretteleggingen og gjennomføringen av opplæringen. Ansvaret for prioriteringer
-knyttet til for eksempel ressurser og økonomi ligger hos skoleeierne, innenfor nasjonale rammer
-gitt gjennom ulike regelverk. Forskjeller mellom
-skolene og mellom skoleeierne knyttet til for
-eksempel størrelse på skolene og skoleeierne,
-geografiske forhold og tilgang på kompetanse
-påvirker også prioriteringene (NOU 2023: 9).
-
-[Side 106]
-
-104
-
-Kapittel 8
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-Det nye kvalitetsutviklingssystemet skal bidra
-til likeverdighet i opplæringen, samarbeid og tillit
-mellom aktørene og samspill mellom elevene og
-lærerne. Jevnlige kvalitetsdialoger mellom skolene og skoleeierne er et av utvalgets sentrale forslag for det nye systemet (se kapittel 5). Rammer
-og prioriteringer som påvirker kvalitetsutviklingsarbeidet er viktige og nødvendige temaer for diskusjonene mellom skolene og skoleeierne. For å
-kunne ha gode diskusjoner er det avgjørende at
-aktørene har tilgang på kunnskap og informasjon
-om strukturer og prosesser som er relevante for
-kvalitetsutviklingen.
-Utvalget for etter- og videreutdanning i barnehage og skole viser til at flere og bedre nasjonale
-statistiske oversikter over kompetansen til flere
-ansattgrupper i skolen vil kunne gi skoleeierne tilgang til bedre informasjon som grunnlag for kvalitetsvurderinger og for å målrette kompetanseutvikling i sine skoler (NOU 2022: 13).
-
-8.4.2
-
-Hva slags kunnskap og informasjon om
-prosesser og strukturer i skolen er det
-behov for?
-Behov for informasjon om strukturkvaliteten
-Utvalget har mottatt mange innspill som viser
-behovet for å synliggjøre kunnskap og informasjon om strukturkvaliteten i skolene. Dette handler blant annet om at det er nødvendig å se informasjon om strukturkvaliteten i sammenheng med
-annen kunnskap og informasjon aktørene har i
-arbeidet med kvalitetsutvikling. Noen av innspillene understreker at kvalitetsbegrepet omfatter
-mer enn bare resultatkvalitet, og at det er behov
-for å synliggjøre innsats- og rammefaktorene som
-er til stede i skolene, kommunene og fylkeskommunene i kvalitetsarbeidet. Dette oppgir flere er
-en vesentlig del av det brede kunnskapsgrunnlaget som må inngå i vurderingene og dialogene om
-kvaliteten i opplæringen. Slike innsats- og rammefaktorer kan dreie seg om lærernes utdanningsnivå og etter- og videreutdanning, gruppestørrelse og faglærernes disponering av timer. De
-kan også dreie seg om i hvilken grad lærerne er
-dem som velger læremidler tilpasset fag- og elevgruppene, og om faktorer som påvirker elevenes
-fysiske skolemiljø.
-Utvalget har også mottatt innspill som understreker at det er behov for mer tilgjengelig informasjon om strukturkvaliteten i den videregående
-opplæringen på flere områder. I motsetning til for
-grunnskolene hvor statistikk om grunnskolene
-årlig blir samlet inn og tilgjengeliggjort gjennom
-
-Grunnskolenes Informasjonssystem (GSI), samler ikke nasjonale myndigheter inn tilsvarende
-informasjon om den videregående opplæringen.
-Dette gjelder blant annet informasjon om andelen
-ufaglærte lærere i den videregående opplæringen
-eller andelen lærere som underviser i fag de ikke
-har utdanning i. Det blir heller ikke samlet inn
-nasjonal informasjon om årstimer og årsverk til
-spesialundervisning, særskilt norskopplæring og
-opplæring i og på samisk for disse trinnene. Informasjonen om den videregående opplæringen blir
-heller ikke tilgjengeliggjort av nasjonale myndigheter på den samme måten som informasjonen
-om grunnskolene.
-Informasjon om strukturer i den videregående
-opplæringen blir i dag samlet inn fra de videregående skolene av det interkommunale selskapet
-Vigo IKS. Selskapet tilgjengeliggjør informasjon
-som er i tråd med innholdet i forskrift til opplæringsloven § 2-2 for Utdanningsdirektoratet og
-Statistisk sentralbyrå (SSB). De utvikler nasjonal
-statistikk for den videregående opplæringen. Det
-ligger i dag mer informasjon i Vigo enn det nasjonale myndigheter og SSB har rettslig hjemmelsgrunnlag til å innhente og vise i nasjonale
-systemer.
-Skoleeierne og nasjonale myndigheter benytter informasjon om grunnskolene fra GSI og informasjon om den videregående opplæringen i
-Utdanningsdirektoratets statistikksystem eller i
-SSB til en rekke formål. Informasjonen danner
-grunnlaget for blant annet tilsyn og utarbeidelse
-av offisiell statistikk. Informasjonen benyttes også
-i budsjett- og planleggingsarbeider i kommuner
-og fylkeskommuner, og i beskrivelser av ressurssituasjonen i grunnskoleopplæringen gjennom
-KOSTRA-visningen hos SSB. KOSTRA står for
-KOmmune-STat-RApportering og er et nasjonalt
-informasjonssystem som bidrar med styringsinformasjon om kommunal og fylkeskommunal
-virksomhet til lokale og nasjonale myndigheter.
-Det har vært obligatorisk for kommunene og fylkeskommunene å rapportere i KOSTRA siden
-2001 (NOU 2023: 1).
-Undersøkelser viser at mange av de kommunale skoleeierne synes at informasjonen i GSI om
-grunnskolene er nyttig i arbeidet for å vurdere og
-utvikle kvaliteten i opplæringen (Bergene mfl.,
-2023; Rambøll, 2023a). Fylkeskommunene har i
-innspill til utvalget pekt på at det er behov for å
-koordinere systemer for å hente inn, fortolke og
-vurdere informasjon. Flere innspill peker også på
-utfordringen med at det finnes mange kommersielle verktøy som ikke alle skoler har råd til å kjøpe
-
-[Side 107]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-inn. Dette bidrar til å øke forskjeller mellom kommunene og fylkeskommunene.
-Behov for informasjon om prosesskvaliteten
-Utvalget har fått innspill om at det er behov for
-gode verktøy som kan støtte arbeidet med prosesskvaliteten i opplæringen. Blant annet er det
-flere som oppgir at de har behov for verktøy som
-kan gi en pekepinn på om man er på rett vei i
-utviklingsarbeidet. Fordi prosesskvalitet dreier
-seg om indre aktiviteter og kvaliteten i relasjoner
-og prosesser, er dette et kvalitetsområde det kan
-være krevende å innhente informasjon om gjennom statistikkverktøy og lignende.
-Selv om det kan være vanskelig å innhente
-informasjon om prosesskvaliteten, finnes det flere
-verktøy som har til hensikt å bidra med det i dag.
-Et eksempel er refleksjons- og prosessverktøyet
-Ståstedsanalysen. Verktøyet skal støtte lærerne
-og skolelederne i å identifisere styrker og utfordringer og tilrettelegge for felles refleksjon over
-sammenhenger mellom skolens elevresultater og
-kunnskap og informasjon om praksis. Et annet
-verktøy er RefLex. Det skal gi lærerne, skolelederne og skoleeierne hjelp til å vurdere om egen
-praksis er i samsvar med regelverket innenfor
-ulike områder. Det finnes også ulike former for
-undervisningsvurderingsverktøy hvor formålet er
-at elevene og lærerne sammen kan vurdere og
-forbedre opplæringen i fagene (NOU 2023: 1).
-Undervisningsvurdering som verktøy er mer
-brukt i den videregående opplæringen enn i
-grunnskolen (Rambøll, 2023a).
-I undersøkelsen Spørsmål til Skole-Norge
-våren 2023 oppgir om lag en tredjedel av skolelederne i grunnskolen og de kommunale skoleeierne at Ståstedsanalysen i stor grad eller i svært
-stor grad er nyttig i arbeidet med å vurdere og
-utvikle kvaliteten i opplæringen. For skolelederne
-i videregående skole er tilsvarende andel bare 19
-prosent. Når det gjelder RefLex oppgir om lag 60
-prosent av skolelederne i grunnskolen og videregående skole at de ikke benytter dette verktøyet.
-Det samme gjelder 25 prosent av de kommunale
-skoleleierne. Både Ståstedsanalysen og RefLex
-benyttes i stor grad og oppleves som nyttige av de
-fylkeskommunale skoleeierne (Bergene mfl.,
-2023). Funn fra Rambøll-undersøkelsen viser at
-lærere opplever verktøyet Ståstedsanalysen som
-mindre nyttig enn det skolelederne og skoleeierne gjør (Rambøll, 2023a).
-Sametinget har i innspill og i møter med utvalget gitt uttrykk for at de har behov for informasjon som kan si noe om kvaliteten på opplæringen
-
-105
-
-Kapittel 8
-
-de samiske elevene får. Riksrevisjonen undersøkelse av de samiske elevenes rett til opplæring i
-og på samisk avdekket at det mangler kunnskap
-og informasjon på en rekke områder. Blant annet
-mangler det informasjon om fjernundervisning og
-kvalitet i opplæringen. Dette er informasjon som
-er nødvendig for å vurdere om det samiske opplæringstilbudet er godt og likeverdig (Riksrevisjonen, 2019).
-Som vist i kapittel 4 skal kvalitetsutviklingssystemet fremme elevmedvirkning. Elevene skal
-være involvert i og kunne påvirke arbeidet med
-kvalitetsutvikling på alle nivåer. En kartleggingsundersøkelse gjennomført på oppdrag for
-utvalget viser at elevmedvirkningen ofte skjer på
-en usystematisk måte (Rambøll, 2023a). I rapporten Elevmedvirkning. FoU om hvordan elevmedvirkning kan styrkes i norske skoler i tråd med nytt
-læreplanverk anbefales det at skolelederne og skoleeierne setter elevmedvirkning på agendaen og
-etterspør og legger til rette for at dette skjer gjennom for eksempel kompetanseutvikling (Faannessen mfl., 2022).
-Dette er i tråd med innspill utvalget har mottatt hvor det kommer fram at elevene har behov
-for trygge rammer og riktige hjelpemidler for å
-kunne uttale seg om elevmedvirkning. Elever oppgir i innspill til utvalget at lærerne, skolelederne
-og skoleeierne trenger mer kunnskap om hvordan elevene opplever skolen og elevmedvirkning
-for å kunne forbedre opplæringen. I innspillene
-gir elevene også uttrykk for at de ikke opplever at
-verktøyene som finnes i dag er gode nok for å innhente informasjon om elevmedvirkning.
-Behov for hjelp til sammenstilling, fortolkning og
-vurdering
-Når det er mange ulike kunnskaps- og informasjonskilder tilgjengelig kan det være utfordrende
-for lærerne, skolelederne og skoleeierne å få
-oversikt over hvilke kunnskaps- og informasjonskilder som er relevante for kvalitetsutviklingsarbeidet. Det kan også føre til at det blir vanskeligere å nyttiggjøre seg av støtteressursene (NOU
-2023: 1).
-Verktøyet Analysebrett skal vise ulik kunnskap og informasjon om elevene og skolene som
-kan være betydningsfull for å vurdere kvaliteten i
-opplæringen. I verktøyet er det mulig å velge
-hvilke kunnskaps- og informasjonskilder man vil
-vise, sammenligne mellom skoler, kommuner og
-fylker på ulike statistikkområder og se utviklingen
-over tid for noen informasjonskilder.
-
-[Side 108]
-
-106
-
-Kapittel 8
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-Verktøyet Analysebrett gir ikke anledning til å
-sette kvantitativ informasjon om grunnskolen innhentet gjennom GSI eller kvantitativ informasjon
-om den videregående opplæringen innhentet av
-Vigo, i sammenheng med andre kunnskap- og
-informasjonskilder om skolene og skoleeierne.
-Det er heller ikke mulig å legge til kvalitativ informasjon om prosesser som kan være relevante å se
-de kvantitative dataene i lys av. Innspill til utvalget
-peker på behov for mer kvalitativ informasjon enn
-det er i dagens kvalitetsvurderingssystem. Det er
-også et behov for støtte til hvordan prosess- og
-refleksjonsverktøy kan benyttes i arbeidet med til
-å analysere og se informasjon fra ulike informasjonskilder i sammenheng for enkeltelever og
-grupper av elever over tid.
-I undersøkelsen Spørsmål til Skole-Norge
-våren 2023 oppgir 37 prosent av grunnskolelederne og 56 prosent av skolelederne i videregående skole at de ikke har benyttet Analysebrett i
-kvalitetsutviklingsarbeidet. Hos kommunale skoleeiere er denne andelen bare 7 prosent. Av skolelederne i grunnskolen oppgir 24 prosent at verktøyet i stor grad eller i svært stor grad er nyttig.
-Denne andelen er for skolelederne i den videregående opplæringen 16 prosent og for kommunale
-skoleeiere 47 prosent (Bergene mfl., 2023). I et fritekstfelt i undersøkelsen har flere av respondentene, både skoleledere og skoleeiere, valgt å
-uttrykke at nytteverdien av Analysebrett har blitt
-vesentlig forverret den senere tiden. Flere oppgir
-misnøye med at de ikke får tilgang til egne tall. De
-er også misfornøyde med at verktøyet i liten grad
-er tilrettelagt for å hente ut egne tall. I en oppsummering av funnene fra undersøkelsen peker forskerne på at det kan virke som at noe av utfordringene handler om at det etter at personvernforordningen GDPR5 ble implementert, har blitt
-begrensninger for hvilken og hvor mye informasjon som er mulig å vise i verktøyet. Særlig er
-dette koblet til informasjon fra Elevundersøkelsen. Det blir også påpekt at de administrative skoleeierne har et stort behov for å kunne sammenstille informasjon på et kommunalt nivå i mye
-større grad enn det verktøyet tillater i dag (Bergene mfl., 2023).
-
-8.4.3 Utvalgets vurderinger og forslag
-Utvalget mener at det i arbeidet med kvalitet i opplæringen er nødvendig å ha god informasjon om
-struktur- og prosesskvaliteten i skolen. Utvalget
-mener måten skolene og skoleeierne velger å
-5
-
-GDPR – General Data Protection Regulation
-
-organisere skolens virksomhet, tilrettelegge opplæringen og gjennomføre opplæringen på, er av
-stor betydning for kvaliteten i opplæringen. Innsatsfaktorer og strukturelle forutsetninger, for
-eksempel økonomisk handlingsrom, antall ansatte
-og hvilken kompetanse de ansatte har, er viktig
-informasjon. Denne informasjonen må ses i sammenheng med informasjon om elevenes læring og
-skolemiljø og informasjon om prosessene og kvaliteten på prosessene som lærere, skolelederne og
-skoleeierne arbeider med i kvalitetsutviklingen.
-På en del områder hvor det i dag finnes statistikk for grunnskolen, finnes det ikke tilsvarende
-statistikk for den videregående opplæringen. På
-noen områder er statistikken ikke offentlig tilgjengelig blant annet på grunn av manglende hjemmelsgrunnlag. Dette gjelder for eksempel årstimer og årsverk til spesialundervisning, særskilt
-norskopplæring, opplæring i og på samisk og
-læreres fagkompetanse. Etter utvalgets vurdering
-tilsier dette at den videregående opplæringen har
-et svakere grunnlag for å gjøre kunnskapsbaserte
-valg for å utvikle skolen.
-For at skolene og skoleeierne skal kunne ha
-kvalitetsutviklingsprosesser som bygger på en
-bred forståelse av kvalitet der de tre kvalitetsområdene struktur-, prosess- og resultatkvalitet ses i
-sammenheng, mener utvalget at skolene og skoleeierne må ha tilgang til gode sammenstillings- og
-analyseverktøy. Verktøyene må være i stand til å
-sette både kvantitativ og kvalitativ informasjon inn
-i forståelige sammenhenger.
-I delinnstillingen beskriver utvalget hvordan
-blant annet verktøy som Analysebrett, Utdanningsdirektoratets statistikkbank og GSI er utarbeidet for å presentere relevant informasjon, i
-hovedsak kvantitativ, for å støtte skolene og skoleeierne i å innhente, fortolke og vurdere informasjon i kvalitetsutviklingsarbeidet. Skolene får også
-tilgang til informasjon om elevenes læring og trivsel fra prøver og undersøkelser i egne systemvisninger. Utvalget mener det må legges til rette for
-at skolene og skoleeierne kan finne og fortolke
-kvantitativ informasjon om elevenes læring og
-trivsel i sammenheng med informasjon om strukturer og organisering og kvalitativ informasjon om
-prosesser. Kvalitativ informasjon kan for eksempel være informasjon om praksis innhentet gjennom dialoger, observasjoner, intervjuer eller logger.
-Videreutvikle nasjonal innsamling av informasjon
-Utvalget mener at det er behov for å videreutvikle
-den nasjonale innsamlingen av informasjon om
-
-[Side 109]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-strukturer og prosesser. Spesielt er det behov for
-å sørge for at informasjonen som nasjonale
-myndigheter publiserer om den videregående
-opplæringen er av tilsvarende kvalitet og omfang
-som den for grunnskolen.
-Det er viktig å ha god informasjon om lærernes kompetanse fordi det utgjør en sentral forutsetning for arbeidet med kvalitet. Utvalget mener
-det er behov for å samle inn informasjon om
-lærernes utdanning, inkludert formell pedagogisk, didaktisk og faglig kompetanse.
-Utvalget peker i delinnstillingen på at det innhentes mye informasjon, og at ikke all informasjonen, oppleves som like relevant for kvalitetsutviklingsarbeidet. Utvalget mener skoleeierne og
-nasjonale myndigheter må sørge for at det ikke
-samles inn mer informasjon enn det som er nødvendig. Utvalget mener det er et behov for å gå
-gjennom hvilken informasjon som samles inn, opp
-mot hvilke behov aktørene i sektor har, og nytteverdien for dem. Utvalget foreslår å videreutvikle
-nasjonal innsamling av informasjon om skolesektoren gjennom GSI og Vigo, og å gjøre en kost–
-nytte-vurdering av informasjonen som samles inn.
-Redusere rapporteringsbelastningen
-Utvalget mener det er vesentlig at innsamlingen
-av informasjonen ikke tar mer tid enn nødvendig.
-Utvalget mener det er viktig at det i så stor grad
-som mulig legges til rette for gjenbruk av data og
-automatisering fra ulike systemer for å fjerne
-behovet for dobbeltføring. Utvalget foreslår å videreutvikle de digitale løsningene slik at innhentingen av informasjon gir en så lav rapporteringsbelastning som mulig i sektoren.
-Informasjon om strukturkvalitet til fylkesting og
-kommunestyrer
-Et mindretall i utvalget, ved utvalgsmedlemmene
-Aaslid, Bakkebråten Rasen og Botterli Udnæs,
-understreker betydningen av at de politiske skoleeierne må få informasjon om strukturkvaliteten i
-skolene for å kunne ta informerte valg og gjøre
-prioriteringer knyttet til ressurser, økonomi og
-kompetanse. Mindretallet foreslår at informasjon
-om strukturkvalitet, for eksempel gruppestørrelse og andel ansatte i undervisningsstilling uten
-lærerutdanning, skal inngå i informasjonen som
-kommunestyret og fylkestinget skal få årlig,6 og i
-kvalitetsdialogen.
-6
-
-Tidligere tilstandsrapport
-
-107
-
-Kapittel 8
-
-Verktøy for vurdering av organisering og struktur på
-samiskopplæringen
-Utvalget mener det er viktig at det finnes informasjonskilder om elevene som får opplæring i og på
-samisk. Sametinget har i innspill og møter med
-utvalget uttrykt at de trenger informasjon som
-kan si noe om kvaliteten i opplæringen samiske
-elever får. Utvalget foreslår derfor å utvikle verktøy for vurdering av organisering og struktur på
-samiskopplæringen, også for skoler utenfor det
-samiske forvaltningsområdet.
-Verktøy for informasjon om og støtte til arbeidet
-med elevmedvirkning
-Utvalget har gjennom arbeidet vært opptatt av å
-løfte fram elevenes perspektiver og å understreke
-betydningen av at elevene får medvirke i det som
-angår dem, i tråd med alder og modenhet (NOU
-2023: 1). Det nye kvalitetsutviklingssystemet skal
-fremme elevmedvirkning. Utvalget foreslår å
-utvikle egne verktøy for å innhente informasjon
-om og støtte til arbeidet med elevmedvirkning.
-Utvalget mener at formålet med verktøyene skal
-være å gi informasjon om hvordan elevene,
-lærerne, skolelederne og skoleeiere arbeider med
-elevmedvirkning, og hvordan elevene opplever
-egen medvirkning. Utformingen av verktøyet må
-ses i lys av utvalgets forslag om å utvikle en ny
-skolemiljøundersøkelse.
-Videreutvikle prosessverktøy
-Utvalget mener at nasjonale myndigheter bør tilby
-kvalitetssikrede verktøy som støtter innhenting av
-informasjon om og støtter arbeidet med prosesskvaliteten i skolene. Ståstedsanalysen og RefLex
-er verktøy som kan brukes til dette arbeidet.
-Utvalget har merket seg at disse verktøyene er
-mer relevante for skolelederne og skoleeierne
-enn for lærerne. Utvalget mener det er behov for å
-videreutvikle verktøy som skal støtte arbeidet
-med prosesskvalitet, slik som Ståstedsanalysen og
-RefLex, slik at de treffer lærernes, skolelederes
-og skoleeieres behov bedre.
-Avvikle undervisningsvurdering
-Utvalgets mindretall, ved utvalgsmedlemmene
-Aaslid, Hansen, Bakkebråten Rasen og Botterli
-Udnæs, foreslår å avvikle undervisningsvurderingen slik den gjennomføres i dag. Mindretallet
-viser til at verktøyene som brukes i undervisningsvurdering ikke er kvalitetssikret. Proses-
-
-[Side 110]
-
-108
-
-Kapittel 8
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-sene i etterkant av undervisningsvurderingen er
-heller ikke evaluert eller forsket på. Mindretallet
-mener det ligger til profesjonsoppdraget at
-lærerne tar ansvaret for å videreutvikle egen
-undervisning, i samarbeid med kollegaer og elevene. Dette følger av overordnet del hvor det står at
-lærere som i fellesskap reflekterer over og vurderer planlegging og gjennomføring av undervisningen, utvikler en rikere forståelse av god pedagogisk praksis. Dette må gjøres med utgangspunkt i
-både profesjonens kunnskapsgrunnlag og grunnopplæringens verdigrunnlag.
-Videreutvikle analyseverktøyet Analysebrett
-Utvalget ser at mange skoler og skoleeiere i dag
-bruker verktøy som private leverandører tilbyr,
-for å lagre, fortolke, vurdere og sammenstille
-kunnskap og informasjon. Utvalget mener at dette
-ikke bidrar til et likeverdighet i opplæringen, og at
-det ikke er hensiktsmessig bruk av skolenes eller
-skoleeiernes midler. Utvalget mener det må være
-nasjonale myndigheters rolle og ansvar å tilby et
-tilstrekkelig og helhetlig analyseverktøy som alle
-skolene og skoleeierne kan bruke, og som imøtekommer behovene i sektoren på en tilstrekkelig
-måte.
-Utvalget mener det er behov for å videreutvikle eksistrende analyseverktøy slik at de synliggjør og setter søkelys på betingelsene og prosessene som er med på å skape og påvirke kvalitetsutvikling. Utvalget mener at disse betingelsene
-må ses tydeligere i sammenheng med kunnskap
-og informasjon om elevenes læring og trivsel.
-Utvalget mener at analyseverktøyet Analysebrett som nasjonale myndigheter har utviklet, bør
-videreutvikles slik at skoler og skoleeiere i større
-grad kan se informasjon om elevenes læring og
-trivsel i sammenheng med informasjon om strukturer og organisering, og med kvalitativ informasjon om prosesser. Videreutviklingen av verktøyet
-bør også bidra til at resultatene formidles på en
-mer brukervennlig måte enn i dag. Det bør også
-bidra til større fleksibilitet og muligheter for å
-gjøre lokale tilpasninger. Aktørene som benytter
-verktøyet trenger ulik type informasjon i kvalitetsutviklingsarbeidet. Utvalget mener derfor at verktøyet må ha en funksjonalitet som gjør det mulig å
-legge til egen informasjon. Utvalget foreslår å
-videreutvikle Analysebrett til et verktøy som
-egner seg for å se ulike indikatorer i sammenheng
-og over tid.
-
-Helhetlig gjennomgang av alt støttemateriell
-I dag er det svært mange ulike kunnskaps- og
-informasjonskilder og støtteressurser tilgjengelig.
-Det kan gjøre det utfordrende for lærerne, skolelederne og skoleeierne å få oversikt over hvilke
-kunnskapsgrunnlag som er relevant for arbeidet.
-Utvalget mener at det store omfanget kan gjøre
-det vanskeligere å nyttiggjøre seg av informasjonen samlet sett. Utvalget mener det er behov for å
-gå gjennom og rydde opp i hvilke informasjonskilder og andre støtteressurser som er tilgjengelig.
-Utvalget foreslår derfor å gjennomføre en helhetlig gjennomgang av alt støttemateriell og alle støtteverktøyene nasjonale myndigheter tilbyr skoler
-og skoleeiere i kvalitetsutviklingsarbeidet. Formålet skal være å sikre at det som tilbys har god relevans og nytteverdi.
-Utvalgets forslag
-For kunnskap og informasjon om strukturer og prosesser foreslår utvalget
-– å videreutvikle nasjonal innsamling av informasjon om skolesektoren gjennom Grunnskolenes Informasjonssystem (GSI) og Vigo, og å
-gjøre en kost-nytte-vurdering av informasjonen
-som samles inn
-– å videreutvikle de digitale løsningene slik at
-innhentingen av informasjon gir en så lav rapporteringsbelastning som mulig i sektoren
-– å utvikle verktøy for vurdering av organisering
-og struktur på samiskopplæringen, også for
-skoler utenfor det samiske forvaltningsområdet
-– å utvikle egne verktøy for å innhente informasjon om og støtte til arbeidet med elevmedvirkning
-– å videreutvikle verktøy som skal støtte arbeidet
-med prosesskvalitet, for eksempel Ståstedsanalysen og RefLex, slik at det treffer lærernes,
-skoleledernes og skoleeiernes behov
-– å videreutvikle analyseverktøyet Analysebrett
-til et verktøy som egner seg for å se ulike indikatorer i sammenheng og over tid
-– å gjennomføre en helhetlig gjennomgang av alt
-støttemateriell og alle støtteverktøyene nasjonale myndigheter tilbyr skoler og skoleeiere i
-kvalitetsutviklingsarbeidet. Formålet skal være
-å sikre at det som tilbys har god relevans og
-nytteverdi.
-
-[Side 111]
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-Utvalgets medlemmer Aaslid, Hansen, Bakkebråten Rasen og Botterli Udnæs foreslår
-– å avvikle undervisningsvurderingen slik den
-gjennomføres i dag. Utvalgsmedlemmene
-mener at det ligger til profesjonsoppdraget at
-lærere tar ansvar for å videreutvikle egen
-undervisning, i samarbeid med kollegaer og
-elever.
-
-109
-
-Kapittel 8
-
-Utvalgets medlemmer Aaslid, Bakkebråten Rasen
-og Botterli Udnæs foreslår
-– at informasjon om strukturkvalitet, eksempelvis gruppestørrelse og andel ansatte i undervisningsstilling uten lærerutdanning, skal
-inngå i informasjonen som forelegges kommunestyret og fylkestinget,7 og i kvalitetsdialogen
-7
-
-Tidligere tilstandsrapport
-
-[Side 112]
-
-110
-
-Kapittel 9
-
-NOU 2023: 27
-
-Et nytt system for kvalitetsutvikling
-
-Kapittel 9
-
-Økonomiske og administrative konsekvenser
-I dette kapittelet presenterer utvalget vurderinger
-og beregninger av de økonomiske og administrative konsekvensene av utvalgets forslag.
-Utvalget legger til grunn at flere av forslagene
-vil bidra til at dagens ressurser utnyttes mer hensiktsmessig. Utvalget vurderer at det er mulig å
-realisere flere av forslagene innenfor dagens rammer ved å omprioritere ressurser og videreutvikle
-eksisterende strukturer og verktøy. Andre forslag
-vil kreve tilskudd av økonomiske midler. Flere av
-utvalgets forslag forutsetter videre utredning og
-samarbeid mellom partene. For disse forslagene
-er de økonomiske konsekvensene ukjente.
-Et helhetlig kvalitetsutviklingssystem i grunnopplæringen
-Som beskrevet i kapittel 4 foreslår utvalget et helhetlig system for kvalitetsutvikling i skolen som
-skal sikre elevenes læring og trivsel. Utvalget
-begrunner dette blant annet med å vise til betydningen av at elevene gjennomfører grunnopplæringen, og at det er betydelige kostnader forbundet med ulikhet og utenforskap.
-Dette forslaget har ingen direkte økonomiske
-konsekvenser, men handler om å dreie dagens
-arbeid med kvalitetsvurdering tydeligere mot en
-ambisjon om utvikling. Forslaget kan gjennomføres innenfor dagens økonomiske rammer, men vil
-ha administrative konsekvenser. Omfanget på de
-administrative konsekvensene vil variere med
-lokale behov og forutsetninger.
-
-9.1
-
-Systematisk kvalitetsutvikling
-forutsetter strukturer og prosesser
-for samarbeid og dialog
-
-Forskriftsfeste at jevnlige kvalitetsdialoger skal
-gjennomføres
-Utvalget foreslår at det presiseres i forskrift til
-opplæringsloven og privatskoleloven at det skal
-gjennomføres jevnlige kvalitetsdialoger mellom
-
-skoleeier og skoler. Det er noe ulik innretning på
-flertallets og mindretallets forslag.
-Uavhengig av hvordan kvalitetsdialogene innrettes mener utvalget at dette er en presisering og
-et forslag til struktur som følger av eksisterende
-forventninger, rettigheter og plikter, inkludert
-den nye bestemmelsen om kvalitetsutvikling i
-opplæringsloven § 17-12 og den nye bestemmelsen om skoledemokrati i opplæringsloven § 10-4,
-arbeidsmiljøloven kapittel 7 og 8 og skoleeiernes
-overordnede ansvar for grunnopplæringen. Kunnskapsgrunnlaget viser at det mange steder allerede finnes strukturer som kan videreutvikles for
-å ivareta formålet i utvalgets forslag. En forskriftsfesting vil kunne sikre en mer likeverdig praksis i
-alle skoler, kommuner og fylkeskommuner. Forslaget handler primært om å sikre at det prioriteres tid og ressurser til at slike dialoger blir gjennomført i praksis. Dermed er det rimelig å forvente at kvalitetsdialogene kan gjennomføres
-innenfor dagens økonomiske rammer.
-Følgeevaluering av kvalitetsdialogene
-Utvalget foreslår å følgeevaluere kvalitetsdialogene for å sikre kunnskapsutvikling og erfaringsutveksling i sektoren. Utvalget forventer at kvalitetsdialogene vil ta ulike former. Utvalget ser for
-seg videreutvikling av etablerte strukturer og at
-det vil foregå innovasjon og nytenkning gjennom
-samarbeid mellom skoler, skoleeiere og eventuelle andre aktører.
-Evalueringen bør følge et representativt utvalg
-av kommuner og fylkeskommuner som har ulike
-løsninger og utgangspunkt for å gjennomføre kvalitetsdialogene. Evalueringen bør kombinere
-kvantitativ og kvalitativ datainnsamling. Rammen
-for prosjektet bør være om lag 5 mill. kroner.
-Veileder for gjennomføring av kvalitetsdialogen for
-alle nivåer
-Utvalget foreslår å utvikle en veileder for gjennomføring av kvalitetsdialogen for alle nivåer.
+- å avvikle skolebidragsindikatorene i dagens form og ikke inkludere dem som en del av det nye kvalitetsutviklingssystemet

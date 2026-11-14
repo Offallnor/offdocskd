@@ -1,8 +1,9 @@
-# Siste kjøring av innboksen (2026-11-14 06:19)
+# Siste kjøring av innboksen (2026-11-14 06:29)
 
-- **nou201920190003000ddddocx.docx**: lest inn i «NOU 2019: 3» (161480 ord, PDF-teksten hadde 170171).
-- **nou202020200002000ddddocx.docx**: lest inn i «NOU 2020: 2» (76426 ord, PDF-teksten hadde 88940).
-- **nou202020200016000ddddocx.docx**: lest inn i «NOU 2020: 16» (180118 ord, PDF-teksten hadde 188644).
-- **nou202220220013000ddddocx.docx**: lest inn i «NOU 2022: 13» (105081 ord, PDF-teksten hadde 110070).
-- **nou202320230001000ddddocx.docx**: lest inn i «NOU 2023: 1» (110964 ord, PDF-teksten hadde 115331).
-- **nou202620260010000ddddocx.docx**: lest inn i «NOU 2026: 10» (201305 ord, PDF-teksten hadde 210522).
+- **nou201920190023000ddddocx.docx**: lest inn i «NOU 2019: 23» (489168 ord, PDF-teksten hadde 504262).
+- **nou202020200002000ddddocx (1).docx**: ikke lest inn – fant ikke dokumentet; gi filen samme navn som tittelen (for eksempel «NOU 2019 2.docx») eller id-en.
+- **nou202020200003000ddddocx.docx**: lest inn i «NOU 2020: 3» (268496 ord, PDF-teksten hadde 278707).
+- **nou202320230027000ddddocx.docx**: lest inn i «NOU 2023: 27» (75564 ord, PDF-teksten hadde 79726).
+- **nou202420240020000ddddocx.docx**: lest inn i «NOU 2024: 20» (158603 ord, PDF-teksten hadde 168117).
+- **stm202020210007000ddddocx.docx**: lest inn i «Meld. St. 7 (2020–2021)» (64563 ord, PDF-teksten hadde 66543).
+- **stm202220230013000ddddocx.docx**: lest inn i «Meld. St. 13 (2022–2023)» (42001 ord, PDF-teksten hadde 43975).

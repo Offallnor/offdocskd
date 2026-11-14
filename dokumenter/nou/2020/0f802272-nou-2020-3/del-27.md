@@ -1,909 +1,368 @@
-# NOU 2020: 3, del 27 av 42 (side 294–304)
+# NOU 2020: 3, del 27 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 294]
+# Ansettelser
 
-292
+\[:figur:fig28-1.jpg\]
 
-Kapittel 29
+## Utvalgets forslag
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Gjennom Kvalitetsreformen fikk universiteter
-og høyskoler nye fullmakter og større faglig frihet. Institusjonene skulle selv ta hovedansvaret
-for kvaliteten i studietilbudet. For å sikre at kvaliteten ble ivaretatt var det blant annet nødvendig
-med effektive, overordnede og faglig uavhengige
-systemer for kvalitetssikring og -tilsyn.
-NOKUTs oppgaver er hovedsakelig regulert i
-universitets- og høyskoleloven kapittel 2.2 I universitets- og høyskoleloven § 2-1 første ledd står
-det at NOKUT er et «statlig forvaltningsorgan
-som er faglig uavhengig i oppgavene nevnt i tredje
-og fjerde ledd». At NOKUT er et statlig forvaltningsorgan, innebærer at det er underlagt Kunnskapsdepartementets alminnelige styringsmyndighet i administrative, organisatoriske og økonomiske forhold, og at Kunnskapsdepartementet
-både kan delegere oppgaver til NOKUT og instruere NOKUT om forvaltningsoppgaver.3 At
-NOKUT er «faglig uavhengig i oppgavene nevnt i
-tredje og fjerde ledd», innebærer at NOKUT ikke
-kan instrueres eller gis pålegg om det faglige innholdet i disse oppgavene.4 Oppgavene som følger
-av § 2-1 tredje og fjerde ledd, er akkreditering av
-institusjoner og studietilbud, å gjennomføre evalueringer og tilsyn med norske utdanninger og institusjoner, samt å gi generell godkjenning av utenlandsk utdanning.
-Organer som NOKUT, med ansvar for å sikre
-og utvikle kvalitet i høyere utdanning, må oppfylle
-kravene i European Standards and Guidelines for
-Quality Assurance in the European Higher Education Area (ESG) for å være medlem i the European Association for Quality Assurance in Higher
-Education (ENQA). Organene må også oppfylle
-kravene i ESG for å være registrert i The European Quality Assurance Register for Higher Education (EQAR).5 Oppfyllelse av kravene i ESG forutsetter at arbeidet med kvalitetssikrings- og
-utviklingsaktiviteter innenfor høyere utdanning,
-inkludert evalueringer, er uavhengig av departementet, utdanningsinstitusjonene og andre aktører.6 Det er også fastsatt i studiekvalitetsforskriften § 1-5 første ledd at NOKUT skal sørge for at
-1
-
-2
-3
-4
-5
-
-Innst. S nr. 337 (2000–2001) Innstilling frå kyrkje-, utdannings- og forskningskomiteen om Gjør din plikt – krev din
-rett. Kvalitetsreform av høyere utdanning og St.meld. nr. 27
-(2000–2001) Gjør din plikt – krev din rett. Kvalitetsreform av
-høyere utdanning.
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven).
-Ot.prp. nr. 71 (2008–2009) Om lov om endringer i lov
-1. april 2005 nr. 15 om universiteter og høyskoler s. 12.
-Prop. 64 L (2017–2018) Endringer i universitets- og høyskoleloven (NOKUTs oppgaver, eksamen og personvern mv.
-Prop. 64 L (2017–2018) s. 15.
-
-virksomheten er i henhold til internasjonale
-regler og standarder og internasjonal praksis.7
-NOKUTs faglige uavhengighet ble presisert
-gjennom en lovendring i universitets- og høyskoleloven i 2018.8 Endringen synliggjør NOKUTs todelte oppgaveportefølje – at NOKUT er faglig uavhengig i enkelte saker, og at NOKUT i
-andre saker kan ha ordinære forvaltningsoppgaver der departementet har instruksjonsmyndighet. Endringen la til rette for at nye oppgaver ble
-overført fra departementet, samtidig som den
-nødvendige faglige uavhengigheten ble sikret et
-tydelig vern i loven. NOKUT kan ikke instrueres i
-de faglige vurderingene som er knyttet til akkreditering, evaluering og tilsyn.
-Formålet med NOKUT er «å føre tilsyn med
-kvaliteten i høyere utdanning og fagskoleutdanning, gi generell godkjenning av utenlandsk høyere utdanning, og å stimulere til kvalitetsutvikling
-som sikrer et høyt internasjonalt nivå i utdanningstilbudene ved institusjonene», jf. universitets- og høyskoleloven § 2-1 andre ledd. I samme
-bestemmelse heter det at NOKUTs arbeid skal
-bidra til at «samfunnet kan ha tillit til kvaliteten i
-norsk høyere utdanning, fagskoleutdanning og
-godkjent høyere utenlandsk utdanning. I sitt
-arbeid skal NOKUT søke å bistå institusjonene i
-deres utviklingsarbeid.» NOKUT skal ut fra dette
-være et organ som sikrer at utdanningen som blir
-tilbudt, holder en gitt kvalitet, og at studenter som
-begynner på en utdanning, kan ha tillit til at de får
-den undervisningen som er nødvendig for å oppfylle kravene som er satt til utdanningen.
-Det følger av universitets- og høyskoleloven
-§ 2-2 første ledd at NOKUT ledes av et styre som
-har det overordnede ansvaret for NOKUTs virksomhet og de beslutningene organet treffer. NOKUTs styre oppnevnes av departementet og består
-av ni medlemmer, jf. universitets- og høyskoleloven § 2-2 andre ledd. Loven krever at ett medlem skal være en student ved et universitet eller
-en høyskole, og at ett medlem skal være student
-ved en fagskole. Videre følger det av universitetsog høyskoleloven § 2-2 tredje ledd at styrets funk-
-
-6
-
-7
-
-8
-
-Prop. 64 L (2017–2018) s. 15. Sitat fra ENQA m.fl. European
-Standards and Guidelines for Quality Assurance in the
-European Higher Education Area, punkt 3.3: «Agencies
-should be independent and act autonomously. They should
-have full responsibility for their operations and the outcomes of those operations without third party influence.»
-Forskrift 1. februar 2010 nr. 96 om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning (studiekvalitetsforskriften).
-Prop. 64 L (2017–2018).
-
-[Side 295]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sjonstid er fire år, og at studentmedlemmer oppnevnes for to år.
-Begrunnelsen for at NOKUT skal ledes av et
-eget styre, er at dette underbygger at organet skal
-være et uavhengig statlig organ. En ordning med
-et eget styre er med på å sikre at organet har en
-selvstendig stilling i det faglige arbeidet, både
-overfor departementet og overfor institusjonene.9
-Styret er sammensatt med sikte på at det samlet
-sett skal inneha en bred og relevant kompetanse,
-som har legitimitet både i sektoren og i samfunnet
-ellers. Styret skal også ha innsikt i og forståelse av
-kvalitetssikringssystemer på overordnet nivå, og
-det skal ha god kjennskap til sektoren.10
-NOKUT og NOKUTs oppgaver er også nevnt
-flere andre steder i universitets- og høyskoleloven.
-
-29.2.2 Akkreditering av institusjoner og
-studietilbud
-Etter universitets- og høyskoleloven § 2-1 tredje
-ledd er NOKUTs oppgave blant annet å akkreditere institusjoner og studietilbud. § 3-1 sier at akkreditering er en faglig bedømming av om en høyere utdanningsinstitusjon eller et studietilbud fyller standarder og kriterier gitt av departementet
-og NOKUT. Det heter i bestemmelsen at «akkreditering er et vilkår for å kunne tilby høyere utdanning», noe som gjenspeiler at akkreditering er et
-vilkår for at utdanningen skal anerkjennes etter
-universitets- og høyskoleloven.
-Akkrediteringen skal baseres på en evaluering gjort av eksterne sakkyndige som er oppnevnt av NOKUT, jf. universitets- og høyskoleloven § 3-1 andre ledd. Basert på evalueringen
-avgjør NOKUT om institusjonen eller utdanningen skal akkrediteres. I universitets- og høyskoleloven § 1-2 andre ledd står det at «[h]vilken
-kategori den enkelte institusjon tilhører avgjøres
-av Kongen på grunnlag av en faglig vurdering fra
-Nasjonalt organ for kvalitet i utdanningen
-(NOKUT)». Kategoriene institusjonene kan tilhøre, er universitet, vitenskapelig høyskole eller
-høyskole. Det er altså Kongen som avgjør om en
-institusjon skal akkrediteres som universitet,
-vitenskapelig høyskole eller høyskole, på grunnlag av den faglige vurderingen til NOKUT, men
-uten å være bundet av denne. Akkreditering fra
-NOKUT er nødvendig, men ikke tilstrekkelig for
-9
-10
-
-St.meld. nr. 27 (2000–2001) s. 63.
-Ot.prp. nr. 40 (2001–2002) Om lov om endringer i lov 12.
-mai 1995 nr. 22 om universiteter og høgskoler og lov 2. juli
-1999 nr. 64 om helsepersonell merknader til § 14 nr. 1.
-
-293
-
-Kapittel 29
-
-plassering av en institusjon i en bestemt institusjonskategori.
-Universiteter og høyskolers adgang til å akkreditere egne studietilbud følger av universitets- og
-høyskoleloven § 3-3 og § 3-1 tredje ledd. Adgangen innebærer at institusjonen, innenfor rammen
-av sin faglige fullmakt, kan opprette studietilbud
-ved egen institusjon. De faglige fullmaktene
-begrenses blant annet av gradsforskriften, som
-gjelder de gradene og yrkesutdanningene med
-beskyttet tittel og normert studietid som kan tildeles av institusjoner som går inn under universitetsog høyskoleloven (se punkt 8.4.1 og 8.10.2).11 I
-følge forskriften avgjør Kunnskapsdepartementet
-hvilke institusjoner som kan gi de ulike gradene
-og utdanningene som forskriften omfatter, blant
-annet utdanninger i teologi, psykologi, medisin og
-rettsvitenskap. På områder hvor institusjonene er
-selvakkrediterende, må akkrediteringen følge de
-samme standardene og kriteriene som NOKUT
-legger til grunn ved sin akkreditering, og vurderingen av studietilbudet skal være dokumentert,
-jf. universitets- og høyskoleloven § 3-1 tredje ledd
-andre punktum. Adgangen til å opprette egne
-studietilbud er nærmere omtalt i kapittel 30.
-Hvis NOKUT finner at en institusjon eller et
-studietilbud ikke oppfyller fastsatte standarder og
-kriterier, skal NOKUT trekke akkrediteringen av
-institusjonen eller studietilbudet tilbake dersom
-institusjonen ikke har rettet forholdene innenfor
-en fastsatt frist, jf. universitets- og høyskoleloven
-§ 3-1 fjerde ledd. Dette gjelder studietilbud akkreditert både av NOKUT og av institusjonen selv.
-
-29.2.3 Tilsyn med kvalitetsarbeid
-Det følger av universitets- og høyskoleloven § 2-1
-tredje ledd at NOKUT skal «føre tilsyn med institusjonenes kvalitetsarbeid og føre tilsyn med at
-institusjoner og eksisterende studietilbud fyller
-gjeldende standarder og kriterier for akkreditering».
-Ifølge universitets- og høyskoleloven § 1-6 skal
-universiteter og høyskoler ha et «tilfredsstillende
-internt system for kvalitetssikring som skal sikre
-og videreutvikle kvaliteten i utdanningen.» I tillegg står det at «[s]tudentevalueringer skal inngå i
-systemet for kvalitetssikring». Bestemmelsen skal
-sikre både at kvalitet oppnås, og at kvaliteten i
-utdanningen videreutvikles. NOKUT skal føre til11
-
-Forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler (forskrift om grader og beskyttede
-titler).
-
-[Side 296]
-
-294
-
-Kapittel 29
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-syn med institusjonenes kvalitetsarbeid, blant
-annet med at de har et tilfredsstillende internt system for kvalitetssikring.
-Dersom NOKUT finner at et kvalitetssikringssystem ikke er tilfredsstillende, kan institusjonens
-faglige fullmakter trekkes tilbake. Det er departementet som beslutter om en faglig fullmakt skal
-trekkes tilbake hvis NOKUT har funnet at institusjonen ikke har et tilfredsstillende kvalitetsarbeid,
-jf. universitets- og høyskoleloven § 3-3 fjerde ledd.
-Som et ledd i oppfølgingen av Strukturmeldingen ble universitets- og høyskoleloven og studiekvalitetsforskriften endret i 2016.12 I hovedtrekk
-innebar endringene i studiekvalitetsforskriften
-strengere krav til etablering av master- og doktorgradsprogrammer, skjerpede krav for akkreditering som vitenskapelig høyskole og universitet og
-en styrking av NOKUTs arbeid med å heve kvaliteten i høyere utdanning.
-Med disse endringene la Kunnskapsdepartementet til rette for å dreie NOKUTs tilsynsoppgaver fra vurdering av institusjonenes kvalitetssikringssystemer til et bredere tilsyn med institusjonenes samlede kvalitetsarbeid. Det innebærer
-at det skal føres tilsyn med i hvilken grad institusjonenes kvalitetsarbeid legger til rette for og
-bidrar til å øke kvaliteten i studieprogrammene
-slik at studentene lærer mer. NOKUT skal også
-føre tilsyn med de administrative kvalitetssikringsrutinene ved institusjonene og bruken av
-disse. En hovedendring i studiekvalitetsforskriften er at NOKUT skal fastsette utfyllende kriterier
-for institusjonenes kvalitetsarbeid i egen forskrift.
-Studietilsynsforskriften utfyller studiekvalitetsforskriften og er fastsatt av NOKUT.13 Forskriften
-stiller opp de nærmere vilkårene som må være
-oppfylt for at en institusjon eller et utdanningstilbud skal kunne akkrediteres.
-Kunnskapsdepartementets studiekvalitetsforskrift og NOKUTs studietilsynsforskrift bygger på
-og er i tråd med Norges internasjonale forpliktelser nedfelt i ESG.
-
-29.2.4 Endringer i NOKUTs oppgaveportefølje
-Flere ikke-lovhjemlede oppgaver er etter hvert
-flyttet fra Kunnskapsdepartementet til NOKUT.
-Siden 2013 har NOKUT hatt i oppdrag å gjennomføre en årlig nasjonal undersøkelse av hvordan
-studentenes opplever kvalitet i studieprogrammene (Studiebarometeret), og NOKUT har i de
-12
-13
-
-Meld. St. 18 (2014–2015) Konsentrasjon for kvalitet.
-Forskrift 7. februar 2017 nr. 137 om tilsyn med utdanningskvaliteten i høyere utdanning (studietilsynsforskriften).
-
-senere årene også fått flere nye utrednings- og
-analyseoppdrag fra Kunnskapsdepartementet. Fra
-2018/2019 ble dessuten tilsynsoppgavene knyttet
-til økonomi ved private institusjoner og studentsamskipnader, flyttet fra departementet til
-NOKUT.
-En ny institusjonsstruktur med færre universiteter og høyskoler krever mindre ressurser fra
-NOKUT til periodiske evalueringer av institusjonenes egne kvalitetssikringssystemer. Når høyskoler slås sammen med universiteter, blir behovet for NOKUT-akkreditering av nye studieprogrammer redusert. NOKUT har selv ønsket å
-dreie ressursene mer i retning av tilsyn med
-eksisterende virksomhet og studietilbud.14 Tilsynet er i økende grad basert på risikovurderinger,
-for eksempel på bakgrunn av bekymringsmeldinger om sviktende kvalitet over tid. En mer målrettet, risikobasert tilnærming er også et fremtredende utviklingstrekk i internasjonal kvalitetssikring av høyere utdanning.
-
-29.3 Utvalgets vurderinger
-29.3.1 NOKUT
-NOKUT ble opprettet for å sikre kvaliteten ved
-universiteter og høyskoler etter Kvalitetsreformen, og organets oppgave var da å sikre
-effektive, overordnede og faglig uavhengige
-systemer for kvalitetssikring og tilsyn. Forvaltningsoppgavene til NOKUT har økt i antall og
-omfang, særlig de siste årene, og organets oppgaver i dag skiller seg fra den opprinnelige oppgaven, da NOKUT var et rent kvalitetssikringsorgan. Endringene i oppgaveporteføljen har, slik
-utvalget ser det, gitt NOKUT et stadig større preg
-av å være et direktorat.
-Delegeringen av forvaltningsoppgaver ligger
-innenfor statsrådens instruksjons- og organisasjonsrett. Økningen i forvaltningsoppgaver kan
-bidra til at NOKUTs kjerneoppgave knyttet til å
-sikre kvaliteten i norsk utdanning blir mindre synlig i mengden av alle de nye oppgavene NOKUT
-er blitt tillagt. Utvalget mener denne utviklingen
-kan være uheldig.
-Mange ulike forvaltningsoppgaver kan tvinge
-NOKUT til å måtte prioritere mellom disse, både
-av budsjettmessige og bemanningsmessige grunner. I prioriteringen mellom mange viktige oppgaver må nødvendigvis noen bli nedprioritert. Det
-er ikke gitt at kvalitetsarbeidet alltid vil ha førsteprioritet.
-14
-
-Meld. St. 18 (2014–2015) s. 80.
-
-[Side 297]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Siden NOKUTs oppgaveportefølje er utvidet,
-møter institusjonene NOKUT i mange ulike roller.
-Det kan føre til at både NOKUT og institusjonene
-kan bli forvirret over hvilken rolle NOKUT har i
-hvert enkelt tilfelle. Økningen i forvaltningsoppgaver kan lede til at tilliten til NOKUT som kvalitetssikringsorgan blir svekket. Det kan fort bli
-vanskelig å se grensen mellom når NOKUT opptrer som et faglig uavhengig organ som ikke kan
-instrueres, og når NOKUT gjør oppgaver for
-departementet på grunnlag av instruksjon.
-I tillegg kan viktig forvaltningskunnskap forsvinne fra et departement når flere oppgaver flyttes over til et direktorat. Å overføre en stor
-mengde forvaltningsoppgaver til direktorater kan
-være utfordrende med tanke på å vedlikeholde
-nødvendig kompetanse i departementene, og det
-kan medføre at departementene mister detaljkunnskap om hvordan ulike oppgaver skal løses.
-Dette kan gjelde kunnskap om sektoren og kunnskap om ulike typer forvaltningsoppgaver.
-Utvalget mener det er et behov for å vurdere
-om denne utviklingen er formålstjenlig, og om
-norsk høyere utdanning hadde vært bedre tjent
-med at NOKUT var et rent kvalitetssikringsorgan.
-Vurderingene av disse spørsmålene er vanskelige
-og krever et helhetsblikk på oppgavene som skal
-gjøres i sektoren, og på hvem som skal gjøre dem.
-Det er nylig gjennomført omstruktureringer og
-nyetableringer i organene som arbeider med høyere utdanning, og som ligger under departementet. Utvalget anbefaler at det igangsettes et arbeid
-med å evaluere NOKUTs rolle og oppgaver og
-med å vurdere den mest hensiktsmessige organiseringen av et kvalitetssikringsorgan for norsk
-høyere utdanning.
-Det er også tidligere foreslått å vurdere om
-enkelte av NOKUTs oppgaver kan overføres til
-andre organer, for eksempel behandling av søknader om generell godkjenning av utenlandsk utdanning.15 Dette mener utvalget at må ses i sammenheng med evalueringen av konsekvensene
-omstruktureringen av organer og oppgaver som
-tilligger departementet, har brakt med seg.
-NOKUT er omtalt med navn i universitets- og
-høyskoleloven. Dette er ikke gjort for andre
-underliggende organer under Kunnskapsdepartementet på universitets- og høyskolefeltet. Universitets- og høyskoleloven § 5-4 omtaler for eksempel «organ for internasjonalt utdanningssamarbeid», og bestemmelsen navngir dermed ikke
-forvaltningsorganet som har dette ansvaret,
-utover at oppgavene er omtalt. At NOKUT er titu-
-
-lert med navn i loven, er etter utvalgets oppfatning
-uttrykk for en noe rigid lovgivningsteknikk, som
-innebærer at det må gjøres en lovendring hvis
-organet skal skifte navn, for eksempel på grunn av
-organisatoriske endringer i forvaltningen. I tillegg
-er lovreguleringen av NOKUTs oppgaver
-omfangsrik. Dette står også i motsetning til reguleringen av oppgavene til Kunnskapsdepartementets andre underliggende organer.
-På den andre siden er NOKUT faglig uavhengig i en del av sine oppgaver, og utvalget mener
-det er behov for at disse er regulert. NOKUT skiller seg sånn sett fra Kunnskapsdepartementets
-andre underliggende organer, som ikke er faglig
-uavhengige. Dette kan tilsi et økt behov for identifisering av NOKUT som organ.
-Alt i alt foreslår derfor utvalget ingen endring
-av at NOKUT blir navngitt i loven.
-
-29.3.2 NOKUTs faglige uavhengighet
-NOKUTs faglige uavhengighet ble presisert ved
-en lovendring i 2018. Ved denne lovendringen ble
-det presisert at NOKUT er faglig uavhengig i oppgavene som er nevnt i universitets- og høyskoleloven § 2-1 tredje og fjerde ledd, som gjelder akkreditering, evaluering og tilsyn med norske utdanninger og institusjoner og generell godkjenning
-av utenlandsk utdanning.
-NOKUT har som nevnt fått flere nye oppgaver
-de siste årene, blant annet å godkjenne utenlandsk yrkesopplæring. Dette er en fag- eller
-yrkesopplæring på videregående nivå.16 Oppgaven er delegert til NOKUT fra Kunnskapsdepartementet. NOKUT er ikke faglig uavhengig i
-denne oppgaven, noe som innebærer at Kunnskapsdepartementet kan instruere NOKUT om
-hva organet skal gjøre knyttet til godkjenning av
-utenlandsk yrkesopplæring. NOKUT godkjenner
-også utenlandsk utdanning på høyere nivå, etter
-fagskoleloven eller universitets- og høyskoleloven.17 I disse oppgavene er NOKUT faglig uavhengig. Ifølge ordlyden i dagens universitets- og
-høyskolelov § 2-1 er NOKUT faglig uavhengig ved
-«generell godkjenning av utenlandsk utdanning».
-Ordlyden tilsier at NOKUT også er faglig uavhengig når organet vurderer utenlandsk yrkesutdanning, siden lovteksten ikke presiserer at NOKUT
-er faglig uavhengig bare ved vurderingen av utenlandsk høyere utdanning. Reguleringen av
-16
-17
-
-15
-
-Meld. St. 18 (2014–2015) s. 69.
-
-295
-
-Kapittel 29
-
-Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 a.
-Lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning
-(fagskoleloven) § 7, universitets- og høyskoleloven § 3-4.
-
-[Side 298]
-
-296
-
-Kapittel 29
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-NOKUTs faglige uavhengighet i oppgavene
-knyttet til godkjenning av utenlandsk utdanning
-fremstår derfor som noe uoversiktlig.
-Utvalget mener det er klart at NOKUT skal
-være faglig uavhengig i oppgaver som gjelder akkreditering, evaluering og tilsyn. Utvalget setter
-derimot spørsmålstegn ved om generell godkjenning av utenlandsk utdanning er en oppgave hvor
-det er formålstjenlig at NOKUT er faglig uavhengig. Det fremstår for utvalget som at generell godkjenning av utenlandsk utdanning er en typisk forvaltningsoppgave.
-Godkjenning av utenlandsk utdanning er heller ikke en oppgave som alene ligger hos NOKUT.
-Institusjonene godkjenner også ulike utdanninger gjennomført i utlandet, for eksempel i tilfeller
-der studenter velger å ta et utvekslingsopphold
-som en del av sitt utdanningsløp.
-Oppgaver knyttet til godkjenning av utenlandsk utdanning er tidligere foreslått overført til
-et annet organ.18 Også dette tilsier etter utvalgets
-mening at godkjenning av utenlandsk utdanning
-ikke er en oppgave hvor NOKUT er faglig uavhengig.
-På den andre siden har utvalget begrenset
-kunnskap om årsakene til at generell godkjenning
-av utenlandsk utdanning er definert som en oppgave der NOKUT er faglig uavhengig i dagens lov.
-Selv om det etter utvalgets oppfatning er flere
-argumenter som tilsier at generell godkjenning av
-utenlandsk utdanning ikke bør være en oppgave
-som faller inn under NOKUTs faglige uavhengighet, har utvalget for liten kunnskap om motargumentene til å foreslå endringer på dette punktet.
-Utvalget anbefaler derfor å la «generell godkjenning av utenlandsk utdanning» fortsette å være
-regulert som en oppgavene der NOKUT er faglig
-uavhengig.
-Rettskildebildet blir uoversiktlig når noen av
-NOKUTs oppgaver er regulert, mens andre oppgaver ikke er regulert. Slik gjeldende universitetsog høyskolelov § 2-1 er utformet, fremstår opplistingen av oppgavene som uttømmende, men dette
-er ikke tilfellet. Utvalget anser at det ikke er
-behov for å ha en egen lovbestemmelse om NOKUTs oppgaver utover en bestemmelse om hvilke
-oppgaver organet er faglig uavhengig i.
-Videre foreslår utvalget å få begrepsbruken i
-opplistingen av de faglig uavhengige oppgavene til
-å samsvare med begrepsbruken i studiekvalitetsforskriften § 1-5. At begrepsbruken i opplistingen
-og forskriften ikke er lik, kan bidra til et uklart og
-uoversiktlig rettskildebilde.
-18
-
-Meld. St. 18 (2014–2015).
-
-29.3.3 NOKUTs oppgaver og myndighet
-Hovedreglene om NOKUTs virksomhet i universitets- og høyskoleloven er samlet i kapittel 2, men
-flere bestemmelser om NOKUT finnes spredt i
-universitets- og høyskoleloven. Utvalget har derfor vurdert å samle alle bestemmelsene om
-NOKUT i ett kapittel. Det er mange grunner som
-kan tale for dette, blant annet at det blir lettere å
-finne frem til hvilke bestemmelser som regulerer
-NOKUT og NOKUTs virksomhet. På den annen
-side er bestemmelsene i gjeldende lov plassert
-der de faglig hører hjemme. Det kan dermed blir
-mer uoversiktlig om bestemmelsene blir flyttet
-bort fra andre regler som omtaler samme tema.
-Utvalget har falt ned på at bestemmelser om
-NOKUT fortsatt bør være plassert der de faglig
-hører hjemme.
-Utvalget har fått innspill fra NOKUT om at det
-er behov for å rydde opp i strukturen og terminologien i universitets- og høyskoleloven § 2-1.
-NOKUT viser til bestemmelsens andre ledd, som
-beskriver NOKUTs formål. I første setning omtales de konkrete oppgavene NOKUT skal utføre.
-NOKUT mener at dette ikke er en beskrivelse av
-formålet. Det som gir en dekkende angivelse av
-formålet, er særlig andre setning i andre ledd,
-som regulerer NOKUTs overordnede samfunnsoppdrag. Siste setning i § 2-1 andre ledd omtaler
-hvordan NOKUT skal gjennomføre de lovpålagte
-oppgavene, og er derfor heller ikke en nærmere
-angivelse av formålet. NOKUT foreslår å rydde i
-bestemmelsen slik at det kommer tydeligere frem
-hva som er formålet, og hva som er de lovpålagte
-oppgavene, slik at § 2-1 andre ledd utelukkende
-regulerer NOKUTs samfunnsoppdrag.
-Utvalget er enig i NOKUTs argumenter, og ser
-at det er behov for opprydding i bestemmelsen.
-Utvalget mener imidlertid at det er mer hensiktsmessig med en egen bestemmelse som omtaler
-NOKUTs myndighet og formål. I tillegg mener
-utvalget at universitets- og høyskoleloven § 2-1
-andre ledd første setning angir noe som ligger
-mellom en oppgave og et formål ved at NOKUT
-skal «stimulere til kvalitetsutvikling som sikrer et
-høyt internasjonalt nivå i utdanningstilbudene ved
-institusjonene». Utvalget mener formuleringen
-ligger nærmere en målsetting enn en konkret
-oppgave, og foreslår derfor å ta denne delen av
-bestemmelsen inn i en ny bestemmelse om
-NOKUTs formål. Den nye formålsbestemmelsen
-for NOKUT vil, sammen med forslaget om en ny
-bestemmelse som regulerer hvilke oppgaver
-NOKUT er faglig uavhengig i, og en utskillelse av
-dagens § 2-1 fjerde ledd andre og tredje punktum i
-
-[Side 299]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-en egen bestemmelse, erstatte dagens universitets- og høyskolelov § 2-1 (se lovforslaget §§ 14-1
-og 14-2).
-Videre foreslår NOKUT å stryke «benytte
-andre virkemidler og gjennomføre andre tiltak» i
-universitets- og høyskoleloven § 2-1 tredje ledd
-siste setning. Bakgrunnen for forslaget er at formuleringen gir inntrykk av å gi NOKUT flere
-virkemidler enn det er rettslig grunnlag for. I forarbeidene trekkes det frem at bestemmelsen ble
-innført for å gjøre det tydelig at NOKUT kan
-anvende «mindre omfattende, inngripende og ressurskrevende tiltak» i saker hvor det strengt tatt
-ikke er nødvendig å igangsette en full revidering
-av akkreditering.19 NOKUT anfører imidlertid at
-disse oppgavene kan gjennomføres i tråd med den
-alminnelige handlefriheten, uten at denne presiseringen i loven er nødvendig. Videre mener
-NOKUT at dersom bestemmelsen er ment å
-omfatte andre bebyrdende virkemidler og tiltak
-enn de som fremkommer ellers i loven, må disse
-ha hjemmel i lov, og at en generalklausul som
-denne antakelig uansett ikke er tilstrekkelig.
-Utvalget er enig i dette, og foreslår derfor å følge
-opp NOKUTs forslag om å fjerne universitets- og
-høyskoleloven § 2-1 tredje ledd, tredje setning.
-Utvalget mener det er behov for opprydding
-når det gjelder NOKUTs formål og oppgaver overfor henholdsvis universitetene og høyskolene og
-fagskolene, og hvor disse formålene og oppgavene er regulert. I gjeldende universitets- og
-høyskolelov er organet NOKUT regulert, mens
-NOKUTs oppgaver er regulert delvis i universitets- og høyskoleloven og delvis i fagskoleloven.
-NOKUTs vurdering er at det ikke fremstår som
-klart hvilke oppgaver som knytter seg til hvilke
-institusjoner. De sier blant annet i innspillet sitt at
-«det faktum at fagskolene er nevnt ett sted i paragrafen, men tilsynelatende utelukket andre steder
-etterlater uklarhet om NOKUTs kompetanse på
-dette området.»
-Universitets- og høyskoleloven § 2-1 andre
-ledd sier at formålet med NOKUT blant annet er
-«å føre tilsyn med kvaliteten i høyere utdanning
-og fagskoleutdanning […]». Videre i bestemmelsen er terminologien derimot mer rettet mot universitetene og høyskolene. I tillegg er oppgavene
-til NOKUT overfor fagskolene delvis regulert i
-fagskoleloven § 5 første ledd, som sier at «Nasjonalt organ for kvalitet i utdanningen (NOKUT)
-fører tilsyn med kvaliteten i høyere yrkesfaglig
-utdanning og akkrediterer fagskoleutdanning, jf.
-
-lov 1. april 2005 nr. 15 om universiteter og høyskoler kapittel 2».
-NOKUT foreslår at NOKUT som organ reguleres i universitets- og høyskoleloven, og at formålet
-og oppgavene for de to sektorene reguleres i de
-respektive lovene. Utvalget er enig i dette, og
-mener at en slik deling vil gjøre det mer tydelig
-hvilke oppgaver NOKUT har for de ulike sektorene. Det vil også gjøre lovene mer brukervennlige. Dersom anbefalingen blir fulgt opp, må det
-også gjøres nødvendige endringer i fagskoleloven.
-
-29.3.4 Klagebehandling av NOKUTs vedtak
-om akkreditering
-29.3.4.1 Særregelen i universitets- og
-høyskoleloven § 2-1 femte ledd
-Det følger av universitets- og høyskoleloven § 2-1
-femte ledd at «NOKUTs vedtak overfor private
-institusjoner kan i forskrift unntas fra bestemmelsene i forvaltningsloven kap. VI». Dette er gjort
-ved at NOKUTs faglige vurdering av de faktiske
-forholdene ikke kan påklages i forbindelse med
-vedtak om evaluering av kvalitetssikringssystemer og akkreditering og godkjenning av studier og institusjoner. Videre er hvem som har
-klagerett, begrenset til «den som et vedtak direkte
-gjelder for», jf. studiekvalitetsforskriften § 1-9 bokstav b og c.
-Forvaltningsloven er en lov som gir generelle
-regler for forvaltningens saksbehandling, og det
-kan ha en verdi å ha standardiserte løsninger. Det
-er imidlertid adgang til å fastsette særregler slik
-at saksbehandlingsreglene er fleksible og gir rom
-for tilpasninger til konkrete sakstyper når det er
-hensiktsmessig.
-Reglene om klage og omgjøring av vedtak i
-forvaltningsloven gjelder ved overprøving av
-enkeltvedtak, jf. forvaltningsloven § 28.20 Et
-enkeltvedtak er en avgjørelse som er bestemmende for rettigheter eller plikter til bestemte private rettssubjekter, og som treffes under utøving
-av offentlig myndighet, jf. forvaltningsloven § 2
-første ledd. NOKUTs vedtak overfor private institusjoner er derfor enkeltvedtak etter forvaltningsloven. De statlige institusjonene er ikke private
-rettssubjekter, og vedtak fattet overfor dem er
-ikke enkeltvedtak. Statlige institusjoner har dermed i utgangspunktet ikke rettigheter etter forvaltningsloven, slik som retten til å klage på et
-20
-
-19
-
-Ot.prp. nr. 71 (2008–2009) s. 31.
-
-297
-
-Kapittel 29
-
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
-
-[Side 300]
-
-298
-
-Kapittel 29
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-vedtak. Begrunnelsen for hjemmelen i universitets- og høyskoleloven § 2-1 femte ledd var blant
-annet å sikre samme klageordning for statlige og
-private institusjoner ved å gjøre unntak fra forvaltningslovens regler for behandling av klage over
-enkeltvedtak overfor private institusjoner.21 Siden
-statlige institusjoner i utgangspunktet ikke har
-klagerett fordi de ikke har rettigheter etter forvaltningsloven, ble klageretten innskrenket for
-private institusjoner i stedet for at man ga statlige
-institusjoner rettigheter etter forvaltningsloven.
-Utvalget setter imidlertid spørsmålstegn ved
-om rettsoppfatningen som bestemmelsen i universitets- og høyskoleloven § 2-1 femte ledd bygger
-på, er riktig. Det følger av forvaltningsloven § 2
-fjerde ledd at «[e]t forvaltningsorgan likestilles
-med privat rettssubjekt ved anvendelse av første
-ledd dersom organet har samme interesse eller
-stilling i saken som private parter kan ha». Statlige
-og private institusjoner har den samme interessen
-i vedtak som NOKUT fatter. Etter denne bestemmelsen har dermed også statlige institusjoner rettigheter på lik linje med private etter forvaltningsloven. Utvalget mener derfor at begrunnelsen for
-bestemmelsen i universitets- og høyskoleloven
-§ 2-1 femte ledd baserer seg på en feil oppfatning
-av forvaltningsloven. På bakgrunn av dette anser
-utvalget at statlige institusjoner har full klagerett
-på lik linje med private institusjoner over NOKUTs
-vedtak om akkreditering.
-
-29.3.4.2 Begrunnelse og hjemmel for begrenset
-omfang av prøvingen i klageinstansen
-Klagebehandlingen av NOKUTs vedtak i saker
-om evaluering av kvalitetssikringssystemer og
-akkreditering og godkjenning av studier og institusjoner avviker fra forvaltningslovens regler, ved
-at omfanget av prøvingen av NOKUTs faglige vurdering begrenses til en legalitetskontroll. Hovedreglene etter forvaltningsloven er at klageinstansen kan prøve alle sider av et vedtak, jf. forvaltningsloven § 34.
-Det følger av forvaltningsloven § 28 fjerde ledd
-at det i forskrift kan fastsettes klageregler som
-utfyller eller avviker fra klagereglene i forvaltningsloven på særskilte saksområder. Det er
-videre presisert at «[f]orskrift som begrenser
-klageretten eller som ellers vesentlig endrer
-reglene til skade for partsinteresser, kan bare gis
-når tungtveiende grunner taler for det». Det kreves ikke «tungtveiende grunner» for å fastsette
-21
-
-Ot.prp. nr. 79 (2003–2004) Om lov om universiteter og høyskoler s. 80.
-
-særregler som er i de private partenes interesse,
-heller ikke når Stortinget fastsetter særreglene i
-lov.
-I dagens regelverk er innskrenkningen av
-adgangen til å klage over NOKUTs akkrediteringsvedtak fastsatt i studiekvalitetsforskriften,
-med hjemmel i universitets- og høyskoleloven § 2-1.
-Utvalget mener at bestemmelsene i studiekvalitetsforskriften § 1-9 har en svært svak hjemmel i
-§ 2-1. Ordlyden i universitets- og høyskoleloven
-§ 2-1 femte ledd er spesifikt rettet mot private
-institusjoner, mens bestemmelsene i studiekvalitetsforskriften også innskrenker klageadgangen
-til de statlige institusjonene. § 2-1 femte ledd kan
-derfor ikke hjemle begrenset overprøving av faglige vurderinger i saker om akkreditering som
-gjelder statlige institusjoner.
-Formuleringen i § 2-1 femte ledd er «unntas
-fra bestemmelsene i […]». Dette tilsier at bestemmelsen gir hjemmel for å unnta hele bestemmelser, og passer dermed ikke så godt som hjemmel
-for å vedta innskrenkninger i bestemmelsene.
-Dette samsvarer også med begrunnelsen for
-femte ledd om å frata private institusjoner klagerett. Hjemmelen passer dermed ikke til å
-begrense omfanget av klagenemndas overprøving
-og er etter utvalgets oppfatning uklar.
-Universitets- og høyskoleloven § 2-1 femte
-ledd begrunnes i tillegg med at en «full behandling av NOKUTs vedtak i to instanser vil kunne
-føre til lang saksbehandlingstid og et stort byråkrati», og videre at «departementet kan derfor i
-forskrift gi hjemmel til innskrenkninger i forvaltningslovens klagebestemmelser, slik at det for
-eksempel bare er saksbehandlingsfeil som kan
-påklages, og ikke NOKUTs faglige vurderinger».22
-Dette er argumenter som er relevante for at
-retten til å klage over NOKUTs vedtak skal være
-innskrenket. Utvalget mener derimot at begrunnelsen for å innskrenke klageadgangen bør være
-at NOKUT er et forvaltningsorgan med en særlig
-uavhengig stilling i saker som gjelder akkreditering, tilsyn og evalueringer. At NOKUT er faglig
-uavhengig i slike saker, innebærer blant annet at
-organet ikke kan instrueres, jf. universitets- og
-høyskoleloven § 2-1 første ledd. Faglig uavhengighet innebærer imidlertid etter sin ordlyd mer enn
-et forbud mot instruksjon; det innebærer også et
-forbud mot at NOKUTs faglige vurderinger skal
-overprøves av andre organer, som en klagenemnd. Ordlyden i § 2-1 første ledd hindrer etter
-utvalgets oppfatning en full overprøving av disse
-22
-
-NOU 2003: 25 Ny lov om universiteter og høyskoler s. 180.
-
-[Side 301]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sakene i en klagenemnd. Skulle en full overprøving tillates, ville ikke NOKUT være faglig uavhengig i disse sakene.
-NOKUTs vedtak i saker om akkreditering
-baseres på sakkyndiges vurderinger, og det er
-behov for særlig kompetanse for å treffe vedtak i
-disse sakene. NOKUT skal ta selvstendig stilling
-til innholdet i de sakkyndige vurderingene, og må
-derfor ha en viss faglig kompetanse selv på
-samme område. Det er NOKUTs styre som treffer
-vedtak om akkreditering.23 Sammensetningen i
-styret er tilpasset behovet for kompetanse i denne
-sakstypen. At NOKUT også er uavhengig i slike
-faglige spørsmål, tilsier at det bare er de rettslige
-sidene av styrets beslutninger som kan overprøves, og ikke det faglige skjønnet styret er sammensatt for å utøve.
-Utvalget mener derfor at innskrenkningen av
-retten til å klage over NOKUTs vedtak om akkreditering kan hjemles i universitets- og høyskoleloven § 2-1 første ledd. Dette bør imidlertid presiseres tydeligere i lovbestemmelsen. Utvalget foreslår derfor å legge til i nytt lovforslag § 14-2 tredje
-ledd at «NOKUTs utøvelse av faglig skjønn i saker
-etter denne bestemmelsen kan ikke overprøves».
-På bakgrunn av dette mener utvalget også at gjeldende lov § 2-1 femte ledd kan oppheves.
-
-29.3.4.3 Begrensninger i hvem som kan påklage
-vedtak om akkreditering
-At hjemmelen for å innskrenke omfanget av
-prøvingen i klageinstansen er NOKUTs faglige
-uavhengighet, innebærer at regelen som innskrenker hvem som kan klage, ikke har hjemmel i
-lov, men bare følger av studiekvalitetsforskriften.
-Et krav om faglig uavhengighet kan ikke
-begrunne en innskrenkning i hvem som kan
-klage.
-På bakgrunn av dette må det være tungtveiende grunner for å innskrenke hvem som kan
-klage, ettersom en slik innskrenkning bare er
-hjemlet i forskriften, jf. forvaltningsloven § 28
-fjerde ledd. En annen løsning er at denne innskrenkningen også hjemles i loven.
-Innskrenkningen i hvem som kan klage, innebærer at det bare er institusjonen selv som kan
-klage på NOKUTs vedtak om akkreditering, ettersom det er institusjonen selv som vedtaket
-«direkte gjelder for», jf. studiekvalitetsforskriften
-§ 1-9 bokstav b. Etter forvaltningsloven § 28 har
-også andre «med rettslig klageinteresse» anledning til å klage på enkeltvedtak. For akkredite23
-
-Universitets- og høyskoleloven § 2-2 første ledd.
-
-299
-
-Kapittel 29
-
-ringsvedtak kan for eksempel andre institusjoner
-og studenter ha rettslig klageinteresse.
-Det kan være gode grunner til å innskrenke
-klageretten slik at kun bare institusjonen selv kan
-påklage et vedtak. Begrunnelsen som er gitt, er
-den samme som for universitets- og høyskoleloven § 2-1 femte ledd: Hensikten med at det bare
-er den aktuelle institusjonen eller søkeren som
-har rettslig klageinteresse i forvaltningslovens
-forstand, er å begrense NOKUTs arbeidsbyrde og
-unngå en omfattende og byråkratisk klagebehandling. Akkreditering fyller et nasjonalt formål i det å
-kvalitetssikre høyere utdanning. Akkreditering er
-ikke et begrenset gode; det tilkommer alle som
-søker om det og oppfyller et sett av kriterier. På
-denne måten er det et kvalitetsstempel som alle
-institusjoner kan få. Dette kan gi et argument for å
-begrense klageretten. Det må likevel vurderes om
-denne begrunnelsen er tungtveiende. Utvalget
-mener denne innskrenkningen i klageretten bør
-ha en nærmere og bedre begrunnelse, eller flyttes
-til loven.
-Forarbeidene legger stor vekt på at klagebehandlingen ikke skal bli for omfattende og byråkratisk. I saker hvor det er oppnevnt faglig
-sakkyndige og saksbehandlingen er omfattende
-og ressurskrevende, vil det bli kostbart og tidkrevende dersom klageorganet skal ha myndighet til
-å prøve alle sider av saken.24 Utvalget anser at
-dette er relevante argumenter, men som nevnt
-ovenfor mener utvalget at innskrenkningen
-hovedsakelig bør begrunnes i NOKUTs faglige
-uavhengighet.
-Det er heller ikke nødvendigvis alltid slik at
-vedtak basert på sakkyndige evalueringer fører til
-omfattende og langvarig klagebehandling. En
-klagenemnd skal etter forvaltningsloven § 34
-prøve alle sider av det påklagede vedtaket, men
-det innebærer ikke nødvendigvis at nemnda må
-innhente nye sakkyndige uttalelser. I tilfeller der
-det er begrunnet tvil om hvorvidt den faglige evalueringen som er gjort, er riktig, er det nødvendig
-å innhente en ny sakkyndig evaluering. I andre tilfeller må klageinstansen vurdere om det som
-kommer frem i klagebehandlingen, tilsier at den
-opprinnelige sakkyndige uttalelsen kan legges til
-grunn eller om det er behov for enten supplerende sakkyndige uttalelser eller en fullstendig ny
-evaluering. En innskrenkning i klageinstansens
-prøvingsrett gjør at ikke alle sider av saken kan
-overprøves. Dersom det er tvil om hvorvidt de
-24
-
-Kunnskapsdepartementet. Rundskriv F-08-10: Forskrift om
-kvalitetssikring og kvalitetsutvikling i høyere utdanning og
-fagskoleutdanning s. 12.
-
-[Side 302]
-
-300
-
-Kapittel 29
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sakkyndiges vurdering er riktig, kan ikke klageinstansen i sakene som gjelder NOKUTs vedtak,
-beslutte å innhente ny vurdering, fordi det faglige
-skjønnet ikke kan overprøves.25 Utvalget anser at
-dette er argumenter som kan tale for at klageadgangen ikke bør innskrenkes.
-
-29.3.4.4 Utvalgets anbefalinger
-Utvalget har hatt begrenset tid til å hente inn nødvendige opplysninger om hvordan klagebehandlingen av NOKUTs vedtak om akkreditering fungerer. Klagesystemet fremstår til dels svakt
-begrunnet, og utvalget anbefaler derfor å gjøre en
-gjennomgang av systemet og av begrunnelsene
-som er gitt for innskrenkningene. Som et minimum anbefaler utvalget å innføre en hjemmel som
-tydeligere begrunner innskrenkningen i prøvingen av spørsmål hvor NOKUT er faglig uavhengig, eventuelt også å flytte innskrenkningen av
-hvem som kan klage fra forskriften til loven.
-29.3.5 Forskriftshjemmel
-I 2016 ble departementets myndighet til å gi forskrift som gjelder NOKUTs virksomhet samlet i
-universitets- og høyskoleloven § 2-1 sjette ledd.
-Begrunnelsen for endringen var at departementet
-så det som hensiktsmessig å samle forskriftsmyndigheten i én bestemmelse.26 Forskriftshjemmelen i universitets- og høyskoleloven § 2-1
-sjette ledd er sentrert rundt tre temaer. Temaene
-gjelder «krav til kvalitetssikringssystemer og kvalitetsarbeid», «kriterier for akkreditering av institusjoner og studietilbud» og «saksbehandlingsregler
-for NOKUTs virksomhet», jf. universitets- og høgskoleloven § 2-1 sjette ledd bokstav a, b og c.
-NOKUT foreslår å plassere forskriftshjemlene
-«krav til kvalitetssikringssystemer og kvalitetsarbeid» og «kriterier for akkreditering av institusjoner og studietilbud» der de saklig sett hører
-hjemme. NOKUT anfører at disse forskriftshjemlene omtaler utvalgte oppgaver som gjelder
-konkrete saklige områder. NOKUT foreslår at forskriftshjemmelen i universitets- og høyskoleloven
-§ 2-1 sjette ledd bokstav c kan stå der den står i
-dag. Denne bestemmelsen er mer generell i sin
-utforming og gjelder saksbehandlingsregler for
-hele NOKUTs virksomhet. Utvalget er enig i
-
-NOKUTs forslag og foreslår å flytte § 2-1 sjette
-ledd bokstav a og b til bestemmelsene hvor de faglig sett hører hjemme. Utvalget mener at det ikke
-er behov for en hjemmel som gir departementet
-adgang til å fastsette saksbehandlingsregler om
-NOKUTs virksomhet, fordi dette kan departementet uansett gjøre. Utvalget foreslår derfor at
-dagens § 2-1 sjette ledd bokstav c ikke videreføres.
-Det følger av universitets- og høyskoleloven
-§ 2-1 sjette ledd at NOKUT kan gi «utfyllende forskrift om de samme emnene.» Dette omfatter
-hvilke krav som kan stilles til kvalitetssikringssystemene og til kvalitetsarbeidet, standarder og kriterier for akkreditering av institusjoner og studietilbud og saksbehandlingsregler. NOKUT foreslår
-i sitt innspill å fjerne denne forskriftsmyndigheten
-fra NOKUT fordi de anser at det er mest hensiktsmessig at departementet fastsetter forskriftene.
-NOKUT anfører blant annet at det ikke er hensiktsmessig at NOKUT gir utfyllende forskrift om
-de samme emnene som departementet. Videre
-anfører NOKUT at det fremstår som unødig kompliserende at departementet og NOKUT fastsetter
-hver sine forskrifter om grunnleggende samme
-tematikk rettet mot samme pliktsubjekter.
-Utvalget er enig i at det er unødig kompliserende at NOKUT også er gitt forskriftsmyndighet
-i universitets- og høyskoleloven § 2-1 sjette ledd.
-At loven legger forskriftsmyndighet til ulike
-nivåer om de samme temaene, kan gjøre det komplisert for brukerne å finne frem til rett forskrift
-og sikre seg et fullt bilde av rettsområdet. Utvalget foreslår derfor å oppheve gjeldende § 2-1
-sjette ledd siste setning.
-Utvalget vil understreke at departementet som
-hovedregel bør ha myndigheten til å fastsette sentrale forskrifter, ikke underliggende organer.
-Underliggende organer kan eventuelt bistå i arbeidet med å utarbeide forskriftene.
-NOKUT kommer videre med et innspill hvor
-de anfører at det er behov for en helhetlig gjennomgang av Kunnskapsdepartementets studiekvalitetsforskrift og NOKUTs studietilsynsforskrift. Sistnevnte gir utfyllende bestemmelser
-til departementets forskrift. NOKUT foreslår å
-samle disse to forskriftene i én forskrift.27
-Utvalget er enig med NOKUT, og anbefaler å
-gjøre en gjennomgang av de to forskriftene med
-sikte på å slå dem sammen til én forskrift. Det er
-
-25
-
-Bernt, Jan Fridthjof. Universitets- og høyskoleloven av 2005 –
-med kommentarer. 2. utgave. Bergen: Fagbokforlaget, 2016,
-s. 64–65.
-26
-Prop. 81 L (2015–2016) Endringer i universitets- og høyskoleloven (NOKUTs tilsyn, nasjonal vitnemålsportal mv.) s. 15.
-
-27
-
-Se innspill fra NOKUT https://www.universitetsoghoyskolelovutvalget.no/files/2019/10/28.-juni-2019-InnspillNOKUT-Rettslig-regulering-og-regelverksstruktur-PUBLISERT.docx
-
-[Side 303]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-uheldig at rettskildebildet på dette området er
-omfangsrikt og fragmentert. En sammenslåing av
-disse to forskriftene kan bidra til en forenkling av
-regelverket og til at brukerne av regelverket lettere får oversikt over bestemmelsene.
-I forlengelsen av dette viser utvalget til at det
-også anbefaler å sette i gang et arbeid med å gjen-
-
-301
-
-Kapittel 29
-
-nomgå alle forskriftene under universitets- og
-høyskoleloven, inkludert å se på om det er mulig å
-slå sammen flere forskrifter, eventuelt om det er
-mulig å slå alle forskriftene sammen til én forskrift, se punkt 9.3.
-
-[Side 304]
-
-302
-
-NOU 2020: 3
-
-Kapittel 30
-
-Ny lov om universiteter og høyskoler
-
-Kapittel 30
-
-Fullmakt til å opprette egne studietilbud
-
-Figur 30.1
-
-30.1 Utvalgets forslag
 Utvalget foreslår følgende:
-• Gjeldende rett videreføres, med enkelte språklige endringer i bestemmelsen om fullmakt til å
-opprette egne studietilbud.
 
-30.2 Gjeldende rett
-Universitets- og høyskoleloven § 3-3 gir institusjonene fullmakt til å opprette og akkreditere egne
-studietilbud. Å akkreditere betyr å gjøre en faglig
-bedømming av om en høyere utdanningsinstitusjon eller et studietilbud fyller standarder og kriterier gitt av departementet og NOKUT, jf. gjeldende universitets- og høyskolelov § 3-1. Se
-omtale i punkt 30.2.2.
-Etter universitets- og høyskoleloven § 3-3 første
-ledd har institusjoner som er akkreditert som universitet, fullmakt til å akkreditere studietilbud som
-institusjonen skal tilby på alle nivåer. Fullmakten i
-§ 3-3 første ledd begrenses av forskrift gitt med
-hjemmel i § 3-2 første ledd. NOKUT fører tilsyn
-med den faglige standarden, jf. dagens universitetsog høyskolelov § 2-1. Det følger av dagens lov § 2-1
-at departementet ikke har instruksjonsmyndighet
-over NOKUT i spørsmål om akkreditering, og tilsyn med at studietilbud fyller standardene og kriteriene for akkreditering. Tidligere lå kompetansen
-til å akkreditere studietilbud hos departementet.
-Den ble flyttet til institusjonen selv ved en endring i
-universitetsloven av 1995 i 2002.
-Etter universitets- og høyskoleloven § 3-3
-andre ledd har institusjoner som er akkreditert
-som vitenskapelig høyskole eller høyskole full-
+- Et nytt lovkapittel som samler alle bestemmelser om ansettelser.
 
-makt til å akkreditere studietilbud på lavere grads
-nivå, altså studier opp til bachelornivå. På fagområder der disse institusjonene kan tildele doktorgrad eller tilsvarende, kan de akkreditere studietilbud de ønsker å tilby også på høyere grads nivå.
-På andre fagområder kan disse institusjonene
-søke NOKUT om akkreditering av studietilbud på
-høyere grads nivå.
-NOKUTs akkreditering av et universitet, en
-vitenskapelig høyskole eller en høyskole innebærer med andre ord at disse institusjonene selv
-får fullmakt til å bestemme hvilke fag eller emner
-de skal tilby innenfor rammen av akkrediteringen.
-Adgangen etter § 3-3 til å opprette egne studietilbud må sees i sammenheng med universitets- og
-høyskoleloven § 3-2 første ledd, som gir departementet hjemmel til å bestemme hvilke grader og
-yrkesutdanninger en institusjon kan gi. Gradsforskriften1 er fastsatt med hjemmel i denne bestemmelsen. Forskriften regulerer hvilke grader og
-yrkesutdanninger som kan tildeles av ulike universiteter og høyskoler, hvilke institusjoner som
-kan gi særlige utdanninger som gir rett til beskyttet tittel, og normert studietid for utdanningene. I
-dag følger det av gradsforskriften at bare enkelte
-institusjoner kan tilby bestemte utdanninger, blant
-annet master i rettsvitenskap, medisin og psykologi. Gradsforskriften er nærmere omtalt i punkt
-8.10.2. Universitets- og høyskoleloven § 3-2 første
-ledd innebærer en innskrenkning i institusjonenes fullmakter til å opprette egne studietilbud.
-1
+- Kapittelet får ny struktur, som følger strukturen i statsansatteloven.
 
-Forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskole (forskrift om grader og beskyttede
-titler).
+- Bestemmelsen om ansettelsesprosedyrer endres, slik at institusjonen ved ansettelse i undervisnings- og forskerstilling skal gjennomføre intervju, prøveforelesninger eller andre prøver med søkeren, med mindre det er åpenbart unødvendig.
+
+- Det skal ikke være adgang til å gi ansettelse for mer enn én periode som postdoktor.
+
+- Forøvrig videreføres dagens regler.
+
+Et flertall i utvalget foreslår følgende:
+
+- Adgangen til å ansette administrerende direktør på åremål videreføres ikke, jf. kapittel 27.
+
+Et mindretall i utvalget foreslår følgende:
+
+- Adgangen til å ansette administrerende direktør på åremål videreføres, jf. kapittel 27.
+
+Utvalget anbefaler følgende:
+
+- En arbeidsgruppe med medlemmer fra sektoren utreder hvordan ansettelsesprosessen ved universiteter og høyskoler kan gjøres raskere.
+
+## Gjeldende rett
+
+### Innledning
+
+Reglene i universitets- og høyskoleloven kapittel 6 gjelder for både private og statlige institusjoner.[^521] Universitets- og høyskoleloven kapittel 11 gjelder bare for de statlige institusjonene. I tillegg er det tre sentrale forskrifter, som er hjemlet i statsansatteloven, med betydning for ansettelser i sektoren:
+
+- Forskrift om ansettelse og opprykk i undervisnings- og forskerstillinger[^522]
+
+- Forskrift om ansettelse på innstegsvilkår[^523]
+
+- Forskrift om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat[^524]
+
+### Universitets- og høyskoleloven kapittel 6 om ansettelse
+
+#### Generelt
+
+Det følger av universitets- og høyskoleloven § 6-1 at arbeidsmiljøloven og statsansatteloven gjelder ved ansettelser ved institusjoner som er regulert av universitets- og høyskoleloven, men at reglene om ansettelser i universitets- og høyskoleloven er særregler som går foran de generelle reglene i arbeidsmiljøloven og statsansatteloven (lex specialis).[^525] Reglene suppleres av forvaltningsloven, som også gjelder for ansettelser i offentlig sektor.[^526]
+
+#### Likestilling
+
+Universiteter og høyskoler skal arbeide aktivt, målrettet og planmessig for likestilling mellom kjønnene innenfor samtlige kategorier av stillinger ved institusjonen, jf. universitets- og høyskoleloven § 6-2. Bestemmelsen ble tatt inn i loven for å fremheve institusjonens forpliktelse til å arbeide for å øke kvinneandelen i vitenskapelige stillinger.[^527]
+
+Bestemmelsen fremhever institusjonenes plikt til å sørge for likestilling mellom kjønnene innenfor alle stillingskategorier. Samme plikt følger av likestillings- og diskrimineringsloven.[^528]
+
+#### Utlysning og ansettelse i undervisnings- og forskerstillinger
+
+Universitets- og høyskoleloven har i § 6-3 egne saksbehandlingsregler for utlysning og ansettelse i undervisnings- og forskerstillinger. Disse reglene fraviker reglene i arbeidsmiljøloven og statsansatteloven. Det er den sterke vektleggingen av faglig bedømmelse for vitenskapelige stillinger som er bakgrunnen for særreglene.[^529] Det å ha en særskilt bestemmelse om ansettelsesprosessen sikrer en lik ansettelsesprosess for statlige og private universiteter og høyskoler, der både faglige kvalifikasjoner og personlig egnethet vektlegges. Like regler for private og statlige universiteter og høyskoler er viktig for å sikre like konkurransevilkår og en felles standard for kvalifikasjonsvurdering i sektoren. Uten felles regler om utlysning og ansettelse i undervisnings- og forskerstillinger, ville arbeidsmiljøloven vært eneste felles rettslige grunnlag for alle institusjonstyper, mens statsansattelovens regler ville ha kommet i tillegg til arbeidsmiljølovens regler for de statlige universitetene og høyskolene.
+
+Ansettelsesprosessen for de vitenskapelige stillingene bygger på utgangspunktet om institusjonenes faglige frihet, og prinsippet om forskningens autonomi for den enkelte søker. For andre typer stillinger inneholder ikke universitets- og høyskoleloven særregler, bortsett fra likestillingskravet som gjelder for alle kategorier. Dessuten kan åremål også brukes for andre stillingskategorier.
+
+Det er styret som foretar ansettelser i undervisnings- og forskerstillinger. Styret kan delegere ansettelseskompetansen til et underordnet organ eller til ett eller flere ansettelsesutvalg.[^530] Selv om styret har adgang til å delegere ansettelsesmyndigheten, er det en forutsetning at styret ivaretar det overordnede ansvaret for faglige prioriteringer og dimensjonering av fagområder.[^531]
+
+Styret selv fastsetter hvordan ansettelsesutvalget skal være sammensatt, men studentene skal være representert i ansettelsesorganet, med mindre styret enstemmig bestemmer noe annet.[^532] Det er opp til hver enkelt institusjon å fastsette nærmere regler for ansettelsesorganet i personalreglementet, inkludert regler om oppnevning og virke.
+
+Ansettelsesorganet utlyser undervisnings- og forskerstillingene.[^533] Hvis det ene kjønnet er klart underrepresentert i den aktuelle stillingskategorien på vedkommende fagområde, skal dette kjønn oppfordres til å søke.[^534] Dette er en påminnelse om at institusjonen skal arbeide for likestilling allerede ved utlysningen av stillingene.
+
+Det er mulig å foreta ansettelser i undervisnings- og forskerstillinger kan foretas uten at styret kunngjør det på forhånd, når *særlige grunner* taler for det.[^535] Denne ansettelsesformen betegnes som «kalling» og kan ikke brukes hvis mer enn ett medlem av styret motsetter seg det. I forarbeidene er likestillingshensynet fremhevet som en «særlig grunn». I forarbeidsmerknaden til universitets- og høyskoleloven § 11-1 tredje og fjerde ledd står det: «Styret bør \[…\] vurdere om kallelse kan benyttes for å rekruttere kvalifiserte kvinner fra sektoren, forskningsinstitusjonene, næringsliv og forvaltning.»[^536]
+
+Når noen ansettes i undervisnings- og forskerstillinger, skal det skje på grunnlag av en innstilling, som er gitt etter en sakkyndig bedømmelse ut fra stillingsbeskrivelsen i utlysning og betenkning.[^537] Bestemmelsen sier eksplisitt at begge kjønn skal være representert blant de sakkyndige. Ansettelsesorganet kan i tillegg avgjøre at det skal gjennomføres intervju, prøveforelesning eller andre prøver.[^538]
+
+Vitenskapelige stillinger kan være veldig spesialiserte. Dette er begrunnelsen for å foreta den sakkyndige vurderingen. De sakkyndige skriver en innstilling basert på sin faglige bedømmelse. Ansettelsesorganet har ansvar for å kontrollere at den sakkyndige bedømmelsen er forsvarlig. Organet kan ikke overprøve den faglige vurderingen, men må påse at de kvalifikasjoner søker har oppgitt er i overensstemmelse med kriteriene i stillingsbeskrivelsen og praksis for vektlegging av kvalifikasjonskrav. Ansettelsesorganet kan ikke begrense bedømmelsen til de forhold som er vurdert av de sakkyndige, men må foreta en helhetlig vurdering, herunder også vurdere personlig egnethet.[^539] Annen relevant erfaring av betydning for stillingen kan også vektlegges når det er presisert i utlysningen hvilke forhold som vil bli tillagt vekt.
+
+I særskilte tilfeller kan kravet om sakkyndig bedømmelse fravikes ved ansettelse for undervisnings- og forskerstillinger som ikke er førstestillinger eller professorstillinger.[^540] Unntak fra sakkyndig bedømmelse kan bare gjøres etter en konkret vurdering i hvert enkelt tilfelle, og det kan ikke gjøres unntak hvis det medfører at den vitenskapelige forankringen ved institusjonen svekkes.[^541]
+
+I stillinger hvor det stilles krav om pedagogiske kvalifikasjoner, skal det vurderes særskilt om søkeren oppfyller dette kvalifikasjonskravet.[^542] Styret gir nærmere regler for bedømmelsen, i tillegg til at kriterier for ansettelse og opprykk er fastsatt i forskrift.[^543] Det alminnelige utgangspunktet vil være krav om gjennomført pedagogisk basisopplæring.[^544] Kravet om pedagogiske kvalifikasjoner er en påminnelse om at det må gjøres en grundig vurdering av om søkerne har de pedagogiske kvalifikasjonene stillingen krever.[^545] Å ha praktisk kompetanse som underviser kan være tilstrekkelig til å oppfylle kravene. Bestemmelsens ordlyd åpner for at det som ledd i ansettelsesprosessen «kan» holdes prøveforelesninger med mer. I praksis kan en grunn til å velge bort prøveforelesning for eksempel være at kandidaten tidligere har søkt på stillingen og alt har holdt prøveforelesning, er kjent som foredragsholder, eller har undervist ved institusjonen tidligere.
+
+Det skal legges vekt på likestillingshensyn ved ansettelse, jf. universitets- og høyskolelovens § 6-3 femte ledd. Bestemmelsen hjemler en plikt til moderat kjønnskvotering, det vil si at man under ellers like vilkår kan legge avgjørende vekt på kjønn hvis det ene kjønn er underrepresentert. Vilkårene i likestillings- og diskrimineringsloven § 11, jf. § 6 må være oppfylt. Bestemmelsen åpner for lovlig forskjellsbehandling der særbehandlingen er egnet til å fremme likestillings- og diskrimineringslovens formål. Det må være et rimelig forhold mellom formålet man ønsker å oppnå, og hvor inngripende særbehandlingen er for den eller dem som stilles dårligere. Det er videre et krav om at særbehandlingen opphører når formålet med forskjellsbehandlingen er oppnådd. Det siste vil være tilfelle når det er kjønnsbalanse på det aktuelle stillingsnivået.
+
+Universitetene og høyskolene har stor frihet til å selv bestemme prosessen ved ansettelser. Det har sammenheng med institusjonenes autonomi og den særlige organisasjonsstrukturen institusjonene har med kollegiale styringsorganer og valgte ledere, samt kvalitetssikringshensynene som gjør seg gjeldende ved ansettelser i undervisnings- og forskerstillinger.[^546]
+
+#### Ansettelse på åremål
+
+Åremålsstillinger er tidsavgrensede stillinger. Formålet er å sikre at man får ansatt mennesker i utdanningsstillinger som gjennom disse stillingene skal kunne kvalifisere seg til undervisnings- og forskerstillinger. I tillegg brukes ansettelse på åremål i lederstillinger der man ønsker at lederfunksjonen skal rotere etter et gitt antall år. Behovet for å ansette på åremål i lederstillinger er begrunnet med at oppgavene krever særlig evne til nyorientering på et område hvor faglig fornyelse er nødvendig. Åremålsperiodene kan variere fra fire til tolv år for de ulike stillingene.
+
+Universitets- og høyskoleloven § 6-4 (1) bokstav a-k gir en uttømmende opplisting av hvilke stillinger åremål kan benyttes for. Ansettelse på åremål kan benyttes for:
+
+1.  rektor
+
+<!-- -->
+
+23. administrerende direktør
+
+24. prorektor
+
+25. leder for avdeling og grunnenhet
+
+26. studentombud
+
+27. postdoktorstillinger
+
+28. stipendiater
+
+29. vitenskapelige assistenter
+
+30. spesialistkandidater
+
+31. undervisnings- og forskerstillinger når skapende eller utøvende kunstnerisk kompetanse inngår som et vesentlig element i kompetansekravet
+
+32. stilling på innstegsvilkår
+
+#### Midlertidig ansettelse i undervisnings- og forskerstillinger
+
+Hovedregelen er fast ansettelse i ordinære kombinerte undervisnings- og forskerstillinger, men universitets- og høyskoleloven åpner for midlertidige ansettelser i visse tilfeller.
+
+En søker kan ansettes midlertidig i en undervisnings- og forskerstilling hvis det ved utlysning av en fast stilling ikke har meldt seg en søker som etter ansettelsesmyndighetens vurdering er klart kvalifisert for fast ansettelse, og det ved ny kunngjøring ikke er sannsynlig at en kvalifisert søker vil melde seg, jf. universitets- og høyskolelovens § 6-5 første ledd. Vilkårene for slik midlertidig ansettelse er at muligheten for tidsbegrenset ansettelse er nevnt i kunngjøringen, og at søkeren etter ansettelsesmyndighetens vurdering har forutsetninger for å skaffe seg de nødvendige kvalifikasjonene i løpet av ansettelsesperioden.[^547]
+
+Ansettelsesmyndigheten fastsetter ansettelsesperioden, som ikke må være lengre enn tre år, jf. § 6-5 (1) andre avsnitt. Hvis ansettelsesmyndigheten innen utløpet av denne perioden ikke har fått gjennomført en forsvarlig vurdering av den ansattes kvalifikasjoner, kan perioden forlenges med seks måneder. Forutsetningen da er at forlengelsen er nødvendig for å få gjennomført en forsvarlig vurdering og at den ansatte har levert inn arbeider med sikte på vurdering for fast ansettelse. Perioden kan ikke forlenges utover dette, og det kan ikke skje en ny, tidsbegrenset ansettelse.
+
+Når ansettelsesperioden utløper, har den ansatte rett til å bli vurdert for fast ansettelse før stillingen kunngjøres på ny. Hvis arbeidstakeren ikke blir vurdert som kvalifisert, må vedkommende fratre uten oppsigelse. Dette gjelder selv om ansettelsestiden har vart i mer enn tre år. Når ansettelsesperioden beregnes, skal ikke permisjoner den ansatte har krav på etter lov eller tariffavtale medregnes. Bestemmelsen er et unntak fra treårsregelen i statsansatteloven.
+
+Bakgrunnen for at personer kan ansettes midlertidig i tre år i undervisnings- og forskerstillinger, er at det skal være et rekrutterings- og kompetansebyggende virkemiddel.[^548] Dersom det mangler kvalifiserte søkere, er det et ønske at de som rekrutteres, skal kunne kvalifisere seg i løpet av tre år. For undervisnings- og forskerstillinger vil en søker også kunne ansettes midlertidig i en lavere stilling i påvente av at noen kvalifiserte melder seg. Forutsetningen er at det «på grunn av undervisningssituasjonen er helt nødvendig å foreta ansettelse», og at den ansatte oppfyller kompetansekravene i den lavere stillingen.
+
+Ved de statlige universitetene og høyskolene er det særregler om midlertidig ansettelse i noen typer vikariater. En vikar for en arbeidstaker som har permisjon for å være valgt eller åremålsansatt leder skal fratre stillingen uten oppsigelse når stillingens faste innehaver gjeninntrer, selv om vikariatet har vart i mer enn tre år. Bakgrunnen for dette unntaket fra treårsregelen er at åremålsstillingene ofte varer i fire år, og at det ville medført en lite heldig praksis hvis vikarene skulle få fast ansettelse før åremålsperioden slutter. Hvis et vikariat har vart i mer enn tre år, skal vikaren om mulig tilbys en annen passende stilling i virksomheten. Vikaren har fortrinnsrett på samme vilkår som etter statsansatteloven §§ 19 og 24. Fortrinnsrett til ansettelse i staten for vikarer ved statlige universiteter og høyskoler inntrer ved fratreden og varer inntil to år etter fratreden.[^549]
+
+#### Særregler for visse typer bistillinger
+
+Institusjonene kan ansette midlertidig i inntil 20 prosent av en undervisnings- og forskerstilling, jf. universitets- og høyskoleloven § 6-6. I universitets- og høyskolesektoren omtales disse bistillingene ofte som «professor II», «førsteamanuensis II» eller «toerstilling». Forarbeidene viser til at institusjonene må ha adgang til å ansette medarbeidere midlertidig i bistillinger for å kunne sikre faglig utveksling med andre institusjoner og for å kunne knytte til seg kompetanse fra nærings- og arbeidsliv. I bistillinger kan de ansette personer på åremål fra to til seks år.
+
+#### Enerett til bruk av visse stillingstitler
+
+Begrunnelsen for å beskytte stillingstitler er at offentligheten skal kunne ha tillit til at innehaverne av slike titler har den vitenskapelige kompetansen som kreves.
+
+Stillingsbetegnelsen professor kan bare benyttes om stillinger på høyeste vitenskapelige eller kunstneriske nivå ved universiteter og høyskoler som har akkreditering som institusjon eller for enkeltstudier.[^550] Betegnelsen professor viser både til stillinger der det kreves vitenskapelig/kunstnerisk kompetanse på høyeste nivå, og til personer som er ansatt i en undervisnings- og forskerstilling og etter kompetansebedømming er vurdert å ha professorkompetanse. Departementet kan også bestemme at andre titler på undervisnings- og forskerstillinger skal gis tilsvarende beskyttelse som professor, men så langt er det ikke gitt forskrifter om det.
+
+Såfremt NOKUT bekrefter at en annen institusjon, som ikke kommer inn under universitets- og høyskoleloven, tilbyr høyere utdanning og utfører forskning eller kunstnerisk utviklingsarbeid på tilsvarende nivå innenfor ett eller flere fagfelt, kan departementet bestemme at professortittelen og annen beskyttet tittel kan benyttes også ved slik institusjon. Dette er aktuelt for instituttsektoren. Kvalifikasjonene skal i det vesentlige bedømmes på samme måte som ved institusjoner som går inn under universitets- og høyskoleloven.[^551]
+
+### Universitets- og høyskoleloven kapittel 11 om ansettelsesforhold
+
+#### Særskilte ansettelsesbestemmelser for statlige universiteter og høyskoler
+
+Kapittel 11 gjelder bare ansettelsesforhold ved statlige universiteter og høyskoler. Ansettelsesforhold ved private universiteter og høyskoler reguleres av arbeidsmiljøloven.
+
+Styret ved statlige universiteter og høyskoler kan ansette avdelingsledere og en administrativ leder dersom styret vedtar å opprette slike stillinger. Videre kan styret fastsette at avdelingsleder skal ansette leder for grunnenhet, hvis denne skal ansettes, jf. § 11-1 første og andre ledd. I forarbeidene til § 11-1 står det at styret har adgang til å delegere alle typer ansettelser, utenom ansettelser av rektor og ansettelser uten foregående kunngjøring i hovedstilling. Forarbeidene understreker at styret har det strategiske ansvaret for rekrutterings- og ansettelsespolitikken ved institusjonene, men den konkrete utvelgelsen og ansettelsen kan likevel delegeres. I utgangspunktet bør styret benytte muligheten til å delegere og bare ansette selv, i tilfeller der styret mener ansettelsen er viktig strategisk.[^552]
+
+Ansettelse av prorektor, leder for avdeling og grunnenhet og administrerende direktør skal skje på grunnlag av en innstilling fra et innstillingsutvalg. Styret selv fastsetter innstillingsutvalgets sammensetning og nærmere regler om innstilling med mer. Studentene skal være representert i innstillingsutvalget hvis ikke styret enstemmig bestemmer noe annet.
+
+Styret selv kan foreta ansettelse i stilling som prorektor eller leder for avdeling og grunnenhet uten forutgående kunngjøring når særlige grunner taler for det. Det er her tenkt på tilfeller der en utlysningsprosess kan gjøre at man mister den best kvalifiserte søkeren. Muligheten til å tilby en ettertraktet kandidat stillingen direkte, vil øke sjansen for å få en høyt kvalifisert kandidat. Det er viktig at styret legger vekt på å ivareta likestillingshensyn der ansettelse skjer uten forutgående kunngjøring.
+
+Ansettelse i teknisk eller administrativ stilling skal skje i ansettelsesråd oppnevnt etter reglene i statsansatteloven. Ansettelse i annen administrativ lederstilling enn nevnt i § 11-1 tredje ledd skjer på grunnlag av en innstilling fra rektor, eller fra administrerende direktør dersom rektor er valgt, hvis styret ansetter.
+
+#### Avskjed, oppsigelse, suspensjon eller ordensstraff
+
+Ansettelsesorganet selv avgjør saker etter statsansatteloven § 30 første ledd om avskjed, oppsigelse, suspensjon eller ordensstraff, jf. universitets- og høyskoleloven § 11-3 første ledd.
+
+Hvem som behandler en klage over et vedtak om de nevnte forholdene, avhenger av hvem som har truffet vedtaket. Hvis styret har fattet vedtaket, er departementet klageorgan. Dersom beslutningen er truffet på lavere nivå, er det styret som er klageinstans. Regelen presiserer hvem som er klageorgan, og supplerer forvaltningslovens regler om klage over enkeltvedtak.
+
+### Forskrifter til universitets- og høyskoleloven som regulerer ansettelse
+
+#### Forskrift om ansettelse på innstegsvilkår
+
+Forskrift om ansettelse på innstegsvilkår er fastsatt av Kunnskapsdepartementet med hjemmel i universitets- og høyskoleloven § 6-4 første ledd bokstav k. Formålet med forskriften er å legge til rette for rekruttering ved at institusjonene kan ansette en person på åremål for å kvalifisere vedkommende til fast ansettelse i en undervisnings- eller forskerstilling. Det er satt krav til ansettelsesforholdets innhold og til oppfølging fra institusjonen. Institusjonene kan ansette personer på åremål i postdoktorstillinger for å kvalifisere dem til kombinerte førsteamanuensis- eller professorstillinger, eller på åremål i førsteamanuensisstillinger for å kvalifisere dem til professorstillinger.
+
+#### Forskrift om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat
+
+Forskrift om ansettelsesvilkår for stillinger som postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat er fastsatt av Kunnskapsdepartementet med hjemmel i universitets- og høyskoleloven § 6-4 fjerde ledd.
+
+Forskriften angir minimumskrav om hva som skal til for å bli ansatt i de ulike stillingene, hva som skal gjøres i åremålsperioden og hvor lang perioden er. Den enkelte institusjon kan i tillegg gi nærmere regler for å supplere forskriften.
+
+#### Forskrift om ansettelse og opprykk i undervisnings- og forskerstillinger
+
+Forskrift om ansettelse og opprykk i undervisnings- og forskerstillinger[^553] er fastsatt av Kunnskapsdepartementet med hjemmel i universitets- og høyskoleloven § 6-3 sjette ledd.
+
+Forskriften angir kriterier for å bli ansatt i undervisnings- og forskerstillinger under lov om universiteter og høyskoler og kriterier for opprykk fra én stilling til en annen. Forskriften angir også at institusjonene kan fastsette tilleggskrav for den enkelte stillingstypen.
+
+Forskriften regulerer kompetansekrav til stillinger som professor, dosent, førsteamanuensis, førstelektor, høyskolelektor eller universitetslektor, og høyskolelærer.
+
+## Forholdet til statsansatteloven, arbeidsmiljøloven m.fl.
+
+Det vises til fremstillingen ovenfor om regelverket om arbeidsrettslige forhold. Å forstå konteksten er en forutsetning for å kunne ta stilling til om det er behov for å regulere visse deler av de arbeidsrettslige forholdene i universitets- og høyskoleloven. Arbeidsmiljøloven gjelder for alle arbeidsforhold i Norge. I tillegg gjelder statsansattelovens bestemmelser for ansatte i staten. Universitets- og høyskoleloven utfyller altså disse lovene. Statlige universitet og høyskoler må dessuten følge reglene i forvaltningsloven med forskrift. Reglene i likestillings- og diskrimineringsloven gjelder for både statlige og private virksomheter.
+
+### Ansettelse
+
+For de statlige institusjonene suppleres statsansatteloven med regelverket i universitets- og høyskoleloven. Ansettelsesmyndigheten legges som hovedregel til et kollegialt organ med representanter fra arbeidsgiver og ansatte. Dette kan være et ansettelsesråd eller et styre. Ansettelsesprosessen er en behandling i to trinn. Først skrives en innstilling om hvem som bør ansettes, og deretter avgjør ansettelsesmyndigheten hvem som ansettes. Innstillingen gis av nærmeste leder.
+
+Ved ansettelser i staten gjelder kvalifikasjonsprinsippet, jf. statsansatteloven § 3, mens kvalifikasjonsprinsippet ikke er uttrykt i arbeidsmiljøloven. Nettopp av den grunn er det vesentlig at kvalifikasjonskravene for undervisnings- og forskerstillinger er regulert i universitets- og høyskoleloven når kravet er at den best kvalifiserte skal ansettes. Universitets- og høyskoleloven sikrer på den måten at kvalifikasjonsprinsippet gjelder for disse stillingene uavhengig av om det er snakk om en statlig eller en privat universitet eller høyskole. Forvaltningsloven regulerer saksbehandlingen ved ansettelse, og i tillegg gjelder reglene i offentlighetsloven.
+
+### Oppsigelse
+
+Universitets- og høyskoleloven har ingen egne bestemmelser om oppsigelse, bortsett fra § 11-3 som regulerer hvem som fatter avgjørelsen, og hvem som er klageinstans for vedtakene. Oppsigelse ved universiteter og høyskoler vil derfor reguleres av statsansatteloven eller arbeidsmiljøloven, avhengig av om det er en statlig eller en privat institusjon.
+
+Felles for regelverkene er at oppsigelser kan foretas på grunn av den ansattes forhold eller på grunn av virksomhetens forhold. Lovgiveren har i stor grad forsøkt å harmonisere statsansatteloven med arbeidsmiljøloven, men når det gjelder oppsigelse på grunn av virksomhetens forhold skal meningsinnholdet forstås tilpasset statens særpreg.[^554] Ordlyden «virksomhetens forhold» i statsansatteloven § 19 er etter forarbeidene ment å dekke kutt i bevilgninger, bortfall av oppgaver som følge av omstillinger og effektivisering, opphør av eksternt finansierte stillinger og at ansatte ikke ønsker å følge med ved flytting av arbeidsplassen.[^555]
+
+### Forskrift til statsansatteloven
+
+Forskrift til lov om statens ansatte mv.[^556] er gitt av Kommunal- og moderniseringsdepartementet med hjemmel i statsansatteloven. Forskriften gjelder for ansatte i staten, med unntak av forelesere, hjelpelærere, øvingslærere, timelærere og praksisveiledere i mindre enn 37,5 prosent av full stilling, eksamenssensorer og eksamensinspektører[^557].
+
+I universitets- og høyskolesektoren er det en stor andel arbeidstakere som ansettes for å utføre eksternt finansierte oppdrag. Forskriften åpner for en forenklet ansettelsesprosess ved ansettelse av arbeidstakere i staten som skal utføre oppdrag som er eksternt finansierte, jf. § 3. Forutsetningen for å benytte en forenklet ansettelsesprosess er at det foreligger et lovlig grunnlag for midlertidig ansettelse etter statsansatteloven § 9. Når det foreligger grunnlag for midlertidig ansettelse, og det er snakk om et eksternt finansiert oppdrag, kan man gjøre unntak fra ansettelsesreglene i statsansatteloven § 3 til § 7.[^558]
+
+### Likestillings- og diskrimineringsloven
+
+Likestillings- og diskrimineringsloven gjelder på alle samfunnsområder, jf. § 2, og dermed også for statlige og private høyskoler. Loven er ufravikelig, jf. § 4. Regler om universell utforming og tilrettelegging er praktisk viktige i universitets- og høyskolesektoren. Loven pålegger alle virksomheter å arbeide systematisk for likestilling. Virksomhetene har også plikt til å redegjøre for status for likestillingsarbeidet.[^559] Dette regelsettet gjør at det ikke er nødvendig å regulere disse reglene særskilt i universitets- og høyskoleloven.
+
+Utdanningsinstitusjoner som tilbyr opplæring med grunnlag i lov, skal sikre at læremidlene og undervisningen bygger på formålet med likestillingsloven.[^560]
+
+## Underdal-rapporten
+
+Underdal-rapporten om stillingsstrukturen ved universiteter og høyskoler[^561] ble overlevert til regjeringen i mai 2018. Underdal-utvalget hadde som mandat å vurdere den norske stillingsstrukturen og det norske karrieresystemet for å se hvilke behov og muligheter for endringer som foreligger. De skulle vurdere om dagens stillingsstruktur i tilstrekkelig grad ivaretar det spekteret av oppgaver som universiteter og høyskoler har ansvar for. De drøftet blant annet om stillingsstrukturen legger godt nok til rette for karriereveier som gjør det attraktivt, både for norske og utenlandske statusborgere, å søke seg til norske universiteter og høyskoler. Videre drøftet de hvordan stillingsstrukturen kan bidra til å stimulere den enkelte medarbeider til å engasjere seg i faglig utvikling gjennom hele karrieren.[^562]
+
+Underdal-utvalget foreslår å beholde professorstigen utvidet med et nytt øverste trinn som kalles fakultetsprofessor. I tillegg foreslår de å innføre to nye karriereveier i akademia. Den første karriereveien er en «forsker-lektor-stige», som skal erstatte «dosentløpet», men som har til formål å sikre et meritterende karriereløp der undervisning får større uttelling enn det gjør i dag, samtidig som forskningsdelen består. Den andre karriereveien er «fagstøttestigen», som er en kvalitativt ny stige. De aller fleste den gjelder for, er personer som er midlertidig ansatt på forskningsprosjekter. Ifølge rapporten er cirka 3400 personer ansatt på tidsbegrensede forskningsprosjekter. Dette er personer med teknisk kompetanse, ingeniører, analytikere med fler.
+
+## Utvalgets vurderinger
+
+### Generelt
+
+De alminnelige reglene i arbeidsmiljøloven og statsansatteloven gjelder i universitets- og høyskolesektoren med de særreglene som følger av universitets- og høyskoleloven kapittel 6 og 11. Universitets- og høyskolesektoren har særskilte regler for ansettelser i undervisnings- og forskerstillinger, noe som henger sammen med kravet til vitenskapelig kompetanse i slike stillinger. For statlige universitets- og høyskoler gjelder i tillegg forvaltningslovens og offentlighetslovens regler.
+
+Sektoren har høyere bruk av midlertidige ansettelser enn i arbeidslivet for øvrig. Trygge ansettelsesforhold, det vil si fast ansettelse som hovedregel, er viktig for å sikre konkurranseevnen til utdanningsinstitusjonene. Med mange midlertidige stillinger øker faren for at dyktige medarbeidere søker seg til faste stillinger i andre sektorer.
+
+Det følger av utvalgets mandat at det særlig skal se på bruken av midlertidige ansettelser i sektoren. Utvalget presiserer at mandatet er begrenset til å foreslå endringer i universitets- og høyskoleloven. Det tillater seg likevel å beskrive arten av problemstillinger som oppstår i samspillet mellom universitets- og høyskoleloven og statsansatteloven og å omtale presiseringsbehov i de tilgrensende lovene der dette er hensiktsmessig for å kunne oppfylle mandatet.
+
+Reglene om rekruttering og karrierepolitikk for universitets- og høyskolesektoren skal blant annet bidra til å ivareta sektorens behov for høy faglig kompetanse hos de ansatte i undervisnings- og forskerstillinger, slik at institusjonene kan utføre samfunnsoppdraget sitt. I tillegg må reglene sikre at institusjonene er konkurransedyktige i kampen om «de gode hodene». Det er konkurranse både universiteter og høyskoler imellom, med instituttsektoren og mellom sektoren og arbeidslivet for øvrig. Reglene må ta høyde for en samfunnsutvikling med økt mobilitet mellom institusjoner nasjonalt og internasjonalt. I tillegg skal reglene legge til rette for at ansatte lettere skal kunne veksle mellom stillinger i universitets- og høyskolesektoren, instituttsektoren og arbeidslivet for øvrig når dette er hensiktsmessig. Slik mobilitet er ønskelig for både privat og offentlig sektor. Større mobilitet mellom universitets- og høyskolesektoren og andre samfunnsområder vil, ifølge *Langtidsplan for forskning og høyere utdanning 2019–2028*, bidra til bedre utveksling mellom forskning og praksisfelt.[^563]
+
+Utvalget har gjennomført flere innspillsmøter med sektoren og hatt muntlig dialog med både fagforeninger og ledere. Flere aktører har sendt inn skriftlige innspill om konkrete utfordringer til utvalget. Sentrale innspill som er meldt inn til utvalget kan oppsummeres i tre hovedpunkter:
+
+- Akademikerne har gitt innspill om at det ikke bør være andre regler i universitets- og høyskoleloven enn det som gjelder for annen statlig virksomhet.
+
+- Ansettelsesprosessen for noen typer stillinger tar for lang tid. Dette har ført til at institusjonene mister verdifulle kandidater til private eller utenlandske aktører med raskere ansettelsesprosesser. Prosessen tar lang tid fordi virksomhetenes faglige kvalitetskrav sikres ved hjelp av komiteer med vitenskapelig ansatte som påtar seg slike oppgaver i tillegg til sine alminnelige arbeidsoppgaver. Spørsmålet er om slikt komitéarbeid kan gjennomføres hurtigere ved hjelp av insentiver, for eksempel at ansatte frikjøpes fra andre oppgaver, slik at det blir tid til hurtig behandling, eller om det er hensiktsmessig å endre lovteksten for å oppnå raskere ansettelsesprosesser.
+
+- Sektorens utstrakte bruk av midlertidige stillinger anses som problematisk.
+
+Ansatte kan bli gående i flere påfølgende midlertidige stillinger over mange år. Dette indikerer en praksis hvor lovens unntaksregler om midlertidige ansettelser brukes i større grad enn det reelt sett er behov for og rettslig adgang til. Spørsmålet er også her om det er nødvendig med lovendringer for å endre praksis eller om andre tiltak for å endre praksis er mer hensiktsmessig.
+
+Utvalget har i tillegg drøftet gjeldende lovtekst og endringsbehov, som utvalget også gjennomgår i det følgende. Utvalget har ikke behandlet reglene i forskriftene, bare loven. Dette er en avgrensning utvalget har gjort av tidshensyn. Utvalget anbefaler at det foretas en samlet gjennomgang av forskriftsregelverket i etterkant av dette lovarbeidet. Utvalget har heller ikke kommentarer til stillingsstrukturen, siden Underdal-utvalget nylig har gitt sine anbefalinger.
+
+### Særregulering av ansettelser i universitets- og høyskoleloven
+
+Utvalget går inn for å beholde særreguleringer for ansettelser i universitets- og høyskoleloven.
+
+Under tidligere lovarbeid med universitets- og høyskoleloven har høringsinstanser hevdet at ansettelser bare bør være regulert i det generelle lovverket, og ikke gjennom særregler i universitets- og høyskoleloven. Dette har vært begrunnet med behovet for å sikre at ansatte i statlig sektor behandles likt med andre arbeidstakere. Dette utvalget har også mottatt innspill fra fagforeningene om at reglene i statsansatteloven og arbeidsmiljøloven med forskrifter er tilstrekkelige, og at det ikke er behov for særskilt regulering i universitets- og høyskoleloven.
+
+Bakgrunnen for at det er egne bestemmelser om ansettelse i universitets- og høyskoleloven, er at det sikrer like vilkår for søkere til og ansatte ved alle utdanningsinstitusjoner, uavhengig av eierform. Den felles reguleringen skal sikre at alle virksomhetene i sektoren har samme fleksibilitet og mulighet for omstilling. Målet er at dette skal bidra til økt mobilitet mellom de private og de offentlige institusjonene i sektoren. Uten egne regler i universitets- og høyskoleloven, hadde ansettelsesmessige forhold i statlige institusjoner vært regulert i statsansatteloven og arbeidsmiljøloven, mens ansettelsesmessige forhold i private institusjoner utelukkende hadde vært regulert av arbeidsmiljøloven. Det ville blant annet ha ført til snevrere adgang til åremålsansettelser og midlertidige ansettelser ved de private institusjonene, sammenlignet med de offentlige. Det ville også vært ulike regler for ansettelse og oppsigelse.
+
+Behovet for lik regulering for private og statlige universiteter og høyskoler taler for å beholde særreglene i universitets- og høyskoleloven. Felles regulering av kvalifikasjonskrav og vurdering av kompetansekravene for utdannings- og forskerstillinger bidrar til en felles norm uavhengig av om det er statlig eller privat universitet eller høyskole. Det er også et argument at reglene i universitets- og høyskoleloven er med på å sikre institusjonenes autonomi i større grad enn hvis ansettelsesforhold i sektoren bare hadde vært regulert i statsansatteloven og arbeidsmiljøloven. Et tilleggsmoment er at statsråden har et konstitusjonelt ansvar for universitets- og høyskolesektoren som det vil være vanskelig å følge opp uten særregler om ansettelse i en lov som Kunnskapsdepartementet forvalter. Statsansatteloven ligger under Kommunal- og moderniseringsdepartementet, mens arbeidsmiljøloven ligger under Arbeids- og sosialdepartementet. Utvalget har derfor kommet til at det fortsatt er behov for særlige regler for ansettelsesforhold i universitets- og høyskoleloven.
+
+### Likestilling og mangfold
+
+Utvalget anbefaler å beholde dagens lovtekst med en presisering av institusjonenes plikt til systematisk å arbeide for likestilling.
+
+Ryssdal-utvalget fremhevet betydningen av å få flere kvinner inn i ledende undervisnings- og forskerstillinger, og påpekte at institusjonene har plikt til å fremme likestilling i stillinger med ujevn kjønnsbalanse.[^564]
+
+Utvalget har mottatt innspill fra Komité for kjønnsbalanse og mangfold i forskning (Kif). Komitéen er oppnevnt av Kunnskapsdepartementet og skal støtte opp om og gi anbefalinger om tiltak som kan integrere arbeidet med kjønnsbalanse og mangfold ved universiteter, høyskoler og forskningsinstitutter i øvrig drift. Komiteen har gjort undersøkelser som har vist at bare halvparten av universitetene og høyskolene har en lovpålagt plan for likestilling. Kif har på bakgrunn av dette fremhevet at kravet om likestilling i sektoren er viktig, og at universitets- og høyskoleloven § 6-2 må videreføres i den nye loven.
+
+Utvalget mener det fortsatt er behov for å sette søkelys på kjønnsbalanse i sektoren, og mener dette bør være nedfelt i den nye loven.
+
+Kif har gitt innspill om at dagens bestemmelse i § 6-2 bør utvides til også å omhandle arbeid med å fremme mangfold. Kif fremhever i innspillet at det bør utdypes hva institusjonenes aktivitetsplikt på dette området faktisk innebærer.
+
+Utvalgets vurdering er at ordet «mangfold» henspiller på et resultat av en inkluderende kultur og praksis, ofte som følge av et systematisk arbeid for å sikre like muligheter (likestilling) og hindre diskriminering. Begrepet «mangfold» er ikke et klart rettslig definert begrep og er heller ikke definert i likestillings- og diskrimineringsloven. Utvalget har kommet til at det ikke er hensiktsmessig å ta inn formuleringen «mangfold» i loven.
+
+Utvalget har vurdert likestillings- og diskrimineringsforbudet som i dag er presisert i flere av universitets- og høyskolelovens bestemmelser, og ser disse som en påminnelse for sektoren om å jobbe systematisk med likestilling og ikke-diskriminering på alle nivåer i virksomheten. De samme kravene om aktivt og systematisk arbeid for å sikre likestilling følger imidlertid også av likestillings- og diskrimineringsloven. Utvalget mener det i utgangspunktet er uheldig med slik dobbeltregulering. Utvalget velger likevel å videreføre dagens lovgivningsteknikk, som blant annet innebærer at likestillingshensynet er fortløpende inntatt i ansettelsesreglene fordi sektoren fortsatt trenger en påminnelse om å arbeide systematisk for å nå målet om likestilling og om sitt særlige ansvar for å arbeide for likestilling i sin virksomhet. Dette er også i tråd med forslaget til ny § 1-1 c) som sier at universiteter og høyskoler skal bygge virksomheten på og utbre forståelse og respekt for menneskeverdet, åndsfrihet, likeverd, likestilling, demokrati og rettsstatens prinsipper.
+
+### Ansettelsesprosedyrer
+
+Utvalget anbefaler i hovedsak å videreføre dagens regelverk om ansettelsesprosesser, med bare ett forslag om endring av lovteksten.
+
+Ansettelsesprosessen ved universiteter og høyskoler er regulert gjennom universitets- og høyskoleloven, statsansatteloven og arbeidsmiljøloven. I tillegg gjelder de enkelte institusjonenes personalreglement. Prosessen kan variere etter hva slags stilling det skal ansettes i, men den deles hovedsakelig inn i syv trinn: Fastsettelse av kvalifikasjonskrav, utlysning, sakkyndig vurdering, prøveforelesning el., intervju, innstilling og ansettelsesvedtak.
+
+I universitets- og høyskoleloven er ansettelsesprosessen regulert særskilt for ansettelser i undervisnings- og forskerstillinger. Ansettelse i andre stillinger, som for eksempel administrative stillinger, reguleres av statsansatteloven eller arbeidsmiljøloven, avhengig av om det er privat eller statlig institusjon. Utvalget mener særskilte regler for ansettelsesprosessen i undervisnings- og forskerstillinger reflekterer den særlige rollen slike stillinger har i sektoren, og hvordan undervisnings- og forskerstillinger har stor betydning for sektorens samfunnsoppdrag. Ved å regulere ansettelsesprosessen for disse i særlov sikres lik praksis for private og statlige institusjoner. Bestemmelsene ivaretar samtidig de særegne behovene for lik vurdering av faglig og pedagogisk kompetanse sektoren har, i større grad enn det som ville fulgt av det generelle regelverket.
+
+Det har vist seg gjennom innspillsmøter og skriftlige innspill at ansettelsesprosessen varierer fra institusjon til institusjon, og at det er noen misoppfatninger om hvordan loven skal tolkes. Ved ansettelse i universitet og høyskole konkurrerer institusjonene både med hverandre, med private aktører nasjonalt og med utenlandske aktører. I lys av institusjonenes formål og samfunnsoppdrag er universiteter og høyskoler avhengige av å være konkurransedyktige for å få tak i de best kvalifiserte kandidatene.
+
+En svakhet med den nåværende ansettelsesprosessen er at den er langdryg. Ofte forsvinner aktuelle kandidater underveis i prosessen fordi de får tilbud om ansettelse andre steder. Prosessen er tidkrevende fordi det skal oppnevnes bedømmelseskomiteer som vanligvis skal vurdere vitenskapelige og kunstneriske arbeider fra alle søkerne, i tillegg til selve søknadene og andre vedlegg. Komiteene skal settes sammen og aktuelle fagpersoner som skal forespørres om de vil medvirke, må kontaktes. Dersom noen takker nei, må nye personer kontaktes. De tre vitenskapelig ansatte som takker ja til å sitte i en komité, gjør dette i tillegg til sitt regulære arbeid. Institusjonene opererer ofte med en seks måneders grense for levering av sin innstilling for vurdering av doktorgradskompetanse, og tidshorisonten kan være lengre ved vurdering av kompetanse til andre stillinger.
+
+Utvalget anser det nødvendig med de særreglene om ansettelsesprosessen i universitets- og høyskoleloven for å ivareta hensynet til å behandle private og statlige institusjoner likt og hensynet til å få ansatt den best kvalifiserte kandidaten. Institusjonene har fått en stor grad av autonomi, og de må derfor selv ta ansvar for at de har en ansettelsesprosess som oppfyller kravet til faglig kompetanse, samtidig som prosessen er rask nok til at de er i stand til å konkurrere om de beste kandidatene. Utvalget mener det særlig er praktiske årsaker til at det tar lang tid å foreta kompetansevurderingene og at dette ikke skyldes den rettslige reguleringen av ansettelsesprosessen. For å korte ned tiden det tar å vurdere søkere, kan virksomhetene innføre ordninger slik at ansatte som takker ja til å sitte i slike bedømmelseskomiteer, får fritak fra andre arbeidsoppgaver. Gjeldende regelverk åpner også for at komiteene lager en «kortliste» («shortlist»). Da sorteres først alle søkerne etter grunnkriteriene, og så er det bare utvalgte søkere som gjennomgår en fullstendig bedømming av innsendte vitenskapelige arbeider. Utvalget anbefaler å få utredet hvordan ansettelsesprosessen kan gjøres raskere, for eksempel gjennom en arbeidsgruppe med medlemmer fra sektoren selv. Utvalget ser ikke behov for å endre dagens regler for å få til raskere ansettelsesprosesser. Utvalget ønsker derfor å videreføre dagens bestemmelse om ansettelse i undervisnings- og forskerstillinger. Utvalget bemerker at det av hensyn til å sikre tillit til ansettelsesprosessene er viktig at universiteter og høyskoler minner om habilitetsreglene når de oppnevner komitémedlemmer.
+
+For stillinger som krever pedagogiske kvalifikasjoner, skal institusjonen etter gjeldende rett foreta en særskilt vurdering av om søkerne oppfyller kravene. Dokumentert praktisk kompetanse som underviser vil etter omstendighetene være tilstrekkelig. Utvalget mener at i stillinger som krever pedagogiske kvalifikasjoner, bør det også stilles krav om at det gjennomføres intervju, prøveforelesning eller andre prøver. Uten et slikt krav risikerer institusjonen å ansette personer som har den vitenskapelige kompetansen som er nødvendig i stillingen, men som likevel ikke egner seg til å undervise. Utvalget foreslår å lovfeste at det skal gjennomføres intervju, prøveforelesning eller andre prøver, med mindre dette er åpenbart unødvendig. Det kan for eksempel være hvis vedkommende har holdt prøveforelesning tidligere.
+
+### Ekstern finansiering
+
+Utvalget er oppmerksom på at ekstern finansiering er, og fortsatt vil være, viktig for sektoren. En prinsipiell drøfting av hvilke konsekvenser dette skal få for drift og ledelse, i tillegg til arbeidsrettslige konsekvenser på individ- og virksomhetsnivå, er derfor viktig. Spørsmålet henger også sammen med drøftingen nedenfor i punkt 28.5.6 om midlertidige ansettelser i sektoren.
+
+Driften av universiteter og høyskoler finansieres med midler fra grunnbevilgningen over statsbudsjettet. I tillegg skaffes finansiering fra eksterne kilder som Norges forskningsråd, EU og private kilder. Institusjonene kan, avhengig av fremtidig utvikling, bli mer avhengige av ekstern finansiering.
+
+Under utvalgets innspillmøte med fagforeningene 5. desember 2018 pekte de på at mer ekstern finansiering har ført til at de ansatte «bærer byrden», i form av stadige midlertidige ansettelser. Ifølge fagforeningene burde ansvaret for den økonomiske situasjonen ligget på institusjonen, ikke på den enkelte ansatte. Fagforeningenes argument er at forskningsarbeid er en del av den normale driften på universiteter og høyskoler uavhengig av finansieringskilde. Praksis i dag er at institusjonene i overveiende grad foretar midlertidige ansettelser ved eksternt finansierte prosjekter. Dette gjelder både forskere med doktorgrad, fagadministrative og støttepersonell med spesialutdanning. De midlertidig ansatte på slike forskningsprosjekter er spesialister som ikke lett lar seg bruke til andre oppgaver.
+
+Det rettslige utgangspunktet er at midlertidige ansettelser er begrenset til tilfeller der arbeidet er av midlertidig karakter, jf. arbeidsmiljøloven § 14-9 andre ledd a og statsansatteloven § 9 første ledd a. Hovedregelen er imidlertid at så lenge arbeidet som utføres er en naturlig del av formålet med virksomhetens drift og det er arbeidsoppgaver som regelmessig utføres som en naturlig del av driften, så skal det ansettes fast. I tider der virksomheten har behov for å redusere kostnadene kommer de vanlige reglene om oppsigelse på grunn av virksomhetens forhold til anvendelse. Saklig grunn til oppsigelse på grunn av virksomhetens forhold vil typisk kunne være økonomiske forhold på grunn av bortfall av ekstern finansiering, som kan resultere i et behov for å nedbemanne. Ingen av de to lovene viser til stillingenes finansieringsgrunnlag som saklig grunnlag for midlertidig ansettelse. Derimot er svekket økonomi på virksomhetens side saklig grunn for oppsigelse etter begge lovene.
+
+Utvalget vurderer at den høye andelen midlertidige ansettelser kan utgjøre en fare for at den akademiske friheten svekkes. Når kravet til ekstern finansiering blir en betingelse for økonomisk trygghet og forutsigbarhet i arbeidslivet for den enkelte, er individene også mer utsatt for utilbørlig press og påvirkning fra eksterne kilder. En midlertidig ansatt vil kunne kvie seg for å uttrykke seg på en slik måte at det kan hindre en fremtidig ansettelse. Midlertidige ansettelser kan således oppleves som at ytringsfriheten til den enkelte blir satt under press og føre til en lydighetskultur.
+
+Utvalget fremhever at ansvaret for institusjonenes finansiering ligger på styret og den daglige ledelsen deres, også når midlene er eksterne. Ledelsen har et ansvar for å sørge for god rekrutteringspolitikk og behandling av ansatte i tråd med regelverket, uavhengig av finansieringskilde. Det arbeidsrettslige utgangspunktet er at en arbeidstaker skal ansettes fast når det er snakk om et fast og varig behov for arbeidstakerens ytelse. I tilfeller der en virksomhet opplever driftsunderskudd og økonomisk tap kan det være grunnlag for en større oppsigelses- eller omorganiseringsprosess. Styret og den daglige ledelsen må da vurdere hva slags kompetanse institusjonen har behov for, avhengig av hva det skal undervises i og forskes på. Der andelen eksterne midler reduseres fra ett år til et annet, er det ikke nødvendigvis slik at den ansatte som fikk sin stilling finansiert av slike midler, må sies opp, så sant vedkommende er fast ansatt. Ved omorganiseringer vil vanligvis de som har dårligst tilknytning til virksomheten, bli sagt opp først. Dersom de som er midlertidig ansatte er alle de som er eksternt finansierte, kan dette bygge opp under en oppfatning av at det er et A- og et B-lag.
+
+Eksterne midler bidrar til at institusjonene lettere kan sikre konkurranseevnen overfor andre virksomheter når det gjelder rekruttering og kompetansebygging. Dette gir også institusjonene rom for å ansette midlertidig når det bare er snakk om eksterne midler for en kortvarig periode.
+
+Samtidig må institusjonenes aktivitetsplikt og overordnede ansvar for finansieringen over lengre tid fremheves i tilfeller der det nettopp handler om et fast og varig behov for en arbeidstakers ytelse. Styret har ansvaret for at organisasjonen arbeider systematisk for å skaffe ekstern finansiering ved siden av statlige overføringer. Samtidig skal styret sikre institusjonens samfunnsoppdrag, hvor akademisk frihet og faglig utvikling er viktige elementer. Det å kunne sikre ansatte faste stillinger er et viktig element når institusjonene konkurrerer med arbeidslivet for øvrig om høyt kvalifisert arbeidskraft.
+
+Utvalget viser til at finansieringsordningen for sektoren med nettobudsjettering åpner for at institusjonene selv kan spare midler som kan settes av til for eksempel lønn i perioder med inntektsbortfall. Slike midler kan fungere som en buffer dersom ekstern finansiering bortfaller. Dette kan gi rom for å ansette flere i faste stillinger.
+
+### Midlertidige ansettelser
+
+Utvalget har vurdert om det er svakheter ved reglene som kan forklare den høye andelen midlertidige ansettelser i sektoren, eller om dette skyldes praksis i sektoren. Kan endringer i lov eller forskrift være nødvendige for å bidra til en endring av praksis? Det er grunn til å presisere at adgangen til å ansette midlertidig har hjemmel i statsansatteloven og arbeidsmiljøloven. I forskrift til statsansatteloven er det hjemmel for en forenklet ansettelsesprosess for visse tilfeller der vilkårene for å ansette midlertidig etter statsansatteloven er oppfylt. Utvalget vurderer det som hensiktsmessig å beskrive reglene og sammenhengen mellom disse for å kunne besvare spørsmålet om det er reglene eller praksisen som stimulerer til en høy andel midlertidige ansettelser.
+
+Utvalget presiserer at en drift med fast ansettelse som hovedregel, uavhengig av finansieringsgrunnlag, bidrar til å styrke konkurranseevnen til universiteter og høyskoler.
+
+Hovedregelen i norsk rett er at arbeidstakere skal ansettes fast. Dette fremgår både av arbeidsmiljøloven, som gjelder for alle virksomheter som sysselsetter arbeidstakere, og av statsansatteloven, som gjelder spesielt for arbeidstakere i staten. Med fast ansettelse menes at arbeidsforholdet ikke er tidsbegrenset, at det innbefatter lov- og avtalefestede rettigheter, og at lovbestemte regler om opphør av stillingen gjelder.
+
+Det er altså adgang til å ansette midlertidig i visse tilfeller etter både arbeidsmiljøloven og statsansatteloven. Med midlertidige ansettelser menes generelt alle former for tidsbegrensede arbeidsavtaler – vikariater, engasjementer, prosjektstillinger, åremål og så videre. Grunnen til at lovverket bare unntaksvis åpner for å ansette arbeidstakere i midlertidige stillinger, er at det medfører stor usikkerhet for arbeidstakeren. Et midlertidig ansettelsesforhold påvirker planleggingen av arbeidstakerens og eventuelt familiens økonomi, muligheten til å skaffe seg boliglån med videre. En fast ansettelse gir bedre muligheter til å utvikle og bygge egen kompetanse. En midlertidig ansatt må leve med usikkerhet og bruke tid til å søke nye stillinger før den midlertidige stillingen utløper. Fast ansatte er også positivt for organisasjonen med sikte på å bygge et sterkt og kompetent arbeidsmiljø og en god organisasjonskultur. Hvis en sektor har utstrakt bruk av midlertidige ansettelser, vil færre gode kandidater søke seg dit, og sektoren kan gå glipp av godt kvalifiserte ansatte.[^565]
+
+Midlertidige ansettelser brukes som nevnt generelt mer i statlig virksomhet enn i privat sektor. Bruk av midlertidige ansettelser utover de tilfellene der det er helt nødvendig, har medført at studenter og unge forskere anser en karriere i akademia som mindre attraktiv. Sektoren har blitt kjent for at mange går årevis i midlertidige stillinger. I 2016/2017 var ca. 17 prosent av de ansatte i staten midlertidig ansatt, sammenlignet med åtte prosent i norsk arbeidsliv for øvrig. I 2019 var andelen midlertidig ansatte i ordinære undervisnings- og forskerstillinger ved universiteter og høyskoler 15,5 prosent.[^566] Til sammenligning var andelen midlertidig ansatte i arbeidslivet samlet 8,7 prosent i tredje kvartal av 2019. Andelen midlertidig ansatte i andre store ansattgrupper ved universiteter og høyskoler er også noe høyere enn i arbeidslivet samlet. Blant ansatte i saksbehandler- og utrederstillinger var andelen 11,9 prosent i 2019, og blant ansatte i støttestillinger for undervisning og forskning var den 10,2 prosent.
+
+Midlertidige ansettelser kan grovt sett deles i tre grupper. Den første gruppen er ansettelser i utdanningsstillingene som stipendiat og postdoktor. Disse stillingstypene er utdanningsstillinger på åremål, og vil som hovedregel ikke medføre vikarbehov. Den andre gruppen er ansettelser i lederstillinger på åremål. Når institusjonens egne fast ansatte i undervisnings- og forskerstillinger går over i lederstillinger på åremål, oppstår et behov for midlertidig ansatte for å dekke opp for vedkommendes stilling. Disse åremålsstillingene er en del av ledelsesmodellen i sektoren, men skaper altså behov for midlertidige ansettelser.
+
+De to førstnevnte gruppene av midlertidige ansettelser er regulert i universitets- og høyskoleloven. Disse gruppene kan sies å være ønsket i sektoren.
+
+Den tredje gruppen av midlertidige ansettelser er de som er regulert i statsansatteloven § 9 første ledd bokstav a, som hjemler midlertidig ansettelse «når arbeidet er av midlertidig karakter». Typisk og uproblematisk er tilfeller der det innhentes en vikar for en person som er ute i sykemelding eller foreldrepermisjon. Da er fraværet konkret og avgrenset i tid og behovet for midlertidig ansettelse er saklig begrunnet. Dette er en ønsket kategori av midlertidige ansettelser i arbeidslivet generelt. Mer problematisk er midlertidige ansettelser som er hjemlet i statsansatteloven § 9 første ledd bokstav a, at midlertidighet er lovlig fordi finansieringen av stillingen er midlertidig. Utvalget er kjent med at det i noen slike tilfeller henvises feilaktig til forskrift til statsansatteloven § 3 tredje ledd som hjemmel for å ansette midlertidig. Denne bestemmelsen regulerer ikke midlertidige ansettelser, men hjemler en forenklet ansettelsesprosess.
+
+Utvalget mener det er grunn til å drøfte denne sistnevnte kategorien midlertidige ansettelser nærmere. Utvalget har fått flere innspill som beskriver en praksis med utbredt bruk av midlertidige ansettelser.[^567] Det er derfor behov for å drøfte det rettslige grunnlaget for å foreta midlertidige ansettelser og vurdere om det er rettsreglene som bidrar til en utilsiktet stor andel midlertidige ansettelser. I tillegg er det behov for å drøfte praksisen som har utviklet seg i sektoren når det gjelder hvordan reglene tolkes. Det er mulig reglene bør justeres dersom formålet er å få ned andelen midlertidige ansettelser. Det kan også være at reglene er gode nok, men at det er praktiseringen av reglene som må endres. Utvalget er kjent med at det er satt i gang ulike arbeidsgrupper som ser på måter å få ned andelen midlertidige ansettelser på.[^568]
+
+Et innspill fra sektoren er at institusjonene ansetter midlertidig i en rekke forskerstillinger. Argumentasjonen til institusjonene er da at de ikke kan ansette fast fordi *finansieringen* av stillingene er midlertidig, det vil si prosjektbasert. Typisk lyses det ut forskningsmidler til ulike prosjekter i tidsavgrensede perioder, flere påfølgende 1-årskontrakter eller kontrakter på 2–4 år, 3–6 år eller ti år. Institusjonen hevder videre at de ikke kan ansette fast fordi det ville binde opp lønnskostnader – høyere kostnader enn det bevilgningene over statsbudsjettet, som er de faste inntektene deres, ville dekke. Denne driftsformen baserer seg på at det ikke ansettes flere i faste stillinger enn institusjonene har budsjett til over de faste bevilgningene fra staten. Deretter ansetter institusjonene forskere i midlertidige stillinger ut fra hvor mye midlertidig finansiering de har fått. De som ansettes i disse midlertidige stillingene, kan være høyt utdannede forskere eller fagspesialister som da kan bli gående på midlertidig ansettelse i årevis. I praksis skaper dette systemet et A- og B-lag av forskere, der A-laget har fast ansettelse.
+
+Det kan være grunn til å spørre hvorfor det skal være ulik praksis i privat sektor enn statlig sektor. I privat sektor er hovedregelen at virksomhetene ikke vet hvor store inntekter de vil ha i fremtiden. I konsulentbransjen vil typisk alle inntekter komme fra engasjementer og prosjekter av begrenset varighet. Hovedregelen er likevel fast ansettelse, og virksomhetene må nedbemanne dersom inntektene svikter. Dette er en praksis som ikke har vært så vanlig i universitets- og høyskolesektoren. Dels har dette en historisk forklaring, ettersom sektoren har vokst mye i løpet av de siste tretti årene. Dels er forklaringen at det inntil nylig har vært et sterkere stillingsvern i statlig sektor enn i privat sektor. Stillingsvernreglene ble endret i 2017 ved ny statsansattelov. For de fleste stillinger i staten stilles det nå de samme krav til saklig grunn for oppsigelse som i privat sektor. Det betyr at dersom de økonomiske forholdene tilsier et behov for nedbemanning, så er det i utgangspunktet ingen rettslige forhold som skulle tilsi at nedbemanning er vanskeligere i statlig enn i privat sektor. Det er de samme reglene som gjelder for utvelgelseskriterier og utvalgskrets.[^569] Ettersom endringene i statsansatteloven er nye, ser ikke utvalget bort fra at eldre oppfatninger av at det er et sterkere stillingsvern i staten, kan henge igjen både hos fagforeningene og hos styret og den daglige ledelsen. Dette har utvalget fått bekreftet i flere av innspillsmøtene utvalget har hatt med representanter fra sektoren.
+
+Spørsmålet er derfor i hvilken grad finansieringsgrunnlaget i seg selv kan være lovlig grunnlag for midlertidig ansettelse etter statsansatteloven § 9 første ledd bokstav a. Om arbeidet er av midlertidig karakter, må vurderes konkret i hvert enkelt tilfelle. Finansieringsgrunnlaget er ikke nevnt i loven som lovlig begrunnelse for å foreta en midlertidig ansettelse, men det drøftes nærmere nedenfor om dette likevel kan være en del av en større vurdering av arbeidets midlertidige karakter. Finansieringsgrunnlaget er heller ikke et grunnlag for midlertidig ansettelse etter forskrift til statsansatteloven § 3 tredje ledd. Forskriftsbestemmelsen åpner for at arbeidsgiveren kan gjøre unntak fra reglene i statsansatteloven §§ 3 til 7 ved ansettelse av arbeidstakere som skal utføre oppdrag som er eksternt finansierte. Reglene i statsansatteloven §§ 3 til 7 handler om kvalifikasjonsprinsippet og ansettelsesprosessen. Forskrift til statsansatteloven § 3 tredje ledd gir hjemmel for en forenklet ansettelsesprosess, og er *ikke* en hjemmel i seg selv for å ansette midlertidig. Flere muntlige innspill utvalget har fått på innspillsmøter, tyder på at det foreligger en feiloppfatning av at bestemmelsen i seg selv gir grunnlag for å ansette midlertidig i prosjekter som er eksternt finansierte. Å ansette midlertidig, eventuelt etter den forenklende ansettelsesprosessen, er bare tillatt dersom det er grunnlag for å ansette midlertidig etter statsansatteloven § 9.
+
+Derimot utelukker ikke utvalget at finansieringsgrunnlaget *kan* være en årsak til at arbeidet er «av midlertidig karakter», for eksempel der en institusjon iverksetter et konkret, tidsbegrenset prosjekt som institusjonen har skaffet midler til å gjennomføre, jf. statsansatteloven § 9 første ledd bokstav a.
+
+Utvalget mener at universitets- og høyskolesektoren har et særskilt behov for midlertidige ansettelser. Dette gjelder, som nevnt tidligere, spesielt i de to første gruppene, utdannings- og åremålsstillingene. I tillegg har universitets- og høyskolesektoren det vanlige behovet for vikarer som arbeidslivet for øvrig har. Den høye andelen midlertidig ansatte i sektoren indikerer imidlertid at institusjonene ansetter i midlertidige stillinger utover det som er nødvendig, og bruker de rettslige grunnlagene for midlertidige stillinger i større grad enn det er faktisk grunnlag for.
+
+Det er derfor behov for å klargjøre hva som defineres som arbeid av midlertidig karakter jf. statsansatteloven § 9 første ledd bokstav a. Når det sektoren typisk driver med, er forskning av lengre og kortere varighet og innhenting av ekstern forskningsfinansiering er en del av normal drift i tråd med virksomhetenes formål, er det et betimelig spørsmål om dette er arbeid av midlertidig karakter.
+
+Ettersom den klare hovedregelen både i arbeidsmiljøloven og i statsansatteloven er fast ansettelse, reiser det et spørsmål om den uønskede bruken av midlertidige stillinger skyldes svak kompetanse på regelverket. Innspill fra sektoren tyder på at dette til en viss grad er tilfellet. I tillegg kan man spørre om ledere i sektoren forstår det gjeldende regelverket om handlingsrommet ved omorganiseringer godt nok. En god ledelseskultur bidrar til at institusjonen har kontroll på at den ikke benytter midlertidige stillinger utover det det er rettslig adgang til. Utvalget er kjent med at det ved flere universiteter er satt i gang konkrete tiltak for å redusere andelen midlertidige ansettelser, noe som også har gitt resultater. Dette indikerer at det er rom for å redusere andelen midlertidige ansettelser i sektoren, og at den høye bruken av slike ansettelser kan skyldes kultur eller holdning ved institusjonene.
+
+Utvalget har ikke klart å identifisere mulige regelendringer som kan avhjelpe situasjonen med den høye andelen midlertidige ansettelser ved universiteter og høyskoler. Utvalget viser til at denne utfordringen allerede er forsøkt avhjulpet i den nye statsansatteloven, som gjelder for hele statlig sektor. Utvalget oppfordrer derfor sektoren selv, og hver enkelt institusjon, til å arbeide systematisk med å etablere en god kultur og hensiktsmessige rutiner ved ansettelser. Målet er å sikre at hovedregelen om fast ansettelse følges uavhengig av finansieringskilde, og at hjemlene for å ansette midlertidig anvendes korrekt. Dette forutsetter at administrasjonen ved de enkelte institusjonene har tilstrekkelig kompetanse på ansettelsesreglene.
+
+### Åremålsansettelser
+
+Åremålsansettelser er regulert i universitets- og høyskoleloven § 6-4. Åremål brukes i to hovedkategorier: utdanningsstillinger og lederstillinger. Åremål for utdanningsstillinger er begrunnet med at kvalifiseringen skjer over en viss periode, og når denne er over, skal den ansatte over i en annen stillingskategori eller annen sektor. Åremålet for lederstillinger er begrunnet med at enkeltpersoner ikke skal sitte for lenge i slike posisjoner.
+
+Utvalgets flertall, bestående av *utvalgsleder Aune og medlemmene Bragdø-Ellenes, Bergstrøm, Dahl Andersen, Jørgensen, Mælen, Riekeles og Steinveg* foreslår å fjerne bokstav b i gjeldende lov § 6-4, som bestemmer at det er adgang til å ansette administrerende direktør på åremål. Dette henger sammen med flertallets forslag om en endret styrings- og ledelsesform der enhetlig ledelse skal være regelen. Styret kan etter utvalgets forslag beslutte om det ønsker å ha en eller flere direktører.
+
+Utvalgets mindretall, ved *utvalgsmedlemmene Hessen og Søvig*, foreslår ingen endringer i gjeldende § 6-4 bokstav b.
+
+Utvalget har fått innspill fra Forskerforbundet om at bestemmelsen i universitets- og høyskoleloven § 6-4 første ledd bokstav j bør oppheves. Bestemmelsen gir hjemmel til åremålsansettelse i «undervisnings- og forskerstillinger når skapende eller utøvende kunstnerisk kompetanse inngår som et vesentlig element i kompetansekravet». Forskerforbundet mener adgangen til åremålsansettelse her er uheldig både for undervisningen, for kvaliteten på det daglige arbeidet og for den enkelte ansatte. Forskerforbundet viser til at virksomhetene må dekke behovet for å ansette utøvende kunstnere innenfor den generelle adgangen til å bruke midlertidig ansettelse og faste deltidsstillinger.
+
+Utvalget har merket seg Forskerforbundets innspill. Utvalget viser samtidig til at ansettelse på åremål etter universitets- og høyskoleloven § 6-4 første ledd bokstav j var et av punktene som ble tatt opp på innspillsmøtet om kunstnerisk utviklingsarbeid utvalget hadde med UHR- Kunst, design og arkitektur 12. juni 2019.[^570] I referatet fra innspillsmøtet står det:
+
+Det var bred oppslutning om at det fortsatt er stort behov for åremålsstillinger innenfor fagområdet. Det ble også argumentert for at muligheter for mindre stillingsbrøker og/eller midlertidige stillinger er spesielt viktig for fagområdet. Nærhet til praksisfeltet, fornyelse og utfyllende kompetanse er viktig for studietilbudet, kvaliteten på undervisningen og for den enkeltes kunstneriske utvikling. Det ble argumentert for at denne fleksibiliteten er spesielt viktig for små fagmiljøer, og ønskelig både fra et institusjonsperspektiv og den enkelte kunstners perspektiv.
+
+Utvalget slutter seg til argumentasjonen som kom frem på Universitets- og høgskolerådets innspillsmøte om kunstnerisk utviklingsarbeid, og foreslår ingen endringer i gjeldende universitets- og høyskolelov § 6-4 første ledd bokstav j.
+
+Utvalget foreslår en tilføyelse i bestemmelsen i § 6-4 fjerde ledd, der det sies at det ikke er adgang til å ansette mer enn én periode som postdoktor. Dette er for å presisere at postdoktorstillingen har som funksjon å sikre den ansatte mulighet til å kvalifisere seg til en fast undervisnings- og forskerstilling. Flere påfølgende postdoktorstillinger støtter ikke opp om en slik intensjon.
+
+### Behov for juridisk kompetanse
+
+Universiteter og høyskoler er på det arbeidsrettslige feltet regulert av en rekke ulike lover, med mange forskrifter. Dette har ført til ulik praksis blant institusjonene og er noe som igjen kan føre til nasjonale forskjeller.
+
+Utvalget bemerker at når institusjonene får en høy grad av autonomi, er det av stor betydning at de har tilstrekkelig kompetanse til å anvende lovverket. Innspill på møter utvalget har hatt med sektoren kan tyde på at det særlig er behov for økt arbeidsrettslig kompetanse hos dem som skal anvende reglene.
+
+Ifølge en oversikt utvalget har mottatt fra Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU),[^571] var det i 2018 ansatt 216 personer med juristutdanning i teknisk-administrative stillinger ved universiteter og høyskoler. Juristene utgjorde 1,8 prosent av det teknisk-administrative personalet med høyere utdanning dette året. Over tid har antallet jurister økt betydelig, fra 92 personer i 2003. Likevel er andelen jurister av teknisk-administrativt personale med høyere utdanning nesten uforandret. Det skyldes at det generelt har blitt langt flere med høyere utdanning i teknisk-administrative stillinger ved universiteter og høyskoler i denne perioden. I 2018 var 67 prosent av juristene ansatt i institusjonenes sentraladministrasjoner, 25 prosent var ansatt på fakultetsnivå og åtte prosent på instituttnivå.
+
+Utvalget ser også behov for mer juridisk forskning på og undervisning i utdanningsrettslige emner. Dette gjelder både arbeidsrettslige, studentrettslige og ledelses- og forvaltningsrettslige problemstillinger. Utvalget har erfart at det er lite juridisk litteratur om juridiske problemstillinger som er relevante for universitets- og høyskolesektoren.

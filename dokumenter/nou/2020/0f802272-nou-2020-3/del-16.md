@@ -1,869 +1,288 @@
-# NOU 2020: 3, del 16 av 42 (side 176–185)
+# NOU 2020: 3, del 16 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 176]
-
-174
-
-Kapittel 19
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-derfor sikre at studentene er omfattet av regler for
-varsling og vern mot gjengjeldelse. Det følger av
-arbeidsmiljøloven § 2 A-2 at «gjengjeldelse mot
-arbeidstaker som varsler i samsvar med § 2 A-1 er
-forbudt». Utvalget mener studenter som varsler
-må ha samme vern, og har inkorporert dette i lovforslaget.
-Utvalget viser til at statlige og private utdanningsinstitusjoner som er rettet mot allmennheten, har plikt til å sikre universell utforming av
-virksomhetens alminnelige funksjon, jf. likestillings- og diskrimineringsloven.
-Universitetene og høyskolene har det overordnede ansvaret for studentenes læringsmiljø,
-mens studentsamskipnaden har i oppgave å ta
-seg av studentenes velferdsbehov ved det
-enkelte lærested, jf. studentsamskipnadsloven9
-§ 3. Alle institusjoner som omfattes av universitets- og høyskoleloven, skal som hovedregel
-være tilknyttet en studentsamskipnad, jf. studentsamskipnadsloven § 4. Utdanningsinstitusjonen
-og studentsamskipnaden skal samarbeide om
-ansvaret for studiemiljøet og studentvelferden.
-Dette følger både av universitets- og høyskoleloven § 4-3 første ledd og av forskrift om studentsamskipnader § 16.
-Regulering av forholdet mellom utdanningsinstitusjonene og studentsamskipnadene er nærmere omtalt i kapittel 36. For å tydeliggjøre
-utdanningsinstitusjonenes ansvar for studentenes
-læringsmiljø og studentvelferden, i samarbeid
-med studentsamskipnadene, foreslår utvalget at
-det tas inn en ny bestemmelse i universitets- og
-høyskoleloven om forholdet til studentsamskipnadene om at alle institusjoner skal være tilknyttet
-en studentsamskipnad. I tillegg skal bestemmelsen videreføre regelen i dagens § 4-3 første ledd
-andre punktum om at styret skal legge forholdene
-til rette for et godt og inkluderende læringsmiljø
-og arbeide for å bedre studentvelferden, i samarbeid med studentsamskipnadene. En slik bestemmelsen vil innebære noe dobbeltregulering, ettersom plikt til å være tilknyttet en studentsamskipnad også fremgår av studentsamskipnadsloven.
-Utvalget ønsker i utgangspunktet å unngå slik
-dobbeltregulering, men anser at det er hensiktsmessig i dette tilfellet for å sikre studentenes
-læringsmiljø og velferd generelt.
-I dag har Arbeidstilsynet ansvar for tilsyn med
-§ 4-3 sjette ledd. I Norsk studentorganisasjons
-gjennomgang av lovverket omkring læringsmiljøet ba de om en oversikt over tilsynene
-9
-
-Lov 14. desember 2007 nr. 116 om studentsamskipnader
-(studentsamskipnadsloven).
-
-Arbeidstilsynet har utført med læringsmiljøet ved
-høyere utdanningsinstitusjoner i Norge10. Det
-viste seg at det er gjennomført få eller ingen tilsyn
-i henhold til dagens § 4-3 sjette ledd. Der det er
-gjennomført tilsyn, har ikke studenter vært til
-stede. Utvalget ser med bekymring på dette siden
-Arbeidstilsynet har et lovpålagt ansvar for å føre
-slikt tilsyn. Utvalget anbefaler at Kunnskapsdepartementet går i dialog med Arbeidstilsynet,
-om hvordan dette arbeidet kan styrkes. Utvalget
-foreslår å lovfeste NOKUTs ansvar for tilsyn med
-institusjonens arbeid med læringsmiljøet gjennom
-deres tilsyn av kvalitetssystemet samt at DIFI skal
-føre tilsyn med det digitale læringsmiljøet. Dette
-fremgår av lovforslaget § 7-7.
-
-19.3 Individuell tilrettelegging ved
-funksjonsnedsettelse og andre
-særskilte behov
-19.3.1 Gjeldende rett
-Grunnloven § 109 andre ledd sier at «statens
-myndigheter skal sikre […] like muligheter til
-høyere utdannelse på grunnlag av kvalifikasjoner». Det skal derfor være like muligheter for alle
-som er kvalifisert til å ta høyere utdanning, uavhengig av personlige forhold eller den enkeltes
-økonomiske bakgrunn. Dette sikres blant annet
-gjennom universell utforming og individuell tilrettelegging.
-Ifølge universitets- og høyskoleloven § 4-3
-femte ledd har studenter med funksjonsnedsettelse og studenter med særskilte behov rett til
-egnet individuell tilrettelegging av lærested,
-undervisning, læremidler og eksamen. Tilretteleggingen skal sikre likeverdige opplærings- og
-utdanningsmuligheter. Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig
-byrde for utdanningsinstitusjonen.
-I Prop. 89 L (2018–2019) Endringer i universitets- og høyskoleloven og fagskoleloven (studentombud, trakassering og tilrettelegging) foreslo
-Kunnskapsdepartementet å styrke den retten studenter med funksjonsnedsettelse og studenter
-med andre særskilte behov har til å få studiehverdagen tilrettelagt. Lovendringen ga studentene en
-sterkere rett til tilrettelegging ved at det kun er
-når det foreligger en uforholdsmessig byrde for
-institusjonene at det ikke er krav om tilrette10
-
-Norsk studentorganisasjon (NSO). Utredning av lovverket
-for studenters læringsmiljø. Med forslag til endringer. Hentet
-fra https://student.no/content/uploads/2014/05/Utredning-av-lovverket-for-studenters-læringsmiljø-11-052017.pdf.
-
-[Side 177]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-175
-
-Kapittel 19
-
-Boks 19.1 FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne
-artikkel 24
-1. Partene erkjenner at mennesker med nedsatt
-3. Partene skal gjøre det mulig for mennesker
-funksjonsevne har rett til utdanning. Med
-med nedsatt funksjonsevne å lære praktiske
-sikte på å virkeliggjøre denne rettigheten
-og sosiale ferdigheter slik at de lettere kan
-uten diskriminering, og på basis av like
-delta fullt ut i undervisningen på lik linje med
-muligheter, skal partene sikre et inkludeandre, og som medlemmer av samfunnet. For
-dette formål skal partene treffe hensiktsmesrende utdanningssystem på alle nivåer, samt
-sige tiltak, herunder:
-livslang læring, som tar sikte på:
-a. at menneskets potensial og forståelsen av
-a. å legge til rette for innlæring av punktskrift, alternativ skrift, alternative og supdets verdighet og egenverdi utvikles fullt
-ut, og at respekten for menneskerettigplerende kommunikasjonsformer, -midler
-hetene, de grunnleggende friheter og det
-og -formater, orienterings- og mobilitetsmenneskelige mangfold styrkes,
-ferdigheter, samt legge til rette for likeb. at mennesker med nedsatt funksjonsevne
-mannsarbeid og mentorvirksomhet,
-b. å legge til rette for innlæring av tegnspråk
-får utvikle sin personlighet, sine anlegg
-og fremme av døvesamfunnets språklige
-og sin kreativitet, så vel som sine psyidentitet,
-kiske og fysiske evner, fullt ut,
-c. at mennesker med nedsatt funksjonsevne
-c. å sikre at undervisningen av blinde, døve
-blir i stand til å delta effektivt i et fritt samog døvblinde personer, og især barn, finfunn.
-ner sted på de språk og i de kommunika2. For å virkeliggjøre denne rettighet skal parsjonsformer og med de kommunikasjonstene sikre
-midler som er best tilpasset den enkelte,
-og i et miljø som gir størst mulig faglig og
-a. at mennesker med nedsatt funksjonsevne
-sosial utvikling.
-ikke stenges ute fra det allmenne utdanningssystemet på grunn av nedsatt funk4. Med sikte på å bidra til å virkeliggjøre denne
-sjonsevne, og at barn med nedsatt funkrettighet skal partene treffe hensiktsmessjonsevne ikke stenges ute fra obligatosige tiltak for å ansette lærere som kan tegnrisk og gratis grunnskoleundervisning
-språk og/eller punktskrift, herunder lærere
-eller fra videregående opplæring på
-med nedsatt funksjonsevne, og å lære opp
-grunn av sin nedsatte funksjonsevne,
-fagfolk og personale som arbeider på alle
-nivåer i utdanningssystemet. Opplæringen
-b. at mennesker med nedsatt funksjonsevne
-skal omfatte bevisstgjøring om funksjonsfår tilgang til inkluderende, god og gratis
-grunnutdanning og videregående opplæhemming og bruk av hensiktsmessige alterring i sitt lokalsamfunn, på lik linje med
-native og supplerende kommunikasjonsformer, -midler og -formater, samt underandre,
-c. rimelig tilrettelegging ut fra den enkeltes
-visningsmetoder og undervisningsmateriell
-behov,
-som er til hjelp for mennesker med nedsatt
-funksjonsevne.
-d. at mennesker med nedsatt funksjonsevne
-får nødvendig støtte, innenfor rammen av
-5. Partene skal sikre at mennesker med nedsatt
-det allmenne utdanningssystemet, slik at
-funksjonsevne får tilgang til høyere utdandet legges til rette for en effektiv utdanning, yrkesrettet opplæring, voksenoppning,
-læring og livslang læring uten diskriminering
-og på lik linje med andre. For dette formål
-e. effektive støttetiltak tilpasset den enkelskal partene sikre rimelig tilrettelegging for
-tes behov, i et miljø som gir størst mulig
-mennesker med nedsatt funksjonsevne.
-faglig og sosial utvikling, i tråd med målet
-om full inkludering.
-
-[Side 178]
-
-176
-
-Kapittel 19
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-legging. Før lovendringen var kravet at institusjonen måtte tilrettelegge så langt det var «mulig
-og rimelig». Endringen innebar at institusjonene
-nå må strekke seg lenger for å tilrettelegge. Lovforslaget skulle bidra til at studenter, med funksjonsnedsettelse og studenter med andre særskilte behov, får den samme muligheten til å ta
-høyere utdanning som andre studenter. Målet var
-også å bygge ned samfunnsskapte funksjonshemmende barrierer og å hindre at nye skapes.
-Lovendringen trådte i kraft 1. august 2019.
-Tilretteleggingsplikten i både gjeldende og tidligere universitets- og høyskolelov omfatter flere
-persongrupper enn tilretteleggingsbestemmelsen i likestillings- og diskrimineringsloven. Sistnevnte bestemmelse omhandler bare tilrettelegging for studenter med funksjonsnedsettelse
-av en viss varighet og alvorlighetsgrad.
-Kunnskapsdepartementet presiserte i lovproposisjonen at utdanningsinstitusjonen ikke har
-plikt til å iverksette tiltak som medfører en uforholdsmessig byrde for virksomheten, jf. den likelydende begrensningen i likestillings- og diskrimineringsloven § 21 andre ledd. Det må vurderes
-skjønnsmessig om utformingen eller tilretteleggingen medfører en uforholdsmessig stor byrde
-for virksomheten. Det understrekes at statlige og
-private utdanningsinstitusjoner som er rettet mot
-allmennheten, har plikt til å sikre universell utforming av virksomhetens alminnelige funksjon. Når
-institusjonene skal vurdere om utformingen eller
-tilretteleggingen medfører en uforholdsmessig
-byrde, skal de særlig legge vekt på tilretteleggingens effekt for å bygge ned barrierene for studenter med funksjonsnedsettelse, de nødvendige
-kostnadene ved tilretteleggingen, institusjonenes
-ressurser, sikkerhetsmessige hensyn og vernehensyn.
-Det fremgår av proposisjonen at siden statlige
-universiteter og høyskoler i hovedsak er finansiert over statsbudsjettet og private høyskoler
-baserer seg på en kombinasjon av offentlig støtte
-og privat betaling, skal det mye til for at utdanningsinstitusjonene skal kunne avslå individuell
-tilrettelegging med henvisning til at dette vil medføre en uforholdsmessig byrde. Tilretteleggingsplikten avgrenses likevel slik at tilretteleggingen
-ikke kan gå på bekostning av de faglige kravene
-som stilles i den enkelte utdanning.
-Selv om individuell tilrettelegging kan være en
-utfordring for utdanningsinstitusjoner som har
-mange studieprogrammer med mye praksis eller
-obligatorisk fremmøte, vil også studenter i slike
-studieprogrammer ha krav på tilrettelegging med
-de begrensninger som følger av loven. Det vil si at
-
-tilretteleggingen ikke fører til at de faglige kravene i utdanningen reduseres.
-Det ble gjort unntak for Svalbard, slik at lovendringen ikke gjelder der.
-
-19.3.2 Utvalgets vurderinger
-Ifølge Verdens helseorganisasjon (WHO) lever
-rundt 15 prosent av verdens befolkning med en
-form for funksjonsnedsettelse. Læringsmiljøundersøkelsen utført av Universell og TNS Gallup i 2012 viste også at 15 prosent av studentene
-ved universiteter og høyskoler har en form for
-varig (fysisk eller psykisk) funksjonsnedsettelse
-som påvirker muligheten til å gjennomføre høyere utdanning. Dette ble rapportert blant 8600
-studenter på syv ulike læresteder i undersøkelsen.
-Utdanningsinstitusjonene har ansvar for at alle
-studenter har et godt og inkluderende læringsmiljø av høy kvalitet. Det innebærer blant annet at
-de skal sikre at også studenter med funksjonsnedsettelse og studenter med andre særskilte behov
-av mer midlertidig karakter får kvalitetssikrede
-tilbud og tjenester tilpasset sitt behov. Rett til tilrettelegging følger også av FNs konvensjon om
-rettighetene til mennesker med nedsatt funksjonsevne (CRPD).
-Utvalget viser til at tilretteleggingen ved universiteter og høyskoler skal ta utgangspunkt i forutsetningene og behovene til studenten som trenger tilrettelegging. Det må vurderes konkret hva
-den enkelte student har behov for. Tilrettelegging
-kan skje både gjennom generelle tiltak overfor
-hele studentgruppen eller gjennom spesifikke tiltak rettet kun mot den aktuelle studenten. Tilretteleggingen kan skje innenfor eller utenfor det
-ordinære undervisningsopplegget. Retten til tilrettelegging omfatter både fysiske og andre forhold ved lærestedet, undervisningsopplegget,
-læremidlene og eksamen. Tilretteleggingen skal
-sikre likeverdige opplærings- og utdanningsmuligheter, både når det gjelder kvalitet, og når
-det gjelder omfang.
-For at studentene skal få likeverdige muligheter i høyere utdanning er utdanningsinstitusjonene pålagt å arbeide forebyggende. Det handler
-om å utvikle universelle løsninger som inkluderer
-flest mulig studenter i de ordinære løsningene.
-Når universell utforming ikke er tilstrekkelig, skal
-utdanningsinstitusjonen sammen med studenten
-vurdere hva som vil være en egnet individuell tilrettelegging.
-Formålet med tilretteleggingsplikten er å sikre
-like muligheter til å studere, ikke å sette studenter
-
-[Side 179]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-med funksjonsnedsettelse eller studenter med
-andre særskilte behov i en bedre posisjon enn
-andre studenter, eller å gi dem særlige rettigheter.
-For at man skal oppnå likebehandling, må det
-iverksettes konkrete tiltak tilpasset behovene til
-den enkelte student.11 Når det gjelder studenter
-med varig eller alvorlig grad av funksjonsnedsettelse og studenter med midlertidige utfordringer,
-foreslår utvalget at gjeldende lovbestemmelse
-videreføres, men med enkelte språklige justeringer. I forslaget presiserer utvalget at det må vurderes/avveies om tilretteleggingen innebærer en
-uforholdsmessig byrde for utdanningsinstitusjoner, det vil si en byrde som veier tyngre enn de
-positive effektene av tilretteleggingen for den
-enkelte student. Utvalget viser til at plikten til universell utforming og individuell tilrettelegging er
-avgrenset mot tiltak som medfører en uforholdsmessig byrde for virksomheten.12
-Utvalget presiserer at tilretteleggingen ikke
-må føre til en reduksjon av de faglige kravene som
-stilles til utdanningen. Dette er også en videreføring av gjeldende rett. Det som menes med at de
-faglige kravene i utdanningen ikke skal reduseres, er for eksempel at studenten ikke kan fritas
-for obligatoriske deler av utdanningen. For
-eksempel kan ikke studenter med dyskalkuli fritas fra prøve i medikamentregning på sykepleierstudiet. En slik tilrettelegging vil i tilfelle føre til at
-deler av studiet ikke blir bestått eller avlagt, noe
-som igjen vil føre til at disse studentene for
-eksempel ikke får autorisasjon på grunn av at
-vitnemålet ikke er komplett. Utvalget understreker, slik det også ble gjort i forarbeidene til
-gjeldende bestemmelse, at det er viktig at alle som
-fullfører og består en utdanning, har oppnådd det
-fastsatte læringsutbyttet.
-Utvalget viser til at gjeldende universitets- og
-høyskolelov gjelder på Svalbard, jf. universitetsog høyskoleloven § 1-2 femte ledd som sier at
-loven gjelder for Svalbard hvis ikke annet er
-bestemt. Utvalget foreslår å videreføre denne
-bestemmelsen, jf. punkt 10.5. Kun ett sted i loven
-er det gjort unntak fra regelen om at loven gjelder
-på Svalbard, og det er i bestemmelsen om tilrettelegging for studenter med særskilte behov i § 4-3
-femte ledd fjerde setning. Unntaket trådte i kraft
-1. august 2019. Det følger av § 4-3 femte ledd
-fjerde setning at høyere utdanningsinstitusjoner
-11
-
-Prop. 81 L (2016–2017) Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) s. 327
-om individuell tilrettelegging for elever og studenter.
-12
-Dette følger av Prop. 81 L (2016–2017) punkt 22.2.2.7
-s. 200.
-
-177
-
-Kapittel 19
-
-på Svalbard bare «så langt det er mulig og rimelig» skal legge studiesituasjonen til rette for studenter med særskilte behov.
-Utvalget mener at reglene om universell utforming og individuell tilrettelegging ved utdanningsinstitusjonene også skal gjelde fullt ut på
-Svalbard. Utvalget viser særlig til Norges forpliktelser etter FN-konvensjonen om rettighetene til
-mennesker med nedsatt funksjonsevne, som gjelder for hele det norske territoriet, også på Svalbard.13 Norge signerte konvensjonen i 2007 og
-ratifiserte den i 2013. Det betyr at Norge er forpliktet til å følge det som står i konvensjonen. Konvensjonen artikkel 24, som omhandler retten til
-utdanning for mennesker med nedsatt funksjonsevne, er omtalt i boks 19.1.
-FN-konvensjonen legger til grunn at alle mennesker har en iboende verdighet og verdi, like og
-umistelige rettigheter, og at dette er grunnlaget for
-frihet, rettferd og fred i verden. I artikkel 1 står formålet med konvensjonen, som er «å fremme, verne
-om og sikre mennesker med nedsatt funksjonsevne full og likeverdig rett til å nyte alle menneskerettigheter og grunnleggende friheter, og å
-fremme respekten for deres iboende verdighet».
-Konvensjonspartene forplikter seg dermed til å
-sikre og fremme full gjennomføring av alle menneskerettigheter og grunnleggende friheter for alle
-mennesker med nedsatt funksjonsevne, uten diskriminering av noe slag på grunn av nedsatt funksjonsevne, blant annet gjennom lovgivningstiltak
-for å virkeliggjøre rettighetene som er nedfelt i konvensjonen, jf. artikkel 4 nr. 1.
-I dag er den eneste høyere utdanningsinstitusjonen på Svalbard Universitetssenteret på Svalbard (UNIS). UNIS er verdens nordligste høyere
-utdanningsinstitusjon og den ligger i Longyearbyen på 78º N. UNIS tilbyr emner på bachelor-,
-master- og doktorgradsnivå i arktisk biologi, arktisk geologi, arktisk geofysikk og arktisk teknologi. Tilbudet er svært populært blant studenter
-verden over. UNIS er et aksjeselskap som er eid
-av Kunnskapsdepartementet. Det ble etablert i
-1993 for å gi utdanning på universitetsnivå i arktiske studier, gjennomføre forskning av høy kvalitet og bidra til utviklingen av Svalbard som en
-internasjonal forskningsplattform.
-Utvalget mener at det er uheldig at studentene
-som velger å ta et semester ved UNIS, ikke får
-den samme muligheten for tilrettelegging som
-studenter på fastlandet. De vil da ikke ha de
-samme rettighetene som de har ved hjeminstitu13
-
-FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne av 13. desember 2006.
-
-[Side 180]
-
-178
-
-Kapittel 19
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sjonen. Dette fører til at studenter med en rett til
-tilrettelegging ved sin institusjon på fastlandet,
-ikke nødvendigvis kan hevde den samme rettigheten når de oppholder seg ved UNIS på Svalbard.
-De særlige forholdene som råder på Svalbard, gjør at det er behov for tilpasninger i regelverket i tråd med de overordnede målene i norsk
-svalbardpolitikk. Sentrale deler av velferdslovgivningen gjelder for eksempel ikke på Svalbard,
-blant annet på grunn av skattemessige forhold
-og målet om at Longyearbyen ikke skal være et
-livsløpssamfunn. Utvalget har forståelse for disse
-hensynene. Likevel er det utvalgets vurdering at
-en tilretteleggingsplikt i universitets- og høyskoleloven tilsvarende den som gjelder på fastlandet ikke vil legge press på øvrige offentlige
-tjenester. Den vil heller ikke utløse krav på andre
-ytelser eller andre typer tilrettelegging fra det
-offentlige. Utvalget mener Norges forpliktelser
-etter FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne må følges
-opp, og at tilretteleggingsplikten derfor må
-gjelde på Svalbard slik den gjelder på fastlandet.
-Utvalget foreslår derfor å fjerne bestemmelsen i
-universitets- og høyskoleloven § 4-3 femte ledd
-fjerde setning.
-
-19.4 Individuell tilrettelegging ved
-graviditet og etter fødsel
-19.4.1 Gjeldende rett
-Det fremgår av universitets- og høyskoleloven
-§ 4-5 første ledd at studenter som får barn under
-studiene, skal ha rett til permisjon fra studiene
-under svangerskap og til omsorg for barn, jf. universitets- og høyskoleloven § 4-5 første ledd. Det
-betyr at studenten under permisjonen opprettholder sin status som student med de rettigheter
-som følger etter universitets- og høyskoleloven
-og tilhørende forskrifter. Det følger også av forskrift om studentsamskipnader14 § 17 tredje ledd
-at studenter i fødselspermisjon etter universitetsog høyskoleloven § 4-5 første ledd kan velge om
-de vil betale semesteravgift og dermed ha mulighet til å benytte seg av studentsamskipnadens
-velferdstjenester under permisjonstiden. Studenter som ikke har behov for å benytte studentvelferdstjenestene under permisjonen kan velge
-ikke å betale semesteravgift.
-
-En student har rett til utsatt eksamen ved fødsel, jf. universitets- og høyskoleloven § 4-5 første
-ledd tredje setning. Rettighetene er forskjellige
-for mor og far noe som skyldes deres ulike biologiske funksjon i forbindelse med graviditet, fødsel
-og barsel. Bestemmelsen tar utgangspunkt i
-arbeidsmiljøloven, slik at mor har rett til utsatt
-eksamen hvis eksamensdatoen er i perioden fra
-tre uker før termin til seks uker etter fødsel, se
-arbeidsmiljøloven § 12-4 og folketrygdloven § 14-9
-sjette ledd.15 Når det gjelder rettigheter for far til
-å få utsatt eksamen, tar universitets- og høyskoleloven også her utgangspunkt i arbeidsmiljøloven,
-som gir far rett til to uker fri etter fødsel, jf.
-arbeidsmiljøloven § 12-3 første ledd. Institusjonene står fritt til å gi fedre (eller mødre) rett til
-lengre utsettelse, ettersom lovbestemmelsen kun
-angir en minimumsrettighet.
-Det følger av barneloven § 4a tredje ledd at
-regler i lov eller forskrift som gjelder for en far,
-også gjelder for en medmor.16 Når det gjelder
-adopsjon gir arbeidsmiljøloven § 12-3 andre ledd
-rett til to uker permisjon i forbindelse med overtakelse av omsorg for barnet. Det er imidlertid
-ofte tilfellet at adoptivforeldre må være i adoptivbarnets land en lengre periode. Dette er ikke
-regulert særskilt i universitets- og høyskoleloven
-fordi det finnes mange ulike adopsjonsprosesser
-som det er vanskelig å ta høyde for i en lovtekst.
-Rett til permisjon skal så langt det er mulig også
-gjelde i forbindelse med adopsjon.17
-Studentens rett til utsatt eksamen gjelder uansett eksamensform. En student som ønsker utsatt
-eksamen, må varsle utdanningsinstitusjonen i god
-tid. Institusjonen kan i eget regelverk fastsette
-frist for når en søknad om utsettelse må fremmes.
-Dersom det er flere studenter som har rett til
-utsatt eksamen av ulike årsaker, kan institusjonen
-samordne disse i én eksamen.
-Lovbestemmelsen angir som nevnt en minimumsrettighet for studentene, men institusjonen
-skal, så langt det er mulig og rimelig, også bidra
-til å legge studiesituasjonen til rette for studenter
-som har særskilte behov, jf. universitets- og høyskoleloven § 4-3 femte ledd. Dette innebærer at
-dersom utdanningsinstitusjonen mottar en søknad om utsettelse av eksamen utover det § 4-5 gir
-hjemmel for, så må den vurdere om studenten
-kan gis utvidet utsettelse fordi det er mulig og
-15
-16
-
-14
-
-Forskrift 22. juli 2008 nr. 828 om studentsamskipnader (forskrift om studentsamskipnader).
-
-17
-
-Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).
-Lov 8. april 1981 nr. 7 om barn og foreldre (barneloven).
-Se særmerknadene og omtalen av dette i Prop. 59 L (2013–
-2014) Endringer i universitets- og høyskoleloven.
-
-[Side 181]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-rimelig tatt i betraktning studentens særskilte
-behov.
-
-19.4.2 Utvalgets vurderinger
-Utvalgets inntrykk er at regelverket knyttet til
-permisjon under svangerskap og til omsorg for
-barn, fungerer tilfredsstillende. Det samme gjelder reglene om rett til utsatt eksamen ved graviditet. Utvalget foreslår derfor å videreføre gjeldende
-bestemmelser.
-I og med at institusjonene skal legge til rette
-for at studenter som er i permisjon etter første
-ledd, kan gjenoppta sine studier så raskt som
-mulig etter endt permisjon, blir det et definisjonsspørsmål når permisjonen slutter. Når man tar
-permisjon fra et studium i mars, betyr det ikke
-nødvendigvis at man kan komme tilbake igjen i
-mars året etter. Dersom studenten ikke ønsker å
-bruke hele året til permisjon kan studenten ikke
-alltid, på grunn at studieløpet, gå tilbake til studiet
-når det passer studenten selv, men dette må tilpasses studieavviklingen ved institusjonen. Vanlig
-permisjonstid er ett år, men institusjonen må ta
-hensyn til forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019–202018, der det
-fremgår at det kun gis foreldrepermisjon for studenter som er i fødselspermisjon/tar vare på barn
-i permisjon i 49 uker.
-Utvalget er av den oppfatning at dette regelverket bør utdypes nærmere i forskrift.
-
-19.5 Permisjon
-19.5.1 Gjeldende rett
-En student kan ha behov for å få permisjon fra
-studiet av ulike grunner. Permisjon er et tidsbegrenset opphold i studentens studieprogresjon.
-Utover rett til permisjon ved graviditet eller til
-omsorg for barn, jf. omtalen i punkt 19.4, kan en
-student få innvilget permisjon ved for eksempel
-førstegangstjeneste eller ved sykdom. Dette er
-imidlertid ikke regulert i loven. Institusjonene
-kan gi forskrift om slik permisjon og eventuelt
-vilkårene for det. Mange institusjoner har i egen
-forskrift krav om at en student bør ha gjennomført studier i minst ett semester før vedkommende kan søke om permisjon. Studenten kan
-normalt få innvilget permisjon for inntil ett år
-etter en konkret vurdering.
-18
-
-Forskrift 15. mars 2019 nr. 254 om tildeling av utdanningsstøtte for undervisningsåret 2019–2020.
-
-179
-
-Kapittel 19
-
-19.5.2 Utvalgets vurderinger
-Utvalgets inntrykk er at regelverket rundt permisjon fungerer tilfredsstillende. Permisjonsadgangen for andre grupper enn gravide og studenter
-som har omsorg for barn er som nevnt ovenfor
-ikke regulert i universitets- og høyskoleloven i dag.
-Utvalget foreslår at myndighet til å fastsette regler
-om permisjon for andre grupper enn gravide og
-studenter med omsorg for barn fortsatt bør ligge til
-institusjonen. Utvalget antar at den enkelte utdanningsinstitusjon har best forutsetninger for å vurdere hva som skal være grunnlaget for å gi permisjon, og på hvilke vilkår permisjon skal gis ved det
-enkelte lærestedet. Utvalget presiserer at det ved
-alle typer permisjoner skal utarbeides en utdanningsplan, jf. gjeldene universitets- og høyskolelov
-§ 4-2, som utvalget foreslår å videreføre i § 8-3.
-
-19.6 Trakassering og seksuell
-trakassering
-19.6.1 Gjeldende rett
-19.6.1.1 Likestillings- og diskrimineringsloven
-Likestillings- og diskrimineringsloven gjelder på
-alle samfunnsområder, også for universiteter og
-høyskoler, jf. likestillings- og diskrimineringsloven § 2 første ledd. Forbudet mot trakassering
-og seksuell trakassering i likestillings- og diskrimineringsloven § 13 første ledd bygger på lovens
-forbud mot diskriminering i § 6 første ledd:
-Diskriminering på grunn av kjønn, graviditet,
-permisjon ved fødsel eller adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, alder eller kombinasjoner
-av disse grunnlagene er forbudt. Med etnisitet
-menes blant annet nasjonal opprinnelse,
-avstamning, hudfarge og språk.
-Likestillings- og diskrimineringsloven presiserer i
-§ 13 andre ledd at «[m]ed trakassering menes
-handlinger, unnlatelser eller ytringer som har som
-formål eller virkning å være krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende».
-I likestillings- og diskrimineringsloven § 13
-tredje ledd er seksuell trakassering definert som
-«enhver form for uønsket seksuell oppmerksomhet som har som formål eller virkning å være
-krenkende, skremmende, fiendtlig, nedverdigende, ydmykende eller plagsom».
-
-[Side 182]
-
-180
-
-NOU 2020: 3
-
-Kapittel 19
-
-Ny lov om universiteter og høyskoler
-
-Forarbeidene til likestillings- og diskrimineringsloven § 13 tredje ledd beskriver seksuell trakassering slik19:
-Med «seksuell oppmerksomhet» menes oppmerksomhet av seksuell karakter eller seksuelt betont oppmerksomhet. Oppmerksomheten kan være verbal, ikke-verbal eller fysisk.
-For eksempel kan forbudet omfatte eksplisitte
-spørsmål, ryktespredning om en persons seksuelle aktivitet eller gjentatte seksuelle spøker.
-Seksuell trakassering kan omfatte alt fra blikk,
-berøring, kommentarer til voldtekt og voldtektsforsøk. Å få tilsendt bilder eller videoer
-med seksuelt innhold via brev, telefon eller
-internett kan også omfattes. Det er ikke et krav
-av atferden er motivert av seksuelt begjær.
-Oppmerksomheten må også være uønsket.
-Det vil si at den hverken må være velkommen
-eller gjensidig. […] Oppmerksomheten må
-videre ha som formål eller virkning å være
-«krenkende, skremmende, fiendtlig, nedverdigende, ydmykende eller plagsom». De nevnte
-virkningene er alternative vilkår, og det er derfor tilstrekkelig at ett av dem er oppfylt. Også
-uønsket seksuell oppmerksomhet som er plagsom er omfattet. Det innebærer at også den
-mer vennligsinnede seksuelle oppmerksomheten kan være omfattet. Om atferden er plagsom må avgjøres ut fra en helhetlig vurdering
-der en rekke momenter vil ha relevans. Blant
-annet om den som oppmerksomheten retter
-seg imot selv opplever atferden som plagsom,
-handlingens karakter, tid og sted for handlingen og relasjonen mellom handlingspersonen
-og den som den seksuelle oppmerksomheten
-retter seg mot […].
-Forbudet mot seksuell trakassering gjelder for
-både ansatte og studenter ved utdanningsinstitusjonen.
-Etter bestemmelsens sjette ledd skal
-«[a]rbeidsgivere og ledelsen i organisasjoner og
-utdanningsinstitusjoner […] innenfor sitt ansvarsområde forebygge og forhindre trakassering og
-seksuell trakassering». I forarbeidene20 presiseres
-det at vernebestemmelsen er todelt og består av en
-plikt til å forebygge slik trakassering og en plikt til
-å forhindre at slik trakassering fortsetter dersom
-den ansvarlige får kjennskap til at det forekommer.
-
-19
-
-Prop. 81 L (2016–2017) Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven) s. 178.
-20
-Se merknadene til § 13 sjette ledd i Prop. 81 L (2016–2017).
-
-Denne plikten retter seg mot alle utdanningsinstitusjoner, uavhengig av om institusjonen
-er statlig eller privat. Det er utdanningsinstitusjonens øverste organ, styret, som har ansvaret for å
-forebygge og forhindre trakassering og seksuell
-trakassering.
-
-19.6.1.2 Universitets- og høyskoleloven
-Selv om plikten til å arbeide forebyggende mot
-trakassering og seksuell trakassering følger av
-likestillings- og diskrimineringsloven, er plikten
-også presisert i universitets- og høyskoleloven § 4-3
-første ledd siste setning.21 Lovendringen ble vedtatt for å tydeliggjøre institusjonenes ansvar og
-understreke betydningen av forebyggende arbeid
-i høyere utdanning. Lovendringen trådte ikraft
-1. august 2019.
-19.6.2 Utvalgets vurderinger
-Utvalget viser til at det i den senere tid har vært
-mye oppmerksomhet rundt seksuell trakassering
-både i samfunnet generelt og ved universiteter og
-høyskoler spesielt. Studentenes helse- og trivselsundersøkelse (SHoT) i 2018 viste at én av fire studenter har blitt utsatt for en eller annen form for
-seksuell trakassering. SHoT er en landsomfattende spørreundersøkelse som har til hensikt å
-frembringe ny kunnskap om hvordan norske studenter har det. Undersøkelsen retter seg særlig
-mot samspill mellom helse, livskvalitet og studieprestasjon/-gjennomføring.
-De vanligste formene for seksuell trakassering
-er verbal trakassering (seksuelle hentydninger og
-forslag, eller kommentarer om kropp, utseende
-eller privatliv) som 20 prosent av kvinnelige og
-fire prosent av mannlige studenter har opplevd,
-uønsket berøring, klemming eller kyssing, som 20
-prosent av kvinnelige og fem prosent av mannlige
-studenter har blitt utsatt for, og nærgående blikk
-eller kroppsbevegelser, som rapporteres av 16
-prosent av kvinnelige og to prosent av mannlige
-studenter. Totalt oppgir 4,7 prosent av kvinnelige
-og 0,4 prosent av mannlige studenter å ha blitt
-utsatt for voldtekt.
-En rapport fra Arbeidsgruppen mot mobbing
-og trakassering i UH-sektoren (UHRMOT) peker
-på at universitets- og høyskolesektoren skiller seg
-fra andre sektorer på flere områder, «blant annet
-særlig ved at det er mange høyt utdannende, mid21
-
-Prop. 89 L (2018–2019) Endringer i universitets- og høyskoleloven og fagskoleloven (studentombud, trakassering og tilrettelegging).
-
-[Side 183]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Boks 19.2 SHoT 2018
-SHoT 2018 ble utført av Folkehelseinstituttet
-(FHI). Prosjektet var godkjent av regional
-komité for medisinsk- og helsefaglig forskningsetikk (REK), og alle deltakere fikk innledningsvis en detaljert orientering om
-undersøkelsens personvern og forskningsetikk.
-Undersøkelsen kartlegger studentenes
-helse og trivsel i bred forstand ved å rette
-søkelyset mot blant annet forutsetninger og
-rammebetingelser for studentenes læring, og
-psykososiale forhold som påvirker studenthverdagen. Undersøkelsen er gjennomført tre
-ganger i intervaller på fire år (2010, 2014 og
-2018). I 2018 ble 162 512 norske heltidsstudenter i alderen 18–35 år invitert til å svare på
-undersøkelsen. 50 054 studenter både i Norge
-og i utlandet svarte. Det gir en svarprosent på
-31.
-
-lertidige ansatte. Midlertidig ansettelsesforhold
-anses som en risikofaktor».22
-Den 22. august 2019 ble den nasjonale kartleggingen av mobbing og trakassering ved 26 universiteter og høgskoler lagt frem.23 Undersøkelsen ble sendt ut til 42 778 ansatte ved 26
-utdanningsinstitusjoner og den ble besvart av
-17 984 respondenter. Dette tilsvarer en svarprosent på 42 prosent. Undersøkelsen omfattet bare
-ansatte, ikke studenter.
-I kartleggingen rapporterte 18 personer om
-alvorlige seksuelle overgrep det siste året. Stipendiater oppgir oftere enn andre grupper å ha blitt
-utsatt for seksuelle overgrep.
-Utvalget ser alvorlig på dette. Spesielt urovekkende er det at stipendiater har tre ganger så stor
-risiko for å bli utsatt for trakassering som andre
-ansatte. Utvalget viser til at stipendiater er i en sårbar situasjon fordi de er avhengig av veileder og
-andre høyere opp i systemet.
-
-Utvalget mener forbudet mot trakassering og
-seksuell trakassering, og utdanningsinstitusjonenes plikt til å forebygge og forhindre slik trakassering, er viktig. Tallene fra SHoT-undersøkelsen og
-kartleggingen omtalt på foregående side, viser at
-det er all grunn til å jobbe systematisk med denne
-problematikken for å bedre studentenes trivsel,
-helse og læringsmiljø og de ansattes arbeidsmiljø.
-Utvalget er imidlertid kritisk til å regulere institusjonenes plikt til å arbeide for å forebygge og forhindre seksuell trakassering i universitets- og høyskoleloven når den samme plikten fremkommer
-tydelig i likestillings- og diskrimineringsloven § 13
-sjette ledd. «Utdanningsinstitusjoner» er som
-pliktsubjekt også eksplisitt nevnt i bestemmelsens
-ordlyd. Denne formen for dobbeltregulering bidrar
-til å svekke helheten i lovverket og gir et lovverk
-som er mer omfattende enn det behøver å være.
-Det er i seg selv et viktig hensyn å sørge for at lover
-ikke blir for omfangsrike, ettersom det kan føre til
-at de blir vanskeligere å finne frem i. Utstrakt bruk
-av dobbeltregulering vil etter utvalgets vurdering
-redusere brukervennligheten. Utvalget viser i
-denne sammenheng til mandatet, som sier at utvalget skal foreslå en tydelig og brukervennlig lov.
-Utvalget foreslår at bestemmelsen i universitets- og høyskoleloven § 4-3 første ledd siste setning ikke videreføres.
-
-19.7 Studentombud
-19.7.1 Gjeldende rett
-Ifølge universitets- og høyskoleloven § 4-17 første ledd skal alle studenter ha tilgang til et studentombud. Studentombudet er uavhengig og
-skal gi studenter råd og hjelp i saker tilknyttet
-studiesituasjonen, jf. universitets- og høyskoleloven § 4-17 andre ledd. Det følger av bestemmelsens tredje ledd at departementet kan gi forskrift
-om studentombud. Slik forskrift er ikke gitt.
-Lovbestemmelsen om studentombud kom inn
-i universitets- og høyskoleloven ved lov 21. juni
-2019 nr. 6124. I lovforslaget25 viste departementet
-til at:
-[Tilbudet er] ment å være et lavterskeltilbud.
-Alle studenter skal ha tilstrekkelig tilgang til et
-studentombud, og ordningen må organiseres
-for å ivareta dette. Det er ikke et krav om at stu-
-
-22
-
-Universitets- og høgskolerådet (UHR). Rapport fra
-Arbeidsgruppen mot mobbing og trakassering i UH-sektoren (UHRMOT) s. 15. https://uhrmot.no/rapporten-klar/
-hentet 16.1.2020.
-23
-Ipsos. Nasjonal rapport. Mobbing og trakassering i universitets- og høyskolesektoren. Hentet fra https://www.nih.no/
-globalassets/dokumenter/komm/nasjonal-rapport---mobbing-og-trakassering-i-uh-sektoren-2019.pdf.
-
-181
-
-Kapittel 19
-
-24
-
-25
-
-Lov 21. juni 2019 nr. 61 om endringer i universitets- og høyskoleloven og fagskoleloven (studentombud, trakassering
-og tilrettelegging).
-Prop. 89 L (2018–2019) s. 44.
-
-[Side 184]
-
-182
-
-NOU 2020: 3
-
-Kapittel 19
-
-Ny lov om universiteter og høyskoler
-
-dentene skal ha fysisk tilgang til studentombudet. Tilgangen kan ikke regnes som tilstrekkelig hvis studentene i praksis har problemer
-med å få kontakt med ombudet fordi det har
-ansvar for et for stort antall studenter eller det
-av andre grunner er vanskelig å komme i kontakt med.
-Universitetene og høyskolene velger selv
-hvordan de organiserer ordningen med studentombud, innenfor rammene som ligger i at
-studentene skal ha tilstrekkelig tilgang til
-ombudet. Institusjonene kan ha et eget studentombud eller samarbeide med andre institusjoner i universitets- og høyskolesektoren og/
-eller fagskolesektoren. Kravet til at studentombudet skal være uavhengig, innebærer at
-det kan være hensiktsmessig at det er institusjonens styre som ansetter og avsetter studentombudet. Studentombudet skal innplasseres i
-institusjonens organisasjon på en slik måte at
-uavhengigheten ivaretas best mulig. […]
-Studentombudet skal være uavhengig av
-både institusjonen og studentene og kan derfor
-ikke instrueres i sitt virke, jf. andre ledd andre
-punktum. Institusjonen vil likevel ha administrativt ansvar for studentombudets virksomhet og kan fastsette rammer for ombudet i budsjett og mandat.
-Studentombudets taushetsplikt følger av forvaltningsloven26 §§ 13 til 13e, med de pliktene og
-begrensningene som følger av disse bestemmelsene, jf. universitets- og høyskoleloven § 4-17
-andre ledd andre punktum. Studentombudets
-taushetsplikt er knyttet til ombudsrollen og gjelder uansett hvilken arbeidsgiver ombudet har.
-
-19.7.2 Utvalgets vurderinger
-Et studentombud skal bidra til at studentenes rettigheter og plikter ivaretas av utdanningsinstitusjonene på en best mulig måte. Utvalget antar at
-når studentombudet hjelper studentene i deres
-saker, så vil klagesaker bli bedre forberedt, og studentene oppleve å være tryggere og bedre ivaretatt. Tilgang til et studentombud er ikke minst viktig for at studentene lett skal kunne søke råd i
-saker av sensitiv art, slik som saker om seksuell
-trakassering.
-Utvalget mener at hensynet til utdanningsinstitusjonenes autonomi i utgangspunktet taler for at
-det bør være opp til institusjonene selv å
-26
-
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
-
-bestemme om de skal ha en ordning med studentombud, og hvordan denne eventuelt skal organiseres. Flere av institusjonene hadde allerede et
-slikt tilbud før lovendringen i 2019. Utvalget
-mener imidlertid at hensynet til at studentene er
-sikret tilgang til et studentombud veier tyngre enn
-hensynet til institusjonenes autonomi. Utvalget
-foreslår derfor at den lovfestede ordningen med
-studentombud videreføres.
-I dag er det opp til institusjonene å fastsette
-mandat for studentombudet. I tråd med hvordan
-ordningen er i dag, mener utvalget at studentombudet ikke skal kunne instrueres av utdanningsinstitusjonen. Etter utvalgets oppfatning er det da
-heller ikke naturlig at styret ved institusjonen fastsetter mandatet. Utvalget mener det er problematisk at styret skal kunne gi mandat til den eller
-dem som skal sørge for at styret gjør jobben sin
-overfor studentene. Utvalget foreslår derfor å ta
-inn studentombudets mandat i lovbestemmelsen.
-Utvalget vil også peke på at det er et paradoks at
-selv om det er institusjonene som finansierer driften av studentombudet, så kan styret ikke instruere personen som har vervet. Utvalget ber departementet å se på alternative finansieringsformer,
-for eksempel ved at tildelingen i statsbudsjettet
-omfordeles slik at departementet finansierer ordningen direkte.
-Begrunnet i hensynet til studentombudets
-uavhengige rolle foreslår utvalget å ikke videreføre departementets hjemmel til å regulere ombudet nærmere i forskrift. Heller ikke institusjonene
-kan gi forskrift om ombudets ansvarsoppgaver.
-Utvalget foreslår å videreføre at det ikke er
-lovfestet krav om mastergrad i rettsvitenskap eller
-tilsvarende kompetanse for å bli ansatt som studentombud. Det bør være opp til institusjonene å
-avgjøre hvilken kompetanse som kreves ved tilsetting av studentombudene. Utvalget mener likevel det er hensiktsmessig om studentombud har
-en viss juridisk kompetanse.
-
-19.8 Læringsmiljøutvalg
-19.8.1 Gjeldende rett
-Universitets- og høyskoleloven stiller krav om at
-universiteter og høyskoler skal ha et læringsmiljøutvalg (ofte forkortet til LMU), jf. universitets- og
-høyskoleloven § 4-3 tredje ledd. Læringsmiljøutvalget skal bidra til at styret legger forholdene
-til rette for et godt studiemiljø og arbeider for å
-bedre studentvelferden på lærestedet. Videre skal
-læringsmiljøutvalget bidra til at styret jobber for at
-læringsmiljøet ved institusjonen, både det fysiske
-
-[Side 185]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-og psykiske arbeidsmiljøet, er fullt forsvarlig ut fra
-en samlet vurdering av hensynet til studentenes
-helse, sikkerhet og velferd, jf. bestemmelsens
-første og andre ledd.
-Ideen om et læringsmiljøutvalg kan spores tilbake til tidlig på 2000-tallet og arbeidet med Kvalitetsreformen.27 Bakgrunnen var spørsmål om
-deler av arbeidsmiljøloven burde utvides til også å
-gjelde studenter, som til da hadde manglet et
-organ som ivaretok arbeids- og læringsmiljøet.
-Begrepet læringsmiljøutvalg ble lansert i lovproposisjonen28 som førte til en felles universitets- og
-høyskolelov. Her ble utdanningsinstitusjonene
-også gitt ansvar for det helhetlige læringsmiljøet
-for alle studenter. I proposisjonen står det at et
-fullt forsvarlig læringsmiljø må utvikles i lys av
-teknisk og sosial utvikling i samfunnet, og ut fra
-det aktuelle studium og studieopplegg. Det ble
-derfor stilt krav til det fysiske arbeidsmiljøet og
-krav om at det skal opprettes et læringsmiljøutvalg ved institusjonene.
-Læringsmiljøutvalget skal delta i planleggingen av tiltak som gjelder læringsmiljøet og nøye
-sikre studentenes kontroll og medbestemmelsesrett i saker som angår studentenes læringsmiljø.
-Læringsmiljøutvalget skal også holdes orientert
-om klager institusjonen mottar fra studenter om
-læringsmiljøet, og utvalget kan gi uttalelser om
-disse forholdene. Læringsmiljøutvalget rapporterer direkte til styret ved institusjonen og skal
-hvert år rapportere om institusjonens arbeid med
-læringsmiljø. Loven stiller krav om at studentene
-og institusjonen skal ha like mange representanter hver i utvalget. Det gjør at læringsmiljøutvalget er det eneste utvalget ved universiteter og
-høyskoler hvor studentene har like mange representanter som institusjonen. Dette gir studentene
-en tilsvarende representasjon i læringsmiljøutvalget som arbeidstakere har i arbeidsmiljøutvalget
-(AMU). Læringsmiljøutvalget velger hvert år en
-leder vekselsvis blant institusjonens og studentenes representanter. Studentrepresentasjon er et
-selvstendig mål med ordningen.
-Meld. St. 16 (2016–2017) Kultur for kvalitet i
-høyere utdanning (Kvalitetsmeldingen) viste til at
-læringsmiljøutvalgene hadde fått nye utfordringer
-etter Strukturreformen fordi de ofte må dekke
-flere studiesteder. For å styrke kunnskapsgrunnlaget om hvordan ordningen med læringsmiljøutvalgene fungerte, ga Kunnskapsdepartementet
-konsulentselskapet Oxford Research AS i oppdrag
-27
-
-St.meld. nr. 27 (2000–2001) Gjør din plikt – krev din rett.
-Kvalitetsreform av høyere utdanning.
-28
-Ot.prp. nr. 40 (2000–2001).
-
-183
-
-Kapittel 19
-
-å evaluere læringsmiljøutvalgene. Evalueringsrapporten29 forelå i april 2018. Evalueringen viste
-at det er stor variasjon i hvordan læringsmiljøutvalgene fungerer ved de ulike institusjonene, og
-hvilke oppgaver de konsentrerer seg om. Det er
-ulikheter når det gjelder utvalgenes organisering,
-ansatterepresentasjon, observatører, relasjon til
-fakulteter og ledelse, saksfelt og samarbeid med
-studentsamskipnadene.
-
-19.8.2 Utvalgets vurdering
-Utvalget ønsker ikke å oppheve ordningen med
-læringsmiljøutvalg. Utvalget ser klare utfordringer med dagens ordning og har av den grunn
-vurdert tre mulige alternativer for læringsmiljøutvalgene som utvalget ønsker å fremheve. Dette
-er hensyn utvalget mener er av betydning ved
-videreutviklingen av læringsmiljøutvalgene.
-Det første alternativet er å foreslå ingen vesentlig endring i bestemmelsene om læringsmiljøutvalgene fra det som gjelder i dag. Det har vært delte
-meninger blant institusjonene om hvordan
-læringsmiljøutvalgene fungerer. Studentene som
-deltok på utvalgets innspillsmøte i Bergen 6. mars
-2019, var opptatt av å bevare læringsmiljøutvalgene. De fremhevet at det er viktig å sikre studentene reell medvirkning.
-Et annet alternativ er en strukturendring hvor
-man slår sammen læringsmiljøutvalget og utdanningsutvalget ved institusjonen. Det er også mulig
-å legge organiseringen av et slikt utvalg på et
-annet nivå ved institusjonen enn i dag. Det fremgår av evalueringen til Oxford Research at enkelte
-institusjoner tidligere har slått sammen disse to
-utvalgene og ønsker å gjøre det igjen.
-For læringsmiljøutvalgene ved store institusjoner er det en utfordring at det er stor avstand
-mellom sakene og det faktiske læringsmiljøet. Evalueringen finner få eksempler på at læringsmiljøutvalget har direkte betydning for hvordan fakultet
-og institutt tar hensyn til læringsmiljøet.
-Hvis læringsmiljøutvalgene og utdanningsutvalgene ble samorganisert og organiseringen av
-disse ble lagt på et lavere nivå enn i dag, kan dette
-styrke studentenes innflytelse over utdanningene.
-En negativ effekt kan bli at utdanningssaker havner i fokus på bekostning av læringsmiljøsaker,
-eller at dagens utdanningsutvalg blir mindre sentrale.
-29
-
-Oxford Research. Evaluering av ordningen med LMU. Hentet fra https://oxfordresearch.no/wp-content/uploads/
-2018/04/Evaluering-av-ordningen-med-LMU.pdf.
+## Utvalgets vurderinger
+
+### Innledning
+
+Det er et politisk omforent prinsipp at høyere utdanning skal være en mulighet for alle, uavhengig av sosioøkonomisk bakgrunn. Utvalget viser til at opptaksreglene blant annet skal sikre at de som ønsker det, i størst mulig grad skal kunne ta høyere utdanning og på den måten utvikle sin kompetanse i den retningen de ønsker. Grunnloven § 109 andre ledd sier at «statens myndigheter skal sikre \[…\] like muligheter til høyere utdanning på grunnlag av kvalifikasjoner». Forutsatt at søkeren er kvalifisert, handler dette om å gi alle like muligheter til å ta utdanning, uavhengig av eventuelle personlige utfordringer eller den enkeltes økonomiske bakgrunn. Like muligheter sikrer vi i Norge blant annet gjennom universell utforming, individuell tilrettelegging og økonomisk støtte fra Lånekassen.
+
+Høyere utdanning, og måten utdanningsinstitusjonene ivaretar kompetansebygging på, er av grunnleggende betydning både for den enkeltes liv og for samfunnet. I dag er høyere utdanning et knapphetsgode som skal fordeles på mange. Opptaksreglene er på den ene siden et regelsett som skal sikre at opptaket, eller konkurransen om plassene, foregår på best mulig måte, og der forvaltningsrettens grunnprinsipper om likebehandling, forutberegnelighet og åpenhet ivaretas. På den andre siden er opptaksreglene et system som skal sikre at studentene som kommer inn på høyere utdanning, tilfredsstiller grunnleggende kvalitative krav, og at de er tilstrekkelig forberedt til å gjennomføre høyere utdanning.
+
+Hovedhensikten med opptaksreglene er at søkerne skal komme inn på ønsket studium, og at universitetene og høyskolene skal rekruttere de riktige studentene. Utvalget mener derfor at opptakskravene må utformes slik at søkere enkelt kan finne dem, og at studentene skjønner hva som er de faglige forutsetningene for å kunne gjennomføre det aktuelle studiet.
+
+I tillegg er opptaksregelverket og opptakskravene et system som skal sikre kvalitet. Gjennom utvelgelseskriteriene som opptaksregelverket ivaretar, «siles» søkerne inn i studiene. For å få studieplass er det på de aller fleste studier tilstrekkelig at søkeren oppfyller et av opptaksgrunnlagene. På enkelte studier er det imidlertid nødvendig å ha de beste karakterene, riktig fagsammensetning og maksimale tilleggspoeng.
+
+Det har vært et uttalt ønske fra både universitets- og høyskolesektoren, fra søkere og ikke minst fra rådgivere i videregående skole at regelverket skal være enkelt og forutsigbart. Kvoteordninger, tilleggspoeng og rangeringsregler medfører at det er mye å sette seg inn i for å kunne finne ut av eller gi gode råd om hvordan man kommer inn på ønsket utdanning. Det kan være vanskelig å skjønne hvilke fag i videregående opplæring som kvalifiserer til ønsket utdanning. Det kan nok også være vanskelig for studieveiledere å se hele bildet og gi gode råd. Mange elever forstår heller ikke fullt ut hva de ulike opptakskvotene innebærer, og at hvis de for eksempel satser på å forbedre karakterene etter videregående opplæring, konkurrerer de i en annen kvote (ordinær kvote), der inntakskravene (nesten alltid) er høyere enn i kvoten for førstegangsvitnemål.
+
+Utvalget mener at det er viktig at det blir utviklet et robust opptaksregelverk, og at det er utfordrende å få til dette. De ulike kravene til regelverket spenner vidt. Regelverket må være tilgjengelig, oversiktlig og forutsigbart for de som skal bruke det. Regelverket skal også sikre at studentene er kvalifisert for å gjennomføre det studiet de søker på. For å sikre at de som tas opp er kvalifisert, og for å øke sjansen for at studentene fullfører studiet, stilles det særskilte opptakskrav til mange studier. Hyppige endringer og mange særskilte opptakskrav kan gjøre regelverket komplisert. Brukerne av regelverket er mange, elever i videregående skole, rådgivere, foreldre og alle de som jobber med opptak på høyskoler og universiteter, og de har ulike forutsetninger for å kunne forstå reglene.
+
+Utvalget mener også at det kan være problematisk at dagens regelverk fører til at elever i den videregående skolen må velge fag og retning på utdanning allerede i første klasse på videregående skole hvis de ønsker å komme inn på bestemte studier. Ikke alle elever vil være i stand til å vite hvilken utdanning de bør satse på allerede da. Å ha mulighet til å bli tatt opp på et studium er dessuten ikke alltid det samme som mulighet til å gjennomføre studiet. Mange studenter har ikke tilstrekkelige forutsetninger for å fullføre det studiet de begynner på. Det følger blant annet av tilstandsrapporten for høyere utdanning fra 2019[^238] at bare 45 prosent av bachelorstudentene fullfører på normert tid. 20 prosent faller fra. For toårige masterstudier er tallene henholdsvis 49 prosent og ti prosent[^239]. Utvalget vil rette oppmerksomheten mot at det finnes gode alternativer til høyere utdanning, som for eksempel fagutdanning.
+
+Dagens opptakssystem har bidratt til en massiv økning i antall privatister som tar opp fag fra videregående opplæring, ofte over flere år. I 2016 meldte 71 020 personer seg opp til privatisteksamen i fag i videregående skole. Siden 2009 har antallet som melder seg opp til privatisteksamen, økt med 71 prosent (2009: 41 363, 2016: 71 020).
+
+Utvalget mener at det bør sees på andre mulige systemer for opptak. I andre land er det ordninger med nasjonale opptaksprøver. I Danmark er det nå innført en ordning der studentene ikke kan ta opp igjen fag fra videregående skole, og søkerne må bruke et «førstegangsvitnemål». Kanskje kan slike systemendringer bidra til å redusere presset på karakterer og motvirke at elevene tar opp igjen fag fra videregående opplæring.
+
+Det er ikke bare selve opptaksregelverket som kan gjøre det komplisert å komme inn på ønsket utdanning. Ikke alle får plass på de studiene de ønsker. Mange studier har begrenset antall plasser. Det kan medføre at bare en liten andel av de som faktisk oppfyller opptakskravene til disse studiene, får tilbud om studieplass. Studier som medisin, jus, psykologi, veterinær, flere ingeniørstudier og odontologi har flere kvalifiserte søkere enn antall studieplasser. Søkerne må da konkurrere på grunnlag av karakterer fra videregående opplæring, noe som i praksis innebærer krav om gode karakterer. I 2019 ble det for opptak til medisin krevd cirka 68 poeng[^240] for å komme inn på studiet ved Universitetet i Oslo, for profesjonsstudiet i psykologi var det krav om cirka 66 poeng, og for opptak til studiet i rettsvitenskap var det for opptak i 2019 ved Universitetet i Oslo et krav om cirka 62 poeng. At det på en del studier er en begrensning i antall studieplasser skyldes at det ikke kan tilbys en uendelig mengde studieplasser innen et fag.[^241] Det er i utgangspunktet institusjonene selv som bestemmer dimensjoneringen av studieplassene. I noen grad skyldes dette også departementets overordnede styring. Enkelte studier, for eksempel medisin og jus (mastergrad i rettsvitenskap) tilbys bare ved enkelte universiteter. Det vises til punkt 8.6 og 8.10.2, hvor dimensjonering av studieplasser er nærmere omtalt.
+
+### Bør det generelle opptakskravet skjerpes?
+
+Utvalget har drøftet om det generelle opptakskravet bør skjerpes.
+
+På systemnivå viser frafalls- og gjennomføringsstatistikken at det er en sammenheng mellom differensierte opptakskrav og omfanget av frafall og gjennomføring. I arbeidsnotatet *Årsaker til frafall i høyere utdanning*[^242] fra Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) står det følgende på side 16:
+
+Både Hovdhaugen og Aamodt (2005) og Hovdhaugen (2009) viser at dropout i stor grad er relatert til studentens bakgrunn: gutter har større risiko for frafall enn jenter, eldre studenter slutter oftere i utdanning enn yngre, og de som kommer fra samme region som universitet ligger i har større risiko for å slutte. Det er ingen signifikant effekt av å ha innvandrerbakgrunn på risiko for å slutte helt, og heller ingen signifikante forskjeller mellom fagområder. Det som derimot har aller størst effekt er karakterer fra videregående skole og om begge foreldrene har høy utdanning, ved at høy sosial bakgrunn og gode karakterer minsker risikoen for frafall.
+
+Også nyere forskning viser til at karakterer fra videregående skole har innvirkning på frafall. NIFU viser til følgende på side 17 i notatet:
+
+\[G\]enerelt har de fleste profesjonsutdanningene lavere frafall enn generelle bachelorutdanninger. Derimot finner studien også at frafallet har økt kraftig de siste 10 årene, med 10 prosentpoeng. Studien bekrefter det som er funnet i mange andre studier: at menn har høyere frafall enn kvinner, og at studenter med høyere karaktersnitt har lavere risiko for frafall. Videre finner de at «et karaktersnitt på 4 eller mer betydelig reduserer tendensen for studiefrafall» (Nedregård & Abrahamsen 2018:8).
+
+Når det gjelder variasjon i opptakskravene, viser arbeidsnotatet på side 17 og 18 til en rapport fra 2013:
+
+I alle fagområdene der det er variasjon i opptakskarakterene (HF, SV, MN, sykepleie, førskolelærer, ingeniør og allmennlærer) er det imidlertid en klar lineær sammenheng mellom karakter og antall studiepoeng studenten klarer å ta. Studenter som har 50,0 eller høyere i opptakspoeng fra videregående tar 55 til 60 studiepoeng per år, mens studenter som har 34,9 poeng eller lavere kun tar mellom 30 og 40 studiepoeng per år (Hovdhaugen et al 2013:26f). Videre viser samme studie at det er en klar lineær sammenheng mellom karakterer og fullføring/frafall for studenter på HF, SV, MN, ingeniørutdanning og allmennlærerutdanning for studenter som har under 44,9 opptakspoeng, der sannsynligheten for å fullføre faller relativt bratt. Størst er forskjellen i MN-fag og SV-fag, der har bare 10 prosent av studenter med 34,9 opptakspoeng eller lavere har fullført utdanningen sin i løpet av fem år etter oppstart (to år utover normert tid), mens tilsvarende andel for de med 45 poeng eller mer er 60 prosent på SV og 75 prosent på MN. Til sammenligning er det forholdsvis moderat frafall etter karakter i både sykepleie og førskolelærer: her fullfører drøyt 70 prosent av studentene med de laveste karakterene (34,9 opptakspoeng eller lavere). Dermed ser vi at sammenhengen mellom karakterer og fullføring gjelder i noen fagområder, men ikke i alle (Hovdhaugen et al 2013:31f).
+
+NIFU viser også på side 21 og 22 til undersøkelser om spesielle opptakskrav og effekten av dem:
+
+With og Mastekaasa (2014) undersøker innføringen av spesifikke opptakskrav i allmennlærerutdanningen og viser med beregninger hvilken effekt ulike typer opptakskrav har på fullføringsandelen i allmennlærerutdanningen. Fullføringen er ikke veldig god til normert tid: av de som ikke hadde krav knyttet til spesifikke fag fra videregående har 20 prosent fullført til normert tid, mens tilsvarende tall blant de som innfri kravet om minst 35 karakterpoeng og minst karakter 3 i norsk og matematikk er drøyt 40 prosent og dersom det i tillegg kreves karakter 4 i stedet for 3 er fullføringen på 55 prosent til normert tid (With & Mastekaasa 2014:196). For alle grupper øker fullføringen dersom man gir dem mer tid, men forskjellene mellom gruppene opprettholdes etter 7 år har 75 prosent av gruppen som oppfyller de strengeste kravene fullført, mot 40 prosent av gruppen uten opptakskrav. With og Mastekaasa tolker dette som at «de strengere opptakskravene fra 2005 først og fremst førte til at man ikke lenger tok inn studenter som likevel ikke fullførte utdanningen, men at tiltaket hadde liten effekt på kvaliteten på lærer som faktisk endte opp med gjennomført utdanning» (With & Mastekaasa 2014:197). Dermed støtter denne studien opp om antakelsen at økte opptakskrav i en utdanning vil kunne bidra til å redusere frafallet. Utfordringen her er at noen fagområder vil slite med å fylle plassene med skjerpede opptakskrav, og det har for eksempel vist seg i lærerutdanning. En annen studie viser også at det var nedgang i søkningen, samtidig som studiestabiliteten blant lærerstudenter etter første studieår gikk opp i 2005-kullet, sammenlignet med 2003-kullet (Hovdhaugen et al 2013). En tidligere studie av allmennlærerutdanningen (Næss & Vibe 2006) viser at det er en klar økning i andel som følger normert studieprogresjon til andre studieår etter innføringen av Kvalitetsreformen blant læresteder som har opptakskrav, sammenlignet med læresteder som ikke hadde opptakskrav på allmennlærerutdanningen (dvs. der alle søkere fikk plass), og det er også en liten men signifikant nedgang i frafallsraten etter første studieår. Lærerstudenter ved studiene som har opptakskrav produserer videre flere studiepoeng enn lærerstudenter på studiesteder som ikke har spesifikke opptakskrav (Næss & Vibe 2006:49).
+
+Til slutt i oppsummeringen på side 30 og 31 viser NIFU igjen til forholdet mellom karakterer og frafall:
+
+Felles for mange av disse studiene er at de viser at sosial bakgrunn (i form av foreldres utdanningsnivå) og særlig tidligere karakter \[…\] har mye å si, i hvert fall for det å slutte helt i utdanning. Derimot er det flere studier som peker på at karakterer ikke har like mye å si for det å skifte studiested. Dermed er det ikke sikkert at strengere opptakskrav er svaret på alle spørsmål relatert til frafall og fullføring. I tillegg er det slik at mange studier i det masseutdanningssystemet som Norge har ikke har anledning til å sette særlig mye strengere opptakskrav enn de allerede har, dersom de skal klare å ta opp og utdanne så mange kandidater som målet fra Kunnskapsdepartementet tilsier at de skal. Dette vises blant annet i With og Mastekaasa (2014) som ser på hvilke konsekvenser de første strengere opptakskravene på lærerutdanningen hadde. Det finnes ikke noen oppfølgingsstudier som har sett nærmere på hvilke konsekvenser dagens opptakskrav har.
+
+En stor undersøkelse fra Danmarks Evalueringsinstitut i 2015 konkluderer slik om emnet:[^243]
+
+Undersøgelsen viser, at studerende med høje adgangsgivende karakterer gennemsnitligt set
+
+\(a\) har mindre sandsynlighed for at falde fra inden for det første år på studiet,
+
+\(b\) har større sandsynlighed for at klare sig godt nok til at blive optaget på en ph.d.-uddannelse, og
+
+\(c\) har mindre sandsynlighed for at ende i ledighed, når de er færdige med deres uddannelse.
+
+Utvalget mener at det er en sammenheng mellom karakterer fra videregående opplæring, differensierte opptakskrav og omfanget av frafall og gjennomføring i høyere utdanning. Frafallsanalysen Statistisk sentralbyrå (SSB) gjorde for Kunnskapsdepartementet, viste at gjennomføringen av bachelorstudier på normert tid er over dobbelt så høy blant dem som har 50 karakterpoeng eller flere, som blant dem som har 30 eller færre. Frafallet ved normert tid pluss to år er seks ganger så høyt i sistnevnte gruppe.[^244] Dette viser at det er en sammenheng mellom opptaksregler og frafall og gjennomstrømning ved universitetene og høyskolene. Utvalget mener derfor det er hensiktsmessig å se på om endrede opptakskrav kan gi mindre frafall og bedre gjennomstrømning.
+
+Utvalget viser også til at det som nevnt fremgår av arbeidsnotatet *Årsaker til frafall i høyere utdanning* at det for en rekke studier er en sammenheng mellom lave karakterer fra videregående opplæring og frafall («drop-out») fra studiet.
+
+Utvalget viser til at flere undersøkelser peker på at svake karakterer og langt opphold mellom videregående og høyere utdanning antas å påvirke gjennomføringsevnen, og at også manglende skrive- og leseferdigheter påvirker det samme.
+
+I 2015 publiserte NIFU en rapport om overgangen fra videregående opplæring til høyere utdanning.[^245] NIFU undersøkte om de studieforberedende utdanningsprogrammene i videregående opplæring faktisk forbereder elevene på overgangen til høyere utdanning. Metoden var gruppeintervjuer med elever og lærere i videregående opplæring og med studenter og faglig ansatte i høyere utdanning innenfor ulike fag og institusjoner. Alle intervjuene tok utgangspunkt i kompetansemål for norsk i videregående opplæring.
+
+Et av momentene mange universitets- og høyskolelærere fremhevet, var at nye studenter har sviktende ferdigheter i skriving, og NIFU mente at det var interessant «at studentenes skriveferdigheter tematiseres i så ulike utdanninger som jus, ingeniør/sivilingeniør, lektorutdanning og idrettsfag».[^246] Også flere av de intervjuede lærerne i videregående skole uttrykte bekymring for elevenes skriveferdigheter. Dette bekreftet til en viss grad også studentene og elevene, som fortalte at de hadde prioritert å skrive innenfor bestemte sjangre som de følte at de behersket, og at dette hadde gitt et svakt grunnlag for kravene som stilles i høyere utdanning.[^247] I den forbindelse bemerket NIFU følgende:
+
+\[Det er\] interessant å merke seg forutsetninger i Kunnskapsløftet om at skriveopplæring skal foregå i alle fag, og at dette budskapet i begrenset grad synes å være mottatt i grunnopplæringen.[^248]
+
+En annen bekymring universitets- og høyskolelærere hadde, var at de nye studentene hadde sviktende leseferdigheter. Dette bekreftet også flere lærere i videregående skole. Ifølge dem er det et økende problem at elevene, og ikke minst mange av guttene, har lite trening i å lese lange tekster. Universitets- og høyskolelærerne viser i tillegg til at mange studenter har svake ferdigheter i å trekke ut essensen av det de leser, og i å vurdere informasjon kritisk. NIFU mener at flere av svakhetene ved videregående opplæring slik de går frem av denne undersøkelsen, er i tråd med den forståelsen som Ludvigsenutvalget har:
+
+Det gjelder for eksempel stofftrengsel og behov for fordypning samt dypere forståelse fremfor kjennskap til et mangfold av temaer på en overfladisk måte.[^249]
+
+Utvalget ser at ved å innføre særlige minstekrav til for eksempel karakter så signaliserer man at et bestått fag fra videregående opplæring ikke er tilstrekkelig for å klare kravene som studentene møter i høyere utdanning. I dag er det tilstrekkelig å kun ha bestått fagene (karakteren 2) for å ha et gyldig vitnemål og oppnå generell studiekompetanse. En konsekvens av skjerpede opptakskrav kan bli at den videregående opplæringen må endre kravene til fagsammensetning eller til læringsutbytte. Det kan også føre til mindre interesse for fag som ikke teller med i opptaksgrunnlaget, og til en innsnevring av den brede fagsammensetningen i videregående opplæring. Nye opptakskrav, som et skjerpet krav til generell studiekompetanse, kan skape et større skille mellom store og mindre institusjoner i universitets- og høyskolesektoren, i byene og ute i distriktene. Det vil også komplisere studie- og karriereveiledningen. Det vil dessuten tvinge elevene til å velge retning på utdanningen tidligere, allerede i ungdomsskolen.
+
+Liedutvalget fikk i oppdrag å vurdere endringer i videregående opplæring. Bakgrunnen var at det ikke har skjedd dyptgripende endringer i videregående opplæring siden Reform 94, og at elevene i hovedsak møter samme tilbud og organisering i opplæringen som for 20 år siden. Fylkeskommunens ansvar for videregående opplæring og prinsippene for trepartssamarbeidet i fagopplæringen mellom nasjonale myndigheter, skoleeier (det vil si fylkeskommunen) og arbeidsliv har også stort sett vært uendret siden Reform 94. Liedutvalget leverte en delrapport i desember 2018[^250] og en hovedrapport i desember 2019.[^251] Et av spørsmålene som Liedutvalget stilte i sin første utredning, og som de forsøkte å besvare i sin endelige rapport, er om generell studiekompetanse er for generell. Dette spørsmålet er også relevant i en opptaksdiskusjon. Liedutvalget foreslår i sin hovedrapport at retten til videregående opplæring skal utvides fra en rett til tre års opplæring til en rett til fullføring med studie- eller yrkeskompetanse. Det vises til at mange elever starter i videregående opplæring med et svakt faglig grunnlag, og de står i fare for å ikke gjennomføre opplæringen. Det foreslås flere tiltak som skal hjelpe elevene til å mestre opplæringen slik at de blir kvalifisert for videre utdanning, arbeidslivet og aktiv samfunnsdeltakelse. Opplæringen skal tilrettelegges slik at elevene ikke lenger må gå i takt. Liedutvalget foreslår at omfang og innretting av fellesfagene endres og at de studieforberedende utdanningsprogrammene endres. Dette vil få konsekvenser for påbygging til generell studiekompetanse.
+
+Utvalget vil videre peke på at utfordringene når det gjelder gjennomføringen og frafallet i høyere utdanning i mange tilfeller henger sammen med den læringen elevene får i videregående skole. Disse problemene kan ikke løses ved å heve inntakskravet til høyere utdanning. Utvalget mener derfor at en endring av kunnskapsforvaltningen i grunnskole og videregående skole må skje i samarbeid med høyere utdanning, slik at dagens høye frafall ved universiteter og høyskoler ikke fortsetter.
+
+Det er ikke alle som vil, kan eller bør ta høyere utdanning. Det finnes gode og viktige alternativer til høyere utdanning. Studier ved universiteter og høyskoler er av en akademisk, teoretisk karakter. For dem som er mer praktisk enn teoretisk anlagt, vil utdanning ved for eksempel en fagskole, som legger mer vekt på praktisk erfaring og kompetanse, være et godt alternativ. Norge står midt oppi en viktig omstilling i norsk økonomi og næringsliv. Det er estimert at Norge vil trenge opp mot 100 000 flere fagarbeidere innen 2030. Regjeringen har uttalt at den ønsker å løfte fagskolene, og mener at satsingen vil føre til at mange studenter og bransjer får ny og spennende kunnskap. Utvalget presiserer at fagskoleutdanning skal gjøre folk kvalifisert for arbeidslivet. Hensikten er ikke primært å gjøre dem kvalifisert for høyere utdanning. Utvalget mener at fagskoleutdanning er en påbygging av videregående opplæring, ikke en alternativ vei inn i høyere utdanning. Å gjøre veien til høyere utdanning lettere for fagskolestudenter er med på å devaluere fagskoleutdanningen.
+
+Utvalget viser for øvrig til omtalen av NIFUs kartlegging ovenfor. Der går det frem at universiteter og høyskoler mener lese- og skriveferdighetene til nye studenter er så svake at det går utøver evnen til å tilegne seg læring. Man kan derfor spørre seg om bare bestått karakter i norskfaget er tilstrekkelig for å gjennomføre høyere utdanning. Hvis myndighetene av forskjellige grunner ikke ønsker å stille høyere norskkrav ved opptak til høyere utdanning, må de i alle fall ikke lempe på dette kravet. Arbeidet med å styrke lese- og skriveferdigheter må skje allerede i barnehage og grunnskole. Det er når karakterene kommer i ungdomsskole og videregående at det er tydelige forskjeller på jenter og gutters skrive- og leseferdigheter. Det er denne effekten som universiteter og høyskoler får se konsekvensene av både ved opptak og gjennomføring av studiene.[^252]
+
+I Meld. St. 9 (2016–2017) *Fagfolk for fremtiden – Fagskoleutdanning* ble det slått fast at søkere med fagskoleutdanning ikke trenger å oppfylle kravet i norsk. Opptaksforskriften § 2-4 første ledd ble etter dette endret slik at disse søkerne ikke lenger møter krav om norsk. «Søkjarar som har fullført 2-årig fagskoleutdanning (120 fagskolepoeng/studiepoeng frå fagskole) som er godkjend etter lov 20. juni 2003 nr. 56 om fagskoleutdanning eller lov 8. juni 2018 nr. 28, får generell studiekompetanse», jf. opptaksforskriften § 2-4 første ledd.
+
+I lys av funnene NIFU-rapporten viser til, mener utvalget det er betenkelig at de studentene som først oppnår generell studiekompetanse ved å studere to år ved en fagskole, og som ønsker å studere videre ved et universitet eller en høyskole, ikke møter de samme kravene til norskkunnskaper som de som får generell studiekompetanse fra videregående opplæring. Selv de som ikke hadde generell studiekompetanse fra videregående skole, men som har oppnådd generell studiekompetanse etter å ha bestått 60 studiepoeng fra et universitet eller en høyskole må oppfylle kravene til norsk. I henhold til tidligere forskrift om opptak til høyere utdanning fikk gruppen med bakgrunn fra fagskoleutdanning generell studiekompetanse under forutsetning av at de også oppfylte kravet om norsk (393 timer), jf. omtalen av dette opptaksgrunnlaget under punkt 17.2.3. Bestemmelsen i opptaksforskriften § 2-4 om opptak på grunnlag av fullført fagskoleutdanning kan få urimelige utslag, fordi norskfagets mange karakterer ikke kan vektes inn for denne gruppen i opptaket. Norskfaget teller mye for gjennomsnittskarakteren for elever med vitnemål fra norsk videregående opplæring. Bestemmelsen kan dessuten ha uheldige konsekvenser for denne gruppens evne til å gjennomføre utdanningen. Utvalget foreslår derfor at det presiseres i lovforslaget at også søkere som får opptak på bakgrunn av fagskoleutdanning må oppfylle kravet til norskkunnskaper som følger av kravet til generell studiekompetanse.
+
+Utvalget stiller videre spørsmål ved om bestemmelsen i opptaksforskriften § 2-4 om opptak på grunnlag av fullført fagskoleutdanning er heldig utformet. Bestemmelsen presiserer ikke at dette gjelder søkere som ikke hadde generell studiekompetanse, slik tilsvarende bestemmelse i § 2-3 gjør for dem som tar høyere utdanning og ikke i utgangspunktet har generell studiekompetanse. Dette betyr at saksbehandlere i opptaket må dobbeltbehandle slike søknader. Dette er uheldig og kan neppe ha vært Kunnskapsdepartementets intensjon når departementet endret opptaksforskriften.
+
+Selv om ikke høyere utdanning er for alle og mange faller fra underveis i studiet, mener utvalget at løsningen ikke nødvendigvis ligger i å gjøre porten inn til høyere utdanning smalere enn den er i dag. Ved å heve opptakskravene kan vi risikere å miste verdifulle søkere. Mange er unge når de velger hvilken utdanning de skal søke seg til. De fleste bruker tid på å modnes i studiet, og for noen er det riktig å skifte studium underveis. Opptaksreglene må etter utvalgets mening ta høyde for dette. Utvalget foreslår derfor å videreføre dagens opptakskrav om generell studiekompetanse. Utvalget foreslår også å videreføre dagens unntak fra kravet om generell studiekompetanse. Enkelte av bestemmelsene som i dag fremgår av opptaksforskriften foreslås nå lovfestet.
+
+### Spesielle opptakskrav
+
+Utvalget har merket seg en tydelig tendens til at enkelte fagmiljøer ønsker spesielle opptakskrav. Slike krav kan være at søkerne har tatt spesielle fag i videregående opplæring, eventuelt kombinert med karakterkrav, eller det kan være poeng- og karakterkrav i fagene som inngår i generell studiekompetanse. Ved det samordnede opptaket til studieåret 2018/2019 hadde 35 prosent av studiene spesielle opptakskrav utover generell studiekompetanse i form av krav til fagsammensetning og fordypning i fag og/eller minstekrav til karakter.
+
+Utvalget viser til at Meld. St. 16 (2016–2017) *Kultur for kvalitet i høyere utdanning* (Kvalitetsmeldingen) foreslo at universitetene og høyskolene selv burde kunne stille andre «utfyllende spesielle opptakskrav» til enkeltstudier, altså strengere krav enn det som følger av dagens regelverk. Bakgrunnen for forslaget var blant annet at mange studenter stryker i sentrale emner, særlig innen realfag og teknologistudier. Det er en oppfatning om at generell studiekompetanse ikke gir tilstrekkelig grunnlag for å gjennomføre enkelte studier. I Prop. 64 L (2017–2018) *Endringer i universitets- og høyskoleloven (NOKUTs oppgaver, eksamen og personvern mv.)* foreslo derfor Kunnskapsdepartementet en lovendring som åpnet for at institusjonene skulle ha mulighet til selv å stille spesielle og strengere krav for opptak til enkeltstudier.
+
+Forslaget ble ikke vedtatt i Stortinget. Flertallet i utdannings- og forskningskomiteen la vekt på at det ville bli mer krevende og kostbart å administrere det samordnede opptaket, at det ville bli vanskeligere for søkere å orientere seg om opptakskravene, og at det kunne oppstå A- og B-utdanninger innenfor enkelte utdanningstyper som tilbys ved ulike institusjoner, jf. Innst. 381 L (2017–2018)[^253].
+
+Fra studieåret 2018/2019 og i fem år fremover skal Norges teknisk-naturvitenskapelige universitet (NTNU), Universitetet i Bergen, Universitetet i Oslo (UiO) og Universitetet i Tromsø – Norges arktiske universitet teste ut om det å kreve matematikk R2 (naturfaglig matematikk på høyeste nivå i videregående opplæring) for flere studier innen realfag, natur- og miljøfag fører til andre resultater. Fra og med studieåret 2019/2020 er også Universitetet i Stavanger med i forsøksordningen. UiO tester dette på sitt informatikkstudium. Alle, med unntak av NTNU, tester det også på sin lektorutdanning i realfag. Bakgrunnen for at disse institusjonene søkte om å få teste ut krav om ekstra kunnskaper i matematikk, var et ønske om at studentene skulle ha bedre matematiske forkunnskaper, og at de skulle ha hatt matematikk alle årene i videregående opplæring. Slik skulle man få studenter som hadde bedre forutsetninger for å gjennomføre de aktuelle realfagsstudiene.
+
+Utvalget ser at det finnes argumenter mot spesielle opptakskrav. Flere spesielle opptakskrav kan bidra til å svekke kravet om generell studiekompetanse. Videregående opplæring har fremdeles preg av å være en allmenndannende utdanning som består av et vidt spekter av fag, og elevene må bestå alle fagene for å kunne søke om opptak til høyere utdanning.
+
+Når det gjelder spørsmålet om karakterer er det beste kriteriet for opptak til høyere utdanning, eller om man burde vurdere andre ordninger – som at opptaket også baseres på en nasjonal opptaksprøve, eller at det ikke er anledning til å ta opp igjen fag for å forbedre karaktersnittet –, mener utvalget at universitetene og høyskolene er de beste til å vurdere hvilket grunnlag som bør kreves for å kunne gjennomføre studier ved institusjonene. Det er også institusjonene som vet hva det betyr å være best mulig studieforberedt. Utvalget anbefaler derfor at forslag til eventuelle endringer i opptaksgrunnlaget, for eksempel en eventuell skjerping av karakterkravet ved opptak til enkelte utdanninger og en minimumsgrense for poeng ved opptak, bør være gjenstand for utredninger og analyser som kobler studentenes gjennomføring av studier sammen med resultatene deres fra videregående opplæring. Kontakten mellom videregående opplæring og høyere utdanning bør derfor også bli tettere. Utvalget ber departementet i samarbeid med utdanningsinstitusjonene å vurdere om generell studiekompetanse gjør en søker tilstrekkelig studieforberedt.
+
+*Utvalgsmedlemmet Søvig* mener at den kommende loven allerede nå bør inneholde regler som hindrer at mange unge bruker den første delen av sitt voksenliv til å ta om igjen fag fra videregående. Regelverket bør i større grad gi uttelling for akademisk utdanning fremfor gjentakelse av videregående. Dessuten bør man for enkelte utdanninger vurdere om de høye inntakskravene gir skjev rekruttering. Det er ikke gitt at de som lykkes desidert best i videregående, alltid er mest egnet til høyere utdanning.
+
+### Tilleggspoeng for språkfag fra videregående opplæring
+
+I dag får søkere tilleggspoeng for språk- og realfag de tar i videregående opplæring. Tilleggspoeng i språkfag får elevene når de tar fordypning i et tredjespråk, det vil si et annet språk enn norsk og engelsk. For realfag får søkere tilleggspoeng for å ta for eksempel fysikk, kjemi eller biologi. Som omtalt under gjeldende rett punkt 17.2.5.3.1 så kan elever få maksimalt fire tilleggspoeng for fag de tar i videregående opplæring.
+
+Utvalget er kjent med at enkelte fylkeskommuner opplever at regelen om språkpoeng fører til mange privatisteksamener i programfag i fremmedspråk. Privatistkontorene opplever at både nåværende og tidligere elever, samt voksne med og uten rett til videregående opplæring, melder seg opp som privatist i fremmedspråk på alle nivåer. Dette er utelukkende for å få flest mulig karakterer i tillegg til full uttelling for språkpoeng. Disse fagene kan ikke føres på vitnemålet, men tas med i poengberegningen av Samordna opptak når disse personene søker om opptak til høyere utdanning.
+
+Her følger et eksempel som viser hvordan søkere med et svakt karaktersnitt kan komme inn på konkurranseutsatte studier foran søkere med opprinnelig bedre snitt:
+
+En person har tatt studiekompetansefagene som voksen med voksenrett.[^254] Studiekompetansefagene er de seks fagene man må ha bestått for å få generell studiekompetanse,[^255] og de kan tas enten som en del av videregående skole eller i tillegg til praksis etter 23/5-regelen. Personen har fått 2,5 i snitt. For å forbedre snittet sitt, melder personen seg opp som privatist og avlegger eksamen i fremmedspråk (som programfag) da vedkommende snakker og skriver to språk, for eksempel arabisk og hebraisk. Personen avlegger så eksamen på nivå II og III i begge disse språkene. Til sammen blir dette åtte eksamener (fire skriftlige og fire muntlige). Siden dette er et språk som brukes i den regionen personen opprinnelig kom fra, er det ikke utenkelig at personen får karakteren 6 på disse åtte eksamenene. Hvis det legges til åtte seksere stiger karaktersnittet fra 2,5 til 4,25. I tillegg vil personen få 1,5 språkpoeng. Da får personen et snitt på 4,4 konkurransepoeng.
+
+Utvalget stiller spørsmål ved om dette systemet med tilleggspoeng for språk sikrer at søkere har de rette forutsetningene for å gjennomføre et studium hvor det er krav om over 4 i snitt for å komme inn. Personen har oppnådd dette snittet fordi vedkommende er blitt testet i sitt morsmål eller tilsvarende, og dette kan oppfattes som urimelig for søkere som har et karaktersnitt fra videregående opplæring på 4,3, og som blir forbigått ved opptak til et studium.
+
+Utvalget mener derfor at Kunnskapsdepartementet bør se nærmere på reglene om språkpoeng. Det er utvalgets oppfatning at dagens regler for tildeling av språkpoeng ikke er rettferdig overfor søkere som ikke har denne muligheten, og slik denne praksisen har utviklet seg umulig kan være i henhold til hensynet bak innføringen av disse språkpoengene. Et mulig alternativ som departementet kan vurdere er at det bare gis språkpoeng for programfag tatt på høyeste nivå (fremmedspråk nivå III), samtidig som det ikke gis uttelling for lavere nivå (både når det gjelder karakterer og i form av språkpoeng) hvis man allerede har bestått eksamen på et høyere nivå. Dette er i samsvar med gjeldende regelverk fra Utdanningsdirektoratet for føring av vitnemål for videregående opplæring. Ifølge dette regelverket er det bare karakter på øverste nivå som føres på vitnemålet.[^256]
+
+### Tilleggspoeng til det underrepresenterte kjønn og forholdet til EUs likestillingsdirektiv
+
+I Samordna opptaks sluttstatistikk fra 2017 fremgår det at kjønnsfordelingen ved opptak til studier ved universiteter og høyskoler har vært stabil de siste 10 årene. I 2017 var det 58,2 prosent kvinner som møtte til studiestart. Til sammenligning var det 58,5 prosent kvinner som søkte opptak til høyere studier. Kjønnsforskjellen i den totale studentmassen skyldes i hovedsak at flere kvinner enn menn søker om opptak. For studier med stor konkurranse om studieplassene er det høy grad av sammenheng mellom andel kvalifiserte søkere og andel tilbud fordelt på kjønn.
+
+I dag kan det underrepresenterte kjønn få inntil to tilleggspoeng ved opptak til studier hvor kjønnsfordelingen i studiet og yrket er særdeles skjev. Departementet har, som nevnt under gjeldende rett punkt 17.2.5.3.2, lagt til grunn en 80–20-fordeling som grense for hva som regnes som særdeles skjev kjønnsfordeling. Tilleggspoeng for det underrepresenterte kjønn innebærer at myndighetene bevisst velger å gi søkere av det ene kjønn et gode som det andre kjønn ikke får (positiv særbehandling).
+
+Grunnlovens likhets- og ikke-diskrimineringsprinsipp gjelder alle mennesker. Grunnloven § 98 første ledd fastslår at «alle er like for loven».
+
+I enkelte tilfeller kan det åpnes for positiv særbehandling. Dersom formålet med forskjellsbehandlingen er å fremme likestilling, er det likestillings- og diskrimineringsloven § 9 som gjelder. Bestemmelsen åpner for lovlig forskjellsbehandling av det ene kjønn når forskjellsbehandlingen har et saklig formål, er nødvendig for å oppnå lovens formål og tiltaket ikke er uforholdsmessig inngripende overfor den eller dem som forskjellsbehandles.
+
+Å gi tilleggspoeng til det ene kjønn ved opptak til høyere utdanning må regnes som en direkte forskjellsbehandling på grunn av kjønn. Slik forskjellsbehandling er i utgangspunktet forbudt, jf. likestillings- og diskrimineringsloven § 6. Loven åpner likevel for at direkte forskjellsbehandling kan tillates i visse sammenhenger. Ifølge likestillings- og diskrimineringsloven § 11, kan positiv særbehandling som har til formål å fremme likestilling og hindre diskriminering tillates hvis
+
+a\) særbehandlingen er egnet til å fremme lovens formål,
+
+b\) det er et rimelig forhold mellom formålet man ønsker å oppnå og hvor inngripende særbehandlingen er for den eller de som stilles dårligere og
+
+c\) særbehandlingen opphører når formålet med den er oppnådd.
+
+Positiv særbehandling omfatter tiltak som skal bidra til å hindre eller dempe strukturelle og institusjonaliserte skjevheter mellom kvinner og menn. Særbehandling er kun tillatt overfor grupper og individer som ellers ville hatt svakere muligheter innenfor det aktuelle samfunnsområdet. Positiv særbehandling må derfor være rettet mot det underrepresenterte kjønn.
+
+Jo mer inngripende tiltak det er snakk om, desto strengere skal vilkårene for særbehandling tolkes. Dette skyldes at positiv særbehandling av det ene kjønn kan være svært inngripende og oppleves urettferdig for personer som tilhører det kjønn som kommer dårligere ut som følge av tiltaket. Den strenge tolkningen av vilkårene for positiv særbehandling er blant annet en følge av at likestillings- og diskrimineringsloven må tolkes i samsvar med EUs likestillingsdirektiv (2006/54/EF). EU-domstolen og EFTA-domstolen har lagt seg på en restriktiv linje i denne type saker, jf. omtalen av dette nedenfor.
+
+Utvalget mener at det i visse tilfeller er hensiktsmessig og ønskelig å kunne særbehandle ett kjønn fremfor det andre for å oppnå større grad av likestilling mellom kjønnene på et overordnet nivå, og dermed jevne ut strukturelle forskjeller i samfunnet. Dette kan bidra til at det over tid oppstår ønskede endringer i samfunnsstrukturer og mindre diskriminering av individet. Men utvalget stiller spørsmål ved om en slik særbehandling i form av tilleggspoeng til det underrepresenterte kjønn er i overenstemmelse med likestillingsregelverket og EUs likestillingsdirektiv.
+
+#### EUs regelverk og rettspraksis – forskjellsbehandling av kjønn ved ansettelse
+
+Europaparlaments- og rådsdirektiv 2006/54/EF av 5. juli 2006 om gjennomføring av prinsippet om like muligheter for og likebehandling av menn og kvinner i forbindelse med arbeid og yrkesdeltakelse (likestillingsdirektivet) gjelder kjønnslikestilling. Likestillingsdirektivet er gjennomført i norsk rett gjennom likestillings- og diskrimineringsloven. Direktivet innebærer også en kodifisering av EU-domstolens rettspraksis. Dette fremgår av rådsdirektivets fortale punkt 1. Direktivet gjelder i utgangspunktet likestilling mellom menn og kvinner i arbeidsmarkedet, men legges også til grunn for likestilling generelt.
+
+Av rådsdirektivets fortale punkt 22 fremgår følgende om mulighetene for å særbehandle ett kjønn fremfor det andre (dansk versjon):
+
+I henhold til traktatens artikel 141, stk. 4, og for at sikre fuld ligestilling mellem mænd og kvinder i praksis på arbejdsmarkedet er princippet om ligebehandling ikke til hinder for, at medlemsstater opretholder eller vedtager foranstaltninger, der tager sigte på at indføre specifikke fordele, der har til formål at gøre det lettere for det underrepræsenterede køn at udøve en erhvervsaktivitet eller at forebygge eller opveje ulemper i den erhvervsmæssige karriere. I betragtning af den nuværende situation og under hensyntagen til erklæring nr. 28 i Amsterdam- traktaten bør medlemsstaterne i første række bestræbe sig på at forbedre kvindernes stilling på arbejdsmarkedet.
+
+EU-domstolen (tidligere EF-domstolen) har behandlet en rekke saker hvor det har vært spørsmål om lovligheten av positiv særbehandling til fordel for kvinner i henhold til det tidligere likebehandlingsdirektivet (rådsdirektiv 76/207/EØF). Av saker i EU-domstolen er blant annet sak C-450/93 (Kalanke)[^257], sak C-409/95 (Marschall)[^258], sak C-407/98 (Abrahamsson)[^259] og C-158/97 (Badeck)[^260] av interesse.
+
+Marschall-saken gjaldt ansettelse. En mannlig arbeidssøker ble forbigått av en kvinne på grunn av (tysk) nasjonal lovgivning som krevde at kvinnelige søkere skulle foretrekkes ved like kvalifikasjoner dersom kvinner var underrepresentert. Dersom det var individuelle forhold hos den mannlige arbeidssøkeren som veide tyngre, gjaldt ikke denne regelen. Domstolen slo fast at ordningen kunne tillattes under visse forutsetninger. Det var et krav at kvinner var underrepresentert, og at den kvinnelige og den mannlige søkeren hadde like gode kvalifikasjoner. Det ble også stilt et krav om at søkerne skulle gis en *objektiv og individuell vurdering*, og at det ikke skulle gis et ubetinget fortrinn til en kvinnelig søker.
+
+Kalanke-saken omhandlet fortrinnsrett til kvinner i forbindelse med ansettelse. I denne saken var det italieneren Guiseppe Tesauro som var generaladvokat[^261]. I sin innstilling[^262] drøftet Tesauro sakens rettslige sider med utgangspunkt i det daværende likebehandlingsdirektivet 76/207. I innstillingen ble de forskjellige typene positiv diskriminering gjennomgått, og selv om de var ulike, hadde alle det til felles at de formelt var å anse som brudd på det grunnleggende prinsippet om likhet for loven. Videre drøftet generaladvokaten hva som menes med direktivets formulering «like muligheter». Generaladvokaten hevdet tilsynelatende at de eneste formene for positiv særbehandling av kvinner som kan tillates, er de som er nødvendige for å fjerne hindringer som gjør at kvinner og menn ikke kan konkurrere på likt grunnlag. Det må kreves at det er virkemidler som tar sikte på at kjønnene starter med samme utgangspunkt i konkurransen, *ikke virkemidler som garanterer det ene kjønn et mer fordelaktig sluttresultat.*
+
+Tesauro konkluderte med å slå fast at etter hans syn tillater ikke direktivet den type positiv diskriminering av kvinner som den tyske lovgivningen hjemlet. Som begrunnelse viste han til at formålet med likebehandlingsdirektivet var å sikre begge kjønn like muligheter, ikke å garantere kvinner jobben i tilfeller der omstendighetene var like.
+
+Da EU-domstolen avsa sin dom et halvt års tid etter at generaladvokaten hadde avgitt sin innstilling, kom den til samme resultat. De sentrale delene av domstolens begrunnelse kommer frem i premissene 22–24, som lyder slik (i den danske versjonen):
+
+22 En national ordning, som giver kvinder en absolut og ubetinget fortrinsstilling ved udnævnelse eller forfremmelse, går videre end til at fremme lige muligheder og overskrider dermed grænserne for den i direktivets artikel 2, stk 4, fastsatte undtagelse.
+
+23 Dessuden erstatter en sådan ordning – for så vidt som den tilsigter at skabe lige repræsentation af kvinder i forhold til mænd i alle lønklasser og på alle kompetenceniveauer på et arbejdssted – den i artikel 2, stk 4, omhandlede målsætning om at fremme lige muligheder med det resultat, som kun virkeliggjørelsen af sådanne lige muligheder kan føre til.
+
+24 De forelagte spørsmål skal derfor besvares med, at direktivets artikel 2, stk 1 og 4, er til hinder for en national lovgivning, der som i denne sag – når ansøgerne af forskelligt køn, der er udvalgt med henblik på forfremmelse, er lige kvalificerede – automatisk giver kvindelige ansøgere en fortrinsstilling på områder, hvor kvinder er underrepræsenteret, idet der antages at foreligge underrepræsentation, når kvinder ikke udgør mindst halvdelen af de ansatte i de enkelte lønklasser i den pågældende personale-gruppe, og dette også gælder for de forskellige kompetenceniveauer i organisationsplanen.
+
+Etter dette konkluderte EU-domstolen med å slå fast at nasjonal lovgivning som automatisk gir kvinner fortrinnsrett i tilfeller der de er det underrepresenterte kjønn var i strid med EUs likebehandlingsdirektiv.
+
+Abrahamsson-saken gjaldt ansettelse av en professor ved et universitet i Sverige. Etter den svenske högskoleforordningen var det tidligere adgang til å foretrekke søkere av det underrepresenterte kjønn, selv om søkeren ikke var likt kvalifisert med søkere av det overrepresenterte kjønn. Domstolen la til grunn at dersom søkerne var like godt kvalifisert, skulle disse *vurderes objektivt og individuelt* for at ordningen skulle kunne anses å være forenlig med direktivet. Domstolen slo imidlertid fast at det ikke var i strid med direktivet
+
+\[A\]t en ansøger, der tilhører det underrepræsenterede køn, kan foretrækkes frem for en medansøger af det motsatte køn, når ansøgerne med hensyn til kvalifikationer kan anses for jævnbyrdige eller tilnærmelsesvis jævnbyrdige, forudsat at ansøgningerne vurderes objektivt under hensyntagen til alle ansøgeres særlige, personlige forhold.
+
+Det kan sluttes av dette at det ikke er adgang til å gi en ubetinget fortrinnsrett til søkere av det underrepresenterte kjønn, men at ved «like» kvalifikasjoner kan det, etter en individuell og objektiv vurdering, være tillatt å særbehandle det underrepresenterte kjønn.
+
+I Badeck-saken tok domstolen stilling blant annet til spørsmål om særbehandling av kvinner innen akademia. Domstolen kom til at likebehandlingsdirektivets artikkel 2 (1) og (4) ikke var til hinder for at kvinner ble gitt fortrinnsrett til stillinger innenfor offentlig forvaltning dersom en kvinnelig og mannlig søker var likt kvalifisert og kvinner var underrepresentert. Vilkåret var videre at det ikke var mer tungtveiende rettslige grunner for et annet resultat, og at søkerne ble bedømt objektivt ut fra deres særlige, personlige forhold.
+
+Domstolen tok deretter stilling til om det var i strid med direktivet å tildele minst halvparten av utdanningsplassene (praksisplasser) til kvinner i fag innenfor offentlig sektor der kvinner var underrepresentert. Kravet om at kvinnelige søkere var like godt kvalifisert som mannlige søkere, gjaldt da ikke. Domstolen vektla at andelen menn kunne økes dersom det ikke var tilstrekkelig med kvinnelige søkere. Ordningen innebar ikke at det ble innført en fast kvote. Domstolen uttalte følgende i premiss 52:
+
+Den i hovedsagen omhandlede bestemmelse må ses som udtryk for en indskrænkende fortolkning af begrebet lige muligheder for kvinder. Det er ikke tale om stillinger, som forbeholdes kvinder, men om uddannelsespladser, der skal give mulighed for at opnå de nødvendige kvalifikationer til senere at få adgang til kvalificeret arbejde i den offentlige forvaltning.
+
+Videre la domstolen vekt på at dette gjaldt utdanningsplasser (praksisplasser) som ikke ble tilbudt av staten alene, men som også ble tilbudt i privat sektor, og der var ikke menn utelukket. Ordningen var en del av en rekke tiltak som tok sikte på å fjerne årsakene til at kvinner hadde dårligere muligheter til arbeid. Denne ordningen anså domstolen for å være i tråd med direktivet siden det var mulig for menn å få slike utdanningsplasser (praksisplasser) innenfor privat sektor.
+
+Disse sakene ble også omtalt i Ot.prp. nr. 77 (2000–2001)[^263]. Blant annet skriver Barne- og familiedepartementet på side 60 følgende om hvordan dommene forstås:
+
+Både Kalankesaken, Marschallsaken og Badecksaken tar stilling til såkalt ‘moderat kvotering’, dvs. at kvinner bare går foran menn hvis de er like godt (eller tilnærmet like godt) kvalifisert. Europakommisjonen har utledet enkelte konklusjoner med utgangspunkt i de tre første dommene. Det framholdes for det første at tiltak som faller inn under positiv særbehandling skal anses som unntak fra likebehandlingsprinsippet. For det andre gjelder denne unntaksadgangen i artikkel 2 (4) bare tiltak som har til hensikt å eliminere eller redusere faktiske forskjeller mellom kjønnene. For det tredje konkluderes det med at automatisk fortrinnsrett til kvinner når det gjelder ansettelse eller forfremmelse på områder hvor de er underrepresentert ikke er tillatt. Dette må ses i sammenheng med at EF-domstolen har slått fast at positiv særbehandling skal være et middel for å oppnå like muligheter og ikke likt resultat. Til sist konkluderes med at fortrinnsrett kan tillates dersom den nasjonale regelen ikke gir automatisk fortrinnsrett og regelen garanterer like godt kvalifiserte mannlige søkere en objektiv vurdering av deres situasjon der en tar i betraktning alle kriterier som knytter seg spesifikt til hver enkelt kandidat uavhengig av kjønn.
+
+#### Svensk rettspraksis – forskjellsbehandling av kjønn ved opptak til høyere utdanning
+
+Særbehandling av ett kjønn fremfor et annet og særbehandling på bakgrunn av etnisitet ved opptak til enkelte studier har ved flere anledninger blitt klaget inn for svenske rettsinstanser på bakgrunn av påstått diskriminering. Den mest kjente saken omhandler særbehandling av ett kjønn ved opptak til veterinærstudiet og ble fremmet for Svea hovrätt.
+
+Tidligere var det i Sverige mulig å diskriminere direkte på grunn av kjønn ved opptak til høyere utdanning, jf. kapittel 7, § 12 i den tidligere Högskoleforordningen. Formålet med denne bestemmelsen var å sikre en bedre kjønnsfordeling i studiene. Bestemmelsen var i likhet med bestemmelsen i den norske opptaksforskriften, kjønnsnøytral. I Sverige ble den primært brukt for å særbehandle menn (og dermed diskriminere kvinner) ved opptak til veterinær-, odontologi-, medisin-, og psykologistudiet. Bestemmelsen ble avskaffet som følge av dommen i veterinærsaken.
+
+Saken for Svea hovrätt[^264], og før det Uppsala tingrett, gjaldt spørsmålet om hvorvidt kvinner hadde blitt diskriminert på grunn av kjønn ved opptak til veterinærstudiet ved Sveriges landbruksuniversitet. Kvinner og menn ble vektet ulikt i kvoten for dem som hadde folkehögskoleutdanning. Denne kvoten var i utgangspunktet liten i forhold til «ordinær»-kvoten. Særbehandlingen, som hadde til formål å øke antall menn på studiet, besto i at mennene ble bedre vektet i loddtrekningen, slik at de hadde større sjanse for å bli tildelt plass. I 2006 fikk menn alle de aktuelle studieplassene (tre i alt), og også året etter gikk alle plassene i denne kvoten til menn (fem i alt).
+
+Retten konkluderte med at det hadde skjedd en direkte diskriminering av kvinner som hadde søkt opptak på studiet, idet de som følge av særbehandlingen hadde mindre sjanse til å få studieplass enn det menn hadde. Retten uttalte at selv om hensynet til en bedre kjønnssammensetning i yrket kan legitimere en slik særbehandling, fant retten imidlertid at muligheten til å oppnå økt likestilling mellom kjønnene gjennom slik særbehandling var «högst begransad». Uttalelsene i denne dommen viser at det er veldig lite rom for direkte kjønnsdiskriminerende tiltak.
+
+#### Utvalgets vurdering av forskjellsbehandling av kjønn ved opptak til høyere utdanning
+
+Utvalget viser til at for at ett kjønn skal kunne særbehandles fremfor det andre må særbehandlingen være egnet til å fremme likestillings- og diskrimineringslovens formål. I dette ligger for det første at tiltaket må fremme likestilling og hindre diskriminering. For det andre ligger det i dette et krav om at tiltaket faktisk er egnet og fungerer i praksis.
+
+Positiv særbehandling skal veie opp for de ulempene enkelte har, som følge av ulike muligheter som skyldes historiske og kulturelle forhold (omtales som strukturelle forhold) og i visse tilfeller kan positiv særbehandling være nødvendig for å sikre reelt like muligheter og forhindre diskriminering. Det må altså foreligge barrierer som hindrer at personer som tilhører underrepresenterte grupper, får samme muligheter som andre. Selv om barrierer ofte gir utslag i underrepresentasjon, er ikke underrepresentasjon nødvendigvis alene nok til å legitimere særtiltak, dersom det ikke kan påvises at det foreligger barrierer eller ulemper knyttet til kjønn.
+
+Regelen om positiv særbehandling krever at det må være et rimelig forhold mellom det formålet man ønsker å oppnå og hvor inngripende forskjellsbehandlingen er, for den eller dem som stilles dårligere. I vurderingen av forholdsmessighet er det vesentlig å vurdere effekten av tiltaket opp mot hvor inngripende det er. Hvor strengt forholdsmessighetsvilkåret skal tolkes når det gjelder positiv særbehandling ved opptak til utdanning, er ikke helt klart. EU-domstolen har tatt stilling til lovligheten av positiv særbehandling i forbindelse med praksisplasser, men har foreløpig ikke vurdert lovligheten av tilleggspoeng ved opptak til studier.
+
+I og med at tiltaket må opphøre når formålet er nådd, er den klare hovedregelen at særbehandlingstiltak skal være midlertidige.
+
+Det rettslige spørsmålet ved forskjellsbehandling på grunn av kjønn ved opptak til høyere utdanning, er om det at det forhold at gutter har dårligere karakterer fra videregående (og ungdomsskolen) kan sies å være begrunnet i at gutter har fått færre muligheter enn jenter til å lykkes i skolen. For universiteter og høyskoler er spørsmålet om de skal rette opp den urett som gutter har vært utsatt for på lavere utdanningsnivåer. Utvalget viser til at EU-domstolens avgjørelser har trukket opp grensene for forholdsmessighetsvurderingen i saker om positiv særbehandling av kvinner ved ansettelser. Selv om disse dommene gjelder særbehandling i arbeidslivet, må de også få virkning for vurderingene vi gjør når det er snakk om opptak til studier ved universiteter og høyskoler. Utvalgsmedlem Stine Jørgensen påpeker i boken På vei – kjønn og rett i Norden i kapittelet «Køn og uddannelse» at prinsippet om ikke-diskriminering på basis av kjønn er et grunnleggende prinsipp i EU-retten.[^265] Videre skriver hun følgende:
+
+\[U\]anset at EU ikke har en selvstændig kompetence på uddannelsesområdet, følger det af fast praksis, at de enkelte landes nationale indretninger på uddannelsesområdet skal leve op til de unionsretlige krav.
+
+Det er også klart at denne særbehandlingen, i henhold til gjeldende likestillings- og diskrimineringslov, også må gjelde for menn. Formålet må være å fremme like muligheter, og ikke resultatlikhet. Særbehandling er ansett å være et unntak fra likebehandlingsprinsippet. Adgangen til å gi positiv særbehandling er derfor snever.
+
+På grunnlag av de omtalte dommene mener utvalget at det kan utledes at en regel om automatisk og ubetinget fortrinnsrett for det underrepresenterte kjønn er i strid med likestillingsdirektivet. Selv om avgjørelsene fra EU-domstolen gjelder ansettelser, mener utvalget at de rettslige prinsippene også er relevante når man skal vurdere lovligheten av å særbehandle det ene kjønn fremfor det andre ved opptak til høyere utdanning, slik at en automatisk særbehandling er i strid med EU-domstolens praksis. Det må stilles krav om at samtlige søkere skal gis en objektiv og individuell vurdering, slik at det er mulig for den best kvalifiserte søkeren å få studieplassen.
+
+Å ikke få en studieplass på grunn av kjønn vil være langt mer inngripende enn å ikke få en praksisplass, som var tema for Badeck-dommen. Det er nærliggende å sammenligne et avslag på studieplass på grunn av kjønn med et avslag på stilling på grunn av kjønn. Det kan til og med argumenteres for at det å bli forbigått av en dårligere kvalifisert søker ved opptak til utdanning er enda mer inngripende enn å bli forbigått av en dårligere kvalifisert kandidat til en utlyst stilling, ettersom det å bli utelukket fra en utdanningsretning vil innebære at man utelukkes fra en hel yrkesretning, ikke bare fra den enkelte stillingen. Svenske domstoler har lagt seg på en restriktiv linje og vist til at positiv særbehandling kun er tillatt ved likeverdige kvalifikasjoner.
+
+Likestillingsdirektivet er ikke til hinder for positiv diskriminering av ett kjønn over et annet. Derimot, hvor ett kjønn blir foretrukket på helt matematisk grunnlag, uten noen form for utøvelse av skjønn, mener utvalget dette strider mot direktivet. Utvalget legger til grunn at det er dette som gjøres når det underrepresenterte kjønn automatisk får tilleggspoeng ved opptak til enkelte studier.
+
+Utvalget stiller derfor spørsmål ved om tilleggspoeng til det underrepresenterte kjønn er i overenstemmelse med likestillingsregelverket og EUs likestillingsdirektiv. Utvalget mener at det å gi tilleggspoeng til det underrepresenterte kjønn trolig ikke tilfredsstiller forholdsmessighetskravet i loven, og det foretas heller ikke en individuell vurdering ved forskjellsbehandlingen.
+
+Utvalget mener det er betenkelig at det skal være anledning til å drive slik radikal særbehandling ved opptak til høyere utdanning når det ikke er anledning til å gjøre lignende tiltak i arbeidslivet. Selv om likestillings- og diskrimineringsloven er endret slik at både menn og kvinner kan særbehandles, er det ikke fritt frem hvis forskjellsbehandlingen ikke er forholdsmessig.
+
+Utvalget viser til at Stortinget i et anmodningsvedtak har bedt regjeringen legge til rette for særbehandling ved opptak hvor det er meget skjev fordeling av kjønn i utdanningen. Hvis særbehandling ved opptak er Stortingets intensjon, er det utvalgets oppfatning at en slik presisering også burde fremkomme av likestillings- og diskrimineringsloven. Utvalget registrerer at dette ikke ble gjort i forbindelse med at denne loven ble vedtatt i 2017.
+
+Utvalget mener at kjønnsubalansen i høyere utdanning, og i arbeidslivet, er et resultat av at gutter har dårligere karakterer fra ungdomsskolen og videregående skole. Karakternivået får direkte konsekvenser for de valgmuligheter de får til å søke seg inn på utdanninger. Det er sterk konkurranse om utdanningsplasser, og når jentene år etter år systematisk får bedre karakterer enn guttene, så vil det skape et kjønnsdelt arbeidsliv. Karakterene vitner om studentens kompetansenivå. Universiteter og høyskoler skal, når de gir undervisning, kunne forutsette at studentene har et tilfredsstillende kompetansenivå, slik at studentene klarer å henge med i undervisningen og fullføre studiene til normert tid.
+
+Det rettslige instrumentet som mest tydelig formulerer hindringene i veien for like læringsmuligheter uavhengig av kjønn, er FNs kvinnediskrimineringskonvensjon. I artikkel 5a pålegger konvensjonspartene å treffe alle tiltak som er nødvendig for å endre menns og kvinners adferdsmønstre, med sikte på å avskaffe fordommer og praksis som bygger på stereotype manns- og kvinneroller, eller på forestillingen om at et av kjønnene er det andre underlegent eller overlegent.[^266]
+
+Stereotype kjønnsrolleoppfatninger kan forklares som forutinntatte kjønnsrolleoppfatninger. Nyere forskning viser hvordan kjønnsrolleoppfatninger kan hemme like muligheter og få direkte konsekvenser for de mulighetene barn får til å lære. Alle barn har rett til like læringsmuligheter uavhengig av kjønn, jf. Grunnloven § 109, likestillingsloven, barnehageloven og opplæringsloven. Når statistikken er så klar på at gutter ikke lykkes like godt som jenter i skolen, så må det gjøres en innsats for å sikre at pedagogikken utformes på en slik måte at guttene får like læringsmuligheter som jentene. Dersom det aksepteres som en sannhet at gutter er mer umodne enn jenter og guttene derfor får leke for seg selv, mens jentene får førskoleaktiviteter i tillegg til frileken, så får jentene øve seg på læring litt mer enn guttene. Bevissthet om hvordan slike fordommer kan føre til ulike læringsmuligheter er en krevende øvelse for foreldre så vel som for lærere. Det betyr at likestillingsperspektivet må tas med i utformingen av de pedagogiske virkemidlene som benyttes i undervisningen.[^267] I NOU 2019: 19 *Jenterom, gutterom og mulighetsrom. Likestillingsutfordringer blant barn og unge* beskrives kjønnsstereotypiene i familien, barnehagen, grunnopplæringen og fritidsaktiviteter, og hvordan disse fører til kjønnsdelte utdanningsvalg. Tiltakene som anbefales i NOUen fremgår av del III og handler blant annet om kompetanseløft om likestilling i barnehage og skole, behov for kjønns- og likestillingsperspektiv i lærerutdanning og i læremidler med videre. Kjønnsforskjeller i skoleprestasjoner og utdanningsløp er også utredet i NOU 2019: 3 Nye sjanser, bedre læring – Kjønnsforskjeller i skoleprestasjoner og utdanningsløp.
+
+Utvalget mener det kan stilles spørsmål ved om opptaksforskriften § 7-9 er i samsvar med likestillings- og diskrimineringsloven og EUs likestillingsdirektiv 2006/54/EF. Dette skyldes for det første at utvalget er usikre på om tilleggspoeng basert på kjønn er et tiltak som faktisk er egnet til å fremme likestilling (vilkår 1), slik loven krever. Det kan også stilles spørsmål ved om tilleggspoeng for det underrepresenterte kjønn er i overenstemmelse med forholdsmessighetsvilkåret i likestillings- og diskrimineringsloven (vilkår 2). Å ikke komme inn på et studium til tross for at man er best kvalifisert, er inngripende.
+
+Hvis målet er å jevne ut den skjeve kjønnsbalansen i høyere utdanning, mener utvalget at det må iverksettes tiltak i tråd med anbefalingene i NOU 2019: 19 for å gjøre noe med utfordringene som ligger i utdanningsløpet på nivået under høyere utdanning. Myndighetene bør ta andre målrettede grep enn å tildele tilleggspoeng for å bekjempe skjevheten i kjønnsbalansen i utdanningen så vel som i samfunnet. Utvalget foreslår at muligheten for å gi tilleggspoeng basert på kjønn fjernes i opptaksforskriften.
+
+*Utvalgsmedlemmet Bergstrøm* ønsker å understreke hvor alvorlig det er hvis skjevheter i kjønnsfordelingen i høyere utdanning vedvarer. Tilleggspoeng til det underrepresenterte kjønn har til nå vært et mulig tiltak for å rette på en eventuell skjevhet, og dersom tiltaket forsvinner må det erstattes med et annet. Bergstrøm mener det er behov for en tolkning av EU-direktivet om likestilling og diskriminering i tilknytning til opptak til høyere utdanning, og mener tolkningen bør etterspørres fra EFTAs overvåkingsorgan, ESA. *Bergstrøm* foreslår at det skal settes i gang et arbeid hvor man ser på ulike modeller der opptakssystemet kan fungere som en sikkerhetsventil som sørger for at studieprogrammer ikke har en vedvarende skjev kjønnsfordeling. Tilleggspoeng til det underrepresenterte kjønn skal vurderes som ett av alternativene. For å forhindre eventuelle mistolkninger av regelverket ønsker *Bergstrøm* at dette arbeidet skal inkludere at modellene vurderes av ESA.
+
+### Utfordringer med dispensasjonsregelen og særskilt vurdering
+
+#### Dispensasjonsregelen – unntak fra generell studiekompetanse
+
+Utvalget viser til at det følger av universitets- og høyskoleloven § 3-6 tredje ledd at institusjonene i særskilte tilfeller kan gjøre unntak fra bestemmelsen om generell studiekompetanse for søkere under 25 år. Dette er nærmere regulert i opptaksforskriften § 3-2 om dispensasjon fra kravet om generell studiekompetanse. Temaet er omtalt under gjeldende rett punkt 17.2.3.3.
+
+En søker må oppfylle strenge vilkår for å få dispensasjon. Søkeren må dokumentere at det på bakgrunn av funksjonsnedsettelse, varig sykdom eller lignende har vært umulig å oppfylle enkelte av kravene for å oppnå generell studiekompetanse. Formålet med forskriftshjemmelen er å hindre åpenbar urimelig behandling av enkeltsøkere. Forslaget ble i sin tid fremmet med utgangspunkt i konkrete saker der søkere hevdet at de ikke hadde mulighet for å fullføre og bestå videregående opplæring (for eksempel på grunn av spesifikke lese-, skrive- eller matematikkvansker), eller at de ikke var i stand til å gjennomføre kravet om fem års arbeidserfaring eller annen skolegang. Gitt at visse krav er oppfylt, har utdanningsinstitusjoner myndighet til å innvilge dispensasjon fra de fastsatte kravene om generell studiekompetanse.
+
+Utvalget har mottatt innspill fra Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (Unit),[^268] og det viser til at bakgrunnen for den øvre aldersgrensen på 25 år var at eldre søkere kunne kvalifisere seg for opptak ved å søke om opptak på grunnlag av realkompetanse. Units oppfatning er imidlertid at dispensasjonsbestemmelsen og bestemmelsen om realkompetanse regulerer så ulike tilfeller, og har så ulike begrunnelser, at ikke begge kan eller bør fange opp de samme søkergruppene. Det er utvalget enig i.
+
+Etter utvalgets vurdering har ikke den øvre aldersgrensen en hensiktsmessig funksjon eller begrunnelse. Realkompetansevurdering har i utgangspunktet en nedre aldersgrense på 25 år for å forhindre at ungdom unnlater å fullføre videregående skole. Samtidig sikrer man at søkere som kan tas opp ut fra realkompetanse, har relevant erfaring fra yrkespraksis, omsorgsarbeid og lignende. Aldersgrensen for å søke om dispensasjon fra kravene om generell studiekompetanse ble satt fordi denne gruppen i teorien har mulighet til å søke på grunnlag av realkompetansevurdering etter fylte 25 år. Et slikt grunnlag for å søke vil i de aller fleste tilfeller være uaktuelt for denne gruppen.
+
+Siden det er ulike hensyn som begrunner disse to bestemmelsene, og ulike vurderinger som gjøres, mener utvalget det virker urimelig at søkere som kvalifiserer seg for dispensasjon, mister denne muligheten det året de fyller 25. Dispensasjonssøkerne må dokumentere varig sykdom, funksjonsnedsettelse eller lignende for å få innvilget dispensasjon. Bakgrunnen for at søkeren søker om dispensasjon, vil i de aller fleste tilfeller ikke bortfalle ved at søkeren fyller 25 år. Bestemmelsen om dispensasjon oppnår best formålet dersom lov eller forskrift ikke fastsetter noen øvre aldersgrense for denne søkergruppen. Utvalget foreslår derfor å fjerne kravet om at søkeren må være under 25 år for å kunne få unntak fra generell studiekompetanse, og dette foreslås lovfestet.
+
+#### Særskilt vurdering – på bakgrunn av generell studiekompetanse
+
+Særskilt vurdering er hjemlet i opptaksforskriften § 7-13. Det er en vurdering søkere med generell studiekompetanse kan be om å få. Hensikten med bestemmelsen i § 7-13 er å ivareta søkere som ikke har hatt mulighet til å vise sine egentlige ferdigheter i løpet av videregående opplæring, ved å gi dem en rett til særskilt vurdering. Bestemmelsen skal i utgangspunktet ivareta en sårbar gruppe, men utvalget har fått tilbakemelding fra Unit om at regelen er svært vanskelig å praktisere.
+
+Som omtalt under punktet om gjeldende rett, punkt 17.2.5.2, skal en søker få en slik vurdering hvis forhold som et annet morsmål enn norsk, sykdom i løpet av skoletiden eller funksjonsnedsettelse gir grunn til å tro at karakterene ikke gir et rett bilde av søkerens kvalifikasjoner.
+
+Det er lærere i videregående skole som vurderer elevenes kvalifikasjoner i fag, og som avgjør karakternivå. Slike vurderinger og retten til å klage på dem følger av opplæringsloven og medfølgende forskrifter. En særskilt vurdering foretatt av saksbehandlere i høyere utdanning som ikke kjenner eleven, overprøver dermed skolens faglige vurderinger. I dette ligger det en forutsetning om at lærerens vurderinger ikke har vært korrekte og ikke har tatt inn over seg elevens faktiske kunnskapsnivå.
+
+Elever i videregående opplæring har lovfestet rett på tilrettelegging dersom de har behov for det. God tilrettelegging i grunnskoleopplæring og videregående opplæring tilsier at behovet for særskilt vurdering ved opptak til høyere utdanning ikke burde være til stede. Opplæringsloven og medfølgende forskrifter slår også fast at lærere i videregående opplæring plikter å vurdere elevenes kompetansenivå, og at standpunktkarakterene skal bygge på en samlet vurdering av elevenes kompetanse i et fag.
+
+Unit har i sitt innspill vist til at de videregående skolene skal ivareta elever som har utfordringer i skolehverdagen, gjennom tilrettelegging. Søkere som ber om særskilt vurdering, må dokumentere at de ikke har fått den tilretteleggingen de burde ha fått i løpet av videregående opplæring. Unit skriver følgende:
+
+\[D\]et har vist seg at det er vanskelig for søkere å fremskaffe slik dokumentasjon, noe som fører til at det \[for\] disse søkerne fordrer tett oppfølgning i søkeprosessen. Saksbehandler må ofte etterlyse dokumentasjon fra søkeren, og søkeren sliter med å få korrekt dokumentasjon fra rette myndigheter, f.eks. hvilken oppfølging de har fått fra PPT. I tillegg er dokumentasjonen søkeren må fremskaffe ofte sensitiv etter personopplysningsloven og GDPR, noe som stiller svært strenge krav til håndteringen av dokumentasjonen. At opplysningene karakteriseres som sensitive vil også i de fleste tilfeller bety at det oppleves belastende for søkerne å måtte dele opplysningene med saksbehandlere.
+
+Utvalget viser til Units innspill og er enig i at det er den enkelte videregående skole som må ivareta elever som har utfordringer i skolehverdagen, gjennom tilrettelegging. Søkere som ber om særskilt vurdering ved opptak til høyere utdanning, må dokumentere at de ikke har fått den tilretteleggingen de burde ha fått i løpet av videregående opplæring. Dette betyr at den videregående skolen må utstede en bekreftelse på at eleven ikke har fått den tilretteleggingen vedkommende burde ha fått. Siden det i praksis vil være en bekreftelse på at skolen ikke oppfyller kravene i opplæringsloven, kan det hende at skolen ikke ønsker å utstede en slik bekreftelse. Og uten en slik bekreftelse vil ikke søkeren kunne bli særskilt vurdert.
+
+Særskilt vurdering er ikke en ordning for å vurdere en søkers potensial. Det som skal vurderes, er de faktiske kunnskapene søkeren hadde da vedkommende gikk på videregående skole. Det at søkeren kunne ha oppnådd bedre resultater dersom situasjonen hadde vært annerledes, gir ikke grunnlag for opptak etter særskilt vurdering. Dette er en vanskelig vurdering å gjøre for en saksbehandler i forbindelse med opptak til høyere utdanning. Utvalget mener det er søkerens lærer som har best forutsetninger for å vurdere hvilke kunnskaper vedkommende hadde som elev. At en saksbehandler ved et universitet eller en høyskoles opptakskontor skal tilsidesette en faglærers vurdering av en elev, er etter utvalgets oppfatning betenkelig.
+
+Unit har opplyst at særskilt vurdering er en ordning som i realiteten er aktuell for svært få søkere. I 2017 var det 1807 søkere som ba om å bli særskilt vurdert. Av disse var det bare 23 søkere som fikk opptak på et studium de ikke ville fått opptak til uten denne vurderingen.
+
+Utvalget mener at denne sårbare gruppen best ivaretas i den videregående skolen og av personer som står eleven nærmest, ved at skolen for eksempel gir individuell tilrettelegging der det er behov for det. Bestemmelsen om særskilt vurdering er også vanskelig å praktisere for saksbehandlere og lite forutsigbar for søkerne. Denne søkergruppen representerer også en uforholdsmessig stor andel av klagene i den nasjonale klagenemnda. Utvalget anbefaler ikke å videreføre bestemmelsen om særskilt vurdering i opptaksforskriften. Hvis en søker mener at tilretteleggingen ikke har vært i samsvar med gjeldende regelverk i opplæringsloven, kan søkeren klage over dette.
+
+### Lovbestemmelse som ikke foreslås videreført
+
+Som nevnt under gjeldende rett følger det av gjeldende universitets- og høyskolelov § 3-7 niende ledd at dersom en institusjon har rekruttert utenlandske studenter ved å benytte eksterne formidlingstjenester, har institusjonen blant annet ansvar for at studentene har fått tilfredsstillende informasjon om de studier vedkommende er opptatt til. Dette omfatter informasjon om studiets oppbygging, hvilken tid studiet er normert til og hvilke faglige krav som stilles. Det er utvalgets oppfatning at dette ikke bør reguleres i lov, men eventuelt forskriftsfestes hvis det anses nødvendig. Lovbestemmelsen er derfor ikke foreslått videreført.

@@ -1,867 +1,220 @@
-# NOU 2020: 3, del 28 av 42 (side 305–314)
+# NOU 2020: 3, del 28 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 305]
+# Akkreditering og tilsyn
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+\[:figur:fig29-1.jpg\]
 
-Institusjonene skal fastsette studieplan for de
-enkelte studiene, jf. universitets- og høyskoleloven § 3-3 tredje ledd. Styret kan delegere denne
-kompetansen, for eksempel til et sentralt utdanningsprogramutvalg, et studieplanutvalg for en
-bestemt utdanning eller en grunnenhet. Hvis et
-organ eller en person lavere ned i organisasjonen
-fastsetter studieplanen, gjør organet eller vedkommende dette på vegne av styret, og er underlagt
-styrets kontroll- og instruksjonsmyndighet.
-Universitets- og høyskoleloven § 3-3 fjerde
-ledd bestemmer at departementet kan trekke tilbake institusjonenes fullmakter til selv å akkreditere studietilbud hvis institusjonene ikke har et tilfredsstillende kvalitetsarbeid som sikrer og
-videreutvikler kvaliteten i utdanningen. Det kan
-eksempelvis være NOKUT som avdekker dette i
-forbindelse med tilsynet med institusjonenes kvalitetsarbeid. Bestemmelsen må sees i sammenheng med kravet til internt kvalitetssikringssystem i dagens lov § 1-6 og NOKUTs tilsynsrolle
-etter dagens lov § 2-1 andre ledd. Bestemmelsen
-er i det vesentlige en videreføring av tidligere
-bestemmelser i universitetsloven av 1995 og
-privathøyskoleloven.
+## Utvalgets forslag
 
-30.3 Utvalgets vurderinger
-Utvalget viser til at norske universiteter og høyskoler har høy grad av autonomi og relativt vid
-adgang til selv å akkreditere nye studietilbud
-innenfor de fullmaktene de har. Samtidig har de et
-stort ansvar for selv å sikre at utdanningskvaliteten er tilfredsstillende. Med fullmakten til å opprette egne studietilbud følger også en plikt for
-institusjonene til å føre intern kontroll med at alle
-eksisterende studier tilfredsstiller de nasjonale
-kravene som gjelder til enhver tid, jf. dagens universitets- og høyskolelov § 1-6, som utvalget foreslår videreføres som ny § 15 -2.
-Utvalget viser til at denne ordningen fungerer
-tilfredsstillende. Ordningen forutsetter etter utvalgets syn at det finnes effektive kontrollmekanismer, slik at studentene får et studietilbud som tilfredsstiller de kravene myndighetene har satt, og
-manglende oppfølging av regelverket avdekkes.
-Etter utvalgets vurdering er selvakkrediteringssystemet i dagens lov hensiktsmessig lagt opp,
-ved at det stilles krav til at institusjonene selv kontrollerer den faglige standarden i utdanningene,
-og at dette kombineres med NOKUTs rolle som
-tilsynsmyndighet. Systemet ivaretar både hensynet til at institusjonene får muligheter for faglig
-
-303
-
-Kapittel 30
-
-utvikling og ansvar, og hensynet til kvalitetssikring av utdanningene som tilbys. Det er utvalgets inntrykk at NOKUTs arbeid med tilsyn og
-kvalitetssikring ved institusjonene fungerer godt.
-Utvalget viser imidlertid til sine vurderinger om
-gradsforskriften i punkt 8.10.2.2. Et mindretall i
-utvalget mener at gradsforskriften ikke bygger
-opp under føringene om mer autonomi som ble
-lagt gjennom Kvalitetsreformen og oppfølgningen av denne. Mindretallet mener at det innenfor
-rammene av lover, budsjettrammer, øremerkede
-midler og forskrifter om blant annet kvalitetskrav,
-bør være opp til institusjonene selv å utvikle sine
-fagporteføljer uten begrensningene som følger av
-gradsforskriften. Utvalgets flertall mener at
-dagens gradsforskrift er en hensiktsmessig måte
-å regulere det nasjonale behovet for forskjellige
-utdanninger, regionale kompetansebehov, kostnader og konsekvenser for kvalitet.
-Utvalget foreslår at bestemmelsen om faglige
-fullmakter videreføres, men med enkelte språklige forbedringer. Utvalget foreslår at overskriften
-på bestemmelsen endres til «Adgang til å opprette
-egne studietilbud». Videre foreslår utvalget at ordlyden i tredje ledd endres fra «Styret fastsetter studieplan for det faglige innholdet i studiene, herunder bestemmelser om obligatorisk kurs, praksis og lignende og om vurderingsformer», til
-«Styret skal fastsette studieplan for det faglige
-innholdet i studiene. Planen skal inneholde
-bestemmelser om vurderingsformer, obligatorisk
-kurs, praksis og lignende». Endringene er ikke
-ment å endre gjeldende rett.
-Utvalget foreslår å ikke videreføre tredje ledd
-første punktum i dagens § 3-1, som også omhandler institusjonenes adgang til akkreditere nye studietilbud. Etter utvalgets mening er det forvirrende at adgangen til å opprette og akkreditere
-nye studietilbud er regulert i to bestemmelser,
-henholdsvis dagens § 3-1 tredje ledd og § 3-3.
-Utvalget foreslår å videreføre bestemmelsen i § 31 tredje ledd andre punktum, men flytte denne til
-bestemmelsen i den nye loven som omhandler
-adgangen til å opprette egne studietilbud.
-Endelig foreslår utvalget å samle de tre
-bestemmelsene som gjelder henholdsvis NOKUT
-sitt ansvar for akkreditering av studietilbud og
-institusjoner, adgang til å opprette egne studietilbud og krav til internt system for kvalitetssikring,
-i et nytt kapittel. Utvalget mener en slik systematikk gir en bedre oversikt og sammenheng enn
-dagens lov der disse bestemmelsene er spredt i
-loven.
-
-[Side 306]
-
-304
-
-Kapittel 31
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Kapittel 31
-
-Godkjenning av utdanning
-
-Figur 31.1
-
-31.1 Utvalgets forslag
 Utvalget foreslår følgende:
-• Forpliktelsen som følger av Lisboakonvensjonen, om at høyere utdanning fra en konvensjonspart skal godkjennes så sant det ikke kan
-påvises betydelige forskjeller mellom den utenlandske utdanningen det søkes godkjenning av
-og den utdanningen den sammenlignes med,
-foreslås lovfestet.
-Et flertall i utvalget foreslår følgende:
-• Bestemmelsen om begrenset vedtakskompetanse for NOKUTs klagenemnd ved klage over
-vedtak om generell godkjenning av høyere
-utenlandsk utdanning videreføres.
-Et mindretall i utvalget foreslår følgende:
-• Forvaltningslovens regler skal gjelde for klage
-over vedtak om generell godkjenning av
-høyere utenlandsk utdanning, slik at NOKUTs
-klagenemnd kan behandle alle sider av vedtaket.
-
-Norge (§ 3-4). Å bytte mellom programfag eller
-institutter innenfor samme utdanningsinstitusjon
-(intern mobilitet) omfattes ikke av disse bestemmelsene, ettersom institusjonene har faglig frihet
-til å bestemme innholdet i en grad eller et studieprogram. Regulering av intern mobilitet går derfor frem av institusjonenes egne forskrifter.
-Systemet for godkjenning av utdanning og
-kvalifikasjoner fra utlandet er i Norge organisert
-etter formålet med godkjenningen. Dersom formålet er godkjenning av høyere utdanning for det
-ikke-regulerte arbeidsmarkedet, er det NOKUT
-som vurderer utdanningen (generell godkjenning). Dersom formålet er godkjenning for å
-oppnå en norsk grad eller innpassing for videre
-studier i Norge, skal det universitetet eller den
-høyskolen man ønsker å studere ved behandle
-søknaden (faglig godkjenning). Dersom formålet
-er autorisasjon eller yrkesgodkjenning av den
-utenlandske yrkeskvalifikasjonen for å få adgang
-til å utøve et regulert yrke, er det den aktuelle
-yrkesgodkjenningsmyndigheten
-som
-skal
-behandle søknaden (yrkesgodkjenning). Disse
-sorterer under ulike fagdepartementer. For en
-kort omtale av yrkesgodkjenning, se boks 31.1.
-
-31.2 Innledning
-Bestemmelsene i dagens universitets- og høyskolelov § 3-4 og § 3-5 skal sikre at personer som
-gjennomfører utdanning ved ulike norske institusjoner og på tvers av landegrensene, kan få uttelling for den utdanningen de har tatt (ekstern
-mobilitet). Godkjenning av utdanning er aktuelt
-når man ønsker å studere videre ved et annet universitet eller en annen høyskole (§ 3-5), eller for
-eksempel ønsker å jobbe i et uregulert yrke i
-
-31.3 Generell godkjenning av høyere
-utdanning
-31.3.1 Gjeldende rett
-31.3.1.1 Godkjenning
-Enkeltpersoner som har høyere utdanning fra
-utlandet eller norsk utdanning fra en institusjon
-som ikke er regulert av universitets- og høyskole-
-
-[Side 307]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-loven, kan søke om generell godkjenning av
-utdanningen, jf. universitets- og høyskoleloven
-§ 3-4. En slik generell godkjenning gir potensielle
-arbeidsgivere informasjon om hvilket nivå den
-aktuelle utdanningen ligger på, og hvilket omfang
-den har. I gjeldende bestemmelsen kan man også
-få en generell godkjenning av ikke-akkreditert
-norsk utdanning. Denne bestemmelsen er ment
-for å ivareta hensynet til de som tar utdanning
-utenfor den tradisjonelle universitets- og høyskolesektoren. Flere av disse lærestedene er i de
-senere år blitt innlemmet i akkrediterte utdanningsinstitusjoner. Omtalen av generell godkjenning baserer seg derfor primært på godkjenning
-av høyere utdanning fra utlandet.
-Dagens lovbestemmelse sier eksplisitt at det
-bare er enkeltpersoner som kan søke om generell
-godkjenning. Dette medfører at en ikke-akkreditert institusjon ikke kan benytte seg av denne ordningen for å få et generelt «godkjenningsstempel»
-på utdanningstilbudet sitt.
-Nasjonalt kvalifikasjonsrammeverk for livslang
-læring (Kvalifikasjonsrammeverket) fastslår hva
-alle som har fullført en utdanning, skal ha lært.1
-Det gjør det ved å beskrive læringsutbyttet for de
-ulike nivåene innenfor høyere utdanning. Universitets- og høyskoleloven § 3-4 gir NOKUT myndighet til å treffe vedtak om generell godkjenning
-«slik at utdanningen i nivå og omfang godkjennes
-som likestilt med akkreditert norsk høyere utdanning». Dette betyr at NOKUT med utgangspunkt i
-kvalitetsrammeverket må vurdere om utdanningens nivå og omfang i sin helhet kan anses som
-jevnbyrdig med tilsvarende norsk utdanning. Vedtak om generell godkjenning er derfor ikke en
-spesifikk faglig godkjenning. Det er bare en generell vurdering av den utenlandske høyere utdanningen. Vedtak om generell godkjenning er hensiktsmessig for søkere som vil bruke godkjenningen mot det ikke-regulerte arbeidsmarkedet, det
-vil si yrker som ikke krever noen spesiell godkjenning. Eksempler på slike yrker er bibliotekar, økonom, journalist, hudpleier og maler.
-Generell godkjenning av utdanningen vil i
-utgangspunktet være basert på den dokumentasjonen søkeren legger frem. Det følger av kapittel
-6 i forskrift om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning
-(studiekvalitetsforskriften)2 hvordan NOKUT skal
-behandle søknader om godkjenning av høyere
-
-utenlandsk utdanning. I vurderingen legger
-NOKUT vekt på om dokumentasjonen er ekte, om
-den utenlandske utdanningsinstitusjonen er godkjent av en offentlig myndighet i det aktuelle landet (akkreditert), og om søkeren faktisk har gjennomført den utdanningen vedkommende har
-papirer på. En generell godkjenning sier imidlertid ikke noe om selve kvaliteten på utdanningen til
-den enkelte søkeren, eller om resultatene vedkommende har oppnådd i utdanningen sin.
-De sentrale bestemmelsene for vurdering av
-saker på dette området fremkommer av studiekvalitetsforskriften § 6-1 tredje og femte ledd, der
-det står:
-(3) Ved generell godkjenning av utenlandsk
-utdanning skal NOKUT påse at utdanningen
-det søkes godkjenning for har en godkjent akkreditering eller offentlig godkjenning som høyere utdanning. Det kan i særskilte tilfelle gjøres
-unntak fra bestemmelsen.
-(5) NOKUT skal følge opp at norske
-interesser og forpliktelser etter internasjonale
-avtaler om godkjenning og informasjon om
-høyere utdanning ivaretas.
-I enkelte tilfeller kan ikke søkeren dokumentere
-utdanningen sin, eller dokumentasjonen kan være
-ufullstendig. I andre tilfeller anses ikke dokumentasjonen som tilstrekkelig pålitelig. Dette vil for
-eksempel gjelde utdanningsdokumenter fra land
-hvor infrastrukturen på utdanningsområdet er
-dårlig eller har brutt sammen. I henhold til
-Lisboakonvensjonen3 har Norge forpliktet seg til å
-ha godkjenningsordninger som også tar høyde for
-at flyktninger som ikke har verifiserbar dokumentasjon på utdanning og kvalifikasjoner, skal få vurdert og godkjent sin medbrakte kompetanse. En
-nærmere omtale av Lisboakonvensjonen fremgår
-av punkt 31.4.1.4.
-I 2013 opprettet NOKUT på oppdrag fra Kunnskapsdepartementet den såkalte UVD-ordningen
-(uten verifiserbar dokumentasjon). Denne ordningen gjelder for de som har utenlandsk høyere
-utdanning, men som ikke kan få generell godkjenning av utdanningen sin på grunn av manglende,
-mangelfull eller ikke-verifiserbar dokumentasjon.
-2
-
-3
-1
-
-Kunnskapsdepartementet. Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR). Fastsatt 15. desember 2011.
-Hentet fra https://www.regjeringen.no/contentassets/
-e579f913fa1d45c2bf2219afc726670b/nkr.pdf.
-
-305
-
-Kapittel 31
-
-Forskrift 1. februar 2010 nr. 96 om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning
-(studiekvalitetsforskriften).
-UNESCO/Europarådet: Konvensjon om godkjenning av
-kvalifikasjoner vedrørende høyere utdanning i Europaregionen av 11. april 1997 (Lisboakonvensjonen). Hentet
-fra https://www.regjeringen.no/globalassets/upload/kd/
-vedlegg/uh/lisboakonvensjonen/f-4260_web.pdf.
-
-[Side 308]
-
-306
-
-Kapittel 31
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Boks 31.1 Godkjenning av yrkeskvalifikasjoner
-tjenesteytere og personer som ønsker å etablere
-Fri bevegelighet for arbeidstakere og tjenesteseg innenfor yrkesregulert virksomhet.
-ytere er et grunnleggende prinsipp i realiseringen av EUs indre marked. For å fjerne hindOrdningen med godkjenning av yrkeskvalifiringer for denne friheten, og dessuten øke den
-kasjoner (yrkesgodkjenning) innenfor EØSeuropeiske arbeidskraftens kunnskap og komområdet er forskjellig fra, og må holdes adskilt
-fra, ordningen for godkjenning av utenlandsk
-petanse på alle nivåer, vedtok EU i 2005 et regelutdanning. En generell og faglig godkjenning av
-verk om godkjenning av yrkeskvalifikasjoner,
-utenlandsk utdanning innebærer ikke rett til å
-direktiv 2005/36/EF. I EØS-avtalen er regelpraktisere i lovregulerte yrker. Et lovregulert
-verket hjemlet i artikkel 30. Yrkeskvalifikasjonsyrke innebærer at myndighetene gjennom lov
-loven gjennomfører direktiv 2005/36/EF om
-eller forskrift krever bestemte kvalifikasjoner
-godkjenning av yrkeskvalifikasjoner med senere
-for retten til å benytte yrkestittelen og/eller
-endringer, herunder direktiv 2013/55/EU
-utøve yrket.
-(yrkeskvalifikasjonsdirektivet) som endrer
-direktiv 2005/36/EF.
-Godkjenning av yrkeskvalifikasjoner (yrkesYrkeskvalifikasjonsdirektivet gjelder for
-godkjenning) er ikke videre behandlet i dette
-EØS-statsborgere som ønsker å praktisere et
-kapittelet da denne reguleringen ikke fremgår
-regulert yrke i en annen EØS-stat (vertsstaten)
-av universitets- og høyskoleloven men av yrkesenn den staten de har yrkeskvalifisert seg i
-kvalifikasjonsloven og yrkeskvalifikasjonsdirek(hjemstaten). Det gjelder for arbeidstakere,
-tivet.
-
-Ordningen er spesielt rettet mot flyktninger og
-personer i en flyktningelignende situasjon. UVDordningen er en skreddersydd, sakkyndig vurdering hvor søkerens kompetanse kartlegges gjennom tester, hjemmeoppgaver og faglige diskusjoner. Ordningen er bare aktuell for flyktninger som
-oppfyller visse krav. UVD-ordningen krever blant
-annet at søkeren har permanent oppholdstillatelse
-og oppgir å ha en fullført kvalifikasjon fra høyere
-utdanning. I tillegg må søkeren beherske norsk,
-svensk, dansk eller engelsk. Siden UVD-ordningen stiller så spesifikke krav til søkerne, er det
-mange flyktninger som ikke får mulighet til å få
-sin medbrakte utdanning godkjent før de har
-bodd i Norge i mange år.
-NOKUT tilbyr også to typer forhåndsvurderinger for henholdsvis arbeidsgivere og universitets- og høyskolesektoren, som ikke er å anse
-som godkjenning, og er således ikke juridisk bindende. Den første gir en vurdering av om utdanningen er godkjent i institusjonens hjemland,
-hvilken grad den utenlandske utdanningen tilsvarer i det norske utdanningssystemet, og hvilket
-fagområde utdanningen er tatt innenfor. Den
-andre forhåndsvurderingen gjelder ved opptak til
-doktorgradsutdanning (ph.d.-studier) og gir en
-kort vurdering av omfanget av og nivået på den
-utenlandske høyere utdanningen. Vurderingen
-er gratis, og NOKUT gjennomfører den innen
-
-fem virkedager. Dette er en rask og svært tilgjengelig vurderingsform som er ment som veiledende råd til arbeidsgivere, myndigheter eller
-institusjoner basert på en forenklet saksbehandling.
-NOKUT har også godkjenningsordninger for
-andre nivåer under høyere utdanning. For utenlandsk fagskoleutdanning foretar NOKUT en
-generell vurdering av utdanningens nivå og
-omfang. For utenlandsk utdanning innenfor fagog yrkesopplæring er det imidlertid eksterne fagkomiteer som gjør en faglig vurdering.
-
-31.3.1.2 Klage
-NOKUT er et forvaltningsorgan, men det følger
-av universitets- og høyskoleloven § 2-1 tredje ledd,
-jf. bestemmelsens første ledd, at i saker om generell godkjenning av utenlandsk utdanning, er
-NOKUT å anse som et faglig uavhengig forvaltningsorgan.
-I henhold til forvaltningsloven4 § 2 første ledd
-bokstav b er NOKUTs vedtak om generell godkjenning av utdanning et enkeltvedtak, siden det
-er bestemmende for personens rettigheter. Det
-betyr at vedkommende kan klage på vedtaket. Det
-4
-
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
-
-[Side 309]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-er bare personen vedtaket berører som kan
-påklage dette vedtaket, jf. studiekvalitetsforskriften § 1-9 bokstav b. Dette er en begrensning i
-klageadgangen, da forvaltningsloven åpner for at
-også andre med rettslig klageinteresse kan
-påklage et vedtak, jf. forvaltningsloven § 28.
-Kunnskapsdepartementet har oppnevnt en
-egen klagenemnd for enkeltvedtak fattet av
-NOKUT i slike saker, jf. universitets- og høyskoleloven § 5-1 syvende ledd og studiekvalitetsforskriften § 7-1. Nemnda består av seks medlemmer
-med personlige varamedlemmer. Lederen av
-nemnda og lederens varamedlem oppfyller de lovbestemte kravene til lagdommere. De resterende
-er representanter for universitets- og høyskolesektoren, inkludert to studentrepresentanter.
-Ifølge universitets- og høyskoleloven § 3-4
-siste setning kan ikke klageinstansen «overprøve
-NOKUTs vurdering av den avlagte utdanningens
-nivå og omfang», det vil si den skjønnsmessige
-vurderingen. Søkeren kan bare få omgjort et vedtak hvis klagenemnda finner at det er gjort saksbehandlingsfeil eller rettsanvendelsesfeil, at det
-har skjedd usaklig forskjellsbehandling, at vedtaket er grovt urimelig, eller at NOKUT har tatt
-utenforliggende hensyn i vurderingen. Begrensningen av klageinstansens vedtakskompetanse
-kom inn i loven i 2014.5
-
-31.3.2 Utvalgets vurderinger
-31.3.2.1 Godkjenning
-I dag følger det av universitets- og høyskoleloven
-§ 3-4 at NOKUT kan gi generell godkjenning av
-utdanning som er tatt ved en norsk institusjon
-som ikke er regulert av universitets- og høyskoleloven. Som vist til under gjeldende rett har denne
-formuleringen i lovbestemmelsen hatt til formål å
-ivareta interessen til personer som har tatt utdanning utenfor den tradisjonelle universitets- og høyskolesektoren.
-Utvalget har vært i kontakt med NOKUT som
-viser til at de ikke har avsagt vedtak om generell
-godkjenning av slik utdanning. De fleste henvendelser NOKUT har mottatt om dette har blitt formulert som ønske om bekreftelser på generell
-uttelling i grad basert på NKU-listen6. Mange av
-5
-6
-
-Prop. 59 L (2013–2014) Endringer i universitets- og høyskoleloven.
-Eldre utdanning uten formell akkreditering, etableringsgodkjenning eller eksamensrett kan godskrives når dette
-er anbefalt av tidligere Nasjonalt koordinerende utvalg for
-godkjenning av eksamener (NKU) eller av Universitets- og
-høgskolerådet.
-
-307
-
-Kapittel 31
-
-henvendelsene gjelder en avklaring om antall
-studiepoeng for innpass i en grad, og da dette er
-en faglig vurdering, er dette noe som universitetene og høyskolene gjør.
-Formuleringen i bestemmelsen kan vanskelig
-brukes på utdanninger tatt utenfor det akkrediterte regimet etter at NOKUT ble opprettet. Flere
-av disse lærestedene har nå også blitt en del av et
-akkreditert universitet eller høyskole. Dersom en
-utdanning fra en folkehøyskole eller fagskole skal
-vurderes for generell godkjenning, blir det et
-spørsmål om etter hvilke kriterier en slik vurdering skal gjøres. Utvalget er av den oppfatning at
-dette må være gjenstand for en faglig vurdering
-og det ligger utenfor NOKUTs kompetanseområde. Denne bestemmelsen oppfattes av utvalget som overflødig i og med at personen kan søke
-om å få utdanningen godkjent ved en utdanningsinstitusjon som er regulert av universitetsog høyskoleloven i henhold til gjeldende bestemmelse i § 3-5 andre ledd. Muligheten til å få utdanning tatt utenfor universitets- og høyskolesektoren godkjent er foreslått videreført i lovforslaget
-§ 9-4, se nærmere omtale av dette i punkt 31.4.1.3
-og under utvalgets vurderinger punkt 31.4.2.
-Som omtalt under gjeldende rett, gir NOKUT
-en generell godkjenning av den utenlandske høyere utdanningen etter å ha vurdert oppbygningen
-av og nivået på utdanningen i landet den er
-gjennomført i. Vurderingen av utenlandsk høyere
-utdanning bygger på NOKUTs kunnskap om
-andre lands utdanningssystemer og utenlandske
-læresteder og på GSU-listen.7 Ut fra vitnemål og
-karakterutskrifter vurderer NOKUT hva en utenlandsk høyere utdanning tilsvarer i Norge, blant
-annet om hele eller deler av utdanningen er likestilt med norsk høyere utdanning, og hvilket
-omfang utdanningen har. Dette blir angitt i
-studieår og studiepoeng. Med utgangspunkt i de
-nevnte prinsippene og praksis foretar NOKUT en
-vurdering i hvert enkelt tilfelle.
-Som nevnt under gjeldende rett er det to vilkår
-som må legges til grunn når legitimiteten av en
-utdanning og/eller kvalifikasjon vurderes. Det må
-være en internasjonalt anerkjent nasjonalstat og et
-internasjonalt anerkjent kvalitetssikringssystem.
-Begge disse vilkårene bygger på Lisboakonvensjonen. Som regel er det en nasjonalstat som har
-monopol på å definere sitt system for høyere
-utdanning med tilhørende kvalifikasjoner, og på å
-godkjenne et kvalitetssikringssystem. I utgangs7
-
-GSU-listen er en liste som viser hva som kreves for at personer med utenlandsk utdanning skal oppnå generell studiekompetanse.
-
-[Side 310]
-
-308
-
-Kapittel 31
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-punktet krever NOKUT at begge disse vilkårene
-må være oppfylt. Det fremgår av forarbeidene8 til
-dagens lovbestemmelse at NOKUT ikke fraviker
-premisset om et internasjonalt anerkjent system
-for kvalitetssikring, men at det hender de fraviker
-premisset om en internasjonalt anerkjent nasjonalstat.
-Utvalget viser til at personer med utenlandsk
-utdanning utgjør en stadig større del av den norske arbeidsstyrken. Mange av disse har behov for
-å få utdanningen sin godkjent for å få relevant
-arbeid i Norge. Selv om utvalget mener at reglene
-om godkjenning av utdanning i det store og hele
-fungerer etter hensikten, er det en utfordring at
-enkelte ikke får utdanningen sin godkjent. God og
-tilgjengelig informasjon om ordningene for godkjenning av utenlandsk utdanning er også avgjørende for at studentene kan orientere seg om
-mulighetene for godkjenning, og for at de skal
-finne frem til riktig godkjenningsaktør og -ordning. Utvalget har også et inntrykk av at det er
-mange studenter som tror at hvis de får støtte fra
-Lånekassen, vil det også gå greit å få denne utdanningen eller yrkeskvalifikasjonen godkjent i ettertid. Dette er ikke tilfellet, det er ingen automatikk
-mellom tildeling av studiestøtte og godkjenning av
-utdanning i etterkant. Utvalget oppfordrer her
-departementet til å se nærmere på studiestøtten
-ved utveksling i sammenheng med godkjenning
-av utdanning fra utlandet.
-Ved godkjenning av utenlandsk utdanning presiseres det blant annet i forslaget til lovbestemmelse at NOKUT skal legge Lisboakonvensjonen
-til grunn. Utvalget forutsetter at NOKUT informerer tydelig om regelverket på sine nettsider og i
-forbindelse med vedtaket om generell godkjenning. Dette bør også omfatte informasjon om hva
-potensielle søkere må gjøre hvis ikke utdanningen kan godkjennes på det nåværende tidspunkt.
-
-31.3.2.2 Klage
-Utvalget har diskutert om NOKUTs klagenemnd
-skal kunne prøve alle sider av vedtaket, slik det
-følger av forvaltningsloven § 34 andre ledd hvor
-det blant annet står at «klageinstansen [kan]
-prøve alle sider av saken og herunder ta hensyn til
-nye omstendigheter.» Utvalget har ikke blitt enige
-om hvorvidt dagens regler skal videreføres, eller
-om en skal gå tilbake til regelverket slik det var
-før 2014. Det foreligger derfor dissens.
-Utvalgets flertall, ved utvalgsleder Aune og
-medlemmene Bergstrøm, Bragdø-Ellenes, Dahl
-8
-
-Prop. 59 L (2013–2014) s. 12.
-
-Andersen, Jørgensen og Steinveg viser til at
-uttalelser fra Justis- og beredskapsdepartementets lovavdeling riktignok viser at de har en
-restriktiv praksis ved søknader om unntak i forskrift fra forvaltningsloven. Men samtidig har
-Lovavdelingen uttalt at hvis klageinstansen ikke
-har de samme faglige forutsetningene for å utøve
-skjønn som underinstansen, kan det tale for en
-begrensing av klageretten. Dette hensynet bør
-også legges til grunn når begrensningen følger av
-loven, slik tilfellet er for NOKUTs klagenemnd.
-Disse medlemmene mener at hvis både søkerne
-og deres fremtidige arbeidsgivere skal ha tillit til
-godkjenningssystemet, må de kunne stole på at
-vedtaket er fattet på et materielt riktig grunnlag. I
-tillegg viser disse medlemmene til at NOKUT er
-faglig uavhengig når det gjelder generell godkjenning av høyere utdanning, noe som også tilsier at
-klageadgangen innskrenkes.
-Disse medlemmene viser til departementets
-vurdering i Prop. 59 L (2013–2104). Den inneholder noen eksempler som understrekte nemndas manglende forståelse av regelverket. Derfor
-kom departementet frem til at klagenemnda ikke
-hadde tilstrekkelig sakkyndig kompetanse om
-andre lands utdanningssystemer, og de internasjonale prinsippene som ligger til grunn for den
-generelle godkjenningen av utdanningen, til å
-overprøve NOKUTs vurdering av den gjennomførte utdanningens nivå og omfang. Departementet fremmet derfor lovforslaget som ligger til
-grunn for gjeldende lovbestemmelse og som fikk
-støtte fra flertallet av høringsinstansene. Departementet mente at ulempen begrensningen i klageadgangen ville medføre for den enkelte søkeren,
-måtte veies opp mot ulempen det ville medføre
-hvis klagenemnda fattet vedtak som ga tredjepart
-en uriktig oppfatning av søkerens utdanning.
-Disse medlemmene støtter denne vurderingen.
-Disse medlemmene mener at hvis lovbestemmelsen skal endres på dette punktet, forutsetter
-det at NOKUTs klagenemnd nå har tilstrekkelig
-kompetanse til å foreta en fullstendig vurdering av
-vedtaket. Det foreligger ingen informasjon som
-tilsier at det er skjedd endringer i sammensetningen av nemnda siden denne begrensningen
-kom inn i loven i 2014. Disse medlemmene foreslår å videreføre dagens regler.
-Et mindretall i utvalget, utvalgsmedlemmene
-Hessen, Mælen, Riekeles og Søvig, viser til at hovedregelen i forvaltningsloven er at klageinstansen
-kan prøve alle sider av saken, jf. forvaltningsloven
-§ 34 andre ledd. Det er mulig å fastsette begrensninger i klageretten når tungtveiende grunner
-taler for det, jf. omtalen av dette ovenfor.
-
-[Side 311]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Disse medlemmene mener at det ikke er
-behov for å ha et unntak fra forvaltningslovens
-hovedmodell for klageregler. Det finnes ikke lignende unntak fra klagereglene for den faglige
-godkjenningen av utdanningen som universiteter
-eller høyskoler gjør etter dagens § 3-5.
-Disse medlemmene mener at NOKUTs
-klagenemnd har tilstrekkelig juridisk og faglig
-kompetanse til å kunne vurdere alle sider av vedtaket. Det betyr at de også kan vurdere NOKUTs
-skjønn når det gjelder nivået på og omfanget av
-den gjennomførte utdanningen. NOKUTs vedtak
-er også bare generell, og ikke en faglig godkjenning.
-Disse medlemmene har merket seg at begrunnelsen for at departementet begrenset klageinstansens myndighet ved en lovendring i 2014,
-var at klagenemnda i enkelte saker hadde utvist
-manglende forståelse for regelverket. Disse medlemmene mener det er mulig å unngå utfordringene ved den tidligere ordningen med bedre
-veiledning og klargjøring i lov og forskrift, eventuelt gjennom å endre sammensetningen av klagenemnda.
-Disse medlemmene mener det er naturlig og
-hensiktsmessig å gjeninnføre forvaltningslovens
-regler for klager på NOKUTs vedtak om generell
-godkjenning av høyere utenlandsk utdanning, slik
-at alle sider av saken kan prøves, jf. forvaltningsloven § 34.
-Utvalget viser til at det følger av studiekvalitetsforskriften § 1-9 bokstav b, at selv om forvaltningsloven gjelder ved behandling av NOKUTs
-saker så er det «bare den som et vedtak direkte
-gjelder for [som] kan klage over vedtak fattet av
-NOKUT». Denne begrensningen er et unntak fra
-det alminnelige utgangspunktet i forvaltningsloven, jf. § 28 om at både parter og «andre med
-rettslig klageinteresse» har anledning til å påklage
-et enkeltvedtak.
-Hvis et vedtak har betydning for noen på
-grunn av rettslig avhengighetsforhold til en part,
-har ofte vedkommende klagerett med hjemmel i
-forvaltningsloven. For eksempel kan et vedtak
-som går ut på at en eier plikter å fjerne ulovlig
-oppført bygning, påklages av en leietaker eller
-panthaver i bygningen. Det må vurderes i hver
-enkelt sak om andre har rettslig klageinteresse i
-det konkrete vedtaket.
-Et formål bak bestemmelsen i forvaltningsloven om også å gi andre som hadde rettslig
-klageinteresse klagerett, var å åpne for at interesseorganisasjoner og andre foreninger kunne
-klage der hvor saken berører interessene til en
-større del av medlemmene og ligger innenfor det
-
-309
-
-Kapittel 31
-
-området hvor foreningen etter sitt formål og sine
-oppgaver ellers har interesse, jf. tvisteloven9 § 1-4
-første ledd, som gir organisasjoner søksmålsrett i
-«forhold som det ligger innenfor organisasjonens
-formål og naturlige virkeområde å ivareta» hvis
-vilkårene i tvistemålsloven § 1-3 er oppfylt. For
-eksempel vil en yrkes- eller næringsorganisasjon
-ha klagerett etter § 28 i saker som i realiteten fastlegger eller regulerer adgangen til yrket, hvilke
-faglige kvalifikasjoner som kreves eller som
-direkte angår spørsmål av særlig betydning, se Rt.
-1952 s. 554.
-Utvalget mener at begrensning til kun å gi
-klagerett til enkeltpersonen vedtaket gjelder i
-dette tilfellet er en naturlig følge av sakens natur,
-og foreslår derfor å videreføre dagens bestemmelse, jf. § 9-1.
-
-31.4 Faglig godkjenning
-31.4.1 Gjeldende rett
-31.4.1.1 Innledning
-Med hjemmel i § 3-5 kan enkeltpersoner som har
-bestått emner, fag, eksamener eller prøver fra en
-annen utdanningsinstitusjon, eller som har tilegnet seg dokumentert kompetanse uavhengig
-av læringsarena (realkompetanse), søke om å få
-dette godkjent som del av en grad eller et studieprogram ved et universitet eller en høyskole. En
-kan også søke om en faglig jevngodhetsvurdering av den gjennomførte utdanningen med
-påfølgende rett til å bruke tittelen som er fastsatt
-for den utdanningen den er jevnført med. Avhengig av hvor en har oppnådd kompetansen, kan
-enkeltpersoner søke den nye institusjonen om
-enten å få den godskrevet etter § 3-5 første ledd,
-å få fritak etter § 3-5 andre ledd eller å få en faglig
-jevngodhetsvurdering etter § 3-5 tredje og fjerde
-ledd.
-Både godskriving og fritak innebærer at utdanningsinstitusjonen, ved å fatte et positivt vedtak,
-går god for at den aktuelle utdanningen eller
-kompetansen kan inngå som en del av en ny
-utdanning ved utdanningsinstitusjonen. Studenten
-slipper da å ta tilsvarende fag med samme
-læringsinnhold på nytt. For både godskriving og
-fritak vurderer utdanningsinstitusjonen søknadene opp mot fastsatt læringsutbytte og konkrete
-faglige krav i utdanningen.
-9
-
-Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile
-tvister (tvistemålsloven).
-
-[Side 312]
-
-310
-
-Kapittel 31
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Forskrift om godskriving og fritak av høyere
-utdanning10 utfyller lovens bestemmelse. I rundskrivet11 til forskriften er det redegjort nærmere
-for dette regelverket.
-Alle vedtak i saker om godskriving, fritak og
-faglig jevngodhet må regnes som enkeltvedtak da
-de er bestemmende for personens rettigheter. Det
-innebærer at utdanningsinstitusjonene plikter å
-realitetsbehandle alle søknader om godskriving,
-fritak eller jevngodhet, og at alle søknader skal
-behandles fullstendig, uavhengig av hvilken institusjon utdanningen er tatt ved. Den aktuelle institusjonen må begrunne et eventuelt avslag med en
-redegjørelse for hvilke faglige krav institusjonen
-mener ikke er oppfylt. Søkeren kan klage på vedtaket til institusjonens klagenemnd i henhold til
-reglene i forvaltningsloven. Det vil si at søkeren
-kan klage på alle sider av vedtaket, også den faglige og skjønnsmessige vurderingen som er foretatt.
-
-31.4.1.2 Godskriving av utdanning tatt ved en
-institusjon som er regulert av universitetsog høyskoleloven
-Formålet med bestemmelsen i universitets- og
-høyskoleloven § 3-5 første ledd er å sikre fleksible
-og gode overganger mellom institusjonene som
-universitets- og høyskoleloven gjelder for. Godskriving innebærer at studenten ikke må tilegne
-seg tilsvarende læringsinnhold på nytt, men at det
-som har blitt godskrevet, inngår som en del av en
-ny utdanning. Godskriving gir både studenten og
-institusjonen en fordel ved at utdanningen blir
-mer effektiv, fordi utdanning som alt er gjennomført, ikke må tas på nytt.
-Godskriving innebærer at beståtte emner, fag,
-eksamener eller prøver fra tilsvarende institusjoner skal ha lik uttelling. Det betyr at de skal få
-samme antall studiepoeng, så lenge utdanningen
-«oppfyller de faglige kravene til en bestemt eksamen, grad eller utdanning ved institusjonen», jf.
-universitets- og høyskoleloven § 3-5 første ledd.
-Normalt vil beskrivelser av læringsutbytte være
-fastsatt for hvert enkelt «emne». De faglige kravene går frem av institusjonens studieplaner, og
-godskrivingen innebærer vurdering av nivå og
-læringsutbytte.
-
-Bestemmelsen om godskriving gjelder bare
-for utdanning som er akkreditert etter universitets- og høyskoleloven. Høyere utdanning fra
-utlandet, utdanning tatt ved en institusjon som
-ikke er regulert av universitets- og høyskoleloven,
-eller kompetanse tilegnet uavhengig av læringsarena, faller utenfor første ledd. Dette omtales
-nærmere nedenfor.
-
-31.4.1.3 Fritak for dokumentert realkompetanse
-og utdanning tatt ved en institusjon som
-ikke er regulert av universitets- og
-høyskoleloven
-Etter universitets- og høyskoleloven § 3-5 andre
-ledd kan universiteter og høyskoler gi fritak for
-deler av utdanning på grunnlag av annen «velegnet eksamen eller prøve», det vil si dokumentert relevant utdanning eller kompetanse. Dette
-omfatter utdanning som ikke oppfyller vilkårene
-for godskriving etter universitets- og høyskoleloven § 3-5 første ledd. Eksempler på utdanning
-man kan få fritak for er for eksempel høyere
-utdanning fra utlandet, folkehøyskole og fagskoleutdanning.
-I tillegg kan man få fritak for dokumenterbar
-kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring (realkompetanse12). Denne bestemmelsen ble innført ved en
-lovendring som trådte i kraft 1. januar 2001, jf.
-Ot.prp. nr. 58 (1999–2000). Dette var ledd i oppfølgingen av Kompetansereformen på 1990-tallet,
-jf. St.meld. nr. 42 (1997–98) Kompetansereformen
-og Innst. S. nr. 78 (1998–99) om samme reform,
-der Stortinget konkluderte med at realkompetanse skulle kunne gi avkortning i utdanning. EUs
-rådsrekommandasjon om godkjenning av realkompetanse13 er også innlemmet i EØS-avtalen.
-Gjennom rekommandasjonen har landene forpliktet seg til at hele eller deler av utdanninger skal
-kunne godkjennes på grunnlag av realkompetanse.
-I motsetning til godskriving etter universitetsog høyskoleloven § 3-5 første ledd er fritaksbestemmelsen i universitets- og høyskoleloven § 3-5
-andre ledd en «kan-bestemmelse» som ikke gir
-institusjonen plikt til å gi fritak. I behandlingen av
-søknader om fritak vurderer den aktuelle institu12
-
-10
-
-Forskrift 21. desember 2018 nr. 2221 om godskriving og fritak av høyere utdanning (godskrivingsforskriften).
-11
-Kunnskapsdepartementet. Rundskriv F-04-18: Forskrift om
-godskriving og fritak av høyere utdanning – merknader til
-bestemmelsene.
-
-13
-
-Kompetanse Norge. Realkompetansevurdering https://
-www.kompetansenorge.no/realkompetanse/realkompetansevurdering hentet 16.1.2020.
-Rådet for den europeiske union. Council Recommendation
-of 20 December 2012 on the validation of non-formal and
-informal learning (2012/C 398/01).
-
-[Side 313]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-sjonen en persons dokumenterte kompetanse opp
-mot gitte kriterier, blant annet de fastsatte beskrivelsene av læringsutbytte i et studieprogram, fag
-eller emne. For at institusjonen skal kunne innvilge en søknad, må de vurdere søkerens realkompetanse, eller utdanning, som likeverdig med
-læringsutbyttet som er fastsatt for studiet, faget
-eller emnet som vedkommende søker om fritak
-fra. For fritak for utenlandsk høyere utdanning vil
-også ofte Lisboakonvensjonen gjelde, se omtale i
-punkt 31.4.1.4. Avgjørelsen om å gi fritak avhenger av institusjonens faglige vurdering.
-Et innvilget fritak betyr at institusjonen som
-gir fritaket, går god for at søkeren har kompetanse likeverdig med det som forventes av en
-ordinær student som har gjennomført og bestått
-det samme emnet ved institusjonen. Fritaket innebærer «avkorting» av utdanningen, det vil si at
-studenten ikke trenger å delta i studieopplegget
-fritaket gjelder for, eller erstatte det med et annet
-emne.
-Universitets- og høyskoleloven § 3-5 tredje
-ledd gir akkrediterte universiteter og høyskoler
-myndighet til selv å avgjøre søknader fra enkeltpersoner om annen høyere utdanning er faglig
-jevngod med utdanning som den enkelte institusjonen tilbyr. Det betyr at institusjoner som ikke
-har institusjonsakkreditering (bare tilbyr akkrediterte studier), ikke kan foreta en slik vurdering.
-Dette er en forskjell fra bestemmelsens første og
-andre ledd, som ikke inneholder en tilsvarende
-begrensning.
-I «faglig jevngod» ligger det et krav om at
-utdanningen må oppfylle institusjonens spesifikke
-krav til bredde og dybde i den graden utdanningen søkeren ønsker jevnføring med. Godkjenning
-etter denne bestemmelsen gir søkeren rett til å
-bruke tittelen som er fastsatt for den utdanningen
-den er jevnført med. Bestemmelsen må ses i sammenheng med fjerde ledd som sier at «godkjenning etter tredje ledd» også kan gis på grunnlag
-av realkompetanse, «på grunnlag av kunnskaper
-som er dokumentert på annen måte enn ved eksamen».
-Universitets- og høyskoleloven § 3-5 tredje og
-fjerde ledd gir ikke søkeren krav på å få godkjent
-den kompetansen vedkommende søker om å få
-vurdert. Bestemmelsen er, i likhet med andre
-ledd, en «kan-bestemmelse». Den gir derfor institusjonene myndighet til å foreta vurderingen og til
-å avslå eller innvilge søknaden. I motsetning til
-bestemmelsene i første og andre ledd, retter
-bestemmelsen seg mot en fullført utdanning, og
-ikke mot enkeltfag. Den gir for eksempel en person som har studert økonomi i utlandet, mulighet
-
-311
-
-Kapittel 31
-
-til å få en jevngodhetsvurdering. Hvis utdanningen blir vurdert som faglig jevngod, vil vedkommende få godkjent utdanningen og kan bruke tittelen siviløkonom, som i utgangspunktet er en
-beskyttet tittel, jf. gradsforskriften14 § 53.
-
-31.4.1.4 Forholdet til Lisboakonvensjonen
-Det grunnleggende prinsippet i Lisboakonvensjonen er at godkjennende myndigheter i et land skal
-godkjenne kvalifikasjoner fra en annen konvensjonspart som likeverdig med egen utdanning,
-med mindre de kan vise til betydelige forskjeller
-mellom utdanningene, jf. konvensjonens artikkel
-V.I.
-Hver konvensjonspart skal godkjenne studieperioder fullført innenfor rammen av et program for høyere utdanning hos en annen konvensjonspart. Denne godkjenningen skal
-omfatte slike studieperioder som ledd i fullføringen av et program for høyere utdanning
-hos konvensjonsparten der det søkes om godkjenning, med mindre det kan påvises betydelige forskjeller mellom de studieperioder som
-er fullført hos en annen konvensjonspart, og
-den delen av programmet for høyere utdanning
-som de ville erstatte hos konvensjonsparten
-der det søkes om godkjenning.
-Dette gjelder utdanning som gir grunnlag for opptak til høyere utdanning, godkjenning av studieperioder og godkjenning av hele utdanninger, altså
-både faglig og generell godkjenning. Godkjenning
-av en avsluttet utdanning fra en annen konvensjonspart skal også gi adgang til videre studier på
-like vilkår med landets egne kandidater. En godkjenning innebærer også rett til bruk av akademisk tittel i samsvar med lover og forskrifter som
-gjelder i landet utdanningen er blitt godkjent i.
-Det følger av punkt 37 i Lisboakonvensjonens
-reviderte anbefaling om prosedyrer og kriterier
-for vurdering av utenlandske kvalifikasjoner og
-studieopphold at: Utenlandske kvalifikasjoner skal
-godkjennes hvis det ikke kan påvises en vesentlig
-forskjell mellom kvalifikasjonen det søkes om
-godkjenning for og den relevante kvalifikasjonen i
-staten der det søkes om godkjenning. Når dette
-prinsippet anvendes under vurderingen, må man
-prøve å fastslå om:
-14
-
-Forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler (forskrift om grader og beskyttede
-titler).
-
-[Side 314]
-
-312
-
-NOU 2020: 3
-
-Kapittel 31
-
-Ny lov om universiteter og høyskoler
-
-(a) forskjellen i læringsutbytte mellom den
-utenlandske kvalifikasjonen og den relevante
-kvalifikasjonen i landet der det søkes om godkjenning, er så vesentlig at den utenlandske
-ikke kan godkjennes slik søkeren ønsker. Dersom det er slik må vurderingen slå fast om det
-kan gis alternativ-, delvis- og/eller godkjenning
-med visse forbehold;
-(b) forskjellene i adgang til videre aktiviteter (for eksempel videre studier, forskningsaktivitet og lønnet arbeid) mellom den utenlandske kvalifikasjonen og den aktuelle kvalifikasjonen i landet der det søkes om godkjenning, er
-så vesentlig at den utenlandske kvalifikasjonen
-ikke kan godkjennes slik søkeren ber om. Dersom det er slik, må vurderingen slå fast om det
-kan gis en alternativ, delvis og/eller godkjenning med visse forbehold;
-(c) forskjellene i nøkkelelementene av programmet/programmene som fører fram til den
-aktuelle kvalifikasjonen i landet der det søkes
-om godkjenning er så vesentlig at den utenlandske kvalifikasjonen ikke kan godkjennes
-slik søkeren ber om. Dersom det er slik, må
-vurderingen slå fast om det kan gis en alternativ, delvis og/eller godkjenning med visse forbehold. Sammenlignbarheten av programelementene må imidlertid bare analyseres for å
-sammenligne utbytte og adgang til videre aktiviteter og ikke i seg selv som en nødvendig forutsetning for godkjenningen;
-(d) godkjenningsmyndighetene kan dokumentere at forskjellen mellom kvaliteten av
-programmet og/eller institusjonen som
-utstedte kvalifikasjonen, og kvaliteten av programmene og/eller institusjonene som utsteder kvalifikasjoner tilsvarende de kvalifikasjonene søkeren ønsker godkjenning for, er så
-vesentlig at den utenlandske kvalifikasjonen
-ikke kan godkjennes slik søkeren ber om. Dersom det er slik, må vurderingen slå fast om det
-kan gis en alternativ, delvis og/eller godkjenning med visse forbehold.
-Siden Norge har ratifisert konvensjonen, er vi forpliktet til å legge konvensjonens prinsipper til
-grunn ved vurdering av høyere utenlandsk utdanning som er tatt i en annen konvensjonsstat. Til
-orientering har ikke USA ratifisert konvensjonen,
-og den er derfor ikke juridisk forpliktende for
-USA. Dette får konsekvenser for søkere med
-utdanning derfra.
-Selv om departementet tidligere har bedt
-utdanningsinstitusjonene om å legge prinsippene i
-Lisboakonvensjonen til grunn også når de vurde-
-
-rer utdanning tatt i et land som ikke har tiltrådt
-konvensjonen, er ikke utdanningsinstitusjonene
-forpliktet til dette.
-I EU jobbes det for tiden med å få på plass en
-ordning om gjensidig automatisk godkjenning av
-utdanning tatt innenfor EØS. I tillegg til dette ble
-UNESCOs globale konvensjon for godkjenning av
-kvalifikasjoner i høyere utdanning vedtatt og signert av Norge 14. november 2019. Konvensjonen
-er ment å bygge bro mellom UNESCOs ulike
-regionale godkjenningskonvensjoner, blant annet
-Lisboakonvensjonen. UNESCO formulerte allerede i 1948 sin ambisjon om en global konvensjon
-for godkjenning av høyere utdanning. På UNESCOs generalforsamling 9. november 2013 ble det
-vedtatt at UNESCO skulle arbeide for å utvikle en
-global konvensjon for godkjenning av kvalifikasjoner i høyere utdanning. Et utkast til konvensjon
-var gjenstand for mellomstatlige forhandlinger i
-2018 og 2019. Norge har vært en aktiv bidragsyter
-i utviklingen av konvensjonen, både økonomisk
-og faglig. NOKUT deltok i ekspertgruppen som
-utviklet konvensjonsutkastet, og Norge ved Kunnskapsdepartementet ble valgt til å lede de mellomstatlige forhandlingene.
-
-31.4.2 Utvalgets vurderinger
-Begrepene «godskriving», «fritak» og «godkjenning» blandes ofte sammen, noe som bidrar til å
-komplisere bestemmelsene. Utvalget ønsker derfor å endre begrepsbruken ved å foreslå et felles
-begrep: «godkjenning». Dette er også i overensstemmelse med den ensartede begrepsbruken i
-Lisboakonvensjonen, hvor «recognition» brukes
-som en overordnet betegnelse på alt som gjelder
-både generell godkjenning og faglig godkjenning.
-På norsk skulle det tilsvare «godkjenning», som er
-en mer naturlig betegnelse både for søkerne og
-for de som jobber innenfor fagfeltet. Endringen av
-begrepene innebærer i seg selv ingen endring av
-dagens regler.
-Utvalget viser til at hensikten med bestemmelsen i universitets- og høyskoleloven § 3-5
-første ledd er å sikre at studenter som flytter
-mellom institusjoner som tilbyr akkrediterte studier etter universitets- og høyskoleloven, får rett
-til godkjenning av fag, emner, eksamener eller
-prøver i den nye graden. Dette er en ordning
-utvalget ønsker å videreføre. Denne bestemmelsen innebærer at den nye institusjonen plikter å
-godkjenne faginnhold fra andre institusjoner
-som tilbyr akkrediterte studier etter universitetsog høyskoleloven, så sant denne utdanningen
-oppfyller de faglige kravene som er fastsatt for
+
+- Det skilles tydeligere i loven mellom hva som er NOKUTs formål og hva som er NOKUTs oppgaver, ved å innføre en egen bestemmelse som angir NOKUTs myndighet og formål.
+
+- En ny bestemmelse som klargjør hvilke oppgaver NOKUT er faglig uavhengig i. I dagens lov er NOKUTs oppgaver listet opp, uten at listen er uttømmende.
+
+- Begrepsbruken i opplistingen av NOKUTs faglig uavhengige oppgaver koordineres med begrepsbruken i studiekvalitetsforskriften § 1-5.
+
+- Lovfestingen av at NOKUT kan «benytte andre virkemidler og gjennomføre andre tiltak» i universitets- og høyskoleloven § 2-1 tredje ledd siste setning videreføres ikke. Dette innebærer ingen materiell endring i hva NOKUT kan gjøre.
+
+- Henvisningen til fagskoleutdanning i § 2-1 andre ledd første punktum videreføres ikke.
+
+- Dagens lov § 2-1 femte ledd videreføres ikke. En ny bestemmelse som omhandler at NOKUT er faglig uavhengig i særskilte oppgaver, og at «NOKUTs utøvelse av faglig skjønn i saker etter denne bestemmelsen kan ikke overprøves» innføres.
+
+- Dagens lov § 2-1 sjette ledd siste punktum, som gir NOKUT hjemmel til å fastsette forskrifter om de samme emnene som departementet, videreføres ikke.
+
+- Dagens lov § 2-1 sjette ledd bokstav c, som gir departementet adgang til å fastsette forskrift om saksbehandlingsregler for NOKUT, videreføres ikke.
+
+- Reglene om akkreditering, tilsyn og NOKUTs oppgaver videreføres, men med noen materielle og strukturelle endringer.
+
+Utvalget anbefaler følgende:
+
+- Det igangsettes et arbeid med å evaluere NOKUTs rolle og oppgaver, og vurdere den mest hensiktsmessige organiseringen av et kvalitetssikringsorgan for norsk høyere utdanning.
+
+- Vurdere regelen om klage over NOKUTs vedtak om akkreditering, og begrunnelsene som er gitt for innskrenkningene i klagemyndighetens kompetanse. Utvalget anbefaler at det innføres en hjemmel som tydeligere begrunner innskrenkingen i prøvingen av spørsmål hvor NOKUT er faglig uavhengig, eventuelt også at innskrenkingen av hvem som kan klage flyttes til loven.
+
+- Gjennomgå studietilsynsforskriften og studiekvalitetsforskiften, og vurdere om disse slås sammen til én forskrift.
+
+## Gjeldende rett
+
+### Nasjonalt organ for kvalitet i utdanningen – NOKUT
+
+Nasjonalt organ for kvalitet i utdanningen (NOKUT) ble opprettet av Stortinget i 2002. Opprettelsen var begrunnet i de strukturelle endringene i høyere utdanning som ble gjort gjennom Kvalitetsreformen.[^572] NOKUT var operativt fra 1. januar 2003.
+
+Gjennom Kvalitetsreformen fikk universiteter og høyskoler nye fullmakter og større faglig frihet. Institusjonene skulle selv ta hovedansvaret for kvaliteten i studietilbudet. For å sikre at kvaliteten ble ivaretatt var det blant annet nødvendig med effektive, overordnede og faglig uavhengige systemer for kvalitetssikring og -tilsyn.
+
+NOKUTs oppgaver er hovedsakelig regulert i universitets- og høyskoleloven kapittel 2.[^573] I universitets- og høyskoleloven § 2-1 første ledd står det at NOKUT er et «statlig forvaltningsorgan som er faglig uavhengig i oppgavene nevnt i tredje og fjerde ledd». At NOKUT er et statlig forvaltningsorgan, innebærer at det er underlagt Kunnskapsdepartementets alminnelige styringsmyndighet i administrative, organisatoriske og økonomiske forhold, og at Kunnskapsdepartementet både kan delegere oppgaver til NOKUT og instruere NOKUT om forvaltningsoppgaver.[^574] At NOKUT er «faglig uavhengig i oppgavene nevnt i tredje og fjerde ledd», innebærer at NOKUT ikke kan instrueres eller gis pålegg om det faglige innholdet i disse oppgavene.[^575] Oppgavene som følger av § 2-1 tredje og fjerde ledd, er akkreditering av institusjoner og studietilbud, å gjennomføre evalueringer og tilsyn med norske utdanninger og institusjoner, samt å gi generell godkjenning av utenlandsk utdanning.
+
+Organer som NOKUT, med ansvar for å sikre og utvikle kvalitet i høyere utdanning, må oppfylle kravene i European Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG) for å være medlem i the European Association for Quality Assurance in Higher Education (ENQA). Organene må også oppfylle kravene i ESG for å være registrert i The European Quality Assurance Register for Higher Education (EQAR).[^576] Oppfyllelse av kravene i ESG forutsetter at arbeidet med kvalitetssikrings- og utviklingsaktiviteter innenfor høyere utdanning, inkludert evalueringer, er uavhengig av departementet, utdanningsinstitusjonene og andre aktører.[^577] Det er også fastsatt i studiekvalitetsforskriften § 1-5 første ledd at NOKUT skal sørge for at virksomheten er i henhold til internasjonale regler og standarder og internasjonal praksis.[^578]
+
+NOKUTs faglige uavhengighet ble presisert gjennom en lovendring i universitets- og høyskoleloven i 2018.[^579] Endringen synliggjør NOKUTs todelte oppgaveportefølje – at NOKUT er faglig uavhengig i enkelte saker, og at NOKUT i andre saker kan ha ordinære forvaltningsoppgaver der departementet har instruksjonsmyndighet. Endringen la til rette for at nye oppgaver ble overført fra departementet, samtidig som den nødvendige faglige uavhengigheten ble sikret et tydelig vern i loven. NOKUT kan ikke instrueres i de faglige vurderingene som er knyttet til akkreditering, evaluering og tilsyn.
+
+Formålet med NOKUT er «å føre tilsyn med kvaliteten i høyere utdanning og fagskoleutdanning, gi generell godkjenning av utenlandsk høyere utdanning, og å stimulere til kvalitetsutvikling som sikrer et høyt internasjonalt nivå i utdanningstilbudene ved institusjonene», jf. universitets- og høyskoleloven § 2-1 andre ledd. I samme bestemmelse heter det at NOKUTs arbeid skal bidra til at «samfunnet kan ha tillit til kvaliteten i norsk høyere utdanning, fagskoleutdanning og godkjent høyere utenlandsk utdanning. I sitt arbeid skal NOKUT søke å bistå institusjonene i deres utviklingsarbeid.» NOKUT skal ut fra dette være et organ som sikrer at utdanningen som blir tilbudt, holder en gitt kvalitet, og at studenter som begynner på en utdanning, kan ha tillit til at de får den undervisningen som er nødvendig for å oppfylle kravene som er satt til utdanningen.
+
+Det følger av universitets- og høyskoleloven § 2-2 første ledd at NOKUT ledes av et styre som har det overordnede ansvaret for NOKUTs virksomhet og de beslutningene organet treffer. NOKUTs styre oppnevnes av departementet og består av ni medlemmer, jf. universitets- og høyskoleloven § 2-2 andre ledd. Loven krever at ett medlem skal være en student ved et universitet eller en høyskole, og at ett medlem skal være student ved en fagskole. Videre følger det av universitets- og høyskoleloven § 2-2 tredje ledd at styrets funksjonstid er fire år, og at studentmedlemmer oppnevnes for to år.
+
+Begrunnelsen for at NOKUT skal ledes av et eget styre, er at dette underbygger at organet skal være et uavhengig statlig organ. En ordning med et eget styre er med på å sikre at organet har en selvstendig stilling i det faglige arbeidet, både overfor departementet og overfor institusjonene.[^580] Styret er sammensatt med sikte på at det samlet sett skal inneha en bred og relevant kompetanse, som har legitimitet både i sektoren og i samfunnet ellers. Styret skal også ha innsikt i og forståelse av kvalitetssikringssystemer på overordnet nivå, og det skal ha god kjennskap til sektoren.[^581]
+
+NOKUT og NOKUTs oppgaver er også nevnt flere andre steder i universitets- og høyskoleloven.
+
+### Akkreditering av institusjoner og studietilbud
+
+Etter universitets- og høyskoleloven § 2-1 tredje ledd er NOKUTs oppgave blant annet å akkreditere institusjoner og studietilbud. § 3-1 sier at akkreditering er en faglig bedømming av om en høyere utdanningsinstitusjon eller et studietilbud fyller standarder og kriterier gitt av departementet og NOKUT. Det heter i bestemmelsen at «akkreditering er et vilkår for å kunne tilby høyere utdanning», noe som gjenspeiler at akkreditering er et vilkår for at utdanningen skal anerkjennes etter universitets- og høyskoleloven.
+
+Akkrediteringen skal baseres på en evaluering gjort av eksterne sakkyndige som er oppnevnt av NOKUT, jf. universitets- og høyskoleloven § 3-1 andre ledd. Basert på evalueringen avgjør NOKUT om institusjonen eller utdanningen skal akkrediteres. I universitets- og høyskoleloven § 1-2 andre ledd står det at «\[h\]vilken kategori den enkelte institusjon tilhører avgjøres av Kongen på grunnlag av en faglig vurdering fra Nasjonalt organ for kvalitet i utdanningen (NOKUT)». Kategoriene institusjonene kan tilhøre, er universitet, vitenskapelig høyskole eller høyskole. Det er altså Kongen som avgjør om en institusjon skal akkrediteres som universitet, vitenskapelig høyskole eller høyskole, på grunnlag av den faglige vurderingen til NOKUT, men uten å være bundet av denne. Akkreditering fra NOKUT er nødvendig, men ikke tilstrekkelig for plassering av en institusjon i en bestemt institusjonskategori.
+
+Universiteter og høyskolers adgang til å akkreditere egne studietilbud følger av universitets- og høyskoleloven § 3-3 og § 3-1 tredje ledd. Adgangen innebærer at institusjonen, innenfor rammen av sin faglige fullmakt, kan opprette studietilbud ved egen institusjon. De faglige fullmaktene begrenses blant annet av gradsforskriften, som gjelder de gradene og yrkesutdanningene med beskyttet tittel og normert studietid som kan tildeles av institusjoner som går inn under universitets- og høyskoleloven (se punkt 8.4.1 og 8.10.2).[^582] I følge forskriften avgjør Kunnskapsdepartementet hvilke institusjoner som kan gi de ulike gradene og utdanningene som forskriften omfatter, blant annet utdanninger i teologi, psykologi, medisin og rettsvitenskap. På områder hvor institusjonene er selvakkrediterende, må akkrediteringen følge de samme standardene og kriteriene som NOKUT legger til grunn ved sin akkreditering, og vurderingen av studietilbudet skal være dokumentert, jf. universitets- og høyskoleloven § 3-1 tredje ledd andre punktum. Adgangen til å opprette egne studietilbud er nærmere omtalt i kapittel 30.
+
+Hvis NOKUT finner at en institusjon eller et studietilbud ikke oppfyller fastsatte standarder og kriterier, skal NOKUT trekke akkrediteringen av institusjonen eller studietilbudet tilbake dersom institusjonen ikke har rettet forholdene innenfor en fastsatt frist, jf. universitets- og høyskoleloven § 3-1 fjerde ledd. Dette gjelder studietilbud akkreditert både av NOKUT og av institusjonen selv.
+
+### Tilsyn med kvalitetsarbeid
+
+Det følger av universitets- og høyskoleloven § 2-1 tredje ledd at NOKUT skal «føre tilsyn med institusjonenes kvalitetsarbeid og føre tilsyn med at institusjoner og eksisterende studietilbud fyller gjeldende standarder og kriterier for akkreditering».
+
+Ifølge universitets- og høyskoleloven § 1-6 skal universiteter og høyskoler ha et «tilfredsstillende internt system for kvalitetssikring som skal sikre og videreutvikle kvaliteten i utdanningen.» I tillegg står det at «\[s\]tudentevalueringer skal inngå i systemet for kvalitetssikring». Bestemmelsen skal sikre både at kvalitet oppnås, og at kvaliteten i utdanningen videreutvikles. NOKUT skal føre tilsyn med institusjonenes kvalitetsarbeid, blant annet med at de har et tilfredsstillende internt system for kvalitetssikring.
+
+Dersom NOKUT finner at et kvalitetssikringssystem ikke er tilfredsstillende, kan institusjonens faglige fullmakter trekkes tilbake. Det er departementet som beslutter om en faglig fullmakt skal trekkes tilbake hvis NOKUT har funnet at institusjonen ikke har et tilfredsstillende kvalitetsarbeid, jf. universitets- og høyskoleloven § 3-3 fjerde ledd.
+
+Som et ledd i oppfølgingen av Strukturmeldingen ble universitets- og høyskoleloven og studiekvalitetsforskriften endret i 2016.[^583] I hovedtrekk innebar endringene i studiekvalitetsforskriften strengere krav til etablering av master- og doktorgradsprogrammer, skjerpede krav for akkreditering som vitenskapelig høyskole og universitet og en styrking av NOKUTs arbeid med å heve kvaliteten i høyere utdanning.
+
+Med disse endringene la Kunnskapsdepartementet til rette for å dreie NOKUTs tilsynsoppgaver fra vurdering av institusjonenes kvalitetssikringssystemer til et bredere tilsyn med institusjonenes samlede kvalitetsarbeid. Det innebærer at det skal føres tilsyn med i hvilken grad institusjonenes kvalitetsarbeid legger til rette for og bidrar til å øke kvaliteten i studieprogrammene slik at studentene lærer mer. NOKUT skal også føre tilsyn med de administrative kvalitetssikringsrutinene ved institusjonene og bruken av disse. En hovedendring i studiekvalitetsforskriften er at NOKUT skal fastsette utfyllende kriterier for institusjonenes kvalitetsarbeid i egen forskrift.
+
+Studietilsynsforskriften utfyller studiekvalitetsforskriften og er fastsatt av NOKUT.[^584] Forskriften stiller opp de nærmere vilkårene som må være oppfylt for at en institusjon eller et utdanningstilbud skal kunne akkrediteres.
+
+Kunnskapsdepartementets studiekvalitetsforskrift og NOKUTs studietilsynsforskrift bygger på og er i tråd med Norges internasjonale forpliktelser nedfelt i ESG.
+
+### Endringer i NOKUTs oppgaveportefølje
+
+Flere ikke-lovhjemlede oppgaver er etter hvert flyttet fra Kunnskapsdepartementet til NOKUT. Siden 2013 har NOKUT hatt i oppdrag å gjennomføre en årlig nasjonal undersøkelse av hvordan studentenes opplever kvalitet i studieprogrammene (Studiebarometeret), og NOKUT har i de senere årene også fått flere nye utrednings- og analyseoppdrag fra Kunnskapsdepartementet. Fra 2018/2019 ble dessuten tilsynsoppgavene knyttet til økonomi ved private institusjoner og studentsamskipnader, flyttet fra departementet til NOKUT.
+
+En ny institusjonsstruktur med færre universiteter og høyskoler krever mindre ressurser fra NOKUT til periodiske evalueringer av institusjonenes egne kvalitetssikringssystemer. Når høyskoler slås sammen med universiteter, blir behovet for NOKUT-akkreditering av nye studieprogrammer redusert. NOKUT har selv ønsket å dreie ressursene mer i retning av tilsyn med eksisterende virksomhet og studietilbud.[^585] Tilsynet er i økende grad basert på risikovurderinger, for eksempel på bakgrunn av bekymringsmeldinger om sviktende kvalitet over tid. En mer målrettet, risikobasert tilnærming er også et fremtredende utviklingstrekk i internasjonal kvalitetssikring av høyere utdanning.
+
+## Utvalgets vurderinger
+
+### NOKUT
+
+NOKUT ble opprettet for å sikre kvaliteten ved universiteter og høyskoler etter Kvalitetsreformen, og organets oppgave var da å sikre effektive, overordnede og faglig uavhengige systemer for kvalitetssikring og tilsyn. Forvaltningsoppgavene til NOKUT har økt i antall og omfang, særlig de siste årene, og organets oppgaver i dag skiller seg fra den opprinnelige oppgaven, da NOKUT var et rent kvalitetssikringsorgan. Endringene i oppgaveporteføljen har, slik utvalget ser det, gitt NOKUT et stadig større preg av å være et direktorat.
+
+Delegeringen av forvaltningsoppgaver ligger innenfor statsrådens instruksjons- og organisasjonsrett. Økningen i forvaltningsoppgaver kan bidra til at NOKUTs kjerneoppgave knyttet til å sikre kvaliteten i norsk utdanning blir mindre synlig i mengden av alle de nye oppgavene NOKUT er blitt tillagt. Utvalget mener denne utviklingen kan være uheldig.
+
+Mange ulike forvaltningsoppgaver kan tvinge NOKUT til å måtte prioritere mellom disse, både av budsjettmessige og bemanningsmessige grunner. I prioriteringen mellom mange viktige oppgaver må nødvendigvis noen bli nedprioritert. Det er ikke gitt at kvalitetsarbeidet alltid vil ha førsteprioritet.
+
+Siden NOKUTs oppgaveportefølje er utvidet, møter institusjonene NOKUT i mange ulike roller. Det kan føre til at både NOKUT og institusjonene kan bli forvirret over hvilken rolle NOKUT har i hvert enkelt tilfelle. Økningen i forvaltningsoppgaver kan lede til at tilliten til NOKUT som kvalitetssikringsorgan blir svekket. Det kan fort bli vanskelig å se grensen mellom når NOKUT opptrer som et faglig uavhengig organ som ikke kan instrueres, og når NOKUT gjør oppgaver for departementet på grunnlag av instruksjon.
+
+I tillegg kan viktig forvaltningskunnskap forsvinne fra et departement når flere oppgaver flyttes over til et direktorat. Å overføre en stor mengde forvaltningsoppgaver til direktorater kan være utfordrende med tanke på å vedlikeholde nødvendig kompetanse i departementene, og det kan medføre at departementene mister detaljkunnskap om hvordan ulike oppgaver skal løses. Dette kan gjelde kunnskap om sektoren og kunnskap om ulike typer forvaltningsoppgaver.
+
+Utvalget mener det er et behov for å vurdere om denne utviklingen er formålstjenlig, og om norsk høyere utdanning hadde vært bedre tjent med at NOKUT var et rent kvalitetssikringsorgan. Vurderingene av disse spørsmålene er vanskelige og krever et helhetsblikk på oppgavene som skal gjøres i sektoren, og på hvem som skal gjøre dem. Det er nylig gjennomført omstruktureringer og nyetableringer i organene som arbeider med høyere utdanning, og som ligger under departementet. Utvalget anbefaler at det igangsettes et arbeid med å evaluere NOKUTs rolle og oppgaver og med å vurdere den mest hensiktsmessige organiseringen av et kvalitetssikringsorgan for norsk høyere utdanning.
+
+Det er også tidligere foreslått å vurdere om enkelte av NOKUTs oppgaver kan overføres til andre organer, for eksempel behandling av søknader om generell godkjenning av utenlandsk utdanning.[^586] Dette mener utvalget at må ses i sammenheng med evalueringen av konsekvensene omstruktureringen av organer og oppgaver som tilligger departementet, har brakt med seg.
+
+NOKUT er omtalt med navn i universitets- og høyskoleloven. Dette er ikke gjort for andre underliggende organer under Kunnskapsdepartementet på universitets- og høyskolefeltet. Universitets- og høyskoleloven § 5-4 omtaler for eksempel «organ for internasjonalt utdanningssamarbeid», og bestemmelsen navngir dermed ikke forvaltningsorganet som har dette ansvaret, utover at oppgavene er omtalt. At NOKUT er titulert med navn i loven, er etter utvalgets oppfatning uttrykk for en noe rigid lovgivningsteknikk, som innebærer at det må gjøres en lovendring hvis organet skal skifte navn, for eksempel på grunn av organisatoriske endringer i forvaltningen. I tillegg er lovreguleringen av NOKUTs oppgaver omfangsrik. Dette står også i motsetning til reguleringen av oppgavene til Kunnskapsdepartementets andre underliggende organer.
+
+På den andre siden er NOKUT faglig uavhengig i en del av sine oppgaver, og utvalget mener det er behov for at disse er regulert. NOKUT skiller seg sånn sett fra Kunnskapsdepartementets andre underliggende organer, som ikke er faglig uavhengige. Dette kan tilsi et økt behov for identifisering av NOKUT som organ.
+
+Alt i alt foreslår derfor utvalget ingen endring av at NOKUT blir navngitt i loven.
+
+### NOKUTs faglige uavhengighet
+
+NOKUTs faglige uavhengighet ble presisert ved en lovendring i 2018. Ved denne lovendringen ble det presisert at NOKUT er faglig uavhengig i oppgavene som er nevnt i universitets- og høyskoleloven § 2-1 tredje og fjerde ledd, som gjelder akkreditering, evaluering og tilsyn med norske utdanninger og institusjoner og generell godkjenning av utenlandsk utdanning.
+
+NOKUT har som nevnt fått flere nye oppgaver de siste årene, blant annet å godkjenne utenlandsk yrkesopplæring. Dette er en fag- eller yrkesopplæring på videregående nivå.[^587] Oppgaven er delegert til NOKUT fra Kunnskapsdepartementet. NOKUT er ikke faglig uavhengig i denne oppgaven, noe som innebærer at Kunnskapsdepartementet kan instruere NOKUT om hva organet skal gjøre knyttet til godkjenning av utenlandsk yrkesopplæring. NOKUT godkjenner også utenlandsk utdanning på høyere nivå, etter fagskoleloven eller universitets- og høyskoleloven.[^588] I disse oppgavene er NOKUT faglig uavhengig. Ifølge ordlyden i dagens universitets- og høyskolelov § 2-1 er NOKUT faglig uavhengig ved «generell godkjenning av utenlandsk utdanning». Ordlyden tilsier at NOKUT også er faglig uavhengig når organet vurderer utenlandsk yrkesutdanning, siden lovteksten ikke presiserer at NOKUT er faglig uavhengig *bare* ved vurderingen av utenlandsk *høyere* utdanning. Reguleringen av NOKUTs faglige uavhengighet i oppgavene knyttet til godkjenning av utenlandsk utdanning fremstår derfor som noe uoversiktlig.
+
+Utvalget mener det er klart at NOKUT skal være faglig uavhengig i oppgaver som gjelder akkreditering, evaluering og tilsyn. Utvalget setter derimot spørsmålstegn ved om generell godkjenning av utenlandsk utdanning er en oppgave hvor det er formålstjenlig at NOKUT er faglig uavhengig. Det fremstår for utvalget som at generell godkjenning av utenlandsk utdanning er en typisk forvaltningsoppgave.
+
+Godkjenning av utenlandsk utdanning er heller ikke en oppgave som alene ligger hos NOKUT. Institusjonene godkjenner også ulike utdanninger gjennomført i utlandet, for eksempel i tilfeller der studenter velger å ta et utvekslingsopphold som en del av sitt utdanningsløp.
+
+Oppgaver knyttet til godkjenning av utenlandsk utdanning er tidligere foreslått overført til et annet organ.[^589] Også dette tilsier etter utvalgets mening at godkjenning av utenlandsk utdanning ikke er en oppgave hvor NOKUT er faglig uavhengig.
+
+På den andre siden har utvalget begrenset kunnskap om årsakene til at generell godkjenning av utenlandsk utdanning er definert som en oppgave der NOKUT er faglig uavhengig i dagens lov. Selv om det etter utvalgets oppfatning er flere argumenter som tilsier at generell godkjenning av utenlandsk utdanning ikke bør være en oppgave som faller inn under NOKUTs faglige uavhengighet, har utvalget for liten kunnskap om motargumentene til å foreslå endringer på dette punktet. Utvalget anbefaler derfor å la «generell godkjenning av utenlandsk utdanning» fortsette å være regulert som en oppgavene der NOKUT er faglig uavhengig.
+
+Rettskildebildet blir uoversiktlig når noen av NOKUTs oppgaver er regulert, mens andre oppgaver ikke er regulert. Slik gjeldende universitets- og høyskolelov § 2-1 er utformet, fremstår opplistingen av oppgavene som uttømmende, men dette er ikke tilfellet. Utvalget anser at det ikke er behov for å ha en egen lovbestemmelse om NOKUTs oppgaver utover en bestemmelse om hvilke oppgaver organet er faglig uavhengig i.
+
+Videre foreslår utvalget å få begrepsbruken i opplistingen av de faglig uavhengige oppgavene til å samsvare med begrepsbruken i studiekvalitetsforskriften § 1-5. At begrepsbruken i opplistingen og forskriften ikke er lik, kan bidra til et uklart og uoversiktlig rettskildebilde.
+
+### NOKUTs oppgaver og myndighet
+
+Hovedreglene om NOKUTs virksomhet i universitets- og høyskoleloven er samlet i kapittel 2, men flere bestemmelser om NOKUT finnes spredt i universitets- og høyskoleloven. Utvalget har derfor vurdert å samle alle bestemmelsene om NOKUT i ett kapittel. Det er mange grunner som kan tale for dette, blant annet at det blir lettere å finne frem til hvilke bestemmelser som regulerer NOKUT og NOKUTs virksomhet. På den annen side er bestemmelsene i gjeldende lov plassert der de faglig hører hjemme. Det kan dermed blir mer uoversiktlig om bestemmelsene blir flyttet bort fra andre regler som omtaler samme tema. Utvalget har falt ned på at bestemmelser om NOKUT fortsatt bør være plassert der de faglig hører hjemme.
+
+Utvalget har fått innspill fra NOKUT om at det er behov for å rydde opp i strukturen og terminologien i universitets- og høyskoleloven § 2-1. NOKUT viser til bestemmelsens andre ledd, som beskriver NOKUTs formål. I første setning omtales de konkrete oppgavene NOKUT skal utføre. NOKUT mener at dette ikke er en beskrivelse av formålet. Det som gir en dekkende angivelse av formålet, er særlig andre setning i andre ledd, som regulerer NOKUTs overordnede samfunnsoppdrag. Siste setning i § 2-1 andre ledd omtaler hvordan NOKUT skal gjennomføre de lovpålagte oppgavene, og er derfor heller ikke en nærmere angivelse av formålet. NOKUT foreslår å rydde i bestemmelsen slik at det kommer tydeligere frem hva som er formålet, og hva som er de lovpålagte oppgavene, slik at § 2-1 andre ledd utelukkende regulerer NOKUTs samfunnsoppdrag.
+
+Utvalget er enig i NOKUTs argumenter, og ser at det er behov for opprydding i bestemmelsen. Utvalget mener imidlertid at det er mer hensiktsmessig med en egen bestemmelse som omtaler NOKUTs myndighet og formål. I tillegg mener utvalget at universitets- og høyskoleloven § 2-1 andre ledd første setning angir noe som ligger mellom en oppgave og et formål ved at NOKUT skal «stimulere til kvalitetsutvikling som sikrer et høyt internasjonalt nivå i utdanningstilbudene ved institusjonene». Utvalget mener formuleringen ligger nærmere en målsetting enn en konkret oppgave, og foreslår derfor å ta denne delen av bestemmelsen inn i en ny bestemmelse om NOKUTs formål. Den nye formålsbestemmelsen for NOKUT vil, sammen med forslaget om en ny bestemmelse som regulerer hvilke oppgaver NOKUT er faglig uavhengig i, og en utskillelse av dagens § 2-1 fjerde ledd andre og tredje punktum i en egen bestemmelse, erstatte dagens universitets- og høyskolelov § 2-1 (se lovforslaget §§ 14-1 og 14-2).
+
+Videre foreslår NOKUT å stryke «benytte andre virkemidler og gjennomføre andre tiltak» i universitets- og høyskoleloven § 2-1 tredje ledd siste setning. Bakgrunnen for forslaget er at formuleringen gir inntrykk av å gi NOKUT flere virkemidler enn det er rettslig grunnlag for. I forarbeidene trekkes det frem at bestemmelsen ble innført for å gjøre det tydelig at NOKUT kan anvende «mindre omfattende, inngripende og ressurskrevende tiltak» i saker hvor det strengt tatt ikke er nødvendig å igangsette en full revidering av akkreditering.[^590] NOKUT anfører imidlertid at disse oppgavene kan gjennomføres i tråd med den alminnelige handlefriheten, uten at denne presiseringen i loven er nødvendig. Videre mener NOKUT at dersom bestemmelsen er ment å omfatte andre bebyrdende virkemidler og tiltak enn de som fremkommer ellers i loven, må disse ha hjemmel i lov, og at en generalklausul som denne antakelig uansett ikke er tilstrekkelig. Utvalget er enig i dette, og foreslår derfor å følge opp NOKUTs forslag om å fjerne universitets- og høyskoleloven § 2-1 tredje ledd, tredje setning.
+
+Utvalget mener det er behov for opprydding når det gjelder NOKUTs formål og oppgaver overfor henholdsvis universitetene og høyskolene og fagskolene, og hvor disse formålene og oppgavene er regulert. I gjeldende universitets- og høyskolelov er organet NOKUT regulert, mens NOKUTs oppgaver er regulert delvis i universitets- og høyskoleloven og delvis i fagskoleloven. NOKUTs vurdering er at det ikke fremstår som klart hvilke oppgaver som knytter seg til hvilke institusjoner. De sier blant annet i innspillet sitt at «det faktum at fagskolene er nevnt ett sted i paragrafen, men tilsynelatende utelukket andre steder etterlater uklarhet om NOKUTs kompetanse på dette området.»
+
+Universitets- og høyskoleloven § 2-1 andre ledd sier at formålet med NOKUT blant annet er «å føre tilsyn med kvaliteten i høyere utdanning og fagskoleutdanning \[…\]». Videre i bestemmelsen er terminologien derimot mer rettet mot universitetene og høyskolene. I tillegg er oppgavene til NOKUT overfor fagskolene delvis regulert i fagskoleloven § 5 første ledd, som sier at «Nasjonalt organ for kvalitet i utdanningen (NOKUT) fører tilsyn med kvaliteten i høyere yrkesfaglig utdanning og akkrediterer fagskoleutdanning, jf. lov 1. april 2005 nr. 15 om universiteter og høyskoler kapittel 2».
+
+NOKUT foreslår at NOKUT som organ reguleres i universitets- og høyskoleloven, og at formålet og oppgavene for de to sektorene reguleres i de respektive lovene. Utvalget er enig i dette, og mener at en slik deling vil gjøre det mer tydelig hvilke oppgaver NOKUT har for de ulike sektorene. Det vil også gjøre lovene mer brukervennlige. Dersom anbefalingen blir fulgt opp, må det også gjøres nødvendige endringer i fagskoleloven.
+
+### Klagebehandling av NOKUTs vedtak om akkreditering
+
+#### Særregelen i universitets- og høyskoleloven § 2-1 femte ledd
+
+Det følger av universitets- og høyskoleloven § 2-1 femte ledd at «NOKUTs vedtak overfor private institusjoner kan i forskrift unntas fra bestemmelsene i forvaltningsloven kap. VI». Dette er gjort ved at NOKUTs faglige vurdering av de faktiske forholdene ikke kan påklages i forbindelse med vedtak om evaluering av kvalitetssikringssystemer og akkreditering og godkjenning av studier og institusjoner. Videre er hvem som har klagerett, begrenset til «den som et vedtak direkte gjelder for», jf. studiekvalitetsforskriften § 1-9 bokstav b og c.
+
+Forvaltningsloven er en lov som gir generelle regler for forvaltningens saksbehandling, og det kan ha en verdi å ha standardiserte løsninger. Det er imidlertid adgang til å fastsette særregler slik at saksbehandlingsreglene er fleksible og gir rom for tilpasninger til konkrete sakstyper når det er hensiktsmessig.
+
+Reglene om klage og omgjøring av vedtak i forvaltningsloven gjelder ved overprøving av enkeltvedtak, jf. forvaltningsloven § 28.[^591] Et enkeltvedtak er en avgjørelse som er bestemmende for rettigheter eller plikter til bestemte private rettssubjekter, og som treffes under utøving av offentlig myndighet, jf. forvaltningsloven § 2 første ledd. NOKUTs vedtak overfor private institusjoner er derfor enkeltvedtak etter forvaltningsloven. De statlige institusjonene er ikke private rettssubjekter, og vedtak fattet overfor dem er ikke enkeltvedtak. Statlige institusjoner har dermed i utgangspunktet ikke rettigheter etter forvaltningsloven, slik som retten til å klage på et vedtak. Begrunnelsen for hjemmelen i universitets- og høyskoleloven § 2-1 femte ledd var blant annet å sikre samme klageordning for statlige og private institusjoner ved å gjøre unntak fra forvaltningslovens regler for behandling av klage over enkeltvedtak overfor private institusjoner.[^592] Siden statlige institusjoner i utgangspunktet ikke har klagerett fordi de ikke har rettigheter etter forvaltningsloven, ble klageretten innskrenket for private institusjoner i stedet for at man ga statlige institusjoner rettigheter etter forvaltningsloven.
+
+Utvalget setter imidlertid spørsmålstegn ved om rettsoppfatningen som bestemmelsen i universitets- og høyskoleloven § 2-1 femte ledd bygger på, er riktig. Det følger av forvaltningsloven § 2 fjerde ledd at «\[e\]t forvaltningsorgan likestilles med privat rettssubjekt ved anvendelse av første ledd dersom organet har samme interesse eller stilling i saken som private parter kan ha». Statlige og private institusjoner har den samme interessen i vedtak som NOKUT fatter. Etter denne bestemmelsen har dermed også statlige institusjoner rettigheter på lik linje med private etter forvaltningsloven. Utvalget mener derfor at begrunnelsen for bestemmelsen i universitets- og høyskoleloven § 2-1 femte ledd baserer seg på en feil oppfatning av forvaltningsloven. På bakgrunn av dette anser utvalget at statlige institusjoner har full klagerett på lik linje med private institusjoner over NOKUTs vedtak om akkreditering.
+
+#### Begrunnelse og hjemmel for begrenset omfang av prøvingen i klageinstansen
+
+Klagebehandlingen av NOKUTs vedtak i saker om evaluering av kvalitetssikringssystemer og akkreditering og godkjenning av studier og institusjoner avviker fra forvaltningslovens regler, ved at omfanget av prøvingen av NOKUTs faglige vurdering begrenses til en legalitetskontroll. Hovedreglene etter forvaltningsloven er at klageinstansen kan prøve alle sider av et vedtak, jf. forvaltningsloven § 34.
+
+Det følger av forvaltningsloven § 28 fjerde ledd at det i forskrift kan fastsettes klageregler som utfyller eller avviker fra klagereglene i forvaltningsloven på særskilte saksområder. Det er videre presisert at «\[f\]orskrift som begrenser klageretten eller som ellers vesentlig endrer reglene til skade for partsinteresser, kan bare gis når tungtveiende grunner taler for det». Det kreves ikke «tungtveiende grunner» for å fastsette særregler som er i de private partenes interesse, heller ikke når Stortinget fastsetter særreglene i lov.
+
+I dagens regelverk er innskrenkningen av adgangen til å klage over NOKUTs akkrediteringsvedtak fastsatt i studiekvalitetsforskriften, med hjemmel i universitets- og høyskoleloven § 2-1. Utvalget mener at bestemmelsene i studiekvalitetsforskriften § 1-9 har en svært svak hjemmel i § 2-1. Ordlyden i universitets- og høyskoleloven § 2-1 femte ledd er spesifikt rettet mot private institusjoner, mens bestemmelsene i studiekvalitetsforskriften også innskrenker klageadgangen til de statlige institusjonene. § 2-1 femte ledd kan derfor ikke hjemle begrenset overprøving av faglige vurderinger i saker om akkreditering som gjelder statlige institusjoner.
+
+Formuleringen i § 2-1 femte ledd er «unntas fra bestemmelsene i \[…\]». Dette tilsier at bestemmelsen gir hjemmel for å unnta hele bestemmelser, og passer dermed ikke så godt som hjemmel for å vedta innskrenkninger i bestemmelsene. Dette samsvarer også med begrunnelsen for femte ledd om å frata private institusjoner klagerett. Hjemmelen passer dermed ikke til å begrense omfanget av klagenemndas overprøving og er etter utvalgets oppfatning uklar.
+
+Universitets- og høyskoleloven § 2-1 femte ledd begrunnes i tillegg med at en «full behandling av NOKUTs vedtak i to instanser vil kunne føre til lang saksbehandlingstid og et stort byråkrati», og videre at «departementet kan derfor i forskrift gi hjemmel til innskrenkninger i forvaltningslovens klagebestemmelser, slik at det for eksempel bare er saksbehandlingsfeil som kan påklages, og ikke NOKUTs faglige vurderinger».[^593]
+
+Dette er argumenter som er relevante for at retten til å klage over NOKUTs vedtak skal være innskrenket. Utvalget mener derimot at begrunnelsen for å innskrenke klageadgangen bør være at NOKUT er et forvaltningsorgan med en særlig uavhengig stilling i saker som gjelder akkreditering, tilsyn og evalueringer. At NOKUT er faglig uavhengig i slike saker, innebærer blant annet at organet ikke kan instrueres, jf. universitets- og høyskoleloven § 2-1 første ledd. Faglig uavhengighet innebærer imidlertid etter sin ordlyd mer enn et forbud mot instruksjon; det innebærer også et forbud mot at NOKUTs faglige vurderinger skal overprøves av andre organer, som en klagenemnd. Ordlyden i § 2-1 første ledd hindrer etter utvalgets oppfatning en full overprøving av disse sakene i en klagenemnd. Skulle en full overprøving tillates, ville ikke NOKUT være faglig uavhengig i disse sakene.
+
+NOKUTs vedtak i saker om akkreditering baseres på sakkyndiges vurderinger, og det er behov for særlig kompetanse for å treffe vedtak i disse sakene. NOKUT skal ta selvstendig stilling til innholdet i de sakkyndige vurderingene, og må derfor ha en viss faglig kompetanse selv på samme område. Det er NOKUTs styre som treffer vedtak om akkreditering.[^594] Sammensetningen i styret er tilpasset behovet for kompetanse i denne sakstypen. At NOKUT også er uavhengig i slike faglige spørsmål, tilsier at det bare er de rettslige sidene av styrets beslutninger som kan overprøves, og ikke det faglige skjønnet styret er sammensatt for å utøve.
+
+Utvalget mener derfor at innskrenkningen av retten til å klage over NOKUTs vedtak om akkreditering kan hjemles i universitets- og høyskoleloven § 2-1 første ledd. Dette bør imidlertid presiseres tydeligere i lovbestemmelsen. Utvalget foreslår derfor å legge til i nytt lovforslag § 14-2 tredje ledd at «NOKUTs utøvelse av faglig skjønn i saker etter denne bestemmelsen kan ikke overprøves». På bakgrunn av dette mener utvalget også at gjeldende lov § 2-1 femte ledd kan oppheves.
+
+#### Begrensninger i hvem som kan påklage vedtak om akkreditering
+
+At hjemmelen for å innskrenke omfanget av prøvingen i klageinstansen er NOKUTs faglige uavhengighet, innebærer at regelen som innskrenker hvem som kan klage, ikke har hjemmel i lov, men bare følger av studiekvalitetsforskriften. Et krav om faglig uavhengighet kan ikke begrunne en innskrenkning i hvem som kan klage.
+
+På bakgrunn av dette må det være tungtveiende grunner for å innskrenke hvem som kan klage, ettersom en slik innskrenkning bare er hjemlet i forskriften, jf. forvaltningsloven § 28 fjerde ledd. En annen løsning er at denne innskrenkningen også hjemles i loven.
+
+Innskrenkningen i hvem som kan klage, innebærer at det bare er institusjonen selv som kan klage på NOKUTs vedtak om akkreditering, ettersom det er institusjonen selv som vedtaket «direkte gjelder for», jf. studiekvalitetsforskriften § 1-9 bokstav b. Etter forvaltningsloven § 28 har også andre «med rettslig klageinteresse» anledning til å klage på enkeltvedtak. For akkrediteringsvedtak kan for eksempel andre institusjoner og studenter ha rettslig klageinteresse.
+
+Det kan være gode grunner til å innskrenke klageretten slik at kun bare institusjonen selv kan påklage et vedtak. Begrunnelsen som er gitt, er den samme som for universitets- og høyskoleloven § 2-1 femte ledd: Hensikten med at det bare er den aktuelle institusjonen eller søkeren som har rettslig klageinteresse i forvaltningslovens forstand, er å begrense NOKUTs arbeidsbyrde og unngå en omfattende og byråkratisk klagebehandling. Akkreditering fyller et nasjonalt formål i det å kvalitetssikre høyere utdanning. Akkreditering er ikke et begrenset gode; det tilkommer alle som søker om det og oppfyller et sett av kriterier. På denne måten er det et kvalitetsstempel som alle institusjoner kan få. Dette kan gi et argument for å begrense klageretten. Det må likevel vurderes om denne begrunnelsen er tungtveiende. Utvalget mener denne innskrenkningen i klageretten bør ha en nærmere og bedre begrunnelse, eller flyttes til loven.
+
+Forarbeidene legger stor vekt på at klagebehandlingen ikke skal bli for omfattende og byråkratisk. I saker hvor det er oppnevnt faglig sakkyndige og saksbehandlingen er omfattende og ressurskrevende, vil det bli kostbart og tidkrevende dersom klageorganet skal ha myndighet til å prøve alle sider av saken.[^595] Utvalget anser at dette er relevante argumenter, men som nevnt ovenfor mener utvalget at innskrenkningen hovedsakelig bør begrunnes i NOKUTs faglige uavhengighet.
+
+Det er heller ikke nødvendigvis alltid slik at vedtak basert på sakkyndige evalueringer fører til omfattende og langvarig klagebehandling. En klagenemnd skal etter forvaltningsloven § 34 prøve alle sider av det påklagede vedtaket, men det innebærer ikke nødvendigvis at nemnda må innhente nye sakkyndige uttalelser. I tilfeller der det er begrunnet tvil om hvorvidt den faglige evalueringen som er gjort, er riktig, er det nødvendig å innhente en ny sakkyndig evaluering. I andre tilfeller må klageinstansen vurdere om det som kommer frem i klagebehandlingen, tilsier at den opprinnelige sakkyndige uttalelsen kan legges til grunn eller om det er behov for enten supplerende sakkyndige uttalelser eller en fullstendig ny evaluering. En innskrenkning i klageinstansens prøvingsrett gjør at ikke alle sider av saken kan overprøves. Dersom det er tvil om hvorvidt de sakkyndiges vurdering er riktig, kan ikke klageinstansen i sakene som gjelder NOKUTs vedtak, beslutte å innhente ny vurdering, fordi det faglige skjønnet ikke kan overprøves.[^596] Utvalget anser at dette er argumenter som kan tale for at klageadgangen ikke bør innskrenkes.
+
+#### Utvalgets anbefalinger
+
+Utvalget har hatt begrenset tid til å hente inn nødvendige opplysninger om hvordan klagebehandlingen av NOKUTs vedtak om akkreditering fungerer. Klagesystemet fremstår til dels svakt begrunnet, og utvalget anbefaler derfor å gjøre en gjennomgang av systemet og av begrunnelsene som er gitt for innskrenkningene. Som et minimum anbefaler utvalget å innføre en hjemmel som tydeligere begrunner innskrenkningen i prøvingen av spørsmål hvor NOKUT er faglig uavhengig, eventuelt også å flytte innskrenkningen av hvem som kan klage fra forskriften til loven.
+
+### Forskriftshjemmel
+
+I 2016 ble departementets myndighet til å gi forskrift som gjelder NOKUTs virksomhet samlet i universitets- og høyskoleloven § 2-1 sjette ledd. Begrunnelsen for endringen var at departementet så det som hensiktsmessig å samle forskriftsmyndigheten i én bestemmelse.[^597] Forskriftshjemmelen i universitets- og høyskoleloven § 2-1 sjette ledd er sentrert rundt tre temaer. Temaene gjelder «krav til kvalitetssikringssystemer og kvalitetsarbeid», «kriterier for akkreditering av institusjoner og studietilbud» og «saksbehandlingsregler for NOKUTs virksomhet», jf. universitets- og høgskoleloven § 2-1 sjette ledd bokstav a, b og c.
+
+NOKUT foreslår å plassere forskriftshjemlene «krav til kvalitetssikringssystemer og kvalitetsarbeid» og «kriterier for akkreditering av institusjoner og studietilbud» der de saklig sett hører hjemme. NOKUT anfører at disse forskriftshjemlene omtaler utvalgte oppgaver som gjelder konkrete saklige områder. NOKUT foreslår at forskriftshjemmelen i universitets- og høyskoleloven § 2-1 sjette ledd bokstav c kan stå der den står i dag. Denne bestemmelsen er mer generell i sin utforming og gjelder saksbehandlingsregler for hele NOKUTs virksomhet. Utvalget er enig i NOKUTs forslag og foreslår å flytte § 2-1 sjette ledd bokstav a og b til bestemmelsene hvor de faglig sett hører hjemme. Utvalget mener at det ikke er behov for en hjemmel som gir departementet adgang til å fastsette saksbehandlingsregler om NOKUTs virksomhet, fordi dette kan departementet uansett gjøre. Utvalget foreslår derfor at dagens § 2-1 sjette ledd bokstav c ikke videreføres.
+
+Det følger av universitets- og høyskoleloven § 2-1 sjette ledd at NOKUT kan gi «utfyllende forskrift om de samme emnene.» Dette omfatter hvilke krav som kan stilles til kvalitetssikringssystemene og til kvalitetsarbeidet, standarder og kriterier for akkreditering av institusjoner og studietilbud og saksbehandlingsregler. NOKUT foreslår i sitt innspill å fjerne denne forskriftsmyndigheten fra NOKUT fordi de anser at det er mest hensiktsmessig at departementet fastsetter forskriftene. NOKUT anfører blant annet at det ikke er hensiktsmessig at NOKUT gir utfyllende forskrift om de samme emnene som departementet. Videre anfører NOKUT at det fremstår som unødig kompliserende at departementet og NOKUT fastsetter hver sine forskrifter om grunnleggende samme tematikk rettet mot samme pliktsubjekter.
+
+Utvalget er enig i at det er unødig kompliserende at NOKUT også er gitt forskriftsmyndighet i universitets- og høyskoleloven § 2-1 sjette ledd. At loven legger forskriftsmyndighet til ulike nivåer om de samme temaene, kan gjøre det komplisert for brukerne å finne frem til rett forskrift og sikre seg et fullt bilde av rettsområdet. Utvalget foreslår derfor å oppheve gjeldende § 2-1 sjette ledd siste setning.
+
+Utvalget vil understreke at departementet som hovedregel bør ha myndigheten til å fastsette sentrale forskrifter, ikke underliggende organer. Underliggende organer kan eventuelt bistå i arbeidet med å utarbeide forskriftene.
+
+NOKUT kommer videre med et innspill hvor de anfører at det er behov for en helhetlig gjennomgang av Kunnskapsdepartementets studiekvalitetsforskrift og NOKUTs studietilsynsforskrift. Sistnevnte gir utfyllende bestemmelser til departementets forskrift. NOKUT foreslår å samle disse to forskriftene i én forskrift.[^598]
+
+Utvalget er enig med NOKUT, og anbefaler å gjøre en gjennomgang av de to forskriftene med sikte på å slå dem sammen til én forskrift. Det er uheldig at rettskildebildet på dette området er omfangsrikt og fragmentert. En sammenslåing av disse to forskriftene kan bidra til en forenkling av regelverket og til at brukerne av regelverket lettere får oversikt over bestemmelsene.
+
+I forlengelsen av dette viser utvalget til at det også anbefaler å sette i gang et arbeid med å gjennomgå alle forskriftene under universitets- og høyskoleloven, inkludert å se på om det er mulig å slå sammen flere forskrifter, eventuelt om det er mulig å slå alle forskriftene sammen til én forskrift, se punkt 9.3.

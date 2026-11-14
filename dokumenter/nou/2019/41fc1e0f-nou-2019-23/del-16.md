@@ -1,1048 +1,244 @@
-# NOU 2019: 23, del 16 av 71 (side 184–197)
+# NOU 2019: 23, del 16 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 184]
+# Klart lovspråk og god lovstruktur
 
-182
+\[:figur:figX-X.jpg\]
 
-NOU 2019: 23
+ 
 
-Kapittel 13
+## Innledning
 
-Ny opplæringslov
+I utvalgets mandat er det slått fast at «\[i\] utformingen av lovforslaget skal det \[...\] tas hensyn til forenkling, oversiktlighet, brukervennlighet og praktisk anvendbarhet. Loven skal utformes i et klart og godt språk.» Det er også pekt på at Kunnskapsdepartementets lovforslag gjennom prosjektet Klart lovspråk med brukerundersøkelser, skal inngå i kunnskapsgrunnlaget til utvalget.
 
-Grunnloven, særlig §§ 104 og 109
+Utvalgets arbeid med språk har bestått i å kartlegge språklige utfordringer med dagens lov gjennom samtale og møter med aktører på opplæringsfeltet og gjennom undersøkelser av opplæringslovens språk i prosjektet Klart lovspråk.[^381] Det er flere utfordringer med den språklige utformingen og oppbyggningen av dagens lov; disse er nærmere beskrevet i kapittel 9.3.
 
-Menneskerettsloven
+For å forbedre språket i forslaget til ny lov har utvalget gjort flere grep.
 
-Opplæringsloven
+*For det første* har utvalget tatt utgangspunkt i det språkreviderte lovutkastet som ble utviklet i samarbeid med Språkrådet og Justis- og beredskapsdepartementets lovavdeling som en del av prosjektet Klart lovspråk.
 
-Forskrift til
-opplæringsloven
+*For det andre* har utvalget vært oppmerksom på behovet for å lage en lov med god struktur og godt språk fra starten av arbeidet. På det første utvalgsmøtet ble erfaringene og lovutkastet fra prosjektet Klart lovspråk, presentert av ansvarlig for prosjektet Elisabeth Harlem Eide. Eide har også vært en del av utvalgets sekretariat. På det første møtet la utvalget en plan for arbeidet med språket i loven.
 
-Overordnet del
+*For det tredje* har utvalget drøftet utformingen av enkelte lovbestemmelser med referansegruppen og andre.
 
-Lokale
-forskrifter
+*For det fjerde* har utvalget valgt å arbeide med språket sammen i stor utstrekning. Utvalgets medlemmer har vært med å diskutere språket i alle bestemmelsene i lovutkastet. Det har altså ikke vært slik at juristene i utvalget og sekretariatet har arbeidet særskilt med lovteksten. Bakgrunnen er nettopp ønsket om at språket i loven skal være noe skolefolket kjenner seg igjen i og lett forstår. En innvending som er framført mot dagens lov, er at loven tydelig er skrevet av jurister, og at språket er deretter. Utvalget har ønsket at språket skal ligge nært et allment, godt språk.
 
-Skoleregler
+*For det femte* er deler av loven brukertestet. Resultatene fra brukertestingen er tatt med i vurderingene av språklige og strukturelle valg.
 
-Læreplanverket
+*For det sjette* har utvalget brukt Bård Eskeland fra Språkrådet som språkrådgiver. Eskeland har lest og kommentert hele lovutkastet. I tillegg har han deltatt på ni skriveverksteder sammen med utvalgsleder og sekretariatet.
 
-Figur 13.2 Strukturen for den foreslåtte regelstyringen
+Noen av disse tiltakene vil bli kommentert i det følgende.
 
-planverket. I tillegg er oversikten over utdanningstilbudet som fører fram til studiekompetanse
-eller yrkeskompetanse (tilbudsstrukturen) styrende for hvilken videregående opplæring som tilbys. Regler som gjelder for den enkelte skole og
-elev gis i skolereglene.
-Hvem som fastsetter reglene, hvordan de fastsettes og hva det kan gis regler om, varierer mellom de ulike kategoriene. Målet er å lage en overordnet regelverksstruktur, der det er lett å finne
-fram, lett å forstå hva reglene dreier seg om og
-lett å finne og forstå reglene.
-Overordnede og generelle regler i opplæringsloven retter seg i prinsippet mot alle. De viktigste
-brukerne av dette regelverket er kommunene,
-skolene og ansatte i skolen. I tillegg inneholder
-loven viktige rettighetsbestemmelser som det
-også er viktig at elevene og foreldrene kan forstå.
-Læreplanverket retter seg først og fremst mot fagpersonene i skolen, skoleledelsen og lærerne.
-Skolereglene (se kapittel 22) retter seg primært
-mot elevene.
-Læreplanverket er i dagens form ikke er gjenkjennbart som forskrift eller rettstoff for andre
-enn dem som kjenner særskilt til læreplanverket.
-Det er derfor særlig viktig at det framgår av loven
-hva det rettslige grunnlaget for å gi læreplaner er
-(hjemmelen), og hvilke overordnede regler og
-målsettinger læreplanverket er ment å gjennomføre. Det er viktig å synliggjøre sammenhengen
-mellom reglene. Sammenhengen vil være tydeligere med de foreslåtte innledningskapitlene i lovforslaget enn med dagens lov.
+## Testing av gjeldende og foreslått lovspråk
 
-Grunnloven og menneskerettsloven, særlig
-gjennomføringen av barnekonvensjonen, gir overordnede grenser og innholdsmessige føringer for
-regelstyringen av grunnopplæringen. Det viktigste grunnlaget for regelstyringen av grunnopplæringen er opplæringsloven.
-Opplæringsloven presiseres og utfylles gjennom forskrifter. På opplæringsfeltet foreslåt utvalget fire kategorier av forskrifter. Det er forskrift til
-opplæringsloven. Det er læreplanverket som
-består av to deler: overordnet del av læreplanverket og læreplanverket for øvrig (inkludert tilbudsstrukturen). I tillegg er det lokale forskrifter med
-bestemmelser fastsatt av kommunene om skoledriften i kommunene, for eksempel forskrifter
-om skolekretser, skoleruta, lokale inntaksforskrifter og undervisningstid utover fag- og timefordelingen. Kommunene bør tilstrebe å gi en samlet
-forskrift om alle lokale spørsmål, som ikke faller
-under neste kategori. Den siste kategorien er
-lokale forskrifter i form av skoleregler, som vedtas
-av den enkelte kommune eller det beslutningsnivået kommunen har delegert det til, gjerne en
-skole.
-Dersom disse kategoriene rendyrkes, kan det
-bidra til at det er tydeligere hvem regelkategoriene retter seg mot, og hva reglene gjelder. Det vil
-bidra til en oversiktlig og gjenkjennbar regelstyring.
-Forslaget til ny lov innebærer at de to første
-kapitlene i loven inneholder bestemmelser om følgende:
-– formålet med loven
-– formålet med opplæringen
+Flere tester av språket i opplæringsloven er lagt til grunn i utvalgets arbeid. Det går et skille mellom testene av dagens opplæringslov og tester av utvalgets forslag. Testene av dagens opplæringslov er det redegjort for i kapittel 9.3, 13.6 og 13.7. I kapittel 13.3 er det redegjort for testingen av utvalgets forslag og bruken av den i lovarbeidet.
 
-[Side 185]
+Det er flere utfordringer med slik brukertesting av *gjeldende* og *foreslått* lovtekst.
 
-NOU 2019: 23
-Ny opplæringslov
+En særlig utfordring med foreslått lovtekst er at den ennå ikke er tatt i bruk. Det innebærer blant annet at viktige hjelpemidler som forarbeider og veiledninger ikke foreligger. Det innebærer også at tekstene testes før det er gjort et implementeringsarbeid, som man må forutsette at blir gjort ved enhver større lovrevisjon, se om utvalgets anbefalinger til implementering i kapittel 55. Det er altså en kunstig testsituasjon der lovteksten leses isolert og uten at leseren har forkunnskaper om lovverket og teksten.
 
-–
-–
-–
-–
-–
-–
-–
-–
-–
+En annen begrensning ved testing av foreslåtte tekster er at det først er i sluttfasen at det foreligger gode nok tekstforslag til at det gir mening å teste. Det vil ikke være mulig å stille arbeidet i bero i påvente av omfattende testing. Det innebærer at testing av foreslått lovtekst med nødvendighet må gjennomføres over kort tid av hensyn til framdriften i lovprosessen. Det fører igjen til at det er nødvendig å begrense mengden tekst som testes, antallet informanter som er med på testen, og hvor grundig den etterfølgende analysen kan bli.
 
-krav til forsvarlig opplæring
-læreplanverket og utdanningstilbudet
-ansvaret for opplæringen
-det beste for barnet
-elevenes medvirkning
-samarbeid med foreldrene
-skoledemokratiet og elevenes rett til å ytre seg
-skoleregler
-informasjon til elever og foreldre
+Det er i tillegg en del metodiske begrensninger som er *felles* for testing av gjeldende og foreslått lovtekst. Noen av disse begrensningene omtales kort her.
 
-13.8.2 Hvordan bør loven deles inn?
+I Norge har flere lover blitt brukertestet de siste årene. Testene er utført av ulike konsulent- og forskermiljøer. Metoden som er brukt, er stort sett at leserne har lest lovtekster for deretter å svare på om de forstår teksten. Lov- og regelspråk er en særegen sjanger som skiller seg fra annen sakprosa. For at leseren skal kunne bruke en lov må leseren forstå at lovbestemmelser kan være relevante, og deretter finne og forstå dem, for til sist å kunne anvende dem på sin sak.
+
+Brukertestene, slik de hittil er lagt opp, tester stort sett om leseren klarer å forstå bestemmelsene, og i noen grad om det er lett å finne fram i loven. En vesentlig begrensning er at lesning innenfor rammen av en test skiller seg fra virkelighetens lesing på flere måter.
+
+Testene prøver bare en del av det en leser må håndtere for å bruke lovteksten. I virkeligheten vil man lese lovteksten fordi man har et konkret behov for å løse et rettsspørsmål som har oppstått. Leseren vil typisk også konsultere andre kilder som forarbeider, og i opplæringsektoren helst veiledninger eller tolkningsuttalelser. Mange vil konferere med kollegaer eller oppsøke veiledning andre steder, for eksempel fra kommuneadministrasjonen eller fra Utdanningsdirektoratet. Dersom man leser lovteksten for første gang, og ikke søker veiledning, kan det være at man er for streng i sin vurdering. Det kan for eksempel være skjønnsmessige vurderinger som ikke ved umiddelbar lesning gir klare svar, men som krever veiledning, refleksjon eller kollegadrøftinger, se om skjønnsmessige vurderinger for eksempel i kapittel 10.3 og kapittel 12.6.
+
+Slik testing kan også gi et overfladisk inntrykk av at loven er lett å bruke. Det gjelder særlig om man bare tar utgangspunkt i spørsmålet om lovteksten forstås uten at leseren konfronteres med anvendelsen av teksten på en faktisk situasjon. Ofte kan bestemmelsen framstå som lett å forstå ved lesning, mens den reelle utfordringen ligger i å anvende bestemmelsen på virkelige situasjoner.
+
+Disse begrensningene betyr etter utvalgets oppfatning likevel ikke at brukertester av foreslått lovtekst ikke er nyttig. Vurdert opp mot den totale ressursbruken på å implementere og å etterleve opplæringsloven, er ressursene brukt på testing i lovforberedelsen forsvinnende liten. Det er også slik at disse testene absolutt kan gi grunnlag for refleksjon og vurderinger, dersom man samtidig tar hensyn til begrensningene.
+
+Det er også viktig å se testene i sammenheng med andre kunnskapskilder. I en undersøkelse som OsloMet har gjort på oppdrag fra utvalget, er for eksempel lærernes evne til å bruke opplæringsloven testet med bruk av konkrete caser («vignetter»). Casene er små faktiske situasjoner som lærerne bes om å vurdere i lys av opplæringsloven.[^382] Funnene fra denne undersøkelsen har også kastet lys over hva brukerne av loven kan streve med.
+
+## Test av utvalgets forslag til ny opplæringslov
+
+Utvalget har engasjert NTB Arkitekst til å gjennomføre test av lovspråket i utkastet til ny opplæringslov. Testen ble gjennomført i perioden juni til august 2019. Undersøkelsen var lagt opp som semi-strukturerte dybdeintervjuer med utgangspunkt i en intervjuguide. Det var til sammen ni informanter: to foreldre, tre elever i videregående skole, to skolebyråkrater (fylkesmannen og kommunen), én rektor og én lærer. Intervjuene ble gjennomført på telefon. Informantene fikk tilsendt teksten rett før testen, med beskjed om at de ikke trengte å forberede seg. Intervjuene tok utgangspunkt i oppgaver, testing av alternativer og refleksjon med utgangspunkt i teksten. Testen var avgrenset til forslagets kapittel 2 og kapittel 3, i tillegg til bestemmelsen om inndeling av elever i grupper. Utvelgelsen ble gjort av sekretariatet i samråd med utvalgsleder.
+
+Hovedfunnene i undersøkelsen var at informantene lett finner fram i utkastet og i all hovedsak forstår innholdet veldig godt. Ingen av funnene i undersøkelsen tilsier at språket eller strukturen i utkastet skaper problemer for informantene. Valget av nynorsk som lovskriftspråk er ikke et stort problem for leserne. På bakgrunn av testen er konklusjonen til NTB Arkitekst at «\[d\]et aller meste er helt på sporet, det er ingen grunn til å tenke helt nytt på bakgrunn av denne testen.»[^383]
+
+Testen ga også en del konkrete innspill som utvalget har vurdert og fulgt opp i arbeidet med språket etter testen. Et eksempel er at leserne ikke synes overskriften til kapittel 2 «Eleven i skolen» ga særlig veiledning om hvilke bestemmelser kapitlet inneholdt.
+
+## Enkelte språklige og strukturelle valg
+
+Utvalget har søkt å ta på alvor tilbakemeldingene som har kommet fra flere hold om at loven og tekster i tilknytning til loven er preget av juristspråk. Det innebærer at i valget mellom ulike språklige alternativer som stort sett betyr det samme, har utvalget brukt det alternativet som ligger nærmest allmennspråket.
+
+Et konkret eksempel er at utvalget har lagt til grunn følgende anbefaling fra Lovstrukturutvalget:
+
+Den enkelte paragraf bør inndeles ved *avsnitt* og *setninger*. Dette er det som i dag i juridisk terminologi kalles ledd og punktum. Med setning mener vi det som etter korrekt språkterminologi egentlig heter periode. Når vi likevel har valgt «setning», skyldes det at vi antar at «setning» er lettere å forstå for de fleste enn «periode».[^384]
+
+Utvalget har opplevd og har blitt fortalt at det er mange som ikke forstår den den juridiske terminologien «ledd» og «punktum». Det er etter utvalgets oppfatning unødvendig at det skal oppstå usikkerhet i praksis på grunn av slike særegne juridiske uttrykksmåter. Det er heller ikke sannsynlig at rektorer og lærere vil lære seg denne terminologien bedre i framtiden. Det kan innvendes mot å bruke «setning» at det kan referere til både delsetning og hovedsetning. Denne tvetydigheten vil nok ikke føre til problemer i praksis. Stort sett vil det være klart ut fra sammenhengen hva det siktes til. Uansett er den usikkerheten denne tvetydigheten kan skape, et mindre problem enn «ledd» og «punktum», som mange brukere rett og slett ikke forstår hva sikter til.
+
+Utvalget har tatt hensyn til at lovtekster i dag i svært stor utstrekning leses digitalt. Det har konsekvenser for flere språklige og strukturelle valg. Et eksempel er at inndelingen av deler og kapitler og utformingen av overskrifter er gjort med tanke på at loven vil bli lest i et digitalt grensesnitt og bør være lett å navigere i digitalt. Et annet eksempel er at det er brukt flere henvisninger i lovforslaget enn det nok ville vært gjort om loven ble utformet med tanke på analog bruk alene. Det er adskillig lettere for den gjengse lovleser å følge henvisningene digitalt, enn det er analogt.
+
+## Skal loven skrives på nynorsk eller bokmål?
+
+Lovens skriftspråk (målform) har kommet opp i noen av samtalene som utvalget har hatt med aktører i opplæringssektoren. Verken ansatte i kommuneadministrasjonen eller lærere trekker fram lovens skriftspråk som en utfordring, men blant elevene opplever noen at det er en utfordring at loven i dag er på nynorsk. Et poeng som utvalget ble gjort oppmerksom på, er at de fleste samiske elever ikke har nynorsk, og at loven dermed er på et skriftspråk som noen kan oppleve som vanskelig. En tilsvarende utfordring gjelder for minoritetsspråklige elever som har fritak fra nynorsk. Motsatt kan det vært en utfordring for minoritetsspråklige elever som har fritak fra bokmål, dersom loven hadde vært på denne målformen.
+
+Bokmål og nynorsk er likestilte skriftspråk i Norge, jf. mållova § 1. I lover og forskrifter er det overvekt av bokmål. I underkant av 16 prosent av alle lover er skrevet på nynorsk.[^385] St.meld. nr. 35 (2007–2008) *Mål og meining* slår fast at minst 25 prosent av lovverket regnet i tekstmengde, skal være på nynorsk. Språkrådet påpeker at flere nye lover og forskrifter bør skrives på nynorsk, og at det er viktig å ta vare på de nynorske lovene og forskriftene vi har.[^386] Dersom en lov på nynorsk skal byttes ut, bør den nye loven også være på nynorsk, ikke bokmål. I og med at dagens opplæringslov er på nynorsk, mener utvalget at ny opplæringslov også bør være på nynorsk. Dette vil dessuten bidra til å nå målet om at minst 25 prosent av lovverket regnet i tekstmengde skal være på nynorsk. I utvalgets forslag til ny opplæringslov brukes derfor nynorsk som skriftspråk.
+
+Dagens opplæringslov ble brukertestet i forbindelse med prosjektet Klart lovspråk. Brukertestingen avdekket at noen av informantene synes at det er utfordrende med nynorsk som lovspråk, blant annet fordi de bruker lengre tid på å forstå og lese loven, og at vanskelige nynorske ord skaper misforståelser og usikkerhet. For noen kan nynorsk være en barriere mot å bruke loven mer aktivt.[^387] Det er grunn til å understreke at det er tale om en relativt begrenset undersøkelse med 14 informanter som er dybdeintervjuet. Utvalget har vært bevisst på at nynorsk kan være en utfordring for noen brukere. Når det finnes to eller flere alternative former av et ord (valgfrie former), har utvalget derfor valgt bort ord og uttrykk som kan være utfordrende.
+
+I brukertesten gjennomført av NTB Arkitekst på deler av utvalgets forslag, opplevede ikke informantene at det nynorske språket var et problem for forståelsen.
+
+## Hvem leser loven?
+
+Analyseselskapet Oxford Research har kartlagt hvordan opplæringsloven forstås og fungerer i dag. Kartleggingen inngår som en del av kunnskapsgrunnlaget i prosjektet Klart lovspråk, og den bidrar med ny kunnskap om bruken av lovtekster, brukernes tilnærming til rettsspørsmål og opplevelsen av språket i lovtekster.[^388] Kartleggingen viser at de ansatte i forvaltningen bruker loven mye og gjerne leser den på lovdata.no. Statistikk som Oxford Research har hentet inn, viser at opplæringsloven på lovdata.no i snitt har 267 000 unike sidevisninger hvert år. Loven har et stort tilfang av nye lesere hvert år.
+
+Kartleggingen viser at borgerne i liten grad leser lovteksten direkte. Med borgere siktes det i undersøkelsen til elever, foreldre, voksne elever og lærere. Oxford Research definerte lærere som borgere fordi de i liten grad har direkte saksbehandlingsansvar. Borgerne eksponeres for loven først og fremst i form av utdrag i vedtaksbrev, veiledninger og andre dokumenter fra det offentlige. Borgerne er heller ikke alltid klar over at det de er opptatt av, er regulert ved lov.
+
+## Hvilke forutsetninger har forvaltningen og borgerne for å bruke og forstå loven, og hva gjør brukerne av loven når de trenger veiledning?
+
+Lovtekster har ulike lesere med varierende bakgrunnskunnskap og juridisk kompetanse. Samspillet mellom den konkrete utformingen av lovteksten og leserens bakgrunnskunnskap kan føre til dilemmaer. Dette krever i sin tur diskusjon, undersøkelser og avklaringer.
+
+I offentlig forvaltning varierer den formelle juridiske kompetansen. I mindre kommuner er det for eksempel mindre utbredt å ha ansatte jurister som arbeider med spesialfelt. Dette betyr at forståelsen av en lovtekst og kjennskap til tolkninger av lovverket også kan være ujevnt fordelt i ulike deler av samfunnet og på de ulike nivåene i forvaltningen. Ifølge Juristforbundet var det i 2016 bare rundt 150 av landets 434 kommuner, det vil si cirka 34 prosent av kommunene, som hadde ansatt egne jurister.[^389] En undersøkelse fra 2010 basert på tall fra KS, viser at det bare var 13 ansatte med juridisk embetseksamen i de 131 kommunene med opptil 2 500 innbyggere. Selv blant de 103 kommunene med opptil 5 000 innbyggere var det bare 25 ansatte med denne kompetansen.[^390] I Meld. St. 14 (2014–2015) om kommunereformen er det pekt på at det er stor ulikhet i hvor gode og store kommunenes fagmiljøer er. I mange små kommuner vil tilfeldige svingninger i innbyggernes etterspørsel, samt variasjoner i fagmiljøenes kompetanse, kunne gi store konsekvenser for innbyggerne og kommunene.
+
+NTNUs Institutt for språk og litteratur og Program for lærerutdanning har gjennomført en undersøkelse av leseforståelsen og tekstanalyse av dagens opplæringslov.[^391]
+
+Studien inngår i kunnskapsgrunnlaget i prosjektet Klart lovspråk. Så å si alle informantene i undersøkelsen oppgir at det er nødvendig å konsultere andre tekster, fagfeller eller bekjente for å avklare betydningen av enkeltord og komplekse passasjer i loven. Kartleggingen som ble gjennomført av Oxford Research, viser det samme. Både NTNUs undersøkelse og Oxford Researchs kartlegging viser at det er forskjeller mellom ulike brukeres strategier for å navigere i eller forstå lovteksten. Det er et skille mellom tekstorienterte strategier og sosiale strategier.
+
+Forvaltningsansatte er i stor grad tekstorientert når de har behov for å forstå og tolke loven, og de har også flere tekstbaserte strategier til rådighet enn de andre brukerne. De profesjonelle brukerne orienterer seg i forarbeider, forskrifter, kommentarutgaver, tolkningsuttalelser, rundskriv og veiledninger. Saksbehandlere opplyser at de ofte bruker lang tid på å finne svar på det de lurer på. Profesjonelle brukere som har juristutdanning eller jobber i et profesjonelt fellesskap, har etablerte linjer som de følger i egen virksomhet for å avklare tolkningsspørsmål. Rektorer tar ofte kontakt med kommunen og eventuelt fylkesmannen eller kollegaer ved behov for juridiske avklaringer. Behovet er avhengig av sakens alvorlighetsgrad og usikkerheten som er heftet ved selve lovteksten. Rektor kan også diskutere saker med andre rektorer, men karakteriserer dette som et «minefelt», fordi noen rektorer legger personlige tolkninger og referanserammer til grunn for lokale vedtak. Nye rektorer kan «faktisk bli vranglært» dersom de forholder seg for mye til sin egen yrkesgruppe og ikke følger tjenestevei i juridiske spørsmål, kommenterer en av rektorene i NTNUs undersøkelse.
+
+Innbyggerne har en annen framgangsmåte enn ansatte i forvaltningen for å forstå regelverket. Undersøkelsene viser at brukere som ikke tilhører et profesjonelt fortolkningsfellesskap der lovtekster diskuteres, raskere griper til sosiale strategier som å kontakte offentlig ansatte, interesseorganisasjoner, familie, venner og bekjente eller å søke juridisk støtte på annet vis. I NTNUs undersøkelse sier foreldrene at de ville ha spurt rektor eller inspektører ved skolen dersom noe var uklart i loven. Men de kan også forestille seg konflikter der skolen er motpart. Da ville de ha spurt advokater i foreldregruppen eller tatt opp saken på kommune- eller fylkesmannsnivå for å finne juridisk kompetanse.
+
+Slike strategier for å forstå lovtekst er ikke uønsket eller uhensiktsmessig. Det er ikke nødvendigvis slik at all lovtekst kan forstås umiddelbart, og at alle enkeltlesere forstår loven likt etter å ha lest loven alene. Tvert om er det som omtales som sosiale strategier, en viktig del av lovimplementeringen, og slike strategier danner også et godt grunnlag til å etablere konsensus om hvordan lovverket skal forstås. Målet må være å lage en lovtekst som ikke skaper unødvendige vansker for lovleseren.
+
+Undersøkelser viser at skjønnsbegreper, uoversiktlig tekststruktur og manglende navigeringshjelp gjør det vanskelig å orientere seg og skape mening i loven. Siden opplæringsloven regulerer et område som berører livet til mange mennesker, kan uklarheter føre til unødvendige økonomiske, sosiale og personlige kostnader. Å gjøre lovtekstene mer forståelige kan bidra til at innholdet blir mer tilgjengelig for folk flest og dermed redusere behovet for råd og veiledning fra forvaltningen. Samtidig vil mindre bruk av vage ord og uttrykk og mer presisering kunne innebære mindre lokalt handlingsrom og et mer rigid lovverk.
+
+Det er et mål at innholdet i forslaget til ny lov skal bli så lett tilgjengelig og forståelig som mulig for alle dem som loven retter seg mot. Det gjelder både forvaltningen som styrer, og innbyggerne som blir styrt. For at loven skal bli et effektivt virkemiddel for å styre grunnopplæringen, er det også en forutsetning at loven er praktisk anvendbar og at brukerne vet og forstår hva loven sier.
+
+## Oppbygningen av det nye regelverket
+
+### Hvordan regelverket for grunnopplæringen er organisert
+
+Dagens regelstyring av opplæringssektoren er uoversiktlig. Det går for eksempel ikke an å lese ut av loven på en enkel måte hvordan regelverket for grunnopplæringen er organisert. For å bedre dette, foreslår utvalget to innledende kapitler i loven som gir leseren en introduksjon til ulike deler av opplæringsregelverket, som læreplanverket og skoleregler, se forslag til §§ 1-4 og 2-5. I tillegg foreslår utvalget en innledende bestemmelse om hvem reglene er rettet mot, og om hva loven gjelder.
+
+Overordnede regler for grunnopplæringen framgår av Grunnloven og folkeretten, se omtale av sentrale bestemmelser i Grunnloven i kapittel 7.2 og om Norges folkerettslige forpliktelser i kapittel 7.3. Generelle regler framgår av opplæringsloven og forskriftene gitt med hjemmel i loven. Skolens demokrati- og dannelsesoppdrag styres hovedsakelig gjennom formålsparagrafen i § 1-1 og den overordnede delen av læreplanverket. Innholdet i opplæringen styres gjennom læreplanverket. I tillegg er oversikten over utdanningstilbudet som fører fram til studiekompetanse eller yrkeskompetanse (tilbudsstrukturen) styrende for hvilken videregående opplæring som tilbys. Regler som gjelder for den enkelte skole og elev gis i skolereglene.
+
+Hvem som fastsetter reglene, hvordan de fastsettes og hva det kan gis regler om, varierer mellom de ulike kategoriene. Målet er å lage en overordnet regelverksstruktur, der det er lett å finne fram, lett å forstå hva reglene dreier seg om og lett å finne og forstå reglene.
+
+Overordnede og generelle regler i opplæringsloven retter seg i prinsippet mot alle. De viktigste brukerne av dette regelverket er kommunene, skolene og ansatte i skolen. I tillegg inneholder loven viktige rettighetsbestemmelser som det også er viktig at elevene og foreldrene kan forstå. Læreplanverket retter seg først og fremst mot fagpersonene i skolen, skoleledelsen og lærerne. Skolereglene (se kapittel 22) retter seg primært mot elevene.
+
+Læreplanverket er i dagens form ikke er gjenkjennbart som forskrift eller rettstoff for andre enn dem som kjenner særskilt til læreplanverket. Det er derfor særlig viktig at det framgår av loven hva det rettslige grunnlaget for å gi læreplaner er (hjemmelen), og hvilke overordnede regler og målsettinger læreplanverket er ment å gjennomføre. Det er viktig å synliggjøre sammenhengen mellom reglene. Sammenhengen vil være tydeligere med de foreslåtte innledningskapitlene i lovforslaget enn med dagens lov.
+
+\[:figur:figX-X.jpg\]
+
+Strukturen for den foreslåtte regelstyringen
+
+Grunnloven og menneskerettsloven, særlig gjennomføringen av barnekonvensjonen, gir overordnede grenser og innholdsmessige føringer for regelstyringen av grunnopplæringen. Det viktigste grunnlaget for regelstyringen av grunnopplæringen er opplæringsloven.
+
+Opplæringsloven presiseres og utfylles gjennom forskrifter. På opplæringsfeltet foreslåt utvalget fire kategorier av forskrifter. Det er forskrift til opplæringsloven. Det er læreplanverket som består av to deler: overordnet del av læreplanverket og læreplanverket for øvrig (inkludert tilbudsstrukturen). I tillegg er det lokale forskrifter med bestemmelser fastsatt av kommunene om skoledriften i kommunene, for eksempel forskrifter om skolekretser, skoleruta, lokale inntaksforskrifter og undervisningstid utover fag- og timefordelingen. Kommunene bør tilstrebe å gi en samlet forskrift om alle lokale spørsmål, som ikke faller under neste kategori. Den siste kategorien er lokale forskrifter i form av skoleregler, som vedtas av den enkelte kommune eller det beslutningsnivået kommunen har delegert det til, gjerne en skole.
+
+Dersom disse kategoriene rendyrkes, kan det bidra til at det er tydeligere hvem regelkategoriene retter seg mot, og hva reglene gjelder. Det vil bidra til en oversiktlig og gjenkjennbar regelstyring.
+
+Forslaget til ny lov innebærer at de to første kapitlene i loven inneholder bestemmelser om følgende:
+
+- formålet med loven
+
+- formålet med opplæringen
+
+- krav til forsvarlig opplæring
+
+- læreplanverket og utdanningstilbudet
+
+- ansvaret for opplæringen
+
+- det beste for barnet
+
+- elevenes medvirkning
+
+- samarbeid med foreldrene
+
+- skoledemokratiet og elevenes rett til å ytre seg
+
+- skoleregler
+
+- informasjon til elever og foreldre
+
+### Hvordan bør loven deles inn?
+
 Innledning
-Hvordan bør loven deles inn i kapitler, eventuelt
-også i deler, og hvor bør regler med forskjellig
-innhold plasseres? Dette er spørsmål som handler
-om lovens interne struktur. Oppbygningen av en
-lov har mye å si for hvor tilgjengelig loven er for
-dem som skal lese og anvende den. I tillegg har
-også innholdet, omfanget og språket betydning
-for hvor brukervennlig en lov er. Nedenfor redegjør utvalget for ulike måter å dele inn loven på.
+
+Hvordan bør loven deles inn i kapitler, eventuelt også i deler, og hvor bør regler med forskjellig innhold plasseres? Dette er spørsmål som handler om lovens interne struktur. Oppbygningen av en lov har mye å si for hvor tilgjengelig loven er for dem som skal lese og anvende den. I tillegg har også innholdet, omfanget og språket betydning for hvor brukervennlig en lov er. Nedenfor redegjør utvalget for ulike måter å dele inn loven på.
+
 Dagens opplæringslov
-Dagens lov inneholder 18 kapitler og har en blanding av kapitler inndelt etter opplæringstype og
-etter særskilte temaer.
-Loven inneholder fire kapitler etter opplæringstype: grunnskoleopplæring (kapittel 2),
-videregående opplæring (kapittel 3), videregående opplæring i bedrift (kapittel 4) og grunnskoleopplæring og videregående opplæring for
-voksne (kapittel 4A). Hvert av disse fire kapitlene
-inneholder bestemmelser som bare gjelder den
-enkelte opplæringstypen. I tillegg er det 11 kapitler med særskilte temaer (kapitlene 5 til og med
-14). Loven har også et kapittel om bruk av forvaltningsloven (kapittel 15), et innledende kapittel
-(kapittel 1) og et avsluttende kapittel (kapittel 16).
-De 11 kapitlene med særskilte temaer inneholder paragrafer som gjelder både grunnskoleopplæring og videregående opplæring. Noen paragrafer i disse kapitlene gjelder for begge opplæringstypene, og noen paragrafer gjelder bare
-grunnskoleopplæring eller bare videregående
-opplæring. Atter andre paragrafer inneholder en
-blanding av regler, der enkelte avsnitt i paragrafen
-gjelder grunnskoleopplæring, og enkelte avsnitt
-gjelder videregående opplæring.
-Den ovennevnte inndelingen er lite oversiktlig.
-Det kan derfor være utfordrende å finne fram og
-navigere i loven. Funnene i undersøkelser gjennomført av NTNU12 og Opinion AS13 på vegne av
 
-183
+Dagens lov inneholder 18 kapitler og har en blanding av kapitler inndelt etter opplæringstype og etter særskilte temaer.
 
-Kapittel 13
+Loven inneholder fire kapitler etter opplæringstype: grunnskoleopplæring (kapittel 2), videregående opplæring (kapittel 3), videregående opplæring i bedrift (kapittel 4) og grunnskoleopplæring og videregående opplæring for voksne (kapittel 4A). Hvert av disse fire kapitlene inneholder bestemmelser som bare gjelder den enkelte opplæringstypen. I tillegg er det 11 kapitler med særskilte temaer (kapitlene 5 til og med 14). Loven har også et kapittel om bruk av forvaltningsloven (kapittel 15), et innledende kapittel (kapittel 1) og et avsluttende kapittel (kapittel 16).
 
-Direktoraret for forvaltning og ikt (Difi) som en
-del av prosjektet Klart lovspråk, bekrefter dette.
-NTNU peker på at hovedproblemet med strukturen i dagens opplæringslov er at den har en lite
-intuitiv inndeling i kapitler. Videre nevnes det at
-inndelingen gjør det vanskelig å få oversikt over
-hva som gjelder for de ulike opplæringstypene.
-Tilsvarende kom fram i en undersøkelse gjennomført av Oxford Research,14 hvor informanter fra
-den statlige forvaltningen ga uttrykk for at loven
-har en forholdsvis krevende struktur, og at dette
-gjør loven mindre tilgjengelig enn den kunne ha
-vært.
-Også referansegruppen har gitt uttrykk for at
-opplæringsloven er lite tilgjengelig. For eksempel
-opplever Skolelederforbundet at dagens regelverk er uoversiktlig. Barneombudet viser til at
-regelverket er omfangsrikt og fragmentert og at
-dette er en utfordring for rettssikkerheten. Se
-nærmere omtale av lovens tilgjengelighet i kapittel 9.3.2.
+De 11 kapitlene med særskilte temaer inneholder paragrafer som gjelder både grunnskoleopplæring og videregående opplæring. Noen paragrafer i disse kapitlene gjelder for begge opplæringstypene, og noen paragrafer gjelder bare grunnskoleopplæring eller bare videregående opplæring. Atter andre paragrafer inneholder en blanding av regler, der enkelte avsnitt i paragrafen gjelder grunnskoleopplæring, og enkelte avsnitt gjelder videregående opplæring.
+
+Den ovennevnte inndelingen er lite oversiktlig. Det kan derfor være utfordrende å finne fram og navigere i loven. Funnene i undersøkelser gjennomført av NTNU[^392] og Opinion AS[^393] på vegne av Direktoraret for forvaltning og ikt (Difi) som en del av prosjektet Klart lovspråk, bekrefter dette. NTNU peker på at hovedproblemet med strukturen i dagens opplæringslov er at den har en lite intuitiv inndeling i kapitler. Videre nevnes det at inndelingen gjør det vanskelig å få oversikt over hva som gjelder for de ulike opplæringstypene. Tilsvarende kom fram i en undersøkelse gjennomført av Oxford Research,[^394] hvor informanter fra den statlige forvaltningen ga uttrykk for at loven har en forholdsvis krevende struktur, og at dette gjør loven mindre tilgjengelig enn den kunne ha vært.
+
+Også referansegruppen har gitt uttrykk for at opplæringsloven er lite tilgjengelig. For eksempel opplever Skolelederforbundet at dagens regelverk er uoversiktlig. Barneombudet viser til at regelverket er omfangsrikt og fragmentert og at dette er en utfordring for rettssikkerheten. Se nærmere omtale av lovens tilgjengelighet i kapittel 9.3.2.
+
 Ulike måter å dele inn en lov på
+
 Innledning
-Ved valg av lovstruktur bør hensynet til brukerne,
-det vil si de som skal lese og anvende loven, veie
-tungt. Oppbygningen skal være lettfattelig, og det
-skal være enkelt å finne fram i loven. Det følger av
-Lovteknikk og lovforberedelse at regler om
-lovens formål og virkeområde skal plasseres først
-i loven. Helt til slutt skal bestemmelser om ikrafttredelse, endringer i andre lover mv. plasseres.
-Hoveddelen av en lov inneholder som oftest
-regler om rettigheter og plikter og regler om myndigheten og ansvaret til offentlige organer. Inndelingen av disse reglene i kapitler og eventuelt i
-deler, kan gjøres på ulike måter. Rekkefølgen på
-bestemmelsene i en lovs hoveddel vil som regel
-være påvirket av hva loven regulerer.
-Reglene i en lov kan grupperes etter hovedområder, temaer, kronologi, hvem de ulike reglene
-retter seg mot, eller hvem som er pliktsubjekt.
-Det kan også være en kombinasjon av noen av
-disse grupperingene, og det kan tenkes andre
-måter å dele inn lover på. Når det gjelder plassering av ulike bestemmelser i loven, kan eksempelvis de viktigste og mest sentrale bestemmelsene,
-eller reglene om hvem som har ansvaret, plassers
-først i loven.
-12
-13
-14
 
-Vatn & Fjørtoft, 2015.
-Høidahl & Flatebø 2016.
-Viblemo et al., 2015.
+Ved valg av lovstruktur bør hensynet til brukerne, det vil si de som skal lese og anvende loven, veie tungt. Oppbygningen skal være lettfattelig, og det skal være enkelt å finne fram i loven. Det følger av Lovteknikk og lovforberedelse at regler om lovens formål og virkeområde skal plasseres først i loven. Helt til slutt skal bestemmelser om ikrafttredelse, endringer i andre lover mv. plasseres.
 
-[Side 186]
+Hoveddelen av en lov inneholder som oftest regler om rettigheter og plikter og regler om myndigheten og ansvaret til offentlige organer. Inndelingen av disse reglene i kapitler og eventuelt i deler, kan gjøres på ulike måter. Rekkefølgen på bestemmelsene i en lovs hoveddel vil som regel være påvirket av hva loven regulerer.
 
-184
-
-Kapittel 13
-
-NOU 2019: 23
-Ny opplæringslov
+Reglene i en lov kan grupperes etter hovedområder, temaer, kronologi, hvem de ulike reglene retter seg mot, eller hvem som er pliktsubjekt. Det kan også være en kombinasjon av noen av disse grupperingene, og det kan tenkes andre måter å dele inn lover på. Når det gjelder plassering av ulike bestemmelser i loven, kan eksempelvis de viktigste og mest sentrale bestemmelsene, eller reglene om hvem som har ansvaret, plassers først i loven.
 
 Inndeling av loven etter hovedområdene i loven
-En inndeling etter hovedområdene som loven
-regulerer, vil for opplæringsloven innebære at
-loven deles inn etter de ulike opplæringstypene:
-1) grunnskoleopplæring, 2) videregående opplæring og 3) grunnskoleopplæring og videregående
-opplæring for voksne. Forslaget fra prosjektet
-Klart lovspråk er basert på denne inndelingen,
-men ikke som en fullstendig rendyrket modell.
-Den klare fordelen med denne løsningen er at
-de som skal lese og anvende loven, vil finne alt om
-den aktuelle opplæringstypen samlet. Fordelen
-med inndeling etter opplæringstype sammenlignet med inndeling etter pliktsubjekt er at alle
-reglene innenfor én opplæringstype behandles
-samlet uavhengig av om pliktene er lagt på kommunen, fylkeskommuner, rektor eller andre. En
-ulempe er at det vil bli flere dobbeltreguleringer
-(gjentakelser) og dermed flere paragrafer dersom
-det som i dag skal være en del likelydende plikter
-for kommuner og fylkeskommuner. En inndeling
-etter opplæringstype kan også gjøre det vanskeligere å få oversikt over hva som gjelder videre i
-skoleløpet innenfor et bestemt tema.
+
+En inndeling etter hovedområdene som loven regulerer, vil for opplæringsloven innebære at loven deles inn etter de ulike opplæringstypene: 1) grunnskoleopplæring, 2) videregående opplæring og 3) grunnskoleopplæring og videregående opplæring for voksne. Forslaget fra prosjektet Klart lovspråk er basert på denne inndelingen, men ikke som en fullstendig rendyrket modell.
+
+Den klare fordelen med denne løsningen er at de som skal lese og anvende loven, vil finne alt om den aktuelle opplæringstypen samlet. Fordelen med inndeling etter opplæringstype sammenlignet med inndeling etter pliktsubjekt er at alle reglene innenfor én opplæringstype behandles samlet uavhengig av om pliktene er lagt på kommunen, fylkeskommuner, rektor eller andre. En ulempe er at det vil bli flere dobbeltreguleringer (gjentakelser) og dermed flere paragrafer dersom det som i dag skal være en del likelydende plikter for kommuner og fylkeskommuner. En inndeling etter opplæringstype kan også gjøre det vanskeligere å få oversikt over hva som gjelder videre i skoleløpet innenfor et bestemt tema.
+
 Inndeling av loven etter temaer
-En inndeling av loven etter temaer innebærer at
-loven deles inn etter temaer uavhengig av hvilken
-opplæringstype reglene gjelder for. Fordelen med
-en slik løsning er at den som er interessert i for
-eksempel hva slags skyssløsninger som gjelder
-gjennom den totale skolegangen, inkludert
-voksne, finner svaret samlet i ett kapittel. En
-annen fordel med en slik inndeling er at man unngår duplisering av regler som er identiske for opplæringstypene. Ulempen er at det vil bli krevende
-for både pliktsubjektene og rettighetshaverne å
-finne fram til hva som gjelder for dem, for eksempel hvilke bestemmelser som gjelder grunnskoleopplæringen.
+
+En inndeling av loven etter temaer innebærer at loven deles inn etter temaer uavhengig av hvilken opplæringstype reglene gjelder for. Fordelen med en slik løsning er at den som er interessert i for eksempel hva slags skyssløsninger som gjelder gjennom den totale skolegangen, inkludert voksne, finner svaret samlet i ett kapittel. En annen fordel med en slik inndeling er at man unngår duplisering av regler som er identiske for opplæringstypene. Ulempen er at det vil bli krevende for både pliktsubjektene og rettighetshaverne å finne fram til hva som gjelder for dem, for eksempel hvilke bestemmelser som gjelder grunnskoleopplæringen.
+
 Inndeling av loven etter kronologi
-Hvis reglene i loven gjelder et handlingsforløp,
-kan reglene plasseres kronologisk. Hva skjer, og i
-hvilken rekkefølge? Skatteloven er et eksempel på
-en lov som er inndelt kronologisk etter en tenkt
-tidsakse som en skattesak kan følge. En kronologisk oppbygning av opplæringsloven vil være vanskelig og uhensiktsmessig blant annet fordi
-mange av reglene i loven gjelder for opplæringen
 
-generelt og ikke følger trinnene i skolen. En kronologisk inndeling kan likevel være en løsning for
-temaer i loven der man kan bygge opp rekkefølgen av reglene i et kapittel etter stegene i en prosess.
-Inndeling av loven etter hvem de ulike reglene retter
-seg mot
-En inndeling etter hvem reglene retter seg mot,
-kan gjøre det enklere for de ulike brukergruppene, det vil si elever, lærlinger, foreldre, lærere,
-kommuner og så videre, å finne fram i loven. KS
-har gitt innspill til utvalget om at alle reglene som
-gir individuelle rettigheter for elever bør samles,
-og gjerne for hele grunnopplæringen.15
-Ny opplæringslov kan for eksempel deles inn
-ved å gruppere reglene slik at én del i loven retter
-seg mot forvaltningen og personalet i skolen og
-pålegger dem plikter, og en annen del retter seg
-mot individer og gir dem individuelle rettigheter.
-Hver av disse hoveddelene kan deles inn, for
-eksempel etter tema. Det kan være krevende å
-dele inn opplæringsloven på denne måten fordi
-reglene som gjelder individuelle rettigheter, også
-gjelder for forvaltningen. Det er forvaltningen,
-som hovedregel kommunene, som skal oppfylle
-rettighetene. Dessuten kan loven også inneholde
-regler som ikke innebærer en plikt for kommunen
-og som heller ikke gir individuelle rettigheter, for
-eksempel dagens regel om at kommunen kan gi
-permisjon fra den pliktige grunnskoleopplæringen.
+Hvis reglene i loven gjelder et handlingsforløp, kan reglene plasseres kronologisk. Hva skjer, og i hvilken rekkefølge? Skatteloven er et eksempel på en lov som er inndelt kronologisk etter en tenkt tidsakse som en skattesak kan følge. En kronologisk oppbygning av opplæringsloven vil være vanskelig og uhensiktsmessig blant annet fordi mange av reglene i loven gjelder for opplæringen generelt og ikke følger trinnene i skolen. En kronologisk inndeling kan likevel være en løsning for temaer i loven der man kan bygge opp rekkefølgen av reglene i et kapittel etter stegene i en prosess.
+
+Inndeling av loven etter hvem de ulike reglene retter seg mot
+
+En inndeling etter hvem reglene retter seg mot, kan gjøre det enklere for de ulike brukergruppene, det vil si elever, lærlinger, foreldre, lærere, kommuner og så videre, å finne fram i loven. KS har gitt innspill til utvalget om at alle reglene som gir individuelle rettigheter for elever bør samles, og gjerne for hele grunnopplæringen.[^395]
+
+Ny opplæringslov kan for eksempel deles inn ved å gruppere reglene slik at én del i loven retter seg mot forvaltningen og personalet i skolen og pålegger dem plikter, og en annen del retter seg mot individer og gir dem individuelle rettigheter. Hver av disse hoveddelene kan deles inn, for eksempel etter tema. Det kan være krevende å dele inn opplæringsloven på denne måten fordi reglene som gjelder individuelle rettigheter, også gjelder for forvaltningen. Det er forvaltningen, som hovedregel kommunene, som skal oppfylle rettighetene. Dessuten kan loven også inneholde regler som ikke innebærer en plikt for kommunen og som heller ikke gir individuelle rettigheter, for eksempel dagens regel om at kommunen kan gi permisjon fra den pliktige grunnskoleopplæringen.
+
 Inndeling av loven etter hvem som er pliktsubjekt
-En inndeling av loven etter hvem som er pliktsubjekt innebærer at kommunens plikter samles for
-seg, fylkeskommunens plikter for seg, og rektorers plikter for seg mv. En fordel med en slik inndeling kan være at det blir lett for dem som skal
-oppfylle pliktene, å finne fram til hvilke plikter
-som gjelder for dem. For dem som har rettigheter
-etter loven, kan det derimot bli vanskelig å finne
-fram med en slik struktur. Reglene vil også kunne
-bli fragmentert dersom flere pliktsubjekter har
-plikter knyttet til samme område i loven. En
-ulempe er dessuten at det vil gi en del dobbeltreguleringer dersom det som i dag skal være en del
-likelydende plikter for kommuner og fylkeskommuner.
-15
 
-KS, innspill til utvalget.
-
-[Side 187]
-
-NOU 2019: 23
-Ny opplæringslov
+En inndeling av loven etter hvem som er pliktsubjekt innebærer at kommunens plikter samles for seg, fylkeskommunens plikter for seg, og rektorers plikter for seg mv. En fordel med en slik inndeling kan være at det blir lett for dem som skal oppfylle pliktene, å finne fram til hvilke plikter som gjelder for dem. For dem som har rettigheter etter loven, kan det derimot bli vanskelig å finne fram med en slik struktur. Reglene vil også kunne bli fragmentert dersom flere pliktsubjekter har plikter knyttet til samme område i loven. En ulempe er dessuten at det vil gi en del dobbeltreguleringer dersom det som i dag skal være en del likelydende plikter for kommuner og fylkeskommuner.
 
 Viktige og sentrale bestemmer plasseres først i loven
-De antatt viktigste reglene i en lov kan bli plassert
-først, mens mindre viktige regler kan bli plassert
-lengre bak i loven. Fordi opplæringsloven primært handler om rettighetene til barn og unge,
-kan det argumenteres for at reglene som er viktigst for barn og unge, skal plasseres tidlig i loven,
-slik som Barnevernlovutvalget foreslo for barnevernloven.16 Et slikt utgangspunkt kan brukes
-både for inndeling i kapitler, for rekkefølgen på
-kapitlene og for plassering av regler innad i kapitlene. En ulempe er at en slik inndeling kan gjøre
-det vanskeligere å finne fram for dem som skal
-oppfylle reglene. Det kan kanskje også være mer
-krevende på opplæringsområdet enn på barnevernområdet å ta stilling til hva som er viktigst og
-mindre viktig for barn og unge. Et tredje motargument er at opplæringsloven også gir rettigheter til
-voksne.
-Reglene om hvem som har ansvar, plasseres først i
-loven
-Oppfyllelse av loven avhenger av at de ulike aktørene vet hva de har ansvar for. Dette kan tale for at
-regler om hvem som har ansvaret for hva, plasseres først i loven. Et motargument er at kommunen
-er en profesjonell aktør som må kunne forventes å
-finne fram i loven uavhengig av om ansvarsreglene er plassert tidlig i eller mot slutten av loven.
-For den som har rettigheter etter loven, kan det
-virke fremmedgjørende dersom ansvarsreglene
-kommer først (i den grad loven leses kronologisk).
+
+De antatt viktigste reglene i en lov kan bli plassert først, mens mindre viktige regler kan bli plassert lengre bak i loven. Fordi opplæringsloven primært handler om rettighetene til barn og unge, kan det argumenteres for at reglene som er viktigst for barn og unge, skal plasseres tidlig i loven, slik som Barnevernlovutvalget foreslo for barnevernloven.[^396] Et slikt utgangspunkt kan brukes både for inndeling i kapitler, for rekkefølgen på kapitlene og for plassering av regler innad i kapitlene. En ulempe er at en slik inndeling kan gjøre det vanskeligere å finne fram for dem som skal oppfylle reglene. Det kan kanskje også være mer krevende på opplæringsområdet enn på barnevernområdet å ta stilling til hva som er viktigst og mindre viktig for barn og unge. Et tredje motargument er at opplæringsloven også gir rettigheter til voksne.
+
+Reglene om hvem som har ansvar, plasseres først i loven
+
+Oppfyllelse av loven avhenger av at de ulike aktørene vet hva de har ansvar for. Dette kan tale for at regler om hvem som har ansvaret for hva, plasseres først i loven. Et motargument er at kommunen er en profesjonell aktør som må kunne forventes å finne fram i loven uavhengig av om ansvarsreglene er plassert tidlig i eller mot slutten av loven. For den som har rettigheter etter loven, kan det virke fremmedgjørende dersom ansvarsreglene kommer først (i den grad loven leses kronologisk).
+
 Forslag til ny lovstruktur i prosjektet Klart lovspråk
 
-185
+Utkastet til forslag til ny lov i prosjektet Klart lovspråk har en helt ny oppbygning sammenlignet med dagens lovstruktur.
 
-Kapittel 13
+Utgangpunktet for valget av lovens oppbygning var lovens hovedområder, det vil si de ulike typene opplæring: grunnskoleopplæring, videregående opplæring og grunnskoleopplæring og videregående opplæring for voksne. Inndelingen i forslaget er en kombinasjon av gruppering av regler etter opplæringstype og gruppering av regler som er identiske for disse opplæringstypene.
 
-dende bestemmelser om blant annet virkeområde
-for loven og formålet med opplæringen. Andre del
-gjelder grunnskoleopplæring. Tredje del gjelder
-videregående opplæring, inkludert opplæring i
-bedrift. Fjerde del gjelder grunnskoleopplæring
-og videregående opplæring spesielt organisert for
-voksne. Femte del er fellesbestemmelser for
-grunnskoleopplæring og videregående opplæring, inkludert slik opplæring for voksne. Siste og
-sjette del inneholder avsluttende bestemmelser.
-Loven ble delt inn slik at regler som bare gjelder for én type opplæring, ble samlet for seg,
-mens regler som er felles for flere opplæringstyper i hovedsak ble samlet for seg. Delen med fellesregler inneholder regler som er identiske for
-både grunnskoleopplæringen og den videregående opplæringen. Disse reglene ble samlet i en
-egen del for å unngå duplisering av paragrafer.
-Det sentrale med strukturen er at bestemmelsene
-som bare gjelder grunnskoleopplæring, bare gjelder videregående opplæring og bare gjelder opplæring for voksne, er samlet i egne deler. Hver av
-delene som gjelder én opplæringstype, er bygd
-opp etter tema og på samme måte med ett kapittel
-om retten til opplæring, ett kapittel om innholdet i
-opplæringen og ett kapittel med regler som ikke
-angår selve opplæringen.
-Fordelen med inndelingen er at det blir mindre duplisering av regler enn en inndeling i kapitler kun etter opplæringstype. En annen fordel er
-at det er enklere enn med dagens lov å finne fram
-til hvilke regler som gjelder gjennom opplæringsløpet.
-Tilbakemeldingen i brukertestingen17 var at
-lovforslaget har en logisk og naturlig tematisk
-oppbygging og at det er lett å finne fram til relevante deler av loven. Spesielt kommenteres det fra
-alle målgruppene at loven har en god innholdsfortegnelse med logisk inndeling i deler knyttet til
-grunnskoleopplæring, videregående opplæring
-og opplæring for voksne. Samtidig var det delte
-meninger om ha fellesreglene samlet, og ikke
-bare regler etter opplæringstype, fordi fellesreglene kan være lett å overse.
+I forslaget er loven delt inn i seks hoveddeler. Både lovens omfang og innhold taler for en slik inndeling. Første del i forslaget inneholder innledende bestemmelser om blant annet virkeområde for loven og formålet med opplæringen. Andre del gjelder grunnskoleopplæring. Tredje del gjelder videregående opplæring, inkludert opplæring i bedrift. Fjerde del gjelder grunnskoleopplæring og videregående opplæring spesielt organisert for voksne. Femte del er fellesbestemmelser for grunnskoleopplæring og videregående opplæring, inkludert slik opplæring for voksne. Siste og sjette del inneholder avsluttende bestemmelser.
 
-Utkastet til forslag til ny lov i prosjektet Klart lovspråk har en helt ny oppbygning sammenlignet
-med dagens lovstruktur.
-Utgangpunktet for valget av lovens oppbygning var lovens hovedområder, det vil si de ulike
-typene opplæring: grunnskoleopplæring, videregående opplæring og grunnskoleopplæring og
-videregående opplæring for voksne. Inndelingen i
-forslaget er en kombinasjon av gruppering av
-regler etter opplæringstype og gruppering av
-regler som er identiske for disse opplæringstypene.
-I forslaget er loven delt inn i seks hoveddeler.
-Både lovens omfang og innhold taler for en slik
-inndeling. Første del i forslaget inneholder innle-
+Loven ble delt inn slik at regler som bare gjelder for én type opplæring, ble samlet for seg, mens regler som er felles for flere opplæringstyper i hovedsak ble samlet for seg. Delen med fellesregler inneholder regler som er identiske for både grunnskoleopplæringen og den videregående opplæringen. Disse reglene ble samlet i en egen del for å unngå duplisering av paragrafer. Det sentrale med strukturen er at bestemmelsene som bare gjelder grunnskoleopplæring, bare gjelder videregående opplæring og bare gjelder opplæring for voksne, er samlet i egne deler. Hver av delene som gjelder én opplæringstype, er bygd opp etter tema og på samme måte med ett kapittel om retten til opplæring, ett kapittel om innholdet i opplæringen og ett kapittel med regler som ikke angår selve opplæringen.
 
-13.8.3 Utvalgets forslag til ny oppbygning av
-loven
-Det er ikke er lett å komme fram til en inndeling
-av loven som ikke har noen ulemper. Dette henger blant annet sammen med at loven er omfattende og regulerer både grunnskoleopplæring og
-videregående opplæring for barn, unge og
+Fordelen med inndelingen er at det blir mindre duplisering av regler enn en inndeling i kapitler *kun* etter opplæringstype. En annen fordel er at det er enklere enn med dagens lov å finne fram til hvilke regler som gjelder gjennom opplæringsløpet.
 
-16
+Tilbakemeldingen i brukertestingen[^397] var at lovforslaget har en logisk og naturlig tematisk oppbygging og at det er lett å finne fram til relevante deler av loven. Spesielt kommenteres det fra alle målgruppene at loven har en god innholdsfortegnelse med logisk inndeling i deler knyttet til grunnskoleopplæring, videregående opplæring og opplæring for voksne. Samtidig var det delte meninger om ha fellesreglene samlet, og ikke bare regler etter opplæringstype, fordi fellesreglene kan være lett å overse.
 
-17
+### Utvalgets forslag til ny oppbygning av loven
 
-NOU 2016: 16.
+Det er ikke er lett å komme fram til en inndeling av loven som ikke har noen ulemper. Dette henger blant annet sammen med at loven er omfattende og regulerer både grunnskoleopplæring og videregående opplæring for barn, unge og voksne. Etter utvalgets vurdering er det ikke hensiktsmessig å gruppere reglene etter en rendyrking av noen av de måtene å inndele reglene på som er listet opp ovenfor i kapittel 13.8.2. Utvalget mener at den mest hensiktsmessige inndelingen av loven er å ta utgangspunkt i forslaget fra prosjektet Klart lovspråk. Inndelingen er en kombinasjon av inndeling av loven etter lovens hovedområder (opplæringstypene) i egne deler og samling av regler som er identiske for disse hovedområdene (fellesregler), i en egen del. Denne inndelingen fikk gode tilbakemeldinger i brukertestingen som ble gjort av forslaget.[^398]
 
-Høidahl & Flatebø, 2016.
-
-[Side 188]
-
-186
-
-Kapittel 13
-
-NOU 2019: 23
-Ny opplæringslov
-
-voksne. Etter utvalgets vurdering er det ikke hensiktsmessig å gruppere reglene etter en rendyrking av noen av de måtene å inndele reglene på
-som er listet opp ovenfor i kapittel 13.8.2. Utvalget
-mener at den mest hensiktsmessige inndelingen
-av loven er å ta utgangspunkt i forslaget fra prosjektet Klart lovspråk. Inndelingen er en kombinasjon av inndeling av loven etter lovens hovedområder (opplæringstypene) i egne deler og samling av
-regler som er identiske for disse hovedområdene
-(fellesregler), i en egen del. Denne inndelingen
-fikk gode tilbakemeldinger i brukertestingen som
-ble gjort av forslaget.18
-
-Formålet med å samle fellesreglene i en egen
-del er å unngå duplisering av regler og å gi en
-samlet framstilling av regler som gjelder både for
-grunnskoleopplæringen og for den videregående
-opplæringen. Noen få bestemmeler om særskilte
-språkrettigheter er likevel duplisert i lovforslaget
-for å samle samme type bestemmelser under henholdsvis delen om grunnskoleopplæring og delen
-om videregående opplæring.
-
-18
-
-Høidahl & Flatebø, 2016.
-
-[Side 189]
-
-NOU 2019: 23
-Ny opplæringslov
-
-187
-
-Kapittel 14
-
-Kapittel 14
-
-Formålet med loven og hva loven gjelder
-
-Figur 14.1
-
-14.1 Innledning
-I dette kapitlet drøfter utvalget om det er hensiktsmessig å foreslå en bestemmelse i loven om formålet med den. Kapitlet handler også om det bør
-gjøres noen språklige endringer i paragrafen om
-formålet med opplæringen og i paragrafen om
-virkeområdet for loven – både hvilke virksomheter som bør omfattes av loven og hvor den bør
-gjelde geografisk.
-
-14.2 Formålet med opplæringen og
-formålet med loven
-14.2.1 Dagens regler
-Opplæringsloven inneholder ingen egen bestemmelse om formålet med loven. Formålet med opplæringen er fastsatt i opplæringsloven § 1-1. Denne
-bestemmelsen trådte i kraft 1. januar 2009 og er
-felles for grunnskolen og den videregående opplæringen. Bestemmelsen gjelder både for elever,
-lærlinger, praksisbrevkandidater, lærekandidater
-og kandidater for fagbrev på jobb. Formålsbestemmelsen gjelder også for voksne så langt den
-passer, for elever i private grunnskoler og for barn
-som får privat grunnskoleopplæring i hjemmet.
-Dette følger av opplæringsloven §§ 4A-6, 2-12 og 213. Bestemmelsen gjelder også for ansatte. Utvalget viser for øvrig til forarbeidene til bestemmelsen.1
-
-1
-
-NOU 2007: 6. Ot.prp. nr. 46 (2007–2008). Innst. O. nr. 22
-(2008–2009).
-
-14.2.2 Kunnskapsgrunnlaget
-Rapporter og undersøkelser
-I NOU 1995: 18 Ny lovgivning om opplæring ble
-dagjeldende lovbestemmelser om opplæringens
-formål i hovedsak foreslått videreført. Det ble
-foreslått to formålsbestemmelser – én om grunnskolens formål og én om den videregående opplærings formål.2 I Ot.prp. nr. 46 (1997–98) ble det
-likevel foreslått en felles formålsbestemmelse.3
-NOU 2007: 6 Formål for framtida handler om
-forslag til lovbestemmelser om henholdsvis formål for barnehagen og formål for opplæringen.
-Formålsparagrafen i opplæringsloven fikk sin gjeldende ordlyd på bakgrunn av denne utredningen
-og en avtale som ble inngått mellom alle partier på
-Stortinget 6. november 2008.
-Regelverket på andre områder
-Det er vanlig å innlede en lov med en formålsbestemmelse. Både friskolelova, universitets- og
-høyskoleloven, sosialtjenesteloven, helse- og
-omsorgstjenesteloven og arbeidsmiljøloven har
-en slik bestemmelse.
-I barnehageloven § 1 er det også fastsatt en
-bestemmelse om formål. Formålsbestemmelsene
-i opplæringsloven og barnehageloven er bygd opp
-på samme måte både for å tydeliggjøre sammenhenger og ulikheter mellom barnehagen og opplæringen og for å øke de respektive institusjonenes forståelse for hverandre. I forarbeidene til barnehageloven er det også lagt til grunn at en stor
-2
-3
-
-NOU 1995: 18, kap. 13.3.
-Kap. 6.4.
-
-[Side 190]
-
-188
-
-NOU 2019: 23
-
-Kapittel 14
-
-Ny opplæringslov
-
-grad av samordning av formålene for barnehagen
-og opplæringen kan bidra til større helhet og sammenheng i barn og unges utvikling og læring.4 To
-formålsbestemmelser som kan gi inspirasjon, er
-bestemmelsene i voksenopplæringsloven og barnevernloven.
-Voksenopplæringsloven § 1 lyder slik:
-Formålet med denne loven er å fremme livslang læring ved å legge til rette for organiserte
-læringsaktiviteter ved siden av det formelle
-utdanningssystemet. Loven skal bidra til motivasjon og tilgang til kunnskap og kompetanse
-for alle, og slik fremme den enkeltes utvikling
-og møte behovene i samfunns- og arbeidslivet.
-Og i § 1-1 i barnevernloven står det følgende:
-Loven skal sikre at barn og unge som lever
-under forhold som kan skade deres helse og
-utvikling, får nødvendig hjelp, omsorg og
-beskyttelse til rett tid. Loven skal bidra til at
-barn og unge møtes med trygghet, kjærlighet
-og forståelse og at alle barn og unge får gode
-og trygge oppvekstsvilkår.
-Regelverk i andre land
-I likhet med opplæringsloven inneholder den
-svenske skollagen en bestemmelse om formålet
-med opplæringen, jf. § 45, men skollagen har
-ingen egen bestemmelse om formålet med loven.
-I den danske folkeskoleloven er det fastsatt en
-egen bestemmelse om folkeskolens formål i § 1,
-men heller ikke denne loven har en egen bestemmelse om formålet med loven. Tilsvarende gjelder
-for lov om de gymnasiale uddannelser.
-I Finland er det fastsatt egne bestemmelser
-om utdanningens mål, jf. lag om grundläggande
-utbildning § 2 og gymnasielagen § 2.
-Innspill til utvalget
-Nynorsk kultursentrum ønsker en språkpolitisk
-formålsparagraf: «Opplæringa skal vere med på å
-sikre norsk, med skriftspråka bokmål og nynorsk,
-som samfunnsberande språk, gjere elevane
-trygge i eige skriftspråk og gi dei kunnskap om,
-4
-5
-
-Ot.prp. nr. 47 (2007–2008), kap. 1.
-Henvisninger til svenske paragrafer er gjennomgående
-endret fra svensk til norsk skrivemåte, altså ikke 13 §, men
-§ 13.
-
-kjennskap til og innsikt i det språklege mangfaldet
-i Noreg.»6
-Forandringsfabrikken foreslår at samarbeid
-med elevene kommer med i formålsparagrafen,
-og de ønsker at det skal stå at elevene skal møtes
-med åpenhet, ydmykhet, samarbeid og kjærlighet. Forandringsfabrikken ønsker også et elevsyn
-som anerkjenner at elever har kunnskap om sitt
-liv, at de gjør så godt de kan og at de er like verdifulle som voksne, reflekteres i formålsparagrafen.7
-Redd Barna konstaterer at det står i mandatet
-til utvalget at dagens formålsparagraf skal videreføres, men anbefaler et sterkere samsvar mellom
-det som står i Overordnet del og innholdet i opplæringsloven.8
-
-14.2.3 Utvalgets vurdering
-Formålet med opplæringen
-Det følger av mandatet til utvalget at dagens formålsparagraf skal videreføres, men også at loven
-skal utformes i et klart og godt språk, se kapittel
-3.2.1. Utvalget har vurdert språket i bestemmelsen og foreslår noen endringer, blant annet at
-enkelte overflødige ord fjernes. Utvalget ber
-departementet vurdere om antallet avsnitt i
-bestemmelsen bør reduseres.
-Formålet med den nye loven
-Slik utvalget ser det, bør en bestemmelse om
-lovens formål først og fremst være informativ.
-Den skal ramme inn loven og gi leseren en kortfattet innføring i hva loven handler om. I tillegg
-kan formålsbestemmelsen tjene som en påminnelse om grunnleggende hensyn loven bygger på,
-og dermed faktisk føre til at disse hensynene vektlegges i større grad. Selv om den rettslige betydningen av en bestemmelse om formålet med loven
-er svært begrenset, har utvalget kommet til at det
-bør fastsettes at lovens formål er å legge til rette
-for at barn, ungdom og voksne får god opplæring i
-et godt miljø. Bestemmelsen tjener først og fremst
-som en introduksjon til leseren om hva loven
-handler om. I tillegg gir bestemmelsen overordnede retningslinjer for utøvelse av skjønn i medhold av loven.
-6
-7
-8
-
-Nynorsk kultursentrum, innspill til utvalget.
-Forandringsfabrikken, innspill til utvalget.
-Redd Barna, innspill til utvalget.
-
-[Side 191]
-
-NOU 2019: 23
-Ny opplæringslov
-
-14.2.4 Utvalgets forslag
-Utvalget foreslår
-– en bestemmelse om lovens formål, se forslag til
-§ 1-1 første avsnitt
-– noen språklige endringer i bestemmelsen om
-formålet med opplæringen, se forslag til § 1-2
-
-I § 1 i forskrift om grunnskoleopplæring og
-videregående opplæring på Svalbard er det fastsatt følgende:
-Barn og unge av norske statsborgere har
-samme rett og plikt til grunnskoleopplæring
-den tiden de er bosatt på Svalbard som de ville
-hatt på fastlandet, jf. opplæringsloven § 2-1.
-Barn av utenlandske statsborgere har rett til
-slik grunnskoleopplæring den tiden de bor på
-Svalbard.
-
-14.3 Hva loven gjelder
-14.3.1 Dagens regler
-Opplæringsloven
-Virkeområdet til opplæringsloven er fastsatt i § 12. I første avsnitt i bestemmelsen er det fastsatt
-følgende: «Lova gjeld grunnskoleopplæring og
-vidaregåande opplæring i offentlege skolar og
-lærebedrifter dersom ikkje noko anna er særskilt
-fastsett.» Det er fastsatt at opplæringsloven også
-regulerer tjenester som ikke er opplæring, for
-eksempel skolefritidsordningen i § 13-7, oppfølgingstjenesten i § 3-6 og musikk- og kulturskoletilbudet i § 13-6.
-I andre avsnitt er det presisert at loven også
-gjelder for grunnskoleopplæring i private grunnskoler som ikke får statstilskudd etter friskolelova, og for privat hjemmeopplæring i grunnskolen. Loven gjelder også for private videregående
-skoler når det foreligger både en mellomstatlig
-avtale om dette og en godkjenning fra departementet. Dette følger av opplæringsloven § 3-11.
-Det er presisert i tredje avsnitt i § 1-2 at kapittel 4A gjelder for opplæring som er spesielt organisert for voksne, og som kommunen eller fylkeskommunen har ansvaret for.
-Opplæringsloven gjelder i Norge dersom ikke
-noe annet framgår av loven.9 Det er fastsatt i § 1-2
-fjerde avsnitt at departementet kan godkjenne fylkeskommunale videregående skoler i utlandet.
-Andre lover
-Opplæringsloven gjelder i Norge med unntak av
-Svalbard, jf. svalbardloven § 2. Etter denne
-bestemmelsen gjelder norsk privatrett og strafferett og den norske lovgivning om rettspleien for
-Svalbard, når ikke annet er fastsatt. Andre lovbestemmelser gjelder ikke for Svalbard, uten når det
-særskilt er fastsatt. Etter svalbardloven § 4 kan
-Kongen fastsette forskrifter blant annet om skolevesenet.
-9
-
-Ot.prp. nr. 46 (1997–98), kap. 5.1.2 og 5.3.1.
-
-189
-
-Kapittel 14
-
-Straffebestemmelsene i opplæringsloven vil
-gjelde så lenge de berører rettigheter og plikter
-som også gjelder for Svalbard. Eksempelvis vil
-foreldre kunne straffes for å ha holdt sine barn
-ulovlig borte fra grunnskoleopplæringen så lenge
-barna har plikt til å motta opplæring. Også brudd
-på bestemmelsene i opplæringsloven kapittel 9 A
-kan straffes på samme vilkår som på fastlandet.
-Det er Longyearbyen lokalstyre som har ansvaret
-for å oppfylle retten til grunnskoleopplæring på
-Svalbard. Lokalstyret kan også drive videregående opplæring. Dette følger av § 2 i forskriften.
-Ungdom på Svalbard har ikke rett til videregående opplæring. Se for øvrig omtale i Meld. St. 32
-(2015–2016) Svalbard.10
-I § 3 i forskriften er det fastsatt at «[o]pplæringsloven og forskrifter gitt med hjemmel i opplæringsloven gjelder så langt de etter forholdene
-passer. Kunnskapsdepartementet avgjør hvilke
-bestemmelser som passer». Kunnskapsdepartementet har ikke gitt generell informasjon om
-hvilke bestemmelser som gjelder på Svalbard.
-Longyearbyen lokalstyre har fastsatt forskrift
-om inntak til videregående opplæring på Svalbard.
-
-14.3.2 Utvalgets vurdering
-Utvalget foreslår ingen endringer i lovens virkeområde, men mener at bestemmelsen bør forenkles.
-Utvalget mener at loven fortsatt skal gjelde for
-all grunnopplæring, uavhengig av type institusjon
-og eierforhold. Loven skal derfor omfatte opplæring i både kommunale, fylkeskommunale og statlige skoler, institusjoner og fengsler, offentlige og
-private lærebedrifter, inkludert tid til verdiskaping
-i bedrift, og ulike private tilbud. Særskilt tilrettelagt grunnopplæring for voksne skal fortsatt være
-omfattet.
-Slik utvalget ser det, bør loven fortsatt regulere virksomheter som er knyttet til grunnopplæ10
-
-Kap. 5.3.5.
-
-[Side 192]
-
-190
-
-Kapittel 14
-
-NOU 2019: 23
-Ny opplæringslov
-
-ringen, for eksempel skolefritidsordningen, PPtjenesten og oppfølgingstjenesten.
-Videre mener utvalget at det bør presiseres i
-bestemmelsen at loven ikke gjelder for skoler som
-er godkjent etter friskolelova.
-Utvalget foreslår også egne bestemmelser om
-virkeområdet i noen av kapitlene i den nye loven,
-se §§ 8-1 og 11-1.
-De statlige skolene vil i liten grad bli omtalt i
-denne utredningen. Dette innebærer likevel ikke
-at staten og skolene er unntatt fra de reglene som
-gjelder for kommuner. I den grad staten ønsker å
-drive skoler, har staten det samme ansvaret som
-kommunene, se kapittel 33.4.7.
-Utvalget mener at det ikke er hensiktsmessig
-å fastsette hva som er det geografiske virkeområdet for loven. Det geografiske virkeområdet vil
-følge av de alminnelige prinsipper om lovers virkeområde. Dersom ikke annet framgår av loven,
-vil den bare gjelde opplæringsvirksomhet i Norge.
-Det betyr for eksempel at norske borgere som
-
-bosetter seg i utlandet, ikke har plikt til grunnskoleopplæring etter reglene i den nye loven, se forslag til § 3-2 andre avsnitt. De vil heller ikke være
-omfattet av retten til grunnskoleopplæring.
-Utvalget ber departementet om å presisere i
-forskrift eller på annen måte hvilke bestemmelser
-i den nye loven som skal gjelde for Svalbard, for
-eksempel hvilke av rettighetene i loven elevene på
-Svalbard har eller ikke har.
-Utvalget foreslår å ikke videreføre § 1-2 fjerde
-avsnitt om godkjenning av videregående opplæring i utlandet i bestemmelsen om virkeområdet.
-Bestemmelsen foreslås videreført i § 22-3 andre
-avsnitt.
-
-14.3.3 Utvalgets forslag
-Utvalget foreslår
-– å videreføre reglene om virkeområdet for
-loven, men med flere forenklinger, se forslag til
-§ 1-1 andre avsnitt
-
-[Side 193]
-
-NOU 2019: 23
-Ny opplæringslov
-
-191
-
-Kapittel 15
-
-Kapittel 15
-
-Forsvarlighetskrav
-
-Figur 15.1
-
-15.1 Innledning
-I dag er det et ulovfestet krav til forsvarlige velferdstjenester, blant annet opplæring. I dette kapitlet drøfter utvalget om det skal lovfestes et forsvarlighetskrav i ny opplæringslov, og hvordan et
-slikt krav eventuelt skal utformes.
-
-(Rt. 1970 s. 95 og Rt. 1970 s. 138). I Rt. 1970 s. 95,
-som gjaldt manglende melding om en jentes manglende utbytte av undervisningen, uttalte Høyesterett (s. 96–97):
-Slik som vårt skolevesen er bygget opp, må jeg
-anta at et krav av den art som det her gjelder
-med rette er fremmet overfor kommunen. En
-annen sak er at vurderingen av hvor langt
-ansvaret rekker, må være avhengig av hvilke
-ressurser – av økonomisk og annen art – en
-kommune har til å møte de behov som foreligger, bl.a. på undervisningens område. Jeg
-slutter meg for så vidt til det som er sagt om
-dette spørsmål i Utkast til lov om Statens og
-kommunenes erstatningsansvar (Kristen
-Andersenkomitéens innstilling, datert desember 1958 s. 24). Det sies her bl.a. at en må
-kunne regne med at det offentliges virksomhet
-holder et rimelig faglig, sosialt og menneskelig
-nivå.
-
-15.2 Dagens regler
-15.2.1 Opplæringsloven og forskrift til
-opplæringsloven
-I opplæringsloven er det ikke fastsatt et eksplisitt
-krav om at opplæringen eller annen virksomhet
-etter loven må være forsvarlig. Opplæringsloven
-med forskrifter inneholder likevel flere regler som
-har til hensikt å bidra til at elevene får et opplæringstilbud av en viss kvalitet, som regler om
-krav til kompetanse hos undervisningspersonalet,
-kompetansemål i fag, krav til minstetimetall med
-opplæring i fag, krav om ulike former for tilrettelegginger for den enkelte elev mv.
-15.2.2 Ulovfestet krav om forsvarlig
-virksomhet
-Det har lenge vært lagt til grunn at det gjelder
-visse minimumskrav til opplæringens innhold.
-Disse kravene ble først formulert i en omfattende
-underrettspraksis på 1950- og 1960-tallet om
-erstatningsansvar for handlinger, beslutninger og
-unnlatelser innen skolefeltet. Sakene dreide seg
-særlig om spesialskoleplassering. Rettsutviklingen kulminerte i to saker for Høyesterett i 1970
-
-Dette kravet til at virksomheten holder et «rimelig
-faglig, sosialt og menneskelig nivå», utvikles
-videre i ulike sammenhenger utover 1970-tallet.
-Rettsutviklingen oppsummeres i et brev fra Justisdepartementets lovavdeling 2. juni 1982 til Kirkeog undervisningsdepartementet, der Lovavdelingen bes om å vurdere omfanget av retten til
-spesialundervisning i den dagjeldende grunnskoleloven av 1969 § 13 fjerde avsnitt. Stortinget sluttet seg til Lovavdelingens konklusjon1, som blant
-annet var at:
-1
-
-Innst. O. nr. 4 (1982–83), s. 10.
-
-[Side 194]
-
-192
-
-NOU 2019: 23
-
-Kapittel 15
-
-Ny opplæringslov
-
-Grunnskolelovens bestemmelse om at alle har
-rett til opplæring i samsvar med sine evner og
-forutsetninger, og rett til et tilbud som er likeverdig med det andre elever får, er bindende
-for Stortinget når Stortinget skal ta stilling til
-bevilgninger. Det er her skapt en såkalt bunden
-statsutgift. En annen sak er at det selvsagt vil
-være rom for skjønn når det gjelder den nærmere utforming av undervisningstilbudet og
-hvor store ressurser som må settes inn for at
-man kan si at alle elever får et undervisningstilbud «i samsvar med dei evnene og føresetnadene dei ha». Man må imidlertid holde fast ved
-at grsl. stiller visse minstekrav, og disse minstekravene kan Stortinget ikke unnlate å oppfylle
-med mindre loven endres.2
-Denne rettsoppfatningen ble fulgt opp av Høyesterett i Rt. 1990 s. 360 (Malvik I), der domstolen slo
-fast at det gjaldt et krav til at opplæringen oppfylte
-visse minstekrav. I kjennelsen ble det uttalt at: «I
-lovens krav om at opplæringen må være likeverdig med den opplæring som gis i grunnskolen, ligger imidlertid at opplæringen må fylle visse minimums- og likhetskrav, og at dette er en rettighet
-som kan håndheves ved domstolene.» Den
-samme normen ble senere lagt til grunn for helsetjenester i Rt. 1990 s. 874 (Fusa) og igjen for opplæring i Rt. 1993 s. 811.
-Rt. 1993 s. 811 gjaldt om en kvinne hadde fått
-et likeverdig grunnskoletilbud, eller om hun
-hadde rett til ytterligere grunnskoleopplæring
-etter voksenopplæringsloven.3 I saken vurderte
-Høyesterett om kvinnen hadde fått et opplæringstilbud som oppfylte den minstestandarden for opplæringen som måtte legges til grunn. Kvinnen
-hadde fått store deler av opplæringen som spesialundervisning gitt som eneundervisning. Høyesterett vurderte om minstestandarden innbefattet et
-rettskrav på eneundervisning med et bestemt
-uketimetall:
-Jeg er så langt kommet til den konklusjon, som
-også er uttalt av lagmannsretten, at man ikke
-ensidig kan legge vekt på uketimetall når det
-skal vurderes om en elev med spesialundervisning har mottatt sin lovbestemte opplæring.
-Det lovbestemte uketimetall for ordinær
-grunnskoleundervisning kan ikke uten videre
-anvendes som sammenligningsmål for hva
-2
-3
-
-Innst. O. nr. 4 (1982–83), vedlegg 2, s. 34.
-Grunnskoleopplæring for voksne er i dag regulert i opplæringsloven, men var den gang regulert i lov 28. mai 1976 nr.
-35 om voksenopplæring.
-
-som er likeverdig spesialundervisning for en
-psykisk utviklingshemmet elev. Uketimetallet
-kommer bare inn som ett av flere elementer i
-en totalvurdering av det opplæringstilbud en
-slik elev har rettskrav på. I denne totalvurdering må det ellers tas hensyn til på den ene side
-de store individuelle ulikheter som denne kategori elever rommer, og på den annen side de
-ressurser av økonomisk art som det offentlige
-skolevesen råder over, og som derfor nødvendigvis også må gi plass for skjønn.
-I Rt. 1990 s. 874 la Høyesterett til grunn en minstestandard for helsetjenester. Saken gjaldt gyldigheten av et vedtak om reduksjon av tidligere
-hjemmehjelp. Høyesterett uttalte blant annet følgende som begrunnelsen for at et slikt minstekrav
-måtte legges til grunn:
-Rettighetsbegrepet i kommunehelsetjenesteloven § 2-1 er kommentert flere steder i lovforarbeidene […]. Lovforarbeidene synes å gi en
-entydig støtte for at det ved kommunehelsetjenesteloven § 2-1 er etablert en rett til nødvendig helsehjelp, men også dette er en rett av et
-svært ubestemt innhold. Om rettens innhold
-vises særlig til Ot.prp. nr. 66 for 1981–82 side
-31 første spalte der det uttales at det ikke er
-meningen å pålegge kommunene en urimelig
-og urealistisk forpliktelse, men at man må forutsette en minstestandard som en kommune,
-eventuelt flere i samarbeid, ikke kan gå under.
-Fastleggingen av denne minstestandard forutsettes overlatt til praksis, og må vurderes på
-bakgrunn av den økonomiske situasjon i helsesektoren generelt og i den enkelte kommune
-spesielt, slik den til enhver tid fortoner seg.
-Høyesterett uttalte følgende om domstolenes prøvelsesrett når det gjaldt hvor mye helsehjelp og
-sosialhjelp vedkommende hadde fått:
-Når det gjelder omfanget av ytelsene, vil spørsmålet ved en domstolskontroll […] være om
-det aktuelle forvaltningsvedtak tilfredsstiller et
-visst minstekrav som må forutsettes å gjelde
-for slike ytelser. En slik vurdering vil ligge nær
-opp til en domstolsprøving av forvaltningens
-frie skjønn.
-I forarbeidene til Grunnloven § 109, Dokument 16
-(2011–2012) s. 222, er følgende uttalt om den
-nedre grensen for hva som er opplæring i samsvar
-med kravene i Grunnloven § 109:
-
-[Side 195]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Grunnlovsfesting av retten til utdanning vil
-kunne fungere som en rettslig skranke for lovgiver, i den forstand at lovgiver ikke kan la skoletilbudet falle under de minstekrav som en
-eventuell grunnlovsbestemmelse oppstiller. I
-tillegg vil rettigheten kunne fungere som et
-tolkningsmoment og en retningslinje for både
-den lovgivende, den utøvende og den dømmende makt.
-Grunnloven § 109 vil fungere som et tolkningsmoment og en retningslinje for skolemyndighetene,
-som dermed ikke kan gi opplæring under det kravet som følger av bestemmelsene.
-Minstekravene som stilles til skolens virksomhet i domstolspraksis om erstatningsansvar og
-innholdet i ulike rettigheter, samt Grunnlovens
-minstekrav til undervisningen, kan enten ses som
-avskygninger av et allment krav til forsvarlighet
-eller som at disse regelsettene i sum innebærer et
-generelt krav til opplæringens forsvarlighet.4
-På flere velferdsområder har lovgiver valgt å
-lovfeste krav til minstestandard eller forsvarlighet.
-Det var ikke med disse lovendringene ment å innføre et nytt krav, men å lovfeste det som allerede
-fulgte av ulovfestet rett. Et eksempel er lovfestingen av det generelle kravet til forsvarlighet i
-helse- og omsorgstjenesteloven § 4-1, der det ble
-slått fast i Prop. 91 L (2010–2011) kapittel 20 og
-NOU 2004: 18 s. 67 flg. at det gjaldt et minstekrav
-til helsetjenester.
-
-15.2.3 Andre lover
-Det er flere andre velferdslover som har krav til
-forsvarlighet. Her omtales et utvalg.
-I sosialtjenesteloven § 4 er det krav om at
-«[t]jenester som ytes etter denne loven skal være
-forsvarlige». I barnevernloven er det en tilsvarende bestemmelse. Det følger av forarbeidene til
-barnevernloven at kravet om forsvarlighet er en
-rettslig standard, og at dette innebærer at det nærmere innholdet i kravet i vesentlig grad vil bli
-bestemt av normer utenfor selve loven. Videre
-pekes det på at forsvarlighetskravet handler om
-vurderinger og normer om hva som kan betegnes
-som god barnevernfaglig praksis, og at disse normene samtidig er et utgangspunkt for å vurdere
-grensen mot det uforsvarlige. I forarbeidene vises
-det videre til at forsvarlighetskravet gir rom for
-skjønn, men at kravet samtidig innebærer at alle
-tjenester og tiltak etter barnevernloven skal være
-4
-
-Se generelt om minstekrav til spesialundervisningen i
-Runde, 2013.
-
-193
-
-Kapittel 15
-
-forsvarlige når det gjelder både innhold, omfang
-og når tjenestene ytes. Det står også at tilsynsmyndigheten kan konstatere avvik med hjemmel i
-forsvarlighetskravet, enten alene eller i kombinasjon med andre bestemmelser i barnevernloven.5
-I helse- og omsorgstjenesteloven er det fastsatt et litt mer utførlig forsvarlighetskrav. Kravet
-er slik:
-§ 4-1 Forsvarlighet
-Helse- og omsorgstjenester som tilbys eller
-ytes etter loven her skal være forsvarlige. Kommunen skal tilrettelegge tjenestene slik at:
-a) den enkelte pasient eller bruker gis et helhetlig og koordinert helse- og omsorgstjenestetilbud,
-b) den enkelte pasient eller bruker gis et verdig tjenestetilbud,
-c) helse- og omsorgstjenesten og personell
-som utfører tjenestene blir i stand til å overholde sine lovpålagte plikter og
-d) tilstrekkelig fagkompetanse sikres i tjenestene.
-Kongen i statsråd kan i forskrift gi nærmere
-bestemmelser om kommunens plikt etter første ledd bokstav d.
-I forarbeidene til § 4-1 står det at det følger av forsvarlighetskravet at tjenestene må holde tilfredsstillende kvalitet, ytes i tide og i tilstrekkelig
-omfang.6 Det står ikke eksplisitt i forarbeidene at
-punktlisten ikke er uttømmende, men det framgår
-at punktene er presiseringer av det generelle kravet om forsvarlige helse- og omsorgstjenester.
-
-15.3 Utvalgets vurdering
-15.3.1 Behovet for å lovfeste et
-forsvarlighetskrav
-Det gjelder i dag et ulovfestet krav om at opplæring og andre ytelser etter opplæringsloven skal
-være forsvarlige. Kommuner har ikke oppfylt retten til opplæring dersom tilbudet de har gitt, er
-uforsvarlig.
-At det uansett gjelder et ulovfestet forsvarlighetskrav, kan være et argument for at det ikke er
-nødvendig å lovfeste et slikt krav i ny opplæringslov. På den annen side vil en lovfesting fjerne
-eventuell tvil om at et slikt krav gjelder. En lovfesting kan dessuten føre til at kommunene blir mer
-bevisste på at de har et ansvar for at opplæringstil5
-6
-
-Prop. 106 L (2012–2013), merknad til § 1-4.
-Prop. 91 L (2010–2011), merknad til § 4-1.
-
-[Side 196]
-
-194
-
-Kapittel 15
-
-NOU 2019: 23
-Ny opplæringslov
-
-budet holder en viss kvalitet, og at dette kravet
-gjelder i tillegg til andre konkrete krav til opplæringsvirksomheten. Dersom forsvarlighetskravet
-lovfestes, vil det også være enklere å benytte kravet som grunnlag for tilsyn, enten alene eller i
-kombinasjon med andre regler (se mer om statlig
-tilsyn i kapittel 52). I tillegg er det et moment at
-forsvarlighetskravet er lovfestet i flere andre sentrale velferdslover.
-Utvalget mener det er gode argumenter for å
-lovfeste forsvarlighetskravet i ny opplæringslov.
-
-15.3.2 Betydningen av et forsvarlighetskrav
-Et krav om at opplæringen og andre tjenester
-etter opplæringsloven skal være forsvarlig, vil
-bare ha selvstendig betydning på områder hvor
-det ikke er fastsatt mer konkrete og strengere
-krav, og i tilfeller hvor det er uklart om andre krav
-er brutt.
-Det er mange konkrete krav i opplæringsloven
-med forskrifter hvor målet er høyere enn at opplæringen eller andre tjenester etter loven skal
-være forsvarlig. Kommunene kan ikke unnlate å
-oppfylle slike krav med henvisning til at deres
-praksis er forsvarlig. For eksempel må kommunene oppfylle kravet om et minste antall timer i et
-fag, selv om det kan begrunnes at færre timer er
-forsvarlig i det enkelte tilfellet. Forsvarlighetskravet er først og fremst en sikkerhetsventil for å
-fange opp uforsvarlig praksis som ikke rammes av
-mer spesifikke krav.
-I en del tilfeller kan det være tolkningstvil,
-eller det kan være uklart om et tilfelle omfattes av
-et krav eller et forbud. I slike tilfeller vil også forsvarlighetskravet kunne ha betydning for hva som
-skal anses å være lovlig og ikke.
-Kravet om forsvarlighet er en rettslig standard, noe som innebærer at det nærmere innholdet i kravet i vesentlig grad vil bli bestemt av normer utenfor selve loven. I mange tilfeller vil det
-være faglig-pedagogisk kunnskap og erfaring som
-er det relevante grunnlaget for å fastsette innholdet i opplæringslovens forsvarlighetskrav. Men
-det kan også være mer allmenne samfunnsnormer. Hva som er forsvarlig, kan også endres over
-tid.
-15.3.3 Hva som skal være omfattet av
-forsvarlighetskravet
-Opplæringsloven regulerer både grunnopplæring
-og enkelte andre virksomheter som ikke er en del
-av grunnopplæringen, men som har nær tilknyt-
-
-ning til denne. Dette gjelder for eksempel skolefritidsordning, leksehjelp, rådgivning og oppfølgingstjeneste, se kapittel 42. Et spørsmål er om et
-forsvarlighetskrav i opplæringsloven bare skal
-gjelde grunnopplæringen, eller om det også skal
-omfatte andre virksomheter etter opplæringsloven.
-Rettspraksisen om forsvarlighet på opplæringsområdet handler om selve opplæringen, men
-det er god grunn til å anta det også gjelder krav til
-at andre tjenester er forsvarlige. I alle fall vil det
-kunne skape uklarhet om kravet bare gjelder
-deler av skolens virksomhet. I andre velferdslover
-gjelder forsvarlighetskravet alle tjenester etter
-loven.
-Utvalget foreslår at det lovfestes et forsvarlighetskrav som skal gjelde for både opplæring og
-annen virksomhet etter opplæringsloven.
-
-15.3.4 Tilsyn med forsvarlighetskravet
-Utvalget mener at fylkesmannen bør kunne føre
-tilsyn med forsvarlighetskravet, men at det som
-hovedregel ikke bør føres generelle tilsyn med
-oppfyllelsen av forsvarlighetskravet. Et generelt
-tilsyn med om en kommunes virksomhet er forsvarlig, vil for det første bli svært omfattende. Et
-slikt tilsyn vil for det andre være lite effektivt og
-treffsikkert, ettersom forsvarlighetskravet er et
-minimumskrav som det i de fleste tilfeller må forventes at kommuner overholder.
-Det kan likevel være tilfeller hvor det er aktuelt å føre tilsyn med etterlevelsen av forsvarlighetskravet. For eksempel kan dette være aktuelt
-dersom fylkesmannen i et tilsyn med andre krav
-avdekker bekymringsverdige forhold. I slike tilfeller kan forsvarlighetskravet være et nyttig supplement til de spesifikke kravene ved at fylkesmannen kan reagere på uforsvarlig praksis på et
-område som ikke direkte kan knyttes til de spesifikke lovkravene i tilsynet. Det kan også være
-aktuelt å føre tilsyn med etterlevelsen av forsvarlighetskravet dersom fylkesmannen mottar en
-bekymringsmelding om at opplæringstilbudet på
-en skole er uforsvarlig.
-Et annet spørsmål er hvor langt tilsynsmyndighetene skal gå i å overprøve om forsvarlighetskravet er oppfylt. Utvalget mener det må være full
-prøvingsadgang slik at fylkesmannen kan prøve
-fullt ut om opplæringen og annen virksomhet etter
-opplæringsloven er forsvarlig. Det må likevel
-understrekes at forsvarlighetskravet er en minimumsstandard. Tilsynet skal bare prøve om et tjenestene holder et forsvarlig minstenivå.
-
-[Side 197]
-
-NOU 2019: 23
-Ny opplæringslov
-
-15.3.5 Forsvarlighetskrav for de ansatte
-I helsepersonelloven § 4 er det et forsvarlighetskrav for helsepersonell. Det følger blant annet
-av denne bestemmelsen at helsepersonell skal
-utføre sitt arbeid i samsvar med de kravene til faglig forsvarlighet og omsorgsfull hjelp som kan forventes ut fra helsepersonellets kvalifikasjoner,
-arbeidets karakter og situasjonen for øvrig. I helsepersonelloven er det også en rekke andre krav
-som retter seg mot helsepersonell.
-Helseområdet skiller seg fra opplæringsområdet på flere måter. Et viktig skille er at det på
-helseområdet er krav om autorisasjoner og lisenser for den enkelte utøver av ulike yrker. På opplæringsområdet er det ingen autorisasjonsordning, og staten kan ikke holde den enkelte ansatte
-
-195
-
-Kapittel 15
-
-i skolen ansvarlig ved å frata eller innskrenke
-muligheten til å utøve yrket. Det er kommunen
-som er ansvarlig, og som kan reagere overfor de
-ansatte innenfor rammene av arbeidsrettens
-regler.
-Ettersom det ikke er en autorisasjonsordning
-for de ansatte på opplæringsområdet, og utvalget
-heller ikke foreslår å innføre dette (se kapittel
-12.4), er det ikke hensiktsmessig å innføre et forsvarlighetskrav for de ansatte i skolen.
-
-15.4 Utvalgets forslag
-Utvalget foreslår
-– å lovfeste et krav om at opplæringen og annen
-virksomhet etter opplæringsloven skal være
-forsvarlig, se forslag til § 1-3
+Formålet med å samle fellesreglene i en egen del er å unngå duplisering av regler og å gi en samlet framstilling av regler som gjelder både for grunnskoleopplæringen og for den videregående opplæringen. Noen få bestemmeler om særskilte språkrettigheter er likevel duplisert i lovforslaget for å samle samme type bestemmelser under henholdsvis delen om grunnskoleopplæring og delen om videregående opplæring.

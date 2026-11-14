@@ -1,926 +1,374 @@
-# NOU 2020: 3, del 18 av 42 (side 198–207)
+# NOU 2020: 3, del 18 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 198]
-
-196
-
-NOU 2020: 3
-
-Kapittel 21
-
-Ny lov om universiteter og høyskoler
-
-ved de ulike studiestedene. En nasjonal deleksamen vil være en deleksamen som gis samtidig ved alle de deltakende institusjonene og
-studiestedene. En nasjonal deleksamen skal gi
-grunnlag for sammenlignbar informasjon om
-fag eller tema som er felles for alle studie- eller
-fagplaner som gjelder den aktuelle utdanningen. Det er viktig at valg av tema, vurderingsform og sensurordning forankres i de berørte
-fagmiljøene.
-En nasjonal deleksamen kan gjelde hele eller
-deler av et fag eller emne, men ikke hele studieprogrammet. Den kan være en integrert del av en
-ordinær eksamen, som teller i den avsluttende
-vurderingen av et helt emne eller i deler av et
-emne (integrert deleksamen). En nasjonal deleksamen kan også være en vurdering som gjøres
-utenom de ordinære vurderingene (isolert deleksamen). En isolert deleksamen kan omfatte hele
-eller deler av et emne.
-Resultatet fra nasjonal deleksamen må enten
-telle med i endelige karakteren eller karakteren
-må synliggjøres på vitnemålet. Lovbestemmelsen
-gir hjemmel til å bestemme at karakteren på den
-nasjonale obligatoriske deleksamenen skal fremkomme på vitnemålet. De samme kravene og rettighetene som gjelder ordinær eksamen med hensyn til klage og sensur, gjelder også for nasjonale
-deleksamener.
-Nasjonalt organ for kvalitet i utdanningen
-(NOKUT) fikk høsten 2014 i oppdrag å lage en
-mulighetsstudie og et pilotprosjekt for gjennomføring av nasjonale deleksamener. I pilotprosjektet
-ble tre rammeplanstyrte utdanninger valgt ut.
-Pilotprosjektet omfattet bachelorgradsstudiene i
-henholdsvis sykepleie, regnskap og revisjon, og
-begge grunnskolelærerutdanningene. I medhold
-av universitets- og høyskoleloven § 3-2 ble utdanningsinstitusjonene pålagt å avholde nasjonale
-deleksamener.
-
-21.4.2 Utvalgets vurderinger
-Den tradisjonelle måten å måle hva studentene
-har lært på er gjennom sluttvurdering – eller eksamen – og påfølgende karakterfastsettelse. Fordi
-begrepet «eksamen» brukes gjennomgående i
-sektoren, velger utvalget primært å benytte
-begrepet «eksamen» i stedet for «sluttvurdering».
-Sensuren representerer et mål på faglige krav og
-standarder studentene har nådd. Den gir studenten en kvalifikasjon, som igjen gir et signal til
-omverdenen. Utvalget mener likevel det kan stilles spørsmål ved hva eksamen og eksamenskarak-
-
-Boks 21.2 Formativ og summativ
-vurdering
-Formativ vurdering er en vurderingsform som
-skal fremme læring. At vurderingsformen har
-læring som formål, skiller den fra andre vurderingsformer som har som formål å bedømme
-eller rangere prestasjoner. En lærer vurderer
-formativt når han eller hun undersøker og
-identifiserer hva studentene har forstått, eventuelt misforstått, og gir en tilbakemelding der
-oppmerksomheten rettes mot det studenten
-bør arbeide videre med, eller endrer undervisningen i tråd med vurderingen. Oppmerksomheten er altså på forbedringspotensialet, ikke
-på besvarelsens feil og mangler, og vurderingen tar sikte på å forme den videre læringsprosessen. Summativ vurdering finner sted
-ved avsluttet læringsløp. Der formativ vurdering peker mot fremtidig læring, peker summativ vurdering mot en allerede gjennomført
-prestasjon. Formålet med summativ vurdering
-er å avgjøre hvorvidt noe er holdbart eller
-ikke, og har kontroll, ikke læring, som siktemål.
-
-terer egentlig måler. Prøver en tradisjonell eksamen studentene i memorering eller forståelse, og
-er gode karakterer et bevis for god faglig forståelse? Hva som er den beste måten å måle studentenes læringsutbytte på, kan variere.
-
-21.4.2.1 Underveisvurdering og eksamen
-Vurdering i fag skal fremme læring og være et
-uttrykk for studentenes kompetanse. Studentene
-skal gjennom vurderingen få en tilbakemelding og
-god veiledning for videre arbeid. En god vurderingspraksis motiverer og har læring som mål.
-Underveisvurdering blir ofte omtalt som formativ
-vurdering eller vurdering for læring, fordi formålet er å fremme læring. Sluttvurdering eller
-«summativ» vurdering, omfatter eksamensresultater, og har til formål å uttrykke kompetansen til
-studentene etter endt læring i faget. Det er imidlertid ikke noe strengt skille mellom formativ og
-summativ vurdering, eller vurdering for og av
-læring, se faktaboks 21.2. For at underveisvurdering skal bidra til læring og gi informasjon om studentenes kompetanse, må den også bestå av vurdering av læring. Både i underveisvurdering og i
-
-[Side 199]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-eksamen er læringsutbyttebeskrivelsen for det
-aktuelle faget grunnlaget for vurdering, men en
-eksamen er tellende og blir reflektert på vitnemålet. Er den tellende vil også studenten kunne
-påklage resultatet. Underveisvurdering er i
-hovedsak ikke tellende og kan ikke påklages.
-Gjeldende universitets- og høyskolelov har
-ikke definert hva som menes med vurdering, men
-utvalget mener følgende prinsipper kan legges til
-grunn:
-– Studentene skal forstå hva de skal lære, og
-hvilke forventninger utdanningsinstitusjonene
-har.
-– Studentene skal få tilbakemeldinger og råd fra
-underviseren underveis i studiet om status og
-om hvordan de eventuelt kan forbedre seg.
-– Studenten skal være involvert i eget læringsarbeid blant annet gjennom selvvurdering av
-arbeidet og utviklingen.
-Studenten blir i løpet av studiet vurdert ut fra kompetansemålene og læringsutbyttet for det aktuelle
-studiet og ut fra progresjon. Formålet med vurderingene er å fremme læring underveis og å
-uttrykke kompetansen til studentene i løpet av studiet og ved studiets avslutning.
-Utvalget har mottatt innspill fra Universitetsog høgskolerådet (UHR) om nye lærings- og
-undervisningsformer.27 UHR viser til at dagens
-lov og forskrifter i for stor grad er «basert på tradisjonell undervisning og vurdering», og i fortsettelsen skriver UHR følgende:
-Når det gjelder undervisningsformer, omtales
-kun forelesninger i loven og med krav om at
-disse skal være offentlige om ikke forelesningens art krever noe annet, og styret kan
-avvike fra kravet om offentlighet. I dag er andre
-og mer studentaktive undervisningsformer
-svært utbredt og lovens fokus på forelesninger
-og krav om offentlighet har liten relevans. Om
-noe, bør den nye loven heller oppfordre til
-undervisnings- og læringsformer som i større
-grad krever aktiv deltakelse fra studentene.
-Lovteksten som er knyttet til vurdering, er
-dels til hinder for utprøving av nye vurderingsformer, hovedsakelig på grunn av studentenes
-klagerett på delkarakterer. UH-loven har relativt rigide reguleringer av eksamensrelaterte
-spørsmål – inklusive sensurkrav og frister,
-klagerettigheter, klagebehandling, krav til
-27
-
-Se innspill fra Universitets- og høgskolerådet https://
-www.universitetsoghoyskolelovutvalget.no/files/2019/09/
-UHR-Innspill-til-lovutvalget-27.-juni-2019.pdf.
-
-197
-
-Kapittel 21
-
-sensorveiledning, etc. Alle synes å ta utgangspunkt i «tradisjonell» skoleeksamen, men i sin
-form gjelder dette alle former for tellende vurdering. I sum gjør disse reglene det vanskelig å
-ta i bruk alternative og mer varierte vurderingsformer, som i større grad kan bidra til en
-helhetlig og god testing av studentenes kunnskaper og ferdigheter. Selv om reglene er innført med det formål å beskytte studentenes
-interesser, kan effekten være at de hindrer
-alternative vurderingsformer som studentene
-ville være mer tjent med. Det må finnes løsninger som er gjennomførbare også for andre
-vurderingsformer enn tradisjonell skoleeksamen. UHR ønsker et regelverk som ikke er til
-hinder for kvalitetsutvikling og bruk av andre
-vurderingsformer.
-Et innspill fra NHO til utvalget gir uttrykk for
-samme syn.
-Utvalget har også mottatt et innspill fra professor Christian Jørgensen ved Universitetet i
-Bergen, som mener at vurdering «er preget av å
-være gammeldags, byråkratisert, og dårlig forankret i moderne pedagogikk». Han oppfordrer til å
-bruke formativ vurdering fordi den har «positive
-effekter på læring direkte, men også indirekte
-fordi det vektlegger undervisningsmetoder som
-studentene lærer bedre av».28
-Jørgensen foreslår blant annet at loven bør
-åpne for å la deltakelse i undervisningsaktivitet
-telle med i den endelige karakterfastsettingen:
-I mange andre land er det tillatt å gi poeng som
-teller mot endelig karakter til studenter som tar
-del i læringsaktiviteter som har forventet
-læringsverdi. Eksempler kan være å kommentere på andre studenters arbeide, levere ekstra
-øvelser eller essays, undervise andre, etc.
-I forlengelse av dette foreslår Jørgensen å tillate
-begrenset medstudentvurdering som grunnlag
-for arbeidskrav eller karakter:
-Det bør åpnes for at studenter kan rette og godkjenne/poengsette hverandres innleveringer,
-såkalt «peer evaluation» eller «medstudentevaluering», så fremt rettingen skjer veiledet
-(basert på mal/fasit eller guidet av faglærer)
-og prosessen overvåkes/kvalitetssikres av en
-faglærer. Et eksempel kan være at man i inn28
-
-Se innspill fra Christian Jørgensen https://www.universitetsoghoyskolelovutvalget.no/files/2019/08/Christian-Jørgensen-Inspill-om-vurdering.pdf.
-
-[Side 200]
-
-198
-
-NOU 2020: 3
-
-Kapittel 21
-
-Ny lov om universiteter og høyskoler
-
-leveringer i matematikk må rette en annens
-innlevering, det skjer [i] auditoriet veiledet av
-faglærer som går gjennom hva som kreves, og
-kan overvåkes i ettertid av faglærer. Dette gir
-god læring hos den som retter, det kan gis mer
-skriftlig eller muntlig tilbakemelding som den
-som innleverte kan lære av. Det kan stilles krav
-til at rettinger og tilbakemelding lagres og kan
-spores (digitale verktøy åpner for dette) og at
-kvaliteten skal overvåkes og sikres av faglærer.
-Utvalget mener det skal være rom for å ha andre
-vurderingsformer enn tradisjonelle eksamener.
-Etter utvalgets oppfatning er ikke gjeldende universitets- og høyskolelov til hinder for dette. Utvalget vil presisere at institusjonene har mulighet til
-å tilby varierte lærings- og vurderingsformer, slik
-som «underveisvurdering». Denne vurderingsformen skal ikke telle med i den endelige karakteren
-som fremkommer på vitnemålet, men har til hensikt å fremme studentenes læring. Denne vurderingen kan heller ikke påklages.
-Utvalget er opptatt av institusjonenes autonomi. Målet er at den nye loven heller skal øke
-enn å redusere denne. Etter utvalgets vurdering
-er det vanskelig å se hvilke lovendringer som
-kan bøte på utfordringen UHR peker på når det
-skriver at «lovens fokus på forelesninger og krav
-om offentlighet har liten relevans», og at den nye
-loven heller bør «oppfordre til undervisnings- og
-læringsformer som i større grad krever aktiv deltakelse fra studentene». Utvalget ser det som
-mest hensiktsmessig med en rammelov som
-ikke stiller detaljerte krav til institusjonene, blant
-annet til hvordan institusjonen legger opp undervisningen.
-Utvalget er positivt til at en begrenset medstudentvurdering kan gi grunnlag for å oppfylle et
-nærmere bestemt arbeidskrav. Utvalget ønsker
-imidlertid ikke å foreslå at medstudentvurdering
-skal telle som en del av karaktergrunnlaget. Vurderingen fra medstudenter blir da del av en endelig vurdering med medfølgende klageadgang.
-Utvalget er betenkt over at studenter på denne
-måten skal gis mulighet til å påvirke medstudenters karakterer. Det kan ikke utelukkes at ordningen kan bli misbrukt, og at vurderingen kan stride
-imot kravet om en lik vurdering. I praksis kan
-dette innebære urimelig høye krav til faglærerens
-veiledning og oppfølging.
-Ved muntlig eller utøvende eksamen avgjør
-utdanningsinstitusjonene selv om slike vurderingsgrunnlag skal avholdes og hvordan de skal
-gjennomføres. En muntlig eller utøvende eksamen kan påklages hvis den er etterprøvbar. Er
-
-den etterprøvbar så følger den de samme reglene
-som gjelder for skriftlige eksamen. For en nærmere omtale av dette vises det til punkt 21.5 og
-21.6 om sensur og klage.
-
-21.4.2.2 Obligatoriske arbeidskrav
-Utvalget har i innspillsmøte med sektoren blitt
-opplyst om at enkelte utdanningsinstitusjoner legger til grunn at dersom en student må få godkjent
-et arbeid etter faglige kriterier for å kunne gå opp
-til eksamen, har studenten anledning til å klage
-etter universitets- og høyskoleloven § 5-3 femte
-ledd dersom arbeidet ikke godkjennes. Dette
-medfører at også mange av de obligatoriske
-arbeidskravene hvor det foretas en underveisvurdering, faller innunder retten til å klage på et
-ikke godkjent arbeidskrav, jf. § 5-3 femte ledd.
-Utvalgets oppfatning er at dette utfordrer
-utdanningsinstitusjonenes muligheter til å utvikle
-og ta i bruk gode og studentaktive læringsformer,
-hvor et element er å veilede studentene til egen
-læring. Utvalget er kjent med at flere institusjoner
-benytter seg av muligheten til å gi studentene som
-ikke består et arbeidskrav, en ny sjanse til å rette
-opp feil. Utvalget ser at dette kan være en god
-metode for å gi studentene mulighet til å ta eksamen.
-Utvalget mener at det ikke er adgang til å
-klage på obligatoriske arbeidskrav som ikke teller
-med i den endelige karakteren, i motsetning til
-arbeidskrav som enten er en del av eksamen, eller
-som inngår på vitnemålet eller innregnes i en
-karakter som fremgår av vitnemålet for det aktuelle studiet. Utvalget viser imidlertid til at en
-beslutning om at en student ikke kan gå opp til
-eksamen, er et enkeltvedtak som kan påklages
-etter forvaltningslovens29 regler om klage.
-21.4.2.3 Nasjonal deleksamen
-Bestemmelsen i universitets- og høyskoleloven
-§ 3-2 tredje ledd, som hjemler muligheten for å
-gjennomføre nasjonal deleksamen, representerer
-etter utvalgets mening en uheldig forskyvning av
-balansen i forholdet mellom institusjonell autonomi og statlig styring. En sterkere standardisering og ensretting av vurderingsformer gjennom
-nasjonale deleksamener på universitetsnivå vil
-kunne bidra til å svekke forskningsbasert undervisning. Utvalget mener at et pålegg fra Kunnskapsdepartementet om at det skal gjennomføres
-29
-
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
-
-[Side 201]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-nasjonal deleksamen i et fag eller på bestemte fagområder, bryter med prinsippet om akademisk frihet og kan føre til faglig ensretting. Hvis det skal
-gjennomføres nasjonal deleksamen i fag eller
-emner, mener utvalget at det må skje etter fagmiljøenes eget ønske. Utvalget foreslår derfor at
-bestemmelsen i universitets- og høyskoleloven
-§ 3-2 tredje ledd ikke videreføres.
-
-21.5 Sensur
-21.5.1 Gjeldende rett
-Gode ordninger for sensur er nødvendig for en
-uhildet og rettferdig karaktersetting og dermed for
-studentenes rettssikkerhet. Det er viktig at sensuren organiseres på en måte som bidrar til å sikre
-utdanningskvaliteten, og som inngir tillit både hos
-studentene og overfor potensielle arbeidsgivere
-eller utdanningsinstitusjoner. Det er også viktig
-med åpenhet og innsyn i sensurordningen.
-21.5.1.1 Sensorveiledning
-I Prop. 64 L (2017–2018) foreslo departementet å
-lovfeste et krav om sensorveiledning til eksamen.30 Det følger derfor av universitets- og høyskoleloven § 3-9 andre ledd siste punktum at det
-skal utarbeides skriftlig sensorveiledning til alle
-eksamener. Dette kravet er absolutt og gjelder
-uavhengig av om det er en skriftlig eller muntlig
-skoleeksamen, hjemmeeksamen, prosjekt, individuell eksamen eller gruppeeksamen. I departementets omtale av «eksamen» er definisjonen i
-NOU 1993: 24 lagt til grunn:
-med eksamen regnes i denne forbindelse alle
-enkeltprestasjoner i form av prøver, oppgaver
-og avhandlinger m.m. som er tellende og føres
-på vitnemålet, eller som inngår som en del av
-slike eksamener […].
-Universitets- og høyskoleloven § 3-9 andre ledd
-siste punktum fastsetter ikke de nærmere krav til
-innholdet i sensorveiledningen, men den må være
-egnet til å ivareta hovedhensynet ved veiledningen, som er å sikre en så ensartet vurdering av
-eksamensoppgavene som mulig. Sensorveiledninger må kunne ha ulik innretning og ulikt
-omfang avhengig av de enkelte fagenes tradisjoner og egenart. Sensorveiledningen skal være
-tilpasset det arbeidet studenten skal prøves i. Det
-30
-
-Prop. 64 L (2017–2018) Endringer i universitets- og høyskoleloven (NOKUTs oppgaver, eksamen, personvern mv.).
-
-199
-
-Kapittel 21
-
-er institusjonen som har ansvaret for at det utarbeides sensorveiledning.
-Departementet viste i lovproposisjonen til at
-sensorveiledningen kan utarbeides til hver enkelt
-eksamen, eller gjelde for en gruppe av emner eller
-eksamener hvis dette er mest hensiktsmessig. En
-sensorveiledning kan være et dokument som angir
-generelle retningslinjer for hvordan besvarelser
-skal vurderes, eller den kan helt eller delvis inneholde såkalte rettenøkler, fasiter eller mønsterbesvarelser. Departementet understreket at det ikke
-er hensiktsmessig at lovteksten beskriver et spesifikt og begrenset minimumskrav til sensorveiledningen, ettersom kravet om sensorveiledning gjelder alle typer eksamener, med alle de variasjoner
-dette innebærer. Det må derfor være opp til den
-enkelte institusjon å vurdere hva som er mest hensiktsmessig å inkludere i sensorveiledningen.
-Selv om sensorveiledninger er utarbeidet for å
-hjelpe sensorene, følger det av universitets- og
-høyskoleloven § 5-3 tredje ledd at sensorveiledninger også skal gjøres tilgjengelig for studentene
-etter at sensuren foreligger. Med dette menes at
-studentene skal ha mulighet til å se veiledningen,
-men det er ikke krav om at den publiseres på nett
-eller offentliggjøres på andre måter. I lovproposisjonen viste departementet til at det for eksempel
-må anses som tilstrekkelig å la studentene lese
-veiledningen på studiekontoret eller lignende.
-Dette er spesielt aktuelt i tilfeller der eksamensoppgavene gjenbrukes i løpet av kort tid. Det kan
-være hensiktsmessig at sensorveiledningen
-offentliggjøres når den angir generelle retningslinjer for hvordan besvarelser skal vurderes, men
-det kan være uheldig å gjøre den offentlig hvis
-den inneholder rettenøkler eller fasiter som kan
-komme til å bli gjenbrukt ved en senere eksamen.
-Det er uansett opp til utdanningsinstitusjonene å
-vurdere hvordan sensorveiledningen skal gjøres
-tilgjengelig.
-
-21.5.1.2 Gjennomføring av sensur
-Universitetsloven av 1995 § 50 inneholdt et krav
-om at det alltid skulle være to sensorer, hvorav
-minst én ekstern. Bestemmelsen ble opphevet
-ved lov 28. juni 2002 nr. 62. Studentenes rettssikkerhet måtte i vesentlig grad vike for behovet
-for mindre ressurskrevende vurderingsformer.
-For å ivareta studentenes rettssikkerhet i en viss
-grad og sikre uavhengig kvalitetskontroll av det
-enkelte studium, ble det riktignok innført et krav
-om ekstern evaluering av vurderingsordningene,
-som fremgår av dagens universitets- og høyskolelov § 3-9 første ledd. Det er opp til den
-
-[Side 202]
-
-200
-
-NOU 2020: 3
-
-Kapittel 21
-
-Ny lov om universiteter og høyskoler
-
-enkelte institusjon å bestemme hvordan den
-eksterne deltakelsen i vurderingen skal gjennomføres. Dette kan skje ved:
-En ekstern deltakelse i den enkelte vurdering
-eller ved ekstern evaluering av vurderingsordningene. […] Systemet med ekstern evaluering av vurderingene eller vurderingsordningene skal også ivareta studentenes rettsikkerhet ved å sikre like og upartisk bedømmelse av
-studentene.31
-Det følger av universitets- og høyskoleloven § 3-9
-andre ledd at det er styret som oppnevner sensor
-ved eksamen, prøve, bedømmelse av oppgave
-eller annen vurdering når resultatet inngår på vitnemålet eller innregnes i karakteren for det aktuelle studiet. Ved bedømmelse av et selvstendig
-arbeid i høyere grad skal det være minst to sensorer, hvorav minst én ekstern. For lavere grad er
-det ikke krav om to sensorer eller ekstern sensor.
-Ved klage er det derimot krav om to sensorer,
-hvorav minst én skal være ekstern. Dette gjelder
-uavhengig av utdanningsnivået.
-Det fremgår av forarbeidene at sensors vurdering av typisk ekspressive prøver32, i motsetning til
-rene matematiske besvarelser, kan inneholde mye
-skjønn.33 Det er derfor ikke usannsynlig at én
-sensor kan komme til et annet resultat enn en
-annen sensor. Forarbeidene viser til at når flere er
-sammen om sensuren, reduseres sjansen for at
-enkelte besvarelser får en lite representativ karakter. Når sensorer regelmessig sensurerer i fellesskap og det varierer hvem en sensor har som
-«med-sensor», vil det utvikle seg en «sensorkultur»
-for hva som er gode og mindre gode måter å løse
-oppgavene på. Dette medvirker til en likere og mer
-rettferdig vurdering av eksamensprestasjonene.
-Departementet viste i Prop. 64 L (2017–2018)
-til følgende:
-
-relsen vurderes av eksterne sensorer. Utdanningsinstitusjonene står med andre ord ganske
-fritt til å gjeninnføre en del av det som
-høringsinstansene har pekt på som problematisk ved dagens lovbestemmelser om eksamen
-og sensur.
-
-21.5.1.2.1 Karakterskala
-Det følger av universitets- og høyskoleloven § 3-9
-sjette ledd at «vurderingsuttrykket ved eksamen,
-prøve, bedømmelse av oppgave eller annen vurdering skal være bestått/ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F
-for ikke bestått».
-Bestemmelsen kom inn i loven i 1995, og med
-dette ble det innført en felles nasjonal karakterskala som skulle korrespondere med tilsvarende
-karakterskalaer ved utenlandske institusjoner.
-Tanken var å gjøre resultatene fra norske utdanningsinstitusjoner mer kompatible med høyere
-utdanning i andre land. Karaktertrinnene A-F tilsvarer trinnene som benyttes i ECTS-systemet,
-som er et system for å sammenligne vekt og
-karakter på kurs på universitets- og høyskolenivå
-på tvers av land og institusjoner.
-I merknadene til bestemmelsen Ot.prp. nr. 79
-(2003–2004) side 83 uttalte departementet følgende:
-
-[S]elv om det ikke lenger er et krav i loven om
-to sensorer ved sensurering av eksamen i
-lavere grad, er det ingen hindringer i lovverket
-for at dette gjeninnføres av utdanningsinstitusjonene hvis dagens sensurordning oppfattes
-som lite tilfredsstillende. Det er heller ingen
-hindringer i lovverket for å la eksamensbesva-
-
-To prinsipper må ligge til grunn ved anvendelsen av karakterskalaen. Det første er at karaktersettingen i det enkelte tilfelle skal ta
-utgangspunkt i den verbale beskrivelsen som
-er gitt av de enkelte nivåene. Det andre er at i
-utgangspunktet skal den enkelte student vurderes opp mot hele skalaen, uansett studium
-og nivå. Disse prinsippene innebærer at det
-ikke på forhånd er definert en fast karakterfordeling som hvert enkelt kull eller hver
-enkelt studieenhet skal presses inn i. Departementet antar imidlertid at for større populasjoner og over tid vil en få en karakterfordeling som i det vesentlige tilsvarer den
-bestemte fordeling ECTS benytter. Dette
-innebærer at det ikke vil være nødvendig å
-benytte ECTS som et middel for å oversette
-det norske karaktersystemet.
-
-Ot.prp. nr. 40 (2001–2002) punkt 12.1.10, merknader til § 50
-nr. 1 side 74.
-32
-Med ekspressive prøver menes besvarelser som ikke kan
-klassifiseres som riktige eller gale, det vil si blant annet
-essay, rapporter, avhandlinger, konserter og kunstverk.
-33
-Omtalt i Prop. 64 L (2017–2018) punkt 4.5.4.
-
-21.5.1.2.2 Sensurfrist
-Eksamenssensur skal foreligge tre uker etter at
-eksamen er gjennomført, jf. universitets- og høyskoleloven § 3-9 fjerde ledd. Departementet har i
-flere uttalelser tolket bestemmelsen slik at det
-
-31
-
-[Side 203]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-dreier seg om tre kalenderuker, og det skal ikke
-gjøres fradrag for eventuelle helligdager eller
-andre fridager i dette tidsrommet.
-
-21.5.1.2.3 Begrunnelse for karakterfastsettelsen
-Fastsettelse av karakter er et enkeltvedtak. Hovedregelen er at enkeltvedtak skal grunngis, og
-begrunnelsen skal gis samtidig med at vedtaket
-treffes, jf. forvaltningsloven § 24. Dette gjelder bare
-så langt ikke annet fremgår av særlov. Gjeldende
-regler i universitets- og høyskoleloven avviker fra
-forvaltningslovens hovedregel ved at begrunnelsesplikt først inntrer når studenten ber om det.
-En student kan i henhold til universitets- og
-høyskoleloven § 5-3 første ledd første punktum
-kreve å få begrunnelse for karakterfastsettingen
-for sin egen prestasjon ved eksamen.
-I begrunnelsen for karaktervurderingen skal
-det redegjøres både for de generelle retningslinjene som er lagt til grunn for vurderingen og for
-den konkrete vurderingen av studentens besvarelse når det gjelder blant annet innhold og form.
-Det er utdanningsinstitusjonen som avgjør om
-sensorene skal gi begrunnelsen skriftlig eller
-muntlig. Men lovbestemmelsen er ikke til hinder
-for at utdanningsinstitusjonene delegerer til sensorene å avgjøre om det skal være skriftlig eller
-muntlige begrunnelse.
-En del utdanningsinstitusjoner har innført en
-ordning med automatisk begrunnelse for eksamenskarakteren. Studenten mottar da karakter og
-begrunnelse for karakterfastsettingen samtidig.
-Det er opp til den enkelte utdanningsinstitusjon å
-vurdere om det skal gis en slik automatisk
-begrunnelse. Normalt skal begrunnelsen gis
-innen to uker etter at studenten har bedt om det.
-
-21.5.2 Utvalgets vurderinger
-21.5.2.1 Innledning
-Utvalget viser til at det ikke kan gis pålegg eller
-instrukser om «læreinnholdet i undervisningen
-og innholdet i forskningen eller i det kunstneriske
-og faglige utviklingsarbeidet», jf. universitets- og
-høyskoleloven § 1-5 tredje ledd bokstav a. Dette
-innebærer at verken regjeringen, departementet
-eller andre kan legge føringer for hva det skal forskes på eller hvordan forskningen skal utføres.
-Bestemmelsen skal sikre at universiteter og høyskoler, som sentrale forskningsleverandører til
-samfunnet, er objektive og uavhengige av politisk
-styring i undervisning, forskning og faglig og
-kunstnerisk utviklingsarbeid.
-
-201
-
-Kapittel 21
-
-21.5.2.2 Sensorveiledning
-Kravet om sensorveiledning har vært gjeldende
-siden 2018, men ble ved enkelte institusjoner
-praktisert før lovfestingen. Utvalget mener det er
-for tidlig å si noe om hvilken effekt kravet om å
-utarbeide sensorveiledning har fått for sensureringen, og om kravet har ført til større likhet mellom sensorenes vurderinger. Målet med sensorveiledning er at like oppgaver vurderes likt, ved at
-sensorer legger de samme retningslinjene til
-grunn for vurderingen og gjør vurderingen opp
-mot det fastsatte læringsutbyttet for emnet og studieprogrammet. Det vil likevel ikke være noen
-garanti for at sensorene vurderer besvarelser likt.
-Uten noen form for kontroll av at sensorene faktisk følger sensorveiledningene, kan tiltaket få
-mindre effekt enn det som er tiltenkt. Sensorene
-vil for eksempel fortsatt kunne gå utenfor sensorveiledningene, og vekte vurderingsmomentene
-annerledes enn forutsatt.
-Utvalget mener imidlertid at sensorveiledningene gjør kvaliteten på eksamen bedre, fordi de
-bidrar til bedre kvalitetssikring av det fastsatte
-læringsutbyttet og trolig bedre samsensur. Veiledningen er også et pedagogisk verktøy for studentene. Dette gjelder spesielt sensorveiledninger
-som inneholder eksempler på beste praksis.
-Utvalget foreslår derfor å videreføre kravet til
-sensorveiledning i loven.
-Utvalget viser også til at departementet, som
-omtalt under gjeldende rett punkt 21.5.1, har sett
-det som tilstrekkelig for å møte kravet om tilgjengeliggjøring av sensorveiledningen, at studentene
-kan få lese sensorveiledningen på et studiekontor
-hvis den ikke publiseres offentlig.
-21.5.2.3 Gjennomføring av sensur – innledning
-Etter innføringen av Kvalitetsreformen i 2003 er
-det ikke lenger et krav i loven ved sensurering av
-eksamener på lavere grads studier at to sensorer
-skal sensurere hver eksamen, eller at minst én av
-dem skal være ekstern. For at kvaliteten på sensureringen skal opprettholdes, er det viktig at det er
-et godt samsvar i vurdering og karaktersetting
-innenfor gruppen av sensorer.
-Utvalget viser i denne sammenheng til en
-vitenskapelig artikkel, «Lavt sensorsamsvar – kan
-det bedres?», som peker på dette misforholdet.34
-34
-
-Bjølseth, Gunnar; Anton Havnes og Per Lauvås. Lavt
-sensorsamsvar – kan det bedres? Uniped 04/2011, volum 34.
-Hentet fra https://www.idunn.no/uniped/2011/04/lavt_sensorsamsvar_kan_det_bedres.
-
-[Side 204]
-
-202
-
-NOU 2020: 3
-
-Kapittel 21
-
-Ny lov om universiteter og høyskoler
-
-Artikkelen viser at samsvaret er lavest ved såkalte
-ekspressive prøver – besvarelser som ikke kan
-klassifiseres som riktige eller gale, det vil si blant
-annet essay, rapporter, avhandlinger, konserter og
-kunstverk. I artikkelen vises det til at:
-[…] tiltroen til at eksamensbesvarelser kan
-vurderes og karaktersettes nøyaktig og likt
-ikke har noen sterk basis i de empiriske studier
-som foreligger. Denne tiltroen holdes likevel
-ved like, som antydet av Price (2005), fordi det
-er for ubehagelig å ta innover seg at holdbarheten i våre sensurordninger er svak. Studenter flest ser også ut til å beholde tiltroen til sensureringen, selv når de kjenner til at sensorene
-vektlegger ulikt (Crook, Gross & Dymott,
-2006). Bloxham (2009) viser til de vanligste
-årsakene til dårlig sensorsamsvar:
-Komplekse læringsresultater kan ikke
-reduseres til noe som er enkelt å vurdere
-endimensjonalt og liketil. Samsvaret er størst
-når vurderingen gjelder enkle forhold og dårligere når det er mer sentrale – og viktigere –
-aspekter som vurderes. Men selv på de enkle
-forholdene kan det være stor variasjon. Selv i
-de tilfellene hvor kriteriene for vurdering er
-gjort eksplisitte, risikerer studentene at ulike
-sensorer vurderer deres arbeider ulikt.
-Vurderingen må i stor grad baseres på faglig skjønn, og skjønnet utvikles over tid som ett
-aspekt av sosialiseringen inn i fag-, disiplin- og
-profesjonskonteksten, og utgjør de individuelle
-«locally constructed and tacit standards» (ibid.,
-s. 212) som legges til grunn ved vurderingen.
-Sensorene betrakter seg etter hvert som
-eksperter i sensurering. Deres vurdering blir
-mer intuitiv enn systematisk og bevisst, og
-noen studier tyder på at erfarne sensorer ikke
-er mer konsistente i sine vurderinger enn mer
-uerfarne, bl.a. fordi de legger mindre vekt på
-vedtatte vurderingskriterier, -prosedyrer og
-andre støttetiltak i sensureringen. De baserer
-seg på sitt eget skjønn.
-Artikkelen viser til at kombinasjonen av intuitiv og
-subjektiv vurdering, mangelfull profesjonalitet i
-vurderingen, og mangel på anledninger til å kalibrere eget skjønn mot andres svekker sensorsamsvaret ved typisk ekspressive prøver.
-Formulering av læringsmål og læringskriterier er i dag vanlig. Disse tjener både til å styre
-studenters læring og til å gi grunnlag for vurdering. Å definere og klargjøre vurderingskriterier,
-er likevel noe annet enn å bruke dem likt i praksis.
-Utvalget mener en mulighet for å styrke lik prakti-
-
-sering kan være å gjeninnføre kravet om to sensorer, se punkt 21.5.2.3.2.
-Artikkelen viser videre til at selv om det er
-uklart hvor stor betydning opplæring av sensorer
-og andre sensureringstiltak har, er det relativt
-bred enighet om at «kollektivitet er viktig.
-Lærere/sensorer må samtale om vurderingen når
-den foregår; på den måten kan det utvikles en
-felles forståelse og felles praksis. Studentene bør
-også innlemmes i vurderingspraksis og samtalene
-om læringsmål og kriterier». I artikkelen «Om
-vurdering av essaybesvarelser i høyere utdanning –
-en studie av vurderer-reliabilitet», blir det vist til at
-besvarelser der det i utgangspunktet var stort
-avvik mellom sensorene, også vil bli vurdert ulikt
-av nye sensorer:
-Dette kan indikere at man ved å øke antall sensorer, i noen tilfeller kan beskytte studenten
-mot urimelige konsekvenser av den lave reliabiliteten, men i seg selv behøver ikke dette
-nødvendigvis å føre til noe «riktigere» eller
-«sannere» bedømming av studentens besvarelser. Det vi på den annen side kan sikre ved å
-øke antall sensorer, er at negative konsekvenser for studentene når det gjelder innbyrdes
-rangering vil reduseres. I praksis vil bruk av
-flere sensorer være sammenlignbar med sensureringer der man […] benytter moderatorer
-for å minimalisere uheldige konsekvenser ved
-opprinnelig lav reliabilitet. Det er imidlertid
-ikke mulig å si på forhånd hvilke besvarelser
-som vil vise seg å være lette eller vanskelige å
-bedømme. Med så store avvik mellom sensorene som vi har vist her, kan det være at man
-må spørre seg om det er særtrekk ved besvarelsene som gjør dem spesielt vanskelige å vurdere.35
-Artikkelforfatteren mener det kan se ut som om
-«sensorene forkaster ideen om å legge til grunn
-definerte kriterier siden det ikke synes å gi noen
-mening å anvende dem når det ikke er noen referanser til standarder». Forfatteren konkluderer
-med at de karakterene studentene fikk, «viste seg
-å være vel så avhengig av hvem som vurderte oppgavene som av kvaliteten på selve besvarelsen».
-Et tiltak som muligens kan bidra til å redusere
-forskjeller ved sensurering som omtalt over, er å
-35
-
-Asmyhr, Morten. Om vurdering av essaybesvarelser i høyere
-utdanning – en studie av vurderer-reliabilitet. Uniped 04/
-2011 (volum 34). Hentet fra https://www.idunn.no/uniped/2011/04/om_vurdering_av_essaybesvarelser_i_hoeyere_utdanning_en_st.
-
-[Side 205]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-innføre en grovere karakterskala. Utvalget drøfter
-dette tiltaket i punktet nedenfor.
-
-21.5.2.3.1 Karakterskala
-Professor Christian Jørgensen ved Universitetet i
-Bergen har i et innspill til utvalget foreslått å innføre en tretrinns karakterskala av typen «utmerket/bestått/ikke bestått». Han skriver blant annet
-følgende:
-Ved sensur er det ofte lett å gjenkjenne karakterene A, E og F mens skillet mellom B/C/D er
-mye vanskeligere å gjenkjenne presist. De
-fleste studentene skal ha en av disse mellomkarakterene, og typisk kan de være gode på noen
-faglige elementer og streve med andre. […] En
-bokstavkarakter basert på flere vurderingselementer øker arbeidsmengden ved sensur. Ved
-flere vurderingselementer må hvert element
-vurderes med fin oppløsning fordi det er en
-eller annen form for sum som bestemmer samlet karakter. Selv en liten forskjell på ett vurderingselement kan være det som krysser grensen mellom to bokstavkarakterer til slutt.
-Arbeidsmengden for å sette en rettferdig bokstavkarakter går opp. […] Det eneste tillatte
-alternativet i Norge i dag er «bestått/ikke
-bestått». Etter samtaler med mange undervisere hører jeg at de bekymrer seg for at studentene da vil krysse der gjerdet er lavest og
-legge nær minimal innsats i faget.»36
-Videre argumenterer Jørgensen slik:
-En grov karakterskala kan dreie undervisers
-arbeidsinnsats fra finmåling for repeterbar
-karaktersetting til tilbakemelding studentene
-kan utvikle seg på. Med en tretrinns skala gjenstår de to enkleste grensene: å gjenkjenne de
-aller flinkeste og de som ikke skal bestå emnet.
-Det blir dermed færre karaktergrenser, færre
-som er i en uklar sone som kan utløse klage, og
-enklere å avgjøre klagene. Muligheten for det
-øverste karakternivået gir studentene motivasjon til å stå på. […] Fordi størsteparten får
-«bestått» vil studentenes stress og angst antagelig gå ned. […] Med formativ vurdering og
-tilbakemelding skapes en indre motivasjon for
-faget heller enn en ytre motivasjon for karakteren, med positiv effekt på innsats og læring.
-36
-
-Se innspill fra Christian Jørgensen https://www.universitetsoghoyskolelovutvalget.no/files/2019/08/Christian-Jørgensen-Innspill-om-tretrinns-karakterskala.pdf.
-
-203
-
-Kapittel 21
-
-Utvalget viser til at en tretrinns karakterskala ikke
-harmonerer med Bolognaprosessen og den etterfølgende innføringen av A–F-karakterskalaen. På
-den andre siden skiller Norges A–F-skala seg fra
-skalaen i andre land. For eksempel har både USA
-og Storbritannia en karakterskala som går fra A til
-D og så til F uten et trinn E imellom. Ugraderte
-karakterskalaer var i bruk ved enkelte utdanningsinstitusjoner før innføringen av Kvalitetsreformen. Blant annet var graderingen «bestått
-med laud / bestått / ikke bestått» brukt ved Universitetet i Oslo. Tretrinnskalaen er også vanlig
-ved de eldste universitetene i Sverige.
-Utdanningsinstitusjonene har også i det siste
-tatt til orde for å gå bort fra A–F- karakterskalaen i
-et forsøk på å senke karakterpresset ved enkelte
-studier. I dag er det ikke mulig å benytte andre
-karakterskalaer enn A–F eller bestått/ikke-bestått.
-Universitetet i Oslo og Universitetet i Bergen har
-vedtatt å bruke bestått/ikke-bestått i stedet for A–F
-ved enkelte innledende emner ved de juridiske
-fakultetene, nettopp som et tiltak for å dempe
-karakterpresset og begrense gjentak av eksamen.37
-Eksamen må være egnet til å gi sensorene et
-grunnlag til å prøve studentenes læringsutbytte.
-Som omtalt over, har forskning og innspill til utvalget pekt på at karaktersettingen på eksamen kan
-være vilkårlig og personavhengig. Utvalget mener
-problemet kan avhjelpes ved at det innføres en
-mulighet til å benytte seg av en mindre detaljert
-karakterskala, i tillegg til at det blir krav om to
-sensorer, se punkt 21.5.2.3.2. Utvalget er enig i at
-muligheten for å nå det øverste karakternivået vil
-gi studentene motivasjon til å stå på. En underveisvurdering vil kunne gi studentene en pekepinn
-om hva de bør forbedre, enten for å komme helt til
-topps eller for å bestå faget. Utvalget foreslår derfor at det i tillegg til A–F-karakterskalaen og
-bestått/ikke-bestått innføres en mulighet for å
-benytte en tretrinns karakterskala med utmerket/
-bestått/ikke-bestått.
-
-21.5.2.3.2 Krav om to sensorer ved eksamen
-Utvalget mener at å gjeninnføre kravet om to sensorer ved gjennomføring og vurdering av eksamen kan bedre studentenes rettsikkerhet ved sensur. Krav om to sensorer innebærer av alle skriftlige eksamener hvor det brukes en gradert karak37
-
-Rett24. De juridiske fakultetene dropper karakterer tidlig i
-studiet https://rett24.no/articles/de-juridiske-fakultetenedropper-karakterer-tidlig-i-studiet og Finansavisen. Jus-studier kutter karakterer https://finansavisen.no/nyheter/
-utdannelse/2019/11/18/7473432/jus-studier-kutter-karakter begge hentet 16.1.2020.
-
-[Side 206]
-
-204
-
-NOU 2020: 3
-
-Kapittel 21
-
-Ny lov om universiteter og høyskoler
-
-terskala utover bestått/ikke-bestått, vurderes av
-to sensorer som sammen fastsetter eksamenskarakteren basert på studentens prestasjon. Det
-er også krav om to sensorer ved selvstendig
-arbeid i forbindelse med både lavere og høyere
-grad uavhengig av vurderingsuttrykket, samt ved
-bedømmelse av muntlig eller utøvende eksamen,
-eller vurderinger av praksisstudier. Minst én av
-sensorene skal være ekstern. Når studentene blir
-vurdert av to sensorer, kan de føle seg tryggere
-på at karakteren er veloverveid og riktig.
-Krav om to sensorer ved eksamen vil medføre
-økte kostnader sammenlignet med dagens ordning med én sensor. Å engasjere en ekstra sensor
-medfører også mer administrasjon i forbindelse
-med sensuren. Som nevnt foreslår utvalget også at
-minst én av sensorene skal være ekstern. Selv om
-dette kravet trolig vil medføre noe mer administrativt arbeid og økte kostnader for utdanningsinstitusjonen, mener utvalget at et krav om ekstern
-sensor i større grad enn i dag vil sikre likebehandling av studentene og objektivitet i vurderingen,
-særlig ved mindre studieretninger der interne
-sensorer kjenner studentene fra før. Krav om to
-sensorer hvorav minst én er ekstern, vil særlig
-bedre studentenes rettssikkerhet der det ikke er
-mulighet til å klage på eksamensresultatet fordi
-prestasjonen ikke er etterprøvbar. Dette kan for
-eksempel være tilfellet ved en muntlig eksamen.
-
-21.5.2.3.3 Filming av muntlig og utøvende
-eksamen
-Etter gjeldende rett kan ikke bedømmelsen av en
-muntlig prestasjon eller vurderingen av praksisstudier eller lignende som etter sin art ikke lar
-seg etterprøve, påklages, jf. universitets- og høyskoleloven § 5-3 femte ledd. Det er vilkåret «etter
-sin art ikke lar seg etterprøve» som avgjør om
-muntlig eller utøvende eksamen kan påklages.
-Det er institusjonene som tar stilling til hvordan
-muntlig eksamen legges opp og gjennomføres.
-Hvis en muntlig eksamen er filmet, kan den være
-etterprøvbar. Departementet har vist til følgende:
-[D]ersom det er tatt videoopptak av en muntlig
-eksamen vil videoopptaket i seg selv ikke automatisk begrunne at det er klageadgang, fordi
-et videoopptak alene ikke nødvendigvis er tilstrekkelig til at eksamenen er etterprøvbar.
-Hvorvidt eksamen med bruk av videopptak vil
-kunne etterprøves på en måte som er tilfredsstillende, må vurderes av den enkelte utdanningsinstitusjon. Departementet vil i denne
-sammenhengen også peke på at bruk av
-
-videoopptak reiser spørsmål knyttet til personvern, for eksempel spørsmål om tilgang, lagring, hvem som eier opptaket og sletting av persondata, herunder at studenten vil måtte gi et
-reelt samtykke til videoopptak.38
-Flertallet i utdannings- og forskningskomiteen på
-Stortinget har uttalt følgende:
-[M]untlig eksamen bør filmes i de tilfellene
-kandidaten selv ønsker dette, slik at kandidaten får et bedre utgangspunkt ved en eventuell
-klage. Flertallet ber derfor regjeringen i sammenheng med den varslede gjennomgangen
-av universitets- og høyskoleloven vurdere om
-en ordning med videoopptak av muntlig eksamen kan la seg gjennomføre.39
-Utvalget har gitt Deloitte Legal i oppdrag å vurdere filming av muntlig og utøvende eksamen ved
-universiteter og høyskoler, og forholdet til personvernregelverket, studenter og utdanningsinstitusjonen. Vurderingen fra Deloitte Legal finnes i
-elektronisk vedlegg 2 til utredningen.
-Deloitte Legal anbefaler ikke å innføre en plikt
-for institusjonene til å tilby filming av muntlig eller
-utøvende eksamen i tilfeller der studenten ønsker
-det. Deloitte Legal viser til at tiltaket vil medføre
-betydelige kostnader og ha negative konsekvenser for personvern og arbeidsrettslige forhold.
-Deloitte Legal vurderer det slik at alternative tiltak, for eksempel krav om to sensorer ved muntlig
-eller utøvende eksamen, er bedre egnet til å
-ivareta studentens interesser totalt sett. Deloitte
-Legal skriver følgende i sin oppsummering:
-Filming av tradisjonell muntlig eksamen vil
-trolig gi studentene best rettssikkerhet ved at
-eksamensprestasjonen blir etterprøvbar og
-kandidatene får adgang til å klage på lik linje
-med andre etterprøvbare eksamensformer.
-Samtidig påpekes det av utdanningsinstitusjoner vi har intervjuet at tiltaket kan skape en
-tøffere eksamenssituasjon. Vår vurdering
-viser at tiltaket vil kunne etablere et inngrep i
-både kandidats og sensors personvern. Sammenlignet med skriftlig eksamen hvor partene forblir anonyme, er muntlig eller
-utøvende eksamen en mer direkte personlig
-
-38
-39
-
-Se Prop. 64 L (2017–2018) s. 25.
-Se Innst. 318 L (2017–2018) Innstilling fra utdannings- og
-forskningskomiteen om Endringer i universitets- og høyskoleloven.
-
-[Side 207]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-vurdering ved at både kandidat og sensor kan
-identifiseres.
-Filming kan oppleves som et kontrolltiltak
-for sensor, og gi arbeidstakere en følelse av at
-tilliten til profesjonen og den enkelte ansatte er
-svekket. Innføring av tiltaket er ressurs- og
-kostnadsdrivende, og krever betydelige økonomiske investeringer sammenlignet med andre
-alternative modeller. Man vil være avhengig av
-at hver institusjon har tilstrekkelig med midler
-for å gjennomføre tiltaket.
-Vår anbefaling er derfor å gjeninnføre et
-krav om at muntlig eksamen skal avholdes med
-to sensorer (modell I, se punkt 3.1). Til tross
-for at dette tiltaket er kostnad- og ressurskrevende, er det etter vår vurdering det som er
-best egnet til å ivareta studenters rettssikkerhet uten at det samtidig oppstår en rekke andre
-utfordrende rettslige problemstillinger og forhold. Tiltaket vil trolig kunne øke objektivitet i
-bedømmelsen av kandidatens prestasjon og i
-større grad sikre likebehandling av kandidatene. Det antas derfor at det vil kunne føre til
-færre formelle klager. Dette tiltaket fremstår
-som klart mindre inngripende enn filming hva
-gjelder både kandidaters og sensorers rett til
-personvern.
-Deloitte Legal har i sin utredning vurdert fem
-alternative tiltak til filming: plikt til å avholde eksamen med minst to sensorer, krav til detaljert
-sensorveiledning, obligatorisk begrunnelse av
-karakterfastsettingen,
-obligatorisk
-tilstedeværelse av studentrepresentant, og studenters
-adgang til å forsvare egen prestasjon. Ingen av de
-alternative tiltakene vil sikre etterprøvbarhet ved
-muntlig og utøvende eksamen, men tiltakene kan
-bidra til å bedre studentenes rettssikkerhet.
-Utvalget slutter seg til hovedkonklusjonen i
-rapporten til Deloitte Legal om ikke å innføre
-plikt til å tilrettelegge for filming av muntlig eller
-utøvende eksamen. Når det gjelder Deloitte
-Legals alternative forslag om at en studentrepresentant skal være til stede under eksaminasjonen, mener utvalget at det i følge gjeldende universitets- og høyskolelov § 3-9 tredje ledd første
-punktum («den muntlige del av eksamener og
-prøver skal være offentlig med mindre hensynet
-til gjennomføringen av eksamenen eller prøven
-tilsier noe annet») er fullt mulig at en studentrepresentant, eller andre, overværer en muntlig
-vurdering.
-Tilstedeværelse av en studentrepresentant
-ved muntlig eksamen vil kunne skape en objektiv
-ramme rundt eksamensgjennomføringen og
-
-205
-
-Kapittel 21
-
-bidra til at studentene føler seg tryggere og får
-økt tillit til den etterfølgende sensuren. Tiltaket
-vil innebære noen kostnader for utdanningsinstitusjonene, som må sørge for nødvendig opplæring i representantens rolle i tillegg til godtgjørelse for medgått tid og arbeid. Utvalget viser
-imidlertid til punkt 21.5.2.3.2, der utvalget foreslår å innføre et krav om to sensorer ved alle
-eksamener. Utvalget mener tilstedeværelse av en
-studentrepresentant i tillegg til dette vil være lite
-hensiktsmessig bruk av ressurser, samtidig som
-det i praksis vil være svært utfordrende for de
-studenttillitsvalgte i kull med mange studenter.
-Et krav om to fagsensorer er etter utvalgets vurdering alt i alt bedre egnet til å sikre riktig karakterfastsetting for studenter som går opp til muntlig eller utøvende eksamen.
-Utvalgsmedlem Bergstrøm legger til i en
-merknad at selv om det i dag bare er mulig å gi
-klageadgang til studenter som eksamineres med
-muntlig eller utøvende eksamen, i tilfeller der
-eksamenen er etterprøvbar, er det likevel viktig
-at arbeidet med problemstillingen fortsetter.
-Klagemulighet og etterprøvbarhet ivaretar studentenes rettssikkerhet på en bedre måte. Dette
-gjelder særlig for de gruppene som har fått innvilget tilpasset eksamen på grunn av sykdom
-eller andre behov og som ender opp med å måtte
-benytte seg av muntlig vurderingsform. Det at
-det i realiteten ikke er mulig å klage på karakteren etter en muntlig vurderingsform, skaper et
-skille, og etter Bergstrøms vurdering inviterer
-det ikke til å øke variasjonen og tilpasningen av
-vurderingsformer. Studentene bør ha anledning
-til å klage på alle enkeltvedtak, og for å sikre at
-dette er en reell mulighet, anbefaler Bergstrøm
-at departementet fortsetter å se på muligheter
-for å gjøre endringer i dagens ordninger på
-grunnlag av kunnskapen som foreligger i rapporten til Deloitte Legal og teknologisk utvikling i
-samfunnet.
-
-21.5.2.3.4 Sensurfrist
-Nord universitet har i innspill til utvalget vist til at
-treukersfristen for å klage på sensur har blitt
-tolket strengt, og at det ikke er anledning til å forlenge fristen for å kompensere for «røde» dager,
-ferie eller lignende.40 Utvalget er kjent med at
-flere institusjoner støtter innspillet.
-
-40
-
-Se innspill fra Nord universitet https://www.universitetsoghoyskolelovutvalget.no/innspill/nord-universitet-v-studiedirektor-jan-atle-toska/.
+# Studentenes læringsmiljø
+
+\[:figur:fig19-1.jpg\]
+
+## Utvalgets forslag
+
+Utvalget foreslår følgende:
+
+- Et eget kapittel i loven om læringsmiljø og studentrepresentasjon, for å synliggjøre viktigheten av at studentene skal ha et godt læringsmiljø og andre lovbestemte rettigheter for studentene.
+
+- En modernisering av begrepet læringsmiljø, med mindre fokus på det fysiske læringsmiljøet og større fokus på at læringsmiljøet inkluderer tilrettelegging, det psykososiale læringsmiljøet, det organisatoriske læringsmiljøet, og det digitale og pedagogiske læringsmiljøet.
+
+- Lovfesting av et forbud mot gjengjeldelse når en student varsler om kritikkverdige forhold.
+
+- Plikten til å ha læringsmiljøutvalg med en 50–50 fordeling mellom studentene og institusjonene videreføres.
+
+- Studentsamskipnadenes observatørstatus i læringsmiljøutvalget lovfestes. Å bestemme organiseringen av læringsmiljøutvalget for øvrig er opp til universitetene og høyskolene.
+
+- Presiseringen av at «styret skal innenfor sitt ansvarsområde arbeide for å forebygge og forhindre trakassering og seksuell trakassering» videreføres ikke, fordi plikten fremgår av likestillings- og diskrimineringsloven.
+
+- Tilretteleggingsbestemmelsen i dagens § 4-3 femte ledd videreføres, slik at kravet om tilrettelegging gjelder både studenter med utfordringer av varig/alvorlig art og de med midlertidige utfordringer.
+
+- Tilretteleggingsbestemmelsen endres slik at den igjen fullt ut gjelder for Svalbard.
+
+- Bestemmelsen om studentombud videreføres med enkelte justeringer. Utvalget foreslår at studentombudets mandat fastsettes i loven, og at institusjonenes og departementets hjemmel til å gi forskrifter om studentombudet tas ut.
+
+- En rett til mentorordning for studentene lovfestes ikke.
+
+## Læringsmiljø og universell utforming
+
+### Gjeldende rett
+
+Det følger av universitets- og høyskoleloven[^277] § 4-3 første ledd at studentene skal ha et godt studiemiljø, og at det er styret som har det overordnede ansvaret for dette. Bestemmelsens andre ledd stiller krav om at det fysiske og psykiske arbeidsmiljøet skal være fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd.
+
+Arbeidsmiljølovens[^278] bestemmelser gjelder i utgangspunktet ikke for studenter og elever. I arbeidsmiljøloven § 1-6 første ledd bokstav a er det imidlertid fastsatt at arbeidsmiljølovens bestemmelser om helse, miljø og sikkerhet gjelder for «elever ved institusjoner som har undervisning eller forskning som formål når disse utfører arbeid i virksomhet som går inn under loven». I forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere[^279], er det presisert at «elever ved institusjoner som har undervisning eller forskning som formål skal når de utfører arbeid som ledd i praktisk opplæring, og arbeidet foregår under forhold som kan innebære fare for deres liv og helse, anses som arbeidstakere i forhold til arbeidsmiljøloven kapittel 1, 2, 3, 4, 5, 18 og 19, med unntak av § 19-2». Som hovedregel er det i stedet bestemmelsene i universitets- og høyskoleloven § 4-3 som regulerer kravene til studenters arbeids- eller studiemiljø.
+
+Kravene i § 4-3 andre ledd bokstavene a til i er fastsatt som funksjonsbestemmelser. Dette innebærer at institusjonene skal finne hensiktsmessige og kostnadseffektive løsninger som tilfredsstiller lovens krav. Det kan gjøres lokale vurderinger av hva som vil være tilfredsstillende standarder ved det enkelte studiested og for det enkelte studium. Studentene kan ikke etter denne bestemmelsen kreve de samme individuelle tilpasningene som en arbeidstaker har krav på etter arbeidsmiljøloven. Dette har bakgrunn i den grunnleggende forskjellen i relasjonen mellom student og utdanningsinstitusjon på den ene siden og arbeidstaker og arbeidsgiver på den andre.[^280] En student med funksjonsnedsettelse eller andre særskilte behov kan kreve individuelle tilpasninger, jf. omtalen av dette under punkt 19.3.
+
+Utdanningsinstitusjonene har ansvaret for å legge til rette for at den enkelte student skal ha de rette forutsetningene, både fysisk og psykisk, for å tilegne seg den kunnskapen som forventes av studiet. Læringsmiljø må ses i sammenheng med gjennomføring og læringsutbytte.
+
+Det følger av likestillings- og diskrimineringsloven[^281] § 17 at både statlige og private virksomheter rettet mot allmennheten har plikt til universell utforming av virksomhetens alminnelige funksjoner. Plikten gjelder også for universiteter og høyskoler. Med universell utforming menes «utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, inkludert informasjons- og kommunikasjonsteknologi (IKT), slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse», jf. likestillings- og diskrimineringsloven § 17 andre ledd. Universell utforming innebærer at omgivelsene utformes på en slik måte at de kan brukes av alle mennesker i så stor utstrekning som mulig uten særskilt tilrettelegging. Universell utforming ved utdanningsinstitusjonene løser likevel ikke ethvert behov for studenter som har en funksjonsnedsettelse. Derfor har universitets- og høyskoleloven supplerende regler om rett til individuell tilrettelegging både for studenter med funksjonsnedsettelse og for studenter med andre særskilte behov. Individuell tilrettelegging skal ikke erstatte universell utforming, men skal være et supplement i tilfeller der den universelle utformingen ikke dekker individuelle behov for tilrettelegging.[^282] Individuell tilrettelegging omtales i punkt 19.3.
+
+Det stilles de samme krav om universell utforming til statlige og private utdanningsinstitusjoner. Universell utforming er til nytte for hele studentmassen. Alle læresteder skal derfor ha handlingsplaner for universell utforming. Universell utforming følger også av FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (CRPD)[^283].
+
+### Utvalgets vurderinger
+
+For studentene er et godt læringsmiljø en forutsetning for god studiekvalitet. Det kan være avgjørende både for nivået på læring og for om studenter velger eller føler seg tvunget til å avslutte sitt studieløp. Hvordan miljøet påvirker læringen, er avgjørende, og selv lave nivåer av støy, uheldige psykososiale forhold og dårlig organisering kan ta oppmerksomheten bort fra læring og grunnen til at studentene tar utdanning. Lovfestingen av studenters rett til et godt læringsmiljø skal sikre at studenter skal kunne fokusere på læring og utdanne seg til å bli kompetente og dannede samfunnsborgere. Et godt læringsmiljø skal også bidra til at individuelle forhold ved studenten, for eksempel funksjonsnedsettelser, ikke skal være til hinder for at han eller hun har lik mulighet til å ta høyere utdanning.
+
+Utvalget viser til at bestemmelsen om læringsmiljø favner mye og at kravene som stilles til læringsmiljøet i universitets- og høyskoleloven fremstår som vage og utdaterte. Dette kan gjøre regelverket lite hensiktsmessig og vanskelig tilgjengelig for studentene.
+
+Etter utvalgets vurdering er det nødvendig å oppdatere dagens bestemmelse om læringsmiljø i tråd med utviklingen som har skjedd siden bestemmelsen kom inn i loven. Bestemmelsen er i dag først og fremst rettet mot fysiske forhold ved utdanningsinstitusjonen, men sier lite om andre viktige faktorer som påvirker læringsmiljøet. Utvalget foreslår derfor å lage et eget kapittel om læringsmiljø i forslaget til ny lov.
+
+Utvalget viser også til at gjeldende universitets- og høyskolelov ikke har noen klar definisjon av begrepet læringsmiljø utover at læringsmiljø regnes som «det fysiske og psykiske arbeidsmiljø». I tillegg lister § 4-3 andre ledd bokstav a til i opp krav til det fysiske arbeidsmiljøet. Hvordan begrepet læringsmiljø forstås, varierer fra institusjon til institusjon.
+
+Utvalget har mottatt flere innspill om læringsmiljøet, blant annet fra *Universell*. Universell arbeider på oppdrag fra Kunnskapsdepartementet og har et nasjonalt ansvar for å koordinere arbeidet som gjøres med universell utforming og tilrettelegging ved utdanningsinstitusjonene. Universell har foreslått å modernisere begrepet «læringsmiljø». Norsk studentorganisasjon har også kommet med tilsvarende innspill. Utvalget støtter hovedelementene i disse forslagene. Begrepet «læringsmiljø» bør etter utvalgets vurdering omfatte følgende elementer:
+
+- *Fysisk læringsmiljø*. Dette inkluderer bygninger og omgivelser og kravet til universell utforming. Med universell utforming menes tilpasning av produkter, omgivelser, programmer og tjenester på en slik måte at de kan brukes av alle mennesker i så stor utstrekning som mulig uten at det er behov for tilpasning og spesiell utforming.
+
+- *Tilrettelagt læringsmiljø.* Universell utforming løser ikke ethvert behov som studenter med funksjonsnedsettelse har, og derfor er supplerende regler om rett til individuell tilrettelegging nødvendig både for studenter med funksjonsnedsettelse og for studenter med andre særskilte behov. Individuell tilrettelegging skal ikke erstatte universell utforming, men er et supplement i tilfeller hvor den universelle utformingen ikke dekker individuelle behov for tilrettelegging, jf. FN-konvensjon om rettighetene til mennesker med nedsatt funksjonsevne.
+
+- *Psykososialt læringsmiljø*. Dette dreier seg først og fremst om de mellommenneskelige forholdene, hvor trivsel og samhandling står sentralt. Det psykososiale læringsmiljøet består av en rekke faktorer knyttet til studiet, medstudenter og institusjonen. Sosialt miljø, kultur og velferd bidrar til å fremme det psykososiale læringsmiljøet.
+
+- *Organisatorisk læringsmiljø*. Som en del av et godt læringsmiljø må det være et system for tilbakemelding og medvirkning, gjerne som en del av institusjonens kvalitetssystem. Organisatorisk læringsmiljø gjelder forhold relatert til hvordan studiene er organisert, ulike studieadministrative systemer, struktur og organisering av arbeidet med læringsmiljø med videre.
+
+- *Digitalt læringsmiljø*. Det digitale læringsmiljø handler om faktorer som berører bruk og utvikling av IKT i læring, og hvordan IKT brukes, integreres og utnyttes som en del av den pedagogiske virksomheten innenfor hvert enkelt fagområde.
+
+- *Pedagogisk læringsmiljø*. Det pedagogiske læringsmiljøet omhandler utforming av læringsmål, form og innhold for et studieprogram eller emne, slik som valg av læringsaktiviteter og vurderingsformer, eller hvordan det faglige innholdet ellers presenteres. Det pedagogiske læringsmiljøet påvirkes av studentenes forutsetninger for læring, med utgangspunkt i ulike læringsstiler, behov og preferanser, og av deres kulturelle og personlige bakgrunn.
+
+De forskjellige begrepene glir noe over i hverandre, men har til felles at de berører studentenes studiesituasjon.
+
+Det er også viktig at studentenes lovmessige vern ved varsling styrkes. I innspill til utvalget har studentombudet ved Universitetet i Oslo meldt om at cirka halvparten av studentene som henvender seg dit om kritikkverdige forhold velger å la være å melde fra til institusjonen.[^284] Universitetet i Oslo viser også til at studenttillitsvalgte og saksbehandlere i «si fra»-mottakene har meldt fra om at studentenes frykt for negative konsekvenser er en av årsakene til at studenter ikke å varsler om kritikkverdige forhold ved institusjonen.
+
+Studenter har rett til å varsle om kritikkverdige forhold ved utdanningsinstitusjonen, og flere av institusjonene har et «si fra»-system som legger til rette for at studenter kan varsle om kritikkverdige forhold. Studenter som varsler kan likevel bli utsatt for gjengjeldelse. Lovverket bør derfor sikre at studentene er omfattet av regler for varsling og vern mot gjengjeldelse. Det følger av arbeidsmiljøloven § 2 A-2 at «gjengjeldelse mot arbeidstaker som varsler i samsvar med § 2 A-1 er forbudt». Utvalget mener studenter som varsler må ha samme vern, og har inkorporert dette i lovforslaget.
+
+Utvalget viser til at statlige og private utdanningsinstitusjoner som er rettet mot allmennheten, har plikt til å sikre universell utforming av virksomhetens alminnelige funksjon, jf. likestillings- og diskrimineringsloven.
+
+Universitetene og høyskolene har det overordnede ansvaret for studentenes læringsmiljø, mens studentsamskipnaden har i oppgave å ta seg av studentenes velferdsbehov ved det enkelte lærested, jf. studentsamskipnadsloven[^285] § 3. Alle institusjoner som omfattes av universitets- og høyskoleloven, skal som hovedregel være tilknyttet en studentsamskipnad, jf. studentsamskipnadsloven § 4. Utdanningsinstitusjonen og studentsamskipnaden skal samarbeide om ansvaret for studiemiljøet og studentvelferden. Dette følger både av universitets- og høyskoleloven § 4-3 første ledd og av forskrift om studentsamskipnader § 16.
+
+Regulering av forholdet mellom utdanningsinstitusjonene og studentsamskipnadene er nærmere omtalt i kapittel 36. For å tydeliggjøre utdanningsinstitusjonenes ansvar for studentenes læringsmiljø og studentvelferden, i samarbeid med studentsamskipnadene, foreslår utvalget at det tas inn en ny bestemmelse i universitets- og høyskoleloven om forholdet til studentsamskipnadene om at alle institusjoner skal være tilknyttet en studentsamskipnad. I tillegg skal bestemmelsen videreføre regelen i dagens § 4-3 første ledd andre punktum om at styret skal legge forholdene til rette for et godt og inkluderende læringsmiljø og arbeide for å bedre studentvelferden, i samarbeid med studentsamskipnadene. En slik bestemmelsen vil innebære noe dobbeltregulering, ettersom plikt til å være tilknyttet en studentsamskipnad også fremgår av studentsamskipnadsloven. Utvalget ønsker i utgangspunktet å unngå slik dobbeltregulering, men anser at det er hensiktsmessig i dette tilfellet for å sikre studentenes læringsmiljø og velferd generelt.
+
+I dag har Arbeidstilsynet ansvar for tilsyn med § 4-3 sjette ledd. I Norsk studentorganisasjons gjennomgang av lovverket omkring læringsmiljøet ba de om en oversikt over tilsynene Arbeidstilsynet har utført med læringsmiljøet ved høyere utdanningsinstitusjoner i Norge[^286]. Det viste seg at det er gjennomført få eller ingen tilsyn i henhold til dagens § 4-3 sjette ledd. Der det er gjennomført tilsyn, har ikke studenter vært til stede. Utvalget ser med bekymring på dette siden Arbeidstilsynet har et lovpålagt ansvar for å føre slikt tilsyn. Utvalget anbefaler at Kunnskapsdepartementet går i dialog med Arbeidstilsynet, om hvordan dette arbeidet kan styrkes. Utvalget foreslår å lovfeste NOKUTs ansvar for tilsyn med institusjonens arbeid med læringsmiljøet gjennom deres tilsyn av kvalitetssystemet samt at DIFI skal føre tilsyn med det digitale læringsmiljøet. Dette fremgår av lovforslaget § 7-7.
+
+## Individuell tilrettelegging ved funksjonsnedsettelse og andre særskilte behov
+
+### Gjeldende rett
+
+Grunnloven § 109 andre ledd sier at «statens myndigheter skal sikre \[…\] like muligheter til høyere utdannelse på grunnlag av kvalifikasjoner». Det skal derfor være like muligheter for alle som er kvalifisert til å ta høyere utdanning, uavhengig av personlige forhold eller den enkeltes økonomiske bakgrunn. Dette sikres blant annet gjennom universell utforming og individuell tilrettelegging.
+
+Ifølge universitets- og høyskoleloven § 4-3 femte ledd har studenter med funksjonsnedsettelse og studenter med særskilte behov rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen. Tilretteleggingen skal sikre likeverdige opplærings- og utdanningsmuligheter. Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde for utdanningsinstitusjonen.
+
+I Prop. 89 L (2018–2019) *Endringer i universitets- og høyskoleloven og fagskoleloven (studentombud, trakassering og tilrettelegging)* foreslo Kunnskapsdepartementet å styrke den retten studenter med funksjonsnedsettelse og studenter med andre særskilte behov har til å få studiehverdagen tilrettelagt. Lovendringen ga studentene en sterkere rett til tilrettelegging ved at det kun er når det foreligger en uforholdsmessig byrde for institusjonene at det ikke er krav om tilrettelegging. Før lovendringen var kravet at institusjonen måtte tilrettelegge så langt det var «mulig og rimelig». Endringen innebar at institusjonene nå må strekke seg lenger for å tilrettelegge. Lovforslaget skulle bidra til at studenter, med funksjonsnedsettelse og studenter med andre særskilte behov, får den samme muligheten til å ta høyere utdanning som andre studenter. Målet var også å bygge ned samfunnsskapte funksjonshemmende barrierer og å hindre at nye skapes. Lovendringen trådte i kraft 1. august 2019.
+
+Tilretteleggingsplikten i både gjeldende og tidligere universitets- og høyskolelov omfatter flere persongrupper enn tilretteleggingsbestemmelsen i likestillings- og diskrimineringsloven. Sistnevnte bestemmelse omhandler bare tilrettelegging for studenter med funksjonsnedsettelse av en viss varighet og alvorlighetsgrad.
+
+Kunnskapsdepartementet presiserte i lovproposisjonen at utdanningsinstitusjonen ikke har plikt til å iverksette tiltak som medfører en uforholdsmessig byrde for virksomheten, jf. den likelydende begrensningen i likestillings- og diskrimineringsloven § 21 andre ledd. Det må vurderes skjønnsmessig om utformingen eller tilretteleggingen medfører en uforholdsmessig stor byrde for virksomheten. Det understrekes at statlige og private utdanningsinstitusjoner som er rettet mot allmennheten, har plikt til å sikre universell utforming av virksomhetens alminnelige funksjon. Når institusjonene skal vurdere om utformingen eller tilretteleggingen medfører en uforholdsmessig byrde, skal de særlig legge vekt på tilretteleggingens effekt for å bygge ned barrierene for studenter med funksjonsnedsettelse, de nødvendige kostnadene ved tilretteleggingen, institusjonenes ressurser, sikkerhetsmessige hensyn og vernehensyn.
+
+Det fremgår av proposisjonen at siden statlige universiteter og høyskoler i hovedsak er finansiert over statsbudsjettet og private høyskoler baserer seg på en kombinasjon av offentlig støtte og privat betaling, skal det mye til for at utdanningsinstitusjonene skal kunne avslå individuell tilrettelegging med henvisning til at dette vil medføre en uforholdsmessig byrde. Tilretteleggingsplikten avgrenses likevel slik at tilretteleggingen ikke kan gå på bekostning av de faglige kravene som stilles i den enkelte utdanning.
+
+Selv om individuell tilrettelegging kan være en utfordring for utdanningsinstitusjoner som har mange studieprogrammer med mye praksis eller obligatorisk fremmøte, vil også studenter i slike studieprogrammer ha krav på tilrettelegging med de begrensninger som følger av loven. Det vil si at tilretteleggingen ikke fører til at de faglige kravene i utdanningen reduseres.
+
+Det ble gjort unntak for Svalbard, slik at lovendringen ikke gjelder der.
+
+FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne artikkel 24
+
+1.  Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til utdanning. Med sikte på å virkeliggjøre denne rettigheten uten diskriminering, og på basis av like muligheter, skal partene sikre et inkluderende utdanningssystem på alle nivåer, samt livslang læring, som tar sikte på:
+
+<!-- -->
+
+14. at menneskets potensial og forståelsen av dets verdighet og egenverdi utvikles fullt ut, og at respekten for menneskerettighetene, de grunnleggende friheter og det menneskelige mangfold styrkes,
+
+15. at mennesker med nedsatt funksjonsevne får utvikle sin personlighet, sine anlegg og sin kreativitet, så vel som sine psykiske og fysiske evner, fullt ut,
+
+16. at mennesker med nedsatt funksjonsevne blir i stand til å delta effektivt i et fritt samfunn.
+
+<!-- -->
+
+2.  For å virkeliggjøre denne rettighet skal partene sikre
+
+    1.  at mennesker med nedsatt funksjonsevne ikke stenges ute fra det allmenne utdanningssystemet på grunn av nedsatt funksjonsevne, og at barn med nedsatt funksjonsevne ikke stenges ute fra obligatorisk og gratis grunnskoleundervisning eller fra videregående opplæring på grunn av sin nedsatte funksjonsevne,
+
+<!-- -->
+
+17. at mennesker med nedsatt funksjonsevne får tilgang til inkluderende, god og gratis grunnutdanning og videregående opplæring i sitt lokalsamfunn, på lik linje med andre,
+
+18. rimelig tilrettelegging ut fra den enkeltes behov,
+
+19. at mennesker med nedsatt funksjonsevne får nødvendig støtte, innenfor rammen av det allmenne utdanningssystemet, slik at det legges til rette for en effektiv utdanning,
+
+20. effektive støttetiltak tilpasset den enkeltes behov, i et miljø som gir størst mulig faglig og sosial utvikling, i tråd med målet om full inkludering.
+
+<!-- -->
+
+3.  Partene skal gjøre det mulig for mennesker med nedsatt funksjonsevne å lære praktiske og sosiale ferdigheter slik at de lettere kan delta fullt ut i undervisningen på lik linje med andre, og som medlemmer av samfunnet. For dette formål skal partene treffe hensiktsmessige tiltak, herunder:
+
+    1.  å legge til rette for innlæring av punktskrift, alternativ skrift, alternative og supplerende kommunikasjonsformer, -midler og -formater, orienterings- og mobilitetsferdigheter, samt legge til rette for likemannsarbeid og mentorvirksomhet,
+
+<!-- -->
+
+21. å legge til rette for innlæring av tegnspråk og fremme av døvesamfunnets språklige identitet,
+
+22. å sikre at undervisningen av blinde, døve og døvblinde personer, og især barn, finner sted på de språk og i de kommunikasjonsformer og med de kommunikasjonsmidler som er best tilpasset den enkelte, og i et miljø som gir størst mulig faglig og sosial utvikling.
+
+<!-- -->
+
+4.  Med sikte på å bidra til å virkeliggjøre denne rettighet skal partene treffe hensiktsmessige tiltak for å ansette lærere som kan tegnspråk og/eller punktskrift, herunder lærere med nedsatt funksjonsevne, og å lære opp fagfolk og personale som arbeider på alle nivåer i utdanningssystemet. Opplæringen skal omfatte bevisstgjøring om funksjonshemming og bruk av hensiktsmessige alternative og supplerende kommunikasjonsformer, -midler og -formater, samt undervisningsmetoder og undervisningsmateriell som er til hjelp for mennesker med nedsatt funksjonsevne.
+
+5.  Partene skal sikre at mennesker med nedsatt funksjonsevne får tilgang til høyere utdanning, yrkesrettet opplæring, voksenopplæring og livslang læring uten diskriminering og på lik linje med andre. For dette formål skal partene sikre rimelig tilrettelegging for mennesker med nedsatt funksjonsevne.
+
+\[Boks slutt\]
+
+### Utvalgets vurderinger
+
+Ifølge Verdens helseorganisasjon (WHO) lever rundt 15 prosent av verdens befolkning med en form for funksjonsnedsettelse. Læringsmiljøundersøkelsen utført av Universell og TNS Gallup i 2012 viste også at 15 prosent av studentene ved universiteter og høyskoler har en form for varig (fysisk eller psykisk) funksjonsnedsettelse som påvirker muligheten til å gjennomføre høyere utdanning. Dette ble rapportert blant 8600 studenter på syv ulike læresteder i undersøkelsen.
+
+Utdanningsinstitusjonene har ansvar for at alle studenter har et godt og inkluderende læringsmiljø av høy kvalitet. Det innebærer blant annet at de skal sikre at også studenter med funksjonsnedsettelse og studenter med andre særskilte behov av mer midlertidig karakter får kvalitetssikrede tilbud og tjenester tilpasset sitt behov. Rett til tilrettelegging følger også av FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (CRPD).
+
+Utvalget viser til at tilretteleggingen ved universiteter og høyskoler skal ta utgangspunkt i forutsetningene og behovene til studenten som trenger tilrettelegging. Det må vurderes konkret hva den enkelte student har behov for. Tilrettelegging kan skje både gjennom generelle tiltak overfor hele studentgruppen eller gjennom spesifikke tiltak rettet kun mot den aktuelle studenten. Tilretteleggingen kan skje innenfor eller utenfor det ordinære undervisningsopplegget. Retten til tilrettelegging omfatter både fysiske og andre forhold ved lærestedet, undervisningsopplegget, læremidlene og eksamen. Tilretteleggingen skal sikre likeverdige opplærings- og utdanningsmuligheter, både når det gjelder kvalitet, og når det gjelder omfang.
+
+For at studentene skal få likeverdige muligheter i høyere utdanning er utdanningsinstitusjonene pålagt å arbeide forebyggende. Det handler om å utvikle universelle løsninger som inkluderer flest mulig studenter i de ordinære løsningene. Når universell utforming ikke er tilstrekkelig, skal utdanningsinstitusjonen sammen med studenten vurdere hva som vil være en egnet individuell tilrettelegging.
+
+Formålet med tilretteleggingsplikten er å sikre like muligheter til å studere, ikke å sette studenter med funksjonsnedsettelse eller studenter med andre særskilte behov i en bedre posisjon enn andre studenter, eller å gi dem særlige rettigheter. For at man skal oppnå likebehandling, må det iverksettes konkrete tiltak tilpasset behovene til den enkelte student.[^287] Når det gjelder studenter med varig eller alvorlig grad av funksjonsnedsettelse og studenter med midlertidige utfordringer, foreslår utvalget at gjeldende lovbestemmelse videreføres, men med enkelte språklige justeringer. I forslaget presiserer utvalget at det må vurderes/avveies om tilretteleggingen innebærer en uforholdsmessig byrde for utdanningsinstitusjoner, det vil si en byrde som veier tyngre enn de positive effektene av tilretteleggingen for den enkelte student. Utvalget viser til at plikten til universell utforming og individuell tilrettelegging er avgrenset mot tiltak som medfører en uforholdsmessig byrde for virksomheten.[^288]
+
+Utvalget presiserer at tilretteleggingen ikke må føre til en reduksjon av de faglige kravene som stilles til utdanningen. Dette er også en videreføring av gjeldende rett. Det som menes med at de faglige kravene i utdanningen ikke skal reduseres, er for eksempel at studenten ikke kan fritas for obligatoriske deler av utdanningen. For eksempel kan ikke studenter med dyskalkuli fritas fra prøve i medikamentregning på sykepleierstudiet. En slik tilrettelegging vil i tilfelle føre til at deler av studiet ikke blir bestått eller avlagt, noe som igjen vil føre til at disse studentene for eksempel ikke får autorisasjon på grunn av at vitnemålet ikke er komplett. Utvalget understreker, slik det også ble gjort i forarbeidene til gjeldende bestemmelse, at det er viktig at alle som fullfører og består en utdanning, har oppnådd det fastsatte læringsutbyttet.
+
+Utvalget viser til at gjeldende universitets- og høyskolelov gjelder på Svalbard, jf. universitets- og høyskoleloven § 1-2 femte ledd som sier at loven gjelder for Svalbard hvis ikke annet er bestemt. Utvalget foreslår å videreføre denne bestemmelsen, jf. punkt 10.5. Kun ett sted i loven er det gjort unntak fra regelen om at loven gjelder på Svalbard, og det er i bestemmelsen om tilrettelegging for studenter med særskilte behov i § 4-3 femte ledd fjerde setning. Unntaket trådte i kraft 1. august 2019. Det følger av § 4-3 femte ledd fjerde setning at høyere utdanningsinstitusjoner på Svalbard bare «så langt det er mulig og rimelig» skal legge studiesituasjonen til rette for studenter med særskilte behov.
+
+Utvalget mener at reglene om universell utforming og individuell tilrettelegging ved utdanningsinstitusjonene også skal gjelde fullt ut på Svalbard. Utvalget viser særlig til Norges forpliktelser etter FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne, som gjelder for hele det norske territoriet, også på Svalbard.[^289] Norge signerte konvensjonen i 2007 og ratifiserte den i 2013. Det betyr at Norge er forpliktet til å følge det som står i konvensjonen. Konvensjonen artikkel 24, som omhandler retten til utdanning for mennesker med nedsatt funksjonsevne, er omtalt i boks 19.1.
+
+FN-konvensjonen legger til grunn at alle mennesker har en iboende verdighet og verdi, like og umistelige rettigheter, og at dette er grunnlaget for frihet, rettferd og fred i verden. I artikkel 1 står formålet med konvensjonen, som er «å fremme, verne om og sikre mennesker med nedsatt funksjonsevne full og likeverdig rett til å nyte alle menneskerettigheter og grunnleggende friheter, og å fremme respekten for deres iboende verdighet». Konvensjonspartene forplikter seg dermed til å sikre og fremme full gjennomføring av alle menneskerettigheter og grunnleggende friheter for alle mennesker med nedsatt funksjonsevne, uten diskriminering av noe slag på grunn av nedsatt funksjonsevne, blant annet gjennom lovgivningstiltak for å virkeliggjøre rettighetene som er nedfelt i konvensjonen, jf. artikkel 4 nr. 1.
+
+I dag er den eneste høyere utdanningsinstitusjonen på Svalbard Universitetssenteret på Svalbard (UNIS). UNIS er verdens nordligste høyere utdanningsinstitusjon og den ligger i Longyearbyen på 78º N. UNIS tilbyr emner på bachelor-, master- og doktorgradsnivå i arktisk biologi, arktisk geologi, arktisk geofysikk og arktisk teknologi. Tilbudet er svært populært blant studenter verden over. UNIS er et aksjeselskap som er eid av Kunnskapsdepartementet. Det ble etablert i 1993 for å gi utdanning på universitetsnivå i arktiske studier, gjennomføre forskning av høy kvalitet og bidra til utviklingen av Svalbard som en internasjonal forskningsplattform.
+
+Utvalget mener at det er uheldig at studentene som velger å ta et semester ved UNIS, ikke får den samme muligheten for tilrettelegging som studenter på fastlandet. De vil da ikke ha de samme rettighetene som de har ved hjeminstitusjonen. Dette fører til at studenter med en rett til tilrettelegging ved sin institusjon på fastlandet, ikke nødvendigvis kan hevde den samme rettigheten når de oppholder seg ved UNIS på Svalbard.
+
+De særlige forholdene som råder på Svalbard, gjør at det er behov for tilpasninger i regelverket i tråd med de overordnede målene i norsk svalbardpolitikk. Sentrale deler av velferdslovgivningen gjelder for eksempel ikke på Svalbard, blant annet på grunn av skattemessige forhold og målet om at Longyearbyen ikke skal være et livsløpssamfunn. Utvalget har forståelse for disse hensynene. Likevel er det utvalgets vurdering at en tilretteleggingsplikt i universitets- og høyskoleloven tilsvarende den som gjelder på fastlandet ikke vil legge press på øvrige offentlige tjenester. Den vil heller ikke utløse krav på andre ytelser eller andre typer tilrettelegging fra det offentlige. Utvalget mener Norges forpliktelser etter FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne må følges opp, og at tilretteleggingsplikten derfor må gjelde på Svalbard slik den gjelder på fastlandet. Utvalget foreslår derfor å fjerne bestemmelsen i universitets- og høyskoleloven § 4-3 femte ledd fjerde setning.
+
+## Individuell tilrettelegging ved graviditet og etter fødsel
+
+### Gjeldende rett
+
+Det fremgår av universitets- og høyskoleloven § 4-5 første ledd at studenter som får barn under studiene, skal ha rett til permisjon fra studiene under svangerskap og til omsorg for barn, jf. universitets- og høyskoleloven § 4-5 første ledd. Det betyr at studenten under permisjonen opprettholder sin status som student med de rettigheter som følger etter universitets- og høyskoleloven og tilhørende forskrifter. Det følger også av forskrift om studentsamskipnader[^290] § 17 tredje ledd at studenter i fødselspermisjon etter universitets- og høyskoleloven § 4-5 første ledd kan velge om de vil betale semesteravgift og dermed ha mulighet til å benytte seg av studentsamskipnadens velferdstjenester under permisjonstiden. Studenter som ikke har behov for å benytte studentvelferdstjenestene under permisjonen kan velge ikke å betale semesteravgift.
+
+En student har rett til utsatt eksamen ved fødsel, jf. universitets- og høyskoleloven § 4-5 første ledd tredje setning. Rettighetene er forskjellige for mor og far noe som skyldes deres ulike biologiske funksjon i forbindelse med graviditet, fødsel og barsel. Bestemmelsen tar utgangspunkt i arbeidsmiljøloven, slik at mor har rett til utsatt eksamen hvis eksamensdatoen er i perioden fra tre uker før termin til seks uker etter fødsel, se arbeidsmiljøloven § 12-4 og folketrygdloven § 14-9 sjette ledd.[^291] Når det gjelder rettigheter for far til å få utsatt eksamen, tar universitets- og høyskoleloven også her utgangspunkt i arbeidsmiljøloven, som gir far rett til to uker fri etter fødsel, jf. arbeidsmiljøloven § 12-3 første ledd. Institusjonene står fritt til å gi fedre (eller mødre) rett til lengre utsettelse, ettersom lovbestemmelsen kun angir en minimumsrettighet.
+
+Det følger av barneloven § 4a tredje ledd at regler i lov eller forskrift som gjelder for en far, også gjelder for en medmor.[^292] Når det gjelder adopsjon gir arbeidsmiljøloven § 12-3 andre ledd rett til to uker permisjon i forbindelse med overtakelse av omsorg for barnet. Det er imidlertid ofte tilfellet at adoptivforeldre må være i adoptivbarnets land en lengre periode. Dette er ikke regulert særskilt i universitets- og høyskoleloven fordi det finnes mange ulike adopsjonsprosesser som det er vanskelig å ta høyde for i en lovtekst. Rett til permisjon skal så langt det er mulig også gjelde i forbindelse med adopsjon.[^293]
+
+Studentens rett til utsatt eksamen gjelder uansett eksamensform. En student som ønsker utsatt eksamen, må varsle utdanningsinstitusjonen i god tid. Institusjonen kan i eget regelverk fastsette frist for når en søknad om utsettelse må fremmes. Dersom det er flere studenter som har rett til utsatt eksamen av ulike årsaker, kan institusjonen samordne disse i én eksamen.
+
+Lovbestemmelsen angir som nevnt en minimumsrettighet for studentene, men institusjonen skal, så langt det er mulig og rimelig, også bidra til å legge studiesituasjonen til rette for studenter som har særskilte behov, jf. universitets- og høyskoleloven § 4-3 femte ledd. Dette innebærer at dersom utdanningsinstitusjonen mottar en søknad om utsettelse av eksamen utover det § 4-5 gir hjemmel for, så må den vurdere om studenten kan gis utvidet utsettelse fordi det er mulig og rimelig tatt i betraktning studentens særskilte behov.
+
+### Utvalgets vurderinger
+
+Utvalgets inntrykk er at regelverket knyttet til permisjon under svangerskap og til omsorg for barn, fungerer tilfredsstillende. Det samme gjelder reglene om rett til utsatt eksamen ved graviditet. Utvalget foreslår derfor å videreføre gjeldende bestemmelser.
+
+I og med at institusjonene skal legge til rette for at studenter som er i permisjon etter første ledd, kan gjenoppta sine studier så raskt som mulig etter endt permisjon, blir det et definisjonsspørsmål når permisjonen slutter. Når man tar permisjon fra et studium i mars, betyr det ikke nødvendigvis at man kan komme tilbake igjen i mars året etter. Dersom studenten ikke ønsker å bruke hele året til permisjon kan studenten ikke alltid, på grunn at studieløpet, gå tilbake til studiet når det passer studenten selv, men dette må tilpasses studieavviklingen ved institusjonen. Vanlig permisjonstid er ett år, men institusjonen må ta hensyn til forskrift om tildeling av utdanningsstøtte for undervisningsåret 2019–2020[^294], der det fremgår at det kun gis foreldrepermisjon for studenter som er i fødselspermisjon/tar vare på barn i permisjon i 49 uker.
+
+Utvalget er av den oppfatning at dette regelverket bør utdypes nærmere i forskrift.
+
+## Permisjon
+
+### Gjeldende rett
+
+En student kan ha behov for å få permisjon fra studiet av ulike grunner. Permisjon er et tidsbegrenset opphold i studentens studieprogresjon. Utover rett til permisjon ved graviditet eller til omsorg for barn, jf. omtalen i punkt 19.4, kan en student få innvilget permisjon ved for eksempel førstegangstjeneste eller ved sykdom. Dette er imidlertid ikke regulert i loven. Institusjonene kan gi forskrift om slik permisjon og eventuelt vilkårene for det. Mange institusjoner har i egen forskrift krav om at en student bør ha gjennomført studier i minst ett semester før vedkommende kan søke om permisjon. Studenten kan normalt få innvilget permisjon for inntil ett år etter en konkret vurdering.
+
+### Utvalgets vurderinger
+
+Utvalgets inntrykk er at regelverket rundt permisjon fungerer tilfredsstillende. Permisjonsadgangen for andre grupper enn gravide og studenter som har omsorg for barn er som nevnt ovenfor ikke regulert i universitets- og høyskoleloven i dag. Utvalget foreslår at myndighet til å fastsette regler om permisjon for andre grupper enn gravide og studenter med omsorg for barn fortsatt bør ligge til institusjonen. Utvalget antar at den enkelte utdanningsinstitusjon har best forutsetninger for å vurdere hva som skal være grunnlaget for å gi permisjon, og på hvilke vilkår permisjon skal gis ved det enkelte lærestedet. Utvalget presiserer at det ved alle typer permisjoner skal utarbeides en utdanningsplan, jf. gjeldene universitets- og høyskolelov § 4-2, som utvalget foreslår å videreføre i § 8-3.
+
+## Trakassering og seksuell trakassering
+
+### Gjeldende rett
+
+#### Likestillings- og diskrimineringsloven
+
+Likestillings- og diskrimineringsloven gjelder på alle samfunnsområder, også for universiteter og høyskoler, jf. likestillings- og diskrimineringsloven § 2 første ledd. Forbudet mot trakassering og seksuell trakassering i likestillings- og diskrimineringsloven § 13 første ledd bygger på lovens forbud mot diskriminering i § 6 første ledd:
+
+Diskriminering på grunn av kjønn, graviditet, permisjon ved fødsel eller adopsjon, omsorgsoppgaver, etnisitet, religion, livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk, alder eller kombinasjoner av disse grunnlagene er forbudt. Med etnisitet menes blant annet nasjonal opprinnelse, avstamning, hudfarge og språk.
+
+Likestillings- og diskrimineringsloven presiserer i § 13 andre ledd at «\[m\]ed trakassering menes handlinger, unnlatelser eller ytringer som har som formål eller virkning å være krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende».
+
+I likestillings- og diskrimineringsloven § 13 tredje ledd er seksuell trakassering definert som «enhver form for uønsket seksuell oppmerksomhet som har som formål eller virkning å være krenkende, skremmende, fiendtlig, nedverdigende, ydmykende eller plagsom».
+
+Forarbeidene til likestillings- og diskrimineringsloven § 13 tredje ledd beskriver seksuell trakassering slik[^295]:
+
+Med «seksuell oppmerksomhet» menes oppmerksomhet av seksuell karakter eller seksuelt betont oppmerksomhet. Oppmerksomheten kan være verbal, ikke-verbal eller fysisk. For eksempel kan forbudet omfatte eksplisitte spørsmål, ryktespredning om en persons seksuelle aktivitet eller gjentatte seksuelle spøker. Seksuell trakassering kan omfatte alt fra blikk, berøring, kommentarer til voldtekt og voldtektsforsøk. Å få tilsendt bilder eller videoer med seksuelt innhold via brev, telefon eller internett kan også omfattes. Det er ikke et krav av atferden er motivert av seksuelt begjær.
+
+Oppmerksomheten må også være uønsket. Det vil si at den hverken må være velkommen eller gjensidig. \[…\] Oppmerksomheten må videre ha som formål eller virkning å være «krenkende, skremmende, fiendtlig, nedverdigende, ydmykende eller plagsom». De nevnte virkningene er alternative vilkår, og det er derfor tilstrekkelig at ett av dem er oppfylt. Også uønsket seksuell oppmerksomhet som er plagsom er omfattet. Det innebærer at også den mer vennligsinnede seksuelle oppmerksomheten kan være omfattet. Om atferden er plagsom må avgjøres ut fra en helhetlig vurdering der en rekke momenter vil ha relevans. Blant annet om den som oppmerksomheten retter seg imot selv opplever atferden som plagsom, handlingens karakter, tid og sted for handlingen og relasjonen mellom handlingspersonen og den som den seksuelle oppmerksomheten retter seg mot \[…\].
+
+Forbudet mot seksuell trakassering gjelder for både ansatte og studenter ved utdanningsinstitusjonen.
+
+Etter bestemmelsens sjette ledd skal «\[a\]rbeidsgivere og ledelsen i organisasjoner og utdanningsinstitusjoner \[…\] innenfor sitt ansvarsområde forebygge og forhindre trakassering og seksuell trakassering». I forarbeidene[^296] presiseres det at vernebestemmelsen er todelt og består av en plikt til å forebygge slik trakassering og en plikt til å forhindre at slik trakassering fortsetter dersom den ansvarlige får kjennskap til at det forekommer.
+
+Denne plikten retter seg mot alle utdanningsinstitusjoner, uavhengig av om institusjonen er statlig eller privat. Det er utdanningsinstitusjonens øverste organ, styret, som har ansvaret for å forebygge og forhindre trakassering og seksuell trakassering.
+
+#### Universitets- og høyskoleloven
+
+Selv om plikten til å arbeide forebyggende mot trakassering og seksuell trakassering følger av likestillings- og diskrimineringsloven, er plikten også presisert i universitets- og høyskoleloven § 4-3 første ledd siste setning.[^297] Lovendringen ble vedtatt for å tydeliggjøre institusjonenes ansvar og understreke betydningen av forebyggende arbeid i høyere utdanning. Lovendringen trådte ikraft 1. august 2019.
+
+### Utvalgets vurderinger
+
+Utvalget viser til at det i den senere tid har vært mye oppmerksomhet rundt seksuell trakassering både i samfunnet generelt og ved universiteter og høyskoler spesielt. Studentenes helse- og trivselsundersøkelse (SHoT) i 2018 viste at én av fire studenter har blitt utsatt for en eller annen form for seksuell trakassering. SHoT er en landsomfattende spørreundersøkelse som har til hensikt å frembringe ny kunnskap om hvordan norske studenter har det. Undersøkelsen retter seg særlig mot samspill mellom helse, livskvalitet og studieprestasjon/-gjennomføring.
+
+SHoT 2018
+
+SHoT 2018 ble utført av Folkehelseinstituttet (FHI). Prosjektet var godkjent av regional komité for medisinsk- og helsefaglig forskningsetikk (REK), og alle deltakere fikk innledningsvis en detaljert orientering om undersøkelsens personvern og forskningsetikk.
+
+Undersøkelsen kartlegger studentenes helse og trivsel i bred forstand ved å rette søkelyset mot blant annet forutsetninger og rammebetingelser for studentenes læring, og psykososiale forhold som påvirker studenthverdagen. Undersøkelsen er gjennomført tre ganger i intervaller på fire år (2010, 2014 og 2018). I 2018 ble 162 512 norske heltidsstudenter i alderen 18–35 år invitert til å svare på undersøkelsen. 50 054 studenter både i Norge og i utlandet svarte. Det gir en svarprosent på 31.
+
+\[Boks slutt\]
+
+De vanligste formene for seksuell trakassering er verbal trakassering (seksuelle hentydninger og forslag, eller kommentarer om kropp, utseende eller privatliv) som 20 prosent av kvinnelige og fire prosent av mannlige studenter har opplevd, uønsket berøring, klemming eller kyssing, som 20 prosent av kvinnelige og fem prosent av mannlige studenter har blitt utsatt for, og nærgående blikk eller kroppsbevegelser, som rapporteres av 16 prosent av kvinnelige og to prosent av mannlige studenter. Totalt oppgir 4,7 prosent av kvinnelige og 0,4 prosent av mannlige studenter å ha blitt utsatt for voldtekt.
+
+En rapport fra Arbeidsgruppen mot mobbing og trakassering i UH-sektoren (UHRMOT) peker på at universitets- og høyskolesektoren skiller seg fra andre sektorer på flere områder, «blant annet særlig ved at det er mange høyt utdannende, midlertidige ansatte. Midlertidig ansettelsesforhold anses som en risikofaktor».[^298]
+
+Den 22. august 2019 ble den nasjonale kartleggingen av mobbing og trakassering ved 26 universiteter og høgskoler lagt frem.[^299] Undersøkelsen ble sendt ut til 42 778 ansatte ved 26 utdanningsinstitusjoner og den ble besvart av 17 984 respondenter. Dette tilsvarer en svarprosent på 42 prosent. Undersøkelsen omfattet bare ansatte, ikke studenter.
+
+I kartleggingen rapporterte 18 personer om alvorlige seksuelle overgrep det siste året. Stipendiater oppgir oftere enn andre grupper å ha blitt utsatt for seksuelle overgrep.
+
+Utvalget ser alvorlig på dette. Spesielt urovekkende er det at stipendiater har tre ganger så stor risiko for å bli utsatt for trakassering som andre ansatte. Utvalget viser til at stipendiater er i en sårbar situasjon fordi de er avhengig av veileder og andre høyere opp i systemet.
+
+Utvalget mener forbudet mot trakassering og seksuell trakassering, og utdanningsinstitusjonenes plikt til å forebygge og forhindre slik trakassering, er viktig. Tallene fra SHoT-undersøkelsen og kartleggingen omtalt på foregående side, viser at det er all grunn til å jobbe systematisk med denne problematikken for å bedre studentenes trivsel, helse og læringsmiljø og de ansattes arbeidsmiljø. Utvalget er imidlertid kritisk til å regulere institusjonenes plikt til å arbeide for å forebygge og forhindre seksuell trakassering i universitets- og høyskoleloven når den samme plikten fremkommer tydelig i likestillings- og diskrimineringsloven § 13 sjette ledd. «Utdanningsinstitusjoner» er som pliktsubjekt også eksplisitt nevnt i bestemmelsens ordlyd. Denne formen for dobbeltregulering bidrar til å svekke helheten i lovverket og gir et lovverk som er mer omfattende enn det behøver å være. Det er i seg selv et viktig hensyn å sørge for at lover ikke blir for omfangsrike, ettersom det kan føre til at de blir vanskeligere å finne frem i. Utstrakt bruk av dobbeltregulering vil etter utvalgets vurdering redusere brukervennligheten. Utvalget viser i denne sammenheng til mandatet, som sier at utvalget skal foreslå en tydelig og brukervennlig lov.
+
+Utvalget foreslår at bestemmelsen i universitets- og høyskoleloven § 4-3 første ledd siste setning ikke videreføres.
+
+## Studentombud
+
+### Gjeldende rett
+
+Ifølge universitets- og høyskoleloven § 4-17 første ledd skal alle studenter ha tilgang til et studentombud. Studentombudet er uavhengig og skal gi studenter råd og hjelp i saker tilknyttet studiesituasjonen, jf. universitets- og høyskoleloven § 4-17 andre ledd. Det følger av bestemmelsens tredje ledd at departementet kan gi forskrift om studentombud. Slik forskrift er ikke gitt.
+
+Lovbestemmelsen om studentombud kom inn i universitets- og høyskoleloven ved lov 21. juni 2019 nr. 61[^300]. I lovforslaget[^301] viste departementet til at:
+
+\[Tilbudet er\] ment å være et lavterskeltilbud. Alle studenter skal ha tilstrekkelig tilgang til et studentombud, og ordningen må organiseres for å ivareta dette. Det er ikke et krav om at studentene skal ha fysisk tilgang til studentombudet. Tilgangen kan ikke regnes som tilstrekkelig hvis studentene i praksis har problemer med å få kontakt med ombudet fordi det har ansvar for et for stort antall studenter eller det av andre grunner er vanskelig å komme i kontakt med.
+
+Universitetene og høyskolene velger selv hvordan de organiserer ordningen med studentombud, innenfor rammene som ligger i at studentene skal ha tilstrekkelig tilgang til ombudet. Institusjonene kan ha et eget studentombud eller samarbeide med andre institusjoner i universitets- og høyskolesektoren og/eller fagskolesektoren. Kravet til at studentombudet skal være uavhengig, innebærer at det kan være hensiktsmessig at det er institusjonens styre som ansetter og avsetter studentombudet. Studentombudet skal innplasseres i institusjonens organisasjon på en slik måte at uavhengigheten ivaretas best mulig. \[…\]
+
+Studentombudet skal være uavhengig av både institusjonen og studentene og kan derfor ikke instrueres i sitt virke, jf. andre ledd andre punktum. Institusjonen vil likevel ha administrativt ansvar for studentombudets virksomhet og kan fastsette rammer for ombudet i budsjett og mandat.
+
+Studentombudets taushetsplikt følger av forvaltningsloven[^302] §§ 13 til 13e, med de pliktene og begrensningene som følger av disse bestemmelsene, jf. universitets- og høyskoleloven § 4-17 andre ledd andre punktum. Studentombudets taushetsplikt er knyttet til ombudsrollen og gjelder uansett hvilken arbeidsgiver ombudet har.
+
+### Utvalgets vurderinger
+
+Et studentombud skal bidra til at studentenes rettigheter og plikter ivaretas av utdanningsinstitusjonene på en best mulig måte. Utvalget antar at når studentombudet hjelper studentene i deres saker, så vil klagesaker bli bedre forberedt, og studentene oppleve å være tryggere og bedre ivaretatt. Tilgang til et studentombud er ikke minst viktig for at studentene lett skal kunne søke råd i saker av sensitiv art, slik som saker om seksuell trakassering.
+
+Utvalget mener at hensynet til utdanningsinstitusjonenes autonomi i utgangspunktet taler for at det bør være opp til institusjonene selv å bestemme om de skal ha en ordning med studentombud, og hvordan denne eventuelt skal organiseres. Flere av institusjonene hadde allerede et slikt tilbud før lovendringen i 2019. Utvalget mener imidlertid at hensynet til at studentene er sikret tilgang til et studentombud veier tyngre enn hensynet til institusjonenes autonomi. Utvalget foreslår derfor at den lovfestede ordningen med studentombud videreføres.
+
+I dag er det opp til institusjonene å fastsette mandat for studentombudet. I tråd med hvordan ordningen er i dag, mener utvalget at studentombudet ikke skal kunne instrueres av utdanningsinstitusjonen. Etter utvalgets oppfatning er det da heller ikke naturlig at styret ved institusjonen fastsetter mandatet. Utvalget mener det er problematisk at styret skal kunne gi mandat til den eller dem som skal sørge for at styret gjør jobben sin overfor studentene. Utvalget foreslår derfor å ta inn studentombudets mandat i lovbestemmelsen. Utvalget vil også peke på at det er et paradoks at selv om det er institusjonene som finansierer driften av studentombudet, så kan styret ikke instruere personen som har vervet. Utvalget ber departementet å se på alternative finansieringsformer, for eksempel ved at tildelingen i statsbudsjettet omfordeles slik at departementet finansierer ordningen direkte.
+
+Begrunnet i hensynet til studentombudets uavhengige rolle foreslår utvalget å ikke videreføre departementets hjemmel til å regulere ombudet nærmere i forskrift. Heller ikke institusjonene kan gi forskrift om ombudets ansvarsoppgaver.
+
+Utvalget foreslår å videreføre at det ikke er lovfestet krav om mastergrad i rettsvitenskap eller tilsvarende kompetanse for å bli ansatt som studentombud. Det bør være opp til institusjonene å avgjøre hvilken kompetanse som kreves ved tilsetting av studentombudene. Utvalget mener likevel det er hensiktsmessig om studentombud har en viss juridisk kompetanse.
+
+## Læringsmiljøutvalg
+
+### Gjeldende rett
+
+Universitets- og høyskoleloven stiller krav om at universiteter og høyskoler skal ha et læringsmiljøutvalg (ofte forkortet til LMU), jf. universitets- og høyskoleloven § 4-3 tredje ledd. Læringsmiljøutvalget skal bidra til at styret legger forholdene til rette for et godt studiemiljø og arbeider for å bedre studentvelferden på lærestedet. Videre skal læringsmiljøutvalget bidra til at styret jobber for at læringsmiljøet ved institusjonen, både det fysiske og psykiske arbeidsmiljøet, er fullt forsvarlig ut fra en samlet vurdering av hensynet til studentenes helse, sikkerhet og velferd, jf. bestemmelsens første og andre ledd.
+
+Ideen om et læringsmiljøutvalg kan spores tilbake til tidlig på 2000-tallet og arbeidet med Kvalitetsreformen.[^303] Bakgrunnen var spørsmål om deler av arbeidsmiljøloven burde utvides til også å gjelde studenter, som til da hadde manglet et organ som ivaretok arbeids- og læringsmiljøet. Begrepet læringsmiljøutvalg ble lansert i lovproposisjonen[^304] som førte til en felles universitets- og høyskolelov. Her ble utdanningsinstitusjonene også gitt ansvar for det helhetlige læringsmiljøet for alle studenter. I proposisjonen står det at et fullt forsvarlig læringsmiljø må utvikles i lys av teknisk og sosial utvikling i samfunnet, og ut fra det aktuelle studium og studieopplegg. Det ble derfor stilt krav til det fysiske arbeidsmiljøet og krav om at det skal opprettes et læringsmiljøutvalg ved institusjonene.
+
+Læringsmiljøutvalget skal delta i planleggingen av tiltak som gjelder læringsmiljøet og nøye sikre studentenes kontroll og medbestemmelsesrett i saker som angår studentenes læringsmiljø. Læringsmiljøutvalget skal også holdes orientert om klager institusjonen mottar fra studenter om læringsmiljøet, og utvalget kan gi uttalelser om disse forholdene. Læringsmiljøutvalget rapporterer direkte til styret ved institusjonen og skal hvert år rapportere om institusjonens arbeid med læringsmiljø. Loven stiller krav om at studentene og institusjonen skal ha like mange representanter hver i utvalget. Det gjør at læringsmiljøutvalget er det eneste utvalget ved universiteter og høyskoler hvor studentene har like mange representanter som institusjonen. Dette gir studentene en tilsvarende representasjon i læringsmiljøutvalget som arbeidstakere har i arbeidsmiljøutvalget (AMU). Læringsmiljøutvalget velger hvert år en leder vekselsvis blant institusjonens og studentenes representanter. Studentrepresentasjon er et selvstendig mål med ordningen.
+
+Meld. St. 16 (2016–2017) Kultur for kvalitet i høyere utdanning (Kvalitetsmeldingen) viste til at læringsmiljøutvalgene hadde fått nye utfordringer etter Strukturreformen fordi de ofte må dekke flere studiesteder. For å styrke kunnskapsgrunnlaget om hvordan ordningen med læringsmiljøutvalgene fungerte, ga Kunnskapsdepartementet konsulentselskapet Oxford Research AS i oppdrag å evaluere læringsmiljøutvalgene. Evalueringsrapporten[^305] forelå i april 2018. Evalueringen viste at det er stor variasjon i hvordan læringsmiljøutvalgene fungerer ved de ulike institusjonene, og hvilke oppgaver de konsentrerer seg om. Det er ulikheter når det gjelder utvalgenes organisering, ansatterepresentasjon, observatører, relasjon til fakulteter og ledelse, saksfelt og samarbeid med studentsamskipnadene.
+
+### Utvalgets vurdering
+
+Utvalget ønsker ikke å oppheve ordningen med læringsmiljøutvalg. Utvalget ser klare utfordringer med dagens ordning og har av den grunn vurdert tre mulige alternativer for læringsmiljøutvalgene som utvalget ønsker å fremheve. Dette er hensyn utvalget mener er av betydning ved videreutviklingen av læringsmiljøutvalgene.
+
+Det *første* alternativet er å foreslå *ingen vesentlig endring i bestemmelsene* om læringsmiljøutvalgene fra det som gjelder i dag. Det har vært delte meninger blant institusjonene om hvordan læringsmiljøutvalgene fungerer. Studentene som deltok på utvalgets innspillsmøte i Bergen 6. mars 2019, var opptatt av å bevare læringsmiljøutvalgene. De fremhevet at det er viktig å sikre studentene reell medvirkning.
+
+Et *annet* alternativ er en *strukturendring* hvor man slår sammen *læringsmiljøutvalget og utdanningsutvalget* ved institusjonen. Det er også mulig å legge organiseringen av et slikt utvalg på et annet nivå ved institusjonen enn i dag. Det fremgår av evalueringen til Oxford Research at enkelte institusjoner tidligere har slått sammen disse to utvalgene og ønsker å gjøre det igjen.
+
+For læringsmiljøutvalgene ved store institusjoner er det en utfordring at det er stor avstand mellom sakene og det faktiske læringsmiljøet. Evalueringen finner få eksempler på at læringsmiljøutvalget har direkte betydning for hvordan fakultet og institutt tar hensyn til læringsmiljøet.
+
+Hvis læringsmiljøutvalgene og utdanningsutvalgene ble samorganisert og organiseringen av disse ble lagt på et lavere nivå enn i dag, kan dette styrke studentenes innflytelse over utdanningene. En negativ effekt kan bli at utdanningssaker havner i fokus på bekostning av læringsmiljøsaker, eller at dagens utdanningsutvalg blir mindre sentrale.
+
+Utdanningsutvalgene ved institusjoner med mulighet for selvakkreditering har store oppgaver nå som flere institusjoner er blitt større etter Strukturreformen. I tillegg er utdanningsutvalgene ved mange institusjoner et sentralt ledd i kvalitetssikringssystemene og har store oppgaver med å sikre kvaliteten. En bekymring er derfor at læringsmiljøet vil bli nedprioritert i saker der man ikke kan se utdanningsspørsmål og læringsmiljøspørsmål i sammenheng. I tillegg er det praktiske bekymringer rundt sammensetning, ettersom studentene skal ha 50 prosent av setene i et slikt utvalg. Det vil kunne bli utvalg med svært mange medlemmer om disse slås sammen. Enkelte av oppgavene som i dag ligger hos henholdsvis læringsmiljøutvalgene og utdanningsutvalgene, er så ulike at en sammenslåing kan være lite hensiktsmessig. Hvis læringsmiljø- og utdanningsutvalg legges på institusjons- og fakultetsnivå, medfører dette i tillegg en større inngripen i institusjonenes organisering enn med dagens regulering. Utvalget mener dette vil være uheldig.
+
+Det *siste* alternativet er *å fjerne lovens krav* til institusjonene om å ha en ordning med læringsmiljøutvalg. Få institusjoner gir inntrykk av at læringsmiljøutvalgene fungerer optimalt, og flere av institusjonene vil trolig ikke videreføre dette i sin nåværende form hvis lovkravet forsvinner. Det er mye som taler for en slik løsning. Det har vært vanskelig å påvise at ordningen har betydning for læringsmiljøet, og lovkravet innebærer en detaljstyring av hvordan institusjonene organiserer læringsmiljøarbeidet, som kanskje ikke er nødvendig. Kravet til læringsmiljøutvalg griper inn i institusjonenes autonomi.
+
+Utvalget ønsker likevel ikke å oppheve ordningen. Det mest problematiske ved å avvikle lovkravet er at læringsmiljøutvalget er en arena for studentinvolvering. Dersom kravet om læringsmiljøutvalg fjernes, kan det oppfattes som et signal om at studentenes læringsmiljø ikke er viktig å prioritere. Utvalget foreslår derfor å beholde lovkravet om et læringsmiljøutvalg, men at det er opp til institusjonene selv, i dialog med studentene, å bestemme organiseringen av utvalget. En slik løsning vil etter utvalgets syn bevare mest mulig av institusjonens autonomi. De detaljerte kravene til organisering i dagens lovbestemmelse kan slå uheldig ut. Forslaget forutsetter fortsatt en 50–50 fordeling mellom studentene og institusjonene. I tillegg foreslås det å lovfeste at studentsamskipnadene skal ha observatørstatus i læringsmiljøutvalget. Dette vil sikre at studentsamskipnadene landet over får lik mulighet til innsyn i læringsmiljøutvalgenes virksomhet.
+
+Når det gjelder utfordringene læringsmiljøutvalgene har fått etter Strukturreformen fordi de nå ofte må dekke flere studiesteder, viser utvalget til at lovforslaget ikke er til hinder for at en institusjon kan opprette lokale (under)læringsmiljøutvalg hvis den har flere geografisk adskilte undervisningssentre. Utvalget viser til at institusjonene bør ha et visst handlingsrom, og vil derfor ikke foreslå en presisering av dette i lovteksten. Utdanningsinstitusjonene har forskjellige størrelser, utfordringer og behov, og dette kan vanskelig reflekteres i loven.
+
+## Mentorordning
+
+### Bakgrunn
+
+I Kvalitetsmeldingen[^306] står det følgende:
+
+Universitetene og høyskolene må etablere oppfølgings- og utviklingssystemer som bidrar til at personalet kan få vurdert sin utdanningsfaglige kompetanse. Elementer i en slik vurdering kan være tilbakemeldinger basert på student- og fagfellevurderinger, pedagogiske utviklingsoppgaver, ansvar for utdanningsledelse, utvikling av fremragende studietilbud, utprøving av nye undervisningsformer, samt veilednings- og mentorordninger.
+
+I forbindelse med stortingsbehandlingen av Kvalitetsmeldingen gjorde Stortinget[^307] dette vedtaket:
+
+Stortinget ber regjeringen utrede hvordan man trinnvis kan innføre en mentorordning i høyere utdanning.
+
+Som en oppfølging av dette ga Kunnskapsdepartementet Universitetet i Bergen i oppdrag å utrede mentorordninger nasjonalt og internasjonalt. Utredningen er omtalt i Prop. 1 slik:[^308]
+
+Utgreiinga viser at det både nasjonalt og internasjonalt finst mange måtar å organisere mentorordningar i høgre utdanning på og at dei kan ha ulike formål. Ein forskjell er mellom ordningar som fokuserer på integrering i eit fagmiljø, og dei som fokuserer på arbeidslivet. Ordningane kan også ha ulike deltakarar, med mentorar frå dei tilsette, frå arbeidslivet eller frå meir erfarne studentar, og med mentoring éin-til-éin eller i grupper. Mentorordningane kan vere innretta mot ulike stadier i studiet og mot studium på ulike nivå, og ha ulikt omfang. Det varierer òg om mentorane deltar frivillig eller får lønn eller anna kompensasjon.
+
+Stortinget gjorde to anmodningsvedtak om mentorordning i høyere utdanning 31. mai 2018[^309]. Det første lyder slik:
+
+Stortinget ber regjeringen som del av den helhetlige gjennomgangen av regelverket for universiteter og høyskoler, utrede og foreslå hvordan man trinnvis kan innføre en faglig mentorordning for alle studenter på bachelornivå i høyere utdanning.
+
+Det andre lyder slik:
+
+Stortinget ber regjeringen komme tilbake til Stortinget i statsbudsjettet for 2019 med en redegjørelse om oppfølgingen av utredningen av mentorordning i høyere utdanning, samt gi en beskrivelse av hvordan det trinnvis kan innføres en mentorordning for bachelorstudenter og studenter i andre deler av studieløpet.
+
+Det første vedtaket gjelder universitets- og høyskolelovutvalget, det siste gjelder Kunnskapsdepartementet.
+
+### Utvalgets vurderinger
+
+Utredningen[^310] til Universitetet i Bergen viser at mentorordninger kan ligge tett opp til, og til dels overlappe med, andre virkemidler som fadderordninger for nye studenter, tilbakemeldinger på innlevert arbeid eller innleverte oppgaver, faglig veiledning på semester- eller masteroppgaver, karriereveiledning og så videre. Slike virkemidler kan variere mellom fagområder og mellom studienivåene. Mentorordningene bør derfor sees i sammenheng med institusjonenes øvrige tilbud til studentene, og mentorordningene vil også kunne få ulike virkninger på det øvrige tilbudet til studentene.
+
+Utvalget er kjent med at i tildelingsbrevet til statlige universiteter og høyskoler for 2019 så har departementet vist til følgende som en oppfølging av det siste anmodningsvedtaket:
+
+Universitetene og de statlige høyskolene skal starte opp nye mentorordninger i 2019. Omfang og innretning er avhengig av institusjonsstørrelse og eksisterende mentorordninger. Institusjonene må selv vurdere hvordan mentorordningene organiseres best mulig og ved hvilke studier de er mest hensiktsmessige i første omgang. Diku skal fremme arbeidet gjennom dialog og erfaringsdeling med institusjonene.
+
+Kunnskapsdepartementet har bedt Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku) om å fremme arbeidet med mentorordninger gjennom dialog med institusjonene, seminarer og erfaringsdeling. Departementet har opplyst utvalget om at de tar sikte på å utlyse et oppdrag om ekstern evaluering av ordningen etter at den har virket i noen år. Evalueringen vil vise i hvilken grad ordningene forbedrer studiepoengproduksjon og gjennomføring, og hvorvidt bruken av mentorordninger bør utvides.
+
+Utvalget har sett nærmere på om en mentorordning bør lovfestes eller kun følge av institusjonens egne kvalitetssikringssystemer. En mentorordning vil være avhengig av at den enkelte mentor er engasjert i oppgaven, setter av nok tid og ser seg tjent med å fungere som mentor.
+
+En lovfesting av en mentorordning kan være med på å synliggjøre institusjonens ansvar overfor studenten. En mentorordning kan virke positivt inn på studiepoengproduksjon og gjennomføring. Studenten kan lære mer og på en bedre måte. Tiltaket kan gi studentene en mer givende studietid, gitt at ordningen fungerer etter hensikten. Utvalget mener imidlertid at å lovfeste en rett til mentorordning ikke er nødvendig eller det mest hensiktsmessige tiltaket for å oppnå slike resultater. Utvalget viser til at Kunnskapsdepartementet allerede har iverksatt flere tiltak knyttet til mentorordning. Rapporten fra Universitetet i Bergen gir heller ikke svar på om mentorordninger har positive effekter for studentene. Rapporten beskriver ulike måter å organisere mentorordninger på. Utvalget vet for lite om effektene av en slik ordning og i hvilken grad den kan bidra til å forbedre studiepoengproduksjon og gjennomføring. En lovendring bør vurderes først når det er mer kunnskap om effekten av ordningene som institusjonene er pålagt å iverksette, og hva som har vært suksesskriterier der man eventuelt har lykkes.
+
+Innføring av mentorordning vil etter all sannsynlighet medføre kostnader. En lovendring bør ikke iverksettes før man kan være rimelig trygg på at tiltaket har positive konsekvenser som veier opp for kostnadene, jf. utredningsinstruksen.

@@ -1,954 +1,319 @@
-# NOU 2020: 3, del 8 av 42 (side 85–95)
+# NOU 2020: 3, del 8 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 85]
+# Myndighetenes styring av universiteter og høyskoler
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+\[:figur:fig8-1.jpg\]
 
-lovens hovedmodell. Dette ble fulgt opp med lovendring i 2015, jf. Prop. 41 L (2015–2016).27 Men
-loven gir fortsatt åpning for at institusjoner som
-selv ønsker det, kan velge rektor. For at en institusjon skal skifte til hovedmodellen, kreves det nå
-alminnelig flertall i styret.
-Over tid har en stadig større del av institusjonene gått over til ansatt rektor. Medregnet Universitetet i Stavanger, som gikk over til ansatt rektor i
-2019, har nå ti av 21 institusjoner besluttet å ha
-denne modellen.
-
-8.10 Utvalgets vurderinger
-8.10.1 Styringen samlet sett
-Universiteter og høyskoler har og må ha autonomi og omfattende frihet, jf. punkt 15.3. Samtidig er det samlet sett behov for å styre sektoren
-for at målene nås og samfunnets behov dekkes.
-Siden statlige universiteter og høyskoler er forvaltningsorganer, har departementet plikt til å
-fastsette overordnede mål og styringsparametere
-for dem, jf. økonomiregelverket §§ 4 og 7. Selv
-om økonomiregelverket og styringsmodellen i
-utgangspunktet gir institusjonene stort ansvar
-for egen virksomhet, medfører for eksempel
-budsjettprioriteringer med resultatbevilgninger,
-bestemmelser om studentenes rettigheter og
-plikter, øremerkinger av tildelinger, rammeplaner og vilkår for akkreditering at det samlet
-sett er omfattende styring av universitets- og
-høyskolesektoren. Det følger for eksempel i dag
-av universitets- og høyskoleloven § 9-2 fjerde
-ledd at styret fastsetter den interne organiseringen på alle nivåer. Dette innebærer likevel
-ikke at statsrådens instruksjonsmyndighet juridisk sett er avskåret, jf. over. Samtidig har loven
-enkelte bestemmelser som angår organiseringen, for eksempel at alle studenter skal ha tilgang til et studentombud, og at det ved institusjonene skal være et læringsmiljøutvalg, jf. §§ 4-17
-første ledd og 4-3 tredje ledd.
-I behandlingen av statsbudsjettet kan både Stortinget og departementet øremerke midler til blant
-annet studieplasser og bestemme både på hvilke
-utdanninger de skal opprettes og hvor de geografisk skal lokaliseres. Gradsforskriften fastsetter
-hvilke universiteter som kan tildele gradene som er
-regulert i forskriften, blant annet medisin, teologi,
-psykologi, fireårig lærerutdanning og master i
-rettsvitenskap. Andre institusjoner som ønsker å
-27
-
-Prop. 41 L (2015–2016) Endringer i universitets- og høyskoleloven (modell for styring og ledelse mv.).
-
-83
-
-Kapittel 8
-
-satse på utdanningene som er regulert i forskriften,
-kan ikke gjøre det uten at forskriften endres.
-Videre vil prioriteringer og aktiviteter fra både
-NOKUT, Direktoratet for internasjonalisering og
-kvalitetsutvikling i høyere utdanning (Diku) og
-Unit – Direktoratet for IKT og fellestjenester i
-høyere utdanning og forskning, Norges
-forskningsråd og andre påvirke universitetene og
-høyskolene, og følgelig ha en styringseffekt.
-Utvalget mener at sentrale myndigheters samlede styring av universitets- og høyskolesektoren i
-dag er omfattende, og at dette på lang sikt kan
-virke negativt inn på universiteter og høyskolers
-rom til å utvikle virksomheten. En konsekvens av
-at alle institusjoner møtes med like krav, like samfunnsoppdrag, likt regelverk og likt finansieringssystem, er at det er blitt mindre forskjell mellom
-institusjonene.
-Utvalget anbefaler derfor at den samlede styringen blir noe mindre enn i dag. Institusjonene
-har etter Kvalitetsreformen og den styrkede autonomien som fulgte med denne, selv tatt større
-ansvar, både for måloppnåelsen samlet sett og for
-drift av virksomhetene. For å dekke nasjonale
-behov og sørge for sektorens samlede samfunnsoppdrag, vil dette forutsette større grad av samordning og arbeidsdeling mellom institusjonene.
-Utvalget ser positivt på den utviklingen som skjer
-i sektoren i regi av blant andre Universitets- og
-høgskolerådet. Vi mener at et slikt nettverk kan
-bidra godt til samordning.
-For å sikre at styringen av institusjonene er
-transparent, foreslår utvalget at pålegg og instrukser må gis skriftlig, jf. forslaget til § 3-1. Vi foreslår
-også å presisere at styremedlemmer skal opptre
-uavhengig, for å klargjøre at departementet eventuelt må instruere institusjonen gjennom styret
-som kollegialt organ.
-For øvrig viser utvalget til at departementet vil
-gjennomgå styringspolitikken for statlige universiteter og høyskoler. Vi anbefaler at departementet i
-denne gjennomgangen også vurderer departementets styringsaktiviteter overfor private høyskoler. Utvalget mener det er svært viktig at
-departementets gjennomgang av styringspolitikken gjøres i tett sammenheng med oppfølgingen
-av forslaget til ny universitets- og høyskolelov.
-
-8.10.2 Gradsforskriften
-8.10.2.1 Gjeldende rett
-Forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og
-høyskoler (gradsforskriften) er fastsatt av Kunn-
-
-[Side 86]
-
-84
-
-NOU 2020: 3
-
-Kapittel 8
-
-Ny lov om universiteter og høyskoler
-
-skapsdepartementet.28 Forskriften regulerer
-hvilke grader og yrkesutdanninger som kan tildeles av ulike universiteter og høyskoler, hvilke
-institusjoner som kan gi særlige utdanninger som
-gir rett til beskyttet tittel, og normert studietid for
-utdanningene. Gradsforskriften regulerer ikke
-kvaliteten i utdanningene den omfatter.
-Hensynet bak gradsforskriften er myndighetenes behov for en overordnet nasjonal styring med
-tilbudet av ulike utdanninger i ulike deler av landet.
-
-8.10.2.2 Utvalgets vurderinger
-Et av de politiske målene bak Kvalitetsreformen
-var å gjøre institusjonene til robuste enheter med
-evne til å utvikle og styre egen virksomhet. Utvalget mener at større og mer likeverdige institusjoner vil bidra til at det er lettere å utvikle strategier
-som på nasjonalt nivå gir nødvendig arbeidsdeling. Mer autonomi og større institusjoner ville
-styrke institusjonenes evne til å ivareta kvaliteten i
-studietilbudene, men kvaliteten skulle også sikres
-gjennom sentrale forskrifter og tilsyn fra NOKUT.
-Dette ville også styrke institusjonenes evne til god
-regional tilgang på kompetanse.
-Utvalgets flertall, bestående av medlemmene
-Dahl Andersen, Bergstrøm, Jørgensen, Hessen,
-Riekeles, Steinveg og Søvig mener at gradsforskriften bidrar til en nasjonal styring av sentrale utdanninger og hindrer uhensiktsmessig konkurranse
-mellom utdanningsinstitusjoner. Innenfor medisin
-foreligger det for eksempel en fersk utredning fra
-et ekspertutvalg (Grimstad-utvalget) som anbefaler at den nasjonale kapasiteten skal økes.
-Ekspertutvalget anbefaler at dette bør skje ved å
-tildele flere plasser til de universitetene som allerede har medisinske fagmiljø og utdanning, og at
-disse får i oppdrag å ha tilbud utenfor egen nærregion i samarbeid med helsevesenet. Flertallet
-mener at det også er fullt mulig at opprettelse av en
-rekke nye tilbud i eksempelvis jus vil gi økt tilgang
-på studenter og kompetanse i én region på bekostning av tilsvarende tilgang i en annen region.
-Gradsforskriften, slik den i dag er utformet, er et
-av styringsverktøyene som bør videreføres. Flertallet mener at dagens forskrift er en hensiktsmessig måte å regulere det nasjonale behovet for forskjellige utdanninger, regionale kompetansebehov,
-kostnader og konsekvenser for kvalitet på fordi det
-er Stortinget og Kunnskapsdepartementet som tildeler studieplasser og ressurser. Dette skjer for å
-sikre tilstrekkelig opptak til sentrale yrker i den
-hensikt å dekke fremtidens behov, samt at ressur28
-
-Forskrift 16. desember 2005 nr. 1574.
-
-sene totalt sett innenfor sektoren blir mest mulig
-effektivt utnyttet. Det er fortsatt behov for nasjonal
-styring innenfor enkelte utdanninger i sektoren,
-men Kunnskapsdepartementet bør jevnlig vurdere
-hvilke utdanninger det er hensiktsmessig at er forbeholdt enkelte institusjoner, og hvilke institusjoner som bør ha rett til å tilby disse utdanningene
-ut fra en helhetlig vurdering.
-Utvalgets mindretall, bestående av utvalgsleder
-Aune og medlemmene Bragdø-Ellenes og Mælen,
-peker på at gradsforskriften har sin opprinnelse
-før Kvalitetsreformen i høyere utdanning og innskrenker institusjonenes autonomi. Forskriften
-regulerer mange og vidt forskjellige utdanninger,
-uten en nærmere begrunnelse for hvorfor disse
-reguleres særskilt. Forskriften inneholder heller
-ikke kriterier som må oppfylles for å gi en av de
-regulerte utdanningene, men gir konkrete institusjoner en rett til å tilby visse utdanninger.
-Forskriften begrenser institusjonenes mulighet til å dekke regionale og nasjonale kompetansebehov og begrenser således institusjonenes
-mulighet til å oppfylle sitt samfunnsoppdrag når
-de ikke kan tilby etterspurte utdanninger. Universiteter og høyskoler har en klar regional rolle ved
-å utdanne kandidater til regionens arbeidsmarked, men også på et mer strategisk nivå ved at
-institusjonene samarbeider med kommuner og
-fylkeskommuner om regionplaner og med
-næringsliv om studier og forskning.
-Tabell 8.1 viser at universitetene hovedsakelig
-rekrutterer studenter fra egen region.29 Dette
-påvirker institusjonenes strategiske valg av studietilbud og således hva slags kompetanse universitetene strategisk sett kan tilføre regionens
-arbeidsmarked. Mangel på utdanningstilbud kan
-ha som konsekvens at enkelte regioner ikke får
-tilstrekkelig kapasitet innenfor enkelte yrker eller
-at regionen går glipp av den beste kompetansen.
-Det betyr at dersom et universitet eller en høyskole ikke tilbyr en viss type utdanning, så vil
-arbeidsgivere i regionen sannsynligvis ha større
-vanskeligheter med å rekruttere folk med den tiltrengte kompetansen.
-I Kunnskapsdepartementets tildelingsbrev til
-institusjonene for 2019 står det følgende: «Universiteter og høyskoler skal dimensjonere sine studietilbud i forhold til fremtidige behov i arbeidslivet,
-29
-
-Jf. Sveinung Eikeland (prorektor UiT), i foredrag til Universitets- og høyskoleutvalget i mai 2019, med tall fra Samordna opptak, hovedopptaket høsten 2016 (første året etter
-sammenslåingen av UiT, Høgskolen i Harstad og Høgskolen i Narvik, og sammenslåingen av Universitetet i Nordland, Høgskolen i Nesna og Høgskolen i Nord-Trøndelag
-til Nord universitet).
-
-[Side 87]
-
-85
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Kapittel 8
-
-Tabell 8.1 Institusjonenes rekruttering av studenter fra egen region
-Institusjon
-
-Andel studenter rekruttert fra egen region
-(i prosent)
-
-Universitetet i Tromsø – Norges arktiske universitet (UiT)
-
-67 (Nord-Norge)
-
-Universitetet i Bergen (UiB)
-
-55 (Hordaland og Sogn og Fjordane)
-
-Universitetet i Stavanger (UiS)
-
-73 (Rogaland)
-
-Universitetet i Oslo (UiO)
-
-71 (Oslo/Viken)
-
-Universitetet i Agder (UiA)
-
-60 (Agderfylkene)
-
-OsloMet – storbyuniversitetet
-
-72 (Oslo/Viken)
-
-både regionalt og nasjonalt.» Dette oppdraget lar
-seg ikke gjennomføre for institusjoner som ikke
-har tillatelse til å tilby etterspurte utdanninger.
-Figuren 8.2 viser at for tre av utdanningene
-som er omfattet av gradsforskriften, psykologi,
-juridiske fag og medisin, er andelen studenter fra
-Oslo og Hordaland på henholdsvis 37, 34 og 31
-prosent. Disse studentgruppene i gjennomsnitt
-utgjør 26 prosent av studentene på studietilbudene som er tatt med. Dette gir en stor skjevhet
-i mulighetene til å velge studium for de regionale
-studentgruppene. En konsekvens kan være at
-potensialet i de nasjonale studentgruppene ikke
-unyttes fordi studentene søker mot sitt regionale
-tilbud.
-Gradsforskriften begrenser i praksis også
-kapasiteten på etterspurte utdanninger, slik at det
-på flere av utdanningene kreves svært høyt karaktersnitt for å komme inn. Som en konsekvens vel-
-
-ger flere å ta slike utdanninger ved utenlandske
-institusjoner. I 2018 tok 47 prosent av norske
-medisinstudenter utdanningen utenfor Norge, og
-38,6 prosent av nasjonalt praktiserende leger har
-sin utdanning fra et utenlandsk universitet.30
-Også innenfor psykologi tar flere studenter utdanningen i utlandet.31 Innenfor juridiske fag er det
-30
-
-31
-
-Jf. Grimstad, Hilde m.fl. Studieplasser i medisin i Norge.
-Behov, modeller og muligheter. Utredning fra Grimstadutvalget, oppnevnt av Kunnskapsdepartementet september 2019 s.
-7; Helsedirektoratet, NHSP 2020–2023 Kunnskapsgrunnlag
-til underprosjektet «Helsepersonell med utdanning fra utlandet» s. 13.
-Overgangen til det norske arbeidsmarkedet kan være problematisk. Høsten 2019 gikk 163 tidligere studenter med
-fullført masterutdanning i psykologi fra ELTE-universitet i
-Ungarn til sak mot staten fordi de ikke har fått adgang til å
-bli autoriserte som «psykolog» i Norge. Se for eksempel
-artikkel i Khrono. ELTE-rettssaka: Forventar dom innan
-tre veker https://khrono.no/elte-psykologi-psykologistudenter/elte-rettssaka-forventar-dom-innan-tre-veker/
-414817 hentet 7.11.19.
-
-Andel førstevalgssøkere med bostedsadresse Oslo eller Hordaland
-
-Alle studier
-
-Medisin
-
-Jus
-
-Psykologi
-
-0,0 %
-
-5,0 %
-
-10,0 %
-
-15,0 %
-
-20,0 %
-
-Figur 8.2 Andel førstevalgssøkere fra Oslo eller Hordaland
-
-25,0 %
-
-30,0 %
-
-35,0 %
-
-40,0 %
-
-[Side 88]
-
-86
-
-Kapittel 8
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-anslått at det i 2025 vil være en underdekning på
-7000 jurister, gitt dagens «produksjonstakt».32
-Flere jusstudenter med bachelorgrad i rettsvitenskap fra institusjoner som ikke har tillatelse til å
-tilby en mastergrad, får sin bachelorgrad godkjent
-ved en utenlandsk institusjon og tar mastergraden
-der. Så langt utvalget har kjennskap til, er det særlig danske universiteter som er aktuelle. EØSreglene legger til rette for at kandidater med master i rettsvitenskap fra andre EØS-land, kan praktisere som advokater i Norge.33 Gradsforskriften
-ser ikke ut til å forholde seg til at flere studenter
-tar studier som er regulert i forskriften ved utenlandske institusjoner, og på den måten kommer
-inn på det norske arbeidsmarkedet. Dette viser
-også vanskelighetene med å sentralstyre et utdannings- og arbeidsmarked som er internasjonalt.
-Utdanning i utlandet er ønskelig av flere
-grunner, se punkt 12.3.9 om internasjonalisering.
-Andelen studenter som velger å ta utdanningen i
-utlandet får likevel konsekvenser på flere plan og
-må hensyntas av Norge som nasjon. Utviklingsmulighetene av fagmiljøene nasjonalt påvirkes av
-hvor mange studenter som tar sin utdanning i
-enten utlandet eller i Norge. Dersom flere studenter kan få utdanningen i hjemlandet vil også fagmiljøene hjemme blir større. Større fagmiljøer vil
-kunne være positivt for utviklingen i regionene og
-arbeidsmarkedene lokalt.
-Det kan hevdes at rekruttering til enkelte av
-fagmiljøene som skal tilby utdanningene kan være
-en utfordring. Studiekvalitetsforskriften stiller
-krav om blant annet nivået på fagmiljøene som
-kan tilby masterutdanning. Rekrutteringsutfordringene kan reduseres ved at tilbud etableres
-ved flere studiesteder, og gode ordninger for samarbeid og mobilitet. Flere rekrutteringsarenaer vil
-kunne øke tilgangen på vitenskapelige ansatte,
-som i kombinasjon med samarbeid mellom institusjonene, vil gjøre fagmiljøene mer robuste.
-Mengden utenlandsstudenter viser at gradsforskriften ikke gir myndighetene den kontrollen
-de var tenkt å ha på antallet personer som tar ulike
-typer utdanning. Behovet for å sikre at det utdannes nok studenter med en ønsket kompetanse,
-reguleres best gjennom andre styringsvirkemidler enn gradsforskriften, blant annet øremerking
-av studieplasser over statsbudsjettet. Det er lite
-32
-
-Jf. Strandbakken, Asbjørn m.fl. Behovet for juridisk kompetanse og utdanning fram mot 2025. En utredning for Kunnskapsdepartementet, avgitt 25. februar 2013 s. 91.
-33
-Se blant annet forskrift 20. desember 1996 nr. 1181 til domstolloven kapittel 11 (advokatforskriften) kap 10, I EØSadvokaters adgang til å yte rettshjelp på permanent basis i
-Norge.
-
-som taler for at de privilegerte institusjonene etter
-gradsforskriften ville ha lagt ned sine studier selv
-om flere universiteter skulle få mulighet til å tilby
-de forskriftsregulerte utdanningene (og godkjennelse fra NOKUT). Sikring av et minimumsantall
-studenter på visse utdanninger vil derfor ikke bli
-hemmet av at gradsforskriften fjernes.
-Det er heller ikke gradsforskriften som hindrer universiteter og høyskoler i å starte opp
-svært kostbare studier uten at dette er i tråd med
-nasjonale politiske målsetninger. Universiteters
-og høyskolers autonomi til å opprette og nedlegge studietilbud, prioritere forskningsområder
-og etablere strategier, begrenses i hovedsak av
-deres økonomiske handlingsrom som fastsettes i
-statsbudsjettet. Det vil derfor ikke være mulig
-for institusjoner å ta ansvaret for kostbare utdanninger (gjelder spesielt medisin), uten at dette
-kommer som en satsning gjennom statsbudsjettet.
-Utvalgets mindretall, bestående av utvalgsleder
-Aune, og medlemmene Bragdø-Ellenes og Mælen,
-mener på bakgrunn av dette at gradsforskriften
-ikke bygger opp under føringene om mer autonomi som ble lagt gjennom Kvalitetsreformen og
-oppfølgingen av denne. Forskriften legger heller
-ikke til rette for kapasitetsutnyttelse og utvikling
-av fagmiljøer. Den hindrer på flere områder institusjoner i å utføre samfunnsoppdraget med å
-dekke regionale kompetansebehov. Stortinget og
-regjeringen har et overordnet ansvar for sektoren
-og ivaretar dette gjennom lover, budsjettrammer,
-øremerkede midler og forskrifter om blant annet
-kvalitetskrav. Innenfor disse rammene bør det
-være institusjonene selv som utvikler sine fagporteføljer uten begrensningene som følger av
-gradsforskriften.
-
-8.10.3 Budsjett og finansiering
-Finansieringssystemet har flere elementer. Det er
-flere aktører som kan påvirke systemet, for
-eksempel arbeidsgruppen som vurderer systemet
-for dimensjonering av høyere utdanning og oppfølging av NOU 2019: 12 Lærekraftig utvikling.
-Livslang læring for omstilling og konkurranseevne.
-Utvalget anbefaler at departementet ser disse
-arbeidene i sammenheng og følger opp med mål
-om et enklere finansieringssystem. Utvalget
-mener likevel det er sentralt at institusjonene
-finansieres gjennom rammebevilgning, og at de i
-størst mulig grad selv må kunne gjøre prioriteringer.
-
-[Side 89]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-8.10.4 Bygg og eiendom
-Utvalget viser til områdegjennomgangen av bygg
-og –eiendomspolitikken i statlig sivil sektor, og
-anbefaler at departementet i oppfølgingen av
-denne legger stor vekt på at institusjonene bør ha
-stor frihet. I oppfølgingen mener vi at regjeringen
-bør ta hensyn til at areal og infrastruktur er et viktig virkemiddel for å kunne utvikle utdanningstilbud og nå strategiske forskningsmål. Bygningsmassen er tett integrert i virksomheten og brukes
-som et strategisk virkemiddel i utviklingen av universitetene og høyskolene, både som campus og
-som aktør i steds- og byutviklingen. I mange situasjoner tildeles penger til prosjekter og sentre som
-har begrenset levetid, ofte fem år. I slike tilfeller
-kan det være nødvendig at institusjonene agerer
-raskt og omprioriterer slik at arealer for slike satsninger er klare i løpet av 12–15 måneder. I slike
-situasjoner er det ikke mulig for institusjonene å
-vente på «neste budsjettår», og de må kunne gjøre
-nødvendige prioriteringer og investeringer. Universitets- og høyskolesektoren er i stor omstilling,
-og eiendomsfullmakten er ett av virkemidlene for
-
-87
-
-Kapittel 8
-
-å løse samfunnsoppdraget. Utvalget mener at
-institusjonene selv bør bestemme over egne ressurser og innsatsfaktorer i størst mulig grad, for at
-samfunnet skal få høyere utdanning og forskning
-av best mulig kvalitet.
-
-8.10.5 Andre styringsvirkemidler
-På noen områder er det viktig med likhet mellom
-institusjonene, for eksempel innenfor lærerutdanninger og helseutdanninger. Utvalget anbefaler at
-departementet fortsatt sørger for slik likhet gjennom å fastsette forskrifter med rammeplaner, men
-at disse ikke bør være mer detaljert enn nødvendig, se nærmere omtale i punkt 9.3.7. Som nevnt
-over anbefaler utvalget at institusjonene i større
-grad samordner seg og gjør prioriteringer som i
-sum møter samfunnets behov. Det bør gi tilsvarende mindre behov for å bruke andre styringsvirkemidler. Utvalget anbefaler at departementet
-og institusjonene vinner erfaringer, og at de tilpasser den samlede bruken av styringsvirkemidlene i tråd med dette.
-
-[Side 90]
-
-88
-
-NOU 2020: 3
-
-Kapittel 9
-
-Ny lov om universiteter og høyskoler
-
-Kapittel 9
-
-Strukturen i regelverket
-
-Figur 9.1
-
-9.1
-
-Utvalgets forslag
+## Utvalgets forslag
 
 Utvalget foreslår følgende:
-• Ny struktur i universitets- og høyskoleloven.
-Utvalget anbefaler følgende:
-• Det settes i gang et arbeid med å gjennomgå
-sentrale og lokale forskrifter under universitets- og høyskoleloven, for eksempel ved å
-sette ned en arbeidsgruppe med representanter fra både myndighetssiden og institusjonene. Et slikt arbeid bør omfatte:
-– Gjennomgang av forskriftshjemlene i universitets- og høyskoleloven og vurdere
-behovet;
-– vurdering av å flytte forskriftsmyndighet fra
-institusjonene til departementet på enkelte
-områder;
-– gjennomgang av de sentrale forskriftene
-under universitets- og høyskoleloven med
-sikte på å samle dem i én eller noen få forskrift(er);
-– rydding i begrepsbruken i lov og forskrifter;
-– gjennomgang og oppdatering av rundskriv
-under universitets- og høyskoleloven.
-• Institusjonene samarbeider om å utvikle maler
-eller «mønsterforskrifter» på noen områder.
-Dette kan særlig være aktuelt for regler om studentrettigheter, hvor hensynet til autonomi
-ikke veier tungt.
 
-9.2
+- Myndighetenes styring av universitets- og høyskolesektoren bør samlet sett bli noe mindre enn i dag.
 
-Rettskildene
+- Institusjonene bør i større grad samordne seg og gjøre prioriteringer som samlet sett møter samfunnets behov.
 
-9.2.1 Innledning
-En sentral del av utvalgets mandat er å vurdere
-strukturen i regelverket for universiteter og høyskoler. I dette ligger blant annet at utvalgets lovforslag skal ha god systematikk og at utvalget skal
-vurdere forholdet mellom universitets- og høyskoleloven og nasjonale og lokale forskrifter.
-Regelverket er over årene blitt omfattende og
-uoversiktlig. Dette har flere årsaker. Universiteter
-og høyskoler er store institusjoner som utøver forvaltningsmyndighet, og de har også selv myndighet til å utarbeide regelverk på flere områder.
-Relativt hyppige lov- og forskriftsendringer fra
-myndighetenes side har også bidratt til at regelverket har blitt omfattende. I tillegg kommer
-rundskriv, brev fra Kunnskapsdepartementet med
-uttalelser om hvordan regelverket skal forstås, og
-klageavgjørelser. Samlet gir disse tre elementene
-uttrykk for forvaltningspraksis.
-Rettskildeprinsippet lex superior innebærer at
-rettsregler av høyere rang går foran regler av
-lavere rang hvis det er motstrid mellom reglene.
-Prinsippet fungerer som en harmoniseringsnorm
-som innebærer at regler av høyest rang, for
-eksempel Grunnloven, gir et tungtveiende bidrag
-ved lovtolkningen for å unngå regelkonflikt. Prinsippet innebærer at det som følger av én rettsregel, ikke kan endres av en rettsregel av lavere
-rang. For eksempel kan ikke en lov endres ved
-forskrift.
-I det videre vil særlig universitets- og høyskoleloven, forskrifter og forvaltningspraksis bli
-omtalt. Det er særlig disse rettskildene som fører
+- En ny lovbestemmelse om at pålegg og instrukser til universiteter og høyskoler må gis skriftlig.
 
-[Side 91]
+- En ny lovbestemmelse som presiserer at styremedlemmer skal opptre uavhengig, for å klargjøre at departementet eventuelt må instruere institusjonen gjennom styret som kollegialt organ.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+- Universiteter og høyskoler skal fortsatt være rammefinansiert, men finansieringssystemet bør vurderes i lys av blant annet mål om livslang læring.
 
-til noen spesifikke utfordringer for universitets- og
-høyskolesektoren. Utvalget har avgrenset omtalen som gjelder regelverksstruktur, mot lov om
-studentsamskipnader1 og forskriftene under den.
+- De institusjonene som fortsatt ønsker å forvalte egen eiendom, kan gjøre det.
 
-9.2.2 Institusjonenes autonomi
-Norske universiteter og høyskoler har i dag stor
-grad av autonomi og kan fastsette regler for styring og forvaltning av egen virksomhet. Som vist i
-kapittel 4 om historisk tilbakeblikk og kapittel 8
-om myndighetenes styring av universiteter og
-høyskoler, er institusjonenes autonomi i dag et
-resultat av en lang og gradvis utvikling i den statlige delen av sektoren. Institusjonenes autonomi
-er begrenset av lovgivningen.
-Universitets- og høyskoleloven2 legger rammene for institusjonens virksomhet og departementets styring. Loven er felles for statlige og private universiteter og høyskoler, men har også
-bestemmelser som gjelder enten for statlige eller
-for private institusjoner. Loven gir institusjonene
-et stort ansvar for egen virksomhet, men den gir
-også grunnlag for mer detaljert styring gjennom
-flere ulike forskriftshjemler.
-Universitets- og høyskoleloven er ett av flere
-regelverk som setter skranker for handlingsrommet til universiteter og høyskoler. Én skranke er
-reglementet for økonomistyring i staten (økonomireglementet), som fastsettes av Finansdepartementet. Motstykket til økonomireglementet for
-privat sektor er blant annet regnskapsloven.
-Videre begrenses institusjonenes handlingsrom
-av for eksempel forvaltningsloven3, likestillingsog diskrimineringsloven4, forskningsetikkloven5,
-statsansatteloven6 og arbeidsmiljøloven7.
-Regjeringen har et overordnet ansvar for universitets- og høyskolesektoren og har dermed et
-legitimt behov for å kunne påvirke utviklingen i
-sektoren og for å ivareta hensynet til helheten i
-systemet for høyere utdanning. Institusjonenes
-autonomi og de lovfestede fullmaktene er likevel
-1
-2
-3
-4
-5
-6
-7
+- Departementets gjennomgang av styringspolitikken skal også vurdere styringsaktiviteter overfor private høyskoler.
 
-Lov 14. desember 2007 nr. 116 om studentsamskipnader
-(studentsamskipnadsloven).
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven).
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
-Lov 16. juni 2017 nr. 51 om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven).
-Lov 28. april 2017 nr. 23 om organisering av forskningsetisk
-arbeid (forskningsetikkloven).
-Lov 16. juni 2017 nr. 67 om statens ansatte mv. (statsansatteloven).
-Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).
+- Departementets gjennomgang av styringspolitikken skal gjøres i tett sammenheng med oppfølging av forslaget til ny universitets- og høyskolelov.
 
-89
+Et flertall i utvalget foreslår følgende:
 
-Kapittel 9
+- Forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler (gradsforskriften) videreføres som i dag.
 
-et klart signal om at statsråden som utøver den
-politiske styringen forventes å innta en tilbaketrukket styringsposisjon, og at institusjonene selv
-er best egnet til å vurdere treffe beslutninger om
-utviklingen av egen virksomhet.
+- Kunnskapsdepartementet skal jevnlig vurdere hvilke utdanninger det er hensiktsmessig å forbeholde enkelte institusjoner.
 
-9.2.3
+Et mindretall i utvalget foreslår følgende:
 
-Grunnloven og folkerettslige
-forpliktelser
-Grunnloven legger føringer for og grunnlaget for
-rettskildebildet for universitets- og høyskolesektoren. Alle underliggende rettsregler skal være i tråd
-med Grunnloven. Grunnloven § 109 gir enhver rett
-til utdanning. I motsetning til hva tilfellet er med
-grunnleggende opplæring, er det ingen rett å motta
-høyere utdanning. Derimot fastsetter § 109 andre
-ledd en rett til «like muligheter til høyere utdannelse på grunnlag av kvalifikasjoner».
-Enkelte internasjonale konvensjoner har også
-fått høyere rang enn andre norske rettsregler
-gjennom lovgivning, og går foran dersom det er
-motstrid. Flere av menneskerettighetskonvensjonene, som Europarådets konvensjon om beskyttelse av menneskerettighetene og de grunnleggende friheter, har bestemmelser om forrang ved
-motstrid.8 Det samme gjelder EØS-avtalen.
-Bestemmelser som skal oppfylle Norges forpliktelser etter avtalen, skal gå foran andre bestemmelser som regulerer samme forhold ved konflikt
-mellom bestemmelsene.9 Dette innebærer at de
-inkorporerte internasjonale konvensjonene som
-er gitt forrang, også setter grenser for reguleringen av universitets- og høyskolesektoren. For
-eksempel vil studenter fra EØS-land ha samme tilgang til utdanning som studenter fra Norge.
-9.2.4 Lov og forskrift
-Dagens universitets- og høyskolelov inneholder
-både overordnede bestemmelser, som for eksempel bestemmelser om formålet med høyere utdanning og akademisk frihet, og regler som er spesialiserte og detaljerte, som regler om klage ved
-eksamen. Loven regulerer mange ulike forhold,
-som styring og organisering av universiteter og
-høyskoler, ansattes rettigheter, studenters rettigheter, regler om akkreditering og tilsyn og regler
-om saksbehandling og klageordninger.
+- Departementet skal ikke gjennom gradsforskriften avgjøre hvilke institusjoner som kan tilby bestemte utdanninger.
 
-8
-9
+## Innledning
 
-Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven) § 3, jf. § 2.
-Lov 27. november 1992 nr. 109 om gjennomføring i norsk
-rett av hoveddelen i avtale om Det europeiske økonomiske
-samarbeidsområde (EØS) m.v. (EØS-loven) § 2.
+Universitetene og høyskolene skal med sin virksomhet sørge for at samfunnet og arbeidslivet har tilgang på kunnskap og kompetanse av høy kvalitet og relevans, og bidra til utvikling og omstilling gjennom innovasjon og formidling av kunnskap. Dette skjer i et samspill mellom undervisning og formidling, og i tillegg har de ansvar for forskning og faglig og kunstnerisk utviklingsarbeid.
 
-[Side 92]
+Universitets- og høyskolesektoren er en betydelig sektor i Norge. Ifølge Statistisk sentralbyrå (SSB) var det i 2018 cirka 293 000 studenter i høyere utdanning, hvorav cirka 43 000 studerte ved private høyskoler.[^62] Ifølge Database for statistikk om høgre utdanning (DBH) var det cirka 37 500 ansatte ved universiteter og høyskoler.
 
-90
+Kapitlet gir en beskrivelse av styringen av den statlige delen av universitets- og høyskolesektoren, og av myndighetenes styringsvirkemidler. Kapitlet har også en omtale av akkrediterings-, kvalitetssikrings- og finansieringssystemet for universiteter og høyskoler. Dette gjelder også for de private institusjonene. Formålet med fremstillingen er å se på regelverket i sammenheng med andre virkemidler.
 
-NOU 2020: 3
+## Styring av universitets- og høyskolesektoren
 
-Kapittel 9
+Samfunnet har høye og økende forventninger til hva sektoren skal oppnå. Det følger av universitets- og høyskoleloven[^63] §§ 1-1 og 1-3 at universiteter og høyskoler skal utdanne kandidater som er relevante for arbeidslivets behov, og tilby etter- og videreutdanning. Ved institusjonene skal det utføres forskning og faglig og kunstnerisk utviklingsarbeid på høyt internasjonalt nivå. Universiteter og høyskoler skal også formidle resultater og forståelse av akademiske metoder og verdier til allmennheten, bidra til innovasjon, verdiskapning og regional utvikling samt samarbeide med og sikre kunnskapsdeling mellom næringsliv og offentlig forvaltning. Institusjonene skal aktivt søke eksterne inntekter og bidra til å løse de utfordringer samfunnet står overfor.
 
-Ny lov om universiteter og høyskoler
+### Særtrekk
 
-Universitets- og høyskoleloven er en «rammelov». Det innebærer at myndighet til å fastsette
-regler i forskrift er delegert fra Stortinget til forvaltningen. I universitets- og høyskoleloven er det
-rundt 70 forskriftshjemler som gir departementet
-eller andre mulighet til å fastsette forskrifter. Hensikten med forskriftshjemler er at det skal være
-mulig å fastsette detaljerte regler uten å måtte
-endre loven. Mange av de samme kravene gjelder
-til forskriftsendringer som til lovendringer, for
-eksempel utredningskrav og krav til høring. Likevel kan forskrifter endres enklere enn lov, og forskriftshjemler gir på den måten fleksibilitet. Samtidig er ofte forvaltningen, gjennom sin kjennskap
-til egen sektor, best egnet til å fastsette detaljerte
-regler.
-I universitets- og høyskoleloven er departementet gitt myndighet til å gi forskrift på områder
-som lovgiveren mener krever nasjonale fellesbestemmelser. Et eksempel er universitets- og høyskoleloven § 3-7 første ledd, der departementet er
-gitt myndighet til å gi forskrift om nasjonal samordning av opptak.
-Loven gir flere steder institusjonene rett og
-plikt til å fastsette egne regler. Institusjonene
-fastsetter både egne lokale forskrifter og en
-rekke andre regler som kan fremstå som forskrifter. Rettslig sett er det bare normeringer
-som fyller vilkårene i forvaltningsloven10 § 2
-bokstav c) og som er gitt i samsvar med vilkårene i forvaltningsloven § 38 som er forskrifter.
-Typiske eksempler på regulering som ikke er
-forskrifter, er ordensregler, delegasjonsvedtak
-og interne instrukser. Fellestrekket er at ett eller
-flere av vilkårene for å være en forskrift ikke er
-oppfylt, for eksempel fordi avgjørelsen ikke innebærer «utøving av offentlig myndighet» eller
-ikke er «bestemmende for rettigheter eller plikter». Det fremkommer av loven når institusjonen
-selv har myndighet til å fastsette reglene, ved at
-det enten står «styret selv» eller «styret» i
-bestemmelsene. Det står i universitets- og høyskoleloven § 3-9 syvende ledd at «styret selv gir
-forskrift om avleggelse av og gjennomføring av
-eksamener og prøver […]», mens det i § 3-10
-står «styret kan fastsette at eksamenskandidater
-[…]». «Styret selv» innebærer et delegasjonsforbud og da er det styret som skal fastsette
-reglene. Står det «styret», kan styret velge om
-det vil fastsette reglene selv eller delegere myndigheten til for eksempel en avdeling ved institusjonen.
-10
+Statlige universiteter og høyskoler er organisert som forvaltningsorganer med særskilte fullmakter. Det innebærer at de er en del av staten som juridisk person, med særskilte fullmakter på en del områder, for eksempel økonomiske fullmakter og fullmakter til å eie aksjer i selskap og til å inngå leieavtaler utover budsjettåret.
 
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).
+Universiteter og høyskoler som selv forvalter eiendom, kan avhende eiendom i tråd med instruks om avhending av statlig eiendom m.v. (avhendingsinstruksen).[^64] Institusjonene skal sikre at den faglige virksomheten holder høyt nivå, og at den utføres i overensstemmelse med anerkjente faglige og etiske prinsipper, jf. universitets- og høyskoleloven § 1-5 første ledd, jf. Ot.prp. nr. 67 (2006–2007)[^65]. Universiteter og høyskoler kan ikke instrueres om læreinnholdet i undervisningen og innholdet i forskningen eller i det faglige og kunstneriske utviklingsarbeidet, jf. universitets- og høyskoleloven § 1-5 tredje ledd. De kan heller ikke instrueres om individuelle ansettelser eller utnevnelser.
 
-Lovens forskriftshjemler kan hver for seg gi
-utspring til mer enn én forskrift. Det finnes i dag
-flere hundre forskrifter innenfor den delen av
-Kunnskapsdepartementets forvaltningsområde som
-gjelder høyere utdanning. Lovdata kategoriserer
-alle forskriftene som sentrale, siden alle er gitt på
-statlig nivå. Imidlertid er bare noen av dem vedtatt
-av departementet og gjelder for hele sektoren,
-mens resten er lokale forskrifter for den enkelte
-institusjon. Selv om de er vedtatt av forskjellige
-institusjoner, ser flere av forskriftene ganske like ut
-fordi de omtaler de samme temaene, som lokale
-opptak, studier, eksamen og grader. En oversikt
-over sentrale forskrifter som er hjemlet i universitets- og høyskolelovens finnes i trykt vedlegg 2 til
-utredningen. Forskriftene er fastsatt av Kunnskapsdepartementet.
+Institusjonene finansieres i stor grad over statsbudsjettet. Statlige universiteter og høyskoler er nettobudsjetterte, som blant annet innebærer at institusjonene disponerer alle sine inntekter, og at de kan overføre overskudd fra ett år til et annet. Institusjonene avgjør selv hvor mye som brukes på drift og investeringer, såfremt ikke noe annet er bestemt av departementet.
 
-9.2.5
+Universiteter og høyskoler har styrer som er det øverste organet ved institusjonen. I utgangspunktet har ikke forvaltningsorganer styrer, men historisk har universiteter og høyskoler hatt det. Dagens kollegiale beslutningsorgan gir institusjonene et strategisk beslutningsnivå, der både studenter, ansatte og eksterne medlemmer deltar i styringen av institusjonene. Styrene fastsetter institusjonenes interne organisering og har ansvaret for at ressurser disponeres effektivt og i tråd med formålet.
 
-Rammeplaner
+### Stortingets lovgiverkompetanse
 
-Rammeplaner for ulike utdanninger er fastsatt
-som forskrifter. Alle nasjonale rammeplaner er
-hjemlet i universitets- og høyskoleloven § 3-2.
-Rammeplaner er et særskilt styringsverktøy som
-gir departementet myndighet til å fastsette nærmere bestemmelser om omfang, læringsutbytte,
-oppbygning av studier og eksamen for en rekke
-utdanninger. Ordningen innebærer et avvik fra
-hovedregelen i universitets- og høyskoleloven § 15 tredje ledd bokstav a, som sier at institusjonene
-ikke kan instrueres i faglige spørsmål. Bestemmelsen er et uttrykk for at institusjonene skal ha
-en stor grad av autonomi til selv å fastsette krav i
-utdanningene som tilbys, som krav til læringsutbytte, faglig innhold og omfang.
-Begrunnelsen for rammeplaner har vært og er
-at det er et behov for en nasjonal samordning av
-kravene til blant annet faglig innhold, læringsutbytte og omfang og krav til praksis for visse utdanninger. De fleste utdanninger som er styrt gjennom rammeplaner, har tradisjonelt vært treårige
-og yrkesrettede, og de blir tilbudt på mange læresteder i hele landet. De siste årene har enkelte
-rammeplanstyrte utdanninger fått utvidet omfang.
-For eksempel er nå grunnskolelærerutdanningene femårige masterstudier. De rammeplanstyrte utdanningene er i all hovedsak tidligere
-høyskolestudier, slik som lærer-, sykepleie- og
-ingeniørutdanninger.11
+Styring gjennom lov er en viktig del av statens myndighetsutøvelse. Lovforslag fremmes av regjeringen, og vedtas av Stortinget. Dette innebærer at Stortinget i siste instans er det organet som avgjør utformingen av lover.
 
-9.2.6 Forvaltningspraksis og rundskriv
-Departementet har ansvaret for å forvalte og fortolke bestemmelsene i universitets- og høyskoleloven og sentrale forskrifter. Dette gjøres gjen-
+Stortinget kan i sin behandling av et lovforslag både endre lovteksten og legge inn premisser for tolkningen av nye og gamle regler gjennom de momenter som stortingskomiteen gir uttrykk for i sin innstilling til loven. Stortinget kan også be om særskilte oppfølginger eller utredninger eller lignende av de bestemmelsene det vedtar. Disse endringene kan medføre at den rettsstillingen som regjeringen har ønsket å oppnå, endres eller får et annet uttrykk.
 
-[Side 93]
+Som lovgiver har Stortinget mulighet til å tillegge forvaltningen særskilte oppgaver eller å fjerne disse. I tillegg kan Stortinget flytte oppgaver fra ett nivå i forvaltningen til et annet. Stortinget kan gi underliggende forvaltningsorganer en myndighet som regjeringen mener burde ha ligget på et overordnet nivå, eller omvendt. Stortinget kan vedta at enkelte bestemmelser skal forvaltes av for eksempel organer som er underlagt et departement, eller at eksempelvis styrene ved en type institusjon selv skal bestemme i særlige saker. Stortinget kan imidlertid ikke innskrenke Kongens rett til å bestemme på områder som i Grunnloven er lagt til Kongen gjennom et prerogativ.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+### Anmodningsvedtak
 
-nom rundskriv, som er orienteringer fra departementet til underliggende etater og institusjonene
-om hvordan regler og forskrifter skal forstås.
-Nesten årlig sendes det ut et oppdatert rundskriv
-om opptaksforskriften, og det finnes også et rundskriv om skikkethetsforskriften.12
-Kunnskapsdepartementet mottar mange henvendelser fra institusjoner og enkeltpersoner om
-hvordan loven skal tolkes i enkeltsaker. Svarene
-fra departementet inneholder tolkninger av
-enkeltbestemmelser i loven, og noen ganger tolkninger av forskriftene. Samlet gir disse brevene
-fra departementet uttrykk for gjeldende forvaltningspraksis. Forvaltningspraksis tillegges vekt
-som rettskilde når institusjonene bruker loven.
-Det finnes ingen samlet oversikt over departementets uttalelser som er tilgjengelig for dem som
-bruker loven.
-Klageavgjørelser i lokale og sentrale klagenemnder, og klageavgjørelser som treffes av
-departementet, er også en viktig del av forvaltningspraksis. Avgjørelser fra de sentrale klagenemndene er til en viss grad tilgjengeliggjort på
-internett.13 Det finnes ingen samlet oversikt over
-klageavgjørelser fra institusjonenes egne klagenemnder eller over departementets klageavgjørelser.
+Anmodningsvedtak innebærer at Stortinget ber om at regjeringen følger opp en sak, utreder tiltak eller kommer tilbake til Stortinget med en sak, for eksempel i form av en lovbestemmelse, utredning, plan eller lignende.
 
-9.3
+Anmodningsvedtak har bare virkning mellom Stortinget og regjeringen, og en tredjeperson kan ikke påberope seg anmodningsvedtak som rettslig grunnlag for en plikt eller rettighet.
 
-91
+Antall anmodningsvedtak har vokst kraftig, og siden årtusenskiftet er antallet mer enn fordoblet.
 
-Kapittel 9
+### Konstitusjonelt og parlamentarisk ansvar
 
-Utvalgets vurderinger
+Det generelle utgangspunktet er at regjeringen har det øverste ansvaret for forvaltningen, og at statsråden er konstitusjonelt og parlamentarisk ansvarlig for de sidene av driften ved en virksomhet som han eller hun kan styre. Overfor statlige universiteter og høyskoler kan statsråden ikke styre læreinnholdet i undervisningen, innholdet i forskningen eller i det faglige og kunstneriske utviklingsarbeidet. Statsråden kan heller ikke styre individuelle ansettelser og utnevnelser, jf. universitets- og høyskoleloven § 1-5.
 
-9.3.1 Innledning
-Utvalget har fått flere innspill om at regelverket
-for universiteter og høyskoler er uoversiktlig,
-fragmentert og vanskelig å finne frem i. Det fremgår også av utvalgets mandat at utvalget skal vurdere strukturen i regelverket og at utvalgets lovforslag «skal ha god struktur og være skrevet i et
-godt og klart språk slik at forslaget også forstås av
-de som ikke er jurister.» I tillegg er det kommet
-innspill om at det enkelte steder er et uklart forhold mellom lov og forskrift, mellom forskrifter og
-mellom rundskriv og forskrift. Norsk studentorganisasjon har spilt inn at det er viktig at lovverket er
-utformet slik at det er tilgjengelig for studentene.
-NOKUT skriver blant annet dette i et innspill til
-utvalget:14
-Behovet og potensialet for en rettsteknisk forenkling av regelverksstrukturen på universitets- og høyskolesektoren er etter vår oppfatning betydelig. Det bør blant annet foretas en
-fornyet vurdering og tydeliggjøring av hvilke
-type regler som skal reguleres på de ulike
-nivåene av lov- og forskriftshierarkiet, overlappende regulering i ulike forskrifter bør reduseres og en del av gjeldende forskrifter bør antakelig slås sammen, kortes ned eller avskaffes.
+Statsrådens konstitusjonelle ansvar er et rettslig straffeansvar for handlinger han eller hun foretar i egenskap av regjeringsmedlem eller departementssjef. Statsråden har det konstitusjonelle ansvaret for sitt departements ansvarsområde. Det konstitusjonelle ansvaret brukes i svært sjeldne og alvorlige tilfeller.[^66]
 
-11
+Det parlamentariske ansvaret er et politisk ansvar som ligger på den enkelte statsråd i henhold til Grunnloven § 15. Det innebærer at regjeringen eller den enkelte statsråd har plikt til å søke avskjed dersom den ikke lenger har Stortingets tillit ved at vedkommende får et mistillitsvotum mot seg. Spørsmålet om det foreligger mistillit, er en politisk vurdering. Det er ingen faste grenser for når et slikt ansvar kan gjøres gjeldende, utover hva flertallet på Stortinget mener er kritikkverdig. Hvis det blir vedtatt mistillit, vil den enkelte statsråd måtte gå av. Hvis hele regjeringen stiller seg bak den statsråden det handler om, vil hele regjeringen måtte gå av.
 
-Alle studenter som begynte på en utdanning da den eldste
-rammeplanen gjaldt, vil beholde en rett til å fullføre utdanningen sin under den samme rammeplanen frem til en
-«sluttdato». Dette kan gi lange overgangsperioder der to
-eller flere rammeplaner for «samme» utdanning gjelder
-samtidig. Når man beregner hvor lang overgangsperioden
-må være, må det legges inn ekstra tid. Den ekstra tiden
-skyldes at overgangsperioden må ta høyde for at studentene får barn, blir syke eller har avbrudd i studiene av
-andre årsaker. Hvis rammeplanen endres slik at utdanningsløp og innholdskrav avviker sterkt fra det som gjaldt
-tidligere, ønsker både myndigheter og utdanningsinstitusjoner at studentene fullfører under den rammeplanen de
-begynte under. Alternativet er at studentene må søke om
-innpassing og godskriving av tidligere gjennomførte emner
-for å kunne følge ny rammeplan. Hvis studenten ikke rekker å fullføre før den gamle rammeplanen opphører, må
-han eller hun ofte ta hele eller deler av studiet på nytt, fordi
-de «gamle» fagene ikke vil tilfredsstille kravene i de nye
-rammeplanene.
-12
-Henholdsvis rundskrivene F-03-18 (Kunnskapsdepartementet. Rundskriv F-03-18: Forskrift om opptak til høgre
-utdanning – endringar) og F-07-16 (Kunnskapsdepartementet. Rundskriv F-07-16: Forskrift om skikkethetsvurdering i
-høyere utdanning), jf. forskrift 30. juni 2006 nr. 859 om skikkethetsvurdering i høyere utdanning (skikkethetsforskriften) og forskrift 6. januar 2017 nr. 13 om opptak til høgre
-utdanning (opptaksforskriften).
-13
-Se eksempelvis Unit (Direktoratet for IKT og fellestjenester i høyere utdanning og forskning). Felles klagenemnd https://www.unit.no/tjenester/felles-klagenemnd
-hentet 7.1.2020.
+## Virkemidler
 
-Utvalget er enig i at rettskildebildet i og rundt universitets- og høyskoleloven er komplekst. Mengden av forskrifter, både sentrale og lokale, rammeplaner, rundskriv og tolkninger, gjør regelverket
-uoversiktlig og vanskelig tilgjengelig for mange av
-dem som skal bruke det.
+Statsrådens konstitusjonelle og parlamentariske ansvar er forbundet med statsrådens mulighet til å styre sektoren han eller hun er ansvarlig for. Hvis Stortinget gjennom lovgivning har gitt institusjonene selvråderett i enkelte spørsmål, vil ikke statsråden kunne bli ansvarlig for vedtak som institusjonene har fattet, og som ligger innenfor rammene av de områdene hvor institusjonene har selvråderett.
 
-9.3.2
+Styringsvirkemidlene kan deles inn i fem hovedtyper: regelverk, organisering, finansiering, styringsdialog og andre virkemidler.
 
-Ny struktur i universitets- og
-høyskoleloven
-Utvalget har vurdert flere mulige måter å strukturere bestemmelsene i loven på. Hensynet til brukervennlighet, det vil si at de som bruker loven,
-lett finner frem til de bestemmelsene som er relevante for dem, har stått sentralt. Utvalget foreslår
-å samle de bestemmelsene som tematisk hører
-sammen i ulike kapitler, på en tydeligere måte enn
-i dag. Utvalget mener forslaget viser tydeligere
-hvor de enkelte reglene kan finnes. Utvalget har
-vurdert å dele kapitlene inn i deler, noe som
-kunne gitt bedre oversikt, men har forkastet en
-14
+### Regelverk
 
-Se innspill fra NOKUT https://www.universitetsoghøyskolelovutvalget.no/innspill/mottatte-innspill/
+Universitets- og høyskoleloven legger overordnede rammer for institusjonenes virksomhet. Loven gjenspeiler intensjonen i Kvalitetsreformen om å gi institusjonene større ansvar for egen virksomhet og å gjøre departementets styring mer strategisk og overordnet. Dette bygger på en oppfatning om at institusjonene selv er best egnet til å styre egen virksomhet og også utviklingen av egen fagportefølje.
 
-[Side 94]
+Mer enn 200 forskrifter er hjemlet i loven, se trykt vedlegg 2. Disse forskriftene er fastsatt av departementet, av NOKUT eller av universitetene og høyskolene selv. De sentrale forskriftene omfatter blant annet forskrifter om felles rammeplan for helse- og sosialfagutdanninger, om skikkethetsvurdering, om krav til mastergrad, om opptak til høyere utdanning, om grader og yrkesutdanninger som kan gis av bestemte institusjoner, om kvalitet i høyere utdanning og om ansettelse og opprykk i undervisnings- og forskerstillinger.
 
-92
+Kvalitetsreformen la også rammene for kvalitetssikring av studieprogrammer. Institusjonenes autonomi ble sikret ved regler om at institusjonene selv kunne opprette studier på forskjellige nivåer etter institusjonskategori. Kvaliteten i studiene ble sikret gjennom blant annet NOKUTs akkrediteringsvedtak, og forskriftsregulerte krav til kvalitet ved opprettelse av studietilbud. Både studiekvalitetsforskriften[^67] og studietilsynsforskriften[^68] inneholder bestemmelser om institusjoners kvalitetsarbeid, om akkreditering av institusjoner og studietilbud, og om NOKUTs virksomhet.
 
-Kapittel 9
+Ved siden av systemet for kvalitetssikring av studietilbud og institusjoner som gjennomføres av NOKUT, regulerer Kunnskapsdepartementet i gradsforskriften hvilke institusjoner som kan gi enkelte utdanninger.[^69] Forskriften omfatter svært mange institusjoner og utdanninger. De viktigste er medisin, psykologi, master i rettsvitenskap, teologi og veterinær. Utdanningene som er regulert i gradsforskriften, omfattet 11 630 registrerte studenter i 2018. Dette utgjør 4,5 prosent av det totale antallet studenter. Andelen varierer mellom institusjonene. For Universitetet i Oslo, Universitetet i Bergen og Universitetet i Tromsø – Norges arktiske universitet utgjør andelen studenter innenfor disse utdanningene mellom 13 og 20 prosent av de registrerte studentene.[^70]
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+I tillegg er den statlige delen av universitets- og høyskolesektoren underlagt lover og regler som gjelder statlig virksomhet generelt, for eksempel statsansatteloven[^71]. Andre sentrale regelverk er blant annet reglementet for økonomistyring i staten (økonomiregelverket) og bestemmelser om økonomistyring i staten.[^72] Formålet med disse regelverkene er å sikre at statlige midler brukes effektivt og i tråd med Stortingets budsjettvedtak og forutsetninger for øvrig. Dessuten har Stortinget på enkelte områder innført sektorvis lovgivning som direkte berører deler av virksomheten, for eksempel forskningsetikkloven[^73].
 
-slik løsning. Etter utvalgets mening er kapittelinndelingen i lovforslaget såpass tydelig at en inndeling i kapitteldeler ikke er nødvendig.
-Kapitlene er samlet rundt følgende temaer:
-– institusjonenes formål og oppgaver
-– organisering og ledelse ved institusjonene
-– rettigheter og plikter for studentene
-– rettigheter og plikter for de ansatte
-– regler om klage og klagenemnder
-– registre og behandling av personopplysninger
-– akkreditering av institusjoner eller studietilbud
-og tilsyn
-Lovforslaget skiller i utgangspunktet ikke mellom
-private og statlige institusjoner, men der det er
-nødvendig er det opplyst om at reglene bare gjelder for enten private eller statlige institusjoner.
-Klarspråksprinsippene ligger til grunn for hele
-lovforslaget. Dette gjelder både inndelingen av
-kapitler, hvordan de enkelte bestemmelsene er
-utformet rent visuelt, og formuleringene i bestemmelsene. Når det gjelder visuell utforming av lovbestemmelsene, har utvalget for eksempel forsøkt, så langt det har latt seg gjøre, å bruke opplisting der det er naturlig, i stedet for «prosatekst». Å liste opp oppgaver eller vilkår i en lovbestemmelse gir bedre leservennlighet.
-Et styrende hensyn har vært å utforme innholdet i bestemmelsene tydeligere enn i dag, for å
-klargjøre plikter og rettigheter for dem som faller
-inn under loven. Et eksempel på dette er reglene
-om skikkethet, der noen av de sentrale bestemmelsene i dag står i skikkethetsforskriften. Utvalget foreslår å flytte noen av disse inn i loven, og
-samtidig rydde i lovbestemmelsen slik at plikter
-og rettigheter kommer klart frem. Et annet
-eksempel er den såkalte NOKUT-paragrafen i
-dagens § 2-1. Her har utvalget foreslått flere
-endringer, som etter utvalgets syn klargjør
-NOKUTs myndighet og formål og i hvilke oppgaver organet ikke kan instrueres.
-Utvalget har hatt som mål å utforme en lov som
-ikke er mer omfattende enn nødvendig, jf. mandatet. Likevel inneholder det nye lovforslaget noen
-flere bestemmelser enn dagens lov. Mange
-bestemmelser i dagens lov er etter utvalgets
-mening unødvendig lange, med mange og lange
-ledd. Det gjør dem vanskelige å finne frem i. Dette
-har noen steder ført til at utvalget har valgt å skille
-ut enkeltledd i egne bestemmelser. Dette kan medføre at loven blir lengre, men utvalget mener slike
-grep er nødvendige for å lette lesingen og forståelsen av loven. Utvalget foreslår også å fjerne
-bestemmelser som vi mener er unødvendige. For
+### Styringsdialogen
 
-eksempel foreslår utvalget å fjerne bestemmelsen i
-dagens § 2-1 sjette ledd, som gir NOKUT hjemmel
-til å gi utfyllende forskrift om de samme emnene
-departementet kan gi forskrift om.
+Styringsdialogen er en samlebetegnelse på dokumenter, rapporter, politiske signaler og møter av styringskarakter mellom departementet og de statlige universitetene og høyskolene. Et viktig element i styringsdialogen er etatsstyringen. Dette er aktiviteter av faglig og administrativ karakter som departementet gjennomfører for å påvirke og følge opp resultatene og oppgaveløsningen til institusjonene. Den formelle styringsdialogen kan deles i fire hovedaktiviteter: tildelingsbrev, årsrapport, etatsstyringsmøter og tilbakemeldingsrapport.
 
-9.3.3 Valg mellom lov og forskrift
-Lovfestede regler gir brukerne best oversikt over
-regelverket. Lovprosesser sikrer at viktige og
-prinsipielle spørsmål blir hørt av dem som bruker
-loven, og bestemmelsene blir drøftet av vårt øverste folkevalgte organ. Bestemmelser i lov gir sterkere rettigheter. Det er tidkrevende og omfattende å fremme og vedta et lovforslag i Stortinget.
-Lovendringsforslag må først utredes og deretter
-sendes på høring, og til slutt fremmes forslaget til
-behandling i Stortinget. Prosessen sikrer at forslaget får en demokratisk behandling, men innebærer at lovendringer tar lang tid.
-Forskriftsendringer er også underlagt krav om
-høring, og er dermed et tregere styringsmiddel
-enn for eksempel instrukser. Forskrifter kan derimot fastsettes eller endres relativt raskt sammenliknet med lov og bidrar til et fleksibelt system der
-det er mulig å tilpasse regelverket etter skiftende
-behov. Ved valg av lov eller forskrift må det gjøres
-en avveining i det enkelte tilfellet mellom hensynet til hvor inngripende rettsregelen er for den
-enkelte og hensynet til et fleksibelt og oversiktlig
-system.
-I valget mellom å plassere regler i lov eller forskrift er utgangspunktet at alle spørsmål som er
-av en slik karakter at Stortinget bør ta stilling til
-dem, bør reguleres i lov og ikke overlates til forskrift.15 Det er videre slik at jo mer inngripende
-eller omstridte tiltak som iverksettes, desto sterkere grunn er det til å kreve at Stortinget har tatt
-uttrykkelig stilling til iverksettelsen av det konkrete tiltaket. Rettssikkerhetshensyn tilsier også
-at grunnleggende saksbehandlingsregler tas inn i
-lov og ikke overlates til forskriftsregulering, og at
-rettigheter og plikter i størst mulig grad fremgår
-av loven. En fordel ved å plassere regler i lov er at
-det da er lettere for brukeren å skaffe seg tilgang
-til dem. Derimot kan veldig tekniske og detaljerte
-regler med fordel plasseres i forskrift, særlig dersom reglene retter seg mot en begrenset krets av
-personer.16
-Utvalgets vurdering er at det er viktig å
-beholde dagens ordning der universitets- og høy15
+Det overordnede prinsippet for departementets styring av universiteter og høyskoler er mål- og resultatstyring. Institusjonene skal selv følge dette prinsippet i styringen av virksomheten. Kunnskapsdepartementet har fastsatt fire overordnede sektormål for universitets- og høyskolesektoren.[^74] I tillegg har departementet fastsatt 14 nasjonale styringsparametere for områder som institusjonene skal følge opp spesielt. Departementet forventer at institusjonene setter sine egne virksomhetsmål, som viser hvordan den enkelte institusjon bidrar til å oppfylle sektormålene.
 
-16
+Departementet sender tildelingsbrev til universiteter og høyskoler etter Stortingets vedtak om statsbudsjettet. Tildelingsbrevet stiller bevilgningen til disposisjon for institusjonen. Det angir forutsetninger for bruken av pengene, inkludert sektormål og nasjonale styringsparametere, og fastsetter rapporteringskrav. I 2016 inngikk departementet utviklingsavtaler med noen av institusjonene, og fra 2019 er det inngått utviklingsavtaler mellom departementet og samtlige statlige universiteter og høyskoler. Disse er tatt inn som del av tildelingsbrevene. Utviklingsavtalene skal bidra til institusjoner med tydeligere særpreg og bedre arbeidsdeling i sektoren.
 
-Justis- og beredskapsdepartementet. Lovteknikk og lovforberedelse. Veiledning om lov- og forskriftsarbeid s. 23. Utarbeidet av Justisdepartementets lovavdeling, 2000.
-Justisdepartementets lovavdeling (2000) s. 23–24.
+I årsrapporten rapporterer institusjonene oppnådde resultater for foregående år og beskriver planer for inneværende år.
 
-[Side 95]
+Etatsstyringsmøtene avholdes mellom departementet og styrene ved institusjonene. De gjennomføres i første halvår, og i utgangspunktet er det etatsstyringsmøte annet hvert år for hver enkelt institusjon. Møtene handler i stor grad om hvilke mål og ambisjoner den enkelte institusjon har satt seg, og hvordan disse målene bidrar til at sektoren samlet når sine overordnede mål. Departementet gir en tilbakemelding til institusjonene om blant annet ambisjoner, resultater, måloppnåelse, strategiske prioriteringer og utfordringer. Også de institusjonene som ikke har hatt etatsstyringsmøte får en tilbakemelding, basert på departementets vurdering av årsrapport, rapportering og andre strategiske dokumenter.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+I tillegg er det utstrakt kontakt og dialog mellom departementet og institusjonene på mange ulike arenaer, for eksempel i møter om konkrete temaer. Eksempler på temaer kan være bruken av midlertidige ansettelser i universitets- og høyskolesektoren, arbeidet med å bekjempe seksuell trakassering, hvordan departementet og institusjonene kan måle effekter av sammenslåinger, eller planer for investeringer i bygg. Initiativene til slike møter kan komme fra både departementet og institusjonene, eventuelt andre, som for eksempel arbeidstaker- eller interesseorganisasjoner.
 
-skoleloven er en rammelov. En rammelov bidrar
-til å sikre at myndighet til å fastsette regler ligger
-på det nivået der kunnskapen om hva reglene faktisk skal regulere, er størst. At mange regelsett
-fastsettes på institusjonen, gir institusjonene mer
-autonomi enn om reglene blir fastsatt i departementet eller av Stortinget. I tillegg sikrer en
-rammelov et mer fleksibelt regelverk.
+Meld. St. 16 (2016–2017) *Kultur for kvalitet i høyere utdanning*[^75] viser til at etatsstyringsmøtene etter hvert har utviklet seg til å være en langsiktig strategidiskusjon mellom Kunnskapsdepartementet og den enkelte institusjon. Dialogen er konsentrert om institusjonens langsiktige strategiske mål, satsinger, profil og utfordringer. Institusjonens deltakelse i møtene er også endret. Tidligere var den administrative ledelsen sterkt representert sammen med rektor, mens det nå er en klar overvekt av styremedlemmer, både de valgte og de som er oppnevnt av departementet. Dialogen i møtene gjenspeiles også i departementets tilbakemeldinger etter møtene og i institusjonenes årsplaner. Tildelingsbrevene har i samme periode fått færre detaljerte føringer og blitt mer overordnede.
 
-9.3.4 Forskriftshjemler
-Utvalget har fått innspill om at det høye antallet
-forskriftshjemler i universitets- og høyskoleloven,
-med den påfølgende omfattende forskriftsfestingen, kan innebære et rettssikkerhetsproblem og
-et demokratisk problem. Grunnen er at det gir forvaltningen svært vide rammer til å fastsette regler
-som er bestemmende for rettighetene og pliktene
-til en stor krets mennesker, uten at Stortinget har
-tatt stilling til reglene. I tillegg er det et rettssikkerhetsproblem når det høye antallet forskrifter gjør det svært krevende for borgere å finne
-frem til reglene og forstå hva som er deres rettigheter.
-Utvalget er enig i at utstrakt bruk av delegering av myndighet til å fastsette forskrifter forskyver maktbalansen fra lovgiveren til den utøvende makt. Utvalget mener likevel det er mange
-gode grunner for å delegere forskriftsmyndighet
-innenfor høyere utdanning, jf. omtale i punkt 9.3.3
-om valg mellom lov og forskrift.
-Utvalget har også fått innspill fra Universitetet
-i Sørøst-Norge på innspillsmøte 2. april 2019 om at
-man bør vurdere å samle alle bestemmelsene som
-gir forskriftsfullmakt i én lovbestemmelse. Justisdepartementets lovavdeling har uttalt følgende:17
-Ved utforming av lovbestemmelser som gir
-hjemmel til å gi forskrifter, må det legges vekt
-på å få klart frem hva hjemmelen skal omfatte.
-Det bør for det første fremgå hvilket saklig
-område forskriftshjemmelen gjelder for.
-Utvalget mener det vil bli mer uklart hva forskriftshjemmelen skal omfatte om alle forskriftshjemler
-samles i én lovbestemmelse. Når hjemmelen er
-koblet sammen med området bestemmelsen gjelder for, vil også det saklige området forskriftshjemmelen gjelder for, komme tydeligere frem.
-Utvalget anbefaler at det gjøres en gjennomgang av alle forskriftshjemlene for å vurdere
-hvilke av hjemlene det er behov for og ikke.
-17
+### Budsjett og finansiering
 
-Justisdepartementets lovavdeling (2000) s. 105.
+Universiteter og høyskoler får en rammebevilgning over statsbudsjettet. Den omfatter både langsiktige og strategiske midler, som er fastsatt på bakgrunn av særskilte prioriteringer over tid for de ulike institusjonene, og den resultatbaserte uttellingen for utdannings- og forskningsresultater.[^76] Styret ved den enkelte institusjon har ansvar for å forvalte den samlede rammebevilgningen best mulig og gjøre nødvendige prioriteringer. Rammefinansieringen gir institusjonene handlingsrom ved at institusjonene selv har ansvar for å prioritere aktiviteter og områder de vil satse på for å medvirke til å nå sektormålene og egne virksomhetsmål.
 
-93
+I utgangspunktet er statlige forvaltningsorganer bruttobudsjettert. Det innebærer at Stortinget fastsetter virksomhetenes utgifter og inntekter. Bruttobudsjetterte virksomheter kan normalt overføre inntil fem prosent av driftspostene på budsjettet til neste budsjettermin. For statlige universiteter og høyskoler er det gjort unntak fra hovedprinsippene for statsbudsjettet ved at de er nettobudsjetterte. Det innebærer at Stortinget ikke treffer separate vedtak om rammene for inntektene og de utgiftene som inntektene finansierer. Institusjonenes inntekter og utgifter fremgår i stedet som vedlegg til statsbudsjettet og statsregnskapet.
 
-Kapittel 9
+Nettobudsjettering innebærer også unntak fra ettårsprinsippet, kontantprinsippet og prinsippet om realistisk budsjettering ved at det gir adgang til ubegrenset overføring av ubrukte bevilgninger og eksterne inntekter.
 
-9.3.5 Sentrale eller lokale forskrifter?
-Både departementet, NOKUT, styret ved institusjonene og avdelinger ved institusjonene har i dag
-myndighet til å fastsette forskrifter. Selv om de
-ulike instansene har forskriftsmyndighet på ulike
-områder, kan bestemmelser i noen tilfeller overlappe eller komme i konflikt med hverandre. Det
-er lite trolig at de ulike nivåene koordinerer seg
-imellom når de fastsetter forskrifter.
-Utvalget mener en av årsakene til at regelverket er blitt komplekst og fragmentert, er at forskriftsmyndighet er blitt delegert nedover til flere
-ulike nivåer. Årsaken til at mer detaljerte regler
-fastsettes på lokalt nivå er blant annet at de skal
-kunne tilpasses behovene ved den enkelte institusjon.
-Mandatet for utvalgets arbeid har blant annet
-vært å utforme forslag til et mer oversiktlig lov- og
-forskriftsverk. Utvalget mener det i regelverksutviklingen må være et mål at forskrifter som
-regulerer de samme spørsmålene på ulike institusjoner, blir mer like. Dette vil bidra til en mer helhetlig tolkning og praksis ute på institusjonene.
-I dag finnes det svært mange lokale forskrifter
-fastsatt av institusjonene. For disse forskriftene ser
-utvalget et behov for å gjøre en helhetlig gjennomgang, og vurdere om noen av bestemmelsene kan
-fastsettes sentralt av departementet i stedet for
-lokalt på institusjonen. Dette gjelder for eksempel
-regler om opptak, grader, og vurdering og eksamen. På disse områdene mener utvalget at hensynet til nasjonal likhet og forutsigbarhet for studentene kan tale for nasjonal regulering. Dersom det
-finnes en rekke ulike lokale forskrifter, kan det øke
-risikoen for et regelverkssystem der det er vanskelig for studenter og ansatte å finne frem til hva som
-gjelder ved det enkelte studiestedet. At de lokale
-forskriftene også ofte har ulike navn, selv om de
-regulerer samme type forhold, bidrar også til at det
-er vanskelig å finne frem i regelverket.
-Med nasjonale regler vil det ha mindre betydning hvilket universitet eller høyskole en student
-velger å gå på, med hensyn til hvilke rettigheter
-studenten har, eksempelvis til å ta eksamen på
-nytt. I tillegg kan flere nasjonale regler bidra til å
-lette studentmobiliteten og føre til at det blir
-lavere terskel for å bytte fra en utdanningsinstitusjon til en annen.
-Et hensyn mot slik sentralisering av regelverk
-er at institusjonene fratas noe av sin autonomi og
-frihet til selv å regulere forhold ved egen institusjon.
-Utvalget påpeker at selv om forskriftsmyndighet flyttes fra institusjonene til departementet på
+Videre er det slik at basisbevilgningen til institusjonene bevilges over én post i budsjettet og inkluderer driftsutgifter, investeringer og overføringer til andre. Dette representer et unntak fra prinsippet om artsinndeling av statsbudsjettet.
+
+Muligheten til å overføre penger fra ett år til et annet gir handlingsrom til å foreta prioriteringer og omdisponeringer, men styrene har også ansvar for at bevilgede midler brukes til formålet. Det er viktig at institusjonene har planer for disponeringen av ubrukte midler, såkalte avsetninger. Riksrevisjonens undersøkelse av ubrukte budsjettmidler i universitets- og høyskolesektoren viser blant annet til at manglende planer får konsekvenser for styrenes oppfølging av virksomhetenes totale økonomiske ressurser. Videre viser undersøkelsen at institusjonenes ufullstendige planer for disponering av ubrukte midler reduserer virksomhetenes muligheter til å forvalte de ubrukte budsjettmidlene i tråd med universitets- og høyskoleloven og økonomireglementet.[^77]
+
+Stortinget bevilger normalt større investeringer i bygg og utstyr, og har på den måten kontroll over større investeringer i sektoren. Universiteter og høyskoler kan ikke ta opp lån.
+
+I internasjonal målestokk mottar norske universiteter og høyskoler en høy andel av inntektene i form av direkte statlige bevilgninger.[^78] Som et ledd i Kvalitetsreformen fikk universiteter og høyskoler i 2002 et delvis resultatbasert finansieringssystem. Innføringen av nytt finansieringssystem var en del av en internasjonal trend der flere land gikk bort fra innsatsbasert finansiering, for eksempel basert på antall studieplasser eller ansatte, og over til finansiering som i større grad er basert på resultater. I 2014 nedsatte Kunnskapsdepartementet en ekspertgruppe som vurderte finansieringssystemet. Ekspertgruppen la frem sine vurderinger og forslag i rapporten *Finansiering for kvalitet, mangfold og samspill. Nytt finansieringssystem for universiteter og høyskoler* i 2015.[^79]
+
+Selv om systemet er evaluert og justert flere ganger, senest med budsjettvirkning fra og med 2017, består grunntrekkene: Institusjonene mottar én samlet ramme fra staten, og denne disponerer de fritt i tråd med formålet med virksomheten. Denne rammen, eller grunnbevilgningen, er delt i en basisdel og en resultatbasert del. I gjennomsnitt utgjør basisdelen om lag 70 prosent av grunnbevilgningen og resultatdelen om lag 30 prosent, men fordelingen kan variere noe mellom institusjonene. I resultatdelen er finansieringen basert på åtte indikatorer for utdanning, forskning og samspill med omverdenen. Indikatorene med åpen budsjettramme er:[^80]
+
+- avlagte studiepoeng
+
+- antall utvekslingsstudenter, inkludert studenter under Erasmus+-ordningen
+
+- antall ferdigutdannede kandidater
+
+- antall doktorgradskandidater
+
+Indikatorene med lukket budsjettramme er
+
+- midler fra EU
+
+- midler fra Norges forskningsråd og regionale forskningsfond
+
+- inntekter fra bidrags- og oppdragsaktiviteter (BOA-indikatoren)
+
+- vitenskapelig publisering (publiseringspoeng)
+
+For indikatorene med åpen budsjettramme er det en fast sats som gir uttelling uavhengig av andre institusjoner. For indikatorene med lukket budsjettramme konkurrerer institusjonene om midler innenfor en fastsatt ramme. Hver enkelt institusjons uttelling er derfor avhengig av det samlede resultatet for sektoren. Finansieringssystemet før og etter endringene med budsjettvirkning fra og med 2017 er beskrevet i et eget kapittel i Prop. 1 S (2015–2016).[^81]
+
+Formålet med systemet er å oppfordre til resultatforbedring og å gi insentiver for at sektoren når de målene departementet har satt. Fra og med 2006 er finansieringssystemet felles for statlige og private universiteter og høyskoler. Deler av bevilgningen er likevel øremerket bestemte formål. Det gjelder for eksempel rekrutteringsstillinger. Departementet forventer at institusjonene ansetter i alle rekrutteringsstillingene de har fått øremerket bevilgning til. Det får likevel normalt ikke konsekvenser, for eksempel i form av omfordeling av midler, dersom en institusjon ikke klarer å ansette i alle rekrutteringsstillingene.
+
+Ulike utdanninger er fordelt på seks kategorier, som har hver sine satser. Satsene skal ikke nødvendigvis dekke de faktiske kostnadene ved en studieplass, men er en måte å beregne finansieringen av studieplasser. Når institusjonene får nye studieplasser, forventer departementet en tilsvarende økning i antall avlagte studiepoeng påfølgende år.
+
+I tillegg setter departementet mål for antall uteksaminerte kandidater fra bestemte helse- og sosialfaglige utdanninger og lærerutdanninger. Dette er utdanninger der det er særlig viktig at sektoren utdanner nok kandidater til å møte behovene i samfunnet.
+
+Finansieringssystemet gir uttelling for resultater som anses som særskilt viktige i et nasjonalt perspektiv. Det gir også institusjonene et handlingsrom ved at de selv kan prioritere aktiviteter og områder de vil satse på for å nå sektor- og virksomhetsmål. Det er opp til institusjonene å vurdere i hvilken grad den interne budsjettfordelingen skal knyttes opp til de nasjonale insentivene, og om det er behov for at institusjonene selv fastsetter insentiver for å støtte egne strategier.
+
+Et finansieringssystem basert på kvantitative indikatorer kan ikke dekke alle sider av virksomhetene. Deler av oppgavene til universiteter og høyskoler lar seg ikke enkelt måle eller telle, for eksempel utvikling av kvalitet i forskning, faglig og kunstnerisk utviklingsarbeid, utdanning og formidlings- og kunnskapsoverføring. Det var noe av bakgrunnen for at ekspertgruppen, som i 2015 la frem forslag til justeringer av systemet, foreslo å innføre utviklingsavtaler med finansiering knyttet til mer kvalitative vurderinger av måloppnåelse.
+
+Felles krav til struktur og finansiering fører til større organisasjonsmessig likhet, men ikke nødvendigvis likere faglig tilbud. Institusjonene kan ha behov for å ha ulike tilbud for å konkurrere med de andre institusjonene.
+
+### Bygg og eiendom
+
+Bygg og eiendom er viktige rammebetingelser for institusjonene. Kunnskapsdepartementet har delegert fullmakter til universiteter og høyskoler til blant annet å avhende fast eiendom i henhold til avhendingsinstruksen og bruke salgsinntekter til kjøp, vedlikehold eller bygging av lokaler til undervisnings- og forskningsformål. Departementet har også gitt fullmakt til å inngå leieavtaler utover budsjettåret i henhold til instruks om håndtering av bygge- og leiesaker i statlig, sivil sektor.
+
+Hvis en institusjon ønsker et nytt bygg, vil den ofte ikke ha økonomi til å betale for det innenfor de eksisterende rammene. Nye bygg forutsetter derfor ofte politiske prioriteringer og særskilte bevilgninger over statsbudsjettet. I dag er det ulike forvaltningsmodeller med ulike finansieringskilder for utvikling av bygg. Denne ordningen er i stor grad historisk betinget og et resultat av politiske prioriteringer. Tre fjerdedeler av institusjonenes bygningsmasse eies av staten, og én fjerdedel leies i det private markedet på kommersielle vilkår. Av arealet eid av staten forvalter institusjonene to tredjedeler, såkalt selvforvaltet areal, og Statsbygg forvalter én tredjedel. Leide lokaler forvaltes av utleieren. Etter Strukturreformen har de fleste institusjonene arealer i alle forvaltningskategoriene.
+
+Selvforvaltet areal innebærer at institusjonene har ansvar for å forvalte, drifte og vedlikeholde arealet selv. Seks institusjoner, Universitetet i Oslo, Universitetet i Tromsø – Norges arktiske universitet, Universitetet i Bergen, Norges teknisk-naturvitenskapelige universitet, Norges miljø- og biovitenskapelige universitet og Norges idrettshøgskole omtales som selvforvaltende institusjoner fordi de har en overvekt av selvforvaltet areal.
+
+Bygg forvaltet av Statsbygg inngår i statens husleieordning, en internstatlig ordning der institusjonene betaler kostnadsdekkende husleie. Husleien dekker forvaltning, drift og verdibevarende vedlikehold, avskrivninger og en fastsatt avkastning på investert kapital. Avskrivninger og renter av investeringsbeløpet tilbakeføres til statskassen.
+
+Siden 2015 har Kunnskapsdepartementet bedt alle statlige universiteter og høyskoler om å lage egne campusutviklingsplaner som skal danne grunnlag for styrenes prioriteringer av byggeprosjekter. Behovsvurderingene skal gjøres på grunnlag av gjeldende instrukser, i hovedsak utredningsinstruksen og instruks om håndtering av bygge- og leiesaker i statlig, sivil sektor.
+
+Institusjonene kan ikke ta opp lån. Dette er en direkte konsekvens av myndighetenes behov for styring og kontroll av statlige virksomheter. Finansieringskostnaden er generelt sett høyere ved lån enn ved bruk av egenkapital, noe som gjør det økonomisk irrasjonelt for staten å låne i markedet. Videre vil låneadgang flytte investeringer i universitets- og høyskolesektoren ut av prioriteringene i de årlige budsjettprosessene, og svekke regjeringens og Stortingets samlede styring av statlige investeringer.
+
+Regjeringen har fått gjennomført en områdegjennomgang av bygge- og eiendomspolitikken i statlig, sivil sektor, og i denne ble det blant annet foreslått at selvforvaltet areal i universitets- og høyskolesektoren blir overført til Statsbygg.[^82] Regjeringen vil vurdere hvordan gjennomgangen bør følges opp.
+
+### Andre styringsvirkemidler
+
+Departementet gjennomfører også aktiviteter som er uten et formelt og tydelig styringspreg, men som likevel kan påvirke utviklingen ved universitetene og høyskolene. Veiledning om regelverk, fremvisning av gode eksempler på kvalitetsutvikling og seminarer om økonomiforvaltning er noen slike aktiviteter, som i praksis er styringsvirkemidler. Departementet får i tillegg utarbeidet årlige tilstandsrapporter for høyere utdanning, som også har en slik funksjon, ved at de synliggjør institusjonenes resultater gjennom de ulike indikatorene departementet bruker.[^83] Mange andre lager også statistikk og analyse som viser resultater, utfordringer og muligheter, og også disse kan ses som styringsvirkemidler.
+
+## Samordning
+
+Det er mekanismer for nasjonal samordning på mange områder i universitets- og høyskolesektoren. Et eksempel på dette er Nasjonalt kvalifikasjonsrammeverk for livslang læring, som har læringsutbyttebeskrivelser som angir hva kandidatene på ulike nivåer i høyere utdanning som et minimum skal kunne etter å ha bestått eksamen.[^84]
+
+Finansiering gjennom Norges forskningsråd og Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku) kan også bidra til samordning ved at institusjoner samarbeider om søknader og lærer av erfaringer. For eksempel skal Norges forskningsråds *Norsk veikart for forskningsinfrastruktur* blant annet sørge for at investeringene skjer i prosjekter som er nasjonalt viktige. De aller fleste infrastrukturene etableres som et samarbeid mellom flere forskningsinstitusjoner, og de inngår i mange tilfeller også i større internasjonale nettverk.
+
+Departementet har sett behov for ytterligere nasjonale samordningsinitiativer, og Meld. St. 25 (2016–2017) *Humaniora i Norge* beskriver såkalte rektormøter.[^85] Dette er en ny type forum der politisk ledelse i departementet og ledelsen ved universiteter og høyskoler kan ha en strategisk diskusjon om utviklingen av sektoren på områder der det er behov for bedre koordinering. Koordineringsbehovet skyldes at uavhengige prioriteringer hos 21 institusjoner med høy grad av autonomi i sum ikke alltid er optimale for det nasjonale behovet. Dette kan for eksempel gjelde beslutninger om oppbygging eller nedlegging av studietilbud ved den enkelte institusjon, eller beslutninger om prioriteringer i forskningen. Det er også etablert samarbeidsforum mellom universiteter med medisinutdanning og helseforetak.
+
+Universitets- og høgskolerådet er en interesseorganisasjon der universiteter og høyskoler er medlemmer. Universitets- og høgskolerådet har mange organer med samordnende funksjoner, for eksempel de åtte fagstrategiske organene og andre fellesstrategiske enheter. Medlemmene er hovedsakelig ledere ved faglige enheter på det aktuelle området. Dette er imidlertid ikke beslutningsorganer med myndighet til å fatte og gjennomføre vedtak, og de skiller seg dermed fra de overnevnte samordningstiltakene. I tillegg er det konkurranse om blant annet studenter mellom medlemmene, noe som kan svekke samordning på flere områder. Universitets- og høgskolerådet har heller ikke mulighet til å instruere sine medlemmer som gjør at samordning er basert på frivillig tilslutning til vedtak.
+
+## Dimensjonering av høyere utdanning
+
+Universiteter og høyskoler har en viktig oppgave i å tilby grunnutdanninger som er relevante for arbeids- og samfunnslivets nåværende og fremtidige behov. Det er også økende oppmerksomhet om behovet for etter- og videreutdanninger. Den samlede studieporteføljen blant norske universiteter og høyskoler må til enhver tid ha utdanninger som er relevante og av god kvalitet.
+
+Regjeringen har nedsatt en arbeidsgruppe med representanter fra Kunnskapsdepartementet, Kommunal- og moderniseringsdepartementet, Nærings- og fiskeridepartementet, Helse- og omsorgsdepartementet og Finansdepartementet som skal vurdere systemet for dimensjonering av høyere utdanning. Kunnskapsdepartementet har gitt Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) i oppdrag å undersøke hvordan dimensjoneringen av studietilbudet foregår ved universiteter og høyskoler, slik at arbeidsgruppen får et bedre grunnlag for sine vurderinger. NIFU-rapport 2019:15 *Styrt eller søkerstyrt? En undersøkelse av hvordan universiteter og høyskoler dimensjonerer sine studietilbud* viser blant annet at institusjonene i større grad forsøker å styre tilbudet av studieplasser, men at både såkalt overbooking og varierende grad av oppmøte fra studenter kompliserer dette.[^86]
+
+Institusjonene har ansvar for å dimensjonere sine studietilbud innenfor gjeldende rammebevilgninger, i dialog med arbeidsliv og berørte parter. Statsråden og regjeringen har imidlertid ansvar for at det samlede utdanningstilbudet møter samfunnets behov. Vanlige føringer fra departementet som påvirker institusjonenes dimensjonering av høyere utdanning, er øremerking av tildelinger til fagområder eller institusjoner og fastsetting av kandidatmåltall. Føringer presiseres også i styringsdialogen, i utviklingsavtaler og i overordnede faglige og politiske prioriteringer.
+
+I tillegg har gradsforskriften bestemmelser om hvilke institusjoner som kan tilby bestemte utdanninger, blant annet jus, medisin, teologi, psykologi og veterinær. Forskriften begrenser dimensjoneringen for de regulerte utdanningene ved at de bare kan tilbys ved bestemte institusjoner. I disse tilfellene er det institusjonene som faller inn under forskriften, som har ansvaret for å utdanne nok kandidater innenfor de regulerte utdanningene.
+
+## Øremerking av bevilgninger
+
+Når Stortinget bevilger midler til nye studieplasser, kan det legges føringer for hvor disse tildeles. I perioden 2006 til 2018 ble det tildelt midler til studieplasser slik at årlig opptak er økt med 12 236 plasser. Midlene ble tildelt 27 statlige og private institusjoner. Av dette er 3075 såkalte strategiske studieplasser, som institusjonene kan disponere til det formålet de ønsker. Dette vil si studieplasser som institusjonene selv kan benytte i tråd med behov som er i regionen, og som tar hensyn til institusjonens profil, tilgangen på kvalifiserte søkere og behovet i arbeidslivet. Resten av studieplasstildelingene er øremerket konkrete fagområder som blant annet helse, realfag og teknologiske fag, lærerutdanning, musikk og jus. Det er ulik grad av føringer på slike tildelinger. Noen plasser er øremerket konkrete studieprogrammer, mens for andre, for eksempel studieplasser i IKT, er det opp til institusjonene selv å fordele plassene på ulike studieprogrammer de tilbyr på det aktuelle fagområdet. På denne måten styrer myndighetene hvilke fagretninger som skal styrkes gjennom økt kapasitet i utdanningene.
+
+## Kandidatmål
+
+Kandidatmåltall er et minstekrav til antall kandidater, altså antall studenter som uteksamineres, fra enkelte studieprogrammer. Kunnskapsdepartementet setter kandidatmål for helse- og lærerutdanningene, men ingen andre studier. Dette er utdanninger der det er særlig viktig at universitetene og høyskolene når målene for å møte behov i samfunnet. I den årlige orienteringen om forslag til statsbudsjett for universiteter og høyskoler («Blått hefte»), spesifiseres kandidatmåltallene for hver enkelt institusjon.[^87] Kandidatmåltallet spesifiserer både antall, type utdanning innenfor lærer- og helsefag, og minstekrav til antallet. Kandidatmåltallene er en form for styrt dimensjonering som legger føringer på institusjonenes prioriteringer.
+
+## Styring og ledelse ved institusjonene
+
+Universitets- og høyskoleloven slår fast at styret er det øverste organet ved institusjonen. Styret har det overordnede ansvaret for at virksomheten holder høy kvalitet og utføres i tråd med regelverket, og med rammer og mål trukket opp av overordnet myndighet. Styret skal utforme strategier, legge planer, fastsette mål- og resultatkrav for virksomheten og bruke institusjonens samlede ressurser effektivt. Eksterne styremedlemmer oppnevnes av Kunnskapsdepartementet. Loven slår videre fast at styret selv fastsetter virksomhetens interne organisering på alle nivåer.
+
+Det at universiteter og høyskoler har egne styrer, faglig frihet og omfattende fullmakter, fratar ikke statsråden ansvaret for den samlede strukturen og overordnede styringen av sektoren. Regjeringen og statsråden har et overordnet ansvar for høyere utdanning og forskning innenfor de rammene Stortinget har satt, og har derfor behov for å kunne påvirke utviklingen i sektoren og for å ivareta hensyn til helheten i utdanningssystemet. Universitets- og høyskolelovens bestemmelser om institusjonenes faglige fullmakter avskjærer styring ved instruks på dette området, mens lovens bestemmelser om institusjonenes ansvar og oppgaver gir et klart signal om at statsråden forventes å innta en tilbaketrukket styringsposisjon, og at institusjonene selv er best egnet til å vurdere og fatte beslutninger om utviklingen av egen virksomhet.
+
+Med tanke på institusjonenes viktige samfunnsoppdrag og forventningene til universitets- og høyskolesektoren, er det avgjørende at institusjonene ledes godt. Universitets- og høyskoleloven fra 2005 sidestilte disse to ledelsesmodellene:
+
+- valgt rektor og ansatt direktør, der rektoren også er styreleder, og der direktøren er øverste administrative leder og styrets sekretær
+
+- ekstern styreleder utpekt av Kunnskapsdepartementet, og ansatt rektor som er øverste faglige og administrative leder og også styrets sekretær
+
+I Meld. St. 18 (2014–2015) *Konsentrasjon for kvalitet – Strukturreform i universitets- og høyskolesektoren* (Strukturmeldingen) gikk regjeringen inn for å gjøre ansatt rektor og ekstern styreleder til lovens hovedmodell. Dette ble fulgt opp med lovendring i 2015, jf. Prop. 41 L (2015–2016).[^88] Men loven gir fortsatt åpning for at institusjoner som selv ønsker det, kan velge rektor. For at en institusjon skal skifte til hovedmodellen, kreves det nå alminnelig flertall i styret.
+
+Over tid har en stadig større del av institusjonene gått over til ansatt rektor. Medregnet Universitetet i Stavanger, som gikk over til ansatt rektor i 2019, har nå ti av 21 institusjoner besluttet å ha denne modellen.
+
+## Utvalgets vurderinger
+
+### Styringen samlet sett
+
+Universiteter og høyskoler har og må ha autonomi og omfattende frihet, jf. punkt 15.3. Samtidig er det samlet sett behov for å styre sektoren for at målene nås og samfunnets behov dekkes. Siden statlige universiteter og høyskoler er forvaltningsorganer, har departementet plikt til å fastsette overordnede mål og styringsparametere for dem, jf. økonomiregelverket §§ 4 og 7. Selv om økonomiregelverket og styringsmodellen i utgangspunktet gir institusjonene stort ansvar for egen virksomhet, medfører for eksempel budsjettprioriteringer med resultatbevilgninger, bestemmelser om studentenes rettigheter og plikter, øremerkinger av tildelinger, rammeplaner og vilkår for akkreditering at det samlet sett er omfattende styring av universitets- og høyskolesektoren. Det følger for eksempel i dag av universitets- og høyskoleloven § 9-2 fjerde ledd at styret fastsetter den interne organiseringen på alle nivåer. Dette innebærer likevel ikke at statsrådens instruksjonsmyndighet juridisk sett er avskåret, jf. over. Samtidig har loven enkelte bestemmelser som angår organiseringen, for eksempel at alle studenter skal ha tilgang til et studentombud, og at det ved institusjonene skal være et læringsmiljøutvalg, jf. §§ 4-17 første ledd og 4-3 tredje ledd.
+
+I behandlingen av statsbudsjettet kan både Stortinget og departementet øremerke midler til blant annet studieplasser og bestemme både på hvilke utdanninger de skal opprettes og hvor de geografisk skal lokaliseres. Gradsforskriften fastsetter hvilke universiteter som kan tildele gradene som er regulert i forskriften, blant annet medisin, teologi, psykologi, fireårig lærerutdanning og master i rettsvitenskap. Andre institusjoner som ønsker å satse på utdanningene som er regulert i forskriften, kan ikke gjøre det uten at forskriften endres.
+
+Videre vil prioriteringer og aktiviteter fra både NOKUT, Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning (Diku) og Unit – Direktoratet for IKT og fellestjenester i høyere utdanning og forskning, Norges forskningsråd og andre påvirke universitetene og høyskolene, og følgelig ha en styringseffekt.
+
+Utvalget mener at sentrale myndigheters samlede styring av universitets- og høyskolesektoren i dag er omfattende, og at dette på lang sikt kan virke negativt inn på universiteter og høyskolers rom til å utvikle virksomheten. En konsekvens av at alle institusjoner møtes med like krav, like samfunnsoppdrag, likt regelverk og likt finansieringssystem, er at det er blitt mindre forskjell mellom institusjonene.
+
+Utvalget anbefaler derfor at den samlede styringen blir noe mindre enn i dag. Institusjonene har etter Kvalitetsreformen og den styrkede autonomien som fulgte med denne, selv tatt større ansvar, både for måloppnåelsen samlet sett og for drift av virksomhetene. For å dekke nasjonale behov og sørge for sektorens samlede samfunnsoppdrag, vil dette forutsette større grad av samordning og arbeidsdeling mellom institusjonene. Utvalget ser positivt på den utviklingen som skjer i sektoren i regi av blant andre Universitets- og høgskolerådet. Vi mener at et slikt nettverk kan bidra godt til samordning.
+
+For å sikre at styringen av institusjonene er transparent, foreslår utvalget at pålegg og instrukser må gis skriftlig, jf. forslaget til § 3-1. Vi foreslår også å presisere at styremedlemmer skal opptre uavhengig, for å klargjøre at departementet eventuelt må instruere institusjonen gjennom styret som kollegialt organ.
+
+For øvrig viser utvalget til at departementet vil gjennomgå styringspolitikken for statlige universiteter og høyskoler. Vi anbefaler at departementet i denne gjennomgangen også vurderer departementets styringsaktiviteter overfor private høyskoler. Utvalget mener det er svært viktig at departementets gjennomgang av styringspolitikken gjøres i tett sammenheng med oppfølgingen av forslaget til ny universitets- og høyskolelov.
+
+### Gradsforskriften
+
+#### Gjeldende rett
+
+Forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler (gradsforskriften) er fastsatt av Kunnskapsdepartementet.[^89] Forskriften regulerer hvilke grader og yrkesutdanninger som kan tildeles av ulike universiteter og høyskoler, hvilke institusjoner som kan gi særlige utdanninger som gir rett til beskyttet tittel, og normert studietid for utdanningene. Gradsforskriften regulerer ikke kvaliteten i utdanningene den omfatter.
+
+Hensynet bak gradsforskriften er myndighetenes behov for en overordnet nasjonal styring med tilbudet av ulike utdanninger i ulike deler av landet.
+
+#### Utvalgets vurderinger
+
+Et av de politiske målene bak Kvalitetsreformen var å gjøre institusjonene til robuste enheter med evne til å utvikle og styre egen virksomhet. Utvalget mener at større og mer likeverdige institusjoner vil bidra til at det er lettere å utvikle strategier som på nasjonalt nivå gir nødvendig arbeidsdeling. Mer autonomi og større institusjoner ville styrke institusjonenes evne til å ivareta kvaliteten i studietilbudene, men kvaliteten skulle også sikres gjennom sentrale forskrifter og tilsyn fra NOKUT. Dette ville også styrke institusjonenes evne til god regional tilgang på kompetanse.
+
+Utvalgets flertall, bestående av *medlemmene Dahl Andersen, Bergstrøm, Jørgensen, Hessen, Riekeles, Steinveg og Søvig* mener at gradsforskriften bidrar til en nasjonal styring av sentrale utdanninger og hindrer uhensiktsmessig konkurranse mellom utdanningsinstitusjoner. Innenfor medisin foreligger det for eksempel en fersk utredning fra et ekspertutvalg (Grimstad-utvalget) som anbefaler at den nasjonale kapasiteten skal økes. Ekspertutvalget anbefaler at dette bør skje ved å tildele flere plasser til de universitetene som allerede har medisinske fagmiljø og utdanning, og at disse får i oppdrag å ha tilbud utenfor egen nærregion i samarbeid med helsevesenet. Flertallet mener at det også er fullt mulig at opprettelse av en rekke nye tilbud i eksempelvis jus vil gi økt tilgang på studenter og kompetanse i én region på bekostning av tilsvarende tilgang i en annen region. Gradsforskriften, slik den i dag er utformet, er et av styringsverktøyene som bør videreføres. Flertallet mener at dagens forskrift er en hensiktsmessig måte å regulere det nasjonale behovet for forskjellige utdanninger, regionale kompetansebehov, kostnader og konsekvenser for kvalitet på fordi det er Stortinget og Kunnskapsdepartementet som tildeler studieplasser og ressurser. Dette skjer for å sikre tilstrekkelig opptak til sentrale yrker i den hensikt å dekke fremtidens behov, samt at ressursene totalt sett innenfor sektoren blir mest mulig effektivt utnyttet. Det er fortsatt behov for nasjonal styring innenfor enkelte utdanninger i sektoren, men Kunnskapsdepartementet bør jevnlig vurdere hvilke utdanninger det er hensiktsmessig at er forbeholdt enkelte institusjoner, og hvilke institusjoner som bør ha rett til å tilby disse utdanningene ut fra en helhetlig vurdering.
+
+Utvalgets mindretall, bestående av *utvalgsleder Aune og medlemmene Bragdø-Ellenes og Mælen,* peker på at gradsforskriften har sin opprinnelse før Kvalitetsreformen i høyere utdanning og innskrenker institusjonenes autonomi. Forskriften regulerer mange og vidt forskjellige utdanninger, uten en nærmere begrunnelse for hvorfor disse reguleres særskilt. Forskriften inneholder heller ikke kriterier som må oppfylles for å gi en av de regulerte utdanningene, men gir konkrete institusjoner en rett til å tilby visse utdanninger.
+
+Forskriften begrenser institusjonenes mulighet til å dekke regionale og nasjonale kompetansebehov og begrenser således institusjonenes mulighet til å oppfylle sitt samfunnsoppdrag når de ikke kan tilby etterspurte utdanninger. Universiteter og høyskoler har en klar regional rolle ved å utdanne kandidater til regionens arbeidsmarked, men også på et mer strategisk nivå ved at institusjonene samarbeider med kommuner og fylkeskommuner om regionplaner og med næringsliv om studier og forskning.
+
+Tabell 8.1 viser at universitetene hovedsakelig rekrutterer studenter fra egen region.[^90] Dette påvirker institusjonenes strategiske valg av studietilbud og således hva slags kompetanse universitetene strategisk sett kan tilføre regionens arbeidsmarked. Mangel på utdanningstilbud kan ha som konsekvens at enkelte regioner ikke får tilstrekkelig kapasitet innenfor enkelte yrker eller at regionen går glipp av den beste kompetansen. Det betyr at dersom et universitet eller en høyskole ikke tilbyr en viss type utdanning, så vil arbeidsgivere i regionen sannsynligvis ha større vanskeligheter med å rekruttere folk med den tiltrengte kompetansen.
+
+Institusjonenes rekruttering av studenter fra egen region
+
+02J1xx2
+
+| Institusjon | Andel studenter rekruttert fra egen region (i prosent) |
+|----|----|
+| Universitetet i Tromsø – Norges arktiske universitet (UiT) | 67 (Nord-Norge) |
+| Universitetet i Bergen (UiB) | 55 (Hordaland og Sogn og Fjordane) |
+| Universitetet i Stavanger (UiS) | 73 (Rogaland) |
+| Universitetet i Oslo (UiO) | 71 (Oslo/Viken) |
+| Universitetet i Agder (UiA) | 60 (Agderfylkene) |
+| OsloMet – storbyuniversitetet | 72 (Oslo/Viken) |
+
+I Kunnskapsdepartementets tildelingsbrev til institusjonene for 2019 står det følgende: «Universiteter og høyskoler skal dimensjonere sine studietilbud i forhold til fremtidige behov i arbeidslivet, både regionalt og nasjonalt.» Dette oppdraget lar seg ikke gjennomføre for institusjoner som ikke har tillatelse til å tilby etterspurte utdanninger.
+
+Figuren 8.2 viser at for tre av utdanningene som er omfattet av gradsforskriften, psykologi, juridiske fag og medisin, er andelen studenter fra Oslo og Hordaland på henholdsvis 37, 34 og 31 prosent. Disse studentgruppene i gjennomsnitt utgjør 26 prosent av studentene på studietilbudene som er tatt med. Dette gir en stor skjevhet i mulighetene til å velge studium for de regionale studentgruppene. En konsekvens kan være at potensialet i de nasjonale studentgruppene ikke unyttes fordi studentene søker mot sitt regionale tilbud.
+
+\[:figur:fig8-2.jpg\]
+
+Andel førstevalgssøkere fra Oslo eller Hordaland
+
+Gradsforskriften begrenser i praksis også kapasiteten på etterspurte utdanninger, slik at det på flere av utdanningene kreves svært høyt karaktersnitt for å komme inn. Som en konsekvens velger flere å ta slike utdanninger ved utenlandske institusjoner. I 2018 tok 47 prosent av norske medisinstudenter utdanningen utenfor Norge, og 38,6 prosent av nasjonalt praktiserende leger har sin utdanning fra et utenlandsk universitet.[^91] Også innenfor psykologi tar flere studenter utdanningen i utlandet.[^92] Innenfor juridiske fag er det anslått at det i 2025 vil være en underdekning på 7000 jurister, gitt dagens «produksjonstakt».[^93] Flere jusstudenter med bachelorgrad i rettsvitenskap fra institusjoner som ikke har tillatelse til å tilby en mastergrad, får sin bachelorgrad godkjent ved en utenlandsk institusjon og tar mastergraden der. Så langt utvalget har kjennskap til, er det særlig danske universiteter som er aktuelle. EØS-reglene legger til rette for at kandidater med master i rettsvitenskap fra andre EØS-land, kan praktisere som advokater i Norge.[^94] Gradsforskriften ser ikke ut til å forholde seg til at flere studenter tar studier som er regulert i forskriften ved utenlandske institusjoner, og på den måten kommer inn på det norske arbeidsmarkedet. Dette viser også vanskelighetene med å sentralstyre et utdannings- og arbeidsmarked som er internasjonalt.
+
+Utdanning i utlandet er ønskelig av flere grunner, se punkt 12.3.9 om internasjonalisering. Andelen studenter som velger å ta utdanningen i utlandet får likevel konsekvenser på flere plan og må hensyntas av Norge som nasjon. Utviklingsmulighetene av fagmiljøene nasjonalt påvirkes av hvor mange studenter som tar sin utdanning i enten utlandet eller i Norge. Dersom flere studenter kan få utdanningen i hjemlandet vil også fagmiljøene hjemme blir større. Større fagmiljøer vil kunne være positivt for utviklingen i regionene og arbeidsmarkedene lokalt.
+
+Det kan hevdes at rekruttering til enkelte av fagmiljøene som skal tilby utdanningene kan være en utfordring. Studiekvalitetsforskriften stiller krav om blant annet nivået på fagmiljøene som kan tilby masterutdanning. Rekrutteringsutfordringene kan reduseres ved at tilbud etableres ved flere studiesteder, og gode ordninger for samarbeid og mobilitet. Flere rekrutteringsarenaer vil kunne øke tilgangen på vitenskapelige ansatte, som i kombinasjon med samarbeid mellom institusjonene, vil gjøre fagmiljøene mer robuste.
+
+Mengden utenlandsstudenter viser at gradsforskriften ikke gir myndighetene den kontrollen de var tenkt å ha på antallet personer som tar ulike typer utdanning. Behovet for å sikre at det utdannes nok studenter med en ønsket kompetanse, reguleres best gjennom andre styringsvirkemidler enn gradsforskriften, blant annet øremerking av studieplasser over statsbudsjettet. Det er lite som taler for at de privilegerte institusjonene etter gradsforskriften ville ha lagt ned sine studier selv om flere universiteter skulle få mulighet til å tilby de forskriftsregulerte utdanningene (og godkjennelse fra NOKUT). Sikring av et minimumsantall studenter på visse utdanninger vil derfor ikke bli hemmet av at gradsforskriften fjernes.
+
+Det er heller ikke gradsforskriften som hindrer universiteter og høyskoler i å starte opp svært kostbare studier uten at dette er i tråd med nasjonale politiske målsetninger. Universiteters og høyskolers autonomi til å opprette og nedlegge studietilbud, prioritere forskningsområder og etablere strategier, begrenses i hovedsak av deres økonomiske handlingsrom som fastsettes i statsbudsjettet. Det vil derfor ikke være mulig for institusjoner å ta ansvaret for kostbare utdanninger (gjelder spesielt medisin), uten at dette kommer som en satsning gjennom statsbudsjettet.
+
+*Utvalgets mindretall,* bestående av *utvalgsleder Aune, og medlemmene Bragdø-Ellenes og Mælen,* mener på bakgrunn av dette at gradsforskriften ikke bygger opp under føringene om mer autonomi som ble lagt gjennom Kvalitetsreformen og oppfølgingen av denne. Forskriften legger heller ikke til rette for kapasitetsutnyttelse og utvikling av fagmiljøer. Den hindrer på flere områder institusjoner i å utføre samfunnsoppdraget med å dekke regionale kompetansebehov. Stortinget og regjeringen har et overordnet ansvar for sektoren og ivaretar dette gjennom lover, budsjettrammer, øremerkede midler og forskrifter om blant annet kvalitetskrav. Innenfor disse rammene bør det være institusjonene selv som utvikler sine fagporteføljer uten begrensningene som følger av gradsforskriften.
+
+### Budsjett og finansiering
+
+Finansieringssystemet har flere elementer. Det er flere aktører som kan påvirke systemet, for eksempel arbeidsgruppen som vurderer systemet for dimensjonering av høyere utdanning og oppfølging av NOU 2019: 12 *Lærekraftig utvikling. Livslang læring for omstilling og konkurranseevne.* Utvalget anbefaler at departementet ser disse arbeidene i sammenheng og følger opp med mål om et enklere finansieringssystem. Utvalget mener likevel det er sentralt at institusjonene finansieres gjennom rammebevilgning, og at de i størst mulig grad selv må kunne gjøre prioriteringer.
+
+### Bygg og eiendom
+
+Utvalget viser til områdegjennomgangen av bygg og –eiendomspolitikken i statlig sivil sektor, og anbefaler at departementet i oppfølgingen av denne legger stor vekt på at institusjonene bør ha stor frihet. I oppfølgingen mener vi at regjeringen bør ta hensyn til at areal og infrastruktur er et viktig virkemiddel for å kunne utvikle utdanningstilbud og nå strategiske forskningsmål. Bygningsmassen er tett integrert i virksomheten og brukes som et strategisk virkemiddel i utviklingen av universitetene og høyskolene, både som campus og som aktør i steds- og byutviklingen. I mange situasjoner tildeles penger til prosjekter og sentre som har begrenset levetid, ofte fem år. I slike tilfeller kan det være nødvendig at institusjonene agerer raskt og omprioriterer slik at arealer for slike satsninger er klare i løpet av 12–15 måneder. I slike situasjoner er det ikke mulig for institusjonene å vente på «neste budsjettår», og de må kunne gjøre nødvendige prioriteringer og investeringer. Universitets- og høyskolesektoren er i stor omstilling, og eiendomsfullmakten er ett av virkemidlene for å løse samfunnsoppdraget. Utvalget mener at institusjonene selv bør bestemme over egne ressurser og innsatsfaktorer i størst mulig grad, for at samfunnet skal få høyere utdanning og forskning av best mulig kvalitet.
+
+### Andre styringsvirkemidler
+
+På noen områder er det viktig med likhet mellom institusjonene, for eksempel innenfor lærerutdanninger og helseutdanninger. Utvalget anbefaler at departementet fortsatt sørger for slik likhet gjennom å fastsette forskrifter med rammeplaner, men at disse ikke bør være mer detaljert enn nødvendig, se nærmere omtale i punkt 9.3.7. Som nevnt over anbefaler utvalget at institusjonene i større grad samordner seg og gjør prioriteringer som i sum møter samfunnets behov. Det bør gi tilsvarende mindre behov for å bruke andre styringsvirkemidler. Utvalget anbefaler at departementet og institusjonene vinner erfaringer, og at de tilpasser den samlede bruken av styringsvirkemidlene i tråd med dette.

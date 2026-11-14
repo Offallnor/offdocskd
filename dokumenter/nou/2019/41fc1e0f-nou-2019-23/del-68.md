@@ -1,957 +1,196 @@
-# NOU 2019: 23, del 68 av 71 (side 764–774)
+# NOU 2019: 23, del 68 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 764]
-
-762
-
-Kapittel 57
-
-NOU 2019: 23
-Ny opplæringslov
-
-Fjerde avsnitt presiserer at fylkeskommunen
-har et overordnet ansvar for den videregående
-opplæringen. Andre setning må ses i sammenheng med kommuneloven, se omtale i merknaden
-til § 22-1 andre avsnitt.
-Femte avsnitt gir departementet kompetanse
-til å gi generelle regler i forskrift og til i enkelttilfeller å gi pålegg om hvem som skal regnes som
-bosatt i fylket. Kompetansen til å gripe inn i
-enkelttilfeller kan for eksempel brukes der det er
-uenighet mellom to fylkeskommuner. Etter siste
-setning kan departementet gi regler om refusjon
-for elever som er bosatt i et annet fylke.
-Sjette avsnitt slår fast at Oslo kommune fullt ut
-tilsvarer en fylkeskommune etter loven.
-Til § 22-3 Unntak frå hovudreglane om kommunale
-grunnskolar og fylkeskommunale vidaregåande skolar
-Bestemmelsen er ny, men viderefører dagens
-regler om adgangen til å godkjenne en annen
-ansvarsdeling enn det som følger av §§ 22-1 og 22-2.
-Godkjenning kan bare gis i «særlege tilfelle».
-Det understrekes med dette at det må være gode
-grunner som taler for en annen ansvarsdeling enn
-den som følger av lovens hovedregel. Når bestemmelsen her sier «opplæring», er det for å klargjøre
-at tilbudet ikke behøver å være ved en egen skole.
-Første avsnitt viderefører reguleringen i §§ 131 tredje avsnitt og 13-3 sjette avsnitt i dagens lov
-og gjelder all grunnskoleopplæring og videregående opplæring. Merk at fylkeskommunen ikke
-behøver godkjenning for å drive grunnskoleopplæring etter § 22-2 andre avsnitt.
-Andre avsnitt viderefører § 1-2 fjerde avsnitt i
-dagens lov. Det er presisert at opplæringsloven
-også gjelder for opplæring i utlandet. Ordningen
-vil kunne omfatte både norske og utenlandske
-elever, basert på frivillig deltakelse.
-Departementet kan i godkjenningen gjøre
-unntak fra bestemmelser i loven og forskrifter til
-loven så langt det er forsvarlig og nødvendig. Det
-må foretas en konkret vurdering med avveiing av
-ulike hensyn, som praktiske behov og hensynet til
-elevene og samfunnet. Departementet kan også
-endre vilkårene hvis forholdene tilsier det, for
-eksempel der det skjer endringer i regelverket
-som gjør det nødvendig. Departementet kan også
-trekke tilbake godkjenning dersom det er nødvendig. Dette er en avgrenset mulighet der det er
-nødvendig for eksempel av hensyn til elevene.
-Tredje avsnitt viderefører statens adgang til å
-kunne drive grunnskoleopplæring og videregående opplæring.
-
-Til § 22-4 Ansvar for opplæringa til dei som bur
-i barneverninstitusjonar
-Bestemmelsen erstatter dagens lov § 13-2.
-Første avsnitt slår fast at fylkeskommunen har
-ansvaret for både grunnskoleopplæring og videregående opplæring til barn og unge som bor i godkjente statlige regionale og kommunale barneverninstitusjoner. Fylkeskommunen der institusjonen ligger, er faglig, juridisk og økonomisk
-ansvarlig for å oppfylle opplæringsrettighetene
-etter opplæringsloven. Ansvaret til institusjonsfylket omfatter også barn og unge fra andre fylkeskommuner.
-Andre avsnitt slår fast at fylkeskommunen der
-institusjonen ligger, har krav på refusjon for opplæring som gis.
-Tredje avsnitt klargjør at det bare er når opplæringen skjer i institusjonen, at institusjonen skal
-sørge for lokaler til formålet. Ansvaret omfatter
-både lokaler til selve opplæringen og nødvendige
-tilleggslokaler, som for eksempel personalrom.
-Lokalene skal være gratis for fylkeskommunen.
-Hvis opplæringen foregår utenfor institusjonen,
-for eksempel i en ordinær skole, har ikke institusjonen ansvar for lokalene.
-Til § 22-5 Ansvar for opplæringa til innlagde i helseinstitusjonar
-Bestemmelsen erstatter dagens lov § 13-3a.
-Første avsnitt slår fast at fylkeskommunen har
-ansvaret for både grunnskoleopplæring og videregående opplæring til barn og unge som er pasienter innlagt ved helseinstitusjoner geografisk plassert innenfor fylkesgrensen. Ansvaret omfatter
-statlig spesialisthelsetjeneste organisert i helseforetak, som igjen er eid av de regionale helseforetakene. Ansvaret omfatter også private helseinstitusjoner som er finansiert av de regionale
-helseforetakene. Fylkeskommunen der institusjonen er lokalisert, har bare ansvar for dem som er
-«innlagde». Dette betyr at elever som får behandling ved en poliklinikk, er bostedsfylkets ansvar.
-Andre avsnitt slår fast at fylkeskommunen der
-institusjonen ligger, har krav på refusjon av utgifter til opplæring fra den fylkeskommunen der
-pasienten var bosatt på tidspunktet for innleggelse. Refusjonsretten er avgrenset til å gjelde
-utgifter knyttet til opplæring i institusjoner som tilbyr tverrfaglig, spesialisert behandling for rusmiddelavhengige og pasienter i institusjoner
-innenfor psykisk helsevern. Tredje setning gir
-departementet myndighet til å fastsette regler om
-refusjon i forskrift.
-
-[Side 765]
-
-NOU 2019: 23
-Ny opplæringslov
-
-Tredje avsnitt klargjør at institusjonen skal
-sørge for lokaler når opplæringen skjer i institusjonen. Ansvaret omfatter både lokaler til selve
-opplæringen og nødvendige tilleggslokaler, som
-for eksempel personalrom. Lokalene skal være
-gratis for fylkeskommunen. Hvis opplæringen
-foregår utenfor institusjonen, for eksempel i en
-ordinær skole, har ikke institusjonen ansvar for
-lokalene.
-Til § 22-6 Ansvar for opplæringa til innsette i fengsel
-Bestemmelsen erstatter § 13-2a i dagens lov.
-Fylkeskommunens ansvar etter første avsnitt
-omfatter både soningsinnsatte og varetektsinnsatte som har lovfestet rett til opplæring som ungdom eller voksen. Ansvaret omfatter også innsatte
-som soner i overgangsbolig, jf. straffegjennomføringsloven § 10. Innsatte som soner i heldøgnsopphold i sykehus, vil ikke omfattes av denne
-bestemmelsen, men av fylkeskommunens ansvar
-etter § 22-5.
-Kriminalomsorgens ansvar etter andre avsnitt
-tilsvarer barneverninstitusjonenes og helseinstitusjonenes ansvar for lokaler, se nærmere omtale i
-merknaden til §§ 22-4 og 22-5.
-Til § 22-7 Ansvar for skyss, reisefølgje, tilsyn og losji
-Bestemmelsen erstatter § 13-4 i dagens lov.
-Fylkeskommunens ansvar for skyss etter første
-avsnitt omfatter alle elever med unntak av grunnskoleelever som har særlig farlig eller vanskelig
-skolevei. Det betyr at når grunnskoleelever,
-elever i videregående opplæring eller voksne
-elever har rett til skyss på grunn av skoleveiens
-lenge, nedsatt funksjonsevne, skade eller sykdom,
-er fylkeskommunen ansvarlig for skyssen. Fylkeskommunen har også ansvaret for å oppfylle retten
-til båtskyss.
-I noen tilfeller kan en grunnskoleelev ha rett
-til skyss etter flere bestemmelser. For eksempel
-kan en elev ha rett til skyss både på grunn av skoleveiens lengde og fordi skoleveien er særlig farlig. I slike tilfeller har fylkeskommunen ansvaret
-for å oppfylle retten til skyss.
-Andre avsnitt slår fast at ansvaret for reisefølge
-og tilsyn er fordelt mellom kommunen og fylkeskommunen på samme måte som ansvaret for opplæringen er.
-Tredje avsnitt slår fast at kommunen skal
-dekke vanlig persontakst for grunnskoleelever og
-voksne elever og betale refusjon til fylkeskommunen for dette. Refusjonen skal tilsvare den ordinære billettprisen for strekningen, uavhengig av
-
-763
-
-Kapittel 57
-
-hva som er fylkeskommunens reelle utgifter. «Persontakst» vil si den laveste prisen på ordinær
-enkeltbillett. Dette fastsettes lokalt. Kommunen
-kan dekke reisekostnadene ved å benytte rabattordninger som er knyttet til den enkelte reisen,
-hvis slike rabattordninger finnes. Det er ikke nok
-at kommunen betaler for månedskort, halvårskort
-eller årskort.
-Det følger av første avsnitt andre setning at
-kommunen har ansvaret for å oppfylle retten til
-skyss for grunnskoleelever som har rett til skyss
-på grunn av særlig farlig eller vanskelig skolevei.
-Så lenge rettighetene blir oppfylt, kan kommunen
-henvise elevene til ledige plasser på skyssruter
-som fylkeskommunen allerede har etablert. Kommunen skal i slike tilfeller dekke vanlig persontakst. Dersom fylkeskommunen må etablere nye
-ruter for å skysse grunnskoleelever som kommunen er ansvarlig for, vil det ikke være tilstrekkelig
-med refusjon etter persontakst.
-Det følger av fjerde avsnitt første setning at fylkeskommunen og kommunen skal samarbeide
-om organiseringen av skoleskyssen. Kommunen
-skal ta organiseringen av skyssen med i vurderingen når den fastsetter timeplanen og skoleruta.
-Andre setning gir fylkesmannen kompetanse til å
-gripe inn dersom det er uenighet om organisering
-og finansiering av skoleskyssen.
-Femte avsnitt gir departementet hjemmel til å
-gi nærmere regler i forskrift om skyss, godtgjørelse, reisefølge, losji og refusjon ved skyss mellom fylker.
-Til § 22-8 Tilbod om meir grunnskoleopplæring
-Bestemmelsen erstatter § 4A-1 andre avsnitt og er
-omtalt i kapittel 24.4.2.
-Bestemmelsen gjør det mulig for kommuner
-og fylkeskommuner å tilby grunnskoleopplæring
-til ungdommer som allerede har fullført grunnskolen. Opplæringen gir mulighet til å forbedre
-grunnskolevitnemålet.
-For å kunne tas inn på et tilbud om mer grunnskoleopplæring må ungdommene oppfylle to vilkår. For det første må de ha ungdomsrett til videregående opplæring etter forslaget § 6-1. Dette
-innebærer at de må ha fullført grunnskolen, og at
-de ikke har brukt opp retten til videregående opplæring for ungdom. Det andre vilkåret er at de må
-ha behov for mer grunnskoleopplæring. I vurderingen av om den enkelte har behov for mer
-grunnskoleopplæring, skal det legges vekt på hvilket faglig grunnlag den enkelte har fra grunnskolen, og hvordan dette påvirker sjansene for at ved-
-
-[Side 766]
-
-764
-
-Kapittel 57
-
-NOU 2019: 23
-Ny opplæringslov
-
-kommende klarer å fullføre videregående opplæring.
-De som deltar i et tilbud om mer grunnskoleopplæring etter denne bestemmelsen, regnes som
-voksne elever etter femte del i loven, og bruker
-ikke av retten sin til videregående opplæring etter
-forslaget § 6-1. Reglene i femte del i loven gjelder
-for opplæringen etter denne bestemmelsen.
-Til § 22-9 Skolefagleg kompetanse og kvalitetsutvikling
-Bestemmelsen er delvis ny. Første og fjerde
-avsnitt erstatter delvis § 13-10 i dagens lov. Andre
-avsnitt erstatter dagens lov § 13-1 fjerde avsnitt.
-Tredje avsnitt erstatter forskrift til opplæringsloven § 2-1. Innholdet i bestemmelsen er omtalt i
-kapittel 43.10 og kapittel 49.
-Første avsnitt stiller krav om at kommunen og
-fylkeskommunen skal arbeide for å opprettholde
-og heve kvaliteten i grunnskoleopplæringen og
-den videregående opplæringen. Med kvalitet
-menes i hvilken grad målene for grunnopplæringen oppnås. Kommunen og fylkeskommunen kan
-med hjemmel i forslaget § 16-5 pålegges å gjennomføre nasjonale undersøkelser som nasjonale
-prøver mv. Slike undersøkelser vil gi relevant
-grunnlag for arbeidet med kvalitetsutvikling, men
-det er ikke et absolutt krav om at dette grunnlaget
-benyttes. Dersom en kommune eller fylkeskommune ut fra en forsvarlig vurdering finner at det er
-et annet grunnlag som gir bedre informasjon om
-tilstanden i skolen, kan annet grunnlag benyttes i
-stedet. Kommunen og fylkeskommunen må uansett alltid vurdere om det er behov for mer informasjon om tilstanden i skolene enn den informasjonen som de nasjonale undersøkelsene gir.
-Kvalifikasjonskravet i andre avsnitt omfatter
-kunnskap om både pedagogikk og om regelverket
-for skolen. Kravet omfatter både realkompetanse
-og formell kompetanse. Hva som er tilstrekkelig
-formell og uformell kompetanse må vurderes konkret, blant annet ut fra kommunens organisasjon,
-størrelse og kompleksitet. Administrasjonen skal
-ha tilstrekkelig og relevant skolefaglig kompetanse til å kunne løse sine oppgaver etter opplæringslovgivningen på en forsvarlig måte. Dersom
-det er forsvarlig, kan administrasjonens skolefaglige kompetente person også inneha en annen
-funksjon i kommunen eller fylkeskommunen.
-Tredje avsnitt innebærer et krav om kvalitetsvurdering på skolenivå. Det er kommunen og fylkeskommunen som har ansvaret, men vurderingen skal skje på den enkelte skole. Kravet om at
-vurderingen skal gjøres «jamleg», innebærer ikke
-
-et krav om et fast intervall. Poenget er at det ikke
-må gå for lang tid mellom hver gang det vurderes.
-Denne vurderingen vil være et viktig grunnlag for
-kommunens arbeid med kvalitetsutvikling. Det
-må derfor være gode grunner for at vurderingen
-skal kunne gjøres sjeldnere enn én gang per år.
-Fjerde avsnitt innebærer krav om at kommunestyret og fylkestinget skal få informasjon om
-læringsmiljøet, læringsresultatene og frafallet
-minst én gang per år. Det stilles ingen formkrav til
-hvordan informasjonen gis til kommunestyret og
-fylkestinget, og det er heller ikke nødvendig at
-informasjonen om de tre områdene gis samlet.
-Kommunene og fylkeskommunene kan selv vurdere hva slags rapportering som er hensiktsmessig for dem ut fra lokale forhold. Én måte å oppfylle kravet på er å rapportere i en årlig tilstandsrapport.
-Til § 22-10 Ulykkesforsikring
-Bestemmelsen erstatter § 13-3b i dagens lov.
-Plikten i første avsnitt kan oppfylles gjennom
-privat forsikring eller gjennom selvassuranseordning. Bestemmelsen pålegger ikke en plikt til å
-ulykkesforsikre voksne elever eller barn i skolefritidsordning eller leksehjelp. Kommunen har heller ikke plikt til å ulykkesforsikre dem som får privat opplæring i hjemmet.
-Andre setning innebærer at fylkeskommunen
-også skal sørge for ulykkesforsikring av lærlinger
-på veien mellom hjemmet og arbeidsstedet. Forsikringen skal gjelde både til lærebedriftens faste
-lokasjon og på reise mellom hjem og arbeidsplass,
-så framt yrkesskadeforsikringsloven ikke dekker
-forholdet.
-Andre avsnitt gir departementet hjemmel til å
-gi nærmere forskrifter om ulike sider av forsikringsordningen. Departementet kan også gi
-nærmere regulering av selvassuranse.
-Kapittel 23 Klageinstans, tilsyn og forsøk
-Til § 23-1 Klageinstans
-Bestemmelsen erstatter dagens lov § 15-2 og er
-omtalt i kapittel 51.
-Første avsnitt viser til forvaltningsloven § 28.
-Det betyr at enkeltvedtak som hovedregel skal
-påklages til kommunen eller fylkeskommunen.
-Andre avsnitt inneholder en særregel som gjør
-unntak fra normalordningen i forvaltningsloven.
-Etter bestemmelsen skal staten være klageinstans
-for visse typer saker. Det gjelder enkeltvedtak om
-grunnleggende rettigheter og enkeltvedtak om
-
-[Side 767]
-
-NOU 2019: 23
-Ny opplæringslov
-
-rettigheter for elever som utgjør et mindretall.
-Ifølge bestemmelsen er staten klageinstans for
-samme type enkeltvedtak både i grunnskolen og i
-videregående opplæring der det er samme type
-rettighet. Se kapittel 51.4.3.
-Oppgaven som statlig klageinstans er, som
-etter dagens lov, lagt til departementet. Det er derfor departementet som avgjør om det selv skal
-behandle klagene, eller om det skal delegere kompetansen til en nasjonal statlig instans, for eksempel Utdanningsdirektoratet, eller til regionale statlige instanser, for eksempel fylkesmannen i de
-enkelte fylkene.
-Tredje avsnitt åpner for at departementet kan
-gi forskrift om klageinstans som avviker fra normalordningen i forvaltningsloven når det gjelder
-klage på individuell vurdering.
-Til § 23-2 Statleg tilsyn
-Bestemmelsen viderefører dagens lov § 14-1 og er
-omtalt i kapittel 52.
-Første avsnitt viderefører dagens regel i § 14-1
-første avsnitt om at fylkesmannen kan føre tilsyn
-med kommunens eller fylkeskommunens oppfyllelse av plikter som er pålagt i eller i medhold av
-opplæringsloven (kommuneplikter). Bestemmelsen inneholder også hjemmel for fylkesmannen til
-å føre tilsyn med at kommunene og fylkeskommunene oppfyller plikten til å ha internkontroll etter
-kommuneloven § 25-1. Tilsynet etter bestemmelsen blir regulert av kommuneloven når det gjelder
-rett til innsyn og myndighet til å gi pålegg om retting.
-Andre avsnitt viderefører dagens regel om at
-fylkesmannen kan føre tilsyn med andre plikter
-enn kommunepliktene (aktørplikter). Det vil si at
-fylkesmannen kan føre tilsyn med plikter der det
-er andre pliktsubjekt enn kommuner og fylkeskommuner, for eksempel private skoler som er
-godkjent etter opplæringsloven. Tilsynet etter
-bestemmelsen blir regulert av kommuneloven når
-det gjelder rett til innsyn og myndighet til å gi
-pålegg om retting.
-Til § 23-3 Forsøksverksemd
-Bestemmelsen er i hovedsak en videreføring av
-dagens lov § 1-5 og er omtalt i kapittel 43.11.
-Bestemmelsens første avsnitt åpner for at
-departementet kan godkjenne at kommuner og
-fylkeskommuner gjennomfører pedagogiske eller
-organisatoriske forsøk som forutsetter unntak fra
-lov eller forskrift. At et unntak må være «nødvendig», innebærer at det ikke vil være tale om forsøk
-
-765
-
-Kapittel 57
-
-etter bestemmelsen dersom utprøvingen kan
-gjennomføres innenfor den fleksibiliteten som ligger i regelverket.
-Det er et vilkår at forsøkene det søkes om, er
-tidsavgrensede. Hva som vil være hensiktsmessig
-varighet, må vurderes konkret. Det vil blant annet
-være relevant å se hen til hvilke unntak forsøkene
-krever, hva som er hensikten med forsøkene, og
-hva som er nødvendig for at man kan få erfaringer
-fra utprøvingen.
-Bestemmelsens andre avsnitt gir departementet hjemmel til å gjøre unntak fra lov eller forskrift
-dersom dette er nødvendig for å gjennomføre
-nasjonale forsøk.
-Tredje avsnitt fastslår at forsøkene må være
-«etisk forsvarlege». Vilkåret følger av det overordnede forsvarlighetskravet i loven, se forslaget § 1-3.
-De samme forskningsetiske kravene som stilles til
-øvrig forskning, gjelder også for forsøk etter opplæringsloven.
-At forsøkene skal være godt faglig underbygd,
-og at forsøksvirksomheten skal evalueres og rapporteres, følger av at det må være mulig å lære av
-gjennomførte forsøk. Målet med forsøksvirksomheten skal være å finne ut om nye eller alternative
-pedagogiske eller organisatoriske løsninger som
-prøves ut, bør føre til regelverksendringer.
-At forsøkene ikke kan svekke elevenes grunnleggende rettigheter etter loven, innebærer blant
-annet at forsøkene ikke kan føre til at elevene som
-deltar i utprøvingen, får et vesentlig dårligere
-utgangspunkt enn andre elever. Eksempelvis kan
-forsøkene ikke begrense elevenes rett til individuell vurdering og dokumentasjon, noe som igjen
-kan få følger for elevenes inntak til videregående
-opplæring og høyere utdanning.
-Til § 23-4 Oppfylling av enkeltvedtak som er kjent
-ugyldig
-Bestemmelsen viderefører dagens lov § 15-7 og er
-omtalt i kapittel 50.9.
-Første setning slår fast utgangspunktet om at
-en kommune eller en fylkeskommune har plikt til
-å oppfylle de tjenestene en privat part har fått
-gjennom et vedtak i et statlig forvaltningsorgan,
-selv om kommunen eller fylkeskommunen har
-reist søksmål mot staten etter tvisteloven § 1-4 a
-og domstolene har funnet vedtaket ugyldig.
-Andre setning er et unntak fra det alminnelige
-utgangspunktet om at et ugyldig vedtak kan gjøres om, jf. forvaltningsloven § 35 første avsnitt
-bokstav c. I de tilfellene der en domstol har funnet
-et vedtak etter opplæringsloven ugyldig etter et
-søksmål etter tvisteloven § 1-4 a, kan forvaltnin-
-
-[Side 768]
-
-766
-
-Kapittel 57
-
-NOU 2019: 23
-Ny opplæringslov
-
-gen i utgangspunktet ikke gjøre om vedtaket etter
-forvaltningsloven § 35 første avsnitt bokstav c til
-skade for den private parten. Omgjøring etter forvaltningsloven § 35 første avsnitt bokstav c til
-skade for den private parten kan likevel skje dersom årsaken til at vedtaket er ugyldig, er at parten
-selv eller noen som handlet på vegne av den private parten, forsettlig eller grovt uaktsomt har gitt
-uriktige opplysninger eller holdt tilbake opplysninger. Det er ikke tilstrekkelig for omgjøring
-etter andre setning at vedkommende selv eller
-noen som opptrer på vegne av vedkommende, forsettlig eller grovt uaktsomt har gitt uriktige opplysninger eller holdt tilbake opplysninger. For at
-vedtaket skal kunne gjøres om, må saken i tillegg
-framstå slik at vedtaket ikke ville fått det innholdet
-det fikk, dersom det ikke var blitt gitt uriktige opplysninger eller holdt tilbake opplysninger, jf.
-«fordi» i loven. Uriktige opplysninger har altså
-ingen betydning dersom den private parten ville
-hatt krav på tjenesten etter de reelle forholdene i
-saken. Det er videre bare dersom den personen
-som ga de uriktige opplysningene, har rett til å
-representere den private parten overfor det
-offentlige, typisk der en verge gir opplysningene,
-at vedtaket kan gjøres om etter denne bestemmelsen.
-Omgjøringskompetansen til forvaltningen blir
-ellers ikke endret av denne bestemmelsen. Det
-innebærer for det første at forvaltningen, etter en
-dom om at et vedtak er ugyldig etter et søksmål
-etter tvisteloven § 1-4 a, fremdeles vil kunne gjøre
-om vedtaket etter de andre bestemmelsene i forvaltningsloven § 35, også § 35 siste avsnitt. For det
-andre innebærer det at dersom kommunen ikke
-bringer vedtaket inn for domstolen, gjelder de
-alminnelige omgjøringsreglene fullt ut.
-Kapittel 24 Iverksetjing og overgangsreglar
-Til § 24-1 Iverksetjing og oppheving
-Bestemmelsen erstatter dagens lov § 16-1 og er
-omtalt i kapittel 54.1.
-Etter første setning fastsetter Kongen når loven
-skal tre i kraft. Fra samme tid oppheves lov 17. juli
-1998 nr. 61 om grunnskolen og den vidaregåande
-opplæringa. Det er behov for å gjennomgå og
-endre forskrifter og annet underordnet regelverk i
-forbindelse med ikraftsetting av loven. Det kan
-også være nødvendig med administrative tiltak.
-Derfor gis det en hjemmel i andre setning til at
-
-Kongen kan vedta delt ikraftsetting, det vil si at
-kapitlene og bestemmelsene i loven kan tre i kraft
-til ulik tid. Kongen kan også delegere myndigheten til å sette i verk deler av loven til departementet. Det er særlig aktuelt for retten til opplæring på
-samisk i to ekstra fag, se forslaget § 4-2 tredje
-avsnitt, der det på kort sikt er for få lærere til å
-innfri kravet, og det kan være hensiktsmessig å gi
-departementet muligheten til å vurdere når denne
-delen av loven bør tre i kraft.
-Til § 24-2 Overgangsreglar
-Bestemmelsen erstatter delvis dagens lov § 16-2
-og er omtalt i kapittel 54.2.
-Hjemmelsgrunnlaget for flere forskrifter og
-enkeltvedtak vil etter denne lovens ikrafttreden
-ligge i denne loven. Det gjelder for eksempel forskrift til opplæringsloven, læreplanverket og
-lokale forskrifter, herunder skoleregler. Forskriftene og enkeltvedtakene vil etter første avsnitt første setning stå ved lag inntil Kongen bestemmer
-noe annet. Etter første avsnitt andre setning kan
-Kongen gi overgangsregler for å sikre en god
-overgang til en ny lov.
-I andre avsnitt videreføres stillingsvernet til
-enkelte ansatte i grunnskolen, se merknad til
-dagens lov § 16-2 i Ot.prp. nr. 46 (1997–98).
-I tredje avsnitt gis det en overgangsregel for
-kravet om relevant kompetanse i undervisningsfaget i forslaget § 15-3 første avsnitt for enkelte
-lærere i grunnskolen. Overgangsregelen varer
-fram til 1. august 2028 og omfatter «dei som har
-fullført allmennlærarutdanninga, og dei som før 1.
-januar 2014 oppfylte krava for tilsetjing i lærarstilling». Overgangsregelen omfatter alle med allmennlærerutdanning, også de som har avsluttet
-denne utdanningen etter 2014. Hvem som oppfylte kravene for tilsetting i undervisningsstilling
-framgår av dagens lov § 10-1 og dagens forskrift til
-opplæringsloven kapittel 14. Se for øvrig Prop. 4 L
-(2016–2017).
-Det følger av fjerde avsnitt at foreldre som er i
-gang med grunnskoleopplæring i hjemmet når
-loven blir sett i verk, ikke trenger å søke kommunen om godkjenning etter forslaget § 20-5.
-Til § 24-3 Endringar i andre lover
-Se omtale i kapittel 54.3.
-
-[Side 769]
-
-NOU 2019: 23
-Ny opplæringslov
-
-767
-
-Kilder og litteratur
-
-Kilder og litteratur
-Lover
-Kongeriket Noregs Grunnlov 17. mai 1814
-(Grunnlova)
-Kongeriket Norges Grunnlov 17. mai 1814
-(Grunnloven)
-Lov 13. august 1915 nr. 5 om domstolene (domstolloven)
-Lov 17. juli 1925 nr. 11 om Svalbard (svalbardloven)
-Lov 1. mars 1940 nr. 1 om yrkesskoler for håndverk og industri
-Lov 8. juli 1954 nr. 3 om forsøk i skolen (skoleforsøksloven)
-Lov 6. juli 1957 nr. 3 om handelsgymnasier og yrkesskoler for handel og kontorarveid (sic)
-Lov 12. juni 1964 nr. 2 om gymnasloven
-Lov av 12. juni 1964 om realskoler og gymnas
-Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)
-Lov 13. juni 1969 nr. 24 om grunnskolen (grunnskolelova)
-Lov 13. juni 1969 nr. 25 om trudomssamfunn og
-ymist anna
-Lov 13. juni 1969 nr. 26 om skadeserstatning (skadeserstatningsloven)
-Lov 21. juni 1974 nr. 55 om videregående opplæring
-Lov 28. mai 1976 nr. 35 om voksenopplæring (voksenopplæringsloven)
-Lov 11. april 1980 nr. 5 om målbruk i offentleg teneste (mållova)
-Lov 23. mai 1980 nr. 13 om fagopplæring i arbeidslivet (fagopplæringsloven)
-Lov av 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. (alkoholloven)
-Lov 16. juni 1989 nr. 65 om yrkesskadeforsikring
-(yrkesskadeforsikringsloven)
-Lov 8. april 1981 nr. 7 om barn og foreldre (barnelova)
-Lov 22. mai 1981 nr. 25 om rettergangsmåten i
-straffesaker (straffeprosessloven)
-Lov 20. desember 1985 nr. 108 om folkebibliotek
-(folkebibliotekloven)
-
-Lov 12. juni 1987 nr. 56 om Sametinget og andre
-samiske rettsforhold (sameloven)
-Lov 13. desember 1991 nr. 81 om sosiale tjenester
-m.v. (sosialtjenesteloven)
-Lov 26. juni 1992 nr. 87 om forsøk i offentlig forvaltning (forsøksloven)
-Lov 17. juli 1992 nr. 100 om barneverntjenester
-(barnevernloven)
-Lov 25. september 1992 nr. 107 om kommuner og
-fylkeskommuner (kommuneloven)
-Lov 4. desember 1992 nr. 126 om arkiv (arkivlova)
-Lov 2. februar 1993 nr. 38 om framstilling og bruk
-av genmodifiserte organismer m.m. (genteknologiloven)
-Lov 9. september 1994 nr. 58 om endring i lov 13.
-juni 1969 nr. 24 om grunnskolen
-Lov 7. juni 1996 nr. 33 om opplysningsvesenets
-fond
-Lov 19. juni 1997 nr. 84 (Endringslov til grunnskoleloven)
-Lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)
-Lov 21. mai 1999 nr. 30 om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven).
-Lov 2. juni 1999 nr. 61 om spesialisthelsetjenesten
-m.m. (spesialisthelsetjenesteloven)
-Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven)
-Lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven)
-Lov 28. juni 2002 om val til Stortinget, fylkesting
-og kommunestyrer (valgloven)
-Lov av 31. januar 2003 nr. 10 om endringar i lov 17.
-juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)
-Lov 4. juli 2003 nr. 84 om frittståande skolar (friskolelova)
-Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)
-Lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven)
-Lov 20. mai 2005 nr. 28 om straff (straffeloven)
-
-[Side 770]
-
-768
-
-Kilder og litteratur
-
-NOU 2019: 23
-Ny opplæringslov
-
-Lov 3. juni 2005 nr. 37 om utdanningsstøtte (utdanningsstøtteloven)
-Lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)
-Lov 17. juni 2005 nr. 64 om barnehager (barnehageloven)
-Lov 17. juni 2005 nr. 90 om mekling og rettergang
-i sivile tvister (tvisteloven)
-Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offenleg verksemd (offentleglova)
-Lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) [NAV-loven]
-Lov 29. juni 2007 nr. 89 om offentlege styresmakters ansvar for kulturverksemd (kulturlova)
-Lov 2. juli 2007 nr. 64 om helsepersonell m.v.
-Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)
-Lov 9. januar nr. 2 om kontroll med markedsføring
-og avtalevilkår mv. (markedsføringsloven)
-Lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)
-Lov 23. mars 2010 nr. 9 om vergemål (vergemålsloven)
-Lov 28. mai 2010 nr. 16 om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)
-Lov 24. juni 2011 nr. 37, om endringar i opplæringslova og privatskolelova (politiattest m.m.)
-Lov 24. juni 2011 nr. 30 om kommunale helse- og
-omsorgstjenester m.m. (helse- og omsorgstjenesteloven)
-Lov 14. desember 2012 nr 81 om gjennomføring i
-norsk rett av EØS-avtalen vedlegg V punkt 2
-(forordning (EU) nr. 492/2011) om fri rørsle
-av arbeidstakarar innanfor EØS-området
-(EØS-arbeidstakarlova)
-Lov 4. juli 2013 nr. 80 om introduksjonsordning og
-norskopplæring for nyankomne innvandrere
-(introduksjonsloven)
-Lov 9. desember 2016 nr. 88 om folkeregistrering
-(folkeregistreringsloven)
-Lov 16. juni 2017 nr. 6 om adopsjon (adopsjonsloven)
-Lov 16. juni 2017 nr. 67 om statens ansatte mv.
-(statsansatteloven)
-Lov 16. juni 2017 nr. 51 om likestilling og forbud
-mot diskriminering (likestillings- og diskrimineringsloven)
-Lov av 8. juni 2018 nr. 28 om høyere yrkesfaglig
-utdanning (fagskoleloven)
-Lov 15. juni 2018 nr. 38 om behandling av personopplysninger (personopplysningsloven)
-
-Forskrifter
-Forskrift 1. desember 1995 nr. 928 om miljørettet
-helsevern i barnehager og skoler m.v.
-Forskrift 25. juni 1999 nr. 708 om utfylling av dei
-overordna måla og prinsippa for opplæringa i
-grunnskolen og i den vidaregåande opplæringa
-Forskrift 31. januar 2003 nr. 90 om overføring av
-forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner
-Forskrift 3. juli 2003 nr. 997 om vedtekter for forsøk med kommunal oppgavedifferensiering,
-13-årig opplæringsløp i kommunal regi, Båtsfjord kommune, Finnmark
-Forskrift 17. juni 2005 nr. 657 om forvaltningsområdet for samisk språk
-Forskrift 23. juni 2006 nr. 724 til opplæringslova
-Forskrift 18. januar 2007 nr 76 om grunnskoleopplæring og videregående opplæring på Svalbard
-Forskrift av 1. april 2007 nr. 378 om målvedtak i
-kommunar og fylkeskommunar
-Forskrift 21. juni 2013 nr. 732 om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger
-Forskrift 20. september 2013 nr. 1097 om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterforskriften)
-Forskrift 11. november 2015 nr. 1285 om politiattest i barnehager
-Forskrift 28. oktober 2016 nr. 1250 om ledelse og
-kvalitetsforbedring i helse- og omsorgstjenesten
-Forskrift 7. juni 2016 nr. 861 om rammeplan for
-grunnskolelærerutdanning for trinn 5–10
-Forskrift 28. oktober 2016 nr. 1250 om ledelse og
-kvalitetsforbedring i helse- og omsorgstjenesten
-Forskrift 6. januar 2017 nr. 13 om opptak til høgre
-utdanning
-Forskrift av 23. februar 2017 nr. 256 for grunnskolen, Gausdal kommune, Oppland
-Forskrift 24. april 2017 nr. 487 om rammeplan for
-barnehagens innhold og oppgaver
-Forskrift av 6. juni 2017 nr. 1415 om vedtekter for
-Språkrådet
-Forskrift 22. juni 2017 nr. 1049 om pedagogisk bemanning og dispensasjon i barnehager
-Forskrift av 11. august 2017 nr. 1846 om Nasjonalt
-kvalifikasjonsrammeverk for livslang læring
-og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring
-Forskrift 1. september 2017 nr. 1332 om utfylling
-av dei overordna måla og prinsippa for opplæ-
-
-[Side 771]
-
-NOU 2019: 23
-Ny opplæringslov
-
-ringa i grunnskolen og i den vidaregåande
-opplæringa
-Forskrift 6. september 2017 nr. 1353 om felles
-rammeplan for helse- og sosialfagutdanninger
-Forskrift 5. februar 2018 nr. 150 om inntak til videregående opplæring på Svalbard, Longyearbyen lokalstyre
-Forskrift 19. oktober 2018 nr. 1584 om kommunens helsefremmende og forebyggende arbeid i helsestasjons- og skolehelsetjenesten
-Forskrift av 5. februar 2018 nr. 150 om inntak til videregående opplæring på Svalbard, Longyearbyen lokalstyre
-Forskrift av 15. mars 2019 om tildeling av utdanningsstøtte for undervisningsåret 2019–2020
-Instruks om utredning av statlige tiltak (utredningsinstruksen), fastsatt ved kgl. res. 19. februar 2016
-Rikspolitiske retningslinjer for barn og planlegging 20. september 1995 nr. 4146
-Forskrift om ordensreglement for skolene i Bærum kommune
-Internasjonale og utenlandske kilder
-Bekendtgørelse nr. 570 af 7. mai 2019 om erhvervsuddannelser
-Bekendtgørelse nr. 697 af 26. juni 2014 om
-fremme af god orden i folkeskolen
-Den europeiske menneskerettighetskonvensjon
-av 4. november 1950 (EMK), Convention for
-the Protection of Human Rights and Fundamental Freedoms
-Den europeiske pakten om religions- eller minoritetsspråk (minoritetsspråkpakten) av 5. november 1992. European Charter for Regional
-or Minority Languages
-EMD, Folgerø, mot Norge, 2007
-EMD, Osmanoǧlu og Kocabaş mot Sveits, 2012
-Europarådet. (1985). Europarådscharteret om lokalt selvstyre. ETS nr. 122 European charter of
-local self-government
-Europarådet. (1995). Rammekonvensjon om beskyttelse av nasjonale minoriteter. av 1. februar 1995, Framework Convention for the
-Protection of National Minorities
-Europarådet. (2010). Europarådets pakt for menneskerettighetsundervisning og opplæring til
-demokratisk
-medborgerskap.
-CM/
-Rek(2010)7
-EØS-avtalen vedlegg XI nr. 5e (forordning (EU)
-2016/679) (personvernforordning)
-Finlands grundlag. 11. Juni 1999, nr. 731
-FN (1965) FNs konvensjon mot rasediskriminering (CERD) av 21. Desember 1965, Internati-
-
-769
-
-Kilder og litteratur
-
-onal Convention on the Elimination of All
-Forms of Racial Discrimination
-FN (1966) FNs konvensjon om sivile og politiske
-rettigheter (SP) av 16. desember 1966, International Covenant on Civil and Political rights
-FN (1966) FNs konvensjon om økonomiske, sosiale og kulturelle rettigheter (ØSK) av 16. desember 1966, International Covenant on Economic, Social and Cultural Rights
-FN (1979) FNs konvensjon om avskaffelse av alle
-former for diskriminering av kvinner av 18. desember 1979, Convention on the Elimination
-of All Forms of Discrimination against Women
-FN (1989) FNs konvensjon om barnets rettigheter
-(barnekonvensjonen) av 20. november 1989,
-Convention on the Rights of the Child
-FN (2006) FN konvensjonen om personer med
-nedsatt funksjonsevne (CRPD) av 13. desember 2006, Convention on the Rights of Persons
-with Disabilities
-FNs barnekomité. (2009) Generell kommentar nr.
-12 om barnets rett til å bli hørt. (CRC/C/GC/
-12)
-FNs barnekomité. (2011) Generell kommentar nr.
-13 om barnets rett til frihet fra alle former for
-vold. (CRC/C/GC/13)
-FNs barnekomité. (2013) Generell kommentar nr.
-17 om barnets rett til hvile, fritid, lek, fritidsaktiviteter, kulturliv og kunstnerisk virksomhet
-(art. 31). (CRC/C7GC717)
-FNs komité for økonomiske, sosiale og kulturelle
-rettigheter, (1999) General Comment no. 13
-on the right to education (art. 13). (E/C.12/
-1999/10)
-FNs komité for økonomiske, sosiale og kulturelle
-rettigheter, Concluding Observations on Norway, 23. Juni 2005. (E/C.12/1/Add.109)
-Gymnasieförordningen (2010:2039)
-Gymnasielag (629/1998)
-HRC, Leirvåg m.fl. mot Norge, 2004
-ILO-konvensjon nr. 142 av 23. juni 1975 om yrkesrettleiing og yrkesopplæring som ledd i utviklingen av menneskelige ressurser, Convention
-concerning vocational guidance and vocational
-training in the development of human resources
-ILO-konvensjon nr. 169 av 27. juni 1989 om urfolk
-og stammefolk i selvstendige stater, Indigenous and Tribal Peoples Convention
-Lag nr. 1705 om finansiering av undervisningsoch kulturverksamhet av 29. desember 2009
-Lag nr. 628 om grundläggande utbildning av 21.
-august 1998
-Lov nr. 1510 af. 14. Desember 2017 om folkskolen
-
-[Side 772]
-
-770
-
-Kilder og litteratur
-
-NOU 2019: 23
-Ny opplæringslov
-
-Lov nr. 596 af 16. mai 2019 om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.
-Lov nr. 611 af 28. mai 2019 om de gymnasiale uddannelser
-Proposition 1997/98:182 Strategi för att förverkliga FN:s konvention om barnets rättigheter i
-Sverige
-Proposition 2009/10:165 Den nya skollagen – för
-kunskap, valfrihet och trygghet
-Proposition 2009/10:232. Strategi för att stärka
-barnets rättigheter i Sverige
-RÅDSDIREKTIV av 25. juli 1977 om skolegang for
-barn av vandrearbeidere. 77/486/EØF
-Skolförordningen (2011:185)
-Skollagen (2010:800)
-SOU 1997:116 Barnets Bästa i främsta rummet.
-FN:s konvention om barnets rättigheter i Sverige
-SOU 2014:5 Staten får inte abdikera – om kommunaliseringen av den svenska skolan
-Avgjørelser, uttalelser mv.
-HR-2016-2229-A
-HR-2017-579-A
-HR-2019-1719-U
-JDLOV-1990-3149. Yrkesskadeforsikring for elever
-under yrkespraksis
-JDLOV-2001-11203
-JDLOV-2006-7530. Bruk av hode- og ansiktsplagg i
-skolene – anmodning om uttalelse fra Justisdepartementets lovavdeling om forståelsen av gjeldende rett
-JDLOV-2010-8029. Rett til opplæring for barn med
-ulovlig opphold eller uavklart oppholdsstatus –
-forholdet til barnekonvensjonen
-JDLOV-2015-4608. Rett til helsehjelp for personer
-uten fast opphold i riket – forholdet til internasjonale forpliktelser
-JDLOV-2016-6700. Innføring av et nasjonalt forbud
-mot ansiktsdekkende plagg i utdanningsinstitusjoner – menneskerettslige spørsmål
-LDN-2010-8
-LDN-2015-73
-LF-2014-16533
-LG-2006-104178
-LH-2016-164451
-Rt. 1990 s. 360
-Rt. 1990 s. 874
-Rt. 1993 s. 811
-Rt. 1999 s. 1656
-Rt. 2004 s. 2015
-Rt. 2004 s. 1343
-Rt. 2012 s. 146
-
-Rt. 2012 s. 1051
-Rt. 2015 s. 92
-RG 2004 s. 1215
-SOM-2013-3031
-SOM-2016-1689
-SOM-2016-2418
-SOM-2016-3376
-SOM-2017-1614
-SOM-2017-2040
-SOM-2017-3278
-SOM-2017-3746
-SOM-2017-3278
-SOM-2018-496
-SOM-2018-4777
-SOM-2019-561
-NOU-er
-NOU 1978: 30 Om lærlinglov
-NOU 1983: 4 Pedagogisk-psykologisk rådgivningstjeneste
-NOU 1984: 18 Om samenes rettsstilling
-NOU 1991: 4 Veien videre til studie- og yrkeskompetanse for alle
-NOU 1992: 32 Bedre struktur i lovverket
-NOU 1995: 18 Ny lovgivning om opplæring. »... og
-for øvrig kan man gjøre som man vil«
-NOU 1999: 27 «Ytringsfrihed bør finde Sted» – Forslag til ny Grunnlov § 100
-NOU 2000: 22 Om oppgavefordelingen mellom stat,
-region og kommune
-NOU 2002: 10 Førsteklasses fra første klasse. Forslag til rammeverk for et nasjonalt kvalitetsvurderingssystem av norsk grunnopplæring
-NOU 2003: 15 Fra bot til bedring. Et mer nyansert
-og effektivt sanksjonssystem med mindre bruk av
-straff
-NOU 2003: 16 I første rekke. Forsterket kvalitet i en
-grunnopplæring for alle
-NOU 2004: 18 Helhet og plan i sosial- og helsetjenestene – Samordning og samhandling i kommunale sosial- og helsetjenester
-NOU 2005: 14 På rett kjøl. Ny skipssikkerhetslovgivning
-NOU 2005: 18 Fordeling, forenkling, forbedring.
-Inntekstssystemet for kommuner og fylkeskommuner
-NOU 2007: 6 Formål for framtida. Formål for
-framtida – Formål for barnehagen og opplæringen
-NOU 2008: 18 Fagopplæring for framtida
-NOU 2009: 14 Et helhetlig diskrimineringsvern.
-Diskrimineringslovutvalgets utredning om en
-samlet diskrimineringslov, grunnlovsvern og ratifikasjon av tilleggsprotokoll nr. 12 til EMK
-
-[Side 773]
-
-NOU 2019: 23
-Ny opplæringslov
-
-NOU 2009: 18 Rett til læring
-NOU 2010: 7 Mangfold og mestring. Flerspråklige
-barn, unge og voksne i opplæringssystemet
-NOU 2011: 20 Ungdom, makt og medvirkning
-NOU 2012: 1 Til barnas beste. Ny lovgivning for
-barnehagene
-NOU 2013: 4 Kulturutredningen 2014
-NOU 2014: 7 Elevenes læring i fremtidens skole –
-Et kunnskapsgrunnlag
-NOU 2015: 2 Å høre til. Virkemidler for et trygt psykososialt skolemiljø
-NOU 2015: 7 Assimilering og motstand. Norsk politikk overfor taterne/romanifolket fra 1850 til i
-dag
-NOU 2015: 8 Fremtidens skole. Fornyelse av fag og
-kompetanser
-NOU 2016: 4 Ny kommunelov
-NOU 2016: 7 Norge i omstilling – karriereveiledning for individ og samfunn
-NOU 2016: 14 Mer å hente – Bedre læring for elever
-med stort læringspotensial
-NOU 2016: 16 Ny barnevernslov. Sikring av barnets
-rett til omsorg og beskyttelse
-NOU 2016: 17 På lik linje. Åtte løft for å realisere
-grunnleggende rettigheter for personer med
-utviklingshemming
-NOU 2016: 18 Hjertespråket – Forslag til lovverk,
-tiltak og ordninger for samiske språk
-NOU 2018: 2 Fremtidige kompetansebehov I –
-Kunnskapsgrunnlaget
-NOU 2018: 13 Voksne i grunnskole- og videregående
-opplæring – Finansiering av livsopphold
-NOU 2018: 15 Kvalifisert, forberedt og motivert –
-Et kunnskapsgrunnlag om struktur og innhold i
-videregående opplæring
-NOU 2019: 3 Nye sjanser – bedre læring – Kjønnsforskjeller i skoleprestasjoner og utdanningsløp
-NOU 2019: 5 Ny forvaltningslov – Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven)
-NOU 2019: 10 Åpenhet i grenseland. Bilder, film og
-lydopptak i helse- og omsorgstjenesten, barnevernet, skolen og barnehagen
-NOU 2019: 13 Når krisen inntreffer
-NOU 2019: 14 Tvangsbegrensningsloven – Forslag
-til felles regler om tvang og inngrep uten samtykke i helse- og omsorgstjenesten
-Proposisjoner
-St.prp. nr. 75 (1991–92) Omorganisering av utdanningsadministrasjonen m.m.
-St.prp. nr. 38 (1999–2000) Opprettelse av Nasjonalt
-senter for læring og utvikling
-
-771
-
-Kilder og litteratur
-
-St.prp. nr. 65 (2002–2003) Tilleggsbevilgninger og
-omprioriteringer i statsbudsjettet medregnet folketrygden 2003. Finansdepartementet
-St.prp. nr. 1 Tillegg nr. 1 (2003–2004) for budsjetterminen 2004 Om endringer i forslaget til statsbudsjett for 2004. Kunnskapsdepartementet
-St.prp. nr. 1 (2007–2008) Kunnskapsdepartementet
-Ot.prp. nr. 40 (1954) Om lov om forsøk i skolen
-Ot.prp. nr. 64 (1973–74) Om lov om brigde i lov 13.
-juni 1969 nr. 24 om grunnskolen
-Ot.prp. nr. 6 (1979–80) Om lov om fagopplæring i
-arbeidslivet
-Ot.prp. nr. 66 (1981–82) 1. Om lov om helsetjenesten i kommunene. 2. Om lov om endringene
-i lov av 5. juni 1964 nr. 2 om sosial omsorg.
-3. Om lov om planlegging av og forsøksvirksomhet i sosialtjenesten og helsetjenesten i kommunene
-Ot.prp. nr. 51 (1984–85) Om lov om endring i lov
-13. juni 1969 nr. 24 om grunnskolen og i lov
-21. juni 1974 nr. 55 om videregående opplæring
-Ot.prp. nr. 60 (1989–90) Samisk språk
-Ot.prp. nr. 42 (1991–92) Om lov om kommuner og
-fylkeskommuner (kommuneloven)
-Ot.prp. nr. 44 (1991–92) Om lov om barneverntjenester (barnevernloven)
-Ot.prp. nr. 54 (1991–92) Om lov om forsøkt i offentlig forvaltning
-Ot.prp. nr. 31 (1992–93) Om lov om endringer i lov
-21. juni 1974 nr. 55 om videregående opplæring
-og i lov 23. mai 1980 nr. 13 om fagopplæring i
-arbeidslivet
-Ot.prp. nr. 59 (1992–93) Om tilpasning av særlovgivningen til ny kommunelov
-Ot.prp. nr. 36 (1996–97) Om lov om grunnskolen
-og den vidaregåande opplæringa (opplæringslova)
-Ot.prp. nr. 38 (1996–97) Om lov om endringar i lov
-13. juni 1969 nr 24 om grunnskolen m.m.
-Ot.prp. nr. 46 (1997–98) Om lov om grunnskolen
-og den vidaregåande opplæringa (opplæringslova)
-Ot.prp. nr. 75 (1998–99) Om lov om endringer i lov
-av 12. mai 1995 nr. 22 om universiteter og høgskoler
-Ot.prp. nr. 78 (1998–99) Om lov om endringar i lov
-17. juli 1998 nr 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova)
-Ot.prp. nr. 44 (1999–2000) Om lov om endringar i
-lov 17. juli 1998 nr. 61 om grunnskolen og den
-vidaregåande opplæringa (opplæringslova)
-m.m.
-
-[Side 774]
-
-772
-
-Kilder og litteratur
-
-NOU 2019: 23
-Ny opplæringslov
-
-Ot.prp. nr. 94 (2001–2002) Om lov om endringar i
-lov 17. juli 1998 nr. 61 om grunnskolen og den
-vidaregåande opplæringa (opplæringslova)
-Ot.prp. nr. 67 (2002–2003) Om lov om endringar i
-lov 17. juli 1998 nr. 61 om grunnskolen og den
-vidaregåande opplæringa (opplæringslova)
-Ot.prp. nr. 33 (2002–2003) Om lov om frittståande
-skolar (friskolelova)
-Ot.prp. nr. 55 (2003–2004) Om lov om endringar i
-opplæringslova og friskolelova
-Ot.prp. nr. 90 (2003–2004) Om lov om straff (straffeloven)
-Ot.prp. nr. 57 (2004–2005) Om lov om endringar i
-opplæringslova og friskolelova
-Ot.prp. nr. 91 (2004–2005) Om lov om endringer i
-opplæringslova og friskolelova
-Ot.prp. nr. 43 (2005–2006) Om lov om endringer i
-friskoleloven og fagskoleloven
-Ot.prp. nr. 41 (2006–2007) Om lov om endringar i
-opplæringslova og friskolelova
-Ot.prp. nr. 75 (2006–2007) Om lov om utlendingers
-adgang til riket og deres opphold her (utledningsloven)
-Ot.prp. nr. 10 (2007–2008) Om lov om endringer i
-lov om erstatning fra staten for personskade
-voldt ved straffbar handling m.m. (voldsoffererstatningsloven)
-Ot.prp.nr. 40 (2007–2008) Om lov om endringar i
-opplæringslova og privatskolelova
-Ot.prp. nr. 46 (2007–2008) Om lov om endringer i
-opplæringslova (Om formålet med opplæringen)
-Ot.prp. nr. 47 (2007–2008) Om lov om endringer i
-barnehageloven
-Ot.prp. nr. 54 (2007–2008) Om lov om endringar i
-opplæringslova (Om faget kristendoms-, religions- og livssynskunnskap og rett til avgrensa fritak)
-Ot.prp. nr. 55 (2007–2008) Om lov om kontroll
-med markedsføring og avtalevilkår mv. (markedsføringsloven)
-Ot.prp. nr. 10 (2008–2009) Om lov om endringer i
-lov om erstatning fra staten for personskade
-voldt ved straffbar handling m.m. (voldsoffererstatningsloven)
-Ot.prp. nr. 22 (2008–2009) Om lov om endringer i
-straffeloven 20. mai 2005 nr. 28 (siste delproposisjon – sluttføring av spesiell del og tilpasning
-av annen lovgivning)
-Ot.prp.nr. 55 (2008–2009) Om lov om endringar i
-opplæringslova og privatskolelova
-Ot.prp. nr. 103 (2008–2009) Om lov om sosiale tjenester i arbeids- og velferdsforvaltningen
-
-Ot.prp. nr. 108 (2008–2009) Om lov om behandling
-av opplysninger i politiet og påtalemyndigheten
-(politiregisterloven)
-Prop. 95 L (2009–2010) Endringar i opplæringslova og privatskolelova (leksehjelp m.m.)
-Prop. 91 L (2010–2011) Lov om kommunale helseog omsorgstjenester m.m. (helse- og omsorgstjenesteloven)
-Prop. 96 L (2010–2011) Endringar i opplæringslova og privatskolelova (politiattest m.m.)
-Prop. 84 L (2011–2012) Endringar i opplæringslova og privatskolelova (undervisningskompetanse m.m.)
-Prop. 106 L (2012–2013) Endringer i barnevernloven
-Prop. 129 L (2012–2013) Endringer i opplæringslova og privatskolelova (spesialundervisning
-m.m.)
-Prop. 68 L (2013–2014) Endringer i opplæringslova, privatskolelova og folkehøyskoleloven (leksehjelp m.m.)
-Prop. 95 S (2013–2014) Kommuneproposisjonen
-2015
-Prop. 82 L (2014–2015) Endringar i opplæringslova og privatskolelova (krav om relevant kompetanse i undervisningsfag m.m.)
-Prop. 62 L (2015–2016) Endringer i forvaltningsloven mv. (administrative sanksjoner mv.)
-Prop. 72 L (2015–2016) Endringar i opplæringslova (friare skoleval over fylkesgrenser, praksisbrevordning m.m.)
-Prop. 94 L (2015−2016) Endringer i helse- og omsorgstjenesteloven og helsepersonelloven (politiattest i den kommunale helse- og omsorgstjenesten)
-Prop. 103 L (2015–2016) Endringer i barnehageloven og opplæringslova (spesialpedagogisk hjelp,
-kortere ventetid for barnehageplass m.m.)
-Prop. 146 L (2015–2016) Om endringer i introduksjonsloven (innføring av forsøkshjemmel)
-Prop. 4 L (2016–2017) Endringer i opplæringslova
-(tidsbegrenset dispensasjon fra kravet om relevant kompetanse i undervisningsfaget)
-Prop. 57 L (2016–2017) Endringer i opplæringslova og friskolelova (skolemiljø)
-Prop. 64 L (2016–2017) Endringar i forvaltningslova, tvistelova m.m. (overprøvingskompetanse
-m.m.)
-Prop. 79 L (2016–2017) Endringar i opplæringslova (oppstart av grunnskoleopplæring og rett
-til vidaregåande opplæring)
-Prop. 81 L (2016–2017) Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)
+# Konsekvenser av lovforslaget
+
+\[:figur:figX-X.jpg\]
+
+ 
+
+## Innledning
+
+Nedenfor gjør utvalget rede for forslag som har økonomiske og administrative konsekvenser for kommuner, fylkeskommuner eller staten. Utvalget har flere forslag som innebærer mindre innsparinger eller ekstrakostnader, økonomiske eller administrative, for kommunene, fylkeskommunene og staten. Utvalget kommenterer ikke alle disse forslagene, men trekker fram noen eksempler. Se for øvrig kapittel 3.3.2.
+
+Å vedta og implementere en ny opplæringslov vil i seg selv ha økonomiske og administrative konsekvenser, uavhengig av innholdet i loven. Disse konsekvensene vil gjøre seg mest gjeldende i starten og avta med tiden. Disse kostnadene bør ses i sammenheng med de administrative besparelsene man vil oppnå med et språk og en oppbygning som er mer brukervennlig. Lovforslaget tar sikte på å være teknologinøytralt, noe som på sikt kan føre til enkelte besparelser. Utvalget viser for øvrig til kapittel 55.
+
+## Barn og unge
+
+Barn og unge er hovedpersonene i skole og opplæring, og alle reglene i opplæringsloven berører i større eller mindre grad barn og unge direkte eller indirekte. Flere av utvalgets forslag har til hensikt å styrke barn og unges stilling. Samtidig er det noen av utvalgets forslag som kan få negative utslag for barn og unge. Det er derimot ingen av utvalgets forslag som innebærer at barn og unge fratas sentrale rettigheter.
+
+For å sikre elevenes rett til å bli hørt og at elevenes beste blir vurdert i alle saker, foreslår utvalget egne bestemmelser om disse prinsippene innledningsvis i den nye loven. Se kapitlene 18 og 19.
+
+Utvalget foreslår at reglene om elevråd erstattes av en generell bestemmelse om skoledemokrati, se kapittel 19. Bestemmelsen gir elevene økt innflytelse i spørsmålet om hvordan elevdemokratiet skal organiseres. Samtidig tar reguleringen sikte på å øke kommunenes og skolenes bevissthet om elevenes medvirkning i saker i skolehverdagen. Samlet mener utvalget at elevenes rett til kollektiv medvirkning styrkes etter forslaget.
+
+Utvalget foreslår også flere endringer som har som formål at flere ungdommer skal være bedre rustet til å kunne fullføre og bestå grunnopplæringen. Utvalget foreslår blant annet en rett til ett år med ekstra grunnskoleopplæring ved en videregående skole for de ungdommene som avslutter grunnskoleopplæringen uten å ha gjennomgått tilstrekkelig med opplæring til å få vitnemål, og en utvidelse av retten til videregående opplæring for dem som ikke har bestått, se nedenfor.
+
+Et ønske som har gått igjen hos de aller fleste barn og unge utvalget har vært i kontakt med, er at mange har behov for og ønsker å snakke med andre ressurspersoner enn læreren. Utvalget foreslår derfor å lovfeste at elevene skal ha god tilgang på rådgivning om sosiale og personlige forhold, og at elevene skal kunne få råd fra andre enn sine lærere. Det foreslås også å innføre en plikt for fylkeskommunen til å sørge for at lærlinger skal ha tilgang på rådgivning om utdannings- og yrkesvalg og rådgivning om sosiale og personlige forhold.
+
+Utvalget ønsker å forebygge og begrense bruken av tvang og andre fysiske inngrep overfor elever, og foreslår på bakgrunn av dette å innføre en bestemmelse som presiserer at skolen skal arbeide forebyggende mot skade og fare og sørge for trygghet med minst mulig inngripende tiltak.
+
+Utvalget foreslår også enkelte endringer med mål om å skape en styrket og mer fleksibel tilgang til opplæring i og på samisk og norsk tegnspråk.
+
+Når det gjelder håndhevingsordningen i skolemiljøsaker, foreslår utvalget forenklinger for å sikre elevene raskere hjelp.
+
+Utvalget har selvsagt også tatt hensyn til innspill fra voksne, og foreslår for eksempel at den skjerpede aktivitetsplikten justeres noe, at det fortsatt åpnes for at elevene kan pålegges lekser, og at elevene fortsatt plikter å være aktivt med i opplæringen.
+
+## Retten og plikten til grunnskoleopplæring
+
+Krav til fullført grunnskoleopplæring
+
+Utvalget foreslår i kapittel 24.4.3 et krav om at elevene må ha deltatt i opplæringen i et visst omfang for å kunne få vitnemål fra grunnskolen. Utvalget antar at kravet i liten grad vi gi merarbeid for kommunene. I de aller fleste tilfeller vil grunnskolen være fullført når elevene avslutter tiende trinn, og kommunen trenger ikke å vurdere om hver enkelt elev har fullført. Men dersom en elev i begrenset grad har deltatt i grunnskoleopplæringen, må kommunen vurdere konkret om grunnskoleopplæringen skal anses å være fullført.
+
+Innføring av en rett til ekstra grunnskoleopplæring for de som ikke har fullført
+
+De som ikke kan få utskrevet vitnemål når de går ut av tiende trinn, vil etter utvalgets forslag i kapittel 24.4.3 få rett til ett år med tilrettelagt grunnskoleopplæring ved en videregående skole. Dette vil gi økte kostnader for fylkeskommunen. Utvalget legger til grunn at forslaget omfatter relativt få elever, men det er vanskelig å gjøre et anslag over hvor mange det vil være snakk om. Antallet elever vil kunne variere mellom fylkeskommunene, og det vil også kunne variere i perioder.
+
+Elevene det er snakk om, har i dag stor risiko for å falle ut av videregående opplæring, selv med rettigheter knyttet til særlig tilrettelegging som for eksempel særskilt språkopplæring eller ekstra opplæringstid. Når det begynner elever i videregående opplæring med mangelfulle forkunnskaper, har det store kostnader både for den enkelte og for fylkeskommunen. Det samme har det når en elev gjør flere forsøk på å gjennomføre videregående opplæring. Frafall og utenforskap blant unge voksne har videre svært negative konsekvenser for dem det gjelder, og for samfunnet rundt. Det vises for eksempel til omtalen i NOU 2018: 13 *Voksne i grunnskole- og videregående opplæring. Finansiering av livsopphold* av at stadig flere uten videregående opplæring også står uten lønnet arbeid, og at antallet på uføretrygd har økt.
+
+Forslaget åpner for at ungdommene kan velge å fullføre grunnskolen i grunnskoleopplæring særskilt organisert for voksne. Dette vil i utgangspunktet kunne gi økte kostnader for kommunene. Samtidig er det ikke nytt at opplæringsloven åpner for at elever etter en konkret vurdering må regnes for ikke å ha fullført, og at de derfor har rett til grunnskoleopplæring for voksne. Dette er omtalt i Ot.prp. nr. 57 (2004–2005).
+
+Utvalget mener alt i alt at forslaget vil kunne gi samfunnsøkonomiske gevinster.
+
+Det finnes i dag enkelte tilskuddsordninger rettet mot kommuner som gir opplæring til barn og ungdom med kort botid. I *Jobbsjansen*[^1578] er målgruppen dem som allerede har rett til videregående opplæring, men som trenger mer grunnskoleopplæring. Utdanningsdirektoratet og fylkesmennene administrerer dessuten ordninger rettet mot barn og unge som oppholder seg lovlig i landet i påvente av å få avgjort søknaden om oppholdstillatelse. Dersom ungdom som i dag har rett til videregående opplæring, i stedet skal gis rett til mer grunnskoleopplæring, slik utvalget foreslår, vil det være naturlig at det ses nærmere på disse tilskuddsordningenes innretning og omfang.
+
+Utsatt skolestart
+
+Utvalget foreslår i kapittel 23.4.4 at terskelen for utsatt skolestart senkes noe. Siden de aller fleste barn går i barnehage året før de begynner på skolen, kan forslaget føre til at kommunene må tilby noen flere barnehageplasser. Forslaget kan også føre til at den spesialpedagogiske hjelpen som gis etter barnehageloven, må økes noe. På den annen side kan utsatt skolestart føre til at barnet ikke vil ha behov for særskilte tiltak, eventuelt færre særskilte tiltak, når det begynner på skolen.
+
+Grunnskoleopplæring i hjemmet
+
+Det er i underkant av 200 barn som får privat grunnskoleopplæring i hjemmet. Forslaget i kapittel 46.4 om kommunal forhåndsgodkjenning av grunnskoleopplæring i hjemmet vil kunne medføre noe merarbeid for noen kommuner, men de administrative konsekvensene vil ikke være vesentlige. Forhåndsgodkjenningen kan gjøre at det kommunale tilsynet med opplæringen blir noe enklere å gjennomføre.
+
+Tilgang til PP-tjenesten for elever ved private grunnskoler
+
+I kapittel 46.2.4 foreslår utvalget at elever ved private skoler skal få tilgang til den kommunale PP-tjenesten. Endringen kan medføre en liten økning i antall vurderinger som skal foretas av PP-tjenesten. Det må imidlertid antas å være svært begrenset, da det er svært få elever ved de private grunnskolene. Det er også rimelig å anta at elever med større tilretteleggingsbehov hovedsakelig velger en offentlig skole eller godkjent friskole, hvor retten til individuelt tilrettelagt opplæring gjelder. Når de private skolene får en vurdering av PP-tjenesten, vil det øke sannsynligheten for at elever med behov for individuell tilrettelegging velger å holde fram med opplæringen ved den private skolen framfor å gå over til den offentlige skolen. Dette kan redusere kostnader for kommunen. Selv om utvalgets forslag kan medføre en liten økning i antall saker som skal behandles av den kommunale PP-tjenesten, legger utvalget til grunn at endringen ikke fører til nye utgifter for kommunene. Kommunene er uansett kompensert, men ikke trukket for elevene som velger opplæring ved en privatskole.
+
+## Retten til videregående opplæring
+
+Utvide retten til videregående opplæring
+
+Utvalget foreslår i kapittel 45.4.4 at det innføres en rett til videregående opplæring for dem som har «brukt opp» ungdomsretten til videregående opplæring, men som ikke har oppnådd studiekompetanse, yrkeskompetanse eller annen planlagt sluttkompetanse. Retten er ikke begrenset til dem over 25 år, og forslaget innebærer at de som har strøket i ordinær videregående opplæring, får en ny sjanse i voksenopplæringen. Hvert år fullfører om lag 9 prosent av norsk ungdom, eller 5 500 elever, videregående opplæring uten å få vitnemål eller fag- eller svennebrev. Mange av disse som ikke får tilbud om mer opplæring, har stor sannsynlighet for å falle utenfor i framtidig arbeids- og samfunnsliv.
+
+I dag er det om lag 500 000 personer i aldersgruppen mellom 25 og 60 år som ikke har vitnemål, svennebrev eller fagbrev fra videregående opplæring. Denne gruppen omfatter både dem som ikke tidligere har fullført videregående opplæring, og som dermed har rett i dag, og dem som har fullført uten å bestå, og som vil få rett med forslaget. Det er uklart hvor mange av disse som vil benytte seg av en rett til videregående opplæring. En undersøkelse som Liedutvalget (NOU 2018: 15) gjennomførte, viste at i underkant av 7 000 voksne uten rett søkte inntak til videregående opplæring som voksne i perioden september 2017 til oktober 2018. Det er uvisst hvor mange av disse som mangler vitnemål fra før, og dessuten hvor mange som ville søkt dersom det var en rett til videregående opplæring.
+
+Da retten til videregående opplæring ble innført i år 2000, førte det ikke til den økte etterspørselen etter opplæring som man forventet. Dette kan tale for at en utvidelse av retten heller ikke vil føre til en vesentlig økning. Dette er voksne mellom 20 og 65 år. En stor andel vil trolig være i arbeid eller av andre årsaker ikke ønske å ta mer videregående opplæring. Det må også legges til grunn at en andel av disse vil ta eksamen som privatist, eller at de uansett ville fått opplæring gjennom fylkeskommunens tilbud for voksne uten rett.
+
+Målgruppen for forslaget kan deles inn i tre undergrupper: (1) de fra hvert videregående kull som fullfører, men ikke består, (2) ungdom mellom 19 og 24 år som tidligere har fullført, men ikke bestått, og (3) voksne fra 25 år og oppover som har fullført, men ikke bestått. Vi vet at 5 500 elever årlig fullfører videregående opplæring uten å bestå. Et grovt anslag kan være at det er 2 000 i denne gruppen som årlig vil benytte seg av utvidet rett til de eventuelt består. Den andre og tredje gruppen anslås grovt til å utgjøre totalt 4 000 hver det første året, men disse gruppene vil antakelig forsvinne få år etter innføringen.
+
+Det vil variere hvor mye opplæring de som omfattes av utvidelsen, trenger for å fullføre videregående opplæring. Noen mangler store deler av videregående opplæring, mens andre mangler noen få fag. Det finnes ikke statistikk som viser hvor mye opplæring de som har brukt retten til videregående opplæring, trenger for å fullføre og bestå. Data som Liedutvalget har fått på bestilling fra Statistisk sentralbyrå (SSB) viser at de 5 500 ungdommene i all hovedsak mangler få fag for å oppnå sluttkompetanse og bestå videregående opplæring. Fordelingen viser at de som har fullført videregående, men ikke bestått, i gjennomsnitt mangler 4 fag for å bestå. Deloitte har på bestilling fra Livsoppholdsutvalget (NOU 2018: 13) funnet at voksne i voksenopplæringen i gjennomsnitt mangler 4,9 fag for å oppnå sluttkompetanse. Det legges derfor til grunn at elever som vil omfattes av en utvidet rett til videregående opplæring, mangler 4,5 fag for å bestå videregående opplæring.
+
+Beregninger som utvalget har fått utført, viser at kostnadene per år er om lag 71 500 kroner per person for målgruppe 1, 56 000 kroner per person for målgruppe 2 og 40 500 kroner per person i målgruppe 3. Årsaken til at dette varierer, er en antakelse om at voksne elever har behov for mindre undervisning og at voksenopplæringen kompletterer kompetanse eleven allerede har fra tidligere skolegang eller arbeidserfaring. Det er dessuten mye egenarbeid og lave felleskostnader.
+
+Med de anslagene som er lagt til grunn over, vil kostnadene de første fem årene etter innføringen bli 336 millioner kroner årlig og deretter 143 millioner kroner årlig. Dersom antallet i målgruppe 1 i stedet er 3 000, blir kostnaden 408 millioner kroner de første fem årene og deretter 215 millioner kroner årlig. Dersom målgruppe 2 eller 3 er større enn anslått, vil det gi høyere kostnader de første fem årene. I tillegg vil det medføre økte kostnader i studiestøtte på 30,9 millioner kroner i helårseffekt. Anslagene er basert på Lånekassens beregninger over hvor mye en voksen i videregående opplæring i gjennomsnitt får i lån og stipend, og på at en fjerdedel av målgruppen benytter seg av dette.
+
+For å vurdere tiltaket må man også ta hensyn til at det har en inntektsside. Formålet med tiltaket er at flere får en utdanning som gjør dem i stand til å forsørge seg selv. Dersom man tar hensyn til inntektsvirkninger for staten av økt skatt og reduserte trygdeutbetalinger som følge av at sannsynligheten for å bli sysselsatt etter å ha fullført vil øke, viser forsiktige beregninger utvalget har fått utført, at statsfinansene vil gå i pluss i løpet av ganske få år. Disse beregningene tar også hensyn til at staten taper noe skatteinntekter mens utdanningen pågår. Når alle framtidige inntekter 20 år fram i tid er neddiskontert med 4 prosent per år, viser en pessimistisk beregning at den samfunnsøkonomiske nytte-kostnadsbrøken er på 2,3. Det betyr at samfunnet får litt over 2 kroner igjen for hver krone som investeres i tiltaket, mens en mer optimistisk beregning viser at samfunnet får litt over 7 kroner for hver krone som investeres.
+
+Retten til opplæring for ungdom som har fått endelig avslag på søknad om oppholdstillatelse, fram til de fyller 18 år
+
+Utvalget foreslår i kapittel 25 at de som ikke har oppholdstillatelse i Norge, skal få rett til videregående opplæring og grunnskoleopplæring for voksne ut det skoleåret som begynner det kalenderåret de fyller 18 år. Forslaget innebærer at noen flere ungdommer som oppholder seg i Norge, vil få rett til videregående opplæring. Dette vil føre til noe merutgifter for fylkeskommunene, men disse vil ikke være vesentlige.
+
+## Oppfølgingsplikt
+
+Utvalget foreslår i kapittel 20.4.2 at kommunene får en oppfølgingsplikt. Plikten til oppfølging gjelder bare ved høyt fravær. Utvalget legger til grunn at kommunene allerede har systemer som sikrer at de har oversikt over elevenes fravær, se for eksempel forskrift til opplæringsloven §§ 3-41 og 3-47. Forslaget har derfor ikke vesentlige administrative konsekvenser.
+
+Etter forslaget avgjør kommunene selv hvordan elevene skal følges opp, inkludert hvilke tiltak som settes inn. Fylkeskommunene kan for eksempel velge å bruke oppfølgingstjenesten. Siden grunnskoleopplæringen er obligatorisk, legger utvalget til grunn at kommunene allerede har en plikt til å følge opp elever med høyt fravær i grunnskolen. Dersom det høye fraværet skyldes at eleven ikke trives på skolen, har skolene allerede en aktivitetsplikt, se forslag til § 11-4. Videre kan det være aktuelt for skolen å samarbeide med andre om tiltak, for eksempel helse- og omsorgstjenesten og barneverntjenesten, se forslag til §§ 16-1 og 16-2. Utvalget har derfor kommet til at forslaget ikke har vesentlige økonomiske konsekvenser for kommunene.
+
+## Opplæring i og på samisk
+
+Opplæring på samisk i grunnskolen
+
+Utvalget foreslår i kapittel 33.4 at samiske elever som bor utenfor forvaltningsområdet for samisk språk, skal få rett til opplæring på samisk i to fag dersom minst tre elever i kommunen krever det. I NOU 2016: 18 *Hjertespråket. Forslag til lovverk, tiltak og ordninger for samiske språk* (Språkutvalget) er det foreslått at minstekravet på ti elever reduseres til tre elever, se § 6-2 andre avsnitt i gjeldende opplæringslov. Språkutvalget vurderte at støtte til å tilby opplæring på samisk må økes med minst 60 millioner kroner dersom grensen for antall elever senkes fra ti til tre. Dersom man legger dette anslaget til grunn (som også omfattet ikke-samiske elever), vil Opplæringslovutvalgets forslag medføre at den statlige tilskuddsordningen må økes med rundt 12 millioner kroner per år. Siden tilskuddet trolig ikke dekker mer enn en tredjedel av kommunens faktiske utgifter, vil merkostnadene for kommunene kunne bli om lag 24 millioner kroner.
+
+Opplæring på samisk for langt flere elever enn i dag vil føre til et økt behov for lærere som kan gi opplæring på de samiske språkene. Dette vil fordre både en økt satsing på rekruttering av lærerstudenter og kompetanseutvikling i skolen. Utvalget foreslår derfor at regelen først trer i kraft noe fram i tid.
+
+Opplæring i samisk i videregående opplæring
+
+Utvalget foreslår i kapittel 33.4 at elever som har hatt opplæring i eller på samisk i grunnskolen, skal ha rett til opplæring i samisk i den videregående opplæringen. I NOU 2016: 18 er det lagt til grunn at tilskuddsordningen for samisk videregående opplæring må økes med anslagsvis 2–4 millioner kroner dersom retten til opplæring i samisk i videregående opplæring også skal omfatte ikke-samiske elever som har hatt samiskopplæring i grunnskolen. I utredningen tar Språkutvalget forbehold om at det er svært usikkert hvor stor denne gruppen er, og at det derfor også er vanskelig å anslå kostnaden. Språkutvalget mener derfor at det må gjøres en ny vurdering av om tilskuddet er økt nok, etter at lovendringen har trådt i kraft og man ser hvor mange flere som får rett til opplæring i samisk, og hvor mange som benytter seg av denne retten.
+
+Siden retten til opplæring i samisk vil kunne oppfylles gjennom fjernundervisning, mener Kunnskapsdepartementet at det vil være håndterlig for fylkeskommunene også å gi opplæring i samisk i videregående opplæring. Kunnskapsdepartementet legger til grunn at dette trolig vil gjelde få elever.[^1579]
+
+Opplæringslovutvalget er enig i at det er vanskelig å anslå hvor mange ikke-samiske elever som vil velge å fortsette med samisk i videregående opplæring, men mener likevel at en økning av tilskuddet på 4 millioner kroner er et for høyt og for optimistisk anslag. På den annen side kan ikke utvalget se at man i NOU 2016: 18 har vurdert om en utvidelse av rettigheten til ikke-samiske elever vil medføre økte utgifter for fylkeskommunen, det vil si om tilskuddet faktisk dekker fylkeskommunens utgifter. Utvalget erfarer at tilskuddet dekker om lag en tredjedel av hva en undervisningstime koster for fylkeskommunen. Samtidig kan større undervisningsgrupper føre til at tilskuddet dekker en noe større andel av kostnaden enn i dag i noen fylkeskommuner.
+
+I mangel av et annet grunnlag anslår utvalget at en utvidelse av retten til opplæring i samisk til også å omfatte ikke-samiske elever som har hatt samiskopplæring i grunnskolen, totalt vil koste om lag 2–4 millioner kroner.
+
+Krav om opplæring i et samiskspråklig miljø
+
+Utvalget legger til grunn at kravet om opplæring i et samisk språklig miljø, se kapittel 33, er en videreføring av dagens regler, se blant annet Utdanningsdirektoratets Rammeverk for samisk fjernundervisning.[^1580]
+
+## Opplæring i og på norsk tegnspråk
+
+Utvalget foreslår i kapittel 34.3 økt fleksibilitet når det gjelder opplæring i og på norsk tegnspråk. Det er lite tilgjengelig informasjon om innholdet i og organiseringen av dagens opplæring i og på tegnspråk etter opplæringsloven §§ 2-6 og 5-1. Det betyr at det kan tenkes at en økt fleksibilitet vil føre til at flere elever i grunnskolen velger opplæring i norsk tegnspråk. Dette kan føre til en merkostnad for kommunen. Utvalget legger likevel til grunn at elever som bare har behov for opplæring i tegnspråk, sannsynligvis har vedtak etter § 5-1 i dag. Forslaget innebærer at disse elevene vil ha rett til ekstra timer til opplæringen i tegnspråk.
+
+Siden elever med hørselshemming er en relativt liten gruppe, vil forslaget mest sannsynlig ikke ha vesentlige økonomiske konsekvenser.
+
+## Universell opplæring og individuell tilrettelegging
+
+Plikten til forsterket innsats på alle trinn og for all opplæring innebærer ikke et krav om ekstra lærerressurser. Forslaget kan innebære økonomiske og administrative konsekvenser for kommunene dersom det må flere lærerressurser til for å oppfylle plikten til å gi forsterket innsats til elever. Forslaget kan på den annen side føre til at det blir mindre behov for individuelt tilrettelagt opplæring. Dermed kan forslaget frigjøre ressurser fra individuelt tilrettelagt opplæring til styrking av den universelle opplæringen.
+
+Forslaget om at kravet om sakkyndig vurdering fra den pedagogisk-psykologiske tjenesten ikke skal videreføres i forbindelse med vedtak om opplæring i og på tegnspråk, om punktskriftopplæring, om fritak fra opplæringsplikten, om tidlig skolestart, om utsatt skolestart, om personlig assistanse og om fysisk tilrettelegging, kan medføre en innsparing.
+
+Utvalget mener alt i alt at forslagene i kapittel 31 ikke vil ha vesentlige økonomiske eller administrative konsekvenser.
+
+## Rådgivning
+
+Utvalget foreslår i kapittel 42.6 endringer i reglene om rådgivning som innebærer at elevene skal ha god tilgang på rådgivning om sosiale og personlige forhold, og at elevene skal kunne få råd fra andre enn lærerne sine. Dersom forslaget følges opp, vil noen skoler, særlig grunnskoler, måtte organisere rådgivningen på en annen måte enn i dag. På den annen side kan det settes spørsmålstegn ved om rådgivningsplikten faktisk er oppfylt i grunnskolen i dag. I videregående skoler vil det ikke bli samme behov for endringer ettersom rådgivningstilbudet der som regel er organisert gjennom en egen rådgiver. Endringen kan ha noen administrative og økonomiske konsekvenser, men det antas at disse ikke er vesentlige hvis man sammenligner med dagens krav.
+
+Utvalget foreslår også i kapittel 29 at fylkeskommunen skal sørge for at lærlingene har tilgang til rådgivning. I NOU 2016: 7 *Norge i omstilling – karriereveiledning for individ og samfunn* (Karriereveiledningsutvalget) ble det lagt til grunn at en utvidelse av rådgivningsplikten til å omfatte lærlinger, lærekandidater og praksisbrevkandidater vil koste omlag 57 millioner kroner per år. Beregningen er gjort med utgangspunkt i tariffavtalens ressursnorm for rådgiver i videregående opplæring og antallet lærlinger.
+
+Opplæringslovutvalgets forslag gjelder både rådgivning om utdannings- og yrkesvalg og rådgivning om sosiale og personlige forhold. Forslaget innebærer ikke krav om at lærlinger skal ha tilgang til rådgivning hos lærebedriften. Fylkeskommunen kan ha tilbud om slik rådgivning ett sted i fylket, dersom digital rådgivning også er en del av rådgivningstilbudet. Forslaget innebærer heller ikke krav om en aktiv og oppsøkende rådgivning, men det skal være en mulighet for lærlingene til å oppsøke slik rådgivning ved behov. Utvalget legger derfor til grunn at kostnadene blir betydelig lavere enn anslaget fra Karriereveiledningsutvalget. Fra januar 2020 har fylkeskommunen fått overført midler i rammebevilgningen som tidligere ble brukt til en tilskuddsordning for fylkesvise karrieresentre. Kunnskapsdepartementet er nærmere til å vurdere om denne overføringen har betydning for hvilke merkostnader som legges til som følge av forslaget om å lovfeste at fylkeskommunen skal ha tilbud om rådgivning til lærlinger.
+
+## Leirskole
+
+Utvalget foreslår å ikke videreføre plikten for kommunen til å tilby leirskole eller annen skoletur i den nye loven, se kapittel 43.8. Det tidligere øremerkede tilskuddet til leirskoleopplæring er innlemmet i rammetilskuddet til kommunene.[^1581] Dersom forslaget følges opp kan Kunnskapsdepartementet la kommunene beholde midlene i rammetilskuddet eller gjeninnføre en øremerket tilskuddsordning. Sistnevnte vil ha noen administrative konsekvenser, men vil stimulere kommunene til å sende elevene på turer utover minimumskravene i læreplanverket.
+
+## Voksne elever
+
+Retten til grunnskoleopplæring for voksne
+
+Utvalget foreslår i kapittel 45.4.3 flere klargjøringer av vilkårene for retten til grunnskoleopplæring og forholdet mellom grunnskoleopplæring og andre tjenester. Forslaget innebærer at voksne som allerede har fått grunnskoleopplæring som var tilstrekkelig og forsvarlig på det tidspunktet den ble gitt, som hovedregel ikke har rett til ny grunnskoleopplæring. Dette innebærer for eksempel at en del voksne som mangler digitale ferdigheter, ikke vil ha rett til opplæring i slike ferdigheter gjennom grunnskoleopplæring. Det er uklart hva konsekvensene av dette forslaget vil være, fordi det er uklart hva som er dagens regler og hvordan loven er praktisert i dag.
+
+Retten til spesialundervisning for å utvikle og vedlikeholde grunnleggende ferdigheter foreslås ikke videreført. Den ordinære retten til spesialundervisning for voksne i grunnskoleopplæringen videreføres. Voksne som på grunn av skade eller sykdom har behov for opplæring i fag, deler av fag eller de grunnleggende ferdighetene som inngår i Læreplanverket for Kunnskapsløftet, har rett til fornyet grunnskoleopplæring. Behov for opplæring i andre ferdigheter utløser etter forslaget ikke rett til grunnskoleopplæring. For eksempel vil voksne som på grunn av skade eller sykdom har behov for å lære seg å gå igjen eller trenger opptrening i hverdagsaktiviteter, ikke ha rett til grunnskoleopplæring. Det er også uklart hva konsekvensene av dette forslaget vil være, fordi det er uklart hva som er dagens regler, og hvordan loven er praktisert i dag. Utvalget antar at de fleste voksne i slike tilfeller får opptrening og hjelp gjennom helsetjenester, men det er mulig at grunnskoleopplæring også i noen grad benyttes til dette. Utvalget legger til grunn at den voksne uansett vil få den hjelpen han eller hun trenger. Forslaget har først og fremst betydning for hvilken kommunal tjeneste som skal finansiere hjelpen, og hvilke rammeverk den skal foregå innenfor.
+
+Voksne som deltar i grunnskoleopplæring, kan fortsatt ha rett til opplæring i andre ferdigheter, men bare dersom dette er nødvendig for at de skal få tilfredsstillende utbytte av opplæringen. Også for denne delen av forslaget er det uklart hva konsekvensene vil være. Utvalget har forstått det slik at det er voksne som i dag i noen grad får for eksempel ADL-trening gjennom grunnskoleopplæringen selv om denne treningen ikke er nødvendig for den voksnes mulighet til å få tilfredsstillende utbytte av opplæringen. Konsekvensen av forslaget kan derfor være at deler av opptreningen som i dag skjer i grunnskoleopplæringen, i større grad må gjøres i boliger, varige tilrettelagte bedrifter eller lignende.
+
+Dagens regler er i dag uklare og retten til grunnskoleopplæring for voksne er trolig forstått og praktisert ulikt. Det er derfor usikkerhet om hva forslagene vil bety i praksis, både for kommunen og for den enkelte voksne. Utvalget mener høringen av NOU-en vil kunne gi et bedre grunnlag for å vurdere dette.
+
+Inntak, påbygging til generell studiekompetanse, individuell tilrettelegging, skyss, politiattest mv.
+
+Utvalget foreslår i kapittel 45.4 at voksne som ønsker det, skal tas inn på et opplæringstilbud som gir dem mulighet til å formalisere sin yrkeskompetanse eller oppnå studiekompetanse. Ut over dette foreslår utvalget at voksne skal ha rett til inntak på ett av tre opplæringstilbud som den voksne søker på. Opplæringstilbudene skal som i dag organiseres ut fra sluttkompetanse. Forslaget gir noe mindre valgfrihet for voksne som ønsker yrkeskompetanse, men som har liten eller ingen relevant arbeidserfaring. Endringen kan gi muligheter for effektivisering og økonomiske besparelser for fylkeskommunen.
+
+Forslaget i kapittel 45.4.4.8 om at retten til påbygging til generell studiekompetanse ikke begrenses til dem som har fullført og bestått fag- og yrkesopplæring etter 2014, gir en rett til påbygging til flere voksne og medfører følgelig ekstra kostnader for fylkeskommunen. Utvalget legger til grunn at det ikke vil være et betydelig antall voksne i denne alderen som ønsker å ta påbygg til generell studiekompetanse. Utvalget viser særlig til 23/5-regelen for dem som er over 23 år.
+
+Utvalget foreslår i kapittel 45.4 at rett til særskilt språkopplæring og rett til opplæring i samisk for voksne i grunnskoleopplæringen lovfestes. Utvalget legger til grunn at forslaget innebærer en lovfesting av dagens regler, og forslaget har derfor ikke økonomiske eller administrative konsekvenser. Det samme gjelder forslaget om individuell tilrettelegging for voksne i videregående opplæring.
+
+Utvalget foreslår i kapittel 45.4 en utvidelse av hvem som skal ha rett til skyss for voksne i grunnskoleopplæringen, ved at det også skal omfatte dem som har rett til slik opplæring, men som ikke mangler eller har mangelfull grunnskoleopplæring, eller som på grunn av sykdom eller skade trenger fornyet grunnskoleopplæring. Dette vil være en liten utvidelse ettersom det er lagt til grunn at man normalt ikke har rett til grunnskoleopplæring i andre tilfeller enn dette.
+
+Utvalget foreslår i kapittel 45.4 at alle reglene som gjelder for voksne som har rett til grunnskoleopplæring, gjelder for dem som tar imot tilbud om mer grunnskoleopplæring etter forslagets § 6-1. Forslaget anses ikke å ha økonomiske eller administrative konsekvenser, da det er frivillig for kommunen og fylkeskommunen å gi tilbud om mer grunnskoleopplæring.
+
+Forslaget i kapittel 45.4.21 om en innføring av krav om politiattest i grunnopplæringen for voksne vil ha visse administrative konsekvenser for kommunene, fylkeskommunene og staten, men utvalget legger til grunn at disse ikke vil være store.
+
+## Lærernormen
+
+Utvalget foreslår at gjeldende krav til lærernorm ikke videreføres. Utvalget foreslår flere regler i ny opplæringslov som skal bidra til at opplæringen i større grad gis av en lærer med relevant faglig og pedagogisk kompetanse, at lærerne får tid til å være lærere, og at opplæringen blir mer inkluderende og bedre møter elevenes behov, se omtale i kapittel 26.3. Samlet sett vil derfor ikke forslaget om å ikke videreføre lærernormen føre til besparelser, gitt at de andre kravene til bruk av lærere vil medføre merkostnader.
+
+## Statlig oppnevnte råd og utvalg
+
+Utvalget legger til grunn at Foreldreutvalget for grunnopplæringen (FUG), Samarbeidsrådet for yrkesopplæring (SRY) og de faglige rådene i det aller vesentligste skal ha de samme mandatene og rammevilkårene som i dag, eventuelt at departementet velger å gi disse organene flere oppgaver dersom det er hensiktsmessig. Forslaget i kapittel 47.4 er derfor ment å ikke ha økonomiske eller administrative konsekvenser.
+
+## Dokumentasjon, kunngjøring mv.
+
+Utvalget har flere forslag som øker den kommunale handlefriheten, men også forslag som fører til mindre kommunal handlefrihet. Blant forslagene som fører til mer fleksibilitet er forslagene om bare å lovfeste krav om sakkyndig vurdering fra PP-tjenesten i saker som gjelder individuelt tilrettelagt opplæring og ekstra opplæringstid i videregående opplæring. Se kapitlene 24 og 31.
+
+Utvalget foreslår i kapittel 36.4.6 også at kravet om dokumentasjon i skolemiljøsaker klargjøres, noe som kan føre til at den administrative byrden i skolene blir mindre. Utvalget foreslår i samme kapittel også enkelte endringer i håndhevingsordningen i skolemiljøsaker som kan føre til en raskere og mindre ressurskrevende behandling hos fylkesmannen og Utdanningsdirektoratet.
+
+Utvalget foreslår at alle forskrifter skal kunngjøres i Norsk Lovtidend. Dette kan føre til noe merarbeid for kommunene. Det har likevel etter hvert blitt enkelt å publisere reglene; dagens unntak ble vedtatt i en tid da det var mer krevende. Dersom de lokale forskriftene som er gitt med hjemmel i den nye loven, er kunngjort ett sted, vil det være lettere å finne fram til reglene. Andre særregler som ikke foreslås videreført, er krav om ulike systemer.
+
+## Likestilling og diskriminering
+
+Utvalget foreslår i kapittel 26.4 at elevene skal kunne deles i grupper etter kjønn, men opplæringen skal være kvalitativ lik. I lovforslaget er det også presisert at det bare åpnes for kjønnsdelt opplæring når «det er særleg tungtvegande grunnar til å gjere det». Lovforslaget er ellers i utgangspunktet kjønnsnøytralt, men utvalget viser til NOU 2019: 3 *Nye sjanser – bedre læring. Kjønnsforskjeller i skoleprestasjoner og utdanningsløp,* hvor det foreslås en rekke tiltak for å motvirke uheldige kjønnsforskjeller.
+
+Utvalget foreslår at det i loven ikke lenger åpnes for inndeling av elevene etter etnisitet, se kapittel 26.4. Utvalget foreslår at visse rettigheter fortsatt skal forbeholdes noen elevgrupper, for eksempel samiske elever. Utvalget mener at denne positive diskrimineringen er nødvendig for å oppfylle krav i både Grunnloven og internasjonale konvensjoner.

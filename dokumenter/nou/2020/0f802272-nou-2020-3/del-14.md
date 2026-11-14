@@ -1,920 +1,290 @@
-# NOU 2020: 3, del 14 av 42 (side 155–164)
+# NOU 2020: 3, del 14 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 155]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-153
-
-Kapittel 17
-
-for å fullføre faller relativt bratt. Størst er forskjellen i MN-fag og SV-fag, der har bare 10 prosent av studenter med 34,9 opptakspoeng eller
-lavere har fullført utdanningen sin i løpet av fem
-år etter oppstart (to år utover normert tid),
-mens tilsvarende andel for de med 45 poeng
-eller mer er 60 prosent på SV og 75 prosent på
-MN. Til sammenligning er det forholdsvis
-moderat frafall etter karakter i både sykepleie og
-førskolelærer: her fullfører drøyt 70 prosent av
-studentene med de laveste karakterene (34,9
-opptakspoeng eller lavere). Dermed ser vi at
-sammenhengen mellom karakterer og fullføring gjelder i noen fagområder, men ikke i alle
-(Hovdhaugen et al 2013:31f).
-
-let (Hovdhaugen et al 2013). En tidligere studie
-av allmennlærerutdanningen (Næss & Vibe
-2006) viser at det er en klar økning i andel som
-følger normert studieprogresjon til andre studieår etter innføringen av Kvalitetsreformen
-blant læresteder som har opptakskrav, sammenlignet med læresteder som ikke hadde opptakskrav på allmennlærerutdanningen (dvs.
-der alle søkere fikk plass), og det er også en
-liten men signifikant nedgang i frafallsraten
-etter første studieår. Lærerstudenter ved studiene som har opptakskrav produserer videre
-flere studiepoeng enn lærerstudenter på studiesteder som ikke har spesifikke opptakskrav
-(Næss & Vibe 2006:49).
-
-NIFU viser også på side 21 og 22 til undersøkelser
-om spesielle opptakskrav og effekten av dem:
-
-Til slutt i oppsummeringen på side 30 og 31 viser
-NIFU igjen til forholdet mellom karakterer og frafall:
-
-With og Mastekaasa (2014) undersøker innføringen av spesifikke opptakskrav i allmennlærerutdanningen og viser med beregninger
-hvilken effekt ulike typer opptakskrav har på
-fullføringsandelen i allmennlærerutdanningen.
-Fullføringen er ikke veldig god til normert tid:
-av de som ikke hadde krav knyttet til spesifikke
-fag fra videregående har 20 prosent fullført til
-normert tid, mens tilsvarende tall blant de som
-innfri kravet om minst 35 karakterpoeng og
-minst karakter 3 i norsk og matematikk er drøyt
-40 prosent og dersom det i tillegg kreves karakter 4 i stedet for 3 er fullføringen på 55 prosent
-til normert tid (With & Mastekaasa 2014:196).
-For alle grupper øker fullføringen dersom man
-gir dem mer tid, men forskjellene mellom gruppene opprettholdes etter 7 år har 75 prosent av
-gruppen som oppfyller de strengeste kravene
-fullført, mot 40 prosent av gruppen uten opptakskrav. With og Mastekaasa tolker dette som
-at «de strengere opptakskravene fra 2005 først
-og fremst førte til at man ikke lenger tok inn studenter som likevel ikke fullførte utdanningen,
-men at tiltaket hadde liten effekt på kvaliteten
-på lærer som faktisk endte opp med gjennomført utdanning» (With & Mastekaasa 2014:197).
-Dermed støtter denne studien opp om antakelsen at økte opptakskrav i en utdanning vil
-kunne bidra til å redusere frafallet. Utfordringen her er at noen fagområder vil slite med å
-fylle plassene med skjerpede opptakskrav, og
-det har for eksempel vist seg i lærerutdanning.
-En annen studie viser også at det var nedgang i
-søkningen, samtidig som studiestabiliteten
-blant lærerstudenter etter første studieår gikk
-opp i 2005-kullet, sammenlignet med 2003-kul-
-
-Felles for mange av disse studiene er at de
-viser at sosial bakgrunn (i form av foreldres
-utdanningsnivå) og særlig tidligere karakter
-[…] har mye å si, i hvert fall for det å slutte helt
-i utdanning. Derimot er det flere studier som
-peker på at karakterer ikke har like mye å si for
-det å skifte studiested. Dermed er det ikke sikkert at strengere opptakskrav er svaret på alle
-spørsmål relatert til frafall og fullføring. I tillegg er det slik at mange studier i det masseutdanningssystemet som Norge har ikke har
-anledning til å sette særlig mye strengere opptakskrav enn de allerede har, dersom de skal
-klare å ta opp og utdanne så mange kandidater
-som målet fra Kunnskapsdepartementet tilsier
-at de skal. Dette vises blant annet i With og
-Mastekaasa (2014) som ser på hvilke konsekvenser de første strengere opptakskravene på
-lærerutdanningen hadde. Det finnes ikke noen
-oppfølgingsstudier som har sett nærmere på
-hvilke konsekvenser dagens opptakskrav har.
-En stor undersøkelse fra Danmarks Evalueringsinstitut i 2015 konkluderer slik om emnet:21
-Undersøgelsen viser, at studerende med høje
-adgangsgivende karakterer gennemsnitligt set
-(a) har mindre sandsynlighed for at falde fra
-inden for det første år på studiet,
-
-21
-
-Uddannelses- og Forskningsudvalget 2014-15. Gymnasiekarakterers betydning for succes på videregående uddannelser. Hentet fra https://www.ft.dk/samling/20141/almdel/
-fiv/bilag/140/1505261.pdf.
-
-[Side 156]
-
-154
-
-NOU 2020: 3
-
-Kapittel 17
-
-Ny lov om universiteter og høyskoler
-
-(b) har større sandsynlighed for at klare sig
-godt nok til at blive optaget på en ph.d.uddannelse, og
-(c) har mindre sandsynlighed for at ende i
-ledighed, når de er færdige med deres
-uddannelse.
-Utvalget mener at det er en sammenheng mellom
-karakterer fra videregående opplæring, differensierte opptakskrav og omfanget av frafall og
-gjennomføring i høyere utdanning. Frafallsanalysen Statistisk sentralbyrå (SSB) gjorde for Kunnskapsdepartementet, viste at gjennomføringen av
-bachelorstudier på normert tid er over dobbelt så
-høy blant dem som har 50 karakterpoeng eller
-flere, som blant dem som har 30 eller færre. Frafallet ved normert tid pluss to år er seks ganger så
-høyt i sistnevnte gruppe.22 Dette viser at det er en
-sammenheng mellom opptaksregler og frafall og
-gjennomstrømning ved universitetene og høyskolene. Utvalget mener derfor det er hensiktsmessig å se på om endrede opptakskrav kan gi
-mindre frafall og bedre gjennomstrømning.
-Utvalget viser også til at det som nevnt fremgår av arbeidsnotatet Årsaker til frafall i høyere
-utdanning at det for en rekke studier er en sammenheng mellom lave karakterer fra videregående opplæring og frafall («drop-out») fra studiet.
-Utvalget viser til at flere undersøkelser peker på
-at svake karakterer og langt opphold mellom
-videregående og høyere utdanning antas å påvirke
-gjennomføringsevnen, og at også manglende
-skrive- og leseferdigheter påvirker det samme.
-I 2015 publiserte NIFU en rapport om overgangen fra videregående opplæring til høyere
-utdanning.23 NIFU undersøkte om de studieforberedende utdanningsprogrammene i videregående
-opplæring faktisk forbereder elevene på overgangen til høyere utdanning. Metoden var gruppeintervjuer med elever og lærere i videregående
-opplæring og med studenter og faglig ansatte i
-høyere utdanning innenfor ulike fag og institusjoner. Alle intervjuene tok utgangspunkt i kompetansemål for norsk i videregående opplæring.
-Et av momentene mange universitets- og høyskolelærere fremhevet, var at nye studenter har
-22
-
-Statistisk sentralbyrå (SSB). Frafall i universitets- og høgskoleutdanninger. SSB Analyse 2019/17 https://
-www.ssb.no/utdanning/artikler-og-publikasjoner/halvparten-av-bachelorstudentene-fullforer-ikke-pa-normert-tid
-hentet 05.11.2019.
-23 Lødding, Berit og Per Olaf Aamodt. Studieforberedt etter studieforberedende? Overgangen mellom studieforberedende
-utdanningsprogram og høyere utdanning belyst gjennom
-gruppesamtaler med lærere, studenter og elever. NIFU-rapport 2015:28.
-
-sviktende ferdigheter i skriving, og NIFU mente
-at det var interessant «at studentenes skriveferdigheter tematiseres i så ulike utdanninger
-som jus, ingeniør/sivilingeniør, lektorutdanning
-og idrettsfag».24 Også flere av de intervjuede
-lærerne i videregående skole uttrykte bekymring
-for elevenes skriveferdigheter. Dette bekreftet til
-en viss grad også studentene og elevene, som fortalte at de hadde prioritert å skrive innenfor
-bestemte sjangre som de følte at de behersket, og
-at dette hadde gitt et svakt grunnlag for kravene
-som stilles i høyere utdanning.25 I den forbindelse
-bemerket NIFU følgende:
-[Det er] interessant å merke seg forutsetninger i Kunnskapsløftet om at skriveopplæring
-skal foregå i alle fag, og at dette budskapet i
-begrenset grad synes å være mottatt i grunnopplæringen.26
-En annen bekymring universitets- og høyskolelærere hadde, var at de nye studentene hadde
-sviktende leseferdigheter. Dette bekreftet også
-flere lærere i videregående skole. Ifølge dem er
-det et økende problem at elevene, og ikke minst
-mange av guttene, har lite trening i å lese lange
-tekster. Universitets- og høyskolelærerne viser i
-tillegg til at mange studenter har svake ferdigheter i å trekke ut essensen av det de leser, og i å
-vurdere informasjon kritisk. NIFU mener at flere
-av svakhetene ved videregående opplæring slik de
-går frem av denne undersøkelsen, er i tråd med
-den forståelsen som Ludvigsenutvalget har:
-Det gjelder for eksempel stofftrengsel og
-behov for fordypning samt dypere forståelse
-fremfor kjennskap til et mangfold av temaer på
-en overfladisk måte.27
-Utvalget ser at ved å innføre særlige minstekrav til
-for eksempel karakter så signaliserer man at et
-bestått fag fra videregående opplæring ikke er tilstrekkelig for å klare kravene som studentene
-møter i høyere utdanning. I dag er det tilstrekkelig å kun ha bestått fagene (karakteren 2) for å ha
-et gyldig vitnemål og oppnå generell studiekompetanse. En konsekvens av skjerpede opptakskrav kan bli at den videregående opplæringen
-må endre kravene til fagsammensetning eller til
-læringsutbytte. Det kan også føre til mindre
-24
-25
-26
-27
-
-NIFU (2015) s. 33.
-NIFU (2015) s. 80.
-NIFU (2015) s. 20.
-NIFU (2015) s. 77.
-
-[Side 157]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-interesse for fag som ikke teller med i opptaksgrunnlaget, og til en innsnevring av den brede fagsammensetningen i videregående opplæring. Nye
-opptakskrav, som et skjerpet krav til generell
-studiekompetanse, kan skape et større skille mellom store og mindre institusjoner i universitetsog høyskolesektoren, i byene og ute i distriktene.
-Det vil også komplisere studie- og karriereveiledningen. Det vil dessuten tvinge elevene til å velge
-retning på utdanningen tidligere, allerede i ungdomsskolen.
-Liedutvalget fikk i oppdrag å vurdere
-endringer i videregående opplæring. Bakgrunnen var at det ikke har skjedd dyptgripende
-endringer i videregående opplæring siden Reform
-94, og at elevene i hovedsak møter samme tilbud
-og organisering i opplæringen som for 20 år siden.
-Fylkeskommunens ansvar for videregående opplæring og prinsippene for trepartssamarbeidet i
-fagopplæringen mellom nasjonale myndigheter,
-skoleeier (det vil si fylkeskommunen) og arbeidsliv har også stort sett vært uendret siden Reform
-94. Liedutvalget leverte en delrapport i desember
-201828 og en hovedrapport i desember 2019.29 Et
-av spørsmålene som Liedutvalget stilte i sin første
-utredning, og som de forsøkte å besvare i sin
-endelige rapport, er om generell studiekompetanse er for generell. Dette spørsmålet er også
-relevant i en opptaksdiskusjon. Liedutvalget foreslår i sin hovedrapport at retten til videregående
-opplæring skal utvides fra en rett til tre års opplæring til en rett til fullføring med studie- eller
-yrkeskompetanse. Det vises til at mange elever
-starter i videregående opplæring med et svakt faglig grunnlag, og de står i fare for å ikke gjennomføre opplæringen. Det foreslås flere tiltak som
-skal hjelpe elevene til å mestre opplæringen slik at
-de blir kvalifisert for videre utdanning, arbeidslivet og aktiv samfunnsdeltakelse. Opplæringen
-skal tilrettelegges slik at elevene ikke lenger må
-gå i takt. Liedutvalget foreslår at omfang og innretting av fellesfagene endres og at de studieforberedende utdanningsprogrammene endres.
-Dette vil få konsekvenser for påbygging til generell studiekompetanse.
-Utvalget vil videre peke på at utfordringene
-når det gjelder gjennomføringen og frafallet i
-høyere utdanning i mange tilfeller henger
-sammen med den læringen elevene får i videre28
-
-NOU 2018: 15 Kvalifisert, forberedt og motivert – Et kunnskapsgrunnlag om struktur og innhold i videregående opplæring.
-29
-NOU 2019: 25 Med rett til å mestre – Struktur og innhold i
-videregående opplæring.
-
-155
-
-Kapittel 17
-
-gående skole. Disse problemene kan ikke løses
-ved å heve inntakskravet til høyere utdanning.
-Utvalget mener derfor at en endring av kunnskapsforvaltningen i grunnskole og videregående
-skole må skje i samarbeid med høyere utdanning,
-slik at dagens høye frafall ved universiteter og
-høyskoler ikke fortsetter.
-Det er ikke alle som vil, kan eller bør ta høyere
-utdanning. Det finnes gode og viktige alternativer
-til høyere utdanning. Studier ved universiteter og
-høyskoler er av en akademisk, teoretisk karakter.
-For dem som er mer praktisk enn teoretisk anlagt,
-vil utdanning ved for eksempel en fagskole, som
-legger mer vekt på praktisk erfaring og kompetanse, være et godt alternativ. Norge står midt
-oppi en viktig omstilling i norsk økonomi og
-næringsliv. Det er estimert at Norge vil trenge
-opp mot 100 000 flere fagarbeidere innen 2030.
-Regjeringen har uttalt at den ønsker å løfte fagskolene, og mener at satsingen vil føre til at
-mange studenter og bransjer får ny og spennende
-kunnskap. Utvalget presiserer at fagskoleutdanning skal gjøre folk kvalifisert for arbeidslivet.
-Hensikten er ikke primært å gjøre dem kvalifisert
-for høyere utdanning. Utvalget mener at fagskoleutdanning er en påbygging av videregående opplæring, ikke en alternativ vei inn i høyere utdanning. Å gjøre veien til høyere utdanning lettere for
-fagskolestudenter er med på å devaluere fagskoleutdanningen.
-Utvalget viser for øvrig til omtalen av NIFUs
-kartlegging ovenfor. Der går det frem at universiteter og høyskoler mener lese- og skriveferdighetene til nye studenter er så svake at det går
-utøver evnen til å tilegne seg læring. Man kan derfor spørre seg om bare bestått karakter i norskfaget er tilstrekkelig for å gjennomføre høyere
-utdanning. Hvis myndighetene av forskjellige
-grunner ikke ønsker å stille høyere norskkrav ved
-opptak til høyere utdanning, må de i alle fall ikke
-lempe på dette kravet. Arbeidet med å styrke leseog skriveferdigheter må skje allerede i barnehage
-og grunnskole. Det er når karakterene kommer i
-ungdomsskole og videregående at det er tydelige
-forskjeller på jenter og gutters skrive- og leseferdigheter. Det er denne effekten som universiteter og høyskoler får se konsekvensene av både
-ved opptak og gjennomføring av studiene.30
-I Meld. St. 9 (2016–2017) Fagfolk for fremtiden
-– Fagskoleutdanning ble det slått fast at søkere
-med fagskoleutdanning ikke trenger å oppfylle
-kravet i norsk. Opptaksforskriften § 2-4 første
-30
-
-Aune, Helga. Like læringsmuligheter for jenter og gutter i
-barnehage og skole. Bergen: Fagbokforlaget, 2019.
-
-[Side 158]
-
-156
-
-Kapittel 17
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-ledd ble etter dette endret slik at disse søkerne
-ikke lenger møter krav om norsk. «Søkjarar som
-har fullført 2-årig fagskoleutdanning (120
-fagskolepoeng/studiepoeng frå fagskole) som er
-godkjend etter lov 20. juni 2003 nr. 56 om fagskoleutdanning eller lov 8. juni 2018 nr. 28, får
-generell studiekompetanse», jf. opptaksforskriften § 2-4 første ledd.
-I lys av funnene NIFU-rapporten viser til,
-mener utvalget det er betenkelig at de studentene
-som først oppnår generell studiekompetanse ved
-å studere to år ved en fagskole, og som ønsker å
-studere videre ved et universitet eller en høyskole, ikke møter de samme kravene til
-norskkunnskaper som de som får generell studiekompetanse fra videregående opplæring. Selv de
-som ikke hadde generell studiekompetanse fra
-videregående skole, men som har oppnådd generell studiekompetanse etter å ha bestått 60 studiepoeng fra et universitet eller en høyskole må oppfylle kravene til norsk. I henhold til tidligere forskrift om opptak til høyere utdanning fikk gruppen med bakgrunn fra fagskoleutdanning generell
-studiekompetanse under forutsetning av at de
-også oppfylte kravet om norsk (393 timer), jf.
-omtalen av dette opptaksgrunnlaget under punkt
-17.2.3. Bestemmelsen i opptaksforskriften § 2-4
-om opptak på grunnlag av fullført fagskoleutdanning kan få urimelige utslag, fordi norskfagets
-mange karakterer ikke kan vektes inn for denne
-gruppen i opptaket. Norskfaget teller mye for
-gjennomsnittskarakteren for elever med vitnemål
-fra norsk videregående opplæring. Bestemmelsen
-kan dessuten ha uheldige konsekvenser for denne
-gruppens evne til å gjennomføre utdanningen.
-Utvalget foreslår derfor at det presiseres i lovforslaget at også søkere som får opptak på bakgrunn
-av fagskoleutdanning må oppfylle kravet til norskkunnskaper som følger av kravet til generell studiekompetanse.
-Utvalget stiller videre spørsmål ved om
-bestemmelsen i opptaksforskriften § 2-4 om opptak på grunnlag av fullført fagskoleutdanning er
-heldig utformet. Bestemmelsen presiserer ikke at
-dette gjelder søkere som ikke hadde generell studiekompetanse, slik tilsvarende bestemmelse i
-§ 2-3 gjør for dem som tar høyere utdanning og
-ikke i utgangspunktet har generell studiekompetanse. Dette betyr at saksbehandlere i opptaket
-må dobbeltbehandle slike søknader. Dette er uheldig og kan neppe ha vært Kunnskapsdepartementets intensjon når departementet endret opptaksforskriften.
-Selv om ikke høyere utdanning er for alle og
-mange faller fra underveis i studiet, mener utval-
-
-get at løsningen ikke nødvendigvis ligger i å
-gjøre porten inn til høyere utdanning smalere
-enn den er i dag. Ved å heve opptakskravene kan
-vi risikere å miste verdifulle søkere. Mange er
-unge når de velger hvilken utdanning de skal
-søke seg til. De fleste bruker tid på å modnes i
-studiet, og for noen er det riktig å skifte studium
-underveis. Opptaksreglene må etter utvalgets
-mening ta høyde for dette. Utvalget foreslår derfor å videreføre dagens opptakskrav om generell
-studiekompetanse. Utvalget foreslår også å
-videreføre dagens unntak fra kravet om generell
-studiekompetanse. Enkelte av bestemmelsene
-som i dag fremgår av opptaksforskriften foreslås
-nå lovfestet.
-
-17.4.3 Spesielle opptakskrav
-Utvalget har merket seg en tydelig tendens til at
-enkelte fagmiljøer ønsker spesielle opptakskrav.
-Slike krav kan være at søkerne har tatt spesielle
-fag i videregående opplæring, eventuelt kombinert med karakterkrav, eller det kan være poengog karakterkrav i fagene som inngår i generell
-studiekompetanse. Ved det samordnede opptaket
-til studieåret 2018/2019 hadde 35 prosent av studiene spesielle opptakskrav utover generell studiekompetanse i form av krav til fagsammensetning og fordypning i fag og/eller minstekrav til
-karakter.
-Utvalget viser til at Meld. St. 16 (2016–2017)
-Kultur for kvalitet i høyere utdanning (Kvalitetsmeldingen) foreslo at universitetene og høyskolene selv burde kunne stille andre «utfyllende
-spesielle opptakskrav» til enkeltstudier, altså
-strengere krav enn det som følger av dagens
-regelverk. Bakgrunnen for forslaget var blant
-annet at mange studenter stryker i sentrale
-emner, særlig innen realfag og teknologistudier.
-Det er en oppfatning om at generell studiekompetanse ikke gir tilstrekkelig grunnlag for å gjennomføre enkelte studier. I Prop. 64 L (2017–2018)
-Endringer i universitets- og høyskoleloven (NOKUTs oppgaver, eksamen og personvern mv.) foreslo
-derfor Kunnskapsdepartementet en lovendring
-som åpnet for at institusjonene skulle ha mulighet
-til selv å stille spesielle og strengere krav for opptak til enkeltstudier.
-Forslaget ble ikke vedtatt i Stortinget. Flertallet i utdannings- og forskningskomiteen la vekt
-på at det ville bli mer krevende og kostbart å
-administrere det samordnede opptaket, at det ville
-bli vanskeligere for søkere å orientere seg om
-opptakskravene, og at det kunne oppstå A- og Butdanninger innenfor enkelte utdanningstyper
-
-[Side 159]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-157
-
-Kapittel 17
-
-opplæring. Kontakten mellom videregående opplæring og høyere utdanning bør derfor også bli
-tettere. Utvalget ber departementet i samarbeid
-med utdanningsinstitusjonene å vurdere om
-generell studiekompetanse gjør en søker tilstrekkelig studieforberedt.
-Utvalgsmedlemmet Søvig mener at den kommende loven allerede nå bør inneholde regler
-som hindrer at mange unge bruker den første
-delen av sitt voksenliv til å ta om igjen fag fra videregående. Regelverket bør i større grad gi uttelling for akademisk utdanning fremfor gjentakelse
-av videregående. Dessuten bør man for enkelte
-utdanninger vurdere om de høye inntakskravene
-gir skjev rekruttering. Det er ikke gitt at de som
-lykkes desidert best i videregående, alltid er mest
-egnet til høyere utdanning.
-
-som tilbys ved ulike institusjoner, jf. Innst. 381 L
-(2017–2018)31.
-Fra studieåret 2018/2019 og i fem år fremover skal Norges teknisk-naturvitenskapelige
-universitet (NTNU), Universitetet i Bergen, Universitetet i Oslo (UiO) og Universitetet i Tromsø
-– Norges arktiske universitet teste ut om det å
-kreve matematikk R2 (naturfaglig matematikk
-på høyeste nivå i videregående opplæring) for
-flere studier innen realfag, natur- og miljøfag
-fører til andre resultater. Fra og med studieåret
-2019/2020 er også Universitetet i Stavanger med
-i forsøksordningen. UiO tester dette på sitt informatikkstudium. Alle, med unntak av NTNU, tester det også på sin lektorutdanning i realfag. Bakgrunnen for at disse institusjonene søkte om å få
-teste ut krav om ekstra kunnskaper i matematikk, var et ønske om at studentene skulle ha
-bedre matematiske forkunnskaper, og at de
-skulle ha hatt matematikk alle årene i videregående opplæring. Slik skulle man få studenter
-som hadde bedre forutsetninger for å gjennomføre de aktuelle realfagsstudiene.
-Utvalget ser at det finnes argumenter mot spesielle opptakskrav. Flere spesielle opptakskrav
-kan bidra til å svekke kravet om generell studiekompetanse. Videregående opplæring har fremdeles preg av å være en allmenndannende utdanning som består av et vidt spekter av fag, og elevene må bestå alle fagene for å kunne søke om opptak til høyere utdanning.
-Når det gjelder spørsmålet om karakterer er
-det beste kriteriet for opptak til høyere utdanning, eller om man burde vurdere andre ordninger – som at opptaket også baseres på en nasjonal opptaksprøve, eller at det ikke er anledning
-til å ta opp igjen fag for å forbedre karaktersnittet
-–, mener utvalget at universitetene og høyskolene er de beste til å vurdere hvilket grunnlag
-som bør kreves for å kunne gjennomføre studier
-ved institusjonene. Det er også institusjonene
-som vet hva det betyr å være best mulig studieforberedt. Utvalget anbefaler derfor at forslag til
-eventuelle endringer i opptaksgrunnlaget, for
-eksempel en eventuell skjerping av karakterkravet ved opptak til enkelte utdanninger og en
-minimumsgrense for poeng ved opptak, bør
-være gjenstand for utredninger og analyser som
-kobler studentenes gjennomføring av studier
-sammen med resultatene deres fra videregående
-
-I dag får søkere tilleggspoeng for språk- og realfag
-de tar i videregående opplæring. Tilleggspoeng i
-språkfag får elevene når de tar fordypning i et tredjespråk, det vil si et annet språk enn norsk og
-engelsk. For realfag får søkere tilleggspoeng for å
-ta for eksempel fysikk, kjemi eller biologi. Som
-omtalt under gjeldende rett punkt 17.2.5.3.1 så kan
-elever få maksimalt fire tilleggspoeng for fag de tar
-i videregående opplæring.
-Utvalget er kjent med at enkelte fylkeskommuner opplever at regelen om språkpoeng fører til
-mange privatisteksamener i programfag i fremmedspråk. Privatistkontorene opplever at både
-nåværende og tidligere elever, samt voksne med
-og uten rett til videregående opplæring, melder
-seg opp som privatist i fremmedspråk på alle
-nivåer. Dette er utelukkende for å få flest mulig
-karakterer i tillegg til full uttelling for språkpoeng.
-Disse fagene kan ikke føres på vitnemålet, men
-tas med i poengberegningen av Samordna opptak
-når disse personene søker om opptak til høyere
-utdanning.
-Her følger et eksempel som viser hvordan
-søkere med et svakt karaktersnitt kan komme inn
-på konkurranseutsatte studier foran søkere med
-opprinnelig bedre snitt:
-En person har tatt studiekompetansefagene
-som voksen med voksenrett.32 Studiekompetansefagene er de seks fagene man må ha bestått
-
-31
-
-32
-
-Innst. 381 L (2017–2018) Innstilling fra kommunal- og forvaltningskomiteen om Representantforslag fra stortingsrepresentantene Sandra Borch, Per Olaf Lundteigen, Ole André
-Myhrvold og Geir Pollestad om økt bruk av tre som byggemateriale.
-
-17.4.4 Tilleggspoeng for språkfag fra
-videregående opplæring
-
-Voksenrett er for personer over 25 år som har fullført
-grunnskolen eller tilsvarende i Norge eller et annet land,
-men ikke fullført videregående opplæring, samt de som har
-fullført videregående opplæring i et annet land, men som
-ikke får godkjent denne opplæringen i Norge.
-
-[Side 160]
-
-158
-
-Kapittel 17
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-for å få generell studiekompetanse,33 og de kan
-tas enten som en del av videregående skole eller
-i tillegg til praksis etter 23/5-regelen. Personen
-har fått 2,5 i snitt. For å forbedre snittet sitt, melder personen seg opp som privatist og avlegger
-eksamen i fremmedspråk (som programfag) da
-vedkommende snakker og skriver to språk, for
-eksempel arabisk og hebraisk. Personen avlegger så eksamen på nivå II og III i begge disse
-språkene. Til sammen blir dette åtte eksamener
-(fire skriftlige og fire muntlige). Siden dette er et
-språk som brukes i den regionen personen opprinnelig kom fra, er det ikke utenkelig at personen får karakteren 6 på disse åtte eksamenene.
-Hvis det legges til åtte seksere stiger karaktersnittet fra 2,5 til 4,25. I tillegg vil personen få
-1,5 språkpoeng. Da får personen et snitt på 4,4
-konkurransepoeng.
-Utvalget stiller spørsmål ved om dette
-systemet med tilleggspoeng for språk sikrer at
-søkere har de rette forutsetningene for å gjennomføre et studium hvor det er krav om over 4 i
-snitt for å komme inn. Personen har oppnådd
-dette snittet fordi vedkommende er blitt testet i
-sitt morsmål eller tilsvarende, og dette kan oppfattes som urimelig for søkere som har et karaktersnitt fra videregående opplæring på 4,3, og som
-blir forbigått ved opptak til et studium.
-Utvalget mener derfor at Kunnskapsdepartementet bør se nærmere på reglene om språkpoeng. Det er utvalgets oppfatning at dagens
-regler for tildeling av språkpoeng ikke er rettferdig overfor søkere som ikke har denne muligheten, og slik denne praksisen har utviklet seg
-umulig kan være i henhold til hensynet bak innføringen av disse språkpoengene. Et mulig alternativ som departementet kan vurdere er at det
-bare gis språkpoeng for programfag tatt på høyeste nivå (fremmedspråk nivå III), samtidig som
-det ikke gis uttelling for lavere nivå (både når det
-gjelder karakterer og i form av språkpoeng) hvis
-man allerede har bestått eksamen på et høyere
-nivå. Dette er i samsvar med gjeldende regelverk
-fra Utdanningsdirektoratet for føring av vitnemål
-for videregående opplæring. Ifølge dette regelverket er det bare karakter på øverste nivå som
-føres på vitnemålet.34
-
-33
-
-De seks fagene tilsvarer ett år på videregående skole men
-kan også tas som privatist.
-34
-Jf. Utdanningsdirektoratet. Føring av vitnemål og kompetansebevis for videregående opplæring i Kunnskapsløftet
-2020, punkt 5.8 https://www.udir.no/eksamen-og-prover/
-dokumentasjon/vitnemal-og-kompetansebevis/foring-vitnemal-kompetansebevis-vgs/ hentet 16.1.2020.
-
-17.4.5 Tilleggspoeng til det
-underrepresenterte kjønn og forholdet
-til EUs likestillingsdirektiv
-I Samordna opptaks sluttstatistikk fra 2017 fremgår det at kjønnsfordelingen ved opptak til studier
-ved universiteter og høyskoler har vært stabil de
-siste 10 årene. I 2017 var det 58,2 prosent kvinner
-som møtte til studiestart. Til sammenligning var
-det 58,5 prosent kvinner som søkte opptak til høyere studier. Kjønnsforskjellen i den totale studentmassen skyldes i hovedsak at flere kvinner enn
-menn søker om opptak. For studier med stor konkurranse om studieplassene er det høy grad av
-sammenheng mellom andel kvalifiserte søkere og
-andel tilbud fordelt på kjønn.
-I dag kan det underrepresenterte kjønn få inntil to tilleggspoeng ved opptak til studier hvor
-kjønnsfordelingen i studiet og yrket er særdeles
-skjev. Departementet har, som nevnt under gjeldende rett punkt 17.2.5.3.2, lagt til grunn en 80–
-20-fordeling som grense for hva som regnes som
-særdeles skjev kjønnsfordeling. Tilleggspoeng for
-det underrepresenterte kjønn innebærer at myndighetene bevisst velger å gi søkere av det ene
-kjønn et gode som det andre kjønn ikke får (positiv særbehandling).
-Grunnlovens likhets- og ikke-diskrimineringsprinsipp gjelder alle mennesker. Grunnloven § 98
-første ledd fastslår at «alle er like for loven».
-I enkelte tilfeller kan det åpnes for positiv særbehandling. Dersom formålet med forskjellsbehandlingen er å fremme likestilling, er det likestillings- og diskrimineringsloven § 9 som gjelder.
-Bestemmelsen åpner for lovlig forskjellsbehandling av det ene kjønn når forskjellsbehandlingen
-har et saklig formål, er nødvendig for å oppnå
-lovens formål og tiltaket ikke er uforholdsmessig
-inngripende overfor den eller dem som forskjellsbehandles.
-Å gi tilleggspoeng til det ene kjønn ved opptak
-til høyere utdanning må regnes som en direkte
-forskjellsbehandling på grunn av kjønn. Slik forskjellsbehandling er i utgangspunktet forbudt, jf.
-likestillings- og diskrimineringsloven § 6. Loven
-åpner likevel for at direkte forskjellsbehandling
-kan tillates i visse sammenhenger. Ifølge likestillings- og diskrimineringsloven § 11, kan positiv
-særbehandling som har til formål å fremme likestilling og hindre diskriminering tillates hvis
-a) særbehandlingen er egnet til å fremme
-lovens formål,
-b) det er et rimelig forhold mellom formålet
-man ønsker å oppnå og hvor inngripende
-
-[Side 161]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-særbehandlingen er for den eller de som
-stilles dårligere og
-c) særbehandlingen opphører når formålet
-med den er oppnådd.
-Positiv særbehandling omfatter tiltak som skal
-bidra til å hindre eller dempe strukturelle og institusjonaliserte skjevheter mellom kvinner og
-menn. Særbehandling er kun tillatt overfor grupper og individer som ellers ville hatt svakere
-muligheter innenfor det aktuelle samfunnsområdet. Positiv særbehandling må derfor være rettet
-mot det underrepresenterte kjønn.
-Jo mer inngripende tiltak det er snakk om,
-desto strengere skal vilkårene for særbehandling
-tolkes. Dette skyldes at positiv særbehandling av
-det ene kjønn kan være svært inngripende og oppleves urettferdig for personer som tilhører det
-kjønn som kommer dårligere ut som følge av tiltaket. Den strenge tolkningen av vilkårene for
-positiv særbehandling er blant annet en følge av at
-likestillings- og diskrimineringsloven må tolkes i
-samsvar med EUs likestillingsdirektiv (2006/54/
-EF). EU-domstolen og EFTA-domstolen har lagt
-seg på en restriktiv linje i denne type saker, jf.
-omtalen av dette nedenfor.
-Utvalget mener at det i visse tilfeller er hensiktsmessig og ønskelig å kunne særbehandle ett
-kjønn fremfor det andre for å oppnå større grad av
-likestilling mellom kjønnene på et overordnet
-nivå, og dermed jevne ut strukturelle forskjeller i
-samfunnet. Dette kan bidra til at det over tid oppstår ønskede endringer i samfunnsstrukturer og
-mindre diskriminering av individet. Men utvalget
-stiller spørsmål ved om en slik særbehandling i
-form av tilleggspoeng til det underrepresenterte
-kjønn er i overenstemmelse med likestillingsregelverket og EUs likestillingsdirektiv.
-
-17.4.5.1 EUs regelverk og rettspraksis –
-forskjellsbehandling av kjønn ved
-ansettelse
-Europaparlaments- og rådsdirektiv 2006/54/EF
-av 5. juli 2006 om gjennomføring av prinsippet
-om like muligheter for og likebehandling av
-menn og kvinner i forbindelse med arbeid og
-yrkesdeltakelse (likestillingsdirektivet) gjelder
-kjønnslikestilling. Likestillingsdirektivet er gjennomført i norsk rett gjennom likestillings- og diskrimineringsloven. Direktivet innebærer også en
-kodifisering av EU-domstolens rettspraksis.
-Dette fremgår av rådsdirektivets fortale punkt 1.
-Direktivet gjelder i utgangspunktet likestilling
-mellom menn og kvinner i arbeidsmarkedet,
-
-159
-
-Kapittel 17
-
-men legges også til grunn for likestilling generelt.
-Av rådsdirektivets fortale punkt 22 fremgår
-følgende om mulighetene for å særbehandle ett
-kjønn fremfor det andre (dansk versjon):
-I henhold til traktatens artikel 141, stk. 4, og for
-at sikre fuld ligestilling mellem mænd og kvinder i praksis på arbejdsmarkedet er princippet
-om ligebehandling ikke til hinder for, at medlemsstater opretholder eller vedtager foranstaltninger, der tager sigte på at indføre specifikke fordele, der har til formål at gøre det lettere for det underrepræsenterede køn at udøve
-en erhvervsaktivitet eller at forebygge eller
-opveje ulemper i den erhvervsmæssige karriere. I betragtning af den nuværende situation
-og under hensyntagen til erklæring nr. 28 i
-Amsterdam- traktaten bør medlemsstaterne i
-første række bestræbe sig på at forbedre kvindernes stilling på arbejdsmarkedet.
-EU-domstolen (tidligere EF-domstolen) har
-behandlet en rekke saker hvor det har vært spørsmål om lovligheten av positiv særbehandling til
-fordel for kvinner i henhold til det tidligere likebehandlingsdirektivet (rådsdirektiv 76/207/
-EØF). Av saker i EU-domstolen er blant annet sak
-C-450/93 (Kalanke)35, sak C-409/95 (Marschall)36,
-sak C-407/98 (Abrahamsson)37 og C-158/97
-(Badeck)38 av interesse.
-Marschall-saken gjaldt ansettelse. En mannlig
-arbeidssøker ble forbigått av en kvinne på grunn
-av (tysk) nasjonal lovgivning som krevde at
-kvinnelige søkere skulle foretrekkes ved like kvalifikasjoner dersom kvinner var underrepresentert. Dersom det var individuelle forhold hos den
-mannlige arbeidssøkeren som veide tyngre, gjaldt
-ikke denne regelen. Domstolen slo fast at ordningen kunne tillattes under visse forutsetninger.
-Det var et krav at kvinner var underrepresentert,
-og at den kvinnelige og den mannlige søkeren
-35
-
-36
-
-37
-
-38
-
-European Court Reports. Case C-450/93. Kalanke v. Freie
-Hansestadt Bremen. Hentet fra https://eur-lex.europa.eu/
-legal-content/EN/TXT/?uri=CELEX%3A61993CJ0450.
-European Court Reports. Case C-409/95. Marschall v. Land
-Nordrhein-Westfalen.
-Hentet
-fra
-https://eurlex.europa.eu/legal-content/EN/TXT/
-?uri=CELEX%3A61995CJ0409.
-European Court Reports. Case C-407/98. Abrahamsson og
-Anderson v. Fogelqvist. Hentet fra https://eurlex.europa.eu/legal-content/EN/TXT/
-?qid=1574154457437&uri=CELEX:61998CJ0407.
-European Court Reports. Case C-158/97. Badeck m.fl. v.
-Staatsgerichtshof des Landes Hessen. Hentet fra https://
-eur-lex.europa.eu/legal-content/EN/TXT/
-?uri=CELEX%3A61997CJ0158.
-
-[Side 162]
-
-160
-
-NOU 2020: 3
-
-Kapittel 17
-
-Ny lov om universiteter og høyskoler
-
-hadde like gode kvalifikasjoner. Det ble også stilt
-et krav om at søkerne skulle gis en objektiv og
-individuell vurdering, og at det ikke skulle gis et
-ubetinget fortrinn til en kvinnelig søker.
-Kalanke-saken omhandlet fortrinnsrett til
-kvinner i forbindelse med ansettelse. I denne
-saken var det italieneren Guiseppe Tesauro som
-var generaladvokat39. I sin innstilling40 drøftet
-Tesauro sakens rettslige sider med utgangspunkt
-i det daværende likebehandlingsdirektivet 76/
-207. I innstillingen ble de forskjellige typene positiv diskriminering gjennomgått, og selv om de var
-ulike, hadde alle det til felles at de formelt var å
-anse som brudd på det grunnleggende prinsippet
-om likhet for loven. Videre drøftet generaladvokaten hva som menes med direktivets formulering
-«like muligheter». Generaladvokaten hevdet tilsynelatende at de eneste formene for positiv særbehandling av kvinner som kan tillates, er de som
-er nødvendige for å fjerne hindringer som gjør at
-kvinner og menn ikke kan konkurrere på likt
-grunnlag. Det må kreves at det er virkemidler
-som tar sikte på at kjønnene starter med samme
-utgangspunkt i konkurransen, ikke virkemidler
-som garanterer det ene kjønn et mer fordelaktig
-sluttresultat.
-Tesauro konkluderte med å slå fast at etter
-hans syn tillater ikke direktivet den type positiv
-diskriminering av kvinner som den tyske lovgivningen hjemlet. Som begrunnelse viste han til
-at formålet med likebehandlingsdirektivet var å
-sikre begge kjønn like muligheter, ikke å garantere kvinner jobben i tilfeller der omstendighetene
-var like.
-Da EU-domstolen avsa sin dom et halvt års tid
-etter at generaladvokaten hadde avgitt sin innstilling, kom den til samme resultat. De sentrale
-delene av domstolens begrunnelse kommer frem
-i premissene 22–24, som lyder slik (i den danske
-versjonen):
-22 En national ordning, som giver kvinder en
-absolut og ubetinget fortrinsstilling ved
-udnævnelse eller forfremmelse, går videre
-end til at fremme lige muligheder og over39
-
-EU-domstolen består av 28 dommere og ni generaladvokater. Generaladvokaten bistår domstolen og skal være fullstendig upartisk og uavhengig. Han eller hun fremsetter
-forslag til avgjørelse i de saker som de blir forelagt. Ofte følger domstolen generaladvokatens forslag.
-40
-Forslag til afgørelse fra generaladvokat Tesauro – sag C-450/
-93 fremsat den 6. april 1995. Hentet fra http://
-curia.europa.eu/juris/showPdf.jsf;jsessionid=040AA2073AD5295B69571F54C2838405?text=&docid=99456&pageIndex=0&doclang=DA&mode=lst&dir=&occ=first&part=1&c
-id=2309016.
-
-skrider dermed grænserne for den i direktivets artikel 2, stk 4, fastsatte undtagelse.
-23 Dessuden erstatter en sådan ordning – for
-så vidt som den tilsigter at skabe lige repræsentation af kvinder i forhold til mænd i alle
-lønklasser og på alle kompetenceniveauer
-på et arbejdssted – den i artikel 2, stk 4,
-omhandlede målsætning om at fremme lige
-muligheder med det resultat, som kun
-virkeliggjørelsen af sådanne lige muligheder kan føre til.
-24 De forelagte spørsmål skal derfor besvares
-med, at direktivets artikel 2, stk 1 og 4, er til
-hinder for en national lovgivning, der som i
-denne sag – når ansøgerne af forskelligt
-køn, der er udvalgt med henblik på forfremmelse, er lige kvalificerede – automatisk
-giver kvindelige ansøgere en fortrinsstilling på områder, hvor kvinder er underrepræsenteret, idet der antages at foreligge
-underrepræsentation, når kvinder ikke
-udgør mindst halvdelen af de ansatte i de
-enkelte lønklasser i den pågældende personale-gruppe, og dette også gælder for de
-forskellige kompetenceniveauer i organisationsplanen.
-Etter dette konkluderte EU-domstolen med å slå
-fast at nasjonal lovgivning som automatisk gir
-kvinner fortrinnsrett i tilfeller der de er det underrepresenterte kjønn var i strid med EUs likebehandlingsdirektiv.
-Abrahamsson-saken gjaldt ansettelse av en
-professor ved et universitet i Sverige. Etter den
-svenske högskoleforordningen var det tidligere
-adgang til å foretrekke søkere av det underrepresenterte kjønn, selv om søkeren ikke var likt kvalifisert med søkere av det overrepresenterte kjønn.
-Domstolen la til grunn at dersom søkerne var like
-godt kvalifisert, skulle disse vurderes objektivt og
-individuelt for at ordningen skulle kunne anses å
-være forenlig med direktivet. Domstolen slo imidlertid fast at det ikke var i strid med direktivet
-[A]t en ansøger, der tilhører det underrepræsenterede køn, kan foretrækkes frem for en
-medansøger af det motsatte køn, når ansøgerne med hensyn til kvalifikationer kan anses
-for jævnbyrdige eller tilnærmelsesvis jævnbyrdige, forudsat at ansøgningerne vurderes
-objektivt under hensyntagen til alle ansøgeres
-særlige, personlige forhold.
-Det kan sluttes av dette at det ikke er adgang til å
-gi en ubetinget fortrinnsrett til søkere av det
-
-[Side 163]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-underrepresenterte kjønn, men at ved «like» kvalifikasjoner kan det, etter en individuell og objektiv vurdering, være tillatt å særbehandle det
-underrepresenterte kjønn.
-I Badeck-saken tok domstolen stilling blant
-annet til spørsmål om særbehandling av kvinner
-innen akademia. Domstolen kom til at likebehandlingsdirektivets artikkel 2 (1) og (4) ikke
-var til hinder for at kvinner ble gitt fortrinnsrett
-til stillinger innenfor offentlig forvaltning dersom en kvinnelig og mannlig søker var likt kvalifisert og kvinner var underrepresentert. Vilkåret
-var videre at det ikke var mer tungtveiende rettslige grunner for et annet resultat, og at søkerne
-ble bedømt objektivt ut fra deres særlige, personlige forhold.
-Domstolen tok deretter stilling til om det var i
-strid med direktivet å tildele minst halvparten av
-utdanningsplassene (praksisplasser) til kvinner i
-fag innenfor offentlig sektor der kvinner var
-underrepresentert. Kravet om at kvinnelige
-søkere var like godt kvalifisert som mannlige
-søkere, gjaldt da ikke. Domstolen vektla at andelen menn kunne økes dersom det ikke var tilstrekkelig med kvinnelige søkere. Ordningen innebar
-ikke at det ble innført en fast kvote. Domstolen
-uttalte følgende i premiss 52:
-Den i hovedsagen omhandlede bestemmelse
-må ses som udtryk for en indskrænkende fortolkning af begrebet lige muligheder for kvinder. Det er ikke tale om stillinger, som forbeholdes kvinder, men om uddannelsespladser,
-der skal give mulighed for at opnå de nødvendige kvalifikationer til senere at få adgang til
-kvalificeret arbejde i den offentlige forvaltning.
-Videre la domstolen vekt på at dette gjaldt utdanningsplasser (praksisplasser) som ikke ble tilbudt
-av staten alene, men som også ble tilbudt i privat
-sektor, og der var ikke menn utelukket. Ordningen var en del av en rekke tiltak som tok sikte på å
-fjerne årsakene til at kvinner hadde dårligere
-muligheter til arbeid. Denne ordningen anså domstolen for å være i tråd med direktivet siden det
-var mulig for menn å få slike utdanningsplasser
-(praksisplasser) innenfor privat sektor.
-Disse sakene ble også omtalt i Ot.prp. nr. 77
-(2000–2001)41. Blant annet skriver Barne- og
-
-41
-
-Ot.prp. nr. 77 (2000–2001) Om lov om endringer i likestillingsloven mv. (plikt til å arbeide for likestilling, skjerping av
-forbudet mot forskjellsbehandling på grunn av kjønn, forbud
-mot seksuell trakassering mv.).
-
-161
-
-Kapittel 17
-
-familiedepartementet på side 60 følgende om
-hvordan dommene forstås:
-Både Kalankesaken, Marschallsaken og
-Badecksaken tar stilling til såkalt ‘moderat kvotering’, dvs. at kvinner bare går foran menn
-hvis de er like godt (eller tilnærmet like godt)
-kvalifisert. Europakommisjonen har utledet
-enkelte konklusjoner med utgangspunkt i de
-tre første dommene. Det framholdes for det
-første at tiltak som faller inn under positiv særbehandling skal anses som unntak fra likebehandlingsprinsippet. For det andre gjelder
-denne unntaksadgangen i artikkel 2 (4) bare
-tiltak som har til hensikt å eliminere eller redusere faktiske forskjeller mellom kjønnene. For
-det tredje konkluderes det med at automatisk
-fortrinnsrett til kvinner når det gjelder ansettelse eller forfremmelse på områder hvor de er
-underrepresentert ikke er tillatt. Dette må ses
-i sammenheng med at EF-domstolen har slått
-fast at positiv særbehandling skal være et middel for å oppnå like muligheter og ikke likt
-resultat. Til sist konkluderes med at fortrinnsrett kan tillates dersom den nasjonale regelen
-ikke gir automatisk fortrinnsrett og regelen
-garanterer like godt kvalifiserte mannlige
-søkere en objektiv vurdering av deres situasjon
-der en tar i betraktning alle kriterier som knytter seg spesifikt til hver enkelt kandidat uavhengig av kjønn.
-
-17.4.5.2 Svensk rettspraksis – forskjellsbehandling
-av kjønn ved opptak til høyere utdanning
-Særbehandling av ett kjønn fremfor et annet og
-særbehandling på bakgrunn av etnisitet ved opptak til enkelte studier har ved flere anledninger
-blitt klaget inn for svenske rettsinstanser på bakgrunn av påstått diskriminering. Den mest kjente
-saken omhandler særbehandling av ett kjønn ved
-opptak til veterinærstudiet og ble fremmet for
-Svea hovrätt.
-Tidligere var det i Sverige mulig å diskriminere direkte på grunn av kjønn ved opptak til høyere utdanning, jf. kapittel 7, § 12 i den tidligere
-Högskoleforordningen. Formålet med denne
-bestemmelsen var å sikre en bedre kjønnsfordeling i studiene. Bestemmelsen var i likhet med
-bestemmelsen i den norske opptaksforskriften,
-kjønnsnøytral. I Sverige ble den primært brukt for
-å særbehandle menn (og dermed diskriminere
-kvinner) ved opptak til veterinær-, odontologi-,
-medisin-, og psykologistudiet. Bestemmelsen ble
-avskaffet som følge av dommen i veterinærsaken.
-
-[Side 164]
-
-162
-
-Kapittel 17
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Saken for Svea hovrätt42, og før det Uppsala
-tingrett, gjaldt spørsmålet om hvorvidt kvinner
-hadde blitt diskriminert på grunn av kjønn ved
-opptak til veterinærstudiet ved Sveriges landbruksuniversitet. Kvinner og menn ble vektet
-ulikt i kvoten for dem som hadde folkehögskoleutdanning. Denne kvoten var i utgangspunktet
-liten i forhold til «ordinær»-kvoten. Særbehandlingen, som hadde til formål å øke antall menn på
-studiet, besto i at mennene ble bedre vektet i
-loddtrekningen, slik at de hadde større sjanse for
-å bli tildelt plass. I 2006 fikk menn alle de aktuelle
-studieplassene (tre i alt), og også året etter gikk
-alle plassene i denne kvoten til menn (fem i alt).
-Retten konkluderte med at det hadde skjedd
-en direkte diskriminering av kvinner som hadde
-søkt opptak på studiet, idet de som følge av særbehandlingen hadde mindre sjanse til å få studieplass enn det menn hadde. Retten uttalte at selv
-om hensynet til en bedre kjønnssammensetning i
-yrket kan legitimere en slik særbehandling, fant
-retten imidlertid at muligheten til å oppnå økt likestilling mellom kjønnene gjennom slik særbehandling var «högst begransad». Uttalelsene i
-denne dommen viser at det er veldig lite rom for
-direkte kjønnsdiskriminerende tiltak.
-
-17.4.5.3 Utvalgets vurdering av
-forskjellsbehandling av kjønn ved
-opptak til høyere utdanning
-Utvalget viser til at for at ett kjønn skal kunne særbehandles fremfor det andre må særbehandlingen
-være egnet til å fremme likestillings- og diskrimineringslovens formål. I dette ligger for det første at tiltaket må fremme likestilling og hindre diskriminering. For det andre ligger det i dette et krav om at
-tiltaket faktisk er egnet og fungerer i praksis.
-Positiv særbehandling skal veie opp for de
-ulempene enkelte har, som følge av ulike muligheter som skyldes historiske og kulturelle forhold
-(omtales som strukturelle forhold) og i visse tilfeller kan positiv særbehandling være nødvendig
-for å sikre reelt like muligheter og forhindre diskriminering. Det må altså foreligge barrierer som
-hindrer at personer som tilhører underrepresenterte grupper, får samme muligheter som andre.
-Selv om barrierer ofte gir utslag i underrepresentasjon, er ikke underrepresentasjon nødvendigvis
-alene nok til å legitimere særtiltak, dersom det
-42
-
-Svea hovrätt. Dom meddelad den 21. december 2009.
-Hentet fra https://socwork.gu.se/digitalAssets/1448/
-1448141_svea-hovr--tt-t-3552-09.pdf
-
-ikke kan påvises at det foreligger barrierer eller
-ulemper knyttet til kjønn.
-Regelen om positiv særbehandling krever at
-det må være et rimelig forhold mellom det formålet man ønsker å oppnå og hvor inngripende
-forskjellsbehandlingen er, for den eller dem som
-stilles dårligere. I vurderingen av forholdsmessighet er det vesentlig å vurdere effekten av tiltaket
-opp mot hvor inngripende det er. Hvor strengt forholdsmessighetsvilkåret skal tolkes når det gjelder positiv særbehandling ved opptak til utdanning, er ikke helt klart. EU-domstolen har tatt stilling til lovligheten av positiv særbehandling i forbindelse med praksisplasser, men har foreløpig
-ikke vurdert lovligheten av tilleggspoeng ved opptak til studier.
-I og med at tiltaket må opphøre når formålet er
-nådd, er den klare hovedregelen at særbehandlingstiltak skal være midlertidige.
-Det rettslige spørsmålet ved forskjellsbehandling på grunn av kjønn ved opptak til høyere
-utdanning, er om det at det forhold at gutter har
-dårligere karakterer fra videregående (og ungdomsskolen) kan sies å være begrunnet i at gutter
-har fått færre muligheter enn jenter til å lykkes i
-skolen. For universiteter og høyskoler er spørsmålet om de skal rette opp den urett som gutter
-har vært utsatt for på lavere utdanningsnivåer.
-Utvalget viser til at EU-domstolens avgjørelser har
-trukket opp grensene for forholdsmessighetsvurderingen i saker om positiv særbehandling av
-kvinner ved ansettelser. Selv om disse dommene
-gjelder særbehandling i arbeidslivet, må de også
-få virkning for vurderingene vi gjør når det er
-snakk om opptak til studier ved universiteter og
-høyskoler. Utvalgsmedlem Stine Jørgensen påpeker i boken På vei – kjønn og rett i Norden i kapittelet «Køn og uddannelse» at prinsippet om ikkediskriminering på basis av kjønn er et grunnleggende prinsipp i EU-retten.43 Videre skriver
-hun følgende:
-[U]anset at EU ikke har en selvstændig kompetence på uddannelsesområdet, følger det af fast
-praksis, at de enkelte landes nationale indretninger på uddannelsesområdet skal leve op til
-de unionsretlige krav.
-Det er også klart at denne særbehandlingen, i
-henhold til gjeldende likestillings- og diskrimineringslov, også må gjelde for menn. Formålet må
-43
-
-Jørgensen, Stine. Køn og uddannelse. I På vei – kjønn og
-rett i Norden. Eva Maria Svensson m.fl. (red.). Göteborg:
-Makadam förlag, 2011.
+## Gjeldende rett
+
+### Studentopptak
+
+Det følger av universitets- og høyskoleloven[^223] § 3-7 fjerde ledd at «departementet kan fastsette adgangsregulering når det er nødvendig etter en samlet vurdering av utdanningen i landet». Slik regulering vil i praksis skje gjennom behandlingen av det årlige budsjettet, i form av bindende forutsetninger for budsjettildelingene til de enkelte institusjonene. Bestemmelsen gir departementet myndighet til å fastsette slike begrensninger også ved enkeltvedtak eller forskrift, utenfor eller uavhengig av budsjettbehandlingen. Den gir altså departementet adgang til å regulere opptaket selv om institusjonen mener at den har kapasitet til å ta opp flere studenter på det aktuelle studiet. Bestemmelsen har blant annet blitt brukt til å begrense antall leger som utdannes i landet.
+
+Opptakstall fra det samordnede opptaket for studieåret 2019/2020
+
+Opptakstall fra det samordnede opptaket for studieåret 2019/2020 viser følgende om antall søkere og antall studieplasser i høyere utdanning:
+
+- 773 999 studieønsker ble behandlet i det samordnede opptaket.
+
+- 135 521 søkere ble behandlet i hovedopptaket.
+
+- 121 018 søkere er kvalifisert for opptak til høyere utdanning.
+
+- 99 319 søkere har fått tilbud om studieplass ved hovedopptaket.
+
+- 57 482 søkere har fått tilbud om studieplass på sitt førstevalg.
+
+- 21 699 kvalifiserte søkere sto per 18. juli uten tilbud.
+
+Institusjonene hadde til dette opptaket meldt inn 58 741 studieplasser til Samordna opptak, mot 57 462 plasser i fjor. Det vil si at antallet studieplasser økte med 1 279 eller 2,2 prosent.
+
+Ved årets opptak ble 39 845 tilbud gitt til menn, mens 59 474 tilbud ble gitt til kvinner. Dette gir en kvinneandel på 59,9 prosent.
+
+I tillegg til det nasjonale samordnede opptaket skjer opptak til de fleste master- og videreutdanninger gjennom lokale opptak ved den enkelte utdanningsinstitusjonen. Da bruker søkerne institusjonens søknadsportal, og dette opptaket kan ha andre frister og opptakskrav enn hvis man søker gjennom Samordna opptak.
+
+Ifølge tall fra Statistisk sentralbyrå (SSB) per 2010 hadde 65,7 prosent av dem som ble tatt opp til høyere utdanning fullført en grad innen åtte år.<sup>1</sup> I 2018 var det omkring 278 000 studenter ved universitetene og høyskolene. En analyse fra SSB fra 2019 viser at bare et knapt flertall av studentene på bachelorutdanninger fullfører graden på normert tid. De eldste studentene er dårligst til å fullføre, og flere kvinner enn menn fullfører.<sup>2</sup> En forskningsoppsummering har sett nærmere på mulige årsaker til dette frafallet, jf. NIFUs arbeidsnotat 03/2019 *Årsaker til frafall i høyere utdanning*<sup>3</sup>. Denne rapporten er nærmere omtalt under punkt 17.4.2.
+
+<sup>1</sup> Statistisk sentralbyrå (SSB). Gjennomføring ved universiteter og høgskoler https://www.ssb.no/hugjen hentet 16.1.2020.
+
+<sup>2</sup> Statistisk sentralbyrå (SSB). Frafall i universitets- og høgskoleutdanninger. SSB Analyse 2019/17 https://www.ssb.no/utdanning/artikler-og-publikasjoner/halvparten-av-bachelorstudentene-fullforer-ikke-pa-normert-tid hentet 05.11.2019.
+
+<sup>3</sup> Hovdhaugen, Elisabeth. *Årsaker til frafall i høyere utdanning. En forskningsoppsummering av studier basert på norske data*. NIFU Arbeidsnotat 2019:3. Hentet fra https://nifu.brage.unit.no/nifu-xmlui/bitstream/handle/11250/2593810/NIFUarbeidsnotat2019-3.pdf?sequence=1&isAllowed=y.
+
+\[Boks slutt\]
+
+Bestemmelsen gir departementet et generelt og sterkt styringsinstrument for å påvirke sammensetningen av det samlede utdanningstilbudet. Departementet kan for eksempel gripe inn og sette begrensninger i opptaket på studier eller fag hvor de mener det er overkapasitet, eller de kan bruke bestemmelsen som et virkemiddel til å få overført ressurser fra ett studium eller fag til et annet. I Ot.prp. nr. 40 (2001–2002)[^224] punkt 12.1.9, merknad til § 39 nr. 2, s. 69, uttaler departementet at:
+
+denne muligheten har vært lite brukt de siste årene, men departementet ønsker å videreføre den av hensyn til fremtidig behov for samordning av opptakskapasitet på nasjonalt nivå.
+
+Det følger videre av § 3-7 femte ledd at «\[n\]år kapasitetshensyn eller ressurshensyn krever det, kan styret selv regulere adgangen til det enkelte studium eller deler av det, innenfor de rammer og mål som gis av departementet». I forbindelse med behandlingen av denne bestemmelsen står det følgende i Ot.prp. nr. 40 (2001–2002) punkt 12.1.9, merknad til § 39 nr. 1, s. 69:
+
+Når styret skal regulere adgangen til det enkelte studium, er det lite hensiktsmessig at departementet på vegne av universitetenes styrer må forelegge retningslinjer for opptak for Stortinget.
+
+Generell studiekompetanse og rangering av søkere ved opptak til høyere utdanning – kort historikk
+
+Opprinnelig fastsatte universitetene og de vitenskapelige høyskolene opptaksreglene sine selv, mens departementet fastsatte opptaksreglene for høyskolesektoren. I NOU 1988: 28 *Med viten og vilje* foreslo Hernesutvalget å innføre felles regler for generell studiekompetanse, basert på bestått eksamen fra allmennfaglig studieretning i videregående opplæring. Det skulle fremdeles være mulig å fastsette spesielle opptakskrav, men de skulle begrenses mest mulig. Utvalget mente likevel at begynnerundervisningen ved universiteter og høyskoler burde forutsette «høyeste faglige nivå» fra videregående skole.
+
+I september 1990 oppnevnte departementet en arbeidsgruppe for å utrede og fremme forslag til opplegg for et samordnet studentopptak til all grunnutdanning innen høyere utdanning (Bjørn Pedersenutvalget). Utvalgets mandat var blant annet å sikre optimal utnyttelse av studiekapasiteten og rasjonell og betryggende behandling av søkerne, herunder personvernhensyn. Som ledd i arbeidet, skulle arbeidsgruppen utarbeide forslag til et informasjonssystem som kan håndtere opptaket.
+
+Utvalget leverte i desember 1990 en beskrivelse av det mangfoldet som utgjorde regelverket for opptak til høyere utdanning. I høyskolesektoren var det ulike opptaksregler for hver enkelt utdanning eller for samme høyskoleslag, og disse var fastsatt av departementet. Universitetsloven av 1989<sup>1</sup> ga departementet myndighet til å fastsette det generelle opptaksgrunnlaget for både universiteter og høyskoler, mens universitetene og de vitenskapelige høyskolene fortsatt kunne fastsette regler om rangering og spesielle opptakskrav. Det var styret ved den enkelte institusjonen som fastsatte de spesielle opptakskravene, mens rangeringsreglene ble fastsatt på avdelingsnivå.
+
+Dette førte til ulike opptaksregler innenfor samme institusjon og ulike opptaksregler til det samme studiet ved flere universiteter. Det var vanskelig å orientere seg når det gjaldt både opptakskrav og regler for rangering av søkerne og opptak til høyere utdanning var særdeles uoversiktlig.
+
+I mai 1991 leverte Bjørn Pedersenutvalget en ny utredning med forslag til felles regler for opptak til høyere utdanning, før de i sin tredje rapport i januar 1992 kom med forslag til veien videre.
+
+Med bakgrunn i forslagene fra Bjørn Pedersen-utvalget ble universitetene og de vitenskapelige høyskolene høsten 1991 bedt av departementet om å endre opptaksreglene sine slik at de fulgte de samme prinsippene som reglene for høyskolene. Dette resulterte i en viss harmonisering, men det var fremdeles forskjeller når det gjaldt hvor mye skolepoeng telte i forhold til annen erfaring. Det var også et gjennomgående trekk at tilleggspoeng for alder ga mindre uttelling ved opptak til universiteter og vitenskapelige høyskoler enn fullført høyere utdanning.
+
+Samtidig med Bjørn Pedersenutvalget la Blegenutvalget frem NOU 1991: 4 *Veien videre til studie- og yrkeskompetanse for alle*. Blegen-utvalget anbefalte at det ble etablert et felles grunnlag for opptak til høyere utdanning med de fagkravene som fortsatt ligger i generell studiekompetanse.
+
+Anbefalingene fra de to utvalgene lå til grunn for etableringen av tjenesten Samordna opptak og det felles regelverket som ble fastsatt etter at Stortinget vedtok en ny felles lov om universiteter og høyskoler i 1995<sup>2</sup>. Departementet fastsatte generell studiekompetanse i november 1995, med virkning fra opptak til studieåret 1996/1997 for universiteter og høyskoler.
+
+Universitets- og høyskoleloven av 1995 hjemlet departementets rett til å fastsette regler om utdanningskrav for opptak og regler om rangering av søkere til universiteter og høyskoler. Departementet forskriftsfestet det generelle grunnlaget for opptak som student (generell studiekompetanse) med krav til fagsammensetning og timefordeling i videregående opplæring.
+
+I St.meld. nr. 49 (1996–97) *Prinsipp for rangering av søkjarar til studium ved universitet og høgskolar* gjorde departementet rede for prinsippene de la til grunn ved rangering av kvalifiserte søkere til høyere utdanning. Departementet mente blant annet at det burde være et felles regelverk for rangering av søkere til universiteter og høyskoler, og at dette burde innføres fra studieåret 1999/2000. Dette ville medføre at den foreslåtte primærvitnemålskvoten ville omfatte de tre årskullene som da hadde fullført treårig utdanning etter Reform 94.
+
+I NOU 2003: 30 *I første rekke. Forsterket kvalitet i en grunnopplæring for alle* foreslo Søgnenutvalget å erstatte generell studiekompetanse med et nytt begrep: «generelt studieforberedt». Utvalget foreslo at fullført videregående opplæring skulle gjøre elevene generelt studieforberedt, uavhengig av utdanningsprogram. Forslaget møtte sterk motstand, ikke minst i universitets- og høyskolesektoren. Da departementet la frem St.meld. nr. 30 (2003–2004) *Kultur for læring,* som var en oppfølging av Søgnenutvalgets arbeid, foreslo de å utvide kravene til generell studiekompetanse til også å omfatte et annet fremmedspråk enn engelsk. Dette forslaget fikk flertall i Stortinget, men det ble ikke gjennomført på grunn av regjeringsskiftet etter stortingsvalget i 2005.
+
+<sup>1</sup> Lov 16. juni 1989 nr. 77 om universiteter og vitenskapelige høgskoler (universitetsloven).
+
+<sup>2</sup> Lov 12. mai 1995 nr. 22 om universiteter og høgskoler (universitetsloven).
+
+\[Boks slutt\]
+
+### Grunnlaget for opptak til høyere utdanning – generell studiekompetanse
+
+I dag er det formelle grunnlaget for opptak til lavere grads studier ved universiteter og høyskoler generell studiekompetanse, jf. universitets- og høyskoleloven § 3-6 første ledd. Det fremgår av denne bestemmelsen at det generelle grunnlaget for opptak som student er fullført og bestått norsk videregående opplæring med de kravene til fagsammensetning og timefordeling som departementet fastsetter. Fagsammensetning og timefordeling følger av opptaksforskriften[^225] § 2-1 første ledd. Fagkravene er oppgitt i klokketimer, slik at søkeren må ha bestått fagene norsk med 393 timer, matematikk med 224 timer, engelsk, historie og naturfag med 140 timer hver, og samfunnsfag med 84 timer. For norsk og historie er det mulig med en viss reduksjon i timeantallet for søkere med samisk eller finsk bakgrunn, jf. opptaksforskriften § 2-1 andre ledd.
+
+Universitets- og høyskoleloven § 3-6 første ledd andre punktum hjemler departementets mulighet til å fastsette at også annen utdanning, eller en kombinasjon av utdanning og yrkespraksis, kan være et generelt opptaksgrunnlag. Det har departementet gjort i opptaksforskriften § 2-1 første ledd bokstav b. Etter denne bestemmelsen kan også personer som ikke har bestått norsk videregående opplæring med de fastsatte kravene til fagsammensetning og timefordeling, søke om opptak til høyere utdanning. Søkere som fyller 23 år i løpet av opptaksåret, og som kan dokumentere minimum fem års fulltids arbeidserfaring og/eller utdanning, får på bakgrunn av dette generelt opptaksgrunnlag, det vil si generell studiekompetanse. Omsorg for barn og militær førstegangstjeneste[^226] likestilles med arbeidserfaring. Som utdanning gjelder bestått årstrinn i videregående opplæring, godkjent årskurs fra folkehøyskole og/eller eksamen fra utdanning som har vart i minst ett år. Også disse søkerne må oppfylle fagkravene og timefordelingsantallet som følger av opptaksforskriften § 2-1 første ledd. Denne bestemmelsen omtales ofte som 23/5-regelen.
+
+Prinsippet om 23/5-regelen ble presisert i Ot.prp. nr. 79 (2003–2004)[^227] i merknaden til universitets- og høyskoleloven § 3-6 første ledd:
+
+Annet generelt opptaksgrunnlag vil bl.a. være \[…\] individuell vurdering av yrkespraksis/utdanning ved 23 års alder, \[…\] kombinert med eksamen i spesifiserte allmenne fag.
+
+I tillegg er man etter opptaksforskriften § 2-2 første ledd kvalifisert for opptak til høyere utdanning hvis man har bestått videregående utdanning fra et av de andre nordiske landene. Dette følger av Reykjavik-erklæringen fra 1971[^228] (revidert en rekke ganger siden). Denne nordiske avtalen gjelder gjensidig godkjenning av utdanning. Avtalen omfatter godkjenning av studieperioder og eksamener og muligheten til å kombinere utdanning fra flere nordiske land. I artikkel 1 i Reykjavik-erklæringen står det:
+
+Partene forplikter seg gjensidig til å gi utdanningssøkende som er bosatt i et annet nordisk land adgang til sin offentlige høyere utdanning på samme eller likeverdige vilkår som søkere fra sitt eget land. En utdanningssøkende som er berettiget til å søke høyere utdanning i det land vedkommende er bosatt, er også berettiget til å søke høyere utdanning i de andre nordiske land. Partene forplikter seg videre til på beste måte å arbeide for at tilsvarende anvendes på private, offentlig godkjente og finansierte høyere utdanningsinstitusjoner.
+
+Det er ikke tilleggskrav om norsk når den videregående utdanningen gir generelt opptaksgrunnlag til universiteter og høyskoler i de respektive landene.
+
+Søkere som har utdanning fra land utenfor Norden, må i tillegg til å dokumentere bestått utdanning på nivå med norsk treårig videregående opplæring som gir generell studiekompetanse i henhold til GSU-listen, dokumentere kunnskaper i norsk på et nærmere definert nivå, jf. opptaksforskriften § 2-2 andre ledd. GSU-listen inneholder informasjon om hva slags utdanning søkere med utenlandsk utdanning må ha for å kunne få opptak til universiteter og høyskoler i Norge. Listen er bindende ved opptak til lavere grad ved universiteter og høyskoler. Den er veiledende for opptak til høyere grads studier og når NOKUT vurderer generell godkjenning av utenlandsk utdanning. Tildeling av utdanningsstøtte fra Lånekassen er også forankret i GSU-listens nivåvurderinger.
+
+Det følger av universitets- og høyskoleloven § 3-6 sjette ledd at den som er tatt opp som student ved en utdanningsinstitusjon under loven, har adgang til delta i åpne studier ved de øvrige utdanningsinstitusjonene. Dette forutsetter at opptakskravet til studiet er generell studiekompetanse, og at søkeren ikke er tatt opp med hjemmel i lovbestemmelsens andre, tredje eller fjerde ledd. En søker oppnår altså «nasjonal» generell studiekompetanse hvis hun eller han får godkjent generell studiekompetanse ved én institusjon som er regulert av universitets- og høyskoleloven. Unntak fra kravet om generell studiekompetanse for enkelte fag eller studier etter universitets- og høyskoleloven § 3-6 andre, tredje og fjerde ledd, kan således ikke gjøres gjeldende ved andre studier eller institusjoner enn der unntaket i sin tid ble innvilget.
+
+Det finnes flere unntak fra kravet om generell studiekompetanse. For noen studier er det også fastsatt spesielle opptakskrav i tillegg til kravet om generell studiekompetanse. Dette er omtalt under i punkt 17.2.4 og under utvalgets vurderinger i punkt 17.4.3.
+
+Det følger av opptaksforskriften § 2-3 at søkere som er tatt opp til høyere utdanning på grunnlag av regler om unntak fra kravet om generell studiekompetanse, jf. kapittel 3 i opptaksforskriften, og som har bestått en slik utdanning på minst ett år (60 studiepoeng), får generell studiekompetanse hvis de kan dokumentere norskkunnskaper. De som har fullført fagskoleutdanning med et omfang på 120 studiepoeng (tilsvarende to studieår), vil også oppnå generell studiekompetanse, men må ikke på samme måte som de som har tatt høyere utdanning, dokumentere norskkunnskaper, jf. opptaksforskriften § 2-4, se punkt 17.4.2 for en nærmere omtale av dette.
+
+Det følger av universitets- og høyskoleloven § 3-7 niende ledd at dersom en institusjon har rekruttert utenlandske studenter ved å benytte eksterne formidlingstjenester, har institusjonen blant annet ansvar for at studentene har fått tilfredsstillende informasjon om de studier vedkommende er opptatt til, herunder om studiets oppbygging, hvilken tid studiet er normert til og hvilke faglige krav som stilles.
+
+### Unntak fra kravet om generell studiekompetanse
+
+#### Y-vei
+
+For søkere som ikke har generell studiekompetanse, og som ønsker å studere innenfor enkelte ingeniørutdanninger, følger det av opptaksforskriften § 3-3 at det er mulig å søke om opptak til en spesielt tilrettelagt ingeniørutdanning. Dette opptaksgrunnlaget omtales ofte som «Y-veien». Y-veien er spesielt tilrettelagte studieprogrammer for søkere som ikke har generell studiekompetanse, men som har relevant fagbrev fra videregående opplæring. Y-veien gir i utgangspunktet ikke generell studiekompetanse.
+
+Y-veien ble opprinnelig startet som et forsøk etter universitets- og høyskoleloven § 1-2 fjerde ledd basert på sviktende rekruttering ved enkelte ingeniørutdanninger. I 2007 ble den fastsatt som en alternativ vei for opptak til spesielt tilrettelagt ingeniørutdanning. Etter forslag fra enkelte institusjoner har det senere blitt etablert flere tilbud basert på relevant fagbrev, primært som tiltak for å få flere søkere til studier der fagmiljøene har slitt med rekrutteringen.
+
+I Meld. St. 13 (2011–2012) *Utdanning for velferd. Samspill i praksis* foreslo Kunnskapsdepartementet å etablere forsøk med Y-vei for opptak til sykepleier-, vernepleier-, barnevernspedagog- og barnehagelærerutdanning. Stortinget sluttet seg til dette, og i 2015 ble det bevilget midler til utvikling av slike forsøk. Unntaket var at sykepleierutdanningen ikke skal bruke Y-vei, men en tre-semesterordning (kalt TRES), også dette etter mønster fra arbeidet med økt rekruttering til ingeniørutdanningen.
+
+#### Realkompetansevurdering
+
+Det følger av universitets- og høyskoleloven § 3-6 andre ledd at utdanningsinstitusjonene kan gi søkere som er 25 år eller eldre i opptaksåret, opptak til enkeltstudier hvis de på grunnlag av realkompetanse har de nødvendige kvalifikasjonene for det aktuelle studiet. Realkompetanse omtales ofte som dokumentert kunnskap, dokumenterte ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena gjennom formell, ikke-formell og uformell læring. Formell læring er den læring som skjer i utdanningssystemet, eventuelt for autorisasjons- og/eller sertifiseringsformål. Ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet, mens uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring.
+
+Bestemmelsen om opptak og fritak på grunnlag av realkompetansevurdering ble innført ved en lovendring som trådte i kraft 1. januar 2001, jf. Ot.prp. nr. 58 (1999–2000)[^229]. Dette var ledd i oppfølgingen av Kompetansereformen på 1990-tallet, jf. St.meld. nr. 42 (1997–98)[^230] og Innst. S. nr. 78 (1998–1999)[^231], der Stortinget konkluderte med at realkompetanse skulle kunne gi avkortning i utdanning. I motsetning til den såkalte 23/5-bestemmelsen i opptaksforskriften § 2-1 andre ledd er det ikke krav til fagsammensetning eller timefordeling ved realkompetansevurdering.
+
+Universitetene og høyskolene må vurdere kvalifikasjonene opp mot det faget søkeren ønsker å studere. Søkeren må ha de faglige forutsetningene for å kunne gjennomføre det aktuelle studiet, jf. opptaksforskriften § 3-1 tredje ledd. Dokumentert realkompetanse kan både gi opptak til høyere utdanning og gi grunnlag for fritak for hele eller deler av et studium, jf. universitets- og høyskoleloven § 3-5 andre ledd.
+
+#### Dispensasjon i særskilte tilfeller
+
+Det følger videre av universitets- og høyskoleloven § 3-6 tredje ledd at utdanningsinstitusjonene i særskilte tilfeller også kan gjøre *unntak* fra bestemmelsen om generell studiekompetanse for søkere som er under 25 år (dispensasjon). To vilkår må være oppfylt for at en institusjon skal kunne gi dispensasjon: For det første må institusjonen vurdere om det foreligger varig sykdom, funksjonsnedsettelse eller lignende tilstand. Dette er et absolutt krav. For det andre må institusjonen vurdere om søkerens tilstand er av en slik karakter at det ikke har vært mulig for søkeren å oppfylle enkelte krav om generell studiekompetanse.
+
+Ifølge Rundskriv F-03-18 er formålet med dispensasjonsadgangen å hindre åpenbar urimelig behandling av enkeltsøkere. Institusjonene kan bare bruke bestemmelsen i tilfeller der helt spesielle hensyn gjør seg gjeldende. Som ved opptak på grunnlag av realkompetanse i henhold til opptaksforskriften § 3-1 må institusjonen gjøre en konkret vurdering av om studenten er kvalifisert for det studiet vedkommende søker om opptak til. Søkeren må godtgjøre at han eller hun har de nødvendige faglige forutsetningene for å gjennomføre det aktuelle studiet. Dokumentasjon kan for eksempel være attest fra lege, annet helsepersonell, pedagogisk-psykologisk tjeneste eller tilsvarende.
+
+Dispensasjonsbestemmelsen kan forveksles med rangering på grunnlag av «særskilt vurdering», jf. forskriften § 7-13. Bestemmelsen om særskilt vurdering i forskriften gjelder også søkere som er under 25 år og har personlige utfordringer som har innvirket på resultatet fra videregående opplæring. Forskjellen er at søkere som rangeres på grunnlag av «særskilt vurdering», i motsetning til søkere som ber om en dispensasjonsvurdering, har oppnådd generell studiekompetanse, jf. omtalen av denne bestemmelsen under punkt 17.3.6.3.
+
+Universitets- og høyskoleloven § 3-6 tredje ledd gjelder bare for søkere som er under 25 år. Det vil si at søkere som fyller 25 år i opptaksåret, ikke vil kunne vurderes etter bestemmelsen selv om de oppfyller vilkårene ellers. Søkere over 25 år som ikke oppfyller kravet om generell studiekompetanse, kan søke om opptak basert på realkompetansevurdering i henhold til universitets- og høyskoleloven § 3-6 andre ledd, jf. punkt 17.2.3.2.
+
+#### Unntak for enkelte studier
+
+Det følger av universitets- og høyskoleloven § 3-6 fjerde ledd at departementet i forskrift kan unnta enkelte studier eller fag fra kravene om generell studiekompetanse. Dette har departementet gjort i opptaksforskriften §§ 3-4 til 3-9.
+
+Det første unntaket fra kravet om generell studiekompetanse gjelder for opptak til spesielt tilrettelagt ingeniørutdanning, jf. § 3-3. For at en søker skal bli tatt opp til denne utdanningen, må vedkommende ha relevant fag- eller svennebrev. Se ellers omtale av Y-veien under punkt 17.2.3.1.
+
+Et annet unntak gjelder for enkelte arkitekturfag og tekniske fag, jf. opptaksforskriften § 3-4. Dette gjelder for integrerte masterstudier i tilfeller der søkeren har bestått nærmere angitte forkurs.
+
+Unntaket i opptaksforskriften § 3-5 gjelder for opptak til enkelte språkfag hvis søkeren har samisk, finsk eller kvensk tilknytning.
+
+Det mest brukte unntaket følger av opptaksforskriften § 3-6 og gjelder for opptak til enkelte kunstfag. For opptak til kunstfag er det ofte krav om opptaksprøve, jf. opptaksforskriften § 4-9. Institusjonen gjør en konkret vurdering av om søkeren er kvalifisert for det studiet vedkommende søker om opptak til, selv om vedkommende ikke har generell studiekompetanse. Bestemmelsen kan bare brukes i enkelttilfeller der helt spesielle hensyn knyttet til den spesifikke søkeren gjør seg gjeldende. Institusjonen må gjøre en vurdering etter opptaksforskriften § 3-6 før en søker eventuelt kan avlegge opptaksprøve i henhold til opptaksforskriften § 4-9.
+
+Opptaksforskriften §§ 3-7, 3-8 og 3-9 hjemler mulighet til å gjøre unntak fra kravet om generell studiekompetanse for opptak til studium i henholdsvis akvakultur – havbruk og fiskerifag, nautikk, og serviceledelse og markedsføring.
+
+### Spesielle opptakskrav
+
+Det har vært et prinsipp at tilnærmet like studier skal ha samme opptakskrav. Det er likevel lang tradisjon for å kreve spesielle fag fra videregående opplæring for opptak til enkelte studier. Tidligere var det som regel fagmiljøene selv som foreslo spesielle opptakskrav (også unntak fra kravet om generell studiekompetanse), men i senere år er dette endret. Departementet har siden 1995 fastsatt spesielle opptakskrav. I 2004 foreslo departementet å fastsette poeng- og karakterkrav til lærerutdanninger (vedtatt i 2005). Begrunnelsen var et ønske om å styrke kvaliteten i utdanningen, tiltrekke seg bedre kandidater og heve statusen til læreryrket.
+
+Universitets- og høyskoleloven § 3-6 femte ledd gir departementet hjemmel til å fastsette spesielle opptakskrav i forskrift når hensynet til gjennomføringen av studiet gjør det nødvendig. Utdanningsinstitusjoner som ønsker å innføre spesielle opptakskrav for lavere grad, må i dag søke Kunnskapsdepartementet. Spesielle opptakskrav følger av kapittel 4 i opptaksforskriften og gjelder for opptak til alle lavere grads studier ved universiteter og høyskoler. Spesielle opptakskrav er fastsatt i tilfeller der studiet forutsetter særlige kunnskaper eller ferdigheter. Spesielle opptakskrav er også ment å være et virkemiddel for å sikre høyere inntakskvalitet på nye studenter.
+
+Det følger av universitets- og høyskoleloven § 1-2 fjerde ledd at departementet, etter innstilling fra styret ved utdanningsinstitusjonen, kan vedta at institusjonen kan gjøre avvik fra loven og forskriftene til loven i forbindelse med tidsavgrensede pedagogiske eller organisatoriske forsøk. Hvilke forsøksordninger med spesielle opptakskrav som gjelder på et visst tidspunkt, går frem av opptaksforskriften kapittel 4, som fastsetter hvilke studier de gjelder for, og i hvilken tidsperiode.
+
+I dag er det forsøksordninger med spesielle opptakskrav til flere studier. Det finnes blant annet en forsøksordning med krav om fordypning i realfag i matematikk (R2) for opptak til spesifiserte studieprogrammer ved for eksempel Universitetet i Bergen og Universitetet i Oslo. Det stilles dessuten karakterkrav i engelsk for opptak til noen få engelskspråklige utdanningsprogrammer. For opptak til medisin, odontologi, ernæring, farmasi, informatikk og ingeniørutdanning er det krav om spesifikke programfag i realfag, mens det for opptak til grunnskolelærerutdanning og femårig integrert lektorutdanning er fastsatt poeng- og karakterkrav. Til sykepleierutdanning er det fra opptaksåret 2018/2019 karakterkrav i fellesfagene norsk og matematikk. For de fleste kunstutdanninger er det krav om opptaksprøve.
+
+Stortinget har tidligere bedt departementet om å åpne for at utdanningsinstitusjoner som ønsker det, skal kunne bruke intervju ved opptak til lærerutdanninger. En slik mulighet er lagt inn i opptaksforskriften, men det er foreløpig ingen institusjoner som har varslet at de ønsker å ta den i bruk.
+
+### Rangering av søkere ved opptak
+
+#### Innledning
+
+Det følger av universitets- og høyskoleloven § 3-7 andre ledd at departementet kan gi forskrift om rangering av opptaket til høyere utdanning. Dette er gjort i opptaksforskriften kapittel 7. Bestemmelsene om rangering av søkere gjelder for opptak til lavere grads studier, inkludert det lokale opptaket.
+
+Det har i senere år vært en del oppmerksomhet rettet mot særbehandling av det ene kjønn i forhold til det andre ved opptak til høyere utdanning. Bruk av kjønnspoeng er et virkemiddel for å jevne ut kjønnsforskjellene i høyere utdanning. Under punkt 17.4.5 går utvalget nærmere inn på vurderinger om dette.
+
+Politisk påvirkning i videregående opplæring
+
+Opptaksforskriften brukes i økende grad politisk for å styre elevenes fagvalg i videregående opplæring. Et eksempel på dette var da departementet fastsatte den første felles forskriften for regionale høyskoler i 1991<sup>1</sup>, og samtidig varslet at de ville innføre en ordning med tilleggspoeng for søkere som i videregående opplæring hadde valgt studieretningsfag over to år. Dette ble omtalt som en «fordypning» i et konkret fag. I forskrift til opplæringsloven lå det den gangen bare krav om én fordypning for å få vitnemål. Dette førte til at mange elever valgte enklere fag for å oppnå gode karakterer. Da fordypningspoeng (nå generelt omtalt som tilleggspoeng) ble innført fra og med opptaket til studieåret 1993/1994, ga det raskt det ønskede resultatet: Flere elever i videregående opplæring valgte minst én ekstra fordypning.
+
+I 1995 ble det laget en strategi for å få flere i videregående opplæring til å velge realfag. Denne strategien inneholdt også bestemmelser om å gi tilleggspoeng ved opptak til høyere utdanning hvis elevene hadde valgt realfag som studieretningsfag. Bestemmelser om realfagspoeng ble fastsatt i opptaksforskriften, med virkning fra opptak til studieåret 1996/1997.
+
+I 1999 fastsatte departementet, etter at Stortinget hadde drøftet prinsippene for rangering av kvalifiserte søkere, de første felles forskriftene om henholdsvis opptakskrav og rangering. Det var først i 2007 at det kom en felles forskrift som omfattet opptaket til lavere grads studier, inkludert klagebestemmelser, og som dannet grunnlaget for dagens forskrift om opptak til høyere utdanning.
+
+<sup>1</sup> Forskrift 12. desember 1991 nr. 812 om opptak til regionale høgskoler.
+
+\[Boks slutt\]
+
+#### Kvoter for førstegangsvitnemål og ordinær kvote
+
+Opptak til et studium skjer på grunnlag av rangering innenfor kvoter. En kvote er et bestemt antall eller en bestemt andel av studieplassene som fordeles blant søkere som tilfredsstiller nærmere bestemte krav. Alle kvalifiserte søkere som innen fastsatte frister for opptaket dokumenterer at de oppfyller kriteriene for en gitt kvote, konkurrerer om studieplass i denne kvoten. Grunnlaget for rangering er den dokumentasjonen som kvalifiserer søkeren for et studium. Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere som tilhører samme kvote, og som har lik poengsum, skal rangeres etter alder, og eldre søkere skal gå foran yngre søkere. Ti dager etter studiestart kan hver utdanningsinstitusjon – hvis noen av søkerne som har fått plass på grunnlag av rangering, ikke har møtt opp – tilby ledige studieplasser til kvalifiserte søkere uten hensyn til rangeringen ellers.
+
+Alle som søker om opptak til høyere utdanning, tilhører i utgangspunktet det som kalles ordinær kvote. Dette gjelder også søkere som er under 22 år i opptaksåret. I ordinær kvote er beregningsgrunnlaget karakterene fra videregående opplæring, og eventuelle forbedrede karakterer og karakterer i nye fag oppnådd som privatist etter fullført videregående opplæring. I tillegg teller eventuelle realfagspoeng, språkpoeng, alderspoeng og tilleggspoeng for fullført folkehøyskole, fullført militær-/siviltjeneste eller allerede fullført høyere utdanning eller fagskoleutdanning. Ved opptak til enkelte utdanninger kan det gis inntil to tilleggspoeng til det underrepresenterte kjønn når nærmere kriterier er oppfylt. Det finnes også andre spesielle kvoter, blant annet av geografisk art. De sistnevnte går ut på at søkere fra noen landsdeler får søke i en nærmere definert kvote som gjør at de lettere kommer inn på det aktuelle studiet. Dette er omtalt under punkt 17.2.5.4.
+
+Kvote for *førstegangsvitnemål* gjelder for søkere som er under 22 år i opptaksåret, og som etter tre år i videregående opplæring har fått et vitnemål som gir generell studiekompetanse. Søkeren blir automatisk poengberegnet i begge kvoter (både i kvoten for førstegangsvitnemål og i ordinær kvote) og havner i den kvoten som gir best uttelling. Innenfor kvoten for førstegangsvitnemål er det bare karakterpoeng og eventuelle tilleggspoeng for realfag og fremmedspråk, og eventuelt tilleggspoeng for det underrepresenterte kjønn, som teller med i søknaden om opptak til høyere utdanning. Det vil si at tilleggspoeng for alder, førstegangstjeneste, annen utdanning som er tatt etter videregående skole, eller fag som søkeren har forbedret, ikke teller med i beregningen i kvoten for førstegangsvitnemål.
+
+Kvoten for førstegangsvitnemål er på 50 prosent av de tildelte studieplassene. Opptak til lavere grads studier i høyere utdanning har blitt organisert i to slike kvoter i over 20 år. Kvotene har hatt noe ulike innretninger og navn, men har bestått av én kvote for såkalte unge søkere som ikke har hatt mulighet til å opparbeide seg tilleggspoeng eller forbedre karakterene sine, og én ordinær kvote. Hensikten har vært, og er, at siden det eksisterer en mulighet for å forbedre fag, må man sikre at søkere som kommer rett fra videregående skole, også har mulighet til å konkurrere om studieplassene. I kvoten for førstegangsvitnemål er det ofte litt lavere poenggrenser for å komme inn på de forskjellige utdanningene enn i ordinær kvote.
+
+#### Vurdering av opptak på grunnlag av særskilt vurdering
+
+Særskilt vurdering er hjemlet i opptaksforskriften § 7-13. Det er en vurdering søkere med generell studiekompetanse kan søke om å få. Hensikten med bestemmelsen i § 7-13 er å ivareta søkere som ikke har hatt mulighet til å vise sine egentlige ferdigheter i løpet av videregående opplæring, ved å gi dem rett til særskilt vurdering. Bestemmelsen skal i utgangspunktet ivareta en sårbar gruppe.
+
+En søker kan få en slik vurdering hvis forhold som et annet morsmål enn norsk, sykdom i løpet av skoletiden eller funksjonsnedsettelse gir grunn til å tro at karakterene ikke gir et rett bilde av søkerens kvalifikasjoner. Det er lærere i videregående skole som vurderer elevenes kvalifikasjoner i fag, og som avgjør karakternivå. Slike vurderinger og retten til å klage på dem følger av opplæringsloven[^232] og medfølgende forskrifter.
+
+#### Tilleggspoeng
+
+Tilleggspoeng kan deles inn i to hovedgrupper. Noen tilleggspoeng gis som følge av at elevene tar bestemte fag i videregående opplæring, mens andre gis etter at videregående opplæring er fullført.
+
+##### Tilleggspoeng fra videregående opplæring
+
+I dag får søkere tilleggspoeng for språk- og realfag de tar i videregående opplæring. Tilleggspoeng i språkfag får elevene når de tar fordypning i et tredjespråk, det vil si et annet språk enn norsk og engelsk. For realfag får søkere tilleggspoeng for å ta for eksempel fysikk, kjemi og biologi.
+
+Elever kan få maksimalt fire tilleggspoeng for fag de tar i videregående opplæring. Hensikten med å gi slike tilleggspoeng er å forberede søkerne bedre på høyere utdanning. Hvilke fag som gir poeng, henger imidlertid til en viss grad sammen med politiske mål og et ønske om å stimulere elever til å ta visse fag fremfor andre. For eksempel er det ikke så mange år siden man for første gang ga tilleggspoeng for språk. Årsaken var at elevene i videregående opplæring i mindre grad enn før ønsket å ta et tredje fremmedspråk. Myndighetene mente at dette på lengre sikt ville gi færre med kompetanse i språk, noe som igjen kunne føre til problemer for Norges samarbeid med andre land.
+
+##### Tilleggspoeng etter videregående opplæring
+
+Andre typer tilleggspoeng forbereder ikke nødvendigvis søkerne på høyere utdanning, men de gir dem utvilsomt en fordel i konkurransen om studieplass i ordinær kvote. Dette er tilleggspoeng som gis etter at videregående opplæring er fullført. Søkere kan få maksimalt åtte tilleggspoeng for alder (to poeng per år i fire år) og maksimalt to tilleggspoeng for å ha gjennomført ett år med enten folkehøyskole, fagskole, høyere utdanning, militær førstegangstjeneste eller siviltjeneste. Hvis en søker har tatt 120 studiepoeng ved en fagskole eller 60 studiepoeng ved et universitet eller en høyskole, og ikke har generell studiekompetanse fra før, og bruker dette for å oppnå generell studiekompetanse, vil vedkommende imidlertid ikke få tilleggspoeng for disse utdanningene.
+
+I tillegg kan søkere få tilleggspoeng på grunnlag av kjønn.
+
+Tilleggspoeng for kjønn kan fås både i kvoten for førstegangsvitenmål og i ordinær kvote. Tilleggspoeng kan gis ved opptak til studier der det ene kjønn er klart overrepresentert i både studentmassen og i yrket for øvrig. Tilleggspoeng for det underrepresenterte kjønn er bare relevant for studier der det er meget stor konkurranse om studieplassene, og der ett kjønn blir utkonkurrert av det andre kjønn på grunn av høyere poengsum. Bruk av tilleggspoeng for kjønn er omdiskutert. Tilleggspoeng for det underrepresenterte kjønn innebærer at man bevisst velger å gi søkere av det ene kjønn et gode som det andre kjønn ikke får (positiv særbehandling). Formålet er å oppnå større grad av likestilling mellom kjønnene på et overordnet nivå og dermed jevne ut strukturelle forskjeller i samfunnet. Dette kan bidra til at det over tid oppstår ønskede endringer i samfunnsstrukturer. Positiv særbehandling kan oppfattes som urettferdig fordi en person av et bestemt kjønn kommer inn på et studium på bekostning av en student av det motsatte kjønn som har høyere konkurransepoengsum.
+
+Stortinget ba i anmodningsvedtak nr. 605 i 2016 regjeringen om å «utrede utforming og innføring av ekstrapoeng til gutter og jenter som søker på studier der det er for eksempel 80 prosent eller mer av det motsatte kjønn \[…\]».
+
+Kunnskapsdepartementet har derfor satt ned en arbeidsgruppe som skal se nærmere på rangeringsregelverket spesielt og opptaksregelverket generelt. Nordisk institutt for studier av innovasjon, forskning og utdanning (NIFU) foretar i denne forbindelse en evaluering av rangeringsregelverket som vil bli lagt frem tidlig 2020. Arbeidet med å gjennomgå opptaksregelverket vil trolig bli sluttført våren 2020.
+
+Det å kunne gi tilleggspoeng til det underrepresenterte kjønn ved opptak til høyere utdanning må vurderes konkret opp mot de kriteriene som fremgår av norsk lov, inkludert likestillingsregelverket, nasjonal praksis og praksis fra EFTA-domstolen og EU-domstolen, og opp mot behovet i samfunnet.
+
+Grunnloven § 98 slår fast at alle er like for loven, og at ikke noe menneske må utsettes for usaklig eller urimelig forskjellsbehandling av andre. I utgangspunktet åpner ikke ordlyden i Grunnloven § 98 opp for et unntak for positiv særbehandling, men kontroll- og konstitusjonskomiteen presiserte følgende i Innst. 186 S (2013–2014)[^233] kapittel 2.1.6 s. 25:
+
+Tolkningen av likhetsprinsippet gjøres mer tilgjengelig med forslaget om å beskrive ikke-diskrimineringsprinsippet i samme bestemmelse. Slik understrekes at privilegier ikke skal leses på samme måte som kvotering eller positiv forskjellsbehandling som har som mål å utjevne en eksisterende forskjell i mulighetsfordeling mellom grupper eller personer på grunnlag av egenskaper hos den enkelte \[…\].
+
+Stortinget mener altså at positiv særbehandling vil være tillatt etter Grunnloven dersom den ikke går lenger enn det som er saklig og forholdsmessig for å oppnå reell likestilling.
+
+EUs likestillingsdirektiv[^234] er gjennomført i norsk rett gjennom likestillings- og diskrimineringsloven[^235]. Direktivet forbyr direkte og indirekte diskriminering, trakassering på grunn av kjønn, seksuell trakassering og instruksjon om diskriminering, jf. direktivet artikkel 2. EUs likestillingsdirektiv åpner for positiv særbehandling i arbeidslivet, jf. direktivet artikkel 3.
+
+Det fremgår av likestillings- og diskrimineringsloven § 11 at tre krav må være oppfylt for at positiv særbehandling ikke skal være i strid med loven.
+
+For det første er det et krav om at særbehandlingen skal være *egnet til å fremme formålet til loven*. Særbehandlingen må rettes inn mot den gruppen som står svakest på det aktuelle området. Den dårlige utgangsposisjonen kan skyldes ulike forhold. Det neste kravet er at *tiltaket må være forholdsmessig*. Det skal være et rimelig forhold mellom formålet man ønsker å oppnå, og hvor inngripende forskjellsbehandlingen er for den eller dem som blir stilt dårligere. Det siste kravet er at *særbehandlingen må stoppe når formålet med den er oppnådd*. Det klare utgangspunktet er at positive særtiltak bare skal være for en avgrenset periode. For noen grupper kan det være behov for kontinuerlig positiv særbehandling for å oppnå reell likestilling. Likevel bør man ved utgangen av den opprinnelig avgrensede perioden vurdere om man skal fortsette med særbehandlingen.
+
+Etter at den nye likestillings- og diskrimineringsloven trådte i kraft 1. januar 2018, ble opptaksforskriften § 7-9 om tilleggspoeng for det underrepresenterte kjønn endret slik at det er mulig å gi tilleggspoeng ved opptak til alle studier hvor menn eller kvinner er sterkt underrepresentert i utdanning og yrke.
+
+#### Spesielle kvoter
+
+I tillegg til ordinær kvote og kvote for førstegangsvitnemål finnes det spesielle kvoter som ofte har et geografisk eller etnisk tilsnitt. De spesielle kvotene fremgår av opptaksforskriften § 7-3. For eksempel har Universitetet i Tromsø – Norges arktiske universitet en del kvoter for samiskspråklige søkere og for søkere med tilknytning til Nord-Norge. Geografiske kvoter anses ikke å være i strid med diskrimineringsregelverket. Innenfor enkelte utdanninger finnes det også spesielle kvoter for å kvotere inn søkere med relevant arbeidserfaring eller beståtte forkurs.
+
+### Opptak til høyere grads utdanning
+
+Opptak til høyere grads studier som bygger på lavere grad (vanligvis bachelor), følger av universitets- og høyskoleloven § 3-6 syvende ledd. Med «høyere grad» menes nivået over bachelorutdanningen. Bestemmelsen gjelder det faglige grunnlaget for opptak til påbygging til mastergrad, doktorgradsstudier og andre påbyggingsstudier (for eksempel praktisk-pedagogisk utdanning (PPU)). Utdanningsinstitusjonen kan fastsette både faglige minstekrav og spesielle krav ved opptak til disse studiene, med mindre departementet har fastsatt opptakskrav i forskrift, for eksempel i mastergradsforskriften[^236], eller i rammeplan. Faglige minstekrav for opptak kan være nødvendige ut fra hensynet til studiekvalitet og fornuftig ressursdisponering, også i situasjoner hvor det er fysisk mulig å ta imot flere studenter.
+
+### Nasjonal samordning av opptaket
+
+Samordna opptak – kort historikk
+
+Før det samordnede opptaket ble innført, sendte søkere ofte inn flere søknader, siden mange studier hadde strengt regulert adgang. Dette førte ikke bare til mye arbeid for opptakskontorene, men også til at mange av studieplassene kunne bli stående ledige, fordi noen søkere fikk flere tilbud og tok imot tilbud fra flere institusjoner. Ingen hadde oversikt over hvor mange som søkte, bare hvor mange søknader som var kommet inn på hvert enkelt studiested.
+
+På bakgrunn av en anbefaling fra Bjørn Pedersenutvalget ble det i 1991 opprettet et sekretariat som fikk navnet «Samordnet opptak». Samordnet opptak var først organisert som et toårig prosjekt som skulle utvikle og drive et sentralt register over søkere til høyere utdanning. Samordnet opptak fastsatte felles søknadsfrister, siste frist for utsendelse av tilbud om studieplass og felles svarfrist for å takke ja til studieplass. Samordnet opptak kunne gi statistiske data om opptaket, og det ble også gjennomført et pilotprosjekt med en modell for samordnet opptak for grupper av studier som før hadde hatt egne opptak ved hver enkelt høyskole. I april 1993 vedtok departementet å videreføre tjenesten som da fikk det endelige navnet «Samordna opptak». Departementet oppnevnte også en styringsgruppe som i tillegg til å ha det løpende ansvaret for Samordna opptak fikk i oppgave å foreslå en nasjonal opptaksmodell for opptak til grunnutdanninger ved universiteter og høyskoler.
+
+I Ot.prp. nr. 85 (1993–94)<sup>1</sup> s. 66 står det om bestemmelsen om det samordnede opptaket:
+
+Fordi svært mange søker studieplass ved flere institusjoner, er det et uttalt behov for å kunne samordne informasjonsmateriell, søknadsfrister og den praktiske gjennomføringen av opptaket, både av hensyn til søkerne og av hensyn til institusjonene. Det arbeides videre med å finne fram til en metode hvor søkerne bare får tilbud om én studieplass ved siste opptaksrunde. Dermed vil man bedre kunne motvirke at studieplasser blir stående ledige fordi de som får den, har tatt imot studieplass andre steder.
+
+<sup>1</sup> Ot.prp. nr. 85 (1993–94) *Om lov om høgre utdanning.*
+
+\[Boks slutt\]
+
+#### Innledning
+
+Det følger av universitets- og høyskoleloven § 3-7 første og andre ledd at departementet kan gi forskrift om nasjonal samordning av opptak og forskrift om klagebehandling og rangering av søkerne. Opptaksforskriften er vedtatt med hjemmel i denne lovbestemmelsen.
+
+I merknaden til § 3-7 første ledd i Ot.prp. nr. 79 (2003–2004) står det blant annet følgende:
+
+Departementet kan pålegge institusjonene å delta i nasjonal samordning av opptak. Et eventuelt pålegg om slik deltakelse vil måtte skje i dialog med aktuelle institusjoner og institusjonene kan eventuelt pålegges delvis samordning.
+
+I dag deltar alle statlige og noen private utdanningsinstitusjoner i det samordnede opptaket. Samordna opptak sørger for at hver søker bare får tilbud om én studieplass, og eventuelt en ventelisteplass. Tjenesten Samordna opptak er en del av *Direktoratet for IKT og fellestjenester i høyere utdanning og forskning* (Unit). Søkere kan klage på vedtak om opptak i det samordnede opptaket til en egen nasjonal klagenemnd.
+
+#### Den nasjonale opptaksmodellen
+
+Den nasjonale opptaksmodellen (NOM) har vært i bruk fra og med studieåret 1995/1996. Et nasjonalt og enhetlig opptaksregelverk og endringsprosedyrer som innebærer at det varsles i rimelig tid før elever i videregående opplæring velger programfag, innebærer at viktige prinsipper som forutsigbarhet, likebehandling og oversiktlighet ivaretas. Den nasjonale opptaksmodellen ble utviklet på grunnlag av resultatene fra prøveprosjekter med felles nasjonalt opptak til sykepleier- og ingeniørutdanning på begynnelsen av 1990-tallet.
+
+Opptak til lavere grads studier skjer primært gjennom tjenesten Samordna opptak, der de ulike utdanningsinstitusjonene som hovedregel saksbehandler opptaket for hverandre. Alle statlige høyskoler og universiteter må delta i det samordnede opptaket for lavere grads studier, mens det er frivillig for private høyskoler. Det er likevel slik at mange private høyskoler deltar i ordningen, fordi de da får fordelen av å eksponere sine studier og samarbeid i saksbehandlingen. Av store private høyskoler som ikke deltar, er blant andre Handelshøyskolen BI og Høyskolen Kristiania. Hos disse skjer opptaket lokalt ved den enkelte utdanningsinstitusjonen.
+
+Fra 2020 omfatter Samordna opptak også opptak til fagskoleutdanninger.
+
+#### Klageordning
+
+Vedtak om opptak til høyere utdanning er et enkeltvedtak, og søkerne kan klage i henhold til forvaltningsloven[^237] § 28. Etter universitets- og høyskoleloven § 3-7 andre ledd kan departementet fastsette forskrift om klagebehandling, og det har det gjort i opptaksforskriften kapittel 8. Hvis en søker mener at det er gjort en feil i forbindelse med behandlingen av søknaden, må søkeren klage så raskt som mulig og senest tre uker etter at vedkommende har fått vedtaket.
+
+Kunnskapsdepartementet har oppnevnt nasjonal klagenemnd for å behandle klager på enkeltvedtak som Samordna opptak fatter om opptak til lavere grads studier ved universiteter og høyskoler. Bestemmelser om klagenemndas sammensetning er fastsatt i opptaksforskriften § 8-2. Lederen for nemnda skal oppfylle kravene som stilles til lagdommere, jf. bestemmelsens andre ledd. Den nasjonale klagenemnda behandler ikke klager på lokale opptak. Det gjør klagenemnda ved den enkelte utdanningsinstitusjonen. Den nasjonale klagenemnda behandler heller ikke klager på vedtak om opptak på grunnlag av realkompetanse, klager på opptak etter at det er innvilget dispensasjon fra enkelte av kravene om generell studiekompetanse, eller klager på vurderinger av spesielle opptakskrav som omfatter ferdigheter eller opptaksprøver fastsatt av institusjonen. Det er klagenemnda ved den aktuelle utdanningsinstitusjonen som behandler slike klager. Vedtakene til nasjonal klagenemnd er endelige, og søkerne kan ikke klage på dem.
+
+Det er Unit som fungerer som sekretariat for nasjonal klagenemnd. De har ansvar for å forberede og tilrettelegge klagesakene for nemnda og å innkalle til møter i samråd med nemndas leder.
+
+En generell omtale av andre klageordninger gis i kapittel 26.

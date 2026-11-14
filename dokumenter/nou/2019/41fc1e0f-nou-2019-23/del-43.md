@@ -1,962 +1,330 @@
-# NOU 2019: 23, del 43 av 71 (side 486–495)
+# NOU 2019: 23, del 43 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 486]
-
-484
-
-Kapittel 37
-
-NOU 2019: 23
-Ny opplæringslov
-
-en regulering av tvang i skolen. Blant annet foreslår Tvangslovutvalget et snevert tvangsbegrep
-som innebærer at de aller fleste inngrep overfor
-barn, mot barnets vilje, faller utenfor tvangsbegrepet i forslaget til ny tvangsbegrensningslov.
-Det er også igangsatt flere andre prosesser
-som kan tale imot at utvalget foreslår regulering
-av tvang i den nye loven. Departementet har varslet at det utreder det rettslige grunnlaget for bruk
-av makt og tvang i skolen.33 Videre er det nedsatt
-offentlige utvalg som har mandater som er relevante for vurdering av tvang i skolen, blant annet
-det offentlige utvalget som skal foreslå ny barnelov, og det offentlige utvalget som skal utrede
-autismefeltet og beslektede diagnoser. Utvalget
-har også merket seg forslaget til ny barnevernslov34, som blant annet handler om tvang i barneverninstitusjoner.
-Utvalget har likevel kommet til at det vil foreslå regulering av mild tvangsbruk i den nye loven,
-det vil si tiltak utover de tiltakene det er avklart at
-skolen kan bruke i kraft av sitt omsorgsansvar i
-dag. Ideelt sett burde disse spørsmålene vært
-utredet grundigere og helst sett i sammenheng
-med regler om bruk av tvang overfor barn på
-andre områder. Når utvalget tross dette velger å
-foreslå regler, er det fordi det for lenge har vært
-slik at offentlige utvalg har vist til andre prosesser
-som begrunnelse for ikke å foreslå regler. Utvalget ser det som påkrevd at det nå gis regler om
-bruk av tvang i skolen.
-Utvalget har ikke drøftet forslaget med referansegruppen eller andre, og ber derfor om at
-departementet særskilt ber om innspill til dette
-forslaget når utredningen sendes på høring.
-Resultatet av oppfølgingen av NOU 2019: 14 og
-forslaget til henholdsvis ny barnelov og ny barnevernslov er også relevante å se hen til når departementet tar stilling til forslaget. Utvalget vil også
-trekke fram at Sivilombudsmannen i høringen av
-ny barnevernslov har gitt uttrykk for at det må
-«være forutsigbart for den enkelte når myndighetene kan gripe inn med tvang og inngrep i personlig frihet, og lovteksten må derfor være tilstrekkelig klar».35
-Formålet med forslaget er å avverge skade,
-bedre rettssikkerheten, bidra til økt åpenhet og
-dermed også øke bevisstheten om bruk av tvang.
-Forhåpentligvis vil forslaget også bidra til å
-begrense bruken av tvang.
-33
-
-Prop. 57 L (2016–2017), kap. 5.5.2.2.
-Barne- og familiedepartementet, 2019.
-35 Sivilombudsmannen, 2019.
-34
-
-Tiltak som ikke er inngripende og ikke omfattes av
-forslaget
-Elever har rett og plikt til opplæring. Det innebærer at skolen har en omsorgsplikt overfor elevene i skoletiden.
-Utvalget legger til grunn at alle tiltak som personer, også barn, motsetter seg verbalt eller
-fysisk, kan omtales som bruk av tvang eller makt.
-I samfunnet er det akseptert at en viss bruk av
-verbale og fysiske virkemidler er en nødvendig
-del av det å sette grenser for og styre barns
-handlinger.
-At det er adgang til denne formen for påvirkning, følger av det alminnelige oppdrageransvaret
-foreldrene har, jf. barnelova § 30. Langt på vei kan
-skolen eller andre som ivaretar omsorgen når foreldrene ikke er til stede, anvende tilsvarende verbale og fysiske virkemidler.36
-For slike allment aksepterte verbale og fysiske
-virkemidler trengs ikke grunnlag i lov. Slik utvalget ser det, har skolen både plikt og rett til å utøve
-oppdrager- og omsorgsansvar også når det innebærer bruk av nødvendige, aksepterte fysiske og
-verbale tiltak. Skolen og skolens ansatte må likevel være mer tilbakeholdne og varsomme enn det
-foreldrene trenger å være. Dette skyldes at hva
-som er grensene for bruk av tvang, også beror på
-individuelle grenser; noen barn tåler mer enn
-andre. Dersom man kjenner et barn godt, er det
-lettere å se hvilke tiltak man kan bruke uten at det
-er for inngripende overfor barnet. Det er altså
-snevrere rammer for bruk av makt for skolens
-ansatte enn det er for foreldrene.
-Ivaretakelse av omsorgsansvaret overfor
-yngre elever kan for eksempel innebære at man
-må ta tak i en elev for å forhindre at han eller hun
-løper ut i trafikken, ut i vannet eller et annet sted
-der eleven kan komme til skade. Dersom tiltak for
-å gjennomføre daglige rutiner eller for å hindre at
-barnet skader seg, møtes med så sterk motstand
-at det må brukes mer makt enn det som er vanlig,
-vil det raskt bli tale om en tvangsbruk som må ha
-lovgrunnlag.
-Mild holding kan i noen situasjoner gjennomføres uten at det trenger lovgrunnlag og uten at
-det er nødvendig å rapportere om bruken. Et
-eksempel kan være å holde rundt små barn som
-er redde og usikre, noe som ofte vil være å utøve
-god omsorg. Utvalget mener også at det å påvirke
-en elev gjennom å gi en beskjed eller gjennom
-minimal bruk av fysisk kontakt, for eksempel å be
-36
-
-Se bl.a. NOU 2019: 14, kap. 17.2.6.3 og Ot.prp. nr. 22 (2008–
-2009), s. 427.
-
-[Side 487]
-
-NOU 2019: 23
-Ny opplæringslov
-
-en elev om å forlate klasserommet eller å lede
-eleven forsiktig ut av rommet, ikke er et inngripende tiltak som krever særskilt lovhjemmel.
-Fysisk maktbruk utover dette reiser spørsmål om
-hvorvidt grensen for hva foreldrene og skolen
-eller andre lovlig kan gjennomføre, er overtrådt.
-Dersom et tiltak faller utenfor tvangsdefinisjonen, det vil si at eleven ikke motsetter seg tiltaket
-og tiltaket heller ikke er så inngripende at det må
-anses som tvang eller makt uavhengig av motstand, kan det gjennomføres som et ordinært tiltak i skolen uten særskilt hjemmelsgrunnlag.
-Utvalget foreslår derfor at det presiseres i loven at
-tiltak som er allment akseptert i samhandlingen
-mellom voksne og elever, ikke omfattes av
-bestemmelsen. Det innebærer blant annet at kravene til dokumentasjon og varsling ikke kommer
-til anvendelse.
-Hvilke tiltak bør loven åpne for?
-Innledning
-Opplæringsloven åpner ikke for tiltak som innebærer tvang, isolasjon eller fysisk kontakt (holde
-fast i hånden, trekke etter armene og lignende,
-med unntak av minimal fysisk kontakt), eller for
-andre tiltak som virker direkte bevegelseshindrende. Det betyr for eksempel at skjermingstiltak ikke kan gjennomføres ved bruk av tvang.
-Utvalget legger til grunn at det finnes eksempler på at det forekommer inngrep mot elever i
-skolen uten tilstrekkelig hjemmelsgrunnlag.37
-Utvalgets vurderinger bygger på et ønske om å gi
-elevene både et godt læringsutbytte og et trygt og
-godt skolemiljø. Utvalget ønsker å forebygge og
-begrense bruken av tvang og andre fysiske inngrep, hindre vesentlig skade og sikre at fysiske
-inngrep skjer i samsvar med grunnleggende
-materielle og prosessuelle rettssikkerhetsprinsipper, herunder retten til selvbestemmelse og retten
-til å bli hørt.
-Mindre inngripende tiltak
-Utvalget mener at det bør tydeliggjøres at ansatte
-på skolen skal kunne bruke mindre inngripende
-tiltak for å opprettholde orden og avverge åpenbar
-skade på andre personer eller avverge vesentlig
-skade på eiendom. Utvalget foreslår ikke å bruke
-uttrykket «tvang» i loven, fordi andre lover definerer tvang ulikt. Et viktig argument mot å bruke
-ordet «tvang» er at Tvangslovutvalget foreslår et
-37
-
-Se bl.a. Fylkesmannen i Rogaland, 2016.
-
-485
-
-Kapittel 37
-
-tvangsbegrep som i liten grad inkluderer maktbruk overfor barn og dermed er lite hensiktsmessig i skolesammenheng.
-Utvalget foreslår ikke at opplæringsloven skal
-gi en egen hjemmel for fysiske tiltak for å avverge
-skade på eleven selv. Utvalget viser her til helseog omsorgstjenesteloven kapittel 9 og for øvrig
-straffelovens regler om nødrett.
-Utvalget mener at det er ønskelig og hensiktsmessig at ansatte i noen situasjoner skal kunne
-gripe inn med fysiske tiltak for å opprettholde
-orden eller avverge skade før situasjonen eventuelt eskalerer til en nødretts- eller nødvergesituasjon. Utvalget foreslår derfor at det skal framgå av
-lovteksten at tiltak bare kan brukes når det er
-nødvendig for å unngå mer inngripende tiltak.
-Utvalget foreslår også at det i lovteksten gis
-eksempler på tiltak som kan være tillatt. Et
-eksempel på lovlig maktbruk kan være å holde
-fast eleven en liten stund eller ta eleven ut fra fellesrommet. Bruken av slike midler kan være aktuelle for eksempel i følgende situasjoner:
-– En elev på ungdomsskolen forstyrrer de andre
-elevene vesentlig, for eksempel ved hyling over
-tid. Læreren ber eleven om å ta en «timeout» i
-et annet rom sammen med en assistent. Eleven
-etterkommer ikke anmodningen. Assistenten
-tar tak i hånden til eleven og leder vedkommende ut av klasserommet med lett maktbruk.
-– Læreren kjenner eleven på 15 år godt og ser at
-vedkommende er svært irritert på en annen
-elev, som sitter ved siden av vedkommende.
-Eleven har tidligere slått til flere av sine medelever. For å hindre at situasjonen eskalerer og
-at den andre eleven kommer til skade, tar læreren tak i skulderen til eleven og leder ham ut av
-klasserommet. Læreren roer ned eleven og de
-vender tilbake til klasserommet.
-Utvalget mener at det bør presiseres i loven at de
-fysiske inngrepene skal være så få, kortvarige og
-skånsomme som mulig, og at det ikke skal brukes
-inngrep overfor eleven i større grad enn nødvendig. Det betyr at tiltaket må være egnet til og nødvendig for å hindre eller begrense den aktuelle
-skaden eller opprettholde orden, under dette
-være det minst inngripende alternativet, og at tiltaket ikke må være urimelig overfor eleven. Tiltaket kan ikke opprettholdes lenger enn til den
-akutte situasjonen er avklart, og kan ikke ivareta
-andre formål enn å holde ro og orden eller
-avverge skade. Høyesteretts avgjørelse i HR-20191719-U referert under kapittel 37.2.1, der en lærer
-holdt en elev hardt i armen og dro eleven inn i
-klasserommet, illustrerer to helt grunnleggende
-
-[Side 488]
-
-486
-
-Kapittel 37
-
-NOU 2019: 23
-Ny opplæringslov
-
-momenter for vurderingen av om tvangsbruken
-går for langt. Høyesterett viste særlig til at grepet
-hadde et «klart preg av avstraffelse» og at «maktanvendelsen var unødvendig». Grepet ble opprettholdt etter at situasjonen hadde løst seg. Kravet til forholdsmessighet pålegger skolen et
-ansvar for å vurdere hver enkelt situasjon og forsøke å løse situasjonen med minst mulig inngripende tiltak. I vurderingen av om det skal brukes
-inngripende tiltak, skal alltid barnets beste være
-et grunnleggende hensyn. Eleven skal behandles
-hensynsfullt og med respekt.
-Forebyggende tiltak
-Når utvalget foreslår å regulere ansattes mulighet
-til å gripe fysisk inn, gir det også en mulighet til å
-tydeliggjøre ansvaret for å forebygge slik at fysiske
-tiltak ikke blir nødvendige. Utvalget mener at det
-bør presiseres i loven at skolen skal arbeide forebyggende slik at skade- og faresituasjoner ikke
-oppstår, og for at slike situasjoner skal kunne
-løses med minst mulig inngripende tiltak. Skolen
-må sørge for at det blir arbeidet systematisk for å
-identifisere hva som utløser og opprettholder den
-skadevoldende atferden, og vurdere hvordan
-dette kan håndteres på en best mulig måte. Hvis
-situasjonen gjentar seg eller det er grunn til å forvente det, må det settes i gang et arbeid med
-tanke på å avverge skade.
-Utvalget understreker at adgangen til å bruke
-makt på nødretttslig grunnlag ikke bør være en
-hvilepute for forvaltningen. Skolene skal ikke
-planlegge driften ut fra muligheten til å gjøre inngrep på nødrettsgrunnlag. Utvalget vil understreke at det går an å planlegge driften slik at risikoen for at det oppstår situasjoner der man må
-gripe inn på et nødrettslig grunnlag, blir mindre.
-Det innebærer at skolen må tenke helhetlig rundt
-hva som er årsaken til at slike situasjoner oppstår.
-Dersom det er tale om gjentatte inngrep overfor
-samme elev på et nødrettslig grunnlag, kan dette
-være et uttrykk for at eleven har behov for nye
-eller andre tiltak for å forebygge at situasjoner
-oppstår i framtiden. Utvalget foreslår derfor at
-skolen pålegges en plikt til å arbeide forebyggende.
-Krav om forebygging kan bety ulike tiltak i
-ulike situasjoner. Det kan for eksempel være nødvendig å gi skolens ansatte økt kompetanse for å
-avverge situasjoner som krever fysisk inngripen.
-Det kan også være tale om bygningsmessige
-endringer, ominnredning eller organisatoriske
-endringer for å bidra til at uønskede situasjoner
-ikke oppstår. Gode forebyggende tiltak forutsetter
-
-god kjennskap til elevene og oversikt over hvor,
-når og i hvilken sammenheng krevende situasjoner oppstår.
-Bør det åpnes for at foreldrene samtykker til tiltak?
-Elever har normalt samtykkekompetanse til valg
-av utdanning fra fylte 15 år, jf. barnelova § 32.
-Elever som har begynt på skolen til vanlig tid og
-fulgt det vanlige utdanningsløpet, vil fylle 15 år
-enten våren i 9. klasse eller høsten i 10. klasse. De
-fleste barn og unge i grunnopplæringen er altså
-under 15 år. Utvalget legger videre til grunn at foreldrene ikke kan samtykke til gjennomføring av
-andre tiltak enn de foreldrene selv kan utføre
-overfor egne barn.
-Barn i alderen 6–16 år har en opplæringsplikt,
-noe som for de aller fleste innebærer en skoleplikt, og foreldrene har en plikt til å medvirke til at
-opplæringsplikten oppfylles. En annen problemstilling som slår inn, er hva som skal regnes som
-henholdsvis omsorgstiltak, valg av utdanning og
-behandling. Dette kan ha betydning både for hvilket regelverk som kommer til anvendelse, og for
-hvem som har kompetanse til å samtykke.
-Tiltakene må også vurderes ut fra sitt formål:
-Er det et hjelpetiltak, eller er det et overvinnelsestiltak? Et viktig moment er tid. Hvor lenge varer
-selve overvinnelsen av motstand? Frekvens er et
-annet viktig moment. Hvor ofte må motstand overvinnes? Grad av fysisk belastning må også vurderes. Hvor stor grad av fastholding kan aksepteres?
-For elever med utviklingshemming vil vurderingen av tiltak bli ytterligere utfordrende. Når en
-elev på femten år har modenhet som en treåring,
-kan ikke skolen bruke tiltak som det hadde vært
-rimelig å bruke overfor et barn som er tre år.
-I enkelte tilfeller kan det etter helselovgivningen gjennomføres inngripende tiltak overfor barn
-under 16 år uten at det blir karakterisert som
-tvang basert på foreldrenes samtykke. Psykisk
-helsevernloven bygger på pasient- og brukerrettighetslovens samtykkeregler, se psykisk helsevernloven § 1-5 og § 2-1 første avsnitt.
-Spørsmålet blir da om det bør åpnes for at foreldrene kan samtykke til gjennomføring av tiltak
-som eleven normalt motsetter seg, og som er mer
-inngripende enn dem som dekkes av forslaget til
-§ 12-1. Å samtykke medfører at det skal tas et
-standpunkt og foretas et valg mellom alternativer,
-noe som også har en etisk side.
-Når foreldrene gir samtykke til noe barnet
-ikke ønsker, kan barnet oppleve det som et svik.
-Dette kan være belastende for det videre forholdet mellom barn og foreldre. Dersom et hand-
-
-[Side 489]
-
-NOU 2019: 23
-Ny opplæringslov
-
-lingsalternativ må bero på et samtykke fra foreldrene, må man også ta høyde for at foreldrene kan
-velge ikke å gi sitt samtykke til tiltaket. Videre har
-utvalget lagt til grunn at foreldrene ikke kan samtykke til gjennomføring av andre tiltak enn tiltak
-de selv kan utføre, noe som betyr at skolen må
-vurdere om foreldrene har kompetanse til å samtykke til det aktuelle tiltaket. Når tiltaket gjennomføres på grunnlag av samtykke, må skolen også
-vurdere hvor langt samtykket rekker.
-Utvalget mener derfor at skolen ikke kan
-bygge på samtykke fra foreldrene for andre tiltak
-enn det lovforslaget gir adgang til.
-Hvilke tiltak bør loven ikke åpne for?
-Helserelatert tvang
-Helse- og omsorgstjenesteloven er såkalt arenanøytral, og utvalget legger til grunn at det er
-ønskelig med mer «arenafleksible» tjenestetilbud
-innenfor helse- og omsorgstjenesten. Det betyr at
-barn og ungdom kan forvente at oppfølgingen
-foregår på flere ulike arenaer som i hjemmet, på
-skolen, ved fritidsaktiviteter og i det offentlige
-rom, som ved offentlig transport. Heller ikke opplæringsloven er til hinder for at tiltak etter kapittel
-9 i helse- og omsorgstjenesteloven gjennomføres
-når eleven befinner seg på skolen i skoletiden. I
-NOU 2019: 14 foreslås det at den nye tvangsbegrensningsloven skal være arenanøytral. Opplæringslovutvalget mener derfor at den nye opplæringsloven ikke bør åpne for helserelatert tvang,
-for eksempel tiltak for å avverge at eleven skader
-seg selv, eller der det er behov for mer inngripende eller mer varige eller gjentatte tiltak.
-Utgangspunktet bør være at helselovgivningen fortsatt skal gjelde når elever har behov for
-helse- og omsorgstjenester, inkludert helserelaterte tvangstiltak, i skoletiden. Utvalget foreslår
-ingen endringer i adgangen til å bruke tvang i helseøyemed, men foreslår at det presiseres i den
-nye opplæringsloven at kapittel 9 i helse- og
-omsorgstjenesteloven gjelder for helserelaterte
-tiltak. Det innebærer at denne typen tiltak fortsatt
-bare kan gjennomføres av helsepersonell. Selv om
-helse- og omsorgstjenesteloven er arenanøytral,
-ber utvalget om at departementet ser nærmere på
-erfaringer med tvangsbruk etter kapittel 9 i helseog omsorgstjenesteloven i skoletiden.
-
-487
-
-Kapittel 37
-
-Tvang i opplæringsøyemed
-I NOU 2019: 14 foreslås det et forbud mot tvang i
-trenings- og opplæringstiltak. Det betyr blant
-annet at tiltakene etter forslag til ny tvangsbegrensningslov ikke kan gjennomføres med «kunstig» høy frekvens for opplæringen og treningens
-skyld.
-Opplæringslovutvalget mener at heller ikke
-grunnskoleopplæring og videregående opplæring
-bør kunne gjennomføres ved bruk av tvang, for
-eksempel bruk av fysiske tiltak som eleven motsetter seg for å gjennomføre repetisjoner. Dersom
-opplæringen ikke kan gjennomføres etter læreplanverket (eller den individuelle opplæringsplanen) ved hjelp av forebyggende tiltak eller
-omsorgstiltak, mener utvalget at det heller må
-vurderes om opplæringstilbudet må endres.
-Videre mener utvalget at det kan være aktuelt å
-vurdere om det vil være bedre for eleven å bli helt
-eller delvis fritatt for opplæringsplikten, for
-eksempel der det viser seg at fysisk eller verbal
-tvangsbruk er påkrevd for å gjennomføre opplæringen. Utvalget foreslår derfor at det ikke åpnes
-for tvang i opplæringsøyemed med hjemmel i den
-nye loven.
-Andre tiltak
-Utvalget foreslår ikke at den nye loven skal åpne
-for andre tiltak enn det som er angitt i forslaget
-§ 12-1 andre avsnitt. Dette innebærer blant annet
-at bestemmelsen ikke gir hjemmel for å bruke
-straff eller inngrep der eleven kommer til skade.
-Slike tiltak vil fortsatt være ulovlige og kan også
-være straffbare.38 Forslaget åpner heller ikke for
-isolasjon, kroppsvisitasjon eller undersøkelse av
-eiendeler. Opplistingen er ikke uttømmende.
-Det er ikke rettslig nødvendig å fastsette at
-reglene i straffeloven §§ 17 og 18 om nødrett og
-nødverge gjelder. Utvalget har likevel funnet det
-naturlig å vise til disse reglene i lovbestemmelsen
-for å unngå misforståelser. Utvalgets forslag innebærer at de ansattes kan gripe inn mot elever for å
-holde ro og orden eller forebygge skade på et noe
-tidligere tidspunkt enn etter reglene om nødrett
-og nødverge.
-Utvalget vil trekke fram at dersom en elev eller
-foreldrene mener at skolen har gjennomført tiltak
-i strid med opplæringsloven, kan de melde saken
-til fylkesmannen i tråd med gjeldende § 9 A-6 og
-lovforslagets § 11-6, se kapittel 36.4.8.
-38
-
-Se HR-2019-1719-U, som er omtalt ovenfor.
-
-[Side 490]
-
-488
-
-Kapittel 37
-
-NOU 2019: 23
-Ny opplæringslov
-
-Hvilke krav bør stilles til dokumentasjon og
-rapportering?
-Utvalget vurderer det som nødvendig å rette oppmerksomhet mot bruk av fysiske tiltak mot enkeltelever. Gjennom å skape bevissthet om skolenes
-praksis, vil man også kunne iverksette gode forebyggende tiltak. Derfor foreslår utvalget at det skal
-være krav om dokumentasjon og rapportering når
-skolen har måttet gripe fysisk inn mot en elev.
-Utvalget mener at dette kravet bør gjelde både når
-tiltaket gjøres i henhold til straffelovens bestemmelser om nødrett eller nødverge og når det gjøres
-etter den nye opplæringsloven. Dette samsvarer
-langt på vei med reguleringen i den finske lag om
-grundläggande utbildning § 36b tredje avsnitt.
-Det er viktig for elevens rettssikkerhet at
-fysiske tiltak som blir brukt, blir dokumentert.
-Eleven vil være rettsløs hvis det ikke finnes dokumentasjon på hva som har skjedd, hvilke vurderinger de tilsatte har gjort, og hvilke tiltak som har
-vært iverksatt. En skriftlig dokumentasjon er også
-nødvendig for å avdekke risiko og gjøre en vurdering av om det skal gjennomføres forebyggende
-tiltak. Dokumentasjonen må inneholde tilstrekkelig opplysninger til at rektor, elevens foreldre og
-kommunen kan sette seg inn i hva som har
-skjedd, og hvilke tiltak som har vært gjennomført.
-Utvalget foreslår at det tas inn i loven at skolen
-skal dokumentere hva som har skjedd og blitt
-gjort i den formen og det omfanget som er nødvendig. Formuleringen er basert på formuleringen
-som er brukt i kommuneloven § 25-1 tredje avsnitt
-bokstav d om å dokumentere internkontrollen.
-Hvor mye og hvilken form som nødvendig, må
-vurderes ut fra formålet med dokumentasjonsplikten og risikoen for elevene. Jo mer inngripende tiltak, desto grundigere dokumentasjon må foreligge. Kommuner og skoler har ellers stor frihet
-når det gjelder formen for dokumentasjon, og bør
-finne fram til hensiktsmessige rutiner.
-Denne tilnærmingen samsvarer med systemet
-på helse- og omsorgstjenesteområdet der den
-som har ansvaret for at et tiltak iverksettes etter
-straffelovens bestemmelser om nødrett eller nødverge, sender melding om beslutningen til kommunen. Se nærmere om vurderingene som ligger
-til grunn for dette dokumentasjonskravet i Prop.
-91 L (2010–2011).39
-Utvalget legger for øvrig til grunn at skolen alltid skal informere foreldrene til eleven om inngrep. Det samme gjelder nødretts- eller nødvergesituasjoner. Dette følger av forslag til § 2-6.
-39
-
-Kap. 36.
-
-37.2.4 Utvalgets forslag
-Utvalget foreslår
-– at det presiseres i loven at skolen har en plikt til
-å arbeide forebyggende slik at det å gripe inn
-fysisk ikke blir nødvendig, se forslag til § 12-1
-første avsnitt
-– å gi hjemmel for at ansatte i skolen kan gripe
-inn fysisk overfor elever for å opprettholde
-orden eller avverge skade på personer eller
-eiendom, se forslag til § 12-1 andre avsnitt
-– at skolen skal dokumentere hendelser der det
-har vært gjennomført fysiske tiltak, se forslag
-til § 12-1 fjerde avsnitt
-– at kommunen og fylkeskommunen skal varsles
-når det har vært gjennomført fysiske tiltak, se
-forslag til § 12-1 fjerde avsnitt
-– at den nye opplæringsloven ikke skal hjemle
-tvang i opplæringsøyemed eller helserelatert
-tvang
-
-37.3 Bortvisning
-37.3.1 Dagens regler
-Det følger av opplæringsloven § 9 A-11 at kommunen kan fastsette i ordensreglementet at elever
-som alvorlig eller flere ganger bryter reglementet,
-kan vises bort fra undervisningen. Bestemmelsen
-gir i seg selv ikke kommunen hjemmel til å vise
-bort, men gir kommunen adgang til å gi regler om
-bortvisning i ordensreglementet. Videre regulerer bestemmelsen hvem som kan beslutte bortvisning, varigheten av bortvisningen og saksbehandlingsregler.
-Reglene for bortvisning i grunnskolen følger av
-§ 9 A-11 første avsnitt, der er det slått fast at det i
-ordensreglementet kan fastsettes at «[e]levar på
-1. til 7. årstrinn kan visast bort for enkelttimar
-eller resten av dagen, og elevar på 8. til 10. årstrinn kan visast bort for opp til tre dagar». Det følger av andre avsnitt i § 9 A-11 at elever i videregående opplæring kan bortvises i opptil fem dager
-dersom det er fastsatt i ordensreglementet. Ved
-særlig alvorlige brudd på reglementet kan elevene
-bortvises for resten av skoleåret.
-Tidligere § 3-8 i opplæringsloven åpnet for at
-fylkeskommunen kunne frata en elev retten til
-videregående opplæring. Denne adgangen ble
-fjernet med virkning fra 1. august 2017, se nærmere omtale i Prop. 57 L (2016–2017).
-Hvem som kan ta avgjørelsen om å bortvise en
-elev, er regulert i § 9 A-11 tredje avsnitt. Det er
-normalt rektor som kan avgjøre om en elev skal
-bortvises. Før rektor vedtar bortvisning, skal han
-
-[Side 491]
-
-NOU 2019: 23
-Ny opplæringslov
-
-eller hun ha rådført seg med elevens lærere.
-Bortvisning for resten av skoleåret skal alltid vedtas på fylkeskommunalt nivå, ikke skolenivå.
-Videre framgår det at dersom kommunen eller fylkeskommunen ikke har fastsatt noe annet, kan
-rektor gi lærerne myndighet til å bortvise elever
-fra sin egen undervisningsøkt, avgrenset til to
-sammenhengende klokketimer. Se for øvrig Prop.
-95 L (2009–2010).40
-I Prop. 57 L (2016–2017) er det lagt til grunn
-at bortvisning fra undervisningen for mer enn to
-klokketimer vil være et enkeltvedtak etter forvaltningsloven § 2, og at forvaltningslovens saksbehandlingsregler for enkeltvedtak gjelder.41 Dette
-er en annen terskel enn det som er lagt til grunn
-tidligere. Det står for eksempel følgende i Prop. 95
-L (2009–2010): «Etter departementets vurdering
-[…] vil bortvising frå undervisninga for kortare
-tidsperiodar enn éin dag ikkje vere enkeltvedtak».42 I juridisk teori er det med henvisning til at
-det må trekkes en nedre grense for hvilke inngrep
-som er å regne for enkeltvedtak, lagt til grunn at
-bortvisning for mindre enn én dag ikke er enkeltvedtak.43
-Før en elev blir bortvist fra undervisningen,
-skal andre tiltak være vurdert. Dette følger av
-opplæringsloven § 9 A-11 fjerde avsnitt. I det
-samme avsnittet er det fastsatt en varslingsplikt:
-«Foreldra skal varslast før ein elev på 1. til 7. årstrinn blir bortvist for resten av dagen.»
-
-37.3.2 Utvalgets vurdering
-Bør reglene om bortvisning videreføres?
-En bortvisning innebærer at elevens rett til opplæring settes midlertidig til side. Bortvisning er et
-inngripende tiltak, og utvalget mener derfor at det
-fortsatt bare bør være adgang til å bruke dette tiltaket der dette er fastsatt i skolereglene, se kapittel 22, og der det er særlige alvorlige brudd på
-reglene. I vurderingen har utvalget særlig lagt
-vekt på at muligheten for bortvisning skal være
-forutberegnelig for elevene; det bør være klart for
-elevene hva som skal til for at de skal kunne vises
-bort.
-Selv om det fortsatt bør være adgang til å
-benytte bortvisning, betyr ikke det at dette er en
-hensiktsmessig reaksjon eller en reaksjon som
-bør brukes ofte. Utvalget mener derfor at bortvis40
-
-Merknad til § 2-10.
-Merknad til § 9 A-11.
-42
-Kap. 3.2. Se også NOU 1995: 18, kap. 30.3.2.1.
-43
-Helgeland, 2018, s. 236–237.
-
-489
-
-Kapittel 37
-
-ning bare skal kunne benyttes dersom andre tiltak
-ikke er tilstrekkelige. Når det gjelder varigheten
-av bortvisningen, mener utvalget at den gjeldende
-graderingen ut fra trinn er hensiktsmessig og derfor bør videreføres.
-Dagens myndighetsdeling framstår som fornuftig og utvalget har ikke fått innspill som tilsier
-endring. Utvalget foreslår derfor å videreføre
-bestemmelsene om hvem som skal kunne vedta
-bortvisning.
-Når bør det være krav om enkeltvedtak?
-Det har som beskrevet i kapittel 37.3.1 vært lagt til
-grunn ulike oppfatninger av om bortvisning for en
-kortere tidsperiode er et enkeltvedtak etter forvaltningsloven § 2 bokstav a, jf. bokstav b. Det er i
-alminnelighet antatt at det er en nedre grense for
-hvilke avgjørelser som kan sies å være «bestemmende for rettigheter eller plikter til private personer», eller som kan sies å være «utøving av offentlig myndighet» og dermed er enkeltvedtak etter
-forvaltningsloven § 2 bokstav a, jf. bokstav b.
-Etter utvalgets oppfatning er bortvisning for
-mindre enn én dag ikke et enkeltvedtak, se kapittel
-37.3.1. Slik bortvisning er så lite inngripende overfor eleven at den vanskelig kan sies å være bestemmende for rettighetene og pliktene til eleven. I alle
-fall vil en slik myndighet uansett følge av skolens
-alminnelige instruksadgang overfor elevene i kraft
-av elevens skoleplikt. Det er dermed ikke offentlig
-myndighetsutøvelse.44 Dessuten vil det være lite
-hensiktsmessig å anvende forvaltningslovens saksbehandlingsregler i slike saker. Det er ikke lett å
-se hvordan bestemmelsene i forvaltningsloven om
-forhåndsvarsel (§ 16) eller retten til å klage (§ 28)
-skal kunne praktiseres i disse sakene. Etter utvalgets vurdering er det ikke tilstrekkelig argumenter som taler for en klagerett på bortvisning som
-har funnet sted. Utvalget understreker at eleven
-uansett skal høres, at elevens mening skal tillegges vekt og at elevens beste må være et tungtveiende hensyn i vurderingen, se forslag til §§ 2-1 og
-2-2 første avsnitt. Retten eleven har til å bli hørt, vil
-være aktuell i forbindelse med selve bortvisningen, men også i etterkant er det viktig at eleven får
-muligheten til å forklare seg om grunnlaget for
-bortvisningen. Utvalget vil likevel understreke at
-hva som er et enkeltvedtak, må vurderes konkret.
-Det kan for eksempel tenkes at et vedtak om
-bortvisning for enkelttimer som skal gjennomføres noe fram i tid, kan være et enkeltvedtak.45
-
-41
-
-44
-45
-
-Dette er lagt til grunn i Jahre, 1987.
-Se f.eks. Helgeland, 2018, s. 237.
-
-[Side 492]
-
-490
-
-Kapittel 37
-
-NOU 2019: 23
-Ny opplæringslov
-
-Andre spørsmål om bortvisning
-Utvalget foreslår at det ikke presiseres i loven at
-rektor må «ha rådført seg med lærarane» til
-eleven før rektor eventuelt beslutter at eleven skal
-bortvises, se dagens § 9 A-11 tredje avsnitt første
-setning. Rektor har både en utredningsplikt og en
-informasjonsplikt etter forvaltningsloven § 17, og
-utvalget legger til grunn at også der beslutning
-om bortvisning ikke er et enkeltvedtak, vil rektor
-normalt ikke ha grunnlag for å beslutte bortvisning uten å ha rådført seg med lærerne til eleven.
-Utvalget viser også til at andre tiltak skal være
-vurdert før bortvisning blir besluttet, noe som
-normalt forutsetter at elevens lærere blir involvert.
-Skolen har et omsorgs- og tilsynsansvar for
-elevene, og utvalget mener derfor at det er unødvendig å presisere i loven at foreldrene til en elev
-på 1. til 7. trinn skal varsles før eleven blir bortvist
-for resten av dagen. Utvalget mener også at skolen kan ha plikt til å varsle foreldrene til barn på
-høyere trinn. Dette må skolen vurdere konkret i
-lys av omsorgs- og tilsynsansvaret.
-Utvalget mener at bestemmelsen om bortvisning ikke bør plasseres i kapitlet om elevenes skolemiljø, og viser særlig til at en elev kan bortvises
-fra opplæringen av andre årsaker enn at han eller
-hun har krenket medelever, for eksempel fordi
-eleven har krenket en ansatt på skolen eller har
-forvoldt skade på eiendom. Utvalget foreslår derfor at bortvisning reguleres i forslag til kapittel 12
-om skadeforebygging og ordenstiltak.
-
-ningen av eleven for det samme lovbruddet. Vi
-kan illustrere problemet med et eksempel:
-Peder Ås er 16 år gammel og går i første klasse
-på Lillevik videregående skole. I et friminutt
-kommer han i krangel med Marte Kirkerud,
-som går i samme klasse. Han slår Marte to ganger i ansiktet med knyttet hånd. Deretter utløser han i smug brannalarmen, slik at alle elevene må forlate skolebygningen og brannvesenet må rykke ut. Marte melder fra til læreren
-om volden. Peder blir da så ergerlig at han
-spontant sender nakenbilder av Marte, som
-han tidligere har fått av henne, til alle guttene i
-klassen.
-Både volden mot Marte, utløsingen av brannalarmen og spredningen av bildene skaper
-reaksjoner blant lærere og elever. Rektor
-beslutter å bortvise Peder fra undervisningen
-for fem dager, jf. gjeldende § 9 A-11 i opplæringsloven. Rektor varsler også at det blir
-spørsmål om å sette ned Peders oppførselskarakter. Han vurderer også å anbefale overfor
-fylkeskommunen å bortvise Peder fra skolen
-for resten av året. Rektor mener disse tiltakene
-er nødvendige for å skape ro ved skolen, og
-synes heller ikke det er noen ulempe at andre
-elever ser at regelbrudd kan få konsekvenser.
-Politiet etterforsker saken mot Peder som
-vold (straffeloven §§ 271 og følgende), falsk
-alarm (straffeloven § 187) og spredning av seksualiserte bilder av barn under 18 år (straffeloven § 311) samt seksuelt krenkende atferd
-overfor guttene som fikk bildene uten å ha bedt
-om det (straffeloven § 298). Skolens reaksjon
-kommer like etter at første avhøret av Peder er
-gjennomført.
-
-Særlig om sanksjoner og gjentatt straffeforfølgning
-Utvalget har erfart at det er en viss usikkerhet i
-opplæringssektoren om betydningen av reglene i
-den europeiske menneskerettskonvensjon (EMK)
-for reaksjoner og sanksjoner overfor elevene.
-Utvalget har derfor vurdert om ordensmessig
-oppfølging etter opplæringsloven kan skape spørsmål om såkalt gjentatt straffeforfølgning etter
-EMK protokoll 7 (P7) artikkel 4, ofte forkortet
-«P7-4». EMK og protokollene skal ved motstrid gå
-foran bestemmelser i annen lovgivning, jf. menneskerettsloven § 3.
-Elever som er fylt 15 år, kan straffes hvis de
-bryter straffebestemmelser, jf. straffeloven § 20.
-Samtidig kan straffbare handlinger begått på skolen føre til ordensmessige følger etter opplæringsloven. Spørsmålet er derfor om slike ordensmessige tiltak kan begrense politiets og påtalemyndighetens mulighet til å gjennomføre straffeforfølg-
-
-Det er en rekke vilkår som må være oppfylt for at
-en myndighetsavgjørelse skal avskjære en annen
-myndighet fra å forfølge den samme handlingen.46 De mest praktiske spørsmålene i denne
-sammenheng er:
-– Vil skolens reaksjon være «straff» etter EMK?
-– Er det i så fall likevel adgang til såkalt parallellforfølgning?
-Spørsmålet om hvorvidt en sanksjon er «straff»
-etter EMK, må besvares etter de såkalte Engelkriteriene, som ble oppstilt av EMD i saken Engel
-m.fl. mot Nederland:47
-46
-47
-
-Rui, 2014, bind 1, s. 353–370.
-Skoghøy, 2014, s. 297–339.
-
-[Side 493]
-
-NOU 2019: 23
-Ny opplæringslov
-
-–
-–
-–
-
-nasjonal klassifikasjon («the characterisation
-under national law»)
-lovbruddets karakter («the nature of the
-offence»)
-innholdet i og alvoret av den sanksjonen lovbryteren risikerer («the nature and degree of
-severity of the penalty»)
-
-Det er tilstrekkelig for å fastslå at en reaksjon er
-straff at ett av vilkårene er oppfylt. Men det kan
-også skje at en totalvurdering av vilkårene fører til
-at man anser en reaksjon som straff selv om ikke
-ett enkelt vilkår er nok til å gjøre reaksjonen til
-straff.
-Det er på det rene at ordensmessige reaksjoner som er hjemlet i opplæringsloven, ikke er
-«straff» etter norsk intern rett. Det første mulige
-grunnlaget etter Engel-kriteriene er derfor ikke
-oppfylt.
-Det neste spørsmålet er om lovbruddets
-karakter («the nature of the offence») gjør at reaksjonen er straff. Det er ingen ting ved bortvisningen i seg selv som taler for at den er «straff». En
-skole har behov for å kunne ta en elev ut av undervisningen av rent ordensmessige hensyn for å
-løse opp i en situasjon. Formålet er ikke her å
-gjengjelde, men å gjenopprette ro og orden. Etter
-Høyesteretts praksis vil suspensjon av en legelisens ikke anses som straff, selv om grunnlaget for
-suspensjonen er straffbare handlinger.48 En nedsatt oppførselskarakter er heller ikke «straff»; den
-er en tilkjennegivelse av hvordan eleven har oppført seg under skolegangen.
-Selv om rektor har et håp om at Peder og
-andre elever tar lærdom av bortvisningen, er ikke
-det nok til å gjøre reaksjonen til straff. Det ville
-likevel være uheldig om rektor begrunnet vedtaket med typisk strafferettslige hensyn som rettferdig gjengjeldelse eller preventive hensyn.
-Det siste spørsmålet man må stille seg, er om
-sanksjonen er av en så streng karakter at dette
-gjør at bortvisningen og den nedsatte karakteren
-anses som straff. Disiplinærreaksjoner vil sjelden
-være tilstrekkelig inngripende til at de anses som
-straff. En bortvisning i inntil tre dager (eller fem
-dager i videregående skole) vil ikke være så inngripende at den kan anses som straff.
-Når bruddene på ordensreglementet er «særleg alvorlege», kan fylkeskommunen vedta at en
-elev i videregående skole skal vises bort for
-resten av skoleåret. Det kan spørres om en slik
-bortvisning er så inngripende at den kan regnes
-som straff. Det kunne nok være tilfellet dersom
-48
-
-Rt. 2004 s. 1343.
-
-491
-
-Kapittel 37
-
-eleven samtidig mistet sin rett til videregående
-opplæring. Utvalget foreslår – som etter gjeldende
-lov – at bortvisningen ikke skal medføre at eleven
-taper sin rett til opplæring. Det vil si at en bortvisning for en større del av et skoleår først og fremst
-vil innebære at eleven vil få en utsettelse i sin skolegang. Under denne forutsetningen er utvalget
-av den oppfatning at selv en så langvarig bortvisning ikke i seg selv er så alvorlig at den må regnes
-som straff.
-Selv om man skulle komme til at bortvisningen er straff etter EMK, gjenstår spørsmålet om
-politiet er avskåret fra å gå videre med saken. Dersom etterforskningen drives framover uten urimelig lange opphold, kan mye tale for at straffeforfølgningen her kan gjennomføres etter prinsippet
-om at parallellforfølgning er tillatt.49
-Basert på det ovenstående, mener utvalget at
-heller ikke tvunget skolebytte, se kapittel 37.4,
-kan være straff etter EMK. Formålet med bestemmelsen om tvunget skolebytte er at kommunen
-skal kunne flytte elever for å sikre at skolemiljøet
-på den enkelte skolen er forsvarlig, for eksempel
-der flytting ses som nødvendig for at mobbing
-skal opphøre. Formålet er altså ikke gjengjeldelse
-eller å påføre eleven en negativ reaksjon.50
-
-37.3.3 Utvalgets forslag
-Utvalget foreslår
-– at bestemmelsen om bortvisning i hovedsak
-videreføres, se forslag til § 12-2
-
-37.4 Pålagt skolebytte
-37.4.1 Dagens regler
-Det følger av § 9 A-12 at en elev kan flyttes til en
-annen skole enn den eleven ellers har rett til å gå
-på, dersom oppførselen til eleven i alvorlig grad
-går utover tryggheten eller læringen til én eller
-flere medelever, for eksempel fordi eleven mobber andre elever. Både elever i grunnskolen og
-elever i videregående skole kan bli pålagt å bytte
-skole. Elever i videregående har rett til å fortsette
-på samme utdanningsprogram og programområde. Bestemmelsen ble innført i 2019. Tidligere
-
-49
-50
-
-Rt. 2012 s. 1051.
-Rt. 2015 s. 92. Høyesterett har fastslått at overføring fra et
-fengsel til et annet på grunn av mistanke om narkotikalovbrudd, ikke var straff etter EMK. Høyesterett la i saken
-avgjørende vekt på at formålet med bestemmelsen om
-overflytting var å sikre en hensiktsmessig plassering av
-innsatte.
-
-[Side 494]
-
-492
-
-Kapittel 37
-
-NOU 2019: 23
-Ny opplæringslov
-
-var det bare regler om pålagt skolebytte i grunnskolen.
-
-37.4.2 Innspill til utvalget
-Forandringsfabrikken har innhentet innspill fra en
-rekke elever, og uttaler: «Elevene foreslår at paragrafen endres slik at flytting mot eleven […] sin
-vilje aldri skal kunne skje. Dette er for hardt. Samarbeid med, og inkludering av den som plager
-andre, er en bedre strategi.»51
-Fagpolitisk utvalg i Østlandssamarbeidet
-mener at loven bør åpne for at det er mulig å
-kunne «flytte mobber og ikke kun mobbeoffer i
-videregående skole. I tilfeller der flytting av elever
-vurderes som virkemiddel skal praksisen i hovedsak være at mobberen skifter skole.»52
-37.4.3 Utvalgets vurdering
-Utvalget mener at bestemmelsen om skolebytte i
-hovedsak bør videreføres i ny opplæringslov.
-I dag er det et vilkår at oppførselen til eleven
-går alvorlig utover tryggheten og læringen til
-andre elever. Utvalget foreslår at dette vilkåret
-videreføres, men foreslår at skolebytte også kan
-brukes dersom oppførselen går alvorlig ut over
-trivselen til eleven. Utvalget mener dette samsvarer bedre med elevenes rett til et trygt og godt
-skolemiljø som fremmer helse, trivsel og læring,
-se forslaget § 11-2. Det understrekes likevel at terskelen for skolebytte er høyere enn at andre
-elever ikke har det trygt og godt, ettersom vilkåret er at det oppførselen går alvorlig utover tryggheten, trivselen og læringen til andre elever.
-Utvalget mener at tvunget skolebytte bare skal
-være aktuelt dersom andre, mildere tiltak ikke
-kan avhjelpe situasjonen. Utvalget foreslår at
-denne begrensningen videreføres i loven. Videre
-foreslår utvalget at det videreføres at tvunget skolebytte ikke skal skje dersom det fører til at eleven
-må flytte hjemmefra eller daglig skoleskyss ikke
-blir forsvarlig.
-I opplæringsloven § 9 A-12 femte avsnitt er det
-fastsatt at kommunen skal rådføre seg med rektor
-og lærerne til eleven og sørge for at eleven blir
-hørt før det fattes vedtak om skolebytte. Videre er
-det i § 9 A-12 sjette avsnitt fastsatt at barnets beste
-skal være et grunnleggende hensyn i slike saker.
-Utvalget foreslår generelle regler om elevers rett
-til å bli hørt og om hensynet til elevens beste, se
-51
-52
-
-Forandringsfabrikken, innspill til utvalget.
-Fagpolitisk utvalg i Østlandssamarbeidet, innspill til utvalget.
-
-lovforslaget §§ 2-1 og 2-2. Utvalget foreslår derfor
-å ikke videreføre reglene om elevers rett til å bli
-hørt og hensynet til elevens beste i bestemmelsen
-om skolebytte. Når det gjelder plikten for kommuner til å rådføre seg med rektor og elevens lærere,
-mener utvalget denne regelen er overflødig. Det
-følger av forvaltningsloven § 17 at saken må være
-så godt opplyst som mulig før vedtak treffes. Det
-vil i praksis ikke være mulig for kommuner å oppfylle dette kravet uten å rådføre seg med rektoren
-og elevens lærere. Utvalget foreslår derfor at heller ikke denne delen av § 9 A-12 femte avsnitt videreføres.
-Utvalget foreslår at det videreføres at elever i
-videregående skole skal ha rett til å fortsette på
-samme utdanningsprogram og programområdet.
-I motsatt fall vil det være et inngrep i retten til
-videregående opplæring.
-Det følger av dagens lov at kommunen vedtar
-skolebytte i grunnskolen og at fylkeskommunen
-vedtar skolebytte i videregående skole. Det er lagt
-til grunn at kommuner ikke kan delegere vedtaksmyndigheten, men dette framgår ikke av lovteksten.53 Et vedtak om tvungent skolebytte er et
-svært inngripende vedtak. Utvalget foreslår derfor at det videreføres at myndigheten ikke kan
-delegeres. Utvalget foreslår endringer i ordlyden
-for å få dette tydeligere fram. Utvalget mener derimot at det er overflødig å presisere i loven at det
-er kommunen som gjør vedtak i grunnskolen og
-fylkeskommunen som gjør vedtak i videregående
-skole. Dette følger av ansvarsfordelingen mellom
-kommunen og fylkeskommunen.
-
-37.4.4 Utvalgets forslag
-Utvalget foreslår
-– at bestemmelsen om pålagt skolebytte videreføres med noen endringer, se forslag til § 12-3
-
-37.5 Forbud mot ansiktsdekkende
-plagg
-37.5.1 Dagens regler
-Grunnloven og Norges folkerettslige forpliktelser
-Dagens forbud mot bruk av ansiktsdekkende
-plagg i opplæringen vil i all hovedsak ramme bruken av nikab og burka i opplæringssituasjonen.
-Å bruke ansiktsdekkende plagg for å markere
-sin religiøse tro, kan falle inn under retten til å gi
-uttrykk for sin religion. Justis- og beredskapsde53
-
-Prop. 88 L (2018–2019), merknad til § 9 A-12 fjerde ledd.
-
-[Side 495]
-
-NOU 2019: 23
-Ny opplæringslov
-
-partementets lovavdeling vurderte i 2007 om religionsfriheten, slik den er nedfelt i Grunnloven,
-den europeiske menneskerettskonvensjonen
-(EMK) artikkel 9 og FNs konvensjon om sivile og
-politiske rettigheter (SP) artikkel 18, er til hinder
-for å forby bruk av ansiktsdekkende plagg i offentlige skoler. Justis- og beredskapsdepartementets
-lovavdeling54 beskrev nikab som en kombinasjon
-av hode- og ansiktsplagg som kan brukes på flere
-måter, men som vanligvis dekker hele ansiktet
-bortsett fra øynene. Burka ble beskrevet som et
-plagg som dekker hele kroppen og har et tøygitter
-foran øynene. Begge plaggene er gjerne knyttet til
-markering av religiøs tilhørighet.
-Lovavdelingen mente at et forbud som er
-begrunnet i et saklig formål, som er nødvendig, og
-som ikke er uforholdsmessig inngripende, ikke vil
-være i strid med tros- og livssynsfriheten eller diskrimineringslovverket. Lovavdelingen slo fast at
-praktiske utfordringer med kommunikasjonen i
-undervisningssituasjonen og i det sosiale samværet mellom elevene, kan gjøre at et forbud mot
-bruk av ansiktsdekkende plagg ikke er i strid med
-menneskerettighetene. Lovavdelingen påpekte at
-det samme trolig vil gjelde for voksenopplæringen
-og på skoleområdet i pauser og lignende utenfor
-undervisningssituasjonen.55
-Vurderingen til Lovavdelingen fra 2007 gjaldt
-et forbud rettet mot elever og deltakere i offentlige skoler og i voksenopplæringen. I en uttalelse
-fra 2017 har Lovavdelingen vurdert forholdet til
-religionsfriheten ved et mulig nasjonalt forbud
-mot ansiktsdekkende plagg i barnehager og
-utdanningsinstitusjoner. Denne vurderingen er
-bredere, og knytter seg også blant annet til et
-eventuelt forbud som vil gjelde undervisningspersonalet i skolen. Også i denne uttalelsen konkluderer Lovavdelingen med at et slikt forbud ikke vil
-være i strid med Grunnloven og Norges folkerettslige forpliktelser.56
-
-493
-
-Kapittel 37
-
-muntlig eksamen, tentamen, heldagsprøver osv.
-Det framgår videre at forbudet gjelder uavhengig
-av om undervisningen skjer på skolen eller ikke.
-Når det gjelder turer og arrangementer, framgår
-det at dette eksempelvis gjelder leirskoleopphold
-og kortere turer i skolens nærmiljø, sommer- og
-juleavslutninger m.m. Forbudet gjelder ikke i friminutt og pauser, og heller ikke på skoleveien.57
-Det følger av paragrafens andre avsnitt at forbudet også gjelder opplæring i bedrift. I femte
-avsnitt står det at forbudet også gjelder dem som
-underviser på skolen. I Prop. 51 L (2017–2018)
-framgår det at forbudet også gjelder personer som
-i utgangspunktet ikke har undervisningsoppgaver, som administrativt personale, rådgivere, skolebibliotekarer, sosiallærere og inspektører når
-disse er i undervisningssituasjoner. Helsesykepleiere og ansatte i PP-tjenesten er omfattet
-av forbudet når de underviser elever, og når de
-har samtaler med elever. Personer som arbeider i
-skolefritidsordningen eller leksehjelpordningen
-er også omfattet av «dei som underviser på skolen».58
-Det er i paragrafens tredje avsnitt gjort unntak
-for ansiktsdekkende plagg som brukes på grunn
-av «klimatiske, pedagogiske, helsemessige eller
-tryggleiksmessige forhold». Dette kan for eksempel være utkledningsutstyr, bandasjer, munnbind
-eller verneutstyr.59
-I fjerde og femte avsnitt framgår det at skolen
-kan benytte reaksjoner som følger av ordensreglementet overfor elever som bryter forbudet. Det er
-presisert i Prop. 51 L (2017–2018) at dialog alltid
-skal forsøkes. Kommunen fastsetter hvilke reaksjoner som vil gjelde i voksenopplæringen. For
-undervisningspersonale framgår det at gjentatte
-brudd på forbudet kan være oppsigelsesgrunn.
-Andre lover
-
-Det følger av § 9-7 første avsnitt at det er forbudt
-for elever å bruke klesplagg som helt eller delvis
-dekker ansiktet, i forbindelse med undervisningen og vurderingssituasjoner, i leksehjelpsordningen og i skolefritidsordningen. Forbudet gjelder
-også på turer og arrangementer i regi av skolen.
-I Prop. 51 L (2017–2018) framgår det at det
-med vurderingssituasjoner er ment skriftlig og
-
-Forbudet som trådte i kraft høsten 2018, gjelder
-ikke bare i grunnopplæringen, skolefritidsordningen og leksehjelpen, men i all utdanning; i barnehager, på folkehøyskoler, på fagskoler, i opplæring
-av nyankomne innvandrere og i høyere utdanning. I alt er det innført forbud mot ansiktsdekkende plagg i åtte lover.
-Likestillings- og diskrimineringsloven § 6 forbyr diskriminering på grunn av religion og livssyn. Et forbud mot å bruke religiøse hodeplagg er
-tillatt dersom det har et saklig formål og er nød-
-
-54
-
-57
-
-55
-
-58
-
-Opplæringsloven
-
-JDLOV-2006-7530.
-JDLOV-2006-7530.
-56
-JDLOV-2016-6700.
-
-59
-
-Prop. 51 L (2017–2018), merknad til § 9–7.
-Prop. 51 L (2017–2018), merknad til § 9–7.
-Prop. 51 L (2017–2018), merknad til § 9–7.
+## Kunnskapsgrunnlaget
+
+### Historikk
+
+Kapitlet om skolemiljø ble i sin helhet endret i 2017, og de nye reglene trådte i kraft 1. august 2017. Det ble gjort omfattende endringer i reglene om det psykososiale skolemiljøet. Den viktigste endringen var at det ble innført aktivitetskrav og krav om aktivitetsplan, som erstatter den tidligere ordningen med enkeltvedtak. Det ble også innført en ny håndhevingsordning og adgang til å ilegge tvangsmulkt ved brudd på aktivitetsplikten. I tillegg ble det innført krav om nulltoleranse for mobbing og andre krenkelser og krav om dokumentasjon. Reglene om ordensreglement og bortvisning ble flyttet til kapitlet om skolemiljø, og adgangen til å frata ungdommer retten til videregående opplæring ble fjernet. Reglene om det fysiske skolemiljøet ble videreført uendret, men fikk nytt paragrafnummer. Revisjonen av kapitlet om skolemiljø var en oppfølging av NOU 2015: 2.
+
+### Rapporter og undersøkelser
+
+Elevundersøkelsen
+
+Elevundersøkelsen er en årlig undersøkelse der elever får si sin mening om læring og trivsel i skolen. I 2018 svarte 6,1 prosent av elevene, noe som tilsvarer 27 300 elever, at de blir mobbet to til tre ganger i måneden eller oftere. Dette er en reduksjon på 0,5 prosentpoeng fra 2017.
+
+Det var 4,6 prosent av elevene som svarte at de blir mobbet av *andre elever* to til tre ganger i måneden eller oftere. De fleste elevene sier at de blir kalt stygge ting og ertet på en sårende måte, holdt utenfor og baksnakket, mens en noe mindre andel opplever fysisk mobbing.
+
+Det var 1,6 prosent av elevene som svarte at de har blitt mobbet av *voksne* på skolen to til tre ganger i måneden eller oftere. Det er flest elever som blir mobbet av elever i gruppen eller klassen, og dernest av andre elever på skolen. Mesteparten av mobbingen foregår i skolegården, i klasserommet og i korridoren. 37,1 prosent av elevene svarer at ingen voksne på skolen visste om mobbingen, mens 16,1 prosent svarer at skolen visste om mobbingen, men ikke gjorde noe.
+
+Det er 1,9 prosent av elevene som svarer at de blir mobbet digitalt to til tre ganger i måneden eller oftere. I underkant av 50 prosent av elevene som blir mobbet digitalt, opplever også tradisjonell mobbing.[^1000]
+
+Spørreundersøkelse til skoler og kommuner
+
+På oppdrag fra Utdanningsdirektoratet gjennomfører NIFU to årlige spørringer mot skolesektoren. Høsten 2017 var kompetanse og informasjon om skolemiljø ett av temaene i spørreundersøkelsen.
+
+Kommuners og skolelederes syn på ansattes kompetanse og kunnskap om psykososialt skolemiljø, regelverket knyttet til skolemiljø og arbeid mot mobbing viser stor grad av tilfredshet.
+
+Over 9 av 10 benytter Utdanningsdirektoratets nettsider som kilde til informasjon om regelverket rundt arbeidet med skolemiljø. Blant skoleledere gir også en stor andel uttrykk for at de får informasjon om dette fra kommunen. På spørsmålet om hvor de foretrekker å få denne type informasjonen fra, finner NIFU også at omtrent 9 av 10 foretrekker å få informasjonen fra Utdanningsdirektoratets nettsider.
+
+Videre viser undersøkelsen at 65 prosent mener at deres skole eller skoler i stor eller svært stor grad har etablert samarbeidsnettverk med andre lokale etater og tjenester i kommunen for å ivareta elevenes rett til et godt psykososialt skolemiljø.[^1001]
+
+Saker om skolemiljø meldt til fylkesmannen
+
+Ifølge tall rapportert fra fylkesmennene til Utdanningsdirektoratet ble det skoleåret 2017–2018 meldt til sammen 1 416 saker til de ulike fylkesmannsembetene rundt om i landet. Første halvdel av skoleåret 2018–2019 ble det meldt 653 saker.
+
+Av de 1 402 sakene som ble behandlet ferdig skoleåret 2017–2018, konkluderte fylkesmennene med at aktivitetsplikten var brutt i 791 av sakene. I 182 av sakene kom fylkesmennene fram til at aktivitetsplikten var oppfylt. 97 saker ble avvist av forskjellige årsaker, mens det i 136 saker ble gitt veiledning framfor å avvise saken fordi det var under én uke siden saken var tatt opp med rektor. 196 saker ble trukket.
+
+Av sakene meldt høsten 2018 ble det konkludert med at aktivitetsplikten var brutt i 134 av de 329 sakene som var ferdig behandlet innen 31. desember 2018. Aktivitetsplikten var oppfylt i 35 saker. 44 saker ble avvist, mens 82 saker ble trukket. I 34 saker ble det gitt veiledning framfor å avvise saken.[^1002]
+
+I intervjuer som Deloitte gjorde med utvalgte fylkesmannsembeter i forbindelse med evalueringen av nytt kapittel 9 A i opplæringsloven, framgår det at det i all hovedsak er saker som gjelder elever i grunnskolen som meldes til fylkesmannen.[^1003] For eksempel opplyses det at kun fem prosent av sakene med vedtak hos Fylkesmannen i Oslo og Akershus skoleåret 2017–2018 gjaldt elever i videregående skole.
+
+Sammenlignet med tidligere § 9a-3, hvor fylkesmannen behandlet klagesaker på enkeltvedtak, har håndhevingsordningen medført en stor økning i mengden skolemiljøsaker behandlet hos fylkesmennene. Samtidig er antallet saker etter gammel og ny ordning ikke direkte sammenlignbart, da vilkåret for å melde en sak etter håndhevingsordningen ikke er det samme som vilkåret for å kunne påklage et enkeltvedtak etter den gamle ordningen.
+
+Vurdering fra Barneombudet
+
+Våren 2018 gikk Barneombudet gjennom alle sakene om skolemiljø som var meldt til fylkesmennene. På det tidspunktet hadde loven vært i kraft i underkant av ett år. Barneombudet presenterte sine vurderinger i en rapport til fylkesmennene.[^1004]
+
+Hovedinntrykket til Barneombudet var at saksbehandlingen har blitt enklere, raskere og tryggere – for noen elever. Barneombudet gjorde flere positive funn. Barneombudet mente at fylkesmennene legger elevens opplevelse til grunn når de vurderer om retten til et trygt og godt skolemiljø er oppfylt, og at flere embeter er tydelige dersom de mener skolen har bagatellisert elevens opplevelse av skolemiljøet. Barneombudets vurdering er at de fleste fylkesmennene er opptatt av elevens rett til å bli hørt og viser til at mange embeter hører eleven selv, og vektlegger det eleven forteller, i sine begrunnelser. Videre viser Barneombudet til at flere fylkesmenn kommer raskt i gang med saksbehandlingen.
+
+Barneombudet mener videre det er positivt at flere fylkesmenn fastsetter hvilke tiltak skolen skal iverksette for at eleven skal få et trygt og godt skolemiljø. Barneombudet viser til at noen fylkesmenn er svært konkrete i det de vedtar at skolen skal gjøre og at dette kan være med på å skape hurtig endring for eleven.
+
+Barneombudet mener det også er flere utfordringer. Én av utfordringene Barneombudet peker på, er at mange fylkesmenn ikke foretar en reell vurdering av barnets beste, men kun viser til lovbestemmelsen om barnets beste. Videre mener Barneombudet det er en utfordring at det er store forskjeller i hvordan fylkesmennene vurderer om aktivitetsplikten er oppfylt. Barneombudet mener det er uheldig at noen av embetene kun vurderer enkelte av delpliktene. Videre mener Barneombudet at det er for store forskjeller i hvor konkrete tiltak fylkesmennene vedtar at skolen må gjøre, og at fylkesmennene håndterer saker med særskilt sårbare elever ulikt. Barneombudet peker også på at det er for stor variasjon i saksbehandlingstiden til fylkesmennene, og at lang saksbehandlingstid kan være skadelig for eleven.
+
+Undersøkelse fra KS
+
+KS gjennomførte i 2018 en spørreundersøkelse blant alle kommuner om håndhevingsordningen for saker om skolemiljø.[^1005] Av de 159 kommunene og fylkeskommunene som svarte på undersøkelsen, svarte 68 prosent at kommunenivået alltid er involvert i fylkesmannens saksbehandling. Samtidig er det flere kommuner som problematiserer de tilfellene hvor kommunenivået ikke blir involvert eller ikke blir involvert på en god måte.
+
+Vel 80 prosent av de 159 opplever fylkesmannens vedtak som relevante og gjennomførbare. Flere opplever det som problematisk at skoler og kommuner får kort tid på å svare fylkesmannen, mens fylkesmannens saksbehandling kan ta flere måneder.
+
+På den ene siden framhever kommunene at aktivitetsplikten gir et bedre samarbeid. På den andre siden pekes det på at konfliktnivået i enkelte saker øker fordi fylkesmannen ikke i tilstrekkelig grad ivaretar kommunenes mulighet til å legge fram sitt syn på saken.
+
+Undersøkelse fra Utdanningsforbundet
+
+Respons Analyse har på oppdrag fra Utdanningsforbundet gjort en undersøkelse blant forbundets tillitsvalgte og skoleledere om de nye reglene om skolemiljø. Om lag 70 prosent av de tillitsvalgte svarte at de opplever at lærerne ved skolen i ganske stor eller stor grad har tilstrekkelig kunnskap om regelverket om skolemiljø og nesten 90 prosent av skolelederne svarte at de selv i ganske stor grad eller stor grad har tilstrekkelig kunnskap om regelverket.
+
+Omtrent halvparten av de tillitsvalgte og over halvparten av skolelederne mener at regelverket i stor eller ganske stor grad har ført til merarbeid. De fleste av dem som gir en vurdering av håndhevingsordningen, svarer at den fungerer verken godt eller dårlig, og det er omtrent like mange som svarer at ordningen fungerer godt som dårlig. Både de tillitsvalgte og skolelederne er i hovedsak enige i at kapittel 9 A i større grad enn tidligere har bidratt til å sikre elevers rett til et trygt psykososialt miljø.
+
+Undersøkelsen viser at over halvparten av de spurte mener at lærernes rettssikkerhet har blitt svekket med de nye reglene om skolemiljø.[^1006]
+
+Evaluering av nytt kapittel 9 A i opplæringsloven
+
+Deloitte har gjennomført en evaluering av det nye kapitlet om skolemiljø i opplæringsloven.[^1007] Reglene trådte i kraft i august 2017. Evalueringen ble gjennomført i perioden fra februar 2018 til mai 2019. Som grunnlag for evalueringen er det innhentet både kvantitative og kvalitative data. Evalueringen besto av tre hovedtemaer: implementering, konsekvenser og informasjon og kommunikasjon. I det følgende redegjøres det for de viktigste funnene, særlig når det gjelder konsekvensene av lovendringen.
+
+Evalueringen viser at implementeringen av kapittel 9 A i opplæringsloven er en prosess som fremdeles pågår, og at det blant kommuner og på skoler fremdeles er til dels ulike forståelser av regelverket og dermed også ulik praksis i håndhevingen av lovbestemmelsene. Også for fylkesmennene, og deres forvaltning av håndhevingsordningen, er implementeringen en pågående prosess, der det fremdeles er utfordringer knyttet til ulik praksis mellom embetene.
+
+Deloitte konkluderer med at sentrale målsettinger med lovendringen likevel synes å være langt på vei oppnådd, og at det har skjedd tydelige endringer i skolenes praksis som følge av lovendringen. Et gjennomgående funn er at det utarbeides flere aktivitetsplaner enn det tidligere ble fattet enkeltvedtak, noe som ifølge Deloitte indikerer at skolene sørger for en systematisk oppfølging av langt flere situasjoner der elever ikke har det trygt og godt, enn de gjorde tidligere. Skolene rapporterer også i stor grad at de tar raskere tak i saker nå enn før.
+
+Videre viser evalueringen at håndhevingsordningen har blitt tatt i bruk i utstrakt grad og bidrar til at flere elever enn før får prøvd sin sak for et høyere forvaltningsnivå. Evalueringen viser også at håndhevingsordningen har en viktig funksjon ved å korrigere praksis hos kommuner og skoler, og at den bidrar til læring og bedre implementering av lovverket på skolene.
+
+Det er stor variasjon i saksbehandlingstiden hos fylkesmennene, og saksbehandlingstiden er til dels svært lang. Dette betyr ifølge Deloitte at selv om måloppnåelsen på skolenivå synes å være god når det gjelder målet om raskere handling, har man i varierende grad lyktes med å nå dette målet når en sak blir meldt videre til neste forvaltningsnivå. Utdanningsdirektoratet har så langt mottatt få klager på saker som er behandlet hos fylkesmannen.
+
+Når det gjelder aktivitetsplikten, konkluderer Deloitte med at målet om en raskere og enklere ordning langt på vei synes å være nådd eller er på vei til å bli nådd. Det blir pekt på flere positive endringer som følge av aktivitetsplikten, blant annet raskere handling på skolen, mer systematisk oppfølging og håndtering av et bredere sakskompleks enn tidligere, i tillegg til et mer systematisk forebyggende arbeid. Flere kommuner og skoler er bekymret for om terskelen for hva som regnes som en skolemiljøsak, har blitt for lav, og viser til at skolene har fått ansvar for et sakskompleks som til dels oppleves som svært krevende å håndtere.
+
+Lovendringen oppleves å ha medført økte krav til dokumentasjon på skolene, og skolene rapporterer om at det er arbeidskrevende å følge opp aktivitetsplikten. Samtidig hersker det også til dels stor usikkerhet rundt hva som kreves for å overholde dokumentasjonsplikten, og praksis varierer både mellom og innenfor skoler og kommuner.
+
+Skolene viser til at lovendringen har bidratt til at de er mer opptatt av å høre eleven og legge vekt på elevens oppfatning, både når det gjelder om eleven har det trygt og godt, og når det utarbeides aktivitetsplaner og tiltak. Skolene overprøver sjeldnere elevens opplevelse av å ha blitt krenket. Imidlertid vises det også til situasjoner der kravet om å vektlegge elevens subjektive opplevelse kan få uheldige følger, som situasjoner der det er flere involverte og svært ulike oppfatninger av hva som har skjedd. I slike situasjoner opplever enkelte at eleven som meldte saken, i for stor grad får definisjonsmakten.
+
+Det blir også vist til at den subjektive opplevelsen medfører at skoler bruker mye tid på å følge opp saker som skolen selv ikke ville definert som en sak, for eksempel knyttet til vanlige irettesettelser eller uenigheter i vurderingssituasjoner. Det at mye tid og ressurser benyttes til å følge opp mindre saker og konflikter, på bakgrunn av at eleven eller elevens foreldre krever handling fra skolen, kan potensielt medføre at mindre oppmerksomhet og ressurser rettes mot andre områder og temaer som kunne trengt mer oppmerksomhet. At aktivitetsplan og tiltak må opprettholdes fram til eleven sier at han eller hun opplever å ha det trygt og godt, kan også unntaksvis medføre at noen saker blir såkalte «evighetssaker» der aktivitetsplanen opprettholdes mot skolens ønske. Enkelte setter spørsmålstegn ved om terskelen for å kunne avslutte en sak er for høy.
+
+Selv om det er stor oppslutning om at opplæringsloven bør inneholde en bestemmelse om skjerpet aktivitetsplikt, settes det også spørsmålstegn ved om de ansattes rettssikkerhet i tilstrekkelig grad ivaretas når det er elevens subjektive opplevelse som skal vektlegges i disse sakene. Det oppleves av mange kommuner og skoler at det kan være krevende å balansere hensynene i både opplæringsloven og arbeidsmiljøloven. Videre oppleves det som problematisk at lærere eller andre ansatte ved skolen som beskyldes for å krenke en elev, ikke i tilstrekkelig grad får mulighet til å uttale seg og komme med sin versjon av saken. I tillegg opplever skoler og kommuner at regelverket i noen tilfeller brukes som et pressmiddel mot skolene, ved at elever eller foreldre har truet en ansatt eller skolen om å melde en sak etter den skjerpede aktivitetsplikten. Det blir blant annet vist til vurderingssituasjoner der dette har forekommet. Til tross for disse utfordringene pekes det også gjennomgående på at den skjerpede aktivitetsplikten er både viktig og riktig.
+
+At mange elever og foreldre benytter seg av håndhevingsordningen, kan ifølge Deloitte i seg selv tyde på at ordningen oppleves som enkel og brukervennlig for elever og foreldre, i tråd med intensjonen i lovverket. Samtidig viser resultatene fra spørreundersøkelsen at foreldre har delte erfaringer med om fylkesmannens involvering bidrar til å bedre situasjonen for barnet. Til dels lang saksbehandlingstid hos fylkesmennene strider også mot intensjonen om en raskere ordning og kan ifølge Deloitte kanskje være en av årsakene til at foreldre i ulik grad opplever at håndhevingsordningen bidrar til å bedre situasjonen.
+
+Flere kommuner og skoler opplever at fylkesmannen ofte ensidig belyser saken fra elevens og foreldrenes perspektiv, og gir uttrykk for at fylkesmannen i mange sammenhenger framstår som «foreldrenes advokat». Det oppleves i en del saker som at skolens og kommunens faglige vurderinger blir underkjent, og at andre involverte ikke blir hørt. Det er også noen skoler som ikke sender over all relevant dokumentasjon til fylkesmannen fordi det vil kunne gi andre elever partsrettigheter og rett til innsyn. En slik praksis kan føre til at sakene ikke blir tilstrekkelig opplyst.
+
+Evalueringen av kapittel 9 A viser at det ikke er tydelig nok hvem som skal ha partsrettigheter i håndhevingssakene, noe som har bidratt til å skape usikkerhet om ordningen blant involverte aktører. Mange av de intervjuede aktørene setter spørsmålstegn ved om de som beskyldes for å ha krenket en elev, bør ha partsrettigheter etter forvaltningsloven, med rett både til innsyn og til å uttale seg.
+
+Evalueringen viser at kommuner involveres i svært ulik grad på tvers av sakstype og fylkesmannsembeter i håndhevingssakene. Det er kommunen som er ansvarlig for at skolene følger lov og forskrift, og som kan ilegges tvangsmulkt dersom skolen ikke følger påleggene fra fylkesmannen. Det oppleves derfor som problematisk fra kommuner at de i en del tilfeller ikke har blitt involvert i sakene før vedtak er fattet.
+
+Kommuner og skoler opplever det også som problematisk at fylkesmannen og Utdanningsdirektoratet kan fatte vedtak om spesifikke tiltak som skolen må iverksette, selv om skolen og kommunen mener at tiltakene er uhensiktsmessige eller kan ha negativ innvirkning på andre elever. Mange kommuner og skoler opplever at det vil styrke håndhevingsordningen dersom kommunen får innsyns- og uttalerett og eventuelt klagerett.
+
+Oppsummering fra Evaluering av nytt kapittel 9 A i opplæringsloven
+
+Evalueringen viser at nytt kapittel 9 A langt på vei virker i samsvar med intensjonen. Samlet sett er det vår vurdering at utviklingen går i retning av at skolene handler raskere og riktigere i situasjoner der elever ikke har det trygt og godt på skolen, og at elevens subjektive oppfattelse av en sak blir vektlagt i større grad enn tidligere. Håndhevingsordningen vurderes også å være både enklere og mer brukervennlig enn tidligere ordninger, samt tryggere med hensyn til eleven som melder en sak og denne elevens foreldre. Håndhevingsordningen er imidlertid fremdeles et stykke unna å oppfylle intensjonen om en raskere ordning. I tillegg er det skoleeiere og skoler som fortsatt har en vei å gå for å implementere lovkravene, og det er derfor viktig å opprettholde fokuset på tematikken og på kontinuerlig læring og forbedring for å sikre at intensjonene og målene med lovendringen innfris.
+
+Deloitte, 2019.
+
+\[Boks slutt\]
+
+FOU-prosjekt om håndhevingsordningen for skolemiljøsaker
+
+KS har initiert et FOU-prosjekt om håndhevingsordningen for skolemiljøsaker. FOU-prosjektet vil bli ferdigstilt etter at utvalget leverer sin utredning. Teksten i dette avsnittet er basert på foreløpige vurderinger fra forskerne.
+
+Målet for forskningsprosjektet er todelt: for det første å innhente kunnskap om samhandlingen mellom fylkesmennene og kommunene, for det andre å kartlegge hvem eller hva tiltakene i vedtakene i håndhevingssaker er rettet mot. FOU-prosjektet er en kvalitativ undersøkelse, basert på dokumentanalyse og intervjuer. Det er kjent at mye av kommunikasjonen i håndhevingssakene går direkte mellom fylkesmennene og rektor. KS ønsket å problematisere dette i og med at det i henhold til opplæringsloven kapittel 13 er kommunen som er ansvarlig for elevenes rett til et godt og trygt skolemiljø. Et sentralt spørsmål for forskerne er hvilke konsekvenser slik direkte kommunikasjon kan ha for kommunenivåets mulighet til å ivareta ansvaret for elevene og alle som arbeider på skolen, og hvilken rolle kommunenivået får dersom de utelates fra kommunikasjonen i håndhevingssakene.
+
+FOU-prosjektet viser at samhandlingen mellom fylkesmann, skole og kommuner er bedret siden den nye håndhevingsordningen trådte i kraft – dette mye takket være endringer det første året i rutiner, opplæring og kompetansebygging. Rektorer i grunnskolen opplever de største utfordringene med dagens håndhevingsordning, mens rektorer ved videregående skoler opplever færre utfordringer og saker. Hovedutfordringene består i opplevelsen av ikke å bli hørt, korte tidsfrister og en noe manglende opplevelse av støtte og veiledning. Disse reflekteres også i behov for endringer fra kommunenes side.
+
+Når det gjelder problemstillingen knyttet til hvem fylkesmannen kommuniserer med, beskriver rektorene at de opplever støtte og stor mobilisering fra kommunen når en sak meldes inn for håndhevingsordningen. Noen kommuner er veldig involvert, mens andre kommuner er mer distanserte. Fylkesmannsembetene er klare på at sakene der kommunenivået er koblet på, hjelper skolen og setter inn riktig kompetanse, er de sakene som går best.
+
+Analysen av embetenes saksbehandling viser noe forskjellig praksis på tross av egenutviklede rutiner basert på samme sentrale veileder for saksbehandlingen og felles opplæring. Analysen av de ti siste dokumentene fra alle ti fylkesmannsembeter viser også noe forskjell i saksbehandlingstiden, antallet dokumenter og aktivitetsnivået i sakene. Kapasitet og saksbehandlingspraksis fører til noen av utfordringene.
+
+Noen fylkesmannsembeter er tydelige på at kun foreldre og elever er parter i saken, og at kommune og skole ikke er parter, da de ikke har klagerett. Synet på andre parter er ellers ganske likt for rektorene og embetene. Ansatte som oppfattes som krenkende skal ivaretas av arbeidsgiveren og deres syn skal formidles gjennom skolens dokumentasjon. Ansatte, andre elever og deres foreldre kan alle bli parter eller bli gjort til parter der deres rettigheter blir påvirket av tiltak. Samtidig kan personer som blir omtalt i sakene, ha rettigheter i personvernlovgivningen.
+
+Forskernes vurdering er at skolemiljøsakene i håndhevingsordningen ofte bærer preg av konflikt og parter som har gått i skyttergravene. Disse konfliktene har reell risiko for å drukne elevens opplevelse av skolemiljøet. Dokumentasjon kan i noen tilfeller gå foran det å møte elevens opplevelse direkte og få en dialog om situasjon og tiltak. Fylkesmannsembetene har noe forskjellige syn på tiltak på individnivå, klassenivå og skolenivå. Analysen av de siste 109 sakene fra landets fylkesmannsembeter viser dette, samt at formen på og detaljeringen av tiltak varierer mye fra embete til embete.
+
+Håndhevingsordningen er for enkeltelever. Dette innebærer at utfordringer med klassemiljø eller skolemiljø må behandles gjennom en enkelt elevs opplevelse av utrygghet eller dårlig miljø. Lovverket i dag oppleves som sammensatt og komplekst, og dermed blir det vanskelig for rektorer å balansere alle hensyn i sitt arbeid (hensynet til eleven og hensynet til alle de andre elevene og til de ansatte). Noen rektorer opplever det vanskelig med tiltak fra fylkesmannen som medfører regulering av alle barn på klasse- eller skolenivå, da dette kan gi uante konsekvenser. Andre rektorer mener at det er positivt med tiltak på klasse- og skolenivå, da dette ofte medfører større diskusjoner om temaene i saken og kan gi kompetansebygging langt utover de faktiske tiltakene fra fylkesmannen.
+
+Undersøkelse om regelverksetterlevelse i grunnskolen
+
+OsloMet har på oppdrag fra utvalget gjennomført en undersøkelse om regelverksetterlevelse i grunnskolen.[^1008] I prosjektet så forskerne spesielt på spesialundervisning og skolemiljø, der individuelle rettigheter er gitt til elevene samtidig som saksområdene representerer områder der rommet for skjønnsutøvelse er relativt stort.
+
+Undersøkelsen viser at skolelederne og de kommunale lederne er positive til innføringen av aktivitetsplikten og omtaler det som en god endring av regelverket. De opplever imidlertid oppfølging av kapittel 9 A-sakene samlet sett som krevende, og knytter dette spesielt til dilemmaer rundt hensynet til elevenes subjektive opplevelse opp mot de kollektive hensynene i skolehverdagens kompleksitet. Lærerne er også opptatt av dette dilemmaet. Lærerne uttrykker at endringene i skolemiljøreglene har gitt et økt dokumentasjonskrav som har både fordeler og ulemper.
+
+Skolelederne framhever at det er vanskelige for skoleledelsen å håndtere saker som blir meldt direkte til fylkesmannsembetet, og hvor skolen og rektor ikke er part. Flere skoleledere setter spørsmålstegn ved at fylkesmannsembetene kan pålegge skolen tiltak uten at de kjenner skolens syn i saken, muligheter for iverksetting av tiltak eller andre rammeforutsetninger.
+
+Tilsyn i 2018
+
+I 2018 gjennomførte fylkesmennene 19 tilsyn med skolemiljø.
+
+Tilsynene viser at rektorene ikke sikrer at alle som jobber på skolen, varsler til rektor dersom de får mistanke om eller kjennskap til at en elev ikke har et trygt og godt skolemiljø. Videre sikrer ikke rektorene godt nok at alle som jobber på skolen, følger med på om elevene har et trygt og godt skolemiljø, og at de følger spesielt godt med på elever som kan være særskilt sårbare. Rektorene er heller ikke flinke nok til å sikre at alle som jobber på skolen griper inn mot krenkelser som utestengning, isolering, baksnakking, mobbing, vold, diskriminering og trakassering dersom det er mulig.
+
+Tilsynet viser at skolene i mange tilfeller ikke lager en skriftlig plan som oppfyller kravene i regelverket. Tilsynene viser også at rektorene ikke følger godt nok opp at skolen gjennomfører tiltak i tråd med aktivitetsplanene.
+
+I tilsynene er det også avdekket at skolene ikke evaluerer det forebyggende arbeidet, og at mange rektorer ikke sikrer godt nok at elevene får ta del i planleggingen og gjennomføringen av arbeidet for et trygt og godt skolemiljø.
+
+### Innspill til utvalget
+
+Referansegruppen
+
+Utdanningsforbundet har gitt innspill om at det er utfordringer knyttet til at krenkelsesbegrepet er både subjektivt og vagt. Slik loven er utformet, er det elevens opplevelse som er avgjørende for om eleven har et trygt og godt skolemiljø. Fordelen med dette er ifølge forbundet at skolen må ta elevens opplevelse på alvor og ikke kan unnlate å følge opp gjennom å forsøke å overprøve elevens opplevelse. På den annen side erfarer Utdanningsforbundet gjennom enkeltsaker at elever og foreldre mener at eleven er krenket i tilfeller der læreren mener bare å ha satt en grense for eleven eller har kommet med kritikk som læreren mener eleven bør tåle, og som er en del av det å dannes som menneske.
+
+Utdanningsforbundet mener det ikke automatisk kan legges til grunn at en krenkelse faktisk har funnet sted når det varsles om en opplevelse av å være krenket. Saken må undersøkes nærmere, og regelverket må ivareta rettssikkerheten for den som blir anklaget for å ha krenket. Videre mener Utdanningsforbundet at utfordringene forsterkes ved at krenkelsesbegrepet og den subjektive opplevelsen ligger til grunn for rektors plikt til å varsle til kommunen. Forbundet setter spørsmålstegn ved om det er hensiktsmessig at rektor i alle saker skal varsle der det foreligger en «mistanke» om at en ansatt krenker en elev. Utdanningsforbundet etterlyser mer rom for skjønn i slike saker, og mener Opplæringslovutvalget bør vurdere en regulering som gir rektor større handlingsrom til å vurdere når det er nødvendig å varsle, og når saker kan løses på skolenivå.
+
+Videre har Utdanningsforbundet gitt innspill om at Opplæringslovutvalget bør drøfte lærerens rettslige status i håndhevingssaker og forholdet til arbeidsmiljøloven.[^1009]
+
+Barneombudet viser til at det i revisjonen av kapittel 9 A i opplæringsloven i 2017 ikke ble gjort endringer i reglene om det fysiske skolemiljøet. Barneombudet mener Opplæringslovutvalget bør se på om det er behov for en tydeligere regulering av innholdet i retten til et trygt og godt fysisk skolemiljø og hvordan klage- eller håndhevingsordningen for dette bør være. Barneombudet mener også at reglene om det fysiske skolemiljøet bør ses i sammenheng med reguleringen av universell utforming og at det bør vurderes om retten til individuell tilrettelegging bør gjelde mer enn arbeidsplassen.
+
+Barneombudet mener kravene til systematisk arbeid med helse, miljø og sikkerhet i § 9 A-3 bør presiseres. Ombudet viser til tilsvarende bestemmelser i andre lover hvor det er gitt svært detaljerte krav om internkontroll.[^1010]
+
+Skolens landsforbund har gitt innspill om at lærlingers opplæringsmiljø bør være omfattet av reglene i kapittel 9 A i opplæringsloven. Skolenes landsforbund mener det er bedre at lærlinger har et dobbelt vern gjennom opplæringsloven og arbeidsmiljøloven, enn at de faller mellom.
+
+Skolenes landsforbund mener at retten til kontradiksjon blir borte når lærere og andre ansatte ikke regnes som part i håndhevingssaker om skolemiljø. Forbundet foreslår at det tas inn i opplæringsloven at involverte skal høres, og at det tas inn en henvisning til forvaltningsloven.[^1011]
+
+Skolelederforbundet viser til at det selvsagt er bra og riktig med fokus på skolemiljøet og lovfesting av elevens rett til et trygt og godt skolemiljø, men mener det nå brukes altfor mye tid på byråkrati og dokumentasjon.
+
+Andre
+
+Fagpolitisk utvalg i Østlandssamarbeidet oppfordrer Opplæringslovutvalget til å se nærmere på utfordringene for skolen og lærere ved at lovverket bygger på subjektive opplevelser, uten å svekke paragrafens intensjon om å lovfeste elevers rett til et trygt og godt skolemiljø.
+
+Nettverket for medvirkning i opplæringen og Redd Barna har gitt innspill om at de ønsker at de nye reglene om skolemiljø videreføres i ny opplæringslov.
+
+Funksjonshemmedes Fellesorganisasjon mener opplæringsloven § 9 A-7 om det fysiske skolemiljøet må endres slik at den gir hjemmel for den enkelte elev til å få rett til et fysisk skolemiljø som ivaretar de individuelle behovene for elever med utfordringer.
+
+Lykkelige barn mener endringene i opplæringsloven kapittel 9 A i 2017 synes å ha ført til at evnerike barns rettssikkerhet er blitt svekket. Lykkelige barn mener det etter de tidligere reglene var en mulighet for å påklage manglende tilpasning av undervisningen når avviket var blitt så stort at det førte til at eleven ikke fikk oppfylt sitt krav på et godt psykososialt læringsmiljø. Lykkelige barn mener det er uklart om reglene er endret når det gjelder mangelfullt psykososialt læringsmiljø av andre årsaker enn mobbing og krenkende atferd.
+
+Forandringsfabrikken har sendt utvalget innspill som bygger på erfaringer og råd fra undersøkelser blant circa 6 000 skoleelever. Et innspill som går igjen til flere av temaene i opplæringsloven, inkludert reglene om skolemiljø, er at det bør komme tydeligere fram i loven at alle barn skal bli hørt og at deres meninger skal bli vektlagt.
+
+## Utvalgets vurdering
+
+### Innledning
+
+Reglene om det psykososiale skolemiljøet i opplæringsloven kapittel 9 A ble revidert i 2017. De nye reglene er basert på en offentlig utredning[^1012] om skolemiljø og omfattende høringsrunder. Det har vært bevilget midler til den nye håndhevingsordningen og det har vært gjennomført et betydelig implementeringsarbeid fra både statlig og kommunalt hold.
+
+De nye reglene om det psykososiale skolemiljøet har nylig blitt evaluert. Både evalueringen og andre undersøkelser er gjort etter at reglene kun har virket i kort tid.
+
+At reglene bygger på et betydelig kunnskapsgrunnlag, at det er gjort et betydelig implementeringsarbeid og at reglene bare har virket i kort tid, tilsier at det bør være en høy terskel for å gjøre omfattende endringer av reglene om psykososialt skolemiljø. Med dette generelle utgangspunktet har utvalget vurdert reglene om skolemiljø i lys av det kunnskapsgrunnlaget som foreligger (se kapittel 36.3).
+
+### Virkeområdet for reglene om skolemiljø
+
+Utvalget foreslår at dagens virkeområde for reglene om skolemiljø videreføres. Dette innebærer at reglene skal gjelde for elever i grunnskolen og i videregående opplæring og for leksehjelp og skolefritidsordninger.
+
+I evalueringen av reglene om skolemiljø peker Deloitte på at skolene har et stort ansvar ved at de også har ansvar for det som skjer utenfor skolen. Utvalget vil understreke at skolens aktivitetsplikt gjelder på skoleområdet eller der undervisning eller aktiviteter knyttet til skolen, skolefritidsordningen eller leksehjelpen foregår. De ansatte i skolen har ingen plikt til å følge med på at elevene har det trygt og godt utenfor skolens område, for eksempel på skoleveien, og har ikke samme mulighet eller plikt til å gripe inn der. Plikten til å sette inn tiltak når elever ikke har det trygt og godt på skolen, gjelder derimot uavhengig av hva årsaken er. Dersom forhold utenfor skolen, for eksempel på skoleveien, gjør at en elev ikke opplever at det er trygt og godt å være på skolen, har skolen en plikt til å hjelpe eleven. På grunn av skoleveiens særstilling og nære tilknytning til skolegangen må skolen dessuten i større grad også kunne forventes å sette inn tiltak på selve skoleveien, for eksempel tilsyn på bestemte plasser. Denne forståelsen er i samsvar med det som er lagt til grunn i forarbeidene til dagens lov.[^1013]
+
+Hva som er virkeområdet for kapitlet, har betydning for forståelsen av de øvrige reglene om skolemiljø. Utvalget har flere steder i forslaget til ny lovtekst brukt formuleringen «trygt og godt» uten å knytte den til «skolemiljø» eller «på skolen». Det er ikke meningen å endre innholdet i reglene, men å sløyfe informasjon som er overflødig fordi det følger av virkeområdet til kapitlet og loven.
+
+Skolenes landsforbund har gitt innspill om at reglene om skolemiljø også bør gjelde for lærlinger. Reglene om skolemiljø gjelder i dag for ungdommer som tar yrkesfaglig utdanning når opplæringen skjer i skole. Utvalget mener det ikke er hensiktsmessig at reglene også skal gjelde når ungdommene får opplæring i en lærebedrift. Lærebedriften er en arbeidsplass som er underlagt egne regler om miljø gjennom arbeidsmiljøloven. Det vil være krevende for bedriftene å forholde seg til to sett med regler, og det er heller ikke naturlig at fylkesmannen har en håndhevingsrolle direkte overfor bedriftene. Det er fylkeskommunen som er ansvarlig for den opplæringen ungdommene får i lærebedrift, og som godkjenner lærebedriftene og følger opp lærlingene. Utvalget foreslår at lærlinger skal få tilgang til til rådgivning om sosiale og personlige forhold, se kapittel 42.6. Gjennom rådgivningen kan lærlingene komme i dialog med fylkeskommunen og få hjelp dersom det er utfordringer på arbeidsplassen. Utvalget foreslår dessuten å videreføre dagens krav om at lærebedriftene skal skape et godt «arbeids- og læringsmiljø» se forslaget til § 8-10. Dette kravet går noe lengre enn arbeidsmiljøloven, som bare stiller krav til *arbeids*miljø.
+
+### Rett til et trygt og godt skolemiljø
+
+Alle elever har etter dagens regelverk rett til et trygt og godt skolemiljø som fremmer helse, trivsel og læring. Det er trolig ikke mulig å oppnå at alle elever opplever å ha det trygt og godt til enhver tid. Det kan derfor settes spørsmålstegn ved om dette bør utformes som en rettighet. På den annen side er et trygt og godt skolemiljø avgjørende for elevenes mulighet til å få den opplæringen de har rett til.
+
+Utvalget foreslår at retten til et trygt og godt skolemiljø som fremmer helse, trivsel og læring videreføres i ny opplæringslov. Hvilke plikter kommunen har for å oppfylle retten til et trygt og godt skolemiljø, er nærmere regulert i bestemmelsene om aktivitetsplikt. Se omtale av når aktivitetsplikten er oppfylt i kapittel 36.4.6.
+
+Elever som utvalget har snakket med, har fortalt om at de noen ganger ikke får god nok tid til å spise på skolen. Utvalget vil derfor understreke at mat og måltider i skolen har stor betydning for elevenes helse, trivsel og læring, og at det er viktig at skolene har gode rutiner for dette. Helsedirektoratet har utarbeidet en retningslinje for mat og måltider i skolen[^1014] som kan være et nyttig verktøy for skolene.
+
+Utvalget kan ikke se at rettssikkerheten til evnerike barn har blitt innskrenket med endringene som ble gjort i 2017, slik foreningen Lykkelige barn mener. Elevene har fortsatt rett til et godt psykososialt skolemiljø, i og med at de har rett til å ha det trygt og godt på skolen. Det er ikke nok at en elev ikke blir krenket.
+
+### Skolen skal ikke godta krenkelser (nulltoleranse)
+
+Det følger av § 9 A-3 første avsnitt at skolen skal ha nulltoleranse for krenkelser som mobbing, vold, diskriminering og trakassering. Bestemmelsen innebærer at mobbing og andre krenkelser ikke skal godtas. Skolen kan dermed ikke forholde seg passiv dersom elevene blir utsatt for krenkelser. At mobbing og andre krenkelser ikke skal godtas, støttes opp av at ansatte i skolen er pålagt en aktivitetsplikt i tilfeller hvor elevene ikke har det trygt og godt.
+
+Et spørsmål er hva slags handlinger og ytringer som regnes som krenkelser, og som det skal være nulltoleranse for. Det er lagt til grunn at mobbing, vold med videre er eksempler, og at § 9 A-3 ikke gir en uttømmende oppramsing av alle typer krenkelser som omfattes. Videre er det lagt til grunn at betegnelsen «krenkelse» skal tolkes vidt, men at det ikke er slik at enhver kritisk ytring er eller uenighet mellom elevene er ment å omfattes.[^1015] At betegnelsen «krenkelse» har et uklart innhold og tillegges ulik betydning i ulike sammenhenger, kan tale for at denne betegnelsen ikke bør brukes i den rettslige reguleringen. På den annen side er betegnelsen innarbeidet i opplæringssektoren, og det er dessuten vanskelig å finne en mer presis betegnelse som omfatter de handlingene og ytringene som er ment å rammes.
+
+Utvalget foreslår at innholdet i kravet om nulltoleranse for krenkelser videreføres, men foreslår at dette formuleres som et krav om at skolen ikke skal godta krenkelser. Uttrykket «nulltoleranse» er beholdt i overskriften fordi dette utrykket er innarbeidet i opplæringssektoren og er egnet til å gi en overordnet beskrivelse av hva bestemmelsen handler om. Betegnelsen «krenkelse» må forstås i lys av både elevenes rett til å ha det trygt og godt på skolen og skolens samfunnsmandat. Skolene skal sørge for at elevene får den opplæringen og danningen de trenger for å fungere i samfunnet, og det er også en del av skolens samfunnsmandat å lære elevene å tenke kritisk og kunne akseptere og respektere ulike meninger og overbevisninger. Elever kan bli irettesatt av lærere eller oppleve uenighet med lærere eller andre elever uten at dette vil være en krenkelse. Utvalget mener oppramsingen av enkelte typer krenkelser, som mobbing og vold, er egnet til å vise en viss terskel selv om oppramsingen ikke er uttømmende.
+
+Krenkelsesbegrepet i kravet om at skolen ikke skal godta krenkelser er objektivt i den forstand at det må bero på en helhetlig vurdering om noe er en krenkelse, ikke bare den enkelte elevs opplevelse. Det vil likevel ikke nødvendigvis være en lik terskel for alle elever. For eksempel kan elevenes alder ha betydning for hvilke handlinger og ytringer som anses å være krenkende. Det er altså ikke nødvendigvis nulltoleranse for enhver handling eller ytring som den enkelte elev opplever som krenkende. Utvalget understreker likevel at den enkeltes subjektive opplevelse av å bli krenket alltid utløser en aktivitetsplikt. Så selv om det ikke har skjedd en krenkelse objektivt sett, har skolen plikt til å sette inn tiltak som kan bidra til at eleven får det trygt og godt. I slike tilfeller kan tiltaket handle om å veilede elevene om hvordan man bør opptre, og hvordan handlinger og ytringer kan oppleves. Tiltaket kan også handle om å hjelpe eleven til å håndtere situasjoner som oppleves som krenkende. Se mer om aktivitetsplikten i kapittel 36.4.6.
+
+For at kravet om at skolen ikke skal godta krenkelser skal ha ønsket effekt, er det avgjørende at rektor og de ansatte på skolen drøfter hva som faller innenfor og utenfor betegnelsen «krenkelse». Det er viktig å høre hva elevene mener, og det kan også være nyttig å involvere foreldrene. I tillegg til at det kan gi nyttige innspill om hva som skal regnes som krenkelser, kan god involvering av elever og foreldre både være oppdragende og bidra til å avklare forventninger til skolen.
+
+Utvalget understreker at det ikke skal være en høy terskel for hva som anses som krenkelser overfor elever. Barn og unge er mer sårbare enn voksne, og når de er på skolen, er de i en situasjon som de er pålagt å være i, eller som er nødvendig for at de skal kunne få den opplæringen de har rett til.
+
+### Forebyggende arbeid
+
+Det følger av § 9 A-3 andre avsnitt at skolen skal arbeide kontinuerlig og systematisk med skolemiljøet. I kommuneloven § 25-1 er det tatt inn en mer detaljert internkontrollbestemmelse enn i den tidligere kommuneloven. Det er forutsatt at det skal gjøres en særlovsgjennomgang hvor hensikten er at den nye internkontrollbestemmelsen i kommuneloven skal erstatte internkontrollbestemmelsene i de ulike særlovene.[^1016]
+
+Utvalget foreslår på denne bakgrunn at kravet om systematisk arbeid i § 9 A-3 ikke videreføres i ny opplæringslov. Se mer om internkontrollbestemmelsen i kommuneloven og vurderingen av behovet for særregulering i opplæringsloven i kapittel 49.
+
+Dagens § 9 A-3 andre avsnitt er ikke bare et krav om internkontroll. Bestemmelsen innebærer også et krav om forebyggende arbeid. Utvalget foreslår at det videreføres et krav om kontinuerlig forebyggende arbeid, men at dette kravet ikke knyttes til krav til system eller internkontroll. At skolene arbeider forebyggende, er avgjørende for å kunne oppfylle elevenes rett til et trygt og godt skolemiljø. Aktivitetsplikten og håndhevingsordningen er sikkerhetsmekanismer som skal sikre at skolene setter inn tiltak dersom en elev ikke har det trygt og godt på skolen. Målet er derimot å unngå slike situasjoner og å sette inn tiltak så tidlig som mulig. For å oppnå dette må skolen arbeide forebyggende.
+
+Flere skoler har erfart at aktivitetsplikten og særlig plikten til å dokumentere gir dem et nyttig grunnlag i det forebyggende arbeidet. Det blir vist til at inndelingen i delplikter har gitt skolen et nytt blikk på det forebyggende arbeidet, og at det er gjort flere grep for å bedre det kontinuerlige og systematiske skolemiljøarbeidet. Særlig blir det vist til viktigheten av å kartlegge hvem de sårbare elevene er, og å sørge for å være i forkant før en situasjon oppstår.[^1017]
+
+Forebyggende arbeid på Granly skole i Horten kommune
+
+Mobbing er ikke lov!
+
+Granly skole har nulltoleranse mot krenking som mobbing, utestenging, vold, diskriminering og trakassering.
+
+Sosialt mål: Alle elevene opplever trivsel og læring på Granly skole.
+
+**Hvordan forebygger skolen**
+
+Den viktigste måten vi kan forebygge mobbing på er å øke barnas sosiale kompetanse og lage et læringsmiljø preget av trygghet, tilhørighet og trivsel. Ifølge Kunnskapsløftet er det foreldrene selv som har hovedansvaret for å lære sine barn sosiale ferdigheter, men skolen skal bidra. På Granly skole gjør vi følgende tiltak for å forebygge mobbing og krenkelser og for at alle våre elever skal oppleve trivsel og læring:
+
+1\. Ansatte bygger en tett og god relasjon til elevene.
+
+2\. God klasseledelse er nødvendig for elevenes læring og for at de skal føle seg trygge.
+
+3 Arbeide med elevens sosiale kompetanse.
+
+- Smartegenskaper som ansvar, omsorg, respekt og toleranse.
+
+- Vennegrupper på tvers på trinnet
+
+- Livets time
+
+- Nettvett
+
+- SNAP
+
+4\. Skolen arrangerer mobbeforbyggende uker.
+
+5\. Det gjennomføres sosiogram i alle klasser for å kartlegge elevenes skolemiljø.
+
+6\. Det gjennomføres elevundersøkelse i alle klasser og resultatene er utgangspunkt i videre arbeid i klassen.
+
+7\. Elevene og elevrådet skal ha en aktiv rolle i det forebyggende arbeidet og være med på å bygge et godt læringsmiljø uten mobbing.
+
+8\. Skolen har et godt utviklet tilsynssystem der elevene skal være trygge og de voksne skal oppdage og forhindre krenkende atferd.
+
+- Skolegården er oppdelt i soner der de ansatte har ansvaret for scanning, inkludering og oppfølging i sin sone.
+
+- Ansatte har retningslinjer om hvordan hendelser i friminuttet skal følges opp overfor elever, foresatte og kontaktlærerne.
+
+9\. Det skal være gode aktiviteter og nok lekeapparater i friminuttene.
+
+10\. Forutsigbare konsekvenser.
+
+11\. Systematiske elevsamtaler.
+
+12\. Fadderordning der 5. trinn er faddere for 1. trinn.
+
+13\. Foreldremøter med tema om vennskap, relasjoner, mobbing og sosial digital kompetanse.
+
+14\. Skolevandring.
+
+15\. Kursing av ansatte innen mobbeforebyggende tiltak.
+
+16\. God informasjon og opplæring av ansatte om mobbeforbyggende tiltak.
+
+17\. Vi bruker familieråd der vi samler familier der elevene er i uoverensstemmelse med hverandre. Her blir familiene selv enige om regler og tiltak med veiledning fra skolen.
+
+18\. Et godt samarbeid med foresatte.
+
+19\. Samarbeide med FAU og klassekontakter med tanke på sosiale arrangementer som omfatter både hele skolen, trinn og enkelte klasser.
+
+20\. Granly skole er med på «Partnerskap mot mobbing»
+
+**Hvordan kan du som foresatt forebygge**
+
+1\. Tilrettelegge for et godt oppvekstmiljø.
+
+2\. Holdningsskapende arbeid i hjemmet hvor det legges vekt på et positivt selvbilde og positiv omtale av andre. Fremsnakk elever, ansatte, andre foresatte og fag.
+
+3\. Utvikle barnas evne til innlevelse, medfølelse og ansvar.
+
+4\. Melde fra til skolen der det er mistanke om mobbing – varsle enten kontaktlærer eller skolens ledelse direkte. Skolen er ofte avhengig av hjelp for å få avdekket hva som foregår i elevmiljøet.
+
+5\. Ha en god dialog med ansatte, elever og foresatte. Ta kontakt og løs opp i konflikter som skjer på fritiden.
+
+6\. Gi skolen beskjed hvis det er hendelser eller noe i barnets liv som kan påvirke skoledagen.
+
+7\. Lær barnet sosial kompetanse: tilbring tid sammen med barnet og se og veiled barnet ditt i samspill med andre barn.
+
+8\. Lær barnet høflighet; si takk, vent på tur og følg beskjeder.
+
+Horten kommune.
+
+\[Boks slutt\]
+
+I dagens § 9 A-3 andre avsnitt står det at rektor er ansvarlig for det forebyggende arbeidet. Utvalget mener kommunen bør være ansvarlig, og at rektor ikke bør ha et personlig ansvar etter loven. Det vises i denne sammenheng til at statlige myndigheter etter dagens regelverk ikke kan gi pålegg direkte til rektor. Statlige myndigheter kan derimot gi pålegg om retting til kommunen.
+
+Kommunen har, som ansvarlig for flere skoler, en mulighet til å overføre positive erfaringer fra én skole til en annen. Samtidig er det klart at det forebyggende arbeidet må skje på den enkelte skole ut fra lokale behov og forutsetninger. Rektor vil, som daglig leder av skolen, ha en framtredende rolle i dette arbeidet. Rektor står ansvarlig overfor kommunen som arbeidsgiver, og har også et profesjonelt ansvar. Men det er kommunen som har det juridiske, økonomiske og administrative ansvaret overfor elevene.
+
+Utvalget foreslår derfor at bestemmelsen om rektors ansvar for det forebyggende arbeidet ikke videreføres i ny opplæringslov. Se mer om rektor som pliktsubjekt i kapittel 12.4.

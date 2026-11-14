@@ -1,851 +1,222 @@
-# NOU 2020: 3, del 26 av 42 (side 284–293)
+# NOU 2020: 3, del 26 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 284]
+# Styret og den daglige ledelsen
 
-282
+\[:figur:fig27-1.jpg\]
 
-Kapittel 28
+## Utvalgets forslag
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-engasjere seg i faglig utvikling gjennom hele karrieren.42
-Underdal-utvalget foreslår å beholde professorstigen utvidet med et nytt øverste trinn som
-kalles fakultetsprofessor. I tillegg foreslår de å innføre to nye karriereveier i akademia. Den første
-karriereveien er en «forsker-lektor-stige», som
-skal erstatte «dosentløpet», men som har til formål å sikre et meritterende karriereløp der undervisning får større uttelling enn det gjør i dag, samtidig som forskningsdelen består. Den andre
-karriereveien er «fagstøttestigen», som er en kvalitativt ny stige. De aller fleste den gjelder for, er
-personer som er midlertidig ansatt på forskningsprosjekter. Ifølge rapporten er cirka 3400 personer ansatt på tidsbegrensede forskningsprosjekter. Dette er personer med teknisk kompetanse, ingeniører, analytikere med fler.
-
-28.5 Utvalgets vurderinger
-28.5.1 Generelt
-De alminnelige reglene i arbeidsmiljøloven og
-statsansatteloven gjelder i universitets- og høyskolesektoren med de særreglene som følger av universitets- og høyskoleloven kapittel 6 og 11. Universitets- og høyskolesektoren har særskilte
-regler for ansettelser i undervisnings- og forskerstillinger, noe som henger sammen med kravet til
-vitenskapelig kompetanse i slike stillinger. For
-statlige universitets- og høyskoler gjelder i tillegg
-forvaltningslovens og offentlighetslovens regler.
-Sektoren har høyere bruk av midlertidige
-ansettelser enn i arbeidslivet for øvrig. Trygge
-ansettelsesforhold, det vil si fast ansettelse som
-hovedregel, er viktig for å sikre konkurranseevnen til utdanningsinstitusjonene. Med mange
-midlertidige stillinger øker faren for at dyktige
-medarbeidere søker seg til faste stillinger i andre
-sektorer.
-Det følger av utvalgets mandat at det særlig
-skal se på bruken av midlertidige ansettelser i
-sektoren. Utvalget presiserer at mandatet er
-begrenset til å foreslå endringer i universitets- og
-42
-
-Det finnes flere internasjonale akkrediteringsordninger
-som setter opp kriterier bl.a. for utvikling av det faglige personalet. Et eksempel på en slik ordning er AACSB (The
-Association to Advance Collegiate Schools of Business) for
-akkreditering av handelshøyskoler. Flere norske institusjoner og enheter følger AACSBs kriterier, blant andre Handelshøyskolen BI, Norges handelshøyskole og Handelshøyskolen ved Universitetet i Agder. Se The Association to
-Advance Collegiate Schools of Business (AACSB) https://
-www.aacsb.edu/ hentet 16.1.2020.
-
-høyskoleloven. Det tillater seg likevel å beskrive
-arten av problemstillinger som oppstår i samspillet mellom universitets- og høyskoleloven og
-statsansatteloven og å omtale presiseringsbehov i
-de tilgrensende lovene der dette er hensiktsmessig for å kunne oppfylle mandatet.
-Reglene om rekruttering og karrierepolitikk
-for universitets- og høyskolesektoren skal blant
-annet bidra til å ivareta sektorens behov for høy
-faglig kompetanse hos de ansatte i undervisningsog forskerstillinger, slik at institusjonene kan
-utføre samfunnsoppdraget sitt. I tillegg må
-reglene sikre at institusjonene er konkurransedyktige i kampen om «de gode hodene». Det er
-konkurranse både universiteter og høyskoler
-imellom, med instituttsektoren og mellom sektoren og arbeidslivet for øvrig. Reglene må ta høyde
-for en samfunnsutvikling med økt mobilitet mellom institusjoner nasjonalt og internasjonalt. I tillegg skal reglene legge til rette for at ansatte lettere skal kunne veksle mellom stillinger i universitets- og høyskolesektoren, instituttsektoren og
-arbeidslivet for øvrig når dette er hensiktsmessig.
-Slik mobilitet er ønskelig for både privat og offentlig sektor. Større mobilitet mellom universitets- og
-høyskolesektoren og andre samfunnsområder vil,
-ifølge Langtidsplan for forskning og høyere utdanning 2019–2028, bidra til bedre utveksling mellom forskning og praksisfelt.43
-Utvalget har gjennomført flere innspillsmøter
-med sektoren og hatt muntlig dialog med både
-fagforeninger og ledere. Flere aktører har sendt
-inn skriftlige innspill om konkrete utfordringer til
-utvalget. Sentrale innspill som er meldt inn til
-utvalget kan oppsummeres i tre hovedpunkter:
-– Akademikerne har gitt innspill om at det ikke
-bør være andre regler i universitets- og høyskoleloven enn det som gjelder for annen statlig virksomhet.
-– Ansettelsesprosessen for noen typer stillinger
-tar for lang tid. Dette har ført til at institusjonene mister verdifulle kandidater til private
-eller utenlandske aktører med raskere ansettelsesprosesser. Prosessen tar lang tid fordi
-virksomhetenes faglige kvalitetskrav sikres
-ved hjelp av komiteer med vitenskapelig
-ansatte som påtar seg slike oppgaver i tillegg til
-sine alminnelige arbeidsoppgaver. Spørsmålet
-er om slikt komitéarbeid kan gjennomføres
-hurtigere ved hjelp av insentiver, for eksempel
-at ansatte frikjøpes fra andre oppgaver, slik at
-det blir tid til hurtig behandling, eller om det er
-43
-
-Meld. St. 4 (2018–2019) Langtidsplan for forskning og høyere
-utdanning 2019–2028.
-
-[Side 285]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-–
-
-hensiktsmessig å endre lovteksten for å oppnå
-raskere ansettelsesprosesser.
-Sektorens utstrakte bruk av midlertidige stillinger anses som problematisk.
-
-Ansatte kan bli gående i flere påfølgende midlertidige stillinger over mange år. Dette indikerer en
-praksis hvor lovens unntaksregler om midlertidige ansettelser brukes i større grad enn det
-reelt sett er behov for og rettslig adgang til. Spørsmålet er også her om det er nødvendig med lovendringer for å endre praksis eller om andre tiltak
-for å endre praksis er mer hensiktsmessig.
-Utvalget har i tillegg drøftet gjeldende lovtekst
-og endringsbehov, som utvalget også gjennomgår
-i det følgende. Utvalget har ikke behandlet
-reglene i forskriftene, bare loven. Dette er en
-avgrensning utvalget har gjort av tidshensyn.
-Utvalget anbefaler at det foretas en samlet gjennomgang av forskriftsregelverket i etterkant av
-dette lovarbeidet. Utvalget har heller ikke kommentarer til stillingsstrukturen, siden Underdalutvalget nylig har gitt sine anbefalinger.
-
-28.5.2 Særregulering av ansettelser i
-universitets- og høyskoleloven
-Utvalget går inn for å beholde særreguleringer for
-ansettelser i universitets- og høyskoleloven.
-Under tidligere lovarbeid med universitets- og
-høyskoleloven har høringsinstanser hevdet at
-ansettelser bare bør være regulert i det generelle
-lovverket, og ikke gjennom særregler i universitets- og høyskoleloven. Dette har vært begrunnet
-med behovet for å sikre at ansatte i statlig sektor
-behandles likt med andre arbeidstakere. Dette
-utvalget har også mottatt innspill fra fagforeningene om at reglene i statsansatteloven og arbeidsmiljøloven med forskrifter er tilstrekkelige, og at
-det ikke er behov for særskilt regulering i universitets- og høyskoleloven.
-Bakgrunnen for at det er egne bestemmelser
-om ansettelse i universitets- og høyskoleloven, er
-at det sikrer like vilkår for søkere til og ansatte
-ved alle utdanningsinstitusjoner, uavhengig av
-eierform. Den felles reguleringen skal sikre at alle
-virksomhetene i sektoren har samme fleksibilitet
-og mulighet for omstilling. Målet er at dette skal
-bidra til økt mobilitet mellom de private og de
-offentlige institusjonene i sektoren. Uten egne
-regler i universitets- og høyskoleloven, hadde
-ansettelsesmessige forhold i statlige institusjoner
-vært regulert i statsansatteloven og arbeidsmiljøloven, mens ansettelsesmessige forhold i private
-institusjoner utelukkende hadde vært regulert av
-
-283
-
-Kapittel 28
-
-arbeidsmiljøloven. Det ville blant annet ha ført til
-snevrere adgang til åremålsansettelser og midlertidige ansettelser ved de private institusjonene,
-sammenlignet med de offentlige. Det ville også
-vært ulike regler for ansettelse og oppsigelse.
-Behovet for lik regulering for private og statlige universiteter og høyskoler taler for å beholde
-særreglene i universitets- og høyskoleloven. Felles regulering av kvalifikasjonskrav og vurdering
-av kompetansekravene for utdannings- og forskerstillinger bidrar til en felles norm uavhengig av
-om det er statlig eller privat universitet eller høyskole. Det er også et argument at reglene i universitets- og høyskoleloven er med på å sikre institusjonenes autonomi i større grad enn hvis ansettelsesforhold i sektoren bare hadde vært regulert i
-statsansatteloven og arbeidsmiljøloven. Et tilleggsmoment er at statsråden har et konstitusjonelt ansvar for universitets- og høyskolesektoren
-som det vil være vanskelig å følge opp uten særregler om ansettelse i en lov som Kunnskapsdepartementet forvalter. Statsansatteloven ligger
-under Kommunal- og moderniseringsdepartementet, mens arbeidsmiljøloven ligger under
-Arbeids- og sosialdepartementet. Utvalget har
-derfor kommet til at det fortsatt er behov for særlige regler for ansettelsesforhold i universitets- og
-høyskoleloven.
-
-28.5.3 Likestilling og mangfold
-Utvalget anbefaler å beholde dagens lovtekst med
-en presisering av institusjonenes plikt til systematisk å arbeide for likestilling.
-Ryssdal-utvalget fremhevet betydningen av å
-få flere kvinner inn i ledende undervisnings- og
-forskerstillinger, og påpekte at institusjonene har
-plikt til å fremme likestilling i stillinger med ujevn
-kjønnsbalanse.44
-Utvalget har mottatt innspill fra Komité for
-kjønnsbalanse og mangfold i forskning (Kif).
-Komitéen er oppnevnt av Kunnskapsdepartementet og skal støtte opp om og gi anbefalinger om tiltak som kan integrere arbeidet med kjønnsbalanse og mangfold ved universiteter, høyskoler
-og forskningsinstitutter i øvrig drift. Komiteen har
-gjort undersøkelser som har vist at bare halvparten av universitetene og høyskolene har en lovpålagt plan for likestilling. Kif har på bakgrunn av
-dette fremhevet at kravet om likestilling i sektoren er viktig, og at universitets- og høyskoleloven
-§ 6-2 må videreføres i den nye loven.
-44
-
-NOU 2003: 25 Ny lov om universiteter og høyskoler punkt
-7.2.2.4.
-
-[Side 286]
-
-284
-
-Kapittel 28
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Utvalget mener det fortsatt er behov for å sette
-søkelys på kjønnsbalanse i sektoren, og mener
-dette bør være nedfelt i den nye loven.
-Kif har gitt innspill om at dagens bestemmelse
-i § 6-2 bør utvides til også å omhandle arbeid med
-å fremme mangfold. Kif fremhever i innspillet at
-det bør utdypes hva institusjonenes aktivitetsplikt
-på dette området faktisk innebærer.
-Utvalgets vurdering er at ordet «mangfold»
-henspiller på et resultat av en inkluderende kultur
-og praksis, ofte som følge av et systematisk arbeid
-for å sikre like muligheter (likestilling) og hindre
-diskriminering. Begrepet «mangfold» er ikke et
-klart rettslig definert begrep og er heller ikke
-definert i likestillings- og diskrimineringsloven.
-Utvalget har kommet til at det ikke er hensiktsmessig å ta inn formuleringen «mangfold» i loven.
-Utvalget har vurdert likestillings- og diskrimineringsforbudet som i dag er presisert i flere av
-universitets- og høyskolelovens bestemmelser, og
-ser disse som en påminnelse for sektoren om å
-jobbe systematisk med likestilling og ikke-diskriminering på alle nivåer i virksomheten. De samme
-kravene om aktivt og systematisk arbeid for å
-sikre likestilling følger imidlertid også av likestillings- og diskrimineringsloven. Utvalget mener
-det i utgangspunktet er uheldig med slik dobbeltregulering. Utvalget velger likevel å videreføre
-dagens lovgivningsteknikk, som blant annet innebærer at likestillingshensynet er fortløpende inntatt i ansettelsesreglene fordi sektoren fortsatt
-trenger en påminnelse om å arbeide systematisk
-for å nå målet om likestilling og om sitt særlige
-ansvar for å arbeide for likestilling i sin virksomhet. Dette er også i tråd med forslaget til ny § 1-1
-c) som sier at universiteter og høyskoler skal
-bygge virksomheten på og utbre forståelse og
-respekt for menneskeverdet, åndsfrihet, likeverd,
-likestilling, demokrati og rettsstatens prinsipper.
-
-28.5.4 Ansettelsesprosedyrer
-Utvalget anbefaler i hovedsak å videreføre dagens
-regelverk om ansettelsesprosesser, med bare ett
-forslag om endring av lovteksten.
-Ansettelsesprosessen ved universiteter og
-høyskoler er regulert gjennom universitets- og
-høyskoleloven, statsansatteloven og arbeidsmiljøloven. I tillegg gjelder de enkelte institusjonenes
-personalreglement. Prosessen kan variere etter
-hva slags stilling det skal ansettes i, men den
-deles hovedsakelig inn i syv trinn: Fastsettelse av
-kvalifikasjonskrav, utlysning, sakkyndig vurdering, prøveforelesning el., intervju, innstilling og
-ansettelsesvedtak.
-
-I universitets- og høyskoleloven er ansettelsesprosessen regulert særskilt for ansettelser i
-undervisnings- og forskerstillinger. Ansettelse i
-andre stillinger, som for eksempel administrative
-stillinger, reguleres av statsansatteloven eller
-arbeidsmiljøloven, avhengig av om det er privat
-eller statlig institusjon. Utvalget mener særskilte
-regler for ansettelsesprosessen i undervisningsog forskerstillinger reflekterer den særlige rollen
-slike stillinger har i sektoren, og hvordan undervisnings- og forskerstillinger har stor betydning
-for sektorens samfunnsoppdrag. Ved å regulere
-ansettelsesprosessen for disse i særlov sikres lik
-praksis for private og statlige institusjoner.
-Bestemmelsene ivaretar samtidig de særegne
-behovene for lik vurdering av faglig og pedagogisk kompetanse sektoren har, i større grad enn
-det som ville fulgt av det generelle regelverket.
-Det har vist seg gjennom innspillsmøter og
-skriftlige innspill at ansettelsesprosessen varierer
-fra institusjon til institusjon, og at det er noen misoppfatninger om hvordan loven skal tolkes. Ved
-ansettelse i universitet og høyskole konkurrerer
-institusjonene både med hverandre, med private
-aktører nasjonalt og med utenlandske aktører. I
-lys av institusjonenes formål og samfunnsoppdrag
-er universiteter og høyskoler avhengige av å være
-konkurransedyktige for å få tak i de best kvalifiserte kandidatene.
-En svakhet med den nåværende ansettelsesprosessen er at den er langdryg. Ofte forsvinner
-aktuelle kandidater underveis i prosessen fordi de
-får tilbud om ansettelse andre steder. Prosessen
-er tidkrevende fordi det skal oppnevnes bedømmelseskomiteer som vanligvis skal vurdere vitenskapelige og kunstneriske arbeider fra alle
-søkerne, i tillegg til selve søknadene og andre
-vedlegg. Komiteene skal settes sammen og aktuelle fagpersoner som skal forespørres om de vil
-medvirke, må kontaktes. Dersom noen takker nei,
-må nye personer kontaktes. De tre vitenskapelig
-ansatte som takker ja til å sitte i en komité, gjør
-dette i tillegg til sitt regulære arbeid. Institusjonene opererer ofte med en seks måneders grense
-for levering av sin innstilling for vurdering av doktorgradskompetanse, og tidshorisonten kan være
-lengre ved vurdering av kompetanse til andre stillinger.
-Utvalget anser det nødvendig med de særreglene om ansettelsesprosessen i universitetsog høyskoleloven for å ivareta hensynet til å
-behandle private og statlige institusjoner likt og
-hensynet til å få ansatt den best kvalifiserte kandidaten. Institusjonene har fått en stor grad av
-autonomi, og de må derfor selv ta ansvar for at
-
-[Side 287]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-de har en ansettelsesprosess som oppfyller kravet til faglig kompetanse, samtidig som prosessen er rask nok til at de er i stand til å konkurrere om de beste kandidatene. Utvalget mener
-det særlig er praktiske årsaker til at det tar lang
-tid å foreta kompetansevurderingene og at dette
-ikke skyldes den rettslige reguleringen av ansettelsesprosessen. For å korte ned tiden det tar å
-vurdere søkere, kan virksomhetene innføre ordninger slik at ansatte som takker ja til å sitte i
-slike bedømmelseskomiteer, får fritak fra andre
-arbeidsoppgaver. Gjeldende regelverk åpner
-også for at komiteene lager en «kortliste»
-(«shortlist»). Da sorteres først alle søkerne etter
-grunnkriteriene, og så er det bare utvalgte
-søkere som gjennomgår en fullstendig bedømming av innsendte vitenskapelige arbeider. Utvalget anbefaler å få utredet hvordan ansettelsesprosessen kan gjøres raskere, for eksempel gjennom en arbeidsgruppe med medlemmer fra sektoren selv. Utvalget ser ikke behov for å endre
-dagens regler for å få til raskere ansettelsesprosesser. Utvalget ønsker derfor å videreføre
-dagens bestemmelse om ansettelse i undervisnings- og forskerstillinger. Utvalget bemerker at
-det av hensyn til å sikre tillit til ansettelsesprosessene er viktig at universiteter og høyskoler
-minner om habilitetsreglene når de oppnevner
-komitémedlemmer.
-For stillinger som krever pedagogiske kvalifikasjoner, skal institusjonen etter gjeldende rett
-foreta en særskilt vurdering av om søkerne oppfyller kravene. Dokumentert praktisk kompetanse som underviser vil etter omstendighetene
-være tilstrekkelig. Utvalget mener at i stillinger
-som krever pedagogiske kvalifikasjoner, bør det
-også stilles krav om at det gjennomføres intervju,
-prøveforelesning eller andre prøver. Uten et slikt
-krav risikerer institusjonen å ansette personer
-som har den vitenskapelige kompetansen som er
-nødvendig i stillingen, men som likevel ikke
-egner seg til å undervise. Utvalget foreslår å lovfeste at det skal gjennomføres intervju, prøveforelesning eller andre prøver, med mindre dette er
-åpenbart unødvendig. Det kan for eksempel være
-hvis vedkommende har holdt prøveforelesning
-tidligere.
-
-28.5.5 Ekstern finansiering
-Utvalget er oppmerksom på at ekstern finansiering er, og fortsatt vil være, viktig for sektoren. En
-prinsipiell drøfting av hvilke konsekvenser dette
-skal få for drift og ledelse, i tillegg til arbeidsrettslige konsekvenser på individ- og virksomhetsnivå,
-
-285
-
-Kapittel 28
-
-er derfor viktig. Spørsmålet henger også sammen
-med drøftingen nedenfor i punkt 28.5.6 om
-midlertidige ansettelser i sektoren.
-Driften av universiteter og høyskoler finansieres med midler fra grunnbevilgningen over
-statsbudsjettet. I tillegg skaffes finansiering fra
-eksterne kilder som Norges forskningsråd, EU og
-private kilder. Institusjonene kan, avhengig av
-fremtidig utvikling, bli mer avhengige av ekstern
-finansiering.
-Under utvalgets innspillmøte med fagforeningene 5. desember 2018 pekte de på at mer ekstern
-finansiering har ført til at de ansatte «bærer byrden», i form av stadige midlertidige ansettelser.
-Ifølge fagforeningene burde ansvaret for den økonomiske situasjonen ligget på institusjonen, ikke
-på den enkelte ansatte. Fagforeningenes argument er at forskningsarbeid er en del av den normale driften på universiteter og høyskoler uavhengig av finansieringskilde. Praksis i dag er at institusjonene i overveiende grad foretar midlertidige
-ansettelser ved eksternt finansierte prosjekter.
-Dette gjelder både forskere med doktorgrad,
-fagadministrative og støttepersonell med spesialutdanning. De midlertidig ansatte på slike
-forskningsprosjekter er spesialister som ikke lett
-lar seg bruke til andre oppgaver.
-Det rettslige utgangspunktet er at midlertidige
-ansettelser er begrenset til tilfeller der arbeidet er
-av midlertidig karakter, jf. arbeidsmiljøloven § 14-9
-andre ledd a og statsansatteloven § 9 første ledd a.
-Hovedregelen er imidlertid at så lenge arbeidet
-som utføres er en naturlig del av formålet med virksomhetens drift og det er arbeidsoppgaver som
-regelmessig utføres som en naturlig del av driften,
-så skal det ansettes fast. I tider der virksomheten
-har behov for å redusere kostnadene kommer de
-vanlige reglene om oppsigelse på grunn av virksomhetens forhold til anvendelse. Saklig grunn til
-oppsigelse på grunn av virksomhetens forhold vil
-typisk kunne være økonomiske forhold på grunn
-av bortfall av ekstern finansiering, som kan resultere i et behov for å nedbemanne. Ingen av de to
-lovene viser til stillingenes finansieringsgrunnlag
-som saklig grunnlag for midlertidig ansettelse.
-Derimot er svekket økonomi på virksomhetens
-side saklig grunn for oppsigelse etter begge
-lovene.
-Utvalget vurderer at den høye andelen midlertidige ansettelser kan utgjøre en fare for at den
-akademiske friheten svekkes. Når kravet til
-ekstern finansiering blir en betingelse for økonomisk trygghet og forutsigbarhet i arbeidslivet for
-den enkelte, er individene også mer utsatt for utilbørlig press og påvirkning fra eksterne kilder. En
-
-[Side 288]
-
-286
-
-Kapittel 28
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-midlertidig ansatt vil kunne kvie seg for å
-uttrykke seg på en slik måte at det kan hindre en
-fremtidig ansettelse. Midlertidige ansettelser kan
-således oppleves som at ytringsfriheten til den
-enkelte blir satt under press og føre til en lydighetskultur.
-Utvalget fremhever at ansvaret for institusjonenes finansiering ligger på styret og den daglige
-ledelsen deres, også når midlene er eksterne.
-Ledelsen har et ansvar for å sørge for god rekrutteringspolitikk og behandling av ansatte i tråd
-med regelverket, uavhengig av finansieringskilde.
-Det arbeidsrettslige utgangspunktet er at en
-arbeidstaker skal ansettes fast når det er snakk
-om et fast og varig behov for arbeidstakerens
-ytelse. I tilfeller der en virksomhet opplever
-driftsunderskudd og økonomisk tap kan det være
-grunnlag for en større oppsigelses- eller omorganiseringsprosess. Styret og den daglige ledelsen
-må da vurdere hva slags kompetanse institusjonen har behov for, avhengig av hva det skal undervises i og forskes på. Der andelen eksterne midler
-reduseres fra ett år til et annet, er det ikke nødvendigvis slik at den ansatte som fikk sin stilling
-finansiert av slike midler, må sies opp, så sant vedkommende er fast ansatt. Ved omorganiseringer
-vil vanligvis de som har dårligst tilknytning til
-virksomheten, bli sagt opp først. Dersom de som
-er midlertidig ansatte er alle de som er eksternt
-finansierte, kan dette bygge opp under en oppfatning av at det er et A- og et B-lag.
-Eksterne midler bidrar til at institusjonene
-lettere kan sikre konkurranseevnen overfor andre
-virksomheter når det gjelder rekruttering og
-kompetansebygging. Dette gir også institusjonene
-rom for å ansette midlertidig når det bare er snakk
-om eksterne midler for en kortvarig periode.
-Samtidig må institusjonenes aktivitetsplikt og
-overordnede ansvar for finansieringen over lengre
-tid fremheves i tilfeller der det nettopp handler om
-et fast og varig behov for en arbeidstakers ytelse.
-Styret har ansvaret for at organisasjonen arbeider
-systematisk for å skaffe ekstern finansiering ved
-siden av statlige overføringer. Samtidig skal styret
-sikre institusjonens samfunnsoppdrag, hvor akademisk frihet og faglig utvikling er viktige elementer. Det å kunne sikre ansatte faste stillinger
-er et viktig element når institusjonene konkurrerer med arbeidslivet for øvrig om høyt kvalifisert arbeidskraft.
-Utvalget viser til at finansieringsordningen for
-sektoren med nettobudsjettering åpner for at institusjonene selv kan spare midler som kan settes av
-til for eksempel lønn i perioder med inntektsbortfall. Slike midler kan fungere som en buffer der-
-
-som ekstern finansiering bortfaller. Dette kan gi
-rom for å ansette flere i faste stillinger.
-
-28.5.6 Midlertidige ansettelser
-Utvalget har vurdert om det er svakheter ved
-reglene som kan forklare den høye andelen midlertidige ansettelser i sektoren, eller om dette
-skyldes praksis i sektoren. Kan endringer i lov
-eller forskrift være nødvendige for å bidra til en
-endring av praksis? Det er grunn til å presisere at
-adgangen til å ansette midlertidig har hjemmel i
-statsansatteloven og arbeidsmiljøloven. I forskrift
-til statsansatteloven er det hjemmel for en forenklet ansettelsesprosess for visse tilfeller der vilkårene for å ansette midlertidig etter statsansatteloven er oppfylt. Utvalget vurderer det som hensiktsmessig å beskrive reglene og sammenhengen mellom disse for å kunne besvare spørsmålet
-om det er reglene eller praksisen som stimulerer
-til en høy andel midlertidige ansettelser.
-Utvalget presiserer at en drift med fast ansettelse som hovedregel, uavhengig av finansieringsgrunnlag, bidrar til å styrke konkurranseevnen til
-universiteter og høyskoler.
-Hovedregelen i norsk rett er at arbeidstakere
-skal ansettes fast. Dette fremgår både av arbeidsmiljøloven, som gjelder for alle virksomheter som
-sysselsetter arbeidstakere, og av statsansatteloven, som gjelder spesielt for arbeidstakere i staten. Med fast ansettelse menes at arbeidsforholdet ikke er tidsbegrenset, at det innbefatter lov- og
-avtalefestede rettigheter, og at lovbestemte regler
-om opphør av stillingen gjelder.
-Det er altså adgang til å ansette midlertidig i
-visse tilfeller etter både arbeidsmiljøloven og
-statsansatteloven. Med midlertidige ansettelser
-menes generelt alle former for tidsbegrensede
-arbeidsavtaler – vikariater, engasjementer, prosjektstillinger, åremål og så videre. Grunnen til at
-lovverket bare unntaksvis åpner for å ansette
-arbeidstakere i midlertidige stillinger, er at det
-medfører stor usikkerhet for arbeidstakeren. Et
-midlertidig ansettelsesforhold påvirker planleggingen av arbeidstakerens og eventuelt familiens
-økonomi, muligheten til å skaffe seg boliglån med
-videre. En fast ansettelse gir bedre muligheter til
-å utvikle og bygge egen kompetanse. En midlertidig ansatt må leve med usikkerhet og bruke tid
-til å søke nye stillinger før den midlertidige stillingen utløper. Fast ansatte er også positivt for organisasjonen med sikte på å bygge et sterkt og kompetent arbeidsmiljø og en god organisasjonskultur. Hvis en sektor har utstrakt bruk av midlertidige ansettelser, vil færre gode kandidater søke
-
-[Side 289]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-seg dit, og sektoren kan gå glipp av godt kvalifiserte ansatte.45
-Midlertidige ansettelser brukes som nevnt
-generelt mer i statlig virksomhet enn i privat sektor. Bruk av midlertidige ansettelser utover de tilfellene der det er helt nødvendig, har medført at
-studenter og unge forskere anser en karriere i
-akademia som mindre attraktiv. Sektoren har blitt
-kjent for at mange går årevis i midlertidige stillinger. I 2016/2017 var ca. 17 prosent av de ansatte i
-staten midlertidig ansatt, sammenlignet med åtte
-prosent i norsk arbeidsliv for øvrig. I 2019 var
-andelen midlertidig ansatte i ordinære undervisnings- og forskerstillinger ved universiteter og
-høyskoler 15,5 prosent.46 Til sammenligning var
-andelen midlertidig ansatte i arbeidslivet samlet
-8,7 prosent i tredje kvartal av 2019. Andelen midlertidig ansatte i andre store ansattgrupper ved
-universiteter og høyskoler er også noe høyere enn
-i arbeidslivet samlet. Blant ansatte i saksbehandler- og utrederstillinger var andelen 11,9 prosent i
-2019, og blant ansatte i støttestillinger for undervisning og forskning var den 10,2 prosent.
-Midlertidige ansettelser kan grovt sett deles i
-tre grupper. Den første gruppen er ansettelser i
-utdanningsstillingene som stipendiat og postdoktor. Disse stillingstypene er utdanningsstillinger på åremål, og vil som hovedregel ikke medføre vikarbehov. Den andre gruppen er ansettelser i lederstillinger på åremål. Når institusjonens
-egne fast ansatte i undervisnings- og forskerstillinger går over i lederstillinger på åremål, oppstår et
-behov for midlertidig ansatte for å dekke opp for
-vedkommendes stilling. Disse åremålsstillingene
-er en del av ledelsesmodellen i sektoren, men skaper altså behov for midlertidige ansettelser.
-De to førstnevnte gruppene av midlertidige
-ansettelser er regulert i universitets- og høyskoleloven. Disse gruppene kan sies å være ønsket i
-sektoren.
-45
-
-Castellacci, Fulvio og Clara Viñas-Bardolet. Permanent contracts and job satisfaction in academia: Evidence from European countries. Working Papers on Innovation Studies
-20181008, Centre for Technology, Innovation and Culture.
-University of Oslo. https://ideas.repec.org/p/tik/inowpp/
-20181008.html hentet 17.1.2020.
-46
-Forskerforbundet mener midlertidigheten i ordinære
-undervisnings- og forskerstillinger er høyere enn det
-Kunnskapsdepartementets tall viser. Ifølge Forskerforbundet var andelen midlertidige ansatte i denne stillingskategorien 16,3 prosent i 2019. Forskjellen på 0,8 prosentpoeng
-skyldes at Kunnskapsdepartementet siden 2015 ikke har
-regnet med ansatte på åremål i kunstfaglige stillinger.
-Disse ansettelsene er hjemlet i dagens universitets- og høyskolelov § 6-4, i likhet med andre åremålsansettelser som
-ikke regnes med i midlertidigheten, for eksempel som stipendiat eller postdoktor.
-
-287
-
-Kapittel 28
-
-Den tredje gruppen av midlertidige ansettelser er de som er regulert i statsansatteloven § 9
-første ledd bokstav a, som hjemler midlertidig
-ansettelse «når arbeidet er av midlertidig karakter». Typisk og uproblematisk er tilfeller der det
-innhentes en vikar for en person som er ute i
-sykemelding eller foreldrepermisjon. Da er fraværet konkret og avgrenset i tid og behovet for
-midlertidig ansettelse er saklig begrunnet. Dette
-er en ønsket kategori av midlertidige ansettelser
-i arbeidslivet generelt. Mer problematisk er midlertidige ansettelser som er hjemlet i statsansatteloven § 9 første ledd bokstav a, at midlertidighet er lovlig fordi finansieringen av stillingen er midlertidig. Utvalget er kjent med at det i
-noen slike tilfeller henvises feilaktig til forskrift
-til statsansatteloven § 3 tredje ledd som hjemmel
-for å ansette midlertidig. Denne bestemmelsen
-regulerer ikke midlertidige ansettelser, men
-hjemler en forenklet ansettelsesprosess.
-Utvalget mener det er grunn til å drøfte denne
-sistnevnte kategorien midlertidige ansettelser
-nærmere. Utvalget har fått flere innspill som
-beskriver en praksis med utbredt bruk av midlertidige ansettelser.47 Det er derfor behov for å
-drøfte det rettslige grunnlaget for å foreta midlertidige ansettelser og vurdere om det er rettsreglene som bidrar til en utilsiktet stor andel midlertidige ansettelser. I tillegg er det behov for å
-drøfte praksisen som har utviklet seg i sektoren
-når det gjelder hvordan reglene tolkes. Det er
-mulig reglene bør justeres dersom formålet er å få
-ned andelen midlertidige ansettelser. Det kan
-også være at reglene er gode nok, men at det er
-praktiseringen av reglene som må endres. Utvalget er kjent med at det er satt i gang ulike arbeidsgrupper som ser på måter å få ned andelen midlertidige ansettelser på.48
-Et innspill fra sektoren er at institusjonene
-ansetter midlertidig i en rekke forskerstillinger.
-Argumentasjonen til institusjonene er da at de
-ikke kan ansette fast fordi finansieringen av stillingene er midlertidig, det vil si prosjektbasert.
-Typisk lyses det ut forskningsmidler til ulike prosjekter i tidsavgrensede perioder, flere påfølgende
-47
-
-48
-
-Se innspill fra blant andre Norsk Sykepleierforbund, Forskerforbundet, Komité for kjønnsbalanse og mangfold i
-forskning, Utdanningsforbundet og NHO https://www.universitetsoghoyskolelovutvalget.no/innspill/mottatte-innspill/.
-Dyrkorn, Sonja m.fl. Tiltak for reduksjon av midlertidighet i
-UH-sektoren. Rapport fra arbeidsgruppe nedsatt av Kunnskapsdepartementet. Avgitt 31.12.2019. Hentet fra https://
-www.regjeringen.no/contentassets/
-b28061b66ee44140b3c80ea8b4e5df97/rapport-midlertidighet-311219.pdf.
-
-[Side 290]
-
-288
-
-Kapittel 28
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-1-årskontrakter eller kontrakter på 2–4 år, 3–6 år
-eller ti år. Institusjonen hevder videre at de ikke
-kan ansette fast fordi det ville binde opp lønnskostnader – høyere kostnader enn det bevilgningene over statsbudsjettet, som er de faste inntektene deres, ville dekke. Denne driftsformen
-baserer seg på at det ikke ansettes flere i faste stillinger enn institusjonene har budsjett til over de
-faste bevilgningene fra staten. Deretter ansetter
-institusjonene forskere i midlertidige stillinger ut
-fra hvor mye midlertidig finansiering de har fått.
-De som ansettes i disse midlertidige stillingene,
-kan være høyt utdannede forskere eller fagspesialister som da kan bli gående på midlertidig ansettelse i årevis. I praksis skaper dette systemet et Aog B-lag av forskere, der A-laget har fast ansettelse.
-Det kan være grunn til å spørre hvorfor det
-skal være ulik praksis i privat sektor enn statlig
-sektor. I privat sektor er hovedregelen at virksomhetene ikke vet hvor store inntekter de vil ha
-i fremtiden. I konsulentbransjen vil typisk alle
-inntekter komme fra engasjementer og prosjekter av begrenset varighet. Hovedregelen er likevel fast ansettelse, og virksomhetene må nedbemanne dersom inntektene svikter. Dette er en
-praksis som ikke har vært så vanlig i universitets- og høyskolesektoren. Dels har dette en historisk forklaring, ettersom sektoren har vokst
-mye i løpet av de siste tretti årene. Dels er forklaringen at det inntil nylig har vært et sterkere
-stillingsvern i statlig sektor enn i privat sektor.
-Stillingsvernreglene ble endret i 2017 ved ny
-statsansattelov. For de fleste stillinger i staten
-stilles det nå de samme krav til saklig grunn for
-oppsigelse som i privat sektor. Det betyr at dersom de økonomiske forholdene tilsier et behov
-for nedbemanning, så er det i utgangspunktet
-ingen rettslige forhold som skulle tilsi at nedbemanning er vanskeligere i statlig enn i privat
-sektor. Det er de samme reglene som gjelder for
-utvelgelseskriterier og utvalgskrets.49 Ettersom
-endringene i statsansatteloven er nye, ser ikke
-49
-
-Utvalgskriterier er relevante kriterier for vurdering av om
-det foreligger saklig grunn for å si opp en ansatt eller ikke.
-Kriteriene kan variere, men vil typisk handle om formal- og
-realkompetanse, ansiennitet, sosiale hensyn med mer.
-Disse kriteriene må avveies mot virksomhetens behov for å
-omorganisere/nedbemanne. Kriteriene bidrar til at det sikres lik behandling og ikke foretas uvilkårlig forskjellsbehandling. Utvalgskretsen er den kretsen nedbemanningen
-omfatter. Normalt er hele virksomheten en utvalgskrets,
-men det kan foreligge særlige grunner som tilsier at kretsen bør innsnevres. Hvilke grunner som kan aksepteres for
-å innsnevre kretsen avhenger av konkrete momenter som
-er nedfelt i rettspraksis. Se for eksempel Høyesteretts dom
-av 29. oktober 2019, HR-2019-1986-A.
-
-utvalget bort fra at eldre oppfatninger av at det er
-et sterkere stillingsvern i staten, kan henge igjen
-både hos fagforeningene og hos styret og den
-daglige ledelsen. Dette har utvalget fått bekreftet
-i flere av innspillsmøtene utvalget har hatt med
-representanter fra sektoren.
-Spørsmålet er derfor i hvilken grad finansieringsgrunnlaget i seg selv kan være lovlig grunnlag for midlertidig ansettelse etter statsansatteloven § 9 første ledd bokstav a. Om arbeidet er av
-midlertidig karakter, må vurderes konkret i hvert
-enkelt tilfelle. Finansieringsgrunnlaget er ikke
-nevnt i loven som lovlig begrunnelse for å foreta
-en midlertidig ansettelse, men det drøftes nærmere nedenfor om dette likevel kan være en del
-av en større vurdering av arbeidets midlertidige
-karakter. Finansieringsgrunnlaget er heller ikke
-et grunnlag for midlertidig ansettelse etter forskrift til statsansatteloven § 3 tredje ledd. Forskriftsbestemmelsen åpner for at arbeidsgiveren
-kan gjøre unntak fra reglene i statsansatteloven
-§§ 3 til 7 ved ansettelse av arbeidstakere som skal
-utføre oppdrag som er eksternt finansierte.
-Reglene i statsansatteloven §§ 3 til 7 handler om
-kvalifikasjonsprinsippet og ansettelsesprosessen.
-Forskrift til statsansatteloven § 3 tredje ledd gir
-hjemmel for en forenklet ansettelsesprosess, og
-er ikke en hjemmel i seg selv for å ansette midlertidig. Flere muntlige innspill utvalget har fått på
-innspillsmøter, tyder på at det foreligger en feiloppfatning av at bestemmelsen i seg selv gir
-grunnlag for å ansette midlertidig i prosjekter
-som er eksternt finansierte. Å ansette midlertidig,
-eventuelt etter den forenklende ansettelsesprosessen, er bare tillatt dersom det er grunnlag for å
-ansette midlertidig etter statsansatteloven § 9.
-Derimot utelukker ikke utvalget at finansieringsgrunnlaget kan være en årsak til at arbeidet
-er «av midlertidig karakter», for eksempel der en
-institusjon iverksetter et konkret, tidsbegrenset
-prosjekt som institusjonen har skaffet midler til å
-gjennomføre, jf. statsansatteloven § 9 første ledd
-bokstav a.
-Utvalget mener at universitets- og høyskolesektoren har et særskilt behov for midlertidige
-ansettelser. Dette gjelder, som nevnt tidligere,
-spesielt i de to første gruppene, utdannings- og
-åremålsstillingene. I tillegg har universitets- og
-høyskolesektoren det vanlige behovet for vikarer
-som arbeidslivet for øvrig har. Den høye andelen
-midlertidig ansatte i sektoren indikerer imidlertid
-at institusjonene ansetter i midlertidige stillinger
-utover det som er nødvendig, og bruker de rettslige grunnlagene for midlertidige stillinger i
-større grad enn det er faktisk grunnlag for.
-
-[Side 291]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Det er derfor behov for å klargjøre hva som
-defineres som arbeid av midlertidig karakter jf.
-statsansatteloven § 9 første ledd bokstav a. Når
-det sektoren typisk driver med, er forskning av
-lengre og kortere varighet og innhenting av
-ekstern forskningsfinansiering er en del av normal drift i tråd med virksomhetenes formål, er det
-et betimelig spørsmål om dette er arbeid av midlertidig karakter.
-Ettersom den klare hovedregelen både i
-arbeidsmiljøloven og i statsansatteloven er fast
-ansettelse, reiser det et spørsmål om den uønskede bruken av midlertidige stillinger skyldes
-svak kompetanse på regelverket. Innspill fra sektoren tyder på at dette til en viss grad er tilfellet. I
-tillegg kan man spørre om ledere i sektoren forstår det gjeldende regelverket om handlingsrommet ved omorganiseringer godt nok. En god ledelseskultur bidrar til at institusjonen har kontroll på
-at den ikke benytter midlertidige stillinger utover
-det det er rettslig adgang til. Utvalget er kjent med
-at det ved flere universiteter er satt i gang konkrete tiltak for å redusere andelen midlertidige
-ansettelser, noe som også har gitt resultater. Dette
-indikerer at det er rom for å redusere andelen
-midlertidige ansettelser i sektoren, og at den høye
-bruken av slike ansettelser kan skyldes kultur
-eller holdning ved institusjonene.
-Utvalget har ikke klart å identifisere mulige
-regelendringer som kan avhjelpe situasjonen med
-den høye andelen midlertidige ansettelser ved
-universiteter og høyskoler. Utvalget viser til at
-denne utfordringen allerede er forsøkt avhjulpet i
-den nye statsansatteloven, som gjelder for hele
-statlig sektor. Utvalget oppfordrer derfor sektoren
-selv, og hver enkelt institusjon, til å arbeide systematisk med å etablere en god kultur og hensiktsmessige rutiner ved ansettelser. Målet er å sikre
-at hovedregelen om fast ansettelse følges uavhengig av finansieringskilde, og at hjemlene for å
-ansette midlertidig anvendes korrekt. Dette forutsetter at administrasjonen ved de enkelte institusjonene har tilstrekkelig kompetanse på ansettelsesreglene.
-
-28.5.7 Åremålsansettelser
-Åremålsansettelser er regulert i universitets- og
-høyskoleloven § 6-4. Åremål brukes i to hovedkategorier: utdanningsstillinger og lederstillinger.
-Åremål for utdanningsstillinger er begrunnet med
-at kvalifiseringen skjer over en viss periode, og
-når denne er over, skal den ansatte over i en
-annen stillingskategori eller annen sektor. Åremålet for lederstillinger er begrunnet med at
-
-289
-
-Kapittel 28
-
-enkeltpersoner ikke skal sitte for lenge i slike
-posisjoner.
-Utvalgets flertall, bestående av utvalgsleder
-Aune og medlemmene Bragdø-Ellenes, Bergstrøm,
-Dahl Andersen, Jørgensen, Mælen, Riekeles og
-Steinveg foreslår å fjerne bokstav b i gjeldende lov
-§ 6-4, som bestemmer at det er adgang til å
-ansette administrerende direktør på åremål. Dette
-henger sammen med flertallets forslag om en
-endret styrings- og ledelsesform der enhetlig
-ledelse skal være regelen. Styret kan etter utvalgets forslag beslutte om det ønsker å ha en eller
-flere direktører.
-Utvalgets mindretall, ved utvalgsmedlemmene
-Hessen og Søvig, foreslår ingen endringer i gjeldende § 6-4 bokstav b.
-Utvalget har fått innspill fra Forskerforbundet
-om at bestemmelsen i universitets- og høyskoleloven § 6-4 første ledd bokstav j bør oppheves.
-Bestemmelsen gir hjemmel til åremålsansettelse i
-«undervisnings- og forskerstillinger når skapende
-eller utøvende kunstnerisk kompetanse inngår
-som et vesentlig element i kompetansekravet».
-Forskerforbundet mener adgangen til åremålsansettelse her er uheldig både for undervisningen, for kvaliteten på det daglige arbeidet og
-for den enkelte ansatte. Forskerforbundet viser til
-at virksomhetene må dekke behovet for å ansette
-utøvende kunstnere innenfor den generelle
-adgangen til å bruke midlertidig ansettelse og
-faste deltidsstillinger.
-Utvalget har merket seg Forskerforbundets
-innspill. Utvalget viser samtidig til at ansettelse på
-åremål etter universitets- og høyskoleloven § 6-4
-første ledd bokstav j var et av punktene som ble
-tatt opp på innspillsmøtet om kunstnerisk
-utviklingsarbeid utvalget hadde med UHR- Kunst,
-design og arkitektur 12. juni 2019.50 I referatet fra
-innspillsmøtet står det:
-Det var bred oppslutning om at det fortsatt er
-stort behov for åremålsstillinger innenfor fagområdet. Det ble også argumentert for at
-muligheter for mindre stillingsbrøker og/eller
-midlertidige stillinger er spesielt viktig for fagområdet. Nærhet til praksisfeltet, fornyelse og
-utfyllende kompetanse er viktig for studietilbudet, kvaliteten på undervisningen og for den
-enkeltes kunstneriske utvikling. Det ble argu50
-
-Universitets- og høgskolerådet. UHR-Kunst, design og arkitektur. Kunstnerisk utviklingsarbeid, kunstutdanning og
-regelverk. En kort oppsummering etter innspillsmøte 12.
-juni 2019. https://innsyn.uhr.no/wfdocument.ashx?journalpostid=2019000513&dokid=42008&versjon=1&variant=A&. hentet 3.7.2019.
-
-[Side 292]
-
-290
-
-NOU 2020: 3
-
-Kapittel 28
-
-Ny lov om universiteter og høyskoler
-
-mentert for at denne fleksibiliteten er spesielt
-viktig for små fagmiljøer, og ønskelig både fra
-et institusjonsperspektiv og den enkelte kunstners perspektiv.
-Utvalget slutter seg til argumentasjonen som kom
-frem på Universitets- og høgskolerådets innspillsmøte om kunstnerisk utviklingsarbeid, og
-foreslår ingen endringer i gjeldende universitetsog høyskolelov § 6-4 første ledd bokstav j.
-Utvalget foreslår en tilføyelse i bestemmelsen i
-§ 6-4 fjerde ledd, der det sies at det ikke er adgang
-til å ansette mer enn én periode som postdoktor.
-Dette er for å presisere at postdoktorstillingen har
-som funksjon å sikre den ansatte mulighet til å
-kvalifisere seg til en fast undervisnings- og
-forskerstilling. Flere påfølgende postdoktorstillinger støtter ikke opp om en slik intensjon.
-
-28.5.8 Behov for juridisk kompetanse
-Universiteter og høyskoler er på det arbeidsrettslige feltet regulert av en rekke ulike lover, med
-mange forskrifter. Dette har ført til ulik praksis
-blant institusjonene og er noe som igjen kan føre
-til nasjonale forskjeller.
-Utvalget bemerker at når institusjonene får en
-høy grad av autonomi, er det av stor betydning at
-de har tilstrekkelig kompetanse til å anvende lovverket. Innspill på møter utvalget har hatt med
-sektoren kan tyde på at det særlig er behov for økt
-
-arbeidsrettslig kompetanse hos dem som skal
-anvende reglene.
-Ifølge en oversikt utvalget har mottatt fra Nordisk institutt for studier av innovasjon, forskning
-og utdanning (NIFU),51 var det i 2018 ansatt 216
-personer med juristutdanning i teknisk-administrative stillinger ved universiteter og høyskoler.
-Juristene utgjorde 1,8 prosent av det teknisk-administrative personalet med høyere utdanning dette
-året. Over tid har antallet jurister økt betydelig, fra
-92 personer i 2003. Likevel er andelen jurister av
-teknisk-administrativt personale med høyere
-utdanning nesten uforandret. Det skyldes at det
-generelt har blitt langt flere med høyere utdanning i teknisk-administrative stillinger ved universiteter og høyskoler i denne perioden. I 2018 var
-67 prosent av juristene ansatt i institusjonenes
-sentraladministrasjoner, 25 prosent var ansatt på
-fakultetsnivå og åtte prosent på instituttnivå.
-Utvalget ser også behov for mer juridisk forskning på og undervisning i utdanningsrettslige
-emner. Dette gjelder både arbeidsrettslige, studentrettslige og ledelses- og forvaltningsrettslige
-problemstillinger. Utvalget har erfart at det er lite
-juridisk litteratur om juridiske problemstillinger
-som er relevante for universitets- og høyskolesektoren.
-51
-
-Gunnes, Hebe. Jurister i teknisk-administrative stillinger i
-universitets- og høgskoleadministrasjonen. Upublisert notat
-fra NIFU, mai 2019.
-
-[Side 293]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-291
-
-Kapittel 29
-
-Kapittel 29
-
-Akkreditering og tilsyn
-
-Figur 29.1
-
-29.1 Utvalgets forslag
 Utvalget foreslår følgende:
-• Det skilles tydeligere i loven mellom hva som
-er NOKUTs formål og hva som er NOKUTs
-oppgaver, ved å innføre en egen bestemmelse
-som angir NOKUTs myndighet og formål.
-• En ny bestemmelse som klargjør hvilke oppgaver NOKUT er faglig uavhengig i. I dagens
-lov er NOKUTs oppgaver listet opp, uten at
-listen er uttømmende.
-• Begrepsbruken i opplistingen av NOKUTs faglig uavhengige oppgaver koordineres med
-begrepsbruken i studiekvalitetsforskriften § 15.
-• Lovfestingen av at NOKUT kan «benytte andre
-virkemidler og gjennomføre andre tiltak» i universitets- og høyskoleloven § 2-1 tredje ledd
-siste setning videreføres ikke. Dette innebærer
-ingen materiell endring i hva NOKUT kan
-gjøre.
-• Henvisningen til fagskoleutdanning i § 2-1
-andre ledd første punktum videreføres ikke.
-• Dagens lov § 2-1 femte ledd videreføres ikke.
-En ny bestemmelse som omhandler at NOKUT
-er faglig uavhengig i særskilte oppgaver, og at
-«NOKUTs utøvelse av faglig skjønn i saker
-etter denne bestemmelsen kan ikke overprøves» innføres.
-• Dagens lov § 2-1 sjette ledd siste punktum, som
-gir NOKUT hjemmel til å fastsette forskrifter
-om de samme emnene som departementet,
-videreføres ikke.
-• Dagens lov § 2-1 sjette ledd bokstav c, som gir
-departementet adgang til å fastsette forskrift
 
-•
+- Hovedregelen om at styrene for statlige universiteter og høyskoler skal ha elleve medlemmer videreføres. Fire medlemmer skal være eksterne, fire skal velges av og blant ansatte i undervisnings- og forskerstilling, ett medlem skal velges av og blant de teknisk og administrativt ansatte og to medlemmer skal velges av og blant studentene.
 
-om saksbehandlingsregler for NOKUT, videreføres ikke.
-Reglene om akkreditering, tilsyn og NOKUTs
-oppgaver videreføres, men med noen materielle og strukturelle endringer.
+- Bestemmelsene om styring og ledelse ved private høyskoler videreføres.
 
-Utvalget anbefaler følgende:
-• Det igangsettes et arbeid med å evaluere NOKUTs rolle og oppgaver, og vurdere den mest
-hensiktsmessige organiseringen av et kvalitetssikringsorgan for norsk høyere utdanning.
-• Vurdere regelen om klage over NOKUTs vedtak om akkreditering, og begrunnelsene som
-er gitt for innskrenkningene i klagemyndighetens kompetanse. Utvalget anbefaler at det innføres en hjemmel som tydeligere begrunner
-innskrenkingen i prøvingen av spørsmål hvor
-NOKUT er faglig uavhengig, eventuelt også at
-innskrenkingen av hvem som kan klage flyttes
-til loven.
-• Gjennomgå studietilsynsforskriften og studiekvalitetsforskiften, og vurdere om disse slås
-sammen til én forskrift.
+- En ny bestemmelse som presiserer at eventuelle pålegg og instrukser til universiteter og høyskoler skal gis skriftlig.
 
-29.2 Gjeldende rett
-29.2.1 Nasjonalt organ for kvalitet i
-utdanningen – NOKUT
-Nasjonalt organ for kvalitet i utdanningen
-(NOKUT) ble opprettet av Stortinget i 2002. Opprettelsen var begrunnet i de strukturelle
-endringene i høyere utdanning som ble gjort gjennom Kvalitetsreformen.1 NOKUT var operativt fra
-1. januar 2003.
+- Universitets- og høyskoleloven presiserer at styremedlemmer skal opptre uavhengig, for å klargjøre at departementet eventuelt må instruere institusjonen gjennom styret som kollegialt organ.
+
+- Bestemmelsene om styrets arbeid blir mindre omfattende, slik at styrene selv kan bestemme mer over eget arbeid.
+
+Et flertall i utvalget foreslår følgende:
+
+- Statlige universiteter og høyskoler skal ha ekstern styreleder. Institusjonene bestemmer selv om rektor skal ansettes eller velges.
+
+Et mindretall i utvalget foreslår følgende:
+
+- Dagens bestemmelser om at statlige universiteter og høyskoler selv kan bestemme om de skal ha ekstern styreleder og ansatt rektor eller valgt rektor som styrets leder videreføres.
+
+Et flertall i utvalget foreslår følgende:
+
+- Institusjonene oppnevner selv to av de eksterne styremedlemmene og departementet oppnevner de andre to eksterne styremedlemmene, inkludert styreleder.
+
+Et mindretall i utvalget foreslår følgende:
+
+- Departementet oppnevner alle de eksterne medlemmene.
+
+Et flertall i utvalget foreslår følgende:
+
+- Det skal ikke være ulik vekting av stemmene til grupper av ansatte ved valg.
+
+Et mindretall i utvalget foreslår følgende:
+
+- Dagens regler om vekting av stemmene til de ansatte videreføres.
+
+Et flertall i utvalget foreslår følgende:
+
+- En ny bestemmelse om at tre eller flere av styremedlemmene kan kreve lovlighetskontroll av et styrevedtak.
+
+## Gjeldende rett
+
+### Statlige universiteter og høyskoler
+
+I dag er det flere mulige modeller for organisering av styringen og ledelsen ved de statlige universitetene og høyskolene.
+
+Hovedmodellen, jf. universitets- og høyskoleloven § 9-3[^510], er at styret har elleve medlemmer. Fire styremedlemmer, inkludert styrelederen, oppnevnes av departementet. Fire medlemmer velges av og blant ansatte i undervisnings- og forskerstilling, ett medlem velges av og blant de teknisk og administrativt ansatte, og to medlemmer velges av og blant studentene. Styret selv fastsetter organiseringen av institusjonen og ansetter rektor, som har ansvar for den samlede virksomheten. Denne modellen, der styrelederen blir oppnevnt av departementet og rektor har et helthetlig ansvar for alle sider av virksomheten, omtales tradisjonelt som enhetlig ledelse. Hensikten er å etablere en tydelig ansvarsfordeling mellom styreleder og rektor.
+
+En annen modell er at rektor velges av de ansatte og studentene, og at rektor også er styrets leder, jf. universitets- og høyskoleloven § 10-2. Også i denne modellen har styret elleve medlemmer. Fire styremedlemmer oppnevnes av departementet, fire velges blant ansatte i undervisnings- og forskerstilling, inkludert rektor, ett medlem velges blant de teknisk og administrativt ansatte, og to medlemmer velges blant studentene. Både studentene og de ansatte har stemmerett ved valg av rektor, og både ansatte og eksterne kandidater kan velges som rektor. Når rektor er valgt, skal institusjonen ha en administrerende direktør, jf. universitets- og høyskoleloven § 10-3. Modellen med valgt rektor som styreleder og en direktør med et administrativt ansvar omtales tradisjonelt som delt ledelse. Ordningen har en historisk begrunnelse. Administrerende direktør ble tidligere ansatt av departementet og sto til ansvar overfor departementet for den samlede forvaltningen av økonomi og personale. Administrerende direktør skulle blant annet sikre en særlig offentlig kontroll med den administrative virksomheten. Styret hadde en mer avgrenset rolle som faglig kollegium med ansvar for faglige prioriteringer og vurderinger.
+
+Valgt rektor som styreleder, er sammen med administrerende direktør ansvarlig for å forberede styresaker, lede styremøter og gjennomføre styrets vedtak. Styret kan under visse omstendigheter gi valgt rektor delegert myndighet til å treffe beslutninger på styrets vegne utenom styremøter. Valgt rektor har på styrets vegne det overordnede ansvaret for institusjonens virksomhet, inkludert ansvar for tilsyn og kontroll med virksomheten. Administrerende direktør er øverste leder for den samlede administrative virksomheten ved institusjonen, innenfor de rammene styret fastsetter. Administrerende direktør er sekretær for styret og skal, etter samråd med rektor, forberede og gi tilråding i de sakene som legges frem for styret. I tillegg er administrerende direktør ansvarlig for å iverksette vedtakene som treffes i institusjonens styringsorganer, og for å disponere ressurser og eiendom i samsvar med de vedtakene som styret gjør. Administrerende direktør er dessuten ansvarlig for den samlede økonomi- og formuesforvaltningen. Beskrivelsen i §§ 10-2 og 10-3 kan skape enkelte uklarheter om hva som er ansvaret og myndigheten til valgt rektor og administrerende direktør. Dette kan imidlertid klargjøres i instruksen styret skal fastsette for den daglige ledelsen, jf. § 9-2 tredje ledd.
+
+Styret kan selv bestemme at det skal ha en annen sammensetning enn det som følger av universitets- og høyskoleloven § 10-1 eller § 10-2, jf. § 9-3 tredje ledd. Hvis styret bestemmer dette, skal ansatte i undervisnings- og forskerstilling, teknisk og administrativt ansatte, studenter og eksterne være tilfredsstillende representert i styret. Ingen av disse gruppene skal ha flertall alene, og minst 20 prosent av styremedlemmene skal velges av og blant studentene.
+
+Loven har også bestemmelser som tydeliggjør at det kan være særlige tilfeller der det er hensiktsmessig med spesialtilpasninger, og at departementet kan fastsette dette, jf. universitets- og høyskoleloven § 9-3 sjette ledd. Dette har departementet blant annet gjort i forbindelse med sammenslåing av institusjoner. Videre kan departementet i særlige tilfeller forlenge styrets funksjonsperiode og styremedlemmenes tjenestetid, jf. universitets- og høyskoleloven § 9-4 femte ledd. Før dette ble fastsatt i loven, forutsatte også departementet at det som overordnet myndighet og med grunnlag i instruksjonsmyndighet, kunne forlenge funksjonsperioden og tjenestetiden.[^511]
+
+Forslag til eksterne styremedlemmer og varamedlemmer fremmes av institusjonens styre, og de oppnevnes av departementet. Departementet er ikke bundet av institusjonens forslag. For kunsthøyskolene, det vil i dag i praksis si kun Kunsthøgskolen i Oslo, fremmes forslag av høyskolens styre og av Norsk kulturråd. Sametinget oppnevner på fritt grunnlag to av de eksterne styremedlemmene og ett varamedlem ved Samisk høgskole, jf. universitets- og høyskoleloven § 9-4 sjette ledd.
+
+Universitets- og høyskoleloven har også en rekke bestemmelser som regulerer styrenes arbeid. For eksempel er det bestemmelser om gjennomføringen av styremøter, jf. universitets- og høyskoleloven § 9-6, og om at det skal være størst mulig åpenhet om styrets arbeid, jf. universitets- og høyskoleloven § 9-2. Også for private høyskoler har loven krav om at det skal være størst mulig åpenhet om styrets arbeid, jf. § 8-1 tredje ledd.
+
+### Private universiteter og høyskoler
+
+Private universiteter og høyskoler skal være organisert etter aksjeloven[^512] eller stiftelsesloven[^513], jf. universitets- og høyskoleloven § 8-1. Aksjeloven har bestemmelser om at generalforsamlingen velger styret, og bestemmelser om de ansattes rett til å velge styremedlemmer. Det følger av stiftelsesloven at vedtektene for en stiftelse skal regulere hvordan styret skal velges, og at de ansatte har rett til å velge styremedlemmer. Universitets- og høyskoleloven § 8-1 sikrer imidlertid at studenter og ansatte er representert i styret, og at styret består av minst fem medlemmer. Universitets- og høyskoleloven presiserer at kravene i likestillings- og diskrimineringsloven[^514] om representasjon av begge kjønn må være oppfylt. Dersom styret har mer enn ti medlemmer, skal studentene og de ansatte være representert med minst to medlemmer hver. Dette må det tas høyde for i organiseringen av private universiteter og høyskoler, for eksempel i vedtektene.
+
+## Regulering av styring og ledelse
+
+### Generelt
+
+Hvilken ledelsesform universiteter og høyskoler skal ha, har vært diskutert i lang tid. Styrets rolle har endret seg vesentlig de siste tiårene, ikke minst gjennom Kvalitetsreformen fra 2003. I denne reformen sto styrenes ansvar og handlingsrom, og behovet for å styrke styrenes strategiske rolle, sentralt. Gjennom endringer i universitets- og høyskoleloven fikk styrene blant annet flere medlemmer oppnevnt av departementet, myndighet til å fastsette den interne organiseringen ved institusjonen og utvidede fullmakter. Departementet har tilpasset styringen av sektoren til at styrene skal ha et betydelig handlingsrom og selvstendig ansvar for drift og utvikling av institusjonene.
+
+Bestemmelsene om styring og ledelse av private høyskoler balanserer hensynet til private virksomheter og selskapslovgivningen på den ene siden, mot hensynet til og tradisjonen for studentenes og de ansattes medvirkning i styringen av akademiske institusjoner på den andre siden.
+
+### Tidligere forslag om ekstern styreleder og ansatt rektor
+
+I NOU 2000: 14 *Frihet med ansvar. Om høgre utdanning og forskning i Norge* foreslo et utvalg ledet av Ole Danbolt Mjøs (Mjøsutvalget) at det skulle være obligatorisk med ekstern styreleder og såkalt enhetlig ledelse på institusjonsnivå. Enhetlig ledelse innebærer som nevnt foran en rektor med faglig og administrativt ansvar for hele institusjonens virksomhet. Utvalgets flertall foreslo at rektor skulle ansettes av styret.
+
+### Universitets- og høyskoleloven fra 2005
+
+I 2002 la et regjeringsoppnevnt utvalg frem NOU 2003: 25 *Ny lov om universiteter og høyskoler*. Se nærmere fremstilling i punkt 4.1.5. Utredningen ble fulgt opp av departementet i Ot.prp. nr. 79 (2003–2004) *Om lov om universiteter og høyskoler*. Departementet foreslo at alle universiteter og høyskoler skulle ha en styrings- og ledelsesmodell der rektor ikke også kunne være styreleder. Departementet mente at modellen som innebar at valgt rektor også var styrets leder, gjorde at for mye myndighet ble konsentrert i én posisjon. Dette ville kunne svekke styrets rolle som kontrollerende organ. Å skille posisjonen som styreleder fra posisjonen som rektor skulle styrke institusjonenes strategiske handlekraft og legge til rette for klarere ansvarsforhold. Departementet foreslo at styret skulle avgjøre om rektor skulle rekrutteres ved valg eller gjennom ansettelse, og mente at det ville forsterke den enkelte institusjonens selvstendighet overfor andre offentlige myndigheter.
+
+Stortinget sluttet seg ikke til departementets forslag, og vedtok en ordning hvor valgt rektor som styrets leder ble utgangspunktet.[^515] Imidlertid innførte Stortinget en lovbestemmelse om at styret selv med to tredjedels flertall kunne bestemme at institusjonen skulle ha ansatt rektor og styreleder oppnevnt av departementet. Kirke-, utdannings- og forskningskomiteens flertall mente at det ikke var behov for en ny obligatorisk styringsstruktur som ville begrense institusjonenes valgfrihet. Flertallet viste til at det var forskjell på institusjonenes størrelser, erfaringer, tradisjoner og oppgaver. Komiteens flertall ville derfor gi institusjonene en større frihet til å velge styringsstruktur med utgangspunkt i hovedmodellen med valgt rektor som styreleder.
+
+### Strukturreformen
+
+I Meld. St. 18 (2014–2015) *Konsentrasjon for kvalitet. Strukturreform i universitets- og høyskolesektoren* (Strukturmeldingen) viser regjeringen til behovet for god ledelse ved institusjonene. Styret er det øverste organet ved institusjonen og skal gjøre strategiske valg og prioriteringer. Regjeringen la i meldingen vekt på at
+
+\[…\] ekstern styreleder og ansatt rektor best legger til rette for rekruttering av den best kvalifiserte ledelsen, og vil gå inn for at dette bør være hovedmodellen. Imidlertid bør institusjoner som i dag har valgt rektor som styrets leder, kunne velge å beholde slik styringsmodell dersom et flertall av styrets medlemmer ønsker dette.[^516]
+
+Ved behandlingen av stortingsmeldingen sluttet flertallet i Kirke-, utdannings- og forskningskomiteen seg til forslaget og viste til at valget mellom de to modellene vil bli mer reelt hvis institusjonene kan velge å beholde ordningen med valgt rektor med alminnelig flertall, jf. Innst. 348 S (2014–2015).
+
+Dette ble fulgt opp med en lovendring, slik at utgangspunktet nå er at institusjonene har en styreleder oppnevnt av departementet og en ansatt rektor, men at et styre selv kan bestemme at det skal ha valgt rektor som styreleder, jf. universitets- og høyskoleloven §§ 9-3, 10-1 og 10-2, jf. Innst. 209 L (2015–2016), jf. Prop. 41 L (2015–2016).
+
+## Andre nordiske land
+
+### Danmark
+
+I Danmark ble det i 2003 innført en ordning med ansatt rektor ved universitetene. Rektor ansettes av bestyrelsen, det vil si styret, og universitetsloven beskriver kvalifikasjonskrav og oppgaver. Styret består av både eksterne representanter og representanter for henholdsvis vitenskapelig ansatte, teknisk-administrativt personale og studenter. Det skal ha minimum ni medlemmer og flertallet av styremedlemmene er eksterne representanter. Blant disse utpeker styret selv en styreleder, som godkjennes av departementet. Institusjonene har vedtekter, som fastsetter hvordan eksterne styremedlemmer oppnevnes. Rektor skal ivareta den daglige ledelsen av universitetet.
+
+Styret ved de danske profesjonshøyskolene har 10–15 medlemmer. Styret velger selv leder blant de eksterne styremedlemmene.
+
+### Finland
+
+Ved finske universiteter utpekes og ansettes rektor av styret, og rektor kan ikke sitte i styret. Loven beskriver kvalifikasjonskrav og oppgaver. Hvor mange medlemmer det er i styret avhenger av hva slags universitet det er snakk om. Ved et offentligrettslig universitet skal det være syv eller ni til 14 styremedlemmer, og minst 40 prosent av disse skal være eksterne. Ved et stiftelsesuniversitet skal det være syv styremedlemmer, hvorav tre nomineres av grunnleggerne. Ved en yrkeshøyskole skal det være syv til ti styremedlemmer. Kollegiale organer bestemmer antallet styremedlemmer innenfor rammer fastsatt i lov og oppnevner styremedlemmer. Styret selv velger styreleder blant de eksterne medlemmene.
+
+For øvrig er det stor variasjon i styrings- og ledelsesmodellene ved høyere utdanningsinstitusjoner verden over. En fellesnevner for ledende institusjoner internasjonalt er imidlertid at det investeres betydelige ressurser i prosessen for å sikre at den best kvalifiserte lederen rekrutteres, for eksempel ved bruk av offentlig utlysning, nominasjonskomiteer eller lignende.
+
+### Sverige
+
+I Sverige følger det av högskolelagen at institusjonene skal ha en rektor med ansvar for virksomheten. Alle de statlige høyere utdanningsinstitusjonene har ansatt rektor. Styret foreslår rektor, som utpekes av regjeringen. Rektoren er del av styret, men kan ikke være styreleder. Styret ved de statlige institusjonene skal i utgangspunktet ha 15 medlemmer, hvorav flertallet skal være eksterne. Studentene og de ansatte har rett til å oppnevne tre styremedlemmer hver. I tillegg til å utpeke rektor utnevner regjeringen styrelederen og de øvrige eksterne styremedlemmene.
+
+## Utvalgets vurderinger
+
+### Styrets funksjon og sammensetning
+
+Universiteter og høyskoler har store og viktige funksjoner i samfunnet. De skal bidra til kritisk refleksjon og utvikling og formidling av ny kunnskap. Institusjonene skal sikre velferdssamfunnet nødvendig kompetanse. Gjennom utvikling og formidling av ny kunnskap spiller universitetene og høyskolene en sentral rolle i å bidra til å møte nasjonale og globale utfordringer. Utvalget mener at det er behov for å sikre universitetenes og høyskolenes autonomi. Under arbeidet har utvalget derfor kommet til at tiden er inne for å tydeliggjøre universitetenes og høyskolenes formål og samfunnsoppgaver gjennom en ny formålsparagraf.
+
+Likeledes har utvalget som følge av dette søkt å sikre og styrke institusjonenes selvstyre og prinsippet om akademisk frihet. Dette gjelder både faglig autonomi og styrets autonomi til å fatte beslutninger av strategisk betydning for virksomheten. Autonomien begrenses imidlertid av loven og de konsekvenser som følger av forvaltningsmodellen der en statsråd har et sektoransvar. Utvalget har merket seg at det i løpet av de siste årene er introdusert og tatt i bruk flere mer eller mindre «myke» styringsmekanismer, for eksempel utviklingsavtaler, som kan utfordre institusjonenes autonomi. Samtidig er det uten tvil slik at de statlige universitetene og høyskolene har som oppgave å iverksette politiske prioriteringer. For å tydeliggjøre skillet mellom statsråd og institusjoner, og sikre autonomi og etterprøvbar dokumentasjon på styring, foreslår utvalget at instrukser til styret skal skje skriftlig.
+
+Universiteter og høyskoler er komplekse organisasjoner som skal drive med utdanning, forskning, faglig og kunstnerisk utviklingsarbeid og formidling. Finansieringen over statsbudsjettet er betydelig, og institusjonene forvalter store ressurser på vegne av fellesskapet. Styrene har et strategisk og overordnet ansvar for hele virksomheten. Styrene må derfor være profesjonelle, og muliggjøre en styringsrelasjon der departementet gir styrene et betydelig handlingsrom og selvstendig ansvar for drift og utvikling av institusjonene. Selv om statlige forvaltningsorganer normalt ikke har styrer, mener utvalget at dagens ordning med styrer bør ligge fast. Den sikrer blant annet representasjon av ansatte og studenter og tilfører gjennom eksterne styremedlemmer kunnskap fra andre deler av samfunnet og fra andre institusjoner, som det er et lovbestemt formål at universiteter og høyskoler skal samarbeide med. I sammenlignbare land ledes også institusjonene av et styre. Et styre er et kollegialt organ hvor alle medlemmene har likt ansvar for å treffe beslutninger til beste for institusjonen samlet sett. Utvalget mener det er avgjørende at styret og ledelsen ved universiteter og høyskoler har god innsikt i universitets- og høyskolesektorens formål og særtrekk. Vi mener styret følgelig bør bestå av ansatte i faglige, administrative og tekniske stillinger, studenter og eksterne representanter. Styremedlemmene fra institusjonen skal bidra med sin ekspertise og sin kjennskap til institusjonen. De har også særlige forutsetninger for å underbygge og verne om den akademiske friheten. De eksterne styremedlemmene bidrar med kompetanse på felt som ikke nødvendigvis vil være ivaretatt av interne styremedlemmer. De skal tilføre styrene erfaring og kunnskap fra nærings-, kultur- og samfunnsliv og bidra til å styrke samspillet mellom institusjonen og sentrale bruker- og interessegrupper. Selv om styremedlemmene er rekruttert på forskjellig grunnlag, har de alle likt mandat og samme ansvar for å treffe beslutninger til beste for institusjonen samlet sett.
+
+Antallet styremedlemmer må sikre nødvendig bredde uten at styret blir uhåndterlig stort. Utvalget mener at det er hensiktsmessig med en styresammensetning med elleve medlemmer slik det i dag følger av universitets- og høyskoleloven § 9-3 første ledd. Dette innebærer at styrene har fire eksterne styremedlemmer, fire medlemmer valgt av og blant ansatte i undervisnings- og forskerstilling, ett medlem valgt av og blant de teknisk og administrativt ansatte og to medlemmer valgt av og blant studentene. Muligheten til å fastsette en annen sammensetning slik det følger av universitets- og høyskoleloven § 10-1 eller § 10-2, jf. § 9-3 tredje ledd, bør opprettholdes. Det bør også lovens bestemmelser som tydeliggjør at det kan være særlige tilfeller der det er hensiktsmessig med spesialtilpasninger, og at departementet kan fastsette dette, jf. universitets- og høyskoleloven § 9-3 sjette ledd.
+
+For private høyskoler har dagens regelverk bestemmelser som sørger for at studenter og ansatte er tilfredsstillende representert i styret. Utvalget foreslår å videreføre disse bestemmelsene. Vi viser til at reglene tar hensyn til egenarten ved private høyskoler og til at disse institusjonene skal være organisert som aksjeselskap eller stiftelse.
+
+Videre mener utvalget at lovens regulering av styring og ledelse ikke bør være for omfattende, men gi handlingsrom til institusjonene. En del av dagens bestemmelser som legger detaljerte rammer, for eksempel for styrets arbeid, bør ikke videreføres. Det vil ikke bety at institusjonene ikke kan innrette seg slik disse bestemmelsene i dag beskriver, men at det er opp til institusjonene selv å ta stilling til hvordan de vil organisere styringen og ledelsen.
+
+### Styreleder og rektor
+
+#### Skille mellom styreleder- og rektorrollen
+
+Utvalgets flertall, ved *lederen Aune og medlemmene Dahl Andersen, Bergstrøm, Bragdø-Ellenes, Jørgensen, Mælen, Riekeles og Steinveg*, mener at styreleder- og rektorrollen må være skilt fra hverandre. Det gir en tydeligere ansvarsdeling og vil styrke den totale ledelsen ved institusjonen. Styrelederen får da en tydeligere oppgave som leder av et strategisk og kollegialt organ. Styrelederen skal lede styremøtene og sikre at styret fungerer godt som et strategisk organ, og at styret involverer seg i gjennomføringen av institusjonens strategi og utvikling. Styrelederen skal jobbe tett sammen med rektor.
+
+Rektor vil være den øverste daglige lederen ved institusjonen og ha et samlet og helhetlig ansvar for både den faglige og den administrative virksomheten. Rektor vil for eksempel forberede saker og legge dem frem for styret i dialog med styrelederen, følge opp styrets beslutninger og implementere strategi og beslutninger om faglig utvikling, disponere ressurser og sørge for en profesjonell administrasjon. Rektor vil således være den øverste lederen for alle ansatte og legge opp til en hensiktsmessig daglig oppfølging av faglige og administrative saker, for eksempel gjennom møter med dekaner og øvrig ledelse. Skillet mellom rollene som styreleder og rektor kan gjøre det lettere for samtlige styremedlemmer å komme med synspunkter i styremøter og for styret å håndtere situasjoner der rektor er inhabil eller det oppstår konflikt mellom rektor og styret.
+
+Utvalgets mindretall, *medlemmene Hessen og Søvig*, mener at rektor bør kunne velges og samtidig være styreleder slik som i dag. Som alle styringsmodeller har også denne ordningen svakheter, men mindretallet mener at valgt rektor som styreleder alt i alt gir den beste løsningen. Utgangspunktet for valg av ledelsesmodell er å finne den ordningen som best støtter opp under det samfunnsoppdraget som høyere utdanningsinstitusjoner har. Ledelsesmodellen må også tilpasses de øvrige rammebetingelsene for denne typen institusjoner, som er særpreget av at de er en del av forvaltningen og samtidig har særskilte fullmakter. Mindretallet mener også at det er en styrke om det i loven er to ledelsesmodeller med vesensforskjeller, slik som i dag, slik at institusjonene kan velge mellom to distinkt forskjellige alternativer. En valgt rektor som står utenfor styret, er etter mindretallets syn en løsning som gjør forskjellene mellom valgt og ansatt rektor marginale.
+
+En valgt rektor som styreleder gir etter mindretallets syn en klar faglig ledelse av institusjonene og en institusjonell forankring hos de ansatte med en grunnleggende innsikt i universitets- og høyskolesektorens egenart. En valgt rektor som styreleder støtter også opp under institusjonenes autonomi. Den øverste lederen henter da sin legitimitet fra studentene og de ansatte ved institusjonen. Et ytterligere argument er at denne ordningen ser ut til å ha fungert godt ved de institusjonene som har hatt den.
+
+Mindretallet mener at en fordel med valgt rektor som styreleder, er at rektor kan konsentrere seg om faglige spørsmål. Samtidig innebærer ordningen også visse svakheter ved at faglige prioriteringer henger tett sammen med økonomistyringen som ligger innenfor universitetsdirektørens fullmakter. Mindretallet har søkt å klargjøre forslaget til lovtekst ved å presisere at økonomistyringen ikke skal overstyre de faglige prioriteringene, men sikre at det er inndekning for disse.
+
+Mindretallet minner om at en valgt rektor har en annen rolle enn en ansatt rektor. En ansatt rektor henter sin legitimitet fra styret, som har rekruttert ham eller henne. Styret har også en kontrollfunksjon overfor en ansatt rektor. En valgt rektor henter som nevnt sin legitimitet fra de ansatte og studentene som har valgt ham eller henne. En innvending mot valgt rektor er at rektorvalgene ved institusjonene tidvis skjer uten motkandidater, kanskje særlig når sittende rektor tar gjenvalg. Lav valgoppslutning kan indikere en begrenset interesse for universitetsdemokrati blant ansatte og studenter, men mindretallet vil fremheve at valg også har en selekterende funksjon gjennom selve prosessen. Kandidater vil unngå å stille fordi de vet at de ikke vil nå opp. Det synes for øvrig å være økt konkurranse om rektorvervet, og det har ofte vært konkurranse om rektorvervet ved valg.
+
+Studentene og de ansatte tar stilling til sin tillit til rektor ved valg, men mellom valgene trengs andre mekanismer for å sikre at en valgt rektor ikke går utover sine fullmakter. Uansett vil det være behov for kontrollmekanismer utover tilslutningen ved eventuelle valg. Mindretallet er klar over innvendingen som gjelder dobbeltfunksjonen til en valgt rektor som styreleder. En sentral del av styrets oppgave er å kontrollere institusjonen. En ordning med valgt rektor krever altså at institusjonen også har en administrerende direktør (universitetsdirektør) som har visse lovfestede oppgaver. Ofte kalles denne ordningen to-delt ledelse, men betegnelsen kan være misvisende siden de to ikke har likestilte oppgaver. Utfordringen med to-delt ledelse er behovet for en rollefordeling mellom valgt rektor og universitetsdirektøren. Hovedprinsippene for denne ordningen må knesettes i loven, mens institusjonen selv gjennom styret kan fastsette en instruks. Ved valg av rektor, bør stemmene vektes, jf. punkt 27.5.2.3 nedenfor. Mindretallet viser til forslag til lovtekst om administrerende direktør, som langt på vei følger dagens § 10-3. Imidlertid foreslår mindretallet noen justeringer, hvor lovforslaget dels er inspirert av kommunelovens regulering av kommunedirektøren.
+
+#### Oppnevning av styreleder
+
+Utvalgets flertall, ved *lederen Aune og medlemmene Dahl Andersen, Bergstrøm, Bragdø-Ellenes, Jørgensen, Mælen, Riekeles og Steinveg*, mener at styrelederen skal oppnevnes av departementet. Styreleders rolle og ansvar vil være å lede styret. Styrelederen må ha en erfaring og kompetanse som gjør at vedkommende ser virksomheten i et større perspektiv og kan støtte eller korrigere rektor i vanskelige avgjørelser. En styreleder oppnevnt av departementet vil ikke komme fra et fagmiljø ved institusjonen, og vil slippe reelle eller påståtte bindinger fordi han eller hun kommer fra eller skal tilbake til et fagmiljø ved institusjonen.
+
+Utvalgets mindretall, ved *medlemmene Hessen og Søvig*¸ mener prinsipalt at styrelederen bør være en valgt rektor. Dersom loven ikke skal åpne for dette i tråd med flertallets forslag, mener mindretallet at styrelederen bør utpekes av styret selv og ikke som i dag av departementet. Det vil forsterke institusjonenes autonomi. Mindretallet mener at Stortinget og departementet har tilstrekkelig innflytelse og styringsmulighet overfor institusjonene gjennom andre styringsvirkemidler, jf. kapittel 8. En slik ordning er også en rimelig utvidelse av den adgangen til å endre styresammensetning som i dag er lagt til styrene i universitets- og høyskoleloven § 9-3 tredje ledd.
+
+#### Styret selv bestemmer om rektor skal ansettes eller velges
+
+Utvalgets flertall, ved *lederen Aune og medlemmene Dahl Andersen, Bergstrøm, Bragdø-Ellenes, Jørgensen, Mælen, Riekeles og Steinveg*, foreslår at i ordningen med ekstern styreleder så bestemmer styret selv om rektor skal ansettes eller velges.
+
+Styret må sørge for at rektor og den øvrige ledelsen rekrutteres gjennom prosesser som gir et så bredt tilfang av relevante kandidater som mulig, og har legitimitet både innad i og utenfor institusjonen. Uavhengig av om rektor skal velges eller ansettes, kan styret stille vilkår om kvalifikasjoner som aktuelle kandidater må ha. Slike kvalifikasjoner kan for eksempel være førstestillingskompetanse, omfattende erfaring fra eller kjennskap til universitets- og høyskolesektoren eller å ha gitt fremragende utdanning. Personlige egenskaper vil også være viktige, uavhengig av hvordan rektor rekrutteres. Styret har ansvaret for å komme frem til hensiktsmessige prosesser for å rekruttere rektor, enten ved ansettelse eller valg, og bør legge opp prosessene slik at de gir legitimitet ved institusjonen og i samfunnet ellers.
+
+Hvis rektor skal ansettes, kan styret selv fastsette en prosess for å søke etter og vurdere aktuelle kandidater til stillingen, for eksempel ved bruk av nominasjonskomiteer og innstillingsutvalg. Hvis rektor skal velges, bør styret lete aktivt etter kandidater og legge opp prosesser som inspirerer både til at kandidater stiller til valg, og til stor valgdeltakelse.
+
+Hvis rektor skal velges, bør stemmene vektes. Etter dagens lov skal styret fastsette en fordelingsnøkkel for vekting, men innenfor rammer som gjør at ved opptelling veier stemmene til ansatte i undervisnings- og forskerstilling 51–71 prosent mens stemmene til teknisk og administrativt ansatte veier 5–25 prosent, og stemmene til studentene veier 15–30 prosent, jf. universitets- og høyskoleloven § 10-2 fjerde ledd.
+
+Det er langt flere studenter enn ansatte ved institusjonene. Hvis hver stemme skulle telle like mye ved valg, ville studentene alene kunne avgjøre hvem som velges som rektor. Utvalget mener at studentene og de ansatte har ulik tilknytning til institusjonene, og at dette tilsier at stemmene til de ansatte ved valg bør vektes slik at de teller mer enn stemmene til studentene. Et samlet utvalg foreslår derfor ingen endringer i dagens regler om vekting av studentenes stemmer.
+
+Utvalgets flertall, bestående av *lederen Aune og medlemmene Dahl Andersen, Bergstrøm, Jørgensen, Mælen, Steinveg og Søvig* mener at det ikke bør være ulik vekting av stemmene til grupper av ansatte, slik det er i dag. Dette er begrunnet ut fra at en rektor er alles rektor like mye og flertallet foreslår derfor at de ansattes stemmer teller likt. Etter dagens lov skal styret fastsette en fordelingsnøkkel for vekting, men innenfor rammer som gjør at ved opptelling veier stemmene til ansatte i undervisnings- og forskerstilling 51–71 prosent mens stemmene til teknisk og administrativt ansatte veier 5–25 prosent, og stemmene til studentene veier 15–30 prosent, jf. universitets- og høyskoleloven § 10-2 fjerde ledd. Ved statlige universiteter og høyskoler tilhørte i 2019, 63 prosent gruppen ansatte i undervisnings- og forskerstillinger, mens 37 prosent var teknisk-administrativt ansatte.[^517] Det forholdsmessige antallet mellom ulike stillingskategorier utgjør i realiteten en form for vekting.
+
+Utvalgets mindretall, bestående av *medlemmene Bragdø-Ellenes, Hessen og Riekeles* viser til at de ansatte i undervisnings- og forskerstillinger har et særlig ansvar for å fremme den akademiske frihet og utøve institusjonenes kjernevirksomhet gjennom forskning og kunstnerisk utviklingsarbeid, undervisning og formidling. En hovedbegrunnelse for valg av rektor er nettopp at en slik ordning bygger opp under institusjonenes lange tradisjon for å ivareta autonomi gjennom lojalitet nedover, samt å fremme akademias hovedformål. Rektor representerer i vid forstand det vitenskapelige kollegiet ved institusjonen. Det bør også komme til uttrykk ved at ansatte i undervisnings- og forskerstillingers vurderinger av hvem som bør velges som øverste leder av et universitet eller en høyskole, tillegges størst vekt. Gjeldende regler om vekting av stemmer ved rektorvalg bør derfor videreføres.
+
+#### En ansatt rektor kan avsettes i tråd med vilkårene i statsansatteloven
+
+Uavhengig av om rektor er ansatt eller valgt, kan det oppstå situasjoner der styret mener at rektor ikke kan ha posisjonen lenger. For eksempel kan rektor være ute av stand til å gjenoppta arbeidet på grunn av sykdom, ikke lenger ha de kvalifikasjonene som er nødvendige for stillingen, ha vist seg uskikket for stillingen eller ha krenket sine tjenesteplikter. Når rektor er ansatt, reguleres slike tilfeller og andre arbeidsrettslige reaksjoner av statsansatteloven.[^518] Hvis rektor er valgt, men ikke er ansatt ved institusjonen og derfor ansettes i en åremålsstilling, gjelder statsansatteloven på samme måte. Hvis rektor er valgt av og blant de ansatte ved institusjonen, får i praksis vedkommende permisjon fra sin ordinære stilling, og ansettes i en midlertidig stilling som rektor. Fra denne midlertidige stillingen kan rektoren, selv om vedkommende er valgt, sies opp eller få andre arbeidsrettslige reaksjoner i tråd med statsansatteloven.
+
+Utvalgets mindretall, bestående av *medlemmene Hessen og Søvig*, viser til at i en styrings- og ledelsesmodell med valgt rektor som styrets leder har rektor sin legitimitet fra de ansatte og studentene som har valgt vedkommende. Om rektor ikke lenger har tillit, vil det vise seg ved at han eller hun ikke blir gjenvalgt. I perioden mellom valg har velgerne ingen mekanismer for å uttrykke sin eventuelle mistillit. I ordningen med ekstern styreleder og valgt rektor kan det likevel oppstå situasjoner hvor det er behov for å avsette rektor. Bakgrunnen for slike situasjoner kan være forskjellig fra saklig uenighet mellom rektor og styret til direkte klanderverdig opptreden fra rektor, slik at avskjed er rettmessig. Om rektor har opptrådt slik at vilkårene for avskjed er oppfylt for den stillingen som vedkommende har som ordinær ansatt ved institusjonen, vil rektorvervet også bortfalle siden rektor da ikke lenger er valgbar. I en situasjon der styret og rektor er uenige om veien videre for institusjonen, mener dette mindretallet at en det vil være bedre å innføre en ordning med mistillit. Om styret ikke lenger har tillit til rektor, må styret sørge for nyvalg. Hvis valget skulle vise at sittende rektor får fornyet tillit, må styret vurdere konsekvensene av dette. Hva som skal være terskelen for å fremme og vedta et forslag om mistillit, er det opp til styret å avgjøre.
+
+#### Oppnevning av eksterne styremedlemmer
+
+Utvalget legger til grunn at departementet i kraft av sitt ansvar for høyere utdanning og forskning, har en legitim interesse i å oppnevne eksterne styremedlemmer. Utvalgets flertall, ved *lederen Aune og medlemmene Bergstrøm, Bragdø-Ellenes, Hessen, Jørgensen, Mælen og Søvig,* viser til at institusjonenes autonomi tilsier at de selv oppnevner to av de eksterne styremedlemmer. Forslaget må ses i sammenheng med at utvalgets flertall foreslår at rektor ikke kan være styreleder, noe som isolert sett svekker institusjonenes autonomi. Ved at institusjonenes styre får utnevne to av de eksterne styremedlemmene, blir institusjonenes oppfatning av hvem som er best egnet til posisjonen, avgjørende, og ikke bare et forslag, slik det er i dag. Flertallet mener derfor at ved de statlige institusjonene, bør styret selv oppnevne to eksterne styremedlemmer og ett varamedlem, mens departementet også oppnevner to eksterne styremedlemmer og ett varamedlem. Henholdsvis styret og departementet må sørge for kjønnsbalanse blant de styremedlemmene de oppnevner. I og med at de skal oppnevne ett varamedlem hver, kan det føre til at begge varamedlemmene har samme kjønn. Som for øvrige institusjoner mener flertallet at både Kunsthøgskolen i Oslo og Samisk høgskole selv bør oppnevne to av de eksterne styremedlemmene. For Samisk høgskole innebærer dette at Sametinget ikke skal oppnevne to styremedlemmer og ett varamedlem, men at Samisk høgskole bør innhente forslag fra Sametinget før høyskolen oppnevner styremedlemmer.
+
+Utvalgets mindretall, bestående av *medlemmene Dahl Andersen, Riekeles og Steinveg* mener at departementet bør oppnevne alle de eksterne medlemmene. Dette vil gi best forutsetninger for at de eksterne styremedlemmenes kompetanse og bakgrunn kan ses samlet. Dette mindretallet forutsetter at oppnevningen skjer på bakgrunn av innspill fra institusjonenes styrer og skjer i dialog med institusjonenes ledelser.
+
+For øvrig har utvalget merket seg at Sametinget ønsker at Sametingets myndighet utvides til også å omfatte oppnevning av ett styremedlem og ett varamedlem for Universitetet i Tromsø – Norges arktiske universitet og Nord universitet, fordi disse institusjonene har et særlig ansvar for utdanning og forskning på norsk side av Sápmi. Utvalget har forståelse for dette. Flertallet, *lederen Aune og medlemmene Bergstrøm, Bragdø-Ellenes, Hessen, Jørgensen, Mælen og Søvig*, mener imidlertid at institusjonene selv bør oppnevne to av de eksterne styremedlemmene. Mindretallet, *medlemmene Dahl Andersen, Riekeles og Steinveg*, mener at de eksterne styremedlemmene bør oppnevnes av departementet. Utvalget har vurdert om Sametinget bør få oppnevne styremedlemmer på bekostning av departementet, men mener det er viktig at departementet oppnevner styremedlemmer. Utvalget har også vurdert om styrene for disse institusjonene bør ha flere eksterne medlemmer, men har kommet til at hensynet til effektive og beslutningsdyktige styrer tilsier at styret som et utgangspunkt ikke bør ha flere enn elleve medlemmer.
+
+Utvalget mener at institusjonene bør foreslå eksterne styremedlemmer for departementet, i tråd med dagens regler. Utvalget understreker at departementet oppnevner styremedlemmer på fritt grunnlag, men mener det er viktig at departementet vurderer forslagene fra institusjonene og gjennomfører oppnevningen i dialog med institusjonens ledelse. Utvalget går ikke inn for å videreføre at Norsk kulturråd skal fremme forslag til eksterne styremedlemmer ved kunsthøyskolene.
+
+### Den øvrig ledelsen ved institusjonene
+
+I tråd med utgangspunktet om at institusjonene bør ha stor frihet og stort ansvar, mener utvalget det må være opp til institusjonene selv å bestemme hvordan styringen og ledelsen for øvrig bør organiseres. Dette innebærer at styret må ta stilling til om det skal være én eller flere prorektorer, hvilke funksjoner eventuelle prorektorer skal ha og om prorektorer skal velges eller ansettes. Hvis prorektorer skal ansettes, bør det fortsatt være mulig å ansette prorektor på åremål. Det samme gjelder hvilke øvrige lederstillinger det skal være, hvilke direktører institusjonen skal ha, hva deres oppgaver og ansvar i så fall skal være, med videre. Det bør også være opp til styret å ta stilling til hvordan grunnenheter og avdelinger skal organiseres og styres, for eksempel om det skal opprettes fakulteter og institutter og om det skal være styrer eller kollegiale råd som kommer med råd til ledelsen. Hvis ledere av grunnenheter og avdelinger skal ansettes midlertidig må det være hjemmel til dette.
+
+### Regler om styrets arbeid
+
+Utvalget mener at loven bør ha noen overordnede bestemmelser for å sikre forutberegnelighet, men for øvrig bør styret selv i hovedsak fastsette regler for sitt eget arbeid.
+
+Erfaringsmessig treffer styret i dag de fleste avgjørelsene med alminnelig flertall, mens noen avgjørelser skal treffes med to tredjedels flertall, for eksempel avgjørelser om bortvisning eller utestenging, jf. universitets- og høyskoleloven § 4-8. Utvalget mener at alle styrets avgjørelser bør treffes med alminnelig flertall. Avgjørelser som er inngripende for den de gjelder, for eksempel vedtak om bortvisning eller utestenging, bør også treffes med alminnelig flertall. For å sikre rettssikkerheten til den vedtaket retter seg mot, mener utvalget at loven bør presisere nærmere de materielle vilkårene for når en student kan bortvises eller utestenges, heller enn å kreve kvalifisert flertall. Se punkt 22.4.4 om dette.
+
+I dag fastsetter loven at det ved både statlige og private institusjoner skal være størst mulig grad av åpenhet om styrets arbeid, jf. universitets- og høyskoleloven §§ 8-1 tredje ledd og 9-2 sjette ledd. Ved statlige universiteter og høyskoler er utgangspunktet at styrets møter skal holdes for åpne dører. Styret kan vedta at møtene skal holdes for lukkede dører, eller at bestemte saker skal behandles for lukkede dører. Vi mener det er sentralt at universiteter og høyskoler har stor grad av åpenhet og sørger for god informasjon om virksomheten. Utvalget viser også til at offentleglova gjelder for statlige universiteter og høyskoler, og for private høyskoler når de treffer enkeltvedtak eller utferdiger forskrift, jf. offentleglova § 2.[^519] Dette bidrar til åpenhet. For øvrig bør institusjonene sørge for åpenhet ved aktivt å informere om virksomheten og gjøre papirer til styremøter lett tilgjengelig for offentligheten, forutsatt at de ikke er unntatt offentlighet, jf. offentleglova.
+
+Utvalget viser til at utviklingen i stor grad har gått i retning av at styremøter overføres (strømmes) på internett. Utvalget viser til at studenter, ansatte og media i enkelte tilfeller er til stede på styremøter. Utvalget mener det er positivt med oppmerksomhet om arbeidet til styrene. Men, hvis slik tilstedeværelse gjør at styremedlemmer vegrer seg for å gi uttrykk for tvil eller motforestillinger, kan det også hindre fri, åpen og tillitsfull diskusjon og meningsutveksling. Det kan også føre til at viktige diskusjoner om kontroversielle spørsmål flyttes til andre fora. Åpne møter kan altså motvirke godt styrearbeid. Utvalget mener likevel at bestemmelsene om at det bør være størst mulig grad av åpenhet om styrets arbeid, bør videreføres. Styrene må selv sørge for en arbeidskultur der de fritt kan diskutere kontroversielle saker. Utvalget mener også at dagens bestemmelse om at styret kan bestemme at møter eller bestemte saker behandles for lukkede dører bør videreføres. Utvalget viser videre til at dersom styremøter blir forstyrret av tilhørere, kan styret bestemme at møtet skal holdes for lukkede dører. Utvalget viser for øvrig til bestemmelsene i offentleglova, som sørger for at allmennheten kan be om innsyn i for eksempel saksfremlegg og styreprotokoller ved de statlige institusjonene. Utvalget viser i denne sammenheng særlig til forskrift til offentleglova § 8, som slår fast at unntaket i offentleglova § 14 første ledd for organinterne dokumenter ikke gjelder for blant annet dokumenter fra administrasjonene til en kollegial enhet ved universiteter og høyskoler, og dokumenter som blir utvekslet mellom fakulteter ved universiteter og høyskoler.[^520]
+
+Utvalget foreslår å regulere styringen og ledelsen av statlige universiteter og høyskoler i et nytt kapittel i universitets- og høyskoleloven som kalles «Organisering og ledelse ved statlige institusjoner». Kapittelet vil erstatte dagens kapittel 9 «Styret» og kapittel 10 «Rektor. Administrerende direktør». Vi foreslår relativt omfattende endringer i kapitlets struktur og bestemmelsenes ordlyd. Dette er ment å gjøre reglene mer oversiktlige og lette å finne frem i. Forslaget bygger på dagens universitets- og høyskolelov, men også bestemmelser i andre lover som regulerer virksomheter som har et styre, for eksempel stiftelsesloven, aksjeloven og helseforetaksloven.
+
+Dagens universitets- og høyskolelov inneholder ingen bestemmelser om styremedlemmenes uavhengighet, noe som vel særlig er aktuelt overfor departementet eller dem som har valgt styremedlemmene. Utvalget mener at det er behov for å klargjøre at styremedlemmene er uavhengige i utførelsen av sitt verv og skal treffe sine avgjørelser ut fra hva de mener er best for den institusjonen som de er satt til å styre.
+
+Dagens lov inneholder heller ingen bestemmelser om hvordan departementet kan gi instruks til styret. Utvalget mener at institusjonene som del av forvaltningen selvsagt kan gis instrukser, med unntak for de områdene hvor instruksjonsmyndigheten er avskåret i lov eller i medhold av lov. Instrukser må imidlertid gis til styret som det øverste organet, og kan ikke gis til enkeltpersoner. Slik er det også i dag. Utvalget mener at instrukser bør være skriftlige for å sikre åpenhet og etterprøvbarhet. En slik regel kan også bidra til at institusjoner ikke opplever å bli mer styrt enn det som er tilfellet. Skriftlighetskravet vil være særlig viktig når Stortinget eventuelt skal avgjøre statsrådens konstitusjonelle ansvar. Skriftlige instrukser kan enten gis i enkeltsaker eller som en del av den mer overordnede styringen.
+
+Det kan oppstå uenighet i styret om en avgjørelse er rettslig gyldig. Det er i dag praktisk vanskelig å få en kontroll av at et vedtak truffet av institusjonens styre ikke er i strid med rettsregler. Utvalgets flertall mener derfor at loven bør åpne for at tre eller flere styremedlemmer kan kreve lovlighetskontroll av et styrevedtak. En lovlighetskontroll innebærer ikke en overprøving av vurderinger som ikke er rent rettslige, for eksempel mer strategiske vurderinger eller beslutninger.
+
+Utvalgets flertall, bestående av *utvalgsleder Aune og medlemmene Bergstrøm, Bragdø-Ellenes, Dahl Andersen, Jørgensen, Mælen, Riekeles og Steinveg* foreslår at et krav om lovlighetskontroll må fremmes av tre eller flere styremedlemmer, og at det bør være departementet som foretar kontrollen. Et krav om at minimum tre styremedlemmer fremmer et slikt krav om lovlighetskontroll skal sikre at behovet er reelt og ikke misbrukes.
+
+Utvalgets mindretall, *medlemmene Hessen og Søvig,* mener at det ikke er et behov for lovlighetskontroll av vedtak fattet ved institusjonene. Fra tid til annen vil styret være i tvil om de rettslige rammene. Da må styret søke råd, enten innad på institusjonen eller ved ekstern ekspertise. En lovlighetskontroll fra departementet kan virke som en god løsning på en uavklart situasjon, men ofte vil også departementet være i tvil om den eksakte grensen for hva som lovlig. En ordning med lovlighetskontroll lar departementets vurdering være avgjørende. Disse medlemmene mener at det vil være bedre i samsvar med målsettingen om å sikre institusjonenes autonomi at styrets avgjørelse ikke kan overprøves av departementet.

@@ -1,897 +1,408 @@
-# NOU 2020: 3, del 37 av 42 (side 403–412)
+# NOU 2020: 3, del 37 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 403]
+*Andre ledd* gir både departementet og styret myndighet til å oppnevne to eksterne styremedlemmer hver.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Tredje ledd* innebærer at departementet utpeker styrets leder blant de eksterne medlemmene. Departementet bestemmer selv om det vil utpeke styreleder blant de medlemmene departementet selv oppnevner eller blant styremedlemmene styret oppnevner. Bestemmelsen innebærer at institusjonene ikke kan ha valgt rektor som styres leder, og er en endring av dagens rettstilstand, jf. dagens lov §§ 10-1 og 10-2.
 
-401
+*Fjerde ledd* regulerer oppnevning av varamedlemmer, og må ses i sammenheng med første ledd. Departementet oppnevner ett varamedlem for de to eksterne styremedlemmene det oppnevner. Styret oppnevner også ett varamedlem for de to eksterne styremedlemmene det oppnevner. Det innebærer at styret vil ha to eksterne varamedlemmer, som er vara for hver sin gruppe av styremedlemmer. Styret fastsetter regler for varamedlemmer for de valgte styremedlemmene, og loven har ingen begrensninger på hvor mange varamedlemmer det skal være for de valgte medlemmene.
 
-Kapittel 39
+*Femte ledd* gir styret selv myndighet til å fastsette en annen styresammensetning enn lovens normalordning, som er en videreføring av dagens lov § 9-3 tredje ledd. Dermed får institusjonene et handlingsrom, som typisk vil være aktuelt ved sammenslåinger, men som også kan brukes i andre situasjoner. Bestemmelsen slår fast at styret uansett skal ha en tilfredsstillende representasjon av alle grupper ved institusjonen, og at ingen grupper skal ha flertall alene. Dette er en videreføring av dagens lov § 9-3 tredje ledd. Det foreslås en generell bestemmelse om at alle styrets avgjørelser treffes med simpelt flertall, jf. § 3-10.
 
-være på 10 måneder. Uttrykket «normalt» innebærer at det må begrunnes særskilt hvis hovedregelen fravikes. Hvor lenge studieterminene skal
-vare, altså lengden på høst- og vårsemesteret, er
-det opp til styret ved institusjonen å bestemme, jf.
-andre punktum. Et fullt studieår er normert til 60
-studiepoeng, se tredje punktum. Dette er i overensstemmelse med systemet i ECTS (European Credit
-Transfer System). Bestemmelsen er en videreføring av gjeldende rett.
+*Sjette ledd* gir styret krav på en rimelig godtgjørelse fastsatt av departementet. Det er ikke nærmere spesifisert hvilke momenter departementet skal eller bør ta i betraktning ved fastsettelse av godtgjørelsen. Dette blir følgelig opp til departementets skjønn, og viderefører dagens lov § 9-3 femte ledd.
 
-Utdanningsplanen skal være et virkemiddel
-for at studenten gjennomfører studiet.
-Utdanningsplanen skal inneholde bestemmelser om institusjonens ansvar og forpliktelser
-overfor studenten, og studentens forpliktelser
-overfor institusjonen og medstudenter.
-Departementet kan gi forskrift om innholdet i
-utdanningsplaner.
+*Syvende ledd* innebærer at departementet kan skreddersy styreordning og sammensetning i de tilfellene det er behov for det. Bestemmelsen viderefører dagens lov § 9-3 sjette ledd. Departementets myndighet til skreddersøm er videre enn styrets ved at det også kan fastsette en annen styreordning, noe som typisk kan være aktuelt i forbindelse ved sammenslåinger. Bestemmelsen setter opp en terskel for når departementet bør bruke myndigheten, ved at ordlyden viser til «særlige tilfeller». Først og fremst er dette et signal om at endret styresammensetning krever en særskilt begrunnelse, og at ordningen bare benyttes unntaksvis.
 
-§ 8-2. Offentlige forelesninger
-Forelesninger er offentlige. Når forelesningenes art tilsier det, eller det er fastsatt egenbetaling
-for det aktuelle fag eller studium, kan styret likevel bestemme at visse forelesninger bare skal
-være for institusjonens studenter eller visse grupper av studenter.
+*§ 3-4*. Valg og oppnevning av styret
 
-Første ledd omhandler institusjonens plikt til å
-utarbeide en utdanningsplan når en student er tatt
-opp til studier som har et omfang på 60 studiepoeng eller mer. Kravet om utdanningsplan skal
-sikre et tettere og mer forpliktende forhold mellom institusjonen og den enkelte student. Det er
-institusjonen som har ansvaret for at utdanningsplanen utarbeides.
-Andre ledd er en ny bestemmelse som presiserer at utdanningsplanens formål er å vise hvordan
-institusjonen legger til rette for at studenten kan
-komme gjennom et definert læringsmål på normert tid og være et virkemiddel for gjennomføring av studiet. Utdanningsplaner brukes også i
-forbindelse med forsinkelser i studiet.
-Tredje ledd bestemmer at utdanningsplanen
-skal beskrive utdanningsinstitusjonens forpliktelser overfor studenten og studentens forpliktelser
-overfor institusjonene og medstudentene. Planen
-skal synliggjøre studentens ansvar for å oppfylle
-de studiekravene institusjonen stiller, blant annet i
-form av krav til deltakelse, obligatoriske arbeider
-og studieprogresjon. Utdanningsplanen skal utarbeides i samarbeid med studenten, og studenten
-skal kunne påvirke innholdet i egen utdanningsplan. Retten til utdanningsplan innebærer at en
-student når som helst kan be om samtaler om personlig tilpasning eller revisjon av denne.
-Fjerde ledd viderefører departementets hjemmel til å gi forskrift om innholdet i utdanningsplaner.
+Eksterne styremedlemmer, styremedlemmer som er ansatt ved institusjonen, og varamedlemmer for disse, oppnevnes og velges for fire år. Valg av styremedlemmer blant ansatte i undervisnings- og forskerstilling og valg av styremedlemmer blant ansatte i teknisk- og administrativ stilling gjøres hver for seg.
 
-Merknad:
-Lovforslaget er en videreføring av gjeldende rett.
-Bestemmelsen fastslår at forelesninger som
-hovedregel skal være offentlige. Begrunnelsen
-for bestemmelsen er dels at utdanning er et
-kollektivt gode som alle skal kunne ta del i, dels at
-det er av offentlig interesse hva som undervises
-ved høyere utdanningsinstitusjoner.
-Bestemmelsens andre punktum gir hjemmel
-for å kunne lukke forelesninger når forelesningens art tilsier det. Eksempler på at forelesningens art tilsier å lukke forelesningen, er kliniske demonstrasjoner eller formidling av taushetspliktbelagt materiale. I slike tilfeller kan styret
-ha en plikt til å lukke forelesningen. Å lukke forelesninger kan også være nødvendig når tilstrømningen til forelesningene er så stor at det er problematisk å skaffe store nok auditorier, eller der
-brannforskrifter eller andre fysiske utfordringer
-tilsier at det er nødvendig å begrense adgangen.
-Men institusjonen kan ikke stenge forelesningen
-med den begrunnelse at det er ønskelig for å
-holde nede eller redusere antall privatister ved
-vedkommende studium fordi disse medfører en
-ekstra belastning på institusjonens eksamens- og
-kontrollapparat.
-Bestemmelsen gir også hjemmel for å kunne
-lukke forelesninger når det er fastsatt egenbetaling for faget eller studiet. Dette unntaket er tatt
-inn i loven av hensyn til de private institusjonene.
-§ 8-3. Utdanningsplan
-Institusjonen skal utarbeide en utdanningsplan
-for studenter som tas opp til studier av 60 studiepoengs omfang eller mer.
+Hvis de midlertidig ansatte i undervisnings- og forskerstilling utgjør mer enn 25 prosent av de ansatte i undervisnings- og forskerstilling ved institusjonen, skal denne gruppen velge ett av styremedlemmene fra de ansatte i undervisnings- og forskerstilling. Det skal foretas særskilt valg for denne gruppen. Slikt styremedlem velges for ett år.
+
+Styremedlemmer fra studentgruppen, og varamedlemmer for disse, velges for ett år.
+
+Departementet kan i særlige tilfeller forlenge styrets funksjonsperiode og styremedlemmenes tjenestetid.
+
+Ingen kan gjenvelges som styremedlem hvis vedkommende har fungert sammenhengende i vervet i åtte år ved begynnelsen av den nye valgperioden.
+
+Kravene i likestillings- og diskrimineringsloven om representasjon av begge kjønn skal være oppfylt innen den enkelte valg- og oppnevningskrets.
+
+Styret selv skal fastsette nærmere regler om valgene.
 
 Merknad:
 
-§ 8-4. Studentenes taushetsplikt
-En student som i studiesammenheng får
-kjennskap til noens personlige forhold, har taushetsplikt etter reglene som gjelder for yrkesutøvere på vedkommende livsområde. Institusjonen skal utarbeide taushetsplikterklæring som
-de studentene dette er aktuelt for må underskrive.
+Bestemmelsen bygger på dagens lov § 9-4, men er forenklet og presisert. Dessuten reflekterer den at både departementet og styret oppnevner de eksterne styremedlemmene. Det er ulike valg- og oppnevningsperioder for styremedlemmer og -varamedlemmer valgt av studentene og øvrige styremedlemmer.
+
+*Første ledd* første setning fastsetter at styreperioden for eksterne styremedlemmer og ansatte ved institusjonen, og deres varamedlemmer, er fire år. Første ledd andre setning bestemmer, slik som etter gjeldende lov, at det skal være særskilt valg for de to hovedgruppene av ansatte ved institusjonene. Hvor mange som skal velges fra disse to gruppene av ansatte følger av § 3-3 første ledd.
+
+*Andre ledd* viderefører dagens lov § 9-4 andre ledd. Midlertidig ansatte i forsknings- og undervisningsstilling skal velge ett styremedlem hvis de utgjør mer enn 25 prosent av de ansatte i slike stillinger. Hvis de midlertidig ansatte utgjør mindre enn 25 prosent, kan styret ved institusjonen likevel bestemme at de skal være representert i styret, jf. § 3-3 femte ledd. Valgperioden for denne typen midlertidig ansatte er ett år siden tilsettingsforholdet er tidsbegrenset. Dette utelukker ikke gjenvalg med mindre en når opp til den absolutte begrensninger i § 3-4 femte ledd. Som etter gjeldende lov skal det foretas særskilt valg for denne gruppen.
+
+*Tredje ledd* viderefører dagens lov § 9-4 tredje ledd. Valgperioden for styremedlemmer valgt av studentene er på ett år, og det skal foretas særskilt valg. På samme måte som for midlertidig ansatte kan studentrepresentanter gjenvelges. På samme måte som etter gjeldende lov stiller ikke loven opp nærmere krav om valgordning, og dette må derfor hver enkelt institusjon vedta, jf. § 3-4 syvende ledd.
+
+*Fjerde ledd* viderefører dagens lov § 9-4 femte ledd. Departementet kan forlenge styrets funksjonsperiode og tjenestetid. Dette vil typisk være aktuelt ved sammenslåinger. På samme måte som at det må være «særlige tilfeller» for at departementet skal fastsette annen styresammensetning eller –ordning, jf. § 3-3 syvende ledd, må det være «særlige tilfeller» for at departementet kan endre styrets funksjonsperiode og tjenestetid. Det er imidlertid lagt til grunn at departementet som overordnet myndighet og med grunnlag i departementets alminnelige instruksjonsmyndighet, kan forlenge styreperioden og styremedlemmenes tjenestetid, jf. Ot.prp. nr. 71 (2008–2009) s. 27 og Innst. O. nr. 78 (2008–2009). Bestemmelsen her klargjør dette og gir forutberegnelighet.
+
+*Femte ledd* viderefører dagens lov § 9-4 åttende ledd. Loven setter dermed en maksimal tjenestetid på åtte år for å sikre en fornyelse blant styremedlemmene. I praksis er dette særlig aktuelt for eksterne styremedlemmer og de som er valgt blant de ansatte. Den tidligere styreperioden må være «sammenhengende» slik at et medlem kan sitte mer enn åtte år gjennom ulike perioder. Tid som varamedlem teller ikke med. Begrensningen er knyttet til institusjonen, slik at eksterne styremedlemmer kan sitte mer enn åtte år sammenhengende, men ved forskjellige institusjoner.
+
+*Sjette ledd* viderefører dagens lov § 9-4 niende ledd. Henvisningen til den konkrete bestemmelsen i likestilling- og diskrimineringsloven er tatt ut slik at universitets- og høyskoleloven ikke må endres hvis likestilling- og diskrimineringsloven endres. Likestilling- og diskrimineringsloven § 28 har regler om kjønnsbalanse i offentlige utvalg mv. Denne fastsetter minstekrav for representasjon av kjønn ut fra utvalget som helhet. Siden styremedlemmene ved institusjonene velges eller utpekes gruppevis, er det nødvendig med en særregel i universitets- og høyskoleloven. Direkte gjelder lovbestemmelsen bare styret for institusjonen, men den vil få tilsvarende anvendelse på andre kollektive organ ved institusjonen, for eksempel styrer ved fakulteter eller institutter.
+
+*Syvende ledd* gir styret selv myndighet til å fastsette nærmere regler om valgene. Lovens regler om valg er såpass åpne at alle institusjoner vil måtte ha et mer detaljert valgreglement. Ut over mer tekniske regler vil institusjonen også kunne ha regler om valgbarhet, for eksempel hvor høy stillingsprosent deltidsansatte må ha for å kunne stemme og være valgbare. Gjeldende lov § 9-5 om plikt til å ta imot og utføre tillitsverv er ikke videreført, og det er heller ikke gjeldende § 9-4 syvende ledd om at styret kan bestemme at visse stillinger ikke er valgbare til institusjonens styre. Siden disse to bestemmelsene er tatt ut av loven, er det opp til styret å vurdere eventuell regulering av slike forhold.
+
+*§ 3-5*. Rektor
+
+Rektor står for den daglige ledelse av virksomheten. Rektor skal holde styret orientert om institusjonens virksomhet og resultatutvikling.
+
+Styret ansetter rektor, med mindre rektor velges etter bestemmelsene i tredje til sjette ledd og § 3-6.
+
+Styret selv kan bestemme at rektor skal velges. Både institusjonens ansatte og eksterne kandidater er valgbare som rektor. Styret selv kan fastsette nærmere regler om nominasjon av eksterne kandidater, og om kandidatenes kvalifikasjoner.
+
+Valgperioden er normalt fire år. Ingen kan gjenvelges som rektor hvis vedkommende vil ha fungert i dette vervet i et sammenhengende tidsrom på åtte år ved den nye valgperiodens begynnelse.
+
+Den som blir valgt som rektor, ansettes i en åremålsstilling og får permisjon fra sin ordinære stilling hvis vedkommende allerede er fast ansatt ved institusjonen.
+
+Styret fastsetter nærmere regler om valget.
+
 Merknad:
-Bestemmelsen er en videreføring av gjeldende rett.
-Den presiserer at studenter har taushetsplikt om
 
-[Side 404]
+På samme måte som etter dagens lov kan rektor rekrutteres på to måter, enten etter valg eller ved ansettelse. Bestemmelsen første ledd regulerer ansatt rektor, mens andre til sjette ledd gjelder valgt rektor. De to alternativene – valgt og ansatt rektor – er likestilte.
 
-402
+*Første ledd* slår fast at rektor er daglig leder for virksomheten. Nytt i forhold til gjeldende lov er at rektors rolle er den samme uavhengig av om vedkommende er valgt eller ansatt.
 
-Kapittel 39
+*Andre ledd* legger ansvaret for å ansette rektor til styret og bygger på gjeldende § 10-1 første ledd. Bestemmelsen er forenklet ved at flere av detaljene i gjeldende lov ikke er videreført. Dermed får styret større frihet i hvordan de vil legge opp rekrutteringsprosessen. Ansatt rektor har samme åremålsperiode som valgt rektor på fire år, med mulighet for fornyelse én gang, jf. utkastet til § 11-6 første ledd bokstav a.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Tredje ledd første setning* gir styret myndighet til å bestemme at rektor skal velges. Den bygger på dagens § 10-2 første ledd, men bestemmelsen er forenklet ved at flere av detaljene i gjeldende lov ikke er videreført. Beslutning om at rektor skal velges treffes med simpelt flertall, jf. utkastet til § 3-10. Et vedtak om valgt rektor gjelder, inntil styret fastsetter en annen ordning.
 
-noens personlige forhold som de får kjennskap til
-på studiet. Bestemmelsen viser til regler om taushetsplikt som gjelder for yrkesutøvere på vedkommende livsområde. Det er bare studenter som tar
-en utdanning som leder til et yrke der det gjelder
-regler om taushetsplikt, som bestemmelsen gjelder
-for. Dette er typisk for mange helseutdanninger.
-Taushetsplikt innebærer at studentene ikke
-kan fortelle noe de får vite i studiesammenheng,
-for eksempel om en annen person eller om forretningshemmeligheter, videre til andre som ikke
-skal ha tilgang på informasjonen. Slik informasjon
-kan heller ikke gjøres tilgjengelig, for eksempel
-ved å dele den på sosiale medier eller bruke den
-til andre formål enn det som følger av utdanningen. Taushetsplikten gjelder ikke bare det studentene sier eller skriver videre, men også deling av
-bilder, videoer og liknende.
-Det kan også være brudd på taushetsplikten at
-studenten ikke er påpasselig nok med hvordan
-vedkommende oppbevarer taushetsbelagt informasjon, slik at andre kan få tilgang til den. Eksempler er at studenten glemmer igjen pasientjournaler på bussen eller videresender en taushetsbelagt
-e-post til feil adresse.
-Institusjonen skal utarbeide taushetserklæring til de studentene som er omfattet av taushetsplikt, og sørge for at studentene underskriver denne.
-§ 8-5. Rett til å gå opp til eksamen
-Den som oppfyller kravene til opptak etter
-§§ 6-1 til 6-4, og andre krav for å gå opp til eksamen i vedkommende fag eller studium, har rett til
-å gå opp til eksamen. Dette gjelder også studenter
-som ikke er opptatt ved faget eller studiet.
-Oppmelding etter denne bestemmelsen kan
-nektes dersom studenten ikke har fulgt obligatorisk undervisning, fått godkjent obligatorisk
-arbeid eller gjennomført obligatorisk praksis.
-Styret kan gi forskrift om adgangen til å gå opp
-til eksamen, og kan fastsette regler om særskilt
-oppmeldingsfrist og eksamensavgift for personer
-som går opp til eksamen uten å være tatt opp som
-student. Slik eksamensavgift skal dekke institusjonens merutgifter ved å holde eksamen for denne
-gruppen. Slik eksamensavgift kan også fastsettes
-der institusjonen har fastsatt egenbetaling for studiet eller faget. Departementet kan gi forskrift om
-egenbetaling for eksamen.
+*Tredje ledd annen setning* fastsetter at både institusjonens ansatte og eksterne kandidater er valgbare som rektor, slik som etter gjeldende lov. Tredje ledd tredje setning gir styret kompetanse til å gi regler om nominasjon av eksterne kandidater, slik som etter gjeldende lov. Det er nytt, men ikke en endring av gjeldende rett, at bestemmelsen uttrykkelig slår fast at styret kan gi regler om kvalifikasjoner til eksterne kandidater. Styret kan for eksempel kreve førstestillingskompetanse.
+
+*Fjerde ledd* viderefører dagens lov § 10-2 andre ledd. Valgperioden er normalt på fire år, hvilket samsvarer med valgperioden for styremedlemmer valgt av de fast ansatte ved institusjonen og eksterne styremedlemmer. En annen valgperiode enn fire år vil særlig være aktuelt om tidligere rektor går av før utløpet av perioden. Da kan den nye rektorperioden både settes kortere og lenger enn fire år. På samme måte som for styremedlemmer setter loven en grense for nyvalg om vedkommende har fungert for en sammenhengende periode på åtte år som rektor ved begynnelsen av den nye valgperiode. Hvis en rektor har sittet tre pluss fire år på grunn av justert valgperiode, vil vedkommende kunne sitte en ny periode på fire år.
+
+*Femte ledd* bygger delvis på dagens lov § 10-2 tredje ledd. Hvis den som institusjonen velger som rektor ikke allerede har et tilsettingsforhold, går vedkommende inn i en åremålsstilling, på samme måte som etter gjeldende § 10-2 tredje ledd. Nytt i forhold til tidligere er at valgt rektor – som allerede er ansatt ved institusjonen – får permisjon fra stilling og ansettes i en midlertidig stilling som rektor. Dette følger av at rektorrollen er annerledes når en valgt rektor ikke er styreleder.
+
+*Sjette ledd* viderefører dagens lov § 10-2 femte ledd og gir styret myndighet til å gi nærmere regler om valget. Samtidig er handlingsrommet til styret videre enn etter dagens lov, siden bestemmelsen her har færre krav enn gjeldende lov.
+
+*§ 3-6.* Valg av rektor
+
+Hvis styret har bestemt at rektor skal velges, skal stemmene når de telles opp vektes slik at stemmene til de ansatte vektes 75 prosent og stemmene til studentene vektes 25 prosent.
+
 Merknad:
-Første ledd fastsetter at den som oppfyller kravene til opptak i henhold til lovens bestemmelser
 
-om dette, og eventuelle andre krav for å gå opp
-til eksamen i vedkommende fag eller studium
-(for eksempel visse obligatoriske arbeidskrav),
-har rett til å gå opp til eksamen. Dette gjelder
-også studenter som ikke er opptatt ved faget
-eller studiet, altså privatister. Prinsippet om rett
-til å gå opp til eksamen har blitt ansett som så
-viktig at det er blitt opprettholdt, til tross for det
-har skapt til dels store kapasitetsproblemer ved
-enkelte studier fordi ordningen har blitt benyttet
-av et betydelig antall privatister.
-Andre ledd omhandler krav til å gå opp til eksamen. I mange studieprogrammer stilles det krav
-om at studentene må ha levert og bestått bestemte
-oppgaver, laboratorieøvelser, fremføringer og liknende for å kunne gå opp til eksamen. Kravene
-fremkommer av emnebeskrivelsen i studieplanen.
-Utdanningsinstitusjonene benytter ulike former for
-arbeidskrav, og skiller hovedsakelig mellom obligatorisk aktivitet og tilstedeværelse i undervisningen.
-Obligatoriske arbeidskrav benyttes i en rekke
-emner som hjelp på veien mot å oppnå læringsutbyttet. Arbeidskravene er også med på å fremme
-progresjon og sikre deltakelse der det er nødvendig. Institusjonen kan nekte en student å melde seg
-opp til eksamen dersom studenten ikke har fulgt
-obligatorisk undervisning eller gjennomført obligatorisk praksis. Dette begrenser spesielt privatisters
-tilgang til å gå opp til eksamen.
-Tredje ledd bestemmer at styret i forskrift kan
-regulere adgangen til å gå opp til eksamen. I slik
-forskrift kan styret fastsette særskilt oppmeldingsfrist for personer som går opp til eksamen uten å
-være tatt opp som student, og at denne gruppen
-skal betale en eksamensavgift. Avgiften skal
-dekke institusjonens merutgifter ved å holde
-eksamen for denne gruppen, og bare det. Slike
-regler kan inntas i institusjonens eksamensforskrift, og vil typisk gjelde for privatister. Det er
-adgang for styret til å fastsette egen eksamensavgift for privatister også der institusjonen uansett
-har fastsatt egenbetaling for studiet eller faget.
-Departementet er gitt myndighet til å gi forskrift
-om egenbetaling for eksamen.
-§ 8-6. Gjennomføring av eksamen
-Universiteter og høyskoler skal sørge for at
-studentenes kunnskaper og ferdigheter blir prøvd
-og vurdert på en upartisk og faglig betryggende
-måte. Vurderingen skal også sikre det faglige
-nivået ved vedkommende studium. Institusjonen
-skal sørge for en ekstern evaluering av vurderingen eller vurderingsordningene.
-Den muntlige delen av en eksamen eller prøve
-skal være offentlig med mindre hensynet til gjen-
+Bestemmelsen er ny. Den slår fast at hvis styret har bestemt at rektor skal velges, skal stemmene når de telles opp vektes slik at stemmene til de ansatte vektes 75 prosent og stemmene til studentene vektes 25 prosent. Etter gjeldende lov vektes stemmene etter en fordelingsnøkkel som innebærer at når stemmene telles opp, teller ansatte i undervisnings- og forskerstilling vesentlig mer enn stemmene til teknisk- og administrativt ansatte og studenter.
 
-[Side 405]
+*§ 3-7.* Styrets saksbehandling
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Styrelederen skal i samråd med rektor sørge for behandling av aktuelle saker som hører inn under styret.
 
-nomføringen av eksamenen eller prøven tilsier noe
-annet. Styret kan gjøre unntak fra regelen om
-offentlig eksamen etter ønske fra vedkommende
-eksamenskandidat når tungtveiende hensyn taler
-for det.
-Styret kan gi forskrift om avleggelse og gjennomføring av eksamener og prøver, vilkår for å gå
-opp til eksamener og prøver på nytt og for adgang
-til ny praksisperiode.
+Styreleder, det enkelte styremedlem og rektor kan kreve at styret behandler bestemte saker.
+
+Styrebehandling varsles på hensiktsmessig måte og med nødvendig frist.
+
+Rektor forbereder saker som skal behandles av styret i samråd med styrets leder. Rektor legger sakene frem for styret. En sak skal forberedes og fremlegges slik at styret har et tilfredsstillende behandlingsgrunnlag.
+
+Styret skal behandle saker i møte, med mindre styrets leder finner at saken kan forelegges skriftlig eller behandles på annen betryggende måte. Styremedlemmene og rektor kan kreve møtebehandling.
+
+Styret skal sørge for størst mulig grad av åpenhet om arbeidet sitt. Styrets møter skal holdes for åpne dører. Styret kan bestemme at møtene skal holdes for lukkede dører, eller at bestemte saker skal behandles for lukkede dører. Behandling av spørsmål om lukking av dørene skjer for lukkede dører.
+
+Styrebehandlingen ledes av styrelederen. Hvis styrelederen ikke kan delta, velger styret ett av de andre styremedlemmene til å lede styrebehandlingen.
+
+Rektor har rett til å delta i behandlingen av saker og til å uttale seg. Styret kan, hvis det er nødvendig for forsvarlig saksbehandling i styret, bestemme at rektor ikke skal delta i behandlingen av den enkelte sak.
+
+Styret kan kreve at rektor gir styret en nærmere redegjørelse om bestemte saker. Slik redegjørelse kan også kreves av det enkelte styremedlem.
+
 Merknad:
-Første ledd fastsetter at universiteter og høyskoler
-skal sørge for at studentenes kunnskaper og
-ferdigheter blir prøvd og vurdert på en upartisk
-og faglig betryggende måte. Vurderingen skal
-også sikre det faglige nivået ved vedkommende
-studium, jf. bestemmelsens første ledd andre
-punktum. Det skal være en ekstern evaluering av
-vurderingen eller vurderingsformene. Det er opp
-til den enkelte institusjon å bestemme hvordan
-den eksterne deltakelsen i vurderingen skal gjennomføres. Dette kan skje ved en ekstern deltakelse i den enkelte vurdering eller ved ekstern
-evaluering av vurderingsordningene. Systemet
-med ekstern evaluering av vurderingene eller vurderingsordningene skal også ivareta studentenes
-rettssikkerhet ved å sikre lik og upartisk bedømmelse av studentene.
-Institusjonene bruker forskjellige typer vurderinger. Det skilles gjerne mellom underveisvurderinger og eksamen/prøver. Studentene skal gjennom underveisvurderingen få en tilbakemelding
-og god veiledning for videre arbeid. En god vurderingspraksis motiverer og har læring som mål.
-Underveisvurdering blir ofte omtalt som formativ
-vurdering eller vurdering for læring, fordi formålet er å fremme læring. Eksamen er som oftest
-skriftlig, men kan også foregå på andre måter, for
-eksempel muntlig prøve, levering av et større
-selvstendig arbeid som et kunstverk, fremføring
-av et musikkrepertoar, en monolog, og så videre.
-Sluttvurdering omfatter eksamensresultater, og
-har til formål å uttrykke kompetansen til studentene etter endt læring i faget. Det er imidlertid
-ikke noe strengt skille mellom formativ og summativ vurdering, eller vurdering for og av læring.
-Vurdering i fag skal fremme læring og være et
-uttrykk for studentenes kompetanse. Både i
-underveisvurdering og eksamen er læringsutbyttebeskrivelsen for det aktuelle faget grunnlaget
-for vurdering.
-Det er viktig at studentene er klart informert
-om hvorvidt innleveringer, prosjekter og andre
-arbeider i løpet av studiet er rene underveisvurde-
 
-403
+Reglene om styrets saksbehandling bygger delvis på § 9-6 i dagens lov, men inneholder en del justeringer og forenklinger. Bestemmelsen her har ikke regler om møteplikt, jf. gjeldende § 9-6 tredje ledd eller stemmeplikt, jf. gjeldende § 9-6 fjerde ledd. Institusjonene kan imidlertid selv velge å ha denne typen regler, jf. § 3-8.
 
-Kapittel 39
+*Første ledd* slår fast at rektor i samråd med styreleder har ansvaret for å legge frem saker for styret. Rektor forbereder sakene, og vil ha kjennskap til enkelthetene ved institusjon, mens styreleder har et overordnet blikk gjennom sin rolle som leder av institusjonens øverste organ.
 
-ringer med læring som formål, eller om de skal
-inngå i sluttvurderingen og dermed omfattes av
-kravet til sensorveiledning og mulighetene for
-klage.
-Andre ledd fastslår at den muntlige delen av
-eksamener og prøver skal være offentlig med
-mindre hensynet til gjennomføringen tilsier noe
-annet. Kravet om offentlighet henger sammen
-med at muntlig eksamen som regel ikke er etterprøvbar, og bestemmelsen er videreført fra gjeldende rett av prinsipielle rettssikkerhetsmessige
-og kvalitetssikringsgrunner. Styret kan gjøre unntak fra regelen om offentlig eksamen i det enkelte
-tilfellet etter ønske fra vedkommende eksamenskandidat, eller når tungtveiende hensyn taler for
-det. Eksempel på tilfeller hvor det må kunne gjøres unntak som en fast ordning, er kliniske eksamener i helsefag, der forholdet til pasienter/klienter må gå foran prinsippet om åpenhet. Men hensynet til den enkelte student må også kunne være
-avgjørende når forholdene tilsier det. Det kan for
-eksempel være tungtveiende personlige grunner
-som gjør at det vil oppleves som urimelig belastende å ha andre til stede i eksamenslokalet under
-eksaminasjonen.
-Etter offentlighetsloven § 26 kan besvarelse til
-eksamen eller lignende prøve unntas fra offentlighet. Også karakterene og vitnemål kan unntas fra
-innsyn. De skriftlige besvarelsene (inklusive
-kunstverk og lignende) er som utgangspunkt studentens eiendom og kan ikke offentliggjøres uten
-studentens samtykke.
-Tredje ledd hjemler muligheten for institusjonene selv til å gi nærmere forskrift om avleggelse
-og gjennomføring av eksamener og prøver. Der en
-student kan miste sin studierett på et fag, for
-eksempel på grunnlag av manglende progresjon,
-er det viktig at studenten er gitt opplysninger om
-de vilkårene som oppstilles for studieretten i eksamensforskriftene.
-§ 8-7. Gjennomføring av førstegangssensur
-Styret oppnevner sensor ved eksamen når
-resultatet inngår på vitnemålet eller innregnes i
-karakter for vedkommende studium. Vurderingsuttrykket ved eksamen, prøve, bedømmelse av
-oppgave eller annen vurderingssituasjon skal
-være utmerket/bestått/ikke-bestått, en gradert
-skala med fem trinn fra A til E for bestått og F for
-ikke bestått, eller bestått/ikke-bestått.
-Det skal være minst to sensorer, hvorav minst
-én ekstern, ved
-a) skriftlig eksamen hvor karakterfastsettelsen
-er gradert fra A til F eller utmerket/bestått/
-ikke-bestått
+*Andre ledd* bygger på dagens lov § 9-6 annet ledd annen setning, men med litt andre ordvalg. Bestemmelsen presiserer at alle i styret kan be om at styret behandler en sak. Dersom de øvrige styremedlemmene ikke ønsker å behandle saken, kan de avgjøre det når de fastsetter dagsorden.
 
-[Side 406]
+*Tredje ledd* bygger på tilsvarende bestemmelser i selskapslovgivningen. Bestemmelsen balanserer behov for å få styrebehandlet saker mot styrets behov for tilstrekkelig med tid til å kunne sette seg inn i dem for å foreta en forsvarlig behandling.
 
-404
+*Fjerde ledd* er en delvis videreføring av § 10-1 tredje ledd i dagens lov. Rektor og styreleder må i samråd finne frem til hvilke saker som skal legges frem for styret, jf. første ledd. Ansvaret for å legge frem sakene er lagt til rektor. Dagens lov sier ikke uttrykkelig at styret skal ha et tilfredsstillende behandlingsgrunnlag, selv om et slikt krav følger av ulovfestete forvaltningsrettslige prinsipper. I loven her er kravet foreslått lovfestet.
 
-Kapittel 39
+*Femte ledd* viderefører § 9-6 første ledd i gjeldende lov. Et «møte» i lovens forstand er en samling av styret i samme rom, hvor enkelte styremedlemmer eventuelt deltar ved informasjonsteknologiske løsninger. Bestemmelsen her gir også mulighet for skriftlig saksbehandling eller at saken behandles på annen betryggende måte. Dette kan eksempel være et virtuelt møte hvor alle medlemmene sitter hver for seg. Myndigheten til å avgjøre behandlingsform er lagt til styrets leder, men medlemmene kan kreve møtebehandling.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Sjette ledd* samler og viderefører bestemmelsene i gjeldende lov om at det skal være størst mulig grad av åpenhet om arbeidet til styret. Utgangspunktet er at styrets møter holdes for åpne dører. Styret kan bestemme at dørene skal lukkes, og styret må selv ta stilling til hvilke grunner som tilsier behandling for lukkede dører. I enkelte saker vil lukkede dører være påkrevd av hensyn til lovpålagt taushetsplikt.
 
-b) selvstendig arbeid i forbindelse med både
-lavere og høyere grad uavhengig av vurderingsuttrykket
-c) bedømmelse av muntlig eller utøvende prestasjon og
-d) vurdering av praksisstudier eller lignende.
-Institusjonen skal utarbeide skriftlig sensorveiledning til alle eksamener. Sensorveiledningen
-skal være tilgjengelig for studentene etter at
-karakteren er fastsatt.
-Sensuren skal foreligge innen 15 virkedager
-fra eksamen er avlagt, hvis ikke særlige grunner
-gjør det nødvendig å bruke mer tid. Styret kan
-gjøre unntak for enkelteksamener og kan i midlertidig forskrift etter § 8-6 tredje ledd fastsette en
-lengre frist når det ikke er mulig å skaffe det antall
-kvalifiserte sensorer som er nødvendig for å
-avvikle sensuren innen 15 virkedager. Styret kan i
-forskrift etter § 8-6 tredje ledd fastsette lengre frist
-for avhandlinger og tilsvarende større skriftlige
-arbeider.
+*Syvende ledd* viderefører dagens lov § 9-6 syvende ledd. Selv om styrelederen er ekstern, har loven ikke et krav om at et av de eksterne styremedlemmene skal lede styrebehandlingen hvis styrelederen har forfall. Det er opp til styret å ta stilling til hvem som skal lede styrebehandlingen hvis styrelederen har forfall.
+
+*Åttende ledd* viderefører § 9-6 femte ledd i gjeldende lov. Rektor har rett til å delta i styremøtene og uttale seg. Rektor kan unntaksvis utelukkes fra å delta i enkeltsaker, og vurderingstemaet er foreslått knesatt i loven gjennom hensynet til «forsvarlig saksbehandling». Det kan tenkes tilfeller hvor det er uheldig at rektor deltar, selv om det er sjelden. For eksempel kan dette være aktuelt ved varslingssaker mot rektor eller spørsmål om oppsigelse eller avskjed av rektor.
+
+*Niende ledd* er nytt. Både styret som kollegium, og det enkelte styremedlem, kan kreve at rektor gir en redegjørelse om bestemte saker. Styret er institusjonens øverste organ, men har ikke selv mulighet til å utrede enkeltsaker. Derfor fremgår det tydelig av bestemmelsen at styret kan be om en redegjørelse, uten at det nødvendigvis innebærer at styret vil fatte et vedtak.
+
+*§ 3-8.* Styreinstruks
+
+Styret selv skal fastsette en styreinstruks som gir nærmere regler om styrets arbeid og saksbehandling.
+
+Instruksen skal blant annet inneholde regler om hvilke saker som skal styrebehandles, og rektors arbeidsoppgaver og plikter overfor styret. Instruksen skal også inneholde regler for innkalling og møtebehandling.
+
 Merknad:
-Første ledd fastsetter at det er styret som oppnevner sensor ved eksamen når resultatet inngår på
-vitnemålet eller innregnes i karakter for vedkommende studium. Gode ordninger for sensur er
-nødvendig for en uhildet og rettferdig karaktersetting og dermed for studentenes rettssikkerhet.
-Det er viktig at sensuren organiseres på en måte
-som bidrar til å sikre utdanningskvaliteten og som
-inngir tillit både hos studentene og overfor potensielle arbeidsgivere eller utdanningsinstitusjoner.
-Det er også viktig med åpenhet og innsyn rundt
-sensurordningen.
-Vurderingsuttrykket ved eksamen, prøve,
-bedømmelse av oppgave eller annen vurdering
-skal være utmerket/bestått/ikke-bestått, en gradert
-skala med fem trinn fra A til E for bestått og F for
-ikke bestått eller bestått/ikke bestått. Vurderingsuttrykket utmerket/bestått/ikke-bestått er nytt i
-forhold til gjeldende rett. Eksamen må være egnet
-til å vise læringsutbyttet studentene skal oppnå.
-Utfordringen rundt karakterpress og karaktersetting kan avhjelpes ved å innføre en mulighet til å
-benytte seg av en mindre detaljert karakterskala.
-Muligheten for å nå det øverste karakternivået kan
-gi studentene motivasjon til å stå på. En underveisvurdering kan gi studentene en pekepinn på hva de
-bør forbedre for å enten komme helt til topps, eller
-for å bestå faget.
-Andre ledd gjeninnfører et krav om to sensorer,
-hvorav minst én skal være ekstern, som sammen
-fastsetter eksamenskarakteren basert på studen-
 
-tens prestasjon, ved alle skriftlige eksamener hvor
-karakterskalaen er gradert fra A til F eller utmerket/bestått/ikke-bestått. For muntlig eller utøvende eksamen eller vurdering av praksisstudier
-eller liknende, er det krav om to sensorer, hvorav
-minst én er ekstern, uavhengig av vurderingsuttrykket. Kravet om to sensorer gjelder også ved
-selvstendig arbeid i forbindelse med både lavere og
-høyere grad, uavhengig av vurderingsuttrykket.
-Én av sensorene skal være ekstern.
-Ved å bli vurdert av to sensorer, kan studentene føle seg tryggere på at karakteren er veloverveid og riktig. Denne nye bestemmelsen vil særlig
-ivareta studentenes rettssikkerhet bedre der det
-ikke er klagemulighet på eksamensresultatet
-fordi prestasjonen ikke er etterprøvbar, som kan
-være tilfellet for eksempel for en muntlig eksamen. Lovforslaget om to sensorer er en endring
-av gjeldende rett, men rettstilstanden var slik før
-innføringen av Kvalitetsreformen i 2003.
-Tredje ledd viderefører kravet om at det skal
-utarbeides skriftlig sensorveiledning til alle eksamener. Dette kravet er absolutt og gjelder uavhengig av om det er en skriftlig eller muntlig skoleeksamen, hjemmeeksamen, prosjekt, individuell
-eksamen eller gruppeeksamen. Bestemmelsen
-fastsetter ikke de nærmere kravene til innholdet i
-sensorveiledningen, men veiledningen må være
-egnet til å ivareta hovedhensynet bak kravet, som
-er å sikre en så ensartet vurdering av eksamensoppgavene som mulig. Sensorveiledninger må
-kunne ha ulik innretning og ulikt omfang avhengig av de enkelte fagenes tradisjoner og egenart.
-Sensorveiledningen skal være tilpasset det arbeidet studenten skal prøves i.
-Det er institusjonen som har ansvaret for at
-det utarbeides sensorveiledning. Det må derfor
-være opp til den enkelte institusjon å vurdere hva
-som er mest hensiktsmessig å inkludere i sensorveiledningen til hver enkelt eksamen eller eksamensform. Sensorveiledningene kan gjøre kvaliteten på eksamen bedre, fordi de bidrar til bedre
-kvalitetssikring av det fastsatte læringsutbyttet og
-trolig bedre samsensur.
-En sensorveiledning kan både være et dokument som angir generelle retningslinjer for hvordan besvarelser skal vurderes, eller den kan helt
-eller delvis inneholde såkalte rettenøkler, fasiter
-eller mønsterbesvarelser.
-Selv om sensorveiledninger er utarbeidet for å
-hjelpe sensorene, skal også sensorveiledninger
-gjøres tilgjengelig for studentene etter at sensuren foreligger. Veiledningen er et pedagogisk
-verktøy for studentene. Dette gjelder spesielt
-eldre sensorveiledninger, som inneholder eksem-
+Bestemmelsen er ny. En styreinstruks kan gi mer eller mindre detaljerte regler om styrets arbeid, innenfor de rammene som følger av loven. Siden loven her er mindre detaljert enn gjeldende lov, er det større behov for at styret vurderer og regulerer forhold som er regulert i gjeldende lov, for eksempel regler om stemmeplikt.
 
-[Side 407]
+*Første ledd* slår fast at styret selv skal fastsette en styreinstruks. Det obligatoriske elementet er en konsekvens av at loven her er mindre detaljrik enn gjeldende lov, slik at styret er nødt til aktivt å vurdere og fastsette hvordan det vil arbeide.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Annet ledd* inneholder enkelte obligatoriske elementer i styreinstruksen, men den enkelte institusjon kan selvsagt også regulere andre forhold enn de som er trukket frem i loven.
 
-pler på beste praksis. Enkelte sensorveiledninger
-er det mest hensiktsmessig å gjøre skriftlig tilgjengelig for studentene, men en offentlig gjennomgang av eksamensoppgaven og sensorveiledningen må også kunne sies å tilfredsstille kravene
-til tilgjengeliggjøring av sensorveiledningen. Det
-er uansett opp til utdanningsinstitusjonene å vurdere hvordan sensorveiledningen skal gjøres tilgjengelig i hvert enkelte tilfelle. Bestemmelsen
-om sensorveiledning er en videreføring av gjeldende rett.
-Fjerde ledd fastsetter at sensuren skal foreligge innen 15 virkedager, dette er en endring fra
-gjeldende rett hvor sensuren skulle foreligge
-innen tre uker. For å sikre bedre arbeidsforhold
-for sensorer endres sensurfristen til 15 virkedager. Dette medfører at inneklemte helligdager
-ikke lenger skal regnes med i sensurfristens
-lengde.
-Det er viktig at fristen overholdes da en fristovertredelse kan medføre ulemper for studentene. Bestemmelsen om at styret kan gjøre unntak
-fra sensurfristen for enkelteksamener, og imidlertidig forskrift fastsette en lengre frist når det ikke
-er mulig å skaffe nok kvalifiserte sensorer, foreslås videreført. Det presiseres imidlertid at dette
-er en unntaksbestemmelse. Hvis slik forskrift vedtas, skal den være midlertidig. Unntak fra sensurfristen skal kun gjelde for den aktuelle eksamen
-og kan ikke brukes flere ganger. Styret kan fastsette lengre frist for avhandlinger og tilsvarende
-større skriftlige arbeider.
-§ 8-8. Klage over formelle feil ved eksamen
-Den som har vært oppe til eksamen eller
-prøve, kan klage over formelle feil innen tre uker
-etter at vedkommende ble eller burde vært kjent
-med det forhold som begrunner klagen. Studenten må fremsette klagen for institusjonen.
-Hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen
-av denne, skal institusjonen oppheve sensurvedtaket. Hvis feilen kan rettes opp ved ny sensur av
-innleverte arbeider, foretar institusjonen ny sensurering. I motsatt fall avholder institusjonen ny
-eksamen eller prøve med nye sensorer. Studenten
-kan påklage karakterfastsetting ved ny sensurering etter § 8-10.
-Finner institusjonen eller klageinstansen at det
-er begått formelle feil, og det er rimelig å anta at
-dette kan ha hatt betydning for én eller flere studenters prestasjon eller for bedømmelsen av prestasjonen, kan institusjonen bestemme at det skal
-foretas ny sensurering eller avholdes ny eksamen
-eller prøve.
+*§ 3-9.* Vedtaksførhet
 
-405
+Styret er vedtaksført når mer enn halvparten av medlemmene deltar i styrebehandlingen.
 
-Kapittel 39
+Har noen forfall, skal varamedlemmet innkalles.
 
-Styret eller lokal klagenemnd ved institusjonen er klageinstans for institusjonens vedtak etter
-denne bestemmelsen.
 Merknad:
-Første ledd viderefører gjeldende rett om at den
-som har vært oppe til eksamen eller prøve, kan
-klage over formelle feil innen tre uker etter at han
-eller hun er, eller burde vært, kjent med det forhold som begrunner klagen. Klagen fremsettes
-for institusjonen.
-Formelle feil kan for eksempel være feil ved
-eksamensavvikling, at oppgaven ligger utenfor
-pensum eller feil ved gjennomføring av sensuren.
-Det kan også tenkes formelle feil ved praksisgodkjenning, som at godkjenning nektes på grunnlag
-av krav om ferdigheter som går ut over det som er
-hjemlet i studieplanen.
-Andre ledd fastsetter at hvis det er begått formelle feil som kan ha hatt betydning for studentens
-prestasjon eller bedømmelsen av denne, skal sensurvedtaket oppheves. Det skal enten foretas ny
-sensurering hvis feilen kan rettes opp ved ny sensurering av innleverte arbeider, eller så skal det
-avholdes ny eksamen eller prøve med nye sensorer. Dette gjelder uavhengig av om studenten
-ønsker det eller ei. Formålet med å gjennomføre en
-ny sensur eller eksamen, er å sikre at den karakteren studenten til slutt får gir et mest mulig riktig
-bilde av studentens kunnskaper og ferdigheter. Ny
-sensurering og ny avleggelse av eksamen vil være
-aktuelt hvor den formelle feilen innebærer at studentene har hatt en urimelig fordel, for eksempel
-hvis eksamensoppgavene har vært kjent for noen
-på forhånd. I slike tilfeller vil det ikke være i samsvar med formålet at bare de som ønsker det får ny
-sensur eller ny eksamen. I andre tilfeller kan den
-formelle feilen være av en slik art at den ikke har
-bidratt til at studentene har skrevet en bedre eksamensoppgave enn det de reelt sett hadde kunnskaper til. Da vil ny sensur eller ny eksamen ikke
-være nødvendig. Noen studenter kan også ha
-prestert dårligere enn det de faktisk har grunnlag
-for, for eksempel hvis den formelle feilen består i
-støy eller lignende i eksamenslokalet, eller en
-uklarhet eller feil i eksamensoppgaven. I slike tilfeller vil det være tilstrekkelig at de studentene
-som ønsker det, får tilbud om ny eksamen eller
-sensur. Karakterfastsetting ved ny sensurering kan
-påklages etter reglene i lovforslaget § 8-10.
-Tredje ledd viderefører bestemmelsen om at
-hvis det er begått formelle feil som det er rimelig å
-anta at kan ha hatt betydning for en eller flere studenters prestasjon eller bedømmelse av denne,
 
-[Side 408]
+Bestemmelsen viderefører dagens lov § 9-7 første ledd, men presiserer at varamedlem skal innkalles når et styremedlem har forfall til et styremøte.
 
-406
+*Første ledd* fastsetter som dagens lov at styret er vedtaksført når minst halvparten av medlemmene deltar i styrebehandling. Formuleringen tar høyde for at et styremedlem ikke er til stede sammen med de andre styremedlemmene, men deltar via teknologiske løsninger eller på annen måte enn ved møte. Loven her pålegger ikke medlemmene stemmeplikt, selv om institusjonene kan innføre dette ved styreinstruks, og derfor er tilstedeværelse av halvparten tilstrekkelig.
 
-Kapittel 39
+*Annet ledd* fastsetter at varamedlem skal innkalles ved forfall.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*§ 3-10.* Alminnelig flertallskrav
 
-kan det foretas ny sensurering eller avholdes ny
-eksamen eller prøve. Se ellers omtale av andre
-ledd over.
-Fjerde ledd fastsetter at klage på formelle feil
-behandles av institusjonen, med lokal klagenemnd ved institusjonen som klageorgan. Det er
-av stor betydning for studentene at klage på formelle feil behandles raskt slik at en eventuell ny
-eksamen eller ny sensurering kan gjennomføres
-relativt kort tid etter eksamen. Utdanningsinstitusjonen vurderer klagen, om den skal tas til følge
-og eventuelt hvilke tiltak som er nødvendige for å
-rette opp en eventuell formell feil. Dette tilsvarer
-ordningen etter forvaltningsloven § 33 andre ledd,
-som gir underinstansen myndighet til å oppheve
-eller endre et vedtak hvis den finner at en klage er
-begrunnet. Dersom utdanningsinstitusjonen ikke
-tar klagen til følge skal den tilrettelegge saken og
-oversende den til klageorganet for behandling, tilsvarende ordningen i forvaltningsloven § 33 fjerde
-ledd.
-§ 8-9. Rett til begrunnelse
-Studenten har rett til å få en begrunnelse for
-karakterfastsettingen av sin prestasjon. Krav om
-begrunnelse må fremsettes innen én uke dersom
-karakteren ble kunngjort elektronisk for studenten, og studenten kan fremsette krav om begrunnelse på tilsvarende måte. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen
-én uke fra studenten fikk kjennskap til karakteren,
-likevel ikke mer enn tre uker fra karakteren ble
-kunngjort.
-Ved bedømmelse av muntlige, utøvende eller
-praktiske ferdigheter må krav om begrunnelse
-fremsettes umiddelbart etter at karakteren er
-meddelt studenten.
-Begrunnelse for karakterfastsettelsen skal
-være gitt innen to uker etter at studenten har bedt
-om det. I begrunnelsen skal det gjøres rede for de
-generelle prinsippene som er lagt til grunn for
-bedømmelsen, og den konkrete bedømmelsen av
-studentens prestasjon. Institusjonen bestemmer
-om sensorene skal gi begrunnelsen muntlig eller
-skriftlig.
+Avgjørelser treffes med alminnelig flertall av de avgitte stemmene. Ved stemmelikhet er møtelederens stemme avgjørende.
+
 Merknad:
-Første ledd omhandler retten til å få en begrunnelse. Fastsettelse av karakter er et enkeltvedtak.
-Hovedregelen er at enkeltvedtak skal grunngis og
-begrunnelsen skal gis samtidig med at vedtaket
-treffes, jf. forvaltningsloven § 24. Dette gjelder
-bare så langt ikke annet fremgår av særlov. Gjeldende regler i universitets- og høyskoleloven
 
-avviker fra forvaltningslovens hovedregel ved at
-begrunnelsesplikten først inntrer når studenten
-ber om det. Dette foreslås også videreført.
-En student kan kreve å få begrunnelse for
-karakterfastsettingen for sin egen prestasjon ved
-eksamen. I begrunnelsen for karaktervurderingen skal det redegjøres både for de generelle retningslinjene som er lagt til grunn for vurderingen
-og for den konkrete vurderingen av studentens
-besvarelse, blant annet om innhold og form.
-Retten til å kreve begrunnelse for sine eksamensprestasjoner må sees i sammenheng med
-klageadgangen. Begrunnelsesplikten må også
-sees i sammenheng med institusjonens ansvar for
-studentenes læring, fordi begrunnelsen vil kunne
-være en viktig del av veiledningen for studenter
-som ikke oppnår de forventede resultater til eksamen. En begrunnelse med tilstrekkelig veiledning
-som gjør studenten i stand til å se sine prestasjoner i lys av målene institusjonen har satt for besvarelsen vil kunne være oppklarende. I noen tilfeller
-vil slik veiledning bidra til at studenten ikke klager på en karakterfastsettelse vedkommende i
-utgangspunktet vurderte å klage på.
-Andre ledd fastsetter at ved muntlig og
-utøvende vurdering eller bedømmelse av praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakteren er meddelt.
-Dette er en videreføring av gjeldende rett.
-Tredje ledd fastsetter at begrunnelsen for
-karakteren skal være gitt innen to uker etter at studenten har bedt om det. Dette er en skjerping av
-kravene til sensor i forhold til gjeldende lovbestemmelse som kun sier at karakterbegrunnelsen
-«normalt» skal foreligge innen to uker. Det er
-utdanningsinstitusjonen som avgjør om sensorene
-skal gi begrunnelsen skriftlig eller muntlig. For en
-eventuelt etterfølgende klage er det en fordel om
-begrunnelsen avgis skriftlig. Lovbestemmelsen er
-ikke til hinder for at utdanningsinstitusjonene delegerer til sensorene å avgjøre om det skal være
-skriftlig eller muntlig begrunnelse.
-§ 8-10. Klage over karakterfastsetting
-En student kan klage skriftlig over karakteren
-for sine egne prestasjoner innen tre uker etter at
-eksamensresultatet er kunngjort. Har studenten
-krevd begrunnelse for karakterfastsetting etter
-§ 8-9 eller klaget over formelle feil ved oppgavegivning, eksamensavvikling eller gjennomføring
-av vurderingen etter § 8-8, løper klagefristen fra
-studenten har fått begrunnelsen for karakterfastsettingen eller resultatet av klagen over formelle
-feil foreligger. Studenten skal ha mulighet til å
-begrunne klagen.
+Bestemmelsen viderefører dagens lov § 9-7 annet ledd, men med noen justeringer. Styret treffer avgjørelser med alminnelig flertall. Gjeldende lov har enkelte regler om kvalifisert flertall, jf. gjeldende § 4-8 fjerde ledd om vedtak om utestenging eller bortvisning, eller tilslutning fra minst halvparten av styrets medlemmer, uavhengig av hvor mange som faktisk deltar, jf. for eksempel gjeldende § 10-2 om valgt rektor. Disse reglene er ikke videreført i loven her, og det er reflektert i bestemmelsen. Ved stemmelikhet er møteleders stemme avgjørende. Dette vil normalt være styreleder, eventuelt den som er utpekt i hans eller hennes sted, jf. § 3-7 syvende ledd.
 
-[Side 409]
+*§ 3-11.* Lovlighetskontroll
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Tre eller flere medlemmer av styret kan sammen bringe avgjørelser truffet av styret inn for departementet til kontroll av om avgjørelsen er lovlig. Et slikt krav må fremmes innen tre uker fra vedtaket ble truffet. Spørsmål om det foreligger brudd på bestemmelser gitt i eller i medhold av lov om offentlige anskaffelser eller statsansatteloven kan ikke lovlighetskontrolleres.
 
-Det er individuell klagerett ved gruppeeksamen. En eventuell endring av karakter etter
-klage vil bare gjelde for den som har klaget.
-Ved bruk av løpende vurdering kan institusjonen bestemme om studenten kan fremsette klage
-etter separat prøve, oppgave eller annen fremvisning av kompetanse, eller når resultatet fra fag,
-emne eller emnegruppe er kunngjort.
-Bedømmelse av muntlig prestasjon og vurdering av praksisstudier eller lignende som etter sin
-art ikke lar seg etterprøve, kan ikke påklages.
+Krav om lovlighetskontroll fremsettes for styret. Hvis styret opprettholder avgjørelsen, oversendes saken til departementet.
+
+Krav om lovlighetskontroll hindrer ikke at den påklagde avgjørelsen iverksettes, med mindre styret eller departementet bestemmer at iverksettelse av avgjørelsen utsettes.
+
+Ved lovlighetskontroll skal styret eller departementet ta stilling til om avgjørelsen
+
+a\) er innholdsmessig lovlig
+
+b\) er truffet av noen som har myndighet til å treffe slik avgjørelse og
+
+c\) er blitt til på lovlig måte.
+
+Departementet eller styret skal oppheve avgjørelsen hvis det er gjort slike feil at den er ugyldig.
+
 Merknad:
-Første ledd hjemler alminnelig klageadgang ved
-klage over karakterfastsettingen. Studenten kan
-klage skriftlig over karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort. Klagen kan begrunnes og gjøres
-tilgjengelig for klagekommisjonen sammen med
-sensorveiledning og eventuell skriftlig karakterbegrunnelse fra opprinnelig sensor.
-Er krav om begrunnelse for karakterfastsetting etter § 8-9 eller klage over formelle feil ved
-oppgavegivning, eksamensavvikling eller gjennomføring av vurderingen fremsatt etter § 8-8,
-løper klagefristen på tre uker fra studenten har
-fått begrunnelsen for karakterfastsettelsen eller
-resultatet av den formelle klagen foreligger.
-Andre ledd gjelder klage på gruppeeksamen.
-Utgangspunktet i forvaltningsloven er at man kan
-klage på vedtak som er bestemmende for ens
-rettigheter eller plikter, jf. forvaltningsloven § 28.
-Gruppeeksamen er et samarbeid og det avgis en
-felles besvarelse hvor det ofte ikke er mulig å identifisere bidraget fra den enkelte. Studentenes rettsikkerhet ivaretas best gjennom en individuell
-klagerett ved gruppeeksamen. Hvis karakteren
-omgjøres etter klage, skal den nye karakteren bare
-gjelde for den, eller de, studenten(e) som har klaget på karakteren. Dette innebærer at for den eller
-de studenten(e) som ikke klager, vil karakteren gitt
-ved første sensur bli stående. Hvis en students valg
-om å klage på en gruppeeksamen får konsekvenser
-for hele gruppen vil dette gå ut over rettsikkerheten til de studentene som ikke ønsker å klage.
-Tredje ledd er en videreføring av gjeldende rett
-hvor det er opp til institusjonen å bestemme om
-det ved bruk av løpende vurdering skal fremsettes
-klage etter vurdering av separat prøve, oppgave
-eller annen vurdering, eller om klage skal fremsettes når resultatet fra fag, emne eller emnegruppe er kunngjort. Det er viktig at studentene
-på forhånd er informert om når de kan fremsette
-klagen.
 
-407
+Bestemmelsen er ny. Etter dagens lov skal departementet, for institusjoner med valgt rektor som styrets leder, avgjøre spørsmål hvis styret, rektor eller administrerende direktør er i tvil om et styrevedtak vil ligge innenfor bestemmelser eller forutsetninger for bevilgningene m.m., jf. § 10-3 sjette ledd. Bestemmelsen er ikke videreført i loven her. Reglene om lovlighetskontroll favner mye videre enn dagens lov § 10-3 sjette ledd, og er inspirert av kommunelovens ordning. Imidlertid kan bare styremedlemmer kreve lovlighetskontroll etter forslaget, mens etter kommuneloven kan departementet også foretas lovlighetskontroll på eget initiativ. For saker avgjort av styret som regnes som enkeltvedtak, har departementet uansett omgjøringsmyndighet i tråd med reglene i forvaltningsloven § 35.
 
-Kapittel 39
+*Første ledd* gir minimum tre styremedlemmer mulighet til å kreve lovlighetskontroll. Terskelen på minimum tre styremedlemmer er satt for å sikre at adgangen ikke brukes unødig. Departementets kompetanse er begrenset til å prøve om vedtaket er «lovlig». Det innebærer at overprøvingen av institusjonens vurdering av om et tiltak er hensiktsmessig, eller andre former for forvaltningsskjønn, er begrenset slik det følger av rammene for legalitetskontroll. To rettsområder er unntatt fra lovlighetskontroll. For det første gjelder det reglene om offentlige anskaffelser, sammenlign også kommuneloven § 27-2 annet ledd bokstav c. For det andre gjelder det vedtak knyttet til statsansatteloven. Bakgrunnen for begge unntakene er at det her finnes andre kontrollmekanismer. Ellers inneholder ikke loven her begrensninger i hvilke typer saker som kan gjøres til gjenstand for lovlighetskontroll, men avgjørelsen fra styret må være såpass konkret at de er egnet for lovlighetskontroll. Et krav om lovlighetskontroll må fremmes innen tre uker fra vedtaket ble truffet.
 
-Fjerde ledd omhandler klage over muntlig eller
-utøvende eksamen, eller bedømmelse av praksis.
-Det er ikke adgang til å klage hvis disse ikke er
-etterprøvbare. Hvis de kan etterprøves gjelder de
-samme reglene som for skriftlig vurdering. Dette
-er også en videreføring av gjeldende rett.
-§ 8-11. Gjennomføring av klagesensur
-Ved klage etter § 8-10 skal institusjonen foreta
-ny sensurering. Studentens begrunnelse og sensorveiledningen skal gjøres tilgjengelig for klagekommisjonen. Hvis studenten har fått en skriftlig
-begrunnelse for karakterfastsettingen, skal denne
-også gjøres tilgjengelig for klagekommisjonen.
-Institusjonen skal gjennomføre klagesensuren uten
-ugrunnet opphold.
-Det skal være to sensorer, hvorav minst én
-ekstern, ved klagesensuren.
-Ved ny sensurering kan endring gjøres både til
-gunst og ugunst for klager. Hvis den endelige
-karakteren er fastsatt på grunnlag av både skriftlig
-og muntlig prøve og karakteren endres etter ny
-sensur av den skriftlige delen av eksamenen, skal
-ny muntlig prøve avholdes for å fastsette endelig
-karakter.
-Karakterfastsetting ved ny sensurering etter
-denne bestemmelsen kan ikke påklages.
+*Andre ledd* har en parallell i kommuneloven § 27-1 første ledd tredje og fjerde setning. Begjæring om lovlighetskontroll fremsettes overfor styret, som dermed får anledning til å revurdere sitt standpunkt før saken sendes til departementet. Krav om lovlighetskontroll må fremmes innen tre uker fra vedtaket ble truffet.
+
+*Tredje ledd* inneholder en regel som tilsvarer utgangspunktet i forvaltningsretten om at vedtak kan iverksettes, selv om de er angrepet, for eksempel i form av klage eller lovlighetskontroll. Både styret og departementet har myndighet til å fastsette at vedtaket ikke skal iverksettes i påvente av utfallet av lovlighetskontrollen.
+
+*Fjerde ledd* bygger direkte på kommuneloven § 27-3 første ledd og klargjør hvilke sider av avgjørelsen som kan overprøves.
+
+*§ 3-12.* Adgang til å avsette styret
+
+Hvis styret ved sine disposisjoner bringer institusjonens virksomhet i fare, kan Kongen i statsråd avsette styret og oppnevne et midlertidig styre inntil nytt styre er valgt og oppnevnt.
+
+Kongen i statsråd kan avsette et styremedlem dersom særlig tungtveiende grunner taler for det eller særlige omstendigheter svekker tilliten til styremedlemmet.
+
 Merknad:
-Første ledd fastsetter at klage over karakter skal
-følge reglene for alminnelig klageadgang i tråd
-med forvaltningslovens hovedregel. Dette er en
-endring i forhold til gjeldende rett. Studentenes
-prestasjon, studentens klage, sensorveiledning og
-eventuell begrunnelse for karakterfastsettingen
-skal gjøres tilgjengelig for ny sensor. Klagesensuren skal gjennomføres uten ugrunnet opphold, og dette følger også av forvaltningsloven
-§ 11 a, at forvaltningsorganet skal forberede og
-avgjøre saken uten ugrunnet opphold. Dersom
-det må ventes at det vil ta uforholdsmessig lang
-tid før en henvendelse kan besvares, skal det snarest mulig gis et foreløpig svar.
-Hva som ligger i «uten ugrunnet opphold» vil
-variere fra sak til sak, og vil måtte bero på en konkret individuell vurdering av hensynet til en forsvarlig saksbehandling, sakens omfang, kompleksitet og tilgjengelige ressurser.
-Omfanget av arbeidet med klage på karakterfastsettelse vil variere avhengig av antall oppgaver som skal sensureres og type eksamen.
-Klagesensur gjennomføres dessuten ofte når det
-er ferieavvikling ved institusjonene og det kan
-være vanskelig å fremskaffe sensorer. Hvor lang
 
-[Side 410]
+Bestemmelsen viderefører § 9-8 i dagens lov.
 
-408
+*Første ledd* gir Kongen i statsråd, det vil si at oppgaven ikke kan delegeres til departementet, myndighet til å avsette styret. Vilkåret er at styret ved sine disposisjoner bringer virksomhetens virksomhet i «fare». Selv om «fare» kan ses som en lav terskel, må vilkåret leses i sammenheng med resten av lovteksten. Samlet sett vil det bare helt unntaksvis være adgang til å avsette styret, og i praksis har bestemmelsen ikke vært brukt. Å velge og oppnevne et nytt styret kan ta tid, og derfor kan Kongen oppnevne et midlertidig styre i påvente av at et nytt styre er på plass.
 
-Kapittel 39
+*Andre ledd* inneholder regler om avsettelse av enkeltmedlemmer i styret. Å avsette et styremedlem er så ekstraordinært at myndigheten er lagt til Kongen i statsråd. Dette kan derfor ikke delegeres til departementet. Både styremedlemmer som er valgt og ansatt kan avsettes. Terskelen for dette er høy. Uenighet mellom et styremedlem og departementet om institusjonens retningsvalg vil klart nok ikke være tilstrekkelig. Mulige eksempler på grunnlag for avsettelse kan være økonomisk utroskap overfor institusjonen eller seksuelle overgrep mot ansatte eller studenter. I praksis har ikke bestemmelsen vært brukt.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*§ 3-13.* Søksmål
 
-frist som er nødvendig for en klagesensur vil derfor variere.
-Det er viktig at studentene mottar resultatet
-fra klagebehandlingen så raskt som mulig. Resultatet kan ofte være tidssensitivt fordi det kan ha
-innvirkning på videre studier studenten har søkt
-opptak til. Klagebehandlingen foretas samlet av
-sensorene når klagefristen utløper.
-Andre ledd bestemmer at det skal være to sensorer, hvorav én ekstern, ved klagesensuren.
-Klagesensor skal ikke ha vurdert den aktuelle
-besvarelsen i forbindelse med førstesensuren,
-men kan ha vurdert andre besvarelser innenfor
-samme eksamen tidligere.
-Tredje ledd viser til at ny sensurering kan gjøres både til gunst og ugunst for klager. Dersom
-det har vært holdt muntlig prøve i tilknytning til
-skriftlig eksamen, og deretter satt en felles karakter ut fra en samlet vurdering av begge prøvene,
-er det, hvis den muntlige presentasjonen er av en
-slik art at den ikke kan påklages, kun den skriftlige delen av prøven som kan påklages. Dette er
-en videreføring av gjeldende rett.
-Fjerde ledd fastsetter at det ikke er mulig å
-påklage den nye karakterfastsettingen. Dette følger også av forvaltningsloven § 28 første ledd
-siste punktum, men presiseres også i lovforslaget
-for å gjøre dette tydelig overfor studentene.
-§ 8-12. Ph.d.-kandidatenes rettigheter og plikter
-Når eksamen, studieemner og prøver tas som
-en del av doktorgradsprogrammet, gjelder rettigheter og plikter som følger av denne loven tilsvarende for ph.d.-kandidater.
+Staten ved departementet representerer staten i søksmål om institusjonen, hvis ikke annet følger av annet ledd.
+
+Staten ved institusjonen representerer staten i søksmål om institusjonens enkeltvedtak etter forvaltningsloven, og enkeltvedtaket ikke kan påklages til departementet eller klageorgan utenfor institusjonen.
+
+Departementet kan bestemme at staten ved institusjonen skal representere staten også i andre saksforhold om institusjonen
+
 Merknad:
-Lovforslaget gjelder all høyere utdanning som faller under lovens virkeområde, og gjelder i
-utgangspunktet også doktorgradsstudiene. Doktorgradsutdanningene er i tillegg regulert i institusjonenes egne forskrifter, forvaltningsloven og
-forskningsetikkloven.
-Det har blitt mer og mer vanlig at ph.d.-kandidatene tar studieemner, eksamener og prøver
-som obligatoriske deler av doktorgradsprogrammene. Når ph.d.-kandidatene tar eksamen, kurs
-og prøver underveis i doktorgraden gjelder lovforslaget tilsvarende for ph.d.-kandidatene som
-for andre studenter. Dette gjelder for eksempel
-regler om eksamen, vurdering og sensur. Det er
-kun der det foreligger særlig grunn til en annen
-behandling at det gjøres unntak fra reglene som
-ellers gjelder studenter. Dette gjelder reglene
-om bortvisning og utestengning av ph.d.-kandi-
 
-dater som har et ansettelsesforhold ved institusjonen.
-Regler knyttet til vurdering av selve doktoravhandlingen er regulert i forskningsetikkloven,
-for å sikre at den forskning som skjer under en
-doktoravhandling er underlagt de samme forskningsetiske krav som ellers gjelder i samfunnet.
-§ 8-13. Vitnemål
-Institusjonen skal utstede vitnemål om fullført
-utdanning, så fremt minst 60 av studiepoengene
-som skal inngå i grunnlaget for graden, er avlagt
-ved denne institusjonen. Det samme gjelder tildeling av grad. Institusjonen skal på forespørsel gi
-en student som ikke har avsluttet en utdanning
-karakterutskrift for de eksamener eller prøver
-vedkommende har bestått.
-Institusjonen skal samtidig utstede et vitnemålstillegg som nærmere beskriver studentens
-kvalifikasjoner, til bruk ved godkjenning av vedkommendes kvalifikasjoner i utlandet (Diploma
-Supplement). NOKUT kan gi retningslinjer for
-innholdet i Diploma Supplement.
-For en student som går opp til eksamen etter
-§ 8-5 første ledd andre punktum, skal institusjonen angi på vitnemålet eller karakterutskriften
-dersom studentens kunnskaper og ferdigheter er
-prøvd på en annen måte enn for studenter som er
-tatt opp ved studiet.
-Det skal fremgå av vitnemålet hvor mange
-ganger en eksamen er avlagt.
-Det skal fremgå av vitnemålet dersom utdanningen er gitt i samarbeid med andre institusjoner, jf. § 2-6 andre ledd.
-Institusjonen skal tildele autorisasjon for
-helsepersonell i forbindelse med utstedelse av
-vitnemål, i den utstrekning det er fastsatt i forskrift gitt i medhold av helsepersonelloven.
+Bestemmelsen viderefører gjeldende rett. Den er justert for å reflektere at det er staten som juridisk person som uansett er part i søk mål om statlig universitet eller høyskole, men at det kan være spørsmål om hvilken del av staten som er rett saksøkt.
+
+*Første ledd* presiserer at staten ved departementet representerer staten og er rett saksøkt i søksmål om institusjonen, hvis ikke det følger av § 3-13 andre ledd at staten ved institusjonen representerer staten og er rett saksøkt. Også hvis departementet i utgangspunktet representerer staten og er rett saksøkt, kan departementet delegere til institusjonen å representere staten, jf. § 3-13 tredje ledd.
+
+*Andre ledd* presiserer at staten ved den aktuelle institusjonen representerer staten og er rett saksøkt hvis søksmålet gjelder et enkeltvedtak, og det ikke er adgang til å klage på dette til en klageinstans utenfor institusjonen, for eksempel en sentral klagenemnd eller departementet.
+
+*Tredje ledd* viser til departementets alminnelige myndighet og at departementet kan delegere til en underliggende institusjon å representere staten i søksmål som angår den, selv om departementet er rett saksøkt, jf. § 3-13 andre ledd.
+
+*§ 3-14.* Eiendomsforvaltning
+
+Styret ved en institusjon som har forvaltningsansvar for egne eiendommer, kan selv avhende fast eiendom med departementets samtykke eller etter generelle regler gitt av departementet.
+
+Departementet kan gi forskrift om leie og bortleie av fast eiendom.
+
 Merknad:
-Første ledd bestemmer at universiteter og høyskoler skal utstede vitnemål ved fullført utdanning.
-Det følger i dag av forskrift om godskriving og
-fritak av høyere utdanning § 3 at for at utdanningsinstitusjonene skal kunne utstede vitnemål
-for fullført utdanning, «må minst 60 av studiepoengene som skal inngå i grunnlaget for graden, være
-avlagt ved institusjonen». Dette kravet ble presisert i forskriften i og med at utdanningsinstitusjoner kan godskrive og gi fritak for utdanning tatt
-ved en annen institusjon enn den vitnemålsutstedende. Utdanningsinstitusjonen må kunne gå
-faglig god for den utdanning som er lagt til grunn
-for graden og utstedelsen av vitnemålet, det er
 
-[Side 411]
+Bestemmelsen viderefører gjeldende rett.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Første ledd* reflekterer fullmaktene til institusjoner som har ansvaret for å forvalte statens eiendom. Det innebærer at disse universitetene og høyskolene kan selge statens eiendom, i tråd med de fullmaktene de til enhver tid har fått fra departementet.
 
-derfor man har dette tilleggskravet. Tilknytningskravet fremgår nå av lovforslaget slik at dette er
-tydeliggjort for de som bruker loven.
-Den som ikke har avsluttet utdanning skal
-etter anmodning gis karakterutskrift for eksamenene eller prøvene vedkommende har bestått, jf.
-bestemmelsens tredje setning. Vitnemål og karakterutskrift utstedes i dag på papir.
-Andre ledd fastsetter at i tillegg til vitnemålet
-skal det utferdiges et Diploma Supplement. Dette
-er et vitnemålstillegg som «skal sikre rettferdig,
-internasjonal akademisk og yrkesmessig godkjenning av kvalifikasjonen». Tillegget følger vitnemålet og er kun gyldig sammen med dette. Bruken av Diploma Supplement er viktig for å tydeliggjøre innholdet i det norske utdanningssystemet
-overfor andre lands institusjoner, arbeidsgivere
-med videre. Det er NOKUT som gir retningslinjer
-for innholdet i Diploma Supplement.
-Tredje ledd bestemmer at det skal angis på vitnemålet eller karakterutskriften dersom studentens kunnskaper og ferdigheter er prøvd på en
-annen måte enn for studenter som er tatt opp ved
-studiet. Dette gjelder privatister. Det faktum at en
-student er privatist, skal ikke i seg selv føre til en
-merknad på vitnemålet hvis vedkommende er
-prøvd på samme måte som institusjonens egne
-studenter.
-Fjerde ledd fastsetter at gjentak av eksamen/
-prøver skal fremgå av vitnemålet, og dette er en
-ny bestemmelse. Det er den siste karakteren som
-gjelder, og studenten kan ikke velge å beholde
-den beste. Det er siste vedtak i en sak som er gjeldende. Dette følger av alminnelig forvaltningsrett.
-Siste karaktervedtak i et fag er den mest relevante
-og oppdaterte karakteren.
-Femte ledd bestemmer at det skal fremgå av
-vitnemålet dersom utdanningen er gitt i samarbeid med andre institusjoner, jf. 2-6 andre ledd.
-Dette gjelder såkalte fellesgrader og er en videreføring av gjeldende rett.
-Sjette ledd hjemler Helse- og omsorgsdepartementets mulighet til å pålegge den enkelte institusjon å gi autorisasjon for helsepersonell i forbindelse med utstedelse av vitnemål, i den utstrekning det er fastsatt i forskrift gitt i medhold av
-helsepersonelloven.
-Kapittel 9 Godkjenning av høyere utdanning
-§ 9-1. Generell godkjenning av utenlandsk høyere utdanning
-NOKUT avgjør, etter søknad fra enkeltpersoner, om høyere utdanning som er gjennomført i
-utlandet skal få generell godkjenning. Dette innebærer at utdanningen i nivå og omfang godkjen-
+*Andre ledd* reflekterer at universiteter og høyskoler kan leie lokaler eller leie bort lokaler, i tråd med de fullmaktene de til enhver tid har fått fra departementet.
 
-409
+*§ 3-15.* Eierskap i selskaper
 
-Kapittel 39
+En institusjon kan, innenfor generelle retningslinjer fastsatt av departementet, være eier i et selskap når det er av interesse for institusjonens faglige virksomhet og til nytte for samfunnet. Institusjonen må ikke begrense sin selvstendighet i faglige spørsmål og kan ikke skille ut sine ordinære undervisnings- og forskningsoppgaver.
 
-nes som likestilt med akkreditert norsk høyere
-utdanning, jf. §§ 15-1 og 15-2.
-NOKUTs vedtak om generell godkjenning av
-utenlandsk utdanning skal være i tråd med
-Lisboakonvensjonen.
-Vedtak om godkjenning av utenlandsk utdanning kan bare påklages av den vedtaket gjelder.
-Klageinstansen kan ikke overprøve NOKUTs
-vurdering av den avlagte utdanningens nivå og
-omfang.
 Merknad:
-Første ledd viderefører bestemmelsen om at personer som har høyere utdanning fra utlandet, kan
-søke NOKUT om generell godkjenning av utdanningen. Vedtaket om generell godkjenning inneholder en vurdering av hvilket nivå den aktuelle
-utdanningen ligger på, og hvilket omfang den har.
-I Nasjonalt kvalifikasjonsrammeverk for livslang
-læring er det fastsatt læringsutbyttebeskrivelser
-for de ulike nivåene innenfor høyere utdanning og
-dermed hva alle som har fullført en utdanning,
-skal ha lært. Dette betyr at NOKUT med utgangspunkt i kvalifikasjonsrammeverket må vurdere
-om utdanningens nivå og omfang i sin helhet kan
-anses som likestilt med tilsvarende norsk utdanning. Vedtak om generell godkjenning er med
-andre ord ikke en spesifikk faglig godkjenning,
-men en generell vurdering av den utenlandske
-høyere utdanningen. Ordningen med generell
-godkjenning er beregnet for søkere som vil bruke
-godkjenningen mot det ikke-regulerte arbeidsmarkedet, det vil si yrker som ikke krever noen
-spesiell godkjenning eller autorisasjon.
-Det er bare enkeltpersoner som kan søke om
-generell godkjenning. Dette medfører at en ikkeakkreditert institusjon ikke kan benytte seg av
-denne ordningen for å få et generelt «godkjenningsstempel» på utdanningstilbudet sitt.
-I enkelte tilfeller kan ikke søkeren dokumentere utdanningen sin, eller dokumentasjonen kan
-være ufullstendig. I andre tilfeller anses ikke dokumentasjonen som tilstrekkelig pålitelig. Dette vil
-for eksempel gjelde utdanningsdokumenter fra
-land hvor infrastrukturen på utdanningsområdet er
-dårlig eller har brutt sammen. I henhold til Lisboakonvensjonen har Norge forpliktet seg til å ha godkjenningsordninger som også tar høyde for at flyktninger som ikke har verifiserbar dokumentasjon på
-utdanning og kvalifikasjoner, skal få vurdert og
-eventuelt godkjent sin medbrakte kompetanse. I
-2013 opprettet NOKUT på oppdrag fra Kunnskapsdepartementet den såkalte UVD-ordningen (uten
-verifiserbar dokumentasjon). Denne ordningen
 
-[Side 412]
+Bestemmelsen viderefører i det vesentlige gjeldende rett. Den er justert i tråd med at institusjonene trenger særskilte fullmakter gitt i statsbudsjettet for å opprette stiftelser, og for å tydeliggjøre at den gjelder eierskap i aksjeselskaper og ikke samarbeid generelt. I statsbudsjettet kan Stortinget gi institusjonene fullmakter til å stifte aksjeselskaper eller kjøpe aksjer i eksisterende selskaper, og departementet kan gi ytterligere retningslinjer om institusjonenes forvaltning av slike fullmakter. Departementet har gitt slike retningslinjer, jf. rundskriv F/07-2013.
 
-410
+Kapittel 4 Organisering og ledelse ved private institusjoner
 
-Kapittel 39
+*§ 4-1.* Institusjonens organisering og ledelse
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Private universiteter og høyskoler skal være aksjeselskap etter aksjeloven eller stiftelser etter stiftelsesloven.
 
-gjelder for dem som har utenlandsk høyere utdanning, men som ikke kan få generell godkjenning
-etter vanlig prosedyre på grunn av manglende,
-mangelfull eller ikke-verifiserbar dokumentasjon.
-Ordningen er spesielt rettet mot flyktninger og personer i en flyktningeliknende situasjon, og er bare
-aktuell for dem som oppfyller visse krav. UVD-ordningen krever blant annet at søkeren har permanent oppholdstillatelse og oppgir å ha en fullført
-kvalifikasjon fra høyere utdanning. I tillegg må
-søkeren beherske norsk, svensk, dansk eller
-engelsk. UVD-ordningen er en skreddersydd,
-sakkyndig vurdering hvor søkerens kompetanse
-kartlegges gjennom tester, hjemmeoppgaver og
-faglige diskusjoner. På grunnlag av den sakkyndige
-rapporten fatter NOKUT et enkeltvedtak om generell godkjenning.
-Andre ledd fastsetter at NOKUTs vedtak om
-godkjenning av utenlandsk høyere utdanning skal
-være i tråd med Lisboakonvensjonen. Dette er en
-kodifisering av gjeldende praksis. NOKUT legger
-allerede Lisboakonvensjonen til grunn ved vedtak
-om generell godkjenning. Formålet til Lisboakonvensjon er blant annet å legge til rette for større
-akademisk mobilitet mellom landene. Derfor er
-den også et viktig redskap i Bolognaprosessen/
-det europeiske området for høyere utdanning, der
-48 land deltar. Det grunnleggende prinsippet i
-Lisboakonvensjonen er at godkjenningsmyndighetene i et land skal godkjenne kvalifikasjoner fra
-høyere utdanning fra en annen konvensjonspart
-som likeverdig med egen utdanning, med mindre
-de kan vise til betydelige forskjeller mellom utdanningene, jf. konvensjonens artikkel V.I. Dette gjelder hele spennet og alle nivåer innenfor høyere
-utdanning, fra godkjenning av utdanning som gir
-grunnlag for opptak til høyere utdanning, til godkjenning av studieperioder og godkjenning av
-hele utdanninger, altså både faglig og generell
-godkjenning.
-Tredje ledd omhandler klagebestemmelsen. I
-henhold til forvaltningsloven § 2 første ledd bokstav b er NOKUTs vedtak om generell godkjenning av utdanning et enkeltvedtak, siden det er
-bestemmende for personens rettigheter. Det betyr
-at vedkommende kan klage på vedtaket. I henhold
-til gjeldende rett følger det av studiekvalitetsforskriften § 1-9 bokstav b at det bare er personen
-vedtaket berører, som kan påklage dette vedtaket.
-Dette er en begrensning i klageadgangen, da
-forvaltningsloven åpner for at også andre med
-rettslig klageinteresse kan ha mulighet til å
-påklage et vedtak, jf. forvaltningsloven § 28. Det
-foreslås å videreføre denne begrensningen, men
-at den nå lovfestes.
+Styret skal ha representanter fra studenter og ansatte. Styret skal bestå av minst fem medlemmer. Hvis styret har mer enn ti medlemmer, skal hver av gruppene studenter og ansatte ha minst to medlemmer hver. Kravene i likestillings- og diskrimineringsloven om representasjon av begge kjønn skal være oppfylt innen den enkelte valg- og oppnevningskrets.
 
-Kunnskapsdepartementet har oppnevnt en
-egen klagenemnd for enkeltvedtak fattet av
-NOKUT i slike saker. Det er begrenset adgang til
-å klage på vedtak om generell godkjenning etter
-universitets- og høyskoleloven. Klageinstansen
-kan ikke overprøve NOKUTs vurdering av den
-avlagte utdanningens nivå og omfang, det vil si
-den skjønnsmessige vurderingen. Dette er en
-videreføring av gjeldende rett.
-Fellesmerknad til § 9-2, § 9-3 og § 9-4 om faglig
-godkjenning
-De nåværende begrepene «godskriving», «fritak»
-og «godkjenning» blandes ofte sammen. I forslagene til nye bestemmelser brukes det ett felles
-begrep; «godkjenning». Dette er også i overensstemmelse med den ensartede begrepsbruken i
-Lisboakonvensjonen, hvor «recognition» brukes
-som en overordnet betegnelse på det som gjelder
-både generell godkjenning og faglig godkjenning.
-Endringen av begrepene innebærer i seg selv
-ingen endring.
-Det er foreslått en strukturendring i forhold til
-gjeldende rett, slik at det blir to godkjenningsbestemmelser som omhandler utenlandsk høyere
-utdanning, én generell og én faglig, samt to
-bestemmelser som omhandler godkjenning av
-norsk utdanning; henholdsvis innenfor og utenfor
-universitets- og høyskolesektoren. Dette er et forsøk på å gjøre regelverket mer oversiktlig og
-enklere å anvende.
-Utdanningsinstitusjonen har plikt til å vurdere
-søknader om godkjenning. Vedtak i slike søknader
-vil være enkeltvedtak med krav til begrunnelse og
-rett til klage.
-§ 9-2. Faglig godkjenning av utenlandsk høyere
-utdanning
-Universiteter og høyskoler som tilbyr akkrediterte studier etter denne loven, kan godkjenne
-utenlandsk høyere utdanning som del av egne
-studier. Godkjenningen er en faglig vurdering av
-om studenten har oppnådd et bestemt faglig
-nivå, det vil si et læringsutbytte tilsvarende det
-som er fastsatt for de aktuelle emnene ved den
-aktuelle institusjonen. En slik godkjenning innebærer at studenten skal få uttelling i studiepoeng
-tilsvarende dette faglige nivået. Departementet
-kan pålegge institusjonene å samordne praksisen
-sin.
-Ved godkjenning av utenlandsk høyere utdanning tatt i en stat som har ratifisert Lisboakonvensjonen, skal utdanningsinstitusjonen godkjenne
-den utenlandske høyere utdanningen med mindre
+Det skal være størst mulig åpenhet om styrets arbeid. Styret skal etablere og gjennomføre systematiske kontrolltiltak (internkontroll) for å sikre at krav fastsatt i eller i medhold av lov overholdes. Departementet kan gi forskrift om internkontroll.
+
+Styret skal sørge for at studentene får den utdanningen som er forutsatt som grunnlag for akkrediteringen, at alle vilkår for eventuelle offentlige tilskudd overholdes, og at virksomheten drives i samsvar med lover og forskrifter.
+
+Styret selv skal treffe vedtak om at det etter styrets skjønn er forsvarlig å starte opp et nytt studieår. Vedtaket skal treffes før studiestart.
+
+Merknad:
+
+Bestemmelsen viderefører gjeldende rett.
+
+*Første ledd* innebærer at alle private universiteter og høyskoler skal være organisert som aksjeselskap eller stiftelse, jf. lov om aksjeselskaper eller lov om stiftelser. Dette betyr at private aktører ikke kan få akkreditering som høyere utdanning uten at de er organisert som aksjeselskap eller stiftelse. Da bestemmelsen ble innført, ble det også vedtatt en overgangsbestemmelse for private høyskoler som hadde en annen organisasjonsform, jf. gjeldende § 13-2, jf. Innst. 225 L (2016–2017), jf. Prop. 44 L (2016–2017). Det forutsettes at eventuelle overgangsordninger som allerede er i kraft, videreføres.
+
+*Andre ledd* stiller krav til styrets størrelse og sammensetning, ut over det som følger av aksjeloven og stiftelsesloven. De som fastsetter vedtekter for private universiteter og høyskoler, må sørge for at de samlede kravene til styrets størrelse og sammensetning reflekteres i vedtektene for det private universitetet eller den private høyskolen.
+
+*Tredje ledd* første punktum medfører at loven her stiller samme krav til åpenhet om styrets arbeid ved statlige og private universiteter og høyskoler. Imidlertid vil de samlede kravene til åpenhet kunne være forskjellige, jf. virkeområdet til offentlighetsloven.
+
+Andre punktum presiserer styrets plikt til å sørge for å etablere og gjennomføre systematiske kontrolltiltak, såkalt internkontroll, som skal bidra til å sikre at virksomheten etterlever gjeldende lover og regler.
+
+Hvordan internkontrollen innrettes kan variere ut i fra virksomhetens størrelse, egenart mv. Det kan blant annet innebære at en privat institusjon må etablere rutiner for attestering, nedtegnelse av muntlige avtaler eller utarbeidelse av diverse dokumentasjon. Bestemmelsen innebærer ikke innskrenkninger av styrets alminnelige adgang til å delegere oppgaver. Styret kan delegere den konkrete utarbeidelsen av rutiner, og kontroll med etterlevelsen av rutinene og regelverket til for eksempel daglig ledelse, i tråd med den alminnelige adgangen til delegasjon fra styret. Dersom institusjonen ikke har etablert internkontroll kan dette møtes med reaksjoner som beskrevet ellers i loven. Departementet kan presisere kravene til internkontroll i forskrift.
+
+Dette kravet til internkontroll kommer i tillegg til krav om internt system for kvalitetssikring. Kvalitetssikringssystemet skal sikre og videreutvikle kvaliteten i utdanningen, og skal blant annet sikre at studietilbudene oppfyller de kravene departementet og NOKUT har fastsatt.
+
+*Fjerde ledd* presiserer noen av styrets plikter. Styret skal sørge for at utdanningstilbudet studentene mottar er i tråd med akkrediteringen til institusjonen, og for øvrig sørge for at virksomhetens drives i tråd med de til enhver tid gjeldende lover og regler og øvrige føringer. Bestemmelsen legger ikke plikter på styret som ikke allerede følger av andre regler.
+
+*Femte ledd* fastsetter at styret skal fatte et vedtak om at det er forsvarlig å starte opp et nytt studieår. Vedtaket skal være begrunnet, og styret må selv vurdere hvilke momenter som vektlegges i vurderingen. Blant annet studenttilfang, tilgang på lærerkrefter og lokaler, budsjett og økonomi mv. kan være relevante momenter. Myndighet til å fatte et slikt vedtak kan ikke delegeres. Vedtaket skal bidra til forutberegnelighet for studentene og bevisstgjøring av styret. Vedtaket må være tilgjengelig for studentene, og det bør derfor publiseres på institusjonens nettside. Vedtaket skal fattes før studiestart, som i utgangspunktet er første oppmøtedag i høstsemesteret hvert år.
+
+*§ 4-2.* Delegasjon
+
+Styret kan delegere sin avgjørelsesmyndighet til andre ved institusjonen i den utstrekning det ikke følger av denne loven at styret selv skal treffe vedtak, eller det er andre begrensninger i adgangen til å delegere.
+
+Merknad:
+
+Bestemmelsen viderefører gjeldende rett. Hvis ikke universitets- og høyskoleloven presiserer at styret selv skal treffe en avgjørelse, kan styret delegere avgjørelsesmyndigheten. Bestemmelsen presiserer at hvis styret delegerer til andre å treffe beslutninger, er beslutningen likevel styrets ansvar.
+
+*§ 4-3.* Taushetsplikt
+
+Bestemmelsene om taushetsplikt i forvaltningsloven §§ 13 til 13e gjelder for private universiteter og høyskoler.
+
+Merknad:
+
+Bestemmelsen er en videreføring av gjeldende § 7-6 første ledd. Bestemmelsen fastslår at forvaltningslovens regler om taushetsplikt gjelder for private universiteter og høyskoler. Bestemmelsen bidrar til at samme regler om taushetsplikt gjelder for utdanningsinstitusjoner, uavhengig av eieform. Det følger direkte av forvaltningsloven at reglene om taushetsplikt gjelder for statlige institusjoner.
+
+*§ 4-4.* Krav til kjønnsbalanse
+
+Private universiteter og høyskoler skal regnes som offentlige organer etter likestillings- og diskrimineringsloven bestemmelser om kjønnsbalanse i offentlige utvalg.
+
+Merknad:
+
+Bestemmelsen er en videreføring av gjeldende § 7-6 første ledd, og fastslår at likestillings- og diskrimineringsloven § 28 gjelder for private institusjoner. Private institusjoner skal sikre at begge kjønn er representert på en måte som samsvarer med kravene i Likestillings- og diskrimineringsloven når de oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv. Bestemmelsen sikrer like regler for private og statlige institusjoner.
+
+Kapittel 5 Private universiteter og høyskoler – økonomisk tilsyn med mer
+
+*§ 5-1.* Statstilskudd og egenbetaling
+
+Private institusjoner som er akkreditert som høyskole, vitenskapelig høyskole eller universitet, og som tilfredsstiller kravene i denne loven, kan etter søknad til departementet kjennes berettiget til statstilskudd til dekning av driftskostnader for den akkrediterte virksomheten.
+
+Private høyskoler som tilfredsstiller kravene i denne lov, og som ikke har akkreditering som nevnt i første ledd, kan, etter søknad til departementet, kjennes berettiget til statstilskudd til dekning av driftskostnader for utdanninger som er akkreditert av NOKUT dersom det foreligger særlige samfunnsmessige behov.
+
+Alle private universiteter og høyskoler skal benytte statstilskudd og egenbetaling fra studentene til den akkrediterte utdanningen og innenfor lovens formål.
+
+Private universiteter og høyskoler som mottar statstilskudd, skal la tilskudd og egenbetaling komme studentene til gode. Private universiteter og høyskoler som mottar statstilskudd, kan ikke foreta utdelinger.
+
+Private universiteter og høyskoler som ikke mottar statlig tilskudd, kan ikke foreta utdelinger som medfører at egenkapitalen blir lavere enn 20 prosent av eiendelene.
+
+Departementet kan gi forskrift om vilkår for statstilskudd.
+
+Merknad:
+
+Bestemmelsen viderefører gjeldende rett.
+
+*Første ledd* slår fast at det som hovedregel kun er akkrediterte universiteter og høyskoler som kan søke og motta statstilskudd. Tilskuddet skal gå til dekning av driftskostnader for den akkrediterte virksomheten.
+
+Søknad om statstilskudd behandles av departementet. Departementet kan avslå søknaden selv om den private institusjonen har fått institusjonsakkreditering av NOKUT. Institusjonsakkreditering er en forutsetning for å kunne motta statstilskudd, men gir ikke det private universitetet eller den private høyskolen et rettskrav på tilskudd. En innvilget søknad om statstilskudd innebærer at departementet fremmer forslag overfor Stortinget om tilskudd til den private høyskolen. Det er Stortinget som, gjennom behandlingen av de årlige statsbudsjettene, treffer endelig beslutning om tilskudd til den enkelte private høyskole, og om tilskuddets størrelse.
+
+*Andre ledd* fastsetter at private høyskoler som ikke er akkreditert som institusjon, men som kun har akkrediterte studietilbud, unntaksvis kan få statstilskudd dersom det foreligger særlige samfunnsmessige behov for virksomheten. Det er kun private universiteter og høyskoler som ikke oppfyller kravene til akkreditering etter studiekvalitetsforskriften § 3-5, som kan få tilskudd etter denne bestemmelsen. Den private institusjonen som søker om tilskudd må ha studietilbud («utdanninger») som er akkreditert av NOKUT, og det er driftskostnadene til disse det kan gis tilskudd til. Kravet om særlige samfunnsmessige behov innebærer at adgangen til å gjøre unntak er snever, og at bestemmelsen bare kommer til anvendelse der det foreligger særlige hensyn som begrunner unntak fra hovedregelen om institusjonsakkreditering som vilkår for å motta statstilskudd.
+
+Søknad om statstilskudd etter denne bestemmelsen behandles av departementet. Den nærmere vurderingen av de samfunnsmessige behovene for den private høyskolen vil måtte bero på en helhetlig vurdering av virksomheten.
+
+Unntaksbestemmelsen er en kan-regel. Dersom departementet mener at det er grunnlag for å innvilge en søknad om statstilskudd etter denne bestemmelsen, må departementet fremme forslag for Stortinget om tildeling. Den endelige vurderingen av de samfunnsmessige behovene for den aktuelle virksomheten ligger til Stortinget i behandlingen av statsbudsjettet.
+
+*Tredje ledd* gjelder alle private universiteter og høyskoler. Bestemmelsen regulerer hvordan tilskudd og egenbetaling fra studentene lovlig kan brukes i drift. Bestemmelsen gjelder på generelt grunnlag, og innebærer at alle former for disposisjoner er omfattet. At tilskudd og egenbetaling skal benyttes til den akkrediterte utdanningen, innebærer at bruken må vurderes opp mot den aktuelle akkrediteringen. I hvilken grad bruken bygger opp om det faglige innholdet i utdanningen og hvilke fordeler det vil gi for studenten, vil være relevante vurderingskriterier. Midlene kan benyttes innenfor lovens formål, altså formålet med universitets- og høyskolevirksomhet generelt. Bestemmelsen bygger på et generelt krav om at alle disposisjoner skal skje til markedsmessige vilkår.
+
+*Fjerde ledd* gjelder private høyskoler som mottar statstilskudd. For disse gjelder det generelle vilkåret om at tilskudd og egenbetaling skal komme studentene til gode. At midlene skal komme studentene til gode innebærer for det første krav til bruk til drift av akkreditert utdanning, og et utdelingsforbud. Kravet vil være et selvstendig vilkår og tolkningsmoment for vurdering av ulike disponeringer, som også må vurderes i lys av kravet om at midlene skal komme studentene til gode. Som utdeling regnes for aksjeselskaper enhver overføring av verdier som direkte eller indirekte kommer aksjeeieren til gode. Verdien skal beregnes etter virkelig verdi på dagen for overføringen. Fjerde ledd gjelder også stiftelser. Det innebærer at en stiftelse som mottar tilskudd ikke kan dele ut stiftelsens midler, selv om dette er fastsatt i vedtektene. Utdelingsforbudet gjelder for hele rettssubjektet, og også for annen virksomhet enn akkreditert utdanning som drives i samme rettssubjekt. Utdelingsforbudet gjelder alle former for overføring av verdier til eier eller eiers nærstående, også konsernbidrag. Utdelingsforbudet gjelder generelt, noe som blant annet innebærer at utdelingsforbudet vil gjelde tilsvarende ved fusjon, fisjon, salg, og andre endringer av virksomheten. Utdelingsforbudet gjelder også ved avvikling av virksomheten. Ved avvikling av private universiteter og høyskoler organisert som aksjeselskap, kan en andel av likvidasjonsutbyttet tilsvarende innskutt egenkapital tilfalle eierne. Verdien skal beregnes etter virkelig verdi på dagen for avviklingen.
+
+*Femte ledd* gjelder private høyskoler som ikke mottar statlig tilskudd. Disse høyskolene har ikke anledning til å foreta utdelinger som medfører at egenkapitalen i aksjeselskapet eller stiftelsen blir lavere enn 20 prosent av de totale eiendelene. Begrensningen er en nedre grense for når det kan foretas utdelinger fra virksomheten. Siden alle private høyskoler skal være organisert som aksjeselskap eller stiftelse, gjelder også aksjelovens eller stiftelseslovens bestemmelser om utdelinger. Vurderingen av om det skal fortas utdeling for øvrig må gjøres i tråd med alminnelige selskapsrettslige regler og det alminnelige ansvaret til styret, og dermed være forsvarlig etter en helhetsvurdering. Utdelingsbegrensningen gjelder i tillegg til de begrensninger som følger av aksje- og stiftelseslovgivningen.
+
+*Sjette ledd* gir departementet hjemmel til å i forskrift fastsette nærmere vilkår for statstilskudd. Departementet kan fastsette vilkår ved tildelingen av tilskuddet, også krav til dokumentasjon, rapportering og kontroll. Videre kan departementet fastsette bestemmelser om gjennomføring av søknadsbehandling, slik som krav til søknaden, søknadsfrister mv. I forskrift kan det også fastsettes nærmere vilkår om egenbetaling og tilbakeføring av tilskudd ved avvikling av private institusjoner som har mottatt slikt tilskudd.
+
+*§ 5-2.* Avtaler med nærstående
+
+Private universiteter og høyskoler kan ikke overfor nærstående gjennomføre avtaler eller på annen måte overføre midler på vilkår som avviker fra det som ville vært fastsatt mellom uavhengige parter.
+
+Institusjonen skal kunne dokumentere at det ikke er gjennomført avtaler i strid med første ledd.
+
+Hvis departementet ber om det, skal nærstående til private universiteter og høyskoler gi departementet innsyn i dokumentasjon om avtaler som nevnt i første ledd.
+
+Departementet kan gi forskrift om avtaler med nærstående, herunder hvem som regnes som nærstående og krav om dokumentasjon.
+
+Merknad:
+
+Bestemmelsen viderefører gjeldende rett.
+
+*Første ledd* presiserer at det alminnelige kravet om at handel med nærstående ikke skal avvike fra det som ville vært fastsatt mellom uavhengige parter, gjelder for private universiteter og høyskoler. Det er et alminnelig krav om at handel skal skje på markedsmessige vilkår, uavhengig av om institusjonen får statstilskudd eller ikke, og uavhengig av organisasjonsform. Hvem som er nærstående inkluderer, men er ikke begrenset til, de som er oppregnet i aksjeloven eller stiftelsesloven. Departementet kan fastsette forskrift med nærmere regulering av hvem som er nærstående etter denne bestemmelsen. Kravet om at avtaler ikke skal avvike fra det som ville vært fastsatt mellom uavhengige parter gjelder generelt, for alle disposisjoner som innebærer overføring av verdier. Dette kan være, men er ikke begrenset til, handel med varer og tjenester, sikkerhetsstillelse, pantsettelse eller lån. Prinsippet er generelt, det innebærer at det gjelder i drift og ved avvikling av virksomheten. Det vil også gjelde ved fusjon, fisjon, omdanning og lignende omstruktureringer av virksomheten.
+
+*Andre ledd* regulerer private universiteter og høyskolers plikt til å dokumentere handel med nærstående, og institusjonenes plikt til å dokumentere at slike avtaler er gjennomført på markedsmessige vilkår, gjennom for eksempel grunnlaget for prisfastsettelse. Dette kan være kontrakter, vurderinger av takstmann eller annen uavhengig ekspert eller lignende. Videre kan det omfatte eventuelle nedtegninger fra forhandlinger, dokumentasjon på at motytelse faktisk er ytt i den grad eller størrelse som foreskrevet i kontrakt, eller annet. Det er institusjonen som er nærmest til å skaffe underlagsdokumenter som viser at en avtale er gjennomført på markedsmessige vilkår, i form av for eksempel erklæringer, uavhengige vurderinger, sammenlignbare priser, tidligere kontrakter om samme ytelse eller lignende. Mangelfull dokumentasjon fra en institusjon vil kunne gi grunnlag for vedtak om reaksjoner etter § 5-6 til § 5-10.
+
+*Tredje ledd* pålegger nærstående til private universiteter eller høyskoler en plikt til å gi innsyn i regnskapsmateriale eller annen dokumentasjon om avtaler med den akkrediterte institusjonen.
+
+*Fjerde ledd* gir departementet hjemmel til å fastsette forskrift om handel med nærstående. Dette kan inkludere presisering av krav til dokumentasjon av handel med nærstående, nærmere avgrensning av hvem som er å regne som nærstående part med mer.
+
+*§ 5-3.* Tilsyn
+
+Departementet fører tilsyn med private universiteter og høyskoler.
+
+Private universiteter og høyskoler plikter å bistå under tilsynet. De skal gi opplysninger som kan ha betydning for oppfyllelse av krav gitt i eller i medhold av denne loven. Departementet kan kreve at institusjonen dokumenterer og redegjør for slike opplysninger, for eksempel ved å utlevere eller sammenstille regnskapsmateriale med bilag, korrespondanse og styreprotokoller. Tilsynsmyndigheten skal få adgang til de lokalene institusjonen disponerer.
+
+Tilsynsmyndigheten kan kreve at revisor og regnskapsfører utleverer opplysninger etter andre ledd uten hinder av lovbestemt eller avtalt taushetsplikt.
+
+Departementet kan gi forskrift om institusjonens plikt til å bistå under tilsynet, blant annet om hvordan opplysninger skal gis, og om adgang til institusjonens lokaler.
+
+Merknad:
+
+Bestemmelsen viderefører gjeldende rett.
+
+*Første ledd* fastsetter at det er departementet som er tilsynsmyndighet for private universiteter og høyskoler. Dette omfatter både private institusjoner som mottar statlig tilskudd, og private institusjoner som ikke mottar statlig tilskudd. Departementet kan delegere oppgaven som tilsynsmyndighet til et underliggende organ.
+
+*Andre ledd* regulerer de private universitetene og høyskolenes plikt til å bistå under tilsynet, inkludert skaffe nødvendig dokumentasjon og gi adgang til lokaler. Plikten er generell og omfatter alle mulige måter å gi tilgang på dokumentasjon og lokaler på.
+
+*Tredje ledd* fastsetter at den lovbestemte eller avtalte taushetsplikten for revisor og regnskapsfører ikke gjelder ovenfor tilsynsmyndigheten for opplysninger etter andre ledd. Bestemmelsen opphever den lovbestemte taushetsplikten i tilfeller hvor tilsynsmyndighet ønsker tilgang til dokumentasjon etter andre ledd.
+
+*Fjerde ledd* fastsetter at departementet kan gi forskrift om tilsyn, inkludert om hvordan opplysninger skal gis, tilgang til institusjonens ledere og ansatte, samt om adgang til institusjonenes lokaler under tilsynet.
+
+*§ 5-4.* Rapportering
+
+Private universiteter og høyskoler skal rapportere regnskapsinformasjon og sammenstilte data om studietilbud, studenter og personale til departementet.
+
+Private universiteter og høyskoler må gi særskilt melding til departementet ved fusjon, fisjon, salg, omdanning og avvikling av virksomheten. De skal melde fra før slike endringer gjennomføres.
+
+Departementet kan gi forskrift om private institusjoners rapporteringsplikt og meldeplikt, hva rapporteringer skal inneholde, og formkrav.
+
+Merknad:
+
+Bestemmelsen viderefører gjeldende rett.

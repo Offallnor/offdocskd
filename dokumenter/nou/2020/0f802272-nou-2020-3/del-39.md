@@ -1,874 +1,348 @@
-# NOU 2020: 3, del 39 av 42 (side 423–432)
+# NOU 2020: 3, del 39 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 423]
+Studentombudet skal gi studenter råd og hjelp i saker knyttet til studiesituasjonen og bidra til at studentenes rettigheter og plikter ivaretas på best mulig måte.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-av vitenskapelige eller pedagogiske kvalifikasjoner vil være personlig egnethet, se statsansatteloven § 3. Slike opplysninger kan komme frem av
-prøveforelesning eller andre prøver, intervju,
-sjekk av referanser med videre.
-I praksis brukes uttrykket «innstilling» ofte
-om nokså forskjellige nivåer i beslutningshierarkiet i en ansettelsesprosess. For eksempel brukes
-ordet «innstilling» om den sakkyndige komitéens
-bedømming, men også om innstilling fra instituttnivå til fakultetsnivå. I tillegg brukes uttrykket
-«innstilling» om ansettelsesutvalgets vedtak, og er
-det denne bestemmelsen handler om. Ansettelsesutvalgets vedtak er i praksis ofte basert på de vurderingene som er fremlagt i de foregående nivåene av innstillinger.
-Første ledd, tredje setning slår fast at hovedregelen er at det skal gjennomføres intervju,
-prøveforelesninger eller andre prøver. Det er kun
-adgang til å fravike dette kravet dersom det er
-åpenbart unødvendig fordi søkeren allerede har
-fremvist sine pedagogiske eller personlige egenskaper ved tidligere undervisning, prøveforelesning eller intervju. Kravet i tredje setning er en
-skjerpelse fra tredje setning i dagens lov § 6-3,
-som hadde ordlyden «ansettelsesorganet kan
-avgjøre at det i tillegg skal gjennomføres intervju,
-prøveforelesninger eller andre prøver». Presiseringen av hovedregelen anses nødvendig for å
-fremheve kvalifikasjonsprinsippet og alle de sider
-som skal testes før det lages en innstilling.
-Første ledd, fjerde setning: Hjemmelen for å
-unnta kravet om sakkyndig vurdering av undervisnings- og forskerstillinger som ikke er førstestillinger eller professorstillinger kom inn i universitetsloven av 1995 ved lov 28. juni 2002 nr. 62.
-Dette er eksempelvis stillinger som høgskolelærer, postdoktor, stipendiat, vitenskapelig assistent og spesialistkandidat.
-I forarbeidene er regelen begrunnet med at
-det ikke er behov for sakkyndig bedømming for
-timebetalt personale som bare har undervisningsplikter, se Ot.prp. nr. 40 (2001–2002) kap. 12,
-punkt 12.1.8, merknad til § 30 nr. 4 s. 49. Regelen
-er en kan-regel, det vil si at det ikke er forbudt å
-foreta en sakkyndig bedømmelse dersom det er
-ønskelig.
-Første ledd, femte setning: Regelen presiserer
-betydningen av pedagogiske kvalifikasjoner for en
-ansettelse i en undervisnings- og forskerstilling.
-Det vil være relevant å kreve gjennomført pedagogisk basisopplæring, men også annen dokumentert pedagogisk erfaring kan være relevant.
-Første ledd, sjette setning: Styret kan gi nærmere regler om bedømmelsen. Slike regler kan
-
-421
-
-Kapittel 39
-
-ikke gå utenfor de rammene som departementet
-har gitt for fremgangsmåten og kriterier for tilsetting eller opprykk i undervisnings- og forskerstilling, jf. sjette ledd.
-Andre ledd: Regelen sikrer at sakkyndige komitéer består av representanter av begge kjønn. Dette
-kan for det første bidra til at høyt kompetente fagpersoner av underrepresentert kjønn blir forespurt
-om å delta i komitéarbeid. For det andre kan
-kjønnsbalanse i en komité bidra til mer helhetlige
-faglige vurderinger. I tilfelle det ikke er praktisk
-mulig å finne kandidater av begge kjønn vil ikke
-kravet kunne oppfylles. I eventuell klagesak må det
-eksempelvis kunne kreves dokumentasjon for
-hvilke undersøkelser som er gjort og om aktuelle
-kandidater av begge kjønn har vært forespurt.
-Tredje ledd: Bestemmelsen viderefører dagens
-lov § 6-3 femte ledd. Styret selv bestemmer hvem
-som skal innstille og fastsetter nærmere regler
-om innstilling med mer. I den grad styret ikke har
-fastsatt nærmere regler om innstilling, gjelder
-reglene om innstillingsprosesser i tråd med
-statsansattelovens regler. Forvaltningslovens
-regler om habilitet med videre kommer også til
-anvendelse. Styrene ved universiteter og høyskoler har her fått stor grad av frihet til å lage
-regler om egen ansettelsesprosess begrunnet i de
-kvalitetssikringshensyn som må tas ved ansettelse
-i undervisnings- og forskerstillinger, se Ot.prp. nr.
-85 (1993–94) s. 61.
-§ 11-4. Ansettelse i undervisnings- og forskerstillinger
-Ansettelse i undervisnings- og forskerstillinger
-foretas av styret, eller etter styrets beslutning av
-underordnet organ eller ett eller flere ansettelsesutvalg.
-Styret selv skal fastsette sammensetningen av
-ansettelsesutvalg for undervisnings- og forskerstillinger. Studentene skal være representert i
-ansettelsesorganet, hvis ikke styret enstemmig
-bestemmer noe annet.
-Det skal legges vekt på likestillingshensyn ved
-ansettelse.
-Departementet kan gi forskrift om fremgangsmåte og kriterier for ansettelse eller opprykk i
-undervisnings- og forskerstilling.
-Merknad:
-Bestemmelsen viderefører dagens lov § 6-3 første
-ledd og tredje ledd sjette setning.
-Første ledd: Bestemmelsen sier at styret skal
-foreta ansettelser i undervisnings- og forskerstillinger, men styret har også mulighet til å
-
-[Side 424]
-
-422
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-bestemme ved delegasjon at et ansettelsesutvalg,
-eller flere dersom institusjonen har valgt det, kan
-foreta slik ansettelse. At styret skal foreta ansettelser, må leses som «vedtak i ansettelsessak». Vedtak i ansettelsessak gjelder både vedtak om å
-ansette en søker, men også vedtak om ikke å
-ansette en person. Begge typer vedtak skal styret,
-eventuelt et ansettelsesutvalg, ta stilling til.
-Det er presisert i Statens Personalhåndbok at
-det er viktig å være oppmerksom på at en søker
-som mener seg forbigått på et usaklig grunnlag vil
-kunne reise sak for domstolene. Søksmål bør reises innen rimelig tid etter at ansettelsesvedtaket
-ble gjort kjent for vedkommende, men det løper
-ingen formell søksmålsfrist, jf. tvisteloven § 1-3
-andre ledd. Dersom det går svært lang tid, vil retten kunne komme til at saksøker ikke (lenger) har
-rettslig interesse i å få prøvd saken. Selv om saksøker skulle få dom for at ansettelsesvedtaket var
-ugyldig, vil det ikke få noen betydning for den
-søkeren som ble ansatt i stillingen. Er vilkårene
-oppfylt, vil saksøker imidlertid kunne bli tilkjent
-erstatning for det tap vedkommende må ha lidt.
-Andre ledd: Ansettelsesutvalget for ansettelser
-i undervisning- og forskerstillinger vil som regel
-bestå av representanter fra arbeidsgiver, de
-ansatte og studentene. Men bestemmelsen åpner
-for at et enstemmig styre kan bestemme at studentene ikke skal være representert.
-Tredje ledd: Regelen viderefører dagens lov
-§ 6-3 tredje ledd sjette setning og pålegger ansettelsesorganet å alltid foreta en likestillingsvurdering ved en ansettelse.
-Fjerde ledd: Bestemmelsen viderefører dagens
-lov § 6-3 sjette ledd. Departementet kan gi forskrift om fremgangsmåte og kriterier for ansettelse eller opprykk i undervisnings- og forskerstilling. Bestemmelsen sikrer at det er nasjonale
-regler om bedømmelsen av søknader om opprykk
-til professorstillinger for å sikre at det ikke er ulikheter i praksis i forhold til kravene til vitenskapelig og pedagogisk kompetanse, se Ot.prp. nr. 85
-(1993–94) s. 61.
-
-b) vedkommende, etter ansettelsesmyndighetens
-vurdering, har forutsetninger for å skaffe seg
-de nødvendige kvalifikasjoner i løpet av ansettelsesperioden.
-Ansettelsesmyndigheten skal fastsette ansettelsesperioden, som ikke må vare over tre år.
-Ansettelsesperioden kan likevel forlenges med
-den tid det tar å få gjennomført en forsvarlig vurdering av vedkommendes kvalifikasjoner, men
-ikke ut over seks måneder. Tidsrommet kan deretter ikke forlenges, og ny tidsbegrenset ansettelse av vedkommende kan heller ikke skje. Ved
-utløpet av ansettelsesperioden har vedkommende
-krav på å bli vurdert for fast ansettelse før stillingen kunngjøres på ny. Blir arbeidstakeren ikke
-funnet kvalifisert til fast ansettelse, må vedkommende fratre uten oppsigelse, selv om ansettelsestiden har vart i mer enn tre år.
-Dersom det ikke har vært mulig å få søkere
-som tilfredsstiller kompetansekravene for ansettelse etter første ledd, og det på grunn av undervisningssituasjonen er helt nødvendig å foreta
-ansettelse, kan det foretas midlertidig ansettelse
-for inntil tre år i og seks måneder i lavere stilling
-som vedkommende tilfredsstiller kompetansekravene til.
-Permisjoner som vedkommende har krav på
-etter lov eller tariffavtale, skal ikke medregnes ved
-beregning av ansettelsesperioden etter første og
-annet ledd.
-Ved statlige universiteter og høyskoler skal
-vikar for arbeidstaker som har permisjon for å
-være valgt eller åremålsansatt leder fratre stillingen uten oppsigelse når stillingens faste innehaver gjeninntrer, selv om vikariatet har vart i mer
-enn tre år. Har vikariatet vart i mer enn tre år, skal
-vedkommende om mulig tilbys annen passende
-stilling i virksomheten. Vikaren har også fortrinnsrett til ansettelse i staten på samme vilkår
-som etter statsansatteloven §§ 19 og 24. Fortrinnsrett til ansettelse i staten inntrer ved fratreden og
-varer inntil to år etter fratreden.
-
-§ 11-5. Midlertidig ansettelse i undervisnings- og forskerstillinger
-Dersom det til fast undervisnings- og forskerstilling ved en høyere utdanningsinstitusjon ikke
-har meldt seg søker som etter fastsatte vilkår eller
-ansettelsesmyndighetens vurdering er klart kvalifisert for fast ansettelse, og det ikke er sannsynlig at
-kvalifisert søker vil melde seg ved ny kunngjøring,
-kan likevel en søker ansettes for begrenset tid når:
-a) muligheten for tidsbegrenset ansettelse er
-nevnt i kunngjøringen, og
-
-Merknad:
-Første ledd: Bestemmelsen viderefører gjeldende
-lov § 6-5. Det foreslås ingen materielle endringer,
-men redaksjonelt er gjeldende lov første ledd delt
-i to, slik at bestemmelsen nå består av fem ledd.
-Den som pendler mellom ulike hjemler for grunnlag for midlertidig ansettelse kan dermed få flere
-påfølgende midlertidige ansettelsesforhold.
-Bestemmelsen åpner for å foreta midlertidige
-ansettelser i undervisnings- og forskerstilling ved
-tilfeller der det til tross for utlysning ikke har lyk-
-
-[Side 425]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-tes med å få klart kvalifisert søker til stillingen.
-Det er i tillegg et vilkår at det ikke er sannsynlig at
-nye søkere vil melde seg dersom det foretas en ny
-kunngjøring. Det er to betingelser som i så fall må
-være oppfylt: Muligheten for midlertidig ansettelse må være nevnt i utlysningsteksten og i tillegg må vedkommende ha forutsetninger for å
-skaffe seg de nødvendige kvalifikasjoner i løpet av
-ansettelsestiden. Dette vil typisk være tilfeller der
-en stipendiat ennå ikke har levert en doktorgrad
-til bedømming, eller det er ikke er publisert tilstrekkelig antall vitenskapelige artikler for å få en
-førsteamanuensiskompetanse, men der innlevering er sannsynlig i løpet av ansettelsesperioden.
-Andre ledd: En ansettelse etter denne bestemmelsen gjelder for en periode på tre år.
-Ved utløp av denne perioden har arbeidsgiver
-plikt til å vurdere om de opprinnelige kvalifikasjonskravene til stillingen ved utlysing nå er oppfylt. Dersom arbeidsgiver har behov for ytterligere tid for å gjennomføre en slik vurdering kan
-det inngås en ny, midlertidig avtale for inntil seks
-måneder. Dersom kvalifikasjonskravene ikke er
-oppfylt må arbeidstaker fratre uten oppsigelse.
-Tredje ledd: Regelen gir universiteter og høyskoler hjemmel til å ansette midlertidig i en lavere
-stilling som en person er kvalifisert til i inntil tre
-år, der det ikke har kommet søkere som tilfredsstiller kompetansekravene etter bestemmelsens
-første ledd. Dette gir institusjonen mulighet til å
-sikre seg lærerkrefter inntil kvalifiserte søkere er
-rekruttert.
-Fjerde ledd: Lovbestemte permisjoner som for
-eksempel foreldrepermisjon, sykepermisjon eller
-permisjon for militærtjeneste skal gå i fradrag ved
-beregning av ansettelsesperioden.
-Femte ledd: Bestemmelsen er en tilrettelegging for det særskilte systemet i universitets- og
-høyskolesektoren der fast ansatte i undervisnings- og forskerstillinger går over i lederstillinger på åremål. Bestemmelsen sier at vikarer som
-er ansatt for personer i slikt åremål, ikke får fast
-ansettelse, selv om ansettelsen varer over tre år.
-Virksomheten har imidlertid en særskilt plikt til
-om mulig, å tilby annen passende stilling i virksomheten i tillegg til regelen om fortrinnsrett i
-staten, i tilfeller der ansettelsen har vart i mer enn
-tre år.
-Ved statlige universiteter og høyskoler skal
-vikar for arbeidstaker som har permisjon for å
-være valgt eller åremålsansatt leder, fratre stillingen uten oppsigelse når stillingens faste innehaver gjeninntrer, selv om vikariatet har vart i mer
-enn tre år. Har vikariatet vart i mer enn tre år, skal
-vedkommende om mulig tilbys annen passende
-
-423
-
-Kapittel 39
-
-stilling i virksomheten. Vikaren har også fortrinnsrett til ansettelse i staten på samme vilkår
-som etter statsansatteloven §§ 19 og 24. Fortrinnsrett til ansettelse i staten inntrer ved fratreden og
-varer inntil to år etter fratreden.
-§ 11-6. Kallelse
-Når særlige grunner taler for det, kan styret
-selv foreta ansettelse i undervisnings- og forskerstillinger uten forutgående utlysning. Slik ansettelse kan ikke foretas hvis mer enn ett medlem av
-styret motsetter seg dette.
-I statlige universiteter- og høyskoler kan styret
-selv i tillegg, når særlige grunner taler for det,
-foreta ansettelse i stilling som prorektor eller
-leder for avdeling og grunnenhet uten forutgående utlysning.
-Merknad:
-Bestemmelsen erstatter dagens lov § 6-3 fjerde
-ledd og for de statlige § 11-1 fjerde ledd. Forslaget
-til ny bestemmelse innebærer ingen realitetsendring i gjeldende rett.
-Regelen åpner for ansettelse uten forutgående
-utlysning, såkalt kallelse. Det er presisert i tidligere forarbeider at dette skal være en unntaksregel og ikke en hovedregel, se Ot.prp. nr. 40
-(2001–2002) kap. 5, pkt. 5.3.4 s. 26. Det er fordi en
-offentlig kunngjøring og åpen rekrutteringsprosess normalt vil bidra til å finne den best kvalifiserte kandidaten. Regelen åpner for at det kan
-være anledninger der ansettelse av en meget
-ettertraktet og kvalifisert kandidat kun er mulig
-dersom stillingen kan tilbys direkte.
-Styret kan foreta ansettelse i undervisningsog forskerstillinger uten forutgående kunngjøring
-når særlige grunner taler for det. Kravet om særlige grunner betyr at styret må kunne gi en velbegrunnet redegjørelse for de særlige grunnene
-som taler for en kallelse.
-Slik ansettelse kan ikke foretas hvis mer enn
-ett medlem av styret motsetter seg dette. Likestillingshensyn kan benyttes for å rekruttere kvalifiserte kvinner fra sektoren, forskningsinstitusjonene, næringsliv og forvaltning, se Ot.prp. nr. 79
-(2003–2004) merknad til § 11-1 tredje ledd og
-fjerde ledd.
-§ 11-7. Ansettelse på åremål
-Ansettelse på åremål kan benyttes for
-a) rektor
-b) prorektor
-c) leder for avdeling og grunnenhet
-d) studentombud
-
-[Side 426]
-
-424
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-e) postdoktorstilling
-f) stipendiat
-g) vitenskapelig assistent
-h) spesialistkandidat
-i) undervisnings- og forskerstilling når skapende
-eller utøvende kunstnerisk kompetanse inngår
-som et vesentlig element i kompetansekravet
-j) stilling på innstegsvilkår
-Åremålsperioden etter første ledd bokstavene a,
-b og c skal være fire år. Ingen kan være ansatt på
-åremål etter bokstavene a og b i en sammenhengende periode på mer enn åtte år, og ikke mer enn
-tolv år etter bokstav c. Når særlige grunner taler for
-det, kan departementet, etter forslag fra styret, fastsette en annen åremålsperiode enn fire år.
-Åremålsperioden for ansatte nevnt i første ledd
-bokstavene d og i kan være fire til seks år. Ingen
-kan være ansatt på åremål etter denne bestemmelsen i en sammenhengende periode på mer enn
-tolv år.
-For stillinger etter første ledd bokstavene e til
-h gir departementet forskrift om varighet, om
-arbeidets omfang og innhold og om adgangen til å
-fornye ansettelsesforholdet. Departementet kan gi
-forskrift om beregning av ansettelsestid for stipendiater etter statsansatteloven § 9. Det ikke er
-adgang til å gi ansettelse til mer enn én periode
-som postdoktor.
-For stillinger etter første ledd bokstav j kan
-departementet gi forskrift om vilkår for å ansette i
-stillingen og om varighet. Oppnås de fastsatte
-kompetansekravene, skal vedkommende ansettes
-i fast stilling ved utløpet av åremålsperioden.
-
-Tredje ledd: Studentombud kan maksimalt ha
-åremålsperioder på mellom fire og seks år, men
-likevel slik at maksimalperioden er tolv år til
-sammen. Regelen sikrer kontinuitet, samtidig
-som tidsbegrensningen sikrer fornyelse når et
-nytt ombud overtar.
-Fjerde ledd: Bestemmelsen gir hjemmel for at
-departementet kan fastsette forskrift om utdanningsstillingene angitt i første ledd bokstav e postdoktor, f stipendiater, g vitenskapelige assistenter,
-og h spesialistkandidater. Utvalget foreslår å lage
-en tilføyelse i siste setning som presiserer at det
-ikke er adgang til å gi ansettelse til mer enn én
-periode som postdoktor. Formålet med denne stillingskategorien er å gi postdoktoren arbeidsoppgaver som gir vedkommende mulighet til å kvalifisere seg til stillingsopprykk. En innskjerping av
-regelen vil bidra til å fokusere på stillingens formål og oppfyllelsen av dette. Flere påfølgende åremålsperioder for en ansatt i postdoktorstilling
-støtter ikke opp under formålet med denne stillingskategorien.
-Femte ledd: Bestemmelsen gir hjemmel for at
-departemntet kan gi forskrift om vilkår for innstegsstillinger.
+Studentombudet skal bidra til at saker kan løses nærmest der de oppstår, men har ikke selv myndighet til å avgjøre saker. Studentombudet kan selv avgjøre om vedkommende vil bistå en student i en sak eller ikke.
 
 Merknad:
 
-Merknad:
+*Første ledd* fastsetter at det er styret som har ansvaret for at alle studenter har tilgang til et studentombud. Dette er en videreføring av gjeldende rett. Det er ikke noe krav om at studentombudet skal være fysisk tilgjengelig ved den enkelte institusjon, og det er også mulig for institusjonene å samarbeide om å ha et ombud. Men når det er store studentmasser kan det være en fordel at det ikke bare er ett studentombud ved institusjonen. Tilgang til et studentombud er ikke minst viktig for at studentene lett skal kunne søke råd i saker av sensitiv art, slik som saker om seksuell trakassering.
 
-Bestemmelsen viderefører gjeldende lov § 6-4.
-Det er foretatt en innskjerping av bestemmelsen
-ved at det presiseres i fjerde ledd at postdoktorstillingen kun kan innehas i én periode.
-Første ledd: Bestemmelsen angir i punkt a-j en
-uttømmende liste over de typer stillinger der åremål kan benyttes.
-Andre ledd: Bestemmelsen angir åremålsperioden for lederstillinger angitt i bokstav a rektor, b
-prorektor og c leder for avdeling og grunnenhet,
-som er på fire år. Rektor og prorektor kan maksimalt ha to sammenhengende perioder, mens leder
-for avdeling og grunnenhet kan ha inntil tre påfølgende perioder. Regelen sikrer kontinuitet i lederskapet samtidig som tidsbegrensningen sikrer
-fornyelse når en ny leder overtar etter endt
-periode. En prorektor overtar hvis rektor har forfall eller fratrer vervet i løpet av det siste året av
-funksjonstiden.
+*Andre ledd* fastsetter at studentombudet skal være en uavhengig bistandsperson og ikke kan instrueres i sitt virke. I henhold til gjeldende rett er det opp til institusjonene å fastsette mandat for studentombudet. Siden ombudet ikke kan instrueres av utdanningsinstitusjonen, er det ikke naturlig at styret ved institusjonen fastsetter mandatet. Studentombudets mandat er tatt inn i bestemmelsen, se tredje ledd.
 
-Bestemmelsen viderefører dagens lov § 6-6.
+*Tredje ledd* inneholder mandatet til studentombudet. Et studentombud skal bidra til at studentenes rettigheter og plikter ivaretas av utdanningsinstitusjonene på en best mulig måte og gi studentene råd og hjelp.
 
-§ 11-8. Særregler for visse typer bistillinger
-Det kan benyttes midlertidig ansettelse i inntil
-20 prosent av undervisnings- og forskerstilling.
-Det kan ansettes på åremål i bistilling. Åremålsperiodene kan være fra to til seks år. Departementet kan gi forskrift om varighet og om vilkår
-for fratredelse.
+*Fjerde ledd* fastsetter at studentombudet skal bidra til at saker kan løses der de oppstår, men studentombudet har ikke selv myndighet til å avgjøre saker som involverer studenter. Det er også opp til studentombudet om han eller hun ønsker å bistå en student i en sak.
 
-§ 11-9. Enerett til bruk av visse stillingstitler
-Stillingsbetegnelsen professor kan bare benyttes om stillinger på høyeste vitenskapelige eller
-kunstneriske nivå ved universiteter og høyskoler
-som har akkreditering som institusjon eller for
-enkeltstudier etter denne loven. Departementet
-kan gi forskrift om at andre titler på undervisnings- og forskerstillinger skal gis tilsvarende
-beskyttelse.
-Såfremt NOKUT bekrefter at en annen institusjon, som ikke kommer inn under denne loven, tilbyr høyere utdanning og utfører forskning eller
-kunstnerisk utviklingsarbeid av tilsvarende nivå
-på ett eller flere fagfelt, kan departementet
-bestemme at professortittelen og annen beskyttet
-tittel kan benyttes ved institusjonen. Bedømmelsen av kvalifikasjonene skal i det vesentlige være
+*§ 7-7.* Tilsyn med læringsmiljøet
 
-[Side 427]
+Arbeidstilsynet skal føre tilsyn med at kravene i § 7-3 overholdes. Arbeidsmiljøloven kapittel 18 gjelder så langt det passer.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Direktoratet for forvalting og IKT skal føre tilsyn med det digitale læringsmiljøet.
 
-den samme som ved en institusjon som går inn
-under denne loven.
-Den som har hatt stilling med vernet tittel
-etter første ledd i minst ti år, eller som etter kortere tjenestetid blir pensjonert fra slik stilling, har
-rett til å bruke tittelen.
-Den som er avskjediget eller fradømt sin stilling, har ikke rett til å bruke vernet tittel.
-Den som forsettlig eller uaktsomt bruker en
-vernet tittel, alene eller som del av en tittel, kan
-straffes med bøter.
-Merknad:
-Bestemmelsen viderefører dagens lov § 6-7. Det
-foreslås ingen materielle endringer.
-Første ledd, første setning: Tittelen «professor»
-kan brukes om innehavere av stillinger hvor det
-er krav om høyeste vitenskapelig kompetanse
-eller kunstnerisk nivå, og om personer ansatt i fast
-vitenskapelig stilling og som etter kompetansebedømming er gitt avlønning som professor, jf.
-opprykksreglene.
-Andre setning: Bestemmelsen gir departementet anledning til å gi andre stillingskategorier vern
-i tilfelle institusjoner utenfor lovens område skulle
-ta i bruk tilsvarende stillingstitler som benyttes
-under lovens område, og der den nye tittelbruken
-ikke samsvarer med kompetanse og funksjoner
-hos innehavere av slike stillinger. Dette vil eksempelvis kunne gjelde titler som førsteamanuensis
-og høyskolelektor.
-Andre ledd: Annen institusjon som ikke hører
-under loven vil typisk gjelde instituttsektoren som
-er arbeidsgiver for en rekke personer med faglig
-kompetanse på høyeste nivå. Institusjonene må
-søke NOKUT om tillatelse til å benytte professortittel og andre beskyttede titler. Se Ot.prp. nr. 85
-(1993–94) s. 81.
-Tredje ledd: Tittelen benyttes for å beskrive
-faglig kompetanse på høyeste nivå. I praksis oppfattes tittelen også som et uttrykk for varig tilknytning til det faglige og vitenskapelige miljøet
-ved institusjonen også etter at vedkommende er
-gått av med pensjon og over i stilling som professor emeritus. Bestemmelsen skiller ikke mellom
-heltids- og deltidsansatte (II-stilling). Begrunnelsen for 10-års-regelen er at ansettelsesforhold av
-kortere varighet ikke representerer et så sterkt
-og varig tilknytningsforhold til stillingen at det
-berettiger en livsvarig stillingstittel. Motsatt er
-det vurdert slik at den som pensjoneres fra en
-slik stilling uten at vedkommende har hatt stillingen i mer enn ti år, ofte vil ha hatt en langvarig
-relasjon til institusjonen samtidig som det ofte er
+NOKUT skal føre tilsyn med institusjonens arbeid med læringsmiljøet og at dette inngår som en del av institusjonens interne system for kvalitetssikring.
 
-425
-
-Kapittel 39
-
-mulighet for videre samarbeid etter pensjonsalder.
-Fjerde ledd: Regelen handler om tilfeller der en
-ansatt får avskjed fra sin stilling som følge av grovt
-klanderverdig forhold. Fradømmelse av stilling
-og avskjed ved dom følger Grunnlovens regler og
-er bare aktuelt for professorer utnevnt før
-1. januar 1990 som er embetsmenn etter universitetsloven 1995 § 60 og tjenestemannsloven 1983
-§ 17 nr. 1 første setning. Begrunnelsen for regelen
-er at tittelen professor representerer faglig kompetanse på høyeste nivå, inkludert etiske krav. Tittelen er beskyttet nettopp for å ivareta hensynet til
-at offentligheten skal ha særlig grunn til å ha tillit
-til at uttalelser fra professorer skal ha høyt faglig
-nivå og som representerer universiteter og høyskoler. Når noen får avskjed, er det utført
-handlinger av så grov karakter at lovgiver har vurdert at vedkommende ikke kan fortsette å bruke
-tilliten. Vedkommende professor som har fått
-avskjed eller er fradømt sin stilling, vil ikke kunne
-titulere seg som professor. En person som imidlertid er oppsagt fra sin stilling som professor,
-enten på grunn av arbeidstakers forhold eller
-arbeidsgivers forhold, vil kunne titulere seg som
-professor emerita/emeritus. Vilkåret da er at vedkommende har hatt stillingen i mer enn ti år, jf.
-tredje ledd.
-Femte ledd: Bestemmelsen gir departementet
-hjemmel til å ilegge bøter ved rettstridig bruk av
-vernet tittel.
-§ 11-10. Særskilte ansettelsesbestemmelser for statlige universiteter og høyskoler
-Styret ansetter avdelingsledere og administrativ leder dersom styret vedtar å opprette slike stillinger.
-Styret kan fastsette at avdelingsleder skal
-ansette leder for grunnenhet, hvis denne skal
-ansettes.
-Ansettelser av prorektor og leder for avdeling
-og grunnenhet skal skje på grunnlag av innstilling fra et innstillingsutvalg. Styret selv skal fastsette innstillingsutvalgets sammensetning med
-mer. Studentene skal være representert i innstillingsutvalget, hvis ikke styret enstemmig
-bestemmer noe annet.
-Ansettelse i teknisk eller administrativ stilling
-skjer i ansettelsesråd oppnevnt etter reglene i
-statsansatteloven. Styret bestemmer om det skal
-være ett eller flere ansettelsesråd ved institusjonen.
-Hvis styret ansetter i en annen administrativ
-stilling enn nevnt i tredje ledd, skal dette skje etter
-innstilling fra rektor.
-
-[Side 428]
-
-426
-
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Departementet kan gi forskrift om krav til læringsmiljøet, om tilsyn med læringsmiljøet og om institusjonens plikter vedrørende tilrettelegging for et godt og inkluderende læringsmiljø og ivaretakelse av studentene i deres studiesituasjon.
 
 Merknad:
-Bestemmelsen viderefører dagens lov § 11-1. Det
-er styret som beslutter hvordan den administrative ledelsen skal være, herunder om det skal
-være en administrerende direktør eller flere
-direktører. Utvalget har derfor ikke tatt med disse
-lederstillingene i lovens tekst. Det foreslås imidlertid å slette dagens lov 11-1 fjerde ledd fordi
-denne gjentar reglen i § 11-5.
-Første ledd: Bestemmelsen benytter her begrepet administrativ leder også om eventuelle direktører. Styret vedtar om virksomheten skal ha avdelingsledere.
-Andre ledd: Bestemmelsen gir styret mulighet
-til å delegere til avdelingsleder å ansette leder for
-grunnenhet.
-Tredje ledd: Kvalifikasjonskravene til stillingene
-vil avhenge av institusjonens behov. Se Ot.prp. nr.
-40 (2001–2002) kap. 12, merknader til universitetsloven 1995 § 30a nr. 1 s. 49. I tråd med utvalgets
-flertalls forslag om å utelate stillingen administrerende direktør fra lovteksten i ny § 11-6, er begrepet «administrerende direktør» utelatt også her.
-Fjerde ledd: Regelen presiserer hovedregelen
-om at ansettelse av personer som ikke ansettes i
-vitenskapelige undervisnings-, forsker- og utdanningsstillinger, jf. Hovedtariffavtalen i staten
-Lønnsplan 17.510 og 17.515, følger reglene i statsansatteloven.
-Femte ledd: Bestemmelsen sier hvem som innstiller til en administrativ stilling som nevnt i
-tredje ledd. Det er rektor som innstiller til stillingene prorektor, leder for avdeling og grunnenhet
-og administrerende direktør.
-§ 11-11. Avskjed, oppsigelse, suspensjon eller ordensstraff ved statlige universiteter og høyskoler
-Det er ansettelsesorganet som selv avgjør sak
-om avskjed, oppsigelse, suspensjon eller ordensstraff i tråd med reglene i statsansatteloven § 30
-første ledd.
-Klage over vedtak som nevnt i første ledd
-avgjøres av departementet når vedtaket er fattet
-av styret, og ellers av styret selv.
+
+*Første ledd* viderefører gjeldende rett om at Arbeidstilsynet fører tilsyn ved universiteter og høyskoler. De fleste av disse tilsynene har til nå vært rettet mot de ansatte og deres arbeidsmiljø, men omfatter også studenter og deres arbeidsmiljø når de er i praktisk opplæring. Et typisk eksempel på dette er når Arbeidstilsynet gjennomfører tilsyn knyttet til arbeid på laboratorier og håndtering av kjemikalier og biologiske stoffer (kjemisk og biologisk helsefare). Her er også inneklima og luftkvalitet et aktuelt tema. Det har særlig vært tilsyn med virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid og rutiner for kartlegging, risikovurdering, opplæring, rutiner med mer også ivaretar studentene når de er i praktisk opplæring.
+
+*Andre ledd* er en ny bestemmelse siden utdanning og opplæring tidligere har vært unntatt fra de eksplisitte kravene til universell utforming av IKT. Likestillings- og diskrimineringsloven endret dette ved at § 18 fastslår at alle nye nettløsninger rettet mot studentene må være universelt utformet. Eksisterende nettløsninger rettet mot studentene skal være universelt utformet fra og med 2021. Dette vil berøre blant annet nettsider, e-læringsplattformer, dokumenter, digital eksamen og apper. Universell utforming av IKT i utdanningen er svært viktig for at alle skal kunne gjennomføre studier. Det er Direktoratet for forvaltning og ikt (Difi) som skal føre tilsyn med at universiteter, høgskoler og fagskoler følger kravene i lov og forskrift, og den standarden som er valgt for universell utforming av IKT. Denne standarden heter WCAG 2.0.
+
+*Tredje ledd* er en ny bestemmelse hvor det foreslås at NOKUT også skal føre tilsyn med institusjonens arbeid med læringsmiljø. NOKUT fører allerede i dag tilsyn med institusjonene, og forslaget er en naturlig forlengelse av NOKUTs ordinære tilsyn med institusjonens interne system for kvalitetssikring.
+
+*Fjerde ledd,* som gir departementet hjemmel til å gi forskrift, er en videreføring av gjeldende rett. Hjemmelen er foreløpig ikke benyttet av departementet.
+
+*§ 7-8.* Læringsmiljøutvalg
+
+Universiteter og høyskoler skal ha et læringsmiljøutvalg. Læringsmiljøutvalget skal bidra til at bestemmelsene i dette kapittelet blir gjennomført, og sikre studentenes medvirkning i alle prosesser som berører læringsmiljøet.
+
+Studentene og institusjonen skal ha like mange representanter hver i utvalget. Utvalget velger leder vekselvis blant institusjonens og studentenes representanter annethvert år.
+
+Studentsamskipnaden skal ha observatørstatus i læringsmiljøutvalget.
+
 Merknad:
-Bestemmelsen viderefører dagens lov § 11-3.
-Overskriften har fått tillegget ved statlige universiteter og høyskoler for å presisere at dette bare gjelder statlige institusjoner.
-Første ledd: Ansettelsesorganet avgjør om det
-skal gis avskjed, oppsigelse, suspensjon eller
-ordensstraff, jf. statsansatteloven § 30.
 
-Andre ledd: Bestemmelsen sier hvem som er
-klageinstans for vedtak som er truffet av ansettelsesorganet, jf. § 11-9 første ledd, der vedtak er
-truffet etter reglene i universitets- og høyskoleloven. Forvaltningslovens regler om enkeltvedtak gjelder ved avgjørelse om oppsigelse, suspensjon, avskjed og ordensstraff, se forvaltningsloven § 2 andre ledd, jf. § 3 andre ledd andre setning.
-§ 11-12. Likestilling
-Universiteter og høyskoler skal arbeide aktivt,
-målrettet og planmessig for likestilling mellom
-kjønnene for samtlige kategorier av stillinger ved
-institusjonen.
+*Første ledd* viderefører kravet om å opprette et læringsmiljøutvalg, men med enkelte endringer i forhold til gjeldende rett. Læringsmiljøutvalget skal bidra til at bestemmelsene i kapitlet om læringsmiljø blir gjennomført.
+
+*Andre ledd* gir institusjonene større mulighet til å bestemme organiseringen av læringsmiljøutvalgene, blant annet fordi institusjonene har forskjellige størrelser, utfordringer og behov, som vanskelig kan reflekteres i loven. Det er derfor opp til institusjonene selv, i dialog med studentene, å bestemme organiseringen av utvalget, da dette i størst mulig grad bevarer institusjonens autonomi. Lovforslaget er ikke til hinder for at det kan opprettes lokale (under)læringsmiljøutvalg hvor institusjonen har flere geografisk adskilte undervisningssentre. Lovforslaget viderefører 50–50-fordelingen mellom studentene og institusjonene i sammensetningen av utvalget, og leder velges vekselsvis blant institusjonens ansatte og studentenes representanter annethvert år.
+
+*Tredje ledd* er en ny bestemmelse og fastsetter at studentsamskipnadene skal ha observatørstatus i læringsmiljøutvalget. Dette vil sikre nasjonal likhet blant studentsamskipnadene når det gjelder innsyn i læringsmiljøutvalgenes virksomhet.
+
+*§ 7-9.* Studentorgan
+
+Studentene kan opprette et studentorgan for å ivareta studentenes interesser og fremme studentenes synspunkter overfor institusjonens styre. Tilsvarende kan studenter ved den enkelte avdeling eller grunnenhet opprette et studentorgan for denne.
+
+Det skal avholdes valg blant studentene til organet som er nevnt i første ledd.
+
+Institusjonen skal legge forholdene til rette slik at studentorganene kan drive sitt arbeid på en tilfredsstillende måte. Det skal være dialog om omfanget av tilretteleggingen mellom institusjonen og det øverste studentorganet, og tiltakene skal fremgå av et skriftlig dokument utformet av institusjonen. Institusjonen skal vederlagsfritt stille egnede lokaler og nødvendig utstyr til rådighet for studentorganene.
+
+Studentorganene skal høres i alle saker som angår studentene på det aktuelle nivå. Institusjonen skal sende saker som berører studentinteresser på høring til studentorganene så god tid i forveien at studentorganene har mulighet til å behandle og uttale seg om dem.
+
 Merknad:
-Bestemmelsen viderefører dagens lov § 6-2.
-Bestemmelsen har selvstendig betydning for
-administrative stillinger, siden lovforslaget § 11-4
-tredje ledd bare gjelder direkte for undervisningsog forskerstillinger. Det er naturlig å lese bestemmelsen i sammenheng med lovforslaget § 1-1 bokstav c, som sier at universiteter og høyskoler skal
-bygge virksomheten på og utbre forståelse og
-respekt for menneskeverdet, åndsfrihet, likeverd,
-likestilling, demokrati og rettsstatens prinsipper.
-Kravene om aktivt og systematisk arbeid for å
-sikre likestilling følger også av likestillings- og diskrimineringsloven og er ytterligere presisert der.
-Utvalget velger å videreføre dagens lovgivningsteknikk der likestillingshensynet fortløpende er
-inntatt i ansettelsesreglene i universitets- og høyskoleloven. Det er fordi sektoren fortsatt har
-behov for en påminnelse om å arbeide systematisk for å nå målsettingen om likestilling, og sektorens særlige ansvar for å arbeide for likestilling i
-sin virksomhet.
-Kapittel 12 Institusjonens klagenemnd og
-nasjonale klageorgan
-§ 12-1. Lokal klagenemnd ved institusjonen og særskilte nasjonale klageorganer
-Universiteter og høyskoler skal opprette en
-lokal klagenemnd ved institusjonen som skal
-behandle klager over enkeltvedtak og, etter styrets bestemmelse, andre klagesaker for studentene. Flere institusjoner kan opprette klagenemnd
-sammen. Samarbeidende institusjoner skal
-sammen fastsette regler for sammensetning av
-nemnda, innenfor de rammene som følger av
-denne bestemmelsens andre og tredje ledd.
-Den lokale klagenemnda skal ha fem medlemmer med personlige varamedlemmer. Leder og
 
-[Side 429]
+Bestemmelsen regulerer studentenes rett til å opprette et studentorgan og institusjonens plikt til å tilrettelegge for studentmedvirkning. Bestemmelsen er en videreføring av gjeldende rett, med enkelte justeringer. Ph.d.-kandidater er ikke omfattet.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+*Første ledd* fastslår at studenter ved universiteter og høyskoler kan opprette et studentorgan for å ivareta sine interesser overfor utdanningsinstitusjonen. Slike studentorgan kan også opprettes ved den enkelte avdeling eller grunnenhet. Dette innebærer at studentorganene skal anerkjennes som en del av institusjonens organisatoriske nettverk.
 
-varamedlem for leder skal fylle de lovbestemte
-kravene for lagdommere. Leder og varamedlem
-for leder skal ikke være ansatt ved institusjonen.
-To av medlemmene skal være studenter.
-Representanter for institusjonens eier eller
-medlemmer av institusjonens styre kan ikke være
-medlem av den lokale klagenemnda.
-Den lokale klagenemnda er vedtaksfør når
-lederen eller varamedlem for leder og to andre
-medlemmer er til stede.
-Bestemmelsene om inhabilitet i forvaltningsloven kapittel II gjelder ved behandlingen av saker i
-institusjonens administrasjon. Når en klage skal
-behandles i lokal klagenemnd, er den som har vært
-med på å forberede eller treffe vedtaket, inhabil til å
-delta i klagenemndas behandling av vedtaket, eller
-i forberedelsen av saken for klagenemnda.
-Styret ved institusjonen kan ikke instruere den
-lokale klagenemnda i enkeltsaker, eller overprøve
-klagenemndas vedtak.
-Departementet kan opprette særskilte nasjonale klageorganer som skal behandle klager over
-enkeltvedtak for bestemte områder og over avgjørelser etter offentleglova.
-Departementet kan gi forskrift om saksbehandlingen i klagesaker.
+*Andre ledd* stiller krav om at det avholdes valg til studentorgan. Det er studentene som stemmer ved valg. Tidligere stilte loven krav om at det skulle avholdes urnevalg. Etter § 7-9 andre ledd er det opp til studentene selv å bestemme hvordan valget skal avholdes, og om det skal tas i bruk digitale løsninger.
+
+*Tredje ledd* pålegger institusjonen å legge til rette for at studentene kan drive studentarbeid på en tilfredsstillende måte. Det nærmere omfanget av tilretteleggingen for studentorganene avhenger av institusjonens størrelse, organisering og finansieringsnivå. Bestemmelsen tar høyde for variasjoner mellom institusjonene med hensyn til størrelse, fagområder og studentmasse. Bestemmelsen stiller krav om at institusjonen og det øverste studentorganet skal ha dialog om tilretteleggingen. Institusjonen skal sørge for at tilretteleggingstiltakene skal fremgå av et skriftlig dokument. Det er styret ved institusjonen som skal ha dialog med studentorganet. Dette erstatter det tidligere kravet om at tiltakene skulle spesifiseres i en avtale mellom institusjonens styre og det øverste studentorganet. Som et minimum krever bestemmelsen at institusjonen vederlagsfritt stiller egnede lokaler og nødvendig utstyr til rådighet for studentorganene. Dette minimumskravet var tidligere ikke lovfestet.
+
+*Fjerde ledd* bestemmer at studentorganene skal høres i alle saker som angår studentene på det aktuelle nivå. Bestemmelsen skal sikre studentmedvirkning. For å styrke studentenes mulighet til reell medvirkning, pålegger bestemmelsen institusjonen å sende saker som berører studentinteresser på høring til studentorganene så god tid i forveien at studentorganene har mulighet til å behandle og uttale seg om dem. Det følger av regler om forsvarlig saksbehandling at studentorganene har rett til tilstrekkelig tid til å uttale seg om saker som berører studentinteresser.
+
+*§ 7-10.* Studentenes representasjon i institusjonens organer
+
+Studentene skal ha minst 20 prosent av medlemmene i alle kollegiale organ som har beslutningsmyndighet. Hvis dette ikke utgjør mer enn ett medlem, skal studentene ha rett til å møte med ytterligere én student med tale- og forslagsrett.
+
+Bestemmelsen i første ledd kan fravikes dersom det delegerende organ enstemmig bestemmer noe annet.
+
 Merknad:
-Første ledd første punktum er en videreføring av
-gjeldende § 5-1 første ledd.
-Alle institusjoner skal ha eller være tilknyttet
-en lokal klagenemnd som skal behandle klager
-over enkeltvedtak, og andre klagesaker dersom
-styret bestemmer det. At klager over enkeltvedtak
-skal behandles i en egen klagenemnd, og ikke av
-styret, bidrar til å synliggjøre styrets rolle som
-overordnet og strategisk organ, og styrker en
-reell to-instansbehandling av klagesaken.
-Det følger av lovforslaget § 10-10 at styret kan
-bestemme at lokal klagenemnd også skal
-behandle saker om bortvisning, annullering og
-utestenging i førsteinstans. Klager over vedtak i
-disse sakene behandles av en nasjonal klagenemnd, jf. åttende ledd.
-Første ledd andre og tredje punktum er nye.
-Klagenemnda er benevnt som «lokal klagenemnd
-ved institusjonen» for å understreke at om flere
-institusjoner ønsker det, kan de etablere en felles
-klagenemnd som behandler klager over enkeltvedtak, slik som nevnt i første punktum. Institusjonene
-må selv initiere slike felles lokale klagenemnder.
-Sammensetning og regler for oppnevning av medlemmene i en felles lokal klagenemnd må avgjøres
-av de samarbeidende institusjonene. Styrene må i
 
-427
+*Første ledd:* Bestemmelsen er en videreføring av gjeldende rett. Bestemmelsen fastslår at studentene skal ha minst 20 prosent representasjon i alle kollegiale organer ved institusjonen som har beslutningsmyndighet. Hvis 20 prosent ikke utgjør mer enn ett medlem i det kollegiale organet, har studentene rett til å møte med en ekstra representant, som skal ha tale- og forslagsrett. Bestemmelsen er uttrykk for et viktig demokratisk prinsipp, og skal bidra til å sikre kontinuitet i arbeidet ved at studentene har rett til å delta med flere enn ett medlem i de kollegiale organene. Dette gjør at studentene kan arbeide i team.
 
-Kapittel 39
+*Andre ledd:* Bestemmelsen åpner for å gjøre unntak fra første ledd om at studentene skal ha minst 20 prosent representasjon i alle kollegiale organer med beslutningsmyndighet ved institusjonen. Unntak kan være aktuelt i kollegiale organer der studentene vurderer at det er mindre viktig for dem å være representert. Et vilkår for å beslutte unntak fra første ledd er at beslutningen i det delegerende organ er enstemmig. Ettersom studentene vil være representert i det delegerende organ, vil de ha mulighet for bestemme om det skal gjøres unntak fra første ledd eller ikke. Bestemmelsen i andre ledd gir studentene en fleksibilitet med hensyn til hvilke saker de ønsker å engasjere seg i.
 
-fellesskap komme frem regler om hvordan nemnda
-skal settes sammen og bestemme hvem som skal
-oppnevnes. De lovbestemte reglene i andre og
-tredje ledd i bestemmelsen gjelder også for slike
-felles, lokale klagenemnder. I tilfeller der institusjoner går sammen om å etablere klagenemnd i fellesskap er det naturlig at det lages regler om sekretariat og saksforberedelse.
-Andre ledd: Denne bestemmelsen tilsvarer
-dagens § 5-1 andre ledd, men «lagdommere» er
-endret til «dommere», ettersom de samme kravene stilles til både lagdommere og tingrettsdommere, se domstolloven §§ 53 og 54 andre ledd.
-Leder og nestleder må ha fylt 25 år, være norske
-statsborgere og ha en mastergrad i rettsvitenskap.
-Leder og nestleder kan ikke være ansatt ved institusjonen. Dette gjelder tilsvarende dersom flere
-institusjoner har felles lokal klagenemnd. To medlemmer skal være studenter.
-Tredje ledd: Bestemmelsen er en videreføring
-av dagens § 5-1 tredje ledd. Bestemmelsen skal
-sikre at medlemmene av klagenemnda ikke har
-bindinger til eier eller institusjonens styre. Bestemmelsen gjelder ikke for de som er varamedlemmer
-til styret, med mindre varamedlemmet rykker opp
-til å bli fast møtende styremedlem. Det bør derfor
-tilstrebes at heller ikke varamedlemmene til styret
-blir oppnevnt som medlem i klagenemnda.
-Fjerde ledd: Det er tilstrekkelig at enten leder
-eller varamedlem for leder, og to andre medlemmer, er til stede for at nemnda skal treffe gyldige
-vedtak.
-Femte ledd: Bestemmelsen er ny. For å styrke
-en reell to-instansbehandling av klager ved institusjonene, blir reglene om inhabilitet skjerpet. De
-som har vært med på å forberede eller treffe vedtaket i første instans skal ikke delta i forberedelse
-av saken for klagenemnda eller i behandlingen av
-saken i klagenemnda. På denne måten mener
-utvalget at man sikrer større avstand mellom
-førsteinstansbehandlingen av avgjørelsen og klageinstansavgjørelsen.
-Sjette ledd: Bestemmelsen er ny. Den lokale
-klagenemnda kan ikke instrueres av styret i
-enkeltsaker, og styret kan ikke overprøve klagenemndas vedtak. Bestemmelsen innebærer en
-innskrenkning i styrets ansvar slik det er hjemlet i
-§ 3-1 første ledd andre punktum. Dette skal sikre
-at det skjer en reell to-instansbehandling på institusjonen, og den skal sikre rettssikkerheten til
-den berørte parten. Styret vil fortsatt ha innflytelse på klagenemndas sammensetning og
-hvilke ressurser den lokale klagenemnda får, og
-styret kan fastsette generelle regler for saksbehandlingen, skjønnsutøvelsen og lovtolkningen.
+Kapittel 8 Undervisning, vurdering, sensur, klage og utstedelse av vitnemål
 
-[Side 430]
+*§ 8-1.* Studieåret
 
-428
+Studieåret er normalt ti måneder. Styret​ skal fastsette undervisningsterminene. Et studieår på fulltid er normert til et omfang på 60 studiepoeng.
 
-Kapittel 39
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Syvende ledd: Departementet kan opprette
-klageorganer som behandler saker der lokal
-klagenemnd treffer vedtak som første instans, og
-for avgjørelser etter offentleglova. Det er i dag
-opprettet to slike nasjonale klagenemnder: en for
-opptakssaker og en for saker som er hjemlet i
-dette lovforslaget kapittel 10. Departementet kan
-også bestemme at andre klagesaker skal behandles av et nasjonalt klageorgan.
-Åttende ledd er en videreføring av dagens § 5-1
-sjette ledd. Bestemmelsen gir departementet
-hjemmel til å fastsette forskrift om saksbehandlingen i klagesaker, og kan dermed sikre at
-behandlingen av saker skjer på samme måte for
-alle institusjoner. Departementet vil også kunne
-instruere statlige institusjoner om saksbehandling. Bestemmelsen retter seg i første omgang
-mot private institusjoner.
-§ 12-2. Organ for internasjonalt utdanningssamarbeid
-Departementet har opprettet et forvaltningsorgan som skal arbeide for å samordne og fremme
-internasjonalt utdanningssamarbeid gjennom hele
-utdanningsløpet. Forvaltningsorganet er administrativt underlagt departementet.
-Enkeltvedtak om tildeling av midler som forvaltningsorganet treffer, kan påklages til det organet som har delegert vedtaksmyndigheten. Klageorganet kan ikke overprøve forvaltningsorganets
-skjønnsmessige vurderinger.
-Departementet kan gi forskrift om forvaltningsorganets saksbehandling, mandat, organisering og øvrige administrative forhold.
 Merknad:
-Bestemmelsen er en videreføring av gjeldende
-§ 5-4.
-Organ for internasjonalt utdanningssamarbeid er et forvaltningsorgan som er underlagt
-Kunnskapsdepartementet, og departementet har
-alminnelig instruksjonsadgang i kraft av dette.
-Organ for internasjonalt utdanningssamarbeid forvalter en rekke ulike programmer som
-alle har egne formål og innretninger. For de fleste
-programmene vil det værenødvendig med særskilt kunnskap om blant annet utdanningssystem,
-den politiske og økonomiske situasjonen i landet
-og institusjonssamarbeid. Faglig skjønn i saksbehandling vil ofte dreie seg om vurdering av gjennomførbarhet og realisme i et planlagt samarbeid,
-om relevans i programmets innretning og formål,
-og søknadens kvalitet isolert sett og vurdert opp
-mot andre søknader. Bestemmelsen gjelder alle
 
-vedtak organet treffer, og klageordningen vil derfor gjelde for både nasjonale og tverrnasjonale
-ordninger. På grunn av den høye graden av spesialkompetanse som kreves for å kunne treffe riktige avgjørelser, er klageorganets kompetanse til å
-overprøve de faglige skjønnsmessige vurderingene, forvaltningsskjønnet, avskåret. Hvis klageinstansen finner at avvisningen eller avslaget er
-ugyldig, skal klageinstansen oppheve vedtaket og
-sende saken tilbake til organet.
-Kapittel 13 Behandling av personopplysninger
-Fellesmerknad til lovbestemmelsene i kapittelet
-Personopplysningsloven gjelder for behandling av
-personopplysninger som helt eller delvis skjer ved
-bruk av elektroniske/digitale hjelpemidler. Personopplysninger skal bare benyttes til uttrykkelig
-angitte formål som er saklig begrunnet i den
-behandlingsansvarliges virksomhet, og disse personopplysningene kan ikke senere brukes til formål som er uforenlige med det opprinnelige formålet med innsamlingen, med mindre den registrerte samtykker.
-Personvernforordningen artikkel 6 nr. 1 angir
-når personopplysninger kan behandles. De mest
-aktuelle behandlingsgrunnlagene som er lagt til
-grunn i universitets- og høyskoleloven er å oppfylle en avtale med den registrerte, jf. personvernforordningen artikkel 6 nr. 1 bokstav b, å utføre en
-oppgave av allmenn interesse, og å utøve offentlig
-myndighet, jf. artikkel 6 nr. 1 bokstav e.
-Bestemmelsene i kapittel 13 er en videreføring
-av gjeldende rett med enkelte språklige endringer
-som ikke medfører noen endring av materiell
-karakter.
-§ 13-1. Innhenting og behandling av personopplysninger i studieadministrative systemer
-Institusjonen kan behandle personopplysninger om en søker, student eller doktorgradskandidat når formålet med behandlingen er å
-ivareta den registrertes rettigheter eller å oppfylle
-institusjonens oppgaver og plikter etter denne
-loven.
-Institusjonen kan behandle opplysninger om
-navn, fødselsnummer, midlertidig fødselsnummer,
-D-nummer og karakterer fra videregående opplæring og universiteter og høyskoler hentet fra offentlige myndigheter, offentlige systemer for vitnemål
-og statlige, fylkeskommunale og private utdanningsinstitusjoner, når dette er nødvendig for å
-oppfylle formålet som er nevnt i første ledd. Innhenting av opplysningene kan skje elektronisk.
+Bestemmelsen setter rammene for omfanget av det studieåret institusjonene skal tilby. Bestemmelsens første punktum sier at et studieår normalt skal være på 10 måneder. Uttrykket «normalt» innebærer at det må begrunnes særskilt hvis hovedregelen fravikes. Hvor lenge studieterminene skal vare, altså lengden på høst- og vårsemesteret, er det opp til styret ved institusjonen å bestemme, jf. andre punktum. Et fullt studieår er normert til 60 studiepoeng, se tredje punktum. Dette er i overensstemmelse med systemet i ECTS (European Credit Transfer System). Bestemmelsen er en videreføring av gjeldende rett.
 
-[Side 431]
+*§ 8-2.* Offentlige forelesninger
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Forelesninger er offentlige. Når forelesningenes art tilsier det, eller det er fastsatt egenbetaling for det aktuelle fag eller studium, kan styret likevel bestemme at visse forelesninger bare skal være for institusjonens studenter eller visse grupper av studenter.
 
-Institusjonen kan også behandle opplysninger
-om helse, sosiale forhold og andre sensitive personopplysninger som studenten selv har gitt institusjonen, eller har samtykket til at institusjonen
-skal få, når disse opplysningene er nødvendige for
-formål som er nevnt i første ledd. Disse begrensningene i institusjonens adgang til å behandle
-slike opplysninger gjelder ikke for nødvendig
-behandling etter § 10-1 til § 10-5.
-Institusjonen kan treffe vedtak ved helt eller
-delvis automatisert saksbehandling i sine studieadministrative systemer. Den personen som
-vedtaket retter seg mot, kan kreve at vedtaket
-overprøves manuelt av utdanningsinstitusjonen.
-Institusjonen kan motta og behandle studentens politiattest elektronisk i sine studieadministrative systemer ved studier der det kreves at
-studenten skal legge frem politiattest, jf. § 10-6.
-Politiattest som er utstedt og signert digitalt, kan
-bare leveres til institusjonen i digital form. Studenten selv innhenter og formidler politiattesten til
-institusjonen.
-Departementet kan gi forskrift om behandling
-og registrering av personopplysninger i studieadministrative systemer.
 Merknad:
-Første ledd bestemmer at institusjonen kan
-behandle personopplysninger om en søker, student eller doktorgradskandidat når formålet med
-behandlingen er å ivareta den registrertes rettigheter, eller å oppfylle institusjonens oppgaver og
-plikter etter universitets- og høyskoleloven.
-Personopplysningsloven og personvernforordningen regulerer behandlingen av personopplysninger. Formålet med regelverket er å beskytte
-den registrerte mot at personvernet blir krenket
-gjennom behandlingen av personopplysninger om
-vedkommende.
-Med
-«personopplysninger»
-menes opplysninger og vurderinger som kan
-knyttes til en enkeltperson.
-For å dekke behovet til private utdanningsinstitusjoner og andre som ikke bruker det studieadministrative systemet Felles studentsystem,
-brukes «studieadministrative systemer» som
-fellesbetegnelse i loven.
-Andre ledd omhandler det som kan registreres
-i de studieadministrative systemene. Fødselsnummeret er et unikt identifiseringsnummer og er
-med det en personopplysning. Fødselsnummeret
-regnes ikke som en sensitiv opplysning og er ikke
-taushetsbelagt. Nummeret kan likevel bare brukes når det er saklig behov for det og sikker identifisering ikke kan oppnås på annen måte. I den
 
-429
+Lovforslaget er en videreføring av gjeldende rett. Bestemmelsen fastslår at forelesninger som hovedregel skal være offentlige. Begrunnelsen for bestemmelsen er dels at utdanning er et kollektivt gode som alle skal kunne ta del i, dels at det er av offentlig interesse hva som undervises ved høyere utdanningsinstitusjoner.
 
-Kapittel 39
+Bestemmelsens andre punktum gir hjemmel for å kunne lukke forelesninger når forelesningens art tilsier det. Eksempler på at forelesningens art tilsier å lukke forelesningen, er kliniske demonstrasjoner eller formidling av taushetspliktbelagt materiale. I slike tilfeller kan styret ha en plikt til å lukke forelesningen. Å lukke forelesninger kan også være nødvendig når tilstrømningen til forelesningene er så stor at det er problematisk å skaffe store nok auditorier, eller der brannforskrifter eller andre fysiske utfordringer tilsier at det er nødvendig å begrense adgangen. Men institusjonen kan ikke stenge forelesningen med den begrunnelse at det er ønskelig for å holde nede eller redusere antall privatister ved vedkommende studium fordi disse medfører en ekstra belastning på institusjonens eksamens- og kontrollapparat.
 
-nasjonale opptaksmodellen og i de studentadministrative systemene behandler utdanningsinstitusjonene opplysninger om svært mange personer.
-Derfor foreligger det et saklig behov for at fødselsnummer skal anvendes for å identifisere
-søkere og studenter. Bruk av fødselsnummer for
-sikker identifikasjon vil hindre at det skjer en sammenblanding av personer.
-Alle offentlige organer, herunder fylkeskommunale og statlige fagskoler, omfattes av ordlyden
-«offentlige myndigheter». Eksempler på «private
-utdanningsinstitusjoner» er private høyskoler, private folkehøyskoler og private fagskoler.
-Personopplysninger er taushetsbelagte om de
-handler om «noens personlige forhold», jf. forvaltningsloven § 13. Begrepet «personlige» indikerer
-at det må dreie seg om informasjon som knytter
-seg til en bestemt person, gjerne på en måte som
-karakteriserer vedkommende eller berører vedkommendes identitet, og som man vanligvis
-ønsker å holde for seg selv. I forarbeidene til forvaltningsloven (Ot.prp. nr. 3 (1976–77) (vedlegg 2
-s. 136) heter det at «en rekke opplysninger om
-den enkeltes utdanning» naturlig må regnes som
-personlige. Noen nærmere presisering av hva
-slags opplysninger uttalelsen sikter til, er imidlertid ikke gitt. Det må vurderes konkret for de ulike
-opplysningene om de kan regnes som tilstrekkelig følsomme.
-Praksisen med offentliggjøring av eksamensresultater fra den videregående skolen er for
-lengst opphørt. Det legges generelt større vekt på
-personvern og anonymitet når det gjelder eksamenskarakterer. Det legges til grunn at karakterer fra grunnskolen og videregående skole omfattes av uttrykket «noens personlige forhold» i forvaltningsloven § 13, og utdanningsinstitusjonene
-kan med denne lovhjemmelen innhente slike taushetsbelagte opplysninger.
-Tredje ledd hjemler muligheten til å registrere sensitive personopplysninger. Med «sosiale forhold» menes forhold knyttet til arbeid,
-familie, og annet som påvirker den enkeltes livssituasjon. Disse opplysningene vil (i de fleste tilfeller) falle inn under artikkel 9 i personvernforordningen (særlige kategorier av personopplysninger), og kan også være taushetsbelagt etter
-forvaltningsloven § 13 første ledd nr. 1. Det vil si
-at de er opplysninger om noens personlige forhold. I utgangspunktet er dette opplysninger
-søkeren/studenten selv skal legge frem. I dag er
-det søkeren som er ansvarlig for å legge frem
-dokumentasjon på slike forhold, og som forvaltningsorgan må institusjonene og Unit overholde
-taushetsplikten. Opplysningene er sensitive, og
+Bestemmelsen gir også hjemmel for å kunne lukke forelesninger når det er fastsatt egenbetaling for faget eller studiet. Dette unntaket er tatt inn i loven av hensyn til de private institusjonene.
 
-[Side 432]
+*§ 8-3.* Utdanningsplan
 
-430
+Institusjonen skal utarbeide en utdanningsplan for studenter som tas opp til studier av 60 studiepoengs omfang eller mer.
 
-Kapittel 39
+Utdanningsplanen skal være et virkemiddel for at studenten gjennomfører studiet.
 
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
+Utdanningsplanen skal inneholde bestemmelser om institusjonens ansvar og forpliktelser overfor studenten, og studentens forpliktelser overfor institusjonen og medstudenter.
 
-selv om det er søkeren som sender dem inn, er
-denne bestemmelsen en hjemmel for «elektronisk behandling» av opplysningene.
-Når det gjelder de særskilte skikkethetsvurderingene som utdanningsinstitusjoner er pålagt
-etter forskrift om skikkethet i høyere utdanning
-§ 1 tredje ledd, jf. lovforslaget § 10-1, er ikke
-bestemmelsen ment å innsnevre institusjonenes
-adgang til å utveksle informasjon om studenter i
-forbindelse med skikkethetsvurdering. Slik informasjonsutveksling er noe utdanningsinstitusjonene har mulighet til å gjøre med hjemmel i forvaltningsloven § 13 b nr. 5. Forslaget er ikke ment
-å innskrenke institusjonenes mulighet til å
-utveksle sensitive opplysninger om skikkethetsvurderinger eller politianmeldelser med hjemmel
-i forvaltningsloven § 13 b. Det presiseres i
-bestemmelsen at begrensningene i institusjonenes adgang til å behandle opplysninger om helse,
-sosiale forhold og andre sensitive opplysninger
-ikke gjelder for nødvendig behandling etter lovforslagene § 10-1 til § 10-5.
-Fjerde ledd fastsetter muligheten til automatisert saksbehandling. I henhold til personvernforordningen er automatisert saksbehandling tillatt
-hvis den er hjemlet i lov, men dette forutsetter at
-behandlingen «er hjemlet i lov som samtidig gir
-tilfredsstillende garantier for personvernet til de
-registrerte».
-Den vedtaket gjelder har rett til å kreve manuell overprøving av vedtaket. En slik rett til manuell
-overprøving, som supplerer den alminnelige
-klageretten etter forvaltningsloven, ivaretar rettighetene og interessene til den registrerte. Manuell
-overprøving innebærer at det foretas en manuell
-kontroll av om datasystemet har fattet et korrekt
-vedtak i henhold til gjeldende lover og forskrifter.
-Femte ledd omhandler reglene om digital
-behandling av politiattest. Hjemmelen for å kunne
-innhente politiattest er foreslått i § 10-6. En politiattest med merknader vil inneholde sensitive personopplysninger. Det fremgår av personvernforordringens artikkel 10 at behandlingen av opplysninger om straff krever hjemmel i nasjonal lov.
-Forslagets femte ledd viderefører muligheten for
-at digitale politiattester kan lastes opp digitalt i de
-studieadministrative systemene. Utdanningsinstitusjonene kan kreve at politiattester som er
-utstedt og signert digitalt, leveres til institusjonen
-i digital form. Dette forutsetter at politiattestene
-er signerte pdf-filer. Dette er viktig for verifisering
-av politiattestene. Det er studenten selv som skal
-legge frem attesten for utdanningsinstitusjonen
-ved opplasting i den aktuelle institusjonens studieadministrative system.
+Departementet kan gi forskrift om innholdet i utdanningsplaner.
 
-Sjette ledd hjemler departementets adgang til å
-gi forskrift om behandling og registrering av personopplysninger i studieadministrative systemer
-når dette er hensiktsmessig.
-§ 13-2. Innhenting og behandling av personopplysninger i Samordna opptak
-Samordna opptak er en nasjonal samordningstjeneste for behandling av søknader om opptak til
-lavere grads studier ved universiteter og høyskoler. Samordna opptak, utdanningsinstitusjonene
-og andre organer som deltar i det samordnede
-opptaket kan behandle personopplysninger om
-en søker når formålet er å behandle en søknad om
-opptak til høyere utdanning.
-Bestemmelsene i § 13-1 andre, tredje og fjerde
-ledd gjelder tilsvarende for Samordna opptak.
-Forvaltningsorganet som er ansvarlig for Samordna opptak er behandlingsansvarlig for personopplysningene i det samordnede opptaket. Departementet kan gi forskrift om behandling og registrering for det samordnede opptaket.
 Merknad:
-Første ledd sier at Samordna opptak er en nasjonal
-samordningstjeneste for behandling av søknader
-om opptak til lavere grads studier ved universiteter og høyskoler. Samordna opptak kan behandle
-personopplysninger om en søker i forbindelse
-med det samordnede opptaket. Hovedprinsippet
-er én søknad per person. Begrepet «tjeneste» er
-dekkende for den oppgaven som utføres i Samordna opptak. Samordna opptak er i realiteten et
-informasjonssystem som består av både manuelle
-prosesser og rutiner, og automatiserte prosesser
-og rutiner hvor det inngår datasystem(er)/IKTsystemer. Det brukes ikke begrepet «system» om
-Samordna opptak i loven, da det kan bli uklart om
-det er informasjonssystem eller datasystem det er
-snakk om. Begrepet «tjeneste» anses derfor som
-mest hensiktsmessig i denne sammenheng. Med
-«andre organer» menes for eksempel Unit og
-NOKUT.
-Andre ledd fastsetter at bestemmelsene i § 13-1
-andre, tredje og fjerde ledd gjelder tilsvarende
-for det samordnede opptaket. Henvisningen
-innebærer også at disse bestemmelsene gjelder
-tilvarende for både utdanningsinstitusjoner og
-andre organer som deltar i det samordnede opptaket. Se særmerknadene til disse bestemmelsene ovenfor.
-Tredje ledd bestemmer at det er forvaltningsorganet som er ansvarlig for Samordna opptak,
-Unit, som er behandlingsansvarlig for personopp-
+
+*Første ledd* omhandler institusjonens plikt til å utarbeide en utdanningsplan når en student er tatt opp til studier som har et omfang på 60 studiepoeng eller mer. Kravet om utdanningsplan skal sikre et tettere og mer forpliktende forhold mellom institusjonen og den enkelte student. Det er institusjonen som har ansvaret for at utdanningsplanen utarbeides.
+
+*Andre ledd* er en ny bestemmelse som presiserer at utdanningsplanens formål er å vise hvordan institusjonen legger til rette for at studenten kan komme gjennom et definert læringsmål på normert tid og være et virkemiddel for gjennomføring av studiet. Utdanningsplaner brukes også i forbindelse med forsinkelser i studiet.
+
+*Tredje ledd* bestemmer at utdanningsplanen skal beskrive utdanningsinstitusjonens forpliktelser overfor studenten og studentens forpliktelser overfor institusjonene og medstudentene. Planen skal synliggjøre studentens ansvar for å oppfylle de studiekravene institusjonen stiller, blant annet i form av krav til deltakelse, obligatoriske arbeider og studieprogresjon. Utdanningsplanen skal utarbeides i samarbeid med studenten, og studenten skal kunne påvirke innholdet i egen utdanningsplan. Retten til utdanningsplan innebærer at en student når som helst kan be om samtaler om personlig tilpasning eller revisjon av denne.
+
+*Fjerde ledd* viderefører departementets hjemmel til å gi forskrift om innholdet i utdanningsplaner.
+
+*§ 8-4.* Studentenes taushetsplikt
+
+En student som i studiesammenheng får kjennskap til noens personlige forhold, har taushetsplikt etter reglene som gjelder for yrkesutøvere på vedkommende livsområde. Institusjonen skal utarbeide taushetsplikterklæring som de studentene dette er aktuelt for må underskrive.
+
+Merknad:
+
+Bestemmelsen er en videreføring av gjeldende rett. Den presiserer at studenter har taushetsplikt om noens personlige forhold som de får kjennskap til på studiet. Bestemmelsen viser til regler om taushetsplikt som gjelder for yrkesutøvere på vedkommende livsområde. Det er bare studenter som tar en utdanning som leder til et yrke der det gjelder regler om taushetsplikt, som bestemmelsen gjelder for. Dette er typisk for mange helseutdanninger.
+
+Taushetsplikt innebærer at studentene ikke kan fortelle noe de får vite i studiesammenheng, for eksempel om en annen person eller om forretningshemmeligheter, videre til andre som ikke skal ha tilgang på informasjonen. Slik informasjon kan heller ikke gjøres tilgjengelig, for eksempel ved å dele den på sosiale medier eller bruke den til andre formål enn det som følger av utdanningen. Taushetsplikten gjelder ikke bare det studentene sier eller skriver videre, men også deling av bilder, videoer og liknende.
+
+Det kan også være brudd på taushetsplikten at studenten ikke er påpasselig nok med hvordan vedkommende oppbevarer taushetsbelagt informasjon, slik at andre kan få tilgang til den. Eksempler er at studenten glemmer igjen pasientjournaler på bussen eller videresender en taushetsbelagt e-post til feil adresse.
+
+Institusjonen skal utarbeide taushetserklæring til de studentene som er omfattet av taushetsplikt, og sørge for at studentene underskriver denne.
+
+*§ 8-5.* Rett til å gå opp til eksamen​
+
+Den som oppfyller kravene til opptak etter §§ 6-1 til 6-4, og andre krav for å gå opp til eksamen i vedkommende fag eller studium, har rett til å gå opp til eksamen. Dette gjelder også studenter som ikke er opptatt ved faget eller studiet.
+
+Oppmelding etter denne bestemmelsen kan nektes dersom studenten ikke har fulgt obligatorisk undervisning, fått godkjent obligatorisk arbeid eller gjennomført obligatorisk praksis.
+
+Styret kan gi forskrift om adgangen til å gå opp til eksamen, og kan fastsette regler om særskilt oppmeldingsfrist og eksamensavgift for personer som går opp til eksamen uten å være tatt opp som student. Slik eksamensavgift skal dekke institusjonens merutgifter ved å holde eksamen for denne gruppen. Slik eksamensavgift kan også fastsettes der institusjonen har fastsatt egenbetaling for studiet eller faget. Departementet kan gi forskrift om egenbetaling for eksamen.
+
+Merknad:
+
+*Første ledd* fastsetter at den som oppfyller kravene til opptak i henhold til lovens bestemmelser om dette, og eventuelle andre krav for å gå opp til eksamen i vedkommende fag eller studium (for eksempel visse obligatoriske arbeidskrav), har rett til å gå opp til eksamen. Dette gjelder også studenter som ikke er opptatt ved faget eller studiet, altså privatister. Prinsippet om rett til å gå opp til eksamen har blitt ansett som så viktig at det er blitt opprettholdt, til tross for det har skapt til dels store kapasitetsproblemer ved enkelte studier fordi ordningen har blitt benyttet av et betydelig antall privatister.
+
+*Andre ledd* omhandler krav til å gå opp til eksamen. I mange studieprogrammer stilles det krav om at studentene må ha levert og bestått bestemte oppgaver, laboratorieøvelser, fremføringer og liknende for å kunne gå opp til eksamen. Kravene fremkommer av emnebeskrivelsen i studieplanen. Utdanningsinstitusjonene benytter ulike former for arbeidskrav, og skiller hovedsakelig mellom obligatorisk aktivitet og tilstedeværelse i undervisningen. Obligatoriske arbeidskrav benyttes i en rekke emner som hjelp på veien mot å oppnå læringsutbyttet. Arbeidskravene er også med på å fremme progresjon og sikre deltakelse der det er nødvendig. Institusjonen kan nekte en student å melde seg opp til eksamen dersom studenten ikke har fulgt obligatorisk undervisning eller gjennomført obligatorisk praksis. Dette begrenser spesielt privatisters tilgang til å gå opp til eksamen.
+
+*Tredje ledd* bestemmer at styret i forskrift kan regulere adgangen til å gå opp til eksamen. I slik forskrift kan styret fastsette særskilt oppmeldingsfrist for personer som går opp til eksamen uten å være tatt opp som student, og at denne gruppen skal betale en eksamensavgift. Avgiften skal dekke institusjonens merutgifter ved å holde eksamen for denne gruppen, og bare det. Slike regler kan inntas i institusjonens eksamensforskrift, og vil typisk gjelde for privatister. Det er adgang for styret til å fastsette egen eksamensavgift for privatister også der institusjonen uansett har fastsatt egenbetaling for studiet eller faget. Departementet er gitt myndighet til å gi forskrift om egenbetaling for eksamen.
+
+*§ 8-6.* Gjennomføring av eksamen
+
+Universiteter og høyskoler skal sørge for at studentenes kunnskaper og ferdigheter blir prøvd og vurdert på en upartisk og faglig betryggende måte. Vurderingen skal også sikre det faglige nivået ved vedkommende studium. Institusjonen skal sørge for en ekstern evaluering av vurderingen eller vurderingsordningene.
+
+Den muntlige delen av en eksamen eller prøve skal være offentlig med mindre hensynet til gjennomføringen av eksamenen eller prøven tilsier noe annet. Styret kan gjøre unntak fra regelen om offentlig eksamen etter ønske fra vedkommende eksamenskandidat når tungtveiende hensyn taler for det.
+
+Styret kan gi forskrift om avleggelse og gjennomføring av eksamener og prøver, vilkår for å gå opp til eksamener og prøver på nytt og for adgang til ny praksisperiode.
+
+Merknad:
+
+*Første ledd* fastsetter at universiteter og høyskoler skal sørge for at studentenes kunnskaper og ferdigheter blir prøvd og vurdert på en upartisk og faglig betryggende måte. Vurderingen skal også sikre det faglige nivået ved vedkommende studium, jf. bestemmelsens første ledd andre punktum. Det skal være en ekstern evaluering av vurderingen eller vurderingsformene. Det er opp til den enkelte institusjon å bestemme hvordan den eksterne deltakelsen i vurderingen skal gjennomføres. Dette kan skje ved en ekstern deltakelse i den enkelte vurdering eller ved ekstern evaluering av vurderingsordningene. Systemet med ekstern evaluering av vurderingene eller vurderingsordningene skal også ivareta studentenes rettssikkerhet ved å sikre lik og upartisk bedømmelse av studentene.
+
+Institusjonene bruker forskjellige typer vurderinger. Det skilles gjerne mellom underveisvurderinger og eksamen/prøver. Studentene skal gjennom underveisvurderingen få en tilbakemelding og god veiledning for videre arbeid. En god vurderingspraksis motiverer og har læring som mål. Underveisvurdering blir ofte omtalt som formativ vurdering eller vurdering for læring, fordi formålet er å fremme læring. Eksamen er som oftest skriftlig, men kan også foregå på andre måter, for eksempel muntlig prøve, levering av et større selvstendig arbeid som et kunstverk, fremføring av et musikkrepertoar, en monolog, og så videre. Sluttvurdering omfatter eksamensresultater, og har til formål å uttrykke kompetansen til studentene etter endt læring i faget. Det er imidlertid ikke noe strengt skille mellom formativ og summativ vurdering, eller vurdering for og av læring. Vurdering i fag skal fremme læring og være et uttrykk for studentenes kompetanse. Både i underveisvurdering og eksamen er læringsutbyttebeskrivelsen for det aktuelle faget grunnlaget for vurdering.
+
+Det er viktig at studentene er klart informert om hvorvidt innleveringer, prosjekter og andre arbeider i løpet av studiet er rene underveisvurderinger med læring som formål, eller om de skal inngå i sluttvurderingen og dermed omfattes av kravet til sensorveiledning og mulighetene for klage.
+
+*Andre ledd* fastslår at den muntlige delen av eksamener og prøver skal være offentlig med mindre hensynet til gjennomføringen tilsier noe annet. Kravet om offentlighet henger sammen med at muntlig eksamen som regel ikke er etterprøvbar, og bestemmelsen er videreført fra gjeldende rett av prinsipielle rettssikkerhetsmessige og kvalitetssikringsgrunner. Styret kan gjøre unntak fra regelen om offentlig eksamen i det enkelte tilfellet etter ønske fra vedkommende eksamenskandidat, eller når tungtveiende hensyn taler for det. Eksempel på tilfeller hvor det må kunne gjøres unntak som en fast ordning, er kliniske eksamener i helsefag, der forholdet til pasienter/klienter må gå foran prinsippet om åpenhet. Men hensynet til den enkelte student må også kunne være avgjørende når forholdene tilsier det. Det kan for eksempel være tungtveiende personlige grunner som gjør at det vil oppleves som urimelig belastende å ha andre til stede i eksamenslokalet under eksaminasjonen.
+
+Etter offentlighetsloven § 26 kan besvarelse til eksamen eller lignende prøve unntas fra offentlighet. Også karakterene og vitnemål kan unntas fra innsyn. De skriftlige besvarelsene (inklusive kunstverk og lignende) er som utgangspunkt studentens eiendom og kan ikke offentliggjøres uten studentens samtykke.
+
+*Tredje ledd* hjemler muligheten for institusjonene selv til å gi nærmere forskrift om avleggelse og gjennomføring av eksamener og prøver. Der en student kan miste sin studierett på et fag, for eksempel på grunnlag av manglende progresjon, er det viktig at studenten er gitt opplysninger om de vilkårene som oppstilles for studieretten i eksamensforskriftene.
+
+*§ 8-7.* Gjennomføring av førstegangssensur
+
+Styret oppnevner sensor ved eksamen når resultatet inngår på vitnemålet eller innregnes i karakter for vedkommende studium. Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen vurderingssituasjon skal være utmerket/bestått/ikke-bestått, en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått, eller bestått/ikke-bestått.
+
+Det skal være minst to sensorer, hvorav minst én ekstern, ved
+
+a\) skriftlig eksamen hvor karakterfastsettelsen er gradert fra A til F eller utmerket/bestått/ikke-bestått
+
+b\) selvstendig arbeid i forbindelse med både lavere og høyere grad uavhengig av vurderingsuttrykket
+
+c\) bedømmelse av muntlig eller utøvende prestasjon og
+
+d\) vurdering av praksisstudier eller lignende.
+
+Institusjonen skal utarbeide skriftlig sensorveiledning til alle eksamener. Sensorveiledningen skal være tilgjengelig for studentene etter at karakteren er fastsatt.
+
+Sensuren skal foreligge innen 15 virkedager fra eksamen er avlagt, hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Styret kan gjøre unntak for enkelteksamener og kan i midlertidig forskrift etter § 8-6 tredje ledd fastsette en lengre frist når det ikke er mulig å skaffe det antall kvalifiserte sensorer som er nødvendig for å avvikle sensuren innen 15 virkedager. Styret kan i forskrift etter § 8-6 tredje ledd fastsette lengre frist for avhandlinger og tilsvarende større skriftlige arbeider.
+
+Merknad:
+
+*Første ledd* fastsetter at det er styret som oppnevner sensor ved eksamen når resultatet inngår på vitnemålet eller innregnes i karakter for vedkommende studium. Gode ordninger for sensur er nødvendig for en uhildet og rettferdig karaktersetting og dermed for studentenes rettssikkerhet. Det er viktig at sensuren organiseres på en måte som bidrar til å sikre utdanningskvaliteten og som inngir tillit både hos studentene og overfor potensielle arbeidsgivere eller utdanningsinstitusjoner. Det er også viktig med åpenhet og innsyn rundt sensurordningen.
+
+Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være utmerket/bestått/ikke-bestått, en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått eller bestått/ikke bestått. Vurderingsuttrykket utmerket/bestått/ikke-bestått er nytt i forhold til gjeldende rett. Eksamen må være egnet til å vise læringsutbyttet studentene skal oppnå. Utfordringen rundt karakterpress og karaktersetting kan avhjelpes ved å innføre en mulighet til å benytte seg av en mindre detaljert karakterskala. Muligheten for å nå det øverste karakternivået kan gi studentene motivasjon til å stå på. En underveisvurdering kan gi studentene en pekepinn på hva de bør forbedre for å enten komme helt til topps, eller for å bestå faget.
+
+*Andre ledd* gjeninnfører et krav om to sensorer, hvorav minst én skal være ekstern, som sammen fastsetter eksamenskarakteren basert på studentens prestasjon, ved alle skriftlige eksamener hvor karakterskalaen er gradert fra A til F eller utmerket/bestått/ikke-bestått. For muntlig eller utøvende eksamen eller vurdering av praksisstudier eller liknende, er det krav om to sensorer, hvorav minst én er ekstern, uavhengig av vurderingsuttrykket. Kravet om to sensorer gjelder også ved selvstendig arbeid i forbindelse med både lavere og høyere grad, uavhengig av vurderingsuttrykket. Én av sensorene skal være ekstern.
+
+Ved å bli vurdert av to sensorer, kan studentene føle seg tryggere på at karakteren er veloverveid og riktig. Denne nye bestemmelsen vil særlig ivareta studentenes rettssikkerhet bedre der det ikke er klagemulighet på eksamensresultatet fordi prestasjonen ikke er etterprøvbar, som kan være tilfellet for eksempel for en muntlig eksamen. Lovforslaget om to sensorer er en endring av gjeldende rett, men rettstilstanden var slik før innføringen av Kvalitetsreformen i 2003.
+
+*Tredje ledd* viderefører kravet om at det skal utarbeides skriftlig sensorveiledning til alle eksamener. Dette kravet er absolutt og gjelder uavhengig av om det er en skriftlig eller muntlig skoleeksamen, hjemmeeksamen, prosjekt, individuell eksamen eller gruppeeksamen. Bestemmelsen fastsetter ikke de nærmere kravene til innholdet i sensorveiledningen, men veiledningen må være egnet til å ivareta hovedhensynet bak kravet, som er å sikre en så ensartet vurdering av eksamensoppgavene som mulig. Sensorveiledninger må kunne ha ulik innretning og ulikt omfang avhengig av de enkelte fagenes tradisjoner og egenart. Sensorveiledningen skal være tilpasset det arbeidet studenten skal prøves i.
+
+Det er institusjonen som har ansvaret for at det utarbeides sensorveiledning. Det må derfor være opp til den enkelte institusjon å vurdere hva som er mest hensiktsmessig å inkludere i sensorveiledningen til hver enkelt eksamen eller eksamensform. Sensorveiledningene kan gjøre kvaliteten på eksamen bedre, fordi de bidrar til bedre kvalitetssikring av det fastsatte læringsutbyttet og trolig bedre samsensur.
+
+En sensorveiledning kan både være et dokument som angir generelle retningslinjer for hvordan besvarelser skal vurderes, eller den kan helt eller delvis inneholde såkalte rettenøkler, fasiter eller mønsterbesvarelser.
+
+Selv om sensorveiledninger er utarbeidet for å hjelpe sensorene, skal også sensorveiledninger gjøres tilgjengelig for studentene etter at sensuren foreligger. Veiledningen er et pedagogisk verktøy for studentene. Dette gjelder spesielt eldre sensorveiledninger, som inneholder eksempler på beste praksis. Enkelte sensorveiledninger er det mest hensiktsmessig å gjøre skriftlig tilgjengelig for studentene, men en offentlig gjennomgang av eksamensoppgaven og sensorveiledningen må også kunne sies å tilfredsstille kravene til tilgjengeliggjøring av sensorveiledningen. Det er uansett opp til utdanningsinstitusjonene å vurdere hvordan sensorveiledningen skal gjøres tilgjengelig i hvert enkelte tilfelle. Bestemmelsen om sensorveiledning er en videreføring av gjeldende rett.
+
+*Fjerde ledd* fastsetter at sensuren skal foreligge innen 15 virkedager, dette er en endring fra gjeldende rett hvor sensuren skulle foreligge innen tre uker. For å sikre bedre arbeidsforhold for sensorer endres sensurfristen til 15 virkedager. Dette medfører at inneklemte helligdager ikke lenger skal regnes med i sensurfristens lengde.
+
+Det er viktig at fristen overholdes da en fristovertredelse kan medføre ulemper for studentene. Bestemmelsen om at styret kan gjøre unntak fra sensurfristen for enkelteksamener, og imidlertidig forskrift fastsette en lengre frist når det ikke er mulig å skaffe nok kvalifiserte sensorer, foreslås videreført. Det presiseres imidlertid at dette er en unntaksbestemmelse. Hvis slik forskrift vedtas, skal den være *midlertidig*. Unntak fra sensurfristen skal kun gjelde for den aktuelle eksamen og kan ikke brukes flere ganger. Styret kan fastsette lengre frist for avhandlinger og tilsvarende større skriftlige arbeider.
+
+*§ 8-8.* Klage over formelle feil ved eksamen​
+
+Den som har vært oppe til eksamen eller prøve, kan klage over formelle feil innen tre uker etter at vedkommende ble eller burde vært kjent med det forhold som begrunner klagen. Studenten må fremsette klagen for institusjonen.
+
+Hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal institusjonen oppheve sensurvedtaket. Hvis feilen kan rettes opp ved ny sensur av innleverte arbeider, foretar institusjonen ny sensurering. I motsatt fall avholder institusjonen ny eksamen eller prøve med nye sensorer. Studenten kan påklage karakterfastsetting ved ny sensurering etter § 8-10.
+
+Finner institusjonen eller klageinstansen at det er begått formelle feil, og det er rimelig å anta at dette kan ha hatt betydning for én eller flere studenters prestasjon eller for bedømmelsen av prestasjonen, kan institusjonen bestemme at det skal foretas ny sensurering eller avholdes ny eksamen eller prøve.
+
+Styret eller lokal klagenemnd ved institusjonen er klageinstans for institusjonens vedtak etter denne bestemmelsen.
+
+Merknad:
+
+*Første ledd* viderefører gjeldende rett om at den som har vært oppe til eksamen eller prøve, kan klage over formelle feil innen tre uker etter at han eller hun er, eller burde vært, kjent med det forhold som begrunner klagen. Klagen fremsettes for institusjonen.
+
+Formelle feil kan for eksempel være feil ved eksamensavvikling, at oppgaven ligger utenfor pensum eller feil ved gjennomføring av sensuren. Det kan også tenkes formelle feil ved praksisgodkjenning, som at godkjenning nektes på grunnlag av krav om ferdigheter som går ut over det som er hjemlet i studieplanen.
+
+*Andre ledd* fastsetter at hvis det er begått formelle feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal sensurvedtaket oppheves. Det skal enten foretas ny sensurering hvis feilen kan rettes opp ved ny sensurering av innleverte arbeider, eller så skal det avholdes ny eksamen eller prøve med nye sensorer. Dette gjelder uavhengig av om studenten ønsker det eller ei. Formålet med å gjennomføre en ny sensur eller eksamen, er å sikre at den karakteren studenten til slutt får gir et mest mulig riktig bilde av studentens kunnskaper og ferdigheter. Ny sensurering og ny avleggelse av eksamen vil være aktuelt hvor den formelle feilen innebærer at studentene har hatt en urimelig fordel, for eksempel hvis eksamensoppgavene har vært kjent for noen på forhånd. I slike tilfeller vil det ikke være i samsvar med formålet at bare de som ønsker det får ny sensur eller ny eksamen. I andre tilfeller kan den formelle feilen være av en slik art at den ikke har bidratt til at studentene har skrevet en bedre eksamensoppgave enn det de reelt sett hadde kunnskaper til. Da vil ny sensur eller ny eksamen ikke være nødvendig. Noen studenter kan også ha prestert dårligere enn det de faktisk har grunnlag for, for eksempel hvis den formelle feilen består i støy eller lignende i eksamenslokalet, eller en uklarhet eller feil i eksamensoppgaven. I slike tilfeller vil det være tilstrekkelig at de studentene som ønsker det, får tilbud om ny eksamen eller sensur. Karakterfastsetting ved ny sensurering kan påklages etter reglene i lovforslaget § 8-10.
+
+*Tredje ledd* viderefører bestemmelsen om at hvis det er begått formelle feil som det er rimelig å anta at kan ha hatt betydning for en eller flere studenters prestasjon eller bedømmelse av denne, kan det foretas ny sensurering eller avholdes ny eksamen eller prøve. Se ellers omtale av andre ledd over.
+
+*Fjerde ledd* fastsetter at klage på formelle feil behandles av institusjonen, med lokal klagenemnd ved institusjonen som klageorgan. Det er av stor betydning for studentene at klage på formelle feil behandles raskt slik at en eventuell ny eksamen eller ny sensurering kan gjennomføres relativt kort tid etter eksamen. Utdanningsinstitusjonen vurderer klagen, om den skal tas til følge og eventuelt hvilke tiltak som er nødvendige for å rette opp en eventuell formell feil. Dette tilsvarer ordningen etter forvaltningsloven § 33 andre ledd, som gir underinstansen myndighet til å oppheve eller endre et vedtak hvis den finner at en klage er begrunnet. Dersom utdanningsinstitusjonen ikke tar klagen til følge skal den tilrettelegge saken og oversende den til klageorganet for behandling, tilsvarende ordningen i forvaltningsloven § 33 fjerde ledd.
+
+*§ 8-9.* Rett til begrunnelse
+
+Studenten har rett til å få en begrunnelse for karakterfastsettingen av sin prestasjon. Krav om begrunnelse må fremsettes innen én uke dersom karakteren ble kunngjort elektronisk for studenten, og studenten kan fremsette krav om begrunnelse på tilsvarende måte. Ved annen type kunngjøring må krav om begrunnelse fremsettes innen én uke fra studenten fikk kjennskap til karakteren, likevel ikke mer enn tre uker fra karakteren ble kunngjort.
+
+Ved bedømmelse av muntlige, utøvende eller praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakteren er meddelt studenten.
+
+Begrunnelse for karakterfastsettelsen skal være gitt innen to uker etter at studenten har bedt om det. I begrunnelsen skal det gjøres rede for de generelle prinsippene som er lagt til grunn for bedømmelsen, og den konkrete bedømmelsen av studentens prestasjon. Institusjonen bestemmer om sensorene skal gi begrunnelsen muntlig eller skriftlig.
+
+Merknad:
+
+*Første ledd* omhandler retten til å få en begrunnelse. Fastsettelse av karakter er et enkeltvedtak. Hovedregelen er at enkeltvedtak skal grunngis og begrunnelsen skal gis samtidig med at vedtaket treffes, jf. forvaltningsloven § 24. Dette gjelder bare så langt ikke annet fremgår av særlov. Gjeldende regler i universitets- og høyskoleloven avviker fra forvaltningslovens hovedregel ved at begrunnelsesplikten først inntrer når studenten ber om det. Dette foreslås også videreført.
+
+En student kan kreve å få begrunnelse for karakterfastsettingen for sin egen prestasjon ved eksamen. I begrunnelsen for karaktervurderingen skal det redegjøres både for de generelle retningslinjene som er lagt til grunn for vurderingen og for den konkrete vurderingen av studentens besvarelse, blant annet om innhold og form.
+
+Retten til å kreve begrunnelse for sine eksamensprestasjoner må sees i sammenheng med klageadgangen. Begrunnelsesplikten må også sees i sammenheng med institusjonens ansvar for studentenes læring, fordi begrunnelsen vil kunne være en viktig del av veiledningen for studenter som ikke oppnår de forventede resultater til eksamen. En begrunnelse med tilstrekkelig veiledning som gjør studenten i stand til å se sine prestasjoner i lys av målene institusjonen har satt for besvarelsen vil kunne være oppklarende. I noen tilfeller vil slik veiledning bidra til at studenten ikke klager på en karakterfastsettelse vedkommende i utgangspunktet vurderte å klage på.
+
+*Andre ledd* fastsetter at ved muntlig og utøvende vurdering eller bedømmelse av praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakteren er meddelt. Dette er en videreføring av gjeldende rett.
+
+*Tredje ledd* fastsetter at begrunnelsen for karakteren skal være gitt innen to uker etter at studenten har bedt om det. Dette er en skjerping av kravene til sensor i forhold til gjeldende lovbestemmelse som kun sier at karakterbegrunnelsen «normalt» skal foreligge innen to uker. Det er utdanningsinstitusjonen som avgjør om sensorene skal gi begrunnelsen skriftlig eller muntlig. For en eventuelt etterfølgende klage er det en fordel om begrunnelsen avgis skriftlig. Lovbestemmelsen er ikke til hinder for at utdanningsinstitusjonene delegerer til sensorene å avgjøre om det skal være skriftlig eller muntlig begrunnelse.
+
+*§ 8-10.* Klage over karakterfastsetting
+
+En student kan klage skriftlig over karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort. Har studenten krevd begrunnelse for karakterfastsetting etter § 8-9 eller klaget over formelle feil ved oppgavegivning, eksamensavvikling eller gjennomføring av vurderingen etter § 8-8, løper klagefristen fra studenten har fått begrunnelsen for karakterfastsettingen eller resultatet av klagen over formelle feil foreligger. Studenten skal ha mulighet til å begrunne klagen.
+
+Det er individuell klagerett ved gruppeeksamen. En eventuell endring av karakter etter klage vil bare gjelde for den som har klaget.
+
+Ved bruk av løpende vurdering kan institusjonen bestemme om studenten kan fremsette klage etter separat prøve, oppgave eller annen fremvisning av kompetanse, eller når resultatet fra fag, emne eller emnegruppe er kunngjort.
+
+Bedømmelse av muntlig prestasjon og vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve, kan ikke påklages.
+
+Merknad:
+
+*Første ledd* hjemler alminnelig klageadgang ved klage over karakterfastsettingen.
+
+Studenten kan klage skriftlig over karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort. Klagen kan begrunnes og gjøres tilgjengelig for klagekommisjonen sammen med sensorveiledning og eventuell skriftlig karakterbegrunnelse fra opprinnelig sensor.
+
+Er krav om begrunnelse for karakterfastsetting etter § 8-9 eller klage over formelle feil ved oppgavegivning, eksamensavvikling eller gjennomføring av vurderingen fremsatt etter § 8-8, løper klagefristen på tre uker fra studenten har fått begrunnelsen for karakterfastsettelsen eller resultatet av den formelle klagen foreligger.
+
+*Andre ledd* gjelder klage på gruppeeksamen. Utgangspunktet i forvaltningsloven er at man kan klage på vedtak som er bestemmende for ens rettigheter eller plikter, jf. forvaltningsloven § 28. Gruppeeksamen er et samarbeid og det avgis en felles besvarelse hvor det ofte ikke er mulig å identifisere bidraget fra den enkelte. Studentenes rettsikkerhet ivaretas best gjennom en individuell klagerett ved gruppeeksamen. Hvis karakteren omgjøres etter klage, skal den nye karakteren bare gjelde for den, eller de, studenten(e) som har klaget på karakteren. Dette innebærer at for den eller de studenten(e) som ikke klager, vil karakteren gitt ved første sensur bli stående. Hvis en students valg om å klage på en gruppeeksamen får konsekvenser for hele gruppen vil dette gå ut over rettsikkerheten til de studentene som ikke ønsker å klage.
+
+*Tredje ledd* er en videreføring av gjeldende rett hvor det er opp til institusjonen å bestemme om det ved bruk av løpende vurdering skal fremsettes klage etter vurdering av separat prøve, oppgave eller annen vurdering, eller om klage skal fremsettes når resultatet fra fag, emne eller emnegruppe er kunngjort. Det er viktig at studentene på forhånd er informert om når de kan fremsette klagen.
+
+*Fjerde ledd* omhandler klage over muntlig eller utøvende eksamen, eller bedømmelse av praksis. Det er ikke adgang til å klage hvis disse ikke er etterprøvbare. Hvis de kan etterprøves gjelder de samme reglene som for skriftlig vurdering. Dette er også en videreføring av gjeldende rett.
+
+*§ 8-11.* Gjennomføring av klagesensur
+
+Ved klage etter § 8-10 skal institusjonen foreta ny sensurering. Studentens begrunnelse og sensorveiledningen skal gjøres tilgjengelig for klagekommisjonen. Hvis studenten har fått en skriftlig begrunnelse for karakterfastsettingen, skal denne også gjøres tilgjengelig for klagekommisjonen. Institusjonen skal gjennomføre klagesensuren uten ugrunnet opphold.
+
+Det skal være to sensorer, hvorav minst én ekstern, ved klagesensuren.
+
+Ved ny sensurering kan endring gjøres både til gunst og ugunst for klager. Hvis den endelige karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve og karakteren endres etter ny sensur av den skriftlige delen av eksamenen, skal ny muntlig prøve avholdes for å fastsette endelig karakter.
+
+Karakterfastsetting ved ny sensurering etter denne bestemmelsen kan ikke påklages.
+
+Merknad:
+
+*Første ledd* fastsetter at klage over karakter skal følge reglene for alminnelig klageadgang i tråd med forvaltningslovens hovedregel. Dette er en endring i forhold til gjeldende rett. Studentenes prestasjon, studentens klage, sensorveiledning og eventuell begrunnelse for karakterfastsettingen skal gjøres tilgjengelig for ny sensor. Klagesensuren skal gjennomføres uten ugrunnet opphold, og dette følger også av forvaltningsloven § 11 a, at forvaltningsorganet skal forberede og avgjøre saken uten ugrunnet opphold. Dersom det må ventes at det vil ta uforholdsmessig lang tid før en henvendelse kan besvares, skal det snarest mulig gis et foreløpig svar.
+
+Hva som ligger i «uten ugrunnet opphold» vil variere fra sak til sak, og vil måtte bero på en konkret individuell vurdering av hensynet til en forsvarlig saksbehandling, sakens omfang, kompleksitet og tilgjengelige ressurser.
+
+Omfanget av arbeidet med klage på karakterfastsettelse vil variere avhengig av antall oppgaver som skal sensureres og type eksamen. Klagesensur gjennomføres dessuten ofte når det er ferieavvikling ved institusjonene og det kan være vanskelig å fremskaffe sensorer. Hvor lang frist som er nødvendig for en klagesensur vil derfor variere.
+
+Det er viktig at studentene mottar resultatet fra klagebehandlingen så raskt som mulig. Resultatet kan ofte være tidssensitivt fordi det kan ha innvirkning på videre studier studenten har søkt opptak til. Klagebehandlingen foretas samlet av sensorene når klagefristen utløper.
+
+*Andre ledd* bestemmer at det skal være to sensorer, hvorav én ekstern, ved klagesensuren. Klagesensor skal ikke ha vurdert den aktuelle besvarelsen i forbindelse med førstesensuren, men kan ha vurdert andre besvarelser innenfor samme eksamen tidligere.
+
+*Tredje ledd* viser til at ny sensurering kan gjøres både til gunst og ugunst for klager. Dersom det har vært holdt muntlig prøve i tilknytning til skriftlig eksamen, og deretter satt en felles karakter ut fra en samlet vurdering av begge prøvene, er det, hvis den muntlige presentasjonen er av en slik art at den ikke kan påklages, kun den skriftlige delen av prøven som kan påklages. Dette er en videreføring av gjeldende rett.
+
+*Fjerde ledd* fastsetter at det ikke er mulig å påklage den nye karakterfastsettingen. Dette følger også av forvaltningsloven § 28 første ledd siste punktum, men presiseres også i lovforslaget for å gjøre dette tydelig overfor studentene.
+
+*§ 8-12.* Ph.d.-kandidatenes rettigheter og plikter
+
+Når eksamen, studieemner og prøver tas som en del av doktorgradsprogrammet, gjelder rettigheter og plikter som følger av denne loven tilsvarende for ph.d.-kandidater.
+
+Merknad:
+
+Lovforslaget gjelder all høyere utdanning som faller under lovens virkeområde, og gjelder i utgangspunktet også doktorgradsstudiene. Doktorgradsutdanningene er i tillegg regulert i institusjonenes egne forskrifter, forvaltningsloven og forskningsetikkloven.
+
+Det har blitt mer og mer vanlig at ph.d.-kandidatene tar studieemner, eksamener og prøver som obligatoriske deler av doktorgradsprogrammene. Når ph.d.-kandidatene tar eksamen, kurs og prøver underveis i doktorgraden gjelder lovforslaget tilsvarende for ph.d.-kandidatene som for andre studenter. Dette gjelder for eksempel regler om eksamen, vurdering og sensur. Det er kun der det foreligger særlig grunn til en annen behandling at det gjøres unntak fra reglene som ellers gjelder studenter. Dette gjelder reglene om bortvisning og utestengning av ph.d.-kandidater som har et ansettelsesforhold ved institusjonen.
+
+Regler knyttet til vurdering av selve doktoravhandlingen er regulert i forskningsetikkloven, for å sikre at den forskning som skjer under en doktoravhandling er underlagt de samme forskningsetiske krav som ellers gjelder i samfunnet.
+
+*§ 8-13.* Vitnemål
+
+Institusjonen skal utstede vitnemål om fullført utdanning, så fremt minst 60 av studiepoengene som skal inngå i grunnlaget for graden, er avlagt ved denne institusjonen. Det samme gjelder tildeling av grad. Institusjonen skal på forespørsel gi en student som ikke har avsluttet en utdanning karakterutskrift for de eksamener eller prøver vedkommende har bestått.
+
+Institusjonen skal samtidig utstede et vitnemålstillegg som nærmere beskriver studentens kvalifikasjoner, til bruk ved godkjenning av vedkommendes kvalifikasjoner i utlandet (Diploma Supplement). NOKUT kan gi retningslinjer for innholdet i Diploma Supplement.
+
+For en student som går opp til eksamen etter § 8-5 første ledd andre punktum, skal institusjonen angi på vitnemålet eller karakterutskriften dersom studentens kunnskaper og ferdigheter er prøvd på en annen måte enn for studenter som er tatt opp ved studiet.
+
+Det skal fremgå av vitnemålet hvor mange ganger en eksamen er avlagt.
+
+Det skal fremgå av vitnemålet dersom utdanningen er gitt i samarbeid med andre institusjoner, jf. § 2-6 andre ledd.
+
+Institusjonen skal tildele autorisasjon for helsepersonell i forbindelse med utstedelse av vitnemål, i den utstrekning det er fastsatt i forskrift gitt i medhold av helsepersonelloven.
+
+Merknad:
+
+*Første ledd* bestemmer at universiteter og høyskoler skal utstede vitnemål ved fullført utdanning.

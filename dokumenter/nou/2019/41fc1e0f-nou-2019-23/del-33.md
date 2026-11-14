@@ -1,986 +1,248 @@
-# NOU 2019: 23, del 33 av 71 (side 376–386)
+# NOU 2019: 23, del 33 av 80
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2019/41fc1e0f-nou-2019-23.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2019-23/id2682434/
 - Original-PDF: https://www.regjeringen.no/contentassets/3a08b44df1e347619e32db47d13ac0cd/no/pdfs/nou201920190023000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 15 figurer, 41 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 376]
-
-374
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-Underveisvurdering innebærer en løpende vurdering av elevenes arbeid og kompetanse, og har
-som formål å fremme læring, utvikle kompetanse
-og gi grunnlag for hvordan skolen bør utforme
-den universelle opplæringen. Detaljerte regler om
-underveisvurdering skal etter utvalgets forslag
-fortsatt reguleres i forskrift til loven.
-Dagens meldeplikt og plikt til å vurdere og
-eventuelt prøve ut tiltak innenfor det ordinære
-opplæringstilbudet er i dagens § 5-4 første avsnitt
-direkte knyttet til «om ein elev treng spesialundervisning». Utvalget har vurdert om forslag til ny lov
-bør inneholde en meldeplikt som inntrer uten at
-det er grunn til tro at eleven trenger individuelt tilrettelagt opplæring.
-Utvalget mener at vurderingstemaet for å vurdere og sette i verk tiltak bør være om eleven står
-i fare for ikke å få, eller ikke får, tilfredsstillende
-utbytte av opplæringen. Utvalget foreslår derfor
-en lovbestemmelse som uttrykkelig sier at dersom det er tvil om en elev får et tilfredsstillende
-utbytte av opplæringen, skal kommunen sørge for
-at lærerne melder fra til rektor. Videre mener
-utvalget at loven fortsatt bør inneholde en regel
-om at skolen skal vurdere og sette i verk tiltak
-innenfor den universelle opplæringen, se forslag
-til § 10-2. Dette er en videreføring av dagens plikt
-for skolen til å vurdere og prøve ut tiltak innenfor
-det universelle opplæringstilbudet, men forslaget
-går noe lenger enn dagens utprøvingsplikt. Etter
-dagens lov skal skolen «eventuelt» prøve ut tiltak,
-og utvalget foreslår at forbeholdet fjernes i ny opplæringslov. Forslaget innebærer at skolen så raskt
-som mulig skal vurdere og sette i verk tiltak, og at
-tiltakene skal fortsette til det ikke er behov for
-dem eller helt fram til det eventuelt er fattet vedtak om individuell tilrettelegging. Egnede tiltak
-kan for eksempel være at elevene får nye læremidler, at skolen varierer organiseringen av og intensiteten i opplæringen, at rektor setter inn ekstra
-ressurser, at lærerne får veiledning fra andre fagpersoner til å legge opplæringen bedre til rette og
-at eleven får forsterket innsats. PP-tjenesten kan
-bidra både i undersøkelsesfasen og i tiltaksfasen,
-se kapittel 31.5.8. Tiltakene kan føre til at det ikke
-er nødvendig med vedtak om individuelt tilrettelagt opplæring. Informasjonen fra denne fasen kan
-eventuelt danne grunnlag for en sakkyndig vurdering og enkeltvedtak om individuelt tilrettelagt
-opplæring.
-I tillegg til rett og plikt til underveisvurdering
-foreslår utvalget at loven fortsatt skal inneholde
-en plikt for kommunen til å gi en årlig vurdering
-av den individuelt tilrettelagte opplæringen, jf.
-dagens opplæringslov § 5-5 andre avsnitt og for-
-
-slag til § 10-8. Bestemmelsen innebærer at kommunen skal evaluere om den individuelt tilrettelagte opplæringen gir læringsresultater. En evaluering av opplæringen vil være viktig for å få kunnskap om hvor egnet de igangsatte tiltakene er for
-å nå målene som er satt i den individuelle opplæringsplanen. Evalueringen kan gi grunnlag for å
-justere tiltakene som gis, eller beslutte at eleven
-ikke lenger har behov for individuelt tilrettelagt
-opplæring.
-
-31.5.6 Elevenes rett til medvirkning styrkes
-I Barneombudets rapport Uten mål og mening?
-kommer det fram at elever med særskilte behov
-ikke blir hørt i saker om sine utfordringer i skolen. Utvalget foreslår at barns rett til medvirkning
-skal stå i en egen paragraf i lovens innledende del,
-se forslag til § 2-2 og omtale av forslaget i kapittel
-19. Regelen om barns rett til å bli hørt i spørsmål
-som gjelder dem selv, og regelen om at deres
-mening skal tillegges vekt, gjelder i alle spørsmål
-som gjelder barn, inkludert universell opplæring
-og alle former for individuell tilrettelegging.
-31.5.7 Individuelt tilrettelagt opplæring skal
-gis av kvalifisert personale
-Etter dagens regelverk gjelder som hovedregel de
-samme formelle kravene til lærerkompetanse for
-spesialundervisning som for tilpasset opplæring.
-Det betyr at den som skal gi spesialundervisning,
-må oppfylle kompetansekravene i opplæringsloven for å kunne ansettes i undervisningsstilling og
-for å kunne gi opplæring i fag, se kapittel 38.
-Hovedregelen er at personer uten relevant og faglig kompetanse – det vil si lærerutdanning eller
-universitets- og høyskoleutdanning og praktiskpedagogisk utdanning (PPU) – ikke kan ansettes i
-undervisningsstilling.
-Statistikk fra Utdanningsdirektoratet79 viser
-en stor økning i antallet timer med assistent i spesialundervisningen. Med assistenter menes personale som ikke er ansatt i lærerstilling. Assistenter
-er ikke en ensartet gruppe når det gjelder kompetanse. Betegnelsen «assistent» brukes som regel
-om ufaglærte uten formell bakgrunn og faglærte
-med for eksempel barne- og ungdomsarbeiderutdanning. Personer med høyere utdanning som
-ikke har lærerutdanning eller universitets- og høyskoleutdanning inklusive pedagogisk utdanning,
-er også omfattet av betegnelsen fordi disse perso79
-
-Utdanningsdirektoratet, 2018l.
-
-[Side 377]
-
-NOU 2019: 23
-Ny opplæringslov
-
-nene ikke oppfyller kompetansekravene for å
-kunne ansettes i lærerstilling.
-Statistikken fra Utdanningsdirekoratet og
-Riksrevisjonens rapport fra 2011 om spesialundervisningen i grunnskolen80 viser at bruk av assistenter i spesialundervisningen har økt betydelig
-siden 2002 og fram til i dag. Mangel på kompetanse i skolen er et av hovedfunnene i Barneombudets rapport Uten mål og mening? og omfatter
-både bruk av ufaglærte, bruk av pedagoger uten
-god nok kompetanse til å undervise i det aktuelle
-faget og mangel på spesialpedagogisk kompetanse.
-Dagens opplæringslov er ikke er til hinder for
-at personer som ikke er ansatt i lærerstilling –
-under visse forutsetninger – kan bistå lærerne i
-gjennomføringen av opplæringen, både tilpasset
-opplæring og spesialundervisning. Etter dagens
-regelverk kan personer som ikke er ansatt i lærerstilling, «hjelpe til i opplæringa» under visse forutsetninger, men de kan ikke ha ansvaret for opplæringen, jf. opplæringsloven § 10-11.
-I tillegg til å «hjelpe til i opplæringa», kan personer som ikke er ansatt i lærerstilling, brukes til
-å ivareta enkeltelevers behov for praktisk hjelp
-(personlig assistanse) og avlaste lærerne med å
-bidra til å skape et godt læringsmiljø i klassen
-eller i gruppen.
-I og med at bruken av assistenttimer i spesialundervisningen har økt betydelig, og at bruken av
-assistenter sannsynligvis er en viktig årsak til at
-spesialundervisning ikke realiserer læringspotensialet til elevene, har utvalget vurdert om loven
-bør åpne for at assistenter kan «hjelpe til i opplæringa», slik loven gjør i dag.
-Regelen i § 10-11 som ble innført i 2013, se
-kapittel 31.4.1, ser ikke ut til å ha hatt den virkningen som var tiltenkt: å redusere bruken av assistenter i spesialundervisningen. Det er grunn til å
-tro at assistenter som er ansatt for å gi elever praktisk hjelp og støtte i skolehverdagen, også brukes
-til å utføre opplæring i strid med forutsetningene i
-opplæringsloven § 10-11. Det kan også være at
-unntakshjemmelen i § 5-5 tredje avsnitt blir brukt
-som hjemmel for å benytte assistenter i opplæringen selv om reglene ikke gir hjemmel til å bruke
-andre enn lærere i spesialundervisningen. Utvalget antar at det ligger en økonomisk motivasjon
-bak den omfattende assistentbruken i skolen fordi
-assistentbruk i spesialundervisningen koster mindre for kommunen enn bruk av lærere.
-Utvalget mener at loven fortsatt bør åpne for at
-assistenter, det vil si personer som ikke er ansatt i
-80
-
-Dokument nr. 3:7 (2010–2011), s. 44.
-
-375
-
-Kapittel 31
-
-lærerstilling, kan brukes til å hjelpe til i opplæringen. Se kapittel 39.4.3. Å hjelpe til i opplæringen
-innebærer i denne sammenheng at assistenten gir
-opplæring til elever. Utvalget foreslår å endre ordlyden i dagens bestemmelse slik at det står klart i
-loven at det bare er lærere som kan ha ansvaret
-for opplæringen. Se omtale av og begrunnelse for
-forslaget i kapittel 39.4.1.
-Det er i dag ikke et eksplisitt krav om at en
-lærer må være til stede sammen med eleven når
-en elev gis opplæring av en assistent. For å forhindre at elever tas med ut av klasserommet og gis
-opplæring av en assistent uten at en lærer er til
-stede, foreslår utvalget å lovfeste at en lærer som
-hovedregel må være til stede sammen med eleven
-når eleven får opplæring. Det innebærer at personer som ikke er lærere, kan hjelpe elever som får
-individuelt tilrettelagt opplæring, kun når en lærer
-er til stede. Forslaget innebærer en innstramming
-av dagens adgang til å bruke assistenter til å gi
-opplæring. Se omtale av forslaget i kapittel 39.4.1.
-Assistenter kan også brukes til å gi elever
-praktisk hjelp gjennom skoledagen, ha omsorg for
-enkeltelever, hjelpe læreren med praktiske oppgaver, inspisere i skolegården eller utføre administrative og tekniske oppgaver i skolen. Andre
-yrkesgrupper enn lærere kan utføre oppgaver i
-skolen utenfor opplæringen, og forslaget om at en
-lærer må være til stede, er ikke ment å endre noe
-omkring ulike yrkesgrupper som utfører oppgaver i skolen som ikke er opplæring.
-Rett til praktisk hjelp fra en assistent kan være
-omfattet av vedtaket om individuelt tilrettelagt
-opplæring. Eleven kan i tillegg ha rett til brukerstyrt personlig assistanse (BPA) etter helse- og
-omsorgslovgivningen. Se kapittel 31.3.4 om grensen mellom spesialundervisning og helse- og
-omsorgstjenester. I Helsedirektoratets veileder
-om barn og unge med habiliteringsbehov er det
-forklart at både en assistent som er ansatt i skolen, og en brukerstyrt personlig assistent kan ha
-oppfølgingsoppgaver mens eleven er på skolen.
-Videre står det at kommunen avgjør hvilke tjenester som skal tilbys den enkelte bruker, og om de
-skal gis i form av BPA. Praktisk bistand fra en
-assistent mens eleven er på skolen, kan med
-andre ord gis etter både helse- og omsorgslovgivningen og etter reglene om individuell tilrettelegging i opplæringsloven.
-Utvalget mener at unntaksbestemmelsen i
-dagens § 5-5 tredje avsnitt om at det i et vedtak om
-spesialundervisning kan gjøres unntak fra kravene om kompetanse i faget det skal undervises i,
-bør videreføres i ny lov. Begrunnelsen for unntaksbestemmelsen er at det i noen tilfeller er vikti-
-
-[Side 378]
-
-376
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-gere med en annen kompetanse som er mer tilpasset elevens behov, enn den kompetansen som
-følger av de vanlige kompetansekravene. Det kan
-være at en elev har behov for en særskilt spesialpedagogisk kompetanse, for eksempel en lærer
-som er spesialpedagog, audiopedagog eller
-logoped. Regelen er ment å sikre elever rett til
-lærer med en særskilt kompetanse, og at unntaket
-må begrunnes ut fra faglige og pedagogiske årsaker. Utvalget mener at vilkårene for å bruke unntaksbestemmelsen bør tydeliggjøres i loven. Det
-skal komme klart fram i loven at unntaket bare
-gjelder bruk av personer som har en kompetanse
-som i større grad kan ivareta elevens særlige
-behov, enn en person som oppfyller de ordinære
-kompetansekravene for å kunne undervise i faget.
-Utvalget mener at loven også bør åpne for at
-personer med høy og relevant kompetanse, men
-som ikke har lærerutdanning, i særlige tilfeller
-skal kunne gi individuelt tilrettelagt opplæring og
-ha ansvaret for slik opplæring på lik linje med
-lærere. Utvalget foreslår å fastsette i loven at de
-alminnelige kompetansekravene kan fravikes i et
-vedtak om individuelt tilrettelagt opplæring dersom en konkret vurdering av eleven og opplæringen som skal gis, taler for det. Unntak skal bare
-gjelde for personer som har universitets- eller
-høgskoleutdanning, og som har en kompetanse
-som i større grad kan ivareta elevens behov, enn
-en person som oppfyller de ordinære kompetansekravene. Unntaket åpner for at for eksempel en
-psykolog, barnevernspedagog eller spesialpedagog med relevant kompetanse, men som ikke har
-lærerutdanning, kan ha ansvaret for å planlegge,
-gjennomføre og følge opp undervisningen når det
-er begrunnet med elevens behov. Spesialpedagog
-er for øvrig ikke en beskyttet tittel, og det må derfor vurderes i hvert enkelt tilfelle om spesialpedagogen har den kompetansen eleven har behov for.
-Spesialpedagogikk kan innebære ulike fordypninger innenfor emner som audiopedagogikk, kommunikasjon, logopedi, spesifikke lærevansker,
-sosiale og emosjonelle vansker, synspedagogikk,
-utviklingshemning og alternativ og supplerende
-kommunikasjon (ASK).81 Behovet for den særskilte kompetansen må komme eksplisitt fram i
-den sakkyndige vurderingen fra PP-tjenesten.
-
-81
-
-Rognhaug et al. 2014.
-
-31.5.8 Pedagogisk- psykologisk tjeneste skal
-hjelpe skolen i arbeidet med å legge
-opplæringen bedre til rette for elevene
-Innledning
-Alle kommuner skal ifølge opplæringsloven ha en
-pedagogisk-psykologisk tjeneste (PP-tjeneste), se
-kapittel 31.2.3. Utvalget mener at loven fortsatt
-bør inneholde et krav om at kommunene skal ha
-en slik tjeneste. Utvalget foreslår å utvide tjenestens ansvarsområde når det gjelder ansvaret for å
-hjelpe skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling, se nedenfor i dette
-kapitlet. I tillegg foreslår utvalget at kravet om
-sakkyndig vurdering ikke skal videreføres i forbindelse med vedtak om
-– opplæring i og på tegnspråk, se kapittel 34.3
-– punktskriftopplæring, se kapittel 34.4
-– fritak fra opplæringsplikten, se kapittel 23.4.3
-– tidlig og utsatt skolestart, se kapittel 23.4.4
-Utvalget foreslår også at det ikke skal være krav
-om sakkyndig vurdering før det fattes vedtak om
-personlig assistanse og fysisk tilrettelegging, se
-kapittel 31.5.3.4 og 31.5.4.3.
-Forslaget innebærer at loven stiller krav om
-sakkyndig vurdering kun før kommunen og fylkeskommunen skal fatte vedtak om individuelt tilrettelagt opplæring og før fylkeskommunen skal
-fatte vedtak om å gi elever med rett til individuelt
-tilrettelagt opplæring ekstra opplæringstid, se forslag til § 10-4 første avsnitt og § 6-5 andre avsnitt
-andre setning.
-Utvalget foreslår i tillegg hjemmel for departementet til å gi forskrift om at den pedagogisk-psykologiske tjenesten skal utarbeide sakkyndige
-vurderinger også i andre tilfeller.
-Krav om at alle kommuner skal ha en PP-tjeneste
-Ifølge utvalgets prinsipper bør organiseringen av
-kommunens oppgaver normalt ikke reguleres i
-lov. Utvalget mener at loven likevel fortsatt bør
-inneholde et krav om at kommunene skal ha en
-PP-tjeneste, fordi tjenesten har en viktig funksjon
-når det gjelder å hjelpe skolene med å tilrettelegge opplæringen for elever med ulike behov og
-å bistå skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling når skolen har
-behov for dette.
-Behovet for en faglig kompetent og uavhengig
-tjeneste som kan bistå skolen med kompetanse
-det ikke kan forventes at skolen kan ha selv, strekker seg langt tilbake i tid. Organiseringen av tjenesten og hvilke oppgaver og hvilken kompetanse
-
-[Side 379]
-
-NOU 2019: 23
-Ny opplæringslov
-
-tjenesten skal ha, har endret seg over tid. Dette
-henger i stor grad sammen med samfunnsutviklingen generelt, og spesielt synet på inkludering.
-Etableringen av en tverrfaglig pedagogisk-psykologisk tjeneste er et resultat av enhetsskoletanken som kan føres tilbake til 1890-årene. Den første lovreguleringen på området kom med en
-bestemmelse om skolepsykologtjenesten i folkeskoleloven av 1955. Tjenestens utvikling fram mot
-slutten av 60-årene var i stor grad preget av at tjenesten skulle kartlegge hvilke elever som burde
-overføres til spesialskoler. Denne måten å organisere elevene på ble mot slutten av 60-tallet sterkt
-kritisert, spesielt av PP-tjenestens egne fagfolk. I
-1976 ble spesialskoleloven avviklet, og krav om at
-hver kommune skal ha en PP-tjeneste, ble lovfestet i en egen paragraf i grunnskoleloven.82
-Smith-utvalget foreslo i sin utredning av
-199583 å lovfeste at PP-tjenesten skal ha ansvar for
-å utarbeide sakkyndig vurdering der loven krever
-det. Samtidig pekte utvalget på at det ofte vil være
-naturlig at kommunene også gir PP-tjenesten
-andre oppgaver i tilknytning til planlegging og
-gjennomføring av undervisning for barn, unge og
-voksne med særlige behov. På bakgrunn av dette,
-foreslo Smith-utvalget at PP-tjenesten gis et særlig
-ansvar for blant annet det spesialpedagogiske
-utviklingsarbeidet i kommunen.84 I Ot.prp. nr. 46
-(1997–98) foreslår departementet at også PP-tjenestens ansvar for kompetanseutvikling og organisasjonsutvikling skal lovfestes. I merknaden til
-bestemmelsen framgår det at endringen er gjort
-for å tydeliggjøre at PP-tjenesten, i tillegg til å ha
-ansvar for arbeidet med å skrive sakkyndig vurdering, også skal ha ansvar for å bistå skolen i arbeidet med å legge opplæringen til rette for elever
-med særskilte behov.85 I 2016 ble PP-tjenestens
-mandat tilsvarende utvidet og klargjort i barnehageloven.
-Faget spesialpedagogikk har vært gjennom
-betydelige endringer når det gjelder forståelse og
-tilnærmingsmåter. I korte trekk går dette ut på å i
-større grad bygge ned hindringer for læring i
-læringsmiljøet framfor å fokusere på den enkelte
-elevs særtrekk og utfordringer.86 I løpet av de
-siste tiårene har det i økende grad blitt lagt vekt
-på at det barn opplever som problematisk i møte
-med skolen, må ses i lys av måten skolesystemet
-møter variasjonen i barns læreforutsetninger på.87
-
-Som følge av dette, har det ikke bare fra politisk hold, men også fra PP-tjenesten selv og kommuner kommet til uttrykk et klart ønske om at
-PP-tjenesten skal jobbe mer med kompetanse- og
-organisasjonsutvikling. Bakgrunnen for dette er
-blant annet mange henvisninger til PP-tjenesten
-og ønske om at skolen i større grad skal være i
-stand til å tilrettelegge opplæringen for elever
-med ulike behov, uten å gå veien om sakkyndig
-vurdering og spesialundervisning.88
-Selv om det i utgangspunktet er generelt høy
-kompetanse i dagens PP-tjeneste,89 har flere statlige tiltak de senere årene blitt gjennomført med
-mål om å bidra til kompetanseutvikling og endring av arbeidsmåter i PP-tjenesten. Programmet
-Samtak ble gjennomført i 2000–2003, og Strategi
-for etter- og videreutvikling for PP-tjenesten (SEVU
-PPT) ble gjennomført i 2014–2018. I sluttrapporten fra evalueringen av SEVU PPT konkluderer
-forskerne med at strategien langt på vei har
-bidratt til å dreie oppmerksomheten mot kompetanseutvikling og organisasjonsutvikling. Kompetansen innenfor denne typen arbeidsoppgaver
-oppgis som høyere blant dem som deltok i videreutdanningstilbudene, enn blant dem som ikke deltok.90 I tillegg har Utdanningsdirektoratet utformet veiledende kvalitetskriterier for PP-tjenesten,
-for å hjelpe kommuner til å utvikle PP-tjenesten.91
-I forarbeidene til dagens bestemmelse om PPtjenesten blir tjenestens faglige uavhengighet
-understreket. Det framgår tydelig at kommunen
-ikke kan instruere om hva de faglig-pedagogiske
-vurderingene skal gå ut på, selv om PP-tjenesten
-er underlagt kommunen organisatorisk og økonomisk.92
-PP-tjenestens betydningsfulle rolle som uavhengig, faglig kompetent instans blir framhevet i
-høringsinnspillene til rapporten fra Ekspertgruppen for barn og unge med behov for særskilt tilrettelegging. Flere høringsinstanser er bekymret
-for at ekspertgruppens forslag om endring av det
-spesialpedagogiske støttesystemet, vil føre til at
-PP-tjenesten svekkes, til fordel for et pedagogisk
-støttesystem på hver skole. Disse høringsinstansene, blant annet Fylkesmannen i Nordland og Ski
-87
-88
-89
-
-82
-
-NOU 1983: 4, s. 15.
-NOU 1995: 18.
-84
-NOU 1995: 18.
-85
-Ot.prp. nr. 46 (1997–98), merknad til § 5-6.
-86
-Rognhaug et al. 2014, s. 25.
-
-377
-
-Kapittel 31
-
-83
-
-90
-91
-92
-
-Hustad et. al. 2018.
-Se f.eks. St.meld. nr 16 (2006–2007), Meld. St. nr. 18
-(2010–2011) og Meld. St. nr. 21 (2016–2017).
-Ifølge GSI har over 80 pst av de ansatte i fagstillingene
-utdanning tilsvarende mastergrad eller høyere. Om lag
-halvparten av de fagansatte har spesialpedagogisk utdanningsbakgrunn.
-Andrews et. al. 2018.
-Utdanningsdirektoratet, 2016d.
-Ot.prp. nr. 46 (1997–98), merknad til § 5-6.
-
-[Side 380]
-
-378
-
-Kapittel 31
-
-NOU 2019: 23
-Ny opplæringslov
-
-kommune, løfter særlig fram at PP-tjenesten har
-et «utenforblikk» og er en nøytral part. Faglig råd
-for PP-tjenesten skriver i sitt høringsinnspill at det
-vil være vanskelig å opprettholde legitimitet som
-veileder om en skal veilede i det systemet en selv
-er en del av. Fylkesmannen i Oslo og Akershus og
-Fylkesmannen i Sogn og Fjordane, peker på at PPtjenestens faglige og økonomiske uavhengighet
-bidrar til å styrke elevenes rettssikkerhet. I tillegg
-peker blant annet Fylkesmannen i Sogn og Fjordane på at små kommuner vanskelig vil kunne ha
-tilstrekkelig kompetanse, og vil være avhengige
-av gode interkommunale samarbeid. Mange
-høringsinstanser mener videre at ekspertgruppens beskrivelse av PP-tjenesten er mangelfull og
-utdatert. Flere peker på at beskrivelsen passer for
-tidligere praksis, men at PP-tjenesten har gjennomgått store endringer. PP-tjenesten oppleves nå
-som mer tilgjengelig og med mer kompetanse om
-hvordan de kan møte skolenes behov.93
-Opplæringslovutvalget merker seg at det i
-flere rapporter framgår at det er ulike utfordringer knyttet til arbeidet PP-tjenesten i dag gjør, se
-kapittel 31.4.2. Utvalget finner det vanskelig å forutse virkningene av å avvikle kravet om å ha en
-PP-tjenesten i opplæringsloven. PP-tjenesten har
-ansvar for å hjelpe skolen i vurderingen og konkretiseringen av hva den enkelte elev trenger for å
-få et tilfredsstillende, likeverdig og inkluderende
-opplæringstilbud, og tjenesten er derfor et sikkerhetsnett både for elever og for skolen. PP-tjenestens faglige kompetanse og tjenestens rolle som
-uavhengig sakkyndig instans, kan være avgjørende for at elevene får den tilretteleggingen de
-har krav på, og at skolene får den støtten de har
-behov for, i en kompleks og ofte økonomisk utfordrende skolehverdag.
-PP-tjenesten skal gi råd til skolene om hvordan
-opplæringen kan organiseres og gjennomføres
-En forutsetning for at en elev skal få hjelp raskt,
-kan være at skolen får veiledning fra den pedagogisk- psykologiske tjenesten om hvordan skolen
-kan legge opplæringen bedre til rette for elevene.
-Etter opplæringsloven § 5-6 skal PP-tjenesten
-«hjelpe skolen i arbeidet med kompetanseutvikling og organisasjonsutvikling for å leggje opplæringa betre til rette for elevar med særlege
-behov». Oppgavene som er knyttet til kompetanse- og organisasjonsutvikling, har ofte blitt
-betegnet som systemrettet arbeid.
-93
-
-Utdanningsdirektoratet, 2018n.
-
-Målgruppen for PP-tjenestens arbeid med
-kompetanseutvikling og organisasjonsutvikling er
-ifølge § 5-6 elever med «særlege behov». Utvalget
-mener at PP-tjenestens mandat bør utvides slik at
-tjenestens arbeid ikke bare skal rette seg mot
-elever med «særlege behov», men mot alle elever.
-I kvalitetskriterier utviklet av Utdanningsdirektoratet, står det at PP-tjenesten skal arbeide
-forebyggende slik at skolene kan komme i forkant
-av problemer.94 Det er imidlertid ikke lovfestet at
-PP-tjenestens arbeid med å hjelpe skolene med
-organisasjonsutvikling og kompetanseutvikling
-skal rette seg mot alle elever.
-Utvalget mener at tjenesten bør ha ansvar for å
-hjelpe skolen med å legge opplæringen bedre til
-rette overfor alle elever, ikke bare elever med særlige behov. Dette kan bidra til at færre elever trenger individuelt tilrettelagt opplæring, at de som
-trenger det, får raskere og riktigere hjelp, og at
-opplæringstilbudet til den enkelte elev blir bedre.
-Utvalget foreslår at PP-tjenesten, når det er behov
-for det, skal ha plikt til å gi råd til skolene om
-hvordan opplæringen kan organiseres og gjennomføres. Det betyr blant annet at PP-tjenesten
-skal gi råd og hjelp til skolen når det gjelder tilrettelegging av forsterket innsats til elever som ikke
-har de læringsresultatene som er forventet. Informasjonen fra denne fasen kan eventuelt danne
-grunnlag for en sakkyndig vurdering og for
-enkeltvedtak om individuelt tilrettelagt opplæring.
-Forslaget innebærer at PP-tjenesten også skal gi
-råd og veiledning når det gjelder opplæringen for
-elever som har høyt potensial for læring.
-
-31.5.9 Saksbehandlingsreglene forenkles
-Opplæringsloven inneholder særlige krav til saksbehandlingen i forbindelse med vedtak om spesialundervisning. Opplæringsloven har følgelig et
-unntak fra de alminnelige reglene i forvaltningsloven om utredningsplikt. Unntaket i opplæringsloven går ut på at det kreves en sakkyndig vurdering før det fattes vedtak om spesialundervisning,
-og at vurderingen skal utføres av pedagogisk-psykologisk tjeneste (PP-tjenesten). Loven stiller
-også krav om hva den sakkyndige vurderingen
-skal inneholde. KS har gitt innspill til utvalget om
-hvilken kompetanse kommunen trenger for å
-utrede saken i tråd med forvaltningslovens regler,
-organiseringen av en slik kompetanse og at dette
-hører inn under kommunens organiseringsfrihet.
-Utvalget foreslår at opplæringsloven fortsatt
-bør inneholde krav om sakkyndig vurdering fra
-94
-
-Utdanningsdirektoratet, 2016d.
-
-[Side 381]
-
-NOU 2019: 23
-Ny opplæringslov
-
-PP-tjenesten før det fattes vedtak om individuelt
-tilrettelagt opplæring.
-De vanlige saksbehandlingsreglene om utredningsplikt i forvaltningsloven bør imidlertid være
-tilstrekkelige når kommunen skal fatte vedtak om
-personlig assistanse og fysisk tilrettelegging. Det
-vil si at det ikke stilles krav om at det skal foreligge en sakkyndig utredning fra PP-tjenesten når
-kommunen skal fatte vedtak om praktisk eller
-fysisk tilrettelegging. Siden saken, ifølge forvaltningsloven, skal være «så godt opplyst som mulig
-før vedtak treffes», kan det hende at det i noen tilfeller vil være nødvendig med en vurdering fra PPtjenesten. Dersom kommunen trenger råd og veiledning i forbindelse med vedtak om praktisk eller
-fysisk tilrettelegging, kan det i noen tilfeller være
-mer relevant å få bistand fra for eksempel en ergoterapeut, audiopedagog og fysioterapeut. Med en
-slik løsning kan PP-tjenesten frigjøre tid fra å
-skrive sakkyndige vurderinger til å jobbe forebyggende ved å hjelpe skolene i arbeidet med kompetanseutvikling og organisasjonsutvikling og gi råd
-til skolene om løsninger og tiltak innenfor den universelle opplæringen.
-Det følger av dagens § 5-3 tredje avsnitt at
-departementet kan gi nærmere forskrifter om den
-sakkyndige vurderingen fra pedagogisk-psykologisk tjeneste. Forskriftshjemmelen har ikke blitt
-brukt. Etter utvalgets vurdering er det ikke behov
-for å gi ytterligere regler i forskrift når loven inneholder en detaljert oppramsing av kravene til den
-sakkyndige vurderingen. Kravene foreslås i
-hovedsak videreført i forslag til § 10-5. Oppramsingen er ikke uttømmende, men inneholder et
-minstekrav til hva den sakkyndige vurderingen
-skal inneholde. Utvalget mener derfor at forskriftshjemmelen er overflødig, og foreslår at den
-ikke videreføres.
-
-31.5.10 Dobbeltreguleringer fjernes
-Utvalget foreslår også at dagens lovbestemmelser
-om opplæring av elever med behov for alternativ
-og supplerende kommunikasjon (ASK) ikke videreføres i ny lov fordi innholdet i bestemmelsene
-følger av forslag til nye bestemmelser om universell opplæring, individuelt tilrettelagt opplæring,
-fysisk tilrettelegging og personlig assistanse. For
-eksempel vil elever som ikke får tilfredsstillende
-utbytte av den universelle opplæringen, ha rett til
-individuelt tilrettelagt opplæring, uansett årsak.
-Etter dagenes regelverk skal det ikke fattes
-enkeltvedtak etter bestemmelsene om ASK, men
-enkeltvedtak om bruk av og opplæring i ASK kan
-
-379
-
-Kapittel 31
-
-fattes etter opplæringsloven § 5-1 eller etter § 9 A7 tredje avnsitt om tilrettelegging av arbeidsplassen, som kan omfatte fysisk tilrettelegging for
-ASK. Hvis ASK er en del av tilpasset opplæring,
-skal det ikke fattes enkeltvedtak. Dagens bestemmelser om ASK innebærer følgelig en dobbeltregulering, og det er presisert i lovens forarbeider
-at innholdet i bestemmelsene om ASK følger av
-reglene om tilpasset oppæring og spesialundervisning.95
-Ifølge utvalgets prinsipper for regelstyring
-skal dobbeltregulering normalt unngås. Med dobbeltregulering forstås regler som i innhold er de
-samme som andre regler innad i loven eller regler
-i annet regelverk. Dobbeltregulering har en rekke
-ulemper: I tillegg til at lovens tekstmengde øker,
-kan det legge grunnlag for uønskede antitetiske
-tolkninger når det gjelder elevgrupper og områder som ikke er nevnt.
-Opplæring av personer med behov for ASK er
-et komplekst og forholdsvis nytt fagfelt, der behovet for bevisstgjøring og informasjon kan være
-stort. Utdanningsdirektoratet har utviklet en egen
-veileder om ASK i skolen,96 der blant annet pedagogisk og fysisk tilrettelegging for elever med
-behov for ASK er omtalt. Statlig spesialpedagogisk tjeneste (Statped) har ASK som særlig
-ansvarsområde og bidrar på ulike måter til å kartlegge og utvikle tiltak for elever som trenger ASK.
-
-31.5.11 Reaksjoner ved lovbrudd
-Utvalget ønsker ikke å innføre ytterligere reaksjoner ved brudd på reglene om individuelt tilrettelagt opplæring, personlig assistanse og fysisk tilrettelegging enn dagens adgang til å gi pålegg, se
-utredningens kapittel 53 om reaksjoner ved brudd
-på opplæringsloven.
-
-31.6 Utvalgets forslag
-Utvalget foreslår
-– at (1) universell opplæring, (2) forsterket innsats
-og (3) individuelt tilrettelagt opplæring innføres
-som nye betegnelser, se forslag til §§ 10-1, 10-2
-tredje avsnitt og 10-3
-– at forsterket innsats skal gjelde all opplæring
-og ikke begrenses til lesing, skriving og regning
-95
-96
-
-Prop 84 L (2011–2012), merknader til §§ 2-16, 3-13 og 4A13.
-Utdanningsdirektoratet, u.å., alternativ og supplerende
-kommunikasjon (ASK) i skolen.
-
-[Side 382]
-
-380
-
-NOU 2019: 23
-
-Kapittel 31
-
-–
-–
-–
-
-–
-
-–
-
-–
-
-–
-
-Ny opplæringslov
-
-at forsterket innsats skal gjelde for elever på
-alle trinn, og at den kan vare i en kort periode
-og i lengre perioder
-å videreføre at elever kan ha eneundervisning i
-en kort periode som en del av den forsterkede
-innsatsen uten at det er gitt samtykke om dette
-at personlig assistanse og fysisk tilrettelegging –
-som i dag kan inngå i spesialundervisning –
-skilles ut som egne rettigheter, se forslag til
-§§ 10-9 og 10-10
-at skolens plikt til å følge med, melde fra og
-følge opp, inkludert plikten til å gi forsterket
-innsats, skal klargjøres og settes i en sammenheng i en egen bestemmelse, se forslag til § 102
-å videreføre dagens saksbehandlingsregler om
-krav til sakkyndig vurdering før det fattes vedtak om individuelt tilrettelagt opplæring, se forslag til §§ 10-4 og 10-5
-å videreføre dagens regel om individuell opplæringsplan og årlig evaluering av den individuelt tilrettelagte opplæringen, se forslag til
-§§ 10-7 og 10-8
-at dagens lovbestemmelser om opplæring av
-elever med behov for alternativ og supplerende
-kommunikasjon (ASK) ikke videreføres
-
-–
-–
-–
-–
-
-–
-
-–
-
-–
-–
-
-at kravet om at hver kommune og fylkeskommune skal ha en PP-tjeneste videreføres, se forslag til § 10-12
-at PP-tjenestens mandat utvides slik at tjenestens arbeid ikke bare skal rette seg mot elever
-med «særlege behov», men mot alle elever
-at det ikke skal være krav om sakkyndig vurdering fra PP-tjenesten for å få tiltak om personlig
-assistanse eller fysisk tilrettelegging
-å presisere i loven at det bare er personer som
-er ansatt i lærerstilling, som kan ha gi individuelt tilrettelagt opplæring, se forslag til § 10-6
-første avsnitt
-å innføre en bestemmelse om at personer med
-høy og relevant kompetanse, men som ikke er
-lærere, på visse vilkår skal kunne gi individuelt
-tilrettelagt opplæring, se forslag til 10-6 andre
-avsnitt
-å innføre en bestemmelse om at en lærer som
-hovedregel må være til stede dersom personer
-som ikke er ansatt i lærerstilling (assistenter),
-skal hjelpe til i opplæringen, se kapittel 39 og
-forslag til § 15-4
-språklige forenklinger og at reglene struktureres på en annen måte enn i dag
-
-[Side 383]
-
-NOU 2019: 23
-Ny opplæringslov
-
-381
-
-Kapittel 32
-
-Kapittel 32
-
-Opplæringsspråk, skriftspråk, læremidler og
-digital læringsanalyse
-
-Figur 32.1
-I den munnlege opplæringa avgjer elevane og
-undervisningspersonalet sjølve kva for talemål
-dei vil bruke. Undervisningspersonalet og skoleleiinga skal likevel i størst mogleg grad ta
-omsyn til talemålet til elevane i ordval og
-uttrykksmåtar.
-
-32.1 Innledning
-Dette kapitlet handler om krav til den muntlige og
-skriftlige opplæringen, inkludert målformer i
-læremidler, i både grunnskolen og den videregående opplæringen. Dette er i dag regulert i opplæringsloven §§ 2-5 og 9-4.
-Bokmål og nynorsk er likeverdige målformer,
-jf. mållova § 1. I forslag til ny språklov foreslår Kulturdepartementet å gå bort fra uttrykket «målform» og erstatte dette med benevnelsene
-«språk» eller «skriftspråk» om bokmål og
-nynorsk.1 Utvalget er enig i at «skriftspråk» i noen
-sammenhenger er bedre enn «målform», og foreslår at begge benevnelsene brukes i den nye
-loven.
-Bestemmelsene om utstyr og om statens plikt
-til å sørge for læremidler, jf. opplæringsloven §§ 9-3
-og 5-9, behandles også i dette kapitlet. I tillegg
-handler kapitlet om digital læringsanalyse. Forbudet mot reklame i læremidler, jf. opplæringsloven
-§ 9-6, er omhandlet i kapittel 43.7.
-
-Med talemål menes den dialekten den enkelte
-snakker. Kunnskapsdepartementet har videre
-presisert:
-Det er naturlig å kunne ha en forventning om
-at undervisningsspråket i grunnopplæringen i
-Norge er norsk. Dette tilsier at det burde vært
-klargjort i loven dersom man skulle stå fritt til
-å undervise på annet språk. Læreplaner og
-eksamener er for øvrig på norsk. At undervisningsspråket i Norge er norsk eller samisk kan
-dessuten også utledes av for eksempel opplæringsloven § 3-12, som sier at elever i videregående opplæring med annet morsmål enn norsk
-eller samisk, har rett til særskilt norskopplæring til de har tilstrekkelig norskkunnskaper til
-å følge den vanlige opplæringen i skolen.2
-
-32.2 Opplæringsspråkene
-32.2.1 Dagens regler
-Opplæringsspråket i grunnskolen og den videregående opplæringen i Norge er norsk og samisk.
-Dette går ikke eksplisitt fram av opplæringsloven,
-men det står for eksempel følgende i § 2-5 om målformer i grunnskolen:
-1
-
-Kulturdepartementet, 2019a.
-
-I friskolelova § 2-1 fjerde avsnitt er det fastsatt at
-undervisningsspråket skal være norsk eller
-samisk, men at dette kravet ikke gjelder ved internasjonale skoler.
-
-2
-
-Kunnskapsdepartementet, brev datert 23. februar 2015.
-
-[Side 384]
-
-382
-
-NOU 2019: 23
-
-Kapittel 32
-
-Ny opplæringslov
-
-32.2.2 Kunnskapsgrunnlaget
-Rapporter og undersøkelser
-Språkrådets framtidsutvalg peker på at
-alle elever i Norge [bør] tilegne seg gode
-engelskkunnskaper i løpet av skolegangen.
-[…] Samtidig må alle elever i Norge tilegne seg
-norsk språk. I rent engelskspråklige skoleløp
-tar man bort elevens mulighet til å få opplæring
-i det samfunnsbærende språket i Norge. Det vil
-være svært uheldig om vi utdanner elevgrupper som har kunnskapshull i norsk språk.
-Engelskspråklig grunnutdanning strider mot
-hovedprinsippene i den språkpolitikken Stortinget har vedtatt, og slik utdanning må derfor
-ikke bli noe mer enn et unntaksfenomen.
-Norsk språks status som opplæringsspråk i
-grunnopplæringen bør derfor fastsettes i relevant lovverk.
-Språkrådets framtidsutvalg foreslår at norsk får
-lovfestet status som opplæringsspråk i offentlig
-grunnopplæring, og at elever med norsk som opplæringsspråk får rett til opplæring på og i norsk
-gjennom hele skoleløpet.3
-Hordaland fylkeskommune har gjennomført
-forsøk med engelsk som undervisningsspråk i
-noen fag ved en videregående skole. Det var frivillig for elevene å delta i forsøket, og de kunne også
-ombestemme seg underveis. Forsøket er ikke
-evaluert.
-Oslo kommune har fått innvilget forsøk med
-International Baccalaureate (IB) i grunnskolen
-ved to skoler, jf. opplæringsloven § 1-5. Forsøket
-innebærer at det gis opplæring etter IB-læreplaner, og at undervisningsspråket er engelsk i de
-fleste fag. Forsøket startet skoleåret 2016–2017,
-skal etter planen vare i fire år og omfatter trinnene
-1–10 og Vg1.
-Innspill til utvalget
-Nynorsk kultursentrum mener at opplæringsloven trenger en generell språkpolitisk formålsparagraf: «Opplæringa skal vere med på å sikre norsk,
-med skriftspråka bokmål og nynorsk, som samfunnsberande språk, gjere elevane trygge i eige
-skriftspråk og gi dei kunnskap om, kjennskap til
-og innsikt i det språklege mangfaldet i Noreg.»4
-
-32.2.3 Utvalgets vurdering
-Utvalget mener at opplæringsspråket i grunnskolen og den videregående opplæringen fortsatt bør
-være norsk eller samisk og at dette bør framgå
-eksplisitt av den nye loven. Dette er i tråd med forslaget fra Språkrådets framtidsutvalg, se kapittel
-32.2.2. Utvalget viser også til at hovedmålet for
-språkpolitikken er å sikre bruken av et velfungerende norsk språk på alle samfunnsområder.5
-Strategien er at domenetap for norsk språk – både
-bokmål og nynorsk – skal motvirkes. Når det gjelder opplæring i og på samisk, viser utvalget til
-kapittel 33.
-I tildelingsbrevet for 2019 til universiteter og
-høyskoler har forskningsministeren bedt institusjonene om å følge særlig med på utviklingen av
-det norske fagspråket og å sette inn tiltak dersom
-det er nødvendig. Utvalget viser her til innspillet
-fra Nynorsk kultursentrum, men vil også peke på
-at det er viktig at de videregående skolene ruster
-elevene – særlig elevene på de studieforberedende utdanningsprogrammene – til å bruke eget
-språk slik at de senere kan skrive gode tekster
-som studenter ved universiteter og høyskoler.
-Dette fordrer blant annet at den videregående
-opplæringen legges opp slik at elevene tilegner
-seg kompetanse til å uttrykke seg abstrakt på
-norsk innenfor de aller fleste fag.
-Utvalget er kjent med at det har blitt gjennomført forsøk, og at det fortsatt pågår forsøk med
-engelsk som undervisningsspråk. Disse forsøkene er ikke evaluert. Utvalget ber om at departementet vurderer om det er hensiktsmessig å åpne
-for andre opplæringsspråk enn norsk og samisk,
-for eksempel i noen fag, i lys av blant annet resultatene fra disse forsøkene. Utvalget mener uansett
-at det bør åpnes for at departementet etter søknad
-fra kommuner kan gi en skole tidsavgrenset fritak
-fra kravet til opplæringsspråk.
-Flere fylkeskommuner tilbyr International
-Baccalaureate (IB), hvor opplæringsspråket er
-engelsk. Dette tilbudet er ikke en del av tilbudsstrukturen, og derfor ikke et tilbud som gis etter
-opplæringsloven. Kravet om norsk eller samisk
-som opplæringsspråk, berører derfor ikke disse
-tilbudene.
-
-4
-3
-
-Språkrådets framtidsutvalg, 2018.
-
-5
-
-Nynorsk kultursentrum, innspill til utvalget.
-Kulturdepartementet, 2019b.
-
-[Side 385]
-
-NOU 2019: 23
-Ny opplæringslov
-
-32.2.4 Utvalgets forslag
-Utvalget foreslår
-– at det presiseres i den nye loven at opplæringsspråket er norsk eller samisk, se forslag til § 134 første avsnitt første setning
-– å åpne for at departementet etter søknad fra
-kommunen eller fylkeskommunen kan gi en
-skole tidsavgrenset fritak fra kravet til opplæringsspråk, se forslag til § 13-4 første avsnitt
-andre setning
-
-Denne bestemmelsen omfatter både grunnskoleelever og elever i videregående opplæring.
-I opplæringsloven § 2-5 fjerde avsnitt er følgende fastsatt:
-Når minst ti elevar på eitt av årstrinna 1–7 i ein
-kommune ønskjer skriftleg opplæring på eit
-anna hovudmål enn det kommunen har vedteke, har dei rett til å tilhøre [sic] ei eiga elevgruppe. Retten gjeld så lenge det er minst seks
-elevar igjen i denne gruppa. Når elevane er
-spreidde på fleire skolar i kommunen, vedtek
-foreldra med vanleg fleirtal kva skole tilbodet
-skal givast ved.
-
-32.3 Valg av hovedmål og skriftspråk
-32.3.1 Dagens regler
-Opplæringsloven og forskrift til opplæringsloven
-Opplæringsloven § 2-5 handler om målformer i
-grunnskolen. I første avsnitt første setning i
-bestemmelsen står det at kommunen «gir forskrifter om kva målform som skal vere hovudmål i dei
-enkelte skolane». Kommunen kan fastsette ulike
-målformer som hovedmål ved skolene, men hver
-skole kan bare ha ett hovedmål. I andre setning i
-første avsnitt er det fastsatt at hovedmålet skal
-brukes både i skriftlig opplæring og i skriftlig
-arbeid. Dette omfatter blant annet skriftlige oppgaver og meldinger som skolen gir til den enkelte
-elev. Den målformen som ikke er hovedmålet, er
-sidemålet.
-På trinnene 1–7 må elevene bruke det samme
-hovedmålet som skolen i skriftlig arbeid. Fra og
-med 8. trinn velger derimot elevene selv om de vil
-bruke bokmål eller nynorsk i det skriftlige arbeidet. Dette følger av § 2-5 første avsnitt tredje setning. Det er lagt til grunn at elever i videregående
-skole har den samme valgmuligheten.
-I den muntlige opplæringen kan elevene og
-undervisningspersonalet velge fritt hvilket talemål
-de vil bruke. Undervisningspersonalet og skoleledelsen skal likevel i størst mulig grad ta hensyn til
-elevenes talemål ved valg av ord og uttrykk i den
-muntlige opplæringen. Dette følger av § 2-5 andre
-avsnitt.
-Tredje avsnitt i § 2-5 handler om målformen i
-lærebøkene. Her står det at det er foreldrene som
-velger målformen til og med 7. trinn, mens dette
-er overlatt til elevene fra 8. trinn. Videre er det
-fastsatt at elevene skal ha lærebøker på hovedmålet i norskopplæringen. Det finnes ytterligere krav
-til lærebøker og andre læremidler i § 9-4 i opplæringsloven og i § 17-1 i forskrift til opplæringsloven. Det følger av sistnevnte bestemmelse at elevene har rett til læremidler på ønsket målform.
-
-383
-
-Kapittel 32
-
-Retten til særskilt målformgruppe betyr at elevene får opplæring i en egen elevgruppe som har et
-annet skriftlig hovedmål enn de andre elevene på
-skolen. I Ot.prp. nr. 67 (2002–2003) er det lagt til
-grunn at bestemmelsen ikke er til hinder for at
-elever med ulike hovedmål får opplæring
-sammen, når dette ikke bryter med formålet med
-bestemmelsen.6 Når elever med ulikt hovedmål
-får opplæring sammen, må skolen sørge for at
-elevene får skriftlig materiell på egen målform.
-Dersom det er flere skoler i kommunen som har
-minst ti elever som ønsker et annet skriftlig
-hovedmål, vil hver av disse gruppene ha rett til en
-egen målformgruppe på sin nærskole.7 Elevenes
-rett til særskilt målformgruppe gjelder ikke fra 8.
-trinn.
-Dersom elever blir overført til en ny skole
-med et annet hovedmål enn det de har hatt på 1. til
-4. trinn, har de rett til skriftlig opplæring på det
-opprinnelige hovedmålet. Disse elevene har også
-rett til norskundervisning i egen gruppe, uavhengig av hvor mange de er. Dette følger av femte
-avsnitt i § 2-5. I Ot.prp. nr. 46 (1997–98) er det presisert at de «skriftlege arbeida til både eleven og
-skolen skal vere på den ønskte målforma».8 Her
-er det også presisert at bestemmelsen ikke gjelder der skolebyttet skyldes at eleven skifter
-bosted.
-Elevene skal ha opplæring i begge målformer
-de to siste årene i grunnskolen, jf. § 2-5 sjette
-avsnitt første setning. For elever på 9. og 10. trinn
-er det dermed obligatorisk sidemålsundervisning.
-Læreplanverket for Kunnskapsløftet går lenger
-enn § 2-5. Læreplanen i norsk har kompetansemål
-i både nynorsk og bokmål på barnetrinnet.9
-6
-7
-8
-9
-
-Ot.prp. nr. 67 (2002–2003), merknad til § 2-5.
-Innst. O. nr. 70 (1997–98).
-Ot.prp. nr. 46 (1997–98), merknad til § 2-5.
-Utdanningsdirektoratet, 2013b.
-
-[Side 386]
-
-384
-
-NOU 2019: 23
-
-Kapittel 32
-
-Ny opplæringslov
-
-Med hjemmel i opplæringsloven § 2-5 sjette
-avsnitt andre setning har departementet fastsatt en
-bestemmelse om fritak fra opplæring i skriftlig
-sidemål. Kravet til opplæring i skriftlig sidemål gjelder ikke for elever som har opplæring i samisk som
-første- eller andrespråk, finsk som andrespråk eller
-tegnspråk, og heller ikke for elever som har særskilt språkopplæring. Dette går fram av forskrift til
-opplæringsloven § 1-11. Denne fritaksmuligheten
-gjelder også for elever i videregående opplæring.
-Opplæringsloven § 2-5 sjuende avsnitt handler
-om rådgivende folkeavstemming om målform.
-Her er det fastsatt følgende:
-I samband med skifte av hovudmål eller når eit
-fleirtal i kommunestyret eller minst 1/4 av dei
-røysteføre krev det, skal det haldast rådgjevande røysting. Røysterett har alle som bur
-i det området i kommunen som soknar til skolen, jf. § 8-1, og som har røysterett etter valgloven § 2-2. Røysterett i høve til skriftleg opplæring har dessutan foreldre eller forsytar til barn
-på barnesteget ved skolen, utan omsyn til
-bustad eller statsborgarskap. Departementet
-kan gi nærmare forskrifter.
-I kapittel 9 i forskrift til opplæringsloven er det
-fastsatt nærmere regler om rådgivende folkeavstemning om målform i grunnskolen.
-Andre lover
-Kommuneloven
-Kapittel 12 i kommuneloven omhandler innbyggerdeltakelse i form av innbyggerforslag og folkeavstemninger. Kommunestyret eller fylkestinget
-plikter selv å ta stilling til forslag hvis minst to prosent av innbyggerne står bak det. Likevel er 300
-underskrifter i kommunen eller 500 i fylket alltid
-tilstrekkelig. Dette følger av § 12-1 første avsnitt.
-Videre er det fastsatt i § 12-2 at kommunestyret
-eller fylkestinget «selv bestemmer at det skal holdes rådgivende folkeavstemninger om forslag
-som gjelder henholdsvis kommunens eller fylkeskommunens virksomhet».
-Mållova
-I Norge har vi ingen språklov, men det er fastsatt
-en egen lov om språkbruk – mållova. Denne loven
-fastsetter i § 1 at bokmål og nynorsk er likeverdige målformer, og at de skal være likestilte skriftspråk i alle organer i staten, fylkeskommunene og
-kommunene. Kommunestyrer og fylkesting kan
-
-fatte vedtak om å kreve en viss målform i skriv fra
-statsorganer, jf. § 2. Videre har statsorganer plikt
-til å svare private rettssubjekter i den målformen
-de har brukt i henvendelsen til organet. Dette følger av § 6.
-Oversikt over målvedtak som er meldt til
-Språkrådet, framgår av forskrift om målvedtak i
-kommunar og fylkeskommunar.
-
-32.3.2 Kunnskapsgrunnlaget
-Rapporter og undersøkelser
-Eldre og nye lovforslag
-I NOU 1995: 18 Ny lovgivning om opplæring foreslo utvalget i det vesentligste å videreføre reglene
-i grunnskoleloven. Prosedyrene i forbindelse med
-målvalg i kommunen ble imidlertid foreslått opphevet. Utvalget mente at lokale ønsker om å skifte
-målform på en skole bør legges fram for de politiske organene i kommunen på samme måte og
-etter de samme reglene som andre ønsker og forslag. Videre foreslo flertallet i utvalget å oppheve
-foreldrenes rett til å velge skole for den særskilte
-målformgruppen, og dermed la kommunen
-avgjøre hvilken skole som skal ha tilbud om alternativ målform. Formålet med forslaget var å
-dempe kostnadene til kommunen.10
-Forslaget i NOU 1995: 18 om å fjerne de særskilte reglene om rådgivende folkeavstemning ble
-ikke fulgt opp av departementet. Dette ble
-begrunnet slik: «Departementet har lagt vekt på
-at slike folkerøystingar har lange tradisjonar, og at
-det er ei godt fungerande demokratisk ordning.
-Dei nærmare reglane om røysterett og valordning
-bør givast i forskrifter frå departementet.»11 Når
-det gjaldt valg av skole for den særskilte målformgruppen, mente departementet at det fremdeles
-bør være foreldrene som med vanlig flertall avgjør
-dette. Departementet presiserte at kommunen må
-kunne kreve at flertallet av foreldrene velger én
-skole, også i de tilfellene der det er aktuelt å opprette flere klasser for annen målform.12
-Stortinget har bedt regjeringen «utrede en
-endring av opplæringslova § 2-5 og andre mulige
-tiltak som kan sikre elever på ungdomsskolen rett
-til opplæring på hovedmålet og rett til å tilhøre en
-egen målformgruppe, og komme tilbake til Stortinget på egnet måte».13 Departementet har infor10
-11
-12
-13
-
-NOU 1995: 18, kap. 31.3.4.
-Ot.prp. nr. 46 (1997–98), kap. 12.4.
-Ot.prp. nr. 46 (1997–98), kap. 12.4.
-Anmodningsvedtak nr. 67 av 22. november 2016, jf. Dokument 8:116 S (2015–2016).
+## Dagens regler
+
+### Grunnloven
+
+Det framgår av Grunnloven § 109 at enhver har rett til utdannelse. En viktig del av ordlyden i Grunnloven § 109 er at «opplæringen skal ivareta den enkeltes evner og behov». Dette har også kommet til uttrykk i sentrale bestemmelser i opplæringsloven om tilpasset opplæring og retten til spesialundervisning. Se nærmere omtale av Grunnloven i kapittel 7.2.
+
+### Norges folkerettslige forpliktelser
+
+Etter artikkel 24 i FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne er statene forpliktet til å bygge ned funksjonshemmende barrierer i utdanningssystemet og gi elever som har behov for det, individuell tilrettelegging og støtte innenfor rammene av det allmenne utdanningssystemet. Den individuelle støtten skal bidra til en effektiv utdanning og størst mulig faglig og sosial utvikling.
+
+Artikkel 24 slår fast at staten skal sikre at mennesker med nedsatt funksjonsevne får tilgang til inkluderende, god og gratis grunnutdanning og videregående opplæring i sitt lokalsamfunn, på lik linje med andre. Ifølge konvensjonens artikkel 24 nr. 4 skal opplæringen omfatte «bevisstgjøring om funksjonshemming og bruk av hensiktsmessige alternative og supplerende kommunikasjonsformer, -midler og -formater, samt undervisningsmetoder og undervisningsmateriell som er til hjelp for mennesker med nedsatt funksjonsevne».
+
+Konvensjonen stiller krav til beslutningsprosessen i saker som angår personer med nedsatt funksjonsevne. Det følger blant annet av artikkel 4 nr. 3 at konvensjonspartene aktivt skal trekke inn og rådføre seg inngående med mennesker med nedsatt funksjonsevne, også barn med nedsatt funksjonsevne, gjennom de organisasjonene som representerer dem.
+
+I FNs konvensjon om barnets rettigheter (barnekonvensjonen) artikkel 23 er det understreket at barn med funksjonsnedsettelser har samme rett til skole og utdanning som alle andre barn.
+
+### Opplæringsloven
+
+Tilpasset opplæring
+
+Det følger av opplæringsloven § 1-3 at «\[o\]pplæringa skal tilpassast evnene og føresetnadene hjå den enkelte eleven, lærlingen, ​ praksisbrevkandidaten og lærekandidaten.» I forarbeidene til bestemmelsen er det understreket at både organiseringen av opplæringen, de pedagogiske metodene og progresjonen i opplæringen skal tilpasses den enkelte elevs forutsetninger og evner.[^749]
+
+Opplæringsloven § 1-4 inneholder en særbestemmelse om krav om intensiv opplæring (tidlig innsats) for elever på 1. til 4. trinn:
+
+På 1. til 4. årstrinn skal skolen sørgje for at elevar som står i fare for å bli hengande etter i lesing, skriving eller rekning, raskt får eigna intensiv opplæring slik at forventa progresjon blir nådd. Om omsynet til eleven sitt beste talar for det, kan den intensive opplæringa i ein kort periode givast som eineundervisning.
+
+Intensiv opplæring er en del av den tilpassede opplæringen og innebærer kortvarig og målrettet innsats fra skolen i lesing, skriving og regning.[^750]
+
+Bestemmelsene i §§ 1-3 og 1-4 gir kommunen og fylkeskommunen plikt til å tilpasse opplæringen, men elevene har ikke en korresponderende individuell rett. At elevene ikke har en individuell rett til tilpasset opplæring, innebærer blant annet at elevene ikke har rett til å klage på at de ikke har fått tilpasset opplæring.
+
+Spesialundervisning
+
+Elever som ikke får tilfredsstillende utbytte av den ordinære tilpassede opplæringen, har rett til spesialundervisning. Dette følger av opplæringsloven § 5-1 som sier følgende:
+
+Elevar som ikkje har eller som ikkje kan få tilfredsstillande utbytte av det ordinære opplæringstilbodet, har rett til spesialundervisning.
+
+I vurderinga av kva for opplæringstilbod som skal givast, skal det særleg leggjast vekt på utviklingsutsiktene til eleven. Opplæringstilbodet skal ha eit slikt innhald at det samla tilbodet kan gi eleven eit forsvarleg utbytte av opplæringa i forhold til andre elevar og i forhold til dei opplæringsmåla som er realistiske for eleven. Elevar som får spesialundervisning, skal ha det same totale undervisningstimetalet som gjeld andre elevar, jf. § 2-2 og § 3-2.
+
+Retten til spesialundervisning gjelder også for lærekandidater, men ikke for lærlinger og praksisbrevkandidater.
+
+Om en elev skal få spesialundervisning eller ikke, vil ofte være avhengig av hvilke organisatoriske og pedagogiske tiltak skolen har satt inn i den ordinære opplæringen. Hvis den ordinære opplæringen er god, kan det føre til mindre behov for spesialundervisning. Reglene om spesialundervisning må derfor ses i sammenheng med reglene om tilpasset opplæring.
+
+For å sikre at elevene får oppfylt retten til spesialundervisning, er det gitt detaljerte regler om saksbehandlingen i opplæringsloven kapittel 5. Vedtak om spesialundervisning skal alltid bygge på en sakkyndig vurdering. Dette følger av § 5-3, som også regulerer innholdet i den sakkyndige vurderingen.
+
+Foreldre og elever er gitt en sentral rolle ved utforming av tilbudet om spesialundervisning. Etter § 5-4 tredje avsnitt skal tilbudet så langt som mulig utarbeides i samarbeid med foreldrene og eleven, og det skal legges stor vekt på deres syn.
+
+Alle som får spesialundervisning, har rett til en individuell opplæringsplan og en årlig rapport med oversikt over den opplæringen eleven har fått, og en vurdering av elevens utvikling. Dette følger av § 5-5.
+
+Pedagogisk-psykologisk tjeneste
+
+Ifølge opplæringsloven § 5-6 skal alle kommuner ha pedagogisk-psykologisk tjeneste (PP-tjeneste). Tjenesten skal hjelpe skolene med å utvikle kompetansen og organisasjonen slik at opplæringen for elever med særskilte behov blir best mulig, jf. § 5-6 andre avsnitt første setning. I tillegg skal tjenesten sørge for at det blir utarbeidet sakkyndige vurderinger når opplæringsloven krever det, jf. § 5-6 andre avsnitt andre setning. Etter opplæringsloven skal PP-tjenesten utarbeide en sakkyndig vurdering før kommunen fatter vedtak om
+
+- spesialundervisning, jf. § 5-1
+
+- framskutt eller utsatt skolestart, jf. § 2-1 tredje avsnitt
+
+- fritak fra opplæringsplikten, jf. § 2-1 fjerde avsnitt andre setning
+
+- utvidet opplæringstid i videregående opplæring, jf. § 3-1 femte avsnitt
+
+- opplæring i og på norsk tegnspråk, jf. §§ 2-6 og 3-9
+
+- punktskriftopplæring, jf. §§ 2-14 og 3-10
+
+I tillegg skal PP-tjenesten også være tilgjengelig for lærlinger, praksisbrevkandidater og lærekandidater, jf. § 4-2 fjerde avsnitt.
+
+Andre bestemmelser som gjelder for elever med behov for tilrettelegging
+
+Opplæringsloven inneholder også andre bestemmelser som gjelder for elever med behov for ulike former for tilrettelegging. Blant annet regler om
+
+- rett til inntil to års ekstra videregående opplæring (§ 3-1 femte avsnitt)
+
+- rett til inntak på særskilt prioritert utdanningsprogram (§ 3-1 femte avsnitt andre setning)
+
+- rett til en tilpasset arbeidsplass (§ 9 A-7 tredje avsnitt)
+
+- rett til skyss for funksjonshemmede elever (§ 7-3)
+
+- plikt for kommunen om ha et tilbud om skolefritidsordning for barn på 1. til 7. trinn med særskilte behov (§ 13-7 første avsnitt)
+
+Blinde og sterkt svaksynte elever er gitt særskilte rettigheter i opplæringsloven §§ 2-14 og 3-10, og hørselshemmede elever har en særlig rett til opplæring i og på norsk tegnspråk etter §§ 2-6 og 3-9. I tillegg er plikten til tilpasset opplæring og retten til spesialundervisning for elever som helt eller delvis mangler tale, og som derfor har behov for alternativ og supplerende kommunikasjon (ASK), presisert i §§ 2-16 og 3-13.
+
+Krav om relevant faglig og pedagogisk kompetanse
+
+Det er de samme formelle kravene til lærerkompetanse for spesialundervisning som for den tilpassede opplæringen. Når en elev får spesialundervisning etter § 5-1, gjelder kompetansekravene i opplæringsloven §§ 10-1 og 10-2. Det er to typer kompetansekrav for alle som skal undervise i skolen: (1) kompetansekrav for å kunne bli tilsatt i undervisningsstilling, jf. opplæringsloven § 10-1, og (2) krav om at lærerne må ha relevant kompetanse i fagene de skal undervise i, jf. opplæringsloven § 10-2. Detaljerte krav er fastsatt i forskrift til opplæringsloven kapittel 14.
+
+Det er mulig å gjøre unntak fra kravet om relevant kompetanse *i faget det skal undervises i* for den læreren som skal gi spesialundervisning, jf. opplæringsloven § 5-5 tredje avsnitt. Unntaket må begrunnes ut fra faglige og pedagogiske årsaker. Begrunnelsen for unntaksbestemmelsen er at det i noen tilfeller er viktigere med en annen kompetanse som er mer tilpasset elevens behov. Det kan være at eleven har behov for en særskilt spesialpedagogisk kompetanse, for eksempel en lærer som er spesialpedagog, audiopedagog eller logoped. Unntaksbestemmelsen åpner *ikke* for unntak fra § 10-1 om kompetansekrav for tilsetting i undervisningsstilling. Ettersom unntak etter § 5-5 tredje avsnitt må fastsettes i et enkeltvedtak, vil elevene eller deres foreldre ha rett til å klage på avgjørelsen.
+
+Opplæringsloven gir som hovedregel ikke åpning for at personer uten relevant faglig og pedagogisk kompetanse kan tilsettes som undervisningspersonale. Det er to unntak fra denne hovedregelen. (1) Dersom det ikke er mulig å få tak i lærere som fyller kompetansekravene, kan kommunen ansette ukvalifiserte som lærere i midlertidig stilling fram til 31. juli, jf. opplæringsloven § 10-6. (2) Dersom det ikke er søkere som fyller kompetansekravene for tilsetting, kan en annen søker som er i gang med relevant utdanning, tilsettes på det vilkåret at utdanningen blir fullført, jf. § 10-6a.
+
+Personer som ikke er ansatt i en undervisningsstilling, såkalte assistenter, kan hjelpe til i opplæringen dersom (1) de får nødvendig veiledning, (2) eleven får forsvarlig utbytte av opplæringen og (3) de ikke har ansvaret for opplæringen. Dette gjelder både i tilpasset opplæring og i spesialundervisning og følger av opplæringsloven § 10-11. Assistenter kan ikke ha selvstendig ansvar for opplæringen, og skolen kan derfor ikke benytte en assistent som lærer. Dette er en følge av at det er fastsatt egne krav til kompetanse for å kunne ansettes som lærer, og for å kunne undervise i enkelte fag.
+
+### Andre lover
+
+Likestillings- og diskrimineringsloven
+
+Universell utforming
+
+Likestillings- og diskrimineringsloven § 17 første avsnitt gir personer med nedsatt funksjonsevne vern mot diskriminering ved at offentlige og private virksomheter rettet mot allmennheten, har plikt til «universell utforming av virksomhetens alminnelige funksjoner». Hva som menes med universell utforming er definert i lovens § 17 andre avsnitt:
+
+Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene, inkludert informasjons- og kommunikasjonsteknologi (IKT), slik at virksomhetens alminnelige funksjoner kan benyttes av flest mulig, uavhengig av funksjonsnedsettelse.
+
+Plikten til universell utforming vil langt på vei avhjelpe behovet for individuell tilrettelegging, eller særløsninger.
+
+Plikten til universell utforming gjelder ifølge § 17 tredje avsnitt ikke utforming eller tilrettelegging som innebærer en uforholdsmessig byrde for virksomheten.
+
+Individuell tilrettelegging
+
+Likestillings- og diskrimineringsloven § 21 inneholder en regel om rett til individuell tilrettelegging for elever og studenter. Retten til tilrettelegging gjelder både undervisningen, lærestedet, læremidler og eksamen. Etter § 21 andre avsnitt gjelder retten bare så langt den ikke innebærer en «uforholdsmessig byrde». I bestemmelsen står det:
+
+Elever og studenter med funksjonsnedsettelse ved skole- og utdanningsinstitusjoner har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter.
+
+Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde. I denne vurderingen skal det særlig legges vekt på
+
+a\. tilretteleggingens effekt for å fjerne barrierer for personer med funksjonsnedsettelse
+
+b\. kostnadene ved tilretteleggingen
+
+c\. virksomhetens ressurser.
+
+I Prop. 81 L (2016–2017) side 327 er det slått fast at likestillings- og diskrimineringsloven § 21 ikke gir rettigheter utover det som følger av opplæringsloven:
+
+Reglene overlapper med reglene om individuelt tilpasset opplæringstilbud, spesialundervisning og krav til fysisk og psykososialt miljø i opplæringslova. Likestillings- og diskrimineringsloven § 21 legger føringer for hvordan tilbudet ved skole- og utdanningsinstitusjoner skal utformes og utføres, men gir ikke nye materielle rettigheter utover det som følger av sektorlovgivningen.
+
+Videre står det følgende om retten til individuell tilrettelegging:
+
+Tilretteleggingen skal ta utgangspunkt i forutsetningene og behovene til eleven eller studenten som har behov for tilrettelegging. Det må foretas en konkret vurdering av hva som imøtekommer individets konkrete behov. Tilrettelegging kan skje både gjennom generelle tiltak overfor hele elev-/studentgruppen, eller gjennom spesifikke tiltak rettet kun mot den aktuelle eleven. Tilretteleggingen kan skje innenfor eller utenfor det ordinære undervisningsopplegget. Retten til tilrettelegging omfatter både fysiske og andre forhold ved lærestedet, undervisningsopplegget, læremidlene (inkludert lærebøker og IKT) og eksamen. Tilretteleggingen skal sikre likeverdige opplærings- og utdanningsmuligheter, både når det gjelder kvalitet og omfang.
+
+Forskrift om miljørettet helsevern i barnehager og skoler mv.
+
+Forskrift om miljørettet helsevern i barnehager og skoler m.v., gitt med hjemmel i folkehelseloven, har som formål å bidra til at miljøet i skoler fremmer helse, trivsel, gode sosiale og miljømessige forhold samt forebygger sykdom og skade, jf. forskriftens § 1. Forskriften inneholder også en bestemmelse i § 9 andre avsnitt som pålegger skolen å ivareta behovet til barn og unge med nedsatt funksjonsevne. Bestemmelsen gjelder for skolens lokaler og uteområde. Elevenes skolemiljø er også regulert i opplæringsloven kapittel 9 A.
+
+Forvaltningsloven
+
+Forvaltningsloven stiller krav til forvaltningsorganets saksbehandling, og forvaltningslovens regler gjelder med mindre noe annet er bestemt i eller i medhold av en annen lov. I opplæringsloven er det gjort enkelte unntak fra forvaltningslovens regler. Blant annet er det i lovens kapittel 5 gjort unntak fra forvaltningslovens regler ved at det er stilt særlige krav til saksbehandlingen i forbindelse med vedtak om spesialundervisning. Forvaltningsloven er omtalt i kapittel 7.6.
+
+## Hva er tilpasset opplæring og spesialundervisning?
+
+### Tilpasset opplæring
+
+Alle elever skal få best mulig utbytte av den vanlige opplæringen
+
+Hva som menes med tilpasset opplæring, var tidligere beskrevet i læreplanverket i delen «Prinsipper for opplæringen»:
+
+Tilpassa opplæring innanfor fellesskapet er eit grunnleggjande element i fellesskolen. Opplæringa skal leggjast til rette slik at elevane skal kunne gi noko til fellesskapet og også kunne oppleve gleda ved å meistre og å nå måla sine. \[…\] Tilpassa opplæring for kvar einskild elev er kjenneteikna ved variasjon i bruk av lærestoff, arbeidsmåtar og læremiddel og variasjon i organisering av og intensitet i opplæringa. Elevane har ulike utgangspunkt, bruker ulike læringsstrategiar og har ulik progresjon i forhold til nasjonalt fastsette kompetansemål. Føresegnene om spesialundervisning skal gjelde når det er nødvendig med meir omfattande tilpassing enn den som kan givast innanfor den ordinære opplæringa.
+
+Tilpasset opplæring dreier seg med andre ord om at lærerne – innenfor fellesskapets rammer – skal tilrettelegge undervisningen slik at alle elever skal få best mulig utbytte av opplæringen. Opplæringen skal gi elevene lik sjanse til å realisere sine muligheter for faglig og sosial læring, ut fra den enkelte elevs evner og forutsetninger.
+
+Inkludering er et viktig prinsipp for opplæringen på lik linje med tilpasset opplæring. I ny overordnet del av læreplanene er et inkluderende læringsmiljø fastsatt som et av prinsippene for skolens praksis. Ny overordnet del skal erstatte både generell del og prinsipper for opplæringen. Ordet «inkludering» er ikke nevnt i prinsipper for opplæringen eller i den generelle delen av læreplanen som gjelder i dag, men inkludering er likevel et prinsipp skolen skal drive sin virksomhet etter. Inkludering er understreket blant annet i Salamanca-erklæringen som ble vedtatt på UNESCOs World Conference on Special Needs Education i 1994. Norge var et av flere land som sluttet seg til erklæringen. Å være inkludert vil si at elevene skal kunne delta i skolens læringsfellesskap sammen med andre elever. Dette innebærer at den enkelte elev skal kunne oppleve sosial tilhørighet og sosialt fellesskap med jevnaldrende, samtidig som opplæringen er tilpasset individuelle evner og forutsetninger slik at eleven lærer og utvikler seg både personlig og faglig. Prinsippet om inkludering kommer til uttrykk i opplæringsloven blant annet i regelen om at elevene skal deles inn i klasser som skal ivareta deres behov for sosial tilhørighet (§ 8-2), og regelen om at alle elever har rett til å tilhøre et trygt og godt læringsmiljø (§ 9 A-2).
+
+Inkludering innebærer at alle elever skal ha tilhørighet til en klasse og ta del i fellesskapet i skolen. Å være inkludert handler ikke alene om å være i klasserommet eller sammen med majoriteten. Enkelte ganger kan det å delta i mindre grupper være mer inkluderende. Å være inkludert handler blant annet om å oppleve mestring sammen med andre. Forutsetningen om et fellesskap mellom elevene innebærer at inkludering bygger på erkjennelse av mangfold og prinsippet om likeverd. Likeverdig opplæring innebærer at elevene ikke behandles likt, men forskjellig ut fra ulike evner, forutsetninger og behov.
+
+Elever med stort potensial for læring
+
+Alle elever har et læringspotensial, men noen elever lærer raskere og tilegner seg mer kompleks kunnskap sammenlignet med jevnaldrende. Barn som er mer faglig avanserte enn andre barn, blir gjerne omtalt som barn med stort potensial for læring. Studier viser at mellom 10 og 15 prosent av elevene kan være elever med stort læringspotensial.[^751] Retten til spesialundervisning gjelder ikke for disse elevene, men plikten til å gi tilpasset opplæring gjelder for alle elever, inkludert dem som lærer raskere enn andre, elever som har spesielle talent, og elever som har potensial til å nå de høyeste faglige nivåene.[^752]
+
+Elever med et stort potensial for læring kjennetegnes blant annet ved at de, i større grad enn sine jevnaldrende, kan tenke mer abstrakt og mer komplekst, lettere kan se sammenhenger, er mer nysgjerrige, bruker lengre tid på utforsking, ikke tolererer gjentagende arbeid og kan vise sterk motvilje mot å løse oppgaver de opplever som for lette eller lite motiverende.[^753] Utviklingen av sosiale ferdigheter hos elever med høyt potensial for læring kan bli hemmet på grunn av søken etter likesinnede, noen «å speile seg i» som er som dem. Elever med høyt læringspotensial opplever å få det mye bedre når de møter andre elever som er lik dem selv.[^754]
+
+Elever med stort læringspotensial kan underprestere, miste motivasjonen og til og med droppe ut av skolen til tross for sitt høye læringspotensial. Disse elevenes faglige potensial krever tilrettelegging og oppfølging i et inkluderende læringsmiljø slik at både eleven og samfunnet skal kunne dra nytte av potensialet. Dersom læringsmiljøet hadde vært rikt og responderende og imøtekom alle elevers behov, ville kategoriseringen kanskje vært unødvendig.[^755] Konsekvensene av manglende tilrettelegging er for mange barn og unge med stort potensial for læring, at de utsettes for belastninger med alvorlig mistrivsel og emosjonelle problemer, og at de mister muligheten til å utnytte sitt potensial for læring.[^756] Derfor er kunnskap om hva slags læringsbehov disse elevene har, og hva tilpasset opplæring for denne elevgruppen betyr, nødvendig for å øke deres mulighet til å oppnå et bedre læringsutbytte.
+
+Elever med behov for alternativ og supplerende kommunikasjon (ASK)
+
+Elever i grunnskolen som helt eller delvis mangler tale, og som derfor har behov for å kunne uttrykke seg gjennom alternative eller supplerende uttrykksformer, eller begge deler, skal ifølge opplæringsloven få benytte egnede kommunikasjonsformer og nødvendige kommunikasjonsmidler i opplæringen, jf. opplæringsloven § 2-16 første avsnitt. Bestemmelsen presiserer grunnskoleelevens rett til ASK som erstatning for eller støtte for talen. Den samme retten gjelder for elever, lærlinger, praksisbrevkandidater og lærekandidater i videregående opplæring (§ 3-13) og voksne med rett til grunnopplæring (§ 4A-13). ASK er et mangfoldig sett av kommunikasjonsmåter og en fellesbetegnelse for ulike måter å kommunisere på. Eksempler på kommunikasjonsformer er å bruke håndtegn, fotografier, grafiske symboler, konkrete handlinger og kroppslige uttrykk. Eksempel på kommunikasjonshjelpemidler er kommunikasjonsbøker, tematavler og talemaskiner.
+
+I opplæringslovens § 2-16 andre avsnitt er det presisert at elever som har rett til spesialundervisning etter reglene i lovens kapittel 5, også har rett til å få nødvendig opplæring i å bruke alternativ og supplerende kommunikasjon. Hva som er nødvendig opplæring, må vurderes konkret ut fra hva som vil gi eleven et forsvarlig utbytte av opplæringen. Enkelte barn og unge som har behov for ASK, vil ikke nødvendigvis ha behov for spesialundervisning. Elever som bruker ASK, er en svært uensartet gruppe med ulike forutsetninger og behov. Retten til spesialundervisning kommer kun til anvendelse når skolen ikke klarer å tilpasse den vanlige opplæringen slik at eleven kan få et tilfredsstillende utbytte av den.
+
+Lovbestemmelsene om ASK presiserer og synliggjør det som følger av bestemmelsene om tilpasset opplæring etter § 1-3 og spesialundervisning etter § 5-1 og inneholder ingen rettigheter ut over det som følger av disse bestemmelsene.
+
+### Spesialundervisning
+
+Spesialundervisning er en individuell rett etter dagens opplæringslov og kan bestå av en rekke tiltak, når det gjelder både metodikk, lærerressurser, organisering av opplæringen, praktisk tilrettelegging og fysisk tilrettelegging i form av særskilt utstyr og særskilt tilpassede læremidler. Læreplanverket gjelder fullt ut for elever som får spesialundervisning, men det kan gjøres unntak fra læreplaner for fag når det er begrunnet med elevens behov og forutsetninger.
+
+Når det gjelder organiseringen av spesialundervisning, kan slik undervisning skje i den ordinære gruppen (klassen) eleven går i, i mindre elevgrupper eller i enetimer. Spesialundervisning kan også gis på egne skoler. Det er følgelig stor variasjon i hva slags spesialundervisningstilbud som kan gis etter dagens opplæringslov.
+
+Opplæringsloven gir ikke kriterier for innholdet i eller omfanget av spesialundervisningen. Det framgår imidlertid av forarbeidene til loven at elever med behov for spesialundervisning har krav på et likeverdig opplæringstilbud.[^757] Kriteriet «likeverdig» gir heller ingen presis angivelse av det nærmere innholdet i eller omfanget av opplæringen elever med behov for spesialundervisning har krav på. Innholdet i og omfanget av spesialundervisningen beror på en skjønnsmessig vurdering. Sentrale momenter i vurderingen er elevens utbytte av den ordinære opplæringen, realistiske opplæringsmål for eleven, elevens lærevansker og andre særlige forhold som er viktige for opplæringen, jf. § 5-3. Når kommunen skal avgjøre om en elev har rett til spesialundervisning og i så fall hvilket tilbud som skal gis, skal kommunen legge vekt på den sakkyndige vurderingen fra PP-tjenesten og elevens og foreldrenes synspunkter.
+
+### Forholdet mellom retten til spesialundervisning og retten til et trygt og godt skolemiljø
+
+Regelen om rett til spesialundervisning i opplæringsloven § 5-1 og reglene i opplæringsloven kapittel 9 A om at elevene har rett til et trygt og godt skolemiljø, overlapper hverandre til en viss grad. Tiltak etter opplæringsloven § 5-1 krever en sakkyndig vurdering fra PP-tjenesten, mens tiltak etter kapittel 9 A kan settes i verk uten en slik vurdering.
+
+Dersom en elev ikke har tilfredsstillende utbytte av opplæringen fordi elevens arbeidsplass ikke er tilpasset elevens behov, kan eleven ha rett til vedtak om spesialundervisning etter opplæringsloven § 5-1. Det samme forholdet kan også utløse rett til tiltak som gjelder det fysiske miljøet etter opplæringsloven § 9 A -7 tredje avsnitt første setning: «Alle elevar har rett til ein arbeidsplass som er tilpassa behova deira.».
+
+Opplæringsloven § 9 A-7 tredje avsnitt første setning gir alle elever rett til en individuelt tilpasset arbeidsplass, men vil ha særlig betydning for elever som på grunn av nedsatt funksjonsevne trenger en arbeidsplass som er tilpasset de behovene den enkelte elev har. Bestemmelsen innebærer at arbeidsplassen skal være slik at den ikke gir eleven skader eller plager i skjelett, muskler eller sanseapparat, og at den ikke hindrer elevens læring. Aktuelle forhold her kan være den ergonomiske utformingen og tilpassingen av stolen og lesepulten. Elever som har syns- eller hørselshemming, bør plasseres slik at de får best mulig utbytte av undervisningen.
+
+Ifølge § 9 A-7 tredje avsnitt andre setning skal skolen innredes slik at det blir tatt hensyn til elever med nedsatt funksjonsevne. Bestemmelsen presiserer og utvider § 9 A-7 tredje avsnitt første setning, slik at man ikke bare ser på arbeidsplassen i snever forstand. Skolen må innrettes slik at disse elevene ikke møter funksjonshemmende barrierer i noen del av skolemiljøet. Elever med nedsatt funksjonsevne skal kunne fungere i skolemiljøet uten at dette setter unødige grenser for læringen og livsutfoldelsen.
+
+Dersom en elev ikke har tilfredsstillende utbytte av opplæringen fordi eleven ikke har et godt psykososialt skolemiljø, vil eleven ha rett til tiltak etter opplæringsloven § 9 A-4. I slik tilfeller vil det være tiltak etter denne paragrafen som vil være aktuelt å sette inn selv om vilkåret «ikkje kan få tilfredsstillande utbytte av det ordinære opplæringstilbodet» i § 5-1 er oppfylt. Opplæringsloven § 9 A-4 fjerde avsnitt fastsetter en vidtgående plikt til å sette inn tiltak som er nødvendig for at elevene skal få et trygt og godt skolemiljø. Tiltakene kan være ett eller flere, og både være rettet mot enkeltelever og mot et mer generelt problem med det psykososiale skolemiljøet.
+
+Den enkelte elev har også rett til sosialpedagogisk rådgiving. Formålet med slik rådgivning er å hjelpe elever som har personlige, sosiale og emosjonelle problemer som kan ha betydning for elevenes opplæring og sosiale forhold på skolen. Retten til rådgivning følger av opplæringsloven § 9-2. Formålet med og innholdet i rådgivningen er beskrevet i forskrift til opplæringsloven § 22-2
+
+Sosialpedagogisk rådgivning kan bestå i å klargjøre problemer og omfanget av dem og avklare hva skolen kan hjelpe til med. Elevene kan også få hjelp til å vurdere om de trenger hjelp utenfor skolen. Da kan rådgiveren bistå med å finne de rette hjelpeinstansene og få kontakt med disse.
+
+### Forholdet mellom spesialundervisning og helse- og omsorgstjenester
+
+Hva regnes som opplæring, og hva regnes som helse- og omsorgstjenester
+
+Retten til spesialundervisning omfatter opplæring, ikke behandling eller andre helse- og omsorgstjenester. Fysioterapi, ergoterapi, logopedi, avlastningstiltak og brukerstyrt personlig assistanse (BPA) er eksempler på kommunale helse- og omsorgstjenester.
+
+I brev 22. januar 2001 har det daværende Kirke-, undervisnings- og forskningsdepartementet forsøkt å konkretisere hva som skal til for at et tiltak skal regnes som opplæring:
+
+1\. Aktiviteten må stå under skolens ledelse og ansvar. Herunder må det også være en tilsatt lærer som står for aktiviteten som oppfyller vilkårene i opplæringslovens kapittel 10, jf. forskrift til opplæringsloven kapittel 14 (om kompetanse).
+
+2\. Aktiviteten skjer innenfor rammen av det sentralt fastsatte undervisningstimetallet (eventuelt utvidet lokalt fastsatt timetall).
+
+3\. Aktiviteten må ha et pedagogisk siktemål som er innrettet på å oppnå de målene som fremgår av lovens formålsparagraf.
+
+4\. Aktiviteten må innebære en oppfyllelse av det sentralt fastsatte læreplanverket for grunnskolen, eller innebære en oppfyllelse av en IOP som er fastsatt i henhold til § 5-5.
+
+Det følger av helse- og omsorgstjenesteloven at kommunen skal tilby «personlig assistanse, herunder praktisk bistand og opplæring», jf. lovens § 3-2 første avsnitt nr. 6 bokstav b. Personer under 67 år med langvarig og stort behov for personlig assistanse, har rett til å få slike tjenester organisert som «brukerstyrt» personlig assistanse, jf. pasient- og brukerrettighetsloven § 2-1 d første avsnitt. Brukerstyrt personlig assistanse innebærer at brukeren kan styre hva assistentene skal gjøre og til hvilke tider assistansen skal gis innenfor de timerammene som kommunens vedtak om BPA angir.
+
+Personlig assistanse kan også regnes som en del av opplæringstilbudet etter opplæringsloven. Personlig assistanse i form av praktisk hjelp og støtte fra en assistent kan inngå som et tiltak i et vedtak om spesialundervisning etter opplæringsloven § 5-1 hvis en elev har behov for slik assistanse for å få tilfredsstillende utbytte av opplæringen.[^758] Hjelp fra en assistent kan følgelig regnes som en del av opplæringen i noen sammenhenger og som helse -og omsorgstiltak i andre sammenhenger, men opplæringsloven gir ikke elevene rett til brukerstyrt personlig assistanse (BPA). Det skal framkomme uttrykkelig av vedtaket om spesialundervisning dersom tilbudet skal omfatte praktisk hjelp fra en assistent.
+
+Elever kan også få praktisk hjelp og støtte i skoletiden *uten* at det er fattet vedtak om spesialundervisning. I Meld. St. 18 (2010–2011) *Læring og fellesskap* uttalte departementet at bruk av assistent kan være en del av tilpasningen skolen gjør for å legge til rette for at retten og plikten til opplæring skal kunne oppfylles:
+
+Elever som har behov for praktisk bistand fra assistent for å kunne fungere i skolehverdagen, bør etter departementet oppfatning ikke måtte gå veien om sakkyndig vurdering og enkeltvedtak for å få hjelp og støtte. Det følger av retten og plikten til grunnskoleopplæring og retten til videregående opplæring at elever som har behov for det, får nødvendig bistand for at retten og plikten skal bli reell.[^759]
+
+Skillet mellom hva som regnes som opplæring og hva som regnes som helse- og omsorgstjenester er, beskrevet i en tolkningsuttalelse fra Utdanningsdirektoratet.[^760] I tolkningsuttalelsen står det at tilpasninger og hjelp i noen tilfeller må regnes som en del av opplæringen. Når tiltaket ikke faller inn under opplæringslovens virkeområde, kan det være andre kommunale tjenester som er ansvarlig for tiltaket. Hjelp fra helse- og omsorgssektoren kan gis når et barn er på skolen. Om dette står det følgende i Utdanningsdirektoratets tolkningsuttalelse:
+
+Nødvendige tjenester fra helse- og omsorgstjenesten mens eleven er på skolen, kan dreie seg om mange ulike tiltak. Ofte vil slike tjenester gis av skolehelsetjenesten, men det kan også være nødvendig med hjelp fra andre deler av kommunens helse- og omsorgstjenesten eller spesialisthelsetjenesten.
+
+Skolen bør legge til rette for at elever kan motta nødvendig helsehjelp eller andre nødvendige helse- og omsorgstjenester i skoletiden, når det er behov for dette.
+
+Opplæring i aktiviteter i dagliglivet (ADL-trening)
+
+Noen elever trenger langt større oppfølging enn andre. Dette gjelder blant annet elever med funksjonsnedsettelser som trenger hjelp til og trening i ferdigheter som kreves i dagliglivet, slik som av- og påkledning, spising, toalettbesøk og forflytning. Dette kalles ADL-trening. ADL står for «Activities of Daily Life», som vi på norsk kaller «aktiviteter i dagliglivet». Opplæring i ADL vil være utenfor det som vanligvis omfattes av uttrykket opplæring slik det brukes i læreplanverket.[^761] ADL-trening kan etter dagens opplæringslov *likevel* regnes som opplæring når tiltaket gis under skolens ansvar og ledelse og tiltaket er en del av enkeltvedtaket om spesialundervisning. ADL-treningen regnes i disse tilfellene som opplæring selv om aktiviteten kan regnes som helse -og omsorgstiltak i andre sammenhenger.
+
+Hjelp til å få tatt legemidler
+
+En del barn som bruker legemidler i det daglige, har behov for hjelp til å få tatt legemidlene. Helse- og omsorgsdepartementet og Kunnskapsdepartementet har tidligere sammen utgitt et rundskriv og nasjonale rutiner om håndtering av legemidler i barnehage, skole og skolefritidsordning[^762]. I rundskrivet står det følgende:
+
+Dersom barnet ikke har rett til nødvendig helsehjelp, er det ingen bestemmelser verken i barnehagelovgivningen, opplæringslovgivningen eller helselovgivningen som eksplisitt forankrer ansvaret for håndtering av legemidler den tiden barnet er i barnehage, skole eller skolefritidsordning. \[…\] For at retten og plikten til grunnskoleopplæring skal være reell for alle barn, er det innfortolket som en del av kommunens overordnede ansvar å sørge for at elever med behov for bistand med legemiddelhåndtering, får den hjelpen de trenger for å kunne fungere i skolehverdagen.
+
+I Utdanningsdirektoratets veileder om spesialundervisning er det vist til *Rutiner for medisinering av barn i barnehagen og elever i skolen og på skolefritidsordningen (SFO)* der det står at det ikke er lovfestet en plikt for ansatte i skolen og på skolefritidsordningen til å bistå med legemiddelhåndtering:
+
+Generelt kan man ikke innfortolke dette i de alminnelige arbeidspliktene til en skoleansatt uten ytterligere holdepunkter. Det er ingenting i veien for at ansatte kan påta seg slike oppgaver dersom dette vurderes å være forsvarlig. Det oppfordres til å finne praktiske forsvarlige løsninger som gjør at barnet på best mulig måte kan få den bistanden som er nødvendig i løpet av en skoledag. Dersom ansatte ikke vil påta seg å bistå barna/elevene må kommunen finne en annen løsning, slik at barnet får den hjelpen det trenger.[^763]
+
+Utstyr og hjelpemidler
+
+Mange elever med nedsatt funksjonsevne vil ha behov for utstyr eller hjelpemidler for å kunne nyttiggjøre seg opplæring. I den utstrekning utstyret er spesifikt knyttet til opplæringen, er det den som har ansvaret for opplæringen, som regel kommunen, som også har ansvaret for at utstyret er tilgjengelig for eleven.[^764]

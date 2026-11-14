@@ -1,1063 +1,310 @@
-# NOU 2020: 3, del 23 av 42 (side 252–262)
+# NOU 2020: 3, del 23 av 46
 
 - Hele dokumentet med innholdsfortegnelse: dokumenter/nou/2020/0f802272-nou-2020-3.md
 - Les hele dokumentet: https://www.regjeringen.no/no/dokumenter/nou-2020-3/id2690294/
 - Original-PDF: https://www.regjeringen.no/contentassets/65a475004027495a8009b359e253b19e/no/pdfs/nou202020200003000dddpdfs.pdf
-- Tekst: hentet fra PDF. OBS: 3 tabeller, 4 figurer, 26 linjer med løsrevne tall. Tall i tabeller og figurer kan være forskjøvet eller mangle. Kontroller mot originalen før du bruker dem.
+- Tekst: fra Word-fil lastet opp 2026-11-14, ikke fra PDF. Tabellene er med. Figurer er bare med som titler, så tall som bare finnes i en figur, må leses i originalen.
 
 ---
 
-[Side 252]
-
-250
-
-NOU 2020: 3
-
-Kapittel 26
-
-Ny lov om universiteter og høyskoler
-
-Hensynene bak å ha en klageordning for forvaltningsvedtak ble sammenfattet slik i Forvaltningskomiteens (1958) innstilling:1
-Klageretten har til formål å sikre riktige vedtak
-og trygge den enkeltes rett. Den er et ledd i forvaltningens egne interne kontroll med sine
-avgjørelser.
-
-26.2.2 Regulering av enkeltvedtak
-I universitets- og høyskoleloven § 7-6 er det
-uttrykkelig nevnt at en del typer vedtak skal regnes som enkeltvedtak etter forvaltningsloven. Det
-gjelder for eksempel avgjørelser om tilrettelegging, rett til utsatt eksamen, godskriving (jf.
-godskrivingsforskriften)2 3, utestenging og bortvisning. Bestemmelsen i § 7-6 klargjør at alle vedtakstypene som er nevnt her regnes som enkeltvedtak, uten at en konkret vurdering av kriteriene
-i forvaltningsloven § 2 bokstavene a og b, er nødvendig. Dette medfører at rettigheter og plikter
-som følger av at en beslutning regnes som et
-enkeltvedtak, utløses, blant annet retten til å klage
-etter forvaltningsloven §§ 28 flg.
-Bestemmelsen skal ikke tolkes uttømmende.
-Det kan derfor være andre typer vedtak som også
-skal regnes som enkeltvedtak. For noen vedtakstyper er det fastsatt egne klageregler i universitets- og høyskoleloven som supplerer eller erstatter klagereglene i forvaltningsloven, for eksempel
-§§ 4-7 til 4-10. For andre typer enkeltvedtak er det
-ikke fastsatt særregler om klagebehandling. I
-godskrivingsforskriften er det ikke fastsatt egne
-regler om klage. I rundskrivet som følger forskriften er det imidlertid presisert at vedtak om godskriving er enkeltvedtak og at reglene om klagebehandling i forvaltningsloven gjelder.
-Hovedregelen etter forvaltningsloven er at klager skal behandles av overordnet organ, det vil si
-på forvaltningsnivået over det nivået som traff
-enkeltvedtaket i første instans. Forvaltningsloven
-1
-
-2
-
-3
-
-Wold, Terje m.fl. Innstilling fra Komiteen til å utrede spørsmålet om mer betryggende former for den offentlige forvaltning (forvaltningskomiteen). Avgitt 13. mars 1958. I
-Ot.prp. nr. 38 (1964–65) Om lov om behandlingsmåten i forvaltningssaker (forvaltningsloven). Hentet fra https://
-www.stortinget.no/no/Saker-og-publikasjoner/Stortingsforhandlinger/Lesevisning/?p=196465&paid=4&wid=b&psid=DIVL176&pgid=b_0267&vt=b&
-did=DIVL180.
-Forskrift 21.desember 2018 nr. 2221 om godskriving og fritak av høyere utdanning (godskrivingsforskriften). Jf.
-Kunnskapsdepartementet. Rundskriv F-04-18: Forskrift om
-godskriving og fritak av høyere utdanning – merknader til
-bestemmelsene.
-Kunnskapsdepartementet. Rundskriv F-04-18.
-
-Boks 26.2 Klageorganer
-Utvalget har identifisert følgende klageorganer som kan behandle klager over enkeltvedtak i universitets- og høyskolesektoren:
-– institusjonens klagenemnd (lokal klagenemnd)
-– universitet- eller høyskolestyret
-– klagesensorkommisjon
-– felles klagenemnd (og en nasjonal klagenemnd for fagskoleutdanning med lignende saksfelt)
-– nasjonal klagenemnd for opptakssaker
-– Kunnskapsdepartementet
-– klagenemnd for vedtak truffet av NOKUT i
-saker om høyere utdanning
-Kunnskapsdepartementet eller andre er
-klageinstans for vedtak om tildeling av midler
-truffet av Direktoratet for internasjonalisering
-og kvalitetsutvikling i høyere utdanning
-(Diku), jf. lovforslaget § 12-2.
-
-er utformet primært med tanke på en hierarkisk
-organisering, men de siste tiårene er det opprettet
-en rekke mer eller mindre uavhengige forvaltningsorganer, som ikke passer like godt inn i det
-tradisjonelle forvaltningshierarkiet. Dette gjelder
-også for universitets- og høyskolesektoren.
-Vedtak etter universitets- og høyskoleloven
-kan overprøves etter en rekke forskjellige klageregler, og av flere forskjellige klageinstanser. I
-boks 26.3 har utvalget laget en oversikt over hvem
-som har myndighet til å behandle saker i første og
-andre instans etter gjeldende lov.
-
-26.2.3 Særregler om klage og
-klagebehandling
-26.2.3.1 Innledning
-I universitets- og høyskoleloven er det flere regelsett som skal sikre at saksbehandlingen er tilpasset sakstypene i universitets- og høyskolesektoren. Særreglene er begrunnet med at enkelte
-klagesaker krever en annen tilnærming og
-behandling enn andre klagesaker. Dette gjelder
-for eksempel klage på eksamen. For å sikre en
-betryggende prosess og materielt riktige vedtak,
-er det viktig at de som behandler klagene, har
-kunnskap om saksfeltet.
-
-[Side 253]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Hovedregelen etter forvaltningsloven er at
-klager skal behandles av overordnet forvaltningsorgan. Som nevnt over fravikes denne hovedregelen stadig oftere, og de siste tiårene er det opprettet mange klagenemnder. Stadig færre saker
-klagebehandles av det overordnet forvaltningsorganet, og etter universitets- og høyskoleloven er
-klageinstansen i svært mange tilfeller en nemnd,
-se boks 26.2.
-Universitets- og høyskoleloven § 5-1 gir regler
-om egne klagenemnder på institusjonene som skal
-behandle klager på enkeltvedtak. I tillegg gir § 5-1
-syvende ledd departementet hjemmel til å opprette
-særskilte nasjonale klageorganer, som skal
-behandle klager over enkeltvedtak innenfor
-bestemte områder og over avgjørelser etter offentleglova. I dag er det to slike nemnder, nasjonal
-klagenemnda, som behandler klager på enkeltvedtak om opptak til grunnutdanninger ved universiteter og høyskoler, og felles klagenemnd, som
-behandler klager over institusjonenes vedtak etter
-universitets- og høyskoleloven §§ 4-7 til 4-10 og klager over vedtak etter offentleglova. For tvungen
-avslutning av doktorgrad kan det opprettes en
-egen klagenemnd for det enkelte tilfelle, jf. universitets- og høyskoleloven §§ 4-13 og 5-1 syvende
-ledd. Universitets- og høyskoleloven § 5-1 syvende
-ledd viser til forskningsetikkloven § 8 andre ledd,
-som omtaler vitenskapelig uredelighet.4 Styret ved
-institusjonen er klageorgan i klager på for eksempel formelle feil ved eksamen, jf. universitets- og
-høyskoleloven § 5-2, dersom styret ikke har
-bestemt at disse sakene skal gå til institusjonens
-klagenemnd, se §§ 5-1 og 5-2 femte ledd.
-Regelen om en såkalt blind sensur i universitets- og høyskoleloven § 5-3 fjerde ledd fjerde
-punktum innebærer at en klage skal behandles
-uten at eksamenskarakter, tidligere vurderinger
-eller begrunnelse fra klageren legges ved klagen,
-se punkt 21.6. At klageorganet er ukjent med utfallet i første instans er en modell vi verken finner i
-forvaltningsloven eller i annen særlovgivning.
-
-sjonene under denne lov. Det er derfor foreslått
-et påbud om at det skal være to nivåer ved alle
-institusjoner, institusjonsnivå og avdelingsnivå.5
-Ved de minste institusjonene ble det gitt mulighet
-til å gi unntak fra en slik organisering. Nivåinndelingen skulle blant annet sikre en reell to-instansbehandling av vedtak. Universitetsloven fra 19956
-hjemlet i kapittel 3 egne regler om avdelinger og
-avdelingers oppgaver.
-Gjennom Kvalitetsreformen ble alle institusjonene gitt særskilte fullmakter. Styret fikk fullmakt
-til selv å bestemme egen intern organisering, og
-etter en lovendring i 2002 ble reglene om avdelingsorganisering tatt ut av universitetsloven, jf.
-lovvedtak 26. juni 2002 nr. 62, der det da gjeldende
-kapittel 3 ble opphevet. Det ble vedtatt en ny
-hjemmel i § 4 fjerde ledd om at styret selv skulle
-fastsette virksomhetens organisering på alle
-nivåer, og en ny § 5 om delegasjon. I § 5 fjerde
-ledd het det: «Styret avgjør klage over vedtak
-truffet av andre som har fått delegert myndighet
-etter § 5 nr. 2, i den utstrekning dette ikke er delegert til styrets klagenemnd, jf. § 24 nr. 1. Tilsvarende avgjør avdelingen klage over vedtak truffet
-av grunnenhet.» Styrets klagenemnd avgjorde
-saker på vegne av styret og kunne derfor ikke
-behandle klager over vedtak truffet av styret.
-Slike klager ble behandlet av departementet. I
-Ot.prp. nr. 79 (2003–2004) side 43 heter det:
-Etter universitets- og høgskoleloven gjelder
-forvaltningsloven for de statlige institusjonenes virksomhet. Det er for disse institusjonene
-etablert ett særegent forvaltningssystem med
-hjemmel for behandling av enkeltvedtak i to
-instanser innen ett og samme forvaltningsorgan, jf. § 5 nr. 4 i universitets- og høgskoleloven. Styret kan behandle klage over vedtak
-truffet av andre som har fått delegert myndighet, i den utstrekning klagebehandlingen ikke
-er delegert til egen klagenemnd oppnevnt av
-styret. Tilsvarende avgjør avdeling/fakultet
-klage over vedtak truffet at grunnenhet/institutt. Dette systemet innebærer at departementet, som overordnet forvaltningsmyndighet, er
-klageinstans der styret fatter vedtak som første
-instans.7
-
-26.2.3.2 Organiseringen av klagebehandlingen
-internt på institusjonen
-Tidligere var organisasjonsstrukturen på universiteter og høyskoler lovfestet ved at det var gitt en
-egen hjemmel for avdelingsorganisering. I NOU
-1993: 24 skriver lovutvalget på side 68:
-Utvalget har sett det som viktig å lovfeste et
-minimum av organisasjonsstruktur ved institu-
-
-5
-6
-7
-
-4
-
-Forskningsetikkloven.
-
-251
-
-Kapittel 26
-
-NOU 1993: 24 Lov om universiteter og høgskoler. Lov og rett i
-Norgesnett s. 68.
-Lov 12. mai 1995 nr. 22 om universiteter og høgskoler (universitetsloven).
-Ot.prp. nr. 79 (2003–2004) Om lov om universiteter og høyskoler s. 43.
-
-[Side 254]
-
-252
-
-NOU 2020: 3
-
-Kapittel 26
-
-Ny lov om universiteter og høyskoler
-
-Forutsetningen om at det er etablert et særskilt
-forvaltningssystem med reell to-instansbehandling innenfor samme forvaltningsorgan er videreført i gjeldende lov. I universitets- og høyskoleloven § 9-1 andre ledd første punktum står det at
-alle beslutninger som treffes ved institusjonen,
-treffes etter delegasjon fra styret. Loven § 9-2
-fjerde ledd slår fast at styret selv fastsetter organiseringen på alle nivåer. Hvilke nivåer dette er går
-ikke frem av loven, men ordlyden indikerer at det
-fremdeles kan være ulike nivåer i organisasjonen.
-Den tidligere lovens klare påbud om at det skulle
-være et minimum av organisasjonsstruktur, er
-imidlertid fjernet.
-Forslaget om en egen klagenemnd ble fremmet i NOU 2003: 25 Ny lov om universiteter og høyskoler (Ryssdal-utvalget). Her ble det foreslått at
-alle institusjoner skulle ha en klagenemnd, og at
-de skulle behandle klager over enkeltvedtak, også
-når styret hadde fattet vedtak i første instans.
-Utvalget skrev på side 151:
-Dette innebærer at det etableres en klagenemnd som avgjør alle klager over vedtak fattet
-ved institusjonen, også vedtak fattet av styret.
-Dette innebærer videre at det ikke vil være slik
-at klagenemnden opererer på vegne av styret,
-men behandler alle saker med endelig virkning.
-Begrunnelsen var å unngå at departementet var
-klageinstans for institusjonenes enkeltvedtak, og
-å tydeliggjøre «et skille mellom institusjonenes
-forvaltning og departementets rolle som overordnet politisk myndighet». Departementet fulgte
-opp Ryssdal-utvalgets forslag i Ot.prp. nr. 79
-(2003–2004). Departementet foreslo å lovfeste at
-alle institusjoner skulle ha en klagenemnd som
-skulle behandle klager over enkeltvedtak og eventuelt andre saker som gjaldt studenter. I samme
-proposisjon sier departementet at ordningen
-kunne synliggjøre styrets rolle som overordnet og
-strategisk organ. I høringen forut for vedtaket om
-ny lov i 2005 foreslo Justisdepartementet at det
-også ble gitt en hjemmel for departementet til å
-oppnevne en felles nasjonal klagenemnd som
-kunne behandle klager over de enkeltvedtakene
-som tidligere hadde blitt avgjort av departementet. Det ble i høringsrunden pekt på at å overlate
-til institusjonene selv å avgjøre klager på vedtak
-om for eksempel utestenging kunne svekke studentenes rettssikkerhet, og at det ville være bedre
-å overlate dette til en felles, nasjonal klagenemnd.
-Kunnskapsdepartementet fulgte opp dette og
-foreslo en hjemmel for å kunne oppnevne felles
-
-nasjonale klagenemnder, jf. universitets- og høyskoleloven § 5-1 syvende ledd.
-Ordningen med institusjonens klagenemnd
-har fungert siden 2005.
-
-26.2.3.3 Nærmere om institusjonens klagenemnd
-Universitets- og høyskoleloven § 5-1 første ledd fastslår at alle institusjonene skal ha en klagenemnd.
-Videre angir bestemmelsen klagenemndas myndighet: Institusjonens klagenemnd skal «behandle
-klager over enkeltvedtak og, etter styrets bestemmelse, andre klagesaker for kandidatene».
-Ordlyden i § 5-1 første ledd sier at klagenemnda
-skal behandle «[…] andre klagesaker for kandidatene». En naturlig forståelse av å «behandle klagesaker» er at det vil si å behandle en sak etter at det
-har kommet inn en klage, altså å behandle saken
-som andre instans. Klagenemnda behandler imidlertid saker etter §§ 4-7 til 4-10 i førsteinstans. Et
-annet eksempel der klagenemnda fatter et enkeltvedtak som førsteinstans er når den fatter vedtak
-om utestenging på grunn av brudd på forbudet mot
-bruk av plagg som helt eller delvis dekker ansiktet,
-jf. § 7-9. Lovteksten tar derfor også sikte på saker
-som styret har gitt klagenemnda myndighet til å
-avgjøre som første instans.
-Styret har hjemmel til å fastsette at klagenemnda skal være førsteinstans i noen klagesaker, jf.
-§ 5-1 første ledd. I §§ 4-7 til 4-10 om fusk, bortvisning og utestenging er det hjemlet at styret ved
-institusjonen kan bestemme at klagenemnda skal
-behandle disse sakene, jf. § 4-7 første ledd første
-punktum, § 4-8 første ledd andre punktum, § 4-10
-tredje ledd første punktum og § 7-9 andre ledd
-fjerde punktum. For politiattestsaker, jf. § 4-9, er
-det lovfestet at det skal være institusjonens klagenemnd som skal avgjøre «om studenten skal nektes retten til å delta i klinisk undervisning eller
-praksisstudier» i første instans, jf. § 4-9 femte ledd.
-Sammensetningen av nemnda er regulert i
-universitets- og høyskoleloven § 5-1 andre ledd.
-Nemnda skal ha fem medlemmer med personlige
-varamedlemmer. Lederen og varamedlemmet for
-leder skal fylle de lovbestemte kravene for lagdommere, og kan ikke være ansatt ved institusjonen. To medlemmer skal være studenter. Lengden på valgperioden er ikke lovfestet. Bestemmelsen slår fast at representanter for institusjonens
-eier eller medlem av institusjonens styret ikke kan
-være medlem av klagenemnda.
-Et eksempel på en lokal klagenemnd er Den
-sentrale klagenemnd ved Universitetet i Oslo
-(UiO). Nemndas årsmelding for 2017 gir et innblikk i oppgavene (fra innledningen):
-
-[Side 255]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Klagenemndas virksomhet er hjemlet i universitets- og høyskoleloven § 5-1. I tillegg gjelder
-forvaltningsloven for nemndas saksbehandling.
-Klagenemnda behandler klager over
-enkeltvedtak som er fattet ved Universitetet i
-Oslo. Klagenemnda behandler også klager
-over formelle feil ved eksamen. Klagenemndas
-vedtak i klagesaker kan ikke påklages videre.
-I tillegg behandler og treffer klagenemnda
-vedtak i noen sakstyper som første instans. Det
-gjelder saker om mistanke om fusk etter universitets- og høyskoleloven §§ 4-7 og 4-8, andre
-saker om bortvisning og utestengning etter
-§§ 4-8, 4-9 og 4-10 samt saker om forfalskning
-av søknadspapirer i forbindelse med opptak
-(§ 3-7 åttende ledd). Klagenemndas vedtak i
-disse sakene kan påklages til Felles klagenemnd, som er den nasjonale klagenemnda for
-nærmere bestemte vedtak fattet ved universiteter og høyskoler.
-Klagenemnda er vedtaksfør med leder og
-to andre medlemmer eller deres varamedlemmer til stede.
-Oversikten over hva klagenemnda ved UiO har
-behandlet viser at den behandler flest saker som
-gjelder mistanke om fusk eller forsøk på fusk.
-Andre saker gjelder klager over formelle feil ved
-eksamen, avslag på opptak, tap av studierett, godkjenning av utdanning, forfalskning og politiattester.
-
-26.2.3.4 Klage over eksamen, jf. Universitets- og
-høyskoleloven §§ 5-2 og 5-3.
-Universitets- og høyskoleloven §§ 5-2 og 5-3 handler om klage ved eksamen. Disse reglene behandles sammen med reglene om eksamen i punkt 21.6.
-Reglene om sensurfrist og frist for klagebehandling ved klage på eksamen er også behandlet sammen med reglene om eksamen i punkt 21.6.
-26.2.3.5 Klage på tildelingsvedtak
-Direktoratet for internasjonalisering og kvalitetsutvikling (Diku) forvalter ulike finansieringsordninger med sikte på å styrke internasjonaliseringen av norsk utdanning og kompetanseoppbygging ved utenlandske utdanningsinstitusjoner. Oppdragsgivere for Diku er blant andre
-Kunnskapsdepartementet, Utenriksdepartementet og NORAD. Diku fatter vedtak om tildeling av
-midler. Selve vedtaket om tildeling fattes av et
-programstyre i Diku. Programstyrene er satt
-
-253
-
-Kapittel 26
-
-sammen for å ha den nødvendige kompetansen til
-å behandle søknadene og fatte vedtak. Det fremgår av Prop. 81 L (2015–2016)8 at
-I vurderingene av søknadene blir det utøvet
-en stor grad av spesialisert skjønn som det vil
-være vanskelig og arbeidskrevende å overprøve […]. En overprøving av skjønnsvurderingen vil derfor kreve at klageinstansen
-gjennomgår alle de øvrige kvalifiserende søknadene. Dette vurderes som vanskelig gjennomførbart i praksis og urimelig arbeidskrevende.
-I følge universitets- og høyskoleloven § 5-4
-andre ledd kan enkeltvedtak om tildeling av
-midler som forvaltningsorganet fatter påklages
-til det organet som delegerte vedtaksmyndigheten. Det følger av universitets- og høyskoleloven § 5-4 andre ledd andre punktum at klageorganet har begrenset kompetanse til å overprøve førsteinstansens faglige skjønn.
-
-26.2.3.6 Egne regler for klagebehandling ved
-vitenskapelig uredelighet – graden
-philosophiae doctor
-Universitets- og høyskoleloven § 4-13 første ledd
-regulerer tvungen avslutning av doktorgradsutdanning ved vitenskapelig uredelighet etter forskningsetikkloven § 8 andre ledd. I forskningsetikkloven § 8 andre ledd står det: «[m]ed vitenskapelig uredelighet menes forfalskning, fabrikkering, plagiering og andre alvorlige brudd på
-anerkjente forskningsetiske normer […]». I slike
-tilfeller er det departementet eller et særskilt
-klageorgan oppnevnt av departementet som skal
-behandle klager, jf. universitets- og høyskoleloven
-§ 4-13 første ledd andre punktum. I følge Prop. 59
-L (2013–2014) er slike saker annerledes enn saker
-som gjelder kandidater som ikke har oppfylt
-doktorgradsavtalen, og derfor trenger man et eget
-system for klagebehandling.9 Institusjonene har
-ikke mange slike saker i året, og hensynet til å
-opparbeide god kompetanse på området, og til
-likebehandling av sakene, tilsier at klagebehandlingen bør legges til et nasjonalt klageorgan.
-Saker som gjelder tvungen avslutning fordi
-kandidaten ikke har oppfylt doktorgradsavtalen
-8
-
-9
-
-Prop. 81 L (2015–2016) Endringer i universitets- og høyskoleloven (NOKUTs tilsyn, nasjonal vitnemålsportal mv.) s. 25–
-26.
-Prop. 59 L (2013–3014) Endringer i universitets- og høyskoleloven.
-
-[Side 256]
-
-254
-
-NOU 2020: 3
-
-Kapittel 26
-
-Ny lov om universiteter og høyskoler
-
-skal behandles som andre typer enkeltvedtak.
-Det er opp til institusjonen selv å vurdere hva
-tvungen avslutning av doktorgraden vil innebære.10 Klageinstans vil være institusjonens
-klagenemnd, jf. § 4-13 fjerde ledd.
-
-26.2.3.7 Personalsaker – universitets- og
-høyskoleloven § 11-3. Saker om
-partsinnsyn.
-Departementet er klageinstans i personalsaker, jf.
-universitets- og høyskoleloven § 11-3, men bare i
-de sakene der vedtaket i saken er truffet av styret
-ved institusjonen som førsteinstans. Departementet er også klageinstans i saker om partsinnsyn
-etter forvaltningsloven.
-
-26.2.3.8 Ileggelse av overtredelsesgebyr
-I saker om ileggelse av overtredelsesgebyr etter
-universitets- og høyskoleloven kapittel 8 og etter
-§ 7-2, er Kongen i statsråd klageinstans, det vil si
-når regjeringen samles hos Kongen og gjør formelle vedtak. Vedtak om å ilegge et slikt gebyr er
-det departementet som treffer, og klageinstansen
-følger av forvaltningsloven § 28 første ledd, det er
-det nærmeste overordnede organ, som i dette tilfellet er Kongen i statsråd.
-
-26.2.3.9
-
-Nasjonale klagenemnder
-
-26.2.3.9.1 Klagenemnda for opptakssaker
-(nasjonal klagenemnd)
-Med hjemmel i universitets- og høyskoleloven § 3-7
-andre ledd har departementet fastsatt forskrift om
-klagebehandling av opptakssaker.11 Forskriften
-inneholder også regler om nasjonal klagenemnd
-for opptak gjennom Samordna opptak, se kapittel
-8. Samordna opptak er organisert som en del av
-Unit – Direktoratet for IKT og fellestjenester i
-høyere utdanning og forskning (Unit).
-Den nasjonale klagenemnda behandler klager
-om opptak til høyere utdanning i den nasjonale
-opptaksmodellen for grunnutdanninger ved universiteter og høyskoler.
-Etter opptaksforskriften § 8-1 andre ledd er
-opptaksklagenemndas
-myndighet
-negativt
-avgrenset. Nemnda behandler ikke klager på
-lokale opptak. Enkeltvedtak om lokalt opptak
-
-klagebehandles på den aktuelle institusjonen.
-Videre behandler opptaksklagenemnda ikke klager over vedtak om opptak på grunnlag av realkompetanse, opptak etter at det er innvilget dispensasjon fra enkelte av kravene om generell studiekompetanse eller klager på vurderinger av spesielle opptakskrav som omfatter ferdigheter eller
-opptaksprøver fastsatt av institusjonen. Klager på
-slike vedtak behandles i lokale klagenemnder.
-Sammensetningen av den nasjonale klagenemnda er regulert i § 8-2 i forskriften. Nemnda
-har syv medlemmer oppnevnt av Kunnskapsdepartementet. Disse velges normalt for to år av
-gangen. Sekretariatet til den nasjonale klagenemnda for opptak er plassert hos Samordna opptak.
-
-26.2.3.9.2 Felles klagenemnd
-Departementet kan etablere felles nasjonale
-klagenemnder for særlige typer vedtak, jf. universitets- og høyskoleloven § 5-1 syvende ledd. Med
-hjemmel i denne har departementet fastsatt forskrift om felles klagenemnd for behandling av
-klagesaker etter lov om universiteter og høyskoler §§ 3-7 åttende ledd og 4-7 til 4-10.12
-Ved opprettelsen av felles klagenemnd vurderte departementet om det skulle opprettes én
-klagenemnd for hver sakstype i §§ 4-7 til 4-10,
-eller om det var mest hensiktsmessig å ha én felles nemnd som behandlet alle klagene. Sammenfattet kalles disse sakene «studentsaker». Departementet la avgjørende vekt på at det var viktig å
-lage en ensartet praksis for behandling av slike
-saker for alle institusjoner som loven gjaldt for.
-Ved å ha en sentral klagenemnd kunne man oppnå
-en mer betryggende, profesjonell og ikke minst
-ensartet klagebehandling. Klageorganet kunne
-også opparbeide seg bedre kompetanse på saksfeltet, noe som ble vurdert å styrke rettssikkerheten til studentene.
-De sakene som skulle behandles i felles klagenemnd var de sakene der konsekvensene ville
-være annullering, bortvisning eller utestenging.
-Disse sanksjonene er de kraftigste virkemidlene
-en institusjon har for å påvirke en students adferd,
-og de har inngripende konsekvenser.
-Felles klagenemnd behandler også klager
-over universiteter og høyskolers avgjørelser etter
-offentleglova. Frem til 2014 var Kunnskapsdepartementet klageinstans i disse sakene. Kunnskaps-
-
-10
-
-Prop. 59 L (2013–2014) kapittel 10 Merknader til bestemmelsen.
-11
-Forskrift 6. januar 2017 om opptak til høgre utdanning
-(opptaksforskriften).
-
-12
-
-Forskrift 10. oktober 2005 nr. 1192 om felles klagenemnd
-for behandling av klagesaker etter lov om universiteter og
-høyskoler § 3-7 (8), § 4-7 til § 4-10.
-
-[Side 257]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-departementet er fortsatt klageinstans i saker om
-partsinnsyn etter forvaltningsloven. I Prop. 59 L
-(2013–2014) går det frem at departementet mener
-det ikke er hensiktsmessig at departementet er
-klageinstans i denne typen saker. Departementet
-la til grunn at en sammensatt nemnd, slik felles
-klagenemnd er, kunne behandle sakene med et
-bredt perspektiv, fordi felles klagenemnd, etter
-departementets vurdering, har «en slik sammensetning og kompetanse at den vil være godt egnet
-til å behandle klager etter offentleglova».13
-Klagenemndas oppnevning og sammensetning går frem av § 2 i forskriften om felles klagenemnd etter universitets- og høyskoleloven.
-Departementet oppnevner de syv medlemmene.
-Tre av medlemmene skal ha varamedlemmer
-ifølge en liste. Det stilles kompetansekrav til medlemmene. Lederen og nestlederen må være jurister og «fylle de lovbestemte krav til lagdommere».
-Dette innebærer at de må ha mastergrad i rettsvitenskap eller tilsvarende, og være 25 år eller
-eldre. De tre medlemmene skal ha kjennskap til
-studieadministrativt arbeid ved institusjonene.
-Alle disse fem medlemmene blir oppnevnt for fire
-år av gangen. I tillegg har klagenemnda to studentmedlemmer, som også skal ha varamedlemmer ifølge en liste, og som blir oppnevnt for to år
-av gangen. Sekretariatet til felles klagenemnd er
-plassert hos Unit.14
-Fra 2001 til 2014 var det en egen nemnd som
-behandlet klager i saker om politiattest i førsteinstans. Denne nemnda ble avviklet 1. januar
-2015. Slike saker behandles nå av institusjonens
-klagenemnd i førsteinstans, og klageinstansen er
-felles klagenemnd. I Prop. 59 L (2013–2014) går
-det frem at politiattestnemnda ble nedlagt fordi
-den ble vurdert som lite effektiv. Departementet
-anså også at å legge beslutningsmyndigheten til
-den enkelte institusjonen var mer i tråd med
-reglene om institusjonens faglige autonomi.
-Departementet så heller ingen god begrunnelse
-for å ha et særskilt saksbehandlingssystem for
-politiattester.
-
-26.2.3.9.3 Klagenemnd for NOKUT
-Etter kvalitetsutviklingsforskriften § 7-1 oppnevner departementet en klagenemnd som avgjør
-klager over vedtak truffet av Nasjonalt organ for
-kvalitet i utdanningen (NOKUT).15 NOKUTs
-klagenemnd for høyere utdanning skal ha seks
-13
-14
-
-Prop. 59 L (2013–2014) s. 39.
-Direktoratet for IKT og fellestjenester i høyere utdanning
-og forskning (Unit).
-
-255
-
-Kapittel 26
-
-medlemmer, og to av disse skal være studenter.
-Klagenemnda behandler klager over vedtak om
-generell godkjenning av høyere utenlandsk utdanning og vedtak om akkreditering.
-Etter universitets- og høyskoleloven § 3-4 har
-NOKUTs klagenemnd myndighet til å behandle
-klager over søknader om generell godkjenning av
-utenlandsk utdanning eller norsk utdanning som
-ikke går inn under universitets- og høyskoleloven.
-Omfanget av overprøvingen er begrenset til en
-legalitetsprøving ved at NOKUTs klagenemnd
-ikke kan overprøve NOKUTs vurdering av den
-avlagte utdanningens omfang og nivå, jf. universitets- og høyskoleloven § 3-4 siste punktum. Det er
-også begrensninger i hvem som kan påklage slike
-vedtak. Mens forvaltningsloven har regler om at
-parter og andre med rettslig klageinteresse kan
-påklage enkeltvedtak, er det i disse sakene bare
-«den som et vedtak direkte gjelder for», som kan
-påklage vedtaket.16 Se mer om dette i punkt 29.3.
-Også vedtak om akkreditering kan påklages til
-NOKUTs klagenemnd, jf. studiekvalitetsforskriften § 1-9 første ledd bokstav a.17 På samme måte
-som ved klage over godkjenning, er personkretsen som kan klage snevret inn sammenlignet med
-hovedregelen i forvaltningsloven § 28, jf. studiekvalitetsforskriften § 1-9 første ledd bokstav b.
-NOKUTs klagenemnd kan ikke overprøve NOKUTs faglige vurdering av de faktiske forholdene,
-jf. studiekvalitetsforskriften § 1-9 første ledd bokstav c.
-
-26.3 Erfaringer med reglene
-26.3.1 Rundskriv om klage
-I rundskriv F-05-06 ga departementet en veiledning
-om reglene om klagebehandling etter universitetsog høyskoleloven. Dette rundskrivet er ikke revidert, og fremstår i dag som ikke oppdatert.
-Rundskrivet inneholder grunnleggende regler
-og informasjon om klagebehandling ved institusjonene. Det informerer blant annet om krav til
-habilitet og særlige saksbehandlingsregler for
-noen typer enkeltvedtak som følger av universitets- og høyskoleloven. Rundskrivet redegjør for
-kravet til to tredjedels flertall i saker som gjelder
-utestenging, bortvisning og manglende skikkethet,
-15
-
-16
-17
-
-Forskrift 1. februar 2010 nr. 96 om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning
-(studiekvalitetsforskriften).
-Se studiekvalitetsforskriften § 1-9 første ledd bokstav b,
-sammenholdt med forvaltningsloven § 28.
-Studiekvalitetsforskriften.
-
-[Side 258]
-
-256
-
-Kapittel 26
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-jf. universitets- og høyskoleloven §§ 4-7 til 4-10.
-Kravet er strengere enn kravet til simpelt flertall
-som følger av alminnelig forvaltningsrett. Sakene
-gjelder vedtak om sanksjoner mot studentene. I
-tillegg er blant annet de særlige reglene om domstolsprøving og dekning av advokatutgifter
-omhandlet.
-
-26.3.2 Klagenemnd for saker om opptak
-Klagenemnda for opptakssaker hadde i 2018 totalt
-74 saker til behandling ifølge en oppsummering
-av aktiviteten fra 2018 som er oversendt til Kunnskapsdepartementet:18
-Etter opptaket 2018 behandlet Nasjonal klagenemnd totalt 74 saker. Av disse ble 67 vedtak opprettholdt, noe som utgjør 90,5 % av det totale antallet. 7 vedtak ble opphevet.
-29 av 74 saker var fra søkere som hadde søkt
-særskilt vurdering, noe som utgjør 39,2 % av det
-totale antall klager […] Ingen av disse fikk medhold. 13 av 74 saker var fra søkere med utenlandsk utdanning, noe som utgjør 17,6 % av det
-totale antall klager. Tre av disse fikk medhold.
-26.3.3 Felles klagenemnd
-Felles klagenemnd har de siste årene hatt en betydelig økning i antall saker. I løpet av 2018 traff
-nemnda vedtak i 107 saker etter universitets- og
-høyskoleloven §§ 4-7 til 4-10. Dette var en økning
-på 35 prosent sammenlignet med 2017.
-Årsmelding for felles klagenemnd for 2017
-viser at nemnda dette året traff vedtak i følgende
-saker etter universitets- og høyskoleloven: 19
-– 68 saker om fusk etter universitets- og høyskoleloven § 4-7 første ledd bokstav b eller 4-8
-tredje ledd,
-– Fire saker om uredelig opptreden etter universitets- og høyskoleloven § 4-7 første ledd bokstav a eller 4-8 tredje ledd første punktum,
-– Fem saker om merknader på politiattest etter
-universitets- og høyskoleloven § 4-9 og
-– Tre saker om skikkethet etter universitets- og
-høyskoleloven § 4-10, og saker om advokatsalær.
-I tillegg behandlet nemnda 64 klager over avslag
-på innsyn etter offentleglova.
-18
-
-Brev fra Unit til Kunnskapsdepartementet av 9. mai 2019
-om behandling av saker i nasjonal klagenemnd.
-19
-Felles klagenemnd. Årsmelding 2017. Hentet fra https://
-www.ceres.no/tjenester/klagenemnder/felles-klagenemnd/arsmeldinger/arsmelding_2017.pdf.
-
-Fra årsmeldingen er det hentet følgende
-omtale av virksomheten til felles klagenemnd:
-For saker som er behandlet etter uhl. var stadfestelsesprosenten (vedtak ble stående) 79 prosent i 2017. Til sammenligning var stadfestelsesprosenten 89 i 2016, og 92 i 2015. I syv av
-sakene etter universitetets- og høyskoleloven
-ble underinstansens vedtak opphevet i sin helhet. Dette utgjør en opphevelsesprosent (vedtak ble opphevet) på 9 %. Til sammenligning
-var opphevelsesprosenten 10 % i 2016, og 3 % i
-2015.
-Én av sakene, hvor underinstansens vedtak
-ble opphevet, gjaldt en student som var utestengt fra praksis på lærerstudiet som følge av
-merknad på politiattesten. Felles klagenemnd
-fant, i motsetning til underinstansen, at vilkårene for å utestenge klageren ikke forelå, og
-klageren fikk derfor delta i praksisopplæringen. En annen sak gjaldt vurdering av skikkethet på sykepleierstudiet. Institusjonen hadde
-ikke tilbudt studenten utvidet veiledning, fordi
-de mente det var åpenbart at utvidet veiledning
-ikke var egnet til å hjelpe studenten. Dette var
-ikke nemnda enig i.
-De fem øvrige sakene hvor Felles klagenemnd opphevet underinstansens vedtak i sin
-helhet gjaldt alle fusk på eksamen. I tre av
-disse sakene fant nemnda at studentene
-hadde vært i aktsom rettsvillfarelse. I én sak
-opphevet nemnda vedtaket som følge av saksbehandlingsfeil. I den siste saken fant ikke
-nemnda at det forelå tilstrekkelige bevismessige holdepunkter for at studenten hadde fusket.
-I ni saker vedtok Felles klagenemnd å sette
-ned reaksjonen vedtatt av underinstansen. For
-fem av disse sakene var årsaken til omgjøringen for lang saksbehandlingstid. I én sak ble
-tidspunktet for utestengelsesperioden endret,
-og det ble vist til at hovedregelen er at vedtak
-skal iverksettes umiddelbart. Nemnda fant
-videre grunnlag for å omgjøre en reaksjon hvor
-utestengelsesperioden berørte tre semestre,
-slik at klager i praksis kun ble utestengt i to
-semestre. I en annen sak ble utestengelsesperioden satt ned fra to til ett semester da
-nemnda fant at det forelå formildende
-omstendigheter.
-Felles klagenemnd endret også utestengelsesperioden i en skikkethetssak, fra fem til tre
-år. Det ble vist til at en utestengelse for en
-periode på fem år kun bør vedtas i de mest
-alvorlige tilfellene.
-
-[Side 259]
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-26.3.4 Særlige vurderinger ved bruk av
-nemnder i NOU 2019: 5
-I NOU 2019: 5 Ny forvaltningslov diskuterer forvaltningslovutvalget bruk av nemnder i offentlig
-forvaltning. Dette er også blitt gjort av direktoratet for forvaltning og IKT (Difi) i flere utredninger, blant annet i en undersøkelse om statlige
-klagenemnder.20
-Forvaltningslovutvalget har sett spesielt på fast
-organiserte nemnder som utøver offentlig myndighet, og særlig klagenemnder. Forvaltningslovutvalget skriver: «Den enkelte nemndas rolle og oppgave vil kunne gi argumenter for at det bør gjelde
-spesielle regler om organisering og saksbehandling.» Forvaltningslovutvalget har vurdert både
-hvordan nemndene bør organiseres og hvilke særskilte saksbehandlingsregler som bør gjelde for
-nemndene. Det peker også på særlige grunner for
-å opprette klagenemnder, så som demokratihensyn, hensynet til interesse- og brukerrepresentasjon, spesiell fagkunnskap og avlastning av administrasjon i ordinær klagebehandling med mer. I tillegg viser forvaltningslovutvalget til motargumentene om at nemnder kan gjøre det vanskelig å gjennomføre en overordnet konstitusjonelt ansvarlig
-styring, og at det kan svekke det politiske ansvaret
-for avgjørelser som kan bero på politiske verdivalg.
-Forvaltningslovsutvalget viser i sin gjennomgang over nemnder også til universiteter og høyskolers klagenemnder og reglene i universitetsog høyskoleloven § 5-1.
-Videre diskuterer forvaltningslovutvalget om
-det er behov for særregler for saksbehandling i
-nemnder.21 Utvalget peker på at det for nemnder
-kan oppstå særlige saksbehandlingsspørsmål som
-ikke gjør seg gjeldende for hierarkiske organer,
-for eksempel om krav til vedtaksførhet og antall
-stemmer for å treffe vedtak, om føring av møteprotokoll, om hvorvidt det er nødvendig at
-nemnda treffe avgjørelse i møter, og om hvorvidt
-saksbehandlingen skal ha et større innslag av mer
-muntlighet. Disse diskusjonene og vurderingene
-kan ha overføringsverdi for nemndene i universitets- og høyskolesektoren.
-Forvaltningslovutvalget konkluderer med at
-det av og til kan være upraktisk å måtte kalle inn
-hele nemnda til møte, og at nemnda bør ha anledning til å treffe kurante vedtak ved sirkulasjon av
-saksdokumenter, uten at dette bør være en gene20
-
-Difi (Direktoratet for forvaltning og IKT). Viltvoksende
-nemnder? Om organisering og regulering av statlige klagenemnder. Difi-rapport 2014:2.
-21
-Se NOU 2019: 5 Ny forvaltningslov s. 484–490.
-
-257
-
-Kapittel 26
-
-rell regel. Forvaltningslovutvalget mener også at
-det skal føres møteprotokoll, siden dette er et viktig
-redskap for å kunne etterprøve nemndas virksomhet. Videre mener det at alt som forberedes av
-sekretariatet må være skriftlig, selv om ikke er nødvendig å ha en generell regel om dette. Når det
-gjelder partsrepresentasjon og muntlig deltakelse i
-nemndas møter, skriver forvaltningslovutvalget på
-side 486: «Hvis avgjørelsen vil være særlig inngripende, er det et argument for å la parten møte og
-forklare seg for nemnda». En del av de sakene som
-behandles av institusjonenes klagenemnder kan ha
-et utfall som er særlig inngripende for studentene,
-så som utestenging, bortvisning og annullering, jf.
-gjeldende lov §§ 4-7 til 4-10.
-Forvaltningslovutvalget drøfter også regler
-om avgjørelse av inhabilitetsspørsmål i nemnder.
-Forvaltningslovutvalget foreslår at hovedregelen
-om at enhver tar stilling til spørsmål om egen
-inhabilitet så snart det er relevant, også skal
-gjelde for nemnder.
-Forvaltningslovsutvalget foreslår videre på
-side 490 i utredningen at kollegiale organers votering skal protokolleres med henvisning til de
-bestemmelser som det har blitt drøftet og votert
-over, jf. forvaltningslovutkastet § 30 andre ledd.
-
-26.4 Utvalgets vurderinger
-26.4.1 Innledning
-Universiteter og høyskoler treffer en lang rekke
-enkeltvedtak av forskjellig karakter. Virkningene
-av de ulike vedtakene er også svært varierte, fra for
-eksempel at man ikke får godkjent tidligere utdanning, til at man blir utestengt fra institusjonen. Konsekvensene av uriktige vedtak kan bli store. Det er
-viktig at det finnes gode systemer som sikrer at det
-treffes forsvarlige avgjørelser i første instans, men
-også mekanismer som gjør det mulig å rette opp
-eventuelle feil, og som kan ivareta dem som mener
-seg utsatt for uriktige vedtak. Det er vanligvis en
-skjevhet i styrkeforholdet mellom en enkeltperson
-og en institusjon som et universitet eller en høyskole, siden institusjonen har en stor administrasjon, mye kunnskap og gjerne bedre økonomiske
-ressurser. At feil kan rettes er det viktigste hensynet i vurderingen av hva som er et godt system
-for håndtering av klager.
-26.4.2 Et enklere system for
-klagebehandling?
-Utvalget har vurdert de ulike klageordningene i
-universitets- og høyskolesystemet, med tanke på
-
-[Side 260]
-
-258
-
-NOU 2020: 3
-
-Kapittel 26
-
-Ny lov om universiteter og høyskoler
-
-Boks 26.3 Oversikt over vedtak og behandling av klager
-Sakstype og hjemmel for vedtak
-i gjeldende lov
-
-Saksbehandling og
-klage
-
-Hjemmel for vedtak
-i lovforslaget
-
-Enkeltvedtak etter § 7-6 andre ledd
-
-Førsteinstans er styret.
-Klageinstans er institusjonen ved
-institusjonens klagenemnd.
-
-§ 1-3
-
-Vedtak i studentsaker §§ 4-7 til 4-10
-(fusk, falskt vitnemål, forstyrrende
-adferd, anmerkning på politiattest,
-skikkethet, annullering, utestenging,
-bortvisning)
-
-Førsteinstans er institusjonens
-klagenemnd eller styret selv.
-Klageinstans er felles klagenemnd.
-
-Kapittel 10
-
-Vedtak om bortvisning på grunn av
-brudd på forbud mot ansiktsdekkende
-plagg § 7-9
-
-Førsteinstans er rektor eller den
-rektor bemyndiger.
-Klageinstans er institusjonens
-klagenemnd.
-
-§ 10-9
-
-Vedtak om utestenging på grunn av
-ikke overholdt bortvisning § 4-8 første
-ledd andre punktum
-
-Førsteinstans er styret selv eller
-institusjonens klagenemnd.
-Klageinstans er felles klagenemnd.
-
-§ 10-4
-
-Formelle feil ved eksamen § 5-2
-
-Førsteinstans er institusjonen.
-Klageinstans er institusjonens klagenemnd/styret selv.
-
-§ 8-8
-
-Vedtak om tvungen avslutning av
-doktorgradsutdanning ved vitenskapelig uredelighet § 4-13 første ledd jf.
-forskningsetikkloven § 8 andre ledd1
-
-Førsteinstans er institusjonen.
-Klageinstans er Kunnskapsdepartementet eller klagenemnd opprettet
-av Kunnskapsdepartementet.
-
-§ 10-7
-
-Vedtak om tvungen avslutning på
-andre grunnlag § 4-13 andre ledd
-
-Førsteinstans er institusjonen.
-Klageinstans er institusjonens
-klagenemnd.
-
-§ 10-7
-
-Vedtak i personalsaker (avskjed, oppsigelse, suspensjon, ordenstraff), forvaltningsloven § 2 andre ledd og § 3
-andre ledd og universitets- og høyskoleloven § 11-3
-
-Førsteinstans er enten institusjonen, § 11-10
-en ansettelsesnemnd eller styret selv.
-Klageinstans er styret selv eller
-Kunnskapsdepartementet, avhengig
-av hvem som har truffet vedtak i
-førsteinstans.
-
-Vedtak i valgsaker (lokalt regulert)
-§ 9-4
-
-Førsteinstans er valgstyret.
-Klageinstans er styret selv.
-
-§ 3-4
-
-Vedtak i sensursaker §§ 3-9 og 5-3
-
-Førsteinstans er institusjonen ved
-sensor
-Klageinstans er egen Klagesensurkommisjon.
-
-§§ 8-6, 8-7 og 8-10
-
-Vedtak etter bedømmelse av muntlig
-prestasjon og vurdering av praksisstudier eller lignende som etter sin art
-ikke lar seg etterprøve §§ 3-9 og 5-3
-
-Bare klagerett på faglig vurdering
-hvis prestasjonen etter sin art lar seg
-etterprøve. Klagerett på formelle feil.
-
-§§ 8-6 og 8-10
-
-[Side 261]
-
-259
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-Kapittel 26
-
-Boks 26.3 (forts.)
-Sakstype og hjemmel for vedtak
-i gjeldende lov
-
-Saksbehandling og
-klage
-
-Hjemmel for vedtak
-i lovforslaget
-
-Innsyn etter forvaltningsloven (partsinnsyn), forvaltningsloven § 21 (klage
-over avslag på krav om å få gjøre seg
-kjent med et dokument).
-
-Førsteinstans er institusjonen.
-Klageinstans er Kunnskapsdepartementet.
-
-Forvaltningsloven
-§ 21
-
-Innsyn etter offentleglova2, jf. universi- Førsteinstans er institusjonen.
-tets- og høyskoleloven § 5-1 syvende
-Klageinstans er felles klagenemnd.
-ledd
-
-§ 12-1
-
-Vedtak om opptak, jf. § 3-7 andre ledd
-og opptaksforskriften kapittel 83
-
-§ 6-5
-
-Førsteinstans er Samordna opptak.
-Klageinstans er nasjonal klagenemnd for opptakssaker.
-
-Vedtak om opptak på grunnlag av
-Førsteinstans er institusjonen. Klage- § 6-4 og opptaksrealkompetanse eller dispensasjon fra instans er institusjonens klagenemnd. forskriften
-regelen om generell studiekompetanse
-eller opptaksprøve, § 3-6 andre ledd jf.
-opptaksforskriften § 8-1 andre ledd
-Pålegg om retting, tvangsmulkt,
-overtredelsesgebyr med mer overfor
-private institusjoner §§ 8-8 – 8-11
-
-Førsteinstans er departementet.
-Klageinstans er Kongen.
-
-§§ 5-6 – 5-9
-
-Vedtak om ileggelse av overtredelses- Førsteinstans er departementet.
-gebyr for forsettlig eller uaktsomt bruk Klageinstans er Kongen.
-av en vernet institusjonsbetegnelse,
-§ 7-2
-
-§ 2-7
-
-Vedtak i saker om høyere utdanning
-etter § 2-1 sjette ledd
-
-Førsteinstans er NOKUT.
-Klageinstans er klagenemnd for
-høyere utdanning
-
-§§ 15-1 og 15-3
-
-Vedtak om tildeling av midler § 5-4
-
-Førsteinstans er Diku.
-Klageinstans er Utenriksdepartementet, Kunnskapsdepartementet
-eller andre.
-
-§ 12-2
-
-1
-2
-3
-
-Lov 28. april 2017 nr. 23 om organisering av forskningsetisk arbeid (forskningsetikkloven).
-Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova).
-Forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning (opptaksforskriften).
-
-om det er mulig å ha et enklere og mer enhetlig
-system for klagebehandlingen. Oversikten over de
-ulike vedtaks- og klageordningene, som vist i boks
-26.3, viser at systemet kan fremstå som komplisert.
-Det er mange former for vedtak, og mange former
-for vedtaksbehandling. Det er også mange ulike
-nemnder. Regler om behandlingen av vedtak er
-plassert på ulike steder i loven, noe som også
-bidrar til at det er vanskelig å få oversikt.
-
-Utvalget har ikke fått noen innspill om at
-reglene om enkeltvedtak eller reglene om klage
-er vanskelige, uforståelige eller uheldige, med
-unntak av flere innspill om å reversere ordningen
-med blind sensur ved klage på karakter. Utvalget
-ser at de ulike reglene, både de som gjelder saksbehandling og de som gjelder klagebehandling og
-klageordning, er utviklet og regelfestet for at saksbehandlingen skal være best mulig, og for at
-
-[Side 262]
-
-260
-
-Kapittel 26
-
-NOU 2020: 3
-Ny lov om universiteter og høyskoler
-
-klageordningene skal være tilpasset de forskjellige vedtakstypene. En klage på en eksamenskarakter skiller seg for eksempel fra en klage over
-utestenging. At reglene for behandling er forskjellige for ulike sakstyper, er hensiktsmessig fordi
-det er ulike vurderingstemaer. Særreglene er gitt
-for å styrke klageinstansens kompetanse, effektivisere saksbehandlingen og ivareta rettssikkerheten for klageren på beste mulig måte.
-Utvalget har vurdert om det er mulig å harmonisere reglene slik at behovet for et enklest mulig
-system balanserer bedre mot behovet for særreguleringer. Slik utvalget vurderer det, er det
-ikke mulig å få til en felles mal for alle klager over
-alle typer enkeltvedtak ved høyere utdanningsinstitusjoner. Vi har derfor kommet til at reguleringen av klagebehandling bør videreføres. Utvalget foreslår enkelte endringer i bestemmelsen om
-klagenemnder, (dagens § 5-1), habilitetsregler og
-bestemmelsen om enkeltvedtak (dagens § 7-6
-andre ledd). For noen av vedtakstypene foreslås
-det ingen endringer i reguleringen. Dette gjelder
-klage over avbrutt forskerutdanning (dagens § 413 første ledd), klage på enkeltvedtak om tildeling
-av midler (dagens § 5-4) og klage over vedtak fattet av Samordna opptak. Utvalget foreslår heller
-ingen endringer i behandlingen av saker etter
-dagens §§ 4-7 til 4-10. Disse bestemmelsene er
-vurdert og behandlet sammen med de beslektede
-problemstillingene knyttet til sakstypene, se kapitlene 22 og 23.
-
-26.4.3 Institusjonens klagenemnd eller
-styrebehandling av klager?
-I dagens lov er institusjonen pålagt å ha en egen
-klagenemnd, jf. universitets- og høyskoleloven
-§ 5-1 første ledd. Klagenemnda skal behandle
-klager over enkeltvedtak og andre klagesaker,
-hvis styret bestemmer det. I dagens lov er det
-valgfritt om det er styret eller institusjonens egen
-klagenemnd som skal treffe vedtak i saker om
-annullering (§ 4-7), utestenging og bortvisning
-(§ 4-8), utestenging (§ 4-9 og § 4-10), ansiktsdekkende plagg (§7-9) og behandle klage over
-vedtak om formelle feil ved eksamen (§ 5-2).
-Utvalget har vurdert om det vil være hensiktsmessig å overlate klagebehandlingen til styret for
-institusjonen. I så fall vil det ikke være behov for
-en egen klagenemnd. Styrets oppgaver er svært
-varierte, og kompetansen i styret skal samsvare
-med de oppgavene et styre har. Utvalget legger
-vekt på de fleste institusjonene i dag er store, med
-en relativt stor administrasjon og tilgang til juridisk kompetanse. Dette gjør at ordningen med en
-
-intern inndeling i nivåer, der enkeltvedtak treffes
-av avdeling, institutt eller administrasjonen og
-eventuell klagebehandling gjøres av styret, etter
-utvalgets mening kan fungere godt.
-Utvalget finner likevel at det kan være fordeler
-med å ha egne klagenemnder. I motsetning til et
-styre skal et klageorgan ta stilling til et bestemt
-vurderingstema, som juks, skikkethet med mer.
-Medlemmene i en nemnd besitter i større grad
-den spesialkompetansen som er påkrevd for å
-treffe et materielt riktig vedtak, og er bedre rustet
-til å ha en effektiv saksbehandling. Utvalget legger også vekt på at styret fortrinnsvis bør behandler saker av strategisk og overordnet betydning, jf.
-formuleringen i universitets- og høyskoleloven
-§ 9-2 første ledd.
-Dessuten er det fremdeles enkelte høyskoler
-som er små, og som har en relativt liten administrasjon. For disse institusjonene kan en reell toinstansbehandling der styret er klageinstans,
-være vanskeligere å få til. Eksempler på uheldige
-forhold kan for det første være der saksbehandlere er involvert i sakene på flere stadier i saksbehandlingen. Utvalget er kjent med eksempler
-på saker der de administrative ressursene ikke er
-tilstrekkelige til å sikre at det ikke er de samme
-personene som forbereder eller treffer vedtak i
-saken i første og andre instans. Et annet eksempel
-er at medlemmer av styret kan ha nære relasjoner
-til ansatte som er involvert i beslutningen i første
-instans. Det kan derfor ikke utelukkes at en slik
-intern behandling i noen tilfeller vil gå på bekostning av en reell to-instansbehandling.
-Ut fra en vurdering av styrets oppgaver, kompetanse og sammensetning, og klagenemndenes
-stilling, kompetanse og organisering, mener utvalget at det bør være en klagenemnd tilknyttet den
-enkelte institusjonen som behandler klager over
-enkeltvedtak. Også hensynet til å ha like systemer
-på alle institusjoner uavhengig av størrelse tilsier
-en slik løsning. Utvalget legger vekt på at en
-klagenemnd vil være oppnevnt og sammensatt for
-å kunne foreta gode vurderinger i klagesaker.
-Utvalget anbefaler at ordningen med en lokal
-klagenemnd videreføres, men vil foreslå å lovfeste
-at styret ikke kan instruere klagenemnda i enkeltsaker, se punkt 26.4.4. En slik lovfesting vil synliggjøre en tilstrekkelig avstand mellom styret og
-klagenemnda. Videre foreslår utvalget å lovfeste
-strengere regler om habilitet for klagebehandlingen. Dette er viktig for å sikre tillit til at vedtak er
-truffet etter en uhildet vurdering. En uhildet vurdering kan sikres ved at det lovfestes egne regler om
-habilitet, slik det er gjort for forberedelse og avgjørelse av saker i kommunale klagenemnder.
+# Politiattest og skikkethet
+
+\[:figur:fig23-1.jpg\]
+
+## Utvalgets forslag
+
+Utvalget foreslår følgende:
+
+- Første og andre ledd i dagens § 4-9 slås sammen, for å tydeliggjøre at det er to ulike grunnlag for å innhente politiattest fra studentene; der studenten kan komme i kontakt med mindreårige, og der de kan komme i kontakt med andre sårbare grupper i profesjonsutdanninger.
+
+- Ordlyden i dagens § 4-9 første ledd endres slik at politiattest kan kreves «ved opptak *og* underveis i studiet».
+
+- Ordlyden i dagens § 4-9 fjerde ledd endres fra «utestenges» til «utelukkes», for å presisere at utelukkelse er en midlertidig reaksjon inntil det foreligger rettskraftig dom eller saken henlegges.
+
+- Dagens § 4-10 første ledd endres slik at departementet får hjemmel til å fastsette hvilke utdanninger som er omfattet av skikkethetsvurdering, og til å fastsette regler om saksbehandlingen i skikkethetssaker.
+
+- Skikkethetsforskriften § 2 og § 12 flyttes til universitets- og høyskoleloven, slik at kriteriene for skikkethetsvurdering er sammenfattet i én lovbestemmelse.
+
+- Krav om skikkethetsvurdering innføres for etter- og videreutdanninger som er knyttet til grunnutdanningene listet opp i § 1 i skikkethetsforskriften.
+
+- Institusjonene gis adgang til å søke departementet om at utdanninger inkluderes i § 1 i skikkethetsforskriften.
+
+- En ny bestemmelse om at hvis studenten ikke fremlegger relevant dokumentasjon i skikkethetssaker etter oppfordring fra institusjonen, kan det få betydning for utfallet i skikkethetsvurderingen.
+
+## Gjeldende rett
+
+### Politiattest
+
+Hjemmelsgrunnlaget for å kreve politiattest fra studenter er universitets- og høyskoleloven § 4-9.[^427] Bestemmelsen sier for det første at det kan kreves politiattest av studentene i studier der de kan komme i kontakt med mindreårige. I tillegg gjelder regler om politiattest for yrkesutøving tilsvarende for studenter som deltar i praksis eller klinisk undervisning. Loven har dermed to ulike grunnlag for å kunne kreve politiattest av studentene.
+
+#### Studier hvor studentene kan komme i kontakt med mindreårige
+
+I enkelte utdanninger kan studentene gjennom praksisstudier eller som del av klinisk undervisning komme i kontakt med mindreårige. I forbindelse med opptak eller underveis i disse studiene kan det kreves at studentene legger frem politiattest som nevnt i politiregisterloven[^428] § 39 første ledd.
+
+Ifølge politiregisterloven § 39 kan det utstedes politiattest for personer som skal ha omsorg for, eller oppgaver knyttet til, mindreårige. I politiregisterloven omtales en slik politiattest som «barneomsorgsattest».
+
+Formålet med barneomsorgsattester er å forhindre overgrep mot eller skadelig innflytelse på mindreårige og å bidra til å øke tilliten til at mindreårige tas hånd om av skikkede personer, jf. politiregisterloven § 37 første ledd nr. 4. Dette er et bredere formål enn tidligere, da kravet om politiattest først og fremst var begrunnet i å hindre seksuelle overgrep mot barn som mottar tiltak fra barneverntjenesten.
+
+Hensikten med politiregisterloven § 39, som regulerer barneomsorgsattesten, er å skape en ensartet praksis på de områdene der det kreves politiattest for personer som har omsorg for eller oppgaver knyttet til barn. Reglene om barneomsorgsattester er utformet slik at hensyn til personvern, resosialisering og ressursbruk er ivaretatt så langt som mulig innenfor det overordnede beskyttelseshensynet.
+
+På barneomsorgsattesten skal det anmerkes om personen er siktet, tiltalt, har vedtatt forelegg eller er dømt etter de nærmere angitte straffebestemmelsene i politiregisterloven § 39 første ledd. Barneomsorgsattesten er derfor utvidet, men avgrenset. At politiattesten er utvidet, innebærer at den inneholder alle strafferettslige reaksjoner, både siktelser, tiltaler, forelegg og domfellelser. At attesten er avgrenset innebærer at ikke alle reaksjoner skal påføres, bare på de straffebestemmelsene som er listet opp i politiregisterloven § 39 første ledd. Det som skal anmerkes, er reaksjoner som anses som relevante for formålet om å beskytte barn og unge, som seksualforbrytelser, volds- og ransforbrytelser og narkotikaforbrytelser.[^429]
+
+Vilkåret for å kreve politiattest etter universitets- og høyskoleloven § 4-9 første ledd er at studenten kan komme i kontakt med «mindreårige» gjennom praksisstudier eller som del av klinisk undervisning. «Mindreårige» er barn som ikke er myndige, altså under 18 år. Kunnskapsdepartementet har lagt til grunn at i de utdanningene der en student kan komme i kontakt med utviklingshemmede eller andre sårbare grupper, kan det også være mulig for studenten å komme i kontakt med mindreårige, slik at kravet om barneomsorgsattest gjelder for disse utdanningene.[^430]
+
+#### Studier som fører frem til yrker der det kreves politiattest
+
+Dersom det for bestemte typer yrkesutøving er gitt særlige regler om politiattest, gjelder disse reglene tilsvarende for studenter som deltar i praksisstudier eller klinisk undervisning.
+
+En rekke lover inneholder krav om politiattest for bestemte typer yrkesutøving. Flere av disse lovbestemmelsene viser til politiregisterloven § 39 og reglene om barneomsorgsattest. I tillegg er det enkelte lovbestemmelser som selv lister opp hvilke straffebud som er aktuelle, og som dermed avviker fra politiregisterloven § 39.
+
+Eksempler på lovbestemmelser som viser til politiregisterloven § 39 er helsepersonelloven[^431] § 20a første ledd, opplæringsloven[^432] § 10-9 og barnehageloven[^433] § 19.
+
+Etter helsepersonelloven § 20a første ledd skal den som skal yte spesialisthelsetjenester og tannhelsetjenester til barn fremlegge politiattest som nevnt i politiregisterloven § 39. Det vil si en politiattest med merknader om seksualforbrytelser, narkotikaforbrytelser og volds- og ransforbrytelser. Etter opplæringsloven § 10-9 må den som skal ansettes fast eller midlertidig i grunnskolen eller i videregående skole, i musikk- og kulturskolen, i skolefritidsordningen eller for å gi leksehjelp, legge frem politiattest med tilsvarende innhold som er nevnt i politiregisterloven § 39 første ledd. Kravet gjelder også for personer som skal ansettes fast eller midlertidig i skolelignende aktivitetstilbud. Skolelignende aktivitetstilbud vil si aktivitetstilbud som gis i regi av skoleeieren og i tilknytning til skolen, og som har karakter av opplæring, for eksempel tilbud om sommerskole. Etter barnehageloven § 19 skal den som skal ansettes fast eller midlertidig i en barnehage, fremlegge politiattest.
+
+Et annet eksempel på en lov som viser til politiregisterloven § 39, er kirkeloven.[^434] Etter kirkeloven § 29 andre ledd kan lovbestemte organer i Den norske kirke kreve at en person skal fremlegge politiattest som nevnt i politiregisterloven § 39 første ledd, hvis vedkommende skal ansettes, utføre oppgaver eller inneha tillitsverv der vedkommende vil ha omsorg for eller oppgaver knyttet til mindreårige. Kirkelige instanser har utarbeidet retningslinjer for praktiseringen av bestemmelsen i Den norske kirke, og etter retningslinjene kreves politiattest fremlagt ved tilsetting.
+
+Eksempler på lovbestemmelser som selv lister opp hvilke straffebud som er aktuelle på politiattesten, er helsepersonelloven § 20a andre ledd og helse- og omsorgstjenesteloven § 5-4.[^435]
+
+Etter helsepersonelloven § 20a andre ledd skal også den som skal yte spesialisthelsetjenester og tannhelsetjenester til personer med utviklingshemming fremlegge politiattest. For dem kreves imidlertid bare en politiattest som viser om de er siktet, tiltalt, gitt forelegg eller dømt for seksuallovbrudd – altså ikke den samme barneomsorgsattesten som kreves av dem som skal arbeide med barn etter helsepersonelloven.
+
+Helse- og omsorgstjenesteloven § 5-4 inneholder særlige regler om politiattest for bestemte typer yrkesutøving. Alle som skal yte tjenester etter helse- og omsorgstjenesteloven, skal legge frem politiattest når de blir tilbudt en stilling eller et oppdrag. Politiattesten som kreves etter helse- og omsorgstjenesteloven, inneholder flere straffebud enn barneomsorgsattesten.
+
+Utdanninger som fører frem til yrker som er omfattet av disse lovene, slik som helse-, lærer- og teologiutdanninger, har dermed også krav om politiattest for studenter som deltar i praksisstudier eller klinisk undervisning på arbeidsplasser for slike yrker. Kravene til politiattest etter profesjonslovgivningen er delvis knyttet til profesjon og delvis til stilling. Eksempler på krav knyttet til profesjon finnes i barnehageloven, mens opplæringsloven har krav knyttet til stilling. Flere yrker er knyttet til en profesjonsutdanning, slik som sykepleieryrket, og da vil kravene om politiattest som gjelder for sykepleieryrket, gjelde for sykepleierstudenter som deltar i praksis eller klinisk undervisning. Et annet eksempel er at reglene om politiattest som gjelder for ansatte ved barnehager, gjelder tilsvarende for studentene når de gjennom undervisningen deltar i praksis i barnehager.
+
+#### Saksbehandlingen ved krav om politiattest
+
+I tillegg til det universitets- og høyskoleloven § 4-9 sier om kravene til politiattest, er flere av kravene til politiattest omtalt i kapittel 6 i forskrift om opptak til høgre utdanning[^436] (opptaksforskriften), som er gitt med hjemmel i universitets- og høyskoleloven. Bestemmelsene i opptaksforskriften går ikke lenger enn kravene til politiattest i universitets- og høyskoleloven gjør, men forskriften gir regler om saksbehandlingen ved krav om politiattest.
+
+Det følger av opptaksforskriften § 6-1 tredje ledd at den enkelte utdanningsinstitusjon selv må vurdere om den tilbyr studier der studentene enten kan komme i kontakt med mindreårige, eller vil delta i praksisstudier eller klinisk undervisning med tilsvarende krav om politiattest for bestemte typer yrkesutøving. Dersom institusjonen tilbyr slike studier, praksisstudier eller klinisk undervisning, skal den kreve at studenten legger frem politiattest.
+
+For studier hvor studentene kan komme i kontakt med mindreårige, følger det av universitets- og høyskoleloven § 4-9 første ledd og opptaksforskriften § 6-1 første ledd at det bare kan kreves politiattest når studentene «kan komme i kontakt» med mindreårige. Dette innebærer at det ikke kan stilles krav om politiattest i utdanninger hvor studenten ikke kommer i kontakt med mindreårige. Dersom denne hjemmelen skal brukes må derfor studenten kunne komme i kontakt med personer under 18 år.
+
+Det er ikke nødvendig at studentene med sikkerhet vil komme i kontakt med mindreårige for at et studium skal kreve politiattest. Det er tilstrekkelig at det er en mulighet for at de i forbindelse med praksisstudier eller klinisk undervisning kan komme i situasjoner hvor overgrep kan finne sted. Kravet om politiattest er et inngripende tiltak overfor den enkelte, og det må derfor ikke stilles krav om politiattest i situasjoner hvor dette er åpenbart unødvendig.
+
+Når en student skal delta i praksisstudier eller klinisk undervisning hvor politiattest for yrkesutøvingen gjelder, må institusjonen innhente tilsvarende politiattest som gjelder for yrket. Dersom studenten ikke kommer i kontakt med de brukergruppene som yrkeslovgivningen er ment å beskytte, vil ikke institusjonen kunne kreve politiattest.
+
+Etter reglene om politiattest for bestemte typer yrkesutøving er det også satt begrensninger for muligheten til å kreve politiattest etter hvor mye de ansatte er i kontakt med mindreårige eller den sårbare gruppen. Som eksempel kan det vises til helsepersonelloven § 20a tredje ledd, som sier at plikten til å fremlegge politiattest ikke gjelder for personell som bare sporadisk yter de aktuelle helsetjenestene og som i alminnelighet ikke vil være alene med barn eller personer med utviklingshemning. I forarbeidene til helsepersonelloven[^437] står det også at «det overordnende vurderingstema vil uansett ansettelsesforhold, være hvorvidt personellet ved utøvelsen av sitt arbeid kan komme i situasjoner med barnet eller den utviklingshemmede hvor seksuelle overgrep kan finne sted». Dette vurderingstemaet vil også være relevant for vurderingen av om det skal kreves politiattest i de enkelte studiene etter universitets- og høyskoleloven.
+
+Dersom et studium krever politiattest fra studentene, følger det av universitets- og høyskoleloven § 4-9 første ledd at politiattesten skal legges frem «ved opptak til eller underveis i studiet». Det er dermed grunnlag for å hente inn politiattest enten ved opptak til studiet eller senere når praksisstudier eller klinisk undervisning blir aktuelt.
+
+I noen studier er praksis eller klinisk undervisning ikke en obligatorisk del av utdanningsløpet. Det at det bare er en mulighet for at studentene velger praksisopplæring eller klinisk undervisning i fremtiden, vil da ikke være tilstrekkelig grunnlag for å kreve politiattest ved opptak til studiet. I slike tilfeller kan institusjonene kreve at studentene legger frem politiattest dersom de senere i utdanningsløpet bestemmer seg for å gjennomføre praksis eller klinisk undervisning der kravet om politiattest gjelder.
+
+Opptaksforskriften § 6-3 sier at tidspunktet for fremleggelse av politiattest er ved oppstart av studiet. I tillegg sier opptaksforskriften § 6-5 at en fornyet vandelskontroll kan utføres i samsvar med politiregisterloven § 43. Denne bestemmelsen gir bare hjemmel til å innhente nye eller oppdaterte opplysninger når det er sendt ut en politiattest tidligere.
+
+#### Konsekvenser ved anmerkning på politiattesten
+
+Hvilke konsekvenser en anmerkning på politiattesten kan få er ikke regulert i politiregisterloven § 39, men i spesiallovgivningen. Dette er gjort for ulike yrker, slik som i helsepersonelloven og barnehageloven. Etter barnehageloven § 19 tredje ledd er personer som er dømt for seksuelle overgrep mot mindreårige utelukket fra fast eller midlertidig ansettelse i barnehager, mens andre merknader må vurderes konkret. Helsepersonelloven § 20a regner opp bestemte typer seksuallovbrudd, og fastsetter at de som har vedtatt forelegg eller er domfelt for brudd på disse er utelukket fra å yte helse- og omsorgstjenester til barn eller personer med utviklingshemming. For studenter er det universitets- og høyskoleloven som regulerer konsekvensene av merknader på politiattesten.
+
+Det følger av universitets- og høyskoleloven § 4-9 tredje ledd at en student som har merknader på politiattesten som viser at hun eller han er «dømt eller har vedtatt forelegg» for forhold som innebærer at studenten må anses som uskikket til å delta i arbeid med pasienter, brukere, barnehagebarn, elever eller andre, «kan» utestenges fra praksisstudier eller klinisk undervisning. Dersom politiattesten viser at en student er «siktet eller tiltalt» for det aktuelle straffebudet, «kan» studenten utestenges fra praksisstudier eller klinisk undervisning «frem til rettskraftig dom foreligger eller \[…\] saken er henlagt», jf. universitets- og høyskoleloven § 4-9 fjerde ledd. Bestemmelsene innebærer at studenter som har en anmerkning på politiattesten sin, ikke automatisk blir utestengt fra praksis eller klinisk undervisning, men at det må foretas en konkret vurdering av om de skal utestenges. I tillegg innebærer universitets- og høyskoleloven § 4-9 fjerde ledd at de bare kan utestenges midlertidig, frem til det foreligger rettskraftig dom eller saken er henlagt.
+
+Det er institusjonens klagenemnd som skal vurdere konsekvensene av merknader på politiattester, jf. opptaksforskriften § 6-8 fjerde ledd. Vurderingen er skjønnsmessig. Nemnda skal med bakgrunn i forholdene ved den kliniske undervisningen eller praksisdelen av studiet ved den aktuelle utdanningen, og opplysningene om forholdene som ligger til grunn for politiattesten, vurdere om hensynet til pasienter, brukere, barnehagebarn, elever eller andre medfører at studenten skal utestenges fra klinisk undervisning eller praksisstudium, jf. opptaksforskriften § 6-8 femte ledd. Nemda skal også ta hensyn til om studenten har fått forelegg eller er siktet, tiltalt eller dømt.
+
+Hvilke straffebud studenten har merknader om på politiattesten er særlig relevant for om studenten skal utestenges. Merknader om seksuallovbrudd, narkotikalovbrudd eller voldskriminalitet vil ofte bli tillagt vekt, mens det ved enkelte andre lovbrudd ofte skal mer til for at studenten skal bli utestengt. I tillegg er det relevant når lovbruddet har funnet sted, og om det dreier seg om flere lovbrudd over en lengre periode. Dreier det seg om forhold som har funnet sted for kort tid siden, taler det for utestenging. Klagenemda må vurdere om det er nødvendig å utestenge studenten for å kunne ivareta sikkerheten til de sårbare gruppene. Hensynet til beskyttelse av mindreårige og sårbare grupper skal tillegges avgjørende vekt for utfallet av saken. Videre er det relevant om merknadene ville ført til utelukkelse etter den relevante lovgivningen for det aktuelle yrket siden det er visse forskjeller knyttet til hvilke lovbrudd som fører til utelukkelse og hvem lovbruddet eventuelt er begått overfor.
+
+Felles klagenemnd er klageinstans for vedtak i nemnda, jf. opptaksforskriften § 6-8 syvende ledd.
+
+Hovedkonsekvensen for en student som blir utestengt fra praksis eller klinisk undervisning, er at studenten ikke vil få vitnemål om fullført grad eller utdanning, jf. opptaksforskriften § 6-7.
+
+Studentens rett til å få utgifter til advokatbistand dekket av institusjonen er omtalt i kapittel 24.
+
+### Skikkethet
+
+Det følger av universitets- og høyskoleloven § 4-10 første ledd at institusjonen i bestemte utdanninger skal vurdere om den enkelte student er skikket for yrket vedkommende utdanner seg til. Kongen fastsetter hvilke utdanninger som skal være omfattet av en slik skikkethetsvurdering. Skikkethetsforskriften[^438] er gitt med hjemmel i universitets- og høyskoleloven § 4-10. Skikkethetsforskriften § 1 lister opp hvilke utdanninger det skal foretas en skikkethetsvurdering i. Listen er uttømmende og består av 27 utdanninger – i hovedsak pedagogiske utdanninger og helse- og sosialutdanninger.
+
+Formålet med vurderingen er å avdekke om studenten har de nødvendige forutsetningene for å utøve yrket, jf. skikkethetsforskriften § 2.
+
+#### Bakgrunnen for bestemmelsen om skikkethetsvurdering
+
+Bestemmelsen om skikkethet kom inn i lærerutdanningsloven fra 1973.[^439] Bakgrunnen var at det ble opplevd som problematisk at det ikke fantes regler om autorisasjon for læreryrket. Uskikkede personer ville dermed først kunne bli fjernet fra yrket hvis det oppsto problemer etter at de var ansatt, ved hjelp av de alminnelige arbeidsrettslige reglene om disiplinærreaksjoner, oppsigelse eller avskjed. Veien frem til utelukkelse fra yrket kunne være lang og usikker og lite betryggende for elever eller andre som måtte komme i kontakt med de uskikkede personene.
+
+Spørsmålet om det skulle være regler om skikkethetsvurdering også ved andre studietilbud enn lærerutdanningen, var omdiskutert. Andre aktuelle profesjoner, som helsefag og advokatvirksomhet, hadde tilsynsordninger som var i stand til å luke ut uegnede yrkesutøvere enten ved å nekte eller ved å trekke tilbake autorisasjon, og behovet var derfor mindre her.
+
+I 2002 ble ordlyden i universitetsloven fra 1995[^440] § 42b endret fra «utdanning som er nevnt i § 54b» (førskolelærerutdanning, allmennlærerutdanning, faglærerutdanning, yrkesfaglærerutdanning og praktisk-pedagogisk utdanning) til «de utdanninger som Kongen bestemmer».[^441]
+
+#### Om skikkethetsvurderingen
+
+Skikkethetsvurderingen skal ifølge skikkethetsforskriften § 2 andre ledd foregå gjennom hele studiet, og «inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket». Kriteriet for manglende skikkethet er at studenten «utgjør en mulig fare for liv, fysisk og psykisk helse, rettigheter og sikkerhet til de pasienter, brukere, barnehagebarn, elever, eller andre studenten vil komme i kontakt med under praksisstudiene eller under fremtidig yrkesutøvelse \[…\]».
+
+Nærmere kriterier for skikkethetsvurderingen innenfor de ulike utdanningene er angitt i §§ 3, 4 og 5 i skikkethetsforskriften. Kriteriene i §§ 3, 4 og 5 omfatter blant annet at studenten viser:
+
+- manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt,
+
+- manglende vilje eller evne til å samarbeide og til å etablere tillitsforhold,
+
+- truende eller krenkende adferd,
+
+- for liten grad av selvinnsikt.
+
+Minst ett av kriteriene må være oppfylt for at en student skal kunne vurderes som uskikket for yrket.[^442] Det viktigste hensynet bak en skikkethetsvurdering er å sikre at pasienter, klienter, brukere, barnehagebarn, elever og andre blir tatt hånd om av en skikket person.
+
+Sak om særskilt skikkethetsvurdering skal reises hvis det er «begrunnet tvil om en student er skikket», jf. skikkethetsforskriften § 2 tredje ledd. En skikkethetsvurdering skal foretas av alle studentene, mens den særskilte skikkethetshetsvurderingen bare foretas av studenter som institusjonen er i tvil om er skikket. Den særskilte skikkethetsvurderingen fører til at det opprettes en sak som skal gjennomføres i en fastsatt prosess som er beskrevet i skikkethetsforskriften §§ 9 til 12. Saken starter med en tvilsmelding, som blir behandlet av institusjonsansvarlig. Deretter går saken eventuelt til behandling i skikkethetsnemnda og til slutt eventuelt til behandling i styret eller ved institusjonens klagenemnd.
+
+Utdanningsinstitusjonene har et selvstendig ansvar for å foreta skikkethetsvurderinger. Dette gjelder også på områder hvor det finnes adekvate systemer for autorisasjon og løpende kontroll med yrkes- og profesjonsutøving, slik som i helsesektoren.
+
+Skikkethetsvurderingen skal foretas uavhengig av eksamensresultater og praksisevaluering, og kommer i tillegg til disse vurderingene. Forholdene som vurderes knytter seg normalt til studiesituasjonen, både teori- og praksisundervisningen. Forhold eller hendelser som ligger utenfor studiesituasjonen, for eksempel hendelser i studentens fritid, kan tillegges vekt hvis de har, eller må antas å kunne ha, innvirkning på hvordan studenten vil utføre oppgavene i yrket.
+
+Muligheten til å vurdere en student som uskikket etter en særskilt skikkethetsvurdering benyttes som hovedregel bare når andre formelle og uformelle virkemidler underveis i studiet som skal sikre at bare studenter som oppfyller kravene, får vitnemål, ikke har avhjulpet situasjonen. I de fleste tilfeller vil det vise seg under praksisstudiene om en student ikke er skikket for det aktuelle yrket, og da vil ikke studenten få godkjent praksisperioden. En student kan likevel bli vurdert som uskikket for yrket selv om vedkommende har bestått praksisstudiene. Ved bestått praksis vil normalt ikke forhold som bare knytter seg til selve praksisperioden, kunne føre til at studenten blir vurdert som uskikket. Forhold som knytter seg til praksisperioden, kan imidlertid bli tillagt vekt i en helhetsvurdering av studentens skikkethet, jf. skikkethetsforskriften § 2 andre ledd.
+
+Andre momenter som kan vektlegges i skikkethetsvurderingen, er hvor langt studenten har kommet i studiet, og om læring og utvikling i det videre studiet kan tenkes å gjøre studenten skikket for det aktuelle yrket. Tidlig i studieløpet kan studenten være mindre moden og reflektert og det vil også være tid til at studenten kan justere adferden sin. Senere i studieløpet forventes det mer av studentene, og terskelen for å slå fast at studenten ikke er skikket, vil kunne være lavere.
+
+Når institusjonen skal vurdere en students skikkethet, vil den kunne legge vekt på om studenten har vært bortvist etter § 4-8, men en slik bortvisning behøver ikke i seg selv å være tilstrekkelig til at studenten vurderes som uskikket.
+
+Det følger av universitets- og høyskoleloven § 4-10 andre ledd at når utdanningsinstitusjonen utsteder vitnemål for fullført utdanning, har den også vurdert studenten som skikket for yrket. En student som ikke er skikket har krav på å få utstedt en karakterutskrift, jf. universitets- og høyskoleloven § 3-11 andre ledd, for de emnene han eller hun har bestått. Dette gjelder også der studenten har gjennomført hele studieløpet. Slik karakterutskrift vil gi studenten mulighet til å få utdanningen godskrevet ved andre institusjoner, jf. universitets- og høyskoleloven § 3-5.[^443]
+
+#### Saksgang og vedtak om uskikkethet og utestenging
+
+Hvis noen er i tvil om en student er skikket, skal de melde dette skriftlig til institusjonsansvarlig, jf. skikkethetsforskriften § 9. Det er ingen begrensninger når det gjelder hvem som kan levere tvilsmeldinger; alle som er i kontakt med studenten, kan levere en tvilsmelding. Institusjonsansvarlig skal ikke behandle innleverte tvilsmeldinger som er åpenbart ugrunnet. Den som leverer en tvilsmelding, regnes ikke som part i saken, jf. skikkethetsforskriften § 9.
+
+Tvilsmeldinger kan leveres anonymt. En anonym tvilsmelding kan enten være levert av en anonym innsender, eller så er ikke vedkommende anonym, men ønsker ikke å bli identifisert overfor den meldingen gjelder.
+
+Studenten som tvilsmeldingen gjelder, har rett til å gjøre seg kjent med sakens dokumenter, jf. forvaltningsloven § 18.[^444] Dette innebærer at studenten i utgangspunktet har rett til å få vite hvem som har levert tvilsmeldingen, selv om den som har gjort det ikke ønsker å bli identifisert overfor den tvilsmeldingen gjelder. Melderen kan bare anonymiseres dersom det foreligger særlige grunner som taler for anonymisering, jf. forvaltningsloven § 19 andre ledd bokstav b. Når institusjonen vurderer om anonymisering av melderen skal tillates skal det legges vekt på om det er av vesentlig betydning for studenten det er varslet om at vedkommende får vite identiteten til melderen. Dette kan være nødvendig for at studenten skal kunne ivareta egne interesser i saken, for eksempel der melderen utelukkende er ute etter å gjøre skade for den han eller hun melder om. I tillegg kan det i vurderingen legges vekt på hvilke konsekvenser det kan ha for den som har levert tvilsmeldingen om hennes eller hans identitet blir kjent. Det kan for eksempel være fare for gjengjeldelse.[^445]
+
+Institusjonsansvarlig for skikkethetsvurderinger utreder saken og har ansvar for at det eventuelt blir utarbeidet et utvidet veiledningsopplegg for studenten. Hovedregelen er at studenten skal få tilbud om utvidet oppfølging og veiledning, jf. skikkethetsforskriften § 10. Det er bare i saker hvor det er åpenbart at utvidet oppfølging ikke er egnet til å gjøre studenten skikket at dette kan unnlates. Hvis institusjonsansvarlig mener at utvidet veiledning ikke er egnet til å hjelpe studenten, eller hvis utvidet veiledning er gitt uten at det har medført den nødvendige endringen og utviklingen hos studenten, går saken til behandling i skikkethetsnemnda.
+
+Styret ved institusjonen skal selv oppnevne en skikkethetsnemnd, jf. skikkethetsforskriften § 7. Det følger av universitets- og høyskoleloven § 4-10 tredje ledd at skikkethetsnemnda innstiller til styret selv eller til institusjonens klagenemnd, som på bakgrunn av innstillingen kan fatte vedtak om at en student ikke er skikket for yrket, og eventuelt vedtak om å utestenge studenten som følge av dette. Felles klagenemnd er klageinstans for vedtak om skikkethet som styret eller institusjonens klagenemnd har fattet.
+
+Hvis en student blir vurdert som uskikket for yrket, blir vedkommende vanligvis også utestengt fra studiet. Forholdene kan unntaksvis være slik at utestenging vil representere et uforholdsmessig inngrep i studiesituasjonen. I tråd med bestemmelsene i universitets- og høyskoleloven §§ 4-8 og 4-9 om bortvisning og utestenging er § 4-10 tredje ledd derfor formulert slik at studenten «kan» utestenges dersom vedkommende er uskikket for yrket. Institusjonen har adgang til å la studenten fullføre studiet, for eksempel der dette er forsvarlig og meningsfylt, typisk fordi utdanningen kan brukes i andre funksjoner enn det aktuelle yrket.
+
+Vedtak om skikkethet og utestenging skal registreres i RUST (Register for utestengte studenter), jf. universitets og høyskoleloven § 4-12 andre ledd. Formålet med RUST er å hindre at en kandidat eller søker som har mistet rettigheter som følge av vedtak om for eksempel utestenging, får slike rettigheter ved en annen institusjon, jf. RUST-forskriften[^446] § 2.
+
+Hvis institusjonen ikke fatter vedtak om utestenging, har studenten mulighet til å søke opptak på nytt ved en annen institusjon. Dette gjelder også dersom skikkethetssaken ikke blir avsluttet fordi studenten for eksempel blir veiledet ut av studiet. Studenten har da anledning til å starte opp på samme studium ved en annen institusjon. Andre institusjoner vil bare ha informasjon om den tidligere saken hvis det er fattet vedtak som er registrert i RUST. Tas studenten opp på nytt, vil det kunne bli gjort en ny særskilt skikkethetsvurdering av ham eller henne.
+
+Skikkethetsforskriften § 12 gir nærmere regler om utestengingsvedtak når en student er funnet uskikket. Det skal fattes særskilt vedtak om utestenging, og studenten kan utestenges fra utdanningen i inntil fem år. Den maksimal lengden på utestengingsperioden i skikkethetssaker ble endret fra tre til fem år i 2016. Høringsnotatet om endringen presiserte at studenten ikke skal utestenges i en lengre periode enn det som er nødvendig ut fra årsaken til at han eller hun er vurdert som uskikket. Utestenging i mer enn tre år skal være forbeholdt de særlig graverende tilfellene.[^447]
+
+Dersom studenten utestenges i mindre enn fem år, kan institusjonen fatte vedtak med vilkår som må være oppfylt for at studenten skal kunne gjenoppta utdanningen, jf. skikkethetsforskriften § 12 andre ledd. Slike vilkår kan for eksempel bestå i at studenten gjennomgår behandling.
+
+Formålet med å utestenge en student er å beskytte sårbare grupper fra å bli utsatt for en person som ikke er skikket for yrket. I tillegg forhindres personen i å fullføre studiet for så å kunne utøve yrket.
+
+Det er styret eller institusjonens klagenemnd som treffer vedtak om uskikkethet og utestenging, og vedtakene krever minst to tredjedels flertall, jf. universitets- og høyskoleloven § 4-10 fjerde ledd. I vedtak om utestenging må institusjonen opplyse om at studenten ikke kan søke eller ta imot plass ved tilsvarende utdanninger i utestengingsperioden. I tillegg må det presiseres hvilken utdanning det gjelder. Med tilsvarende utdanninger menes den aktuelle utdanningen, også når den blir tilbudt under et annet navn.
+
+Studentens rett til å få utgifter til advokatbistand dekket av institusjonen er omtalt i kapittel 24.
+
+#### Søknad om gjenopptak av utdanning
+
+En student som ønsker å gjenoppta utdanningen etter en utestengingsperiode, må søke om opptak. Studenten har de samme rettighetene og pliktene som andre studenter, og har følgelig krav på å få godskrevet tidligere avlagte eksamener etter reglene i universitets- og høyskoleloven § 3-5. Dette er tilfellet hvis studenten velger å søke opptak ved en annen utdanningsinstitusjon enn den vedkommende ble utestengt fra. Hvis studenten har søkt opptak ved samme institusjon som vedkommende ble utestengt fra, følger det av utdanningsinstitusjonens egne forskrifter hvordan slik godskriving av tidligere bestått utdanning skal innpasses i en ny grad. Hvis det igjen oppstår tvil om studentens skikkethet, skal det foretas en ny særskilt skikkethetsvurdering, uavhengig av den tidligere skikkethetsvurderingen.
+
+## Utvalgets vurderinger
+
+### Politiattest
+
+#### Nasjonal nemnd for politiattestsaker?
+
+Tidligere var det oppnevnt en nasjonal nemnd for politiattestsaker som avgjorde om studenter med merknader på politiattesten skulle utestenges fra praksisstudier eller klinisk undervisning, jf. den tidligere bestemmelsen i universitets- og høyskoleloven § 4-9 femte ledd. Politiattestnemnda behandlet disse sakene som førsteinstans, og felles klagenemnd var klageinstans. Institusjonens klagenemnd, eller styret selv, ga bare en uttalelse i saken som dannet grunnlag for politiattestnemndas avgjørelse.
+
+Fra 1. januar 2015 ble reglene endret slik at førsteinstansbehandlingen av disse sakene ble lagt til institusjonens klagenemnd, jf. universitets- og høyskoleloven § 5-1. Bakgrunnen for endringen var et ønske om å gjøre behandlingen av politiattester med merknader enklere og raskere.[^448] Endringen har medført at utdanningsinstitusjonene i større grad enn tidligere tilfredsstiller kravet om effektiv saksbehandling, og gir studenten en rask avklaring av om vedkommende kan fortsette på utdanningen. En raskere saksgang ivaretar på en bedre måte enn tidligere hensynet til pasienter, klienter og andre som skal beskyttes mot studenter som ikke bør delta i praksisopplæring eller klinisk undervisning, selv om det er en fare for regionale forskjeller.
+
+Utvalget anser at dagens ordning fungerer godt, og at det ikke er behov for å gå tilbake til en egen nemnd for politiattestsaker.
+
+#### Mindreårige
+
+Utvalget oppfatter at det kan ha oppstått usikkerhet rundt gjeldende rett og forståelsen av «mindreårige», og tror noen av uklarhetene kan stamme fra Rundskriv F-03-18. Utvalget har derfor vurdert om det er behov for tydeliggjøring eller endringer i universitets- og høyskoleloven § 4-9. Det følger av Rundskriv F-03-18 at «\[d\]epartementet legg til grunn at det i dei utdanningane der ein student kan komme i kontakt med utviklingshemma eller andre sårbare grupper, \[sic\] kan det òg kan vere mogleg for studenten å komme i kontakt med mindreårige, slik at utdanninga er omfatta av kravet om barneomsorgsattest».[^449] En forståelse av denne uttalelsen kan være at i utdanninger der en student kan komme i kontakt med utviklingshemmede eller andre sårbare grupper, vil være omfattet av «mindreårige» fordi studenten også kan komme i kontakt med mindreårige. Utvalget mener at denne betydningen er en unødvendig presisering fordi dette allerede vil falle inn under ordlyden «mindreårige».
+
+Dersom bestemmelsen skal tolkes utvidende ved at «mindreårige» skal inkludere personer med utviklingshemning og andre sårbare grupper, fører dette til et strengere krav til å innhente politiattest for studenter enn det som følger av profesjonslovgivningen. Som eksempel kan det nevnes at etter helsepersonelloven § 20a skal de som yter tjenester til barn, fremlegge politiattest med merknader om seksualforbrytelser, volds- og ransforbrytelser og narkotikaforbrytelser, mens de som skal yte tjenester til personer med utviklingshemning bare skal legge frem politiattest med merknader om seksuallovbrudd. Dersom universitets- og høyskoleloven § 4-9 første ledd også skal gjelde for utdanninger hvor studentene kan komme i kontakt med personer med utviklingshemning, så skal institusjonene innhente politiattest med de samme anmerkningene som på barneomsorgsattesten, altså en mer omfattende politiattest enn etter profesjonslovgivningen. Utvalget anser at sårbare grupper allerede er dekket av dagens universitets- og høyskolelov § 4-9 andre ledd. Barn vil alltid være dekket av kravet om politiattest i § 4-9 første ledd, mens andre sårbare grupper som gir grunnlag for å innhente politiattest, vil være dekket av § 4-9 andre ledd.
+
+Utvalget anser ikke at det er gode grunner for å stille et strengere krav til politiattest for studenter enn for profesjonsutøvere ettersom et av formålene med politiregisterloven § 39 og det samlede regelverket om politiattest er å skape et ensartet system for politiattester. Utvalget anser derfor at «mindreårige» i universitets- og høyskoleloven § 4-9 første ledd skal tolkes som personer under 18 år.
+
+Utvalget foreslår imidlertid å slå sammen første og andre ledd i dagens universitets- og høyskolelov § 4-9. Hjemmelen for å innhente politiattest ligger i dag i både første og andre ledd. Dersom de blir slått sammen, antar utvalget at det vil komme tydeligere frem at det er to ulike grunnlag for å innhente politiattest. Det er ikke bare i situasjoner hvor en student kan komme i kontakt med mindreårige at det er anledning til å innhente politiattest. Det kan også gjøres når studenten kan komme i kontakt med sårbare grupper som er beskyttet gjennom profesjonslovgivningen.
+
+#### Bestemmelser fra profesjonslovgivningen
+
+Felles klagenemnd har anmodet utvalget om å gå nærmere gjennom hvilke bestemmelser i spesiallovgivningen som skal falle inn under universitets- og høyskoleloven § 4-9, slik at de anmerkningene som fremkommer på politiattesten i henhold til universitets- og høyskoleloven, oppfyller det grunnleggende formålet om at mindreårige skal ivaretas av skikkede personer. Bakgrunnen for anmodningen er en sak som felles klagenemnd har behandlet. Saken dreide seg om en sykepleierstudent som ble utestengt fra praksisopplæring fordi vedkommende hadde en anmerkning om underslag på politiattesten.[^450] Underslag ligger ikke i kjernen av hva som er formålet med barneomsorgsattesten.
+
+Etter universitets- og høyskoleloven § 4-9 er det to hjemmelsgrunnlag for å innhente politiattest, enten at studentene kommer i kontakt med mindreårige eller at politiattest er et krav for å kunne utøve yrket. Formålet med politiregisterloven § 39 og det samlede regelverket om politiattest er å ha et ensartet system for politiattester.[^451] For å realisere målet om et ensartet system er det viktig at kravet til politiattest for studenter ikke er strengere enn det som følger av profesjonslovgivningen.[^452] I tillegg er det hensiktsmessig å ikke utdanne personer som mest sannsynlig ikke vil kunne utøve yrket når de er ferdig utdannet.
+
+Helse- og omsorgstjenesteloven gir særlige regler om politiattest for bestemte typer yrkesutøving. Flere av helse- og sosialutdanningene, blant annet sykepleierutdanningen, fører til yrker som faller inn under helse- og omsorgstjenesteloven, slik at kravet om politiattest gjelder tilsvarende for disse utdanningene. For yrkesutøverne som faller under denne lovgivningen kan det kreves fremlagt politiattester som enten viser til flere eller færre straffebestemmelser enn de som er listet opp i politiregisterloven § 39, dersom det foreligger særlige grunner for det, jf. politiregisterloven § 39 andre ledd. I yrker regulert av helse- og omsorgstjenesteloven foreligger det særlige grunner for å innhente politiattest med flere straffebestemmelser, inkludert straffebestemmelser om underslag, for å verne de sårbare gruppene som loven skal beskytte. Disse særlige grunnene vil også være relevante for utdanninger som fører til yrker som faller inn under helse- og omsorgstjenesteloven, og for studenter som skal delta i praksis eller klinisk undervisning på arbeidsplasser som faller inn under helse- og omsorgstjenesteloven. Det er relevant for vurderingen av politiattesten ved utdanningsinstitusjonene hvorvidt en student potensielt ikke kan arbeide innenfor et yrke fordi studenten har anmerkninger på politiattesten, som for eksempel ved anmerkninger om underslag. I tillegg vil formålet om å verne sårbare grupper ikke være oppfylt dersom politiattesten som kreves av studentene, omfatter færre straffebestemmelser enn politiattesten som kreves av yrkesutøverne.
+
+Dersom en politiattest har merknader om underslag, fører det derimot ikke automatisk til at studenten skal utestenges, ettersom det alltid skal foretas en konkret vurdering av straffebudet og forholdene i den aktuelle utdanningen. Hva slags straffebud det gjelder, og hvorvidt hendelsene har skjedd for kort eller lang tid siden, er særlig relevante momenter i vurderingen av om studenten skal utestenges. Utvalget mener det er fare for at institusjonene vil miste verdifull informasjon dersom hjemmelen i universitets- og høyskoleloven § 4-9 endres slik at politiattesten ikke kan inneholde informasjon om like mange straffebestemmelser som i dag. Dersom en anmerkning om en straffebestemmelse på politiattesten ikke innebærer at studenten er uskikket til å delta i arbeidet, eller at utestenging er nødvendig av hensyn til sikkerheten eller behandlingsmiljøet til brukergruppen, skal ikke studenten utestenges.
+
+Utvalget anser derfor at det ikke er behov for å avgrense hvilke bestemmelser i spesiallovgivningen som skal være omfattet av universitets- og høyskoleloven § 4-9. Utvalget vil likevel understreke at institusjonene møter noen utfordringer når de skal vurdere kravet om politiattest og om studenter skal utestenges. Noen utdanninger fører typisk direkte til enkelte yrker, særlig profesjonsutdanningene, slik som sykepleier- og barnehagelærerutdanningen, selv om disse også kan gå inn i stillinger uten direkte kontakt med barn eller pasienter. Andre utdanninger kan derimot føre til mange forskjellige yrker. Da kan det være vanskelig å vite om merknader på politiattesten vil være relevant for yrket personen velger. I tillegg varierer kravene alt etter hvilken stilling studenten skal ut i senere. Enkelte straffebud vil tilnærmet alltid føre til utestenging, slik som seksuallovbrudd, mens andre straffebud først er relevante hvis studentene skal ha nærmere bestemte stillinger, typisk innenfor kommunal helse- og omsorgstjeneste. Dette gjør det krevende for institusjonene å vurdere om studenter skal utestenges eller ikke, fordi utdanningen kan brukes til ulike yrkesvalg med forskjellige krav til politiattest.
+
+#### Når kan politiattesten innhentes?
+
+Det følger av universitets- og høyskoleloven § 4-9 første ledd at institusjonen kan kreve at en søker eller en student fremlegger politiattest «ved opptak eller underveis i studiet.» Etter bestemmelsen kan politiattesten fremlegges enten ved opptaket til studiet eller underveis i studiet. Etter opptaksforskriften § 6-3 er hovedregelen er at politiattesten blir krevd fremlagt ved opptaket. I tillegg kan institusjonen kreve fornyet vandelskontroll.
+
+Praksisstudier og klinisk undervisning skal ofte gjennomføres et stykke ut i studiet. Ved opptaket vil det derfor ofte ikke være riktig å ta endelig stilling til spørsmålet om en student skal utestenges som følge av anmerkninger på politiattesten.
+
+Vurderingen av om en student skal utestenges, skal være konkret og gjøres der og da. Den bør derfor ikke gjøres før studenten er kommet til det stadiet i studiet der utestenging er aktuelt. Studenten må få mulighet til å vise at han eller hun har utviklet seg og kommet over problemene sine på en slik måte at det ikke lenger er nødvendig å utestenge vedkommende.
+
+Hvis politiattest kreves ved opptaket til studiet, kan det føre til en oppfatning av at avgjørelsen om utestenging skal tas allerede da. Utvalget mener det kan være en fordel å kreve politiattest allerede ved opptaket fordi informasjonen om anmerkninger på politiattesten da vil komme frem på et tidlig stadium. I noen tilfeller vil anmerkningene være av en slik karakter at det allerede på det tidspunktet vil være klart at studenten vil bli utestengt fra praksis og klinisk undervisning. I tillegg vil institusjonen kunne gjøre studenten oppmerksom på forholdene, og informere om at det er en mulighet for at studenten vil bli utestengt på et senere tidspunkt. Da kan studenten selv vurdere om han eller hun ønsker å fortsette på studiet likevel. Utvalget anser at det er problematisk dersom institusjonen gir en student en tilbakemelding i forbindelse med opptaket om hvor sannsynlig det er at vedkommende blir utestengt på et senere tidspunkt, dersom denne tilbakemeldingen har karakter av å være en foregrepet saksbehandling. Et alternativ er å informere studentene ved opptak at politiattest kan kreves senere, men utvalgets oppfatning er at hensynet bak kravet om politiattest ivaretas bedre ved å kreve fremlagt politiattest alt ved opptak.
+
+Utvalget vil likevel understreke at det ikke er tilstrekkelig om institusjonene nøyer seg med en politiattest ved opptaket i de tilfeller hvor praksisstudier og klinisk undervisning kommer et stykke ut i studiet. Politiattesten bør være mest mulig oppdatert. Det er uheldig dersom institusjonen ender med å måtte bygge på dokumentasjon som er flere år gammel fordi institusjonen bare har innhentet attest ved opptaket. I slike tilfeller må institusjonen kreve to attester, én ved opptaket og én ved oppstarten av praksisstudier eller klinisk undervisning.
+
+Slik lovteksten er formulert i dag, sier den at institusjonene bare har anledning til å innhente politiattest enten ved opptaket til eller underveis i studiet. Samtidig sier opptaksforskriften at politiattesten skal innhentes ved opptak, men at det kan innhentes en fornyet vandelsattest. Utvalget mener at lovteksten ikke samsvarer med reglene i forskriften, som best ivaretar forvaltningens plikt til forsvarlig saksbehandling. Utvalget foreslår derfor å endre ordlyden i dagens universitets- og høyskolelov § 4-9 første ledd til «ved opptak til og underveis i studiet.»
+
+#### Utestengning eller utelukkelse
+
+Ordlyden i dagens universitets- og høyskolelov § 4-9 sier at studenten kan «utestenges» fra praksisstudier eller klinisk undervisning. Utestenging blir ellers i loven praktisert som full utestengelse fra hele studiet, og ikke bare deler av det. Utvalget foreslår derfor å bruke ordet «utelukke» istedenfor ordet «utestenge» i bestemmelsen for å vise at denne formen skiller seg fra de andre ved at studenten bare utelukkes fra deler av studiet.
+
+Universitets- og høyskoleloven § 4-9 fjerde ledd kan bare anvendes frem til det foreligger en rettskraftig dom eller saken er henlagt. Utvalget foreslår derfor også å presisere i den nye bestemmelsen at utelukkelse etter dette leddet er midlertidig.
+
+### Skikkethet
+
+#### Lovstruktur
+
+Det står i dag i § 4-10 første ledd at «Kongen kan fastsette at i enkelte utdanninger skal institusjonen vurdere om den enkelte student er skikket for yrket.» Hvilke utdanninger dette gjelder er regulert i skikkethetsforskriften. I tillegg har dagens § 4-10 siste ledd også en forskriftshjemmel. Tidligere var det en egen forskrift om hvilke utdanninger skikkethetsvurderingen skulle gjelder for, men denne er i dag opphevet,[^453] og listen over utdanningene er tatt inn i skikkethetsforskriften § 1. Utvalget vurderer at det ikke lenger er behov for en egen bestemmelse i universitets- og høyskoleloven om at Kongen kan bestemme hvilke utdanninger som er omfattet av skikkethetsvurderingen. Utvalget foreslår derfor å endre ordlyden i dagens § 4-10 første ledd til «departementet gir forskrift om hvilke utdanninger som er omfattet av skikkethetsvurderingen og om saksbehandlingen i skikkethetssaker.» På bakgrunn av forslaget kan siste ledd oppheves, da denne bestemmelsen flyttes til første leddet.
+
+Utvalget foreslår videre å flytte bestemmelsen i skikkethetsforskriften § 2 inn i universitets- og høyskolelovens bestemmelse om skikkethet (dagens § 4-10). Skikkethetsforskriften § 2 beskriver hva en skikkethetsvurdering går ut på, og utvalget foreslår å flytte bestemmelsen for at den skal være lettere tilgjengelig, og for å forenkle regelverket. Vi foreslår også å endre ordlyden i bestemmelsen til følgende: «En student som oppfyller minst ett av kriteriene i forskrift 30. juni 2006 nr. 859 om skikkethetsvurdering i høyere utdanning § x på en måte som utgjør en mulig fare for liv, fysisk eller psykisk helse, rettigheter eller sikkerhet til de pasienter, brukere, barnehagebarn, elever, eller andre studenten vil komme i kontakt med under praksisstudiene eller under fremtidig yrkesutøvelse, er ikke skikket for yrket.» Bakgrunnen for dette forslaget er at slik dagens § 2 og §§ 3 til 5 i skikkethetsforskriften er utformet, utgjør alle bestemmelsene alene selvstendige vilkår for at en student er uskikket. Ordlyden i §§ 3 til 5 tilsier at dersom et av vurderingskriteriene i bestemmelsene er oppfylt, er studenten uskikket, men det overordnede vilkåret fremkommer av § 2 i forskriften. Disse vurderingene burde ikke gjøres separat, men under ett. Etter utvalgets vurdering er ordlyden i § 2 grunnvilkåret for hva som må være oppfylt for at en student er uskikket, mens §§ 3 til 5 inneholder kriterier hvorav minst ett må være oppfylt på en måte som tilfredsstiller kravet i § 2.
+
+Videre mener utvalget at det er en svakhet ved dagens § 4-10 at den bare fastslår at en student som er funnet uskikket «kan» utestenges, uten å gi noen materielle kriterier for når en slik utestenging kan eller bør vedtas i tillegg til vedtak om uskikkethet. Utvalget foreslår derfor å ta inn i bestemmelsen hvor lenge studenten kan utestenges, og dermed flytte dette fra dagens § 12 i skikkethetsforskriften og inn i loven. I tillegg foreslår utvalget å legge til i bestemmelsen at studenten ikke skal utestenges i en lengre periode enn det som er nødvendig ut fra årsaken til at studenten er vurdert som uskikket.
+
+For å gjøre bestemmelsen mer forståelig foreslår utvalget å endre ordlyden i nytt tredje ledd fra «skal det foretas en særskilt skikkethetsvurdering» til «skal institusjonen åpne sak om skikkethetsvurdering». «Særskilt skikkethetsvurdering» er i dag verken forklart i loven eller i skikkethetsforskriften. Utvalgets oppfatning er at begrepet ikke gir veiledning. Hele ordlyden i tredje ledd blir da slik: «Hvis det er begrunnet tvil om en student er skikket, skal institusjonen åpne sak om skikkethetsvurdering.» Studentene har anledning til å finne ut hvordan saksgangen foregår, ved å gå til skikkethetsforskriften. Utvalget ønsker å påpeke at det er en ulempe å måtte bruke både lov og forskrift her. På den annen side vil loven bli uforholdsmessig lang og tung dersom alt skal inn i den.
+
+Utvalgets oppfatning er at slik bestemmelsen er formulert i dag, er det vanskelig å få tak på hva den går ut på, og hvordan prosessene i skikkethetssakene foregår. Utvalget foreslår derfor å endre på den indre rekkefølgen i bestemmelsen. Utvalget foreslår også å presisere i bestemmelsen at institusjonene skal gjøre en løpende skikkethetsvurdering «av alle studenter som er omfattet av kravet om skikkethetsvurdering», gjennom hele studiet. Begrunnelsen for presiseringen er å klargjøre i loven at denne vurderingen ikke skal gjøres av alle studenter, bare dem som kravet om skikkethetsvurdering gjelder for. I tillegg foreslås det at reglene om vedtaksmyndighet og klageinstans, og reglene om rett til dekning av advokatutgifter, flyttes til egne bestemmelser. En nærmere redegjørelse for disse bestemmelsene og de foreslåtte endringene finnes i punkt 22.4.4. og 24.3.
+
+Utvalget foreslår også at en student som utestenges, i tillegg kan fratas retten til å gå opp til eksamen ved tilsvarende studier. Begrunnelsen for dette er omtalt i punkt 22.4.5.
+
+#### Etter- og videreutdanning
+
+Hvilke utdanninger kravet om skikkethetsvurdering gjelder for er regulert i skikkethetsforskriften § 1. Listen over utdanninger er uttømmende. I forarbeidene til den tidligere universitets- og høyskoleloven fra 1995 var det presisert at det ikke skulle foretas en skikkethetsvurdering i etter- og videreutdanning fordi skikkethetsvurderingen var knyttet til konkrete lærerutdanninger.[^454] I ettertid har likevel enkelte etter- og videreutdanninger blitt tatt inn i skikkethetsforskriften, slik som jordmor. Skikkethetsvurdering skal ikke gjennomføres i andre etter- og videreutdanninger enn de som er opplistet i forskriften, selv om de er knyttet til utdanningene på listen.
+
+For lærerutdanningene er kravet etter skikkethetsforskriften § 1 at en skikkethetsvurdering skal gjøres i «pedagogiske utdanninger som tilfredsstiller kravene til å bli tilsatt i undervisningsstilling i grunn- eller videregående skole, jf. kapittel 14 i forskrift til opplæringslova».[^455] For de andre utdanningene er kravet om skikkethetsvurdering knyttet til konkrete utdanninger, slik som «sykepleier». Om en skikkethetsvurdering skal gjøres i etter- og videreutdanninger for lærere i grunnskole og videregående skole vil derfor bero på om slik utdanning tilfredsstiller kravene til ansettelse i undervisningsstilling etter forskrift til opplæringsloven. På bakgrunn av dette har det oppstått ulik praksis blant institusjonene i lærerutdanningene med hensyn til hvilke etter- og videreutdanninger de gjennomfører skikkethetsvurdering i.
+
+Utvalget mener det er uheldig at det har oppstått ulik praksis for når en skikkethetsvurdering foretas. En skikkethetsvurdering er viktig for å beskytte mennesker i sårbare situasjoner, og kan samtidig være inngripende for studenten. Utvalget mener derfor det bør være klare regler for når og hvordan en skikkethetsvurdering skal gjøres.
+
+I dagens liste over utdanninger er det bare jordmor som er tatt med av videreutdanningene innenfor helsefagene. Utvalget mener det finnes gode grunner for at det også burde gjøres en skikkethetsvurdering i andre etter- og videreutdanninger, slik som for eksempel barnesykepleier og operasjonssykepleier. Det kan ha gått lang tid mellom grunnutdanningen og videreutdanningen. Det kan ha oppstått nye forhold som gjør at det er behov for en ny skikkethetsvurdering. I tillegg er mange av disse etter- og videreutdanningene innenfor yrker hvor de ansatte daglig møter mennesker i svært sårbare situasjoner. Da er det særlig viktig at de ansatte har de nødvendige forutsetninger for å kunne utøve yrket.
+
+Utvalget foreslår at skikkethetsvurdering skal gjøres i alle etter- og videreutdanninger knyttet til de grunnutdanningene som er listet opp i skikkethetsforskriften § 1. Selv om en person er funnet skikket i sin grunnutdanning, betyr ikke det nødvendigvis at personen er skikket til yrket som en etter- og videreutdanning leder til. For øvrig peker utvalget på at en person ikke mister statusen som skikket for sin grunnutdanning, slik som sykepleier, selv om vedkommende blir vurdert som uskikket i videreutdanningen, for eksempel kreftsykepleier. Det vil være opp til arbeidsgiveren å vurdere om personen kan fortsette å arbeide innenfor grunnutdanningen sin dersom vedkommende blir vurdert som uskikket i videreutdanningen.
+
+Utvalget har mottatt innspill fra Universitets- og høgskolerådet om å erstatte gjeldende § 1 i skikkethetsforskriften med en ny bestemmelse hvor det fremkommer et sett av hovedkriterier for hva som kjennetegner utdanningstilbud som skal inn under ordningen med skikkethetsvurdering. Videre mener Universitets- og høgskolerådet at kriteriene må kunne gjøres gjeldende uansett programnivå.[^456] Universitets- og høgskolerådet presiserer at med en slik utforming vil institusjonene selv kunne ta over ansvaret for å bestemme hvilke utdanningsprogram som må inn under ordningen med skikkethetsvurdering. Universitets- og høgskolerådet mener at forslaget vil gi et mer fleksibelt system enn dagens ordning, hvor Kunnskapsdepartementet må endre forskriften hyppig fordi flere spesifiserte utdanninger skal inn på en nummerert liste. Ifølge forslaget skal Kunnskapsdepartementet og NOKUT føre tilsyn og avgjøre tvilssaker.
+
+Utvalget er enig i disse poengene, men en omlegging av hele skikkethetssystemet slik Universitets- og høgskolerådet foreslår, vil kreve en større utredning enn det vi har hatt anledning til å gjennomføre. Utvalget foreslår i stedet en ordning der institusjonene kan søke departementet om å inkludere utdanninger som fører til yrker som har tilsvarende omsorgsansvar for mennesker i en særlig sårbar situasjon, dersom det oppstår et behov for å inkludere flere utdanninger enn de som er listet opp i forskriften. Dette forslaget vil etter utvalgets mening gi et mer fleksibelt system, slik Universitets- og høgskolerådet etterlyser.
+
+Institusjonene kan se opplistingen av de 27 utdanningene som en veiledning for hvilke yrker det er relevant å søke om å få inn i skikkethetsordningen, og departementet skal vurdere om den yrkessituasjonen som utdanningen munner ut i, innebærer tilsvarende ansvar for mennesker i en sårbar situasjon som utdanningene på listen. Videre skal institusjonene fremheve på hjemmesidene sine at de vil gjøre en skikkethetsvurdering i studier som de har fått godkjent gjennom søknaden.
+
+Utvalget viser til forskriftsforslaget § 1. Se punkt. 37.3.4.
+
+#### Vurderingskriterier
+
+Utvalget har fått innspill fra institusjonene om at det er vanskelig å vite hvilke kriterier som er relevante i vurderingen av en students skikkethet i de konkrete utdanningene.[^457] I dagens skikkethetsforskrift er vurderingskriteriene listet opp i §§ 3, 4 og 5. I tillegg fremkommer formålet med skikkethetsvurderingen og hovedkriteriet for at en student ikke er skikket, i § 2. Et minstekrav for å kunne stadfeste at en student ikke er skikket, er at minst ett av kriteriene i §§ 3, 4 eller 5 er oppfylt, og grunnvilkåret i § 2 er oppfylt.[^458]
+
+Vurderingskriteriene for de ulike utdanningene er mer eller mindre sammenfallende. I behandlingen av skikkethetssakene har det noen ganger vært uklart om kriterier som er relevante for noen utdanninger, også er det for andre. For eksempel er det angitt at misbruk av rusmidler bare er relevant for å vurdere skikketheten i helseutdanningene, jf. skikkethetsforskriften § 4, men ikke i lærerutdanningene eller teologiutdanningen. Det følger av rundskrivet til skikkethetsforskriften at kriteriene må suppleres med skjønn.[^459] Utvalget mener at det er behov for klarere føringer for skjønnsutøvelsen.
+
+Utvalget anser at det vil være hensiktsmessig å sammenfatte vurderingskriteriene i én bestemmelse, slik at alle kriteriene som er felles, kommer i første ledd i bestemmelsen, mens de mer spesifikke kriteriene for de ulike utdanningene kommer i andre og tredje ledd. Dette vil trolig lette saksbehandlingen i skikkethetssakene, og gjøre det tydeligere hva som skal vektlegges i skikkethetsvurderingene i de ulike utdanningene.
+
+Utvalget viser til forskriftsforslaget § 3. Se punkt. 37.3.4.
+
+#### Dokumentasjonskrav
+
+Mangelfull eller manglende dokumentasjon av faktiske opplysninger i saker om skikkethet kan gjøre det vanskelig å komme frem til rett avgjørelse. Dette bekrefter både institusjonene og felles klagenemnd. Gjeldende rett pålegger ikke studenten å legge frem dokumentasjon, og dette kan gjøre saksgangen vanskelig. Felles klagenemnd foreslår i sitt innspill å legge noe av dokumentasjonskravet over på studenten selv i skikkethetssakene. Forslaget går ut på at dersom studenten etter å ha blitt oppfordret til å legge frem dokumentasjon likevel velger å ikke gjøre det, vil dette være et moment i helhetsvurderingen som kan trekke i studentens disfavør i en sak om studentens skikkethet.
+
+I politiattestsakene er kravet om dokumentasjon lagt på studenten, og det følger av opptaksforskriften § 6-6 at «\[s\]økjarar eller studentar som ikkje legg fram politiattest i samsvar med reglane i denne forskrifta, har ikkje rett til å delta i klinisk undervisning eller praksis ved den aktuelle utdanninga».[^460] Regelen i politiattestsakene er naturlig fordi det bare er studenten som har mulighet til å innhente politiattest. Situasjonen er litt annerledes i skikkethetssaker hvor institusjonen ofte vil ha noe kunnskap om studenten, men også her kan det være et behov for å pålegge studenten et ansvar for å fremlegge informasjon.
+
+Mye av dokumentasjonen som er relevant i en sak om skikkethet, er det bare studenten som har anledning til å innhente. Særlig gjelder dette i saker som gjelder studentens helsetilstand. Denne typen informasjon er særpreget ved at den ofte vil være taushetsbelagt, og et krav om dokumentasjon reiser prinsipielle spørsmål. Samtidig er institusjonene avhengig av tilstrekkelig informasjon for å kunne fatte vedtak som ivaretar de hensynene som ligger bak skikkethetsreglene. Studenten vil uansett ikke være pliktig til å legge frem taushetsbelagt informasjon. På bakgrunn av dette foreslår utvalget å innføre en ny bestemmelse i skikkethetsforskriften som sier at hvis studenten på oppfordring ikke legger frem relevant dokumentasjon i en sak, kan det få betydning for utfallet av saken.
+
+Forslaget er et uttrykk for alminnelige saksbehandlingsregler som også følger av forvaltningsloven. Særlig relevant er forvaltningsloven § 17 første ledd som fastsetter at «forvaltningsorganet skal påse at saken er så godt opplyst som mulig før vedtak treffes», jf. også forvaltningsloven § 11 fjerde ledd. Dette innebærer blant annet at hvis det er usikkerhet som vil kunne slå ut i partens disfavør, vil det i saken kunne legges vekt på om parten har mulighet og foranledning til selv å oppklare forholdet. Basert på disse reglene kan institusjonen fatte et vedtak i en skikkethetssak om utestenging, selv om saken ikke er helt opplyst eller ikke all informasjon er tilgjengelig. Utvalget anser likevel at det er behov for en presisering av dette i skikkethetsforskriften, slik at studenten ikke skal være i tvil om at det å unnlate å gi opplysninger kan ha betydning i saken.
+
+Utvalget viser til forskriftsforslaget i punkt 37.3.4.
+
+#### Anonyme tvilsmeldinger
+
+Reglene om tvilsmeldinger i universitets- og høyskoleloven regulerer ikke spørsmålet om den som leverer en tvilsmelding, kan være eller forbli anonym, verken overfor den tvilsmeldingen gjelder, eller overfor institusjonen. Som redegjort for i punkt 23.2.2.3. kan den som leverer en tvilsmelding, bare være anonym overfor den meldingen gjelder, der vedkommende ikke oppgir sin identitet, eller der særlige grunner taler for det og det ikke er av vesentlig betydning for en part å bli gjort kjent med kildens identitet, jf. forvaltningsloven § 19 andre ledd bokstav b. Dette er også omtalt i rundskrivet til skikkethetsforskriften, der det står at hovedregelen er at den det blir varslet om, må bli informert om identiteten til varsleren, men at det er anledning til å bruke forvaltningsloven § 19 som hjemmel for å verne kilden.[^461]
+
+Utvalget har vurdert om universitets- og høyskoleloven bør regulere adgangen til å levere anonyme tvilsmeldinger på en måte som legger bedre til rette for at den som leverer en tvilsmelding, kan forbli anonym overfor den meldingen gjelder. I vurderingen av om identiteten til melderen skal bli gjort kjent, er det relevant å se hen til to forhold: på den ene siden faren for konsekvenser for den som har levert meldingen, og på den andre siden hvor viktig det er for den det blir varslet om, å få vite hvem varsleren er. Utvalget ser at det er gode argumenter som taler for at identiteten til melderen blir gjort kjent overfor den tvilsmeldingen gjelder. Den det blir varslet om, har da bedre mulighet til å kunne tilbakevise uriktige varsler som eksempelvis kan skyldes hevnmotiv. Det er ikke usannsynlig at det blir innlevert færre useriøse varsler når melderen må oppgi identiteten sin. I tillegg vil institusjonen få mulighet til å innhente mer informasjon fra melderen dersom identiteten er kjent. Dette hensynet kan også ivaretas ved at melderen ikke er anonym overfor institusjonen, men bare overfor den tvilsmeldingen gjelder.
+
+Utvalget ser også at det er en fare for at mange velger å ikke varsle om students skikkethet hvis de må oppgi identiteten sin overfor den tvilsmeldingen gjelder. Redselen for represalier og ubehaget ved at den de varsler om, vil få vite identiteten deres, kan føre til at færre velger å varsle. Institusjonene kan dermed få langt færre tvilsmeldinger enn de egentlig burde fått. Et anonymt varsel vil vanligvis måtte vurderes med noe større skepsis fordi det kan være motivert av utenforliggende forhold, men dette må institusjonene ta med i vurderingen av hvor mye vekt de skal legge på et slikt varsel, og hvor grundig de skal undersøke saken. Et anonymt varsel kan imidlertid også være tilstrekkelig detaljert og konkret til å kunne følges opp relativt enkelt og kunne ha stor troverdighet.
+
+Det finnes eksempler fra forvaltningspraksis på at det er gjort unntak fra hovedregelen om at parten har rett til innsyn i hvem som varslet. Unntak har for eksempel blitt gjort i saker hvor foreldre har klaget på barnas lærer. Begrunnelsen for unntaket har vært frykt for represalier mot barna. Det har i disse sakene vært vurdert at det ikke har vært av vesentlig betydning for læreren å vite hvilken forelder som har klaget. Utvalget ser at de samme hensynene vil kunne gjøre seg gjeldende ved vurderingen av en students skikkethet.
+
+I situasjoner der det er behov for anonymitet, vil institusjonene kunne få informasjon om hvem som har varslet, uten at de som hovedregel gir denne informasjonen videre til studenten det har blitt varslet om, med hjemmel i forvaltningsloven. På denne måten opprettholdes også hensynet til at institusjonene kan innhente mer informasjon.
+
+Utvalget har kommet til at det ikke vil foreslå endringer i universitets- og høyskoleloven på dette punktet, men vil oppfordre institusjonene til å legge til rette for at studenter og andre kan varsle anonymt innenfor de rammene som forvaltningsloven setter opp til å holde varslerens identitet skjult overfor studenten det er varslet om.
